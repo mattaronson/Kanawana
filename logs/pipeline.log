@@ -49,3 +49,19 @@
   - Raw cache files not restorable (proxy blocks archive.org and drive.google.com)
   - Fixed src_brochure_1922 origin_url: 1922-kanawana-brochure → 1922-kamp-kanawana-brochure
   - Priority p_007 completed (stale)
+
+2026-02-11T07:30:00Z | RALPH R1 | centennial-1967.md — Formal RALPH loop (stub → draft)
+  - RETRIEVE: Compiled 22 existing centennial-category KB facts. Web search for Voyageur Canoe Pageant, CCA Centenary Journey, Taylor Statten, Bruce Hodgins, Don Starkell. Sources: Wikipedia, Canadian History Ehx, CCA history, Manitoba Sports Hall of Fame, Trent University Archives.
+  - ANALYZE: Critical finding — two distinct 1967 canoe events. The competitive Voyageur Canoe Pageant (federal, 10 provincial teams, Rocky Mountain House to Expo 67) and the CCA Centenary Journey (youth/camping, coast-to-coast). Kanawana participated in the latter only. Six boys + two counsellors, 150 miles Montreal to Ottawa. Busload of campers greeted them singing. Extensive detail on the Pageant now available.
+  - LOOP: CONCLUDE — sufficient material for draft. Key gaps: paddler identities, itinerary details, family camping project.
+  - PROCESS: Added f_0387-f_0394 (8 new facts). Added 8 new sources. Wrote centennial-1967.md draft (1200 words, 6 sections, 14 footnotes, 6 open questions). Advanced article stub → draft. KB now at 394 facts, 33 sources.
+  - HYPOTHESIZE: Concordia 12B01 (1967 season reports) would identify the six paddlers. Sub-series 13E (Centennial records) would detail the family camping project. Trent University Archives hold CCA trip logs.
+  - Priority p_009 completed
+
+2026-02-11T08:00:00Z | RALPH R1 | harold-cross.md — Formal RALPH loop (people stub research)
+  - RETRIEVE: Web searches for "Harold Cross" YMCA Montreal, "Harold C. Cross", "100 Years of Service to Youth", Concordia Archives fonds, camp directors 1920s-1930s. Checked WorldCat, BAnQ, Legacy.com obituaries, Kautz YMCA Archives. Fetched Concordia fonds sub-series 1B and 14D finding aids. Checked McMorris thesis metadata, QAHN article, Internet Archive 1935 history. Dead ends: no biographical records (birth/death), no WorldCat catalog entry for the 1951 book, no obituary found, Internet Archive and Concordia PDF access blocked (403 errors).
+  - ANALYZE: Key finding — book title is "100 Years of Service to Youth" (not "with Youth"). Also referenced as "One Hundred Years: The Story of the Montreal Y.M.C.A." Full manuscript + chapter drafts + production materials survive in Concordia fonds 1B. Extensive correspondence 1939-1957. Boys' Work file 1940-1945 in fonds 14D. Cross corresponded with Murray G. Ross (1910-2000), who wrote the parallel national YMCA history for Ryerson Press. F.G. Hubbard wrote 1976 continuation. 1971 photograph brackets alive date. Memo to Les Copland 1938 is earliest document. R.H. Hanagan identified as camp director c. 1946. Nelson McEwen (camp director 1930-31) confirmed as National Council Boys' Work Secretary 1941-1945. Hedley G. Dimock identified as staff development coordinator who researched at Kanawana 1960-61.
+  - LOOP: CONCLUDE — web sources saturated. Major gaps require physical archival access at Concordia.
+  - PROCESS: Corrected f_0039 (book title). Added f_0395-f_0410 (16 new facts). Added 5 new sources (src_concordia_fonds_1B, src_concordia_fonds_14D, src_concordia_atom_kanawana, src_wikipedia_murray_ross). Wrote harold-cross.md stub (750 words, 6 open questions, 5 sources cited). KB now at 402 facts, 38 sources.
+  - HYPOTHESIZE: Physical visit to Concordia Archives needed for: (1) manuscript of 100 Years of Service to Youth, (2) Harold Cross correspondence files, (3) Permanent Camp Committee minute book 1911-1926 which would list directors. McMorris thesis full PDF (blocked) likely contains more detail on Cross's directorship and Council Ring/totem pole. The 1935 History of Kamp Kanawana on Internet Archive (also blocked) may name directors from the 1920s.
+  - Priority p_010 completed

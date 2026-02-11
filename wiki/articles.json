@@ -204,35 +204,37 @@
     },
     {
       "article_id": "harold-cross",
-      "title": "Harold Cross",
+      "title": "Harold C. Cross",
       "wiki_folder": "people",
       "status": "stub",
       "status_history": [
-        {"status": "stub", "at": "2026-02-08T00:00:00Z", "by": "auto", "task": "RESEARCH"}
+        {"status": "stub", "at": "2026-02-08T00:00:00Z", "by": "auto", "task": "RESEARCH"},
+        {"status": "stub", "at": "2026-02-11T08:00:00Z", "by": "auto", "task": "RESEARCH"}
       ],
-      "ralph_loops_completed": 0,
-      "kb_facts_used": [],
-      "sources_cited": ["src_mcmorris_thesis", "src_concordia_fonds"],
-      "open_questions": 3,
-      "cross_links": ["council-ring", "directors-index"],
+      "ralph_loops_completed": 1,
+      "kb_facts_used": ["f_0038", "f_0039", "f_0395", "f_0396", "f_0397", "f_0398", "f_0399", "f_0400", "f_0401", "f_0402", "f_0403", "f_0407"],
+      "sources_cited": ["src_mcmorris_thesis", "src_concordia_fonds", "src_concordia_fonds_1B", "src_concordia_fonds_14D", "src_wikipedia_murray_ross"],
+      "open_questions": 6,
+      "cross_links": ["council-ring", "directors-index", "centennial-1967"],
       "file_id": null,
-      "word_count": 0
+      "word_count": 750
     },
     {
       "article_id": "centennial-1967",
       "title": "The 1967 Centennial and Kanawana",
       "wiki_folder": "chronology",
-      "status": "stub",
+      "status": "draft",
       "status_history": [
-        {"status": "stub", "at": "2026-02-08T00:00:00Z", "by": "auto", "task": "RESEARCH"}
+        {"status": "stub", "at": "2026-02-08T00:00:00Z", "by": "auto", "task": "RESEARCH"},
+        {"status": "draft", "at": "2026-02-11T07:30:00Z", "by": "auto", "task": "WRITE"}
       ],
-      "ralph_loops_completed": 0,
-      "kb_facts_used": [],
-      "sources_cited": ["src_mcmorris_thesis"],
-      "open_questions": 4,
-      "cross_links": ["canoe-trips", "canadian-camping-movement"],
+      "ralph_loops_completed": 1,
+      "kb_facts_used": ["f_0246", "f_0247", "f_0282", "f_0283", "f_0284", "f_0285", "f_0286", "f_0287", "f_0288", "f_0289", "f_0290", "f_0291", "f_0292", "f_0293", "f_0294", "f_0295", "f_0296", "f_0297", "f_0298", "f_0299", "f_0300", "f_0301", "f_0362", "f_0387", "f_0388", "f_0389", "f_0390", "f_0391", "f_0392", "f_0393", "f_0394"],
+      "sources_cited": ["src_mcmorris_thesis", "src_wikipedia_voyageur_pageant", "src_canada_ehx_pageant", "src_dean_jcs", "src_cca_history", "src_wikipedia_hodgins", "src_wikipedia_starkell", "src_mb_sports_hof", "src_taylor_statten_camps", "src_concordia_fonds"],
+      "open_questions": 6,
+      "cross_links": ["canoe-trips", "canadian-camping-movement", "coeducation-gender", "founding-1894"],
       "file_id": null,
-      "word_count": 0
+      "word_count": 1200
     },
     {
       "article_id": "canadian-camping-movement",
