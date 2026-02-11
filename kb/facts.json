@@ -2,7 +2,7 @@
   "version": "4.0",
   "kb_version": "4.0",
   "migrated_from": "3.3",
-  "fact_count": 380,
+  "fact_count": 386,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -6287,6 +6287,78 @@
       "category": "programs",
       "entities": ["Camp Kanawana"],
       "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "4.1",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_0381",
+      "claim": "Lemuel Cushing Sr. (1806-1875) was a businessman and pioneer in the Ottawa valley, born in Trois-Rivières, married Catherine Hutchins 1836, had 13 children including 8 sons",
+      "sources": ["src_dcb_cushing"],
+      "confidence": "stated",
+      "category": "people",
+      "entities": ["Lemuel Cushing Sr."],
+      "date_ref": "1806",
+      "conflicts_with": [],
+      "added_version": "4.1",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_0382",
+      "claim": "Lemuel Cushing Jr. (1842-1881) was a Montreal lawyer and president of the Montreal YMCA from 1869 to 1870",
+      "sources": ["src_wikipedia_cushing"],
+      "confidence": "stated",
+      "category": "people",
+      "entities": ["Lemuel Cushing Jr.", "YMCA Montreal"],
+      "date_ref": "1869",
+      "conflicts_with": [],
+      "added_version": "4.1",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_0383",
+      "claim": "Lemuel Cushing Jr. married Ellen Myra Macdougall in 1869 and died in 1881, before the 1892 Lake St. Joseph camp trip",
+      "sources": ["src_wikipedia_cushing"],
+      "confidence": "stated",
+      "category": "people",
+      "entities": ["Lemuel Cushing Jr."],
+      "date_ref": "1881",
+      "conflicts_with": [],
+      "added_version": "4.1",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_0384",
+      "claim": "The 1892 Lemuel Cushing who brought boys to Lake St. Joseph must be a grandson or later relative of YMCA president Lemuel Jr., who died in 1881",
+      "sources": ["src_wikipedia_cushing", "src_qahn_howard"],
+      "confidence": "inferred",
+      "category": "people",
+      "entities": ["Lemuel Cushing", "Lemuel Cushing Jr."],
+      "date_ref": "1892",
+      "conflicts_with": [],
+      "added_version": "4.1",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_0385",
+      "claim": "Concordia Archives hold research reports mentioning 'Lemuel Cushing' and 'Charles Cushing' among YMCA figures in sub-series 13D",
+      "sources": ["src_concordia_fonds"],
+      "confidence": "stated",
+      "category": "people",
+      "entities": ["Lemuel Cushing", "Charles Cushing", "Concordia Archives"],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "4.1",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_0386",
+      "claim": "D.A. Budge authored a 'Memorandum of the Early Beginnings of the YMCA Work on the Canadian Pacific Railway' (1890s) and a 'Study of Possible Extension of YMCAs of Grand Trunk Railway' (1896)",
+      "sources": ["src_concordia_fonds"],
+      "confidence": "stated",
+      "category": "people",
+      "entities": ["D.A. Budge", "YMCA Montreal"],
+      "date_ref": "1896",
       "conflicts_with": [],
       "added_version": "4.1",
       "added_by": "ralph_loop"

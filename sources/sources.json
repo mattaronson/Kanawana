@@ -41,7 +41,7 @@
       "date": "1922",
       "date_precision": "year",
       "origin": "internet_archive",
-      "origin_url": "https://archive.org/details/1922-kanawana-brochure",
+      "origin_url": "https://archive.org/details/1922-kamp-kanawana-brochure",
       "cache_path": "sources/cache/brochures/1922-brochure.txt",
       "char_count": 11586,
       "ingested_at": "2026-02-10T00:00:00Z",
@@ -369,6 +369,38 @@
       "extraction_version": null,
       "reliability": "secondary",
       "notes": "Book covering 100 years at YMCA Camp Pine Crest. $19.00. Not yet acquired."
+    },
+    {
+      "source_id": "src_dcb_cushing",
+      "type": "web",
+      "title": "Dictionary of Canadian Biography - Cushing, Lemuel",
+      "date": null,
+      "date_precision": "approximate",
+      "origin": "web",
+      "origin_url": "https://www.biographi.ca/en/bio/cushing_lemuel_10E.html",
+      "cache_path": null,
+      "char_count": 0,
+      "ingested_at": "2026-02-11T07:00:00Z",
+      "extracted": true,
+      "extraction_version": "4.1",
+      "reliability": "secondary",
+      "notes": "Lemuel Cushing Sr. biography. Ottawa valley businessman, 13 children."
+    },
+    {
+      "source_id": "src_wikipedia_cushing",
+      "type": "web",
+      "title": "Wikipedia - Lemuel Cushing Jr.",
+      "date": null,
+      "date_precision": "approximate",
+      "origin": "web",
+      "origin_url": "https://en.wikipedia.org/wiki/Lemuel_Cushing_Jr.",
+      "cache_path": null,
+      "char_count": 0,
+      "ingested_at": "2026-02-11T07:00:00Z",
+      "extracted": true,
+      "extraction_version": "4.1",
+      "reliability": "tertiary",
+      "notes": "Lemuel Cushing Jr. biography. Montreal lawyer, YMCA president 1869-1870."
     }
   ]
 }

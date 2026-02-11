@@ -249,6 +249,38 @@
       "cross_links": ["founding-1894", "centennial-1967"],
       "file_id": null,
       "word_count": 0
+    },
+    {
+      "article_id": "billy-ball",
+      "title": "Billy Ball",
+      "wiki_folder": "people",
+      "status": "stub",
+      "status_history": [
+        {"status": "stub", "at": "2026-02-11T07:00:00Z", "by": "auto", "task": "RESEARCH"}
+      ],
+      "ralph_loops_completed": 1,
+      "kb_facts_used": ["f_0006", "f_0007", "f_0012"],
+      "sources_cited": ["src_ymca_website", "src_kanawana_facts", "src_qahn_howard"],
+      "open_questions": 6,
+      "cross_links": ["founding-1894", "da-budge", "cushing-family"],
+      "file_id": null,
+      "word_count": 250
+    },
+    {
+      "article_id": "cushing-family",
+      "title": "The Cushing Family and YMCA Camping",
+      "wiki_folder": "people",
+      "status": "stub",
+      "status_history": [
+        {"status": "stub", "at": "2026-02-11T07:00:00Z", "by": "auto", "task": "RESEARCH"}
+      ],
+      "ralph_loops_completed": 1,
+      "kb_facts_used": ["f_0011", "f_0185", "f_0224"],
+      "sources_cited": ["src_qahn_howard", "src_concordia_fonds", "src_mcmorris_thesis"],
+      "open_questions": 6,
+      "cross_links": ["founding-1894", "billy-ball", "da-budge"],
+      "file_id": null,
+      "word_count": 450
     }
   ]
 }

@@ -58,10 +58,11 @@
       "type": "RESEARCH",
       "description": "Cache more Green Triangle issues from Internet Archive (1932-1940, ~25 issues)",
       "article_id": null,
-      "blocking": false,
+      "blocking": true,
+      "blocking_reason": "Green Triangle issues 1932-1940 are NOT digitized on Internet Archive. Only 1938-07-29 available (already cached). Physical Concordia archives access required.",
       "assigned_weight": "P3",
       "created_at": "2026-02-10T00:00:00Z",
-      "status": "pending"
+      "status": "blocked"
     },
     {
       "priority_id": "p_006",
@@ -72,7 +73,9 @@
       "blocking": false,
       "assigned_weight": "P4",
       "created_at": "2026-02-10T00:00:00Z",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-02-11T07:00:00Z",
+      "result": "Created billy-ball.md and cushing-family.md stubs. 6 new facts (f_0381-f_0386). 2 new sources. Billy Ball underdocumented — needs archival access. Cushing family framework established but genealogical gaps remain."
     },
     {
       "priority_id": "p_007",
@@ -83,7 +86,9 @@
       "blocking": false,
       "assigned_weight": "P5",
       "created_at": "2026-02-10T00:00:00Z",
-      "status": "pending",
+      "status": "completed",
+      "completed_at": "2026-02-11T07:15:00Z",
+      "result": "STALE PRIORITY: Both sources already fully extracted in KB v3.3 (extraction_version 3.3). Facts already migrated to kb/facts.json. Raw cache files not available locally (proxy blocks IA/Drive). Fixed 1922 brochure origin_url identifier.",
       "notes": "Both sources already cached locally. 1922 brochure: 11586 chars. Gas Bag 1923: 23900 chars."
     },
     {
@@ -95,8 +100,54 @@
       "blocking": false,
       "assigned_weight": "P6",
       "created_at": "2026-02-10T00:00:00Z",
-      "status": "pending",
+      "status": "blocked",
+      "blocking": true,
+      "blocking_reason": "McMorris thesis PDF on Google Drive (proxy blocks access). Cannot fetch file ID 14ID3qU1s9B4AL_CxBgXyA32mAUE55x0M.",
       "notes": "Ch1-3 + Conclusion already extracted (78 facts). Full PDF extraction would cover remaining material."
+    },
+    {
+      "priority_id": "p_009",
+      "rank": 9,
+      "type": "RESEARCH",
+      "description": "Formal RALPH R1 on centennial-1967 stub — compile 20+ KB facts, web research on Voyageur Canoe Pageant and Expo 67 connections",
+      "article_id": "centennial-1967",
+      "blocking": false,
+      "assigned_weight": "P3",
+      "created_at": "2026-02-11T07:15:00Z",
+      "status": "pending"
+    },
+    {
+      "priority_id": "p_010",
+      "rank": 10,
+      "type": "RESEARCH",
+      "description": "Formal RALPH R1 on harold-cross stub — web research, compile KB facts, search for 'One Hundred Years of Service with Youth' (1951)",
+      "article_id": "harold-cross",
+      "blocking": false,
+      "assigned_weight": "P4",
+      "created_at": "2026-02-11T07:15:00Z",
+      "status": "pending"
+    },
+    {
+      "priority_id": "p_011",
+      "rank": 11,
+      "type": "RESEARCH",
+      "description": "Compile directors-index from KB facts — create stub with all known directors and tenure dates",
+      "article_id": "directors-index",
+      "blocking": false,
+      "assigned_weight": "P5",
+      "created_at": "2026-02-11T07:15:00Z",
+      "status": "pending"
+    },
+    {
+      "priority_id": "p_012",
+      "rank": 12,
+      "type": "RESEARCH",
+      "description": "Formal RALPH R1 on canadian-camping-movement stub — web research on Taylor Statten, OCA, CCA history",
+      "article_id": "canadian-camping-movement",
+      "blocking": false,
+      "assigned_weight": "P6",
+      "created_at": "2026-02-11T07:15:00Z",
+      "status": "pending"
     }
   ]
 }

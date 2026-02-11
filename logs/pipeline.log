@@ -25,3 +25,27 @@
   - PROCESS: Added f_0370-f_0380 (11 new facts). Added src_pine_crest_encyclopedia, src_pine_crest_book. KB now at 380 facts.
   - HYPOTHESIZE: Pine Crest book would strengthen L&V article. Concordia 12B04 needed for hebertism/honour system verification.
   - Priority p_002 completed
+
+2026-02-11T06:55:00Z | RESEARCH | Internet Archive inventory scan
+  - Searched for Green Triangle issues (1932-1940): NOT digitized. Only 1938-07-29 available.
+  - Searched for "Come to Kanawana" brochures (1928-1929): NOT found.
+  - Searched for Director's Reports (1973-1978): NOT digitized.
+  - Searched for Ka-News issues (1978, 1981): Only 1980-05 available (already known).
+  - Searched for maps and The Lookout: Physical archives only.
+  - Conclusion: Most items in the reference manual's IA inventory are NOT digitized. Only ~10 items from YMCA Montreal fonds are on archive.org.
+  - Priority p_005 blocked (physical archive access required)
+
+2026-02-11T07:00:00Z | RALPH R1 | billy-ball.md + cushing-family.md — Formal RALPH loop (people stub research)
+  - RETRIEVE: Web search for Billy Ball YMCA Montreal, Lemuel Cushing YMCA, Dictionary of Canadian Biography Cushing, Wikipedia Cushing Jr., QAHN Howard article
+  - ANALYZE: Billy Ball confirmed as 1894 trip leader but no biographical details found beyond name. Full name, role, and dates remain unknown. Cushing family multi-generational: Lemuel Sr. (1806-1875, DCB entry), Lemuel Jr. (YMCA president 1869-70, Wikipedia), 1892 Lemuel (brought boys to Lake Saint-Joseph, 2 years before formal Camp Jubilee), W.E. Cushing (1943 historical sketches), Dr. Cushing (1946 polio advisor). D.A. Budge confirmed as railway YMCA memoranda author (1890s).
+  - LOOP: CONCLUDE — Billy Ball exhausted online sources; Cushing family has good biographical framework but key genealogical links unresolved
+  - PROCESS: Created wiki/people/billy-ball.md (stub, 250 words, 6 open questions). Created wiki/people/cushing-family.md (stub, 450 words, 6 open questions). Added f_0381-f_0386 (6 new facts). Added src_dcb_cushing, src_wikipedia_cushing (2 new sources). Updated articles.json with 2 new records. KB now at 386 facts, 25 sources.
+  - HYPOTHESIZE: Billy Ball — Concordia 12L (earliest camp records) and 1895 Permanent Camp Committee minutes most promising leads. Cushing — tracing Lemuel Sr.'s 13 children through DCB would identify 1892 Lemuel. W.E. Cushing's 1943 historical sketches (Concordia P145/12A) are a priority primary source.
+  - Priority p_006 completed
+
+2026-02-11T07:15:00Z | TRIAGE | P7 assessed as stale
+  - Both src_brochure_1922 and src_gas_bag_1923 already extracted (KB v3.3, extraction_version 3.3)
+  - Facts already migrated to kb/facts.json during bootstrap
+  - Raw cache files not restorable (proxy blocks archive.org and drive.google.com)
+  - Fixed src_brochure_1922 origin_url: 1922-kanawana-brochure → 1922-kamp-kanawana-brochure
+  - Priority p_007 completed (stale)
