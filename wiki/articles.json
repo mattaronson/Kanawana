@@ -301,6 +301,22 @@
       "cross_links": ["programs-activities", "lv-games", "council-ring", "section-names"],
       "file_id": null,
       "word_count": 900
+    },
+    {
+      "article_id": "the-kanawana-site",
+      "title": "The Kanawana Site",
+      "wiki_folder": "places",
+      "status": "stub",
+      "status_history": [
+        {"status": "stub", "at": "2026-02-11T09:00:00Z", "by": "auto", "task": "WRITE"}
+      ],
+      "ralph_loops_completed": 0,
+      "kb_facts_used": ["f_0022", "f_0023", "f_0024", "f_0025", "f_0026", "f_0027", "f_0028", "f_0029", "f_0030", "f_0031", "f_0098", "f_0141", "f_0226", "f_0227", "f_0228", "f_0229", "f_0230", "f_0301", "f_0303", "f_0312", "f_0313", "f_0338", "f_0340", "f_0354"],
+      "sources_cited": ["src_ymca_website", "src_kanawana_facts", "src_brochure_1921", "src_brochure_1922", "src_gas_bag_1923", "src_green_triangle_1938", "src_mcmorris_thesis", "src_concordia_fonds"],
+      "open_questions": 6,
+      "cross_links": ["founding-1894", "council-ring", "harold-cross", "canoe-trips"],
+      "file_id": null,
+      "word_count": 750
     }
   ]
 }

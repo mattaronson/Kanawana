@@ -174,13 +174,14 @@
       "priority_id": "p_014",
       "rank": 14,
       "type": "WRITE",
-      "description": "Create geography/site article — 9 geography facts about camp location, lakes, transport, terrain",
-      "article_id": null,
+      "description": "Create geography/site article — 9 geography + 15 facilities facts",
+      "article_id": "the-kanawana-site",
       "blocking": false,
       "assigned_weight": "P4",
       "created_at": "2026-02-11T08:30:00Z",
-      "status": "pending",
-      "notes": "9 geography facts. Also 15 facilities facts partially covered by council-ring article."
+      "status": "completed",
+      "completed_at": "2026-02-11T09:00:00Z",
+      "result": "Created the-kanawana-site.md stub (750 words). 24 geography/facilities facts cited. Covers location (550 acres, Saint-Sauveur), three lakes, camp layout (Centre/Front/Lake Wilson), historical facilities, transport, proposed Weredale two-site plan. 6 open questions."
     },
     {
       "priority_id": "p_015",
