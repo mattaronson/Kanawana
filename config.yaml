@@ -1,0 +1,17 @@
+project_name: "Camp Kanawana Wiki"
+description: "A research-to-wiki pipeline for building a deep, source-grounded reference wiki on Camp Kanawana (1894-present)"
+
+drive:
+  project_folder_id: "1Q7YnhBY1gTpozuSBoZaPHxowCOhKrxNN"
+  kb_document_id: "1k6_UcrTTZUQ72XYujI1Y56Jiu9KrEQ2M"
+  v48_handoff_id: "1Mv8QVluo7oqzPvcmsqd6y3pE6v2qv70W"
+  ralph_loop_ops_manual_id: "16ok4S59eS7C_KxEf2cLQQzENMqGgF8zW"
+  ralph_loop_reference_manual_id: "1YZzUDD2lP4oFyl2V2SdfERRyqrD4h168"
+
+models:
+  extraction: "sonnet"
+  verification: "sonnet"
+  drafting: "opus"
+
+sync:
+  push_interval: 5  # Push to Drive after every N completed atomic units

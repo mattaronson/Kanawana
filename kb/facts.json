@@ -1,0 +1,6115 @@
+{
+  "version": "4.0",
+  "kb_version": "4.0",
+  "migrated_from": "3.3",
+  "fact_count": 365,
+  "facts": [
+    {
+      "fact_id": "f_0001",
+      "claim": "Camp Kanawana was originally named Camp Jubilee",
+      "sources": [
+        "src_oral_aronson"
+      ],
+      "confidence": "stated",
+      "category": "founding",
+      "entities": [
+        "Camp Kanawana",
+        "Camp Jubilee"
+      ],
+      "date_ref": "1894",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0002",
+      "claim": "Camp Jubilee was established in 1894",
+      "sources": [
+        "src_oral_aronson"
+      ],
+      "confidence": "stated",
+      "category": "founding",
+      "entities": [
+        "Camp Jubilee"
+      ],
+      "date_ref": "1894",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0003",
+      "claim": "Camp Jubilee was named for the YMCA 50th anniversary (YMCA founded 1844, jubilee year 1894)",
+      "sources": [
+        "src_mcmorris_thesis"
+      ],
+      "confidence": "stated",
+      "category": "name_origin",
+      "entities": [
+        "Camp Jubilee",
+        "YMCA"
+      ],
+      "date_ref": "1894",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0004",
+      "claim": "Camp moved to current site and was renamed Kanawana circa 1909-1910",
+      "sources": [
+        "src_history_1935"
+      ],
+      "confidence": "stated",
+      "category": "founding",
+      "entities": [
+        "Camp Kanawana"
+      ],
+      "date_ref": "1910",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0005",
+      "claim": "Camp Kanawana was the first residential camp in Quebec",
+      "sources": [
+        "src_ymca_website"
+      ],
+      "confidence": "stated",
+      "category": "founding",
+      "entities": [
+        "Camp Kanawana",
+        "Quebec"
+      ],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0006",
+      "claim": "Billy Ball was the first camp leader in 1894",
+      "sources": [
+        "src_ymca_website"
+      ],
+      "confidence": "stated",
+      "category": "founding",
+      "entities": [
+        "Billy Ball",
+        "Camp Jubilee"
+      ],
+      "date_ref": "1894",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0007",
+      "claim": "Billy Ball took a group of boys to Lake St. Joseph, Township of Howard, near Ste-Agathe in 1894",
+      "sources": [
+        "src_ymca_website"
+      ],
+      "confidence": "stated",
+      "category": "founding",
+      "entities": [
+        "Billy Ball",
+        "Lake St. Joseph"
+      ],
+      "date_ref": "1894",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0008",
+      "claim": "The 1935 History document refers to the 1935 season as the '26th year', counting from 1910",
+      "sources": [
+        "src_history_1935"
+      ],
+      "confidence": "stated",
+      "category": "founding",
+      "entities": [
+        "Camp Kanawana"
+      ],
+      "date_ref": "1935",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0009",
+      "claim": "The 1941 CFCF broadcast refers to the 1941 season as the '48th season', counting from 1894",
+      "sources": [
+        "src_cfcf_1941"
+      ],
+      "confidence": "stated",
+      "category": "founding",
+      "entities": [
+        "Camp Kanawana"
+      ],
+      "date_ref": "1941",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0010",
+      "claim": "The first enrollment at Camp Jubilee was 20 campers in 1894",
+      "sources": [
+        "src_kanawana_facts"
+      ],
+      "confidence": "stated",
+      "category": "founding",
+      "entities": [
+        "Camp Jubilee"
+      ],
+      "date_ref": "1894",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0011",
+      "claim": "Lemuel Cushing brought the first group to Lake St. Joseph in 1892",
+      "sources": [
+        "src_qahn_howard"
+      ],
+      "confidence": "stated",
+      "category": "founding",
+      "entities": [
+        "Lemuel Cushing",
+        "Lake St. Joseph"
+      ],
+      "date_ref": "1892",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0012",
+      "claim": "Billy Ball formally established Camp Jubilee in summer 1894 with 20 campers",
+      "sources": [
+        "src_kanawana_facts"
+      ],
+      "confidence": "stated",
+      "category": "founding",
+      "entities": [
+        "Billy Ball",
+        "Camp Jubilee"
+      ],
+      "date_ref": "1894",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0013",
+      "claim": "The Page family sold the land for the current Saint-Sauveur site to the YMCA",
+      "sources": [
+        "src_ymca_website"
+      ],
+      "confidence": "stated",
+      "category": "founding",
+      "entities": [
+        "Page family",
+        "YMCA",
+        "Saint-Sauveur"
+      ],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0014",
+      "claim": "The YMCA acquired the larger site from the Page family at Saint-Sauveur-des-Monts circa 1910",
+      "sources": [
+        "src_ymca_website"
+      ],
+      "confidence": "stated",
+      "category": "founding",
+      "entities": [
+        "YMCA",
+        "Page family",
+        "Saint-Sauveur"
+      ],
+      "date_ref": "1910",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0015",
+      "claim": "Camp Jubilee was located at Lake Saint-Joseph, Township of Howard (now Saint-Adolphe-d'Howard), near Sainte-Agathe",
+      "sources": [
+        "src_qahn_howard"
+      ],
+      "confidence": "stated",
+      "category": "founding",
+      "entities": [
+        "Camp Jubilee",
+        "Lake St. Joseph",
+        "Saint-Adolphe-d'Howard"
+      ],
+      "date_ref": "1894",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0016",
+      "claim": "Camp Jubilee was NOT located at Saint-Sauveur (common conflation error)",
+      "sources": [
+        "src_oral_aronson"
+      ],
+      "confidence": "user_knowledge",
+      "category": "founding",
+      "entities": [
+        "Camp Jubilee",
+        "Saint-Sauveur"
+      ],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0017",
+      "claim": "Camp Jubilee consisted of islands in Lake St. Joseph with a landing on shore; the YMCA purchased the main island plus two others",
+      "sources": [
+        "src_qahn_howard"
+      ],
+      "confidence": "stated",
+      "category": "founding",
+      "entities": [
+        "Camp Jubilee",
+        "Lake St. Joseph",
+        "YMCA"
+      ],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0018",
+      "claim": "Concordia archives (12L) contain camper lists, fishing rights, and financial records from 1893 for Camp Jubilee",
+      "sources": [
+        "src_concordia_12L"
+      ],
+      "confidence": "stated",
+      "category": "founding",
+      "entities": [
+        "Camp Jubilee",
+        "Concordia"
+      ],
+      "date_ref": "1893",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0019",
+      "claim": "John Roy served as Camp Director at least in 1901, per letters to Mr. Budge in Concordia 12L",
+      "sources": [
+        "src_concordia_12L"
+      ],
+      "confidence": "stated",
+      "category": "directors",
+      "entities": [
+        "John Roy",
+        "Camp Jubilee"
+      ],
+      "date_ref": "1901",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0020",
+      "claim": "John Roy is the earliest identified camp director",
+      "sources": [
+        "src_concordia_12L"
+      ],
+      "confidence": "stated",
+      "category": "directors",
+      "entities": [
+        "John Roy"
+      ],
+      "date_ref": "1901",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0021",
+      "claim": "People identified in an 1898 Camp Jubilee photo: W. N. Cunningham, Jim Brown, Frank L. Benedict, Ralph H. Dawson",
+      "sources": [
+        "src_concordia_12L"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "W. N. Cunningham",
+        "Jim Brown",
+        "Frank L. Benedict",
+        "Ralph H. Dawson",
+        "Camp Jubilee"
+      ],
+      "date_ref": "1898",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0022",
+      "claim": "Camp Kanawana is located approximately 90km north of Montreal, in Saint-Sauveur, in the Laurentians",
+      "sources": [
+        "src_ymca_website"
+      ],
+      "confidence": "stated",
+      "category": "geography",
+      "entities": [
+        "Camp Kanawana",
+        "Saint-Sauveur",
+        "Laurentians"
+      ],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0023",
+      "claim": "Camp Kanawana has three lakes: Lake Kanawana, Lake Wilson, and Round Lake",
+      "sources": [
+        "src_oral_aronson"
+      ],
+      "confidence": "user_knowledge",
+      "category": "geography",
+      "entities": [
+        "Camp Kanawana",
+        "Lake Kanawana",
+        "Lake Wilson",
+        "Round Lake"
+      ],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0024",
+      "claim": "There is a dam between Lake Kanawana and Lake Wilson, ceremonially opened at the end of each season",
+      "sources": [
+        "src_history_1935"
+      ],
+      "confidence": "stated",
+      "category": "geography",
+      "entities": [
+        "Lake Kanawana",
+        "Lake Wilson"
+      ],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0025",
+      "claim": "Camp Kanawana comprises 550 acres",
+      "sources": [
+        "src_kanawana_facts"
+      ],
+      "confidence": "stated",
+      "category": "geography",
+      "entities": [
+        "Camp Kanawana"
+      ],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0026",
+      "claim": "The nearest railway station was Piedmont Station CPR (as of 1921)",
+      "sources": [
+        "src_brochure_1921"
+      ],
+      "confidence": "stated",
+      "category": "geography",
+      "entities": [
+        "Camp Kanawana",
+        "Piedmont Station"
+      ],
+      "date_ref": "1921",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0027",
+      "claim": "Camp Kanawana is 45 miles from Montreal, 6 miles from Piedmont station",
+      "sources": [
+        "src_brochure_1922"
+      ],
+      "confidence": "stated",
+      "category": "geography",
+      "entities": [
+        "Camp Kanawana",
+        "Montreal",
+        "Piedmont"
+      ],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0028",
+      "claim": "Centre Camp has small cabins (no electricity/plumbing) and platform tents",
+      "sources": [
+        "src_oral_aronson"
+      ],
+      "confidence": "user_knowledge",
+      "category": "facilities",
+      "entities": [
+        "Camp Kanawana",
+        "Centre Camp"
+      ],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0029",
+      "claim": "Front Camp has the Farmhouse and Blockhouse (winterized, full kitchens, electricity)",
+      "sources": [
+        "src_oral_aronson"
+      ],
+      "confidence": "user_knowledge",
+      "category": "facilities",
+      "entities": [
+        "Camp Kanawana",
+        "Front Camp",
+        "Farmhouse",
+        "Blockhouse"
+      ],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0030",
+      "claim": "Lake Wilson area has private campsites available for rental",
+      "sources": [
+        "src_oral_aronson"
+      ],
+      "confidence": "user_knowledge",
+      "category": "facilities",
+      "entities": [
+        "Camp Kanawana",
+        "Lake Wilson"
+      ],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0031",
+      "claim": "Camp Kanawana facilities include 2 pavilions, boats and canoes, 4 diving boards, a zinc slide, chapel, Council Ring, icehouse, hospital, golf course, and tents with wood floors",
+      "sources": [
+        "src_history_1935"
+      ],
+      "confidence": "stated",
+      "category": "facilities",
+      "entities": [
+        "Camp Kanawana"
+      ],
+      "date_ref": "1935",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0032",
+      "claim": "J.W. McConnell lived from 1877 to 1963",
+      "sources": [
+        "src_wikipedia_mcconnell"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "J.W. McConnell"
+      ],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0033",
+      "claim": "J.W. McConnell moved into a YMCA room in 1901",
+      "sources": [
+        "src_wikipedia_mcconnell"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "J.W. McConnell",
+        "YMCA"
+      ],
+      "date_ref": "1901",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0034",
+      "claim": "J.W. McConnell led a YMCA fundraising campaign in 1909 raising $300,000",
+      "sources": [
+        "src_wikipedia_mcconnell"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "J.W. McConnell",
+        "YMCA"
+      ],
+      "date_ref": "1909",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0035",
+      "claim": "J.W. McConnell established the McConnell Foundation in 1937",
+      "sources": [
+        "src_mcconnell_foundation"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "J.W. McConnell",
+        "McConnell Foundation"
+      ],
+      "date_ref": "1937",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0036",
+      "claim": "J.W. McConnell donated Lake Desjardins to Camp Kanawana (date unknown)",
+      "sources": [
+        "src_oral_aronson"
+      ],
+      "confidence": "user_knowledge",
+      "category": "people",
+      "entities": [
+        "J.W. McConnell",
+        "Lake Desjardins",
+        "Camp Kanawana"
+      ],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0037",
+      "claim": "A biography of J.W. McConnell was written by William Fong, published by McGill-Queen's in 2008",
+      "sources": [
+        "src_wikipedia_mcconnell"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "J.W. McConnell",
+        "William Fong"
+      ],
+      "date_ref": "2008",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0038",
+      "claim": "Harold Cross was camp director in 1927 (and likely 1925-1928 based on archival reports)",
+      "sources": [
+        "src_mcmorris_thesis"
+      ],
+      "confidence": "stated",
+      "category": "directors",
+      "entities": [
+        "Harold Cross",
+        "Camp Kanawana"
+      ],
+      "date_ref": "1927",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0039",
+      "claim": "Harold Cross wrote 'One Hundred Years of Service with Youth' (1951), an association history",
+      "sources": [
+        "src_mcmorris_thesis"
+      ],
+      "confidence": "stated",
+      "category": "directors",
+      "entities": [
+        "Harold Cross"
+      ],
+      "date_ref": "1951",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0040",
+      "claim": "Nelson McEwen was Camp Director in 1930-1931",
+      "sources": [
+        "src_mcmorris_thesis"
+      ],
+      "confidence": "stated",
+      "category": "directors",
+      "entities": [
+        "Nelson McEwen",
+        "Camp Kanawana"
+      ],
+      "date_ref": "1930",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0041",
+      "claim": "Nelson McEwen later served as National Council Boys' Work Secretary from 1941 to 1945",
+      "sources": [
+        "src_mcmorris_thesis"
+      ],
+      "confidence": "stated",
+      "category": "directors",
+      "entities": [
+        "Nelson McEwen",
+        "YMCA"
+      ],
+      "date_ref": "1941",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0042",
+      "claim": "W.J.G. MacDiarmid was camp director in 1936 and recorded weight statistics for campers",
+      "sources": [
+        "src_mcmorris_thesis"
+      ],
+      "confidence": "stated",
+      "category": "directors",
+      "entities": [
+        "W.J.G. MacDiarmid",
+        "Camp Kanawana"
+      ],
+      "date_ref": "1936",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0043",
+      "claim": "R.H. Hanagan was Montreal YMCA camp director in 1942 and 1946",
+      "sources": [
+        "src_mcmorris_thesis"
+      ],
+      "confidence": "stated",
+      "category": "directors",
+      "entities": [
+        "R.H. Hanagan",
+        "Camp Kanawana"
+      ],
+      "date_ref": "1942",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0044",
+      "claim": "R.H. Hanagan wrote detailed season reports and handled the 1946 polio outbreak",
+      "sources": [
+        "src_mcmorris_thesis"
+      ],
+      "confidence": "stated",
+      "category": "directors",
+      "entities": [
+        "R.H. Hanagan",
+        "Camp Kanawana"
+      ],
+      "date_ref": "1946",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0045",
+      "claim": "Sean Day served as Regional Director of Camps, YMCA Quebec and Director of Kanawana from 2004 to April 2023 (19 years)",
+      "sources": [
+        "src_oral_aronson"
+      ],
+      "confidence": "user_knowledge",
+      "category": "directors",
+      "entities": [
+        "Sean Day",
+        "Camp Kanawana",
+        "YMCA Quebec"
+      ],
+      "date_ref": "2004",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0046",
+      "claim": "Sean Day was present when Stuart McLean returned to camp in 2005",
+      "sources": [
+        "src_samaritanmag_mclean"
+      ],
+      "confidence": "stated",
+      "category": "directors",
+      "entities": [
+        "Sean Day",
+        "Stuart McLean",
+        "Camp Kanawana"
+      ],
+      "date_ref": "2005",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0047",
+      "claim": "Howie Langille was Chief/Director in 1941 as identified in the CFCF radio broadcast",
+      "sources": [
+        "src_cfcf_1941"
+      ],
+      "confidence": "stated",
+      "category": "directors",
+      "entities": [
+        "Howie Langille",
+        "Camp Kanawana"
+      ],
+      "date_ref": "1941",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0048",
+      "claim": "Howie Langille led the 48th season in 1941 with 68 staff and 30+ evacuees",
+      "sources": [
+        "src_cfcf_1941"
+      ],
+      "confidence": "stated",
+      "category": "directors",
+      "entities": [
+        "Howie Langille",
+        "Camp Kanawana"
+      ],
+      "date_ref": "1941",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0049",
+      "claim": "Ralph Dawson wrote a history of Kamp Kanawana (1933), held in Concordia Archives",
+      "sources": [
+        "src_concordia_fonds"
+      ],
+      "confidence": "stated",
+      "category": "directors",
+      "entities": [
+        "Ralph Dawson",
+        "Camp Kanawana"
+      ],
+      "date_ref": "1933",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0050",
+      "claim": "Ralph Dawson is confirmed as an 1898 photo participant, making him distinct from the anonymous 1935 season chronicle author",
+      "sources": [
+        "src_concordia_12L"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "Ralph Dawson"
+      ],
+      "date_ref": "1898",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0051",
+      "claim": "G.D. Brandon was camp director in 1921",
+      "sources": [
+        "src_brochure_1921"
+      ],
+      "confidence": "stated",
+      "category": "directors",
+      "entities": [
+        "G.D. Brandon",
+        "Camp Kanawana"
+      ],
+      "date_ref": "1921",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0052",
+      "claim": "H.H. Hart served as camp doctor in 1921",
+      "sources": [
+        "src_brochure_1921"
+      ],
+      "confidence": "stated",
+      "category": "staff",
+      "entities": [
+        "H.H. Hart",
+        "Camp Kanawana"
+      ],
+      "date_ref": "1921",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0053",
+      "claim": "F.H. Spinney served as Educational Director in 1921 (his 5th year)",
+      "sources": [
+        "src_brochure_1921"
+      ],
+      "confidence": "stated",
+      "category": "staff",
+      "entities": [
+        "F.H. Spinney",
+        "Camp Kanawana"
+      ],
+      "date_ref": "1921",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0054",
+      "claim": "Harry Smith served as chef in 1921 (his 9th year, since approximately 1913)",
+      "sources": [
+        "src_brochure_1921"
+      ],
+      "confidence": "stated",
+      "category": "staff",
+      "entities": [
+        "Harry Smith",
+        "Camp Kanawana"
+      ],
+      "date_ref": "1921",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0055",
+      "claim": "Lemuel P. Ereaux was camp director in 1922 (his 11th summer, 4th year McGill Medicine; also served as Camp Doctor)",
+      "sources": [
+        "src_brochure_1922"
+      ],
+      "confidence": "stated",
+      "category": "staff",
+      "entities": [
+        "Lemuel P. Ereaux",
+        "Camp Kanawana"
+      ],
+      "date_ref": "1922",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0056",
+      "claim": "Hay Finlay was Senior Section director in 1922 (ex Central YMCA Boys Physical Director, then McGill Phys Ed)",
+      "sources": [
+        "src_brochure_1922"
+      ],
+      "confidence": "stated",
+      "category": "staff",
+      "entities": [
+        "Hay Finlay",
+        "Camp Kanawana"
+      ],
+      "date_ref": "1922",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0057",
+      "claim": "Edwin M. Crawford was Junior Section director in 1922 (ex Westmount YMCA Boys Work Secretary)",
+      "sources": [
+        "src_brochure_1922"
+      ],
+      "confidence": "stated",
+      "category": "staff",
+      "entities": [
+        "Edwin M. Crawford",
+        "Camp Kanawana"
+      ],
+      "date_ref": "1922",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0058",
+      "claim": "F.H. Spinney served as Educational Director in 1922 (teaching basketry)",
+      "sources": [
+        "src_brochure_1922"
+      ],
+      "confidence": "stated",
+      "category": "staff",
+      "entities": [
+        "F.H. Spinney",
+        "Camp Kanawana"
+      ],
+      "date_ref": "1922",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0059",
+      "claim": "Harry Smith was chef in 1922 (his 10th year, since approximately 1913)",
+      "sources": [
+        "src_brochure_1922"
+      ],
+      "confidence": "stated",
+      "category": "staff",
+      "entities": [
+        "Harry Smith",
+        "Camp Kanawana"
+      ],
+      "date_ref": "1922",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0060",
+      "claim": "Johnston W. Abraham was Business Manager in 1922 (his 9th year, since approximately 1914)",
+      "sources": [
+        "src_brochure_1922"
+      ],
+      "confidence": "stated",
+      "category": "staff",
+      "entities": [
+        "Johnston W. Abraham",
+        "Camp Kanawana"
+      ],
+      "date_ref": "1922",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0061",
+      "claim": "Philip G. Paterson was Camp Chief in 1923 (Boys' Work Secretary, Westmount YMCA)",
+      "sources": [
+        "src_brochure_1923"
+      ],
+      "confidence": "stated",
+      "category": "staff",
+      "entities": [
+        "Philip G. Paterson",
+        "Camp Kanawana"
+      ],
+      "date_ref": "1923",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0062",
+      "claim": "Howard Ellis was Junior Director in 1923 (Boys' Physical Director, Central YMCA)",
+      "sources": [
+        "src_brochure_1923"
+      ],
+      "confidence": "stated",
+      "category": "staff",
+      "entities": [
+        "Howard Ellis",
+        "Camp Kanawana"
+      ],
+      "date_ref": "1923",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0063",
+      "claim": "L.P. Little ('Bones') was camp doctor in 1923 (6th year McGill Medical)",
+      "sources": [
+        "src_brochure_1923"
+      ],
+      "confidence": "stated",
+      "category": "staff",
+      "entities": [
+        "L.P. Little",
+        "Camp Kanawana"
+      ],
+      "date_ref": "1923",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0064",
+      "claim": "Allan B. Cornell was Educational Director in 1923 (his 6th year, since approximately 1918)",
+      "sources": [
+        "src_brochure_1923"
+      ],
+      "confidence": "stated",
+      "category": "staff",
+      "entities": [
+        "Allan B. Cornell",
+        "Camp Kanawana"
+      ],
+      "date_ref": "1923",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0065",
+      "claim": "H.K. Ashdown ran the Senior Division in 1923 (McGill Theology)",
+      "sources": [
+        "src_brochure_1923"
+      ],
+      "confidence": "stated",
+      "category": "staff",
+      "entities": [
+        "H.K. Ashdown",
+        "Camp Kanawana"
+      ],
+      "date_ref": "1923",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0066",
+      "claim": "Reg Cowan was Business Manager in 1923 (8 years experience, since approximately 1915)",
+      "sources": [
+        "src_brochure_1923"
+      ],
+      "confidence": "stated",
+      "category": "staff",
+      "entities": [
+        "Reg Cowan",
+        "Camp Kanawana"
+      ],
+      "date_ref": "1923",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0067",
+      "claim": "Chief Davis (R.E.G. Davis) served as Camp Chief during the 1923 season (per Gas Bag)",
+      "sources": [
+        "src_gas_bag_1923"
+      ],
+      "confidence": "stated",
+      "category": "staff",
+      "entities": [
+        "R.E.G. Davis",
+        "Camp Kanawana"
+      ],
+      "date_ref": "1923",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0068",
+      "claim": "Doc Ross served as camp doctor during the 1923 season (per Gas Bag)",
+      "sources": [
+        "src_gas_bag_1923"
+      ],
+      "confidence": "stated",
+      "category": "staff",
+      "entities": [
+        "Doc Ross",
+        "Camp Kanawana"
+      ],
+      "date_ref": "1923",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0069",
+      "claim": "Staff member 'Hardie' was active during the 1923 season",
+      "sources": [
+        "src_gas_bag_1923"
+      ],
+      "confidence": "stated",
+      "category": "staff",
+      "entities": [
+        "Hardie",
+        "Camp Kanawana"
+      ],
+      "date_ref": "1923",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0070",
+      "claim": "Staff member 'Sunny' worked in the kitchen during the 1923 season",
+      "sources": [
+        "src_gas_bag_1923"
+      ],
+      "confidence": "stated",
+      "category": "staff",
+      "entities": [
+        "Sunny",
+        "Camp Kanawana"
+      ],
+      "date_ref": "1923",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0071",
+      "claim": "Bill Steeves was on staff during the 1923 season",
+      "sources": [
+        "src_gas_bag_1923"
+      ],
+      "confidence": "stated",
+      "category": "staff",
+      "entities": [
+        "Bill Steeves",
+        "Camp Kanawana"
+      ],
+      "date_ref": "1923",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0072",
+      "claim": "Dave Hart was on staff during the 1923 season",
+      "sources": [
+        "src_gas_bag_1923"
+      ],
+      "confidence": "stated",
+      "category": "staff",
+      "entities": [
+        "Dave Hart",
+        "Camp Kanawana"
+      ],
+      "date_ref": "1923",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0073",
+      "claim": "Wilf Eagle was on staff during the 1923 season",
+      "sources": [
+        "src_gas_bag_1923"
+      ],
+      "confidence": "stated",
+      "category": "staff",
+      "entities": [
+        "Wilf Eagle",
+        "Camp Kanawana"
+      ],
+      "date_ref": "1923",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0074",
+      "claim": "Guiton was assigned to North Branch during the 1923 season",
+      "sources": [
+        "src_gas_bag_1923"
+      ],
+      "confidence": "stated",
+      "category": "staff",
+      "entities": [
+        "Guiton",
+        "Camp Kanawana",
+        "North Branch"
+      ],
+      "date_ref": "1923",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0075",
+      "claim": "Allan Cornell held the Large K badge (highest honour award) as of 1923",
+      "sources": [
+        "src_gas_bag_1923"
+      ],
+      "confidence": "stated",
+      "category": "staff",
+      "entities": [
+        "Allan Cornell",
+        "Camp Kanawana"
+      ],
+      "date_ref": "1923",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0076",
+      "claim": "Reg Cowan held the Large K badge (highest honour award) as of 1923",
+      "sources": [
+        "src_gas_bag_1923"
+      ],
+      "confidence": "stated",
+      "category": "staff",
+      "entities": [
+        "Reg Cowan",
+        "Camp Kanawana"
+      ],
+      "date_ref": "1923",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0077",
+      "claim": "Greig Macdiarmid was Camp Chief in 1935",
+      "sources": [
+        "src_history_1935"
+      ],
+      "confidence": "stated",
+      "category": "staff",
+      "entities": [
+        "Greig Macdiarmid",
+        "Camp Kanawana"
+      ],
+      "date_ref": "1935",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0078",
+      "claim": "Howie Langille was Senior Director in 1935",
+      "sources": [
+        "src_history_1935"
+      ],
+      "confidence": "stated",
+      "category": "staff",
+      "entities": [
+        "Howie Langille",
+        "Camp Kanawana"
+      ],
+      "date_ref": "1935",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0079",
+      "claim": "Ernie Taylor was Junior Director in 1935",
+      "sources": [
+        "src_history_1935"
+      ],
+      "confidence": "stated",
+      "category": "staff",
+      "entities": [
+        "Ernie Taylor",
+        "Camp Kanawana"
+      ],
+      "date_ref": "1935",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0080",
+      "claim": "Lorne Hamilton was Juvenile Director in 1935",
+      "sources": [
+        "src_history_1935"
+      ],
+      "confidence": "stated",
+      "category": "staff",
+      "entities": [
+        "Lorne Hamilton",
+        "Camp Kanawana"
+      ],
+      "date_ref": "1935",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0081",
+      "claim": "Dr. Weavers was camp doctor in 1935, later replaced by Dr. Eardley",
+      "sources": [
+        "src_history_1935"
+      ],
+      "confidence": "stated",
+      "category": "staff",
+      "entities": [
+        "Dr. Weavers",
+        "Dr. Eardley",
+        "Camp Kanawana"
+      ],
+      "date_ref": "1935",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0082",
+      "claim": "There were 35 counsellors at Camp Kanawana in 1935",
+      "sources": [
+        "src_history_1935"
+      ],
+      "confidence": "stated",
+      "category": "staff",
+      "entities": [
+        "Camp Kanawana"
+      ],
+      "date_ref": "1935",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0083",
+      "claim": "Chief Macdiarmid was confirmed as camp chief in July 1938 (extending known tenure from 1935)",
+      "sources": [
+        "src_green_triangle_1938"
+      ],
+      "confidence": "stated",
+      "category": "staff",
+      "entities": [
+        "Greig Macdiarmid",
+        "Camp Kanawana"
+      ],
+      "date_ref": "1938",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0084",
+      "claim": "Dox Wims was a tent leader at Kanawana in 1938",
+      "sources": [
+        "src_green_triangle_1938"
+      ],
+      "confidence": "stated",
+      "category": "staff",
+      "entities": [
+        "Dox Wims",
+        "Camp Kanawana"
+      ],
+      "date_ref": "1938",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0085",
+      "claim": "'Ima Brute' / 'Mr. Brute' was section director of Mount Ritz in 1938",
+      "sources": [
+        "src_green_triangle_1938"
+      ],
+      "confidence": "stated",
+      "category": "staff",
+      "entities": [
+        "Mr. Brute",
+        "Camp Kanawana",
+        "Mount Ritz"
+      ],
+      "date_ref": "1938",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0086",
+      "claim": "Benny Lashley organized the choir at Kanawana in 1938",
+      "sources": [
+        "src_green_triangle_1938"
+      ],
+      "confidence": "stated",
+      "category": "staff",
+      "entities": [
+        "Benny Lashley",
+        "Camp Kanawana"
+      ],
+      "date_ref": "1938",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0087",
+      "claim": "Morrey Cross was assigned to Tent 3 Juvenile in 1938",
+      "sources": [
+        "src_green_triangle_1938"
+      ],
+      "confidence": "stated",
+      "category": "staff",
+      "entities": [
+        "Morrey Cross",
+        "Camp Kanawana"
+      ],
+      "date_ref": "1938",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0088",
+      "claim": "'Shrivell' operated the telegraph/radio at Kanawana in 1938",
+      "sources": [
+        "src_green_triangle_1938"
+      ],
+      "confidence": "stated",
+      "category": "staff",
+      "entities": [
+        "Shrivell",
+        "Camp Kanawana"
+      ],
+      "date_ref": "1938",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0089",
+      "claim": "A staff member named 'Smith' woke the Juveniles at Kanawana in 1938",
+      "sources": [
+        "src_green_triangle_1938"
+      ],
+      "confidence": "stated",
+      "category": "staff",
+      "entities": [
+        "Smith",
+        "Camp Kanawana"
+      ],
+      "date_ref": "1938",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0090",
+      "claim": "The camp doctor in 1938 was shared between Kanawana and the Junior League camp",
+      "sources": [
+        "src_green_triangle_1938"
+      ],
+      "confidence": "stated",
+      "category": "staff",
+      "entities": [
+        "Camp Kanawana",
+        "Junior League camp"
+      ],
+      "date_ref": "1938",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0091",
+      "claim": "Edgar Smee was Juvenile section director in 1939",
+      "sources": [
+        "src_mcmorris_thesis"
+      ],
+      "confidence": "stated",
+      "category": "staff",
+      "entities": [
+        "Edgar Smee",
+        "Camp Kanawana"
+      ],
+      "date_ref": "1939",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0092",
+      "claim": "Howie Langille was Camp Chief in 1941",
+      "sources": [
+        "src_cfcf_1941"
+      ],
+      "confidence": "stated",
+      "category": "staff",
+      "entities": [
+        "Howie Langille",
+        "Camp Kanawana"
+      ],
+      "date_ref": "1941",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0093",
+      "claim": "Total staff at Kanawana in 1941 was 68",
+      "sources": [
+        "src_cfcf_1941"
+      ],
+      "confidence": "stated",
+      "category": "staff",
+      "entities": [
+        "Camp Kanawana"
+      ],
+      "date_ref": "1941",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0094",
+      "claim": "45 counsellors were selected out of 58 trained applicants in 1941",
+      "sources": [
+        "src_cfcf_1941"
+      ],
+      "confidence": "stated",
+      "category": "staff",
+      "entities": [
+        "Camp Kanawana"
+      ],
+      "date_ref": "1941",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0095",
+      "claim": "30+ evacuees from England, Scotland, and European countries were at camp in 1941",
+      "sources": [
+        "src_cfcf_1941"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "Camp Kanawana"
+      ],
+      "date_ref": "1941",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0096",
+      "claim": "J.W. Perks (Assistant Superintendent, Protestant School Board) chaired the Personnel Committee in 1941",
+      "sources": [
+        "src_cfcf_1941"
+      ],
+      "confidence": "stated",
+      "category": "staff",
+      "entities": [
+        "J.W. Perks",
+        "Camp Kanawana"
+      ],
+      "date_ref": "1941",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0097",
+      "claim": "14 counsellors formed the advance party preparing camp before the 1941 season",
+      "sources": [
+        "src_cfcf_1941"
+      ],
+      "confidence": "stated",
+      "category": "staff",
+      "entities": [
+        "Camp Kanawana"
+      ],
+      "date_ref": "1941",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0098",
+      "claim": "Carpenters worked for 2 months before the 1941 camp opening",
+      "sources": [
+        "src_cfcf_1941"
+      ],
+      "confidence": "stated",
+      "category": "facilities",
+      "entities": [
+        "Camp Kanawana"
+      ],
+      "date_ref": "1941",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0099",
+      "claim": "Dave and Don were Junior Counsellors in 1940 who wrote a farewell letter",
+      "sources": [
+        "src_cfcf_1941"
+      ],
+      "confidence": "stated",
+      "category": "staff",
+      "entities": [
+        "Dave",
+        "Don",
+        "Camp Kanawana"
+      ],
+      "date_ref": "1940",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0100",
+      "claim": "Registrations in 1941 were 30% higher than the previous year",
+      "sources": [
+        "src_cfcf_1941"
+      ],
+      "confidence": "stated",
+      "category": "programs",
+      "entities": [
+        "Camp Kanawana"
+      ],
+      "date_ref": "1941",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0101",
+      "claim": "The first group of approximately 100 campers opened the 1941 season on June 28",
+      "sources": [
+        "src_cfcf_1941"
+      ],
+      "confidence": "stated",
+      "category": "programs",
+      "entities": [
+        "Camp Kanawana"
+      ],
+      "date_ref": "1941",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0102",
+      "claim": "The 1941 CFCF broadcast aired at 8:50 PM Thursday on CFCF radio, with the Chief interviewed by an announcer",
+      "sources": [
+        "src_cfcf_1941"
+      ],
+      "confidence": "stated",
+      "category": "brochures",
+      "entities": [
+        "Camp Kanawana",
+        "CFCF"
+      ],
+      "date_ref": "1941",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0103",
+      "claim": "Radio was an active marketing channel for Camp Kanawana, with a broadcast series from 1936 to 1941 per Concordia archives",
+      "sources": [
+        "src_concordia_fonds"
+      ],
+      "confidence": "stated",
+      "category": "brochures",
+      "entities": [
+        "Camp Kanawana",
+        "CFCF"
+      ],
+      "date_ref": "1936",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0104",
+      "claim": "103 non-swimmers attended the previous season (1940); 55 passed swimming tests",
+      "sources": [
+        "src_cfcf_1941"
+      ],
+      "confidence": "stated",
+      "category": "programs",
+      "entities": [
+        "Camp Kanawana"
+      ],
+      "date_ref": "1940",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0105",
+      "claim": "90 life saving awards were given in the previous season (1940)",
+      "sources": [
+        "src_cfcf_1941"
+      ],
+      "confidence": "stated",
+      "category": "programs",
+      "entities": [
+        "Camp Kanawana"
+      ],
+      "date_ref": "1940",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0106",
+      "claim": "'Dave' was the camp director and Ka-News newsletter author in 1980",
+      "sources": [
+        "src_ka_news_1980"
+      ],
+      "confidence": "stated",
+      "category": "staff",
+      "entities": [
+        "Dave",
+        "Camp Kanawana"
+      ],
+      "date_ref": "1980",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0107",
+      "claim": "Nancy Sawyer was Assistant Director at Kanawana in 1980",
+      "sources": [
+        "src_ka_news_1980"
+      ],
+      "confidence": "stated",
+      "category": "staff",
+      "entities": [
+        "Nancy Sawyer",
+        "Camp Kanawana"
+      ],
+      "date_ref": "1980",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0108",
+      "claim": "Julian and Yves handled maintenance at Kanawana in 1980",
+      "sources": [
+        "src_ka_news_1980"
+      ],
+      "confidence": "stated",
+      "category": "staff",
+      "entities": [
+        "Julian",
+        "Yves",
+        "Camp Kanawana"
+      ],
+      "date_ref": "1980",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0109",
+      "claim": "Chris Adams (from Vanier) ran the nature program at Kanawana in 1980",
+      "sources": [
+        "src_ka_news_1980"
+      ],
+      "confidence": "stated",
+      "category": "staff",
+      "entities": [
+        "Chris Adams",
+        "Camp Kanawana"
+      ],
+      "date_ref": "1980",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0110",
+      "claim": "Kevin Forster was on staff in 1980 and later became Director of Camp Glenburn, New Brunswick",
+      "sources": [
+        "src_ka_news_1980"
+      ],
+      "confidence": "stated",
+      "category": "staff",
+      "entities": [
+        "Kevin Forster",
+        "Camp Kanawana",
+        "Camp Glenburn"
+      ],
+      "date_ref": "1980",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0111",
+      "claim": "Dave O'Donnell, a Master Canoeist, was on staff in 1980",
+      "sources": [
+        "src_ka_news_1980"
+      ],
+      "confidence": "stated",
+      "category": "staff",
+      "entities": [
+        "Dave O'Donnell",
+        "Camp Kanawana"
+      ],
+      "date_ref": "1980",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0112",
+      "claim": "Staff at Kanawana in 1980 included Dave Bennett, Dave Scammell, Bob Woodhouse, Sue Armstrong, Jeff Surette, Johanna, Doug Peets, Rosemary, Lynn Pryer, Steve Wells, Kitti Luce, and Lisa Crocker",
+      "sources": [
+        "src_ka_news_1980"
+      ],
+      "confidence": "stated",
+      "category": "staff",
+      "entities": [
+        "Camp Kanawana"
+      ],
+      "date_ref": "1980",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0113",
+      "claim": "The Hebertism course was reactivated with new ideas at Kanawana in 1980",
+      "sources": [
+        "src_ka_news_1980"
+      ],
+      "confidence": "stated",
+      "category": "programs",
+      "entities": [
+        "Camp Kanawana"
+      ],
+      "date_ref": "1980",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0114",
+      "claim": "A new Nature Awareness program was created by Chris Adams at Kanawana in 1980",
+      "sources": [
+        "src_ka_news_1980"
+      ],
+      "confidence": "stated",
+      "category": "programs",
+      "entities": [
+        "Chris Adams",
+        "Camp Kanawana"
+      ],
+      "date_ref": "1980",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0115",
+      "claim": "New orienteering methods with a nature trail were introduced at Kanawana in 1980",
+      "sources": [
+        "src_ka_news_1980"
+      ],
+      "confidence": "stated",
+      "category": "programs",
+      "entities": [
+        "Camp Kanawana"
+      ],
+      "date_ref": "1980",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0116",
+      "claim": "Staff completed a 3-day canoe trip and the full canoe fleet was refurbished at Kanawana in 1980",
+      "sources": [
+        "src_ka_news_1980"
+      ],
+      "confidence": "stated",
+      "category": "programs",
+      "entities": [
+        "Camp Kanawana"
+      ],
+      "date_ref": "1980",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0117",
+      "claim": "31 campers opened the 1935 season on June 23",
+      "sources": [
+        "src_history_1935"
+      ],
+      "confidence": "stated",
+      "category": "programs",
+      "entities": [
+        "Camp Kanawana"
+      ],
+      "date_ref": "1935",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0118",
+      "claim": "There were 11 consecutive days of rain at Kanawana in 1935, a new record",
+      "sources": [
+        "src_history_1935"
+      ],
+      "confidence": "stated",
+      "category": "programs",
+      "entities": [
+        "Camp Kanawana"
+      ],
+      "date_ref": "1935",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0119",
+      "claim": "The Green Triangle newsletter was in its 4th volume in 1935",
+      "sources": [
+        "src_history_1935"
+      ],
+      "confidence": "stated",
+      "category": "programs",
+      "entities": [
+        "Camp Kanawana",
+        "Green Triangle"
+      ],
+      "date_ref": "1935",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0120",
+      "claim": "A Torch Ceremony for World Friendship was held at Kanawana in 1935",
+      "sources": [
+        "src_history_1935"
+      ],
+      "confidence": "stated",
+      "category": "traditions",
+      "entities": [
+        "Camp Kanawana"
+      ],
+      "date_ref": "1935",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0121",
+      "claim": "Open air chapel held its first service of the 1935 season on June 30",
+      "sources": [
+        "src_history_1935"
+      ],
+      "confidence": "stated",
+      "category": "traditions",
+      "entities": [
+        "Camp Kanawana"
+      ],
+      "date_ref": "1935",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0122",
+      "claim": "An annual pyjama parade to the post office was held at Kanawana in 1935",
+      "sources": [
+        "src_history_1935"
+      ],
+      "confidence": "stated",
+      "category": "traditions",
+      "entities": [
+        "Camp Kanawana"
+      ],
+      "date_ref": "1935",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0123",
+      "claim": "A boating carnival was held at Kanawana in 1935",
+      "sources": [
+        "src_history_1935"
+      ],
+      "confidence": "stated",
+      "category": "traditions",
+      "entities": [
+        "Camp Kanawana"
+      ],
+      "date_ref": "1935",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0124",
+      "claim": "A Japanese goodwill offering (KoiNobori) was presented by Mr. Ernest Trueman at Kanawana in 1935",
+      "sources": [
+        "src_history_1935"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "Mr. Ernest Trueman",
+        "Camp Kanawana"
+      ],
+      "date_ref": "1935",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0125",
+      "claim": "Mr. Summers of Montevideo, Uruguay visited Camp Kanawana in 1935",
+      "sources": [
+        "src_history_1935"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "Mr. Summers",
+        "Camp Kanawana"
+      ],
+      "date_ref": "1935",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0126",
+      "claim": "Ivan Wong, Montreal Chinese YMCA secretary, visited Camp Kanawana in 1935",
+      "sources": [
+        "src_history_1935"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "Ivan Wong",
+        "Camp Kanawana",
+        "Montreal Chinese YMCA"
+      ],
+      "date_ref": "1935",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0127",
+      "claim": "A four-day trip to Otoreke was made from Kanawana in 1935",
+      "sources": [
+        "src_history_1935"
+      ],
+      "confidence": "stated",
+      "category": "programs",
+      "entities": [
+        "Camp Kanawana",
+        "Otoreke"
+      ],
+      "date_ref": "1935",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0128",
+      "claim": "Shawbridge Invitation Games were held in 1935",
+      "sources": [
+        "src_history_1935"
+      ],
+      "confidence": "stated",
+      "category": "traditions",
+      "entities": [
+        "Camp Kanawana",
+        "Shawbridge"
+      ],
+      "date_ref": "1935",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0129",
+      "claim": "Ross KC (poet) visited Camp Kanawana in 1935",
+      "sources": [
+        "src_history_1935"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "Ross KC",
+        "Camp Kanawana"
+      ],
+      "date_ref": "1935",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0130",
+      "claim": "A government photographer took stills and moving pictures at Camp Kanawana in 1935",
+      "sources": [
+        "src_history_1935"
+      ],
+      "confidence": "stated",
+      "category": "programs",
+      "entities": [
+        "Camp Kanawana"
+      ],
+      "date_ref": "1935",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0131",
+      "claim": "The Annual Circus raised $5 in proceeds at Kanawana in 1935",
+      "sources": [
+        "src_history_1935"
+      ],
+      "confidence": "stated",
+      "category": "traditions",
+      "entities": [
+        "Camp Kanawana"
+      ],
+      "date_ref": "1935",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0132",
+      "claim": "An all-camp regatta was held at Kanawana in 1935",
+      "sources": [
+        "src_history_1935"
+      ],
+      "confidence": "stated",
+      "category": "traditions",
+      "entities": [
+        "Camp Kanawana"
+      ],
+      "date_ref": "1935",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0133",
+      "claim": "Marois Day and Marois Regatta were held at Kanawana in 1935",
+      "sources": [
+        "src_history_1935"
+      ],
+      "confidence": "stated",
+      "category": "traditions",
+      "entities": [
+        "Camp Kanawana",
+        "Marois"
+      ],
+      "date_ref": "1935",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0134",
+      "claim": "The Council of the Tribes of Kanawana was newly introduced in 1935",
+      "sources": [
+        "src_history_1935"
+      ],
+      "confidence": "stated",
+      "category": "traditions",
+      "entities": [
+        "Camp Kanawana"
+      ],
+      "date_ref": "1935",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0135",
+      "claim": "An eating-out day at a haunted house was held at Kanawana in 1935",
+      "sources": [
+        "src_history_1935"
+      ],
+      "confidence": "stated",
+      "category": "traditions",
+      "entities": [
+        "Camp Kanawana"
+      ],
+      "date_ref": "1935",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0136",
+      "claim": "The dam was let out at the end of the 1935 season",
+      "sources": [
+        "src_history_1935"
+      ],
+      "confidence": "stated",
+      "category": "traditions",
+      "entities": [
+        "Camp Kanawana"
+      ],
+      "date_ref": "1935",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0137",
+      "claim": "A time capsule was buried at Kanawana during the 1935 season",
+      "sources": [
+        "src_history_1935"
+      ],
+      "confidence": "stated",
+      "category": "traditions",
+      "entities": [
+        "Camp Kanawana"
+      ],
+      "date_ref": "1935",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0138",
+      "claim": "Best camper shields were awarded at Kanawana in 1935",
+      "sources": [
+        "src_history_1935"
+      ],
+      "confidence": "stated",
+      "category": "traditions",
+      "entities": [
+        "Camp Kanawana"
+      ],
+      "date_ref": "1935",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0139",
+      "claim": "Three sections existed at Kanawana in 1938: Junior, Juvenile, and Senior",
+      "sources": [
+        "src_green_triangle_1938"
+      ],
+      "confidence": "stated",
+      "category": "section_names",
+      "entities": [
+        "Camp Kanawana"
+      ],
+      "date_ref": "1938",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0140",
+      "claim": "The weekly program in 1938 was: Monday/Thursday projects, Tuesday/Friday waterfront, Wednesday hikes",
+      "sources": [
+        "src_green_triangle_1938"
+      ],
+      "confidence": "stated",
+      "category": "programs",
+      "entities": [
+        "Camp Kanawana"
+      ],
+      "date_ref": "1938",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0141",
+      "claim": "Camp Kanawana had an outdoor chapel with an organized choir in 1938",
+      "sources": [
+        "src_green_triangle_1938"
+      ],
+      "confidence": "stated",
+      "category": "facilities",
+      "entities": [
+        "Camp Kanawana"
+      ],
+      "date_ref": "1938",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0142",
+      "claim": "A fancy dress ball tradition was documented in the Green Triangle 1938",
+      "sources": [
+        "src_green_triangle_1938"
+      ],
+      "confidence": "stated",
+      "category": "traditions",
+      "entities": [
+        "Camp Kanawana"
+      ],
+      "date_ref": "1938",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0143",
+      "claim": "The Green Triangle newsletter included brain teaser contests in 1938",
+      "sources": [
+        "src_green_triangle_1938"
+      ],
+      "confidence": "stated",
+      "category": "programs",
+      "entities": [
+        "Camp Kanawana",
+        "Green Triangle"
+      ],
+      "date_ref": "1938",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0144",
+      "claim": "Clark Merritt was on staff at Kanawana in 1938",
+      "sources": [
+        "src_green_triangle_1938"
+      ],
+      "confidence": "stated",
+      "category": "staff",
+      "entities": [
+        "Clark Merritt",
+        "Camp Kanawana"
+      ],
+      "date_ref": "1938",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0145",
+      "claim": "Doc Cooper was the camp doctor at Kanawana in 1938",
+      "sources": [
+        "src_green_triangle_1938"
+      ],
+      "confidence": "stated",
+      "category": "staff",
+      "entities": [
+        "Doc Cooper",
+        "Camp Kanawana"
+      ],
+      "date_ref": "1938",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0146",
+      "claim": "Brock Brace worked in the Junior section at Kanawana in 1938",
+      "sources": [
+        "src_green_triangle_1938"
+      ],
+      "confidence": "stated",
+      "category": "staff",
+      "entities": [
+        "Brock Brace",
+        "Camp Kanawana"
+      ],
+      "date_ref": "1938",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0147",
+      "claim": "The Pip Award is named after Philip 'Pip' Caddell (1913-2004) and James Caddell (1973-2005)",
+      "sources": [
+        "src_oral_aronson"
+      ],
+      "confidence": "user_knowledge",
+      "category": "people",
+      "entities": [
+        "Pip Caddell",
+        "James Caddell",
+        "Pip Award"
+      ],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0148",
+      "claim": "Philip 'Pip' Caddell was a camper at Kanawana in 1928",
+      "sources": [
+        "src_oral_aronson"
+      ],
+      "confidence": "user_knowledge",
+      "category": "people",
+      "entities": [
+        "Pip Caddell",
+        "Camp Kanawana"
+      ],
+      "date_ref": "1928",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0149",
+      "claim": "Pip Caddell served as a WWII Canadian Army officer abroad from 1939-1945, and was a Montreal community volunteer and executive",
+      "sources": [
+        "src_oral_aronson"
+      ],
+      "confidence": "user_knowledge",
+      "category": "people",
+      "entities": [
+        "Pip Caddell"
+      ],
+      "date_ref": "1939",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0150",
+      "claim": "Pip Caddell was the father of Andrew Caddell and grandfather of James Caddell",
+      "sources": [
+        "src_oral_aronson"
+      ],
+      "confidence": "user_knowledge",
+      "category": "people",
+      "entities": [
+        "Pip Caddell",
+        "Andrew Caddell",
+        "James Caddell"
+      ],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0151",
+      "claim": "James Caddell (1973-2005) was a camper and counsellor at Kanawana from 1983 to 1991",
+      "sources": [
+        "src_oral_aronson"
+      ],
+      "confidence": "user_knowledge",
+      "category": "people",
+      "entities": [
+        "James Caddell",
+        "Camp Kanawana"
+      ],
+      "date_ref": "1983",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0152",
+      "claim": "James Caddell was a Canadian soldier, UN Peacekeeper in Bosnia, NGO worker, and did tsunami relief in India",
+      "sources": [
+        "src_oral_aronson"
+      ],
+      "confidence": "user_knowledge",
+      "category": "people",
+      "entities": [
+        "James Caddell"
+      ],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0153",
+      "claim": "James Caddell died of altitude sickness in Bolivia during a round-the-world trip with wife Tara Newell",
+      "sources": [
+        "src_oral_aronson"
+      ],
+      "confidence": "user_knowledge",
+      "category": "people",
+      "entities": [
+        "James Caddell",
+        "Tara Newell"
+      ],
+      "date_ref": "2005",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0154",
+      "claim": "Richard 'Itche' Kerr received the Pip Award circa 2007; he is a song composer",
+      "sources": [
+        "src_oral_aronson"
+      ],
+      "confidence": "user_knowledge",
+      "category": "people",
+      "entities": [
+        "Richard Kerr",
+        "Pip Award"
+      ],
+      "date_ref": "2007",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0155",
+      "claim": "Stuart McLean received the Pip Award; he was a CBC host and counsellor 1969-75",
+      "sources": [
+        "src_oral_aronson"
+      ],
+      "confidence": "user_knowledge",
+      "category": "people",
+      "entities": [
+        "Stuart McLean",
+        "Pip Award"
+      ],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0156",
+      "claim": "Bruce Netherwood received the Pip Award",
+      "sources": [
+        "src_oral_aronson"
+      ],
+      "confidence": "user_knowledge",
+      "category": "people",
+      "entities": [
+        "Bruce Netherwood",
+        "Pip Award"
+      ],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0157",
+      "claim": "John Cleghorn received the Pip Award; he was CEO of RBC",
+      "sources": [
+        "src_oral_aronson"
+      ],
+      "confidence": "user_knowledge",
+      "category": "people",
+      "entities": [
+        "John Cleghorn",
+        "Pip Award",
+        "RBC"
+      ],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0158",
+      "claim": "Terry Mosher received the Pip Award in 2015; he was a camper in 1952-53",
+      "sources": [
+        "src_oral_aronson"
+      ],
+      "confidence": "user_knowledge",
+      "category": "people",
+      "entities": [
+        "Terry Mosher",
+        "Pip Award"
+      ],
+      "date_ref": "2015",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0159",
+      "claim": "Andrew Caddell organizes the Pip Award",
+      "sources": [
+        "src_oral_aronson"
+      ],
+      "confidence": "user_knowledge",
+      "category": "people",
+      "entities": [
+        "Andrew Caddell",
+        "Pip Award"
+      ],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0160",
+      "claim": "John Cleghorn was born July 7, 1941 in Montreal",
+      "sources": [
+        "src_oral_aronson"
+      ],
+      "confidence": "user_knowledge",
+      "category": "people",
+      "entities": [
+        "John Cleghorn"
+      ],
+      "date_ref": "1941",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0161",
+      "claim": "John Cleghorn attended Westmount High School and earned a BCom from McGill in 1962",
+      "sources": [
+        "src_oral_aronson"
+      ],
+      "confidence": "user_knowledge",
+      "category": "people",
+      "entities": [
+        "John Cleghorn",
+        "McGill"
+      ],
+      "date_ref": "1962",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0162",
+      "claim": "John Cleghorn was CEO of RBC from 1994-2001, Chairman of CPR and SNC-Lavalin, and Officer of the Order of Canada",
+      "sources": [
+        "src_oral_aronson"
+      ],
+      "confidence": "user_knowledge",
+      "category": "people",
+      "entities": [
+        "John Cleghorn",
+        "RBC"
+      ],
+      "date_ref": "1994",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0163",
+      "claim": "John Cleghorn took his children on canoe trips at Kanawana every summer",
+      "sources": [
+        "src_oral_aronson"
+      ],
+      "confidence": "user_knowledge",
+      "category": "people",
+      "entities": [
+        "John Cleghorn",
+        "Camp Kanawana"
+      ],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0164",
+      "claim": "Terry Mosher (pen name Aislin) was born November 11, 1942 in Ottawa",
+      "sources": [
+        "src_oral_aronson"
+      ],
+      "confidence": "user_knowledge",
+      "category": "people",
+      "entities": [
+        "Terry Mosher"
+      ],
+      "date_ref": "1942",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0165",
+      "claim": "Terry Mosher has been the Montreal Gazette cartoonist since 1972",
+      "sources": [
+        "src_oral_aronson"
+      ],
+      "confidence": "user_knowledge",
+      "category": "people",
+      "entities": [
+        "Terry Mosher",
+        "Montreal Gazette"
+      ],
+      "date_ref": "1972",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0166",
+      "claim": "Terry Mosher received the Officer of the Order of Canada in 2003, McGill honorary doctorate in 2007, and Concordia honorary doctorate in 2018",
+      "sources": [
+        "src_oral_aronson"
+      ],
+      "confidence": "user_knowledge",
+      "category": "people",
+      "entities": [
+        "Terry Mosher"
+      ],
+      "date_ref": "2003",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0167",
+      "claim": "Terry Mosher was a camper at Kanawana in 1952-53",
+      "sources": [
+        "src_oral_aronson"
+      ],
+      "confidence": "user_knowledge",
+      "category": "people",
+      "entities": [
+        "Terry Mosher",
+        "Camp Kanawana"
+      ],
+      "date_ref": "1952",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0168",
+      "claim": "Stuart McLean was born April 19, 1948",
+      "sources": [
+        "src_samaritanmag_mclean"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "Stuart McLean"
+      ],
+      "date_ref": "1948",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0169",
+      "claim": "Stuart McLean died February 15, 2017",
+      "sources": [
+        "src_samaritanmag_mclean"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "Stuart McLean"
+      ],
+      "date_ref": "2017",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0170",
+      "claim": "Stuart McLean was a counsellor at Camp Kanawana from 1969 to 1973",
+      "sources": [
+        "src_samaritanmag_mclean"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "Stuart McLean",
+        "Camp Kanawana"
+      ],
+      "date_ref": "1969",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0171",
+      "claim": "Stuart McLean was Assistant Director at Camp Kanawana from 1974 to 1975",
+      "sources": [
+        "src_samaritanmag_mclean"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "Stuart McLean",
+        "Camp Kanawana"
+      ],
+      "date_ref": "1974",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0172",
+      "claim": "The Stuart McLean Camp Kanawana Fund raises over $150,000 per year",
+      "sources": [
+        "src_oral_aronson"
+      ],
+      "confidence": "user_knowledge",
+      "category": "people",
+      "entities": [
+        "Stuart McLean",
+        "Camp Kanawana"
+      ],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0173",
+      "claim": "Matt Aronson was a camper at Kanawana from 1985 to 1992",
+      "sources": [
+        "src_oral_aronson"
+      ],
+      "confidence": "user_knowledge",
+      "category": "people",
+      "entities": [
+        "Matt Aronson",
+        "Camp Kanawana"
+      ],
+      "date_ref": "1985",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0174",
+      "claim": "Matt Aronson was a CIT (Counsellor-in-Training) in 1993",
+      "sources": [
+        "src_oral_aronson"
+      ],
+      "confidence": "user_knowledge",
+      "category": "people",
+      "entities": [
+        "Matt Aronson",
+        "Camp Kanawana"
+      ],
+      "date_ref": "1993",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0175",
+      "claim": "Matt Aronson was a Junior Counsellor in 1994",
+      "sources": [
+        "src_oral_aronson"
+      ],
+      "confidence": "user_knowledge",
+      "category": "people",
+      "entities": [
+        "Matt Aronson",
+        "Camp Kanawana"
+      ],
+      "date_ref": "1994",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0176",
+      "claim": "Matt Aronson was a Packer from 1995 to 1996",
+      "sources": [
+        "src_oral_aronson"
+      ],
+      "confidence": "user_knowledge",
+      "category": "people",
+      "entities": [
+        "Matt Aronson",
+        "Camp Kanawana"
+      ],
+      "date_ref": "1995",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0177",
+      "claim": "Matt Aronson was Program Director at Kanawana from 2001 to 2002",
+      "sources": [
+        "src_oral_aronson"
+      ],
+      "confidence": "user_knowledge",
+      "category": "people",
+      "entities": [
+        "Matt Aronson",
+        "Camp Kanawana"
+      ],
+      "date_ref": "2001",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0178",
+      "claim": "Matt Aronson's counsellor was Sean Day",
+      "sources": [
+        "src_oral_aronson"
+      ],
+      "confidence": "user_knowledge",
+      "category": "people",
+      "entities": [
+        "Matt Aronson",
+        "Sean Day",
+        "Camp Kanawana"
+      ],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0179",
+      "claim": "Bruce Netherwood was Kanawana director in the late 1980s-1990s",
+      "sources": [
+        "src_oral_aronson"
+      ],
+      "confidence": "user_knowledge",
+      "category": "directors",
+      "entities": [
+        "Bruce Netherwood",
+        "Camp Kanawana"
+      ],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0180",
+      "claim": "Bruce Netherwood is currently VP Camping Services at South Shore YMCA, Massachusetts, with 30+ years YMCA camping experience",
+      "sources": [
+        "src_oral_aronson"
+      ],
+      "confidence": "user_knowledge",
+      "category": "people",
+      "entities": [
+        "Bruce Netherwood"
+      ],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0181",
+      "claim": "Andrew Caddell coordinated board involvement, produced a promotional video, and developed marketing strategy for Kanawana",
+      "sources": [
+        "src_oral_aronson"
+      ],
+      "confidence": "user_knowledge",
+      "category": "people",
+      "entities": [
+        "Andrew Caddell",
+        "Camp Kanawana"
+      ],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0182",
+      "claim": "Andrew Caddell is the son of Pip Caddell and father of James Caddell",
+      "sources": [
+        "src_oral_aronson"
+      ],
+      "confidence": "user_knowledge",
+      "category": "people",
+      "entities": [
+        "Andrew Caddell",
+        "Pip Caddell",
+        "James Caddell"
+      ],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0183",
+      "claim": "Ralph Dawson wrote 'History of Kamp Kanawana' in 1933, held in Concordia Archives",
+      "sources": [
+        "src_concordia_fonds"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "Ralph Dawson",
+        "Camp Kanawana"
+      ],
+      "date_ref": "1933",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0184",
+      "claim": "R.L. Charlton wrote 'Notes re Early Days of YMCA Camps at Lake St. Joseph and Kanawana' in 1943, held in Concordia Archives",
+      "sources": [
+        "src_concordia_fonds"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "R.L. Charlton",
+        "Camp Kanawana"
+      ],
+      "date_ref": "1943",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0185",
+      "claim": "W.E. Cushing wrote 'Historical sketches-Lake St. Joseph' in 1943, held in Concordia Archives",
+      "sources": [
+        "src_concordia_fonds"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "W.E. Cushing",
+        "Camp Kanawana",
+        "Lake St. Joseph"
+      ],
+      "date_ref": "1943",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0186",
+      "claim": "F.M. Van Wagner founded Camp Nominingue on July 4, 1925",
+      "sources": [
+        "src_nominingue"
+      ],
+      "confidence": "stated",
+      "category": "camping_movement",
+      "entities": [
+        "F.M. Van Wagner",
+        "Camp Nominingue"
+      ],
+      "date_ref": "1925",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0187",
+      "claim": "F.M. Van Wagner died in 1989",
+      "sources": [
+        "src_nominingue"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "F.M. Van Wagner"
+      ],
+      "date_ref": "1989",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0188",
+      "claim": "Camp Nominingue started with 10 campers and 5 staff",
+      "sources": [
+        "src_nominingue"
+      ],
+      "confidence": "stated",
+      "category": "camping_movement",
+      "entities": [
+        "Camp Nominingue"
+      ],
+      "date_ref": "1925",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0189",
+      "claim": "Peter Van Wagner (son of F.M.) ran Camp Nominingue until 2015, then Erik Blachford took over",
+      "sources": [
+        "src_nominingue"
+      ],
+      "confidence": "stated",
+      "category": "camping_movement",
+      "entities": [
+        "Peter Van Wagner",
+        "Erik Blachford",
+        "Camp Nominingue"
+      ],
+      "date_ref": "2015",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0190",
+      "claim": "The Association des camps du Quebec (ACQ) was founded in 1961",
+      "sources": [
+        "src_kanawana_facts"
+      ],
+      "confidence": "stated",
+      "category": "camping_movement",
+      "entities": [
+        "ACQ"
+      ],
+      "date_ref": "1961",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0191",
+      "claim": "Camp Kanawana was a founding member of the ACQ",
+      "sources": [
+        "src_kanawana_facts"
+      ],
+      "confidence": "stated",
+      "category": "camping_movement",
+      "entities": [
+        "Camp Kanawana",
+        "ACQ"
+      ],
+      "date_ref": "1961",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0192",
+      "claim": "The L&V Games tradition originated at Pine Crest camp in Ontario",
+      "sources": [
+        "src_oral_aronson"
+      ],
+      "confidence": "user_knowledge",
+      "category": "lv_games",
+      "entities": [
+        "Pine Crest",
+        "L&V Games"
+      ],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0193",
+      "claim": "The L&V Games arrived at Camp Kanawana in 1947 (confirmed: YMCA official history says 78th edition in 2025)",
+      "sources": [
+        "src_ymca_website"
+      ],
+      "confidence": "stated",
+      "category": "lv_games",
+      "entities": [
+        "Camp Kanawana",
+        "L&V Games"
+      ],
+      "date_ref": "1947",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0194",
+      "claim": "Lumberman-Voyageur Week was created at Kanawana in 1947",
+      "sources": [
+        "src_mcmorris_thesis"
+      ],
+      "confidence": "stated",
+      "category": "lv_games",
+      "entities": [
+        "Camp Kanawana",
+        "L&V Games"
+      ],
+      "date_ref": "1947",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0195",
+      "claim": "L&V Games format: Last week of summer, entire camp divided into two teams - Voyageurs vs Lumbermen",
+      "sources": [
+        "src_mcmorris_thesis"
+      ],
+      "confidence": "stated",
+      "category": "lv_games",
+      "entities": [
+        "Camp Kanawana",
+        "L&V Games"
+      ],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0196",
+      "claim": "By 1950, a Lumberman-Voyageur mural was in the Kanawana dining hall",
+      "sources": [
+        "src_mcmorris_thesis"
+      ],
+      "confidence": "stated",
+      "category": "lv_games",
+      "entities": [
+        "Camp Kanawana",
+        "L&V Games"
+      ],
+      "date_ref": "1950",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0197",
+      "claim": "By 1958, L&V Games had a well-developed program: teams decided Friday, captains picked that evening, competition through the week",
+      "sources": [
+        "src_mcmorris_thesis"
+      ],
+      "confidence": "stated",
+      "category": "lv_games",
+      "entities": [
+        "Camp Kanawana",
+        "L&V Games"
+      ],
+      "date_ref": "1958",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0198",
+      "claim": "Voyageurs made model paddles and Lumbermen made model axes to wear around their necks during L&V week",
+      "sources": [
+        "src_mcmorris_thesis"
+      ],
+      "confidence": "stated",
+      "category": "lv_games",
+      "entities": [
+        "Camp Kanawana",
+        "L&V Games"
+      ],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0199",
+      "claim": "L&V competitions included war canoe races, capture the flag, and medley relays",
+      "sources": [
+        "src_mcmorris_thesis"
+      ],
+      "confidence": "stated",
+      "category": "lv_games",
+      "entities": [
+        "Camp Kanawana",
+        "L&V Games"
+      ],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0200",
+      "claim": "YMCA Kamp Kanawana became coeducational in 1969",
+      "sources": [
+        "src_kanawana_facts"
+      ],
+      "confidence": "disputed",
+      "category": "coeducation",
+      "entities": [
+        "Camp Kanawana"
+      ],
+      "date_ref": "1969",
+      "conflicts_with": [
+        "f_0201"
+      ],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0201",
+      "claim": "YMCA Kamp Kanawana became coeducational in 1968",
+      "sources": [
+        "src_oral_aronson"
+      ],
+      "confidence": "disputed",
+      "category": "coeducation",
+      "entities": [
+        "Camp Kanawana"
+      ],
+      "date_ref": "1968",
+      "conflicts_with": [
+        "f_0200"
+      ],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0202",
+      "claim": "The first female Voyageur trip from Kanawana was in 1972",
+      "sources": [
+        "src_kanawana_facts"
+      ],
+      "confidence": "stated",
+      "category": "coeducation",
+      "entities": [
+        "Camp Kanawana"
+      ],
+      "date_ref": "1972",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0203",
+      "claim": "Morning devotions were held around the flagpole at Kanawana",
+      "sources": [
+        "src_mcmorris_thesis"
+      ],
+      "confidence": "stated",
+      "category": "traditions",
+      "entities": [
+        "Camp Kanawana"
+      ],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0204",
+      "claim": "Bible study was part of the regular Kanawana program",
+      "sources": [
+        "src_mcmorris_thesis"
+      ],
+      "confidence": "stated",
+      "category": "programs",
+      "entities": [
+        "Camp Kanawana"
+      ],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0205",
+      "claim": "Evening vespers were held at Kanawana",
+      "sources": [
+        "src_mcmorris_thesis"
+      ],
+      "confidence": "stated",
+      "category": "traditions",
+      "entities": [
+        "Camp Kanawana"
+      ],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0206",
+      "claim": "Conversion commitments were sought on final nights of the camp season",
+      "sources": [
+        "src_mcmorris_thesis"
+      ],
+      "confidence": "stated",
+      "category": "traditions",
+      "entities": [
+        "Camp Kanawana"
+      ],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0207",
+      "claim": "In 1925, camp councils consisted of two groups called 'Kickers and Knockers', elected for 2-week periods",
+      "sources": [
+        "src_mcmorris_thesis"
+      ],
+      "confidence": "stated",
+      "category": "programs",
+      "entities": [
+        "Camp Kanawana"
+      ],
+      "date_ref": "1925",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0208",
+      "claim": "Camp councils handled program planning on Tuesday/Thursday/Saturday evenings and Wednesday/Friday afternoons",
+      "sources": [
+        "src_mcmorris_thesis"
+      ],
+      "confidence": "stated",
+      "category": "programs",
+      "entities": [
+        "Camp Kanawana"
+      ],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0209",
+      "claim": "Camp councils served as a disciplinary court (e.g., the 'Rosenthal case' of 1946)",
+      "sources": [
+        "src_mcmorris_thesis"
+      ],
+      "confidence": "stated",
+      "category": "programs",
+      "entities": [
+        "Camp Kanawana"
+      ],
+      "date_ref": "1946",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0210",
+      "claim": "Health monitoring at Kanawana included weighing on arrival and departure",
+      "sources": [
+        "src_mcmorris_thesis"
+      ],
+      "confidence": "stated",
+      "category": "programs",
+      "entities": [
+        "Camp Kanawana"
+      ],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0211",
+      "claim": "Campers received daily inspections and weekly doctor examinations at Kanawana",
+      "sources": [
+        "src_mcmorris_thesis"
+      ],
+      "confidence": "stated",
+      "category": "programs",
+      "entities": [
+        "Camp Kanawana"
+      ],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0212",
+      "claim": "A 'Car Wash' inspection game was used for Bantams (youngest section) at Kanawana",
+      "sources": [
+        "src_mcmorris_thesis"
+      ],
+      "confidence": "stated",
+      "category": "programs",
+      "entities": [
+        "Camp Kanawana"
+      ],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0213",
+      "claim": "The original section structure was Juniors (12-14) and Seniors (14-17)",
+      "sources": [
+        "src_mcmorris_thesis"
+      ],
+      "confidence": "stated",
+      "category": "section_names",
+      "entities": [
+        "Camp Kanawana"
+      ],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0214",
+      "claim": "By 1930, sections were Juveniles (10-12), Juniors (12-14), and Seniors (14-17)",
+      "sources": [
+        "src_mcmorris_thesis"
+      ],
+      "confidence": "stated",
+      "category": "section_names",
+      "entities": [
+        "Camp Kanawana"
+      ],
+      "date_ref": "1930",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0215",
+      "claim": "By the early 1940s, sections were Bantam (8-9), Juvenile/Junior (10-12), Junior/Intermediate (12-14), and Senior (14-17)",
+      "sources": [
+        "src_mcmorris_thesis"
+      ],
+      "confidence": "stated",
+      "category": "section_names",
+      "entities": [
+        "Camp Kanawana"
+      ],
+      "date_ref": "1940",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0216",
+      "claim": "In 1959, sections were renamed to Pioneers (8-9), Woodsmen (10-11), Coureurs de Bois (12-13), and Pathfinders (14-15)",
+      "sources": [
+        "src_mcmorris_thesis"
+      ],
+      "confidence": "stated",
+      "category": "section_names",
+      "entities": [
+        "Camp Kanawana"
+      ],
+      "date_ref": "1959",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0217",
+      "claim": "The 1959 section names (Pioneers, Woodsmen, Coureurs de Bois, Pathfinders) are still in use today",
+      "sources": [
+        "src_mcmorris_thesis"
+      ],
+      "confidence": "stated",
+      "category": "section_names",
+      "entities": [
+        "Camp Kanawana"
+      ],
+      "date_ref": "1959",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0218",
+      "claim": "The camp director's wife was present in 1930 as a 'refining influence'",
+      "sources": [
+        "src_mcmorris_thesis"
+      ],
+      "confidence": "stated",
+      "category": "coeducation",
+      "entities": [
+        "Camp Kanawana"
+      ],
+      "date_ref": "1930",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0219",
+      "claim": "Miss M. Rayner served as camp nurse in 1939 and filled a 'camp mother' role",
+      "sources": [
+        "src_mcmorris_thesis"
+      ],
+      "confidence": "stated",
+      "category": "staff",
+      "entities": [
+        "Miss M. Rayner",
+        "Camp Kanawana"
+      ],
+      "date_ref": "1939",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0220",
+      "claim": "YWCA Camp Oolahwan visited Kanawana",
+      "sources": [
+        "src_mcmorris_thesis"
+      ],
+      "confidence": "stated",
+      "category": "coeducation",
+      "entities": [
+        "Camp Kanawana",
+        "Camp Oolahwan",
+        "YWCA"
+      ],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0221",
+      "claim": "Junior League Camp visited Kanawana",
+      "sources": [
+        "src_mcmorris_thesis"
+      ],
+      "confidence": "stated",
+      "category": "coeducation",
+      "entities": [
+        "Camp Kanawana",
+        "Junior League Camp"
+      ],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0222",
+      "claim": "A scarlet fever outbreak in 1941 caused a 1-month quarantine at Kanawana",
+      "sources": [
+        "src_mcmorris_thesis"
+      ],
+      "confidence": "stated",
+      "category": "programs",
+      "entities": [
+        "Camp Kanawana"
+      ],
+      "date_ref": "1941",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0223",
+      "claim": "A mumps outbreak occurred in weeks 6-7 of the 1944 season at Kanawana",
+      "sources": [
+        "src_mcmorris_thesis"
+      ],
+      "confidence": "stated",
+      "category": "programs",
+      "entities": [
+        "Camp Kanawana"
+      ],
+      "date_ref": "1944",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0224",
+      "claim": "Six polio cases occurred at Kanawana in 1946; trips were cancelled but camp stayed open per Dr. Cushing",
+      "sources": [
+        "src_mcmorris_thesis"
+      ],
+      "confidence": "stated",
+      "category": "programs",
+      "entities": [
+        "Camp Kanawana",
+        "Dr. Cushing"
+      ],
+      "date_ref": "1946",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0225",
+      "claim": "Senior section directors discussed masturbation with boys in 1943-1944, seen as sinful but acknowledged as common practice",
+      "sources": [
+        "src_mcmorris_thesis"
+      ],
+      "confidence": "stated",
+      "category": "programs",
+      "entities": [
+        "Camp Kanawana"
+      ],
+      "date_ref": "1943",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0226",
+      "claim": "A 1928 Kanawana map and a 1962 Kanawana map were analyzed in the McMorris thesis",
+      "sources": [
+        "src_mcmorris_thesis"
+      ],
+      "confidence": "stated",
+      "category": "facilities",
+      "entities": [
+        "Camp Kanawana"
+      ],
+      "date_ref": "1928",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0227",
+      "claim": "A totem pole was present at Camp Kanawana (1970s photo)",
+      "sources": [
+        "src_mcmorris_thesis"
+      ],
+      "confidence": "stated",
+      "category": "facilities",
+      "entities": [
+        "Camp Kanawana"
+      ],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0228",
+      "claim": "An 'Indian Grave' marking existed on the Kanawana camp map",
+      "sources": [
+        "src_mcmorris_thesis"
+      ],
+      "confidence": "stated",
+      "category": "facilities",
+      "entities": [
+        "Camp Kanawana"
+      ],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0229",
+      "claim": "Indian characters were depicted on Kanawana camp maps",
+      "sources": [
+        "src_mcmorris_thesis"
+      ],
+      "confidence": "stated",
+      "category": "facilities",
+      "entities": [
+        "Camp Kanawana"
+      ],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0230",
+      "claim": "Kanawana had an archery range and a lacrosse field",
+      "sources": [
+        "src_mcmorris_thesis"
+      ],
+      "confidence": "stated",
+      "category": "facilities",
+      "entities": [
+        "Camp Kanawana"
+      ],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0231",
+      "claim": "The Council Ring at Kanawana was built by senior campers in 1922",
+      "sources": [
+        "src_mcmorris_thesis"
+      ],
+      "confidence": "stated",
+      "category": "council_ring",
+      "entities": [
+        "Camp Kanawana",
+        "Council Ring"
+      ],
+      "date_ref": "1922",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0232",
+      "claim": "The Council Ring was located between the cabins and the chapel",
+      "sources": [
+        "src_mcmorris_thesis"
+      ],
+      "confidence": "stated",
+      "category": "council_ring",
+      "entities": [
+        "Camp Kanawana",
+        "Council Ring"
+      ],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0233",
+      "claim": "A totem pole was added to the Council Ring in 1927 under Harold Cross",
+      "sources": [
+        "src_mcmorris_thesis"
+      ],
+      "confidence": "stated",
+      "category": "council_ring",
+      "entities": [
+        "Camp Kanawana",
+        "Council Ring",
+        "Harold Cross"
+      ],
+      "date_ref": "1927",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0234",
+      "claim": "A teepee was built from old canvas at the Council Ring in 1927",
+      "sources": [
+        "src_mcmorris_thesis"
+      ],
+      "confidence": "stated",
+      "category": "council_ring",
+      "entities": [
+        "Camp Kanawana",
+        "Council Ring"
+      ],
+      "date_ref": "1927",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0235",
+      "claim": "The Council Ring was rebuilt in 1929 to seat 325 people",
+      "sources": [
+        "src_mcmorris_thesis"
+      ],
+      "confidence": "stated",
+      "category": "council_ring",
+      "entities": [
+        "Camp Kanawana",
+        "Council Ring"
+      ],
+      "date_ref": "1929",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0236",
+      "claim": "Canoe trips were introduced at Kanawana in 1925, with an extra charge of $3.50",
+      "sources": [
+        "src_mcmorris_thesis"
+      ],
+      "confidence": "stated",
+      "category": "canoe_trips",
+      "entities": [
+        "Camp Kanawana"
+      ],
+      "date_ref": "1925",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0237",
+      "claim": "In 1928, the Kanawana director suggested a 10-12 day canoe trip",
+      "sources": [
+        "src_mcmorris_thesis"
+      ],
+      "confidence": "stated",
+      "category": "canoe_trips",
+      "entities": [
+        "Camp Kanawana"
+      ],
+      "date_ref": "1928",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0238",
+      "claim": "The first canoe trips to the Lake Archambault region from Kanawana were in 1936",
+      "sources": [
+        "src_mcmorris_thesis"
+      ],
+      "confidence": "stated",
+      "category": "canoe_trips",
+      "entities": [
+        "Camp Kanawana",
+        "Lake Archambault"
+      ],
+      "date_ref": "1936",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0239",
+      "claim": "Eight canoe trips went to the Lake Archambault area from Kanawana in 1937",
+      "sources": [
+        "src_mcmorris_thesis"
+      ],
+      "confidence": "stated",
+      "category": "canoe_trips",
+      "entities": [
+        "Camp Kanawana",
+        "Lake Archambault"
+      ],
+      "date_ref": "1937",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0240",
+      "claim": "By 1950, Kanawana ran six canoe trips per week to Lake Archambault, Ottawa River, and Pembina River",
+      "sources": [
+        "src_mcmorris_thesis"
+      ],
+      "confidence": "stated",
+      "category": "canoe_trips",
+      "entities": [
+        "Camp Kanawana",
+        "Lake Archambault"
+      ],
+      "date_ref": "1950",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0241",
+      "claim": "In 1956, a committee was searching for a more remote northern canoe trip site",
+      "sources": [
+        "src_mcmorris_thesis"
+      ],
+      "confidence": "stated",
+      "category": "canoe_trips",
+      "entities": [
+        "Camp Kanawana"
+      ],
+      "date_ref": "1956",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0242",
+      "claim": "La Verendrye Park was chosen as the canoe trip base camp for campers 15+ in 1959",
+      "sources": [
+        "src_mcmorris_thesis"
+      ],
+      "confidence": "stated",
+      "category": "canoe_trips",
+      "entities": [
+        "Camp Kanawana",
+        "La Verendrye Park"
+      ],
+      "date_ref": "1959",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0243",
+      "claim": "Six canoe trips went out in the first summer at La Verendrye Park in 1959",
+      "sources": [
+        "src_mcmorris_thesis"
+      ],
+      "confidence": "stated",
+      "category": "canoe_trips",
+      "entities": [
+        "Camp Kanawana",
+        "La Verendrye Park"
+      ],
+      "date_ref": "1959",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0244",
+      "claim": "McMorris thesis Chapter 3 discusses Kanawana's participation in the 1967 Centennial canoe trip",
+      "sources": [
+        "src_mcmorris_thesis"
+      ],
+      "confidence": "stated",
+      "category": "centennial",
+      "entities": [
+        "Camp Kanawana"
+      ],
+      "date_ref": "1967",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0245",
+      "claim": "Figure 3.5 in the McMorris thesis shows Kanawana campers arriving in Ottawa in 1967",
+      "sources": [
+        "src_mcmorris_thesis"
+      ],
+      "confidence": "stated",
+      "category": "centennial",
+      "entities": [
+        "Camp Kanawana",
+        "Ottawa"
+      ],
+      "date_ref": "1967",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0246",
+      "claim": "The McMorris thesis used Concordia University Records Management and Archives (CURMA), reviewing over 10 boxes of the YMCA of Montreal fonds P145",
+      "sources": [
+        "src_mcmorris_thesis"
+      ],
+      "confidence": "stated",
+      "category": "meta",
+      "entities": [
+        "Concordia",
+        "YMCA"
+      ],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0247",
+      "claim": "The McMorris thesis noted a limitation: lack of camper-created content, relying mainly on staff narratives",
+      "sources": [
+        "src_mcmorris_thesis"
+      ],
+      "confidence": "stated",
+      "category": "meta",
+      "entities": [
+        "Camp Kanawana"
+      ],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0248",
+      "claim": "According to a 1951 camp history document, 'Kanawana' means 'lots to eat' in an Indigenous language",
+      "sources": [
+        "src_mcmorris_thesis"
+      ],
+      "confidence": "stated",
+      "category": "name_origin",
+      "entities": [
+        "Camp Kanawana"
+      ],
+      "date_ref": "1951",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0249",
+      "claim": "According to Ralph Dawson's history, the meaning of 'Kanawana' was not learned until years after the name was adopted",
+      "sources": [
+        "src_mcmorris_thesis"
+      ],
+      "confidence": "stated",
+      "category": "name_origin",
+      "entities": [
+        "Camp Kanawana",
+        "Ralph Dawson"
+      ],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0250",
+      "claim": "The specific Indigenous language for the name 'Kanawana' is not identified in the sources",
+      "sources": [
+        "src_mcmorris_thesis"
+      ],
+      "confidence": "stated",
+      "category": "name_origin",
+      "entities": [
+        "Camp Kanawana"
+      ],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0251",
+      "claim": "Taylor Statten was born in 1882 and was a Boer War veteran",
+      "sources": [
+        "src_mcmorris_thesis"
+      ],
+      "confidence": "stated",
+      "category": "camping_movement",
+      "entities": [
+        "Taylor Statten"
+      ],
+      "date_ref": "1882",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0252",
+      "claim": "Taylor Statten served as Boys' Work Secretary for the national YMCA from 1906",
+      "sources": [
+        "src_mcmorris_thesis"
+      ],
+      "confidence": "stated",
+      "category": "camping_movement",
+      "entities": [
+        "Taylor Statten",
+        "YMCA"
+      ],
+      "date_ref": "1906",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0253",
+      "claim": "Taylor Statten created the Canadian Standards Efficiency Training program",
+      "sources": [
+        "src_mcmorris_thesis"
+      ],
+      "confidence": "stated",
+      "category": "camping_movement",
+      "entities": [
+        "Taylor Statten"
+      ],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0254",
+      "claim": "Taylor Statten added First Nations lore and woodcraft to camp programming",
+      "sources": [
+        "src_mcmorris_thesis"
+      ],
+      "confidence": "stated",
+      "category": "camping_movement",
+      "entities": [
+        "Taylor Statten"
+      ],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0255",
+      "claim": "Taylor Statten called himself 'Chief' and took the Ojibwa name Gitchi-Ahmek",
+      "sources": [
+        "src_mcmorris_thesis"
+      ],
+      "confidence": "stated",
+      "category": "camping_movement",
+      "entities": [
+        "Taylor Statten"
+      ],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0256",
+      "claim": "Taylor Statten founded Camp Ahmek in 1921 at Canoe Lake, Algonquin Park (sometimes dated 1916)",
+      "sources": [
+        "src_mcmorris_thesis"
+      ],
+      "confidence": "stated",
+      "category": "camping_movement",
+      "entities": [
+        "Taylor Statten",
+        "Camp Ahmek"
+      ],
+      "date_ref": "1921",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0257",
+      "claim": "Camp Ahmek was the first Canadian-owned private camp in Algonquin Park",
+      "sources": [
+        "src_mcmorris_thesis"
+      ],
+      "confidence": "stated",
+      "category": "camping_movement",
+      "entities": [
+        "Camp Ahmek",
+        "Algonquin Park"
+      ],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0258",
+      "claim": "Pierre Trudeau and Justin Trudeau (and brothers) were famous campers at Camp Ahmek",
+      "sources": [
+        "src_mcmorris_thesis"
+      ],
+      "confidence": "stated",
+      "category": "camping_movement",
+      "entities": [
+        "Camp Ahmek",
+        "Pierre Trudeau",
+        "Justin Trudeau"
+      ],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0259",
+      "claim": "Taylor Statten founded Camp Wapomeo (girls camp) in 1924",
+      "sources": [
+        "src_mcmorris_thesis"
+      ],
+      "confidence": "stated",
+      "category": "camping_movement",
+      "entities": [
+        "Taylor Statten",
+        "Camp Wapomeo"
+      ],
+      "date_ref": "1924",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0260",
+      "claim": "Statten's Indian Lore programming influenced camps across Canada, including Kanawana",
+      "sources": [
+        "src_mcmorris_thesis"
+      ],
+      "confidence": "stated",
+      "category": "camping_movement",
+      "entities": [
+        "Taylor Statten",
+        "Camp Kanawana"
+      ],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0261",
+      "claim": "Concordia archives contain Taylor Statten weekly letters from 1915",
+      "sources": [
+        "src_concordia_fonds"
+      ],
+      "confidence": "stated",
+      "category": "camping_movement",
+      "entities": [
+        "Taylor Statten",
+        "Concordia"
+      ],
+      "date_ref": "1915",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0262",
+      "claim": "Ernest Thompson Seton was a naturalist, author, and founder of the Woodcraft League of America",
+      "sources": [
+        "src_mcmorris_thesis"
+      ],
+      "confidence": "stated",
+      "category": "camping_movement",
+      "entities": [
+        "Ernest Thompson Seton"
+      ],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0263",
+      "claim": "Ernest Thompson Seton spent summer 1922 at Canoe Lake creating the Indian Lore program at Taylor Statten's request",
+      "sources": [
+        "src_mcmorris_thesis"
+      ],
+      "confidence": "stated",
+      "category": "camping_movement",
+      "entities": [
+        "Ernest Thompson Seton",
+        "Taylor Statten"
+      ],
+      "date_ref": "1922",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0264",
+      "claim": "Seton created the Indian Council Ring, 'traditional' dances, sweat lodges, and Indian crafts programs",
+      "sources": [
+        "src_mcmorris_thesis"
+      ],
+      "confidence": "stated",
+      "category": "camping_movement",
+      "entities": [
+        "Ernest Thompson Seton"
+      ],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0265",
+      "claim": "The Canadian Camping Association was founded in 1936 with Taylor Statten as its first president",
+      "sources": [
+        "src_mcmorris_thesis"
+      ],
+      "confidence": "stated",
+      "category": "camping_movement",
+      "entities": [
+        "Canadian Camping Association",
+        "Taylor Statten"
+      ],
+      "date_ref": "1936",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0266",
+      "claim": "The Canadian Camping Association is a non-profit national federation representing over 800 camps across Canada",
+      "sources": [
+        "src_mcmorris_thesis"
+      ],
+      "confidence": "stated",
+      "category": "camping_movement",
+      "entities": [
+        "Canadian Camping Association"
+      ],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0267",
+      "claim": "The Canadian Camping Association organized Centenary Journey canoe trips for the 1967 Centennial",
+      "sources": [
+        "src_mcmorris_thesis"
+      ],
+      "confidence": "stated",
+      "category": "centennial",
+      "entities": [
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1967",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0268",
+      "claim": "Montreal YMCA established the first permanent Boys Work program in Canadian YMCA history in 1883",
+      "sources": [
+        "src_ballantyne_1944"
+      ],
+      "confidence": "stated",
+      "category": "camping_movement",
+      "entities": [
+        "YMCA",
+        "Montreal"
+      ],
+      "date_ref": "1883",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0269",
+      "claim": "By 1942, 5,835 boys attended Canadian YMCA camps totaling 95,360 camper-days",
+      "sources": [
+        "src_ballantyne_1944"
+      ],
+      "confidence": "stated",
+      "category": "camping_movement",
+      "entities": [
+        "YMCA"
+      ],
+      "date_ref": "1942",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0270",
+      "claim": "The Voyageur Canoe Pageant ran from May 24 to September 4, 1967",
+      "sources": [
+        "src_mcmorris_thesis"
+      ],
+      "confidence": "stated",
+      "category": "centennial",
+      "entities": [
+        "Voyageur Canoe Pageant"
+      ],
+      "date_ref": "1967",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0271",
+      "claim": "The Voyageur Canoe Pageant route went from Rocky Mountain House, Alberta to Expo '67, Montreal: 3,283 miles paddled plus 60 miles portaging over 104 days",
+      "sources": [
+        "src_mcmorris_thesis"
+      ],
+      "confidence": "stated",
+      "category": "centennial",
+      "entities": [
+        "Voyageur Canoe Pageant"
+      ],
+      "date_ref": "1967",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0272",
+      "claim": "Ten teams participated in the Voyageur Canoe Pageant (8 provinces plus Yukon and NWT; PEI and Newfoundland did not participate)",
+      "sources": [
+        "src_mcmorris_thesis"
+      ],
+      "confidence": "stated",
+      "category": "centennial",
+      "entities": [
+        "Voyageur Canoe Pageant"
+      ],
+      "date_ref": "1967",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0273",
+      "claim": "Each Voyageur Canoe Pageant team had 10 men with 6-man shifts",
+      "sources": [
+        "src_mcmorris_thesis"
+      ],
+      "confidence": "stated",
+      "category": "centennial",
+      "entities": [
+        "Voyageur Canoe Pageant"
+      ],
+      "date_ref": "1967",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0274",
+      "claim": "Manitoba won the Voyageur Canoe Pageant with a time of 507 hours 21 minutes 51 seconds",
+      "sources": [
+        "src_mcmorris_thesis"
+      ],
+      "confidence": "stated",
+      "category": "centennial",
+      "entities": [
+        "Voyageur Canoe Pageant",
+        "Manitoba"
+      ],
+      "date_ref": "1967",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0275",
+      "claim": "Each Voyageur Canoe Pageant canoe was named after a Canadian explorer (David Thompson, Henry Kelsey, Pierre La Verendrye, etc.)",
+      "sources": [
+        "src_mcmorris_thesis"
+      ],
+      "confidence": "stated",
+      "category": "centennial",
+      "entities": [
+        "Voyageur Canoe Pageant"
+      ],
+      "date_ref": "1967",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0276",
+      "claim": "Judy LaMarsh (Secretary of State) started and finished the Voyageur Canoe Pageant race",
+      "sources": [
+        "src_mcmorris_thesis"
+      ],
+      "confidence": "stated",
+      "category": "centennial",
+      "entities": [
+        "Judy LaMarsh",
+        "Voyageur Canoe Pageant"
+      ],
+      "date_ref": "1967",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0277",
+      "claim": "John Fisher (Centennial Commissioner) greeted paddlers in Ottawa on August 29, 1967",
+      "sources": [
+        "src_mcmorris_thesis"
+      ],
+      "confidence": "stated",
+      "category": "centennial",
+      "entities": [
+        "John Fisher",
+        "Voyageur Canoe Pageant"
+      ],
+      "date_ref": "1967",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0278",
+      "claim": "Don Starkell was a Manitoba team member in the Voyageur Canoe Pageant, later becoming an adventurer and author",
+      "sources": [
+        "src_mcmorris_thesis"
+      ],
+      "confidence": "stated",
+      "category": "centennial",
+      "entities": [
+        "Don Starkell",
+        "Voyageur Canoe Pageant"
+      ],
+      "date_ref": "1967",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0279",
+      "claim": "The Voyageur Canoe Pageant followed the historic fur trade route and concluded with paddling the Lachine Rapids where the Yukon team was swamped and rescued",
+      "sources": [
+        "src_mcmorris_thesis"
+      ],
+      "confidence": "stated",
+      "category": "centennial",
+      "entities": [
+        "Voyageur Canoe Pageant"
+      ],
+      "date_ref": "1967",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0280",
+      "claim": "The CCA Centenary Journey was a youth canoe trip program organized by the Canadian Camping Association / Ontario Camping Association in 1967",
+      "sources": [
+        "src_mcmorris_thesis"
+      ],
+      "confidence": "stated",
+      "category": "centennial",
+      "entities": [
+        "Canadian Camping Association",
+        "Ontario Camping Association"
+      ],
+      "date_ref": "1967",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0281",
+      "claim": "Trent University Archives hold the Ontario Camping Association fonds (78-006) with Centennial Canoe Trip records",
+      "sources": [
+        "src_mcmorris_thesis"
+      ],
+      "confidence": "stated",
+      "category": "centennial",
+      "entities": [
+        "Ontario Camping Association",
+        "Trent University"
+      ],
+      "date_ref": "1967",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0282",
+      "claim": "Six Kanawana boys and two counsellors participated in the 1967 CCA Centenary Journey, paddling 150 miles from Montreal to Ottawa via the Ottawa River",
+      "sources": [
+        "src_mcmorris_thesis"
+      ],
+      "confidence": "stated",
+      "category": "centennial",
+      "entities": [
+        "Camp Kanawana"
+      ],
+      "date_ref": "1967",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0283",
+      "claim": "A busload of Kanawana campers singing the Kanawana song greeted the canoe trip participants in Ottawa",
+      "sources": [
+        "src_mcmorris_thesis"
+      ],
+      "confidence": "stated",
+      "category": "centennial",
+      "entities": [
+        "Camp Kanawana"
+      ],
+      "date_ref": "1967",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0284",
+      "claim": "Kanawana 1967 Centenary Journey participants wore colourful plaid lumberman shirts and decorated canoes with decals and crests",
+      "sources": [
+        "src_mcmorris_thesis"
+      ],
+      "confidence": "stated",
+      "category": "centennial",
+      "entities": [
+        "Camp Kanawana"
+      ],
+      "date_ref": "1967",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0285",
+      "claim": "24 young Jesuits in 4 canoes retraced 17th-century missionary routes and joined the Voyageur Pageant at North Bay on August 21, 1967",
+      "sources": [
+        "src_mcmorris_thesis"
+      ],
+      "confidence": "stated",
+      "category": "centennial",
+      "entities": [
+        "Voyageur Canoe Pageant"
+      ],
+      "date_ref": "1967",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0286",
+      "claim": "Taylor Statten Camps first sent groups to Quetico in 1965 as part of the OCA Centennial Program, which became a permanent program",
+      "sources": [
+        "src_mcmorris_thesis"
+      ],
+      "confidence": "stated",
+      "category": "centennial",
+      "entities": [
+        "Taylor Statten",
+        "Quetico"
+      ],
+      "date_ref": "1965",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0287",
+      "claim": "Expo '67 World's Fair was held in Montreal from April to October 1967",
+      "sources": [
+        "src_mcmorris_thesis"
+      ],
+      "confidence": "stated",
+      "category": "centennial",
+      "entities": [
+        "Montreal",
+        "Expo 67"
+      ],
+      "date_ref": "1967",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0288",
+      "claim": "Pierre Berton called 1967 'The Last Good Year' in his book",
+      "sources": [
+        "src_mcmorris_thesis"
+      ],
+      "confidence": "stated",
+      "category": "centennial",
+      "entities": [
+        "Pierre Berton"
+      ],
+      "date_ref": "1967",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0289",
+      "claim": "The 1921 brochure was titled 'Kamp Kanawana Montreal YMCA Boys Camp' and was a single sheet/folded with a practical tone",
+      "sources": [
+        "src_brochure_1921"
+      ],
+      "confidence": "stated",
+      "category": "brochures",
+      "entities": [
+        "Camp Kanawana"
+      ],
+      "date_ref": "1921",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0290",
+      "claim": "The 1921 brochure contained sections: A Word to Parents, A Word to Campers, Location, Leadership, Equipment, Program, What to Bring, Registration",
+      "sources": [
+        "src_brochure_1921"
+      ],
+      "confidence": "stated",
+      "category": "brochures",
+      "entities": [
+        "Camp Kanawana"
+      ],
+      "date_ref": "1921",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0291",
+      "claim": "The 1921 brochure highlighted wireless equipment as new, mentioned 32 instructional subjects, and emphasized character development",
+      "sources": [
+        "src_brochure_1921"
+      ],
+      "confidence": "stated",
+      "category": "brochures",
+      "entities": [
+        "Camp Kanawana"
+      ],
+      "date_ref": "1921",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0292",
+      "claim": "The 1922 brochure was a multi-page booklet with photos and more detailed content than 1921",
+      "sources": [
+        "src_brochure_1922"
+      ],
+      "confidence": "stated",
+      "category": "brochures",
+      "entities": [
+        "Camp Kanawana"
+      ],
+      "date_ref": "1922",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0293",
+      "claim": "The 1922 brochure included the camp yell, Junior/Senior division structure, new hospital, Woodcraft League charter, Gas Bag newspaper, Royal Astronomical Society visit",
+      "sources": [
+        "src_brochure_1922"
+      ],
+      "confidence": "stated",
+      "category": "brochures",
+      "entities": [
+        "Camp Kanawana"
+      ],
+      "date_ref": "1922",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0294",
+      "claim": "The Shawbridge Meet had been held annually for ten years as of 1922 (since approximately 1912)",
+      "sources": [
+        "src_brochure_1922"
+      ],
+      "confidence": "stated",
+      "category": "traditions",
+      "entities": [
+        "Camp Kanawana",
+        "Shawbridge"
+      ],
+      "date_ref": "1922",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0295",
+      "claim": "Camp Kanawana cost in 1922 was $8.50 for the first week, $8.00 for subsequent weeks, $2 deposit, including railway fare",
+      "sources": [
+        "src_brochure_1922"
+      ],
+      "confidence": "stated",
+      "category": "brochures",
+      "entities": [
+        "Camp Kanawana"
+      ],
+      "date_ref": "1922",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0296",
+      "claim": "The 1923 brochure was titled 'Kanawana: The YMCA Camp for Boys 12-17 in the Laurentians' with a literary/aspirational tone, a significant rebrand from 1922",
+      "sources": [
+        "src_brochure_1923"
+      ],
+      "confidence": "stated",
+      "category": "brochures",
+      "entities": [
+        "Camp Kanawana"
+      ],
+      "date_ref": "1923",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0297",
+      "claim": "The 1923 brochure featured 'creative camp' language, stated the camp was 'not a summer hotel', and used a simplified cost of $8.50 per week with $2 registration",
+      "sources": [
+        "src_brochure_1923"
+      ],
+      "confidence": "stated",
+      "category": "brochures",
+      "entities": [
+        "Camp Kanawana"
+      ],
+      "date_ref": "1923",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0298",
+      "claim": "The 1922 brochure states twelve years of effort (implying approximately 1910-1911 start at the Laurentian site)",
+      "sources": [
+        "src_brochure_1922"
+      ],
+      "confidence": "stated",
+      "category": "founding",
+      "entities": [
+        "Camp Kanawana"
+      ],
+      "date_ref": "1922",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0299",
+      "claim": "The camp cheer in 1922 was 'Yo Triumphy! Yo Triumphy! Hoben Sloben Rebecca Leeammour...'",
+      "sources": [
+        "src_brochure_1922"
+      ],
+      "confidence": "stated",
+      "category": "traditions",
+      "entities": [
+        "Camp Kanawana"
+      ],
+      "date_ref": "1922",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0300",
+      "claim": "The camp motto in 1922 was 'Each for all and all for each'",
+      "sources": [
+        "src_brochure_1922"
+      ],
+      "confidence": "stated",
+      "category": "traditions",
+      "entities": [
+        "Camp Kanawana"
+      ],
+      "date_ref": "1922",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0301",
+      "claim": "Transport to camp in 1922 was via the 7:30 AM train from Place Viger Station on CPR to Ste. Agathe line, disembarking at Piedmont",
+      "sources": [
+        "src_brochure_1922"
+      ],
+      "confidence": "stated",
+      "category": "geography",
+      "entities": [
+        "Camp Kanawana",
+        "Place Viger Station",
+        "Piedmont"
+      ],
+      "date_ref": "1922",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0302",
+      "claim": "Camp Kanawana in 1922 had Junior and Senior sections with separate activities but together for meals",
+      "sources": [
+        "src_brochure_1922"
+      ],
+      "confidence": "stated",
+      "category": "section_names",
+      "entities": [
+        "Camp Kanawana"
+      ],
+      "date_ref": "1922",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0303",
+      "claim": "New facilities in 1922 included a Dining Pavilion, lakeside Pavilion, new Hospital, and fenced swimming pool",
+      "sources": [
+        "src_brochure_1922"
+      ],
+      "confidence": "stated",
+      "category": "facilities",
+      "entities": [
+        "Camp Kanawana"
+      ],
+      "date_ref": "1922",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0304",
+      "claim": "Camp Kanawana held a chartered tribe in the Woodcraft League of America in 1922",
+      "sources": [
+        "src_brochure_1922"
+      ],
+      "confidence": "stated",
+      "category": "programs",
+      "entities": [
+        "Camp Kanawana",
+        "Woodcraft League of America"
+      ],
+      "date_ref": "1922",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0305",
+      "claim": "The honour system in 1922 had 32 subjects, with the Large K as the highest award; badges and camp emblems were given",
+      "sources": [
+        "src_brochure_1922"
+      ],
+      "confidence": "stated",
+      "category": "programs",
+      "entities": [
+        "Camp Kanawana"
+      ],
+      "date_ref": "1922",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0306",
+      "claim": "The Kanawana-Boys Farm Meet (Shawbridge) was an annual athletic competition involving a hike to Shawbridge, with the J. Earl Birks Trophy, held annually for about 10 years by 1922",
+      "sources": [
+        "src_brochure_1922"
+      ],
+      "confidence": "stated",
+      "category": "traditions",
+      "entities": [
+        "Camp Kanawana",
+        "Shawbridge",
+        "J. Earl Birks Trophy"
+      ],
+      "date_ref": "1922",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0307",
+      "claim": "Minimum age for Kanawana in 1922 was 12 years old",
+      "sources": [
+        "src_brochure_1922"
+      ],
+      "confidence": "stated",
+      "category": "programs",
+      "entities": [
+        "Camp Kanawana"
+      ],
+      "date_ref": "1922",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0308",
+      "claim": "In 1922, YMCA branches serving Kanawana included Central (127 Drummond), Westmount (4585 Sherbrooke), North (2300 Park Ave), Eastern (244 St. Catherine W), Cote St. Paul, and Railroad (Pt St. Charles)",
+      "sources": [
+        "src_brochure_1922"
+      ],
+      "confidence": "stated",
+      "category": "programs",
+      "entities": [
+        "Camp Kanawana",
+        "YMCA"
+      ],
+      "date_ref": "1922",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0309",
+      "claim": "The Gas Bag 1923 was a 'Re-union Number' newsletter documenting the 14th season, from June 23 to September 1, 1923",
+      "sources": [
+        "src_gas_bag_1923"
+      ],
+      "confidence": "stated",
+      "category": "brochures",
+      "entities": [
+        "Camp Kanawana",
+        "Gas Bag"
+      ],
+      "date_ref": "1923",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0310",
+      "claim": "The 14th season in 1923 counts from the first season at the Laurentian site in 1910 (not from 1894 Camp Jubilee)",
+      "sources": [
+        "src_gas_bag_1923"
+      ],
+      "confidence": "inferred",
+      "category": "founding",
+      "entities": [
+        "Camp Kanawana"
+      ],
+      "date_ref": "1923",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0311",
+      "claim": "Camp sections in 1923 were Senior Camp, North Branch, and Mount Royal",
+      "sources": [
+        "src_gas_bag_1923"
+      ],
+      "confidence": "stated",
+      "category": "section_names",
+      "entities": [
+        "Camp Kanawana"
+      ],
+      "date_ref": "1923",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0312",
+      "claim": "Outpost camps in 1923 included Otoreke (senior camp) and Lake Marois",
+      "sources": [
+        "src_gas_bag_1923"
+      ],
+      "confidence": "stated",
+      "category": "geography",
+      "entities": [
+        "Camp Kanawana",
+        "Otoreke",
+        "Lake Marois"
+      ],
+      "date_ref": "1923",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0313",
+      "claim": "Hike destinations from Kanawana in 1923 included Val Morin, Lac Hughes, Ste. Agathe, Sixteen Island Lake, Lac Wilson, Pages, and Ste-Adolphe",
+      "sources": [
+        "src_gas_bag_1923"
+      ],
+      "confidence": "stated",
+      "category": "geography",
+      "entities": [
+        "Camp Kanawana"
+      ],
+      "date_ref": "1923",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0314",
+      "claim": "The 1923 badge system had 42 total badges available",
+      "sources": [
+        "src_gas_bag_1923"
+      ],
+      "confidence": "stated",
+      "category": "programs",
+      "entities": [
+        "Camp Kanawana"
+      ],
+      "date_ref": "1923",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0315",
+      "claim": "To earn the Large K in 1923, a camper needed to be a 2nd-year camper, hold the small k, instruct 3 weeks, complete 2 activities, and attend Sunday service",
+      "sources": [
+        "src_gas_bag_1923"
+      ],
+      "confidence": "stated",
+      "category": "programs",
+      "entities": [
+        "Camp Kanawana"
+      ],
+      "date_ref": "1923",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0316",
+      "claim": "The small k badge in 1923 required Life-Saving + 2 Aquatic, Bible Study + 2 Educational, Altruism + 2 Social Service, Hike + 2 Athletic",
+      "sources": [
+        "src_gas_bag_1923"
+      ],
+      "confidence": "stated",
+      "category": "programs",
+      "entities": [
+        "Camp Kanawana"
+      ],
+      "date_ref": "1923",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0317",
+      "claim": "The triangle badge in 1923 required 8 badges: 2 Athletic, 2 Educational, 2 Aquatic, 2 Social Service",
+      "sources": [
+        "src_gas_bag_1923"
+      ],
+      "confidence": "stated",
+      "category": "programs",
+      "entities": [
+        "Camp Kanawana"
+      ],
+      "date_ref": "1923",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0318",
+      "claim": "KLS (Kanawana Life Saver) was based on the RLSS Award of Merit",
+      "sources": [
+        "src_gas_bag_1923"
+      ],
+      "confidence": "stated",
+      "category": "programs",
+      "entities": [
+        "Camp Kanawana"
+      ],
+      "date_ref": "1923",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0319",
+      "claim": "The Altruism badge was the highest badge in 1923, awarded by the Director/Leaders and could not be tried for",
+      "sources": [
+        "src_gas_bag_1923"
+      ],
+      "confidence": "stated",
+      "category": "programs",
+      "entities": [
+        "Camp Kanawana"
+      ],
+      "date_ref": "1923",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0320",
+      "claim": "Top badge earners in 1923: Jack Willmot (18 badges), Leonard Hutton (17), Can Ballantyne (14)",
+      "sources": [
+        "src_gas_bag_1923"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "Jack Willmot",
+        "Leonard Hutton",
+        "Can Ballantyne",
+        "Camp Kanawana"
+      ],
+      "date_ref": "1923",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0321",
+      "claim": "Annual Silver Trophies were awarded for inter-branch competition in 1923; Westmount won Athletics and Aquatics for the 3rd consecutive year",
+      "sources": [
+        "src_gas_bag_1923"
+      ],
+      "confidence": "stated",
+      "category": "traditions",
+      "entities": [
+        "Camp Kanawana",
+        "Westmount"
+      ],
+      "date_ref": "1923",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0322",
+      "claim": "Girls from Marois visited Kanawana in 1923 for a mixed regatta, ball game, and dance",
+      "sources": [
+        "src_gas_bag_1923"
+      ],
+      "confidence": "stated",
+      "category": "coeducation",
+      "entities": [
+        "Camp Kanawana",
+        "Marois"
+      ],
+      "date_ref": "1923",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0323",
+      "claim": "The 1923 season closing featured a Council Ring ceremony where a record of activities was buried, followed by a Leaders Grand Feed",
+      "sources": [
+        "src_gas_bag_1923"
+      ],
+      "confidence": "stated",
+      "category": "traditions",
+      "entities": [
+        "Camp Kanawana",
+        "Council Ring"
+      ],
+      "date_ref": "1923",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0324",
+      "claim": "The Voyageurs de la Verendrye program was introduced in the 1950s",
+      "sources": [
+        "src_kanawana_facts"
+      ],
+      "confidence": "stated",
+      "category": "programs",
+      "entities": [
+        "Camp Kanawana"
+      ],
+      "date_ref": "1950",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0325",
+      "claim": "The Counsellor-in-Training (CIT) program was introduced in the 1960s",
+      "sources": [
+        "src_kanawana_facts"
+      ],
+      "confidence": "stated",
+      "category": "programs",
+      "entities": [
+        "Camp Kanawana"
+      ],
+      "date_ref": "1960",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0326",
+      "claim": "Winter outdoor family camping was introduced in the 1970s",
+      "sources": [
+        "src_kanawana_facts"
+      ],
+      "confidence": "stated",
+      "category": "programs",
+      "entities": [
+        "Camp Kanawana"
+      ],
+      "date_ref": "1970",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0327",
+      "claim": "Year-round residential programming began at Kanawana in 1996",
+      "sources": [
+        "src_kanawana_facts"
+      ],
+      "confidence": "stated",
+      "category": "programs",
+      "entities": [
+        "Camp Kanawana"
+      ],
+      "date_ref": "1996",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0328",
+      "claim": "Kanawana BE program for ages 5-6 was introduced in 1997",
+      "sources": [
+        "src_kanawana_facts"
+      ],
+      "confidence": "stated",
+      "category": "programs",
+      "entities": [
+        "Camp Kanawana"
+      ],
+      "date_ref": "1997",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0329",
+      "claim": "The one-month Adventurer Canoe Trip was introduced in 1998",
+      "sources": [
+        "src_kanawana_facts"
+      ],
+      "confidence": "stated",
+      "category": "canoe_trips",
+      "entities": [
+        "Camp Kanawana"
+      ],
+      "date_ref": "1998",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0330",
+      "claim": "Camp Perrot was a separate YMCA camp from Kanawana",
+      "sources": [
+        "src_concordia_fonds"
+      ],
+      "confidence": "stated",
+      "category": "camping_movement",
+      "entities": [
+        "Camp Perrot",
+        "YMCA"
+      ],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0331",
+      "claim": "Camp Otoreke was a canoe trip destination from Kanawana",
+      "sources": [
+        "src_history_1935"
+      ],
+      "confidence": "stated",
+      "category": "canoe_trips",
+      "entities": [
+        "Camp Kanawana",
+        "Otoreke"
+      ],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0332",
+      "claim": "Pine Crest camp in Ontario was the origin of the L&V Games tradition",
+      "sources": [
+        "src_oral_aronson"
+      ],
+      "confidence": "user_knowledge",
+      "category": "lv_games",
+      "entities": [
+        "Pine Crest",
+        "L&V Games"
+      ],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0333",
+      "claim": "The Green Triangle newsletter ran from 1932 to 1940",
+      "sources": [
+        "src_concordia_fonds"
+      ],
+      "confidence": "stated",
+      "category": "brochures",
+      "entities": [
+        "Camp Kanawana",
+        "Green Triangle"
+      ],
+      "date_ref": "1932",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0334",
+      "claim": "The Gas Bag newsletter was published in 1923",
+      "sources": [
+        "src_concordia_fonds"
+      ],
+      "confidence": "stated",
+      "category": "brochures",
+      "entities": [
+        "Camp Kanawana",
+        "Gas Bag"
+      ],
+      "date_ref": "1923",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0335",
+      "claim": "Ka-News newsletter was published in 1976 and 1978-1982",
+      "sources": [
+        "src_concordia_fonds"
+      ],
+      "confidence": "stated",
+      "category": "brochures",
+      "entities": [
+        "Camp Kanawana",
+        "Ka-News"
+      ],
+      "date_ref": "1976",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0336",
+      "claim": "The Look Out newsletter was published in 1994 (Vol 1, No. 3)",
+      "sources": [
+        "src_concordia_fonds"
+      ],
+      "confidence": "stated",
+      "category": "brochures",
+      "entities": [
+        "Camp Kanawana",
+        "The Look Out"
+      ],
+      "date_ref": "1994",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0337",
+      "claim": "The Chestnut newsletter was published in 1965",
+      "sources": [
+        "src_concordia_fonds"
+      ],
+      "confidence": "stated",
+      "category": "brochures",
+      "entities": [
+        "Camp Kanawana",
+        "The Chestnut"
+      ],
+      "date_ref": "1965",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0338",
+      "claim": "A 1913 Campers' reunion place mat/napkin is the earliest Kanawana artifact in Concordia archives",
+      "sources": [
+        "src_concordia_fonds"
+      ],
+      "confidence": "stated",
+      "category": "facilities",
+      "entities": [
+        "Camp Kanawana",
+        "Concordia"
+      ],
+      "date_ref": "1913",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0339",
+      "claim": "An 1897 summer camp brochure exists on page 156 of a large scrapbook in Concordia archives",
+      "sources": [
+        "src_concordia_fonds"
+      ],
+      "confidence": "stated",
+      "category": "brochures",
+      "entities": [
+        "Camp Kanawana",
+        "Concordia"
+      ],
+      "date_ref": "1897",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0340",
+      "claim": "A 1974 Orienteering map (6 photocopies) is held in Concordia archives",
+      "sources": [
+        "src_concordia_fonds"
+      ],
+      "confidence": "stated",
+      "category": "facilities",
+      "entities": [
+        "Camp Kanawana",
+        "Concordia"
+      ],
+      "date_ref": "1974",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0341",
+      "claim": "'On My Way to Kanawana' is a CD by Richard 'Itch' Kerr, catalogued as P145/SR0001 in Concordia archives",
+      "sources": [
+        "src_concordia_fonds"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "Richard Kerr",
+        "Camp Kanawana"
+      ],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0342",
+      "claim": "'Kamp Kanawana: The Experience that Lasts a Lifetime' is a 1996 VHS video (9 minutes) in Concordia archives",
+      "sources": [
+        "src_concordia_fonds"
+      ],
+      "confidence": "stated",
+      "category": "brochures",
+      "entities": [
+        "Camp Kanawana"
+      ],
+      "date_ref": "1996",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0343",
+      "claim": "CFCF radio broadcasts about Kanawana ran from 1936 to 1941",
+      "sources": [
+        "src_concordia_fonds"
+      ],
+      "confidence": "stated",
+      "category": "brochures",
+      "entities": [
+        "Camp Kanawana",
+        "CFCF"
+      ],
+      "date_ref": "1936",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0344",
+      "claim": "Boys' camp evaluations exist for 1922-1927 and 1930 in Concordia archives",
+      "sources": [
+        "src_concordia_fonds"
+      ],
+      "confidence": "stated",
+      "category": "meta",
+      "entities": [
+        "Camp Kanawana",
+        "Concordia"
+      ],
+      "date_ref": "1922",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0345",
+      "claim": "'History of Camping' notes from 1936 exist in Concordia archives",
+      "sources": [
+        "src_concordia_fonds"
+      ],
+      "confidence": "stated",
+      "category": "meta",
+      "entities": [
+        "Camp Kanawana",
+        "Concordia"
+      ],
+      "date_ref": "1936",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0346",
+      "claim": "A 'Comparison-Kamp Kanawana and Camp Perrot' document exists for 1945-46 and 1950 in Concordia archives",
+      "sources": [
+        "src_concordia_fonds"
+      ],
+      "confidence": "stated",
+      "category": "meta",
+      "entities": [
+        "Camp Kanawana",
+        "Camp Perrot",
+        "Concordia"
+      ],
+      "date_ref": "1945",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0347",
+      "claim": "Permanent Camp Committee minutes exist for 1895-1896, 1908, 1911-1926, 1921 in Concordia archives fonds 12A",
+      "sources": [
+        "src_concordia_fonds"
+      ],
+      "confidence": "stated",
+      "category": "meta",
+      "entities": [
+        "YMCA",
+        "Concordia"
+      ],
+      "date_ref": "1895",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0348",
+      "claim": "Permanent Camp Committee correspondence from 1899-1901 exists in Concordia archives fonds 12A",
+      "sources": [
+        "src_concordia_fonds"
+      ],
+      "confidence": "stated",
+      "category": "meta",
+      "entities": [
+        "YMCA",
+        "Concordia"
+      ],
+      "date_ref": "1899",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0349",
+      "claim": "R.L. Charlton wrote 'Notes re Early Days of YMCA Camps at Lake St. Joseph and Kanawana' in 1943 (fonds 12A)",
+      "sources": [
+        "src_concordia_fonds"
+      ],
+      "confidence": "stated",
+      "category": "meta",
+      "entities": [
+        "R.L. Charlton",
+        "Camp Kanawana"
+      ],
+      "date_ref": "1943",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0350",
+      "claim": "Ralph Dawson wrote 'History of Kamp Kanawana' in 1933 (fonds 12A)",
+      "sources": [
+        "src_concordia_fonds"
+      ],
+      "confidence": "stated",
+      "category": "meta",
+      "entities": [
+        "Ralph Dawson",
+        "Camp Kanawana"
+      ],
+      "date_ref": "1933",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0351",
+      "claim": "W.E. Cushing wrote 'Historical sketches-Lake St. Joseph' in 1943 (fonds 12A)",
+      "sources": [
+        "src_concordia_fonds"
+      ],
+      "confidence": "stated",
+      "category": "meta",
+      "entities": [
+        "W.E. Cushing",
+        "Camp Kanawana"
+      ],
+      "date_ref": "1943",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0352",
+      "claim": "Hedley G. Dimock conducted multiple counsellor research studies at Kanawana from 1960 to 1970",
+      "sources": [
+        "src_concordia_fonds"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "Hedley G. Dimock",
+        "Camp Kanawana"
+      ],
+      "date_ref": "1960",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0353",
+      "claim": "A Canadian Centennial family camping project ran at Kanawana in 1966-1967",
+      "sources": [
+        "src_concordia_fonds"
+      ],
+      "confidence": "stated",
+      "category": "centennial",
+      "entities": [
+        "Camp Kanawana"
+      ],
+      "date_ref": "1966",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0354",
+      "claim": "Plans for a proposed two-site operation using Kanawana and Weredale existed from 1977 to 1980",
+      "sources": [
+        "src_concordia_fonds"
+      ],
+      "confidence": "stated",
+      "category": "facilities",
+      "entities": [
+        "Camp Kanawana",
+        "Weredale"
+      ],
+      "date_ref": "1977",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0355",
+      "claim": "A Montreal Council of Social Agencies Camp Survey was conducted in 1944",
+      "sources": [
+        "src_concordia_fonds"
+      ],
+      "confidence": "stated",
+      "category": "meta",
+      "entities": [
+        "Camp Kanawana"
+      ],
+      "date_ref": "1944",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0356",
+      "claim": "R.H. Hanagan wrote a report in 1946 as 'Montreal YMCA camp director'",
+      "sources": [
+        "src_concordia_fonds"
+      ],
+      "confidence": "stated",
+      "category": "directors",
+      "entities": [
+        "R.H. Hanagan",
+        "Camp Kanawana"
+      ],
+      "date_ref": "1946",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0357",
+      "claim": "Grace McMorris wrote the MA thesis 'An Experience That Lasts a Lifetime: Building Modernity, Man, and Nation at the YMCA of Montreal's Kamp Kanawana, 1894-1967' at Concordia University in August 2023",
+      "sources": [
+        "src_mcmorris_thesis"
+      ],
+      "confidence": "stated",
+      "category": "meta",
+      "entities": [
+        "Grace McMorris",
+        "Camp Kanawana",
+        "Concordia"
+      ],
+      "date_ref": "2023",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0358",
+      "claim": "The McMorris thesis was supervised by Dr. Peter Gossage at Concordia University",
+      "sources": [
+        "src_mcmorris_thesis"
+      ],
+      "confidence": "stated",
+      "category": "meta",
+      "entities": [
+        "Grace McMorris",
+        "Peter Gossage",
+        "Concordia"
+      ],
+      "date_ref": "2023",
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0359",
+      "claim": "The McMorris thesis cited key archival sources P145/12B01, P145/12B07, P145/12B04, and P145/02D from CURMA",
+      "sources": [
+        "src_mcmorris_thesis"
+      ],
+      "confidence": "stated",
+      "category": "meta",
+      "entities": [
+        "Concordia",
+        "YMCA"
+      ],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0360",
+      "claim": "Sharon Wall's research focused on Ontario camps; Kanawana fills the Quebec gap in camp historiography",
+      "sources": [
+        "src_mcmorris_thesis"
+      ],
+      "confidence": "stated",
+      "category": "meta",
+      "entities": [
+        "Sharon Wall",
+        "Camp Kanawana"
+      ],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0361",
+      "claim": "Leslie Paris studied American camps in parallel to the McMorris thesis approach",
+      "sources": [
+        "src_mcmorris_thesis"
+      ],
+      "confidence": "stated",
+      "category": "meta",
+      "entities": [
+        "Leslie Paris"
+      ],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0362",
+      "claim": "Bruce Erickson's canoe nationalism analysis was applied in the McMorris thesis",
+      "sources": [
+        "src_mcmorris_thesis"
+      ],
+      "confidence": "stated",
+      "category": "meta",
+      "entities": [
+        "Bruce Erickson"
+      ],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0363",
+      "claim": "Gillian Poulter's 'becoming native' framework was used in the McMorris thesis",
+      "sources": [
+        "src_mcmorris_thesis"
+      ],
+      "confidence": "stated",
+      "category": "meta",
+      "entities": [
+        "Gillian Poulter"
+      ],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0364",
+      "claim": "McGill Archives hold the McConnell family fonds (MG4240), potentially containing McConnell-YMCA correspondence and donation records",
+      "sources": [
+        "src_oral_aronson"
+      ],
+      "confidence": "user_knowledge",
+      "category": "meta",
+      "entities": [
+        "McGill",
+        "J.W. McConnell",
+        "YMCA"
+      ],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_0365",
+      "claim": "QAHN published an article about 'The YMCA Camp of Saint-Adolphe d'Howard'",
+      "sources": [
+        "src_qahn_howard"
+      ],
+      "confidence": "stated",
+      "category": "founding",
+      "entities": [
+        "Camp Jubilee",
+        "Saint-Adolphe-d'Howard"
+      ],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "4.0",
+      "added_by": "auto_extraction"
+    }
+  ]
+}

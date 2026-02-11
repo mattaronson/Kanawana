@@ -1,0 +1,17 @@
+{
+  "version": "1.0",
+  "conflicts": [
+    {
+      "conflict_id": "c_001",
+      "description": "Coeducation start date: 1968 vs 1969",
+      "fact_ids": ["f_0200", "f_0201"],
+      "entity": "Camp Kanawana",
+      "attribute": "coeducation_start_date",
+      "values": ["1969 (Kanawana Facts sheet)", "1968 (YMCA Quebec website)"],
+      "status": "unresolved",
+      "notes": "YMCA website says 1968; Kanawana Facts sheet says 1969. Both are official YMCA sources. v49 handoff confirmed the discrepancy exists on the live site.",
+      "created_at": "2026-02-11T06:00:00Z",
+      "affects_articles": ["coeducation-gender"]
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "version": "1.0",
+  "migrated_from": "handoff-v48/v49",
+  "priorities": [
+    {
+      "priority_id": "p_001",
+      "rank": 1,
+      "type": "RESEARCH",
+      "description": "R2 source check on coeducation-gender.md — cross-reference cached sources (Facts sheet, McMorris thesis PDF, 1935 History)",
+      "article_id": "coeducation-gender",
+      "blocking": false,
+      "assigned_weight": "P1",
+      "created_at": "2026-02-10T00:00:00Z",
+      "status": "pending"
+    },
+    {
+      "priority_id": "p_002",
+      "rank": 2,
+      "type": "RESEARCH",
+      "description": "R2 source check on programs-activities.md — cross-reference cached sources (Facts sheet, McMorris thesis PDF, 1935 History)",
+      "article_id": "programs-activities",
+      "blocking": false,
+      "assigned_weight": "P1",
+      "created_at": "2026-02-10T00:00:00Z",
+      "status": "pending"
+    },
+    {
+      "priority_id": "p_003",
+      "rank": 3,
+      "type": "VERIFY",
+      "description": "Advance coeducation-gender.md toward R3-verified (requires R2 completion)",
+      "article_id": "coeducation-gender",
+      "blocking": true,
+      "blocking_reason": "Requires p_001 completion first",
+      "assigned_weight": "P2",
+      "created_at": "2026-02-10T00:00:00Z",
+      "status": "pending"
+    },
+    {
+      "priority_id": "p_004",
+      "rank": 4,
+      "type": "VERIFY",
+      "description": "Advance programs-activities.md toward R3-verified (requires R2 completion)",
+      "article_id": "programs-activities",
+      "blocking": true,
+      "blocking_reason": "Requires p_002 completion first",
+      "assigned_weight": "P2",
+      "created_at": "2026-02-10T00:00:00Z",
+      "status": "pending"
+    },
+    {
+      "priority_id": "p_005",
+      "rank": 5,
+      "type": "RESEARCH",
+      "description": "Cache more Green Triangle issues from Internet Archive (1932-1940, ~25 issues)",
+      "article_id": null,
+      "blocking": false,
+      "assigned_weight": "P3",
+      "created_at": "2026-02-10T00:00:00Z",
+      "status": "pending"
+    },
+    {
+      "priority_id": "p_006",
+      "rank": 6,
+      "type": "RESEARCH",
+      "description": "People stub research: Billy Ball and Cushing family",
+      "article_id": null,
+      "blocking": false,
+      "assigned_weight": "P4",
+      "created_at": "2026-02-10T00:00:00Z",
+      "status": "pending"
+    },
+    {
+      "priority_id": "p_007",
+      "rank": 7,
+      "type": "RESEARCH",
+      "description": "Mine 1922 brochure and 1923 Gas Bag for KB facts (both cached but unextracted)",
+      "article_id": null,
+      "blocking": false,
+      "assigned_weight": "P5",
+      "created_at": "2026-02-10T00:00:00Z",
+      "status": "pending",
+      "notes": "Both sources already cached locally. 1922 brochure: 11586 chars. Gas Bag 1923: 23900 chars."
+    },
+    {
+      "priority_id": "p_008",
+      "rank": 8,
+      "type": "RESEARCH",
+      "description": "McMorris thesis PDF full extraction (file ID: 14ID3qU1s9B4AL_CxBgXyA32mAUE55x0M)",
+      "article_id": null,
+      "blocking": false,
+      "assigned_weight": "P6",
+      "created_at": "2026-02-10T00:00:00Z",
+      "status": "pending",
+      "notes": "Ch1-3 + Conclusion already extracted (78 facts). Full PDF extraction would cover remaining material."
+    }
+  ]
+}

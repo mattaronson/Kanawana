@@ -1,0 +1,254 @@
+{
+  "version": "1.0",
+  "migrated_from": "handoff-v48/v49",
+  "articles": [
+    {
+      "article_id": "founding-1894",
+      "title": "Founding of Camp Kanawana (1894)",
+      "wiki_folder": "chronology",
+      "status": "E1-reviewed",
+      "status_history": [
+        {"status": "E1-reviewed", "at": "2026-02-10T00:00:00Z", "by": "auto", "task": "REVIEW"}
+      ],
+      "ralph_loops_completed": 1,
+      "kb_facts_used": [],
+      "sources_cited": [],
+      "open_questions": 0,
+      "cross_links": ["camp-jubilee", "billy-ball", "da-budge"],
+      "file_id": "1h-vki1U2tjYj8-zZ5gzuyW6kQXelcUnB",
+      "word_count": 0
+    },
+    {
+      "article_id": "da-budge",
+      "title": "D.A. Budge",
+      "wiki_folder": "people",
+      "status": "E1-reviewed",
+      "status_history": [
+        {"status": "E1-reviewed", "at": "2026-02-10T00:00:00Z", "by": "auto", "task": "REVIEW"}
+      ],
+      "ralph_loops_completed": 1,
+      "kb_facts_used": [],
+      "sources_cited": [],
+      "open_questions": 0,
+      "cross_links": ["founding-1894"],
+      "file_id": "1iOHcDJeDgo5VFTfb46EQ6JrFYuZaZie5",
+      "word_count": 0
+    },
+    {
+      "article_id": "canoe-trips",
+      "title": "Canoe Tripping at Kanawana",
+      "wiki_folder": "programs",
+      "status": "E1-reviewed",
+      "status_history": [
+        {"status": "E1-reviewed", "at": "2026-02-10T00:00:00Z", "by": "auto", "task": "REVIEW"}
+      ],
+      "ralph_loops_completed": 1,
+      "kb_facts_used": [],
+      "sources_cited": ["src_mcmorris_thesis"],
+      "open_questions": 0,
+      "cross_links": ["centennial-1967", "programs-activities"],
+      "file_id": "13MmwA1lO_3J3rJ7yEZjwsvT--vWooITy",
+      "word_count": 0
+    },
+    {
+      "article_id": "council-ring",
+      "title": "The Council Ring",
+      "wiki_folder": "places",
+      "status": "E1-reviewed",
+      "status_history": [
+        {"status": "E1-reviewed", "at": "2026-02-10T00:00:00Z", "by": "auto", "task": "REVIEW"}
+      ],
+      "ralph_loops_completed": 1,
+      "kb_facts_used": [],
+      "sources_cited": ["src_mcmorris_thesis"],
+      "open_questions": 0,
+      "cross_links": ["founding-1894", "harold-cross"],
+      "file_id": "13YtmB0kQvK5oBY-Kz_88vIgztYAH5x2e",
+      "word_count": 0
+    },
+    {
+      "article_id": "lv-games",
+      "title": "L&V Games (Lumbermen vs. Voyageurs)",
+      "wiki_folder": "programs",
+      "status": "E1-reviewed",
+      "status_history": [
+        {"status": "E1-reviewed", "at": "2026-02-10T00:00:00Z", "by": "auto", "task": "REVIEW"}
+      ],
+      "ralph_loops_completed": 1,
+      "kb_facts_used": [],
+      "sources_cited": ["src_mcmorris_thesis", "src_ymca_website"],
+      "open_questions": 0,
+      "cross_links": ["programs-activities", "pine-crest"],
+      "file_id": "1EmzjwZxmQKJhFrNsbFGn1HbdseFBM9E7",
+      "word_count": 0
+    },
+    {
+      "article_id": "wartime-kanawana",
+      "title": "Wartime Kanawana",
+      "wiki_folder": "chronology",
+      "status": "E1-reviewed",
+      "status_history": [
+        {"status": "E1-reviewed", "at": "2026-02-10T00:00:00Z", "by": "auto", "task": "REVIEW"}
+      ],
+      "ralph_loops_completed": 1,
+      "kb_facts_used": [],
+      "sources_cited": ["src_cfcf_1941", "src_mcmorris_thesis"],
+      "open_questions": 0,
+      "cross_links": ["howie-langille"],
+      "file_id": "1FzPFWuQ3jBYZdPOSVC_xjANKsWr7RjSK",
+      "word_count": 0
+    },
+    {
+      "article_id": "section-names",
+      "title": "Section Names and Age Groups",
+      "wiki_folder": "context",
+      "status": "E1-reviewed",
+      "status_history": [
+        {"status": "E1-reviewed", "at": "2026-02-10T00:00:00Z", "by": "auto", "task": "REVIEW"}
+      ],
+      "ralph_loops_completed": 1,
+      "kb_facts_used": [],
+      "sources_cited": ["src_mcmorris_thesis"],
+      "open_questions": 0,
+      "cross_links": ["programs-activities"],
+      "file_id": "1vObPDCKcgzCi8HVCEMuBzQCMPd0jk2ua",
+      "word_count": 0
+    },
+    {
+      "article_id": "coeducation-gender",
+      "title": "Coeducation and Gender at Kanawana",
+      "wiki_folder": "context",
+      "status": "draft",
+      "status_history": [
+        {"status": "stub", "at": "2026-02-09T00:00:00Z", "by": "auto", "task": "RESEARCH"},
+        {"status": "draft", "at": "2026-02-10T00:00:00Z", "by": "auto", "task": "WRITE"},
+        {"status": "draft", "at": "2026-02-10T12:00:00Z", "by": "auto", "task": "RESEARCH"}
+      ],
+      "ralph_loops_completed": 2,
+      "kb_facts_used": [],
+      "sources_cited": ["src_mcmorris_thesis", "src_ymca_website", "src_concordia_fonds"],
+      "open_questions": 7,
+      "cross_links": ["section-names", "lv-games", "canoe-trips"],
+      "file_id": "1KW2yhoZ-wr_71sTPbLJ3v81KW4ZEJ_p-",
+      "word_count": 1850,
+      "notes": "R1 verified v49. Kawanana typo confirmed. Camp Perrot date corrected to [1945 or 1946]. Otoreke/Weredale gender assignment flagged as inference."
+    },
+    {
+      "article_id": "programs-activities",
+      "title": "Programs and Activities at Kanawana",
+      "wiki_folder": "programs",
+      "status": "draft",
+      "status_history": [
+        {"status": "stub", "at": "2026-02-09T00:00:00Z", "by": "auto", "task": "RESEARCH"},
+        {"status": "draft", "at": "2026-02-10T00:00:00Z", "by": "auto", "task": "WRITE"},
+        {"status": "draft", "at": "2026-02-10T12:00:00Z", "by": "auto", "task": "RESEARCH"}
+      ],
+      "ralph_loops_completed": 2,
+      "kb_facts_used": [],
+      "sources_cited": ["src_ymca_website", "src_mcmorris_thesis"],
+      "open_questions": 5,
+      "cross_links": ["lv-games", "canoe-trips", "section-names"],
+      "file_id": "1oqLoU6_bzWD_9jXwXQgYNm_EqLCEfNjR",
+      "word_count": 0,
+      "notes": "R1 verified v49. Camp Jubilee name added. Pine Crest spelling confirmed. 1993 Cathy Reeves film added as lead."
+    },
+    {
+      "article_id": "ralph-dawson",
+      "title": "Ralph Dawson",
+      "wiki_folder": "people",
+      "status": "draft",
+      "status_history": [
+        {"status": "stub", "at": "2026-02-08T00:00:00Z", "by": "auto", "task": "RESEARCH"},
+        {"status": "draft", "at": "2026-02-09T00:00:00Z", "by": "auto", "task": "WRITE"}
+      ],
+      "ralph_loops_completed": 1,
+      "kb_facts_used": [],
+      "sources_cited": ["src_concordia_fonds", "src_concordia_12L"],
+      "open_questions": 3,
+      "cross_links": ["founding-1894", "camp-jubilee"],
+      "file_id": "1sAGFRKb22uggFeMgrSJLllgpSZoAGxa4",
+      "word_count": 0,
+      "notes": "v47 protocol test subject. Formal RALPH caught factual conflation."
+    },
+    {
+      "article_id": "directors-index",
+      "title": "Directors of Camp Kanawana",
+      "wiki_folder": "people",
+      "status": "stub",
+      "status_history": [
+        {"status": "stub", "at": "2026-02-08T00:00:00Z", "by": "auto", "task": "RESEARCH"}
+      ],
+      "ralph_loops_completed": 0,
+      "kb_facts_used": [],
+      "sources_cited": ["src_mcmorris_thesis", "src_concordia_fonds"],
+      "open_questions": 5,
+      "cross_links": ["harold-cross", "ralph-dawson"],
+      "file_id": null,
+      "word_count": 0
+    },
+    {
+      "article_id": "sources-index",
+      "title": "Sources and Archives",
+      "wiki_folder": "meta",
+      "status": "stub",
+      "status_history": [
+        {"status": "stub", "at": "2026-02-08T00:00:00Z", "by": "auto", "task": "RESEARCH"}
+      ],
+      "ralph_loops_completed": 0,
+      "kb_facts_used": [],
+      "sources_cited": [],
+      "open_questions": 0,
+      "cross_links": [],
+      "file_id": null,
+      "word_count": 0
+    },
+    {
+      "article_id": "harold-cross",
+      "title": "Harold Cross",
+      "wiki_folder": "people",
+      "status": "stub",
+      "status_history": [
+        {"status": "stub", "at": "2026-02-08T00:00:00Z", "by": "auto", "task": "RESEARCH"}
+      ],
+      "ralph_loops_completed": 0,
+      "kb_facts_used": [],
+      "sources_cited": ["src_mcmorris_thesis", "src_concordia_fonds"],
+      "open_questions": 3,
+      "cross_links": ["council-ring", "directors-index"],
+      "file_id": null,
+      "word_count": 0
+    },
+    {
+      "article_id": "centennial-1967",
+      "title": "The 1967 Centennial and Kanawana",
+      "wiki_folder": "chronology",
+      "status": "stub",
+      "status_history": [
+        {"status": "stub", "at": "2026-02-08T00:00:00Z", "by": "auto", "task": "RESEARCH"}
+      ],
+      "ralph_loops_completed": 0,
+      "kb_facts_used": [],
+      "sources_cited": ["src_mcmorris_thesis"],
+      "open_questions": 4,
+      "cross_links": ["canoe-trips", "canadian-camping-movement"],
+      "file_id": null,
+      "word_count": 0
+    },
+    {
+      "article_id": "canadian-camping-movement",
+      "title": "The Canadian Camping Movement",
+      "wiki_folder": "context",
+      "status": "stub",
+      "status_history": [
+        {"status": "stub", "at": "2026-02-08T00:00:00Z", "by": "auto", "task": "RESEARCH"}
+      ],
+      "ralph_loops_completed": 0,
+      "kb_facts_used": [],
+      "sources_cited": [],
+      "open_questions": 3,
+      "cross_links": ["founding-1894", "centennial-1967"],
+      "file_id": null,
+      "word_count": 0
+    }
+  ]
+}
