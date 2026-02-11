@@ -321,6 +321,54 @@
       "extraction_version": "3.3",
       "reliability": "primary",
       "notes": "Domain expert. Topics: personal timeline 1985-2002, Sean Day, L&V games, Lake Wilson/Desjardins, 1894 founding, Pine Crest."
+    },
+    {
+      "source_id": "src_ymca_john_island_newsletter",
+      "type": "periodical",
+      "title": "YMCA John Island Alumni Newsletter, Winter 2005",
+      "date": "2005",
+      "date_precision": "year",
+      "origin": "web",
+      "origin_url": "https://www.ymcaneo.ca/wp-content/uploads/2019/03/jic-alumni-newsletter-spring-2012.pdf",
+      "cache_path": null,
+      "char_count": 0,
+      "ingested_at": "2026-02-11T06:30:00Z",
+      "extracted": false,
+      "extraction_version": null,
+      "reliability": "secondary",
+      "notes": "Discovered during R2 coeducation research. Contains anecdote about 1969 Kanawana 'senior boys section'. PDF inaccessible (403)."
+    },
+    {
+      "source_id": "src_pine_crest_encyclopedia",
+      "type": "web",
+      "title": "YMCA Camp Pine Crest (Encyclopedia Entry)",
+      "date": null,
+      "date_precision": "approximate",
+      "origin": "web",
+      "origin_url": "https://en-academic.com/dic.nsf/enwiki/3332273",
+      "cache_path": null,
+      "char_count": 0,
+      "ingested_at": "2026-02-11T06:40:00Z",
+      "extracted": true,
+      "extraction_version": "4.1",
+      "reliability": "secondary",
+      "notes": "Discovered during R2 programs research. Pine Crest Games details, L&V origins."
+    },
+    {
+      "source_id": "src_pine_crest_book",
+      "type": "report",
+      "title": "Lumbermen & Voyageurs: The YMCA Pine Crest Story",
+      "date": null,
+      "date_precision": "approximate",
+      "origin": "web",
+      "origin_url": "https://camp-pine-crest.myshopify.com/products/lumbermen-voyageurs-the-ymca-pine-crest-story",
+      "cache_path": null,
+      "char_count": 0,
+      "ingested_at": "2026-02-11T06:40:00Z",
+      "extracted": false,
+      "extraction_version": null,
+      "reliability": "secondary",
+      "notes": "Book covering 100 years at YMCA Camp Pine Crest. $19.00. Not yet acquired."
     }
   ]
 }

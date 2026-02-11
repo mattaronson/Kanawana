@@ -11,7 +11,9 @@
       "blocking": false,
       "assigned_weight": "P1",
       "created_at": "2026-02-10T00:00:00Z",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-02-11T06:30:00Z",
+      "result": "R2 RALPH loop completed. 4 new facts (f_0366-f_0369). 1 new source. Coeducation date conflict unresolvable without archival access."
     },
     {
       "priority_id": "p_002",
@@ -22,7 +24,9 @@
       "blocking": false,
       "assigned_weight": "P1",
       "created_at": "2026-02-10T00:00:00Z",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-02-11T06:45:00Z",
+      "result": "R2 RALPH loop completed. 11 new facts (f_0370-f_0380). 2 new sources. L&V Games origin verified (1940 at Pine Crest, 1947 at Kanawana). All major claims confirmed."
     },
     {
       "priority_id": "p_003",
