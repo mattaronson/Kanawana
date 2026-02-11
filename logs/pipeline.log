@@ -85,3 +85,19 @@
 2026-02-11T09:00:00Z | WRITE | the-kanawana-site.md — Compiled from geography + facilities KB facts
   - PROCESS: Created the-kanawana-site.md stub (750 words). 24 facts cited (9 geography, 15 facilities). Covers: location (550 acres, Saint-Sauveur, 90km from Montreal), three lakes (Kanawana, Wilson, Round), camp layout (Centre Camp, Front Camp, Lake Wilson, outposts), historical facilities (pavilions, hospital, pool, chapel, Council Ring), transport (CPR to Piedmont), proposed Weredale two-site plan (1977-80). 8 sources. 6 open questions.
   - Priority p_014 completed
+
+2026-02-11T09:15:00Z | STATUS | Session summary — context limit approaching
+  - Session started: bootstrap from wiki-builder-architecture.md + 4 source files
+  - Priorities completed: P1 (coeducation R2), P2 (programs R2), P5 (Green Triangle — blocked), P6 (people stubs), P7 (1922/Gas Bag — stale), P9 (centennial draft), P10 (Harold Cross stub), P11 (directors-index), P12 (Canadian camping movement draft), P13 (traditions article), P14 (geography/site article)
+  - Priorities blocked: P3 (VERIFY coeducation — needs Drive), P4 (VERIFY programs — needs Drive), P5 (Green Triangle — not digitized), P8 (McMorris thesis — needs Drive)
+  - Priorities pending: P15 (VERIFY centennial), P16 (VERIFY camping movement), P17 (sources-index)
+  - Articles: 19 total (7 E1-reviewed, 5 draft, 7 stub)
+  - KB: 416 facts across 24 categories
+  - Sources: 42 records
+  - New articles created this session: billy-ball, cushing-family, harold-cross, centennial-1967, canadian-camping-movement, directors-index, traditions-and-culture, the-kanawana-site (8 articles)
+  - Articles advanced: centennial-1967 (stub→draft), canadian-camping-movement (stub→draft)
+  - New facts added: f_0366-f_0416 (51 facts)
+  - New sources added: 22 new source records
+  - Commits: 7 (bootstrap + 6 content commits)
+  - Blockers: Google Drive and Internet Archive both blocked by proxy (403). All VERIFY tasks on pre-existing articles and McMorris full extraction require Drive access. Green Triangle 1932-1940 requires physical archive visit.
+  - Recommended next session actions: (1) Restore Drive access or push article text files to repo, (2) Complete P15-P17, (3) Advance stubs toward draft (harold-cross, directors-index, billy-ball), (4) Begin R3-verified pass on centennial-1967 and canadian-camping-movement
