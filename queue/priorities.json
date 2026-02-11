@@ -156,6 +156,67 @@
       "status": "completed",
       "completed_at": "2026-02-11T08:30:00Z",
       "result": "Article advanced stub → draft. 6 new facts (f_0411-f_0416). 4 new sources. 1100 words. Key finding: Big Cove YMCA Camp (1889) is oldest Canadian camp — Kanawana is second-oldest. Comprehensive timeline of early Canadian camps, Taylor Statten biography, OCA/CCA founding, women pioneers. 5 open questions."
+    },
+    {
+      "priority_id": "p_013",
+      "rank": 13,
+      "type": "WRITE",
+      "description": "Create traditions-and-culture article from 24 orphan traditions-category KB facts",
+      "article_id": "traditions-and-culture",
+      "blocking": false,
+      "assigned_weight": "P3",
+      "created_at": "2026-02-11T08:30:00Z",
+      "status": "completed",
+      "completed_at": "2026-02-11T09:00:00Z",
+      "result": "Created traditions-and-culture.md stub (900 words). All 24 orphan traditions facts now cited. Covers spiritual life, camp identity, annual events, publications, ceremonies, honour/badge system. 5 open questions."
+    },
+    {
+      "priority_id": "p_014",
+      "rank": 14,
+      "type": "WRITE",
+      "description": "Create geography/site article — 9 geography facts about camp location, lakes, transport, terrain",
+      "article_id": null,
+      "blocking": false,
+      "assigned_weight": "P4",
+      "created_at": "2026-02-11T08:30:00Z",
+      "status": "pending",
+      "notes": "9 geography facts. Also 15 facilities facts partially covered by council-ring article."
+    },
+    {
+      "priority_id": "p_015",
+      "rank": 15,
+      "type": "VERIFY",
+      "description": "VERIFY centennial-1967.md — cross-reference all claims, check dates against timeline, verify names",
+      "article_id": "centennial-1967",
+      "blocking": false,
+      "assigned_weight": "P4",
+      "created_at": "2026-02-11T08:30:00Z",
+      "status": "pending",
+      "notes": "Article text available locally. Can verify against KB facts and web sources."
+    },
+    {
+      "priority_id": "p_016",
+      "rank": 16,
+      "type": "VERIFY",
+      "description": "VERIFY canadian-camping-movement.md — cross-reference all claims, check dates, verify positions",
+      "article_id": "canadian-camping-movement",
+      "blocking": false,
+      "assigned_weight": "P4",
+      "created_at": "2026-02-11T08:30:00Z",
+      "status": "pending",
+      "notes": "Article text available locally. Can verify against KB facts and web sources."
+    },
+    {
+      "priority_id": "p_017",
+      "rank": 17,
+      "type": "WRITE",
+      "description": "Create sources-index article — compile all 42 sources with descriptions, categorize by type and reliability",
+      "article_id": "sources-index",
+      "blocking": false,
+      "assigned_weight": "P5",
+      "created_at": "2026-02-11T08:30:00Z",
+      "status": "pending",
+      "notes": "Existing stub. 42 sources across 6 types. Good meta-reference article."
     }
   ]
 }

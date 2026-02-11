@@ -285,6 +285,22 @@
       "cross_links": ["founding-1894", "billy-ball", "da-budge"],
       "file_id": null,
       "word_count": 450
+    },
+    {
+      "article_id": "traditions-and-culture",
+      "title": "Traditions and Culture at Kanawana",
+      "wiki_folder": "programs",
+      "status": "stub",
+      "status_history": [
+        {"status": "stub", "at": "2026-02-11T09:00:00Z", "by": "auto", "task": "WRITE"}
+      ],
+      "ralph_loops_completed": 0,
+      "kb_facts_used": ["f_0120", "f_0121", "f_0122", "f_0123", "f_0128", "f_0131", "f_0132", "f_0133", "f_0134", "f_0135", "f_0136", "f_0137", "f_0138", "f_0142", "f_0203", "f_0205", "f_0206", "f_0294", "f_0299", "f_0300", "f_0306", "f_0321", "f_0323", "f_0374"],
+      "sources_cited": ["src_mcmorris_thesis", "src_history_1935", "src_brochure_1922", "src_gas_bag_1923", "src_green_triangle_1938", "src_concordia_fonds"],
+      "open_questions": 5,
+      "cross_links": ["programs-activities", "lv-games", "council-ring", "section-names"],
+      "file_id": null,
+      "word_count": 900
     }
   ]
 }
