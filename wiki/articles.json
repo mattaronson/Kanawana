@@ -176,15 +176,16 @@
       "wiki_folder": "people",
       "status": "stub",
       "status_history": [
-        {"status": "stub", "at": "2026-02-08T00:00:00Z", "by": "auto", "task": "RESEARCH"}
+        {"status": "stub", "at": "2026-02-08T00:00:00Z", "by": "auto", "task": "RESEARCH"},
+        {"status": "stub", "at": "2026-02-11T08:30:00Z", "by": "auto", "task": "RESEARCH"}
       ],
-      "ralph_loops_completed": 0,
-      "kb_facts_used": [],
-      "sources_cited": ["src_mcmorris_thesis", "src_concordia_fonds"],
-      "open_questions": 5,
-      "cross_links": ["harold-cross", "ralph-dawson"],
+      "ralph_loops_completed": 1,
+      "kb_facts_used": ["f_0019", "f_0020", "f_0038", "f_0039", "f_0040", "f_0041", "f_0042", "f_0043", "f_0044", "f_0045", "f_0047", "f_0048", "f_0049", "f_0051", "f_0055", "f_0179"],
+      "sources_cited": ["src_mcmorris_thesis", "src_concordia_fonds", "src_brochure_1921", "src_brochure_1922", "src_brochure_1923", "src_cfcf_1941", "src_oral_aronson", "src_ymca_website"],
+      "open_questions": 6,
+      "cross_links": ["harold-cross", "ralph-dawson", "billy-ball", "da-budge", "founding-1894"],
       "file_id": null,
-      "word_count": 0
+      "word_count": 800
     },
     {
       "article_id": "sources-index",
@@ -240,17 +241,18 @@
       "article_id": "canadian-camping-movement",
       "title": "The Canadian Camping Movement",
       "wiki_folder": "context",
-      "status": "stub",
+      "status": "draft",
       "status_history": [
-        {"status": "stub", "at": "2026-02-08T00:00:00Z", "by": "auto", "task": "RESEARCH"}
+        {"status": "stub", "at": "2026-02-08T00:00:00Z", "by": "auto", "task": "RESEARCH"},
+        {"status": "draft", "at": "2026-02-11T08:30:00Z", "by": "auto", "task": "WRITE"}
       ],
-      "ralph_loops_completed": 0,
-      "kb_facts_used": [],
-      "sources_cited": [],
-      "open_questions": 3,
-      "cross_links": ["founding-1894", "centennial-1967"],
+      "ralph_loops_completed": 1,
+      "kb_facts_used": ["f_0394", "f_0411", "f_0412", "f_0413", "f_0414", "f_0415", "f_0416"],
+      "sources_cited": ["src_ymca_website", "src_qahn_howard", "src_taylor_statten_camps", "src_cca_history", "src_oca_history", "src_wikipedia_big_cove", "src_wikipedia_edgar", "src_wall_nurture", "src_mcmorris_thesis"],
+      "open_questions": 5,
+      "cross_links": ["founding-1894", "centennial-1967", "canoe-trips", "cushing-family"],
       "file_id": null,
-      "word_count": 0
+      "word_count": 1100
     },
     {
       "article_id": "billy-ball",

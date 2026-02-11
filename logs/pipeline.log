@@ -65,3 +65,15 @@
   - PROCESS: Corrected f_0039 (book title). Added f_0395-f_0410 (16 new facts). Added 5 new sources (src_concordia_fonds_1B, src_concordia_fonds_14D, src_concordia_atom_kanawana, src_wikipedia_murray_ross). Wrote harold-cross.md stub (750 words, 6 open questions, 5 sources cited). KB now at 402 facts, 38 sources.
   - HYPOTHESIZE: Physical visit to Concordia Archives needed for: (1) manuscript of 100 Years of Service to Youth, (2) Harold Cross correspondence files, (3) Permanent Camp Committee minute book 1911-1926 which would list directors. McMorris thesis full PDF (blocked) likely contains more detail on Cross's directorship and Council Ring/totem pole. The 1935 History of Kamp Kanawana on Internet Archive (also blocked) may name directors from the 1920s.
   - Priority p_010 completed
+
+2026-02-11T08:30:00Z | COMPILE | directors-index.md — Compiled from KB facts
+  - PROCESS: Extracted 13 named directors from KB "directors" category facts. Documented 11 non-director personnel. Identified 8 gap periods (critical: 1947-2003 = 57-year gap). Created directors-index.md stub (800 words, 6 open questions, 8 sources cited).
+  - Priority p_011 completed
+
+2026-02-11T08:30:00Z | RALPH R1 | canadian-camping-movement.md — Formal RALPH loop (stub → draft)
+  - RETRIEVE: Web searches for "history of organized camping in Canada", "oldest summer camp Canada", "Canadian Camping Association history", "Ontario Camping Association history", "Taylor Statten biography", "Mary Edgar camp", "Sharon Wall camping". Sources: Wikipedia (Big Cove, Mary Edgar), OCA history, CCA history, UBC Press (Wall), Ottertooth camp timeline.
+  - ANALYZE: Critical finding — Big Cove YMCA Camp (Nova Scotia, 1889) is oldest Canadian camp; Kanawana is second-oldest. Both YMCA camps, underscoring institutional connection. Taylor Statten biography fleshed out: YMCA Boys' Work Secretary 1906, CSET 1914, TUXIS/Trail Rangers 1918 (30,000+ boys by 1928), Camp Ahmek 1921. OCA founded 1933 with 7 members. CCA founded 1936 at Toronto YMCA. Mary Edgar founded first girls' camp 1917, first CCA VP. Sharon Wall's 2009 book is principal study. Camp Ouareau (1922), Tanamakoon (1925) also documented. Keewaydin (1894) started in Maine, Canadian from ~1902.
+  - LOOP: CONCLUDE — comprehensive timeline established, Kanawana positioned within movement
+  - PROCESS: Added f_0411-f_0416 (6 new facts). Added 4 new sources (src_wikipedia_big_cove, src_wikipedia_edgar, src_wall_nurture, src_oca_history). Wrote canadian-camping-movement.md draft (1100 words, 5 sections, 12 footnotes, 5 open questions). Advanced article stub → draft. KB now at 416 facts, 42 sources.
+  - HYPOTHESIZE: Trent University Archives hold OCA and CCA fonds — potential goldmine for Kanawana context. Woodcraft League charter in 1922 brochure connects to Seton. CCA membership records would confirm Kanawana's organizational affiliation. "Canadian Camping" magazine (1949-1988) may contain Kanawana references.
+  - Priority p_012 completed

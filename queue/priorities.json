@@ -140,7 +140,9 @@
       "blocking": false,
       "assigned_weight": "P5",
       "created_at": "2026-02-11T07:15:00Z",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-02-11T08:30:00Z",
+      "result": "Directors-index stub written. 13 named directors compiled from KB facts spanning 1894-2023. 11 non-director personnel documented. 8 gap periods identified (critical: 1947-2003 = 57 years). 6 open questions. 800 words."
     },
     {
       "priority_id": "p_012",
@@ -151,7 +153,9 @@
       "blocking": false,
       "assigned_weight": "P6",
       "created_at": "2026-02-11T07:15:00Z",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-02-11T08:30:00Z",
+      "result": "Article advanced stub → draft. 6 new facts (f_0411-f_0416). 4 new sources. 1100 words. Key finding: Big Cove YMCA Camp (1889) is oldest Canadian camp — Kanawana is second-oldest. Comprehensive timeline of early Canadian camps, Taylor Statten biography, OCA/CCA founding, women pioneers. 5 open questions."
     }
   ]
 }

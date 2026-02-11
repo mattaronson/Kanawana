@@ -6651,6 +6651,78 @@
       "conflicts_with": [],
       "added_version": "4.1",
       "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_0411",
+      "claim": "Big Cove YMCA Camp in Merigomish Harbour, Pictou County, Nova Scotia (founded 1889) is the oldest residential summer camp in Canada, predating Camp Jubilee/Kanawana (1894) by five years",
+      "sources": ["src_wikipedia_big_cove"],
+      "confidence": "stated",
+      "category": "camping_movement",
+      "entities": ["Big Cove YMCA Camp", "Camp Kanawana"],
+      "date_ref": "1889",
+      "conflicts_with": [],
+      "added_version": "4.1",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_0412",
+      "claim": "Camp Kanawana (as Camp Jubilee, 1894) is Canada's second-oldest residential summer camp after Big Cove (1889), and Quebec's first residential summer camp. Both are YMCA camps.",
+      "sources": ["src_wikipedia_big_cove", "src_ymca_website"],
+      "confidence": "stated",
+      "category": "camping_movement",
+      "entities": ["Camp Kanawana", "Big Cove YMCA Camp"],
+      "date_ref": "1894",
+      "conflicts_with": [],
+      "added_version": "4.1",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_0413",
+      "claim": "Mary Susannah Edgar (1889-1973) founded Camp Oolahwan (YWCA) on Lake Walfred, Quebec in 1917 and served as first CCA vice-president (1936). She is credited with founding the first girls' summer camp in Canada.",
+      "sources": ["src_wikipedia_edgar"],
+      "confidence": "stated",
+      "category": "camping_movement",
+      "entities": ["Mary Edgar", "Camp Oolahwan", "CCA"],
+      "date_ref": "1917",
+      "conflicts_with": [],
+      "added_version": "4.1",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_0414",
+      "claim": "Sharon Wall's 'The Nurture of Nature: Childhood, Antimodernism, and Ontario Summer Camps, 1920-55' (UBC Press, 2009) is the principal academic study of the Ontario camping movement",
+      "sources": ["src_wall_nurture"],
+      "confidence": "stated",
+      "category": "camping_movement",
+      "entities": ["Sharon Wall"],
+      "date_ref": "2009",
+      "conflicts_with": [],
+      "added_version": "4.1",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_0415",
+      "claim": "The CCA published 'Canadian Camping' magazine from 1949 to 1988; digitized issues are available through Trent University Archives on the Internet Archive",
+      "sources": ["src_cca_history"],
+      "confidence": "stated",
+      "category": "camping_movement",
+      "entities": ["CCA", "Trent University"],
+      "date_ref": "1949",
+      "conflicts_with": [],
+      "added_version": "4.1",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_0416",
+      "claim": "The first private camp in Ontario was established by A.L. Cochrane in 1900. By 1925, only 6-7 private camps existed in Ontario.",
+      "sources": ["src_oca_history"],
+      "confidence": "stated",
+      "category": "camping_movement",
+      "entities": ["A.L. Cochrane", "OCA"],
+      "date_ref": "1900",
+      "conflicts_with": [],
+      "added_version": "4.1",
+      "added_by": "ralph_loop"
     }
   ]
 }
