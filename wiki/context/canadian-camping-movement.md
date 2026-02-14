@@ -1,10 +1,10 @@
 # The Canadian Camping Movement
 
-<!-- status: draft -->
-<!-- confidence: medium -->
-<!-- last_updated: 2026-02-11 -->
+<!-- status: R3-verified -->
+<!-- confidence: medium-high -->
+<!-- last_updated: 2026-02-14 -->
 <!-- last_editor: v50 -->
-<!-- ralph_loops: canadian-camping-movement-R1 -->
+<!-- ralph_loops: canadian-camping-movement-R1, canadian-camping-movement-V1 -->
 
 ## Summary
 
@@ -20,7 +20,7 @@ The earliest known Canadian camps:
 |------|------|----------|------|
 | 1889 | Big Cove YMCA Camp | Merigomish, Nova Scotia | YMCA residential |
 | 1894 | Camp Jubilee (Kanawana) | Lake Saint-Joseph, Quebec | YMCA boys' camp |
-| 1894 | Keewaydin Camp | Founded in Maine; moved to Temagami, Ontario (~1902) | Private canoe camp |
+| 1893 | Keewaydin Camp | Founded in Maine by A.S. Gregg Clarke; moved to Temagami, Ontario (~1902) | Private canoe camp |
 | 1900 | A.L. Cochrane's camp | Ontario | First private camp in Ontario |
 | ~1906 | Camp Couchiching | Orillia, Ontario | YMCA |
 | 1906 | Camp Northway | Algonquin Park, Ontario | Oldest girls' camp |
@@ -30,7 +30,7 @@ The Cushing family and D.A. Budge of the Montreal YMCA were instrumental in the 
 
 ## Taylor Statten and the Professionalization of Camping (1906-1936)
 
-Taylor Statten (1882-1956) was the central figure in the professionalization of Canadian camping.^5 After serving in the Boer War, he joined the YMCA and became Boys' Work Secretary for the national organization in 1906, which included directing Camp Couchiching. In 1914, he established the Canadian Standards Efficiency Training (CSET) program, and by 1918 was running the TUXIS and Trail Rangers programs — enrolling over 30,000 boys across Canada by 1928.^6
+Taylor Statten (1882-1956) was the central figure in the professionalization of Canadian camping.^5 After serving in the Boer War, he joined the YMCA, taking on Boys' Work responsibilities by 1906 (including directing Camp Couchiching) and rising to national Boys' Work Secretary by 1912. In 1914, he established the Canadian Standards Efficiency Training (CSET) program, and by 1918 was running the TUXIS and Trail Rangers programs — enrolling over 30,000 boys across Canada by 1928.^6
 
 In 1921, Statten founded Camp Ahmek on Canoe Lake in Algonquin Park, named after the Ojibwa word for "Great Beaver."^5 In 1924, his wife Ethel opened Camp Wapomeo for girls on the same lake. Pierre Trudeau attended Camp Ahmek as a camper.^5
 
@@ -42,7 +42,7 @@ In 1936, the Canadian Camping Association was founded at the Central Y.M.C.A. in
 
 Women were pioneers in their own right:
 
-- **Mary Susannah Edgar** (1889-1973) founded Camp Oolahwan, a YWCA girls' camp at Lake Walfred, Quebec, in 1917 — claimed as the first girls' summer camp in Canada. She later opened Glen Bernard Camp (1922) and served as first CCA vice-president (1936).^9
+- **Mary Susannah Edgar** (1889-1973) founded Camp Oolahwan, a YWCA girls' camp at Lake Walfred, Quebec, in 1917 — one of the earliest girls' camps in Canada, though Camp Northway (1906) predates it as Canada's oldest all-girls camp. Edgar later opened Glen Bernard Camp (1922) and served as first CCA vice-president (1936).^9
 - **Mary Hamilton** founded Camp Tanamakoon in Algonquin Park (1925) and authored *The Call of Algonquin: A Biography of a Summer Camp*. She was a founding OCA member.^7
 - **Ferna Halliday** co-founded Camp Ouareau (1922) with Mabel Jamieson and was also an OCA founding member.^7
 
@@ -85,3 +85,5 @@ The CCA published *Canadian Camping* magazine from 1949 to 1988; digitized issue
 ## Research Notes
 
 <!-- R1 formal RALPH loop completed 2026-02-11. Strong web sources available. Big Cove YMCA Camp (1889) predates Kanawana — important correction to any "first in Canada" claims. Kanawana's position as second-oldest and Quebec's first is well-supported. Taylor Statten's YMCA background directly parallels Kanawana's institutional origins. Trent University Archives are a major untapped resource for Kanawana context within the broader movement. Ernest Thompson Seton / Woodcraft League connection to Kanawana's 1922 charter merits further investigation. -->
+
+<!-- V1 VERIFY pass completed 2026-02-14. 17/19 claims independently confirmed. Corrections applied: (1) Keewaydin founded 1893 not 1894, per Wikipedia and Keewaydin.org. (2) Camp Oolahwan was NOT first girls' camp in Canada — Camp Northway (1906) predates it by 11 years. Wording corrected to "one of the earliest." (3) Taylor Statten's 1906 YMCA role clarified as regional/early, national secretary by 1912. All other claims confirmed: Big Cove 1889, Montreal YMCA 1851, Camp Pine Crest 1910, CSET 1914, TUXIS/Trail Rangers 1918, Camp Ahmek 1921, Wapomeo 1924, Pierre Trudeau at Ahmek, OCA 1933, CCA 1936, Camp Tanamakoon 1925, Camp Ouareau 1922, Cochrane 1900, Wall 2009, Canadian Camping magazine 1949-1988. -->

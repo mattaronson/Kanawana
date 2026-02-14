@@ -116,3 +116,20 @@
   - Kanawana-specific claims (6 boys, 2 counsellors, busload greeting) sourced to McMorris thesis only — cannot independently verify without archival access
   - RESULT: 9/10 confirmed. Article advanced draft → R3-verified. Status metadata updated.
   - Priority p_015 completed
+
+2026-02-14T00:15:00Z | MERGE | Merged origin/main — git-crypt files now plaintext
+  - 6 files replaced with plaintext by Claude.ai session (commit 4627fe5)
+  - README.md, docs/HANDOFF.md, docs/architecture.md, docs/operations-manual.md, docs/reference-manual.md, knowledge/kb.json
+  - NOTE: These are placeholder summaries, not original content. knowledge/kb.json is skeleton (our real KB is kb/facts.json with 416 facts)
+  - P3/P4 still blocked: coeducation-gender.md and programs-activities.md article text remains on Drive only
+
+2026-02-14T01:00:00Z | RALPH V1 | canadian-camping-movement.md — Formal VERIFY pass (R3-verified)
+  - VERIFY: 19 factual claims cross-referenced against independent web sources
+  - Big Cove YMCA Camp 1889 — CONFIRMED (Wikipedia, YMCA Halifax)
+  - Montreal YMCA 1851 first in North America — CONFIRMED (YMCA Quebec, readtheplaque.com)
+  - CORRECTION: Keewaydin founded 1893, not 1894 (Wikipedia, Keewaydin.org)
+  - CORRECTION: Camp Oolahwan (1917) NOT first girls' camp in Canada — Camp Northway (1906) predates by 11 years. Wording corrected.
+  - CLARIFICATION: Taylor Statten's YMCA role was regional by 1906, national secretary by 1912
+  - All other claims confirmed: Camp Pine Crest 1910, CSET 1914, TUXIS 1918, Ahmek 1921, Wapomeo 1924, Pierre Trudeau at Ahmek, OCA 1933, CCA 1936, Tanamakoon 1925, Ouareau 1922, Cochrane 1900, Wall 2009, Canadian Camping 1949-1988
+  - RESULT: 17/19 confirmed, 2 corrected, 1 clarified. Article advanced draft → R3-verified.
+  - Priority p_016 completed

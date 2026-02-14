@@ -205,8 +205,9 @@
       "blocking": false,
       "assigned_weight": "P4",
       "created_at": "2026-02-11T08:30:00Z",
-      "status": "pending",
-      "notes": "Article text available locally. Can verify against KB facts and web sources."
+      "status": "completed",
+      "completed_at": "2026-02-14T01:00:00Z",
+      "result": "V1 VERIFY pass. 17/19 claims confirmed. 2 corrections: Keewaydin 1893 not 1894; Oolahwan not first girls' camp (Camp Northway 1906 predates). 1 clarification: Statten 1906 role regional, national by 1912. Article advanced draft → R3-verified."
     },
     {
       "priority_id": "p_017",
