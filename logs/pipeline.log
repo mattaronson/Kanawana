@@ -101,3 +101,18 @@
   - Commits: 7 (bootstrap + 6 content commits)
   - Blockers: Google Drive and Internet Archive both blocked by proxy (403). All VERIFY tasks on pre-existing articles and McMorris full extraction require Drive access. Green Triangle 1932-1940 requires physical archive visit.
   - Recommended next session actions: (1) Restore Drive access or push article text files to repo, (2) Complete P15-P17, (3) Advance stubs toward draft (harold-cross, directors-index, billy-ball), (4) Begin R3-verified pass on centennial-1967 and canadian-camping-movement
+
+2026-02-14T00:00:00Z | RALPH V1 | centennial-1967.md — Formal VERIFY pass (R3-verified)
+  - VERIFY: 10 factual claims cross-referenced against independent web sources
+  - Voyageur Canoe Pageant: dates (May 24–Sep 4, 1967), distance (3,283 mi + 60 mi portage), 104 days, 10 teams (8 provinces + YT/NWT), Manitoba won (507:21:51), all confirmed via Wikipedia, Canadian History Ehx, Manitoba Sports Hall of Fame
+  - Don Starkell: Winnipeg to Belém distance (12,181 mi) confirmed via Wikipedia/Guinness
+  - Bruce Hodgins: dates (1931–2019), Trent professor, Camp Wanapitei director confirmed
+  - Secretary of State Judy LaMarsh presence confirmed
+  - John Fisher Centennial Commissioner role confirmed
+  - Pierre Berton *1967: The Last Good Year* confirmed (published 1997)
+  - Yukon team Lachine Rapids rescue confirmed via multiple sources
+  - Misao Dean *Journal of Canadian Studies* article confirmed
+  - FLAG: "150 miles from Montreal to Ottawa" exceeds known Ottawa River distance (~120 mi). McMorris thesis sole source. Editorial note added to article.
+  - Kanawana-specific claims (6 boys, 2 counsellors, busload greeting) sourced to McMorris thesis only — cannot independently verify without archival access
+  - RESULT: 9/10 confirmed. Article advanced draft → R3-verified. Status metadata updated.
+  - Priority p_015 completed

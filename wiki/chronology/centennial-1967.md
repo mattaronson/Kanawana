@@ -1,10 +1,10 @@
 # The 1967 Centennial and Kanawana
 
-<!-- status: draft -->
-<!-- confidence: medium -->
-<!-- last_updated: 2026-02-11 -->
+<!-- status: R3-verified -->
+<!-- confidence: high -->
+<!-- last_updated: 2026-02-14 -->
 <!-- last_editor: v50 -->
-<!-- ralph_loops: centennial-1967-R1 -->
+<!-- ralph_loops: centennial-1967-R1, centennial-1967-V1 -->
 
 ## Summary
 
@@ -30,7 +30,7 @@ Running in parallel with the competitive Pageant, the Canadian Camping Associati
 
 ## Kanawana's Participation
 
-Six Kanawana boys and two counsellors paddled the Quebec section of the CCA Centenary Journey — 150 miles from Montreal to Ottawa via the Ottawa River.^1 Participants wore colourful plaid lumberman shirts and decorated their canoes with decals and crests.^1
+Six Kanawana boys and two counsellors paddled the Quebec section of the CCA Centenary Journey — described by McMorris as 150 miles from Montreal to Ottawa via the Ottawa River.^1 [*Note: The navigable Ottawa River distance between these cities is approximately 120 miles; the 150-mile figure may include tributary detours or portage distances, or may be approximate.*] Participants wore colourful plaid lumberman shirts and decorated their canoes with decals and crests.^1
 
 Upon the paddlers' arrival in Ottawa, a busload of Kanawana campers greeted them, singing the Kanawana song.^1 Figure 3.5 in the McMorris thesis shows Kanawana campers arriving in Ottawa in 1967.^1
 
@@ -82,3 +82,4 @@ The McMorris thesis devotes its third chapter — "The National(ist) Vehicle" �
 ## Research Notes
 
 <!-- R1 formal RALPH loop completed 2026-02-11. Rich KB material (22 facts from McMorris thesis extraction). Web research confirmed two distinct 1967 events and added significant detail on the Voyageur Canoe Pageant. Key gap: the identities of the six Kanawana boys and two counsellors. Concordia Archives sub-series 12B01 (season reports 1967) and 13E (Centennial records) are the priority leads. The McMorris thesis Figure 3.5 is a primary visual source. -->
+<!-- V1 VERIFY pass completed 2026-02-14. 9/10 factual claims independently confirmed via web sources. All Voyageur Canoe Pageant claims (dates, distances, teams, results, key figures) verified against Wikipedia, Canadian History Ehx, Manitoba Sports Hall of Fame, CBC archives. Bruce Hodgins dates confirmed. Don Starkell distance confirmed (12,181 mi matches Guinness). One flag: "150 miles from Montreal to Ottawa" exceeds known Ottawa River distance (~120 mi); McMorris thesis is sole source — flagged with editorial note. Kanawana-specific claims (6 boys, 2 counsellors) sourced to McMorris thesis only — cannot independently verify without archival access. -->
