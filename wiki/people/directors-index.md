@@ -1,10 +1,10 @@
 # Directors of Camp Kanawana
 
-<!-- status: stub -->
+<!-- status: draft -->
 <!-- confidence: medium -->
-<!-- last_updated: 2026-02-11 -->
+<!-- last_updated: 2026-02-14 -->
 <!-- last_editor: v50 -->
-<!-- ralph_loops: directors-index-compile -->
+<!-- ralph_loops: directors-index-compile, directors-index-R2 -->
 
 ## Summary
 
@@ -25,8 +25,11 @@ This index compiles all known directors of Camp Kanawana (originally Camp Jubile
 | W.J.G. MacDiarmid | 1936 | Recorded weight statistics for campers | McMorris thesis |
 | Howie Langille | 1941 | Led 48th season with 68 staff and 30+ British evacuees | CFCF 1941 broadcast |
 | R.H. Hanagan | 1942, 1946 | Wrote detailed season reports; managed 1946 polio outbreak (6 cases) | McMorris thesis; Concordia fonds |
+| Stuart McLean | 1974-1975 (Asst. Dir.) | Assistant Summer Camp Director; first hired as counselor 1969, worked 5 summers | OurKids interview; Samaritan Mag |
+| "Dave" (surname unknown) | 1980 | Named as camp director in Ka-News, May 1980 | Ka-News 1980 |
+| Bruce Netherwood | late 1980s-1990s | Now VP Camping Services, South Shore YMCA, Massachusetts; 30+ years in YMCA camping | Oral history (M. Aronson) |
+| Kate Taylor | 2020s | Current camp director | YMCA Quebec website |
 | Sean Day | 2004-2023 | Regional Director of Camps, YMCA Quebec; 19 years of service | Oral history (M. Aronson) |
-| Bruce Netherwood | dates unknown | Now VP Camping Services, South Shore YMCA, Massachusetts; 30+ years experience | Oral history (M. Aronson) |
 
 ## Notable Non-Director Personnel
 
@@ -43,6 +46,21 @@ This index compiles all known directors of Camp Kanawana (originally Camp Jubile
 | R.L. Charlton | Historian | 1943 | Concordia Archives 12A |
 | W.E. Cushing | Historian | 1943 | Concordia Archives 12A |
 | Hedley G. Dimock | Staff Development Coordinator | 1960-1961 | Concordia Archives |
+| Carol Skinner | Section Director | 1990-1995 | YMCA Quebec ("Pip" Award) |
+| Nancy Sawyer | Assistant Director | 1980 | Ka-News 1980 |
+
+## Notable Alumni
+
+The "Pip" Alumni Award, named after Philip "Pip" Caddell (1913-2004, camper 1928), recognizes former Kanawana campers and staff for their achievements.
+
+| Name | Camp Years | Achievement | "Pip" Award |
+|------|-----------|-------------|-------------|
+| Stuart McLean | 1969-1975 | Author, CBC radio host (*Vinyl Cafe*) | — |
+| Terry "Aislin" Mosher | 1952-1953 | Montreal Gazette editorial cartoonist | 2015 |
+| Dr. James Orbinski | 1980s-1990s | Humanitarian physician, MSF president | 2024 |
+| Carol Skinner | 1990-1995 | ALS advocate | 2019 |
+| Chris Adam | years unknown | Environmentalist, teacher | 2017 |
+| Marina Sharpe | years unknown | Refugee advocate | 2018 |
 
 ## Gap Periods
 
@@ -55,7 +73,10 @@ The following periods have no confirmed camp director:
 - **1932-1935**: Between McEwen and MacDiarmid
 - **1937-1940**: Between MacDiarmid and Langille
 - **1943-1945**: Between Hanagan's documented years
-- **1947-2003**: Entire post-war to modern era (57-year gap)
+- **1947-1973**: Post-war to early 1970s (26-year gap). The 1972 "Camping and Outdoor Education Branch Director's Report" in Concordia Archives may name the director for that year.
+- **1976-1979**: Between McLean's assistant directorship and "Dave" in 1980. The director who worked alongside Stuart McLean (1974-1975) is referenced but unnamed.
+- **1981-late 1980s**: Between "Dave" and Bruce Netherwood
+- **Late 1990s-2003**: Between Netherwood and Sean Day (2004)
 
 ## Open Questions
 
@@ -84,4 +105,5 @@ The following periods have no confirmed camp director:
 
 ## Research Notes
 
-<!-- Compiled from KB facts in "directors" category. 13 named directors spanning 1894-2023. The 1947-2003 gap is the most critical — 57 years of undocumented directorship. The Permanent Camp Committee minute book (1911-1926) and season reports (12B01) are the key archival leads. Ereaux's "11th summer" in 1922 is intriguing — if he started around 1912, he would have been among the first directors at the Laurentian (Saint-Sauveur) site. -->
+<!-- R1 compiled from KB facts. 13 named directors spanning 1894-2023. -->
+<!-- R2 RALPH loop 2026-02-14: Web research found Stuart McLean as asst. director 1974-1975, "Dave" as director 1980 (Ka-News), Kate Taylor as current director 2020s. Also discovered "Pip" Alumni Award program and notable alumni (Aislin Mosher, James Orbinski, Carol Skinner). Gap narrowed from 57 years to four sub-gaps. Key archival leads: 1972 Director's Report, 1947-1950 brochures, Permanent Camp Committee minutes. Contact Bruce Netherwood at South Shore YMCA for exact tenure dates. -->

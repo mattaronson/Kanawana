@@ -6723,6 +6723,114 @@
       "conflicts_with": [],
       "added_version": "4.1",
       "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_0417",
+      "claim": "Stuart McLean was first hired as a counselor at Camp Kanawana in 1969 (age ~20), worked 5 summers, and became Assistant Summer Camp Director for 1974-1975.",
+      "sources": ["src_samaritanmag_mclean"],
+      "confidence": "stated",
+      "category": "directors",
+      "entities": ["Stuart McLean", "Camp Kanawana"],
+      "date_ref": "1969",
+      "conflicts_with": [],
+      "added_version": "4.2",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_0418",
+      "claim": "After Stuart McLean's death in 2017, his family established the Stuart McLean Camp Kanawana Fund, which helps children attend camp who lack financial means. The fund raises over $150,000 per year.",
+      "sources": ["src_ymca_website"],
+      "confidence": "stated",
+      "category": "notable_alumni",
+      "entities": ["Stuart McLean", "Camp Kanawana"],
+      "date_ref": "2017",
+      "conflicts_with": [],
+      "added_version": "4.2",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_0419",
+      "claim": "Terry 'Aislin' Mosher, the Montreal Gazette editorial cartoonist, was a camper at Camp Kanawana in 1952-1953. He received the camp's 'Pip' Alumni Award in 2015 and returned to camp after 60+ years.",
+      "sources": ["src_ymca_website"],
+      "confidence": "stated",
+      "category": "notable_alumni",
+      "entities": ["Terry Mosher", "Camp Kanawana"],
+      "date_ref": "1952",
+      "conflicts_with": [],
+      "added_version": "4.2",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_0420",
+      "claim": "Philip 'Pip' Caddell (1913-2004) was a camper at Camp Kanawana in 1928. His grandson James Caddell (1973-2005) was a camper and counselor in the 1980s-1990s. Andrew Caddell sponsors the 'Pip' Alumni Award in Philip's honour.",
+      "sources": ["src_ymca_website"],
+      "confidence": "stated",
+      "category": "notable_alumni",
+      "entities": ["Philip Caddell", "James Caddell", "Andrew Caddell", "Camp Kanawana"],
+      "date_ref": "1928",
+      "conflicts_with": [],
+      "added_version": "4.2",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_0421",
+      "claim": "Carol Skinner was a counselor and section director (not overall camp director) at Camp Kanawana from 1990-1995. She received the 'Pip' Alumni Award for her ALS advocacy.",
+      "sources": ["src_ymca_website"],
+      "confidence": "stated",
+      "category": "directors",
+      "entities": ["Carol Skinner", "Camp Kanawana"],
+      "date_ref": "1990",
+      "conflicts_with": [],
+      "added_version": "4.2",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_0422",
+      "claim": "Kate Taylor is the current camp director of Camp Kanawana as of the 2020s.",
+      "sources": ["src_ymca_website"],
+      "confidence": "stated",
+      "category": "directors",
+      "entities": ["Kate Taylor", "Camp Kanawana"],
+      "date_ref": "2020",
+      "conflicts_with": [],
+      "added_version": "4.2",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_0423",
+      "claim": "Dr. James Orbinski, the humanitarian physician, attended Camp Kanawana as a camper and counselor in the 1980s-1990s. He received the 2024 'Pip' Alumni Award.",
+      "sources": ["src_ymca_website"],
+      "confidence": "stated",
+      "category": "notable_alumni",
+      "entities": ["James Orbinski", "Camp Kanawana"],
+      "date_ref": "1980",
+      "conflicts_with": [],
+      "added_version": "4.2",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_0424",
+      "claim": "Camp Kanawana's 120th anniversary reunion was held in September 2014 at Victoria Hall.",
+      "sources": ["src_ymca_website"],
+      "confidence": "stated",
+      "category": "events",
+      "entities": ["Camp Kanawana"],
+      "date_ref": "2014",
+      "conflicts_with": [],
+      "added_version": "4.2",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_0425",
+      "claim": "The Camp YMCA Kanawana 'Pip' Alumni Award is an annual recognition given to notable camp alumni. Named after Philip 'Pip' Caddell (1913-2004). Past recipients include Terry 'Aislin' Mosher (2015), Chris Adam (2017), Marina Sharpe (2018), and James Orbinski (2024).",
+      "sources": ["src_ymca_website"],
+      "confidence": "stated",
+      "category": "traditions",
+      "entities": ["Camp Kanawana", "Pip Caddell"],
+      "date_ref": "2015",
+      "conflicts_with": [],
+      "added_version": "4.2",
+      "added_by": "ralph_loop"
     }
   ]
 }
