@@ -1,38 +1,26 @@
-–)ä²­†Ûi³ÿÚ¦("¶›r‰¿­êh³ùš¶Ö«¢{(Ÿòš¬¯àŠßÛ–†ìıöú}÷ß{G}çO|÷‡ßiİºo_İ§uo¾ŸïÇŸrf–m¦Ïÿ‚+a¹·(›ùš¶Ö«¢{(Ÿòš¬¯Û–†ÿ™¨§ş§v‡ß¿&vÇ¥~m¦Ïÿj˜ ŠØnmÊ&ş·©¢ÏæjÛZ®‰ì¢Êjv°jv¿r‰íz{lş§v‡ß¿&v·Ÿ™¨§r‰íz{HÈØ[˜]Ø[˜H\İÜH›Ú™XİHH[™Ù™‚ˆÈÈgpdated: 2026-02-10
+# Kanawana LSM Handoff Document
 
-### Session Summary (v49)œ((¨©½Éµ…°I1A HÄ±½½À½µÁ±•Ñ•½¸‰½Ñ ØÒs‚G&gB'F–6ÆW3¢¢  £â¢¦6öVGV6F–öâÖvVæFW"éÛY
-Šˆ
-ÛÛ^›Û\ŠNˆRÕÌZÖ‹]Ü—ÍÌ\Õ“Œİ§81KW4ZEJ_p-
-   - R1 web search verified all m…©½È±…¥µÌ……¥¹ÍĞe5EÕ•‰•Œİ•‰Í¥Ñ”°½¹v÷&F–7V7G'VÒÂæB&6†—fR6FÆöw0¢ÒÖ4ÙÛÜœš\È\Ú\ÈÛÛ™š\›YYˆÜXİ[HT“Î‹Ëçspectrum.library.concordia.ca/id/eprint/99276œÌ¼°ÍÕÁ•ÉÙ¥Í•‰äA•Ñ•È½ÍÍ…”(€€€´e5İ•Šw6—FR“c‚FFR6öæf—&ÖVC²$¶vææ"G—ò6öéÙš\›YYÛˆ]™HÚ]BˆH[İ[Z[™Y\ˆŒŒˆÛÛ§firmed
-   - Camp Perrot comparison date correÑ•Ñ¼€‰lÄäĞÔ½È€ÄäĞÙtˆÁ•È½¹½É‘¥„…Ñ…±¾vp¢Ò÷F÷&V¶RõvW&VFÆRvVæFW"76–væÖVçBfÆÙÙÙY\È[™™\™[˜ÙH
-›İ^XÚ]Hİ]Y[ˆçeb-accessible metadata)
-   - New: Additional e5…µÁÌ‘¥Í½Ù•É•¥¸™½¹‘Ì€¡	•Í¥•Ì°½ÉÚvÂÂF‡VæFW&&—&BÂv–ÆFW&æW727W'f—fÂ’6ö×Æ–9Ø]HÚ[\H›Ş\ËÙÚ\›Èš[˜\BˆHİ]\ÈY˜gnced: W1 â†’ R1 Draft
+## Project Overview
+Long-session manager for Camp Kanawana Wikipedia article and knowledge base maintenance.
 
-2. **programs-activiti•Ì¹µ¨¨€¡ÁÉ½É…µÌ™½±‘•È¤è€Å½Å1½TÙ}‰é]|å©aİbuu”æÕôWÄ4Vdæ¥ ¢Ò#vV"6V&6‚fW&–f–VBiÛİ[™[™È˜XİËØ[\Xš[YH˜[YK	•ˆØ[Y\Èçrigin
-   - "Camp Jubilee" name added from YMCİ•‰Í¥Ñ”€¡…ÉÑ¥±”¡…½µ¥ÑÑ•¥Ğ¤(€€€´A¥¹”‚t7&W7B7VÆÆ–ær6öæf—&ÖVB2Gvòv÷&G2‚$6×	Ô[™HÜ™\İŠH\ˆØ[\	ÜÈİÛˆ\ØYÙH[™SPĞHØgnada
-   - Pine Crest L&V history book noted: œ‰1Õµ‰•Éµ•¸€˜Y½å…•ÕÉÌèQ¡”e5A¥¹”É•ÍĞNwF÷'’ ¢Ò““26F‡’&VWfW2f–ÆÒFFVB2ùİ[X[Ûİ\˜ÙBˆHÛÛ˜ÛÜ™XH\˜Ú]™HİX‹\Ù\§ies for Camp Jubilee (12L) referenced
-   - St…ÑÕÌ…‘Ù…¹•è\ÄƒŠHHÄÉ…™Ğ((¨©-ÕÁ‘…Ñ•‚wFòc2ã3¢¢ ¢ÒgVÆÂföæG27G'V7GW&RÖVBƒ$È›İYÚL“‹MİX‹\Ù\šY\ÊB‹Hİ\—ØØ[\È[§tries expanded from strings to structured dicÑÌ(´½•‘Õ…Ñ¥½¸‘…Ñ•}…¹…±åÍ¥Ì½µÁ¥±•€¡Ñ¡É–vR×v’6÷W&6R6ö×&—6öâ¢ÒÖ4Ö÷'&—27WW'f—6ùÜˆ[™ÜXİ[HT“YY‹HNNLÈš[HØ][ÙÙgd
-- Camp Jubilee archive reference added
-- Pi¹”É•ÍĞÍÁ•±±¥¹œ…¹¡¥ÍÑ½Éä‰½½¬½¹™¥Éµ•*p¢222'F–6ÆR7FGW0 ¢¢¤S&Wf–WvVBƒr“¢¢ ¢ÒiÛİ[™[™ËLNM›YˆZ]šÚLUL–Z^–YŞ^UÍšÔVglcUnB
-- da-budge.md: 1iOHcDJeDgo5VFTfb46EQ6JreÕi…i¥”Ô(´…¹½”µÑÉ¥ÁÌ¹µè€ÄÍ5µİÅ±=|Í(ÍÉ(İætU¦§w7eBÒ×evöô•G¢Ò6÷Væ6–Â×&–æræÖC¢5—FÔ#µİ’Í[Ğ–KRŞ—Î’YŞPR^™B‹H‹YØ[Y\Ë›YˆQ[^š§wZxmQKJhFrNsbFGn1HbdseFBM9E7
-- wartime-kanawa¹„¹µè€ÅéA]ÕDÍ©	ei‘A=MY}á©9-Í]ÈİI©M,(´Í–v7F–öâÖæÖW2æÖC¢dö%D4¶6w¤6“„…d4T×T'¥4ÕC©ÚÌXB‚ŠŠ”ŒH˜Y
-ŠNŠŠ‚‹HÛÙYXØ][Û‹YÙ[™\‹§md: 1KW2yhoZ-wr_71sTPbLJ3v81KW4ZEJ_p- (ADVANCØĞä¤(´ÁÉ½É…µÌµ…Ñ¥Ù¥Ñ¥•Ì¹µè€Å½Å1½TÙ}‰é^tEó–¥‡u…u”æÕôWÄ4Vdæ¥"„Edä4TBcC’ ¢¢¤G&iİ
-JNŠŠ‚‹H˜[Y]ÜÛÛ‹›Yˆ\ĞQÑ”’ØŒŒYÙÑ™SYçrSJLllgpSZoAGxa4
+## Current State
+- Phase: E1-review
+- Active queue: da-budge (David Budge profile), lv-games (Lower Village games)
+- Knowledge base: v3.3
 
-**Stubs/Other:**
-- directorÌµ¥¹‘•à¹µ°Í½ÕÉ•Ì¹µ°¡…É½±µÉ½ÍÌ¹µ°•¹ÒvVææ–ÂÓ“cræÖBÂ6æF–âÖ6×–ærÖÖ÷fVÖVçBæÖ@©ÂˆÈÈÈ™^š[Üš]Y\È
-L
-B‚”NˆŒˆÛİ\˜ÙHÚgck on coeducation-gender.md and programs-actiÙ¥Ñ¥•Ì¹µ€¡É½ÍÌµÉ•™•É•¹”…¡•Í½ÕÉ•Ìè†v7G26†VWBÂÖ4Ö÷'&—2F†W6—2DbÂ“3R†—7F÷'’™Â”ˆY˜[˜ÙHÛÙYXØ][Û‹YÙ[™\‹›Y[™›ÙÜ˜gms-activities.md toward R3-verified (requiresœHÈ½µÁ±•Ñ¥½¸¤)@Ìè…¡”µ½É”É••¸QÉ¥…¹±–r—77VW2g&öÒ–çFW&æWB&6†—fRƒ“3"Ó“CÂã#YÈ\ÜİY\ÊB”ˆ[ÜHİXˆ™\ÙX\˜Ú
-š[H˜[', Cushing family)
-P5: Mine 1922 brochure and œÄäÈÌ…Ì	…œ™½È-™…ÑÌ€¡‰½Ñ …¡•‰ÕĞÕºvW‡G&7FVB¥c¢Ö4Ö÷'&—2F†W6—2DbgVÆÂW‡G&Øİ[Ûˆ
-š[HQˆMQÜUL\ÎPSĞŞ™ÖPLÌ›PUQMg5x0M)
+## Repository Structure
+- `docs/` - Architecture, operations, and reference documentation
+- `knowledge/kb.json` - Structured knowledge base
+- `wiki/articles/` - Wikipedia article drafts
+- `wiki/sources/` - Source materials
 
-### Key File IDs
+## Next Steps
+1. Complete verification tasks in priority queue
+2. Expand knowledge base coverage
+3. Maintain article quality standards
 
-- Project folder: 1Qœİe¹¡	dÅQÁ½éÕM	½i…A!á½İ=¡-Éá98(´]¥­¤™½±‘•Ês¢ãƒ“S&¥vS…4Ç$§FF‡¤$Å&Ö†ET4´5€¢Ò´#¢Õ)ÕÑZš“ÑÖĞœÒVLKL[“Rİˆ
-\]YÈŒç.3)
-- Source cache folder: 1W5pLDQlkSZ7JsGk11%áĞÁ)åÑée9]é`(´=ÁÌØÈ¸À¸Äè€ÄÙ½¬ÑLÔå•Lİ}-âtVc&4Å¤Tä×vtc‡¥p¢Ò&VfW&Væ6RÖçVÂc"ãã©ÈVV•Q›Ñ[•Œ”Ù‘T”\\‘M‹H[™Ù™§ [THIS_FILE]
-
-### Wiki Folder Structure
-- conÑ•áĞ¼è€ÅI‰ÕÑ5¥!e	=8Ù©é	…åäÁ9Y-¬İ!µeAÑ`(´ÁÊvöw&×2ó¢õ„¦EE„e§¥†ÖÕóV×“”•ôc“wUğ¢Ò	Ü[ÜKÎˆQ•™Øİ“ÒP—ÑÔÒYÎT^SYÚÂ‹H'chronology/: 13u9CSdL_Q184tXWSYV598kPQndm0K67œä(´Á±…•Ì¼è€Åİ˜Ñ%Q…eÑÙYÉ<É¹™¡ÈÜÅ±Y<ÔÑéİ±ÕFt ¢ÒFö7VÖVçG2ó¢s„'‡E$Ö&Tƒ&#v5F–Æ£CvD6eTSIÑÔÔÂ‹HY]KÎˆ[^—ÔZ–V˜LÌ×ÙÙÕ•LZZŞÙÒgW4
-Ú0Zvêå†Ûi³ÿëk"¶›ºÇ«r‰íz{\¢oæjÛZ®‰ì¢Êjv°jv¿™¨§ş§v‡ß¿&vÚ$zpT^“5=Ì%‚O$Æc’ËL”ƒ àÊŠxjÇºâ­º¹a¶Úlÿö©Š­†æÜ¢oëzš,şf­µªèÊ'ü¦§k§kø"·öå¡»?}¾Ÿ}÷ŞÑßyÓß=á÷Úwn›×Çwiİ[ï§ûñçÜ†Ù¥º¹a¶Úlÿø"¶›r‰¿™«mjº'²‰ÿ)©ÚÁ©Úı¹hoùšŠájwh}ûøòggjg¡jwh}ûøògijØajwh}ûøògl…§Ûé÷ß}í÷=óŞ}§vé½|wvÕ¾ú¿}Ë"Íî4ÓËr¥çâ•ë«–m¦Ïÿj˜ ŠØnmÊ&ş·©¢ÏæjÛZ®‰ì¢Êjv°jv¿r‰íz{lş§v‡ß¿&v·Ÿ™¨§
+## Handoff Protocol
+Session continuity maintained through:
+- Priority queue in kb.json
+- Architecture documentation
+- Operations manual for task execution
