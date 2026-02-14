@@ -737,6 +737,38 @@
       "extraction_version": "4.2",
       "reliability": "primary",
       "notes": "D.A. Budge (Daniel Andrew Budge, 1851-1933). General Secretary Montreal YMCA 1874-1913. Born Newmarket ON. Married Annie Watson 1876. Budge Memorial Hall named 1937."
+    },
+    {
+      "source_id": "src_beer_et_seq",
+      "type": "web",
+      "title": "Beer Et Seq - The Sand Porter of Montreal (Part I)",
+      "date": null,
+      "date_precision": "approximate",
+      "origin": "web",
+      "origin_url": "https://www.beeretseq.com/the-sand-porter-of-montreal-part-i/",
+      "cache_path": null,
+      "char_count": 0,
+      "ingested_at": "2026-02-14T04:00:00Z",
+      "extracted": true,
+      "extraction_version": "4.2",
+      "reliability": "secondary",
+      "notes": "Thomas Cushing and Montreal Brewing Company history. Gordon Cushing on National Breweries board."
+    },
+    {
+      "source_id": "src_cushing_genealogy",
+      "type": "report",
+      "title": "Cushing, James S. The Genealogy of the Cushing Family. Montreal: Perrault Printing Co., 1905.",
+      "date": "1905",
+      "date_precision": "year",
+      "origin": "internet_archive",
+      "origin_url": "https://archive.org/details/genealogyofcushi1905cush",
+      "cache_path": null,
+      "char_count": 0,
+      "ingested_at": "2026-02-14T04:00:00Z",
+      "extracted": false,
+      "extraction_version": null,
+      "reliability": "primary",
+      "notes": "598-page family genealogy. Second edition, expanding Lemuel Jr.'s 1877 work. Key document for identifying the 1892 camping pioneer. Available on Internet Archive."
     }
   ]
 }

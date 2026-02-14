@@ -282,17 +282,18 @@
       "article_id": "cushing-family",
       "title": "The Cushing Family and YMCA Camping",
       "wiki_folder": "people",
-      "status": "stub",
+      "status": "draft",
       "status_history": [
-        {"status": "stub", "at": "2026-02-11T07:00:00Z", "by": "auto", "task": "RESEARCH"}
+        {"status": "stub", "at": "2026-02-11T07:00:00Z", "by": "auto", "task": "RESEARCH"},
+        {"status": "draft", "at": "2026-02-14T04:00:00Z", "by": "auto", "task": "RESEARCH"}
       ],
-      "ralph_loops_completed": 1,
-      "kb_facts_used": ["f_0011", "f_0185", "f_0224"],
-      "sources_cited": ["src_qahn_howard", "src_concordia_fonds", "src_mcmorris_thesis"],
+      "ralph_loops_completed": 2,
+      "kb_facts_used": ["f_0011", "f_0185", "f_0224", "f_0432", "f_0433", "f_0434", "f_0435", "f_0436"],
+      "sources_cited": ["src_qahn_howard", "src_concordia_fonds", "src_mcmorris_thesis", "src_dcb_cushing", "src_wikipedia_cushing", "src_beer_et_seq", "src_cushing_genealogy"],
       "open_questions": 6,
-      "cross_links": ["founding-1894", "billy-ball", "da-budge"],
+      "cross_links": ["founding-1894", "billy-ball", "da-budge", "directors-index"],
       "file_id": null,
-      "word_count": 450
+      "word_count": 1000
     },
     {
       "article_id": "traditions-and-culture",

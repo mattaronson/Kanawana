@@ -6903,6 +6903,66 @@
       "conflicts_with": [],
       "added_version": "4.2",
       "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_0432",
+      "claim": "Lemuel Cushing Sr. (1806-1875) had eight sons: Lemuel Jr., Thomas, Charles, Francis, Frederick, William Mair, George, and James Brock (Col.). All eight became 'active and powerful businessmen' in Montreal. The family descended from Matthew Cushing, who arrived in Hingham, Massachusetts in 1638.",
+      "sources": ["src_dcb_cushing"],
+      "confidence": "stated",
+      "category": "people",
+      "entities": ["Lemuel Cushing Sr.", "Cushing family"],
+      "date_ref": "1806",
+      "conflicts_with": [],
+      "added_version": "4.2",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_0433",
+      "claim": "Thomas Cushing (son of Lemuel Sr.) founded the Montreal Brewing Company in 1876. In 1909, it merged with Dawes Brewery and others to form National Breweries Limited. His son Gordon Cushing served on the National board.",
+      "sources": ["src_beer_et_seq"],
+      "confidence": "stated",
+      "category": "people",
+      "entities": ["Thomas Cushing", "Montreal Brewing Company", "Gordon Cushing"],
+      "date_ref": "1876",
+      "conflicts_with": [],
+      "added_version": "4.2",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_0434",
+      "claim": "Charles Cushing (son of Lemuel Sr.) was a notary (B.C.L., N.P.) active 1869-1910. Published 'Cushing's Notarial Form Book' (1887). Mentioned in Concordia YMCA fonds research reports (sub-series 13D).",
+      "sources": ["src_concordia_fonds"],
+      "confidence": "stated",
+      "category": "people",
+      "entities": ["Charles Cushing"],
+      "date_ref": "1869",
+      "conflicts_with": [],
+      "added_version": "4.2",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_0435",
+      "claim": "James S. Cushing (1878-1957), likely a grandson of Lemuel Sr., published a second edition of 'The Genealogy of the Cushing Family' (Montreal: Perrault Printing Co., 1905), expanding Lemuel Jr.'s 1877 work to 598 pages. Available on Internet Archive.",
+      "sources": ["src_cushing_genealogy"],
+      "confidence": "stated",
+      "category": "people",
+      "entities": ["James S. Cushing", "Cushing family"],
+      "date_ref": "1905",
+      "conflicts_with": [],
+      "added_version": "4.2",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_0436",
+      "claim": "Francis Cushing (son of Lemuel Sr.) formed Cushing's Island Company in 1883 and hired Frederick Law Olmsted to prepare a landscape plan for Cushing Island, Maine.",
+      "sources": ["src_dcb_cushing"],
+      "confidence": "stated",
+      "category": "people",
+      "entities": ["Francis Cushing", "Frederick Law Olmsted"],
+      "date_ref": "1883",
+      "conflicts_with": [],
+      "added_version": "4.2",
+      "added_by": "ralph_loop"
     }
   ]
 }

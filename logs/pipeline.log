@@ -201,6 +201,20 @@
   - Article advanced R3-verified → E1-reviewed
   - Priority p_022 completed
 
+2026-02-14T04:30:00Z | RALPH R1 | cushing-family.md — Formal RESEARCH pass (stub → draft)
+  - R1 loop: Genealogical research across Internet Archive, BAnQ, city directories, Find A Grave, FamilySearch
+  - FOUND: 1905 Cushing genealogy by James S. Cushing (598 pages, Internet Archive) — key document
+  - FOUND: Lemuel Cushing Sr. (1806-1875) had 8 sons: Lemuel Jr., Thomas, Charles, Francis, Frederick, William Mair, George, James Brock
+  - FOUND: Thomas Cushing founded Montreal Brewing Company (1876), partner with Frederick Mekins
+  - FOUND: Charles Cushing was notary in Montreal (1869-1910)
+  - FOUND: Francis Cushing hired Frederick Law Olmsted for landscape design
+  - FOUND: James S. Cushing compiled 598-page genealogy tracing family to Matthew Cushing of Hingham (1638)
+  - OPEN: Which Cushing son was the 1892 camping pioneer? Lemuel Jr. most likely but unconfirmed.
+  - Added 5 KB facts (f_0432-f_0436), 2 new sources (src_beer_et_seq, src_cushing_genealogy). Total: 49 sources, 436 facts (v4.2).
+  - Article rewritten: 1000 words, 7 sources, family tree table, 5 sections
+  - Article advanced stub → draft (1 RALPH loop completed)
+  - Priority p_023 completed
+
 2026-02-14T04:00:00Z | STATUS | Session 2 summary
   - Priorities completed this session: P15 (VERIFY centennial), P16 (VERIFY camping-movement), P17 (sources-index draft), P18 (harold-cross draft), P19 (directors-index draft), P20 (billy-ball draft), P21 (E1 centennial), P22 (E1 camping-movement)
   - Priorities blocked: P3 (VERIFY coeducation — needs Drive article text), P4 (VERIFY programs — needs Drive), P5 (Green Triangle — not digitized), P8 (McMorris thesis — needs Drive)

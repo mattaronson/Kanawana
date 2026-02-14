@@ -296,7 +296,9 @@
       "blocking": false,
       "assigned_weight": "P4",
       "created_at": "2026-02-14T03:30:00Z",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-02-14T04:00:00Z",
+      "result": "R1 RALPH: Identified 8 sons of Lemuel Sr. Thomas founded Montreal Brewing (1876); Charles was notary; Francis hired Olmsted. 1905 genealogy (598 pages, IA) is key to 1892 identity. 5 KB facts (f_0432-f_0436), 2 new sources. Article advanced stub → draft (1000 words, 7 sources)."
     },
     {
       "priority_id": "p_024",
