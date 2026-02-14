@@ -263,17 +263,18 @@
       "article_id": "billy-ball",
       "title": "Billy Ball",
       "wiki_folder": "people",
-      "status": "stub",
+      "status": "draft",
       "status_history": [
-        {"status": "stub", "at": "2026-02-11T07:00:00Z", "by": "auto", "task": "RESEARCH"}
+        {"status": "stub", "at": "2026-02-11T07:00:00Z", "by": "auto", "task": "RESEARCH"},
+        {"status": "draft", "at": "2026-02-14T03:00:00Z", "by": "auto", "task": "RESEARCH"}
       ],
-      "ralph_loops_completed": 1,
-      "kb_facts_used": ["f_0006", "f_0007", "f_0012"],
-      "sources_cited": ["src_ymca_website", "src_kanawana_facts", "src_qahn_howard"],
-      "open_questions": 6,
-      "cross_links": ["founding-1894", "da-budge", "cushing-family"],
+      "ralph_loops_completed": 2,
+      "kb_facts_used": ["f_0006", "f_0007", "f_0012", "f_0426", "f_0427", "f_0428", "f_0429", "f_0430", "f_0431"],
+      "sources_cited": ["src_ymca_website", "src_kanawana_facts", "src_qahn_howard", "src_mcgill_budge", "src_concordia_fonds"],
+      "open_questions": 7,
+      "cross_links": ["founding-1894", "da-budge", "cushing-family", "directors-index"],
       "file_id": null,
-      "word_count": 250
+      "word_count": 700
     },
     {
       "article_id": "cushing-family",

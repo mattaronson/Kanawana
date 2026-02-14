@@ -6831,6 +6831,78 @@
       "conflicts_with": [],
       "added_version": "4.2",
       "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_0426",
+      "claim": "In 1909, Camp Jubilee was renamed Camp Otoreke (Iroquoian for 'north'). Camp Otoreke continued operating on the original Lake Saint-Joseph islands site after the main YMCA camp moved to Saint-Sauveur (Kamp Kanawana). After 1910, Otoreke served men 18+, women and men 18+, married couples, and low-income families. Camp Otoreke closed in 1982.",
+      "sources": ["src_qahn_howard"],
+      "confidence": "stated",
+      "category": "founding",
+      "entities": ["Camp Jubilee", "Camp Otoreke", "Lake Saint-Joseph"],
+      "date_ref": "1909",
+      "conflicts_with": [],
+      "added_version": "4.2",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_0427",
+      "claim": "D.A. Budge's full name was Daniel Andrew Budge. Born April 16, 1851 in Newmarket, Ontario. Died 1933. Served as General Secretary of the Montreal YMCA from 1874 to 1913. Married Annie Margaret Watson (1852-1931) in 1876. In 1937, the Montreal Central YMCA renamed its Association Hall the 'D.A. Budge Memorial Hall' in his honour.",
+      "sources": ["src_mcgill_budge"],
+      "confidence": "stated",
+      "category": "people",
+      "entities": ["D.A. Budge", "Montreal YMCA"],
+      "date_ref": "1851",
+      "conflicts_with": [],
+      "added_version": "4.2",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_0428",
+      "claim": "A 'Report-trip to St. Agathe' (1893, 1895) exists in Concordia Archives, documenting 'the first Montreal YMCA venture to explore the country round about St. Agathe with the view of securing a lake on which to establish a Summer Camp.'",
+      "sources": ["src_concordia_fonds"],
+      "confidence": "stated",
+      "category": "founding",
+      "entities": ["Montreal YMCA", "St. Agathe"],
+      "date_ref": "1893",
+      "conflicts_with": [],
+      "added_version": "4.2",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_0429",
+      "claim": "A 'Journal of Summer Camp 1895' and Permanent Camp Committee minutes (1895-1896) exist in the Concordia Archives (YMCA of Montreal Fonds P145).",
+      "sources": ["src_concordia_fonds"],
+      "confidence": "stated",
+      "category": "founding",
+      "entities": ["Permanent Camp Committee", "Camp Jubilee"],
+      "date_ref": "1895",
+      "conflicts_with": [],
+      "added_version": "4.2",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_0430",
+      "claim": "A William Ball (Canadian) launched a national YMCA swimming instruction program in 1910 and was a YMCA national board member who encouraged the Red Cross to include lifesaving instruction. It is unknown whether this is the same person as 'Billy' Ball who founded Camp Jubilee in 1894.",
+      "sources": ["src_ymca_website"],
+      "confidence": "inferred",
+      "category": "people",
+      "entities": ["Billy Ball", "William Ball"],
+      "date_ref": "1910",
+      "conflicts_with": [],
+      "added_version": "4.2",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_0431",
+      "claim": "McGill University holds a D.A. Budge archival collection, separate from the Concordia YMCA of Montreal Fonds.",
+      "sources": ["src_mcgill_budge"],
+      "confidence": "stated",
+      "category": "sources",
+      "entities": ["D.A. Budge", "McGill University"],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "4.2",
+      "added_by": "ralph_loop"
     }
   ]
 }

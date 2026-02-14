@@ -721,6 +721,22 @@
       "extraction_version": "4.2",
       "reliability": "secondary",
       "notes": "120th reunion at Victoria Hall, September 2014."
+    },
+    {
+      "source_id": "src_mcgill_budge",
+      "type": "catalog_reference",
+      "title": "McGill Archives - D.A. Budge Collection",
+      "date": null,
+      "date_precision": "approximate",
+      "origin": "concordia_archives",
+      "origin_url": "https://archivalcollections.library.mcgill.ca/index.php/budge-d-a",
+      "cache_path": null,
+      "char_count": 0,
+      "ingested_at": "2026-02-14T02:30:00Z",
+      "extracted": true,
+      "extraction_version": "4.2",
+      "reliability": "primary",
+      "notes": "D.A. Budge (Daniel Andrew Budge, 1851-1933). General Secretary Montreal YMCA 1874-1913. Born Newmarket ON. Married Annie Watson 1876. Budge Memorial Hall named 1937."
     }
   ]
 }

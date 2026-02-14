@@ -257,7 +257,9 @@
       "blocking": false,
       "assigned_weight": "P4",
       "created_at": "2026-02-14T02:00:00Z",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-02-14T03:00:00Z",
+      "result": "R1 formal RALPH: 20+ searches. Billy Ball remains undocumented. Key contextual discoveries: Camp Otoreke (Jubilee renamed 1909, closed 1982), D.A. Budge bio confirmed (1851-1933), 1893 St. Agathe exploration journal in archives, William Ball 1910 swimming instructor possible match. 6 KB facts added (f_0426-f_0431), 1 new source. Article advanced stub → draft (700 words)."
     },
     {
       "priority_id": "p_021",
