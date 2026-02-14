@@ -191,17 +191,18 @@
       "article_id": "sources-index",
       "title": "Sources and Archives",
       "wiki_folder": "meta",
-      "status": "stub",
+      "status": "draft",
       "status_history": [
-        {"status": "stub", "at": "2026-02-08T00:00:00Z", "by": "auto", "task": "RESEARCH"}
+        {"status": "stub", "at": "2026-02-08T00:00:00Z", "by": "auto", "task": "RESEARCH"},
+        {"status": "draft", "at": "2026-02-14T01:30:00Z", "by": "auto", "task": "WRITE"}
       ],
       "ralph_loops_completed": 0,
       "kb_facts_used": [],
       "sources_cited": [],
-      "open_questions": 0,
-      "cross_links": [],
+      "open_questions": 5,
+      "cross_links": ["founding-1894", "centennial-1967", "canadian-camping-movement", "harold-cross"],
       "file_id": null,
-      "word_count": 0
+      "word_count": 1500
     },
     {
       "article_id": "harold-cross",

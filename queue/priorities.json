@@ -218,8 +218,9 @@
       "blocking": false,
       "assigned_weight": "P5",
       "created_at": "2026-02-11T08:30:00Z",
-      "status": "pending",
-      "notes": "Existing stub. 42 sources across 6 types. Good meta-reference article."
+      "status": "completed",
+      "completed_at": "2026-02-14T01:30:00Z",
+      "result": "sources-index.md drafted: 1500 words, 42 sources cataloged by reliability tier (14 primary, 16 secondary, 8 tertiary, 4 catalog). 7 unextracted sources identified. 5 open questions. Article advanced stub → draft."
     }
   ]
 }

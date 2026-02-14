@@ -133,3 +133,13 @@
   - All other claims confirmed: Camp Pine Crest 1910, CSET 1914, TUXIS 1918, Ahmek 1921, Wapomeo 1924, Pierre Trudeau at Ahmek, OCA 1933, CCA 1936, Tanamakoon 1925, Ouareau 1922, Cochrane 1900, Wall 2009, Canadian Camping 1949-1988
   - RESULT: 17/19 confirmed, 2 corrected, 1 clarified. Article advanced draft → R3-verified.
   - Priority p_016 completed
+
+2026-02-14T01:30:00Z | WRITE | sources-index.md — Catalog article drafted
+  - Compiled all 42 source records from sources.json into structured article
+  - Organized by reliability tier: 14 primary, 16 secondary, 8 tertiary, 4 catalog references
+  - 8 Internet Archive primary documents (1921-1980)
+  - 4 Concordia Archives sub-series documented (P145 main, 1B, 12L, 14D)
+  - 7 unextracted sources identified for future work
+  - 5 open questions registered
+  - Article advanced stub → draft (1500 words)
+  - Priority p_017 completed
