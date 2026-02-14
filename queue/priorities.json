@@ -286,6 +286,83 @@
       "status": "completed",
       "completed_at": "2026-02-14T03:30:00Z",
       "result": "E1 REVIEW pass. All claims cited, table reordered chronologically, names cross-checked, cross-links valid, encyclopedic tone. Article advanced R3-verified → E1-reviewed."
+    },
+    {
+      "priority_id": "p_023",
+      "rank": 23,
+      "type": "RESEARCH",
+      "description": "Advance cushing-family stub → draft — formal RALPH, identify which Lemuel Cushing led 1892 trip",
+      "article_id": "cushing-family",
+      "blocking": false,
+      "assigned_weight": "P4",
+      "created_at": "2026-02-14T03:30:00Z",
+      "status": "pending"
+    },
+    {
+      "priority_id": "p_024",
+      "rank": 24,
+      "type": "RESEARCH",
+      "description": "Advance traditions-and-culture stub → draft — RALPH on camp traditions, spiritual life, badge system",
+      "article_id": "traditions-and-culture",
+      "blocking": false,
+      "assigned_weight": "P4",
+      "created_at": "2026-02-14T03:30:00Z",
+      "status": "pending"
+    },
+    {
+      "priority_id": "p_025",
+      "rank": 25,
+      "type": "RESEARCH",
+      "description": "Advance the-kanawana-site stub → draft — RALPH on physical site, geography, facilities",
+      "article_id": "the-kanawana-site",
+      "blocking": false,
+      "assigned_weight": "P4",
+      "created_at": "2026-02-14T03:30:00Z",
+      "status": "pending"
+    },
+    {
+      "priority_id": "p_026",
+      "rank": 26,
+      "type": "WRITE",
+      "description": "Create camp-otoreke stub — Camp Jubilee renamed 1909, operated on original Lake Saint-Joseph site until 1982",
+      "article_id": "camp-otoreke",
+      "blocking": false,
+      "assigned_weight": "P5",
+      "created_at": "2026-02-14T03:30:00Z",
+      "status": "pending"
+    },
+    {
+      "priority_id": "p_027",
+      "rank": 27,
+      "type": "VERIFY",
+      "description": "VERIFY directors-index.md — cross-reference all director dates and roles",
+      "article_id": "directors-index",
+      "blocking": false,
+      "assigned_weight": "P5",
+      "created_at": "2026-02-14T03:30:00Z",
+      "status": "pending"
+    },
+    {
+      "priority_id": "p_028",
+      "rank": 28,
+      "type": "VERIFY",
+      "description": "VERIFY billy-ball.md — cross-reference all claims",
+      "article_id": "billy-ball",
+      "blocking": false,
+      "assigned_weight": "P5",
+      "created_at": "2026-02-14T03:30:00Z",
+      "status": "pending"
+    },
+    {
+      "priority_id": "p_029",
+      "rank": 29,
+      "type": "VERIFY",
+      "description": "VERIFY harold-cross.md — cross-reference all claims",
+      "article_id": "harold-cross",
+      "blocking": false,
+      "assigned_weight": "P5",
+      "created_at": "2026-02-14T03:30:00Z",
+      "status": "pending"
     }
   ]
 }

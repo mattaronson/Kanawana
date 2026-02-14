@@ -200,3 +200,18 @@
   - Open Questions actionable — PASS
   - Article advanced R3-verified → E1-reviewed
   - Priority p_022 completed
+
+2026-02-14T04:00:00Z | STATUS | Session 2 summary
+  - Priorities completed this session: P15 (VERIFY centennial), P16 (VERIFY camping-movement), P17 (sources-index draft), P18 (harold-cross draft), P19 (directors-index draft), P20 (billy-ball draft), P21 (E1 centennial), P22 (E1 camping-movement)
+  - Priorities blocked: P3 (VERIFY coeducation — needs Drive article text), P4 (VERIFY programs — needs Drive), P5 (Green Triangle — not digitized), P8 (McMorris thesis — needs Drive)
+  - New priorities registered: P23-P29
+  - Articles: 19 total (9 E1-reviewed, 7 draft, 3 stub)
+  - KB: 431 facts across 25 categories (v4.2)
+  - Sources: 47 records
+  - Articles advanced this session: centennial-1967 (draft → E1-reviewed), canadian-camping-movement (draft → E1-reviewed), harold-cross (stub → draft), directors-index (stub → draft), billy-ball (stub → draft), sources-index (stub → draft)
+  - New facts: f_0417-f_0431 (15 facts)
+  - New sources: 5 (src_ourkids_mclean, src_ymca_pip_mosher, src_ymca_pip_orbinski, src_ymca_120th, src_mcgill_budge)
+  - Key discoveries: Camp Otoreke (Jubilee renamed 1909, closed 1982), D.A. Budge bio (1851-1933), Stuart McLean asst. director 1974-75, Pip Alumni Award, 1893 St. Agathe exploration journal
+  - Commits: 8 (P15 through P21-P22 + merge)
+  - Git-crypt files decrypted (placeholder summaries, not original content)
+  - Blockers: coeducation-gender.md and programs-activities.md article text on Google Drive only
