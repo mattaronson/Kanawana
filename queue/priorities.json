@@ -221,6 +221,63 @@
       "status": "completed",
       "completed_at": "2026-02-14T01:30:00Z",
       "result": "sources-index.md drafted: 1500 words, 42 sources cataloged by reliability tier (14 primary, 16 secondary, 8 tertiary, 4 catalog). 7 unextracted sources identified. 5 open questions. Article advanced stub → draft."
+    },
+    {
+      "priority_id": "p_018",
+      "rank": 18,
+      "type": "RESEARCH",
+      "description": "Advance harold-cross stub → draft — formal RALPH R2, search for biographical details",
+      "article_id": "harold-cross",
+      "blocking": false,
+      "assigned_weight": "P4",
+      "created_at": "2026-02-14T01:30:00Z",
+      "status": "completed",
+      "completed_at": "2026-02-14T02:00:00Z",
+      "result": "R2 RALPH loop: 27 searches across WorldCat, LAC, BAnQ, genealogy databases, obituary archives. No biographical details found. Book not in any library catalog — likely limited YMCA internal publication (contrast with Ross's Ryerson Press edition). Research SATURATED for online sources. Article advanced stub → draft."
+    },
+    {
+      "priority_id": "p_019",
+      "rank": 19,
+      "type": "RESEARCH",
+      "description": "Advance directors-index stub → draft — compile comprehensive director list, fill 1947-2003 gap",
+      "article_id": "directors-index",
+      "blocking": false,
+      "assigned_weight": "P4",
+      "created_at": "2026-02-14T02:00:00Z",
+      "status": "pending"
+    },
+    {
+      "priority_id": "p_020",
+      "rank": 20,
+      "type": "RESEARCH",
+      "description": "Advance billy-ball stub → draft — formal RALPH for founding-era person",
+      "article_id": "billy-ball",
+      "blocking": false,
+      "assigned_weight": "P4",
+      "created_at": "2026-02-14T02:00:00Z",
+      "status": "pending"
+    },
+    {
+      "priority_id": "p_021",
+      "rank": 21,
+      "type": "REVIEW",
+      "description": "E1 REVIEW centennial-1967 — final quality pass for encyclopedic standards",
+      "article_id": "centennial-1967",
+      "blocking": false,
+      "assigned_weight": "P5",
+      "created_at": "2026-02-14T02:00:00Z",
+      "status": "pending"
+    },
+    {
+      "priority_id": "p_022",
+      "rank": 22,
+      "type": "REVIEW",
+      "description": "E1 REVIEW canadian-camping-movement — final quality pass",
+      "article_id": "canadian-camping-movement",
+      "blocking": false,
+      "assigned_weight": "P5",
+      "created_at": "2026-02-14T02:00:00Z",
+      "status": "pending"
     }
   ]
 }
