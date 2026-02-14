@@ -227,11 +227,12 @@
       "article_id": "centennial-1967",
       "title": "The 1967 Centennial and Kanawana",
       "wiki_folder": "chronology",
-      "status": "R3-verified",
+      "status": "E1-reviewed",
       "status_history": [
         {"status": "stub", "at": "2026-02-08T00:00:00Z", "by": "auto", "task": "RESEARCH"},
         {"status": "draft", "at": "2026-02-11T07:30:00Z", "by": "auto", "task": "WRITE"},
-        {"status": "R3-verified", "at": "2026-02-14T00:00:00Z", "by": "auto", "task": "VERIFY"}
+        {"status": "R3-verified", "at": "2026-02-14T00:00:00Z", "by": "auto", "task": "VERIFY"},
+        {"status": "E1-reviewed", "at": "2026-02-14T03:30:00Z", "by": "auto", "task": "REVIEW"}
       ],
       "ralph_loops_completed": 1,
       "kb_facts_used": ["f_0246", "f_0247", "f_0282", "f_0283", "f_0284", "f_0285", "f_0286", "f_0287", "f_0288", "f_0289", "f_0290", "f_0291", "f_0292", "f_0293", "f_0294", "f_0295", "f_0296", "f_0297", "f_0298", "f_0299", "f_0300", "f_0301", "f_0362", "f_0387", "f_0388", "f_0389", "f_0390", "f_0391", "f_0392", "f_0393", "f_0394"],
@@ -245,11 +246,12 @@
       "article_id": "canadian-camping-movement",
       "title": "The Canadian Camping Movement",
       "wiki_folder": "context",
-      "status": "R3-verified",
+      "status": "E1-reviewed",
       "status_history": [
         {"status": "stub", "at": "2026-02-08T00:00:00Z", "by": "auto", "task": "RESEARCH"},
         {"status": "draft", "at": "2026-02-11T08:30:00Z", "by": "auto", "task": "WRITE"},
-        {"status": "R3-verified", "at": "2026-02-14T01:00:00Z", "by": "auto", "task": "VERIFY"}
+        {"status": "R3-verified", "at": "2026-02-14T01:00:00Z", "by": "auto", "task": "VERIFY"},
+        {"status": "E1-reviewed", "at": "2026-02-14T03:30:00Z", "by": "auto", "task": "REVIEW"}
       ],
       "ralph_loops_completed": 1,
       "kb_facts_used": ["f_0394", "f_0411", "f_0412", "f_0413", "f_0414", "f_0415", "f_0416"],

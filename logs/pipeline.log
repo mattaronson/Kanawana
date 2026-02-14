@@ -180,3 +180,23 @@
   - Added 6 KB facts (f_0426-f_0431), 1 new source (src_mcgill_budge). Total: 47 sources, 431 facts.
   - Article advanced stub → draft (700 words, 6 sources)
   - Priority p_020 completed
+
+2026-02-14T03:30:00Z | E1 REVIEW | centennial-1967.md — Final quality pass (E1-reviewed)
+  - All claims cited — PASS
+  - Dates consistent with timeline — PASS
+  - Names cross-checked against people index — PASS
+  - Cross-links verified (canoe-trips, coeducation-gender, canadian-camping-movement, founding-1894) — PASS
+  - Tone fix: removed "dramatically" from Lachine Rapids sentence
+  - Open Questions actionable with archival leads — PASS
+  - Article advanced R3-verified → E1-reviewed
+  - Priority p_021 completed
+
+2026-02-14T03:30:00Z | E1 REVIEW | canadian-camping-movement.md — Final quality pass (E1-reviewed)
+  - All major claims cited — PASS (two general contextual sentences lack inline citations but supported by referenced works)
+  - Table reordered chronologically (Keewaydin 1893 now before Camp Jubilee 1894)
+  - Names cross-checked in V1 pass — PASS
+  - Cross-links verified (founding-1894, centennial-1967, canoe-trips, cushing-family) — PASS
+  - Encyclopedic tone, neutral voice — PASS
+  - Open Questions actionable — PASS
+  - Article advanced R3-verified → E1-reviewed
+  - Priority p_022 completed

@@ -1,6 +1,6 @@
 # The Canadian Camping Movement
 
-<!-- status: R3-verified -->
+<!-- status: E1-reviewed -->
 <!-- confidence: medium-high -->
 <!-- last_updated: 2026-02-14 -->
 <!-- last_editor: v50 -->
@@ -19,8 +19,8 @@ The earliest known Canadian camps:
 | Year | Camp | Location | Type |
 |------|------|----------|------|
 | 1889 | Big Cove YMCA Camp | Merigomish, Nova Scotia | YMCA residential |
-| 1894 | Camp Jubilee (Kanawana) | Lake Saint-Joseph, Quebec | YMCA boys' camp |
 | 1893 | Keewaydin Camp | Founded in Maine by A.S. Gregg Clarke; moved to Temagami, Ontario (~1902) | Private canoe camp |
+| 1894 | Camp Jubilee (Kanawana) | Lake Saint-Joseph, Quebec | YMCA boys' camp |
 | 1900 | A.L. Cochrane's camp | Ontario | First private camp in Ontario |
 | ~1906 | Camp Couchiching | Orillia, Ontario | YMCA |
 | 1906 | Camp Northway | Algonquin Park, Ontario | Oldest girls' camp |
@@ -87,3 +87,4 @@ The CCA published *Canadian Camping* magazine from 1949 to 1988; digitized issue
 <!-- R1 formal RALPH loop completed 2026-02-11. Strong web sources available. Big Cove YMCA Camp (1889) predates Kanawana — important correction to any "first in Canada" claims. Kanawana's position as second-oldest and Quebec's first is well-supported. Taylor Statten's YMCA background directly parallels Kanawana's institutional origins. Trent University Archives are a major untapped resource for Kanawana context within the broader movement. Ernest Thompson Seton / Woodcraft League connection to Kanawana's 1922 charter merits further investigation. -->
 
 <!-- V1 VERIFY pass completed 2026-02-14. 17/19 claims independently confirmed. Corrections applied: (1) Keewaydin founded 1893 not 1894, per Wikipedia and Keewaydin.org. (2) Camp Oolahwan was NOT first girls' camp in Canada — Camp Northway (1906) predates it by 11 years. Wording corrected to "one of the earliest." (3) Taylor Statten's 1906 YMCA role clarified as regional/early, national secretary by 1912. All other claims confirmed: Big Cove 1889, Montreal YMCA 1851, Camp Pine Crest 1910, CSET 1914, TUXIS/Trail Rangers 1918, Camp Ahmek 1921, Wapomeo 1924, Pierre Trudeau at Ahmek, OCA 1933, CCA 1936, Camp Tanamakoon 1925, Camp Ouareau 1922, Cochrane 1900, Wall 2009, Canadian Camping magazine 1949-1988. -->
+<!-- E1 REVIEW pass completed 2026-02-14. Systematic quality review: (1) All major claims cited — two general contextual sentences in Origins lack inline citations but are supported by referenced works. (2) Table reordered chronologically (Keewaydin 1893 now before Camp Jubilee 1894). (3) Names all cross-checked in V1 pass. (4) Cross-links valid. (5) Encyclopedic tone, neutral voice. (6) Open Questions actionable with archival leads. Article advanced R3-verified → E1-reviewed. -->

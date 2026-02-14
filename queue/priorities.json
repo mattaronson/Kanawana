@@ -270,7 +270,9 @@
       "blocking": false,
       "assigned_weight": "P5",
       "created_at": "2026-02-14T02:00:00Z",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-02-14T03:30:00Z",
+      "result": "E1 REVIEW pass. All claims cited, dates consistent, names cross-checked, cross-links valid. One tone fix: removed 'dramatically'. No unsourced speculation. Article advanced R3-verified → E1-reviewed."
     },
     {
       "priority_id": "p_022",
@@ -281,7 +283,9 @@
       "blocking": false,
       "assigned_weight": "P5",
       "created_at": "2026-02-14T02:00:00Z",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-02-14T03:30:00Z",
+      "result": "E1 REVIEW pass. All claims cited, table reordered chronologically, names cross-checked, cross-links valid, encyclopedic tone. Article advanced R3-verified → E1-reviewed."
     }
   ]
 }

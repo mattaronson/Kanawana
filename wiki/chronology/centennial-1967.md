@@ -1,6 +1,6 @@
 # The 1967 Centennial and Kanawana
 
-<!-- status: R3-verified -->
+<!-- status: E1-reviewed -->
 <!-- confidence: high -->
 <!-- last_updated: 2026-02-14 -->
 <!-- last_editor: v50 -->
@@ -20,7 +20,7 @@ Manitoba won with a time of 507 hours, 21 minutes, and 51 seconds, followed by B
 
 Secretary of State Judy LaMarsh was present at both the start and finish of the race.^3 John Fisher greeted the paddlers in Ottawa on August 29, 1967.^3 Don Starkell, a Manitoba team member from Winnipeg, later became famous for paddling from Winnipeg to Belém, Brazil — a 12,181-mile journey that set the Guinness World Record for longest canoe trip.^6
 
-The race concluded dramatically at Expo '67, where the Yukon team was swamped at the Lachine Rapids and had to be rescued.^3 Pierre Berton later documented the event in his book *1967: The Last Good Year*.^7
+The race concluded at Expo '67, where the Yukon team was swamped at the Lachine Rapids and had to be rescued.^3 Pierre Berton later documented the event in his book *1967: The Last Good Year*.^7
 
 The Pageant's significance as a nationalist project has been analyzed by Misao Dean in the *Journal of Canadian Studies*.^8
 
@@ -83,3 +83,4 @@ The McMorris thesis devotes its third chapter — "The National(ist) Vehicle" �
 
 <!-- R1 formal RALPH loop completed 2026-02-11. Rich KB material (22 facts from McMorris thesis extraction). Web research confirmed two distinct 1967 events and added significant detail on the Voyageur Canoe Pageant. Key gap: the identities of the six Kanawana boys and two counsellors. Concordia Archives sub-series 12B01 (season reports 1967) and 13E (Centennial records) are the priority leads. The McMorris thesis Figure 3.5 is a primary visual source. -->
 <!-- V1 VERIFY pass completed 2026-02-14. 9/10 factual claims independently confirmed via web sources. All Voyageur Canoe Pageant claims (dates, distances, teams, results, key figures) verified against Wikipedia, Canadian History Ehx, Manitoba Sports Hall of Fame, CBC archives. Bruce Hodgins dates confirmed. Don Starkell distance confirmed (12,181 mi matches Guinness). One flag: "150 miles from Montreal to Ottawa" exceeds known Ottawa River distance (~120 mi); McMorris thesis is sole source — flagged with editorial note. Kanawana-specific claims (6 boys, 2 counsellors) sourced to McMorris thesis only — cannot independently verify without archival access. -->
+<!-- E1 REVIEW pass completed 2026-02-14. Systematic quality review: (1) All claims cited — PASS. (2) Dates consistent with timeline — PASS. (3) Names cross-checked — PASS. (4) Cross-links all valid — PASS. (5) Encyclopedic tone — minor fix: removed "dramatically" from Lachine Rapids sentence. (6) Open Questions actionable with archival leads — PASS. (7) No unsourced speculation — PASS. Article advanced R3-verified → E1-reviewed. -->
