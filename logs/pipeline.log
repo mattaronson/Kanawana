@@ -229,3 +229,27 @@
   - Commits: 8 (P15 through P21-P22 + merge)
   - Git-crypt files decrypted (placeholder summaries, not original content)
   - Blockers: coeducation-gender.md and programs-activities.md article text on Google Drive only
+
+2026-02-16T00:00:00Z | RALPH R1 | BAnQ Source Discovery — Systematic search of Bibliothèque et Archives nationales du Québec
+  - RETRIEVE: 30+ web searches across banq.qc.ca, numerique.banq.qc.ca, collections.banq.qc.ca, advitam.banq.qc.ca, iris.banq.qc.ca
+  - Search terms: Kanawana, Kamp Kanawana, Camp YMCA, YMCA Montreal, Shawbridge, Saint-Sauveur, lac Kanawana, rivière du Nord, camp Laurentides
+  - All BAnQ web portals return HTTP 403 on direct fetch — requires browser-based access
+  - ANALYZE: BAnQ site structure identified (4 portals: main banq.qc.ca, numerique.banq.qc.ca for digital collections, collections.banq.qc.ca for catalog, advitam.banq.qc.ca for archival descriptions)
+  - FOUND: BAnQ Advitam Notice 519920 — references 'Les archives du YMCA de Montréal, 1985' within Fonds Archives nationales du Québec. Confirms BAnQ received/processed YMCA Montreal archival materials.
+  - FOUND: BAnQ Advitam Notice 315906 — YMCA drama festival program 1937 in Literary and Historical Society of Quebec collection
+  - FOUND: Montreal Gazette, July 7, 1897 — 'YMCA Summer Camp Kanawana' (earliest newspaper reference found, via Newspapers.com)
+  - FOUND: Montreal Gazette, July 11, 1918 — 'At Camp Kanawana' — detailed article: 110 members, first aid/basket-making/wrestling/nature study, Frank Lawes filming, Philip D. Fas-ana Woodcraft League visit
+  - FOUND: Montreal Gazette, July 27, 1918 — 'Youngsters Have Gay Time at Camp - Kanawana'
+  - FOUND: La Presse, May 15, 2018 — Desjardins $1M donation for new pavilion
+  - FOUND: La Tribune, Feb 28, 1945 (numerique.banq.qc.ca/patrimoine/details/52327/3510316) — indexed in BAnQ, may contain Kanawana reference
+  - FOUND: Postcard 'North River, Shawbridge, Que., Laurentian Mountains' (Valentine & Sons Publishing) held at BAnQ Rosemont
+  - FOUND: Postcard 'Rue de la gare, St-Sauveur-des-Monts' (L. Charpentier) in BAnQ heritage collections
+  - FOUND: La Patrie, Feb 15, 1953 — ski slopes at Saint-Sauveur photo
+  - FOUND: Montreal Herald (1900-1905) digitized at BAnQ — promising for early camp coverage but not searchable remotely
+  - FOUND: Le Canada ecclésiastique (1920, 1934) — parish records for Saint-Sauveur at BAnQ
+  - NOT FOUND: Direct BAnQ catalog records specifically for 'Kanawana'
+  - NOT FOUND: Photographs of Camp Kanawana in BAnQ digital collections (may exist but not indexed by external search)
+  - NOT FOUND: BAnQ item at numerique.banq.qc.ca/patrimoine/details/52327/4309291 (403 blocked, cannot verify)
+  - LOOP: CONCLUDE — external search exhausted, BAnQ portals require direct browser access for internal search
+  - PROCESS: Added 8 new source records (src_banq_advitam_519920, src_banq_advitam_315906, src_newspapers_gazette_1897, src_newspapers_gazette_1918, src_newspapers_gazette_1918b, src_lapresse_ymca_2018, src_banq_numerique_general). Added 7 new KB facts (f_0437-f_0443). Total: 56 sources, 443 facts (v4.3).
+  - HYPOTHESIZE: BAnQ digitized newspaper archive (numerique.banq.qc.ca) is the highest-value unexplored resource. The Gazette, Montreal Star (1869-1979), Montreal Herald (1811-1957), La Presse (1884-present), Le Devoir (1910-present) all likely contain Kanawana mentions. Browser session needed. Historical postcards of Shawbridge/Saint-Sauveur area may include camp imagery. BAnQ received YMCA Montreal archives in 1985 — unclear if duplicate of or complementary to Concordia fonds.

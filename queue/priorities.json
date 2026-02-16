@@ -365,6 +365,32 @@
       "assigned_weight": "P5",
       "created_at": "2026-02-14T03:30:00Z",
       "status": "pending"
+    },
+    {
+      "priority_id": "p_030",
+      "rank": 30,
+      "type": "RESEARCH",
+      "description": "BAnQ browser-based search — search numerique.banq.qc.ca internal interface for 'Kanawana' in digitized newspapers (Gazette, Montreal Star, Montreal Herald, La Presse, Le Devoir). Search for photographs, postcards, maps of Saint-Sauveur/Shawbridge/lac Kanawana area. Check advitam.banq.qc.ca for YMCA Montreal fonds details. Verify item at patrimoine/details/52327/4309291.",
+      "article_id": null,
+      "blocking": true,
+      "blocking_reason": "Requires human browser session — all BAnQ portals return 403 to automated fetches",
+      "assigned_weight": "P2",
+      "created_at": "2026-02-16T00:00:00Z",
+      "status": "blocked",
+      "notes": "BAnQ digitized newspaper archive is the highest-value unexplored source for Kanawana history. The Gazette alone has confirmed mentions from 1897 and 1918. Montreal Star (1869-1979) and Montreal Herald (1811-1957) are likely rich sources for early camp history. BAnQ received YMCA Montreal archives in 1985 — relationship to Concordia fonds unclear."
+    },
+    {
+      "priority_id": "p_031",
+      "rank": 31,
+      "type": "RESEARCH",
+      "description": "Extract full text from Gazette 1897 and 1918 Kanawana articles via Newspapers.com (requires subscription or library access)",
+      "article_id": null,
+      "blocking": true,
+      "blocking_reason": "Newspapers.com paywall — requires subscription access",
+      "assigned_weight": "P3",
+      "created_at": "2026-02-16T00:00:00Z",
+      "status": "blocked",
+      "notes": "Three confirmed Gazette articles: July 7, 1897 ('YMCA Summer Camp Kanawana'), July 11, 1918 ('At Camp Kanawana'), July 27, 1918 ('Youngsters Have Gay Time'). Partial extraction done for July 11, 1918 from search snippets. Full text extraction would yield significant new facts about early camp operations."
     }
   ]
 }
