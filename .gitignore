@@ -72,14 +72,14 @@ yarn-error.log*
 # Temporary AI research files
 _ai_temp/
 
-# RALPH checkpoints (contains session-specific state)
-project-docs/checkpoints/CURRENT_STATE.md
+# RALPH checkpoints (session-specific state, track for continuity)
+# project-docs/checkpoints/CURRENT_STATE.md
 project-docs/checkpoints/archive/
 
 # RALPH stage completion marker (transient)
 .ralph-stage-complete
 
-# RALPH config (may contain user-specific settings)
-.claude/ralph/config.yml
+# RALPH config — tracked for this project (Kanawana-specific research loops)
+# .claude/ralph/config.yml
 
 # Misc

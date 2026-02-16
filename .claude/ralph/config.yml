@@ -1,0 +1,109 @@
+# RALPH Loop Configuration — Kanawana Wiki Builder
+# Retrieve-Analyze-Loop-Process-Hypothesize
+# Adapted from Mastery Starter Kit for historical research workflow
+
+auto_checkpoint:
+  enabled: true
+  triggers:
+    facts_added: 10              # Auto-checkpoint after N new KB facts
+    priorities_completed: 3      # Auto-checkpoint after N priorities done
+    before_major_refactor: true  # Checkpoint before destructive operations
+
+checkpoint_storage:
+  current: "project-docs/checkpoints/CURRENT_STATE.md"
+  archive: "project-docs/checkpoints/archive/"
+  max_archives: 10
+
+loops:
+  - name: "kanawana-research"
+    description: "Historical research workflow — RALPH cycle for Camp Kanawana wiki articles"
+    stages:
+      - name: "retrieve"
+        objectives:
+          - "Check source cache first (avoid redundant fetches)"
+          - "Execute web searches, archive queries, Drive searches"
+          - "Log every source checked and found, including dead ends"
+          - "Output: sources consulted, new sources discovered, raw data cached"
+      - name: "analyze"
+        objectives:
+          - "Extract facts with source citation and confidence level"
+          - "Flag contradictions against existing KB"
+          - "Check whether newly discovered entities warrant new article stubs"
+          - "Output: candidate facts, contradiction flags, stub candidates"
+      - name: "loop-decide"
+        objectives:
+          - "CONTINUE: Not saturated, refine queries, loop back to retrieve"
+          - "ADVANCE: Good coverage on subtopic, move to related subtopic"
+          - "CONCLUDE: Sufficient material, exit to process"
+      - name: "process"
+        objectives:
+          - "Add verified facts to kb/facts.json"
+          - "Update article draft if in a WRITE task"
+          - "Flag items needing independent verification"
+          - "Update sources/sources.json with new source records"
+          - "Log atomic unit to logs/pipeline.log"
+      - name: "hypothesize"
+        objectives:
+          - "Propose follow-up queries and research threads"
+          - "Identify archive leads (Concordia P145, Internet Archive, BAnQ)"
+          - "Register new article stubs or priorities into queue/priorities.json"
+    checkpoint_after_stage: true
+
+  - name: "kanawana-verify"
+    description: "Verification workflow — cross-reference article claims against independent sources"
+    stages:
+      - name: "inventory"
+        objectives:
+          - "List all factual claims in the article"
+          - "Identify source for each claim"
+          - "Flag claims sourced to single source only"
+      - name: "cross-reference"
+        objectives:
+          - "Search for independent corroboration of each claim"
+          - "Check dates against timeline and KB facts"
+          - "Check names against people index and directors-index"
+          - "Verify source reliability and accessibility"
+      - name: "resolve"
+        objectives:
+          - "Correct errors found during verification"
+          - "Add editorial notes for unresolvable items"
+          - "Create conflict records if sources disagree"
+          - "Update KB facts with corrected information"
+      - name: "advance"
+        objectives:
+          - "Update article status (draft → R3-verified)"
+          - "Update wiki/articles.json metadata"
+          - "Log verification results to pipeline.log"
+          - "Mark priority as completed in queue/priorities.json"
+    checkpoint_after_stage: false
+
+  - name: "kanawana-review"
+    description: "Editorial review — E1 quality pass for encyclopedic standards"
+    stages:
+      - name: "cite-check"
+        objectives:
+          - "Every factual claim must have inline citation"
+          - "No unsourced speculation permitted"
+          - "All source references resolve to sources.json records"
+      - name: "consistency"
+        objectives:
+          - "Dates consistent with KB timeline"
+          - "Names match people index entries"
+          - "Cross-links point to valid articles"
+          - "Encyclopedic tone, neutral voice"
+      - name: "finalize"
+        objectives:
+          - "Fix any issues found"
+          - "Update article status (R3-verified → E1-reviewed)"
+          - "Update wiki/articles.json and queue/priorities.json"
+          - "Log review results to pipeline.log"
+    checkpoint_after_stage: false
+
+# Data file paths (project-specific)
+data_paths:
+  facts: "kb/facts.json"
+  sources: "sources/sources.json"
+  articles: "wiki/articles.json"
+  priorities: "queue/priorities.json"
+  conflicts: "kb/conflicts.json"
+  pipeline_log: "logs/pipeline.log"
