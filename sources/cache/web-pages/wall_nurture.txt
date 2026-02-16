@@ -1,0 +1,580 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+    <meta charset="UTF-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico"/>
+    <title>UBC Press | The Nurture of Nature - Childhood, Antimodernism, and Ontario Summer Camps, 1920-55, By Sharon Wall</title>
+    <meta name="csrf-param" content="csrf">
+<meta name="csrf-token" content="pgV2m_kQcxZi9ikXhAyH0Iqe7CPSJls1qhvpxpr_Xnf-MzvKjV40ZyCQRCX8Q-ib7dGrT-dgDw3aXaqe7a4JNA==">
+    <meta name="description" content="The Nurture of Nature - Childhood, Antimodernism, and Ontario Summer Camps, 1920-55; The history of summer camps as seen through antimodern nostalgia and modern sensibilities about the landscape, child rearing, and identity.">
+<meta name="keywords" content="The Nurture of Nature - Childhood, Antimodernism, and Ontario Summer Camps, 1920-55, Sharon Wall">
+<meta name="robots" content="index,follow">
+<meta property="og:image" content="https://www.ubcpress.ca/assets/d076511c/9780774816397-4388-450x450.jpg">
+<meta property="og:image:secure_url" content="https://www.ubcpress.ca/assets/d076511c/9780774816397-4388-450x450.jpg">
+<meta property="og:description" content="The Nurture of Nature - Childhood, Antimodernism, and Ontario Summer Camps, 1920-55; The history of summer camps as seen through antimodern nostalgia and modern sensibilities about the landscape, child rearing, and identity.">
+<meta property="og:title" content="The Nurture of Nature">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="UBC Press">
+<meta property="og:url" content="https://www.ubcpress.ca/the-nurture-of-nature">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:site" content="@UBCPress">
+<meta name="twitter:title" content="The Nurture of Nature">
+<meta name="twitter:creator" content="@UBCPress">
+<meta name="twitter:domain" content="https://www.ubcpress.ca">
+<meta name="twitter:description" content="The Nurture of Nature - Childhood, Antimodernism, and Ontario Summer Camps, 1920-55; The history of summer camps as seen through antimodern nostalgia and modern sensibilities about the landscape, child rearing, and identity.">
+<meta name="twitter:image:src" content="https://www.ubcpress.ca/assets/d076511c/9780774816397-4388-450x450.jpg">
+<meta name="DC.title" content="The Nurture of Nature">
+<meta name="DC.creator" content="Sharon Wall">
+<meta name="DC.publisher" content="UBC Press">
+<meta name="DC.language" content="eng">
+<link type="application/rss+xml" href="https://www.ubcpress.ca/rss/1.xml" title="UBC Press News" rel="alternate">
+<link type="application/rss+xml" href="https://www.ubcpress.ca/rss/2.xml" title="UBC Press" rel="alternate">
+<link href="https://www.ubcpress.ca/the-nurture-of-nature" rel="canonical">
+<link href="/assets/c782886e/css/bootstrap.css" rel="stylesheet">
+<link href="/assets/a73226eb/css/legacy.css" rel="stylesheet">
+<link href="/assets/b00b5d07/css/legacy.css" rel="stylesheet">
+<link href="/assets/8bb970e0/css/default.css" rel="stylesheet">
+<link href="/assets/8bb970e0/css/block-overrides.css?v=1.1" rel="stylesheet">
+<link href="/assets/8bb970e0/css/jquery.bxslider.css" rel="stylesheet">
+<link href="/assets/8bb970e0/css/fonts.css" rel="stylesheet">
+<link href="/assets/8bb970e0/css/style.css" rel="stylesheet">
+<link href="/assets/8bb970e0/css/responsive.css" rel="stylesheet">
+<link href="/assets/b4a3b1d2/navbar.css" rel="stylesheet">
+<link href="/assets/eb4ef893/vertical.css" rel="stylesheet">
+<link href="/assets/88cc265b/verbose-layout.css" rel="stylesheet">
+<link href="/assets/6f63ca6a/css/social-links.css" rel="stylesheet">
+<link href="/assets/5e1c466f/teaser.css" rel="stylesheet">
+<link href="/assets/4f6a2d24/menu.css" rel="stylesheet">
+<script src="https://www.googletagmanager.com/gtag/js?id=G-ELJDR3CXYM"></script>
+<script>
+const cookieObjUrchin = new URLSearchParams(document.cookie.replaceAll("&", "%26").replaceAll("; ","&"))
+var track = cookieObjUrchin.get("accept_essential")
+
+
+if(track  == "no" || track  === null)
+{
+    <!-- 
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag("js", new Date());
+    
+    gtag("config", "G-ELJDR3CXYM");
+    -->
+}
+            </script></head>
+<body id="stison-body" class="seo-rewrite-detail seo-the-nurture-of-nature no-suffix">
+<script>
+if(track  == "no" || track  === null)
+{(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-5H968S3');}
+</script>
+<header><div id="above-header-1-wrap">
+    <div class="container">
+        <div class="row">
+            <div id="w0" class="stison-section" data-stison-section="above-header-1"><div id="stison-block-above-header-1-0" class="search-top hide-mobile col-md-12 col-sm-12 col-xs-12 stison-block" data-config_site_block_id="439"><div class="container"><div class="content-search-top"><button class="top-search" type="button" data-toggle="collapse" data-target=".collapse-search" aria-label="top search"><span class="glyphicon glyphicon-search"></span><span class="top-search-button" ></span></button></div></div></div><div id="stison-block-above-header-1-1" class="search-block collapse-search collapse col-md-12 col-sm-12 col-xs-12 stison-block" data-config_site_block_id="488"><form class="form-search" method="get" action="//www.ubc.ca/search/" role="search" style="text-align: center;margin-bottom: 10px;margin-top: 10px;">
+	                <input type="text" id="q" name="q" placeholder="Search UBC" class="input-xlarge search-query" style="padding: 5px 10px;min-width: 280px;line-height: 20px;" >
+	                <button type="submit" class="btn" style="background-color: #031d40;color: #fff;padding: 5px 15px;line-height: 22px;border-radius: 0;
+">Search</button>
+</form></div><div id="stison-block-above-header-1-2" class="menu-top-header col-md-12 col-sm-12 col-xs-12 stison-block" data-config_site_block_id="487" role=""><div class="container">
+<ul class="reverse">
+<li><a href="https://www.calendar.ubc.ca/">Academic Calendar</a></li>
+<li><a href="https://www.ubc.ca/landing/campusservices.html">Campus Services</a></li>
+<li><a href="https://www.ubc.ca/landing/facultiesschools.html">Faculties &amp; Schools</a></li>
+<li><a href="https://www.library.ubc.ca/">Library</a></li>
+<li><a href="https://www.ubc.ca/about/maps.html">Maps</a></li>
+<li><a href="https://www.ubc.ca/quicklinks/">Quicklinks</a></li>
+<li><a href="https://myworkday.ubc.ca/">Workday</a></li>
+<li><a href="https://directory.ubc.ca/index.cfm">UBC Directory</a></li>
+</ul>
+</div></div></div>        </div>
+    </div>
+</div>
+
+<div id="header-wrap">
+    <div class="container">
+        <div class="row">
+            <a href="#main-content" id="skip-to-main">Skip to main content</a>
+            <div id="w1" class="col-md-12 stison-section" data-stison-section="header-1"><div id="stison-block-header-1-0" class="no-padding logo-block col-md-12 col-sm-12 col-xs-12 stison-block" data-config_site_block_id="440"><div class="text-center center col-lg-12 col-md-12 col-sm-12 col-xs-12 img-logo "><div id="header-logo"><a href="/"><img id="ubc-logo" style="border-width: 10px; height: 170px;" src="/images/UBC-header-logo.png" alt="UBC Press" /></a></div></div></div></div>        </div>
+    </div>
+</div>
+
+<div id="below-header-1-wrap">
+    <div class="container">
+        <div class="row">
+        <div id="w2" class="stison-section" data-stison-section="below-header-1"><nav id="stison-block-below-header-1-0" class="navbar-block navbar navbar-default main-menu no-padding hide-mobile col-md-10 col-sm-11 col-xs-12 stison-block" data-config_site_block_id="441">    <div class="navbar-header">
+        <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-stison-block-below-header-1-0">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+        </button>
+            </div>
+
+    <nav class="collapse navbar-collapse" id="navbar-stison-block-below-header-1-0" role="navigation">
+        <ul class="nav navbar-nav" role="list"><li><a href="/">HOME</a></li>
+<li class="dropdown"><a href="/books" class="dropdown-toggle disabled" data-toggle="dropdown" aria-haspopup="true" role="button" aria-expanded="true">BOOKS<span class="caret"></span></a><ul class="dropdown-menu"><li><a href="/browse-books">Browse by Subject</a></li>
+<li><a href="/new-releases">New Releases</a></li>
+<li><a href="/new-in-paperback">New in Paperback</a></li>
+<li><a href="/forthcoming-titles">Forthcoming Titles</a></li>
+<li><a href="/open-access">Open Access</a></li>
+<li><a href="/catalogues">Catalogues</a></li>
+<li><a href="/imprints">Imprints</a></li>
+<li><a href="/series">Series</a></li>
+<li><a href="/awards">Awards</a></li>
+<li><a href="/publishers-represented">Publishers Represented</a></li>
+<li><a href="/rights">International Rights</a></li>
+<li><a href="/for-librarians">For Librarians</a></li>
+<li><a href="/ordering-information">Ordering</a></li></ul></li>
+<li class="dropdown"><a href="/news-events" class="dropdown-toggle disabled" data-toggle="dropdown" aria-haspopup="true" role="button" aria-expanded="true">NEWS & EVENTS<span class="caret"></span></a><ul class="dropdown-menu"><li><a href="/news">News</a></li>
+<li><a href="/events">Events</a></li>
+<li><a href="/conferences">Conferences</a></li>
+<li><a href="/newsletter">Stay Informed</a></li>
+<li><a href="/information-for-media">Information for Media</a></li></ul></li>
+<li class="dropdown"><a href="/adopting-a-book-for-a-course" class="dropdown-toggle disabled" data-toggle="dropdown" aria-haspopup="true" role="button" aria-expanded="true">FOR INSTRUCTORS<span class="caret"></span></a><ul class="dropdown-menu"><li><a href="/adopting-a-book-for-a-course">Adopting a Book for a Course</a></li>
+<li><a href="/request-an-examination-or-desk-copy">Requesting an Examination Copy</a></li>
+<li><a href="/request-a-desk-copy">Requesting a Desk Copy</a></li>
+<li><a href="/accessible-editions">Requesting an Accessible Edition</a></li>
+<li><a href="/using-an-excerpt-in-a-course">Using an Excerpt in a Course</a></li>
+<li><a href="/supplementary-resources">Supplementary Resources</a></li></ul></li>
+<li class="dropdown"><a href="/publishing-with-ubc" class="dropdown-toggle disabled" data-toggle="dropdown" aria-haspopup="true" role="button" aria-expanded="true">PUBLISH WITH US<span class="caret"></span></a><ul class="dropdown-menu"><li><a href="/ProspectiveAuthors">Prospective Authors</a></li>
+<li><a href="/current-authors">Current Authors</a></li></ul></li>
+<li class="dropdown"><a href="/about-us" class="dropdown-toggle disabled" data-toggle="dropdown" aria-haspopup="true" role="button" aria-expanded="true">ABOUT US<span class="caret"></span></a><ul class="dropdown-menu"><li><a href="/about-us">About UBC Press</a></li>
+<li><a href="/special-projects">Special Projects</a></li>
+<li><a href="/publications-board">Publications Board</a></li>
+<li><a href="/our-history">Our History</a></li>
+<li><a href="/acknowledgments">Acknowledgments</a></li>
+<li><a href="/equity-diversity-inclusion">Equity, Diversity, Inclusion, and Decolonization</a></li>
+<li><a href="/accessibility">Accessibility</a></li>
+<li><a href="/faq">Frequently Asked Questions</a></li></ul></li>
+<li class="dropdown"><a href="/staffdirectory" class="dropdown-toggle disabled" data-toggle="dropdown" aria-haspopup="true" role="button" aria-expanded="true">CONTACT<span class="caret"></span></a><ul class="dropdown-menu"><li><a href="/ordering-information">Ordering</a></li>
+<li><a href="/staffdirectory">Staff Directory</a></li>
+<li><a href="/location">Our Location</a></li>
+<li><a href="/rightspermissions">Rights & Permissions</a></li>
+<li><a href="/accessible-editions">Requesting an Accessible Edition</a></li></ul></li></ul>    </nav>
+</nav><div id="stison-block-below-header-1-1" class="basket-button-block hide-mobile col-md-12 col-sm-12 col-xs-12 stison-block" data-config_site_block_id="464"><a href="/basket"><span class="basket-button-text">0</span>  <span class="glyphicon glyphicon-shopping-cart"></span></a></div><div id="stison-block-below-header-1-2" class="button-home show-mobile col-md-12 col-sm-12 col-xs-12 stison-block" data-config_site_block_id="474"><a href="/"><img src="/images/menu-home-mobile-icon.png" /></a></div><nav id="stison-block-below-header-1-3" class="navbar-block navbar navbar-default show-mobile main-menu col-md-12 col-sm-12 col-xs-12 stison-block" data-config_site_block_id="473">    <div class="navbar-header">
+        <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-stison-block-below-header-1-3">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+        </button>
+            </div>
+
+    <nav class="collapse navbar-collapse" id="navbar-stison-block-below-header-1-3" role="navigation">
+        <ul class="nav navbar-nav" role="list"><li><a href="/">HOME</a></li>
+<li class="dropdown"><a href="/books" class="dropdown-toggle disabled" data-toggle="dropdown" aria-haspopup="true" role="button" aria-expanded="true">BOOKS<span class="caret"></span></a><ul class="dropdown-menu"><li><a href="/browse-books">Browse by Subject</a></li>
+<li><a href="/new-releases">New Releases</a></li>
+<li><a href="/new-in-paperback">New in Paperback</a></li>
+<li><a href="/forthcoming-titles">Forthcoming Titles</a></li>
+<li><a href="/open-access">Open Access</a></li>
+<li><a href="/catalogues">Catalogues</a></li>
+<li><a href="/imprints">Imprints</a></li>
+<li><a href="/series">Series</a></li>
+<li><a href="/awards">Awards</a></li>
+<li><a href="/publishers-represented">Publishers Represented</a></li>
+<li><a href="/rights">International Rights</a></li>
+<li><a href="/for-librarians">For Librarians</a></li>
+<li><a href="/ordering-information">Ordering</a></li></ul></li>
+<li class="dropdown"><a href="/news-events" class="dropdown-toggle disabled" data-toggle="dropdown" aria-haspopup="true" role="button" aria-expanded="true">NEWS & EVENTS<span class="caret"></span></a><ul class="dropdown-menu"><li><a href="/news">News</a></li>
+<li><a href="/events">Events</a></li>
+<li><a href="/conferences">Conferences</a></li>
+<li><a href="/newsletter">Stay Informed</a></li>
+<li><a href="/information-for-media">Information for Media</a></li></ul></li>
+<li class="dropdown"><a href="/adopting-a-book-for-a-course" class="dropdown-toggle disabled" data-toggle="dropdown" aria-haspopup="true" role="button" aria-expanded="true">FOR INSTRUCTORS<span class="caret"></span></a><ul class="dropdown-menu"><li><a href="/adopting-a-book-for-a-course">Adopting a Book for a Course</a></li>
+<li><a href="/request-an-examination-or-desk-copy">Requesting an Examination Copy</a></li>
+<li><a href="/request-a-desk-copy">Requesting a Desk Copy</a></li>
+<li><a href="/accessible-editions">Requesting an Accessible Edition</a></li>
+<li><a href="/using-an-excerpt-in-a-course">Using an Excerpt in a Course</a></li>
+<li><a href="/supplementary-resources">Supplementary Resources</a></li></ul></li>
+<li class="dropdown"><a href="/publishing-with-ubc" class="dropdown-toggle disabled" data-toggle="dropdown" aria-haspopup="true" role="button" aria-expanded="true">PUBLISH WITH US<span class="caret"></span></a><ul class="dropdown-menu"><li><a href="/ProspectiveAuthors">Prospective Authors</a></li>
+<li><a href="/current-authors">Current Authors</a></li></ul></li>
+<li class="dropdown"><a href="/about-us" class="dropdown-toggle disabled" data-toggle="dropdown" aria-haspopup="true" role="button" aria-expanded="true">ABOUT US<span class="caret"></span></a><ul class="dropdown-menu"><li><a href="/about-us">About UBC Press</a></li>
+<li><a href="/special-projects">Special Projects</a></li>
+<li><a href="/publications-board">Publications Board</a></li>
+<li><a href="/our-history">Our History</a></li>
+<li><a href="/acknowledgments">Acknowledgments</a></li>
+<li><a href="/equity-diversity-inclusion">Equity, Diversity, Inclusion, and Decolonization</a></li>
+<li><a href="/accessibility">Accessibility</a></li>
+<li><a href="/faq">Frequently Asked Questions</a></li></ul></li>
+<li class="dropdown"><a href="/staffdirectory" class="dropdown-toggle disabled" data-toggle="dropdown" aria-haspopup="true" role="button" aria-expanded="true">CONTACT<span class="caret"></span></a><ul class="dropdown-menu"><li><a href="/ordering-information">Ordering</a></li>
+<li><a href="/staffdirectory">Staff Directory</a></li>
+<li><a href="/location">Our Location</a></li>
+<li><a href="/rightspermissions">Rights & Permissions</a></li>
+<li><a href="/accessible-editions">Requesting an Accessible Edition</a></li></ul></li></ul>    </nav>
+</nav><div id="stison-block-below-header-1-4" class="search-block menu-mobile col-md-12 col-sm-12 col-xs-12 stison-block" data-config_site_block_id="475"><div class="simple-layout"><form id="w3" class="search-block form-inline navbar-form" action="/results" method="post" role="search">
+<input type="hidden" name="csrf" value="pgV2m_kQcxZi9ikXhAyH0Iqe7CPSJls1qhvpxpr_Xnf-MzvKjV40ZyCQRCX8Q-ib7dGrT-dgDw3aXaqe7a4JNA=="><div class="form-group field-searchform-keywords">
+<input type="text" id="searchform-keywords" class="form-control input-sm" name="SearchForm[keywords]" placeholder="Title, Author, ISBN">
+</div><button type="submit" id="search-submit" class="btn input-sm" aria-label="Search"><span class="glyphicon glyphicon-search"></span></button><a href="/advanced-search" rel="nofollow">Advanced search</a></form></div></div></div>        </div>
+    </div>
+</div>
+</header><main><div id="above-content-1-wrap">
+    <div class="container">
+        <div class="row">
+            <div id="w4" class="stison-section" data-stison-section="above-content-1"></div>        </div>
+    </div>
+</div>
+
+<div id="content-wrap">
+    <div class="container">
+        <div class="row" id="main-content">
+            <div id="w5" class="col-md-3 col-sm-3 col-xs-12 stison-section" data-stison-section="content-1"><nav id="stison-block-content-1-0" class="navbar-block navbar navbar-default menu-left no-padding hide-mobile col-md-12 col-sm-12 col-xs-12 stison-block" data-config_site_block_id="176" role="">    <div class="navbar-header">
+        <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-stison-block-content-1-0">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+        </button>
+                <span class="navbar-brand">Books</span>
+            </div>
+
+    <nav class="collapse navbar-collapse" id="navbar-stison-block-content-1-0" role="navigation">
+        <ul class="nav navbar-nav" role="list"><li><a href="/browse-books">Browse by Subject</a></li>
+<li><a href="/new-releases">New Releases</a></li>
+<li><a href="/new-in-paperback">New in Paperback</a></li>
+<li><a href="/forthcoming-titles">Forthcoming Titles</a></li>
+<li><a href="/open-access">Open Access</a></li>
+<li><a href="/catalogues">Catalogues</a></li>
+<li class="dropdown"><a href="/imprints" class="dropdown-toggle disabled" data-toggle="dropdown" aria-haspopup="true" role="button" aria-expanded="true">Imprints<span class="caret"></span></a><ul class="dropdown-menu"><li><a href="/ubc-press-imprint">UBC Press</a></li>
+<li><a href="/on-point-press">On Point Press</a></li>
+<li><a href="/purich-books">Purich Books</a></li>
+<li><a href="/on-campus">On Campus</a></li>
+<li><a href="/pacific-educational-press">Pacific Educational Press</a></li></ul></li>
+<li class="dropdown"><a href="/series" class="dropdown-toggle disabled" data-toggle="dropdown" aria-haspopup="true" role="button" aria-expanded="true">Series<span class="caret"></span></a><ul class="dropdown-menu"><li><a href="/asia-pacific-legal-culture-and-globalization">Asia Pacific Legal Culture and Globalization</a></li>
+<li><a href="/asian-religions-and-society">Asian Religions and Society</a></li>
+<li><a href="/the-cd-howe-series-in-canadian-political-history">C.D. Howe Series in Canadian Political History</a></li>
+<li><a href="/canada-and-international-relations">Canada and International Relations</a></li>
+<li><a href="/democraticaudit">Canadian Democratic Audit</a></li>
+<li><a href="/canadian-yearbook-of-international-law">Canadian Yearbook of International Law</a></li>
+<li><a href="/communication-strategy-and-politics">Communication, Strategy, Politics</a></li>
+<li><a href="/contemporary-chinese-studies">Contemporary Chinese Studies</a></li>
+<li><a href="/disability-culture-and-politics-1">Disability Culture and Politics</a></li>
+<li><a href="/equality-security-community">Equality | Security | Community</a></li>
+<li><a href="/ethnicity-and-democratic-governance">Ethnicity and Democratic Governance</a></li>
+<li><a href="/first-nations-languages">First Nations Languages</a></li>
+<li><a href="/globalization-and-autonomy">Globalization and Autonomy</a></li>
+<li><a href="/landmark-cases-in-canadian-law">Landmark Cases in Canadian Law</a></li>
+<li><a href="/legal-dimensions">Legal Dimensions</a></li>
+<li><a href="/law-and-society">Law and Society Series</a></li>
+<li><a href="/mclean-family-canadian-studies-series">McLean Family Canadian Studies Series</a></li>
+<li><a href="/nature-history-society">Nature | History | Society</a></li>
+<li><a href="/pacific-rim-archaeology">Pacific Rim Archaeology</a></li>
+<li><a href="/the-pioneers-of-british-columbia">Pioneers of British Columbia</a></li>
+<li><a href="/sexuality-studies">Sexuality Studies Series</a></li>
+<li><a href="/shared-oral-and-public-history">Shared: Oral and Public History</a></li>
+<li><a href="/studies-in-canadian-military-history">Studies in Canadian Military History</a></li>
+<li><a href="/sustainability-and-the-environment">Sustainability and the Environment</a></li>
+<li><a href="/turning-points">Turning Point Elections</a></li>
+<li><a href="/urbanization-in-asia">Urbanization in Asia</a></li>
+<li><a href="/women-and-indigenous-studies">Women and Indigenous Studies</a></li>
+<li><a href="/womens-suffrage-and-the-struggle-for-democracy">Women's Suffrage and the Struggle for Democracy</a></li></ul></li>
+<li><a href="/awards">Awards</a></li>
+<li class="dropdown"><a href="/publishers-represented" class="dropdown-toggle disabled" data-toggle="dropdown" aria-haspopup="true" role="button" aria-expanded="true">Publishers Represented<span class="caret"></span></a><ul class="dropdown-menu"><li><a href="/athabasca-university-press">Athabasca University Press</a></li>
+<li><a href="/CanadianForestService">Canadian Forest Service</a></li>
+<li><a href="/concordia-university-press">Concordia University Press</a></li>
+<li><a href="/dalhousie-architectural-press">Dalhousie Architectural Press</a></li>
+<li><a href="/editors-canada">Editors Canada</a></li>
+<li><a href="/island-press">Island Press</a></li>
+<li class="dropdown"><a href="/jessica-kingsley-publishers" class="dropdown-toggle disabled" data-toggle="dropdown" aria-haspopup="true" role="button" aria-expanded="true">Jessica Kingsley Publishers<span class="caret"></span></a><ul class="dropdown-menu"><li><a href="/handspring-publishing">Handspring Publishing</a></li>
+<li><a href="/singing-dragon">Singing Dragon</a></li></ul></li>
+<li><a href="/laval-university-press">Laval University Press</a></li>
+<li><a href="/oregon-state-university-press">Oregon State University Press</a></li>
+<li><a href="/paragon-testing-enterprises">Paragon Testing Enterprises</a></li>
+<li><a href="/peter-wall-institute-for-advanced-studies">Peter Wall Institute for Advanced Studies</a></li>
+<li><a href="/riverside-architectural-press">Riverside Architectural Press</a></li>
+<li class="dropdown"><a href="/rutgers-university-press" class="dropdown-toggle disabled" data-toggle="dropdown" aria-haspopup="true" role="button" aria-expanded="true">Rutgers University Press<span class="caret"></span></a><ul class="dropdown-menu"><li><a href="/bucknell-university-press">Bucknell University Press</a></li>
+<li><a href="/university-of-delaware-press">University of Delaware Press</a></li>
+<li><a href="/templeton-press">Templeton Press</a></li></ul></li>
+<li><a href="/university-of-alabama-press">The University of Alabama Press</a></li>
+<li><a href="/the-university-of-arizona-press-1">The University of Arizona Press</a></li>
+<li><a href="/university-of-hawaii-press">University of Hawai'i Press</a></li>
+<li><a href="/university-of-massachusetts-press">University of Massachusetts Press</a></li>
+<li><a href="/university-of-texas-press">University of Texas Press</a></li>
+<li class="dropdown"><a href="/university-press-of-colorado" class="dropdown-toggle disabled" data-toggle="dropdown" aria-haspopup="true" role="button" aria-expanded="true">University Press of Colorado<span class="caret"></span></a><ul class="dropdown-menu"><li><a href="/utah-state-university-press">Utah State University Press</a></li></ul></li>
+<li><a href="/university-press-of-florida">University Press of Florida</a></li>
+<li><a href="/university-press-of-mississippi">University Press of Mississippi</a></li>
+<li><a href="/west-virginia-university-press">West Virginia University Press</a></li></ul></li>
+<li><a href="/rights">International Rights</a></li>
+<li><a href="/for-librarians">For Librarians</a></li>
+<li><a href="/ordering-information">Ordering</a></li></ul>    </nav>
+</nav></div><div id="w6" class="col-md-6 col-sm-6 col-xs-12 stison-section" data-stison-section="content-2"><div id="stison-block-content-2-0" class="book-detail col-md-12 col-sm-12 col-xs-12 stison-block" data-config_site_block_id="922"><div class="vertical-layout"><div class="book-detail">
+    <div class="row">
+                    <div class="col-md-4 col-sm-4 col-xs-6">
+                <a href="#" class="book-detail-image" data-toggle="modal" data-target="#book-detail-image-lg"><img src="/assets/e9fb6dd9/9780774816397-4388-510x590.jpg" alt="The Nurture of Nature" title="The Nurture of Nature"></a>
+
+                <div class="modal fade" id="book-detail-image-lg" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+                    <div class="modal-dialog" role="document">
+                        <div class="modal-content">
+                            <div class="modal-header">
+                                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                    <span aria-hidden="true">&times;</span></button>
+                                <h4 class="modal-title" id="myModalLabel">The Nurture of Nature</h4>
+                            </div>
+                            <div class="modal-body">
+                                <img src="/assets/e9fb6dd9/9780774816397-4388-600x800.jpg" alt="The Nurture of Nature" title="The Nurture of Nature">                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="book-detail-forms">
+                    <div class="row book-detail-extended">
+                        <div class="col-md-12 col-sm-12 col-xs-12 book-detail-col-1">
+                            <div class="book-detail-published"><span>392 pages, 6  x 9  </span> </div><div class="book-detail-published"><span>38 b&w photos, 1 map </span> </div>                        </div>
+                    </div>
+                </div>
+
+				<div class="book-detail-forms">
+											<div class="row book-detail-extended">
+
+							<div class="col-md-12 col-sm-12 col-xs-12 book-detail-col-1">
+
+								<div class="book-detail-product-form">Paperback</div><div class="book-detail-published"><span>Release Date:</span>01 Jan 2010</div><div class="book-detail-isbn"><span>ISBN:</span>9780774816403</div>							</div>
+
+                                                            <div class="col-md-12 col-sm-12 col-xs-12 book-detail-col-2">
+
+                                    <a class = "add_to_basket_button"  href="/basket?action=Add&id=2210" rel="nofollow"><div class="book-detail-price-2"><span class="book-detail-list-price-2">CA$32.95</span><span class="book-detail-list-price-image-2 ">
+                                                <img class="pull-right-2" src="/images/button-add-to-cart.png" alt="add to cart button" />
+                                            </span>
+                                            <span class="book-detail-add-cart-text-2 pull-right-2">Add to cart</span></div></a><div class="shop-local tbm_shop_local" data-options="
+                                                    {
+                                                        'api_key' : '3z4WEJumeHKCJop10CSsEdgQcTWm9EeJ', 
+                                                        'product_code' : '9780774816403', 
+                                                        'request_location' : 'true',
+                                                        'image' : 'https://www.ubcpress.ca/media/ubcp-shop-local-small.png'
+                                                    }">
+                                              </div>                                </div>
+                            						</div>
+												<div class="row book-detail-extended">
+
+							<div class="col-md-12 col-sm-12 col-xs-12 book-detail-col-1">
+
+								<div class="book-detail-product-form">Hardcover</div><div class="book-detail-published"><span>Release Date:</span>10 May 2009</div><div class="book-detail-isbn"><span>ISBN:</span>9780774816397</div>							</div>
+
+                                                            <div class="col-md-12 col-sm-12 col-xs-12 book-detail-col-2">
+
+                                    <a class = "add_to_basket_button"  href="/basket?action=Add&id=1915" rel="nofollow"><div class="book-detail-price-2"><span class="book-detail-list-price-2">CA$95.00</span><span class="book-detail-list-price-image-2 ">
+                                                <img class="pull-right-2" src="/images/button-add-to-cart.png" alt="add to cart button" />
+                                            </span>
+                                            <span class="book-detail-add-cart-text-2 pull-right-2">Add to cart</span></div></a><div class="shop-local tbm_shop_local" data-options="
+                                                    {
+                                                        'api_key' : '3z4WEJumeHKCJop10CSsEdgQcTWm9EeJ', 
+                                                        'product_code' : '9780774816397', 
+                                                        'request_location' : 'true',
+                                                        'image' : 'https://www.ubcpress.ca/media/ubcp-shop-local-small.png'
+                                                    }">
+                                              </div>                                </div>
+                            						</div>
+												<div class="row book-detail-extended">
+
+							<div class="col-md-12 col-sm-12 col-xs-12 book-detail-col-1">
+
+								<div class="glassboxx-app">Ebooks require the Glassboxx app.<br /><a href="/about-our-ebooks">Learn more</a> &gt;&gt;</div><div class="book-detail-product-form">EBOOK (PDF)</div><div class="book-detail-published"><span>Release Date:</span>01 Jan 2010</div><div class="book-detail-isbn"><span>ISBN:</span>9780774816410</div>							</div>
+
+                                                            <div class="col-md-12 col-sm-12 col-xs-12 book-detail-col-2">
+
+                                    <a class = "add_to_basket_button"  href="/basket?action=Add&id=2462" rel="nofollow"><div class="book-detail-price-2"><span class="book-detail-list-price-2">CA$32.95</span><span class="book-detail-list-price-image-2 glassboxx">
+                                                <img class="pull-right-2" src="/images/button-add-to-cart_green.png" alt="add to cart button" />
+                                            </span>
+                                            <span class="book-detail-add-cart-text-2 pull-right-2">Add to cart</span></div></a>                                </div>
+                            						</div>
+												<div class="row book-detail-extended">
+
+							<div class="col-md-12 col-sm-12 col-xs-12 book-detail-col-1">
+
+								<div class="book-detail-product-form">EBOOK (EPUB)</div><div class="book-detail-published"><span>Release Date:</span>01 Jan 2010</div><div class="book-detail-isbn"><span>ISBN:</span>9780774858847</div>							</div>
+
+                                                            <div class="col-md-12 col-sm-12 col-xs-12 book-detail-col-2">
+
+                                    <a class = "add_to_basket_button"  href="/basket?action=Add&id=2465" rel="nofollow"><div class="book-detail-price-2"><span class="book-detail-list-price-2">CA$32.95</span><span class="book-detail-list-price-image-2 glassboxx">
+                                                <img class="pull-right-2" src="/images/button-add-to-cart_green.png" alt="add to cart button" />
+                                            </span>
+                                            <span class="book-detail-add-cart-text-2 pull-right-2">Add to cart</span></div></a>                                </div>
+                            						</div>
+											<a href="/basket" class="book-detail-to-cart"><span class="glyphicon glyphicon-shopping-cart"></span>GO TO CART</span></a>
+
+                                            <a class="book-detail-sample" href="/asset/9134/1/9780774816397.pdf" target="_blank">SAMPLE CHAPTER</a>                    
+                    
+                    				</div>
+
+            </div>
+        
+        <div class="book-detail-info col-md-8 col-sm-8 col-xs-12">
+            <div class="row">
+                <div class="col-md-12">
+                    <h1 class="book-detail-title">The Nurture of Nature</h1>
+
+                                            <h4 class="book-detail-sub-title">Childhood, Antimodernism, and Ontario Summer Camps, 1920-55</h4>
+                    
+                                            <div class="book-detail-contributors">By <a href="/manon-tremblay">Sharon Wall</a></div>
+                    
+                                            <div class="book-detail-series">
+                            <span>SERIES:</span>
+                            <a href="/nature-history-society">Nature | History | Society</a>                        </div>
+                    
+                                            <div class="book-detail-publisher-imprint">
+                            <span class="book-detail-publisher">UBC Press</span>                        </div>
+                    
+                    
+                </div>
+            </div>
+								<div class="book-detail-social-share">
+						<img src="/images/share.png" class="toggle-share" id="shareButton" alt="share button" />
+						<div class="share" style="display: none" >
+                            <div class="book-detail-social-share sharethis-inline-share-buttons" style="padding-bottom: 5.5px"></div>
+						</div>
+					</div>
+			
+                                <div class="book-detail-about-book">
+                        <P>Thousands of children attended or worked at Ontario summer camps in the twentieth century. Did parents simply want a break, or were broader developments at play? <EM>The Nurture of Nature</EM> explores the history of an institution that shaped the lives of many and brings to light overlooked connections between the history of childhood, the natural environment, class cultures, and modern recreation and leisure.</P><P>Two competing cultural tendencies – antimodern nostalgia and modern enthusiasms about the landscape, child rearing, and identity – shaped the summer camp. Sharon Wall examines how this tension played out in the camp’s interaction with the natural landscape, its class and gendered dimensions, its engagement with emerging ideologies of childhood, and in the politics of race and identity inherent in its "Indian" programming. By tracing the development of summer camps in Ontario, Wall brings new insights to a broader phenomenon: the divided consciousness that has informed modern assumptions about nature, technology, and identity.</P>                    </div>
+                    
+                                        <div class="book-detail-promotional-headline">
+                    <p><P>A nuanced discussion of the summer camp’s contribution to modern social life in North America, <EM>The Nurture of Nature</EM> is an essential resource for students and practitioners of history, sociology, and cultural studies as well as for anyone who has ever been packed off to camp and wants to explore why.</P></p>                </div>
+            
+            
+							<h3>Awards</h3>
+				<ul class="book-detail-award">
+									<li>
+					2010, Winner - Clio Prize (Ontario), Canadian Historical Association					</li>
+									<li>
+					2009, Winner - Floyd S. Chalmers Award in Ontario History, The Champlain Society					</li>
+								</ul>
+			
+            <div class="book-detail-categories">
+                                    <div class="book-detail-subjects">
+                        <span>RELATED TOPICS:</span>
+                        <a href="/canadian-history">Canadian History</a>, <a href="/communication-cultural-studies">Communication &amp; Media Studies</a>, <a href="/history">History</a>, <a href="/ontario-1">Ontario</a>, <a href="/race-ethnicity">Race &amp; Ethnicity</a>, <a href="/canadian-regions">Regional Studies</a>, <a href="/history-social-history">Social History</a>, <a href="/sociology">Sociology</a>                    </div>
+                            </div>
+
+            
+
+                    </div>
+    </div>
+
+            <div class="row book-detail-tabs">
+            <div class="col-md-12">
+                <div role="tabpanel">
+                    <ul id="book-detail-tabs-stison-block-content-2-0" class="nav nav-tabs"><li class="active"><a href="#book-detail-tabs-stison-block-content-2-0-tab0" data-toggle="tab">Reviews</a></li>
+<li><a href="#book-detail-tabs-stison-block-content-2-0-tab1" data-toggle="tab">Author</a></li>
+<li><a href="#book-detail-tabs-stison-block-content-2-0-tab2" data-toggle="tab">Contents</a></li></ul>
+<div class="tab-content"><div id="book-detail-tabs-stison-block-content-2-0-tab0" class="tab-pane active"><blockquote  class ='review_30'>
+                    <span>By seeking and revealing the cultural meanings of 'fresh air' and 'wilderness’ camping,' and of the activities in which campers engaged ... Sharon Wall has produced a multifaceted study that has much to say to historians of the environment. Time and again, <EM>The Nurture of Nature</EM> reveals the contradictory qualities of the summer camp, even as it offers new insights into the ways in which Canadians struggled to find meaning in modernity.</span>
+                    <span class='footer'>
+                        <span >From the Foreword by Graeme Wynn
+                        </span>
+                    </span>
+                </blockquote><blockquote  class ='review_30'>
+                    <span><EM>The Nurture of Nature</EM> represents a major study of an important but neglected subject. It is an important contribution to the study of leisure and recreation in Canada, to the understanding of the character of modernity, and to the history of summer camps.</span>
+                    <span class='footer'>
+                        <span >Keith Walden, Department of History, Trent University
+                        </span>
+                    </span>
+                </blockquote></div>
+<div id="book-detail-tabs-stison-block-content-2-0-tab1" class="tab-pane"><STRONG>Sharon Wall</STRONG> is an assistant professor of history at the University of Winnipeg.</div>
+<div id="book-detail-tabs-stison-block-content-2-0-tab2" class="tab-pane"><P>Foreword: Modernism in Camp: A Wilderness Paradox / <EM>Graeme Wynn</EM></P><P>Introduction</P><P>1 Back to Nature: Escaping the City, Ordering the Wild</P><P>2 Socialism for the Rich: Class Formation at the Private Camp</P><P>3 "All they need is air": Building Health, Shaping Class at the Fresh Air Camp</P><P>4 Making Modern Childhood, the Natural Way: The Camp Experiment with Psychology, Mental Hygiene, and Progressive Education</P><P>5 Shaping True Natures in Nature: Camping, Gender, and Sexuality</P><P>6 Totem Poles, Tepees, and Token Traditions: "Playing Indian" at Camp</P><P>Conclusion: All Antimodern Melts into Modern?</P><P>Notes</P><P>Bibliography</P><P>Index</P></div></div>                </div>
+            </div>
+        </div>
+        
+    </div>
+</div></div><div id="stison-block-content-2-1" class="featured-slideshow col-md-12 col-sm-12 col-xs-12 stison-block" data-config_site_block_id="207"><div class="block-title">Related Titles</div><div class="verbose-layout"><div id="w7" class="bookshelf carousel slide container-fluid book-list-similar carousel" data-display="3" data-count="3">
+<ol class="carousel-indicators"><li class="active" data-target="#w7" data-slide-to="0"></li></ol>
+<div class="carousel-inner"><div class="item active"><div class="book-list-item col-xs-4 col-sm-4"><a href="/guiding-modern-girls"><span class="bookshelf-image book-item-image"><img src="/assets/f94e6377/9780774835893fc-72465-200x240.jpg" alt="Guiding Modern Girls"></span></a><a href="/guiding-modern-girls"><span class="bookshelf-title"><h2>Guiding Modern Girls</h2></span></a><span class="bookshelf-subtitle"><h3>Girlhood, Empire, and Internationalism in the 1920s and 1930s</h3></span><span class="bookshelf-contributors"><p>By <a href="/kristine-alexander-1">Kristine Alexander</a></p></span></div><div class="book-list-item col-xs-4 col-sm-4"><a href="/what-nudism-exposes"><span class="bookshelf-image book-item-image"><img src="/assets/d923425e/9780774867221fc-350541-200x240.jpg" alt="What Nudism Exposes"></span></a><a href="/what-nudism-exposes"><span class="bookshelf-title"><h2>What Nudism Exposes</h2></span></a><span class="bookshelf-subtitle"><h3>An Unconventional History of Postwar Canada</h3></span><span class="bookshelf-contributors"><p>By <a href="/abigail-c-deshman">Mary-Ann Shantz</a></p></span></div><div class="book-list-item col-xs-4 col-sm-4"><a href="/making-muskoka"><span class="bookshelf-image book-item-image"><img src="/assets/34e37f14/9780774867856fc-350292-200x240.jpg" alt="Making Muskoka"></span></a><a href="/making-muskoka"><span class="bookshelf-title"><h2>Making Muskoka</h2></span></a><span class="bookshelf-subtitle"><h3>Tourism, Rural Identity, and Sustainability, 1870–1920</h3></span><span class="bookshelf-contributors"><p>By <a href="/andrew-watson">Andrew Watson</a></p></span></div>
+</div></div>
+<a class="left carousel-control" href="#w7" data-slide="prev">&lsaquo;</a>
+<a class="right carousel-control" href="#w7" data-slide="next">&rsaquo;</a>
+</div>
+<style>#content-wrap .stison-block.featured-slideshow .carousel-control{display:none;}</style></div></div></div><div id="w8" class="col-md-3 col-sm-3 col-xs-12 stison-section" data-stison-section="content-3"><div id="stison-block-content-3-0" class="info subscribe-mobile no-padding show-mobile col-md-12 col-sm-12 col-xs-12 stison-block" data-config_site_block_id="25"><div class="block-title">Stay Informed</div><a class="button-arrow subscribe" href="/newsletter">Subscribe now</a></div><ul id="stison-block-content-3-1" class="social-links  hide-mobile col-md-12 col-sm-12 col-xs-12 stison-block" data-config_site_block_id="21"><li><a class="social-links-facebook" href="https://www.facebook.com/UBCPress" title="Facebook page" rel="noopener" target="_blank"> </a></li>
+<li><a class="social-links-youtube" href="https://www.youtube.com/UbcpressCanada" title="YouTube page" rel="noopener" target="_blank"> </a></li>
+<li><a class="social-links-linkedin" href="https://www.linkedin.com/company/ubc-press" title="LinkedIn page" rel="noopener" target="_blank"> </a></li>
+<li><a class="social-links-instagram" href="https://www.instagram.com/ubcpress" title="Instagram page" rel="noopener" target="_blank"> </a></li></ul><div id="stison-block-content-3-2" class="search-block hide-mobile col-md-12 col-sm-12 col-xs-12 stison-block" data-config_site_block_id="445"><div class="block-title">Find what you’re looking for...</div><div class="simple-layout"><form id="w9" class="search-block form-inline navbar-form" action="/results" method="post" role="search">
+<input type="hidden" name="csrf" value="pgV2m_kQcxZi9ikXhAyH0Iqe7CPSJls1qhvpxpr_Xnf-MzvKjV40ZyCQRCX8Q-ib7dGrT-dgDw3aXaqe7a4JNA=="><div class="form-group field-searchform-keywords">
+<input type="text" id="searchform-keywords" class="form-control input-sm" name="SearchForm[keywords]" placeholder="Title, Author, ISBN">
+</div><button type="submit" id="search-submit" class="btn input-sm" aria-label="Search"><span class="glyphicon glyphicon-search"></span></button><a href="/advanced-search" rel="nofollow">Advanced search</a></form></div></div><div id="stison-block-content-3-3" class="border-top-line no-padding hide-mobile col-md-12 col-sm-12 col-xs-12 stison-block" data-config_site_block_id="446"><div class="block-title">Stay Informed</div><p>Receive the latest UBC Press news, including events, catalogues, and announcements.</p><p><a class="button-arrow subscribe" href="/newsletter">Sign me up!<br /></a><a href="/past-newsletters"><br />Read past&nbsp;newsletters</a></p></div><div id="stison-block-content-3-4" class="col-md-12 col-sm-12 col-xs-12 stison-block" data-config_site_block_id="1599"><p><img src="/media/free_shipping_RECTANGLE_2.1.png" alt="Free shipping on online orders over $40" width="100%" /></p></div><div id="stison-block-content-3-5" class="no-padding border-top-line col-md-12 col-sm-12 col-xs-12 stison-block" data-config_site_block_id="447"><div class="block-title">Recent News</div><div class="teaser-layout"><div class="teaser-list">
+    <div id="w10" class="list-view"><div class="list-items"><div class="row news-detail" data-key="433">
+    <div class="col-md-12">
+        <span class="news-detail-type">News | </span>
+        <a href="/were-hiring-junior-editor" class="news-detail-title">We&#039;re Hiring: Junior Editor</a>
+    </div>
+</div>
+
+<div class="row news-detail" data-key="425">
+    <div class="col-md-12">
+        <span class="news-detail-type">News | </span>
+        <a href="/pacific-educational-press-titles-are-now-available-on-our-website" class="news-detail-title">Pacific Educational Press titles are now available on our website!</a>
+    </div>
+</div>
+
+<div class="row news-detail" data-key="408">
+    <div class="col-md-12">
+        <span class="news-detail-type">News | </span>
+        <a href="/learning-with-syeyutsus-returns-for-a-fifth-season" class="news-detail-title">Learning with Syeyutsus Returns for a Fifth Season</a>
+    </div>
+</div>
+
+<div class="row news-detail" data-key="407">
+    <div class="col-md-12">
+        <span class="news-detail-type">News | </span>
+        <a href="/five-canadian-authors-receive-prestigious-canada-prizes-award-for-scholarly-books" class="news-detail-title">Five Canadian Authors Receive Prestigious Canada  Prizes Award for Scholarly Books</a>
+    </div>
+</div>
+</div></div></div></div></div><div id="stison-block-content-3-8" class="border-top-line no-padding hide-mobile col-md-12 col-sm-12 col-xs-12 stison-block" data-config_site_block_id="449"><div class="block-title">Publishers Represented</div>UBC Press is the Canadian agent for several international publishers. Visit our <a href="/publishers-represented">Publishers Represented</a> page to learn more.</div></div>        </div>
+    </div>
+</div>
+
+<div id="below-content-1-wrap">
+    <div class="container">
+        <div class="row">
+            <div id="w11" class="stison-section" data-stison-section="below-content-1"></div>        </div>
+    </div>
+</div>
+</main><footer><div class="row" id="above-footer-1-wrap">
+    <div class="container">
+        <div id="w12" class="stison-section" data-stison-section="above-footer-1"></div>    </div>
+</div>
+
+<div id="footer-wrap">
+    <div class="container">
+        <div class="row">
+            <div id="w13" class="col-md-12 stison-section" data-stison-section="footer-1"><div id="stison-block-footer-1-0" class="col-md-8 col-sm-6 col-xs-12 stison-block" data-config_site_block_id="451"><div class="logo-footer"><div class="footer-logo"><a href="https://www.ubc.ca" target="_blank" rel="noopener"><img src="/images/logo-bottom.png" alt="University of British Columbia Logo" width="55"></a></div><div class="footer-logo-text"><p><strong>a place of mind</strong></p><p class="university-text">THE UNIVERSITY OF BRITISH COLUMBIA</p></div></div></div><nav id="stison-block-footer-1-1" class="menu-block menu-footer-right hide-mobile col-md-2 col-sm-4 col-xs-12 stison-block" data-config_site_block_id="452" role="navigation"><ul role="list"><li><a href="/staffdirectory">Contact Us</a></li>
+<li><a href="/ordering-information">Ordering</a></li>
+<li><a href="/eu-safety-information">EU Safety Information</a></li></ul></nav><ul id="stison-block-footer-1-2" class="social-links no-padding col-md-2 col-sm-2 col-xs-12 stison-block" data-config_site_block_id="453"><li><a class="social-links-facebook" href="https://www.facebook.com/UBCPress" title="Facebook page" rel="noopener" target="_blank"> </a></li>
+<li><a class="social-links-youtube" href="https://www.youtube.com/user/UBCPressChannel" title="YouTube page" rel="noopener" target="_blank"> </a></li>
+<li><a class="social-links-linkedin" href="https://www.linkedin.com/company/ubc-press" title="LinkedIn page" rel="noopener" target="_blank"> </a></li>
+<li><a class="social-links-instagram" href="https://www.instagram.com/ubcpress" title="Instagram page" rel="noopener" target="_blank"> </a></li></ul><nav id="stison-block-footer-1-3" class="menu-block menu-footer-left hide-mobile col-md-8 col-sm-6 col-xs-12 stison-block" data-config_site_block_id="454" role="navigation"><ul role="list"><li><a href="https://www.ubc.ca/landing/emergencyprocedures.html" rel="noopener" target="_blank">Emergency Procedures</a></li>
+<li><a href="https://www.ubc.ca/site/legal.html" rel="noopener" target="_blank">Terms of Use</a></li>
+<li><a href="https://www.ubc.ca/accessibility/" rel="noopener" target="_blank">UBC Accessibility</a></li>
+<li><a href="https://copyright.ubc.ca/" rel="noopener" target="_blank">UBC Copyright</a></li></ul></nav><div id="stison-block-footer-1-4" class="footer-info hide-mobile col-md-4 col-sm-4 col-xs-12 stison-block" data-config_site_block_id="455"><p>University of British Columbia Press<br />2029 West Mall<br />Vancouver, BC, Canada V6T 1Z2 <br />frontdesk@ubcpress.ca</p></div><div id="stison-block-footer-1-5" class="show-tablet break-space col-md-8 col-sm-6 col-xs-12 stison-block" data-config_site_block_id="457"></div><nav id="stison-block-footer-1-6" class="menu-block show-tablet menu-footer-left show-mobile col-md-4 col-sm-4 col-xs-12 stison-block" data-config_site_block_id="458" role="navigation"><ul role="list"><li><a href="/ordering">Ordering</a></li>
+<li><a href="/location">Location</a></li>
+<li><a href="/rightspermissions">Rights</a></li></ul></nav></div>        </div>
+    </div>
+</div>
+
+<div id="below-footer-1-wrap">
+    <div class="container">
+        <div class="row">
+            <div id="w14" class="col-md-12 stison-section" data-stison-section="below-footer-1"></div>        </div>
+    </div>
+</div>
+</footer>
+<script src="https://platform-api.sharethis.com/js/sharethis.js#property=5d5ac9eac60153001277bd47&amp;product=sop"></script>
+<script src="/assets/a704f66f/jquery.js"></script>
+<script src="/assets/9bc80b3e/yii.js"></script>
+<script src="/assets/c782886e/js/bootstrap.js"></script>
+<script src="/assets/8bb970e0/js/jquery.bxslider.min.js"></script>
+<script src="/assets/8bb970e0/js/bootstrap-tabcollapse.js"></script>
+<script src="/assets/8bb970e0/js/script.js"></script>
+<script src="/assets/9bc80b3e/yii.activeForm.js"></script>
+<script src="/assets/eb4ef893/js/script.js"></script>
+<script src="//bookmanager.com/public/api/tbm-shop-local.js"></script>
+<script src="/assets/88cc265b/verbose-regular.js"></script>
+<script>jQuery(function ($) {
+jQuery('#w3').yiiActiveForm([], []);
+$('#book-detail-tabs-stison-block-content-2-0>li:nth-child(1)>a').tab('show');
+jQuery('#book-detail-tabs-stison-block-content-2-0').tab();
+jQuery('#w7').carousel({"interval":false});
+jQuery('#w9').yiiActiveForm([], []);
+});</script><div id="modal-div"></div>
+<script type="text/javascript">var user_currency = 'CAD';  $(".pricing").not('.'+user_currency).hide(); </script>
+</body>
+</html>

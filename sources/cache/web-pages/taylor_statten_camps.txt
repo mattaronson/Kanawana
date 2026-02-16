@@ -1,0 +1,611 @@
+<!DOCTYPE html>
+<html lang="en-CA">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="profile" href="https://gmpg.org/xfn/11">
+<link rel="pingback" href="https://taylorstattencamps.com/xmlrpc.php">
+
+<link rel="stylesheet" type="text/css" href="https://cloud.typography.com/7833514/7687752/css/fonts.css" />
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-PZ5K854');</script>
+<!-- End Google Tag Manager -->
+<meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+
+	<!-- This site is optimized with the Yoast SEO plugin v26.7 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>The Taylor Statten Camps - The History and Legacy Behind it All</title>
+	<meta name="description" content="Learn about the history of the Taylor Statten Camps on Canoe Lake in Algonquin Park, Ontario. The Taylor Statten Camps is coming into 100 years of history!" />
+	<link rel="canonical" href="https://taylorstattencamps.com/tsc-history/" />
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="The Taylor Statten Camps - The History and Legacy Behind it All" />
+	<meta property="og:description" content="Learn about the history of the Taylor Statten Camps on Canoe Lake in Algonquin Park, Ontario. The Taylor Statten Camps is coming into 100 years of history!" />
+	<meta property="og:url" content="https://taylorstattencamps.com/tsc-history/" />
+	<meta property="og:site_name" content="Taylor Statten Camps" />
+	<meta property="article:publisher" content="https://www.facebook.com/taylorstattencamps" />
+	<meta property="article:modified_time" content="2019-05-29T18:47:55+00:00" />
+	<meta property="og:image" content="https://taylorstattencamps.com/wp-content/uploads/2018/11/MLP-20180721-TaylorStattenCamps-289.jpg" />
+	<meta property="og:image:width" content="2048" />
+	<meta property="og:image:height" content="1366" />
+	<meta property="og:image:type" content="image/jpeg" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:label1" content="Est. reading time" />
+	<meta name="twitter:data1" content="2 minutes" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://taylorstattencamps.com/tsc-history/","url":"https://taylorstattencamps.com/tsc-history/","name":"The Taylor Statten Camps - The History and Legacy Behind it All","isPartOf":{"@id":"https://taylorstattencamps.com/#website"},"primaryImageOfPage":{"@id":"https://taylorstattencamps.com/tsc-history/#primaryimage"},"image":{"@id":"https://taylorstattencamps.com/tsc-history/#primaryimage"},"thumbnailUrl":"https://taylorstattencamps.com/wp-content/uploads/2018/11/MLP-20180721-TaylorStattenCamps-289.jpg","datePublished":"2016-02-28T02:46:24+00:00","dateModified":"2019-05-29T18:47:55+00:00","description":"Learn about the history of the Taylor Statten Camps on Canoe Lake in Algonquin Park, Ontario. The Taylor Statten Camps is coming into 100 years of history!","breadcrumb":{"@id":"https://taylorstattencamps.com/tsc-history/#breadcrumb"},"inLanguage":"en-CA","potentialAction":[{"@type":"ReadAction","target":["https://taylorstattencamps.com/tsc-history/"]}]},{"@type":"ImageObject","inLanguage":"en-CA","@id":"https://taylorstattencamps.com/tsc-history/#primaryimage","url":"https://taylorstattencamps.com/wp-content/uploads/2018/11/MLP-20180721-TaylorStattenCamps-289.jpg","contentUrl":"https://taylorstattencamps.com/wp-content/uploads/2018/11/MLP-20180721-TaylorStattenCamps-289.jpg","width":2048,"height":1366},{"@type":"BreadcrumbList","@id":"https://taylorstattencamps.com/tsc-history/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://taylorstattencamps.com/"},{"@type":"ListItem","position":2,"name":"New to Camp","item":"https://taylorstattencamps.com/overnight-summer-camps/"},{"@type":"ListItem","position":3,"name":"TSC&#8217;s History"}]},{"@type":"WebSite","@id":"https://taylorstattencamps.com/#website","url":"https://taylorstattencamps.com/","name":"Taylor Statten Camps","description":"Best Summer Camp in Canada","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://taylorstattencamps.com/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"en-CA"}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel="alternate" type="application/rss+xml" title="Taylor Statten Camps &raquo; Feed" href="https://taylorstattencamps.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Taylor Statten Camps &raquo; Comments Feed" href="https://taylorstattencamps.com/comments/feed/" />
+<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://taylorstattencamps.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftaylorstattencamps.com%2Fovernight-summer-camps%2Ftsc-history%2F" />
+<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://taylorstattencamps.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftaylorstattencamps.com%2Fovernight-summer-camps%2Ftsc-history%2F&#038;format=xml" />
+<style id='wp-img-auto-sizes-contain-inline-css' type='text/css'>
+img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
+/*# sourceURL=wp-img-auto-sizes-contain-inline-css */
+</style>
+<link rel='stylesheet' id='envira-tags-tags-frontend-css' href='https://taylorstattencamps.com/wp-content/plugins/envira-tags/assets/css/frontend.css?ver=1.13.1' type='text/css' media='all' />
+<link rel='stylesheet' id='mediaelement-css' href='https://taylorstattencamps.com/wp-includes/js/mediaelement/mediaelementplayer-legacy.min.css?ver=4.2.17' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-mediaelement-css' href='https://taylorstattencamps.com/wp-includes/js/mediaelement/wp-mediaelement.min.css?ver=6.9' type='text/css' media='all' />
+<link rel='stylesheet' id='tsca-css-css' href='https://taylorstattencamps.com/wp-content/plugins/tsc-alumni/css/tsc-alumni.css?ver=6.9' type='text/css' media='all' />
+<link rel='stylesheet' id='sbi_styles-css' href='https://taylorstattencamps.com/wp-content/plugins/instagram-feed/css/sbi-styles.min.css?ver=6.10.0' type='text/css' media='all' />
+<style id='wp-emoji-styles-inline-css' type='text/css'>
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+/*# sourceURL=wp-emoji-styles-inline-css */
+</style>
+<link rel='stylesheet' id='wp-block-library-css' href='https://taylorstattencamps.com/wp-includes/css/dist/block-library/style.min.css?ver=6.9' type='text/css' media='all' />
+<style id='global-styles-inline-css' type='text/css'>
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgb(6,147,227) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgb(252,185,0) 0%,rgb(255,105,0) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgb(255,105,0) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgb(255, 255, 255), 6px 6px rgb(0, 0, 0);--wp--preset--shadow--crisp: 6px 6px 0px rgb(0, 0, 0);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+/*# sourceURL=global-styles-inline-css */
+</style>
+
+<style id='classic-theme-styles-inline-css' type='text/css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+/*# sourceURL=/wp-includes/css/classic-themes.min.css */
+</style>
+<link rel='stylesheet' id='contact-form-7-css' href='https://taylorstattencamps.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=6.1.4' type='text/css' media='all' />
+<link rel='stylesheet' id='taylorstattencamps-style-css' href='https://taylorstattencamps.com/wp-content/themes/taylorstattencamps/style.css?ver=20250120' type='text/css' media='all' />
+<script type="text/javascript" src="https://taylorstattencamps.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+<script type="text/javascript" src="https://taylorstattencamps.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
+<script type="text/javascript" id="tsca-js-js-extra">
+/* <![CDATA[ */
+var TSCA = {"ajaxurl":"https://taylorstattencamps.com/wp-admin/admin-ajax.php"};
+//# sourceURL=tsca-js-js-extra
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://taylorstattencamps.com/wp-content/plugins/tsc-alumni/js/tsc-alumni.js?ver=6.9" id="tsca-js-js"></script>
+<link rel="https://api.w.org/" href="https://taylorstattencamps.com/wp-json/" /><link rel="alternate" title="JSON" type="application/json" href="https://taylorstattencamps.com/wp-json/wp/v2/pages/167" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://taylorstattencamps.com/xmlrpc.php?rsd" />
+<meta name="generator" content="WordPress 6.9" />
+<link rel='shortlink' href='https://taylorstattencamps.com/?p=167' />
+<link rel="icon" href="https://taylorstattencamps.com/wp-content/uploads/2016/04/cropped-favicon-1-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://taylorstattencamps.com/wp-content/uploads/2016/04/cropped-favicon-1-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://taylorstattencamps.com/wp-content/uploads/2016/04/cropped-favicon-1-180x180.png" />
+<meta name="msapplication-TileImage" content="https://taylorstattencamps.com/wp-content/uploads/2016/04/cropped-favicon-1-270x270.png" />
+</head>
+
+<body class="wp-singular page-template-default page page-id-167 page-child parent-pageid-15 wp-theme-taylorstattencamps group-blog page-tsc-history">
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PZ5K854"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+	<div id="page" class="site">
+		
+		<a class="skip-link screen-reader-text" href="#content">Skip to content</a>
+
+		<header class="site-header" role="banner">
+
+			<nav class="main-navigation" role="navigation">
+				<button class="resp-nav c-hamburger c-hamburger--htx">
+		       <span>Menu</span>
+		     </button>
+		     <div class="all-nav">
+										<div class="menu-primary-container"><ul id="primary-menu" class="menu"><li id="menu-item-72" class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor current-menu-ancestor current-menu-parent current-page-parent current_page_parent current_page_ancestor menu-item-has-children menu-item-72"><a href="https://taylorstattencamps.com/overnight-summer-camps/">Not Yet Registered</a>
+<ul class="sub-menu">
+	<li id="menu-item-7151" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-167 current_page_item menu-item-7151"><a href="https://taylorstattencamps.com/overnight-summer-camps/tsc-history/" aria-current="page">TSC’s History</a></li>
+	<li id="menu-item-7141" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7141"><a href="https://taylorstattencamps.com/overnight-summer-camps/camp-ahmek-for-boys/">Camp Ahmek for Boys</a></li>
+	<li id="menu-item-7143" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7143"><a href="https://taylorstattencamps.com/overnight-summer-camps/rates-dates-at-the-taylor-statten-camps/">Rates &#038; Dates</a></li>
+	<li id="menu-item-7147" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7147"><a href="https://taylorstattencamps.com/overnight-summer-camps/canoe-tripping/">Canoe Tripping Program</a></li>
+	<li id="menu-item-7142" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7142"><a href="https://taylorstattencamps.com/overnight-summer-camps/camp-wapomeo-for-girls/">Camp Wapomeo for Girls</a></li>
+	<li id="menu-item-17753" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17753"><a href="https://taylorstattencamps.com/sections-and-cabin-life/">Sections and Cabin Life</a></li>
+	<li id="menu-item-7146" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7146"><a href="https://taylorstattencamps.com/overnight-summer-camps/camp-activities-at-tsc/">Camp Activities</a></li>
+	<li id="menu-item-15258" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15258"><a href="https://taylorstattencamps.com/alumni/september-family-camp/">September Family Camp</a></li>
+	<li id="menu-item-18433" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18433"><a href="https://taylorstattencamps.com/camp-guide/">Parent Guide</a></li>
+	<li id="menu-item-7144" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7144"><a href="https://taylorstattencamps.com/overnight-summer-camps/frequently-asked-questions-faq/">Camp FAQ</a></li>
+</ul>
+</li>
+<li id="menu-item-73" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-73"><a href="https://taylorstattencamps.com/registered/">Registered Campers</a>
+<ul class="sub-menu">
+	<li id="menu-item-8108" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8108"><a href="https://taylorstattencamps.com/registered/contact-your-camper/">Contact Your Camper: One-Way Email</a></li>
+	<li id="menu-item-8107" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8107"><a href="https://taylorstattencamps.com/registered/camp-guide/">Camp Guide</a></li>
+	<li id="menu-item-7155" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7155"><a href="https://taylorstattencamps.com/registered/registered-what-to-pack/">What to Pack</a></li>
+	<li id="menu-item-7154" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7154"><a href="https://taylorstattencamps.com/registered/important-dates/">Important Dates</a></li>
+	<li id="menu-item-7156" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7156"><a href="https://taylorstattencamps.com/registered/transportation-to-camp/">Transportation</a></li>
+	<li id="menu-item-7159" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7159"><a href="https://taylorstattencamps.com/registered/registeredsummer-events/">Summer Events</a></li>
+	<li id="menu-item-7157" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7157"><a href="https://taylorstattencamps.com/registered/camper-rights/">Camper Rights</a></li>
+	<li id="menu-item-7158" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7158"><a href="https://taylorstattencamps.com/registered/code-of-conduct/">Camper Code of Conduct</a></li>
+	<li id="menu-item-14936" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14936"><a href="https://taylorstattencamps.com/tsc-videos/">TSC Videos</a></li>
+	<li id="menu-item-16934" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16934"><a href="https://taylorstattencamps.com/gallery-2/">Gallery</a></li>
+</ul>
+</li>
+<li id="menu-item-8200" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-8200"><a>Account Login</a>
+<ul class="sub-menu">
+	<li id="menu-item-9596" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-9596"><a href="http://taylorstattencamps.campbrainregistration.com">Parents</a></li>
+	<li id="menu-item-9597" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-9597"><a href="http://taylorstattencamps.campbrainstaff.com">Staff</a></li>
+</ul>
+</li>
+<li id="menu-item-74" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-74"><a href="https://taylorstattencamps.com/staff/">Staff</a>
+<ul class="sub-menu">
+	<li id="menu-item-18715" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18715"><a href="https://taylorstattencamps.com/staff/staffcamp-directors-2/">Camp Directors</a></li>
+	<li id="menu-item-15053" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15053"><a href="https://taylorstattencamps.com/staff/job-postings/">Job Postings</a></li>
+	<li id="menu-item-7163" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7163"><a href="https://taylorstattencamps.com/staff/staffing-faq/">Staffing FAQ</a></li>
+	<li id="menu-item-16692" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16692"><a href="https://taylorstattencamps.com/cit-program/">Junior Counsellor (JC)</a></li>
+	<li id="menu-item-12777" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12777"><a href="https://taylorstattencamps.com/staff/staff-paperwork/">Summer Staff Paperwork</a></li>
+	<li id="menu-item-17851" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17851"><a href="https://taylorstattencamps.com/bring-a-friend-to-work/">Get Paid to Bring a Friend to Work!</a></li>
+</ul>
+</li>
+<li id="menu-item-75" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-75"><a href="https://taylorstattencamps.com/alumni/">Alumni</a>
+<ul class="sub-menu">
+	<li id="menu-item-15498" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15498"><a href="https://taylorstattencamps.com/alumni-in-residence/">Alumni in Residence</a></li>
+	<li id="menu-item-16730" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16730"><a href="https://taylorstattencamps.com/alumni/september-family-camp/">September Family Camp</a></li>
+</ul>
+</li>
+<li id="menu-item-15399" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-15399"><a href="https://taylorstattencamps.com/rentals-at-taylor-statten-camps/">Rent Our Camp</a>
+<ul class="sub-menu">
+	<li id="menu-item-15417" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15417"><a href="https://taylorstattencamps.com/rentals-at-taylor-statten-camps/">Rentals at Taylor Statten Camps!</a></li>
+</ul>
+</li>
+</ul></div>				</div>
+			</nav><!-- #site-navigation -->
+				<a href="https://taylorstattencamps.com/" rel="home" class="logo"><img src="https://taylorstattencamps.com/wp-content/themes/taylorstattencamps/images/ts-logo.svg" alt="Taylor Statten Camps"></a>
+			
+		</header><!-- #masthead -->
+		<!-- Begin Constant Contact Active Forms -->
+<script> var _ctct_m = "ef6699ed01253e5703f78eda9b84ec54"; </script>
+<script id="signupScript" src="//static.ctctcdn.com/js/signup-form-widget/current/signup-form-widget.min.js" async defer></script>
+<!-- End Constant Contact Active Forms -->
+
+	<main id="main" class="site-main" role="main">
+	<section class="content-page page-area"> 
+
+			
+<article id="post-167" class="post-167 page type-page status-publish has-post-thumbnail hentry">
+  <header class="page-header" style="background-image:url(https://taylorstattencamps.com/wp-content/uploads/2018/11/MLP-20180721-TaylorStattenCamps-289-1600x1000.jpg);">
+  <div class="content">
+          <h1>
+                  <span class="title-intro">Canada's Oldest Family Owned Summer Camp</span>
+                          Our History                          <span class="title-sub">Brother / Sister Camps</span>
+              </h1>
+      </div>
+</header>        <div class="breadcrumb">
+    <div class="container">
+      <span property="itemListElement" typeof="ListItem"><a property="item" typeof="WebPage" title="Go to Taylor Statten Camps." href="https://taylorstattencamps.com" class="home"><span property="name">Taylor Statten Camps</span></a><meta property="position" content="1"></span> &gt; <span property="itemListElement" typeof="ListItem"><a property="item" typeof="WebPage" title="Go to New to Camp." href="https://taylorstattencamps.com/overnight-summer-camps/" class="post post-page"><span property="name">New to Camp</span></a><meta property="position" content="2"></span> &gt; <span property="itemListElement" typeof="ListItem"><span property="name">TSC&#8217;s History</span><meta property="position" content="3"></span>    </div>
+  </div>
+    
+
+  <div class="page-content container">
+              <div class="column col-2 pad-right with-menu">
+            <div class="page-menu">
+      <h4>Select page</h4>
+      <ul>
+        <li class="page_item page-item-161 page_item_has_children"><a href="https://taylorstattencamps.com/overnight-summer-camps/camp-ahmek-for-boys/">Camp Ahmek for Boys</a>
+<ul class='children'>
+	<li class="page_item page-item-171"><a href="https://taylorstattencamps.com/overnight-summer-camps/camp-ahmek-for-boys/camp-ahmek-for-boysthe-facilities/">The facilities</a></li>
+	<li class="page_item page-item-173"><a href="https://taylorstattencamps.com/overnight-summer-camps/camp-ahmek-for-boys/a-typical-day-at-camp/">A typical day</a></li>
+	<li class="page_item page-item-177"><a href="https://taylorstattencamps.com/overnight-summer-camps/camp-ahmek-for-boys/camp-ahmek-for-boysahmek-map/">Ahmek Map</a></li>
+</ul>
+</li>
+<li class="page_item page-item-163 page_item_has_children"><a href="https://taylorstattencamps.com/overnight-summer-camps/camp-wapomeo-for-girls/">Camp Wapomeo for Girls</a>
+<ul class='children'>
+	<li class="page_item page-item-179"><a href="https://taylorstattencamps.com/overnight-summer-camps/camp-wapomeo-for-girls/camp-wapomeo-for-girlsthe-facilities/">The facilities</a></li>
+	<li class="page_item page-item-181"><a href="https://taylorstattencamps.com/overnight-summer-camps/camp-wapomeo-for-girls/camp-wapomeo-for-girlsa-typical-day/">A typical day</a></li>
+	<li class="page_item page-item-185"><a href="https://taylorstattencamps.com/overnight-summer-camps/camp-wapomeo-for-girls/camp-wapomeo-for-girls-wapomeo-map/">Wapomeo Map</a></li>
+</ul>
+</li>
+<li class="page_item page-item-31"><a href="https://taylorstattencamps.com/overnight-summer-camps/rates-dates-at-the-taylor-statten-camps/">Rates &#038; Dates</a></li>
+<li class="page_item page-item-37"><a href="https://taylorstattencamps.com/overnight-summer-camps/frequently-asked-questions-faq/">Camp FAQ</a></li>
+<li class="page_item page-item-18694"><a href="https://taylorstattencamps.com/overnight-summer-camps/financial-assistance/">Financial Assistance</a></li>
+<li class="page_item page-item-165"><a href="https://taylorstattencamps.com/overnight-summer-camps/algonquin-park/">Algonquin Park Location</a></li>
+<li class="page_item page-item-6743"><a href="https://taylorstattencamps.com/overnight-summer-camps/camp-activities-at-tsc/">Camp Activities</a></li>
+<li class="page_item page-item-175"><a href="https://taylorstattencamps.com/overnight-summer-camps/canoe-tripping/">Our Canoe Tripping Program</a></li>
+<li class="page_item page-item-90"><a href="https://taylorstattencamps.com/overnight-summer-camps/long-canoe-trip-policy/">Special Canoe Trips</a></li>
+<li class="page_item page-item-33"><a href="https://taylorstattencamps.com/overnight-summer-camps/testimonials-staff-campers-alumni-tsc/">Testimonials</a></li>
+<li class="page_item page-item-167 current_page_item"><a href="https://taylorstattencamps.com/overnight-summer-camps/tsc-history/" aria-current="page">TSC&#8217;s History</a></li>
+<li class="page_item page-item-169"><a href="https://taylorstattencamps.com/overnight-summer-camps/information-en-francais/">Information en francais</a></li>
+      </ul>
+    </div>
+                      </div>
+    
+
+    <div class="column col-4 main-content pad-right">
+              <h1 class="entry-title-content">TSC&#8217;s History</h1>                    <p class="intro">The Taylor Statten Camps Legacy stretches back to the early 1920s when a young man's dream was realized and Camp Ahmek was established, the first Canadian-owned private camp in Algonquin Park.</p>
+            <h3>Taylor Statten Becomes The Director</h3>
+<p><img fetchpriority="high" decoding="async" class="size-medium wp-image-293 alignright" src="/wp-content/uploads/2016/02/history-chief-192x300.jpg" alt="Taylor Statten - Founder of The Taylor Statten Camps" width="192" height="300" srcset="https://taylorstattencamps.com/wp-content/uploads/2016/02/history-chief-192x300.jpg 192w, https://taylorstattencamps.com/wp-content/uploads/2016/02/history-chief.jpg 324w" sizes="(max-width: 192px) 100vw, 192px" />TSC history is unique and stretches back to the early 1900s. The year 1906 saw Taylor Statten, A Boer War veteran, become the full-time Boy’s Work Secretary for the national YMCA. His work was celebrated by parents across the country and he soon established the Canadian Standards Efficiency Training program. This program gave children an opportunity to be rewarded for the development of their intellectual, social, physical, and religious skills.</p>
+<p>In 1912, while on a family vacation, Taylor became enamored with a spot in Algonquin Park, Ontario named Canoe Lake. There he envisioned a place for young men and women to come and bask in its natural glory.</p>
+<p>In 1921, Taylor’s dream was realized as a summer camp that focused on teaching wood-craft and natural lore. He named the camp “Ahmek” after the Ojibwa name meaning “Great Beaver.” Having to mortgage his home to fund the camp, Taylor opened Ahmek for six weeks that summer and welcomed 60 boys. Taylor Statten officially became the director of Canada&#8217;s first privately owned summer camp.</p>
+<p>By this time, TSC’s reputation had spread all over North America as one of the leading authorities in the camping movement. A group of TSC alumni published esteemed camping literature such as Camping and Character (1929), Marks of Good Camping (1941), and Administration of the Modern Camp (1948). These and several other works produced revolutionary philosophies and institutions that became common practice for camps in the American and Canadian Camping Associations.</p>
+<p><strong>The Taylor Statten Camps grew to be revered for five outstanding characteristics:</strong></p>
+<ol>
+<li>Attention to health and safety.</li>
+<li>Philosophy centered on character education, individual development, and a democratic community. A sharp contrast to militaristic camps of the day.</li>
+<li>A rich camp culture centered on values, tradition, and a strong understanding of the natural environment.</li>
+<li>Programs built on learning skills for life.</li>
+<li>A focus on unlocking individual potential in order to train youth as outstanding leaders for the future, supported by measurable objectives.</li>
+</ol>
+<p>&nbsp;</p>
+<h2></h2>
+
+        
+          
+          <div class="page-accordion">
+            <h3 class="accordion-wrapper group">History</h3>
+            <ul>
+                              <li>
+<!-- 					<button type="button" class="accordion-title target">The Torch is Passed</button>  -->
+                   <h4 class="accordion-title target">The Torch is Passed</h4> 
+
+                    <div class="accordion-content"><p>The 1950s proved to be a period of great transition and expansion for the camps. In 1954, Taylor Statten II (Dr. Tay), Canada’s first Child Psychiatrist, took over as the second Director at Ahmek. Adele Ebbs (Couchie) and her husband, Dr. Harry Ebbs, had already been directing Wapomeo for several years.</p>
+<p>&nbsp;</p>
+<p>Under Dr. Tay’s leadership, extended canoe trips outside of Algonquin Park became popular options. In 1965, two 28 day canoe trips were undertaken with great success in Quetico Provincial Park. Then in 1968, Dr. Tay founded The Outpost camp on Lake Maskinonge on the southwestern edge of the vast Temagami canoe tripping region. Suddenly new and exciting exploratory trips were launched into connected areas including the Biscotasing area further west and the Kipawa and La Verendrye domains in northwestern Quebec.</p>
+<p>In 1987, word was received that the beloved Dr. Tay would be honoured with the Order of Canada. While TSC’s reputation continued to grow, so did both the in-camp and canoe-tripping programs with new buildings, new activities, and new canoe trip routes.</p>
+<p>In Dr. Tay’s final years as Camp Director, Ahmek and Wapomeo had the distinction of caring for the sons and daughter of three Canadian Prime Ministers. Prime Minister Trudeau, a former Ahmek camper himself (and yes, we taught him the  “Ahmek J-stroke”), sent Justin, Alexandre (Sasha) and Michel (Mike) to Ahmek. Both Justin and Mike eventually became counsellors. Prime Minister Brian Mulroney sent Ben, Caroline and Mark to TSC and visited them via helicopter in 1987. Prime Minister John Turner also sent his son Michael for a couple summers.</p>
+</div>
+
+                </li>
+                                <li>
+<!-- 					<button type="button" class="accordion-title target">A Third Generation of Statten Leadership</button>  -->
+                   <h4 class="accordion-title target">A Third Generation of Statten Leadership</h4> 
+
+                    <div class="accordion-content"><p>By 1975, Couchie and her husband Dr. Harry Ebbs decided to retire. In 1976, Taylor “Tike” Statten III moved to Wapomeo with his wife Sue to take on the Directorship.</p>
+<p>Wapomeo and Ahmek continued to prosper and expand as campers from Mexico and numerous European countries began making TSC their summer home. For twelve years,  father and son directed Ahmek and Wapomeo until 1988 when Tike and Sue returned to Ahmek and  joined Dr. Tay. Shortly thereafter the mantle was again passed and Tike (a teacher and counsellor in the Toronto public school system) became Director of Camp Ahmek and of the Taylor Statten Camps.</p>
+<p>The Camps, on leased property from the Ontario provincial government, became concerned that their long term lease was nearing expiry. In 2002, after years of negotiations,  Algonquin Park Superintendent, John Winters, quietly announced 60 year lease extensions for all Algonquin Park camps. A flurry of much needed repairs, renewals and additions followed this announcement. At Wapomeo, this included 2 new barges, a spectacular new lodge/theatre facility, a triproom and a refurbished central washroom. At Ahmek new cabins were built along with a state-of-art central washroom complex with solar panels for the production of hot water. A high ropes course was added for the use of both Camps while boardsails and kayaks further expanded programmed activities. A solar system was added to The Outpost and a new barge for transporting supplies across the 8 mile length of Lake Maskinonge was built.  A small house was purchased in Toronto, converted into a Business Office and is presently the Winter office for the camps.</p>
+</div>
+
+                </li>
+                                <li>
+<!-- 					<button type="button" class="accordion-title target">Family Tradition Continues With The Fourth Generation</button>  -->
+                   <h4 class="accordion-title target">Family Tradition Continues With The Fourth Generation</h4> 
+
+                    <div class="accordion-content"><p>After working in the investment industry and spending time abroad earning a Master of Business Administration degree, Taylor IV joined the family business in 2003 as Director of Business Operations.  Today, in his current role as Managing Director, Taylor continues to manage the company’s finances, supervises day to day operations and is President of the Board of Directors.</p>
+</div>
+
+                </li>
+                                <li>
+<!-- 					<button type="button" class="accordion-title target">Fundamentally, TSC Stays True To Values</button>  -->
+                   <h4 class="accordion-title target">Fundamentally, TSC Stays True To Values</h4> 
+
+                    <div class="accordion-content"><p>In recent years, camp has modified some of its ways to accommodate the modern day family lifestyle. Shorter lengths of stay have been created, sparked by a strong lobby from a great number of parents. A two week program, and a Tryout Camp of 4 days for younger girls and boys, have opened up the opportunity for more children to attend TSC.  The <a href="http://www.tscbf.com/" target="_blank" rel="noopener">Taylor Statten Camping Bursary Fund</a>, created and administered by TSC alumni, was set up to assist parents unable to pay the total cost of enrolment. A new ’green’ policy was applied to reduce the environmental impact of the camp and its trips. Moreover, the camps still emphasize individual development, leadership skills, basic core values, and team building -fundamentally the  philosophy espoused by our founder Taylor Statten that has been passed down through four generations. In many ways, TSC indeed remains very much the same.</p>
+</div>
+
+                </li>
+                                <li>
+<!-- 					<button type="button" class="accordion-title target">Wapomeo Is Born</button>  -->
+                   <h4 class="accordion-title target">Wapomeo Is Born</h4> 
+
+                    <div class="accordion-content"><p>Ahmek was so successful that Taylor Statten opened an overnight camp for girls in 1924 to be run by his wife Ethel Statten. It was named “Wapomeo”, after the Ojibway term for birds of sunshine and laughter. Though met with great opposition from their colleagues, Taylor and Ethel Statten insisted that the camp be situated on the island of Little Wapomeo due to its close proximity to Ahmek, in case either camp needed help. This unprecedented idea of a girl’s and boy’s camp on the same lake was not only approved by parents and campers but was also far more efficient. Just like Ahmek, Wapomeo was a great success and offered the same activity programs (though dancing and crafts replaced boxing and wrestling).</p>
+<p>In the following years, the camps continued to grow. At Ahmek, a diving tower with hand-made waterslides, riding stables, and even a great pirate ship were constructed! On Little Wapomeo Island, the dining hall, waterfront, and a large scenic platform used for dancing, were assembled.</p>
+<p>Both Ahmek and Wapomeo built more and more cabins to house the increasing camper population. In 1927, Wapomeo had to expand to another island because Little Wapomeo was becoming overcrowded. Ahmek’s Log Theatre was also built that summer. The massive theatre possessed a perfect stage for theatrical performances, viewed by campers and staff from canoes adrift in the bay.</p>
+</div>
+
+                </li>
+                                <li>
+<!-- 					<button type="button" class="accordion-title target">Ahmek Refuses to Close</button>  -->
+                   <h4 class="accordion-title target">Ahmek Refuses to Close</h4> 
+
+                    <div class="accordion-content"><p>Not more than three days before the campers were to arrive in the summer of 1937, a savage fire burned down the Ahmek dining hall, kitchen, and store house. The fire was eventually extinguished by the modest work crew in camp at the time forming a bucket brigade. Though no one was hurt, the damage done to these fundamental buildings was beyond repair. Taylor Statten acted fast, instantly preparing for a solution to the devastating disaster. He contacted the Ridpath Company to construct 50 wooden tables by hand, rented 300 chairs from the same company, and ordered two circus tents from Scythes and Co. for the dining hall and kitchen. Many people worked day and night to replenish the camp with supplies, and by Saturday (The fire was on Wednesday) camp began on time with the arrival of over 200 campers. Not even the harshest of elements can keep the Taylor Statten Camps from opening every year since 1921!</p>
+<p>Promptly after the first dining hall burnt down, the new dining hall was constructed. Designed by George “Chubby” Chubb, the Ahmek dining hall was finished in the spring of 1938 and stands today as the camp’s focal building. It is complete with two fireplaces, a built-in kitchen, formidable acoustics for musical and theatrical performances, and a very spacious dining area.</p>
+</div>
+
+                </li>
+                                <li>
+<!-- 					<button type="button" class="accordion-title target">TSC Canoe Tripping Program</button>  -->
+                   <h4 class="accordion-title target">TSC Canoe Tripping Program</h4> 
+
+                    <div class="accordion-content"><p>For many years, both Ahmek and Wapomeo campers had become familiar with canoe tripping in Algonquin Park. The trips in Algonquin had been so successful that the interest to travel outside the park arose. The approaching 1967 Centennial of Confederation had the Canadian Camping Association encouraging camps to explore sections of the cross-Canada canoe route travelled by the voyageurs.</p>
+<p>The Quetico region was chosen in 1965 for TSC campers to take a 21 day trip; the first long trip outside of Algonquin Park. The voyage was to begin with a bus ride to North Bay, a train to Quetico, three weeks of tripping, a 15km portage, and end with a 5-day bus trip back to camp. Quetico was a huge success, and has ever since, survived as TSC’s most popular canoe trip.</p>
+</div>
+
+                </li>
+                          </ul>
+          </div>
+
+
+            
+    </div>
+  </div>
+</article>
+	</section>
+
+
+    
+    	</main>
+  
+
+  	<footer class="site-footer" role="contentinfo">
+      <div class="container">
+      <div id="footer-sidebar">
+        <div id="footer-sidebar1" class="column col-2">
+          <h4 class="widget-title">Contact Us</h4>			<div class="textwidget"><p>Taylor Statten Camps<br />
+(416) 486-6959<br />
+<a style="text-decoration: underline;" href="/cdn-cgi/l/email-protection#5d34333b321d293c2431322f2e293c292938333e3c302d2e733e3230"><span class="__cf_email__" data-cfemail="9ef7f0f8f1deeaffe7f2f1ecedeaffeaeafbf0fdfff3eeedb0fdf1f3">[email&#160;protected]</span></a></p>
+<p>Camp Business Office (Summer)<br />
+(705) 633-5573</p>
+</div>
+		<h4 class="widget-title">Summer Camper and Staff Mail</h4>			<div class="textwidget"><p>P.O. Box 10007<br />
+Canoe Lake, Algonquin Park<br />
+Huntsville, Ontario P1H 2H2</p>
+</div>
+		        </div>
+
+      </div>
+
+        <div class="column col-2">
+          
+          <h4>Other Info</h4>
+          <div class="menu-footer-container"><ul id="footer-menu" class="menu"><li id="menu-item-93" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-93"><a href="https://taylorstattencamps.com/overnight-summer-camps/frequently-asked-questions-faq/">Camp FAQ&#8217;s</a></li>
+<li id="menu-item-17564" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17564"><a href="https://taylorstattencamps.com/gallery-2/">Picture Gallery</a></li>
+<li id="menu-item-80" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-80"><a href="https://taylorstattencamps.com/overnight-summer-camps/rates-dates-at-the-taylor-statten-camps/">Rates &#038; Dates</a></li>
+<li id="menu-item-92" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-92"><a href="https://taylorstattencamps.com/blog/">TSC Blog</a></li>
+<li id="menu-item-16678" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16678"><a href="https://taylorstattencamps.com/canoe-lake-echoes/">Canoe Lake Echoes</a></li>
+<li id="menu-item-81" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-81"><a href="https://taylorstattencamps.com/overnight-summer-camps/testimonials-staff-campers-alumni-tsc/">Testimonials</a></li>
+<li id="menu-item-95" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-95"><a href="https://taylorstattencamps.com/feedback-evaluation-forms/">Give Us Feedback</a></li>
+<li id="menu-item-79" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-79"><a href="https://taylorstattencamps.com/policies/">Company Policies</a></li>
+</ul></div>          
+          <div class="associations">
+          <a href="http://www.ontariocampsassociation.ca/" target="_blank"><img src="https://taylorstattencamps.com/wp-content/themes/taylorstattencamps/images/oca.png" alt="Ontario Camps Association" /></a>
+           <a href="http://www.screenme.ca/" target="_blank"><img src="https://taylorstattencamps.com/wp-content/themes/taylorstattencamps/images/sun-safety.png" alt="Sun Safety" /></a>
+          </div>
+<span class="associations2"><a href="http://www.ourkids.net/camp-20th-anniversary/20-camps.php" target="_blank"><img src="https://taylorstattencamps.com/wp-content/themes/taylorstattencamps/images/hall-of-fame-120x150.png" alt="hall-of-fame" /></a></span>
+        </div>
+
+        <div class="column col-2">
+          <ul class="social-links">
+            <li><a href="https://www.facebook.com/taylorstattencamps"><img src="https://taylorstattencamps.com/wp-content/themes/taylorstattencamps/images/social/facebook.png" alt="facebook" /></a></li>
+            <li><a href="https://www.youtube.com/user/taylorstattencamps"><img src="https://taylorstattencamps.com/wp-content/themes/taylorstattencamps/images/social/youtube.png" alt="Youtube" /></a></li>
+            <li><a href="https://www.instagram.com/taylorstattencamps/?hl=en"><img src="https://taylorstattencamps.com/wp-content/themes/taylorstattencamps/images/social/instagram.png" alt="Instagram" /></a></li>
+	   <!-- <li><a href="https://in.pinterest.com/taylorstattencamps/?hl=en"><img src="https://taylorstattencamps.com/wp-content/themes/taylorstattencamps/images/social/pinterest.png" alt="Instagram" /></a></li>-->
+			  <li><a href="https://www.tiktok.com/@taylorstattencamps?_t=8blkSWLLx5x&_r=1"><img src="https://taylorstattencamps.com/wp-content/themes/taylorstattencamps/images/social/tiktok.png" alt="Instagram" /></a></li>
+          </ul>
+          <div class="instagram">
+            
+<div id="sb_instagram"  class="sbi sbi_mob_col_1 sbi_tab_col_2 sbi_col_1" style="padding-bottom: 10px; width: 100%;"	 data-feedid="*1"  data-res="auto" data-cols="1" data-colsmobile="1" data-colstablet="2" data-num="1" data-nummobile="" data-item-padding="5"	 data-shortcode-atts="{}"  data-postid="167" data-locatornonce="7eae046e92" data-imageaspectratio="1:1" data-sbi-flags="favorLocal">
+	
+	<div id="sbi_images"  style="gap: 10px;">
+		<div class="sbi_item sbi_type_carousel sbi_new sbi_transition"
+	id="sbi_17883380469356144" data-date="1771092232">
+	<div class="sbi_photo_wrap">
+		<a class="sbi_photo" href="https://www.instagram.com/p/DUv2lgSCfZO/" target="_blank" rel="noopener nofollow"
+			data-full-res="https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/636713749_18380606515082575_3199507920510463262_n.jpg?stp=dst-jpg_e35_tt6&#038;_nc_cat=105&#038;ccb=7-5&#038;_nc_sid=18de74&#038;efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&#038;_nc_ohc=i1KuaXRfoBkQ7kNvwH2FVYI&#038;_nc_oc=AdlKHmfQ3KRdWjIJJ4-K4Z3HlW9sLNNAOcCV5WSgyvyXzwW_ffJFJSCCurZKzL-vI7E&#038;_nc_zt=23&#038;_nc_ht=scontent-iad3-2.cdninstagram.com&#038;edm=ANo9K5cEAAAA&#038;_nc_gid=Q0ZtjpvA1XICFoCvmaTESg&#038;_nc_tpa=Q5bMBQFqcErdtWecgZl94wD7uiaC4Mb0Ky44kbfkeotJ3-IbM2tsk3Uwnhfu6kuLLQVKYfrK-J7B2zSDqQ&#038;oh=00_Aft8Bu3YMUzPLxDwPtlRlRL-6-MeEPubip49CMHTdgFY2A&#038;oe=69987817"
+			data-img-src-set="{&quot;d&quot;:&quot;https:\/\/scontent-iad3-2.cdninstagram.com\/v\/t51.82787-15\/636713749_18380606515082575_3199507920510463262_n.jpg?stp=dst-jpg_e35_tt6&amp;_nc_cat=105&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&amp;_nc_ohc=i1KuaXRfoBkQ7kNvwH2FVYI&amp;_nc_oc=AdlKHmfQ3KRdWjIJJ4-K4Z3HlW9sLNNAOcCV5WSgyvyXzwW_ffJFJSCCurZKzL-vI7E&amp;_nc_zt=23&amp;_nc_ht=scontent-iad3-2.cdninstagram.com&amp;edm=ANo9K5cEAAAA&amp;_nc_gid=Q0ZtjpvA1XICFoCvmaTESg&amp;_nc_tpa=Q5bMBQFqcErdtWecgZl94wD7uiaC4Mb0Ky44kbfkeotJ3-IbM2tsk3Uwnhfu6kuLLQVKYfrK-J7B2zSDqQ&amp;oh=00_Aft8Bu3YMUzPLxDwPtlRlRL-6-MeEPubip49CMHTdgFY2A&amp;oe=69987817&quot;,&quot;150&quot;:&quot;https:\/\/scontent-iad3-2.cdninstagram.com\/v\/t51.82787-15\/636713749_18380606515082575_3199507920510463262_n.jpg?stp=dst-jpg_e35_tt6&amp;_nc_cat=105&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&amp;_nc_ohc=i1KuaXRfoBkQ7kNvwH2FVYI&amp;_nc_oc=AdlKHmfQ3KRdWjIJJ4-K4Z3HlW9sLNNAOcCV5WSgyvyXzwW_ffJFJSCCurZKzL-vI7E&amp;_nc_zt=23&amp;_nc_ht=scontent-iad3-2.cdninstagram.com&amp;edm=ANo9K5cEAAAA&amp;_nc_gid=Q0ZtjpvA1XICFoCvmaTESg&amp;_nc_tpa=Q5bMBQFqcErdtWecgZl94wD7uiaC4Mb0Ky44kbfkeotJ3-IbM2tsk3Uwnhfu6kuLLQVKYfrK-J7B2zSDqQ&amp;oh=00_Aft8Bu3YMUzPLxDwPtlRlRL-6-MeEPubip49CMHTdgFY2A&amp;oe=69987817&quot;,&quot;320&quot;:&quot;https:\/\/scontent-iad3-2.cdninstagram.com\/v\/t51.82787-15\/636713749_18380606515082575_3199507920510463262_n.jpg?stp=dst-jpg_e35_tt6&amp;_nc_cat=105&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&amp;_nc_ohc=i1KuaXRfoBkQ7kNvwH2FVYI&amp;_nc_oc=AdlKHmfQ3KRdWjIJJ4-K4Z3HlW9sLNNAOcCV5WSgyvyXzwW_ffJFJSCCurZKzL-vI7E&amp;_nc_zt=23&amp;_nc_ht=scontent-iad3-2.cdninstagram.com&amp;edm=ANo9K5cEAAAA&amp;_nc_gid=Q0ZtjpvA1XICFoCvmaTESg&amp;_nc_tpa=Q5bMBQFqcErdtWecgZl94wD7uiaC4Mb0Ky44kbfkeotJ3-IbM2tsk3Uwnhfu6kuLLQVKYfrK-J7B2zSDqQ&amp;oh=00_Aft8Bu3YMUzPLxDwPtlRlRL-6-MeEPubip49CMHTdgFY2A&amp;oe=69987817&quot;,&quot;640&quot;:&quot;https:\/\/scontent-iad3-2.cdninstagram.com\/v\/t51.82787-15\/636713749_18380606515082575_3199507920510463262_n.jpg?stp=dst-jpg_e35_tt6&amp;_nc_cat=105&amp;ccb=7-5&amp;_nc_sid=18de74&amp;efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&amp;_nc_ohc=i1KuaXRfoBkQ7kNvwH2FVYI&amp;_nc_oc=AdlKHmfQ3KRdWjIJJ4-K4Z3HlW9sLNNAOcCV5WSgyvyXzwW_ffJFJSCCurZKzL-vI7E&amp;_nc_zt=23&amp;_nc_ht=scontent-iad3-2.cdninstagram.com&amp;edm=ANo9K5cEAAAA&amp;_nc_gid=Q0ZtjpvA1XICFoCvmaTESg&amp;_nc_tpa=Q5bMBQFqcErdtWecgZl94wD7uiaC4Mb0Ky44kbfkeotJ3-IbM2tsk3Uwnhfu6kuLLQVKYfrK-J7B2zSDqQ&amp;oh=00_Aft8Bu3YMUzPLxDwPtlRlRL-6-MeEPubip49CMHTdgFY2A&amp;oe=69987817&quot;}">
+			<span class="sbi-screenreader">Camp friends are forever friends! Our cabins are q</span>
+			<svg class="svg-inline--fa fa-clone fa-w-16 sbi_lightbox_carousel_icon" aria-hidden="true" aria-label="Clone" data-fa-proƒcessed="" data-prefix="far" data-icon="clone" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+                    <path fill="currentColor" d="M464 0H144c-26.51 0-48 21.49-48 48v48H48c-26.51 0-48 21.49-48 48v320c0 26.51 21.49 48 48 48h320c26.51 0 48-21.49 48-48v-48h48c26.51 0 48-21.49 48-48V48c0-26.51-21.49-48-48-48zM362 464H54a6 6 0 0 1-6-6V150a6 6 0 0 1 6-6h42v224c0 26.51 21.49 48 48 48h224v42a6 6 0 0 1-6 6zm96-96H150a6 6 0 0 1-6-6V54a6 6 0 0 1 6-6h308a6 6 0 0 1 6 6v308a6 6 0 0 1-6 6z"></path>
+                </svg>						<img src="https://taylorstattencamps.com/wp-content/plugins/instagram-feed/img/placeholder.png" alt="Camp friends are forever friends! Our cabins are quickly filling up. Register now to secure your spot.
+🏕️
+Speaking from experience, my camp friends are still my closest friends today. From my early days as a Kiosk camper to now being a proud parent of three Wapomeo campers forming their own lifelong friendships on Canoe Lake, I can say with complete confidence: camp is one of the greatest investments you can make in your child’s growth. @borschke
+🏕️
+A summer on Canoe Lake is one your child will cherish and carry forward for the rest of their lives.
+🏕️
+If you are interested in learning more, please join us this Wednesday for an informational evening at the North Toronto Memorial Community Centre from 7pm to 8pm
+🏕️
+#taylorstattencamps #canoelake #algonquin #cabincrew #cabinmates" aria-hidden="true">
+		</a>
+	</div>
+</div>	</div>
+
+	<div id="sbi_load" >
+
+	
+			<span class="sbi_follow_btn" >
+			<a target="_blank"
+				rel="nofollow noopener"  href="https://www.instagram.com/taylorstattencamps/">
+				<svg class="svg-inline--fa fa-instagram fa-w-14" aria-hidden="true" data-fa-processed="" aria-label="Instagram" data-prefix="fab" data-icon="instagram" role="img" viewBox="0 0 448 512">
+                    <path fill="currentColor" d="M224.1 141c-63.6 0-114.9 51.3-114.9 114.9s51.3 114.9 114.9 114.9S339 319.5 339 255.9 287.7 141 224.1 141zm0 189.6c-41.1 0-74.7-33.5-74.7-74.7s33.5-74.7 74.7-74.7 74.7 33.5 74.7 74.7-33.6 74.7-74.7 74.7zm146.4-194.3c0 14.9-12 26.8-26.8 26.8-14.9 0-26.8-12-26.8-26.8s12-26.8 26.8-26.8 26.8 12 26.8 26.8zm76.1 27.2c-1.7-35.9-9.9-67.7-36.2-93.9-26.2-26.2-58-34.4-93.9-36.2-37-2.1-147.9-2.1-184.9 0-35.8 1.7-67.6 9.9-93.9 36.1s-34.4 58-36.2 93.9c-2.1 37-2.1 147.9 0 184.9 1.7 35.9 9.9 67.7 36.2 93.9s58 34.4 93.9 36.2c37 2.1 147.9 2.1 184.9 0 35.9-1.7 67.7-9.9 93.9-36.2 26.2-26.2 34.4-58 36.2-93.9 2.1-37 2.1-147.8 0-184.8zM398.8 388c-7.8 19.6-22.9 34.7-42.6 42.6-29.5 11.7-99.5 9-132.1 9s-102.7 2.6-132.1-9c-19.6-7.8-34.7-22.9-42.6-42.6-11.7-29.5-9-99.5-9-132.1s-2.6-102.7 9-132.1c7.8-19.6 22.9-34.7 42.6-42.6 29.5-11.7 99.5-9 132.1-9s102.7-2.6 132.1 9c19.6 7.8 34.7 22.9 42.6 42.6 11.7 29.5 9 99.5 9 132.1s2.7 102.7-9 132.1z"></path>
+                </svg>				<span>Follow on Instagram</span>
+			</a>
+		</span>
+	
+</div>
+		<span class="sbi_resized_image_data" data-feed-id="*1"
+		  data-resized="{&quot;17883380469356144&quot;:{&quot;id&quot;:&quot;636713749_18380606515082575_3199507920510463262_n&quot;,&quot;ratio&quot;:&quot;1.00&quot;,&quot;sizes&quot;:{&quot;full&quot;:640,&quot;low&quot;:320,&quot;thumb&quot;:150},&quot;extension&quot;:&quot;.webp&quot;}}">
+	</span>
+	</div>
+
+            <img class="instagram-frame" src="https://taylorstattencamps.com/wp-content/themes/taylorstattencamps/images/instagram-frame.png" alt="TSC&#8217;s History"/>
+          </div>
+        </div>
+
+      </div>
+
+      <p class="copyright">© 2026 The Taylor Statten Camps. All rights reserved.</p>
+
+  	</footer>
+
+
+
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="speculationrules">
+{"prefetch":[{"source":"document","where":{"and":[{"href_matches":"/*"},{"not":{"href_matches":["/wp-*.php","/wp-admin/*","/wp-content/uploads/*","/wp-content/*","/wp-content/plugins/*","/wp-content/themes/taylorstattencamps/*","/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
+</script>
+	<script>
+		// Make element for clicking on mobile
+		let dropDownMenuMobile = document.querySelectorAll("ul#primary-menu .menu-item-has-children");
+		dropDownMenuMobile.forEach((e) => {
+
+			let elementBefore = e.querySelectorAll("ul.sub-menu");
+
+			const element = document.createElement("span");
+			element.classList.add("menu-item-toggle");
+			element.textContent = "+";
+
+			elementBefore.forEach(function(elm) {
+				e.insertBefore(element, elm);
+			});
+
+
+		});
+
+		// make clickable for expanding and collapsing. 
+		jQuery(document).ready(function($) {
+			$(".menu-item-toggle").click(function() {
+				var target = $(this).parent("li").children(".sub-menu");
+				$(target).slideToggle(1000);
+				$(this).toggleClass("into-minus");
+
+				// $("#primary-menu").css("background-color", "#333");
+			});
+
+		});
+	</script>
+
+	<style>
+		@media (max-width:600px) {
+			.main-navigation #primary-menu>li>a {
+				width: 75%;
+			}
+
+			.main-navigation .sub-menu {
+				position: inherit;
+				max-height: initial;
+				left: auto !important;
+				top: auto;
+				visibility: visible;
+				opacity: 1;
+				display: none;
+			}
+
+			.main-navigation .sub-menu:after {
+				content: none;
+			}
+
+			.menu-item-has-children span {
+				color: #fff;
+				right: auto;
+				display: inline-block;
+				height: 45px;
+				width: 45px;
+				text-align: center;
+				line-height: 41px;
+				border: 1px solid #aaa;
+			}
+
+			.menu-item-has-children {
+				position: relative;
+			}
+
+			.resp .site-header{
+				overflow-x: scroll;
+			}
+
+			span.menu-item-toggle.into-minus {
+				transform: rotateZ(45deg);
+				border: none;
+			}
+
+			.main-navigation #primary-menu{
+				z-index: 99;
+				position: relative;
+			}
+			.logo{
+				z-index: 999;
+			}
+			.resp .site-header{
+				min-height: 533px;
+			}
+			
+			.main-navigation .sub-menu{
+				transition:none;
+			}
+		}
+	</style>
+<!-- Instagram Feed JS -->
+<script type="text/javascript">
+var sbiajaxurl = "https://taylorstattencamps.com/wp-admin/admin-ajax.php";
+</script>
+<script type="text/javascript" id="mediaelement-core-js-before">
+/* <![CDATA[ */
+var mejsL10n = {"language":"en","strings":{"mejs.download-file":"Download File","mejs.install-flash":"You are using a browser that does not have Flash player enabled or installed. Please turn on your Flash player plugin or download the latest version from https://get.adobe.com/flashplayer/","mejs.fullscreen":"Fullscreen","mejs.play":"Play","mejs.pause":"Pause","mejs.time-slider":"Time Slider","mejs.time-help-text":"Use Left/Right Arrow keys to advance one second, Up/Down arrows to advance ten seconds.","mejs.live-broadcast":"Live Broadcast","mejs.volume-help-text":"Use Up/Down Arrow keys to increase or decrease volume.","mejs.unmute":"Unmute","mejs.mute":"Mute","mejs.volume-slider":"Volume Slider","mejs.video-player":"Video Player","mejs.audio-player":"Audio Player","mejs.captions-subtitles":"Captions/Subtitles","mejs.captions-chapters":"Chapters","mejs.none":"None","mejs.afrikaans":"Afrikaans","mejs.albanian":"Albanian","mejs.arabic":"Arabic","mejs.belarusian":"Belarusian","mejs.bulgarian":"Bulgarian","mejs.catalan":"Catalan","mejs.chinese":"Chinese","mejs.chinese-simplified":"Chinese (Simplified)","mejs.chinese-traditional":"Chinese (Traditional)","mejs.croatian":"Croatian","mejs.czech":"Czech","mejs.danish":"Danish","mejs.dutch":"Dutch","mejs.english":"English","mejs.estonian":"Estonian","mejs.filipino":"Filipino","mejs.finnish":"Finnish","mejs.french":"French","mejs.galician":"Galician","mejs.german":"German","mejs.greek":"Greek","mejs.haitian-creole":"Haitian Creole","mejs.hebrew":"Hebrew","mejs.hindi":"Hindi","mejs.hungarian":"Hungarian","mejs.icelandic":"Icelandic","mejs.indonesian":"Indonesian","mejs.irish":"Irish","mejs.italian":"Italian","mejs.japanese":"Japanese","mejs.korean":"Korean","mejs.latvian":"Latvian","mejs.lithuanian":"Lithuanian","mejs.macedonian":"Macedonian","mejs.malay":"Malay","mejs.maltese":"Maltese","mejs.norwegian":"Norwegian","mejs.persian":"Persian","mejs.polish":"Polish","mejs.portuguese":"Portuguese","mejs.romanian":"Romanian","mejs.russian":"Russian","mejs.serbian":"Serbian","mejs.slovak":"Slovak","mejs.slovenian":"Slovenian","mejs.spanish":"Spanish","mejs.swahili":"Swahili","mejs.swedish":"Swedish","mejs.tagalog":"Tagalog","mejs.thai":"Thai","mejs.turkish":"Turkish","mejs.ukrainian":"Ukrainian","mejs.vietnamese":"Vietnamese","mejs.welsh":"Welsh","mejs.yiddish":"Yiddish"}};
+//# sourceURL=mediaelement-core-js-before
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://taylorstattencamps.com/wp-includes/js/mediaelement/mediaelement-and-player.min.js?ver=4.2.17" id="mediaelement-core-js"></script>
+<script type="text/javascript" src="https://taylorstattencamps.com/wp-includes/js/mediaelement/mediaelement-migrate.min.js?ver=6.9" id="mediaelement-migrate-js"></script>
+<script type="text/javascript" id="mediaelement-js-extra">
+/* <![CDATA[ */
+var _wpmejsSettings = {"pluginPath":"/wp-includes/js/mediaelement/","classPrefix":"mejs-","stretching":"responsive","audioShortcodeLibrary":"mediaelement","videoShortcodeLibrary":"mediaelement"};
+//# sourceURL=mediaelement-js-extra
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://taylorstattencamps.com/wp-includes/js/mediaelement/wp-mediaelement.min.js?ver=6.9" id="wp-mediaelement-js"></script>
+<script type="text/javascript" src="https://taylorstattencamps.com/wp-includes/js/dist/hooks.min.js?ver=dd5603f07f9220ed27f1" id="wp-hooks-js"></script>
+<script type="text/javascript" src="https://taylorstattencamps.com/wp-includes/js/dist/i18n.min.js?ver=c26c3dc7bed366793375" id="wp-i18n-js"></script>
+<script type="text/javascript" id="wp-i18n-js-after">
+/* <![CDATA[ */
+wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
+//# sourceURL=wp-i18n-js-after
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://taylorstattencamps.com/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=6.1.4" id="swv-js"></script>
+<script type="text/javascript" id="contact-form-7-js-before">
+/* <![CDATA[ */
+var wpcf7 = {
+    "api": {
+        "root": "https:\/\/taylorstattencamps.com\/wp-json\/",
+        "namespace": "contact-form-7\/v1"
+    }
+};
+//# sourceURL=contact-form-7-js-before
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://taylorstattencamps.com/wp-content/plugins/contact-form-7/includes/js/index.js?ver=6.1.4" id="contact-form-7-js"></script>
+<script type="text/javascript" src="https://taylorstattencamps.com/wp-content/themes/taylorstattencamps/js/site.js?ver=20151215" id="taylorstattencamps-site-js"></script>
+<script type="text/javascript" src="https://taylorstattencamps.com/wp-content/themes/taylorstattencamps/js/skip-link-focus-fix.js?ver=20151215" id="taylorstattencamps-skip-link-focus-fix-js"></script>
+<script type="text/javascript" src="https://www.google.com/recaptcha/api.js?render=6LeToFAsAAAAAFZosMl8BqfCguM4WCaMEh_ager0&amp;ver=3.0" id="google-recaptcha-js"></script>
+<script type="text/javascript" src="https://taylorstattencamps.com/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0" id="wp-polyfill-js"></script>
+<script type="text/javascript" id="wpcf7-recaptcha-js-before">
+/* <![CDATA[ */
+var wpcf7_recaptcha = {
+    "sitekey": "6LeToFAsAAAAAFZosMl8BqfCguM4WCaMEh_ager0",
+    "actions": {
+        "homepage": "homepage",
+        "contactform": "contactform"
+    }
+};
+//# sourceURL=wpcf7-recaptcha-js-before
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://taylorstattencamps.com/wp-content/plugins/contact-form-7/modules/recaptcha/index.js?ver=6.1.4" id="wpcf7-recaptcha-js"></script>
+<script type="text/javascript" id="sbi_scripts-js-extra">
+/* <![CDATA[ */
+var sb_instagram_js_options = {"font_method":"svg","resized_url":"https://taylorstattencamps.com/wp-content/uploads/sb-instagram-feed-images/","placeholder":"https://taylorstattencamps.com/wp-content/plugins/instagram-feed/img/placeholder.png","ajax_url":"https://taylorstattencamps.com/wp-admin/admin-ajax.php"};
+//# sourceURL=sbi_scripts-js-extra
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://taylorstattencamps.com/wp-content/plugins/instagram-feed/js/sbi-scripts.min.js?ver=6.10.0" id="sbi_scripts-js"></script>
+<script id="wp-emoji-settings" type="application/json">
+{"baseUrl":"https://s.w.org/images/core/emoji/17.0.2/72x72/","ext":".png","svgUrl":"https://s.w.org/images/core/emoji/17.0.2/svg/","svgExt":".svg","source":{"concatemoji":"https://taylorstattencamps.com/wp-includes/js/wp-emoji-release.min.js?ver=6.9"}}
+</script>
+<script type="module">
+/* <![CDATA[ */
+/*! This file is auto-generated */
+const a=JSON.parse(document.getElementById("wp-emoji-settings").textContent),o=(window._wpemojiSettings=a,"wpEmojiSettingsSupports"),s=["flag","emoji"];function i(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function c(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data);e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0);const a=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data);return t.every((e,t)=>e===a[t])}function p(e,t){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var n=e.getImageData(16,16,1,1);for(let e=0;e<n.data.length;e++)if(0!==n.data[e])return!1;return!0}function u(e,t,n,a){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\udde8\ud83c\uddf6","\ud83c\udde8\u200b\ud83c\uddf6")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!a(e,"\ud83e\u1fac8")}return!1}function f(e,t,n,a){let r;const o=(r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):document.createElement("canvas")).getContext("2d",{willReadFrequently:!0}),s=(o.textBaseline="top",o.font="600 32px Arial",{});return e.forEach(e=>{s[e]=t(o,e,n,a)}),s}function r(e){var t=document.createElement("script");t.src=e,t.defer=!0,document.head.appendChild(t)}a.supports={everything:!0,everythingExceptFlag:!0},new Promise(t=>{let n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),c.toString(),p.toString()].join(",")+"));",a=new Blob([e],{type:"text/javascript"});const r=new Worker(URL.createObjectURL(a),{name:"wpTestEmojiSupports"});return void(r.onmessage=e=>{i(n=e.data),r.terminate(),t(n)})}catch(e){}i(n=f(s,u,c,p))}t(n)}).then(e=>{for(const n in e)a.supports[n]=e[n],a.supports.everything=a.supports.everything&&a.supports[n],"flag"!==n&&(a.supports.everythingExceptFlag=a.supports.everythingExceptFlag&&a.supports[n]);var t;a.supports.everythingExceptFlag=a.supports.everythingExceptFlag&&!a.supports.flag,a.supports.everything||((t=a.source||{}).concatemoji?r(t.concatemoji):t.wpemoji&&t.twemoji&&(r(t.twemoji),r(t.wpemoji)))});
+//# sourceURL=https://taylorstattencamps.com/wp-includes/js/wp-emoji-loader.min.js
+/* ]]> */
+</script>
+      </div>
+<script defer src="https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015" integrity="sha512-ZpsOmlRQV6y907TI0dKBHq9Md29nnaEIPlkf84rnaERnq6zvWvPUqr2ft8M1aS28oN72PdrCzSjY4U6VaAw1EQ==" data-cf-beacon='{"version":"2024.11.0","token":"7794a964a20748f189afc58f80bd2b83","r":1,"server_timing":{"name":{"cfCacheStatus":true,"cfEdge":true,"cfExtPri":true,"cfL4":true,"cfOrigin":true,"cfSpeedBrain":true},"location_startswith":null}}' crossorigin="anonymous"></script>
+</body>
+</html>

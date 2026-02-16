@@ -1,0 +1,513 @@
+<!DOCTYPE html> <html lang="en-CA"> <head> <meta charset="utf-8"> <!-- This website is powered by TYPO3 - inspiring people to share! TYPO3 is a free open source Content Management Framework initially created by Kasper Skaarhoj and licensed under GNU/GPL. TYPO3 is copyright 1998-2026 of Kasper Skaarhoj. Extensions are copyright of their respective owners. Information and contribution at https://typo3.org/ --> <link rel="icon" href="/_assets/6d0d5ec6f1ccc0dcfaf563ce46f08fc8/demo/favicon.ico" type="image/vnd.microsoft.icon"> <title>News  | YMCA</title> <meta http-equiv="x-ua-compatible" content="IE=edge">
+<meta name="generator" content="TYPO3 CMS">
+<meta name="description" content="Stay up to date on the latest news from the YMCA, its initiatives, and social impact in its communities. ">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta property="og:site_name" content="YMCA du Québec">
+<meta property="og:description" content="Stay up to date on the latest news from the YMCA, its initiatives, and social impact in its communities.">
+<meta property="og:url" content="https://www.ymcaquebec.org/en/news">
+<meta property="og:locale" content="en">
+<meta property="og:locale:alternate" content="fr">
+<meta property="og:locale:alternate" content="en">
+<meta property="og:title" content="News  | YMCA">
+<meta name="twitter:description" content="Stay up to date on the latest news from the YMCA, its initiatives, and social impact in its communities.">
+<meta name="twitter:site" content="YMCA du Québec">
+<meta name="twitter:title" content="News  | YMCA">  <link rel="stylesheet" href="/typo3temp/assets/compressed/merged-09d3422fefa635410ce22ad5cce6f86d-min.css?1771261355" media="all">
+     <link rel="alternate" type="application/rss+xml" title="News of the YMCAs of Québec" href="https://www.ymcaquebec.org/en/rss.xml" />            <!-- Google Tag Manager -->
+            <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+            new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+            j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+            'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+            })(window,document,'script','dataLayer','GTM-K73762');</script>
+            <!-- End Google Tag Manager --><!-- Page uid:10-->
+<link rel="canonical" href="https://www.ymcaquebec.org/en/news">
+
+<link rel="alternate" hreflang="fr-CA" href="https://www.ymcaquebec.org/fr/nouvelles">
+<link rel="alternate" hreflang="en-CA" href="https://www.ymcaquebec.org/en/news">
+<link rel="alternate" hreflang="x-default" href="https://www.ymcaquebec.org/fr/nouvelles"> </head> <body> <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-K73762" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript> <a href="#primary-nav" class="skip-menu-link visuallyhidden">Skip to menu</a> <a href="#main-content" class="skip-content-link visuallyhidden">Skip to content</a> <header class="page-header"> <div class="alerts"> </div> <nav class="nav-secondary-desktop"> <div class="grid-container fluid"> <ul> <li> <a href="/en/about" class="nav-secondary-element"> About </a> </li> <li> <a href="/en/register" class="nav-secondary-element"> Sign In | Register </a> </li> <li> <a href="/en/contact" class="nav-secondary-element"> Contact </a> </li> <li> <a href="/en/foundation" class="nav-secondary-element"> Foundation </a> </li> <li> <a href="https://ymcaquebec.akaraisin.com/ui/supportyoury" target="_blank" rel="noreferrer" class="nav-secondary-element tab"> Donate Now <span class="icon-wrapper icon-heart-wrapper"><svg width="24" height="13" class="icon-heart" role="img" aria-label=""> <use xlink:href="/_assets/6d0d5ec6f1ccc0dcfaf563ce46f08fc8/Assets/svg/symbols.svg?1770901869#heart"></use> </svg></span> </a> </li> <li> <a href="/fr/nouvelles" lang="fr-CA" hreflang="fr-CA" class="nav-secondary-element"> FR </a> </li> </ul> </div> </nav> <nav class="nav-utilities-desktop"> <div class="grid-container fluid"> <a href="/en" class="nav-logo"> <span class="icon-wrapper logo-wrapper"> <img src="/_assets/6d0d5ec6f1ccc0dcfaf563ce46f08fc8/Assets/svg/originals/ymca-logo-en.svg?1770901869" alt="Logo of the YMCAs of Québec" width="150" height="72"/> </span> </a> <form action="/en/search" class="header-search-form" id="header-search-form" data-suggest="/en/search?type=7384" > <div class="search tx-solr-autocomplete"> <div class="search-hero-field"> <input class="search-input tx-solr-suggest" type="search" name="q" aria-label="Search" placeholder="Search" tabindex="0"> <button class="search-icon" type="submit"> <span class="icon-wrapper icon-search-wrapper"><svg width="24" height="24" class="icon-search" role="img" aria-label=""> <use xlink:href="/_assets/6d0d5ec6f1ccc0dcfaf563ce46f08fc8/Assets/svg/symbols.svg?1770901869#search"></use> </svg></span> <span class="visuallyhidden">Search</span> </button> </div> </div> </form> <div class="nav-utilities-ctas"> <a href="/en/programming" class="button secondary"> Programming  <span class="icon-wrapper icon-calendar-wrapper"><svg width="18" height="20" class="icon-calendar" role="img" aria-label=""> <use xlink:href="/_assets/6d0d5ec6f1ccc0dcfaf563ce46f08fc8/Assets/svg/symbols.svg?1770901869#calendar"></use> </svg></span> </a> <a href="/en/find-a-y" class="button primary"> Find a location <span class="icon-wrapper icon-pin-wrapper"><svg width="18" height="20" class="icon-pin" role="img" aria-label=""> <use xlink:href="/_assets/6d0d5ec6f1ccc0dcfaf563ce46f08fc8/Assets/svg/symbols.svg?1770901869#pin"></use> </svg></span> </a> </div> </div> </nav> <nav id="primary-nav" class="nav-primary-desktop"> <div class="grid-container fluid nav-primary-menu"> <ul> <li class="nav-primary-menu-item has-submenu"> <button type="button" class="nav-primary-element" aria-expanded="false">Gym &amp; Swim <span class="icon-wrapper icon-chevron-down-wrapper"><svg width="24" height="24" class="icon-chevron-down" role="img" aria-label=""> <use xlink:href="/_assets/6d0d5ec6f1ccc0dcfaf563ce46f08fc8/Assets/svg/symbols.svg?1770901869#chevron-down"></use> </svg></span></button> <div class="mega-menu-wrapper" aria-hidden="true"> <div class="grid-container full"> <div class="mega-menu-sections"> <div class="mega-menu-sections"> <div class="mega-menu-section mega-menu-cards"> <a href="/en/membership" class="mega-menu-card theme-red"> <p class="mega-menu-card-title">20% off your first 3 months</p> <p>Move at your own pace with our 3 membership plans.</p> <span class="cta-card"><span class="icon-wrapper icon-arrow-right-wrapper"><svg width="24" height="24" class="icon-arrow-right" role="img" aria-label=""> <use xlink:href="/_assets/6d0d5ec6f1ccc0dcfaf563ce46f08fc8/Assets/svg/symbols.svg?1770901869#arrow-right"></use> </svg></span></span> </a> </div> <div class="mega-menu-section"> <p class="mega-menu-section-title" aria-hidden="true">Physical activities</p> <ul aria-label="Physical activities"> <li> <a href="/en/gym">Gym</a> </li> <li> <a href="/en/sports/fitness-classes">Group Fitness Classes</a> </li> <li> <a href="/en/sports/personal-training">Personal Training</a> </li> <li> <a href="/en/sports/gym-sports">Activities and sports in the gym</a> </li> <li> <a href="/en/sports/kids">Kids Sports</a> </li> <li> <a href="/en/sports/tennis-victoria">Victoria Tennis (Québec)</a> </li> </ul> </div> <div class="mega-menu-section"> <p class="mega-menu-section-title" aria-hidden="true">Aquatic activities</p> <ul aria-label="Aquatic activities"> <li> <a href="/en/pool">Pool</a> </li> <li> <a href="/en/pool/swimming-lessons-kids">Swimming Lessons for Children</a> </li> <li> <a href="/en/pool/swimming-lessons-adult">Swimming Lessons for Adults</a> </li> <li> <a href="/en/pool/aquafit-classes">Aquafit Classes</a> </li> <li> <a href="/en/pool/open-swim-lane">Lane Swim &amp; Free Swim</a> </li> <li> <a href="/en/certifications/swimming">Lifeguard Program</a> </li> </ul> </div> <div class="mega-menu-section"> <p class="mega-menu-section-title" aria-hidden="true">Become a member</p> <ul aria-label="Become a member"> <li> <a href="/en/membership">Membership</a> </li> </ul> </div> </div> </div> </div> </div> </li> <li class="nav-primary-menu-item has-submenu"> <button type="button" class="nav-primary-element" aria-expanded="false">Summer Camp <span class="icon-wrapper icon-chevron-down-wrapper"><svg width="24" height="24" class="icon-chevron-down" role="img" aria-label=""> <use xlink:href="/_assets/6d0d5ec6f1ccc0dcfaf563ce46f08fc8/Assets/svg/symbols.svg?1770901869#chevron-down"></use> </svg></span></button> <div class="mega-menu-wrapper" aria-hidden="true"> <div class="grid-container full"> <div class="mega-menu-sections"> <div class="mega-menu-sections"> <div class="mega-menu-section mega-menu-cards"> <a href="/en/summer-camp-kanawana/programs" class="mega-menu-card theme-eden"> <p class="mega-menu-card-title">Find a Summer Camp</p> <p>Registration open. Give the gift of an immersive nature experience at Kanawana. Expect adventure, campfires and memories to be cherished!</p> <span class="cta-card"><span class="icon-wrapper icon-arrow-right-wrapper"><svg width="24" height="24" class="icon-arrow-right" role="img" aria-label=""> <use xlink:href="/_assets/6d0d5ec6f1ccc0dcfaf563ce46f08fc8/Assets/svg/symbols.svg?1770901869#arrow-right"></use> </svg></span></span> </a> </div> <div class="mega-menu-section"> <p class="mega-menu-section-title" aria-hidden="true">Summer camp</p> <ul aria-label="Summer camp"> <li> <a href="/en/summer-camp-kanawana">Discover Kanawana</a> </li> <li> <a href="/en/summer-camp-kanawana/programs">Find a Summer Camp</a> </li> <li> <a href="/en/summer-camp-kanawana/facilities">Facilities</a> </li> <li> <a href="/en/summer-camp-kanawana/international-campers">International Experience</a> </li> <li> <a href="/en/summer-camp-kanawana/history">The Kanawana Story</a> </li> <li> <a href="/en/summer-camp-kanawana/alumni">Kanawana Alumni</a> </li> </ul> </div> <div class="mega-menu-section"> <p class="mega-menu-section-title" aria-hidden="true">Accomodations &amp; Activities</p> <ul aria-label="Accomodations &amp; Activities"> <li> <a href="/en/summer-camp-kanawana/family-activities">Family, School and Corporate Activities</a> </li> <li> <a href="/en/summer-camp-kanawana/lodging-equipment-rental">Lodging &amp; Equipment Rental</a> </li> </ul> </div> </div> </div> </div> </div> </li> <li class="nav-primary-menu-item has-submenu"> <button type="button" class="nav-primary-element" aria-expanded="false">Youth Programming <span class="icon-wrapper icon-chevron-down-wrapper"><svg width="24" height="24" class="icon-chevron-down" role="img" aria-label=""> <use xlink:href="/_assets/6d0d5ec6f1ccc0dcfaf563ce46f08fc8/Assets/svg/symbols.svg?1770901869#chevron-down"></use> </svg></span></button> <div class="mega-menu-wrapper" aria-hidden="true"> <div class="grid-container full"> <div class="mega-menu-sections"> <div class="mega-menu-sections"> <div class="mega-menu-section mega-menu-cards"> <a href="/en/youth" class="mega-menu-card theme-violet"> <p class="mega-menu-card-title">Discover our youth initiatives</p> <p>Our youth initiatives support young people’s development, confidence, and active participation in their community. </p> <span class="cta-card"><span class="icon-wrapper icon-arrow-right-wrapper"><svg width="24" height="24" class="icon-arrow-right" role="img" aria-label=""> <use xlink:href="/_assets/6d0d5ec6f1ccc0dcfaf563ce46f08fc8/Assets/svg/symbols.svg?1770901869#arrow-right"></use> </svg></span></span> </a> </div> <div class="mega-menu-section"> <p class="mega-menu-section-title" aria-hidden="true">Intervention &amp; prevention</p> <ul aria-label="Intervention &amp; prevention"> <li> <a href="/en/youth/intervention-prevention/supervised-access-rights">Supervised Access Rights</a> </li> <li> <a href="/en/youth/intervention-prevention/orientation">Succeeding with Pivot</a> </li> <li> <a href="/en/youth/intervention-prevention/addiction">Addiction Prevention</a> </li> </ul> <p class="mega-menu-section-title" aria-hidden="true">School success</p> <ul aria-label="School success"> <li> <a href="/en/youth/school-support/pathways-to-education">Pathways to Education</a> </li> <li> <a href="/en/youth/school-support/school-family-community">Support for Families</a> </li> <li> <a href="https://www.backontrack-ymca.org" target="_blank" rel="noreferrer">School dropout prevention</a> </li> <li> <a href="/en/youth/school-support/primary-secondary-transition">Primary-Secondary Transition</a> </li> </ul> </div> <div class="mega-menu-section"> <p class="mega-menu-section-title" aria-hidden="true">Engagement &amp; leadership</p> <ul aria-label="Engagement &amp; leadership"> <li> <a href="/en/youth/leadership-engagement/environmental-engagement">Environmental Leadership – C-Vert</a> </li> <li> <a href="/en/youth/leadership-engagement/coop-cafe">Coop Cafés</a> </li> <li> <a href="/en/youth/leadership-engagement/budgeting">Financial Literacy</a> </li> </ul> <a href="/en/youth/leadership-engagement" class="cta-see-all"> See all <span class="icon-wrapper icon-plus-wrapper"><svg width="16" height="16" class="icon-plus" role="img" aria-label=""> <use xlink:href="/_assets/6d0d5ec6f1ccc0dcfaf563ce46f08fc8/Assets/svg/symbols.svg?1770901869#plus"></use> </svg></span> </a> <p class="mega-menu-section-title" aria-hidden="true">Sports &amp; wellness</p> <ul aria-label="Sports &amp; wellness"> <li> <a href="/en/youth/y-mind">Mental Wellness</a> </li> <li> <a href="/en/pool/swimming-lessons-kids">Swimming Lessons for Children</a> </li> <li> <a href="/en/sports/kids">Kids Sports</a> </li> </ul> </div> <div class="mega-menu-section"> <p class="mega-menu-section-title" aria-hidden="true">Cultural exchanges</p> <ul aria-label="Cultural exchanges"> <li> <a href="/en/youth/welcome-newcomers">Welcome for Newcomers</a> </li> </ul> <p class="mega-menu-section-title" aria-hidden="true">TeenZones</p> <ul aria-label="TeenZones"> <li> <a href="/en/youth/teenzones">Find a TeenZone</a> </li> </ul> </div> </div> </div> </div> </div> </li> <li class="nav-primary-menu-item has-submenu"> <button type="button" class="nav-primary-element" aria-expanded="false">Certifications <span class="icon-wrapper icon-chevron-down-wrapper"><svg width="24" height="24" class="icon-chevron-down" role="img" aria-label=""> <use xlink:href="/_assets/6d0d5ec6f1ccc0dcfaf563ce46f08fc8/Assets/svg/symbols.svg?1770901869#chevron-down"></use> </svg></span></button> <div class="mega-menu-wrapper" aria-hidden="true"> <div class="grid-container full"> <div class="mega-menu-sections"> <div class="mega-menu-sections"> <div class="mega-menu-section mega-menu-cards"> <a href="/en/certifications" class="mega-menu-card theme-cobalt"> <p class="mega-menu-card-title">Explore our training programs</p> <p>Obtain recognized certifications in fitness training, aquatics or first aid.</p> <span class="cta-card"><span class="icon-wrapper icon-arrow-right-wrapper"><svg width="24" height="24" class="icon-arrow-right" role="img" aria-label=""> <use xlink:href="/_assets/6d0d5ec6f1ccc0dcfaf563ce46f08fc8/Assets/svg/symbols.svg?1770901869#arrow-right"></use> </svg></span></span> </a> </div> <div class="mega-menu-section"> <p class="mega-menu-section-title" aria-hidden="true">Fitness certifications</p> <ul aria-label="Fitness certifications"> <li> <a href="/en/certifications/fitness/private-trainer">Personal Training</a> </li> <li> <a href="/en/certifications/fitness/group-fitness-instructor">Group Training</a> </li> <li> <a href="/en/certifications/fitness/training-older-adults">Training for Older Adults</a> </li> <li> <a href="/en/certifications/fitness/aqua-fitness">Aquafit</a> </li> <li> <a href="/en/certifications/fitness/continuing-education">Continuing Education</a> </li> </ul> <a href="/en/certifications/fitness" class="cta-see-all"> See all <span class="icon-wrapper icon-plus-wrapper"><svg width="16" height="16" class="icon-plus" role="img" aria-label=""> <use xlink:href="/_assets/6d0d5ec6f1ccc0dcfaf563ce46f08fc8/Assets/svg/symbols.svg?1770901869#plus"></use> </svg></span> </a> </div> <div class="mega-menu-section"> <p class="mega-menu-section-title" aria-hidden="true">Aquatic and First aid certifications</p> <ul aria-label="Aquatic and First aid certifications"> <li> <a href="/en/certifications/swimming">Lifeguard Program</a> </li> <li> <a href="/en/certifications/first-aid">CPR and First Aid</a> </li> </ul> </div> </div> </div> </div> </div> </li> <li class="nav-primary-menu-item has-submenu"> <button type="button" class="nav-primary-element" aria-expanded="false">Community Support <span class="icon-wrapper icon-chevron-down-wrapper"><svg width="24" height="24" class="icon-chevron-down" role="img" aria-label=""> <use xlink:href="/_assets/6d0d5ec6f1ccc0dcfaf563ce46f08fc8/Assets/svg/symbols.svg?1770901869#chevron-down"></use> </svg></span></button> <div class="mega-menu-wrapper" aria-hidden="true"> <div class="grid-container full"> <div class="mega-menu-sections"> <div class="mega-menu-sections"> <div class="mega-menu-section mega-menu-cards"> <a href="/en/support-programs" class="mega-menu-card theme-violet"> <p class="mega-menu-card-title">Explore our assistance programs</p> <p>Welcome. Support. Guide. Explore our services for people facing hardship, undergoing a transition, or seeking greater stability.</p> <span class="cta-card"><span class="icon-wrapper icon-arrow-right-wrapper"><svg width="24" height="24" class="icon-arrow-right" role="img" aria-label=""> <use xlink:href="/_assets/6d0d5ec6f1ccc0dcfaf563ce46f08fc8/Assets/svg/symbols.svg?1770901869#arrow-right"></use> </svg></span></span> </a> </div> <div class="mega-menu-section"> <p class="mega-menu-section-title" aria-hidden="true">Re-entering the community</p> <ul aria-label="Re-entering the community"> <li> <a href="/en/support-programs/social-reintegration/post-detention">Social Reintegration</a> </li> <li> <a href="/en/support-programs/social-reintegration/compensatory-work">Compensatory Work</a> </li> <li> <a href="/en/support-programs/social-reintegration/job-search-assistance">Job Search Assistance</a> </li> <li> <a href="/en/support-programs/social-reintegration/tapaj-quebec">Day Work Opportunities</a> </li> </ul> <a href="/en/support-programs/social-reintegration" class="cta-see-all"> See all <span class="icon-wrapper icon-plus-wrapper"><svg width="16" height="16" class="icon-plus" role="img" aria-label=""> <use xlink:href="/_assets/6d0d5ec6f1ccc0dcfaf563ce46f08fc8/Assets/svg/symbols.svg?1770901869#plus"></use> </svg></span> </a> </div> <div class="mega-menu-section"> <p class="mega-menu-section-title" aria-hidden="true">Outreach work</p> <ul aria-label="Outreach work"> <li> <a href="/en/support-programs/homelessness/dialogue">In the Street</a> </li> <li> <a href="/en/support-programs/homelessness/yul">At YUL Montréal-Trudeau</a> </li> <li> <a href="/en/support-programs/homelessness/planning-for-prison-release">Planning for Prison Release</a> </li> </ul> <a href="/en/support-programs/homelessness" class="cta-see-all"> See all <span class="icon-wrapper icon-plus-wrapper"><svg width="16" height="16" class="icon-plus" role="img" aria-label=""> <use xlink:href="/_assets/6d0d5ec6f1ccc0dcfaf563ce46f08fc8/Assets/svg/symbols.svg?1770901869#plus"></use> </svg></span> </a> </div> <div class="mega-menu-section"> <p class="mega-menu-section-title" aria-hidden="true">Temporary housing</p> <ul aria-label="Temporary housing"> <li> <a href="/en/support-programs/housing">Tupper YMCA residence</a> </li> <li> <a href="/en/support-programs/housing">Port-Royal YMCA residence</a> </li> </ul> </div> </div> </div> </div> </div> </li> </ul> </div> </nav> <nav class="nav-mobile"> <div class="grid-container"> <div class="nav-mobile-header"> <button type="button" class="mobile-menu-btn"> <span class="mobile-menu-icon"> <span class="bar"></span> <span class="bar"></span> <span class="label"><span class="icon-wrapper icon-label-menu-wrapper"><svg width="26" height="7" class="icon-label-menu" role="img" aria-label=""> <use xlink:href="/_assets/6d0d5ec6f1ccc0dcfaf563ce46f08fc8/Assets/svg/symbols.svg?1770901869#label-menu"></use> </svg></span></span> </span> <span class="visuallyhidden">Ouvrir le menu</span> </button> <a href="/en" class="nav-mobile-logo"> <span class="icon-wrapper logo-wrapper"> <img src="/_assets/6d0d5ec6f1ccc0dcfaf563ce46f08fc8/Assets/svg/originals/ymca-logo-en.svg?1770901869" alt="Logo of the YMCAs of Québec" width="150" height="72"/> </span> <span class="visuallyhidden">YMCA</span> </a> <div class="nav-mobile-header-actions"> <button type="submit" class="btn-search-panel" aria-expanded="false" aria-controls="search-panel"> <span class="visuallyhidden"> </span> <span class="icon-wrapper icon-search-wrapper"><svg width="20" height="20" class="icon-search" role="img" aria-label=""> <use xlink:href="/_assets/6d0d5ec6f1ccc0dcfaf563ce46f08fc8/Assets/svg/symbols.svg?1770901869#search"></use> </svg></span> </button> <a href="/fr/nouvelles" lang="fr-CA" hreflang="fr-CA" class="btn-lang"> FR </a> </div> </div> <div class="nav-mobile-panel" id="nav-mobile"> <div class="utilities-ctas"> <a href="/en/programming" class="button secondary"> Programming  <span class="icon-wrapper icon-calendar-wrapper"><svg width="18" height="20" class="icon-calendar" role="img" aria-label=""> <use xlink:href="/_assets/6d0d5ec6f1ccc0dcfaf563ce46f08fc8/Assets/svg/symbols.svg?1770901869#calendar"></use> </svg></span> </a> <a href="/en/find-a-y" class="button primary"> Find a location <span class="icon-wrapper icon-pin-wrapper"><svg width="18" height="20" class="icon-pin" role="img" aria-label=""> <use xlink:href="/_assets/6d0d5ec6f1ccc0dcfaf563ce46f08fc8/Assets/svg/symbols.svg?1770901869#pin"></use> </svg></span> </a> </div> <nav class="nav-mobile-wrapper"> <div class="nav-mobile-menu"> <ul class="nav-mobile-menu-list"> <li class="nav-mobile-menu-item"> <button class="nav-mobile-menu-btn" aria-expanded="false">Gym &amp; Swim<span class="icon-wrapper icon-arrow-right-wrapper"><svg width="24" height="24" class="icon-arrow-right" role="img" aria-label=""> <use xlink:href="/_assets/6d0d5ec6f1ccc0dcfaf563ce46f08fc8/Assets/svg/symbols.svg?1770901869#arrow-right"></use> </svg></span></button> <div class="main-nav-mobile-submenu" aria-hidden="true"> <button class="nav-mobile-submenu-back"><span class="icon-wrapper icon-chevron-left-wrapper"><svg width="24" height="24" class="icon-chevron-left" role="img" aria-label=""> <use xlink:href="/_assets/6d0d5ec6f1ccc0dcfaf563ce46f08fc8/Assets/svg/symbols.svg?1770901869#chevron-left"></use> </svg></span> <span class="visuallyhidden">Retour au </span>Gym &amp; Swim</button> <a href="/en/membership" class="nav-menu-card theme-red"> <p class="nav-menu-card-title">20% off your first 3 months</p> <p>Move at your own pace with our 3 membership plans.</p> <span class="cta-card"><span class="icon-wrapper icon-arrow-right-wrapper"><svg width="24" height="24" class="icon-arrow-right" role="img" aria-label=""> <use xlink:href="/_assets/6d0d5ec6f1ccc0dcfaf563ce46f08fc8/Assets/svg/symbols.svg?1770901869#arrow-right"></use> </svg></span></span> </a> <div class="nav-mobile-menu-submenu-panel"> <p class="nav-mobile-menu-submenu-title">Physical activities</p> <ul class="nav-mobile-menu-submenu-list" aria-label="Physical activities"> <li> <a href="/en/gym">Gym</a> </li> <li> <a href="/en/sports/fitness-classes">Group Fitness Classes</a> </li> <li> <a href="/en/sports/personal-training">Personal Training</a> </li> <li> <a href="/en/sports/gym-sports">Activities and sports in the gym</a> </li> <li> <a href="/en/sports/kids">Kids Sports</a> </li> <li> <a href="/en/sports/tennis-victoria">Victoria Tennis (Québec)</a> </li> </ul> </div> <div class="nav-mobile-menu-submenu-panel"> <p class="nav-mobile-menu-submenu-title">Aquatic activities</p> <ul class="nav-mobile-menu-submenu-list" aria-label="Aquatic activities"> <li> <a href="/en/pool">Pool</a> </li> <li> <a href="/en/pool/swimming-lessons-kids">Swimming Lessons for Children</a> </li> <li> <a href="/en/pool/swimming-lessons-adult">Swimming Lessons for Adults</a> </li> <li> <a href="/en/pool/aquafit-classes">Aquafit Classes</a> </li> <li> <a href="/en/pool/open-swim-lane">Lane Swim &amp; Free Swim</a> </li> <li> <a href="/en/certifications/swimming">Lifeguard Program</a> </li> </ul> </div> <div class="nav-mobile-menu-submenu-panel"> <p class="nav-mobile-menu-submenu-title">Become a member</p> <ul class="nav-mobile-menu-submenu-list" aria-label="Become a member"> <li> <a href="/en/membership">Membership</a> </li> </ul> </div> </div> </li> <li class="nav-mobile-menu-item"> <button class="nav-mobile-menu-btn" aria-expanded="false">Summer Camp<span class="icon-wrapper icon-arrow-right-wrapper"><svg width="24" height="24" class="icon-arrow-right" role="img" aria-label=""> <use xlink:href="/_assets/6d0d5ec6f1ccc0dcfaf563ce46f08fc8/Assets/svg/symbols.svg?1770901869#arrow-right"></use> </svg></span></button> <div class="main-nav-mobile-submenu" aria-hidden="true"> <button class="nav-mobile-submenu-back"><span class="icon-wrapper icon-chevron-left-wrapper"><svg width="24" height="24" class="icon-chevron-left" role="img" aria-label=""> <use xlink:href="/_assets/6d0d5ec6f1ccc0dcfaf563ce46f08fc8/Assets/svg/symbols.svg?1770901869#chevron-left"></use> </svg></span> <span class="visuallyhidden">Retour au </span>Summer Camp</button> <a href="/en/summer-camp-kanawana/programs" class="nav-menu-card theme-eden"> <p class="nav-menu-card-title">Find a Summer Camp</p> <p>Registration open. Give the gift of an immersive nature experience at Kanawana. Expect adventure, campfires and memories to be cherished!</p> <span class="cta-card"><span class="icon-wrapper icon-arrow-right-wrapper"><svg width="24" height="24" class="icon-arrow-right" role="img" aria-label=""> <use xlink:href="/_assets/6d0d5ec6f1ccc0dcfaf563ce46f08fc8/Assets/svg/symbols.svg?1770901869#arrow-right"></use> </svg></span></span> </a> <div class="nav-mobile-menu-submenu-panel"> <p class="nav-mobile-menu-submenu-title">Summer camp</p> <ul class="nav-mobile-menu-submenu-list" aria-label="Summer camp"> <li> <a href="/en/summer-camp-kanawana">Discover Kanawana</a> </li> <li> <a href="/en/summer-camp-kanawana/programs">Find a Summer Camp</a> </li> <li> <a href="/en/summer-camp-kanawana/facilities">Facilities</a> </li> <li> <a href="/en/summer-camp-kanawana/international-campers">International Experience</a> </li> <li> <a href="/en/summer-camp-kanawana/history">The Kanawana Story</a> </li> <li> <a href="/en/summer-camp-kanawana/alumni">Kanawana Alumni</a> </li> </ul> </div> <div class="nav-mobile-menu-submenu-panel"> <p class="nav-mobile-menu-submenu-title">Accomodations &amp; Activities</p> <ul class="nav-mobile-menu-submenu-list" aria-label="Accomodations &amp; Activities"> <li> <a href="/en/summer-camp-kanawana/family-activities">Family, School and Corporate Activities</a> </li> <li> <a href="/en/summer-camp-kanawana/lodging-equipment-rental">Lodging &amp; Equipment Rental</a> </li> </ul> </div> </div> </li> <li class="nav-mobile-menu-item"> <button class="nav-mobile-menu-btn" aria-expanded="false">Youth Programming<span class="icon-wrapper icon-arrow-right-wrapper"><svg width="24" height="24" class="icon-arrow-right" role="img" aria-label=""> <use xlink:href="/_assets/6d0d5ec6f1ccc0dcfaf563ce46f08fc8/Assets/svg/symbols.svg?1770901869#arrow-right"></use> </svg></span></button> <div class="main-nav-mobile-submenu" aria-hidden="true"> <button class="nav-mobile-submenu-back"><span class="icon-wrapper icon-chevron-left-wrapper"><svg width="24" height="24" class="icon-chevron-left" role="img" aria-label=""> <use xlink:href="/_assets/6d0d5ec6f1ccc0dcfaf563ce46f08fc8/Assets/svg/symbols.svg?1770901869#chevron-left"></use> </svg></span> <span class="visuallyhidden">Retour au </span>Youth Programming</button> <a href="/en/youth" class="nav-menu-card theme-violet"> <p class="nav-menu-card-title">Discover our youth initiatives</p> <p>Our youth initiatives support young people’s development, confidence, and active participation in their community. </p> <span class="cta-card"><span class="icon-wrapper icon-arrow-right-wrapper"><svg width="24" height="24" class="icon-arrow-right" role="img" aria-label=""> <use xlink:href="/_assets/6d0d5ec6f1ccc0dcfaf563ce46f08fc8/Assets/svg/symbols.svg?1770901869#arrow-right"></use> </svg></span></span> </a> <div class="nav-mobile-menu-submenu-panel"> <p class="nav-mobile-menu-submenu-title">Intervention &amp; prevention</p> <ul class="nav-mobile-menu-submenu-list" aria-label="Intervention &amp; prevention"> <li> <a href="/en/youth/intervention-prevention/supervised-access-rights">Supervised Access Rights</a> </li> <li> <a href="/en/youth/intervention-prevention/orientation">Succeeding with Pivot</a> </li> <li> <a href="/en/youth/intervention-prevention/addiction">Addiction Prevention</a> </li> </ul> <p class="nav-mobile-menu-submenu-title">School success</p> <ul class="nav-mobile-menu-submenu-list" aria-label="School success"> <li> <a href="/en/youth/school-support/pathways-to-education">Pathways to Education</a> </li> <li> <a href="/en/youth/school-support/school-family-community">Support for Families</a> </li> <li> <a href="https://www.backontrack-ymca.org" target="_blank" rel="noreferrer">School dropout prevention</a> </li> <li> <a href="/en/youth/school-support/primary-secondary-transition">Primary-Secondary Transition</a> </li> </ul> </div> <div class="nav-mobile-menu-submenu-panel"> <p class="nav-mobile-menu-submenu-title">Engagement &amp; leadership</p> <ul class="nav-mobile-menu-submenu-list" aria-label="Engagement &amp; leadership"> <li> <a href="/en/youth/leadership-engagement/environmental-engagement">Environmental Leadership – C-Vert</a> </li> <li> <a href="/en/youth/leadership-engagement/coop-cafe">Coop Cafés</a> </li> <li> <a href="/en/youth/leadership-engagement/budgeting">Financial Literacy</a> </li> </ul> <a href="/en/youth/leadership-engagement" class="cta-see-all"> See all <span class="icon-wrapper icon-plus-wrapper"><svg width="16" height="16" class="icon-plus" role="img" aria-label=""> <use xlink:href="/_assets/6d0d5ec6f1ccc0dcfaf563ce46f08fc8/Assets/svg/symbols.svg?1770901869#plus"></use> </svg></span> </a> <p class="nav-mobile-menu-submenu-title">Sports &amp; wellness</p> <ul class="nav-mobile-menu-submenu-list" aria-label="Sports &amp; wellness"> <li> <a href="/en/youth/y-mind">Mental Wellness</a> </li> <li> <a href="/en/pool/swimming-lessons-kids">Swimming Lessons for Children</a> </li> <li> <a href="/en/sports/kids">Kids Sports</a> </li> </ul> </div> <div class="nav-mobile-menu-submenu-panel"> <p class="nav-mobile-menu-submenu-title">Cultural exchanges</p> <ul class="nav-mobile-menu-submenu-list" aria-label="Cultural exchanges"> <li> <a href="/en/youth/welcome-newcomers">Welcome for Newcomers</a> </li> </ul> <p class="nav-mobile-menu-submenu-title">TeenZones</p> <ul class="nav-mobile-menu-submenu-list" aria-label="TeenZones"> <li> <a href="/en/youth/teenzones">Find a TeenZone</a> </li> </ul> </div> </div> </li> <li class="nav-mobile-menu-item"> <button class="nav-mobile-menu-btn" aria-expanded="false">Certifications<span class="icon-wrapper icon-arrow-right-wrapper"><svg width="24" height="24" class="icon-arrow-right" role="img" aria-label=""> <use xlink:href="/_assets/6d0d5ec6f1ccc0dcfaf563ce46f08fc8/Assets/svg/symbols.svg?1770901869#arrow-right"></use> </svg></span></button> <div class="main-nav-mobile-submenu" aria-hidden="true"> <button class="nav-mobile-submenu-back"><span class="icon-wrapper icon-chevron-left-wrapper"><svg width="24" height="24" class="icon-chevron-left" role="img" aria-label=""> <use xlink:href="/_assets/6d0d5ec6f1ccc0dcfaf563ce46f08fc8/Assets/svg/symbols.svg?1770901869#chevron-left"></use> </svg></span> <span class="visuallyhidden">Retour au </span>Certifications</button> <a href="/en/certifications" class="nav-menu-card theme-cobalt"> <p class="nav-menu-card-title">Explore our training programs</p> <p>Obtain recognized certifications in fitness training, aquatics or first aid.</p> <span class="cta-card"><span class="icon-wrapper icon-arrow-right-wrapper"><svg width="24" height="24" class="icon-arrow-right" role="img" aria-label=""> <use xlink:href="/_assets/6d0d5ec6f1ccc0dcfaf563ce46f08fc8/Assets/svg/symbols.svg?1770901869#arrow-right"></use> </svg></span></span> </a> <div class="nav-mobile-menu-submenu-panel"> <p class="nav-mobile-menu-submenu-title">Fitness certifications</p> <ul class="nav-mobile-menu-submenu-list" aria-label="Fitness certifications"> <li> <a href="/en/certifications/fitness/private-trainer">Personal Training</a> </li> <li> <a href="/en/certifications/fitness/group-fitness-instructor">Group Training</a> </li> <li> <a href="/en/certifications/fitness/training-older-adults">Training for Older Adults</a> </li> <li> <a href="/en/certifications/fitness/aqua-fitness">Aquafit</a> </li> <li> <a href="/en/certifications/fitness/continuing-education">Continuing Education</a> </li> </ul> <a href="/en/certifications/fitness" class="cta-see-all"> See all <span class="icon-wrapper icon-plus-wrapper"><svg width="16" height="16" class="icon-plus" role="img" aria-label=""> <use xlink:href="/_assets/6d0d5ec6f1ccc0dcfaf563ce46f08fc8/Assets/svg/symbols.svg?1770901869#plus"></use> </svg></span> </a> </div> <div class="nav-mobile-menu-submenu-panel"> <p class="nav-mobile-menu-submenu-title">Aquatic and First aid certifications</p> <ul class="nav-mobile-menu-submenu-list" aria-label="Aquatic and First aid certifications"> <li> <a href="/en/certifications/swimming">Lifeguard Program</a> </li> <li> <a href="/en/certifications/first-aid">CPR and First Aid</a> </li> </ul> </div> </div> </li> <li class="nav-mobile-menu-item"> <button class="nav-mobile-menu-btn" aria-expanded="false">Community Support<span class="icon-wrapper icon-arrow-right-wrapper"><svg width="24" height="24" class="icon-arrow-right" role="img" aria-label=""> <use xlink:href="/_assets/6d0d5ec6f1ccc0dcfaf563ce46f08fc8/Assets/svg/symbols.svg?1770901869#arrow-right"></use> </svg></span></button> <div class="main-nav-mobile-submenu" aria-hidden="true"> <button class="nav-mobile-submenu-back"><span class="icon-wrapper icon-chevron-left-wrapper"><svg width="24" height="24" class="icon-chevron-left" role="img" aria-label=""> <use xlink:href="/_assets/6d0d5ec6f1ccc0dcfaf563ce46f08fc8/Assets/svg/symbols.svg?1770901869#chevron-left"></use> </svg></span> <span class="visuallyhidden">Retour au </span>Community Support</button> <a href="/en/support-programs" class="nav-menu-card theme-violet"> <p class="nav-menu-card-title">Explore our assistance programs</p> <p>Welcome. Support. Guide. Explore our services for people facing hardship, undergoing a transition, or seeking greater stability.</p> <span class="cta-card"><span class="icon-wrapper icon-arrow-right-wrapper"><svg width="24" height="24" class="icon-arrow-right" role="img" aria-label=""> <use xlink:href="/_assets/6d0d5ec6f1ccc0dcfaf563ce46f08fc8/Assets/svg/symbols.svg?1770901869#arrow-right"></use> </svg></span></span> </a> <div class="nav-mobile-menu-submenu-panel"> <p class="nav-mobile-menu-submenu-title">Re-entering the community</p> <ul class="nav-mobile-menu-submenu-list" aria-label="Re-entering the community"> <li> <a href="/en/support-programs/social-reintegration/post-detention">Social Reintegration</a> </li> <li> <a href="/en/support-programs/social-reintegration/compensatory-work">Compensatory Work</a> </li> <li> <a href="/en/support-programs/social-reintegration/job-search-assistance">Job Search Assistance</a> </li> <li> <a href="/en/support-programs/social-reintegration/tapaj-quebec">Day Work Opportunities</a> </li> </ul> <a href="/en/support-programs/social-reintegration" class="cta-see-all"> See all <span class="icon-wrapper icon-plus-wrapper"><svg width="16" height="16" class="icon-plus" role="img" aria-label=""> <use xlink:href="/_assets/6d0d5ec6f1ccc0dcfaf563ce46f08fc8/Assets/svg/symbols.svg?1770901869#plus"></use> </svg></span> </a> </div> <div class="nav-mobile-menu-submenu-panel"> <p class="nav-mobile-menu-submenu-title">Outreach work</p> <ul class="nav-mobile-menu-submenu-list" aria-label="Outreach work"> <li> <a href="/en/support-programs/homelessness/dialogue">In the Street</a> </li> <li> <a href="/en/support-programs/homelessness/yul">At YUL Montréal-Trudeau</a> </li> <li> <a href="/en/support-programs/homelessness/planning-for-prison-release">Planning for Prison Release</a> </li> </ul> <a href="/en/support-programs/homelessness" class="cta-see-all"> See all <span class="icon-wrapper icon-plus-wrapper"><svg width="16" height="16" class="icon-plus" role="img" aria-label=""> <use xlink:href="/_assets/6d0d5ec6f1ccc0dcfaf563ce46f08fc8/Assets/svg/symbols.svg?1770901869#plus"></use> </svg></span> </a> </div> <div class="nav-mobile-menu-submenu-panel"> <p class="nav-mobile-menu-submenu-title">Temporary housing</p> <ul class="nav-mobile-menu-submenu-list" aria-label="Temporary housing"> <li> <a href="/en/support-programs/housing">Tupper YMCA residence</a> </li> <li> <a href="/en/support-programs/housing">Port-Royal YMCA residence</a> </li> </ul> </div> </div> </li> </ul> </div> </nav> <nav class="nav-mobile-secondary"> <ul> <li> <a href="/en/about" class="nav-secondary-element"> About </a> </li> <li> <a href="/en/register" class="nav-secondary-element"> Sign In | Register </a> </li> <li> <a href="/en/contact" class="nav-secondary-element"> Contact </a> </li> <li> <a href="/en/foundation" class="nav-secondary-element"> Foundation </a> </li> </ul> </nav> <a href="https://ymcaquebec.akaraisin.com/ui/supportyoury" target="_blank" rel="noreferrer" class="btn-donate"> Donate Now <span class="icon-wrapper icon-heart-wrapper"><svg width="32" height="17" class="icon-heart" role="img" aria-label=""> <use xlink:href="/_assets/6d0d5ec6f1ccc0dcfaf563ce46f08fc8/Assets/svg/symbols.svg?1770901869#heart"></use> </svg></span> </a> </div> </div> </nav> <div class="search-panel" id="search-panel" aria-hidden="true"> <form action="/en/search" class="search-panel-wrapper" data-suggest="/en/search?type=7384" > <div class="tx-solr-autocomplete"> <div class="search-panel-header"> <div class="search-input-wrapper"> <input class="search-panel-input tx-solr-suggest" type="search" name="q" aria-label="Search" placeholder="Search" tabindex="0"> <button type="submit" class="btn-search-panel"> <span class="icon-wrapper icon-search-wrapper"><svg width="20" height="20" class="icon-search" role="img" aria-label=""> <use xlink:href="/_assets/6d0d5ec6f1ccc0dcfaf563ce46f08fc8/Assets/svg/symbols.svg?1770901869#search"></use> </svg></span> <span class="visuallyhidden">Search</span> </button> </div> <button class="btn-close-search-panel" type="button"> <span class="icon-wrapper icon-close-wrapper"><svg width="24" height="24" class="icon-close" role="img" aria-label=""> <use xlink:href="/_assets/6d0d5ec6f1ccc0dcfaf563ce46f08fc8/Assets/svg/symbols.svg?1770901869#close"></use> </svg></span> <span class="visuallyhidden">}</span> </button> </div> </div> </form> </div> </header> <main class="l-page" id="main-content"> <!--TYPO3SEARCH_begin--> <div class="hero content-page no-visual"> <div class="grid-container"> <div class="hero-container"> <div class="hero-bg-shape"> <img src="/_assets/6d0d5ec6f1ccc0dcfaf563ce46f08fc8/Assets/svg/originals/hero-bg-shape.svg?1770901869" alt=""/> </div> <div class="hero-infos" data-hero-type="Autre"> <div class="hero-infos-wrapper"> <html xmlns:f="http://typo3.org/ns/TYPO3/CMS/Fluid/ViewHelpers" xmlns:ymca="http://typo3.org/ns/YmcaQuebec/SiteYmcaQuebec/ViewHelpers" data-namespace-typo3-fluid="true "> <nav class="breadcrumbs typo3-search-exclude"> <ul> <li > <a href="/en"> <span class="icon-wrapper icon-chevron-left-wrapper"><svg width="24" height="24" class="icon-chevron-left" role="img" aria-label=""> <use xlink:href="/_assets/6d0d5ec6f1ccc0dcfaf563ce46f08fc8/Assets/svg/symbols.svg?1770901869#chevron-left"></use> </svg></span> Home </a> </li> <li class="current"> Newsworthy </li> </ul> </nav> </html> <h1 class="hero-title typo3-search-exclude"> Newsworthy </h1> </div> </div> </div> </div> </div> <a id="c137"></a> 
+
+
+        
+
+<div class="grid-container fluid advanced-search-wrapper">
+    <div class="advanced-search">
+        
+    <div id="tx-solr-search-functions" class="search-filters d-grid gap-3">
+        
+            
+                
+    <form class="search-filters" aria-expanded="false" action="#search-results">
+        <div class="search-filters-header">
+            <h3 class="search-filters-title"><span class="icon-wrapper icon-settings-wrapper"><svg width="20" height="20" class="icon-settings" role="img" aria-label="">
+                <use xlink:href="/_assets/6d0d5ec6f1ccc0dcfaf563ce46f08fc8/Assets/svg/symbols.svg?1770901869#settings"></use>
+            </svg></span>Filter</h3>
+            <button type="button" class="btn-close"><span class="icon-wrapper icon-close-wrapper"><svg width="24" height="24" class="icon-close" role="img" aria-label="">
+                <use xlink:href="/_assets/6d0d5ec6f1ccc0dcfaf563ce46f08fc8/Assets/svg/symbols.svg?1770901869#close"></use>
+            </svg></span></button>
+        </div>
+        <div class="search-filters-wrapper">
+            
+                
+                    
+
+        <div class="search-filter-category accordion-wrapper">
+            <h4 class="accordion-title"><button type="button" class="accordion-button" aria-expanded="false" aria-controls="accordion-1">
+                Type de publication <span class="icon-wrapper icon-chevron-down-wrapper"><svg width="24" height="24" class="icon-chevron-down" role="img" aria-label="">
+                <use xlink:href="/_assets/6d0d5ec6f1ccc0dcfaf563ce46f08fc8/Assets/svg/symbols.svg?1770901869#chevron-down"></use>
+            </svg></span> </button></h4>
+            <div id="accordion-1" class="accordion-panel" role="region" aria-labelledby="accordion-1" aria-hidden="true" >
+                <ul class="category-checkboxes">
+                    
+                        <li>
+                            <input type="checkbox" id="News" name="tx_solr[filter][]" value="category:News" >
+                            <label for="News">News (47)</label>
+                        </li>
+                    
+                        <li>
+                            <input type="checkbox" id="Foundation" name="tx_solr[filter][]" value="category:Foundation" >
+                            <label for="Foundation">Foundation (15)</label>
+                        </li>
+                    
+                        <li>
+                            <input type="checkbox" id="Tips and tricks" name="tx_solr[filter][]" value="category:Tips and tricks" >
+                            <label for="Tips and tricks">Tips and tricks (9)</label>
+                        </li>
+                    
+                        <li>
+                            <input type="checkbox" id="Impact Y" name="tx_solr[filter][]" value="category:Impact Y" >
+                            <label for="Impact Y">Impact Y (5)</label>
+                        </li>
+                    
+                </ul>
+            </div>
+        </div>
+
+
+
+                
+            
+            
+        </div>
+        <div class="search-filters-actions">
+            
+            
+            <a href="/en/news#search-results" class="btn-reset"><span class="icon-wrapper icon-reset-wrapper"><svg width="16" height="16" class="icon-reset" role="img" aria-label="">
+                <use xlink:href="/_assets/6d0d5ec6f1ccc0dcfaf563ce46f08fc8/Assets/svg/symbols.svg?1770901869#reset"></use>
+            </svg></span>Reset</a>
+            <button type="submit" class="button secondary">Apply<span class="nb-filters"></span></button>
+        </div>
+    </form>
+
+
+            
+        
+    </div>
+
+        
+    <div class="search-advanced-results" id="search-results">
+        <div class="search-bar-wrapper">
+            <div class="advanced-search-infos">
+                <button type="button" class="button secondary btn-filters">
+                    Filter
+                    <span class="icon-wrapper icon-settings-wrapper"><svg width="20" height="16" class="icon-settings" role="img" aria-label="">
+                <use xlink:href="/_assets/6d0d5ec6f1ccc0dcfaf563ce46f08fc8/Assets/svg/symbols.svg?1770901869#settings"></use>
+            </svg></span>
+                </button>
+                <div class="results-nb">
+                    76 result(s)
+                </div>
+            </div>
+            <form method="get" class="advanced-search-bar" action="#search-results" data-suggest="/en/news?type=7384" data-suggest-header="Top Results" accept-charset="utf-8">
+                
+                <input class="search-input" name="tx_solr[q]" value="" type="search" placeholder="Search" />
+                <button class="button" type="submit"><span class="icon-wrapper icon-search-wrapper"><svg width="24" height="24" class="icon-search" role="img" aria-label="">
+                <use xlink:href="/_assets/6d0d5ec6f1ccc0dcfaf563ce46f08fc8/Assets/svg/symbols.svg?1770901869#search"></use>
+            </svg></span></button>
+            </form>
+        </div>
+        <div class="advanced-results-grid">
+            
+                
+    <a href="/en/news/the-health-benefits-of-physical-activity" class="card-news swiper-slide">
+        <div class="card-news-visual">
+            
+                    <img src="/fileadmin/_processed_/f/7/csm_ymca-velo-stationnaire-cours-groupe_5953c02b11.webp" width="400" height="225" alt="" />
+                
+        </div>
+        <div class="card-news-content">
+            <div class="card-news-category">Tips and tricks</div>
+            <h3 class="card-news-title">The Physical and Mental Health Benefits of Physical Activity</h3>
+            <p class="card-news-date">11 February 2026</p>
+            <p class="card-news-text"></p>
+            <span class="card-news-cta">
+                <span class="icon-wrapper icon-arrow-right-wrapper"><svg width="20" height="16" class="icon-arrow-right" role="img" aria-label="">
+                <use xlink:href="/_assets/6d0d5ec6f1ccc0dcfaf563ce46f08fc8/Assets/svg/symbols.svg?1770901869#arrow-right"></use>
+            </svg></span>
+            </span>
+        </div>
+    </a>
+
+            
+                
+    <a href="/en/news/why-is-pickleball-so-popular" class="card-news swiper-slide">
+        <div class="card-news-visual">
+            
+                    <img src="/fileadmin/_processed_/4/f/csm_ymca-pickleball-joueurs-filet_a9e759a4f6.webp" width="400" height="225" alt="" />
+                
+        </div>
+        <div class="card-news-content">
+            <div class="card-news-category">Tips and tricks</div>
+            <h3 class="card-news-title">Why Is Pickleball So Popular?</h3>
+            <p class="card-news-date">09 February 2026</p>
+            <p class="card-news-text"></p>
+            <span class="card-news-cta">
+                <span class="icon-wrapper icon-arrow-right-wrapper"><svg width="20" height="16" class="icon-arrow-right" role="img" aria-label="">
+                <use xlink:href="/_assets/6d0d5ec6f1ccc0dcfaf563ce46f08fc8/Assets/svg/symbols.svg?1770901869#arrow-right"></use>
+            </svg></span>
+            </span>
+        </div>
+    </a>
+
+            
+                
+    <a href="/en/news/new-years-resolutions-how-to-build-habits-that-last" class="card-news swiper-slide">
+        <div class="card-news-visual">
+            
+                    <img src="/fileadmin/_processed_/9/8/csm_ymca-etirement-exterieur-femme_173653581d.webp" width="400" height="225" alt="" />
+                
+        </div>
+        <div class="card-news-content">
+            <div class="card-news-category">Tips and tricks</div>
+            <h3 class="card-news-title">New Year’s Resolutions: How to Build Habits That Last</h3>
+            <p class="card-news-date">12 January 2026</p>
+            <p class="card-news-text"></p>
+            <span class="card-news-cta">
+                <span class="icon-wrapper icon-arrow-right-wrapper"><svg width="20" height="16" class="icon-arrow-right" role="img" aria-label="">
+                <use xlink:href="/_assets/6d0d5ec6f1ccc0dcfaf563ce46f08fc8/Assets/svg/symbols.svg?1770901869#arrow-right"></use>
+            </svg></span>
+            </span>
+        </div>
+    </a>
+
+            
+                
+    <a href="/en/news/the-benefits-of-yoga-on-the-body-and-mind" class="card-news swiper-slide">
+        <div class="card-news-visual">
+            
+                    <img src="/fileadmin/_processed_/4/f/csm_ymca-yoga-meditation-groupe_3d3478e49c.webp" width="400" height="225" alt="" />
+                
+        </div>
+        <div class="card-news-content">
+            <div class="card-news-category">Tips and tricks</div>
+            <h3 class="card-news-title">The Benefits of Yoga on the Body and Mind</h3>
+            <p class="card-news-date">23 December 2025</p>
+            <p class="card-news-text"></p>
+            <span class="card-news-cta">
+                <span class="icon-wrapper icon-arrow-right-wrapper"><svg width="20" height="16" class="icon-arrow-right" role="img" aria-label="">
+                <use xlink:href="/_assets/6d0d5ec6f1ccc0dcfaf563ce46f08fc8/Assets/svg/symbols.svg?1770901869#arrow-right"></use>
+            </svg></span>
+            </span>
+        </div>
+    </a>
+
+            
+                
+    <a href="/en/news/ymca-peace-gala-2025" class="card-news swiper-slide">
+        <div class="card-news-visual">
+            
+                    <img src="/fileadmin/_processed_/e/d/csm_ymca-fondation-gala-paix-cheque-2025_590f473037.webp" width="400" height="225" alt="" />
+                
+        </div>
+        <div class="card-news-content">
+            <div class="card-news-category">Foundation</div>
+            <h3 class="card-news-title">YMCA Peace Gala 2025: An Evening Where Youth Voices Lit the Way Forward</h3>
+            <p class="card-news-date">23 December 2025</p>
+            <p class="card-news-text"></p>
+            <span class="card-news-cta">
+                <span class="icon-wrapper icon-arrow-right-wrapper"><svg width="20" height="16" class="icon-arrow-right" role="img" aria-label="">
+                <use xlink:href="/_assets/6d0d5ec6f1ccc0dcfaf563ce46f08fc8/Assets/svg/symbols.svg?1770901869#arrow-right"></use>
+            </svg></span>
+            </span>
+        </div>
+    </a>
+
+            
+                
+    <a href="/en/news/staying-active-during-the-holidays-our-best-tips" class="card-news swiper-slide">
+        <div class="card-news-visual">
+            
+                    <img src="/fileadmin/_processed_/7/0/csm_ymca-course-hiver-exterieur_3f7262a711.webp" width="400" height="225" alt="" />
+                
+        </div>
+        <div class="card-news-content">
+            <div class="card-news-category">Tips and tricks</div>
+            <h3 class="card-news-title">Staying active during the holidays: our best tips</h3>
+            <p class="card-news-date">17 December 2025</p>
+            <p class="card-news-text"></p>
+            <span class="card-news-cta">
+                <span class="icon-wrapper icon-arrow-right-wrapper"><svg width="20" height="16" class="icon-arrow-right" role="img" aria-label="">
+                <use xlink:href="/_assets/6d0d5ec6f1ccc0dcfaf563ce46f08fc8/Assets/svg/symbols.svg?1770901869#arrow-right"></use>
+            </svg></span>
+            </span>
+        </div>
+    </a>
+
+            
+                
+    <a href="/en/news/5-tips-to-get-more-out-of-your-workout" class="card-news swiper-slide">
+        <div class="card-news-visual">
+            
+                    <img src="/fileadmin/_processed_/8/5/csm_ymca-bande-resistance-cours-groupe_2d4afeb915.webp" width="400" height="225" alt="" />
+                
+        </div>
+        <div class="card-news-content">
+            <div class="card-news-category">Tips and tricks</div>
+            <h3 class="card-news-title">5 Tips to Get More Out of Your Workout</h3>
+            <p class="card-news-date">14 November 2025</p>
+            <p class="card-news-text"></p>
+            <span class="card-news-cta">
+                <span class="icon-wrapper icon-arrow-right-wrapper"><svg width="20" height="16" class="icon-arrow-right" role="img" aria-label="">
+                <use xlink:href="/_assets/6d0d5ec6f1ccc0dcfaf563ce46f08fc8/Assets/svg/symbols.svg?1770901869#arrow-right"></use>
+            </svg></span>
+            </span>
+        </div>
+    </a>
+
+            
+                
+    <a href="/en/news/5-ways-to-motivate-yourself-to-stay-active-in-the-winter" class="card-news swiper-slide">
+        <div class="card-news-visual">
+            
+                    <img src="/fileadmin/_processed_/4/4/csm_cours_de_groupe_hiver_interieur_ymca_709ea4d199.webp" width="400" height="225" alt="" />
+                
+        </div>
+        <div class="card-news-content">
+            <div class="card-news-category">Tips and tricks</div>
+            <h3 class="card-news-title">5 Ways to Motivate Yourself to Stay Active in the Winter</h3>
+            <p class="card-news-date">11 November 2025</p>
+            <p class="card-news-text"></p>
+            <span class="card-news-cta">
+                <span class="icon-wrapper icon-arrow-right-wrapper"><svg width="20" height="16" class="icon-arrow-right" role="img" aria-label="">
+                <use xlink:href="/_assets/6d0d5ec6f1ccc0dcfaf563ce46f08fc8/Assets/svg/symbols.svg?1770901869#arrow-right"></use>
+            </svg></span>
+            </span>
+        </div>
+    </a>
+
+            
+                
+    <a href="/en/news/the-courage-to-refocus-to-take-control-of-our-destiny" class="card-news swiper-slide">
+        <div class="card-news-visual">
+            
+                    <img src="/fileadmin/_processed_/5/a/csm_ymca-innovation-idee-lumiere_92b0040af4.webp" width="400" height="225" alt="" />
+                
+        </div>
+        <div class="card-news-content">
+            <div class="card-news-category">News</div>
+            <h3 class="card-news-title">The Courage to Refocus to Take Control of Our Destiny</h3>
+            <p class="card-news-date">02 October 2025</p>
+            <p class="card-news-text"></p>
+            <span class="card-news-cta">
+                <span class="icon-wrapper icon-arrow-right-wrapper"><svg width="20" height="16" class="icon-arrow-right" role="img" aria-label="">
+                <use xlink:href="/_assets/6d0d5ec6f1ccc0dcfaf563ce46f08fc8/Assets/svg/symbols.svg?1770901869#arrow-right"></use>
+            </svg></span>
+            </span>
+        </div>
+    </a>
+
+            
+                
+    <a href="/en/news/same-program-new-look-alternative-suspension-becomes-back-on-track-by-the-ymca" class="card-news swiper-slide">
+        <div class="card-news-visual">
+            
+                    <img src="/fileadmin/_processed_/0/1/csm_article-de-blogue-FR-520-x-346_ab1fe1583a.webp" width="400" height="225" alt="" />
+                
+        </div>
+        <div class="card-news-content">
+            <div class="card-news-category">News</div>
+            <h3 class="card-news-title">Same Program, New Look: Alternative Suspension Becomes Back on Track by the YMCA</h3>
+            <p class="card-news-date">20 May 2025</p>
+            <p class="card-news-text"></p>
+            <span class="card-news-cta">
+                <span class="icon-wrapper icon-arrow-right-wrapper"><svg width="20" height="16" class="icon-arrow-right" role="img" aria-label="">
+                <use xlink:href="/_assets/6d0d5ec6f1ccc0dcfaf563ce46f08fc8/Assets/svg/symbols.svg?1770901869#arrow-right"></use>
+            </svg></span>
+            </span>
+        </div>
+    </a>
+
+            
+                
+    <a href="/en/news/everything-you-need-to-know-about-the-ymcas-of-quebec" class="card-news swiper-slide">
+        <div class="card-news-visual">
+            
+                    <img src="/fileadmin/_processed_/0/5/csm_ymca_centre-ville_edifice_514e1c642f.webp" width="400" height="225" alt="" />
+                
+        </div>
+        <div class="card-news-content">
+            <div class="card-news-category">News</div>
+            <h3 class="card-news-title">Everything You Need to Know About the YMCAs of Québec</h3>
+            <p class="card-news-date">20 January 2025</p>
+            <p class="card-news-text"></p>
+            <span class="card-news-cta">
+                <span class="icon-wrapper icon-arrow-right-wrapper"><svg width="20" height="16" class="icon-arrow-right" role="img" aria-label="">
+                <use xlink:href="/_assets/6d0d5ec6f1ccc0dcfaf563ce46f08fc8/Assets/svg/symbols.svg?1770901869#arrow-right"></use>
+            </svg></span>
+            </span>
+        </div>
+    </a>
+
+            
+                
+    <a href="/en/news/pascale-audette-named-new-president-and-ceo-of-the-ymcas-of-quebec" class="card-news swiper-slide">
+        <div class="card-news-visual">
+            
+                    <img src="/fileadmin/_processed_/1/4/csm_ymca-pascale-audette-pdg-ceo_4a62ef67f7.webp" width="400" height="225" alt="" />
+                
+        </div>
+        <div class="card-news-content">
+            <div class="card-news-category">News</div>
+            <h3 class="card-news-title">Pascale Audette Named New President and CEO of the YMCAs of Québec</h3>
+            <p class="card-news-date">26 November 2024</p>
+            <p class="card-news-text"></p>
+            <span class="card-news-cta">
+                <span class="icon-wrapper icon-arrow-right-wrapper"><svg width="20" height="16" class="icon-arrow-right" role="img" aria-label="">
+                <use xlink:href="/_assets/6d0d5ec6f1ccc0dcfaf563ce46f08fc8/Assets/svg/symbols.svg?1770901869#arrow-right"></use>
+            </svg></span>
+            </span>
+        </div>
+    </a>
+
+            
+        </div>
+
+        
+            
+
+	<nav class="block-pagination" aria-label="Pagination">
+		<ul class="pagination">
+			
+
+			
+
+			
+				
+						<li class="current">
+                            <span class="visuallyhidden">
+                                You are at page
+                            </span>
+                            1
+                        </li>
+					
+			
+				
+						<li class="page-item">
+							
+									<a href="/en/news?tx_solr%5Bpage%5D=2#search-results">
+                                        <span class="visuallyhidden">Page </span>
+                                        2
+                                    </a>
+								
+						</li>
+					
+			
+				
+						<li class="page-item">
+							
+									<a href="/en/news?tx_solr%5Bpage%5D=3#search-results">
+                                        <span class="visuallyhidden">Page </span>
+                                        3
+                                    </a>
+								
+						</li>
+					
+			
+				
+						<li class="page-item">
+							
+									<a href="/en/news?tx_solr%5Bpage%5D=4#search-results">
+                                        <span class="visuallyhidden">Page </span>
+                                        4
+                                    </a>
+								
+						</li>
+					
+			
+				
+						<li class="page-item">
+							
+									<a href="/en/news?tx_solr%5Bpage%5D=5#search-results">
+                                        <span class="visuallyhidden">Page </span>
+                                        5
+                                    </a>
+								
+						</li>
+					
+			
+				
+						<li class="page-item">
+							
+									<a href="/en/news?tx_solr%5Bpage%5D=6#search-results">
+                                        <span class="visuallyhidden">Page </span>
+                                        6
+                                    </a>
+								
+						</li>
+					
+			
+				
+						<li class="page-item">
+							
+									<a href="/en/news?tx_solr%5Bpage%5D=7#search-results">
+                                        <span class="visuallyhidden">Page </span>
+                                        7
+                                    </a>
+								
+						</li>
+					
+			
+
+			
+
+			
+				<li class="pagination-next">
+					<a href="/en/news?tx_solr%5Bpage%5D=2#search-results">
+                        <span class="visuallyhidden">
+                            Next page
+                        </span>
+                        <span class="icon-wrapper icon-arrow-right-wrapper"><svg width="20" height="20" class="icon-arrow-right" role="img" aria-label="">
+                <use xlink:href="/_assets/6d0d5ec6f1ccc0dcfaf563ce46f08fc8/Assets/svg/symbols.svg?1770901869#arrow-right"></use>
+            </svg></span>
+                    </a>
+				</li>
+			
+		</ul>
+	</nav>
+
+
+        
+    </div>
+
+    </div>
+</div>
+
+
+
+
+
+    
+
+
+ <!--TYPO3SEARCH_end--> </main> <footer> <div class="grid-container full"> <div class="footer-logos"> <a href="/en" class="footer-logo"> <span class="icon-wrapper icon-ymca-footer-logo-en-wrapper"><svg width="270" height="190" class="icon-ymca-footer-logo-en" role="img" aria-label=""> <use xlink:href="/_assets/6d0d5ec6f1ccc0dcfaf563ce46f08fc8/Assets/svg/symbols.svg?1770901869#ymca-footer-logo-en"></use> </svg></span> <span class="visuallyhidden">The YMCAs of Québec, Shine On</span> </a> </div> <div class="footer-partners-logos"> <span href="/en" class="footer-logo"> <span class="icon-wrapper icon-footer-centraide-logo-wrapper"><svg width="60" height="60" class="icon-footer-centraide-logo" role="img" aria-label=""> <use xlink:href="/_assets/6d0d5ec6f1ccc0dcfaf563ce46f08fc8/Assets/svg/symbols.svg?1770901869#footer-centraide-logo"></use> </svg></span> <span class="visuallyhidden"> Centraide </span> </span> <span> <span class="icon-wrapper icon-footer-agree-logo-en-wrapper"><svg width="174" height="50" class="icon-footer-agree-logo-en" role="img" aria-label=""> <use xlink:href="/_assets/6d0d5ec6f1ccc0dcfaf563ce46f08fc8/Assets/svg/symbols.svg?1770901869#footer-agree-logo-en"></use> </svg></span> <span class="visuallyhidden"> Accredited Imagine Canada </span> </span> </div> <div class="footer-newsletter-socials"> <div class="footer-newsletter"> <div class="footer-newsletter-content"> <strong class="footer-newsletter-title">Stay tuned</strong> <p class="footer-newsletter-subtitle">News, events and more!</p> </div> <form class="footer-newsletter-form" method="GET" action="/en/subscribe-to-newsletter"> <input type="email" name="email" placeholder="Your email"> <button type="submit" class="button primary">Send</button> </form> </div> <ul class="footer-media-socials-desktop"> <li> <a href="https://www.facebook.com/ymcaquebec/" target="_blank" rel="noreferrer" title="Facebook"> <span class="icon-wrapper icon-facebook-wrapper"><svg width="24" height="24" class="icon-facebook" role="img" aria-label=""> <use xlink:href="/_assets/6d0d5ec6f1ccc0dcfaf563ce46f08fc8/Assets/svg/symbols.svg?1770901869#facebook"></use> </svg></span> <span class="visuallyhidden">External link. This link will open in a new window.</span> </a> </li> <li> <a href="https://www.instagram.com/ymcaduquebec/" target="_blank" rel="noreferrer" title="Instagram"> <span class="icon-wrapper icon-instagram-wrapper"><svg width="24" height="24" class="icon-instagram" role="img" aria-label=""> <use xlink:href="/_assets/6d0d5ec6f1ccc0dcfaf563ce46f08fc8/Assets/svg/symbols.svg?1770901869#instagram"></use> </svg></span> <span class="visuallyhidden">External link. This link will open in a new window.</span> </a> </li> <li> <a href="https://www.linkedin.com/company/les-ymca-du-quebec/" target="_blank" rel="noreferrer" title="LinkedIn"> <span class="icon-wrapper icon-linkedin-wrapper"><svg width="24" height="24" class="icon-linkedin" role="img" aria-label=""> <use xlink:href="/_assets/6d0d5ec6f1ccc0dcfaf563ce46f08fc8/Assets/svg/symbols.svg?1770901869#linkedin"></use> </svg></span> <span class="visuallyhidden">External link. This link will open in a new window.</span> </a> </li> <li> <a href="https://www.youtube.com/user/YMCAQuebec" target="_blank" rel="noreferrer" title="Youtube"> <span class="icon-wrapper icon-youtube-wrapper"><svg width="24" height="24" class="icon-youtube" role="img" aria-label=""> <use xlink:href="/_assets/6d0d5ec6f1ccc0dcfaf563ce46f08fc8/Assets/svg/symbols.svg?1770901869#youtube"></use> </svg></span> <span class="visuallyhidden">External link. This link will open in a new window.</span> </a> </li> <li> <a href="https://x.com/ymcaquebec" target="_blank" rel="noreferrer" title="X"> <span class="icon-wrapper icon-x-wrapper"><svg width="24" height="24" class="icon-x" role="img" aria-label=""> <use xlink:href="/_assets/6d0d5ec6f1ccc0dcfaf563ce46f08fc8/Assets/svg/symbols.svg?1770901869#x"></use> </svg></span> <span class="visuallyhidden">External link. This link will open in a new window.</span> </a> </li> </ul> </div> <ul class="footer-media-socials-mobile"> <li> <a href="https://www.facebook.com/ymcaquebec/" target="_blank" rel="noreferrer" title="Facebook"> <span class="icon-wrapper icon-facebook-wrapper"><svg width="24" height="24" class="icon-facebook" role="img" aria-label=""> <use xlink:href="/_assets/6d0d5ec6f1ccc0dcfaf563ce46f08fc8/Assets/svg/symbols.svg?1770901869#facebook"></use> </svg></span> <span class="visuallyhidden">External link. This link will open in a new window.</span> </a> </li> <li> <a href="https://www.instagram.com/ymcaduquebec/" target="_blank" rel="noreferrer" title="Instagram"> <span class="icon-wrapper icon-instagram-wrapper"><svg width="24" height="24" class="icon-instagram" role="img" aria-label=""> <use xlink:href="/_assets/6d0d5ec6f1ccc0dcfaf563ce46f08fc8/Assets/svg/symbols.svg?1770901869#instagram"></use> </svg></span> <span class="visuallyhidden">External link. This link will open in a new window.</span> </a> </li> <li> <a href="https://www.linkedin.com/company/les-ymca-du-quebec/" target="_blank" rel="noreferrer" title="LinkedIn"> <span class="icon-wrapper icon-linkedin-wrapper"><svg width="24" height="24" class="icon-linkedin" role="img" aria-label=""> <use xlink:href="/_assets/6d0d5ec6f1ccc0dcfaf563ce46f08fc8/Assets/svg/symbols.svg?1770901869#linkedin"></use> </svg></span> <span class="visuallyhidden">External link. This link will open in a new window.</span> </a> </li> <li> <a href="https://www.youtube.com/user/YMCAQuebec" target="_blank" rel="noreferrer" title="Youtube"> <span class="icon-wrapper icon-youtube-wrapper"><svg width="24" height="24" class="icon-youtube" role="img" aria-label=""> <use xlink:href="/_assets/6d0d5ec6f1ccc0dcfaf563ce46f08fc8/Assets/svg/symbols.svg?1770901869#youtube"></use> </svg></span> <span class="visuallyhidden">External link. This link will open in a new window.</span> </a> </li> <li> <a href="https://x.com/ymcaquebec" target="_blank" rel="noreferrer" title="X"> <span class="icon-wrapper icon-x-wrapper"><svg width="24" height="24" class="icon-x" role="img" aria-label=""> <use xlink:href="/_assets/6d0d5ec6f1ccc0dcfaf563ce46f08fc8/Assets/svg/symbols.svg?1770901869#x"></use> </svg></span> <span class="visuallyhidden">External link. This link will open in a new window.</span> </a> </li> </ul> <div class="footer-menu"> <ul> <li> <a href="/en/subscribe-to-newsletter"> Newsletter </a> </li> <li> <a href="/en/news"> Newsworthy </a> </li> <li> <a href="/en/about/careers-and-volunteering"> Jobs and volunteering </a> </li> <li> <a href="/en/about/financial-assistance"> Financial Assistance </a> </li> <li> <a href="/en/contact#c106"> Media Relations </a> </li> </ul> </div> <nav class="footer-legals"> <div class="footer-legals-items"> <p> <a href="/en/privacy-policy"> Privacy Policy </a> </p> <p> <a href="/en/terms-and-conditions"> Terms and Conditions </a> </p> <p> <a href="/en/complaint-management-policy"> Complaint Management Policy </a> </p> <p> <a href="/en/cookie-notice"> Statement on the Use of Cookies </a> </p> </div> </nav> <div class="footer-copyrights"> <p class="num-org"> Copyright 2026, The YMCAs of Québec<br> Charity registration no: <span class="nowrap">11900 1790 RR0001</span> </p> </div> </div> </footer> 
+
+<script src="/typo3temp/assets/compressed/merged-71b695e493e5cde668e47d3405762201-min.js?1771261355"></script>
+ 
+<script src="/typo3temp/assets/compressed/merged-2a91b7a65bcae452255463a84a2153ba-min.js?1771261355"></script>
+ 
+<script>
+/*TS_inlineFooter*/
+window.YMCA={"locatorMapId":"29b92d4f44a226e3","contactMapId":"1548fb6b27a1fd6f","mapIcon":"/_assets/6d0d5ec6f1ccc0dcfaf563ce46f08fc8/Assets/img/map-icon.png?1770901869","mapIconActive":"/_assets/6d0d5ec6f1ccc0dcfaf563ce46f08fc8/Assets/img/map-active-icon.png?1770901869"};(g=>{var h,a,k,p="The Google Maps JavaScript API",c="google",l="importLibrary",q="__ib__",m=document,b=window;b=b[c]||(b[c]={});var d=b.maps||(b.maps={}),r=new Set,e=new URLSearchParams,u=()=>h||(h=new Promise(async(f,n)=>{await(a=m.createElement("script"));e.set("libraries",[...r]+"");for(k in g)e.set(k.replace(/[A-Z]/g,t=>"_"+t[0].toLowerCase()),g[k]);e.set("callback",c+".maps."+q);a.src=`https://maps.${c}apis.com/maps/api/js?`+e;d[q]=f;a.onerror=()=>h=n(Error(p+" could not load."));a.nonce=m.querySelector("script[nonce]")?.nonce||"";m.head.append(a)}));d[l]?console.warn(p+" only loads once. Ignoring:",g):d[l]=(f,...n)=>r.add(f)&&u().then(()=>d[l](f,...n))})({key:"AIzaSyDo__XQGJAcDIuy0sAbgWRhER9QrORPzbA",v:"weekly",});
+
+</script>
+  
+<script type="application/ld+json">{"@context":"https://schema.org/","@graph":[{"@type":"WebPage","breadcrumb":{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","item":{"@type":"WebPage","@id":"https://www.ymcaquebec.org/en"},"name":"Home","position":"1"},{"@type":"ListItem","item":{"@type":"WebPage","@id":"https://www.ymcaquebec.org/en/news"},"name":"Newsworthy","position":"2"}]}},{"@type":"Organization","areaServed":"Québec, Canada","contactPoint":{"@type":"ContactPoint","areaServed":"CA","contactType":"Customer Service","telephone":"+1-514-687-9622"},"description":"The YMCA of Québec, a charitable organization, inspires and engages each person to grow and contribute to their community. Active for over 175 years, it offers community, social, and personal development programs and services.","founder":{"@type":"Person","name":"George Williams"},"foundingDate":"1844-11-25","identifier":"https://www.ymcaquebec.org/en","logo":"https://www.ymcaquebec.org/_assets/6d0d5ec6f1ccc0dcfaf563ce46f08fc8/Assets/svg/originals/ymca-logo-en.svg","name":"The YMCAs of Québec","sameAs":["https://www.facebook.com/ymcaquebec/ _blank","https://www.instagram.com/ymcaduquebec/ _blank","https://www.linkedin.com/company/les-ymca-du-quebec/ _blank","https://www.youtube.com/user/YMCAQuebec _blank","https://x.com/ymcaquebec _blank"],"taxID":"11900 1790 RR0001","url":"https://www.ymcaquebec.org/en"}]}</script>
+</body> </html>

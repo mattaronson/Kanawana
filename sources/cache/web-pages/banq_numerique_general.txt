@@ -1,0 +1,2591 @@
+
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'html' -->
+<!-- FILE NAME SUGGESTIONS:
+   ▪️ html--front.html.twig
+   ▪️ html--node--3.html.twig
+   ▪️ html--node--%.html.twig
+   ▪️ html--node.html.twig
+   ✅ html.html.twig
+-->
+<!-- 💡 BEGIN CUSTOM TEMPLATE OUTPUT from 'themes/custom/banq_lyxn_glider/layouts/html.html.twig' -->
+<!DOCTYPE html>
+<html lang="fr" dir="ltr" prefix="og: https://ogp.me/ns#">
+  <head>
+    <script type="text/javascript">
+      (function()
+      {(function (e, r) {
+        var t = document.createElement("link");
+        t.rel = "preconnect";
+        t.as = "script";
+        var n = document.createElement("link");
+        n.rel = "dns-prefetch";
+        n.as = "script";
+        var i = document.createElement("script");
+        i.id = "spcloader";
+        i.type = "text/javascript";
+        i["async"] = true;
+        i.charset = "utf-8";
+        var o =
+          "https://sdk.privacy-center.org/" +
+          e +
+          "/loader.js?target_type=notice&target=" +
+          r;
+        if (window.didomiConfig && window.didomiConfig.user) {
+          var a = window.didomiConfig.user;
+          var c = a.country;
+          var d = a.region;
+          if (c) {
+            o = o + "&country=" + c;
+            if (d) {
+              o = o + "&region=" + d;
+            }
+          }
+        }
+        t.href = "https://sdk.privacy-center.org/";
+        n.href = "https://sdk.privacy-center.org/";
+        i.src = o;
+        var s = document.getElementsByTagName("script")[0];
+        s.parentNode.insertBefore(t, s);
+        s.parentNode.insertBefore(n, s);
+        s.parentNode.insertBefore(i, s);
+      })("e2436f9f-3c99-4a96-8aa6-856674554710", "RTQWWFfj")}
+      )();
+    </script>
+    <meta charset="utf-8" />
+<noscript><style>form.antibot * :not(.antibot-message) { display: none !important; }</style>
+</noscript><link rel="shortlink" href="https://numerique.banq.qc.ca/" />
+<link rel="canonical" href="https://numerique.banq.qc.ca/" />
+<meta name="description" content="Explorez les collections numériques de BAnQ : journaux, revues, images, registres de l&#039;état civil et archives de notaire accessibles en ligne." />
+<meta name="format-detection" content="telephone=no" />
+<meta name="Generator" content="Drupal 11 (https://www.drupal.org)" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="icon" href="/themes/custom/banq_lyxn_glider/favicon.ico" type="image/vnd.microsoft.icon" />
+<link rel="alternate" hreflang="fr" href="https://numerique.banq.qc.ca/" />
+
+    <title>BAnQ numérique | Bibliothèque et Archives nationales du Québec</title>
+    <link rel="stylesheet" media="all" href="/core/assets/vendor/jquery.ui/themes/base/core.css?tak73n" />
+<link rel="stylesheet" media="all" href="/core/assets/vendor/jquery.ui/themes/base/controlgroup.css?tak73n" />
+<link rel="stylesheet" media="all" href="/core/assets/vendor/jquery.ui/themes/base/checkboxradio.css?tak73n" />
+<link rel="stylesheet" media="all" href="/core/assets/vendor/jquery.ui/themes/base/resizable.css?tak73n" />
+<link rel="stylesheet" media="all" href="/core/assets/vendor/jquery.ui/themes/base/button.css?tak73n" />
+<link rel="stylesheet" media="all" href="/core/assets/vendor/jquery.ui/themes/base/dialog.css?tak73n" />
+<link rel="stylesheet" media="all" href="/themes/contrib/stable/css/core/components/progress.module.css?tak73n" />
+<link rel="stylesheet" media="all" href="/themes/contrib/stable/css/core/components/ajax-progress.module.css?tak73n" />
+<link rel="stylesheet" media="all" href="/themes/contrib/stable/css/system/components/align.module.css?tak73n" />
+<link rel="stylesheet" media="all" href="/themes/contrib/stable/css/system/components/container-inline.module.css?tak73n" />
+<link rel="stylesheet" media="all" href="/themes/contrib/stable/css/system/components/clearfix.module.css?tak73n" />
+<link rel="stylesheet" media="all" href="/themes/contrib/stable/css/system/components/hidden.module.css?tak73n" />
+<link rel="stylesheet" media="all" href="/themes/contrib/stable/css/system/components/item-list.module.css?tak73n" />
+<link rel="stylesheet" media="all" href="/themes/contrib/stable/css/system/components/js.module.css?tak73n" />
+<link rel="stylesheet" media="all" href="/themes/contrib/stable/css/system/components/position-container.module.css?tak73n" />
+<link rel="stylesheet" media="all" href="/themes/contrib/stable/css/system/components/reset-appearance.module.css?tak73n" />
+<link rel="stylesheet" media="all" href="/core/modules/ckeditor5/css/ckeditor5.dialog.fix.css?tak73n" />
+<link rel="stylesheet" media="all" href="/themes/custom/banq_lyxn_glider/patterns/organisms/content_block/dist/css/styles.min.css?tak73n" />
+<link rel="stylesheet" media="all" href="/themes/custom/banq_lyxn_glider/patterns/molecules/cta_banner/dist/css/styles.min.css?tak73n" />
+<link rel="stylesheet" media="all" href="/themes/custom/banq_lyxn_glider/patterns/atoms/important_message/dist/css/important-message.pattern.min.css?tak73n" />
+<link rel="stylesheet" media="all" href="/themes/custom/banq_lyxn_glider/patterns/molecules/important_messages_list/dist/css/important-messages-list.pattern.min.css?tak73n" />
+<link rel="stylesheet" media="all" href="/themes/custom/banq_lyxn_glider/patterns/atoms/link/dist/css/styles.min.css?tak73n" />
+<link rel="stylesheet" media="all" href="/themes/custom/banq_lyxn_glider/patterns/molecules/text_block/dist/css/styles.min.css?tak73n" />
+<link rel="stylesheet" media="all" href="/themes/custom/banq_lyxn_glider/patterns/organisms/trio_of_tiles/dist/css/styles.min.css?tak73n" />
+<link rel="stylesheet" media="all" href="/themes/custom/banq_lyxn_glider/patterns/atoms/trio_of_tiles_item/dist/css/styles.min.css?tak73n" />
+<link rel="stylesheet" media="all" href="/core/assets/vendor/jquery.ui/themes/base/theme.css?tak73n" />
+<link rel="stylesheet" media="all" href="/modules/contrib/extlink/css/extlink.css?tak73n" />
+<link rel="stylesheet" media="all" href="/modules/contrib/ief_popup/css/ief_popup.css?tak73n" />
+<link rel="stylesheet" media="all" href="/modules/contrib/paragraphs/css/paragraphs.unpublished.css?tak73n" />
+<link rel="stylesheet" media="all" href="/themes/contrib/stable/css/core/assets/vendor/normalize-css/normalize.css?tak73n" />
+<link rel="stylesheet" media="all" href="/themes/contrib/stable/css/core/normalize-fixes.css?tak73n" />
+<link rel="stylesheet" media="all" href="/themes/contrib/classy/css/components/action-links.css?tak73n" />
+<link rel="stylesheet" media="all" href="/themes/contrib/classy/css/components/breadcrumb.css?tak73n" />
+<link rel="stylesheet" media="all" href="/themes/contrib/classy/css/components/button.css?tak73n" />
+<link rel="stylesheet" media="all" href="/themes/contrib/classy/css/components/collapse-processed.css?tak73n" />
+<link rel="stylesheet" media="all" href="/themes/contrib/classy/css/components/container-inline.css?tak73n" />
+<link rel="stylesheet" media="all" href="/themes/contrib/classy/css/components/details.css?tak73n" />
+<link rel="stylesheet" media="all" href="/themes/contrib/classy/css/components/exposed-filters.css?tak73n" />
+<link rel="stylesheet" media="all" href="/themes/contrib/classy/css/components/field.css?tak73n" />
+<link rel="stylesheet" media="all" href="/themes/contrib/classy/css/components/form.css?tak73n" />
+<link rel="stylesheet" media="all" href="/themes/contrib/classy/css/components/icons.css?tak73n" />
+<link rel="stylesheet" media="all" href="/themes/contrib/classy/css/components/inline-form.css?tak73n" />
+<link rel="stylesheet" media="all" href="/themes/contrib/classy/css/components/item-list.css?tak73n" />
+<link rel="stylesheet" media="all" href="/themes/contrib/classy/css/components/link.css?tak73n" />
+<link rel="stylesheet" media="all" href="/themes/contrib/classy/css/components/links.css?tak73n" />
+<link rel="stylesheet" media="all" href="/themes/contrib/classy/css/components/menu.css?tak73n" />
+<link rel="stylesheet" media="all" href="/themes/contrib/classy/css/components/more-link.css?tak73n" />
+<link rel="stylesheet" media="all" href="/themes/contrib/classy/css/components/pager.css?tak73n" />
+<link rel="stylesheet" media="all" href="/themes/contrib/classy/css/components/tabledrag.css?tak73n" />
+<link rel="stylesheet" media="all" href="/themes/contrib/classy/css/components/tableselect.css?tak73n" />
+<link rel="stylesheet" media="all" href="/themes/contrib/classy/css/components/tablesort.css?tak73n" />
+<link rel="stylesheet" media="all" href="/themes/contrib/classy/css/components/tabs.css?tak73n" />
+<link rel="stylesheet" media="all" href="/themes/contrib/classy/css/components/textarea.css?tak73n" />
+<link rel="stylesheet" media="all" href="/themes/contrib/classy/css/components/ui-dialog.css?tak73n" />
+<link rel="stylesheet" media="all" href="/themes/contrib/classy/css/components/messages.css?tak73n" />
+<link rel="stylesheet" media="all" href="/themes/contrib/classy/css/components/node.css?tak73n" />
+<link rel="stylesheet" media="all" href="/themes/contrib/classy/css/components/progress.css?tak73n" />
+<link rel="stylesheet" media="all" href="/themes/contrib/classy/css/components/dialog.css?tak73n" />
+<link rel="stylesheet" media="all" href="/themes/custom/banq_lyxn_glider/dist/css/styles.min.css?tak73n" />
+<link rel="stylesheet" media="all" href="/themes/custom/banq_lyxn_glider/dist/css/components.min.css?tak73n" />
+<link rel="stylesheet" media="all" href="//use.fontawesome.com/releases/v6.6.0/css/all.css" />
+
+    <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","pathPrefix":"","currentPath":"node\/3","currentPathIsAdmin":false,"isFront":true,"currentLanguage":"fr"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"gtag":{"tagId":"","consentMode":false,"otherIds":[],"events":[],"additionalConfigInfo":[]},"ajaxPageState":{"libraries":"eJx9UW1uwyAMvRCCIyHTOJQVMMOOluz0c7t0GY22P-h9WZhHgPru87ZWH3OasLtAJCwdmgmv1kxVPHwgU8GzGzMFyJ5ly8jmkoF5cwEYn7ggM8TDqzSpRx0V9QI5faLBVXKqNzf1pUG2OzWRKGb0AtFFPV65hTdYR7GYhLNv1JbmfpBp0CHq2678vOFQ7FLbEnLiK06GNxYs3-svyTcQwV7ZXbQC1BZCpsvNDmzMCXhtqGK3BxwSqTTqAjq992JPyv959rqrnKce8jB6r9A-evytipa7v-OAY6In8jR7SfqjdmB_53zS4uxZ-gJuz_U8","theme":"banq_lyxn_glider","theme_token":null},"ajaxTrustedUrl":{"form_action_p_pvdeGsVG5zNF_XLGPTvYSKCf43t8qZYSwcfZl2uzM":true},"gtm":{"tagId":null,"settings":{"data_layer":"dataLayer","include_classes":false,"allowlist_classes":"","blocklist_classes":"","include_environment":false,"environment_id":"","environment_token":""},"tagIds":["GTM-MHQDTF"]},"data":{"extlink":{"extTarget":true,"extTargetAppendNewWindowLabel":" ","extTargetNoOverride":false,"extNofollow":false,"extTitleNoOverride":false,"extNoreferrer":true,"extFollowNoOverride":false,"extClass":"ext","extLabel":"(le lien est externe)","extImgClass":false,"extSubdomains":true,"extExclude":"","extInclude":"","extCssExclude":"","extCssInclude":"","extCssExplicit":"","extAlert":false,"extAlertText":"Ce lien vous dirige vers un site externe. Nous ne sommes pas responsables de son contenu.","extHideIcons":true,"mailtoClass":"mailto","telClass":"tel","mailtoLabel":"(link sends email)","telLabel":"(link is a phone number)","extUseFontAwesome":false,"extIconPlacement":"append","extPreventOrphan":false,"extFaLinkClasses":"fa fa-external-link","extFaMailtoClasses":"fa fa-envelope-o","extAdditionalLinkClasses":"","extAdditionalMailtoClasses":"","extAdditionalTelClasses":"","extFaTelClasses":"fa fa-phone","whitelistedDomains":[],"extExcludeNoreferrer":""}},"csp":{"nonce":"33Mxsb9PCBWO2IUiPQsrgQ"},"user":{"uid":0,"permissionsHash":"30ef31c4a4ff8c5ccd87a8de2bc1f738579a415de70d1527484eed726453dc38"}}</script>
+<script src="/core/misc/drupalSettingsLoader.js?v=11.2.8"></script>
+<script src="/modules/contrib/google_tag/js/gtag.js?tak73n"></script>
+<script src="/modules/contrib/google_tag/js/gtm.js?tak73n"></script>
+
+             <script>
+          setTimeout(() => {
+            window.dataLayer = window.dataLayer || []
+            window.dataLayer.push({
+                'event': "virtualPageview",
+                'site': "BAnQ Numerique", // valeur constante
+                'pageUrl': window.location.href, // valeur dynamique - Url de la page
+                'pageTitle': "BAnQ numérique | Bibliothèque et Archives nationales du Québec", // valeur dynamique - Titre de la page
+                'page_category': "Page", // valeur dynamique - Page path level 1
+            });
+          }, "100");
+        </script>
+        <script>var __uzdbm_1 = "6b5759bd-9b97-4c5e-aa4f-1bcbb1692fa9";var __uzdbm_2 = "ZmVlYWNhNWYtZHBsNi00YWVlLTkxM2EtOWQyYWNiYzEyMzk3JDE0Mi4xMTIuNDcuMjc=";var __uzdbm_3 = "7f90006b5759bd-9b97-4c5e-aa4f-1bcbb1692fa91-17712614432160-00088751e9434a6364c10";var __uzdbm_4 = "false";var __uzdbm_5 = "uzmx";var __uzdbm_6 = "7f9000b54b65a9-a205-4dbf-b83f-4ab860806a9b1-17712614432160-3111e5de9c13d79110";var __uzdbm_7 = "banq.qc.ca";</script> <script>   (function (w, d, e, u, c, g, a, b) {     w["SSJSConnectorObj"] = w["SSJSConnectorObj"] || {       ss_cid: c,       domain_info: "auto",     };     w[g] = function (i, j) {       w["SSJSConnectorObj"][i] = j;     };     a = d.createElement(e);     a.async = true;     if (       navigator.userAgent.indexOf('MSIE') !== -1 ||       navigator.appVersion.indexOf('Trident/') > -1     ) {       u = u.replace("/advanced/", "/advanced/ie/");     }     a.src = u;     b = d.getElementsByTagName(e)[0];     b.parentNode.insertBefore(a, b);   })(     window, document, "script", "/18f5227b-e27b-445a-a53f-f845fbe69b40/stormcaster.js", "dpl8", "ssConf"   );   ssConf("c1", "https://numerique.banq.qc.ca");   ssConf("c3", "c99a4269-161c-4242-a3f0-28d44fa6ce24");   ssConf("au", "numerique.banq.qc.ca");   ssConf("cu", "validate.perfdrive.com, ssc"); </script> </head>
+  <body class="body-sidebars-none alias--accueil frontpage nodetype--page logged-out path-frontpage page-node-type-page">
+        <a href="#main-content" class="visually-hidden focusable skip-link">
+      Aller au contenu principal
+    </a>
+    
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'google_tag_gtm_iframe' -->
+<!-- BEGIN OUTPUT from 'modules/contrib/google_tag/templates/google-tag-gtm-iframe.html.twig' -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MHQDTF"
+                  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+<!-- END OUTPUT from 'modules/contrib/google_tag/templates/google-tag-gtm-iframe.html.twig' -->
+
+
+    
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'off_canvas_page_wrapper' -->
+<!-- BEGIN OUTPUT from 'themes/contrib/stable/templates/content/off-canvas-page-wrapper.html.twig' -->
+  <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+    
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'page' -->
+<!-- FILE NAME SUGGESTIONS:
+   ▪️ page--front.html.twig
+   ▪️ page--node--3.html.twig
+   ▪️ page--node--%.html.twig
+   ▪️ page--node.html.twig
+   ✅ page.html.twig
+-->
+<!-- 💡 BEGIN CUSTOM TEMPLATE OUTPUT from 'themes/custom/banq_lyxn_glider/templates/layout/page.html.twig' -->
+
+<div  class="page-standard front-page bg-red-200">
+      
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'region' -->
+<!-- FILE NAME SUGGESTIONS:
+   ✅ region--header-backbanq.html.twig
+   ▪️ region.html.twig
+-->
+<!-- 💡 BEGIN CUSTOM TEMPLATE OUTPUT from 'themes/custom/banq_lyxn_glider/templates/regions/region--header-backbanq.html.twig' -->
+
+
+  <div role="region" id="backBAnQ"  class="bq-backbanq region region-header-backbanq sticky-top" aria-label="Lien vers le portail de BAnQ">
+    <a href="https://www.banq.qc.ca">
+       
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'block' -->
+<!-- FILE NAME SUGGESTIONS:
+   ▪️ block--banq-lyxn-glider-retourversbanq7.html.twig
+   ▪️ block--block-content--2130a207-2322-4951-abaf-11f02fe83834.html.twig
+   ▪️ block--block-content--id-view--banq-lyxn-glider-retourversbanq7--full.html.twig
+   ▪️ block--block-content--id--banq-lyxn-glider-retourversbanq7.html.twig
+   ▪️ block--block-content--view-type--retour-vers-banq--full.html.twig
+   ▪️ block--block-content--type--retour-vers-banq.html.twig
+   ▪️ block--block-content--view--full.html.twig
+   ▪️ block--block-content.html.twig
+   ✅ block.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/contrib/classy/templates/block/block.html.twig' -->
+<div id="block-banq-lyxn-glider-retourversbanq7" class="block block-block-content block-block-content2130a207-2322-4951-abaf-11f02fe83834">
+  
+    
+      
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'field' -->
+<!-- FILE NAME SUGGESTIONS:
+   ▪️ field--block-content--field-logo-retour-banq--retour-vers-banq.html.twig
+   ▪️ field--block-content--field-logo-retour-banq.html.twig
+   ▪️ field--block-content--retour-vers-banq.html.twig
+   ▪️ field--field-logo-retour-banq.html.twig
+   ▪️ field--entity-reference.html.twig
+   ✅ field.html.twig
+-->
+<!-- 💡 BEGIN CUSTOM TEMPLATE OUTPUT from 'themes/custom/banq_lyxn_glider/templates/field/field.html.twig' -->
+
+                
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'media' -->
+<!-- FILE NAME SUGGESTIONS:
+   ▪️ media--source-image.html.twig
+   ▪️ media--icon--default.html.twig
+   ▪️ media--icon.html.twig
+   ▪️ media--default.html.twig
+   ✅ media.html.twig
+-->
+<!-- 💡 BEGIN CUSTOM TEMPLATE OUTPUT from 'themes/custom/banq_lyxn_glider/templates/media/media.html.twig' -->
+
+
+<div class="bq-media media media--type-icon media--view-mode-default">
+  
+      
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'field' -->
+<!-- FILE NAME SUGGESTIONS:
+   ▪️ field--media--field-media-image-1--icon.html.twig
+   ▪️ field--media--field-media-image-1.html.twig
+   ▪️ field--media--icon.html.twig
+   ▪️ field--field-media-image-1.html.twig
+   ▪️ field--image.html.twig
+   ✅ field.html.twig
+-->
+<!-- 💡 BEGIN CUSTOM TEMPLATE OUTPUT from 'themes/custom/banq_lyxn_glider/templates/field/field.html.twig' -->
+
+            
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'image_formatter' -->
+<!-- BEGIN OUTPUT from 'themes/contrib/classy/templates/field/image-formatter.html.twig' -->
+  
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'image' -->
+<!-- BEGIN OUTPUT from 'themes/contrib/glider/templates/field/image.html.twig' -->
+<img loading="lazy" width="64" height="64" src="/sites/default/files/2025-04/banq-logo-carre.svg" alt="Logo de BAnQ" class="img-fluid" />
+
+<!-- END OUTPUT from 'themes/contrib/glider/templates/field/image.html.twig' -->
+
+
+
+<!-- END OUTPUT from 'themes/contrib/classy/templates/field/image-formatter.html.twig' -->
+
+
+      
+<!-- END CUSTOM TEMPLATE OUTPUT from 'themes/custom/banq_lyxn_glider/templates/field/field.html.twig' -->
+
+
+  </div>
+
+<!-- END CUSTOM TEMPLATE OUTPUT from 'themes/custom/banq_lyxn_glider/templates/media/media.html.twig' -->
+
+
+              
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'media' -->
+<!-- FILE NAME SUGGESTIONS:
+   ▪️ media--source-image.html.twig
+   ▪️ media--icon--default.html.twig
+   ▪️ media--icon.html.twig
+   ▪️ media--default.html.twig
+   ✅ media.html.twig
+-->
+<!-- 💡 BEGIN CUSTOM TEMPLATE OUTPUT from 'themes/custom/banq_lyxn_glider/templates/media/media.html.twig' -->
+
+
+<div class="bq-media media media--type-icon media--view-mode-default">
+  
+      
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'field' -->
+<!-- FILE NAME SUGGESTIONS:
+   ▪️ field--media--field-media-image-1--icon.html.twig
+   ▪️ field--media--field-media-image-1.html.twig
+   ▪️ field--media--icon.html.twig
+   ▪️ field--field-media-image-1.html.twig
+   ▪️ field--image.html.twig
+   ✅ field.html.twig
+-->
+<!-- 💡 BEGIN CUSTOM TEMPLATE OUTPUT from 'themes/custom/banq_lyxn_glider/templates/field/field.html.twig' -->
+
+            
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'image_formatter' -->
+<!-- BEGIN OUTPUT from 'themes/contrib/classy/templates/field/image-formatter.html.twig' -->
+  
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'image' -->
+<!-- BEGIN OUTPUT from 'themes/contrib/glider/templates/field/image.html.twig' -->
+<img loading="lazy" width="220" height="9" src="/sites/default/files/2025-04/banq-logo-text-inline.svg" alt="Bibliothèque et Archives nationales du Québec" class="img-fluid" />
+
+<!-- END OUTPUT from 'themes/contrib/glider/templates/field/image.html.twig' -->
+
+
+
+<!-- END OUTPUT from 'themes/contrib/classy/templates/field/image-formatter.html.twig' -->
+
+
+      
+<!-- END CUSTOM TEMPLATE OUTPUT from 'themes/custom/banq_lyxn_glider/templates/field/field.html.twig' -->
+
+
+  </div>
+
+<!-- END CUSTOM TEMPLATE OUTPUT from 'themes/custom/banq_lyxn_glider/templates/media/media.html.twig' -->
+
+
+        
+<!-- END CUSTOM TEMPLATE OUTPUT from 'themes/custom/banq_lyxn_glider/templates/field/field.html.twig' -->
+
+
+  </div>
+
+<!-- END OUTPUT from 'themes/contrib/classy/templates/block/block.html.twig' -->
+
+
+    </a>
+  </div>
+
+<!-- END CUSTOM TEMPLATE OUTPUT from 'themes/custom/banq_lyxn_glider/templates/regions/region--header-backbanq.html.twig' -->
+
+
+  <header id="header" class="_bq-header">
+    
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'region' -->
+<!-- FILE NAME SUGGESTIONS:
+   ▪️ region--header-messages.html.twig
+   ✅ region.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/contrib/classy/templates/layout/region.html.twig' -->
+  <div class="region region-header-messages">
+    
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'block' -->
+<!-- FILE NAME SUGGESTIONS:
+   ▪️ block--banq-lyxn-glider-importantmessagesblock.html.twig
+   ▪️ block--banq-common-messages.html.twig
+   ▪️ block--banq-common.html.twig
+   ✅ block.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/contrib/classy/templates/block/block.html.twig' -->
+<div id="block-banq-lyxn-glider-importantmessagesblock" class="block block-banq-common block-banq-common-messages">
+  
+    
+      
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'banq_messages_block' -->
+<!-- BEGIN OUTPUT from 'modules/custom/banq_common/templates/banq-messages-block.html.twig' -->
+<div class="block block- bq-important-message-global-block">
+  
+    
+            
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'pattern_important_messages_list' -->
+<!-- FILE NAME SUGGESTIONS:
+   ▪️ pattern-important-messages-list--variant-default.html.twig
+   ✅ pattern-important-messages-list.html.twig
+-->
+<!-- 💡 BEGIN CUSTOM TEMPLATE OUTPUT from 'themes/custom/banq_lyxn_glider/patterns/molecules/important_messages_list/pattern-important-messages-list.html.twig' -->
+
+    
+
+    
+
+
+
+<div id="messages-important-list-472"  class="bq-important-message-list bq-important-message-list--important bq-important-message-list--default hidden bq-important-message-list--no-content" aria-hidden="true">
+  
+        <h3 class="bq-important-message-list__title">
+      <span class="sr-only">Message important :</span>
+      <span>BAnQ numérique évolue pour mieux vous servir</span>
+    </h3>
+
+    <div class="bq-important-message-list__center show" id="collapsable">
+            
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'pattern_important_message' -->
+<!-- FILE NAME SUGGESTIONS:
+   ▪️ pattern-important-message--variant-default.html.twig
+   ✅ pattern-important-message.html.twig
+-->
+<!-- 💡 BEGIN CUSTOM TEMPLATE OUTPUT from 'themes/custom/banq_lyxn_glider/patterns/atoms/important_message/pattern-important-message.html.twig' -->
+
+
+
+<div class="bq-important-message__center show">
+  <p>BAnQ numérique a été modernisé afin de mettre à niveau sa plateforme technologique, dans le but d’améliorer la performance et l’accessibilité sur tous les écrans, tout en assurant la durabilité du service.</p><p>N’hésitez pas à nous faire part de vos commentaires via <a href="https://numerique.banq.qc.ca/formulaire/commentaire">ce formulaire</a>.</p>
+  </div>
+
+<!-- END CUSTOM TEMPLATE OUTPUT from 'themes/custom/banq_lyxn_glider/patterns/atoms/important_message/pattern-important-message.html.twig' -->
+
+
+    </div>
+  
+      <button class="bq-important-message-list__close" type="button" aria-label="Fermer">
+      <i class="icon-action-fermer"></i>
+    </button>
+  </div>
+
+<!-- END CUSTOM TEMPLATE OUTPUT from 'themes/custom/banq_lyxn_glider/patterns/molecules/important_messages_list/pattern-important-messages-list.html.twig' -->
+
+
+      </div>
+
+<!-- END OUTPUT from 'modules/custom/banq_common/templates/banq-messages-block.html.twig' -->
+
+
+  </div>
+
+<!-- END OUTPUT from 'themes/contrib/classy/templates/block/block.html.twig' -->
+
+
+  </div>
+
+<!-- END OUTPUT from 'themes/contrib/classy/templates/layout/region.html.twig' -->
+
+
+
+    <div class="bq-header__wrapper navbar navbar-expand-lg navbar-light">
+      
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'region' -->
+<!-- FILE NAME SUGGESTIONS:
+   ✅ region--header-branding.html.twig
+   ▪️ region.html.twig
+-->
+<!-- 💡 BEGIN CUSTOM TEMPLATE OUTPUT from 'themes/custom/banq_lyxn_glider/templates/regions/region--header-branding.html.twig' -->
+
+
+  <div class="bq-header__branding region region-header-branding d-lg-flex">
+    
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'block' -->
+<!-- FILE NAME SUGGESTIONS:
+   ▪️ block--banq-lyxn-glider-site-branding.html.twig
+   ✅ block--system-branding-block.html.twig
+   ▪️ block--system.html.twig
+   ▪️ block.html.twig
+-->
+<!-- 💡 BEGIN CUSTOM TEMPLATE OUTPUT from 'themes/custom/banq_lyxn_glider/templates/blocks/block--system-branding-block.html.twig' -->
+<div id="block-banq-lyxn-glider-site-branding" class="block block-system block-system-branding-block">
+  
+    
+              <a href="/" rel="home" class="site-logo navbar-brand">
+            <img src="/sites/default/files/Logo_banq_numerique_4.svg" alt="Accueil" class="img-fluid"/>
+        </a>
+            <!-- div class="site-full-name">
+        <div class="site-full-name__square">
+            <img src="/themes/custom/banq_lyxn_glider/images/banq-logo-text.svg"
+                 alt="Bibliothèque et Archives Nationales du Québec">
+        </div>
+        <div class="site-full-name__inline">
+            <img src="/themes/custom/banq_lyxn_glider/images/banq-logo-text-inline.svg"
+                 alt="Bibliothèque et Archives Nationales du Québec">
+        </div>
+    </div -->
+    </div>
+
+<!-- END CUSTOM TEMPLATE OUTPUT from 'themes/custom/banq_lyxn_glider/templates/blocks/block--system-branding-block.html.twig' -->
+
+
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'block' -->
+<!-- FILE NAME SUGGESTIONS:
+   ▪️ block--banq-lyxn-glider-navigationprincipale.html.twig
+   ✅ block--system-menu-block--main.html.twig
+   ▪️ block--system-menu-block.html.twig
+   ▪️ block--system.html.twig
+   ▪️ block.html.twig
+-->
+<!-- 💡 BEGIN CUSTOM TEMPLATE OUTPUT from 'themes/custom/banq_lyxn_glider/templates/blocks/block--system-menu-block--main.html.twig' -->
+<div id="block-banq-lyxn-glider-navigationprincipale" class="block block-menu navigation menu--main">
+    
+         
+
+                
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'menu__main' -->
+<!-- FILE NAME SUGGESTIONS:
+   ✅ menu--main.html.twig
+   ✅ menu--main.html.twig
+   ▪️ menu.html.twig
+-->
+<!-- 💡 BEGIN CUSTOM TEMPLATE OUTPUT from 'themes/custom/banq_lyxn_glider/templates/menus/menu--main.html.twig' -->
+
+
+            <div class="collapse navbar-collapse" id="menuPrincipal">
+      <div class="headerMenuMobile">
+        <div class="headerMenuMobile_title">
+          <a href="/"><strong>BAnQ</strong>&nbsp;numérique</a>
+        </div>
+        <button class="navbar-toggler" type="button" 
+          data-bs-toggle="collapse" data-bs-target="#menuPrincipal" 
+          aria-controls="menuPrincipal" aria-expanded="false" 
+          aria-label="Fermer le menu">
+            <span class="headerMenuMobile_texte">Fermer <span>le menu</span></span>
+            <span class="fas fa-times" aria-hidden="true"></span>
+        </button>
+      </div>
+      <ul class="menu navbar-nav mx-0">
+                                <li class="menu-item nav-item nav-item--active-trail">
+            
+                          
+              <a href="/" class="iconeAccueil nav-link is-active" data-drupal-link-system-path="&lt;front&gt;" aria-current="page">Accueil</a>
+              <!-- i class="icon-toggleaction-chevron_right"></i -->
+            
+                      </li>
+                            <li class="menu-item nav-item nav-item--expanded dropdown">
+            
+                          <a href="#"
+                class="nav-link dropdown-toggle"
+                data-bs-toggle="dropdown"
+                aria-haspopup="true"
+                aria-expanded="false"
+              >
+                Découvrir le patrimoine
+              </a>
+            
+                                      <div class="collapse navbar-collapse">
+      <ul class="menu dropdown-menu dropdown-menu-end">
+                                <li class="menu-item nav-item">
+            
+                          
+              <a href="/collections/revues-journaux-quebecois-archives" class="nav-link" data-drupal-link-system-path="node/62">Revues et journaux</a>
+              <!-- i class="icon-toggleaction-chevron_right"></i -->
+            
+                      </li>
+                            <li class="menu-item nav-item">
+            
+                          
+              <a href="/collections/cartes-et-plans" class="nav-link" data-drupal-link-system-path="node/63">Cartes et plans</a>
+              <!-- i class="icon-toggleaction-chevron_right"></i -->
+            
+                      </li>
+                            <li class="menu-item nav-item">
+            
+                          
+              <a href="/collections/documents-du-domaine-public" class="nav-link" data-drupal-link-system-path="node/21">Documents du domaine public</a>
+              <!-- i class="icon-toggleaction-chevron_right"></i -->
+            
+                      </li>
+                            <li class="menu-item nav-item">
+            
+                          
+              <a href="/collections/images-anciennes-et-recentes" class="nav-link" data-drupal-link-system-path="node/61">Images anciennes et récentes</a>
+              <!-- i class="icon-toggleaction-chevron_right"></i -->
+            
+                      </li>
+                            <li class="menu-item nav-item">
+            
+                          
+              <a href="/collections/archives-notaires" class="nav-link" data-drupal-link-system-path="node/64">Archives de notaires</a>
+              <!-- i class="icon-toggleaction-chevron_right"></i -->
+            
+                      </li>
+                            <li class="menu-item nav-item">
+            
+                          
+              <a href="/collections/registres-etat-civil" class="nav-link" data-drupal-link-system-path="node/65">Registre de l&#039;état civil</a>
+              <!-- i class="icon-toggleaction-chevron_right"></i -->
+            
+                      </li>
+                            <li class="menu-item nav-item">
+            
+                          
+              <a href="/collections/partitions-musicales" class="nav-link" data-drupal-link-system-path="node/66">Partitions musicales</a>
+              <!-- i class="icon-toggleaction-chevron_right"></i -->
+            
+                      </li>
+                            <li class="menu-item nav-item">
+            
+                          
+              <a href="/collections/videos" class="nav-link" data-drupal-link-system-path="node/60">Documents vidéo</a>
+              <!-- i class="icon-toggleaction-chevron_right"></i -->
+            
+                      </li>
+                            <li class="menu-item nav-item">
+            
+                          
+              <a href="/collections/enregistrements-sonores-et-musicaux" class="nav-link" data-drupal-link-system-path="node/67">Enregistrements audio</a>
+              <!-- i class="icon-toggleaction-chevron_right"></i -->
+            
+                      </li>
+              </ul>
+    </div>
+  
+                      </li>
+                            <li class="menu-item nav-item nav-item--expanded dropdown">
+            
+                          <a href="#"
+                class="nav-link dropdown-toggle"
+                data-bs-toggle="dropdown"
+                aria-haspopup="true"
+                aria-expanded="false"
+              >
+                Guides et conseils
+              </a>
+            
+                                      <div class="collapse navbar-collapse">
+      <ul class="menu dropdown-menu dropdown-menu-end">
+                                <li class="menu-item nav-item">
+            
+                          
+              <a href="/guides-de-recherche/demarrer-votre-recherche" class="nav-link">Démarrer votre recherche</a>
+              <!-- i class="icon-toggleaction-chevron_right"></i -->
+            
+                      </li>
+                            <li class="menu-item nav-item">
+            
+                          
+              <a href="/aide" class="nav-link">Tous les guides</a>
+              <!-- i class="icon-toggleaction-chevron_right"></i -->
+            
+                      </li>
+              </ul>
+    </div>
+  
+                      </li>
+                            <li class="menu-item nav-item nav-item--expanded dropdown">
+            
+                          <a href="#"
+                class="nav-link dropdown-toggle"
+                data-bs-toggle="dropdown"
+                aria-haspopup="true"
+                aria-expanded="false"
+              >
+                À propos
+              </a>
+            
+                                      <div class="collapse navbar-collapse">
+      <ul class="menu dropdown-menu dropdown-menu-end">
+                                <li class="menu-item nav-item">
+            
+                          
+              <a href="/a-propos" class="nav-link" data-drupal-link-system-path="node/23">Mission de BAnQ numérique</a>
+              <!-- i class="icon-toggleaction-chevron_right"></i -->
+            
+                      </li>
+                            <li class="menu-item nav-item">
+            
+                                                        
+              <a href="https://www2.banq.qc.ca/outils/declarations_droits_licences/" class="nav-link" aria-label="Conditions d’utilisation (Ce lien s’ouvrira dans un nouvel onglet.)">Conditions d’utilisation</a>
+              <!-- i class="icon-toggleaction-chevron_right"></i -->
+            
+                      </li>
+              </ul>
+    </div>
+  
+                      </li>
+              </ul>
+    </div>
+  
+
+<div class="wrapperBtnMenuMobile">
+
+    <a class="btnSmMenu retourAccueil"  href="/"
+    aria-label="Retourner à l'accueil">
+        <i class="fas fa-home" aria-hidden="true"></i>
+  </a>
+
+  
+  
+    <button class="navbar-toggler" type="button" 
+    data-bs-toggle="collapse" data-bs-target="#menuPrincipal" 
+    aria-controls="menuPrincipal" aria-expanded="false" 
+    aria-label="Ouvrir le menu">
+        <span class="fas fa-bars" aria-hidden="true"></span>
+  </button>
+
+</div>
+
+
+<!-- END CUSTOM TEMPLATE OUTPUT from 'themes/custom/banq_lyxn_glider/templates/menus/menu--main.html.twig' -->
+
+
+    </div>
+
+<!-- END CUSTOM TEMPLATE OUTPUT from 'themes/custom/banq_lyxn_glider/templates/blocks/block--system-menu-block--main.html.twig' -->
+
+
+  </div>
+
+<!-- END CUSTOM TEMPLATE OUTPUT from 'themes/custom/banq_lyxn_glider/templates/regions/region--header-branding.html.twig' -->
+
+
+      
+    </div>
+      
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'region' -->
+<!-- FILE NAME SUGGESTIONS:
+   ▪️ region--header-breadcrumb.html.twig
+   ✅ region.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/contrib/classy/templates/layout/region.html.twig' -->
+  <div class="region region-header-breadcrumb">
+    
+  </div>
+
+<!-- END OUTPUT from 'themes/contrib/classy/templates/layout/region.html.twig' -->
+
+
+  </header>
+  
+    <main id="main-content" class="bq-main bq-main--page">
+            
+        <section id="content">
+      
+      <div id="content-area">
+        
+        
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'region' -->
+<!-- FILE NAME SUGGESTIONS:
+   ▪️ region--content.html.twig
+   ✅ region.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/contrib/classy/templates/layout/region.html.twig' -->
+  <div class="region region-content">
+    
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'block' -->
+<!-- FILE NAME SUGGESTIONS:
+   ▪️ block--banq-lyxn-glider-messages.html.twig
+   ✅ block--system-messages-block.html.twig
+   ▪️ block--system.html.twig
+   ▪️ block.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/contrib/stable/templates/block/block--system-messages-block.html.twig' -->
+<div data-drupal-messages-fallback class="hidden"></div>
+
+<!-- END OUTPUT from 'themes/contrib/stable/templates/block/block--system-messages-block.html.twig' -->
+
+
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'block' -->
+<!-- FILE NAME SUGGESTIONS:
+   ▪️ block--banq-lyxn-glider-content.html.twig
+   ▪️ block--system-main-block.html.twig
+   ▪️ block--system.html.twig
+   ✅ block.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/contrib/classy/templates/block/block.html.twig' -->
+<div id="block-banq-lyxn-glider-content" class="block block-system block-system-main-block">
+  
+    
+      
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'node' -->
+<!-- FILE NAME SUGGESTIONS:
+   ▪️ node--3--full.html.twig
+   ▪️ node--3.html.twig
+   ▪️ node--page--full.html.twig
+   ▪️ node--page.html.twig
+   ▪️ node--full.html.twig
+   ✅ node.html.twig
+-->
+<!-- 💡 BEGIN CUSTOM TEMPLATE OUTPUT from 'themes/custom/banq_lyxn_glider/templates/content/node.html.twig' -->
+
+<article class="node node--type-page node--view-mode-full">
+
+  
+    
+
+  
+  <div class="node__content">
+    
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'links__node' -->
+<!-- FILE NAME SUGGESTIONS:
+   ✅ links--node.html.twig
+   ✅ links--node.html.twig
+   ▪️ links.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/contrib/classy/templates/content/links--node.html.twig' -->
+
+<!-- END OUTPUT from 'themes/contrib/classy/templates/content/links--node.html.twig' -->
+
+
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'field' -->
+<!-- FILE NAME SUGGESTIONS:
+   ▪️ field--node--field-content--page.html.twig
+   ✅ field--node--field-content.html.twig
+   ▪️ field--node--page.html.twig
+   ▪️ field--field-content.html.twig
+   ▪️ field--entity-reference-revisions.html.twig
+   ▪️ field.html.twig
+-->
+<!-- 💡 BEGIN CUSTOM TEMPLATE OUTPUT from 'themes/custom/banq_lyxn_glider/templates/field/field--node--field-content.html.twig' -->
+
+  
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'paragraph' -->
+<!-- FILE NAME SUGGESTIONS:
+   ▪️ paragraph--recherche--default.html.twig
+   ▪️ paragraph--recherche.html.twig
+   ▪️ paragraph--default.html.twig
+   ✅ paragraph.html.twig
+-->
+<!-- 💡 BEGIN CUSTOM TEMPLATE OUTPUT from 'themes/custom/banq_lyxn_glider/templates/paragraphs/paragraph.html.twig' -->
+
+
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'field' -->
+<!-- FILE NAME SUGGESTIONS:
+   ▪️ field--paragraph--field-search-block--recherche.html.twig
+   ▪️ field--paragraph--field-search-block.html.twig
+   ▪️ field--paragraph--recherche.html.twig
+   ▪️ field--field-search-block.html.twig
+   ▪️ field--block-field.html.twig
+   ✅ field.html.twig
+-->
+<!-- 💡 BEGIN CUSTOM TEMPLATE OUTPUT from 'themes/custom/banq_lyxn_glider/templates/field/field.html.twig' -->
+
+            
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'block' -->
+<!-- FILE NAME SUGGESTIONS:
+   ▪️ block--searchboxfornumerique.html.twig
+   ▪️ block--banq-numerique-search-block.html.twig
+   ▪️ block--banq-numerique-search.html.twig
+   ✅ block.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/contrib/classy/templates/block/block.html.twig' -->
+<div class="numerique-quick-search-form block block-banq-numerique-search block-banq-numerique-search-block" data-drupal-selector="numerique-quick-search-form" id="block-searchboxfornumerique">
+  
+      <h2>Explorez la mémoire du Québec</h2>
+    
+      
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'form' -->
+<!-- FILE NAME SUGGESTIONS:
+   ▪️ form--numerique-quick-search-form.html.twig
+   ✅ form.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/contrib/classy/templates/form/form.html.twig' -->
+<form action="/" method="post" id="numerique-quick-search-form" accept-charset="UTF-8">
+  
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'form_element' -->
+<!-- BEGIN OUTPUT from 'themes/contrib/classy/templates/form/form-element.html.twig' -->
+<div class="js-form-item form-item js-form-type-select form-type-select js-form-item-type-document form-item-type-document">
+      
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'form_element_label' -->
+<!-- BEGIN OUTPUT from 'themes/contrib/classy/templates/form/form-element-label.html.twig' -->
+<label for="edit-type-document">Type de document</label>
+<!-- END OUTPUT from 'themes/contrib/classy/templates/form/form-element-label.html.twig' -->
+
+
+        
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'select' -->
+<!-- BEGIN OUTPUT from 'themes/contrib/classy/templates/form/select.html.twig' -->
+<select aria-label="Sélectionnez le type de document" data-drupal-selector="edit-type-document" id="edit-type-document" name="type_document" class="form-select"><option value="tous">Tous les types de documents</option><option value="Archives de notaires">Archives de notaires</option><option value="Audio">Audio</option><option value="Cartes et plans">Cartes et plans</option><option value="Images">Images</option><option value="Partitions musicales">Partitions musicales</option><option value="Registres de l&#039;état civil">Registres de l'état civil</option><option value="Revues et journaux">Revues et journaux</option><option value="Texte">Texte</option><option value="Video">Vidéo</option></select>
+
+<!-- END OUTPUT from 'themes/contrib/classy/templates/form/select.html.twig' -->
+
+
+        </div>
+
+<!-- END OUTPUT from 'themes/contrib/classy/templates/form/form-element.html.twig' -->
+
+
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'container' -->
+<!-- BEGIN OUTPUT from 'themes/contrib/classy/templates/form/container.html.twig' -->
+<div class="container-actions js-form-wrapper form-wrapper" data-drupal-selector="edit-container-actions" id="edit-container-actions">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'form_element' -->
+<!-- BEGIN OUTPUT from 'themes/contrib/classy/templates/form/form-element.html.twig' -->
+<div class="js-form-item form-item js-form-type-textfield form-type-textfield js-form-item-terme form-item-terme form-no-label">
+        
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'input__textfield' -->
+<!-- FILE NAME SUGGESTIONS:
+   ▪️ input--textfield.html.twig
+   ✅ input.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/contrib/glider/templates/form/input.html.twig' -->
+<input aria-label="Termes recherchés" data-drupal-selector="edit-terme" type="text" id="edit-terme" name="terme" value="" size="60" maxlength="128" placeholder="Rechercher dans le patrimoine numérisé" class="form-text form-control" />
+
+<!-- END OUTPUT from 'themes/contrib/glider/templates/form/input.html.twig' -->
+
+
+        </div>
+
+<!-- END OUTPUT from 'themes/contrib/classy/templates/form/form-element.html.twig' -->
+
+<button class="reset-button" type="reset" aria-label="Réinitialiser" data-drupal-selector="edit-reset"><i class="fa-solid fa-xmark"></i></button>
+
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'input__image_button' -->
+<!-- FILE NAME SUGGESTIONS:
+   ▪️ input--image-button.html.twig
+   ✅ input.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/contrib/glider/templates/form/input.html.twig' -->
+<input alt="Recherche" data-drupal-selector="edit-submit" type="image" id="edit-submit" name="op" value="Chercher" src="/themes/custom/banq_lyxn_glider/images/search/magnifying-glass.svg" class="image-button js-form-submit form-submit form-control" />
+
+<!-- END OUTPUT from 'themes/contrib/glider/templates/form/input.html.twig' -->
+
+</div>
+
+<!-- END OUTPUT from 'themes/contrib/classy/templates/form/container.html.twig' -->
+
+
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'input__hidden' -->
+<!-- FILE NAME SUGGESTIONS:
+   ▪️ input--hidden.html.twig
+   ✅ input.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/contrib/glider/templates/form/input.html.twig' -->
+<input autocomplete="off" data-drupal-selector="form-hqlgrjkndir2umakcdmk66mbqwugafcllzwl-jt2k8" type="hidden" name="form_build_id" value="form-_hQLgrJkNDir2uMAKcDMK66mBQWugAFcllzWl_jT2k8" class="form-control" />
+
+<!-- END OUTPUT from 'themes/contrib/glider/templates/form/input.html.twig' -->
+
+
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'input__hidden' -->
+<!-- FILE NAME SUGGESTIONS:
+   ▪️ input--hidden.html.twig
+   ✅ input.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/contrib/glider/templates/form/input.html.twig' -->
+<input data-drupal-selector="edit-numerique-quick-search-form" type="hidden" name="form_id" value="numerique_quick_search_form" class="form-control" />
+
+<!-- END OUTPUT from 'themes/contrib/glider/templates/form/input.html.twig' -->
+
+
+</form>
+
+<!-- END OUTPUT from 'themes/contrib/classy/templates/form/form.html.twig' -->
+
+
+  </div>
+
+<!-- END OUTPUT from 'themes/contrib/classy/templates/block/block.html.twig' -->
+
+
+      
+<!-- END CUSTOM TEMPLATE OUTPUT from 'themes/custom/banq_lyxn_glider/templates/field/field.html.twig' -->
+
+
+
+<!-- END CUSTOM TEMPLATE OUTPUT from 'themes/custom/banq_lyxn_glider/templates/paragraphs/paragraph.html.twig' -->
+
+
+  
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'paragraph' -->
+<!-- FILE NAME SUGGESTIONS:
+   ▪️ paragraph--trio-de-tuiles--default.html.twig
+   ✅ paragraph--trio-de-tuiles.html.twig
+   ▪️ paragraph--default.html.twig
+   ▪️ paragraph.html.twig
+-->
+<!-- 💡 BEGIN CUSTOM TEMPLATE OUTPUT from 'themes/custom/banq_lyxn_glider/templates/paragraphs/paragraph--trio-de-tuiles.html.twig' -->
+
+
+<section class="bq-block-trio-of-tiles block block-section block-">
+  
+  
+
+  
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'pattern_trio_of_tiles' -->
+<!-- 💡 BEGIN CUSTOM TEMPLATE OUTPUT from 'themes/custom/banq_lyxn_glider/patterns/organisms/trio_of_tiles/pattern-trio-of-tiles.html.twig' -->
+
+
+<div  class="bq-trio-of-tiles bq-trio-of-tiles--">
+  <div class="bq-trio-of-tiles__header">
+          <h2 class="bq-trio-of-tiles__title">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'field' -->
+<!-- FILE NAME SUGGESTIONS:
+   ▪️ field--paragraph--field-title-rich--trio-de-tuiles.html.twig
+   ▪️ field--paragraph--field-title-rich.html.twig
+   ▪️ field--paragraph--trio-de-tuiles.html.twig
+   ✅ field--field-title-rich.html.twig
+   ▪️ field--text-long.html.twig
+   ▪️ field.html.twig
+-->
+<!-- 💡 BEGIN CUSTOM TEMPLATE OUTPUT from 'themes/custom/banq_lyxn_glider/templates/field/field--field-title-rich.html.twig' -->
+
+  <span class="field field--name-field-title-rich field--type-text-long">
+              <span class="field__item">Nos collections</span>
+          </span>
+
+<!-- END CUSTOM TEMPLATE OUTPUT from 'themes/custom/banq_lyxn_glider/templates/field/field--field-title-rich.html.twig' -->
+
+</h2>
+              <a href="/collections" class="bq-trio-of-tiles__view-more bq-trio-of-tiles__view-more--top bq-btn bq-btn--secondary bq-btn--small">
+        <span class="text">Tous les contenus</span>
+        <i class="bq-trio-of-tiles__view-more__icon icon icon-toggleaction-chevron_right icon--left"></i>
+      </a>
+      </div>
+  <div class="bq-trio-of-tiles__view">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'field' -->
+<!-- FILE NAME SUGGESTIONS:
+   ▪️ field--paragraph--field-9-components--trio-de-tuiles.html.twig
+   ▪️ field--paragraph--field-9-components.html.twig
+   ▪️ field--paragraph--trio-de-tuiles.html.twig
+   ▪️ field--field-9-components.html.twig
+   ▪️ field--entity-reference.html.twig
+   ✅ field.html.twig
+-->
+<!-- 💡 BEGIN CUSTOM TEMPLATE OUTPUT from 'themes/custom/banq_lyxn_glider/templates/field/field.html.twig' -->
+
+                
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'paragraph' -->
+<!-- FILE NAME SUGGESTIONS:
+   ▪️ paragraph--tuile--default.html.twig
+   ✅ paragraph--tuile.html.twig
+   ▪️ paragraph--default.html.twig
+   ▪️ paragraph.html.twig
+-->
+<!-- 💡 BEGIN CUSTOM TEMPLATE OUTPUT from 'themes/custom/banq_lyxn_glider/templates/paragraphs/paragraph--tuile.html.twig' -->
+
+
+<section class="block block-section block-trio-of-tiles-item block-">
+  
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'pattern_trio_of_tiles_item' -->
+<!-- 💡 BEGIN CUSTOM TEMPLATE OUTPUT from 'themes/custom/banq_lyxn_glider/patterns/atoms/trio_of_tiles_item/pattern-trio-of-tiles-item.html.twig' -->
+
+<div  class="bq-trio-of-tiles-item">
+  <div class="bq-trio-of-tiles-item__image-wrapper">
+          <div class="bq-trio-of-tiles-item__image">
+        
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'field' -->
+<!-- FILE NAME SUGGESTIONS:
+   ▪️ field--paragraph--field-image--tuile.html.twig
+   ▪️ field--paragraph--field-image.html.twig
+   ▪️ field--paragraph--tuile.html.twig
+   ▪️ field--field-image.html.twig
+   ▪️ field--entity-reference.html.twig
+   ✅ field.html.twig
+-->
+<!-- 💡 BEGIN CUSTOM TEMPLATE OUTPUT from 'themes/custom/banq_lyxn_glider/templates/field/field.html.twig' -->
+
+            
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'media' -->
+<!-- FILE NAME SUGGESTIONS:
+   ▪️ media--source-image.html.twig
+   ▪️ media--image--trio-de-tuile.html.twig
+   ▪️ media--image.html.twig
+   ▪️ media--trio-de-tuile.html.twig
+   ✅ media.html.twig
+-->
+<!-- 💡 BEGIN CUSTOM TEMPLATE OUTPUT from 'themes/custom/banq_lyxn_glider/templates/media/media.html.twig' -->
+
+
+<div class="bq-media media media--type-image media--view-mode-trio-de-tuile">
+  
+      
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'field' -->
+<!-- FILE NAME SUGGESTIONS:
+   ▪️ field--media--field-media-image--image.html.twig
+   ▪️ field--media--field-media-image.html.twig
+   ✅ field--media--image.html.twig
+   ▪️ field--field-media-image.html.twig
+   ▪️ field--image.html.twig
+   ▪️ field.html.twig
+-->
+<!-- 💡 BEGIN CUSTOM TEMPLATE OUTPUT from 'themes/custom/banq_lyxn_glider/templates/field/field--media--image.html.twig' -->
+
+  
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'image_formatter' -->
+<!-- BEGIN OUTPUT from 'themes/contrib/classy/templates/field/image-formatter.html.twig' -->
+  
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'image_style' -->
+<!-- BEGIN OUTPUT from 'themes/contrib/classy/templates/field/image-style.html.twig' -->
+
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'image' -->
+<!-- BEGIN OUTPUT from 'themes/contrib/glider/templates/field/image.html.twig' -->
+<img loading="lazy" src="/sites/default/files/styles/format_16_9_trio_de_tuile/public/2025-10/img-tuile-revues-journaux.png.webp?itok=GT6FGB2k" width="416" height="234" alt="Revues et journaux québécois archivés" class="img-fluid image-style-format-16-9-trio-de-tuile" />
+
+<!-- END OUTPUT from 'themes/contrib/glider/templates/field/image.html.twig' -->
+
+
+
+<!-- END OUTPUT from 'themes/contrib/classy/templates/field/image-style.html.twig' -->
+
+
+
+<!-- END OUTPUT from 'themes/contrib/classy/templates/field/image-formatter.html.twig' -->
+
+
+
+<!-- END CUSTOM TEMPLATE OUTPUT from 'themes/custom/banq_lyxn_glider/templates/field/field--media--image.html.twig' -->
+
+
+  </div>
+
+<!-- END CUSTOM TEMPLATE OUTPUT from 'themes/custom/banq_lyxn_glider/templates/media/media.html.twig' -->
+
+
+      
+<!-- END CUSTOM TEMPLATE OUTPUT from 'themes/custom/banq_lyxn_glider/templates/field/field.html.twig' -->
+
+
+      </div>
+              <div class="bq-trio-of-tiles-item__title">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'field' -->
+<!-- FILE NAME SUGGESTIONS:
+   ▪️ field--paragraph--field-title--tuile.html.twig
+   ▪️ field--paragraph--field-title.html.twig
+   ▪️ field--paragraph--tuile.html.twig
+   ▪️ field--field-title.html.twig
+   ▪️ field--string.html.twig
+   ✅ field.html.twig
+-->
+<!-- 💡 BEGIN CUSTOM TEMPLATE OUTPUT from 'themes/custom/banq_lyxn_glider/templates/field/field.html.twig' -->
+
+            Revues et journaux québécois archivés
+      
+<!-- END CUSTOM TEMPLATE OUTPUT from 'themes/custom/banq_lyxn_glider/templates/field/field.html.twig' -->
+
+</div>
+      </div>
+      <div class="bq-trio-of-tiles-item__teaser">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'field' -->
+<!-- FILE NAME SUGGESTIONS:
+   ▪️ field--paragraph--field-description--tuile.html.twig
+   ▪️ field--paragraph--field-description.html.twig
+   ▪️ field--paragraph--tuile.html.twig
+   ▪️ field--field-description.html.twig
+   ✅ field--text-with-summary.html.twig
+   ▪️ field.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/contrib/classy/templates/field/field--text-with-summary.html.twig' -->
+
+            Remontez le fil du temps &#xE0; travers la collection exceptionnelle des journaux et revues du Qu&#xE9;bec, de 1764 jusqu&#x2019;&#xE0; nos jours.&#xA0;
+      
+<!-- END OUTPUT from 'themes/contrib/classy/templates/field/field--text-with-summary.html.twig' -->
+
+</div>
+        <a href="/collections/revues-journaux-quebecois-archives" class="bq-trio-of-tiles-item__link" aria-label="Revues et journaux québécois archivés">
+      <span class="sr-only">
+        
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'field' -->
+<!-- FILE NAME SUGGESTIONS:
+   ▪️ field--paragraph--field-title--tuile.html.twig
+   ▪️ field--paragraph--field-title.html.twig
+   ▪️ field--paragraph--tuile.html.twig
+   ▪️ field--field-title.html.twig
+   ▪️ field--string.html.twig
+   ✅ field.html.twig
+-->
+<!-- 💡 BEGIN CUSTOM TEMPLATE OUTPUT from 'themes/custom/banq_lyxn_glider/templates/field/field.html.twig' -->
+
+            Revues et journaux québécois archivés
+      
+<!-- END CUSTOM TEMPLATE OUTPUT from 'themes/custom/banq_lyxn_glider/templates/field/field.html.twig' -->
+
+ 
+      </span>
+    </a>
+  </div>
+
+<!-- END CUSTOM TEMPLATE OUTPUT from 'themes/custom/banq_lyxn_glider/patterns/atoms/trio_of_tiles_item/pattern-trio-of-tiles-item.html.twig' -->
+
+
+</section>
+
+<!-- END CUSTOM TEMPLATE OUTPUT from 'themes/custom/banq_lyxn_glider/templates/paragraphs/paragraph--tuile.html.twig' -->
+
+
+              
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'paragraph' -->
+<!-- FILE NAME SUGGESTIONS:
+   ▪️ paragraph--tuile--default.html.twig
+   ✅ paragraph--tuile.html.twig
+   ▪️ paragraph--default.html.twig
+   ▪️ paragraph.html.twig
+-->
+<!-- 💡 BEGIN CUSTOM TEMPLATE OUTPUT from 'themes/custom/banq_lyxn_glider/templates/paragraphs/paragraph--tuile.html.twig' -->
+
+
+<section class="block block-section block-trio-of-tiles-item block-">
+  
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'pattern_trio_of_tiles_item' -->
+<!-- 💡 BEGIN CUSTOM TEMPLATE OUTPUT from 'themes/custom/banq_lyxn_glider/patterns/atoms/trio_of_tiles_item/pattern-trio-of-tiles-item.html.twig' -->
+
+<div  class="bq-trio-of-tiles-item">
+  <div class="bq-trio-of-tiles-item__image-wrapper">
+          <div class="bq-trio-of-tiles-item__image">
+        
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'field' -->
+<!-- FILE NAME SUGGESTIONS:
+   ▪️ field--paragraph--field-image--tuile.html.twig
+   ▪️ field--paragraph--field-image.html.twig
+   ▪️ field--paragraph--tuile.html.twig
+   ▪️ field--field-image.html.twig
+   ▪️ field--entity-reference.html.twig
+   ✅ field.html.twig
+-->
+<!-- 💡 BEGIN CUSTOM TEMPLATE OUTPUT from 'themes/custom/banq_lyxn_glider/templates/field/field.html.twig' -->
+
+            
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'media' -->
+<!-- FILE NAME SUGGESTIONS:
+   ▪️ media--source-image.html.twig
+   ▪️ media--image--trio-de-tuile.html.twig
+   ▪️ media--image.html.twig
+   ▪️ media--trio-de-tuile.html.twig
+   ✅ media.html.twig
+-->
+<!-- 💡 BEGIN CUSTOM TEMPLATE OUTPUT from 'themes/custom/banq_lyxn_glider/templates/media/media.html.twig' -->
+
+
+<div class="bq-media media media--type-image media--view-mode-trio-de-tuile">
+  
+      
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'field' -->
+<!-- FILE NAME SUGGESTIONS:
+   ▪️ field--media--field-media-image--image.html.twig
+   ▪️ field--media--field-media-image.html.twig
+   ✅ field--media--image.html.twig
+   ▪️ field--field-media-image.html.twig
+   ▪️ field--image.html.twig
+   ▪️ field.html.twig
+-->
+<!-- 💡 BEGIN CUSTOM TEMPLATE OUTPUT from 'themes/custom/banq_lyxn_glider/templates/field/field--media--image.html.twig' -->
+
+  
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'image_formatter' -->
+<!-- BEGIN OUTPUT from 'themes/contrib/classy/templates/field/image-formatter.html.twig' -->
+  
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'image_style' -->
+<!-- BEGIN OUTPUT from 'themes/contrib/classy/templates/field/image-style.html.twig' -->
+
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'image' -->
+<!-- BEGIN OUTPUT from 'themes/contrib/glider/templates/field/image.html.twig' -->
+<img loading="lazy" src="/sites/default/files/styles/format_16_9_trio_de_tuile/public/2025-04/img-hero-carte-quebec.png.webp?itok=FATOudCA" width="416" height="234" alt="Carte du Québec" class="img-fluid image-style-format-16-9-trio-de-tuile" />
+
+<!-- END OUTPUT from 'themes/contrib/glider/templates/field/image.html.twig' -->
+
+
+
+<!-- END OUTPUT from 'themes/contrib/classy/templates/field/image-style.html.twig' -->
+
+
+
+<!-- END OUTPUT from 'themes/contrib/classy/templates/field/image-formatter.html.twig' -->
+
+
+
+<!-- END CUSTOM TEMPLATE OUTPUT from 'themes/custom/banq_lyxn_glider/templates/field/field--media--image.html.twig' -->
+
+
+  </div>
+
+<!-- END CUSTOM TEMPLATE OUTPUT from 'themes/custom/banq_lyxn_glider/templates/media/media.html.twig' -->
+
+
+      
+<!-- END CUSTOM TEMPLATE OUTPUT from 'themes/custom/banq_lyxn_glider/templates/field/field.html.twig' -->
+
+
+      </div>
+              <div class="bq-trio-of-tiles-item__title">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'field' -->
+<!-- FILE NAME SUGGESTIONS:
+   ▪️ field--paragraph--field-title--tuile.html.twig
+   ▪️ field--paragraph--field-title.html.twig
+   ▪️ field--paragraph--tuile.html.twig
+   ▪️ field--field-title.html.twig
+   ▪️ field--string.html.twig
+   ✅ field.html.twig
+-->
+<!-- 💡 BEGIN CUSTOM TEMPLATE OUTPUT from 'themes/custom/banq_lyxn_glider/templates/field/field.html.twig' -->
+
+            Cartes et plans
+      
+<!-- END CUSTOM TEMPLATE OUTPUT from 'themes/custom/banq_lyxn_glider/templates/field/field.html.twig' -->
+
+</div>
+      </div>
+      <div class="bq-trio-of-tiles-item__teaser">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'field' -->
+<!-- FILE NAME SUGGESTIONS:
+   ▪️ field--paragraph--field-description--tuile.html.twig
+   ▪️ field--paragraph--field-description.html.twig
+   ▪️ field--paragraph--tuile.html.twig
+   ▪️ field--field-description.html.twig
+   ✅ field--text-with-summary.html.twig
+   ▪️ field.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/contrib/classy/templates/field/field--text-with-summary.html.twig' -->
+
+            Consultez des dizaines de milliers de cartes et plans relatifs aux territoires du Qu&#xE9;bec et de l&#x2019;Am&#xE9;rique du Nord.&#xA0;
+      
+<!-- END OUTPUT from 'themes/contrib/classy/templates/field/field--text-with-summary.html.twig' -->
+
+</div>
+        <a href="/collections/cartes-et-plans" class="bq-trio-of-tiles-item__link" aria-label="Cartes et plans">
+      <span class="sr-only">
+        
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'field' -->
+<!-- FILE NAME SUGGESTIONS:
+   ▪️ field--paragraph--field-title--tuile.html.twig
+   ▪️ field--paragraph--field-title.html.twig
+   ▪️ field--paragraph--tuile.html.twig
+   ▪️ field--field-title.html.twig
+   ▪️ field--string.html.twig
+   ✅ field.html.twig
+-->
+<!-- 💡 BEGIN CUSTOM TEMPLATE OUTPUT from 'themes/custom/banq_lyxn_glider/templates/field/field.html.twig' -->
+
+            Cartes et plans
+      
+<!-- END CUSTOM TEMPLATE OUTPUT from 'themes/custom/banq_lyxn_glider/templates/field/field.html.twig' -->
+
+ 
+      </span>
+    </a>
+  </div>
+
+<!-- END CUSTOM TEMPLATE OUTPUT from 'themes/custom/banq_lyxn_glider/patterns/atoms/trio_of_tiles_item/pattern-trio-of-tiles-item.html.twig' -->
+
+
+</section>
+
+<!-- END CUSTOM TEMPLATE OUTPUT from 'themes/custom/banq_lyxn_glider/templates/paragraphs/paragraph--tuile.html.twig' -->
+
+
+              
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'paragraph' -->
+<!-- FILE NAME SUGGESTIONS:
+   ▪️ paragraph--tuile--default.html.twig
+   ✅ paragraph--tuile.html.twig
+   ▪️ paragraph--default.html.twig
+   ▪️ paragraph.html.twig
+-->
+<!-- 💡 BEGIN CUSTOM TEMPLATE OUTPUT from 'themes/custom/banq_lyxn_glider/templates/paragraphs/paragraph--tuile.html.twig' -->
+
+
+<section class="block block-section block-trio-of-tiles-item block-">
+  
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'pattern_trio_of_tiles_item' -->
+<!-- 💡 BEGIN CUSTOM TEMPLATE OUTPUT from 'themes/custom/banq_lyxn_glider/patterns/atoms/trio_of_tiles_item/pattern-trio-of-tiles-item.html.twig' -->
+
+<div  class="bq-trio-of-tiles-item">
+  <div class="bq-trio-of-tiles-item__image-wrapper">
+          <div class="bq-trio-of-tiles-item__image">
+        
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'field' -->
+<!-- FILE NAME SUGGESTIONS:
+   ▪️ field--paragraph--field-image--tuile.html.twig
+   ▪️ field--paragraph--field-image.html.twig
+   ▪️ field--paragraph--tuile.html.twig
+   ▪️ field--field-image.html.twig
+   ▪️ field--entity-reference.html.twig
+   ✅ field.html.twig
+-->
+<!-- 💡 BEGIN CUSTOM TEMPLATE OUTPUT from 'themes/custom/banq_lyxn_glider/templates/field/field.html.twig' -->
+
+            
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'media' -->
+<!-- FILE NAME SUGGESTIONS:
+   ▪️ media--source-image.html.twig
+   ▪️ media--image--trio-de-tuile.html.twig
+   ▪️ media--image.html.twig
+   ▪️ media--trio-de-tuile.html.twig
+   ✅ media.html.twig
+-->
+<!-- 💡 BEGIN CUSTOM TEMPLATE OUTPUT from 'themes/custom/banq_lyxn_glider/templates/media/media.html.twig' -->
+
+
+<div class="bq-media media media--type-image media--view-mode-trio-de-tuile">
+  
+      
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'field' -->
+<!-- FILE NAME SUGGESTIONS:
+   ▪️ field--media--field-media-image--image.html.twig
+   ▪️ field--media--field-media-image.html.twig
+   ✅ field--media--image.html.twig
+   ▪️ field--field-media-image.html.twig
+   ▪️ field--image.html.twig
+   ▪️ field.html.twig
+-->
+<!-- 💡 BEGIN CUSTOM TEMPLATE OUTPUT from 'themes/custom/banq_lyxn_glider/templates/field/field--media--image.html.twig' -->
+
+  
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'image_formatter' -->
+<!-- BEGIN OUTPUT from 'themes/contrib/classy/templates/field/image-formatter.html.twig' -->
+  
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'image_style' -->
+<!-- BEGIN OUTPUT from 'themes/contrib/classy/templates/field/image-style.html.twig' -->
+
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'image' -->
+<!-- BEGIN OUTPUT from 'themes/contrib/glider/templates/field/image.html.twig' -->
+<img loading="lazy" src="/sites/default/files/styles/format_16_9_trio_de_tuile/public/2025-10/img-tuile-collections-images_1.png.webp?itok=AjSUw7pV" width="416" height="234" alt="Collections d&#039;images" class="img-fluid image-style-format-16-9-trio-de-tuile" />
+
+<!-- END OUTPUT from 'themes/contrib/glider/templates/field/image.html.twig' -->
+
+
+
+<!-- END OUTPUT from 'themes/contrib/classy/templates/field/image-style.html.twig' -->
+
+
+
+<!-- END OUTPUT from 'themes/contrib/classy/templates/field/image-formatter.html.twig' -->
+
+
+
+<!-- END CUSTOM TEMPLATE OUTPUT from 'themes/custom/banq_lyxn_glider/templates/field/field--media--image.html.twig' -->
+
+
+  </div>
+
+<!-- END CUSTOM TEMPLATE OUTPUT from 'themes/custom/banq_lyxn_glider/templates/media/media.html.twig' -->
+
+
+      
+<!-- END CUSTOM TEMPLATE OUTPUT from 'themes/custom/banq_lyxn_glider/templates/field/field.html.twig' -->
+
+
+      </div>
+              <div class="bq-trio-of-tiles-item__title">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'field' -->
+<!-- FILE NAME SUGGESTIONS:
+   ▪️ field--paragraph--field-title--tuile.html.twig
+   ▪️ field--paragraph--field-title.html.twig
+   ▪️ field--paragraph--tuile.html.twig
+   ▪️ field--field-title.html.twig
+   ▪️ field--string.html.twig
+   ✅ field.html.twig
+-->
+<!-- 💡 BEGIN CUSTOM TEMPLATE OUTPUT from 'themes/custom/banq_lyxn_glider/templates/field/field.html.twig' -->
+
+            Images anciennes et récentes
+      
+<!-- END CUSTOM TEMPLATE OUTPUT from 'themes/custom/banq_lyxn_glider/templates/field/field.html.twig' -->
+
+</div>
+      </div>
+      <div class="bq-trio-of-tiles-item__teaser">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'field' -->
+<!-- FILE NAME SUGGESTIONS:
+   ▪️ field--paragraph--field-description--tuile.html.twig
+   ▪️ field--paragraph--field-description.html.twig
+   ▪️ field--paragraph--tuile.html.twig
+   ▪️ field--field-description.html.twig
+   ✅ field--text-with-summary.html.twig
+   ▪️ field.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/contrib/classy/templates/field/field--text-with-summary.html.twig' -->
+
+            Fouillez parmi quantit&#xE9; de photos, d&#x2019;affiches, de cartes postales, d&#x2019;estampes et d&#x2019;autres p&#xE9;pites visuelles.&#xA0;
+      
+<!-- END OUTPUT from 'themes/contrib/classy/templates/field/field--text-with-summary.html.twig' -->
+
+</div>
+        <a href="/collections/images-anciennes-et-recentes" class="bq-trio-of-tiles-item__link" aria-label="Images anciennes et récentes">
+      <span class="sr-only">
+        
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'field' -->
+<!-- FILE NAME SUGGESTIONS:
+   ▪️ field--paragraph--field-title--tuile.html.twig
+   ▪️ field--paragraph--field-title.html.twig
+   ▪️ field--paragraph--tuile.html.twig
+   ▪️ field--field-title.html.twig
+   ▪️ field--string.html.twig
+   ✅ field.html.twig
+-->
+<!-- 💡 BEGIN CUSTOM TEMPLATE OUTPUT from 'themes/custom/banq_lyxn_glider/templates/field/field.html.twig' -->
+
+            Images anciennes et récentes
+      
+<!-- END CUSTOM TEMPLATE OUTPUT from 'themes/custom/banq_lyxn_glider/templates/field/field.html.twig' -->
+
+ 
+      </span>
+    </a>
+  </div>
+
+<!-- END CUSTOM TEMPLATE OUTPUT from 'themes/custom/banq_lyxn_glider/patterns/atoms/trio_of_tiles_item/pattern-trio-of-tiles-item.html.twig' -->
+
+
+</section>
+
+<!-- END CUSTOM TEMPLATE OUTPUT from 'themes/custom/banq_lyxn_glider/templates/paragraphs/paragraph--tuile.html.twig' -->
+
+
+        
+<!-- END CUSTOM TEMPLATE OUTPUT from 'themes/custom/banq_lyxn_glider/templates/field/field.html.twig' -->
+
+</div>
+      <a href="/collections" class="bq-trio-of-tiles__view-more bq-trio-of-tiles__view-more--bottom bq-btn bq-btn--secondary bq-btn--small">
+      <span class="text">Tous les contenus</span>
+      <i class="bq-trio-of-tiles__view-more__icon icon icon-toggleaction-chevron_right icon--left"></i>
+    </a>
+  </div>
+
+<!-- END CUSTOM TEMPLATE OUTPUT from 'themes/custom/banq_lyxn_glider/patterns/organisms/trio_of_tiles/pattern-trio-of-tiles.html.twig' -->
+
+
+</section>
+
+
+<!-- END CUSTOM TEMPLATE OUTPUT from 'themes/custom/banq_lyxn_glider/templates/paragraphs/paragraph--trio-de-tuiles.html.twig' -->
+
+
+  
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'paragraph' -->
+<!-- FILE NAME SUGGESTIONS:
+   ▪️ paragraph--cta-banner--default.html.twig
+   ✅ paragraph--cta-banner.html.twig
+   ▪️ paragraph--default.html.twig
+   ▪️ paragraph.html.twig
+-->
+<!-- 💡 BEGIN CUSTOM TEMPLATE OUTPUT from 'themes/custom/banq_lyxn_glider/templates/paragraphs/paragraph--cta-banner.html.twig' -->
+
+
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'pattern_cta_banner' -->
+<!-- 💡 BEGIN CUSTOM TEMPLATE OUTPUT from 'themes/custom/banq_lyxn_glider/patterns/molecules/cta_banner/pattern-cta-banner.html.twig' -->
+
+
+
+  <article
+     class="cta-banner cta-banner--blue"
+    style=""
+  >
+        <div class="d-flex flex-column w-100">
+        <h2 class="cta-banner__title">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'field' -->
+<!-- FILE NAME SUGGESTIONS:
+   ▪️ field--paragraph--field-title-rich--cta-banner.html.twig
+   ▪️ field--paragraph--field-title-rich.html.twig
+   ▪️ field--paragraph--cta-banner.html.twig
+   ✅ field--field-title-rich.html.twig
+   ▪️ field--text-long.html.twig
+   ▪️ field.html.twig
+-->
+<!-- 💡 BEGIN CUSTOM TEMPLATE OUTPUT from 'themes/custom/banq_lyxn_glider/templates/field/field--field-title-rich.html.twig' -->
+
+  <span class="field field--name-field-title-rich field--type-text-long">
+              <span class="field__item">Documents du domaine public</span>
+          </span>
+
+<!-- END CUSTOM TEMPLATE OUTPUT from 'themes/custom/banq_lyxn_glider/templates/field/field--field-title-rich.html.twig' -->
+
+</h2>
+                  <div class="cta-banner__content"><p>Servez-vous parmi quelque 200 000 photos, cartes postales, affiches, enregistrements sonores, etc. qu’il est possible d’utiliser tout à fait librement.&nbsp;</p></div>
+                          <div class="cta-banner__icon">
+            <a  class="stretched-link bq-btn bq-btn--rounded bq-btn--primary-dark" href="/recherche/YTo3OntzOjE4OiJuYnJSZXN1bHRhdFBhclBhZ2UiO3M6MjoiMjAiO3M6MzoidHJpIjtzOjU6IlR8YXNjIjtzOjI0OiJjb3JwdXNfUGF0cmltb2luZXF1YmNvaXMiO3M6MjI6IlBhdHJpbW9pbmUgcXXDqWLDqWNvaXMiO3M6NToicmVzZXQiO086NDg6IkRydXBhbFxDb3JlXFN0cmluZ1RyYW5zbGF0aW9uXFRyYW5zbGF0YWJsZU1hcmt1cCI6Mzp7czo5OiIAKgBzdHJpbmciO3M6NToiUmVzZXQiO3M6MTI6IgAqAGFyZ3VtZW50cyI7YTowOnt9czoxMDoiACoAb3B0aW9ucyI7YTowOnt9fXM6MjM6ImNvbmRpdGlvbl91dGlsaXNhdGlvbl83IjtzOjE6IjciO3M6MTI6ImZpbHRlcmNoYW5nZSI7Tzo0ODoiRHJ1cGFsXENvcmVcU3RyaW5nVHJhbnNsYXRpb25cVHJhbnNsYXRhYmxlTWFya3VwIjozOntzOjk6IgAqAHN0cmluZyI7czoxMjoiZmlsdGVyY2hhbmdlIjtzOjEyOiIAKgBhcmd1bWVudHMiO2E6MDp7fXM6MTA6IgAqAG9wdGlvbnMiO2E6MDp7fX1zOjQ6InBhZ2UiO2k6MTt9" target="_self">
+              <span class="sr-only">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'field' -->
+<!-- FILE NAME SUGGESTIONS:
+   ▪️ field--paragraph--field-title-rich--cta-banner.html.twig
+   ▪️ field--paragraph--field-title-rich.html.twig
+   ▪️ field--paragraph--cta-banner.html.twig
+   ✅ field--field-title-rich.html.twig
+   ▪️ field--text-long.html.twig
+   ▪️ field.html.twig
+-->
+<!-- 💡 BEGIN CUSTOM TEMPLATE OUTPUT from 'themes/custom/banq_lyxn_glider/templates/field/field--field-title-rich.html.twig' -->
+
+  <span class="field field--name-field-title-rich field--type-text-long">
+              <span class="field__item">Documents du domaine public</span>
+          </span>
+
+<!-- END CUSTOM TEMPLATE OUTPUT from 'themes/custom/banq_lyxn_glider/templates/field/field--field-title-rich.html.twig' -->
+
+</span>
+              <i class="icon icon-toggleaction-chevron_right"></i>
+            </a>
+        </div>
+            </div>
+  </article>
+
+<!-- END CUSTOM TEMPLATE OUTPUT from 'themes/custom/banq_lyxn_glider/patterns/molecules/cta_banner/pattern-cta-banner.html.twig' -->
+
+
+
+<!-- END CUSTOM TEMPLATE OUTPUT from 'themes/custom/banq_lyxn_glider/templates/paragraphs/paragraph--cta-banner.html.twig' -->
+
+
+  
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'paragraph' -->
+<!-- FILE NAME SUGGESTIONS:
+   ▪️ paragraph--text-block--default.html.twig
+   ✅ paragraph--text-block.html.twig
+   ▪️ paragraph--default.html.twig
+   ▪️ paragraph.html.twig
+-->
+<!-- 💡 BEGIN CUSTOM TEMPLATE OUTPUT from 'themes/custom/banq_lyxn_glider/templates/paragraphs/paragraph--text-block.html.twig' -->
+
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'pattern_content_block' -->
+<!-- FILE NAME SUGGESTIONS:
+   ▪️ pattern-content-block--variant-default.html.twig
+   ✅ pattern-content-block.html.twig
+-->
+<!-- 💡 BEGIN CUSTOM TEMPLATE OUTPUT from 'themes/custom/banq_lyxn_glider/patterns/organisms/content_block/pattern-content-block.html.twig' -->
+
+
+<div class="content_block content_block--default container-fluid">
+
+      <div class="content_block__elements">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'field' -->
+<!-- FILE NAME SUGGESTIONS:
+   ▪️ field--paragraph--field-text-block-elements--text-block.html.twig
+   ▪️ field--paragraph--field-text-block-elements.html.twig
+   ▪️ field--paragraph--text-block.html.twig
+   ✅ field--field-text-block-elements.html.twig
+   ▪️ field--entity-reference-revisions.html.twig
+   ▪️ field.html.twig
+-->
+<!-- 💡 BEGIN CUSTOM TEMPLATE OUTPUT from 'themes/custom/banq_lyxn_glider/templates/field/field--field-text-block-elements.html.twig' -->
+
+
+    
+
+
+
+
+<div class="row">
+  <div class="col-12 col-md">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'paragraph' -->
+<!-- FILE NAME SUGGESTIONS:
+   ▪️ paragraph--text-block-element--default.html.twig
+   ✅ paragraph--text-block-element.html.twig
+   ▪️ paragraph--default.html.twig
+   ▪️ paragraph.html.twig
+-->
+<!-- 💡 BEGIN CUSTOM TEMPLATE OUTPUT from 'themes/custom/banq_lyxn_glider/templates/paragraphs/paragraph--text-block-element.html.twig' -->
+
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'pattern_text_block' -->
+<!-- FILE NAME SUGGESTIONS:
+   ▪️ pattern-text-block--variant-default.html.twig
+   ✅ pattern-text-block.html.twig
+-->
+<!-- 💡 BEGIN CUSTOM TEMPLATE OUTPUT from 'themes/custom/banq_lyxn_glider/patterns/molecules/text_block/pattern-text-block.html.twig' -->
+
+<div  class="text_block text_block--default">
+  
+      <div class="text_block__title h3 mb-3 h3-bold">
+      <h3>
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'field' -->
+<!-- FILE NAME SUGGESTIONS:
+   ▪️ field--paragraph--field-title-rich--text-block-element.html.twig
+   ▪️ field--paragraph--field-title-rich.html.twig
+   ✅ field--paragraph--text-block-element.html.twig
+   ▪️ field--field-title-rich.html.twig
+   ▪️ field--text-long.html.twig
+   ▪️ field.html.twig
+-->
+<!-- 💡 BEGIN CUSTOM TEMPLATE OUTPUT from 'themes/custom/banq_lyxn_glider/templates/field/field--paragraph--text-block-element.html.twig' -->
+
+
+
+
+
+
+<div class="row">
+  <div class="col-12 inline-links">Livres num&#xE9;riques et audionum&#xE9;riques&#xA0;</div>
+
+</div>
+
+<!-- END CUSTOM TEMPLATE OUTPUT from 'themes/custom/banq_lyxn_glider/templates/field/field--paragraph--text-block-element.html.twig' -->
+
+</h3>
+    </div>
+          <div class="text_block__text mb-3">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'field' -->
+<!-- FILE NAME SUGGESTIONS:
+   ▪️ field--paragraph--field-body--text-block-element.html.twig
+   ▪️ field--paragraph--field-body.html.twig
+   ✅ field--paragraph--text-block-element.html.twig
+   ▪️ field--field-body.html.twig
+   ▪️ field--text-long.html.twig
+   ▪️ field.html.twig
+-->
+<!-- 💡 BEGIN CUSTOM TEMPLATE OUTPUT from 'themes/custom/banq_lyxn_glider/templates/field/field--paragraph--text-block-element.html.twig' -->
+
+
+
+
+
+
+<div class="row">
+  <div class="col-12 inline-links"><p>À lire en ligne, à écouter ou à télécharger, et accessibles partout, en tout temps. Vaste choix de romans, d’essais, de documentaires, de bandes dessinées, etc. En français, en anglais et dans bien d'autres langues.&nbsp;<br>&nbsp;</p></div>
+
+</div>
+
+<!-- END CUSTOM TEMPLATE OUTPUT from 'themes/custom/banq_lyxn_glider/templates/field/field--paragraph--text-block-element.html.twig' -->
+
+</div>
+        <div class="text_block__links">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'field' -->
+<!-- FILE NAME SUGGESTIONS:
+   ▪️ field--paragraph--field-text-block-links--text-block-element.html.twig
+   ▪️ field--paragraph--field-text-block-links.html.twig
+   ✅ field--paragraph--text-block-element.html.twig
+   ▪️ field--field-text-block-links.html.twig
+   ▪️ field--entity-reference-revisions.html.twig
+   ▪️ field.html.twig
+-->
+<!-- 💡 BEGIN CUSTOM TEMPLATE OUTPUT from 'themes/custom/banq_lyxn_glider/templates/field/field--paragraph--text-block-element.html.twig' -->
+
+
+
+
+
+
+<div class="row">
+  <div class="col-12 inline-links">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'paragraph' -->
+<!-- FILE NAME SUGGESTIONS:
+   ▪️ paragraph--text-block-link--default.html.twig
+   ✅ paragraph--text-block-link.html.twig
+   ▪️ paragraph--default.html.twig
+   ▪️ paragraph.html.twig
+-->
+<!-- 💡 BEGIN CUSTOM TEMPLATE OUTPUT from 'themes/custom/banq_lyxn_glider/templates/paragraphs/paragraph--text-block-link.html.twig' -->
+
+
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'pattern_link' -->
+<!-- 💡 BEGIN CUSTOM TEMPLATE OUTPUT from 'themes/custom/banq_lyxn_glider/patterns/atoms/link/pattern-link.html.twig' -->
+
+
+
+  
+  <div class="field__item">
+  
+                <a href="https://www.banq.qc.ca/livres-numeriques/"  aria-label="Tous les livres (Ce lien s’ouvrira dans un nouvel onglet.)" class="bq-btn bq-btn--primary bq-btn--medium bq-btn--isExternal">
+                  <span class="text">Tous les livres</span>
+          </a>
+  
+        </div>
+
+<!-- END CUSTOM TEMPLATE OUTPUT from 'themes/custom/banq_lyxn_glider/patterns/atoms/link/pattern-link.html.twig' -->
+
+
+
+<!-- END CUSTOM TEMPLATE OUTPUT from 'themes/custom/banq_lyxn_glider/templates/paragraphs/paragraph--text-block-link.html.twig' -->
+
+</div>
+
+</div>
+
+<!-- END CUSTOM TEMPLATE OUTPUT from 'themes/custom/banq_lyxn_glider/templates/field/field--paragraph--text-block-element.html.twig' -->
+
+</div>
+  </div>
+
+<!-- END CUSTOM TEMPLATE OUTPUT from 'themes/custom/banq_lyxn_glider/patterns/molecules/text_block/pattern-text-block.html.twig' -->
+
+
+<!-- END CUSTOM TEMPLATE OUTPUT from 'themes/custom/banq_lyxn_glider/templates/paragraphs/paragraph--text-block-element.html.twig' -->
+
+</div>
+  <div class="col-12 col-md">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'paragraph' -->
+<!-- FILE NAME SUGGESTIONS:
+   ▪️ paragraph--text-block-element--default.html.twig
+   ✅ paragraph--text-block-element.html.twig
+   ▪️ paragraph--default.html.twig
+   ▪️ paragraph.html.twig
+-->
+<!-- 💡 BEGIN CUSTOM TEMPLATE OUTPUT from 'themes/custom/banq_lyxn_glider/templates/paragraphs/paragraph--text-block-element.html.twig' -->
+
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'pattern_text_block' -->
+<!-- FILE NAME SUGGESTIONS:
+   ▪️ pattern-text-block--variant-default.html.twig
+   ✅ pattern-text-block.html.twig
+-->
+<!-- 💡 BEGIN CUSTOM TEMPLATE OUTPUT from 'themes/custom/banq_lyxn_glider/patterns/molecules/text_block/pattern-text-block.html.twig' -->
+
+<div  class="text_block text_block--default">
+  
+      <div class="text_block__title h3 mb-3 h3-bold">
+      <h3>
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'field' -->
+<!-- FILE NAME SUGGESTIONS:
+   ▪️ field--paragraph--field-title-rich--text-block-element.html.twig
+   ▪️ field--paragraph--field-title-rich.html.twig
+   ✅ field--paragraph--text-block-element.html.twig
+   ▪️ field--field-title-rich.html.twig
+   ▪️ field--text-long.html.twig
+   ▪️ field.html.twig
+-->
+<!-- 💡 BEGIN CUSTOM TEMPLATE OUTPUT from 'themes/custom/banq_lyxn_glider/templates/field/field--paragraph--text-block-element.html.twig' -->
+
+
+
+
+
+
+<div class="row">
+  <div class="col-12 inline-links">Ressources num&#xE9;riques&#xA0;</div>
+
+</div>
+
+<!-- END CUSTOM TEMPLATE OUTPUT from 'themes/custom/banq_lyxn_glider/templates/field/field--paragraph--text-block-element.html.twig' -->
+
+</h3>
+    </div>
+          <div class="text_block__text mb-3">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'field' -->
+<!-- FILE NAME SUGGESTIONS:
+   ▪️ field--paragraph--field-body--text-block-element.html.twig
+   ▪️ field--paragraph--field-body.html.twig
+   ✅ field--paragraph--text-block-element.html.twig
+   ▪️ field--field-body.html.twig
+   ▪️ field--text-long.html.twig
+   ▪️ field.html.twig
+-->
+<!-- 💡 BEGIN CUSTOM TEMPLATE OUTPUT from 'themes/custom/banq_lyxn_glider/templates/field/field--paragraph--text-block-element.html.twig' -->
+
+
+
+
+
+
+<div class="row">
+  <div class="col-12 inline-links"><p>Accédez à des sites et ressources de qualité, sur des sujets variés comme la généalogie ou l’apprentissage des langues.<br>&nbsp;</p></div>
+
+</div>
+
+<!-- END CUSTOM TEMPLATE OUTPUT from 'themes/custom/banq_lyxn_glider/templates/field/field--paragraph--text-block-element.html.twig' -->
+
+</div>
+        <div class="text_block__links">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'field' -->
+<!-- FILE NAME SUGGESTIONS:
+   ▪️ field--paragraph--field-text-block-links--text-block-element.html.twig
+   ▪️ field--paragraph--field-text-block-links.html.twig
+   ✅ field--paragraph--text-block-element.html.twig
+   ▪️ field--field-text-block-links.html.twig
+   ▪️ field--entity-reference-revisions.html.twig
+   ▪️ field.html.twig
+-->
+<!-- 💡 BEGIN CUSTOM TEMPLATE OUTPUT from 'themes/custom/banq_lyxn_glider/templates/field/field--paragraph--text-block-element.html.twig' -->
+
+
+
+
+
+
+<div class="row">
+  <div class="col-12 inline-links">
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'paragraph' -->
+<!-- FILE NAME SUGGESTIONS:
+   ▪️ paragraph--text-block-link--default.html.twig
+   ✅ paragraph--text-block-link.html.twig
+   ▪️ paragraph--default.html.twig
+   ▪️ paragraph.html.twig
+-->
+<!-- 💡 BEGIN CUSTOM TEMPLATE OUTPUT from 'themes/custom/banq_lyxn_glider/templates/paragraphs/paragraph--text-block-link.html.twig' -->
+
+
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'pattern_link' -->
+<!-- 💡 BEGIN CUSTOM TEMPLATE OUTPUT from 'themes/custom/banq_lyxn_glider/patterns/atoms/link/pattern-link.html.twig' -->
+
+
+
+  
+  <div class="field__item">
+  
+                <a href="https://www.banq.qc.ca/plateformes-numeriques/"  aria-label="Toutes les ressources (Ce lien s’ouvrira dans un nouvel onglet.)" class="bq-btn bq-btn--primary bq-btn--medium bq-btn--isExternal">
+                  <span class="text">Toutes les ressources</span>
+          </a>
+  
+        </div>
+
+<!-- END CUSTOM TEMPLATE OUTPUT from 'themes/custom/banq_lyxn_glider/patterns/atoms/link/pattern-link.html.twig' -->
+
+
+
+<!-- END CUSTOM TEMPLATE OUTPUT from 'themes/custom/banq_lyxn_glider/templates/paragraphs/paragraph--text-block-link.html.twig' -->
+
+</div>
+
+</div>
+
+<!-- END CUSTOM TEMPLATE OUTPUT from 'themes/custom/banq_lyxn_glider/templates/field/field--paragraph--text-block-element.html.twig' -->
+
+</div>
+  </div>
+
+<!-- END CUSTOM TEMPLATE OUTPUT from 'themes/custom/banq_lyxn_glider/patterns/molecules/text_block/pattern-text-block.html.twig' -->
+
+
+<!-- END CUSTOM TEMPLATE OUTPUT from 'themes/custom/banq_lyxn_glider/templates/paragraphs/paragraph--text-block-element.html.twig' -->
+
+</div>
+
+</div>
+
+<!-- END CUSTOM TEMPLATE OUTPUT from 'themes/custom/banq_lyxn_glider/templates/field/field--field-text-block-elements.html.twig' -->
+
+</div>
+</div>
+
+<!-- END CUSTOM TEMPLATE OUTPUT from 'themes/custom/banq_lyxn_glider/patterns/organisms/content_block/pattern-content-block.html.twig' -->
+
+
+<!-- END CUSTOM TEMPLATE OUTPUT from 'themes/custom/banq_lyxn_glider/templates/paragraphs/paragraph--text-block.html.twig' -->
+
+
+
+<!-- END CUSTOM TEMPLATE OUTPUT from 'themes/custom/banq_lyxn_glider/templates/field/field--node--field-content.html.twig' -->
+
+
+  </div>
+
+</article>
+
+<!-- END CUSTOM TEMPLATE OUTPUT from 'themes/custom/banq_lyxn_glider/templates/content/node.html.twig' -->
+
+
+  </div>
+
+<!-- END OUTPUT from 'themes/contrib/classy/templates/block/block.html.twig' -->
+
+
+  </div>
+
+<!-- END OUTPUT from 'themes/contrib/classy/templates/layout/region.html.twig' -->
+
+
+      </div>
+
+    </section>
+    
+              </main>
+  
+    <footer id="footer" class="bq-footer" role="contentinfo">
+    <div class="bq-footer__container container-xl">
+      
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'region' -->
+<!-- FILE NAME SUGGESTIONS:
+   ✅ region--footer.html.twig
+   ▪️ region.html.twig
+-->
+<!-- 💡 BEGIN CUSTOM TEMPLATE OUTPUT from 'themes/custom/banq_lyxn_glider/templates/regions/region--footer.html.twig' -->
+
+
+  <div class="region region-footer footer-region1">
+    
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'block' -->
+<!-- FILE NAME SUGGESTIONS:
+   ▪️ block--banq-lyxn-glider-logotitrefooter6.html.twig
+   ▪️ block--block-content--2ab8b2e6-3aa5-45c8-9b5f-7230783f8515.html.twig
+   ▪️ block--block-content--id-view--banq-lyxn-glider-logotitrefooter6--full.html.twig
+   ▪️ block--block-content--id--banq-lyxn-glider-logotitrefooter6.html.twig
+   ▪️ block--block-content--view-type--logo-titre-footer--full.html.twig
+   ▪️ block--block-content--type--logo-titre-footer.html.twig
+   ▪️ block--block-content--view--full.html.twig
+   ▪️ block--block-content.html.twig
+   ✅ block.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/contrib/classy/templates/block/block.html.twig' -->
+<div id="block-banq-lyxn-glider-logotitrefooter6" class="block block-block-content block-block-content2ab8b2e6-3aa5-45c8-9b5f-7230783f8515">
+  
+    
+      
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'field' -->
+<!-- FILE NAME SUGGESTIONS:
+   ▪️ field--block-content--field-logo-titre-footer--logo-titre-footer.html.twig
+   ▪️ field--block-content--field-logo-titre-footer.html.twig
+   ▪️ field--block-content--logo-titre-footer.html.twig
+   ▪️ field--field-logo-titre-footer.html.twig
+   ▪️ field--entity-reference.html.twig
+   ✅ field.html.twig
+-->
+<!-- 💡 BEGIN CUSTOM TEMPLATE OUTPUT from 'themes/custom/banq_lyxn_glider/templates/field/field.html.twig' -->
+
+            
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'media' -->
+<!-- FILE NAME SUGGESTIONS:
+   ▪️ media--source-image.html.twig
+   ▪️ media--icon--default.html.twig
+   ▪️ media--icon.html.twig
+   ▪️ media--default.html.twig
+   ✅ media.html.twig
+-->
+<!-- 💡 BEGIN CUSTOM TEMPLATE OUTPUT from 'themes/custom/banq_lyxn_glider/templates/media/media.html.twig' -->
+
+
+<div class="bq-media media media--type-icon media--view-mode-default">
+  
+      
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'field' -->
+<!-- FILE NAME SUGGESTIONS:
+   ▪️ field--media--field-media-image-1--icon.html.twig
+   ▪️ field--media--field-media-image-1.html.twig
+   ▪️ field--media--icon.html.twig
+   ▪️ field--field-media-image-1.html.twig
+   ▪️ field--image.html.twig
+   ✅ field.html.twig
+-->
+<!-- 💡 BEGIN CUSTOM TEMPLATE OUTPUT from 'themes/custom/banq_lyxn_glider/templates/field/field.html.twig' -->
+
+            
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'image_formatter' -->
+<!-- BEGIN OUTPUT from 'themes/contrib/classy/templates/field/image-formatter.html.twig' -->
+  
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'image' -->
+<!-- BEGIN OUTPUT from 'themes/contrib/glider/templates/field/image.html.twig' -->
+<img loading="lazy" width="169" height="33" src="/sites/default/files/2025-04/logo_banq_numerique.svg" alt="BAnQ numérique" class="img-fluid" />
+
+<!-- END OUTPUT from 'themes/contrib/glider/templates/field/image.html.twig' -->
+
+
+
+<!-- END OUTPUT from 'themes/contrib/classy/templates/field/image-formatter.html.twig' -->
+
+
+      
+<!-- END CUSTOM TEMPLATE OUTPUT from 'themes/custom/banq_lyxn_glider/templates/field/field.html.twig' -->
+
+
+  </div>
+
+<!-- END CUSTOM TEMPLATE OUTPUT from 'themes/custom/banq_lyxn_glider/templates/media/media.html.twig' -->
+
+
+      
+<!-- END CUSTOM TEMPLATE OUTPUT from 'themes/custom/banq_lyxn_glider/templates/field/field.html.twig' -->
+
+
+  </div>
+
+<!-- END OUTPUT from 'themes/contrib/classy/templates/block/block.html.twig' -->
+
+
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'block' -->
+<!-- FILE NAME SUGGESTIONS:
+   ▪️ block--banq-lyxn-glider-pieddepage.html.twig
+   ▪️ block--system-menu-block--footer.html.twig
+   ✅ block--system-menu-block.html.twig
+   ▪️ block--system.html.twig
+   ▪️ block.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/contrib/classy/templates/block/block--system-menu-block.html.twig' -->
+<nav role="navigation" aria-labelledby="block-banq-lyxn-glider-pieddepage-menu" id="block-banq-lyxn-glider-pieddepage" class="block block-menu navigation menu--footer">
+            
+  <h2 class="visually-hidden" id="block-banq-lyxn-glider-pieddepage-menu">BAnQ numérique</h2>
+  
+
+        
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'menu__footer' -->
+<!-- FILE NAME SUGGESTIONS:
+   ✅ menu--footer.html.twig
+   ✅ menu--footer.html.twig
+   ▪️ menu.html.twig
+-->
+<!-- 💡 BEGIN CUSTOM TEMPLATE OUTPUT from 'themes/custom/banq_lyxn_glider/templates/menus/menu--footer.html.twig' -->
+
+              <ul class="bq-footer__menu__list navbar-nav mx-0">
+                          <li class="bq-footer__menu__item menu-item nav-item p-0">
+                                <a href="/a-propos" class="bq-footer__menu__link nav-link p-0" data-drupal-link-system-path="node/23"> À propos</a>
+                            </li>
+                      <li class="bq-footer__menu__item menu-item nav-item p-0">
+                                <a href="/guides-et-conseils" class="bq-footer__menu__link nav-link p-0" data-drupal-link-system-path="node/26">Guides d&#039;aide à la recherche</a>
+                            </li>
+                      <li class="bq-footer__menu__item menu-item nav-item p-0">
+                                <a href="https://www.banq.qc.ca/declaration-de-services-aux-citoyens-p-5/" class="bq-footer__menu__link nav-link p-0">Déclaration de service aux citoyens</a>
+                            </li>
+                      <li class="bq-footer__menu__item menu-item nav-item p-0">
+                                <a href="/a-propos/plan-du-site" class="bq-footer__menu__link nav-link p-0" data-drupal-link-system-path="node/68">Plan du site</a>
+                            </li>
+                      <li class="bq-footer__menu__item menu-item nav-item p-0">
+                                <a href="https://www.banq.qc.ca/formulaire/poser-question/" class="bq-footer__menu__link nav-link p-0">Poser une question</a>
+                            </li>
+                      <li class="bq-footer__menu__item menu-item nav-item p-0">
+                                <a href="/formulaire/commentaire" class="bq-footer__menu__link nav-link p-0" data-drupal-link-system-path="node/478">Commentaires sur le site </a>
+                            </li>
+          </ul>
+  
+
+
+<!-- END CUSTOM TEMPLATE OUTPUT from 'themes/custom/banq_lyxn_glider/templates/menus/menu--footer.html.twig' -->
+
+
+  </nav>
+
+<!-- END OUTPUT from 'themes/contrib/classy/templates/block/block--system-menu-block.html.twig' -->
+
+
+  </div>
+
+<!-- END CUSTOM TEMPLATE OUTPUT from 'themes/custom/banq_lyxn_glider/templates/regions/region--footer.html.twig' -->
+
+
+      
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'region' -->
+<!-- FILE NAME SUGGESTIONS:
+   ✅ region--footer-second.html.twig
+   ▪️ region.html.twig
+-->
+<!-- 💡 BEGIN CUSTOM TEMPLATE OUTPUT from 'themes/custom/banq_lyxn_glider/templates/regions/region--footer-second.html.twig' -->
+  <div class="region region-footer-second footer-region2">
+    
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'block' -->
+<!-- FILE NAME SUGGESTIONS:
+   ▪️ block--banq-lyxn-glider-pieddepage2.html.twig
+   ▪️ block--system-menu-block--pied-de-page-2.html.twig
+   ✅ block--system-menu-block.html.twig
+   ▪️ block--system.html.twig
+   ▪️ block.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/contrib/classy/templates/block/block--system-menu-block.html.twig' -->
+<nav role="navigation" aria-labelledby="block-banq-lyxn-glider-pieddepage2-menu" id="block-banq-lyxn-glider-pieddepage2" class="block block-menu navigation menu--pied-de-page-2">
+            
+  <h2 class="visually-hidden" id="block-banq-lyxn-glider-pieddepage2-menu">Pied de page 2</h2>
+  
+
+        
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'menu__pied_de_page_2' -->
+<!-- FILE NAME SUGGESTIONS:
+   ▪️ menu--pied-de-page-2.html.twig
+   ✅ menu.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/contrib/glider/templates/navigation/menu.html.twig' -->
+
+        <ul class="menu navbar-nav mx-0">
+                  <li class="menu-item nav-item">
+                          <a href="https://www.banq.qc.ca/politique-de-confidentialite/" class="nav-link">Confidentialité</a>
+                      </li>
+                <li class="menu-item nav-item">
+                          <a href="" class="didomiOpener nav-link">Paramètres des témoins</a>
+                      </li>
+                <li class="menu-item nav-item">
+                          <a href="/a-propos/accessibilite" class="nav-link" data-drupal-link-system-path="node/24">Accessibilité</a>
+                      </li>
+      </ul>
+    
+
+
+<!-- END OUTPUT from 'themes/contrib/glider/templates/navigation/menu.html.twig' -->
+
+
+  </nav>
+
+<!-- END OUTPUT from 'themes/contrib/classy/templates/block/block--system-menu-block.html.twig' -->
+
+
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'block' -->
+<!-- FILE NAME SUGGESTIONS:
+   ▪️ block--banq-lyxn-glider-footerlogo10.html.twig
+   ▪️ block--block-content--611711f2-3a8e-4ac2-9f4d-d136a6de2cdc.html.twig
+   ▪️ block--block-content--id-view--banq-lyxn-glider-footerlogo10--full.html.twig
+   ▪️ block--block-content--id--banq-lyxn-glider-footerlogo10.html.twig
+   ▪️ block--block-content--view-type--footer-logo--full.html.twig
+   ▪️ block--block-content--type--footer-logo.html.twig
+   ▪️ block--block-content--view--full.html.twig
+   ▪️ block--block-content.html.twig
+   ✅ block.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/contrib/classy/templates/block/block.html.twig' -->
+<div id="block-banq-lyxn-glider-footerlogo10" class="block block-block-content block-block-content611711f2-3a8e-4ac2-9f4d-d136a6de2cdc">
+  
+    
+      
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'field' -->
+<!-- FILE NAME SUGGESTIONS:
+   ▪️ field--block-content--field-logo-pdp--footer-logo.html.twig
+   ▪️ field--block-content--field-logo-pdp.html.twig
+   ▪️ field--block-content--footer-logo.html.twig
+   ▪️ field--field-logo-pdp.html.twig
+   ▪️ field--entity-reference.html.twig
+   ✅ field.html.twig
+-->
+<!-- 💡 BEGIN CUSTOM TEMPLATE OUTPUT from 'themes/custom/banq_lyxn_glider/templates/field/field.html.twig' -->
+
+                
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'media' -->
+<!-- FILE NAME SUGGESTIONS:
+   ▪️ media--source-image.html.twig
+   ▪️ media--icon--default.html.twig
+   ▪️ media--icon.html.twig
+   ▪️ media--default.html.twig
+   ✅ media.html.twig
+-->
+<!-- 💡 BEGIN CUSTOM TEMPLATE OUTPUT from 'themes/custom/banq_lyxn_glider/templates/media/media.html.twig' -->
+
+
+<div class="bq-media media media--type-icon media--view-mode-default">
+  
+      
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'field' -->
+<!-- FILE NAME SUGGESTIONS:
+   ▪️ field--media--field-media-image-1--icon.html.twig
+   ▪️ field--media--field-media-image-1.html.twig
+   ▪️ field--media--icon.html.twig
+   ▪️ field--field-media-image-1.html.twig
+   ▪️ field--image.html.twig
+   ✅ field.html.twig
+-->
+<!-- 💡 BEGIN CUSTOM TEMPLATE OUTPUT from 'themes/custom/banq_lyxn_glider/templates/field/field.html.twig' -->
+
+            
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'image_formatter' -->
+<!-- BEGIN OUTPUT from 'themes/contrib/classy/templates/field/image-formatter.html.twig' -->
+  
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'image' -->
+<!-- BEGIN OUTPUT from 'themes/contrib/glider/templates/field/image.html.twig' -->
+<img loading="lazy" width="220" height="72" src="/sites/default/files/2025-04/banq-new-footer-logo.svg" alt="Bibliothèque et Archives nationales du Québec." class="img-fluid" />
+
+<!-- END OUTPUT from 'themes/contrib/glider/templates/field/image.html.twig' -->
+
+
+
+<!-- END OUTPUT from 'themes/contrib/classy/templates/field/image-formatter.html.twig' -->
+
+
+      
+<!-- END CUSTOM TEMPLATE OUTPUT from 'themes/custom/banq_lyxn_glider/templates/field/field.html.twig' -->
+
+
+  </div>
+
+<!-- END CUSTOM TEMPLATE OUTPUT from 'themes/custom/banq_lyxn_glider/templates/media/media.html.twig' -->
+
+
+              
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'media' -->
+<!-- FILE NAME SUGGESTIONS:
+   ▪️ media--source-image.html.twig
+   ▪️ media--icon--default.html.twig
+   ▪️ media--icon.html.twig
+   ▪️ media--default.html.twig
+   ✅ media.html.twig
+-->
+<!-- 💡 BEGIN CUSTOM TEMPLATE OUTPUT from 'themes/custom/banq_lyxn_glider/templates/media/media.html.twig' -->
+
+
+<div class="bq-media media media--type-icon media--view-mode-default">
+  
+      
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'field' -->
+<!-- FILE NAME SUGGESTIONS:
+   ▪️ field--media--field-media-image-1--icon.html.twig
+   ▪️ field--media--field-media-image-1.html.twig
+   ▪️ field--media--icon.html.twig
+   ▪️ field--field-media-image-1.html.twig
+   ▪️ field--image.html.twig
+   ✅ field.html.twig
+-->
+<!-- 💡 BEGIN CUSTOM TEMPLATE OUTPUT from 'themes/custom/banq_lyxn_glider/templates/field/field.html.twig' -->
+
+            
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'image_formatter' -->
+<!-- BEGIN OUTPUT from 'themes/contrib/classy/templates/field/image-formatter.html.twig' -->
+  
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'image' -->
+<!-- BEGIN OUTPUT from 'themes/contrib/glider/templates/field/image.html.twig' -->
+<img loading="lazy" width="131" height="29" src="/sites/default/files/2025-04/logo_quebec.svg" alt="Gouvernement du Québec." class="img-fluid" />
+
+<!-- END OUTPUT from 'themes/contrib/glider/templates/field/image.html.twig' -->
+
+
+
+<!-- END OUTPUT from 'themes/contrib/classy/templates/field/image-formatter.html.twig' -->
+
+
+      
+<!-- END CUSTOM TEMPLATE OUTPUT from 'themes/custom/banq_lyxn_glider/templates/field/field.html.twig' -->
+
+
+  </div>
+
+<!-- END CUSTOM TEMPLATE OUTPUT from 'themes/custom/banq_lyxn_glider/templates/media/media.html.twig' -->
+
+
+        
+<!-- END CUSTOM TEMPLATE OUTPUT from 'themes/custom/banq_lyxn_glider/templates/field/field.html.twig' -->
+
+
+  </div>
+
+<!-- END OUTPUT from 'themes/contrib/classy/templates/block/block.html.twig' -->
+
+
+	<p>&copy; Biblioth&egrave;que et Archives nationales du Qu&eacute;bec, 2026</p>
+  </div>
+ 
+
+<!-- END CUSTOM TEMPLATE OUTPUT from 'themes/custom/banq_lyxn_glider/templates/regions/region--footer-second.html.twig' -->
+
+
+    </div>
+  </footer>
+  
+    <button class="scroll-to-top scroll-to-top--hidden" title="Scroll to top" tabindex="-1" aria-hidden="true">
+    <i class="arrow"></i>
+  </button>
+  </div>
+
+<!-- END CUSTOM TEMPLATE OUTPUT from 'themes/custom/banq_lyxn_glider/templates/layout/page.html.twig' -->
+
+
+  </div>
+
+<!-- END OUTPUT from 'themes/contrib/stable/templates/content/off-canvas-page-wrapper.html.twig' -->
+
+
+    
+    <script src="/core/assets/vendor/jquery/jquery.min.js?v=4.0.0-rc.1"></script>
+<script src="/core/assets/vendor/once/once.min.js?v=1.0.1"></script>
+<script src="/sites/default/files/languages/fr_p8BwMYndzxcLXLmef0iZz0V5OUmukyVWe_Jraq9rh2k.js?tak73n"></script>
+<script src="/core/misc/drupal.js?v=11.2.8"></script>
+<script src="/core/misc/drupal.init.js?v=11.2.8"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/version-min.js?v=11.2.8"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/data-min.js?v=11.2.8"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/disable-selection-min.js?v=11.2.8"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/jquery-patch-min.js?v=11.2.8"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/scroll-parent-min.js?v=11.2.8"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/unique-id-min.js?v=11.2.8"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/focusable-min.js?v=11.2.8"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/keycode-min.js?v=11.2.8"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/plugin-min.js?v=11.2.8"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/widget-min.js?v=11.2.8"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/labels-min.js?v=11.2.8"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/widgets/controlgroup-min.js?v=11.2.8"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/form-reset-mixin-min.js?v=11.2.8"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/widgets/mouse-min.js?v=11.2.8"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/widgets/checkboxradio-min.js?v=11.2.8"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/widgets/draggable-min.js?v=11.2.8"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/widgets/resizable-min.js?v=11.2.8"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/widgets/button-min.js?v=11.2.8"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/widgets/dialog-min.js?v=11.2.8"></script>
+<script src="/themes/custom/banq_lyxn_glider/dist/js/utils/element-utils.min.js?tak73n"></script>
+<script src="/themes/custom/banq_lyxn_glider/dist/js/utils/utils.min.js?tak73n"></script>
+<script src="/core/assets/vendor/tabbable/index.umd.min.js?v=6.2.0"></script>
+<script src="/core/assets/vendor/tua-body-scroll-lock/tua-bsl.umd.min.js?v=11.2.8"></script>
+<script src="/libraries/bootstrap/dist/js/bootstrap.bundle.min.js?v=5.3.3"></script>
+<script src="https://cdn.jsdelivr.net/npm/js-cookie@3.0.5/dist/js.cookie.min.js"></script>
+<script src="/themes/custom/banq_lyxn_glider/dist/js/behaviors/themes.min.js?tak73n"></script>
+<script src="/themes/custom/banq_lyxn_glider/dist/js/theme.min.js?tak73n"></script>
+<script src="/themes/custom/banq_lyxn_glider/dist/js/behaviors/anchors.min.js?tak73n"></script>
+<script src="/themes/custom/banq_lyxn_glider/dist/js/behaviors/tooltips.min.js?tak73n"></script>
+<script src="/themes/custom/banq_lyxn_glider/dist/js/behaviors/search-form.min.js?tak73n"></script>
+<script src="/themes/custom/banq_lyxn_glider/dist/js/behaviors/consent.min.js?tak73n"></script>
+<script src="/modules/contrib/extlink/js/extlink.js?v=11.2.8"></script>
+<script src="/core/misc/progress.js?v=11.2.8"></script>
+<script src="/core/assets/vendor/loadjs/loadjs.min.js?v=4.3.0"></script>
+<script src="/core/misc/debounce.js?v=11.2.8"></script>
+<script src="/core/misc/announce.js?v=11.2.8"></script>
+<script src="/core/misc/message.js?v=11.2.8"></script>
+<script src="/core/misc/ajax.js?v=11.2.8"></script>
+<script src="/themes/contrib/stable/js/ajax.js?v=11.2.8"></script>
+<script src="/modules/contrib/google_tag/js/gtag.ajax.js?tak73n"></script>
+<script src="/core/misc/displace.js?v=11.2.8"></script>
+<script src="/core/misc/position.js?v=11.2.8"></script>
+<script src="/core/misc/dialog/dialog-deprecation.js?v=11.2.8"></script>
+<script src="/core/misc/dialog/dialog.js?v=11.2.8"></script>
+<script src="/core/misc/dialog/dialog.position.js?v=11.2.8"></script>
+<script src="/core/misc/dialog/dialog.jquery-ui.js?v=11.2.8"></script>
+<script src="/core/modules/ckeditor5/js/ckeditor5.dialog.fix.js?v=11.2.8"></script>
+<script src="/modules/contrib/ief_popup/js/ief_popup.js?v=1.x"></script>
+<script src="/themes/custom/banq_lyxn_glider/patterns/molecules/important_messages_list/dist/js/scripts.min.js?tak73n"></script>
+
+  </body>
+</html>
+
+<!-- END CUSTOM TEMPLATE OUTPUT from 'themes/custom/banq_lyxn_glider/layouts/html.html.twig' -->
+

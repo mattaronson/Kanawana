@@ -1,0 +1,1291 @@
+<!DOCTYPE html>
+<html lang="en-CA">
+<head>
+	<!-- <title>
+    	</title> -->
+	<meta charset="UTF-8">
+<script type="text/javascript">
+/* <![CDATA[ */
+var gform;gform||(document.addEventListener("gform_main_scripts_loaded",function(){gform.scriptsLoaded=!0}),document.addEventListener("gform/theme/scripts_loaded",function(){gform.themeScriptsLoaded=!0}),window.addEventListener("DOMContentLoaded",function(){gform.domLoaded=!0}),gform={domLoaded:!1,scriptsLoaded:!1,themeScriptsLoaded:!1,isFormEditor:()=>"function"==typeof InitializeEditor,callIfLoaded:function(o){return!(!gform.domLoaded||!gform.scriptsLoaded||!gform.themeScriptsLoaded&&!gform.isFormEditor()||(gform.isFormEditor()&&console.warn("The use of gform.initializeOnLoaded() is deprecated in the form editor context and will be removed in Gravity Forms 3.1."),o(),0))},initializeOnLoaded:function(o){gform.callIfLoaded(o)||(document.addEventListener("gform_main_scripts_loaded",()=>{gform.scriptsLoaded=!0,gform.callIfLoaded(o)}),document.addEventListener("gform/theme/scripts_loaded",()=>{gform.themeScriptsLoaded=!0,gform.callIfLoaded(o)}),window.addEventListener("DOMContentLoaded",()=>{gform.domLoaded=!0,gform.callIfLoaded(o)}))},hooks:{action:{},filter:{}},addAction:function(o,r,e,t){gform.addHook("action",o,r,e,t)},addFilter:function(o,r,e,t){gform.addHook("filter",o,r,e,t)},doAction:function(o){gform.doHook("action",o,arguments)},applyFilters:function(o){return gform.doHook("filter",o,arguments)},removeAction:function(o,r){gform.removeHook("action",o,r)},removeFilter:function(o,r,e){gform.removeHook("filter",o,r,e)},addHook:function(o,r,e,t,n){null==gform.hooks[o][r]&&(gform.hooks[o][r]=[]);var d=gform.hooks[o][r];null==n&&(n=r+"_"+d.length),gform.hooks[o][r].push({tag:n,callable:e,priority:t=null==t?10:t})},doHook:function(r,o,e){var t;if(e=Array.prototype.slice.call(e,1),null!=gform.hooks[r][o]&&((o=gform.hooks[r][o]).sort(function(o,r){return o.priority-r.priority}),o.forEach(function(o){"function"!=typeof(t=o.callable)&&(t=window[t]),"action"==r?t.apply(null,e):e[0]=t.apply(null,e)})),"filter"==r)return e[0]},removeHook:function(o,r,t,n){var e;null!=gform.hooks[o][r]&&(e=(e=gform.hooks[o][r]).filter(function(o,r,e){return!!(null!=n&&n!=o.tag||null!=t&&t!=o.priority)}),gform.hooks[o][r]=e)}});
+/* ]]> */
+</script>
+
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<!-- Android Theme color -->
+	<meta name="application-name" content="&nbsp;"/>
+	<meta name="theme-color" content="#ffffff">
+	<link rel="profile" href="http://gmpg.org/xfn/11">
+	<link rel="pingback" href="https://www.mcconnellfoundation.ca/xmlrpc.php">
+	<link rel="stylesheet" id="font-awesome-official-css" href="https://use.fontawesome.com/releases/v5.14.0/css/all.css" type="text/css" media="all" integrity="sha384-HzLeBuhoNPvSl5KYnjx0BT+WB0QEEqLprO+NBkkk5gbc67FTaL7XIGa2w1L0Xbgc" crossorigin="anonymous">
+	<!-- start wp_head() -->
+	<meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+<link rel="alternate" href="https://www.mcconnellfoundation.ca/fr/a-propos/notre-histoire/" hreflang="fr" />
+<link rel="alternate" href="https://www.mcconnellfoundation.ca/about/history/" hreflang="en" />
+
+	<!-- This site is optimized with the Yoast SEO plugin v26.9 - https://yoast.com/product/yoast-seo-wordpress/ -->
+	<title>History - McConnell Foundation</title>
+	<link rel="canonical" href="https://www.mcconnellfoundation.ca/about/history/" />
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:locale:alternate" content="fr_CA" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="History - McConnell Foundation" />
+	<meta property="og:url" content="https://www.mcconnellfoundation.ca/about/history/" />
+	<meta property="og:site_name" content="McConnell Foundation" />
+	<meta property="article:modified_time" content="2025-04-18T20:38:22+00:00" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://www.mcconnellfoundation.ca/about/history/","url":"https://www.mcconnellfoundation.ca/about/history/","name":"History - McConnell Foundation","isPartOf":{"@id":"https://www.mcconnellfoundation.ca/#website"},"datePublished":"2021-12-10T18:43:13+00:00","dateModified":"2025-04-18T20:38:22+00:00","breadcrumb":{"@id":"https://www.mcconnellfoundation.ca/about/history/#breadcrumb"},"inLanguage":"en-CA","potentialAction":[{"@type":"ReadAction","target":["https://www.mcconnellfoundation.ca/about/history/"]}]},{"@type":"BreadcrumbList","@id":"https://www.mcconnellfoundation.ca/about/history/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.mcconnellfoundation.ca/"},{"@type":"ListItem","position":2,"name":"About","item":"https://www.mcconnellfoundation.ca/about/"},{"@type":"ListItem","position":3,"name":"History"}]},{"@type":"WebSite","@id":"https://www.mcconnellfoundation.ca/#website","url":"https://www.mcconnellfoundation.ca/","name":"McConnell Foundation","description":"","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://www.mcconnellfoundation.ca/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"en-CA"}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel='dns-prefetch' href='//ajax.googleapis.com' />
+<link rel='dns-prefetch' href='//www.google.com' />
+<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://www.mcconnellfoundation.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.mcconnellfoundation.ca%2Fabout%2Fhistory%2F&#038;lang=en" />
+<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://www.mcconnellfoundation.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.mcconnellfoundation.ca%2Fabout%2Fhistory%2F&#038;format=xml&#038;lang=en" />
+		<style>
+			.lazyload,
+			.lazyloading {
+				max-width: 100%;
+			}
+		</style>
+		<style id='wp-img-auto-sizes-contain-inline-css' type='text/css'>
+img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
+/*# sourceURL=wp-img-auto-sizes-contain-inline-css */
+</style>
+
+<link rel='stylesheet' id='wp-block-library-css' href='https://www.mcconnellfoundation.ca/wp-includes/css/dist/block-library/style.min.css?ver=6.9.1' type='text/css' media='all' />
+
+<style id='classic-theme-styles-inline-css' type='text/css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+/*# sourceURL=/wp-includes/css/classic-themes.min.css */
+</style>
+<link rel='stylesheet' id='wp-components-css' href='https://www.mcconnellfoundation.ca/wp-includes/css/dist/components/style.min.css?ver=6.9.1' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-preferences-css' href='https://www.mcconnellfoundation.ca/wp-includes/css/dist/preferences/style.min.css?ver=6.9.1' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-editor-css' href='https://www.mcconnellfoundation.ca/wp-includes/css/dist/block-editor/style.min.css?ver=6.9.1' type='text/css' media='all' />
+<link rel='stylesheet' id='popup-maker-block-library-style-css' href='https://www.mcconnellfoundation.ca/wp-content/plugins/popup-maker/dist/packages/block-library-style.css?ver=dbea705cfafe089d65f1' type='text/css' media='all' />
+<style id='global-styles-inline-css' type='text/css'>
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgb(6,147,227) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgb(252,185,0) 0%,rgb(255,105,0) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgb(255,105,0) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgb(255, 255, 255), 6px 6px rgb(0, 0, 0);--wp--preset--shadow--crisp: 6px 6px 0px rgb(0, 0, 0);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+/*# sourceURL=global-styles-inline-css */
+</style>
+
+<link rel='stylesheet' id='theme-styles-css' href='https://www.mcconnellfoundation.ca/wp-content/themes/parkour3/dist/css/build.css?ver=1004' type='text/css' media='screen' />
+<link rel='stylesheet' id='theme-def-styles-css' href='https://www.mcconnellfoundation.ca/wp-content/themes/parkour3/style.css?ver=1005' type='text/css' media='screen' />
+<link rel='stylesheet' id='main-styles-css' href='https://www.mcconnellfoundation.ca/wp-content/themes/parkour3/dist/css/build.min.css?ver=1006' type='text/css' media='screen' />
+<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js?ver=3.6" id="jquery-js"></script>
+<link rel="https://api.w.org/" href="https://www.mcconnellfoundation.ca/wp-json/" /><link rel="alternate" title="JSON" type="application/json" href="https://www.mcconnellfoundation.ca/wp-json/wp/v2/pages/79" /><link rel='shortlink' href='https://www.mcconnellfoundation.ca/?p=79' />
+ <style> .ppw-ppf-input-container { background-color: !important; padding: px!important; border-radius: px!important; } .ppw-ppf-input-container div.ppw-ppf-headline { font-size: px!important; font-weight: !important; color: !important; } .ppw-ppf-input-container div.ppw-ppf-desc { font-size: px!important; font-weight: !important; color: !important; } .ppw-ppf-input-container label.ppw-pwd-label { font-size: px!important; font-weight: !important; color: !important; } div.ppwp-wrong-pw-error { font-size: px!important; font-weight: !important; color: #dc3232!important; background: !important; } .ppw-ppf-input-container input[type='submit'] { color: !important; background: !important; } .ppw-ppf-input-container input[type='submit']:hover { color: !important; background: !important; } .ppw-ppf-desc-below { font-size: px!important; font-weight: !important; color: !important; } </style>  <style> .ppw-form { background-color: !important; padding: px!important; border-radius: px!important; } .ppw-headline.ppw-pcp-pf-headline { font-size: px!important; font-weight: !important; color: !important; } .ppw-description.ppw-pcp-pf-desc { font-size: px!important; font-weight: !important; color: !important; } .ppw-pcp-pf-desc-above-btn { display: block; } .ppw-pcp-pf-desc-below-form { font-size: px!important; font-weight: !important; color: !important; } .ppw-input label.ppw-pcp-password-label { font-size: px!important; font-weight: !important; color: !important; } .ppw-form input[type='submit'] { color: !important; background: !important; } .ppw-form input[type='submit']:hover { color: !important; background: !important; } div.ppw-error.ppw-pcp-pf-error-msg { font-size: px!important; font-weight: !important; color: #dc3232!important; background: !important; } </style> <!-- Stream WordPress user activity plugin v4.1.1 -->
+		<script>
+			document.documentElement.className = document.documentElement.className.replace('no-js', 'js');
+		</script>
+				<style>
+			.no-js img.lazyload {
+				display: none;
+			}
+
+			figure.wp-block-image img.lazyloading {
+				min-width: 150px;
+			}
+
+			.lazyload,
+			.lazyloading {
+				--smush-placeholder-width: 100px;
+				--smush-placeholder-aspect-ratio: 1/1;
+				width: var(--smush-image-width, var(--smush-placeholder-width)) !important;
+				aspect-ratio: var(--smush-image-aspect-ratio, var(--smush-placeholder-aspect-ratio)) !important;
+			}
+
+						.lazyload, .lazyloading {
+				opacity: 0;
+			}
+
+			.lazyloaded {
+				opacity: 1;
+				transition: opacity 400ms;
+				transition-delay: 0ms;
+			}
+
+					</style>
+				<style type="text/css" id="wp-custom-css">
+			.p3-button-consent > button{
+	
+    padding: 20px;
+    font-size: 18px;
+    line-height: 0px;
+    font-weight: 700;
+    background: #AC145A;
+    color: white;
+}		</style>
+			<!-- end wp_head() -->
+
+	<link rel="stylesheet" href="https://www.mcconnellfoundation.ca/wp-content/themes/parkour3/custom.css" type="text/css" />
+	
+	<script type='text/javascript' src='https://www.googletagmanager.com/gtag/js?id=UA-360886-1' id='google_gtagjs-js' async></script>
+	<script type='text/javascript' id='google_gtagjs-js-after'>
+	window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}
+	gtag('set', 'linker', {"domains":["mcconnellfoundation.ca"]} );
+	gtag("js", new Date());
+	gtag("set", "developer_id.dZTNiMT", true);
+	gtag("config", "UA-360886-1", {"anonymize_ip":true});
+	gtag("config", "G-9D53P1CRWL");
+	</script>
+	
+<link rel='stylesheet' id='gform_basic-css' href='https://www.mcconnellfoundation.ca/wp-content/plugins/gravityforms/assets/css/dist/basic.min.css?ver=2.9.27' type='text/css' media='all' />
+<link rel='stylesheet' id='gform_theme_components-css' href='https://www.mcconnellfoundation.ca/wp-content/plugins/gravityforms/assets/css/dist/theme-components.min.css?ver=2.9.27' type='text/css' media='all' />
+<link rel='stylesheet' id='gform_theme-css' href='https://www.mcconnellfoundation.ca/wp-content/plugins/gravityforms/assets/css/dist/theme.min.css?ver=2.9.27' type='text/css' media='all' />
+
+</head>
+<body class="wp-singular page-template page-template-templates page-template-template-Ligne-du-temps page-template-templatestemplate-Ligne-du-temps-php page page-id-79 page-child parent-pageid-45812 wp-theme-parkour3">
+	<header id="site-header" class="site-header" role="banner" aria-label="Website Header">
+		<a href="#main-content" class="skip-content">
+			Skip to main Content		</a>
+		<div class="container">
+			<div class="site-header__utility">
+				<!-- ============= logo ========= -->
+				<a href="https://www.mcconnellfoundation.ca" class="site-logo">
+					<img data-src="https://www.mcconnellfoundation.ca/wp-content/uploads/2021/12/mcconnell-logo-2.png" title="McConnell Foundation" alt="McConnell" src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMSIgaGVpZ2h0PSIxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==" class="lazyload" style="--smush-placeholder-width: 464px; --smush-placeholder-aspect-ratio: 464/80;">
+				</a>
+				<!-- ============= Search ========= -->
+				<button 
+					class="icon-search js-toggle-search" 
+					data-target="#site-search" 
+					data-toggle="true" 
+					aria-label="Search Button" 
+					aria-expanded= false>
+				</button>
+				<nav id="site-search" class="site-search" role="navigation" aria-label="Site Search">
+					<div class="site-search__container">
+						<form class="site-search__form" action="https://www.mcconnellfoundation.ca" role="search" method="get" >
+							<label class="sr-only" for="s">Search</label>
+							<input class="site-search__input" type="text" value="" name="s" id="s" placeholder="Search"  />
+							<button class="site-search__button" aria-label ="Submit search" type="submit">Search</button>
+						</form>
+					</div>
+				</nav>
+				<!-- ============= language selector ========= -->
+				<div class="language-wrapper d-flex">
+					<div class="site-header__language">					
+						<ul class="flex" role="list" aria-label="Select Language"><li class="lang-item lang-item-4 lang-item-fr">
+										<a lang="fr-CA" hreflang="fr-CA" aria-label="French Language" href="https://www.mcconnellfoundation.ca/fr/a-propos/notre-histoire/">Fr</a>
+										</li><li class="lang-item lang-item-240 lang-item-en current-lang">
+										<a lang="en-CA" hreflang="en-CA" aria-label="English Language" href="https://www.mcconnellfoundation.ca/about/history/">En</a>
+										</li></ul> 
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="container">
+			<div class="site-header__split">
+				<!-- ============= navigation ========= -->
+				<nav class="site-nav" aria-label="Main Navigation">					
+					<ul id="menu-primary" class="site-nav__menu"><li id="menu-item-50280" class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor current-menu-ancestor current-menu-parent current-page-parent current_page_parent current_page_ancestor menu-item-has-children menu-item-50280"><a href="https://www.mcconnellfoundation.ca/about/">About</a><button aria-label="Submenu List" role="button" aria-expanded="false"></button>
+<ul class="sub-menu">
+	<li id="menu-item-111" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-79 current_page_item menu-item-111"><a href="https://www.mcconnellfoundation.ca/about/history/" aria-current="page">History</a><button aria-label="Submenu List" role="button" aria-expanded="false"></button></li>
+	<li id="menu-item-50282" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-50282"><a href="https://www.mcconnellfoundation.ca/about/vision-mission/">Vision &#038; Mission</a><button aria-label="Submenu List" role="button" aria-expanded="false"></button></li>
+	<li id="menu-item-50281" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-50281"><a href="https://www.mcconnellfoundation.ca/about/governance/">Governance</a><button aria-label="Submenu List" role="button" aria-expanded="false"></button></li>
+	<li id="menu-item-42971" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-42971"><a href="https://www.mcconnellfoundation.ca/about/our-team/">Our Team</a><button aria-label="Submenu List" role="button" aria-expanded="false"></button></li>
+	<li id="menu-item-46014" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-46014"><a href="https://www.mcconnellfoundation.ca/about/annual-reviews/">Annual Reviews</a><button aria-label="Submenu List" role="button" aria-expanded="false"></button></li>
+	<li id="menu-item-42953" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-42953"><a href="https://www.mcconnellfoundation.ca/about/careers/">Careers</a><button aria-label="Submenu List" role="button" aria-expanded="false"></button></li>
+</ul>
+</li>
+<li id="menu-item-50406" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-50406"><a href="https://www.mcconnellfoundation.ca/what-we-fund/">What We Fund</a><button aria-label="Submenu List" role="button" aria-expanded="false"></button>
+<ul class="sub-menu">
+	<li id="menu-item-44873" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-44873"><a href="https://www.mcconnellfoundation.ca/what-we-fund/communities/">Communities</a><button aria-label="Submenu List" role="button" aria-expanded="false"></button></li>
+	<li id="menu-item-44874" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-44874"><a href="https://www.mcconnellfoundation.ca/what-we-fund/reconciliation/">Reconciliation</a><button aria-label="Submenu List" role="button" aria-expanded="false"></button></li>
+	<li id="menu-item-44872" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-44872"><a href="https://www.mcconnellfoundation.ca/what-we-fund/climate/">Climate</a><button aria-label="Submenu List" role="button" aria-expanded="false"></button></li>
+	<li id="menu-item-50405" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-50405"><a href="https://www.mcconnellfoundation.ca/what-we-fund/sector-building/">Sector Building</a><button aria-label="Submenu List" role="button" aria-expanded="false"></button></li>
+	<li id="menu-item-50404" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-50404"><a href="https://www.mcconnellfoundation.ca/what-we-fund/montreal/">Montreal</a><button aria-label="Submenu List" role="button" aria-expanded="false"></button></li>
+</ul>
+</li>
+<li id="menu-item-50407" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-50407"><a href="https://www.mcconnellfoundation.ca/apply/">Apply</a><button aria-label="Submenu List" role="button" aria-expanded="false"></button>
+<ul class="sub-menu">
+	<li id="menu-item-47989" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-47989"><a href="https://www.mcconnellfoundation.ca/apply/office-hours/">Virtual Office Hours</a><button aria-label="Submenu List" role="button" aria-expanded="false"></button></li>
+	<li id="menu-item-46012" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-46012"><a href="https://www.mcconnellfoundation.ca/apply/for-applicants/">For Applicants</a><button aria-label="Submenu List" role="button" aria-expanded="false"></button></li>
+	<li id="menu-item-50402" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-50402"><a href="https://www.mcconnellfoundation.ca/apply/for-partners/">For Partners</a><button aria-label="Submenu List" role="button" aria-expanded="false"></button></li>
+	<li id="menu-item-44801" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-44801"><a href="https://www.mcconnellfoundation.ca/apply/funding-database/">Funding Database</a><button aria-label="Submenu List" role="button" aria-expanded="false"></button></li>
+	<li id="menu-item-46013" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-46013"><a target="_blank" href="https://thejwmcconnellfamilyfoundation.my.site.com/s/?language=en_US">Portal</a><button aria-label="Submenu List" role="button" aria-expanded="false"></button></li>
+</ul>
+</li>
+<li id="menu-item-50399" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-50399"><a href="https://www.mcconnellfoundation.ca/how-we-invest/">How We Invest</a><button aria-label="Submenu List" role="button" aria-expanded="false"></button>
+<ul class="sub-menu">
+	<li id="menu-item-44813" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-44813"><a href="https://www.mcconnellfoundation.ca/how-we-invest/investment-strategy/">Investment Strategy</a><button aria-label="Submenu List" role="button" aria-expanded="false"></button></li>
+	<li id="menu-item-50401" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-50401"><a href="https://www.mcconnellfoundation.ca/how-we-invest/our-portfolio/">Our Portfolio</a><button aria-label="Submenu List" role="button" aria-expanded="false"></button></li>
+	<li id="menu-item-50400" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-50400"><a href="https://www.mcconnellfoundation.ca/how-we-invest/investment-resources-and-faqs/">Investment Resources &#038; FAQs</a><button aria-label="Submenu List" role="button" aria-expanded="false"></button></li>
+</ul>
+</li>
+<li id="menu-item-45743" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-45743"><a href="https://www.mcconnellfoundation.ca/publications/">Publications</a><button aria-label="Submenu List" role="button" aria-expanded="false"></button></li>
+<li id="menu-item-45756" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-45756"><a href="https://www.mcconnellfoundation.ca/news/">News</a><button aria-label="Submenu List" role="button" aria-expanded="false"></button></li>
+</ul>				</nav>
+				<!-- ============= mobile menu icon ========== -->
+				<button class="site-header__toggle btn-toggle" data-toggle-modal="#mobile-nav" data-class="modal-nav" aria-label="show navigation menu" aria-expanded=false>
+					<span class="btn-toggle__bar"></span>
+					<span class="btn-toggle__bar"></span>
+					<span class="btn-toggle__bar"></span>
+				</button>
+			</div>
+		</div>
+	</header>
+
+	<main class="page-wrap" id="main-content"><section class="hero hero--default hero-page-title hero--black">
+
+  <div class="container">
+
+    <div class="row flex align-center">
+
+      <div class="hero__body">
+
+        <h1>History</h1>
+
+      </div>
+
+      <div class="hero__hub">
+
+          <img data-src="https://www.mcconnellfoundation.ca/wp-content/uploads/2021/12/large_hub.svg" alt="McConnell Hub Logo" src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMSIgaGVpZ2h0PSIxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==" class="lazyload" />
+      </div>
+
+    </div>
+
+  </div>
+  <img class="hero__graphic hero__graphic--mobile" data-src="https://www.mcconnellfoundation.ca/wp-content/themes/parkour3/img/hub-right.svg" class="hub lazyload" alt="" src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMSIgaGVpZ2h0PSIxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==">
+
+ 
+</section><!-- .hero --><div class="breadcrumbs"><a href="https://www.mcconnellfoundation.ca">Home</a> <svg width="11" height="20" viewBox="0 0 11 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+		<line x1="9.75777" y1="10.3813" x2="0.702389" y2="1.32588" stroke="#1C1F2A"/>
+		<line y1="-0.5" x2="12.8062" y2="-0.5" transform="matrix(-0.707107 0.707107 0.707107 0.707107 10.1113 9.97229)" stroke="#1C1F2A"/>
+		</svg> <a href="https://www.mcconnellfoundation.ca/about/">About</a> <svg width="11" height="20" viewBox="0 0 11 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+		<line x1="9.75777" y1="10.3813" x2="0.702389" y2="1.32588" stroke="#1C1F2A"/>
+		<line y1="-0.5" x2="12.8062" y2="-0.5" transform="matrix(-0.707107 0.707107 0.707107 0.707107 10.1113 9.97229)" stroke="#1C1F2A"/>
+		</svg> History</div>
+<section class="section page-summary space">
+
+  <div class="semi-container">
+
+    <h2 class="page-summary__title">
+        History    </h2>
+
+    <div class="page-summary__text">
+      <p>The McConnell Foundation was founded in 1937 by John Wilson McConnell. This page provides a glimpse of his life, the origins of the Foundation and key milestones.</p>
+    </div>
+
+  </div>
+</section>
+
+
+<main role="main">
+  
+	<!--  flexible content -->
+
+
+<section id="timeline" class="space timeline-block">
+  <div class="semi-container">
+    <ul id="time-nav" class="timeline__nav">
+    
+      <div class="timeline__indicator"></div>
+    
+          
+      <li>
+        <button class="timeline-scroll js-time-button is-active"
+        aria-labelledby="timeline-block-1" data-target="#timeline-block-1"
+        data-group="#timeline"
+        data-index="0" role="button" aria-pressed="false"> 1877</button>
+      </li>
+    
+          
+      <li>
+        <button class="timeline-scroll js-time-button "
+        aria-labelledby="timeline-block-2" data-target="#timeline-block-2"
+        data-group="#timeline"
+        data-index="1" role="button" aria-pressed="false"> 1892</button>
+      </li>
+    
+          
+      <li>
+        <button class="timeline-scroll js-time-button "
+        aria-labelledby="timeline-block-3" data-target="#timeline-block-3"
+        data-group="#timeline"
+        data-index="2" role="button" aria-pressed="false"> 1899</button>
+      </li>
+    
+          
+      <li>
+        <button class="timeline-scroll js-time-button "
+        aria-labelledby="timeline-block-4" data-target="#timeline-block-4"
+        data-group="#timeline"
+        data-index="3" role="button" aria-pressed="false"> 1915</button>
+      </li>
+    
+          
+      <li>
+        <button class="timeline-scroll js-time-button "
+        aria-labelledby="timeline-block-5" data-target="#timeline-block-5"
+        data-group="#timeline"
+        data-index="4" role="button" aria-pressed="false"> 1920</button>
+      </li>
+    
+          
+      <li>
+        <button class="timeline-scroll js-time-button "
+        aria-labelledby="timeline-block-6" data-target="#timeline-block-6"
+        data-group="#timeline"
+        data-index="5" role="button" aria-pressed="false"> 1937</button>
+      </li>
+    
+          
+      <li>
+        <button class="timeline-scroll js-time-button "
+        aria-labelledby="timeline-block-7" data-target="#timeline-block-7"
+        data-group="#timeline"
+        data-index="6" role="button" aria-pressed="false"> 1940</button>
+      </li>
+    
+          
+      <li>
+        <button class="timeline-scroll js-time-button "
+        aria-labelledby="timeline-block-8" data-target="#timeline-block-8"
+        data-group="#timeline"
+        data-index="7" role="button" aria-pressed="false"> 1963</button>
+      </li>
+    
+          
+      <li>
+        <button class="timeline-scroll js-time-button "
+        aria-labelledby="timeline-block-9" data-target="#timeline-block-9"
+        data-group="#timeline"
+        data-index="8" role="button" aria-pressed="false"> 1974</button>
+      </li>
+    
+          
+      <li>
+        <button class="timeline-scroll js-time-button "
+        aria-labelledby="timeline-block-10" data-target="#timeline-block-10"
+        data-group="#timeline"
+        data-index="9" role="button" aria-pressed="false"> 1980</button>
+      </li>
+    
+          
+      <li>
+        <button class="timeline-scroll js-time-button "
+        aria-labelledby="timeline-block-11" data-target="#timeline-block-11"
+        data-group="#timeline"
+        data-index="10" role="button" aria-pressed="false"> 1995</button>
+      </li>
+    
+          
+      <li>
+        <button class="timeline-scroll js-time-button "
+        aria-labelledby="timeline-block-12" data-target="#timeline-block-12"
+        data-group="#timeline"
+        data-index="11" role="button" aria-pressed="false"> 1996</button>
+      </li>
+    
+          
+      <li>
+        <button class="timeline-scroll js-time-button "
+        aria-labelledby="timeline-block-13" data-target="#timeline-block-13"
+        data-group="#timeline"
+        data-index="12" role="button" aria-pressed="false"> 2003</button>
+      </li>
+    
+          
+      <li>
+        <button class="timeline-scroll js-time-button "
+        aria-labelledby="timeline-block-14" data-target="#timeline-block-14"
+        data-group="#timeline"
+        data-index="13" role="button" aria-pressed="false"> 2007</button>
+      </li>
+    
+          
+      <li>
+        <button class="timeline-scroll js-time-button "
+        aria-labelledby="timeline-block-15" data-target="#timeline-block-15"
+        data-group="#timeline"
+        data-index="14" role="button" aria-pressed="false"> 2007</button>
+      </li>
+    
+          
+      <li>
+        <button class="timeline-scroll js-time-button "
+        aria-labelledby="timeline-block-16" data-target="#timeline-block-16"
+        data-group="#timeline"
+        data-index="15" role="button" aria-pressed="false"> 2010</button>
+      </li>
+    
+          
+      <li>
+        <button class="timeline-scroll js-time-button "
+        aria-labelledby="timeline-block-17" data-target="#timeline-block-17"
+        data-group="#timeline"
+        data-index="16" role="button" aria-pressed="false"> 2011</button>
+      </li>
+    
+          
+      <li>
+        <button class="timeline-scroll js-time-button "
+        aria-labelledby="timeline-block-18" data-target="#timeline-block-18"
+        data-group="#timeline"
+        data-index="17" role="button" aria-pressed="false"> 2015</button>
+      </li>
+    
+          
+      <li>
+        <button class="timeline-scroll js-time-button "
+        aria-labelledby="timeline-block-19" data-target="#timeline-block-19"
+        data-group="#timeline"
+        data-index="18" role="button" aria-pressed="false"> 2017</button>
+      </li>
+    
+          
+      <li>
+        <button class="timeline-scroll js-time-button "
+        aria-labelledby="timeline-block-20" data-target="#timeline-block-20"
+        data-group="#timeline"
+        data-index="19" role="button" aria-pressed="false"> 2019</button>
+      </li>
+    
+          
+      <li>
+        <button class="timeline-scroll js-time-button "
+        aria-labelledby="timeline-block-21" data-target="#timeline-block-21"
+        data-group="#timeline"
+        data-index="20" role="button" aria-pressed="false"> 2020</button>
+      </li>
+    
+          
+      <li>
+        <button class="timeline-scroll js-time-button "
+        aria-labelledby="timeline-block-22" data-target="#timeline-block-22"
+        data-group="#timeline"
+        data-index="21" role="button" aria-pressed="false"> 2021</button>
+      </li>
+    
+          
+      <li>
+        <button class="timeline-scroll js-time-button "
+        aria-labelledby="timeline-block-23" data-target="#timeline-block-23"
+        data-group="#timeline"
+        data-index="22" role="button" aria-pressed="false"> 2022</button>
+      </li>
+    
+          
+      <li>
+        <button class="timeline-scroll js-time-button "
+        aria-labelledby="timeline-block-24" data-target="#timeline-block-24"
+        data-group="#timeline"
+        data-index="23" role="button" aria-pressed="false"> 2022</button>
+      </li>
+    
+          
+      <li>
+        <button class="timeline-scroll js-time-button "
+        aria-labelledby="timeline-block-25" data-target="#timeline-block-25"
+        data-group="#timeline"
+        data-index="24" role="button" aria-pressed="false"> 2023</button>
+      </li>
+    
+          
+      <li>
+        <button class="timeline-scroll js-time-button "
+        aria-labelledby="timeline-block-26" data-target="#timeline-block-26"
+        data-group="#timeline"
+        data-index="25" role="button" aria-pressed="false"> 2050 </button>
+      </li>
+    
+          
+    </ul>
+
+    <div class="timeline">
+       
+
+        <div 
+          id="timeline-block-1" class="grid-2-row timeline-row">
+
+          <div class="grid__item right_grid" data-year="1877">
+            <div class="timeline__inner">
+              <h3 class="heading-3">John Wilson McConnell is born</h3>
+              <p>John Wilson McConnell was born in Muskoka, Ontario, in 1877, the youngest of seven children. His parents emigrated to Canada from Ireland in 1863, seeking to make a new life for their family. </p>
+            </div>
+          </div>
+
+          <div class="grid__item timeline__image timeline__image--square ">
+            <div>
+              <img data-src="https://www.mcconnellfoundation.ca/wp-content/uploads/2021/12/J.W._in_Toronto_1893-1-e1688502713632.jpg"  alt="JW McConnell as a teenager." src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMSIgaGVpZ2h0PSIxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==" class="lazyload" style="--smush-placeholder-width: 573px; --smush-placeholder-aspect-ratio: 573/491;" />
+            </div>
+          </div>
+
+        </div>    
+      
+       
+
+        <div 
+          id="timeline-block-2" class="grid-2-row timeline-row">
+
+          <div class="grid__item right_grid" data-year="1892">
+            <div class="timeline__inner">
+              <h3 class="heading-3">The J.W. McConnell family</h3>
+              <p>J.W. McConnell's family, prompted by the failure of their Muskoka farm, moved to Toronto. McConnell worked as a delivery boy, and later as a bookkeeper. 
+
+</p>
+            </div>
+          </div>
+
+          <div class="grid__item timeline__image timeline__image--default ">
+            <div>
+              <img data-src="https://www.mcconnellfoundation.ca/wp-content/uploads/2021/12/McCONNELLFamily_Toronto_1895-1.jpg"  alt="Nine members of the McConnell family posing for a family portrait. The women are wearing long long dresses with puffy sleeves, the men are in suits, vests and bowties." src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMSIgaGVpZ2h0PSIxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==" class="lazyload" style="--smush-placeholder-width: 1605px; --smush-placeholder-aspect-ratio: 1605/1217;" />
+            </div>
+          </div>
+
+        </div>    
+      
+       
+
+        <div 
+          id="timeline-block-3" class="grid-2-row timeline-row">
+
+          <div class="grid__item right_grid" data-year="1899">
+            <div class="timeline__inner">
+              <h3 class="heading-3">J.W. McConnell joins the Standard Chemical Company </h3>
+              <p>J.W. McConnell joined the Standard Chemical Company, and moved to Montreal a year later to establish its office there. Upon arrival in Montreal, he roomed at the YMCA. Within a year, he was selling the company's shares in Europe, which gave him a facility for brokering relationships that formed the basis for the financial success that characterized the rest of his life. </p>
+            </div>
+          </div>
+
+          <div class="grid__item timeline__image timeline__image--square ">
+            <div>
+              <img data-src="https://www.mcconnellfoundation.ca/wp-content/uploads/2021/12/J.W._c.1900-1-e1690989078305.jpg"  alt="JW McConnell as an adult, looking towards the distance away from the camera." src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMSIgaGVpZ2h0PSIxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==" class="lazyload" style="--smush-placeholder-width: 571px; --smush-placeholder-aspect-ratio: 571/459;" />
+            </div>
+          </div>
+
+        </div>    
+      
+       
+
+        <div 
+          id="timeline-block-4" class="grid-2-row timeline-row">
+
+          <div class="grid__item right_grid" data-year="1915">
+            <div class="timeline__inner">
+              <h3 class="heading-3">J.W. McConnell becomes a regular and generous contributor</h3>
+              <p>J.W. McConnell became a regular and generous contributor to several major Montreal institutions, notably McGill University, the Royal Victoria and Montreal General hospitals, and the YMCA. He also assisted several churches (Catholic and Protestant), youth initiatives, missions, and individuals — both English and French-speaking. His contributions were often anonymous.</p>
+            </div>
+          </div>
+
+          <div class="grid__item timeline__image timeline__image--default ">
+            <div>
+              <img data-src="https://www.mcconnellfoundation.ca/wp-content/uploads/2021/12/v6469-1.jpg"  alt="Black and white image of McGill University: a large building, with a turret and a flag, with an entry with steps and columns." src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMSIgaGVpZ2h0PSIxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==" class="lazyload" style="--smush-placeholder-width: 768px; --smush-placeholder-aspect-ratio: 768/605;" />
+            </div>
+          </div>
+
+        </div>    
+      
+       
+
+        <div 
+          id="timeline-block-5" class="grid-2-row timeline-row">
+
+          <div class="grid__item right_grid" data-year="1920">
+            <div class="timeline__inner">
+              <h3 class="heading-3">J.W. McConnell's chief interests</h3>
+              <p>J.W. McConnell was involved in numerous businesses. His chief interests in his early years were Goodwin's department store (later sold to Eaton's), the Borden Company of Canada, Ogilvie Flour Mills, Inco, Brazilian Traction (later Brascan), Canadian International Paper, and the St. Lawrence Sugar Co., of which he was president from 1914. By 1920, he was one of the wealthiest people in Canada.  
+
+</p>
+            </div>
+          </div>
+
+          <div class="grid__item timeline__image timeline__image--default ">
+            <div>
+              <img data-src="https://www.mcconnellfoundation.ca/wp-content/uploads/2021/12/84105004-1.jpg"  alt="Black and white image of the Hudson's Bay building in downtown Montreal in the early 1900s. The roads are cobblestone, there are men in wool coats and fedoras." src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMSIgaGVpZ2h0PSIxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==" class="lazyload" style="--smush-placeholder-width: 768px; --smush-placeholder-aspect-ratio: 768/601;" />
+            </div>
+          </div>
+
+        </div>    
+      
+       
+
+        <div 
+          id="timeline-block-6" class="grid-2-row timeline-row">
+
+          <div class="grid__item right_grid" data-year="1937">
+            <div class="timeline__inner">
+              <h3 class="heading-3">The McConnell Foundation is established</h3>
+              <p>The McConnell Foundation was established, the second family foundation created in Canada, following the Massey Foundation. Run by J.W. McConnell with the help of a secretary, early funding reflected his long-standing interests and commitments, including McGill University and its affiliated hospitals (notably the Montreal Neurological Institute), the YMCA, Salvation Army, Old Brewery Mission, the Victorian Order of Nurses, and a number of churches and agencies caring for Montrealers in need. </p>
+            </div>
+          </div>
+
+          <div class="grid__item timeline__image timeline__image--square ">
+            <div>
+              <img data-src="https://www.mcconnellfoundation.ca/wp-content/uploads/2021/12/J.W._1936-1-e1690402848610.jpg"  alt="JW McConnell in his sixties, wearing a suit and tie. His hair is grey and his eyebrows are bushy." src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMSIgaGVpZ2h0PSIxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==" class="lazyload" style="--smush-placeholder-width: 999px; --smush-placeholder-aspect-ratio: 999/994;" />
+            </div>
+          </div>
+
+        </div>    
+      
+       
+
+        <div 
+          id="timeline-block-7" class="grid-2-row timeline-row">
+
+          <div class="grid__item right_grid" data-year="1940">
+            <div class="timeline__inner">
+              <h3 class="heading-3">Canadian Patriotic War Fund and the Victory Loan campaigns</h3>
+              <p>During the First and Second World Wars, J.W. McConnell was a tireless fundraiser and an instrumental figure behind a number of successful war efforts, including the Canadian Patriotic War Fund and the Victory Loan campaigns. 
+
+</p>
+            </div>
+          </div>
+
+          <div class="grid__item timeline__image timeline__image--square ">
+            <div>
+              <img data-src="https://www.mcconnellfoundation.ca/wp-content/uploads/NWFC-1942-3rd-VL-Scrapbook-Farm-Poster-EN-e1690303118758.jpg"  alt="Illustration of a 1940s male farmer in a straw hat, holding some hay, a woman in a dress holding a chicken, and a teenage boy in a straw hat holding a baby pig. Underneath the illustration reads: Buy Victory Bonds with cash and produce." src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMSIgaGVpZ2h0PSIxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==" class="lazyload" style="--smush-placeholder-width: 786px; --smush-placeholder-aspect-ratio: 786/804;" />
+            </div>
+          </div>
+
+        </div>    
+      
+       
+
+        <div 
+          id="timeline-block-8" class="grid-2-row timeline-row">
+
+          <div class="grid__item right_grid" data-year="1963">
+            <div class="timeline__inner">
+              <h3 class="heading-3">J.W. McConnell passes away</h3>
+              <p>J.W. McConnell passes away. Prime Minister Lester B. Pearson observed: “Mr. McConnell was a man of large spirit, great generosity, and above all, abiding Canadianism.”   
+
+</p>
+            </div>
+          </div>
+
+          <div class="grid__item timeline__image timeline__image--square ">
+            <div>
+              <img data-src="https://www.mcconnellfoundation.ca/wp-content/uploads/2021/12/JWs-1-e1688074182263.jpg"  alt="JW McConnell as an older gentleman. Wearing a dark suit and tie, his white hair has thinned and he looks seriously at the camera." src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMSIgaGVpZ2h0PSIxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==" class="lazyload" style="--smush-placeholder-width: 1000px; --smush-placeholder-aspect-ratio: 1000/829;" />
+            </div>
+          </div>
+
+        </div>    
+      
+       
+
+        <div 
+          id="timeline-block-9" class="grid-2-row timeline-row">
+
+          <div class="grid__item right_grid" data-year="1974">
+            <div class="timeline__inner">
+              <h3 class="heading-3">Total grants made by the Foundation pass the $100-million mark</h3>
+              <p>Total grants made by the Foundation passed the $100-million mark. The Foundation was a mainstay for many important health, educational, and cultural organizations in Montreal, and supported innovative programs such as the pioneering Palliative Care Centre at the Royal Victoria Hospital.   </p>
+            </div>
+          </div>
+
+          <div class="grid__item timeline__image timeline__image--default ">
+            <div>
+              <img data-src="https://www.mcconnellfoundation.ca/wp-content/uploads/The-Royal-Victoria-Hospital-was-built-in-phases-over-more-than-a-century-This-aerial.jpg"  alt="Royal Victoria Hospital viewed from the sky, looking towards Mount Royal." src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMSIgaGVpZ2h0PSIxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==" class="lazyload" style="--smush-placeholder-width: 752px; --smush-placeholder-aspect-ratio: 752/445;" />
+            </div>
+          </div>
+
+        </div>    
+      
+       
+
+        <div 
+          id="timeline-block-10" class="grid-2-row timeline-row">
+
+          <div class="grid__item right_grid" data-year="1980">
+            <div class="timeline__inner">
+              <h3 class="heading-3">The Foundation’s focus expands to include all of Canada</h3>
+              <p>After more than four decades of work centred on Montreal, the Foundation’s focus expanded to include all of Canada. We supported influential research into early childhood development, the major expansion of the McCord Stewart Museum, and granted to numerous postsecondary and health care foundations, as well as youth-serving organizations like the YMCA. </p>
+            </div>
+          </div>
+
+          <div class="grid__item timeline__image timeline__image--default ">
+            <div>
+              <img data-src="https://www.mcconnellfoundation.ca/wp-content/uploads/2021/12/matthias-heil-156717-1.jpg"  alt="Afternoon sun shines through maple leaves in the autumn." src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMSIgaGVpZ2h0PSIxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==" class="lazyload" style="--smush-placeholder-width: 800px; --smush-placeholder-aspect-ratio: 800/532;" />
+            </div>
+          </div>
+
+        </div>    
+      
+       
+
+        <div 
+          id="timeline-block-11" class="grid-2-row timeline-row">
+
+          <div class="grid__item right_grid" data-year="1995">
+            <div class="timeline__inner">
+              <h3 class="heading-3">Tim Brodhead becomes President</h3>
+              <p>Tim Brodhead became the first non-family member to be named President. While continuing to respond to requests for funding, during Brodhead’s term the Foundation began to initiate its own programs, often engaging intermediaries to administer them.   </p>
+            </div>
+          </div>
+
+          <div class="grid__item timeline__image timeline__image--default ">
+            <div>
+              <img data-src="https://www.mcconnellfoundation.ca/wp-content/uploads/TimBrodhead2017-4-1-scaled-e1688695084145.jpg"  alt="Tim Brodhead smiles and laughs at the camera." src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMSIgaGVpZ2h0PSIxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==" class="lazyload" style="--smush-placeholder-width: 865px; --smush-placeholder-aspect-ratio: 865/510;" />
+            </div>
+          </div>
+
+        </div>    
+      
+       
+
+        <div 
+          id="timeline-block-12" class="grid-2-row timeline-row">
+
+          <div class="grid__item right_grid" data-year="1996">
+            <div class="timeline__inner">
+              <h3 class="heading-3">Early national initiatives (1996–2016)</h3>
+              <p>Starting in the mid-1990s, the Foundation created and managed several national initiatives across multiple domains, including strengthening the community sector, youth, social inclusion, and the environment. Despite the diversity of their sectors and approaches, all aimed to increase resilience and inclusion in communities across the country. Initiatives from this period included environmental programs, ArtsSmarts, CEDTAP, Supporting Family Caregivers, GreenStreet, Vibrant Communities, Community Service Learning, ALLIES, and Sport for Development. Combined, funding for these initiatives totalled over $65 million.  
+
+<a href="/about/past-initiatives/">See our past initiatives.</a></p>
+            </div>
+          </div>
+
+          <div class="grid__item timeline__image timeline__image--default ">
+            <div>
+              <img data-src="https://www.mcconnellfoundation.ca/wp-content/uploads/2022/03/Green-Street-1920x1434-1-e1688517875662.jpg"  alt="Young children holding a full recycling bin." src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMSIgaGVpZ2h0PSIxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==" class="lazyload" style="--smush-placeholder-width: 900px; --smush-placeholder-aspect-ratio: 900/672;" />
+            </div>
+          </div>
+
+        </div>    
+      
+       
+
+        <div 
+          id="timeline-block-13" class="grid-2-row timeline-row">
+
+          <div class="grid__item right_grid" data-year="2003">
+            <div class="timeline__inner">
+              <h3 class="heading-3">Funding in reconciliation begins</h3>
+              <p>The Foundation first began funding reconciliation activities in 2003. It started with the First Nations Child and Family Caring Society’s Caring Across the Boundaries, an initiative that fostered partnerships between First Nations’ communities and voluntary sector agencies, bringing outside support to communities on communities’ terms. This funding helped to launch our reconciliation journey, which has expanded through our work with partners in communities across Turtle Island. As an organization we have also taken steps to gain a deeper understanding of the realities faced by First Nations, Métis and Inuit peoples in Canada.  </p>
+            </div>
+          </div>
+
+          <div class="grid__item timeline__image timeline__image--default ">
+            <div>
+              <img data-src="https://www.mcconnellfoundation.ca/wp-content/uploads/2023/03/Spirit-bear-e1688503259910.png"  alt="Spirit bear is a stuffed animal dressed in traditional Indigenous clothes and mocassins; waving his left paw." src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMSIgaGVpZ2h0PSIxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==" class="lazyload" style="--smush-placeholder-width: 940px; --smush-placeholder-aspect-ratio: 940/658;" />
+            </div>
+          </div>
+
+        </div>    
+      
+       
+
+        <div 
+          id="timeline-block-14" class="grid-2-row timeline-row">
+
+          <div class="grid__item right_grid" data-year="2007">
+            <div class="timeline__inner">
+              <h3 class="heading-3">Early-stage impact investing (2007–2010)</h3>
+              <p>We began our impact investing journey with early investments in clean energy, sustainable food systems and fair trade. The Board approved  allocating 10% of our endowment to impact investing, which we achieved in 2018. Over the course of 15 years, we formalized our investing approach with many partners accessing capital through Mission-Related Investments and Program-Related Investments.  
+<a href="/how-we-invest">Learn more about how we invest for impact.</a></p>
+            </div>
+          </div>
+
+          <div class="grid__item timeline__image timeline__image--default ">
+            <div>
+              <img data-src="https://www.mcconnellfoundation.ca/wp-content/uploads/Evergreen-brickworkds.jpeg"  alt="Repurposed factory surrounded by trees and a pond. The space is used by social purpose organizations and for events." src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMSIgaGVpZ2h0PSIxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==" class="lazyload" style="--smush-placeholder-width: 1616px; --smush-placeholder-aspect-ratio: 1616/1080;" />
+            </div>
+          </div>
+
+        </div>    
+      
+       
+
+        <div 
+          id="timeline-block-15" class="grid-2-row timeline-row">
+
+          <div class="grid__item right_grid" data-year="2007">
+            <div class="timeline__inner">
+              <h3 class="heading-3">Social Innovation Generation (SiG)   </h3>
+              <p>Social Innovation Generation (SiG), was founded with a mission to create a culture of continuous social innovation in Canada. For 10 years, SiG celebrated social innovators and social entrepreneurs around the world, working to highlight the creativity and determination of non-profits and businesses that are devoted to transformation. The initiative ended in 2017, totalling $27.5 million in funding. 
+
+<a href="/report/social-innovation-generation-book-sig/">Learn more.</a></p>
+            </div>
+          </div>
+
+          <div class="grid__item timeline__image timeline__image--square ">
+            <div>
+              <img data-src="https://www.mcconnellfoundation.ca/wp-content/uploads/./Screenshot-2023-06-29-at-2.59.51-PM.png"  alt="Line drawing of dandelion seeds." src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMSIgaGVpZ2h0PSIxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==" class="lazyload" style="--smush-placeholder-width: 1466px; --smush-placeholder-aspect-ratio: 1466/1384;" />
+            </div>
+          </div>
+
+        </div>    
+      
+       
+
+        <div 
+          id="timeline-block-16" class="grid-2-row timeline-row">
+
+          <div class="grid__item right_grid" data-year="2010">
+            <div class="timeline__inner">
+              <h3 class="heading-3">Major Initiatives (2010–2021)</h3>
+              <p>For just over a decade, the Foundation managed five major initiatives aimed at contributing to diverse and innovative approaches to address community resilience, reconciliation, and climate change. The initiatives took a systems change approach, using a mix of funding, social innovation approaches, convening and multi-sectoral partnerships to tackle the root causes of complex challenges. Initiatives from this period include; Sustainable Food Systems, Cities for People, the McConnell Reconciliation Initiative, Renew, Re-Code, and WellAhead. The combined funding for these initiatives totalled over $72 million.  
+
+<a href="/about/past-initiatives/">See our past initiatives.</a></p>
+            </div>
+          </div>
+
+          <div class="grid__item timeline__image timeline__image--default ">
+            <div>
+              <img data-src="https://www.mcconnellfoundation.ca/wp-content/uploads/2022/02/Stocksy_txp7ab67008o3w100_Small_820141.jpg"  alt="A view of a verdant Vancouver city at the base of some mountain at dusk." src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMSIgaGVpZ2h0PSIxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==" class="lazyload" style="--smush-placeholder-width: 932px; --smush-placeholder-aspect-ratio: 932/536;" />
+            </div>
+          </div>
+
+        </div>    
+      
+       
+
+        <div 
+          id="timeline-block-17" class="grid-2-row timeline-row">
+
+          <div class="grid__item right_grid" data-year="2011">
+            <div class="timeline__inner">
+              <h3 class="heading-3">Stephen Huddart appointed President </h3>
+              <p>The Board appointed Stephen Huddart as the Foundation’s President and CEO. Huddart first joined the Foundation in 2003 as a Senior Program Officer. </p>
+            </div>
+          </div>
+
+          <div class="grid__item timeline__image timeline__image--default ">
+            <div>
+              <img data-src="https://www.mcconnellfoundation.ca/wp-content/uploads/2022/02/Stephen-Huddart-2019_1-2-scaled.jpg"  alt="Stephen Huddart wearing a button shirt, blazer and round glasses. He smiles slightly at the camera." src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMSIgaGVpZ2h0PSIxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==" class="lazyload" style="--smush-placeholder-width: 2560px; --smush-placeholder-aspect-ratio: 2560/1703;" />
+            </div>
+          </div>
+
+        </div>    
+      
+       
+
+        <div 
+          id="timeline-block-18" class="grid-2-row timeline-row">
+
+          <div class="grid__item right_grid" data-year="2015">
+            <div class="timeline__inner">
+              <h3 class="heading-3">McConnell became signatory of the Philanthropic Community’s Declaration of Action</h3>
+              <p>Coinciding with the Truth and Reconciliation Commission of Canada (TRC) holding its closing events in Ottawa, a group of Canadian philanthropic organizations (The Circle on Philanthropy and Aboriginal Peoples in Canada, Community Foundations of Canada, Philanthropic Foundations Canada, The Counselling Foundation of Canada) prepared The Philanthropic Community's Declaration of Action committing to ensuring that positive action on reconciliation continues. <a href="https://www.the-circle.ca/the-declaration.html">Read the Declaration.</a></p>
+            </div>
+          </div>
+
+          <div class="grid__item timeline__image timeline__image--default ">
+            <div>
+              <img data-src="https://www.mcconnellfoundation.ca/wp-content/uploads/./Reconciliation-Philanthropic-Declaration-e1688503574255.png"  alt="The declaration of action for the philanthropic community on a white and orange background." src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMSIgaGVpZ2h0PSIxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==" class="lazyload" style="--smush-placeholder-width: 900px; --smush-placeholder-aspect-ratio: 900/501;" />
+            </div>
+          </div>
+
+        </div>    
+      
+       
+
+        <div 
+          id="timeline-block-19" class="grid-2-row timeline-row">
+
+          <div class="grid__item right_grid" data-year="2017">
+            <div class="timeline__inner">
+              <h3 class="heading-3">New branding</h3>
+              <p>The J.W. McConnell Family Foundation becomes the McConnell Foundation, with a modernized branding. Our multicolour logo, circular in shape, known as the Hub, is a symbol of McConnell. The Hub is a continuously growing circle with a strong foundation, and an ever-growing and developing outer shell. It is a symbol of our dedication to growth and exploration. The many unique elements of the Hub represent diverse perspectives coming together in unity, but there are pieces missing. These represent the work that remains to be done and the future of our work with our partners. </p>
+            </div>
+          </div>
+
+          <div class="grid__item timeline__image timeline__image--square ">
+            <div>
+              <img data-src="https://www.mcconnellfoundation.ca/wp-content/uploads/2022/02/HUB_RGB.png"  alt="McConnell logo: a multicoloured circle with pieces missing from the edges." src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMSIgaGVpZ2h0PSIxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==" class="lazyload" style="--smush-placeholder-width: 883px; --smush-placeholder-aspect-ratio: 883/885;" />
+            </div>
+          </div>
+
+        </div>    
+      
+       
+
+        <div 
+          id="timeline-block-20" class="grid-2-row timeline-row">
+
+          <div class="grid__item right_grid" data-year="2019">
+            <div class="timeline__inner">
+              <h3 class="heading-3">Our first Impact Investing Report is published</h3>
+              <p>After more than a decade of practice in impact investing, we published our first Impact Investing Report and have continued to do so annually. In 2019, our impact investment portfolio totalled $106 million in commitments and represented 16% of total assets. <a href="/about/annual-reviews">Find out more.</a></p>
+            </div>
+          </div>
+
+          <div class="grid__item timeline__image timeline__image--square ">
+            <div>
+              <img data-src="https://www.mcconnellfoundation.ca/wp-content/uploads/./McConnell_Portfolio-Snapshot-Impact-Investing-e1688065013774.png"  alt="A rising line on a graph with a line drawing of a branch in a circle, followed by another rising line on a graph." src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMSIgaGVpZ2h0PSIxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==" class="lazyload" style="--smush-placeholder-width: 473px; --smush-placeholder-aspect-ratio: 473/468;" />
+            </div>
+          </div>
+
+        </div>    
+      
+       
+
+        <div 
+          id="timeline-block-21" class="grid-2-row timeline-row">
+
+          <div class="grid__item right_grid" data-year="2020">
+            <div class="timeline__inner">
+              <h3 class="heading-3">Lili-Anna Pereša appointed President </h3>
+              <p>The Board appointed Lili-Anna Pereša as the Foundation’s President and CEO. Trained as an engineer, she brings 25 years of experience leading agencies that aim to empower vulnerable populations — including Centraide of Greater Montreal, YWCA of Montreal, the One Drop Foundation, and Amnesty International France. 
+
+ <a href="/about/our-team/lili-anna-peresa/">Learn more about Lili-Anna.</a></p>
+            </div>
+          </div>
+
+          <div class="grid__item timeline__image timeline__image--default ">
+            <div>
+              <img data-src="https://www.mcconnellfoundation.ca/wp-content/uploads/McConnell-253b-1-scaled.jpg"  alt="Lili-Anna Peresa wearing a blazer, a scarf, standing in front of a colourful abstract painting." src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMSIgaGVpZ2h0PSIxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==" class="lazyload" style="--smush-placeholder-width: 2560px; --smush-placeholder-aspect-ratio: 2560/1708;" />
+            </div>
+          </div>
+
+        </div>    
+      
+       
+
+        <div 
+          id="timeline-block-22" class="grid-2-row timeline-row">
+
+          <div class="grid__item right_grid" data-year="2021">
+            <div class="timeline__inner">
+              <h3 class="heading-3">New strategic direction launches  
+
+</h3>
+              <p>McConnell’s strategic direction was announced, guiding the allocation of resources over the coming decade. The strategy includes support for partners working in our three focus areas: Communities, Reconciliation and Climate. It also reaffirms the Foundation’s commitment to its Montreal roots. Innovative approaches are transitioned and integrated within focus areas. </p>
+            </div>
+          </div>
+
+          <div class="grid__item timeline__image timeline__image--square ">
+            <div>
+              <img data-src="https://www.mcconnellfoundation.ca/wp-content/uploads/./New-strategy.png"  alt="A red, pink and yellow version of the McConnell logo." src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMSIgaGVpZ2h0PSIxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==" class="lazyload" style="--smush-placeholder-width: 1675px; --smush-placeholder-aspect-ratio: 1675/1552;" />
+            </div>
+          </div>
+
+        </div>    
+      
+       
+
+        <div 
+          id="timeline-block-23" class="grid-2-row timeline-row">
+
+          <div class="grid__item right_grid" data-year="2022">
+            <div class="timeline__inner">
+              <h3 class="heading-3">Our first Year in Review is published</h3>
+              <p>We have committed to publishing annual Year in Review reports with the aim to increase transparency and accountability. These reviews shine a light on the work of our partners and share an overview of our finances, including both our charitable giving and impact investments. <a href="/about/annual-reviews">Find out more.</a></p>
+            </div>
+          </div>
+
+          <div class="grid__item timeline__image timeline__image--square ">
+            <div>
+              <img data-src="https://www.mcconnellfoundation.ca/wp-content/uploads/2022/04/Generic-Year-In-Review-Cover-Graphic-no-words.png"  alt="A young girl hugs a woman from behind. Behind them is a green plant and the McConnell logo. At the centre of the McConnell logo is a picture of the trees in the woods." src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMSIgaGVpZ2h0PSIxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==" class="lazyload" style="--smush-placeholder-width: 3162px; --smush-placeholder-aspect-ratio: 3162/3089;" />
+            </div>
+          </div>
+
+        </div>    
+      
+       
+
+        <div 
+          id="timeline-block-24" class="grid-2-row timeline-row">
+
+          <div class="grid__item right_grid" data-year="2022">
+            <div class="timeline__inner">
+              <h3 class="heading-3">Commitment to 100% impact investing  </h3>
+              <p>In recognition that significant public and private capital is necessary to create lasting positive impact in our three focus areas of Communities, Reconciliation and Climate, our Board approved the transition of our endowment towards 100% impact investing over five years. By 2028, we will deploy the entirety of our endowment  in the form of charitable funding and investments that generate measurable, intentional positive impact in our communities and for the environment. 
+
+</p>
+            </div>
+          </div>
+
+          <div class="grid__item timeline__image timeline__image--square ">
+            <div>
+              <img data-src="https://www.mcconnellfoundation.ca/wp-content/uploads/./Screenshot-2023-06-13-at-1.28.20-PM-500x469-1.png"  alt="A pie chart divided into three. In the centre of the pie chart is $655M." src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMSIgaGVpZ2h0PSIxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==" class="lazyload" style="--smush-placeholder-width: 500px; --smush-placeholder-aspect-ratio: 500/469;" />
+            </div>
+          </div>
+
+        </div>    
+      
+       
+
+        <div 
+          id="timeline-block-25" class="grid-2-row timeline-row">
+
+          <div class="grid__item right_grid" data-year="2023">
+            <div class="timeline__inner">
+              <h3 class="heading-3">Commitment to transfer $30 M in capital to Indigenous-led foundations </h3>
+              <p>To mark our 20-year anniversary working in reconciliation and collaborating with Indigenous partners, the McConnell foundation committed to $30 M in capital transfers to community-focused Indigenous-led foundations. This decision builds on our learning from working with our partners and is part of our ongoing commitment to shift resources and decision-making into the hands of the people best placed to support Indigenous communities coast to coast to coast. 
+<a href="/capital-transfers-30-million/">Find out more.</a></p>
+            </div>
+          </div>
+
+          <div class="grid__item timeline__image timeline__image--square ">
+            <div>
+              <img data-src="https://www.mcconnellfoundation.ca/wp-content/uploads/jay-thousand-K7AKba4WQyo-unsplash-1-scaled.jpg"  alt="Mural of an Indigenous girl and an older Indigenous woman on the side of a building in Montreal." src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMSIgaGVpZ2h0PSIxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==" class="lazyload" style="--smush-placeholder-width: 2560px; --smush-placeholder-aspect-ratio: 2560/1891;" />
+            </div>
+          </div>
+
+        </div>    
+      
+       
+
+        <div 
+          id="timeline-block-26" class="grid-2-row timeline-row">
+
+          <div class="grid__item right_grid" data-year="2050 ">
+            <div class="timeline__inner">
+              <h3 class="heading-3">Net-zero carbon emissions in our operations and investments (2050 or sooner)</h3>
+              <p>Given the scale and urgency of the climate crisis, and with Climate as a core focus area, we have committed to reaching net-zero carbon emissions in our endowment and in our operations by 2050. Our interim milestones  align with the accelerated European Union objective of a 60% reduction in carbon emissions by 2030 and 36% by 2025. As a first step in this journey, we divested from fossil fuels in 2023.  
+
+</p>
+            </div>
+          </div>
+
+          <div class="grid__item timeline__image timeline__image--default ">
+            <div>
+              <img data-src="https://www.mcconnellfoundation.ca/wp-content/uploads/2022/02/En-route-vers-paris-e1688503847164.jpg"  alt="A field of wind turbines in front of a deep sunset." src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMSIgaGVpZ2h0PSIxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==" class="lazyload" style="--smush-placeholder-width: 429px; --smush-placeholder-aspect-ratio: 429/296;" />
+            </div>
+          </div>
+
+        </div>    
+      
+      
+    </div>
+  </div>
+</section>
+
+
+</main>
+
+
+</main>
+
+   <footer id="footer-columns" class="space pb-0 footer" role="contentinfo">
+      <div class="semi-container">
+         <div class="row">
+            <div class="grid-inner-row">
+               <!-- ========== contact info ============ -->
+               <div class="grid__item">
+                  <div class="footer__tab js-footer-tab">
+                   <h2 class="h3"> Contact</h2>
+                    <button class="nav-caret" aria-label="Contact Information" aria-expanded="false" role="button"></button>
+                  </div>
+                  <div id="footer-drop-1" class="footer__tab-content">
+                     <p><span data-teams="true">2020 Robert-Bourassa #2310</span></p>
+<p><span data-teams="true">Montréal (Québec) H3A 2A5</span></p>
+<p>&nbsp;</p>
+<p><a href="https://www.mcconnellfoundation.ca/about/contact-us/">Contact us</a></p>
+<p>&nbsp;</p>
+<p>Phone<br />
+<a href="tel:5142882133">514-288-2133</a></p>
+                     <span class="tab-space"></span>
+                  </div>
+               </div>
+               <!-- ========== social ============ -->
+               <div class="grid__item">
+                  <div class="footer__tab js-footer-tab">
+                     <h2 class="h3">
+                        Connect                     </h2>
+                     <button class="nav-caret" aria-label="social Menu List" aria-expanded="false" role="button"></button>
+                  </div>
+                  <div id="footer-drop-2" class="footer__tab-content">
+                                                   <p>
+                                 <strong>
+                                    <a href="http://ca.linkedin.com/company/the-j-w-mcconnell-family-foundation" 
+                                       aria-label="mcconnell on Linkedin" 
+                                       target="_blank">
+                                       Linkedin                                    </a>
+                                 </strong>
+                              </p>
+                                                            <p>
+                                 <strong>
+                                    <a href="http://www.facebook.com/mcconnellfoundation" 
+                                       aria-label="mcconnell on Facebook" 
+                                       target="_blank">
+                                       Facebook                                    </a>
+                                 </strong>
+                              </p>
+                                                            <p>
+                                 <strong>
+                                    <a href="http://twitter.com/jwmcconnell" 
+                                       aria-label="mcconnell on Twitter" 
+                                       target="_blank">
+                                       Twitter                                    </a>
+                                 </strong>
+                              </p>
+                                                   <span class="tab-space"></span>
+                  </div>
+               </div>
+            </div>
+            <!-- ========== newsletter ============ -->
+            <div class="grid__item">
+               <div class="footer__tab footer__tab--signup js-footer-tab">
+                  <h2 class="h3">Newsletter Signup</h2>
+                  <button class="nav-caret" aria-label="Newletter form" aria-expanded="false" role="button"></button>
+               </div>
+               <div id="footer-drop-3" class="footer__tab-content">
+                  
+                <div class='gf_browser_unknown gform_wrapper gravity-theme gform-theme--no-framework subscribe-form_wrapper' data-form-theme='gravity-theme' data-form-index='0' id='gform_wrapper_2' >
+                        <div class='gform_heading'>
+                            <h2 class="gform_title">Newsletter Signup</h2>
+                            <p class='gform_description'></p>
+                        </div><form method='post' enctype='multipart/form-data'  id='gform_2' class='subscribe-form' action='/about/history/' data-formid='2' novalidate><div class='gf_invisible ginput_recaptchav3' data-sitekey='6LcrD5MoAAAAAKDm6HmSJhYM_oCJn0sMzh8575o_' data-tabindex='0'><input id="input_e2b319fd2e41264554e8d155ce5222e0" class="gfield_recaptcha_response" type="hidden" name="input_e2b319fd2e41264554e8d155ce5222e0" value=""/></div> 
+ <input type='hidden' class='gforms-pum' value='{"closepopup":false,"closedelay":0,"openpopup":false,"openpopup_id":0}' />
+                        <div class='gform-body gform_body'><div id='gform_fields_2' class='gform_fields top_label form_sublabel_below description_below validation_below'><div id="field_2_3" class="gfield gfield--type-honeypot gform_validation_container field_sublabel_below gfield--has-description field_description_below field_validation_below gfield_visibility_visible"  ><label class='gfield_label gform-field-label' for='input_2_3'>Company</label><div class='ginput_container'><input name='input_3' id='input_2_3' type='text' value='' autocomplete='new-password'/></div><div class='gfield_description' id='gfield_description_2_3'>This field is for validation purposes and should be left unchanged.</div></div><fieldset id="field_2_1" class="gfield gfield--type-name gfield--input-type-name form-control-underline gfield_contains_required field_sublabel_above gfield--no-description field_description_below field_validation_below gfield_visibility_visible"  ><legend class='gfield_label gform-field-label gfield_label_before_complex' >Name<span class="gfield_required"><span class="gfield_required gfield_required_text">(Required)</span></span></legend><div class='ginput_complex ginput_container ginput_container--name no_prefix has_first_name no_middle_name no_last_name no_suffix gf_name_has_1 ginput_container_name gform-grid-row' id='input_2_1'>
+                            
+                            <span id='input_2_1_3_container' class='name_first gform-grid-col gform-grid-col--size-auto' >
+                                                    <label for='input_2_1_3' class='gform-field-label gform-field-label--type-sub '>Name</label>
+                                                    <input type='text' name='input_1.3' id='input_2_1_3' value=''   aria-required='true'   placeholder='Jane Doe'  />
+                                                </span>
+                            
+                            
+                            
+                        </div></fieldset><div id="field_2_2" class="gfield gfield--type-email gfield--input-type-email gfield--width-full form-control-underline gfield_contains_required field_sublabel_below gfield--no-description field_description_above field_validation_below gfield_visibility_visible"  ><label class='gfield_label gform-field-label' for='input_2_2'>Email<span class="gfield_required"><span class="gfield_required gfield_required_text">(Required)</span></span></label><div class='ginput_container ginput_container_email'>
+                            <input name='input_2' id='input_2_2' type='email' value='' class='large'   placeholder='example@email.com' aria-required="true" aria-invalid="false"  />
+                        </div></div></div></div>
+        <div class='gform-footer gform_footer top_label'> <button class='button gform_button btn--alt' aria-label='Submit' id='gform_submit_button_2'><span>Submit</span></button> 
+            <input type='hidden' class='gform_hidden' name='gform_submission_method' data-js='gform_submission_method_2' value='postback' />
+            <input type='hidden' class='gform_hidden' name='gform_theme' data-js='gform_theme_2' id='gform_theme_2' value='gravity-theme' />
+            <input type='hidden' class='gform_hidden' name='gform_style_settings' data-js='gform_style_settings_2' id='gform_style_settings_2' value='[]' />
+            <input type='hidden' class='gform_hidden' name='is_submit_2' value='1' />
+            <input type='hidden' class='gform_hidden' name='gform_submit' value='2' />
+            
+            <input type='hidden' class='gform_hidden' name='gform_currency' data-currency='CAD' value='dxzabF6c78fzhH/MgAl1ewpLfyPUe6hHadDswRNy35gJdr8HfzfZuaZYstIPaDxAba/hTBxRiWWKl0sz4dLc+yEs6go9XJAaBzfZTvJzEVrn4oQ=' />
+            <input type='hidden' class='gform_hidden' name='gform_unique_id' value='' />
+            <input type='hidden' class='gform_hidden' name='state_2' value='WyJbXSIsImZkZTQ1MzBmNmM4YTg0MTFmYzRhMGQ2MWJmODQxNzE2Il0=' />
+            <input type='hidden' autocomplete='off' class='gform_hidden' name='gform_target_page_number_2' id='gform_target_page_number_2' value='0' />
+            <input type='hidden' autocomplete='off' class='gform_hidden' name='gform_source_page_number_2' id='gform_source_page_number_2' value='1' />
+            <input type='hidden' name='gform_field_values' value='' />
+            
+        </div>
+                        </form>
+                        </div><script type="text/javascript">
+/* <![CDATA[ */
+ gform.initializeOnLoaded( function() {gformInitSpinner( 2, 'https://www.mcconnellfoundation.ca/wp-content/plugins/gravityforms/images/spinner.svg', true );jQuery('#gform_ajax_frame_2').on('load',function(){var contents = jQuery(this).contents().find('*').html();var is_postback = contents.indexOf('GF_AJAX_POSTBACK') >= 0;if(!is_postback){return;}var form_content = jQuery(this).contents().find('#gform_wrapper_2');var is_confirmation = jQuery(this).contents().find('#gform_confirmation_wrapper_2').length > 0;var is_redirect = contents.indexOf('gformRedirect(){') >= 0;var is_form = form_content.length > 0 && ! is_redirect && ! is_confirmation;var mt = parseInt(jQuery('html').css('margin-top'), 10) + parseInt(jQuery('body').css('margin-top'), 10) + 100;if(is_form){jQuery('#gform_wrapper_2').html(form_content.html());if(form_content.hasClass('gform_validation_error')){jQuery('#gform_wrapper_2').addClass('gform_validation_error');} else {jQuery('#gform_wrapper_2').removeClass('gform_validation_error');}setTimeout( function() { /* delay the scroll by 50 milliseconds to fix a bug in chrome */  }, 50 );if(window['gformInitDatepicker']) {gformInitDatepicker();}if(window['gformInitPriceFields']) {gformInitPriceFields();}var current_page = jQuery('#gform_source_page_number_2').val();gformInitSpinner( 2, 'https://www.mcconnellfoundation.ca/wp-content/plugins/gravityforms/images/spinner.svg', true );jQuery(document).trigger('gform_page_loaded', [2, current_page]);window['gf_submitting_2'] = false;}else if(!is_redirect){var confirmation_content = jQuery(this).contents().find('.GF_AJAX_POSTBACK').html();if(!confirmation_content){confirmation_content = contents;}jQuery('#gform_wrapper_2').replaceWith(confirmation_content);jQuery(document).trigger('gform_confirmation_loaded', [2]);window['gf_submitting_2'] = false;wp.a11y.speak(jQuery('#gform_confirmation_message_2').text());}else{jQuery('#gform_2').append(contents);if(window['gformRedirect']) {gformRedirect();}}jQuery(document).trigger("gform_pre_post_render", [{ formId: "2", currentPage: "current_page", abort: function() { this.preventDefault(); } }]);        if (event && event.defaultPrevented) {                return;        }        const gformWrapperDiv = document.getElementById( "gform_wrapper_2" );        if ( gformWrapperDiv ) {            const visibilitySpan = document.createElement( "span" );            visibilitySpan.id = "gform_visibility_test_2";            gformWrapperDiv.insertAdjacentElement( "afterend", visibilitySpan );        }        const visibilityTestDiv = document.getElementById( "gform_visibility_test_2" );        let postRenderFired = false;        function triggerPostRender() {            if ( postRenderFired ) {                return;            }            postRenderFired = true;            gform.core.triggerPostRenderEvents( 2, current_page );            if ( visibilityTestDiv ) {                visibilityTestDiv.parentNode.removeChild( visibilityTestDiv );            }        }        function debounce( func, wait, immediate ) {            var timeout;            return function() {                var context = this, args = arguments;                var later = function() {                    timeout = null;                    if ( !immediate ) func.apply( context, args );                };                var callNow = immediate && !timeout;                clearTimeout( timeout );                timeout = setTimeout( later, wait );                if ( callNow ) func.apply( context, args );            };        }        const debouncedTriggerPostRender = debounce( function() {            triggerPostRender();        }, 200 );        if ( visibilityTestDiv && visibilityTestDiv.offsetParent === null ) {            const observer = new MutationObserver( ( mutations ) => {                mutations.forEach( ( mutation ) => {                    if ( mutation.type === 'attributes' && visibilityTestDiv.offsetParent !== null ) {                        debouncedTriggerPostRender();                        observer.disconnect();                    }                });            });            observer.observe( document.body, {                attributes: true,                childList: false,                subtree: true,                attributeFilter: [ 'style', 'class' ],            });        } else {            triggerPostRender();        }    } );} ); 
+/* ]]> */
+</script>
+
+                  <p class="footer__tab-content__gdpr">
+                     By submitting this form I consent to receiving McConnell's newsletter, including invitations to webinars and events. You may withdraw your consent at any time.                   </p>
+                  <span class="tab-space"></span>
+               </div>
+            </div>
+         </div>
+         <!-- ========== land acknowledgement ============ -->
+         <div class="footer-text">
+            <div class="content">
+               The McConnell Foundation office sits on ancestral and unceded Indigenous territory, a place known as Tiohtiá:ke in Kanien’kéha and Mooniyang in Anishinaabemowin. We recognize that the Kanien'kehá:ka Nation are stewards of the lands and waters of this territory, which has long been a place where meetings and exchanges among nations have occurred. <a href="https://www.mcconnellfoundation.ca/about/land-acknowledgment/">Read the full length Land Acknowledgment</a>.            </div>
+         </div>
+   </div>
+   <!-- ========== copyright & links ============ -->
+   <div class="copyright">
+      <ul class="copyright__left">
+         <li>
+            <a href="https://www.mcconnellfoundation.ca/about/privacy/">
+               Privacy Policy            </a>
+         </li>
+         <li>
+            <a href="https://www.mcconnellfoundation.ca/about/accessibility/">
+               Accessibility Policy            </a>
+         </li>
+         <li>
+            <a href="https://www.mcconnellfoundation.ca/about/sitemap/">
+               Sitemap            </a>
+         </li>
+      </ul>
+      <div class="copyright__right">
+         <p>© 2026 McConnell Foundation. All rights reserved.</p>         <img data-src="https://www.mcconnellfoundation.ca/wp-content/themes/parkour3/img/placeholders/hub_footer.svg" class="hub lazyload" src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMSIgaGVpZ2h0PSIxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==" />
+      </div>
+   </div>
+</footer>
+
+<script>
+   const AJAX_URL = "https://www.mcconnellfoundation.ca/wp-admin/admin-ajax.php";
+   
+   // Local setup code
+   // $(function() {
+   //    if(window.location.href.includes('localhost') ) {
+   //       $('img[src^="/wp-content/uploads-old"]').each(function(){
+   //          $(this).attr('src', 'http://localhost/mcconnell-website/web' + $(this).attr('src'));
+   //       });
+   //    }
+   // });
+</script>
+
+<script type="speculationrules">
+{"prefetch":[{"source":"document","where":{"and":[{"href_matches":"/*"},{"not":{"href_matches":["/wp-*.php","/wp-admin/*","/wp-content/uploads/*","/wp-content/*","/wp-content/plugins/*","/wp-content/themes/parkour3/*","/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
+</script>
+<script type="text/javascript" id="pll_cookie_script-js-after">
+/* <![CDATA[ */
+(function() {
+				var expirationDate = new Date();
+				expirationDate.setTime( expirationDate.getTime() + 31536000 * 1000 );
+				document.cookie = "pll_language=en; expires=" + expirationDate.toUTCString() + "; path=/; secure; SameSite=Lax";
+			}());
+
+//# sourceURL=pll_cookie_script-js-after
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.mcconnellfoundation.ca/wp-content/themes/parkour3/dist/js/build.min.js?ver=6.9.1" id="global-js-js"></script>
+<script type="text/javascript" id="gforms_recaptcha_recaptcha-js-extra">
+/* <![CDATA[ */
+var gforms_recaptcha_recaptcha_strings = {"nonce":"8687f59713","disconnect":"Disconnecting","change_connection_type":"Resetting","spinner":"https://www.mcconnellfoundation.ca/wp-content/plugins/gravityforms/images/spinner.svg","connection_type":"classic","disable_badge":"","change_connection_type_title":"Change Connection Type","change_connection_type_message":"Changing the connection type will delete your current settings.  Do you want to proceed?","disconnect_title":"Disconnect","disconnect_message":"Disconnecting from reCAPTCHA will delete your current settings.  Do you want to proceed?","site_key":"6LcrD5MoAAAAAKDm6HmSJhYM_oCJn0sMzh8575o_"};
+//# sourceURL=gforms_recaptcha_recaptcha-js-extra
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.google.com/recaptcha/api.js?render=6LcrD5MoAAAAAKDm6HmSJhYM_oCJn0sMzh8575o_&amp;ver=2.1.0" id="gforms_recaptcha_recaptcha-js" defer="defer" data-wp-strategy="defer"></script>
+<script type="text/javascript" src="https://www.mcconnellfoundation.ca/wp-content/plugins/gravityformsrecaptcha/js/frontend.min.js?ver=2.1.0" id="gforms_recaptcha_frontend-js" defer="defer" data-wp-strategy="defer"></script>
+<script type="text/javascript" id="smush-lazy-load-js-before">
+/* <![CDATA[ */
+var smushLazyLoadOptions = {"autoResizingEnabled":false,"autoResizeOptions":{"precision":5,"skipAutoWidth":true}};
+//# sourceURL=smush-lazy-load-js-before
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.mcconnellfoundation.ca/wp-content/plugins/wp-smush-pro/app/assets/js/smush-lazy-load.min.js?ver=3.23.4" id="smush-lazy-load-js"></script>
+<script type="text/javascript" src="https://www.mcconnellfoundation.ca/wp-includes/js/dist/dom-ready.min.js?ver=f77871ff7694fffea381" id="wp-dom-ready-js"></script>
+<script type="text/javascript" src="https://www.mcconnellfoundation.ca/wp-includes/js/dist/hooks.min.js?ver=dd5603f07f9220ed27f1" id="wp-hooks-js"></script>
+<script type="text/javascript" src="https://www.mcconnellfoundation.ca/wp-includes/js/dist/i18n.min.js?ver=c26c3dc7bed366793375" id="wp-i18n-js"></script>
+<script type="text/javascript" id="wp-i18n-js-after">
+/* <![CDATA[ */
+wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
+//# sourceURL=wp-i18n-js-after
+/* ]]> */
+</script>
+<script type="text/javascript" id="wp-a11y-js-translations">
+/* <![CDATA[ */
+( function( domain, translations ) {
+	var localeData = translations.locale_data[ domain ] || translations.locale_data.messages;
+	localeData[""].domain = domain;
+	wp.i18n.setLocaleData( localeData, domain );
+} )( "default", {"translation-revision-date":"2025-11-20 20:46:18+0000","generator":"GlotPress\/4.0.3","domain":"messages","locale_data":{"messages":{"":{"domain":"messages","plural-forms":"nplurals=2; plural=n != 1;","lang":"en_CA"},"Notifications":["Notifications"]}},"comment":{"reference":"wp-includes\/js\/dist\/a11y.js"}} );
+//# sourceURL=wp-a11y-js-translations
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.mcconnellfoundation.ca/wp-includes/js/dist/a11y.min.js?ver=cb460b4676c94bd228ed" id="wp-a11y-js"></script>
+<script type="text/javascript" defer='defer' src="https://www.mcconnellfoundation.ca/wp-content/plugins/gravityforms/js/jquery.json.min.js?ver=2.9.27" id="gform_json-js"></script>
+<script type="text/javascript" id="gform_gravityforms-js-extra">
+/* <![CDATA[ */
+var gform_i18n = {"datepicker":{"days":{"monday":"Mo","tuesday":"Tu","wednesday":"We","thursday":"Th","friday":"Fr","saturday":"Sa","sunday":"Su"},"months":{"january":"January","february":"February","march":"March","april":"April","may":"May","june":"June","july":"July","august":"August","september":"September","october":"October","november":"November","december":"December"},"firstDay":0,"iconText":"Select date"}};
+var gf_legacy_multi = [];
+var gform_gravityforms = {"strings":{"invalid_file_extension":"This type of file is not allowed. Must be one of the following:","delete_file":"Delete this file","in_progress":"in progress","file_exceeds_limit":"File exceeds size limit","illegal_extension":"This type of file is not allowed.","max_reached":"Maximum number of files reached","unknown_error":"There was a problem while saving the file on the server","currently_uploading":"Please wait for the uploading to complete","cancel":"Cancel","cancel_upload":"Cancel this upload","cancelled":"Cancelled","error":"Error","message":"Message"},"vars":{"images_url":"https://www.mcconnellfoundation.ca/wp-content/plugins/gravityforms/images"}};
+var gf_global = {"gf_currency_config":{"name":"Canadian Dollar","symbol_left":"$","symbol_right":"CAD","symbol_padding":" ","thousand_separator":",","decimal_separator":".","decimals":2,"code":"CAD"},"base_url":"https://www.mcconnellfoundation.ca/wp-content/plugins/gravityforms","number_formats":[],"spinnerUrl":"https://www.mcconnellfoundation.ca/wp-content/plugins/gravityforms/images/spinner.svg","version_hash":"0287a2ac2599d4eff321bd97efbb8795","strings":{"newRowAdded":"New row added.","rowRemoved":"Row removed","formSaved":"The form has been saved.  The content contains the link to return and complete the form."}};
+//# sourceURL=gform_gravityforms-js-extra
+/* ]]> */
+</script>
+<script type="text/javascript" defer='defer' src="https://www.mcconnellfoundation.ca/wp-content/plugins/gravityforms/js/gravityforms.min.js?ver=2.9.27" id="gform_gravityforms-js"></script>
+<script type="text/javascript" defer='defer' src="https://www.mcconnellfoundation.ca/wp-content/plugins/gravityforms/js/placeholders.jquery.min.js?ver=2.9.27" id="gform_placeholder-js"></script>
+<script type="text/javascript" defer='defer' src="https://www.mcconnellfoundation.ca/wp-content/plugins/gravityforms/assets/js/dist/utils.min.js?ver=48a3755090e76a154853db28fc254681" id="gform_gravityforms_utils-js"></script>
+<script type="text/javascript" defer='defer' src="https://www.mcconnellfoundation.ca/wp-content/plugins/gravityforms/assets/js/dist/vendor-theme.min.js?ver=4f8b3915c1c1e1a6800825abd64b03cb" id="gform_gravityforms_theme_vendors-js"></script>
+<script type="text/javascript" id="gform_gravityforms_theme-js-extra">
+/* <![CDATA[ */
+var gform_theme_config = {"common":{"form":{"honeypot":{"version_hash":"0287a2ac2599d4eff321bd97efbb8795"},"ajax":{"ajaxurl":"https://www.mcconnellfoundation.ca/wp-admin/admin-ajax.php","ajax_submission_nonce":"6a8af26ba5","i18n":{"step_announcement":"Step %1$s of %2$s, %3$s","unknown_error":"There was an unknown error processing your request. Please try again."}}}},"hmr_dev":"","public_path":"https://www.mcconnellfoundation.ca/wp-content/plugins/gravityforms/assets/js/dist/","config_nonce":"3153ca8ba9"};
+//# sourceURL=gform_gravityforms_theme-js-extra
+/* ]]> */
+</script>
+<script type="text/javascript" defer='defer' src="https://www.mcconnellfoundation.ca/wp-content/plugins/gravityforms/assets/js/dist/scripts-theme.min.js?ver=0183eae4c8a5f424290fa0c1616e522c" id="gform_gravityforms_theme-js"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+ gform.initializeOnLoaded( function() { jQuery(document).on('gform_post_render', function(event, formId, currentPage){if(formId == 2) {if(typeof Placeholders != 'undefined'){
+                        Placeholders.enable();
+                    }} } );jQuery(document).on('gform_post_conditional_logic', function(event, formId, fields, isInit){} ) } ); 
+/* ]]> */
+</script>
+<script type="text/javascript">
+/* <![CDATA[ */
+ gform.initializeOnLoaded( function() {jQuery(document).trigger("gform_pre_post_render", [{ formId: "2", currentPage: "1", abort: function() { this.preventDefault(); } }]);        if (event && event.defaultPrevented) {                return;        }        const gformWrapperDiv = document.getElementById( "gform_wrapper_2" );        if ( gformWrapperDiv ) {            const visibilitySpan = document.createElement( "span" );            visibilitySpan.id = "gform_visibility_test_2";            gformWrapperDiv.insertAdjacentElement( "afterend", visibilitySpan );        }        const visibilityTestDiv = document.getElementById( "gform_visibility_test_2" );        let postRenderFired = false;        function triggerPostRender() {            if ( postRenderFired ) {                return;            }            postRenderFired = true;            gform.core.triggerPostRenderEvents( 2, 1 );            if ( visibilityTestDiv ) {                visibilityTestDiv.parentNode.removeChild( visibilityTestDiv );            }        }        function debounce( func, wait, immediate ) {            var timeout;            return function() {                var context = this, args = arguments;                var later = function() {                    timeout = null;                    if ( !immediate ) func.apply( context, args );                };                var callNow = immediate && !timeout;                clearTimeout( timeout );                timeout = setTimeout( later, wait );                if ( callNow ) func.apply( context, args );            };        }        const debouncedTriggerPostRender = debounce( function() {            triggerPostRender();        }, 200 );        if ( visibilityTestDiv && visibilityTestDiv.offsetParent === null ) {            const observer = new MutationObserver( ( mutations ) => {                mutations.forEach( ( mutation ) => {                    if ( mutation.type === 'attributes' && visibilityTestDiv.offsetParent !== null ) {                        debouncedTriggerPostRender();                        observer.disconnect();                    }                });            });            observer.observe( document.body, {                attributes: true,                childList: false,                subtree: true,                attributeFilter: [ 'style', 'class' ],            });        } else {            triggerPostRender();        }    } ); 
+/* ]]> */
+</script>
+
+</body>
+</html>
+
+
+<!-- Page cached by LiteSpeed Cache 7.7 on 2026-02-16 04:18:09 -->

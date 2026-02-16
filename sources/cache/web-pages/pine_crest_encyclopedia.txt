@@ -1,0 +1,556 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<title>YMCA Camp Pinecrest</title>
+	<meta name="Description" content="YMCA Camp Pine Crest, located at coord|44|59|N|79|33|W| was originally built as a Boys Overnight Camp in 1910 and is now a 28 cabin camp housing up to 234 campers plus staff as both boys and girls. The camp is geographically located on the strip&amp;#8230;" />
+	<!-- type: desktop C: ru  -->
+	<meta name="Keywords" content="YMCA Camp Pinecrest" />
+
+ 
+	<!--[if IE]>
+	<meta http-equiv="cleartype" content="on" />
+	<meta http-equiv="msthemecompatible" content="no"/>
+	<![endif]-->
+
+	<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1">
+
+	
+	<meta name="rating" content="mature" />
+    <meta http-equiv='x-dns-prefetch-control' content='on'>
+    <link rel="dns-prefetch" href="https://ajax.googleapis.com">
+    <link rel="dns-prefetch" href="https://www.googletagservices.com">
+    <link rel="dns-prefetch" href="https://www.google-analytics.com">
+    <link rel="dns-prefetch" href="https://pagead2.googlesyndication.com">
+    <link rel="dns-prefetch" href="https://ajax.googleapis.com">
+    <link rel="dns-prefetch" href="https://an.yandex.ru">
+    <link rel="dns-prefetch" href="https://mc.yandex.ru">
+
+    <link rel="preload" href="/images/Logo_en.png"   as="image" >
+    <link rel="preload" href="/images/Logo_h_en.png" as="image" >
+
+	<meta property="og:title" content="YMCA Camp Pinecrest" />
+	<meta property="og:type" content="article" />
+	<meta property="og:url" content="https://en-academic.com/dic.nsf/enwiki/3332273" />
+	<meta property="og:image" content="https://en-academic.com/images/Logo_social_en.png?3" />
+	<meta property="og:description" content="YMCA Camp Pine Crest, located at coord|44|59|N|79|33|W| was originally built as a Boys Overnight Camp in 1910 and is now a 28 cabin camp housing up to 234 campers plus staff as both boys and girls. The camp is geographically located on the strip&amp;#8230;" />
+	<meta property="og:site_name" content="Academic Dictionaries and Encyclopedias" />
+	<link rel="search" type="application/opensearchdescription+xml" title="Academic Dictionaries and Encyclopedias" href="//en-academic.com/dicsearch.xml" />
+	<meta name="ROBOTS" content="ALL" />
+	<link rel="next" href="https://en-academic.com/dic.nsf/enwiki/3332282" />
+	<link rel="prev" href="https://en-academic.com/dic.nsf/enwiki/3332270" />
+	<link rel="TOC" href="https://en-academic.com/contents.nsf/enwiki/" />
+	<link rel="index" href="https://en-academic.com/contents.nsf/enwiki/" />
+	<link rel="contents" href="https://en-academic.com/contents.nsf/enwiki/" />
+	<link rel="canonical" href="https://en-academic.com/dic.nsf/enwiki/3332273" />
+
+<!-- +++++ ab_flag=1 fa_flag=2 +++++ -->
+
+<!-- script async="async" src="https://www.googletagservices.com/tag/js/gpt.js"></script  -->
+<script async="async" src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+
+<script async type="text/javascript" src="//s.luxcdn.com/t/229742/360_light.js"></script>
+
+
+
+
+
+<style type="text/css">
+div.hidden,#sharemenu,div.autosuggest,#contextmenu,#ad_top,#ad_bottom,#ad_right,#ad_top2,#restrictions,#footer ul + div,#TerminsNavigationBar,#top-menu,#lang,#search-tabs,#search-box .translate-lang,#translate-arrow,#dic-query,#logo img.h,#t-direction-head,#langbar,.smm{display:none}p,ul{list-style-type:none;margin:0 0 15px}ul li{margin-bottom:6px}.content ul{list-style-type:disc}*{padding:0;margin:0}html,body{height:100%}body{padding:0;margin:0;color:#000;font:14px Helvetica,Arial,Tahoma,sans-serif;background:#fff;line-height:1.5em}a{color:#0d44a0;text-decoration:none}h1{font-size:24px;margin:0 0 18px}h2{font-size:20px;margin:0 0 14px}h3{font-size:16px;margin:0 0 10px}h1 a,h2 a{color:#454545!important}#page{margin:0 auto}#page{min-height:100%;position:relative;padding-top:105px}#page{width:720px;padding-right:330px}* html #page{height:100%}#header{position:relative;height:122px}#logo{float:left;margin-top:21px;width:125px}#logo a.img{width:90px;margin:0 0 0 16px}#logo a.img.logo-en{margin-left:13px}#logo a{display:block;font-size:12px;text-align:center;word-break:break-all}#site-title{padding-top:35px;margin:0 0 5px 135px}#site-title a{color:#000;font-size:18px;font-style:italic;display:block;font-weight:400}#search-box{margin-left:135px;border-top-right-radius:3px;border-bottom-right-radius:3px;padding:4px;position:relative;background:#abcf7e;min-height:33px}#search-box.dic{background:#896744}#search-box table{border-spacing:0;border-collapse:collapse;width:100%}#search-box table td{padding:0;vertical-align:middle}#search-box table td:first-child{padding-right:3px}#search-box table td:last-child{width:1px}#search-query,#dic-query,.translate-lang{padding:6px;font-size:16px;height:18px;border:1px solid #949494;width:100%;box-sizing:border-box;height:32px;float:none;margin:0;background:white;float:left;border-radius:0!important}#search-button{width:70px;height:32px;text-align:center;border:1px solid #7a8e69;border-radius:3px;background:#e0e0e0}#search-tabs{display:block;margin:0 15px 0 135px;padding:0;list-style-type:none}#search-tabs li{float:left;min-width:70px;max-width:140px;padding:0 15px;height:23px;line-height:23px;background:#bde693;text-align:center;margin-right:1px}#search-box.dic + #search-tabs li{background:#C9A784}#search-tabs li:last-child{border-bottom-right-radius:3px}#search-tabs li a{color:#353535;font-style:italic;font-size:12px;display:block;white-space:nowrap;text-overflow:ellipsis;overflow:hidden}#search-tabs li.active{height:22px;line-height:23px;position:relative;background:#abcf7e;border-bottom-left-radius:3px;border-bottom-right-radius:3px}#search-box.dic + #search-tabs li.active{background:#896744}#search-tabs li.active a{color:white}#content{clear:both;margin:30px 0;padding-left:15px}#content a{text-decoration:underline}#content .breadcrumb{margin-bottom:20px}#search_sublinks,#search_links{margin-bottom:8px;margin-left:-8px}#search_sublinks a,#search_links a{padding:3px 8px 1px;border-radius:2px}#search_sublinks a.active,#search_links a.active{color:#000 !important;background:#bde693;text-decoration:none!important}.term{color:saddlebrown}@media(max-width:767px){.hideForMobile{display:none}#header{height:auto}#page{padding:5px;width:auto}#logo{float:none;width:144px;text-align:left;margin:0;padding-top:5px}#logo a{height:44px;overflow:hidden;text-align:left}#logo img.h{display:initial;width:144px;height:44px}#logo img.v{display:none}#site-title{padding:0;margin:10px 0 5px}#search-box,#search-tabs{clear:both;margin:0;width:auto;padding:4px}#search-box.translate #search-query{width:100%;margin-bottom:4px}#search-box.translate #td-search{overflow:visible;display:table-cell}ul#search-tabs{white-space:nowrap;margin-top:5px;overflow-x:auto;overflow-y:hidden}ul#search-tabs li,ul#search-tabs li.active{background:none!important;box-shadow:none;min-width:0;padding:0 5px;float:none;display:inline-block}ul#search-tabs li a{border-bottom:1px dashed green;font-style:normal;color:green;font-size:16px}ul#search-tabs li.active a{color:black;border-bottom-color:white;font-weight:700}ul#search-tabs li a:hover,ul#search-tabs li.active a:hover{color:black}#content{margin:15px 0}.h250{height:280px;max-height:280px;overflow:hidden;margin:25px 0 25px 0}
+}</style>
+
+	<link rel="shortcut icon" href="https://en-academic.com/favicon.ico" type="image/x-icon" sizes="16x16" />
+	<link rel="shortcut icon" href="https://en-academic.com/images/icon.ico" type="image/x-icon" sizes="32x32" />
+    <link rel="shortcut icon" href="https://en-academic.com/images/icon.ico" type="image/x-icon" sizes="48x48" />
+    
+    <link rel="icon" type="image/png" sizes="16x16" href="/images/Logo_16x16_transparent.png" />
+    <link rel="icon" type="image/png" sizes="32x32" href="/images/Logo_32x32_transparent.png" />
+    <link rel="icon" type="image/png" sizes="48x48" href="/images/Logo_48x48_transparent.png" />
+    <link rel="icon" type="image/png" sizes="64x64" href="/images/Logo_64x64_transparent.png" />
+    <link rel="icon" type="image/png" sizes="128x128" href="/images/Logo_128x128_transparent.png" />
+
+    <link rel="apple-touch-icon" sizes="57x57"   href="/images/apple-touch-icon-57x57.png" />
+    <link rel="apple-touch-icon" sizes="60x60"   href="/images/apple-touch-icon-60x60.png" />
+    <link rel="apple-touch-icon" sizes="72x72"   href="/images/apple-touch-icon-72x72.png" />
+    <link rel="apple-touch-icon" sizes="76x76"   href="/images/apple-touch-icon-76x76.png" />
+    <link rel="apple-touch-icon" sizes="114x114" href="/images/apple-touch-icon-114x114.png" />
+    <link rel="apple-touch-icon" sizes="120x120" href="/images/apple-touch-icon-120x120.png" />
+  
+    <!-- link rel="mask-icon" href="/images/safari-pinned-tab.svg" color="#5bbad5" -->
+    <meta name="msapplication-TileColor" content="#00aba9" />
+    <meta name="msapplication-config" content="/images/browserconfig.xml" />
+    <meta name="theme-color" content="#ffffff" />
+
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="black /">
+
+
+<script type="text/javascript">
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-2754246-1', 'auto');
+  ga('require', 'displayfeatures');
+
+  ga('set', 'dimension1', 'Общая информация');
+  ga('set', 'dimension2', 'article');
+  ga('set', 'dimension3', '0');
+
+  ga('send', 'pageview');
+
+</script>
+
+
+<script type="text/javascript">
+	if(typeof(console) == 'undefined' ) console = {};
+	if(typeof(console.log) == 'undefined' ) console.log = function(){};
+	if(typeof(console.warn) == 'undefined' ) console.warn = function(){};
+	if(typeof(console.error) == 'undefined' ) console.error = function(){};
+	if(typeof(console.time) == 'undefined' ) console.time = function(){};
+	if(typeof(console.timeEnd) == 'undefined' ) console.timeEnd = function(){};
+	Academic = {};
+	Academic.sUserLanguage = 'en';
+	Academic.sDomainURL = 'https://en-academic.com/dic.nsf/enwiki/';
+	Academic.sMainDomainURL = '//dic.academic.ru/';
+	Academic.sTranslateDomainURL = '//translate.en-academic.com/';
+	Academic.deviceType = 'desktop';
+		Academic.sDictionaryId = 'enwiki';
+		Academic.Lang = {};
+	Academic.Lang.sTermNotFound = 'The term wasn\'t found'; 
+</script>
+
+
+<!--  Вариокуб -->
+<script type="text/javascript">
+    (function(e, x, pe, r, i, me, nt){
+    e[i]=e[i]||function(){(e[i].a=e[i].a||[]).push(arguments)},
+    me=x.createElement(pe),me.async=1,me.src=r,nt=x.getElementsByTagName(pe)[0],me.addEventListener("error",function(){function cb(t){t=t[t.length-1],"function"==typeof t&&t({flags:{}})};Array.isArray(e[i].a)&&e[i].a.forEach(cb);e[i]=function(){cb(arguments)}}),nt.parentNode.insertBefore(me,nt)})
+    (window, document, "script", "https://abt.s3.yandex.net/expjs/latest/exp.js", "ymab");
+
+    ymab("metrika.70309897", "init"/*, {clientFeatures}, {callback}*/);
+    ymab("metrika.70309897", "setConfig", {enableSetYmUid: true});
+</script>
+
+
+
+
+
+</head>
+<body>
+
+<div id="ad_top">
+<!-- top bnr -->
+<div class="banner" style="max-height: 90px; overflow: hidden; display: inline-block;">
+
+
+<div class="EAC_ATF_970"></div>
+
+</div> <!-- top banner  -->
+
+
+
+
+</div>
+	<div id="page"  >
+
+
+
+
+
+
+
+
+			<div id="header">
+				<div id="logo">
+					<a href="//en-academic.com">
+						<img src="//en-academic.com/images/Logo_en.png" class="v" alt="en-academic.com" width="88" height="68" />
+						<img src="//en-academic.com/images/Logo_h_en.png" class="h" alt="en-academic.com" width="144" height="44" />
+						<br />
+						en-academic.com					</a>
+				</div>
+					<ul id="top-menu">
+						<li id="lang">
+							<a href="#" class="link">EN</a>
+
+							<ul id="lang-menu">
+
+							<li><a href="//dic.academic.ru">RU</a></li>
+<li><a href="//de-academic.com">DE</a></li>
+<li><a href="//es-academic.com">ES</a></li>
+<li><a href="//fr-academic.com">FR</a></li>
+							</ul>
+						</li>
+						<!--li><a class="android" href="//dic.academic.ru/android.php">Android версия</a></li-->
+						<!--li><a class="apple" href="//dic.academic.ru/apple.php">iPhone/iPad версия</a></li-->
+						<li><a class="add-fav link" href="#" onClick="add_favorite(this);">Remember this site</a></li>
+						<li><a href="//partners.academic.ru/partner_proposal.php" target="_blank">Embed dictionaries into your website</a></li>
+						<!--li><a href="#">Forum</a></li-->
+					</ul>
+					<h2 id="site-title">
+						<a href="//en-academic.com">Academic Dictionaries and Encyclopedias</a>
+					</h2>
+
+					<div id="search-box">
+						<form action="/searchall.php" method="get" name="formSearch">
+
+<table><tr><td id="td-search">
+
+							<input type="text" name="SWord" id="search-query" required
+							value=""
+							title="Enter text to search in dictionaries and encyclopedias" placeholder="Enter text to search in dictionaries and encyclopedias"
+							autocomplete="off">
+
+
+<div class="translate-lang">
+	<select name="from" id="translateFrom">
+				<option value="xx">Все языки</option><option value="ru">Русский</option><option value="en" selected>Английский</option><option value="fr">Французский</option><option value="de">Немецкий</option><option value="es">Испанский</option><option disabled>────────</option><option value="gw">Alsatian</option><option value="al">Altaic</option><option value="ar">Arabic</option><option value="an">Aragonese</option><option value="hy">Armenian</option><option value="rp">Aromanian</option><option value="at">Asturian</option><option value="ay">Aymara</option><option value="az">Azerbaijani</option><option value="bb">Bagobo</option><option value="ba">Bashkir</option><option value="eu">Basque</option><option value="be">Belarusian</option><option value="bg">Bulgarian</option><option value="bu">Buryat</option><option value="ca">Catalan</option><option value="ce">Chechen</option><option value="ck">Cherokee</option><option value="cn">Cheyenne</option><option value="zh">Chinese</option><option value="cv">Chuvash</option><option value="ke">Circassian</option><option value="cr">Cree</option><option value="ct">Crimean Tatar language</option><option value="hr">Croatian</option><option value="cs">Czech</option><option value="da">Danish</option><option value="dl">Dolgan</option><option value="nl">Dutch</option><option value="mv">Erzya</option><option value="eo">Esperanto</option><option value="et">Estonian</option><option value="ev">Evenki</option><option value="fo">Faroese</option><option value="fi">Finnish</option><option value="ka">Georgian</option><option value="el">Greek</option><option value="gn">Guaraní</option><option value="ht">Haitian</option><option value="he">Hebrew</option><option value="hi">Hindi</option><option value="hs">Hornjoserbska</option><option value="hu">Hungarian</option><option value="is">Icelandic</option><option value="uu">Idioma urrumano</option><option value="id">Indonesian</option><option value="in">Ingush</option><option value="ik">Inupiaq</option><option value="ga">Irish</option><option value="it">Italian</option><option value="ja">Japanese</option><option value="kb">Kabyle</option><option value="kc">Karachay</option><option value="kk">Kazakh</option><option value="km">Khmer</option><option value="go">Klingon</option><option value="kv">Komi</option><option value="mm">Komi</option><option value="ko">Korean</option><option value="kp">Kumyk</option><option value="ku">Kurdish</option><option value="ky">Kyrgyz</option><option value="ld">Ladino</option><option value="la">Latin</option><option value="lv">Latvian</option><option value="ln">Lingala</option><option value="lt">Lithuanian</option><option value="jb">Lojban</option><option value="lb">Luxembourgish</option><option value="mk">Macedonian</option><option value="ms">Malay</option><option value="ma">Manchu</option><option value="mi">Māori</option><option value="mj">Mari</option><option value="mu">Maya</option><option value="mf">Moksha</option><option value="mn">Mongolian</option><option value="mc">Mycenaean</option><option value="nu">Nahuatl</option><option value="og">Nogai</option><option value="se">Northern Sami</option><option value="no">Norwegian</option><option value="cu">Old Church Slavonic</option><option value="pr">Old Russian</option><option value="oa">Orok</option><option value="os">Ossetian</option><option value="ot">Ottoman Turkish</option><option value="pi">Pāli</option><option value="pa">Panjabi</option><option value="pm">Papiamento</option><option value="fa">Persian</option><option value="pl">Polish</option><option value="pt">Portuguese</option><option value="qu">Quechua</option><option value="qy">Quenya</option><option value="ro">Romanian, Moldavian</option><option value="sa">Sanskrit</option><option value="gd">Scottish Gaelic</option><option value="sr">Serbian</option><option value="cj">Shor</option><option value="sz">Silesian</option><option value="sk">Slovak</option><option value="sl">Slovene</option><option value="sx">Sumerian</option><option value="sw">Swahili</option><option value="sv">Swedish</option><option value="tl">Tagalog</option><option value="tg">Tajik</option><option value="tt">Tatar</option><option value="th">Thai</option><option value="bo">Tibetan Standard</option><option value="tf">Tofalar</option><option value="tr">Turkish</option><option value="tk">Turkmen</option><option value="tv">Tuvan</option><option value="tw">Twi</option><option value="ud">Udmurt</option><option value="ug">Uighur</option><option value="uk">Ukrainian</option><option value="ur">Urdu</option><option value="uz">Uzbek</option><option value="vp">Veps</option><option value="vi">Vietnamese</option><option value="wr">Waray</option><option value="cy">Welsh</option><option value="sh">Yakut</option><option value="yi">Yiddish</option><option value="yo">Yoruba</option><option value="ya">Yupik</option>	</select>
+</div>
+<div id="translate-arrow"><a>&nbsp;</a></div>
+<div class="translate-lang">
+	<select name="to" id="translateOf">
+				<option value="xx" selected>Все языки</option><option value="ru">Русский</option><option value="en">Английский</option><option value="fr">Французский</option><option value="de">Немецкий</option><option value="es">Испанский</option><option disabled>────────</option><option value="af">Afrikaans</option><option value="sq">Albanian</option><option value="ar">Arabic</option><option value="hy">Armenian</option><option value="az">Azerbaijani</option><option value="eu">Basque</option><option value="bg">Bulgarian</option><option value="ca">Catalan</option><option value="ch">Chamorro</option><option value="ck">Cherokee</option><option value="zh">Chinese</option><option value="cv">Chuvash</option><option value="hr">Croatian</option><option value="cs">Czech</option><option value="da">Danish</option><option value="nl">Dutch</option><option value="mv">Erzya</option><option value="et">Estonian</option><option value="fo">Faroese</option><option value="fi">Finnish</option><option value="ka">Georgian</option><option value="el">Greek</option><option value="ht">Haitian</option><option value="he">Hebrew</option><option value="hi">Hindi</option><option value="hu">Hungarian</option><option value="is">Icelandic</option><option value="id">Indonesian</option><option value="ga">Irish</option><option value="it">Italian</option><option value="ja">Japanese</option><option value="kk">Kazakh</option><option value="go">Klingon</option><option value="ko">Korean</option><option value="ku">Kurdish</option><option value="la">Latin</option><option value="lv">Latvian</option><option value="lt">Lithuanian</option><option value="mk">Macedonian</option><option value="ms">Malay</option><option value="mt">Maltese</option><option value="mi">Māori</option><option value="mj">Mari</option><option value="mf">Moksha</option><option value="mn">Mongolian</option><option value="no">Norwegian</option><option value="cu">Old Church Slavonic</option><option value="pr">Old Russian</option><option value="pi">Pāli</option><option value="pm">Papiamento</option><option value="fa">Persian</option><option value="pl">Polish</option><option value="pt">Portuguese</option><option value="qy">Quenya</option><option value="ro">Romanian, Moldavian</option><option value="sr">Serbian</option><option value="sk">Slovak</option><option value="sl">Slovene</option><option value="sw">Swahili</option><option value="sv">Swedish</option><option value="tl">Tagalog</option><option value="ta">Tamil</option><option value="tt">Tatar</option><option value="th">Thai</option><option value="tr">Turkish</option><option value="ud">Udmurt</option><option value="ug">Uighur</option><option value="uk">Ukrainian</option><option value="ur">Urdu</option><option value="vi">Vietnamese</option><option value="yo">Yoruba</option>	</select>
+</div>
+<input type="hidden" name="did" id="did-field" value="enwiki" />
+<input type="hidden" id="search-type" name="stype" value="" />
+
+</td><td>
+
+							<button id="search-button">Search!</button>
+
+</td></tr></table>
+
+						</form>
+
+						<input type="text" name="dic_query" id="dic-query"
+						title="interactive contents" placeholder="interactive contents"
+						autocomplete="off" >
+
+
+					</div>
+				  <ul id="search-tabs">
+    <li data-search-type="-1" id="thisdic" ><a href="#" onclick="return false;">Wikipedia</a></li>
+    <li data-search-type="0" id="interpretations" class="active"><a href="#" onclick="return false;">Interpretations</a></li>
+  </ul>
+				</div>
+
+	
+<div id="ad_top2"></div>	
+			<div id="content">
+
+  
+  				<div itemscope itemtype="http://data-vocabulary.org/Breadcrumb" style="clear: both;">
+  				<h2 class="breadcrumb"><a href="/contents.nsf/enwiki/" itemprop="url"><span itemprop="title">Wikipedia</span></a>
+  				</h2>
+  				</div>
+  				<div class="content" id="selectable-content">
+  					<div class="title" id="TerminTitle"> <!-- ID нужен для того, чтобы спозиционировать Pluso -->
+  						<h1>YMCA Camp Pinecrest</h1>
+  
+  </div><div id="search_links">  					</div>
+  
+  <ul class="smm">
+  <li class="vk"><a onClick="share('vk'); return false;" href="#"></a></li>
+  <li class="ok"><a onClick="share('ok'); return false;" href="#"></a></li>
+  <li class="fb"><a onClick="share('fb'); return false;" href="#"></a></li>
+  <li class="tw"><a onClick="share('tw'); return false;" href="#"></a></li>
+  <li class="gplus"><a onClick="share('g+'); return false;" href="#"></a></li>
+  <li class="mailru"><a onClick="share('mail.ru'); return false;" href="#"></a></li>
+  <li class="lj"><a onClick="share('lj'); return false;" href="#"></a></li>
+  <li class="li"><a onClick="share('li'); return false;" href="#"></a></li>
+</ul>
+<div id="article"><dl>
+<div itemscope itemtype="http://webmaster.yandex.ru/vocabularies/enc-article.xml">
+
+               <dt itemprop="title" class="term" lang="en">YMCA Camp Pinecrest</dt>
+
+               <dd itemprop="content" class="descript" lang="en"><p>YMCA Camp Pine Crest, located at <small>coord|44|59|N|79|33|W|</small> was originally built as a Boys' Overnight Camp in 1910 and is now a 28-cabin camp housing up to 234 campers plus staff as both boys and girls. The camp is geographically located on the strip of land between Clear Lake and Gullwing Lake in <r>Torrance, Ontario</r><p><strong> Cabins </strong><p>The camp currently has 28 cabins of which 12 house boys and are named for birds, 12 house girls and are named for mammals, and 4 are in "Leader-Land" for leadership participants and are named after rodents. The girls cabins are geographically located along the coast of Fralock Bay and Bantam Bay. The boys cabins are geographically located south of First Point on Clear Lake. <p>As a part of Campaign 2010, you can buy one of the new cabins scheduled to be rebuilt for $25,000.<p>* Boys Cabins<br>** Flickers (Traditionally Bantam)<br>** Kingfishers (Traditionally Bantam or Junior)<br>** Hawks (Traditionally Juniors)<br>** Jays (Traditionally Juniors)<br>** Loons (Traditionally Juniors or Seniors)<br>** Swifts (Traditionally Seniors)<br>** Ravens (Traditionally Seniors)<br>** Falcons (Traditionally Seniors or Pioneers)<br>** Eagles (Traditionally Pioneers)<br>** Cardinals (Traditionally Pioneers or 4-Weekers)<br>** Divers (Traditionally Pioneers or 4-Weekers)<br>** Thrashers (Usually Leadership)<br>* Girls Cabins<br>** Wildcats<br>** Wolves<br>** Seals<br>** Raccoons<br>** Weasels<br>** Muskies<br>** Cougars<br>** Foxes<br>** Grizzlies<br>** Caribou<br>** Beavers<br>** Bears<br>* Leaderland<br>** Squirrels<br>** Otters<br>** Gophers<br>** The Lodge<br>** Chipmunks<br>* Staff Cabins<br>** Fillmore<br>** Junior-Senior Lodge<br>** Cooks 1<br>** Cooks 2<br>** Sid's Place<br>** Director's Cabin<br>** Lakeside<br>** The Annex<br>** Birch Cove<br>** The Holy Smoke<p>Previously, the cabins in leader-land were reserved for the youngest "bantam" campers and included two others: the Huskies and The Whiskey-Jacks. Juniors lived in what is now the boys section, seniors in the girls section and the pioneers lived in tent-platforms at Pio-Point on the opposite side of the bay<p><strong> Facilities </strong><p>* 28 Cabins<br>* Kekindewin, a 350-person dining hall built on top of a hill named Kedindewin, meaning "a promise to gather again" in the language of the Ojibway<br>* Rec Hall, a 150 person facility for games and activities.<br>* ELC, (Environmental Learning Centre) a small cabin on Gullwing Lake--Originally called Studio 54, later it became the Outdoor Pursuits (OP) building and in the summer of 2006 it became ELC (as OP needed more space)<br>* OP/Winterlodge (formerly ELC but in 2006 became OP)<br>* 4 swimming areas on Clear Lake. Fraloch, Filmore, First Point and the main swimming area: the main swimming area has 3 roped off sections (A, B, C) which contain a raft and jumping tower (now closed due to depth regulations). Former staff member David Whitehead once jumped off the tower over 150 times in one day while still performing his staff duties, a record that has yet to be challenged. At one time there was a smaller swim area that was called "Bantam Bay". Bantam Bay had a small water slide that was fun to look at, but alas was no fun to slide down.<br>* Centennial Lodge, a small lodge that was moved to its current location to celebrate the Canada's centennial in 1967. Centennial Lodge was previously a church, and is the oldest building on camp. <br>*Junior/Senior Lodge, home to some of the most memorable and influential staff members, regulators of Spanish exchange campers and overseers of good taste.<p><strong>Trails</strong><p>Pinecrest has many trails, both inside the camp and on the back lakes.<p>* Boys Side Trail<br>* Pio Trail<br>* Lakeside Ropes Course Trail<br>* Outtripping Trail<br>* Bog Trail<br>* Beaver Pond Trail<br>* Girls Side Trail<br>* Sugar Maple Trail<br>* Whale Board Trail<br>* Gas Pipe Trail<br>* Kekindewin-ELC Trail<br>* OP-ELC Trail<br>* Centennial Trail<br>* Kekindewin Trails<p><strong> Activities </strong><p>Pinecrest has a number of activities including:<p>* Swimming<br>* Archery<br>* Ropes Courses<br>* Canoeing<br>* Kayaking<br>* Boogie Boarding<br>* ELC (Environmental Learning Centre)<br>* Snorkelling<br>* Ropes<br>* OLS (Outdoor Living Skills)<br>* NAC (Natural Arts Centre)<br>* Gaga Ball (A dodgeball like game played in a circle of benches, a simple game but a camp favourite)<br>* X Gag (A faster version of Gaga Ball, with a more aggressive and EXTREME set of rules) Created by the Miles and the L2 boys summer 2001, yet perfected by the kitchen staff and relatively few male Junior Counsellors not affiliated with them in the Red Pine invasion. <p>The PineCrest Games are a 2 day annual activity that has taken place since 1940. The whole camp is divided into two teams (Voyageurs and Lumbermen) and is judged by the O-Team (officials) and the RICs (Referees in Chief). RICS chose two team leaders who are felt to be the most deserving of the honour by being in integral part of the camp and well known by both campers and staff. It is considered to be one of the biggest honours of the summer. These people will return as RICs in summers to follow.<p>PineCrest Games Leaders have included:<br /><p><strong>Disasters</strong><p><strong>1979 Snowstorm</strong><p>In 1979, a snowstorm collapsed the roof of the camp's dining hall at the time. A new dining hall was rebuilt and placed on the hill where Kekindewin now stands. The current dining hall, Kekindewin was built for the summer of 1995.<p><strong>1987 Tornado/Thunderstorm</strong><p>On August 2nd, 1987 campers and staff were forced to shelter overnight in the dining hall after the storm felled trees and downed power lines across the camp property. A tornado toppled massive pines, trashed a fleet of cedar canoes, and left one boy seriously injured from a lightning strike. It also lifted the Eagles cabin off of its supports. The half of a tree at First Point was a result of this storm.<p><strong>2006 Tornado/Thunderstorm</strong><p>On <r>2006</r> <r>August 3</r>, a severe thunderstorm was occurring at Pinecrest and an F2 tornado tore through the boys section of the camp during Family Camp. In addition, lighting struck many parts of the camp causing extensive damage. One of the teepees had also fallen down as a result of the tornado. A session of the camp, session C was canceled for the most part, with 4 week and leadership groups, as well as select 2 week campers relocating to YMCA Cedar Glen in <A HREF="747672">Nobleton, ON</a> until 2006 <r>August 13</r>. As of Summer 2007, repairing has been near completion.<p><strong> History </strong><p>A Brief History of YMCA Camp PineCrestBefore 1909 - The Broadview Boys' Institute, under Mr. C.J Atkinson, had conducted boys camps for some years at Niagara-On-The-lake, Port Dalhousie, Cobourg, Oakville, Geneva Park, Lake Couchiching, and other places.<p>1909 - Mr. Atkinson (his is the picture now hanging in Centennial Lodge) and an old friend named D.B Hana, then general manager of the CNR, investigated a site for a boys' camp on Clear Lake at Torrance, approximately 160 kilometers north of Toronto.<p>1910 - The first boys' camp on Clear Lake, consisting of approximately 50 campers, was conducted with Mr. Atkinson as director and E.E Otter as his assistant. The site was set up on an old clearing on the south side of the lake, roughly opposite the present site. The entry was from Torrance through the bush and over the rocks by team and wagon. The site proved unsatisfactory. Another was located at the northeast end of the lake, on a portion of the Willison farm property. A site of 40 acres was purchased for $1000. The Broadview Boys' Institute became affiliated with the YMCA. Mr. Atkinson was appointed the first executive secretary and Mr. Otter the first boys' work secretary of the Broadview Branch YMCA.<p>1911 - E.E Otter opened the first camp on the present site. A group of 16 Broadview YMCA scouts, a carpenter, and a cook were the advance party. The supplies and equipment were taken in by a scout trek-cart; the party cleared the brush and set up tents on what is now first point. The carpenter began to construct a boathouse in the cove. The erection of the boathouse and a platform for a dining pavilion were proceeded with. One of the conditions for attendance at the camp was that each boy should give a half-hour of his time daily to working on the construction projects - felling trees, clearing brush, and other construction work. The plan worked very well. Many boys became intensely interested and did much more work then their quota required.<p>1915-1919 - Somewhere in this period PineCrest became affiliated with the Toronto YMCA.<p>1920 - Bridgitte the YICS moves in under the NAC.<p>Camp PineCrest operated on the 40 acre site bordering Clear Lake until 1945, when adjoining portions of the property belonging to the Willison homestead were purchased by the YMCA. The Willisons had previously run Camp Freelawn in what is now know as Fraloch Bay. In 1947 a piece of property which is the present site of the director's cabin was purchased from Rev. N. Willison. This purchase was paid for out of the camp's operating budget, and was the last major addition to the PineCrest site. As a result of these expansions, PineCrest now owns a mile of uninterrupted shoreline on Clear Lake, and another three uninterrupted miles on the adjacent Gullwing and Echo Lakes. The camp property amounts to almost 650 acres.<p>The Rec Hall was originally built in the early years of camp to serve as a recreation hall and boat house. When the first dining hall burned down in the 20's, this building became the dining hall and remained that way until a new dining hall was built in 1954.<p>Centennial Lodge was originally a log church, constructed by Scandinavian lumbermen near Segwun Falls. The logs were purchased for $500 and the building reconstructed on PineCrest land. The project began in 1964 and was completed around 1967 (Canada's Centennial year).<p>Lakeside was erected in 1948 to serve as a craft shop. Later it became the infirmary and it is now a staff cabin.<p>Birch Cove was originally used as sleeping quarters for the nursing staff, later it was used as the guides' cabin. It is now a staff cabin.<p>The Director's cabin was built in 1955 when the original farmhouse burnt down. The farmhouse had been used for winter programs.<p>During the 1950's and early 60's the camp undertook a massive rebuilding program. Most of the cabins on camp were constructed in this era.<p>During the 60's and 70's, the camp operated programs year-round; most weekends through the year saw programs operating on the site. The Winter Lodge was used to accommodate guests for winter weekend programs which included activities such as cross-country skiing on various trails throughout the property, downhill skiing in the area behind ELC (there is still a Volkswagen in a shed on top of the hill, that was used to power the tow rope), tobogganing, snowshoeing, and skating on Clear Lake.<p>In 1980 Camp PineCrest became co-ed. The cabins in the old senior section were renovated and now serve as the girls' section of camp.<p>The old dining hall was torn down in 1995 along with camper cabins Whiskeyjacks and Huskies and replaced by Kekindewin. The old Winter Lodge was renovated to serve as a modern Environmental Learning Centre. The Adventure course and other high and low ropes elements were added in 1996.<p>The Wellness Centre building was renovated to serve as the Natural Arts Centre in 1998-99.<p>The Rec Hall received significant foundation repairs and a needed "facelift" in 2000.<p>A building housing a new water filtration system was constructed in the spring of 2002.<p>Construction projects for the 2010 capital campaign begin in the spring of 2008. The Squirrels cabin is renovated as a pilot project for the rest of the cabins. Studio 54 (formerly the Outtripping centre) is torn down and construction begins on the new OP, to be completed for 2009. Construction also begins on a new Girls' washroom facility in a style similar to the Boys' section washrooms.</dd>
+
+               <br />
+
+               <p id="TerminSourceInfo" class="src">
+
+               <em><span itemprop="source">Wikimedia Foundation</span>.
+   <span itemprop="source-date">2010</span>.</em>
+ </p>
+</div>
+</dl>
+</div>
+
+<div style="padding:5px 0px;"> <a href="https://games.academic.ru" style="color: green; font-size: 16px; margin-right:10px"><b>Игры ⚽</b></a> <b><a title='онлайн-сервис помощи студентам' href='https://homework.academic.ru/?type_id=11'>Нужна курсовая?</a></b></div>
+
+  <div id="socialBar_h"></div>
+  					<ul class="post-nav" id="TerminsNavigationBar">
+						<li class="prev"><a href="https://en-academic.com/dic.nsf/enwiki/3332270" title="Don&#039;t Tread on Me">Don't Tread on Me</a></li>
+						<li class="next"><a href="https://en-academic.com/dic.nsf/enwiki/3332282" title="Pere Marsili">Pere Marsili</a></li>
+					</ul>
+  
+  					<div class="other-info">
+  						<div class="holder">
+							<h3 class="dictionary">Look at other dictionaries:</h3>
+							<ul class="terms-list">
+<li><p><strong><a href="//en-academic.com/dic.nsf/enwiki/5103229">Craig Cardiff</a></strong> — Blacksheep Inn Performance. 5 Dec 2008 Background information Birth name Craig Cardiff Born … &nbsp; <span class="src2">Wikipedia</span></p></li>
+							</ul>
+						</div>
+	</div>
+					</div>
+
+
+
+			</div>
+  
+<div id="ad_bottom">
+
+</div>
+
+	<div id="footer">
+		<div id="liveinternet">
+            <!--LiveInternet counter--><a href="https://www.liveinternet.ru/click;academic"
+            target="_blank"><img id="licntC2FD" width="31" height="31" style="border:0" 
+            title="LiveInternet"
+            src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAEALAAAAAABAAEAAAIBTAA7"
+            alt=""/></a><script>(function(d,s){d.getElementById("licntC2FD").src=
+            "https://counter.yadro.ru/hit;academic?t44.6;r"+escape(d.referrer)+
+            ((typeof(s)=="undefined")?"":";s"+s.width+"*"+s.height+"*"+
+            (s.colorDepth?s.colorDepth:s.pixelDepth))+";u"+escape(d.URL)+
+            ";h"+escape(d.title.substring(0,150))+";"+Math.random()})
+            (document,screen)</script><!--/LiveInternet-->
+		</div>
+
+
+      <div id="restrictions">18+</div>
+
+
+				&copy; Academic, 2000-2026
+<ul>
+			<li>
+				Contact us:
+				<a id="m_s" href="#">Technical Support</a>,
+				<a id="m_a" href="#">Advertising</a>
+			</li>
+</ul>
+<div>
+
+
+			<a href="//partners.academic.ru/partner_proposal.php">Dictionaries export</a>, created on PHP, <div class="img joom"></div> Joomla, <div class="img drp"></div> Drupal, <div class="img wp"></div> WordPress, MODx.
+</div>
+
+	</div>
+
+
+		<div id="contextmenu">
+		<ul id="context-actions">
+		  <li><a data-in="masha">Mark and share</a></li>
+		  <li class="separator"></li>
+		  <!--li><a data-in="dic">Look up in the dictionary</a></li-->
+		  <!--li><a data-in="synonyms">Browse synonyms</a></li-->
+		  <li><a data-in="academic">Search through all dictionaries</a></li>
+		  <li><a data-in="translate">Translate…</a></li>
+		  <li><a data-in="internet">Search Internet</a></li>
+		  <!--li><a data-in="category">Search in the same category</a></li-->
+		</ul>
+		<ul id="context-suggestions">
+		</ul>
+		</div>
+
+		<div id="sharemenu" style="top: 1075px; left: 240px;">
+			<h3>Share the article and excerpts</h3>
+			<ul class="smm">
+  <li class="vk"><a onClick="share('vk'); return false;" href="#"></a></li>
+  <li class="ok"><a onClick="share('ok'); return false;" href="#"></a></li>
+  <li class="fb"><a onClick="share('fb'); return false;" href="#"></a></li>
+  <li class="tw"><a onClick="share('tw'); return false;" href="#"></a></li>
+  <li class="gplus"><a onClick="share('g+'); return false;" href="#"></a></li>
+  <li class="mailru"><a onClick="share('mail.ru'); return false;" href="#"></a></li>
+  <li class="lj"><a onClick="share('lj'); return false;" href="#"></a></li>
+  <li class="li"><a onClick="share('li'); return false;" href="#"></a></li>
+</ul>
+			<div id="share-basement">
+				<h5>Direct link</h5>
+				<a href="" id="share-directlink">
+					…
+				</a>
+				<small>
+					Do a right-click on the link above<br/>and select “Copy&nbsp;Link”				</small>
+			</div>
+		</div>
+
+	
+
+	<script async src="/js/academic.min.js?150324" type="text/javascript"></script>
+
+
+
+<div id="ad_right">
+<div class="banner">
+  <div class="EAC_ATFR_300n"></div>
+</div>
+<div class="banner sticky">
+  <div class="EAC_MIDR_300c"></div>
+</div>
+
+</div>
+
+
+</div>
+
+
+<!-- /59581491/bottom -->
+<div id='div-gpt-ad-bottom'>
+<script>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-bottom'); });
+</script>
+</div>
+<div id='div-gpt-ad-4fullscreen'>
+</div>
+
+
+<br/><br/><br/><br/>
+
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript" >
+   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+   (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+   ym(70309897, "init", {
+        clickmap:false,
+        trackLinks:true,
+        accurateTrackBounce:false
+   });
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/70309897" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+
+
+<!-- Begin comScore Tag -->
+<script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "23600742" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script>
+<noscript>
+  <img src="//b.scorecardresearch.com/p?c1=2&c2=23600742&cv=2.0&cj=1" />
+</noscript>
+<!-- End comScore Tag -->
+
+
+                <div class="dc-catfish-container desktop">
+                  <div id="adfox_172794692683231701"></div>
+                  <script>
+                    window.yaContextCb.push(() => {
+                        Ya.adfoxCode.createAdaptive(
+                            {
+                                ownerId: 332443,
+                                containerId: "adfox_172794692683231701",
+                                params: {
+                			p1: 'dehfd',
+                			p2: 'heyb'
+                                },
+                                onRender: function (event) {
+                                    console.log("onRender", event);
+                                    dcMakeCatfish("adfox_172794692683231701");
+                                },
+                                onLoad: function (event) {
+                                    console.log("onLoad", event);
+                                },
+                                onStub: function (event) {
+                                    console.log("onStub", event);
+                                },
+                                onError: function (event) {
+                                    console.log("onError", event);
+                                },
+                            },
+                            ["desktop"],
+                            {
+                                tabletWidth: 830,
+                                phoneWidth: 480,
+                                isAutoReloads: false,
+                            }
+                        );
+                    });
+                </script>
+<script>
+setInterval(function(){            
+window.Ya.adfoxCode.reload('adfox_172794692683231701', {onlyIfWasVisible: true})
+}, 30000);
+</script>
+
+                </div>  
+
+
+
+<div id="yandex_rtb_R-A-680335-21"></div> <!--  РСЯ лента  -->
+<script>
+//  Observer                                 
+const feed = document.getElementById('yandex_rtb_R-A-680335-21'); 
+    const callback = (entries) => {
+            entries.forEach((entry) => {
+                    if (entry.isIntersecting) {
+                            Ya.Context.AdvManager.destroy({
+                                            blockId:  'R-A-680335-18' 
+                                    }) 
+                    }
+            });
+    };
+    const observer = new IntersectionObserver(callback, {
+            threshold: 0
+    });
+    observer.observe(feed);
+</script>
+
+
+
+<!-- Full screen -->
+
+<!-- In-image -->
+
+<!-- Yandex.RTB R-A-680335-23 -->
+<script>
+window.addEventListener("load", () => {
+    const render = (imageId) => {
+        window.yaContextCb.push(() => {
+            Ya.Context.AdvManager.render({
+                "renderTo": imageId,
+                "blockId": "R-A-680335-23",
+                "type": "inImage"
+            })
+        })
+    }
+    const renderInImage = (images) => {
+        if (!images.length) {
+            return
+        }
+        const image = images.shift()
+        image.id = `yandex_rtb_R-A-680335-23-${Math.random().toString(16).slice(2)}`
+        if (image.tagName === "IMG" && !image.complete) {
+            image.addEventListener("load", () => {
+                render(image.id)
+            }, { once: true })
+        } else {
+            render(image.id)
+        }
+        renderInImage(images)
+    }
+    renderInImage(Array.from(document.querySelectorAll("img")))
+}, { once: true })
+</script>
+
+
+<br><br><br><br><br>
+<br><br><br><br><br>
+</body>
+  <link rel="stylesheet" href="/css/academic_v2.css?20210501a" type="text/css" />
+  <link rel="stylesheet" href="/css/mobile-menu.css?20190810" type="text/css" />
+
+    
+
+</html>
+

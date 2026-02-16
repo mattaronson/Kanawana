@@ -1,0 +1,507 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8" />
+<meta name="Generator" content="Drupal 9 (https://www.drupal.org)" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+<style>div#sliding-popup, div#sliding-popup .eu-cookie-withdraw-banner, .eu-cookie-withdraw-tab {background: #990203} div#sliding-popup.eu-cookie-withdraw-wrapper { background: transparent; } #sliding-popup h1, #sliding-popup h2, #sliding-popup h3, #sliding-popup p, #sliding-popup label, #sliding-popup div, .eu-cookie-compliance-more-button, .eu-cookie-compliance-secondary-button, .eu-cookie-withdraw-tab { color: #ffffff;} .eu-cookie-withdraw-tab { border-color: #ffffff;}</style>
+<meta http-equiv="x-ua-compatible" content="ie=edge" />
+<link rel="icon" href="/themes/custom/qahn_barrio/favicon.ico" type="image/vnd.microsoft.icon" />
+<link rel="alternate" hreflang="en" href="https://qahn.org/article/ymca-camp-saint-adolphe-dhoward" />
+<link rel="canonical" href="https://qahn.org/article/ymca-camp-saint-adolphe-dhoward" />
+<link rel="shortlink" href="https://qahn.org/node/3764" />
+<script src="/sites/default/files/eu_cookie_compliance/eu_cookie_compliance.script.js?t8vw9q" defer></script>
+
+    <title>The YMCA Camp of Saint-Adolphe d&#039;Howard | QAHN</title>
+    <link rel="stylesheet" media="all" href="/sites/default/files/css/css_PM5CyLuxNrZxytxQB2TlaFo2eNuPKLYRmONQLEnVrVg.css" />
+<link rel="stylesheet" media="all" href="/sites/default/files/css/css_gL-lcyKD3m7iZ5YP__xQ63jRBXoOy0MOgpn22RtXuXs.css" />
+<link rel="stylesheet" media="all" href="//stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" />
+<link rel="stylesheet" media="all" href="/sites/default/files/css/css_PjIM7tvnhIt1MmkTXvEru4SQngP2SWSMtuPD31qJFOw.css" />
+<link rel="stylesheet" media="print" href="/sites/default/files/css/css_Y4H_4BqmgyCtG7E7YdseTs2qvy9C34c51kBamDdgark.css" />
+
+    <script src="https://use.fontawesome.com/releases/v5.13.1/js/all.js" defer crossorigin="anonymous"></script>
+
+  </head>
+  <body class="layout-no-sidebars page-node-3764 path-node node--type-article">
+    <a href="#main-content" class="visually-hidden focusable skip-link">
+      Skip to main content
+    </a>
+    
+      <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+    <div id="page-wrapper">
+  <div id="page">
+    <header id="header" class="header" role="banner" aria-label="Site header">
+              <div class="container">
+          <div class="">
+                          <nav class="navbar" id="navbar-top">
+                                  <div class="container">
+                                      
+                      <section class="row region region-top-header">
+          <a href="/" title="Home" rel="home" class="navbar-brand">
+              <img src="/themes/custom/qahn-header.gif" alt="Home" class="img-fluid d-inline-block" />
+          </a>
+    
+  </section>
+
+                                                        </div>
+                              </nav>
+                        <nav class="navbar navbar-expand-lg" id="navbar-main">
+                              <div class="container">
+                                  
+                                      <button class="navbar-toggler navbar-toggler-right collapsed" type="button" data-toggle="collapse" data-target="#CollapsingNavbar" aria-controls="CollapsingNavbar" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
+                    <div class="collapse navbar-collapse justify-content-center col-12" id="CollapsingNavbar">
+                      <button type="button" data-toggle="collapse" data-target="#CollapsingNavbar" class="close d-block d-lg-none" aria-controls="CollapsingNavbar" aria-expanded="true" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                        <nav role="navigation" aria-labelledby="block-qahn-barrio-main-navigation-menu" id="block-qahn-barrio-main-navigation" class="block block-menu navigation menu--main">
+            
+  <h2 class="sr-only" id="block-qahn-barrio-main-navigation-menu">Main navigation</h2>
+  
+
+        
+              <ul block="block-qahn-barrio-main-navigation" class="clearfix nav navbar-nav">
+                    <li class="nav-item">
+                          <a href="/" class="nav-link nav-link--" data-drupal-link-system-path="&lt;front&gt;">Home</a>
+              </li>
+                <li class="nav-item menu-item--expanded dropdown">
+                          <span class="nav-link dropdown-toggle nav-link-" data-toggle="dropdown" aria-expanded="false" aria-haspopup="true">About</span>
+                        <ul class="dropdown-menu">
+                    <li class="dropdown-item">
+                          <a href="/past-projects" class="nav-link--past-projects" data-drupal-link-system-path="node/3257">QAHN History</a>
+              </li>
+                <li class="dropdown-item">
+                          <a href="/join-qahn" class="nav-link--join-qahn" data-drupal-link-system-path="node/442836">Join QAHN</a>
+              </li>
+                <li class="dropdown-item menu-item--expanded dropdown">
+                          <a href="/volunteer-recognition" class="dropdown-toggle nav-link--volunteer-recognition" data-toggle="dropdown" aria-expanded="false" aria-haspopup="true" data-drupal-link-system-path="node/3258">Volunteer Recognition</a>
+                        <ul class="dropdown-menu">
+                    <li class="dropdown-item">
+                          <a href="/marion-phelps-award" class="nav-link--marion-phelps-award" data-drupal-link-system-path="node/3273">Marion Phelps Award</a>
+              </li>
+                <li class="dropdown-item">
+                          <a href="/richard-evans-award" class="nav-link--richard-evans-award" data-drupal-link-system-path="node/3274">Richard Evans Award</a>
+              </li>
+                <li class="dropdown-item">
+                          <a href="/young-volunteer-award" class="nav-link--young-volunteer-award" data-drupal-link-system-path="node/443154">Young Volunteer Award</a>
+              </li>
+                <li class="dropdown-item">
+                          <a href="/past-award-recipients" class="nav-link--past-award-recipients" data-drupal-link-system-path="past-award-recipients">Past Recipients / Other Awards</a>
+              </li>
+        </ul>
+  
+              </li>
+                <li class="dropdown-item">
+                          <a href="/mission" class="nav-link--mission" data-drupal-link-system-path="node/3260">Mission</a>
+              </li>
+                <li class="dropdown-item">
+                          <a href="/reports-and-proceedings" class="nav-link--reports-and-proceedings" data-drupal-link-system-path="node/3340">Briefs, Reports &amp; Proceedings</a>
+              </li>
+                <li class="dropdown-item">
+                          <a href="/by-laws" class="nav-link--by-laws" data-drupal-link-system-path="node/3261">By-Laws</a>
+              </li>
+                <li class="dropdown-item">
+                          <a href="/list-current-members" class="nav-link--list-current-members" data-drupal-link-system-path="list-current-members">Current Institutional Members</a>
+              </li>
+                <li class="dropdown-item">
+                          <a href="/strategic-plan" class="nav-link--strategic-plan" data-drupal-link-system-path="node/3262">Strategic Plan</a>
+              </li>
+                <li class="dropdown-item">
+                          <a href="/board-directors-committees-staff" class="nav-link--board-directors-committees-staff" data-drupal-link-system-path="node/3549">Board of Directors, Committees &amp; Staff</a>
+              </li>
+        </ul>
+  
+              </li>
+                <li class="nav-item menu-item--expanded dropdown">
+                          <span class="nav-link dropdown-toggle nav-link-" data-toggle="dropdown" aria-expanded="false" aria-haspopup="true">Resources</span>
+                        <ul class="dropdown-menu">
+                    <li class="dropdown-item">
+                          <a href="/exhibit" class="nav-link--exhibit" data-drupal-link-system-path="exhibit">Exhibits</a>
+              </li>
+                <li class="dropdown-item">
+                          <a href="/article" class="nav-link--article" data-drupal-link-system-path="article">History Articles</a>
+              </li>
+                <li class="dropdown-item">
+                          <a href="/news" class="nav-link--news" data-drupal-link-system-path="news">News</a>
+              </li>
+                <li class="dropdown-item">
+                          <a href="/funding-programs" class="nav-link--funding-programs">Funding Programs</a>
+              </li>
+                <li class="dropdown-item">
+                          <a href="/photo-gallery" class="nav-link--photo-gallery" data-drupal-link-system-path="photo-gallery">Photo Gallery</a>
+              </li>
+                <li class="dropdown-item">
+                          <a href="/success-stories" class="nav-link--success-stories" data-drupal-link-system-path="node/441104">QHN Back Issues</a>
+              </li>
+                <li class="dropdown-item">
+                          <a href="/speakers" class="nav-link--speakers" data-drupal-link-system-path="speakers">Speakers Bureau</a>
+              </li>
+                <li class="dropdown-item">
+                          <a href="/video-gallery" class="nav-link--video-gallery" data-drupal-link-system-path="video-gallery">Video Gallery</a>
+              </li>
+        </ul>
+  
+              </li>
+                <li class="nav-item">
+                          <a href="/events" class="nav-link nav-link--events" data-drupal-link-system-path="events">QAHN Calendar</a>
+              </li>
+                <li class="nav-item">
+                          <a href="/kids-heritage-essay-contest" class="nav-link nav-link--kids-heritage-essay-contest" data-drupal-link-system-path="node/3259">Contests</a>
+              </li>
+                <li class="nav-item menu-item--expanded dropdown">
+                          <a href="http://quebecheritageweb.com" class="nav-link dropdown-toggle nav-link-http--quebecheritagewebcom" data-toggle="dropdown" aria-expanded="false" aria-haspopup="true">Quebec Heritage Web</a>
+                        <ul class="dropdown-menu">
+                    <li class="dropdown-item">
+                          <a href="http://100objects.qahn.org" class="nav-link-http--100objectsqahnorg">100 Objects</a>
+              </li>
+                <li class="dropdown-item">
+                          <a href="/web-magazines/gaspesian-heritage" class="nav-link--web-magazines-gaspesian-heritage" data-drupal-link-system-path="node/442953">Gaspesian Heritage WebMagazine</a>
+              </li>
+                <li class="dropdown-item">
+                          <a href="/web-magazines/laurentian-heritage" class="nav-link--web-magazines-laurentian-heritage" data-drupal-link-system-path="node/442957">Laurentian Heritage WebMagazine</a>
+              </li>
+                <li class="dropdown-item">
+                          <a href="/web-magazines/montreal-mosaic" class="nav-link--web-magazines-montreal-mosaic" data-drupal-link-system-path="node/442960">Montreal Mosaic WebMagazine</a>
+              </li>
+                <li class="dropdown-item">
+                          <a href="/web-magazines/outaouais-heritage" class="nav-link--web-magazines-outaouais-heritage" data-drupal-link-system-path="node/442959">Outaouais Heritage WebMagazine</a>
+              </li>
+                <li class="dropdown-item">
+                          <a href="/web-magazines/townships-heritage" class="nav-link--web-magazines-townships-heritage" data-drupal-link-system-path="node/442958">Townships Heritage WebMagazine</a>
+              </li>
+        </ul>
+  
+              </li>
+                <li class="nav-item">
+                          <a href="/contact" class="nav-link nav-link--contact" data-drupal-link-system-path="node/443012">Contact Us</a>
+              </li>
+        </ul>
+  
+
+
+  </nav>
+<div class="language-switcher-language-url block block-language block-language-blocklanguage-interface" id="block-languageswitcher-2" role="navigation">
+  <div class="container">
+    
+        
+          <div class="content">
+        
+
+  <nav class="links nav links-inline"><span hreflang="en" data-drupal-link-system-path="node/3764" class="en nav-link is-active"><a href="/article/ymca-camp-saint-adolphe-dhoward" class="language-link is-active" hreflang="en" data-drupal-link-system-path="node/3764">EN</a></span><span hreflang="fr" data-drupal-link-system-path="node/3764" class="fr nav-link"><a href="/fr/node/3764" class="language-link" hreflang="fr" data-drupal-link-system-path="node/3764">FR</a></span></nav>
+
+      </div>
+      </div>
+</div>
+<div class="search-block-form block block-search block-search-form-block" data-drupal-selector="search-block-form" id="block-qahn-barrio-search-form" role="search">
+  
+    
+    <div class="content container-inline">
+        <div class="content container-inline">
+      <form action="/search/node" method="get" id="search-block-form" accept-charset="UTF-8" class="search-form search-block-form form-row">
+  
+
+
+
+          <fieldset class="js-form-item js-form-type-search form-type-search js-form-item-keys form-item-keys form-no-label form-group">
+          <label for="edit-keys" class="sr-only">Search</label>
+                    <input title="Enter the terms you wish to search for." data-drupal-selector="edit-keys" type="search" id="edit-keys" name="keys" value="" size="15" maxlength="128" class="form-search form-control" />
+
+                      </fieldset>
+<div data-drupal-selector="edit-actions" class="form-actions js-form-wrapper form-group" id="edit-actions"><button data-drupal-selector="edit-submit" type="submit" id="edit-submit" value="Search" class="button js-form-submit form-submit btn btn-primary">Search</button>
+</div>
+
+</form>
+
+    </div>
+  
+  </div>
+</div>
+
+
+                                          </div>
+                                                                    </div>
+                          </nav>
+          </div>
+        </div>
+          </header>
+          <div class="highlighted">
+        <aside class="container-fluid section clearfix" role="complementary">
+            <div data-drupal-messages-fallback class="hidden"></div>
+
+
+        </aside>
+      </div>
+            <div id="main-wrapper" class="layout-main-wrapper clearfix">
+              <div id="main" class="container-fluid">
+            <div id="block-qahn-barrio-breadcrumbs" class="block block-system block-system-breadcrumb-block">
+  <div class="container">
+    
+        
+          <div class="content">
+        
+
+  <nav role="navigation" aria-label="breadcrumb">
+    <ol class="breadcrumb">
+                  <li class="breadcrumb-item">
+          <a href="/">Home</a>
+        </li>
+                        <li class="breadcrumb-item">
+          <a href="/article">Articles</a>
+        </li>
+                        <li class="breadcrumb-item active">
+          The YMCA Camp of Saint-Adolphe d&#039;Howard
+        </li>
+              </ol>
+  </nav>
+
+      </div>
+      </div>
+</div>
+
+
+          <div class="row row-offcanvas row-offcanvas-left clearfix">
+            <main class="main-content col" id="content" role="main">
+              <section class="section">
+                <a id="main-content" tabindex="-1"></a>
+                  <div id="block-qahn-barrio-page-title" class="block block-core block-page-title-block">
+  <div class="container">
+    
+        
+          <div class="content">
+        
+  <h1 class="title"><span class="field field--name-title field--type-string field--label-hidden">The YMCA Camp of Saint-Adolphe d&#039;Howard</span>
+</h1>
+
+
+      </div>
+      </div>
+</div>
+<div id="block-qahn-barrio-content" class="block block-system block-system-main-block">
+  <div class="container">
+    
+        
+          <div class="content">
+        
+
+
+
+<article data-history-node-id="3764" role="article" class="node node--type-article node--view-mode-full clearfix">
+  <header>
+    
+        
+      </header>
+  <div class="node__content clearfix">
+    
+  <div class="field field--name-field-author field--type-string field--label-inline">
+    <div class="field__label">Author: </div>
+              <div class="field__item">Matthew Farfan</div>
+          </div>
+
+            <div class="field field--name-field-photo field--type-entity-reference field--label-hidden field__item"><div>
+  
+  
+  <div class="field field--name-field-media-image field--type-image field--label-visually_hidden">
+    <div class="field__label visually-hidden">Image: </div>
+              <div class="field__item">
+<a href="https://qahn.org/sites/default/files/laurentianheritagewebmagazine/article-images/ymca.st_.adolphe_0.jpg" aria-controls="colorbox" aria-label="{&quot;alt&quot;:&quot;Y.M.C.A. Camp at Saint-Adolphe-d&#039;Howard. (Photo - LHWM)&quot;}" role="button"  title="Y.M.C.A. Camp at Saint-Adolphe-d&amp;#039;Howard. (Photo - LHWM)" data-colorbox-gallery="gallery-image-3003-8Bbs2DUrsOc" class="colorbox" data-cbox-img-attrs="{&quot;alt&quot;:&quot;Y.M.C.A. Camp at Saint-Adolphe-d&#039;Howard. (Photo - LHWM)&quot;}"><img src="/sites/default/files/styles/article_node_image/public/laurentianheritagewebmagazine/article-images/ymca.st_.adolphe_0.jpg?h=51c06193&amp;itok=66iBsz5f" width="400" height="400" alt="Y.M.C.A. Camp at Saint-Adolphe-d&#039;Howard. (Photo - LHWM)" loading="lazy" class="image-style-article-node-image" />
+
+</a>
+</div>
+          </div>
+
+            <div class="field field--name-field-media-description field--type-string-long field--label-hidden field__item">Y.M.C.A. Camp at Saint-Adolphe-d&#039;Howard. (Photo - LHWM)</div>
+      
+</div>
+</div>
+      
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><p><a href="/sites/default/files/laurentianheritagewebmagazine/article-images/ymca.st_.adolphe.jpg"><img src="/sites/default/files/laurentianheritagewebmagazine/article-images/larger_ymca.st_.adolphe.jpg" width="200" height="150" alt="larger_ymca.st_.adolphe.jpg" /></a>The Young Men's Christian Association, or YMCA, was founded in London, England, in 1844, to provide assistance to young workers during the Industrial Revolution. Seven years later, in 1851, the very first branch of the "Y" was established in North America -- in Montreal.
+</p>
+<p>In 1892, the Montreal YMCA inaugurated its summer camping program. In that year, Lemuel Cushing brought a group of boys up to magnificent Lake Saint-Joseph in Saint-Adolphe-d'Howard in 1892.
+</p>
+<p>In 1893 or 1894, the YMCA opened its first summer camp outside of Greater Montreal. That camp, called Camp Jubilee after the fiftieth anniversary of the YMCA, was located in the Laurentian town of Saint-Adolphe-d'Howard.
+</p>
+<p>The idea was to provide boys (and later boys and girls) with a wholesome, open-air environment where they could enjoy nature away from the pollution that the growing city was already experiencing.
+</p>
+<p>Saint-Adolphe at that time was becoming a magnet for summer vacationers, and the area saw the construction of several hotels, boarding houses, and vacation camps -- both inside the village and around Lake Saint-Joseph.
+</p>
+<p>Camp Jubilee was situated on several islands in the middle of the lake, with a landing area on the shore. In 1909, the YMCA changed the name of the camp to Camp Otoreke. In 1982, the camp closed its doors after nearly a century of continuous operation. Today, very little remains of this long-lived and very popular camp.</p></div>
+      
+
+
+  </div>
+</article>
+
+      </div>
+      </div>
+</div>
+
+
+              </section>
+            </main>
+                                  </div>
+        </div>
+          </div>
+          <div class="featured-bottom">
+        <aside class="container-fluid clearfix" role="complementary">
+          <div class="row">
+            <div class="featured-bottom-first-wrapper col">
+              <div class="container"></div>
+            </div>
+          </div>
+          
+            <section class="row region region-featured-bottom-third">
+    <div id="block-logosblock" class="col-12 block block-block-content block-block-content5b8b797e-f73e-4ab6-9345-304ff7b1e01b">
+  <div class="container">
+    
+        
+          <div class="content">
+        
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><style type="text/css">
+<!--/*--><![CDATA[/* ><!--*/
+
+<!--/*--><![CDATA[/* ><!--*/
+
+<!--/*--><![CDATA[/* ><!--*/
+.footer-logos img {
+  margin-bottom: 1rem;
+  max-height: 70px;
+  width: auto;
+}
+.footer-logos .logo-canada img margin-
+  max-width: 150px !important;
+}
+
+/*--><!]]]]]]><![CDATA[><![CDATA[>*/
+
+/*--><!]]]]><![CDATA[>*/
+
+/*--><!]]>*/
+</style><div class="footer-logos d-md-flex">
+<div class="align-center">
+  
+  
+  <div class="field field--name-field-media-image field--type-image field--label-visually_hidden">
+    <div class="field__label visually-hidden">Image: </div>
+              <div class="field__item">  <img loading="lazy" src="/sites/default/files/styles/large/public/2022-11/Canada-wordmark.png?itok=FtNYq-VX" width="480" height="113" alt="Canada logo" class="image-style-large" /></div>
+          </div>
+
+</div>
+<div class="align-center">
+  
+  
+  <div class="field field--name-field-media-image field--type-image field--label-visually_hidden">
+    <div class="field__label visually-hidden">Image: </div>
+              <div class="field__item">  <img loading="lazy" src="/sites/default/files/styles/large/public/2023-01/Logo_du_le_gouvernement_du_Que%CC%81bec.png?itok=ENyGCC4s" width="320" height="69" alt="Logo du gouvernement du Québec" class="image-style-large" /></div>
+          </div>
+
+</div>
+<div class="align-center">
+  
+  
+  <div class="field field--name-field-media-image field--type-image field--label-visually_hidden">
+    <div class="field__label visually-hidden">Image: </div>
+              <div class="field__item">  <img loading="lazy" src="/sites/default/files/styles/large/public/2024-10/QAHN-logo-2024-large.website.jpg?itok=d9VGNw3S" width="260" height="154" alt="QAHN" class="image-style-large" /></div>
+          </div>
+
+</div>
+</div>
+</div>
+      
+      </div>
+      </div>
+</div>
+
+  </section>
+
+        </aside>
+      </div>
+        <footer class="site-footer">
+              <div class="container">
+                                <div class="site-footer__bottom">
+                <section class="row region region-footer-fifth">
+    <nav role="navigation" aria-labelledby="block-qahn-barrio-footer-menu" id="block-qahn-barrio-footer" class="block block-menu navigation menu--footer">
+            
+  <h2 class="sr-only" id="block-qahn-barrio-footer-menu">Footer</h2>
+  
+
+        
+              <ul block="block-qahn-barrio-footer" class="clearfix nav navbar-nav">
+                    <li class="nav-item menu-item--expanded">
+                <span class="nav-link nav-link-">Contact</span>
+                                <ul class="menu">
+                    <li class="nav-item">
+                <a href="/contact" class="nav-link nav-link--contact" data-drupal-link-system-path="node/443012">Send us a message</a>
+              </li>
+        </ul>
+  
+              </li>
+                <li class="nav-item menu-item--expanded">
+                <span class="nav-link nav-link-">Media</span>
+                                <ul class="menu">
+                    <li class="nav-item">
+                <a href="/photo-gallery" class="nav-link nav-link--photo-gallery" data-drupal-link-system-path="photo-gallery">Photo Gallery</a>
+              </li>
+                <li class="nav-item">
+                <a href="/video-gallery" class="nav-link nav-link--video-gallery" data-drupal-link-system-path="video-gallery">Video Gallery</a>
+              </li>
+        </ul>
+  
+              </li>
+                <li class="nav-item menu-item--expanded">
+                <span class="nav-link nav-link-">Resources</span>
+                                <ul class="menu">
+                    <li class="nav-item">
+                <a href="/news" class="nav-link nav-link--news" data-drupal-link-system-path="news">News Archives</a>
+              </li>
+                <li class="nav-item">
+                <a href="/funding-programs" class="nav-link nav-link--funding-programs">Funding Programs</a>
+              </li>
+                <li class="nav-item">
+                <a href="/speakers" class="nav-link nav-link--speakers" data-drupal-link-system-path="speakers">Speakers Bureau</a>
+              </li>
+                <li class="nav-item">
+                <a href="/success-stories" class="nav-link nav-link--success-stories" data-drupal-link-system-path="node/441104">QHN Back Issues</a>
+              </li>
+        </ul>
+  
+              </li>
+                <li class="nav-item menu-item--expanded">
+                <span class="nav-link nav-link-">Connect with us</span>
+                                <ul class="menu">
+                    <li class="nav-item">
+                <a href="https://www.facebook.com/pages/Quebec-Heritage-News-Quebecs-English-language-History-Magazine/288386101188929" class="nav-link nav-link-https--wwwfacebookcom-pages-quebec-heritage-news-quebecs-english-language-history-magazine-288386101188929">Facebook</a>
+              </li>
+                <li class="nav-item">
+                <a href="https://www.instagram.com/qahn.rpaq" class="nav-link nav-link-https--wwwinstagramcom-qahnrpaq">Instagram</a>
+              </li>
+        </ul>
+  
+              </li>
+        </ul>
+  
+
+
+  </nav>
+
+  </section>
+
+            </div>
+                    <div class="row copyright">
+            <p>&copy; QAHN, 2026. All rights reserved.</p>
+          </div>
+        </div>
+          </footer>
+  </div>
+</div>
+
+  </div>
+
+    
+    <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","scriptPath":null,"pathPrefix":"","currentPath":"node\/3764","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"en"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"gtag":{"tagId":"G-1JKJ3E6FS6","otherIds":[],"events":[],"additionalConfigInfo":[]},"ajaxPageState":{"libraries":"bootstrap_barrio\/breadcrumb,bootstrap_barrio\/global-styling,bootstrap_barrio\/image_fluid,bootstrap_barrio\/links,bootstrap_barrio\/messages_white,bootstrap_barrio\/node,colorbox\/colorbox,colorbox\/default,eu_cookie_compliance\/eu_cookie_compliance_default,fontawesome\/fontawesome.svg,google_tag\/gtag,google_tag\/gtag.ajax,media\/filter.caption,qahn_barrio\/bootstrap_cdn,qahn_barrio\/global-styling,system\/base","theme":"qahn_barrio","theme_token":null},"ajaxTrustedUrl":{"\/search\/node":true},"eu_cookie_compliance":{"cookie_policy_version":"1.0.0","popup_enabled":true,"popup_agreed_enabled":false,"popup_hide_agreed":false,"popup_clicking_confirmation":false,"popup_scrolling_confirmation":false,"popup_html_info":"\u003Cdiv aria-labelledby=\u0022popup-text\u0022  class=\u0022eu-cookie-compliance-banner eu-cookie-compliance-banner-info eu-cookie-compliance-banner--opt-out\u0022\u003E\n  \u003Cdiv class=\u0022popup-content info eu-cookie-compliance-content\u0022\u003E\n        \u003Cdiv id=\u0022popup-text\u0022 class=\u0022eu-cookie-compliance-message\u0022 role=\u0022document\u0022\u003E\n      \u003Cp\u003EWe use cookies on this site to enhance your user experience and for anonymized analytics.\u003C\/p\u003E\n\u003Cp\u003EBy clicking the Accept button, you agree to us doing so.\u003C\/p\u003E\n              \u003Cbutton type=\u0022button\u0022 class=\u0022find-more-button eu-cookie-compliance-more-button\u0022\u003EMore info\u003C\/button\u003E\n          \u003C\/div\u003E\n\n    \n    \u003Cdiv id=\u0022popup-buttons\u0022 class=\u0022eu-cookie-compliance-buttons\u0022\u003E\n            \u003Cbutton type=\u0022button\u0022 class=\u0022decline-button eu-cookie-compliance-secondary-button button button--small\u0022\u003ENo, thanks\u003C\/button\u003E\n              \u003Cbutton type=\u0022button\u0022 class=\u0022agree-button eu-cookie-compliance-default-button button button--small button--primary\u0022\u003EAccept\u003C\/button\u003E\n          \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E","use_mobile_message":false,"mobile_popup_html_info":"\u003Cdiv aria-labelledby=\u0022popup-text\u0022  class=\u0022eu-cookie-compliance-banner eu-cookie-compliance-banner-info eu-cookie-compliance-banner--opt-out\u0022\u003E\n  \u003Cdiv class=\u0022popup-content info eu-cookie-compliance-content\u0022\u003E\n        \u003Cdiv id=\u0022popup-text\u0022 class=\u0022eu-cookie-compliance-message\u0022 role=\u0022document\u0022\u003E\n      \n              \u003Cbutton type=\u0022button\u0022 class=\u0022find-more-button eu-cookie-compliance-more-button\u0022\u003EMore info\u003C\/button\u003E\n          \u003C\/div\u003E\n\n    \n    \u003Cdiv id=\u0022popup-buttons\u0022 class=\u0022eu-cookie-compliance-buttons\u0022\u003E\n            \u003Cbutton type=\u0022button\u0022 class=\u0022decline-button eu-cookie-compliance-secondary-button button button--small\u0022\u003ENo, thanks\u003C\/button\u003E\n              \u003Cbutton type=\u0022button\u0022 class=\u0022agree-button eu-cookie-compliance-default-button button button--small button--primary\u0022\u003EAccept\u003C\/button\u003E\n          \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E","mobile_breakpoint":768,"popup_html_agreed":false,"popup_use_bare_css":false,"popup_height":"auto","popup_width":"100%","popup_delay":1000,"popup_link":"https:\/\/qahn.org\/sites\/default\/files\/2025-08\/Privacy.Policy.Bill%2064.pdf","popup_link_new_window":true,"popup_position":false,"fixed_top_position":true,"popup_language":"en","store_consent":false,"better_support_for_screen_readers":false,"cookie_name":"","reload_page":false,"domain":"","domain_all_sites":false,"popup_eu_only":false,"popup_eu_only_js":false,"cookie_lifetime":100,"cookie_session":0,"set_cookie_session_zero_on_disagree":0,"disagree_do_not_show_popup":false,"method":"opt_out","automatic_cookies_removal":true,"allowed_cookies":"","withdraw_markup":"\u003Cbutton type=\u0022button\u0022 class=\u0022eu-cookie-withdraw-tab\u0022\u003EPrivacy settings\u003C\/button\u003E\n\u003Cdiv aria-labelledby=\u0022popup-text\u0022 class=\u0022eu-cookie-withdraw-banner\u0022\u003E\n  \u003Cdiv class=\u0022popup-content info eu-cookie-compliance-content\u0022\u003E\n    \u003Cdiv id=\u0022popup-text\u0022 class=\u0022eu-cookie-compliance-message\u0022 role=\u0022document\u0022\u003E\n      \u003Cp\u003EWe use cookies on this site to enhance your user experience.\u003C\/p\u003E\n\u003Cp\u003EYou have given your consent for us to set cookies.\u003C\/p\u003E\n    \u003C\/div\u003E\n    \u003Cdiv id=\u0022popup-buttons\u0022 class=\u0022eu-cookie-compliance-buttons\u0022\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022eu-cookie-withdraw-button  button button--small button--primary\u0022\u003EWithdraw consent\u003C\/button\u003E\n    \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E","withdraw_enabled":false,"reload_options":0,"reload_routes_list":"","withdraw_button_on_info_popup":false,"cookie_categories":[],"cookie_categories_details":[],"enable_save_preferences_button":true,"cookie_value_disagreed":"0","cookie_value_agreed_show_thank_you":"1","cookie_value_agreed":"2","containing_element":"body","settings_tab_enabled":false,"olivero_primary_button_classes":" button button--small button--primary","olivero_secondary_button_classes":" button button--small","close_button_action":"close_banner","open_by_default":true,"modules_allow_popup":true,"hide_the_banner":false,"geoip_match":true,"unverified_scripts":[]},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px"},"user":{"uid":0,"permissionsHash":"c23ea17fe967b1ff5332f3ae3f0dbfc89b98cc76d7c8a0dc5012a180b83a626e"}}</script>
+<script src="/sites/default/files/js/js_Doa2giB5rt0UfZKKaZh1vF_2CFPQiCLsigjk4WWrFD4.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js"></script>
+<script src="//stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js"></script>
+<script src="/sites/default/files/js/js_BcYQSwvO9TUnnVhs5sqXLkmWsU4VOgCAje0NDwYEBmM.js"></script>
+
+  <script defer src="https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015" integrity="sha512-ZpsOmlRQV6y907TI0dKBHq9Md29nnaEIPlkf84rnaERnq6zvWvPUqr2ft8M1aS28oN72PdrCzSjY4U6VaAw1EQ==" data-cf-beacon='{"version":"2024.11.0","token":"4037a0ff7f574b07b11d932133a0ebf9","r":1,"server_timing":{"name":{"cfCacheStatus":true,"cfEdge":true,"cfExtPri":true,"cfL4":true,"cfOrigin":true,"cfSpeedBrain":true},"location_startswith":null}}' crossorigin="anonymous"></script>
+</body>
+</html>
