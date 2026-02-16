@@ -125,10 +125,10 @@
       "cache_path": "sources/cache/web-pages/ballantyne-1944.txt",
       "char_count": 38063,
       "ingested_at": "2026-02-10T00:00:00Z",
-      "extracted": false,
-      "extraction_version": null,
+      "extracted": true,
+      "extraction_version": "4.5",
       "reliability": "secondary",
-      "notes": "National YMCA history. No specific Kanawana mention. Drive ID: 1LFAq-SbESFkJYPly8ydht5S0-IFrarq6"
+      "notes": "National YMCA history by Harry Ballantyne (former General Secretary, National Council). OCR text, fully readable. No specific Kanawana mention. Key camping facts (5,835 boys/95,360 camper-days in 1942) already captured in KB from McMorris thesis. Confirms Montreal YMCA founding 1851, Boys' Work from 1883, co-ed developments by 1942 (6,275 girls/women served), SGW College. Drive ID: 1LFAq-SbESFkJYPly8ydht5S0-IFrarq6"
     },
     {
       "source_id": "src_kanawana_facts",
@@ -859,7 +859,7 @@
       "origin": "internet_archive",
       "origin_url": "https://archive.org/details/genealogyofcushi1905cush",
       "cache_path": "sources/cache/web-pages/cushing-genealogy-1905.txt",
-      "char_count": 0,
+      "char_count": 1280218,
       "ingested_at": "2026-02-14T04:00:00Z",
       "extracted": false,
       "extraction_version": null,
