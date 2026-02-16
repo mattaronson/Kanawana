@@ -1,0 +1,145 @@
+{
+  "personal_information": {
+    "surname": "SMITH",
+    "given_names": "John Robert",
+    "gender": "M",
+    "date_of_birth": "1985-03-15",
+    "citizenship": "Canadien",
+    "citizenship_country": "France",
+    "birth_city": "Paris",
+    "birth_province": "Île-de-France",
+    "birth_country": "France"
+  },
+
+  "passport": {
+    "passport_number": "AB123456",
+    "issue_date": "2020-01-15",
+    "expiry_date": "2030-01-14"
+  },
+
+  "current_address": {
+    "street_number": "123",
+    "street_name": "Rue Example",
+    "apartment": "4B",
+    "city": "Montreal",
+    "province": "Quebec",
+    "country": "Canada",
+    "postal_code": "H3A 1A1",
+    "phone": "514-555-1234",
+    "email": "john.smith@email.com",
+    "in_quebec": true
+  },
+
+  "correspondence_address": {
+    "different_from_current": false
+  },
+
+  "family_members": [
+    {
+      "surname": "SMITH",
+      "given_names": "Jane Marie",
+      "date_of_birth": "1987-06-20",
+      "relationship": "Épouse",
+      "accompanying": true
+    },
+    {
+      "surname": "SMITH",
+      "given_names": "Emma",
+      "date_of_birth": "2015-09-10",
+      "relationship": "Enfant",
+      "accompanying": true
+    }
+  ],
+
+  "employer": {
+    "company_name": "Tech Corp Inc.",
+    "neq_number": "1234567890",
+    "address": {"full_address": "456 Business Ave, Montreal QC H2X 2X2"},
+    "applicant_has_control": false
+  },
+
+  "quebec_employment": {
+    "job_title": "Software Developer",
+    "noc_profession_name": "Software engineers and designers",
+    "noc_code": "21231",
+    "work_location": "Montreal, Quebec",
+    "duties": "Design and develop software applications. Lead development team. Implement CI/CD pipelines. Mentor junior developers.",
+    "lmia_number": "A1234567",
+    "start_date": "2025-04-01",
+    "end_date": "2027-03-31",
+    "hourly_wage": "45.00",
+    "weekly_hours": "40",
+    "commitment_to_reside": true
+  },
+
+  "education": [
+    {
+      "institution": "Université de Montréal",
+      "diploma_type": "Baccalauréat",
+      "field_of_study": "Informatique",
+      "start_date": "2010-09",
+      "end_date": "2014-05"
+    },
+    {
+      "institution": "École Polytechnique de Paris",
+      "diploma_type": "Maîtrise",
+      "field_of_study": "Génie logiciel",
+      "start_date": "2014-09",
+      "end_date": "2016-06"
+    }
+  ],
+
+  "work_experience": [
+    {
+      "employer_name": "Previous Corp",
+      "job_title": "Junior Developer",
+      "country": "France",
+      "duties": "Developed web applications using React and Node.js",
+      "start_date": "2014-06-01",
+      "end_date": "2020-12-31",
+      "description": "Full-stack development role"
+    },
+    {
+      "employer_name": "Startup Inc",
+      "job_title": "Senior Developer",
+      "country": "Canada",
+      "duties": "Lead backend development, managed team of 5",
+      "start_date": "2021-01-15",
+      "end_date": "2024-12-31",
+      "description": "Technical lead position"
+    }
+  ],
+
+  "quebec_stays": [
+    {
+      "start_date": "2023-01-15",
+      "end_date": "2023-06-30",
+      "purpose": "work",
+      "reason": "Previous work permit"
+    }
+  ],
+
+  "paid_representative": {
+    "has_representative": true,
+    "representative_type": "barreau",
+    "surname": "Adessky",
+    "given_names": "Kenneth",
+    "license_number": "12345",
+    "organization": "Adessky Attorneys",
+    "phone": "514-555-9999",
+    "email": "kenneth@adessky.ca",
+    "address": "123 Legal St, Westmount QC",
+    "postal_code": "H3Y 1R1"
+  },
+
+  "declaration": {
+    "signature_city": "Montreal",
+    "signature_country": "Canada"
+  },
+
+  "caq_application": {
+    "previous_dst_application": false,
+    "ptet_stream": "high_wage",
+    "simplified_processing_eligible": false
+  }
+}
