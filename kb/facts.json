@@ -2,7 +2,7 @@
   "version": "4.0",
   "kb_version": "4.0",
   "migrated_from": "3.3",
-  "fact_count": 485,
+  "fact_count": 489,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -7548,6 +7548,54 @@
       "category": "sources",
       "entities": ["Cushing family", "YMCA"],
       "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "4.6",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_0486",
+      "claim": "The YMCA purchased three islands in Lake Saint-Joseph for Camp Jubilee/Otoreke. The camp had a landing area on the shore.",
+      "sources": ["src_qahn_howard"],
+      "confidence": "stated",
+      "category": "geography",
+      "entities": ["Camp Otoreke", "Lake Saint-Joseph"],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "4.6",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_0487",
+      "claim": "A historical postcard titled 'A View Of The YMCA Camp Landing, Otoreke, Quebec' (RPPC) exists, showing developed landing dock at Camp Otoreke.",
+      "sources": ["src_ebay_otoreke_postcard"],
+      "confidence": "stated",
+      "category": "sources",
+      "entities": ["Camp Otoreke"],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "4.6",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_0488",
+      "claim": "Camp Otoreke hosted a Young Adult Centennial Conference in 1967, and planning and development reports were prepared for the site that year.",
+      "sources": ["src_concordia_fonds"],
+      "confidence": "stated",
+      "category": "events",
+      "entities": ["Camp Otoreke"],
+      "date_ref": "1967",
+      "conflicts_with": [],
+      "added_version": "4.6",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_0489",
+      "claim": "A 1944 photograph of Camp Otoreke is held by QAHN (Quebec Anglophone Heritage Network).",
+      "sources": ["src_qahn_howard"],
+      "confidence": "stated",
+      "category": "sources",
+      "entities": ["Camp Otoreke", "QAHN"],
+      "date_ref": "1944",
       "conflicts_with": [],
       "added_version": "4.6",
       "added_by": "ralph_loop"

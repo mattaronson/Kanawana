@@ -1105,6 +1105,54 @@
       "extraction_version": "4.4",
       "reliability": "tertiary",
       "notes": "Camp directory listing. Confirms 550 acres, three private lakes, 45 min north of Montreal. Lake Wilson described as beautiful with gorgeous views and stargazing."
+    },
+    {
+      "source_id": "src_ebay_otoreke_postcard",
+      "type": "web",
+      "title": "eBay - 'A View Of The YMCA Camp Landing, Otoreke, Quebec' (RPPC)",
+      "date": null,
+      "date_precision": "approximate",
+      "origin": "web",
+      "origin_url": "https://www.ebay.com/itm/333130004877",
+      "cache_path": null,
+      "char_count": 0,
+      "ingested_at": "2026-02-17T04:00:00Z",
+      "extracted": true,
+      "extraction_version": "4.6",
+      "reliability": "primary",
+      "notes": "Real Photo PostCard showing Camp Otoreke landing dock on Lake Saint-Joseph. Unused, good condition. Shows developed waterfront infrastructure. Date of photograph unknown."
+    },
+    {
+      "source_id": "src_wikipedia_saint_adolphe",
+      "type": "web",
+      "title": "Wikipedia - Saint-Adolphe-d'Howard",
+      "date": null,
+      "date_precision": "approximate",
+      "origin": "web",
+      "origin_url": "https://en.wikipedia.org/wiki/Saint-Adolphe-d'Howard",
+      "cache_path": null,
+      "char_count": 0,
+      "ingested_at": "2026-02-17T04:00:00Z",
+      "extracted": true,
+      "extraction_version": "4.6",
+      "reliability": "tertiary",
+      "notes": "Municipality in Pays-d'en-Haut RCM, Laurentians, Quebec. Lake Saint-Joseph ~3km x 1km."
+    },
+    {
+      "source_id": "src_ymca_pip_orbinski",
+      "type": "web",
+      "title": "YMCA Quebec - Dr. James Orbinski Receives Pip Award (2024)",
+      "date": "2024",
+      "date_precision": "year",
+      "origin": "web",
+      "origin_url": "https://www.ymcaquebec.org/en/about-us/newsroom/2024/dr-james-orbinski-receives-the-camp-ymca-kanawana-pip-award",
+      "cache_path": null,
+      "char_count": 0,
+      "ingested_at": "2026-02-17T04:00:00Z",
+      "extracted": true,
+      "extraction_version": "4.6",
+      "reliability": "secondary",
+      "notes": "Dr. James Orbinski, humanitarian physician and former MSF president, received Pip Award 2024."
     }
   ]
 }
