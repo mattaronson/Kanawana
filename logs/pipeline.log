@@ -311,3 +311,23 @@
   - PROCESS: Added f_0486-f_0489 (4 new facts). Article rewritten: 950 words, 8 sections, 10 sources. Advanced stub → draft.
   - Priority p_032 completed
   - Total: 22 articles (9 E1-reviewed, 12 draft, 1 stub). KB: 489 facts, 69 sources (v4.6).
+
+2026-02-17T06:00:00Z | WRITE | directors-index.md — Staff expansion (P35)
+  - Integrated 55+ orphan staff/directors facts into directors-index article
+  - Restructured from flat "Notable Non-Director Personnel" table to 5 chronological "Staff by Era" sections: 1920s (1921-23), Mid-1930s (1935-38), War Years (1939-41), Post-War (1943-61), 1980 Season
+  - Key corrections: Macdiarmid tenure extended from "1936" to "1935-1938+" based on 1935 History and Green Triangle 1938. Gap period "1937-1940: Between MacDiarmid and Langille" eliminated — Macdiarmid confirmed through 1938.
+  - Notable additions: Long-serving staff (Harry Smith chef 1913-22+, Abraham business mgr 1914-22+, Spinney educational dir 1917-22+, Cornell 1918-23+, Cowan 1915-23+). Miss Rayner (1939) as earliest documented woman on staff. Full 1938 Green Triangle roster. Full 1980 Ka-News roster. Dimock 1960-61 research.
+  - Article expanded: 1200 → 2400 words. Title changed: "Directors of Camp Kanawana" → "Directors and Staff of Camp Kanawana". 85 KB facts cited (was 25). 12 sources (was 6). 7 open questions (was 6, added Macdiarmid identity question and 1923 Paterson/Davis overlap).
+  - Priority p_035 completed
+
+2026-02-17T06:15:00Z | ANALYSIS | Orphan fact assessment (P36)
+  - Post-P35 orphan rate: 49.1% (240/489 facts). Down from ~56% pre-expansion.
+  - Programs: 42 orphans (largest actionable pool) — target is programs-activities.md but article text is on Google Drive only
+  - LV Games: 12 orphans — lv-games.md is E1-reviewed with empty kb_facts_used (migration gap). Likely already covered in Drive article text.
+  - Coeducation: 11 orphans — coeducation-gender.md on Drive only. Includes date conflict f_0200/f_0201 needing human resolution.
+  - Publications: 1 orphan (f_0410, Green Triangle) — could spawn new stub
+  - People: 52 orphans — largest single pool, could spawn 5-10 new stubs
+  - Facilities/Geography: 0 orphans (fully cited by the-kanawana-site)
+  - E1-reviewed articles all have empty kb_facts_used from v48/v49 migration — not true orphans, just unbacklinked
+  - CONCLUSION: P36 blocked. Most remaining orphans require Drive article access or are false positives from migration gap. Actionable subset: Green Triangle stub, people stubs.
+  - Priority p_036 marked blocked

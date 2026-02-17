@@ -446,14 +446,28 @@
     {
       "priority_id": "p_035",
       "rank": 35,
-      "type": "RESEARCH",
-      "description": "Integrate 56 uncited staff facts + 44 uncited programs facts into existing articles or spawn new stubs",
-      "article_id": null,
+      "type": "WRITE",
+      "description": "Expand directors-index.md with 64 orphan staff facts — add 'Staff by Era' sections for 1920s, 1930s, 1940s, 1980s",
+      "article_id": "directors-index",
       "blocking": false,
-      "assigned_weight": "P5",
+      "assigned_weight": "P4",
       "created_at": "2026-02-17T02:00:00Z",
-      "status": "pending",
-      "notes": "66% orphan fact rate (318/485). Staff category: 56 uncited (98%). Programs: 44 uncited (94%). LV games: 12 uncited (100%). Coeducation: 11 uncited (100%). Many belong in existing draft articles that need Drive sync."
+      "status": "completed",
+      "completed_at": "2026-02-17T06:00:00Z",
+      "result": "Directors-index expanded from 1200 to 2400 words. Restructured from flat table to 5 era-based staff sections (1921-23, 1935-38, 1939-41, 1943-61, 1980). Integrated 55+ orphan staff facts. Macdiarmid tenure extended 1935-1938+ (was 1936). Gap period '1937-1940' eliminated. Miss Rayner (1939) noted as earliest documented woman in staff role. 85 KB facts now cited, 19 sources. Title changed to 'Directors and Staff of Camp Kanawana'."
+    },
+    {
+      "priority_id": "p_036",
+      "rank": 36,
+      "type": "RESEARCH",
+      "description": "Integrate remaining orphan facts: 42 programs, 12 lv_games, 11 coeducation, 1 publications, 52 people",
+      "article_id": null,
+      "blocking": true,
+      "blocking_reason": "Most orphans belong in Drive-only articles (programs-activities, lv-games, coeducation-gender) or E1-reviewed articles with empty kb_facts_used arrays (migration gap). Actionable subset: 42 programs facts for programs-activities (Drive-only), Green Triangle stub (1 fact). People orphans (52) need new article stubs.",
+      "assigned_weight": "P5",
+      "created_at": "2026-02-17T05:00:00Z",
+      "status": "blocked",
+      "notes": "Post-P35 orphan rate: 49.1% (240/489). Down from ~56%. Key blockers: (1) programs-activities.md on Drive only — 42 programs facts belong there. (2) lv-games.md E1-reviewed on Drive — 12 facts, likely already covered in article text but not backlinked. (3) coeducation-gender.md on Drive — 11 facts including date conflict f_0200/f_0201. (4) All E1-reviewed articles have empty kb_facts_used from v48/v49 migration. Actionable: spawn Green Triangle newsletter stub (f_0410 + related). People orphans (52) could spawn 5-10 new stubs if prioritized."
     }
   ]
 }
