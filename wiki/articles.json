@@ -345,6 +345,38 @@
       "cross_links": ["founding-1894", "the-kanawana-site", "billy-ball", "cushing-family"],
       "file_id": null,
       "word_count": 450
+    },
+    {
+      "article_id": "stuart-mclean",
+      "title": "Stuart McLean",
+      "wiki_folder": "people",
+      "status": "stub",
+      "status_history": [
+        {"status": "stub", "at": "2026-02-17T03:00:00Z", "by": "auto", "task": "WRITE"}
+      ],
+      "ralph_loops_completed": 0,
+      "kb_facts_used": ["f_0046", "f_0155", "f_0168", "f_0169", "f_0170", "f_0171", "f_0172", "f_0417", "f_0418", "f_0455", "f_0456"],
+      "sources_cited": ["src_samaritanmag_mclean", "src_ourkids_mclean", "src_ymca_website", "src_oral_aronson"],
+      "open_questions": 4,
+      "cross_links": ["directors-index", "traditions-and-culture", "coeducation-gender"],
+      "file_id": null,
+      "word_count": 400
+    },
+    {
+      "article_id": "pip-alumni-award",
+      "title": "The Pip Alumni Award",
+      "wiki_folder": "programs",
+      "status": "stub",
+      "status_history": [
+        {"status": "stub", "at": "2026-02-17T03:00:00Z", "by": "auto", "task": "WRITE"}
+      ],
+      "ralph_loops_completed": 0,
+      "kb_facts_used": ["f_0447", "f_0448", "f_0454", "f_0457", "f_0460", "f_0466", "f_0467"],
+      "sources_cited": ["src_ymca_pip_skinner", "src_ymca_pip_mosher", "src_ymca_pip_adam", "src_ymca_pip_sharpe", "src_ymca_pip_orbinski", "src_oral_aronson"],
+      "open_questions": 4,
+      "cross_links": ["stuart-mclean", "directors-index", "traditions-and-culture"],
+      "file_id": null,
+      "word_count": 550
     }
   ]
 }
