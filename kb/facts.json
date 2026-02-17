@@ -2,7 +2,7 @@
   "version": "4.0",
   "kb_version": "4.0",
   "migrated_from": "3.3",
-  "fact_count": 479,
+  "fact_count": 485,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -7478,6 +7478,78 @@
       "date_ref": "1910",
       "conflicts_with": [],
       "added_version": "4.5",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_0480",
+      "claim": "Lemuel Cushing Jr. (1842-1881) had four children: Walter Edgar (b. 19 May 1870), Harold Beveridge (b. 6 April 1873, M.D. McGill), Florence Ethelwyn (b. 11 Nov 1874), and James Stevenson (b. 2 Oct 1878, author of the 1905 genealogy). None were named Lemuel.",
+      "sources": ["src_cushing_genealogy"],
+      "confidence": "stated",
+      "category": "people",
+      "entities": ["Lemuel Cushing Jr.", "Walter Edgar Cushing", "Harold Beveridge Cushing", "James Stevenson Cushing"],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "4.6",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_0481",
+      "claim": "James Brock Cushing (1839-1903), Lemuel Sr.'s son, moved from Chatham to Montreal in October 1890. Active in religious, educational, and agricultural interests. Colonel of the Argenteuil Rangers. Had a son named Lemuel Cushing (b. 26 Nov 1875), who became a chartered accountant.",
+      "sources": ["src_cushing_genealogy"],
+      "confidence": "stated",
+      "category": "people",
+      "entities": ["James Brock Cushing", "Lemuel Cushing (b. 1875)"],
+      "date_ref": "1890",
+      "conflicts_with": [],
+      "added_version": "4.6",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_0482",
+      "claim": "The only person literally named 'Lemuel Cushing' alive in Montreal in 1892 was Lemuel Cushing (b. 1875), son of James Brock Cushing, who was 16 years old — too young to lead a YMCA camping trip. Walter Edgar Cushing (b. 1870, Lemuel Jr.'s eldest son) was 22 and Harold Beveridge Cushing (b. 1873) was 19.",
+      "sources": ["src_cushing_genealogy"],
+      "confidence": "inferred",
+      "category": "people",
+      "entities": ["Lemuel Cushing (b. 1875)", "Walter Edgar Cushing", "Harold Beveridge Cushing"],
+      "date_ref": "1892",
+      "conflicts_with": [],
+      "added_version": "4.6",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_0483",
+      "claim": "Harold Beveridge Cushing (b. 1873) received B.A. from McGill in 1892, M.D. in 1898. Practising physician in Montreal, Associate in Medicine at Royal Victoria Hospital, Physician to Children's Hospital.",
+      "sources": ["src_cushing_genealogy"],
+      "confidence": "stated",
+      "category": "people",
+      "entities": ["Harold Beveridge Cushing", "McGill University"],
+      "date_ref": "1892",
+      "conflicts_with": [],
+      "added_version": "4.6",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_0484",
+      "claim": "James Stevenson Cushing (b. 2 Oct 1878), Lemuel Jr.'s youngest son, compiled and published the expanded 598-page edition of 'The Genealogy of the Cushing Family' (Montreal: Perrault Printing Co., 1905).",
+      "sources": ["src_cushing_genealogy"],
+      "confidence": "stated",
+      "category": "people",
+      "entities": ["James Stevenson Cushing"],
+      "date_ref": "1905",
+      "conflicts_with": [],
+      "added_version": "4.6",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_0485",
+      "claim": "The 1905 Cushing genealogy contains no mention of Lake Saint-Joseph, camping, YMCA activity, Howard, or Saint-Adolphe. The YMCA is mentioned only once, noting Lemuel Jr.'s presidency.",
+      "sources": ["src_cushing_genealogy"],
+      "confidence": "stated",
+      "category": "sources",
+      "entities": ["Cushing family", "YMCA"],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "4.6",
       "added_by": "ralph_loop"
     }
   ]

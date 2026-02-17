@@ -284,3 +284,10 @@
   - NEW FACT: f_0479 — YMCA purchased current site near Saint-Sauveur in 1910 (from Kanawana Facts sheet). Updated the-kanawana-site.md.
   - CONCLUSION: All three articles remain at draft status. R3-verified advancement blocked on archival verification for key claims. Corrections applied, unsourced material removed.
   - Priorities p_027, p_028, p_029 completed
+
+2026-02-17T02:00:00Z | RALPH R2 + VERIFY | cushing-family.md — Genealogy extraction and verification
+  - RETRIEVE: Mined full text of 1905 Cushing genealogy (46,415 lines, 598 pages). Searched for all Lemuel Cushings, YMCA mentions, Lake Saint-Joseph, camping references.
+  - ANALYZE: KEY FINDING — Lemuel Jr. had NO son named Lemuel. His four children: Walter Edgar (b. 1870), Harold Beveridge (b. 1873, physician), Florence Ethelwyn (b. 1874), James Stevenson (b. 1878, genealogy author). Only literal "Lemuel Cushing" in Montreal 1892 was 16-year-old son of James Brock. Genealogy contains zero mention of camping, YMCA activity, or Lake Saint-Joseph.
+  - PROCESS: Added f_0480-f_0485 (6 new facts). Updated article with genealogy findings. NEW HYPOTHESIS: W.E. Cushing (1943 historian) = Walter Edgar Cushing (b. 1870); Dr. Cushing (1946 polio advisor) = Harold Beveridge Cushing (b. 1873, Royal Victoria Hospital physician).
+  - VERIFY: All 11 article claims confirmed via DCB, Wikipedia, Beer Et Seq, Internet Archive. James Brock dates added (1839-1903). Open questions refined from 6 to 5.
+  - KB: 485 facts (v4.6), 69 sources. Article word count: 1200.

@@ -403,6 +403,51 @@
       "created_at": "2026-02-16T00:00:00Z",
       "status": "blocked",
       "notes": "Three confirmed Gazette articles: July 7, 1897 ('YMCA Summer Camp Kanawana'), July 11, 1918 ('At Camp Kanawana'), July 27, 1918 ('Youngsters Have Gay Time'). Partial extraction done for July 11, 1918 from search snippets. Full text extraction would yield significant new facts about early camp operations."
+    },
+    {
+      "priority_id": "p_032",
+      "rank": 32,
+      "type": "RESEARCH",
+      "description": "Advance camp-otoreke stub → draft — RALPH on Lake Saint-Joseph site, 1909-1982 operations, QAHN article deep dive",
+      "article_id": "camp-otoreke",
+      "blocking": false,
+      "assigned_weight": "P4",
+      "created_at": "2026-02-17T02:00:00Z",
+      "status": "pending"
+    },
+    {
+      "priority_id": "p_033",
+      "rank": 33,
+      "type": "WRITE",
+      "description": "Create stuart-mclean stub — counsellor 1969, asst. director 1974-75, CBC broadcaster, Vinyl Cafe, Stuart McLean Fund",
+      "article_id": "stuart-mclean",
+      "blocking": false,
+      "assigned_weight": "P4",
+      "created_at": "2026-02-17T02:00:00Z",
+      "status": "pending"
+    },
+    {
+      "priority_id": "p_034",
+      "rank": 34,
+      "type": "WRITE",
+      "description": "Create pip-alumni-award stub — est. 2007, Philip Caddell memorial, 12+ recipients, annual ceremony at camp",
+      "article_id": "pip-alumni-award",
+      "blocking": false,
+      "assigned_weight": "P4",
+      "created_at": "2026-02-17T02:00:00Z",
+      "status": "pending"
+    },
+    {
+      "priority_id": "p_035",
+      "rank": 35,
+      "type": "RESEARCH",
+      "description": "Integrate 56 uncited staff facts + 44 uncited programs facts into existing articles or spawn new stubs",
+      "article_id": null,
+      "blocking": false,
+      "assigned_weight": "P5",
+      "created_at": "2026-02-17T02:00:00Z",
+      "status": "pending",
+      "notes": "66% orphan fact rate (318/485). Staff category: 56 uncited (98%). Programs: 44 uncited (94%). LV games: 12 uncited (100%). Coeducation: 11 uncited (100%). Many belong in existing draft articles that need Drive sync."
     }
   ]
 }
