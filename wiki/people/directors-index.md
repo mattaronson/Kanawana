@@ -58,7 +58,7 @@ The "Pip" Alumni Award, named after Philip "Pip" Caddell (1913-2004, camper 1928
 | Stuart McLean | 1969-1975 | Author, CBC radio host (*Vinyl Cafe*) | — |
 | Terry "Aislin" Mosher | 1952-1953 | Montreal Gazette editorial cartoonist | 2015 |
 | Dr. James Orbinski | 1980s-1990s | Humanitarian physician, MSF president | 2024 |
-| Carol Skinner | 1990-1995 | ALS advocate | 2019 |
+| Carol Skinner | 1990-1995 | ALS advocate | 2016 |
 | Chris Adam | years unknown | Environmentalist, teacher | 2017 |
 | Marina Sharpe | years unknown | Refugee advocate | 2018 |
 

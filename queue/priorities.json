@@ -309,7 +309,9 @@
       "blocking": false,
       "assigned_weight": "P4",
       "created_at": "2026-02-14T03:30:00Z",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-02-17T00:00:00Z",
+      "result": "R1 RALPH completed. Web research on Non Nobis Solum motto, Pip Award (full recipients list), camp song, Capitaine role, ceremonies. 13 new facts (f_0466-f_0478). 8 new sources. Article advanced stub → draft (1800 words, 14 sources, 6 open questions). Key findings: motto transition from 'Each for all and all for each' to Latin; Pip Award established 2007 with 12+ recipients; camp song by Richard Kerr archived P145/SR0001."
     },
     {
       "priority_id": "p_025",
@@ -320,7 +322,9 @@
       "blocking": false,
       "assigned_weight": "P4",
       "created_at": "2026-02-14T03:30:00Z",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-02-17T00:00:00Z",
+      "result": "R1 RALPH completed. Web research on current facilities, Desjardins pavilion, Camp Weredale, Lake Wilson, geographic coordinates. Article advanced stub → draft (1600 words, 14 sources, 6 open questions). Key findings: full current facilities inventory (Katimavik, Rose des Vents, dining hall 300+ cap), Lake Wilson described, Camp Weredale founded 1934 now independent, Lac Kanawana at 319m elevation."
     },
     {
       "priority_id": "p_026",
@@ -331,7 +335,9 @@
       "blocking": false,
       "assigned_weight": "P5",
       "created_at": "2026-02-14T03:30:00Z",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-02-17T00:30:00Z",
+      "result": "Camp Otoreke stub created (450 words, 6 sources, 5 open questions). Covers 1894 founding as Camp Jubilee, 1909 rename, post-1910 adult/family use, 1982 closure. 8 KB facts cited. Relationship to Kanawana as outpost documented."
     },
     {
       "priority_id": "p_027",
@@ -342,7 +348,9 @@
       "blocking": false,
       "assigned_weight": "P5",
       "created_at": "2026-02-14T03:30:00Z",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-02-17T01:00:00Z",
+      "result": "V1 VERIFY pass. 1 correction: Carol Skinner Pip Award year fixed (2016, not 2019). Stuart McLean, Mosher, Orbinski, Cleghorn, Kate Taylor all confirmed via web. Langille 48th season math confirmed. Archival claims cannot be independently verified. Article remains draft."
     },
     {
       "priority_id": "p_028",
@@ -353,7 +361,9 @@
       "blocking": false,
       "assigned_weight": "P5",
       "created_at": "2026-02-14T03:30:00Z",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-02-17T01:00:00Z",
+      "result": "V1 VERIFY pass. 1 correction: Removed unsourced '80 campers, 7 weeks, $34, log cabin' claim (not in QAHN cache or KB). All other claims confirmed. Discovered f_0479: site purchased 1910 per Kanawana Facts sheet. Article remains draft."
     },
     {
       "priority_id": "p_029",
@@ -364,7 +374,9 @@
       "blocking": false,
       "assigned_weight": "P5",
       "created_at": "2026-02-14T03:30:00Z",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-02-17T01:00:00Z",
+      "result": "V1 VERIFY pass. Murray Ross confirmed (York founding president, Ryerson Press author). YMCA 1851 confirmed. Book absence from library catalogs confirmed. All archival claims from Concordia fonds — cannot independently verify. Article remains draft."
     },
     {
       "priority_id": "p_030",

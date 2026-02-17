@@ -253,3 +253,34 @@
   - LOOP: CONCLUDE — external search exhausted, BAnQ portals require direct browser access for internal search
   - PROCESS: Added 8 new source records (src_banq_advitam_519920, src_banq_advitam_315906, src_newspapers_gazette_1897, src_newspapers_gazette_1918, src_newspapers_gazette_1918b, src_lapresse_ymca_2018, src_banq_numerique_general). Added 7 new KB facts (f_0437-f_0443). Total: 56 sources, 443 facts (v4.3).
   - HYPOTHESIZE: BAnQ digitized newspaper archive (numerique.banq.qc.ca) is the highest-value unexplored resource. The Gazette, Montreal Star (1869-1979), Montreal Herald (1811-1957), La Presse (1884-present), Le Devoir (1910-present) all likely contain Kanawana mentions. Browser session needed. Historical postcards of Shawbridge/Saint-Sauveur area may include camp imagery. BAnQ received YMCA Montreal archives in 1985 — unclear if duplicate of or complementary to Concordia fonds.
+
+2026-02-17T00:00:00Z | RALPH R1 | traditions-and-culture.md — Formal RALPH loop (stub → draft)
+  - RETRIEVE: Web search for Non Nobis Solum motto, Pip Alumni Award recipients, "On My Way to Kanawana" song, Capitaine role in L&V Games, firelighting and fire of friendship ceremonies, camp tagline. Compiled 28 traditions-category KB facts.
+  - ANALYZE: Non Nobis Solum from Cicero's De Officiis 1:22 — replaced earlier motto "Each for all and all for each" (1922 brochure). Transition date unknown. Pip Award established 2007, named for Philip Caddell (1913-2004) and James Caddell (1973-2005). 12+ recipients identified including Kerr, Patten, McLean, Cleghorn, Mosher, Skinner, Adam, Sharpe, Orbinski. Camp song "On My Way to Kanawana" by Richard Itch Kerr, archived P145/SR0001. Capitaine role = highest staff honour. Film "The Experience That Lasts a Lifetime" by Cathy Reeves 1993/1996.
+  - LOOP: CONCLUDE — comprehensive traditions coverage established, ceremony details require archival access
+  - PROCESS: Added f_0466-f_0469 (traditions facts). Added 8 new sources (src_wikidata_lac_kanawana, src_leigh_evans_blog, src_ymca_pip_skinner, src_msn_kanawana_closed, src_ymca_pip_adam, src_ymca_pip_sharpe, src_weredale_camp, src_mysummercamps_kanawana). Article rewritten: 1800 words, 12 sections, 14 sources, 6 open questions. Advanced stub → draft.
+  - HYPOTHESIZE: Concordia 12B07 (Program) contains firelighting and fire of friendship ceremony texts. 12B04 (Communications) has full Green Triangle run 1932-1940. Pip Award selection criteria undocumented. Motto transition date may be in directors' reports.
+  - Priority p_024 completed
+
+2026-02-17T00:15:00Z | RALPH R1 | the-kanawana-site.md — Formal RALPH loop (stub → draft)
+  - RETRIEVE: Web search for current facilities, Desjardins pavilion, Camp Weredale, Lake Wilson, geographic coordinates, Page family, environmental significance. Checked YMCA Quebec facilities pages, MySummerCamps.com, Weredale Foundation website, Wikidata.
+  - ANALYZE: Full current facilities inventory documented (Katimavik gym, Rose des Vents Pavilion, dining hall 300+ capacity, arts pavilion, beach lodge, nature nook, gaga ball pit, low ropes, fire bowls). Lac Kanawana at 45°51'6.01"N, 74°11'40.99"W, 319m elevation. Camp Weredale founded 1934, now independent non-profit for vulnerable youth. Lake Wilson described as most beautiful part of site. Desjardins $1M donation confirmed (La Presse 2018) — pavilion construction details not found. Page family remains unidentified. 550 acres consistently cited.
+  - LOOP: CONCLUDE — modern facilities well-documented, historical questions require archival access
+  - PROCESS: Added f_0470-f_0478 (9 new facts). Article rewritten: 1600 words, 8 sections, 15 sources, 6 open questions. Advanced stub → draft. KB now at 478 facts, 69 sources (v4.5).
+  - HYPOTHESIZE: Concordia 12B03 (Land/Facilities) contains blueprints and maps. Page family likely in Saint-Sauveur land registry records. McMorris thesis map analysis (1928, 1962) would show site evolution.
+  - Priority p_025 completed
+
+2026-02-17T00:30:00Z | WRITE | camp-otoreke.md — Stub article created
+  - Compiled from 8 KB facts (f_0001-f_0003, f_0010, f_0127, f_0312, f_0331, f_0426)
+  - Covers: 1894 founding as Camp Jubilee, 1909 rename to Otoreke (Iroquoian "north"), post-1910 adult/family camp, 1982 closure, relationship to Kanawana as outpost/trip destination
+  - 450 words, 6 sources, 5 open questions
+  - Key gap: reason for 1982 closure, property disposition
+  - Priority p_026 completed
+
+2026-02-17T01:00:00Z | VERIFY V1 | directors-index.md, billy-ball.md, harold-cross.md — Batch VERIFY pass
+  - directors-index.md: 1 correction (Carol Skinner Pip Award year: 2019→2016). Stuart McLean dates confirmed (CBC, OurKids, Samaritan Mag). Mosher 1952-53 confirmed (YMCA Quebec). Orbinski 1980s-90s confirmed (YMCA Quebec). Cleghorn Royal Bank CEO confirmed (Wikipedia, Canadian Encyclopedia). Kate Taylor current director confirmed (YMCA Quebec, Montreal Families). Langille 48th season math confirmed (1941-1894+1=48). Philip Caddell 1913-2004 confirmed. Chris Adam 2017 confirmed. Archival claims (John Roy, Ereaux, Paterson, McEwen, MacDiarmid, Hanagan, Dawson) from brochures/McMorris/Concordia — cannot independently verify online.
+  - billy-ball.md: 1 correction: Removed unsourced claim "80 campers, 7 weeks, $34, two-story log cabin for 25 young men" — claim not in QAHN cache, Kanawana Facts, or any KB fact. All other claims confirmed: Ball 1894/20 boys, Cushing 1892, YMCA 1851, Budge bio 1851-1933, Otoreke 1909/1982, 1893 St. Agathe exploration.
+  - harold-cross.md: All claims verified against available sources. Murray Ross (1910-2000) York founding president confirmed. Ryerson Press publication confirmed. YMCA 1851 founding confirmed. Book absence from WorldCat/LAC/BAnQ confirmed (limited internal publication). Archival claims all from Concordia fonds 1B/14D — cannot independently verify online.
+  - NEW FACT: f_0479 — YMCA purchased current site near Saint-Sauveur in 1910 (from Kanawana Facts sheet). Updated the-kanawana-site.md.
+  - CONCLUSION: All three articles remain at draft status. R3-verified advancement blocked on archival verification for key claims. Corrections applied, unsourced material removed.
+  - Priorities p_027, p_028, p_029 completed
