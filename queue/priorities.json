@@ -47,11 +47,12 @@
       "type": "VERIFY",
       "description": "Advance programs-activities.md toward R3-verified (requires R2 completion)",
       "article_id": "programs-activities",
-      "blocking": true,
-      "blocking_reason": "Requires p_002 completion first",
+      "blocking": false,
       "assigned_weight": "P2",
       "created_at": "2026-02-10T00:00:00Z",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-02-19T00:00:00Z",
+      "result": "R3 VERIFY pass completed. Removed unsourced '85 campers' claim. Added 1918 activities (f_0437-f_0440), Woodcraft League charter and badge system (f_0304-f_0319), 1925 canoe trips and camp councils (f_0236, f_0207), section evolution (f_0214-f_0215, f_0140), canoe trip development (f_0240-f_0243), Rangers/DAFA (f_0465), contemporary details (f_0380, f_0464, f_0477, f_0379). 70 KB facts backlinked. Article advanced draft → R3-verified."
     },
     {
       "priority_id": "p_005",
