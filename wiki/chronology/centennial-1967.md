@@ -61,6 +61,7 @@ The McMorris thesis devotes its third chapter â€” "The National(ist) Vehicle" â€
 - [[context/coeducation-gender|Coeducation and Gender at Kanawana]]
 - [[context/canadian-camping-movement|The Canadian Camping Movement]]
 - [[chronology/founding-1894|Founding of Camp Kanawana (1894)]]
+- [[places/camp-otoreke|Camp Otoreke]]
 
 ## Sources
 

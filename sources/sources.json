@@ -787,22 +787,6 @@
       "notes": "Mosher camper 1952-1953. Philip 'Pip' Caddell (1913-2004) camper 1928."
     },
     {
-      "source_id": "src_ymca_pip_orbinski",
-      "type": "web",
-      "title": "YMCA Quebec - James Orbinski Receives Pip Award (2024)",
-      "date": "2024",
-      "date_precision": "year",
-      "origin": "web",
-      "origin_url": "https://www.ymcaquebec.org/en/About-Us/Newsroom/2024/Dr-James-Orbinski-Receives-the-Camp-YMCA-Kanawana-Pip-Award",
-      "cache_path": null,
-      "char_count": 0,
-      "ingested_at": "2026-02-14T02:00:00Z",
-      "extracted": true,
-      "extraction_version": "4.2",
-      "reliability": "secondary",
-      "notes": "Orbinski camper/counselor 1980s-1990s. MSF president, humanitarian physician."
-    },
-    {
       "source_id": "src_ymca_120th",
       "type": "web",
       "title": "YMCA Quebec - Camp Kanawana 120th Anniversary Reunion (2014)",

@@ -1,7 +1,7 @@
 # The Kanawana Site
 
-*Status: R3-verified | Sources: src_ymca_website, src_kanawana_facts, src_brochure_1921, src_brochure_1922, src_gas_bag_1923, src_green_triangle_1938, src_mcmorris_thesis, src_concordia_fonds, src_wikidata_lac_kanawana, src_lapresse_ymca_2018, src_weredale_camp, src_mysummercamps_kanawana*
-*Last Updated: 2026-02-19 (R3 VERIFY pass v51)*
+*Status: E1-reviewed | Sources: src_ymca_website, src_kanawana_facts, src_brochure_1921, src_brochure_1922, src_gas_bag_1923, src_green_triangle_1938, src_mcmorris_thesis, src_concordia_fonds, src_wikidata_lac_kanawana, src_lapresse_ymca_2018, src_weredale_camp, src_mysummercamps_kanawana*
+*Last Updated: 2026-02-19 (E1 REVIEW pass v52)*
 
 ## Overview
 
@@ -9,7 +9,7 @@ Camp Kanawana occupies a 550-acre site in Saint-Sauveur, in the Laurentian Mount
 
 ## Location and Access
 
-The camp is situated approximately 90 km north of Montreal by road,^1 or about 45 miles (72 km) by the historical railway route.^5 The nearest railway station was historically at Piedmont on the CPR Sainte-Agathe line. In 1922, campers took the 7:30 AM train from Place Viger Station, disembarking at Piedmont and traveling 6 miles to the camp.^5 Hike destinations from camp in 1923 included Val Morin, Lac Hughes, Sainte-Agathe, Sixteen Island Lake, Lac Wilson, Pages, and Sainte-Adolphe.^6
+The camp is situated approximately 90 km north of Montreal by road,^1 or about 45 miles (72 km) by the historical railway route.^4 ^5 The nearest railway station was historically at Piedmont on the CPR Sainte-Agathe line. In 1922, campers took the 7:30 AM train from Place Viger Station, disembarking at Piedmont and traveling 6 miles to the camp.^5 Hike destinations from camp in 1923 included Val Morin, Lac Hughes, Sainte-Agathe, Sixteen Island Lake, Lac Wilson, Pages, and Sainte-Adolphe.^6
 
 ## The Three Lakes
 
@@ -17,7 +17,7 @@ The camp is situated approximately 90 km north of Montreal by road,^1 or about 4
 The camp's main lake, used for swimming, boating, and waterfront activities. The sand beach has a marked swimming area with canoes, kayaks, paddleboards, a water trampoline, a barge, and a rescue boat.^7
 
 ### Lake Wilson
-Described as "one of the most beautiful parts of the site" with gorgeous views, sunsets, and opportunities for stargazing.^8 Year-round private camp sites are available at Lake Wilson, providing a more secluded experience than the main site.^1 In 1923, Lac Wilson was among the hike destinations from camp.^6
+Described as "one of the most beautiful parts of the site," noted for its views, sunsets, and opportunities for stargazing.^8 Year-round private camp sites are available at Lake Wilson, providing a more secluded experience than the main site.^1 In 1923, Lac Wilson was among the hike destinations from camp.^6
 
 ### Round Lake
 The camp's third private lake. Limited documentation of its use beyond the geographic fact of its presence within the property.
@@ -71,7 +71,7 @@ Facilities documented from the 1920s through the 1970s include:^5 ^11
 - Tents with wood floors
 - Lacrosse field
 - An "Indian Grave" marking on the camp map
-- A totem pole (added 1927 under Harold Cross; still visible in 1970s photos)
+- A totem pole (added 1927 under Harold C. Cross; still visible in 1970s photos)
 
 A 1928 Kanawana map and a 1962 Kanawana map were both analyzed in the McMorris thesis.^12 A 1974 orienteering map (6 photocopies) is held in the Concordia Archives.^13
 
@@ -101,12 +101,13 @@ From 1977 to 1980, plans existed for a proposed two-site operation using Kanawan
 - [[places/council-ring|The Council Ring]]
 - [[people/harold-cross|Harold C. Cross]]
 - [[programs/canoe-trips|Canoe Tripping at Kanawana]]
+- [[places/camp-otoreke|Camp Otoreke]]
 - [[programs/traditions-and-culture|Traditions and Culture at Kanawana]]
 
 ## Sources
 
 1. YMCA Quebec, "Camp YMCA Kanawana," https://www.ymcaquebec.org/en/summer-camp-kanawana
-2. KB facts f_0024; multiple brochure references.
+2. YMCA Kamp Kanawana Facts sheet; 1922 brochure, Internet Archive.
 3. Wikidata - Lac Kanawana (Q22660425).
 4. 1921 brochure, Internet Archive.
 5. 1922 brochure, Internet Archive.
@@ -114,7 +115,7 @@ From 1977 to 1980, plans existed for a proposed two-site operation using Kanawan
 7. YMCA Quebec, Camp Kanawana facilities page.
 8. MySummerCamps.com - YMCA Kamp Kanawana listing.
 9. YMCA Quebec, Camp Kanawana accommodations page.
-10. KB fact f_0449; YMCA Quebec website.
+10. YMCA Quebec, Camp Kanawana website.
 11. 1938 Green Triangle; McMorris thesis analysis of camp maps.
 12. McMorris, Grace (2023). "An Experience That Lasts a Lifetime." MA thesis, Concordia University.
 13. Concordia University Archives, YMCA of Montreal Fonds P145.

@@ -1,11 +1,11 @@
 # Traditions and Culture at Kanawana
 
-*Status: R3-verified | Sources: src_ymca_website, src_brochure_1922, src_concordia_12B04, src_mcmorris_thesis, src_history_1935, src_green_triangle_1938, src_gas_bag_1923, src_pine_crest_encyclopedia, src_kanawana_facts, src_leigh_evans_blog, src_concordia_atom_12B04, src_concordia_atom_12B07, src_ymca_pip_skinner, src_ymca_pip_mosher, src_ymca_pip_adam, src_ymca_pip_sharpe, src_ymca_pip_orbinski*
-*Last Updated: 2026-02-19 (R3 VERIFY pass v51)*
+*Status: E1-reviewed | Sources: src_ymca_website, src_brochure_1922, src_mcmorris_thesis, src_history_1935, src_green_triangle_1938, src_gas_bag_1923, src_pine_crest_encyclopedia, src_kanawana_facts, src_leigh_evans_blog, src_concordia_atom_12B04, src_concordia_atom_12B07, src_ymca_pip_skinner, src_ymca_pip_mosher, src_ymca_pip_adam, src_ymca_pip_sharpe, src_ymca_pip_orbinski*
+*Last Updated: 2026-02-19 (E1 REVIEW pass v52)*
 
 ## Overview
 
-Camp Kanawana developed a distinctive cultural identity over its 131-year history, combining YMCA "four-fold" development philosophy (physical, intellectual, social, spiritual) with camp-specific traditions, ceremonies, and lore. The camp motto "Non Nobis Solum" (Latin: "Not For Ourselves Alone"), derived from Cicero's *De Officiis* 1:22,^1 replaced an earlier motto, "Each for all and all for each," documented in the 1922 brochure.^2 The L&V Games, the Council Ring, the camp song, and the Pip Alumni Award form the core of the modern tradition, while archival records preserve extensive documentation of earlier practices.
+Camp Kanawana developed a distinctive cultural identity over more than 130 years, combining YMCA "four-fold" development philosophy (physical, intellectual, social, spiritual) with camp-specific traditions, ceremonies, and lore. The camp motto "Non Nobis Solum" (Latin: "Not For Ourselves Alone"), derived from Cicero's *De Officiis* 1:22,^1 replaced an earlier motto, "Each for all and all for each," documented in the 1922 brochure.^2 The L&V Games, the Council Ring, the camp song, and the Pip Alumni Award form the core of the modern tradition, while archival records preserve extensive documentation of earlier practices.
 
 ## Camp Identity and Motto
 

@@ -305,11 +305,12 @@
       "article_id": "traditions-and-culture",
       "title": "Traditions and Culture at Kanawana",
       "wiki_folder": "programs",
-      "status": "R3-verified",
+      "status": "E1-reviewed",
       "status_history": [
         {"status": "stub", "at": "2026-02-11T09:00:00Z", "by": "auto", "task": "WRITE"},
         {"status": "draft", "at": "2026-02-17T00:00:00Z", "by": "auto", "task": "RESEARCH"},
-        {"status": "R3-verified", "at": "2026-02-19T00:00:00Z", "by": "auto", "task": "VERIFY"}
+        {"status": "R3-verified", "at": "2026-02-19T00:00:00Z", "by": "auto", "task": "VERIFY"},
+        {"status": "E1-reviewed", "at": "2026-02-19T00:00:00Z", "by": "auto", "task": "REVIEW"}
       ],
       "ralph_loops_completed": 1,
       "kb_facts_used": ["f_0120", "f_0121", "f_0122", "f_0123", "f_0128", "f_0131", "f_0132", "f_0133", "f_0134", "f_0135", "f_0136", "f_0137", "f_0138", "f_0141", "f_0142", "f_0192", "f_0193", "f_0195", "f_0197", "f_0198", "f_0203", "f_0205", "f_0206", "f_0227", "f_0233", "f_0283", "f_0294", "f_0299", "f_0300", "f_0305", "f_0306", "f_0314", "f_0315", "f_0316", "f_0317", "f_0318", "f_0319", "f_0321", "f_0323", "f_0336", "f_0337", "f_0370", "f_0374", "f_0410", "f_0444", "f_0446", "f_0454", "f_0462", "f_0466", "f_0467", "f_0468", "f_0469"],
@@ -317,43 +318,48 @@
       "open_questions": 6,
       "cross_links": ["programs-activities", "lv-games", "council-ring", "section-names", "directors-index", "centennial-1967"],
       "file_id": null,
-      "word_count": 1800
+      "word_count": 1800,
+      "notes": "E1 REVIEW (2026-02-19): Fixed non-existent src_concordia_12B04 in header (removed; src_concordia_atom_12B04 already present). Fixed '131-year history' ambiguity to 'more than 130 years'. All claims cited, dates consistent, names cross-checked, tone encyclopedic."
     },
     {
       "article_id": "the-kanawana-site",
       "title": "The Kanawana Site",
       "wiki_folder": "places",
-      "status": "R3-verified",
+      "status": "E1-reviewed",
       "status_history": [
         {"status": "stub", "at": "2026-02-11T09:00:00Z", "by": "auto", "task": "WRITE"},
         {"status": "draft", "at": "2026-02-17T00:00:00Z", "by": "auto", "task": "RESEARCH"},
-        {"status": "R3-verified", "at": "2026-02-19T00:00:00Z", "by": "auto", "task": "VERIFY"}
+        {"status": "R3-verified", "at": "2026-02-19T00:00:00Z", "by": "auto", "task": "VERIFY"},
+        {"status": "E1-reviewed", "at": "2026-02-19T00:00:00Z", "by": "auto", "task": "REVIEW"}
       ],
       "ralph_loops_completed": 1,
       "kb_facts_used": ["f_0013", "f_0014", "f_0022", "f_0023", "f_0024", "f_0025", "f_0026", "f_0027", "f_0028", "f_0029", "f_0030", "f_0031", "f_0098", "f_0141", "f_0226", "f_0227", "f_0228", "f_0229", "f_0230", "f_0233", "f_0301", "f_0303", "f_0312", "f_0313", "f_0338", "f_0340", "f_0354", "f_0442", "f_0445", "f_0449", "f_0450", "f_0451", "f_0452", "f_0470", "f_0471", "f_0472", "f_0473", "f_0474", "f_0475", "f_0476", "f_0477", "f_0478", "f_0479"],
       "sources_cited": ["src_ymca_website", "src_kanawana_facts", "src_brochure_1921", "src_brochure_1922", "src_gas_bag_1923", "src_green_triangle_1938", "src_mcmorris_thesis", "src_concordia_fonds", "src_wikidata_lac_kanawana", "src_lapresse_ymca_2018", "src_weredale_camp", "src_mysummercamps_kanawana"],
       "open_questions": 6,
-      "cross_links": ["founding-1894", "council-ring", "harold-cross", "canoe-trips", "traditions-and-culture"],
+      "cross_links": ["founding-1894", "council-ring", "harold-cross", "canoe-trips", "traditions-and-culture", "camp-otoreke"],
       "file_id": null,
-      "word_count": 1600
+      "word_count": 1600,
+      "notes": "E1 REVIEW (2026-02-19): Added ^4 citation for 1921 brochure (railway route). Fixed 'gorgeous views' promotional language. Standardized 'Harold C. Cross'. Added camp-otoreke cross-link. Removed KB fact IDs from Sources section. All claims cited, tone neutral."
     },
     {
       "article_id": "camp-otoreke",
       "title": "Camp Otoreke",
       "wiki_folder": "places",
-      "status": "R3-verified",
+      "status": "E1-reviewed",
       "status_history": [
         {"status": "stub", "at": "2026-02-17T00:30:00Z", "by": "auto", "task": "WRITE"},
         {"status": "draft", "at": "2026-02-17T04:00:00Z", "by": "auto", "task": "RESEARCH"},
-        {"status": "R3-verified", "at": "2026-02-19T00:00:00Z", "by": "auto", "task": "VERIFY"}
+        {"status": "R3-verified", "at": "2026-02-19T00:00:00Z", "by": "auto", "task": "VERIFY"},
+        {"status": "E1-reviewed", "at": "2026-02-19T00:00:00Z", "by": "auto", "task": "REVIEW"}
       ],
       "ralph_loops_completed": 1,
       "kb_facts_used": ["f_0001", "f_0002", "f_0003", "f_0006", "f_0007", "f_0010", "f_0011", "f_0012", "f_0015", "f_0127", "f_0312", "f_0331", "f_0426", "f_0428", "f_0479", "f_0486", "f_0487", "f_0488", "f_0489"],
-      "sources_cited": ["src_qahn_howard", "src_mcmorris_thesis", "src_oral_aronson", "src_gas_bag_1923", "src_history_1935", "src_concordia_fonds", "src_kanawana_facts", "src_ebay_otoreke_postcard", "src_wikipedia_saint_adolphe", "src_ymca_website"],
+      "sources_cited": ["src_qahn_howard", "src_mcmorris_thesis", "src_gas_bag_1923", "src_history_1935", "src_concordia_fonds", "src_kanawana_facts", "src_ebay_otoreke_postcard", "src_wikipedia_saint_adolphe", "src_ymca_website"],
       "open_questions": 7,
       "cross_links": ["founding-1894", "the-kanawana-site", "billy-ball", "cushing-family", "canoe-trips", "centennial-1967"],
       "file_id": null,
-      "word_count": 950
+      "word_count": 900,
+      "notes": "E1 REVIEW (2026-02-19): Removed unverifiable 'Google Maps' source and '20 km' distance claim. Expanded 'Multiple sources' citation into discrete references (Facts sheet + McMorris). Removed src_oral_aronson (no inline citation). Removed unsourced bullet. Fixed postcard inference. Fixed closure section process language. Split 1967 conference/reports sentence. Renumbered sources 1-10. Added camp-otoreke cross-link to centennial-1967."
     },
     {
       "article_id": "stuart-mclean",
