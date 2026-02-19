@@ -471,6 +471,30 @@
       "completed_at": "2026-02-18T01:00:00Z",
       "result": "Backlinked 115 orphan facts across 7 E1 articles (founding-1894: 35, wartime-kanawana: 24, section-names: 13, lv-games: 12, canoe-trips: 12, da-budge: 11, council-ring: 8) + 22 facts for coeducation-gender. All E1 articles now have populated kb_facts_used arrays. Migration gap resolved.",
       "notes": "Remaining orphans: programs-activities facts (P4 VERIFY pending), people category stubs, programs category stubs."
+    },
+    {
+      "priority_id": "p_037",
+      "rank": 37,
+      "type": "RESEARCH",
+      "description": "Formal RALPH R1 on stuart-mclean — web research on Camp Kanawana years, biography, fund, Pip Award",
+      "article_id": "stuart-mclean",
+      "blocking": false,
+      "assigned_weight": "P3",
+      "created_at": "2026-02-19T00:00:00Z",
+      "status": "completed",
+      "completed_at": "2026-02-19T12:00:00Z",
+      "result": "Formal RALPH R1 completed. 26 new facts (f_0490-f_0515). 10 new sources. Pip Award year resolved (2009). Full biography and career timeline compiled. Camp speech quotes extracted. Ready for WRITE to advance stub → draft."
+    },
+    {
+      "priority_id": "p_038",
+      "rank": 38,
+      "type": "WRITE",
+      "description": "Advance stuart-mclean stub → draft — expand article with full biography, camp years detail, career, awards, fund, legacy",
+      "article_id": "stuart-mclean",
+      "blocking": false,
+      "assigned_weight": "P3",
+      "created_at": "2026-02-19T12:00:00Z",
+      "status": "pending"
     }
   ]
 }

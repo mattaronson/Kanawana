@@ -394,3 +394,46 @@
   - E1-reviewed articles all have empty kb_facts_used from v48/v49 migration — not true orphans, just unbacklinked
   - CONCLUSION: P36 blocked. Most remaining orphans require Drive article access or are false positives from migration gap. Actionable subset: Green Triangle stub, people stubs.
   - Priority p_036 marked blocked
+
+2026-02-19T12:00:00Z | RALPH R1 | stuart-mclean — Formal RALPH loop (R1 Retrieve-Analyze)
+  - RETRIEVE: 11 web searches executed across multiple query strategies:
+    * "Stuart McLean" "Camp Kanawana" counsellor director
+    * "Stuart McLean" "Vinyl Cafe" camp/YMCA/Kanawana
+    * Stuart McLean biography born 1948 died 2017 career
+    * "Stuart McLean Fund" donations
+    * Stuart McLean honorary degrees awards Order of Canada
+    * "Pip Alumni Award" Stuart McLean Kanawana
+    * Stuart McLean Vinyl Cafe episode camp/Kanawana story
+    * Stuart McLean education Sir George Williams / Lower Canada College
+    * Stuart McLean "senior boys" "variety show" counsellor 1969
+    * Stuart McLean honorary colonel 8 Wing Trenton
+    * Stuart McLean McMaster archives fonds
+    * Stuart McLean Dawson College / Nick Auf der Maur
+    * Pip Award Kanawana recipients list by year
+    * Stuart McLean Montreal West family
+  - Sources consulted: 15+ web pages (direct fetch blocked by proxy; search summaries used)
+  - Dead ends: No specific Vinyl Cafe episode about camp/Kanawana found in story lists. Direct page fetches all returned 403.
+  - ANALYZE: 26 new facts extracted (f_0490-f_0515). 10 new sources registered.
+  - Key discovery: Pip Award year = 2009 (resolved from recipient sequence in YMCA press releases)
+  - Key discovery: Full name Andrew Stuart McLean, OC. Australian immigrant parents. Lower Canada College → Sir George Williams (BA 1971).
+  - Key discovery: Camp Kanawana speech to YMCA directors — "wholly unsuccessful boy" / "packsack full of fears" / "camp happened"
+  - Key discovery: Senior boys' section counsellor, staged variety shows. Friend from 1969 confirmed (Westmount Mag comment).
+  - Key discovery: Camp director who worked with McLean 1974-75 confirmed via comment (Westmount Mag).
+  - Key discovery: Dawson College → Nick Auf der Maur campaign → CBC Radio (1974).
+  - CONFIRMED: Birth Apr 19 1948, death Feb 15 2017, counsellor 1969-73, asst director 1974-75, 2005 return visit, fund $150K/yr.
+  - CORRECTIONS: None to existing stub claims.
+  - OPEN QUESTIONS remaining: (1) Identity of camp director McLean worked under 1974-75; (2) specific Vinyl Cafe episodes with camp content; (3) speech date/venue for YMCA camp directors address; (4) year McLean first visited friend at camp before being hired; (5) any camp photos in McMaster fonds; (6) fund total raised since inception.
+  - Article status unchanged (stub). Ready for WRITE task to advance stub → draft.
+  - Priority p_033 RALPH R1 completed.
+
+2026-02-19T12:00:00Z | RALPH R1 | pip-alumni-award — Formal RALPH loop (R1 Retrieve-Analyze)
+  - RETRIEVE: 25+ web searches across YMCA Quebec newsroom, recipient biographies, Andrew Caddell bio, James Caddell CMAT memorial
+  - ANALYZE: All recipient years 2007-2018 resolved from YMCA Quebec pages + Andrew Caddell LinkedIn. Key findings: James Caddell full biography from CMAT/Globe and Mail obituary (Sandra Martin). Andrew Caddell profiled from Atwater Library bio (Aug 2024). Selection criteria precise wording found (Non Nobis Solum connection). Ceremony format: summer + fall alumni weekend. 2010 confirmed as gap year. 2019 recipient truncated ("Dr."). Sam Lazarus died of cerebral malaria in Ghana c.2004, Sam Jam raised ~$230K. Richard Patten (1942-2021) MPP, CHEO CEO. John Cleghorn RBC CEO.
+  - 7 new sources registered. Ready for WRITE task.
+  - Priority p_034 RALPH R1 completed.
+
+2026-02-19T12:30:00Z | WRITE | stuart-mclean.md, pip-alumni-award.md — Stub → Draft advancement
+  - stuart-mclean.md: Expanded from 400 to 1400 words. 9 sections, 13 sources, 5 open questions. Full biography: early life, camp years (1969-75), CBC career, Vinyl Cafe, honours, 2005 return, Stuart McLean Fund, death/legacy.
+  - pip-alumni-award.md: Expanded from 550 to 1500 words. 8 sections, 11 sources, 6 open questions. Full recipient table with years, Caddell family biographies, selection criteria, ceremony format, Andrew Caddell profile, Sam Lazarus legacy.
+  - Both articles advanced stub → draft.
+  - Article totals: 18 E1-reviewed, 0 R3-verified, 4 draft (sources-index, ralph-dawson, stuart-mclean, pip-alumni-award), 0 stubs
