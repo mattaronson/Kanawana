@@ -1,15 +1,15 @@
 # The Kanawana Site
 
-*Status: draft | Sources: 14*
-*Last Updated: 2026-02-17*
+*Status: R3-verified | Sources: src_ymca_website, src_kanawana_facts, src_brochure_1921, src_brochure_1922, src_gas_bag_1923, src_green_triangle_1938, src_mcmorris_thesis, src_concordia_fonds, src_wikidata_lac_kanawana, src_lapresse_ymca_2018, src_weredale_camp, src_mysummercamps_kanawana*
+*Last Updated: 2026-02-19 (R3 VERIFY pass v51)*
 
 ## Overview
 
-Camp Kanawana occupies a 550-acre site in Saint-Sauveur, in the Laurentian Mountains approximately 70 km north of Montreal.^1 The camp has three private lakes — Lake Kanawana, Lake Wilson, and Round Lake — connected by a dam between Lake Kanawana and Lake Wilson that is ceremonially opened at the end of each season.^2 Lac Kanawana is located at coordinates 45°51'6.01"N, 74°11'40.99"W, at an elevation of 319 metres above sea level.^3 The YMCA purchased the current site near Saint-Sauveur in 1910,^4 acquiring it from the Page family after Camp Jubilee had operated at Lake Saint-Joseph since 1894.
+Camp Kanawana occupies a 550-acre site in Saint-Sauveur, in the Laurentian Mountains approximately 90 km north of Montreal.^1 The camp has three private lakes — Lake Kanawana, Lake Wilson, and Round Lake — connected by a dam between Lake Kanawana and Lake Wilson that is ceremonially opened at the end of each season.^2 Lac Kanawana is located at coordinates 45°51'6.01"N, 74°11'40.99"W, at an elevation of 319 metres above sea level.^3 The YMCA purchased the current site near Saint-Sauveur in 1910,^1 acquiring it from the Page family after Camp Jubilee had operated at Lake Saint-Joseph since 1894.
 
 ## Location and Access
 
-The camp is situated approximately 45 minutes north of Montreal by road, or about 45 miles (72 km) by the historical railway route.^4 The nearest railway station was historically at Piedmont on the CPR Sainte-Agathe line. In 1922, campers took the 7:30 AM train from Place Viger Station, disembarking at Piedmont and traveling 6 miles to the camp.^5 Hike destinations from camp in the 1920s included Val Morin, Lac Hughes, Sainte-Agathe, Sixteen Island Lake, Lac Wilson, Pages, and Sainte-Adolphe.^6
+The camp is situated approximately 90 km north of Montreal by road,^1 or about 45 miles (72 km) by the historical railway route.^5 The nearest railway station was historically at Piedmont on the CPR Sainte-Agathe line. In 1922, campers took the 7:30 AM train from Place Viger Station, disembarking at Piedmont and traveling 6 miles to the camp.^5 Hike destinations from camp in 1923 included Val Morin, Lac Hughes, Sainte-Agathe, Sixteen Island Lake, Lac Wilson, Pages, and Sainte-Adolphe.^6
 
 ## The Three Lakes
 
@@ -17,7 +17,7 @@ The camp is situated approximately 45 minutes north of Montreal by road, or abou
 The camp's main lake, used for swimming, boating, and waterfront activities. The sand beach has a marked swimming area with canoes, kayaks, paddleboards, a water trampoline, a barge, and a rescue boat.^7
 
 ### Lake Wilson
-Described as "one of the most beautiful parts of the site" with gorgeous views, sunsets, and opportunities for stargazing.^8 Year-round private camp sites are available at Lake Wilson, providing a more secluded experience than the main site.^1 In 1923, Lake Wilson was an outpost camp destination.^6
+Described as "one of the most beautiful parts of the site" with gorgeous views, sunsets, and opportunities for stargazing.^8 Year-round private camp sites are available at Lake Wilson, providing a more secluded experience than the main site.^1 In 1923, Lac Wilson was among the hike destinations from camp.^6
 
 ### Round Lake
 The camp's third private lake. Limited documentation of its use beyond the geographic fact of its presence within the property.
@@ -67,6 +67,8 @@ Facilities documented from the 1920s through the 1970s include:^5 ^11
 - Chapel (outdoor, with an organized choir documented in 1938)
 - Council Ring
 - Icehouse
+- Golf course
+- Tents with wood floors
 - Lacrosse field
 - An "Indian Grave" marking on the camp map
 - A totem pole (added 1927 under Harold Cross; still visible in 1970s photos)

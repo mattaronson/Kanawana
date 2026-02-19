@@ -1,7 +1,7 @@
 # Traditions and Culture at Kanawana
 
-*Status: draft | Sources: 14*
-*Last Updated: 2026-02-17*
+*Status: R3-verified | Sources: src_ymca_website, src_brochure_1922, src_concordia_12B04, src_mcmorris_thesis, src_history_1935, src_green_triangle_1938, src_gas_bag_1923, src_pine_crest_encyclopedia, src_kanawana_facts, src_leigh_evans_blog, src_concordia_atom_12B04, src_concordia_atom_12B07, src_ymca_pip_skinner, src_ymca_pip_mosher, src_ymca_pip_adam, src_ymca_pip_sharpe, src_ymca_pip_orbinski*
+*Last Updated: 2026-02-19 (R3 VERIFY pass v51)*
 
 ## Overview
 
@@ -51,13 +51,13 @@ Documented ceremonies from the archives include:^10 ^11
 - **Fire of Friendship / Kanawana Show** (1939): A combined ceremony and performance event.
 - **KK pageant scripts** (1931–1932): Theatrical performances for campers and visitors.
 - **Council Ring closing**: A season-end gathering where a record of the season's activities was buried, followed by a "Leaders Grand Feed."^7
-- **Dam release**: The dam between Lake Kanawana and Lake Wilson was opened at the end of the 1935 season as a ceremonial close.^5
+- **Dam release**: The dam was opened at the end of the 1935 season as a ceremonial close.^5
 
 End-of-season traditions included all-season camper banquets (1938 and 1939), Best Camper Shields, and time capsule burials.^5 ^11
 
 ## The Kanawana Song
 
-"On My Way to Kanawana" was composed and performed by Richard "Itch" Kerr.^3 The song is archived at Concordia University as catalogue item P145/SR0001 and accompanies the 1993/1996 Cathy Reeves film.^3 It was sung by a busload of Kanawana campers who greeted the CCA Centenary Journey paddlers upon their arrival in Ottawa in 1967.^12 Camp song books from 1941–1945 and song sheets/skits from 1925 and 1927 are preserved in the Concordia Archives.^11
+"On My Way to Kanawana" was composed and performed by Richard "Itche" Kerr.^3 The song is archived at Concordia University as catalogue item P145/SR0001 and accompanies the 1993/1996 Cathy Reeves film.^3 It was sung by a busload of Kanawana campers who greeted the CCA Centenary Journey paddlers upon their arrival in Ottawa in 1967.^12 Camp song books from 1941–1945 and song sheets/skits from 1925 and 1927 are preserved in the Concordia Archives.^11
 
 ## Honour System and Badges
 
@@ -73,7 +73,7 @@ The 1922 brochure documented a 32-subject Honour System, with the Large K as the
 
 The Pip Alumni Award was established in 2007 in memory of Philip "Pip" Caddell (1913–2004), a Kanawana camper in 1928, WWII Canadian Army officer, and community volunteer, and his grandson James Caddell (1973–2005), a camper and counsellor from 1983 to 1991 who became a UN Peacekeeper and public servant before dying of altitude sickness in Bolivia.^13 The award recognizes alumni who embody camp values.
 
-Known recipients include: Richard "Itche" Kerr (composer of the camp song), Richard Patten (former Ontario cabinet minister), Stuart McLean (CBC broadcaster), Bruce Netherwood, John Cleghorn (former CEO of the Royal Bank), the late Sam Lazarus and family, Jeniene Philips Birks, Terry "Aislin" Mosher (2015), Carol Skinner (2016), Chris Adam (2017), Dr. Marina Sharpe (2018), and Dr. James Orbinski (2024).^13 ^14
+Known recipients include: Richard "Itche" Kerr (composer of the camp song), Richard Patten (former Ontario cabinet minister), Stuart McLean (CBC broadcaster), Bruce Netherwood, John Cleghorn (former CEO of the Royal Bank), the late Sam Lazarus and family, Jeniene Philips Birks, Terry "Aislin" Mosher (2015), Carol Skinner (2016), Chris Adam (2017), Marina Sharpe (2018), and Dr. James Orbinski (2024).^13 ^14
 
 ## Open Questions
 
@@ -106,6 +106,6 @@ Known recipients include: Richard "Itche" Kerr (composer of the camp song), Rich
 9. Blog post on Kanawana L&V Games Capitaine role.
 10. Concordia University Archives, YMCA of Montreal Fonds P145/12B04 (Communications).
 11. Concordia University Archives, YMCA of Montreal Fonds P145/12B07 (Program).
-12. McMorris thesis; KB fact f_0301.
+12. McMorris thesis (Ch. 3).
 13. YMCA Quebec, Carol Skinner Pip Award (2016); Pip Award establishment details.
 14. YMCA Quebec Pip Award press releases: Mosher (2015), Adam (2017), Sharpe (2018), Orbinski (2024).

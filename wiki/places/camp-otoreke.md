@@ -1,11 +1,11 @@
 # Camp Otoreke
 
-*Status: draft | Sources: 10*
-*Last Updated: 2026-02-17*
+*Status: R3-verified | Sources: src_qahn_howard, src_mcmorris_thesis, src_oral_aronson, src_gas_bag_1923, src_history_1935, src_concordia_fonds, src_kanawana_facts, src_ebay_otoreke_postcard, src_wikipedia_saint_adolphe, src_ymca_website*
+*Last Updated: 2026-02-19 (R3 VERIFY pass v51)*
 
 ## Overview
 
-Camp Otoreke was the YMCA of Montreal's original camping site, located on islands in Lake Saint-Joseph in Saint-Adolphe-d'Howard, Quebec. Originally established as Camp Jubilee in 1894, it was renamed Camp Otoreke (Iroquoian for "north") in 1909 when the main YMCA boys' camp relocated to the new Kanawana site in Saint-Sauveur.^1 Camp Otoreke continued operating for more than seven decades afterward, evolving from a boys' camp into an adult and family operation before closing in 1982 after nearly 90 years of continuous use.^1
+Camp Otoreke was the YMCA of Montreal's original camping site, located on islands in Lake Saint-Joseph in Saint-Adolphe-d'Howard, Quebec. Originally established as Camp Jubilee in 1894, it was renamed Camp Otoreke (Iroquoian for "north") in 1909, and the main YMCA boys' camp relocated to the new Kanawana site in Saint-Sauveur the following year.^1 Camp Otoreke continued operating for more than seven decades afterward, evolving from a boys' camp into an adult and family operation before closing in 1982 after nearly 90 years of continuous use.^1
 
 ## Site and Geography
 
@@ -15,7 +15,7 @@ Saint-Adolphe-d'Howard is a municipality in the Laurentians region of Quebec, in
 
 ## Founding as Camp Jubilee (1894)
 
-In 1892, Lemuel Cushing of the Montreal YMCA inaugurated the camping program by bringing a group of boys to Lake Saint-Joseph.^1 ^5 In 1893, YMCA staff conducted an exploration trip to the area, described as "the first Montreal YMCA venture to explore the country round about St. Agathe with the view of securing a lake on which to establish a Summer Camp."^6 Camp Jubilee was formally established in 1894 with an initial enrollment of 20 campers.^7 The camp was named to commemorate the YMCA's 50th anniversary (founded 1844).^8
+In 1892, Lemuel Cushing of the Montreal YMCA inaugurated the camping program by bringing a group of boys to Lake Saint-Joseph.^1 ^5 In 1893, YMCA staff conducted an exploration trip to the area, described as "the first Montreal YMCA venture to explore the country round about St. Agathe with the view of securing a lake on which to establish a Summer Camp."^6 Billy Ball formally established Camp Jubilee in summer 1894, bringing 20 campers to the Lake Saint-Joseph site.^5 ^7 The camp was named to commemorate the YMCA's 50th anniversary (founded 1844).^8
 
 ## Transition to Camp Otoreke (1909-1910)
 
@@ -23,7 +23,7 @@ In 1909, Camp Jubilee was renamed Camp Otoreke. The following year, in 1910, the
 
 ## Post-War and Later Decades
 
-Camp Otoreke remained an active YMCA facility through the mid-twentieth century. A 1944 photograph of the camp is held by QAHN.^10 In 1967, Camp Otoreke hosted a Young Adult Centennial Conference, and planning and development reports were prepared for the site.^6
+Camp Otoreke remained an active YMCA facility through the mid-twentieth century. A 1944 photograph of the camp is held by the Quebec Anglophone Heritage Network (QAHN).^10 In 1967, Camp Otoreke hosted a Young Adult Centennial Conference, and planning and development reports were prepared for the site.^6
 
 The Concordia Archives hold dedicated Camp Otoreke records in sub-series P0145/12C, including situation reports (1977-1980) that profiled Otoreke alongside Kanawana and Camp Weredale as part of the YMCA's camping operations.^6
 
@@ -34,7 +34,7 @@ Camp Otoreke remained connected to Kanawana as an outpost and trip destination t
 - In 1923, Otoreke served as the senior camp outpost, alongside Lake Marois.^11
 - In 1935, a four-day trip to Otoreke was made from Kanawana.^12
 - Otoreke was a regular canoe trip destination from Kanawana.^12
-- The distance between the two sites (approximately 20 km) made Otoreke an ideal multi-day expedition destination for Kanawana campers.
+- Otoreke's location on Lake Saint-Joseph made it a recurring destination for multi-day canoe expeditions from Kanawana.
 
 ## Closure
 
@@ -48,6 +48,7 @@ Camp Otoreke closed in 1982 after nearly 90 years of continuous operation.^1 The
 4. [Important] What was discussed in the 1967 Planning and Development reports? Were there expansion plans?
 5. [Nice-to-have] What can be learned from the 1944 QAHN photograph about camp facilities?
 6. [Nice-to-have] Is the postcard of the camp landing datable? It would show the physical infrastructure.
+7. [Important] W.E. Cushing wrote "Historical sketches-Lake St. Joseph" in 1943 (Concordia Archives, fonds 12A). What does this document reveal about the original Camp Jubilee/Otoreke site?
 
 ## Related Articles
 
