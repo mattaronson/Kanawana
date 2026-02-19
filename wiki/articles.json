@@ -118,12 +118,13 @@
       "article_id": "coeducation-gender",
       "title": "Coeducation and Gender at Kanawana",
       "wiki_folder": "context",
-      "status": "R3-verified",
+      "status": "E1-reviewed",
       "status_history": [
         {"status": "stub", "at": "2026-02-09T00:00:00Z", "by": "auto", "task": "RESEARCH"},
         {"status": "draft", "at": "2026-02-10T00:00:00Z", "by": "auto", "task": "WRITE"},
         {"status": "draft", "at": "2026-02-10T12:00:00Z", "by": "auto", "task": "RESEARCH"},
-        {"status": "R3-verified", "at": "2026-02-18T00:00:00Z", "by": "auto", "task": "VERIFY"}
+        {"status": "R3-verified", "at": "2026-02-18T00:00:00Z", "by": "auto", "task": "VERIFY"},
+        {"status": "E1-reviewed", "at": "2026-02-19T00:00:00Z", "by": "auto", "task": "REVIEW"}
       ],
       "ralph_loops_completed": 2,
       "kb_facts_used": ["f_0200", "f_0201", "f_0202", "f_0216", "f_0217", "f_0218", "f_0219", "f_0220", "f_0221", "f_0322", "f_0324", "f_0330", "f_0346", "f_0366", "f_0367", "f_0368", "f_0369", "f_0408", "f_0413", "f_0426", "f_0453", "f_0470"],
@@ -132,18 +133,19 @@
       "cross_links": ["section-names", "lv-games", "canoe-trips", "camp-otoreke", "founding-1894"],
       "file_id": "1KW2yhoZ-wr_71sTPbLJ3v81KW4ZEJ_p-",
       "word_count": 2100,
-      "notes": "R3 VERIFY (2026-02-18): Corrected Otoreke/Weredale gender mischaracterization, removed unsupported 'Doers and Darers' section names, clarified Pathfinder name origin (1959, boys-only). Added 6 orphan facts."
+      "notes": "E1 REVIEW (2026-02-19): Fixed source header (src_ymca_facts→src_kanawana_facts), added Spectrum URL for McMorris thesis, added IA URLs for Facts sheet and Gas Bag. All claims cited, dates consistent, names cross-checked, tone encyclopedic. Advanced R3-verified → E1-reviewed."
     },
     {
       "article_id": "programs-activities",
       "title": "Programs and Activities at Kanawana",
       "wiki_folder": "programs",
-      "status": "R3-verified",
+      "status": "E1-reviewed",
       "status_history": [
         {"status": "stub", "at": "2026-02-09T00:00:00Z", "by": "auto", "task": "RESEARCH"},
         {"status": "draft", "at": "2026-02-10T00:00:00Z", "by": "auto", "task": "WRITE"},
         {"status": "draft", "at": "2026-02-10T12:00:00Z", "by": "auto", "task": "RESEARCH"},
-        {"status": "R3-verified", "at": "2026-02-19T00:00:00Z", "by": "auto", "task": "VERIFY"}
+        {"status": "R3-verified", "at": "2026-02-19T00:00:00Z", "by": "auto", "task": "VERIFY"},
+        {"status": "E1-reviewed", "at": "2026-02-19T00:00:00Z", "by": "auto", "task": "REVIEW"}
       ],
       "ralph_loops_completed": 2,
       "kb_facts_used": ["f_0001", "f_0002", "f_0004", "f_0006", "f_0007", "f_0008", "f_0010", "f_0012", "f_0013", "f_0014", "f_0015", "f_0017", "f_0018", "f_0117", "f_0118", "f_0140", "f_0192", "f_0193", "f_0194", "f_0195", "f_0200", "f_0201", "f_0202", "f_0207", "f_0213", "f_0214", "f_0215", "f_0216", "f_0236", "f_0240", "f_0241", "f_0242", "f_0243", "f_0289", "f_0292", "f_0293", "f_0302", "f_0304", "f_0305", "f_0309", "f_0314", "f_0315", "f_0316", "f_0317", "f_0318", "f_0319", "f_0324", "f_0325", "f_0327", "f_0328", "f_0329", "f_0333", "f_0344", "f_0347", "f_0348", "f_0354", "f_0369", "f_0373", "f_0378", "f_0379", "f_0380", "f_0428", "f_0429", "f_0437", "f_0438", "f_0440", "f_0464", "f_0465", "f_0469", "f_0477"],
@@ -152,7 +154,7 @@
       "cross_links": ["lv-games", "canoe-trips", "section-names", "coeducation-gender", "council-ring", "founding-1894", "traditions-and-culture"],
       "file_id": "1oqLoU6_bzWD_9jXwXQgYNm_EqLCEfNjR",
       "word_count": 2100,
-      "notes": "R3 VERIFY (2026-02-19): Removed unsourced '85 campers' claim. Added 1918 activities, Woodcraft League, badge system, 1925 canoe trips, camp councils, section evolution, canoe trip development, Rangers/DAFA, technology-free, enrollment, environmental ed. 70 KB facts backlinked."
+      "notes": "E1 REVIEW (2026-02-19): All claims cited, dates consistent, names cross-checked, tone encyclopedic, cross-links valid, open questions actionable, no redundancy with sibling articles. Advanced R3-verified → E1-reviewed."
     },
     {
       "article_id": "ralph-dawson",

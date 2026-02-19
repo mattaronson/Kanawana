@@ -1,7 +1,7 @@
 # Programs and Activities at Kanawana
 
-*Status: R3-verified | Sources: src_brochure_1922, src_history_1935, src_mcmorris_thesis, src_kanawana_facts, src_ymca_website, src_concordia_12A, src_concordia_12B04, src_gas_bag_1923, src_cfcf_1941, src_brochure_1921*
-*Last Updated: 2026-02-19 (R3 VERIFY pass v51)*
+*Status: E1-reviewed | Sources: src_brochure_1922, src_history_1935, src_mcmorris_thesis, src_kanawana_facts, src_ymca_website, src_concordia_12A, src_concordia_12B04, src_gas_bag_1923, src_cfcf_1941, src_brochure_1921*
+*Last Updated: 2026-02-19 (E1 REVIEW pass v51)*
 
 ## Overview
 

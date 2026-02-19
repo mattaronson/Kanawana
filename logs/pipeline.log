@@ -346,6 +346,11 @@
   - All E1 article metadata updated: word counts, open questions, sources_cited, cross_links
   - v48/v49 migration gap (empty kb_facts_used arrays) fully resolved for all Drive-synced articles
 
+2026-02-19T01:00:00Z | E1 REVIEW | coeducation-gender.md + programs-activities.md — Final quality pass
+  - coeducation-gender.md: 3 source formatting fixes (src_ymca_facts→src_kanawana_facts, McMorris Spectrum URL, Facts sheet + Gas Bag IA URLs). All 7 checklist items PASS. Advanced R3-verified → E1-reviewed.
+  - programs-activities.md: Clean PASS on all 7 checklist items. No fixes needed. Advanced R3-verified → E1-reviewed.
+  - Article totals: 11 E1-reviewed (was 9), 10 draft, 1 stub
+
 2026-02-19T00:00:00Z | VERIFY V1 | programs-activities.md — R3 VERIFY pass (P4)
   - Removed unsourced "85 campers" claim (no KB backing)
   - Added 1918 activities (f_0437, f_0438, f_0440): first aid, basket-making, wrestling, tumbling, nature study, Woodcraft League visit

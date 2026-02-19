@@ -1,7 +1,7 @@
 # Coeducation and Gender at Kanawana
 
-*Status: R3-verified | Sources: src_mcmorris_thesis, src_ymca_facts, src_ymca_website, src_concordia_12A, src_concordia_12B04, src_gas_bag_1923, user_knowledge*
-*Last Updated: 2026-02-18 (R3 VERIFY pass v51)*
+*Status: E1-reviewed | Sources: src_mcmorris_thesis, src_kanawana_facts, src_ymca_website, src_concordia_12A, src_concordia_12B04, src_gas_bag_1923, src_ymca_john_island_newsletter, user_knowledge*
+*Last Updated: 2026-02-19 (E1 REVIEW pass v51)*
 
 ## Overview
 
@@ -66,11 +66,11 @@ The Mountaineer program represents a conceptual shift from the 1968-1969 transit
 
 ## Sources
 
-- McMorris, Grace. "An Experience That Lasts a Lifetime: Building Modernity, Man, and Nation at the YMCA of Montreal's Kamp Kanawana, 1894-1967." MA thesis, Concordia University, 2023.
+- McMorris, Grace. "An Experience That Lasts a Lifetime: Building Modernity, Man, and Nation at the YMCA of Montreal's Kamp Kanawana, 1894-1967." MA thesis, Concordia University, 2023. [Spectrum](https://spectrum.library.concordia.ca/id/eprint/992763/)
 - YMCA Quebec. "The Kanawana Story." https://www.ymcaquebec.org/en/summer-camp-kanawana/history
 - YMCA Quebec. "Summer Camp Kanawana." https://www.ymcaquebec.org/en/summer-camp-kanawana (section structure and gender assignments).
-- YMCA Kamp Kanawana Facts sheet (undated institutional document, cached in project source-documents folder).
-- *The Gas Bag*, 1923 Re-union Number (Internet Archive). Documents 1923 visit by girls from Marois.
+- YMCA Kamp Kanawana Facts sheet (undated institutional document, cached in project source-documents folder). [Internet Archive](https://archive.org/details/ymca-kamp-kanawana-facts)
+- *The Gas Bag*, 1923 Re-union Number. [Internet Archive](https://archive.org/details/the-gas-bag-1923-09-01). Documents 1923 visit by girls from Marois.
 - YMCA John Island Alumni Newsletter, 2005 (documents 1969 "senior boys section" reference).
 - Concordia University Archives, YMCA of Montreal fonds, sub-series 12A. https://www.concordia.ca/offices/archives/ymca-fonds-sub-series-12A.html
 - Concordia University Archives, YMCA of Montreal fonds, sub-sub-series 12B04. https://www.concordia.ca/offices/archives/ymca-fonds-sub-sub-series-12B04.html
