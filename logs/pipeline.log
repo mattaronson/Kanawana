@@ -376,6 +376,13 @@
   - 70 KB facts backlinked to articles.json
   - Article advanced draft → R3-verified
 
+2026-02-19T04:30:00Z | E1 REVIEW | harold-cross.md, directors-index.md, billy-ball.md, cushing-family.md — Final quality pass
+  - harold-cross.md: Added inline ^1-^5 citations throughout. Standardized 'Harold C. Cross'. Added Related Articles. Added priority tags to Open Questions. CONDITIONAL PASS → E1-reviewed.
+  - directors-index.md: PASS — no fixes needed. Advanced R3-verified → E1-reviewed.
+  - billy-ball.md: PASS — no fixes needed. Advanced R3-verified → E1-reviewed.
+  - cushing-family.md: Fixed Frederick row in Eight Sons table. CONDITIONAL PASS → E1-reviewed.
+  - Article totals: 18 E1-reviewed, 0 R3-verified, 2 draft (sources-index, ralph-dawson), 2 stubs (stuart-mclean, pip-alumni-award)
+
 2026-02-17T06:15:00Z | ANALYSIS | Orphan fact assessment (P36)
   - Post-P35 orphan rate: 49.1% (240/489 facts). Down from ~56% pre-expansion.
   - Programs: 42 orphans (largest actionable pool) — target is programs-activities.md but article text is on Google Drive only

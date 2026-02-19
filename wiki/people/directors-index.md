@@ -1,9 +1,9 @@
 # Directors and Staff of Camp Kanawana
 
-<!-- status: draft -->
+<!-- status: E1-reviewed -->
 <!-- confidence: medium -->
-<!-- last_updated: 2026-02-17 -->
-<!-- last_editor: v51 -->
+<!-- last_updated: 2026-02-19 -->
+<!-- last_editor: v52 -->
 <!-- ralph_loops: directors-index-compile, directors-index-R2, directors-index-staff-expansion -->
 
 ## Summary

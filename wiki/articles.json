@@ -178,12 +178,14 @@
       "article_id": "directors-index",
       "title": "Directors and Staff of Camp Kanawana",
       "wiki_folder": "people",
-      "status": "draft",
+      "status": "E1-reviewed",
       "status_history": [
         {"status": "stub", "at": "2026-02-08T00:00:00Z", "by": "auto", "task": "RESEARCH"},
         {"status": "stub", "at": "2026-02-11T08:30:00Z", "by": "auto", "task": "RESEARCH"},
         {"status": "draft", "at": "2026-02-14T02:30:00Z", "by": "auto", "task": "RESEARCH"},
-        {"status": "draft", "at": "2026-02-17T05:00:00Z", "by": "auto", "task": "WRITE"}
+        {"status": "draft", "at": "2026-02-17T05:00:00Z", "by": "auto", "task": "WRITE"},
+        {"status": "R3-verified", "at": "2026-02-19T04:00:00Z", "by": "auto", "task": "VERIFY"},
+        {"status": "E1-reviewed", "at": "2026-02-19T04:30:00Z", "by": "auto", "task": "REVIEW"}
       ],
       "ralph_loops_completed": 2,
       "kb_facts_used": ["f_0019", "f_0020", "f_0038", "f_0039", "f_0040", "f_0041", "f_0042", "f_0043", "f_0044", "f_0045", "f_0047", "f_0048", "f_0049", "f_0051", "f_0052", "f_0053", "f_0054", "f_0055", "f_0056", "f_0057", "f_0058", "f_0059", "f_0060", "f_0061", "f_0062", "f_0063", "f_0064", "f_0065", "f_0066", "f_0067", "f_0068", "f_0069", "f_0070", "f_0071", "f_0072", "f_0073", "f_0074", "f_0075", "f_0076", "f_0077", "f_0078", "f_0079", "f_0080", "f_0081", "f_0082", "f_0083", "f_0084", "f_0085", "f_0086", "f_0087", "f_0088", "f_0089", "f_0090", "f_0091", "f_0092", "f_0093", "f_0094", "f_0095", "f_0096", "f_0097", "f_0099", "f_0100", "f_0101", "f_0106", "f_0107", "f_0108", "f_0109", "f_0110", "f_0111", "f_0112", "f_0144", "f_0145", "f_0146", "f_0179", "f_0184", "f_0185", "f_0219", "f_0356", "f_0404", "f_0405", "f_0406", "f_0417", "f_0418", "f_0419", "f_0420", "f_0421", "f_0422", "f_0423", "f_0424", "f_0425"],
@@ -191,7 +193,8 @@
       "open_questions": 7,
       "cross_links": ["harold-cross", "ralph-dawson", "billy-ball", "da-budge", "founding-1894", "stuart-mclean", "wartime-kanawana", "traditions-and-culture"],
       "file_id": null,
-      "word_count": 2400
+      "word_count": 2400,
+      "notes": "E1 REVIEW (2026-02-19): PASS — all 7 checklist items satisfied. No fixes needed. Advanced R3-verified → E1-reviewed."
     },
     {
       "article_id": "sources-index",
@@ -214,11 +217,13 @@
       "article_id": "harold-cross",
       "title": "Harold C. Cross",
       "wiki_folder": "people",
-      "status": "draft",
+      "status": "E1-reviewed",
       "status_history": [
         {"status": "stub", "at": "2026-02-08T00:00:00Z", "by": "auto", "task": "RESEARCH"},
         {"status": "stub", "at": "2026-02-11T08:00:00Z", "by": "auto", "task": "RESEARCH"},
-        {"status": "draft", "at": "2026-02-14T02:00:00Z", "by": "auto", "task": "RESEARCH"}
+        {"status": "draft", "at": "2026-02-14T02:00:00Z", "by": "auto", "task": "RESEARCH"},
+        {"status": "R3-verified", "at": "2026-02-19T04:00:00Z", "by": "auto", "task": "VERIFY"},
+        {"status": "E1-reviewed", "at": "2026-02-19T04:30:00Z", "by": "auto", "task": "REVIEW"}
       ],
       "ralph_loops_completed": 2,
       "kb_facts_used": ["f_0038", "f_0039", "f_0395", "f_0396", "f_0397", "f_0398", "f_0399", "f_0400", "f_0401", "f_0402", "f_0403", "f_0407"],
@@ -226,7 +231,8 @@
       "open_questions": 6,
       "cross_links": ["council-ring", "directors-index", "centennial-1967"],
       "file_id": null,
-      "word_count": 750
+      "word_count": 750,
+      "notes": "E1 REVIEW (2026-02-19): Added inline ^1-^5 citations throughout body text. Standardized all name mentions to 'Harold C. Cross'. Added Related Articles section. Added priority tags to Open Questions. Advanced R3-verified → E1-reviewed."
     },
     {
       "article_id": "centennial-1967",
@@ -270,10 +276,12 @@
       "article_id": "billy-ball",
       "title": "Billy Ball",
       "wiki_folder": "people",
-      "status": "draft",
+      "status": "E1-reviewed",
       "status_history": [
         {"status": "stub", "at": "2026-02-11T07:00:00Z", "by": "auto", "task": "RESEARCH"},
-        {"status": "draft", "at": "2026-02-14T03:00:00Z", "by": "auto", "task": "RESEARCH"}
+        {"status": "draft", "at": "2026-02-14T03:00:00Z", "by": "auto", "task": "RESEARCH"},
+        {"status": "R3-verified", "at": "2026-02-19T04:00:00Z", "by": "auto", "task": "VERIFY"},
+        {"status": "E1-reviewed", "at": "2026-02-19T04:30:00Z", "by": "auto", "task": "REVIEW"}
       ],
       "ralph_loops_completed": 2,
       "kb_facts_used": ["f_0006", "f_0007", "f_0012", "f_0426", "f_0427", "f_0428", "f_0429", "f_0430", "f_0431"],
@@ -281,17 +289,20 @@
       "open_questions": 7,
       "cross_links": ["founding-1894", "da-budge", "cushing-family", "directors-index"],
       "file_id": null,
-      "word_count": 700
+      "word_count": 700,
+      "notes": "E1 REVIEW (2026-02-19): PASS — all 7 checklist items satisfied. No fixes needed. Advanced R3-verified → E1-reviewed."
     },
     {
       "article_id": "cushing-family",
       "title": "The Cushing Family and YMCA Camping",
       "wiki_folder": "people",
-      "status": "draft",
+      "status": "E1-reviewed",
       "status_history": [
         {"status": "stub", "at": "2026-02-11T07:00:00Z", "by": "auto", "task": "RESEARCH"},
         {"status": "draft", "at": "2026-02-14T04:00:00Z", "by": "auto", "task": "RESEARCH"},
-        {"status": "draft", "at": "2026-02-17T02:00:00Z", "by": "auto", "task": "VERIFY"}
+        {"status": "draft", "at": "2026-02-17T02:00:00Z", "by": "auto", "task": "VERIFY"},
+        {"status": "R3-verified", "at": "2026-02-19T04:00:00Z", "by": "auto", "task": "VERIFY"},
+        {"status": "E1-reviewed", "at": "2026-02-19T04:30:00Z", "by": "auto", "task": "REVIEW"}
       ],
       "ralph_loops_completed": 3,
       "kb_facts_used": ["f_0011", "f_0185", "f_0224", "f_0432", "f_0433", "f_0434", "f_0435", "f_0436", "f_0480", "f_0481", "f_0482", "f_0483", "f_0484", "f_0485"],
@@ -299,7 +310,8 @@
       "open_questions": 5,
       "cross_links": ["founding-1894", "billy-ball", "da-budge", "directors-index", "camp-otoreke"],
       "file_id": null,
-      "word_count": 1200
+      "word_count": 1200,
+      "notes": "E1 REVIEW (2026-02-19): Fixed Frederick row in Eight Sons table (birthplace clarified in Occupation column). All 7 checklist items satisfied. Advanced R3-verified → E1-reviewed."
     },
     {
       "article_id": "traditions-and-culture",

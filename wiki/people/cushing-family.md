@@ -1,9 +1,9 @@
 # The Cushing Family and YMCA Camping
 
-<!-- status: draft -->
+<!-- status: E1-reviewed -->
 <!-- confidence: medium -->
-<!-- last_updated: 2026-02-17 -->
-<!-- last_editor: v50 -->
+<!-- last_updated: 2026-02-19 -->
+<!-- last_editor: v52 -->
 <!-- ralph_loops: cushing-family-stub, cushing-family-R1, cushing-genealogy-extraction -->
 
 ## Summary
@@ -22,7 +22,7 @@ Lemuel Cushing was born April 29, 1806 in Trois-Rivières, Lower Canada, the eig
 | Thomas | dates unknown | Founded Montreal Brewing Company (1876) |
 | Charles | active 1869-1910 | Notary (B.C.L., N.P.), published *Cushing's Notarial Form Book* (1887) |
 | Francis | dates unknown | Founded Cushing's Island Company (Maine, 1883), hired Frederick Law Olmsted |
-| Frederick | 1851-1933 | Born Chatham, Argenteuil |
+| Frederick | 1851-1933 | Born Chatham, Argenteuil; no further details |
 | William Mair | dates unknown | |
 | George | dates unknown | |
 | James Brock (Col.) | 1839-1903 | Colonel, Argenteuil Rangers; moved to Montreal 1890; active in religious/educational interests |
