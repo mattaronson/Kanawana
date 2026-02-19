@@ -1,7 +1,7 @@
 # Stuart McLean
 
-*Status: draft | Sources: src_samaritanmag_mclean, src_ourkids_mclean, src_ymca_website, src_oral_aronson, src_wikipedia_stuart_mclean, src_canadian_encyclopedia_mclean, src_montrealer_mclean, src_concordia_mclean_tribute, src_cbc_mclean_fund, src_westmount_mag_mclean, src_john_island_newsletter_2012, src_cbc_mclean_obituary, src_mcmaster_mclean_fonds*
-*Last Updated: 2026-02-19 (RALPH R1 + WRITE)*
+*Status: E1-reviewed | Sources: src_samaritanmag_mclean, src_ourkids_mclean, src_ymca_website, src_oral_aronson, src_wikipedia_stuart_mclean, src_canadian_encyclopedia_mclean, src_montrealer_mclean, src_concordia_mclean_tribute, src_cbc_mclean_fund, src_westmount_mag_mclean, src_ymca_john_island_mclean_speech, src_cbc_mclean_obit, src_mcmaster_mclean_fonds*
+*Last Updated: 2026-02-19 (R3 VERIFY pass)*
 
 ## Overview
 
@@ -15,7 +15,7 @@ McLean was born in Montreal West, the eldest of three children.^7 He attended Lo
 
 ## Camp Kanawana Years (1969–1975)
 
-McLean was first hired as a counsellor in the senior boys' section at Camp Kanawana in 1969, at approximately age 20.^1 ^2 He worked five summers at the camp, passing up a chance to study journalism at Carleton University to return.^1 ^2 By the summers of 1974 and 1975, he served as assistant summer camp director.^1 ^10
+McLean was first hired as a counsellor in the senior boys' section at Camp Kanawana in 1969, at approximately age 20.^1 ^2 He worked five summers at the camp, passing up an opportunity to study journalism at Carleton University to return to camp.^1 ^2 By the summers of 1974 and 1975, he served as assistant summer camp director.^1 ^10
 
 In a speech to YMCA camp directors, later excerpted in the John Island Alumni Newsletter (Spring 2012), McLean described arriving at camp as "a wholly unsuccessful boy" carrying "a packsack full of fears." He said: "the best I can say is that camp happened." He linked his writerly preoccupation with "the world of the family, the neighbourhood" and "the safe places that foster a sense of belonging" directly to "the kinds of places that are created at YMCA camps across North America."^3
 

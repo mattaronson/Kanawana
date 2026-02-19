@@ -1,7 +1,7 @@
 # The Pip Alumni Award
 
-*Status: draft | Sources: src_ymca_pip_skinner, src_ymca_pip_mosher, src_ymca_pip_adam, src_ymca_pip_sharpe, src_ymca_pip_orbinski, src_oral_aronson, src_cmat_caddell_obituary, src_atwater_caddell_bio, src_wikipedia_richard_patten, src_wikipedia_john_cleghorn*
-*Last Updated: 2026-02-19 (RALPH R1 + WRITE)*
+*Status: E1-reviewed | Sources: src_ymca_pip_skinner, src_ymca_pip_mosher, src_ymca_pip_adam, src_ymca_pip_sharpe, src_ymca_pip_orbinski, src_oral_aronson, src_cmat_caddell_obituary, src_mcgill_news_caddell, src_wikipedia_richard_patten, src_wikipedia_john_cleghorn, src_atwater_caddell_bio*
+*Last Updated: 2026-02-19 (R3 VERIFY pass)*
 
 ## Overview
 
@@ -31,8 +31,8 @@ Caddell died on October 16, 2005 in Tupiza, Bolivia, of pulmonary edema caused b
 |------|-----------|-------------------|-------------|
 | 2007 | Richard "Itche" Kerr | Camper; camp song composer | Volunteer work with the physically challenged^3 |
 | 2008 | Richard Patten | Alumnus | MPP for Ottawa Centre; YMCA manager; CHEO Foundation CEO^9 |
-| 2009 | Stuart McLean | Counsellor/Asst. Director 1969–75 | CBC broadcaster, *Vinyl Cafe* host, Officer of the Order of Canada^3 |
-| 2010 | — | *No award given* | — |
+| 2009 | Stuart McLean | Counsellor 1969–73; Asst. Director 1974–75 | CBC broadcaster, *Vinyl Cafe* host, Officer of the Order of Canada^3 |
+| 2010 | — | *No documented recipient* | — |
 | 2011 | Bruce Netherwood | Staff, late 1980s–1990s | VP Camping Services, South Shore YMCA (Massachusetts)^3 |
 | 2012 | John Cleghorn | Alumnus | Chairman and CEO, Royal Bank of Canada; Officer of the Order of Canada^3 ^10 |
 | 2013 | Sam Lazarus (posthumous) & family | Alumnus | Worked with orphans in Ghana; died of cerebral malaria c. 2004^3 |

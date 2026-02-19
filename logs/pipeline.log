@@ -437,3 +437,10 @@
   - pip-alumni-award.md: Expanded from 550 to 1500 words. 8 sections, 11 sources, 6 open questions. Full recipient table with years, Caddell family biographies, selection criteria, ceremony format, Andrew Caddell profile, Sam Lazarus legacy.
   - Both articles advanced stub → draft.
   - Article totals: 18 E1-reviewed, 0 R3-verified, 4 draft (sources-index, ralph-dawson, stuart-mclean, pip-alumni-award), 0 stubs
+
+2026-02-19T13:00:00Z | VERIFY + E1 REVIEW | stuart-mclean.md, pip-alumni-award.md, sources-index.md — Full pipeline run
+  - stuart-mclean.md: VERIFY PASS. E1 CONDITIONAL PASS — fixed header source IDs (src_john_island_newsletter_2012 → src_ymca_john_island_mclean_speech, src_cbc_mclean_obituary → src_cbc_mclean_obit). Advanced draft → E1-reviewed.
+  - pip-alumni-award.md: VERIFY CONDITIONAL PASS — registered 5 missing sources in sources.json (CMAT, McGill News, Wikipedia Patten/Cleghorn, Atwater Caddell bio). Fixed 2010 entry to 'No documented recipient'. Fixed McLean dates in table. E1 CONDITIONAL PASS — standardized 'Phillips' spelling across wiki. Advanced draft → E1-reviewed.
+  - sources-index.md: VERIFY + E1 CONDITIONAL PASS — fixed stale counts (80→85 total, 37→40 secondary, 12→14 tertiary, 70→74 extracted, 8→11 IA documents). Advanced draft → E1-reviewed.
+  - Also: standardized 'Jeniene Phillips Birks' spelling in traditions-and-culture.md
+  - Article totals: 21 E1-reviewed, 0 R3-verified, 1 draft (ralph-dawson — blocked, no file on disk), 0 stubs

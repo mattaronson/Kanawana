@@ -1,13 +1,13 @@
 # Sources and Archives
 
-<!-- status: draft -->
+<!-- status: E1-reviewed -->
 <!-- confidence: high -->
 <!-- last_updated: 2026-02-19 -->
 <!-- last_editor: v52 -->
 
 ## Summary
 
-This article catalogs all sources consulted for the Kanawana Wiki Builder project. As of February 2026, the knowledge base draws on 80 source records spanning primary camp publications (1921–1980), archival finding aids, academic research, biographical references, and web sources. The collection is anchored by Grace McMorris's 2023 Concordia MA thesis, eight Internet Archive primary documents, and Concordia University's YMCA of Montreal Fonds P145.
+This article catalogs all sources consulted for the Kanawana Wiki Builder project. As of February 2026, the knowledge base draws on 85 source records spanning primary camp publications (1921–1980), archival finding aids, academic research, biographical references, and web sources. The collection is anchored by Grace McMorris's 2023 Concordia MA thesis, eleven Internet Archive primary documents, and Concordia University's YMCA of Montreal Fonds P145.
 
 ## Primary Sources (31)
 
@@ -95,11 +95,11 @@ John Wilson McConnell, Lemuel Cushing Jr., Centennial Voyageur Canoe Pageant, Br
 | Category | Count |
 |----------|-------|
 | Primary (camp publications, archives, oral history, newspapers) | 31 |
-| Secondary (academic, organizational, biographical) | 37 |
-| Tertiary (Wikipedia) | 12 |
-| **Total** | **80** |
-| Extracted (KB facts generated) | 70 |
-| Unextracted | 10 |
+| Secondary (academic, organizational, biographical) | 40 |
+| Tertiary (Wikipedia) | 14 |
+| **Total** | **85** |
+| Extracted (KB facts generated) | 74 |
+| Unextracted | 11 |
 | With cached text on disk | 18 |
 
 ## KB Statistics
