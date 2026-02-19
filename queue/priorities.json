@@ -34,11 +34,12 @@
       "type": "VERIFY",
       "description": "Advance coeducation-gender.md toward R3-verified (requires R2 completion)",
       "article_id": "coeducation-gender",
-      "blocking": true,
-      "blocking_reason": "Requires p_001 completion first",
+      "blocking": false,
       "assigned_weight": "P2",
       "created_at": "2026-02-10T00:00:00Z",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-02-18T00:00:00Z",
+      "result": "R3 VERIFY pass completed. 3 factual errors corrected: Otoreke/Weredale not girls' camps, 'Doers and Darers' removed (unsupported), Pathfinder name origin clarified (1959 boys-only). 6 orphan facts integrated. Article advanced draft → R3-verified."
     },
     {
       "priority_id": "p_004",
@@ -460,14 +461,15 @@
       "priority_id": "p_036",
       "rank": 36,
       "type": "RESEARCH",
-      "description": "Integrate remaining orphan facts: 42 programs, 12 lv_games, 11 coeducation, 1 publications, 52 people",
+      "description": "Integrate remaining orphan facts: backlink E1 articles, programs-activities VERIFY, people stubs",
       "article_id": null,
-      "blocking": true,
-      "blocking_reason": "Most orphans belong in Drive-only articles (programs-activities, lv-games, coeducation-gender) or E1-reviewed articles with empty kb_facts_used arrays (migration gap). Actionable subset: 42 programs facts for programs-activities (Drive-only), Green Triangle stub (1 fact). People orphans (52) need new article stubs.",
+      "blocking": false,
       "assigned_weight": "P5",
       "created_at": "2026-02-17T05:00:00Z",
-      "status": "blocked",
-      "notes": "Post-P35 orphan rate: 49.1% (240/489). Down from ~56%. Key blockers: (1) programs-activities.md on Drive only — 42 programs facts belong there. (2) lv-games.md E1-reviewed on Drive — 12 facts, likely already covered in article text but not backlinked. (3) coeducation-gender.md on Drive — 11 facts including date conflict f_0200/f_0201. (4) All E1-reviewed articles have empty kb_facts_used from v48/v49 migration. Actionable: spawn Green Triangle newsletter stub (f_0410 + related). People orphans (52) could spawn 5-10 new stubs if prioritized."
+      "status": "completed",
+      "completed_at": "2026-02-18T01:00:00Z",
+      "result": "Backlinked 115 orphan facts across 7 E1 articles (founding-1894: 35, wartime-kanawana: 24, section-names: 13, lv-games: 12, canoe-trips: 12, da-budge: 11, council-ring: 8) + 22 facts for coeducation-gender. All E1 articles now have populated kb_facts_used arrays. Migration gap resolved.",
+      "notes": "Remaining orphans: programs-activities facts (P4 VERIFY pending), people category stubs, programs category stubs."
     }
   ]
 }

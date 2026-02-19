@@ -320,6 +320,32 @@
   - Article expanded: 1200 → 2400 words. Title changed: "Directors of Camp Kanawana" → "Directors and Staff of Camp Kanawana". 85 KB facts cited (was 25). 12 sources (was 6). 7 open questions (was 6, added Macdiarmid identity question and 1923 Paterson/Davis overlap).
   - Priority p_035 completed
 
+2026-02-18T00:00:00Z | DRIVE SYNC | 9 Drive-only articles saved locally
+  - Synced from user-pasted text: founding-1894, da-budge, canoe-trips, council-ring, lv-games, wartime-kanawana, section-names, coeducation-gender, programs-activities
+  - All E1-reviewed articles now have local copies in git (commit c6a1fc1)
+  - ralph-dawson.md still missing (content lost during context compaction)
+  - McMorris thesis already cached at sources/cache/web-pages/mcmorris_thesis.txt
+
+2026-02-18T00:30:00Z | VERIFY V1 | coeducation-gender.md — R3 VERIFY pass (P3)
+  - 3 factual errors corrected:
+    1. Otoreke/Weredale mischaracterized as girls' camps → Otoreke served adults, Weredale served orphaned boys
+    2. "Doers and Darers" section names → no KB support, removed; actual boys' sections are Woodsmen/Coureurs des Bois
+    3. Pathfinder name treated as inherently gendered → introduced 1959 for boys-only camp, later reassigned
+  - 6 orphan facts integrated: f_0218 (director's wife 1930), f_0219 (Miss Rayner 1939), f_0220 (Oolahwan visits), f_0221 (Junior League visits), f_0322 (1923 Marois girls), f_0367 (1969 senior boys section)
+  - Article advanced draft → R3-verified (commit 769e13e)
+
+2026-02-18T01:00:00Z | BACKLINK | 115 orphan facts backlinked across 7 E1 articles + coeducation-gender
+  - founding-1894: 35 facts (was 0)
+  - wartime-kanawana: 24 facts (was 0)
+  - section-names: 13 facts (was 0)
+  - lv-games: 12 facts (was 0)
+  - canoe-trips: 12 facts (was 0)
+  - da-budge: 11 facts (was 0)
+  - council-ring: 8 facts (was 0)
+  - coeducation-gender: 22 facts (was 0)
+  - All E1 article metadata updated: word counts, open questions, sources_cited, cross_links
+  - v48/v49 migration gap (empty kb_facts_used arrays) fully resolved for all Drive-synced articles
+
 2026-02-17T06:15:00Z | ANALYSIS | Orphan fact assessment (P36)
   - Post-P35 orphan rate: 49.1% (240/489 facts). Down from ~56% pre-expansion.
   - Programs: 42 orphans (largest actionable pool) — target is programs-activities.md but article text is on Google Drive only

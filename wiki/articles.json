@@ -11,12 +11,12 @@
         {"status": "E1-reviewed", "at": "2026-02-10T00:00:00Z", "by": "auto", "task": "REVIEW"}
       ],
       "ralph_loops_completed": 1,
-      "kb_facts_used": [],
-      "sources_cited": [],
-      "open_questions": 0,
-      "cross_links": ["camp-jubilee", "billy-ball", "da-budge"],
+      "kb_facts_used": ["f_0001", "f_0002", "f_0003", "f_0004", "f_0006", "f_0007", "f_0008", "f_0009", "f_0010", "f_0011", "f_0012", "f_0013", "f_0014", "f_0015", "f_0016", "f_0017", "f_0018", "f_0019", "f_0020", "f_0021", "f_0023", "f_0024", "f_0027", "f_0031", "f_0047", "f_0049", "f_0061", "f_0063", "f_0064", "f_0065", "f_0066", "f_0339", "f_0365", "f_0479", "f_0486"],
+      "sources_cited": ["src_ymca_website", "src_qahn_howard", "src_concordia_12L", "src_concordia_12B", "src_brochure_1923", "src_history_1935", "src_cfcf_1941"],
+      "open_questions": 6,
+      "cross_links": ["camp-jubilee", "billy-ball", "da-budge", "directors-index", "ralph-dawson"],
       "file_id": "1h-vki1U2tjYj8-zZ5gzuyW6kQXelcUnB",
-      "word_count": 0
+      "word_count": 2200
     },
     {
       "article_id": "da-budge",
@@ -27,12 +27,12 @@
         {"status": "E1-reviewed", "at": "2026-02-10T00:00:00Z", "by": "auto", "task": "REVIEW"}
       ],
       "ralph_loops_completed": 1,
-      "kb_facts_used": [],
-      "sources_cited": [],
-      "open_questions": 0,
-      "cross_links": ["founding-1894"],
+      "kb_facts_used": ["f_0001", "f_0002", "f_0011", "f_0012", "f_0014", "f_0019", "f_0020", "f_0039", "f_0386", "f_0427", "f_0431"],
+      "sources_cited": ["src_mcgill_archives", "src_ymca_world", "src_concordia_1B", "src_concordia_12L", "src_naismith_foundation"],
+      "open_questions": 4,
+      "cross_links": ["founding-1894", "harold-cross", "directors-index", "billy-ball"],
       "file_id": "1iOHcDJeDgo5VFTfb46EQ6JrFYuZaZie5",
-      "word_count": 0
+      "word_count": 1100
     },
     {
       "article_id": "canoe-trips",
@@ -43,12 +43,12 @@
         {"status": "E1-reviewed", "at": "2026-02-10T00:00:00Z", "by": "auto", "task": "REVIEW"}
       ],
       "ralph_loops_completed": 1,
-      "kb_facts_used": [],
-      "sources_cited": ["src_mcmorris_thesis"],
-      "open_questions": 0,
-      "cross_links": ["centennial-1967", "programs-activities"],
+      "kb_facts_used": ["f_0127", "f_0202", "f_0236", "f_0237", "f_0238", "f_0239", "f_0240", "f_0241", "f_0242", "f_0243", "f_0324", "f_0329"],
+      "sources_cited": ["src_mcmorris_thesis", "src_concordia_12K", "src_kanawana_facts", "src_ymca_website", "src_history_1935"],
+      "open_questions": 3,
+      "cross_links": ["centennial-1967", "programs-activities", "lv-games"],
       "file_id": "13MmwA1lO_3J3rJ7yEZjwsvT--vWooITy",
-      "word_count": 0
+      "word_count": 650
     },
     {
       "article_id": "council-ring",
@@ -59,12 +59,12 @@
         {"status": "E1-reviewed", "at": "2026-02-10T00:00:00Z", "by": "auto", "task": "REVIEW"}
       ],
       "ralph_loops_completed": 1,
-      "kb_facts_used": [],
-      "sources_cited": ["src_mcmorris_thesis"],
-      "open_questions": 0,
-      "cross_links": ["founding-1894", "harold-cross"],
+      "kb_facts_used": ["f_0031", "f_0038", "f_0134", "f_0231", "f_0232", "f_0233", "f_0234", "f_0235"],
+      "sources_cited": ["src_mcmorris_thesis", "src_concordia_12B01", "src_concordia_02D", "src_history_1935"],
+      "open_questions": 3,
+      "cross_links": ["founding-1894", "harold-cross", "traditions-and-culture"],
       "file_id": "13YtmB0kQvK5oBY-Kz_88vIgztYAH5x2e",
-      "word_count": 0
+      "word_count": 600
     },
     {
       "article_id": "lv-games",
@@ -75,12 +75,12 @@
         {"status": "E1-reviewed", "at": "2026-02-10T00:00:00Z", "by": "auto", "task": "REVIEW"}
       ],
       "ralph_loops_completed": 1,
-      "kb_facts_used": [],
-      "sources_cited": ["src_mcmorris_thesis", "src_ymca_website"],
-      "open_questions": 0,
-      "cross_links": ["programs-activities", "pine-crest"],
+      "kb_facts_used": ["f_0192", "f_0193", "f_0194", "f_0195", "f_0196", "f_0197", "f_0198", "f_0199", "f_0332", "f_0370", "f_0371", "f_0373"],
+      "sources_cited": ["src_mcmorris_thesis", "src_ymca_website", "src_ymca_gta_pine_crest", "src_pine_crest_book"],
+      "open_questions": 4,
+      "cross_links": ["programs-activities", "pine-crest", "canoe-trips", "traditions-and-culture"],
       "file_id": "1EmzjwZxmQKJhFrNsbFGn1HbdseFBM9E7",
-      "word_count": 0
+      "word_count": 750
     },
     {
       "article_id": "wartime-kanawana",
@@ -91,12 +91,12 @@
         {"status": "E1-reviewed", "at": "2026-02-10T00:00:00Z", "by": "auto", "task": "REVIEW"}
       ],
       "ralph_loops_completed": 1,
-      "kb_facts_used": [],
-      "sources_cited": ["src_cfcf_1941", "src_mcmorris_thesis"],
-      "open_questions": 0,
-      "cross_links": ["howie-langille"],
+      "kb_facts_used": ["f_0009", "f_0043", "f_0044", "f_0047", "f_0048", "f_0077", "f_0078", "f_0083", "f_0092", "f_0093", "f_0094", "f_0095", "f_0096", "f_0100", "f_0102", "f_0104", "f_0105", "f_0184", "f_0222", "f_0223", "f_0224", "f_0349", "f_0356", "f_0404"],
+      "sources_cited": ["src_cfcf_1941", "src_green_triangle_1938", "src_mcmorris_thesis", "src_history_1935", "src_corb_historical"],
+      "open_questions": 3,
+      "cross_links": ["howie-langille", "directors-index", "founding-1894"],
       "file_id": "1FzPFWuQ3jBYZdPOSVC_xjANKsWr7RjSK",
-      "word_count": 0
+      "word_count": 1800
     },
     {
       "article_id": "section-names",
@@ -107,31 +107,32 @@
         {"status": "E1-reviewed", "at": "2026-02-10T00:00:00Z", "by": "auto", "task": "REVIEW"}
       ],
       "ralph_loops_completed": 1,
-      "kb_facts_used": [],
-      "sources_cited": ["src_mcmorris_thesis"],
-      "open_questions": 0,
-      "cross_links": ["programs-activities"],
+      "kb_facts_used": ["f_0078", "f_0079", "f_0080", "f_0139", "f_0200", "f_0213", "f_0214", "f_0215", "f_0216", "f_0217", "f_0242", "f_0302", "f_0453"],
+      "sources_cited": ["src_mcmorris_thesis", "src_ymca_website", "src_kanawana_facts"],
+      "open_questions": 3,
+      "cross_links": ["programs-activities", "coeducation-gender"],
       "file_id": "1vObPDCKcgzCi8HVCEMuBzQCMPd0jk2ua",
-      "word_count": 0
+      "word_count": 900
     },
     {
       "article_id": "coeducation-gender",
       "title": "Coeducation and Gender at Kanawana",
       "wiki_folder": "context",
-      "status": "draft",
+      "status": "R3-verified",
       "status_history": [
         {"status": "stub", "at": "2026-02-09T00:00:00Z", "by": "auto", "task": "RESEARCH"},
         {"status": "draft", "at": "2026-02-10T00:00:00Z", "by": "auto", "task": "WRITE"},
-        {"status": "draft", "at": "2026-02-10T12:00:00Z", "by": "auto", "task": "RESEARCH"}
+        {"status": "draft", "at": "2026-02-10T12:00:00Z", "by": "auto", "task": "RESEARCH"},
+        {"status": "R3-verified", "at": "2026-02-18T00:00:00Z", "by": "auto", "task": "VERIFY"}
       ],
       "ralph_loops_completed": 2,
-      "kb_facts_used": [],
-      "sources_cited": ["src_mcmorris_thesis", "src_ymca_website", "src_concordia_fonds"],
-      "open_questions": 7,
-      "cross_links": ["section-names", "lv-games", "canoe-trips"],
+      "kb_facts_used": ["f_0200", "f_0201", "f_0202", "f_0216", "f_0217", "f_0218", "f_0219", "f_0220", "f_0221", "f_0322", "f_0324", "f_0330", "f_0346", "f_0366", "f_0367", "f_0368", "f_0369", "f_0408", "f_0413", "f_0426", "f_0453", "f_0470"],
+      "sources_cited": ["src_mcmorris_thesis", "src_ymca_website", "src_concordia_fonds", "src_kanawana_facts", "src_gas_bag_1923", "src_ymca_john_island_newsletter"],
+      "open_questions": 8,
+      "cross_links": ["section-names", "lv-games", "canoe-trips", "camp-otoreke", "founding-1894"],
       "file_id": "1KW2yhoZ-wr_71sTPbLJ3v81KW4ZEJ_p-",
-      "word_count": 1850,
-      "notes": "R1 verified v49. Kawanana typo confirmed. Camp Perrot date corrected to [1945 or 1946]. Otoreke/Weredale gender assignment flagged as inference."
+      "word_count": 2100,
+      "notes": "R3 VERIFY (2026-02-18): Corrected Otoreke/Weredale gender mischaracterization, removed unsupported 'Doers and Darers' section names, clarified Pathfinder name origin (1959, boys-only). Added 6 orphan facts."
     },
     {
       "article_id": "programs-activities",
