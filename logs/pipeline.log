@@ -452,3 +452,24 @@
   - Cross-link audit: 41 asymmetric links symmetrized. All 22 articles now have bidirectional cross-links.
   - No new stubs warranted — all entity clusters with 3+ facts are already cited by existing articles.
   - Wiki status: 21 E1-reviewed, 1 draft (blocked). 515 facts, 85 sources, 0.4% orphan rate.
+
+2026-02-26T01:00:00Z | RALPH R1 | j-w-mcconnell.md, lake-wilson.md — New article stubs from user-requested research
+  - USER REQUEST: "McConnell was a major donor, and Lake Wilson is reportedly named for his son. Research and verify this claim, and if true, add an article about him. Lake Wilson is a major location and needs its own article."
+  - RETRIEVE: Two parallel research agents executed 40+ web searches. Sources consulted: Wikipedia McConnell, McConnell Foundation, Fong biography metadata, Commission de toponymie du Québec, Concordia AtoM, AllTrails, CRE Laurentides, Mapcarta, cached camp publications (1921-1935). All direct page fetches returned 403 (web sandbox).
+  - ANALYZE — McConnell family: J.W. McConnell (1877-1963) confirmed. Mother's maiden name Wilson. Wife Lily May Griffith (m.1905). Four children: Wilson Griffith (1908-1966), John Griffith (1911-1974), Kathleen Griffith (1918-2012), David Griffith (1923-1963). YMCA room 1901, $300K fundraising 1909, McConnell Foundation est.1937.
+  - ANALYZE — Lake Wilson naming: CANNOT BE VERIFIED. No documentary source found linking the name to McConnell's son or any specific person. Wilson McConnell was ~2 years old at time of property acquisition (~1910). 1923 Gas Bag treats "Lac Wilson" as external hiking destination. Commission de toponymie has no entry for this specific Lac Wilson. Other Quebec Lac Wilsons named after local landowner families.
+  - ANALYZE — Geography: Two separate Lac Wilsons identified: one at Camp Kanawana (Mille-Isles), one in Saint-Adolphe-d'Howard (~20-30 km away). These are distinct lakes.
+  - PROCESS: 10 new KB facts (f_0516-f_0525). 1 new source (src_fong_mcconnell_2008). KB now at 525 facts, 86 sources (v4.8).
+  - HYPOTHESIZE: Highest-priority unexamined sources for naming question: Fong biography Ch.5 (pp.123+), McMorris thesis full text, Dawson 1933 history, Charlton 1943 "Early Days", Quebec land registry.
+  - ARTICLES CREATED:
+    * j-w-mcconnell.md (stub, 1100 words, 5 sources, 6 open questions, 16 KB facts cited)
+    * lake-wilson.md (stub, 750 words, 5 sources, 6 open questions, 8 KB facts cited)
+  - Cross-links added: the-kanawana-site ↔ lake-wilson, the-kanawana-site ↔ j-w-mcconnell, founding-1894 → j-w-mcconnell
+
+2026-02-26T01:30:00Z | WRITE | myths-and-legends.md — New stub per user request
+  - USER REQUEST: "Add a stub for Kanawana Myths and Legends. We will use it to document: Kanawana myths (popular stories about Kanawana that are partly or completely fabricated), and Kanawana Legends (unverifiable narratives and camp ghost stories)"
+  - Created myths-and-legends.md in wiki/context/ (stub, 200 words, 1 source, 4 open questions)
+  - Two categories defined: Myths (fabricated/distorted popular stories) and Legends (ghost stories, unverifiable campfire narratives)
+  - Sections awaiting oral history contributions to populate
+  - Cross-link: traditions-and-culture ↔ myths-and-legends
+  - Article totals: 21 E1-reviewed, 1 draft (ralph-dawson, blocked), 3 stubs (j-w-mcconnell, lake-wilson, myths-and-legends). KB: 525 facts, 86 sources.

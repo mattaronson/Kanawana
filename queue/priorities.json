@@ -522,6 +522,44 @@
       "assigned_weight": "P2",
       "created_at": "2026-02-19T13:00:00Z",
       "status": "blocked"
+    },
+    {
+      "priority_id": "p_041",
+      "rank": 41,
+      "type": "RESEARCH",
+      "description": "Advance j-w-mcconnell stub → draft — obtain Fong biography details, verify Lake Desjardins donation claim, search for McConnell-YMCA correspondence",
+      "article_id": "j-w-mcconnell",
+      "blocking": false,
+      "assigned_weight": "P3",
+      "created_at": "2026-02-26T00:00:00Z",
+      "status": "completed",
+      "completed_at": "2026-02-26T01:00:00Z",
+      "result": "RALPH R1 completed (40+ web searches, 2 parallel agents). Lake Wilson naming claim CANNOT BE VERIFIED. McConnell family tree confirmed. 10 new facts, 1 new source. Research SATURATED for online sources."
+    },
+    {
+      "priority_id": "p_042",
+      "rank": 42,
+      "type": "RESEARCH",
+      "description": "Advance lake-wilson stub → draft — obtain naming origin from archival sources, expand geographic and historical detail",
+      "article_id": "lake-wilson",
+      "blocking": false,
+      "assigned_weight": "P3",
+      "created_at": "2026-02-26T00:00:00Z",
+      "status": "completed",
+      "completed_at": "2026-02-26T01:00:00Z",
+      "result": "RALPH R1 completed concurrently with j-w-mcconnell. Two Lac Wilsons identified. Dam ceremony since 1935. First reference 1923. Naming origin UNKNOWN. Research SATURATED for online sources."
+    },
+    {
+      "priority_id": "p_043",
+      "rank": 43,
+      "type": "RESEARCH",
+      "description": "Populate myths-and-legends.md with oral history content — Kanawana myths and ghost stories",
+      "article_id": "myths-and-legends",
+      "blocking": true,
+      "blocking_reason": "Requires oral history input from domain expert (src_oral_aronson). No online sources for camp ghost stories or popular myths.",
+      "assigned_weight": "P3",
+      "created_at": "2026-02-26T00:00:00Z",
+      "status": "blocked"
     }
   ]
 }

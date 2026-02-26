@@ -99,7 +99,9 @@ From 1977 to 1980, plans existed for a proposed two-site operation using Kanawan
 
 - [[chronology/founding-1894|Founding of Camp Kanawana (1894)]]
 - [[places/council-ring|The Council Ring]]
+- [[places/lake-wilson|Lake Wilson]]
 - [[people/harold-cross|Harold C. Cross]]
+- [[people/j-w-mcconnell|J.W. McConnell]]
 - [[programs/canoe-trips|Canoe Tripping at Kanawana]]
 - [[places/camp-otoreke|Camp Otoreke]]
 - [[programs/traditions-and-culture|Traditions and Culture at Kanawana]]

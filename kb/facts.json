@@ -2,7 +2,7 @@
   "version": "4.0",
   "kb_version": "4.0",
   "migrated_from": "3.3",
-  "fact_count": 489,
+  "fact_count": 525,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -7910,6 +7910,126 @@
       "date_ref": "2023",
       "conflicts_with": [],
       "added_version": "4.7",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_0516",
+      "claim": "J.W. McConnell's mother was Margaret Anne (née Wilson) McConnell; his middle name 'Wilson' came from his mother's maiden name.",
+      "sources": ["src_wikipedia_mcconnell"],
+      "confidence": "stated",
+      "category": "people",
+      "entities": ["J.W. McConnell"],
+      "date_ref": "1877",
+      "conflicts_with": [],
+      "added_version": "4.8",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_0517",
+      "claim": "J.W. McConnell married Lily May Griffith in 1905, daughter of a Methodist preacher.",
+      "sources": ["src_wikipedia_mcconnell"],
+      "confidence": "stated",
+      "category": "people",
+      "entities": ["J.W. McConnell", "Lily Griffith McConnell"],
+      "date_ref": "1905",
+      "conflicts_with": [],
+      "added_version": "4.8",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_0518",
+      "claim": "J.W. McConnell had four children: Wilson Griffith (1908–1966), John Griffith (1911–1974), Kathleen Griffith (1918–2012), and David Griffith (1923–1963). All bore the middle name Griffith after their mother's maiden name.",
+      "sources": ["src_wikipedia_mcconnell"],
+      "confidence": "stated",
+      "category": "people",
+      "entities": ["J.W. McConnell", "Wilson Griffith McConnell", "John Griffith McConnell", "Kathleen Griffith McConnell", "David Griffith McConnell"],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "4.8",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_0519",
+      "claim": "Wilson Griffith McConnell (1908–1966) was J.W. McConnell's eldest son. He managed St. Lawrence Sugar Refineries and married Marjorie Wallace.",
+      "sources": ["src_wikipedia_mcconnell"],
+      "confidence": "stated",
+      "category": "people",
+      "entities": ["Wilson Griffith McConnell", "J.W. McConnell", "St. Lawrence Sugar"],
+      "date_ref": "1908",
+      "conflicts_with": [],
+      "added_version": "4.8",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_0520",
+      "claim": "J.W. McConnell moved into a YMCA room in Montreal in 1901, beginning a lifelong commitment to the organization.",
+      "sources": ["src_mcconnell_foundation"],
+      "confidence": "stated",
+      "category": "people",
+      "entities": ["J.W. McConnell", "YMCA"],
+      "date_ref": "1901",
+      "conflicts_with": [],
+      "added_version": "4.8",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_0521",
+      "claim": "J.W. McConnell led a YMCA fundraising campaign in 1909 that raised over $300,000.",
+      "sources": ["src_mcconnell_foundation"],
+      "confidence": "stated",
+      "category": "people",
+      "entities": ["J.W. McConnell", "YMCA"],
+      "date_ref": "1909",
+      "conflicts_with": [],
+      "added_version": "4.8",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_0522",
+      "claim": "The McConnell Foundation describes its relationship with Camp Kanawana as 'long' and has funded major renovations at the camp.",
+      "sources": ["src_mcconnell_foundation"],
+      "confidence": "stated",
+      "category": "operations",
+      "entities": ["McConnell Foundation", "Camp Kanawana"],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "4.8",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_0523",
+      "claim": "William Fong's biography J.W. McConnell: Financier, Philanthropist, Patriot (McGill-Queen's, 2008) includes a chapter on McConnell's YMCA fundraising titled 'Keep the Home Fires Burning' beginning at page 123.",
+      "sources": ["src_fong_mcconnell_2008"],
+      "confidence": "stated",
+      "category": "sources_archives",
+      "entities": ["J.W. McConnell", "William Fong", "YMCA"],
+      "date_ref": "2008",
+      "conflicts_with": [],
+      "added_version": "4.8",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_0524",
+      "claim": "There are two separate lakes named 'Lac Wilson' in the broader Kanawana region: one within the Camp Kanawana property (near Mille-Isles) and another in Saint-Adolphe-d'Howard approximately 20–30 km northwest.",
+      "sources": ["src_mysummercamps_kanawana"],
+      "confidence": "stated",
+      "category": "geography",
+      "entities": ["Lake Wilson", "Camp Kanawana", "Mille-Isles", "Saint-Adolphe-d'Howard"],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "4.8",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_0525",
+      "claim": "No documentary source has been found that explicitly connects the naming of Lake Wilson at Camp Kanawana to any specific person or family, including the McConnell family. The most likely sources to contain this information are the 1933 Ralph Dawson history, the 1943 R.L. Charlton 'Early Days' account, and the McMorris thesis full text.",
+      "sources": ["src_oral_aronson"],
+      "confidence": "inferred",
+      "category": "geography",
+      "entities": ["Lake Wilson", "J.W. McConnell", "Camp Kanawana"],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "4.8",
       "added_by": "ralph_loop"
     }
   ]

@@ -1361,6 +1361,22 @@
       "extraction_version": "4.7",
       "reliability": "secondary",
       "notes": "Career bio: Global Affairs Canada 16 years, WHO, UNICEF, CGAI Fellow, Hill Times columnist, Carleton BA/MA Journalism."
+    },
+    {
+      "source_id": "src_fong_mcconnell_2008",
+      "type": "report",
+      "title": "Fong, William. J.W. McConnell: Financier, Philanthropist, Patriot. McGill-Queen's University Press, 2008.",
+      "date": "2008",
+      "date_precision": "year",
+      "origin": "web",
+      "origin_url": "https://www.mqup.ca/j-w--mcconnell-products-9780773534261.php",
+      "cache_path": null,
+      "char_count": 0,
+      "ingested_at": "2026-02-26T00:00:00Z",
+      "extracted": false,
+      "extraction_version": null,
+      "reliability": "secondary",
+      "notes": "Authoritative biography of J.W. McConnell. Chapter 5 covers YMCA fundraising 1909. pp. 123+. Not yet acquired for full extraction. Highest-priority source for McConnell-Kanawana connection."
     }
   ]
 }
