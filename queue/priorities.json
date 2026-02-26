@@ -494,7 +494,34 @@
       "blocking": false,
       "assigned_weight": "P3",
       "created_at": "2026-02-19T12:00:00Z",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-02-19T12:30:00Z",
+      "result": "Stuart McLean advanced stub → draft → R3-verified → E1-reviewed in single pipeline run. Article expanded to 1400 words, 13 sources, 9 sections. Full biography with camp years, CBC career, honours, fund, legacy."
+    },
+    {
+      "priority_id": "p_039",
+      "rank": 39,
+      "type": "RESEARCH",
+      "description": "Formal RALPH R1 on pip-alumni-award — web research on recipients, Caddell family, selection criteria",
+      "article_id": "pip-alumni-award",
+      "blocking": false,
+      "assigned_weight": "P3",
+      "created_at": "2026-02-19T12:00:00Z",
+      "status": "completed",
+      "completed_at": "2026-02-19T13:00:00Z",
+      "result": "Pip Alumni Award advanced stub → draft → R3-verified → E1-reviewed in single pipeline run. All recipient years 2007-2018 resolved. James Caddell biography expanded. Andrew Caddell profiled. Article expanded to 1500 words, 11 sources. 5 new sources registered."
+    },
+    {
+      "priority_id": "p_040",
+      "rank": 40,
+      "type": "WRITE",
+      "description": "Restore ralph-dawson.md content from user-provided text",
+      "article_id": "ralph-dawson",
+      "blocking": true,
+      "blocking_reason": "Content lost during context compaction. File does not exist on disk. User will provide content later.",
+      "assigned_weight": "P2",
+      "created_at": "2026-02-19T13:00:00Z",
+      "status": "blocked"
     }
   ]
 }

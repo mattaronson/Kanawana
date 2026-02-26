@@ -8,13 +8,75 @@
       "wiki_folder": "chronology",
       "status": "E1-reviewed",
       "status_history": [
-        {"status": "E1-reviewed", "at": "2026-02-10T00:00:00Z", "by": "auto", "task": "REVIEW"}
+        {
+          "status": "E1-reviewed",
+          "at": "2026-02-10T00:00:00Z",
+          "by": "auto",
+          "task": "REVIEW"
+        }
       ],
       "ralph_loops_completed": 1,
-      "kb_facts_used": ["f_0001", "f_0002", "f_0003", "f_0004", "f_0006", "f_0007", "f_0008", "f_0009", "f_0010", "f_0011", "f_0012", "f_0013", "f_0014", "f_0015", "f_0016", "f_0017", "f_0018", "f_0019", "f_0020", "f_0021", "f_0023", "f_0024", "f_0027", "f_0031", "f_0047", "f_0049", "f_0061", "f_0063", "f_0064", "f_0065", "f_0066", "f_0339", "f_0365", "f_0479", "f_0486"],
-      "sources_cited": ["src_ymca_website", "src_qahn_howard", "src_concordia_12L", "src_concordia_12B", "src_brochure_1923", "src_history_1935", "src_cfcf_1941"],
+      "kb_facts_used": [
+        "f_0001",
+        "f_0002",
+        "f_0003",
+        "f_0004",
+        "f_0006",
+        "f_0007",
+        "f_0008",
+        "f_0009",
+        "f_0010",
+        "f_0011",
+        "f_0012",
+        "f_0013",
+        "f_0014",
+        "f_0015",
+        "f_0016",
+        "f_0017",
+        "f_0018",
+        "f_0019",
+        "f_0020",
+        "f_0021",
+        "f_0023",
+        "f_0024",
+        "f_0027",
+        "f_0031",
+        "f_0032",
+        "f_0033",
+        "f_0034",
+        "f_0035",
+        "f_0036",
+        "f_0037",
+        "f_0047",
+        "f_0049",
+        "f_0061",
+        "f_0063",
+        "f_0064",
+        "f_0065",
+        "f_0066",
+        "f_0339",
+        "f_0364",
+        "f_0365",
+        "f_0479",
+        "f_0486"
+      ],
+      "sources_cited": [
+        "src_ymca_website",
+        "src_qahn_howard",
+        "src_concordia_12L",
+        "src_concordia_12B",
+        "src_brochure_1923",
+        "src_history_1935",
+        "src_cfcf_1941"
+      ],
       "open_questions": 6,
-      "cross_links": ["camp-jubilee", "billy-ball", "da-budge", "directors-index", "ralph-dawson"],
+      "cross_links": [
+        "camp-jubilee",
+        "billy-ball",
+        "da-budge",
+        "directors-index",
+        "ralph-dawson"
+      ],
       "file_id": "1h-vki1U2tjYj8-zZ5gzuyW6kQXelcUnB",
       "word_count": 2200
     },
@@ -24,13 +86,41 @@
       "wiki_folder": "people",
       "status": "E1-reviewed",
       "status_history": [
-        {"status": "E1-reviewed", "at": "2026-02-10T00:00:00Z", "by": "auto", "task": "REVIEW"}
+        {
+          "status": "E1-reviewed",
+          "at": "2026-02-10T00:00:00Z",
+          "by": "auto",
+          "task": "REVIEW"
+        }
       ],
       "ralph_loops_completed": 1,
-      "kb_facts_used": ["f_0001", "f_0002", "f_0011", "f_0012", "f_0014", "f_0019", "f_0020", "f_0039", "f_0386", "f_0427", "f_0431"],
-      "sources_cited": ["src_mcgill_archives", "src_ymca_world", "src_concordia_1B", "src_concordia_12L", "src_naismith_foundation"],
+      "kb_facts_used": [
+        "f_0001",
+        "f_0002",
+        "f_0011",
+        "f_0012",
+        "f_0014",
+        "f_0019",
+        "f_0020",
+        "f_0039",
+        "f_0386",
+        "f_0427",
+        "f_0431"
+      ],
+      "sources_cited": [
+        "src_mcgill_archives",
+        "src_ymca_world",
+        "src_concordia_1B",
+        "src_concordia_12L",
+        "src_naismith_foundation"
+      ],
       "open_questions": 4,
-      "cross_links": ["founding-1894", "harold-cross", "directors-index", "billy-ball"],
+      "cross_links": [
+        "founding-1894",
+        "harold-cross",
+        "directors-index",
+        "billy-ball"
+      ],
       "file_id": "1iOHcDJeDgo5VFTfb46EQ6JrFYuZaZie5",
       "word_count": 1100
     },
@@ -40,13 +130,41 @@
       "wiki_folder": "programs",
       "status": "E1-reviewed",
       "status_history": [
-        {"status": "E1-reviewed", "at": "2026-02-10T00:00:00Z", "by": "auto", "task": "REVIEW"}
+        {
+          "status": "E1-reviewed",
+          "at": "2026-02-10T00:00:00Z",
+          "by": "auto",
+          "task": "REVIEW"
+        }
       ],
       "ralph_loops_completed": 1,
-      "kb_facts_used": ["f_0127", "f_0202", "f_0236", "f_0237", "f_0238", "f_0239", "f_0240", "f_0241", "f_0242", "f_0243", "f_0324", "f_0329"],
-      "sources_cited": ["src_mcmorris_thesis", "src_concordia_12K", "src_kanawana_facts", "src_ymca_website", "src_history_1935"],
+      "kb_facts_used": [
+        "f_0127",
+        "f_0202",
+        "f_0236",
+        "f_0237",
+        "f_0238",
+        "f_0239",
+        "f_0240",
+        "f_0241",
+        "f_0242",
+        "f_0243",
+        "f_0324",
+        "f_0329"
+      ],
+      "sources_cited": [
+        "src_mcmorris_thesis",
+        "src_concordia_12K",
+        "src_kanawana_facts",
+        "src_ymca_website",
+        "src_history_1935"
+      ],
       "open_questions": 3,
-      "cross_links": ["centennial-1967", "programs-activities", "lv-games"],
+      "cross_links": [
+        "centennial-1967",
+        "programs-activities",
+        "lv-games"
+      ],
       "file_id": "13MmwA1lO_3J3rJ7yEZjwsvT--vWooITy",
       "word_count": 650
     },
@@ -56,13 +174,36 @@
       "wiki_folder": "places",
       "status": "E1-reviewed",
       "status_history": [
-        {"status": "E1-reviewed", "at": "2026-02-10T00:00:00Z", "by": "auto", "task": "REVIEW"}
+        {
+          "status": "E1-reviewed",
+          "at": "2026-02-10T00:00:00Z",
+          "by": "auto",
+          "task": "REVIEW"
+        }
       ],
       "ralph_loops_completed": 1,
-      "kb_facts_used": ["f_0031", "f_0038", "f_0134", "f_0231", "f_0232", "f_0233", "f_0234", "f_0235"],
-      "sources_cited": ["src_mcmorris_thesis", "src_concordia_12B01", "src_concordia_02D", "src_history_1935"],
+      "kb_facts_used": [
+        "f_0031",
+        "f_0038",
+        "f_0134",
+        "f_0231",
+        "f_0232",
+        "f_0233",
+        "f_0234",
+        "f_0235"
+      ],
+      "sources_cited": [
+        "src_mcmorris_thesis",
+        "src_concordia_12B01",
+        "src_concordia_02D",
+        "src_history_1935"
+      ],
       "open_questions": 3,
-      "cross_links": ["founding-1894", "harold-cross", "traditions-and-culture"],
+      "cross_links": [
+        "founding-1894",
+        "harold-cross",
+        "traditions-and-culture"
+      ],
       "file_id": "13YtmB0kQvK5oBY-Kz_88vIgztYAH5x2e",
       "word_count": 600
     },
@@ -72,13 +213,41 @@
       "wiki_folder": "programs",
       "status": "E1-reviewed",
       "status_history": [
-        {"status": "E1-reviewed", "at": "2026-02-10T00:00:00Z", "by": "auto", "task": "REVIEW"}
+        {
+          "status": "E1-reviewed",
+          "at": "2026-02-10T00:00:00Z",
+          "by": "auto",
+          "task": "REVIEW"
+        }
       ],
       "ralph_loops_completed": 1,
-      "kb_facts_used": ["f_0192", "f_0193", "f_0194", "f_0195", "f_0196", "f_0197", "f_0198", "f_0199", "f_0332", "f_0370", "f_0371", "f_0373"],
-      "sources_cited": ["src_mcmorris_thesis", "src_ymca_website", "src_ymca_gta_pine_crest", "src_pine_crest_book"],
+      "kb_facts_used": [
+        "f_0192",
+        "f_0193",
+        "f_0194",
+        "f_0195",
+        "f_0196",
+        "f_0197",
+        "f_0198",
+        "f_0199",
+        "f_0332",
+        "f_0370",
+        "f_0371",
+        "f_0373"
+      ],
+      "sources_cited": [
+        "src_mcmorris_thesis",
+        "src_ymca_website",
+        "src_ymca_gta_pine_crest",
+        "src_pine_crest_book"
+      ],
       "open_questions": 4,
-      "cross_links": ["programs-activities", "pine-crest", "canoe-trips", "traditions-and-culture"],
+      "cross_links": [
+        "programs-activities",
+        "pine-crest",
+        "canoe-trips",
+        "traditions-and-culture"
+      ],
       "file_id": "1EmzjwZxmQKJhFrNsbFGn1HbdseFBM9E7",
       "word_count": 750
     },
@@ -88,13 +257,53 @@
       "wiki_folder": "chronology",
       "status": "E1-reviewed",
       "status_history": [
-        {"status": "E1-reviewed", "at": "2026-02-10T00:00:00Z", "by": "auto", "task": "REVIEW"}
+        {
+          "status": "E1-reviewed",
+          "at": "2026-02-10T00:00:00Z",
+          "by": "auto",
+          "task": "REVIEW"
+        }
       ],
       "ralph_loops_completed": 1,
-      "kb_facts_used": ["f_0009", "f_0043", "f_0044", "f_0047", "f_0048", "f_0077", "f_0078", "f_0083", "f_0092", "f_0093", "f_0094", "f_0095", "f_0096", "f_0100", "f_0102", "f_0104", "f_0105", "f_0184", "f_0222", "f_0223", "f_0224", "f_0349", "f_0356", "f_0404"],
-      "sources_cited": ["src_cfcf_1941", "src_green_triangle_1938", "src_mcmorris_thesis", "src_history_1935", "src_corb_historical"],
+      "kb_facts_used": [
+        "f_0009",
+        "f_0043",
+        "f_0044",
+        "f_0047",
+        "f_0048",
+        "f_0077",
+        "f_0078",
+        "f_0083",
+        "f_0092",
+        "f_0093",
+        "f_0094",
+        "f_0095",
+        "f_0096",
+        "f_0100",
+        "f_0102",
+        "f_0104",
+        "f_0105",
+        "f_0184",
+        "f_0222",
+        "f_0223",
+        "f_0224",
+        "f_0349",
+        "f_0356",
+        "f_0404"
+      ],
+      "sources_cited": [
+        "src_cfcf_1941",
+        "src_green_triangle_1938",
+        "src_mcmorris_thesis",
+        "src_history_1935",
+        "src_corb_historical"
+      ],
       "open_questions": 3,
-      "cross_links": ["howie-langille", "directors-index", "founding-1894"],
+      "cross_links": [
+        "howie-langille",
+        "directors-index",
+        "founding-1894"
+      ],
       "file_id": "1FzPFWuQ3jBYZdPOSVC_xjANKsWr7RjSK",
       "word_count": 1800
     },
@@ -104,13 +313,39 @@
       "wiki_folder": "context",
       "status": "E1-reviewed",
       "status_history": [
-        {"status": "E1-reviewed", "at": "2026-02-10T00:00:00Z", "by": "auto", "task": "REVIEW"}
+        {
+          "status": "E1-reviewed",
+          "at": "2026-02-10T00:00:00Z",
+          "by": "auto",
+          "task": "REVIEW"
+        }
       ],
       "ralph_loops_completed": 1,
-      "kb_facts_used": ["f_0078", "f_0079", "f_0080", "f_0139", "f_0200", "f_0213", "f_0214", "f_0215", "f_0216", "f_0217", "f_0242", "f_0302", "f_0453"],
-      "sources_cited": ["src_mcmorris_thesis", "src_ymca_website", "src_kanawana_facts"],
+      "kb_facts_used": [
+        "f_0078",
+        "f_0079",
+        "f_0080",
+        "f_0139",
+        "f_0200",
+        "f_0213",
+        "f_0214",
+        "f_0215",
+        "f_0216",
+        "f_0217",
+        "f_0242",
+        "f_0302",
+        "f_0453"
+      ],
+      "sources_cited": [
+        "src_mcmorris_thesis",
+        "src_ymca_website",
+        "src_kanawana_facts"
+      ],
       "open_questions": 3,
-      "cross_links": ["programs-activities", "coeducation-gender"],
+      "cross_links": [
+        "programs-activities",
+        "coeducation-gender"
+      ],
       "file_id": "1vObPDCKcgzCi8HVCEMuBzQCMPd0jk2ua",
       "word_count": 900
     },
@@ -120,17 +355,78 @@
       "wiki_folder": "context",
       "status": "E1-reviewed",
       "status_history": [
-        {"status": "stub", "at": "2026-02-09T00:00:00Z", "by": "auto", "task": "RESEARCH"},
-        {"status": "draft", "at": "2026-02-10T00:00:00Z", "by": "auto", "task": "WRITE"},
-        {"status": "draft", "at": "2026-02-10T12:00:00Z", "by": "auto", "task": "RESEARCH"},
-        {"status": "R3-verified", "at": "2026-02-18T00:00:00Z", "by": "auto", "task": "VERIFY"},
-        {"status": "E1-reviewed", "at": "2026-02-19T00:00:00Z", "by": "auto", "task": "REVIEW"}
+        {
+          "status": "stub",
+          "at": "2026-02-09T00:00:00Z",
+          "by": "auto",
+          "task": "RESEARCH"
+        },
+        {
+          "status": "draft",
+          "at": "2026-02-10T00:00:00Z",
+          "by": "auto",
+          "task": "WRITE"
+        },
+        {
+          "status": "draft",
+          "at": "2026-02-10T12:00:00Z",
+          "by": "auto",
+          "task": "RESEARCH"
+        },
+        {
+          "status": "R3-verified",
+          "at": "2026-02-18T00:00:00Z",
+          "by": "auto",
+          "task": "VERIFY"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-02-19T00:00:00Z",
+          "by": "auto",
+          "task": "REVIEW"
+        }
       ],
       "ralph_loops_completed": 2,
-      "kb_facts_used": ["f_0200", "f_0201", "f_0202", "f_0216", "f_0217", "f_0218", "f_0219", "f_0220", "f_0221", "f_0322", "f_0324", "f_0330", "f_0346", "f_0366", "f_0367", "f_0368", "f_0369", "f_0408", "f_0413", "f_0426", "f_0453", "f_0470"],
-      "sources_cited": ["src_mcmorris_thesis", "src_ymca_website", "src_concordia_fonds", "src_kanawana_facts", "src_gas_bag_1923", "src_ymca_john_island_newsletter"],
+      "kb_facts_used": [
+        "f_0200",
+        "f_0201",
+        "f_0202",
+        "f_0216",
+        "f_0217",
+        "f_0218",
+        "f_0219",
+        "f_0220",
+        "f_0221",
+        "f_0322",
+        "f_0324",
+        "f_0330",
+        "f_0346",
+        "f_0366",
+        "f_0367",
+        "f_0368",
+        "f_0369",
+        "f_0408",
+        "f_0413",
+        "f_0426",
+        "f_0453",
+        "f_0470"
+      ],
+      "sources_cited": [
+        "src_mcmorris_thesis",
+        "src_ymca_website",
+        "src_concordia_fonds",
+        "src_kanawana_facts",
+        "src_gas_bag_1923",
+        "src_ymca_john_island_newsletter"
+      ],
       "open_questions": 8,
-      "cross_links": ["section-names", "lv-games", "canoe-trips", "camp-otoreke", "founding-1894"],
+      "cross_links": [
+        "section-names",
+        "lv-games",
+        "canoe-trips",
+        "camp-otoreke",
+        "founding-1894"
+      ],
       "file_id": "1KW2yhoZ-wr_71sTPbLJ3v81KW4ZEJ_p-",
       "word_count": 2100,
       "notes": "E1 REVIEW (2026-02-19): Fixed source header (src_ymca_facts→src_kanawana_facts), added Spectrum URL for McMorris thesis, added IA URLs for Facts sheet and Gas Bag. All claims cited, dates consistent, names cross-checked, tone encyclopedic. Advanced R3-verified → E1-reviewed."
@@ -141,17 +437,132 @@
       "wiki_folder": "programs",
       "status": "E1-reviewed",
       "status_history": [
-        {"status": "stub", "at": "2026-02-09T00:00:00Z", "by": "auto", "task": "RESEARCH"},
-        {"status": "draft", "at": "2026-02-10T00:00:00Z", "by": "auto", "task": "WRITE"},
-        {"status": "draft", "at": "2026-02-10T12:00:00Z", "by": "auto", "task": "RESEARCH"},
-        {"status": "R3-verified", "at": "2026-02-19T00:00:00Z", "by": "auto", "task": "VERIFY"},
-        {"status": "E1-reviewed", "at": "2026-02-19T00:00:00Z", "by": "auto", "task": "REVIEW"}
+        {
+          "status": "stub",
+          "at": "2026-02-09T00:00:00Z",
+          "by": "auto",
+          "task": "RESEARCH"
+        },
+        {
+          "status": "draft",
+          "at": "2026-02-10T00:00:00Z",
+          "by": "auto",
+          "task": "WRITE"
+        },
+        {
+          "status": "draft",
+          "at": "2026-02-10T12:00:00Z",
+          "by": "auto",
+          "task": "RESEARCH"
+        },
+        {
+          "status": "R3-verified",
+          "at": "2026-02-19T00:00:00Z",
+          "by": "auto",
+          "task": "VERIFY"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-02-19T00:00:00Z",
+          "by": "auto",
+          "task": "REVIEW"
+        }
       ],
       "ralph_loops_completed": 2,
-      "kb_facts_used": ["f_0001", "f_0002", "f_0004", "f_0006", "f_0007", "f_0008", "f_0010", "f_0012", "f_0013", "f_0014", "f_0015", "f_0017", "f_0018", "f_0117", "f_0118", "f_0140", "f_0192", "f_0193", "f_0194", "f_0195", "f_0200", "f_0201", "f_0202", "f_0207", "f_0213", "f_0214", "f_0215", "f_0216", "f_0236", "f_0240", "f_0241", "f_0242", "f_0243", "f_0289", "f_0292", "f_0293", "f_0302", "f_0304", "f_0305", "f_0309", "f_0314", "f_0315", "f_0316", "f_0317", "f_0318", "f_0319", "f_0324", "f_0325", "f_0327", "f_0328", "f_0329", "f_0333", "f_0344", "f_0347", "f_0348", "f_0354", "f_0369", "f_0373", "f_0378", "f_0379", "f_0380", "f_0428", "f_0429", "f_0437", "f_0438", "f_0440", "f_0464", "f_0465", "f_0469", "f_0477"],
-      "sources_cited": ["src_brochure_1922", "src_history_1935", "src_mcmorris_thesis", "src_kanawana_facts", "src_ymca_website", "src_concordia_12A", "src_concordia_12B04", "src_gas_bag_1923", "src_cfcf_1941", "src_brochure_1921"],
+      "kb_facts_used": [
+        "f_0001",
+        "f_0002",
+        "f_0004",
+        "f_0006",
+        "f_0007",
+        "f_0008",
+        "f_0010",
+        "f_0012",
+        "f_0013",
+        "f_0014",
+        "f_0015",
+        "f_0017",
+        "f_0018",
+        "f_0117",
+        "f_0118",
+        "f_0140",
+        "f_0192",
+        "f_0193",
+        "f_0194",
+        "f_0195",
+        "f_0200",
+        "f_0201",
+        "f_0202",
+        "f_0207",
+        "f_0213",
+        "f_0214",
+        "f_0215",
+        "f_0216",
+        "f_0236",
+        "f_0240",
+        "f_0241",
+        "f_0242",
+        "f_0243",
+        "f_0289",
+        "f_0292",
+        "f_0293",
+        "f_0302",
+        "f_0304",
+        "f_0305",
+        "f_0309",
+        "f_0314",
+        "f_0315",
+        "f_0316",
+        "f_0317",
+        "f_0318",
+        "f_0319",
+        "f_0324",
+        "f_0325",
+        "f_0327",
+        "f_0328",
+        "f_0329",
+        "f_0333",
+        "f_0344",
+        "f_0347",
+        "f_0348",
+        "f_0354",
+        "f_0369",
+        "f_0373",
+        "f_0378",
+        "f_0379",
+        "f_0380",
+        "f_0428",
+        "f_0429",
+        "f_0437",
+        "f_0438",
+        "f_0440",
+        "f_0464",
+        "f_0465",
+        "f_0469",
+        "f_0477"
+      ],
+      "sources_cited": [
+        "src_brochure_1922",
+        "src_history_1935",
+        "src_mcmorris_thesis",
+        "src_kanawana_facts",
+        "src_ymca_website",
+        "src_concordia_12A",
+        "src_concordia_12B04",
+        "src_gas_bag_1923",
+        "src_cfcf_1941",
+        "src_brochure_1921"
+      ],
       "open_questions": 8,
-      "cross_links": ["lv-games", "canoe-trips", "section-names", "coeducation-gender", "council-ring", "founding-1894", "traditions-and-culture"],
+      "cross_links": [
+        "lv-games",
+        "canoe-trips",
+        "section-names",
+        "coeducation-gender",
+        "council-ring",
+        "founding-1894",
+        "traditions-and-culture"
+      ],
       "file_id": "1oqLoU6_bzWD_9jXwXQgYNm_EqLCEfNjR",
       "word_count": 2100,
       "notes": "E1 REVIEW (2026-02-19): All claims cited, dates consistent, names cross-checked, tone encyclopedic, cross-links valid, open questions actionable, no redundancy with sibling articles. Advanced R3-verified → E1-reviewed."
@@ -162,14 +573,30 @@
       "wiki_folder": "people",
       "status": "draft",
       "status_history": [
-        {"status": "stub", "at": "2026-02-08T00:00:00Z", "by": "auto", "task": "RESEARCH"},
-        {"status": "draft", "at": "2026-02-09T00:00:00Z", "by": "auto", "task": "WRITE"}
+        {
+          "status": "stub",
+          "at": "2026-02-08T00:00:00Z",
+          "by": "auto",
+          "task": "RESEARCH"
+        },
+        {
+          "status": "draft",
+          "at": "2026-02-09T00:00:00Z",
+          "by": "auto",
+          "task": "WRITE"
+        }
       ],
       "ralph_loops_completed": 1,
       "kb_facts_used": [],
-      "sources_cited": ["src_concordia_fonds", "src_concordia_12L"],
+      "sources_cited": [
+        "src_concordia_fonds",
+        "src_concordia_12L"
+      ],
       "open_questions": 3,
-      "cross_links": ["founding-1894", "camp-jubilee"],
+      "cross_links": [
+        "founding-1894",
+        "camp-jubilee"
+      ],
       "file_id": "1sAGFRKb22uggFeMgrSJLllgpSZoAGxa4",
       "word_count": 0,
       "notes": "v47 protocol test subject. Formal RALPH caught factual conflation."
@@ -180,18 +607,168 @@
       "wiki_folder": "people",
       "status": "E1-reviewed",
       "status_history": [
-        {"status": "stub", "at": "2026-02-08T00:00:00Z", "by": "auto", "task": "RESEARCH"},
-        {"status": "stub", "at": "2026-02-11T08:30:00Z", "by": "auto", "task": "RESEARCH"},
-        {"status": "draft", "at": "2026-02-14T02:30:00Z", "by": "auto", "task": "RESEARCH"},
-        {"status": "draft", "at": "2026-02-17T05:00:00Z", "by": "auto", "task": "WRITE"},
-        {"status": "R3-verified", "at": "2026-02-19T04:00:00Z", "by": "auto", "task": "VERIFY"},
-        {"status": "E1-reviewed", "at": "2026-02-19T04:30:00Z", "by": "auto", "task": "REVIEW"}
+        {
+          "status": "stub",
+          "at": "2026-02-08T00:00:00Z",
+          "by": "auto",
+          "task": "RESEARCH"
+        },
+        {
+          "status": "stub",
+          "at": "2026-02-11T08:30:00Z",
+          "by": "auto",
+          "task": "RESEARCH"
+        },
+        {
+          "status": "draft",
+          "at": "2026-02-14T02:30:00Z",
+          "by": "auto",
+          "task": "RESEARCH"
+        },
+        {
+          "status": "draft",
+          "at": "2026-02-17T05:00:00Z",
+          "by": "auto",
+          "task": "WRITE"
+        },
+        {
+          "status": "R3-verified",
+          "at": "2026-02-19T04:00:00Z",
+          "by": "auto",
+          "task": "VERIFY"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-02-19T04:30:00Z",
+          "by": "auto",
+          "task": "REVIEW"
+        }
       ],
       "ralph_loops_completed": 2,
-      "kb_facts_used": ["f_0019", "f_0020", "f_0038", "f_0039", "f_0040", "f_0041", "f_0042", "f_0043", "f_0044", "f_0045", "f_0047", "f_0048", "f_0049", "f_0051", "f_0052", "f_0053", "f_0054", "f_0055", "f_0056", "f_0057", "f_0058", "f_0059", "f_0060", "f_0061", "f_0062", "f_0063", "f_0064", "f_0065", "f_0066", "f_0067", "f_0068", "f_0069", "f_0070", "f_0071", "f_0072", "f_0073", "f_0074", "f_0075", "f_0076", "f_0077", "f_0078", "f_0079", "f_0080", "f_0081", "f_0082", "f_0083", "f_0084", "f_0085", "f_0086", "f_0087", "f_0088", "f_0089", "f_0090", "f_0091", "f_0092", "f_0093", "f_0094", "f_0095", "f_0096", "f_0097", "f_0099", "f_0100", "f_0101", "f_0106", "f_0107", "f_0108", "f_0109", "f_0110", "f_0111", "f_0112", "f_0144", "f_0145", "f_0146", "f_0179", "f_0184", "f_0185", "f_0219", "f_0356", "f_0404", "f_0405", "f_0406", "f_0417", "f_0418", "f_0419", "f_0420", "f_0421", "f_0422", "f_0423", "f_0424", "f_0425"],
-      "sources_cited": ["src_mcmorris_thesis", "src_concordia_fonds", "src_concordia_fonds_14D", "src_brochure_1921", "src_brochure_1922", "src_brochure_1923", "src_cfcf_1941", "src_oral_aronson", "src_ymca_website", "src_ourkids_mclean", "src_ymca_pip_mosher", "src_ymca_pip_orbinski", "src_ymca_120th", "src_history_1935", "src_gas_bag_1923", "src_green_triangle_1938", "src_ka_news_1980", "src_samaritanmag_mclean", "src_qahn_howard"],
+      "kb_facts_used": [
+        "f_0019",
+        "f_0020",
+        "f_0038",
+        "f_0039",
+        "f_0040",
+        "f_0041",
+        "f_0042",
+        "f_0043",
+        "f_0044",
+        "f_0045",
+        "f_0047",
+        "f_0048",
+        "f_0049",
+        "f_0051",
+        "f_0052",
+        "f_0053",
+        "f_0054",
+        "f_0055",
+        "f_0056",
+        "f_0057",
+        "f_0058",
+        "f_0059",
+        "f_0060",
+        "f_0061",
+        "f_0062",
+        "f_0063",
+        "f_0064",
+        "f_0065",
+        "f_0066",
+        "f_0067",
+        "f_0068",
+        "f_0069",
+        "f_0070",
+        "f_0071",
+        "f_0072",
+        "f_0073",
+        "f_0074",
+        "f_0075",
+        "f_0076",
+        "f_0077",
+        "f_0078",
+        "f_0079",
+        "f_0080",
+        "f_0081",
+        "f_0082",
+        "f_0083",
+        "f_0084",
+        "f_0085",
+        "f_0086",
+        "f_0087",
+        "f_0088",
+        "f_0089",
+        "f_0090",
+        "f_0091",
+        "f_0092",
+        "f_0093",
+        "f_0094",
+        "f_0095",
+        "f_0096",
+        "f_0097",
+        "f_0099",
+        "f_0100",
+        "f_0101",
+        "f_0106",
+        "f_0107",
+        "f_0108",
+        "f_0109",
+        "f_0110",
+        "f_0111",
+        "f_0112",
+        "f_0144",
+        "f_0145",
+        "f_0146",
+        "f_0179",
+        "f_0184",
+        "f_0185",
+        "f_0219",
+        "f_0356",
+        "f_0404",
+        "f_0405",
+        "f_0406",
+        "f_0417",
+        "f_0418",
+        "f_0419",
+        "f_0420",
+        "f_0421",
+        "f_0422",
+        "f_0423",
+        "f_0424",
+        "f_0425"
+      ],
+      "sources_cited": [
+        "src_mcmorris_thesis",
+        "src_concordia_fonds",
+        "src_concordia_fonds_14D",
+        "src_brochure_1921",
+        "src_brochure_1922",
+        "src_brochure_1923",
+        "src_cfcf_1941",
+        "src_oral_aronson",
+        "src_ymca_website",
+        "src_ourkids_mclean",
+        "src_ymca_pip_mosher",
+        "src_ymca_pip_orbinski",
+        "src_ymca_120th",
+        "src_history_1935",
+        "src_gas_bag_1923",
+        "src_green_triangle_1938",
+        "src_ka_news_1980",
+        "src_samaritanmag_mclean",
+        "src_qahn_howard"
+      ],
       "open_questions": 7,
-      "cross_links": ["harold-cross", "ralph-dawson", "billy-ball", "da-budge", "founding-1894", "stuart-mclean", "wartime-kanawana", "traditions-and-culture"],
+      "cross_links": [
+        "harold-cross",
+        "ralph-dawson",
+        "billy-ball",
+        "da-budge",
+        "founding-1894",
+        "stuart-mclean",
+        "wartime-kanawana",
+        "traditions-and-culture"
+      ],
       "file_id": null,
       "word_count": 2400,
       "notes": "E1 REVIEW (2026-02-19): PASS — all 7 checklist items satisfied. No fixes needed. Advanced R3-verified → E1-reviewed."
@@ -202,17 +779,49 @@
       "wiki_folder": "meta",
       "status": "E1-reviewed",
       "status_history": [
-        {"status": "stub", "at": "2026-02-08T00:00:00Z", "by": "auto", "task": "RESEARCH"},
-        {"status": "draft", "at": "2026-02-14T01:30:00Z", "by": "auto", "task": "WRITE"},
-        {"status": "draft", "at": "2026-02-19T07:00:00Z", "by": "auto", "task": "WRITE"},
-        {"status": "R3-verified", "at": "2026-02-19T07:00:00Z", "by": "auto", "task": "VERIFY"},
-        {"status": "E1-reviewed", "at": "2026-02-19T07:30:00Z", "by": "auto", "task": "REVIEW"}
+        {
+          "status": "stub",
+          "at": "2026-02-08T00:00:00Z",
+          "by": "auto",
+          "task": "RESEARCH"
+        },
+        {
+          "status": "draft",
+          "at": "2026-02-14T01:30:00Z",
+          "by": "auto",
+          "task": "WRITE"
+        },
+        {
+          "status": "draft",
+          "at": "2026-02-19T07:00:00Z",
+          "by": "auto",
+          "task": "WRITE"
+        },
+        {
+          "status": "R3-verified",
+          "at": "2026-02-19T07:00:00Z",
+          "by": "auto",
+          "task": "VERIFY"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-02-19T07:30:00Z",
+          "by": "auto",
+          "task": "REVIEW"
+        }
       ],
       "ralph_loops_completed": 0,
       "kb_facts_used": [],
       "sources_cited": [],
       "open_questions": 7,
-      "cross_links": ["founding-1894", "centennial-1967", "canadian-camping-movement", "harold-cross", "pip-alumni-award", "stuart-mclean"],
+      "cross_links": [
+        "founding-1894",
+        "centennial-1967",
+        "canadian-camping-movement",
+        "harold-cross",
+        "pip-alumni-award",
+        "stuart-mclean"
+      ],
       "file_id": null,
       "word_count": 1200,
       "notes": "E1 REVIEW (2026-02-19): Fixed source counts (85 total, 74 extracted, 11 IA documents). Restructured with newspaper sources, Pip Award pages, biographical sources."
@@ -223,17 +832,65 @@
       "wiki_folder": "people",
       "status": "E1-reviewed",
       "status_history": [
-        {"status": "stub", "at": "2026-02-08T00:00:00Z", "by": "auto", "task": "RESEARCH"},
-        {"status": "stub", "at": "2026-02-11T08:00:00Z", "by": "auto", "task": "RESEARCH"},
-        {"status": "draft", "at": "2026-02-14T02:00:00Z", "by": "auto", "task": "RESEARCH"},
-        {"status": "R3-verified", "at": "2026-02-19T04:00:00Z", "by": "auto", "task": "VERIFY"},
-        {"status": "E1-reviewed", "at": "2026-02-19T04:30:00Z", "by": "auto", "task": "REVIEW"}
+        {
+          "status": "stub",
+          "at": "2026-02-08T00:00:00Z",
+          "by": "auto",
+          "task": "RESEARCH"
+        },
+        {
+          "status": "stub",
+          "at": "2026-02-11T08:00:00Z",
+          "by": "auto",
+          "task": "RESEARCH"
+        },
+        {
+          "status": "draft",
+          "at": "2026-02-14T02:00:00Z",
+          "by": "auto",
+          "task": "RESEARCH"
+        },
+        {
+          "status": "R3-verified",
+          "at": "2026-02-19T04:00:00Z",
+          "by": "auto",
+          "task": "VERIFY"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-02-19T04:30:00Z",
+          "by": "auto",
+          "task": "REVIEW"
+        }
       ],
       "ralph_loops_completed": 2,
-      "kb_facts_used": ["f_0038", "f_0039", "f_0395", "f_0396", "f_0397", "f_0398", "f_0399", "f_0400", "f_0401", "f_0402", "f_0403", "f_0407"],
-      "sources_cited": ["src_mcmorris_thesis", "src_concordia_fonds", "src_concordia_fonds_1B", "src_concordia_fonds_14D", "src_wikipedia_murray_ross"],
+      "kb_facts_used": [
+        "f_0038",
+        "f_0039",
+        "f_0395",
+        "f_0396",
+        "f_0397",
+        "f_0398",
+        "f_0399",
+        "f_0400",
+        "f_0401",
+        "f_0402",
+        "f_0403",
+        "f_0407"
+      ],
+      "sources_cited": [
+        "src_mcmorris_thesis",
+        "src_concordia_fonds",
+        "src_concordia_fonds_1B",
+        "src_concordia_fonds_14D",
+        "src_wikipedia_murray_ross"
+      ],
       "open_questions": 6,
-      "cross_links": ["council-ring", "directors-index", "centennial-1967"],
+      "cross_links": [
+        "council-ring",
+        "directors-index",
+        "centennial-1967"
+      ],
       "file_id": null,
       "word_count": 750,
       "notes": "E1 REVIEW (2026-02-19): Added inline ^1-^5 citations throughout body text. Standardized all name mentions to 'Harold C. Cross'. Added Related Articles section. Added priority tags to Open Questions. Advanced R3-verified → E1-reviewed."
@@ -244,16 +901,84 @@
       "wiki_folder": "chronology",
       "status": "E1-reviewed",
       "status_history": [
-        {"status": "stub", "at": "2026-02-08T00:00:00Z", "by": "auto", "task": "RESEARCH"},
-        {"status": "draft", "at": "2026-02-11T07:30:00Z", "by": "auto", "task": "WRITE"},
-        {"status": "R3-verified", "at": "2026-02-14T00:00:00Z", "by": "auto", "task": "VERIFY"},
-        {"status": "E1-reviewed", "at": "2026-02-14T03:30:00Z", "by": "auto", "task": "REVIEW"}
+        {
+          "status": "stub",
+          "at": "2026-02-08T00:00:00Z",
+          "by": "auto",
+          "task": "RESEARCH"
+        },
+        {
+          "status": "draft",
+          "at": "2026-02-11T07:30:00Z",
+          "by": "auto",
+          "task": "WRITE"
+        },
+        {
+          "status": "R3-verified",
+          "at": "2026-02-14T00:00:00Z",
+          "by": "auto",
+          "task": "VERIFY"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-02-14T03:30:00Z",
+          "by": "auto",
+          "task": "REVIEW"
+        }
       ],
       "ralph_loops_completed": 1,
-      "kb_facts_used": ["f_0246", "f_0247", "f_0282", "f_0283", "f_0284", "f_0285", "f_0286", "f_0287", "f_0288", "f_0289", "f_0290", "f_0291", "f_0292", "f_0293", "f_0294", "f_0295", "f_0296", "f_0297", "f_0298", "f_0299", "f_0300", "f_0301", "f_0362", "f_0387", "f_0388", "f_0389", "f_0390", "f_0391", "f_0392", "f_0393", "f_0394"],
-      "sources_cited": ["src_mcmorris_thesis", "src_wikipedia_voyageur_pageant", "src_canada_ehx_pageant", "src_dean_jcs", "src_cca_history", "src_wikipedia_hodgins", "src_wikipedia_starkell", "src_mb_sports_hof", "src_taylor_statten_camps", "src_concordia_fonds"],
+      "kb_facts_used": [
+        "f_0246",
+        "f_0247",
+        "f_0282",
+        "f_0283",
+        "f_0284",
+        "f_0285",
+        "f_0286",
+        "f_0287",
+        "f_0288",
+        "f_0289",
+        "f_0290",
+        "f_0291",
+        "f_0292",
+        "f_0293",
+        "f_0294",
+        "f_0295",
+        "f_0296",
+        "f_0297",
+        "f_0298",
+        "f_0299",
+        "f_0300",
+        "f_0301",
+        "f_0362",
+        "f_0387",
+        "f_0388",
+        "f_0389",
+        "f_0390",
+        "f_0391",
+        "f_0392",
+        "f_0393",
+        "f_0394"
+      ],
+      "sources_cited": [
+        "src_mcmorris_thesis",
+        "src_wikipedia_voyageur_pageant",
+        "src_canada_ehx_pageant",
+        "src_dean_jcs",
+        "src_cca_history",
+        "src_wikipedia_hodgins",
+        "src_wikipedia_starkell",
+        "src_mb_sports_hof",
+        "src_taylor_statten_camps",
+        "src_concordia_fonds"
+      ],
       "open_questions": 6,
-      "cross_links": ["canoe-trips", "canadian-camping-movement", "coeducation-gender", "founding-1894"],
+      "cross_links": [
+        "canoe-trips",
+        "canadian-camping-movement",
+        "coeducation-gender",
+        "founding-1894"
+      ],
       "file_id": null,
       "word_count": 1200
     },
@@ -263,16 +988,82 @@
       "wiki_folder": "context",
       "status": "E1-reviewed",
       "status_history": [
-        {"status": "stub", "at": "2026-02-08T00:00:00Z", "by": "auto", "task": "RESEARCH"},
-        {"status": "draft", "at": "2026-02-11T08:30:00Z", "by": "auto", "task": "WRITE"},
-        {"status": "R3-verified", "at": "2026-02-14T01:00:00Z", "by": "auto", "task": "VERIFY"},
-        {"status": "E1-reviewed", "at": "2026-02-14T03:30:00Z", "by": "auto", "task": "REVIEW"}
+        {
+          "status": "stub",
+          "at": "2026-02-08T00:00:00Z",
+          "by": "auto",
+          "task": "RESEARCH"
+        },
+        {
+          "status": "draft",
+          "at": "2026-02-11T08:30:00Z",
+          "by": "auto",
+          "task": "WRITE"
+        },
+        {
+          "status": "R3-verified",
+          "at": "2026-02-14T01:00:00Z",
+          "by": "auto",
+          "task": "VERIFY"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-02-14T03:30:00Z",
+          "by": "auto",
+          "task": "REVIEW"
+        }
       ],
       "ralph_loops_completed": 1,
-      "kb_facts_used": ["f_0394", "f_0411", "f_0412", "f_0413", "f_0414", "f_0415", "f_0416"],
-      "sources_cited": ["src_ymca_website", "src_qahn_howard", "src_taylor_statten_camps", "src_cca_history", "src_oca_history", "src_wikipedia_big_cove", "src_wikipedia_edgar", "src_wall_nurture", "src_mcmorris_thesis"],
+      "kb_facts_used": [
+        "f_0186",
+        "f_0188",
+        "f_0189",
+        "f_0190",
+        "f_0191",
+        "f_0251",
+        "f_0252",
+        "f_0253",
+        "f_0254",
+        "f_0255",
+        "f_0256",
+        "f_0257",
+        "f_0258",
+        "f_0259",
+        "f_0260",
+        "f_0261",
+        "f_0262",
+        "f_0263",
+        "f_0264",
+        "f_0265",
+        "f_0266",
+        "f_0268",
+        "f_0269",
+        "f_0394",
+        "f_0411",
+        "f_0412",
+        "f_0413",
+        "f_0414",
+        "f_0415",
+        "f_0416"
+      ],
+      "sources_cited": [
+        "src_ymca_website",
+        "src_qahn_howard",
+        "src_taylor_statten_camps",
+        "src_cca_history",
+        "src_oca_history",
+        "src_wikipedia_big_cove",
+        "src_wikipedia_edgar",
+        "src_wall_nurture",
+        "src_mcmorris_thesis"
+      ],
       "open_questions": 5,
-      "cross_links": ["founding-1894", "centennial-1967", "canoe-trips", "cushing-family"],
+      "cross_links": [
+        "founding-1894",
+        "centennial-1967",
+        "canoe-trips",
+        "cushing-family"
+      ],
       "file_id": null,
       "word_count": 1100
     },
@@ -282,16 +1073,57 @@
       "wiki_folder": "people",
       "status": "E1-reviewed",
       "status_history": [
-        {"status": "stub", "at": "2026-02-11T07:00:00Z", "by": "auto", "task": "RESEARCH"},
-        {"status": "draft", "at": "2026-02-14T03:00:00Z", "by": "auto", "task": "RESEARCH"},
-        {"status": "R3-verified", "at": "2026-02-19T04:00:00Z", "by": "auto", "task": "VERIFY"},
-        {"status": "E1-reviewed", "at": "2026-02-19T04:30:00Z", "by": "auto", "task": "REVIEW"}
+        {
+          "status": "stub",
+          "at": "2026-02-11T07:00:00Z",
+          "by": "auto",
+          "task": "RESEARCH"
+        },
+        {
+          "status": "draft",
+          "at": "2026-02-14T03:00:00Z",
+          "by": "auto",
+          "task": "RESEARCH"
+        },
+        {
+          "status": "R3-verified",
+          "at": "2026-02-19T04:00:00Z",
+          "by": "auto",
+          "task": "VERIFY"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-02-19T04:30:00Z",
+          "by": "auto",
+          "task": "REVIEW"
+        }
       ],
       "ralph_loops_completed": 2,
-      "kb_facts_used": ["f_0006", "f_0007", "f_0012", "f_0426", "f_0427", "f_0428", "f_0429", "f_0430", "f_0431"],
-      "sources_cited": ["src_ymca_website", "src_kanawana_facts", "src_qahn_howard", "src_mcgill_budge", "src_concordia_fonds"],
+      "kb_facts_used": [
+        "f_0006",
+        "f_0007",
+        "f_0012",
+        "f_0426",
+        "f_0427",
+        "f_0428",
+        "f_0429",
+        "f_0430",
+        "f_0431"
+      ],
+      "sources_cited": [
+        "src_ymca_website",
+        "src_kanawana_facts",
+        "src_qahn_howard",
+        "src_mcgill_budge",
+        "src_concordia_fonds"
+      ],
       "open_questions": 7,
-      "cross_links": ["founding-1894", "da-budge", "cushing-family", "directors-index"],
+      "cross_links": [
+        "founding-1894",
+        "da-budge",
+        "cushing-family",
+        "directors-index"
+      ],
       "file_id": null,
       "word_count": 700,
       "notes": "E1 REVIEW (2026-02-19): PASS — all 7 checklist items satisfied. No fixes needed. Advanced R3-verified → E1-reviewed."
@@ -302,17 +1134,71 @@
       "wiki_folder": "people",
       "status": "E1-reviewed",
       "status_history": [
-        {"status": "stub", "at": "2026-02-11T07:00:00Z", "by": "auto", "task": "RESEARCH"},
-        {"status": "draft", "at": "2026-02-14T04:00:00Z", "by": "auto", "task": "RESEARCH"},
-        {"status": "draft", "at": "2026-02-17T02:00:00Z", "by": "auto", "task": "VERIFY"},
-        {"status": "R3-verified", "at": "2026-02-19T04:00:00Z", "by": "auto", "task": "VERIFY"},
-        {"status": "E1-reviewed", "at": "2026-02-19T04:30:00Z", "by": "auto", "task": "REVIEW"}
+        {
+          "status": "stub",
+          "at": "2026-02-11T07:00:00Z",
+          "by": "auto",
+          "task": "RESEARCH"
+        },
+        {
+          "status": "draft",
+          "at": "2026-02-14T04:00:00Z",
+          "by": "auto",
+          "task": "RESEARCH"
+        },
+        {
+          "status": "draft",
+          "at": "2026-02-17T02:00:00Z",
+          "by": "auto",
+          "task": "VERIFY"
+        },
+        {
+          "status": "R3-verified",
+          "at": "2026-02-19T04:00:00Z",
+          "by": "auto",
+          "task": "VERIFY"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-02-19T04:30:00Z",
+          "by": "auto",
+          "task": "REVIEW"
+        }
       ],
       "ralph_loops_completed": 3,
-      "kb_facts_used": ["f_0011", "f_0185", "f_0224", "f_0432", "f_0433", "f_0434", "f_0435", "f_0436", "f_0480", "f_0481", "f_0482", "f_0483", "f_0484", "f_0485"],
-      "sources_cited": ["src_qahn_howard", "src_concordia_fonds", "src_mcmorris_thesis", "src_dcb_cushing", "src_wikipedia_cushing", "src_beer_et_seq", "src_cushing_genealogy"],
+      "kb_facts_used": [
+        "f_0011",
+        "f_0185",
+        "f_0224",
+        "f_0432",
+        "f_0433",
+        "f_0434",
+        "f_0435",
+        "f_0436",
+        "f_0480",
+        "f_0481",
+        "f_0482",
+        "f_0483",
+        "f_0484",
+        "f_0485"
+      ],
+      "sources_cited": [
+        "src_qahn_howard",
+        "src_concordia_fonds",
+        "src_mcmorris_thesis",
+        "src_dcb_cushing",
+        "src_wikipedia_cushing",
+        "src_beer_et_seq",
+        "src_cushing_genealogy"
+      ],
       "open_questions": 5,
-      "cross_links": ["founding-1894", "billy-ball", "da-budge", "directors-index", "camp-otoreke"],
+      "cross_links": [
+        "founding-1894",
+        "billy-ball",
+        "da-budge",
+        "directors-index",
+        "camp-otoreke"
+      ],
       "file_id": null,
       "word_count": 1200,
       "notes": "E1 REVIEW (2026-02-19): Fixed Frederick row in Eight Sons table (birthplace clarified in Occupation column). All 7 checklist items satisfied. Advanced R3-verified → E1-reviewed."
@@ -323,16 +1209,114 @@
       "wiki_folder": "programs",
       "status": "E1-reviewed",
       "status_history": [
-        {"status": "stub", "at": "2026-02-11T09:00:00Z", "by": "auto", "task": "WRITE"},
-        {"status": "draft", "at": "2026-02-17T00:00:00Z", "by": "auto", "task": "RESEARCH"},
-        {"status": "R3-verified", "at": "2026-02-19T00:00:00Z", "by": "auto", "task": "VERIFY"},
-        {"status": "E1-reviewed", "at": "2026-02-19T00:00:00Z", "by": "auto", "task": "REVIEW"}
+        {
+          "status": "stub",
+          "at": "2026-02-11T09:00:00Z",
+          "by": "auto",
+          "task": "WRITE"
+        },
+        {
+          "status": "draft",
+          "at": "2026-02-17T00:00:00Z",
+          "by": "auto",
+          "task": "RESEARCH"
+        },
+        {
+          "status": "R3-verified",
+          "at": "2026-02-19T00:00:00Z",
+          "by": "auto",
+          "task": "VERIFY"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-02-19T00:00:00Z",
+          "by": "auto",
+          "task": "REVIEW"
+        }
       ],
       "ralph_loops_completed": 1,
-      "kb_facts_used": ["f_0120", "f_0121", "f_0122", "f_0123", "f_0128", "f_0131", "f_0132", "f_0133", "f_0134", "f_0135", "f_0136", "f_0137", "f_0138", "f_0141", "f_0142", "f_0192", "f_0193", "f_0195", "f_0197", "f_0198", "f_0203", "f_0205", "f_0206", "f_0227", "f_0233", "f_0283", "f_0294", "f_0299", "f_0300", "f_0305", "f_0306", "f_0314", "f_0315", "f_0316", "f_0317", "f_0318", "f_0319", "f_0321", "f_0323", "f_0336", "f_0337", "f_0370", "f_0374", "f_0410", "f_0444", "f_0446", "f_0454", "f_0462", "f_0466", "f_0467", "f_0468", "f_0469"],
-      "sources_cited": ["src_mcmorris_thesis", "src_history_1935", "src_brochure_1922", "src_gas_bag_1923", "src_green_triangle_1938", "src_concordia_fonds", "src_concordia_atom_12B04", "src_concordia_atom_12B07", "src_ymca_website", "src_ymca_pip_skinner", "src_ymca_pip_mosher", "src_ymca_pip_adam", "src_ymca_pip_sharpe", "src_ymca_pip_orbinski", "src_leigh_evans_blog", "src_pine_crest_encyclopedia", "src_kanawana_facts"],
+      "kb_facts_used": [
+        "f_0120",
+        "f_0121",
+        "f_0122",
+        "f_0123",
+        "f_0128",
+        "f_0131",
+        "f_0132",
+        "f_0133",
+        "f_0134",
+        "f_0135",
+        "f_0136",
+        "f_0137",
+        "f_0138",
+        "f_0141",
+        "f_0142",
+        "f_0192",
+        "f_0193",
+        "f_0195",
+        "f_0197",
+        "f_0198",
+        "f_0203",
+        "f_0205",
+        "f_0206",
+        "f_0227",
+        "f_0233",
+        "f_0283",
+        "f_0294",
+        "f_0299",
+        "f_0300",
+        "f_0305",
+        "f_0306",
+        "f_0314",
+        "f_0315",
+        "f_0316",
+        "f_0317",
+        "f_0318",
+        "f_0319",
+        "f_0321",
+        "f_0323",
+        "f_0336",
+        "f_0337",
+        "f_0370",
+        "f_0374",
+        "f_0410",
+        "f_0444",
+        "f_0446",
+        "f_0454",
+        "f_0462",
+        "f_0466",
+        "f_0467",
+        "f_0468",
+        "f_0469"
+      ],
+      "sources_cited": [
+        "src_mcmorris_thesis",
+        "src_history_1935",
+        "src_brochure_1922",
+        "src_gas_bag_1923",
+        "src_green_triangle_1938",
+        "src_concordia_fonds",
+        "src_concordia_atom_12B04",
+        "src_concordia_atom_12B07",
+        "src_ymca_website",
+        "src_ymca_pip_skinner",
+        "src_ymca_pip_mosher",
+        "src_ymca_pip_adam",
+        "src_ymca_pip_sharpe",
+        "src_ymca_pip_orbinski",
+        "src_leigh_evans_blog",
+        "src_pine_crest_encyclopedia",
+        "src_kanawana_facts"
+      ],
       "open_questions": 6,
-      "cross_links": ["programs-activities", "lv-games", "council-ring", "section-names", "directors-index", "centennial-1967"],
+      "cross_links": [
+        "programs-activities",
+        "lv-games",
+        "council-ring",
+        "section-names",
+        "directors-index",
+        "centennial-1967"
+      ],
       "file_id": null,
       "word_count": 1800,
       "notes": "E1 REVIEW (2026-02-19): Fixed non-existent src_concordia_12B04 in header (removed; src_concordia_atom_12B04 already present). Fixed '131-year history' ambiguity to 'more than 130 years'. All claims cited, dates consistent, names cross-checked, tone encyclopedic."
@@ -343,16 +1327,100 @@
       "wiki_folder": "places",
       "status": "E1-reviewed",
       "status_history": [
-        {"status": "stub", "at": "2026-02-11T09:00:00Z", "by": "auto", "task": "WRITE"},
-        {"status": "draft", "at": "2026-02-17T00:00:00Z", "by": "auto", "task": "RESEARCH"},
-        {"status": "R3-verified", "at": "2026-02-19T00:00:00Z", "by": "auto", "task": "VERIFY"},
-        {"status": "E1-reviewed", "at": "2026-02-19T00:00:00Z", "by": "auto", "task": "REVIEW"}
+        {
+          "status": "stub",
+          "at": "2026-02-11T09:00:00Z",
+          "by": "auto",
+          "task": "WRITE"
+        },
+        {
+          "status": "draft",
+          "at": "2026-02-17T00:00:00Z",
+          "by": "auto",
+          "task": "RESEARCH"
+        },
+        {
+          "status": "R3-verified",
+          "at": "2026-02-19T00:00:00Z",
+          "by": "auto",
+          "task": "VERIFY"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-02-19T00:00:00Z",
+          "by": "auto",
+          "task": "REVIEW"
+        }
       ],
       "ralph_loops_completed": 1,
-      "kb_facts_used": ["f_0013", "f_0014", "f_0022", "f_0023", "f_0024", "f_0025", "f_0026", "f_0027", "f_0028", "f_0029", "f_0030", "f_0031", "f_0098", "f_0141", "f_0226", "f_0227", "f_0228", "f_0229", "f_0230", "f_0233", "f_0301", "f_0303", "f_0312", "f_0313", "f_0338", "f_0340", "f_0354", "f_0442", "f_0445", "f_0449", "f_0450", "f_0451", "f_0452", "f_0470", "f_0471", "f_0472", "f_0473", "f_0474", "f_0475", "f_0476", "f_0477", "f_0478", "f_0479"],
-      "sources_cited": ["src_ymca_website", "src_kanawana_facts", "src_brochure_1921", "src_brochure_1922", "src_gas_bag_1923", "src_green_triangle_1938", "src_mcmorris_thesis", "src_concordia_fonds", "src_wikidata_lac_kanawana", "src_lapresse_ymca_2018", "src_weredale_camp", "src_mysummercamps_kanawana"],
+      "kb_facts_used": [
+        "f_0013",
+        "f_0014",
+        "f_0022",
+        "f_0023",
+        "f_0024",
+        "f_0025",
+        "f_0026",
+        "f_0027",
+        "f_0028",
+        "f_0029",
+        "f_0030",
+        "f_0031",
+        "f_0098",
+        "f_0141",
+        "f_0226",
+        "f_0227",
+        "f_0228",
+        "f_0229",
+        "f_0230",
+        "f_0233",
+        "f_0301",
+        "f_0303",
+        "f_0312",
+        "f_0313",
+        "f_0338",
+        "f_0340",
+        "f_0354",
+        "f_0442",
+        "f_0445",
+        "f_0449",
+        "f_0450",
+        "f_0451",
+        "f_0452",
+        "f_0470",
+        "f_0471",
+        "f_0472",
+        "f_0473",
+        "f_0474",
+        "f_0475",
+        "f_0476",
+        "f_0477",
+        "f_0478",
+        "f_0479"
+      ],
+      "sources_cited": [
+        "src_ymca_website",
+        "src_kanawana_facts",
+        "src_brochure_1921",
+        "src_brochure_1922",
+        "src_gas_bag_1923",
+        "src_green_triangle_1938",
+        "src_mcmorris_thesis",
+        "src_concordia_fonds",
+        "src_wikidata_lac_kanawana",
+        "src_lapresse_ymca_2018",
+        "src_weredale_camp",
+        "src_mysummercamps_kanawana"
+      ],
       "open_questions": 6,
-      "cross_links": ["founding-1894", "council-ring", "harold-cross", "canoe-trips", "traditions-and-culture", "camp-otoreke"],
+      "cross_links": [
+        "founding-1894",
+        "council-ring",
+        "harold-cross",
+        "canoe-trips",
+        "traditions-and-culture",
+        "camp-otoreke"
+      ],
       "file_id": null,
       "word_count": 1600,
       "notes": "E1 REVIEW (2026-02-19): Added ^4 citation for 1921 brochure (railway route). Fixed 'gorgeous views' promotional language. Standardized 'Harold C. Cross'. Added camp-otoreke cross-link. Removed KB fact IDs from Sources section. All claims cited, tone neutral."
@@ -363,16 +1431,73 @@
       "wiki_folder": "places",
       "status": "E1-reviewed",
       "status_history": [
-        {"status": "stub", "at": "2026-02-17T00:30:00Z", "by": "auto", "task": "WRITE"},
-        {"status": "draft", "at": "2026-02-17T04:00:00Z", "by": "auto", "task": "RESEARCH"},
-        {"status": "R3-verified", "at": "2026-02-19T00:00:00Z", "by": "auto", "task": "VERIFY"},
-        {"status": "E1-reviewed", "at": "2026-02-19T00:00:00Z", "by": "auto", "task": "REVIEW"}
+        {
+          "status": "stub",
+          "at": "2026-02-17T00:30:00Z",
+          "by": "auto",
+          "task": "WRITE"
+        },
+        {
+          "status": "draft",
+          "at": "2026-02-17T04:00:00Z",
+          "by": "auto",
+          "task": "RESEARCH"
+        },
+        {
+          "status": "R3-verified",
+          "at": "2026-02-19T00:00:00Z",
+          "by": "auto",
+          "task": "VERIFY"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-02-19T00:00:00Z",
+          "by": "auto",
+          "task": "REVIEW"
+        }
       ],
       "ralph_loops_completed": 1,
-      "kb_facts_used": ["f_0001", "f_0002", "f_0003", "f_0006", "f_0007", "f_0010", "f_0011", "f_0012", "f_0015", "f_0127", "f_0312", "f_0331", "f_0426", "f_0428", "f_0479", "f_0486", "f_0487", "f_0488", "f_0489"],
-      "sources_cited": ["src_qahn_howard", "src_mcmorris_thesis", "src_gas_bag_1923", "src_history_1935", "src_concordia_fonds", "src_kanawana_facts", "src_ebay_otoreke_postcard", "src_wikipedia_saint_adolphe", "src_ymca_website"],
+      "kb_facts_used": [
+        "f_0001",
+        "f_0002",
+        "f_0003",
+        "f_0006",
+        "f_0007",
+        "f_0010",
+        "f_0011",
+        "f_0012",
+        "f_0015",
+        "f_0127",
+        "f_0312",
+        "f_0331",
+        "f_0426",
+        "f_0428",
+        "f_0479",
+        "f_0486",
+        "f_0487",
+        "f_0488",
+        "f_0489"
+      ],
+      "sources_cited": [
+        "src_qahn_howard",
+        "src_mcmorris_thesis",
+        "src_gas_bag_1923",
+        "src_history_1935",
+        "src_concordia_fonds",
+        "src_kanawana_facts",
+        "src_ebay_otoreke_postcard",
+        "src_wikipedia_saint_adolphe",
+        "src_ymca_website"
+      ],
       "open_questions": 7,
-      "cross_links": ["founding-1894", "the-kanawana-site", "billy-ball", "cushing-family", "canoe-trips", "centennial-1967"],
+      "cross_links": [
+        "founding-1894",
+        "the-kanawana-site",
+        "billy-ball",
+        "cushing-family",
+        "canoe-trips",
+        "centennial-1967"
+      ],
       "file_id": null,
       "word_count": 900,
       "notes": "E1 REVIEW (2026-02-19): Removed unverifiable 'Google Maps' source and '20 km' distance claim. Expanded 'Multiple sources' citation into discrete references (Facts sheet + McMorris). Removed src_oral_aronson (no inline citation). Removed unsourced bullet. Fixed postcard inference. Fixed closure section process language. Split 1967 conference/reports sentence. Renumbered sources 1-10. Added camp-otoreke cross-link to centennial-1967."
@@ -383,17 +1508,99 @@
       "wiki_folder": "people",
       "status": "E1-reviewed",
       "status_history": [
-        {"status": "stub", "at": "2026-02-17T03:00:00Z", "by": "auto", "task": "WRITE"},
-        {"status": "stub", "at": "2026-02-19T05:00:00Z", "by": "auto", "task": "RESEARCH"},
-        {"status": "draft", "at": "2026-02-19T06:00:00Z", "by": "auto", "task": "WRITE"},
-        {"status": "R3-verified", "at": "2026-02-19T07:00:00Z", "by": "auto", "task": "VERIFY"},
-        {"status": "E1-reviewed", "at": "2026-02-19T07:30:00Z", "by": "auto", "task": "REVIEW"}
+        {
+          "status": "stub",
+          "at": "2026-02-17T03:00:00Z",
+          "by": "auto",
+          "task": "WRITE"
+        },
+        {
+          "status": "stub",
+          "at": "2026-02-19T05:00:00Z",
+          "by": "auto",
+          "task": "RESEARCH"
+        },
+        {
+          "status": "draft",
+          "at": "2026-02-19T06:00:00Z",
+          "by": "auto",
+          "task": "WRITE"
+        },
+        {
+          "status": "R3-verified",
+          "at": "2026-02-19T07:00:00Z",
+          "by": "auto",
+          "task": "VERIFY"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-02-19T07:30:00Z",
+          "by": "auto",
+          "task": "REVIEW"
+        }
       ],
       "ralph_loops_completed": 1,
-      "kb_facts_used": ["f_0046", "f_0155", "f_0168", "f_0169", "f_0170", "f_0171", "f_0172", "f_0417", "f_0418", "f_0455", "f_0456", "f_0490", "f_0491", "f_0492", "f_0493", "f_0494", "f_0495", "f_0496", "f_0497", "f_0498", "f_0499", "f_0500", "f_0501", "f_0502", "f_0503", "f_0504", "f_0505", "f_0506", "f_0507", "f_0508", "f_0509", "f_0510", "f_0511", "f_0512", "f_0513", "f_0514", "f_0515"],
-      "sources_cited": ["src_samaritanmag_mclean", "src_ourkids_mclean", "src_ymca_website", "src_oral_aronson", "src_cbc_mclean_fund", "src_wikipedia_stuart_mclean", "src_canadian_encyclopedia_mclean", "src_westmountmag_mclean", "src_montrealer_mclean", "src_mcmaster_mclean_fonds", "src_ymca_john_island_mclean_speech", "src_cbc_mclean_obit", "src_concordia_mclean_tribute"],
+      "kb_facts_used": [
+        "f_0046",
+        "f_0155",
+        "f_0168",
+        "f_0169",
+        "f_0170",
+        "f_0171",
+        "f_0172",
+        "f_0417",
+        "f_0418",
+        "f_0455",
+        "f_0456",
+        "f_0490",
+        "f_0491",
+        "f_0492",
+        "f_0493",
+        "f_0494",
+        "f_0495",
+        "f_0496",
+        "f_0497",
+        "f_0498",
+        "f_0499",
+        "f_0500",
+        "f_0501",
+        "f_0502",
+        "f_0503",
+        "f_0504",
+        "f_0505",
+        "f_0506",
+        "f_0507",
+        "f_0508",
+        "f_0509",
+        "f_0510",
+        "f_0511",
+        "f_0512",
+        "f_0513",
+        "f_0514",
+        "f_0515"
+      ],
+      "sources_cited": [
+        "src_samaritanmag_mclean",
+        "src_ourkids_mclean",
+        "src_ymca_website",
+        "src_oral_aronson",
+        "src_cbc_mclean_fund",
+        "src_wikipedia_stuart_mclean",
+        "src_canadian_encyclopedia_mclean",
+        "src_westmountmag_mclean",
+        "src_montrealer_mclean",
+        "src_mcmaster_mclean_fonds",
+        "src_ymca_john_island_mclean_speech",
+        "src_cbc_mclean_obit",
+        "src_concordia_mclean_tribute"
+      ],
       "open_questions": 6,
-      "cross_links": ["directors-index", "traditions-and-culture", "coeducation-gender", "pip-alumni-award"],
+      "cross_links": [
+        "directors-index",
+        "traditions-and-culture",
+        "coeducation-gender",
+        "pip-alumni-award"
+      ],
       "file_id": null,
       "word_count": 1400,
       "notes": "E1 REVIEW (2026-02-19): Fixed header source IDs. All 7 checklist items PASS. RALPH R1: 26 new facts, 10 new sources. Pip Award year resolved (2009). Full biography: 1400 words, 13 sources, 9 sections."
@@ -404,16 +1611,74 @@
       "wiki_folder": "programs",
       "status": "E1-reviewed",
       "status_history": [
-        {"status": "stub", "at": "2026-02-17T03:00:00Z", "by": "auto", "task": "WRITE"},
-        {"status": "draft", "at": "2026-02-19T06:00:00Z", "by": "auto", "task": "RESEARCH"},
-        {"status": "R3-verified", "at": "2026-02-19T07:00:00Z", "by": "auto", "task": "VERIFY"},
-        {"status": "E1-reviewed", "at": "2026-02-19T07:30:00Z", "by": "auto", "task": "REVIEW"}
+        {
+          "status": "stub",
+          "at": "2026-02-17T03:00:00Z",
+          "by": "auto",
+          "task": "WRITE"
+        },
+        {
+          "status": "draft",
+          "at": "2026-02-19T06:00:00Z",
+          "by": "auto",
+          "task": "RESEARCH"
+        },
+        {
+          "status": "R3-verified",
+          "at": "2026-02-19T07:00:00Z",
+          "by": "auto",
+          "task": "VERIFY"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-02-19T07:30:00Z",
+          "by": "auto",
+          "task": "REVIEW"
+        }
       ],
       "ralph_loops_completed": 1,
-      "kb_facts_used": ["f_0447", "f_0448", "f_0454", "f_0457", "f_0460", "f_0466", "f_0467"],
-      "sources_cited": ["src_ymca_pip_skinner", "src_ymca_pip_mosher", "src_ymca_pip_adam", "src_ymca_pip_sharpe", "src_ymca_pip_orbinski", "src_oral_aronson", "src_cmat_caddell_obituary", "src_mcgill_news_caddell", "src_atwater_caddell_bio", "src_wikipedia_richard_patten", "src_wikipedia_john_cleghorn"],
+      "kb_facts_used": [
+        "f_0147",
+        "f_0148",
+        "f_0149",
+        "f_0150",
+        "f_0151",
+        "f_0152",
+        "f_0153",
+        "f_0154",
+        "f_0156",
+        "f_0157",
+        "f_0158",
+        "f_0159",
+        "f_0181",
+        "f_0182",
+        "f_0447",
+        "f_0448",
+        "f_0454",
+        "f_0457",
+        "f_0460",
+        "f_0466",
+        "f_0467"
+      ],
+      "sources_cited": [
+        "src_ymca_pip_skinner",
+        "src_ymca_pip_mosher",
+        "src_ymca_pip_adam",
+        "src_ymca_pip_sharpe",
+        "src_ymca_pip_orbinski",
+        "src_oral_aronson",
+        "src_cmat_caddell_obituary",
+        "src_mcgill_news_caddell",
+        "src_atwater_caddell_bio",
+        "src_wikipedia_richard_patten",
+        "src_wikipedia_john_cleghorn"
+      ],
       "open_questions": 6,
-      "cross_links": ["stuart-mclean", "directors-index", "traditions-and-culture"],
+      "cross_links": [
+        "stuart-mclean",
+        "directors-index",
+        "traditions-and-culture"
+      ],
       "file_id": null,
       "word_count": 1500,
       "notes": "E1 REVIEW (2026-02-19): Fixed 2010 wording ('No documented recipient'), McLean dates in table, registered 5 missing sources. Standardized 'Phillips' spelling. RALPH R1: All recipient years 2007-2018 resolved, Caddell bios expanded. 1500 words, 11 sources."
