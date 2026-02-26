@@ -21,6 +21,7 @@
         "f_0002",
         "f_0003",
         "f_0004",
+        "f_0005",
         "f_0006",
         "f_0007",
         "f_0008",
@@ -54,9 +55,14 @@
         "f_0064",
         "f_0065",
         "f_0066",
+        "f_0248",
+        "f_0249",
+        "f_0250",
+        "f_0310",
         "f_0339",
         "f_0364",
         "f_0365",
+        "f_0377",
         "f_0479",
         "f_0486"
       ],
@@ -71,11 +77,21 @@
       ],
       "open_questions": 6,
       "cross_links": [
-        "camp-jubilee",
         "billy-ball",
+        "camp-jubilee",
+        "camp-otoreke",
+        "canadian-camping-movement",
+        "centennial-1967",
+        "coeducation-gender",
+        "council-ring",
+        "cushing-family",
         "da-budge",
         "directors-index",
-        "ralph-dawson"
+        "programs-activities",
+        "ralph-dawson",
+        "sources-index",
+        "the-kanawana-site",
+        "wartime-kanawana"
       ],
       "file_id": "1h-vki1U2tjYj8-zZ5gzuyW6kQXelcUnB",
       "word_count": 2200
@@ -116,10 +132,11 @@
       ],
       "open_questions": 4,
       "cross_links": [
-        "founding-1894",
-        "harold-cross",
+        "billy-ball",
+        "cushing-family",
         "directors-index",
-        "billy-ball"
+        "founding-1894",
+        "harold-cross"
       ],
       "file_id": "1iOHcDJeDgo5VFTfb46EQ6JrFYuZaZie5",
       "word_count": 1100
@@ -161,9 +178,13 @@
       ],
       "open_questions": 3,
       "cross_links": [
+        "camp-otoreke",
+        "canadian-camping-movement",
         "centennial-1967",
+        "coeducation-gender",
+        "lv-games",
         "programs-activities",
-        "lv-games"
+        "the-kanawana-site"
       ],
       "file_id": "13MmwA1lO_3J3rJ7yEZjwsvT--vWooITy",
       "word_count": 650
@@ -202,6 +223,8 @@
       "cross_links": [
         "founding-1894",
         "harold-cross",
+        "programs-activities",
+        "the-kanawana-site",
         "traditions-and-culture"
       ],
       "file_id": "13YtmB0kQvK5oBY-Kz_88vIgztYAH5x2e",
@@ -243,9 +266,10 @@
       ],
       "open_questions": 4,
       "cross_links": [
-        "programs-activities",
-        "pine-crest",
         "canoe-trips",
+        "coeducation-gender",
+        "pine-crest",
+        "programs-activities",
         "traditions-and-culture"
       ],
       "file_id": "1EmzjwZxmQKJhFrNsbFGn1HbdseFBM9E7",
@@ -334,6 +358,7 @@
         "f_0217",
         "f_0242",
         "f_0302",
+        "f_0311",
         "f_0453"
       ],
       "sources_cited": [
@@ -343,8 +368,9 @@
       ],
       "open_questions": 3,
       "cross_links": [
+        "coeducation-gender",
         "programs-activities",
-        "coeducation-gender"
+        "traditions-and-culture"
       ],
       "file_id": "1vObPDCKcgzCi8HVCEMuBzQCMPd0jk2ua",
       "word_count": 900
@@ -421,11 +447,14 @@
       ],
       "open_questions": 8,
       "cross_links": [
-        "section-names",
-        "lv-games",
-        "canoe-trips",
         "camp-otoreke",
-        "founding-1894"
+        "canoe-trips",
+        "centennial-1967",
+        "founding-1894",
+        "lv-games",
+        "programs-activities",
+        "section-names",
+        "stuart-mclean"
       ],
       "file_id": "1KW2yhoZ-wr_71sTPbLJ3v81KW4ZEJ_p-",
       "word_count": 2100,
@@ -483,9 +512,16 @@
         "f_0015",
         "f_0017",
         "f_0018",
+        "f_0113",
+        "f_0114",
+        "f_0115",
+        "f_0116",
         "f_0117",
         "f_0118",
+        "f_0119",
+        "f_0130",
         "f_0140",
+        "f_0143",
         "f_0192",
         "f_0193",
         "f_0194",
@@ -493,11 +529,18 @@
         "f_0200",
         "f_0201",
         "f_0202",
+        "f_0204",
         "f_0207",
+        "f_0208",
+        "f_0209",
+        "f_0210",
+        "f_0211",
+        "f_0212",
         "f_0213",
         "f_0214",
         "f_0215",
         "f_0216",
+        "f_0225",
         "f_0236",
         "f_0240",
         "f_0241",
@@ -509,6 +552,8 @@
         "f_0302",
         "f_0304",
         "f_0305",
+        "f_0307",
+        "f_0308",
         "f_0309",
         "f_0314",
         "f_0315",
@@ -518,6 +563,7 @@
         "f_0319",
         "f_0324",
         "f_0325",
+        "f_0326",
         "f_0327",
         "f_0328",
         "f_0329",
@@ -594,8 +640,9 @@
       ],
       "open_questions": 3,
       "cross_links": [
-        "founding-1894",
-        "camp-jubilee"
+        "camp-jubilee",
+        "directors-index",
+        "founding-1894"
       ],
       "file_id": "1sAGFRKb22uggFeMgrSJLllgpSZoAGxa4",
       "word_count": 0,
@@ -719,10 +766,17 @@
         "f_0144",
         "f_0145",
         "f_0146",
+        "f_0173",
+        "f_0174",
+        "f_0175",
+        "f_0176",
+        "f_0177",
+        "f_0178",
         "f_0179",
         "f_0184",
         "f_0185",
         "f_0219",
+        "f_0352",
         "f_0356",
         "f_0404",
         "f_0405",
@@ -735,7 +789,8 @@
         "f_0422",
         "f_0423",
         "f_0424",
-        "f_0425"
+        "f_0425",
+        "f_0461"
       ],
       "sources_cited": [
         "src_mcmorris_thesis",
@@ -760,14 +815,16 @@
       ],
       "open_questions": 7,
       "cross_links": [
-        "harold-cross",
-        "ralph-dawson",
         "billy-ball",
+        "cushing-family",
         "da-budge",
         "founding-1894",
+        "harold-cross",
+        "pip-alumni-award",
+        "ralph-dawson",
         "stuart-mclean",
-        "wartime-kanawana",
-        "traditions-and-culture"
+        "traditions-and-culture",
+        "wartime-kanawana"
       ],
       "file_id": null,
       "word_count": 2400,
@@ -811,7 +868,22 @@
         }
       ],
       "ralph_loops_completed": 0,
-      "kb_facts_used": [],
+      "kb_facts_used": [
+        "f_0345",
+        "f_0350",
+        "f_0351",
+        "f_0355",
+        "f_0358",
+        "f_0359",
+        "f_0360",
+        "f_0361",
+        "f_0363",
+        "f_0409",
+        "f_0441",
+        "f_0443",
+        "f_0458",
+        "f_0463"
+      ],
       "sources_cited": [],
       "open_questions": 7,
       "cross_links": [
@@ -887,9 +959,12 @@
       ],
       "open_questions": 6,
       "cross_links": [
+        "centennial-1967",
         "council-ring",
+        "da-budge",
         "directors-index",
-        "centennial-1967"
+        "sources-index",
+        "the-kanawana-site"
       ],
       "file_id": null,
       "word_count": 750,
@@ -928,8 +1003,23 @@
       ],
       "ralph_loops_completed": 1,
       "kb_facts_used": [
+        "f_0244",
+        "f_0245",
         "f_0246",
         "f_0247",
+        "f_0267",
+        "f_0270",
+        "f_0271",
+        "f_0272",
+        "f_0273",
+        "f_0274",
+        "f_0275",
+        "f_0276",
+        "f_0277",
+        "f_0278",
+        "f_0279",
+        "f_0280",
+        "f_0281",
         "f_0282",
         "f_0283",
         "f_0284",
@@ -950,7 +1040,10 @@
         "f_0299",
         "f_0300",
         "f_0301",
+        "f_0353",
+        "f_0357",
         "f_0362",
+        "f_0375",
         "f_0387",
         "f_0388",
         "f_0389",
@@ -958,7 +1051,8 @@
         "f_0391",
         "f_0392",
         "f_0393",
-        "f_0394"
+        "f_0394",
+        "f_0459"
       ],
       "sources_cited": [
         "src_mcmorris_thesis",
@@ -974,10 +1068,14 @@
       ],
       "open_questions": 6,
       "cross_links": [
-        "canoe-trips",
+        "camp-otoreke",
         "canadian-camping-movement",
+        "canoe-trips",
         "coeducation-gender",
-        "founding-1894"
+        "founding-1894",
+        "harold-cross",
+        "sources-index",
+        "traditions-and-culture"
       ],
       "file_id": null,
       "word_count": 1200
@@ -1016,6 +1114,7 @@
       "ralph_loops_completed": 1,
       "kb_facts_used": [
         "f_0186",
+        "f_0187",
         "f_0188",
         "f_0189",
         "f_0190",
@@ -1038,6 +1137,8 @@
         "f_0266",
         "f_0268",
         "f_0269",
+        "f_0372",
+        "f_0376",
         "f_0394",
         "f_0411",
         "f_0412",
@@ -1059,10 +1160,11 @@
       ],
       "open_questions": 5,
       "cross_links": [
-        "founding-1894",
-        "centennial-1967",
         "canoe-trips",
-        "cushing-family"
+        "centennial-1967",
+        "cushing-family",
+        "founding-1894",
+        "sources-index"
       ],
       "file_id": null,
       "word_count": 1100
@@ -1119,10 +1221,11 @@
       ],
       "open_questions": 7,
       "cross_links": [
-        "founding-1894",
-        "da-budge",
+        "camp-otoreke",
         "cushing-family",
-        "directors-index"
+        "da-budge",
+        "directors-index",
+        "founding-1894"
       ],
       "file_id": null,
       "word_count": 700,
@@ -1170,6 +1273,11 @@
         "f_0011",
         "f_0185",
         "f_0224",
+        "f_0381",
+        "f_0382",
+        "f_0383",
+        "f_0384",
+        "f_0385",
         "f_0432",
         "f_0433",
         "f_0434",
@@ -1193,11 +1301,12 @@
       ],
       "open_questions": 5,
       "cross_links": [
-        "founding-1894",
         "billy-ball",
+        "camp-otoreke",
+        "canadian-camping-movement",
         "da-budge",
         "directors-index",
-        "camp-otoreke"
+        "founding-1894"
       ],
       "file_id": null,
       "word_count": 1200,
@@ -1236,11 +1345,16 @@
       ],
       "ralph_loops_completed": 1,
       "kb_facts_used": [
+        "f_0103",
         "f_0120",
         "f_0121",
         "f_0122",
         "f_0123",
+        "f_0124",
+        "f_0125",
+        "f_0126",
         "f_0128",
+        "f_0129",
         "f_0131",
         "f_0132",
         "f_0133",
@@ -1273,13 +1387,20 @@
         "f_0317",
         "f_0318",
         "f_0319",
+        "f_0320",
         "f_0321",
         "f_0323",
+        "f_0334",
+        "f_0335",
         "f_0336",
         "f_0337",
+        "f_0341",
+        "f_0342",
+        "f_0343",
         "f_0370",
         "f_0374",
         "f_0410",
+        "f_0439",
         "f_0444",
         "f_0446",
         "f_0454",
@@ -1310,12 +1431,15 @@
       ],
       "open_questions": 6,
       "cross_links": [
-        "programs-activities",
-        "lv-games",
+        "centennial-1967",
         "council-ring",
-        "section-names",
         "directors-index",
-        "centennial-1967"
+        "lv-games",
+        "pip-alumni-award",
+        "programs-activities",
+        "section-names",
+        "stuart-mclean",
+        "the-kanawana-site"
       ],
       "file_id": null,
       "word_count": 1800,
@@ -1491,12 +1615,13 @@
       ],
       "open_questions": 7,
       "cross_links": [
-        "founding-1894",
-        "the-kanawana-site",
         "billy-ball",
-        "cushing-family",
         "canoe-trips",
-        "centennial-1967"
+        "centennial-1967",
+        "coeducation-gender",
+        "cushing-family",
+        "founding-1894",
+        "the-kanawana-site"
       ],
       "file_id": null,
       "word_count": 900,
@@ -1596,10 +1721,11 @@
       ],
       "open_questions": 6,
       "cross_links": [
-        "directors-index",
-        "traditions-and-culture",
         "coeducation-gender",
-        "pip-alumni-award"
+        "directors-index",
+        "pip-alumni-award",
+        "sources-index",
+        "traditions-and-culture"
       ],
       "file_id": null,
       "word_count": 1400,
@@ -1650,6 +1776,15 @@
         "f_0157",
         "f_0158",
         "f_0159",
+        "f_0160",
+        "f_0161",
+        "f_0162",
+        "f_0163",
+        "f_0164",
+        "f_0165",
+        "f_0166",
+        "f_0167",
+        "f_0180",
         "f_0181",
         "f_0182",
         "f_0447",
@@ -1675,8 +1810,9 @@
       ],
       "open_questions": 6,
       "cross_links": [
-        "stuart-mclean",
         "directors-index",
+        "sources-index",
+        "stuart-mclean",
         "traditions-and-culture"
       ],
       "file_id": null,

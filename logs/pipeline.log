@@ -444,3 +444,11 @@
   - sources-index.md: VERIFY + E1 CONDITIONAL PASS — fixed stale counts (80→85 total, 37→40 secondary, 12→14 tertiary, 70→74 extracted, 8→11 IA documents). Advanced draft → E1-reviewed.
   - Also: standardized 'Jeniene Phillips Birks' spelling in traditions-and-culture.md
   - Article totals: 21 E1-reviewed, 0 R3-verified, 1 draft (ralph-dawson — blocked, no file on disk), 0 stubs
+
+2026-02-26T00:00:00Z | COMPLETENESS | Wiki completeness pass — orphan backlinks + cross-link audit
+  - Orphan backlinks: 94 orphan facts backlinked across 10 articles. Orphan rate: 18.6% → 0.4% (2/515).
+  - Remaining 2 orphans: f_0050, f_0183 (both Ralph Dawson facts — blocked until ralph-dawson.md restored).
+  - Key backlink targets: centennial-1967 (+19), programs-activities (+17), sources-index (+14), pip-alumni-award (+8), traditions-and-culture (+6), founding-1894 (+6).
+  - Cross-link audit: 41 asymmetric links symmetrized. All 22 articles now have bidirectional cross-links.
+  - No new stubs warranted — all entity clusters with 3+ facts are already cited by existing articles.
+  - Wiki status: 21 E1-reviewed, 1 draft (blocked). 515 facts, 85 sources, 0.4% orphan rate.
