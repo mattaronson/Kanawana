@@ -1553,6 +1553,54 @@
       "extraction_version": null,
       "reliability": "secondary",
       "notes": "Two-part podcast on La Chasse-Galerie (the Flying Canoe), covering its historical context, coureurs de bois campfire origins, Lake St. Clair variant, Wild Hunt connection, and cultural legacy. Relevant to Kanawana campfire storytelling traditions."
+    },
+    {
+      "source_id": "src_spirit_kanawana_blog",
+      "type": "web",
+      "title": "Spirit of Kanawana (blog by Matt Aronson)",
+      "date": null,
+      "date_precision": "approximate",
+      "origin": "web",
+      "origin_url": "https://kanawana.blogspot.com/",
+      "cache_path": null,
+      "char_count": 0,
+      "ingested_at": "2026-02-27T12:00:00Z",
+      "extracted": true,
+      "extraction_version": "4.11",
+      "reliability": "secondary",
+      "notes": "Blog by Matt Aronson dedicated to Kanawana history, culture, and traditions. Key content: Kamp Kanawana Marching Song history, lost verses rediscovered in Concordia Archives 2006, Alabama Jubilee connection, cheer text. Signed off 'Non Nobis Solum'. Blog returns 403 to automated fetch but indexed by search engines."
+    },
+    {
+      "source_id": "src_aca_camp_songs_history",
+      "type": "web",
+      "title": "Camp Songs — History and Traditions (American Camp Association)",
+      "date": null,
+      "date_precision": "approximate",
+      "origin": "web",
+      "origin_url": "https://www.acacamps.org/article/camping-magazine/camp-songs-history-traditions",
+      "cache_path": null,
+      "char_count": 0,
+      "ingested_at": "2026-02-27T12:00:00Z",
+      "extracted": true,
+      "extraction_version": "4.11",
+      "reliability": "secondary",
+      "notes": "ACA article on camp song history. Canadian YMCA connection: Gary Schofield, Ottawa YMCA Boys' Work secretary, directed Camp On-Da-Da-Waks. Kum Bah Yah origins. War songs at camp. Roots in African-American spirituals."
+    },
+    {
+      "source_id": "src_wikipedia_alabama_jubilee",
+      "type": "web",
+      "title": "Alabama Jubilee (song) — Wikipedia",
+      "date": null,
+      "date_precision": "approximate",
+      "origin": "web",
+      "origin_url": "https://en.wikipedia.org/wiki/Alabama_Jubilee_(song)",
+      "cache_path": null,
+      "char_count": 0,
+      "ingested_at": "2026-02-27T12:00:00Z",
+      "extracted": true,
+      "extraction_version": "4.11",
+      "reliability": "tertiary",
+      "notes": "Alabama Jubilee: music by George L. Cobb, words by Jack Yellen, 1915. 'Hail hail the gang's all here' refrain adapted from Arthur Sullivan's Pirates of Penzance. Connection to Kanawana Marching Song."
     }
   ]
 }
