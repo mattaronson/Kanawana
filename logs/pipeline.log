@@ -473,3 +473,31 @@
   - Sections awaiting oral history contributions to populate
   - Cross-link: traditions-and-culture ↔ myths-and-legends
   - Article totals: 21 E1-reviewed, 1 draft (ralph-dawson, blocked), 3 stubs (j-w-mcconnell, lake-wilson, myths-and-legends). KB: 525 facts, 86 sources.
+
+2026-02-27T00:00:00Z | RALPH R1 | myths-and-legends.md — Camp founding myths, legends, and popular misconceptions
+  - USER REQUEST: "Research camp founding myths, popular misconceptions, and legendary narratives associated with Camp Kanawana and similar Canadian YMCA camps."
+  - RETRIEVE: 50+ web searches across multiple engines. Searched for: Kanawana myths/legends/folklore, oldest camp claims, name etymology, ghost stories, Cropsey/Chopsy legend, Canadian camp folklore, Quebec legends, YMCA campfire traditions, Kanawha etymology. Read 8 cached source files. Consulted Concordia thesis metadata, Spirit of Kanawana blog, Ottertooth camps list, Wikipedia Big Cove.
+  - ANALYZE — Myths identified:
+    * "Oldest camp in Canada" — FALSE. Big Cove YMCA (1889) is 5 years older. Kanawana is Quebec's oldest (1894) and Canada's second-oldest.
+    * Name meaning "lots to eat" — UNVERIFIABLE. Only source is 1951 camp history (per McMorris thesis). Not in any Algonquin dictionary. Dawson 1933 says meaning learned "years after" adoption. Language never identified.
+    * "Indian heritage" — COLONIAL APPROPRIATION. Woodcraft League charter 1922, Council Ring 1922, totem pole 1927, "Council of Tribes" 1935. No connection to local Indigenous peoples. McMorris thesis chapter on "playing Indian."
+    * Founding narrative — SIMPLIFIED. 1893 exploration journal predates the standard "Billy Ball 1894" story.
+  - ANALYZE — Legends identified:
+    * "The haunted house" — 1935 camp history mentions a building known as "the haunted house" where campers cooked supper. No ghost story details found in written sources.
+    * Cropsey/Chopsy — "Chopsy" appears to be a Kanawana-specific variant of the widespread Cropsey camp ghost story. No written documentation found. The Cropsey legend is the #1 camp ghost story archetype in northeastern North America.
+  - ANALYZE — Name etymology:
+    * "Kanawana" not found in any Algonquin dictionary or word list
+    * "Kanawha" (WV river) means "white rocks" in Shawnee/Delaware — possible but unconfirmed connection
+    * "Kanawa" is Cariban/Arawakan for "dugout canoe" (root of English "canoe") — different language family, likely coincidental
+  - PROCESS: 8 new KB facts (f_0526-f_0533). 5 new sources registered. 22 existing KB facts backreferenced. Article expanded from 200 to 2200 words. KB now at 533 facts, 91 sources (v4.9).
+  - HYPOTHESIZE: Highest-priority sources for remaining gaps: (1) Ralph Dawson 1933 history — may contain name origin story; (2) R.L. Charlton 1943 "Early Days" — may contain pre-1894 exploration details; (3) McMorris thesis full text — chapter on naming and "playing Indian"; (4) Oral history from alumni — needed for Chopsy legend, specific ghost stories, haunted house identity.
+
+2026-02-27T00:00:00Z | RESEARCH | Deep web research on "Chopsy" ghost story (RALPH R1)
+  - RETRIEVE: 30+ web searches executed across Google. Search terms included: "Chopsy" (exact), "Chopsey", "Chopsie", "Chops" combined with camp/ghost/axe/murder/Kanawana/YMCA/Quebec/Canada. Also searched: Cropsey variants, Stumpy, Madman Marz, camp ghost story archetypes, Canadian summer camp folklore, Quebec folklore traditions, USC Digital Folklore Archives, ACA message boards, Reddit, Facebook. Checked all cached sources (none in local cache). Fetched Atlas Obscura, Slate, Medium, Puzzle Box Horror articles (403 errors on most).
+  - RETRIEVE dead ends: Zero results for any spelling of "Chopsy" in any search engine or database. No Reddit threads, no Facebook groups, no forum posts, no academic papers, no camp story collections mention the name.
+  - ANALYZE: "Chopsy" is completely undocumented online. Hypothesis: it is a Kanawana-specific local adaptation of the widespread "maniac in the woods with an axe" campfire story archetype, following the pattern documented by Haring & Breslerman (1977) where each camp localizes the Cropsey legend with its own name, setting, and details. The name "Chopsy" evokes "chopping" (with an axe), paralleling Cropsey/Cropsy, Stumpy, and Madman Marz.
+  - ANALYZE: Key academic framework established — Haring & Breslerman 1977 (11 NYC informants, 1966), Bill Ellis 1981 (camp mock-ordeal theater), Jan Harold Brunvand (urban legends), Leslie Paris (camp history). USC Digital Folklore Archives contain multiple Cropsey variants.
+  - ANALYZE: Documented Cropsey name variants — George Cropsey (judge/businessman), Jack Cropsey (caretaker), Judge Cropsey (scout leader), Old Man Cropsey (farmer), Cropsy (film). Madman Marz is a renamed Cropsey. Stumpy is a parallel archetype. All serve same social function: don't wander into woods at night.
+  - LOOP DECISION: CONCLUDE. Research saturated for online sources. No further web searches likely to surface written documentation of "Chopsy." Oral history from Kanawana alumni is the only viable path to document this story.
+  - PROCESS: 6 new KB facts (f_0534-f_0539). 3 new sources registered (src_haring_breslerman_1977, src_usc_folklore_cropsey, src_puzzlebox_cropsey_origins). myths-and-legends.md Chopsy section expanded from 2 paragraphs to comprehensive analysis with academic framework. Sources list expanded from 12 to 16.
+  - HYPOTHESIZE: (1) Oral history interview with Matt Aronson remains the critical next step — need full Chopsy narrative, origin period, telling context, location ties. (2) Check if McMorris thesis mentions campfire stories or ghost story traditions. (3) Check if any Green Triangle issues (if physically accessed) mention ghost stories. (4) Search for Kanawana alumni Facebook groups where members might discuss camp legends.

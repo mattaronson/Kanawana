@@ -553,12 +553,38 @@
       "priority_id": "p_043",
       "rank": 43,
       "type": "RESEARCH",
-      "description": "Populate myths-and-legends.md with oral history content — Kanawana myths and ghost stories",
+      "description": "Populate myths-and-legends.md with web research on camp myths, legends, Cropsey, name etymology, oldest camp claims",
       "article_id": "myths-and-legends",
-      "blocking": true,
-      "blocking_reason": "Requires oral history input from domain expert (src_oral_aronson). No online sources for camp ghost stories or popular myths.",
+      "blocking": false,
       "assigned_weight": "P3",
       "created_at": "2026-02-26T00:00:00Z",
+      "status": "completed",
+      "completed_at": "2026-02-27T00:00:00Z",
+      "result": "R1 RALPH completed. 50+ web searches. Four myths documented (oldest camp, name meaning, Indian heritage, founding narrative). Two legends documented (haunted house 1935, Cropsy/Chopsy archetype). Quebec folklore context added. 8 new KB facts (f_0526-f_0533), 5 new sources. Chopsy legend needs oral history. Name etymology unresolved — Dawson 1933 and Charlton 1943 are highest-priority archival sources."
+    },
+    {
+      "priority_id": "p_044",
+      "rank": 44,
+      "type": "RESEARCH",
+      "description": "Deep web research on 'Chopsy' ghost story — exhaustive search for name, variants, Cropsey archetype framework, academic folklore studies",
+      "article_id": "myths-and-legends",
+      "blocking": false,
+      "assigned_weight": "P3",
+      "created_at": "2026-02-27T00:00:00Z",
+      "status": "completed",
+      "completed_at": "2026-02-27T01:00:00Z",
+      "result": "R2 RALPH completed. 30+ additional web searches. Zero results for any spelling of 'Chopsy' in any online source. Confirmed: story is completely undocumented outside oral tradition. Established academic framework: Haring & Breslerman 1977, USC Folklore Archives, Bill Ellis 1981, Brunvand. Documented 5+ name variants of Cropsey (George/Jack/Judge/Old Man/Cropsy) plus parallel Stumpy and Madman Marz archetypes. 6 new KB facts (f_0534-f_0539), 3 new sources. myths-and-legends.md Chopsy section expanded with full academic context. Research SATURATED for online sources. Oral history is the only viable path."
+    },
+    {
+      "priority_id": "p_045",
+      "rank": 45,
+      "type": "RESEARCH",
+      "description": "Collect oral history on 'Chopsy' legend from Matt Aronson — full narrative, origin period, telling context, location ties, jump-scare elements",
+      "article_id": "myths-and-legends",
+      "blocking": true,
+      "blocking_reason": "Requires oral history input from domain expert (src_oral_aronson). No online sources exist for this story.",
+      "assigned_weight": "P2",
+      "created_at": "2026-02-27T01:00:00Z",
       "status": "blocked"
     }
   ]
