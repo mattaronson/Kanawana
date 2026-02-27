@@ -1601,6 +1601,38 @@
       "extraction_version": "4.11",
       "reliability": "tertiary",
       "notes": "Alabama Jubilee: music by George L. Cobb, words by Jack Yellen, 1915. 'Hail hail the gang's all here' refrain adapted from Arthur Sullivan's Pirates of Penzance. Connection to Kanawana Marching Song."
+    },
+    {
+      "source_id": "src_journal_acces_fire_2023",
+      "type": "web",
+      "title": "Un bâtiment du Camp YMCA Kanawana ravagé par les flammes — Journal Accès",
+      "date": "2023-05-16",
+      "date_precision": "exact",
+      "origin": "web",
+      "origin_url": "https://www.journalacces.ca/actualite/un-batiment-du-camp-ymca-kanawana-ravage-par-les-flammes/",
+      "cache_path": null,
+      "char_count": 0,
+      "ingested_at": "2026-02-27T13:00:00Z",
+      "extracted": true,
+      "extraction_version": "4.12",
+      "reliability": "primary",
+      "notes": "Local news report on superintendent's house fire at Camp Kanawana, May 16, 2023. 25 firefighters, total loss, no injuries. Also reported by CIME FM."
+    },
+    {
+      "source_id": "src_flickr_kanawana",
+      "type": "web",
+      "title": "Kanawana Flickr Photo Collection",
+      "date": null,
+      "date_precision": "approximate",
+      "origin": "web",
+      "origin_url": "https://www.flickr.com/photos/kanawana/",
+      "cache_path": null,
+      "char_count": 0,
+      "ingested_at": "2026-02-27T13:00:00Z",
+      "extracted": false,
+      "extraction_version": null,
+      "reliability": "primary",
+      "notes": "Flickr account with 4,416 photographs of Camp Kanawana. Not yet accessed or catalogued."
     }
   ]
 }

@@ -1,6 +1,6 @@
 # Places and Locations at Camp Kanawana
 
-*Status: stub | Sources: src_ymca_website, src_kanawana_facts, src_brochure_1921, src_brochure_1922, src_brochure_1923, src_gas_bag_1923, src_history_1935, src_green_triangle_1938, src_mcmorris_thesis, src_concordia_fonds, src_mysummercamps_kanawana, src_lapresse_ymca_2018, src_oral_aronson*
+*Status: stub | Sources: src_ymca_website, src_kanawana_facts, src_brochure_1921, src_brochure_1922, src_brochure_1923, src_gas_bag_1923, src_history_1935, src_green_triangle_1938, src_mcmorris_thesis, src_concordia_fonds, src_mysummercamps_kanawana, src_lapresse_ymca_2018, src_journal_acces_fire_2023, src_oral_aronson*
 *Last Updated: 2026-02-27*
 
 ## Overview
@@ -82,18 +82,32 @@ A dedicated area for nature and environmental education programming [src_ymca_we
 
 An indoor activity space [src_ymca_website]. Construction date and history undocumented.
 
+### Infirmary
+
+The camp infirmary has 5 beds and a private washroom [src_ymca_website]. An emergency oxygen tank and AED are available. The original camp hospital was a new building in 1922 [src_brochure_1922]; whether the current infirmary occupies the same structure or a replacement is unknown.
+
+### Pavilion for Workshops and Training
+
+A separate pavilion dedicated to workshops and training sessions, listed as a distinct facility from the other named pavilions [src_ymca_website].
+
+### Rock Climbing Wall
+
+A 30-foot rock climbing wall is among the camp's current facilities [src_ymca_website].
+
 ### Desjardins Pavilion (2018)
 
-In 2018, Desjardins donated $1 million to the YMCA for renovations at Camp Kanawana, including a new community pavilion described as the "new heart of Kanawana" to increase the camp's capacity and expand its environmental education mission [src_lapresse_ymca_2018]. The McConnell Foundation has also funded major renovations at the camp [f_0525].
+In 2018, Desjardins donated $1 million to the YMCA for renovations at Camp Kanawana, including a new community pavilion described as the "new heart of Kanawana" to increase the camp's capacity and expand its environmental education mission [src_lapresse_ymca_2018]. The McConnell Foundation has also funded major renovations at the camp [f_0525]. Whether this pavilion was constructed as announced has not been confirmed in subsequent reporting.
 
 ## Current Outdoor Facilities
 
 - **Gaga Ball Pit**: An octagonal court for the gaga ball game [src_ymca_website]
 - **Low Ropes Course**: Team-building activity course [src_ymca_website]
 - **Archery Range**: Also documented historically — the camp had an archery range as early as the 1930s [f_0243]
+- **Rock Climbing Wall**: 30-foot climbing wall [src_ymca_website]
 - **Activity/Sports Field** [src_ymca_website]
 - **Fire Bowls**: For campfires and cookouts, part of the camp's outdoor program [src_ymca_website]
 - **Sand Beach**: On Lake Kanawana, with a marked swimming area, canoes, kayaks, paddleboards, a water trampoline, a barge, and a rescue boat [src_ymca_website]
+- **6 Overnight Campsites** [src_ymca_website]
 
 ## Historical Buildings and Structures
 
@@ -136,6 +150,10 @@ A lacrosse field was among the historical camp facilities [f_0243]. The sport re
 ### "Indian Grave" Marking
 
 An "Indian Grave" marking existed on the Kanawana camp map [f_0226]. No documentation has been found explaining whether this referred to an actual burial site, a naturalistic feature given a romantic name, or a campfire-story location. The marking is consistent with the early camp's broader engagement with romanticized Indigenous imagery documented in the McMorris thesis [src_mcmorris_thesis].
+
+### Superintendent's House (Destroyed by Fire, 2023)
+
+On May 16, 2023, a fire completely destroyed the **maison du surintendant** (superintendent's house) at Camp Kanawana [src_journal_acces_fire_2023]. The building was isolated from the campers' area, located on Montée Sainte-Elmire in the Spring Valley sector. A passerby called firefighters at 6 AM; when they arrived, the blaze was generalized and part of the building had collapsed. Twenty-five firefighters from Saint-Sauveur, Morin-Heights, and Sainte-Anne-des-Lacs responded. No injuries occurred (the camp was unoccupied). The cause was undetermined. The building was a total loss. The YMCA stated only one building was affected, and the camp opened as planned that summer.
 
 ### KoiNobori (1935)
 
@@ -202,6 +220,7 @@ From 1977 to 1980, plans existed for a proposed two-site camping operation using
 | 1970s | Totem pole still visible in photographs | [f_0227] |
 | 1980 | Nature trail development discussed | [src_ka_news_1980] |
 | 2018 | Desjardins donates $1M for new community pavilion | [src_lapresse_ymca_2018] |
+| 2023 | Superintendent's house destroyed by fire (May 16) | [src_journal_acces_fire_2023] |
 
 ## Open Questions
 
@@ -246,4 +265,5 @@ From 1977 to 1980, plans existed for a proposed two-site camping operation using
 11. MySummerCamps.com, "YMCA Kamp Kanawana" [src_mysummercamps_kanawana]
 12. La Presse, "Un million pour les YMCA" (May 15, 2018) [src_lapresse_ymca_2018]
 13. *KA News*, May 1980 [src_ka_news_1980]
-14. Oral history, Matt Aronson [src_oral_aronson]
+14. Journal Accès, "Un bâtiment du Camp YMCA Kanawana ravagé par les flammes" (May 16, 2023) [src_journal_acces_fire_2023]
+15. Oral history, Matt Aronson [src_oral_aronson]

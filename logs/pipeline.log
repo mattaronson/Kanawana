@@ -556,3 +556,27 @@
   - Cross-links: the-kanawana-site ↔ places-and-locations (bidirectional)
   - Web research agent running in parallel — results pending integration
   - Article totals: 21 E1-reviewed, 2 draft (ralph-dawson blocked, camp-songs-cheers), 5 stubs. KB: 556 facts, 100 sources.
+
+2026-02-27T13:30:00Z | RESEARCH | places-and-locations.md + blog + buildings web research integration
+  - BUILDINGS RESEARCH (web agent, 146 tool uses):
+    * KEY FINDING: Superintendent's house destroyed by fire May 16, 2023 — 25 firefighters, total loss, no injuries
+    * Infirmary confirmed: 5 beds, private washroom, emergency oxygen + AED
+    * 30-foot rock climbing wall confirmed (new to KB)
+    * Workshop/training pavilion (separate from other pavilions) confirmed
+    * Grand Portage and Longhouse: zero web results — confirmed oral tradition only
+    * Desjardins Pavilion: announced 2018, construction status unconfirmed
+    * Camp sections expanded: Rangers, Trailblazers, Voyageurs, Senior Kanawanians, Foresters, Adventurers, Mountaineers (all-gender)
+    * Flickr photo collection: flickr.com/photos/kanawana/ — 4,416 photos
+    * Sources: Journal Accès, CIME FM (fire), YMCA Quebec website
+  - BLOG RESEARCH (kanawana.blogspot.com, 97 tool uses):
+    * Blog by Matt Aronson — "An open journal dedicated to the history, culture and traditions of Kamp Kanawana"
+    * Blog appears to have only 2 posts: introduction + Kanawana Marching Song/Cheer
+    * Full cheer text recovered: begins with "Shhhh" hushing, "Kamp Kanawana, are you ready?!", "Hail hail the gang's all here", "K-A-N-A-W-A-N-A", ends with "It's true!"
+    * Lost verses (Concordia 2006): original 3-verse song, references "our camping songs" and "tramp, tramp, tramp on through the rain"
+    * Song not original to Kanawana: "Hail hail" from 1915 "Alabama Jubilee" / Sullivan's Pirates of Penzance
+    * Aronson bio: Matthew E. Aronson, attorney at Adessky Attorneys (Westmount), City Councillor District 7, McGill Law, YMCA Kanawana Alumni Awards committee
+    * Comments NOT retrievable — Blogger comments dynamically loaded, not indexed by search engines
+    * Blog access blocked (403) — direct access or Wayback Machine needed for full comment data
+  - OUTPUT: 11 new KB facts (f_0557-f_0567). 2 new sources (src_journal_acces_fire_2023, src_flickr_kanawana).
+  - places-and-locations.md updated: superintendent's house fire, infirmary, climbing wall, workshop pavilion added. 2950 words, 15 sources.
+  - KB: 567 facts, 102 sources (v4.12).

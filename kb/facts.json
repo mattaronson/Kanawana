@@ -2,7 +2,7 @@
   "version": "4.0",
   "kb_version": "4.0",
   "migrated_from": "3.3",
-  "fact_count": 556,
+  "fact_count": 567,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -8402,6 +8402,138 @@
       "date_ref": null,
       "conflicts_with": [],
       "added_version": "4.11",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_0557",
+      "claim": "On May 16, 2023, a fire completely destroyed the superintendent's house (maison du surintendant) at Camp Kanawana. The building was located on Montée Sainte-Elmire in the Spring Valley sector, isolated from the campers' area. A passerby called firefighters at 6 AM. Twenty-five firefighters from Saint-Sauveur, Morin-Heights, and Sainte-Anne-des-Lacs responded. No injuries (camp was unoccupied). Cause undetermined. Total loss.",
+      "sources": ["src_journal_acces_fire_2023"],
+      "confidence": "stated",
+      "category": "facilities",
+      "entities": ["Camp Kanawana", "superintendent's house"],
+      "date_ref": "2023-05-16",
+      "conflicts_with": [],
+      "added_version": "4.12",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_0558",
+      "claim": "The Camp Kanawana infirmary has 5 beds and a private washroom. An emergency oxygen tank and AED are available.",
+      "sources": ["src_ymca_website"],
+      "confidence": "stated",
+      "category": "facilities",
+      "entities": ["Camp Kanawana", "infirmary"],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "4.12",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_0559",
+      "claim": "Camp Kanawana has a 30-foot rock climbing wall among its current facilities.",
+      "sources": ["src_ymca_website"],
+      "confidence": "stated",
+      "category": "facilities",
+      "entities": ["Camp Kanawana"],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "4.12",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_0560",
+      "claim": "Camp Kanawana has a separate pavilion for workshops and training sessions, listed as a distinct facility from other named pavilions.",
+      "sources": ["src_ymca_website"],
+      "confidence": "stated",
+      "category": "facilities",
+      "entities": ["Camp Kanawana"],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "4.12",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_0561",
+      "claim": "The Kamp Kanawana Marching Song (also known as the Kanawana Cheer) includes a hushing call-and-response ('Shhhh'), followed by 'Kamp Kanawana, are you ready?! Then let's go!', the refrain 'Hail, hail, the gang's all here', spelling 'K-A-N-A-W-A-N-A, Kanawana!', and ends with 'It's true!'",
+      "sources": ["src_spirit_kanawana_blog"],
+      "confidence": "stated",
+      "category": "camp_culture",
+      "entities": ["Kanawana Marching Song", "Kanawana Cheer"],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "4.12",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_0562",
+      "claim": "The lost verses of the Kanawana Marching Song were rediscovered in the Kanawana Archives at Concordia University in 2006. The original song had three verses; only the first verse survived as part of the current cheer. The document containing the lost verses was undated. The original author of the Kanawana Marching Song is unknown.",
+      "sources": ["src_spirit_kanawana_blog"],
+      "confidence": "stated",
+      "category": "camp_culture",
+      "entities": ["Kanawana Marching Song", "Concordia University Archives"],
+      "date_ref": "2006",
+      "conflicts_with": [],
+      "added_version": "4.12",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_0563",
+      "claim": "The lost verses of the Kanawana Marching Song reference 'our camping songs' and include the line 'We're gonna tramp, tramp, tramp on through the rain.'",
+      "sources": ["src_spirit_kanawana_blog"],
+      "confidence": "stated",
+      "category": "camp_culture",
+      "entities": ["Kanawana Marching Song"],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "4.12",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_0564",
+      "claim": "Matt Aronson created the Spirit of Kanawana blog (kanawana.blogspot.com) after a dinner with 'old kampers' where discussion turned to Kamp history and traditions. The blog is described as 'An open journal dedicated to the history, culture and traditions of Kamp Kanawana.' He signs posts with 'Non Nobis Solum, Matt.'",
+      "sources": ["src_spirit_kanawana_blog"],
+      "confidence": "stated",
+      "category": "people",
+      "entities": ["Matt Aronson", "Spirit of Kanawana"],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "4.12",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_0565",
+      "claim": "Matt Aronson has a theory that the Kanawana Marching Song arrived at Kamp via 'the tradition of Green Triangle.' He promised to elaborate in a future blog post, but no such post has been found.",
+      "sources": ["src_spirit_kanawana_blog"],
+      "confidence": "stated",
+      "category": "camp_culture",
+      "entities": ["Matt Aronson", "Kanawana Marching Song", "Green Triangle"],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "4.12",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_0566",
+      "claim": "Matthew E. Aronson is an attorney at Adessky Attorneys (Westmount), primarily an immigration lawyer. He is a City Councillor for District 7, Westmount. He lives in Westmount with wife Jenny and daughters Abby and Nell. He is a McGill University Faculty of Law graduate and member of the YMCA Kanawana Alumni Awards committee.",
+      "sources": ["src_spirit_kanawana_blog"],
+      "confidence": "stated",
+      "category": "people",
+      "entities": ["Matt Aronson"],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "4.12",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_0567",
+      "claim": "A Kanawana Flickr photo collection exists at flickr.com/photos/kanawana/ containing 4,416 photographs.",
+      "sources": ["src_flickr_kanawana"],
+      "confidence": "stated",
+      "category": "sources",
+      "entities": ["Camp Kanawana"],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "4.12",
       "added_by": "ralph_loop"
     }
   ]
