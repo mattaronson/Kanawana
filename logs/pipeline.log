@@ -517,3 +517,42 @@
   - Sections: camp song, cheers/yells, sing-songs, song books, Grace at meals. 9 open questions.
   - 700 words, 7 sources. Web research agent running in background.
   - Article totals: 21 E1-reviewed, 1 draft (blocked), 4 stubs. KB: 542 facts, 97 sources.
+2026-02-27T12:00:00Z | RESEARCH | RALPH R1 — camp-songs-cheers (p_046)
+  - SCOPE: 25+ web searches across 10 query categories, 4 cached source files scanned
+  - WEB FINDINGS:
+    - Spirit of Kanawana blog (kanawana.blogspot.com) by Matt Aronson: documents Kanawana Marching Song/Cheer history
+    - Marching Song's "Hail hail the gang's all here" refrain traced to 1915 "Alabama Jubilee" (Cobb/Yellen)
+    - Tune originally from Arthur Sullivan's Pirates of Penzance
+    - Lost verses of original 3-verse song rediscovered at Concordia Archives in 2006
+    - Cheer includes call-and-response: "Kamp Kanawana, are you ready?!", "K-A-N-A-W-A-N-A"
+    - "On My Way to Kanawana" by Richard "Itch" Kerr confirmed: CD, 4:30 duration, P145/SR0001
+    - No lyrics or recordings for Kerr song found online
+    - CFCF radio broadcasts for K.K. promotion 1936-1941 (June 26, 1941 transcript on IA — already cached)
+    - Concordia P145/12B07 contains: song sheets/skits 1925, 1927; song books 1941-1945; Canadian YMCA song book
+    - ACA camp song history article: Canadian YMCA connection (Gary Schofield, Ottawa YMCA)
+    - Color War/L&V Games tradition includes team cheers, fight songs, Alma Mater
+    - YMCA Quebec website confirms current campfire singing with call-and-response
+  - CACHED SOURCE FINDINGS:
+    - Gas Bag 1923: "sing-songs" as central evening activity; "Sing-Sing Service" on Senior raft;
+      multiple original camp songs ("Sunny How Long", "She Told Me So", ice cream parody to "Yes We Have No Bananas")
+    - 1935 History: "musicale" in 8th week — "without precedent in the annals of Kanawana"
+    - 1938 Green Triangle: Benny Leshley (Christ Church Cathedral organist) organized chapel choir;
+      Brock Brace (Juvenile camper/composer) performed musicale; Sammy Shashley regular piano recitals
+    - 1922 Brochure: full cheer text; "short morning devotional period at the breakfast table" (earliest grace ref);
+      musical instruments on packing list
+    - 1921 Brochure: "musical instruments" and "music" on packing list
+  - OUTPUT: 14 new KB facts (f_0543-f_0556), 3 new sources
+  - GAPS: Kerr song lyrics/recordings not online; section cheers undocumented; dining hall Grace text unknown;
+    song books 1925-1945 accessible only at Concordia Archives; Marching Song full lyrics not published online
+  - RALPH DECISION: CONCLUDE — research SATURATED for online sources. Two blocked follow-ups:
+    oral history (p_048) and Concordia archival access (p_049)
+
+2026-02-27T13:00:00Z | WRITE | places-and-locations.md — New stub per user request
+  - USER REQUEST: "Create a stub for Kanawana places and locations, detailing place names, buildings past and present, areas, dismantled buildings, maps, blueprints, planned-but-never-built developments."
+  - Compiled from 28 existing KB facts across facilities, buildings, sections, maps, and infrastructure categories
+  - Sections: Camp Areas (Centre/Front/Lake Wilson/Outpost), Current Buildings (Dining Hall, Katimavik, Rose des Vents, Farmhouse, Blockhouse, Grand Portage, Longhouse, Arts & Crafts, Beach Lodge, Nature Nook, Activity Lodge, Desjardins Pavilion), Current Outdoor Facilities, Historical Buildings (Lakeside Pavilion 1922, Hospital 1922, Chapel, Council Ring, Icehouse, Golf Course, Swimming Pool, Haunted House, Lacrosse Field, Indian Grave, KoiNobori), Infrastructure (Dam, Water Supply, Trails), Maps/Photos/Architecture, Planned-but-Never-Built (Weredale two-site), Building Chronology
+  - Grand Portage and Longhouse: from oral tradition only, zero written documentation found
+  - 2800 words, 14 sources, 13 open questions
+  - Cross-links: the-kanawana-site ↔ places-and-locations (bidirectional)
+  - Web research agent running in parallel — results pending integration
+  - Article totals: 21 E1-reviewed, 2 draft (ralph-dawson blocked, camp-songs-cheers), 5 stubs. KB: 556 facts, 100 sources.

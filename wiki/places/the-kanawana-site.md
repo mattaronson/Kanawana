@@ -104,6 +104,7 @@ From 1977 to 1980, plans existed for a proposed two-site operation using Kanawan
 - [[people/j-w-mcconnell|J.W. McConnell]]
 - [[programs/canoe-trips|Canoe Tripping at Kanawana]]
 - [[places/camp-otoreke|Camp Otoreke]]
+- [[places/places-and-locations|Places and Locations at Camp Kanawana]]
 - [[programs/traditions-and-culture|Traditions and Culture at Kanawana]]
 
 ## Sources

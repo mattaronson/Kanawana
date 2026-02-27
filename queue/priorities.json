@@ -596,7 +596,78 @@
       "blocking": false,
       "assigned_weight": "P3",
       "created_at": "2026-02-27T00:00:00Z",
+      "status": "completed",
+      "completed_at": "2026-02-27T12:00:00Z",
+      "result": "R1 RALPH completed. 25+ web searches, 4 cached source files scanned. 14 new KB facts (f_0543-f_0556), 3 new sources. Key findings: (1) Kanawana Marching Song/Cheer traced to Alabama Jubilee (1915), lost verses rediscovered at Concordia 2006; (2) Full 1922 cheer text documented; (3) 1923 Gas Bag contains 3+ original camp songs with lyrics; (4) 1935 musicale documented; (5) 1938 choir organized by Benny Leshley (Christ Church Cathedral organist); (6) Song books 1925-1945 in Concordia Archives; (7) 'On My Way to Kanawana' by Richard Kerr confirmed on CD (P145/SR0001); (8) CFCF radio broadcasts 1936-1941. No lyrics for Kerr song found online. No recordings accessible. Research SATURATED for online sources."
+    },
+    {
+      "priority_id": "p_047",
+      "rank": 47,
+      "type": "WRITE",
+      "description": "Create camp-songs-cheers.md stub article — compile all song/cheer/music findings into article draft",
+      "article_id": "camp-songs-cheers",
+      "blocking": false,
+      "assigned_weight": "P3",
+      "created_at": "2026-02-27T12:00:00Z",
       "status": "pending"
+    },
+    {
+      "priority_id": "p_048",
+      "rank": 48,
+      "type": "RESEARCH",
+      "description": "Collect oral history on camp songs and cheers from Matt Aronson — L&V section cheers, dining hall Grace text, campfire song repertoire, Kerr song memories, Marching Song full lyrics",
+      "article_id": "camp-songs-cheers",
+      "blocking": true,
+      "blocking_reason": "Requires oral history input from domain expert (src_oral_aronson). Key songs and cheers exist only in oral tradition and are not documented online.",
+      "assigned_weight": "P2",
+      "created_at": "2026-02-27T12:00:00Z",
+      "status": "blocked"
+    },
+    {
+      "priority_id": "p_049",
+      "rank": 49,
+      "type": "RESEARCH",
+      "description": "Access Concordia Archives P145/12B07 — retrieve song sheets (1925, 1927) and Kanawana song books (1941-1945) for full lyrics extraction",
+      "article_id": "camp-songs-cheers",
+      "blocking": true,
+      "blocking_reason": "Requires physical or digitized access to Concordia University Archives. Materials not available online.",
+      "assigned_weight": "P2",
+      "created_at": "2026-02-27T12:00:00Z",
+      "status": "blocked"
+    },
+    {
+      "priority_id": "p_050",
+      "rank": 50,
+      "type": "RESEARCH",
+      "description": "RALPH R1 for places-and-locations.md — identify Grand Portage and Longhouse buildings, verify building chronology, access camp maps",
+      "article_id": "places-and-locations",
+      "blocking": false,
+      "assigned_weight": "P1",
+      "created_at": "2026-02-27T13:00:00Z",
+      "status": "pending"
+    },
+    {
+      "priority_id": "p_051",
+      "rank": 51,
+      "type": "RESEARCH",
+      "description": "Oral history needed for Grand Portage and Longhouse building identification, named cabin inventory, individual building histories",
+      "article_id": "places-and-locations",
+      "blocking": true,
+      "blocking_reason": "Grand Portage and Longhouse are known only from oral tradition. No written documentation found. Requires alumni input.",
+      "assigned_weight": "P1",
+      "created_at": "2026-02-27T13:00:00Z",
+      "status": "blocked"
+    },
+    {
+      "priority_id": "p_052",
+      "rank": 52,
+      "type": "RESEARCH",
+      "description": "Document all facts and commenters from kanawana.blogspot.com (Spirit of Kanawana blog)",
+      "article_id": null,
+      "blocking": false,
+      "assigned_weight": "P1",
+      "created_at": "2026-02-27T13:00:00Z",
+      "status": "in_progress"
     }
   ]
 }
