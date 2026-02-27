@@ -1505,6 +1505,54 @@
       "extraction_version": "4.9",
       "reliability": "secondary",
       "notes": "Etymology of Kanawha (West Virginia river): generally 'white rocks' in Shawnee/Delaware. Kanawha Indian band was Algonquin-family. Possible but unconfirmed linguistic connection to Kanawana."
+    },
+    {
+      "source_id": "src_fowke_anson_minor_1981",
+      "type": "thesis",
+      "title": "Fowke, Edith. 'The Tale of Anson Minor: An Ontario Camp Legend.' Ethnologies 3:1, 1981, pp. 3-15.",
+      "date": "1981",
+      "date_precision": "year",
+      "origin": "web",
+      "origin_url": "https://www.erudit.org/en/journals/ethno/1981-v3-n1-ethno06328/1081047ar/",
+      "cache_path": null,
+      "char_count": 0,
+      "ingested_at": "2026-02-27T00:00:00Z",
+      "extracted": false,
+      "extraction_version": null,
+      "reliability": "secondary",
+      "notes": "Foundational study of the most widespread camp legend in Ontario. Multiple unpublished versions. Examines historicity and North American camp legend patterns. Key reference for understanding Canadian camp ghost stories and their relationship to Chopsy at Kanawana."
+    },
+    {
+      "source_id": "src_fireside_canada_anson_minor",
+      "type": "web",
+      "title": "Fireside Canada, Episode 35: 'The Legend of Anson Minor.' Hosted by David Williams, September 26, 2024.",
+      "date": "2024-09-26",
+      "date_precision": "exact",
+      "origin": "web",
+      "origin_url": "https://firesidecanada.ca/the-legend-of-anson-minor/",
+      "cache_path": null,
+      "char_count": 0,
+      "ingested_at": "2026-02-27T00:00:00Z",
+      "extracted": true,
+      "extraction_version": "4.10",
+      "reliability": "secondary",
+      "notes": "38-minute podcast tracing the Anson Minor legend to its original camp and the real events that inspired it. Comprehensive analysis of how camp ghost stories spread and persist."
+    },
+    {
+      "source_id": "src_fireside_canada_chasse_galerie",
+      "type": "web",
+      "title": "Fireside Canada, Episode 5: 'La Chasse-Galerie' (Parts 1 & 2). Hosted by David Williams, 2021.",
+      "date": "2021",
+      "date_precision": "year",
+      "origin": "web",
+      "origin_url": "https://firesidecanada.ca/la-chasse-galerie-part-1/",
+      "cache_path": null,
+      "char_count": 0,
+      "ingested_at": "2026-02-27T00:00:00Z",
+      "extracted": false,
+      "extraction_version": null,
+      "reliability": "secondary",
+      "notes": "Two-part podcast on La Chasse-Galerie (the Flying Canoe), covering its historical context, coureurs de bois campfire origins, Lake St. Clair variant, Wild Hunt connection, and cultural legacy. Relevant to Kanawana campfire storytelling traditions."
     }
   ]
 }

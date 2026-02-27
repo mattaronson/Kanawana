@@ -1432,6 +1432,7 @@
       ],
       "open_questions": 6,
       "cross_links": [
+        "camp-songs-cheers",
         "centennial-1967",
         "council-ring",
         "directors-index",
@@ -1964,7 +1965,10 @@
         "f_0536",
         "f_0537",
         "f_0538",
-        "f_0539"
+        "f_0539",
+        "f_0540",
+        "f_0541",
+        "f_0542"
       ],
       "sources_cited": [
         "src_oral_aronson",
@@ -1978,7 +1982,10 @@
         "src_kanawana_facts",
         "src_concordia_fonds",
         "src_web_cropsey_2026",
-        "src_web_quebec_folklore_2026"
+        "src_web_quebec_folklore_2026",
+        "src_fowke_anson_minor_1981",
+        "src_fireside_canada_anson_minor",
+        "src_fireside_canada_chasse_galerie"
       ],
       "open_questions": 8,
       "cross_links": [
@@ -1990,8 +1997,52 @@
         "canadian-camping-movement"
       ],
       "file_id": null,
-      "word_count": 2200,
-      "notes": "R1 RALPH completed 2026-02-27. Four myths documented: oldest camp claim, name meaning, Indian heritage, founding narrative. Two legends documented: the haunted house (1935), Cropsy/Chopsy archetype. Quebec folklore context added. 8 new KB facts (f_0526-f_0533). Chopsy legend needs oral history to fully document. Name etymology remains unresolved -- Dawson 1933 and Charlton 1943 are highest-priority unexamined sources."
+      "word_count": 2800,
+      "notes": "R1-R2 RALPH completed 2026-02-27. Four myths documented (oldest camp, name meaning, Indian heritage, founding narrative). Legends: haunted house (1935), Cropsey archetype, Anson Minor (Canadian parallel), Chopsy (Kanawana-local). Quebec folklore context. Fireside Canada podcast as source. 17 KB facts cited. 19 sources. Chopsy needs oral history."
+    },
+    {
+      "article_id": "camp-songs-cheers",
+      "title": "Camp Songs and Cheers",
+      "wiki_folder": "programs",
+      "status": "stub",
+      "status_history": [
+        {
+          "status": "stub",
+          "at": "2026-02-27T00:00:00Z",
+          "by": "auto",
+          "task": "WRITE"
+        }
+      ],
+      "ralph_loops_completed": 0,
+      "kb_facts_used": [
+        "f_0154",
+        "f_0283",
+        "f_0299",
+        "f_0388",
+        "f_0459",
+        "f_0468",
+        "f_0469"
+      ],
+      "sources_cited": [
+        "src_gas_bag_1923",
+        "src_brochure_1922",
+        "src_history_1935",
+        "src_concordia_fonds",
+        "src_concordia_atom_12B04",
+        "src_oral_aronson",
+        "src_mcmorris_thesis"
+      ],
+      "open_questions": 9,
+      "cross_links": [
+        "traditions-and-culture",
+        "myths-and-legends",
+        "pip-alumni-award",
+        "lv-games",
+        "council-ring"
+      ],
+      "file_id": null,
+      "word_count": 700,
+      "notes": "Stub created 2026-02-27 per user request. 7 KB facts cited. Key content: 'On My Way to Kanawana' by Richard Kerr (P145/SR0001), 1922 'Yo Triumphy' cheer, sing-song traditions, archival song books (P0145/12B07). Awaits RALPH R1 + oral history for lyrics, section cheers, dining hall cheers, and Grace text."
     }
   ]
 }

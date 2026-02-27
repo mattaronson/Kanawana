@@ -2,7 +2,7 @@
   "version": "4.0",
   "kb_version": "4.0",
   "migrated_from": "3.3",
-  "fact_count": 539,
+  "fact_count": 542,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -8198,6 +8198,42 @@
       "date_ref": null,
       "conflicts_with": [],
       "added_version": "4.9",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_0540",
+      "claim": "The Legend of Anson Minor is the most widespread camp ghost story in Ontario. It was documented by folklorist Edith Fowke (York University) in 'The Tale of Anson Minor: An Ontario Camp Legend' (Ethnologies 3:1, 1981, pp. 3-15). Fowke presented multiple previously unpublished versions, questioned the legend's historicity, and described the pattern of camp ghost stories in North America.",
+      "sources": ["src_fowke_anson_minor_1981"],
+      "confidence": "stated",
+      "category": "legends",
+      "entities": ["Anson Minor", "Edith Fowke"],
+      "date_ref": "1981",
+      "conflicts_with": [],
+      "added_version": "4.10",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_0541",
+      "claim": "The Anson Minor legend tells of a farmer who owned the land where a summer camp now stands. He suffered a gruesome farming accident (leg caught in thresher/plough), lost his leg, fell into ruin, and hanged himself in his barn. His ghost haunts the camp, limping through the fields carrying a green-glowing lantern. The legend is told at camps across Ontario and Nova Scotia, including Camp White Pine and Camp Kadimah.",
+      "sources": ["src_fowke_anson_minor_1981", "src_fireside_canada_anson_minor"],
+      "confidence": "stated",
+      "category": "legends",
+      "entities": ["Anson Minor", "Camp White Pine", "Camp Kadimah"],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "4.10",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_0542",
+      "claim": "The Fireside Canada podcast (Episode 35, September 26, 2024, hosted by David Williams) devoted a 38-minute episode to the Legend of Anson Minor, tracing its origins to the original camp that spawned the story and the tragic events that inspired it. The podcast also covers La Chasse-Galerie (Episode 5, 2021) and other Canadian legends.",
+      "sources": ["src_fireside_canada_anson_minor"],
+      "confidence": "stated",
+      "category": "legends",
+      "entities": ["Anson Minor", "Fireside Canada", "David Williams"],
+      "date_ref": "2024",
+      "conflicts_with": [],
+      "added_version": "4.10",
       "added_by": "ralph_loop"
     }
   ]

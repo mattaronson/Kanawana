@@ -1,6 +1,6 @@
 # Kanawana Myths and Legends
 
-*Status: stub | Sources: 16*
+*Status: stub | Sources: 19*
 *Last Updated: 2026-02-27*
 
 ## Overview
@@ -69,6 +69,18 @@ A parallel example is the **"Stumpy"** ghost story, documented by John Kotula, f
 
 Folklorists have established that the "maniac in the woods" archetype serves key social functions at camp: it reinforces rules about not wandering into the woods alone at night, builds community through shared fear, and allows counselors to establish authority. Bill Ellis studied this in "The Camp Mock-Ordeal Theater as Life" (*Journal of American Folklore*, 1981), and Leslie Paris examined campfire storytelling in her history of American summer camp culture [f_0539].
 
+### The Legend of Anson Minor: Canada's Own Camp Ghost Story
+
+While Cropsey dominates in the northeastern United States, the most widespread camp ghost story in **Canada** is the **Legend of Anson Minor**. Documented by folklorist Edith Fowke (York University) in "The Tale of Anson Minor: An Ontario Camp Legend" (*Ethnologies* 3:1, 1981, pp. 3-15), the legend follows a strikingly similar pattern to Cropsey but with distinctly Canadian elements [f_0540].
+
+The core narrative: Anson Minor was a farmer who owned the land where a summer camp now stands. He suffered a gruesome accident — in the most common version, his leg was caught in farm machinery (a thresher or plough) and had to be amputated, leaving him with a wooden leg and a terrible limp. Unable to work, he lost his farm to financial ruin. He carried his lantern into the barn, climbed a ladder, and hanged himself. When the sheriff found his body dangling in the greenish glow of the lantern and went to report the discovery, the body and lantern vanished. His ghost now haunts the camp grounds, limping through the fields and along the tree line, carrying a green-glowing lantern [f_0541].
+
+The legend is told at camps across Ontario and Nova Scotia. **Camp White Pine** in Ontario is cited as one of the camps where a well-developed version exists, and **Camp Kadimah** has a documented variant (with Anson Minor's gangrene, preference for the colour green, and the number 13). Fowke's 1981 study presented multiple previously unpublished versions, questioned the legend's historicity, and described the broader pattern of camp ghost stories in North America [f_0540].
+
+The *Fireside Canada* podcast (Episode 35, September 26, 2024, hosted by David Williams) devoted a 38-minute episode to the legend, tracing its origins "back through the decades to the original camp that spawned the story, and the tragic series of events that inspired it" [f_0542]. The legend also appeared in the 2013 film *Bunks*, where Anson Minor is a zombie summoned from a book of campfire stories.
+
+The Anson Minor legend is especially relevant to Kanawana because it demonstrates how Canadian camps develop their own localized ghost stories following the same structural pattern as American camp legends. Whether "Chopsy" at Kanawana represents a Quebec adaptation of the Cropsey/Anson Minor archetype, or a completely independent creation, remains an open question.
+
 ### "Chopsy" at Kanawana
 
 **"Chopsy"** is reported to be a ghost story told at Camp Kanawana about an ax murderer. No published or online documentation of this specific story has been found. Over 30 web searches using the exact terms "Chopsy," "Chopsey," "Chopsie," and "Chops" combined with camp, ghost, story, axe, Quebec, Kanawana, and YMCA keywords returned zero relevant results. The name does not appear in any indexed folklore archive, academic database, Reddit discussion, or camp ghost story collection [f_0534].
@@ -129,3 +141,6 @@ These Quebec folk traditions may have been told at Kanawana campfires alongside 
 14. USC Digital Folklore Archives, "Cropsey" and "Judge Cropsey Legend" entries [src_usc_folklore_cropsey].
 15. "The Cropsey Maniac: The Forgotten Origins," Puzzle Box Horror [src_puzzlebox_cropsey_origins].
 16. John Kotula, "The Story of Stumpy: Every Camp Needs a Good Ghost Story," Medium.
+17. Edith Fowke, "The Tale of Anson Minor: An Ontario Camp Legend," *Ethnologies* 3:1, 1981, pp. 3-15 [src_fowke_anson_minor_1981].
+18. *Fireside Canada* podcast, Episode 35: "The Legend of Anson Minor," hosted by David Williams, September 26, 2024 [src_fireside_canada_anson_minor].
+19. *Fireside Canada* podcast, Episode 5: "La Chasse-Galerie" (Parts 1 & 2), hosted by David Williams, 2021 [src_fireside_canada_chasse_galerie].

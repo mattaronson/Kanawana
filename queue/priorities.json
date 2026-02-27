@@ -586,6 +586,17 @@
       "assigned_weight": "P2",
       "created_at": "2026-02-27T01:00:00Z",
       "status": "blocked"
+    },
+    {
+      "priority_id": "p_046",
+      "rank": 46,
+      "type": "RESEARCH",
+      "description": "RALPH R1 on camp-songs-cheers — search for Kerr song lyrics/recordings, section cheers, dining hall cheers, Grace text, YMCA camp song traditions",
+      "article_id": "camp-songs-cheers",
+      "blocking": false,
+      "assigned_weight": "P3",
+      "created_at": "2026-02-27T00:00:00Z",
+      "status": "pending"
     }
   ]
 }
