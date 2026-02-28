@@ -92,6 +92,8 @@ Known recipients include: Richard "Itche" Kerr (composer of the camp song), Rich
 - [[context/section-names|Section Names and Age Groups]]
 - [[people/directors-index|Directors of Camp Kanawana]]
 - [[chronology/centennial-1967|The 1967 Centennial and Kanawana]]
+- [[programs/camp-songs-cheers|Camp Songs, Cheers, and Musical Traditions]]
+- [[context/myths-and-legends|Kanawana Myths and Legends]]
 
 ## Sources
 

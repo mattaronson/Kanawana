@@ -1,7 +1,7 @@
 # J.W. McConnell
 
-*Status: stub | Sources: src_wikipedia_mcconnell, src_mcconnell_foundation, src_oral_aronson, src_fong_mcconnell_2008*
-*Last Updated: 2026-02-26*
+*Status: E1-reviewed | Sources: src_wikipedia_mcconnell, src_mcconnell_foundation, src_oral_aronson, src_fong_mcconnell_2008, src_kanawana_facts*
+*Last Updated: 2026-02-28 (E1 REVIEW completed)*
 
 ## Overview
 

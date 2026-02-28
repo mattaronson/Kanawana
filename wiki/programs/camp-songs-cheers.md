@@ -1,7 +1,7 @@
 # Camp Songs, Cheers, and Musical Traditions
 
-*Status: draft | Sources: src_gas_bag_1923, src_brochure_1922, src_brochure_1921, src_history_1935, src_green_triangle_1938, src_concordia_fonds, src_concordia_atom_12B04, src_concordia_atom_12B07, src_oral_aronson, src_spirit_kanawana_blog, src_aca_camp_songs_history, src_wikipedia_alabama_jubilee, src_ymca_website, src_mcmorris_thesis, src_cfcf_1941*
-*Last Updated: 2026-02-27 (R1 RALPH completed)*
+*Status: E1-reviewed | Sources: src_gas_bag_1923, src_brochure_1922, src_brochure_1921, src_history_1935, src_green_triangle_1938, src_concordia_fonds, src_concordia_atom_12B04, src_concordia_atom_12B07, src_oral_aronson, src_spirit_kanawana_blog, src_aca_camp_songs_history, src_wikipedia_alabama_jubilee, src_ymca_website, src_mcmorris_thesis, src_cfcf_1941*
+*Last Updated: 2026-02-28 (E1 REVIEW completed)*
 
 ## Overview
 
@@ -113,7 +113,7 @@ The Color War tradition (known at Kanawana as the L&V Games) typically includes 
 
 - [[programs/traditions-and-culture|Traditions and Culture at Kanawana]]
 - [[context/myths-and-legends|Kanawana Myths and Legends]]
-- [[people/pip-alumni-award|The Pip Alumni Award]]
+- [[programs/pip-alumni-award|The Pip Alumni Award]]
 - [[programs/lv-games|The L&V Games]]
 - [[places/council-ring|The Council Ring]]
 

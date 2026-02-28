@@ -1,5 +1,5 @@
 {
-  "version": "4.0",
+  "version": "v4.13",
   "kb_version": "4.0",
   "migrated_from": "3.3",
   "fact_count": 567,
@@ -6115,10 +6115,14 @@
     {
       "fact_id": "f_0366",
       "claim": "McMorris thesis abstract states: 'From 1894 to 1967, Kanawana was open only to boys and helped form distinctly masculine and Canadian young men'",
-      "sources": ["src_mcmorris_thesis"],
+      "sources": [
+        "src_mcmorris_thesis"
+      ],
       "confidence": "stated",
       "category": "coeducation",
-      "entities": ["Camp Kanawana"],
+      "entities": [
+        "Camp Kanawana"
+      ],
       "date_ref": "1967",
       "conflicts_with": [],
       "added_version": "4.1",
@@ -6127,10 +6131,14 @@
     {
       "fact_id": "f_0367",
       "claim": "A 2005 YMCA John Island Alumni Newsletter describes someone visiting in 1969 who was 'hired as a counsellor in the senior boys section' at a Y summer camp identified as Kamp Kanawana",
-      "sources": ["src_ymca_john_island_newsletter"],
+      "sources": [
+        "src_ymca_john_island_newsletter"
+      ],
       "confidence": "inferred",
       "category": "coeducation",
-      "entities": ["Camp Kanawana"],
+      "entities": [
+        "Camp Kanawana"
+      ],
       "date_ref": "1969",
       "conflicts_with": [],
       "added_version": "4.1",
@@ -6139,10 +6147,14 @@
     {
       "fact_id": "f_0368",
       "claim": "YMCA Quebec website states Kanawana 'welcomed girls to its camp for the first time, beginning a long tradition of inclusion and diversity'",
-      "sources": ["src_ymca_website"],
+      "sources": [
+        "src_ymca_website"
+      ],
       "confidence": "stated",
       "category": "coeducation",
-      "entities": ["Camp Kanawana"],
+      "entities": [
+        "Camp Kanawana"
+      ],
       "date_ref": null,
       "conflicts_with": [],
       "added_version": "4.1",
@@ -6151,10 +6163,15 @@
     {
       "fact_id": "f_0369",
       "claim": "The Mountaineer program was launched at Kanawana as an all-gender tent for transgender, non-binary, and gender non-conforming campers",
-      "sources": ["src_ymca_website"],
+      "sources": [
+        "src_ymca_website"
+      ],
       "confidence": "stated",
       "category": "coeducation",
-      "entities": ["Camp Kanawana", "Mountaineer"],
+      "entities": [
+        "Camp Kanawana",
+        "Mountaineer"
+      ],
       "date_ref": "2022",
       "conflicts_with": [],
       "added_version": "4.1",
@@ -6163,10 +6180,16 @@
     {
       "fact_id": "f_0370",
       "claim": "Pine Crest Games started in 1940; Kanawana L&V Games adopted from Pine Crest starting 1947 (~7-year lag)",
-      "sources": ["src_ymca_website"],
+      "sources": [
+        "src_ymca_website"
+      ],
       "confidence": "stated",
       "category": "lv_games",
-      "entities": ["L&V Games", "Pine Crest", "Camp Kanawana"],
+      "entities": [
+        "L&V Games",
+        "Pine Crest",
+        "Camp Kanawana"
+      ],
       "date_ref": "1940",
       "conflicts_with": [],
       "added_version": "4.1",
@@ -6175,10 +6198,15 @@
     {
       "fact_id": "f_0371",
       "claim": "Pine Crest camp divided into Voyageurs (symbol: paddle) and Lumbermen (symbol: axe); competitions include Swimming, Boating, and Woodcraft",
-      "sources": ["src_pine_crest_encyclopedia"],
+      "sources": [
+        "src_pine_crest_encyclopedia"
+      ],
       "confidence": "stated",
       "category": "lv_games",
-      "entities": ["Pine Crest", "L&V Games"],
+      "entities": [
+        "Pine Crest",
+        "L&V Games"
+      ],
       "date_ref": null,
       "conflicts_with": [],
       "added_version": "4.1",
@@ -6187,10 +6215,14 @@
     {
       "fact_id": "f_0372",
       "claim": "YMCA Camp Pine Crest has operated since 1910 on Clear Lake, Muskoka, Ontario",
-      "sources": ["src_pine_crest_encyclopedia"],
+      "sources": [
+        "src_pine_crest_encyclopedia"
+      ],
       "confidence": "stated",
       "category": "context",
-      "entities": ["Pine Crest"],
+      "entities": [
+        "Pine Crest"
+      ],
       "date_ref": "1910",
       "conflicts_with": [],
       "added_version": "4.1",
@@ -6199,10 +6231,14 @@
     {
       "fact_id": "f_0373",
       "claim": "A book 'Lumbermen & Voyageurs: The YMCA Pine Crest Story' covers 100 years of camping at Pine Crest",
-      "sources": ["src_pine_crest_book"],
+      "sources": [
+        "src_pine_crest_book"
+      ],
       "confidence": "stated",
       "category": "lv_games",
-      "entities": ["Pine Crest"],
+      "entities": [
+        "Pine Crest"
+      ],
       "date_ref": null,
       "conflicts_with": [],
       "added_version": "4.1",
@@ -6211,10 +6247,15 @@
     {
       "fact_id": "f_0374",
       "claim": "Concordia archives 12B04 confirms Green Triangle newsletter ran 1932-1940; Ka-News/Green Triangle revived 1976 and 1978-1982",
-      "sources": ["src_concordia_fonds"],
+      "sources": [
+        "src_concordia_fonds"
+      ],
       "confidence": "stated",
       "category": "traditions",
-      "entities": ["Green Triangle", "Ka-News"],
+      "entities": [
+        "Green Triangle",
+        "Ka-News"
+      ],
       "date_ref": "1932",
       "conflicts_with": [],
       "added_version": "4.1",
@@ -6223,10 +6264,14 @@
     {
       "fact_id": "f_0375",
       "claim": "Concordia archives 12B04 holds: brochures (1978, 1982, 1983), 1996 VHS video directed by Cathy Reeves, 1994 centennial poster, 1989 reunion materials",
-      "sources": ["src_concordia_fonds"],
+      "sources": [
+        "src_concordia_fonds"
+      ],
       "confidence": "stated",
       "category": "context",
-      "entities": ["Concordia Archives"],
+      "entities": [
+        "Concordia Archives"
+      ],
       "date_ref": null,
       "conflicts_with": [],
       "added_version": "4.1",
@@ -6235,10 +6280,15 @@
     {
       "fact_id": "f_0376",
       "claim": "YMCA Quebec discontinued day camps (including holiday/spring break camps) as of fall 2025; Kanawana summer camp continues to operate",
-      "sources": ["src_ymca_website"],
+      "sources": [
+        "src_ymca_website"
+      ],
       "confidence": "stated",
       "category": "context",
-      "entities": ["Camp Kanawana", "YMCA Quebec"],
+      "entities": [
+        "Camp Kanawana",
+        "YMCA Quebec"
+      ],
       "date_ref": "2025",
       "conflicts_with": [],
       "added_version": "4.1",
@@ -6247,10 +6297,14 @@
     {
       "fact_id": "f_0377",
       "claim": "Camp Kanawana 120th anniversary reunion held in 2014, consistent with 1894 founding",
-      "sources": ["src_ymca_website"],
+      "sources": [
+        "src_ymca_website"
+      ],
       "confidence": "stated",
       "category": "founding",
-      "entities": ["Camp Kanawana"],
+      "entities": [
+        "Camp Kanawana"
+      ],
       "date_ref": "2014",
       "conflicts_with": [],
       "added_version": "4.1",
@@ -6259,10 +6313,14 @@
     {
       "fact_id": "f_0378",
       "claim": "Current Kanawana activities include archery, rope courses, rock climbing, water trampolining, paddle boarding, theatre, music, arts and crafts, nature, dance, survival techniques, woodworking",
-      "sources": ["src_ymca_website"],
+      "sources": [
+        "src_ymca_website"
+      ],
       "confidence": "stated",
       "category": "programs",
-      "entities": ["Camp Kanawana"],
+      "entities": [
+        "Camp Kanawana"
+      ],
       "date_ref": null,
       "conflicts_with": [],
       "added_version": "4.1",
@@ -6271,10 +6329,14 @@
     {
       "fact_id": "f_0379",
       "claim": "Kanawana daily schedule includes 'Interest Groups' (camper-chosen activities), cabin/tent group time, and 'General Swim'",
-      "sources": ["src_ymca_website"],
+      "sources": [
+        "src_ymca_website"
+      ],
       "confidence": "stated",
       "category": "programs",
-      "entities": ["Camp Kanawana"],
+      "entities": [
+        "Camp Kanawana"
+      ],
       "date_ref": null,
       "conflicts_with": [],
       "added_version": "4.1",
@@ -6283,10 +6345,14 @@
     {
       "fact_id": "f_0380",
       "claim": "Kanawana is a technology-free camp",
-      "sources": ["src_ymca_website"],
+      "sources": [
+        "src_ymca_website"
+      ],
       "confidence": "stated",
       "category": "programs",
-      "entities": ["Camp Kanawana"],
+      "entities": [
+        "Camp Kanawana"
+      ],
       "date_ref": null,
       "conflicts_with": [],
       "added_version": "4.1",
@@ -6294,11 +6360,15 @@
     },
     {
       "fact_id": "f_0381",
-      "claim": "Lemuel Cushing Sr. (1806-1875) was a businessman and pioneer in the Ottawa valley, born in Trois-Rivières, married Catherine Hutchins 1836, had 13 children including 8 sons",
-      "sources": ["src_dcb_cushing"],
+      "claim": "Lemuel Cushing Sr. (1806-1875) was a businessman and pioneer in the Ottawa valley, born in Trois-Rivi\u00e8res, married Catherine Hutchins 1836, had 13 children including 8 sons",
+      "sources": [
+        "src_dcb_cushing"
+      ],
       "confidence": "stated",
       "category": "people",
-      "entities": ["Lemuel Cushing Sr."],
+      "entities": [
+        "Lemuel Cushing Sr."
+      ],
       "date_ref": "1806",
       "conflicts_with": [],
       "added_version": "4.1",
@@ -6307,10 +6377,15 @@
     {
       "fact_id": "f_0382",
       "claim": "Lemuel Cushing Jr. (1842-1881) was a Montreal lawyer and president of the Montreal YMCA from 1869 to 1870",
-      "sources": ["src_wikipedia_cushing"],
+      "sources": [
+        "src_wikipedia_cushing"
+      ],
       "confidence": "stated",
       "category": "people",
-      "entities": ["Lemuel Cushing Jr.", "YMCA Montreal"],
+      "entities": [
+        "Lemuel Cushing Jr.",
+        "YMCA Montreal"
+      ],
       "date_ref": "1869",
       "conflicts_with": [],
       "added_version": "4.1",
@@ -6319,10 +6394,14 @@
     {
       "fact_id": "f_0383",
       "claim": "Lemuel Cushing Jr. married Ellen Myra Macdougall in 1869 and died in 1881, before the 1892 Lake St. Joseph camp trip",
-      "sources": ["src_wikipedia_cushing"],
+      "sources": [
+        "src_wikipedia_cushing"
+      ],
       "confidence": "stated",
       "category": "people",
-      "entities": ["Lemuel Cushing Jr."],
+      "entities": [
+        "Lemuel Cushing Jr."
+      ],
       "date_ref": "1881",
       "conflicts_with": [],
       "added_version": "4.1",
@@ -6331,10 +6410,16 @@
     {
       "fact_id": "f_0384",
       "claim": "The 1892 Lemuel Cushing who brought boys to Lake St. Joseph must be a grandson or later relative of YMCA president Lemuel Jr., who died in 1881",
-      "sources": ["src_wikipedia_cushing", "src_qahn_howard"],
+      "sources": [
+        "src_wikipedia_cushing",
+        "src_qahn_howard"
+      ],
       "confidence": "inferred",
       "category": "people",
-      "entities": ["Lemuel Cushing", "Lemuel Cushing Jr."],
+      "entities": [
+        "Lemuel Cushing",
+        "Lemuel Cushing Jr."
+      ],
       "date_ref": "1892",
       "conflicts_with": [],
       "added_version": "4.1",
@@ -6343,10 +6428,16 @@
     {
       "fact_id": "f_0385",
       "claim": "Concordia Archives hold research reports mentioning 'Lemuel Cushing' and 'Charles Cushing' among YMCA figures in sub-series 13D",
-      "sources": ["src_concordia_fonds"],
+      "sources": [
+        "src_concordia_fonds"
+      ],
       "confidence": "stated",
       "category": "people",
-      "entities": ["Lemuel Cushing", "Charles Cushing", "Concordia Archives"],
+      "entities": [
+        "Lemuel Cushing",
+        "Charles Cushing",
+        "Concordia Archives"
+      ],
       "date_ref": null,
       "conflicts_with": [],
       "added_version": "4.1",
@@ -6355,10 +6446,15 @@
     {
       "fact_id": "f_0386",
       "claim": "D.A. Budge authored a 'Memorandum of the Early Beginnings of the YMCA Work on the Canadian Pacific Railway' (1890s) and a 'Study of Possible Extension of YMCAs of Grand Trunk Railway' (1896)",
-      "sources": ["src_concordia_fonds"],
+      "sources": [
+        "src_concordia_fonds"
+      ],
       "confidence": "stated",
       "category": "people",
-      "entities": ["D.A. Budge", "YMCA Montreal"],
+      "entities": [
+        "D.A. Budge",
+        "YMCA Montreal"
+      ],
       "date_ref": "1896",
       "conflicts_with": [],
       "added_version": "4.1",
@@ -6367,10 +6463,17 @@
     {
       "fact_id": "f_0387",
       "claim": "The 1967 Centennial featured two distinct canoe events: the competitive Centennial Voyageur Canoe Pageant (organized by the federal Centennial Commission) and the CCA Centenary Journey (a youth camping program organized by the Canadian Camping Association). Kanawana participated in the latter.",
-      "sources": ["src_mcmorris_thesis", "src_wikipedia_voyageur_pageant"],
+      "sources": [
+        "src_mcmorris_thesis",
+        "src_wikipedia_voyageur_pageant"
+      ],
       "confidence": "stated",
       "category": "centennial",
-      "entities": ["Camp Kanawana", "Voyageur Canoe Pageant", "CCA Centenary Journey"],
+      "entities": [
+        "Camp Kanawana",
+        "Voyageur Canoe Pageant",
+        "CCA Centenary Journey"
+      ],
       "date_ref": "1967",
       "conflicts_with": [],
       "added_version": "4.1",
@@ -6379,10 +6482,15 @@
     {
       "fact_id": "f_0388",
       "claim": "A busload of Kanawana campers singing the Kanawana song greeted the CCA Centenary Journey paddlers upon their arrival in Ottawa in 1967",
-      "sources": ["src_mcmorris_thesis"],
+      "sources": [
+        "src_mcmorris_thesis"
+      ],
       "confidence": "stated",
       "category": "centennial",
-      "entities": ["Camp Kanawana", "Ottawa"],
+      "entities": [
+        "Camp Kanawana",
+        "Ottawa"
+      ],
       "date_ref": "1967",
       "conflicts_with": [],
       "added_version": "4.1",
@@ -6391,10 +6499,17 @@
     {
       "fact_id": "f_0389",
       "claim": "Bruce W. Hodgins (1931-2019), professor of History at Trent University and Camp Wanapitei director, was the key organizer of the CCA Centenary Journey in 1967",
-      "sources": ["src_cca_history", "src_wikipedia_hodgins"],
+      "sources": [
+        "src_cca_history",
+        "src_wikipedia_hodgins"
+      ],
       "confidence": "stated",
       "category": "centennial",
-      "entities": ["Bruce Hodgins", "CCA Centenary Journey", "Trent University"],
+      "entities": [
+        "Bruce Hodgins",
+        "CCA Centenary Journey",
+        "Trent University"
+      ],
       "date_ref": "1967",
       "conflicts_with": [],
       "added_version": "4.1",
@@ -6402,11 +6517,15 @@
     },
     {
       "fact_id": "f_0390",
-      "claim": "Don Starkell, Manitoba Voyageur Canoe Pageant team member, later paddled from Winnipeg to Belém, Brazil (12,181 miles), setting a Guinness World Record for longest canoe journey",
-      "sources": ["src_wikipedia_starkell"],
+      "claim": "Don Starkell, Manitoba Voyageur Canoe Pageant team member, later paddled from Winnipeg to Bel\u00e9m, Brazil (12,181 miles), setting a Guinness World Record for longest canoe journey",
+      "sources": [
+        "src_wikipedia_starkell"
+      ],
       "confidence": "stated",
       "category": "centennial",
-      "entities": ["Don Starkell"],
+      "entities": [
+        "Don Starkell"
+      ],
       "date_ref": null,
       "conflicts_with": [],
       "added_version": "4.1",
@@ -6415,10 +6534,15 @@
     {
       "fact_id": "f_0391",
       "claim": "The full Manitoba Voyageur Canoe Pageant winning team was inducted into the Manitoba Sports Hall of Fame in 2010",
-      "sources": ["src_mb_sports_hof"],
+      "sources": [
+        "src_mb_sports_hof"
+      ],
       "confidence": "stated",
       "category": "centennial",
-      "entities": ["Manitoba", "Voyageur Canoe Pageant"],
+      "entities": [
+        "Manitoba",
+        "Voyageur Canoe Pageant"
+      ],
       "date_ref": "2010",
       "conflicts_with": [],
       "added_version": "4.1",
@@ -6427,10 +6551,15 @@
     {
       "fact_id": "f_0392",
       "claim": "Misao Dean published 'The Centennial Voyageur Canoe Pageant as Historical Re-enactment' in the Journal of Canadian Studies 40:3, analyzing the event's nationalist symbolism",
-      "sources": ["src_dean_jcs"],
+      "sources": [
+        "src_dean_jcs"
+      ],
       "confidence": "stated",
       "category": "centennial",
-      "entities": ["Misao Dean", "Voyageur Canoe Pageant"],
+      "entities": [
+        "Misao Dean",
+        "Voyageur Canoe Pageant"
+      ],
       "date_ref": null,
       "conflicts_with": [],
       "added_version": "4.1",
@@ -6439,10 +6568,16 @@
     {
       "fact_id": "f_0393",
       "claim": "The CCA Centenary Journey helped lead to the founding of the Canadian Canoeing Association (now Paddle Canada) in 1971 by Ron Johnstone (CCA President) and John Eberhard",
-      "sources": ["src_cca_history"],
+      "sources": [
+        "src_cca_history"
+      ],
       "confidence": "stated",
       "category": "centennial",
-      "entities": ["Canadian Canoeing Association", "Paddle Canada", "Ron Johnstone"],
+      "entities": [
+        "Canadian Canoeing Association",
+        "Paddle Canada",
+        "Ron Johnstone"
+      ],
       "date_ref": "1971",
       "conflicts_with": [],
       "added_version": "4.1",
@@ -6451,10 +6586,18 @@
     {
       "fact_id": "f_0394",
       "claim": "Taylor Statten (1882-?) founded Camp Ahmek at Canoe Lake, Algonquin Park in 1921, the Ontario Camping Association in 1933, and the Canadian Camping Association in 1936",
-      "sources": ["src_cca_history", "src_taylor_statten_camps"],
+      "sources": [
+        "src_cca_history",
+        "src_taylor_statten_camps"
+      ],
       "confidence": "stated",
       "category": "camping_movement",
-      "entities": ["Taylor Statten", "Camp Ahmek", "OCA", "CCA"],
+      "entities": [
+        "Taylor Statten",
+        "Camp Ahmek",
+        "OCA",
+        "CCA"
+      ],
       "date_ref": "1921",
       "conflicts_with": [],
       "added_version": "4.1",
@@ -6462,11 +6605,17 @@
     },
     {
       "fact_id": "f_0395",
-      "claim": "The Concordia University Archives (YMCA of Montreal fonds P0145, sub-series 1B) holds a manuscript copy of '100 Years of Service to Youth' by Harold C. Cross (1951), draft copies of chapters II, IV, V, VI of the History of the Montreal YMCA 1851-1951, printers' quotations for the book, and book orders — all from 1951",
-      "sources": ["src_concordia_fonds_1B"],
+      "claim": "The Concordia University Archives (YMCA of Montreal fonds P0145, sub-series 1B) holds a manuscript copy of '100 Years of Service to Youth' by Harold C. Cross (1951), draft copies of chapters II, IV, V, VI of the History of the Montreal YMCA 1851-1951, printers' quotations for the book, and book orders \u2014 all from 1951",
+      "sources": [
+        "src_concordia_fonds_1B"
+      ],
       "confidence": "stated",
       "category": "sources_archives",
-      "entities": ["Harold Cross", "Concordia University Archives", "YMCA of Montreal"],
+      "entities": [
+        "Harold Cross",
+        "Concordia University Archives",
+        "YMCA of Montreal"
+      ],
       "date_ref": "1951",
       "conflicts_with": [],
       "added_version": "4.1",
@@ -6475,10 +6624,16 @@
     {
       "fact_id": "f_0396",
       "claim": "The Concordia Archives hold 'History-correspondence of Harold C. Cross' spanning 1939-1957, and correspondence between Harold Cross and Murray Ross regarding their respective YMCA histories, dated 1950",
-      "sources": ["src_concordia_fonds_1B"],
+      "sources": [
+        "src_concordia_fonds_1B"
+      ],
       "confidence": "stated",
       "category": "sources_archives",
-      "entities": ["Harold Cross", "Murray Ross", "Concordia University Archives"],
+      "entities": [
+        "Harold Cross",
+        "Murray Ross",
+        "Concordia University Archives"
+      ],
       "date_ref": "1939",
       "conflicts_with": [],
       "added_version": "4.1",
@@ -6487,10 +6642,15 @@
     {
       "fact_id": "f_0397",
       "claim": "Harold Cross compiled 'YMCA Events' for the YMCA News Centennial issue, a timeline covering 1851-1901, dated to the 1950s",
-      "sources": ["src_concordia_fonds_1B"],
+      "sources": [
+        "src_concordia_fonds_1B"
+      ],
       "confidence": "stated",
       "category": "directors",
-      "entities": ["Harold Cross", "YMCA of Montreal"],
+      "entities": [
+        "Harold Cross",
+        "YMCA of Montreal"
+      ],
       "date_ref": "1950",
       "conflicts_with": [],
       "added_version": "4.1",
@@ -6499,10 +6659,15 @@
     {
       "fact_id": "f_0398",
       "claim": "A 'Harold Cross-National Council Boys' Work file' dated 1940-1945 is held in the Concordia Archives (YMCA fonds P0145, sub-sub-series 14D10), indicating Harold Cross was involved with the YMCA National Council's Boys' Work program during this period",
-      "sources": ["src_concordia_fonds_14D"],
+      "sources": [
+        "src_concordia_fonds_14D"
+      ],
       "confidence": "stated",
       "category": "directors",
-      "entities": ["Harold Cross", "National Council of YMCAs of Canada"],
+      "entities": [
+        "Harold Cross",
+        "National Council of YMCAs of Canada"
+      ],
       "date_ref": "1940",
       "conflicts_with": [],
       "added_version": "4.1",
@@ -6511,10 +6676,14 @@
     {
       "fact_id": "f_0399",
       "claim": "A photograph of Harold C. Cross dated 1971 is held in the Concordia Archives YMCA fonds, suggesting he was still alive in 1971",
-      "sources": ["src_concordia_fonds_1B"],
+      "sources": [
+        "src_concordia_fonds_1B"
+      ],
       "confidence": "inferred",
       "category": "directors",
-      "entities": ["Harold Cross"],
+      "entities": [
+        "Harold Cross"
+      ],
       "date_ref": "1971",
       "conflicts_with": [],
       "added_version": "4.1",
@@ -6523,10 +6692,17 @@
     {
       "fact_id": "f_0400",
       "claim": "Harold Cross wrote a memo to Les Copland in 1938, attached to personal reminiscences of YMCA 1868-1874 by Rev. Ernest Taylor and a letter to J.W. Beaton",
-      "sources": ["src_concordia_fonds_1B"],
+      "sources": [
+        "src_concordia_fonds_1B"
+      ],
       "confidence": "stated",
       "category": "directors",
-      "entities": ["Harold Cross", "Les Copland", "Rev. Ernest Taylor", "J.W. Beaton"],
+      "entities": [
+        "Harold Cross",
+        "Les Copland",
+        "Rev. Ernest Taylor",
+        "J.W. Beaton"
+      ],
       "date_ref": "1938",
       "conflicts_with": [],
       "added_version": "4.1",
@@ -6535,10 +6711,15 @@
     {
       "fact_id": "f_0401",
       "claim": "A 'Special committee on history of Montreal YMCA' was convened in 1949, preceding Harold Cross's 1951 book",
-      "sources": ["src_concordia_fonds_1B"],
+      "sources": [
+        "src_concordia_fonds_1B"
+      ],
       "confidence": "stated",
       "category": "ymca_montreal",
-      "entities": ["YMCA of Montreal", "Harold Cross"],
+      "entities": [
+        "YMCA of Montreal",
+        "Harold Cross"
+      ],
       "date_ref": "1949",
       "conflicts_with": [],
       "added_version": "4.1",
@@ -6547,10 +6728,16 @@
     {
       "fact_id": "f_0402",
       "claim": "Murray G. Ross (1910-2000) authored 'The Y.M.C.A. in Canada: The Chronicle of a Century' (Ryerson Press, 1951), a national counterpart to Harold Cross's Montreal history. Ross later became founding president of York University (1959-1970)",
-      "sources": ["src_wikipedia_murray_ross"],
+      "sources": [
+        "src_wikipedia_murray_ross"
+      ],
       "confidence": "stated",
       "category": "ymca_canada",
-      "entities": ["Murray Ross", "YMCA of Canada", "York University"],
+      "entities": [
+        "Murray Ross",
+        "YMCA of Canada",
+        "York University"
+      ],
       "date_ref": "1951",
       "conflicts_with": [],
       "added_version": "4.1",
@@ -6559,10 +6746,16 @@
     {
       "fact_id": "f_0403",
       "claim": "F.G. Hubbard (Fred G. Hubbard) authored 'First Quarter of Second Century of Service to Youth of Montreal, 1951-1976' (1976), continuing the institutional history begun by Harold Cross",
-      "sources": ["src_concordia_fonds_1B"],
+      "sources": [
+        "src_concordia_fonds_1B"
+      ],
       "confidence": "stated",
       "category": "ymca_montreal",
-      "entities": ["F.G. Hubbard", "Harold Cross", "YMCA of Montreal"],
+      "entities": [
+        "F.G. Hubbard",
+        "Harold Cross",
+        "YMCA of Montreal"
+      ],
       "date_ref": "1976",
       "conflicts_with": [],
       "added_version": "4.1",
@@ -6571,10 +6764,16 @@
     {
       "fact_id": "f_0404",
       "claim": "R.H. Hanagan served as Montreal YMCA camp director, with a report in the archives from approximately 1946",
-      "sources": ["src_concordia_fonds"],
+      "sources": [
+        "src_concordia_fonds"
+      ],
       "confidence": "stated",
       "category": "directors",
-      "entities": ["R.H. Hanagan", "Camp Kanawana", "YMCA of Montreal"],
+      "entities": [
+        "R.H. Hanagan",
+        "Camp Kanawana",
+        "YMCA of Montreal"
+      ],
       "date_ref": "1946",
       "conflicts_with": [],
       "added_version": "4.1",
@@ -6583,10 +6782,15 @@
     {
       "fact_id": "f_0405",
       "claim": "Nelson McEwen also served as National Council Boys' Work Secretary, with correspondence in the archives from 1941-1945 (corroborating f_0041)",
-      "sources": ["src_concordia_fonds_14D"],
+      "sources": [
+        "src_concordia_fonds_14D"
+      ],
       "confidence": "stated",
       "category": "directors",
-      "entities": ["Nelson McEwen", "National Council of YMCAs of Canada"],
+      "entities": [
+        "Nelson McEwen",
+        "National Council of YMCAs of Canada"
+      ],
       "date_ref": "1941",
       "conflicts_with": [],
       "added_version": "4.1",
@@ -6595,10 +6799,17 @@
     {
       "fact_id": "f_0406",
       "claim": "Hedley G. Dimock was Coordinator of Staff Development and Training for the Montreal YMCA and a lecturer at Sir George Williams University, and conducted research at Kamp Kanawana on camp counselor effectiveness (1960-1961)",
-      "sources": ["src_concordia_fonds"],
+      "sources": [
+        "src_concordia_fonds"
+      ],
       "confidence": "stated",
       "category": "personnel",
-      "entities": ["Hedley G. Dimock", "YMCA of Montreal", "Sir George Williams University", "Camp Kanawana"],
+      "entities": [
+        "Hedley G. Dimock",
+        "YMCA of Montreal",
+        "Sir George Williams University",
+        "Camp Kanawana"
+      ],
       "date_ref": "1960",
       "conflicts_with": [],
       "added_version": "4.1",
@@ -6607,10 +6818,16 @@
     {
       "fact_id": "f_0407",
       "claim": "The YMCA of Montreal fonds at Concordia (P0145) includes materials amassed by Harold C. Cross and Murray C. Ross when developing their respective histories of the Montreal Association and the YMCA in Canada",
-      "sources": ["src_concordia_fonds_1B"],
+      "sources": [
+        "src_concordia_fonds_1B"
+      ],
       "confidence": "stated",
       "category": "sources_archives",
-      "entities": ["Harold Cross", "Murray Ross", "Concordia University Archives"],
+      "entities": [
+        "Harold Cross",
+        "Murray Ross",
+        "Concordia University Archives"
+      ],
       "date_ref": null,
       "conflicts_with": [],
       "added_version": "4.1",
@@ -6619,10 +6836,16 @@
     {
       "fact_id": "f_0408",
       "claim": "Grace McMorris (2023) authored 'An Experience That Lasts a Lifetime: Building Modernity, Man, and Nation at the YMCA of Montreal's Kamp Kanawana, 1894-1967,' a Concordia University MA thesis supervised by Dr. Peter Gossage, with three thematic chapters on Christian citizenship, 'playing Indian,' and the voyageur myth",
-      "sources": ["src_mcmorris_thesis"],
+      "sources": [
+        "src_mcmorris_thesis"
+      ],
       "confidence": "stated",
       "category": "sources_archives",
-      "entities": ["Grace McMorris", "Camp Kanawana", "Concordia University"],
+      "entities": [
+        "Grace McMorris",
+        "Camp Kanawana",
+        "Concordia University"
+      ],
       "date_ref": "2023",
       "conflicts_with": [],
       "added_version": "4.1",
@@ -6631,10 +6854,15 @@
     {
       "fact_id": "f_0409",
       "claim": "A Permanent Camp Committee minute book covering 1911-1926 is held in the Concordia Archives YMCA fonds",
-      "sources": ["src_concordia_fonds"],
+      "sources": [
+        "src_concordia_fonds"
+      ],
       "confidence": "stated",
       "category": "sources_archives",
-      "entities": ["Camp Kanawana", "Concordia University Archives"],
+      "entities": [
+        "Camp Kanawana",
+        "Concordia University Archives"
+      ],
       "date_ref": "1911",
       "conflicts_with": [],
       "added_version": "4.1",
@@ -6643,10 +6871,15 @@
     {
       "fact_id": "f_0410",
       "claim": "The Green Triangle was a Kamp Kanawana campers' newsletter published 1932-1940, with issues held in the Concordia Archives",
-      "sources": ["src_concordia_fonds"],
+      "sources": [
+        "src_concordia_fonds"
+      ],
       "confidence": "stated",
       "category": "publications",
-      "entities": ["The Green Triangle", "Camp Kanawana"],
+      "entities": [
+        "The Green Triangle",
+        "Camp Kanawana"
+      ],
       "date_ref": "1932",
       "conflicts_with": [],
       "added_version": "4.1",
@@ -6655,10 +6888,15 @@
     {
       "fact_id": "f_0411",
       "claim": "Big Cove YMCA Camp in Merigomish Harbour, Pictou County, Nova Scotia (founded 1889) is the oldest residential summer camp in Canada, predating Camp Jubilee/Kanawana (1894) by five years",
-      "sources": ["src_wikipedia_big_cove"],
+      "sources": [
+        "src_wikipedia_big_cove"
+      ],
       "confidence": "stated",
       "category": "camping_movement",
-      "entities": ["Big Cove YMCA Camp", "Camp Kanawana"],
+      "entities": [
+        "Big Cove YMCA Camp",
+        "Camp Kanawana"
+      ],
       "date_ref": "1889",
       "conflicts_with": [],
       "added_version": "4.1",
@@ -6667,10 +6905,16 @@
     {
       "fact_id": "f_0412",
       "claim": "Camp Kanawana (as Camp Jubilee, 1894) is Canada's second-oldest residential summer camp after Big Cove (1889), and Quebec's first residential summer camp. Both are YMCA camps.",
-      "sources": ["src_wikipedia_big_cove", "src_ymca_website"],
+      "sources": [
+        "src_wikipedia_big_cove",
+        "src_ymca_website"
+      ],
       "confidence": "stated",
       "category": "camping_movement",
-      "entities": ["Camp Kanawana", "Big Cove YMCA Camp"],
+      "entities": [
+        "Camp Kanawana",
+        "Big Cove YMCA Camp"
+      ],
       "date_ref": "1894",
       "conflicts_with": [],
       "added_version": "4.1",
@@ -6679,10 +6923,16 @@
     {
       "fact_id": "f_0413",
       "claim": "Mary Susannah Edgar (1889-1973) founded Camp Oolahwan (YWCA) on Lake Walfred, Quebec in 1917 and served as first CCA vice-president (1936). She is credited with founding the first girls' summer camp in Canada.",
-      "sources": ["src_wikipedia_edgar"],
+      "sources": [
+        "src_wikipedia_edgar"
+      ],
       "confidence": "stated",
       "category": "camping_movement",
-      "entities": ["Mary Edgar", "Camp Oolahwan", "CCA"],
+      "entities": [
+        "Mary Edgar",
+        "Camp Oolahwan",
+        "CCA"
+      ],
       "date_ref": "1917",
       "conflicts_with": [],
       "added_version": "4.1",
@@ -6691,10 +6941,14 @@
     {
       "fact_id": "f_0414",
       "claim": "Sharon Wall's 'The Nurture of Nature: Childhood, Antimodernism, and Ontario Summer Camps, 1920-55' (UBC Press, 2009) is the principal academic study of the Ontario camping movement",
-      "sources": ["src_wall_nurture"],
+      "sources": [
+        "src_wall_nurture"
+      ],
       "confidence": "stated",
       "category": "camping_movement",
-      "entities": ["Sharon Wall"],
+      "entities": [
+        "Sharon Wall"
+      ],
       "date_ref": "2009",
       "conflicts_with": [],
       "added_version": "4.1",
@@ -6703,10 +6957,15 @@
     {
       "fact_id": "f_0415",
       "claim": "The CCA published 'Canadian Camping' magazine from 1949 to 1988; digitized issues are available through Trent University Archives on the Internet Archive",
-      "sources": ["src_cca_history"],
+      "sources": [
+        "src_cca_history"
+      ],
       "confidence": "stated",
       "category": "camping_movement",
-      "entities": ["CCA", "Trent University"],
+      "entities": [
+        "CCA",
+        "Trent University"
+      ],
       "date_ref": "1949",
       "conflicts_with": [],
       "added_version": "4.1",
@@ -6715,10 +6974,15 @@
     {
       "fact_id": "f_0416",
       "claim": "The first private camp in Ontario was established by A.L. Cochrane in 1900. By 1925, only 6-7 private camps existed in Ontario.",
-      "sources": ["src_oca_history"],
+      "sources": [
+        "src_oca_history"
+      ],
       "confidence": "stated",
       "category": "camping_movement",
-      "entities": ["A.L. Cochrane", "OCA"],
+      "entities": [
+        "A.L. Cochrane",
+        "OCA"
+      ],
       "date_ref": "1900",
       "conflicts_with": [],
       "added_version": "4.1",
@@ -6727,10 +6991,15 @@
     {
       "fact_id": "f_0417",
       "claim": "Stuart McLean was first hired as a counselor at Camp Kanawana in 1969 (age ~20), worked 5 summers, and became Assistant Summer Camp Director for 1974-1975.",
-      "sources": ["src_samaritanmag_mclean"],
+      "sources": [
+        "src_samaritanmag_mclean"
+      ],
       "confidence": "stated",
       "category": "directors",
-      "entities": ["Stuart McLean", "Camp Kanawana"],
+      "entities": [
+        "Stuart McLean",
+        "Camp Kanawana"
+      ],
       "date_ref": "1969",
       "conflicts_with": [],
       "added_version": "4.2",
@@ -6739,10 +7008,15 @@
     {
       "fact_id": "f_0418",
       "claim": "After Stuart McLean's death in 2017, his family established the Stuart McLean Camp Kanawana Fund, which helps children attend camp who lack financial means. The fund raises over $150,000 per year.",
-      "sources": ["src_ymca_website"],
+      "sources": [
+        "src_ymca_website"
+      ],
       "confidence": "stated",
       "category": "notable_alumni",
-      "entities": ["Stuart McLean", "Camp Kanawana"],
+      "entities": [
+        "Stuart McLean",
+        "Camp Kanawana"
+      ],
       "date_ref": "2017",
       "conflicts_with": [],
       "added_version": "4.2",
@@ -6751,10 +7025,15 @@
     {
       "fact_id": "f_0419",
       "claim": "Terry 'Aislin' Mosher, the Montreal Gazette editorial cartoonist, was a camper at Camp Kanawana in 1952-1953. He received the camp's 'Pip' Alumni Award in 2015 and returned to camp after 60+ years.",
-      "sources": ["src_ymca_website"],
+      "sources": [
+        "src_ymca_website"
+      ],
       "confidence": "stated",
       "category": "notable_alumni",
-      "entities": ["Terry Mosher", "Camp Kanawana"],
+      "entities": [
+        "Terry Mosher",
+        "Camp Kanawana"
+      ],
       "date_ref": "1952",
       "conflicts_with": [],
       "added_version": "4.2",
@@ -6763,10 +7042,17 @@
     {
       "fact_id": "f_0420",
       "claim": "Philip 'Pip' Caddell (1913-2004) was a camper at Camp Kanawana in 1928. His grandson James Caddell (1973-2005) was a camper and counselor in the 1980s-1990s. Andrew Caddell sponsors the 'Pip' Alumni Award in Philip's honour.",
-      "sources": ["src_ymca_website"],
+      "sources": [
+        "src_ymca_website"
+      ],
       "confidence": "stated",
       "category": "notable_alumni",
-      "entities": ["Philip Caddell", "James Caddell", "Andrew Caddell", "Camp Kanawana"],
+      "entities": [
+        "Philip Caddell",
+        "James Caddell",
+        "Andrew Caddell",
+        "Camp Kanawana"
+      ],
       "date_ref": "1928",
       "conflicts_with": [],
       "added_version": "4.2",
@@ -6775,10 +7061,15 @@
     {
       "fact_id": "f_0421",
       "claim": "Carol Skinner was a counselor and section director (not overall camp director) at Camp Kanawana from 1990-1995. She received the 'Pip' Alumni Award for her ALS advocacy.",
-      "sources": ["src_ymca_website"],
+      "sources": [
+        "src_ymca_website"
+      ],
       "confidence": "stated",
       "category": "directors",
-      "entities": ["Carol Skinner", "Camp Kanawana"],
+      "entities": [
+        "Carol Skinner",
+        "Camp Kanawana"
+      ],
       "date_ref": "1990",
       "conflicts_with": [],
       "added_version": "4.2",
@@ -6787,10 +7078,15 @@
     {
       "fact_id": "f_0422",
       "claim": "Kate Taylor is the current camp director of Camp Kanawana as of the 2020s.",
-      "sources": ["src_ymca_website"],
+      "sources": [
+        "src_ymca_website"
+      ],
       "confidence": "stated",
       "category": "directors",
-      "entities": ["Kate Taylor", "Camp Kanawana"],
+      "entities": [
+        "Kate Taylor",
+        "Camp Kanawana"
+      ],
       "date_ref": "2020",
       "conflicts_with": [],
       "added_version": "4.2",
@@ -6799,10 +7095,15 @@
     {
       "fact_id": "f_0423",
       "claim": "Dr. James Orbinski, the humanitarian physician, attended Camp Kanawana as a camper and counselor in the 1980s-1990s. He received the 2024 'Pip' Alumni Award.",
-      "sources": ["src_ymca_website"],
+      "sources": [
+        "src_ymca_website"
+      ],
       "confidence": "stated",
       "category": "notable_alumni",
-      "entities": ["James Orbinski", "Camp Kanawana"],
+      "entities": [
+        "James Orbinski",
+        "Camp Kanawana"
+      ],
       "date_ref": "1980",
       "conflicts_with": [],
       "added_version": "4.2",
@@ -6811,10 +7112,14 @@
     {
       "fact_id": "f_0424",
       "claim": "Camp Kanawana's 120th anniversary reunion was held in September 2014 at Victoria Hall.",
-      "sources": ["src_ymca_website"],
+      "sources": [
+        "src_ymca_website"
+      ],
       "confidence": "stated",
       "category": "events",
-      "entities": ["Camp Kanawana"],
+      "entities": [
+        "Camp Kanawana"
+      ],
       "date_ref": "2014",
       "conflicts_with": [],
       "added_version": "4.2",
@@ -6823,10 +7128,15 @@
     {
       "fact_id": "f_0425",
       "claim": "The Camp YMCA Kanawana 'Pip' Alumni Award is an annual recognition given to notable camp alumni. Named after Philip 'Pip' Caddell (1913-2004). Past recipients include Terry 'Aislin' Mosher (2015), Chris Adam (2017), Marina Sharpe (2018), and James Orbinski (2024).",
-      "sources": ["src_ymca_website"],
+      "sources": [
+        "src_ymca_website"
+      ],
       "confidence": "stated",
       "category": "traditions",
-      "entities": ["Camp Kanawana", "Pip Caddell"],
+      "entities": [
+        "Camp Kanawana",
+        "Pip Caddell"
+      ],
       "date_ref": "2015",
       "conflicts_with": [],
       "added_version": "4.2",
@@ -6835,10 +7145,16 @@
     {
       "fact_id": "f_0426",
       "claim": "In 1909, Camp Jubilee was renamed Camp Otoreke (Iroquoian for 'north'). Camp Otoreke continued operating on the original Lake Saint-Joseph islands site after the main YMCA camp moved to Saint-Sauveur (Kamp Kanawana). After 1910, Otoreke served men 18+, women and men 18+, married couples, and low-income families. Camp Otoreke closed in 1982.",
-      "sources": ["src_qahn_howard"],
+      "sources": [
+        "src_qahn_howard"
+      ],
       "confidence": "stated",
       "category": "founding",
-      "entities": ["Camp Jubilee", "Camp Otoreke", "Lake Saint-Joseph"],
+      "entities": [
+        "Camp Jubilee",
+        "Camp Otoreke",
+        "Lake Saint-Joseph"
+      ],
       "date_ref": "1909",
       "conflicts_with": [],
       "added_version": "4.2",
@@ -6847,10 +7163,15 @@
     {
       "fact_id": "f_0427",
       "claim": "D.A. Budge's full name was Daniel Andrew Budge. Born April 16, 1851 in Newmarket, Ontario. Died 1933. Served as General Secretary of the Montreal YMCA from 1874 to 1913. Married Annie Margaret Watson (1852-1931) in 1876. In 1937, the Montreal Central YMCA renamed its Association Hall the 'D.A. Budge Memorial Hall' in his honour.",
-      "sources": ["src_mcgill_budge"],
+      "sources": [
+        "src_mcgill_budge"
+      ],
       "confidence": "stated",
       "category": "people",
-      "entities": ["D.A. Budge", "Montreal YMCA"],
+      "entities": [
+        "D.A. Budge",
+        "Montreal YMCA"
+      ],
       "date_ref": "1851",
       "conflicts_with": [],
       "added_version": "4.2",
@@ -6859,10 +7180,15 @@
     {
       "fact_id": "f_0428",
       "claim": "A 'Report-trip to St. Agathe' (1893, 1895) exists in Concordia Archives, documenting 'the first Montreal YMCA venture to explore the country round about St. Agathe with the view of securing a lake on which to establish a Summer Camp.'",
-      "sources": ["src_concordia_fonds"],
+      "sources": [
+        "src_concordia_fonds"
+      ],
       "confidence": "stated",
       "category": "founding",
-      "entities": ["Montreal YMCA", "St. Agathe"],
+      "entities": [
+        "Montreal YMCA",
+        "St. Agathe"
+      ],
       "date_ref": "1893",
       "conflicts_with": [],
       "added_version": "4.2",
@@ -6871,10 +7197,15 @@
     {
       "fact_id": "f_0429",
       "claim": "A 'Journal of Summer Camp 1895' and Permanent Camp Committee minutes (1895-1896) exist in the Concordia Archives (YMCA of Montreal Fonds P145).",
-      "sources": ["src_concordia_fonds"],
+      "sources": [
+        "src_concordia_fonds"
+      ],
       "confidence": "stated",
       "category": "founding",
-      "entities": ["Permanent Camp Committee", "Camp Jubilee"],
+      "entities": [
+        "Permanent Camp Committee",
+        "Camp Jubilee"
+      ],
       "date_ref": "1895",
       "conflicts_with": [],
       "added_version": "4.2",
@@ -6883,10 +7214,15 @@
     {
       "fact_id": "f_0430",
       "claim": "A William Ball (Canadian) launched a national YMCA swimming instruction program in 1910 and was a YMCA national board member who encouraged the Red Cross to include lifesaving instruction. It is unknown whether this is the same person as 'Billy' Ball who founded Camp Jubilee in 1894.",
-      "sources": ["src_ymca_website"],
+      "sources": [
+        "src_ymca_website"
+      ],
       "confidence": "inferred",
       "category": "people",
-      "entities": ["Billy Ball", "William Ball"],
+      "entities": [
+        "Billy Ball",
+        "William Ball"
+      ],
       "date_ref": "1910",
       "conflicts_with": [],
       "added_version": "4.2",
@@ -6895,10 +7231,15 @@
     {
       "fact_id": "f_0431",
       "claim": "McGill University holds a D.A. Budge archival collection, separate from the Concordia YMCA of Montreal Fonds.",
-      "sources": ["src_mcgill_budge"],
+      "sources": [
+        "src_mcgill_budge"
+      ],
       "confidence": "stated",
       "category": "sources",
-      "entities": ["D.A. Budge", "McGill University"],
+      "entities": [
+        "D.A. Budge",
+        "McGill University"
+      ],
       "date_ref": null,
       "conflicts_with": [],
       "added_version": "4.2",
@@ -6907,10 +7248,15 @@
     {
       "fact_id": "f_0432",
       "claim": "Lemuel Cushing Sr. (1806-1875) had eight sons: Lemuel Jr., Thomas, Charles, Francis, Frederick, William Mair, George, and James Brock (Col.). All eight became 'active and powerful businessmen' in Montreal. The family descended from Matthew Cushing, who arrived in Hingham, Massachusetts in 1638.",
-      "sources": ["src_dcb_cushing"],
+      "sources": [
+        "src_dcb_cushing"
+      ],
       "confidence": "stated",
       "category": "people",
-      "entities": ["Lemuel Cushing Sr.", "Cushing family"],
+      "entities": [
+        "Lemuel Cushing Sr.",
+        "Cushing family"
+      ],
       "date_ref": "1806",
       "conflicts_with": [],
       "added_version": "4.2",
@@ -6919,10 +7265,16 @@
     {
       "fact_id": "f_0433",
       "claim": "Thomas Cushing (son of Lemuel Sr.) founded the Montreal Brewing Company in 1876. In 1909, it merged with Dawes Brewery and others to form National Breweries Limited. His son Gordon Cushing served on the National board.",
-      "sources": ["src_beer_et_seq"],
+      "sources": [
+        "src_beer_et_seq"
+      ],
       "confidence": "stated",
       "category": "people",
-      "entities": ["Thomas Cushing", "Montreal Brewing Company", "Gordon Cushing"],
+      "entities": [
+        "Thomas Cushing",
+        "Montreal Brewing Company",
+        "Gordon Cushing"
+      ],
       "date_ref": "1876",
       "conflicts_with": [],
       "added_version": "4.2",
@@ -6931,10 +7283,14 @@
     {
       "fact_id": "f_0434",
       "claim": "Charles Cushing (son of Lemuel Sr.) was a notary (B.C.L., N.P.) active 1869-1910. Published 'Cushing's Notarial Form Book' (1887). Mentioned in Concordia YMCA fonds research reports (sub-series 13D).",
-      "sources": ["src_concordia_fonds"],
+      "sources": [
+        "src_concordia_fonds"
+      ],
       "confidence": "stated",
       "category": "people",
-      "entities": ["Charles Cushing"],
+      "entities": [
+        "Charles Cushing"
+      ],
       "date_ref": "1869",
       "conflicts_with": [],
       "added_version": "4.2",
@@ -6943,10 +7299,15 @@
     {
       "fact_id": "f_0435",
       "claim": "James S. Cushing (1878-1957), likely a grandson of Lemuel Sr., published a second edition of 'The Genealogy of the Cushing Family' (Montreal: Perrault Printing Co., 1905), expanding Lemuel Jr.'s 1877 work to 598 pages. Available on Internet Archive.",
-      "sources": ["src_cushing_genealogy"],
+      "sources": [
+        "src_cushing_genealogy"
+      ],
       "confidence": "stated",
       "category": "people",
-      "entities": ["James S. Cushing", "Cushing family"],
+      "entities": [
+        "James S. Cushing",
+        "Cushing family"
+      ],
       "date_ref": "1905",
       "conflicts_with": [],
       "added_version": "4.2",
@@ -6955,10 +7316,15 @@
     {
       "fact_id": "f_0436",
       "claim": "Francis Cushing (son of Lemuel Sr.) formed Cushing's Island Company in 1883 and hired Frederick Law Olmsted to prepare a landscape plan for Cushing Island, Maine.",
-      "sources": ["src_dcb_cushing"],
+      "sources": [
+        "src_dcb_cushing"
+      ],
       "confidence": "stated",
       "category": "people",
-      "entities": ["Francis Cushing", "Frederick Law Olmsted"],
+      "entities": [
+        "Francis Cushing",
+        "Frederick Law Olmsted"
+      ],
       "date_ref": "1883",
       "conflicts_with": [],
       "added_version": "4.2",
@@ -6967,10 +7333,14 @@
     {
       "fact_id": "f_0437",
       "claim": "In the 1918 summer season, Camp Kanawana had the largest attendance of any season in its history, with 110 members present in one weekend.",
-      "sources": ["src_newspapers_gazette_1918"],
+      "sources": [
+        "src_newspapers_gazette_1918"
+      ],
       "confidence": "stated",
       "category": "camp_operations",
-      "entities": ["Camp Kanawana"],
+      "entities": [
+        "Camp Kanawana"
+      ],
       "date_ref": "1918-07",
       "conflicts_with": [],
       "added_version": "4.3",
@@ -6979,10 +7349,14 @@
     {
       "fact_id": "f_0438",
       "claim": "In the 1918 summer season, Camp Kanawana offered instruction in first aid work, basket-making, camp sanitation, wrestling, tumbling, and nature study.",
-      "sources": ["src_newspapers_gazette_1918"],
+      "sources": [
+        "src_newspapers_gazette_1918"
+      ],
       "confidence": "stated",
       "category": "programs",
-      "entities": ["Camp Kanawana"],
+      "entities": [
+        "Camp Kanawana"
+      ],
       "date_ref": "1918",
       "conflicts_with": [],
       "added_version": "4.3",
@@ -6991,10 +7365,15 @@
     {
       "fact_id": "f_0439",
       "claim": "In summer 1918, Camp Kanawana was visited by Mr. and Mrs. Frank Lawes of London, England, who were touring the world filming YMCA work. A reel of activities at Kanawana was added to their collection.",
-      "sources": ["src_newspapers_gazette_1918"],
+      "sources": [
+        "src_newspapers_gazette_1918"
+      ],
       "confidence": "stated",
       "category": "events",
-      "entities": ["Camp Kanawana", "Frank Lawes"],
+      "entities": [
+        "Camp Kanawana",
+        "Frank Lawes"
+      ],
       "date_ref": "1918",
       "conflicts_with": [],
       "added_version": "4.3",
@@ -7003,10 +7382,16 @@
     {
       "fact_id": "f_0440",
       "claim": "In summer 1918, Philip D. Fas-ana, secretary and organiser of the Woodcraft League of New York, visited Camp Kanawana and gave a demonstration of Woodcraft League work to the boys.",
-      "sources": ["src_newspapers_gazette_1918"],
+      "sources": [
+        "src_newspapers_gazette_1918"
+      ],
       "confidence": "stated",
       "category": "events",
-      "entities": ["Camp Kanawana", "Philip D. Fas-ana", "Woodcraft League"],
+      "entities": [
+        "Camp Kanawana",
+        "Philip D. Fas-ana",
+        "Woodcraft League"
+      ],
       "date_ref": "1918",
       "conflicts_with": [],
       "added_version": "4.3",
@@ -7015,10 +7400,15 @@
     {
       "fact_id": "f_0441",
       "claim": "The Montreal Gazette published an article titled 'YMCA Summer Camp Kanawana' on July 7, 1897, one of the earliest known newspaper references to Camp Kanawana.",
-      "sources": ["src_newspapers_gazette_1897"],
+      "sources": [
+        "src_newspapers_gazette_1897"
+      ],
       "confidence": "stated",
       "category": "sources",
-      "entities": ["Camp Kanawana", "Montreal Gazette"],
+      "entities": [
+        "Camp Kanawana",
+        "Montreal Gazette"
+      ],
       "date_ref": "1897-07-07",
       "conflicts_with": [],
       "added_version": "4.3",
@@ -7027,10 +7417,16 @@
     {
       "fact_id": "f_0442",
       "claim": "In 2018, Desjardins donated $1 million to YMCA for renovations at Camp Kanawana, including a new community pavilion described as the 'new heart of Kanawana' to increase the camp's capacity and environmental education mission.",
-      "sources": ["src_lapresse_ymca_2018"],
+      "sources": [
+        "src_lapresse_ymca_2018"
+      ],
       "confidence": "stated",
       "category": "camp_operations",
-      "entities": ["Camp Kanawana", "Desjardins", "YMCA"],
+      "entities": [
+        "Camp Kanawana",
+        "Desjardins",
+        "YMCA"
+      ],
       "date_ref": "2018",
       "conflicts_with": [],
       "added_version": "4.3",
@@ -7038,11 +7434,16 @@
     },
     {
       "fact_id": "f_0443",
-      "claim": "BAnQ (Bibliothèque et Archives nationales du Québec) received or processed YMCA de Montréal archival materials in 1985, documented in Bordereaux nos 18 of the Fonds Archives nationales du Québec (Advitam notice 519920).",
-      "sources": ["src_banq_advitam_519920"],
+      "claim": "BAnQ (Biblioth\u00e8que et Archives nationales du Qu\u00e9bec) received or processed YMCA de Montr\u00e9al archival materials in 1985, documented in Bordereaux nos 18 of the Fonds Archives nationales du Qu\u00e9bec (Advitam notice 519920).",
+      "sources": [
+        "src_banq_advitam_519920"
+      ],
       "confidence": "stated",
       "category": "sources",
-      "entities": ["BAnQ", "YMCA Montreal"],
+      "entities": [
+        "BAnQ",
+        "YMCA Montreal"
+      ],
       "date_ref": "1985",
       "conflicts_with": [],
       "added_version": "4.3",
@@ -7051,10 +7452,14 @@
     {
       "fact_id": "f_0444",
       "claim": "The camp motto is 'Non Nobis Solum' (Latin: 'Not For Ourselves Alone'), derived from Cicero's De Officiis 1:22.",
-      "sources": ["src_ymca_website"],
+      "sources": [
+        "src_ymca_website"
+      ],
       "confidence": "stated",
       "category": "traditions",
-      "entities": ["Camp Kanawana"],
+      "entities": [
+        "Camp Kanawana"
+      ],
       "date_ref": null,
       "conflicts_with": [],
       "added_version": "4.4",
@@ -7062,11 +7467,15 @@
     },
     {
       "fact_id": "f_0445",
-      "claim": "Lac Kanawana is located at coordinates 45°51'6.01\"N, 74°11'40.99\"W, at an elevation of 319 metres above sea level.",
-      "sources": ["src_wikidata_lac_kanawana"],
+      "claim": "Lac Kanawana is located at coordinates 45\u00b051'6.01\"N, 74\u00b011'40.99\"W, at an elevation of 319 metres above sea level.",
+      "sources": [
+        "src_wikidata_lac_kanawana"
+      ],
       "confidence": "stated",
       "category": "geography",
-      "entities": ["Lac Kanawana"],
+      "entities": [
+        "Lac Kanawana"
+      ],
       "date_ref": null,
       "conflicts_with": [],
       "added_version": "4.4",
@@ -7075,10 +7484,15 @@
     {
       "fact_id": "f_0446",
       "claim": "The role of 'Capitaine' is the leader of the Voyageur team during L&V Games and is considered one of the highest honours a staff member can receive.",
-      "sources": ["src_leigh_evans_blog"],
+      "sources": [
+        "src_leigh_evans_blog"
+      ],
       "confidence": "stated",
       "category": "traditions",
-      "entities": ["L&V Games", "Capitaine"],
+      "entities": [
+        "L&V Games",
+        "Capitaine"
+      ],
       "date_ref": null,
       "conflicts_with": [],
       "added_version": "4.4",
@@ -7087,10 +7501,16 @@
     {
       "fact_id": "f_0447",
       "claim": "Carol Sharman Skinner, a former counsellor and section director at Kanawana (1990-1995), received the Pip Alumni Award in 2016. She later became Director of YMCA Camp Hayward in Cape Cod, MA.",
-      "sources": ["src_ymca_pip_skinner"],
+      "sources": [
+        "src_ymca_pip_skinner"
+      ],
       "confidence": "stated",
       "category": "notable_alumni",
-      "entities": ["Carol Skinner", "Pip Award", "Camp Kanawana"],
+      "entities": [
+        "Carol Skinner",
+        "Pip Award",
+        "Camp Kanawana"
+      ],
       "date_ref": "2016",
       "conflicts_with": [],
       "added_version": "4.4",
@@ -7099,10 +7519,17 @@
     {
       "fact_id": "f_0448",
       "claim": "Previous Pip Award recipients include: Richard 'Itche' Kerr, Richard Patten (former Ontario cabinet minister), Stuart McLean, Bruce Netherwood, John Cleghorn (former CEO Royal Bank), the late Sam Lazarus and family, Jeniene Philips Birks, and Terry 'Aislin' Mosher.",
-      "sources": ["src_ymca_pip_skinner"],
+      "sources": [
+        "src_ymca_pip_skinner"
+      ],
       "confidence": "stated",
       "category": "notable_alumni",
-      "entities": ["Pip Award", "Richard Patten", "Jeniene Philips Birks", "Sam Lazarus"],
+      "entities": [
+        "Pip Award",
+        "Richard Patten",
+        "Jeniene Philips Birks",
+        "Sam Lazarus"
+      ],
       "date_ref": null,
       "conflicts_with": [],
       "added_version": "4.4",
@@ -7111,10 +7538,15 @@
     {
       "fact_id": "f_0449",
       "claim": "The camp's gymnasium is called the 'Katimavik'.",
-      "sources": ["src_ymca_website"],
+      "sources": [
+        "src_ymca_website"
+      ],
       "confidence": "stated",
       "category": "facilities",
-      "entities": ["Katimavik", "Camp Kanawana"],
+      "entities": [
+        "Katimavik",
+        "Camp Kanawana"
+      ],
       "date_ref": null,
       "conflicts_with": [],
       "added_version": "4.4",
@@ -7123,10 +7555,15 @@
     {
       "fact_id": "f_0450",
       "claim": "The Rose des Vents Pavilion includes a kitchen equipped with dishes and pots for a maximum of 16 people, a wood-burning stove, and a common area.",
-      "sources": ["src_ymca_website"],
+      "sources": [
+        "src_ymca_website"
+      ],
       "confidence": "stated",
       "category": "facilities",
-      "entities": ["Rose des Vents Pavilion", "Camp Kanawana"],
+      "entities": [
+        "Rose des Vents Pavilion",
+        "Camp Kanawana"
+      ],
       "date_ref": null,
       "conflicts_with": [],
       "added_version": "4.4",
@@ -7135,10 +7572,17 @@
     {
       "fact_id": "f_0451",
       "claim": "Front Camp houses the Farmhouse and Blockhouse, which are winterized facilities with fully equipped kitchens, living space, bathrooms, showers and electricity.",
-      "sources": ["src_ymca_website"],
+      "sources": [
+        "src_ymca_website"
+      ],
       "confidence": "stated",
       "category": "facilities",
-      "entities": ["Farmhouse", "Blockhouse", "Front Camp", "Camp Kanawana"],
+      "entities": [
+        "Farmhouse",
+        "Blockhouse",
+        "Front Camp",
+        "Camp Kanawana"
+      ],
       "date_ref": null,
       "conflicts_with": [],
       "added_version": "4.4",
@@ -7147,10 +7591,14 @@
     {
       "fact_id": "f_0452",
       "claim": "Camp has 12 cabins with electricity (in the Woodsmen and Pioneers sections), 14 prospector tents (in the Coureurs des Bois and Pathfinders sections), and 3 rooms in the Rose des Vents Pavilion.",
-      "sources": ["src_ymca_website"],
+      "sources": [
+        "src_ymca_website"
+      ],
       "confidence": "stated",
       "category": "facilities",
-      "entities": ["Camp Kanawana"],
+      "entities": [
+        "Camp Kanawana"
+      ],
       "date_ref": null,
       "conflicts_with": [],
       "added_version": "4.4",
@@ -7159,10 +7607,19 @@
     {
       "fact_id": "f_0453",
       "claim": "Pathfinders and Pioneers groups are made up of girls and non-binary campers; Coureurs des Bois and Woodsmen consist of boys and non-binary campers; Senior Kanawanians and Voyageurs are co-ed groups.",
-      "sources": ["src_ymca_website"],
+      "sources": [
+        "src_ymca_website"
+      ],
       "confidence": "stated",
       "category": "sections",
-      "entities": ["Pathfinders", "Pioneers", "Coureurs des Bois", "Woodsmen", "Senior Kanawanians", "Voyageurs"],
+      "entities": [
+        "Pathfinders",
+        "Pioneers",
+        "Coureurs des Bois",
+        "Woodsmen",
+        "Senior Kanawanians",
+        "Voyageurs"
+      ],
       "date_ref": null,
       "conflicts_with": [],
       "added_version": "4.4",
@@ -7171,10 +7628,16 @@
     {
       "fact_id": "f_0454",
       "claim": "The 'Pip' Alumni Award was established in 2007 as a memorial to Philip 'Pip' Caddell (1913-2004) and his grandson James Caddell (1973-2005), a UN Peacekeeper, NGO Worker and public servant.",
-      "sources": ["src_ymca_pip_skinner"],
+      "sources": [
+        "src_ymca_pip_skinner"
+      ],
       "confidence": "stated",
       "category": "traditions",
-      "entities": ["Pip Award", "Philip Caddell", "James Caddell"],
+      "entities": [
+        "Pip Award",
+        "Philip Caddell",
+        "James Caddell"
+      ],
       "date_ref": "2007",
       "conflicts_with": [],
       "added_version": "4.4",
@@ -7183,10 +7646,16 @@
     {
       "fact_id": "f_0455",
       "claim": "Stuart McLean worked as a counsellor at Camp Kanawana for five summers starting in 1969 and rose to assistant director. He credited the camp with setting him on the path to his career as a broadcaster and writer.",
-      "sources": ["src_samaritanmag_mclean", "src_ourkids_mclean"],
+      "sources": [
+        "src_samaritanmag_mclean",
+        "src_ourkids_mclean"
+      ],
       "confidence": "stated",
       "category": "notable_alumni",
-      "entities": ["Stuart McLean", "Camp Kanawana"],
+      "entities": [
+        "Stuart McLean",
+        "Camp Kanawana"
+      ],
       "date_ref": "1969",
       "conflicts_with": [],
       "added_version": "4.4",
@@ -7195,10 +7664,15 @@
     {
       "fact_id": "f_0456",
       "claim": "Stuart McLean returned to Camp Kanawana in 2005 for a week and hosted one of his shows there.",
-      "sources": ["src_samaritanmag_mclean"],
+      "sources": [
+        "src_samaritanmag_mclean"
+      ],
       "confidence": "stated",
       "category": "notable_alumni",
-      "entities": ["Stuart McLean", "Camp Kanawana"],
+      "entities": [
+        "Stuart McLean",
+        "Camp Kanawana"
+      ],
       "date_ref": "2005",
       "conflicts_with": [],
       "added_version": "4.4",
@@ -7207,10 +7681,16 @@
     {
       "fact_id": "f_0457",
       "claim": "Terry 'Aislin' Mosher returned to Camp Kanawana in 2015 for the first time in more than 60 years to receive the Pip Alumni Award.",
-      "sources": ["src_ymca_pip_mosher"],
+      "sources": [
+        "src_ymca_pip_mosher"
+      ],
       "confidence": "stated",
       "category": "notable_alumni",
-      "entities": ["Terry Mosher", "Pip Award", "Camp Kanawana"],
+      "entities": [
+        "Terry Mosher",
+        "Pip Award",
+        "Camp Kanawana"
+      ],
       "date_ref": "2015",
       "conflicts_with": [],
       "added_version": "4.4",
@@ -7219,10 +7699,15 @@
     {
       "fact_id": "f_0458",
       "claim": "The Concordia Archives Kamp Kanawana sub-series (P0145/12B) comprises 7.72 m of textual records, graphic materials, objects, cartographic records, architectural drawings, sound recordings, and moving images, dating from [190-] to 2003.",
-      "sources": ["src_concordia_fonds"],
+      "sources": [
+        "src_concordia_fonds"
+      ],
       "confidence": "stated",
       "category": "sources",
-      "entities": ["Concordia Archives", "YMCA Montreal"],
+      "entities": [
+        "Concordia Archives",
+        "YMCA Montreal"
+      ],
       "date_ref": null,
       "conflicts_with": [],
       "added_version": "4.4",
@@ -7231,10 +7716,15 @@
     {
       "fact_id": "f_0459",
       "claim": "The archival Program sub-sub-series (P0145/12B07) contains Kanawana song books, Canadian YMCA song book (1941-1945), canoe trip log (1945), winter ski camp (1945-1947), canoe trip reports (1946), forestry training program proposal (1946), and Canadian Centennial canoe trip materials (1967).",
-      "sources": ["src_concordia_fonds"],
+      "sources": [
+        "src_concordia_fonds"
+      ],
       "confidence": "stated",
       "category": "sources",
-      "entities": ["Concordia Archives", "Kanawana"],
+      "entities": [
+        "Concordia Archives",
+        "Kanawana"
+      ],
       "date_ref": null,
       "conflicts_with": [],
       "added_version": "4.4",
@@ -7243,10 +7733,15 @@
     {
       "fact_id": "f_0460",
       "claim": "The YMCA of Quebec offered over $150,000 in financial support to children and teens to attend Camp YMCA Kanawana in 2016.",
-      "sources": ["src_ymca_pip_skinner"],
+      "sources": [
+        "src_ymca_pip_skinner"
+      ],
       "confidence": "stated",
       "category": "administration",
-      "entities": ["YMCA Quebec", "Camp Kanawana"],
+      "entities": [
+        "YMCA Quebec",
+        "Camp Kanawana"
+      ],
       "date_ref": "2016",
       "conflicts_with": [],
       "added_version": "4.4",
@@ -7255,10 +7750,14 @@
     {
       "fact_id": "f_0461",
       "claim": "Camp YMCA Kanawana endeavours to ensure that at least one in five campers is from a financially disadvantaged background.",
-      "sources": ["src_ymca_pip_skinner"],
+      "sources": [
+        "src_ymca_pip_skinner"
+      ],
       "confidence": "stated",
       "category": "administration",
-      "entities": ["Camp Kanawana"],
+      "entities": [
+        "Camp Kanawana"
+      ],
       "date_ref": null,
       "conflicts_with": [],
       "added_version": "4.4",
@@ -7267,10 +7766,14 @@
     {
       "fact_id": "f_0462",
       "claim": "YMCA Kanawana celebrates 131 years of history (as of 2025) and 148 years of the YMCA's commitment to residential camps.",
-      "sources": ["src_ymca_website"],
+      "sources": [
+        "src_ymca_website"
+      ],
       "confidence": "stated",
       "category": "milestone",
-      "entities": ["Camp Kanawana"],
+      "entities": [
+        "Camp Kanawana"
+      ],
       "date_ref": "2025",
       "conflicts_with": [],
       "added_version": "4.4",
@@ -7279,10 +7782,15 @@
     {
       "fact_id": "f_0463",
       "claim": "The Permanent Camp Committee minute book in Concordia Archives covers 1911-1926, and earlier committee correspondence and financial records date from 1899-1901.",
-      "sources": ["src_concordia_fonds"],
+      "sources": [
+        "src_concordia_fonds"
+      ],
       "confidence": "stated",
       "category": "sources",
-      "entities": ["Concordia Archives", "Permanent Camp Committee"],
+      "entities": [
+        "Concordia Archives",
+        "Permanent Camp Committee"
+      ],
       "date_ref": null,
       "conflicts_with": [],
       "added_version": "4.4",
@@ -7291,10 +7799,14 @@
     {
       "fact_id": "f_0464",
       "claim": "The camp usually has about 900 campers every year (as of pre-COVID era).",
-      "sources": ["src_msn_kanawana_closed"],
+      "sources": [
+        "src_msn_kanawana_closed"
+      ],
       "confidence": "stated",
       "category": "statistics",
-      "entities": ["Camp Kanawana"],
+      "entities": [
+        "Camp Kanawana"
+      ],
       "date_ref": null,
       "conflicts_with": [],
       "added_version": "4.4",
@@ -7302,11 +7814,18 @@
     },
     {
       "fact_id": "f_0465",
-      "claim": "The Rangers program at Kanawana runs from late June to mid-July, for ages 15-16, and provides DAFA certification from the Conseil Québécois du Loisir (CQL).",
-      "sources": ["src_ymca_website"],
+      "claim": "The Rangers program at Kanawana runs from late June to mid-July, for ages 15-16, and provides DAFA certification from the Conseil Qu\u00e9b\u00e9cois du Loisir (CQL).",
+      "sources": [
+        "src_ymca_website"
+      ],
       "confidence": "stated",
       "category": "programs",
-      "entities": ["Rangers", "Camp Kanawana", "DAFA", "CQL"],
+      "entities": [
+        "Rangers",
+        "Camp Kanawana",
+        "DAFA",
+        "CQL"
+      ],
       "date_ref": null,
       "conflicts_with": [],
       "added_version": "4.4",
@@ -7315,10 +7834,16 @@
     {
       "fact_id": "f_0466",
       "claim": "The 'Pip' Alumni Award was named in memory of both Philip 'Pip' Caddell (1913-2004), a camper in 1928 and WWII Canadian Army officer, and his grandson James Caddell (1973-2005), a camper and counsellor 1983-1991, UN Peacekeeper who died of altitude sickness in Bolivia.",
-      "sources": ["src_ymca_pip_skinner"],
+      "sources": [
+        "src_ymca_pip_skinner"
+      ],
       "confidence": "stated",
       "category": "traditions",
-      "entities": ["Pip Award", "Philip Caddell", "James Caddell"],
+      "entities": [
+        "Pip Award",
+        "Philip Caddell",
+        "James Caddell"
+      ],
       "date_ref": "2007",
       "conflicts_with": [],
       "added_version": "4.5",
@@ -7327,10 +7852,18 @@
     {
       "fact_id": "f_0467",
       "claim": "Pip Award recipients include: Richard 'Itche' Kerr, Richard Patten (former Ontario cabinet minister), Stuart McLean, Bruce Netherwood, John Cleghorn (former CEO Royal Bank), the late Sam Lazarus and family, Jeniene Philips Birks, Terry Mosher (2015), Carol Skinner (2016), Chris Adam (2017), Marina Sharpe (2018), James Orbinski (2024).",
-      "sources": ["src_ymca_pip_skinner", "src_ymca_pip_mosher", "src_ymca_pip_adam", "src_ymca_pip_sharpe", "src_ymca_pip_orbinski"],
+      "sources": [
+        "src_ymca_pip_skinner",
+        "src_ymca_pip_mosher",
+        "src_ymca_pip_adam",
+        "src_ymca_pip_sharpe",
+        "src_ymca_pip_orbinski"
+      ],
       "confidence": "stated",
       "category": "traditions",
-      "entities": ["Pip Award"],
+      "entities": [
+        "Pip Award"
+      ],
       "date_ref": null,
       "conflicts_with": [],
       "added_version": "4.5",
@@ -7339,10 +7872,15 @@
     {
       "fact_id": "f_0468",
       "claim": "The song 'On My Way to Kanawana' was composed and performed by Richard 'Itch' Kerr. It is archived at Concordia as P145/SR0001 and accompanies the 1993/1996 film.",
-      "sources": ["src_concordia_atom_12B04"],
+      "sources": [
+        "src_concordia_atom_12B04"
+      ],
       "confidence": "stated",
       "category": "traditions",
-      "entities": ["Richard Kerr", "Camp Kanawana"],
+      "entities": [
+        "Richard Kerr",
+        "Camp Kanawana"
+      ],
       "date_ref": null,
       "conflicts_with": [],
       "added_version": "4.5",
@@ -7351,10 +7889,16 @@
     {
       "fact_id": "f_0469",
       "claim": "The Kamp Kanawana film 'The Experience that Lasts a Lifetime' was produced by Cathy Reeves in 1993 and released as a colour VHS in 1996 (9 minutes). It features voiceover narration, camper testimonials, and the song 'On My Way to Kanawana' by Richard Itch Kerr.",
-      "sources": ["src_concordia_atom_12B04"],
+      "sources": [
+        "src_concordia_atom_12B04"
+      ],
       "confidence": "stated",
       "category": "traditions",
-      "entities": ["Cathy Reeves", "Richard Kerr", "Camp Kanawana"],
+      "entities": [
+        "Cathy Reeves",
+        "Richard Kerr",
+        "Camp Kanawana"
+      ],
       "date_ref": "1993",
       "conflicts_with": [],
       "added_version": "4.5",
@@ -7363,10 +7907,15 @@
     {
       "fact_id": "f_0470",
       "claim": "Camp Weredale was founded in 1934 to serve orphaned or at-risk boys. It is now an independent non-profit operated by the Weredale Foundation, serving ages 6-17 in foster care or youth protection services, with 85 campers per session and 300+ campers annually.",
-      "sources": ["src_weredale_camp"],
+      "sources": [
+        "src_weredale_camp"
+      ],
       "confidence": "stated",
       "category": "related_camps",
-      "entities": ["Camp Weredale", "Weredale Foundation"],
+      "entities": [
+        "Camp Weredale",
+        "Weredale Foundation"
+      ],
       "date_ref": "1934",
       "conflicts_with": [],
       "added_version": "4.5",
@@ -7375,10 +7924,14 @@
     {
       "fact_id": "f_0471",
       "claim": "The Camp Kanawana dining hall has a capacity of over 300 people.",
-      "sources": ["src_ymca_website"],
+      "sources": [
+        "src_ymca_website"
+      ],
       "confidence": "stated",
       "category": "facilities",
-      "entities": ["Camp Kanawana"],
+      "entities": [
+        "Camp Kanawana"
+      ],
       "date_ref": null,
       "conflicts_with": [],
       "added_version": "4.5",
@@ -7387,10 +7940,14 @@
     {
       "fact_id": "f_0472",
       "claim": "Current Camp Kanawana activity facilities include an arts and crafts pavilion, beach lodge, nature nook/nature interpretation area, activity lodge, gaga ball pit, low ropes course, archery range, and activity/sports field.",
-      "sources": ["src_ymca_website"],
+      "sources": [
+        "src_ymca_website"
+      ],
       "confidence": "stated",
       "category": "facilities",
-      "entities": ["Camp Kanawana"],
+      "entities": [
+        "Camp Kanawana"
+      ],
       "date_ref": null,
       "conflicts_with": [],
       "added_version": "4.5",
@@ -7399,10 +7956,14 @@
     {
       "fact_id": "f_0473",
       "claim": "Camp Kanawana waterfront facilities include a sand beach with marked swimming area, canoes, kayaks, paddleboards, a water trampoline, a barge, and a rescue boat.",
-      "sources": ["src_ymca_website"],
+      "sources": [
+        "src_ymca_website"
+      ],
       "confidence": "stated",
       "category": "facilities",
-      "entities": ["Camp Kanawana"],
+      "entities": [
+        "Camp Kanawana"
+      ],
       "date_ref": null,
       "conflicts_with": [],
       "added_version": "4.5",
@@ -7411,10 +7972,15 @@
     {
       "fact_id": "f_0474",
       "claim": "Lake Wilson at Camp Kanawana is described as 'one of the most beautiful parts of the site' with gorgeous views and sunsets, and is a popular spot for stargazing. Year-round private camp sites are available.",
-      "sources": ["src_mysummercamps_kanawana"],
+      "sources": [
+        "src_mysummercamps_kanawana"
+      ],
       "confidence": "stated",
       "category": "geography",
-      "entities": ["Lake Wilson", "Camp Kanawana"],
+      "entities": [
+        "Lake Wilson",
+        "Camp Kanawana"
+      ],
       "date_ref": null,
       "conflicts_with": [],
       "added_version": "4.5",
@@ -7423,10 +7989,17 @@
     {
       "fact_id": "f_0475",
       "claim": "In the 1922 brochure, campers traveled from Place Viger Station on the 7:30 AM CPR train, disembarking at Piedmont and traveling 6 miles to the camp.",
-      "sources": ["src_brochure_1922"],
+      "sources": [
+        "src_brochure_1922"
+      ],
       "confidence": "stated",
       "category": "geography",
-      "entities": ["Camp Kanawana", "Place Viger", "Piedmont", "CPR"],
+      "entities": [
+        "Camp Kanawana",
+        "Place Viger",
+        "Piedmont",
+        "CPR"
+      ],
       "date_ref": "1922",
       "conflicts_with": [],
       "added_version": "4.5",
@@ -7435,10 +8008,14 @@
     {
       "fact_id": "f_0476",
       "claim": "Hike destinations from Camp Kanawana in 1923 included Val Morin, Lac Hughes, Sainte-Agathe, Sixteen Island Lake, Lac Wilson, Pages, and Sainte-Adolphe.",
-      "sources": ["src_gas_bag_1923"],
+      "sources": [
+        "src_gas_bag_1923"
+      ],
       "confidence": "stated",
       "category": "geography",
-      "entities": ["Camp Kanawana"],
+      "entities": [
+        "Camp Kanawana"
+      ],
       "date_ref": "1923",
       "conflicts_with": [],
       "added_version": "4.5",
@@ -7447,10 +8024,14 @@
     {
       "fact_id": "f_0477",
       "claim": "Camp Kanawana's environmental education mission includes stewardship and conservation action projects, with youth participating in community-based conservation projects implemented throughout the year.",
-      "sources": ["src_ymca_website"],
+      "sources": [
+        "src_ymca_website"
+      ],
       "confidence": "stated",
       "category": "programs",
-      "entities": ["Camp Kanawana"],
+      "entities": [
+        "Camp Kanawana"
+      ],
       "date_ref": null,
       "conflicts_with": [],
       "added_version": "4.5",
@@ -7459,10 +8040,14 @@
     {
       "fact_id": "f_0478",
       "claim": "The camp has fire bowls for campfires and cookouts as part of its current outdoor program facilities.",
-      "sources": ["src_ymca_website"],
+      "sources": [
+        "src_ymca_website"
+      ],
       "confidence": "stated",
       "category": "facilities",
-      "entities": ["Camp Kanawana"],
+      "entities": [
+        "Camp Kanawana"
+      ],
       "date_ref": null,
       "conflicts_with": [],
       "added_version": "4.5",
@@ -7471,10 +8056,16 @@
     {
       "fact_id": "f_0479",
       "claim": "The YMCA purchased the current site near Saint-Sauveur, Quebec in 1910.",
-      "sources": ["src_kanawana_facts"],
+      "sources": [
+        "src_kanawana_facts"
+      ],
       "confidence": "stated",
       "category": "founding",
-      "entities": ["Camp Kanawana", "YMCA", "Saint-Sauveur"],
+      "entities": [
+        "Camp Kanawana",
+        "YMCA",
+        "Saint-Sauveur"
+      ],
       "date_ref": "1910",
       "conflicts_with": [],
       "added_version": "4.5",
@@ -7483,10 +8074,17 @@
     {
       "fact_id": "f_0480",
       "claim": "Lemuel Cushing Jr. (1842-1881) had four children: Walter Edgar (b. 19 May 1870), Harold Beveridge (b. 6 April 1873, M.D. McGill), Florence Ethelwyn (b. 11 Nov 1874), and James Stevenson (b. 2 Oct 1878, author of the 1905 genealogy). None were named Lemuel.",
-      "sources": ["src_cushing_genealogy"],
+      "sources": [
+        "src_cushing_genealogy"
+      ],
       "confidence": "stated",
       "category": "people",
-      "entities": ["Lemuel Cushing Jr.", "Walter Edgar Cushing", "Harold Beveridge Cushing", "James Stevenson Cushing"],
+      "entities": [
+        "Lemuel Cushing Jr.",
+        "Walter Edgar Cushing",
+        "Harold Beveridge Cushing",
+        "James Stevenson Cushing"
+      ],
       "date_ref": null,
       "conflicts_with": [],
       "added_version": "4.6",
@@ -7495,10 +8093,15 @@
     {
       "fact_id": "f_0481",
       "claim": "James Brock Cushing (1839-1903), Lemuel Sr.'s son, moved from Chatham to Montreal in October 1890. Active in religious, educational, and agricultural interests. Colonel of the Argenteuil Rangers. Had a son named Lemuel Cushing (b. 26 Nov 1875), who became a chartered accountant.",
-      "sources": ["src_cushing_genealogy"],
+      "sources": [
+        "src_cushing_genealogy"
+      ],
       "confidence": "stated",
       "category": "people",
-      "entities": ["James Brock Cushing", "Lemuel Cushing (b. 1875)"],
+      "entities": [
+        "James Brock Cushing",
+        "Lemuel Cushing (b. 1875)"
+      ],
       "date_ref": "1890",
       "conflicts_with": [],
       "added_version": "4.6",
@@ -7506,11 +8109,17 @@
     },
     {
       "fact_id": "f_0482",
-      "claim": "The only person literally named 'Lemuel Cushing' alive in Montreal in 1892 was Lemuel Cushing (b. 1875), son of James Brock Cushing, who was 16 years old — too young to lead a YMCA camping trip. Walter Edgar Cushing (b. 1870, Lemuel Jr.'s eldest son) was 22 and Harold Beveridge Cushing (b. 1873) was 19.",
-      "sources": ["src_cushing_genealogy"],
+      "claim": "The only person literally named 'Lemuel Cushing' alive in Montreal in 1892 was Lemuel Cushing (b. 1875), son of James Brock Cushing, who was 16 years old \u2014 too young to lead a YMCA camping trip. Walter Edgar Cushing (b. 1870, Lemuel Jr.'s eldest son) was 22 and Harold Beveridge Cushing (b. 1873) was 19.",
+      "sources": [
+        "src_cushing_genealogy"
+      ],
       "confidence": "inferred",
       "category": "people",
-      "entities": ["Lemuel Cushing (b. 1875)", "Walter Edgar Cushing", "Harold Beveridge Cushing"],
+      "entities": [
+        "Lemuel Cushing (b. 1875)",
+        "Walter Edgar Cushing",
+        "Harold Beveridge Cushing"
+      ],
       "date_ref": "1892",
       "conflicts_with": [],
       "added_version": "4.6",
@@ -7519,10 +8128,15 @@
     {
       "fact_id": "f_0483",
       "claim": "Harold Beveridge Cushing (b. 1873) received B.A. from McGill in 1892, M.D. in 1898. Practising physician in Montreal, Associate in Medicine at Royal Victoria Hospital, Physician to Children's Hospital.",
-      "sources": ["src_cushing_genealogy"],
+      "sources": [
+        "src_cushing_genealogy"
+      ],
       "confidence": "stated",
       "category": "people",
-      "entities": ["Harold Beveridge Cushing", "McGill University"],
+      "entities": [
+        "Harold Beveridge Cushing",
+        "McGill University"
+      ],
       "date_ref": "1892",
       "conflicts_with": [],
       "added_version": "4.6",
@@ -7531,10 +8145,14 @@
     {
       "fact_id": "f_0484",
       "claim": "James Stevenson Cushing (b. 2 Oct 1878), Lemuel Jr.'s youngest son, compiled and published the expanded 598-page edition of 'The Genealogy of the Cushing Family' (Montreal: Perrault Printing Co., 1905).",
-      "sources": ["src_cushing_genealogy"],
+      "sources": [
+        "src_cushing_genealogy"
+      ],
       "confidence": "stated",
       "category": "people",
-      "entities": ["James Stevenson Cushing"],
+      "entities": [
+        "James Stevenson Cushing"
+      ],
       "date_ref": "1905",
       "conflicts_with": [],
       "added_version": "4.6",
@@ -7543,10 +8161,15 @@
     {
       "fact_id": "f_0485",
       "claim": "The 1905 Cushing genealogy contains no mention of Lake Saint-Joseph, camping, YMCA activity, Howard, or Saint-Adolphe. The YMCA is mentioned only once, noting Lemuel Jr.'s presidency.",
-      "sources": ["src_cushing_genealogy"],
+      "sources": [
+        "src_cushing_genealogy"
+      ],
       "confidence": "stated",
       "category": "sources",
-      "entities": ["Cushing family", "YMCA"],
+      "entities": [
+        "Cushing family",
+        "YMCA"
+      ],
       "date_ref": null,
       "conflicts_with": [],
       "added_version": "4.6",
@@ -7555,10 +8178,15 @@
     {
       "fact_id": "f_0486",
       "claim": "The YMCA purchased three islands in Lake Saint-Joseph for Camp Jubilee/Otoreke. The camp had a landing area on the shore.",
-      "sources": ["src_qahn_howard"],
+      "sources": [
+        "src_qahn_howard"
+      ],
       "confidence": "stated",
       "category": "geography",
-      "entities": ["Camp Otoreke", "Lake Saint-Joseph"],
+      "entities": [
+        "Camp Otoreke",
+        "Lake Saint-Joseph"
+      ],
       "date_ref": null,
       "conflicts_with": [],
       "added_version": "4.6",
@@ -7567,10 +8195,14 @@
     {
       "fact_id": "f_0487",
       "claim": "A historical postcard titled 'A View Of The YMCA Camp Landing, Otoreke, Quebec' (RPPC) exists, showing developed landing dock at Camp Otoreke.",
-      "sources": ["src_ebay_otoreke_postcard"],
+      "sources": [
+        "src_ebay_otoreke_postcard"
+      ],
       "confidence": "stated",
       "category": "sources",
-      "entities": ["Camp Otoreke"],
+      "entities": [
+        "Camp Otoreke"
+      ],
       "date_ref": null,
       "conflicts_with": [],
       "added_version": "4.6",
@@ -7579,10 +8211,14 @@
     {
       "fact_id": "f_0488",
       "claim": "Camp Otoreke hosted a Young Adult Centennial Conference in 1967, and planning and development reports were prepared for the site that year.",
-      "sources": ["src_concordia_fonds"],
+      "sources": [
+        "src_concordia_fonds"
+      ],
       "confidence": "stated",
       "category": "events",
-      "entities": ["Camp Otoreke"],
+      "entities": [
+        "Camp Otoreke"
+      ],
       "date_ref": "1967",
       "conflicts_with": [],
       "added_version": "4.6",
@@ -7591,10 +8227,15 @@
     {
       "fact_id": "f_0489",
       "claim": "A 1944 photograph of Camp Otoreke is held by QAHN (Quebec Anglophone Heritage Network).",
-      "sources": ["src_qahn_howard"],
+      "sources": [
+        "src_qahn_howard"
+      ],
       "confidence": "stated",
       "category": "sources",
-      "entities": ["Camp Otoreke", "QAHN"],
+      "entities": [
+        "Camp Otoreke",
+        "QAHN"
+      ],
       "date_ref": "1944",
       "conflicts_with": [],
       "added_version": "4.6",
@@ -7603,10 +8244,15 @@
     {
       "fact_id": "f_0490",
       "claim": "Stuart McLean's full name was Andrew Stuart McLean, OC.",
-      "sources": ["src_wikipedia_stuart_mclean", "src_canadian_encyclopedia_mclean"],
+      "sources": [
+        "src_wikipedia_stuart_mclean",
+        "src_canadian_encyclopedia_mclean"
+      ],
       "confidence": "stated",
       "category": "people",
-      "entities": ["Stuart McLean"],
+      "entities": [
+        "Stuart McLean"
+      ],
       "date_ref": null,
       "conflicts_with": [],
       "added_version": "4.7",
@@ -7615,10 +8261,17 @@
     {
       "fact_id": "f_0491",
       "claim": "Stuart McLean was born in Montreal West, Quebec, the eldest of three children of Australian immigrant parents Andrew McLean and Margaret Godkin.",
-      "sources": ["src_wikipedia_stuart_mclean", "src_canadian_encyclopedia_mclean", "src_montrealer_mclean"],
+      "sources": [
+        "src_wikipedia_stuart_mclean",
+        "src_canadian_encyclopedia_mclean",
+        "src_montrealer_mclean"
+      ],
       "confidence": "stated",
       "category": "people",
-      "entities": ["Stuart McLean", "Montreal West"],
+      "entities": [
+        "Stuart McLean",
+        "Montreal West"
+      ],
       "date_ref": "1948",
       "conflicts_with": [],
       "added_version": "4.7",
@@ -7627,10 +8280,16 @@
     {
       "fact_id": "f_0492",
       "claim": "Stuart McLean attended Lower Canada College for high school, where he felt like an outsider. He described himself as an 'utter academic, athletic and social failure' who had to repeat Grade 11.",
-      "sources": ["src_montrealer_mclean", "src_ourkids_mclean"],
+      "sources": [
+        "src_montrealer_mclean",
+        "src_ourkids_mclean"
+      ],
       "confidence": "stated",
       "category": "people",
-      "entities": ["Stuart McLean", "Lower Canada College"],
+      "entities": [
+        "Stuart McLean",
+        "Lower Canada College"
+      ],
       "date_ref": null,
       "conflicts_with": [],
       "added_version": "4.7",
@@ -7639,10 +8298,17 @@
     {
       "fact_id": "f_0493",
       "claim": "Stuart McLean graduated from Sir George Williams University (now Concordia University) with a BA in applied social science in 1971.",
-      "sources": ["src_wikipedia_stuart_mclean", "src_concordia_mclean_tribute"],
+      "sources": [
+        "src_wikipedia_stuart_mclean",
+        "src_concordia_mclean_tribute"
+      ],
       "confidence": "stated",
       "category": "people",
-      "entities": ["Stuart McLean", "Sir George Williams University", "Concordia University"],
+      "entities": [
+        "Stuart McLean",
+        "Sir George Williams University",
+        "Concordia University"
+      ],
       "date_ref": "1971",
       "conflicts_with": [],
       "added_version": "4.7",
@@ -7651,10 +8317,16 @@
     {
       "fact_id": "f_0494",
       "claim": "Stuart McLean said of Camp Kanawana: 'It was the first place, as a young person, that I felt I could contribute to the greater good.' He also called it 'the first place I ever felt I truly belonged.'",
-      "sources": ["src_cbc_mclean_fund", "src_ourkids_mclean"],
+      "sources": [
+        "src_cbc_mclean_fund",
+        "src_ourkids_mclean"
+      ],
       "confidence": "stated",
       "category": "people",
-      "entities": ["Stuart McLean", "Camp Kanawana"],
+      "entities": [
+        "Stuart McLean",
+        "Camp Kanawana"
+      ],
       "date_ref": null,
       "conflicts_with": [],
       "added_version": "4.7",
@@ -7663,10 +8335,16 @@
     {
       "fact_id": "f_0495",
       "claim": "Stuart McLean began as a counsellor in the senior boys' section at Camp Kanawana in 1969. He described his first opportunity there to be a mentor to children and stage a variety show.",
-      "sources": ["src_ourkids_mclean", "src_samaritanmag_mclean"],
+      "sources": [
+        "src_ourkids_mclean",
+        "src_samaritanmag_mclean"
+      ],
       "confidence": "stated",
       "category": "people",
-      "entities": ["Stuart McLean", "Camp Kanawana"],
+      "entities": [
+        "Stuart McLean",
+        "Camp Kanawana"
+      ],
       "date_ref": "1969",
       "conflicts_with": [],
       "added_version": "4.7",
@@ -7675,10 +8353,15 @@
     {
       "fact_id": "f_0496",
       "claim": "In a speech to YMCA Camp Directors, Stuart McLean described arriving at Camp Kanawana as 'a wholly unsuccessful boy' and 'a failure on the playing field and in the classroom' who came 'with a packsack full of fears.' He said: 'the best I can say is that camp happened.'",
-      "sources": ["src_ymca_john_island_mclean_speech"],
+      "sources": [
+        "src_ymca_john_island_mclean_speech"
+      ],
       "confidence": "stated",
       "category": "people",
-      "entities": ["Stuart McLean", "Camp Kanawana"],
+      "entities": [
+        "Stuart McLean",
+        "Camp Kanawana"
+      ],
       "date_ref": null,
       "conflicts_with": [],
       "added_version": "4.7",
@@ -7687,10 +8370,16 @@
     {
       "fact_id": "f_0497",
       "claim": "In a speech to YMCA Camp Directors, Stuart McLean said his preoccupation as a writer was 'the world of the family, the neighbourhood' and 'the safe places that foster a sense of belonging, a sense of place' and that 'these are the kinds of places that are created at YMCA camps across North America.'",
-      "sources": ["src_ymca_john_island_mclean_speech"],
+      "sources": [
+        "src_ymca_john_island_mclean_speech"
+      ],
       "confidence": "stated",
       "category": "people",
-      "entities": ["Stuart McLean", "Camp Kanawana", "YMCA"],
+      "entities": [
+        "Stuart McLean",
+        "Camp Kanawana",
+        "YMCA"
+      ],
       "date_ref": null,
       "conflicts_with": [],
       "added_version": "4.7",
@@ -7699,10 +8388,15 @@
     {
       "fact_id": "f_0498",
       "claim": "A comment on the Westmount Magazine tribute to Stuart McLean stated: 'I was the camp director and Stuart was the assistant camp director (summers of 1974 and 1975).' Another comment stated: 'Stuart and I first met back in 1969 when we were both working at Kamp Kanawana and we have been friends ever since.'",
-      "sources": ["src_westmountmag_mclean"],
+      "sources": [
+        "src_westmountmag_mclean"
+      ],
       "confidence": "stated",
       "category": "people",
-      "entities": ["Stuart McLean", "Camp Kanawana"],
+      "entities": [
+        "Stuart McLean",
+        "Camp Kanawana"
+      ],
       "date_ref": "1974-1975",
       "conflicts_with": [],
       "added_version": "4.7",
@@ -7711,10 +8405,16 @@
     {
       "fact_id": "f_0499",
       "claim": "Stuart McLean received the Camp YMCA Kanawana 'Pip' Alumni Award in 2009.",
-      "sources": ["src_ymca_pip_orbinski"],
+      "sources": [
+        "src_ymca_pip_orbinski"
+      ],
       "confidence": "inferred",
       "category": "people",
-      "entities": ["Stuart McLean", "Camp Kanawana", "Pip Award"],
+      "entities": [
+        "Stuart McLean",
+        "Camp Kanawana",
+        "Pip Award"
+      ],
       "date_ref": "2009",
       "conflicts_with": [],
       "added_version": "4.7",
@@ -7723,10 +8423,17 @@
     {
       "fact_id": "f_0500",
       "claim": "After graduating from Sir George Williams University, Stuart McLean worked in the Student Services department at Dawson College. He contributed to the college newspaper The Dawson Forum and became its editor. He then managed Nick Auf der Maur's first successful Montreal city council campaign.",
-      "sources": ["src_montrealer_mclean", "src_wikipedia_stuart_mclean"],
+      "sources": [
+        "src_montrealer_mclean",
+        "src_wikipedia_stuart_mclean"
+      ],
       "confidence": "stated",
       "category": "people",
-      "entities": ["Stuart McLean", "Dawson College", "Nick Auf der Maur"],
+      "entities": [
+        "Stuart McLean",
+        "Dawson College",
+        "Nick Auf der Maur"
+      ],
       "date_ref": "1971-1974",
       "conflicts_with": [],
       "added_version": "4.7",
@@ -7735,10 +8442,16 @@
     {
       "fact_id": "f_0501",
       "claim": "Stuart McLean joined CBC Radio as a researcher for Cross Country Checkup in 1974, later becoming a documentarian for Sunday Morning. He won an ACTRA Award in 1979 for his documentary on the Jonestown massacre. He was executive producer of Sunday Morning from 1982 to 1984.",
-      "sources": ["src_wikipedia_stuart_mclean", "src_canadian_encyclopedia_mclean"],
+      "sources": [
+        "src_wikipedia_stuart_mclean",
+        "src_canadian_encyclopedia_mclean"
+      ],
       "confidence": "stated",
       "category": "people",
-      "entities": ["Stuart McLean", "CBC Radio"],
+      "entities": [
+        "Stuart McLean",
+        "CBC Radio"
+      ],
       "date_ref": "1974-1984",
       "conflicts_with": [],
       "added_version": "4.7",
@@ -7747,10 +8460,16 @@
     {
       "fact_id": "f_0502",
       "claim": "Stuart McLean was a professor of journalism at Ryerson Polytechnic Institute (now Toronto Metropolitan University) from 1984 to 2004, and was named professor emeritus.",
-      "sources": ["src_wikipedia_stuart_mclean", "src_canadian_encyclopedia_mclean"],
+      "sources": [
+        "src_wikipedia_stuart_mclean",
+        "src_canadian_encyclopedia_mclean"
+      ],
       "confidence": "stated",
       "category": "people",
-      "entities": ["Stuart McLean", "Ryerson University"],
+      "entities": [
+        "Stuart McLean",
+        "Ryerson University"
+      ],
       "date_ref": "1984-2004",
       "conflicts_with": [],
       "added_version": "4.7",
@@ -7759,10 +8478,17 @@
     {
       "fact_id": "f_0503",
       "claim": "Stuart McLean created The Vinyl Cafe for CBC Radio in 1994 as a summer replacement show. By autumn 1997 it was broadcast every Sunday. Beginning in 1998, McLean took the show on tour to theatres across Canada and the United States. The show drew over a million listeners per episode at its peak.",
-      "sources": ["src_wikipedia_stuart_mclean", "src_canadian_encyclopedia_mclean"],
+      "sources": [
+        "src_wikipedia_stuart_mclean",
+        "src_canadian_encyclopedia_mclean"
+      ],
       "confidence": "stated",
       "category": "people",
-      "entities": ["Stuart McLean", "The Vinyl Cafe", "CBC Radio"],
+      "entities": [
+        "Stuart McLean",
+        "The Vinyl Cafe",
+        "CBC Radio"
+      ],
       "date_ref": "1994",
       "conflicts_with": [],
       "added_version": "4.7",
@@ -7771,10 +8497,16 @@
     {
       "fact_id": "f_0504",
       "claim": "Stuart McLean won the Stephen Leacock Memorial Medal for Humour three times: for Home from the Vinyl Cafe (1999), Vinyl Cafe Unplugged (2001), and Secrets from the Vinyl Cafe (2007).",
-      "sources": ["src_wikipedia_stuart_mclean", "src_canadian_encyclopedia_mclean"],
+      "sources": [
+        "src_wikipedia_stuart_mclean",
+        "src_canadian_encyclopedia_mclean"
+      ],
       "confidence": "stated",
       "category": "people",
-      "entities": ["Stuart McLean", "Stephen Leacock Medal"],
+      "entities": [
+        "Stuart McLean",
+        "Stephen Leacock Medal"
+      ],
       "date_ref": "1999-2007",
       "conflicts_with": [],
       "added_version": "4.7",
@@ -7783,10 +8515,16 @@
     {
       "fact_id": "f_0505",
       "claim": "Stuart McLean was appointed an Officer of the Order of Canada in December 2011.",
-      "sources": ["src_wikipedia_stuart_mclean", "src_canadian_encyclopedia_mclean"],
+      "sources": [
+        "src_wikipedia_stuart_mclean",
+        "src_canadian_encyclopedia_mclean"
+      ],
       "confidence": "stated",
       "category": "people",
-      "entities": ["Stuart McLean", "Order of Canada"],
+      "entities": [
+        "Stuart McLean",
+        "Order of Canada"
+      ],
       "date_ref": "2011",
       "conflicts_with": [],
       "added_version": "4.7",
@@ -7795,10 +8533,15 @@
     {
       "fact_id": "f_0506",
       "claim": "Stuart McLean received honorary degrees from: Nipissing University (H.Ed.D.), University of Windsor (LL.D.), Trent University (D.Litt., 2007), Saint Mary's University (D.C.L.), University of Calgary (LL.D.), Concordia University (LL.D., 2014), and McMaster University (LL.D., 2014).",
-      "sources": ["src_canadian_encyclopedia_mclean", "src_concordia_mclean_tribute"],
+      "sources": [
+        "src_canadian_encyclopedia_mclean",
+        "src_concordia_mclean_tribute"
+      ],
       "confidence": "stated",
       "category": "people",
-      "entities": ["Stuart McLean"],
+      "entities": [
+        "Stuart McLean"
+      ],
       "date_ref": "2007-2014",
       "conflicts_with": [],
       "added_version": "4.7",
@@ -7807,10 +8550,15 @@
     {
       "fact_id": "f_0507",
       "claim": "Stuart McLean was diagnosed with melanoma in November 2015. The Vinyl Cafe stopped touring and producing episodes after the diagnosis. He died on February 15, 2017, in Toronto, aged 68.",
-      "sources": ["src_wikipedia_stuart_mclean", "src_cbc_mclean_obit"],
+      "sources": [
+        "src_wikipedia_stuart_mclean",
+        "src_cbc_mclean_obit"
+      ],
       "confidence": "stated",
       "category": "people",
-      "entities": ["Stuart McLean"],
+      "entities": [
+        "Stuart McLean"
+      ],
       "date_ref": "2015-2017",
       "conflicts_with": [],
       "added_version": "4.7",
@@ -7819,10 +8567,15 @@
     {
       "fact_id": "f_0508",
       "claim": "Stuart McLean donated 100 boxes (16 metres) of personal and literary archives to McMaster University in May 2016. The fonds spans from the 1960s to 2016 and includes manuscripts, notebooks, correspondence with Margaret Atwood, Farley Mowat, Timothy Findley, and Ken Dryden.",
-      "sources": ["src_mcmaster_mclean_fonds"],
+      "sources": [
+        "src_mcmaster_mclean_fonds"
+      ],
       "confidence": "stated",
       "category": "people",
-      "entities": ["Stuart McLean", "McMaster University"],
+      "entities": [
+        "Stuart McLean",
+        "McMaster University"
+      ],
       "date_ref": "2016",
       "conflicts_with": [],
       "added_version": "4.7",
@@ -7831,10 +8584,14 @@
     {
       "fact_id": "f_0509",
       "claim": "Stuart McLean served as Honorary Colonel of the 8th Air Maintenance Squadron at 8 Wing Trenton from 2005 to 2008.",
-      "sources": ["src_wikipedia_stuart_mclean"],
+      "sources": [
+        "src_wikipedia_stuart_mclean"
+      ],
       "confidence": "stated",
       "category": "people",
-      "entities": ["Stuart McLean"],
+      "entities": [
+        "Stuart McLean"
+      ],
       "date_ref": "2005-2008",
       "conflicts_with": [],
       "added_version": "4.7",
@@ -7843,10 +8600,14 @@
     {
       "fact_id": "f_0510",
       "claim": "Stuart McLean married Linda Read in 1982. They had two sons, Robert and Andrew. Stuart was also a stepfather to Linda's son Christopher. They divorced in 2002.",
-      "sources": ["src_wikipedia_stuart_mclean"],
+      "sources": [
+        "src_wikipedia_stuart_mclean"
+      ],
       "confidence": "stated",
       "category": "people",
-      "entities": ["Stuart McLean"],
+      "entities": [
+        "Stuart McLean"
+      ],
       "date_ref": "1982-2002",
       "conflicts_with": [],
       "added_version": "4.7",
@@ -7855,10 +8616,16 @@
     {
       "fact_id": "f_0511",
       "claim": "After Stuart McLean's death, his family requested that in lieu of flowers, donations be made to the Stuart McLean Camp Kanawana Fund.",
-      "sources": ["src_cbc_mclean_obit", "src_cbc_mclean_fund"],
+      "sources": [
+        "src_cbc_mclean_obit",
+        "src_cbc_mclean_fund"
+      ],
       "confidence": "stated",
       "category": "people",
-      "entities": ["Stuart McLean", "Camp Kanawana"],
+      "entities": [
+        "Stuart McLean",
+        "Camp Kanawana"
+      ],
       "date_ref": "2017",
       "conflicts_with": [],
       "added_version": "4.7",
@@ -7867,10 +8634,16 @@
     {
       "fact_id": "f_0512",
       "claim": "One day after Stuart McLean's death, a tribute special hosted by Michael Enright titled 'Canada's Storyteller: A Tribute to Stuart McLean' aired on CBC Radio.",
-      "sources": ["src_cbc_mclean_obit"],
+      "sources": [
+        "src_cbc_mclean_obit"
+      ],
       "confidence": "stated",
       "category": "people",
-      "entities": ["Stuart McLean", "Michael Enright", "CBC Radio"],
+      "entities": [
+        "Stuart McLean",
+        "Michael Enright",
+        "CBC Radio"
+      ],
       "date_ref": "2017-02-16",
       "conflicts_with": [],
       "added_version": "4.7",
@@ -7879,10 +8652,15 @@
     {
       "fact_id": "f_0513",
       "claim": "The Montreal West Public Library named a reading room after Stuart McLean. His brother Alistair McLean attended the inauguration ceremony.",
-      "sources": ["src_wikipedia_stuart_mclean"],
+      "sources": [
+        "src_wikipedia_stuart_mclean"
+      ],
       "confidence": "stated",
       "category": "people",
-      "entities": ["Stuart McLean", "Montreal West"],
+      "entities": [
+        "Stuart McLean",
+        "Montreal West"
+      ],
       "date_ref": "2017",
       "conflicts_with": [],
       "added_version": "4.7",
@@ -7891,10 +8669,15 @@
     {
       "fact_id": "f_0514",
       "claim": "Camp YMCA Kanawana endeavours to ensure that at least one in five campers is from a financially disadvantaged background.",
-      "sources": ["src_cbc_mclean_fund"],
+      "sources": [
+        "src_cbc_mclean_fund"
+      ],
       "confidence": "stated",
       "category": "operations",
-      "entities": ["Camp Kanawana", "YMCA"],
+      "entities": [
+        "Camp Kanawana",
+        "YMCA"
+      ],
       "date_ref": null,
       "conflicts_with": [],
       "added_version": "4.7",
@@ -7903,10 +8686,16 @@
     {
       "fact_id": "f_0515",
       "claim": "In January 2023, long-time Vinyl Cafe producer Jess Milton released a new podcast named 'Backstage at the Vinyl Cafe,' which includes McLean's previously recorded fictional stories and concert highlights.",
-      "sources": ["src_wikipedia_stuart_mclean"],
+      "sources": [
+        "src_wikipedia_stuart_mclean"
+      ],
       "confidence": "stated",
       "category": "people",
-      "entities": ["Stuart McLean", "The Vinyl Cafe", "Jess Milton"],
+      "entities": [
+        "Stuart McLean",
+        "The Vinyl Cafe",
+        "Jess Milton"
+      ],
       "date_ref": "2023",
       "conflicts_with": [],
       "added_version": "4.7",
@@ -7914,11 +8703,15 @@
     },
     {
       "fact_id": "f_0516",
-      "claim": "J.W. McConnell's mother was Margaret Anne (née Wilson) McConnell; his middle name 'Wilson' came from his mother's maiden name.",
-      "sources": ["src_wikipedia_mcconnell"],
+      "claim": "J.W. McConnell's mother was Margaret Anne (n\u00e9e Wilson) McConnell; his middle name 'Wilson' came from his mother's maiden name.",
+      "sources": [
+        "src_wikipedia_mcconnell"
+      ],
       "confidence": "stated",
       "category": "people",
-      "entities": ["J.W. McConnell"],
+      "entities": [
+        "J.W. McConnell"
+      ],
       "date_ref": "1877",
       "conflicts_with": [],
       "added_version": "4.8",
@@ -7927,10 +8720,15 @@
     {
       "fact_id": "f_0517",
       "claim": "J.W. McConnell married Lily May Griffith in 1905, daughter of a Methodist preacher.",
-      "sources": ["src_wikipedia_mcconnell"],
+      "sources": [
+        "src_wikipedia_mcconnell"
+      ],
       "confidence": "stated",
       "category": "people",
-      "entities": ["J.W. McConnell", "Lily Griffith McConnell"],
+      "entities": [
+        "J.W. McConnell",
+        "Lily Griffith McConnell"
+      ],
       "date_ref": "1905",
       "conflicts_with": [],
       "added_version": "4.8",
@@ -7938,11 +8736,19 @@
     },
     {
       "fact_id": "f_0518",
-      "claim": "J.W. McConnell had four children: Wilson Griffith (1908–1966), John Griffith (1911–1974), Kathleen Griffith (1918–2012), and David Griffith (1923–1963). All bore the middle name Griffith after their mother's maiden name.",
-      "sources": ["src_wikipedia_mcconnell"],
+      "claim": "J.W. McConnell had four children: Wilson Griffith (1908\u20131966), John Griffith (1911\u20131974), Kathleen Griffith (1918\u20132012), and David Griffith (1923\u20131963). All bore the middle name Griffith after their mother's maiden name.",
+      "sources": [
+        "src_wikipedia_mcconnell"
+      ],
       "confidence": "stated",
       "category": "people",
-      "entities": ["J.W. McConnell", "Wilson Griffith McConnell", "John Griffith McConnell", "Kathleen Griffith McConnell", "David Griffith McConnell"],
+      "entities": [
+        "J.W. McConnell",
+        "Wilson Griffith McConnell",
+        "John Griffith McConnell",
+        "Kathleen Griffith McConnell",
+        "David Griffith McConnell"
+      ],
       "date_ref": null,
       "conflicts_with": [],
       "added_version": "4.8",
@@ -7950,11 +8756,17 @@
     },
     {
       "fact_id": "f_0519",
-      "claim": "Wilson Griffith McConnell (1908–1966) was J.W. McConnell's eldest son. He managed St. Lawrence Sugar Refineries and married Marjorie Wallace.",
-      "sources": ["src_wikipedia_mcconnell"],
+      "claim": "Wilson Griffith McConnell (1908\u20131966) was J.W. McConnell's eldest son. He managed St. Lawrence Sugar Refineries and married Marjorie Wallace.",
+      "sources": [
+        "src_wikipedia_mcconnell"
+      ],
       "confidence": "stated",
       "category": "people",
-      "entities": ["Wilson Griffith McConnell", "J.W. McConnell", "St. Lawrence Sugar"],
+      "entities": [
+        "Wilson Griffith McConnell",
+        "J.W. McConnell",
+        "St. Lawrence Sugar"
+      ],
       "date_ref": "1908",
       "conflicts_with": [],
       "added_version": "4.8",
@@ -7963,10 +8775,15 @@
     {
       "fact_id": "f_0520",
       "claim": "J.W. McConnell moved into a YMCA room in Montreal in 1901, beginning a lifelong commitment to the organization.",
-      "sources": ["src_mcconnell_foundation"],
+      "sources": [
+        "src_mcconnell_foundation"
+      ],
       "confidence": "stated",
       "category": "people",
-      "entities": ["J.W. McConnell", "YMCA"],
+      "entities": [
+        "J.W. McConnell",
+        "YMCA"
+      ],
       "date_ref": "1901",
       "conflicts_with": [],
       "added_version": "4.8",
@@ -7975,10 +8792,15 @@
     {
       "fact_id": "f_0521",
       "claim": "J.W. McConnell led a YMCA fundraising campaign in 1909 that raised over $300,000.",
-      "sources": ["src_mcconnell_foundation"],
+      "sources": [
+        "src_mcconnell_foundation"
+      ],
       "confidence": "stated",
       "category": "people",
-      "entities": ["J.W. McConnell", "YMCA"],
+      "entities": [
+        "J.W. McConnell",
+        "YMCA"
+      ],
       "date_ref": "1909",
       "conflicts_with": [],
       "added_version": "4.8",
@@ -7987,10 +8809,15 @@
     {
       "fact_id": "f_0522",
       "claim": "The McConnell Foundation describes its relationship with Camp Kanawana as 'long' and has funded major renovations at the camp.",
-      "sources": ["src_mcconnell_foundation"],
+      "sources": [
+        "src_mcconnell_foundation"
+      ],
       "confidence": "stated",
       "category": "operations",
-      "entities": ["McConnell Foundation", "Camp Kanawana"],
+      "entities": [
+        "McConnell Foundation",
+        "Camp Kanawana"
+      ],
       "date_ref": null,
       "conflicts_with": [],
       "added_version": "4.8",
@@ -7999,10 +8826,16 @@
     {
       "fact_id": "f_0523",
       "claim": "William Fong's biography J.W. McConnell: Financier, Philanthropist, Patriot (McGill-Queen's, 2008) includes a chapter on McConnell's YMCA fundraising titled 'Keep the Home Fires Burning' beginning at page 123.",
-      "sources": ["src_fong_mcconnell_2008"],
+      "sources": [
+        "src_fong_mcconnell_2008"
+      ],
       "confidence": "stated",
       "category": "sources_archives",
-      "entities": ["J.W. McConnell", "William Fong", "YMCA"],
+      "entities": [
+        "J.W. McConnell",
+        "William Fong",
+        "YMCA"
+      ],
       "date_ref": "2008",
       "conflicts_with": [],
       "added_version": "4.8",
@@ -8010,11 +8843,18 @@
     },
     {
       "fact_id": "f_0524",
-      "claim": "There are two separate lakes named 'Lac Wilson' in the broader Kanawana region: one within the Camp Kanawana property (near Mille-Isles) and another in Saint-Adolphe-d'Howard approximately 20–30 km northwest.",
-      "sources": ["src_mysummercamps_kanawana"],
+      "claim": "There are two separate lakes named 'Lac Wilson' in the broader Kanawana region: one within the Camp Kanawana property (near Mille-Isles) and another in Saint-Adolphe-d'Howard approximately 20\u201330 km northwest.",
+      "sources": [
+        "src_mysummercamps_kanawana"
+      ],
       "confidence": "stated",
       "category": "geography",
-      "entities": ["Lake Wilson", "Camp Kanawana", "Mille-Isles", "Saint-Adolphe-d'Howard"],
+      "entities": [
+        "Lake Wilson",
+        "Camp Kanawana",
+        "Mille-Isles",
+        "Saint-Adolphe-d'Howard"
+      ],
       "date_ref": null,
       "conflicts_with": [],
       "added_version": "4.8",
@@ -8023,10 +8863,16 @@
     {
       "fact_id": "f_0525",
       "claim": "No documentary source has been found that explicitly connects the naming of Lake Wilson at Camp Kanawana to any specific person or family, including the McConnell family. The most likely sources to contain this information are the 1933 Ralph Dawson history, the 1943 R.L. Charlton 'Early Days' account, and the McMorris thesis full text.",
-      "sources": ["src_oral_aronson"],
+      "sources": [
+        "src_oral_aronson"
+      ],
       "confidence": "inferred",
       "category": "geography",
-      "entities": ["Lake Wilson", "J.W. McConnell", "Camp Kanawana"],
+      "entities": [
+        "Lake Wilson",
+        "J.W. McConnell",
+        "Camp Kanawana"
+      ],
       "date_ref": null,
       "conflicts_with": [],
       "added_version": "4.8",
@@ -8035,10 +8881,15 @@
     {
       "fact_id": "f_0526",
       "claim": "The Cropsey legend is the most widespread camp ghost story in northeastern North America. It originated in the New York area and tells of a deranged figure (with a hook hand or axe) who stalks campers. The legend became entangled with real crimes when Andre Rand, a janitor at Willowbrook State School on Staten Island, was convicted of kidnapping children in the 1970s-80s.",
-      "sources": ["src_web_cropsey_2026"],
+      "sources": [
+        "src_web_cropsey_2026"
+      ],
       "confidence": "stated",
       "category": "camp_culture",
-      "entities": ["Cropsey", "Andre Rand"],
+      "entities": [
+        "Cropsey",
+        "Andre Rand"
+      ],
       "date_ref": null,
       "conflicts_with": [],
       "added_version": "4.9",
@@ -8047,10 +8898,15 @@
     {
       "fact_id": "f_0527",
       "claim": "The 1981 horror film The Burning and the 2009 documentary Cropsey both draw on the Cropsey camp ghost story legend. The Burning was produced by Harvey and Bob Weinstein and features a camp caretaker named 'Cropsy' burned in a prank gone wrong.",
-      "sources": ["src_web_cropsey_2026"],
+      "sources": [
+        "src_web_cropsey_2026"
+      ],
       "confidence": "stated",
       "category": "camp_culture",
-      "entities": ["Cropsey", "The Burning"],
+      "entities": [
+        "Cropsey",
+        "The Burning"
+      ],
       "date_ref": "1981",
       "conflicts_with": [],
       "added_version": "4.9",
@@ -8059,7 +8915,9 @@
     {
       "fact_id": "f_0528",
       "claim": "A 2019 Slate article reported that about a third of American summer camps prohibit ghost stories, while the tradition of scary campfire storytelling has been declining. Some camp staff cite concerns over potentially traumatizing children.",
-      "sources": ["src_web_slate_ghoststories_2019"],
+      "sources": [
+        "src_web_slate_ghoststories_2019"
+      ],
       "confidence": "stated",
       "category": "camp_culture",
       "entities": [],
@@ -8071,10 +8929,14 @@
     {
       "fact_id": "f_0529",
       "claim": "The 1935 camp history document casually references 'the haunted house' as a location where campers went on eating-out day, suggesting an established tradition of associating a specific building on or near the camp property with supernatural narratives by 1935.",
-      "sources": ["src_history_1935"],
+      "sources": [
+        "src_history_1935"
+      ],
       "confidence": "inferred",
       "category": "legends",
-      "entities": ["Camp Kanawana"],
+      "entities": [
+        "Camp Kanawana"
+      ],
       "date_ref": "1935",
       "conflicts_with": [],
       "added_version": "4.9",
@@ -8083,10 +8945,15 @@
     {
       "fact_id": "f_0530",
       "claim": "The Kanawha River in West Virginia, which has a similar name to Kanawana, derives its name from a Shawnee or Delaware word generally believed to mean 'white rocks' or possibly 'new water.' The Kanawha Indian band was a branch of the Algonquin family related to the Nanticokes and Delawares.",
-      "sources": ["src_web_kanawha_2026"],
+      "sources": [
+        "src_web_kanawha_2026"
+      ],
       "confidence": "stated",
       "category": "name_origin",
-      "entities": ["Kanawha", "Kanawana"],
+      "entities": [
+        "Kanawha",
+        "Kanawana"
+      ],
       "date_ref": null,
       "conflicts_with": [],
       "added_version": "4.9",
@@ -8095,10 +8962,14 @@
     {
       "fact_id": "f_0531",
       "claim": "No Kanawana-specific ghost stories have been found in any written sources, including the Gas Bag (1923), Green Triangle newsletters (1932-1940), camp brochures, or online alumni accounts. Camp ghost stories are overwhelmingly transmitted as oral tradition.",
-      "sources": ["src_oral_aronson"],
+      "sources": [
+        "src_oral_aronson"
+      ],
       "confidence": "inferred",
       "category": "legends",
-      "entities": ["Camp Kanawana"],
+      "entities": [
+        "Camp Kanawana"
+      ],
       "date_ref": null,
       "conflicts_with": [],
       "added_version": "4.9",
@@ -8107,10 +8978,14 @@
     {
       "fact_id": "f_0532",
       "claim": "YMCA camps across North America have a long tradition of campfire storytelling. Camp-specific ghost stories are common, with examples including the 'Mud Lake Monster' and 'Grandpappy' at Camp Minikani, and 'Cropsey' at Camp IHC. These stories often evolve with each retelling.",
-      "sources": ["src_web_aca_campfire_2026"],
+      "sources": [
+        "src_web_aca_campfire_2026"
+      ],
       "confidence": "stated",
       "category": "camp_culture",
-      "entities": ["YMCA"],
+      "entities": [
+        "YMCA"
+      ],
       "date_ref": null,
       "conflicts_with": [],
       "added_version": "4.9",
@@ -8119,10 +8994,15 @@
     {
       "fact_id": "f_0533",
       "claim": "Quebec folklore traditions relevant to Kanawana campfire culture include La Chasse-Galerie (The Flying Canoe, where lumberjacks make a devil's pact to fly home in a canoe over the Laurentians), Le Loup-Garou (werewolf), and Le Beau Danseur (the devil at the dance). These legends have over 200 versions across Quebec.",
-      "sources": ["src_web_quebec_folklore_2026"],
+      "sources": [
+        "src_web_quebec_folklore_2026"
+      ],
       "confidence": "stated",
       "category": "camp_culture",
-      "entities": ["Quebec folklore", "La Chasse-Galerie"],
+      "entities": [
+        "Quebec folklore",
+        "La Chasse-Galerie"
+      ],
       "date_ref": null,
       "conflicts_with": [],
       "added_version": "4.9",
@@ -8131,10 +9011,15 @@
     {
       "fact_id": "f_0534",
       "claim": "The 'Chopsy' ghost story is reportedly told at Camp Kanawana, featuring an ax murderer. No published or online documentation of this specific story name has been found. The name 'Chopsy' does not appear in any indexed web source, folklore archive, academic database, Reddit, or camp ghost story collection as of February 2027. Over 30 web searches using the exact terms 'Chopsy', 'Chopsey', 'Chopsie', and 'Chops' combined with camp/ghost/story/axe keywords returned zero relevant results.",
-      "sources": ["src_oral_aronson"],
+      "sources": [
+        "src_oral_aronson"
+      ],
       "confidence": "user_knowledge",
       "category": "legends",
-      "entities": ["Camp Kanawana", "Chopsy"],
+      "entities": [
+        "Camp Kanawana",
+        "Chopsy"
+      ],
       "date_ref": null,
       "conflicts_with": [],
       "added_version": "4.9",
@@ -8143,10 +9028,14 @@
     {
       "fact_id": "f_0535",
       "claim": "The Cropsey Maniac legend was first academically documented by Haring and Breslerman in a survey of 11 New York City informants conducted in fall 1966, published in New York Folklore 3 (1977), pp. 15-27. Key finding: while all variants had different specific details, all significant plot events went relatively unchanged. The story was always localized to where the informant first heard it.",
-      "sources": ["src_haring_breslerman_1977"],
+      "sources": [
+        "src_haring_breslerman_1977"
+      ],
       "confidence": "stated",
       "category": "legends",
-      "entities": ["Cropsey"],
+      "entities": [
+        "Cropsey"
+      ],
       "date_ref": "1966",
       "conflicts_with": [],
       "added_version": "4.9",
@@ -8155,10 +9044,16 @@
     {
       "fact_id": "f_0536",
       "claim": "Documented name variants of the Cropsey character include: George Cropsey (judge/businessman), Jack Cropsey (caretaker/handyman), Judge Cropsey (scout leader), Old Man Cropsey (farmer/escaped prisoner), and Cropsy (film adaptation in The Burning, 1981). The 1982 film Madman changed the name to Madman Marz after discovering The Burning was already using the Cropsey concept.",
-      "sources": ["src_puzzlebox_cropsey_origins", "src_usc_folklore_cropsey"],
+      "sources": [
+        "src_puzzlebox_cropsey_origins",
+        "src_usc_folklore_cropsey"
+      ],
       "confidence": "stated",
       "category": "legends",
-      "entities": ["Cropsey", "Madman Marz"],
+      "entities": [
+        "Cropsey",
+        "Madman Marz"
+      ],
       "date_ref": null,
       "conflicts_with": [],
       "added_version": "4.9",
@@ -8167,10 +9062,17 @@
     {
       "fact_id": "f_0537",
       "claim": "'Chopsy' is hypothesized to be a Kanawana-specific local adaptation of the widespread 'escaped maniac with an axe' campfire story archetype, following the documented pattern where each camp localizes the story with its own name, setting, and details. The name evokes 'chopping' (with an axe), paralleling Cropsey/Cropsy, Stumpy, and Madman Marz. No direct documentary link between Chopsy and Cropsey has been established. This hypothesis requires oral history confirmation.",
-      "sources": ["src_oral_aronson", "src_haring_breslerman_1977"],
+      "sources": [
+        "src_oral_aronson",
+        "src_haring_breslerman_1977"
+      ],
       "confidence": "inferred",
       "category": "legends",
-      "entities": ["Camp Kanawana", "Chopsy", "Cropsey"],
+      "entities": [
+        "Camp Kanawana",
+        "Chopsy",
+        "Cropsey"
+      ],
       "date_ref": null,
       "conflicts_with": [],
       "added_version": "4.9",
@@ -8179,10 +9081,14 @@
     {
       "fact_id": "f_0538",
       "claim": "The 'Stumpy' ghost story (documented by John Kotula) is another named variant of the camp axe-murderer archetype. Stumpy is a one-armed psycho killer whose arm was severed by an axe accident. He threatens campers with 'I'm going to chop you!' The story has been scaring campers 'for at least half a century' and exists in many versions across many camps.",
-      "sources": ["src_puzzlebox_cropsey_origins"],
+      "sources": [
+        "src_puzzlebox_cropsey_origins"
+      ],
       "confidence": "stated",
       "category": "legends",
-      "entities": ["Stumpy"],
+      "entities": [
+        "Stumpy"
+      ],
       "date_ref": null,
       "conflicts_with": [],
       "added_version": "4.9",
@@ -8191,7 +9097,10 @@
     {
       "fact_id": "f_0539",
       "claim": "The 'maniac in the woods' campfire story archetype serves a documented social function at summer camps: it reinforces rules about not wandering into the woods alone at night, builds community through shared fear, and allows counselors to establish authority over campers. Folklorists Leslie Paris, Bill Ellis ('The Camp Mock-Ordeal Theater as Life', 1981), and Jan Harold Brunvand (The Vanishing Hitchhiker, 1981) have all studied these stories as social rituals and cautionary tales.",
-      "sources": ["src_haring_breslerman_1977", "src_usc_folklore_cropsey"],
+      "sources": [
+        "src_haring_breslerman_1977",
+        "src_usc_folklore_cropsey"
+      ],
       "confidence": "stated",
       "category": "legends",
       "entities": [],
@@ -8203,10 +9112,15 @@
     {
       "fact_id": "f_0540",
       "claim": "The Legend of Anson Minor is the most widespread camp ghost story in Ontario. It was documented by folklorist Edith Fowke (York University) in 'The Tale of Anson Minor: An Ontario Camp Legend' (Ethnologies 3:1, 1981, pp. 3-15). Fowke presented multiple previously unpublished versions, questioned the legend's historicity, and described the pattern of camp ghost stories in North America.",
-      "sources": ["src_fowke_anson_minor_1981"],
+      "sources": [
+        "src_fowke_anson_minor_1981"
+      ],
       "confidence": "stated",
       "category": "legends",
-      "entities": ["Anson Minor", "Edith Fowke"],
+      "entities": [
+        "Anson Minor",
+        "Edith Fowke"
+      ],
       "date_ref": "1981",
       "conflicts_with": [],
       "added_version": "4.10",
@@ -8215,10 +9129,17 @@
     {
       "fact_id": "f_0541",
       "claim": "The Anson Minor legend tells of a farmer who owned the land where a summer camp now stands. He suffered a gruesome farming accident (leg caught in thresher/plough), lost his leg, fell into ruin, and hanged himself in his barn. His ghost haunts the camp, limping through the fields carrying a green-glowing lantern. The legend is told at camps across Ontario and Nova Scotia, including Camp White Pine and Camp Kadimah.",
-      "sources": ["src_fowke_anson_minor_1981", "src_fireside_canada_anson_minor"],
+      "sources": [
+        "src_fowke_anson_minor_1981",
+        "src_fireside_canada_anson_minor"
+      ],
       "confidence": "stated",
       "category": "legends",
-      "entities": ["Anson Minor", "Camp White Pine", "Camp Kadimah"],
+      "entities": [
+        "Anson Minor",
+        "Camp White Pine",
+        "Camp Kadimah"
+      ],
       "date_ref": null,
       "conflicts_with": [],
       "added_version": "4.10",
@@ -8227,10 +9148,16 @@
     {
       "fact_id": "f_0542",
       "claim": "The Fireside Canada podcast (Episode 35, September 26, 2024, hosted by David Williams) devoted a 38-minute episode to the Legend of Anson Minor, tracing its origins to the original camp that spawned the story and the tragic events that inspired it. The podcast also covers La Chasse-Galerie (Episode 5, 2021) and other Canadian legends.",
-      "sources": ["src_fireside_canada_anson_minor"],
+      "sources": [
+        "src_fireside_canada_anson_minor"
+      ],
       "confidence": "stated",
       "category": "legends",
-      "entities": ["Anson Minor", "Fireside Canada", "David Williams"],
+      "entities": [
+        "Anson Minor",
+        "Fireside Canada",
+        "David Williams"
+      ],
       "date_ref": "2024",
       "conflicts_with": [],
       "added_version": "4.10",
@@ -8238,11 +9165,15 @@
     },
     {
       "fact_id": "f_0543",
-      "claim": "The Kamp Kanawana Marching Song (also called the Kanawana Cheer) is a call-and-response cheer that includes 'Hail, hail, the gang's all here' as its refrain. It is the most widely known Kanawana cheer. The song's lost verses — originally part of a three-verse song — were rediscovered in the Kanawana Archives at Concordia University in 2006. Only the first verse survives in the modern cheer.",
-      "sources": ["src_spirit_kanawana_blog"],
+      "claim": "The Kamp Kanawana Marching Song (also called the Kanawana Cheer) is a call-and-response cheer that includes 'Hail, hail, the gang's all here' as its refrain. It is the most widely known Kanawana cheer. The song's lost verses \u2014 originally part of a three-verse song \u2014 were rediscovered in the Kanawana Archives at Concordia University in 2006. Only the first verse survives in the modern cheer.",
+      "sources": [
+        "src_spirit_kanawana_blog"
+      ],
       "confidence": "stated",
       "category": "traditions",
-      "entities": ["Camp Kanawana"],
+      "entities": [
+        "Camp Kanawana"
+      ],
       "date_ref": "2006",
       "conflicts_with": [],
       "added_version": "4.11",
@@ -8251,10 +9182,16 @@
     {
       "fact_id": "f_0544",
       "claim": "The Kamp Kanawana Marching Song is not original to Kanawana. Its refrain 'Hail, hail, the gang's all here' derives from the 1915 American popular song 'Alabama Jubilee' (music by George L. Cobb, words by Jack Yellen, written under pseudonym D. A. Esrom / Dolly Morse), which was set to a tune originally composed by Arthur Sullivan for the comic opera The Pirates of Penzance. The same refrain is also the origin of the Glasgow Celtic football fight song.",
-      "sources": ["src_spirit_kanawana_blog", "src_wikipedia_alabama_jubilee"],
+      "sources": [
+        "src_spirit_kanawana_blog",
+        "src_wikipedia_alabama_jubilee"
+      ],
       "confidence": "stated",
       "category": "traditions",
-      "entities": ["Camp Kanawana", "Alabama Jubilee"],
+      "entities": [
+        "Camp Kanawana",
+        "Alabama Jubilee"
+      ],
       "date_ref": "1915",
       "conflicts_with": [],
       "added_version": "4.11",
@@ -8263,10 +9200,14 @@
     {
       "fact_id": "f_0545",
       "claim": "The cheer text from the Spirit of Kanawana blog includes elements such as 'Kamp Kanawana, are you ready?!', call-and-response marching, 'Our camping songs! We're gonna tramp, tramp, tramp on through the rain...', 'So let's sing, sing, sing, siiiinng!', and the camp name spelled out: 'K-A-N-A-W-A-N-A, Kanawana!'",
-      "sources": ["src_spirit_kanawana_blog"],
+      "sources": [
+        "src_spirit_kanawana_blog"
+      ],
       "confidence": "stated",
       "category": "traditions",
-      "entities": ["Camp Kanawana"],
+      "entities": [
+        "Camp Kanawana"
+      ],
       "date_ref": null,
       "conflicts_with": [],
       "added_version": "4.11",
@@ -8275,10 +9216,14 @@
     {
       "fact_id": "f_0546",
       "claim": "The 1922 camp cheer text in full reads: 'Yo Triumphy! Yo Triumphy! / Hoben Sloben Rebecca Leeammour, / De hoop de hoop de Shalla de Veer, / De boom de rye de hye de pop, / Whooneka Heeneka Waac de Waac, / Hob Dob de Bowl de Bara, / Con Slob de Hob Dob Rah, / Kanawana---Rah!' This is a nonsensical rallying chant typical of early 20th century camp cheers.",
-      "sources": ["src_brochure_1922"],
+      "sources": [
+        "src_brochure_1922"
+      ],
       "confidence": "stated",
       "category": "traditions",
-      "entities": ["Camp Kanawana"],
+      "entities": [
+        "Camp Kanawana"
+      ],
       "date_ref": "1922",
       "conflicts_with": [],
       "added_version": "4.11",
@@ -8287,10 +9232,14 @@
     {
       "fact_id": "f_0547",
       "claim": "The 1923 Gas Bag documents sing-songs as a central evening activity at Kanawana: 'the evenings around the fire with their story-telling and their sing-songs.' Multiple original camp songs with chorus structures were published in the Gas Bag, including 'Sunny, How Long' (a comic song about camp cook 'Sunny') and 'She Told Me So' (a multi-verse comic song). A song set to the tune of 'Yes, We Have No Bananas' (1923 hit) parodied the dining hall ice cream policy.",
-      "sources": ["src_gas_bag_1923"],
+      "sources": [
+        "src_gas_bag_1923"
+      ],
       "confidence": "stated",
       "category": "traditions",
-      "entities": ["Camp Kanawana"],
+      "entities": [
+        "Camp Kanawana"
+      ],
       "date_ref": "1923",
       "conflicts_with": [],
       "added_version": "4.11",
@@ -8299,10 +9248,14 @@
     {
       "fact_id": "f_0548",
       "claim": "In the summer of 1923, a 'Sing-Sing Service' was held around the Senior raft in the evening, suggesting a vesper-style group singing event on the water. The same summer featured a Senior 'Dumbell' Revue with a Spanish Dance and other performance elements.",
-      "sources": ["src_gas_bag_1923"],
+      "sources": [
+        "src_gas_bag_1923"
+      ],
       "confidence": "stated",
       "category": "traditions",
-      "entities": ["Camp Kanawana"],
+      "entities": [
+        "Camp Kanawana"
+      ],
       "date_ref": "1923",
       "conflicts_with": [],
       "added_version": "4.11",
@@ -8310,11 +9263,15 @@
     },
     {
       "fact_id": "f_0549",
-      "claim": "A 'musicale' — a formal musical performance — was held during the eighth week of the 1935 Kanawana season, described as 'a program without precedent in the annals of Kanawana' and 'a fine effort much appreciated by the whole camp.' This is the earliest documented formal musical event at Kanawana.",
-      "sources": ["src_history_1935"],
+      "claim": "A 'musicale' \u2014 a formal musical performance \u2014 was held during the eighth week of the 1935 Kanawana season, described as 'a program without precedent in the annals of Kanawana' and 'a fine effort much appreciated by the whole camp.' This is the earliest documented formal musical event at Kanawana.",
+      "sources": [
+        "src_history_1935"
+      ],
       "confidence": "stated",
       "category": "traditions",
-      "entities": ["Camp Kanawana"],
+      "entities": [
+        "Camp Kanawana"
+      ],
       "date_ref": "1935",
       "conflicts_with": [],
       "added_version": "4.11",
@@ -8323,10 +9280,17 @@
     {
       "fact_id": "f_0550",
       "claim": "In 1938, Benny Leshley organized a choir at the outdoor chapel to lead singing. The choir was still recruiting new members as of the July 29, 1938 Green Triangle. Leshley was identified as the organist of Christ Church Cathedral. Guest pianist Brock Brace (a Juvenile camper who also composed) performed in a musicale, playing one of his mother's compositions and taking requests. Sammy Shashley provided regular piano recitals.",
-      "sources": ["src_green_triangle_1938"],
+      "sources": [
+        "src_green_triangle_1938"
+      ],
       "confidence": "stated",
       "category": "traditions",
-      "entities": ["Benny Leshley", "Brock Brace", "Camp Kanawana", "Christ Church Cathedral"],
+      "entities": [
+        "Benny Leshley",
+        "Brock Brace",
+        "Camp Kanawana",
+        "Christ Church Cathedral"
+      ],
       "date_ref": "1938",
       "conflicts_with": [],
       "added_version": "4.11",
@@ -8335,10 +9299,14 @@
     {
       "fact_id": "f_0551",
       "claim": "The 1922 brochure describes a 'short morning devotional period at the breakfast table' as part of the religious program, along with 'the quiet period before lights out led by the tent leader' and 'Sunday services in the open-air chapel and around the fire.' This morning devotional is the earliest documented reference to a meal-time grace or prayer at Kanawana.",
-      "sources": ["src_brochure_1922"],
+      "sources": [
+        "src_brochure_1922"
+      ],
       "confidence": "stated",
       "category": "traditions",
-      "entities": ["Camp Kanawana"],
+      "entities": [
+        "Camp Kanawana"
+      ],
       "date_ref": "1922",
       "conflicts_with": [],
       "added_version": "4.11",
@@ -8347,10 +9315,15 @@
     {
       "fact_id": "f_0552",
       "claim": "The 1921 and 1922 brochures both list 'musical instruments' and 'music' among items campers should bring to camp, indicating that camper-supplied instruments were part of the camp music culture from at least 1921.",
-      "sources": ["src_brochure_1921", "src_brochure_1922"],
+      "sources": [
+        "src_brochure_1921",
+        "src_brochure_1922"
+      ],
       "confidence": "stated",
       "category": "traditions",
-      "entities": ["Camp Kanawana"],
+      "entities": [
+        "Camp Kanawana"
+      ],
       "date_ref": "1921",
       "conflicts_with": [],
       "added_version": "4.11",
@@ -8359,10 +9332,15 @@
     {
       "fact_id": "f_0553",
       "claim": "The Concordia Archives (P145/12B07 Program sub-series) contain: song sheets and skits from 1925 and 1927; Kanawana song books from 1941-1945; and a Canadian YMCA song book from 1941-1945. These are the only documented Kanawana-specific song collections in any known archive.",
-      "sources": ["src_concordia_atom_12B07"],
+      "sources": [
+        "src_concordia_atom_12B07"
+      ],
       "confidence": "stated",
       "category": "sources",
-      "entities": ["Concordia Archives", "Camp Kanawana"],
+      "entities": [
+        "Concordia Archives",
+        "Camp Kanawana"
+      ],
       "date_ref": "1925-1945",
       "conflicts_with": [],
       "added_version": "4.11",
@@ -8371,10 +9349,17 @@
     {
       "fact_id": "f_0554",
       "claim": "The Concordia Archives (P145/12B04 Communications sub-series) contain radio broadcasts for Kamp Kanawana promotion from 1936-1941, broadcast on Station CFCF Montreal. The June 26, 1941 broadcast transcript is digitized on the Internet Archive. CFCF (Canadian Marconi, est. 1922) was one of Canada's first radio stations.",
-      "sources": ["src_concordia_atom_12B04", "src_cfcf_1941"],
+      "sources": [
+        "src_concordia_atom_12B04",
+        "src_cfcf_1941"
+      ],
       "confidence": "stated",
       "category": "sources",
-      "entities": ["CFCF", "Concordia Archives", "Camp Kanawana"],
+      "entities": [
+        "CFCF",
+        "Concordia Archives",
+        "Camp Kanawana"
+      ],
       "date_ref": "1936-1941",
       "conflicts_with": [],
       "added_version": "4.11",
@@ -8383,10 +9368,14 @@
     {
       "fact_id": "f_0555",
       "claim": "The YMCA Quebec website describes Kanawana's contemporary experience as including 'sitting around a camp fire, singing call-and-response songs in the forest.' This confirms that campfire singing with call-and-response format remains a current tradition at the camp.",
-      "sources": ["src_ymca_website"],
+      "sources": [
+        "src_ymca_website"
+      ],
       "confidence": "stated",
       "category": "traditions",
-      "entities": ["Camp Kanawana"],
+      "entities": [
+        "Camp Kanawana"
+      ],
       "date_ref": null,
       "conflicts_with": [],
       "added_version": "4.11",
@@ -8395,10 +9384,16 @@
     {
       "fact_id": "f_0556",
       "claim": "Color War (known as L&V Games at Kanawana) traditionally includes team cheers and songs as a central component at YMCA camps across North America. Teams present songs, cheers, and an 'Alma Mater' during a culminating event called 'Sing.' Songs are typically rewrites of popular tunes with team-specific lyrics. This provides the likely framework for L&V section cheers at Kanawana.",
-      "sources": ["src_aca_camp_songs_history"],
+      "sources": [
+        "src_aca_camp_songs_history"
+      ],
       "confidence": "inferred",
       "category": "camp_culture",
-      "entities": ["L&V Games", "Color War", "YMCA"],
+      "entities": [
+        "L&V Games",
+        "Color War",
+        "YMCA"
+      ],
       "date_ref": null,
       "conflicts_with": [],
       "added_version": "4.11",
@@ -8406,11 +9401,16 @@
     },
     {
       "fact_id": "f_0557",
-      "claim": "On May 16, 2023, a fire completely destroyed the superintendent's house (maison du surintendant) at Camp Kanawana. The building was located on Montée Sainte-Elmire in the Spring Valley sector, isolated from the campers' area. A passerby called firefighters at 6 AM. Twenty-five firefighters from Saint-Sauveur, Morin-Heights, and Sainte-Anne-des-Lacs responded. No injuries (camp was unoccupied). Cause undetermined. Total loss.",
-      "sources": ["src_journal_acces_fire_2023"],
+      "claim": "On May 16, 2023, a fire completely destroyed the superintendent's house (maison du surintendant) at Camp Kanawana. The building was located on Mont\u00e9e Sainte-Elmire in the Spring Valley sector, isolated from the campers' area. A passerby called firefighters at 6 AM. Twenty-five firefighters from Saint-Sauveur, Morin-Heights, and Sainte-Anne-des-Lacs responded. No injuries (camp was unoccupied). Cause undetermined. Total loss.",
+      "sources": [
+        "src_journal_acces_fire_2023"
+      ],
       "confidence": "stated",
       "category": "facilities",
-      "entities": ["Camp Kanawana", "superintendent's house"],
+      "entities": [
+        "Camp Kanawana",
+        "superintendent's house"
+      ],
       "date_ref": "2023-05-16",
       "conflicts_with": [],
       "added_version": "4.12",
@@ -8419,10 +9419,15 @@
     {
       "fact_id": "f_0558",
       "claim": "The Camp Kanawana infirmary has 5 beds and a private washroom. An emergency oxygen tank and AED are available.",
-      "sources": ["src_ymca_website"],
+      "sources": [
+        "src_ymca_website"
+      ],
       "confidence": "stated",
       "category": "facilities",
-      "entities": ["Camp Kanawana", "infirmary"],
+      "entities": [
+        "Camp Kanawana",
+        "infirmary"
+      ],
       "date_ref": null,
       "conflicts_with": [],
       "added_version": "4.12",
@@ -8431,10 +9436,14 @@
     {
       "fact_id": "f_0559",
       "claim": "Camp Kanawana has a 30-foot rock climbing wall among its current facilities.",
-      "sources": ["src_ymca_website"],
+      "sources": [
+        "src_ymca_website"
+      ],
       "confidence": "stated",
       "category": "facilities",
-      "entities": ["Camp Kanawana"],
+      "entities": [
+        "Camp Kanawana"
+      ],
       "date_ref": null,
       "conflicts_with": [],
       "added_version": "4.12",
@@ -8443,10 +9452,14 @@
     {
       "fact_id": "f_0560",
       "claim": "Camp Kanawana has a separate pavilion for workshops and training sessions, listed as a distinct facility from other named pavilions.",
-      "sources": ["src_ymca_website"],
+      "sources": [
+        "src_ymca_website"
+      ],
       "confidence": "stated",
       "category": "facilities",
-      "entities": ["Camp Kanawana"],
+      "entities": [
+        "Camp Kanawana"
+      ],
       "date_ref": null,
       "conflicts_with": [],
       "added_version": "4.12",
@@ -8455,10 +9468,15 @@
     {
       "fact_id": "f_0561",
       "claim": "The Kamp Kanawana Marching Song (also known as the Kanawana Cheer) includes a hushing call-and-response ('Shhhh'), followed by 'Kamp Kanawana, are you ready?! Then let's go!', the refrain 'Hail, hail, the gang's all here', spelling 'K-A-N-A-W-A-N-A, Kanawana!', and ends with 'It's true!'",
-      "sources": ["src_spirit_kanawana_blog"],
+      "sources": [
+        "src_spirit_kanawana_blog"
+      ],
       "confidence": "stated",
       "category": "camp_culture",
-      "entities": ["Kanawana Marching Song", "Kanawana Cheer"],
+      "entities": [
+        "Kanawana Marching Song",
+        "Kanawana Cheer"
+      ],
       "date_ref": null,
       "conflicts_with": [],
       "added_version": "4.12",
@@ -8467,10 +9485,15 @@
     {
       "fact_id": "f_0562",
       "claim": "The lost verses of the Kanawana Marching Song were rediscovered in the Kanawana Archives at Concordia University in 2006. The original song had three verses; only the first verse survived as part of the current cheer. The document containing the lost verses was undated. The original author of the Kanawana Marching Song is unknown.",
-      "sources": ["src_spirit_kanawana_blog"],
+      "sources": [
+        "src_spirit_kanawana_blog"
+      ],
       "confidence": "stated",
       "category": "camp_culture",
-      "entities": ["Kanawana Marching Song", "Concordia University Archives"],
+      "entities": [
+        "Kanawana Marching Song",
+        "Concordia University Archives"
+      ],
       "date_ref": "2006",
       "conflicts_with": [],
       "added_version": "4.12",
@@ -8479,10 +9502,14 @@
     {
       "fact_id": "f_0563",
       "claim": "The lost verses of the Kanawana Marching Song reference 'our camping songs' and include the line 'We're gonna tramp, tramp, tramp on through the rain.'",
-      "sources": ["src_spirit_kanawana_blog"],
+      "sources": [
+        "src_spirit_kanawana_blog"
+      ],
       "confidence": "stated",
       "category": "camp_culture",
-      "entities": ["Kanawana Marching Song"],
+      "entities": [
+        "Kanawana Marching Song"
+      ],
       "date_ref": null,
       "conflicts_with": [],
       "added_version": "4.12",
@@ -8491,10 +9518,15 @@
     {
       "fact_id": "f_0564",
       "claim": "Matt Aronson created the Spirit of Kanawana blog (kanawana.blogspot.com) after a dinner with 'old kampers' where discussion turned to Kamp history and traditions. The blog is described as 'An open journal dedicated to the history, culture and traditions of Kamp Kanawana.' He signs posts with 'Non Nobis Solum, Matt.'",
-      "sources": ["src_spirit_kanawana_blog"],
+      "sources": [
+        "src_spirit_kanawana_blog"
+      ],
       "confidence": "stated",
       "category": "people",
-      "entities": ["Matt Aronson", "Spirit of Kanawana"],
+      "entities": [
+        "Matt Aronson",
+        "Spirit of Kanawana"
+      ],
       "date_ref": null,
       "conflicts_with": [],
       "added_version": "4.12",
@@ -8503,10 +9535,16 @@
     {
       "fact_id": "f_0565",
       "claim": "Matt Aronson has a theory that the Kanawana Marching Song arrived at Kamp via 'the tradition of Green Triangle.' He promised to elaborate in a future blog post, but no such post has been found.",
-      "sources": ["src_spirit_kanawana_blog"],
+      "sources": [
+        "src_spirit_kanawana_blog"
+      ],
       "confidence": "stated",
       "category": "camp_culture",
-      "entities": ["Matt Aronson", "Kanawana Marching Song", "Green Triangle"],
+      "entities": [
+        "Matt Aronson",
+        "Kanawana Marching Song",
+        "Green Triangle"
+      ],
       "date_ref": null,
       "conflicts_with": [],
       "added_version": "4.12",
@@ -8515,10 +9553,14 @@
     {
       "fact_id": "f_0566",
       "claim": "Matthew E. Aronson is an attorney at Adessky Attorneys (Westmount), primarily an immigration lawyer. He is a City Councillor for District 7, Westmount. He lives in Westmount with wife Jenny and daughters Abby and Nell. He is a McGill University Faculty of Law graduate and member of the YMCA Kanawana Alumni Awards committee.",
-      "sources": ["src_spirit_kanawana_blog"],
+      "sources": [
+        "src_spirit_kanawana_blog"
+      ],
       "confidence": "stated",
       "category": "people",
-      "entities": ["Matt Aronson"],
+      "entities": [
+        "Matt Aronson"
+      ],
       "date_ref": null,
       "conflicts_with": [],
       "added_version": "4.12",
@@ -8527,13 +9569,88 @@
     {
       "fact_id": "f_0567",
       "claim": "A Kanawana Flickr photo collection exists at flickr.com/photos/kanawana/ containing 4,416 photographs.",
-      "sources": ["src_flickr_kanawana"],
+      "sources": [
+        "src_flickr_kanawana"
+      ],
       "confidence": "stated",
       "category": "sources",
-      "entities": ["Camp Kanawana"],
+      "entities": [
+        "Camp Kanawana"
+      ],
       "date_ref": null,
       "conflicts_with": [],
       "added_version": "4.12",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_0568",
+      "claim": "Around 1948-49, an 18-year-old William Shatner worked as a volunteer counsellor at Camp B'nai Brith in Sainte-Agathe-des-Monts (approximately 30 km from Kanawana in the Laurentians), where he earned respect by acting out ghost stories going bunk to bunk each night. He credits this experience with pushing him toward acting.",
+      "sources": [
+        "src_web_globe_mail_shatner"
+      ],
+      "confidence": "stated",
+      "category": "folklore",
+      "entities": [
+        "William Shatner",
+        "Camp B'nai Brith",
+        "Sainte-Agathe-des-Monts"
+      ],
+      "date_ref": "1948-1949",
+      "conflicts_with": [],
+      "added_version": "v4.13",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_0569",
+      "claim": "The Quebec Loup-Garou legend is distinctive: transformation results from religious transgression (missing Mass for 7 consecutive Sundays), not from being bitten. The Quebec Gazette reported a werewolf attack on July 21, 1766, at St. Rock near Cap Mouraska.",
+      "sources": [
+        "src_web_quebec_folklore"
+      ],
+      "confidence": "stated",
+      "category": "folklore",
+      "entities": [
+        "Loup-Garou",
+        "Quebec"
+      ],
+      "date_ref": "1766",
+      "conflicts_with": [],
+      "added_version": "v4.13",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_0570",
+      "claim": "La Dame Blanche (White Lady of Montmorency Falls) is a Quebec ghost story about a bride whose fiance was killed at the Battle of Beauport (1759). La Corriveau (Marie-Josephe Corriveau, 1761) is one of Quebec's most enduring ghost stories.",
+      "sources": [
+        "src_web_quebec_folklore"
+      ],
+      "confidence": "stated",
+      "category": "folklore",
+      "entities": [
+        "La Dame Blanche",
+        "La Corriveau",
+        "Quebec"
+      ],
+      "date_ref": "1759-1761",
+      "conflicts_with": [],
+      "added_version": "v4.13",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_0571",
+      "claim": "Charles 'Smillie' Buckland attended Camp Kanawana from 1944 to 1951 and described being the 'first recipient of the coveted Green Triangle.' His memoir describes arriving by train from Montreal Central Station and bus up a gravel road to camp.",
+      "sources": [
+        "src_web_readers_digest_buckland"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "Charles Buckland",
+        "Camp Kanawana",
+        "Green Triangle"
+      ],
+      "date_ref": "1944-1951",
+      "conflicts_with": [],
+      "added_version": "v4.13",
       "added_by": "ralph_loop"
     }
   ]

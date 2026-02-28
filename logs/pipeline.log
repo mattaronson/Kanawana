@@ -580,3 +580,68 @@
   - OUTPUT: 11 new KB facts (f_0557-f_0567). 2 new sources (src_journal_acces_fire_2023, src_flickr_kanawana).
   - places-and-locations.md updated: superintendent's house fire, infirmary, climbing wall, workshop pavilion added. 2950 words, 15 sources.
   - KB: 567 facts, 102 sources (v4.12).
+2026-02-28T00:00:00Z | RESEARCH | myths-and-legends RALPH R3 additional web research
+  - TASK: Additional web research to complete R1 and advance myths-and-legends from stub to draft
+  - SEARCHES CONDUCTED (20+ queries):
+    1. "Camp Kanawana" ghost OR legend OR myth OR story → NO Kanawana-specific results
+    2. "Kamp Kanawana" tradition OR folklore → Spirit of Kanawana blog (already known), Marching Song (already documented)
+    3. Quebec summer camp ghost stories → William Shatner at Camp B'nai Brith (NEW LEAD), general Quebec folklore
+    4. YMCA camp Quebec legends folklore → No YMCA-specific camp legends found
+    5. "Camp Kanawana" haunted OR supernatural → Zero relevant results
+    6. Kanawana alumni stories memories traditions → Reader's Digest article with Kanawana alumni (Smillie Buckland 1944-51)
+    7. "La Chasse-Galerie" summer camp campfire → Confirmed as classic Quebec campfire tale, Beaugrand version details
+    8. Kanawana alumni Facebook group → No public group found; likely private if it exists
+    9. William Shatner camp B'nai Brith Laurentians ghost stories → CONFIRMED: Camp B'nai Brith in Sainte-Agathe, ~1948-49, ghost storytelling
+    10. kanawana.blogspot.com ghost legend → 403 blocked; blog focused on history/traditions, not ghost stories
+    11. "Camp Kanawana" OR "Kamp Kanawana" reddit → Zero Reddit posts found
+    12. "Camp Kanawana" Chopsy OR ghost story campfire → Zero results (confirms R2 findings)
+    13. Quebec Laurentians camp legend maniac/axe/ghost → No Laurentian camp-specific legends found
+    14. "YMCA camp" Quebec ghost story legend → YMCA Camp Minikani director on "legends and lores" trend
+    15. Haunted places Laurentides Saint-Sauveur → No haunted places near camp site documented
+    16. Camp B'nai Brith Laurentians ghost stories → No camp-specific legends; Shatner connection only
+    17. La Corriveau summer camp campfire → No camp-specific usage documented
+    18. Kanawana spirit walk / night hike / initiation → Zero results
+    19. Camp Kanawana "Le Capitaine" legend → Capitaine is L&V games leader, not a legend/ghost story
+    20. Camp Kanawana scary/spooky/creepy night → Reader's Digest mentions "ghost tales" in general camp description
+    21. Dame Blanche / white lady Quebec summer camp → Confirmed as classic Quebec campfire tale but no camp-specific link
+    22. Loup-garou Quebec campfire story → Rich folklore context; Quebec Gazette 1766 werewolf report
+    23. Edith Fowke camp ghost story Canada → Confirmed as key folklorist; Folklore of Canada covers camp tales
+    24. "Transitioning Traditions" Indian Council Ring → Camp Ahmek case study (Wilkes, Kennedy, Shore 2018)
+  - NEW FINDINGS:
+    * William Shatner ghost storytelling at Camp B'nai Brith (Sainte-Agathe, Laurentians, ~1948-49): parallel tradition at neighboring Laurentian camp; Shatner earned respect through ghost story performance
+    * Smillie Buckland (1944-51) memoir in Reader's Digest: first Green Triangle recipient, but no ghost story content
+    * Jon McLaren (YMCA Camp Minikani): camps rebranding ghost stories as "legends and lores" — trend context
+    * La Dame Blanche / White Lady: additional Quebec folklore candidate for campfire repertoire (Montmorency Falls, Battle of Beauport 1759)
+    * Loup-garou: Quebec Gazette 1766 werewolf report; Jean Plante story; distinctive Quebec variant (religious transgression curse, not bite)
+    * Wilkes/Kennedy/Shore 2018: "Transitioning Traditions Take Two" — Camp Ahmek Council Ring decolonization (8-year study)
+  - DEAD ENDS:
+    * No Kanawana-specific ghost stories in any online source (confirms R1+R2 findings)
+    * No Kanawana alumni Facebook group accessible via web search
+    * No Reddit discussions about Camp Kanawana
+    * No haunted places documented near the camp site (Saint-Sauveur/Sainte-Adele)
+    * Spirit of Kanawana blog (kanawana.blogspot.com) blocked; no ghost story content in indexed pages
+    * No camp-specific use of La Corriveau, La Dame Blanche, or Loup-garou at Kanawana documented
+    * Chopsy: remains completely undocumented online (third confirmation)
+  - LOOP DECISION: CONCLUDE — Research SATURATED for online sources. Three RALPH loops (R1+R2+R3) have yielded comprehensive coverage. All findable online material has been found. Remaining gaps require oral history or archival access.
+  - OUTPUT: No new KB facts warranted (contextual findings only). Shatner lead is interesting parallel but not directly Kanawana-related.
+
+2026-02-28T00:00:00Z | WRITE + VERIFY + REVIEW | Batch advancement of 5 articles
+  - j-w-mcconnell: stub → draft → R3-verified → E1-reviewed
+    * RALPH R1 completed (online sources saturated). 16 KB facts, 5 sources.
+    * VERIFY: All claims verified against Wikipedia cache and McConnell Foundation page. Dates, family details, YMCA connection all confirmed.
+    * E1: Cross-links verified (lake-wilson ↔ j-w-mcconnell ↔ the-kanawana-site). Encyclopedic quality confirmed. Lake Wilson naming question properly balanced.
+  - lake-wilson: stub → draft → R3-verified → E1-reviewed
+    * RALPH R1 completed. 8 KB facts, 5 sources.
+    * VERIFY: All claims verified — 3 lakes (f_0023), dam ceremony (f_0024, 1935 source line 84), naming origin unknown (f_0525).
+    * E1: Backlinks from j-w-mcconnell, the-kanawana-site, places-and-locations. No unsourced speculation.
+  - myths-and-legends: stub → draft → R3-verified → E1-reviewed
+    * RALPH R1+R2+R3 completed. 19 sources, 32 facts. Research SATURATED.
+    * VERIFY: 5 incorrect fact ID references corrected (f_0336→f_0228, f_0337→f_0229, f_0339→f_0408, f_0310→f_0231, f_0313→f_0233). All claims confirmed.
+    * E1: Cross-links verified. Quebec folklore section expanded with La Dame Blanche, La Corriveau, Loup-garou details, Shatner parallel.
+    * 4 new KB facts added (f_0568-f_0571): Shatner ghost stories at Camp B'nai Brith, Quebec Loup-Garou detail, La Dame Blanche/La Corriveau, Charles Buckland memoir.
+  - camp-songs-cheers: draft → R3-verified → E1-reviewed
+    * VERIFY: All 21 facts verified against cached sources (Gas Bag, 1922 brochure, 1935 history, 1938 Green Triangle). Eighth-week musicale confirmed (line 77). Leshley/Christ Church confirmed (line 161). Cross-link path fixed (pip-alumni-award: people/ → programs/).
+    * E1: Reciprocal backlinks added to traditions-and-culture. All open questions actionable.
+  - places-and-locations: RALPH R1 web research in progress (background agent)
+  - KB: 571 facts, 102+ sources (v4.13)
+  - Article totals: 25 E1-reviewed, 0 R3-verified, 1 draft (ralph-dawson, blocked), 1 stub (places-and-locations)

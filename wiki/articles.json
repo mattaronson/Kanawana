@@ -459,7 +459,7 @@
       ],
       "file_id": "1KW2yhoZ-wr_71sTPbLJ3v81KW4ZEJ_p-",
       "word_count": 2100,
-      "notes": "E1 REVIEW (2026-02-19): Fixed source header (src_ymca_facts→src_kanawana_facts), added Spectrum URL for McMorris thesis, added IA URLs for Facts sheet and Gas Bag. All claims cited, dates consistent, names cross-checked, tone encyclopedic. Advanced R3-verified → E1-reviewed."
+      "notes": "E1 REVIEW (2026-02-19): Fixed source header (src_ymca_facts\u2192src_kanawana_facts), added Spectrum URL for McMorris thesis, added IA URLs for Facts sheet and Gas Bag. All claims cited, dates consistent, names cross-checked, tone encyclopedic. Advanced R3-verified \u2192 E1-reviewed."
     },
     {
       "article_id": "programs-activities",
@@ -612,7 +612,7 @@
       ],
       "file_id": "1oqLoU6_bzWD_9jXwXQgYNm_EqLCEfNjR",
       "word_count": 2100,
-      "notes": "E1 REVIEW (2026-02-19): All claims cited, dates consistent, names cross-checked, tone encyclopedic, cross-links valid, open questions actionable, no redundancy with sibling articles. Advanced R3-verified → E1-reviewed."
+      "notes": "E1 REVIEW (2026-02-19): All claims cited, dates consistent, names cross-checked, tone encyclopedic, cross-links valid, open questions actionable, no redundancy with sibling articles. Advanced R3-verified \u2192 E1-reviewed."
     },
     {
       "article_id": "ralph-dawson",
@@ -829,7 +829,7 @@
       ],
       "file_id": null,
       "word_count": 2400,
-      "notes": "E1 REVIEW (2026-02-19): PASS — all 7 checklist items satisfied. No fixes needed. Advanced R3-verified → E1-reviewed."
+      "notes": "E1 REVIEW (2026-02-19): PASS \u2014 all 7 checklist items satisfied. No fixes needed. Advanced R3-verified \u2192 E1-reviewed."
     },
     {
       "article_id": "sources-index",
@@ -969,7 +969,7 @@
       ],
       "file_id": null,
       "word_count": 750,
-      "notes": "E1 REVIEW (2026-02-19): Added inline ^1-^5 citations throughout body text. Standardized all name mentions to 'Harold C. Cross'. Added Related Articles section. Added priority tags to Open Questions. Advanced R3-verified → E1-reviewed."
+      "notes": "E1 REVIEW (2026-02-19): Added inline ^1-^5 citations throughout body text. Standardized all name mentions to 'Harold C. Cross'. Added Related Articles section. Added priority tags to Open Questions. Advanced R3-verified \u2192 E1-reviewed."
     },
     {
       "article_id": "centennial-1967",
@@ -1230,7 +1230,7 @@
       ],
       "file_id": null,
       "word_count": 700,
-      "notes": "E1 REVIEW (2026-02-19): PASS — all 7 checklist items satisfied. No fixes needed. Advanced R3-verified → E1-reviewed."
+      "notes": "E1 REVIEW (2026-02-19): PASS \u2014 all 7 checklist items satisfied. No fixes needed. Advanced R3-verified \u2192 E1-reviewed."
     },
     {
       "article_id": "cushing-family",
@@ -1311,7 +1311,7 @@
       ],
       "file_id": null,
       "word_count": 1200,
-      "notes": "E1 REVIEW (2026-02-19): Fixed Frederick row in Eight Sons table (birthplace clarified in Occupation column). All 7 checklist items satisfied. Advanced R3-verified → E1-reviewed."
+      "notes": "E1 REVIEW (2026-02-19): Fixed Frederick row in Eight Sons table (birthplace clarified in Occupation column). All 7 checklist items satisfied. Advanced R3-verified \u2192 E1-reviewed."
     },
     {
       "article_id": "traditions-and-culture",
@@ -1829,13 +1829,31 @@
       "article_id": "j-w-mcconnell",
       "title": "J.W. McConnell",
       "wiki_folder": "people",
-      "status": "stub",
+      "status": "E1-reviewed",
       "status_history": [
         {
           "status": "stub",
           "at": "2026-02-26T00:00:00Z",
           "by": "auto",
           "task": "RESEARCH"
+        },
+        {
+          "status": "draft",
+          "at": "2026-02-28T05:43:39Z",
+          "by": "auto",
+          "task": "WRITE"
+        },
+        {
+          "status": "R3-verified",
+          "at": "2026-02-28T05:51:22Z",
+          "by": "auto",
+          "task": "VERIFY"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-02-28T05:51:22Z",
+          "by": "auto",
+          "task": "REVIEW"
         }
       ],
       "ralph_loops_completed": 1,
@@ -1862,7 +1880,7 @@
         "src_mcconnell_foundation",
         "src_oral_aronson",
         "src_fong_mcconnell_2008",
-        "src_gas_bag_1923"
+        "src_kanawana_facts"
       ],
       "open_questions": 6,
       "cross_links": [
@@ -1872,20 +1890,38 @@
         "cushing-family"
       ],
       "file_id": null,
-      "word_count": 1100,
-      "notes": "RALPH R1 (2026-02-26): Lake Wilson naming claim CANNOT BE VERIFIED — plausible but no documentary evidence. McConnell family tree confirmed. YMCA connection 1901-1963 documented. 10 new KB facts (f_0516-f_0525). 1 new source (Fong biography). Research SATURATED for online sources."
+      "word_count": 750,
+      "notes": "RALPH R1 (2026-02-26): Lake Wilson naming claim CANNOT BE VERIFIED \u2014 plausible but no documentary evidence. McConnell family tree confirmed. YMCA connection 1901-1963 documented. 10 new KB facts (f_0516-f_0525). 1 new source (Fong biography). Research SATURATED for online sources."
     },
     {
       "article_id": "lake-wilson",
       "title": "Lake Wilson",
       "wiki_folder": "places",
-      "status": "stub",
+      "status": "E1-reviewed",
       "status_history": [
         {
           "status": "stub",
           "at": "2026-02-26T00:00:00Z",
           "by": "auto",
           "task": "RESEARCH"
+        },
+        {
+          "status": "draft",
+          "at": "2026-02-28T05:43:39Z",
+          "by": "auto",
+          "task": "WRITE"
+        },
+        {
+          "status": "R3-verified",
+          "at": "2026-02-28T05:51:22Z",
+          "by": "auto",
+          "task": "VERIFY"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-02-28T05:51:22Z",
+          "by": "auto",
+          "task": "REVIEW"
         }
       ],
       "ralph_loops_completed": 1,
@@ -1914,14 +1950,14 @@
         "traditions-and-culture"
       ],
       "file_id": null,
-      "word_count": 750,
+      "word_count": 650,
       "notes": "RALPH R1 (2026-02-26): Two parallel research agents. First reference 1923 (Gas Bag). Dam ceremony since 1935. Two separate Lac Wilsons in region (camp vs Saint-Adolphe-d'Howard). Naming origin UNKNOWN."
     },
     {
       "article_id": "myths-and-legends",
       "title": "Kanawana Myths and Legends",
       "wiki_folder": "context",
-      "status": "stub",
+      "status": "E1-reviewed",
       "status_history": [
         {
           "status": "stub",
@@ -1934,33 +1970,48 @@
           "at": "2026-02-27T00:00:00Z",
           "by": "auto",
           "task": "RESEARCH"
+        },
+        {
+          "status": "draft",
+          "at": "2026-02-28T05:44:18Z",
+          "by": "auto",
+          "task": "WRITE"
+        },
+        {
+          "status": "R3-verified",
+          "at": "2026-02-28T05:49:16Z",
+          "by": "auto",
+          "task": "VERIFY"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-02-28T05:50:01Z",
+          "by": "auto",
+          "task": "REVIEW"
         }
       ],
       "ralph_loops_completed": 1,
       "kb_facts_used": [
         "f_0135",
+        "f_0196",
+        "f_0226",
+        "f_0227",
+        "f_0228",
+        "f_0229",
+        "f_0231",
+        "f_0233",
         "f_0248",
         "f_0249",
         "f_0250",
         "f_0261",
         "f_0262",
         "f_0304",
-        "f_0310",
-        "f_0313",
-        "f_0336",
-        "f_0337",
-        "f_0339",
+        "f_0408",
         "f_0411",
         "f_0412",
         "f_0413",
         "f_0526",
         "f_0527",
-        "f_0528",
-        "f_0529",
-        "f_0530",
-        "f_0531",
-        "f_0532",
-        "f_0533",
         "f_0534",
         "f_0535",
         "f_0536",
@@ -1972,7 +2023,6 @@
         "f_0542"
       ],
       "sources_cited": [
-        "src_oral_aronson",
         "src_ymca_website",
         "src_concordia_atom_12B04",
         "src_mcmorris_thesis",
@@ -1982,11 +2032,16 @@
         "src_wikipedia_big_cove",
         "src_kanawana_facts",
         "src_concordia_fonds",
-        "src_web_cropsey_2026",
-        "src_web_quebec_folklore_2026",
+        "src_oral_aronson",
+        "src_haring_breslerman_1977",
+        "src_usc_folklore_cropsey",
+        "src_puzzlebox_cropsey_origins",
         "src_fowke_anson_minor_1981",
         "src_fireside_canada_anson_minor",
-        "src_fireside_canada_chasse_galerie"
+        "src_fireside_canada_chasse_galerie",
+        "src_kotula_stumpy",
+        "src_cropsey_documentary",
+        "src_slate_camp_ghost_2019"
       ],
       "open_questions": 8,
       "cross_links": [
@@ -1998,14 +2053,14 @@
         "canadian-camping-movement"
       ],
       "file_id": null,
-      "word_count": 2800,
+      "word_count": 2811,
       "notes": "R1-R2 RALPH completed 2026-02-27. Four myths documented (oldest camp, name meaning, Indian heritage, founding narrative). Legends: haunted house (1935), Cropsey archetype, Anson Minor (Canadian parallel), Chopsy (Kanawana-local). Quebec folklore context. Fireside Canada podcast as source. 17 KB facts cited. 19 sources. Chopsy needs oral history."
     },
     {
       "article_id": "camp-songs-cheers",
       "title": "Camp Songs, Cheers, and Musical Traditions",
       "wiki_folder": "programs",
-      "status": "draft",
+      "status": "E1-reviewed",
       "status_history": [
         {
           "status": "stub",
@@ -2018,16 +2073,26 @@
           "at": "2026-02-27T12:00:00Z",
           "by": "auto",
           "task": "RESEARCH"
+        },
+        {
+          "status": "R3-verified",
+          "at": "2026-02-28T05:45:58Z",
+          "by": "auto",
+          "task": "VERIFY"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-02-28T05:47:31Z",
+          "by": "auto",
+          "task": "REVIEW"
         }
       ],
       "ralph_loops_completed": 1,
       "kb_facts_used": [
-        "f_0121",
-        "f_0141",
         "f_0154",
         "f_0283",
-        "f_0299",
         "f_0388",
+        "f_0299",
         "f_0459",
         "f_0468",
         "f_0469",

@@ -1,7 +1,7 @@
 # Kanawana Myths and Legends
 
-*Status: stub | Sources: 19*
-*Last Updated: 2026-02-27*
+*Status: E1-reviewed | Sources: 19*
+*Last Updated: 2026-02-28 (E1 REVIEW completed)*
 
 ## Overview
 
@@ -33,9 +33,9 @@ The naming may also reflect the broader practice of YMCA and summer camps adopti
 
 ### Myth 3: "Indian" Heritage and the Council Ring
 
-Camp Kanawana's early decades featured extensive Indigenous-themed programming that was common across North American summer camps of the era but had no authentic connection to local Indigenous peoples. By 1922, Kanawana was a **chartered tribe in the Woodcraft League of America** [f_0304], with campers called "Braves" who met "in the Lodges around the Council Fire" [src_brochure_1922]. The Council Ring was built in 1922 [f_0310], and by 1923 the camp featured "Real Indian dancing at Council Ring" [src_gas_bag_1923]. A totem pole was added in 1927 [f_0313], and in 1935 the camp held a "Council of the Tribes of Kanawana" [src_history_1935].
+Camp Kanawana's early decades featured extensive Indigenous-themed programming that was common across North American summer camps of the era but had no authentic connection to local Indigenous peoples. By 1922, Kanawana was a **chartered tribe in the Woodcraft League of America** [f_0304], with campers called "Braves" who met "in the Lodges around the Council Fire" [src_brochure_1922]. The Council Ring was built in 1922 [f_0231], and by 1923 the camp featured "Real Indian dancing at Council Ring" [src_gas_bag_1923]. A totem pole was added in 1927 [f_0233], and in 1935 the camp held a "Council of the Tribes of Kanawana" [src_history_1935].
 
-This "playing Indian" tradition was common across Canadian camps of the era. Ernest Thompson Seton created the Indian Council Ring format at Taylor Statten's camp in 1922, and it spread rapidly [f_0261, f_0262]. The McMorris thesis devotes an entire chapter to "playing Indian" at Kanawana, examining how "the overlapping currents of religion, colonialism, and national identity practice took shape" at the camp [f_0339]. An "Indian Grave" marking existed on the Kanawana camp map [f_0336], and Indian characters were depicted on camp maps [f_0337].
+This "playing Indian" tradition was common across Canadian camps of the era. Ernest Thompson Seton created the Indian Council Ring format at Taylor Statten's camp in 1922, and it spread rapidly [f_0261, f_0262]. The McMorris thesis devotes an entire chapter to "playing Indian" at Kanawana, examining how "the overlapping currents of religion, colonialism, and national identity practice took shape" at the camp [f_0408]. An "Indian Grave" marking existed on the Kanawana camp map [f_0228], and Indian characters were depicted on camp maps [f_0229].
 
 Today, the camp has moved away from these practices. The 2023 McMorris thesis and related academic work (e.g., Wilkes & Kennedy, "Transitioning Traditions: Rectifying an Ontario Camp's Indian Council Ring") examine how camps across Canada have grappled with this legacy.
 
@@ -98,10 +98,12 @@ The name "Chopsy" -- evoking "chopping" with an axe -- closely parallels the nam
 Quebec has a rich folklore tradition that would have influenced campfire storytelling at Kanawana. The most relevant legends include:
 
 - **La Chasse-Galerie** (The Flying Canoe): Lumberjacks make a pact with the devil to fly home in a canoe on New Year's Eve; the canoe soars over the Laurentians. Given Kanawana's canoe culture and Laurentian setting, this legend has natural resonance.
-- **Le Loup-Garou**: A person who fails to attend Easter confession for seven years is cursed to transform into a beast at night. Unlike the European werewolf, this creature often takes the form of a large farm animal.
+- **Le Loup-Garou**: A person who misses Mass for seven consecutive Sundays is cursed to transform into a beast at night [f_0569]. Unlike the European werewolf, which transforms through a bite, the Quebec version results from religious transgression. The *Quebec Gazette* reported a werewolf attack on July 21, 1766, at St. Rock near Cap Mouraska — one of the earliest documented "sightings" in North American journalism [f_0569].
 - **Le Beau Danseur**: The devil appears at a village dance disguised as a handsome stranger, with over 200 versions across Quebec.
+- **La Dame Blanche** (White Lady of Montmorency Falls): The ghost of a bride whose fiancé was killed at the Battle of Beauport (1759), seen wandering the falls in her wedding dress [f_0570].
+- **La Corriveau** (Marie-Josèphe Corriveau, 1761): One of Quebec's most enduring ghost stories. Corriveau was convicted of murder and her body was publicly displayed in an iron gibbet, inspiring centuries of legend [f_0570].
 
-These Quebec folk traditions may have been told at Kanawana campfires alongside camp-specific legends and English-language camp ghost story archetypes.
+These Quebec folk traditions are strong candidates for Kanawana campfire storytelling, though no direct evidence of any being told at Kanawana has been found. Ghost storytelling was, however, an active tradition at Laurentian summer camps of the era: around 1948–49, an 18-year-old William Shatner worked as a volunteer counsellor at Camp B'nai Brith in Sainte-Agathe-des-Monts (approximately 30 km from Kanawana), where he earned campers' respect specifically by acting out ghost stories bunk to bunk each night [f_0568].
 
 ## Open Questions
 

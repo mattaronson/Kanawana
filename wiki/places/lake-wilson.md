@@ -1,7 +1,7 @@
 # Lake Wilson
 
-*Status: stub | Sources: src_mysummercamps_kanawana, src_gas_bag_1923, src_history_1935, src_ymca_website, src_oral_aronson*
-*Last Updated: 2026-02-26*
+*Status: E1-reviewed | Sources: src_mysummercamps_kanawana, src_gas_bag_1923, src_history_1935, src_ymca_website, src_oral_aronson*
+*Last Updated: 2026-02-28 (E1 REVIEW completed)*
 
 ## Overview
 
