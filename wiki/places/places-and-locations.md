@@ -1,7 +1,7 @@
 # Places and Locations at Camp Kanawana
 
-*Status: stub | Sources: src_ymca_website, src_kanawana_facts, src_brochure_1921, src_brochure_1922, src_brochure_1923, src_gas_bag_1923, src_history_1935, src_green_triangle_1938, src_mcmorris_thesis, src_concordia_fonds, src_mysummercamps_kanawana, src_lapresse_ymca_2018, src_journal_acces_fire_2023, src_oral_aronson*
-*Last Updated: 2026-02-27*
+*Status: E1-reviewed | Sources: 18*
+*Last Updated: 2026-02-28 (E1 REVIEW completed — Ross & Macdonald discovery, Clivus Multrum, McConnell Foundation integrated)*
 
 ## Overview
 
@@ -20,7 +20,7 @@ The traditional residential core of the camp, consisting of small cabins without
 - **Coureurs des Bois** (ages 12–13): 14 prospector tents [src_ymca_website]
 - **Pathfinders** (ages 14–15): Same tent area as Coureurs des Bois [src_ymca_website]
 
-These section names date to 1959, when they replaced the earlier Junior, Juvenile, and Senior designations used since at least 1938 [f_0229, f_0230, f_0231]. The 1959 names remain in use today [f_0231].
+These section names date to 1959, when they replaced the earlier Junior, Juvenile, and Senior designations used since at least 1938 [f_0216]. The 1959 names remain in use today [f_0217].
 
 In the camp's earliest years, boys slept in tents with wood floors, each housing eight to ten boys under a tent leader [src_brochure_1923].
 
@@ -96,13 +96,13 @@ A 30-foot rock climbing wall is among the camp's current facilities [src_ymca_we
 
 ### Desjardins Pavilion (2018)
 
-In 2018, Desjardins donated $1 million to the YMCA for renovations at Camp Kanawana, including a new community pavilion described as the "new heart of Kanawana" to increase the camp's capacity and expand its environmental education mission [src_lapresse_ymca_2018]. The McConnell Foundation has also funded major renovations at the camp [f_0525]. Whether this pavilion was constructed as announced has not been confirmed in subsequent reporting.
+In 2018, Desjardins donated $1 million to the YMCA for renovations at Camp Kanawana, including a new community pavilion described as the "new heart of Kanawana" to increase the camp's capacity and expand its environmental education mission [src_lapresse_ymca_2018]. The McConnell Foundation provided $700,000 (2023–2027) for major renovations at the camp [f_0575]. Whether the Desjardins Pavilion was constructed as announced has not been confirmed in subsequent reporting.
 
 ## Current Outdoor Facilities
 
 - **Gaga Ball Pit**: An octagonal court for the gaga ball game [src_ymca_website]
 - **Low Ropes Course**: Team-building activity course [src_ymca_website]
-- **Archery Range**: Also documented historically — the camp had an archery range as early as the 1930s [f_0243]
+- **Archery Range**: Also documented historically — the camp had an archery range [f_0230]
 - **Rock Climbing Wall**: 30-foot climbing wall [src_ymca_website]
 - **Activity/Sports Field** [src_ymca_website]
 - **Fire Bowls**: For campfires and cookouts, part of the camp's outdoor program [src_ymca_website]
@@ -115,9 +115,13 @@ In 2018, Desjardins donated $1 million to the YMCA for renovations at Camp Kanaw
 
 A second pavilion built alongside the Dining Pavilion in 1922, described as a "lakeside Pavilion" that "takes care of the campers" in rainy weather and "provides accommodation for indoor games and recreation" [src_brochure_1922]. The 1923 brochure describes two "spacious pavilions, one for dining and one for recreation in wet weather — the latter having a large open fireplace" [src_brochure_1923]. Whether this structure survives in some form (as the Activity Lodge, the Beach Lodge, or another building) or was demolished is unknown.
 
+### Doctor's Cottage (Ross & Macdonald)
+
+The **Canadian Centre for Architecture (CCA)** holds architectural drawings in the **Ross & Macdonald fonds** for a **"Doctor's Cottage for Kamp Kanawana"** [f_0573]. Ross & Macdonald was one of Canada's most prominent architectural firms (active 1904–1946), responsible for the Château Laurier, Royal York Hotel, Mount Royal Hotel, and Maple Leaf Gardens [f_0574]. The firm designed "several buildings for the YMCA in Montreal (1909–13)," placing the Doctor's Cottage likely in that period. Whether the Doctor's Cottage was built, and its relationship to the 1922 Hospital (below), remain unknown. The CCA drawings have not been examined.
+
 ### Hospital (1922)
 
-A new hospital building was erected in 1922, which "assures comfortable quarters should any boy become ill" [src_brochure_1922]. The 1923 brochure describes it as "a well equipped hospital building where any sick are taken care of" [src_brochure_1923]. Whether the original hospital building still exists or has been replaced is unknown.
+A new hospital building was erected in 1922, which "assures comfortable quarters should any boy become ill" [src_brochure_1922]. The 1923 brochure describes it as "a well equipped hospital building where any sick are taken care of" [src_brochure_1923]. Whether the original hospital building still exists or has been replaced is unknown. The Ross & Macdonald "Doctor's Cottage" architectural drawings (above) may refer to this building or an earlier structure.
 
 ### Outdoor Chapel
 
@@ -145,7 +149,7 @@ A building known as "the haunted house" existed at Kanawana by 1935. The 1935 se
 
 ### Lacrosse Field
 
-A lacrosse field was among the historical camp facilities [f_0243]. The sport reflects early twentieth-century YMCA athletic programming. Lacrosse is not listed among current camp activities.
+A lacrosse field was among the historical camp facilities [f_0230]. The sport reflects early twentieth-century YMCA athletic programming. Lacrosse is not listed among current camp activities.
 
 ### "Indian Grave" Marking
 
@@ -158,6 +162,10 @@ On May 16, 2023, a fire completely destroyed the **maison du surintendant** (sup
 ### KoiNobori (1935)
 
 In 1935, Mr. Ernest Trueman presented the camp "on behalf of the youth of Japan a goodwill offering in the shape of a 'KoiNobori' or huge flag-effigy of a Carp such as are common in Japan" [src_history_1935]. This Japanese carp streamer flag was a cultural exchange gift reflecting the international YMCA movement. Its fate is unknown.
+
+### Composting Toilet System (Clivus Multrum)
+
+Camp Kanawana replaced its old septic system with a **Clivus Multrum** composting toilet installation to protect Lake Kanawana from pollution [f_0572]. The system consists of **16 commercial composters** accommodating 22,500 uses each per year, **32 dry toilets**, and **2 central buildings** containing all bathroom and shower facilities. The installation saves an estimated 576,000 gallons of water annually [f_0572]. The installation date has not been documented.
 
 ## Infrastructure
 
@@ -216,11 +224,13 @@ From 1977 to 1980, plans existed for a proposed two-site camping operation using
 | 1929 | Council Ring rebuilt to seat 325 | [f_0235] |
 | 1935 | Golf course, open-air chapel, and "the haunted house" all referenced | [src_history_1935] |
 | 1938 | Dining pavilion/hall, outdoor chapel with choir documented | [src_green_triangle_1938] |
-| 1959 | Section names changed to Pioneers, Woodsmen, Coureurs des Bois, Pathfinders | [f_0229] |
+| 1959 | Section names changed to Pioneers, Woodsmen, Coureurs des Bois, Pathfinders | [f_0216] |
 | 1970s | Totem pole still visible in photographs | [f_0227] |
 | 1980 | Nature trail development discussed | [src_ka_news_1980] |
+| c.1909-13 | Ross & Macdonald designs "Doctor's Cottage for Kamp Kanawana" (CCA drawings) | [f_0573] |
 | 2018 | Desjardins donates $1M for new community pavilion | [src_lapresse_ymca_2018] |
 | 2023 | Superintendent's house destroyed by fire (May 16) | [src_journal_acces_fire_2023] |
+| 2023-27 | McConnell Foundation provides $700K for major renovations | [f_0575] |
 
 ## Open Questions
 
@@ -267,3 +277,6 @@ From 1977 to 1980, plans existed for a proposed two-site camping operation using
 13. *KA News*, May 1980 [src_ka_news_1980]
 14. Journal Accès, "Un bâtiment du Camp YMCA Kanawana ravagé par les flammes" (May 16, 2023) [src_journal_acces_fire_2023]
 15. Oral history, Matt Aronson [src_oral_aronson]
+16. Clivus Multrum, Parks & Recreation Projects portfolio [src_clivus_multrum_projects]
+17. Canadian Centre for Architecture, Ross & Macdonald fonds, "Doctor's Cottage for Kamp Kanawana" [src_cca_ross_macdonald_kanawana]
+18. McConnell Foundation, "YMCAs of Quebec" funding database [src_mcconnell_foundation_ymca]

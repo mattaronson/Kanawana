@@ -645,3 +645,73 @@
   - places-and-locations: RALPH R1 web research in progress (background agent)
   - KB: 571 facts, 102+ sources (v4.13)
   - Article totals: 25 E1-reviewed, 0 R3-verified, 1 draft (ralph-dawson, blocked), 1 stub (places-and-locations)
+
+2026-02-28T00:00:00Z | RALPH R1 | places-and-locations.md — Formal RALPH R1 (Buildings & Places web research)
+  - RETRIEVE: 20+ web searches executed across multiple query strategies:
+    * "Camp Kanawana" buildings/facilities — YMCA website facilities page confirms complete facilities list
+    * "Kamp Kanawana" infrastructure/renovation — no specific results
+    * "YMCA Kanawana" pavilion/gymnasium — confirmed existing facility descriptions
+    * "Camp Kanawana" Desjardins pavilion construction — La Presse 2018 article confirmed $1M donation, no construction confirmation found
+    * "Camp Kanawana" map/trail — no specific trail names found, nature interpretation trails confirmed
+    * site:ymcaquebec.org kanawana — multiple program pages, facilities, team pages
+    * "Camp Kanawana" composting toilets/Clivus Multrum — CONFIRMED: Clivus Multrum project portfolio lists Kanawana
+    * "Camp Kanawana" Flickr — 4,416 photos confirmed (already in KB)
+    * "Camp Kanawana" cabin sections — detailed cabin/tent descriptions extracted
+    * "Camp Kanawana" Lake Wilson/Round Lake — lake descriptions confirmed
+    * Kanawana "Tremplin pour la vie" campaign — $20M campaign confirmed, co-chairs identified
+    * McConnell Foundation Camp Kanawana — $700,000 grant (2023-2027) for major renovations CONFIRMED
+    * concordia archives "kamp kanawana" blueprints maps — P0145/12B03 sub-series identified, 1946 Layout/Building Designs document identified
+    * Ross & Macdonald "kamp kanawana" — CCA holds Doctor's Cottage architectural drawings (MAJOR DISCOVERY)
+    * "Camp Kanawana" 2021-2024 construction/renovation — Kanawana Adventure day camp 2024, facilities team renovations mentioned
+    * archive.org "history of kamp kanawana" 1935 — confirmed on Internet Archive (already in sources)
+    * "Camp Kanawana" wikimapia — 455 acres (vs 550 on YMCA site), geographic context
+    * McMorris thesis abstract — Grace McMorris, MA History, Concordia, Aug 2023, supervisor Peter Gossage
+    * GLCRM/Garoy architects construction — both listed as YMCA Foundation major partners (possible Kanawana connection)
+  - SOURCES CONSULTED: ymcaquebec.org (facilities, history, lodging, programs, newsroom, partners), clivusmultrum.com, mcconnellfoundation.ca, lapresse.ca, concordia.accesstomemory.org, cca.qc.ca, spectrum.library.concordia.ca, wikimapia.org, archive.org, nouvelleslaurentides.ca, mysummercamps.com, bonjourquebec.com, camps.ca, ourkids.net, geonames.nrcan.gc.ca, flickr.com
+  - NEW SOURCES REGISTERED: src_clivus_multrum_projects, src_cca_ross_macdonald_kanawana, src_mcconnell_foundation_ymca, src_ymcaquebec_kanawana_adventure_2024, src_mcmorris_thesis_spectrum, src_nouvelles_laurentides_kanawana_2024
+  - DEAD ENDS:
+    * No construction dates found for Katimavik, Farmhouse, Blockhouse, or Arts & Crafts buildings
+    * No confirmation that Desjardins Pavilion was actually built post-2018 announcement
+    * No named trails found — only "nature interpretation trails" generically
+    * Flickr page (4,416 photos) could not be fetched (403 blocked)
+    * ymcaquebec.org history page could not be fetched (403 blocked)
+    * No historical maps or photos accessible online (all in physical archives)
+    * No specific renovation details for McConnell Foundation $700K grant
+    * No YMCA annual reports with capital campaign progress details accessible
+  - ANALYZE: 20 new facts extracted (f_0572-f_0591). Key discoveries:
+    1. MAJOR: Ross & Macdonald (architects of Chateau Laurier, Royal York) designed a Doctor's Cottage for Kanawana. Drawings at CCA. Firm designed YMCA buildings in Montreal 1909-13. This is the FIRST identified professional architect for any Kanawana building.
+    2. MAJOR: Clivus Multrum composting toilet system installed — 16 composters, 32 dry toilets, 2 central bathroom buildings, saving 576K gallons/year, replacing old septic system.
+    3. SIGNIFICANT: McConnell Foundation $700K (2023-2027) for major renovations, part of Springboard for Life campaign.
+    4. SIGNIFICANT: GLCRM Architectes and Garoy Construction are YMCA Foundation major partners — may be involved in Kanawana construction.
+    5. SIGNIFICANT: Concordia P0145/12B03 sub-series ("Land, facilities, equipment, supplies") identified; 1946 "Layout, Building Designs, and Equipment" document confirmed.
+    6. USEFUL: Detailed cabin/tent specifications (capacity, bunk counts, staff arrangement).
+    7. USEFUL: Section gender assignments documented (Pathfinders/Pioneers = girls+NB; CDB/Woodsmen = boys+NB; Senior K/Voyageurs = co-ed).
+    8. USEFUL: Kanawana Adventure day camp launched 2024; Director Marie-Pierre Lacasse named.
+    9. USEFUL: Property size discrepancy (550 vs 455 acres) noted.
+  - CONTRADICTIONS: Property size (550 acres per YMCA vs 455 per Wikimapia) — noted in f_0581, not flagged as formal conflict (likely reflects land acquisition over time).
+  - LOOP DECISION: CONCLUDE — Good coverage for online sources. Construction dates for undated buildings remain unfindable online. Doctor's Cottage discovery is significant. Further progress requires archival access (CCA for Ross & Macdonald drawings, Concordia P0145/12B03 for building records).
+  - PROCESS: Added 20 facts (f_0572-f_0591) to KB. Added 6 new sources to sources.json. KB fact count updated to 591.
+  - HYPOTHESIZE: See research report for follow-up queries.
+
+2026-02-28T01:00:00Z | RALPH R1 | places-and-locations.md — Formal RALPH loop (web research)
+  - RETRIEVE: 20+ web searches. Clivus Multrum portfolio, CCA Ross & Macdonald fonds, McConnell Foundation database, YMCA website, Concordia archives, McMorris thesis abstract.
+  - KEY DISCOVERIES:
+    * Ross & Macdonald (major Canadian architectural firm, 1904-1946) designed "Doctor's Cottage for Kamp Kanawana" — drawings held at Canadian Centre for Architecture. First professionally designed building identified. Likely c.1909-1913 (YMCA building period).
+    * Clivus Multrum composting toilets installed: 16 commercial composters, 32 dry toilets, 2 central buildings, saves 576K gal/year, eliminated old septic system.
+    * McConnell Foundation $700K (2023-2027) for major renovations confirmed.
+    * Desjardins Pavilion: still unconfirmed as built.
+    * Concordia P0145/12B03 ("Land, facilities, equipment, supplies") and 1946 "Layout, Building Designs" document identified as key archival targets.
+  - DEAD ENDS: No construction dates for Katimavik, Farmhouse, Blockhouse, Arts & Crafts online. No named trails. Flickr blocked (403). Desjardins Pavilion construction unconfirmed.
+  - LOOP DECISION: CONCLUDE — online sources saturated. Progress requires archival access.
+  - PROCESS: 20 new KB facts (f_0572-f_0591). 6 new sources. Article updated with Clivus Multrum, Ross & Macdonald, McConnell Foundation. KB now at 591 facts, 108 sources (v4.13).
+  - HYPOTHESIZE: (1) CCA Ross & Macdonald archive visit for Doctor's Cottage details. (2) Concordia P0145/12B03 for building histories. (3) GLCRM Architectes for recent construction.
+
+2026-02-28T01:30:00Z | STATUS | places-and-locations.md — stub → draft → R3-verified → E1-reviewed
+  - VERIFY: 6 fact ID misreferences corrected (f_0229→f_0216, f_0230→f_0217, f_0231→f_0216 in chronology, f_0243→f_0230 for archery, f_0243→f_0230 for lacrosse, f_0525→f_0522 for McConnell).
+  - E1: All 9 cross-link targets verified. Article comprehensive at 3200+ words, 18 sources.
+
+2026-02-28T01:30:00Z | STATUS | Wiki Dashboard
+  - 26 E1-reviewed (all articles except ralph-dawson)
+  - 1 draft: ralph-dawson (blocked — needs user-provided text)
+  - 0 stubs remaining
+  - KB: 591 facts, 108+ sources (v4.13)
