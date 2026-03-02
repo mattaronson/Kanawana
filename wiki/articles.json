@@ -2315,7 +2315,7 @@
       "article_id": "hedley-dimock",
       "title": "Hedley Dimock and the Science of Camping",
       "wiki_folder": "people",
-      "status": "R3-verified",
+      "status": "E1-reviewed",
       "status_history": [
         {
           "status": "stub",
@@ -2334,6 +2334,12 @@
           "at": "2026-03-02T17:00:00Z",
           "by": "auto",
           "task": "VERIFY"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-03-02T18:00:00Z",
+          "by": "auto",
+          "task": "REVIEW"
         }
       ],
       "ralph_loops_completed": 2,
@@ -2395,11 +2401,12 @@
       "cross_links": [
         "directors-index",
         "canadian-camping-movement",
-        "traditions-and-culture",
-        "camp-otoreke"
+        "camp-otoreke",
+        "traditions-and-culture"
       ],
       "file_id": null,
-      "word_count": 2200
+      "word_count": 2100,
+      "notes": "E1 REVIEW (2026-03-02): 10 fixes applied. Father-son inference reframed as neutral hypothesis. Earliest publication contradiction resolved. Kamp\u2192Camp standardized. Hendry relocated. Unsourced synthesis removed. All 7 criteria PASS."
     }
   ]
 }

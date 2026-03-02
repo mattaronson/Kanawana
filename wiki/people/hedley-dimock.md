@@ -1,13 +1,13 @@
 # Hedley Dimock and the Science of Camping
 
-*Status: R3-verified | Sources: src_aca_dimock_bio, src_concordia_atom_12B05, src_mcmorris_thesis, src_concordia_seaman_fund, src_ancestry_dimock, src_great_war_album_dimock, src_snac_dimock, src_hathitrust_camping_character, src_taylor_statten_camps, src_concordia_chrcs_fonds, src_infed_ymca_education, src_veterans_dimock_gilbert, src_wikipedia_raye_kass, src_oakland_tribune_dimock_obit*
-*Last Updated: 2026-03-02 (RALPH R1 deep research completed)*
+*Status: E1-reviewed | Sources: src_aca_dimock_bio, src_concordia_atom_12B05, src_mcmorris_thesis, src_concordia_seaman_fund, src_ancestry_dimock, src_great_war_album_dimock, src_snac_dimock, src_hathitrust_camping_character, src_taylor_statten_camps, src_concordia_chrcs_fonds, src_infed_ymca_education, src_veterans_dimock_gilbert, src_wikipedia_raye_kass, src_oakland_tribune_dimock_obit*
+*Last Updated: 2026-03-02 (E1 REVIEW completed)*
 
 ## Overview
 
-Two individuals named Hedley Dimock made significant contributions to the study and practice of camping, and both are connected to the YMCA of Montreal and Camp Kanawana. Hedley Seldon Dimock (1891–1958) was a pioneering camp researcher who co-authored *Camping and Character* (1929/1931), the foundational study of camp-based character education. Hedley Gardner Dimock (born c. 1928) conducted camp counsellor effectiveness research at Kamp Kanawana in 1960–1961 and went on to found the Department of Applied Social Science at Sir George Williams University (now Concordia), building a department that grew directly from SGW's institutional roots in the YMCA of Montreal.^2 ^6
+Two individuals named Hedley Dimock made significant contributions to the study and practice of camping, and both are connected to the YMCA of Montreal and Camp Kanawana. Hedley Seldon Dimock (1891–1958) was a pioneering camp researcher who co-authored *Camping and Character* (1929/1931), the foundational study of camp-based character education. Hedley Gardner Dimock (born c. 1928) conducted camp counsellor effectiveness research at Camp Kanawana in 1960–1961 and went on to found the Department of Applied Social Science at Sir George Williams University (now Concordia), an institution that grew directly from SGW's roots in the YMCA of Montreal.^2 ^6
 
-Their exact familial relationship has not been confirmed by any source, though the evidence is strongly suggestive: H.S. Dimock married Elizabeth Marguerite **Gardiner** and had two children;^1 ^7 H.G. Dimock's full middle name is **Gardner**.^8 The similarity of "Gardiner" and "Gardner," combined with the shared rare first name, overlapping YMCA-camping-group work fields, and compatible timeline (H.G. born c. 1928, when H.S. was 37), makes a father-son connection highly plausible.
+Their exact familial relationship has not been confirmed by any source. The circumstantial indicators are: H.S. Dimock married Elizabeth Marguerite **Gardiner** and had two children;^1 ^7 H.G. Dimock's full middle name is **Gardner**;^8 both worked in the YMCA-camping-group work field; and the timeline is compatible (H.G. born c. 1928, when H.S. was 37). These factors are consistent with a father-son relationship, but the question remains unresolved.
 
 A third individual, Hedley Gilbert Dimock, Pilot Officer (Flight Engineer) in the RCAF (service number C/92344), died June 27, 1944 in a take-off accident in India and is buried at Madras War Cemetery. His father was Charles Albert Dimock — a different family line from H.S. Dimock's father Charles Turner Torry Dimock.^14
 
@@ -19,13 +19,11 @@ Hedley Seldon Dimock was born February 11, 1891 in South Rawdon, Hants, Nova Sco
 
 Dimock enlisted with the Princess Patricia's Canadian Light Infantry via the University of Saskatchewan group in Saskatoon in 1917.^9 In August 1918, he threw himself on a German grenade to protect his unit and was severely wounded.^1 ^9 It was months after the war before he could return to Canada and resume his studies.^9
 
-He married Elizabeth Marguerite Gardiner and had two children.^1 ^7
-
 ### Camp Research and *Camping and Character*
 
 In 1923, Dimock and Charles E. Hendry — both then affiliated with Columbia University, New York — began a pioneering study at Camp Ahmek in Algonquin Park, Ontario.^1 ^10 The study was published as *Camping and Character: A Camp Experiment in Character Education* (Association Press, New York, 1929/1931), with a foreword by William H. Kilpatrick, the progressive educator and colleague of John Dewey at Columbia.^11 The book runs 364 pages, illustrated, and is divided into two parts: Part 1 covers camp experience and character-building potential; Part 2 presents a case study of character education at Camp Ahmek.^11 It was among the first systematic studies to measure the effects of summer camp on child development and has been described as "one of the earliest recorded research efforts into camp experience" and "a collaborative effort between the U.S. and Canada."^10
 
-Dimock also co-authored *Talks to Counselors* (1939) with Taylor Statten, the founder of Camp Ahmek.^12
+Dimock also co-authored *Talks to Counselors* (1939) with Taylor Statten, the founder of Camp Ahmek.^12 Co-researcher Charles E. Hendry went on to serve at the University of Toronto School of Social Work, retiring in 1969.^10
 
 ### Academic Career
 
@@ -43,8 +41,6 @@ He died October 4, 1958 in Burlingame, San Mateo, California. An obituary was pu
 
 The American Camp Association established the **Hedley S. Dimock Award** in 1965 to recognize contributions to camping through related fields such as outdoor education, conservation, medicine, education, or social sciences.^1 The first recipients were Julian W. Smith (director, Outdoor Education Project, Michigan State University), Sigurd F. Olson (author and environmentalist), and Stewart L. Udall (U.S. Secretary of the Interior under JFK and LBJ).^1 The award criteria were updated by the ACA Board of Directors in 1991; it is one of six recognition awards currently presented annually at the national conference.^1
 
-Co-researcher Charles E. Hendry went on to serve at the University of Toronto School of Social Work, retiring in 1969.^10
-
 ## Hedley Gardner Dimock (c. 1928–?)
 
 ### Education and Early Career
@@ -53,7 +49,7 @@ Hedley Gardner Dimock earned a BA from Beloit College; MA and EdD from Columbia 
 
 ### Kanawana Research (1960–1961)
 
-In 1960–1961, Dimock conducted research at Kamp Kanawana on camp counsellor effectiveness, publishing two studies: "A Study of the Change in Attitudes and Temperament of Counselors during a Summer in Camp" (1961) and "A Study of the Prediction of Success of Twenty-Seven Camp Counselors" (1961).^2 ^3
+In 1960–1961, Dimock conducted research at Camp Kanawana on camp counsellor effectiveness, publishing two studies: "A Study of the Change in Attitudes and Temperament of Counselors during a Summer in Camp" (1961) and "A Study of the Prediction of Success of Twenty-Seven Camp Counselors" (1961).^2 ^3
 
 ### Founding the Department (1963)
 
@@ -61,11 +57,11 @@ In 1962, Dimock and Richard D. McDonald co-initiated a Community Development Stu
 
 In 1963, with the support of SGW Principal Robert C. Rae, Dimock became the first Chairman of the Department of Applied Social Science and first Director of the Centre for Human Relations and Community Studies at Sir George Williams University.^2 ^6 The Centre was "a research, consultation and training service of the Department," and both grew "directly out of Sir George Williams University's roots in the community, specifically through the YMCA of Montreal."^6
 
-In the 1940s, YMCA/SGW had offered courses in counselling, group work, organization development, and supervision as part of a B.A. program.^4 Dimock formalized these into a degree-granting department. A. Ross Seaman, who had been Director of Kamp Kanawana, joined as part-time faculty in 1963 and became an active collaborator in the Centre's research.^5
+In the 1940s, YMCA/SGW had offered courses in counselling, group work, organization development, and supervision as part of a B.A. program.^4 Dimock formalized these into a degree-granting department. A. Ross Seaman, who had been Director of Camp Kanawana, joined as part-time faculty in 1963 and became an active collaborator in the Centre's research.^5
 
 ### Publications and Later Career
 
-Dimock's earliest publication was *Group Development* (1966, Sir George Williams University edition), followed by *How to Observe Your Group* (1st edition 1970, solo author).^8 He authored twelve books in total, including *Planning Group Development*, *The Child in Hospital*, *Training for Planned Change*, and *Intervention and Empowerment*.^2 Five of his books were published in Japanese.^2
+Dimock's earliest known monograph was *Group Development* (1966, Sir George Williams University edition), followed by *How to Observe Your Group* (1st edition 1970, solo author).^8 He authored twelve books in total, including *Planning Group Development*, *The Child in Hospital*, *Training for Planned Change*, and *Intervention and Empowerment*.^2 Five of his books were published in Japanese.^2
 
 From 1972, he collaborated extensively with Dr. Raye Kass on group development publications as part of the "Dimock Series on Groups" published by Captus Press.^2 ^16 Kass, born Rachel R. Kass in 1938, had earned a BA with Distinction from SGW (1970) and MSW from the University of Toronto (1972) before being hired as Assistant Professor at Concordia in 1972.^16 She later served as Program Director of the Centre for Human Relations and Community Studies.^16 Their joint publications include *Leading and Managing Dynamic Groups* (4th ed., Captus Press, 2008), *How to Observe Your Group* (4th ed., 2007), and *Comment observer votre groupe* (French ed., 2010).^2 ^16 Earlier editions of some titles were co-authored with Irene Devine before Kass joined the collaboration.^16
 
@@ -75,17 +71,15 @@ After retirement from Concordia, Dimock became Director of the Centre for Human 
 
 ## The YMCA-to-University Pipeline
 
-The institutional connection between the YMCA, SGW/Concordia, Dawson College, and Camp Kanawana is one of the most distinctive features of this story. The Department of Applied Social Science literally grew from the YMCA of Montreal.^4 ^6 Dimock built it; Seaman — a former Kanawana Director — was founding-era faculty.^5 Seaman then went on to chair the Community Recreation and Leadership Training (CRLT) Department at Dawson College from 1974 to 1984, training the next generation of camp leaders and community recreation professionals.^5 After Seaman died in 1987, five organizations established memorial scholarships in his name.^5
+The institutional connection between the YMCA, SGW/Concordia, Dawson College, and Camp Kanawana is one of the most distinctive features of this history. The Department of Applied Social Science grew directly from the YMCA of Montreal.^4 ^6 Dimock built it; Seaman — a former Kanawana Director — was founding-era faculty.^5 Seaman then went on to chair the Community Recreation and Leadership Training (CRLT) Department at Dawson College from 1974 to 1984, training the next generation of camp leaders and community recreation professionals.^5 After Seaman died in 1987, five organizations established memorial scholarships in his name.^5
 
-The parallel between the two universities is notable: George Williams College in Chicago (where H.S. Dimock taught) was named after the same YMCA founder Sir George Williams for whom Sir George Williams University was named.^13 Both institutions were direct outgrowths of YMCA training programs.
-
-This pipeline produced the academic infrastructure that studied, trained for, and theorized about organized camping in Montreal for half a century.
+Both George Williams College in Chicago (where H.S. Dimock held a deanship) and Sir George Williams University were named after the same YMCA founder, Sir George Williams, and both grew directly from YMCA training programs.^13
 
 ## Open Questions
 
 1. [Partially resolved] What is the familial relationship between Hedley S. Dimock and Hedley G. Dimock? The Gardiner/Gardner name connection is strong circumstantial evidence for father and son, but no source explicitly confirms this. The Oakland Tribune obituary (October 5, 1958) may name survivors.
 2. [Partially resolved] What were the findings of the 1960–1961 Kanawana counsellor effectiveness studies? Two published titles identified, but the actual findings have not been reviewed.
-3. [Important] Did Hedley S. Dimock ever visit Camp Kanawana or Camp Otoreke?
+3. [Important] Did Hedley S. Dimock ever visit Camp Kanawana or Camp Otoreke, given his YMCA-Montreal connections and the camp's role in early Canadian camping research?
 4. [Nice-to-have] When exactly did Hedley G. Dimock begin working for the Montreal YMCA?
 5. [Nice-to-have] Can a complete list of ACA Dimock Award recipients be compiled?
 
@@ -93,6 +87,7 @@ This pipeline produced the academic infrastructure that studied, trained for, an
 
 - [[people/directors-index|Directors and Staff of Camp Kanawana]]
 - [[context/canadian-camping-movement|The Canadian Camping Movement]]
+- [[places/camp-otoreke|Camp Otoreke]]
 - [[programs/traditions-and-culture|Traditions and Culture at Kanawana]]
 
 ## Sources
@@ -116,4 +111,5 @@ This pipeline produced the academic infrastructure that studied, trained for, an
 
 ## Research Notes
 
-<!-- RALPH R1 completed 2026-03-02. Two research passes: (1) web mining agent yielded 17 Dimock facts + 15 Seaman facts; (2) deep research agent yielded 17 additional facts across 10 new sources. Key breakthroughs: H.G. Dimock's full name is Hedley Gardner Dimock (SNAC); Gardiner/Gardner connection is strong circumstantial evidence for father-son relationship; H.S. Dimock died Oct 4, 1958 in Burlingame, CA; PPCLI enlistment via U of Saskatchewan Saskatoon 1917; foreword by Kilpatrick; book is 364pp; co-authored Talks to Counselors with Taylor Statten (1939); first Dimock Award recipients identified; third Hedley Dimock (Hedley Gilbert, RCAF, d.1944) disambiguated; H.G. Dimock education confirmed (BA Beloit, MA/EdD Columbia); Raye Kass biography expanded; 1962 Mistassini study co-initiated with McDonald; George Williams College history. Article advanced draft → R3-verified. 14 sources, 5 open questions. -->
+<!-- RALPH R1 completed 2026-03-02. Two research passes: (1) web mining agent yielded 17 Dimock facts + 15 Seaman facts; (2) deep research agent yielded 17 additional facts across 10 new sources. Key breakthroughs: H.G. Dimock's full name is Hedley Gardner Dimock (SNAC); Gardiner/Gardner connection is strong circumstantial evidence for father-son relationship; H.S. Dimock died Oct 4, 1958 in Burlingame, CA; PPCLI enlistment via U of Saskatchewan Saskatoon 1917; foreword by Kilpatrick; book is 364pp; co-authored Talks to Counselors with Taylor Statten (1939); first Dimock Award recipients identified; third Hedley Dimock (Hedley Gilbert, RCAF, d.1944) disambiguated; H.G. Dimock education confirmed (BA Beloit, MA/EdD Columbia); Raye Kass biography expanded; 1962 Mistassini study co-initiated with McDonald; George Williams College history. Article advanced stub → draft → R3-verified → E1-reviewed. -->
+<!-- E1 REVIEW 2026-03-02: (1) Removed duplicate marriage sentence; (2) moved Hendry career note from Award section to Camp Research; (3) resolved "earliest publication" contradiction (1961 article vs 1966 book → clarified as "earliest known monograph"); (4) standardized "Kamp" to "Camp" throughout; (5) reframed father-son inference from "highly plausible" to neutral hypothesis language; (6) removed "literally" and "this story" tone issues; (7) added missing ^13 citation on George Williams parallel; (8) removed unsourced synthesis conclusion; (9) added Camp Otoreke cross-link; (10) improved OQ3 rationale. All 7 E1 criteria now PASS. -->
