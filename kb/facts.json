@@ -1,8 +1,8 @@
 {
-  "version": "v4.13",
+  "version": "v4.14",
   "kb_version": "4.0",
   "migrated_from": "3.3",
-  "fact_count": 591,
+  "fact_count": 623,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -6360,7 +6360,7 @@
     },
     {
       "fact_id": "f_0381",
-      "claim": "Lemuel Cushing Sr. (1806-1875) was a businessman and pioneer in the Ottawa valley, born in Trois-Rivi\u00e8res, married Catherine Hutchins 1836, had 13 children including 8 sons",
+      "claim": "Lemuel Cushing Sr. (1806-1875) was a businessman and pioneer in the Ottawa valley, born in Trois-Rivières, married Catherine Hutchins 1836, had 13 children including 8 sons",
       "sources": [
         "src_dcb_cushing"
       ],
@@ -6517,7 +6517,7 @@
     },
     {
       "fact_id": "f_0390",
-      "claim": "Don Starkell, Manitoba Voyageur Canoe Pageant team member, later paddled from Winnipeg to Bel\u00e9m, Brazil (12,181 miles), setting a Guinness World Record for longest canoe journey",
+      "claim": "Don Starkell, Manitoba Voyageur Canoe Pageant team member, later paddled from Winnipeg to Belém, Brazil (12,181 miles), setting a Guinness World Record for longest canoe journey",
       "sources": [
         "src_wikipedia_starkell"
       ],
@@ -6605,7 +6605,7 @@
     },
     {
       "fact_id": "f_0395",
-      "claim": "The Concordia University Archives (YMCA of Montreal fonds P0145, sub-series 1B) holds a manuscript copy of '100 Years of Service to Youth' by Harold C. Cross (1951), draft copies of chapters II, IV, V, VI of the History of the Montreal YMCA 1851-1951, printers' quotations for the book, and book orders \u2014 all from 1951",
+      "claim": "The Concordia University Archives (YMCA of Montreal fonds P0145, sub-series 1B) holds a manuscript copy of '100 Years of Service to Youth' by Harold C. Cross (1951), draft copies of chapters II, IV, V, VI of the History of the Montreal YMCA 1851-1951, printers' quotations for the book, and book orders — all from 1951",
       "sources": [
         "src_concordia_fonds_1B"
       ],
@@ -7434,7 +7434,7 @@
     },
     {
       "fact_id": "f_0443",
-      "claim": "BAnQ (Biblioth\u00e8que et Archives nationales du Qu\u00e9bec) received or processed YMCA de Montr\u00e9al archival materials in 1985, documented in Bordereaux nos 18 of the Fonds Archives nationales du Qu\u00e9bec (Advitam notice 519920).",
+      "claim": "BAnQ (Bibliothèque et Archives nationales du Québec) received or processed YMCA de Montréal archival materials in 1985, documented in Bordereaux nos 18 of the Fonds Archives nationales du Québec (Advitam notice 519920).",
       "sources": [
         "src_banq_advitam_519920"
       ],
@@ -7467,7 +7467,7 @@
     },
     {
       "fact_id": "f_0445",
-      "claim": "Lac Kanawana is located at coordinates 45\u00b051'6.01\"N, 74\u00b011'40.99\"W, at an elevation of 319 metres above sea level.",
+      "claim": "Lac Kanawana is located at coordinates 45°51'6.01\"N, 74°11'40.99\"W, at an elevation of 319 metres above sea level.",
       "sources": [
         "src_wikidata_lac_kanawana"
       ],
@@ -7814,7 +7814,7 @@
     },
     {
       "fact_id": "f_0465",
-      "claim": "The Rangers program at Kanawana runs from late June to mid-July, for ages 15-16, and provides DAFA certification from the Conseil Qu\u00e9b\u00e9cois du Loisir (CQL).",
+      "claim": "The Rangers program at Kanawana runs from late June to mid-July, for ages 15-16, and provides DAFA certification from the Conseil Québécois du Loisir (CQL).",
       "sources": [
         "src_ymca_website"
       ],
@@ -8109,7 +8109,7 @@
     },
     {
       "fact_id": "f_0482",
-      "claim": "The only person literally named 'Lemuel Cushing' alive in Montreal in 1892 was Lemuel Cushing (b. 1875), son of James Brock Cushing, who was 16 years old \u2014 too young to lead a YMCA camping trip. Walter Edgar Cushing (b. 1870, Lemuel Jr.'s eldest son) was 22 and Harold Beveridge Cushing (b. 1873) was 19.",
+      "claim": "The only person literally named 'Lemuel Cushing' alive in Montreal in 1892 was Lemuel Cushing (b. 1875), son of James Brock Cushing, who was 16 years old — too young to lead a YMCA camping trip. Walter Edgar Cushing (b. 1870, Lemuel Jr.'s eldest son) was 22 and Harold Beveridge Cushing (b. 1873) was 19.",
       "sources": [
         "src_cushing_genealogy"
       ],
@@ -8703,7 +8703,7 @@
     },
     {
       "fact_id": "f_0516",
-      "claim": "J.W. McConnell's mother was Margaret Anne (n\u00e9e Wilson) McConnell; his middle name 'Wilson' came from his mother's maiden name.",
+      "claim": "J.W. McConnell's mother was Margaret Anne (née Wilson) McConnell; his middle name 'Wilson' came from his mother's maiden name.",
       "sources": [
         "src_wikipedia_mcconnell"
       ],
@@ -8736,7 +8736,7 @@
     },
     {
       "fact_id": "f_0518",
-      "claim": "J.W. McConnell had four children: Wilson Griffith (1908\u20131966), John Griffith (1911\u20131974), Kathleen Griffith (1918\u20132012), and David Griffith (1923\u20131963). All bore the middle name Griffith after their mother's maiden name.",
+      "claim": "J.W. McConnell had four children: Wilson Griffith (1908–1966), John Griffith (1911–1974), Kathleen Griffith (1918–2012), and David Griffith (1923–1963). All bore the middle name Griffith after their mother's maiden name.",
       "sources": [
         "src_wikipedia_mcconnell"
       ],
@@ -8756,7 +8756,7 @@
     },
     {
       "fact_id": "f_0519",
-      "claim": "Wilson Griffith McConnell (1908\u20131966) was J.W. McConnell's eldest son. He managed St. Lawrence Sugar Refineries and married Marjorie Wallace.",
+      "claim": "Wilson Griffith McConnell (1908–1966) was J.W. McConnell's eldest son. He managed St. Lawrence Sugar Refineries and married Marjorie Wallace.",
       "sources": [
         "src_wikipedia_mcconnell"
       ],
@@ -8843,7 +8843,7 @@
     },
     {
       "fact_id": "f_0524",
-      "claim": "There are two separate lakes named 'Lac Wilson' in the broader Kanawana region: one within the Camp Kanawana property (near Mille-Isles) and another in Saint-Adolphe-d'Howard approximately 20\u201330 km northwest.",
+      "claim": "There are two separate lakes named 'Lac Wilson' in the broader Kanawana region: one within the Camp Kanawana property (near Mille-Isles) and another in Saint-Adolphe-d'Howard approximately 20–30 km northwest.",
       "sources": [
         "src_mysummercamps_kanawana"
       ],
@@ -9165,7 +9165,7 @@
     },
     {
       "fact_id": "f_0543",
-      "claim": "The Kamp Kanawana Marching Song (also called the Kanawana Cheer) is a call-and-response cheer that includes 'Hail, hail, the gang's all here' as its refrain. It is the most widely known Kanawana cheer. The song's lost verses \u2014 originally part of a three-verse song \u2014 were rediscovered in the Kanawana Archives at Concordia University in 2006. Only the first verse survives in the modern cheer.",
+      "claim": "The Kamp Kanawana Marching Song (also called the Kanawana Cheer) is a call-and-response cheer that includes 'Hail, hail, the gang's all here' as its refrain. It is the most widely known Kanawana cheer. The song's lost verses — originally part of a three-verse song — were rediscovered in the Kanawana Archives at Concordia University in 2006. Only the first verse survives in the modern cheer.",
       "sources": [
         "src_spirit_kanawana_blog"
       ],
@@ -9263,7 +9263,7 @@
     },
     {
       "fact_id": "f_0549",
-      "claim": "A 'musicale' \u2014 a formal musical performance \u2014 was held during the eighth week of the 1935 Kanawana season, described as 'a program without precedent in the annals of Kanawana' and 'a fine effort much appreciated by the whole camp.' This is the earliest documented formal musical event at Kanawana.",
+      "claim": "A 'musicale' — a formal musical performance — was held during the eighth week of the 1935 Kanawana season, described as 'a program without precedent in the annals of Kanawana' and 'a fine effort much appreciated by the whole camp.' This is the earliest documented formal musical event at Kanawana.",
       "sources": [
         "src_history_1935"
       ],
@@ -9401,7 +9401,7 @@
     },
     {
       "fact_id": "f_0557",
-      "claim": "On May 16, 2023, a fire completely destroyed the superintendent's house (maison du surintendant) at Camp Kanawana. The building was located on Mont\u00e9e Sainte-Elmire in the Spring Valley sector, isolated from the campers' area. A passerby called firefighters at 6 AM. Twenty-five firefighters from Saint-Sauveur, Morin-Heights, and Sainte-Anne-des-Lacs responded. No injuries (camp was unoccupied). Cause undetermined. Total loss.",
+      "claim": "On May 16, 2023, a fire completely destroyed the superintendent's house (maison du surintendant) at Camp Kanawana. The building was located on Montée Sainte-Elmire in the Spring Valley sector, isolated from the campers' area. A passerby called firefighters at 6 AM. Twenty-five firefighters from Saint-Sauveur, Morin-Heights, and Sainte-Anne-des-Lacs responded. No injuries (camp was unoccupied). Cause undetermined. Total loss.",
       "sources": [
         "src_journal_acces_fire_2023"
       ],
@@ -9656,10 +9656,17 @@
     {
       "fact_id": "f_0572",
       "claim": "Camp Kanawana has 16 commercial Clivus Multrum composting units accommodating 22,500 uses each per year, and 32 dry toilets saving 576,000 gallons of water annually. Two central buildings contain all bathroom and shower facilities. The system eliminated the old septic system to keep Lake Kanawana safe from pollution.",
-      "sources": ["src_clivus_multrum_projects", "src_ymca_website"],
+      "sources": [
+        "src_clivus_multrum_projects",
+        "src_ymca_website"
+      ],
       "confidence": "stated",
       "category": "infrastructure",
-      "entities": ["Camp Kanawana", "Clivus Multrum", "Lake Kanawana"],
+      "entities": [
+        "Camp Kanawana",
+        "Clivus Multrum",
+        "Lake Kanawana"
+      ],
       "date_ref": null,
       "conflicts_with": [],
       "added_version": "4.13",
@@ -9668,10 +9675,16 @@
     {
       "fact_id": "f_0573",
       "claim": "The architectural firm Ross & Macdonald designed a 'Doctor's Cottage for Kamp Kanawana'. Architectural drawings are held in the Ross & Macdonald fonds at the Canadian Centre for Architecture (CCA). Ross & Macdonald also designed 'several buildings for the YMCA in Montréal (1909-13)', including the NDG YMCA Building.",
-      "sources": ["src_cca_ross_macdonald_kanawana"],
+      "sources": [
+        "src_cca_ross_macdonald_kanawana"
+      ],
       "confidence": "stated",
       "category": "buildings",
-      "entities": ["Camp Kanawana", "Ross & Macdonald", "Canadian Centre for Architecture"],
+      "entities": [
+        "Camp Kanawana",
+        "Ross & Macdonald",
+        "Canadian Centre for Architecture"
+      ],
       "date_ref": "1909-1913",
       "conflicts_with": [],
       "added_version": "4.13",
@@ -9680,10 +9693,16 @@
     {
       "fact_id": "f_0574",
       "claim": "Ross & Macdonald was a prominent Montreal architectural firm active from 1904 to 1942. Founded as Ross & MacFarlane in 1904 by George Allen Ross and David Huron MacFarlane. Robert Henry Macdonald replaced MacFarlane as partner in late 1912. The firm designed major Canadian landmarks including the Chateau Laurier, Royal York Hotel, Mount Royal Hotel, and Maple Leaf Gardens.",
-      "sources": ["src_cca_ross_macdonald_kanawana"],
+      "sources": [
+        "src_cca_ross_macdonald_kanawana"
+      ],
       "confidence": "stated",
       "category": "people",
-      "entities": ["Ross & Macdonald", "George Allen Ross", "Robert Henry Macdonald"],
+      "entities": [
+        "Ross & Macdonald",
+        "George Allen Ross",
+        "Robert Henry Macdonald"
+      ],
       "date_ref": "1904-1942",
       "conflicts_with": [],
       "added_version": "4.13",
@@ -9692,10 +9711,16 @@
     {
       "fact_id": "f_0575",
       "claim": "The McConnell Foundation provided $700,000 in funding (2023-2027) to the YMCAs of Quebec for major renovations at Camp Kanawana. The grant contributes to the YMCA Springboard for Life campaign and supports Kanawana as a '3-season outdoor and environmental education centre.'",
-      "sources": ["src_mcconnell_foundation_ymca"],
+      "sources": [
+        "src_mcconnell_foundation_ymca"
+      ],
       "confidence": "stated",
       "category": "infrastructure",
-      "entities": ["Camp Kanawana", "McConnell Foundation", "YMCAs of Quebec"],
+      "entities": [
+        "Camp Kanawana",
+        "McConnell Foundation",
+        "YMCAs of Quebec"
+      ],
       "date_ref": "2023-2027",
       "conflicts_with": [],
       "added_version": "4.13",
@@ -9704,10 +9729,18 @@
     {
       "fact_id": "f_0576",
       "claim": "The YMCA Springboard for Life (Tremplin pour la vie) campaign aimed to raise $20 million over five years. Campaign co-chairs were Gregory Chrispin (Desjardins), Sean Finn (CN), and Genevieve Marcon (GM Developpement). Desjardins contributed $1 million in May 2018, part of which was for a new community pavilion at Kanawana.",
-      "sources": ["src_lapresse_ymca_2018", "src_mcconnell_foundation_ymca"],
+      "sources": [
+        "src_lapresse_ymca_2018",
+        "src_mcconnell_foundation_ymca"
+      ],
       "confidence": "stated",
       "category": "infrastructure",
-      "entities": ["Camp Kanawana", "Desjardins", "McConnell Foundation", "YMCA Springboard for Life"],
+      "entities": [
+        "Camp Kanawana",
+        "Desjardins",
+        "McConnell Foundation",
+        "YMCA Springboard for Life"
+      ],
       "date_ref": "2018",
       "conflicts_with": [],
       "added_version": "4.13",
@@ -9716,10 +9749,17 @@
     {
       "fact_id": "f_0577",
       "claim": "GLCRM Architectes Inc. and Garoy Construction Inc. are listed as major partners of the YMCAs of Quebec Foundation alongside Fondation Desjardins.",
-      "sources": ["src_ymca_website"],
+      "sources": [
+        "src_ymca_website"
+      ],
       "confidence": "stated",
       "category": "infrastructure",
-      "entities": ["Camp Kanawana", "GLCRM Architectes", "Garoy Construction", "YMCAs of Quebec"],
+      "entities": [
+        "Camp Kanawana",
+        "GLCRM Architectes",
+        "Garoy Construction",
+        "YMCAs of Quebec"
+      ],
       "date_ref": null,
       "conflicts_with": [],
       "added_version": "4.13",
@@ -9728,10 +9768,15 @@
     {
       "fact_id": "f_0578",
       "claim": "Concordia University Archives hold 'Layout, Building Designs, and Equipment' records dated 1946 for Kamp Kanawana in the YMCA of Montreal Fonds (P0145/12A, Committees sub-series).",
-      "sources": ["src_concordia_fonds"],
+      "sources": [
+        "src_concordia_fonds"
+      ],
       "confidence": "stated",
       "category": "sources",
-      "entities": ["Camp Kanawana", "Concordia University Archives"],
+      "entities": [
+        "Camp Kanawana",
+        "Concordia University Archives"
+      ],
       "date_ref": "1946",
       "conflicts_with": [],
       "added_version": "4.13",
@@ -9740,10 +9785,15 @@
     {
       "fact_id": "f_0579",
       "claim": "The Concordia Archives sub-series P0145/12B03 ('Land, facilities, equipment, supplies') contains records specific to Kanawana property and buildings. The sub-series also includes blueprints and maps among its materials.",
-      "sources": ["src_concordia_fonds"],
+      "sources": [
+        "src_concordia_fonds"
+      ],
       "confidence": "stated",
       "category": "sources",
-      "entities": ["Camp Kanawana", "Concordia University Archives"],
+      "entities": [
+        "Camp Kanawana",
+        "Concordia University Archives"
+      ],
       "date_ref": null,
       "conflicts_with": [],
       "added_version": "4.13",
@@ -9752,10 +9802,17 @@
     {
       "fact_id": "f_0580",
       "claim": "In summer 2024, the YMCAs of Quebec launched 'Kanawana Adventure' (Aventure a Kanawana), a new day camp program for ages 5-12 on the Camp Kanawana site. The program is in English and focuses on nature immersion, wilderness survival, water sports, and arts. Marie-Pierre Lacasse is the Director of Camp YMCA Kanawana.",
-      "sources": ["src_ymcaquebec_kanawana_adventure_2024", "src_nouvelles_laurentides_kanawana_2024"],
+      "sources": [
+        "src_ymcaquebec_kanawana_adventure_2024",
+        "src_nouvelles_laurentides_kanawana_2024"
+      ],
       "confidence": "stated",
       "category": "programs",
-      "entities": ["Camp Kanawana", "Kanawana Adventure", "Marie-Pierre Lacasse"],
+      "entities": [
+        "Camp Kanawana",
+        "Kanawana Adventure",
+        "Marie-Pierre Lacasse"
+      ],
       "date_ref": "2024",
       "conflicts_with": [],
       "added_version": "4.13",
@@ -9764,10 +9821,14 @@
     {
       "fact_id": "f_0581",
       "claim": "Camp Kanawana's property size is reported as 550 acres on the YMCA's official website. An older third-party source (Wikimapia) states 455 acres. The discrepancy may reflect additional land acquisition over time or a difference in measurement.",
-      "sources": ["src_ymca_website"],
+      "sources": [
+        "src_ymca_website"
+      ],
       "confidence": "stated",
       "category": "property",
-      "entities": ["Camp Kanawana"],
+      "entities": [
+        "Camp Kanawana"
+      ],
       "date_ref": null,
       "conflicts_with": [],
       "added_version": "4.13",
@@ -9776,10 +9837,14 @@
     {
       "fact_id": "f_0582",
       "claim": "Camp Kanawana is described as a 'year-round environmental education facility and summer camp' in the Clivus Multrum project listing, confirming its use beyond the summer season.",
-      "sources": ["src_clivus_multrum_projects"],
+      "sources": [
+        "src_clivus_multrum_projects"
+      ],
       "confidence": "stated",
       "category": "programs",
-      "entities": ["Camp Kanawana"],
+      "entities": [
+        "Camp Kanawana"
+      ],
       "date_ref": null,
       "conflicts_with": [],
       "added_version": "4.13",
@@ -9788,10 +9853,14 @@
     {
       "fact_id": "f_0583",
       "claim": "Camp Kanawana has 'nature interpretation trails' across its 500+ acres of mature forest. The YMCA website describes the trails as opportunities to 'explore our hiking trails and head off to discover the marvels of our site.' No individual trail names are published.",
-      "sources": ["src_ymca_website"],
+      "sources": [
+        "src_ymca_website"
+      ],
       "confidence": "stated",
       "category": "property",
-      "entities": ["Camp Kanawana"],
+      "entities": [
+        "Camp Kanawana"
+      ],
       "date_ref": null,
       "conflicts_with": [],
       "added_version": "4.13",
@@ -9800,10 +9869,17 @@
     {
       "fact_id": "f_0584",
       "claim": "Grace McMorris authored 'An Experience That Lasts a Lifetime: Building Modernity, Man, and Nation at the YMCA of Montreal's Kamp Kanawana, 1894-1967,' an MA thesis in History at Concordia University completed August 2023, supervised by Peter Gossage.",
-      "sources": ["src_mcmorris_thesis_spectrum"],
+      "sources": [
+        "src_mcmorris_thesis_spectrum"
+      ],
       "confidence": "stated",
       "category": "sources",
-      "entities": ["Grace McMorris", "Peter Gossage", "Concordia University", "Camp Kanawana"],
+      "entities": [
+        "Grace McMorris",
+        "Peter Gossage",
+        "Concordia University",
+        "Camp Kanawana"
+      ],
       "date_ref": "2023-08",
       "conflicts_with": [],
       "added_version": "4.13",
@@ -9812,10 +9888,14 @@
     {
       "fact_id": "f_0585",
       "claim": "The YMCA facilities page lists the camp as having a 'boating waterfront with canoes, kayaks, paddleboards, a barge and a rescue boat' -- confirming the barge and rescue boat as distinct waterfront equipment.",
-      "sources": ["src_ymca_website"],
+      "sources": [
+        "src_ymca_website"
+      ],
       "confidence": "stated",
       "category": "infrastructure",
-      "entities": ["Camp Kanawana"],
+      "entities": [
+        "Camp Kanawana"
+      ],
       "date_ref": null,
       "conflicts_with": [],
       "added_version": "4.13",
@@ -9824,10 +9904,14 @@
     {
       "fact_id": "f_0586",
       "claim": "Cabins at Camp Kanawana in the junior sections (Woodsmen and Pioneers) accommodate 10 people: 6 upper bunks, 4 lower bunks, with 2 staff members in their own small room within the cabin, and cubbies for each camper.",
-      "sources": ["src_ymca_website"],
+      "sources": [
+        "src_ymca_website"
+      ],
       "confidence": "stated",
       "category": "buildings",
-      "entities": ["Camp Kanawana"],
+      "entities": [
+        "Camp Kanawana"
+      ],
       "date_ref": null,
       "conflicts_with": [],
       "added_version": "4.13",
@@ -9836,10 +9920,14 @@
     {
       "fact_id": "f_0587",
       "claim": "Platform tents at Camp Kanawana in the senior sections (Coureurs des Bois, Pathfinders, Rangers, Trailblazers, Voyageurs, Foresters and Adventurers) consist of a wooden platform with bunk beds covered by a heavy canvas tent and waterproof tarp, housing 8 campers and 1-2 staff members sharing the same space.",
-      "sources": ["src_ymca_website"],
+      "sources": [
+        "src_ymca_website"
+      ],
       "confidence": "stated",
       "category": "buildings",
-      "entities": ["Camp Kanawana"],
+      "entities": [
+        "Camp Kanawana"
+      ],
       "date_ref": null,
       "conflicts_with": [],
       "added_version": "4.13",
@@ -9848,10 +9936,14 @@
     {
       "fact_id": "f_0588",
       "claim": "The Pathfinders and Pioneers groups at Camp Kanawana are made up of girls and non-binary campers; Coureurs des Bois and Woodsmen consist of boys and non-binary campers; Senior Kanawanians and Voyageurs are co-ed groups.",
-      "sources": ["src_ymca_website"],
+      "sources": [
+        "src_ymca_website"
+      ],
       "confidence": "stated",
       "category": "programs",
-      "entities": ["Camp Kanawana"],
+      "entities": [
+        "Camp Kanawana"
+      ],
       "date_ref": null,
       "conflicts_with": [],
       "added_version": "4.13",
@@ -9860,10 +9952,15 @@
     {
       "fact_id": "f_0589",
       "claim": "The Dining Hall at Camp Kanawana has an industrial kitchen that is not available to rental groups.",
-      "sources": ["src_ymca_website"],
+      "sources": [
+        "src_ymca_website"
+      ],
       "confidence": "stated",
       "category": "buildings",
-      "entities": ["Dining Hall", "Camp Kanawana"],
+      "entities": [
+        "Dining Hall",
+        "Camp Kanawana"
+      ],
       "date_ref": null,
       "conflicts_with": [],
       "added_version": "4.13",
@@ -9872,10 +9969,14 @@
     {
       "fact_id": "f_0590",
       "claim": "Camp Kanawana's address is 673 Montee Saint-Elmire, Saint-Sauveur, Quebec, Canada, J0R 1R1. The YMCA office is at 1440 Rue Stanley, Montreal H3A 1P7.",
-      "sources": ["src_ymca_website"],
+      "sources": [
+        "src_ymca_website"
+      ],
       "confidence": "stated",
       "category": "property",
-      "entities": ["Camp Kanawana"],
+      "entities": [
+        "Camp Kanawana"
+      ],
       "date_ref": null,
       "conflicts_with": [],
       "added_version": "4.13",
@@ -9884,13 +9985,565 @@
     {
       "fact_id": "f_0591",
       "claim": "Camp Kanawana is available for rental year-round for groups of 6-250 persons, and in limited capacity during summer and winter for groups of 6-26 persons. The rental season runs from approximately May 21 to June 23 and August 20 to October 14.",
-      "sources": ["src_ymca_website"],
+      "sources": [
+        "src_ymca_website"
+      ],
       "confidence": "stated",
       "category": "programs",
-      "entities": ["Camp Kanawana"],
+      "entities": [
+        "Camp Kanawana"
+      ],
       "date_ref": null,
       "conflicts_with": [],
       "added_version": "4.13",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_0592",
+      "claim": "There were two distinct individuals named Hedley Dimock connected to YMCA/camping: Hedley Seldon Dimock (1891-1958) the pioneering camp researcher, and Hedley G. Dimock (born c.1928) who conducted the Kanawana counselor research studies",
+      "sources": [
+        "src_aca_dimock_bio"
+      ],
+      "confidence": "inferred",
+      "category": "people",
+      "entities": [
+        "Hedley S. Dimock",
+        "Hedley G. Dimock"
+      ],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "4.14",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_0593",
+      "claim": "Hedley Seldon Dimock (1891-1958) was born February 11, 1891 in South Rawdon, Hants, Nova Scotia",
+      "sources": [
+        "src_aca_dimock_bio"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "Hedley S. Dimock"
+      ],
+      "date_ref": "1891",
+      "conflicts_with": [],
+      "added_version": "4.14",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_0594",
+      "claim": "Hedley S. Dimock was a WWI veteran who served with Princess Patricia's Canadian Light Infantry; in August 1918 he was severely wounded after throwing himself on a German grenade to protect his unit",
+      "sources": [
+        "src_aca_dimock_bio"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "Hedley S. Dimock"
+      ],
+      "date_ref": "1918",
+      "conflicts_with": [],
+      "added_version": "4.14",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_0595",
+      "claim": "Hedley S. Dimock and Charles E. Hendry conducted pioneering camp research at Camp Ahmek, Algonquin Park, Ontario, starting in 1923, published as 'Camping and Character: A Camp Experiment in Character Education' (Association Press, 1929/1931)",
+      "sources": [
+        "src_aca_dimock_bio"
+      ],
+      "confidence": "stated",
+      "category": "camping_movement",
+      "entities": [
+        "Hedley S. Dimock",
+        "Charles E. Hendry",
+        "Camp Ahmek"
+      ],
+      "date_ref": "1923",
+      "conflicts_with": [],
+      "added_version": "4.14",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_0596",
+      "claim": "Hedley S. Dimock was dean of YMCA College in Chicago (later George Williams College) where in 1930 he launched institutes on the role of camps in 'character education' of children",
+      "sources": [
+        "src_aca_dimock_bio"
+      ],
+      "confidence": "stated",
+      "category": "camping_movement",
+      "entities": [
+        "Hedley S. Dimock",
+        "George Williams College"
+      ],
+      "date_ref": "1930",
+      "conflicts_with": [],
+      "added_version": "4.14",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_0597",
+      "claim": "The ACA's Hedley S. Dimock Award, established 1965, recognizes contributions to camping through related fields such as outdoor education, conservation, medicine, education, or social sciences",
+      "sources": [
+        "src_aca_dimock_bio"
+      ],
+      "confidence": "stated",
+      "category": "camping_movement",
+      "entities": [
+        "Hedley S. Dimock",
+        "ACA"
+      ],
+      "date_ref": "1965",
+      "conflicts_with": [],
+      "added_version": "4.14",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_0598",
+      "claim": "Hedley G. Dimock became first Chairman of the Department of Applied Social Science and Director of the Centre for Human Relations and Community Studies at Sir George Williams University in 1963",
+      "sources": [
+        "src_concordia_atom_12B05"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "Hedley G. Dimock",
+        "Sir George Williams University"
+      ],
+      "date_ref": "1963",
+      "conflicts_with": [],
+      "added_version": "4.14",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_0599",
+      "claim": "Hedley G. Dimock co-initiated a Community Development Study of the Cree of Mistassini-Chibougamau, Quebec in 1962",
+      "sources": [
+        "src_concordia_atom_12B05"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "Hedley G. Dimock"
+      ],
+      "date_ref": "1962",
+      "conflicts_with": [],
+      "added_version": "4.14",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_0600",
+      "claim": "Hedley G. Dimock collaborated extensively with Dr. Raye Kass at Concordia University on group development publications; Kass was hired as Assistant Professor of Applied Human Sciences in 1972",
+      "sources": [
+        "src_concordia_atom_12B05"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "Hedley G. Dimock",
+        "Raye Kass",
+        "Concordia University"
+      ],
+      "date_ref": "1972",
+      "conflicts_with": [],
+      "added_version": "4.14",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_0601",
+      "claim": "R.L. Charlton, author of 'Notes re Early Days of YMCA Camps at Lake St. Joseph and Kanawana' (1943), was a Montreal independent marine surveyor, Treasurer of the Canadian Board of Marine Underwriters, and an 'ardent YMCA worker' who served with the YMCA in France during WWI supporting Canadian troops",
+      "sources": [
+        "src_cbmu_charlton"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "R.L. Charlton",
+        "CBMU"
+      ],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "4.14",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_0602",
+      "claim": "Harold C. Cross authored 'One Hundred Years of Service to Youth' (also known as 'One Hundred Years: The Story of the Montreal YMCA'), a centennial history covering 1851-1951; manuscript, draft chapters, and printer quotations are in the Concordia archives (P0145/1B)",
+      "sources": [
+        "src_concordia_fonds_1B"
+      ],
+      "confidence": "stated",
+      "category": "sources_archives",
+      "entities": [
+        "Harold C. Cross",
+        "Concordia Archives"
+      ],
+      "date_ref": "1951",
+      "conflicts_with": [],
+      "added_version": "4.14",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_0603",
+      "claim": "Harold Cross and Murray Ross corresponded while simultaneously writing their respective YMCA histories (Montreal Association and national Canadian YMCA) circa 1950; their correspondence survives in the Concordia fonds",
+      "sources": [
+        "src_concordia_fonds_1B"
+      ],
+      "confidence": "stated",
+      "category": "sources_archives",
+      "entities": [
+        "Harold C. Cross",
+        "Murray G. Ross"
+      ],
+      "date_ref": "1950",
+      "conflicts_with": [],
+      "added_version": "4.14",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_0604",
+      "claim": "Murray George Ross (1910-2000) served as founding President of York University (1959-1970) after a career as YMCA staff member; he authored 'The YMCA in Canada: The Chronicle of a Century' (Ryerson Press, 1951, 517 pages)",
+      "sources": [
+        "src_wikipedia_murray_ross"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "Murray G. Ross",
+        "York University"
+      ],
+      "date_ref": "1951",
+      "conflicts_with": [],
+      "added_version": "4.14",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_0605",
+      "claim": "The Internet Archive 'ymca-montreal-fonds' collection, uploaded by Concordia University Records Management since September 2022, contains at least 25 digitized items including annual reports (1856, 1876, 1889-1890, 1891-1892, 1993), historical publications, photographs, and Kanawana-specific materials",
+      "sources": [
+        "src_ia_sandham_1873"
+      ],
+      "confidence": "stated",
+      "category": "sources_archives",
+      "entities": [
+        "Internet Archive",
+        "Concordia University"
+      ],
+      "date_ref": "2022",
+      "conflicts_with": [],
+      "added_version": "4.14",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_0606",
+      "claim": "Alfred Sandham published 'History of the Montreal YMCA' in 1873, the earliest known history of the Montreal YMCA; digitized on Internet Archive",
+      "sources": [
+        "src_ia_sandham_1873"
+      ],
+      "confidence": "stated",
+      "category": "ymca_montreal",
+      "entities": [
+        "Alfred Sandham",
+        "YMCA Montreal"
+      ],
+      "date_ref": "1873",
+      "conflicts_with": [],
+      "added_version": "4.14",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_0607",
+      "claim": "On July 7, 1913, The Montreal Gazette reported two detachments of Montreal YMCA boys leaving for Kamp Kanawana, with programme adapted for specific ages including instruction in athletics, educational subjects, and Bible study; speakers included M.F. Furey (physical director) and Dr. Hamilton",
+      "sources": [
+        "src_newspapers_gazette_1913"
+      ],
+      "confidence": "stated",
+      "category": "operations",
+      "entities": [
+        "Kamp Kanawana",
+        "M.F. Furey"
+      ],
+      "date_ref": "1913",
+      "conflicts_with": [],
+      "added_version": "4.14",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_0608",
+      "claim": "In July 1918, Kamp Kanawana was visited by Mr. and Mrs. Frank Lawes of London, England, who were touring the world filming YMCA work; a reel of camp activities was added to their collection, making it potentially the earliest known film footage of Kanawana",
+      "sources": [
+        "src_newspapers_gazette_1918"
+      ],
+      "confidence": "stated",
+      "category": "events",
+      "entities": [
+        "Frank Lawes",
+        "Kamp Kanawana"
+      ],
+      "date_ref": "1918",
+      "conflicts_with": [],
+      "added_version": "4.14",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_0609",
+      "claim": "Stuart McLean recorded 'A Letter from Camp' for the Vinyl Cafe 'Up & Away' 4-CD collection (2016, Disc Three), in which he 'inserts a personal story from his own days at his beloved summer camp'",
+      "sources": [
+        "src_mclean_letter_from_camp"
+      ],
+      "confidence": "stated",
+      "category": "notable_alumni",
+      "entities": [
+        "Stuart McLean",
+        "Vinyl Cafe"
+      ],
+      "date_ref": "2016",
+      "conflicts_with": [],
+      "added_version": "4.14",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_0610",
+      "claim": "Complete Pip Award recipients: 2007 Richard 'Itche' Kerr, 2008 Rick Patten, 2009 Stuart McLean, 2011 Bruce Netherwood, 2012 John Cleghorn, 2013 Sam Lazarus (posthumous) & Lazarus family, 2014 Jeniene Phillips Birks, 2015 Terry 'Aislin' Mosher, 2016 Carol Skinner, 2017 Chris Adam, 2018 Marina Sharpe (no 2010 recipient listed)",
+      "sources": [
+        "src_ymca_pip_mosher",
+        "src_ymca_pip_skinner",
+        "src_ymca_pip_adam",
+        "src_ymca_pip_sharpe"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "Pip Award"
+      ],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "4.14",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_0611",
+      "claim": "Samuel Karl Lazarus (born March 3, 1978) died January 14, 2004 in Kumasi, Ghana, of cerebral malaria at age 25; the Samuel Lazarus Fund was established at Kamp Kanawana, 1435 Drummond Street, 4th Floor, Montreal",
+      "sources": [
+        "src_newspapers_gazette_1913"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "Samuel Lazarus",
+        "Samuel Lazarus Fund"
+      ],
+      "date_ref": "2004",
+      "conflicts_with": [],
+      "added_version": "4.14",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_0612",
+      "claim": "The A. Ross Seaman Memorial Fund was established in 1987 at Concordia University to honour his dedication to Concordia, Dawson College, Kamp Kanawana, and the YMCA; provides annual awards for leadership and scholarship",
+      "sources": [
+        "src_concordia_seaman_fund"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "A. Ross Seaman",
+        "Concordia University",
+        "Kamp Kanawana"
+      ],
+      "date_ref": "1987",
+      "conflicts_with": [],
+      "added_version": "4.14",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_0613",
+      "claim": "The Kamp Kanawana Marching Song refrain 'Hail, hail, the gang's all here' derives from the 1915 American song 'Alabama Jubilee' by D.A. Esrom (pseudonym of Dolly Morse), set to a tune from Arthur Sullivan's 'The Pirates of Penzance'; lost verses were rediscovered in the Kanawana Archives at Concordia in 2006",
+      "sources": [
+        "src_spirit_kanawana_blog",
+        "src_wikipedia_alabama_jubilee"
+      ],
+      "confidence": "stated",
+      "category": "traditions",
+      "entities": [
+        "Kanawana Marching Song",
+        "Alabama Jubilee"
+      ],
+      "date_ref": "2006",
+      "conflicts_with": [],
+      "added_version": "4.14",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_0614",
+      "claim": "The Canadian Centre for Architecture holds architectural drawings for a Doctor's Cottage at Kamp Kanawana by Ross & Macdonald, one of Canada's most prominent architectural firms (designers of Mount Royal Hotel, Chateau Laurier, Union Station Toronto)",
+      "sources": [
+        "src_cca_ross_macdonald_kanawana"
+      ],
+      "confidence": "stated",
+      "category": "facilities",
+      "entities": [
+        "Ross & Macdonald",
+        "CCA",
+        "Doctor's Cottage"
+      ],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "4.14",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_0615",
+      "claim": "Lac Kanawana has a surface area of 0.235 km2, maximum depth 12.5m, mean depth 5.4m, altitude 318.4m, watershed 5.17 km2, and water renewal time of 0.43 years; located in Saint-Sauveur, MRC Les Pays-d'en-Haut",
+      "sources": [
+        "src_crel_lac_kanawana"
+      ],
+      "confidence": "stated",
+      "category": "geography",
+      "entities": [
+        "Lac Kanawana",
+        "Saint-Sauveur"
+      ],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "4.14",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_0616",
+      "claim": "The municipality changed its name from Howard Township to Saint-Adolphe-d'Howard in 1939; Villa Howard earned the reputation 'Miami of the Laurentians' in the 1950s",
+      "sources": [
+        "src_baladodecouverte_howard"
+      ],
+      "confidence": "stated",
+      "category": "geography",
+      "entities": [
+        "Saint-Adolphe-d'Howard",
+        "Villa Howard"
+      ],
+      "date_ref": "1939",
+      "conflicts_with": [],
+      "added_version": "4.14",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_0617",
+      "claim": "Emma Anders recorded 'Feels Like Home (Live)' inspired by 'the magic of Coyote Camp at YMCA Kanawana August 21st-25th, 2017', confirming 'Coyote Camp' as a program name at Kanawana",
+      "sources": [
+        "src_emma_anders_kanawana"
+      ],
+      "confidence": "stated",
+      "category": "programs",
+      "entities": [
+        "Coyote Camp",
+        "Emma Anders"
+      ],
+      "date_ref": "2017",
+      "conflicts_with": [],
+      "added_version": "4.14",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_0618",
+      "claim": "The McMorris thesis author is Grace McMorris (not 'Tina' as previously recorded in some project notes); completed August 22, 2023, convocation Fall 2023; advisor was Peter Gossage; eprint ID 992763",
+      "sources": [
+        "src_mcmorris_thesis"
+      ],
+      "confidence": "stated",
+      "category": "meta",
+      "entities": [
+        "Grace McMorris",
+        "Peter Gossage"
+      ],
+      "date_ref": "2023",
+      "conflicts_with": [],
+      "added_version": "4.14",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_0619",
+      "claim": "Concordia's Records Management and Archives (RMA) reached a milestone of 5,000 items uploaded to Internet Archive as of December 2022; the YMCA fonds digitization began uploading in September 2022",
+      "sources": [
+        "src_ia_sandham_1873"
+      ],
+      "confidence": "stated",
+      "category": "sources_archives",
+      "entities": [
+        "Concordia University",
+        "Internet Archive"
+      ],
+      "date_ref": "2022",
+      "conflicts_with": [],
+      "added_version": "4.14",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_0620",
+      "claim": "Camp YMCA Kanawana maintains active social media: Instagram @ymcakanawana (1,824 followers, 571 posts), TikTok @campymcakanawana, and X/Twitter @YMCA_Kanawana",
+      "sources": [
+        "src_ymca_website"
+      ],
+      "confidence": "stated",
+      "category": "meta",
+      "entities": [
+        "Camp YMCA Kanawana"
+      ],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "4.14",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_0621",
+      "claim": "Frank Crabbe was an ex-Weredale Boy who died in the Vietnam War in 1966, connecting the YMCA Montreal camp community (Camp Lewis, Weredale House) to the broader social history of the 1960s",
+      "sources": [
+        "src_blog_frank_crabbe"
+      ],
+      "confidence": "stated",
+      "category": "related_camps",
+      "entities": [
+        "Frank Crabbe",
+        "Weredale House",
+        "Camp Lewis"
+      ],
+      "date_ref": "1966",
+      "conflicts_with": [],
+      "added_version": "4.14",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_0622",
+      "claim": "The 1993 promotional film 'Kamp Kanawana: The Experience that Lasts a Lifetime' was directed by Cathy Reeves, produced by Laurentien Productions for the Montreal YMCA; 9-minute VHS with voiceover narration and camper testimonials; an access copy is reportedly on YouTube per the Concordia catalog",
+      "sources": [
+        "src_concordia_atom_12B04"
+      ],
+      "confidence": "stated",
+      "category": "sources_archives",
+      "entities": [
+        "Cathy Reeves",
+        "Laurentien Productions"
+      ],
+      "date_ref": "1993",
+      "conflicts_with": [],
+      "added_version": "4.14",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_0623",
+      "claim": "The Concordia archives (P0145/12N03) contain records of the Canadian Camping Association founding (1936-1937), constitution (1937, 1942), executive meetings (1937-1942), camping school at McGill University (1937-1940), and lists of camps/officials/counsellors (1939-1948)",
+      "sources": [
+        "src_concordia_fonds"
+      ],
+      "confidence": "stated",
+      "category": "sources_archives",
+      "entities": [
+        "Canadian Camping Association",
+        "McGill University"
+      ],
+      "date_ref": "1936",
+      "conflicts_with": [],
+      "added_version": "4.14",
       "added_by": "ralph_loop"
     }
   ]

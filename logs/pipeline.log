@@ -715,3 +715,20 @@
   - 1 draft: ralph-dawson (blocked — needs user-provided text)
   - 0 stubs remaining
   - KB: 591 facts, 108+ sources (v4.13)
+
+[2026-03-02T00:00:00Z] RALPH R1: Concordia Archives coverage audit + web mining sweep
+  - 4 research agents deployed: McMorris thesis + IA collection, Dimock/Cross/founding docs, cultural/program materials, Quebec archives/newspapers
+  - McMorris thesis: Corrected metadata (Grace McMorris, 2023, eprint 992763, 129pp). PDF URL confirmed public. Proxy blocks download.
+  - Internet Archive: Full ymca-montreal-fonds collection mapped (25+ items). 7 NEW items identified not in sources.json (annual reports 1856-1993, Sandham 1873, Historical Sketch 1901, SGW Bulletin 1932, news releases 1965/1980).
+  - Hedley Dimock: Two distinct individuals identified (father 1891-1958, son c.1928-). Father co-authored Camping and Character (1929). Son conducted Kanawana studies 1960-61 and founded SGW Applied Social Science dept 1963. ACA Dimock Award est. 1965.
+  - R.L. Charlton: Identified as Montreal marine surveyor, CBMU Treasurer, WWI YMCA volunteer in France.
+  - Harold Cross: One Hundred Years of Service to Youth (1951) manuscript confirmed. Cross-Ross correspondence found.
+  - Murray Ross: Full biography compiled (founding president York University). 517pp YMCA in Canada (1951) not digitized.
+  - Cultural: Kanawana Marching Song traced to Alabama Jubilee (1915). 1918 Frank Lawes film footage identified. Stuart McLean "A Letter from Camp" (2016 Vinyl Cafe). Complete Pip Award recipient list 2007-2018.
+  - CCA: Ross & Macdonald architectural drawings for Doctor's Cottage at Kanawana.
+  - Quebec: Gazette July 7, 1913 article found. Samuel Lazarus Fund details. A. Ross Seaman Memorial Fund (1987). Lac Kanawana environmental data. Saint-Adolphe-d'Howard renamed 1939.
+  - New sources: 18 added to sources.json (total: 126)
+  - New facts: 32 added to facts.json (total: 623, version v4.14)
+  - New priorities: 12 added (total: 64)
+  - Key finding: Priority unread documents (Dawson 1933, Charlton 1943, Cushing 1943, 1910 Report, 1895 Journal) confirmed NOT available online. Physical Concordia visit remains highest-impact action.
+  - Actionable items for user: Download McMorris PDF, IA Historical Sketch 1901, IA Annual Report 1891-92, AtoM finding aid PDF.
