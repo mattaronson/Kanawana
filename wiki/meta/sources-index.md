@@ -7,7 +7,7 @@
 
 ## Summary
 
-This article catalogs all sources consulted for the Kanawana Wiki Builder project. As of February 2026, the knowledge base draws on 85 source records spanning primary camp publications (1921–1980), archival finding aids, academic research, biographical references, and web sources. The collection is anchored by Grace McMorris's 2023 Concordia MA thesis, eleven Internet Archive primary documents, and Concordia University's YMCA of Montreal Fonds P145.
+This article catalogs all sources consulted for the Kanawana Wiki Builder project. As of March 2026, the knowledge base draws on 126 source records spanning primary camp publications (1921–1980), archival finding aids, academic research, biographical references, and web sources. The collection is anchored by Grace McMorris's 2023 Concordia MA thesis, Internet Archive primary documents (including a newly mapped ymca-montreal-fonds collection of 25+ items), and Concordia University's YMCA of Montreal Fonds P145.
 
 ## Primary Sources (31)
 
@@ -23,6 +23,20 @@ This article catalogs all sources consulted for the Kanawana Wiki Builder projec
 | The Green Triangle, July 29, 1938 | 1938-07-29 | Camp newsletter | Fancy dress ball, staff names. 7,180 chars. |
 | CFCF Radio Broadcast — YMCA Kamp Kanawana | 1941-06-26 | Radio transcript | 48th season broadcast. 7,846 chars. |
 | Ka-News, May 1980 | 1980-05 | Staff newsletter | Director "Dave," 14+ staff names, programs. |
+
+### Internet Archive: YMCA Montreal Fonds Collection (NEW — March 2026)
+
+Concordia University's Records Management uploaded 25+ digitized items to Internet Archive (collection: ymca-montreal-fonds) starting September 2022. Newly identified items not yet extracted include:
+
+| Source | Date | Notes |
+|--------|------|-------|
+| Alfred Sandham, *History of the Montreal YMCA* | 1873 | Earliest known YMCA Montreal history. |
+| *Historical Sketch of the YMCA of the City of Montreal* (Jubilee) | 1901 | Covers 1851–1901, overlaps Camp Jubilee founding. HIGH PRIORITY. |
+| YMCA Annual Report 1889–1890 | 1890 | Pre-camp-founding. |
+| YMCA Annual Report 1891–1892 | 1892 | Immediately pre-founding. May document Cushing's 1892 trip. HIGH PRIORITY. NOTE: IA identifier uses '1991-1992' (metadata typo). |
+| SGW College Bulletin, September 1932 | 1932 | May contain YMCA/camp references. |
+| YMCA News Release: Largest Sum (1965) | 1965-04-27 | Fundraising campaign. |
+| YMCA News Release: Back in Pointe Saint-Charles (1980) | 1980-03-17 | Institutional context. |
 
 ### YMCA Official Documents
 
@@ -50,6 +64,7 @@ This article catalogs all sources consulted for the Kanawana Wiki Builder projec
 | Montreal Gazette — "YMCA Summer Camp Kanawana" | 1897-07-07 | Earliest known newspaper reference. |
 | Montreal Gazette — "At Camp Kanawana" | 1918-07-11 | 110 members, detailed activities, Woodcraft League visit. |
 | Montreal Gazette — "Youngsters Have Gay Time at Camp" | 1918-07-27 | Additional 1918 coverage. |
+| Montreal Gazette — "YMCA Boys Leave for Kamp Kanawana" | 1913-07-07 | Two detachments, M.F. Furey, Dr. Hamilton. Behind paywall. |
 | La Presse — Desjardins $1M donation | 2018-05-15 | New pavilion construction. |
 
 ## Secondary Sources (37)
@@ -83,6 +98,11 @@ Selected highlights from 37 secondary sources:
 - **Camping movement**: CCA history, OCA history, Taylor Statten Camps, Pine Crest Encyclopedia
 - **Cushing family**: DCB (Lemuel Sr.), Wikipedia (Lemuel Jr.), Beer Et Seq (Thomas/brewing)
 - **1967 Centennial**: Wikipedia (Voyageur Pageant, Hodgins, Starkell, Ross), Manitoba Sports HOF, Canada Ehx
+- **Hedley Dimock**: ACA Dimock Biography (PDF), Concordia Archives 12B05
+- **Architecture**: CCA Ross & Macdonald fonds (Doctor's Cottage drawings)
+- **Environment**: CREL Laurentides Lac Kanawana data
+- **Heritage**: BaladoDecouverte Saint-Adolphe-d'Howard tour
+- **Camping movement**: University of Minnesota Kautz YMCA Archives (YMCA in Canada records)
 
 ## Tertiary Sources (12)
 
@@ -94,21 +114,22 @@ John Wilson McConnell, Lemuel Cushing Jr., Centennial Voyageur Canoe Pageant, Br
 
 | Category | Count |
 |----------|-------|
-| Primary (camp publications, archives, oral history, newspapers) | 31 |
-| Secondary (academic, organizational, biographical) | 40 |
-| Tertiary (Wikipedia) | 14 |
-| **Total** | **85** |
-| Extracted (KB facts generated) | 74 |
-| Unextracted | 11 |
+| Primary (camp publications, archives, oral history, newspapers) | 38 |
+| Secondary (academic, organizational, biographical) | 56 |
+| Tertiary (Wikipedia) | 16 |
+| Catalog references | 16 |
+| **Total** | **126** |
+| Extracted (KB facts generated) | 98 |
+| Unextracted (awaiting download or access) | 28 |
 | With cached text on disk | 18 |
 
 ## KB Statistics
 
 | Metric | Count |
 |--------|-------|
-| Total facts | 515 |
-| Fact categories | 25+ |
-| KB version | 4.6+ |
+| Total facts | 623 |
+| Fact categories | 40 |
+| KB version | v4.14 |
 
 ## Open Questions
 

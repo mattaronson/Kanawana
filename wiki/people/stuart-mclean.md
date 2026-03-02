@@ -1,6 +1,6 @@
 # Stuart McLean
 
-*Status: E1-reviewed | Sources: src_samaritanmag_mclean, src_ourkids_mclean, src_ymca_website, src_oral_aronson, src_wikipedia_stuart_mclean, src_canadian_encyclopedia_mclean, src_montrealer_mclean, src_concordia_mclean_tribute, src_cbc_mclean_fund, src_westmount_mag_mclean, src_ymca_john_island_mclean_speech, src_cbc_mclean_obit, src_mcmaster_mclean_fonds*
+*Status: E1-reviewed | Sources: src_samaritanmag_mclean, src_ourkids_mclean, src_ymca_website, src_oral_aronson, src_wikipedia_stuart_mclean, src_canadian_encyclopedia_mclean, src_montrealer_mclean, src_concordia_mclean_tribute, src_cbc_mclean_fund, src_westmount_mag_mclean, src_ymca_john_island_mclean_speech, src_cbc_mclean_obit, src_mcmaster_mclean_fonds, src_mclean_letter_from_camp*
 *Last Updated: 2026-02-19 (R3 VERIFY pass)*
 
 ## Overview
@@ -57,10 +57,12 @@ McLean donated his archives — 100 boxes spanning 16 metres — to McMaster Uni
 
 A podcast, *Backstage at the Vinyl Cafe*, produced by Jess Milton, launched in January 2023, drawing on the archival recordings.^7
 
+McLean recorded "A Letter from Camp" for the *Vinyl Cafe* album *Up & Away* (2016, Disc Three), in which he inserted a personal story from his camp days.^14 This is the only identified *Vinyl Cafe* recording with direct camp content.
+
 ## Open Questions
 
 1. [Important] Who was the camp director McLean worked under as assistant director in 1974–1975? A Westmount Magazine commenter identified himself as that director but gave no name.^10
-2. [Important] Did specific *Vinyl Cafe* stories reference camp or Kanawana? No camp-themed Dave and Morley story has been identified, though McLean's camp values pervade the show's themes.
+2. [Partially resolved] Did specific *Vinyl Cafe* stories reference camp or Kanawana? "A Letter from Camp" on the *Up & Away* 4-CD collection (Disc Three, 2016) includes a personal story from McLean's camp days.^14 No camp-themed Dave and Morley story has been identified, though McLean's camp values pervade the show's themes.
 3. [Nice-to-have] What is the date and venue of McLean's speech to YMCA camp directors? The John Island Alumni Newsletter (Spring 2012) excerpted it but did not date the original speech.^3
 4. [Nice-to-have] Does the McMaster fonds contain camp-related materials (photographs, letters from 1969–1975)?^13
 5. [Nice-to-have] What is the cumulative total raised by the Stuart McLean Fund since 2017?
@@ -87,6 +89,7 @@ A podcast, *Backstage at the Vinyl Cafe*, produced by Jess Milton, launched in J
 11. The Canadian Encyclopedia, "Stuart McLean." URL: https://www.thecanadianencyclopedia.ca/en/article/stuart-mclean
 12. CBC News, "Stuart McLean, host of CBC Radio's Vinyl Cafe, dead at 68" (2017). URL: https://www.cbc.ca/news/entertainment/stuart-mclean-dead-obit-1.3984826
 13. McMaster University, "Stuart McLean fonds." URL: https://archives.mcmaster.ca/index.php/stuart-mclean-fonds
+14. Stuart McLean, "A Letter from Camp," *The Vinyl Cafe: Up & Away* 4-CD collection, Disc Three (2016). Spotify: https://open.spotify.com/track/5Zg6psuVWQQbZb2p4Ij0JC
 
 ## Research Notes
 

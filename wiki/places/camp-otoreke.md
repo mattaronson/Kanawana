@@ -11,7 +11,7 @@ Camp Otoreke was the YMCA of Montreal's original camping site, located on island
 
 Lake Saint-Joseph is located in the Township of Howard (now Saint-Adolphe-d'Howard).^2 The lake measures approximately 3 km long by 1 km at maximum width.^2 The YMCA purchased three islands in the lake for the camp, which had a landing area on the shore.^1 A historical postcard titled "A View of The YMCA Camp Landing, Otoreke, Quebec" shows a developed landing dock and waterfront facilities.^3
 
-Saint-Adolphe-d'Howard is a municipality in the Laurentians region of Quebec, in the Pays-d'en-Haut Regional County Municipality.^2
+Saint-Adolphe-d'Howard is a municipality in the Laurentians region of Quebec, in the Pays-d'en-Haut Regional County Municipality.^2 The municipality changed its name from Howard Township to Saint-Adolphe-d'Howard in 1939; the area was popularly known as "Villa Howard" and earned the reputation "Miami of the Laurentians" in the 1950s.^11
 
 ## Founding as Camp Jubilee (1894)
 
@@ -70,3 +70,4 @@ Camp Otoreke closed in 1982 after nearly 90 years of continuous operation.^1 The
 8. QAHN photograph: Camp Otoreke 1944, https://qahn.org/image/camp-otoreke-ymca-camp-saint-adolph-dhoward-1944
 9. The Gas Bag, 1923 Re-union Number, Internet Archive.
 10. "A History of Kamp Kanawana" (1935 Season Chronicle), Internet Archive.
+11. BaladoDecouverte, "Saint-Adolphe-d'Howard History" heritage tour. URL: https://baladodecouverte.com/circuits/900/poi/10164/saint-adolphe-d-howard-history

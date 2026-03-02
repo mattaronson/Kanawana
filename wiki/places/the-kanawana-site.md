@@ -1,6 +1,6 @@
 # The Kanawana Site
 
-*Status: E1-reviewed | Sources: src_ymca_website, src_kanawana_facts, src_brochure_1921, src_brochure_1922, src_gas_bag_1923, src_green_triangle_1938, src_mcmorris_thesis, src_concordia_fonds, src_wikidata_lac_kanawana, src_lapresse_ymca_2018, src_weredale_camp, src_mysummercamps_kanawana*
+*Status: E1-reviewed | Sources: src_ymca_website, src_kanawana_facts, src_brochure_1921, src_brochure_1922, src_gas_bag_1923, src_green_triangle_1938, src_mcmorris_thesis, src_concordia_fonds, src_wikidata_lac_kanawana, src_lapresse_ymca_2018, src_weredale_camp, src_mysummercamps_kanawana, src_crel_lac_kanawana*
 *Last Updated: 2026-02-19 (E1 REVIEW pass v52)*
 
 ## Overview
@@ -14,7 +14,7 @@ The camp is situated approximately 90 km north of Montreal by road,^1 or about 4
 ## The Three Lakes
 
 ### Lake Kanawana
-The camp's main lake, used for swimming, boating, and waterfront activities. The sand beach has a marked swimming area with canoes, kayaks, paddleboards, a water trampoline, a barge, and a rescue boat.^7
+The camp's main lake, used for swimming, boating, and waterfront activities. The sand beach has a marked swimming area with canoes, kayaks, paddleboards, a water trampoline, a barge, and a rescue boat.^7 Environmental monitoring data from the Conseil régional de l'environnement des Laurentides (CREL) records the lake's surface area as 0.235 km², maximum depth 12.5 metres, mean depth 5.4 metres, altitude 318.4 metres above sea level, watershed area 5.17 km², and a water renewal time of 0.43 years.^16
 
 ### Lake Wilson
 Described as "one of the most beautiful parts of the site," noted for its views, sunsets, and opportunities for stargazing.^8 Year-round private camp sites are available at Lake Wilson, providing a more secluded experience than the main site.^1 In 1923, Lac Wilson was among the hike destinations from camp.^6
@@ -80,7 +80,7 @@ In 2018, Desjardins donated $1 million to the YMCA for renovations at Camp Kanaw
 
 ## Environmental Character
 
-The camp's 550 acres of Laurentian forest and three private lakes provide the setting for environmental education and conservation programming. The YMCA emphasizes stewardship values, and youth participate in community-based conservation projects implemented throughout the year.^1 ^7 No formal ecological survey or environmental designation has been identified in public records.
+The camp's 550 acres of Laurentian forest and three private lakes provide the setting for environmental education and conservation programming. The YMCA emphasizes stewardship values, and youth participate in community-based conservation projects implemented throughout the year.^1 ^7 Lac Kanawana is monitored by the Conseil régional de l'environnement des Laurentides (CREL), which classifies it within the municipality of Saint-Sauveur in the MRC Les Pays-d'en-Haut.^16 The lake's watershed of 5.17 km² and rapid water renewal time (0.43 years) reflect its position in the Laurentian hydrological system. No formal ecological survey or environmental designation has been identified in public records.
 
 ## Proposed Two-Site Operation
 
@@ -124,3 +124,4 @@ From 1977 to 1980, plans existed for a proposed two-site operation using Kanawan
 13. Concordia University Archives, YMCA of Montreal Fonds P145.
 14. La Presse, "Un million pour les YMCA" (May 15, 2018).
 15. Camp Weredale, https://weredalecamp.com/
+16. Conseil régional de l'environnement des Laurentides (CREL), Lac Kanawana environmental data. URL: https://crelaurentides.org/lake/kanawana/

@@ -755,7 +755,9 @@
       "blocking": false,
       "assigned_weight": "P3",
       "created_at": "2026-03-02T00:00:00Z",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-03-02T01:00:00Z",
+      "result": "Hedley Dimock stub created (700 words, 3 sources, 5 open questions). Two Dimocks documented: father (1891-1958, Camp Ahmek, Camping and Character, ACA Award) and son (c.1928-, Kanawana studies 1960-61, SGW/Concordia dept founder). 9 KB facts cited."
     },
     {
       "priority_id": "p_060",

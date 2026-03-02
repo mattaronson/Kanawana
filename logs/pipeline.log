@@ -732,3 +732,18 @@
   - New priorities: 12 added (total: 64)
   - Key finding: Priority unread documents (Dawson 1933, Charlton 1943, Cushing 1943, 1910 Report, 1895 Journal) confirmed NOT available online. Physical Concordia visit remains highest-impact action.
   - Actionable items for user: Download McMorris PDF, IA Historical Sketch 1901, IA Annual Report 1891-92, AtoM finding aid PDF.
+
+[2026-03-02T01:00:00Z] WRITE/UPDATE: Article updates from research sweep findings
+  - stuart-mclean.md: Added "A Letter from Camp" Vinyl Cafe recording (2016). Source 14 added. Open Question 2 partially resolved.
+  - pip-alumni-award.md: Samuel Lazarus biography expanded (DOB, death location/cause, Gazette obituary, fund address). Source 12 added.
+  - the-kanawana-site.md: Added CREL environmental data for Lac Kanawana (surface 0.235 km², max depth 12.5m, mean depth 5.4m, altitude 318.4m, watershed 5.17 km², renewal 0.43 yr). Source 16 added.
+  - camp-otoreke.md: Added Saint-Adolphe-d'Howard rename (1939) and "Miami of the Laurentians" detail. Source 11 added.
+  - traditions-and-culture.md: Complete Pip Award years added for all recipients 2007-2018.
+  - directors-index.md: R.L. Charlton biography expanded (marine surveyor, CBMU Treasurer, WWI YMCA volunteer). Hedley G. Dimock career expanded (SGW dept founder 1963, Raye Kass collaboration 1972+). A. Ross Seaman Memorial Fund (1987) added. Sources 13-15 added.
+  - sources-index.md: Updated counts (85→126 sources, 515→623 facts). Added IA ymca-montreal-fonds collection table. Added new secondary source categories.
+
+[2026-03-02T01:00:00Z] WRITE: Created hedley-dimock.md stub
+  - Two Dimocks documented: father (1891-1958, Camp Ahmek researcher) and son (c.1928-, Kanawana studies 1960-61)
+  - 700 words, 3 sources, 5 open questions
+  - Priority p_059 marked completed
+  - Article added to articles.json (total: 28)

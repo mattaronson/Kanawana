@@ -59,9 +59,9 @@ The 1921, 1922, and 1923 camp brochures and the 1923 *Gas Bag* reunion newslette
 
 ### Post-War Staff (1943-1961)
 
-**Camp historians.** R.L. Charlton authored "Notes re Early Days of YMCA Camps at Lake St. Joseph and Kanawana" in 1943, and W.E. Cushing wrote "Historical sketches — Lake St. Joseph" in the same year. Both manuscripts are held in Concordia Archives sub-series 12A.^2
+**Camp historians.** R.L. Charlton authored "Notes re Early Days of YMCA Camps at Lake St. Joseph and Kanawana" in 1943. Charlton was a Montreal independent marine surveyor, Treasurer of the Canadian Board of Marine Underwriters, and an "ardent YMCA worker" who went to France with the YMCA during WWI to serve Canadian troops.^13 W.E. Cushing wrote "Historical sketches — Lake St. Joseph" in the same year. Both manuscripts are held in Concordia Archives sub-series 12A.^2
 
-**Staff development.** Hedley G. Dimock, Coordinator of Staff Development and Training for the Montreal YMCA and lecturer at Sir George Williams University, conducted research at Kamp Kanawana on camp counsellor effectiveness in 1960-1961.^2
+**Staff development.** Hedley G. Dimock, Coordinator of Staff Development and Training for the Montreal YMCA and lecturer at Sir George Williams University, conducted research at Kamp Kanawana on camp counsellor effectiveness in 1960-1961.^2 In 1963, Dimock became the first Chairman of the Department of Applied Social Science and Director of the Centre for Human Relations and Community Studies at Sir George Williams University.^14 He collaborated extensively with Dr. Raye Kass on group development publications at Concordia University from 1972 onward.^14
 
 ### The 1980 Season
 
@@ -79,6 +79,10 @@ The "Pip" Alumni Award, named after Philip "Pip" Caddell (1913-2004, camper 1928
 | Carol Skinner | 1990-1995 | ALS advocate | 2016 |
 | Chris Adam | years unknown | Environmentalist, teacher | 2017 |
 | Marina Sharpe | years unknown | Refugee advocate | 2018 |
+
+### Memorials and Endowments
+
+The **A. Ross Seaman Memorial Fund** was established in 1987 at Concordia University to honour Seaman's dedication to Concordia, Dawson College, Kamp Kanawana, and the YMCA. The fund provides annual awards for leadership and scholarship.^15
 
 ## Gap Periods
 
@@ -129,6 +133,9 @@ The following periods have no confirmed camp director:
 10. R.H. Hanagan, camp director report (c. 1946), Concordia Archives.
 11. Nelson McEwen, National Council Boys' Work correspondence (1941-1945), Concordia Archives sub-series 14D.
 12. Oral history, Matt Aronson.
+13. Canadian Board of Marine Underwriters records; R.L. Charlton biographical references.
+14. Concordia University Archives, YMCA of Montreal Fonds P145/12B05 (Staff); Hedley G. Dimock publications.
+15. Concordia University, "A. Ross Seaman Memorial Fund" (est. 1987). URL: https://www.concordia.ca/artsci/applied-human-sciences/about/funding.html
 
 ## Research Notes
 

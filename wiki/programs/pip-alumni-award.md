@@ -57,7 +57,7 @@ Caddell is a Fellow of the Canadian Global Affairs Institute and the Environics 
 
 ## The Sam Lazarus Legacy
 
-Sam Lazarus, a Montrealer who worked with children at an orphanage in Ghana, died of cerebral malaria at approximately age 25. His family received the Pip Award posthumously in 2013.^3 In his memory, the annual "Sam Jam" (Five-Hole Sam Street Hockey Jamboree) fundraiser has raised approximately $230,000 and sent over 50 children to Camp Kanawana.^3 The Sam Lazarus Fund continues through the Fondation des YMCA du Québec.
+Samuel Karl Lazarus was born March 3, 1978 in Montreal. He worked with children at an orphanage in Kumasi, Ghana, where he died on January 14, 2004 of cerebral malaria at age 25.^12 His obituary appeared in the Montreal Gazette on January 24, 2004, with directions for donations to the Samuel Lazarus Fund at Kamp Kanawana, 1435 Drummond Street, 4th Floor, Montreal.^12 His family received the Pip Award posthumously in 2013.^3 In his memory, the annual "Sam Jam" (Five-Hole Sam Street Hockey Jamboree) fundraiser has raised approximately $230,000 and sent over 50 children to Camp Kanawana.^3 The Sam Lazarus Fund continues through the Fondation des YMCA du Québec.
 
 ## Open Questions
 
@@ -87,6 +87,7 @@ Sam Lazarus, a Montrealer who worked with children at an orphanage in Ghana, die
 9. Wikipedia, "Richard Patten." URL: https://en.wikipedia.org/wiki/Richard_Patten
 10. Wikipedia, "John Cleghorn." URL: https://en.wikipedia.org/wiki/John_Cleghorn
 11. Atwater Library, "Andrew Caddell biography" (August 2024). URL: https://atwaterlibrary.ca/files/Caddell-Andrew_Biography_Aug-2024.pdf
+12. Montreal Gazette, obituary for Samuel Karl Lazarus (January 24, 2004).
 
 ## Research Notes
 
