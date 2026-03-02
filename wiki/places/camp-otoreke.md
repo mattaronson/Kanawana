@@ -1,6 +1,6 @@
 # Camp Otoreke
 
-*Status: E1-reviewed | Sources: src_qahn_howard, src_mcmorris_thesis, src_gas_bag_1923, src_history_1935, src_concordia_fonds, src_kanawana_facts, src_ebay_otoreke_postcard, src_wikipedia_saint_adolphe, src_ymca_website*
+*Status: E1-reviewed | Sources: src_qahn_howard, src_mcmorris_thesis, src_gas_bag_1923, src_history_1935, src_concordia_fonds, src_kanawana_facts, src_ebay_otoreke_postcard, src_wikipedia_saint_adolphe, src_ymca_website, src_baladodecouverte_howard*
 *Last Updated: 2026-02-19 (E1 REVIEW pass v52)*
 
 ## Overview
@@ -34,6 +34,10 @@ Camp Otoreke remained connected to Kanawana as an outpost and trip destination t
 - In 1923, Otoreke served as the senior camp outpost, alongside Lake Marois.^9
 - In 1935, a four-day trip to Otoreke was made from Kanawana.^10
 - Otoreke was a regular canoe trip destination from Kanawana.^10
+
+## Regional Camping Context
+
+Camp Otoreke was not the only organized camp in the Saint-Adolphe-d'Howard area. In 1926, Msgr. McShane founded Camp Kinkora on 3 km² of private land nearby for Irish Catholic youth from Montreal — establishing a Catholic counterpart to the YMCA's Protestant camping operation.^12 The Pripstein family also operated a Jewish camp in the vicinity, making Saint-Adolphe-d'Howard a rare intersection of Montreal's three major confessional camping traditions.^12 The area's appeal for camping was reinforced by its accessibility: the municipality was approximately 11 km from the train station in Sainte-Agathe-des-Monts, which had been served by the Canadian Pacific Railway since 1892.^13
 
 ## Closure
 
@@ -71,3 +75,5 @@ Camp Otoreke closed in 1982 after nearly 90 years of continuous operation.^1 The
 9. The Gas Bag, 1923 Re-union Number, Internet Archive.
 10. "A History of Kamp Kanawana" (1935 Season Chronicle), Internet Archive.
 11. BaladoDecouverte, "Saint-Adolphe-d'Howard History" heritage tour. URL: https://baladodecouverte.com/circuits/900/poi/10164/saint-adolphe-d-howard-history
+12. BaladoDecouverte heritage tour: Camp Kinkora and regional camping context.
+13. BaladoDecouverte heritage tour: CPR railway access since 1892, distance to Sainte-Agathe station.

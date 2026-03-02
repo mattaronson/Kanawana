@@ -35,7 +35,11 @@ Seeking a larger site, the YMCA acquired land at Saint-Sauveur-des-Monts (near P
 
 The 1910 date is derived from the 1935 History, which describes the camp as being in its "twenty-sixth year of existence." The exact terms of the Page family acquisition, including price, acreage, and precise date, remain unknown.
 
-## Early Organization at the Saint-Sauveur Site (1920s)
+## Early Organization at the Saint-Sauveur Site (1910s-1920s)
+
+A July 7, 1913 article in the Montreal Gazette reported two detachments of Montreal YMCA boys leaving for Kamp Kanawana, with a programme adapted for specific ages including instruction in athletics, educational subjects, and Bible study. Speakers included M.F. Furey (physical director) and Dr. Hamilton.
+
+By 1918, the camp had its largest attendance to that date (110 members). Activities that year included first aid, basket-making, camp sanitation, wrestling, tumbling, and nature study. In July 1918, the camp was visited by Mr. and Mrs. Frank Lawes of London, England, who were touring the world filming YMCA work; a reel of Kanawana activities was added to their collection, potentially the earliest film footage of the camp if it survives.
 
 By 1923, the camp was a sophisticated operation with a staff hierarchy reflecting the broader YMCA organizational structure. Philip G. Paterson, B.A., who served as Boys' Work Secretary at the Westmount YMCA, led the camp. Two divisions, Younger boys (12-15) and Older boys (16-18), offered 32 subjects for Honour Awards, from Bible Study and Nature Study to Swimming, Canoeing, and Life Saving.
 

@@ -752,3 +752,10 @@
   - 56 orphan facts assigned to 16 articles in articles.json
   - Remaining orphan facts: 0 (all 623 facts now cited by at least one article)
   - Largest assignments: places-and-locations (+13), myths-and-legends (+9), sources-index (+8), directors-index (+6)
+
+2026-03-02T16:30:00Z | WRITE | Updated directors-index: A. Ross Seaman added as named director (pre-1963, fills part of 1947-2003 gap). Gap period note updated.
+2026-03-02T16:30:00Z | WRITE | Updated camp-otoreke: Regional Camping Context section added (Camp Kinkora 1926, Pripstein, CPR railway access). Sources 12-13 added.
+2026-03-02T16:30:00Z | KB | Assigned facts f_0631-f_0645 to articles. Zero orphans maintained (645/645 assigned).
+2026-03-02T16:30:00Z | WRITE | hedley-dimock expanded from stub to draft (RALPH R1 completed). 1100 words, 5 sources, 4 open questions.
+2026-03-02T16:30:00Z | WRITE | lv-games updated: Capitaine role section added (Leigh Evans 2012).
+2026-03-02T16:30:00Z | WRITE | founding-1894 updated: 1913 Gazette details, 1918 attendance and Lawes film footage added.

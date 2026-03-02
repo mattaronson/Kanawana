@@ -25,6 +25,7 @@ This index compiles all known directors of Camp Kanawana (originally Camp Jubile
 | Greig Macdiarmid | 1935-1938+ | Camp Chief in 1935 and confirmed again in July 1938; also listed as "W.J.G. MacDiarmid" (1936) in McMorris; recorded weight statistics | 1935 History; Green Triangle 1938; McMorris thesis |
 | Howie Langille | 1941 | Led 48th season with 68 staff and 30+ British evacuees; previously Senior Director in 1935 | CFCF 1941 broadcast; 1935 History |
 | R.H. Hanagan | 1942, 1946 | Wrote detailed season reports; managed 1946 polio outbreak (6 cases); listed as "Montreal YMCA camp director"^10 | McMorris thesis; Concordia fonds |
+| A. Ross Seaman | years unknown (pre-1963) | Director of Kamp Kanawana "for many years"; career in community work preceded directorship; became SGW faculty 1963; later chaired Dawson CRLT dept 1974-84; died 1987 | Concordia Seaman Fund^15 |
 | Stuart McLean | 1974-1975 (Asst. Dir.) | Assistant Summer Camp Director; first hired as counselor 1969, worked 5 summers | OurKids interview; Samaritan Mag |
 | "Dave" (surname unknown) | 1980 | Named as camp director and *Ka-News* newsletter author | Ka-News 1980 |
 | Bruce Netherwood | late 1980s-1990s | Now VP Camping Services, South Shore YMCA, Massachusetts; 30+ years in YMCA camping | Oral history (M. Aronson) |
@@ -94,7 +95,7 @@ The following periods have no confirmed camp director:
 - **1929**: Between Cross and McEwen
 - **1932-1934**: Between McEwen and Macdiarmid (now confirmed from 1935, narrowed from 1936)
 - **1943-1945**: Between Hanagan's documented years
-- **1947-1973**: Post-war to early 1970s (26-year gap). The 1972 "Camping and Outdoor Education Branch Director's Report" in Concordia Archives may name the director for that year.
+- **1947-1973**: Post-war to early 1970s (26-year gap). A. Ross Seaman served as Director "for many years" during this period (exact dates unknown); he transitioned to SGW faculty in 1963, so his directorship likely preceded that. The 1972 "Camping and Outdoor Education Branch Director's Report" in Concordia Archives may name the director for that year.
 - **1976-1979**: Between McLean's assistant directorship and "Dave" in 1980. The director who worked alongside Stuart McLean (1974-1975) is referenced but unnamed.
 - **1981-late 1980s**: Between "Dave" and Bruce Netherwood
 - **Late 1990s-2003**: Between Netherwood and Sean Day (2004)

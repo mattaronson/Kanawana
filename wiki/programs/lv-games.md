@@ -10,12 +10,17 @@ By 1958, McMorris describes the L&V program as "well-developed," with an establi
 
 The name itself evolved. What began as "Lumberman-Voyageur Week" eventually became simply "the L&V Games," and the event expanded in scope and intensity over the decades. For generations of Kanawana alumni, the L&V Games represent the emotional peak of the camp summer, the week when everything else falls away and the entire community organizes around a single shared competition. The fact that the tradition has survived essentially intact for nearly eight decades, with the same team names, the same basic structure, and the same position as the climax of the season, makes it one of the longest continuously running traditions in Canadian organized camping.
 
+## The Capitaine Role
+
+The role of "Capitaine" — leader of the Voyageur team — is considered one of the highest honours a staff member can receive. Leigh Evans, who attended Camp Kanawana for six summers (one as a camper, one as a Leader-in-Training, four as staff), was named Capitaine for the Voyageur team in 2012. She credited Camp Kanawana with shaping her career as an educator.^5
+
 ## Sources
 
 - McMorris, Grace. *An Experience That Lasts a Lifetime: Building Modernity, Man, and Nation at the YMCA of Montreal's Kamp Kanawana, 1894-1967*. MA thesis, Concordia University, 2023. Chapter 3. [Spectrum](https://spectrum.library.concordia.ca/id/eprint/992763/)
 - YMCA Quebec, "Summer Camp Kanawana: History" (ymcaquebec.org). States: "1947, Creation of the Lumbermen and Voyageur Games... inspired by Pinecrest Camp." References 78th edition in 2025, confirming 1947 origin (2025 minus 78 plus 1 = 1947).
 - YMCA of Greater Toronto, "Celebrating tradition with the Pine Crest Games" (ymcagta.org/blog). Confirms Pine Crest Games since 1940 with identical team structure: Voyageurs (paddle) vs Lumbermen (axe).
 - *Lumbermen & Voyageurs: The YMCA Pine Crest Story*. Camp Pine Crest commemorative book.
+5. Leigh Evans, "Camp" (blog memoir). URL: https://leighcevans.wordpress.com/about/camp/
 
 ### R3 Verification Notes
 

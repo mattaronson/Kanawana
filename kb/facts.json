@@ -1,8 +1,8 @@
 {
-  "version": "v4.14",
+  "version": "v4.15",
   "kb_version": "4.0",
   "migrated_from": "3.3",
-  "fact_count": 623,
+  "fact_count": 645,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -10544,6 +10544,390 @@
       "date_ref": "1936",
       "conflicts_with": [],
       "added_version": "4.14",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_0624",
+      "claim": "Leigh Evans attended Camp Kanawana for 6 summers: 1 as a camper, 1 as a Leader-in-Training, and 4 as staff. She was named Capitaine for the Voyageur team of the L&V Games in 2012.",
+      "sources": [
+        "src_leigh_evans_blog"
+      ],
+      "confidence": "stated",
+      "category": "camp_culture",
+      "entities": [
+        "Leigh Evans",
+        "L&V Games"
+      ],
+      "date_ref": "2012",
+      "conflicts_with": [],
+      "added_version": "4.14",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_0625",
+      "claim": "Leigh Evans described Camp Kanawana's 'Party Barge' — a large raft decorated for celebrations, used for a surprise birthday party for a 12-year-old camper. She credited Kanawana with shaping her career as an educator.",
+      "sources": [
+        "src_leigh_evans_blog"
+      ],
+      "confidence": "stated",
+      "category": "camp_culture",
+      "entities": [
+        "Leigh Evans",
+        "Party Barge"
+      ],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "4.14",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_0626",
+      "claim": "Leigh Evans wrote of Camp Kanawana: 'If you've never been, you can't understand it and if you have been, you can't explain it.'",
+      "sources": [
+        "src_leigh_evans_blog"
+      ],
+      "confidence": "stated",
+      "category": "camp_culture",
+      "entities": [
+        "Leigh Evans"
+      ],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "4.14",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_0627",
+      "claim": "The Concordia Archives Communications sub-sub-series (P0145/12B04) includes camp brochures (1921-1990s), radio broadcast scripts (1936-1941), Kanawana Outing Club posters, Knights of Kanawana artwork (1981), and a Kellogg's Frosted Flakes YMCA Camp Experience contest cereal box (1997)",
+      "sources": [
+        "src_concordia_atom_12B04"
+      ],
+      "confidence": "stated",
+      "category": "sources_archives",
+      "entities": [
+        "Concordia Archives",
+        "Knights of Kanawana",
+        "Kellogg's"
+      ],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "4.14",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_0628",
+      "claim": "CFCF, the station that broadcast the 1941 Kanawana promotional segment, was Canada's first radio station ('Canada's First, Canada's Finest'), established in 1919 from the Marconi Wireless experimental station XWA",
+      "sources": [
+        "src_cfcf_1941"
+      ],
+      "confidence": "stated",
+      "category": "context",
+      "entities": [
+        "CFCF",
+        "Marconi"
+      ],
+      "date_ref": "1919",
+      "conflicts_with": [],
+      "added_version": "4.14",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_0629",
+      "claim": "On September 5, 2014, Camp YMCA Kanawana alumni assembled at Victoria Hall, Westmount to celebrate the camp's 120th anniversary reunion",
+      "sources": [
+        "src_ymca_120th"
+      ],
+      "confidence": "stated",
+      "category": "events",
+      "entities": [
+        "Camp Kanawana",
+        "Victoria Hall"
+      ],
+      "date_ref": "2014",
+      "conflicts_with": [],
+      "added_version": "4.14",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_0630",
+      "claim": "Jonathan Birks serves as chair of Foundation Giving for the YMCA Kanawana Development Project, connecting the Birks family to camp philanthropy alongside the Pip Award connection through Jeniene Phillips Birks (2014 recipient)",
+      "sources": [
+        "src_ymca_pip_mosher"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "Jonathan Birks",
+        "Jeniene Phillips Birks",
+        "Birks family"
+      ],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "4.14",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_0631",
+      "claim": "A. Ross Seaman was Director of Kamp Kanawana for many years and earlier had a career in community work and the camping movement with the YMCA",
+      "sources": [
+        "src_concordia_seaman_fund"
+      ],
+      "confidence": "stated",
+      "category": "directors",
+      "entities": [
+        "A. Ross Seaman",
+        "Kamp Kanawana"
+      ],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "4.15",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_0632",
+      "claim": "A. Ross Seaman served as teacher and chairperson of the Community Recreation and Leadership Training (CRLT) Department at Dawson College from 1974 to 1984, where he helped establish a program focusing on camping, leadership, and community organization",
+      "sources": [
+        "src_concordia_seaman_fund"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "A. Ross Seaman",
+        "Dawson College"
+      ],
+      "date_ref": "1974",
+      "conflicts_with": [],
+      "added_version": "4.15",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_0633",
+      "claim": "In 1963, A. Ross Seaman was a part-time faculty member in Applied Social Science at Sir George Williams University, concurrent with Hedley G. Dimock's founding of the department; he was an active collaborator in the Centre for Human Relations and Community Studies",
+      "sources": [
+        "src_concordia_seaman_fund"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "A. Ross Seaman",
+        "Hedley G. Dimock",
+        "SGW University"
+      ],
+      "date_ref": "1963",
+      "conflicts_with": [],
+      "added_version": "4.15",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_0634",
+      "claim": "After retiring from Dawson College, Seaman served as acting chair of Concordia University Leisure Studies during the 1986-87 school year; he and his wife Margaret were instrumental in developing the Elder Hostel Program at the Loyola Campus",
+      "sources": [
+        "src_concordia_seaman_fund"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "A. Ross Seaman",
+        "Margaret Seaman",
+        "Concordia University"
+      ],
+      "date_ref": "1986",
+      "conflicts_with": [],
+      "added_version": "4.15",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_0635",
+      "claim": "A. Ross Seaman died in 1987. Five organizations give scholarships in his memory: Dawson College, Concordia University, Kamp Kanawana, the YMCA, and Vankleek Hill Collegiate (his home community in Ontario). The Dawson/CRLT scholarship is $500 for a second-year student.",
+      "sources": [
+        "src_concordia_seaman_fund"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "A. Ross Seaman",
+        "Vankleek Hill"
+      ],
+      "date_ref": "1987",
+      "conflicts_with": [],
+      "added_version": "4.15",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_0636",
+      "claim": "Frank Edward Crabbe (born 1946, died February 16, 1966), ex-Weredale Boy and Camp Lewis counsellor c.1964-65, enlisted in the US Marine Corps January 7, 1965 in Albany, NY; assigned to Lima Co, 3rd Battalion, 5th Marines. Killed in action south of Hill 190, Ho Vang District, Quang Nam Province. Died of extreme burns at NSA Navy Hospital, Da Nang. Buried at Cimetière Notre-Dame-des-Neiges, Montreal",
+      "sources": [
+        "src_blog_frank_crabbe"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "Frank Edward Crabbe",
+        "Camp Lewis",
+        "Weredale House"
+      ],
+      "date_ref": "1966",
+      "conflicts_with": [],
+      "added_version": "4.15",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_0637",
+      "claim": "Weredale House, located below St. Catherine Street off Atwater in Montreal, was a four-story brick building built in the 1930s by the Rotary Club (who raised $289,000). It closed in 1977 and became part of Youth Horizons, formed from Allancroft Centre, Summerhill Homes, Weredale House, and Mount Bruno Girls Cottage School",
+      "sources": [
+        "src_blog_frank_crabbe"
+      ],
+      "confidence": "stated",
+      "category": "related_camps",
+      "entities": [
+        "Weredale House",
+        "Youth Horizons",
+        "Rotary Club"
+      ],
+      "date_ref": "1977",
+      "conflicts_with": [],
+      "added_version": "4.15",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_0638",
+      "claim": "In 1934, the Rotary Club of Westmount purchased 260 acres with a mile of shoreline on Lac l'Achigan, 55 miles north of Montreal, for Camp Weredale — the summer camp for Weredale House boys",
+      "sources": [
+        "src_blog_frank_crabbe"
+      ],
+      "confidence": "stated",
+      "category": "related_camps",
+      "entities": [
+        "Camp Weredale",
+        "Lac l'Achigan",
+        "Rotary Club of Westmount"
+      ],
+      "date_ref": "1934",
+      "conflicts_with": [],
+      "added_version": "4.15",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_0639",
+      "claim": "Hedley G. Dimock retired from Concordia University in 1980; Richard D. McDonald, who joined in 1965, succeeded him as Director of the Centre for Human Relations and Community Studies. In November 1997, Applied Social Science amalgamated with Leisure Studies to form the Department of Applied Human Sciences",
+      "sources": [
+        "src_concordia_atom_12B05"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "Hedley G. Dimock",
+        "Richard D. McDonald",
+        "Concordia University"
+      ],
+      "date_ref": "1980",
+      "conflicts_with": [],
+      "added_version": "4.15",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_0640",
+      "claim": "After retirement, Hedley G. Dimock became Director of the Centre for Human Resource Development (independent consulting/research organization) in Puslinch, Ontario; adjunct professor at University of Guelph; served on faculties of 8 universities including McGill, Columbia, Toronto, and Concordia; worked with over 300 organizations across Canada; five of his books published in Japanese",
+      "sources": [
+        "src_concordia_atom_12B05"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "Hedley G. Dimock",
+        "University of Guelph"
+      ],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "4.15",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_0641",
+      "claim": "Hedley G. Dimock's publications include: 'How to Observe Your Group', 'How to Analyze and Evaluate Group Growth', 'Planning Group Development', 'Factors in Working with Groups', 'The Child in Hospital', 'Planning Staff Training Programs', 'Training for Planned Change', 'Groups', 'Designing and Facilitating Training Programs', 'Simplified Guide to Program Evaluation', 'Intervention and Empowerment', 'Administration of the Modern Camp'. Co-authored with Raye Kass: 'Leading and Managing Dynamic Groups' (Captus Press, 2008), 'How to Observe Your Group' (4th ed, 2007)",
+      "sources": [
+        "src_concordia_atom_12B05"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "Hedley G. Dimock",
+        "Raye Kass",
+        "Captus Press"
+      ],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "4.15",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_0642",
+      "claim": "Hedley Seldon Dimock (1891-1958) was married to Elizabeth Marguerite Gardiner and had 2 children; parents were Charles Turner Torry Dimock and Catherine E. Dimock. He was Director of Training for the United Service Organization (USO) during WWII",
+      "sources": [
+        "src_aca_dimock_bio"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "Hedley S. Dimock",
+        "USO"
+      ],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "4.15",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_0643",
+      "claim": "The SGW/Concordia Department of Applied Social Science grew directly from Sir George Williams University's roots in the YMCA of Montreal; in the 1940s, YMCA/SGW offered courses in counselling, group work, organization development, and supervision as part of a B.A. Principal Robert C. Rae co-envisioned the formal department with Hedley G. Dimock in 1963",
+      "sources": [
+        "src_concordia_atom_12B05"
+      ],
+      "confidence": "stated",
+      "category": "ymca_montreal",
+      "entities": [
+        "SGW University",
+        "Robert C. Rae",
+        "YMCA Montreal"
+      ],
+      "date_ref": "1963",
+      "conflicts_with": [],
+      "added_version": "4.15",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_0644",
+      "claim": "In 1926, Msgr. McShane founded Camp Kinkora on 3 km² of private land near Saint-Adolphe-d'Howard for English Catholic children. Philanthropist Charles Pripstein also built a camp for Jewish children in the area. The creation of Camp Otoreke 'marked the beginning of a wave of tourism for Saint-Adolphe that never dried up'",
+      "sources": [
+        "src_baladodecouverte_howard"
+      ],
+      "confidence": "stated",
+      "category": "related_camps",
+      "entities": [
+        "Camp Kinkora",
+        "Charles Pripstein",
+        "Saint-Adolphe-d'Howard"
+      ],
+      "date_ref": "1926",
+      "conflicts_with": [],
+      "added_version": "4.15",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_0645",
+      "claim": "Saint-Adolphe-d'Howard is approximately 11 km from the train station in Sainte-Agathe-des-Monts, which historically deterred winter (ski) tourism. Vacationers came from Quebec, Canada, the United States, and even South America",
+      "sources": [
+        "src_baladodecouverte_howard"
+      ],
+      "confidence": "stated",
+      "category": "geography",
+      "entities": [
+        "Saint-Adolphe-d'Howard",
+        "Sainte-Agathe-des-Monts"
+      ],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "4.15",
       "added_by": "ralph_loop"
     }
   ]
