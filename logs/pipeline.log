@@ -747,3 +747,8 @@
   - 700 words, 3 sources, 5 open questions
   - Priority p_059 marked completed
   - Article added to articles.json (total: 28)
+
+[2026-03-02T01:30:00Z] KB MAINTENANCE: Orphan fact integration
+  - 56 orphan facts assigned to 16 articles in articles.json
+  - Remaining orphan facts: 0 (all 623 facts now cited by at least one article)
+  - Largest assignments: places-and-locations (+13), myths-and-legends (+9), sources-index (+8), directors-index (+6)
