@@ -592,7 +592,7 @@
       "extracted": true,
       "extraction_version": "4.3",
       "reliability": "primary",
-      "notes": "Parent fonds P0145. Documents Montreal YMCA from founding Nov 1851 to late 20th century. Includes Harold C. Cross and Murray C. Ross research materials. 15 series. Donated to Concordia 2000-2005 from Norris Building. PDF finding aid available at concordia.accesstomemory.org/downloads/ymca-of-montreal-fonds-2.pdf. Series 12 covers all camping programs including 14 sub-series (12A-12N): Kanawana, Otoreke, Becsies, Dorval, Weredale, Perrot, Ski lodge, Thunderbird, Wilderness Survival, Voyageurs de la Vérendrye, Lac St-Joseph/Camp Jubilee, Day camp, Camping associations."
+      "notes": "Parent fonds P0145. Documents Montreal YMCA from founding Nov 1851 to late 20th century. Includes Harold C. Cross and Murray C. Ross research materials. 15 series. Donated to Concordia 2000-2005 from Norris Building. PDF finding aid available at concordia.accesstomemory.org/downloads/ymca-of-montreal-fonds-2.pdf. Series 12 covers all camping programs including 14 sub-series (12A-12N): Kanawana, Otoreke, Becsies, Dorval, Weredale, Perrot, Ski lodge, Thunderbird, Wilderness Survival, Voyageurs de la V\u00e9rendrye, Lac St-Joseph/Camp Jubilee, Day camp, Camping associations."
     },
     {
       "source_id": "src_concordia_atom_12B01",
@@ -672,7 +672,7 @@
       "extracted": true,
       "extraction_version": "4.3",
       "reliability": "primary",
-      "notes": "Key Kanawana items: R.L. Charlton 'Early Days of YMCA Camps at Lake St. Joseph and Kanawana' 1943; Ralph Dawson 'History of Kamp Kanawana' 1933; W.E. Cushing 'Historical sketches—Lake St. Joseph' 1943. Permanent Camp Committee minutes 1895-1896, correspondence/financial 1899-1901, minute book 1911-1926. Co-ed Camping Pilot Project reports 1967-1970. Journal of first YMCA venture to St. Agathe & Summer Camp 1895. Layout/Building Designs/Equipment 1946. Statistical profile camping programs 1977."
+      "notes": "Key Kanawana items: R.L. Charlton 'Early Days of YMCA Camps at Lake St. Joseph and Kanawana' 1943; Ralph Dawson 'History of Kamp Kanawana' 1933; W.E. Cushing 'Historical sketches\u2014Lake St. Joseph' 1943. Permanent Camp Committee minutes 1895-1896, correspondence/financial 1899-1901, minute book 1911-1926. Co-ed Camping Pilot Project reports 1967-1970. Journal of first YMCA venture to St. Agathe & Summer Camp 1895. Layout/Building Designs/Equipment 1946. Statistical profile camping programs 1977."
     },
     {
       "source_id": "src_wikipedia_murray_ross",
@@ -853,7 +853,7 @@
     {
       "source_id": "src_banq_advitam_519920",
       "type": "catalog_reference",
-      "title": "BAnQ Advitam - Fonds Archives nationales du Québec (Notice 519920)",
+      "title": "BAnQ Advitam - Fonds Archives nationales du Qu\u00e9bec (Notice 519920)",
       "date": "1985",
       "date_precision": "year",
       "origin": "concordia_archives",
@@ -864,7 +864,7 @@
       "extracted": false,
       "extraction_version": null,
       "reliability": "primary",
-      "notes": "BAnQ Advitam archival notice. References 'Les archives du YMCA de Montréal, 1985' within Bordereaux nos 18 of the Fonds Archives nationales du Québec. Indicates BAnQ received/processed YMCA Montreal archival materials. Relationship to Concordia holdings unclear — may be a transfer record or duplicate accessioning. Site returns 403 on fetch."
+      "notes": "BAnQ Advitam archival notice. References 'Les archives du YMCA de Montr\u00e9al, 1985' within Bordereaux nos 18 of the Fonds Archives nationales du Qu\u00e9bec. Indicates BAnQ received/processed YMCA Montreal archival materials. Relationship to Concordia holdings unclear \u2014 may be a transfer record or duplicate accessioning. Site returns 403 on fetch."
     },
     {
       "source_id": "src_banq_advitam_315906",
@@ -880,7 +880,7 @@
       "extracted": false,
       "extraction_version": null,
       "reliability": "primary",
-      "notes": "BAnQ Advitam notice. Contains 'YMCA annual Drama festival & St Andrew's church postcard, 1937, c1980'. Relates to YMCA de Québec (Quebec City), not Montreal YMCA. Low priority for Kanawana research but documents YMCA presence in Quebec archives."
+      "notes": "BAnQ Advitam notice. Contains 'YMCA annual Drama festival & St Andrew's church postcard, 1937, c1980'. Relates to YMCA de Qu\u00e9bec (Quebec City), not Montreal YMCA. Low priority for Kanawana research but documents YMCA presence in Quebec archives."
     },
     {
       "source_id": "src_newspapers_gazette_1897",
@@ -896,7 +896,7 @@
       "extracted": false,
       "extraction_version": null,
       "reliability": "primary",
-      "notes": "One of the earliest newspaper references to Camp Kanawana. From The Gazette (Montreal), available via Newspapers.com. BAnQ holds digitized Gazette issues — this article may also be accessible via numerique.banq.qc.ca. Paywall prevents extraction."
+      "notes": "One of the earliest newspaper references to Camp Kanawana. From The Gazette (Montreal), available via Newspapers.com. BAnQ holds digitized Gazette issues \u2014 this article may also be accessible via numerique.banq.qc.ca. Paywall prevents extraction."
     },
     {
       "source_id": "src_newspapers_gazette_1918",
@@ -949,7 +949,7 @@
     {
       "source_id": "src_banq_numerique_general",
       "type": "catalog_reference",
-      "title": "BAnQ Numérique - Digitized Newspaper Collections (La Presse, La Tribune, The Gazette, Montreal Herald, etc.)",
+      "title": "BAnQ Num\u00e9rique - Digitized Newspaper Collections (La Presse, La Tribune, The Gazette, Montreal Herald, etc.)",
       "date": null,
       "date_precision": "approximate",
       "origin": "web",
@@ -960,7 +960,7 @@
       "extracted": false,
       "extraction_version": null,
       "reliability": "primary",
-      "notes": "BAnQ digitizes Quebec historical newspapers with OCR full-text search. The Gazette, La Presse, Montreal Herald, La Tribune, Le Soleil, and others are searchable. Web fetches return 403 — requires direct browser access to search interface at numerique.banq.qc.ca. Key newspapers for Kanawana research: The Gazette (English, 1778-present), Montreal Star (English, 1869-1979), La Presse (French, 1884-present), Montreal Herald (English, 1811-1957). All likely contain camp mentions."
+      "notes": "BAnQ digitizes Quebec historical newspapers with OCR full-text search. The Gazette, La Presse, Montreal Herald, La Tribune, Le Soleil, and others are searchable. Web fetches return 403 \u2014 requires direct browser access to search interface at numerique.banq.qc.ca. Key newspapers for Kanawana research: The Gazette (English, 1778-present), Montreal Star (English, 1869-1979), La Presse (French, 1884-present), Montreal Herald (English, 1811-1957). All likely contain camp mentions."
     },
     {
       "source_id": "src_wikidata_lac_kanawana",
@@ -976,7 +976,7 @@
       "extracted": true,
       "extraction_version": "4.4",
       "reliability": "tertiary",
-      "notes": "Wikidata entry for Lac Kanawana. Coordinates: 45°51'6.01\"N, 74°11'40.99\"W. Elevation: 319 m."
+      "notes": "Wikidata entry for Lac Kanawana. Coordinates: 45\u00b051'6.01\"N, 74\u00b011'40.99\"W. Elevation: 319 m."
     },
     {
       "source_id": "src_leigh_evans_blog",
@@ -1285,7 +1285,7 @@
     {
       "source_id": "src_cmat_caddell_obituary",
       "type": "web",
-      "title": "James Caddell, Soldier, Adventurer (1973-2005) — Globe and Mail obituary by Sandra Martin",
+      "title": "James Caddell, Soldier, Adventurer (1973-2005) \u2014 Globe and Mail obituary by Sandra Martin",
       "date": "2005-10-22",
       "date_precision": "exact",
       "origin": "web",
@@ -1301,7 +1301,7 @@
     {
       "source_id": "src_mcgill_news_caddell",
       "type": "web",
-      "title": "Tara Newell and James Caddell travel article — McGill News",
+      "title": "Tara Newell and James Caddell travel article \u2014 McGill News",
       "date": "2004",
       "date_precision": "year",
       "origin": "web",
@@ -1317,7 +1317,7 @@
     {
       "source_id": "src_wikipedia_richard_patten",
       "type": "web",
-      "title": "Richard Patten — Wikipedia",
+      "title": "Richard Patten \u2014 Wikipedia",
       "date": null,
       "date_precision": "approximate",
       "origin": "web",
@@ -1333,7 +1333,7 @@
     {
       "source_id": "src_wikipedia_john_cleghorn",
       "type": "web",
-      "title": "John Cleghorn — Wikipedia",
+      "title": "John Cleghorn \u2014 Wikipedia",
       "date": null,
       "date_precision": "approximate",
       "origin": "web",
@@ -1349,7 +1349,7 @@
     {
       "source_id": "src_atwater_caddell_bio",
       "type": "web",
-      "title": "Andrew Caddell biography — Atwater Library",
+      "title": "Andrew Caddell biography \u2014 Atwater Library",
       "date": "2024-08",
       "date_precision": "year",
       "origin": "web",
@@ -1397,7 +1397,7 @@
     {
       "source_id": "src_usc_folklore_cropsey",
       "type": "web",
-      "title": "USC Digital Folklore Archives — Cropsey and Judge Cropsey Legend entries",
+      "title": "USC Digital Folklore Archives \u2014 Cropsey and Judge Cropsey Legend entries",
       "date": null,
       "date_precision": "approximate",
       "origin": "web",
@@ -1413,7 +1413,7 @@
     {
       "source_id": "src_puzzlebox_cropsey_origins",
       "type": "web",
-      "title": "The Cropsey Maniac: The Forgotten Origins — Puzzle Box Horror",
+      "title": "The Cropsey Maniac: The Forgotten Origins \u2014 Puzzle Box Horror",
       "date": null,
       "date_precision": "approximate",
       "origin": "web",
@@ -1573,7 +1573,7 @@
     {
       "source_id": "src_aca_camp_songs_history",
       "type": "web",
-      "title": "Camp Songs — History and Traditions (American Camp Association)",
+      "title": "Camp Songs \u2014 History and Traditions (American Camp Association)",
       "date": null,
       "date_precision": "approximate",
       "origin": "web",
@@ -1589,7 +1589,7 @@
     {
       "source_id": "src_wikipedia_alabama_jubilee",
       "type": "web",
-      "title": "Alabama Jubilee (song) — Wikipedia",
+      "title": "Alabama Jubilee (song) \u2014 Wikipedia",
       "date": null,
       "date_precision": "approximate",
       "origin": "web",
@@ -1605,7 +1605,7 @@
     {
       "source_id": "src_journal_acces_fire_2023",
       "type": "web",
-      "title": "Un bâtiment du Camp YMCA Kanawana ravagé par les flammes — Journal Accès",
+      "title": "Un b\u00e2timent du Camp YMCA Kanawana ravag\u00e9 par les flammes \u2014 Journal Acc\u00e8s",
       "date": "2023-05-16",
       "date_precision": "exact",
       "origin": "web",
@@ -1653,7 +1653,7 @@
     {
       "source_id": "src_cca_ross_macdonald_kanawana",
       "type": "catalog_reference",
-      "title": "Doctor's Cottage for Kamp Kanawana — Ross & Macdonald fonds, Canadian Centre for Architecture",
+      "title": "Doctor's Cottage for Kamp Kanawana \u2014 Ross & Macdonald fonds, Canadian Centre for Architecture",
       "date": null,
       "date_precision": "approximate",
       "origin": "web",
@@ -1664,12 +1664,12 @@
       "extracted": true,
       "extraction_version": "4.13",
       "reliability": "primary",
-      "notes": "CCA archival record. Ross & Macdonald (prominent Montreal firm, designed Château Laurier, Royal York Hotel, etc.) designed a Doctor's Cottage for Kamp Kanawana. Also designed 'several buildings for the YMCA in Montreal (1909-13)'. Firm active 1904-1942. Page not fully accessible but confirmed via search."
+      "notes": "CCA archival record. Ross & Macdonald (prominent Montreal firm, designed Ch\u00e2teau Laurier, Royal York Hotel, etc.) designed a Doctor's Cottage for Kamp Kanawana. Also designed 'several buildings for the YMCA in Montreal (1909-13)'. Firm active 1904-1942. Page not fully accessible but confirmed via search."
     },
     {
       "source_id": "src_mcconnell_foundation_ymca",
       "type": "web",
-      "title": "The YMCAs of Québec — McConnell Foundation Funding Database",
+      "title": "The YMCAs of Qu\u00e9bec \u2014 McConnell Foundation Funding Database",
       "date": "2023-11",
       "date_precision": "year",
       "origin": "web",
@@ -1685,7 +1685,7 @@
     {
       "source_id": "src_ymcaquebec_kanawana_adventure_2024",
       "type": "web",
-      "title": "The YMCAs of Québec offers a Day Camp at Kanawana (2024 Newsroom)",
+      "title": "The YMCAs of Qu\u00e9bec offers a Day Camp at Kanawana (2024 Newsroom)",
       "date": "2024-05",
       "date_precision": "year",
       "origin": "web",
@@ -1717,7 +1717,7 @@
     {
       "source_id": "src_nouvelles_laurentides_kanawana_2024",
       "type": "web",
-      "title": "L'été 2024 marque l'offre d'un nouveau programme à Saint-Sauveur : Aventure à Kanawana",
+      "title": "L'\u00e9t\u00e9 2024 marque l'offre d'un nouveau programme \u00e0 Saint-Sauveur : Aventure \u00e0 Kanawana",
       "date": "2024",
       "date_precision": "year",
       "origin": "web",
@@ -1808,7 +1808,7 @@
       "extracted": false,
       "extraction_version": null,
       "reliability": "primary",
-      "notes": "Immediately pre-camp-founding. HIGH PRIORITY — may document Cushing's 1892 Lake St. Joseph trip. WARNING: IA identifier uses '1991-1992' but actual content is the 1891-1892 annual report (metadata typo by Concordia uploader)."
+      "notes": "Immediately pre-camp-founding. HIGH PRIORITY \u2014 may document Cushing's 1892 Lake St. Joseph trip. WARNING: IA identifier uses '1991-1992' but actual content is the 1891-1892 annual report (metadata typo by Concordia uploader)."
     },
     {
       "source_id": "src_ia_news_release_1965",
@@ -2017,6 +2017,150 @@
       "extraction_version": null,
       "reliability": "primary",
       "notes": "Historical photograph of Camp Otoreke (YMCA Camp) at Saint-Adolphe-d'Howard."
+    },
+    {
+      "source_id": "src_ancestry_dimock",
+      "type": "web",
+      "title": "Ancestry: Hedley Seldon Dimock 1891-1958 genealogical record",
+      "date": "undated",
+      "date_precision": "approximate",
+      "origin": "web",
+      "origin_url": "https://www.ancestry.com/genealogy/records/hedley-seldon-dimock-24-1wczfd",
+      "cache_path": null,
+      "char_count": 0,
+      "ingested_at": "2026-03-02T17:00:00Z",
+      "extracted": true,
+      "extraction_version": "ralph_r1_dimock",
+      "reliability": "secondary",
+      "notes": "Genealogical record for H.S. Dimock. Parents, spouse, death location."
+    },
+    {
+      "source_id": "src_great_war_album_dimock",
+      "type": "web",
+      "title": "Canada's Great War Album: Hedley Dimock - Life on the Front Lines",
+      "date": "undated",
+      "date_precision": "approximate",
+      "origin": "web",
+      "origin_url": "https://greatwaralbum.ca/Great-War-Album/About-the-Great-War/Life-on-the-Front-Lines/Hedley-Dimock",
+      "cache_path": null,
+      "char_count": 0,
+      "ingested_at": "2026-03-02T17:00:00Z",
+      "extracted": true,
+      "extraction_version": "ralph_r1_dimock",
+      "reliability": "secondary",
+      "notes": "WWI details: PPCLI enlistment via U of Saskatchewan Saskatoon 1917, grenade heroism."
+    },
+    {
+      "source_id": "src_snac_dimock",
+      "type": "web",
+      "title": "SNAC: Dimock, Hedley G. (Hedley Gardner)",
+      "date": "undated",
+      "date_precision": "approximate",
+      "origin": "web",
+      "origin_url": "https://snaccooperative.org/history/65470898/9572529",
+      "cache_path": null,
+      "char_count": 0,
+      "ingested_at": "2026-03-02T17:00:00Z",
+      "extracted": true,
+      "extraction_version": "ralph_r1_dimock",
+      "reliability": "secondary",
+      "notes": "Authority record confirming full name Hedley Gardner Dimock."
+    },
+    {
+      "source_id": "src_hathitrust_camping_character",
+      "type": "catalog_reference",
+      "title": "HathiTrust: Camping and Character (catalog record)",
+      "date": "1931",
+      "date_precision": "exact",
+      "origin": "web",
+      "origin_url": "https://catalog.hathitrust.org/Record/001509889",
+      "cache_path": null,
+      "char_count": 0,
+      "ingested_at": "2026-03-02T17:00:00Z",
+      "extracted": true,
+      "extraction_version": "ralph_r1_dimock",
+      "reliability": "primary",
+      "notes": "Catalog record: 364pp, Association Press NY. Foreword by William H. Kilpatrick."
+    },
+    {
+      "source_id": "src_concordia_chrcs_fonds",
+      "type": "catalog_reference",
+      "title": "Concordia Archives: Centre for Human Relations and Community Studies fonds",
+      "date": "undated",
+      "date_precision": "approximate",
+      "origin": "concordia_archives",
+      "origin_url": "https://concordia.accesstomemory.org/centre-for-human-relations-and-community-studies-fonds",
+      "cache_path": null,
+      "char_count": 0,
+      "ingested_at": "2026-03-02T17:00:00Z",
+      "extracted": true,
+      "extraction_version": "ralph_r1_dimock",
+      "reliability": "primary",
+      "notes": "AtoM finding aid. Confirms creation 1963, Dimock + Rae co-founders, McDonald successor."
+    },
+    {
+      "source_id": "src_infed_ymca_education",
+      "type": "web",
+      "title": "infed.org: YMCA and the Development of Informal and Youth Work Education",
+      "date": "undated",
+      "date_precision": "approximate",
+      "origin": "web",
+      "origin_url": "https://infed.org/dir/welcome/ymca-and-the-development-of-informal-and-youth-work-education-2/",
+      "cache_path": null,
+      "char_count": 0,
+      "ingested_at": "2026-03-02T17:00:00Z",
+      "extracted": true,
+      "extraction_version": "ralph_r1_dimock",
+      "reliability": "secondary",
+      "notes": "George Williams College context. Dimock, Hendry, Du Vall, Trecker as key faculty."
+    },
+    {
+      "source_id": "src_veterans_dimock_gilbert",
+      "type": "web",
+      "title": "Veterans Affairs Canada: Hedley Gilbert Dimock (RCAF, d. 1944)",
+      "date": "undated",
+      "date_precision": "approximate",
+      "origin": "web",
+      "origin_url": "https://www.veterans.gc.ca/en/remembrance/memorials/canadian-virtual-war-memorial/detail/2172611",
+      "cache_path": null,
+      "char_count": 0,
+      "ingested_at": "2026-03-02T17:00:00Z",
+      "extracted": true,
+      "extraction_version": "ralph_r1_dimock",
+      "reliability": "primary",
+      "notes": "DISAMBIGUATION: A third Hedley Dimock (Hedley Gilbert Dimock), RCAF, killed 27 June 1944, India. Father: Charles Albert Dimock. Different family line."
+    },
+    {
+      "source_id": "src_wikipedia_raye_kass",
+      "type": "web",
+      "title": "Wikipedia: Raye Kass",
+      "date": "undated",
+      "date_precision": "approximate",
+      "origin": "web",
+      "origin_url": "https://en.wikipedia.org/wiki/Raye_Kass",
+      "cache_path": null,
+      "char_count": 0,
+      "ingested_at": "2026-03-02T17:00:00Z",
+      "extracted": true,
+      "extraction_version": "ralph_r1_dimock",
+      "reliability": "secondary",
+      "notes": "Kass biography. BA SGW 1970, MSW UofT 1972, space agency work."
+    },
+    {
+      "source_id": "src_oakland_tribune_dimock_obit",
+      "type": "periodical",
+      "title": "Oakland Tribune obituary: Dr. Hedley Seldon Dimock, October 5, 1958",
+      "date": "1958-10-05",
+      "date_precision": "exact",
+      "origin": "web",
+      "origin_url": "https://www.newspapers.com/article/oakland-tribune-dr-hedley-seldon-dimock/38250638/",
+      "cache_path": null,
+      "char_count": 0,
+      "ingested_at": "2026-03-02T17:00:00Z",
+      "extracted": false,
+      "extraction_version": null,
+      "reliability": "primary",
+      "notes": "Paywalled. Death date confirmed as October 4, 1958 in Burlingame, CA."
     }
   ]
 }

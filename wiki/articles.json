@@ -1182,7 +1182,11 @@
         "f_0415",
         "f_0416",
         "f_0621",
-        "f_0643"
+        "f_0643",
+        "f_0651",
+        "f_0652",
+        "f_0653",
+        "f_0655"
       ],
       "sources_cited": [
         "src_ymca_website",
@@ -1193,7 +1197,9 @@
         "src_wikipedia_big_cove",
         "src_wikipedia_edgar",
         "src_wall_nurture",
-        "src_mcmorris_thesis"
+        "src_mcmorris_thesis",
+        "src_hathitrust_camping_character",
+        "src_infed_ymca_education"
       ],
       "open_questions": 5,
       "cross_links": [
@@ -2309,7 +2315,7 @@
       "article_id": "hedley-dimock",
       "title": "Hedley Dimock and the Science of Camping",
       "wiki_folder": "people",
-      "status": "draft",
+      "status": "R3-verified",
       "status_history": [
         {
           "status": "stub",
@@ -2322,9 +2328,15 @@
           "at": "2026-03-02T02:00:00Z",
           "by": "auto",
           "task": "WRITE"
+        },
+        {
+          "status": "R3-verified",
+          "at": "2026-03-02T17:00:00Z",
+          "by": "auto",
+          "task": "VERIFY"
         }
       ],
-      "ralph_loops_completed": 1,
+      "ralph_loops_completed": 2,
       "kb_facts_used": [
         "f_0592",
         "f_0593",
@@ -2344,22 +2356,50 @@
         "f_0632",
         "f_0633",
         "f_0634",
-        "f_0635"
+        "f_0635",
+        "f_0646",
+        "f_0647",
+        "f_0648",
+        "f_0649",
+        "f_0650",
+        "f_0651",
+        "f_0652",
+        "f_0653",
+        "f_0654",
+        "f_0655",
+        "f_0656",
+        "f_0657",
+        "f_0658",
+        "f_0659",
+        "f_0660",
+        "f_0661",
+        "f_0662"
       ],
       "sources_cited": [
         "src_aca_dimock_bio",
         "src_concordia_atom_12B05",
         "src_mcmorris_thesis",
-        "src_concordia_seaman_fund"
+        "src_concordia_seaman_fund",
+        "src_ancestry_dimock",
+        "src_great_war_album_dimock",
+        "src_snac_dimock",
+        "src_hathitrust_camping_character",
+        "src_taylor_statten_camps",
+        "src_concordia_chrcs_fonds",
+        "src_infed_ymca_education",
+        "src_veterans_dimock_gilbert",
+        "src_wikipedia_raye_kass",
+        "src_oakland_tribune_dimock_obit"
       ],
-      "open_questions": 4,
+      "open_questions": 5,
       "cross_links": [
         "directors-index",
         "canadian-camping-movement",
-        "traditions-and-culture"
+        "traditions-and-culture",
+        "camp-otoreke"
       ],
       "file_id": null,
-      "word_count": 1100
+      "word_count": 2200
     }
   ]
 }
