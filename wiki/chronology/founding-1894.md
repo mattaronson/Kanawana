@@ -35,7 +35,7 @@ An 1898 photograph from the archives names four individuals at the camp: W. N. C
 
 Seeking a larger site, the YMCA acquired land at Saint-Sauveur-des-Monts (near Piedmont) from the Page family around 1910. The camp was situated among trees on the high sloping shores of a lake that would become known as Lake Kanawana, approximately 45 miles from Montreal and 6 miles from the Piedmont train station. A second lake, Lake Wilson, was within the property, with a dam controlling water levels between the two. A third lake, Round Lake, was also part of the camp property.
 
-The 1910 date is derived from the 1935 History, which describes the camp as being in its "twenty-sixth year of existence." The exact terms of the Page family acquisition, including price, acreage, and precise date, remain unknown.
+McMorris confirms 1910 as the first season at the new site: during the first summer at Saint-Sauveur, sixty-six members attended camp between June 19 and July 17.^mc The 1910 date is further supported by the 1935 History, which describes the camp as being in its "twenty-sixth year of existence." The exact terms of the Page family acquisition, including price, acreage, and precise date, remain unknown.
 
 ## Early Organization at the Saint-Sauveur Site (1910s-1920s)
 

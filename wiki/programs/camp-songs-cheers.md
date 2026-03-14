@@ -17,20 +17,31 @@ The song held particular significance in camp culture. In 1967, a busload of Kan
 
 ### "Dear Old Kanawana" (Camp Song, pre-1967)
 
-McMorris's thesis documents an earlier camp song, **"Dear Old Kanawana,"** sung to the tune of the **Battle Hymn of the Republic**. The Council of Tribes ceremony script (c. 1925-1927) concludes with the Big Chief calling on the assembly to "sing the song of the tribes of Kanawana," identified as "Dear Old Kanawana."^13 This song predates the Richard Kerr composition and served as the primary camp song during the pre-war and mid-century periods. Full lyrics have not been recovered from the thesis.
+McMorris's thesis documents an earlier camp song, **"Dear Old Kanawana,"** sung to the tune of the **Battle Hymn of the Republic** (also known as "John Brown's Body"). The Council of Tribes ceremony script (c. 1925-1927) concludes with the Big Chief calling on the assembly to "sing the song of the tribes of Kanawana," identified as "Dear Old Kanawana."^13 This song predates the Richard Kerr composition and served as the primary camp song during the pre-war and mid-century periods. The lyrics are:^13
+
+> Mine eyes have seen the glories of a thousand camps or more
+> By placid inland waters and the ocean's mighty roar
+> But now I've seen old Kanawana, I'll never wander more
+> I'll ever camp right here.
+>
+> Glory, glory, Kanawana
+> Dear old, good old Kanawana
+> We the boys of Kanawana
+> Will ever camp right here.
 
 ### "My Kanawana" (Thesis Epigraph)
 
 The McMorris thesis uses the poem/song **"My Kanawana"** as the epigraph for Chapter 1. The full text reads:^13
 
-> My Kanawana, My Kanawana,
-> Where the trees and wild flowers grow,
-> Where the rippling waters flow,
-> Where the golden sunbeams glow,
-> My Kanawana, My Kanawana,
-> I will never let you go.
+> My Kanawana, Kamp of the free
+> Spirit mind and body unite to proclaim democracy
+> Our Kanawana — your Kamp and mine
+> Lake and Hill and Sky unite to proclaim God's soul divine
+> Wind thru' the pines — sunsets aglow — pals on the trail as on and up we go
+> Our Kanawana — Kamp of the free
+> Spirit body mind unite to proclaim democracy
 
-The source and date of "My Kanawana" are not identified by McMorris. Whether it was a camper composition, a staff creation, or an adaptation from another camp's repertoire is unknown.
+The source and date of "My Kanawana" are not identified by McMorris. The text reflects the YMCA's "four-fold" development philosophy (spirit, mind, body) and the democratic citizenship values central to Kanawana's programming.^13
 
 ## The Kamp Kanawana Marching Song (The Kanawana Cheer)
 

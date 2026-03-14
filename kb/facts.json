@@ -2,7 +2,7 @@
   "version": "v4.17",
   "kb_version": "4.0",
   "migrated_from": "3.3",
-  "fact_count": 700,
+  "fact_count": 704,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -11671,6 +11671,54 @@
       "category": "coeducation",
       "entities": ["Kamp Kanawana"],
       "date_ref": "1930",
+      "conflicts_with": [],
+      "added_version": "v4.17",
+      "added_by": "ralph_mcmorris_full"
+    },
+    {
+      "fact_id": "f_0701",
+      "claim": "During the first summer at the Saint-Sauveur site in 1910, sixty-six members attended camp between June 19 and July 17.",
+      "sources": ["src_mcmorris_thesis"],
+      "confidence": "stated",
+      "category": "enrollment",
+      "entities": ["Kamp Kanawana"],
+      "date_ref": "1910",
+      "conflicts_with": [],
+      "added_version": "v4.17",
+      "added_by": "ralph_mcmorris_full"
+    },
+    {
+      "fact_id": "f_0702",
+      "claim": "Lyrics of 'Dear Old Kanawana' (to Battle Hymn of the Republic): 'Mine eyes have seen the glories of a thousand camps or more / By placid inland waters and the ocean's mighty roar / But now I've seen old Kanawana, I'll never wander more / I'll ever camp right here. // Glory, glory, Kanawana / Dear old, good old Kanawana / We the boys of Kanawana / Will ever camp right here.'",
+      "sources": ["src_mcmorris_thesis"],
+      "confidence": "stated",
+      "category": "songs",
+      "entities": ["Kamp Kanawana"],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "v4.17",
+      "added_by": "ralph_mcmorris_full"
+    },
+    {
+      "fact_id": "f_0703",
+      "claim": "Lyrics of 'My Kanawana': 'My Kanawana, Kamp of the free / Spirit mind and body unite to proclaim democracy / Our Kanawana - your Kamp and mine / Lake and Hill and Sky unite to proclaim God's soul divine / Wind thru' the pines - sunsets aglow - pals on the trail as on and up we go / Our Kanawana - Kamp of the free / Spirit body mind unite to proclaim democracy.'",
+      "sources": ["src_mcmorris_thesis"],
+      "confidence": "stated",
+      "category": "songs",
+      "entities": ["Kamp Kanawana"],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "v4.17",
+      "added_by": "ralph_mcmorris_full"
+    },
+    {
+      "fact_id": "f_0704",
+      "claim": "In 1942, Kanawana 'welcomed the Boys of Tamaracouta' with a programme that featured fire-lighting, hymns, and prayers (Fire of Friendship ceremony).",
+      "sources": ["src_mcmorris_thesis"],
+      "confidence": "stated",
+      "category": "traditions",
+      "entities": ["Kamp Kanawana", "Tamaracouta"],
+      "date_ref": "1942",
       "conflicts_with": [],
       "added_version": "v4.17",
       "added_by": "ralph_mcmorris_full"

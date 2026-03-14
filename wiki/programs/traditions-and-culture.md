@@ -48,7 +48,7 @@ The **Council of the Tribes of Kanawana** was newly introduced in 1935, reflecti
 Documented ceremonies from the archives include:^10 ^11
 
 - **Firelighting ceremony** (1936): Catalogued in the Concordia archives but no detailed description has been recovered.
-- **Fire of Friendship / Kanawana Show** (1939): A combined ceremony and performance event.
+- **Fire of Friendship / Kanawana Show** (1939): A combined ceremony and performance event. In 1942, the Fire of Friendship programme was used to welcome the Boys of Tamaracouta (a Scout camp), featuring fire-lighting, hymns, and prayers.^4
 - **KK pageant scripts** (1931–1932): Theatrical performances for campers and visitors.
 - **Council Ring closing**: A season-end gathering where a record of the season's activities was buried, followed by a "Leaders Grand Feed."^7
 - **Dam release**: The dam was opened at the end of the 1935 season as a ceremonial close.^5
