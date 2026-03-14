@@ -23,7 +23,7 @@ The relationship between Cushing's 1892 trip and Ball's 1894 Camp Jubilee remain
 
 In the summer of 1894, Billy Ball of the Montreal YMCA took approximately 20 campers to Lake St. Joseph in the Township of Howard (now Saint-Adolphe-d'Howard), near Sainte-Agathe. The camp was situated on islands in the lake, with a landing area on the shore. Fifty-three members used the site that first summer.^mc The YMCA subsequently purchased the main island — part of a 33-acre property acquired in 1898 at a cost of one dollar per acre — along with two other islands for continued use.^mc
 
-The early camp was primitive: half a dozen sleeping tents, a dining marquee, and a small fleet of basic boats.^mc By 1903, 210 campers attended, a fourfold increase from the first year.^mc
+The early camp was primitive: half a dozen sleeping tents, a dining marquee, and a small fleet of basic boats rented from local farmers.^mc Campers took the train to Sainte-Agathe, then endured a two-hour drive by horse and springless buckboard to reach the site.^mc By 1903, 210 campers attended, a fourfold increase from the first year.^mc
 
 Camp Jubilee operated at this location for roughly fifteen years. By 1895, promotional letters were being distributed and the camp had established rules for activities including a Labour Day fishing competition. By 1897-1898, the operation had grown substantially: brochures were being printed, architectural plans for permanent buildings were being drawn up, and the camp had accumulated a scrapbook of materials (the Concordia archives confirm it contains a promotional brochure from the 1897 season, though the full date range of the scrapbook is uncertain and its start date of "1880" may reflect general YMCA history rather than camp-specific records).
 
@@ -39,6 +39,8 @@ McMorris confirms 1910 as the first season at the new site: during the first sum
 
 ## Early Organization at the Saint-Sauveur Site (1910s-1920s)
 
+McMorris confirms 1910 as the first season at the new site, with sixty-six members attending between June 19 and July 17. Of those sixty-six, thirty-one boys "decided for the Christian life," reflecting the YMCA's evangelistic mission.^mc By 1912, Kanawana served boys from four YMCA branches: Westmount, Point St. Charles, North, and Central.^mc
+
 A July 7, 1913 article in the Montreal Gazette reported two detachments of Montreal YMCA boys leaving for Kamp Kanawana, with a programme adapted for specific ages including instruction in athletics, educational subjects, and Bible study. Speakers included M.F. Furey (physical director) and Dr. Hamilton.
 
 By 1918, the camp had its largest attendance to that date (110 members). Activities that year included first aid, basket-making, camp sanitation, wrestling, tumbling, and nature study. In July 1918, the camp was visited by Mr. and Mrs. Frank Lawes of London, England, who were touring the world filming YMCA work; a reel of Kanawana activities was added to their collection, potentially the earliest film footage of the camp if it survives.
@@ -49,7 +51,7 @@ Staff in 1923 included connections to McGill University: the Camp Doctor was a M
 
 Notable is the longevity of camp connections even at this early date: Reg Cowan, the Business Manager, had eight years of Kanawana experience by 1923, meaning his involvement dated to approximately 1915 or 1916. Allan B. Cornell, the Educational Director, was in his sixth year, dating to approximately 1918.
 
-The cost in 1923 was $8.50 per week, including one return trip between Montreal and camp.
+The cost in 1918 was $8.00 per week, rising to $8.50 per week by 1923, including one return trip between Montreal and camp.^mc In 1922, 391 campers attended, including 16 "unattached" non-YMCA members — an early sign of the camp's gradual opening beyond its institutional base.^mc By the 1930s, Kanawana was fully open to non-YMCA members.^mc
 
 ## Physical Plant by the 1920s-1930s
 
