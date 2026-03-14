@@ -9,7 +9,7 @@ Camp Kanawana developed a distinctive cultural identity over more than 130 years
 
 ## Camp Identity and Motto
 
-The 1922 brochure recorded the camp cheer as "Yo Triumphy! Yo Triumphy! Hoben Sloben Rebecca Leeammour..." — a nonsensical chant that served as a rallying cry — and the motto as "Each for all and all for each."^2 At some point, the camp adopted the Latin motto "Non Nobis Solum" from Cicero's philosophical text, which reads in full: "non nobis solum nati sumus" ("not for us alone are we born").^1 The date of this transition is not documented. The tagline "The Experience That Lasts a Lifetime" is attested from at least 1993, when Cathy Reeves produced a nine-minute film of that name for the camp.^3
+The 1922 brochure recorded the camp cheer as "Yo Triumphy! Yo Triumphy! Hoben Sloben Rebecca Leeammour..." — a nonsensical chant that served as a rallying cry — and the motto as "Each for all and all for each."^2 The motto "Each for all and all for each" is also documented in a 1927 source.^4 At some point, the camp adopted the Latin motto "Non Nobis Solum" from Cicero's philosophical text, which reads in full: "non nobis solum nati sumus" ("not for us alone are we born").^1 The earliest attestation of the Latin motto is in the 1993 YMCA video *Kamp Kanawana: The Experience that Lasts a Lifetime*.^3 ^4 The exact date of transition from the English to the Latin motto remains undocumented. The tagline "The Experience That Lasts a Lifetime" is attested from at least 1993, when Cathy Reeves produced a nine-minute film of that name for the camp.^3
 
 ## Spiritual Life
 

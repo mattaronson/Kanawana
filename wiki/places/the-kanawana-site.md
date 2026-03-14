@@ -88,9 +88,9 @@ From 1977 to 1980, plans existed for a proposed two-site operation using Kanawan
 
 ## Open Questions
 
-1. [Important] The YMCA Kanawana Facts sheet dates the site purchase to 1910. Was the first season at Saint-Sauveur in 1910 or 1911?
+1. ~~[Important] The YMCA Kanawana Facts sheet dates the site purchase to 1910. Was the first season at Saint-Sauveur in 1910 or 1911?~~ [Resolved] McMorris confirms 1910 as the first season at the Saint-Sauveur site. The 1935 History's reference to the camp's "twenty-sixth year of existence" counts from 1910.^12
 2. [Critical] Who was the Page family who sold/donated the land? No biographical information has been found.
-3. [Important] Has the camp acreage changed over time? 550 acres is consistently cited in current sources but no historical acreage data exists.
+3. [Important] Has the camp acreage changed over time? 550 acres is consistently cited in current sources but no historical acreage data exists. McMorris documents the purchase of the **Pagé farm** in 1960 as an expansion of the camp property, though the acreage of that purchase is not specified.^12
 4. [Important] What was the specific reason the Kanawana–Weredale two-site plan was abandoned?
 5. [Nice-to-have] Are the 1928 and 1962 maps accessible in the Concordia Archives?
 6. [Nice-to-have] Is there any ecological or conservation designation on the property?

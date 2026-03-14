@@ -21,8 +21,16 @@ McMorris's analysis situates the Council Ring and its associated "Indian" tradit
 
 Council Ring existence confirmed by 1935 History (independent of McMorris). Construction date (1922), totem pole addition (1927), and 1929 rebuild for 325 seats are single-sourced from McMorris citing P145 season reports and annual reports. These are primary archival sources but filtered through a single scholarly pathway.
 
+## The Council of Tribes Ceremony
+
+McMorris's full thesis provides detailed pageant scripts from the Concordia Archives that document the ceremony format. A typical Indian Council Ring program (as described by the 1939 juvenile section director) included: a torch parade to the council ring, a peace pipe ceremony, Indian dances around the fire, and a story on "moral nature, generally pertaining to the North American Indian."^5
+
+The "Tribes of Kanawana in Council" script (c. 1925-1927) featured a Big Chief presiding over four Little Chiefs representing named nations: Chief Winnemucca (Ojibways), Chief Tshut-che-nau (Tuscaroras), Chief Teuskewata (Algonquins), and Chief Watotopa (Cayugas).^5 Named braves challenged each other to physical competitions — Indian leg wrestling, neck pulling, and crab walking. The script concluded with the Big Chief calling on the assembled to "sing the song of the tribes of Kanawana" (the camp song, "Dear Old Kanawana," sung to the tune of the Battle Hymn of the Republic), followed by a closing invocation: "The time has come when we must close our Council Ring and retire back to our wigwams," and a final chant: "Wakonda, dhe-dhu, wapdhin atonhe."^5
+
+A second pageant, the "Zuni Council" script (1931), was more elaborate: a multi-part drama featuring settler-Indigenous conflict culminating in a Jesuit priest healing sick braves and persuading the Chief to surrender his lands to settlers.^5
+
 ## Open Questions
 
 - Does the Council Ring still exist in its 1929 form, or has it been rebuilt since?
-- Are the totem poles still standing? When were they last present?
-- What was the specific format of the Council of Tribes ceremony?
+- Are the totem poles still standing? When were they last present? (A 1970s photograph shows at least one totem pole standing.)
+- How did Council Ring ceremonies evolve after the decline of "playing Indian" programming in the 1950s-1960s?

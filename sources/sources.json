@@ -170,13 +170,13 @@
       "date_precision": "year",
       "origin": "web",
       "origin_url": "https://spectrum.library.concordia.ca/id/eprint/992763/",
-      "cache_path": null,
-      "char_count": 0,
+      "cache_path": "sources/cache/theses/mcmorris_thesis_full.txt",
+      "char_count": 185000,
       "ingested_at": "2026-02-10T00:00:00Z",
       "extracted": true,
-      "extraction_version": "3.3",
+      "extraction_version": "4.17",
       "reliability": "secondary",
-      "notes": "Grace McMorris MA thesis, Concordia. Supervisor Dr. Peter Gossage. Ch1-3 + Conclusion fully extracted, 78 facts. PDF: 14ID3qU1s9B4AL_CxBgXyA32mAUE55x0M"
+      "notes": "Grace McMorris MA thesis, Concordia. Supervisor Dr. Peter Gossage. Examining committee: Dr. Elena Razlogova (chair), Dr. Gavin Taylor, Dr. Theresa Ventura. Full text ingested 2026-03-14. All chapters + Introduction + Conclusion + Bibliography extracted. 148 facts in KB (f_0001-f_0662 partial, f_0663-f_0700 from full text extraction v4.17). Full text provided by user in session."
     },
     {
       "source_id": "src_ymca_website",

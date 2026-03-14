@@ -6,9 +6,9 @@ Canoe trips were introduced to Kanawana's program in 1925, offered as an optiona
 
 The program expanded significantly through the 1930s. In 1936, trips began departing for the Lake Archambault region north of the camp, and by the following summer eight separate trips were heading to the Archambault area in a single season. The shift from short local paddles to multi-day wilderness expeditions marked a fundamental change in how Kanawana understood its relationship to the Laurentian landscape. Camp was no longer just a fixed site. The backcountry became part of the program itself.
 
-By 1950, the canoe trip operation had grown to six departures per week, with routes extending beyond Archambault to include the Ottawa and Pembina rivers. The scale of this is worth pausing on: six trips per week meant that canoe tripping had become not a special activity but a core, ongoing feature of the summer, with groups constantly rotating through departure and return.
+By 1945, the routes were codified into a tiered system: a 3-day Lachute trip for beginners, 7-8 day trips to Île Perrot and Grenville for intermediates, and a 10-day Ottawa River trip for seniors.^mc The program continued to expand: by 1950, six canoe trips per week were departing, with routes extending beyond Archambault to include the Ottawa and Pembina rivers. Six trips per week meant that canoe tripping had become not a special activity but a core, ongoing feature of the summer, with groups constantly rotating through departure and return.
 
-The appetite for more remote territory led the camp committee to begin searching in 1956 for a northern site that could serve older, more experienced trippers. After three years of scouting, they chose La Vérendrye Park in 1959 as a base camp for campers aged 15 and older. That first summer at La Vérendrye, six trips went out, establishing what would become one of Kanawana's most defining programs. The La Vérendrye canoe trip program, and the L&V Games competition that grew up alongside it, became inseparable from the camp's identity in the decades that followed.
+The appetite for more remote territory led the camp committee to begin searching in 1956 for a northern site that could serve older, more experienced trippers. After three years of scouting, they chose La Vérendrye Park in 1959 as a base camp for campers aged 15 and older. The YMCA secured a 25-acre lease at Lac Landron as a base camp, and the program was formally named **"Les Voyageurs de La Vérendrye."**^mc That first summer at La Vérendrye, eighteen trips went out from the Pathfinder section alone.^mc By 1964, over twenty trips were departing each season.^mc The La Vérendrye canoe trip program, and the L&V Games competition that grew up alongside it, became inseparable from the camp's identity in the decades that followed.
 
 ## Sources
 
@@ -27,3 +27,5 @@ Core timeline (1925 introduction through 1959 La Vérendrye) sourced from McMorr
 - What routes did the earliest 1925 canoe trips follow?
 - Who organized the first La Vérendrye scouting expedition in 1956?
 - When did the La Vérendrye base camp transition from seasonal trips to a permanent satellite operation?
+- What is the current status of the 25-acre Lac Landron lease? Is it still active?
+- When was the formal name "Les Voyageurs de La Vérendrye" adopted and when did it fall out of common usage?

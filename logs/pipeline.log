@@ -765,3 +765,4 @@
 2026-03-02T17:00:00Z | KB | v4.16: 662 facts, 135 sources. Zero orphans maintained.
 
 2026-03-02T18:00:00Z | REVIEW | E1 review completed for hedley-dimock. 10 fixes: father-son reframed, earliest-pub contradiction resolved, Kamp→Camp standardized, Hendry relocated, synthesis removed, tone fixes, Camp Otoreke cross-link added. Advanced R3-verified → E1-reviewed. Wiki: 27/28 articles at E1-reviewed.
+[2026-03-14T05:29:35Z] RALPH FULL EXTRACTION: McMorris thesis full text ingested. 38 new facts (f_0663-f_0700). 12 wiki articles updated: founding-1894, harold-cross, directors-index, myths-and-legends, traditions-and-culture, camp-songs-cheers, canoe-trips, lv-games, section-names, wartime-kanawana, the-kanawana-site, coeducation-gender. Council-ring and centennial-1967 updated in prior session. priorities.json p_008 and p_053 marked completed. Source src_mcmorris_thesis extraction_version advanced to 4.17.

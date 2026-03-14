@@ -99,12 +99,12 @@
       "type": "RESEARCH",
       "description": "McMorris thesis PDF full extraction (file ID: 14ID3qU1s9B4AL_CxBgXyA32mAUE55x0M)",
       "article_id": null,
-      "blocking": true,
+      "blocking": false,
       "assigned_weight": "P6",
       "created_at": "2026-02-10T00:00:00Z",
-      "status": "blocked",
-      "blocking_reason": "McMorris thesis PDF on Google Drive (proxy blocks access). Cannot fetch file ID 14ID3qU1s9B4AL_CxBgXyA32mAUE55x0M.",
-      "notes": "Ch1-3 + Conclusion already extracted (78 facts). Full PDF extraction would cover remaining material."
+      "status": "completed",
+      "completed_at": "2026-03-14T00:00:00Z",
+      "result": "User provided full thesis text in conversation. 38 new facts extracted (f_0663-f_0700). Full text cached at sources/cache/theses/mcmorris_thesis_full.txt. All chapters covered. 12 wiki articles updated with thesis findings."
     },
     {
       "priority_id": "p_009",
@@ -678,13 +678,14 @@
       "priority_id": "p_053",
       "rank": 53,
       "type": "RESEARCH",
-      "description": "Download and extract McMorris thesis PDF from Spectrum (https://spectrum.library.concordia.ca/id/eprint/992763/1/McMorris_MA_F2023.pdf) — 129 pages, public access. Requires user to download and deposit in sources/cache/. Extract remaining chapters (Ch4+) not covered by existing 110 facts.",
+      "description": "Download and extract McMorris thesis PDF from Spectrum (https://spectrum.library.concordia.ca/id/eprint/992763/1/McMorris_MA_F2023.pdf) — 129 pages, public access.",
       "article_id": null,
-      "blocking": true,
-      "blocking_reason": "PDF on Spectrum, proxy-blocked. User must download and deposit at sources/cache/web-pages/mcmorris_thesis_full.pdf",
+      "blocking": false,
       "assigned_weight": "P1",
       "created_at": "2026-03-02T00:00:00Z",
-      "status": "blocked"
+      "status": "completed",
+      "completed_at": "2026-03-14T00:00:00Z",
+      "result": "Resolved via p_008 — user provided full thesis text directly. Full extraction completed."
     },
     {
       "priority_id": "p_054",

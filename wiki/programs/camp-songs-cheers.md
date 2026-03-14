@@ -15,6 +15,23 @@ The official camp song, **"On My Way to Kanawana,"** was composed and performed 
 
 The song held particular significance in camp culture. In 1967, a busload of Kanawana campers singing the camp song greeted the CCA Centenary Journey paddlers upon their arrival in Ottawa.^13 No lyrics, sheet music, or digital copy of the recording have been found in any online source. The Concordia Archives CD is the sole known copy.
 
+### "Dear Old Kanawana" (Camp Song, pre-1967)
+
+McMorris's thesis documents an earlier camp song, **"Dear Old Kanawana,"** sung to the tune of the **Battle Hymn of the Republic**. The Council of Tribes ceremony script (c. 1925-1927) concludes with the Big Chief calling on the assembly to "sing the song of the tribes of Kanawana," identified as "Dear Old Kanawana."^13 This song predates the Richard Kerr composition and served as the primary camp song during the pre-war and mid-century periods. Full lyrics have not been recovered from the thesis.
+
+### "My Kanawana" (Thesis Epigraph)
+
+The McMorris thesis uses the poem/song **"My Kanawana"** as the epigraph for Chapter 1. The full text reads:^13
+
+> My Kanawana, My Kanawana,
+> Where the trees and wild flowers grow,
+> Where the rippling waters flow,
+> Where the golden sunbeams glow,
+> My Kanawana, My Kanawana,
+> I will never let you go.
+
+The source and date of "My Kanawana" are not identified by McMorris. Whether it was a camper composition, a staff creation, or an adaptation from another camp's repertoire is unknown.
+
 ## The Kamp Kanawana Marching Song (The Kanawana Cheer)
 
 The **Kamp Kanawana Marching Song** — also known simply as the **Kanawana Cheer** — is the most widely known camp cheer.^7 It is a call-and-response cheer incorporating the refrain "Hail, hail, the gang's all here." Elements of the cheer include "Kamp Kanawana, are you ready?!", marching and tramping imagery ("We're gonna tramp, tramp, tramp on through the rain"), exhortations to sing ("So let's sing, sing, sing, siiiinng!"), and the camp name spelled out: "K-A-N-A-W-A-N-A, Kanawana!"^7
@@ -106,7 +123,7 @@ The Color War tradition (known at Kanawana as the L&V Games) typically includes 
 5. [Important] What songs are in the 1925/1927 song sheets and the 1941-1945 Kanawana song books?
 6. [Important] When was the "Yo Triumphy" cheer replaced by the Marching Song? Did both coexist?
 7. [Nice-to-have] What songs were commonly sung at campfire sing-songs across different eras?
-8. [Nice-to-have] Did the camp song change over time, or has "On My Way to Kanawana" always been the primary camp song?
+8. ~~[Nice-to-have] Did the camp song change over time, or has "On My Way to Kanawana" always been the primary camp song?~~ [Resolved] Yes — "Dear Old Kanawana" (to the Battle Hymn of the Republic) was the camp song during the pre-war and mid-century periods. "On My Way to Kanawana" by Richard Kerr is a later composition (date unknown).^13
 9. [Nice-to-have] Who adapted "Alabama Jubilee" into the Kanawana Marching Song, and when?
 
 ## Related Articles

@@ -30,9 +30,9 @@ Running in parallel with the competitive Pageant, the Canadian Camping Associati
 
 ## Kanawana's Participation
 
-Six Kanawana boys and two counsellors paddled the Quebec section of the CCA Centenary Journey — described by McMorris as 150 miles from Montreal to Ottawa via the Ottawa River.^1 [*Note: The navigable Ottawa River distance between these cities is approximately 120 miles; the 150-mile figure may include tributary detours or portage distances, or may be approximate.*] Participants wore colourful plaid lumberman shirts and decorated their canoes with decals and crests.^1
+Six Kanawana boys and two counsellors paddled from Deep River, Ontario to Britannia Beach on the west side of Ottawa — a distance described as 150 miles — between August 2 and August 9, 1967.^1 Deep River, historically the oldest and most well-established site of voyageur ritual baptism on the fur trade route, was chosen as the starting point for the Quebec section.^1 The trip leader, Yves St. Pierre, wrote the required historical essay documenting the route, covering the Ottawa River valley from its archaeological prehistory through Champlain's 1613 exploration and the fur trade era.^1 Participants wore colourful plaid "lumberman" shirts and decorated their canoes with decals and crests.^1 [*Note: The navigable Ottawa River distance between these points is approximately 120 miles; the 150-mile figure may include tributary detours or portage distances.*]
 
-Upon the paddlers' arrival in Ottawa, a busload of Kanawana campers greeted them, singing the Kanawana song.^1 Figure 3.5 in the McMorris thesis shows Kanawana campers arriving in Ottawa in 1967.^1
+Upon the paddlers' arrival at Britannia Beach, a busload of Kanawana campers greeted them, singing the Kanawana camp song.^1 The *Ottawa Journal* covered the arrival on August 10, 1967 (Figure 3.5 in the McMorris thesis shows the campers arriving).^1 ^15
 
 Other camps also participated: Regina YMCA Camp paddled the Saskatchewan section, and Camp Deka handled the British Columbia leg from Mahood Lake.^9
 
@@ -48,8 +48,8 @@ The McMorris thesis devotes its third chapter — "The National(ist) Vehicle" �
 
 ## Open Questions
 
-1. [Critical] Who were the six Kanawana boys and two counsellors on the 1967 Centenary Journey? Names not found in available sources.
-2. [Critical] What was the itinerary and duration of the Montreal-to-Ottawa leg? Only the distance (150 miles) is confirmed.
+1. [Critical] Who were the six Kanawana boys and two counsellors on the 1967 Centenary Journey? One counsellor was Yves St. Pierre (trip report author), but names of the other counsellor and six boys remain unknown.
+2. [Resolved] The route ran from Deep River, Ontario to Britannia Beach (west Ottawa), August 2-9, 1967 (8 days, ~150 miles). Trip report by Yves St. Pierre covers the Ottawa River route history. Resolved via McMorris thesis Ch.3.
 3. [Important] What was the "Canadian Centennial family camping project" at Kanawana in 1966-1967? Concordia archives reference but no details.
 4. [Important] Did Kanawana send any delegation to Expo '67? Archives reference P0145/13E.
 5. [Nice-to-have] Were any Kanawana alumni involved in the competitive Voyageur Canoe Pageant?
@@ -79,6 +79,7 @@ The McMorris thesis devotes its third chapter — "The National(ist) Vehicle" �
 12. Taylor Statten Camps, History, https://taylorstattencamps.com/tsc-history/
 13. Paddle Canada, "A Brief History," https://paddlecanada.com/paddle-canada-a-brief-history/
 14. Concordia University Archives, YMCA of Montreal Fonds P145, sub-series 13E.
+15. *The Ottawa Journal*, August 10, 1967. Photo of Kanawana campers arriving in Ottawa.
 
 ## Research Notes
 

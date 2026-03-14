@@ -24,7 +24,9 @@ By 1942, R.H. Hanagan appears in the archival record as Montreal YMCA camp direc
 
 ## Health Crises
 
-The war years were punctuated by disease outbreaks that tested camp leadership. In 1941, a scarlet fever case triggered a full month of quarantine. In 1944, a mumps outbreak hit during weeks six and seven of the season. Most seriously, in 1946, six campers contracted polio. The camp's medical advisor, Dr. Cushing, recommended that trips be cancelled but the camp itself remain open. That decision, to keep a camp running through a polio scare rather than send potentially infected children home to their communities, reflects a confidence in the camp's medical infrastructure and isolation that would be difficult to imagine today.
+The war years were punctuated by disease outbreaks that tested camp leadership. In 1941, a scarlet fever case triggered a full month of quarantine.^mc In 1944, a mumps outbreak hit during weeks six and seven of the season.^mc Most seriously, in 1946, six campers contracted polio. The camp's medical advisor, Dr. Cushing (a pediatrician), visited the camp and recommended that trips be cancelled but the camp itself remain open.^mc Three of the six cases had been discharged by the end of the summer.^mc That decision, to keep a camp running through a polio scare rather than send potentially infected children home to their communities, reflects a confidence in the camp's medical infrastructure and isolation that would be difficult to imagine today.
+
+McMorris also notes that wartime Kanawana attracted boys from beyond the British Isles: campers came from England, France, Scotland, and Poland during the war years.^mc
 
 ## Multi-Generational Tradition
 

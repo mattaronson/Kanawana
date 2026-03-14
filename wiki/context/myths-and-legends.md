@@ -25,7 +25,9 @@ The Ottertooth.com list of Canada's oldest camps lists Kanawana as tied with Kee
 
 The meaning of the name "Kanawana" has been a subject of camp lore for over a century. According to a 1951 camp history document cited in the McMorris thesis, **"Kanawana" was said to mean "lots to eat"** in an Indigenous language [f_0248]. According to Ralph Dawson's 1933 history, the meaning of "Kanawana" was not learned until years after the name was adopted [f_0249]. The specific Indigenous language for the name has never been identified in any known source [f_0250].
 
-No authoritative linguistic source has been found to confirm or deny the "lots to eat" translation. The word does not appear in standard Algonquin language dictionaries or Algonquian word lists. The closest linguistically documented term is "kanawa," a Cariban/Arawakan word for "dugout canoe" (the root of the English word "canoe"), but this is from a South American language family unrelated to the Algonquian languages spoken in Quebec.
+No authoritative linguistic source has been found to confirm or deny the "lots to eat" translation. McMorris's thesis examines the name in detail and concludes that "Kanawana" does not exist in Kanien'kéha (the Mohawk language), despite the camp's proximity to Kahnawá:ke. The closest attested Kanien'kéha term is "kanà:wa," meaning "swamp."^3 McMorris notes the phonetic similarity between "Kanawana" and "Kahnawá:ke" (the Mohawk community near Montreal), suggesting the name may have been loosely derived from or confused with the place name rather than being a genuine translation of any phrase.^3
+
+The word does not appear in standard Algonquin language dictionaries or Algonquian word lists. The closest linguistically documented term is "kanawa," a Cariban/Arawakan word for "dugout canoe" (the root of the English word "canoe"), but this is from a South American language family unrelated to the Algonquian languages spoken in Quebec.
 
 A possibly related toponym is "Kanawha," the name of a river in West Virginia, which is generally believed to mean "white rocks" in a Shawnee or Delaware language (though some sources suggest "new water" or "water way"). The relationship, if any, between "Kanawana" and "Kanawha" is unknown.
 
@@ -111,7 +113,7 @@ These Quebec folk traditions are strong candidates for Kanawana campfire storyte
 2. [Important] What was "the haunted house" referenced in the 1935 camp history? Was it a specific building? What stories were told about it?
 3. [Important] What ghost stories or supernatural narratives are told at Camp Kanawana? Are any tied to specific locations (Lake Wilson, the Council Ring, the woods)?
 4. [Important] What popular claims about Kanawana's history circulate among alumni that may be exaggerated or inaccurate?
-5. [Nice-to-have] Does the McMorris thesis full text contain information about the meaning of "Kanawana" or the naming process?
+5. ~~[Nice-to-have] Does the McMorris thesis full text contain information about the meaning of "Kanawana" or the naming process?~~ [Resolved] Yes — McMorris examines the name in detail. The word does not exist in Kanien'kéha (Mohawk); the closest term is "kanà:wa" (swamp). McMorris notes the phonetic similarity to Kahnawá:ke.^3
 6. [Nice-to-have] Does the Ralph Dawson 1933 history or the R.L. Charlton 1943 "Early Days" account contain the specific explanation of the name?
 7. [Nice-to-have] Do any camp myths appear in the *Green Triangle* newsletters or other camp publications?
 8. [Nice-to-have] Are there myths or legends shared with other YMCA camps (Pine Crest, John Island) or with the broader Canadian camping tradition?

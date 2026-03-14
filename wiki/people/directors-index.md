@@ -25,7 +25,7 @@ This index compiles all known directors of Camp Kanawana (originally Camp Jubile
 | Greig Macdiarmid | 1935-1938+ | Camp Chief in 1935 and confirmed again in July 1938; also listed as "W.J.G. MacDiarmid" (1936) in McMorris; recorded weight statistics | 1935 History; Green Triangle 1938; McMorris thesis |
 | Howie Langille | 1941 | Led 48th season with 68 staff and 30+ British evacuees; previously Senior Director in 1935 | CFCF 1941 broadcast; 1935 History |
 | R.H. Hanagan | 1942, 1946 | Wrote detailed season reports; managed 1946 polio outbreak (6 cases); listed as "Montreal YMCA camp director"^10 | McMorris thesis; Concordia fonds |
-| A. Ross Seaman | years unknown (pre-1963) | Director of Kamp Kanawana "for many years"; career in community work preceded directorship; became SGW faculty 1963; later chaired Dawson CRLT dept 1974-84; died 1987 | Concordia Seaman Fund^15 |
+| A. Ross Seaman | 1959-1967 | Director of Kamp Kanawana; oversaw 1959 section renaming and La Vérendrye expansion; career in community work preceded directorship; became SGW faculty 1963; later chaired Dawson CRLT dept 1974-84; died 1987 | McMorris thesis; Concordia Seaman Fund^15 |
 | Stuart McLean | 1974-1975 (Asst. Dir.) | Assistant Summer Camp Director; first hired as counselor 1969, worked 5 summers | OurKids interview; Samaritan Mag |
 | "Dave" (surname unknown) | 1980 | Named as camp director and *Ka-News* newsletter author | Ka-News 1980 |
 | Bruce Netherwood | late 1980s-1990s | Now VP Camping Services, South Shore YMCA, Massachusetts; 30+ years in YMCA camping | Oral history (M. Aronson) |
@@ -95,7 +95,8 @@ The following periods have no confirmed camp director:
 - **1929**: Between Cross and McEwen
 - **1932-1934**: Between McEwen and Macdiarmid (now confirmed from 1935, narrowed from 1936)
 - **1943-1945**: Between Hanagan's documented years
-- **1947-1973**: Post-war to early 1970s (26-year gap). A. Ross Seaman served as Director "for many years" during this period (exact dates unknown); he transitioned to SGW faculty in 1963, so his directorship likely preceded that. The 1972 "Camping and Outdoor Education Branch Director's Report" in Concordia Archives may name the director for that year.
+- **1947-1958**: Post-war to late 1950s. A. Ross Seaman's directorship began by 1959 (see above) but his start date is uncertain.
+- **1963-1973**: A. Ross Seaman transitioned to SGW faculty in 1963, so the directorship became vacant around that date. The 1972 "Camping and Outdoor Education Branch Director's Report" in Concordia Archives may name the director for that year.
 - **1976-1979**: Between McLean's assistant directorship and "Dave" in 1980. The director who worked alongside Stuart McLean (1974-1975) is referenced but unnamed.
 - **1981-late 1980s**: Between "Dave" and Bruce Netherwood
 - **Late 1990s-2003**: Between Netherwood and Sean Day (2004)
@@ -106,7 +107,7 @@ The following periods have no confirmed camp director:
 2. [Critical] Was Ralph Dawson a camp director or just a historian/alumnus? He was at Camp Jubilee in 1898 and wrote the 1933 history.
 3. [Important] The Permanent Camp Committee minute book (1911-1926) in Concordia Archives should list directors by year.
 4. [Important] Concordia sub-series 12B01 holds season reports — these would name directors for gap years.
-5. [Important] Is "Greig Macdiarmid" (1935 History, Green Triangle) the same as "W.J.G. MacDiarmid" (McMorris)? The name forms suggest the same person but the initials do not obviously correspond.
+5. ~~[Important] Is "Greig Macdiarmid" (1935 History, Green Triangle) the same as "W.J.G. MacDiarmid" (McMorris)?~~ [Resolved] Yes — same person. "Greig" maps to the "G" initial in "W.J.G. MacDiarmid." McMorris uses the archival form "W.J.G. MacDiarmid" while primary camp documents use "Greig Macdiarmid."^1
 6. [Nice-to-have] What was Lemuel Ereaux's full tenure? "11th summer" in 1922 suggests he started around 1912.
 7. [Nice-to-have] Were Paterson (brochure) and Davis (Gas Bag) both Camp Chiefs in 1923, or did they serve different roles?
 

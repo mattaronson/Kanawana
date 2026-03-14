@@ -33,4 +33,4 @@ Note: An earlier draft incorrectly stated Woodsmen covered ages 13-16. The YMCA 
 
 - The camp became coeducational in 1969 (per YMCA Kamp Kanawana Facts sheet). When were the section names reassigned along gender lines?
 - When were the additional section names (Rangers, Trailblazers, Foresters, etc.) introduced?
-- Did the Bantam name fall out of use at the 1959 renaming, or was it replaced later?
+- ~~Did the Bantam name fall out of use at the 1959 renaming, or was it replaced later?~~ [Resolved] McMorris confirms the Bantam section was replaced at the 1959 renaming, when all four sections received new names (Pioneers replacing Bantams, Woodsmen replacing Juveniles, Coureurs de Bois replacing Juniors, Pathfinders replacing Seniors).^mc

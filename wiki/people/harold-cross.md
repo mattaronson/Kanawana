@@ -26,7 +26,7 @@ No biographical details (birth date, death date, education, or personal backgrou
 
 Harold C. Cross's principal work, *100 Years of Service to Youth* (also titled *One Hundred Years: The Story of the Montreal Y.M.C.A.*), was written to commemorate the centennial of the Montreal YMCA, which was founded at St. Helen Street Baptist Church in November 1851 — the first YMCA in North America.^1 Chapter 7 of the manuscript is titled "Dominion Square Building (One Hundred Years of Service to Youth)."^1
 
-The book has not been located in WorldCat, Library and Archives Canada, or BAnQ. The manuscript copy, chapter drafts, and related production materials (printers' quotations, book orders) are held in the Concordia University Archives as part of the YMCA of Montreal fonds (P0145, sub-series 1B).^1 The existence of printers' quotations and book orders suggests a printed run was produced, but the absence from all major library catalogs indicates it was likely a limited internal YMCA publication rather than a commercial release — in contrast to Murray C. Ross's parallel national history, *The Y.M.C.A. in Canada: The Chronicle of a Century* (Ryerson Press, 1951), which was commercially published.^4
+The McMorris thesis cites the full publication as: Harold C. Cross, *One Hundred Years of Service with Youth: The Story of the Montreal Y.M.C.A* (Montreal: Association Press, 1951).^3 Association Press was the YMCA's own publishing imprint, which explains why the book does not appear in WorldCat, Library and Archives Canada, or BAnQ — it was an institutional publication rather than a commercial release, in contrast to Murray C. Ross's parallel national history, *The Y.M.C.A. in Canada: The Chronicle of a Century* (Ryerson Press, 1951), which was commercially published.^4 The manuscript copy, chapter drafts, and related production materials (printers' quotations, book orders) are held in the Concordia University Archives as part of the YMCA of Montreal fonds (P0145, sub-series 1B).^1
 
 A continuation was later written by F.G. Hubbard: *First Quarter of Second Century of Service to Youth of Montreal, 1951-1976* (1976).^1
 
@@ -34,10 +34,10 @@ A continuation was later written by F.G. Hubbard: *First Quarter of Second Centu
 
 1. [Critical] What are Harold C. Cross's birth and death dates? The 1971 photograph and 1938-1957 correspondence bracket his active years but biographical details remain unknown.
 2. [Important] What was his official title at the Montreal YMCA? "Camp director" at Kanawana is documented, but his later role (historian, staff member, volunteer?) is unclear.
-3. [Important] Was *100 Years of Service to Youth* published as a book for public distribution, or was it an internal YMCA document? The existence of printers' quotations and book orders suggests publication, but no library catalog record has been found.
+3. ~~[Important] Was *100 Years of Service to Youth* published as a book for public distribution, or was it an internal YMCA document?~~ [Resolved] Published by Association Press, Montreal — the YMCA's own imprint. This explains the absence from public library catalogs.^3
 4. [Important] What is the full content of the Harold C. Cross-National Council Boys' Work file (1940-1945)? This could clarify his role beyond the Montreal Association.
 5. [Nice-to-have] Is there a connection between his camp directorship (1920s) and his later Boys' Work involvement (1940s)?
-6. [Nice-to-have] What role did Harold C. Cross play at Kanawana specifically? Was he responsible for the "playing Indian" programming documented by McMorris, including the Council Ring and totem pole?
+6. ~~[Nice-to-have] What role did Harold C. Cross play at Kanawana specifically?~~ [Partially resolved] McMorris confirms Cross was camp director "in the 1920s," introduced the "Kickers and Knockers" council system in 1925, and added the totem pole to the Council Ring in 1927 as part of his expansion of "Indian programming."^3
 
 ## Related Articles
 
