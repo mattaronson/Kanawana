@@ -3793,7 +3793,23 @@
       "extraction_version": null,
       "reliability": "primary",
       "notes": "ERIC document. CCA conference held in Laurentians near Kanawana. May contain Kanawana references."
+    },
+    {
+      "source_id": "src_edgar_university_paper",
+      "type": "thesis",
+      "title": "Mary S. Edgar's Contribution to the Canadian Camping Movement (109-page university paper)",
+      "date": "unknown",
+      "date_precision": "approximate",
+      "origin": "web",
+      "origin_url": "https://images.ourontario.ca/sunstrong/72744/data",
+      "cache_path": null,
+      "char_count": 0,
+      "ingested_at": "2026-03-15T16:30:00Z",
+      "extracted": false,
+      "extraction_version": null,
+      "reliability": "secondary",
+      "notes": "Sundridge-Strong Digital Collection. 109 pages on Mary Edgar's camping contribution. Author unknown. PDF access blocked remotely (403). Trent University Archives also hold Mary Edgar fonds (82-010)."
     }
   ],
-  "source_count": 237
+  "source_count": 238
 }

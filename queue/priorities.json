@@ -973,7 +973,9 @@
       "blocking": false,
       "assigned_weight": "P1",
       "created_at": "2026-03-15T00:00:00Z",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-03-15T16:00:00Z",
+      "result": "5+ issues confirmed on archive.org. 1974 CCA conference proceedings found. Sources registered. Full-text Kanawana search blocked by 403."
     },
     {
       "priority_id": "p_075",
@@ -984,7 +986,9 @@
       "blocking": false,
       "assigned_weight": "P2",
       "created_at": "2026-03-15T00:00:00Z",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-03-15T16:00:00Z",
+      "result": "Completed as p_079. Walsh identified: CCA Award of Excellence 1983 (ACQ), Kanawana/YMCA link confirmed."
     },
     {
       "priority_id": "p_076",
@@ -1008,7 +1012,8 @@
       "blocking": false,
       "assigned_weight": "P2",
       "created_at": "2026-03-15T00:00:00Z",
-      "status": "pending"
+      "status": "blocked",
+      "result": "PDF access blocked (403). Source registered. Trent also holds Mary Edgar fonds 82-010. Requires in-person access or alternate download method."
     },
     {
       "priority_id": "p_078",
@@ -1119,7 +1124,9 @@
       "blocking": false,
       "assigned_weight": "P2",
       "created_at": "2026-03-15T12:00:00Z",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-03-15T16:00:00Z",
+      "result": "5+ issues confirmed on archive.org. 1974 CCA conference proceedings found. Sources registered. Full-text Kanawana search blocked by 403."
     }
   ]
 }

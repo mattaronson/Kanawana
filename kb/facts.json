@@ -2,7 +2,7 @@
   "version": "v4.18",
   "kb_version": "4.24",
   "migrated_from": "3.3",
-  "fact_count": 942,
+  "fact_count": 943,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -16097,6 +16097,23 @@
         "Ste-Agathe"
       ],
       "date_ref": "1974-10-03",
+      "conflicts_with": [],
+      "added_version": "4.24",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_0947",
+      "claim": "A 109-page university paper titled 'Mary S. Edgar's Contribution to the Canadian Camping Movement' is held in the Sundridge-Strong Digital Collection (images.ourontario.ca/sunstrong/72744). The Trent University Archives also hold the Mary S. Edgar fonds (82-010). The CCA published 'Legacy to a Camper: The Story of Mary S. Edgar' by Jocelyn Palm.",
+      "sources": [
+        "src_edgar_university_paper"
+      ],
+      "confidence": "stated",
+      "category": "sources",
+      "entities": [
+        "Mary Edgar",
+        "CCA"
+      ],
+      "date_ref": null,
       "conflicts_with": [],
       "added_version": "4.24",
       "added_by": "ralph_loop"
