@@ -59,7 +59,7 @@ In 1996, Kanawana began offering year-round residential programming, extending t
 
 The current programme structure, as described on the YMCA Quebec website, includes Pioneers (ages 7-12, cabin-based), Voyageur canoe-camping trips, and leadership programmes for older teens. The Rangers program (ages 15-16) provides DAFA certification from the Conseil québécois du loisir. The 2022 Mountaineer programme added an all-gender tent option for transgender, non-binary, and gender non-conforming campers. Kanawana operates as a technology-free camp. International campers are actively recruited, with airport transfer services offered. Pre-COVID enrollment was approximately 900 campers per year.
 
-The camp's current activity menu includes water trampolining, paddle boarding, archery, rope courses, rock climbing, theatre, music, arts and crafts, nature exploration, dance, survival techniques, and woodworking. The daily schedule features "Interest Groups," cabin/tent group time, and "General Swim." Environmental education, including stewardship and conservation action projects, is woven through the programming.
+The camp's current activity menu includes water trampolining, paddle boarding, archery, rope courses, rock climbing, theatre, music, arts and crafts, nature exploration, dance, survival techniques, and woodworking. The daily schedule features "Interest Groups," cabin/tent group time, and "General Swim." Environmental education, including stewardship and conservation action projects, is woven through the programming. As of fall 2025, the YMCAs of Québec discontinued all day camp programs (including holiday and spring break camps); Kanawana continues to operate as an overnight summer camp only.
 
 ## Open Questions
 
