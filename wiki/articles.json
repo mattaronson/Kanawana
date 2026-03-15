@@ -2751,6 +2751,43 @@
       ],
       "file_id": null,
       "word_count": 600
+    },
+    {
+      "article_id": "camp-perrot",
+      "title": "Camp Perrot",
+      "wiki_folder": "places",
+      "status": "stub",
+      "status_history": [
+        {
+          "status": "stub",
+          "at": "2026-03-15T14:00:00Z",
+          "by": "auto",
+          "task": "RESEARCH"
+        }
+      ],
+      "ralph_loops_completed": 1,
+      "kb_facts_used": [
+        "f_0330",
+        "f_0346",
+        "f_0676",
+        "f_0871",
+        "f_0874",
+        "f_0897"
+      ],
+      "sources_cited": [
+        "src_concordia_fonds",
+        "src_concordia_atom_fonds",
+        "src_mcmorris_thesis"
+      ],
+      "open_questions": 6,
+      "cross_links": [
+        "directors-index",
+        "rh-hanagan",
+        "canoe-trips",
+        "sources-index"
+      ],
+      "file_id": null,
+      "word_count": 350
     }
   ]
 }
