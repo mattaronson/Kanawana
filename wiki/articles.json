@@ -2812,6 +2812,53 @@
       ],
       "file_id": null,
       "word_count": 350
+    },
+    {
+      "article_id": "camp-oolahwan",
+      "title": "Camp Oolahwan",
+      "wiki_folder": "context",
+      "status": "stub",
+      "status_history": [
+        {
+          "status": "stub",
+          "at": "2026-03-15T17:00:00Z",
+          "by": "auto",
+          "task": "RESEARCH"
+        }
+      ],
+      "ralph_loops_completed": 1,
+      "kb_facts_used": [
+        "f_0220",
+        "f_0413",
+        "f_0715",
+        "f_0718",
+        "f_0810",
+        "f_0881",
+        "f_0893",
+        "f_0894",
+        "f_0895",
+        "f_0896",
+        "f_0900",
+        "f_0913"
+      ],
+      "sources_cited": [
+        "src_ywca_oolahwan_page",
+        "src_ywca_oolahwan_centennial",
+        "src_qctonline_oolahwan",
+        "src_westislandblog_oolahwan",
+        "src_ourontario_mary_edgar",
+        "src_mcmorris_thesis"
+      ],
+      "open_questions": 7,
+      "cross_links": [
+        "camp-ouareau",
+        "canadian-camping-movement",
+        "taylor-statten",
+        "traditions-and-culture",
+        "coeducation-gender"
+      ],
+      "file_id": null,
+      "word_count": 550
     }
   ]
 }

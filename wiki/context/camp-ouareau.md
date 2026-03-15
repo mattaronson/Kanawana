@@ -44,6 +44,7 @@ In 2014, Camp Ouareau changed its team names from Iroquois, Algonquin, and Micma
 
 ## Related Articles
 
+- [[context/camp-oolahwan|Camp Oolahwan]]
 - [[context/canadian-camping-movement|The Canadian Camping Movement]]
 - [[context/camp-weredale|Camp Weredale]]
 - [[people/taylor-statten|Taylor Statten]]
