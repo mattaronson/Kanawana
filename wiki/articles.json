@@ -2580,7 +2580,7 @@
       "article_id": "taylor-statten",
       "title": "Taylor Statten and the Canadian Camping Movement",
       "wiki_folder": "people",
-      "status": "R3-verified",
+      "status": "E1-reviewed",
       "status_history": [
         {
           "status": "stub",
@@ -2599,6 +2599,12 @@
           "at": "2026-03-15T15:00:00Z",
           "by": "auto",
           "task": "VERIFY"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-03-15T16:00:00Z",
+          "by": "auto",
+          "task": "REVIEW"
         }
       ],
       "ralph_loops_completed": 2,
@@ -2642,7 +2648,7 @@
       "article_id": "rh-hanagan",
       "title": "R.H. Hanagan",
       "wiki_folder": "people",
-      "status": "R3-verified",
+      "status": "E1-reviewed",
       "status_history": [
         {
           "status": "stub",
@@ -2661,6 +2667,12 @@
           "at": "2026-03-15T15:00:00Z",
           "by": "auto",
           "task": "VERIFY"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-03-15T16:00:00Z",
+          "by": "auto",
+          "task": "REVIEW"
         }
       ],
       "ralph_loops_completed": 2,

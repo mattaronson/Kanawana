@@ -1,7 +1,7 @@
 # Taylor Statten and the Canadian Camping Movement
 
-*Status: R3-verified | Sources: src_mcmorris_thesis, src_tsc_history, src_wikipedia_tuxis, src_oca_archives, src_wikipedia_cca, src_aca_presidents*
-*Last Updated: 2026-03-15 (VERIFY pass — R3 review, Dimock conflation corrected, citations fixed)*
+*Status: E1-reviewed | Sources: src_mcmorris_thesis, src_tsc_history, src_wikipedia_tuxis, src_oca_archives, src_wikipedia_cca, src_aca_presidents*
+*Last Updated: 2026-03-15 (E1 REVIEW pass — editorial issues fixed, status advanced)*
 
 ## Overview
 
@@ -19,7 +19,7 @@ The program was co-managed with Protestant churches via the National Boys' Work 
 
 ## Camp Ahmek
 
-In 1921, Statten mortgaged his home to fund Camp Ahmek at Canoe Lake in Algonquin Park.^1 The camp opened for six weeks with 60 boys living in tents.^1 In 1924, Statten founded Camp Wapomeo for girls on the same lake; his wife Ethel Page ("Tonakela") served as co-founding director.^1 ^2 Pierre Trudeau attended Camp Ahmek as a camper.^2
+In 1921, Statten mortgaged his home to fund Camp Ahmek at Canoe Lake in Algonquin Park.^1 The camp opened for six weeks with 60 boys living in tents.^1 In 1924, Statten founded Camp Wapomeo for girls on the same lake; his wife Ethel Page ("Tonakela") served as co-founding director.^1 ^2 Pierre Trudeau attended Camp Ahmek as a camper (per McMorris, citing TSC history).^2
 
 Statten styled himself "Chief" and took the Ojibwa name Gitchi-Ahmek.^2 In the summer of 1922, he invited Ernest Thompson Seton to Canoe Lake to create a formal Indian Lore program, which became a template for camps across Canada.^2 In 1926, the Taylor Statten Camps commissioned 42-foot war canoes from the Peterborough Canoe Company, reportedly still in use.^1
 
@@ -33,13 +33,13 @@ Hedley S. Dimock and Charles Hendry, both affiliated with Columbia University, c
 
 The Ontario Camping Association was founded in 1933 with Statten as a founding member, alongside A.L. Cochrane, Mary Edgar, Mary Hamilton, Ferna Halliday, and Ethel Statten.^5
 
-On May 20, 1936, the Canadian Camping Association was founded at the Central Y.M.C.A. in Toronto, with Statten as first president and Mary Edgar as first vice-president.^6 Statten was also elected president of the American Camp Association in 1941 but resigned due to illness; Vice-President Wes Klusmann assumed responsibilities.^7 (Some sources give 1942 as his ACA presidency year; this discrepancy is unresolved.)
+On May 20, 1936, the Canadian Camping Association was founded at the Central Y.M.C.A. in Toronto, with Statten as first president and Mary Edgar as first vice-president.^6 Statten was also elected president of the American Camp Association in 1941 but resigned due to illness; Vice-President Wes Klusmann assumed responsibilities.^7 (The CCA's own history gives 1942 as his ACA presidency year; this discrepancy is logged in conflicts.json as c_003.)
 
 ## Connection to Kanawana
 
 Statten's influence on Kanawana was primarily indirect: through the CSET program adopted by YMCA camps nationally, the Indian Lore programming model, and the CCA organizational framework. Concordia University Archives contain Taylor Statten weekly letters from 1915, suggesting an early connection to the Montreal YMCA network that has not yet been explored.^2
 
-At Kanawana, A. Ross Seaman served as director from 1959 to 1967 and simultaneously joined the Applied Social Science department at Sir George Williams University in 1963 as a part-time faculty member.^2 This institutional connection — through the SGW camping research tradition — represents one thread linking the broader Statten-influenced camping philosophy to Kanawana's program development.
+At Kanawana, A. Ross Seaman served as director from 1959 to 1967 and simultaneously joined the Applied Social Science department at Sir George Williams University in 1963 as a part-time faculty member.^2
 
 Taylor Statten Camps first sent groups to Quetico in 1965 as part of the OCA Centennial Program, which became a permanent tradition — a parallel to Kanawana's own canoe tripping evolution in the La Vérendrye region during the same period.^2
 
@@ -62,7 +62,8 @@ Taylor Statten Camps first sent groups to Quetico in 1965 as part of the OCA Cen
 
 1. Taylor Statten Camps, "History," https://taylorstattencamps.com/tsc-history/ — Ahmek founding, war canoes, Statten family succession.
 2. McMorris, Grace (2023). "An Experience That Lasts a Lifetime." MA thesis, Concordia University. Statten's influence on Canadian camping, Seton visit, Kanawana connections.
-3. Dimock, H.S. & Hendry, C.E. *Camping and Character* (1929/1931); Dimock, H.S. & Statten, T. *Talks to Counselors* (1939).
+3. Dimock, H.S. & Hendry, C.E. *Camping and Character: A Camp Experiment in Character Education.* Association Press, 1929.
+3b. Dimock, H.S. & Statten, T. *Talks to Counselors.* Association Press, 1939.
 4. Wikipedia, "TUXIS," https://en.wikipedia.org/wiki/TUXIS — CSET fourfold philosophy, Trail Rangers/TUXIS structure, CGIT parallel, 1917 Parliament.
 5. Ontario Camping Association, "History," https://ontariocampsassociation.ca/about/history/
 6. Canadian Camping Association, "History," https://www.ccamping.org/history

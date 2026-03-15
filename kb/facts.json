@@ -2,7 +2,7 @@
   "version": "v4.18",
   "kb_version": "4.24",
   "migrated_from": "3.3",
-  "fact_count": 940,
+  "fact_count": 942,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -16062,6 +16062,41 @@
         "Camp Ouareau"
       ],
       "date_ref": "1915-1920",
+      "conflicts_with": [],
+      "added_version": "4.24",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_0945",
+      "claim": "At least 5 issues of Canadian Camping magazine (CCA, 1949-1988) are digitized on Internet Archive with OCR: Vol. 9/1 (Dec 1956), Vol. 11/2 (Feb 1959), Vol. 13/4 (Jun 1961), Vol. 16/2 (Feb 1964), Vol. 24/2 (Winter 1972). Collection at archive.org/details/canadian-camping-association.",
+      "sources": [
+        "src_cca_magazine_ia"
+      ],
+      "confidence": "stated",
+      "category": "sources",
+      "entities": [
+        "CCA",
+        "Canadian Camping Magazine"
+      ],
+      "date_ref": "1949-1988",
+      "conflicts_with": [],
+      "added_version": "4.24",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_0946",
+      "claim": "The CCA held an Outdoor Education Conference at La Caleche, Ste-Agathe, Quebec, October 3-6, 1974 \u2014 in the Laurentians near Camp Kanawana. Proceedings available as ERIC document ED106010 on Internet Archive.",
+      "sources": [
+        "src_eric_cca_1974"
+      ],
+      "confidence": "stated",
+      "category": "organizations",
+      "entities": [
+        "CCA",
+        "Camp Kanawana",
+        "Ste-Agathe"
+      ],
+      "date_ref": "1974-10-03",
       "conflicts_with": [],
       "added_version": "4.24",
       "added_by": "ralph_loop"

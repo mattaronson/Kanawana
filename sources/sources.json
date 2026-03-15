@@ -3761,7 +3761,39 @@
       "extraction_version": "4.24",
       "reliability": "primary",
       "notes": "CCA archival fonds at Trent. Associates Derek Walsh with Kamp Kanawana/YMCA Montreal."
+    },
+    {
+      "source_id": "src_cca_magazine_ia",
+      "type": "periodical",
+      "title": "Canadian Camping Magazine \u2014 Internet Archive collection",
+      "date": "1949-1988",
+      "date_precision": "year",
+      "origin": "internet_archive",
+      "origin_url": "https://archive.org/details/canadian-camping-association",
+      "cache_path": null,
+      "char_count": 0,
+      "ingested_at": "2026-03-15T15:30:00Z",
+      "extracted": false,
+      "extraction_version": null,
+      "reliability": "primary",
+      "notes": "CCA official magazine. Digitized issues available. OCR searchable. At least 5 issues confirmed (1956, 1959, 1961, 1964, 1972). Full inventory not yet compiled."
+    },
+    {
+      "source_id": "src_eric_cca_1974",
+      "type": "report",
+      "title": "CCA Outdoor Education Conference Proceedings, Ste-Agathe, Quebec, October 3-6, 1974",
+      "date": "1974",
+      "date_precision": "exact",
+      "origin": "internet_archive",
+      "origin_url": "https://archive.org/details/ERIC_ED106010",
+      "cache_path": null,
+      "char_count": 0,
+      "ingested_at": "2026-03-15T15:30:00Z",
+      "extracted": false,
+      "extraction_version": null,
+      "reliability": "primary",
+      "notes": "ERIC document. CCA conference held in Laurentians near Kanawana. May contain Kanawana references."
     }
   ],
-  "source_count": 235
+  "source_count": 237
 }

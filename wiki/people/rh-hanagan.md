@@ -1,7 +1,7 @@
 # R.H. Hanagan
 
-*Status: R3-verified | Sources: src_mcmorris_thesis, src_concordia_fonds, src_concordia_atom_fonds, src_newspapers_gazette_1942, src_cfcf_1941*
-*Last Updated: 2026-03-15 (VERIFY pass — R3 review, corrections applied)*
+*Status: E1-reviewed | Sources: src_mcmorris_thesis, src_concordia_fonds, src_concordia_atom_fonds, src_newspapers_gazette_1942, src_cfcf_1941*
+*Last Updated: 2026-03-15 (E1 REVIEW pass — editorial issues fixed, status advanced)*
 
 ## Overview
 
@@ -11,7 +11,7 @@ R.H. Hanagan served as Montreal YMCA camp director in 1942 and 1946, a period th
 
 No director is documented between Howie Langille, who served as Camp Chief/Director in 1941 (the 48th season, with 68 staff and over 30 British wartime evacuees), and Hanagan's confirmed presence in 1942, suggesting direct succession.^1 ^5
 
-The 1942 season documented a two-tier directorship structure: Hanagan held the title "Camp Director" while Edgar E. Smee held the title "Resident Director."^3 Smee had previously served as Juvenile section director in 1939.^1 This arrangement suggests Hanagan served as overall supervisor of YMCA camping operations while Smee managed day-to-day camp life at Kanawana.
+The 1942 season documented a two-tier directorship structure: Hanagan held the title "Camp Director" while Edgar E. Smee held the title "Resident Director."^3 Smee had previously served as Juvenile section director in 1939.^1
 
 ## 1942 Season
 
@@ -39,13 +39,15 @@ The Concordia Archives (P0145/12A) place Hanagan's report alongside system-wide 
 ## Related Articles
 
 - [[people/directors-index|Directors and Staff of Camp Kanawana]]
+- [[people/cushing-family|The Cushing Family and YMCA Camping]]
 - [[chronology/wartime-kanawana|Wartime Kanawana]]
 - [[programs/traditions-and-culture|Traditions and Culture at Kanawana]]
+- [[places/camp-perrot|Camp Perrot]]
 
 ## Sources
 
 1. McMorris, Grace (2023). "An Experience That Lasts a Lifetime." MA thesis, Concordia University. References to Hanagan's directorship, polio outbreak, and season reports.
 2. Concordia University Archives: YMCA of Montreal fonds P0145/12A — Hanagan season reports, YMCA camping system documents.
 3. Montreal Gazette, August 5, 1942: "Y.M.C.A. Boys Stage Parade and Circus." Hanagan and Smee titles, section names, camp event description.
-4. Concordia University Archives AtoM finding aid: P0145/12A Camping and Outdoor Education sub-series.
+4. Concordia University Archives AtoM finding aid: P0145/12A Camping and Outdoor Education sub-series. URL: https://concordia.accesstomemory.org/ymca-of-montreal-fonds-2
 5. CFCF radio broadcast (1941): Langille season details, staff count, British evacuees.
