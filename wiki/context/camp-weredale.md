@@ -1,7 +1,7 @@
 # Camp Weredale and Its Relationship to Kanawana
 
-*Status: draft | Sources: src_batshaw_camp_weredale, src_biographi_charles_alexander, src_lac_weredale_fonds, src_concordia_fonds, src_ciusss_weredale_90, src_blog_frank_crabbe*
-*Last Updated: 2026-03-15 (WRITE pass — stub → draft)*
+*Status: E1-reviewed | Sources: src_batshaw_camp_weredale, src_biographi_charles_alexander, src_lac_weredale_fonds, src_concordia_fonds, src_concordia_atom_fonds, src_ciusss_weredale_90, src_weredale_camp, src_blog_frank_crabbe*
+*Last Updated: 2026-03-15 (E1 REVIEW pass — R3 → E1)*
 
 ## Overview
 
@@ -29,9 +29,9 @@ In 1977, Weredale House merged with Summerhill Homes, the Girls' Cottage School,
 
 ## Relationship to Camp Kanawana
 
-In 1977, the YMCA of Montreal produced situation reports profiling Kamp Kanawana, Camp Otoreke, and Camp Weredale together, and by approximately 1980 had developed plans for a proposed two-site operation combining Kanawana and Weredale.^4 The plan was ultimately abandoned; the reasons are not documented in available sources. Concordia University Archives sub-series 12A holds the relevant planning documents (1977–1983).^4
+In 1977, the YMCA of Montreal produced situation reports profiling Kamp Kanawana, Camp Otoreke, and Camp Weredale together, and by approximately 1980 had developed plans for a proposed two-site operation combining Kanawana and Weredale.^4 The plan was ultimately abandoned; the reasons are not documented in available sources. Concordia University Archives sub-series P0145/12A (Committees) holds the relevant planning documents (1977–1983), while sub-series P0145/12F is dedicated to Camp Weredale records.^4
 
-The camps also shared overlapping communities of Montreal youth workers. Frank Edward Crabbe (born 1946, died February 16, 1966), an ex-Weredale Boy and Camp Lewis counsellor c.1964–65, enlisted in the U.S. military and was killed in the Vietnam War, illustrating the broader network of Montreal-area camp alumni.^6
+The camps also shared overlapping communities of Montreal youth workers. Frank Edward Crabbe (born 1946, died February 16, 1966), an ex-Weredale Boy and Camp Lewis counsellor c.1964–65, enlisted in the U.S. Marine Corps on January 7, 1965, and was killed in the Vietnam War.^6
 
 ## Archival Resources
 
@@ -57,7 +57,7 @@ The camps also shared overlapping communities of Montreal youth workers. Frank E
 
 1. Batshaw Centres History: "The History of Camp Weredale" (batshawcentreshistory.ca)
 2. CIUSSS de l'Ouest-de-l'Île-de-Montréal: Camp Weredale 90th anniversary
-3. Dictionary of Canadian Biography / Library and Archives Canada: Charles Alexander entry; Weredale House fonds (1868–1975)
-4. Concordia University Archives: YMCA of Montreal fonds, sub-series 12A (camping planning documents, 1977–1983)
-5. Weredale Foundation: Camp Weredale current operations
-6. Blog post on Frank Crabbe, ex-Weredale Boy (src_blog_frank_crabbe)
+3. Dictionary of Canadian Biography: Charles Alexander entry; Library and Archives Canada: Weredale House fonds (1868–1975)
+4. Concordia University Archives: YMCA of Montreal fonds P0145, sub-series 12A (Committees, planning documents 1977–1983) and sub-series 12F (Camp Weredale records)
+5. Weredale Foundation / Camp Weredale Official Website (weredalecamp.com): current operations
+6. Colin T. Paterson, "Remembering Frank Crabbe" (blog post, 2012)

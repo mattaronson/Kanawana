@@ -1,8 +1,8 @@
 {
   "version": "v4.18",
-  "kb_version": "4.22",
+  "kb_version": "4.23",
   "migrated_from": "3.3",
-  "fact_count": 910,
+  "fact_count": 917,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -15520,6 +15520,135 @@
       "date_ref": "1921",
       "conflicts_with": [],
       "added_version": "4.22",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_0915",
+      "claim": "A. Ross Seaman graduated from Sir George Williams University and subsequently offered a colleague a job at the Cornwall YMCA, indicating early career involvement with the Ontario YMCA network.",
+      "sources": [
+        "src_concordia_seaman_fund",
+        "src_dawson_crlt"
+      ],
+      "confidence": "stated",
+      "category": "directors",
+      "entities": [
+        "A. Ross Seaman",
+        "Sir George Williams University",
+        "Cornwall YMCA"
+      ],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "4.23",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_0916",
+      "claim": "A. Ross Seaman served as teacher and chairperson of the Community Recreation and Leadership Training (CRLT) Department at Dawson College from 1974 to 1984.",
+      "sources": [
+        "src_dawson_crlt"
+      ],
+      "confidence": "stated",
+      "category": "directors",
+      "entities": [
+        "A. Ross Seaman",
+        "Dawson College",
+        "CRLT"
+      ],
+      "date_ref": "1974-1984",
+      "conflicts_with": [],
+      "added_version": "4.23",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_0917",
+      "claim": "A. Ross Seaman and his wife Margaret developed the Elder Hostel Program at Concordia University's Loyola Campus after his retirement from Dawson College.",
+      "sources": [
+        "src_concordia_seaman_fund"
+      ],
+      "confidence": "stated",
+      "category": "directors",
+      "entities": [
+        "A. Ross Seaman",
+        "Margaret Seaman",
+        "Concordia University"
+      ],
+      "date_ref": "1986-1987",
+      "conflicts_with": [],
+      "added_version": "4.23",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_0918",
+      "claim": "A. Ross Seaman served as acting chair of Concordia University Leisure Studies during the 1986-87 school year (more precise than earlier 'during the 1980s' claim).",
+      "sources": [
+        "src_concordia_seaman_fund"
+      ],
+      "confidence": "stated",
+      "category": "directors",
+      "entities": [
+        "A. Ross Seaman",
+        "Concordia University"
+      ],
+      "date_ref": "1986-1987",
+      "conflicts_with": [],
+      "added_version": "4.23",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_0919",
+      "claim": "A. Ross Seaman's home community was Vankleek Hill, Ontario, where he is remembered for church and community involvement. A scholarship is given in his name from Vankleek Hill Collegiate.",
+      "sources": [
+        "src_concordia_seaman_fund"
+      ],
+      "confidence": "stated",
+      "category": "directors",
+      "entities": [
+        "A. Ross Seaman",
+        "Vankleek Hill"
+      ],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "4.23",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_0920",
+      "claim": "The A. Ross Seaman Memorial Leadership Development Fund hosts an annual awards evening with auction — described as possibly the only active Concordia scholarship that raises funds this way. Awards are presented annually at Dawson College. The fund designation code is ES0042.",
+      "sources": [
+        "src_concordia_seaman_fund",
+        "src_concordia_ctr_2001"
+      ],
+      "confidence": "stated",
+      "category": "directors",
+      "entities": [
+        "A. Ross Seaman",
+        "Concordia University",
+        "Dawson College"
+      ],
+      "date_ref": "1987-present",
+      "conflicts_with": [],
+      "added_version": "4.23",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_0921",
+      "claim": "Five organizations give scholarships in A. Ross Seaman's name: Dawson College, Concordia University, Kamp Kanawana, YMCA, and Vankleek Hill Collegiate. The Dawson CRLT scholarship is $500 to a second-year student displaying leadership, community service, caring, and concern for others.",
+      "sources": [
+        "src_dawson_crlt",
+        "src_concordia_seaman_fund"
+      ],
+      "confidence": "stated",
+      "category": "directors",
+      "entities": [
+        "A. Ross Seaman",
+        "Dawson College",
+        "Concordia University",
+        "Camp Kanawana",
+        "YMCA"
+      ],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "4.23",
       "added_by": "ralph_loop"
     }
   ]

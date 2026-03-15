@@ -1,7 +1,7 @@
 # Camp Ouareau and Its Connections to Kanawana
 
-*Status: stub | Sources: src_camp_ouareau_history, src_wikipedia_ouareau, src_camp_oconto, src_mcmorris_thesis*
-*Last Updated: 2026-03-15*
+*Status: draft | Sources: src_camp_ouareau_history, src_wikipedia_ouareau, src_camp_oconto, src_mcmorris_thesis, src_ywca_oolahwan*
+*Last Updated: 2026-03-15 (WRITE pass — stub → draft)*
 
 ## Overview
 

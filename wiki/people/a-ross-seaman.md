@@ -1,43 +1,53 @@
 # A. Ross Seaman
 
-*Status: stub | Sources: src_concordia_fonds, src_concordia_seaman_fund, src_mcmorris_thesis*
-*Last Updated: 2026-03-15*
+*Status: draft | Sources: src_concordia_fonds, src_concordia_seaman_fund, src_mcmorris_thesis, src_dawson_crlt, src_concordia_ctr_2001*
+*Last Updated: 2026-03-15 (WRITE pass — stub → draft)*
 
 ## Overview
 
-A. Ross Seaman (died 1987) was director of Kamp Kanawana from 1959 to 1967, a pivotal period that included the 1959 section renaming and the La Vérendrye canoe trip program.^1 He later had a distinguished career in community recreation education at Sir George Williams University, Dawson College, and Concordia University.
+A. Ross Seaman (died 1987) was director of Kamp Kanawana from 1959 to 1967, a pivotal period that included the 1959 section renaming and the launch of the La Vérendrye canoe trip program.^1 A Sir George Williams University graduate, Seaman built a career spanning the YMCA, academia, and community recreation, becoming one of the most influential figures in Montreal's outdoor education landscape. Five organizations — Dawson College, Concordia University, Kamp Kanawana, the YMCA, and Vankleek Hill Collegiate — give annual scholarships in his memory.^2
 
-## Camp Kanawana
+## Early Career and YMCA
 
-Seaman served as director of Kamp Kanawana from 1959 to 1967.^1 During his tenure, he oversaw the 1959 section renaming and the establishment of the La Vérendrye canoe trip as a camp tradition.^1 Before his directorship, he had a career in community work and the camping movement.^2
+After graduating from Sir George Williams University, Seaman entered community work and the camping movement through the YMCA.^2 ^3 Early in his career, he offered a colleague a position at the Cornwall YMCA, indicating involvement with the Ontario YMCA network.^3 His pre-Kanawana career details remain undocumented.
+
+## Camp Kanawana (1959–1967)
+
+Seaman served as director of Kamp Kanawana from 1959 to 1967.^1 During his tenure, he oversaw the 1959 section renaming and the expansion of the La Vérendrye canoe trip program, which grew from exploratory trips in 1958 to a formal satellite operation with a 25-acre lease at Lac Landron by the early 1960s.^1 This was a transformative period in the camp's history, as the canoe tripping program became central to Kanawana's identity.
 
 ## Academic Career
 
-In 1963, Seaman was a part-time faculty member in Applied Social Science at Sir George Williams University, concentrating on group work techniques with youth.^3 He later became teacher and chairperson of the Community Recreation and Leadership Training (CRLT) Department at Dawson College.^4 After retiring from Dawson, he served as acting chair of Concordia University Leisure Studies during the 1980s.^5
+In 1963, while still directing Kanawana, Seaman became a part-time faculty member in Applied Social Science at Sir George Williams University, concentrating on group work techniques with youth.^4 He was an active collaborator in the program and research of the Centre for Human Relations and Community Studies.^4
 
-## Legacy
+In 1974, Seaman became teacher and chairperson of the Community Recreation and Leadership Training (CRLT) Department at Dawson College, a position he held until 1984.^3 His deep interest in working with adolescents, combined with a growing concern for seniors, informed his pedagogical approach.^3
 
-Seaman died in 1987.^6 The A. Ross Seaman Memorial Fund was established at Concordia University to honour his dedication to Concordia, the community recreation movement, and youth development.^7 Five organizations give scholarships in his memory: Dawson College, Concordia University, Kanawana, the Quebec Camping Association, and one other.^6
+After retiring from Dawson, Seaman served as acting chair of Concordia University's Leisure Studies program during the 1986–87 academic year.^2 During this period, he and his wife Margaret were instrumental in developing the Elder Hostel Program at Concordia's Loyola Campus.^2
+
+## Personal Life and Legacy
+
+Seaman's home community was Vankleek Hill, Ontario, where he was remembered for church and community involvement.^2 He died in 1987.^2
+
+The A. Ross Seaman Memorial Leadership Development Fund was established at Concordia University (designation code ES0042) to honour his dedication to Concordia, Dawson, Kamp Kanawana, and the YMCA.^2 The fund is notable for raising money through an annual awards evening with auction — described as possibly the only active Concordia scholarship using this fundraising model.^5 The Dawson College CRLT scholarship awards $500 annually to a second-year student who displays leadership, community service, caring, and genuine concern for others.^3
 
 ## Open Questions
 
-1. [Critical] What are Seaman's full biographical details — birth year, education, early career?
-2. [Important] What specific changes did Seaman make to camp programming during 1959–1967?
-3. [Important] What was Seaman's relationship to the broader Canadian camping movement? Did he hold positions in the CCA or QCA?
-4. [Nice-to-have] Who succeeded Seaman as director after 1967?
+1. [Critical] What are Seaman's full biographical details — birth year, full name, education beyond SGW?
+2. [Important] What specific programming changes did Seaman make at Kanawana during 1959–1967?
+3. [Important] Who succeeded Seaman as director after 1967? (Ross Bannerman authored a Kanawana report in 1969.)
+4. [Nice-to-have] What was Seaman's role at Cornwall YMCA — was this before or after his Kanawana directorship?
+5. [Nice-to-have] Is Margaret Seaman still involved with the memorial fund?
 
 ## Related Articles
 
 - [[people/directors-index|Directors and Staff of Camp Kanawana]]
 - [[programs/canoe-trips|Canoe Tripping at Kanawana]]
 - [[context/section-names|Section Names and Age Groups]]
+- [[people/hedley-dimock|Hedley Dimock and the Science of Camping]]
 
 ## Sources
 
-1. McMorris thesis; Concordia Archives references to Seaman's directorship 1959–1967.
-2. Concordia University Archives: YMCA of Montreal fonds, Seaman career references.
-3. Sir George Williams University records: Seaman as faculty 1963.
-4. Dawson College: CRLT Department chairperson.
-5. Concordia University: Acting chair, Leisure Studies, 1980s.
-6. Concordia University: A. Ross Seaman Memorial Fund (est. 1987).
-7. Five scholarship programs in Seaman's memory.
+1. McMorris, Grace (2023). "An Experience That Lasts a Lifetime." MA thesis, Concordia University. Concordia Archives references to Seaman's directorship 1959–1967.
+2. Concordia University: A. Ross Seaman Memorial Leadership Development Fund; Concordia Thursday Report (2001).
+3. Dawson College CRLT Scholarships page: A. Ross Seaman Memorial Scholarship.
+4. Sir George Williams University / Concordia: Applied Social Science faculty records (1963).
+5. Concordia Thursday Report, April 2001: Seaman Awards ceremony.

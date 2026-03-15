@@ -3569,7 +3569,55 @@
       "extraction_version": "v4.22",
       "reliability": "secondary",
       "notes": "Confirms Halliday as OCA founding member alongside Mary Edgar and Taylor Statten."
+    },
+    {
+      "source_id": "src_ciusss_weredale_90",
+      "type": "web",
+      "title": "CIUSSS de l'Ouest-de-l'Île-de-Montréal: Camp Weredale 90th anniversary",
+      "date": "2024",
+      "date_precision": "year",
+      "origin": "web",
+      "origin_url": null,
+      "cache_path": null,
+      "char_count": 0,
+      "ingested_at": "2026-03-15T04:12:17.819844",
+      "extracted": true,
+      "extraction_version": "v4.22",
+      "reliability": "secondary",
+      "notes": "90th anniversary announcement for Camp Weredale (founded 1934). Confirms founding date, location, current operations."
+    },
+    {
+      "source_id": "src_dawson_crlt",
+      "type": "web",
+      "title": "Dawson College CRLT Scholarships page — A. Ross Seaman Memorial Scholarship",
+      "date": "2026",
+      "date_precision": "year",
+      "origin": "web",
+      "origin_url": "https://www.dawsoncollege.qc.ca/community-recreation-leadership-training-crlt/scholarships/",
+      "cache_path": null,
+      "char_count": 0,
+      "ingested_at": "2026-03-15T04:14:29.376934",
+      "extracted": true,
+      "extraction_version": "v4.23",
+      "reliability": "primary",
+      "notes": "Official Dawson CRLT page. Confirms Seaman as CRLT chairperson 1974-1984, SGW grad, Cornwall YMCA connection, $500 scholarship details."
+    },
+    {
+      "source_id": "src_concordia_ctr_2001",
+      "type": "web",
+      "title": "Concordia Thursday Report: A. Ross Seaman Awards (2001)",
+      "date": "2001",
+      "date_precision": "year",
+      "origin": "web",
+      "origin_url": "http://ctr.concordia.ca/2000-01/Apr_12/09-Seaman_Awards/index.shtml",
+      "cache_path": null,
+      "char_count": 0,
+      "ingested_at": "2026-03-15T04:14:29.376963",
+      "extracted": true,
+      "extraction_version": "v4.23",
+      "reliability": "secondary",
+      "notes": "Annual awards ceremony report. Confirms fund hosts auction fundraiser. 403-blocked but extracted from search snippets."
     }
   ],
-  "source_count": 223
+  "source_count": 226
 }
