@@ -2,9 +2,9 @@
 
 <!-- status: E1-reviewed -->
 <!-- confidence: medium-high -->
-<!-- last_updated: 2026-02-14 -->
-<!-- last_editor: v50 -->
-<!-- ralph_loops: canadian-camping-movement-R1, canadian-camping-movement-V1 -->
+<!-- last_updated: 2026-03-15 -->
+<!-- last_editor: session3 -->
+<!-- ralph_loops: canadian-camping-movement-R1, canadian-camping-movement-V1, canadian-camping-movement-R2 -->
 
 ## Summary
 
@@ -36,7 +36,9 @@ In 1921, Statten founded Camp Ahmek on Canoe Lake in Algonquin Park, named after
 
 The founding of the Ontario Camping Association in 1933 marked the transition from informal to organized camping. Statten served as first chairman, alongside founding members A.L. Cochrane, Mary Edgar, Mary Hamilton, Ferna Halliday, and Ethel Statten.^7
 
-In 1936, the Canadian Camping Association was founded at the Central Y.M.C.A. in Toronto, with Statten as first president and Mary Edgar as first vice-president.^8
+In 1936, the Canadian Camping Association was founded at the Central Y.M.C.A. in Toronto on May 20, with Statten as first president, Mary Edgar as first vice-president, Dr. George S. Patterson as secretary, and Mary C. Donaldson as treasurer.^8 Statten also served as president of the American Camp Association in 1942, the only Canadian to hold both offices.^8b The CCA's stated objective was to "further the interests and welfare of children, youths and adults through camping as an educative, recreative, and character developing experience."^8c Its constitution was formally incorporated by Letters Patent on November 4, 1949.^8c
+
+The Quebec Camping Association (QCA) was formed in 1937 as a chartered unit of the CCA.^8d Concordia Archives hold correspondence regarding the founding of the CCA Quebec Section (1936–1937), a QCA constitution from 1937, and executive/members meeting records from 1937 to 1942.^8e A camping school affiliated with the QCA was held at McGill University from 1937 to 1940, representing one of the earliest formal training programs for camp leaders in Canada.^8f The modern successor to the QCA is the Association des camps du Québec (ACQ), of which Camp YMCA Kanawana is an accredited member today.^8g
 
 ## Women in the Camping Movement
 
@@ -46,6 +48,10 @@ Women were pioneers in their own right:
 - **Mary Hamilton** founded Camp Tanamakoon in Algonquin Park (1925) and authored *The Call of Algonquin: A Biography of a Summer Camp*. She was a founding OCA member.^7
 - **Ferna Halliday** co-founded Camp Ouareau (1922) with Mabel Jamieson and was also an OCA founding member.^7
 
+## Kanawana's Place in the Movement
+
+Camp Kanawana's relationship to the formal camping organizations is documented in several archival sources. The Ontario Camping Association fonds at Trent University (72-007) holds a "Kanawana (1940)" file in its Camp Brochures and Photographs series, confirming Kanawana had a presence in the OCA network by the early 1940s.^8h In the OCA's Agency Liaison series (fonds 78-006), Kanawana is listed among "Y" camps alongside Wanakita, Wa-sa-ah-bun, Tapatoo, Tapawingo, Pinecrest, and Camp Stephens.^8i The CCA fonds at Trent associates "Kamp Kanawana" with Derek Walsh and the YMCA in Montreal.^8j Concordia Archives sub-series P0145/12A holds "History of Camping" notes dated 1936, the same year the CCA was founded.^8k The same sub-series (P0145/12N03) contains records of the Canadian Camping Association founding (1936–1937), the QCA constitution (1937, 1942), the McGill camping school (1937–1940), and lists of camps, officials, and counsellors (1939–1948).^8l
+
 ## Academic Study
 
 The Canadian camping movement has received growing scholarly attention. Sharon Wall's *The Nurture of Nature: Childhood, Antimodernism, and Ontario Summer Camps, 1920-55* (UBC Press, 2009) is the principal study, analyzing camps as "hybrid institutions" navigating antimodernism and modernity.^10 Grace McMorris's thesis on Kanawana (Concordia, 2023) examines how the camp shaped "distinctly masculine and Canadian young men" from 1894 to 1967.^11
@@ -54,11 +60,12 @@ The CCA published *Canadian Camping* magazine from 1949 to 1988; digitized issue
 
 ## Open Questions
 
-1. [Critical] What was Camp Kanawana's relationship to the CCA and OCA formally? Was it a member camp through the Quebec section?
+1. [Important] Who was Derek Walsh, and what was his role connecting Kanawana to the CCA? The CCA fonds at Trent associates him with Kamp Kanawana and the YMCA.
 2. [Important] Did any Kanawana directors attend OCA or CCA meetings or serve in leadership roles?
 3. [Important] How did Kanawana's programming compare to the Taylor Statten model? Both used woodcraft, Indigenous themes, and character development.
-4. [Nice-to-have] Trent University Archives hold OCA and CCA fonds — do they contain any Kanawana-specific records?
-5. [Nice-to-have] Did Ernest Thompson Seton's Woodcraft League influence Kanawana directly? The 1922 brochure mentions a Woodcraft League charter.
+4. [Important] What do the 1937–1940 McGill camping school records contain? This training program may have involved Kanawana staff.
+5. [Nice-to-have] What is in the OCA "Kanawana (1940)" brochure file at Trent? It may contain the earliest surviving camp brochure.
+6. [Nice-to-have] Did Ernest Thompson Seton's Woodcraft League influence Kanawana directly? The 1922 brochure mentions a Woodcraft League charter.
 
 ## Related Articles
 
@@ -66,6 +73,8 @@ The CCA published *Canadian Camping* magazine from 1949 to 1988; digitized issue
 - [[chronology/centennial-1967|The 1967 Centennial and Kanawana]]
 - [[programs/canoe-trips|Canoe Tripping at Kanawana]]
 - [[people/cushing-family|The Cushing Family and YMCA Camping]]
+- [[people/taylor-statten|Taylor Statten and the Canadian Camping Movement]]
+- [[context/camp-ouareau|Camp Ouareau and Its Connections to Kanawana]]
 
 ## Sources
 
@@ -80,6 +89,17 @@ The CCA published *Canadian Camping* magazine from 1949 to 1988; digitized issue
 9. Wikipedia, "Mary Susanne Edgar," https://en.wikipedia.org/wiki/Mary_Susanne_Edgar
 10. Wall, Sharon. *The Nurture of Nature: Childhood, Antimodernism, and Ontario Summer Camps, 1920-55.* UBC Press, 2009.
 11. McMorris, Grace (2023). "An Experience That Lasts a Lifetime." MA thesis, Concordia University.
+8b. Taylor Statten Camps, "History"; ACA records.
+8c. CCA Constitution, Letters Patent (November 4, 1949).
+8d. Concordia University Archives, P0145/12N03: CCA/QCA founding records.
+8e. Concordia University Archives, P0145/12A: CCA Quebec Section correspondence (1936–1937).
+8f. Concordia University Archives, P0145/12N03: Camping school at McGill University (1937–1940).
+8g. Association des camps du Québec (ACQ) accreditation records.
+8h. Trent University Archives, OCA fonds 72-007: Kanawana (1940) file.
+8i. Trent University Archives, OCA fonds 78-006: Agency Liaison series, "Y" camps.
+8j. Trent University Archives, CCA fonds: Derek Walsh / YMCA Montreal / Kamp Kanawana.
+8k. Concordia University Archives, P0145/12A: "History of Camping" notes (1936).
+8l. Concordia University Archives, P0145/12N03: CCA founding, QCA constitution, camping school, camp/official lists.
 12. CCA, *Canadian Camping* magazine (1949-1988). Digitized via Internet Archive.
 
 ## Research Notes
@@ -88,3 +108,4 @@ The CCA published *Canadian Camping* magazine from 1949 to 1988; digitized issue
 
 <!-- V1 VERIFY pass completed 2026-02-14. 17/19 claims independently confirmed. Corrections applied: (1) Keewaydin founded 1893 not 1894, per Wikipedia and Keewaydin.org. (2) Camp Oolahwan was NOT first girls' camp in Canada — Camp Northway (1906) predates it by 11 years. Wording corrected to "one of the earliest." (3) Taylor Statten's 1906 YMCA role clarified as regional/early, national secretary by 1912. All other claims confirmed: Big Cove 1889, Montreal YMCA 1851, Camp Pine Crest 1910, CSET 1914, TUXIS/Trail Rangers 1918, Camp Ahmek 1921, Wapomeo 1924, Pierre Trudeau at Ahmek, OCA 1933, CCA 1936, Camp Tanamakoon 1925, Camp Ouareau 1922, Cochrane 1900, Wall 2009, Canadian Camping magazine 1949-1988. -->
 <!-- E1 REVIEW pass completed 2026-02-14. Systematic quality review: (1) All major claims cited — two general contextual sentences in Origins lack inline citations but are supported by referenced works. (2) Table reordered chronologically (Keewaydin 1893 now before Camp Jubilee 1894). (3) Names all cross-checked in V1 pass. (4) Cross-links valid. (5) Encyclopedic tone, neutral voice. (6) Open Questions actionable with archival leads. Article advanced R3-verified → E1-reviewed. -->
+<!-- R2 UPDATE 2026-03-15: Added QCA section (1937 founding, McGill camping school), CCA officer details, Kanawana's Place in the Movement section with OCA/CCA archival references (Trent fonds, Derek Walsh link, P0145/12N03 records). Updated open questions — former Q1 and Q4 partially answered. Added cross-links to taylor-statten and camp-ouareau. 12 new source references (8b-8l). -->
