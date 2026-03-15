@@ -1073,3 +1073,35 @@ HYPOTHESIZE:
   — KB: v4.19 → v4.22. Facts: 855 → 910 (+55 new facts)
   — Sources: 208 → 223 (+15 new sources)
   — Updated articles: founding-1894 (1893 scouting journal), canoe-trips (12K details), sources-index (full fonds structure)
+
+2026-03-15T12:00:00Z | SOURCE DISCOVERY | Newspaper search sweep (10 queries)
+  - Searched: newspapers.com, Montreal Gazette, Montreal Star, La Presse, Le Devoir, CBC News
+  - Decade coverage attempted: 1920s, 1930s, 1940s, 1950s, 1960s, plus topical (fire/flood, fundraising, Stuart McLean, Desjardins)
+  - RESULT: No new Gazette articles beyond the 7 already known (1897, 1913, 1918x2, 1933, 1942, 1974)
+  - RESULT: Gazette Feb 2020 and Gazette 2021 COVID articles already registered from prior session
+  - RESULT: CBC articles (McLean fund 2017, pandemic camps 2021, sleepaway greenlight 2021, Daybreak 2022) already registered
+  - RESULT: La Presse Desjardins $1M article (2018) already registered
+  - NEW SOURCE REGISTERED: src_lapresse_fitspirit_2011 — La Presse "Dans le bois entre filles" (Oct 14, 2011), FitSpirit event at Camp Kanawana
+  - CONFIRMED: No Montreal Star articles found online (paper ceased 1979, limited digitization)
+  - CONFIRMED: No Le Devoir articles found
+  - CONFIRMED: No fire/flood/accident articles found for Kanawana
+  - NOTE: Concordia archives hold newspaper clippings 1968-1973 and ads 1993-1994 not digitized online
+  — Sources: 227 → 228 (+1 new)
+
+2026-03-15T17:00:00Z | PHASE 2 SESSION 2 COMPLETE | Final state
+  — Wiki: 33 articles (28 E1-reviewed, 3 draft, 2 stub)
+  — KB: v4.23, 922 facts (+67 this session from baseline 855)
+  — Sources: 229 (+23 this session)
+  — New articles created: a-ross-seaman (draft), taylor-statten (stub), rh-hanagan (stub), camp-ouareau (draft), ralph-dawson (restored, draft)
+  — Articles advanced: camp-weredale (stub → draft → R3 → E1-reviewed)
+  — Key discoveries:
+    1. Full P0145 fonds structure mapped (14 camping sub-series)
+    2. 1893 St. Agathe scouting journal (pre-founding document)
+    3. Camp Ouareau founding history and YMCA/YWCA personnel links
+    4. G. David Twynam career fully documented (Kanawana → Lakehead → TRU → VIU)
+    5. A. Ross Seaman biography expanded (SGW → Kanawana → Dawson CRLT → Concordia)
+    6. Sean Day 2004-2023 tenure with COVID response details
+    7. Desjardins $1M donation for new pavilion (2018)
+    8. Les Voyageurs de la Vérendrye archival records 1958-1982
+  — Priorities: 50 completed, 16 pending, 21 blocked
+  — Next actionable: advance 3 drafts to R3/E1; pursue Camp Perrot research; p_069 newspaper expansion
