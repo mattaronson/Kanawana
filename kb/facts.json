@@ -2,7 +2,7 @@
   "version": "v4.18",
   "kb_version": "4.23",
   "migrated_from": "3.3",
-  "fact_count": 917,
+  "fact_count": 922,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -15647,6 +15647,97 @@
         "YMCA"
       ],
       "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "4.23",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_0922",
+      "claim": "The Stuart McLean Camp Kanawana Fund was established by Stuart McLean and his family to help children in need attend Camp Kanawana. McLean returned to Camp Kanawana in 2005 for a week and hosted one of his Vinyl Cafe shows there.",
+      "sources": [
+        "src_cbc_mclean_fund_2017"
+      ],
+      "confidence": "stated",
+      "category": "notable_alumni",
+      "entities": [
+        "Stuart McLean",
+        "Camp Kanawana"
+      ],
+      "date_ref": "2017",
+      "conflicts_with": [],
+      "added_version": "4.23",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_0923",
+      "claim": "During the COVID-19 pandemic, Camp Kanawana was closed for overnight camping for two consecutive summers (2020 and 2021). In 2021, YMCA Quebec chose to run 10 day camps instead of reopening overnight operations. Sean Day said offering overnight services to more than 250 campers at once did not seem possible.",
+      "sources": [
+        "src_cbc_2021_kanawana"
+      ],
+      "confidence": "stated",
+      "category": "operations",
+      "entities": [
+        "Camp Kanawana",
+        "Sean Day",
+        "COVID-19"
+      ],
+      "date_ref": "2020-2021",
+      "conflicts_with": [],
+      "added_version": "4.23",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_0924",
+      "claim": "Léontyne Haché began attending Camp Kanawana at age eight and eventually became its canoe and kayak program specialist in summer 2019. Gaëtane Verna attended as a camper, counsellor, and section leader at Camp Kanawana.",
+      "sources": [
+        "src_cbc_2021_kanawana"
+      ],
+      "confidence": "stated",
+      "category": "staff",
+      "entities": [
+        "Léontyne Haché",
+        "Gaëtane Verna",
+        "Camp Kanawana"
+      ],
+      "date_ref": "2019",
+      "conflicts_with": [],
+      "added_version": "4.23",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_0925",
+      "claim": "Camp Kanawana is described as located 90 kilometres north of Montreal (CBC 2017) and 10 minutes from Saint-Sauveur (YMCA website). These distances suggest the camp is near Piedmont/Saint-Sauveur in the Laurentians.",
+      "sources": [
+        "src_cbc_mclean_fund_2017",
+        "src_ymca_website"
+      ],
+      "confidence": "stated",
+      "category": "geography",
+      "entities": [
+        "Camp Kanawana",
+        "Saint-Sauveur"
+      ],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "4.23",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_0926",
+      "claim": "On May 14, 2018, Desjardins contributed $1 million to the YMCAs of Québec, part of the 'Springboard for Life' campaign (Campagne YMCA Tremplin pour la vie) aiming to raise $20 million over five years. A portion was earmarked for a new community pavilion at Camp Kanawana, described as 'the new heart of Kanawana,' to increase capacity and expand environmental awareness programming. The announcement was made by Guy Cormier (President/CEO Mouvement Desjardins) and Stéphane Vaillancourt (President/CEO YMCAs of Québec). Desjardins had supported YMCA Quebec for over 25 years.",
+      "sources": [
+        "src_lapresse_desjardins_2018"
+      ],
+      "confidence": "stated",
+      "category": "operations",
+      "entities": [
+        "Camp Kanawana",
+        "Desjardins",
+        "YMCA Quebec",
+        "Guy Cormier",
+        "Stéphane Vaillancourt"
+      ],
+      "date_ref": "2018-05-14",
       "conflicts_with": [],
       "added_version": "4.23",
       "added_by": "ralph_loop"

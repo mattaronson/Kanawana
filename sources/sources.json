@@ -3617,7 +3617,55 @@
       "extraction_version": "v4.23",
       "reliability": "secondary",
       "notes": "Annual awards ceremony report. Confirms fund hosts auction fundraiser. 403-blocked but extracted from search snippets."
+    },
+    {
+      "source_id": "src_cbc_2021_kanawana",
+      "type": "periodical",
+      "title": "CBC News: Quebec sleepaway camps given greenlight, but some say it's too late (May 2021); Summer camps COVID article (April 2021)",
+      "date": "2021-05",
+      "date_precision": "year",
+      "origin": "web",
+      "origin_url": "https://www.cbc.ca/news/canada/montreal/quebec-sleepaway-camps-1.6017617",
+      "cache_path": null,
+      "char_count": 0,
+      "ingested_at": "2026-03-15T04:18:27.015796",
+      "extracted": true,
+      "extraction_version": "v4.23",
+      "reliability": "secondary",
+      "notes": "Two CBC articles on Kanawana COVID closures. Sean Day quotes. Staff names Léontyne Haché, Gaëtane Verna."
+    },
+    {
+      "source_id": "src_lapresse_fitspirit_2011",
+      "type": "web",
+      "title": "La Presse - 'Dans le bois entre filles' (FitSpirit event at Camp Kanawana, Oct 14, 2011)",
+      "date": "2011-10-14",
+      "date_precision": "exact",
+      "origin": "web",
+      "origin_url": "https://www.lapresse.ca/vivre/sante/201110/14/01-4457099-dans-le-bois-entre-filles.php",
+      "cache_path": null,
+      "char_count": 0,
+      "ingested_at": "2026-03-15T12:00:00Z",
+      "extracted": false,
+      "extraction_version": null,
+      "reliability": "secondary",
+      "notes": "La Presse article on FitSpirit event held at Camp Kanawana YMCA. Girls' wellness/physical activity program. French-language. Discovered via web search 2026-03-15."
+    },
+    {
+      "source_id": "src_lapresse_desjardins_2018",
+      "type": "periodical",
+      "title": "La Presse: Un million pour les YMCA (May 15, 2018)",
+      "date": "2018-05-15",
+      "date_precision": "exact",
+      "origin": "web",
+      "origin_url": "https://www.lapresse.ca/affaires/tetes-daffiche/201805/15/01-5181939-un-million-pour-les-ymca.php",
+      "cache_path": null,
+      "char_count": 0,
+      "ingested_at": "2026-03-15T04:19:18.676464",
+      "extracted": true,
+      "extraction_version": "v4.23",
+      "reliability": "primary",
+      "notes": "Desjardins $1M donation. New pavilion. Springboard for Life campaign. Names Cormier and Vaillancourt."
     }
   ],
-  "source_count": 226
+  "source_count": 229
 }
