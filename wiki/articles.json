@@ -3003,6 +3003,90 @@
       ],
       "file_id": null,
       "word_count": 500
+    },
+    {
+      "article_id": "terry-mosher",
+      "title": "Terry Mosher (Aislin)",
+      "wiki_folder": "people",
+      "status": "stub",
+      "status_history": [
+        {
+          "status": "stub",
+          "at": "2026-03-15T18:00:00Z",
+          "by": "auto",
+          "task": "RESEARCH"
+        }
+      ],
+      "ralph_loops_completed": 1,
+      "kb_facts_used": [
+        "f_0158",
+        "f_0164",
+        "f_0165",
+        "f_0166",
+        "f_0167",
+        "f_0419",
+        "f_0457"
+      ],
+      "sources_cited": [
+        "src_oral_aronson",
+        "src_ymca_website",
+        "src_ymca_pip_mosher"
+      ],
+      "open_questions": 3,
+      "cross_links": [
+        "pip-alumni-award",
+        "stuart-mclean",
+        "directors-index"
+      ],
+      "file_id": null,
+      "word_count": 300
+    },
+    {
+      "article_id": "sean-day",
+      "title": "Sean Day",
+      "wiki_folder": "people",
+      "status": "stub",
+      "status_history": [
+        {
+          "status": "stub",
+          "at": "2026-03-15T18:00:00Z",
+          "by": "auto",
+          "task": "RESEARCH"
+        }
+      ],
+      "ralph_loops_completed": 1,
+      "kb_facts_used": [
+        "f_0045",
+        "f_0046",
+        "f_0178",
+        "f_0759",
+        "f_0854",
+        "f_0856",
+        "f_0857",
+        "f_0858",
+        "f_0859",
+        "f_0860",
+        "f_0861",
+        "f_0909",
+        "f_0910",
+        "f_0923"
+      ],
+      "sources_cited": [
+        "src_oral_aronson",
+        "src_cbc_mclean_fund_2017",
+        "src_cbc_pandemic_camps_2021",
+        "src_cbc_sleepaway_greenlight_2021",
+        "src_cbc_camp_staffing_2022",
+        "src_cbc_daybreak_camps_reopen"
+      ],
+      "open_questions": 4,
+      "cross_links": [
+        "directors-index",
+        "stuart-mclean",
+        "programs-activities"
+      ],
+      "file_id": null,
+      "word_count": 500
     }
   ]
 }
