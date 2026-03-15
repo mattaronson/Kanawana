@@ -3665,7 +3665,23 @@
       "extraction_version": "v4.23",
       "reliability": "primary",
       "notes": "Desjardins $1M donation. New pavilion. Springboard for Life campaign. Names Cormier and Vaillancourt."
+    },
+    {
+      "source_id": "src_web_search_2026_03",
+      "type": "web",
+      "title": "Web search results for Ralph Dawson / Ralph H. Dawson (March 2026)",
+      "date": "2026-03-15",
+      "date_precision": "exact",
+      "origin": "web",
+      "origin_url": null,
+      "cache_path": null,
+      "char_count": 0,
+      "ingested_at": "2026-03-15T12:00:00Z",
+      "extracted": true,
+      "extraction_version": "v4.24",
+      "reliability": "secondary",
+      "notes": "Systematic web search across 8 queries: 'Ralph Dawson' YMCA Montreal, 'Ralph H. Dawson' Montreal, camp historian Quebec, obituary, genealogy, R.H. Dawson YMCA, Camp Jubilee, Dawson YMCA 1890s-1900s. No biographical details found. Only archival finding aids returned relevant hits."
     }
   ],
-  "source_count": 229
+  "source_count": 230
 }

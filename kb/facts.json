@@ -15741,6 +15741,94 @@
       "conflicts_with": [],
       "added_version": "4.23",
       "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_0927",
+      "claim": "The Concordia Archives (YMCA fonds sub-series 12L, Lac St-Joseph/Camp Jubilee) hold photographs of R. H. Dawson and R. L. Charlton, listed together, suggesting they were associates in the early camp movement. Charlton later wrote 'Notes re Early Days of YMCA Camps at Lake St. Joseph and Kanawana' in 1943.",
+      "sources": [
+        "src_concordia_fonds"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "Ralph H. Dawson",
+        "R. L. Charlton",
+        "Camp Jubilee"
+      ],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "4.24",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_0928",
+      "claim": "Extensive web searching (March 2026) for 'Ralph Dawson' and 'Ralph H. Dawson' in connection with YMCA Montreal, Montreal obituaries, Montreal genealogy, camp history Quebec, Camp Jubilee, and city directories yielded no biographical details (birth/death dates, profession, family). His online footprint is limited to archival finding aids at Concordia University.",
+      "sources": [
+        "src_web_search_2026_03"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "Ralph H. Dawson"
+      ],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "4.24",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_0929",
+      "claim": "R. H. Hanagan is identified in the Concordia Archives YMCA fonds as 'Montreal YMCA camp director,' but his specific dates of service and relationship to Kanawana vs. other YMCA camps are not specified in the online finding aids.",
+      "sources": [
+        "src_concordia_fonds"
+      ],
+      "confidence": "inferred",
+      "category": "directors",
+      "entities": [
+        "R. H. Hanagan",
+        "Camp Kanawana"
+      ],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "4.24",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_0930",
+      "claim": "The 1898 Camp Jubilee photograph in sub-series 12L is labelled 'YMCA Camp - Lac St. Joseph' and names four individuals: W. N. Cunningham, Jim Brown, Frank L. Benedict, and Ralph H. Dawson. A Camp Jubilee promotional letter also exists from 1895, and YMCA camp brochures exist for 1898, 1899, and 1900.",
+      "sources": [
+        "src_concordia_12L"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "W. N. Cunningham",
+        "Jim Brown",
+        "Frank L. Benedict",
+        "Ralph H. Dawson",
+        "Camp Jubilee"
+      ],
+      "date_ref": "1898",
+      "conflicts_with": [],
+      "added_version": "4.24",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_0931",
+      "claim": "The Grace McMorris MA thesis (Concordia, 2023) 'An Experience That Lasts a Lifetime: Building Modernity, Man, and Nation at the YMCA of Montreal's Kamp Kanawana, 1894-1967' draws from the YMCA of Montreal fonds at Concordia. The full thesis PDF is available at spectrum.library.concordia.ca but direct access was blocked during this research session. The thesis covers religion, colonialism, and national identity at Kanawana across three chapters: active Christian citizenship, playing Indian, and the myth of the voyageur.",
+      "sources": [
+        "src_mcmorris_thesis"
+      ],
+      "confidence": "stated",
+      "category": "meta",
+      "entities": [
+        "Grace McMorris",
+        "Camp Kanawana"
+      ],
+      "date_ref": "2023",
+      "conflicts_with": [],
+      "added_version": "4.24",
+      "added_by": "ralph_loop"
     }
   ]
 }
