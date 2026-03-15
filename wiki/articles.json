@@ -65,7 +65,12 @@
         "f_0377",
         "f_0479",
         "f_0486",
-        "f_0607"
+        "f_0607",
+        "f_0812",
+        "f_0813",
+        "f_0814",
+        "f_0879",
+        "f_0903"
       ],
       "sources_cited": [
         "src_ymca_website",
@@ -169,7 +174,17 @@
         "f_0242",
         "f_0243",
         "f_0324",
-        "f_0329"
+        "f_0329",
+        "f_0677",
+        "f_0678",
+        "f_0679",
+        "f_0693",
+        "f_0694",
+        "f_0699",
+        "f_0721",
+        "f_0722",
+        "f_0875",
+        "f_0876"
       ],
       "sources_cited": [
         "src_mcmorris_thesis",
@@ -259,7 +274,8 @@
         "f_0370",
         "f_0371",
         "f_0373",
-        "f_0624"
+        "f_0624",
+        "f_0826"
       ],
       "sources_cited": [
         "src_mcmorris_thesis",
@@ -321,7 +337,16 @@
         "f_0628",
         "f_0636",
         "f_0637",
-        "f_0638"
+        "f_0638",
+        "f_0682",
+        "f_0683",
+        "f_0684",
+        "f_0716",
+        "f_0942",
+        "f_0687",
+        "f_0760",
+        "f_0948",
+        "f_0949"
       ],
       "sources_cited": [
         "src_cfcf_1941",
@@ -367,7 +392,12 @@
         "f_0242",
         "f_0302",
         "f_0311",
-        "f_0453"
+        "f_0453",
+        "f_0681",
+        "f_0712",
+        "f_0713",
+        "f_0829",
+        "f_0830"
       ],
       "sources_cited": [
         "src_mcmorris_thesis",
@@ -444,7 +474,9 @@
         "f_0426",
         "f_0453",
         "f_0470",
-        "f_0588"
+        "f_0588",
+        "f_0688",
+        "f_0700"
       ],
       "sources_cited": [
         "src_mcmorris_thesis",
@@ -467,7 +499,7 @@
       ],
       "file_id": "1KW2yhoZ-wr_71sTPbLJ3v81KW4ZEJ_p-",
       "word_count": 2100,
-      "notes": "E1 REVIEW (2026-02-19): Fixed source header (src_ymca_facts\u2192src_kanawana_facts), added Spectrum URL for McMorris thesis, added IA URLs for Facts sheet and Gas Bag. All claims cited, dates consistent, names cross-checked, tone encyclopedic. Advanced R3-verified \u2192 E1-reviewed."
+      "notes": "E1 REVIEW (2026-02-19): Fixed source header (src_ymca_facts→src_kanawana_facts), added Spectrum URL for McMorris thesis, added IA URLs for Facts sheet and Gas Bag. All claims cited, dates consistent, names cross-checked, tone encyclopedic. Advanced R3-verified → E1-reviewed."
     },
     {
       "article_id": "programs-activities",
@@ -598,7 +630,24 @@
         "f_0580",
         "f_0582",
         "f_0588",
-        "f_0591"
+        "f_0591",
+        "f_0665",
+        "f_0666",
+        "f_0685",
+        "f_0701",
+        "f_0707",
+        "f_0708",
+        "f_0709",
+        "f_0710",
+        "f_0711",
+        "f_0669",
+        "f_0706",
+        "f_0935",
+        "f_0936",
+        "f_0741",
+        "f_0742",
+        "f_0745",
+        "f_0926"
       ],
       "sources_cited": [
         "src_brochure_1922",
@@ -624,7 +673,7 @@
       ],
       "file_id": "1oqLoU6_bzWD_9jXwXQgYNm_EqLCEfNjR",
       "word_count": 2100,
-      "notes": "E1 REVIEW (2026-02-19): All claims cited, dates consistent, names cross-checked, tone encyclopedic, cross-links valid, open questions actionable, no redundancy with sibling articles. Advanced R3-verified \u2192 E1-reviewed."
+      "notes": "E1 REVIEW (2026-02-19): All claims cited, dates consistent, names cross-checked, tone encyclopedic, cross-links valid, open questions actionable, no redundancy with sibling articles. Advanced R3-verified → E1-reviewed."
     },
     {
       "article_id": "ralph-dawson",
@@ -849,7 +898,34 @@
         "f_0632",
         "f_0633",
         "f_0635",
-        "f_0639"
+        "f_0639",
+        "f_0670",
+        "f_0697",
+        "f_0729",
+        "f_0730",
+        "f_0731",
+        "f_0743",
+        "f_0744",
+        "f_0753",
+        "f_0755",
+        "f_0756",
+        "f_0828",
+        "f_0838",
+        "f_0839",
+        "f_0840",
+        "f_0898",
+        "f_0932",
+        "f_0933",
+        "f_0943",
+        "f_0944",
+        "f_0908",
+        "f_0911",
+        "f_0929",
+        "f_0852",
+        "f_0853",
+        "f_0924",
+        "f_0940",
+        "f_0941"
       ],
       "sources_cited": [
         "src_mcmorris_thesis",
@@ -887,7 +963,7 @@
       ],
       "file_id": null,
       "word_count": 2400,
-      "notes": "E1 REVIEW (2026-02-19): PASS \u2014 all 7 checklist items satisfied. No fixes needed. Advanced R3-verified \u2192 E1-reviewed."
+      "notes": "E1 REVIEW (2026-02-19): PASS — all 7 checklist items satisfied. No fixes needed. Advanced R3-verified → E1-reviewed."
     },
     {
       "article_id": "sources-index",
@@ -950,7 +1026,30 @@
         "f_0620",
         "f_0622",
         "f_0623",
-        "f_0627"
+        "f_0627",
+        "f_0695",
+        "f_0749",
+        "f_0727",
+        "f_0728",
+        "f_0732",
+        "f_0668",
+        "f_0821",
+        "f_0696",
+        "f_0724",
+        "f_0754",
+        "f_0757",
+        "f_0758",
+        "f_0761",
+        "f_0848",
+        "f_0945",
+        "f_0947",
+        "f_0950",
+        "f_0951",
+        "f_0955",
+        "f_0877",
+        "f_0878",
+        "f_0904",
+        "f_0837"
       ],
       "sources_cited": [],
       "open_questions": 7,
@@ -1038,7 +1137,7 @@
       ],
       "file_id": null,
       "word_count": 750,
-      "notes": "E1 REVIEW (2026-02-19): Added inline ^1-^5 citations throughout body text. Standardized all name mentions to 'Harold C. Cross'. Added Related Articles section. Added priority tags to Open Questions. Advanced R3-verified \u2192 E1-reviewed."
+      "notes": "E1 REVIEW (2026-02-19): Added inline ^1-^5 citations throughout body text. Standardized all name mentions to 'Harold C. Cross'. Added Related Articles section. Added priority tags to Open Questions. Advanced R3-verified → E1-reviewed."
     },
     {
       "article_id": "centennial-1967",
@@ -1122,7 +1221,8 @@
         "f_0392",
         "f_0393",
         "f_0394",
-        "f_0459"
+        "f_0459",
+        "f_0849"
       ],
       "sources_cited": [
         "src_mcmorris_thesis",
@@ -1221,7 +1321,15 @@
         "f_0651",
         "f_0652",
         "f_0653",
-        "f_0655"
+        "f_0655",
+        "f_0901",
+        "f_0902",
+        "f_0938",
+        "f_0946",
+        "f_0957",
+        "f_0831",
+        "f_0833",
+        "f_0934"
       ],
       "sources_cited": [
         "src_ymca_website",
@@ -1307,7 +1415,7 @@
       ],
       "file_id": null,
       "word_count": 700,
-      "notes": "E1 REVIEW (2026-02-19): PASS \u2014 all 7 checklist items satisfied. No fixes needed. Advanced R3-verified \u2192 E1-reviewed."
+      "notes": "E1 REVIEW (2026-02-19): PASS — all 7 checklist items satisfied. No fixes needed. Advanced R3-verified → E1-reviewed."
     },
     {
       "article_id": "cushing-family",
@@ -1388,7 +1496,7 @@
       ],
       "file_id": null,
       "word_count": 1200,
-      "notes": "E1 REVIEW (2026-02-19): Fixed Frederick row in Eight Sons table (birthplace clarified in Occupation column). All 7 checklist items satisfied. Advanced R3-verified \u2192 E1-reviewed."
+      "notes": "E1 REVIEW (2026-02-19): Fixed Frederick row in Eight Sons table (birthplace clarified in Occupation column). All 7 checklist items satisfied. Advanced R3-verified → E1-reviewed."
     },
     {
       "article_id": "traditions-and-culture",
@@ -1490,7 +1598,30 @@
         "f_0613",
         "f_0625",
         "f_0626",
-        "f_0629"
+        "f_0629",
+        "f_0673",
+        "f_0680",
+        "f_0689",
+        "f_0690",
+        "f_0691",
+        "f_0692",
+        "f_0704",
+        "f_0717",
+        "f_0719",
+        "f_0720",
+        "f_0723",
+        "f_0734",
+        "f_0736",
+        "f_0737",
+        "f_0751",
+        "f_0827",
+        "f_0841",
+        "f_0850",
+        "f_0733",
+        "f_0739",
+        "f_0905",
+        "f_0740",
+        "f_0842"
       ],
       "sources_cited": [
         "src_mcmorris_thesis",
@@ -1608,7 +1739,13 @@
         "f_0581",
         "f_0583",
         "f_0590",
-        "f_0615"
+        "f_0615",
+        "f_0705",
+        "f_0735",
+        "f_0906",
+        "f_0925",
+        "f_0956",
+        "f_0714"
       ],
       "sources_cited": [
         "src_ymca_website",
@@ -1892,7 +2029,14 @@
         "f_0467",
         "f_0610",
         "f_0611",
-        "f_0630"
+        "f_0630",
+        "f_0922",
+        "f_0953",
+        "f_0954",
+        "f_0820",
+        "f_0746",
+        "f_0747",
+        "f_0748"
       ],
       "sources_cited": [
         "src_ymca_pip_skinner",
@@ -1984,7 +2128,7 @@
       ],
       "file_id": null,
       "word_count": 750,
-      "notes": "RALPH R1 (2026-02-26): Lake Wilson naming claim CANNOT BE VERIFIED \u2014 plausible but no documentary evidence. McConnell family tree confirmed. YMCA connection 1901-1963 documented. 10 new KB facts (f_0516-f_0525). 1 new source (Fong biography). Research SATURATED for online sources."
+      "notes": "RALPH R1 (2026-02-26): Lake Wilson naming claim CANNOT BE VERIFIED — plausible but no documentary evidence. McConnell family tree confirmed. YMCA connection 1901-1963 documented. 10 new KB facts (f_0516-f_0525). 1 new source (Fong biography). Research SATURATED for online sources."
     },
     {
       "article_id": "lake-wilson",
@@ -2122,7 +2266,11 @@
         "f_0542",
         "f_0568",
         "f_0569",
-        "f_0570"
+        "f_0570",
+        "f_0667",
+        "f_0672",
+        "f_0952",
+        "f_0834"
       ],
       "sources_cited": [
         "src_ymca_website",
@@ -2212,7 +2360,17 @@
         "f_0554",
         "f_0555",
         "f_0556",
-        "f_0617"
+        "f_0617",
+        "f_0674",
+        "f_0675",
+        "f_0702",
+        "f_0703",
+        "f_0822",
+        "f_0823",
+        "f_0824",
+        "f_0825",
+        "f_0835",
+        "f_0836"
       ],
       "sources_cited": [
         "src_gas_bag_1923",
@@ -2311,7 +2469,13 @@
         "f_0586",
         "f_0587",
         "f_0589",
-        "f_0614"
+        "f_0614",
+        "f_0663",
+        "f_0664",
+        "f_0686",
+        "f_0843",
+        "f_0725",
+        "f_0726"
       ],
       "sources_cited": [
         "src_ymca_website",
@@ -2414,7 +2578,8 @@
         "f_0659",
         "f_0660",
         "f_0661",
-        "f_0662"
+        "f_0662",
+        "f_0937"
       ],
       "sources_cited": [
         "src_aca_dimock_bio",
@@ -2441,7 +2606,7 @@
       ],
       "file_id": null,
       "word_count": 2100,
-      "notes": "E1 REVIEW (2026-03-02): 10 fixes applied. Father-son inference reframed as neutral hypothesis. Earliest publication contradiction resolved. Kamp\u2192Camp standardized. Hendry relocated. Unsourced synthesis removed. All 7 criteria PASS."
+      "notes": "E1 REVIEW (2026-03-02): 10 fixes applied. Father-son inference reframed as neutral hypothesis. Earliest publication contradiction resolved. Kamp→Camp standardized. Hendry relocated. Unsourced synthesis removed. All 7 criteria PASS."
     },
     {
       "article_id": "camp-weredale",
@@ -2624,7 +2789,8 @@
         "f_0394",
         "f_0653",
         "f_0818",
-        "f_0832"
+        "f_0832",
+        "f_0939"
       ],
       "sources_cited": [
         "src_mcmorris_thesis",
@@ -2756,7 +2922,15 @@
         "f_0899",
         "f_0912",
         "f_0913",
-        "f_0914"
+        "f_0914",
+        "f_0811",
+        "f_0815",
+        "f_0816",
+        "f_0817",
+        "f_0819",
+        "f_0750",
+        "f_0872",
+        "f_0873"
       ],
       "sources_cited": [
         "src_ouareau_history",
