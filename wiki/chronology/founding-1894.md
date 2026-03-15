@@ -43,7 +43,7 @@ McMorris confirms 1910 as the first season at the new site, with sixty-six membe
 
 A July 7, 1913 article in the Montreal Gazette reported two detachments of Montreal YMCA boys leaving for Kamp Kanawana, with a programme adapted for specific ages including instruction in athletics, educational subjects, and Bible study. Speakers included M.F. Furey (physical director) and Dr. Hamilton.
 
-By 1918, the camp had its largest attendance to that date (110 members). Activities that year included first aid, basket-making, camp sanitation, wrestling, tumbling, and nature study. In July 1918, the camp was visited by Mr. and Mrs. Frank Lawes of London, England, who were touring the world filming YMCA work; a reel of Kanawana activities was added to their collection, potentially the earliest film footage of the camp if it survives.
+A Montreal Gazette article from July 7, 1897, titled "YMCA Summer Camp Kanawana," is the earliest known newspaper reference to the camp — three years after founding.^gaz1897 By 1918, the camp had its largest attendance to that date (110 members). Activities that year included first aid, basket-making, camp sanitation, wrestling, tumbling, and nature study. In July 1918, the camp was visited by Mr. and Mrs. Frank Lawes of London, England, who were touring the world filming YMCA work; a reel of Kanawana activities was added to their collection, potentially the earliest film footage of the camp if it survives.
 
 By 1923, the camp was a sophisticated operation with a staff hierarchy reflecting the broader YMCA organizational structure. Philip G. Paterson, B.A., who served as Boys' Work Secretary at the Westmount YMCA, led the camp. Two divisions, Younger boys (12-15) and Older boys (16-18), offered 32 subjects for Honour Awards, from Bible Study and Nature Study to Swimming, Canoeing, and Life Saving.
 
@@ -81,6 +81,8 @@ The 1923 brochure and 1935 history together describe a camp that had grown into 
 - 1923 Kanawana brochure (previously extracted)
 - 1935 History of Kamp Kanawana (Internet Archive, djvu.txt extraction)
 - 1941 CFCF radio broadcast script (Langille)
+- Montreal Gazette, July 7, 1897: "YMCA Summer Camp Kanawana" — earliest known newspaper reference [src_gazette_1897]
+- Montreal Gazette, July 11, 1918: "At Camp Kanawana" — record 110 attendance, YMCA London filming [src_gazette_1918]
 
 ## Research Notes
 
