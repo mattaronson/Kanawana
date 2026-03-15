@@ -1105,3 +1105,21 @@ HYPOTHESIZE:
     8. Les Voyageurs de la Vérendrye archival records 1958-1982
   — Priorities: 50 completed, 16 pending, 21 blocked
   — Next actionable: advance 3 drafts to R3/E1; pursue Camp Perrot research; p_069 newspaper expansion
+
+2026-03-15T12:00:00Z | RESEARCH | ralph-dawson | RALPH loop #2 (web search saturation)
+  - TASK: Systematic web search for Ralph Dawson biographical details
+  - 8 queries executed: "Ralph Dawson" YMCA Montreal; "Ralph H. Dawson" Montreal; camp historian Quebec; Montreal obituary; R.H. Dawson YMCA Montreal; Dawson YMCA Montreal 1890s-1900s boys work; Ralph Dawson Camp Jubilee; Ralph Dawson Montreal genealogy
+  - Additional targeted searches: Concordia Archives 12A, 12L finding aids; McMorris thesis; Internet Archive 1935 history; Lovell directory; FamilySearch
+  - CONFIRMED: 1898 photo in sub-series 12L labels "YMCA Camp - Lac St. Joseph" with W.N. Cunningham, Jim Brown, Frank L. Benedict, Ralph H. Dawson
+  - CONFIRMED: "History of Kamp Kanawana" by Ralph Dawson (1933) in sub-series 12A, distinct from 1935 anonymous chronicle on Internet Archive
+  - NEW: Archives hold photographs of R.H. Dawson and R.L. Charlton together
+  - NEW: R.H. Hanagan identified as "Montreal YMCA camp director" (dates unknown, relationship to Kanawana uncertain)
+  - NEW: Camp Jubilee promotional letter (1895) and brochures (1898, 1899, 1900) exist in 12L
+  - NEGATIVE: No obituary, genealogy record, city directory listing, or biographical detail found for Ralph Dawson in Montreal
+  - NEGATIVE: No results for "R.H. Dawson" YMCA Montreal or "Ralph H. Dawson" Montreal
+  - NEGATIVE: McMorris thesis PDF inaccessible (403); full text not checked for Dawson references
+  - CONCLUSION: Web sources exhausted for biographical data. Resolution requires Concordia Archives physical access (12A manuscript) or McMorris thesis full text
+  - NEW FACTS: f_0927-f_0931 (5 facts)
+  - NEW SOURCE: src_web_search_2026_03
+  - Article updated: ralph-dawson.md (draft, RALPH loops: 1→2, open questions: 3→6)
+  — Sources: 229 → 230 (+1) | Facts: 926 → 931 (+5)
