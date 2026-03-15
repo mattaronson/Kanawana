@@ -766,3 +766,140 @@
 
 2026-03-02T18:00:00Z | REVIEW | E1 review completed for hedley-dimock. 10 fixes: father-son reframed, earliest-pub contradiction resolved, Kamp→Camp standardized, Hendry relocated, synthesis removed, tone fixes, Camp Otoreke cross-link added. Advanced R3-verified → E1-reviewed. Wiki: 27/28 articles at E1-reviewed.
 [2026-03-14T05:29:35Z] RALPH FULL EXTRACTION: McMorris thesis full text ingested. 38 new facts (f_0663-f_0700). 12 wiki articles updated: founding-1894, harold-cross, directors-index, myths-and-legends, traditions-and-culture, camp-songs-cheers, canoe-trips, lv-games, section-names, wartime-kanawana, the-kanawana-site, coeducation-gender. Council-ring and centennial-1967 updated in prior session. priorities.json p_008 and p_053 marked completed. Source src_mcmorris_thesis extraction_version advanced to 4.17.
+
+[2026-03-15T00:00:00Z] RALPH R1 | Visual and Material Culture Search (24 queries)
+  - RETRIEVE: Executed 24 web searches across photos/film, maps, merchandise/memorabilia, architecture, and social media domains.
+  - ANALYZE: 14 new source records added (src_flickr_kanawana through src_ymca_pip_award_skinner). 13 new facts (f_0725-f_0737). Key discoveries:
+    * CCA holds Ross & Macdonald architectural drawings for Doctor's Cottage at Kamp Kanawana
+    * 1993 documentary by Cathy Reeves held at Concordia archives (YouTube access copy)
+    * 1941 CFCF radio broadcast about Kanawana on Internet Archive
+    * Flickr account with 4,416 Camp Kanawana photos
+    * Stuart McLean: counsellor 1969-1973, asst. director 1974-1975; Stuart McLean Fund established 2017
+    * 120th anniversary reunion at Victoria Hall, Sept 5 2014
+    * Camp motto: "Non Nobis Solum"
+    * Camp Kanawana listed in Canadian Geographical Names Database (ID: EKWXQ)
+    * Pip Award criteria confirmed (annual, alumni committee)
+    * Social media: Facebook (3,549 likes), Instagram (1,824 followers), TikTok active
+  - NULL RESULTS: No results on eBay/Etsy/WorthPoint for Kanawana memorabilia. No Reddit threads found. No McCord Museum holdings found. No Library & Archives Canada holdings found. No specific YouTube channel results. No dedicated alumni Facebook group found via search.
+  - LOOP: CONCLUDE — visual/material culture survey complete at web-search depth.
+  - PROCESS: sources.json updated (135→149 sources). facts.json updated (724→737 facts, v4.17→v4.18).
+  - HYPOTHESIZE: Priority leads for follow-up:
+    1. Ingest CFCF 1941 broadcast from Internet Archive
+    2. Visit CCA Ross & Macdonald fonds for Doctor's Cottage details (date, drawings)
+    3. Review Flickr account for historical photo content
+    4. Search McCord Museum online collections database directly
+    5. Check eBay/WorthPoint periodically for Kanawana memorabilia listings
+    6. Stuart McLean warrants new article stub (held camp role, significant alumni)
+
+[2026-03-15T12:00:00Z] RALPH RETRIEVE: Newspaper archive search across 15+ surfaces for Camp Kanawana mentions.
+  Searches executed:
+    1. Google: "Camp Kanawana YMCA Montreal newspaper archive" → 10 results (newspapers.com, archive.org, concordia)
+    2. Google: "Kanawana YMCA camp Montreal" → 10 results (modern camp info, CORE thesis)
+    3. Google: site:newspapers.com "Kanawana" → 7 results (Gazette 1897, 1913, 1918x2, 1933, 1942, 1974)
+    4. Google: "Montreal Gazette" "Camp Kanawana" → 1 result (COVID closure 2021 via MSN)
+    5. Google: "Montreal Star" "Kanawana" → NULL (no indexed results)
+    6. Google: "Camp Kanawana" newspaper OR article OR reported → 6 relevant results
+    7. Google: "Kanawana" site:banq.qc.ca → NULL (no direct Kanawana hits; Le Canada français refs unrelated)
+    8. Google: "Camp Kanawana" 1913/1918/1920/1930/1940/1950 → limited; mostly Camp Nakanawa confusion
+    9. Google: "Kanawana" "YMCA" gazette OR star OR herald → Gazette 1897, 1918 confirmed
+   10. Google: site:newspapers.com "YMCA camp" Montreal → Gazette 1897
+   11. Google: "Saint-Sauveur" YMCA camp newspaper → modern camp info only
+   12. Google: site:fultonhistory.com "Kanawana" → NULL (no results)
+   13. Google: "Camp Kanawana" site:books.google.com → NULL (no specific book results)
+   14. Google: "Kanawana" site:chroniclingamerica.loc.gov → NULL (only Kanawha, Kanawai false positives)
+   15. Google: "Camp Kanawana" OR "Kamp Kanawana" site:hathitrust.org → NULL
+   16. Google: "Camp Kanawana" Google News → modern camp info only
+   17. Google: "Kamp Kanawana" newspaper gazette 1920-1945 → archive.org 1935 history only
+   18. Google: Kanawana YMCA history thesis Concordia 1894 → McMorris thesis (already ingested)
+   19. Google: "Music and Comedy in Fossils' Revue" Kanawana 1933 → confirmed Gazette clip
+   20. Google: "Kanawana" concordia.accesstomemory → archival finding aid (P0145/12B)
+   21. Google: "Stuart McLean" "Camp Kanawana" → CBC fund article, Samaritanmag, Montrealer
+   22. Google: "Camp Kanawana" fire/flood/accident/war → NULL
+   23. Google: pressreader Montreal Gazette "Camp Kanawana" 2020 → PressReader Feb 15, 2020
+   24. Google: Montreal Families Kanawana gender → gender-expansive tent 2022
+  
+  New sources discovered: 7 (added to sources.json, total now 155)
+    - src_newspapers_gazette_1933: Fossils' Revue article
+    - src_newspapers_gazette_1942: Circus/parade article (Hanagan, Smee)
+    - src_newspapers_gazette_1974: Summer camps article
+    - src_gazette_covid_2021: COVID closure article
+    - src_gazette_pressreader_2020: PressReader Gazette article
+    - src_montreal_families_gender_2022: Gender-expansive tent article
+    - src_cbc_mclean_fund_2017: Stuart McLean fund CBC article
+  
+  New facts added: 8 (f_0725-f_0732). KB advanced to v4.18, 745 facts total.
+  
+  Already-registered sources confirmed: src_newspapers_gazette_1897, src_newspapers_gazette_1913, src_newspapers_gazette_1918, src_newspapers_gazette_1918b
+  
+  Null results (dead ends logged):
+    - Montreal Star: no indexed web results pairing "Montreal Star" with "Kanawana"
+    - Chronicling America (LOC): no results; only false positives (Kanawha WV newspapers)
+    - BAnQ numérique: no direct Kanawana hits via Google site search
+    - Fulton History: no results (primarily NY State newspapers)
+    - HathiTrust: no indexed results via Google site search
+    - Google Books: no specific book results for "Camp Kanawana"
+
+2026-03-15T00:00:00Z | RALPH R1 | Inter-camp and institutional connections research. 18 web searches conducted. 27 new facts (f_0725-f_0751), 10 new sources (total: 165). Key findings:
+  - Camp Weredale: Founded 1934 by Rotary Club of Westmount on Lac l'Achigan. YMCA proposed Kanawana-Weredale two-site operation in 1977 (Concordia Archives 12A).
+  - Camp Otoreke: Renamed from Camp Jubilee in 1909, operated until 1982 at Lake St. Joseph, Saint-Adolphe-d'Howard. YMCA camping started there 1892 (Lemuel Cushing).
+  - Camp Ouareau: Founded 1922 by Mabel Jamieson (who was YMCA Montreal secretary general) and Ferna Halliday. Girls camp, not YMCA-operated.
+  - YWCA Camp Oolahwan: Founded 1917, centennial at Camp Ouareau 2017.
+  - Big Cove YMCA Camp (NS, 1889): Oldest in Canada. Kanawana (1894): Oldest in Quebec, second oldest in Canada.
+  - Camp Pine Crest (ON, 1910): YMCA of Greater Toronto. John Island Camp (ON, 1954): YMCA of Northeastern Ontario.
+  - CCA founded 1936 at Central YMCA Toronto. OCA archives have Kanawana file dated 1940.
+  - Stuart McLean: Counsellor at Kanawana 1969-early 1970s, attended Sir George Williams/Concordia. Fund established 2017.
+  - 1993 documentary "Kamp Kanawana: The Experience that lasts a lifetime" (Concordia Archives).
+  - Concordia Archives Sub-series 12L holds Camp Jubilee records: fishing rights (1893-1902), photos (1898), brochures (1898-1900).
+  - No direct connection found for Lower Canada College or McGill Daily to Kanawana. McGill Garage Band Camp visited Kanawana (Facebook).
+  - YMCA Quebec discontinued day camps (including Concordia-based ones) fall 2025; Kanawana summer camp continues.
+2026-03-15T00:00:00Z | KB | v4.18: 772 facts, 165 sources. 27 new facts added in inter-camp category.
+
+2026-03-15T00:00:00Z | RALPH R1 | Director gap research (1947-2003) — Formal RALPH loop
+  - RETRIEVE: 20+ web searches targeting director names for the 1947-2003 gap period.
+    Surfaces searched: Google (via WebSearch), LinkedIn, Concordia archives finding aids, YMCA Quebec website, Westmount Magazine, CBC, Internet Archive, Samaritanmag, OurKids.
+    Sources consulted: Concordia YMCA fonds sub-series 12A, 12B01; YMCA Quebec team/history pages; Pip Award press releases; Stuart McLean tributes; LinkedIn profiles; McMorris thesis metadata.
+    Dead ends: Direct web fetches blocked (403) on ymcaquebec.org, westmountmag.ca, concordia.accesstomemory.org, samaritanmag.com, spectrum.library.concordia.ca, kanawana.blogspot.com.
+  - ANALYZE: Two new director-era names discovered:
+    1. Dave Twynam — explicitly titled "Camp director" in 1979 correspondence (Concordia archives P0145/12B01). Likely the "Dave" mentioned as director ~1980 in existing KB.
+    2. Ross Bannerman — authored "Report on Kamp Kanawana" in 1969. Role unclear but report authorship suggests administrative authority.
+    3. Anonymous Westmount Magazine commenter — was "camp director" alongside Stuart McLean as assistant director, summers 1974-1975. Name not visible online.
+    4. David Leduc — managed Kanawana programs per LinkedIn (dates unknown). Could be gap-era or more recent.
+    Also found: Pip Award full recipient list, Carol Skinner dates (1990-95), 1993 documentary, 120th reunion (2014), Ben T. Hannah 1948 reminiscence, 1988 Kanawana Task Force report, McMorris thesis (1894-1967).
+  - LOOP: CONCLUDE — web sources saturated for this query type. Concordia archives are the definitive next step.
+  - PROCESS: Added f_0752-f_0761 (10 new facts). No new sources added to sources.json (archival references only).
+  - HYPOTHESIZE:
+    H1: Dave Twynam is almost certainly the "Dave" mentioned as director ~1980. His tenure may span late 1970s-early 1980s.
+    H2: The anonymous 1974-1975 camp director commenter on Westmount Magazine could be identified by visiting the page directly (comments may include names).
+    H3: Ross Bannerman may have been director or senior administrator ~1969. Concordia 12B01 season reports would confirm.
+    H4: The 'YMCA Kamp Kanawana Facts-timeline 1894-1998' document at Concordia would almost certainly contain a complete director list.
+    H5: The 1947-1974 gap remains almost entirely unfilled by web sources. Archival access is required.
+    H6: David Leduc's dates could be determined via direct LinkedIn profile access.
+    Priority: Request Concordia archives access or interlibrary loan for P0145/12B01 materials, especially the Facts-timeline 1894-1998.
+[2026-03-15T12:00:00Z] RALPH RESEARCH: Cultural elements web search campaign (songs, cheers, traditions, Chopsy legend). 23+ web searches conducted across 7 topic areas. 12 new sources added (src_camp_sloane_songbook through src_leigh_evans_lv_blog). 17 new facts (f_0738-f_0754). KB advanced to v4.18 (799 facts, 177 sources).
+  SONGS: Richard Kerr (Kanawana composer) has zero web presence; only the English pop songwriter Richard Kerr (1944-2023) appears. "On My Way to Kanawana" returns zero results — Concordia CD is sole known copy. Alabama Jubilee connection confirmed via Spirit of Kanawana blog. YMCA song tradition context expanded (IMSLP 1904 hymn book, WWI Service Song Book, 1938 YMCA Camp Songs Books on eBay, Camp Sloane songbook, LoC Cooperative Recreation Service collection).
+  CHEERS: Camp Sloane YMCA confirms section-specific cheers organized by village/age group. No Kanawana-specific section cheers found online. Section cheer system confirmed as standard YMCA practice.
+  CHOPSY: Zero results across 6+ targeted searches. Name does not appear in any folklore archive, academic database, or camp ghost story collection. Hypothesis that Chopsy is a local adaptation of Cropsey archetype remains unconfirmed. Oral history remains the only viable path.
+  TRADITIONS: Confirmed current section names (Pioneers, Woodsmen, Coureurs des Bois, Pathfinders + Rangers, Voyageurs, Trailblazers, Foresters, Adventurers, Explorers, Senior Kanawanians, Mountaineer). Mountaineer is all-gender tent for trans/non-binary campers. L&V Games confirmed as 3-day event. Stuart McLean quotes captured. Concordia finding aid confirms 1932-1940 Green Triangle run plus KA-News 1976/1978-1982. Canadian camping context expanded (CSCRP 2011, Taylor Statten/YMCA connection, Waaseyaa reconciliation article).
+  NULL RESULTS: Google Books for "Camp Kanawana" (0), HathiTrust for "Kanawana" (0), Google Scholar site search (0 - tool limitation), IMSLP camp songs (only 1904 hymn book). All web fetches to ymcaquebec.org, campsloane.org, acacamps.org, kanawana.blogspot.com returned 403 errors.
+[2026-03-15T13:00:00Z] PHASE 2 CONSOLIDATED — All six research campaigns complete.
+  SCOPE: 150+ web searches across 8 campaign topics.
+  KB: 817 facts (v4.19), 38 duplicate IDs resolved (renumbered f_0800-f_0837), 18 new facts added (f_0838-f_0855).
+  SOURCES: ~22 new sources registered.
+  ARTICLES:
+    - NEW: camp-weredale.md (stub, 650 words, 4 open questions)
+    - UPDATED: directors-index.md (added Twynam, Smee, Bannerman, Leduc, Day, Slezak, Sawyer)
+    - UPDATED: traditions-and-culture.md (added LCC shared-motto connection)
+  KEY DISCOVERIES:
+    - Dave Twynam identified as "Dave" camp director ~1979 (now VIU academic)
+    - E.E. Smee documented as "Resident Director" 1942 (two-tier directorship)
+    - Ross Bannerman authored 1969 Kamp Kanawana report
+    - Camp Weredale full history documented (NOT a YMCA camp; Rotary/Weredale House)
+    - Camp Ouareau founded by Mabel Jamieson (YMCA Montreal secretary general)
+    - OCA archives hold Kanawana file dated 1940
+    - Pagé family identified as Saint-Sauveur landowners (Domaine-Pagé, Boulangerie Pagé 1903)
+    - Non Nobis Solum shared by LCC (identical motto, Fosbery family crest)
+    - 3 new Gazette articles (1933 Fossils, 1942 parade, 1974 camp ad)
+    - 120th anniversary reunion at Victoria Hall Sept 5, 2014
+    - Flickr "Kanawana" account has 4,416 photos (unreviewed)
+  EXHAUSTED TOPICS: Billy Ball (25+ searches, zero results), Harold Cross (null), Chopsy legend (null), Richard Kerr composer (null), memorabilia (null), Reddit/alumni groups (null)
+  PHASE 2 STATUS: All 8 mandate sections worked. Queue updated with p_065-p_072. research-log.md created in project-docs/.

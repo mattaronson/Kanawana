@@ -24,13 +24,18 @@ This index compiles all known directors of Camp Kanawana (originally Camp Jubile
 | Ralph Dawson | 1933? | Wrote "History of Kamp Kanawana" (1933); in 1898 Camp Jubilee photo; directorship uncertain | Concordia Archives 12A |
 | Greig Macdiarmid | 1935-1938+ | Camp Chief in 1935 and confirmed again in July 1938; also listed as "W.J.G. MacDiarmid" (1936) in McMorris; recorded weight statistics | 1935 History; Green Triangle 1938; McMorris thesis |
 | Howie Langille | 1941 | Led 48th season with 68 staff and 30+ British evacuees; previously Senior Director in 1935 | CFCF 1941 broadcast; 1935 History |
-| R.H. Hanagan | 1942, 1946 | Wrote detailed season reports; managed 1946 polio outbreak (6 cases); listed as "Montreal YMCA camp director"^10 | McMorris thesis; Concordia fonds |
+| R.H. Hanagan | 1942, 1946 | Camp Director; wrote detailed season reports; managed 1946 polio outbreak (6 cases); listed as "Montreal YMCA camp director."^10 A 1942 Gazette article describes him "in Indian garb on horseback" at a camp parade. | McMorris thesis; Concordia fonds; Gazette 1942-08-05 |
+| E.E. Smee | 1939, 1942 | Resident Director (1942), a distinct role from Camp Director; earlier served as Juvenile section director (1939).^1 Documents a two-tier directorship structure during wartime. | Gazette 1942-08-05; McMorris thesis |
 | A. Ross Seaman | 1959-1967 | Director of Kamp Kanawana; oversaw 1959 section renaming and La Vérendrye expansion; career in community work preceded directorship; became SGW faculty 1963; later chaired Dawson CRLT dept 1974-84; died 1987 | McMorris thesis; Concordia Seaman Fund^15 |
-| Stuart McLean | 1974-1975 (Asst. Dir.) | Assistant Summer Camp Director; first hired as counselor 1969, worked 5 summers | OurKids interview; Samaritan Mag |
-| "Dave" (surname unknown) | 1980 | Named as camp director and *Ka-News* newsletter author | Ka-News 1980 |
+| Ross Bannerman | 1969 | Authored "Report on Kamp Kanawana" (1969) in Concordia Archives; role title unconfirmed but report authorship suggests senior position | Concordia Archives 12B01 |
+| Stuart McLean | 1974-1975 (Asst. Dir.) | Assistant Summer Camp Director; first hired as counselor 1969, worked 5 summers. His camp director in 1974-75 remains unidentified (commented anonymously on Westmount Magazine tribute). | OurKids interview; Samaritan Mag |
+| Dave Twynam | ~1979 | Camp director; correspondence from "Camp director Dave Twynam" dated 1979 in Concordia archives. Later became G. David Twynam, academic in outdoor recreation/tourism at Vancouver Island University. | Concordia Archives 12B01; LinkedIn |
+| Nancy Sawyer | 1980 (Asst. Dir.) | Assistant Director under "Dave" (likely Twynam); named in Ka-News | Ka-News 1980 |
 | Bruce Netherwood | late 1980s-1990s | Now VP Camping Services, South Shore YMCA, Massachusetts; 30+ years in YMCA camping | Oral history (M. Aronson) |
-| Sean Day | 2004-2023 | Regional Director of Camps, YMCA Quebec; 19 years of service | Oral history (M. Aronson) |
-| Kate Taylor | 2020s | Current camp director | YMCA Quebec website |
+| David Leduc | dates unknown | Managed all Kanawana summer/winter programs (75 employees, 800 participants) | LinkedIn |
+| Sean Day | 2004-2023 | Regional Director of Camps, YMCA Quebec; 19 years of service; confirmed as "former director" post-2022 | Oral history (M. Aronson); web |
+| Kate Taylor | 2020s | Current camp director | YMCA Quebec website; CBC 2021 |
+| Kevin Slezak | 2020s | Current leadership alongside Kate Taylor | Web |
 
 ## Staff by Era
 

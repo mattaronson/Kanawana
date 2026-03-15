@@ -2407,6 +2407,40 @@
       "file_id": null,
       "word_count": 2100,
       "notes": "E1 REVIEW (2026-03-02): 10 fixes applied. Father-son inference reframed as neutral hypothesis. Earliest publication contradiction resolved. Kamp\u2192Camp standardized. Hendry relocated. Unsourced synthesis removed. All 7 criteria PASS."
+    },
+    {
+      "article_id": "camp-weredale",
+      "title": "Camp Weredale and Its Relationship to Kanawana",
+      "wiki_folder": "context",
+      "status": "stub",
+      "status_history": [
+        {
+          "status": "stub",
+          "at": "2026-03-15T12:00:00Z",
+          "by": "auto",
+          "task": "WRITE"
+        }
+      ],
+      "ralph_loops_completed": 1,
+      "kb_facts_used": [
+        "f_0758", "f_0759", "f_0760", "f_0761", "f_0762", "f_0763",
+        "f_0764", "f_0765", "f_0800", "f_0801", "f_0802", "f_0803",
+        "f_0804", "f_0805", "f_0806", "f_0844", "f_0845", "f_0846"
+      ],
+      "sources_cited": [
+        "src_batshaw_camp_weredale",
+        "src_biographi_charles_alexander",
+        "src_lac_weredale_fonds",
+        "src_concordia_12A"
+      ],
+      "open_questions": 4,
+      "cross_links": [
+        "canadian-camping-movement",
+        "camp-otoreke",
+        "the-kanawana-site"
+      ],
+      "file_id": null,
+      "word_count": 650
     }
   ]
 }
