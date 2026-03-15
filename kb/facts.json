@@ -1,8 +1,8 @@
 {
   "version": "v4.18",
-  "kb_version": "4.19",
+  "kb_version": "4.22",
   "migrated_from": "3.3",
-  "fact_count": 817,
+  "fact_count": 910,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -13124,9 +13124,10 @@
     },
     {
       "fact_id": "f_0755",
-      "claim": "David Leduc managed YMCA Camp Kanawana's summer and winter programs per his LinkedIn, including recruitment/supervision of 75 employees, all programs and operational budgets, safety of 800 participants, reporting to Board of Directors. Exact dates of tenure not specified.",
+      "claim": "David Leduc managed YMCA Camp Kanawana's summer and winter programs per his LinkedIn (profile: davidgleduc), including recruitment/supervision of 75 employees, all programs and operational budgets, safety/security of 800 participants, reporting to Board of Directors, strategic business planning, and development/implementation of an intensive youth leadership program. Exact dates of tenure not specified but must predate his Oxfam-Quebec Lebanon role (Mar 2000-Jun 2002), placing Kanawana service likely in the late 1990s. Education: BA International Development (Dalhousie), MBA (McGill, 2006-2011). Subsequent career: Oxfam-Quebec Lebanon coordinator (2000-2002), McGill ICAN director of operations (~11 years), Executive Director of Development and Peace (2015-~2020), Director of Philanthropy Quebec at Pathways to Education Canada (current). Based in Greater Montreal (Outremont). Languages: English, French, Spanish, functional Arabic.",
       "sources": [
-        "src_linkedin_leduc"
+        "src_linkedin_leduc",
+        "src_devp_leduc_2015"
       ],
       "confidence": "stated",
       "category": "people",
@@ -13134,10 +13135,10 @@
         "David Leduc",
         "Camp Kanawana"
       ],
-      "date_ref": null,
+      "date_ref": "late 1990s (estimated)",
       "conflicts_with": [],
-      "added_version": "4.19",
-      "added_by": "ralph_loop_director_search"
+      "added_version": "4.20",
+      "added_by": "ralph_loop"
     },
     {
       "fact_id": "f_0756",
@@ -13824,6 +13825,1701 @@
       "date_ref": "1942",
       "conflicts_with": [],
       "added_version": "4.19",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_0856",
+      "claim": "Sean Day grew up at Camp Kanawana, as stated in a 2017 CBC article about the Stuart McLean Camp Kanawana Fund.",
+      "sources": [
+        "src_cbc_mclean_fund_2017"
+      ],
+      "confidence": "stated",
+      "category": "directors",
+      "entities": [
+        "Sean Day",
+        "Camp Kanawana"
+      ],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "4.19",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_0857",
+      "claim": "Sean Day held the dual title of 'Regional Director of Camps for the Quebec YMCAs' and 'Director of Camp YMCA Kanawana' simultaneously, as confirmed by multiple CBC News articles (2017-2022).",
+      "sources": [
+        "src_cbc_mclean_fund_2017",
+        "src_cbc_pandemic_camps_2021",
+        "src_cbc_camp_staffing_2022"
+      ],
+      "confidence": "stated",
+      "category": "directors",
+      "entities": [
+        "Sean Day",
+        "Camp Kanawana",
+        "YMCA Quebec"
+      ],
+      "date_ref": "2004-2023",
+      "conflicts_with": [],
+      "added_version": "4.19",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_0858",
+      "claim": "In 2021, Sean Day decided to close Camp Kanawana's overnight camp due to COVID-19, as offering overnight services to 250+ campers was not feasible. YMCA Quebec instead offered 10 day camps (up from 3 the previous summer).",
+      "sources": [
+        "src_cbc_pandemic_camps_2021",
+        "src_cbc_sleepaway_greenlight_2021"
+      ],
+      "confidence": "stated",
+      "category": "operations",
+      "entities": [
+        "Sean Day",
+        "Camp Kanawana",
+        "YMCA Quebec"
+      ],
+      "date_ref": "2021",
+      "conflicts_with": [],
+      "added_version": "4.19",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_0859",
+      "claim": "In May 2022, Sean Day reported Camp Kanawana had only hired 75% of counsellors by end of April (normally fully staffed by then). YMCA made 'huge increases' to salaries to recruit staff. Waiting lists existed at many YMCA camps.",
+      "sources": [
+        "src_cbc_camp_staffing_2022"
+      ],
+      "confidence": "stated",
+      "category": "operations",
+      "entities": [
+        "Sean Day",
+        "Camp Kanawana",
+        "YMCA Quebec"
+      ],
+      "date_ref": "2022",
+      "conflicts_with": [],
+      "added_version": "4.19",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_0860",
+      "claim": "After leaving YMCA Quebec (c. April 2023), Sean Day's LinkedIn title is 'Director of Fund Development', and prior KB notes indicate he moved to the Rossy Foundation.",
+      "sources": [
+        "src_oral_aronson"
+      ],
+      "confidence": "inferred",
+      "category": "directors",
+      "entities": [
+        "Sean Day",
+        "Rossy Foundation"
+      ],
+      "date_ref": "2023",
+      "conflicts_with": [],
+      "added_version": "4.19",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_0861",
+      "claim": "Sean Day said of Camp Kanawana: 'Helping kids to understand their potential in the context of community and nature is what the camp is all about.' (CBC, 2017)",
+      "sources": [
+        "src_cbc_mclean_fund_2017"
+      ],
+      "confidence": "stated",
+      "category": "directors",
+      "entities": [
+        "Sean Day",
+        "Camp Kanawana"
+      ],
+      "date_ref": "2017",
+      "conflicts_with": [],
+      "added_version": "4.19",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_0862",
+      "claim": "E.E. Smee's full name was Edgar E. Smee. The McMorris thesis lists him as 'Edgar Smee' (Juvenile section director, 1939) and the 1942 Gazette article uses 'E.E. Smee' (Resident Director). These are the same person.",
+      "sources": [
+        "src_mcmorris_thesis",
+        "src_gazette_1942_parade"
+      ],
+      "confidence": "inferred",
+      "category": "staff",
+      "entities": [
+        "Edgar Smee",
+        "E.E. Smee",
+        "Camp Kanawana"
+      ],
+      "date_ref": "1939-1942",
+      "conflicts_with": [],
+      "added_version": "4.20",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_0863",
+      "claim": "Edgar E. Smee died on February 7, 2002, at the Glebe Centre in Ottawa, at age 89. He was survived by his wife Frieda, daughters Linda, Susan, Sydney, and Sonia, and brothers Norman and Leonard. Obituary published in The Globe and Mail, February 11, 2002.",
+      "sources": [
+        "src_globe_smee_obit_2002"
+      ],
+      "confidence": "stated",
+      "category": "staff",
+      "entities": [
+        "Edgar Smee"
+      ],
+      "date_ref": "2002-02-07",
+      "conflicts_with": [],
+      "added_version": "4.20",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_0864",
+      "claim": "Edgar E. Smee was born circa 1912-1913 (age 89 at death in February 2002). His hometown was Hamilton, Ontario, where he grew up swimming in Red Hill Creek as a boy.",
+      "sources": [
+        "src_globe_smee_obit_2002",
+        "src_eoy_smee_1983"
+      ],
+      "confidence": "inferred",
+      "category": "staff",
+      "entities": [
+        "Edgar Smee"
+      ],
+      "date_ref": "c.1912-1913",
+      "conflicts_with": [],
+      "added_version": "4.20",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_0865",
+      "claim": "Edgar E. Smee returned to Hamilton in 1968 after a 30-year absence (c.1938). He was dismayed by pollution at Red Hill Creek and local beaches, which 'sparked a deep anger' and led to his environmental activism.",
+      "sources": [
+        "src_eoy_smee_1983"
+      ],
+      "confidence": "stated",
+      "category": "staff",
+      "entities": [
+        "Edgar Smee"
+      ],
+      "date_ref": "1968",
+      "conflicts_with": [],
+      "added_version": "4.20",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_0866",
+      "claim": "Edgar E. Smee was the founding Chair of the Conserver Society of Hamilton & District (originally 'Clear Hamilton of Pollution' / CHOP, founded 1969; incorporated as Conserver Society 1984). He helped create the first action plan for Hamilton Harbour/Burlington Bay.",
+      "sources": [
+        "src_eoy_smee_1983",
+        "src_conserver_society_smee_fund"
+      ],
+      "confidence": "stated",
+      "category": "staff",
+      "entities": [
+        "Edgar Smee"
+      ],
+      "date_ref": "1969-1984",
+      "conflicts_with": [],
+      "added_version": "4.20",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_0867",
+      "claim": "Edgar E. Smee was named Environmentalist of the Year in 1983 (EOY Awards). The Ed Smee Conserver Society Environmental Fund was established in his honour in 1999, managed by Hamilton Community Foundation.",
+      "sources": [
+        "src_eoy_smee_1983",
+        "src_conserver_society_smee_fund"
+      ],
+      "confidence": "stated",
+      "category": "staff",
+      "entities": [
+        "Edgar Smee"
+      ],
+      "date_ref": "1983",
+      "conflicts_with": [],
+      "added_version": "4.20",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_0868",
+      "claim": "Edgar Smee's 30-year absence from Hamilton (c.1938-1968) aligns with his documented Kanawana service (1939 Juvenile section director, 1942 Resident Director), suggesting he may have been based in Montreal during that period for YMCA work.",
+      "sources": [
+        "src_mcmorris_thesis",
+        "src_gazette_1942_parade",
+        "src_eoy_smee_1983"
+      ],
+      "confidence": "inferred",
+      "category": "staff",
+      "entities": [
+        "Edgar Smee",
+        "Camp Kanawana"
+      ],
+      "date_ref": "1938-1968",
+      "conflicts_with": [],
+      "added_version": "4.20",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_0856",
+      "claim": "G. David Twynam (Dave Twynam) held a faculty position in the School of Outdoor Recreation, Parks, and Tourism at Lakehead University in Thunder Bay, Ontario, as confirmed by his author affiliation on publications from 1998 and 2002.",
+      "sources": [
+        "src_jsm_farrell_1998",
+        "src_leisure_twynam_2002"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "Dave Twynam",
+        "Lakehead University"
+      ],
+      "date_ref": "1998-2002",
+      "conflicts_with": [],
+      "added_version": "ralph-twynam-2026-03-15",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_0857",
+      "claim": "G. David Twynam became Dean of the School of Tourism at the University College of the Cariboo (UCC), which later became Thompson Rivers University (TRU) in Kamloops, BC. He served as Dean for over a decade.",
+      "sources": [
+        "src_viu_news_twynam_award",
+        "src_tru_newsroom_2008_skills"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "Dave Twynam",
+        "Thompson Rivers University",
+        "University College of the Cariboo"
+      ],
+      "date_ref": "circa 1999-2009",
+      "conflicts_with": [],
+      "added_version": "ralph-twynam-2026-03-15",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_0858",
+      "claim": "David Twynam was identified as 'TRU Dean of Tourism' in March 2008 at the Cariboo Skills Competition.",
+      "sources": [
+        "src_tru_newsroom_2008_skills"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "Dave Twynam",
+        "Thompson Rivers University"
+      ],
+      "date_ref": "2008-03",
+      "conflicts_with": [],
+      "added_version": "ralph-twynam-2026-03-15",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_0859",
+      "claim": "Dr. Dave Twynam departed as Dean of the School of Tourism at TRU around 2009, replaced by Dr. Harold Richins.",
+      "sources": [
+        "src_tru_newsroom_2009_dean"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "Dave Twynam",
+        "Thompson Rivers University"
+      ],
+      "date_ref": "2009",
+      "conflicts_with": [],
+      "added_version": "ralph-twynam-2026-03-15",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_0860",
+      "claim": "After leaving TRU, Dave Twynam became Dean of the Faculty of Management at Vancouver Island University (VIU) in Nanaimo, BC.",
+      "sources": [
+        "src_viu_news_twynam_award",
+        "src_heartofgold_ws"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "Dave Twynam",
+        "Vancouver Island University"
+      ],
+      "date_ref": "post-2009",
+      "conflicts_with": [],
+      "added_version": "ralph-twynam-2026-03-15",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_0861",
+      "claim": "Dave Twynam received the Transfer & Articulation Community Leadership Award from the BC Council on Admissions and Transfer, nominated unanimously by the BC Tourism Management Articulation Committee. He had served as System Liaison Person (SLP) for the committee for 15 years.",
+      "sources": [
+        "src_viu_news_twynam_award"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "Dave Twynam"
+      ],
+      "date_ref": "circa 2015",
+      "conflicts_with": [],
+      "added_version": "ralph-twynam-2026-03-15",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_0862",
+      "claim": "As Dean at TRU, Twynam was involved in the inaugural launch of the Bachelor of Tourism Management program, which was subsequently offered at several other BC post-secondary schools.",
+      "sources": [
+        "src_viu_news_twynam_award"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "Dave Twynam",
+        "Thompson Rivers University"
+      ],
+      "date_ref": "circa 2000s",
+      "conflicts_with": [],
+      "added_version": "ralph-twynam-2026-03-15",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_0863",
+      "claim": "Dave Twynam holds a PhD (confirmed by 'Dr.' title in multiple institutional sources and 'Dave Twynam, PhD' on Heart of Gold Project).",
+      "sources": [
+        "src_viu_news_twynam_award",
+        "src_heartofgold_ws"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "Dave Twynam"
+      ],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "ralph-twynam-2026-03-15",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_0864",
+      "claim": "G. David Twynam has 10 research works with 723 citations on ResearchGate. Key publications include: (1) Farrell, Johnston & Twynam, 'Volunteer Motivation, Satisfaction, and Management at an Elite Sporting Competition', Journal of Sport Management 12(4), 1998; (2) Johnston, Twynam & Farrell, 'Motivation and Satisfaction of Event Volunteers for a Major Youth Organization', Leisure/Loisir 24(1-2), 1999; (3) Twynam, Farrell & Johnston, 'Leisure and volunteer motivation at a special sporting event', Leisure/Loisir 27, 2002; (4) Johnston & Twynam, WWF Arctic Tourism Guidelines sustainable tourism principles.",
+      "sources": [
+        "src_researchgate_twynam",
+        "src_jsm_farrell_1998",
+        "src_leisure_twynam_2002",
+        "src_leisure_johnston_twynam_1999"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "Dave Twynam"
+      ],
+      "date_ref": "1998-2002",
+      "conflicts_with": [],
+      "added_version": "ralph-twynam-2026-03-15",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_0865",
+      "claim": "Twynam co-developed the Special Event Volunteer Motivation Scale (SEVMS), a 28-item instrument with four factors: Purposive, Solidary, External Traditions, and Commitments. This scale has been widely cited and validated internationally.",
+      "sources": [
+        "src_jsm_farrell_1998",
+        "src_leisure_twynam_2002"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "Dave Twynam"
+      ],
+      "date_ref": "1998",
+      "conflicts_with": [],
+      "added_version": "ralph-twynam-2026-03-15",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_0866",
+      "claim": "Dave Twynam was involved in the Heart of Gold Project, an international sustainability collaboration between VIU/Nanaimo and Costa Rican institutions (Earth University, Cartago University College, Rainforest Alliance of Costa Rica).",
+      "sources": [
+        "src_heartofgold_ws"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "Dave Twynam",
+        "Vancouver Island University"
+      ],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "ralph-twynam-2026-03-15",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_0867",
+      "claim": "Dave Twynam is now retired from VIU. His LinkedIn lists him as 'Retired, former Dean, Faculty of Management at Vancouver Island University.'",
+      "sources": [
+        "src_viu_news_twynam_award"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "Dave Twynam",
+        "Vancouver Island University"
+      ],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "ralph-twynam-2026-03-15",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_0868",
+      "claim": "Twynam's career trajectory: YMCA Camp Kanawana director (~1979) → Lakehead University faculty, School of Outdoor Recreation, Parks & Tourism (by late 1990s) → Dean, School of Tourism, University College of the Cariboo / Thompson Rivers University (~1999-2009) → Dean, Faculty of Management, Vancouver Island University (post-2009) → Retired.",
+      "sources": [
+        "src_concordia_12B01",
+        "src_jsm_farrell_1998",
+        "src_tru_newsroom_2009_dean",
+        "src_viu_news_twynam_award"
+      ],
+      "confidence": "inferred",
+      "category": "people",
+      "entities": [
+        "Dave Twynam",
+        "Camp Kanawana",
+        "Lakehead University",
+        "Thompson Rivers University",
+        "Vancouver Island University"
+      ],
+      "date_ref": "1979-present",
+      "conflicts_with": [],
+      "added_version": "ralph-twynam-2026-03-15",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_0869",
+      "claim": "Twynam's academic research on volunteer motivation and special events was conducted at Lakehead University in Thunder Bay, using data from the 1996 Scott Tournament of Hearts (Canadian Women's Curling Championship) and the 1997 Scouts Canada Canadian Jamboree, both held in Thunder Bay.",
+      "sources": [
+        "src_jsm_farrell_1998",
+        "src_leisure_johnston_twynam_1999"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "Dave Twynam",
+        "Lakehead University"
+      ],
+      "date_ref": "1996-1997",
+      "conflicts_with": [],
+      "added_version": "ralph-twynam-2026-03-15",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_0870",
+      "claim": "Twynam's research also includes sustainable tourism (WWF Arctic Tourism Guidelines with M.E. Johnston), marine tourism (HMS Erebus and Terror National Historic Site in Nunavut), and residents' perceptions of sporting event impacts.",
+      "sources": [
+        "src_researchgate_twynam"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "Dave Twynam"
+      ],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "ralph-twynam-2026-03-15",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_0871",
+      "claim": "The Concordia University Archives YMCA of Montreal fonds (P0145) sub-series 12 covers Camping and Outdoor Programs, with the following camp-specific sub-series: 12A (Committees), 12B (Kamp Kanawana), 12C (Camp Otoreke), 12D (Camp Becsies), 12E (Camp Dorval), 12F (Camp Weredale), 12G (Camp Perrot), 12H (Ski lodge), 12I (Camp Thunderbird), 12J (Wilderness Survival Camp), 12K (Les Voyageurs de la Vérendrye), 12L (Lac St-Joseph/Camp Jubilee), 12M (Day camp), 12N (Camping associations).",
+      "sources": [
+        "src_concordia_atom_fonds"
+      ],
+      "confidence": "stated",
+      "category": "sources_archives",
+      "entities": [
+        "Concordia University Archives",
+        "YMCA of Montreal",
+        "Camp Kanawana",
+        "Camp Otoreke",
+        "Camp Becsies",
+        "Camp Dorval",
+        "Camp Weredale",
+        "Camp Perrot",
+        "Camp Thunderbird",
+        "Les Voyageurs de la Vérendrye",
+        "Camp Jubilee"
+      ],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "4.20",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_0872",
+      "claim": "Camp Becsies was a YMCA Montreal camp documented in Concordia Archives sub-series P0145/12D, with textual records dating from 1929-1936 and 1960-1971 (3 cm of records).",
+      "sources": [
+        "src_concordia_atom_fonds"
+      ],
+      "confidence": "stated",
+      "category": "inter-camp",
+      "entities": [
+        "Camp Becsies",
+        "YMCA of Montreal",
+        "Concordia University Archives"
+      ],
+      "date_ref": "1929-1971",
+      "conflicts_with": [],
+      "added_version": "4.20",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_0873",
+      "claim": "Camp Dorval was a YMCA Montreal camp documented in Concordia Archives sub-series P0145/12E, with textual records dating from 1926-1928 (0.5 cm of records).",
+      "sources": [
+        "src_concordia_atom_fonds"
+      ],
+      "confidence": "stated",
+      "category": "inter-camp",
+      "entities": [
+        "Camp Dorval",
+        "YMCA of Montreal",
+        "Concordia University Archives"
+      ],
+      "date_ref": "1926-1928",
+      "conflicts_with": [],
+      "added_version": "4.20",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_0874",
+      "claim": "Camp Perrot was a boys' camp operated by the Montreal YMCA alongside Kamp Kanawana. Concordia Archives hold a 'Comparison of Two Boys Camps operated by Montreal YMCA' (c.1945-46) and a further comparison of Kamp Kanawana and Camp Perrot (1953-54).",
+      "sources": [
+        "src_concordia_atom_fonds"
+      ],
+      "confidence": "stated",
+      "category": "inter-camp",
+      "entities": [
+        "Camp Perrot",
+        "Camp Kanawana",
+        "YMCA of Montreal",
+        "Concordia University Archives"
+      ],
+      "date_ref": "1945-1954",
+      "conflicts_with": [],
+      "added_version": "4.20",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_0875",
+      "claim": "Les Voyageurs de la Vérendrye was a YMCA Montreal canoe-tripping program that began with exploratory trip logs from 1958 and a La Vérendrye Park pilot project proposed budget c.1959. The program leased land at Lac Landron in 1962-63, produced brochures by 1963, and maintained camper records from 1967-1980, with a review booklet in 1982.",
+      "sources": [
+        "src_concordia_atom_12K"
+      ],
+      "confidence": "stated",
+      "category": "canoe_trips",
+      "entities": [
+        "Les Voyageurs de la Vérendrye",
+        "YMCA of Montreal",
+        "La Vérendrye",
+        "Lac Landron"
+      ],
+      "date_ref": "1958-1982",
+      "conflicts_with": [],
+      "added_version": "4.20",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_0876",
+      "claim": "The modern YMCA Kanawana Voyageurs program descends from the Les Voyageurs de la Vérendrye program (est. 1958-59). Current offerings include: 12-Day Travelers (Voyageurs) paddling the Coulonge, Dumoine, and Noire Rivers; Adventurers Coureurs des Bois (4-6 day introductory canoe trips in La Vérendrye Wildlife Reserve); and 26-Day Voyageurs Ultimate (21-day white water canoe trip).",
+      "sources": [
+        "src_ymca_website"
+      ],
+      "confidence": "stated",
+      "category": "canoe_trips",
+      "entities": [
+        "Camp Kanawana",
+        "Les Voyageurs de la Vérendrye",
+        "Voyageurs"
+      ],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "4.20",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_0877",
+      "claim": "Concordia Archives sub-series P0145/12A (Committees) holds a 'Comparison of Two Boys Camps operated by Montreal YMCA' (c.1945-46), a Boys' Camping Committee Survey Committee report (1950), and a 'Report of the Staff Task Group on Outdoor Education in the Montreal YMCA' (1974).",
+      "sources": [
+        "src_concordia_atom_fonds"
+      ],
+      "confidence": "stated",
+      "category": "sources_archives",
+      "entities": [
+        "Concordia University Archives",
+        "YMCA of Montreal",
+        "Camp Kanawana",
+        "Camp Perrot"
+      ],
+      "date_ref": "1945-1974",
+      "conflicts_with": [],
+      "added_version": "4.20",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_0878",
+      "claim": "Concordia Archives sub-series P0145/12A holds Permanent Camp Committee minutes dating back to 1895-1896, the earliest known YMCA Montreal camping administrative records.",
+      "sources": [
+        "src_concordia_atom_fonds"
+      ],
+      "confidence": "stated",
+      "category": "sources_archives",
+      "entities": [
+        "Concordia University Archives",
+        "YMCA of Montreal"
+      ],
+      "date_ref": "1895-1896",
+      "conflicts_with": [],
+      "added_version": "4.20",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_0879",
+      "claim": "Concordia Archives sub-series P0145/12A holds a 'journal of the first Montreal YMCA venture to explore the country around St. Agathe with the view of securing a lake for a summer camp' dated 1895.",
+      "sources": [
+        "src_concordia_atom_fonds"
+      ],
+      "confidence": "stated",
+      "category": "founding",
+      "entities": [
+        "Concordia University Archives",
+        "YMCA of Montreal",
+        "Saint-Agathe"
+      ],
+      "date_ref": "1895",
+      "conflicts_with": [],
+      "added_version": "4.20",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_0880",
+      "claim": "In 1921, Mabel C. Jamieson and Ferna G. Halliday jointly acquired land from Mr. Leguerrier at what would become Camp Ouareau. At the time, Quebec law prohibited women from buying or owning property without their father's or husband's permission; both women had to fight to get their fathers' permission to purchase.",
+      "sources": [
+        "src_ouareau_history",
+        "src_ouareau_wikipedia"
+      ],
+      "confidence": "stated",
+      "category": "inter-camp",
+      "entities": [
+        "Mabel Jamieson",
+        "Ferna Halliday",
+        "Camp Ouareau"
+      ],
+      "date_ref": "1921",
+      "conflicts_with": [],
+      "added_version": "4.20",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_0881",
+      "claim": "Ferna G. Halliday was a graduate of Queen's University. From 1918 to 1921, she served as secretary of the Christian Association of Young Women (YWCA) of Montreal and was responsible for young girls at Camp Oolahwan in the Laurentians.",
+      "sources": [
+        "src_ouareau_history",
+        "src_ouareau_wikipedia"
+      ],
+      "confidence": "stated",
+      "category": "inter-camp",
+      "entities": [
+        "Ferna Halliday",
+        "YWCA Montreal",
+        "Camp Oolahwan"
+      ],
+      "date_ref": "1918-1921",
+      "conflicts_with": [],
+      "added_version": "4.20",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_0882",
+      "claim": "Mabel C. Jamieson was National Student Secretary of the Christian Association of Young Women of Canada in 1915. After completing her studies in 1918 at Pupils College in Richmond, she became secretary general of the Y.M.C.A. of Montreal at least from 1915 to 1920, and was a member of the Committee of the Sixteen in 1919.",
+      "sources": [
+        "src_ouareau_wikipedia"
+      ],
+      "confidence": "stated",
+      "category": "inter-camp",
+      "entities": [
+        "Mabel Jamieson",
+        "YWCA Canada",
+        "YMCA of Montreal",
+        "Committee of the Sixteen"
+      ],
+      "date_ref": "1915-1920",
+      "conflicts_with": [],
+      "added_version": "4.20",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_0883",
+      "claim": "Ferna Halliday co-directed Camp Ouareau in 1922 and 1923. In spring 1922, she toured to Sherbrooke to promote the camp's opening. From 1924, Mabel Jamieson directed Camp Ouareau alone while Halliday founded Camp Oconto in Tichborne, Ontario.",
+      "sources": [
+        "src_ouareau_history",
+        "src_ouareau_wikipedia"
+      ],
+      "confidence": "stated",
+      "category": "inter-camp",
+      "entities": [
+        "Ferna Halliday",
+        "Mabel Jamieson",
+        "Camp Ouareau",
+        "Camp Oconto"
+      ],
+      "date_ref": "1922-1924",
+      "conflicts_with": [],
+      "added_version": "4.20",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_0884",
+      "claim": "Camp Oconto, an all-girls camp on Eagle Lake in Tichborne, Ontario, was founded by Ferna Halliday in 1924. Halliday ran it each year until 1949 when June Kennedy Labbett and Cliff Labbett took over. Halliday Hall, the original dining hall built in 1924, is named in her honour.",
+      "sources": [
+        "src_camp_oconto_about"
+      ],
+      "confidence": "stated",
+      "category": "inter-camp",
+      "entities": [
+        "Ferna Halliday",
+        "Camp Oconto",
+        "June Kennedy Labbett",
+        "Cliff Labbett"
+      ],
+      "date_ref": "1924-1949",
+      "conflicts_with": [],
+      "added_version": "4.20",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_0885",
+      "claim": "Camp Ouareau and Camp Oconto continued to operate on the same mission with similar traditions, including opening and closing rituals featuring candlelight ceremonies with classical music, poetry, and tableaux.",
+      "sources": [
+        "src_ouareau_wikipedia"
+      ],
+      "confidence": "stated",
+      "category": "inter-camp",
+      "entities": [
+        "Camp Ouareau",
+        "Camp Oconto"
+      ],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "4.20",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_0886",
+      "claim": "Dorothy Percival became director of Camp Ouareau in 1934 and acquired the site in 1937. She believed in women's education and paid for some campers to attend school.",
+      "sources": [
+        "src_ouareau_history",
+        "src_ouareau_wikipedia"
+      ],
+      "confidence": "stated",
+      "category": "inter-camp",
+      "entities": [
+        "Dorothy Percival",
+        "Camp Ouareau"
+      ],
+      "date_ref": "1934-1937",
+      "conflicts_with": [],
+      "added_version": "4.20",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_0887",
+      "claim": "Joyce Bertram became manager and owner of Camp Ouareau in 1954, having purchased it from Dorothy Percival. She introduced the camp mascot 'Bymph' and composed several camp songs still sung today.",
+      "sources": [
+        "src_ouareau_history",
+        "src_ouareau_wikipedia"
+      ],
+      "confidence": "stated",
+      "category": "inter-camp",
+      "entities": [
+        "Joyce Bertram",
+        "Dorothy Percival",
+        "Camp Ouareau"
+      ],
+      "date_ref": "1954",
+      "conflicts_with": [],
+      "added_version": "4.20",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_0888",
+      "claim": "In 1970, Madeleine Allen created the Language Program at Camp Ouareau, bringing together two aspects of Quebec culture. In 1976, the camp began accepting 50% francophone campers, shifting from an English-only camp.",
+      "sources": [
+        "src_ouareau_history"
+      ],
+      "confidence": "stated",
+      "category": "inter-camp",
+      "entities": [
+        "Madeleine Allen",
+        "Camp Ouareau"
+      ],
+      "date_ref": "1970-1976",
+      "conflicts_with": [],
+      "added_version": "4.20",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_0889",
+      "claim": "Jacqui Raill became director of Camp Ouareau in 1994 (she had been a counsellor since 1975). She and her husband Don Raill became co-owners in 2002. Their daughter Gabrielle Raill became assistant director in 2004 and co-director since 2011.",
+      "sources": [
+        "src_ouareau_history",
+        "src_ouareau_wikipedia"
+      ],
+      "confidence": "stated",
+      "category": "inter-camp",
+      "entities": [
+        "Jacqui Raill",
+        "Don Raill",
+        "Gabrielle Raill",
+        "Camp Ouareau"
+      ],
+      "date_ref": "1994-2011",
+      "conflicts_with": [],
+      "added_version": "4.20",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_0890",
+      "claim": "Camp Ouareau's Lodge was built in 1922 and is one of the oldest log buildings still in use in Canada. The camp site covers 14.5 hectares including a peninsula on Leguerrier Bay and two islands on Lac Ouareau.",
+      "sources": [
+        "src_ouareau_wikipedia",
+        "src_ourkids_ouareau"
+      ],
+      "confidence": "stated",
+      "category": "inter-camp",
+      "entities": [
+        "Camp Ouareau",
+        "Lac Ouareau"
+      ],
+      "date_ref": "1922",
+      "conflicts_with": [],
+      "added_version": "4.20",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_0891",
+      "claim": "In May 1941, a forest fire south of Lac Ouareau threatened Camp Ouareau's facilities and its summer opening; the camp was ultimately spared.",
+      "sources": [
+        "src_ouareau_wikipedia"
+      ],
+      "confidence": "stated",
+      "category": "inter-camp",
+      "entities": [
+        "Camp Ouareau",
+        "Lac Ouareau"
+      ],
+      "date_ref": "1941",
+      "conflicts_with": [],
+      "added_version": "4.20",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_0892",
+      "claim": "In 2014, Camp Ouareau changed its team names from Iroquois, Algonquin, and Micmac, and shifted many names and signs on camp to remove Indigenous-themed naming.",
+      "sources": [
+        "src_ouareau_history"
+      ],
+      "confidence": "stated",
+      "category": "inter-camp",
+      "entities": [
+        "Camp Ouareau"
+      ],
+      "date_ref": "2014",
+      "conflicts_with": [],
+      "added_version": "4.20",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_0893",
+      "claim": "Camp Ouareau (est. 1922) is one of the two oldest summer camps exclusively for young girls still in operation in Canada, alongside Glen Bernard Camp in Huntsville, Ontario (also 1922).",
+      "sources": [
+        "src_ouareau_wikipedia"
+      ],
+      "confidence": "stated",
+      "category": "inter-camp",
+      "entities": [
+        "Camp Ouareau",
+        "Glen Bernard Camp"
+      ],
+      "date_ref": "1922",
+      "conflicts_with": [],
+      "added_version": "4.20",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_0894",
+      "claim": "Camp Oolahwan was the longest sustained initiative in YWCA Montreal history. Founded in 1917, it operated until 2005 and contributed to the healthy development of thousands of girls and women.",
+      "sources": [
+        "src_ywca_oolahwan_page"
+      ],
+      "confidence": "stated",
+      "category": "inter-camp",
+      "entities": [
+        "Camp Oolahwan",
+        "YWCA Montreal"
+      ],
+      "date_ref": "1917-2005",
+      "conflicts_with": [],
+      "added_version": "4.20",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_0895",
+      "claim": "Mary Susanna Edgar founded Camp Oolahwan in 1917 on Lake Walfred in Sainte-Marguerite-du-Lac-Masson in the Laurentian mountains, north of Montreal. It was an English-speaking camp exclusively for young girls.",
+      "sources": [
+        "src_ywca_oolahwan_page",
+        "src_qctonline_oolahwan"
+      ],
+      "confidence": "stated",
+      "category": "inter-camp",
+      "entities": [
+        "Mary Susanna Edgar",
+        "Camp Oolahwan",
+        "YWCA Montreal"
+      ],
+      "date_ref": "1917",
+      "conflicts_with": [],
+      "added_version": "4.20",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_0896",
+      "claim": "The Camp Oolahwan centennial reunion was held in 2017 at Camp Ouareau in Notre-Dame-de-la-Merci. Sources disagree on exact dates: YWCA says September 8-10; West Island Blog says August 25-27.",
+      "sources": [
+        "src_ywca_oolahwan_centennial",
+        "src_westislandblog_oolahwan"
+      ],
+      "confidence": "stated",
+      "category": "inter-camp",
+      "entities": [
+        "Camp Oolahwan",
+        "Camp Ouareau",
+        "YWCA Montreal"
+      ],
+      "date_ref": "2017",
+      "conflicts_with": [],
+      "added_version": "4.20",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_0897",
+      "claim": "Ferna Halliday was among the founding members of the Ontario Camping Association in 1933, alongside Mary Edgar, Taylor Statten, Ethel Statten, A.L. Cochrane, and Mary Hamilton.",
+      "sources": [
+        "src_camp_oconto_about",
+        "src_ouareau_wikipedia"
+      ],
+      "confidence": "stated",
+      "category": "camping_movement",
+      "entities": [
+        "Ferna Halliday",
+        "Mary Edgar",
+        "Taylor Statten",
+        "Ontario Camping Association"
+      ],
+      "date_ref": "1933",
+      "conflicts_with": [],
+      "added_version": "4.20",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_0898",
+      "claim": "Montreal's Committee of the Sixteen was formed in 1918 to study 'commercialized vice.' Mabel C. Jamieson was a member in 1919, indicating her involvement in Montreal social reform networks alongside her YMCA and camp work.",
+      "sources": [
+        "src_ouareau_wikipedia"
+      ],
+      "confidence": "stated",
+      "category": "inter-camp",
+      "entities": [
+        "Mabel Jamieson",
+        "Committee of the Sixteen"
+      ],
+      "date_ref": "1918-1919",
+      "conflicts_with": [],
+      "added_version": "4.20",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_0899",
+      "claim": "Camp Ouareau today serves girls and gender minorities aged 6-16, with capacity of 143 campers per 2-week session and nearly 500 campers per summer. It is divided into three age groups: Nova (6-11), Luna (12-13), and Senior (14-16). The camp operates a bilingual French-English linguistic program.",
+      "sources": [
+        "src_ouareau_wikipedia",
+        "src_ourkids_ouareau"
+      ],
+      "confidence": "stated",
+      "category": "inter-camp",
+      "entities": [
+        "Camp Ouareau"
+      ],
+      "date_ref": "2020",
+      "conflicts_with": [],
+      "added_version": "4.20",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_0900",
+      "claim": "The YWCA Montreal claims Camp Oolahwan (1917) was the first summer camp for girls in Canada. However, Camp Northway in Ontario predates it (founded 1906). The YWCA claim likely refers to the first YWCA-operated girls camp.",
+      "sources": [
+        "src_ywca_oolahwan_page"
+      ],
+      "confidence": "disputed",
+      "category": "inter-camp",
+      "entities": [
+        "YWCA Montreal",
+        "Camp Oolahwan",
+        "Camp Northway"
+      ],
+      "date_ref": "1917",
+      "conflicts_with": [
+        "f_0413"
+      ],
+      "added_version": "4.20",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_0880",
+      "claim": "The Canadian Camping Association (CCA/ACC) was founded on May 20, 1936 at the Central YMCA, Toronto.",
+      "sources": [
+        "src_trent_cca_fonds_78_004",
+        "src_cca_history"
+      ],
+      "confidence": "stated",
+      "category": "organizations",
+      "entities": [
+        "Canadian Camping Association",
+        "YMCA",
+        "Toronto"
+      ],
+      "date_ref": "1936-05-20",
+      "conflicts_with": [],
+      "added_version": "4.21",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_0881",
+      "claim": "The first CCA officers were: Taylor Statten (president), Mary Edgar (vice-president), Dr. George S. Patterson (secretary), Mary C. Donaldson (treasurer).",
+      "sources": [
+        "src_trent_cca_fonds_78_004",
+        "src_cca_history"
+      ],
+      "confidence": "stated",
+      "category": "organizations",
+      "entities": [
+        "Canadian Camping Association",
+        "Taylor Statten",
+        "Mary Edgar",
+        "George S. Patterson",
+        "Mary C. Donaldson"
+      ],
+      "date_ref": "1936-05-20",
+      "conflicts_with": [],
+      "added_version": "4.21",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_0882",
+      "claim": "The CCA's primary objective was to 'further the interests and welfare of children, youths and adults through camping as an educative, recreative, and character developing experience.'",
+      "sources": [
+        "src_trent_cca_fonds_78_004"
+      ],
+      "confidence": "stated",
+      "category": "organizations",
+      "entities": [
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1936",
+      "conflicts_with": [],
+      "added_version": "4.21",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_0883",
+      "claim": "The CCA Constitution was incorporated by Letters Patent issued by the Secretary of State for Canada at Ottawa on November 4, 1949.",
+      "sources": [
+        "src_trent_cca_fonds_umbrella"
+      ],
+      "confidence": "stated",
+      "category": "organizations",
+      "entities": [
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1949-11-04",
+      "conflicts_with": [],
+      "added_version": "4.21",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_0884",
+      "claim": "The Quebec Camping Association (QCA) was formed in 1937 as a chartered unit of the Canadian Camping Association.",
+      "sources": [
+        "src_trent_qca_fonds_85_013"
+      ],
+      "confidence": "stated",
+      "category": "organizations",
+      "entities": [
+        "Quebec Camping Association",
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1937",
+      "conflicts_with": [],
+      "added_version": "4.21",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_0885",
+      "claim": "Concordia University YMCA archives hold correspondence regarding the founding of the CCA Quebec Section dated 1936-1937, a constitution from 1937, and executive/members meeting records from 1937-1942.",
+      "sources": [
+        "src_concordia_ymca_12A"
+      ],
+      "confidence": "stated",
+      "category": "organizations",
+      "entities": [
+        "Canadian Camping Association",
+        "Quebec Camping Association",
+        "Concordia University Archives",
+        "YMCA of Montreal"
+      ],
+      "date_ref": "1936-1937",
+      "conflicts_with": [],
+      "added_version": "4.21",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_0886",
+      "claim": "A camping school affiliated with the QCA was held at McGill University from 1937 to 1940.",
+      "sources": [
+        "src_concordia_ymca_12A"
+      ],
+      "confidence": "stated",
+      "category": "organizations",
+      "entities": [
+        "Quebec Camping Association",
+        "McGill University"
+      ],
+      "date_ref": "1937-1940",
+      "conflicts_with": [],
+      "added_version": "4.21",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_0887",
+      "claim": "The Trent University Archives OCA fonds (72-007) holds a 'Kanawana (1940)' file in its Camp Brochures and Photographs series.",
+      "sources": [
+        "src_trent_oca_fonds_72_007"
+      ],
+      "confidence": "stated",
+      "category": "organizations",
+      "entities": [
+        "Camp Kanawana",
+        "Ontario Camping Association",
+        "Trent University Archives"
+      ],
+      "date_ref": "1940",
+      "conflicts_with": [],
+      "added_version": "4.21",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_0888",
+      "claim": "In the OCA fonds (78-006) Agency Liaison series, Kanawana is listed among 'Y' camps alongside Wanakita, Wa-sa-ah-bun, Tapatoo, Tapawingo, Pinecrest, and Camp Stephens.",
+      "sources": [
+        "src_trent_oca_fonds_78_006"
+      ],
+      "confidence": "stated",
+      "category": "organizations",
+      "entities": [
+        "Camp Kanawana",
+        "Ontario Camping Association",
+        "YMCA"
+      ],
+      "date_ref": "1949-1978",
+      "conflicts_with": [],
+      "added_version": "4.21",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_0889",
+      "claim": "In the CCA fonds at Trent University, 'Kamp Kanawana' is associated with Derek Walsh and the YMCA in Montreal, Quebec.",
+      "sources": [
+        "src_trent_cca_fonds_78_004"
+      ],
+      "confidence": "stated",
+      "category": "organizations",
+      "entities": [
+        "Camp Kanawana",
+        "Derek Walsh",
+        "Canadian Camping Association",
+        "YMCA of Montreal"
+      ],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "4.21",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_0890",
+      "claim": "The CCA published 'Canadian Camping' magazine from 1949 to 1988. Digitized issues are available on archive.org through efforts of Trent University and Joe Richards.",
+      "sources": [
+        "src_cca_history",
+        "src_archive_org_canadian_camping_1959"
+      ],
+      "confidence": "stated",
+      "category": "organizations",
+      "entities": [
+        "Canadian Camping Association",
+        "Trent University",
+        "Joe Richards"
+      ],
+      "date_ref": "1949-1988",
+      "conflicts_with": [],
+      "added_version": "4.21",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_0891",
+      "claim": "The Centenary Journey (1967) was a CCA/provincial camping association Centennial project where campers paddled a cross-Canada route from coast to coast. Bruce Hodgins was key to the project's success.",
+      "sources": [
+        "src_trent_oca_fonds_72_007"
+      ],
+      "confidence": "stated",
+      "category": "organizations",
+      "entities": [
+        "Canadian Camping Association",
+        "Bruce Hodgins",
+        "Centenary Journey"
+      ],
+      "date_ref": "1967",
+      "conflicts_with": [],
+      "added_version": "4.21",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_0892",
+      "claim": "Taylor Statten served as ACA (American Camp Association) president in 1942, in addition to being first CCA president.",
+      "sources": [
+        "src_cca_history"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "Taylor Statten",
+        "American Camp Association",
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1942",
+      "conflicts_with": [],
+      "added_version": "4.21",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_0893",
+      "claim": "Mary Edgar (1889-1973) was Director of Camp Oolahwan in the Laurentians from 1915-1919 while serving as YWCA Girls' Work Secretary in Montreal.",
+      "sources": [
+        "src_ourontario_mary_edgar"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "Mary Edgar",
+        "Camp Oolahwan",
+        "YWCA",
+        "Montreal"
+      ],
+      "date_ref": "1915-1919",
+      "conflicts_with": [],
+      "added_version": "4.21",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_0894",
+      "claim": "Camp YMCA Kanawana is an accredited member of the Association des camps du Québec (ACQ), the modern successor to the Quebec Camping Association.",
+      "sources": [
+        "src_acq_kanawana_listing"
+      ],
+      "confidence": "stated",
+      "category": "organizations",
+      "entities": [
+        "Camp Kanawana",
+        "Association des camps du Québec",
+        "YMCA"
+      ],
+      "date_ref": "2026",
+      "conflicts_with": [],
+      "added_version": "4.21",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_0895",
+      "claim": "Kirk Wipper (1923-2011) founded Camp Kandalore in 1957 on Lake Kabakwa, Haliburton, and the Kanawa International Museum of Canoes there, which became the Canadian Canoe Museum in Peterborough (1997).",
+      "sources": [
+        "src_wikipedia_kirk_wipper"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "Kirk Wipper",
+        "Camp Kandalore",
+        "Kanawa International Museum",
+        "Canadian Canoe Museum"
+      ],
+      "date_ref": "1957",
+      "conflicts_with": [],
+      "added_version": "4.21",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_0896",
+      "claim": "Kirk Wipper developed comprehensive canoeing standards that were approved by the Ontario Camping Association and used in most camps with canoeing programs.",
+      "sources": [
+        "src_wikipedia_kirk_wipper"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "Kirk Wipper",
+        "Ontario Camping Association"
+      ],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "4.21",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_0897",
+      "claim": "Concordia Archives sub-series P0145/12A holds a 'Comparison of Two Boys Camps operated by Montreal YMCA' covering Kamp Kanawana and Camp Perrot, dated approximately 1945-1946.",
+      "sources": [
+        "src_concordia_ymca_12A"
+      ],
+      "confidence": "stated",
+      "category": "founding",
+      "entities": [
+        "Camp Kanawana",
+        "Camp Perrot",
+        "YMCA of Montreal",
+        "Concordia University Archives"
+      ],
+      "date_ref": "1945-1946",
+      "conflicts_with": [],
+      "added_version": "4.21",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_0898",
+      "claim": "Concordia Archives sub-series P0145/12A holds an 'Interpretation of Score for Counselors Participating in the Research Project at Kamp Kanawana' from 1960.",
+      "sources": [
+        "src_concordia_ymca_12A"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "Camp Kanawana",
+        "YMCA of Montreal",
+        "Concordia University Archives"
+      ],
+      "date_ref": "1960",
+      "conflicts_with": [],
+      "added_version": "4.21",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_0899",
+      "claim": "Concordia Archives sub-series P0145/12A holds a proposed two-site operation plan for Kanawana and Weredale from 1977.",
+      "sources": [
+        "src_concordia_ymca_12A"
+      ],
+      "confidence": "stated",
+      "category": "administration",
+      "entities": [
+        "Camp Kanawana",
+        "Camp Weredale",
+        "YMCA of Montreal",
+        "Concordia University Archives"
+      ],
+      "date_ref": "1977",
+      "conflicts_with": [],
+      "added_version": "4.21",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_0900",
+      "claim": "A CCA survey found many camp directors were aware of cultural appropriation harms but had no consensus on how to address Indigenous traditions in camps. Following TRC 2015 final report, camps began reflecting on origins influenced by Indigenous culture.",
+      "sources": [
+        "src_mironline_reconciliation_camps"
+      ],
+      "confidence": "stated",
+      "category": "organizations",
+      "entities": [
+        "Canadian Camping Association",
+        "Truth and Reconciliation Commission"
+      ],
+      "date_ref": "2015-2023",
+      "conflicts_with": [],
+      "added_version": "4.21",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_0901",
+      "claim": "An April 17, 1937 report of the nominating committee for the Quebec Camping Association is preserved in the CCA fonds at Trent University Archives.",
+      "sources": [
+        "src_trent_cca_fonds_78_004"
+      ],
+      "confidence": "stated",
+      "category": "organizations",
+      "entities": [
+        "Quebec Camping Association",
+        "Canadian Camping Association",
+        "Trent University Archives"
+      ],
+      "date_ref": "1937-04-17",
+      "conflicts_with": [],
+      "added_version": "4.21",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_0902",
+      "claim": "Concordia Archives sub-series P0145/12A holds 'History of Camping' notes dated 1936, the same year the CCA was founded.",
+      "sources": [
+        "src_concordia_ymca_12A"
+      ],
+      "confidence": "stated",
+      "category": "organizations",
+      "entities": [
+        "YMCA of Montreal",
+        "Concordia University Archives"
+      ],
+      "date_ref": "1936",
+      "conflicts_with": [],
+      "added_version": "4.21",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_0903",
+      "claim": "Concordia Archives sub-series P0145/12A holds a 'Report — trip to St. Agathe' dated 1893 and 1895, described as the 'Journal of the first Montreal YMCA venture to explore the country round about St. Agathe with the view of securing a lake on which to establish a Summer Camp.' The 1893 date places this scouting expedition one year BEFORE Camp Jubilee's founding in 1894.",
+      "sources": [
+        "src_concordia_atom_fonds"
+      ],
+      "confidence": "stated",
+      "category": "founding",
+      "entities": [
+        "Concordia University Archives",
+        "YMCA of Montreal",
+        "Saint-Agathe",
+        "Camp Jubilee"
+      ],
+      "date_ref": "1893",
+      "conflicts_with": [],
+      "added_version": "4.20",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_0904",
+      "claim": "Concordia Archives P0145/12A holds Permanent Camp Committee records spanning: minutes (1895-96), correspondence/financial records (1899-1901, fragile documents), minutes/correspondence (1908), minute book (1911-1926), minutes (1921), and a Camp Executive meeting from December 12, 1945.",
+      "sources": [
+        "src_concordia_atom_fonds"
+      ],
+      "confidence": "stated",
+      "category": "sources_archives",
+      "entities": [
+        "Concordia University Archives",
+        "YMCA of Montreal",
+        "Permanent Camp Committee"
+      ],
+      "date_ref": "1895-1945",
+      "conflicts_with": [],
+      "added_version": "4.20",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_0905",
+      "claim": "The 120th anniversary reunion of Camp YMCA Kanawana was held at Victoria Hall on September 5, 2014, for alumni (former campers and staff members).",
+      "sources": [
+        "src_ymca_website"
+      ],
+      "confidence": "stated",
+      "category": "events",
+      "entities": [
+        "Camp Kanawana",
+        "Victoria Hall"
+      ],
+      "date_ref": "2014-09-05",
+      "conflicts_with": [],
+      "added_version": "4.20",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_0906",
+      "claim": "Camp Kanawana's site is 550 acres with 3 lakes, located in the Laurentians 45 minutes from Montreal.",
+      "sources": [
+        "src_ymca_website"
+      ],
+      "confidence": "stated",
+      "category": "geography",
+      "entities": [
+        "Camp Kanawana"
+      ],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "4.20",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_0907",
+      "claim": "G. David Twynam (PhD) served as Camp Kanawana director c.1979-1980 (confirmed as 'Dave' in Ka-News 1980). He later held academic positions: faculty at Lakehead University School of Outdoor Recreation, Parks & Tourism (late 1990s); Dean of School of Tourism at University College of the Cariboo/Thompson Rivers University (~1999-2009); Dean of Faculty of Management at Vancouver Island University (post-2009). He co-developed the Special Event Volunteer Motivation Scale (SEVMS), his most-cited contribution (10 research works, 723 citations on ResearchGate).",
+      "sources": [
+        "src_linkedin_twynam",
+        "src_researchgate_twynam"
+      ],
+      "confidence": "stated",
+      "category": "directors",
+      "entities": [
+        "Dave Twynam",
+        "G. David Twynam",
+        "Camp Kanawana",
+        "Vancouver Island University",
+        "Thompson Rivers University",
+        "Lakehead University"
+      ],
+      "date_ref": "1979-2020s",
+      "conflicts_with": [],
+      "added_version": "4.22",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_0908",
+      "claim": "Concordia Archives sub-series P0145/11C holds 'Ross Bannerman's International Branch file' dated 1970, placing Bannerman at the YMCA du Parc (International) branch c.1968-1970, contemporaneous with his 1969 Kanawana report.",
+      "sources": [
+        "src_concordia_atom_fonds"
+      ],
+      "confidence": "stated",
+      "category": "directors",
+      "entities": [
+        "Ross Bannerman",
+        "Concordia University Archives",
+        "YMCA of Montreal"
+      ],
+      "date_ref": "1970",
+      "conflicts_with": [],
+      "added_version": "4.22",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_0909",
+      "claim": "Sean Day held the dual title of Regional Director of Camps for the Quebec YMCAs and Director of Camp YMCA Kanawana, serving from 2004 to approximately April 2023 (19 years). He grew up at Camp Kanawana and was Matt Aronson's counsellor. After departing YMCA Quebec, he became Director of Fund Development at the Rossy Foundation.",
+      "sources": [
+        "src_oral_history_aronson",
+        "src_cbc_mclean_fund_2017"
+      ],
+      "confidence": "stated",
+      "category": "directors",
+      "entities": [
+        "Sean Day",
+        "Camp Kanawana",
+        "YMCA Quebec",
+        "Rossy Foundation"
+      ],
+      "date_ref": "2004-2023",
+      "conflicts_with": [],
+      "added_version": "4.22",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_0910",
+      "claim": "During the COVID-19 pandemic, Sean Day made the decision to close Kanawana's overnight program, citing the impossibility of offering overnight services to 250+ campers. The YMCA pivoted to 10 day camps (up from 3 the previous summer). In 2022, Kanawana had only hired 75% of counsellors by end of April (normally fully staffed by then) due to national staff shortages.",
+      "sources": [
+        "src_cbc_2021_covid",
+        "src_web_2022_staffing"
+      ],
+      "confidence": "stated",
+      "category": "operations",
+      "entities": [
+        "Sean Day",
+        "Camp Kanawana",
+        "COVID-19"
+      ],
+      "date_ref": "2021-2022",
+      "conflicts_with": [],
+      "added_version": "4.22",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_0911",
+      "claim": "David G. Leduc held a BA in International Development from Dalhousie University and an MBA from McGill (2006-2011). Career sequence: Oxfam-Québec Lebanon coordinator (2000-2002), YMCA Kanawana program manager (dates uncertain, managing 75 employees and 800 participants), McGill ICAN director of operations, Executive Director of Development and Peace (2015-2020), Director of Philanthropy (Quebec) at Pathways to Education.",
+      "sources": [
+        "src_linkedin_leduc",
+        "src_dev_peace_2015"
+      ],
+      "confidence": "stated",
+      "category": "directors",
+      "entities": [
+        "David Leduc",
+        "Camp Kanawana",
+        "YMCA of Montreal"
+      ],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "4.22",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_0912",
+      "claim": "Mabel C. Jamieson, co-founder of Camp Ouareau (1922), was described as 'secretary general of the YMCA of Montreal' c.1915-1920 in the Camp Ouareau history page. However, this claim could not be independently verified; it may represent a conflation with the YWCA. She was also National Student Secretary of the YWCA of Canada in 1915 and a member of the Committee of the Sixteen (Montreal anti-vice committee) in 1919.",
+      "sources": [
+        "src_camp_ouareau_history",
+        "src_wikipedia_ouareau"
+      ],
+      "confidence": "disputed",
+      "category": "inter-camp",
+      "entities": [
+        "Mabel Jamieson",
+        "Camp Ouareau",
+        "YMCA of Montreal",
+        "YWCA"
+      ],
+      "date_ref": "1915-1922",
+      "conflicts_with": [],
+      "added_version": "4.22",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_0913",
+      "claim": "Ferna G. Halliday, co-founder of Camp Ouareau (1922), was a Queen's University graduate and Secretary of YWCA Montreal (1918-1921) responsible for girls at Camp Oolahwan. She co-directed Camp Ouareau 1922-1923, then founded Camp Oconto in Tichborne, Ontario (1924), running it until 1949. She was a founding member of the Ontario Camping Association in 1933 alongside Mary Edgar, Taylor Statten, and Ethel Statten.",
+      "sources": [
+        "src_camp_ouareau_history",
+        "src_camp_oconto"
+      ],
+      "confidence": "stated",
+      "category": "inter-camp",
+      "entities": [
+        "Ferna Halliday",
+        "Camp Ouareau",
+        "Camp Oolahwan",
+        "YWCA Montreal",
+        "Ontario Camping Association",
+        "Camp Oconto"
+      ],
+      "date_ref": "1918-1949",
+      "conflicts_with": [],
+      "added_version": "4.22",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_0914",
+      "claim": "Camp Ouareau land was acquired in 1921 from Mr. Leguerrier, under Quebec law requiring fathers' permission for women to buy property. The camp is located at 2464 Route 125, Notre-Dame-de-la-Merci, on 14.5 hectares of Leguerrier Bay, Lac Ouareau, including a peninsula and two islands.",
+      "sources": [
+        "src_camp_ouareau_history"
+      ],
+      "confidence": "stated",
+      "category": "inter-camp",
+      "entities": [
+        "Camp Ouareau",
+        "Leguerrier",
+        "Notre-Dame-de-la-Merci"
+      ],
+      "date_ref": "1921",
+      "conflicts_with": [],
+      "added_version": "4.22",
       "added_by": "ralph_loop"
     }
   ]

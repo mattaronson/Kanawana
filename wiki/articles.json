@@ -467,7 +467,7 @@
       ],
       "file_id": "1KW2yhoZ-wr_71sTPbLJ3v81KW4ZEJ_p-",
       "word_count": 2100,
-      "notes": "E1 REVIEW (2026-02-19): Fixed source header (src_ymca_facts\u2192src_kanawana_facts), added Spectrum URL for McMorris thesis, added IA URLs for Facts sheet and Gas Bag. All claims cited, dates consistent, names cross-checked, tone encyclopedic. Advanced R3-verified \u2192 E1-reviewed."
+      "notes": "E1 REVIEW (2026-02-19): Fixed source header (src_ymca_facts→src_kanawana_facts), added Spectrum URL for McMorris thesis, added IA URLs for Facts sheet and Gas Bag. All claims cited, dates consistent, names cross-checked, tone encyclopedic. Advanced R3-verified → E1-reviewed."
     },
     {
       "article_id": "programs-activities",
@@ -624,7 +624,7 @@
       ],
       "file_id": "1oqLoU6_bzWD_9jXwXQgYNm_EqLCEfNjR",
       "word_count": 2100,
-      "notes": "E1 REVIEW (2026-02-19): All claims cited, dates consistent, names cross-checked, tone encyclopedic, cross-links valid, open questions actionable, no redundancy with sibling articles. Advanced R3-verified \u2192 E1-reviewed."
+      "notes": "E1 REVIEW (2026-02-19): All claims cited, dates consistent, names cross-checked, tone encyclopedic, cross-links valid, open questions actionable, no redundancy with sibling articles. Advanced R3-verified → E1-reviewed."
     },
     {
       "article_id": "ralph-dawson",
@@ -852,7 +852,7 @@
       ],
       "file_id": null,
       "word_count": 2400,
-      "notes": "E1 REVIEW (2026-02-19): PASS \u2014 all 7 checklist items satisfied. No fixes needed. Advanced R3-verified \u2192 E1-reviewed."
+      "notes": "E1 REVIEW (2026-02-19): PASS — all 7 checklist items satisfied. No fixes needed. Advanced R3-verified → E1-reviewed."
     },
     {
       "article_id": "sources-index",
@@ -1003,7 +1003,7 @@
       ],
       "file_id": null,
       "word_count": 750,
-      "notes": "E1 REVIEW (2026-02-19): Added inline ^1-^5 citations throughout body text. Standardized all name mentions to 'Harold C. Cross'. Added Related Articles section. Added priority tags to Open Questions. Advanced R3-verified \u2192 E1-reviewed."
+      "notes": "E1 REVIEW (2026-02-19): Added inline ^1-^5 citations throughout body text. Standardized all name mentions to 'Harold C. Cross'. Added Related Articles section. Added priority tags to Open Questions. Advanced R3-verified → E1-reviewed."
     },
     {
       "article_id": "centennial-1967",
@@ -1272,7 +1272,7 @@
       ],
       "file_id": null,
       "word_count": 700,
-      "notes": "E1 REVIEW (2026-02-19): PASS \u2014 all 7 checklist items satisfied. No fixes needed. Advanced R3-verified \u2192 E1-reviewed."
+      "notes": "E1 REVIEW (2026-02-19): PASS — all 7 checklist items satisfied. No fixes needed. Advanced R3-verified → E1-reviewed."
     },
     {
       "article_id": "cushing-family",
@@ -1353,7 +1353,7 @@
       ],
       "file_id": null,
       "word_count": 1200,
-      "notes": "E1 REVIEW (2026-02-19): Fixed Frederick row in Eight Sons table (birthplace clarified in Occupation column). All 7 checklist items satisfied. Advanced R3-verified \u2192 E1-reviewed."
+      "notes": "E1 REVIEW (2026-02-19): Fixed Frederick row in Eight Sons table (birthplace clarified in Occupation column). All 7 checklist items satisfied. Advanced R3-verified → E1-reviewed."
     },
     {
       "article_id": "traditions-and-culture",
@@ -1949,7 +1949,7 @@
       ],
       "file_id": null,
       "word_count": 750,
-      "notes": "RALPH R1 (2026-02-26): Lake Wilson naming claim CANNOT BE VERIFIED \u2014 plausible but no documentary evidence. McConnell family tree confirmed. YMCA connection 1901-1963 documented. 10 new KB facts (f_0516-f_0525). 1 new source (Fong biography). Research SATURATED for online sources."
+      "notes": "RALPH R1 (2026-02-26): Lake Wilson naming claim CANNOT BE VERIFIED — plausible but no documentary evidence. McConnell family tree confirmed. YMCA connection 1901-1963 documented. 10 new KB facts (f_0516-f_0525). 1 new source (Fong biography). Research SATURATED for online sources."
     },
     {
       "article_id": "lake-wilson",
@@ -2406,16 +2406,22 @@
       ],
       "file_id": null,
       "word_count": 2100,
-      "notes": "E1 REVIEW (2026-03-02): 10 fixes applied. Father-son inference reframed as neutral hypothesis. Earliest publication contradiction resolved. Kamp\u2192Camp standardized. Hendry relocated. Unsourced synthesis removed. All 7 criteria PASS."
+      "notes": "E1 REVIEW (2026-03-02): 10 fixes applied. Father-son inference reframed as neutral hypothesis. Earliest publication contradiction resolved. Kamp→Camp standardized. Hendry relocated. Unsourced synthesis removed. All 7 criteria PASS."
     },
     {
       "article_id": "camp-weredale",
       "title": "Camp Weredale and Its Relationship to Kanawana",
       "wiki_folder": "context",
-      "status": "stub",
+      "status": "draft",
       "status_history": [
         {
           "status": "stub",
+          "at": "2026-03-15T12:00:00Z",
+          "by": "auto",
+          "task": "WRITE"
+        },
+        {
+          "status": "draft",
           "at": "2026-03-15T12:00:00Z",
           "by": "auto",
           "task": "WRITE"
@@ -2423,17 +2429,32 @@
       ],
       "ralph_loops_completed": 1,
       "kb_facts_used": [
-        "f_0758", "f_0759", "f_0760", "f_0761", "f_0762", "f_0763",
-        "f_0764", "f_0765", "f_0800", "f_0801", "f_0802", "f_0803",
-        "f_0804", "f_0805", "f_0806", "f_0844", "f_0845", "f_0846"
+        "f_0354",
+        "f_0470",
+        "f_0621",
+        "f_0636",
+        "f_0637",
+        "f_0638",
+        "f_0800",
+        "f_0801",
+        "f_0802",
+        "f_0803",
+        "f_0804",
+        "f_0805",
+        "f_0806",
+        "f_0844",
+        "f_0845",
+        "f_0846"
       ],
       "sources_cited": [
         "src_batshaw_camp_weredale",
         "src_biographi_charles_alexander",
         "src_lac_weredale_fonds",
-        "src_concordia_12A"
+        "src_concordia_fonds",
+        "src_ciusss_weredale_90",
+        "src_blog_frank_crabbe"
       ],
-      "open_questions": 4,
+      "open_questions": 5,
       "cross_links": [
         "canadian-camping-movement",
         "camp-otoreke",
@@ -2441,6 +2462,183 @@
       ],
       "file_id": null,
       "word_count": 650
+    },
+    {
+      "article_id": "a-ross-seaman",
+      "title": "A. Ross Seaman",
+      "wiki_folder": "people",
+      "status": "stub",
+      "status_history": [
+        {
+          "status": "stub",
+          "at": "2026-03-15T12:30:00Z",
+          "by": "auto",
+          "task": "RESEARCH"
+        }
+      ],
+      "ralph_loops_completed": 0,
+      "kb_facts_used": [
+        "f_0612",
+        "f_0631",
+        "f_0632",
+        "f_0633",
+        "f_0634",
+        "f_0635",
+        "f_0671"
+      ],
+      "sources_cited": [
+        "src_concordia_fonds",
+        "src_concordia_seaman_fund",
+        "src_mcmorris_thesis"
+      ],
+      "open_questions": 4,
+      "cross_links": [
+        "directors-index",
+        "canoe-trips",
+        "section-names"
+      ],
+      "file_id": null,
+      "word_count": 350
+    },
+    {
+      "article_id": "taylor-statten",
+      "title": "Taylor Statten and the Canadian Camping Movement",
+      "wiki_folder": "people",
+      "status": "stub",
+      "status_history": [
+        {
+          "status": "stub",
+          "at": "2026-03-15T12:45:00Z",
+          "by": "auto",
+          "task": "RESEARCH"
+        }
+      ],
+      "ralph_loops_completed": 0,
+      "kb_facts_used": [
+        "f_0251",
+        "f_0252",
+        "f_0253",
+        "f_0254",
+        "f_0255",
+        "f_0256",
+        "f_0259",
+        "f_0260",
+        "f_0261",
+        "f_0263",
+        "f_0265",
+        "f_0286",
+        "f_0394",
+        "f_0653",
+        "f_0818",
+        "f_0832"
+      ],
+      "sources_cited": [
+        "src_mcmorris_thesis",
+        "src_pine_crest_encyclopedia",
+        "src_oca_archives",
+        "src_wikipedia_cca"
+      ],
+      "open_questions": 4,
+      "cross_links": [
+        "canadian-camping-movement",
+        "hedley-dimock",
+        "canoe-trips",
+        "traditions-and-culture"
+      ],
+      "file_id": null,
+      "word_count": 450
+    },
+    {
+      "article_id": "rh-hanagan",
+      "title": "R.H. Hanagan",
+      "wiki_folder": "people",
+      "status": "stub",
+      "status_history": [
+        {
+          "status": "stub",
+          "at": "2026-03-15T13:00:00Z",
+          "by": "auto",
+          "task": "RESEARCH"
+        }
+      ],
+      "ralph_loops_completed": 0,
+      "kb_facts_used": [
+        "f_0043",
+        "f_0044",
+        "f_0356",
+        "f_0404",
+        "f_0698",
+        "f_0738",
+        "f_0851",
+        "f_0855"
+      ],
+      "sources_cited": [
+        "src_mcmorris_thesis",
+        "src_concordia_fonds",
+        "src_gazette_1942_parade"
+      ],
+      "open_questions": 4,
+      "cross_links": [
+        "directors-index",
+        "wartime-kanawana"
+      ],
+      "file_id": null,
+      "word_count": 300
+    },
+    {
+      "article_id": "camp-ouareau",
+      "title": "Camp Ouareau and Its Connections to Kanawana",
+      "wiki_folder": "context",
+      "status": "stub",
+      "status_history": [
+        {
+          "status": "stub",
+          "at": "2026-03-15T14:00:00Z",
+          "by": "auto",
+          "task": "RESEARCH"
+        }
+      ],
+      "ralph_loops_completed": 1,
+      "kb_facts_used": [
+        "f_0807",
+        "f_0808",
+        "f_0809",
+        "f_0810",
+        "f_0880",
+        "f_0881",
+        "f_0882",
+        "f_0883",
+        "f_0884",
+        "f_0885",
+        "f_0886",
+        "f_0887",
+        "f_0888",
+        "f_0889",
+        "f_0890",
+        "f_0891",
+        "f_0892",
+        "f_0893",
+        "f_0896",
+        "f_0899",
+        "f_0912",
+        "f_0913",
+        "f_0914"
+      ],
+      "sources_cited": [
+        "src_camp_ouareau_history",
+        "src_wikipedia_ouareau",
+        "src_camp_oconto",
+        "src_mcmorris_thesis"
+      ],
+      "open_questions": 4,
+      "cross_links": [
+        "canadian-camping-movement",
+        "camp-weredale",
+        "taylor-statten",
+        "traditions-and-culture"
+      ],
+      "file_id": null,
+      "word_count": 600
     }
   ]
 }

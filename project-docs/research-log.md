@@ -253,7 +253,7 @@ This log records each Phase 2 search campaign: topic, queries tried, surfaces se
 
 ---
 
-## Summary Statistics
+## Session 1 Summary Statistics
 
 | Metric | Value |
 |--------|-------|
@@ -265,3 +265,74 @@ This log records each Phase 2 search campaign: topic, queries tried, surfaces se
 | Topics exhausted (online) | Billy Ball, Harold Cross, Chopsy, Richard Kerr, memorabilia |
 | Key archival leads | OCA Kanawana file (1940), BAnQ Lovell's directories, Cushing genealogy (IA) |
 | Article stubs warranted | Camp Weredale (sufficient facts), 1994 Centennial (insufficient) |
+
+---
+
+## Session 2: Continued Research (2026-03-15)
+
+### Campaign 7: Biographical Deep Dives (9 parallel agents)
+
+**G. David Twynam — ENRICHED**
+- Full academic career mapped: PhD, Lakehead faculty → TRU Dean → VIU Dean
+- Co-developed SEVMS scale (723 citations, 10 publications on ResearchGate)
+- BC Transfer & Articulation Community Leadership Award
+- Gap remains: 1980-late 1990s career unknown
+
+**Ross Bannerman — ARCHIVAL LEAD**
+- Concordia P0145/11C holds "Ross Bannerman's International Branch file" (1970)
+- Places him at YMCA du Parc (International) branch c.1968-1970
+- No online biographical data beyond archival reference
+
+**Sean Day — SUBSTANTIALLY ENRICHED**
+- Dual title: Regional Director of Camps (Quebec YMCAs) + Director of Camp Kanawana
+- Grew up at Kanawana; was Matt Aronson's counsellor
+- COVID response: closed overnight 2021, pivoted to day camps
+- 2022 staff shortages: only 75% hired by April
+- Post-YMCA: Director of Fund Development, Rossy Foundation
+
+**David Leduc — CAREER TIMELINE ESTABLISHED**
+- Dalhousie BA → Oxfam-Québec Lebanon (2000-02) → Kanawana → McGill MBA (2006-11) → Dev & Peace ED (2015-20) → Pathways to Education
+
+**E.E. Smee — EXHAUSTED**
+- Zero online presence across all search surfaces
+
+### Campaign 8: Concordia AtoM Fonds Structure (MAJOR DISCOVERY)
+
+**Full P0145 sub-series 12 mapped from AtoM finding aid:**
+- 14 camping sub-series (12A-12N) documented with date ranges
+- Previously unknown YMCA camps: Camp Becsies (1929-1971), Camp Dorval (1926-28), Camp Perrot, Camp Thunderbird, Wilderness Survival Camp
+- 12A: Permanent Camp Committee minutes from 1895-96 (earliest known YMCA camping admin records)
+- 12A: 1893 St. Agathe scouting journal — "first Montreal YMCA venture to explore the country round about St. Agathe" (pushes documented activity to 1 year before Camp Jubilee founding)
+- 12K: Les Voyageurs de la Vérendrye program records 1958-1982 detailed (exploratory logs, Lac Landron lease, brochures, camper records)
+- Camp Perrot compared with Kanawana in 1945-46 and 1953-54 reports
+
+### Campaign 9: Camp Ouareau Deep Research (21 new facts)
+
+**Key findings:**
+- Director succession 1922-present fully mapped
+- Ferna Halliday: OCA founding member (1933) alongside Taylor Statten, Mary Edgar
+- Mabel Jamieson "secretary general of YMCA Montreal" claim DISPUTED (may be YWCA)
+- Camp Ouareau land acquired 1921 from Leguerrier; 14.5 hectares, Leguerrier Bay
+- Lodge (1922) one of oldest log buildings still in use in Canada
+- 2014 team name change from Indigenous names for reconciliation
+
+### Campaign 10: Additional Web Research
+
+**120th anniversary reunion:** Victoria Hall, September 5, 2014 (confirmed via YMCA Quebec)
+**Camp property:** 550 acres, 3 lakes, 45 minutes from Montreal
+**Director searches exhausted:** Macdiarmid, Langille, McEwen, Paterson — all null online
+
+### Session 2 Summary Statistics
+
+| Metric | Value |
+|--------|-------|
+| Additional searches | 50+ (including 9 agent campaigns) |
+| New facts added | 55 (f_0856-f_0914) |
+| New sources added | 15 |
+| KB version | 4.19 → 4.22 |
+| Total facts | 910 |
+| Total sources | 223 |
+| New article stubs | 4 (A. Ross Seaman, Taylor Statten, R.H. Hanagan, Camp Ouareau) |
+| Articles advanced | 1 (Camp Weredale stub → draft) |
+| Topics exhausted | E.E. Smee, Macdiarmid, Langille, McEwen, Paterson (all null online) |
+| Key archival leads | P0145/12A (1893 journal, 1895 minutes), P0145/11C (Bannerman file) |

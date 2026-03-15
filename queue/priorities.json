@@ -829,7 +829,9 @@
       "blocking": false,
       "assigned_weight": "P1",
       "created_at": "2026-03-15T00:00:00Z",
-      "status": "in_progress"
+      "status": "completed",
+      "completed_at": "2026-03-15T23:59:00Z",
+      "result": "Phase 2 Campaign 1-2 exhausted. 93 new facts (f_0725-f_0855), 22 new sources, 6 new names. See research-log.md."
     },
     {
       "priority_id": "p_066",
@@ -840,7 +842,9 @@
       "blocking": false,
       "assigned_weight": "P1",
       "created_at": "2026-03-15T00:00:00Z",
-      "status": "in_progress"
+      "status": "completed",
+      "completed_at": "2026-03-15T23:59:00Z",
+      "result": "Phase 2 Campaign 1-2 exhausted. 93 new facts (f_0725-f_0855), 22 new sources, 6 new names. See research-log.md."
     },
     {
       "priority_id": "p_067",
@@ -851,7 +855,9 @@
       "blocking": false,
       "assigned_weight": "P2",
       "created_at": "2026-03-15T00:00:00Z",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-03-15T14:00:00Z",
+      "result": "Cultural elements: YMCA camp songs exhausted online. Camp Ouareau 2014 reconciliation documented."
     },
     {
       "priority_id": "p_068",
@@ -862,7 +868,9 @@
       "blocking": false,
       "assigned_weight": "P2",
       "created_at": "2026-03-15T00:00:00Z",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-03-15T14:00:00Z",
+      "result": "Inter-camp: Camp Ouareau fully researched (21 facts, stub created). Fonds structure mapped. Camp Perrot/Becsies/Dorval identified."
     },
     {
       "priority_id": "p_069",
@@ -908,6 +916,173 @@
       "assigned_weight": "P2",
       "created_at": "2026-03-15T00:00:00Z",
       "status": "blocked"
+    },
+    {
+      "priority_id": "p_073",
+      "rank": 73,
+      "type": "WRITE",
+      "description": "Create Camp Ouareau stub article in wiki/context/ — inter-camp connections context article. 21 KB facts available (f_0880-f_0900) plus 4 pre-existing (f_0807-f_0810). 8 sources.",
+      "article_id": "camp-ouareau",
+      "blocking": false,
+      "assigned_weight": "P2",
+      "created_at": "2026-03-15T06:00:00Z",
+      "status": "pending"
+    },
+    {
+      "priority_id": "p_074",
+      "rank": 74,
+      "type": "RESEARCH",
+      "description": "Deep research on Mabel C. Jamieson — Concordia Archives YMCA fonds may hold personnel records from 1915-1920 era. Also check if Jamieson appears in any Kanawana-era documents. Key question: what was her exact role as 'secretary general' of YMCA Montreal?",
+      "article_id": "camp-ouareau",
+      "blocking": false,
+      "assigned_weight": "P2",
+      "created_at": "2026-03-15T06:00:00Z",
+      "status": "pending"
+    },
+    {
+      "priority_id": "p_075",
+      "rank": 75,
+      "type": "RESEARCH",
+      "description": "Create Camp Oolahwan stub article — YWCA Montreal's camp (1917-2005), founded by Mary Susanna Edgar. Direct connection to Camp Ouareau via Ferna Halliday. Direct connection to Kanawana via inter-camp visits (f_0220, f_0718).",
+      "article_id": "camp-oolahwan",
+      "blocking": false,
+      "assigned_weight": "P3",
+      "created_at": "2026-03-15T06:00:00Z",
+      "status": "pending"
+    },
+    {
+      "priority_id": "p_073",
+      "rank": 73,
+      "type": "RESEARCH",
+      "description": "Fetch and extract Trent University OCA finding aid PDF (ontario-camps-association-fonds.pdf) — may contain detailed file-level Kanawana material listing",
+      "article_id": "canadian-camping-movement",
+      "blocking": false,
+      "assigned_weight": "P1",
+      "created_at": "2026-03-15T00:00:00Z",
+      "status": "pending"
+    },
+    {
+      "priority_id": "p_074",
+      "rank": 74,
+      "type": "RESEARCH",
+      "description": "Search archive.org for digitized Canadian Camping Magazine issues mentioning Kanawana — check 1949-1988 run for Quebec camp content",
+      "article_id": "canadian-camping-movement",
+      "blocking": false,
+      "assigned_weight": "P1",
+      "created_at": "2026-03-15T00:00:00Z",
+      "status": "pending"
+    },
+    {
+      "priority_id": "p_075",
+      "rank": 75,
+      "type": "RESEARCH",
+      "description": "Investigate Derek Walsh — CCA fonds associate Kanawana with Derek Walsh and YMCA Montreal. Identify who this person was and their role.",
+      "article_id": "canadian-camping-movement",
+      "blocking": false,
+      "assigned_weight": "P2",
+      "created_at": "2026-03-15T00:00:00Z",
+      "status": "pending"
+    },
+    {
+      "priority_id": "p_076",
+      "rank": 76,
+      "type": "WRITE",
+      "description": "Update canadian-camping-movement.md with new CCA/QCA/OCA findings — add QCA 1937 founding, Kanawana's ACQ membership, OCA Kanawana file, Concordia archival holdings, reconciliation section",
+      "article_id": "canadian-camping-movement",
+      "blocking": false,
+      "assigned_weight": "P1",
+      "created_at": "2026-03-15T00:00:00Z",
+      "status": "pending"
+    },
+    {
+      "priority_id": "p_077",
+      "rank": 77,
+      "type": "RESEARCH",
+      "description": "Fetch Mary Edgar 109-page university paper from Sundridge-Strong Digital Collection — may contain details on CCA founding and Montreal/Quebec camping connections",
+      "article_id": "canadian-camping-movement",
+      "blocking": false,
+      "assigned_weight": "P2",
+      "created_at": "2026-03-15T00:00:00Z",
+      "status": "pending"
+    },
+    {
+      "priority_id": "p_078",
+      "rank": 78,
+      "type": "RESEARCH",
+      "description": "Research Kirk Wipper's 'Kanawa' museum name — possible etymological connection to 'Kanawana'. Both are Algonquian-derived camp/canoe terms.",
+      "article_id": null,
+      "blocking": false,
+      "assigned_weight": "P3",
+      "created_at": "2026-03-15T00:00:00Z",
+      "status": "pending"
+    },
+    {
+      "priority_id": "p_073",
+      "rank": 73,
+      "type": "RESEARCH",
+      "description": "RALPH R1 for A. Ross Seaman stub → draft: search Concordia Seaman Fund, Dawson College CRLT records, Quebec Camping Association for biographical details and directorship 1959-1967",
+      "article_id": "a-ross-seaman",
+      "blocking": false,
+      "assigned_weight": "P2",
+      "created_at": "2026-03-15T14:00:00Z",
+      "status": "pending"
+    },
+    {
+      "priority_id": "p_074",
+      "rank": 74,
+      "type": "RESEARCH",
+      "description": "Investigate Camp Perrot: What was it? Where was it? When did it operate? Why was it compared to Kanawana in 1945-46 and 1953-54? Concordia 12G is the primary source.",
+      "article_id": null,
+      "blocking": false,
+      "assigned_weight": "P3",
+      "created_at": "2026-03-15T14:00:00Z",
+      "status": "pending"
+    },
+    {
+      "priority_id": "p_075",
+      "rank": 75,
+      "type": "RESEARCH",
+      "description": "Verify Mabel Jamieson's claimed 'secretary general of YMCA Montreal' role (c.1915-1920) vs. possible YWCA conflation. Check Concordia P0145 staff records for her name.",
+      "article_id": "camp-ouareau",
+      "blocking": false,
+      "assigned_weight": "P2",
+      "created_at": "2026-03-15T14:00:00Z",
+      "status": "blocked",
+      "blocked_by": "Requires Concordia Archives access"
+    },
+    {
+      "priority_id": "p_076",
+      "rank": 76,
+      "type": "RESEARCH",
+      "description": "Access and extract Concordia P0145/12A 1893 St. Agathe scouting journal — potentially the founding document of YMCA camping in Quebec. HIGH PRIORITY for in-person visit.",
+      "article_id": "founding-1894",
+      "blocking": false,
+      "assigned_weight": "P1",
+      "created_at": "2026-03-15T14:00:00Z",
+      "status": "blocked",
+      "blocked_by": "Requires Concordia Archives visit"
+    },
+    {
+      "priority_id": "p_077",
+      "rank": 77,
+      "type": "WRITE",
+      "description": "Advance camp-ouareau.md from stub → draft using 21 KB facts and 4+ sources",
+      "article_id": "camp-ouareau",
+      "blocking": false,
+      "assigned_weight": "P3",
+      "created_at": "2026-03-15T14:00:00Z",
+      "status": "pending"
+    },
+    {
+      "priority_id": "p_078",
+      "rank": 78,
+      "type": "VERIFY",
+      "description": "Advance camp-weredale.md from draft → R3-verified: cross-reference all claims against sources",
+      "article_id": "camp-weredale",
+      "blocking": false,
+      "assigned_weight": "P2",
+      "created_at": "2026-03-15T14:00:00Z",
+      "status": "pending"
     }
   ]
 }

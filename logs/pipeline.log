@@ -903,3 +903,173 @@
     - Flickr "Kanawana" account has 4,416 photos (unreviewed)
   EXHAUSTED TOPICS: Billy Ball (25+ searches, zero results), Harold Cross (null), Chopsy legend (null), Richard Kerr composer (null), memorabilia (null), Reddit/alumni groups (null)
   PHASE 2 STATUS: All 8 mandate sections worked. Queue updated with p_065-p_072. research-log.md created in project-docs/.
+
+[2026-03-15T18:00:00Z] RESEARCH — David Leduc deep search (8 web queries)
+  RETRIEVE: Searched 'David Leduc' + YMCA/Kanawana/camp director/Quebec/LinkedIn/outdoor across 8 queries.
+  ANALYZE: LinkedIn profile (davidgleduc) confirmed Kanawana program management role. Development and Peace press release (2015-07-28) and Catholic Register article provide full career timeline. RocketReach confirms current role at Pathways to Education Canada.
+  LOOP: CONCLUDE — sufficient material gathered, no further web sources likely.
+  PROCESS:
+    - Updated f_0755 with expanded biographical details and career timeline
+    - Added source src_devp_leduc_2015
+    - Updated directors-index.md with enriched Leduc entry and R4 research note
+  HYPOTHESIZE:
+    - Kanawana dates still not pinned: LinkedIn does not show exact years
+    - Oxfam-Quebec Lebanon role began Mar 2000, providing terminus ante quem
+    - Given Netherwood (late 1980s-1990s) and Day (2004-2023), Leduc likely served late 1990s
+    - Direct contact with Leduc via LinkedIn or Pathways to Education could confirm exact dates
+    - ICAN role described as '11 years' ending ~2015, suggesting ~2004 start; this leaves 2000-2004 for Oxfam + transition
+
+2026-03-15T00:00:00Z | RESEARCH | Sean Day deep research (RALPH informal)
+  - 8 web searches executed across multiple query variants
+  - CBC News articles (2017, 2021, 2022) confirmed dual title, camp biography, pandemic/staffing decisions
+  - LinkedIn profile found: "Director of Fund Development" (ca.linkedin.com/in/sean-day-13811132)
+  - 3 new sources added: src_cbc_pandemic_camps_2021, src_cbc_camp_staffing_2022, src_cbc_sleepaway_greenlight_2021
+  - 6 new facts added: f_0856 (grew up at camp), f_0857 (dual title), f_0858 (2021 COVID closure), f_0859 (2022 staffing), f_0860 (post-YMCA role), f_0861 (philosophy quote)
+  - directors-index.md Sean Day entry expanded
+  - Total KB facts: 823
+
+=== RALPH LOOP: Edgar E. Smee biographical research ===
+Timestamp: 2026-03-15T04:30:00Z
+Task: RESEARCH (informal RALPH — adding facts from web sources to existing person entry)
+Entity: Edgar E. Smee (E.E. Smee)
+
+RETRIEVE:
+  Searches executed (8 requested + 7 follow-up):
+    1. "E.E. Smee" YMCA Montreal → NULL
+    2. "Smee" YMCA camp director Montreal → NULL
+    3. "E.E. Smee" Montreal obituary → NULL
+    4. "Edward Smee" OR "Ernest Smee" YMCA Montreal → No YMCA match; Edward Jacob Smee (1892-1973) unrelated
+    5. "Smee" Kanawana camp → NULL (Kanawana results but no Smee)
+    6. "E.E. Smee" Montreal 1940s → NULL
+    7. "Smee" YMCA Canada camping → NULL
+    8. "Smee" Montreal boys work → NULL (only Peter Pan results)
+    9. Smee "resident director" YMCA camp → NULL
+    10. "E.E. Smee" Canada → NULL
+    11. Kanawana 1942 "resident director" Montreal Gazette → paywalled newspapers.com results
+    12. "R.H. Hanagan" Kanawana 1942 → NULL
+    13. "Edgar Smee" YMCA Montreal → NULL
+    14. "Edgar Smee" Montreal Quebec → KEY FIND: Globe and Mail obituary (2002) via Legacy.com
+    15. "Edgar Smee" obituary 2002 Ottawa → confirmed details
+
+ANALYZE:
+  KEY DISCOVERY: Edgar E. Smee identified via obituary and EOY Awards:
+    - Full name: Edgar E. Smee
+    - Born: c.1912-1913 in Hamilton, Ontario
+    - Died: February 7, 2002, Glebe Centre, Ottawa, age 89
+    - Wife: Frieda; daughters: Linda, Susan, Sydney, Sonia; brothers: Norman, Leonard
+    - Left Hamilton c.1938 (30-year absence, returned 1968)
+    - 1939: Juvenile section director, Kanawana (McMorris thesis — already in KB as f_0091)
+    - 1942: Resident Director, Kanawana (Gazette 1942-08-05 — already in KB as f_0738, f_0851, f_0855)
+    - 1968: Returned to Hamilton; pollution at Red Hill Creek sparked environmental activism
+    - 1969: Founded CHOP (Clear Hamilton of Pollution), later Conserver Society
+    - 1983: Environmentalist of the Year
+    - 1999: Ed Smee Fund established in his honour (Hamilton Community Foundation)
+  
+  TIMELINE FIT: 30-year absence from Hamilton (c.1938-1968) perfectly brackets his Kanawana service (1939-1942+). Strongly suggests YMCA career based in Montreal during those decades.
+
+PROCESS:
+  New facts added: f_0862 through f_0868 (7 facts)
+  New sources added: src_globe_smee_obit_2002, src_eoy_smee_1983, src_conserver_society_smee_fund
+  Updated: directors-index.md (table entry and War Years narrative expanded)
+
+HYPOTHESIZE:
+  - Concordia YMCA fonds may contain staff lists or personnel records naming Smee 1939-1942+
+  - Hamilton Spectator archives may have more on his environmental career
+  - Smee's 30-year absence (1938-1968) — where was he? Likely Montreal YMCA but unconfirmed
+  - Was he at Kanawana continuously through the 1940s? Only 1939 and 1942 documented
+  - Daughters Linda, Susan, Sydney, Sonia — any camp connections?
+
+2026-03-15T21:00:00Z | RESEARCH | RALPH R6: Dave Twynam deep biographical research
+  - 11 web searches across 8 query variations ("G. David Twynam" VIU, TRU, Lakehead, YMCA, Google Scholar, CV, recreation tourism)
+  - Full career trajectory reconstructed: Kanawana director (~1979) → Lakehead U faculty (by late 1990s) → Dean Tourism UCC/TRU (~1999-2009) → Dean Management VIU (post-2009) → Retired
+  - 8 new sources added: src_researchgate_twynam, src_viu_news_twynam_award, src_tru_newsroom_2009_dean, src_jsm_farrell_1998, src_leisure_twynam_2002, src_tru_newsroom_2008_skills, src_heartofgold_ws, src_leisure_johnston_twynam_1999
+  - 15 new facts added: f_0856 through f_0870
+  - Directors index updated: Twynam entry enriched, gap periods refined
+  - Key finding: Twynam is a well-published academic (10 works, 723 citations) — potential oral history contact for 1970s-80s Kanawana era
+
+2026-03-15T06:00:00Z | RALPH R2 (Formal) | Camp Ouareau deep research — inter-camp connections campaign.
+  Searches executed: 13 web searches across 8 initial + 5 follow-up queries.
+  RETRIEVE: Covered Camp Ouareau history, Mabel Jamieson biography, Ferna Halliday biography, Camp Oolahwan/YWCA Montreal, Camp Oconto, Committee of the Sixteen, OCA founding.
+  ANALYZE: 21 new facts extracted (f_0880-f_0900). 7 new sources added. Key findings:
+    - Mabel C. Jamieson: National Student Secretary YWCA Canada (1915), completed studies at Pupils College Richmond (1918), secretary general YMCA of Montreal (1915-1920), Committee of the Sixteen member (1919). This is the direct YMCA Montreal personnel link to Camp Kanawana.
+    - Ferna G. Halliday: Queen's University graduate, YWCA Montreal secretary (1918-1921), responsible for girls at Camp Oolahwan, co-directed Ouareau 1922-1923, founded Camp Oconto 1924, ran Oconto until 1949, OCA founding member (1933).
+    - Camp Ouareau property acquired 1921 from Mr. Leguerrier — women needed fathers' permission under Quebec law.
+    - Camp Ouareau director succession: Jamieson (1924-?), Percival (1934-1954, bought site 1937), Bertram (1954-?), Raill (1994-present).
+    - Camp Oolahwan: Founded 1917 by Mary Susanna Edgar on Lake Walfred, Sainte-Marguerite-du-Lac-Masson. Operated 1917-2005. Longest YWCA initiative.
+    - Oolahwan centennial at Camp Ouareau: 2017 (dates conflict: Sept 8-10 per YWCA vs Aug 25-27 per West Island Blog).
+    - Camp Ouareau & Glen Bernard Camp (both 1922) = two oldest girls-exclusive camps still operating in Canada.
+    - Camp Ouareau changed Indigenous team names (Iroquois, Algonquin, Micmac) in 2014 — parallel to Kanawana's own naming evolution.
+    - 1941 forest fire near Lac Ouareau threatened but did not damage Camp Ouareau.
+    - YWCA claim that Oolahwan was "first girls camp in Canada" disputed — Camp Northway (1906) predates it.
+  LOOP DECISION: CONCLUDE — good coverage on Camp Ouareau, Oolahwan, Halliday, and Oconto. Jamieson biography remains thin (no independent corroboration of YMCA role beyond Wikipedia/Ouareau site). Archival research needed.
+  New sources: src_ywca_oolahwan_page, src_ywca_oolahwan_centennial, src_camp_oconto_about, src_ourkids_ouareau, src_qctonline_oolahwan, src_westislandblog_oolahwan
+  Dead ends: "Mabel Jamieson" YMCA Montreal secretary (0 results), "Mabel Jamieson" Montreal women's organization (wrong person — NZ nurse), direct YWCA-Kanawana connection search (no results).
+
+2026-03-15T04:30:00Z | RALPH-R1 | CCA-research | RETRIEVE phase
+  Searched: "Canadian Camping Association" history, OCA Trent archives, Mary Edgar CCA, Association des camps du Québec Kanawana, Canadian camping movement YMCA 1930s, Camping Magazine Canada, CCA Centenary Journey 1967, Kirk Wipper, YMCA Camp Waabanaki reconciliation, Quebec Camping Association 1937, Taylor Statten, Concordia YMCA archives
+  Sources found: 12 new sources registered (src_trent_cca_fonds_78_004 through src_ourontario_mary_edgar)
+  Dead ends: Direct page fetches to trentu.ca and concordia.ca returned 403; "Derek Walsh" YMCA Montreal Kanawana returned no results
+
+2026-03-15T04:35:00Z | RALPH-A1 | CCA-research | ANALYZE phase
+  Facts extracted: 23 new facts (f_0880-f_0902)
+  Key findings:
+  - CCA founded May 20, 1936 at Central YMCA Toronto. Officers: Statten (pres), Edgar (VP), Patterson (sec), Donaldson (treas)
+  - Quebec Camping Association formed 1937 as chartered CCA unit. Constitution 1937, revised 1942. Camping school at McGill 1937-1940
+  - OCA fonds at Trent hold "Kanawana (1940)" file in Camp Brochures series AND Kanawana listed among Y camps in Agency Liaison series
+  - CCA fonds at Trent associate "Kamp Kanawana" with Derek Walsh and YMCA Montreal
+  - Concordia 12A sub-series holds: Kanawana/Perrot comparison (c.1945-46), counselor research (1960), Kanawana-Weredale two-site proposal (1977)
+  - Camp Kanawana is currently ACQ-accredited (modern successor to QCA)
+  - CCA published Canadian Camping magazine 1949-1988 (digitized on archive.org)
+  - Centenary Journey 1967: cross-Canada canoe trip organized by CCA/provincial associations
+  - Kirk Wipper's "Kanawa" museum name etymologically interesting re: Kanawana
+  - CCA survey post-TRC found awareness of cultural appropriation in camps but no consensus on addressing it
+  Contradictions: None
+  Stub candidates: None (existing article covers this topic)
+
+2026-03-15T04:40:00Z | RALPH-L1 | CCA-research | LOOP DECISION: CONCLUDE
+  Coverage: Good on CCA founding, QCA formation, archival holdings, Kanawana's organizational connections
+  Saturation: Web sources largely exhausted. Major untapped resources: Trent OCA finding aid PDF, archive.org Canadian Camping Magazine issues, Derek Walsh identity
+  Decision: Conclude this RALPH loop. Register follow-up priorities for archival deep dives.
+
+2026-03-15T04:45:00Z | RALPH-P1 | CCA-research | PROCESS phase
+  KB updated: 23 facts added (f_0880-f_0902), kb_version 4.20 → 4.21
+  Sources updated: 12 sources added, source_count 208 → 220
+  Priorities updated: 6 new priorities added (p_073-p_078)
+
+2026-03-15T04:50:00Z | RALPH-H1 | CCA-research | HYPOTHESIZE phase
+  Follow-up research threads:
+  1. [P1] Trent OCA finding aid PDF — file-level Kanawana material
+  2. [P1] Archive.org Canadian Camping Magazine — search for Kanawana mentions 1949-1988
+  3. [P2] Derek Walsh identity — CCA fonds associate him with Kanawana/YMCA Montreal
+  4. [P1] Update canadian-camping-movement.md with QCA/CCA/OCA findings
+  5. [P2] Mary Edgar 109-page paper — may have CCA founding details
+  6. [P3] "Kanawa" vs "Kanawana" etymology
+  Open questions partially answered:
+  - Q1 (Was Kanawana a CCA/OCA member through Quebec section?) → YES, evidence strong: QCA formed 1937, Kanawana in OCA Agency Liaison files as Y camp, currently ACQ-accredited
+  - Q4 (Trent University Kanawana-specific records?) → YES: OCA fonds has Kanawana (1940) brochure file AND Agency Liaison listing; CCA fonds associate Kanawana with Derek Walsh
+
+2026-03-15T14:00:00Z | PHASE 2 SESSION 2 | Continued wide-net research
+  — Closed p_065, p_066 (completed); opened p_067, p_068 (in_progress)
+  — Advanced camp-weredale.md: stub → draft (16 facts, 6 sources, Frank Crabbe connection)
+  — Created 4 new article stubs:
+    - people/a-ross-seaman.md (director 1959-1967, 7 facts, fills directors gap)
+    - people/taylor-statten.md (16 facts, Canadian camping movement founder)
+    - people/rh-hanagan.md (wartime director 1942/1946, 8 facts)
+    - context/camp-ouareau.md (21 facts, YMCA/YWCA personnel links)
+  — MAJOR DISCOVERY: Full P0145 fonds structure from AtoM finding aid
+    - 14 camping sub-series (12A-12N) mapped in detail
+    - Previously unknown camps: Becsies (1929-1971), Dorval (1926-28), Perrot, Thunderbird, Wilderness Survival
+    - Permanent Camp Committee minutes dating to 1895-96
+    - 1893 St. Agathe scouting journal: "first Montreal YMCA venture to explore the country round about St. Agathe with the view of securing a lake"
+    - Les Voyageurs de la Vérendrye program records 1958-1982 detailed
+  — Biographical research via 9 parallel agents:
+    - G. David Twynam: PhD, career from Kanawana (1979-80) to Lakehead → TRU → VIU dean. SEVMS scale. 723 citations.
+    - Ross Bannerman: International Branch file (1970) found in P0145/11C. 1969 Kanawana report author.
+    - Sean Day: 2004-2023 dual title (Regional Director + Camp Director). Grew up at Kanawana. Now Rossy Foundation.
+    - David Leduc: Career timeline reconstructed (Dalhousie BA → Kanawana → McGill MBA → Dev & Peace → Pathways to Education)
+    - E.E. Smee: Zero online presence (exhausted)
+    - Camp Ouareau: 21 new facts. Director succession 1922-present. Ferna Halliday as OCA founding member.
+    - Mabel Jamieson YMCA/YWCA role disputed (needs archival verification)
+  — KB: v4.19 → v4.22. Facts: 855 → 910 (+55 new facts)
+  — Sources: 208 → 223 (+15 new sources)
+  — Updated articles: founding-1894 (1893 scouting journal), canoe-trips (12K details), sources-index (full fonds structure)

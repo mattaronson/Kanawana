@@ -49,13 +49,23 @@ Concordia University's Records Management uploaded 25+ digitized items to Intern
 
 | Sub-series | Title | Notes |
 |------------|-------|-------|
-| P145 (main) | YMCA of Montreal Fonds | Box HA1874. 14 sub-series (12A–12N). |
+| P145 (main) | YMCA of Montreal Fonds | Box HA1874. 14 camping sub-series (12A–12N). |
 | 1B | History | Harold Cross manuscript, correspondence 1939–1957, Murray Ross correspondence, chapter drafts. |
+| 12A | Committees | Permanent Camp Committee minutes (1895-96!), 1895 St. Agathe scouting journal, Charlton/Dawson/Cushing histories (1933/1943), Boys Camps comparisons (1945-46, 1953-54), Outdoor Education report (1974). |
+| 12B | Kamp Kanawana | 12B01 (admin), 12B02 (finance), 12B03 (land/facilities), 12B04 (communications), 12B05 (staff), 12B06 (campers), 12B07 (program). |
+| 12C | Camp Otoreke | Parallel sub-series to 12B for Camp Otoreke records. |
+| 12D | Camp Becsies | Textual records 1929–1936, 1960–1971. Previously unknown YMCA camp. |
+| 12E | Camp Dorval | Textual records 1926–1928. Short-lived YMCA camp. |
+| 12F | Camp Weredale | YMCA planning documents related to Weredale (1977–1983). |
+| 12G | Camp Perrot | Boys' camp operated alongside Kanawana; compared in reports 1945–46, 1953–54. |
+| 12H | Ski lodge | YMCA ski lodge records. |
+| 12I | Camp Thunderbird | YMCA Camp Thunderbird records. |
+| 12J | Wilderness Survival Camp | Wilderness Survival Camp program records. |
+| 12K | Les Voyageurs de la Vérendrye | Canoe program est. 1958-59. Exploratory logs, Lac Landron lease (1962-63), brochures, camper records (1967-80), review (1982). |
 | 12L | Lac St-Joseph / Camp Jubilee | 1893 camper lists, John Roy 1901 letters, 1898 photo. |
+| 12M | Day camp | Day camp records. |
+| 12N | Camping associations | Camping association correspondence and records. |
 | 14D | National Council | Harold Cross Boys' Work file 1940–1945. Nelson McEwen correspondence 1941–1945. |
-| AtoM | Kamp Kanawana finding aid | Directors reports, staff records, program materials. |
-| 12B04 | Communications | Green Triangle newsletters, camp correspondence. |
-| 12B07 | Program | Firelighting ceremony, fire of friendship texts. |
 
 ### Newspaper Sources (BAnQ / Newspapers.com)
 
