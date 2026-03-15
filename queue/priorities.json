@@ -939,7 +939,8 @@
       "blocking": false,
       "assigned_weight": "P2",
       "created_at": "2026-03-15T06:00:00Z",
-      "status": "pending"
+      "status": "blocked",
+      "result": "Wikipedia source has internal chronological inconsistency (YWCA 1915 vs post-1918 YMCA claim). Web sources exhausted. Requires Concordia Archives P0145 physical consultation. New KB fact f_0944 records the inconsistency."
     },
     {
       "priority_id": "p_075",

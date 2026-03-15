@@ -2,7 +2,7 @@
   "version": "v4.18",
   "kb_version": "4.24",
   "migrated_from": "3.3",
-  "fact_count": 939,
+  "fact_count": 940,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -16043,6 +16043,25 @@
         "Camp Kanawana"
       ],
       "date_ref": "1983",
+      "conflicts_with": [],
+      "added_version": "4.24",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_0944",
+      "claim": "According to the Wikipedia article on Camp Ouareau (sourced from Camp Ouareau history): Mabel C. Jamieson was National Student Secretary of the YWCA of Canada in 1915. After completing studies in 1918 at 'Pupils College in Richmond,' she 'became secretary general of the Y.M.C.A. of Montreal at least from 1915 to 1920.' The chronology is inconsistent (YWCA role 1915 precedes 1918 studies), suggesting possible source confusion. She was also a member of the Committee of the Sixteen in 1919 and 'made a career in teaching.'",
+      "sources": [
+        "src_ouareau_wikipedia"
+      ],
+      "confidence": "disputed",
+      "category": "people",
+      "entities": [
+        "Mabel C. Jamieson",
+        "YMCA",
+        "YWCA",
+        "Camp Ouareau"
+      ],
+      "date_ref": "1915-1920",
       "conflicts_with": [],
       "added_version": "4.24",
       "added_by": "ralph_loop"

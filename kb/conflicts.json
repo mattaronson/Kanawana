@@ -24,6 +24,18 @@
       "notes": "Two sources give different weekend dates for the same event at Camp Ouareau. Neither source has been verified as authoritative.",
       "created_at": "2026-03-15T13:30:00Z",
       "affects_articles": ["camp-ouareau"]
+    },
+    {
+      "conflict_id": "c_003",
+      "description": "Taylor Statten ACA presidency year: 1941 vs 1942",
+      "fact_ids": ["f_0938", "f_0892"],
+      "entity": "Taylor Statten",
+      "attribute": "aca_presidency_year",
+      "values": ["1941 (ACA Presidents page — elected 1941, resigned due to illness)", "1942 (CCA history source)"],
+      "status": "unresolved",
+      "notes": "ACA official presidents list says 1941 with illness resignation; CCA-derived fact says 1942. May reflect election year vs service year distinction.",
+      "created_at": "2026-03-15T15:00:00Z",
+      "affects_articles": ["taylor-statten", "canadian-camping-movement"]
     }
   ]
 }

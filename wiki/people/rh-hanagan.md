@@ -1,7 +1,7 @@
 # R.H. Hanagan
 
-*Status: draft | Sources: src_mcmorris_thesis, src_concordia_fonds, src_concordia_atom_fonds, src_gazette_1942_parade*
-*Last Updated: 2026-03-15 (WRITE pass — stub → draft, RALPH R1 complete)*
+*Status: R3-verified | Sources: src_mcmorris_thesis, src_concordia_fonds, src_concordia_atom_fonds, src_newspapers_gazette_1942, src_cfcf_1941*
+*Last Updated: 2026-03-15 (VERIFY pass — R3 review, corrections applied)*
 
 ## Overview
 
@@ -9,9 +9,9 @@ R.H. Hanagan served as Montreal YMCA camp director in 1942 and 1946, a period th
 
 ## Appointment and Directorship Structure
 
-No director is documented between Howie Langille, who served as Camp Chief/Director in 1941 (the 48th season, with 68 staff and over 30 British wartime evacuees), and Hanagan's confirmed presence in 1942, suggesting direct succession.^1
+No director is documented between Howie Langille, who served as Camp Chief/Director in 1941 (the 48th season, with 68 staff and over 30 British wartime evacuees), and Hanagan's confirmed presence in 1942, suggesting direct succession.^1 ^5
 
-The 1942 season documented a two-tier directorship structure: Hanagan held the title "Camp Director" while E.E. Smee held the title "Resident Director."^3 Smee had previously served as Juvenile section director in 1939.^1 This arrangement suggests Hanagan served as overall supervisor of YMCA camping operations while Smee managed day-to-day camp life at Kanawana.
+The 1942 season documented a two-tier directorship structure: Hanagan held the title "Camp Director" while Edgar E. Smee held the title "Resident Director."^3 Smee had previously served as Juvenile section director in 1939.^1 This arrangement suggests Hanagan served as overall supervisor of YMCA camping operations while Smee managed day-to-day camp life at Kanawana.
 
 ## 1942 Season
 
@@ -25,7 +25,7 @@ His detailed report on the outbreak is held in the Concordia Archives sub-series
 
 ## Broader YMCA Role
 
-The Concordia Archives (P0145/12A) place Hanagan's report alongside system-wide documents including a "Comparison of Two Boys Camps operated by Montreal YMCA" (comparing Kanawana and Camp Perrot, c.1945–46), a "Report of the Montreal YMCA Camps for Boys and Girls" (1946), and an ACA Conference report to the Camp Board of Management (1946).^2 ^4 This archival grouping confirms that Hanagan's portfolio extended beyond Kanawana to encompass the broader Montreal YMCA camping system.
+The Concordia Archives (P0145/12A) place Hanagan's report alongside system-wide documents including a "Comparison of Two Boys Camps operated by Montreal YMCA" (comparing Kanawana and Camp Perrot, c.1945–46), a "Report of the Montreal YMCA Camps for Boys and Girls" (1946), and an ACA Conference report to the Camp Board of Management (1946).^2 ^4 This archival grouping suggests that Hanagan's portfolio extended beyond Kanawana to encompass the broader Montreal YMCA camping system.
 
 ## Open Questions
 
@@ -48,3 +48,4 @@ The Concordia Archives (P0145/12A) place Hanagan's report alongside system-wide 
 2. Concordia University Archives: YMCA of Montreal fonds P0145/12A — Hanagan season reports, YMCA camping system documents.
 3. Montreal Gazette, August 5, 1942: "Y.M.C.A. Boys Stage Parade and Circus." Hanagan and Smee titles, section names, camp event description.
 4. Concordia University Archives AtoM finding aid: P0145/12A Camping and Outdoor Education sub-series.
+5. CFCF radio broadcast (1941): Langille season details, staff count, British evacuees.

@@ -2580,7 +2580,7 @@
       "article_id": "taylor-statten",
       "title": "Taylor Statten and the Canadian Camping Movement",
       "wiki_folder": "people",
-      "status": "draft",
+      "status": "R3-verified",
       "status_history": [
         {
           "status": "stub",
@@ -2593,6 +2593,12 @@
           "at": "2026-03-15T13:00:00Z",
           "by": "auto",
           "task": "WRITE"
+        },
+        {
+          "status": "R3-verified",
+          "at": "2026-03-15T15:00:00Z",
+          "by": "auto",
+          "task": "VERIFY"
         }
       ],
       "ralph_loops_completed": 2,
@@ -2616,11 +2622,10 @@
       ],
       "sources_cited": [
         "src_mcmorris_thesis",
-        "src_pine_crest_encyclopedia",
-        "src_oca_archives",
-        "src_wikipedia_cca",
         "src_tsc_history",
         "src_wikipedia_tuxis",
+        "src_oca_archives",
+        "src_wikipedia_cca",
         "src_aca_presidents"
       ],
       "open_questions": 4,
@@ -2637,7 +2642,7 @@
       "article_id": "rh-hanagan",
       "title": "R.H. Hanagan",
       "wiki_folder": "people",
-      "status": "draft",
+      "status": "R3-verified",
       "status_history": [
         {
           "status": "stub",
@@ -2650,6 +2655,12 @@
           "at": "2026-03-15T13:00:00Z",
           "by": "auto",
           "task": "WRITE"
+        },
+        {
+          "status": "R3-verified",
+          "at": "2026-03-15T15:00:00Z",
+          "by": "auto",
+          "task": "VERIFY"
         }
       ],
       "ralph_loops_completed": 2,
@@ -2667,7 +2678,8 @@
         "src_mcmorris_thesis",
         "src_concordia_fonds",
         "src_concordia_atom_fonds",
-        "src_gazette_1942_parade"
+        "src_newspapers_gazette_1942",
+        "src_cfcf_1941"
       ],
       "open_questions": 4,
       "cross_links": [
