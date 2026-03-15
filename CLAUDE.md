@@ -290,3 +290,188 @@ Priority factors: available sources, related KB facts, cross-links, human-assign
 - `wiki graph` — Cross-reference visualization
 - `wiki plan <n>` — Suggest next N actions
 - `wiki export` — Export wiki as markdown folder
+
+---
+
+# CLAUDE.md — Phase 2 Amendment: Wide-Net Research
+*Effective: 2026-03-14. Supersedes the "stop and wait" instruction when the priority queue is blocked.*
+
+## What Has Changed
+
+Phase 1 exhausted all priorities achievable through structured web research on known sources.
+Phase 2 expands the search mandate significantly. The operator does not have time to supply
+content manually. The agent must find its own way forward using wider and deeper search.
+
+## Standing Order When Queue Is Empty or Fully Blocked
+
+Do not stop. Generate new priorities autonomously from the tasks below, add them to the queue,
+and work them in priority order. Stop only for true dead-ends requiring physical archive access
+or oral history from the operator.
+
+---
+
+## Phase 2 Research Mandate
+
+### 1. Open Questions — Systematic Pursuit
+
+Work through the ~35 Critical open questions one at a time. For each:
+- Generate 5–10 distinct search queries across different search strategies (name variants,
+  associated institutions, date ranges, related people)
+- Try Google, Google News Archive, Google Books, HathiTrust, Internet Archive full-text search,
+  Newspapers.com public access, and BAnQ public catalog
+- If a person's name appears (e.g. "Billy Ball," "Harold Cross"), do full biographical research
+  before concluding "unknown" — obituary databases, family tree sites (Ancestry public trees,
+  FamilySearch, Généalogie Québec), LinkedIn, university alumni records, YMCA organizational
+  histories
+- Log every search attempted and its result (even null results) so the same ground is not
+  re-covered
+
+### 2. People — Biographical Research
+
+For every named individual in the KB who lacks a standalone article and has ≥3 facts, assess
+whether a biography is warranted. Priority targets:
+
+- All directors in the 1947–2003 gap (find names first via YMCA annual reports, newspaper
+  coverage, alumni materials)
+- Billy Ball — full name, YMCA role, dates
+- Harold C. Cross — birth/death, biography
+- W.E. Cushing / Dr. Cushing disambiguation
+- Ralph Dawson — role and biographical detail (rewrite lost article)
+- Any new names surfaced during research
+
+For each, search: obituaries (Gazette archive public access, Legacy.com, Find A Grave),
+university records, YMCA Montreal historical mentions, Lower Canada College archives mentions,
+McGill and Concordia yearbooks (many digitized on Internet Archive).
+
+### 3. Cultural Elements — Songs, Cheers, Traditions, Stories
+
+**Songs:** Search lyrics databases, folk music archives, YMCA song collections on Internet
+Archive, sheet music databases (IMSLP, Library of Congress), and camp music scholarship.
+The "Alabama Jubilee" connection already found is a model — look for similar origins for other
+known songs. Search specifically for Richard Kerr as a composer in YMCA or camp contexts.
+
+**Cheers and section names:** Search for other YMCA camps with similar section systems
+(Scouts, Colonists, Rovers, etc.) — the naming conventions may have a common origin in the
+camping movement literature.
+
+**The Chopsy legend:** Search for "Chopsy" + camp, Quebec camps ghost stories, YMCA camp
+legends. Check if any camp memoir or published oral history mentions it.
+
+**Traditions generally:** Search Google Books and HathiTrust for "Camp Kanawana" (exact phrase),
+"Kanawana" + YMCA + tradition/ritual/ceremony. Check if any academic work on summer camp culture
+in Canada references Kanawana traditions.
+
+### 4. Visual and Material Culture
+
+**Photos and film:**
+- Flickr: search "Camp Kanawana," "Kanawana," "YMCA camp Saint-Sauveur," "Lake Wilson Quebec"
+- Google Images with date filters
+- Internet Archive moving image collection: search "Kanawana" and "YMCA Montreal camp"
+- YouTube: search "Camp Kanawana," "Kanawana 1993 documentary," "Stuart McLean Kanawana"
+- Library and Archives Canada photo database (collectionscanada.gc.ca)
+- McCord Museum digital collection (musee-mccord.qc.ca)
+
+**Maps:**
+- NRCan historical topographic maps (toporama.ca and geogratis.gc.ca) — Saint-Sauveur quad
+  maps from different eras
+- BAnQ cartographic collection
+- Library and Archives Canada cartographic collection
+
+**Merchandise and paraphernalia:**
+- eBay: search "Camp Kanawana," "Kanawana pennant," "Kanawana badge," "YMCA camp Quebec pennant"
+- Etsy vintage camp memorabilia searches
+- WorthPoint and similar collectibles databases
+- Document any items found: description, date estimate, seller/location — existence and
+  description is factual record even if not purchasable
+
+**Architecture:**
+- CCA online collection: fetch the full Ross & Macdonald finding aid page and document all
+  Kanawana-related drawings by title, date, medium, and dimensions
+- Search Bibliothèque nationale for any published architectural documentation
+
+### 5. Inter-Camp and Institutional Connections
+
+**Other YMCA camps:** Research Camp Weredale, Camp Ouareau, and other Quebec YMCA camps —
+shared staff, programming traditions, history with Kanawana, mentions in their own histories.
+
+**Lower Canada College:** Search LCC archives mentions, LCC alumni publications, "Lower Canada
+College" + "Kanawana" combinations.
+
+**McGill and Concordia:** Search digital collections and student newspaper archives (McGill Daily
+and Georgian are partially digitized) for Kanawana mentions, camp advertisements, alumni references.
+
+**Canadian camping movement:** Search Ontario Camping Association archives, Canadian Camping
+Association publications, and academic work on organized camping in Canada for Kanawana references.
+
+**The YMCA internationally:** Search YMCA USA and international publications for references to
+Montreal YMCA camps, particularly 1890–1930.
+
+### 6. Newspaper Research — Expanded
+
+- **Montreal Star** (1869–1979): BAnQ numerique — fetch search results pages even if full
+  articles are blocked
+- **The Standard** (Montreal): some issues digitized
+- **La Presse** and **Le Devoir** BAnQ public access pages
+- **Google News Archive** (news.google.com/newspapers): "Kanawana," "Camp Kanawana,"
+  "YMCA camp Montreal"
+- **Chronicling America** (LOC): U.S. papers sometimes covered the Canadian YMCA camp movement
+- Saint-Sauveur and Laurentians local historical press
+
+For each hit: extract who/what/when/where facts, add to KB with source, update relevant articles.
+
+### 7. Social Media and Alumni Networks
+
+Search public content only:
+- **Facebook:** "Camp Kanawana" public posts, groups, pages — document existence of alumni
+  groups, note any historical photos or facts mentioned publicly
+- **Reddit:** r/montreal, r/Quebec, r/camping searches for "Kanawana"
+- **Instagram/TikTok:** hashtags #campkanawana, #kanawana
+- **LinkedIn:** "Camp Kanawana" in experience field — may surface staff names from undocumented periods
+
+Do not extract personal information about living private individuals. Extract only institutional
+facts, historical information, and information about public figures.
+
+### 8. Autonomous Article Spawning
+
+Spawn new article stubs for any of the following once ≥5 facts exist:
+- The 1994 Centennial
+- Camp Weredale and its relationship to Kanawana
+- YMCA Montreal institutional history as it relates to camp
+- Notable Alumni (collective article, or individual stubs if warranted)
+- The Physical Plant and Infrastructure
+- Environmental and Ecological History
+- Winter Programming (if evidence found)
+- Indigenous Place Names and Land History
+
+---
+
+## What "Exhausted" Means in Phase 2
+
+A search topic is exhausted only when:
+1. At least 8 distinct queries have been attempted across at least 3 different search surfaces
+2. All results have been read and any facts extracted
+3. The null result is logged in the source record
+
+Do not declare a person or topic "unknown" after 2–3 searches. Phase 1 found the Alabama
+Jubilee connection, the Ross & Macdonald drawings, and the Hedley Dimock father-son story —
+all from non-obvious sources. Phase 2 requires the same persistence.
+
+---
+
+## Output: Ongoing
+
+Continue saving state, updating KB and articles, and pushing to Drive on the same schedule.
+Add a `research-log.md` in `project-docs/` recording each Phase 2 search campaign: topic,
+queries tried, surfaces searched, results.
+
+---
+
+## Pending Priority — Oral History Interview Protocol
+
+Add to the priority queue: **DRAFT_ORAL_HISTORY_INSTRUMENT** (status: pending, blocked on
+Phase 2 research completion).
+
+When blocked items p_045 (Chopsy legend), p_048 (songs and cheers), and p_051 (Grand Portage
+and Longhouse) are ready to action, draft a structured oral history interview document for the
+operator before requesting any input. Do not ask ad hoc questions — prepare the full interview
+instrument first, then present it in a single session request.
