@@ -39,6 +39,7 @@ The Concordia Archives (P0145/12A) place Hanagan's report alongside system-wide 
 ## Related Articles
 
 - [[people/directors-index|Directors and Staff of Camp Kanawana]]
+- [[people/edgar-smee|Edgar E. Smee]]
 - [[people/cushing-family|The Cushing Family and YMCA Camping]]
 - [[chronology/wartime-kanawana|Wartime Kanawana]]
 - [[programs/traditions-and-culture|Traditions and Culture at Kanawana]]

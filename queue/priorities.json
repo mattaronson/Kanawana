@@ -1129,6 +1129,67 @@
       "status": "completed",
       "completed_at": "2026-03-15T16:00:00Z",
       "result": "5+ issues confirmed on archive.org. 1974 CCA conference proceedings found. Sources registered. Full-text Kanawana search blocked by 403."
+    },
+    {
+      "priority_id": "p_081",
+      "rank": 81,
+      "type": "RESEARCH",
+      "description": "Create Dave Twynam stub article — Camp director c.1979, later academic at Lakehead University. 18 KB facts available. Strong candidate for people stub.",
+      "article_id": "dave-twynam",
+      "blocking": false,
+      "assigned_weight": "P2",
+      "created_at": "2026-03-15T17:30:00Z",
+      "status": "completed",
+      "completed_at": "2026-03-15T17:30:00Z",
+      "result": "Dave Twynam stub created. 18 KB facts, 9 sources. Camp director c.1979, later Dean at TRU and VIU. SEVMS volunteer research. 5 open questions."
+    },
+    {
+      "priority_id": "p_082",
+      "rank": 82,
+      "type": "RESEARCH",
+      "description": "Create Voyageur Canoe Pageant stub article — 1967 centennial event, 3,283 mile canoe route to Expo 67. 14 KB facts available. Event with own history and Kanawana connection.",
+      "article_id": "voyageur-canoe-pageant",
+      "blocking": false,
+      "assigned_weight": "P3",
+      "created_at": "2026-03-15T17:30:00Z",
+      "status": "completed",
+      "completed_at": "2026-03-15T17:30:00Z",
+      "result": "Voyageur Canoe Pageant stub created. 14 KB facts, 4 sources. 3,283-mile race May-Sept 1967. Manitoba won. Don Starkell participated. 4 open questions."
+    },
+    {
+      "priority_id": "p_083",
+      "rank": 83,
+      "type": "RESEARCH",
+      "description": "Create Edgar Smee stub article — Resident Director 1942, Juvenile section director 1939, died 2002. 8 KB facts. Named camp figure with documented roles.",
+      "article_id": "edgar-smee",
+      "blocking": false,
+      "assigned_weight": "P3",
+      "created_at": "2026-03-15T17:30:00Z",
+      "status": "completed",
+      "completed_at": "2026-03-15T17:30:00Z",
+      "result": "Edgar Smee stub created. 11 KB facts, 5 sources. Juvenile director 1939, Resident Director 1942. Later Hamilton environmentalist. Died 2002. 4 open questions."
+    },
+    {
+      "priority_id": "p_084",
+      "rank": 84,
+      "type": "RESEARCH",
+      "description": "Create Terry Mosher/Aislin stub article — Kanawana camper 1952-53, Montreal Gazette cartoonist since 1972, Pip Award 2015. 7 KB facts. Notable alumnus.",
+      "article_id": "terry-mosher",
+      "blocking": false,
+      "assigned_weight": "P4",
+      "created_at": "2026-03-15T17:30:00Z",
+      "status": "pending"
+    },
+    {
+      "priority_id": "p_085",
+      "rank": 85,
+      "type": "RESEARCH",
+      "description": "Create Sean Day stub article — Director 2004-2023, 19-year tenure, longest-serving modern director. 14 KB facts. Recent period with web-researchable sources.",
+      "article_id": "sean-day",
+      "blocking": false,
+      "assigned_weight": "P3",
+      "created_at": "2026-03-15T17:30:00Z",
+      "status": "pending"
     }
   ]
 }

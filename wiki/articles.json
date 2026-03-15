@@ -2859,6 +2859,150 @@
       ],
       "file_id": null,
       "word_count": 550
+    },
+    {
+      "article_id": "dave-twynam",
+      "title": "Dave Twynam",
+      "wiki_folder": "people",
+      "status": "stub",
+      "status_history": [
+        {
+          "status": "stub",
+          "at": "2026-03-15T17:30:00Z",
+          "by": "auto",
+          "task": "RESEARCH"
+        }
+      ],
+      "ralph_loops_completed": 1,
+      "kb_facts_used": [
+        "f_0752",
+        "f_0847",
+        "f_0856",
+        "f_0857",
+        "f_0858",
+        "f_0859",
+        "f_0860",
+        "f_0861",
+        "f_0862",
+        "f_0863",
+        "f_0864",
+        "f_0865",
+        "f_0866",
+        "f_0867",
+        "f_0868",
+        "f_0869",
+        "f_0870",
+        "f_0907"
+      ],
+      "sources_cited": [
+        "src_concordia_12B01",
+        "src_jsm_farrell_1998",
+        "src_leisure_twynam_2002",
+        "src_viu_news_twynam_award",
+        "src_tru_newsroom_2008_skills",
+        "src_tru_newsroom_2009_dean",
+        "src_researchgate_twynam",
+        "src_heartofgold_ws",
+        "src_linkedin_twynam"
+      ],
+      "open_questions": 5,
+      "cross_links": [
+        "directors-index",
+        "programs-activities",
+        "a-ross-seaman"
+      ],
+      "file_id": null,
+      "word_count": 650
+    },
+    {
+      "article_id": "voyageur-canoe-pageant",
+      "title": "The Centennial Voyageur Canoe Pageant (1967)",
+      "wiki_folder": "chronology",
+      "status": "stub",
+      "status_history": [
+        {
+          "status": "stub",
+          "at": "2026-03-15T17:30:00Z",
+          "by": "auto",
+          "task": "RESEARCH"
+        }
+      ],
+      "ralph_loops_completed": 1,
+      "kb_facts_used": [
+        "f_0270",
+        "f_0271",
+        "f_0272",
+        "f_0273",
+        "f_0274",
+        "f_0275",
+        "f_0276",
+        "f_0277",
+        "f_0278",
+        "f_0279",
+        "f_0285",
+        "f_0387",
+        "f_0391",
+        "f_0392"
+      ],
+      "sources_cited": [
+        "src_mcmorris_thesis",
+        "src_wikipedia_voyageur_pageant",
+        "src_mb_sports_hof",
+        "src_dean_jcs"
+      ],
+      "open_questions": 4,
+      "cross_links": [
+        "centennial-1967",
+        "canoe-trips",
+        "canadian-camping-movement",
+        "taylor-statten"
+      ],
+      "file_id": null,
+      "word_count": 550
+    },
+    {
+      "article_id": "edgar-smee",
+      "title": "Edgar E. Smee",
+      "wiki_folder": "people",
+      "status": "stub",
+      "status_history": [
+        {
+          "status": "stub",
+          "at": "2026-03-15T17:30:00Z",
+          "by": "auto",
+          "task": "RESEARCH"
+        }
+      ],
+      "ralph_loops_completed": 1,
+      "kb_facts_used": [
+        "f_0091",
+        "f_0738",
+        "f_0851",
+        "f_0855",
+        "f_0862",
+        "f_0863",
+        "f_0864",
+        "f_0865",
+        "f_0866",
+        "f_0867",
+        "f_0868"
+      ],
+      "sources_cited": [
+        "src_mcmorris_thesis",
+        "src_newspapers_gazette_1942",
+        "src_globe_smee_obit_2002",
+        "src_eoy_smee_1983",
+        "src_conserver_society_smee_fund"
+      ],
+      "open_questions": 4,
+      "cross_links": [
+        "rh-hanagan",
+        "directors-index",
+        "wartime-kanawana",
+        "section-names"
+      ],
+      "file_id": null,
+      "word_count": 500
     }
   ]
 }
