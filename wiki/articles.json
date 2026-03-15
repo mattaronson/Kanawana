@@ -630,7 +630,7 @@
       "article_id": "ralph-dawson",
       "title": "Ralph Dawson",
       "wiki_folder": "people",
-      "status": "R3-verified",
+      "status": "E1-reviewed",
       "status_history": [
         {
           "status": "stub",
@@ -655,6 +655,12 @@
           "at": "2026-03-15T12:30:00Z",
           "by": "auto",
           "task": "VERIFY"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-03-15T13:30:00Z",
+          "by": "auto",
+          "task": "REVIEW"
         }
       ],
       "ralph_loops_completed": 2,
@@ -2510,7 +2516,7 @@
       "article_id": "a-ross-seaman",
       "title": "A. Ross Seaman",
       "wiki_folder": "people",
-      "status": "R3-verified",
+      "status": "E1-reviewed",
       "status_history": [
         {
           "status": "stub",
@@ -2529,6 +2535,12 @@
           "at": "2026-03-15T12:30:00Z",
           "by": "auto",
           "task": "VERIFY"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-03-15T13:30:00Z",
+          "by": "auto",
+          "task": "REVIEW"
         }
       ],
       "ralph_loops_completed": 1,
@@ -2669,7 +2681,7 @@
       "article_id": "camp-ouareau",
       "title": "Camp Ouareau and Its Connections to Kanawana",
       "wiki_folder": "context",
-      "status": "R3-verified",
+      "status": "E1-reviewed",
       "status_history": [
         {
           "status": "stub",
@@ -2688,6 +2700,12 @@
           "at": "2026-03-15T12:30:00Z",
           "by": "auto",
           "task": "VERIFY"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-03-15T13:30:00Z",
+          "by": "auto",
+          "task": "REVIEW"
         }
       ],
       "ralph_loops_completed": 1,

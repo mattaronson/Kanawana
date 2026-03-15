@@ -1,7 +1,7 @@
 # Ralph Dawson
 
-*Status: R3-verified | Sources: src_concordia_fonds, src_concordia_12L, src_concordia_atom_fonds, src_concordia_atom_12A, src_mcmorris_thesis, src_web_search_2026_03*
-*Last Updated: 2026-03-15 (VERIFY pass — R3 review, corrections applied)*
+*Status: E1-reviewed | Sources: src_concordia_fonds, src_concordia_12L, src_concordia_atom_fonds, src_concordia_atom_12A, src_mcmorris_thesis, src_web_search_2026_03*
+*Last Updated: 2026-03-15 (E1 REVIEW pass — editorial issues fixed, status advanced)*
 
 ## Overview
 
@@ -15,24 +15,15 @@ Dawson appears in an 1898 photograph labelled "YMCA Camp - Lac St. Joseph" at Ca
 
 In 1933, Dawson wrote a document titled "History of Kamp Kanawana," which is held in Concordia University Archives sub-series 12A (Camping and Outdoor Education).^2 ^3 This history is distinct from the anonymous 1935 season chronicle "A History of Kamp Kanawana" that was later digitized on Internet Archive (dated August 23, 1935, published by the YMCA of Montreal).^4 According to Dawson's history, the meaning of the name "Kanawana" was not learned until years after the name was adopted.^5
 
-The fact that Dawson authored the earliest known written history of the camp in 1933 suggests he held a position of authority or esteem within the camp community. Whether he served as camp director in 1933 is unconfirmed; the directors-index lists him with a question mark for that year.
+Whether Dawson served as camp director in 1933 is unconfirmed. His role at the time of writing is unknown.
 
 ## Association with R. L. Charlton
 
 The Concordia Archives hold photographs of R. H. Dawson and R. L. Charlton listed together in sub-series 12L (Lac St-Joseph / Camp Jubilee), suggesting they were associates in the early camp movement.^1 Charlton later wrote "Notes re Early Days of YMCA Camps at Lake St. Joseph and Kanawana" in 1943, and W. E. Cushing wrote "Historical sketches — Lake St. Joseph" the same year.^2 Together, these three individuals produced the primary historical accounts of the camp's earliest period.^1 ^2
 
-## Research Findings (March 2026)
+## Archival Access
 
-A systematic web search across eight query variations produced no results beyond the Concordia archival finding aids:^6
-
-- No obituary for a Ralph Dawson connected to Montreal was found.
-- No genealogical records were found on Ancestry, FamilySearch, or Genealogy Quebec.
-- No Montreal city directory listings were found in digitized collections.
-- No mention in the Grace McMorris thesis (2023) search results, though the full thesis PDF was inaccessible during this session.
-- The name "R.H. Dawson" returned zero results when searched alone with YMCA Montreal.
-- His online footprint is entirely confined to the Concordia University Archives finding aids.
-
-The absence of digitized records indicates that resolving these questions will require consultation of the Concordia Archives physical holdings, particularly the 1933 manuscript itself.
+Systematic web searching in March 2026 across obituary databases (Ancestry, FamilySearch, Genealogy Quebec), Montreal city directories, and general web sources produced no biographical results for Dawson beyond the Concordia University Archives finding aids.^6 Resolving the open questions will require consultation of the Concordia Archives physical holdings, particularly the 1933 manuscript.
 
 ## Open Questions
 
@@ -56,4 +47,4 @@ The absence of digitized records indicates that resolving these questions will r
 3. Concordia University AtoM finding aid: P0145/12A Camping and Outdoor Education sub-series. URL: https://concordia.accesstomemory.org/ymca-of-montreal-fonds-2
 4. "A History of Kamp Kanawana" (1935 Season Chronicle), Internet Archive. URL: https://archive.org/details/a-history-of-kamp-kanawana-1935. Confirmed as distinct from Dawson's 1933 history.
 5. McMorris thesis (Ch. 1): Name origin discussion citing Dawson. Note: secondary access — McMorris cites the 1933 Dawson manuscript; the manuscript itself is undigitized.
-6. Web search results, March 15, 2026: Eight systematic queries across web search, obituary databases, genealogy platforms. No biographical hits.
+6. Web search results, March 15, 2026: Eight queries across Google, Ancestry, FamilySearch, Genealogy Quebec, and Montreal city directory databases. Queries included "Ralph Dawson" YMCA Montreal, "R.H. Dawson" YMCA, "Ralph Dawson" obituary Montreal, and variants. No biographical hits beyond Concordia Archives finding aids.

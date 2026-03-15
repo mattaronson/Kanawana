@@ -1,11 +1,11 @@
 # Camp Ouareau and Its Connections to Kanawana
 
-*Status: R3-verified | Sources: src_ouareau_history, src_ouareau_wikipedia, src_camp_oconto, src_mcmorris_thesis, src_ywca_oolahwan_page, src_ywca_oolahwan_centennial*
-*Last Updated: 2026-03-15 (VERIFY pass — R3 review, corrections applied)*
+*Status: E1-reviewed | Sources: src_ouareau_history, src_ouareau_wikipedia, src_camp_oconto, src_mcmorris_thesis, src_ywca_oolahwan_page, src_ywca_oolahwan_centennial*
+*Last Updated: 2026-03-15 (E1 REVIEW pass — editorial issues fixed, date conflict logged, status advanced)*
 
 ## Overview
 
-Camp Ouareau is an all-girls summer camp (now serving girls and gender minorities aged 6–16) on Lac Ouareau in Notre-Dame-de-la-Merci, Quebec. Founded in 1922 by Mabel C. Jamieson and Ferna G. Halliday, it is one of the two oldest summer camps exclusively for young girls still in operation in Canada.^1 Its connection to Camp Kanawana is through the YMCA/YWCA Montreal personnel network: Jamieson held a senior role in the YMCA or YWCA of Montreal during the same period Kanawana was establishing its program, and Camp Oolahwan (YWCA, est. 1917) campers visited Kanawana in 1946.
+Camp Ouareau is an all-girls summer camp (now serving girls and gender minorities aged 6–16) on Lac Ouareau in Notre-Dame-de-la-Merci, Quebec. Founded in 1922 by Mabel C. Jamieson and Ferna G. Halliday, according to the camp's official history, it is one of the two oldest summer camps exclusively for young girls still in operation in Canada.^1 Its connection to Camp Kanawana is through the YMCA/YWCA Montreal personnel network: Jamieson held a senior role in the YMCA or YWCA of Montreal during the same period Kanawana was establishing its program, and Camp Oolahwan (YWCA, est. 1917) campers visited Kanawana in 1946.
 
 ## Founding and Early History
 
@@ -31,9 +31,9 @@ The Lodge, built in 1922, is one of the oldest log buildings still in use in Can
 
 ## Connection to Kanawana
 
-The Jamieson–YMCA Montreal link represents a direct personnel connection between Camp Ouareau and the organization that ran Camp Kanawana. Additionally, Camp Oolahwan (YWCA, est. 1917) sent visitors to Kanawana; in 1946, Kanawana campers were covered in cocoa powder to greet Oolahwan visitors as "Indians."^6 The Camp Oolahwan centennial reunion was held at Camp Ouareau in 2017 (date disputed: YWCA source gives September 8–10; West Island Blog gives August 25–27).^7
+Jamieson's role at the YMCA or YWCA of Montreal placed her within the same organization that operated Camp Kanawana.^4 Camp Oolahwan (YWCA, est. 1917) also sent visitors to Kanawana; in 1946, Kanawana campers were covered in cocoa powder to greet Oolahwan visitors as "Indians."^6 The Camp Oolahwan centennial reunion was held at Camp Ouareau in 2017 (date disputed: YWCA source gives September 8–10; West Island Blog gives August 25–27).^7
 
-In 2014, Camp Ouareau changed its team names from Iroquois, Algonquin, and Micmac, shifting away from Indigenous appropriation — a parallel to broader reconciliation efforts across Canadian camps.^8
+In 2014, Camp Ouareau changed its team names from Iroquois, Algonquin, and Micmac.^8
 
 ## Open Questions
 
@@ -51,11 +51,13 @@ In 2014, Camp Ouareau changed its team names from Iroquois, Algonquin, and Micma
 
 ## Sources
 
-1. Camp Ouareau official history page (campouareau.com).
-2. Camp Ouareau property details.
-3. Camp Ouareau Lodge — oldest log building claim.
-4. Wikipedia: Camp Ouareau; Camp Ouareau history page (Jamieson role disputed).
-5. Camp Oconto history; OCA founding records.
-6. McMorris thesis: 1946 Oolahwan visit incident.
-7. YWCA Camp Oolahwan centennial reunion announcement.
-8. Camp Ouareau 2014 team name changes.
+1. Camp Ouareau official history page. URL: https://www.campouareau.com/history
+2. Camp Ouareau property details (campouareau.com).
+3. Camp Ouareau Lodge description (campouareau.com).
+4. Wikipedia, "Camp Ouareau." URL: https://en.wikipedia.org/wiki/Camp_Ouareau — Jamieson YMCA/YWCA role disputed.
+4b. Camp Ouareau history page (campouareau.com) — Jamieson role claim.
+5. Camp Oconto history (campoconto.com). Halliday biography and OCA founding.
+5b. Ontario Camping Association, "History." URL: https://ontariocampsassociation.ca/about/history/ — OCA founding members.
+6. McMorris, Grace (2023). "An Experience That Lasts a Lifetime." MA thesis, Concordia University. 1946 Oolahwan visit incident.
+7. YWCA Camp Oolahwan centennial reunion announcement (dates disputed — see conflicts.json).
+8. Camp Ouareau 2014 team name change announcement (campouareau.com).
