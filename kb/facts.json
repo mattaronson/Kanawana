@@ -2,7 +2,7 @@
   "version": "v4.18",
   "kb_version": "4.24",
   "migrated_from": "3.3",
-  "fact_count": 938,
+  "fact_count": 939,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -16023,6 +16023,26 @@
         "R.H. Hanagan"
       ],
       "date_ref": "1946",
+      "conflicts_with": [],
+      "added_version": "4.24",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_0943",
+      "claim": "Derek Walsh (ACQ \u2014 Association des camps du Qu\u00e9bec) received the CCA Award of Excellence in 1983. The CCA fonds at Trent University Archives associates him with 'Kamp Kanawana, YMCA, Montreal, Quebec.'",
+      "sources": [
+        "src_cca_awards_page",
+        "src_trent_cca_fonds"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "Derek Walsh",
+        "CCA",
+        "ACQ",
+        "Camp Kanawana"
+      ],
+      "date_ref": "1983",
       "conflicts_with": [],
       "added_version": "4.24",
       "added_by": "ralph_loop"

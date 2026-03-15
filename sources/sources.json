@@ -3729,7 +3729,39 @@
       "extraction_version": null,
       "reliability": "secondary",
       "notes": "MA thesis on TSC history. Not yet downloaded."
+    },
+    {
+      "source_id": "src_cca_awards_page",
+      "type": "web",
+      "title": "CCA Awards Page",
+      "date": "2026",
+      "date_precision": "year",
+      "origin": "web",
+      "origin_url": "https://ccamping.org/awards.php",
+      "cache_path": null,
+      "char_count": 0,
+      "ingested_at": "2026-03-15T14:30:00Z",
+      "extracted": true,
+      "extraction_version": "4.24",
+      "reliability": "primary",
+      "notes": "CCA Award of Excellence recipients list. Derek Walsh (ACQ) 1983."
+    },
+    {
+      "source_id": "src_trent_cca_fonds",
+      "type": "catalog_reference",
+      "title": "Trent University Archives \u2014 CCA fonds 78-004",
+      "date": "2026",
+      "date_precision": "year",
+      "origin": "web",
+      "origin_url": "https://archives.trentu.ca/index.php/78-004",
+      "cache_path": null,
+      "char_count": 0,
+      "ingested_at": "2026-03-15T14:30:00Z",
+      "extracted": true,
+      "extraction_version": "4.24",
+      "reliability": "primary",
+      "notes": "CCA archival fonds at Trent. Associates Derek Walsh with Kamp Kanawana/YMCA Montreal."
     }
   ],
-  "source_count": 233
+  "source_count": 235
 }

@@ -926,7 +926,9 @@
       "blocking": false,
       "assigned_weight": "P2",
       "created_at": "2026-03-15T06:00:00Z",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-03-15T14:00:00Z",
+      "result": "Already completed in earlier work."
     },
     {
       "priority_id": "p_074",
@@ -1027,7 +1029,9 @@
       "blocking": false,
       "assigned_weight": "P2",
       "created_at": "2026-03-15T14:00:00Z",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-03-15T14:00:00Z",
+      "result": "Already completed in earlier work."
     },
     {
       "priority_id": "p_074",
@@ -1075,7 +1079,9 @@
       "blocking": false,
       "assigned_weight": "P3",
       "created_at": "2026-03-15T14:00:00Z",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-03-15T14:00:00Z",
+      "result": "Already completed in earlier work."
     },
     {
       "priority_id": "p_078",
@@ -1086,7 +1092,9 @@
       "blocking": false,
       "assigned_weight": "P2",
       "created_at": "2026-03-15T14:00:00Z",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-03-15T14:00:00Z",
+      "result": "Already completed in earlier work."
     },
     {
       "priority_id": "p_079",
@@ -1097,7 +1105,9 @@
       "blocking": false,
       "assigned_weight": "P2",
       "created_at": "2026-03-15T12:00:00Z",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-03-15T14:30:00Z",
+      "result": "Derek Walsh identified: CCA Award of Excellence recipient 1983 (ACQ). CCA fonds at Trent confirms association with Kamp Kanawana/YMCA Montreal. No further biographical details found online."
     },
     {
       "priority_id": "p_080",

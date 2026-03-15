@@ -60,7 +60,7 @@ The CCA published *Canadian Camping* magazine from 1949 to 1988; digitized issue
 
 ## Open Questions
 
-1. [Important] Who was Derek Walsh, and what was his role connecting Kanawana to the CCA? The CCA fonds at Trent associates him with Kamp Kanawana and the YMCA.
+1. [Important] Who was Derek Walsh beyond his CCA connection? He received the CCA Award of Excellence in 1983 representing the ACQ, and the CCA fonds at Trent associates him with Kamp Kanawana/YMCA Montreal.^8m His specific role at Kanawana (director? program leader? committee member?) remains unknown.
 2. [Important] Did any Kanawana directors attend OCA or CCA meetings or serve in leadership roles?
 3. [Important] How did Kanawana's programming compare to the Taylor Statten model? Both used woodcraft, Indigenous themes, and character development.
 4. [Important] What do the 1937–1940 McGill camping school records contain? This training program may have involved Kanawana staff.
@@ -100,6 +100,7 @@ The CCA published *Canadian Camping* magazine from 1949 to 1988; digitized issue
 8j. Trent University Archives, CCA fonds: Derek Walsh / YMCA Montreal / Kamp Kanawana.
 8k. Concordia University Archives, P0145/12A: "History of Camping" notes (1936).
 8l. Concordia University Archives, P0145/12N03: CCA founding, QCA constitution, camping school, camp/official lists.
+8m. CCA Awards page (ccamping.org/awards.php): Derek Walsh (ACQ), CCA Award of Excellence, 1983.
 12. CCA, *Canadian Camping* magazine (1949-1988). Digitized via Internet Archive.
 
 ## Research Notes
