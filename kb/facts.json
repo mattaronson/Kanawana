@@ -1,8 +1,8 @@
 {
   "version": "v4.18",
-  "kb_version": "4.23",
+  "kb_version": "4.24",
   "migrated_from": "3.3",
-  "fact_count": 922,
+  "fact_count": 938,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -6360,7 +6360,7 @@
     },
     {
       "fact_id": "f_0381",
-      "claim": "Lemuel Cushing Sr. (1806-1875) was a businessman and pioneer in the Ottawa valley, born in Trois-Rivières, married Catherine Hutchins 1836, had 13 children including 8 sons",
+      "claim": "Lemuel Cushing Sr. (1806-1875) was a businessman and pioneer in the Ottawa valley, born in Trois-Rivi\u00e8res, married Catherine Hutchins 1836, had 13 children including 8 sons",
       "sources": [
         "src_dcb_cushing"
       ],
@@ -6517,7 +6517,7 @@
     },
     {
       "fact_id": "f_0390",
-      "claim": "Don Starkell, Manitoba Voyageur Canoe Pageant team member, later paddled from Winnipeg to Belém, Brazil (12,181 miles), setting a Guinness World Record for longest canoe journey",
+      "claim": "Don Starkell, Manitoba Voyageur Canoe Pageant team member, later paddled from Winnipeg to Bel\u00e9m, Brazil (12,181 miles), setting a Guinness World Record for longest canoe journey",
       "sources": [
         "src_wikipedia_starkell"
       ],
@@ -6605,7 +6605,7 @@
     },
     {
       "fact_id": "f_0395",
-      "claim": "The Concordia University Archives (YMCA of Montreal fonds P0145, sub-series 1B) holds a manuscript copy of '100 Years of Service to Youth' by Harold C. Cross (1951), draft copies of chapters II, IV, V, VI of the History of the Montreal YMCA 1851-1951, printers' quotations for the book, and book orders — all from 1951",
+      "claim": "The Concordia University Archives (YMCA of Montreal fonds P0145, sub-series 1B) holds a manuscript copy of '100 Years of Service to Youth' by Harold C. Cross (1951), draft copies of chapters II, IV, V, VI of the History of the Montreal YMCA 1851-1951, printers' quotations for the book, and book orders \u2014 all from 1951",
       "sources": [
         "src_concordia_fonds_1B"
       ],
@@ -7434,7 +7434,7 @@
     },
     {
       "fact_id": "f_0443",
-      "claim": "BAnQ (Bibliothèque et Archives nationales du Québec) received or processed YMCA de Montréal archival materials in 1985, documented in Bordereaux nos 18 of the Fonds Archives nationales du Québec (Advitam notice 519920).",
+      "claim": "BAnQ (Biblioth\u00e8que et Archives nationales du Qu\u00e9bec) received or processed YMCA de Montr\u00e9al archival materials in 1985, documented in Bordereaux nos 18 of the Fonds Archives nationales du Qu\u00e9bec (Advitam notice 519920).",
       "sources": [
         "src_banq_advitam_519920"
       ],
@@ -7467,7 +7467,7 @@
     },
     {
       "fact_id": "f_0445",
-      "claim": "Lac Kanawana is located at coordinates 45°51'6.01\"N, 74°11'40.99\"W, at an elevation of 319 metres above sea level.",
+      "claim": "Lac Kanawana is located at coordinates 45\u00b051'6.01\"N, 74\u00b011'40.99\"W, at an elevation of 319 metres above sea level.",
       "sources": [
         "src_wikidata_lac_kanawana"
       ],
@@ -7814,7 +7814,7 @@
     },
     {
       "fact_id": "f_0465",
-      "claim": "The Rangers program at Kanawana runs from late June to mid-July, for ages 15-16, and provides DAFA certification from the Conseil Québécois du Loisir (CQL).",
+      "claim": "The Rangers program at Kanawana runs from late June to mid-July, for ages 15-16, and provides DAFA certification from the Conseil Qu\u00e9b\u00e9cois du Loisir (CQL).",
       "sources": [
         "src_ymca_website"
       ],
@@ -8109,7 +8109,7 @@
     },
     {
       "fact_id": "f_0482",
-      "claim": "The only person literally named 'Lemuel Cushing' alive in Montreal in 1892 was Lemuel Cushing (b. 1875), son of James Brock Cushing, who was 16 years old — too young to lead a YMCA camping trip. Walter Edgar Cushing (b. 1870, Lemuel Jr.'s eldest son) was 22 and Harold Beveridge Cushing (b. 1873) was 19.",
+      "claim": "The only person literally named 'Lemuel Cushing' alive in Montreal in 1892 was Lemuel Cushing (b. 1875), son of James Brock Cushing, who was 16 years old \u2014 too young to lead a YMCA camping trip. Walter Edgar Cushing (b. 1870, Lemuel Jr.'s eldest son) was 22 and Harold Beveridge Cushing (b. 1873) was 19.",
       "sources": [
         "src_cushing_genealogy"
       ],
@@ -8703,7 +8703,7 @@
     },
     {
       "fact_id": "f_0516",
-      "claim": "J.W. McConnell's mother was Margaret Anne (née Wilson) McConnell; his middle name 'Wilson' came from his mother's maiden name.",
+      "claim": "J.W. McConnell's mother was Margaret Anne (n\u00e9e Wilson) McConnell; his middle name 'Wilson' came from his mother's maiden name.",
       "sources": [
         "src_wikipedia_mcconnell"
       ],
@@ -8736,7 +8736,7 @@
     },
     {
       "fact_id": "f_0518",
-      "claim": "J.W. McConnell had four children: Wilson Griffith (1908–1966), John Griffith (1911–1974), Kathleen Griffith (1918–2012), and David Griffith (1923–1963). All bore the middle name Griffith after their mother's maiden name.",
+      "claim": "J.W. McConnell had four children: Wilson Griffith (1908\u20131966), John Griffith (1911\u20131974), Kathleen Griffith (1918\u20132012), and David Griffith (1923\u20131963). All bore the middle name Griffith after their mother's maiden name.",
       "sources": [
         "src_wikipedia_mcconnell"
       ],
@@ -8756,7 +8756,7 @@
     },
     {
       "fact_id": "f_0519",
-      "claim": "Wilson Griffith McConnell (1908–1966) was J.W. McConnell's eldest son. He managed St. Lawrence Sugar Refineries and married Marjorie Wallace.",
+      "claim": "Wilson Griffith McConnell (1908\u20131966) was J.W. McConnell's eldest son. He managed St. Lawrence Sugar Refineries and married Marjorie Wallace.",
       "sources": [
         "src_wikipedia_mcconnell"
       ],
@@ -8843,7 +8843,7 @@
     },
     {
       "fact_id": "f_0524",
-      "claim": "There are two separate lakes named 'Lac Wilson' in the broader Kanawana region: one within the Camp Kanawana property (near Mille-Isles) and another in Saint-Adolphe-d'Howard approximately 20–30 km northwest.",
+      "claim": "There are two separate lakes named 'Lac Wilson' in the broader Kanawana region: one within the Camp Kanawana property (near Mille-Isles) and another in Saint-Adolphe-d'Howard approximately 20\u201330 km northwest.",
       "sources": [
         "src_mysummercamps_kanawana"
       ],
@@ -9165,7 +9165,7 @@
     },
     {
       "fact_id": "f_0543",
-      "claim": "The Kamp Kanawana Marching Song (also called the Kanawana Cheer) is a call-and-response cheer that includes 'Hail, hail, the gang's all here' as its refrain. It is the most widely known Kanawana cheer. The song's lost verses — originally part of a three-verse song — were rediscovered in the Kanawana Archives at Concordia University in 2006. Only the first verse survives in the modern cheer.",
+      "claim": "The Kamp Kanawana Marching Song (also called the Kanawana Cheer) is a call-and-response cheer that includes 'Hail, hail, the gang's all here' as its refrain. It is the most widely known Kanawana cheer. The song's lost verses \u2014 originally part of a three-verse song \u2014 were rediscovered in the Kanawana Archives at Concordia University in 2006. Only the first verse survives in the modern cheer.",
       "sources": [
         "src_spirit_kanawana_blog"
       ],
@@ -9263,7 +9263,7 @@
     },
     {
       "fact_id": "f_0549",
-      "claim": "A 'musicale' — a formal musical performance — was held during the eighth week of the 1935 Kanawana season, described as 'a program without precedent in the annals of Kanawana' and 'a fine effort much appreciated by the whole camp.' This is the earliest documented formal musical event at Kanawana.",
+      "claim": "A 'musicale' \u2014 a formal musical performance \u2014 was held during the eighth week of the 1935 Kanawana season, described as 'a program without precedent in the annals of Kanawana' and 'a fine effort much appreciated by the whole camp.' This is the earliest documented formal musical event at Kanawana.",
       "sources": [
         "src_history_1935"
       ],
@@ -9401,7 +9401,7 @@
     },
     {
       "fact_id": "f_0557",
-      "claim": "On May 16, 2023, a fire completely destroyed the superintendent's house (maison du surintendant) at Camp Kanawana. The building was located on Montée Sainte-Elmire in the Spring Valley sector, isolated from the campers' area. A passerby called firefighters at 6 AM. Twenty-five firefighters from Saint-Sauveur, Morin-Heights, and Sainte-Anne-des-Lacs responded. No injuries (camp was unoccupied). Cause undetermined. Total loss.",
+      "claim": "On May 16, 2023, a fire completely destroyed the superintendent's house (maison du surintendant) at Camp Kanawana. The building was located on Mont\u00e9e Sainte-Elmire in the Spring Valley sector, isolated from the campers' area. A passerby called firefighters at 6 AM. Twenty-five firefighters from Saint-Sauveur, Morin-Heights, and Sainte-Anne-des-Lacs responded. No injuries (camp was unoccupied). Cause undetermined. Total loss.",
       "sources": [
         "src_journal_acces_fire_2023"
       ],
@@ -9674,7 +9674,7 @@
     },
     {
       "fact_id": "f_0573",
-      "claim": "The architectural firm Ross & Macdonald designed a 'Doctor's Cottage for Kamp Kanawana'. Architectural drawings are held in the Ross & Macdonald fonds at the Canadian Centre for Architecture (CCA). Ross & Macdonald also designed 'several buildings for the YMCA in Montréal (1909-13)', including the NDG YMCA Building.",
+      "claim": "The architectural firm Ross & Macdonald designed a 'Doctor's Cottage for Kamp Kanawana'. Architectural drawings are held in the Ross & Macdonald fonds at the Canadian Centre for Architecture (CCA). Ross & Macdonald also designed 'several buildings for the YMCA in Montr\u00e9al (1909-13)', including the NDG YMCA Building.",
       "sources": [
         "src_cca_ross_macdonald_kanawana"
       ],
@@ -10565,7 +10565,7 @@
     },
     {
       "fact_id": "f_0625",
-      "claim": "Leigh Evans described Camp Kanawana's 'Party Barge' — a large raft decorated for celebrations, used for a surprise birthday party for a 12-year-old camper. She credited Kanawana with shaping her career as an educator.",
+      "claim": "Leigh Evans described Camp Kanawana's 'Party Barge' \u2014 a large raft decorated for celebrations, used for a surprise birthday party for a 12-year-old camper. She credited Kanawana with shaping her career as an educator.",
       "sources": [
         "src_leigh_evans_blog"
       ],
@@ -10755,7 +10755,7 @@
     },
     {
       "fact_id": "f_0636",
-      "claim": "Frank Edward Crabbe (born 1946, died February 16, 1966), ex-Weredale Boy and Camp Lewis counsellor c.1964-65, enlisted in the US Marine Corps January 7, 1965 in Albany, NY; assigned to Lima Co, 3rd Battalion, 5th Marines. Killed in action south of Hill 190, Ho Vang District, Quang Nam Province. Died of extreme burns at NSA Navy Hospital, Da Nang. Buried at Cimetière Notre-Dame-des-Neiges, Montreal",
+      "claim": "Frank Edward Crabbe (born 1946, died February 16, 1966), ex-Weredale Boy and Camp Lewis counsellor c.1964-65, enlisted in the US Marine Corps January 7, 1965 in Albany, NY; assigned to Lima Co, 3rd Battalion, 5th Marines. Killed in action south of Hill 190, Ho Vang District, Quang Nam Province. Died of extreme burns at NSA Navy Hospital, Da Nang. Buried at Cimeti\u00e8re Notre-Dame-des-Neiges, Montreal",
       "sources": [
         "src_blog_frank_crabbe"
       ],
@@ -10791,7 +10791,7 @@
     },
     {
       "fact_id": "f_0638",
-      "claim": "In 1934, the Rotary Club of Westmount purchased 260 acres with a mile of shoreline on Lac l'Achigan, 55 miles north of Montreal, for Camp Weredale — the summer camp for Weredale House boys",
+      "claim": "In 1934, the Rotary Club of Westmount purchased 260 acres with a mile of shoreline on Lac l'Achigan, 55 miles north of Montreal, for Camp Weredale \u2014 the summer camp for Weredale House boys",
       "sources": [
         "src_blog_frank_crabbe"
       ],
@@ -10897,7 +10897,7 @@
     },
     {
       "fact_id": "f_0644",
-      "claim": "In 1926, Msgr. McShane founded Camp Kinkora on 3 km² of private land near Saint-Adolphe-d'Howard for English Catholic children. Philanthropist Charles Pripstein also built a camp for Jewish children in the area. The creation of Camp Otoreke 'marked the beginning of a wave of tourism for Saint-Adolphe that never dried up'",
+      "claim": "In 1926, Msgr. McShane founded Camp Kinkora on 3 km\u00b2 of private land near Saint-Adolphe-d'Howard for English Catholic children. Philanthropist Charles Pripstein also built a camp for Jewish children in the area. The creation of Camp Otoreke 'marked the beginning of a wave of tourism for Saint-Adolphe that never dried up'",
       "sources": [
         "src_baladodecouverte_howard"
       ],
@@ -11104,7 +11104,7 @@
     },
     {
       "fact_id": "f_0656",
-      "claim": "A third Hedley Dimock — Hedley Gilbert Dimock, Pilot Officer (Flight Engineer), RCAF, service number C/92344 — died June 27, 1944 in a take-off accident in India. He is buried at Madras War Cemetery. His father was Charles Albert Dimock, a different family line from H.S. Dimock's father Charles Turner Torry Dimock.",
+      "claim": "A third Hedley Dimock \u2014 Hedley Gilbert Dimock, Pilot Officer (Flight Engineer), RCAF, service number C/92344 \u2014 died June 27, 1944 in a take-off accident in India. He is buried at Madras War Cemetery. His father was Charles Albert Dimock, a different family line from H.S. Dimock's father Charles Turner Torry Dimock.",
       "sources": [
         "src_veterans_dimock_gilbert"
       ],
@@ -11154,7 +11154,7 @@
     },
     {
       "fact_id": "f_0659",
-      "claim": "Hedley G. Dimock published 'Improving Communication Skills through Training' in the Journal of Communication, Vol. 11, Issue 3 (1961) — his earliest known publication. He also published Group Development (1966, Sir George Williams University edition) and the first edition of How to Observe Your Group (1970, solo author).",
+      "claim": "Hedley G. Dimock published 'Improving Communication Skills through Training' in the Journal of Communication, Vol. 11, Issue 3 (1961) \u2014 his earliest known publication. He also published Group Development (1966, Sir George Williams University edition) and the first edition of How to Observe Your Group (1970, solo author).",
       "sources": [
         "src_snac_dimock"
       ],
@@ -11352,7 +11352,7 @@
     },
     {
       "fact_id": "f_0671",
-      "claim": "A. Ross Seaman served as director of Kamp Kanawana from 1959 to 1967. He oversaw the 1959 section renaming and the La Vérendrye expansion.",
+      "claim": "A. Ross Seaman served as director of Kamp Kanawana from 1959 to 1967. He oversaw the 1959 section renaming and the La V\u00e9rendrye expansion.",
       "sources": [
         "src_mcmorris_thesis"
       ],
@@ -11369,7 +11369,7 @@
     },
     {
       "fact_id": "f_0672",
-      "claim": "The name 'Kanawana' does not exist in Kanien'kéha (the Mohawk language). The closest attested Kanien'kéha term is 'kanà:wa' meaning 'swamp'. McMorris notes the phonetic similarity to Kahnawá:ke.",
+      "claim": "The name 'Kanawana' does not exist in Kanien'k\u00e9ha (the Mohawk language). The closest attested Kanien'k\u00e9ha term is 'kan\u00e0:wa' meaning 'swamp'. McMorris notes the phonetic similarity to Kahnaw\u00e1:ke.",
       "sources": [
         "src_mcmorris_thesis"
       ],
@@ -11433,7 +11433,7 @@
     },
     {
       "fact_id": "f_0676",
-      "claim": "By 1945, canoe trip routes were codified into a tiered system: 3-day Lachute trip for beginners, 7-8 day trips to Île Perrot and Grenville for intermediates, and a 10-day Ottawa River trip for seniors.",
+      "claim": "By 1945, canoe trip routes were codified into a tiered system: 3-day Lachute trip for beginners, 7-8 day trips to \u00cele Perrot and Grenville for intermediates, and a 10-day Ottawa River trip for seniors.",
       "sources": [
         "src_mcmorris_thesis"
       ],
@@ -11449,7 +11449,7 @@
     },
     {
       "fact_id": "f_0677",
-      "claim": "The La Vérendrye canoe trip program was formally named 'Les Voyageurs de La Vérendrye.' The YMCA secured a 25-acre lease at Lac Landron as a base camp.",
+      "claim": "The La V\u00e9rendrye canoe trip program was formally named 'Les Voyageurs de La V\u00e9rendrye.' The YMCA secured a 25-acre lease at Lac Landron as a base camp.",
       "sources": [
         "src_mcmorris_thesis"
       ],
@@ -11457,7 +11457,7 @@
       "category": "canoe_trips",
       "entities": [
         "Kamp Kanawana",
-        "La Vérendrye"
+        "La V\u00e9rendrye"
       ],
       "date_ref": "1959",
       "conflicts_with": [],
@@ -11466,7 +11466,7 @@
     },
     {
       "fact_id": "f_0678",
-      "claim": "In 1959, eighteen canoe trips went out from the Pathfinder section alone during the first season at La Vérendrye.",
+      "claim": "In 1959, eighteen canoe trips went out from the Pathfinder section alone during the first season at La V\u00e9rendrye.",
       "sources": [
         "src_mcmorris_thesis"
       ],
@@ -11482,7 +11482,7 @@
     },
     {
       "fact_id": "f_0679",
-      "claim": "By 1964, over twenty canoe trips were departing each season from La Vérendrye.",
+      "claim": "By 1964, over twenty canoe trips were departing each season from La V\u00e9rendrye.",
       "sources": [
         "src_mcmorris_thesis"
       ],
@@ -11579,7 +11579,7 @@
     },
     {
       "fact_id": "f_0685",
-      "claim": "During WWII, Kanawana hosted campers from England, France, Scotland, and Poland — not only British evacuees.",
+      "claim": "During WWII, Kanawana hosted campers from England, France, Scotland, and Poland \u2014 not only British evacuees.",
       "sources": [
         "src_mcmorris_thesis"
       ],
@@ -11595,7 +11595,7 @@
     },
     {
       "fact_id": "f_0686",
-      "claim": "The Pagé farm was purchased in 1960 as an expansion of the Kanawana camp property.",
+      "claim": "The Pag\u00e9 farm was purchased in 1960 as an expansion of the Kanawana camp property.",
       "sources": [
         "src_mcmorris_thesis"
       ],
@@ -13058,7 +13058,7 @@
     },
     {
       "fact_id": "f_0751",
-      "claim": "Camp Kanawana's motto is 'Non Nobis Solum' — 'Not for ourselves alone.'",
+      "claim": "Camp Kanawana's motto is 'Non Nobis Solum' \u2014 'Not for ourselves alone.'",
       "sources": [
         "src_ymca_canada_history"
       ],
@@ -13555,7 +13555,7 @@
     },
     {
       "fact_id": "f_0840",
-      "claim": "Since Lemuel Cushing Jr. died in 1881, the 'Lemuel Cushing' who led the 1892 YMCA camping trip to Lake Saint-Joseph must be a third-generation Cushing — either a son of Lemuel Jr. or a grandson of Lemuel Sr. bearing the family name. James Stevenson Cushing (1878-1957), author of the 1905 genealogy update, was born in Quebec and is likely a son or close relative of Lemuel Jr.",
+      "claim": "Since Lemuel Cushing Jr. died in 1881, the 'Lemuel Cushing' who led the 1892 YMCA camping trip to Lake Saint-Joseph must be a third-generation Cushing \u2014 either a son of Lemuel Jr. or a grandson of Lemuel Sr. bearing the family name. James Stevenson Cushing (1878-1957), author of the 1905 genealogy update, was born in Quebec and is likely a son or close relative of Lemuel Jr.",
       "sources": [
         "src_biographi_cushing_lemuel",
         "src_wikipedia_cushing_jr"
@@ -13573,7 +13573,7 @@
     },
     {
       "fact_id": "f_0841",
-      "claim": "The motto 'Non Nobis Solum' derives from Cicero's De Officiis (1:22): 'non nobis solum nati sumus ortusque nostri partem patria vindicat, partem amici' — 'Not for us alone are we born; our country, our friends, have a share in us.' It is itself a translation of a sentiment from Plato.",
+      "claim": "The motto 'Non Nobis Solum' derives from Cicero's De Officiis (1:22): 'non nobis solum nati sumus ortusque nostri partem patria vindicat, partem amici' \u2014 'Not for us alone are we born; our country, our friends, have a share in us.' It is itself a translation of a sentiment from Plato.",
       "sources": [
         "src_wikipedia_non_nobis_solum"
       ],
@@ -13609,7 +13609,7 @@
     },
     {
       "fact_id": "f_0843",
-      "claim": "The Pagé family has deep roots in Saint-Sauveur. Boulangerie Pagé was established in 1903; Édouard Pagé acquired it in 1914. 'Domaine-Pagé' is a named locality in Saint-Sauveur. The 'Page family' from whom the YMCA acquired the camp property is almost certainly this Pagé family.",
+      "claim": "The Pag\u00e9 family has deep roots in Saint-Sauveur. Boulangerie Pag\u00e9 was established in 1903; \u00c9douard Pag\u00e9 acquired it in 1914. 'Domaine-Pag\u00e9' is a named locality in Saint-Sauveur. The 'Page family' from whom the YMCA acquired the camp property is almost certainly this Pag\u00e9 family.",
       "sources": [
         "src_lesaffaires_boulangerie_page",
         "src_ymca_website"
@@ -13617,7 +13617,7 @@
       "confidence": "inferred",
       "category": "places",
       "entities": [
-        "Pagé family",
+        "Pag\u00e9 family",
         "Camp Kanawana",
         "Saint-Sauveur"
       ],
@@ -13682,7 +13682,7 @@
     },
     {
       "fact_id": "f_0847",
-      "claim": "Dave Twynam (G. David Twynam) was camp director of Kamp Kanawana circa 1979. He later became an academic specializing in outdoor recreation, tourism, and event management — Dean of Faculty of Management at Vancouver Island University and previously at Thompson Rivers University.",
+      "claim": "Dave Twynam (G. David Twynam) was camp director of Kamp Kanawana circa 1979. He later became an academic specializing in outdoor recreation, tourism, and event management \u2014 Dean of Faculty of Management at Vancouver Island University and previously at Thompson Rivers University.",
       "sources": [
         "src_concordia_12B01"
       ],
@@ -13762,7 +13762,7 @@
     },
     {
       "fact_id": "f_0852",
-      "claim": "Ross Bannerman authored a 'Report on Kamp Kanawana' in 1969 (Concordia Archives), suggesting a senior role at the camp — possibly director — during that period.",
+      "claim": "Ross Bannerman authored a 'Report on Kamp Kanawana' in 1969 (Concordia Archives), suggesting a senior role at the camp \u2014 possibly director \u2014 during that period.",
       "sources": [
         "src_concordia_12B01"
       ],
@@ -14267,7 +14267,7 @@
     },
     {
       "fact_id": "f_0868",
-      "claim": "Twynam's career trajectory: YMCA Camp Kanawana director (~1979) → Lakehead University faculty, School of Outdoor Recreation, Parks & Tourism (by late 1990s) → Dean, School of Tourism, University College of the Cariboo / Thompson Rivers University (~1999-2009) → Dean, Faculty of Management, Vancouver Island University (post-2009) → Retired.",
+      "claim": "Twynam's career trajectory: YMCA Camp Kanawana director (~1979) \u2192 Lakehead University faculty, School of Outdoor Recreation, Parks & Tourism (by late 1990s) \u2192 Dean, School of Tourism, University College of the Cariboo / Thompson Rivers University (~1999-2009) \u2192 Dean, Faculty of Management, Vancouver Island University (post-2009) \u2192 Retired.",
       "sources": [
         "src_concordia_12B01",
         "src_jsm_farrell_1998",
@@ -14324,7 +14324,7 @@
     },
     {
       "fact_id": "f_0871",
-      "claim": "The Concordia University Archives YMCA of Montreal fonds (P0145) sub-series 12 covers Camping and Outdoor Programs, with the following camp-specific sub-series: 12A (Committees), 12B (Kamp Kanawana), 12C (Camp Otoreke), 12D (Camp Becsies), 12E (Camp Dorval), 12F (Camp Weredale), 12G (Camp Perrot), 12H (Ski lodge), 12I (Camp Thunderbird), 12J (Wilderness Survival Camp), 12K (Les Voyageurs de la Vérendrye), 12L (Lac St-Joseph/Camp Jubilee), 12M (Day camp), 12N (Camping associations).",
+      "claim": "The Concordia University Archives YMCA of Montreal fonds (P0145) sub-series 12 covers Camping and Outdoor Programs, with the following camp-specific sub-series: 12A (Committees), 12B (Kamp Kanawana), 12C (Camp Otoreke), 12D (Camp Becsies), 12E (Camp Dorval), 12F (Camp Weredale), 12G (Camp Perrot), 12H (Ski lodge), 12I (Camp Thunderbird), 12J (Wilderness Survival Camp), 12K (Les Voyageurs de la V\u00e9rendrye), 12L (Lac St-Joseph/Camp Jubilee), 12M (Day camp), 12N (Camping associations).",
       "sources": [
         "src_concordia_atom_fonds"
       ],
@@ -14340,7 +14340,7 @@
         "Camp Weredale",
         "Camp Perrot",
         "Camp Thunderbird",
-        "Les Voyageurs de la Vérendrye",
+        "Les Voyageurs de la V\u00e9rendrye",
         "Camp Jubilee"
       ],
       "date_ref": null,
@@ -14405,16 +14405,16 @@
     },
     {
       "fact_id": "f_0875",
-      "claim": "Les Voyageurs de la Vérendrye was a YMCA Montreal canoe-tripping program that began with exploratory trip logs from 1958 and a La Vérendrye Park pilot project proposed budget c.1959. The program leased land at Lac Landron in 1962-63, produced brochures by 1963, and maintained camper records from 1967-1980, with a review booklet in 1982.",
+      "claim": "Les Voyageurs de la V\u00e9rendrye was a YMCA Montreal canoe-tripping program that began with exploratory trip logs from 1958 and a La V\u00e9rendrye Park pilot project proposed budget c.1959. The program leased land at Lac Landron in 1962-63, produced brochures by 1963, and maintained camper records from 1967-1980, with a review booklet in 1982.",
       "sources": [
         "src_concordia_atom_12K"
       ],
       "confidence": "stated",
       "category": "canoe_trips",
       "entities": [
-        "Les Voyageurs de la Vérendrye",
+        "Les Voyageurs de la V\u00e9rendrye",
         "YMCA of Montreal",
-        "La Vérendrye",
+        "La V\u00e9rendrye",
         "Lac Landron"
       ],
       "date_ref": "1958-1982",
@@ -14424,7 +14424,7 @@
     },
     {
       "fact_id": "f_0876",
-      "claim": "The modern YMCA Kanawana Voyageurs program descends from the Les Voyageurs de la Vérendrye program (est. 1958-59). Current offerings include: 12-Day Travelers (Voyageurs) paddling the Coulonge, Dumoine, and Noire Rivers; Adventurers Coureurs des Bois (4-6 day introductory canoe trips in La Vérendrye Wildlife Reserve); and 26-Day Voyageurs Ultimate (21-day white water canoe trip).",
+      "claim": "The modern YMCA Kanawana Voyageurs program descends from the Les Voyageurs de la V\u00e9rendrye program (est. 1958-59). Current offerings include: 12-Day Travelers (Voyageurs) paddling the Coulonge, Dumoine, and Noire Rivers; Adventurers Coureurs des Bois (4-6 day introductory canoe trips in La V\u00e9rendrye Wildlife Reserve); and 26-Day Voyageurs Ultimate (21-day white water canoe trip).",
       "sources": [
         "src_ymca_website"
       ],
@@ -14432,7 +14432,7 @@
       "category": "canoe_trips",
       "entities": [
         "Camp Kanawana",
-        "Les Voyageurs de la Vérendrye",
+        "Les Voyageurs de la V\u00e9rendrye",
         "Voyageurs"
       ],
       "date_ref": null,
@@ -15134,7 +15134,7 @@
     },
     {
       "fact_id": "f_0894",
-      "claim": "Camp YMCA Kanawana is an accredited member of the Association des camps du Québec (ACQ), the modern successor to the Quebec Camping Association.",
+      "claim": "Camp YMCA Kanawana is an accredited member of the Association des camps du Qu\u00e9bec (ACQ), the modern successor to the Quebec Camping Association.",
       "sources": [
         "src_acq_kanawana_listing"
       ],
@@ -15142,7 +15142,7 @@
       "category": "organizations",
       "entities": [
         "Camp Kanawana",
-        "Association des camps du Québec",
+        "Association des camps du Qu\u00e9bec",
         "YMCA"
       ],
       "date_ref": "2026",
@@ -15296,7 +15296,7 @@
     },
     {
       "fact_id": "f_0903",
-      "claim": "Concordia Archives sub-series P0145/12A holds a 'Report — trip to St. Agathe' dated 1893 and 1895, described as the 'Journal of the first Montreal YMCA venture to explore the country round about St. Agathe with the view of securing a lake on which to establish a Summer Camp.' The 1893 date places this scouting expedition one year BEFORE Camp Jubilee's founding in 1894.",
+      "claim": "Concordia Archives sub-series P0145/12A holds a 'Report \u2014 trip to St. Agathe' dated 1893 and 1895, described as the 'Journal of the first Montreal YMCA venture to explore the country round about St. Agathe with the view of securing a lake on which to establish a Summer Camp.' The 1893 date places this scouting expedition one year BEFORE Camp Jubilee's founding in 1894.",
       "sources": [
         "src_concordia_atom_fonds"
       ],
@@ -15445,7 +15445,7 @@
     },
     {
       "fact_id": "f_0911",
-      "claim": "David G. Leduc held a BA in International Development from Dalhousie University and an MBA from McGill (2006-2011). Career sequence: Oxfam-Québec Lebanon coordinator (2000-2002), YMCA Kanawana program manager (dates uncertain, managing 75 employees and 800 participants), McGill ICAN director of operations, Executive Director of Development and Peace (2015-2020), Director of Philanthropy (Quebec) at Pathways to Education.",
+      "claim": "David G. Leduc held a BA in International Development from Dalhousie University and an MBA from McGill (2006-2011). Career sequence: Oxfam-Qu\u00e9bec Lebanon coordinator (2000-2002), YMCA Kanawana program manager (dates uncertain, managing 75 employees and 800 participants), McGill ICAN director of operations, Executive Director of Development and Peace (2015-2020), Director of Philanthropy (Quebec) at Pathways to Education.",
       "sources": [
         "src_linkedin_leduc",
         "src_dev_peace_2015"
@@ -15613,7 +15613,7 @@
     },
     {
       "fact_id": "f_0920",
-      "claim": "The A. Ross Seaman Memorial Leadership Development Fund hosts an annual awards evening with auction — described as possibly the only active Concordia scholarship that raises funds this way. Awards are presented annually at Dawson College. The fund designation code is ES0042.",
+      "claim": "The A. Ross Seaman Memorial Leadership Development Fund hosts an annual awards evening with auction \u2014 described as possibly the only active Concordia scholarship that raises funds this way. Awards are presented annually at Dawson College. The fund designation code is ES0042.",
       "sources": [
         "src_concordia_seaman_fund",
         "src_concordia_ctr_2001"
@@ -15688,15 +15688,15 @@
     },
     {
       "fact_id": "f_0924",
-      "claim": "Léontyne Haché began attending Camp Kanawana at age eight and eventually became its canoe and kayak program specialist in summer 2019. Gaëtane Verna attended as a camper, counsellor, and section leader at Camp Kanawana.",
+      "claim": "L\u00e9ontyne Hach\u00e9 began attending Camp Kanawana at age eight and eventually became its canoe and kayak program specialist in summer 2019. Ga\u00ebtane Verna attended as a camper, counsellor, and section leader at Camp Kanawana.",
       "sources": [
         "src_cbc_2021_kanawana"
       ],
       "confidence": "stated",
       "category": "staff",
       "entities": [
-        "Léontyne Haché",
-        "Gaëtane Verna",
+        "L\u00e9ontyne Hach\u00e9",
+        "Ga\u00ebtane Verna",
         "Camp Kanawana"
       ],
       "date_ref": "2019",
@@ -15724,7 +15724,7 @@
     },
     {
       "fact_id": "f_0926",
-      "claim": "On May 14, 2018, Desjardins contributed $1 million to the YMCAs of Québec, part of the 'Springboard for Life' campaign (Campagne YMCA Tremplin pour la vie) aiming to raise $20 million over five years. A portion was earmarked for a new community pavilion at Camp Kanawana, described as 'the new heart of Kanawana,' to increase capacity and expand environmental awareness programming. The announcement was made by Guy Cormier (President/CEO Mouvement Desjardins) and Stéphane Vaillancourt (President/CEO YMCAs of Québec). Desjardins had supported YMCA Quebec for over 25 years.",
+      "claim": "On May 14, 2018, Desjardins contributed $1 million to the YMCAs of Qu\u00e9bec, part of the 'Springboard for Life' campaign (Campagne YMCA Tremplin pour la vie) aiming to raise $20 million over five years. A portion was earmarked for a new community pavilion at Camp Kanawana, described as 'the new heart of Kanawana,' to increase capacity and expand environmental awareness programming. The announcement was made by Guy Cormier (President/CEO Mouvement Desjardins) and St\u00e9phane Vaillancourt (President/CEO YMCAs of Qu\u00e9bec). Desjardins had supported YMCA Quebec for over 25 years.",
       "sources": [
         "src_lapresse_desjardins_2018"
       ],
@@ -15735,7 +15735,7 @@
         "Desjardins",
         "YMCA Quebec",
         "Guy Cormier",
-        "Stéphane Vaillancourt"
+        "St\u00e9phane Vaillancourt"
       ],
       "date_ref": "2018-05-14",
       "conflicts_with": [],
@@ -15826,6 +15826,203 @@
         "Camp Kanawana"
       ],
       "date_ref": "2023",
+      "conflicts_with": [],
+      "added_version": "4.24",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_0932",
+      "claim": "Taylor Statten's full name was Emerson Taylor Statten (1882-1956).",
+      "sources": [
+        "src_tsc_history",
+        "src_wikipedia_tuxis"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "Taylor Statten"
+      ],
+      "date_ref": "1882-1956",
+      "conflicts_with": [],
+      "added_version": "4.24",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_0933",
+      "claim": "Taylor Statten's wife was Ethel Page ('Tonakela'), co-founding director of Camp Wapomeo. Their son Taylor Statten II ('Dr. Tay', 1915-2016) took over as Camp Director in 1954.",
+      "sources": [
+        "src_tsc_history"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "Taylor Statten",
+        "Ethel Statten",
+        "Taylor Statten II"
+      ],
+      "date_ref": "1954",
+      "conflicts_with": [],
+      "added_version": "4.24",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_0934",
+      "claim": "Taylor Statten mortgaged his home to fund Camp Ahmek's opening in 1921. The camp opened for six weeks with 60 boys living in tents.",
+      "sources": [
+        "src_tsc_history"
+      ],
+      "confidence": "stated",
+      "category": "camps",
+      "entities": [
+        "Taylor Statten",
+        "Camp Ahmek"
+      ],
+      "date_ref": "1921",
+      "conflicts_with": [],
+      "added_version": "4.24",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_0935",
+      "claim": "The CSET program was formally launched in October 1918 with two tiers: Trail Rangers (ages 12-14) and TUXIS (ages 15-17). A parallel girls' program, Canadian Girls in Training (CGIT), was also created. Based on a 'fourfold' development philosophy: intellectual, physical, spiritual, and social.",
+      "sources": [
+        "src_wikipedia_tuxis"
+      ],
+      "confidence": "stated",
+      "category": "programs",
+      "entities": [
+        "CSET",
+        "Trail Rangers",
+        "TUXIS",
+        "CGIT"
+      ],
+      "date_ref": "1918",
+      "conflicts_with": [],
+      "added_version": "4.24",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_0936",
+      "claim": "Taylor Statten organized the first Ontario TUXIS and Older Boys' Parliament in 1917.",
+      "sources": [
+        "src_wikipedia_tuxis"
+      ],
+      "confidence": "stated",
+      "category": "programs",
+      "entities": [
+        "Taylor Statten",
+        "TUXIS"
+      ],
+      "date_ref": "1917",
+      "conflicts_with": [],
+      "added_version": "4.24",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_0937",
+      "claim": "Hedley Dimock and Charles Hendry conducted their pioneering research at Camp Ahmek starting in 1923, published as 'Camping and Character' (1929/1931). William H. Kilpatrick (progressive educator, colleague of John Dewey) wrote the foreword.",
+      "sources": [
+        "src_tsc_history",
+        "src_mcmorris_thesis"
+      ],
+      "confidence": "stated",
+      "category": "academic",
+      "entities": [
+        "Hedley Dimock",
+        "Charles Hendry",
+        "Camp Ahmek",
+        "Taylor Statten"
+      ],
+      "date_ref": "1923",
+      "conflicts_with": [],
+      "added_version": "4.24",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_0938",
+      "claim": "Taylor Statten was elected ACA president in 1941 but resigned due to illness; VP Wes Klusmann assumed responsibilities.",
+      "sources": [
+        "src_aca_presidents"
+      ],
+      "confidence": "stated",
+      "category": "organizations",
+      "entities": [
+        "Taylor Statten",
+        "ACA"
+      ],
+      "date_ref": "1941",
+      "conflicts_with": [],
+      "added_version": "4.24",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_0939",
+      "claim": "The Taylor Statten Camps commissioned 42-foot war canoes from the Peterborough Canoe Company in 1926, reportedly still in use.",
+      "sources": [
+        "src_tsc_history"
+      ],
+      "confidence": "stated",
+      "category": "material_culture",
+      "entities": [
+        "Taylor Statten Camps",
+        "Peterborough Canoe Company"
+      ],
+      "date_ref": "1926",
+      "conflicts_with": [],
+      "added_version": "4.24",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_0940",
+      "claim": "The Concordia Archives (P0145/12A) place Hanagan's report alongside: 'Comparison of Two Boys Camps operated by Montreal YMCA' (Kanawana and Camp Perrot, c.1945-46), 'Report of the Montreal YMCA Camps for Boys and Girls' (1946), and an ACA Conference report to the Board of Management (1946). This confirms Hanagan's portfolio extended beyond Kanawana.",
+      "sources": [
+        "src_concordia_fonds",
+        "src_concordia_atom_fonds"
+      ],
+      "confidence": "inferred",
+      "category": "administration",
+      "entities": [
+        "R.H. Hanagan",
+        "Camp Kanawana",
+        "Camp Perrot"
+      ],
+      "date_ref": "1946",
+      "conflicts_with": [],
+      "added_version": "4.24",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_0941",
+      "claim": "Howie Langille was Camp Chief/Director in 1941 (48th season, 68 staff, 30+ British wartime evacuees). No director is documented between Langille (1941) and Hanagan (1942), suggesting direct succession.",
+      "sources": [
+        "src_mcmorris_thesis",
+        "src_cfcf_1941"
+      ],
+      "confidence": "inferred",
+      "category": "administration",
+      "entities": [
+        "Howie Langille",
+        "R.H. Hanagan"
+      ],
+      "date_ref": "1941-1942",
+      "conflicts_with": [],
+      "added_version": "4.24",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_0942",
+      "claim": "Dr. Cushing, identified as a pediatrician, visited Kanawana during the 1946 polio outbreak and recommended cancelling canoe trips but keeping the camp open. Three of six cases were discharged by end of summer. This Dr. Cushing is distinct from W.E. Cushing who wrote 'Historical sketches' in 1943.",
+      "sources": [
+        "src_mcmorris_thesis"
+      ],
+      "confidence": "stated",
+      "category": "health",
+      "entities": [
+        "Dr. Cushing",
+        "Camp Kanawana",
+        "R.H. Hanagan"
+      ],
+      "date_ref": "1946",
       "conflicts_with": [],
       "added_version": "4.24",
       "added_by": "ralph_loop"
