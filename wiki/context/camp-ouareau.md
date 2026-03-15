@@ -1,11 +1,11 @@
 # Camp Ouareau and Its Connections to Kanawana
 
-*Status: draft | Sources: src_camp_ouareau_history, src_wikipedia_ouareau, src_camp_oconto, src_mcmorris_thesis, src_ywca_oolahwan*
-*Last Updated: 2026-03-15 (WRITE pass — stub → draft)*
+*Status: R3-verified | Sources: src_ouareau_history, src_ouareau_wikipedia, src_camp_oconto, src_mcmorris_thesis, src_ywca_oolahwan_page, src_ywca_oolahwan_centennial*
+*Last Updated: 2026-03-15 (VERIFY pass — R3 review, corrections applied)*
 
 ## Overview
 
-Camp Ouareau is an all-girls summer camp (now serving girls and gender minorities aged 6–16) on Lac Ouareau in Notre-Dame-de-la-Merci, Quebec. Founded in 1922 by Mabel C. Jamieson and Ferna G. Halliday, it is one of the two oldest summer camps exclusively for young girls still in operation in Canada.^1 Its connection to Camp Kanawana is through the YMCA/YWCA Montreal personnel network: Jamieson held a senior role in the YMCA or YWCA of Montreal during the same period Kanawana was establishing its program, and Camp Oolahwan (YWCA, est. 1917) alumni later visited Kanawana.
+Camp Ouareau is an all-girls summer camp (now serving girls and gender minorities aged 6–16) on Lac Ouareau in Notre-Dame-de-la-Merci, Quebec. Founded in 1922 by Mabel C. Jamieson and Ferna G. Halliday, it is one of the two oldest summer camps exclusively for young girls still in operation in Canada.^1 Its connection to Camp Kanawana is through the YMCA/YWCA Montreal personnel network: Jamieson held a senior role in the YMCA or YWCA of Montreal during the same period Kanawana was establishing its program, and Camp Oolahwan (YWCA, est. 1917) campers visited Kanawana in 1946.
 
 ## Founding and Early History
 
@@ -20,18 +20,18 @@ The Lodge, built in 1922, is one of the oldest log buildings still in use in Can
 | 1922–1923 | Mabel Jamieson & Ferna Halliday | Co-directors |
 | 1924–1934 | Mabel Jamieson | Sole director |
 | 1934–1954 | Dorothy Percival | Purchased site 1937; subsidized campers' schooling |
-| 1954–c.1994 | Joyce Bertram | Owner; introduced mascot "Byrd" |
-| 1994–present | Jacqui Raill | Counsellor since 1975; with husband Claude Blanchard |
+| 1954–c.1994 | Joyce Bertram | Owner; introduced mascot "Bymph" |
+| 1994–present | Jacqui Raill | Counsellor since 1975; co-owner with husband Don Raill since 2002 |
 
 ## Founders
 
 **Mabel C. Jamieson** was described as "secretary general of the YMCA of Montreal" c.1915–1920 in Camp Ouareau sources, though this claim has not been independently verified and may represent a conflation with the YWCA.^4 She was also National Student Secretary of the YWCA of Canada (1915) and a member of the Committee of the Sixteen (Montreal anti-vice committee, 1919).^4
 
-**Ferna G. Halliday** was a Queen's University graduate and Secretary of YWCA Montreal (1918–1921), where she was responsible for girls at Camp Oolahwan.^5 After co-directing Camp Ouareau, she founded Camp Oconto in Tichborne, Ontario (1924), running it until 1949.^5 Halliday was a founding member of the Ontario Camping Association in 1933, alongside Mary Edgar, Taylor Statten, and Ethel Statten.^5
+**Ferna G. Halliday** was a Queen's University graduate and Secretary of YWCA Montreal (1918–1921), where she was responsible for girls at Camp Oolahwan.^5 After co-directing Camp Ouareau, she founded Camp Oconto in Tichborne, Ontario (1924), running it until 1949.^5 Halliday was a founding member of the Ontario Camping Association in 1933, alongside Mary Edgar, Taylor Statten, Ethel Statten, A.L. Cochrane, and Mary Hamilton.^5
 
 ## Connection to Kanawana
 
-The Jamieson–YMCA Montreal link represents a direct personnel connection between Camp Ouareau and the organization that ran Camp Kanawana. Additionally, Camp Oolahwan (YWCA, est. 1917) sent visitors to Kanawana; in 1946, Kanawana campers were famously covered in cocoa powder to greet Oolahwan visitors as "Indians."^6 The Camp Oolahwan centennial reunion was held at Camp Ouareau in 2017.^7
+The Jamieson–YMCA Montreal link represents a direct personnel connection between Camp Ouareau and the organization that ran Camp Kanawana. Additionally, Camp Oolahwan (YWCA, est. 1917) sent visitors to Kanawana; in 1946, Kanawana campers were covered in cocoa powder to greet Oolahwan visitors as "Indians."^6 The Camp Oolahwan centennial reunion was held at Camp Ouareau in 2017 (date disputed: YWCA source gives September 8–10; West Island Blog gives August 25–27).^7
 
 In 2014, Camp Ouareau changed its team names from Iroquois, Algonquin, and Micmac, shifting away from Indigenous appropriation — a parallel to broader reconciliation efforts across Canadian camps.^8
 
