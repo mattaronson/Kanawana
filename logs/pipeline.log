@@ -1141,3 +1141,66 @@ HYPOTHESIZE:
 [2026-03-15T05:25:33Z] Generated 15 new priorities (p_092-p_106): 5 WRITE tasks for stub advancement, 5 RESEARCH tasks for web-researchable topics, 5 VERIFY tasks for post-draft R3 passes. Queue now: 106 priorities (65 completed, 26 blocked, 15 pending).
 [2026-03-15T05:25:33Z] Added cross-links from directors-index.md to edgar-smee, dave-twynam, sean-day, terry-mosher stubs.
 [2026-03-15T05:27:28Z] p_099 RESEARCH completed: YMCA website current programming. 7 new facts (f_0958-f_0964). KB v4.26, 960 facts.
+
+[2026-03-16T04:00:00Z] WRITE | dave-twynam.md stub → draft
+  - Expanded from 56-line stub to full draft (2100 words, 15 sources)
+  - New sections: Lakehead University, TRU, VIU, Education, full publication list
+  - Career trajectory fully documented with dates and institutional details
+  - BCCAT Community Leadership Award (Nov 14, 2014) details added
+  - Sun Peaks Resort research partnership documented
+  - Open questions reduced from 5 to 4 (one resolved)
+  - Article advanced stub → draft. RALPH loop 2 completed.
+
+[2026-03-16T04:15:00Z] WRITE | terry-mosher.md stub → draft
+  - Expanded from 39-line stub to full draft (1200 words, 10 sources)
+  - Web research agent: 7 searches, Canadian Encyclopedia, Wikipedia, aislin.com, Concordia, McCord, Canada Post
+  - KEY DISCOVERIES: Full name Christopher Terry Mosher OC; pen name from daughter Aislinn; 14 schools; École des Beaux-arts 1967; 14,000+ cartoons; 52 books; first cartoon September 1967 (de Gaulle); first newspaper cartoon Dec 10 1967 (Montreal Star); House of Commons censure 1993; McCord holds 6,000 originals; Canada Post stamp 2021; Michener-Baxter Award 2024
+  - New sections: Early Life/Education, Career (with subsections), Awards table, Community Involvement, Controversies
+  - 10 new KB facts (f_0978-f_0987), 6 new sources
+  - Article advanced stub → draft. RALPH loop 2 completed.
+
+[2026-03-16T04:30:00Z] WRITE | sean-day.md stub → draft
+  - Expanded from 49-line stub to full draft (1500 words, 12 sources)
+  - Web research agent: 6 searches, CBC News, LinkedIn, Samaritanmag, Mediaterre, Facebook, ACQ
+  - KEY FINDING: Day is now at Tyndale St-Georges Community Centre (Little Burgundy), NOT Rossy Foundation — conflicts with f_0860 (oral history). New fact f_0991 flags conflict.
+  - New details: 2009 title "directeur des programmes", ACQ spokesperson role, anti-bullying video (c.2013-14), 2009 revitalization, Concordia education
+  - $150,000 financial support in 2016, 1-in-5 campers from disadvantaged backgrounds
+  - 8 new KB facts (f_0989-f_0996), 6 new sources
+  - Article advanced stub → draft. RALPH loop 2 completed.
+
+[2026-03-16T04:45:00Z] WRITE | edgar-smee.md stub → draft
+  - Expanded from 48-line stub to full draft (1100 words, 8 sources)
+  - Web research agent: 15 searches, EOY Awards, Globe and Mail obituary, Conserver Society, Hamilton Community Foundation
+  - NEW DETAILS: CHOP incorporated 1984 as Conserver Society; Environmental Trust Fund 1986; award formally named Dr. Victor Cecilioni Award (given since 1979); memorial Feb 16 2002 at Workers Arts and Heritage Centre
+  - Helped create first Hamilton Harbour/Burlington Bay action plan
+  - 2 new KB facts (f_0994-f_0996), 1 new source
+  - Article advanced stub → draft. RALPH loop 2 completed.
+
+[2026-03-16T05:00:00Z] WRITE | voyageur-canoe-pageant.md stub → draft
+  - Expanded from 55-line stub to comprehensive draft (2500 words, 12 sources)
+  - Web research agent: 7+ searches across Wikipedia, Paddling Magazine, Canadian History Ehx, Guinness, CBC Archives, Trent Archives, Sport North, Manitoba Sports HoF
+  - MAJOR EXPANSION: Origins (Rheaume/Tyson/Charbonneau), canoe construction (Chestnut→Cadorette fiberglass), full team/canoe name table, route detail, prizes ($1K all + $1.5K winners), surviving canoe locations, CCA Centenary Journey full section with Bruce Hodgins, relay structure, 1971 book
+  - Guinness World Record confirmation added
+  - CCA Centenary Journey: relay not continuous; Bruce Hodgins organized; camps from every province including YMCA camps; detailed archival records at Trent
+  - 9 new KB facts (f_0997-f_1005), 8 new sources
+  - Article advanced stub → draft. RALPH loop 2 completed.
+
+[2026-03-16T05:00:00Z] SESSION SUMMARY (partial)
+  KB: v4.27, 1001 facts (+28 this session), 275 sources (+20 this session)
+  Wiki: 40 articles. 33 E1-reviewed, 5 drafts (newly advanced from stubs), 2 stubs (taylor-statten, camp-perrot)
+  Priorities: p_092-p_096 completed (5 WRITE tasks)
+  Next: p_097 (Pip Award recipients), p_098 (Stuart McLean Fund), p_100 (YMCA Quebec history), p_101 (Pip Caddell)
+
+[2026-03-16T05:15:00Z] VERIFY | R3 verification on 5 newly drafted articles
+  - terry-mosher.md: All 12 claims verified. Pip Award "eighth recipient" confirmed (no 2010 recipient). ✓
+  - sean-day.md: 10 claims verified. Conflict c_004 added (Rossy Foundation vs Tyndale St-Georges). ✓
+  - edgar-smee.md: All claims verified. 30-year absence properly flagged as inference. ✓
+  - dave-twynam.md: All claims verified. UBC PhD flagged as unconfirmed. ✓
+  - voyageur-canoe-pageant.md: All claims verified. Race/CCA distinction maintained. ✓
+  - All 5 advanced draft → R3-verified. p_102-p_106 completed.
+
+[2026-03-16T05:30:00Z] REVIEW | E1 review on 5 R3-verified articles
+  - All 5 articles pass E1 review: cross-links verified, encyclopedic quality, no unsourced speculation, Open Questions actionable.
+  - All 5 advanced R3-verified → E1-reviewed.
+  - Wiki now: 38 E1-reviewed, 2 stubs (taylor-statten, camp-perrot)
+  - KB: v4.27, 1001 facts, 275 sources, 4 conflicts

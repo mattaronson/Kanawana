@@ -592,7 +592,7 @@
       "extracted": true,
       "extraction_version": "4.3",
       "reliability": "primary",
-      "notes": "Parent fonds P0145. Documents Montreal YMCA from founding Nov 1851 to late 20th century. Includes Harold C. Cross and Murray C. Ross research materials. 15 series. Donated to Concordia 2000-2005 from Norris Building. PDF finding aid available at concordia.accesstomemory.org/downloads/ymca-of-montreal-fonds-2.pdf. Series 12 covers all camping programs including 14 sub-series (12A-12N): Kanawana, Otoreke, Becsies, Dorval, Weredale, Perrot, Ski lodge, Thunderbird, Wilderness Survival, Voyageurs de la V\u00e9rendrye, Lac St-Joseph/Camp Jubilee, Day camp, Camping associations."
+      "notes": "Parent fonds P0145. Documents Montreal YMCA from founding Nov 1851 to late 20th century. Includes Harold C. Cross and Murray C. Ross research materials. 15 series. Donated to Concordia 2000-2005 from Norris Building. PDF finding aid available at concordia.accesstomemory.org/downloads/ymca-of-montreal-fonds-2.pdf. Series 12 covers all camping programs including 14 sub-series (12A-12N): Kanawana, Otoreke, Becsies, Dorval, Weredale, Perrot, Ski lodge, Thunderbird, Wilderness Survival, Voyageurs de la Vérendrye, Lac St-Joseph/Camp Jubilee, Day camp, Camping associations."
     },
     {
       "source_id": "src_concordia_atom_12B01",
@@ -672,7 +672,7 @@
       "extracted": true,
       "extraction_version": "4.3",
       "reliability": "primary",
-      "notes": "Key Kanawana items: R.L. Charlton 'Early Days of YMCA Camps at Lake St. Joseph and Kanawana' 1943; Ralph Dawson 'History of Kamp Kanawana' 1933; W.E. Cushing 'Historical sketches\u2014Lake St. Joseph' 1943. Permanent Camp Committee minutes 1895-1896, correspondence/financial 1899-1901, minute book 1911-1926. Co-ed Camping Pilot Project reports 1967-1970. Journal of first YMCA venture to St. Agathe & Summer Camp 1895. Layout/Building Designs/Equipment 1946. Statistical profile camping programs 1977."
+      "notes": "Key Kanawana items: R.L. Charlton 'Early Days of YMCA Camps at Lake St. Joseph and Kanawana' 1943; Ralph Dawson 'History of Kamp Kanawana' 1933; W.E. Cushing 'Historical sketches—Lake St. Joseph' 1943. Permanent Camp Committee minutes 1895-1896, correspondence/financial 1899-1901, minute book 1911-1926. Co-ed Camping Pilot Project reports 1967-1970. Journal of first YMCA venture to St. Agathe & Summer Camp 1895. Layout/Building Designs/Equipment 1946. Statistical profile camping programs 1977."
     },
     {
       "source_id": "src_wikipedia_murray_ross",
@@ -853,7 +853,7 @@
     {
       "source_id": "src_banq_advitam_519920",
       "type": "catalog_reference",
-      "title": "BAnQ Advitam - Fonds Archives nationales du Qu\u00e9bec (Notice 519920)",
+      "title": "BAnQ Advitam - Fonds Archives nationales du Québec (Notice 519920)",
       "date": "1985",
       "date_precision": "year",
       "origin": "concordia_archives",
@@ -864,7 +864,7 @@
       "extracted": false,
       "extraction_version": null,
       "reliability": "primary",
-      "notes": "BAnQ Advitam archival notice. References 'Les archives du YMCA de Montr\u00e9al, 1985' within Bordereaux nos 18 of the Fonds Archives nationales du Qu\u00e9bec. Indicates BAnQ received/processed YMCA Montreal archival materials. Relationship to Concordia holdings unclear \u2014 may be a transfer record or duplicate accessioning. Site returns 403 on fetch."
+      "notes": "BAnQ Advitam archival notice. References 'Les archives du YMCA de Montréal, 1985' within Bordereaux nos 18 of the Fonds Archives nationales du Québec. Indicates BAnQ received/processed YMCA Montreal archival materials. Relationship to Concordia holdings unclear — may be a transfer record or duplicate accessioning. Site returns 403 on fetch."
     },
     {
       "source_id": "src_banq_advitam_315906",
@@ -880,7 +880,7 @@
       "extracted": false,
       "extraction_version": null,
       "reliability": "primary",
-      "notes": "BAnQ Advitam notice. Contains 'YMCA annual Drama festival & St Andrew's church postcard, 1937, c1980'. Relates to YMCA de Qu\u00e9bec (Quebec City), not Montreal YMCA. Low priority for Kanawana research but documents YMCA presence in Quebec archives."
+      "notes": "BAnQ Advitam notice. Contains 'YMCA annual Drama festival & St Andrew's church postcard, 1937, c1980'. Relates to YMCA de Québec (Quebec City), not Montreal YMCA. Low priority for Kanawana research but documents YMCA presence in Quebec archives."
     },
     {
       "source_id": "src_newspapers_gazette_1897",
@@ -896,7 +896,7 @@
       "extracted": false,
       "extraction_version": null,
       "reliability": "primary",
-      "notes": "One of the earliest newspaper references to Camp Kanawana. From The Gazette (Montreal), available via Newspapers.com. BAnQ holds digitized Gazette issues \u2014 this article may also be accessible via numerique.banq.qc.ca. Paywall prevents extraction."
+      "notes": "One of the earliest newspaper references to Camp Kanawana. From The Gazette (Montreal), available via Newspapers.com. BAnQ holds digitized Gazette issues — this article may also be accessible via numerique.banq.qc.ca. Paywall prevents extraction."
     },
     {
       "source_id": "src_newspapers_gazette_1918",
@@ -949,7 +949,7 @@
     {
       "source_id": "src_banq_numerique_general",
       "type": "catalog_reference",
-      "title": "BAnQ Num\u00e9rique - Digitized Newspaper Collections (La Presse, La Tribune, The Gazette, Montreal Herald, etc.)",
+      "title": "BAnQ Numérique - Digitized Newspaper Collections (La Presse, La Tribune, The Gazette, Montreal Herald, etc.)",
       "date": null,
       "date_precision": "approximate",
       "origin": "web",
@@ -960,7 +960,7 @@
       "extracted": false,
       "extraction_version": null,
       "reliability": "primary",
-      "notes": "BAnQ digitizes Quebec historical newspapers with OCR full-text search. The Gazette, La Presse, Montreal Herald, La Tribune, Le Soleil, and others are searchable. Web fetches return 403 \u2014 requires direct browser access to search interface at numerique.banq.qc.ca. Key newspapers for Kanawana research: The Gazette (English, 1778-present), Montreal Star (English, 1869-1979), La Presse (French, 1884-present), Montreal Herald (English, 1811-1957). All likely contain camp mentions."
+      "notes": "BAnQ digitizes Quebec historical newspapers with OCR full-text search. The Gazette, La Presse, Montreal Herald, La Tribune, Le Soleil, and others are searchable. Web fetches return 403 — requires direct browser access to search interface at numerique.banq.qc.ca. Key newspapers for Kanawana research: The Gazette (English, 1778-present), Montreal Star (English, 1869-1979), La Presse (French, 1884-present), Montreal Herald (English, 1811-1957). All likely contain camp mentions."
     },
     {
       "source_id": "src_wikidata_lac_kanawana",
@@ -976,7 +976,7 @@
       "extracted": true,
       "extraction_version": "4.4",
       "reliability": "tertiary",
-      "notes": "Wikidata entry for Lac Kanawana. Coordinates: 45\u00b051'6.01\"N, 74\u00b011'40.99\"W. Elevation: 319 m."
+      "notes": "Wikidata entry for Lac Kanawana. Coordinates: 45°51'6.01\"N, 74°11'40.99\"W. Elevation: 319 m."
     },
     {
       "source_id": "src_leigh_evans_blog",
@@ -1285,7 +1285,7 @@
     {
       "source_id": "src_cmat_caddell_obituary",
       "type": "web",
-      "title": "James Caddell, Soldier, Adventurer (1973-2005) \u2014 Globe and Mail obituary by Sandra Martin",
+      "title": "James Caddell, Soldier, Adventurer (1973-2005) — Globe and Mail obituary by Sandra Martin",
       "date": "2005-10-22",
       "date_precision": "exact",
       "origin": "web",
@@ -1301,7 +1301,7 @@
     {
       "source_id": "src_mcgill_news_caddell",
       "type": "web",
-      "title": "Tara Newell and James Caddell travel article \u2014 McGill News",
+      "title": "Tara Newell and James Caddell travel article — McGill News",
       "date": "2004",
       "date_precision": "year",
       "origin": "web",
@@ -1317,7 +1317,7 @@
     {
       "source_id": "src_wikipedia_richard_patten",
       "type": "web",
-      "title": "Richard Patten \u2014 Wikipedia",
+      "title": "Richard Patten — Wikipedia",
       "date": null,
       "date_precision": "approximate",
       "origin": "web",
@@ -1333,7 +1333,7 @@
     {
       "source_id": "src_wikipedia_john_cleghorn",
       "type": "web",
-      "title": "John Cleghorn \u2014 Wikipedia",
+      "title": "John Cleghorn — Wikipedia",
       "date": null,
       "date_precision": "approximate",
       "origin": "web",
@@ -1349,7 +1349,7 @@
     {
       "source_id": "src_atwater_caddell_bio",
       "type": "web",
-      "title": "Andrew Caddell biography \u2014 Atwater Library",
+      "title": "Andrew Caddell biography — Atwater Library",
       "date": "2024-08",
       "date_precision": "year",
       "origin": "web",
@@ -1397,7 +1397,7 @@
     {
       "source_id": "src_usc_folklore_cropsey",
       "type": "web",
-      "title": "USC Digital Folklore Archives \u2014 Cropsey and Judge Cropsey Legend entries",
+      "title": "USC Digital Folklore Archives — Cropsey and Judge Cropsey Legend entries",
       "date": null,
       "date_precision": "approximate",
       "origin": "web",
@@ -1413,7 +1413,7 @@
     {
       "source_id": "src_puzzlebox_cropsey_origins",
       "type": "web",
-      "title": "The Cropsey Maniac: The Forgotten Origins \u2014 Puzzle Box Horror",
+      "title": "The Cropsey Maniac: The Forgotten Origins — Puzzle Box Horror",
       "date": null,
       "date_precision": "approximate",
       "origin": "web",
@@ -1573,7 +1573,7 @@
     {
       "source_id": "src_aca_camp_songs_history",
       "type": "web",
-      "title": "Camp Songs \u2014 History and Traditions (American Camp Association)",
+      "title": "Camp Songs — History and Traditions (American Camp Association)",
       "date": null,
       "date_precision": "approximate",
       "origin": "web",
@@ -1589,7 +1589,7 @@
     {
       "source_id": "src_wikipedia_alabama_jubilee",
       "type": "web",
-      "title": "Alabama Jubilee (song) \u2014 Wikipedia",
+      "title": "Alabama Jubilee (song) — Wikipedia",
       "date": null,
       "date_precision": "approximate",
       "origin": "web",
@@ -1605,7 +1605,7 @@
     {
       "source_id": "src_journal_acces_fire_2023",
       "type": "web",
-      "title": "Un b\u00e2timent du Camp YMCA Kanawana ravag\u00e9 par les flammes \u2014 Journal Acc\u00e8s",
+      "title": "Un bâtiment du Camp YMCA Kanawana ravagé par les flammes — Journal Accès",
       "date": "2023-05-16",
       "date_precision": "exact",
       "origin": "web",
@@ -1653,7 +1653,7 @@
     {
       "source_id": "src_cca_ross_macdonald_kanawana",
       "type": "catalog_reference",
-      "title": "Doctor's Cottage for Kamp Kanawana \u2014 Ross & Macdonald fonds, Canadian Centre for Architecture",
+      "title": "Doctor's Cottage for Kamp Kanawana — Ross & Macdonald fonds, Canadian Centre for Architecture",
       "date": null,
       "date_precision": "approximate",
       "origin": "web",
@@ -1664,12 +1664,12 @@
       "extracted": true,
       "extraction_version": "4.13",
       "reliability": "primary",
-      "notes": "CCA archival record. Ross & Macdonald (prominent Montreal firm, designed Ch\u00e2teau Laurier, Royal York Hotel, etc.) designed a Doctor's Cottage for Kamp Kanawana. Also designed 'several buildings for the YMCA in Montreal (1909-13)'. Firm active 1904-1942. Page not fully accessible but confirmed via search."
+      "notes": "CCA archival record. Ross & Macdonald (prominent Montreal firm, designed Château Laurier, Royal York Hotel, etc.) designed a Doctor's Cottage for Kamp Kanawana. Also designed 'several buildings for the YMCA in Montreal (1909-13)'. Firm active 1904-1942. Page not fully accessible but confirmed via search."
     },
     {
       "source_id": "src_mcconnell_foundation_ymca",
       "type": "web",
-      "title": "The YMCAs of Qu\u00e9bec \u2014 McConnell Foundation Funding Database",
+      "title": "The YMCAs of Québec — McConnell Foundation Funding Database",
       "date": "2023-11",
       "date_precision": "year",
       "origin": "web",
@@ -1685,7 +1685,7 @@
     {
       "source_id": "src_ymcaquebec_kanawana_adventure_2024",
       "type": "web",
-      "title": "The YMCAs of Qu\u00e9bec offers a Day Camp at Kanawana (2024 Newsroom)",
+      "title": "The YMCAs of Québec offers a Day Camp at Kanawana (2024 Newsroom)",
       "date": "2024-05",
       "date_precision": "year",
       "origin": "web",
@@ -1717,7 +1717,7 @@
     {
       "source_id": "src_nouvelles_laurentides_kanawana_2024",
       "type": "web",
-      "title": "L'\u00e9t\u00e9 2024 marque l'offre d'un nouveau programme \u00e0 Saint-Sauveur : Aventure \u00e0 Kanawana",
+      "title": "L'été 2024 marque l'offre d'un nouveau programme à Saint-Sauveur : Aventure à Kanawana",
       "date": "2024",
       "date_precision": "year",
       "origin": "web",
@@ -1808,7 +1808,7 @@
       "extracted": false,
       "extraction_version": null,
       "reliability": "primary",
-      "notes": "Immediately pre-camp-founding. HIGH PRIORITY \u2014 may document Cushing's 1892 Lake St. Joseph trip. WARNING: IA identifier uses '1991-1992' but actual content is the 1891-1892 annual report (metadata typo by Concordia uploader)."
+      "notes": "Immediately pre-camp-founding. HIGH PRIORITY — may document Cushing's 1892 Lake St. Joseph trip. WARNING: IA identifier uses '1991-1992' but actual content is the 1891-1892 annual report (metadata typo by Concordia uploader)."
     },
     {
       "source_id": "src_ia_news_release_1965",
@@ -2213,7 +2213,7 @@
     {
       "source_id": "src_cca_ross_macdonald_doctors_cottage",
       "type": "catalog_reference",
-      "title": "Doctor's Cottage for Kamp Kanawana \u2014 Ross & Macdonald fonds, CCA",
+      "title": "Doctor's Cottage for Kamp Kanawana — Ross & Macdonald fonds, CCA",
       "date": "1920",
       "date_precision": "approximate",
       "origin": "web",
@@ -2224,12 +2224,12 @@
       "extracted": false,
       "extraction_version": null,
       "reliability": "primary",
-      "notes": "Canadian Centre for Architecture holds Ross & Macdonald architectural drawings/records for a Doctor's Cottage at Kamp Kanawana. Ross & Macdonald was one of Montreal's most prominent early 20th-century architectural firms (Royal York Hotel, Union Station Toronto, etc.). Date approximate \u2014 firm active 1913-1942. Significant finding: connects major architectural firm to camp infrastructure."
+      "notes": "Canadian Centre for Architecture holds Ross & Macdonald architectural drawings/records for a Doctor's Cottage at Kamp Kanawana. Ross & Macdonald was one of Montreal's most prominent early 20th-century architectural firms (Royal York Hotel, Union Station Toronto, etc.). Date approximate — firm active 1913-1942. Significant finding: connects major architectural firm to camp infrastructure."
     },
     {
       "source_id": "src_cfcf_broadcast_1941",
       "type": "web",
-      "title": "YMCA Kamp Kanawana Broadcast \u2014 Station CFCF (June 26, 1941)",
+      "title": "YMCA Kamp Kanawana Broadcast — Station CFCF (June 26, 1941)",
       "date": "1941-06-26",
       "date_precision": "exact",
       "origin": "internet_archive",
@@ -2240,12 +2240,12 @@
       "extracted": false,
       "extraction_version": null,
       "reliability": "primary",
-      "notes": "Radio broadcast from CFCF station about Kamp Kanawana, dated June 26, 1941. On Internet Archive, uploaded by Concordia University Records Management. Audio or transcript \u2014 needs investigation. CFCF was Montreal's pioneering radio station."
+      "notes": "Radio broadcast from CFCF station about Kamp Kanawana, dated June 26, 1941. On Internet Archive, uploaded by Concordia University Records Management. Audio or transcript — needs investigation. CFCF was Montreal's pioneering radio station."
     },
     {
       "source_id": "src_samaritanmag_mclean_2017",
       "type": "web",
-      "title": "Samaritanmag \u2014 Why the Family of Late Vinyl Cafe Host Stuart McLean Asks for Donations for Camp Kanawana",
+      "title": "Samaritanmag — Why the Family of Late Vinyl Cafe Host Stuart McLean Asks for Donations for Camp Kanawana",
       "date": "2017",
       "date_precision": "year",
       "origin": "web",
@@ -2261,7 +2261,7 @@
     {
       "source_id": "src_cbc_mclean_fund_2017",
       "type": "web",
-      "title": "CBC News \u2014 Stuart McLean fund to help kids in need attend Quebec camp",
+      "title": "CBC News — Stuart McLean fund to help kids in need attend Quebec camp",
       "date": "2017",
       "date_precision": "year",
       "origin": "web",
@@ -2272,7 +2272,7 @@
       "extracted": false,
       "extraction_version": null,
       "reliability": "secondary",
-      "notes": "CBC News article on Stuart McLean Camp YMCA Kanawana Fund. McLean credited Kanawana with transforming his life \u2014 'first place as a young person that I felt I could contribute to the greater good.'"
+      "notes": "CBC News article on Stuart McLean Camp YMCA Kanawana Fund. McLean credited Kanawana with transforming his life — 'first place as a young person that I felt I could contribute to the greater good.'"
     },
     {
       "source_id": "src_facebook_ykanawana",
@@ -2309,7 +2309,7 @@
     {
       "source_id": "src_geonames_camp_kanawana",
       "type": "catalog_reference",
-      "title": "Canadian Geographical Names Database \u2014 Camp Kanawana (ID: EKWXQ)",
+      "title": "Canadian Geographical Names Database — Camp Kanawana (ID: EKWXQ)",
       "date": "2026",
       "date_precision": "approximate",
       "origin": "web",
@@ -2336,12 +2336,12 @@
       "extracted": false,
       "extraction_version": null,
       "reliability": "secondary",
-      "notes": "Bathymetric/nautical chart for Lac Kanawana with HD depth contours. Coordinates approx 45\u00b051'5\"N 74\u00b011'31\"W, elevation ~319m. Complements CREL environmental data already in KB."
+      "notes": "Bathymetric/nautical chart for Lac Kanawana with HD depth contours. Coordinates approx 45°51'5\"N 74°11'31\"W, elevation ~319m. Complements CREL environmental data already in KB."
     },
     {
       "source_id": "src_ebay_valcartier_ymca_postcard",
       "type": "catalog_reference",
-      "title": "eBay listing \u2014 Valcartier YMCA Camp Quebec Canada Unused c1915 Postcard (TH Davies Litho)",
+      "title": "eBay listing — Valcartier YMCA Camp Quebec Canada Unused c1915 Postcard (TH Davies Litho)",
       "date": "1915",
       "date_precision": "approximate",
       "origin": "web",
@@ -2357,7 +2357,7 @@
     {
       "source_id": "src_ymca_pip_award_skinner",
       "type": "web",
-      "title": "YMCA \u2014 ALS Advocate Carol Skinner Receives Camp YMCA Kanawana 'Pip' Alumni Award",
+      "title": "YMCA — ALS Advocate Carol Skinner Receives Camp YMCA Kanawana 'Pip' Alumni Award",
       "date": "2024",
       "date_precision": "approximate",
       "origin": "web",
@@ -2805,7 +2805,7 @@
     {
       "source_id": "src_samaritanmag_mclean_kanawana",
       "type": "web",
-      "title": "Why the Family of Late Vinyl Caf\u00e9 Host Stuart McLean Asks for Donations for Camp Kanawana (Samaritanmag)",
+      "title": "Why the Family of Late Vinyl Café Host Stuart McLean Asks for Donations for Camp Kanawana (Samaritanmag)",
       "date": "2017",
       "date_precision": "year",
       "origin": "web",
@@ -2837,7 +2837,7 @@
     {
       "source_id": "src_biographi_cushing_lemuel",
       "type": "web",
-      "title": "Dictionary of Canadian Biography \u2014 Lemuel Cushing",
+      "title": "Dictionary of Canadian Biography — Lemuel Cushing",
       "date": "undated",
       "date_precision": "approximate",
       "origin": "web",
@@ -2853,7 +2853,7 @@
     {
       "source_id": "src_wikipedia_cushing_jr",
       "type": "web",
-      "title": "Wikipedia \u2014 Lemuel Cushing Jr.",
+      "title": "Wikipedia — Lemuel Cushing Jr.",
       "date": "undated",
       "date_precision": "approximate",
       "origin": "web",
@@ -2869,7 +2869,7 @@
     {
       "source_id": "src_wikipedia_non_nobis_solum",
       "type": "web",
-      "title": "Wikipedia \u2014 Non nobis solum",
+      "title": "Wikipedia — Non nobis solum",
       "date": "undated",
       "date_precision": "approximate",
       "origin": "web",
@@ -2880,12 +2880,12 @@
       "extracted": true,
       "extraction_version": "4.18",
       "reliability": "tertiary",
-      "notes": "Non Nobis Solum derived from Cicero De Officiis 1:22. Used by Camp Kanawana AND Lower Canada College \u2014 shared motto is significant institutional connection."
+      "notes": "Non Nobis Solum derived from Cicero De Officiis 1:22. Used by Camp Kanawana AND Lower Canada College — shared motto is significant institutional connection."
     },
     {
       "source_id": "src_batshaw_camp_weredale",
       "type": "web",
-      "title": "The History of Camp Weredale \u2014 Batshaw Centres History",
+      "title": "The History of Camp Weredale — Batshaw Centres History",
       "date": "undated",
       "date_precision": "approximate",
       "origin": "web",
@@ -2901,7 +2901,7 @@
     {
       "source_id": "src_biographi_charles_alexander",
       "type": "web",
-      "title": "Dictionary of Canadian Biography \u2014 Charles Alexander",
+      "title": "Dictionary of Canadian Biography — Charles Alexander",
       "date": "undated",
       "date_precision": "approximate",
       "origin": "web",
@@ -2917,7 +2917,7 @@
     {
       "source_id": "src_lac_weredale_fonds",
       "type": "catalog_reference",
-      "title": "Weredale House fonds \u2014 Library and Archives Canada",
+      "title": "Weredale House fonds — Library and Archives Canada",
       "date": "1868-1975",
       "date_precision": "year",
       "origin": "web",
@@ -2933,7 +2933,7 @@
     {
       "source_id": "src_lesaffaires_boulangerie_page",
       "type": "web",
-      "title": "Boulangerie Pag\u00e9: au coeur du village de Saint-Sauveur depuis 121 ans",
+      "title": "Boulangerie Pagé: au coeur du village de Saint-Sauveur depuis 121 ans",
       "date": "2024",
       "date_precision": "year",
       "origin": "web",
@@ -2944,12 +2944,12 @@
       "extracted": true,
       "extraction_version": "4.18",
       "reliability": "secondary",
-      "notes": "Documents the Pag\u00e9 family as deeply rooted in Saint-Sauveur. Boulangerie Pag\u00e9 est. 1903. \u00c9douard Pag\u00e9 acquired the bakery 1914. Domaine-Pag\u00e9 is a named locality. Connects Pag\u00e9 family to the area where YMCA acquired Camp Kanawana land."
+      "notes": "Documents the Pagé family as deeply rooted in Saint-Sauveur. Boulangerie Pagé est. 1903. Édouard Pagé acquired the bakery 1914. Domaine-Pagé is a named locality. Connects Pagé family to the area where YMCA acquired Camp Kanawana land."
     },
     {
       "source_id": "src_lcc_about",
       "type": "web",
-      "title": "About \u2014 Lower Canada College",
+      "title": "About — Lower Canada College",
       "date": "undated",
       "date_precision": "approximate",
       "origin": "web",
@@ -2965,7 +2965,7 @@
     {
       "source_id": "src_devp_leduc_2015",
       "type": "web",
-      "title": "David Leduc named new Executive Director of Development and Peace \u2014 press release",
+      "title": "David Leduc named new Executive Director of Development and Peace — press release",
       "date": "2015-07-28",
       "date_precision": "exact",
       "origin": "web",
@@ -3029,7 +3029,7 @@
     {
       "source_id": "src_researchgate_twynam",
       "type": "web",
-      "title": "G. David Twynam's research works \u2014 ResearchGate profile",
+      "title": "G. David Twynam's research works — ResearchGate profile",
       "date": "2026-03-15",
       "date_precision": "exact",
       "origin": "web",
@@ -3045,7 +3045,7 @@
     {
       "source_id": "src_viu_news_twynam_award",
       "type": "web",
-      "title": "Dean Twynam Awarded for Leadership in Tourism Education \u2014 VIU News",
+      "title": "Dean Twynam Awarded for Leadership in Tourism Education — VIU News",
       "date": "2015",
       "date_precision": "approximate",
       "origin": "web",
@@ -3061,7 +3061,7 @@
     {
       "source_id": "src_tru_newsroom_2009_dean",
       "type": "web",
-      "title": "TRU announces new Dean of the School of Tourism \u2014 TRU Newsroom (2009)",
+      "title": "TRU announces new Dean of the School of Tourism — TRU Newsroom (2009)",
       "date": "2009-06-11",
       "date_precision": "exact",
       "origin": "web",
@@ -3077,7 +3077,7 @@
     {
       "source_id": "src_jsm_farrell_1998",
       "type": "periodical",
-      "title": "Volunteer Motivation, Satisfaction, and Management at an Elite Sporting Competition \u2014 Journal of Sport Management 12(4), 1998",
+      "title": "Volunteer Motivation, Satisfaction, and Management at an Elite Sporting Competition — Journal of Sport Management 12(4), 1998",
       "date": "1998",
       "date_precision": "year",
       "origin": "web",
@@ -3093,7 +3093,7 @@
     {
       "source_id": "src_leisure_twynam_2002",
       "type": "periodical",
-      "title": "Leisure and volunteer motivation at a special sporting event \u2014 Leisure/Loisir 27, 2002",
+      "title": "Leisure and volunteer motivation at a special sporting event — Leisure/Loisir 27, 2002",
       "date": "2002",
       "date_precision": "year",
       "origin": "web",
@@ -3109,7 +3109,7 @@
     {
       "source_id": "src_tru_newsroom_2008_skills",
       "type": "web",
-      "title": "Cariboo Skills Competition winners \u2014 TRU Newsroom (2008)",
+      "title": "Cariboo Skills Competition winners — TRU Newsroom (2008)",
       "date": "2008-03-12",
       "date_precision": "exact",
       "origin": "web",
@@ -3125,7 +3125,7 @@
     {
       "source_id": "src_heartofgold_ws",
       "type": "web",
-      "title": "Heart of Gold Project \u2014 Who's Involved page",
+      "title": "Heart of Gold Project — Who's Involved page",
       "date": "2015",
       "date_precision": "approximate",
       "origin": "web",
@@ -3136,12 +3136,12 @@
       "extracted": true,
       "extraction_version": "ralph-twynam-2026-03-15",
       "reliability": "secondary",
-      "notes": "Lists Dave Twynam PhD as Dean Faculty of Management VIU. Project involved VIU/Nanaimo, Costa Rica partners. Also lists Bob Payne PhD (Lakehead University) \u2014 Payne co-authored with Twynam."
+      "notes": "Lists Dave Twynam PhD as Dean Faculty of Management VIU. Project involved VIU/Nanaimo, Costa Rica partners. Also lists Bob Payne PhD (Lakehead University) — Payne co-authored with Twynam."
     },
     {
       "source_id": "src_leisure_johnston_twynam_1999",
       "type": "periodical",
-      "title": "Motivation and Satisfaction of Event Volunteers for a Major Youth Organization \u2014 Leisure/Loisir 24(1-2), 1999",
+      "title": "Motivation and Satisfaction of Event Volunteers for a Major Youth Organization — Leisure/Loisir 24(1-2), 1999",
       "date": "1999",
       "date_precision": "year",
       "origin": "web",
@@ -3301,7 +3301,7 @@
     {
       "source_id": "src_concordia_atom_fonds",
       "type": "catalog_reference",
-      "title": "Concordia University AtoM: YMCA of Montreal Fonds P0145 \u2014 full finding aid",
+      "title": "Concordia University AtoM: YMCA of Montreal Fonds P0145 — full finding aid",
       "date": "2026",
       "date_precision": "year",
       "origin": "concordia_archives",
@@ -3317,7 +3317,7 @@
     {
       "source_id": "src_concordia_atom_12K",
       "type": "catalog_reference",
-      "title": "Concordia University AtoM: P0145/12K \u2014 Les Voyageurs de la V\u00e9rendrye sub-series",
+      "title": "Concordia University AtoM: P0145/12K — Les Voyageurs de la Vérendrye sub-series",
       "date": "2026",
       "date_precision": "year",
       "origin": "concordia_archives",
@@ -3328,12 +3328,12 @@
       "extracted": true,
       "extraction_version": "v4.20",
       "reliability": "primary",
-      "notes": "Detailed listing of Les Voyageurs de la V\u00e9rendrye canoe program records 1958-1982."
+      "notes": "Detailed listing of Les Voyageurs de la Vérendrye canoe program records 1958-1982."
     },
     {
       "source_id": "src_trent_cca_fonds_78_004",
       "type": "catalog_reference",
-      "title": "Canadian Camping Association fonds (78-004) \u2014 Trent University Archives",
+      "title": "Canadian Camping Association fonds (78-004) — Trent University Archives",
       "date": "1936-1978",
       "date_precision": "approximate",
       "origin": "web",
@@ -3349,7 +3349,7 @@
     {
       "source_id": "src_trent_oca_fonds_72_007",
       "type": "catalog_reference",
-      "title": "Ontario Camping Association fonds (72-007) \u2014 Trent University Archives",
+      "title": "Ontario Camping Association fonds (72-007) — Trent University Archives",
       "date": "1922-1973",
       "date_precision": "approximate",
       "origin": "web",
@@ -3365,7 +3365,7 @@
     {
       "source_id": "src_trent_oca_fonds_78_006",
       "type": "catalog_reference",
-      "title": "Ontario Camping Association fonds, 1978 additions (78-006) \u2014 Trent University Archives",
+      "title": "Ontario Camping Association fonds, 1978 additions (78-006) — Trent University Archives",
       "date": "1949-1978",
       "date_precision": "approximate",
       "origin": "web",
@@ -3381,7 +3381,7 @@
     {
       "source_id": "src_trent_qca_fonds_85_013",
       "type": "catalog_reference",
-      "title": "Quebec Camping Association fonds (85-013) \u2014 Trent University Archives",
+      "title": "Quebec Camping Association fonds (85-013) — Trent University Archives",
       "date": "1937-1985",
       "date_precision": "approximate",
       "origin": "web",
@@ -3397,7 +3397,7 @@
     {
       "source_id": "src_trent_cca_fonds_umbrella",
       "type": "catalog_reference",
-      "title": "Canadian Camping Association fonds (umbrella) \u2014 Trent University Archives",
+      "title": "Canadian Camping Association fonds (umbrella) — Trent University Archives",
       "date": "1936-2008",
       "date_precision": "approximate",
       "origin": "web",
@@ -3413,7 +3413,7 @@
     {
       "source_id": "src_concordia_ymca_12A",
       "type": "catalog_reference",
-      "title": "Concordia University AtoM: P0145/12A \u2014 Camping and Outdoor Education sub-series",
+      "title": "Concordia University AtoM: P0145/12A — Camping and Outdoor Education sub-series",
       "date": "1893-1988",
       "date_precision": "approximate",
       "origin": "concordia_archives",
@@ -3429,7 +3429,7 @@
     {
       "source_id": "src_acq_kanawana_listing",
       "type": "web",
-      "title": "Camp YMCA Kanawana \u2014 Association des camps du Qu\u00e9bec listing",
+      "title": "Camp YMCA Kanawana — Association des camps du Québec listing",
       "date": "2026",
       "date_precision": "year",
       "origin": "web",
@@ -3445,7 +3445,7 @@
     {
       "source_id": "src_trent_oca_finding_aid_pdf",
       "type": "catalog_reference",
-      "title": "Trent University Archives Finding Aid \u2014 Ontario Camps Association fonds (PDF)",
+      "title": "Trent University Archives Finding Aid — Ontario Camps Association fonds (PDF)",
       "date": "2020",
       "date_precision": "approximate",
       "origin": "web",
@@ -3461,7 +3461,7 @@
     {
       "source_id": "src_mironline_reconciliation_camps",
       "type": "web",
-      "title": "The Journey to Reconciliation in North American Summer Camps \u2014 MIR",
+      "title": "The Journey to Reconciliation in North American Summer Camps — MIR",
       "date": "2023",
       "date_precision": "approximate",
       "origin": "web",
@@ -3493,7 +3493,7 @@
     {
       "source_id": "src_wikipedia_kirk_wipper",
       "type": "web",
-      "title": "Kirk Wipper \u2014 Wikipedia",
+      "title": "Kirk Wipper — Wikipedia",
       "date": "2026",
       "date_precision": "year",
       "origin": "web",
@@ -3509,7 +3509,7 @@
     {
       "source_id": "src_ourontario_mary_edgar",
       "type": "thesis",
-      "title": "Mary S. Edgar's Contribution to the Canadian Camping Movement \u2014 Sundridge-Strong Digital Collection",
+      "title": "Mary S. Edgar's Contribution to the Canadian Camping Movement — Sundridge-Strong Digital Collection",
       "date": "unknown",
       "date_precision": "approximate",
       "origin": "web",
@@ -3573,7 +3573,7 @@
     {
       "source_id": "src_ciusss_weredale_90",
       "type": "web",
-      "title": "CIUSSS de l'Ouest-de-l'\u00cele-de-Montr\u00e9al: Camp Weredale 90th anniversary",
+      "title": "CIUSSS de l'Ouest-de-l'Île-de-Montréal: Camp Weredale 90th anniversary",
       "date": "2024",
       "date_precision": "year",
       "origin": "web",
@@ -3589,7 +3589,7 @@
     {
       "source_id": "src_dawson_crlt",
       "type": "web",
-      "title": "Dawson College CRLT Scholarships page \u2014 A. Ross Seaman Memorial Scholarship",
+      "title": "Dawson College CRLT Scholarships page — A. Ross Seaman Memorial Scholarship",
       "date": "2026",
       "date_precision": "year",
       "origin": "web",
@@ -3632,7 +3632,7 @@
       "extracted": true,
       "extraction_version": "v4.23",
       "reliability": "secondary",
-      "notes": "Two CBC articles on Kanawana COVID closures. Sean Day quotes. Staff names L\u00e9ontyne Hach\u00e9, Ga\u00ebtane Verna."
+      "notes": "Two CBC articles on Kanawana COVID closures. Sean Day quotes. Staff names Léontyne Haché, Gaëtane Verna."
     },
     {
       "source_id": "src_lapresse_fitspirit_2011",
@@ -3749,7 +3749,7 @@
     {
       "source_id": "src_trent_cca_fonds",
       "type": "catalog_reference",
-      "title": "Trent University Archives \u2014 CCA fonds 78-004",
+      "title": "Trent University Archives — CCA fonds 78-004",
       "date": "2026",
       "date_precision": "year",
       "origin": "web",
@@ -3765,7 +3765,7 @@
     {
       "source_id": "src_cca_magazine_ia",
       "type": "periodical",
-      "title": "Canadian Camping Magazine \u2014 Internet Archive collection",
+      "title": "Canadian Camping Magazine — Internet Archive collection",
       "date": "1949-1988",
       "date_precision": "year",
       "origin": "internet_archive",
@@ -4081,6 +4081,326 @@
       "extraction_version": "ralph-mosher-r1-2026-03-15",
       "reliability": "primary",
       "notes": "NFB documentary profiling Mosher and Chapleau."
+    },
+    {
+      "source_id": "src_canadian_encyclopedia_mosher",
+      "type": "web",
+      "title": "Terry Mosher — The Canadian Encyclopedia",
+      "date": "2023",
+      "date_precision": "approximate",
+      "origin": "web",
+      "origin_url": "https://www.thecanadianencyclopedia.ca/en/article/terry-mosher",
+      "cache_path": null,
+      "char_count": 0,
+      "ingested_at": "2026-03-16T04:15:00Z",
+      "extracted": true,
+      "extraction_version": "v4.27",
+      "reliability": "secondary",
+      "notes": "Comprehensive biography: education, career timeline, awards, controversies"
+    },
+    {
+      "source_id": "src_aislin_com",
+      "type": "web",
+      "title": "About Aislin — aislin.com",
+      "date": "2024",
+      "date_precision": "approximate",
+      "origin": "web",
+      "origin_url": "http://www.aislin.com/wordpress/about-aislin/",
+      "cache_path": null,
+      "char_count": 0,
+      "ingested_at": "2026-03-16T04:15:00Z",
+      "extracted": true,
+      "extraction_version": "v4.27",
+      "reliability": "primary",
+      "notes": "Official website biography. Publication count, career overview."
+    },
+    {
+      "source_id": "src_concordia_mosher_2018",
+      "type": "web",
+      "title": "Concordia University: Honorary Degree Recipients 2018 — Chapleau and Mosher",
+      "date": "2018-06",
+      "date_precision": "year",
+      "origin": "web",
+      "origin_url": "https://www.concordia.ca/offices/archives/honorary-degree-recipients/2018/June/serge-chapleau-terry-mosher.html",
+      "cache_path": null,
+      "char_count": 0,
+      "ingested_at": "2026-03-16T04:15:00Z",
+      "extracted": true,
+      "extraction_version": "v4.27",
+      "reliability": "primary",
+      "notes": "Doctor of Laws, honoris causa. Convocation June 2018 at Salle Wilfrid-Pelletier."
+    },
+    {
+      "source_id": "src_mccord_aislin_50",
+      "type": "web",
+      "title": "McCord Museum: Aislin — 50 Years of Cartoons (2017 exhibition)",
+      "date": "2017",
+      "date_precision": "year",
+      "origin": "web",
+      "origin_url": "https://www.musee-mccord-stewart.ca/en/exhibitions/aislin/",
+      "cache_path": null,
+      "char_count": 0,
+      "ingested_at": "2026-03-16T04:15:00Z",
+      "extracted": true,
+      "extraction_version": "v4.27",
+      "reliability": "primary",
+      "notes": "Major exhibition. McCord holds 6,000 original cartoons."
+    },
+    {
+      "source_id": "src_canada_post_mosher_2021",
+      "type": "web",
+      "title": "Canada Post: Editorial Cartoonist Stamp — Terry Mosher",
+      "date": "2021-10-08",
+      "date_precision": "exact",
+      "origin": "web",
+      "origin_url": "https://www.canadapost-postescanada.ca/blogs/personal/perspectives/editorial-cartoonist-terry-mosher/",
+      "cache_path": null,
+      "char_count": 0,
+      "ingested_at": "2026-03-16T04:15:00Z",
+      "extracted": true,
+      "extraction_version": "v4.27",
+      "reliability": "primary",
+      "notes": "Third stamp in five-stamp editorial cartoonist series."
+    },
+    {
+      "source_id": "src_wikipedia_mosher",
+      "type": "web",
+      "title": "Terry Mosher — Wikipedia",
+      "date": "2026",
+      "date_precision": "approximate",
+      "origin": "web",
+      "origin_url": "https://en.wikipedia.org/wiki/Terry_Mosher",
+      "cache_path": null,
+      "char_count": 0,
+      "ingested_at": "2026-03-16T04:15:00Z",
+      "extracted": true,
+      "extraction_version": "v4.27",
+      "reliability": "tertiary",
+      "notes": "Wikipedia biography. Cross-referenced with Canadian Encyclopedia for accuracy."
+    },
+    {
+      "source_id": "src_bccat_awards_2014",
+      "type": "web",
+      "title": "BCCAT Awards 2014 — Dave Twynam Community Leadership Award",
+      "date": "2014-11-14",
+      "date_precision": "exact",
+      "origin": "web",
+      "origin_url": null,
+      "cache_path": null,
+      "char_count": 0,
+      "ingested_at": "2026-03-16T04:00:00Z",
+      "extracted": true,
+      "extraction_version": "v4.27",
+      "reliability": "primary",
+      "notes": "BC Transfer & Articulation Community Leadership Award, Richmond BC."
+    },
+    {
+      "source_id": "src_paddling_mag_pageant",
+      "type": "web",
+      "title": "Paddling Magazine: Reminiscing On The Centennial Voyageur Canoe Pageant",
+      "date": "2024",
+      "date_precision": "approximate",
+      "origin": "web",
+      "origin_url": "https://paddlingmag.com/stories/columns/tumblehome/centennial-voyageur-canoe-pageant/",
+      "cache_path": null,
+      "char_count": 0,
+      "ingested_at": "2026-03-16T05:00:00Z",
+      "extracted": true,
+      "extraction_version": "v4.27",
+      "reliability": "secondary",
+      "notes": "Comprehensive: canoe construction, route, prizes, organizers, canoe fates."
+    },
+    {
+      "source_id": "src_canadian_history_ehx_pageant",
+      "type": "web",
+      "title": "Canadian History Ehx: The Voyageur Centennial Canoe Pageant",
+      "date": "2023-09-12",
+      "date_precision": "exact",
+      "origin": "web",
+      "origin_url": "https://canadaehx.com/2023/09/12/the-voyageur-centennial-canoe-pageant/",
+      "cache_path": null,
+      "char_count": 0,
+      "ingested_at": "2026-03-16T05:00:00Z",
+      "extracted": true,
+      "extraction_version": "v4.27",
+      "reliability": "secondary",
+      "notes": "Popular history account."
+    },
+    {
+      "source_id": "src_guinness_canoe_race",
+      "type": "web",
+      "title": "Guinness World Records: Longest canoeing race",
+      "date": "2012",
+      "date_precision": "approximate",
+      "origin": "web",
+      "origin_url": "https://www.guinnessworldrecords.com/world-records/64483-longest-canoeing-race",
+      "cache_path": null,
+      "char_count": 0,
+      "ingested_at": "2026-03-16T05:00:00Z",
+      "extracted": true,
+      "extraction_version": "v4.27",
+      "reliability": "primary",
+      "notes": "Official Guinness record confirmation."
+    },
+    {
+      "source_id": "src_wikipedia_starkell",
+      "type": "web",
+      "title": "Don Starkell — Wikipedia",
+      "date": "2026",
+      "date_precision": "approximate",
+      "origin": "web",
+      "origin_url": "https://en.wikipedia.org/wiki/Don_Starkell",
+      "cache_path": null,
+      "char_count": 0,
+      "ingested_at": "2026-03-16T05:00:00Z",
+      "extracted": true,
+      "extraction_version": "v4.27",
+      "reliability": "tertiary",
+      "notes": "Starkell biography, Pageant participation."
+    },
+    {
+      "source_id": "src_wikipedia_morse",
+      "type": "web",
+      "title": "Eric W. Morse — Wikipedia",
+      "date": "2026",
+      "date_precision": "approximate",
+      "origin": "web",
+      "origin_url": "https://en.wikipedia.org/wiki/Eric_W._Morse",
+      "cache_path": null,
+      "char_count": 0,
+      "ingested_at": "2026-03-16T05:00:00Z",
+      "extracted": true,
+      "extraction_version": "v4.27",
+      "reliability": "tertiary",
+      "notes": "Morse biography, Pageant route planning."
+    },
+    {
+      "source_id": "src_guysborough_journal",
+      "type": "web",
+      "title": "Guysborough Journal: Guysborough's Centennial paddlers",
+      "date": "2017",
+      "date_precision": "approximate",
+      "origin": "web",
+      "origin_url": "https://guysboroughjournal.ca/?page=post&ID=938",
+      "cache_path": null,
+      "char_count": 0,
+      "ingested_at": "2026-03-16T05:00:00Z",
+      "extracted": true,
+      "extraction_version": "v4.27",
+      "reliability": "secondary",
+      "notes": "Nova Scotia team background."
+    },
+    {
+      "source_id": "src_cbc_archives_pageant",
+      "type": "web",
+      "title": "CBC Archives: Centennial Voyageur Canoe Pageant footage",
+      "date": "1967",
+      "date_precision": "exact",
+      "origin": "web",
+      "origin_url": null,
+      "cache_path": null,
+      "char_count": 0,
+      "ingested_at": "2026-03-16T05:00:00Z",
+      "extracted": true,
+      "extraction_version": "v4.27",
+      "reliability": "primary",
+      "notes": "Launch and finish footage. Also CBC Doc Project 'Paddle of the Century'."
+    },
+    {
+      "source_id": "src_mediaterre_kanawana_2009",
+      "type": "web",
+      "title": "Mediaterre: Camp Y Kanawana poursuit sa revitalisation",
+      "date": "2009-03-03",
+      "date_precision": "exact",
+      "origin": "web",
+      "origin_url": "https://www.mediaterre.org/jeunes/exportactu,20090303110253,16.html",
+      "cache_path": null,
+      "char_count": 0,
+      "ingested_at": "2026-03-16T04:30:00Z",
+      "extracted": true,
+      "extraction_version": "v4.27",
+      "reliability": "secondary",
+      "notes": "Sean Day title as directeur des programmes."
+    },
+    {
+      "source_id": "src_linkedin_sean_day",
+      "type": "web",
+      "title": "LinkedIn: Sean Day",
+      "date": "2026",
+      "date_precision": "approximate",
+      "origin": "web",
+      "origin_url": "https://ca.linkedin.com/in/sean-day-13811132",
+      "cache_path": null,
+      "char_count": 0,
+      "ingested_at": "2026-03-16T04:30:00Z",
+      "extracted": true,
+      "extraction_version": "v4.27",
+      "reliability": "primary",
+      "notes": "Concordia education, Tyndale St-Georges current role."
+    },
+    {
+      "source_id": "src_facebook_kanawana",
+      "type": "web",
+      "title": "Camp YMCA Kanawana Facebook page",
+      "date": "2014",
+      "date_precision": "approximate",
+      "origin": "web",
+      "origin_url": "https://www.facebook.com/YKanawana/",
+      "cache_path": null,
+      "char_count": 0,
+      "ingested_at": "2026-03-16T04:30:00Z",
+      "extracted": true,
+      "extraction_version": "v4.27",
+      "reliability": "primary",
+      "notes": "Sean Day anti-bullying video."
+    },
+    {
+      "source_id": "src_acq_day",
+      "type": "web",
+      "title": "Association des camps du Québec: Great NEWS article",
+      "date": "2023",
+      "date_precision": "approximate",
+      "origin": "web",
+      "origin_url": "https://campsquebec.com/blogue-camps/great-news-for-our-english-members",
+      "cache_path": null,
+      "char_count": 0,
+      "ingested_at": "2026-03-16T04:30:00Z",
+      "extracted": true,
+      "extraction_version": "v4.27",
+      "reliability": "secondary",
+      "notes": "Day described as 'former director'."
+    },
+    {
+      "source_id": "src_ymca_mclean_fund",
+      "type": "web",
+      "title": "YMCA Quebec: Stuart McLean Camp YMCA Kanawana Fund",
+      "date": "2017",
+      "date_precision": "year",
+      "origin": "web",
+      "origin_url": "https://www.ymcaquebec.org/en/Blog/The-Stuart-McLean-Camp-Kanawana-Fund-providing-fi",
+      "cache_path": null,
+      "char_count": 0,
+      "ingested_at": "2026-03-16T04:30:00Z",
+      "extracted": true,
+      "extraction_version": "v4.27",
+      "reliability": "primary",
+      "notes": "Fund description and purpose."
+    },
+    {
+      "source_id": "src_hamilton_community_foundation",
+      "type": "web",
+      "title": "Hamilton Community Foundation: Ed Smee Fund",
+      "date": "1999",
+      "date_precision": "year",
+      "origin": "web",
+      "origin_url": null,
+      "cache_path": null,
+      "char_count": 0,
+      "ingested_at": "2026-03-16T04:45:00Z",
+      "extracted": true,
+      "extraction_version": "v4.27",
+      "reliability": "primary",
+      "notes": "Ed Smee Conserver Society Environmental Fund."
     }
   ],
   "source_count": 256

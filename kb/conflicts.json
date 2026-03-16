@@ -4,14 +4,22 @@
     {
       "conflict_id": "c_001",
       "description": "Coeducation start date: 1968 vs 1969",
-      "fact_ids": ["f_0200", "f_0201"],
+      "fact_ids": [
+        "f_0200",
+        "f_0201"
+      ],
       "entity": "Camp Kanawana",
       "attribute": "coeducation_start_date",
-      "values": ["1969 (Kanawana Facts sheet)", "1968 (YMCA Quebec website)"],
+      "values": [
+        "1969 (Kanawana Facts sheet)",
+        "1968 (YMCA Quebec website)"
+      ],
       "status": "unresolved",
       "notes": "YMCA website says 1968; Kanawana Facts sheet says 1969. Both are official YMCA sources. v49 handoff confirmed the discrepancy exists on the live site.",
       "created_at": "2026-02-11T06:00:00Z",
-      "affects_articles": ["coeducation-gender"]
+      "affects_articles": [
+        "coeducation-gender"
+      ]
     },
     {
       "conflict_id": "c_002",
@@ -19,23 +27,47 @@
       "fact_ids": [],
       "entity": "Camp Oolahwan",
       "attribute": "centennial_reunion_date_2017",
-      "values": ["September 8-10, 2017 (YWCA source)", "August 25-27, 2017 (West Island Blog)"],
+      "values": [
+        "September 8-10, 2017 (YWCA source)",
+        "August 25-27, 2017 (West Island Blog)"
+      ],
       "status": "unresolved",
       "notes": "Two sources give different weekend dates for the same event at Camp Ouareau. Neither source has been verified as authoritative.",
       "created_at": "2026-03-15T13:30:00Z",
-      "affects_articles": ["camp-ouareau"]
+      "affects_articles": [
+        "camp-ouareau"
+      ]
     },
     {
       "conflict_id": "c_003",
       "description": "Taylor Statten ACA presidency year: 1941 vs 1942",
-      "fact_ids": ["f_0938", "f_0892"],
+      "fact_ids": [
+        "f_0938",
+        "f_0892"
+      ],
       "entity": "Taylor Statten",
       "attribute": "aca_presidency_year",
-      "values": ["1941 (ACA Presidents page — elected 1941, resigned due to illness)", "1942 (CCA history source)"],
+      "values": [
+        "1941 (ACA Presidents page — elected 1941, resigned due to illness)",
+        "1942 (CCA history source)"
+      ],
       "status": "unresolved",
       "notes": "ACA official presidents list says 1941 with illness resignation; CCA-derived fact says 1942. May reflect election year vs service year distinction.",
       "created_at": "2026-03-15T15:00:00Z",
-      "affects_articles": ["taylor-statten", "canadian-camping-movement"]
+      "affects_articles": [
+        "taylor-statten",
+        "canadian-camping-movement"
+      ]
+    },
+    {
+      "conflict_id": "c_004",
+      "description": "Sean Day's post-YMCA role: f_0860 (oral history) says Rossy Foundation, f_0991 (LinkedIn) says Tyndale St-Georges Community Centre. LinkedIn is more current; Rossy may have been an interim or incorrect report.",
+      "facts": [
+        "f_0860",
+        "f_0991"
+      ],
+      "resolution": "pending",
+      "created_at": "2026-03-16T05:00:00Z"
     }
   ]
 }
