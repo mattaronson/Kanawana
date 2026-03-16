@@ -38,10 +38,10 @@ Caddell died on October 16, 2005 in Tupiza, Bolivia, of pulmonary edema caused b
 | 2013 | Sam Lazarus (posthumous) & family | Alumnus | Worked with orphans in Ghana; died of cerebral malaria c. 2004^3 |
 | 2014 | Jeniene Phillips Birks | Alumna | Former broadcaster and community volunteer^3 |
 | 2015 | Terry "Aislin" Mosher | Camper 1952–53 | Montreal Gazette editorial cartoonist; Officer of the Order of Canada^2 |
-| 2016 | Carol Skinner | Counsellor/Section Director 1990–95 | ALS advocate^1 |
-| 2017 | Chris Adam | Former staff | Environmentalist and teacher^3 |
-| 2018 | Dr. Marina Sharpe | Alumna | Refugee law scholar; DPhil Oxford; Senior Legal Officer, UNHCR^4 |
-| 2024 | Dr. James Orbinski | Camper/counsellor 1980s–90s | Humanitarian physician; former MSF president; Nobel Peace Prize acceptance (1999)^5 |
+| 2016 | Carol Skinner | Counsellor/Section Director 1990–95 | ALS advocate; Master's in Art Therapy; Director of YMCA Camp Hayward; CMHA Art Therapist^1 |
+| 2017 | Chris Adam | Former staff | Director of Sustainability Office, Dawson College; environmental educator^3 |
+| 2018 | Dr. Marina Sharpe | Former camper and staff | DPhil Law (Oxford, Trudeau Scholar); Assoc. Professor of International Law, RMC Saint-Jean; Director, Trudeau Foundation; author of *The Regional Law of Refugee Protection in Africa* (OUP, 2018)^4 |
+| 2024 | Dr. James Orbinski | Camper/counsellor 1980s–90s | President MSF International Council; accepted 1999 Nobel Peace Prize; Officer of the Order of Canada; Principal, Massey College, U of T^5 |
 
 The gap between 2018 and 2024 is not explained in available sources. The 2019 recipient's name appears truncated in one source but has not been confirmed. Whether awards were given during the 2020–2023 period is unknown.
 

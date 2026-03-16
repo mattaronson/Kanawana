@@ -1,5 +1,5 @@
 {
-  "version": "v4.27",
+  "version": "v4.28",
   "kb_version": "4.27",
   "migrated_from": "3.3",
   "fact_count": 973,
@@ -17106,6 +17106,359 @@
       "date_ref": "2006",
       "conflicts_with": [],
       "added_version": "v4.27",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1006",
+      "claim": "James Orbinski (born 1960, England) received the 2024 Pip Award. Camper and counsellor at Kanawana in 1980s-1990s. Grew up in NDG, Montreal. Dawson CEGEP, BA Psychology Trent (1984), MD McMaster (1990), MA IR U of T (1998). President of MSF International Council 1998; accepted 1999 Nobel Peace Prize on behalf of MSF. Officer of Order of Canada (2009). Currently Principal of Massey College, U of T.",
+      "sources": [
+        "src_ymca_pip_orbinski_2024",
+        "src_wikipedia_orbinski"
+      ],
+      "confidence": "stated",
+      "category": "notable_alumni",
+      "entities": [
+        "James Orbinski",
+        "Pip Award",
+        "Camp Kanawana"
+      ],
+      "date_ref": "2024",
+      "conflicts_with": [],
+      "added_version": "v4.28",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1007",
+      "claim": "Marina Sharpe received the 2018 Pip Award. Former camper and staff at Kanawana. BA Economics and LLB/BCL (McGill), MSc International Development (LSE), DPhil Law (Oxford, Trudeau Scholar 2011). Currently Associate Professor of International Law at RMC Saint-Jean. Author of 'The Regional Law of Refugee Protection in Africa' (OUP, 2018). Director of Pierre Elliott Trudeau Foundation.",
+      "sources": [
+        "src_ymca_pip_sharpe_2018"
+      ],
+      "confidence": "stated",
+      "category": "notable_alumni",
+      "entities": [
+        "Marina Sharpe",
+        "Pip Award"
+      ],
+      "date_ref": "2018",
+      "conflicts_with": [],
+      "added_version": "v4.28",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1008",
+      "claim": "Chris Adam received the 2017 Pip Award. Former Camp YMCA Kanawana staff member. Director of Sustainability Office and Living Campus at Dawson College, Montreal. Environmental educator who has lectured in multiple countries on sustainability.",
+      "sources": [
+        "src_ymca_pip_adam_2017"
+      ],
+      "confidence": "stated",
+      "category": "notable_alumni",
+      "entities": [
+        "Chris Adam",
+        "Pip Award"
+      ],
+      "date_ref": "2017",
+      "conflicts_with": [],
+      "added_version": "v4.28",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1009",
+      "claim": "Carol Sharman Skinner received the 2016 Pip Award. Counsellor and section director at Camp YMCA Kanawana 1990-1995. Later Director of YMCA Camp Hayward (Cape Cod), school counsellor, and Art Therapist for Canadian Mental Health Association in Ottawa. Diagnosed with ALS in 2013; became ALS Canada advocate. Master's degree in Art Therapy.",
+      "sources": [
+        "src_ymca_pip_skinner"
+      ],
+      "confidence": "stated",
+      "category": "notable_alumni",
+      "entities": [
+        "Carol Skinner",
+        "Pip Award"
+      ],
+      "date_ref": "2016",
+      "conflicts_with": [],
+      "added_version": "v4.28",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1010",
+      "claim": "Philip 'Pip' Caddell (1913-2004) attended Camp Kanawana as a camper in 1928. He was an officer in the Canadian Army in WWII, a Montreal executive, and a community volunteer. His grandson James Lawrence Caddell (1973-2005) was a camper and counsellor at Kanawana 1983-1991, served in Bosnia (1995), and died of pulmonary edema in Tupiza, Bolivia, on Oct 16 2005 at age 32.",
+      "sources": [
+        "src_wikipedia_james_caddell",
+        "src_ymca_pip_mosher"
+      ],
+      "confidence": "stated",
+      "category": "notable_alumni",
+      "entities": [
+        "Philip Caddell",
+        "James Caddell",
+        "Pip Award"
+      ],
+      "date_ref": "1928",
+      "conflicts_with": [],
+      "added_version": "v4.28",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1011",
+      "claim": "Andrew Caddell (son of Philip, father of James) established the Pip Alumni Award in 2007. He retired from Global Affairs Canada in 2017, is a weekly columnist for the Hill Times, a town councillor in Kamouraska QC, and lectures at McGill's Max Bell School of Public Policy.",
+      "sources": [
+        "src_linkedin_andrew_caddell"
+      ],
+      "confidence": "stated",
+      "category": "notable_alumni",
+      "entities": [
+        "Andrew Caddell",
+        "Pip Award"
+      ],
+      "date_ref": "2007",
+      "conflicts_with": [],
+      "added_version": "v4.28",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1012",
+      "claim": "The James Caddell Memorial Scholarship for Orphans was established after James Caddell's death, funding education for orphaned and impoverished children in South India.",
+      "sources": [
+        "src_wikipedia_james_caddell"
+      ],
+      "confidence": "stated",
+      "category": "notable_alumni",
+      "entities": [
+        "James Caddell"
+      ],
+      "date_ref": "2005",
+      "conflicts_with": [],
+      "added_version": "v4.28",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1013",
+      "claim": "Stuart McLean's full name was Andrew Stuart McLean, OC. Born April 19, 1948, Montreal West, Quebec. Died February 15, 2017, Toronto, of melanoma, age 68. Parents: Andrew Thompson McLean and Patricia/Margaret (née Godkin), Australian immigrants. Brother Alistair, sister Stephanie. Grew up on Brock Avenue, Montreal West.",
+      "sources": [
+        "src_canadian_encyclopedia_mclean",
+        "src_wikipedia_mclean"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "Stuart McLean"
+      ],
+      "date_ref": "1948-04-19",
+      "conflicts_with": [],
+      "added_version": "v4.28",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1014",
+      "claim": "Stuart McLean attended Elizabeth Ballantyne School (elementary), Lower Canada College (high school), and Sir George Williams University (BA Applied Social Science, graduated 1971). He received an honorary Doctor of Laws from Concordia University in 2014.",
+      "sources": [
+        "src_canadian_encyclopedia_mclean",
+        "src_concordia_mclean"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "Stuart McLean",
+        "Lower Canada College",
+        "Sir George Williams University",
+        "Concordia University"
+      ],
+      "date_ref": "1971",
+      "conflicts_with": [],
+      "added_version": "v4.28",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1015",
+      "claim": "Stuart McLean visited a friend working at Kanawana in summer 1969 and was hired on the spot as a counsellor in the senior boys' section. He worked five summers total, rising to assistant director. A former colleague confirmed McLean was assistant camp director summers of 1974 and 1975.",
+      "sources": [
+        "src_samaritanmag_mclean",
+        "src_westmount_mag_mclean"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "Stuart McLean",
+        "Camp Kanawana"
+      ],
+      "date_ref": "1969-1975",
+      "conflicts_with": [],
+      "added_version": "v4.28",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1016",
+      "claim": "Stuart McLean on Kanawana: 'When I got to camp, I found a place where I was accepted by others and I was able to contribute to the greater good. It worked its magic on me. Camp is where I found my confidence.' Also: 'It was the first place, as a young person, that I felt I could contribute to the greater good.'",
+      "sources": [
+        "src_ourkids_mclean_interview",
+        "src_cbc_mclean_fund_2017"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "Stuart McLean",
+        "Camp Kanawana"
+      ],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "v4.28",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1017",
+      "claim": "The Vinyl Cafe debuted in 1994 as a summer replacement on CBC Radio; became a weekly staple by 1997. McLean won three Stephen Leacock Medals: Home from the Vinyl Cafe (1999), Vinyl Cafe Unplugged (2001), Secrets from the Vinyl Cafe (2007). Officer of the Order of Canada (2011).",
+      "sources": [
+        "src_canadian_encyclopedia_mclean",
+        "src_wikipedia_mclean"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "Stuart McLean"
+      ],
+      "date_ref": "1994-2017",
+      "conflicts_with": [],
+      "added_version": "v4.28",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1018",
+      "claim": "McLean turned down a chance to study journalism at Carleton University one summer in order to return to Kanawana as assistant director.",
+      "sources": [
+        "src_ourkids_mclean_interview"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "Stuart McLean",
+        "Camp Kanawana",
+        "Carleton University"
+      ],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "v4.28",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1019",
+      "claim": "The YMCA of Montreal was founded November 25, 1851, the first YMCA in North America, predating Boston (December 29, 1851) by about one month. The founding meeting was held at St. Helen Street Baptist Church in Old Montreal.",
+      "sources": [
+        "src_ymca_quebec_history",
+        "src_canadian_encyclopedia_ymca"
+      ],
+      "confidence": "stated",
+      "category": "institutional",
+      "entities": [
+        "YMCA Montreal"
+      ],
+      "date_ref": "1851-11-25",
+      "conflicts_with": [],
+      "added_version": "v4.28",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1020",
+      "claim": "The YMCA Montreal built purpose-built buildings at: Victoria Square (1873), Dominion Square (1891, reportedly tallest building in the British Empire), and Drummond Street (1912, $540,206 cost). A 500-room residential annex was added to Drummond Street in 1931 during the Great Depression.",
+      "sources": [
+        "src_ymca_quebec_history",
+        "src_imtl_ymca"
+      ],
+      "confidence": "stated",
+      "category": "institutional",
+      "entities": [
+        "YMCA Montreal"
+      ],
+      "date_ref": "1873-1931",
+      "conflicts_with": [],
+      "added_version": "v4.28",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1021",
+      "claim": "Sir George Williams College was organized in 1926 as the education arm of the YMCA of Montreal, named after YMCA founder George Williams. It received a university charter in 1948, becoming Sir George Williams University. On August 24, 1974, SGWU merged with Loyola College to form Concordia University.",
+      "sources": [
+        "src_concordia_sgw_history",
+        "src_wikipedia_sgwu"
+      ],
+      "confidence": "stated",
+      "category": "institutional",
+      "entities": [
+        "YMCA Montreal",
+        "Sir George Williams University",
+        "Concordia University"
+      ],
+      "date_ref": "1926-1974",
+      "conflicts_with": [],
+      "added_version": "v4.28",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1022",
+      "claim": "The YMCA Montreal was renamed 'Le Y du Québec' around 2009. It now operates as Les YMCA du Québec / The YMCAs of Quebec (ymcaquebec.org). As of 2025 it has 9 centres, 36 service points, serves 120,000+ people, and operates Camp YMCA Kanawana as its sole remaining camp.",
+      "sources": [
+        "src_ymca_quebec_history",
+        "src_concordia_fonds"
+      ],
+      "confidence": "stated",
+      "category": "institutional",
+      "entities": [
+        "YMCA Quebec",
+        "Camp Kanawana"
+      ],
+      "date_ref": "2009-2025",
+      "conflicts_with": [],
+      "added_version": "v4.28",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1023",
+      "claim": "The YMCAs of Quebec underwent a major strategic restructuring in November 2019, closing Guy-Favreau and Hochelaga-Maisonneuve centres, shifting toward community programs and away from large fitness facilities. Day camps were discontinued fall 2025; Kanawana summer camp continues.",
+      "sources": [
+        "src_newswire_ymca_2019"
+      ],
+      "confidence": "stated",
+      "category": "institutional",
+      "entities": [
+        "YMCA Quebec",
+        "Camp Kanawana"
+      ],
+      "date_ref": "2019-2025",
+      "conflicts_with": [],
+      "added_version": "v4.28",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1024",
+      "claim": "Pascale Audette was appointed President & CEO of the YMCAs of Quebec in November 2024, the first woman in this role.",
+      "sources": [
+        "src_ymca_audette_2024"
+      ],
+      "confidence": "stated",
+      "category": "institutional",
+      "entities": [
+        "YMCA Quebec",
+        "Pascale Audette"
+      ],
+      "date_ref": "2024-11",
+      "conflicts_with": [],
+      "added_version": "v4.28",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1025",
+      "claim": "J.H. Winn was elected first president of the Montreal YMCA shortly after its 1851 founding. T. James Claxton's father was directly involved in the founding; Claxton chronicled the history in a 1944 letter to G.W. Birks.",
+      "sources": [
+        "src_ymca_quebec_history"
+      ],
+      "confidence": "stated",
+      "category": "institutional",
+      "entities": [
+        "YMCA Montreal",
+        "J.H. Winn",
+        "T. James Claxton"
+      ],
+      "date_ref": "1851",
+      "conflicts_with": [],
+      "added_version": "v4.28",
       "added_by": "ralph_loop"
     }
   ]

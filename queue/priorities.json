@@ -1237,7 +1237,9 @@
       "blocking": false,
       "assigned_weight": "P3",
       "created_at": "2026-03-15T05:25:17Z",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-03-16T06:00:00Z",
+      "result": "Web research on Pip Award recipients completed. Orbinski (Nobel Peace Prize, MSF), Sharpe (DPhil Oxford, refugee law), Adam (Dawson sustainability), Skinner (ALS advocate, art therapist). Caddell family fully documented."
     },
     {
       "priority_id": "p_098",
@@ -1248,7 +1250,9 @@
       "blocking": false,
       "assigned_weight": "P3",
       "created_at": "2026-03-15T05:25:17Z",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-03-16T06:00:00Z",
+      "result": "Stuart McLean full biography: born Apr 19 1948, Montreal West. SGW BA 1971, Ryerson professor 1984-2004, Vinyl Cafe 1994-2017. Camp Kanawana counsellor 1969, asst director 1974-75 (confirmed by colleague). Quotes about camp impact. Fund established before death Feb 15 2017. No specific fundraising totals found."
     },
     {
       "priority_id": "p_099",
@@ -1268,12 +1272,13 @@
       "rank": 100,
       "type": "RESEARCH",
       "description": "Web research on YMCA Quebec organizational history — mergers, name changes, relationship to national YMCA, current structure",
-      "article_id": null,
+      "article_id": "ymca-quebec-history",
       "blocking": false,
       "assigned_weight": "P3",
       "created_at": "2026-03-15T05:25:17Z",
-      "status": "pending",
-      "notes": "May warrant new article: ymca-quebec-history"
+      "status": "completed",
+      "completed_at": "2026-03-16T07:00:00Z",
+      "result": "Research completed. 7 new facts (f_1019-f_1025), 5 new sources. Article ymca-quebec-history created."
     },
     {
       "priority_id": "p_101",
@@ -1284,7 +1289,9 @@
       "blocking": false,
       "assigned_weight": "P3",
       "created_at": "2026-03-15T05:25:17Z",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-03-16T06:00:00Z",
+      "result": "Philip 'Pip' Caddell (1913-2004): camper 1928, WWII officer, Montreal executive. James Caddell (1973-2005): camper/counsellor 1983-1991, Bosnia peacekeeper, died Tupiza Bolivia. Andrew Caddell: Global Affairs, Hill Times, McGill lecturer, established award 2007."
     },
     {
       "priority_id": "p_102",
