@@ -1502,8 +1502,9 @@
       "blocking": false,
       "assigned_weight": "P3",
       "created_at": "2026-03-17T04:35:00Z",
-      "status": "pending",
-      "result": null
+      "status": "completed",
+      "result": "Environmental-history stub created. 1100 words, 12 sources, 5 open questions. Covers Clivus Multrum, RSVL monitoring, C-Vert, CRLT-Dawson pipeline, Chris Adam, McConnell/Desjardins funding, nature-deficit framing.",
+      "completed_at": "2026-03-17T05:00:00Z"
     },
     {
       "priority_id": "p_118",

@@ -3575,6 +3575,59 @@
       ],
       "file_id": null,
       "word_count": 2200
+    },
+    {
+      "article_id": "environmental-history",
+      "title": "Environmental Education and Stewardship at Kanawana",
+      "wiki_folder": "context",
+      "status": "stub",
+      "status_history": [
+        {
+          "status": "stub",
+          "at": "2026-03-17T05:00:00Z",
+          "by": "auto",
+          "task": "WRITE"
+        }
+      ],
+      "ralph_loops_completed": 1,
+      "kb_facts_used": [
+        "f_0477",
+        "f_0572",
+        "f_0582",
+        "f_1087",
+        "f_1114",
+        "f_1115",
+        "f_1116",
+        "f_1117",
+        "f_1122",
+        "f_1042",
+        "f_1035",
+        "f_0114"
+      ],
+      "sources_cited": [
+        "src_ymca_kanawana_job_listing",
+        "src_clivus_multrum_projects",
+        "src_crel_lac_kanawana",
+        "src_emsb_kanawana_experience",
+        "src_ymca_cvert_program",
+        "src_postmedia_nature_deficit_2026",
+        "src_dawson_crlt",
+        "src_dawson_chris_adam",
+        "src_cbc_dawson_green_gown",
+        "src_mcconnell_foundation",
+        "src_lapresse_ymca_2018",
+        "src_ka_news_1980"
+      ],
+      "open_questions": 5,
+      "cross_links": [
+        "the-kanawana-site",
+        "programs-activities",
+        "notable-alumni",
+        "a-ross-seaman",
+        "canadian-camping-movement"
+      ],
+      "file_id": null,
+      "word_count": 1100
     }
   ]
 }
