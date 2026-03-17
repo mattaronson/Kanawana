@@ -396,3 +396,40 @@ This log records each Phase 2 search campaign: topic, queries tried, surfaces se
 - "Was the story tied to a specific place at camp?"
 - "Do you know when the story started being told?"
 - "Was there a jump-scare or chase element to how the story was told?"
+
+---
+
+## Session 4 — Source Ingestion: Postmedia Content Works Article (2026-03-17)
+
+**Source:** "Rewilding childhood: How one summer camp is tackling nature-deficit disorder among Montreal youth" by Ursula Leonowicz, Postmedia Content Works, published March 4, 2026. Sponsored content on behalf of YMCAs of Québec.
+
+**Type:** User-provided newspaper article (not discovered via search).
+
+### Facts Extracted (11 new facts, f_1032–f_1042)
+
+| Fact ID | Claim | New? |
+|---------|-------|------|
+| f_1032 | Xavier Maclaren attended camp 6 summers, became counsellor and canoe tripper | NEW person |
+| f_1033 | 85 campers registered in 1910 at Saint-Sauveur | NEW figure — conflicts with McMorris (66 members) |
+| f_1034 | English camp accessible to multilingual/diverse-ability campers | NEW institutional framing |
+| f_1035 | No-cellphone/no-Wi-Fi policy ("unplugged camp") | Expands existing f_0380 (technology-free) |
+| f_1036 | Current activities: survival, canoeing, rock climbing, archery, axe throwing, arts/crafts, music, dance | Axe throwing NEW; rest corroborates existing |
+| f_1037 | Ages 7-17, sessions 12-48 days, regular/leadership/expedition streams | Session length range NEW |
+| f_1038 | Financial assistance available through YMCA program | NEW |
+| f_1039 | Address: 673 Saint-Elmire St., Saint-Sauveur-des-Monts | NEW specific address |
+| f_1040 | Contact: camp.kanawana@ymcaquebec.org, campkanawana.org | NEW |
+| f_1041 | 1894 founding motivation: "take city youth away from everyday life, teach group dynamics, team-building, leadership" | Corroborates existing founding narrative |
+| f_1042 | Article is sponsored content by Postmedia Content Works for YMCAs of Québec; frames camp around "nature-deficit disorder" (Louv 2005) | Source metadata |
+
+### Conflict Created
+
+**c_005:** 1910 enrollment — McMorris thesis (primary archival research) says 66 members attended June 19–July 17. Postmedia 2026 (YMCA-sponsored) says 85 campers registered. Likely reflects registrations vs actual attendance, or may include Camp Otoreke numbers. McMorris is higher reliability.
+
+### Articles Updated
+
+- **programs-activities.md**: Added session lengths (12-48 days), axe throwing, financial assistance, no-cellphone/Wi-Fi detail
+- **the-kanawana-site.md**: Added street address (673 Saint-Elmire St.)
+
+### Assessment
+
+This is a secondary source (sponsored advertorial content) with limited new factual information beyond what was already in the KB. Its main value is: (1) confirming the YMCA's current institutional narrative, (2) providing Xavier Maclaren as a named contemporary alumnus, (3) the specific street address, and (4) the 85-camper figure for 1910 (which requires reconciliation with McMorris).

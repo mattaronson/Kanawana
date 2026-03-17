@@ -1,8 +1,8 @@
 {
-  "version": "v4.28",
-  "kb_version": "4.27",
+  "version": "v4.30",
+  "kb_version": "4.30",
   "migrated_from": "3.3",
-  "fact_count": 973,
+  "fact_count": 984,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -17570,6 +17570,189 @@
       "conflicts_with": [],
       "added_version": "v4.29",
       "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1032",
+      "claim": "Xavier Maclaren attended Camp Kanawana for six summers before becoming a camp counsellor and canoe tripper.",
+      "sources": [
+        "src_postmedia_nature_deficit_2026"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "Xavier Maclaren",
+        "Camp Kanawana"
+      ],
+      "date_ref": "c. 2020s",
+      "conflicts_with": [],
+      "added_version": "v4.30",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_1033",
+      "claim": "In 1910, 85 campers registered for the summer session when the YMCA acquired the Saint-Sauveur site.",
+      "sources": [
+        "src_postmedia_nature_deficit_2026"
+      ],
+      "confidence": "stated",
+      "category": "chronology",
+      "entities": [
+        "Camp Kanawana",
+        "Saint-Sauveur"
+      ],
+      "date_ref": "1910",
+      "conflicts_with": [],
+      "added_version": "v4.30",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_1034",
+      "claim": "Camp Kanawana describes itself as an English camp that is accessible to kids who speak many other languages including French, and accommodates campers with different needs and diverse abilities.",
+      "sources": [
+        "src_postmedia_nature_deficit_2026"
+      ],
+      "confidence": "stated",
+      "category": "programs",
+      "entities": [
+        "Camp Kanawana"
+      ],
+      "date_ref": "2026",
+      "conflicts_with": [],
+      "added_version": "v4.30",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_1035",
+      "claim": "Camp Kanawana enforces a no-cellphones and no-Wi-Fi policy, describing itself as an 'unplugged camp.'",
+      "sources": [
+        "src_postmedia_nature_deficit_2026"
+      ],
+      "confidence": "stated",
+      "category": "programs",
+      "entities": [
+        "Camp Kanawana"
+      ],
+      "date_ref": "2026",
+      "conflicts_with": [],
+      "added_version": "v4.30",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_1036",
+      "claim": "Current camp activities (as of 2026) include survival techniques, canoeing, rock climbing, archery, axe throwing, arts and crafts, music, and dance. Activities also include campfires and call-and-response songs in the forest.",
+      "sources": [
+        "src_postmedia_nature_deficit_2026"
+      ],
+      "confidence": "stated",
+      "category": "programs",
+      "entities": [
+        "Camp Kanawana"
+      ],
+      "date_ref": "2026",
+      "conflicts_with": [],
+      "added_version": "v4.30",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_1037",
+      "claim": "Camp Kanawana offers regular, leadership, and expedition programs for kids aged 7 to 17, lasting between 12 and 48 days.",
+      "sources": [
+        "src_postmedia_nature_deficit_2026"
+      ],
+      "confidence": "stated",
+      "category": "programs",
+      "entities": [
+        "Camp Kanawana"
+      ],
+      "date_ref": "2026",
+      "conflicts_with": [],
+      "added_version": "v4.30",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_1038",
+      "claim": "Financial assistance is available for Camp Kanawana through the YMCA's financial assistance program.",
+      "sources": [
+        "src_postmedia_nature_deficit_2026"
+      ],
+      "confidence": "stated",
+      "category": "administration",
+      "entities": [
+        "Camp Kanawana",
+        "YMCA"
+      ],
+      "date_ref": "2026",
+      "conflicts_with": [],
+      "added_version": "v4.30",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_1039",
+      "claim": "Camp Kanawana's address is 673 Saint-Elmire St. in Saint-Sauveur-des-Monts.",
+      "sources": [
+        "src_postmedia_nature_deficit_2026"
+      ],
+      "confidence": "stated",
+      "category": "geography",
+      "entities": [
+        "Camp Kanawana",
+        "Saint-Sauveur-des-Monts"
+      ],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "v4.30",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_1040",
+      "claim": "Camp Kanawana's contact email is camp.kanawana@ymcaquebec.org and website is campkanawana.org.",
+      "sources": [
+        "src_postmedia_nature_deficit_2026"
+      ],
+      "confidence": "stated",
+      "category": "administration",
+      "entities": [
+        "Camp Kanawana"
+      ],
+      "date_ref": "2026",
+      "conflicts_with": [],
+      "added_version": "v4.30",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_1041",
+      "claim": "The article describes the 1894 founding as motivated by the idea 'to take city youth away from everyday life and teach them about group dynamics, team-building and leadership.'",
+      "sources": [
+        "src_postmedia_nature_deficit_2026"
+      ],
+      "confidence": "stated",
+      "category": "founding",
+      "entities": [
+        "Camp Kanawana",
+        "Billy Ball"
+      ],
+      "date_ref": "1894",
+      "conflicts_with": [],
+      "added_version": "v4.30",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_1042",
+      "claim": "The Postmedia article (2026) is sponsored content created by Content Works, Postmedia's commercial content division, on behalf of the YMCAs of Québec. It frames Kanawana's programming around addressing 'nature-deficit disorder' (term coined by Richard Louv in 2005).",
+      "sources": [
+        "src_postmedia_nature_deficit_2026"
+      ],
+      "confidence": "stated",
+      "category": "media",
+      "entities": [
+        "Camp Kanawana",
+        "YMCAs of Québec",
+        "Postmedia"
+      ],
+      "date_ref": "2026-03-04",
+      "conflicts_with": [],
+      "added_version": "v4.30",
+      "added_by": "auto_extraction"
     }
   ]
 }

@@ -68,6 +68,26 @@
       ],
       "resolution": "pending",
       "created_at": "2026-03-16T05:00:00Z"
+    },
+    {
+      "conflict_id": "c_005",
+      "description": "1910 first-season enrollment at Saint-Sauveur: 66 members (McMorris) vs 85 campers registered (Postmedia/YMCA-sponsored 2026)",
+      "fact_ids": [
+        "f_1033"
+      ],
+      "entity": "Camp Kanawana",
+      "attribute": "1910_enrollment",
+      "values": [
+        "66 members attended between June 19 and July 17 (McMorris thesis, primary research)",
+        "85 campers registered for the summer session (Postmedia 2026, YMCA-sponsored content)"
+      ],
+      "status": "unresolved",
+      "notes": "McMorris (academic thesis with archival research) is the higher-reliability source. The 85 figure may reflect total registrations vs actual attendance, or may include Camp Otoreke (which continued operating at Lake St. Joseph). The Postmedia article is sponsored content written on behalf of YMCAs of Québec, so the 85 figure likely comes from the YMCA's own institutional narrative. Not necessarily contradictory — could be registrations vs attendance.",
+      "created_at": "2026-03-17T12:00:00Z",
+      "affects_articles": [
+        "founding-1894",
+        "programs-activities"
+      ]
     }
   ]
 }

@@ -1217,3 +1217,14 @@ HYPOTHESIZE:
   - Topic confirmed EXHAUSTED for online sources (Phase 2 threshold met: 16 queries, 5+ surfaces)
   - Remains blocked on oral history — retained in DRAFT_ORAL_HISTORY_INSTRUMENT queue item
   - Research log updated: project-docs/research-log.md Session 3
+
+2026-03-17T12:00:00Z | SOURCE_INGEST | src_postmedia_nature_deficit_2026 | Postmedia Content Works article (March 4, 2026)
+  - "Rewilding childhood: How one summer camp is tackling nature-deficit disorder among Montreal youth" by Ursula Leonowicz
+  - Sponsored content on behalf of YMCAs of Québec — reliability: secondary
+  - Cached to sources/cache/postmedia_kanawana_nature_deficit_2026.txt
+  - Extracted 11 facts (f_1032–f_1042): Xavier Maclaren testimony, 1910 enrollment (85 campers), language/accessibility policy, no-cellphone/Wi-Fi policy, current activities list, program structure (ages 7-17, 12-48 days), financial assistance, street address (673 Saint-Elmire St.), contact info, founding motivation framing, source metadata
+  - CONFLICT c_005 created: 1910 enrollment — McMorris says 66 members, Postmedia says 85 registered. Likely registrations vs attendance.
+  - Updated programs-activities.md: added session lengths, axe throwing, financial assistance, no-cellphone detail, Postmedia source
+  - Updated the-kanawana-site.md: added street address 673 Saint-Elmire St., Postmedia source
+  - Updated articles.json: sources_cited and kb_facts_used for both articles
+  - KB version: v4.30, fact count: 984, source count: 264

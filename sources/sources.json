@@ -4689,7 +4689,23 @@
       "extraction_version": "v4.29",
       "reliability": "secondary",
       "notes": "Confirms Fosbery adopted 'Non Nobis Solum' from family crest for LCC in 1909."
+    },
+    {
+      "source_id": "src_postmedia_nature_deficit_2026",
+      "type": "web",
+      "title": "Rewilding childhood: How one summer camp is tackling nature-deficit disorder among Montreal youth",
+      "date": "2026-03-04",
+      "date_precision": "exact",
+      "origin": "web",
+      "origin_url": null,
+      "cache_path": "sources/cache/postmedia_kanawana_nature_deficit_2026.txt",
+      "char_count": 4200,
+      "ingested_at": "2026-03-17T12:00:00Z",
+      "extracted": true,
+      "extraction_version": "v4.30",
+      "reliability": "secondary",
+      "notes": "Postmedia Content Works (sponsored content) by Ursula Leonowicz on behalf of YMCAs of Québec. Contains Xavier Maclaren testimony, founding history summary, current programs overview. Confirms Billy Ball, 1894 founding, 20 campers, Saint-Adolphe-d'Howard, 1910 move to Saint-Sauveur with 85 campers, 1968 coeducation, 550 acres, 3 private lakes, no-cellphone policy, address 673 Saint-Elmire St."
     }
   ],
-  "source_count": 263
+  "source_count": 264
 }

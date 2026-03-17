@@ -1,7 +1,7 @@
 # Programs and Activities at Kanawana
 
-*Status: E1-reviewed | Sources: src_brochure_1922, src_history_1935, src_mcmorris_thesis, src_kanawana_facts, src_ymca_website, src_concordia_12A, src_concordia_12B04, src_gas_bag_1923, src_cfcf_1941, src_brochure_1921*
-*Last Updated: 2026-02-19 (E1 REVIEW pass v51)*
+*Status: E1-reviewed | Sources: src_brochure_1922, src_history_1935, src_mcmorris_thesis, src_kanawana_facts, src_ymca_website, src_concordia_12A, src_concordia_12B04, src_gas_bag_1923, src_cfcf_1941, src_brochure_1921, src_postmedia_nature_deficit_2026*
+*Last Updated: 2026-03-17 (minor update — Postmedia 2026 source added: session lengths, axe throwing, financial assistance, no-cellphone detail)*
 
 ## Overview
 
@@ -57,9 +57,9 @@ The 1990s brought significant programme expansion:
 
 In 1996, Kanawana began offering year-round residential programming, extending the camp's operational calendar beyond the traditional summer season. In 1997, the Kanawana-Be programme was introduced for children aged 5-6, lowering the entry age. In 1998, the Adventurer programme launched as a one-month canoe camping trip, representing the most intensive wilderness offering in the camp's history.
 
-The current programme structure, as described on the YMCA Quebec website, includes Pioneers (ages 7-12, cabin-based), Voyageur canoe-camping trips, and leadership programmes for older teens. The Rangers program (ages 15-16) provides DAFA certification from the Conseil québécois du loisir. The 2022 Mountaineer programme added an all-gender tent option for transgender, non-binary, and gender non-conforming campers. Kanawana operates as a technology-free camp. International campers are actively recruited, with airport transfer services offered. Pre-COVID enrollment was approximately 900 campers per year.
+The current programme structure, as described on the YMCA Quebec website, includes Pioneers (ages 7-12, cabin-based), Voyageur canoe-camping trips, and leadership programmes for older teens. The Rangers program (ages 15-16) provides DAFA certification from the Conseil québécois du loisir. The 2022 Mountaineer programme added an all-gender tent option for transgender, non-binary, and gender non-conforming campers. Kanawana operates as a technology-free camp with no cellphones or Wi-Fi permitted.^pm International campers are actively recruited, with airport transfer services offered. Pre-COVID enrollment was approximately 900 campers per year. Programs for ages 7-17 are offered in regular, leadership, and expedition streams lasting between 12 and 48 days.^pm Financial assistance is available through the YMCA's financial assistance program.^pm
 
-The camp's current activity menu includes water trampolining, paddle boarding, archery, rope courses, rock climbing, theatre, music, arts and crafts, nature exploration, dance, survival techniques, and woodworking. The daily schedule features "Interest Groups," cabin/tent group time, and "General Swim." Environmental education, including stewardship and conservation action projects, is woven through the programming. As of fall 2025, the YMCAs of Québec discontinued all day camp programs (including holiday and spring break camps); Kanawana continues to operate as an overnight summer camp only.
+The camp's current activity menu includes water trampolining, paddle boarding, archery, axe throwing, rope courses, rock climbing, theatre, music, arts and crafts, nature exploration, dance, survival techniques, and woodworking.^pm The daily schedule features "Interest Groups," cabin/tent group time, and "General Swim." Environmental education, including stewardship and conservation action projects, is woven through the programming. As of fall 2025, the YMCAs of Québec discontinued all day camp programs (including holiday and spring break camps); Kanawana continues to operate as an overnight summer camp only.
 
 ## Open Questions
 
@@ -85,6 +85,7 @@ The camp's current activity menu includes water trampolining, paddle boarding, a
 - Concordia University Archives, YMCA of Montreal fonds, sub-series 12A and sub-sub-series 12B04.
 - CFCF Radio Broadcast Script, June 26, 1941. [Internet Archive](https://archive.org/details/1941-06-26-ymca-kamp-kanawana-broadcast-station-cfcf)
 - Reeves, Cathy (dir.). "Kamp Kanawana: The Experience that lasts a lifetime." Film, 1993 (released as VHS 1996, 9 min). Concordia archives.
+- [pm] Leonowicz, Ursula. "Rewilding childhood: How one summer camp is tackling nature-deficit disorder among Montreal youth." Postmedia Content Works (on behalf of YMCAs of Québec), March 4, 2026.
 
 ## R3 Verification Notes
 
