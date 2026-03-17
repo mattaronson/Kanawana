@@ -34,8 +34,8 @@ This index compiles all known directors of Camp Kanawana (originally Camp Jubile
 | Bruce Netherwood | late 1980s-1990s | Now VP Camping Services, South Shore YMCA, Massachusetts; 30+ years in YMCA camping | Oral history (M. Aronson) |
 | David Leduc | dates unknown (prob. late 1990s-early 2000s) | Managed all Kanawana summer/winter programs (75 employees, 800 participants), all operational budgets, safety/security of 800 participants, strategic business planning, developed intensive youth leadership program, reported to Board of Directors. BA International Development (Dalhousie); MBA (McGill, 2006-2011). Later: Oxfam-Quebec Lebanon coordinator (2000-2002), McGill ICAN director of operations, Exec. Dir. of Development and Peace (2015-2020), Director of Philanthropy (Quebec) at Pathways to Education. | LinkedIn (davidgleduc); Dev. & Peace press release 2015 |
 | Sean Day | 2004-2023 | Regional Director of Camps for the Quebec YMCAs and Director of Camp YMCA Kanawana (dual title); grew up at Camp Kanawana; 19 years of service; led pandemic response (closed overnight 2021, pivoted to day camps); navigated 2022 staff shortages; now Director of Fund Development at Rossy Foundation | Oral history (M. Aronson); CBC 2017, 2021, 2022; LinkedIn |
-| Kate Taylor | 2020s | Current camp director | YMCA Quebec website; CBC 2021 |
-| Kevin Slezak | 2020s | Current leadership alongside Kate Taylor | Web |
+| Kate Taylor | 2020s | Camp Director; appeared on Go Camp Pro "Beyond Camp" podcast discussing social media advocacy; led COVID-era communications with families; quoted in 2021 Gazette re: second consecutive summer closure | Go Camp Pro podcast; MSN/Gazette 2021; YMCA Quebec website |
+| Kevin Slezak | 2020s | Leadership team alongside Kate Taylor and Sean Day; participated in Jan 27 Zoom town hall with families | YMCA Quebec website; LinkedIn |
 
 ## Staff by Era
 

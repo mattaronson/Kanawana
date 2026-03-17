@@ -4897,6 +4897,38 @@
       "extraction_version": "v4.31",
       "reliability": "secondary",
       "notes": "QAHN article on Camp Jubilee/Otoreke history in Saint-Adolphe-d'Howard."
+    },
+    {
+      "source_id": "src_msn_kanawana_closed_2021",
+      "type": "web",
+      "title": "Kanawana sleepaway camp in the Laurentians to remain closed this summer (MSN/Montreal Gazette, 2021)",
+      "date": "2021",
+      "date_precision": "year",
+      "origin": "web",
+      "origin_url": "https://www.msn.com/en-ca/news/canada/kanawana-sleepaway-camp-in-the-laurentians-to-remain-closed-this-summer/ar-BB1fRCYt",
+      "cache_path": null,
+      "char_count": 0,
+      "ingested_at": "2026-03-17T00:00:00Z",
+      "extracted": true,
+      "extraction_version": "v4.31",
+      "reliability": "primary",
+      "notes": "News article about second consecutive summer closure. Kate Taylor quoted as director. Camp normally has ~900 campers/year."
+    },
+    {
+      "source_id": "src_gocamp_pro_kate_taylor",
+      "type": "web",
+      "title": "Social Media Advocacy - with Kate Taylor - Beyond Camp #18 (Go Camp Pro)",
+      "date": "2021",
+      "date_precision": "year",
+      "origin": "web",
+      "origin_url": "https://gocamp.pro/beyondcamp/social-media-advocacy",
+      "cache_path": null,
+      "char_count": 0,
+      "ingested_at": "2026-03-17T00:00:00Z",
+      "extracted": true,
+      "extraction_version": "v4.31",
+      "reliability": "primary",
+      "notes": "Podcast appearance by Kate Taylor, Camp Director, YMCA Kanawana."
     }
   ],
   "source_count": 303

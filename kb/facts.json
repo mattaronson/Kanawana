@@ -2,7 +2,7 @@
   "version": "v4.31",
   "kb_version": "4.31",
   "migrated_from": "3.3",
-  "fact_count": 1116,
+  "fact_count": 1120,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -19091,6 +19091,80 @@
         "Camp Kanawana"
       ],
       "date_ref": "2026",
+      "conflicts_with": [],
+      "added_version": "v4.31",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1107",
+      "claim": "Kate Taylor is Camp Director of YMCA Camp Kanawana. She appeared on the Go Camp Pro \"Beyond Camp\" podcast discussing social media advocacy and exploring privilege. She was part of the camp leadership team during COVID-19 alongside Sean Day and Kevin Slezak.",
+      "sources": [
+        "src_gocamp_pro_kate_taylor",
+        "src_msn_kanawana_closed_2021"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "Kate Taylor",
+        "Camp Kanawana",
+        "Sean Day",
+        "Kevin Slezak"
+      ],
+      "date_ref": "2020-2022",
+      "conflicts_with": [],
+      "added_version": "v4.31",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1108",
+      "claim": "Camp Kanawana was closed for two consecutive summers (2020 and 2021) due to COVID-19. The YMCA statement read: \"It is with a heavy heart that we must announce that once again all our Camp YMCA Kanawana programs are cancelled for the summer.\" The camp normally has about 900 campers per year. YMCA operated day camps in several neighbourhoods as an alternative.",
+      "sources": [
+        "src_msn_kanawana_closed_2021"
+      ],
+      "confidence": "stated",
+      "category": "institutional",
+      "entities": [
+        "Camp Kanawana",
+        "YMCAs of Quebec"
+      ],
+      "date_ref": "2020-2021",
+      "conflicts_with": [],
+      "added_version": "v4.31",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1109",
+      "claim": "On January 27 (year unspecified, likely 2022), the Camp Kanawana team of Sean Day, Kate Taylor, and Kevin Slezak held a Zoom town hall meeting with families to update them on camp plans. This confirms the leadership structure: Sean Day (Regional Director of Camps), Kate Taylor (Camp Director), Kevin Slezak (role unspecified, possibly Assistant Director).",
+      "sources": [
+        "src_ymca_kanawana_town_hall"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "Sean Day",
+        "Kate Taylor",
+        "Kevin Slezak",
+        "Camp Kanawana"
+      ],
+      "date_ref": "2022",
+      "conflicts_with": [],
+      "added_version": "v4.31",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1110",
+      "claim": "The Ross & Macdonald fonds at the Canadian Centre for Architecture (CCA) holds architectural drawings for the \"Doctor's Cottage for Kamp Kanawana.\" The fonds dates 1902-1982 (predominantly 1909-1959) and contains 27,893 drawings across approximately 600 documented projects.",
+      "sources": [
+        "src_cca_ross_macdonald_kanawana"
+      ],
+      "confidence": "stated",
+      "category": "architecture",
+      "entities": [
+        "Camp Kanawana",
+        "Ross & Macdonald",
+        "CCA"
+      ],
+      "date_ref": null,
       "conflicts_with": [],
       "added_version": "v4.31",
       "added_by": "ralph_loop"
