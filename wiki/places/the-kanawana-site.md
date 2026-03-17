@@ -1,7 +1,7 @@
 # The Kanawana Site
 
-*Status: E1-reviewed | Sources: src_ymca_website, src_kanawana_facts, src_brochure_1921, src_brochure_1922, src_gas_bag_1923, src_green_triangle_1938, src_mcmorris_thesis, src_concordia_fonds, src_wikidata_lac_kanawana, src_lapresse_ymca_2018, src_weredale_camp, src_mysummercamps_kanawana, src_crel_lac_kanawana, src_postmedia_nature_deficit_2026*
-*Last Updated: 2026-03-17 (minor update — street address added from Postmedia 2026 source)*
+*Status: E1-reviewed | Sources: src_ymca_website, src_kanawana_facts, src_brochure_1921, src_brochure_1922, src_gas_bag_1923, src_green_triangle_1938, src_mcmorris_thesis, src_concordia_fonds, src_wikidata_lac_kanawana, src_lapresse_ymca_2018, src_weredale_camp, src_mysummercamps_kanawana, src_crel_lac_kanawana, src_postmedia_nature_deficit_2026, src_ymca_kanawana_groups_rentals, src_ymca_kanawana_hebergement_fr, src_bonjour_quebec_kanawana, src_clivus_multrum_projects*
+*Last Updated: 2026-03-17 (winter programming, environmental infrastructure, seasonal rental windows added)*
 
 ## Overview
 
@@ -78,9 +78,31 @@ A 1928 Kanawana map and a 1962 Kanawana map were both analyzed in the McMorris t
 ### Desjardins Pavilion (2018)
 In 2018, Desjardins donated $1 million to the YMCA for renovations at Camp Kanawana, including a new community pavilion described as the "new heart of Kanawana" to increase the camp's capacity and expand its environmental education mission.^14
 
+## Year-Round Use
+
+Although primarily a summer camp, Kanawana operates as a "3-season outdoor and environmental education centre"^18 and is listed on Bonjour Québec as a "holiday centre" with a primary season of May 15 to October 15.^20 The camp has five distinct seasonal rental windows:^19
+
+- **Spring** (May 21–June 23): Full camp package for groups of 6–250 persons
+- **Summer** (June 23–August 20): Summer camp in session; limited rental for 6–26 persons only
+- **Fall** (August 20–October 14): Full camp package
+- **Winter refuge** (October 15–May 20): Rose des Vents Pavilion available in "refuge mode" without running water, by reservation only^19
+- **Winter experience** (January 6–March 7): Structured winter package including snowshoeing, outdoor games, campfire snack, and raclette/fondue dinner^19
+
+The Farmhouse and Blockhouse in Front Camp are winterized facilities.^9 Lake Wilson private campsites are available year-round.^1 Corporate retreats of 3+ days are offered at $643.75 per person per night, including meeting room, Wi-Fi, projector, and custom food services.^19 Meal services for group rentals require a minimum of 75 persons.^19
+
+The Concordia Archives hold records of a winter ski camp at Kanawana from 1945 to 1947, documenting the camp's earliest known winter use.^13
+
 ## Environmental Character
 
-The camp's 550 acres of Laurentian forest and three private lakes provide the setting for environmental education and conservation programming. The YMCA emphasizes stewardship values, and youth participate in community-based conservation projects implemented throughout the year.^1 ^7 Lac Kanawana is monitored by the Conseil régional de l'environnement des Laurentides (CREL), which classifies it within the municipality of Saint-Sauveur in the MRC Les Pays-d'en-Haut.^16 The lake's watershed of 5.17 km² and rapid water renewal time (0.43 years) reflect its position in the Laurentian hydrological system. No formal ecological survey or environmental designation has been identified in public records.
+The camp's 550 acres of Laurentian forest and three private lakes provide the setting for environmental education and conservation programming. The YMCA positions Kanawana as "Quebec's environmental education leader"^21 and emphasizes stewardship values, with youth participating in community-based conservation projects implemented throughout the year.^1 ^7
+
+### Environmental Infrastructure
+
+The camp has replaced its entire septic system with 16 commercial Clivus Multrum composting units accommodating 22,500 uses each per year, plus 32 dry toilets saving 576,000 gallons of water annually. Two central buildings contain all bathroom and shower facilities. The system was installed specifically to keep Lake Kanawana safe from pollution.^22
+
+### Lake Monitoring
+
+Lac Kanawana is monitored by the Conseil régional de l'environnement des Laurentides (CREL), which classifies it within the municipality of Saint-Sauveur in the MRC Les Pays-d'en-Haut.^16 The lake participates in Quebec's Réseau de surveillance volontaire des lacs (RSVL), with Secchi disk transparency measured every two weeks from June to October and water samples analyzed for phosphorus, dissolved organic carbon, and chlorophyll a.^16 The lake's watershed of 5.17 km² and rapid water renewal time (0.43 years) reflect its position in the Laurentian hydrological system. No formal ecological survey or environmental designation has been identified in public records.
 
 ## Proposed Two-Site Operation
 
@@ -126,3 +148,8 @@ From 1977 to 1980, plans existed for a proposed two-site operation using Kanawan
 15. Camp Weredale, https://weredalecamp.com/
 16. Conseil régional de l'environnement des Laurentides (CREL), Lac Kanawana environmental data. URL: https://crelaurentides.org/lake/kanawana/
 17. Leonowicz, Ursula. "Rewilding childhood: How one summer camp is tackling nature-deficit disorder among Montreal youth." Postmedia Content Works (on behalf of YMCAs of Québec), March 4, 2026.
+18. McConnell Foundation, "The YMCAs of Quebec" funding database. URL: https://www.mcconnellfoundation.ca/funding-database/the-ymcas-of-quebec/
+19. YMCA Quebec, Camp Kanawana Groups & Rentals. URL: https://www.ymcaquebec.org/en/find-a-y/camp-ymca-kanawana/groups-rentals; YMCA Quebec, Camp Kanawana Hébergement (French). URL: https://www.ymcaquebec.org/fr/camp-vacances-kanawana/hebergement-location-equipements
+20. Bonjour Québec, "YMCA Kanawana Holiday Centre." URL: https://www.bonjourquebec.com/en-us/listing/accommodation/ymca-kanawana/0i7c
+21. YMCA Quebec, Program Specialists job posting (via The Ladders).
+22. Clivus Multrum, Parks & Recreation projects. URL: https://clivusmultrum.com/parks-recreation-toilet-system-projects.php

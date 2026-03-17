@@ -3465,16 +3465,22 @@
       "article_id": "notable-alumni",
       "title": "Notable Alumni of Camp Kanawana",
       "wiki_folder": "people",
-      "status": "stub",
+      "status": "draft",
       "status_history": [
         {
           "status": "stub",
           "at": "2026-03-17T00:00:00Z",
           "by": "auto",
           "task": "RESEARCH"
+        },
+        {
+          "status": "draft",
+          "at": "2026-03-17T03:30:00Z",
+          "by": "auto",
+          "task": "WRITE"
         }
       ],
-      "ralph_loops_completed": 1,
+      "ralph_loops_completed": 2,
       "kb_facts_used": [
         "f_1064",
         "f_1065",
@@ -3495,7 +3501,22 @@
         "f_1082",
         "f_1083",
         "f_1060",
-        "f_1061"
+        "f_1061",
+        "f_0109",
+        "f_0114",
+        "f_0156",
+        "f_0157",
+        "f_0160",
+        "f_0161",
+        "f_0162",
+        "f_0423",
+        "f_0448",
+        "f_0467",
+        "f_0610",
+        "f_0630",
+        "f_1006",
+        "f_1007",
+        "f_1032"
       ],
       "sources_cited": [
         "src_ymca_quebec_pip_skinner",
@@ -3503,17 +3524,31 @@
         "src_ssymca_netherwood",
         "src_cbmu_history",
         "src_concordia_p0145_12a_finding_aid",
-        "src_ymca_quebec_pip_orbinski_2024"
+        "src_ymca_quebec_pip_orbinski_2024",
+        "src_ymca_pip_adam",
+        "src_ymca_pip_sharpe",
+        "src_ymca_pip_skinner",
+        "src_ymca_pip_mosher",
+        "src_oral_aronson",
+        "src_montreal_gazette_lazarus_2004",
+        "src_myjewishlearning_lazarus",
+        "src_ka_news_1980",
+        "src_wikipedia_orbinski",
+        "src_postmedia_nature_deficit_2026"
       ],
-      "open_questions": 5,
+      "open_questions": 7,
       "cross_links": [
         "pip-alumni-award",
         "stuart-mclean",
         "terry-mosher",
-        "directors-index"
+        "dave-twynam",
+        "edgar-smee",
+        "sean-day",
+        "directors-index",
+        "traditions-and-culture"
       ],
       "file_id": null,
-      "word_count": 950
+      "word_count": 1800
     }
   ]
 }

@@ -699,3 +699,80 @@ Key biographical enrichments:
 | New persons identified | R. L. Charlton (marine surveyor/YMCA worker) |
 | Key enrichments | Pip Award full list, Dimock father-son, Charlton biography, Netherwood career, facilities detail |
 | Archival discoveries | 17 new items from P0145/12A and 12B01 finding aids |
+
+---
+
+## Session 6 (2026-03-17)
+
+### Campaign 18: Environmental & Ecological History
+
+**Date:** 2026-03-17
+**Queries:** "Camp Kanawana" environmental education, conservation, nature-deficit, sustainability, ecology, CREL Laurentides lac Kanawana, Clivus Multrum Kanawana, Chris Adam Dawson sustainability
+**Surfaces:** Google, YMCA Quebec, Dawson College, Awesome Foundation, Clivus Multrum, CRE Laurentides
+
+**Key Findings:**
+- C-Vert environmental leadership program (ages 14-16): bike trips, camping, July internship, nature-deficit framing
+- Kanawana job listing describes camp as "Quebec's environmental education leader"
+- Chris Adam biography: 35-year career, 25 years at Dawson CRLT, Executive Director of Earthvalues Institute, AASHE Platinum rating
+- Ross Seaman pipeline: Kanawana Director → Dawson CRLT chair (1974-1984) → environmental outdoor education
+- "Familles en nature" community program used Kanawana (Spring 2013)
+- RSVL lake monitoring confirmed (Secchi disk, phosphorus, chlorophyll a, DOC) since 2013
+- CRE Laurentides data pages exist but 403-blocked
+
+### Campaign 19: Winter & Year-Round Programming
+
+**Date:** 2026-03-17
+**Queries:** Camp Kanawana winter, year-round, ski, march break, snowshoeing, corporate retreat, Farmhouse, Blockhouse, team-building, leadership weekend
+**Surfaces:** Google, YMCA Quebec (EN/FR), MySummerCamps, Bonjour Quebec, EMSB
+
+**Key Findings:**
+- **Winter experience package** (Jan 6 - Mar 7): snowshoeing, outdoor games, campfire snack, raclette/fondue dinner. First documented structured winter program.
+- Rose des Vents Pavilion "refuge mode" (Oct 15 - May 20): no running water, by reservation
+- Five seasonal rental windows mapped: spring (May 21-Jun 23), summer limited (Jun 23-Aug 20), fall (Aug 20-Oct 14), winter refuge (Oct 15-May 20), winter experience (Jan 6-Mar 7)
+- Corporate retreat pricing: $643.75/person/night for 3+ days (meeting room, Wi-Fi, projector, custom food)
+- Bonjour Quebec tourism listing: "holiday centre," May 15-Oct 15
+- Meal service only for groups of 75+
+- EMSB fall school trips: conservation education + community action projects
+- Spring break/holiday camps discontinued fall 2025
+
+### Campaign 20: Flickr Photo Collection
+
+**Date:** 2026-03-17
+**Queries:** flickr.com/photos/kanawana, Flickr Kanawana albums, Kamp Kanawana Flickr, campkanawana tags
+**Surfaces:** Google, Flickr (403-blocked), Flickriver (403-blocked), toutMontreal.com
+
+**Key Findings:**
+- Official account confirmed: flickr.com/photos/kanawana/
+- 4,416 photos, joined 2010, 12 followers
+- Confirmed as official camp presence via toutMontreal.com listing
+- All Flickr URLs return 403 — content cannot be assessed remotely
+- No other Flickr users found under Kanawana/YMCA Kanawana/campkanawana
+- Blocked: requires manual browser access to catalog album names, dates, content
+
+### Campaign 21: Notable Alumni Enrichment
+
+**Date:** 2026-03-17
+**Queries:** Sam Lazarus Camp Kanawana, Jeniene Phillips Birks broadcaster, Chris Adam Kanawana, Carol Skinner Kanawana, James Orbinski Camp Kanawana
+**Surfaces:** Google, My Jewish Learning, YMCA Quebec, Wikipedia
+
+**Key Findings:**
+- Sam Lazarus family identified: mother Janet Torge (broadcaster/writer), brother Riel Lazarus (archivist/researcher for film/TV)
+- Sam Lazarus Fund established by family to send underprivileged children to Kanawana
+- "Five-Hole Sam Street Hockey Jamboree" (Sam Jam) official name confirmed
+- James Orbinski: born 1960 England, grew up NDG Montreal, Dawson CEGEP, BA Psychology Trent (1984), MD McMaster (1990), MA IR UofT (1998)
+- Orbinski: co-founded Dignitas International (2004), Officer of Order of Canada (2009)
+- Jonathan Birks chairs Foundation Giving for YMCA Kanawana Development Project (Birks family connection)
+- Notable-alumni.md advanced stub → draft (1800 words, 16 sources, 7 open questions)
+
+### Session 6 Summary Statistics
+
+| Metric | Value |
+|--------|-------|
+| New facts added | 13 (f_1111-f_1123) |
+| New sources added | 9 |
+| KB version | 4.31 → 4.32 |
+| Total facts | 1133 |
+| Total sources | 317 |
+| New persons identified | Janet Torge (broadcaster/writer), Riel Lazarus (archivist) |
+| Key enrichments | Winter programming documented, environmental education mission mapped, notable-alumni advanced to draft |
+| Articles updated | notable-alumni.md (stub → draft) |
