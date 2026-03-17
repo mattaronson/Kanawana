@@ -2,7 +2,7 @@
   "version": "v4.31",
   "kb_version": "4.31",
   "migrated_from": "3.3",
-  "fact_count": 1105,
+  "fact_count": 1112,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -18900,6 +18900,128 @@
         "YMCAs of Quebec"
       ],
       "date_ref": "2024",
+      "conflicts_with": [],
+      "added_version": "v4.31",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1096",
+      "claim": "Charles \"Smillie\" Buckland attended Camp Kanawana starting in 1944 at age 10. He was sent because his mother felt he needed male influence after his father died when he was three. He took the train from Montreal Central Station to Saint-Sauveur, then bused to camp on a gravel road.",
+      "sources": [
+        "src_readers_digest_camp_shapes_lives"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "Charles Buckland",
+        "Camp Kanawana"
+      ],
+      "date_ref": "1944",
+      "conflicts_with": [],
+      "added_version": "v4.31",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1097",
+      "claim": "Charles \"Smillie\" Buckland was the first recipient of the Green Triangle award, described as \"the coveted Green Triangle awarded to a camper who accomplished a series of feats.\" He also held the lake swim record.",
+      "sources": [
+        "src_readers_digest_camp_shapes_lives"
+      ],
+      "confidence": "stated",
+      "category": "traditions",
+      "entities": [
+        "Charles Buckland",
+        "Camp Kanawana",
+        "Green Triangle"
+      ],
+      "date_ref": "1944",
+      "conflicts_with": [],
+      "added_version": "v4.31",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1098",
+      "claim": "The Green Triangle award at Camp Kanawana was given to campers who accomplished a series of feats. Charles Buckland was its first recipient circa 1944-1948. The Green Triangle was also the name of the camp newsletter (known issue: July 29, 1938, digitized on Internet Archive).",
+      "sources": [
+        "src_readers_digest_camp_shapes_lives",
+        "src_ia_green_triangle_1938"
+      ],
+      "confidence": "stated",
+      "category": "traditions",
+      "entities": [
+        "Camp Kanawana",
+        "Green Triangle"
+      ],
+      "date_ref": "1938-1948",
+      "conflicts_with": [],
+      "added_version": "v4.31",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1099",
+      "claim": "In 1944, campers traveled to Camp Kanawana by train from Montreal Central Station to Saint-Sauveur, then by bus up a gravel road to the camp. This is a later travel route than the 1922 route via Place Viger Station to Piedmont.",
+      "sources": [
+        "src_readers_digest_camp_shapes_lives"
+      ],
+      "confidence": "stated",
+      "category": "transportation",
+      "entities": [
+        "Camp Kanawana",
+        "Montreal Central Station",
+        "Saint-Sauveur"
+      ],
+      "date_ref": "1944",
+      "conflicts_with": [],
+      "added_version": "v4.31",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1100",
+      "claim": "Leigh Evans attended Camp Kanawana for 6 summers: 1 as camper, 1 as Leader-in-Training, and 4 as staff member. She was announced Capitaine for the Voyageur team of the L&V games in 2012. Capitaine is described as \"one of the highest honours a staff member can receive.\"",
+      "sources": [
+        "src_leigh_evans_blog"
+      ],
+      "confidence": "stated",
+      "category": "traditions",
+      "entities": [
+        "Leigh Evans",
+        "Camp Kanawana",
+        "L&V Games"
+      ],
+      "date_ref": "2012",
+      "conflicts_with": [],
+      "added_version": "v4.31",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1101",
+      "claim": "The L&V (Lumberman and Voyageur) games are described by alumna Leigh Evans as \"a 3-day event in which every person, campers and staff alike, unite with their team.\" Teams are Lumberman and Voyageur.",
+      "sources": [
+        "src_leigh_evans_blog"
+      ],
+      "confidence": "stated",
+      "category": "traditions",
+      "entities": [
+        "Camp Kanawana",
+        "L&V Games"
+      ],
+      "date_ref": "2012",
+      "conflicts_with": [],
+      "added_version": "v4.31",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1102",
+      "claim": "Camp Kanawana is described with the saying: \"If you have never been, you can not understand it and if you have been, you can not explain it.\" (Leigh Evans blog)",
+      "sources": [
+        "src_leigh_evans_blog"
+      ],
+      "confidence": "stated",
+      "category": "traditions",
+      "entities": [
+        "Camp Kanawana"
+      ],
+      "date_ref": null,
       "conflicts_with": [],
       "added_version": "v4.31",
       "added_by": "ralph_loop"
