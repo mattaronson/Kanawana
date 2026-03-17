@@ -1,15 +1,15 @@
 # Traditions and Culture at Kanawana
 
-*Status: E1-reviewed | Sources: src_ymca_website, src_brochure_1922, src_mcmorris_thesis, src_history_1935, src_green_triangle_1938, src_gas_bag_1923, src_pine_crest_encyclopedia, src_kanawana_facts, src_leigh_evans_blog, src_concordia_atom_12B04, src_concordia_atom_12B07, src_ymca_pip_skinner, src_ymca_pip_mosher, src_ymca_pip_adam, src_ymca_pip_sharpe, src_ymca_pip_orbinski*
-*Last Updated: 2026-02-19 (E1 REVIEW pass v52)*
+*Status: E1-reviewed | Sources: 20*
+*Last Updated: 2026-03-17 (orphan fact integration: Cicero etymology, Green Triangle award, Leigh Evans L&V description, Carol Skinner motto quote)*
 
 ## Overview
 
-Camp Kanawana developed a distinctive cultural identity over more than 130 years, combining YMCA "four-fold" development philosophy (physical, intellectual, social, spiritual) with camp-specific traditions, ceremonies, and lore. The camp motto "Non Nobis Solum" (Latin: "Not For Ourselves Alone"), derived from Cicero's *De Officiis* 1:22,^1 replaced an earlier motto, "Each for all and all for each," documented in the 1922 brochure.^2 The L&V Games, the Council Ring, the camp song, and the Pip Alumni Award form the core of the modern tradition, while archival records preserve extensive documentation of earlier practices.
+Camp Kanawana developed a distinctive cultural identity over more than 130 years, combining YMCA "four-fold" development philosophy (physical, intellectual, social, spiritual) with camp-specific traditions, ceremonies, and lore. The camp motto "Non Nobis Solum" (Latin: "Not For Ourselves Alone"), derived from Cicero's *De Officiis* 1:22,^1 replaced an earlier motto, "Each for all and all for each," documented in the 1922 brochure.^2 A saying sometimes attributed to Kanawana captures the intensity of the camp experience: "If you have never been, you can not understand it and if you have been, you can not explain it."^20 The L&V Games, the Council Ring, the camp song, and the Pip Alumni Award form the core of the modern tradition, while archival records preserve extensive documentation of earlier practices.
 
 ## Camp Identity and Motto
 
-The 1922 brochure recorded the camp cheer as "Yo Triumphy! Yo Triumphy! Hoben Sloben Rebecca Leeammour..." — a nonsensical chant that served as a rallying cry — and the motto as "Each for all and all for each."^2 The motto "Each for all and all for each" is also documented in a 1927 source.^4 At some point, the camp adopted the Latin motto "Non Nobis Solum" from Cicero's philosophical text, which reads in full: "non nobis solum nati sumus" ("not for us alone are we born").^1 The earliest attestation of the Latin motto is in the 1993 YMCA video *Kamp Kanawana: The Experience that Lasts a Lifetime*.^3 ^4 The exact date of transition from the English to the Latin motto remains undocumented. Notably, Lower Canada College (founded 1909 in Montreal) uses the identical motto "Non Nobis Solum," adopted by founder Charles Sanderson Fosbery from his family crest; whether Kanawana adopted the motto independently or through an LCC connection is unknown. The tagline "The Experience That Lasts a Lifetime" is attested from at least 1993, when Cathy Reeves produced a nine-minute film of that name for the camp.^3
+The 1922 brochure recorded the camp cheer as "Yo Triumphy! Yo Triumphy! Hoben Sloben Rebecca Leeammour..." — a nonsensical chant that served as a rallying cry — and the motto as "Each for all and all for each."^2 The motto "Each for all and all for each" is also documented in a 1927 source.^4 At some point, the camp adopted the Latin motto "Non Nobis Solum" from Cicero's *De Officiis* 1:22 (44 BC), which reads in full: "non nobis solum nati sumus ortusque nostri partem patria vindicat, partem amici" ("not for us alone are we born; our country claims a share of our origin, and our friends a share").^1 ^15 Cicero was himself translating a passage attributed to Plato's letter to Archytas.^15 The camp uses the abbreviated two-word form rather than the full Ciceronian quotation; the motto appears to be unique to Kanawana within the YMCA system — no other YMCA camp or branch has been identified using it.^15 ^16 The earliest attestation of the Latin motto at Kanawana is in the 1993 YMCA video *Kamp Kanawana: The Experience that Lasts a Lifetime*.^3 ^4 The exact date of transition from the English to the Latin motto remains undocumented. Notably, Lower Canada College (founded 1909 in Montreal) uses the identical motto "Non Nobis Solum," adopted by founder Charles Sanderson Fosbery from his family crest; whether Kanawana adopted the motto independently or through an LCC connection is unknown.^17 Carol Skinner, the 2016 Pip Award recipient, captured the motto's significance: "Never has Non Nobis Solum left my heart. I live it every day."^18 The tagline "The Experience That Lasts a Lifetime" is attested from at least 1993, when Cathy Reeves produced a nine-minute film of that name for the camp.^3
 
 ## Spiritual Life
 
@@ -31,7 +31,7 @@ The camp calendar was punctuated by recurring competitive and social events:
 
 ## L&V Games
 
-The L&V (Lumbermen vs. Voyageurs) Games have been held at Kanawana since 1947, adopted from YMCA Camp Pine Crest in Ontario where they originated in 1940.^8 The games occupy the final week of the camp season, dividing the entire camp into two teams: Voyageurs (symbol: paddle) and Lumbermen (symbol: axe). By 1958, teams were decided on Friday with captains picked that evening and competition running through the week.^8 Campers made model paddles or axes to wear around their necks.^8 The role of "Capitaine" — leader of the Voyageur team — is considered one of the highest honours a staff member can receive.^9 The 78th edition of the L&V Games was held in 2025.^8
+The L&V (Lumbermen vs. Voyageurs) Games have been held at Kanawana since 1947, adopted from YMCA Camp Pine Crest in Ontario where they originated in 1940.^8 The games occupy the final week of the camp season, dividing the entire camp into two teams: Voyageurs (symbol: paddle) and Lumbermen (symbol: axe). Alumna Leigh Evans described it as "a 3-day event in which every person, camper and staff alike, is placed on either the Lumberman or Voyageur team and every activity at camp becomes a competition."^20 By 1958, teams were decided on Friday with captains picked that evening and competition running through the week.^8 Campers made model paddles or axes to wear around their necks.^8 The role of "Capitaine" — leader of the Voyageur team — is considered one of the highest honours a staff member can receive.^9 The 78th edition of the L&V Games was held in 2025.^8
 
 ## Camp Publications
 
@@ -68,6 +68,7 @@ The 1922 brochure documented a 32-subject Honour System, with the Large K as the
 - **Large K**: Required 2nd-year camper, hold the Small k, instruct 3 weeks, complete 2 activities, attend Sunday service
 - **Altruism Badge**: The highest badge, awarded by Director/Leaders, could not be "tried for"
 - **KLS (Kanawana Life Saver)**: Based on the RLSS Award of Merit
+- **The Green Triangle**: Described as "the coveted Green Triangle" in a Reader's Digest account, this award was given to campers who accomplished a specified series of feats. Charles "Smillie" Buckland was the first recipient.^19
 
 ## The Pip Alumni Award
 
@@ -111,3 +112,9 @@ Known recipients include: Richard "Itche" Kerr (2007, composer of the camp song)
 12. McMorris thesis (Ch. 3).
 13. YMCA Quebec, Carol Skinner Pip Award (2016); Pip Award establishment details.
 14. YMCA Quebec Pip Award press releases: Mosher (2015), Adam (2017), Sharpe (2018), Orbinski (2024).
+15. Wikipedia, "Non nobis solum." Cicero, *De Officiis* 1:22 (44 BC).
+16. YMCA Camp Kanawana Facebook page; YMCA Quebec website. No other YMCA camp uses the motto.
+17. Lower Canada College history; McMorris thesis discussion of LCC–Kanawana connections.
+18. YMCA Quebec, "Carol Skinner Receives Camp YMCA Kanawana Pip Alumni Award" (2016). URL: https://www.ymcaquebec.org/en/news/als-advocate-carol-skinner-receives-camp-ymca-kanawana
+19. Reader's Digest, "Camp Shapes Lives." Charles "Smillie" Buckland account of the Green Triangle award.
+20. Leigh Evans blog, reflections on Camp Kanawana experience.

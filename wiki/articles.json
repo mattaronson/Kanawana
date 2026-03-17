@@ -499,7 +499,7 @@
       ],
       "file_id": "1KW2yhoZ-wr_71sTPbLJ3v81KW4ZEJ_p-",
       "word_count": 2100,
-      "notes": "E1 REVIEW (2026-02-19): Fixed source header (src_ymca_facts→src_kanawana_facts), added Spectrum URL for McMorris thesis, added IA URLs for Facts sheet and Gas Bag. All claims cited, dates consistent, names cross-checked, tone encyclopedic. Advanced R3-verified → E1-reviewed."
+      "notes": "E1 REVIEW (2026-02-19): Fixed source header (src_ymca_facts\u2192src_kanawana_facts), added Spectrum URL for McMorris thesis, added IA URLs for Facts sheet and Gas Bag. All claims cited, dates consistent, names cross-checked, tone encyclopedic. Advanced R3-verified \u2192 E1-reviewed."
     },
     {
       "article_id": "programs-activities",
@@ -685,7 +685,7 @@
       ],
       "file_id": "1oqLoU6_bzWD_9jXwXQgYNm_EqLCEfNjR",
       "word_count": 2100,
-      "notes": "E1 REVIEW (2026-02-19): All claims cited, dates consistent, names cross-checked, tone encyclopedic, cross-links valid, open questions actionable, no redundancy with sibling articles. Advanced R3-verified → E1-reviewed."
+      "notes": "E1 REVIEW (2026-02-19): All claims cited, dates consistent, names cross-checked, tone encyclopedic, cross-links valid, open questions actionable, no redundancy with sibling articles. Advanced R3-verified \u2192 E1-reviewed."
     },
     {
       "article_id": "ralph-dawson",
@@ -975,7 +975,7 @@
       ],
       "file_id": null,
       "word_count": 2400,
-      "notes": "E1 REVIEW (2026-02-19): PASS — all 7 checklist items satisfied. No fixes needed. Advanced R3-verified → E1-reviewed."
+      "notes": "E1 REVIEW (2026-02-19): PASS \u2014 all 7 checklist items satisfied. No fixes needed. Advanced R3-verified \u2192 E1-reviewed."
     },
     {
       "article_id": "sources-index",
@@ -1149,7 +1149,7 @@
       ],
       "file_id": null,
       "word_count": 750,
-      "notes": "E1 REVIEW (2026-02-19): Added inline ^1-^5 citations throughout body text. Standardized all name mentions to 'Harold C. Cross'. Added Related Articles section. Added priority tags to Open Questions. Advanced R3-verified → E1-reviewed."
+      "notes": "E1 REVIEW (2026-02-19): Added inline ^1-^5 citations throughout body text. Standardized all name mentions to 'Harold C. Cross'. Added Related Articles section. Added priority tags to Open Questions. Advanced R3-verified \u2192 E1-reviewed."
     },
     {
       "article_id": "centennial-1967",
@@ -1427,7 +1427,7 @@
       ],
       "file_id": null,
       "word_count": 700,
-      "notes": "E1 REVIEW (2026-02-19): PASS — all 7 checklist items satisfied. No fixes needed. Advanced R3-verified → E1-reviewed."
+      "notes": "E1 REVIEW (2026-02-19): PASS \u2014 all 7 checklist items satisfied. No fixes needed. Advanced R3-verified \u2192 E1-reviewed."
     },
     {
       "article_id": "cushing-family",
@@ -1508,7 +1508,7 @@
       ],
       "file_id": null,
       "word_count": 1200,
-      "notes": "E1 REVIEW (2026-02-19): Fixed Frederick row in Eight Sons table (birthplace clarified in Occupation column). All 7 checklist items satisfied. Advanced R3-verified → E1-reviewed."
+      "notes": "E1 REVIEW (2026-02-19): Fixed Frederick row in Eight Sons table (birthplace clarified in Occupation column). All 7 checklist items satisfied. Advanced R3-verified \u2192 E1-reviewed."
     },
     {
       "article_id": "traditions-and-culture",
@@ -2142,7 +2142,7 @@
       ],
       "file_id": null,
       "word_count": 750,
-      "notes": "RALPH R1 (2026-02-26): Lake Wilson naming claim CANNOT BE VERIFIED — plausible but no documentary evidence. McConnell family tree confirmed. YMCA connection 1901-1963 documented. 10 new KB facts (f_0516-f_0525). 1 new source (Fong biography). Research SATURATED for online sources."
+      "notes": "RALPH R1 (2026-02-26): Lake Wilson naming claim CANNOT BE VERIFIED \u2014 plausible but no documentary evidence. McConnell family tree confirmed. YMCA connection 1901-1963 documented. 10 new KB facts (f_0516-f_0525). 1 new source (Fong biography). Research SATURATED for online sources."
     },
     {
       "article_id": "lake-wilson",
@@ -2620,7 +2620,7 @@
       ],
       "file_id": null,
       "word_count": 2100,
-      "notes": "E1 REVIEW (2026-03-02): 10 fixes applied. Father-son inference reframed as neutral hypothesis. Earliest publication contradiction resolved. Kamp→Camp standardized. Hendry relocated. Unsourced synthesis removed. All 7 criteria PASS."
+      "notes": "E1 REVIEW (2026-03-02): 10 fixes applied. Father-son inference reframed as neutral hypothesis. Earliest publication contradiction resolved. Kamp\u2192Camp standardized. Hendry relocated. Unsourced synthesis removed. All 7 criteria PASS."
     },
     {
       "article_id": "camp-weredale",
@@ -3580,16 +3580,22 @@
       "article_id": "environmental-history",
       "title": "Environmental Education and Stewardship at Kanawana",
       "wiki_folder": "context",
-      "status": "stub",
+      "status": "draft",
       "status_history": [
         {
           "status": "stub",
           "at": "2026-03-17T05:00:00Z",
           "by": "auto",
           "task": "WRITE"
+        },
+        {
+          "status": "draft",
+          "at": "2026-03-17T04:00:00Z",
+          "by": "auto",
+          "task": "WRITE"
         }
       ],
-      "ralph_loops_completed": 1,
+      "ralph_loops_completed": 2,
       "kb_facts_used": [
         "f_0477",
         "f_0572",
@@ -3611,12 +3617,16 @@
         "src_emsb_kanawana_experience",
         "src_ymca_cvert_program",
         "src_postmedia_nature_deficit_2026",
-        "src_dawson_crlt",
+        "src_dawson_crlt_outdoor",
         "src_dawson_chris_adam",
         "src_cbc_dawson_green_gown",
-        "src_mcconnell_foundation",
+        "src_mcconnell_foundation_ymca",
         "src_lapresse_ymca_2018",
-        "src_ka_news_1980"
+        "src_kanawana_alumni_news_1980",
+        "src_mcmorris_thesis",
+        "src_edgar_smee_bio",
+        "src_twynam_research",
+        "src_cscrp_wall_nurture"
       ],
       "open_questions": 5,
       "cross_links": [
@@ -3627,7 +3637,7 @@
         "canadian-camping-movement"
       ],
       "file_id": null,
-      "word_count": 1100
+      "word_count": 1800
     }
   ]
 }

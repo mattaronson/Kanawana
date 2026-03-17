@@ -1,7 +1,7 @@
 # Stuart McLean
 
 *Status: E1-reviewed | Sources: src_samaritanmag_mclean, src_ourkids_mclean, src_ymca_website, src_oral_aronson, src_wikipedia_stuart_mclean, src_canadian_encyclopedia_mclean, src_montrealer_mclean, src_concordia_mclean_tribute, src_cbc_mclean_fund, src_westmount_mag_mclean, src_ymca_john_island_mclean_speech, src_cbc_mclean_obit, src_mcmaster_mclean_fonds, src_mclean_letter_from_camp*
-*Last Updated: 2026-02-19 (R3 VERIFY pass)*
+*Last Updated: 2026-03-17 (orphan fact integration: camp quotes, hire story)*
 
 ## Overview
 
@@ -15,9 +15,9 @@ McLean was born in Montreal West, the eldest of three children.^7 He attended Lo
 
 ## Camp Kanawana Years (1969–1975)
 
-McLean was first hired as a counsellor in the senior boys' section at Camp Kanawana in 1969, at approximately age 20.^1 ^2 He worked five summers at the camp, passing up an opportunity to study journalism at Carleton University to return to camp.^1 ^2 By the summers of 1974 and 1975, he served as assistant summer camp director.^1 ^10
+McLean visited a friend working at Kanawana in summer 1969 and was hired on the spot as a counsellor in the senior boys' section.^1 ^2 He worked five summers at the camp, passing up an opportunity to study journalism at Carleton University to return to camp.^1 ^2 By the summers of 1974 and 1975, he served as assistant summer camp director.^1 ^10
 
-In a speech to YMCA camp directors, later excerpted in the John Island Alumni Newsletter (Spring 2012), McLean described arriving at camp as "a wholly unsuccessful boy" carrying "a packsack full of fears." He said: "the best I can say is that camp happened." He linked his writerly preoccupation with "the world of the family, the neighbourhood" and "the safe places that foster a sense of belonging" directly to "the kinds of places that are created at YMCA camps across North America."^3
+McLean spoke repeatedly about the camp's formative impact: "When I got to camp, I found a place where I was accepted by others and I was able to contribute to the greater good. It worked its magic on me. Camp is where I found my confidence."^2 ^5 In a 2008 interview, he said: "I began pulling my adult self together at Camp Kanawana, and I benefited greatly from my camp experiences."^8 In a speech to YMCA camp directors, later excerpted in the John Island Alumni Newsletter (Spring 2012), he described arriving at camp as "a wholly unsuccessful boy" carrying "a packsack full of fears." He said: "the best I can say is that camp happened." He linked his writerly preoccupation with "the world of the family, the neighbourhood" and "the safe places that foster a sense of belonging" directly to "the kinds of places that are created at YMCA camps across North America."^3
 
 His first opportunity to mentor children and stage a variety show — skills that would define his broadcasting career — came at Camp Kanawana.^2
 

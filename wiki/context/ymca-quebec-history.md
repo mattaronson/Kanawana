@@ -1,7 +1,7 @@
 # The YMCA of Montreal / YMCAs of Quebec
 
-*Status: E1-reviewed | Sources: src_ymca_quebec_history, src_canadian_encyclopedia_ymca, src_concordia_sgw_history, src_newswire_ymca_2019, src_ymca_audette_2024*
-*Last Updated: 2026-03-16*
+*Status: E1-reviewed | Sources: 7*
+*Last Updated: 2026-03-17 (COVID closure, Kanawana Adventure day camp integrated)*
 
 ## Overview
 
@@ -32,7 +32,7 @@ On August 24, 1974, SGWU merged with Loyola College to form Concordia University
 
 The YMCA of Montreal was renamed "Le Y du Québec" around 2009, and now operates as Les YMCA du Québec / The YMCAs of Quebec (ymcaquebec.org).^1 As of 2025, the organization operates 9 centres and 36 service points, serving over 120,000 people annually.^1
 
-In November 2019, the YMCAs of Quebec underwent a major strategic restructuring, closing the Guy-Favreau and Hochelaga-Maisonneuve centres and shifting away from large fitness facilities toward community-based programs.^4 Day camps were discontinued in fall 2025; Camp YMCA Kanawana's summer residential program continues as the organization's flagship outdoor program.^1 ^4
+In November 2019, the YMCAs of Quebec underwent a major strategic restructuring, closing the Guy-Favreau and Hochelaga-Maisonneuve centres and shifting away from large fitness facilities toward community-based programs.^4 Camp Kanawana was closed for two consecutive summers (2020 and 2021) due to COVID-19.^6 In summer 2024, a new "Kanawana Adventure" day camp program was launched at the Saint-Sauveur site — the first day camp to operate at the residential camp location.^7 Day camps were discontinued across YMCA Quebec in fall 2025; Camp YMCA Kanawana's summer residential program continues as the organization's flagship outdoor program.^1 ^4
 
 ## Current Leadership
 
@@ -69,6 +69,8 @@ The YMCA of Montreal established Camp Kanawana in 1894, making it one of the old
 3. Concordia University, "History." URL: https://www.concordia.ca/about/history.html
 4. Canada NewsWire, "YMCAs of Quebec restructuring announcement" (November 2019).
 5. YMCAs of Quebec, "Pascale Audette appointed President & CEO" (November 2024).
+6. MSN/media reports, Camp Kanawana closed summers 2020 and 2021 due to COVID-19.
+7. YMCAs of Quebec, "Kanawana Adventure" day camp announcement (2024).
 
 ## Research Notes
 
