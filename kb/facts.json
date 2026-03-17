@@ -2,7 +2,7 @@
   "version": "v4.32",
   "kb_version": "4.32",
   "migrated_from": "3.3",
-  "fact_count": 1133,
+  "fact_count": 1141,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -19385,6 +19385,150 @@
         "Camp Kanawana"
       ],
       "date_ref": "2026",
+      "conflicts_with": [],
+      "added_version": "v4.32",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1124",
+      "claim": "Jeniene Phillips Birks (also credited as Jeniene Phillips) was a CBC Montreal television journalist who served as fill-in anchor on CBC Montreal's evening newscast (circa 2009, alongside Andrew Chang, Kim Brunhuber, and Nancy Wood filling in for Michel Godbout). She also has IMDB credits as producer/actress on The Art of War (2000) and The Apprentice: Martha Stewart (2005).",
+      "sources": [
+        "src_fagstein_cbc_montreal",
+        "src_imdb_phillips"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "Jeniene Phillips Birks",
+        "CBC Montreal"
+      ],
+      "date_ref": "2009",
+      "conflicts_with": [],
+      "added_version": "v4.32",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1125",
+      "claim": "Janet Torge, mother of Sam Lazarus, is a Montreal broadcaster, radio talk-show host, traffic reporter, Montreal Gazette columnist, and author of 'Dear Sam.' She is also co-founder of the first Rape Relief Centre in Canada (1973) and founder of Radical Resthomes.",
+      "sources": [
+        "src_myjewishlearning_lazarus"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "Janet Torge",
+        "Sam Lazarus"
+      ],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "v4.32",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1126",
+      "claim": "John Cleghorn chaired the Montreal YMCA and was named Officer of YMCA Canada's Fellowship of Honour. He was drafted by the Toronto Argonauts but declined, having played defensive lineman on McGill Redmen's national championship football team. He served as Chancellor of Wilfrid Laurier University (1996-2003) and is a Companion of the Canadian Business Hall of Fame.",
+      "sources": [
+        "src_cleghorn_wikipedia",
+        "src_canadian_encyclopedia_cleghorn"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "John Cleghorn",
+        "Montreal YMCA",
+        "YMCA Canada"
+      ],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "v4.32",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1127",
+      "claim": "Richard Patten had an extensive YMCA career before entering politics: Director of International Programs, Montreal YMCA (1971-76); Executive Director of the YMCA in Montreal (1976-79); Director of International Programs, Canadian National Council of YMCAs, Ottawa (1979-87). He worked with Palestinian youth in refugee camps (Syria, Lebanon, Jordan, Gaza) under UNRWA/World Alliance of YMCAs, trained YMCA staff in Guyana (1969-71), and coordinated support for Ugandan Asian refugees expelled by Idi Amin.",
+      "sources": [
+        "src_wikipedia_richard_patten",
+        "src_hpmcgarry_patten_obituary"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "Richard Patten",
+        "Montreal YMCA",
+        "YMCA Canada"
+      ],
+      "date_ref": "1971",
+      "conflicts_with": [],
+      "added_version": "v4.32",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1128",
+      "claim": "Carol Skinner's full name was Carol Sharman Skinner. She was diagnosed with ALS in 2013. She worked as Director of YMCA Camp Hayward in Cape Cod, Massachusetts; earned a Master's in Art Therapy; served as school counsellor for five years; and worked as Art Therapist for the Canadian Mental Health Association in Ottawa.",
+      "sources": [
+        "src_ymca_pip_skinner"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "Carol Skinner",
+        "Camp Hayward",
+        "CMHA"
+      ],
+      "date_ref": "2013",
+      "conflicts_with": [],
+      "added_version": "v4.32",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1129",
+      "claim": "Chris Adam founded the Sustainable Happiness Certificate at Dawson College. Under his leadership, Dawson College declared itself carbon neutral and won Sustainability Institution of the Year at the International Green Gown Awards (out of 56 finalists from 19 countries).",
+      "sources": [
+        "src_dawson_chris_adam",
+        "src_cbc_dawson_green_gown"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "Chris Adam",
+        "Dawson College"
+      ],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "v4.32",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1130",
+      "claim": "James Orbinski attended John XXIII High School in Montreal before Dawson CEGEP. He received the Meritorious Service Cross (1997) for his work during the Rwandan genocide. He received the Concordia University Loyola Medal in 2017.",
+      "sources": [
+        "src_wikipedia_orbinski",
+        "src_concordia_orbinski"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "James Orbinski"
+      ],
+      "date_ref": "1997",
+      "conflicts_with": [],
+      "added_version": "v4.32",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1131",
+      "claim": "Marina Sharpe previously served as Senior Legal Officer with UNHCR in Addis Ababa, Postdoctoral Fellow at McGill Law, and lawyer at Cravath, Swaine & Moore LLP in New York. She holds a SSHRC Banting Fellowship and is called to the bars of New York and England & Wales.",
+      "sources": [
+        "src_rmc_sharpe_faculty"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "Marina Sharpe",
+        "UNHCR",
+        "Cravath Swaine & Moore"
+      ],
+      "date_ref": null,
       "conflicts_with": [],
       "added_version": "v4.32",
       "added_by": "ralph_loop"

@@ -1,6 +1,6 @@
 # Notable Alumni of Camp Kanawana
 
-*Status: draft | Sources: 16*
+*Status: draft | Sources: 22*
 *Last Updated: 2026-03-17*
 
 ## Overview
@@ -17,7 +17,7 @@ Richard Kerr, known by his camp nickname "Itche," was the inaugural Pip Award re
 
 ### Richard Patten (1942–2021) (Pip Award 2008)
 
-Richard Andrew Patten was a Liberal member of the Ontario Legislature representing Ottawa Centre (1987–1990, 1995–2007).^6 He served as Minister of Government Services and Minister of Correctional Services in the Peterson government. Educated at Sir George Williams University (now Concordia), Patten worked in YMCA summer day camps in Montreal and later held positions in different YMCA branches.^2 After leaving politics, he served as CEO of the CHEO Foundation. The Richard Patten Aboriginal Bursary Fund was created at Algonquin College in his honour. He died December 30, 2021, at age 79.^2
+Richard Andrew Patten (born May 13, 1942; died December 30, 2021) was a Liberal member of the Ontario Legislature representing Ottawa Centre (1987–1990, 1995–2007).^6 He served as Minister of Government Services and Minister of Correctional Services in the Peterson government. Educated at Sir George Williams University (now Concordia), Patten had an extensive YMCA career before politics: he trained YMCA staff in Guyana (1969–71), served as Director of International Programs at the Montreal YMCA (1971–76), then as Executive Director of the YMCA in Montreal (1976–79), and Director of International Programs for the Canadian National Council of YMCAs in Ottawa (1979–87).^2 ^17 He worked with Palestinian youth in refugee camps in Syria, Lebanon, Jordan, and Gaza under the UNRWA/World Alliance of YMCAs, and coordinated support for Ugandan Asian refugees expelled by Idi Amin.^17 After leaving politics, he served as CEO of the CHEO Foundation and President of the Canadian Council for International Cooperation.^6 The Richard Patten Aboriginal Bursary Fund was created at Algonquin College in his honour.^2
 
 ### Bruce Netherwood (Pip Award 2011)
 
@@ -25,35 +25,35 @@ Bruce Netherwood has spent more than 30 years in YMCA camping. He currently serv
 
 ### John Cleghorn (Pip Award 2012)
 
-John Edward Cleghorn (born 1941, Montreal) served as Chairman and CEO of the Royal Bank of Canada (1994–2001) and subsequently as Chairman of Canadian Pacific Railway and SNC-Lavalin.^6 ^7 An Officer of the Order of Canada. He attended Westmount High School and graduated from McGill University in 1962.^7 His period as a camper likely dates to the 1950s.
+John Edward Cleghorn (born July 7, 1941, Montreal) served as Chairman and CEO of the Royal Bank of Canada (1994–2001) and subsequently as Chairman of Canadian Pacific Railway and SNC-Lavalin.^6 ^7 An Officer of the Order of Canada and Companion of the Canadian Business Hall of Fame. He attended Westmount High School and graduated from McGill University in 1962, where he played defensive lineman on the Redmen's national championship football team and was drafted by the Toronto Argonauts but declined.^18 He served as Chancellor of Wilfrid Laurier University (1996–2003).^18 Cleghorn chaired the Montreal YMCA and was named Officer of YMCA Canada's Fellowship of Honour, confirming deep institutional ties to the organization.^18 His period as a camper likely dates to the 1950s.
 
 ### Sam Lazarus (1978–2004) (Pip Award 2013, posthumous)
 
 Samuel Karl Lazarus was born March 3, 1978 in Montreal.^8 He was a camper and staff member at Camp Kanawana for much of his childhood and youth.^9 After camp, he volunteered at an orphanage in Kumasi, Ghana, where he died of cerebral malaria on January 14, 2004, at age 25.^8
 
-His obituary in the Montreal Gazette (January 24, 2004) directed donations to the Samuel Lazarus Fund at Kamp Kanawana.^8 His mother, Janet Torge — a Montreal broadcaster and writer — and his brother Riel Lazarus established the Sam Lazarus Fund to send children who otherwise could not afford camp to Kanawana.^9 The annual "Five-Hole Sam Street Hockey Jamboree" (Sam Jam) fundraiser has raised approximately $230,000 and sent over 50 children to camp.^1 The fund continues through the Fondation des YMCA du Québec.
+His obituary in the Montreal Gazette (January 24, 2004) directed donations to the Samuel Lazarus Fund at Kamp Kanawana.^8 His mother, Janet Torge — a Montreal broadcaster, radio talk-show host, traffic reporter, Gazette columnist, and author of *Dear Sam*; also co-founder of Canada's first Rape Relief Centre (1973) — and his brother Riel Lazarus (archivist and researcher for film and TV) established the Sam Lazarus Fund to send children who otherwise could not afford camp to Kanawana.^9 ^25 The annual "Five-Hole Sam Street Hockey Jamboree" (Sam Jam) fundraiser has raised approximately $230,000 and sent over 50 children to camp.^1 The fund continues through the Fondation des YMCA du Québec.
 
 ### Jeniene Phillips Birks (Pip Award 2014)
 
-Former broadcaster and community volunteer.^1 Jonathan Birks serves as chair of Foundation Giving for the YMCA Kanawana Development Project, connecting the Birks family to camp philanthropy alongside Jeniene's Pip Award recognition.^10 Specific biographical details beyond her Kanawana connection have not been documented; the spelling of her name varies across YMCA sources ("Phillips" vs. "Philips").
+CBC Montreal television journalist who served as fill-in anchor on the evening newscast circa 2009.^19 She also has IMDB credits as producer/actress on *The Art of War* (2000) and *The Apprentice: Martha Stewart* (2005).^20 Jonathan Birks serves as chair of Foundation Giving for the YMCA Kanawana Development Project, connecting the Birks family to camp philanthropy alongside Jeniene's Pip Award recognition.^10 The spelling of her name varies across YMCA sources ("Phillips" vs. "Philips").
 
 ### Carol Skinner (Pip Award 2016)
 
-Carol Skinner served as a counsellor and section director at Kanawana from 1990 to 1995.^11 She earned a Master's in Art Therapy and worked as Director of YMCA Camp Hayward and as a CMHA Art Therapist.^11 She became an advocate for ALS awareness after her diagnosis. Her award was presented on July 7, 2016 before campers and again at the September alumni gathering.^11
+Carol Sharman Skinner served as a counsellor and section director at Kanawana from 1990 to 1995.^11 She went on to become Director of YMCA Camp Hayward in Cape Cod, Massachusetts, before earning a Master's in Art Therapy and working as a school counsellor and as Art Therapist for the Canadian Mental Health Association in Ottawa.^11 Diagnosed with ALS in 2013, she became an advocate for ALS Canada, speaking publicly about living with the disease.^11 Her award was presented on July 7, 2016 before campers and again at the September alumni gathering.^11
 
 ### Chris Adam (Pip Award 2017)
 
-Director of the Sustainability Office at Dawson College.^12 Recognized as an environmental educator and former Kanawana staff member. A "Chris Adams" (from Vanier) is documented as running the Nature Awareness program at Kanawana in 1980;^14 it is unclear whether this is the same individual.
+Coordinator of the Sustainability Office at Dawson College with a 35-year career, 25 years at Dawson in the Community Recreation and Leadership Training (CRLT) department.^12 ^21 Executive Director of the Earthvalues Institute, a non-profit using a "Nature as Mentor" philosophy.^21 He founded the Sustainable Happiness Certificate at Dawson and led the college to carbon neutrality, winning the International Green Gown Awards Sustainability Institution of the Year.^21 ^22 A "Chris Adams" (from Vanier) is documented as running the Nature Awareness program at Kanawana in 1980;^14 it is unclear whether this is the same individual.
 
 ### Dr. Marina Sharpe (Pip Award 2018)
 
-Former camper and Kanawana staff member.^13 Educated at McGill (BA Economics, LLB/BCL), the London School of Economics (MSc International Development), and Oxford University (DPhil Law, Trudeau Scholar 2011).^13 Associate Professor of International Law at RMC Saint-Jean. Director of the Pierre Elliott Trudeau Foundation. Author of *The Regional Law of Refugee Protection in Africa* (OUP, 2018).^13
+Former camper and Kanawana staff member.^13 Educated at McGill (BA Economics, LLB/BCL), the London School of Economics (MSc International Development), and Oxford University (DPhil Law, Trudeau Scholar 2011).^13 Before academia, she practised as a lawyer at Cravath, Swaine & Moore LLP in New York and served as Senior Legal Officer with UNHCR in Addis Ababa.^23 She holds a SSHRC Banting Fellowship and is called to the bars of New York and England & Wales.^23 Currently Associate Professor of International Law at RMC Saint-Jean. Director of the Pierre Elliott Trudeau Foundation. Author of *The Regional Law of Refugee Protection in Africa* (OUP, 2018).^13
 
 ### Dr. James Orbinski (Pip Award 2024)
 
-Born 1960 in England; grew up in Notre-Dame-de-Grâce, Montreal.^15 Attended Dawson CEGEP, earned a BA in Psychology from Trent University (1984), MD from McMaster University (1990), and MA in International Relations from the University of Toronto (1998).^15 Camper and counsellor at Kanawana in the 1980s–1990s.^15
+Born 1960 in England; grew up in Notre-Dame-de-Grâce, Montreal.^15 Attended John XXIII High School and Dawson CEGEP in Montreal, then earned a BA in Psychology from Trent University (1984), MD from McMaster University (1990), and MA in International Relations from the University of Toronto (1998).^15 ^24 Camper and counsellor at Kanawana in the 1980s–1990s.^15
 
-Orbinski co-founded MSF Canada (1990) and served as President of the International Council of MSF (1998–2001), accepting the 1999 Nobel Peace Prize on behalf of the organization.^6 ^15 He co-founded Dignitas International (2004), a medical/research NGO focusing on HIV/AIDS and TB. Officer of the Order of Canada (2009).^15 Currently Principal of Massey College at the University of Toronto.^15
+Orbinski co-founded MSF Canada (1990) and served as President of the International Council of MSF (1998–2001), accepting the 1999 Nobel Peace Prize on behalf of the organization.^6 ^15 His MSF field missions included Peru (1992), Somalia (1992–93), Afghanistan (1994), Rwanda during the 1994 genocide, and Zaire during the refugee crisis (1996–97).^6 He received the Meritorious Service Cross (1997) for his work during the Rwandan genocide and the Concordia University Loyola Medal (2017).^24 He co-founded Dignitas International (2004), a medical/research NGO focusing on HIV/AIDS and TB. Officer of the Order of Canada (2009).^15 Currently Principal of Massey College at the University of Toronto.^15
 
 ## Other Notable Alumni
 
@@ -88,11 +88,11 @@ Attended Camp Kanawana for six summers before becoming a camp counsellor and can
 
 1. [Critical] What are the years that Richard "Itche" Kerr attended Camp Kanawana? Was he a camper, counsellor, or both?
 2. [Important] Which other notable individuals attended Camp Kanawana who are not Pip Award recipients? The camp has operated for 130+ years — there must be many more.
-3. [Important] What is Bruce Netherwood's specific role history at Kanawana — was he a camp director?
-4. [Nice-to-have] What is Jeniene Phillips Birks's broadcasting career? Which network/station?
+3. [Important] What is Bruce Netherwood's specific role history at Kanawana — was he a camp director? Pip Award describes him as "YMCA leader and author" — what did he author?
+4. ~~[Nice-to-have] What is Jeniene Phillips Birks's broadcasting career? Which network/station?~~ [Resolved] CBC Montreal television journalist; fill-in anchor circa 2009.^19
 5. [Nice-to-have] Can any notable alumni from the 1894–1930 era be identified?
 6. [Nice-to-have] Is "Chris Adams" (1980 nature program) the same person as Chris Adam (Pip Award 2017)?
-7. [Nice-to-have] Who were the 2019 and 2020–2023 Pip Award recipients, if any?
+7. [Nice-to-have] Who were the 2019 and 2020–2023 Pip Award recipients, if any? (2019 appears as "Dr." on Andrew Caddell's LinkedIn but name is truncated.)
 
 ## Sources
 
@@ -112,3 +112,12 @@ Attended Camp Kanawana for six summers before becoming a camp counsellor and can
 14. Kanawana Alumni News (1980).
 15. YMCA Quebec, "Dr. James Orbinski Receives the Camp YMCA Kanawana Pip Award" (2024). URL: https://www.ymcaquebec.org/en/about-us/newsroom/2024/dr-james-orbinski-receives-the-camp-ymca-kanawana-pip-award
 16. Leonowicz, Ursula. "Rewilding childhood: How one summer camp is tackling nature-deficit disorder among Montreal youth." Postmedia Content Works (on behalf of YMCAs of Québec), March 4, 2026.
+17. Wikipedia, "Richard Patten"; CBC obituary, Richard Patten (2021); HP McGarry obituary.
+18. Canadian Encyclopedia, "John Edward Cleghorn"; Wikipedia, "John Cleghorn."
+19. Fagstein blog, "Michel Godbout to leave CBC Montreal anchor chair" (2009). URL: https://blog.fagstein.com/2009/08/21/michel-godbout-to-leave-cbc-montreal-anchor-chair/
+20. IMDB, "Jeniene Phillips." URL: https://www.imdb.com/name/nm0680490/
+21. Dawson College, Chris Adam research page. URL: https://www.dawsoncollege.qc.ca/research/researchers/adam-chris/
+22. CBC News, "Montreal's Dawson College wins international sustainability award" (2022). URL: https://www.cbc.ca/news/canada/montreal/montreal-dawson-college-wins-international-sustainability-award-1.6518120
+23. RMC Saint-Jean, Marina Sharpe faculty page. URL: https://www.cmrsj-rmcsj.forces.gc.ca/cp-fs/sharpem-eng.asp
+24. Wikipedia, "James Orbinski"; Concordia University, Notable Concordians: James Orbinski. URL: https://www.concordia.ca/content/shared/en/profiles/offices/advancement/notable-concordians/james-orbinski.html
+25. My Jewish Learning, "Tikkun Olam: Doing Stuff" (2014). URL: https://www.myjewishlearning.com/2014/09/08/tikkun-olam-doing-stuff/
