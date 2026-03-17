@@ -336,3 +336,63 @@ This log records each Phase 2 search campaign: topic, queries tried, surfaces se
 | Articles advanced | 1 (Camp Weredale stub → draft) |
 | Topics exhausted | E.E. Smee, Macdiarmid, Langille, McEwen, Paterson (all null online) |
 | Key archival leads | P0145/12A (1893 journal, 1895 minutes), P0145/11C (Bannerman file) |
+
+---
+
+## Session 3: Chopsy Legend Deep Dive (2026-03-16)
+
+### Campaign: Chopsy Legend — Phase 2 Expanded Search
+
+**Date:** 2026-03-16
+**Status:** EXHAUSTED (online sources — 16 distinct queries across 5+ surfaces)
+**Mandate:** Phase 2 requires 8+ distinct queries across 3+ surfaces before declaring exhausted.
+
+**Queries tried (16):**
+1. "Chopsy" camp ghost story → null (only unrelated "Chopsy Moggy" fiction)
+2. "Chopsy" Camp Kanawana → null
+3. "Chopsy" Quebec camp legend → null
+4. "Chopsy" summer camp story → null (only "Chopsy Baby" Bristol website)
+5. "Cropsey" camp legend YMCA → extensive Cropsey results, Andre Rand YMCA bus kidnapping, no Chopsy variant
+6. Cropsey legend origin variations Canada Quebec → Cropsey firmly rooted in New York, no Canadian variants documented
+7. "Camp Kanawana" ghost story legend scary → null for ghost stories; general camp info only
+8. "Chopsy" lumberjack axe legend folklore → null
+9. YMCA camp ghost stories Quebec Canada campfire tales → null for Chopsy; general camp storytelling decline noted
+10. Canadian summer camp ghost stories folklore → documented Canadian legends (Anson Minor, Wendigo, Loup-Garou, La Chasse-Galerie), no Chopsy
+11. reddit "Chopsy" camp → null
+12. "Chopsy" OR "Chopsey" camp legend axe killer ghost → null
+13. Cropsey variations different camps names "Chopsy" OR "Chopsey" OR "Chopsie" → null; spelling variants not documented
+14. "Camp Kanawana" traditions campfire stories alumni memories → Stuart McLean connection, Smillie Buckland memoir, no ghost stories
+15. "Chopsy" axe murderer → null
+16. camp ghost story axe murderer "chop" name Quebec Laurentians → null; "Stumpy" parallel found (NH camp)
+
+**Surfaces searched:**
+- Google Web Search (primary)
+- Google News Archive (via web search)
+- Reddit (targeted search)
+- Facebook (targeted search for Kanawana + Chopsy)
+- ACA Message Boards (attempted, 403 blocked)
+- CampRatingz.com (attempted, 403 blocked)
+- Leigh Evans WordPress blog (attempted, 403 blocked)
+- Puzzle Box Horror / CWP Missouri academic pages (attempted, 403 blocked)
+
+**Key findings:**
+- "Chopsy" returns zero results in any spelling across any search surface as a camp legend, ghost story, or folklore figure
+- The Cropsey legend is confirmed as primarily local to New York State (Hudson Valley, Staten Island, Catskills, Long Island)
+- Folklorist Bill Ellis: "Cropsey was the generic term for maniac in New York State camps at the time" — emphasis on *New York State*
+- No documented spread of Cropsey to Canadian camps
+- Canada has its own camp ghost story archetype: **Anson Minor** (documented by Edith Fowke, 1981), structurally parallel to Cropsey but distinctly Canadian
+- The "Stumpy" legend (John Kotula, NH) uses "I'm going to chop you!" — another parallel naming pattern
+- The naming pattern (Cropsey/Cropsy/Stumpy/Chopsy) follows a consistent "injury-derived nickname" convention in camp ghost stories
+- Stuart McLean (1969–1973 Kanawana counselor/asst. director) could potentially have been a vector for camp stories, but no evidence of ghost story connection
+
+**Conclusion:**
+"Chopsy" remains completely undocumented online. The Phase 2 expanded search (16 queries, 5+ surfaces) confirms the Phase 1 finding. The hypothesis that Chopsy is a Kanawana-specific localization of the "maniac in the woods" archetype (paralleling Cropsey, Stumpy, Madman Marz, Anson Minor) remains the strongest working theory, but cannot be confirmed without oral history from alumni. The name's etymology ("chop" + "-sy" suffix) perfectly matches the naming convention of these legends.
+
+**New information added to existing article:** None — no new facts discovered. The myths-and-legends.md article already documents all relevant context from Phase 1.
+
+**Recommendation:** This topic is confirmed blocked on oral history. It should remain in the DRAFT_ORAL_HISTORY_INSTRUMENT priority item (p_045). Specific questions for the interview instrument:
+- "At Kanawana, there's a ghost story about 'Chopsy.' Can you tell the full story as you remember it?"
+- "Who told you the story? A counselor? Another camper?"
+- "Was the story tied to a specific place at camp?"
+- "Do you know when the story started being told?"
+- "Was there a jump-scare or chase element to how the story was told?"

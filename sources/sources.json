@@ -4657,7 +4657,39 @@
       "extraction_version": "v4.28",
       "reliability": "primary",
       "notes": "First woman appointed President & CEO of YMCA Quebec."
+    },
+    {
+      "source_id": "src_hayowentha_website",
+      "type": "web",
+      "title": "YMCA Hayo-Went-Ha Camps — Why Hayo-Went-Ha",
+      "date": "2026",
+      "date_precision": "year",
+      "origin": "web",
+      "origin_url": "https://hayowentha.org/about-hayo-went-ha-camps/why-hayo-went-ha-camps/",
+      "cache_path": null,
+      "char_count": 0,
+      "ingested_at": "2026-03-16T12:00:00Z",
+      "extracted": true,
+      "extraction_version": "v4.29",
+      "reliability": "primary",
+      "notes": "Michigan YMCA camp (founded 1904) using motto 'Each for All, All for Each' — same as Kanawana's earlier English motto."
+    },
+    {
+      "source_id": "src_lcc_lion_magazine_2024",
+      "type": "web",
+      "title": "LCC Lion Magazine Fall 2024 — Making History",
+      "date": "2024",
+      "date_precision": "year",
+      "origin": "web",
+      "origin_url": "https://issuu.com/lower_canada_college/docs/lcc_lion_magazine_fall_2024",
+      "cache_path": null,
+      "char_count": 0,
+      "ingested_at": "2026-03-16T12:00:00Z",
+      "extracted": true,
+      "extraction_version": "v4.29",
+      "reliability": "secondary",
+      "notes": "Confirms Fosbery adopted 'Non Nobis Solum' from family crest for LCC in 1909."
     }
   ],
-  "source_count": 261
+  "source_count": 263
 }

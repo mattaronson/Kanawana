@@ -17460,6 +17460,116 @@
       "conflicts_with": [],
       "added_version": "v4.28",
       "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1026",
+      "claim": "The motto 'Non Nobis Solum' is derived from Cicero's De Officiis 1:22 (44 BC), which itself is a Latin translation of a sentiment from Plato's Epistle to Archytas. The full passage reads: 'non nobis solum nati sumus ortusque nostri partem patria vindicat, partem amici' ('Not for us alone are we born; our country, our friends, have a share in us'). Cicero associates the concept with the Stoic ideal of cosmopolitanism.",
+      "sources": [
+        "src_wikipedia_non_nobis_solum"
+      ],
+      "confidence": "stated",
+      "category": "traditions",
+      "entities": [
+        "Non Nobis Solum",
+        "Cicero",
+        "Plato"
+      ],
+      "date_ref": "44 BC",
+      "conflicts_with": [],
+      "added_version": "v4.29",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1027",
+      "claim": "Camp Kanawana uses the abbreviated form 'Non Nobis Solum' rather than the full Cicero quotation 'Non Nobis Solum Nati Sumus.' The camp presents the motto trilingually: 'Non Nobis Solum — Not for ourselves alone — Pas seulement pour nous-memes.'",
+      "sources": [
+        "src_facebook_ykanawana",
+        "src_ymca_website"
+      ],
+      "confidence": "stated",
+      "category": "traditions",
+      "entities": [
+        "Camp Kanawana",
+        "Non Nobis Solum"
+      ],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "v4.29",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1028",
+      "claim": "The motto 'Each for all and all for each' (Kanawana's earlier English motto, documented 1922 and 1927) is also the current motto of YMCA Hayo-Went-Ha Camps in Michigan, founded 1904. This suggests the English motto may have been a common YMCA camp motto rather than unique to Kanawana.",
+      "sources": [
+        "src_hayowentha_website"
+      ],
+      "confidence": "inferred",
+      "category": "traditions",
+      "entities": [
+        "Camp Kanawana",
+        "YMCA Hayo-Went-Ha Camps",
+        "Non Nobis Solum"
+      ],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "v4.29",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1029",
+      "claim": "Lower Canada College founder Charles Sanderson Fosbery (headmaster 1909-1935) adopted 'Non Nobis Solum' from the Fosbery family crest when he founded the school. The Fosbery family crest motto predates LCC. Fosbery was a Trinity College Dublin graduate in classics.",
+      "sources": [
+        "src_lcc_lion_magazine_2024",
+        "src_wikipedia_non_nobis_solum"
+      ],
+      "confidence": "stated",
+      "category": "institutional",
+      "entities": [
+        "Lower Canada College",
+        "Charles Sanderson Fosbery",
+        "Non Nobis Solum"
+      ],
+      "date_ref": "1909",
+      "conflicts_with": [],
+      "added_version": "v4.29",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1030",
+      "claim": "The Pip Alumni Award is named for Philip 'Pip' Caddell (1913-2004), who was a Kanawana camper in 1928, and his grandson James Caddell (1973-2005), a camper and counsellor from 1983 to 1991 who became a UN Peacekeeper and died of altitude sickness in Bolivia. The award was established in 2007.",
+      "sources": [
+        "src_ymca_pip_skinner"
+      ],
+      "confidence": "stated",
+      "category": "traditions",
+      "entities": [
+        "Philip Caddell",
+        "James Caddell",
+        "Pip Alumni Award",
+        "Camp Kanawana"
+      ],
+      "date_ref": "2007",
+      "conflicts_with": [],
+      "added_version": "v4.29",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1031",
+      "claim": "The 'Non Nobis Solum' motto is NOT a YMCA-wide motto. It is specific to Camp Kanawana within the YMCA. No other YMCA camp was found using this Latin motto. The Wikipedia list of organizations using it includes schools (Massanutten Academy, Walnut Hill School, Pennthorpe School, LCC, University College Durham, Willamette University, Washburn University, Swarthmore College class of 1918), military units (US Army 1st Maintenance Company), and heraldic families (Baron Haden-Guest).",
+      "sources": [
+        "src_wikipedia_non_nobis_solum"
+      ],
+      "confidence": "inferred",
+      "category": "traditions",
+      "entities": [
+        "Camp Kanawana",
+        "Non Nobis Solum",
+        "YMCA"
+      ],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "v4.29",
+      "added_by": "ralph_loop"
     }
   ]
 }
