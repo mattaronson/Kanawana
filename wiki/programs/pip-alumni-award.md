@@ -30,13 +30,13 @@ Caddell died on October 16, 2005 in Tupiza, Bolivia, of pulmonary edema caused b
 | Year | Recipient | Kanawana Connection | Achievement |
 |------|-----------|-------------------|-------------|
 | 2007 | Richard "Itche" Kerr | Camper; camp song composer | Volunteer work with the physically challenged^3 |
-| 2008 | Richard Patten | Alumnus | MPP for Ottawa Centre; YMCA manager; CHEO Foundation CEO^9 |
+| 2008 | Richard Patten | YMCA day camps alumnus | MPP for Ottawa Centre; Montreal YMCA Executive Director (1976–79); CHEO Foundation CEO^9 |
 | 2009 | Stuart McLean | Counsellor 1969–73; Asst. Director 1974–75 | CBC broadcaster, *Vinyl Cafe* host, Officer of the Order of Canada^3 |
 | 2010 | — | *No documented recipient* | — |
 | 2011 | Bruce Netherwood | Staff, late 1980s–1990s | VP Camping Services, South Shore YMCA (Massachusetts)^3 |
-| 2012 | John Cleghorn | Alumnus | Chairman and CEO, Royal Bank of Canada; Officer of the Order of Canada^3 ^10 |
+| 2012 | John Cleghorn | Alumnus; chaired Montreal YMCA | Chairman and CEO, Royal Bank of Canada; Officer of the Order of Canada^3 ^10 |
 | 2013 | Sam Lazarus (posthumous) & family | Alumnus | Worked with orphans in Ghana; died of cerebral malaria c. 2004^3 |
-| 2014 | Jeniene Phillips Birks | Alumna | Former broadcaster and community volunteer^3 |
+| 2014 | Jeniene Phillips Birks | Alumna | CBC Montreal television journalist; community volunteer^3 |
 | 2015 | Terry "Aislin" Mosher | Camper 1952–53 | Montreal Gazette editorial cartoonist; Officer of the Order of Canada^2 |
 | 2016 | Carol Skinner | Counsellor/Section Director 1990–95 | ALS advocate; Master's in Art Therapy; Director of YMCA Camp Hayward; CMHA Art Therapist^1 |
 | 2017 | Chris Adam | Former staff | Director of Sustainability Office, Dawson College; environmental educator^3 |
@@ -70,7 +70,9 @@ Samuel Karl Lazarus was born March 3, 1978 in Montreal. He worked with children 
 
 ## Related Articles
 
+- [[people/notable-alumni|Notable Alumni of Camp Kanawana]]
 - [[people/stuart-mclean|Stuart McLean]]
+- [[people/terry-mosher|Terry Mosher (Aislin)]]
 - [[people/directors-index|Directors and Staff of Camp Kanawana]]
 - [[programs/traditions-and-culture|Traditions and Culture at Kanawana]]
 

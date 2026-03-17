@@ -1,6 +1,6 @@
 # Notable Alumni of Camp Kanawana
 
-*Status: draft | Sources: 22*
+*Status: E1-reviewed | Sources: 24*
 *Last Updated: 2026-03-17*
 
 ## Overview
@@ -31,7 +31,7 @@ John Edward Cleghorn (born July 7, 1941, Montreal) served as Chairman and CEO of
 
 Samuel Karl Lazarus was born March 3, 1978 in Montreal.^8 He was a camper and staff member at Camp Kanawana for much of his childhood and youth.^9 After camp, he volunteered at an orphanage in Kumasi, Ghana, where he died of cerebral malaria on January 14, 2004, at age 25.^8
 
-His obituary in the Montreal Gazette (January 24, 2004) directed donations to the Samuel Lazarus Fund at Kamp Kanawana.^8 His mother, Janet Torge — a Montreal broadcaster, radio talk-show host, traffic reporter, Gazette columnist, and author of *Dear Sam*; also co-founder of Canada's first Rape Relief Centre (1973) — and his brother Riel Lazarus (archivist and researcher for film and TV) established the Sam Lazarus Fund to send children who otherwise could not afford camp to Kanawana.^9 ^25 The annual "Five-Hole Sam Street Hockey Jamboree" (Sam Jam) fundraiser has raised approximately $230,000 and sent over 50 children to camp.^1 The fund continues through the Fondation des YMCA du Québec.
+His obituary in the Montreal Gazette (January 24, 2004) directed donations to the Samuel Lazarus Fund at Kamp Kanawana.^8 His mother, Janet Torge — a Montreal broadcaster, radio talk-show host, traffic reporter, Gazette columnist, and author of *Dear Sam*; also co-founder of Canada's first Rape Relief Centre (1973) — and his brother Riel Lazarus (archivist and researcher for film and TV) established the Sam Lazarus Fund to send children who otherwise could not afford camp to Kanawana.^9 The annual "Five-Hole Sam Street Hockey Jamboree" (Sam Jam) fundraiser has raised approximately $230,000 and sent over 50 children to camp.^1 The fund continues through the Fondation des YMCA du Québec.
 
 ### Jeniene Phillips Birks (Pip Award 2014)
 
@@ -120,4 +120,3 @@ Attended Camp Kanawana for six summers before becoming a camp counsellor and can
 22. CBC News, "Montreal's Dawson College wins international sustainability award" (2022). URL: https://www.cbc.ca/news/canada/montreal/montreal-dawson-college-wins-international-sustainability-award-1.6518120
 23. RMC Saint-Jean, Marina Sharpe faculty page. URL: https://www.cmrsj-rmcsj.forces.gc.ca/cp-fs/sharpem-eng.asp
 24. Wikipedia, "James Orbinski"; Concordia University, Notable Concordians: James Orbinski. URL: https://www.concordia.ca/content/shared/en/profiles/offices/advancement/notable-concordians/james-orbinski.html
-25. My Jewish Learning, "Tikkun Olam: Doing Stuff" (2014). URL: https://www.myjewishlearning.com/2014/09/08/tikkun-olam-doing-stuff/

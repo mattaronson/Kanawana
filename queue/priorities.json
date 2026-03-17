@@ -1479,6 +1479,67 @@
       "status": "completed",
       "result": "Flickr account confirmed: flickr.com/photos/kanawana/, 4,416 photos, joined 2010, 12 followers. Confirmed as official via toutMontreal.com. All Flickr URLs return 403. Content cannot be assessed remotely. Blocked on manual browser access to catalog albums and dates.",
       "completed_at": "2026-03-17T03:45:00Z"
+    },
+    {
+      "priority_id": "p_116",
+      "rank": 116,
+      "type": "WRITE",
+      "description": "Advance notable-alumni.md from draft to E1-reviewed — full pipeline completed",
+      "article_id": "notable-alumni",
+      "blocking": false,
+      "assigned_weight": "P2",
+      "created_at": "2026-03-17T04:35:00Z",
+      "status": "completed",
+      "completed_at": "2026-03-17T04:35:00Z",
+      "result": "notable-alumni.md advanced draft → R3-verified → E1-reviewed. 2200 words, 24 sources, 6 open questions. Jeniene Phillips Birks identified as CBC journalist. Full YMCA careers for Patten and Cleghorn. Orbinski MSF missions. Sharpe legal career. Chris Adam sustainability achievements."
+    },
+    {
+      "priority_id": "p_117",
+      "rank": 117,
+      "type": "WRITE",
+      "description": "Create environmental-history stub article — Clivus Multrum, RSVL monitoring, C-Vert program, environmental education mission, CRLT-Dawson pipeline",
+      "article_id": "environmental-history",
+      "blocking": false,
+      "assigned_weight": "P3",
+      "created_at": "2026-03-17T04:35:00Z",
+      "status": "pending",
+      "result": null
+    },
+    {
+      "priority_id": "p_118",
+      "rank": 118,
+      "type": "RESEARCH",
+      "description": "Deep research on Janet Torge — broadcaster, author, feminist activist. Connection to Sam Lazarus and Camp Kanawana philanthropy",
+      "article_id": "notable-alumni",
+      "blocking": false,
+      "assigned_weight": "P4",
+      "created_at": "2026-03-17T04:35:00Z",
+      "status": "pending",
+      "result": null
+    },
+    {
+      "priority_id": "p_119",
+      "rank": 119,
+      "type": "RESEARCH",
+      "description": "Catalog Flickr photos — requires manual browser access to flickr.com/photos/kanawana/albums/ to document album names, dates, subject matter",
+      "article_id": null,
+      "blocking": true,
+      "blocking_reason": "Flickr blocks all automated access (403). Requires user to visit in browser.",
+      "assigned_weight": "P3",
+      "created_at": "2026-03-17T04:35:00Z",
+      "status": "blocked"
+    },
+    {
+      "priority_id": "p_120",
+      "rank": 120,
+      "type": "RESEARCH",
+      "description": "Access CRE Laurentides Lac Kanawana water quality data — actual numeric results (phosphorus, Secchi depth, trophic classification) not retrievable via web search",
+      "article_id": "the-kanawana-site",
+      "blocking": true,
+      "blocking_reason": "CRE Laurentides pages return 403 on automated access. Requires direct browser access.",
+      "assigned_weight": "P3",
+      "created_at": "2026-03-17T04:35:00Z",
+      "status": "blocked"
     }
   ]
 }
