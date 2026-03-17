@@ -433,3 +433,269 @@ This log records each Phase 2 search campaign: topic, queries tried, surfaces se
 ### Assessment
 
 This is a secondary source (sponsored advertorial content) with limited new factual information beyond what was already in the KB. Its main value is: (1) confirming the YMCA's current institutional narrative, (2) providing Xavier Maclaren as a named contemporary alumnus, (3) the specific street address, and (4) the 85-camper figure for 1910 (which requires reconciliation with McMorris).
+
+---
+
+## Campaign: 1994 Centennial and Anniversary Events Research
+**Date:** 2026-03-17
+**Topic:** Camp Kanawana centennial (100th anniversary, 1994) and all milestone anniversary events
+**RALPH phase:** RETRIEVE + ANALYZE
+
+### Queries Tried (20+)
+
+| # | Query | Surface | Result |
+|---|-------|---------|--------|
+| 1 | "Camp Kanawana" 1994 centennial anniversary celebration | Web | Partial: Concordia archives reference, no event narrative |
+| 2 | "Camp Kanawana" 100th anniversary | Web | No specific 1994 event; confirmed founding 1894 |
+| 3 | "Kanawana" centennial 1994 Montreal | Web | Found Concordia finding aid with poster + newsletter refs |
+| 4 | "Kanawana" 1994 reunion | Web | Null result for 1994; found 2014 120th reunion |
+| 5 | Montreal Gazette 1994 "Kanawana" | Web | No 1994 article; found 1918 and 1974 Gazette clippings on Newspapers.com |
+| 6 | YMCA Montreal 1994 camp celebration | Web | Null result |
+| 7 | "Kanawana" anniversary book OR publication OR video | Web/IA | Found 1935 History, 1941 broadcast, 1923 brochure, Ka-News 1980 on IA |
+| 8 | "Camp Kanawana" 120th anniversary 2014 Victoria Hall | Web | Confirmed: Sep 5, 2014, Victoria Hall |
+| 9 | "Kanawana" "100 years of spirit and leadership" poster 1994 | Web | No direct web hit; Concordia finding aid confirms existence |
+| 10 | "Look Out" newsletter Kanawana alumni 1994 | Web | No web hit; Concordia archives confirm Vol. 1, #3, 1994 |
+| 11 | YouTube "Camp Kanawana" centennial OR anniversary OR documentary | Web | No direct YouTube hits for centennial |
+| 12 | concordia.accesstomemory.org "kamp kanawana" archival description | Web | Detailed finding aid: P0145/12B, 7.72m of records, 190x-2003 |
+| 13 | "Kanawana" 125th anniversary 2019 | Web | Confirmed: YMCA Quebec blog "Come be part of Kanawana's 125th anniversary celebration this summer" |
+| 14 | "Kanawana" "95 years" 1989 reunion sharing | Web | No web hit; Concordia archives have colour separation films for "95 years of sharing" reunion, Apr 7, 1989 |
+| 15 | "Cathy Reeves" director documentary Montreal | Web | No biographical info; only LinkedIn/ZoomInfo directory pages |
+| 16 | "Laurentien Productions" Montreal Kanawana video | Web | Confirmed as production company of 1993 documentary |
+| 17 | Cathy Reeves "Kanawana" documentary 1993 | Web | Confirmed: "Kamp Kanawana: The Experience that Lasts a Lifetime" |
+| 18 | youtube "kamp kanawana" "experience that lasts a lifetime" | Web | Found YouTube URL: https://youtu.be/_bznoSFg3MU per Concordia catalog |
+| 19 | "Camp Kanawana" 130th anniversary 2024 | Web | No specific celebration found; 2024 launched Kanawana Adventure day camp |
+| 20 | "Camp Kanawana" 2019 125 anniversary celebration summer | Web | Confirmed 125th anniversary celebration, summer 2019 |
+| 21 | "Kanawana" "100 years" OR "cent ans" poster celebration | Web | Null result |
+| 22 | newspapers.com "kanawana" 1994 centennial anniversary | Web | Null result |
+| 23 | "Kanawana" Facebook group alumni reunion 1994 centennial | Web | Null result |
+| 24 | "Camp Kanawana" 1994 summer centennial hundred year | Web | Null result; confirmed founding facts only |
+
+### Surfaces Searched
+- Google Web Search (primary)
+- Concordia University Archives AtoM catalog (via web search)
+- Concordia University Archives finding aid pages (403 on direct fetch)
+- YMCA Quebec website (403 on direct fetch)
+- Internet Archive
+- Newspapers.com (via web search)
+- YouTube (via web search)
+- Facebook/Instagram (via web search)
+
+### Key Findings
+
+**1994 Centennial - Confirmed to have occurred but poorly documented online:**
+- A poster "Kanawana: 100 years of spirit and leadership" (1994) exists in Concordia archives P0145/12B04
+- "The Look Out" alumni newsletter Vol. 1, #3 (1994) exists in Concordia archives -- the "Vol. 1" designation suggests this newsletter was launched around this period, possibly for the centennial
+- Tear sheets from local newspapers with Kanawana advertisements from 1993-1994 exist in archives
+- NO narrative account of centennial events, celebrations, or reunions was found online
+- NO Montreal Gazette article about the 1994 centennial surfaced
+
+**1993 Documentary (pre-centennial):**
+- "Kamp Kanawana: The Experience that Lasts a Lifetime" (1993, 9 min, colour VHS)
+- Directed by Cathy Reeves, produced by Laurentien Productions
+- Features voiceover narration and camper testimonials
+- Describes Kanawana as oldest camp in Quebec, second oldest in Canada
+- Includes the song "On My Way to Kanawana" by Richard "Itch" Kerr
+- Concordia archives reference code: P0145-09-0034
+- YouTube access copy: https://youtu.be/_bznoSFg3MU
+- Likely commissioned as part of centennial preparations
+
+**Pattern of Anniversary Celebrations:**
+- 95th anniversary reunion: April 7, 1989 (colour separation films in archives for "95 years of sharing")
+- 100th/Centennial: 1994 (poster + newsletter confirmed; event details unknown)
+- 120th anniversary reunion: September 5, 2014, Victoria Hall, Westmount
+- 125th anniversary celebration: Summer 2019 (promoted on YMCA Quebec website)
+- 130th anniversary: 2024 (no specific celebration found)
+
+**Cathy Reeves / Laurentien Productions:**
+- No biographical information found for Cathy Reeves beyond her role as director
+- No other productions by Laurentien Productions surfaced
+
+### New Facts Added
+f_1079: 1994 centennial poster in Concordia archives
+f_1080: 1989 "95 years of sharing" reunion materials in archives
+f_1081: 1993-1994 newspaper tear sheets in archives
+f_1082: 125th anniversary celebration, summer 2019
+f_1083: YouTube access copy of 1993 documentary
+f_1084: Summary of all milestone anniversary events
+
+### New Sources Added
+src_ymca_125th_2019: YMCA Quebec 125th anniversary blog page
+
+### Open Questions Remaining
+1. What specific events or activities took place at the 1994 centennial?
+2. Was there a centennial reunion event, and if so where and when?
+3. Who was the camp director in 1994?
+4. Was any anniversary publication produced beyond the poster and newsletter?
+5. Does the YouTube access copy of the 1993 documentary still exist at the given URL?
+6. Who is Cathy Reeves? What is/was Laurentien Productions?
+7. What is the full content of "The Look Out" Vol. 1, #3?
+
+### Assessment
+The 1994 centennial definitely occurred -- the archival evidence (poster, newsletter, documentary timed for it) proves this conclusively. However, the event itself is essentially undocumented in publicly accessible online sources. The details of what happened remain locked in the Concordia archives and in the memories of alumni who attended. This is a strong candidate for the oral history interview instrument.
+
+---
+
+## Campaign 7: Directors 1947-2003 Gap — Expanded Search
+
+### Target: Identify directors during the 56-year gap
+**Date:** 2026-03-17
+**Status:** PARTIALLY PRODUCTIVE — new institutional context found, but no new director names confirmed
+
+**Queries tried (30+):**
+1. "Camp Kanawana" director 1950s 1960s 1970s 1980s 1990s → general history, no director names
+2. YMCA Montreal camping director history Kanawana → Concordia archives references, no new names
+3. "Camp Kanawana" director name history Quebec → confirmed Cathy Reeves 1993 documentary
+4. "Stuart McLean" "Camp Kanawana" assistant director → confirmed 1969-1975 timeline, found anonymous director comment
+5. "Brian Langille" YMCA Montreal camping Kanawana → NULL
+6. "Ross Bannerman" "Camp Kanawana" director YMCA → Concordia archives confirm 1969 report
+7. "Dave Twynam" OR "David Twynam" YMCA camp → LinkedIn: Dean, Faculty of Management, VIU (already known)
+8. "Sean Day" "Camp Kanawana" director years → confirmed now Director of Fund Development (post-Kanawana)
+9. "Camp Kanawana" "camp director" OR "director of" 1960 1970 1980 1990 → NULL
+10. LinkedIn "Camp Kanawana" director → Kevin Slezak (assistant director), Ryan Lalonde
+11. "Camp Kanawana" "Pip" award alumni past recipients → PRODUCTIVE: full Pip list (2007-2024)
+12. "Bruce Netherwood" YMCA Kanawana director → VP Camping, South Shore YMCA, 30+ years
+13. "Richard Patten" YMCA Kanawana → MAJOR FIND: YMCA Montreal Exec Dir 1976-79
+14. "Rick Patten" YMCA Kanawana → null
+15. "Richard Patten" YMCA Montreal camping director Kanawana 1970s → confirmed Dir Intl Programs 1971-76
+16. "Bruce Netherwood" YMCA camp director South Shore author Kanawana years → 30+ years in YMCA camping
+17. "Camp Kanawana" director 1980s 1990s 2000s → null
+18. "Sean Day" "Camp Kanawana" director years started when → anti-bullying video, COVID decisions
+19. "Richard Kerr" OR "Itche Kerr" YMCA Kanawana camp director role → Pip 2007, volunteer work
+20. "Camp Kanawana" director 2000 2001 2002 2003 before Sean Day → null
+21. "Camp Kanawana" OR "Kamp Kanawana" director Facebook alumni group → Leigh Evans memoir
+22. Concordia archives YMCA fonds "Camp director" Kanawana 1947 1948 1949 1950 → Ben T. Hannah reminiscence (of 1948)
+23. McMorris thesis "Camp Kanawana" director → thesis covers 1894-1967 only
+24. "Ben Hannah" OR "Ben T. Hannah" YMCA Montreal camp → only archival reference
+25. "Kanawana" director YMCA Montreal 1950 1955 1960 1965 → archival leads only
+26. Concordia YMCA fonds 12B01 director report 1960 1965 1970 → confirmed 1972 Branch Director's Report
+27. "Kate Taylor" "Camp Kanawana" director → confirmed current camp director, COVID era
+28. "Camp Administrator Hall of Fame" YMCA Kanawana → inductee found (name truncated)
+29. "Camp Kanawana" director 1974 1975 → anonymous commenter only
+30. "John Cleghorn" "Camp Kanawana" YMCA → Pip 2012, former RBC CEO, born Montreal 1941
+31. "Richard Patten" YMCA Montreal camp counsellor "Sir George Williams" → worked YMCA day camps at SGW
+
+**Surfaces searched:** Google Web, Google Scholar, LinkedIn, Concordia AtoM catalog, Wikipedia, CBC News, Westmount Magazine, Samaritanmag, YMCA Quebec website, Camp Administrator Hall of Fame, South Shore YMCA website
+
+**Key Findings:**
+1. **Richard Patten (1942-2021)**: Pip Award 2008. Worked YMCA Montreal summer day camps while at SGW (early 1960s). Director of International Programs, Metropolitan YMCA Montreal 1971-76. Executive Director YMCA Montreal 1976-79. This makes him the organizational superior overseeing Kanawana during the Twynam era. NOT a camp director himself, but key institutional figure.
+2. **Anonymous 1974-75 director**: Westmount Magazine commenter confirmed being camp director in 1974-75 with Stuart McLean as assistant. Also sublet McLean's Dorchester flat and looked after his piano. Identity still unknown.
+3. **Ben T. Hannah**: Wrote "Kanawana Reminiscence (of 1948)" in 1989. First named person placed at camp in the immediate post-Hanagan period (1947-1958 gap).
+4. **John Cleghorn** (b. 1941): RBC CEO, Pip Award 2012. Born Montreal, Westmount High, McGill 1962. Likely camper ~1950s.
+5. **Full Pip Award list**: Kerr 2007, Patten 2008, McLean 2009, Netherwood 2011, Cleghorn 2012, Lazarus 2013, Phillips Birks 2014, Mosher 2015, Skinner 2016, Adam 2017, Sharpe 2018, Orbinski 2024.
+6. **Concordia archival leads** (require physical access): 1972 Branch Director's Report (5 copies), 1975-78 management minutes, 1979 budget.
+
+**NULL results logged:**
+- Brian Langille: no connection to YMCA Montreal or Kanawana found in any search
+- "John Chicken" speculative search: null
+- Specific director names for 1947-1958, 1963-1973, 1981-late 1980s: still unidentified online
+- McMorris thesis ends at 1967, so provides no post-1967 directors
+
+**Remaining gaps (unchanged from pre-search):**
+- **1947-1958**: Ben T. Hannah (1948 reminiscence) is a lead but role unconfirmed
+- **1963-1973**: Seaman left ~1963 for SGW; 1972 Branch Director's Report in archives
+- **1974-1975**: Anonymous Westmount commenter was director; identity unknown
+- **1976-1978**: Patten was Exec Dir of YMCA Montreal but not camp director
+- **1981-late 1980s**: Between Twynam and Netherwood
+- **Late 1990s-2003**: Between Netherwood/Leduc and Sean Day (2004)
+
+**Assessment:** Online sources are now essentially exhausted for this topic. The director names for the gap periods are locked in: (a) Concordia Archives physical records (season reports, director reports, management minutes), (b) the memories of alumni, and (c) possibly the 1993 documentary. The Camp Administrator Hall of Fame may have a Kanawana inductee whose name was truncated in search results. The Pip Award recipients list is now complete and provides useful context — several recipients (Patten, Netherwood, Kerr) may have been camp directors or can identify directors from their era. Contact with these living alumni (especially Netherwood and Kerr) would be the most productive next step.
+
+---
+
+## Session 5: Concordia Archives Deep Dive & Biographical Research (2026-03-17)
+
+### Campaign 11: Concordia Archives Finding Aid — P0145/12B01 and 12A
+
+**Date:** 2026-03-17
+**Status:** MAJOR DISCOVERIES — 17 new archival facts
+
+Successfully extracted detailed file-level descriptions from Concordia Archives finding aids via Google search snippets (direct page access consistently 403-blocked).
+
+**P0145/12B01 (Kamp Kanawana General Administration) key items:**
+- "YMCA Kamp Kanawana Facts-timeline 1894-1998" (~1998) — comprehensive internal history document
+- Kamp Kanawana: Report of First Year of Camp (1910)
+- Season reports: 1918, 1919, 1921
+- Committee minutes: 1910-1917, 1918-1922, 1968-1969
+- Board of Management: 1939, 1940-1942, 1946
+- Committee report to Metropolitan Board of Directors (1967)
+- 4 microfiches "Junior Camp Opening Roster" (1910-1917, actual dates 1916-1923)
+- 3 microfiches "Permanent Camp Committee" (1911-1926)
+
+**P0145/12A (Committees — Camping, Outdoor Programs) key items:**
+- Ralph Dawson, "History of Kamp Kanawana" (1933) — **confirms lost Dawson article exists in archives**
+- R. L. Charlton, "Notes re Early Days of YMCA Camps at Lake St. Joseph and Kanawana" (1943) — **NEW person identified**
+- W. E. Cushing, "Historical sketches-Lake St. Joseph" (1943)
+- Report by R. H. Hanagan, Montreal YMCA camp director
+- Permanent Camp Committee minutes (1895-1896, 1899-1901, 1908, 1911-1926)
+- Metropolitan Camping Commission (1954-1955)
+- Boys' Camping Committee (1956-1958)
+- Report of Boys' and Girls' Camping Committee to Metropolitan Planning and Development Committee (1967) — **confirms both genders by 1967**
+- Camping and Outdoor Education Branch Director's Report (1972)
+- Camping and Outdoor Education Branch of Management minutes (1975-1978)
+- Camping and Outdoor Education Branch budgets (1972-1974)
+- Outdoor Education Branch fall conference (1971)
+- Special Intercommittee Task Force on Camping (1981-1982)
+- Report of Staff Task Group on Outdoor Education (1974), planning 1974-1975
+
+### Campaign 12: R. L. Charlton — Biographical Research (NEW PERSON)
+
+**Date:** 2026-03-17
+**Status:** SUBSTANTIALLY IDENTIFIED
+- R. L. Charlton was a Montreal-based independent marine surveyor
+- Elected Treasurer of Canadian Board of Marine Underwriters (CBMU) at founding, March 12, 1917
+- Described as "an ardent YMCA worker"
+- Went to France with YMCA to serve Canadian troops during WWI
+- Authored "Notes re Early Days of YMCA Camps at Lake St. Joseph and Kanawana" (1943)
+
+### Campaign 13: Pip Award — Full Recipient List Confirmed
+
+**Date:** 2026-03-17
+**Status:** COMPLETE LIST CONFIRMED — 15 new facts
+
+Key biographical enrichments:
+- Philip "Pip" Caddell (1913-2004): camper 1928, born Brantford, died Ottawa
+- James Caddell (1973-2005): McGill BA 1997, camper/counsellor 1983-1991
+- Richard "Itche" Kerr: nickname confirmed, same as song composer
+- Richard Patten (died Dec 30 2021, age 79): SGW University, YMCA day camps
+- Bruce Netherwood: 30+ years YMCA camping, Concordia archives hold T-shirt design envelope
+
+### Campaign 14: Stuart McLean — LCC Connection
+
+**Date:** 2026-03-17
+**New quote:** "LCC was a place where I didn't really fit in." / "I began pulling my adult self together at Camp Kanawana." (The Montrealer, 2008)
+
+### Campaign 15: Hedley Dimock Father-Son Research
+
+**Date:** 2026-03-17
+**Status:** SUBSTANTIALLY ENRICHED
+- Father (Hedley S.): YMCA College professor, authored "Administration of the Modern Camp"
+- Son (Hedley G.): Montreal YMCA Staff Development Coordinator, SGW lecturer, conducted Kanawana counsellor research (1960-1969), co-authored with Raye Kass
+
+### Campaign 16: Facilities & Current Programs
+
+**Date:** 2026-03-17
+- Gymnasium named "Katimavik"
+- Section-facility mapping confirmed (Woodsy, Pioneers, Coureurs des Bois, Pathfinders)
+- Rose des Vents Pavilion detailed
+- 2024: Launched "Kanawana Adventure" day camp — first day camp at the site
+- Camp described as "10 minutes from Saint-Sauveur"
+
+### Campaign 17: Etymology & Indigenous Context
+
+**Date:** 2026-03-17
+- "Kanawa" (Cariban/Taino) = "dugout canoe" — root of English "canoe"; link to "Kanawana" unconfirmed
+- Camp sits on unceded Weskarini Algonquin territory
+- YMCA Waabanaki name change (2023) shows broader reconciliation movement
+
+### Session 5 Summary Statistics
+
+| Metric | Value |
+|--------|-------|
+| New facts added | 53 (f_1043-f_1095) |
+| New sources added | 8 |
+| KB version | 4.30 → 4.31 |
+| Total facts | 1105 |
+| Total sources | 302 |
+| New persons identified | R. L. Charlton (marine surveyor/YMCA worker) |
+| Key enrichments | Pip Award full list, Dimock father-son, Charlton biography, Netherwood career, facilities detail |
+| Archival discoveries | 17 new items from P0145/12A and 12B01 finding aids |

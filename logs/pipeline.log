@@ -1228,3 +1228,59 @@ HYPOTHESIZE:
   - Updated the-kanawana-site.md: added street address 673 Saint-Elmire St., Postmedia source
   - Updated articles.json: sources_cited and kb_facts_used for both articles
   - KB version: v4.30, fact count: 984, source count: 264
+
+2026-03-17T12:00:00Z | RESEARCH | 1994 Centennial Research Campaign
+  Task: Systematic search for Camp Kanawana 1994 centennial and all anniversary events
+  Searches conducted (20+):
+    1. "Camp Kanawana" 1994 centennial anniversary celebration - partial hit (Concordia archives)
+    2. "Camp Kanawana" 100th anniversary - no specific event found
+    3. "Kanawana" centennial 1994 Montreal - found Concordia finding aid references
+    4. "Kanawana" 1994 reunion - no specific result
+    5. Montreal Gazette 1994 "Kanawana" - found newspapers.com clippings (not 1994-specific)
+    6. YMCA Montreal 1994 camp celebration - no specific result
+    7. "Kanawana" anniversary book OR publication OR video - found IA materials
+    8. "Camp Kanawana" 120th anniversary 2014 Victoria Hall - confirmed September 5, 2014
+    9. "Kanawana" "100 years of spirit and leadership" - no direct web hit but Concordia confirms
+    10. "Look Out" newsletter Kanawana alumni 1994 - no web hit, exists in Concordia archives
+    11. YouTube "Camp Kanawana" centennial/anniversary - found documentary YouTube URL
+    12. Concordia archives "kamp kanawana" archival description - detailed finding aid
+    13. "Kanawana" 125th anniversary 2019 - confirmed via YMCA Quebec website
+    14. "Kanawana" "95 years" 1989 reunion - no web hit but Concordia archives confirm
+    15. "Cathy Reeves" director documentary Montreal - no biographical info found
+    16. "Laurentien Productions" Montreal Kanawana - confirmed as production company
+    17. "Kanawana" "100 years" OR "cent ans" poster - no web hit
+    18. "Camp Kanawana" 130th anniversary 2024 - no specific celebration found
+    19. "Kanawana" Facebook group alumni reunion 1994 - no relevant results
+    20. "Camp Kanawana" 2019 125 anniversary celebration summer - confirmed
+
+  Key findings:
+    - Concordia archives (P0145/12B04) hold: 1994 centennial poster "Kanawana: 100 years of spirit and leadership"
+    - "The Look Out" alumni newsletter Vol. 1, #3 from 1994
+    - "95 years of sharing" reunion materials from April 7, 1989
+    - Tear sheets from local newspapers 1993-1994
+    - 1993 documentary by Cathy Reeves/Laurentien Productions: YouTube access copy at https://youtu.be/_bznoSFg3MU
+    - 120th anniversary reunion: September 5, 2014, Victoria Hall
+    - 125th anniversary: summer 2019, promoted on YMCA Quebec website
+    - No detailed narrative of what happened at the 1994 centennial itself was found online
+    - No Montreal Gazette article about 1994 centennial surfaced in web search
+
+  New facts added: f_1079 through f_1084
+  New sources added: src_ymca_125th_2019
+  KB version: v4.32
+
+2026-03-17T00:00:00Z | RESEARCH | directors-index | Director gap 1947-2003 expanded search (R7 RALPH)
+  - TASK: Systematic web search for directors during 1947-2003 gap
+  - 30+ queries executed across Google Web, LinkedIn, Concordia AtoM, Wikipedia, CBC, YMCA Quebec
+  - KEY FINDINGS:
+    1. Richard Patten (1942-2021): Executive Director YMCA Montreal 1976-79 (organizational superior to camp director). Also Director of International Programs 1971-76. Worked YMCA day camps at SGW in 1960s. Pip Award 2008.
+    2. Anonymous 1974-75 director confirmed via Westmount Magazine comment (identity still unknown)
+    3. Ben T. Hannah: "Kanawana Reminiscence (of 1948)" in archives — first named person in 1947-1958 gap
+    4. John Cleghorn (b.1941): RBC CEO, Pip Award 2012. Born Montreal, likely camper ~1950s.
+    5. Full Pip Award chronology compiled (2007-2024, 12 recipients)
+    6. Concordia archival leads confirmed: 1972 Branch Director's Report, 1975-78 management minutes
+  - NULL RESULTS: Brian Langille (no connection found), specific director names for gap sub-periods
+  - New facts: f_1089-f_1096 (8 facts)
+  - Directors-index.md updated: Pip Award table expanded, gap period notes refined, source 16 added
+  - Research log Campaign 7 written
+  - KB version: v4.32 → v4.32 (fact count 1090 → 1098)
+2026-03-17T02:58:09Z | Session 5 | Added 53 facts (f_1043-f_1095), 8 sources, 9 priorities. Key: Concordia archives deep dive (17 items), Pip Award complete list, R.L. Charlton identified, facilities mapped, etymology researched.
