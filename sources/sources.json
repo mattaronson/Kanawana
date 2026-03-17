@@ -4865,6 +4865,38 @@
       "extraction_version": "v4.31",
       "reliability": "secondary",
       "notes": "Reader's Digest collection of camp memories. Contains Charles \"Smillie\" Buckland's recollection of Camp Kanawana starting 1944. First Green Triangle recipient. Page 403-blocked for direct fetch."
+    },
+    {
+      "source_id": "src_ymca_quebec_daycamp_discontinuation_2025",
+      "type": "web",
+      "title": "YMCAs of Quebec day camp discontinuation announcement (2025)",
+      "date": "2025",
+      "date_precision": "year",
+      "origin": "web",
+      "origin_url": "https://www.ymcaquebec.org/en/camps",
+      "cache_path": null,
+      "char_count": 0,
+      "ingested_at": "2026-03-17T00:00:00Z",
+      "extracted": true,
+      "extraction_version": "v4.31",
+      "reliability": "primary",
+      "notes": "YMCA Quebec official announcement that all day camps discontinued as of fall 2025. Overnight Kanawana summer camp continues."
+    },
+    {
+      "source_id": "src_qahn_ymca_camp_saint_adolphe",
+      "type": "web",
+      "title": "The YMCA Camp of Saint-Adolphe d'Howard (QAHN)",
+      "date": "2026-03-17",
+      "date_precision": "exact",
+      "origin": "web",
+      "origin_url": "https://qahn.org/article/ymca-camp-saint-adolphe-dhoward",
+      "cache_path": null,
+      "char_count": 0,
+      "ingested_at": "2026-03-17T00:00:00Z",
+      "extracted": true,
+      "extraction_version": "v4.31",
+      "reliability": "secondary",
+      "notes": "QAHN article on Camp Jubilee/Otoreke history in Saint-Adolphe-d'Howard."
     }
   ],
   "source_count": 303

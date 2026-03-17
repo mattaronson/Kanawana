@@ -2,7 +2,7 @@
   "version": "v4.31",
   "kb_version": "4.31",
   "migrated_from": "3.3",
-  "fact_count": 1112,
+  "fact_count": 1116,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -19022,6 +19022,75 @@
         "Camp Kanawana"
       ],
       "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "v4.31",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1103",
+      "claim": "In fall 2025, the YMCAs of Quebec discontinued all day camp programs including Kanawana Adventure (launched 2024) and all holiday/spring break camps. The overnight residential summer camp at Kanawana continues to operate. The decision was described as part of a \"simplification process\" to \"ensure the viability of the organization in the long-term.\"",
+      "sources": [
+        "src_ymca_quebec_daycamp_discontinuation_2025"
+      ],
+      "confidence": "stated",
+      "category": "institutional",
+      "entities": [
+        "Camp Kanawana",
+        "YMCAs of Quebec"
+      ],
+      "date_ref": "2025",
+      "conflicts_with": [],
+      "added_version": "v4.31",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1104",
+      "claim": "Camp Jubilee/Otoreke was located in Saint-Adolphe-d'Howard, not in Saint-Sauveur. It was situated on several islands in the middle of a lake with a landing area on the shore. It was renamed from Camp Jubilee to Camp Otoreke in 1909. It closed in 1982 after nearly a century of continuous operation.",
+      "sources": [
+        "src_qahn_ymca_camp_saint_adolphe"
+      ],
+      "confidence": "stated",
+      "category": "places",
+      "entities": [
+        "Camp Otoreke",
+        "Camp Jubilee",
+        "Saint-Adolphe-d'Howard"
+      ],
+      "date_ref": "1894-1982",
+      "conflicts_with": [],
+      "added_version": "v4.31",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1105",
+      "claim": "The Concordia Archives P0145/12A holds a \"Journal of the first Montreal YMCA venture to explore the country round about St. Agathe with the view of securing a lake on which to establish a Summer Camp and journal of Summer Camp 1895\" \u2014 the earliest documented YMCA camping journal.",
+      "sources": [
+        "src_concordia_p0145_12a_finding_aid"
+      ],
+      "confidence": "stated",
+      "category": "archives",
+      "entities": [
+        "YMCA Montreal",
+        "Concordia Archives",
+        "St. Agathe"
+      ],
+      "date_ref": "1893-1895",
+      "conflicts_with": [],
+      "added_version": "v4.31",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1106",
+      "claim": "The Voyageurs Ultimate program at Camp Kanawana runs from approximately July 20 to August 14 (26 days), for participants aged 15-17.",
+      "sources": [
+        "src_ymca_kanawana_leadership_2026"
+      ],
+      "confidence": "stated",
+      "category": "programs",
+      "entities": [
+        "Camp Kanawana"
+      ],
+      "date_ref": "2026",
       "conflicts_with": [],
       "added_version": "v4.31",
       "added_by": "ralph_loop"
