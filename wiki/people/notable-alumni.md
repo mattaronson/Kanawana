@@ -1,7 +1,7 @@
 # Notable Alumni of Camp Kanawana
 
-*Status: E1-reviewed | Sources: 24*
-*Last Updated: 2026-03-17*
+*Status: E1-reviewed | Sources: 30*
+*Last Updated: 2026-03-24*
 
 ## Overview
 
@@ -31,7 +31,9 @@ John Edward Cleghorn (born July 7, 1941, Montreal) served as Chairman and CEO of
 
 Samuel Karl Lazarus was born March 3, 1978 in Montreal.^8 He was a camper and staff member at Camp Kanawana for much of his childhood and youth.^9 After camp, he volunteered at an orphanage in Kumasi, Ghana, where he died of cerebral malaria on January 14, 2004, at age 25.^8
 
-His obituary in the Montreal Gazette (January 24, 2004) directed donations to the Samuel Lazarus Fund at Kamp Kanawana.^8 His mother, Janet Torge — a Montreal broadcaster, radio talk-show host, traffic reporter, Gazette columnist, and author of *Dear Sam*; also co-founder of Canada's first Rape Relief Centre (1973) — and his brother Riel Lazarus (archivist and researcher for film and TV) established the Sam Lazarus Fund to send children who otherwise could not afford camp to Kanawana.^9 The annual "Five-Hole Sam Street Hockey Jamboree" (Sam Jam) fundraiser has raised approximately $230,000 and sent over 50 children to camp.^1 The fund continues through the Fondation des YMCA du Québec.
+His obituary in the Montreal Gazette (January 24, 2004) directed donations to the Samuel Lazarus Fund at Kamp Kanawana.^8 His mother, Janet Torge — a Montreal-based writer and television documentary producer whose varied career has included radio talk-show host, traffic reporter, Montreal Gazette columnist, prenatal teacher and doula, construction site manager, and co-founder of Canada's first Rape Relief Centre (1973)^25 — and his brother Riel Lazarus (archivist and researcher for film and TV) established the Sam Lazarus Fund to send children who otherwise could not afford camp to Kanawana.^9 Torge published *Dear Sam: Grieving the Death of My Son* (iUniverse, ISBN 9780595423835), a memoir of letters written to cope with her loss, and later *I Can't Believe I'm Old: Essays on Aging* (Linda Leith Publishing).^26 ^27 She went on to found Radical Resthomes, a co-living housing model for seniors, and serves on the CIHR Institute of Aging Older Adult Advisory Council.^25 Her documentary producer credits include *Harry Gulkin: Red Dawn on Main Street* (2004) and *The Gig Is Up* (2021).^28
+
+The annual "Five-Hole Sam Street Hockey Jamboree" (Sam Jam), organized by Riel Lazarus, had raised over $260,000 and sent more than 70 children to camp as of 2015.^29 Sam was a legendary street hockey goalie whose tendency to let goals through "the five-hole" inspired the event's name.^29 The fund continues through the Fondation des YMCA du Québec, accepting donations via Zeffy; over 17 years, dozens of families have received camperships.^30
 
 ### Jeniene Phillips Birks (Pip Award 2014)
 
@@ -120,3 +122,9 @@ Attended Camp Kanawana for six summers before becoming a camp counsellor and can
 22. CBC News, "Montreal's Dawson College wins international sustainability award" (2022). URL: https://www.cbc.ca/news/canada/montreal/montreal-dawson-college-wins-international-sustainability-award-1.6518120
 23. RMC Saint-Jean, Marina Sharpe faculty page. URL: https://www.cmrsj-rmcsj.forces.gc.ca/cp-fs/sharpem-eng.asp
 24. Wikipedia, "James Orbinski"; Concordia University, Notable Concordians: James Orbinski. URL: https://www.concordia.ca/content/shared/en/profiles/offices/advancement/notable-concordians/james-orbinski.html
+25. Radical Resthomes, "Who's Behind This?" (Janet Torge biography). URL: https://www.radicalresthomes.com/whos-behind-this/
+26. Amazon, *DEAR SAM: Grieving the Death of My Son* by Janet Torge (iUniverse, ISBN: 9780595423835).
+27. Bookshop.org, *I Can't Believe I'm Old: Essays on Aging* by Janet Torge (Linda Leith Publishing).
+28. IMDB, Janet Torge. URL: https://www.imdb.com/name/nm2365789/
+29. CBC News, "Annual street hockey jamboree honours Montreal West native" (August 21, 2015). URL: https://www.cbc.ca/news/canada/montreal/andie-s-all-stars-riel-lazarus-1.3211759
+30. Zeffy, The Sam Lazarus Fund. URL: https://www.zeffy.com/fundraising/8bc0b92d-1ae8-4791-8eeb-d890713c2360

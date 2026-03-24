@@ -1,7 +1,7 @@
 # Environmental Education and Stewardship at Kanawana
 
-*Status: draft | Sources: 16*
-*Last Updated: 2026-03-17 (RALPH R2 — expanded to draft with historical antecedents, alumni impact, research context)*
+*Status: E1-reviewed | Sources: 17*
+*Last Updated: 2026-03-24 (E1 REVIEW — all claims verified, cross-links checked, encyclopedic quality confirmed)*
 
 ## Overview
 
@@ -13,7 +13,7 @@ The camp's environmental identity rests on three pillars: infrastructure investm
 
 ### Composting System
 
-The camp replaced its entire septic system with 16 commercial Clivus Multrum composting units accommodating 22,500 uses each per year, plus 32 dry toilets that save 576,000 gallons of water annually.^2 Two central buildings contain all bathroom and shower facilities. The system was installed specifically to protect Lake Kanawana from septic pollution.^2 This infrastructure investment represents one of the largest composting toilet installations at a Canadian camp facility.
+The camp replaced its entire septic system with 16 commercial Clivus Multrum composting units accommodating 22,500 uses each per year, plus 32 dry toilets that save 576,000 gallons of water annually.^2 Two central buildings contain all bathroom and shower facilities. The system was installed specifically to protect Lake Kanawana from septic pollution.^2
 
 ### Lake Monitoring
 
@@ -53,7 +53,7 @@ In 2018, Desjardins donated $1 million to the YMCA for renovations at Camp Kanaw
 
 ## Historical Antecedents
 
-The camp's engagement with nature is not entirely modern. The 1918 summer season offered instruction in "nature study" alongside first aid, basket-making, and camp sanitation.^13 By 1922, the camp held a chartered tribe in the Woodcraft League of America, whose nature study and outdoor skills programming embedded ecological awareness in the badge system. The broader Woodcraft and nature study traditions of the early camping movement — documented at Kanawana through its connection to Taylor Statten, Hedley Dimock, and the Ontario/Quebec camping associations — provided the philosophical groundwork for contemporary environmental education.
+The camp's engagement with nature is not entirely modern. The 1918 summer season offered instruction in "nature study" alongside first aid, basket-making, and camp sanitation.^13 By 1922, the camp held a chartered tribe in the Woodcraft League of America, whose nature study and outdoor skills programming embedded ecological awareness in the badge system.^17 The broader Woodcraft and nature study traditions of the early camping movement provided the philosophical groundwork for contemporary environmental education.
 
 A dedicated Nature Awareness program was created by Chris Adams (from Vanier) in 1980, alongside new orienteering methods with a nature trail.^12 A Nature Nook / Nature Interpretation Area remains on the current site.^4 The 1980 initiatives mark the earliest identifiable moment when environmental education became a distinct programming stream rather than a diffuse element of outdoor camping.
 
@@ -107,3 +107,4 @@ The Canadian Summer Camp Research Project (CSCRP, 2006–2011), conducted by the
 14. Edgar Smee biographical sources: Hamilton Spectator obituary; Conserver Society records; Ed Smee Environmental Fund.
 15. Dave Twynam research publications: ResearchGate; Johnston, Twynam & Farrell (2006) sustainability research; Heart of Gold Project (2004).
 16. Canadian Summer Camp Research Project (CSCRP, 2006–2011), CCA/University of Waterloo; Wall, Sharon, *The Nurture of Nature* (UBC Press, 2009).
+17. 1922 Kanawana brochure (Concordia Archives P0145): Woodcraft League of America chartered tribe, badge system.

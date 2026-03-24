@@ -3536,7 +3536,17 @@
         "f_1128",
         "f_1129",
         "f_1130",
-        "f_1131"
+        "f_1131",
+        "f_1133",
+        "f_1134",
+        "f_1135",
+        "f_1136",
+        "f_1137",
+        "f_1138",
+        "f_1139",
+        "f_1140",
+        "f_1141",
+        "f_1142"
       ],
       "sources_cited": [
         "src_ymca_quebec_pip_skinner",
@@ -3560,7 +3570,13 @@
         "src_canadian_encyclopedia_cleghorn",
         "src_cbc_dawson_green_gown",
         "src_concordia_orbinski",
-        "src_rmc_sharpe_faculty"
+        "src_rmc_sharpe_faculty",
+        "src_radicalresthomes_about",
+        "src_cbc_sam_jam_2015",
+        "src_amazon_dear_sam",
+        "src_imdb_torge",
+        "src_bookshop_torge_old",
+        "src_zeffy_lazarus_fund"
       ],
       "open_questions": 6,
       "cross_links": [
@@ -3574,13 +3590,13 @@
         "traditions-and-culture"
       ],
       "file_id": null,
-      "word_count": 2200
+      "word_count": 2500
     },
     {
       "article_id": "environmental-history",
       "title": "Environmental Education and Stewardship at Kanawana",
       "wiki_folder": "context",
-      "status": "draft",
+      "status": "E1-reviewed",
       "status_history": [
         {
           "status": "stub",
@@ -3593,6 +3609,18 @@
           "at": "2026-03-17T04:00:00Z",
           "by": "auto",
           "task": "WRITE"
+        },
+        {
+          "status": "R3-verified",
+          "at": "2026-03-24T03:15:00Z",
+          "by": "auto",
+          "task": "VERIFY"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-03-24T03:20:00Z",
+          "by": "auto",
+          "task": "REVIEW"
         }
       ],
       "ralph_loops_completed": 2,

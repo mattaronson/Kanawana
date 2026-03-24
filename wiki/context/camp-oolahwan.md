@@ -1,7 +1,7 @@
 # Camp Oolahwan
 
-*Status: stub | Sources: src_ywca_oolahwan_page, src_ywca_oolahwan_centennial, src_qctonline_oolahwan, src_westislandblog_oolahwan, src_ourontario_mary_edgar, src_mcmorris_thesis*
-*Last Updated: 2026-03-15 (RALPH R1 — web sources extracted, stub created)*
+*Status: stub | Sources: 8*
+*Last Updated: 2026-03-24 (R2 — programming details, Summer Space Day Camp successor, centennial committee)*
 
 ## Overview
 
@@ -15,7 +15,11 @@ Ferna G. Halliday, a Queen's University graduate, served as Secretary of YWCA Mo
 
 ## Location and Operations
 
-The camp was located on Lake Walfred in Sainte-Marguerite-du-Lac-Masson, Quebec.^1 ^2 It was an English-speaking camp exclusively for young girls.^2 No detailed records of its programming, capacity, or facilities have been located in available sources.
+The camp was located on Lake Walfred in Sainte-Marguerite-du-Lac-Masson, Quebec.^1 ^2 It was an English-speaking camp exclusively for young girls.^2
+
+## Programming
+
+Camp Oolahwan's programming focused on developing healthy minds and bodies through activities designed to encourage self-esteem, build lasting relationships, and promote leadership.^1 Activities included sports, learning new skills, nature appreciation, and campfire singing.^1 The camp's philosophy, rooted in the YWCA's belief since 1915 that young women must acquire self-confidence and the ability to "laugh and have fun," emphasized healthy life habits and empowerment.^1
 
 ## Connection to Kanawana
 
@@ -23,12 +27,14 @@ Camp Oolahwan's connection to Camp Kanawana runs through the YMCA/YWCA Montreal 
 
 ## Centennial and Closure
 
-Camp Oolahwan closed in 2005 after 88 years of operation.^1 In 2017, a centennial reunion was held at Camp Ouareau in Notre-Dame-de-la-Merci.^7 The exact dates of the reunion are disputed: the YWCA gives September 8–10, while the West Island Blog gives August 25–27 (see conflicts.json, c_002).^7 ^8
+Camp Oolahwan closed in 2005 after 88 years of operation.^1 Upon closure, the YWCA launched "Summer Space Day Camp," an urban day camp sharing Oolahwan's objectives of empowering young women through self-confidence, healthy habits, and leadership, but in a city environment rather than a residential camp setting.^1
+
+In 2017, a centennial reunion was held at Camp Ouareau in Notre-Dame-de-la-Merci, organized by a committee of former campers and counselors.^7 The exact dates of the reunion are disputed: the YWCA gives September 8–10, while the West Island Blog gives August 25–27 (see conflicts.json, c_002).^7 ^8
 
 ## Open Questions
 
-1. [Critical] What was Camp Oolahwan's programming like? No detailed records of activities, sections, or daily schedule have been found.
-2. [Critical] Why did the camp close in 2005? No source explains the closure.
+1. ~~[Critical] What was Camp Oolahwan's programming like?~~ [Partially resolved] General programming philosophy documented (self-esteem, sports, nature, leadership). Detailed activity schedule and section structure remain unknown.
+2. [Critical] Why did the camp close in 2005? No source explains the closure. The YWCA replaced it with Summer Space Day Camp in an urban setting.
 3. [Important] What was the camp's capacity and age range?
 4. [Important] Are there additional inter-camp visits between Oolahwan and Kanawana beyond 1946?
 5. [Important] The OurOntario/Sundridge-Strong collection holds a 109-page paper on Mary Edgar's contribution to camping — this is unextracted and may contain significant Oolahwan detail.^4

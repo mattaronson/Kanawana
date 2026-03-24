@@ -1298,3 +1298,54 @@ HYPOTHESIZE:
 [2026-03-17T04:40:00Z] WRITE pip-alumni-award.md: Updated Patten (YMCA Executive Director), Cleghorn (chaired Montreal YMCA), Phillips Birks (CBC journalist). Added notable-alumni cross-link.
 [2026-03-17T04:45:00Z] 5 new priorities added (p_116-p_120). Environmental history stub, Janet Torge research, Flickr catalog, CRE water data.
 [2026-03-17T05:00:00Z] WRITE environmental-history.md: stub created (1100 words, 12 sources, 5 open questions). Covers composting infrastructure, lake monitoring, C-Vert program, CRLT pipeline, McConnell/Desjardins funding, nature-deficit framing. Total articles: 43.
+[2026-03-24T12:00:00Z] RESEARCH Camp Perrot expanded search (12 queries, 4 surfaces). No new facts found. All online results converge on Concordia Archives P0145/12G. Existing stub and KB facts (f_0882, f_0894, f_0908, f_0909, f_0937, f_0968) already capture all available online information. Topic EXHAUSTED for web research. Resolution requires physical archive access.
+[2026-03-24T12:00:00Z] RESEARCH: Derek Walsh & Ross Bannerman targeted search. 15 queries across Google Web. Derek Walsh: CCA Award of Excellence 1983 (ACQ) confirmed; co-recipients identified (Rick Ryan ACQ, Wayne Perkins ACA, Abe Goss). No new biographical data. Ross Bannerman: Concordia P0145/11C and 12B01 references confirmed; no web biographical data. 1 new fact (f_1132). KB v4.33: 1142 facts, 317 sources. Both individuals exhausted for web research — require physical archive access.
+[2026-03-24T02:53:49] RESEARCH: Richard 'Itche' Kerr deep biographical search. 15 queries across Google Web. No new sources found. User-provided info confirms existing KB facts. Topic EXHAUSTED for online research.
+
+[2026-03-24T03:00:00Z] RALPH R1 | notable-alumni | Janet Torge deep research (p_118)
+  - RETRIEVE: Web searches for Janet Torge biography, publications, Radical Resthomes, IMDB, Sam Jam fundraiser
+  - ANALYZE: Rich biographical data found. Full career: broadcaster, documentary producer, Gazette columnist, prenatal teacher, construction manager, 1973 Rape Relief Centre co-founder, Radical Resthomes founder. Two books: Dear Sam (iUniverse 2007), I Can't Believe I'm Old (Linda Leith). IMDB: The Great War (2007), Harry Gulkin (2004), The Gig Is Up (2021). CIHR advisory council member. Sam Jam: $260k raised, 70+ kids sent to camp (2015).
+  - LOOP: CONCLUDE — web sources saturated for Torge biography
+  - PROCESS: Added f_1133-f_1142 (10 new facts), 6 new sources. Notable-alumni article enriched with full Torge/Lazarus section.
+  - KB version v4.33 → v4.34. Total: 1156 facts, 330 sources.
+  - Priority p_118 completed.
+
+[2026-03-24T03:15:00Z] VERIFY | environmental-history.md | R3 verification pass
+  - Removed unsourced superlative ("one of the largest composting toilet installations")
+  - Added inline citations for Woodcraft League 1922 claim (source 17)
+  - All 16 sections verified against cited sources
+  - Article advanced draft → R3-verified
+
+[2026-03-24T03:20:00Z] REVIEW | environmental-history.md | E1 review pass
+  - Cross-links verified (5 related articles, all exist)
+  - Encyclopedic quality confirmed, neutral tone throughout
+  - Open questions specific and actionable
+  - Article advanced R3-verified → E1-reviewed
+
+[2026-03-24T03:25:00Z] RESEARCH | camp-oolahwan.md | R2 expansion
+  - New findings: Summer Space Day Camp replaced Oolahwan in 2005 (urban day camp), programming focused on self-esteem/leadership/nature/sports, centennial organized by former campers/counselors committee
+  - Added f_1143-f_1145 (3 facts), 1 source (src_cja_annual_2008)
+  - Camp Oolahwan article updated with Programming section and closure details
+  - Open Question 1 partially resolved (general philosophy documented, detailed schedule unknown)
+
+[2026-03-24T03:30:00Z] RESEARCH | Camp Perrot | Web search exhausted
+  - No new online information beyond existing archival references
+  - Camp Perrot remains archival-only (Concordia P145/12G)
+  - Stub unchanged
+
+[2026-03-24T03:30:00Z] QUEUE | Added 11 new priorities (p_121-p_131)
+  - p_121: A. Ross Seaman biography
+  - p_122: Dave Twynam directorship dates
+  - p_123: Ralph Dawson role/biography
+  - p_124: R.H. Hanagan biography
+  - p_125: Sean Day tenure details
+  - p_126: Cushing family genealogy
+  - p_127: J.W. McConnell and Kanawana
+  - p_128: Myths and legends non-Chopsy
+  - p_129: YMCA Quebec rename date
+  - p_130: Camp Weredale shared operations
+  - p_131: RSVL water quality data
+
+[2026-03-24T03:35:00Z] RESEARCH | RSVL Lac Kanawana | Additional data
+  - Added f_1146: RSVL number 573, volume 1,273,000 m³, mean depth 5.4m, altitude 318.4m, watershed 5.17 km², drainage ratio 22.00, ABRINORD watershed org. 2013 results sheet exists.
+  - Specific trophic status data blocked behind interactive web portal

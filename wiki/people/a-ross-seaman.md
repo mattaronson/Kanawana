@@ -5,7 +5,7 @@
 
 ## Overview
 
-A. Ross Seaman (died 1987) was director of Kamp Kanawana from 1959 to 1967, a pivotal period that included the 1959 section renaming and the launch of the La Vérendrye canoe trip program.^1 A Sir George Williams University graduate, Seaman built a career spanning the YMCA, academia, and community recreation. Four organizations — Dawson College, Concordia University, Kamp Kanawana, and the YMCA — honour his memory through the A. Ross Seaman Memorial Leadership Development Fund.^2
+A. Ross Seaman (died 1987) was director of Kamp Kanawana from 1959 to 1967, a pivotal period that included the 1959 section renaming and the launch of the La Vérendrye canoe trip program.^1 A Sir George Williams University graduate, Seaman built a career spanning the YMCA, academia, and community recreation. Five organizations — Dawson College, Concordia University, Kamp Kanawana, the YMCA, and Vankleek Hill Collegiate — honour his memory through scholarships.^2 ^3
 
 ## Early Career and YMCA
 
