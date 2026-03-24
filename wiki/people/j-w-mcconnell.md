@@ -5,7 +5,7 @@
 
 ## Overview
 
-John Wilson McConnell (1877–1963) was a Montreal financier, publisher, and philanthropist who became one of Canada's wealthiest men. He had a deep connection to the YMCA of Montreal, beginning when he moved into a YMCA room in 1901, and he led a major YMCA fundraising campaign in 1909 that raised over $300,000.^1 ^2 The McConnell Foundation, established in 1937, describes its relationship with Camp Kanawana as "long" and has funded major renovations at the camp.^2
+John Wilson McConnell (1877–1963) was a Montreal financier, publisher, and philanthropist who became one of Canada's wealthiest men. He had a deep connection to the YMCA of Montreal, beginning when he moved into a YMCA room in 1901, and he led a major YMCA fundraising campaign in 1909 that raised $320,000 in a single 12-day campaign.^1 ^2 The McConnell Foundation, established in 1937, describes its relationship with Camp Kanawana as "long" and has funded major renovations at the camp.^2
 
 McConnell is reported to have donated Lake Desjardins to Camp Kanawana, though the date and circumstances of this donation are not documented beyond oral history.^3 It has also been claimed that Lake Wilson, the camp's second lake, is named for his eldest son, Wilson Griffith McConnell (1908–1966), but no documentary evidence has been found to verify this claim.
 
@@ -15,7 +15,7 @@ McConnell was born in 1877 in Muskoka, Ontario, to John McConnell and Margaret A
 
 ## YMCA Connection
 
-McConnell's involvement with the YMCA went well beyond personal use. In 1909, he led a fundraising campaign for the Montreal YMCA that raised over $300,000, a substantial sum at the time.^2 This campaign coincided roughly with the YMCA's acquisition of the Saint-Sauveur property from the Page family circa 1910, though no source explicitly links the two events.
+McConnell's involvement with the YMCA went well beyond personal use. In 1909, he led a fundraising campaign for the Montreal YMCA that raised $320,000 in a 12-day campaign, an extraordinary sum at the time.^2 This campaign coincided roughly with the YMCA's acquisition of the Saint-Sauveur property from the Page family circa 1910, though no source explicitly links the two events.
 
 He later established the McConnell Foundation in 1937, which became one of Canada's major philanthropic organizations.^2 The foundation has maintained its connection to Camp Kanawana through funding and renovations.^2
 

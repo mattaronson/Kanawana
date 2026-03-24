@@ -5377,6 +5377,22 @@
       "extraction_version": "v4.34",
       "reliability": "secondary",
       "notes": "Westmount Magazine tribute to Stuart McLean. Commenter identifies self as Kanawana camp director 1974-75 (name needs verification from page)."
+    },
+    {
+      "source_id": "src_fong_mcconnell",
+      "type": "web",
+      "title": "Fong, William. J.W. McConnell: Financier, Philanthropist, Patriot. McGill-Queen's UP, 2008.",
+      "date": "2008",
+      "date_precision": "exact",
+      "origin": "web",
+      "origin_url": "https://archive.org/details/jwmcconnellfinan0000fong/page/573",
+      "cache_path": null,
+      "char_count": 0,
+      "ingested_at": "2026-03-24T04:30:00Z",
+      "extracted": false,
+      "extraction_version": null,
+      "reliability": "secondary",
+      "notes": "573+ page biography. Chapter 6: YMCA fundraising 1909-1919. Blocked by proxy on Internet Archive. Would need physical access to check for Camp Kanawana/land donation references."
     }
   ],
   "source_count": 323

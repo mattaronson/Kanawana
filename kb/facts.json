@@ -2,7 +2,7 @@
   "version": "v4.35",
   "kb_version": "4.35",
   "migrated_from": "3.3",
-  "fact_count": 1146,
+  "fact_count": 1149,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -20096,6 +20096,131 @@
       "date_ref": null,
       "conflicts_with": [],
       "added_version": "v4.35",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1160",
+      "claim": "Lemuel Cushing Jr. (1842-1881), who was YMCA Montreal president 1869-70, published 'The Genealogy of the Cushing Family' in Montreal in 1877. He died at age 39 in Montreal and could NOT have been the 'Lemuel Cushing' who brought boys to Lake Saint-Joseph in 1892. The 1892 Cushing must be a third-generation Lemuel or a nephew. A supplement to the genealogy covering 1905-1969 was compiled by James Stevenson Cushing (born 1878).",
+      "sources": [
+        "src_wikipedia_cushing",
+        "src_dcb_cushing"
+      ],
+      "confidence": "inferred",
+      "category": "people",
+      "entities": [
+        "Lemuel Cushing Jr.",
+        "James Stevenson Cushing"
+      ],
+      "date_ref": "1892",
+      "conflicts_with": [],
+      "added_version": "v4.34",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1161",
+      "claim": "The Cushing genealogy (1905 supplement by James Stevenson Cushing, published in Montreal by Perrault Printing Co.) is digitized on Internet Archive but blocked by proxy. A physical or VPN-accessible copy would identify the 1892 'Lemuel Cushing' who brought boys to Lake Saint-Joseph. The rootsweb.com Cushing genealogy index and seekingmyroots.com files may also contain this information.",
+      "sources": [],
+      "confidence": "inferred",
+      "category": "research_leads",
+      "entities": [
+        "Lemuel Cushing",
+        "James Stevenson Cushing"
+      ],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "v4.34",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1162",
+      "claim": "H.B. Cushing assisted in the founding of the Children's Memorial Hospital (now Montreal Children's Hospital) in 1902-1904, alongside A.D. Blackader and with encouragement from Sir William Osler. This externally confirms that Harold Beveridge Cushing (b. 1873, M.D. McGill 1898) was the same H.B. Cushing described in the 1905 Cushing genealogy as 'Physician to Children's Hospital.' The Children's Memorial Hospital opened January 30, 1904 on Guy Street in Montreal.",
+      "sources": [
+        "src_hektoen_childrens_hospital",
+        "src_wikipedia_childrens_hospital"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "Harold Beveridge Cushing",
+        "Children's Memorial Hospital",
+        "Montreal Children's Hospital",
+        "A.D. Blackader",
+        "William Osler"
+      ],
+      "date_ref": "1904",
+      "conflicts_with": [],
+      "added_version": "v4.35",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1163",
+      "claim": "Robertson Macaulay Cushing, son of Charles Cushing and Lily Margaret Macaulay Cushing of Montreal, was killed in WWI and is buried at Nine Elms British Cemetery near Ypres, Belgium. He appears on the McGill Honour Roll 1914-1918 and Page 585 of the First World War Book of Remembrance. His wife was Mabel Louise Dawson Cushing of Montreal. This confirms Charles Cushing (Lemuel Sr.'s son, the notary) had children active in Montreal into the WWI era.",
+      "sources": [
+        "src_vac_cushing"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "Robertson Macaulay Cushing",
+        "Charles Cushing",
+        "Cushing family"
+      ],
+      "date_ref": "1914-1918",
+      "conflicts_with": [],
+      "added_version": "v4.35",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1164",
+      "claim": "Lydia Maria Cushing, one of Lemuel Sr.'s daughters, married into the Beveridge family (married name: Beveridge). This is the likely origin of the middle name 'Beveridge' given to Harold Beveridge Cushing (b. 1873), son of Lemuel Jr. \u2014 named after his aunt's married family.",
+      "sources": [
+        "src_geni_cushing"
+      ],
+      "confidence": "inferred",
+      "category": "people",
+      "entities": [
+        "Lydia Maria Cushing",
+        "Harold Beveridge Cushing",
+        "Cushing family"
+      ],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "v4.35",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1162",
+      "claim": "J.W. McConnell (1877-1963) led a massive YMCA fundraising campaign in 1909, raising $320,000 in a single 12-day campaign. Upon first arriving in Montreal he had roomed at the YMCA, which 'nurtured a lifelong commitment to that organization.' William Fong's biography 'J.W. McConnell: Financier, Philanthropist, Patriot' (McGill-Queen's UP, 2008) dedicates Chapter 6 to 'Fundraising for the YMCA in Peace and for Canada in the Great War, 1909-19.'",
+      "sources": [
+        "src_fong_mcconnell"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "J.W. McConnell",
+        "YMCA Montreal"
+      ],
+      "date_ref": "1909",
+      "conflicts_with": [],
+      "added_version": "v4.34",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1163",
+      "claim": "The McConnell Foundation describes its relationship with Camp Kanawana as 'long' and states it is 'proud to have contributed to Camp Kanawana over the years.' Recent funding contributes to the YMCA 'Springboard for Life' campaign supporting major renovations at Camp Kanawana, honouring the camp's 'long relationship with the Foundation.'",
+      "sources": [
+        "src_fong_mcconnell"
+      ],
+      "confidence": "stated",
+      "category": "administration",
+      "entities": [
+        "McConnell Foundation",
+        "Camp Kanawana",
+        "YMCA"
+      ],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "v4.34",
       "added_by": "ralph_loop"
     }
   ]
