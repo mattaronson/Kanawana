@@ -1349,3 +1349,38 @@ HYPOTHESIZE:
 [2026-03-24T03:35:00Z] RESEARCH | RSVL Lac Kanawana | Additional data
   - Added f_1146: RSVL number 573, volume 1,273,000 m³, mean depth 5.4m, altitude 318.4m, watershed 5.17 km², drainage ratio 22.00, ABRINORD watershed org. 2013 results sheet exists.
   - Specific trophic status data blocked behind interactive web portal
+
+[2026-03-24T04:00:00Z] RESEARCH | a-ross-seaman | Dawson scholarship page data
+  - Seaman biography confirmed: died 1987, connection to Vankleek Hill Collegiate, 5 memorial scholarship organizations
+  - Added f_1147-f_1150 (4 facts), 2 sources (src_dawson_seaman_scholarship, src_concordia_seaman_fund)
+  - A. Ross Seaman article updated: corrected "four" to "five" memorial organizations
+
+[2026-03-24T04:00:00Z] RESEARCH | directors-index | Staff team page findings
+  - Added f_1152-f_1154 (3 facts): 80+ hours training, staff career ladder, director of expeditions 2007-2010
+  - Source: src_ymca_kanawana_team_2025
+
+[2026-03-24T04:15:00Z] RESEARCH | camp-weredale | Full independent history confirmed
+  - Camp Weredale is NOT a YMCA camp — Weredale Foundation (Boys' Home of Montreal, 1870)
+  - Added f_1155-f_1157 (3 facts): founding details, current operations (90th anniversary 2024), LAC fonds
+  - Existing article already correctly states this — no corrections needed
+
+[2026-03-24T04:15:00Z] RESEARCH | stuart-mclean | Additional biographical data
+  - Added f_1158-f_1159 (2 facts): 1974-75 director confirmation, five summers 1969-1975 timeline
+  - McLean started at Kanawana 1969, was at Dawson College student services simultaneously
+  - Article already captures this information — no updates needed
+
+[2026-03-24T04:15:00Z] KB updated v4.34. 13 new facts (f_1147-f_1159), 6 new sources. Total: 1169 facts, 336 sources.
+
+=== 2026-03-24T03:09:51Z | RALPH R2 | j-w-mcconnell | Phase 2 research ===
+Task: Research J.W. McConnell and Camp Kanawana connection (8 search queries)
+Searches executed: 25+ across Google, Google Books, Internet Archive, Concordia archives, McGill archives, McConnell Foundation, Wikipedia, FamilySearch, Find A Grave
+New facts added: f_1155-f_1158 (4 facts)
+New sources identified: src_concordia_wgm_collection (Wilson G. McConnell jazz collection at Concordia), src_mcgill_mg4240_finding_aid (McConnell fonds)
+Key findings:
+  - Fong biography: Title is 'Financier, Philanthropist, Patriot' (NOT 'Two Worlds of Business'). Ch.6 covers YMCA (pp.123+). Cannot confirm Kanawana mention without full text access.
+  - Lake Wilson naming: STILL UNVERIFIED. No new evidence found. McConnell mother maiden name was Wilson. Son Wilson born 1908.
+  - McConnell YMCA donations: 1909 campaign (00K), McConnell Foundation 00K (2023-2027). No land donation documented online.
+  - Lake Desjardins donation: Oral history only (src_oral_aronson). No documentary evidence found.
+  - Wilson G. McConnell: Jazz collector, daughter Jill, collection at Concordia.
+  - McMorris thesis (2023): Available at Concordia Spectrum but full text behind access wall. Thesis covers 1894-1967, 3 thematic chapters.
+Research status: SATURATED for online sources. Physical archives needed for advancement.

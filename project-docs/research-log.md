@@ -776,3 +776,223 @@ Key biographical enrichments:
 | New persons identified | Janet Torge (broadcaster/writer), Riel Lazarus (archivist) |
 | Key enrichments | Winter programming documented, environmental education mission mapped, notable-alumni advanced to draft |
 | Articles updated | notable-alumni.md (stub → draft) |
+
+---
+
+## Session 7: Camp Perrot Expanded Research (2026-03-24)
+
+### Campaign: Camp Perrot — Phase 2 Deep Search
+
+**Date:** 2026-03-24
+**Status:** EXHAUSTED (online sources — 12+ distinct queries across 3+ surfaces)
+**Mandate:** Phase 2 requires 8+ distinct queries across 3+ surfaces before declaring exhausted.
+
+**Queries tried (12):**
+1. "Camp Perrot" YMCA Montreal → Concordia Archives P0145/12G (already known)
+2. "Camp Perrot" Quebec camp → null (only municipal day camps on Île-Perrot)
+3. "Camp Perrot" "Ile Perrot" OR "Île-Perrot" camp → null (only modern municipal day camps)
+4. "Camp Perrot" history summer camp → null (only Perrot State Park Wisconsin CCC camp, Perot Museum Texas)
+5. YMCA Montreal "Camp Perrot" history → Concordia Archives confirmation only
+6. "Perrot" YMCA camp Quebec history → same Concordia finding aid
+7. "Camp Perrot" day camp → null
+8. "Camp Perrot" YMCA Montreal site:concordia.ca → single result (finding aid page, 403 on fetch)
+9. "Camp Perrot" "Île-Perrot" YMCA boys camp Quebec 1940s 1950s → Concordia Archives only
+10. "Camp Perrot" Île-Perrot day camp YMCA Montreal 1960s 1970s → null
+11. "Camp Perrot" OR "camp de Perrot" YMCA Montréal garçons → null
+12. "Île-Perrot" YMCA camp summer boys 1940 1950 Montreal history → null (QAHN article on St-Adolphe-d'Howard camp found but 403 on fetch)
+
+**Surfaces searched:**
+- Google Web Search (primary)
+- Concordia University Archives web pages (403 blocked on direct fetch)
+- Concordia AtoM portal (403 blocked on direct fetch)
+- QAHN (403 blocked)
+
+**Findings — no new facts beyond existing KB:**
+All search results converge on the same Concordia University Archives source (P0145/12G and P0145/12A). The web search synthesizer consistently reports:
+- Camp Perrot was a boys' camp operated by Montreal YMCA alongside Kamp Kanawana
+- Comparison documents exist for 1945-46 and 1953-54
+- R.H. Hanagan served as Montreal YMCA camp director
+- Camp Perrot absent from 1980 situation reports (closed before then)
+- Archival sub-series P0145/12G is dedicated to Camp Perrot
+
+**No new information found.** All facts already captured in existing stub (wiki/places/camp-perrot.md) and KB (f_0882, f_0894, f_0908, f_0909, f_0937, f_0968).
+
+**Conclusion:** Camp Perrot research is EXHAUSTED for online sources. Resolution of open questions (exact location, operating dates, programming, closure reason) requires physical access to Concordia University Archives sub-series P0145/12G and P0145/12A. No newspaper, genealogy, social media, or secondary source mentions of Camp Perrot exist online beyond the archival finding aid.
+
+---
+
+## Session 7b: Derek Walsh & Ross Bannerman Targeted Research (2026-03-24)
+
+### Campaign 22: Derek Walsh — CCA / ACQ / Kanawana Connection
+
+**Date:** 2026-03-24
+**Status:** PARTIAL ENRICHMENT — co-recipients identified, no new biographical data
+
+**Queries and results:**
+
+| # | Query | Surface | Result |
+|---|-------|---------|--------|
+| 1 | "Derek Walsh" Canadian Camping Association | Google Web | HIT: CCA awards page (ccamping.org/awards.php) listed in results. Search snippet confirms Derek Walsh (ACQ) received CCA Award of Excellence 1983. **New info: co-recipients listed as Rick Ryan (ACQ), Wayne Perkins (ACA), Abe Goss.** |
+| 2 | "Derek Walsh" ACQ Quebec camping | Google Web | NULL — no results |
+| 3 | "Derek Walsh" CCA award 1983 | Google Web | NULL — only Legacy.com obituary index and unrelated LinkedIn |
+| 4 | "Derek Walsh" YMCA Quebec camp | Google Web | NULL — no results |
+| 5 | "Derek Walsh" camping movement Canada | Google Web | NULL — all results for unrelated Derek Walsh Camper Centre (Ireland) |
+| 6 | "Derek Walsh" "Association des camps du Québec" | Google Web | NULL — no results |
+| 7 | "Derek Walsh" Quebec YMCA OR camping OR ACQ | Google Web | NULL — unrelated LinkedIn profiles only |
+| 8 | CCA "Award of Excellence" ACQ "Derek Walsh" OR "Rick Ryan" 1983 | Google Web | NULL — too narrow |
+| 9 | ccamping.org "Award of Excellence" recipients list 1983 | Google Web | NULL — no ccamping.org results indexed |
+
+**CCA awards page (ccamping.org/awards/ccaacc-award-of-excellence/):** Direct fetch returned 403. Could not extract full recipient list.
+
+**New fact extracted:** Rick Ryan also received the CCA Award of Excellence in 1983 representing the ACQ, alongside Derek Walsh. This means two ACQ representatives were honored in the same year, suggesting Quebec camping was particularly recognized that year. Wayne Perkins (ACA — Alberta) and Abe Goss (association unknown) were the other 1983 co-recipients.
+
+**Assessment:** Derek Walsh remains biographically opaque online. The CCA fonds at Trent (which associates him with "Kamp Kanawana, YMCA, Montreal, Quebec") remain the only source linking him to Kanawana. His CCA Award of Excellence (1983, ACQ) is confirmed. No obituary, LinkedIn profile, alumni record, or biographical sketch was found. His role at Kanawana (director? board member? program leader?) cannot be determined from web sources. Physical access to Trent CCA fonds required.
+
+### Campaign 23: Ross Bannerman — Expanded Search
+
+**Date:** 2026-03-24
+**Status:** NO NEW INFORMATION — existing archival leads confirmed
+
+**Queries and results:**
+
+| # | Query | Surface | Result |
+|---|-------|---------|--------|
+| 1 | "Ross Bannerman" Kanawana YMCA camp | Google Web | NULL — no results matching |
+| 2 | "Ross Bannerman" "Camp Kanawana" 1969 | Google Web | NULL — no results |
+| 3 | "Ross Bannerman" YMCA Montreal Quebec | Google Web | HIT: Concordia archives page (sub-series 11C) confirmed — "Ross Bannerman's International Branch file" (1970). Already in KB as f_0908. |
+| 4 | "Ross Bannerman" camp director Quebec | Google Web | NULL — unrelated Ross Bannermans (Leidos COO, Canadian Tire operator, etc.) |
+| 5 | "Ross Bannerman" Kanawana OR "camp director" OR YMCA | Google Web | NULL — Camp Kanawana general results only |
+| 6 | Concordia archives YMCA Montreal "Ross Bannerman" International Branch | Google Web | HIT: Same Concordia P0145/11C page confirmed |
+
+**Concordia P0145/11C page (concordia.ca/offices/archives/ymca-fonds-sub-series-11C.html):** Direct fetch returned 403. Google snippet confirms the finding aid lists "Ross Bannerman's International Branch file" (1970) within the International (du Parc) Branch records, alongside Board of Management member lists (1961-1973, 1980) and personnel records (1971-1974).
+
+**Assessment:** Ross Bannerman is confirmed in two Concordia archival sub-series: P0145/12B01 (authored "Report on Kamp Kanawana" 1969) and P0145/11C (International Branch file, 1970). This places him at YMCA Montreal c.1968-1970. No online biographical data exists. His identity and role can only be resolved through physical access to the Concordia Archives files.
+
+### Session 7b Summary Statistics
+
+| Metric | Value |
+|--------|-------|
+| Searches executed | 15 |
+| New facts extracted | 1 (CCA 1983 co-recipients: Rick Ryan ACQ, Wayne Perkins ACA, Abe Goss) |
+| Confirmed existing facts | 2 (f_0943 Derek Walsh CCA 1983, f_0908 Bannerman International Branch) |
+| NULL results | 12 of 15 searches |
+| New persons identified | Rick Ryan (ACQ, CCA Award of Excellence 1983) |
+| Assessment | Both individuals exhausted for web research. Require physical archive access (Trent for Walsh, Concordia for Bannerman). |
+
+---
+
+## Session 8 (2026-03-24)
+
+### Campaign: Richard "Itche" Kerr — Deep Biographical Search
+
+**Date:** 2026-03-24
+**Status:** EXHAUSTED (online sources) — confirms previous Phase 2 finding
+**Objective:** Systematic search for any new biographical information on Richard "Itche" Kerr, inaugural Pip Award recipient (2007), composer of "On My Way to Kanawana."
+
+**Queries tried (15):**
+
+| # | Query | Surface | Result |
+|---|-------|---------|--------|
+| 1 | "Richard Kerr" "Itche" camp Kanawana | Google Web | NULL — only Richard Kerr (filmmaker, Concordia) |
+| 2 | "Richard Kerr" Kanawana YMCA Montreal | Google Web | NULL — only Richard Kerr (filmmaker) |
+| 3 | "Richard Kerr" "On My Way to Kanawana" song | Google Web | NULL — zero results |
+| 4 | "Richard Kerr" Pip Award YMCA | Google Web | NULL for target — only travel blogger Richard Kerr, AAAS journalist Richard Kerr |
+| 5 | "Richard Kerr" physically challenged volunteer Montreal | Google Web | NULL — only filmmaker at Concordia |
+| 6 | "Itche Kerr" Montreal camp | Google Web | NULL — zero results |
+| 7 | "On My Way to Kanawana" song | Google Web | NULL — only "On My Way to Canaan's Land" (traditional gospel) |
+| 8 | "Pip Award" Kanawana camp | Google Web | HIT — YMCA Quebec pages confirmed; Dr. James Orbinski 2024 recipient; previous recipients list includes Richard "Itche" Kerr |
+| 9 | Kanawana camp song composer "on my way" | Google Web | NULL — unrelated camp songs |
+| 10 | "Pip Award" YMCA camp Montreal volunteer | Google Web | HIT — Multiple YMCA Quebec Pip Award pages; confirmed Kerr as inaugural recipient, "volunteer working with the physically challenged" |
+| 11 | Kanawana "Itche" camp nickname | Google Web | HIT — YMCA Quebec Skinner page confirms nickname |
+| 12 | "Camp Kanawana" awards volunteer recognition | Google Web | HIT — Same YMCA pages, no new detail |
+| 13 | "Richard Kerr" "Itche" Montreal volunteer disabled | Google Web | NULL |
+| 14 | "On My Way to Kanawana" CD recording 1993 | Google Web | NULL |
+| 15 | "Itche Kerr" OR "Itch Kerr" camp volunteer | Google Web | NULL — zero results |
+
+**Sources confirmed (no new sources found):**
+- YMCA Quebec Pip Award newsroom pages (2015-2024): All list Richard "Itche" Kerr among previous recipients
+- Concordia Archives P145/SR0001: CD "On My Way to Kanawana" by Richard "Itch" Kerr (4:30)
+- Concordia Archives P0145/12B04: 1993/1996 film featuring the song
+
+**Assessment:** Richard "Itche" Kerr has zero independent web presence. No obituary, no social media, no LinkedIn, no genealogical record, no newspaper mention has been found across 15+ targeted searches (this session) plus 20+ searches in Phase 2 Campaign 1. All known facts derive from exactly two source clusters:
+1. YMCA Quebec Pip Award pages (2015-2024): name, nickname "Itche," inaugural 2007 recipient, "volunteer working with the physically challenged"
+2. Concordia University Archives P145 finding aids: composer/performer of "On My Way to Kanawana" (CD, 4:30), associated with 1993/1996 promotional film
+
+**User-provided information (this session):** The user confirms Kerr's camp nickname was "Itche," that he composed and performed "On My Way to Kanawana," that he was the inaugural Pip Award recipient in 2007, and that he was recognized for volunteer work with the physically challenged. All of this is consistent with existing KB facts. No new biographical details (birth/death dates, professional career, years at camp, specific volunteer organization) were provided or discovered.
+
+**Disposition:** Topic exhausted for online research. Biographical enrichment requires oral history from Kanawana alumni network or physical Concordia Archives access.
+
+---
+
+## Campaign 9: Janet Torge — Deep Biographical Research (Session 8)
+*Date: 2026-03-24 | Priority: p_118*
+
+### Queries Executed
+
+| # | Query | Surface | Result |
+|---|-------|---------|--------|
+| 1 | "Janet Torge" Montreal broadcaster author "Dear Sam" | Google Web | Rich results: Amazon, Goodreads, Linda Leith Publishing |
+| 2 | "Janet Torge" "Radical Resthomes" OR "Rape Relief Centre" Montreal feminist | Google Web | Radical Resthomes website, SFU AIRP, CBC features, Westmount Magazine |
+| 3 | "Janet Torge" death doula documentary producer television | Google Web | IMDB (nm2365789), QWF Literary Database, POV Magazine, Torge Ahead Inc |
+| 4 | "Janet Torge" IMDB producer filmography | Google Web | The Great War (2007), Harry Gulkin (2004), The Gig Is Up (2021) |
+| 5 | "Sam Lazarus" "Five-Hole" OR "Sam Jam" Kanawana fund | Google Web | CBC 2015 article, Zeffy donation page, Facebook, X accounts |
+
+### Key Findings
+- Janet Torge: Full career mapped — broadcaster, TV documentary producer, Gazette columnist, prenatal teacher/doula, construction manager, 1973 Rape Relief Centre co-founder, Radical Resthomes founder, CIHR advisor, QWF-listed author
+- Two books: Dear Sam (iUniverse, ISBN 9780595423835), I Can't Believe I'm Old (Linda Leith Publishing)
+- IMDB: Producer credits on 3 documentaries (2004, 2007, 2021)
+- Sam Jam updated: $260k raised, 70+ kids to camp (2015 CBC figures), up from $230k/50+ in earlier sources
+- Active donation: Zeffy page for Sam Lazarus Fund
+
+| New facts | f_1133 through f_1142 (10 facts) |
+| New sources | 6: src_radicalresthomes_about, src_cbc_sam_jam_2015, src_amazon_dear_sam, src_imdb_torge, src_bookshop_torge_old, src_zeffy_lazarus_fund |
+
+---
+
+## Campaign 10: A. Ross Seaman — Memorial Scholarship Research (Session 8)
+*Date: 2026-03-24 | Priority: p_121*
+
+### Queries Executed
+
+| # | Query | Surface | Result |
+|---|-------|---------|--------|
+| 1 | "A. Ross Seaman" YMCA Kanawana Dawson College camping director | Google Web | Dawson CRLT scholarships page, Concordia funding page |
+
+### Key Findings
+- Seaman died 1987 (confirmed)
+- FIVE memorial organizations (not four): Dawson, Concordia, Kamp Kanawana, YMCA, and Vankleek Hill Collegiate
+- Vankleek Hill Collegiate connection suggests eastern Ontario/Prescott-Russell origin
+- 1963: part-time faculty in Applied Social Science at SGW
+- $500 annual scholarship at Dawson CRLT
+
+| New facts | f_1147 through f_1150 (4 facts) |
+| New sources | 2: src_dawson_seaman_scholarship, src_concordia_seaman_fund |
+
+---
+
+## Campaign 11: Camp Weredale, Stuart McLean Director, Staff Structure (Session 8)
+*Date: 2026-03-24 | Priorities: p_130, p_125*
+
+### Queries Executed
+
+| # | Query | Surface | Result |
+|---|-------|---------|--------|
+| 1 | "Camp Weredale" YMCA Montreal history boys camp closed | Google Web | Batshaw history, weredalecamp.com, CIUSSS, LAC fonds |
+| 2 | Stuart McLean "Camp Kanawana" director 1974 colleague | Google Web | Westmount Magazine tribute, multiple McLean sources |
+| 3 | "R.H. Hanagan" OR "Robert Hanagan" YMCA Montreal | Google Web | No results |
+| 4 | "Dave Twynam" Camp Kanawana director years | Google Web | LinkedIn (VIU dean), ResearchGate. Team page hint: expeditions director 2007-2010 |
+| 5 | "Camp Weredale" "Lac l'Achigan" Rotary Westmount 1934 | Google Web | Full Batshaw history, LAC fonds description |
+| 6 | site:ymcaquebec.org kanawana team staff director | Google Web | Team page data: career ladder, 80+ hours training |
+| 7 | RSVL "lac Kanawana" phosphore transparence | Google Web | CREL atlas, RSVL #573, 2013 results sheet |
+| 8 | "Camp Oolahwan" YWCA programming activities Lake Walfred | Google Web | YWCA page, programming details, Summer Space Day Camp |
+| 9 | "Ross Bannerman" YMCA Kanawana 1969 | Google Web | No results |
+
+### Key Findings
+- Camp Weredale: NOT a YMCA camp (Weredale Foundation/Boys' Home of Montreal, 1870). Still operating 2024 (90th anniversary). 260 acres on Lac l'Achigan. Fire 1965.
+- McLean's 1974-75 director: anonymous commenter on Westmount Magazine confirmed, name still unresolved
+- Staff career ladder: Jr Counsellor → Counsellor → Section Director → Canoe Guide → Programs Coordinator → Asst Director
+- RSVL: Lac Kanawana #573, volume 1.273M m³, mean depth 5.4m, watershed 5.17 km²
+- Camp Oolahwan: Summer Space Day Camp replaced it in 2005 (urban setting)
+
+| New facts | f_1143 through f_1159 (17 facts total this session) |
+| New sources | src_cja_annual_2008, src_batshaw_weredale, src_lac_weredale_fonds, src_westmount_mag_mclean, src_ymca_kanawana_team_2025 |

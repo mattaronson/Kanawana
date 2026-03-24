@@ -1,8 +1,8 @@
 {
-  "version": "v4.34",
-  "kb_version": "4.33",
+  "version": "v4.35",
+  "kb_version": "4.35",
   "migrated_from": "3.3",
-  "fact_count": 1142,
+  "fact_count": 1146,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -19886,6 +19886,216 @@
       "date_ref": null,
       "conflicts_with": [],
       "added_version": "v4.34",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1152",
+      "claim": "Camp Kanawana staff receive over 80 hours of training. The camp is described as 'a founding member of the Association des camps du Qu\u00e9bec (ACQ)' and 'renowned for its high standards of supervision.'",
+      "sources": [
+        "src_ymca_kanawana_team_2025"
+      ],
+      "confidence": "stated",
+      "category": "administration",
+      "entities": [
+        "Camp Kanawana",
+        "ACQ"
+      ],
+      "date_ref": "2025",
+      "conflicts_with": [],
+      "added_version": "v4.34",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1153",
+      "claim": "A Camp Kanawana staff member (unnamed) began in the camp industry in 1996, started integrating the summer camp management team in 2002, and served as director of expeditions at Kanawana from 2007 to 2010.",
+      "sources": [
+        "src_ymca_kanawana_team_2025"
+      ],
+      "confidence": "stated",
+      "category": "directors",
+      "entities": [
+        "Camp Kanawana"
+      ],
+      "date_ref": "2007-2010",
+      "conflicts_with": [],
+      "added_version": "v4.34",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1154",
+      "claim": "Camp Kanawana's staff career progression ladder includes: Junior Counsellor \u2192 Counsellor \u2192 Section Director \u2192 Canoe Guide \u2192 Camping Programs Coordinator \u2192 Summer Camp Assistant Director. A program director role (all Kanawana) was filled in 2024.",
+      "sources": [
+        "src_ymca_kanawana_team_2025"
+      ],
+      "confidence": "stated",
+      "category": "administration",
+      "entities": [
+        "Camp Kanawana"
+      ],
+      "date_ref": "2025",
+      "conflicts_with": [],
+      "added_version": "v4.34",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1155",
+      "claim": "Camp Weredale was NOT a YMCA camp. It was established in 1934 by the Rotary Club of Westmount, which bought 260 acres with a mile of shoreline on Lac l'Achigan (55 miles north of Montreal) and gave the property to Weredale House (formerly Boys' Home of Montreal). The camp served orphaned and at-risk boys from Weredale House.",
+      "sources": [
+        "src_batshaw_weredale"
+      ],
+      "confidence": "stated",
+      "category": "inter-camp",
+      "entities": [
+        "Camp Weredale",
+        "Rotary Club of Westmount",
+        "Weredale House",
+        "Lac l'Achigan"
+      ],
+      "date_ref": "1934",
+      "conflicts_with": [],
+      "added_version": "v4.34",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1156",
+      "claim": "Camp Weredale remains operational today, owned and operated by the Weredale Foundation. Located on Lac l'Achigan in the Laurentians, it welcomes 4 cohorts of 85 campers (340 total) from late June to mid-August, serving boys and girls aged 6-17 receiving youth protected social services or facing family challenges. The camp celebrated its 90th anniversary in 2024.",
+      "sources": [
+        "src_batshaw_weredale"
+      ],
+      "confidence": "stated",
+      "category": "inter-camp",
+      "entities": [
+        "Camp Weredale",
+        "Weredale Foundation",
+        "Lac l'Achigan"
+      ],
+      "date_ref": "2024",
+      "conflicts_with": [],
+      "added_version": "v4.34",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1157",
+      "claim": "Weredale House (Boys' Home of Montreal) was founded in 1870 by Charles Alexander, a Montreal confectioner from Dundee, Scotland. In the 1920s the Rotary Club of Montreal raised $289,000 to build a new Boys' Home. Library and Archives Canada hold the Weredale House fonds: bylaws/annual reports (1887-1971), minutes (1868-1971), registers (1881-1975), Camp Lewis/Weredale records (1919-1966). Camp Weredale suffered a fire and was reconstructed in 1965.",
+      "sources": [
+        "src_batshaw_weredale",
+        "src_lac_weredale_fonds"
+      ],
+      "confidence": "stated",
+      "category": "inter-camp",
+      "entities": [
+        "Weredale House",
+        "Charles Alexander",
+        "Camp Weredale"
+      ],
+      "date_ref": "1870",
+      "conflicts_with": [],
+      "added_version": "v4.34",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1158",
+      "claim": "A commenter on the Westmount Magazine 2017 Stuart McLean tribute identifies themselves as the Camp Kanawana director who worked with McLean as assistant director in the summers of 1974 and 1975. The commenter also sublet McLean's Dorchester apartment and looked after his piano when McLean moved to Toronto. The commenter's name is not extracted from the search snippet.",
+      "sources": [
+        "src_westmount_mag_mclean"
+      ],
+      "confidence": "stated",
+      "category": "directors",
+      "entities": [
+        "Stuart McLean",
+        "Camp Kanawana"
+      ],
+      "date_ref": "1974-1975",
+      "conflicts_with": [],
+      "added_version": "v4.34",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1159",
+      "claim": "Stuart McLean's connection to Camp YMCA Kanawana dates back to the summer of 1969. He spent five summers at camp in the late 60s and early 70s, beginning as a counsellor in the senior boys' section and working up to assistant director. He passed up a chance to study journalism at Carleton University to return to camp as assistant director. He also served as a student services coordinator at Dawson College in Westmount.",
+      "sources": [
+        "src_westmount_mag_mclean"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "Stuart McLean",
+        "Camp Kanawana",
+        "Dawson College"
+      ],
+      "date_ref": "1969-1975",
+      "conflicts_with": [],
+      "added_version": "v4.34",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1155",
+      "claim": "Wilson Griffith McConnell (1908-1966) was a jazz collector who amassed a collection of music recordings and recording equipment. His collection was donated to Concordia University Libraries' Special Collections by his widow Marjorie Wallace McConnell in 1994 and 2000.",
+      "sources": [
+        "src_concordia_wgm_collection"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "Wilson Griffith McConnell",
+        "J.W. McConnell",
+        "Concordia University"
+      ],
+      "date_ref": "1966",
+      "conflicts_with": [],
+      "added_version": "v4.35",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1156",
+      "claim": "The Fong biography of J.W. McConnell (2008) contains Chapter Six titled 'Keep the Home Fires Burning: Fundraising for the YMCA in Peace and for Canada in the Great War, 1909-19' starting at page 123. The book is 733 pages. The full text is behind paywalls (JSTOR, De Gruyter) but available for borrowing on Internet Archive.",
+      "sources": [
+        "src_fong_mcconnell_2008"
+      ],
+      "confidence": "stated",
+      "category": "sources",
+      "entities": [
+        "J.W. McConnell",
+        "William Fong",
+        "YMCA"
+      ],
+      "date_ref": "2008",
+      "conflicts_with": [],
+      "added_version": "v4.35",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1157",
+      "claim": "The McGill University Archives hold the J.W. McConnell Fonds (MG4240) with series including: 1) Correspondence, 2) Scrapbooks/Journals/Address books, 3) Personal and Family records, 4) Philanthropy, 5) High society, 6) Business Commitments. Series 4 includes subseries on Hospitals/Health Care, Higher Education, and War Efforts. Some files (containers 11-13, 15-17) are restricted.",
+      "sources": [
+        "src_mcgill_mg4240_finding_aid"
+      ],
+      "confidence": "stated",
+      "category": "sources",
+      "entities": [
+        "J.W. McConnell",
+        "McGill University"
+      ],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "v4.35",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1158",
+      "claim": "Wilson Griffith McConnell and his wife Marjorie Wallace McConnell had one daughter, Jill.",
+      "sources": [
+        "src_concordia_wgm_collection"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "Wilson Griffith McConnell",
+        "J.W. McConnell"
+      ],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "v4.35",
       "added_by": "ralph_loop"
     }
   ]
