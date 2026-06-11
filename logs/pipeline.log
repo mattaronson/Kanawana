@@ -1456,3 +1456,8 @@ Research status: SATURATED for online sources. Physical archives needed for adva
   - 1935 haunted house context refined from local cache (f_1185): eating-out day cookout site
   - No non-Chopsy legends findable online; OQ2/OQ3 routed to oral history
   - KB v4.36: 1201 facts. Queue: 0 pending — p_072 oral history instrument now actionable
+
+[2026-06-11T20:00:00Z] WRITE | oral-history-instrument | p_072 completed
+  - Instrument drafted: 7 sections, 36 questions (Chopsy, songs, buildings, Lake Desjardins, haunted house, directors, traditions)
+  - p_134 created (blocked): conduct session + process responses
+  - Queue: 0 pending, all remaining items blocked on operator/archives. PAUSING FOR HUMAN.

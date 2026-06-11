@@ -917,12 +917,13 @@
       "type": "WRITE",
       "description": "Draft oral history interview instrument — structured questions for operator covering Chopsy legend, camp songs/cheers, Grand Portage/Longhouse, director-era knowledge, building names",
       "article_id": null,
-      "blocking": true,
-      "blocking_reason": "Blocked on Phase 2 research completion for p_045, p_048, p_051. Will draft when those are ready to action.",
+      "blocking": false,
       "assigned_weight": "P2",
       "created_at": "2026-03-15T00:00:00Z",
-      "status": "blocked",
-      "notes": " 2026-06-11: Interview instrument must also cover Lake Desjardins identity/location/donation date (conflict c_006)."
+      "status": "completed",
+      "notes": " 2026-06-11: Interview instrument must also cover Lake Desjardins identity/location/donation date (conflict c_006).",
+      "completed_at": "2026-06-11T20:00:00Z",
+      "result": "Oral history interview instrument drafted at project-docs/oral-history-instrument.md. 7 sections, 36 questions: Chopsy (p_045), songs/cheers/Grace (p_048), Grand Portage/Longhouse/building names (p_051), Lake Desjardins (c_006/p_133 — NEW), haunted house & ghost stories (p_128 follow-up), directors/eras, traditions/ceremonies. Each section includes research context so operator can react rather than recall cold. Presented to operator in single session request per protocol."
     },
     {
       "priority_id": "p_073",
@@ -1709,6 +1710,18 @@
       "blocking_reason": "Requires oral history from operator (src_oral_aronson) or paid Registre foncier access.",
       "assigned_weight": "P2",
       "created_at": "2026-06-11T12:00:00Z",
+      "status": "blocked"
+    },
+    {
+      "priority_id": "p_134",
+      "rank": 134,
+      "type": "RESEARCH",
+      "description": "Conduct oral history session: operator answers project-docs/oral-history-instrument.md (any subset). Then extract KB facts, resolve c_006, action p_045/p_048/p_051/p_133, update 6 articles.",
+      "article_id": null,
+      "blocking": true,
+      "blocking_reason": "Awaiting operator responses to the oral history instrument.",
+      "assigned_weight": "P1",
+      "created_at": "2026-06-11T20:00:00Z",
       "status": "blocked"
     }
   ]
