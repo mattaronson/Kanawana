@@ -1,8 +1,8 @@
 {
-  "version": "v4.40",
-  "kb_version": 4.40,
+  "version": "v4.41",
+  "kb_version": 4.41,
   "migrated_from": "3.3",
-  "fact_count": 1210,
+  "fact_count": 1211,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -20751,6 +20751,25 @@
       "date_ref": null,
       "conflicts_with": [],
       "added_version": "v4.40",
+      "added_by": "oral_history"
+    },
+    {
+      "fact_id": "f_1195",
+      "claim": "The dining hall Grace at Camp Kanawana was not a single fixed prayer but rotated among several sung graces. Two identified graces are: (1) 'Johnny Appleseed' (the folk grace 'Oh, the Lord is good to me, and so I thank the Lord...'), and (2) the lyrics of 'Joy to the World' by Three Dog Night ('Jeremiah was a bullfrog...') adapted as a grace. Multiple graces were used rather than the same one at every meal.",
+      "sources": [
+        "src_oral_aronson"
+      ],
+      "confidence": "user_knowledge",
+      "category": "traditions",
+      "entities": [
+        "Camp Kanawana",
+        "dining hall",
+        "Johnny Appleseed",
+        "Joy to the World"
+      ],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "v4.41",
       "added_by": "oral_history"
     }
   ]
