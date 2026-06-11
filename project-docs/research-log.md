@@ -1058,3 +1058,7 @@ All search results converge on the same Concordia University Archives source (P0
 ## Campaign: p_130 — Weredale two-site plan (2026-06-11)
 
 **Queries (3):** Youth Horizons/Batshaw + Camp Weredale 1977-80; Camp Weredale + Kanawana two-site; batshawcentreshistory directors/counsellors. Fetch of batshawcentreshistory.ca 403. **Yield:** f_1184 (inferred) — two-site planning window 1977-1980 coincided with Weredale House closure/Youth Horizons merger (1977). Reason for abandonment NOT online. Flag: snippet says Youth Horizons est. 1973 (vs 1977, f_0806) — unverified paraphrase, logged in article OQ2a. SATURATED; archival resolution (Concordia 12A 1977-83 planning docs).
+
+## Campaign: p_128 — Non-Chopsy myths and legends (2026-06-11)
+
+**Queries (2, both NULL; ~80 cumulative):** Kanawana ghost/campfire/reddit/blogspot; Saint-Sauveur/Piedmont maison hantée/légende (FR). **Local re-mine of cached 1935 history:** haunted house = final-week 'eating-out day' cookout destination, same day as dam-opening (f_1185); no other legend content in document. EXHAUSTED online. All legend OQs routed to oral history instrument (p_072).

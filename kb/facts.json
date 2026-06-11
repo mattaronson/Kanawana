@@ -2,7 +2,7 @@
   "version": "v4.36",
   "kb_version": 4.36,
   "migrated_from": "3.3",
-  "fact_count": 1200,
+  "fact_count": 1201,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -20570,6 +20570,25 @@
         "YMCA Montreal"
       ],
       "date_ref": "1977-1980",
+      "conflicts_with": [],
+      "added_version": "v4.36",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1185",
+      "claim": "Per the 1935 camp history, the final week of camp began with an 'eating-out day, when every camper went over to the haunted house and cooked his own supper.' The same day, the dam which had kept the water in Lakes Kanawana and Wilson 'at a desirable height' was let out before the assembled campers. The 'haunted house' was thus an established camp-wide cookout destination within walking distance of camp, not merely a story setting.",
+      "sources": [
+        "src_history_1935"
+      ],
+      "confidence": "stated",
+      "category": "traditions",
+      "entities": [
+        "Camp Kanawana",
+        "haunted house",
+        "Lake Wilson",
+        "Lake Kanawana"
+      ],
+      "date_ref": "1935",
       "conflicts_with": [],
       "added_version": "v4.36",
       "added_by": "ralph_loop"

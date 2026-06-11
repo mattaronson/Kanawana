@@ -1644,7 +1644,9 @@
       "blocking": false,
       "assigned_weight": "P4",
       "created_at": "2026-03-24T03:30:00Z",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-11T19:30:00Z",
+      "result": "RALPH completed (2 new queries, both NULL; 80+ cumulative on this topic). Local 1935 history cache re-mined: haunted house was the destination of a camp-wide 'eating-out day' cookout in the final week, same day as the dam-opening ceremony (f_1185) — a routine tradition site, not just a story setting. No other legend material in the 1935 text. No online trace of any non-Chopsy Kanawana ghost story or Saint-Sauveur-area legend. EXHAUSTED online. All remaining legend questions route to the oral history instrument (p_072)."
     },
     {
       "priority_id": "p_129",
