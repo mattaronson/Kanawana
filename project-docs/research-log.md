@@ -1026,3 +1026,7 @@ All search results converge on the same Concordia University Archives source (P0
 **Queries (6):** Twynam PhD dissertation/thesis; Twynam Kanawana/YMCA 1978-1981; site:concordia.ca Twynam; G. David Twynam UBC/doctorate; Twynam Lakehead appointment 1990-92; Twynam Montreal/Kanawana alumni. Cache grep: no Twynam in local cache.
 
 **Yield:** f_1169 (disputed) — two independent search excerpts of the 12B01 finding aid date 'Camp director Dave Twynam' correspondence to 1976, vs 1979 in f_0752. Conflict c_007 created; affects dave-twynam + directors-index (both updated; gap analysis revised). PhD institution and Kanawana programs: NULL online. **SATURATED**; resolution paths: 12B01 finding aid PDF (p_057), ProQuest, Ka-News issues at Concordia.
+
+## Campaign: p_123 — Ralph Dawson biography, second pass (2026-06-11)
+
+**Queries (4 new; 12+ cumulative):** Find A Grave/Mount Royal Cemetery/obituary 1940-60; CEF attestation + McGill yearbook; LAC collection search direct fetch (403); Dawson + Kanawana/Camp Jubilee memoir/blogspot. **ALL NULL.** LAC CEF database is the remaining unchecked surface (proxy-blocked; operator can search bac-lac.gc.ca personnel records for 'Ralph Dawson', Montreal). EXHAUSTED online. Resolution: Concordia 12A (1933 manuscript), paid genealogy.
