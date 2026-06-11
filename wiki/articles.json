@@ -3392,7 +3392,10 @@
         "f_0861",
         "f_0909",
         "f_0910",
-        "f_0923"
+        "f_0923",
+        "f_1181",
+        "f_1182",
+        "f_1183"
       ],
       "sources_cited": [
         "src_oral_aronson",
@@ -3657,7 +3660,9 @@
         "f_1122",
         "f_1042",
         "f_1035",
-        "f_0114"
+        "f_0114",
+        "f_1181",
+        "f_1182"
       ],
       "sources_cited": [
         "src_ymca_kanawana_job_listing",
@@ -3675,7 +3680,8 @@
         "src_mcmorris_thesis",
         "src_edgar_smee_bio",
         "src_twynam_research",
-        "src_cscrp_wall_nurture"
+        "src_cscrp_wall_nurture",
+        "src_mediaterre_kanawana_2009"
       ],
       "open_questions": 5,
       "cross_links": [

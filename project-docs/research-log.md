@@ -1046,3 +1046,7 @@ All search results converge on the same Concordia University Archives source (P0
 **Queries (3):** renaming 2008-2010 FR/EN; Camping Branch governance 1970s; YMCA du Grand Montréal janvier 2009 corroboration. Direct fetch of observatoire-humanitaire.org 403.
 
 **RESOLVED:** January 2009 renaming (YMCA du Grand Montréal + 8 branches → 'Ys du Québec') — f_1178; bonus f_1179 (2008 Ahuntsic-Cartierville decision, Kanawana 2007-09 eco-renovations). Governance bodies 1910-1979 sequenced from finding aid incl. newly-recorded Camping Branch Board of Management 1969-70 (f_1180). OQ2 narrowed to 1980s-90s gap. Article updated.
+
+## Campaign: p_125 — Sean Day tenure (2026-06-11)
+
+**Queries (3):** Kanawana 2009 revitalisation Mediaterre; Sean Day anti-bullying/programs; (Mediaterre direct fetch 403). **Yield:** virage vert began 2006; Feb 2009 accommodation phase; composting toilets, heat exchangers, artificial wetland (f_1181-f_1182); FB anti-bullying video (f_1183, new source src_facebook_kanawana). sean-day.md + environmental-history.md enriched; env OQ1 narrowed. Remaining gaps (pre-director years, program innovations) → oral history.

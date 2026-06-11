@@ -11,9 +11,13 @@ The camp's environmental identity rests on three pillars: infrastructure investm
 
 ## Environmental Infrastructure
 
+### The Green Shift (2006–2009)
+
+The camp's "virage vert" (green shift) began in 2006 with the goal of reducing Kanawana's ecological footprint and repositioning it as an outdoor education centre; every building renovated or constructed from 2006 onward was energy-efficient and incorporated educational elements.^17 In February 2009, Les Y du Québec announced a further revitalization phase with new accommodation facilities; environmental features documented at the time included green sanitary installations, heat exchangers, composting toilets, and an artificial wetland system (marais artificiel) for wastewater treatment.^17
+
 ### Composting System
 
-The camp replaced its entire septic system with 16 commercial Clivus Multrum composting units accommodating 22,500 uses each per year, plus 32 dry toilets that save 576,000 gallons of water annually.^2 Two central buildings contain all bathroom and shower facilities. The system was installed specifically to protect Lake Kanawana from septic pollution.^2
+The camp replaced its entire septic system with 16 commercial Clivus Multrum composting units accommodating 22,500 uses each per year, plus 32 dry toilets that save 576,000 gallons of water annually.^2 Two central buildings contain all bathroom and shower facilities. The system was installed specifically to protect Lake Kanawana from septic pollution.^2 The installation falls within the documented 2006–2009 green shift window.^17
 
 ### Lake Monitoring
 
@@ -75,7 +79,7 @@ The Canadian Summer Camp Research Project (CSCRP, 2006–2011), conducted by the
 
 ## Open Questions
 
-1. [Critical] When was the Clivus Multrum composting system installed? What did it replace?
+1. [Important] When exactly within the 2006–2009 green shift was the Clivus Multrum system installed? It replaced the camp's septic system; composting toilets were documented on site by February 2009.^17 Remaining: the precise installation year.
 2. [Important] What specific RSVL water quality results exist for Lac Kanawana? Is the lake classified as oligotrophic, mesotrophic, or eutrophic?
 3. [Important] Has the camp's environmental programming been influenced by specific pedagogical frameworks (e.g., place-based education, bioregionalism)?
 4. [Nice-to-have] Is the 1980 "Chris Adams" who ran the Nature Awareness program the same person as the 2017 Pip Award recipient Chris Adam?
@@ -107,4 +111,5 @@ The Canadian Summer Camp Research Project (CSCRP, 2006–2011), conducted by the
 14. Edgar Smee biographical sources: Hamilton Spectator obituary; Conserver Society records; Ed Smee Environmental Fund.
 15. Dave Twynam research publications: ResearchGate; Johnston, Twynam & Farrell (2006) sustainability research; Heart of Gold Project (2004).
 16. Canadian Summer Camp Research Project (CSCRP, 2006–2011), CCA/University of Waterloo; Wall, Sharon, *The Nurture of Nature* (UBC Press, 2009).
+17. Médiaterre, "Le camp Y Kanawana poursuit sa revitalisation et son virage vert," March 3, 2009. URL: https://www.mediaterre.org/canada-quebec/actu,20090303110253.html (retrieved via search excerpts, June 2026; direct fetch blocked).
 17. 1922 Kanawana brochure (Concordia Archives P0145): Woodcraft League of America chartered tribe, badge system.

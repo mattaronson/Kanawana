@@ -1,7 +1,7 @@
 # Sean Day
 
 *Status: E1-reviewed | Sources: 12*
-*Last Updated: 2026-03-16*
+*Last Updated: 2026-06-11 (p_125: green shift 2006 origin and 2009 revitalization scope documented)*
 
 ## Overview
 
@@ -25,9 +25,9 @@ Day spoke about the fund: "That was Stuart's experience, and he's so kindly aske
 
 In 2016, YMCA Quebec provided over $150,000 in financial support for children to attend Camp Kanawana, with a goal of at least one in five campers coming from financially disadvantaged backgrounds.^3
 
-### Revitalization (2009)
+### Green Shift and Revitalization (2006–2009)
 
-A 2009 Mediaterre article references Camp Y Kanawana pursuing its revitalization under Day's leadership, though the specific scope and outcomes of this effort are not documented in publicly available sources.^8
+The camp's "virage vert" (green shift) began in 2006, early in Day's tenure, with the goal of reducing Kanawana's ecological footprint and repositioning it as an outdoor education centre focused on environmental education; every building renovated or constructed from 2006 onward was energy-efficient and incorporated educational elements.^8 In February 2009, Les Y du Québec announced a new phase of the revitalization plan involving construction of new accommodation facilities. Environmental features documented at the time included green sanitary installations, heat exchangers, composting toilets, and an artificial wetland system (marais artificiel) for treating wastewater.^8 These works connect to the broader 2007–2009 renovation program and the Clivus Multrum composting installations documented in the camp's environmental history.
 
 ### Anti-Bullying Initiative
 
@@ -53,8 +53,8 @@ Day became Director of Fund Development at **Tyndale St-Georges Community Centre
 
 ## Open Questions
 
-1. [Important] What specific programs or innovations did Day introduce during his 19-year tenure beyond the COVID pivot and anti-bullying initiative?
-2. [Important] What were the outcomes of the 2009 revitalization effort?
+1. [Important] What specific programs or innovations did Day introduce during his 19-year tenure beyond the green shift, COVID pivot, and anti-bullying initiative?
+2. ~~Largely resolved (2026-06-11)~~ The 2009 revitalization was a phase of the 2006-onward green shift: new accommodation buildings, composting toilets, heat exchangers, and an artificial wastewater wetland.^8 Remaining: completion dates and costs of each building.
 3. [Nice-to-have] What were Day's camper and counsellor years before becoming director?
 4. [Nice-to-have] How did the YMCA's day camp pivot during COVID-19 affect long-term programming?
 

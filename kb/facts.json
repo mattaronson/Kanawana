@@ -2,7 +2,7 @@
   "version": "v4.36",
   "kb_version": 4.36,
   "migrated_from": "3.3",
-  "fact_count": 1196,
+  "fact_count": 1199,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -20497,6 +20497,58 @@
         "Camping and Outdoor Education Branch"
       ],
       "date_ref": "1969-1970",
+      "conflicts_with": [],
+      "added_version": "v4.36",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1181",
+      "claim": "Camp Y Kanawana's 'virage vert' (green shift) began in 2006. All buildings renovated or constructed at the camp since 2006 were energy-efficient and incorporated educational elements, with the goal of reducing the camp's ecological footprint and making it an outdoor education centre focused on environmental education.",
+      "sources": [
+        "src_mediaterre_kanawana_2009"
+      ],
+      "confidence": "stated",
+      "category": "facilities",
+      "entities": [
+        "Camp Kanawana",
+        "YMCAs of Quebec"
+      ],
+      "date_ref": "2006",
+      "conflicts_with": [],
+      "added_version": "v4.36",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1182",
+      "claim": "In February 2009, Les Y du Québec announced a new phase of the Camp Y Kanawana revitalization plan involving construction of new accommodation facilities. Environmental features documented in the March 3, 2009 Mediaterre article include green sanitary installations, thermal (heat) exchangers, composting toilets, and an artificial wetland system (marais artificiel) for treating wastewater.",
+      "sources": [
+        "src_mediaterre_kanawana_2009"
+      ],
+      "confidence": "stated",
+      "category": "facilities",
+      "entities": [
+        "Camp Kanawana",
+        "YMCAs of Quebec",
+        "Sean Day"
+      ],
+      "date_ref": "2009-02",
+      "conflicts_with": [],
+      "added_version": "v4.36",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1183",
+      "claim": "Camp YMCA Kanawana's Facebook page hosted a video titled 'Sean Day against Bullying — Message from our Director Sean Day!', documenting Day's public anti-bullying advocacy as camp director.",
+      "sources": [
+        "src_facebook_kanawana"
+      ],
+      "confidence": "stated",
+      "category": "directors",
+      "entities": [
+        "Sean Day",
+        "Camp Kanawana"
+      ],
+      "date_ref": null,
       "conflicts_with": [],
       "added_version": "v4.36",
       "added_by": "ralph_loop"
