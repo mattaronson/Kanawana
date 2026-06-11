@@ -1,8 +1,8 @@
 {
-  "version": "v4.39",
-  "kb_version": 4.39,
+  "version": "v4.40",
+  "kb_version": 4.40,
   "migrated_from": "3.3",
-  "fact_count": 1209,
+  "fact_count": 1210,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -20733,6 +20733,24 @@
       "date_ref": null,
       "conflicts_with": [],
       "added_version": "v4.39",
+      "added_by": "oral_history"
+    },
+    {
+      "fact_id": "f_1194",
+      "claim": "At least one teller of the Chopsy legend (Matt Aronson, 2000s era) added to the opening formula: 'and I've looked it up in the Kanawana archives at Concordia, and it's all documented there... you can go check and see for yourself...' This embellishment references the real Concordia University Archives (YMCA of Montreal fonds P0145) to lend verisimilitude to the legend.",
+      "sources": [
+        "src_oral_aronson"
+      ],
+      "confidence": "user_knowledge",
+      "category": "legends",
+      "entities": [
+        "Chopsy",
+        "Camp Kanawana",
+        "Concordia University Archives"
+      ],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "v4.40",
       "added_by": "oral_history"
     }
   ]
