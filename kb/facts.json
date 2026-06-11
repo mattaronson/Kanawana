@@ -2,7 +2,7 @@
   "version": "v4.36",
   "kb_version": 4.36,
   "migrated_from": "3.3",
-  "fact_count": 1185,
+  "fact_count": 1186,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -20312,6 +20312,23 @@
       "conflicts_with": [
         "f_0752"
       ],
+      "added_version": "v4.36",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1170",
+      "claim": "Canada's fourth polio epidemic wave ran from 1946 through 1953 and became the country's most serious, ultimately involving all provinces and reaching into parts of the Arctic. During polio outbreaks, summer camps, playgrounds, pools, and youth centres were commonly closed.",
+      "sources": [
+        "src_connaught_polio_history"
+      ],
+      "confidence": "stated",
+      "category": "camping_movement",
+      "entities": [
+        "polio epidemic",
+        "Canada"
+      ],
+      "date_ref": "1946-1953",
+      "conflicts_with": [],
       "added_version": "v4.36",
       "added_by": "ralph_loop"
     }

@@ -5409,6 +5409,22 @@
       "extraction_version": "v4.36",
       "reliability": "primary",
       "notes": "Fund est. 1987 honouring Seaman's dedication to Concordia, Dawson College, Kamp Kanawana, and the YMCA; annual leadership and scholarship awards. States Seaman died in October 1987 (f_1168). Duplicate sources.json entries merged 2026-06-11 (were two records with same id/URL)."
+    },
+    {
+      "source_id": "src_connaught_polio_history",
+      "type": "web",
+      "title": "Connaught Fund (University of Toronto) — 'Polio Research, Conquering the Crippler' (Ch. 7); Canada's History — 'The Polio Epidemic in Canada'",
+      "date": "2020",
+      "date_precision": "approximate",
+      "origin": "web",
+      "origin_url": "https://connaught.research.utoronto.ca/about/history/article7",
+      "cache_path": null,
+      "char_count": 0,
+      "ingested_at": "2026-06-11T15:30:00Z",
+      "extracted": true,
+      "extraction_version": "v4.36",
+      "reliability": "secondary",
+      "notes": "Canadian polio epidemic history. 1946-1953 fourth wave was most serious. Context for Hanagan's 1946 outbreak management at Kanawana."
     }
   ],
   "source_count": 323

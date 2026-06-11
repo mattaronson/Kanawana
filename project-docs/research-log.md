@@ -1030,3 +1030,7 @@ All search results converge on the same Concordia University Archives source (P0
 ## Campaign: p_123 — Ralph Dawson biography, second pass (2026-06-11)
 
 **Queries (4 new; 12+ cumulative):** Find A Grave/Mount Royal Cemetery/obituary 1940-60; CEF attestation + McGill yearbook; LAC collection search direct fetch (403); Dawson + Kanawana/Camp Jubilee memoir/blogspot. **ALL NULL.** LAC CEF database is the remaining unchecked surface (proxy-blocked; operator can search bac-lac.gc.ca personnel records for 'Ralph Dawson', Montreal). EXHAUSTED online. Resolution: Concordia 12A (1933 manuscript), paid genealogy.
+
+## Campaign: p_124 — R.H. Hanagan (2026-06-11)
+
+**Queries (4):** Hanagan YMCA Montreal/Quebec 1940s; first-name expansions (Robert/Ralph/Richard) + obituary; Kanawana/YMCA polio 1946; Hanagan Montreal Gazette/Star 1942-48. **Full name: NULL.** Yield: f_1170 — 1946 was onset of Canada's most serious polio wave (1946-1953), contextualizing Hanagan's decision (on Dr. Cushing's advice) to keep camp open. Article updated. SATURATED; remaining surfaces: newspapers.com (paywall), BAnQ (403), Concordia 12A season reports (physical).
