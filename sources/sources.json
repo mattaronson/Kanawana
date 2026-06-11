@@ -5425,6 +5425,22 @@
       "extraction_version": "v4.36",
       "reliability": "secondary",
       "notes": "Canadian polio epidemic history. 1946-1953 fourth wave was most serious. Context for Hanagan's 1946 outbreak management at Kanawana."
+    },
+    {
+      "source_id": "src_observatoire_ymca",
+      "type": "web",
+      "title": "Observatoire de l'action humanitaire — Young Men's Christian Association: Historique (fiche ONG)",
+      "date": "2020",
+      "date_precision": "approximate",
+      "origin": "web",
+      "origin_url": "https://www.observatoire-humanitaire.org/fr/index.php?page=fiche-ong.php&part=historique&chapitre=244&id=114",
+      "cache_path": null,
+      "char_count": 0,
+      "ingested_at": "2026-06-11T17:00:00Z",
+      "extracted": true,
+      "extraction_version": "v4.36",
+      "reliability": "secondary",
+      "notes": "French NGO observatory fiche on YMCA history. Key data: January 2009 renaming of YMCA du Grand Montréal + 8 branches to 'Ys du Québec'; 2008 Ahuntsic-Cartierville centre decision; Kanawana renovations 2007-2009 framed as sustainable development. Direct fetch 403 — content via search snippets from two independent queries."
     }
   ],
   "source_count": 323

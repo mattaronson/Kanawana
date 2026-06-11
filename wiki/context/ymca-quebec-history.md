@@ -1,7 +1,7 @@
 # The YMCA of Montreal / YMCAs of Quebec
 
 *Status: E1-reviewed | Sources: 7*
-*Last Updated: 2026-03-17 (COVID closure, Kanawana Adventure day camp integrated)*
+*Last Updated: 2026-06-11 (p_129: January 2009 renaming date resolved; governance body sequence 1910–1979 added)*
 
 ## Overview
 
@@ -30,7 +30,7 @@ On August 24, 1974, SGWU merged with Loyola College to form Concordia University
 
 ## Renaming and Restructuring
 
-The YMCA of Montreal was renamed "Le Y du Québec" around 2009, and now operates as Les YMCA du Québec / The YMCAs of Quebec (ymcaquebec.org).^1 As of 2025, the organization operates 9 centres and 36 service points, serving over 120,000 people annually.^1
+In January 2009, the YMCA du Grand Montréal and its eight regional branches took the name "Ys du Québec"; the organization now operates as Les YMCA du Québec / The YMCAs of Quebec (ymcaquebec.org).^1 ^8 The same period saw a 2008 decision to build a new centre in the Ahuntsic-Cartierville borough and renovations at Camp Kanawana (2007–2009) framed as part of the organization's commitment to sustainable development.^8 As of 2025, the organization operates 9 centres and 36 service points, serving over 120,000 people annually.^1
 
 In November 2019, the YMCAs of Quebec underwent a major strategic restructuring, closing the Guy-Favreau and Hochelaga-Maisonneuve centres and shifting away from large fitness facilities toward community-based programs.^4 Camp Kanawana was closed for two consecutive summers (2020 and 2021) due to COVID-19.^6 In summer 2024, a new "Kanawana Adventure" day camp program was launched at the Saint-Sauveur site — the first day camp to operate at the residential camp location.^7 Day camps were discontinued across YMCA Quebec in fall 2025; Camp YMCA Kanawana's summer residential program continues as the organization's flagship outdoor program.^1 ^4
 
@@ -43,14 +43,14 @@ Pascale Audette was appointed President and CEO of the YMCAs of Quebec in Novemb
 The YMCA of Montreal established Camp Kanawana in 1894, making it one of the oldest continuously operating YMCA camps in Canada. The camp has remained under YMCA Quebec governance throughout its history, though the specific organizational relationship has evolved:
 
 - In the founding era (1894–1920s), camp was organized directly by YMCA Montreal's Boys' Work department under figures like Herbert C. Wilkinson and Eldon "Pop" Evans.
-- Through the mid-20th century, camp operations were managed under the YMCA Montreal's camping portfolio.
+- Through the mid-20th century, camp operations were managed under the YMCA Montreal's camping portfolio, with governance passing through a series of bodies documented in the Concordia archives: the Kamp Kanawana Committee (1910–1939), the Kamp Kanawana Board of Management (1939–1946), a Camp Executive Committee (1946–1958), a dedicated Camping Branch with its own Board of Management (by 1969–1970), and the Camping and Outdoor Education Branch (records 1972–1979).^9
 - By the 2000s, the camp director (Sean Day, c. 2004–2023) also held the title "Regional Director of Camps for YMCA Quebec," reflecting the broader provincial structure.
 - Camp Kanawana is now the sole remaining residential camp in the YMCA Quebec system, following the closure or transfer of Camp Weredale and other satellite programs.
 
 ## Open Questions
 
-1. [Important] When exactly did the YMCA of Montreal rename itself to "Le Y du Québec"? Sources say "around 2009" but the precise date is unclear.
-2. [Important] What was the organizational structure governing Camp Kanawana from the 1940s through the 1990s — was there a dedicated camping services division?
+1. ~~Resolved (2026-06-11)~~ The renaming to "Ys du Québec" took effect in January 2009 (YMCA du Grand Montréal + 8 regional branches).^8
+2. [Important] What was the organizational structure governing Camp Kanawana in the 1980s–1990s? The archival record documents governance bodies through 1979 (Camping and Outdoor Education Branch) but nothing between 1980 and the 2000s regional-director structure.
 3. [Nice-to-have] What other camps did the YMCA of Montreal operate before Kanawana became the sole camp?
 4. [Nice-to-have] What is the full history of the Drummond Street building, and when did YMCA Quebec vacate it?
 
@@ -71,6 +71,8 @@ The YMCA of Montreal established Camp Kanawana in 1894, making it one of the old
 5. YMCAs of Quebec, "Pascale Audette appointed President & CEO" (November 2024).
 6. MSN/media reports, Camp Kanawana closed summers 2020 and 2021 due to COVID-19.
 7. YMCAs of Quebec, "Kanawana Adventure" day camp announcement (2024).
+8. Observatoire de l'action humanitaire, "Young Men's Christian Association — Historique." URL: https://www.observatoire-humanitaire.org/fr/index.php?page=fiche-ong.php&part=historique&chapitre=244&id=114 (retrieved via search excerpts, June 2026; direct fetch blocked).
+9. Concordia University Archives, YMCA of Montreal fonds P0145 (AtoM finding aid): committee, board of management, and camping branch records, 1910–1979.
 
 ## Research Notes
 

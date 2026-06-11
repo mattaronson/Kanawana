@@ -3458,16 +3458,20 @@
         "f_1022",
         "f_1023",
         "f_1024",
-        "f_1025"
+        "f_1025",
+        "f_1178",
+        "f_1179",
+        "f_1180"
       ],
       "sources_cited": [
         "src_ymca_quebec_history",
         "src_canadian_encyclopedia_ymca",
         "src_concordia_sgw_history",
         "src_newswire_ymca_2019",
-        "src_ymca_audette_2024"
+        "src_ymca_audette_2024",
+        "src_observatoire_ymca"
       ],
-      "open_questions": 4,
+      "open_questions": 3,
       "cross_links": [
         "founding-1894",
         "directors-index",

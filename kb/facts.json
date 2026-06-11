@@ -2,7 +2,7 @@
   "version": "v4.36",
   "kb_version": 4.36,
   "migrated_from": "3.3",
-  "fact_count": 1193,
+  "fact_count": 1196,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -20445,6 +20445,58 @@
         "Lemuel Cushing Sr."
       ],
       "date_ref": "1806",
+      "conflicts_with": [],
+      "added_version": "v4.36",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1178",
+      "claim": "In January 2009, the YMCA du Grand Montréal and its 8 regional branches took the name 'Ys du Québec' — the organization now operating as Les YMCA du Québec / The YMCAs of Quebec. The organization was previously named YMCA du Grand Montréal.",
+      "sources": [
+        "src_observatoire_ymca"
+      ],
+      "confidence": "stated",
+      "category": "administration",
+      "entities": [
+        "YMCAs of Quebec",
+        "YMCA du Grand Montréal"
+      ],
+      "date_ref": "2009-01",
+      "conflicts_with": [],
+      "added_version": "v4.36",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1179",
+      "claim": "Per the Observatoire de l'action humanitaire YMCA history: in 2008 the organization decided to build a new centre in Montreal's Ahuntsic-Cartierville borough, and renovations at Camp Kanawana between 2007 and 2009 were undertaken as part of the YMCA du Québec's commitment to sustainable development and environmental respect.",
+      "sources": [
+        "src_observatoire_ymca"
+      ],
+      "confidence": "stated",
+      "category": "facilities",
+      "entities": [
+        "Camp Kanawana",
+        "YMCAs of Quebec"
+      ],
+      "date_ref": "2007-2009",
+      "conflicts_with": [],
+      "added_version": "v4.36",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1180",
+      "claim": "The Concordia AtoM finding aid lists 'Montreal YMCA Camping Branch Board of Management records — 1969-1970', documenting that by 1969 camping was governed by a dedicated Camping Branch with its own Board of Management (succeeded in records by the Camping and Outdoor Education Branch, 1972-1979).",
+      "sources": [
+        "src_concordia_atom_kanawana"
+      ],
+      "confidence": "stated",
+      "category": "administration",
+      "entities": [
+        "YMCA Montreal",
+        "Camping Branch",
+        "Camping and Outdoor Education Branch"
+      ],
+      "date_ref": "1969-1970",
       "conflicts_with": [],
       "added_version": "v4.36",
       "added_by": "ralph_loop"
