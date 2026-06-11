@@ -2,7 +2,7 @@
   "version": "v4.36",
   "kb_version": 4.36,
   "migrated_from": "3.3",
-  "fact_count": 1186,
+  "fact_count": 1193,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -20328,6 +20328,123 @@
         "Canada"
       ],
       "date_ref": "1946-1953",
+      "conflicts_with": [],
+      "added_version": "v4.36",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1171",
+      "claim": "Thomas Cushing (entry 881, 1905 genealogy) was born in Chatham, Que., 15 April 1843, married Margaret Ellen Cameron of Lachute on 7 January 1874, and was President and Manager of the Montreal Brewing Co. as of 1905. Sons: Thomas Hubert (b. 1877) and Gordon Cameron (b. 1880); first son Archibald Ronald Cameron died in infancy.",
+      "sources": [
+        "src_cushing_genealogy"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "Thomas Cushing",
+        "Montreal Brewing Company"
+      ],
+      "date_ref": "1843-04-15",
+      "conflicts_with": [],
+      "added_version": "v4.36",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1172",
+      "claim": "Charles Cushing (entry 883, 1905 genealogy) was born in Chatham, Que., 1 May 1848, graduated McGill B.C.L. 1869, practised as a Notary-Public in Montreal, married Lily M. Macaulay (daughter of Robertson Macaulay) on 28 January 1883, and was elected a Director of Sun Life Assurance Co. of Canada in 1904. His seven children included Robertson Macaulay Cushing (b. 22 June 1884).",
+      "sources": [
+        "src_cushing_genealogy"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "Charles Cushing",
+        "Robertson Macaulay Cushing",
+        "Sun Life"
+      ],
+      "date_ref": "1848-05-01",
+      "conflicts_with": [],
+      "added_version": "v4.36",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1173",
+      "claim": "William Mair Cushing (entry 884, 1905 genealogy) was born in Chatham, Que., 25 October 1853; Captain of the 6th Fusiliers, Montreal (1878) and later Captain of the 11th Argenteuil Rangers; removed to Elkhorn, Manitoba in 1884, serving as Councillor and Reeve for 8 years.",
+      "sources": [
+        "src_cushing_genealogy"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "William Mair Cushing"
+      ],
+      "date_ref": "1853-10-25",
+      "conflicts_with": [],
+      "added_version": "v4.36",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1174",
+      "claim": "George Cushing (entry 885, 1905 genealogy) was born in Chatham, Que., 2 April 1857; travelled the Western States, worked mines at La Trinidad, Otaez, Mexico, and as of 1905 resided in Mexico City as managing director of the Canada Mexico Trading Co.",
+      "sources": [
+        "src_cushing_genealogy"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "George Cushing"
+      ],
+      "date_ref": "1857-04-02",
+      "conflicts_with": [],
+      "added_version": "v4.36",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1175",
+      "claim": "James Brock Cushing (entry 878, 1905 genealogy) was born in Chatham, Que., 2 October 1839 and died at his residence 'Ingleside', Cushing (Township of Chatham), Que., 22 October 1903. He resided at Cushing until October 1890, when he moved with his family to Montreal; in February 1900 he returned to Chatham as Superintendent of the Carillon and Grenville Canals. For many years he was Colonel of the 11th Battalion (Argenteuil Rangers), retiring as Lieut.-Colonel with the long service and Fenian raid service medals. His son James Wilfred (b. 13 July 1874) died 6 October 1892; son Lemuel (b. 26 November 1875) became a chartered accountant.",
+      "sources": [
+        "src_cushing_genealogy"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "James Brock Cushing",
+        "Lemuel Cushing (b. 1875)"
+      ],
+      "date_ref": "1839-10-02",
+      "conflicts_with": [],
+      "added_version": "v4.36",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1176",
+      "claim": "Lemuel Cushing Jr. (entry 880, 1905 genealogy): born Chatham, Que., 18 February 1842; McGill B.A. 1865, B.C.L. 1865, M.A. 1867, LL.D. 1879; admitted to the Quebec Bar November 1865; Liberal MP for Argenteuil; President of the Montreal Lacrosse Club and an original member of the Montreal Amateur Athletic Association; 'at one time President' of the Young Men's Christian Association; published the first Genealogy of the Cushing Family in 1877; died in Montreal 1 March 1881.",
+      "sources": [
+        "src_cushing_genealogy"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "Lemuel Cushing Jr.",
+        "YMCA Montreal"
+      ],
+      "date_ref": "1842-02-18",
+      "conflicts_with": [],
+      "added_version": "v4.36",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1177",
+      "claim": "The 1905 Cushing genealogy gives two different birth dates for Lemuel Cushing Sr.: the child listing under Job Cushing (entry 525 reference) says 29 April 1806, while his full entry says 26 April 1806 (both at Three Rivers). Internal discrepancy in the primary source; possibly an OCR or typesetting error.",
+      "sources": [
+        "src_cushing_genealogy"
+      ],
+      "confidence": "disputed",
+      "category": "sources",
+      "entities": [
+        "Lemuel Cushing Sr."
+      ],
+      "date_ref": "1806",
       "conflicts_with": [],
       "added_version": "v4.36",
       "added_by": "ralph_loop"

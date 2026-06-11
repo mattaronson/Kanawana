@@ -1616,7 +1616,9 @@
       "blocking": false,
       "assigned_weight": "P3",
       "created_at": "2026-03-24T03:30:00Z",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-11T16:30:00Z",
+      "result": "RALPH completed via FULL LOCAL MINE of cached 1905 Cushing genealogy (1.28MB OCR — f_1161's 'proxy-blocked' note was stale; cache existed). 7 new facts (f_1171-f_1177). RESOLVED: (1) Lemuel Jr. had NO son named Lemuel — 'Lemuel III' hypothesis eliminated; only literal Lemuel in Montreal 1892 was Lemuel b. 26 Nov 1875 (James Brock line, moved to Montreal Oct 1890), age 16; (2) W.E. ≠ Dr. Cushing — brothers: Walter Edgar (b. 1870, only W.E. in branch) vs Harold Beveridge (b. 1873, MD, Children's Hospital pediatrician = 1946 polio advisor); (3) all eight sons' entries extracted, four undated table cells filled; (4) genealogy contains NO mention of the 1892 trip/Lake St. Joseph. Final confirmation needs 1893 camper lists (12L) + 1946 season report (12A)."
     },
     {
       "priority_id": "p_127",

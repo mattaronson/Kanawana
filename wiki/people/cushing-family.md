@@ -2,9 +2,9 @@
 
 <!-- status: E1-reviewed -->
 <!-- confidence: medium -->
-<!-- last_updated: 2026-02-19 -->
+<!-- last_updated: 2026-06-11 -->
 <!-- last_editor: v52 -->
-<!-- ralph_loops: cushing-family-stub, cushing-family-R1, cushing-genealogy-extraction -->
+<!-- ralph_loops: cushing-family-stub, cushing-family-R1, cushing-genealogy-extraction, p_126-genealogy-full-mine -->
 
 ## Summary
 
@@ -19,13 +19,13 @@ Lemuel Cushing was born April 29, 1806 in Trois-Rivières, Lower Canada, the eig
 | Son | Dates | Occupation/Distinction |
 |-----|-------|----------------------|
 | Lemuel Jr. | 1842-1881 | Lawyer, MP for Argenteuil 1874-1875, YMCA president 1869-1870 |
-| Thomas | dates unknown | Founded Montreal Brewing Company (1876) |
-| Charles | active 1869-1910 | Notary (B.C.L., N.P.), published *Cushing's Notarial Form Book* (1887) |
+| Thomas | 1843–? | Founded Montreal Brewing Company (1876); its President and Manager as of 1905 |
+| Charles | 1848–? | Notary (McGill B.C.L. 1869), published *Cushing's Notarial Form Book* (1887); Sun Life director (1904); married Lily Macaulay, daughter of Sun Life president Robertson Macaulay |
 | Francis | dates unknown | Founded Cushing's Island Company (Maine, 1883), hired Frederick Law Olmsted |
 | Frederick | 1851-1933 | Born Chatham, Argenteuil; no further details |
-| William Mair | dates unknown | |
-| George | dates unknown | |
-| James Brock (Col.) | 1839-1903 | Colonel, Argenteuil Rangers; moved to Montreal 1890; active in religious/educational interests |
+| William Mair | 1853–? | Captain, 6th Fusiliers (1878) and 11th Argenteuil Rangers; moved to Elkhorn, Manitoba (1884), Councillor and Reeve |
+| George | 1857–? | Mining in Mexico (La Trinidad, Otaez); managing director, Canada Mexico Trading Co., Mexico City |
+| James Brock (Col.) | 1839-1903 | Lieut.-Colonel, 11th Battalion (Argenteuil Rangers), Fenian raid service medal; moved to Montreal October 1890; Superintendent of Carillon and Grenville Canals (1900–1903) |
 
 ## Lemuel Cushing Jr. and the YMCA (1842-1881)
 
@@ -51,7 +51,7 @@ Thomas Cushing founded the Montreal Brewing Company in 1876, which produced Indi
 
 ## Later Cushings in YMCA Service
 
-**W.E. Cushing** (likely "William E. Cushing") wrote "Historical sketches—Lake St. Joseph" and "Early Days at Lake St. Joseph" in 1943, both preserved in the Concordia Archives.^5 He also had correspondence regarding the history of East End YMCA work (1906-1933). His exact relationship to the family tree is undetermined.
+**W.E. Cushing** wrote "Historical sketches—Lake St. Joseph" and "Early Days at Lake St. Joseph" in 1943, both preserved in the Concordia Archives.^5 He also had correspondence regarding the history of East End YMCA work (1906-1933). The 1905 genealogy contains no "William E." Cushing anywhere in the Montreal branch; the only family member matching the initials W.E. is **Walter Edgar Cushing** (b. 1870), Lemuel Jr.'s eldest son, who would have been 73 when the 1943 sketches were written — and whose age (22) made him a plausible leader of the 1892 trip he later chronicled.^6
 
 **Charles Cushing** is mentioned in YMCA research reports held in Concordia Archives sub-series 13D, suggesting involvement with YMCA governance or legal affairs alongside his notarial career.^5
 
@@ -60,7 +60,7 @@ Thomas Cushing founded the Montreal Brewing Company in 1876, which produced Indi
 ## Open Questions
 
 1. [Critical] The 1892 "Lemuel Cushing" — was this Walter Edgar Cushing (22), Harold Beveridge Cushing (19), or the 16-year-old Lemuel (son of James Brock)? The 1893 camper lists in Concordia Archives 12L should resolve this.
-2. [Critical] Are W.E. Cushing (1943 historian) and Dr. Cushing (1946 medical advisor) the same person? W.E. likely stands for "Walter Edgar" (Lemuel Jr.'s eldest son, b. 1870), who would have been 73 in 1943. The Dr. Cushing of 1946 may be Harold Beveridge Cushing (physician, b. 1873).
+2. [Critical] Are W.E. Cushing (1943 historian) and Dr. Cushing (1946 medical advisor) the same person? Almost certainly not: the 1905 genealogy shows they would be brothers — W.E. = Walter Edgar (b. 1870, the only W.E. in the Montreal branch), while the 1946 Dr. Cushing matches Harold Beveridge Cushing (b. 1873, McGill M.D. 1898, Physician to the Children's Hospital — a pediatrician, exactly as the 1946 polio account describes). Confirmation requires the 1946 season report (Concordia P0145/12A).
 3. [Important] What is the full text of W.E. Cushing's 1943 Lake Saint-Joseph historical sketches?
 4. [Nice-to-have] Did Thomas Cushing's Montreal Brewing wealth fund early YMCA camping operations?
 5. [Nice-to-have] What became of the 16-year-old Lemuel Cushing (b. 1875, chartered accountant by 1905)?

@@ -1034,3 +1034,9 @@ All search results converge on the same Concordia University Archives source (P0
 ## Campaign: p_124 — R.H. Hanagan (2026-06-11)
 
 **Queries (4):** Hanagan YMCA Montreal/Quebec 1940s; first-name expansions (Robert/Ralph/Richard) + obituary; Kanawana/YMCA polio 1946; Hanagan Montreal Gazette/Star 1942-48. **Full name: NULL.** Yield: f_1170 — 1946 was onset of Canada's most serious polio wave (1946-1953), contextualizing Hanagan's decision (on Dr. Cushing's advice) to keep camp open. Article updated. SATURATED; remaining surfaces: newspapers.com (paywall), BAnQ (403), Concordia 12A season reports (physical).
+
+## Campaign: p_126 — Cushing genealogy, full local mine (2026-06-11)
+
+**Surface:** cached 1905 genealogy OCR (sources/cache/web-pages/cushing-genealogy-1905.txt, 1.28MB) — f_1161's claim that this source was proxy-blocked was STALE; full text was already cached. Entries 525, 878, 880-885 read in full.
+
+**RESOLVED:** (1) No 'Lemuel III' — Lemuel Jr.'s children were Walter Edgar (b. 19 May 1870), Harold Beveridge (b. 6 Apr 1873), Florence Ethelwyn, James Stevenson. (2) Only literal 'Lemuel Cushing' in Montreal in 1892: Lemuel b. 26 Nov 1875 (James Brock line; family moved Chatham→Montreal Oct 1890), age 16, later chartered accountant. (3) W.E. vs Dr. Cushing: BROTHERS, not one person — no 'William E.' exists in the branch; Walter Edgar is the only W.E.; Harold Beveridge (McGill MD 1898, Physician to Children's Hospital) matches the 1946 pediatrician. (4) Genealogy never mentions Lake St. Joseph/camping/1892 trip. f_1171-f_1177; src_cushing_genealogy marked extracted v4.36. Article table + W.E. section + OQ2 updated.

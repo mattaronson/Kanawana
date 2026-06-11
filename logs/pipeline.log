@@ -1427,3 +1427,9 @@ Research status: SATURATED for online sources. Physical archives needed for adva
 [2026-06-11T15:30:00Z] RESEARCH | rh-hanagan | p_124 RALPH R2 completed
   - Full first name: not found online. 1946 polio wave context added (f_1170, new source)
   - Article polio section enriched; OQ1 null-result documented. KB v4.36: 1186 facts
+
+[2026-06-11T16:30:00Z] RESEARCH | cushing-family | p_126 completed via full local genealogy mine
+  - W.E. Cushing = Walter Edgar (b.1870); Dr. Cushing = Harold Beveridge (b.1873, pediatrician) — brothers, disambiguation RESOLVED
+  - No Lemuel III; only 1892 Montreal Lemuel was b. 1875 (age 16), James Brock line (Montreal from Oct 1890)
+  - 7 new facts (f_1171-f_1177), src_cushing_genealogy extracted. KB v4.36: 1193 facts
+  - Stale f_1161 access note corrected in source record. Article enriched (sons table, W.E. section, OQ2)

@@ -845,10 +845,10 @@
       "cache_path": "sources/cache/web-pages/cushing-genealogy-1905.txt",
       "char_count": 1280218,
       "ingested_at": "2026-02-14T04:00:00Z",
-      "extracted": false,
-      "extraction_version": null,
+      "extracted": true,
+      "extraction_version": "v4.36",
       "reliability": "primary",
-      "notes": "598-page family genealogy. Second edition, expanding Lemuel Jr.'s 1877 work. Key document for identifying the 1892 camping pioneer. Available on Internet Archive."
+      "notes": "598-page family genealogy, second edition expanding Lemuel Jr.'s 1877 work. FULL OCR TEXT CACHED LOCALLY (1.28MB) and mined 2026-06-11 (f_1171-f_1177): all eight sons' entries extracted; confirms no 'Lemuel III' among Lemuel Jr.'s children; only literal Lemuel in Montreal 1892 was Lemuel b. 1875 (James Brock line, family moved to Montreal Oct 1890); no 'William E.' Cushing in the Montreal branch — W.E. = Walter Edgar (b. 1870) is the only match. No mention of Lake St. Joseph, camping, or the 1892 trip anywhere in the volume."
     },
     {
       "source_id": "src_banq_advitam_519920",
