@@ -2,7 +2,7 @@
   "version": "v4.36",
   "kb_version": 4.36,
   "migrated_from": "3.3",
-  "fact_count": 1184,
+  "fact_count": 1185,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -13089,7 +13089,9 @@
         "Kamp Kanawana"
       ],
       "date_ref": "1979",
-      "conflicts_with": [],
+      "conflicts_with": [
+        "f_1169"
+      ],
       "added_version": "4.19",
       "added_by": "ralph_loop_director_search"
     },
@@ -20291,6 +20293,25 @@
       ],
       "date_ref": "1987-10",
       "conflicts_with": [],
+      "added_version": "v4.36",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1169",
+      "claim": "Search-engine snippets of the Concordia 12B01 finding aid (retrieved 2026-06-11, two independent queries) describe correspondence from 'Camp director Dave Twynam' dated 1976, which if accurate would extend his directorship back to 1976. An earlier extraction of the same finding aid (f_0752) dated such correspondence to 1979. Whether the finding aid lists two separate correspondence files (1976 and 1979) or one of the datings is an error is unresolved.",
+      "sources": [
+        "src_concordia_12B01"
+      ],
+      "confidence": "disputed",
+      "category": "directors",
+      "entities": [
+        "Dave Twynam",
+        "Kamp Kanawana"
+      ],
+      "date_ref": "1976",
+      "conflicts_with": [
+        "f_0752"
+      ],
       "added_version": "v4.36",
       "added_by": "ralph_loop"
     }

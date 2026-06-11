@@ -1566,7 +1566,9 @@
       "blocking": false,
       "assigned_weight": "P3",
       "created_at": "2026-03-24T03:30:00Z",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-11T14:30:00Z",
+      "result": "RALPH R2 completed (6 queries). KEY: two independent search excerpts of 12B01 finding aid date 'Camp director Dave Twynam' correspondence to 1976 (vs 1979 in f_0752) — recorded as disputed fact f_1169 + conflict c_007; if 1976 correct, tenure ~1976-1980 closes the post-McLean gap. PhD institution: NOT FOUND in open indexes (ProQuest needed). Programs introduced: NOT FOUND online (Ka-News 1976-1982 at Concordia is the source). dave-twynam.md and directors-index.md updated. SATURATED online; resolution via p_057 finding aid PDF."
     },
     {
       "priority_id": "p_123",

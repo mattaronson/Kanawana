@@ -110,6 +110,27 @@
         "the-kanawana-site",
         "lake-wilson"
       ]
+    },
+    {
+      "conflict_id": "c_007",
+      "description": "Date of 'Camp director Dave Twynam' correspondence in Concordia 12B01 finding aid: 1976 vs 1979 — affects start of Twynam directorship",
+      "fact_ids": [
+        "f_0752",
+        "f_1169"
+      ],
+      "entity": "Dave Twynam",
+      "attribute": "directorship_correspondence_date",
+      "values": [
+        "1979 (Phase 2 extraction of 12B01 finding aid, f_0752)",
+        "1976 (search-engine snippets of same finding aid, 2026-06-11, two independent queries, f_1169)"
+      ],
+      "status": "unresolved",
+      "notes": "Both readings derive from the same finding aid page (concordia.ca ymca-fonds-sub-sub-series-12B01.html), which is now proxy-blocked (403) to the agent. May not be a true conflict — the aid may list multiple Twynam correspondence files. Resolution: operator fetch of the 12B01 page or the AtoM finding aid PDF (p_057). If 1976 is correct, Twynam's tenure spans at least 1976-1980, fully bridging the gap after Stuart McLean (asst. director 1974-75).",
+      "created_at": "2026-06-11T14:00:00Z",
+      "affects_articles": [
+        "dave-twynam",
+        "directors-index"
+      ]
     }
   ]
 }

@@ -1020,3 +1020,9 @@ All search results converge on the same Concordia University Archives source (P0
 **Queries (8):** Vankleek Hill obituary/cemetery 1987; full-name variants (Arthur/Albert Ross Seaman); Bannerman + Kanawana/YMCA 1968-70; site:findagrave.com Seaman Vankleek Hill; site:concordia.ca Bannerman; 12B01 director's reports site:concordia.ca; Ross Seaman Cornwall YMCA; Margaret Seaman. Fetches 403: ctr.concordia.ca 2000 Seaman Awards article, concordia.ca Seaman Nomination Criteria PDF, vankleek.ca history PDF.
 
 **Yield:** f_1168 (died October 1987 — refines 1987). NULL: full name, birth year, education beyond SGW, programming detail 1959-67. Successor: 12B01 May 1969 director's report + 1970 annual report = archival path; Bannerman (f_0753, f_0852, f_0908) remains candidate. Housekeeping: duplicate src_concordia_seaman_fund merged. **SATURATED online.**
+
+## Campaign: p_122 — Dave Twynam directorship (2026-06-11)
+
+**Queries (6):** Twynam PhD dissertation/thesis; Twynam Kanawana/YMCA 1978-1981; site:concordia.ca Twynam; G. David Twynam UBC/doctorate; Twynam Lakehead appointment 1990-92; Twynam Montreal/Kanawana alumni. Cache grep: no Twynam in local cache.
+
+**Yield:** f_1169 (disputed) — two independent search excerpts of the 12B01 finding aid date 'Camp director Dave Twynam' correspondence to 1976, vs 1979 in f_0752. Conflict c_007 created; affects dave-twynam + directors-index (both updated; gap analysis revised). PhD institution and Kanawana programs: NULL online. **SATURATED**; resolution paths: 12B01 finding aid PDF (p_057), ProQuest, Ka-News issues at Concordia.

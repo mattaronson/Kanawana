@@ -1,7 +1,7 @@
 # G. David Twynam
 
 *Status: E1-reviewed | Sources: 15*
-*Last Updated: 2026-03-16*
+*Last Updated: 2026-06-11 (p_122 RALPH: 1976-vs-1979 correspondence discrepancy recorded as c_007; PhD search saturated)*
 
 ## Overview
 
@@ -9,7 +9,7 @@ G. David Twynam (PhD) served as camp director of Kamp Kanawana circa 1979–1980
 
 ## Kanawana Directorship
 
-Correspondence from "Camp director Dave Twynam" is dated 1979 in the Concordia University Archives (sub-sub-series P0145/12B01), providing the primary documentary evidence for his tenure.^1 He is also referenced as "Dave" in the Ka-News 1980 publication, suggesting his directorship extended into at least the 1980 season.^5
+Correspondence from "Camp director Dave Twynam" is dated 1979 in the Concordia University Archives (sub-sub-series P0145/12B01), providing the primary documentary evidence for his tenure.^1 He is also referenced as "Dave" in the Ka-News 1980 publication, suggesting his directorship extended into at least the 1980 season.^5 Search-engine excerpts of the same finding aid retrieved in June 2026 instead date director correspondence to 1976; whether this reflects a second, earlier correspondence file or a dating discrepancy is unresolved (conflict c_007). If 1976 is correct, Twynam's tenure spans at least 1976–1980, immediately following Stuart McLean's assistant directorship (1974–75).^1
 
 Twynam's directorship falls in the late 1970s, within the 1947–2003 gap in the camp's directorial record — a 57-year period for which few directors have been identified through web-accessible sources. His predecessor and successor in the role remain unconfirmed, though A. Ross Seaman (1959–1967) and Bruce Netherwood (date uncertain) are documented for adjacent periods.^1
 
@@ -54,9 +54,9 @@ Twynam holds a doctorate, as confirmed by the title "Dr." in multiple institutio
 
 ## Open Questions
 
-1. [Critical] What were the exact years of Twynam's Kanawana directorship? Only 1979 is confirmed from archival dating; the Ka-News reference extends this to 1980.
-2. [Important] What programs or changes did Twynam introduce at Kanawana during his tenure?
-3. [Important] Where did Twynam earn his PhD, and in what field? UBC affiliation on ResearchGate is suggestive but unconfirmed.
+1. [Critical] What were the exact years of Twynam's Kanawana directorship? Archival correspondence is dated 1979 (or possibly 1976 — see conflict c_007); the Ka-News reference extends the tenure to 1980. Resolution requires the 12B01 finding aid page or PDF (operator action, p_057).
+2. [Important] What programs or changes did Twynam introduce at Kanawana during his tenure? (2026-06 search: nothing online; Ka-News 1976–1982 issues at Concordia are the likely source)
+3. [Important] Where did Twynam earn his PhD, and in what field? UBC affiliation on ResearchGate is suggestive but unconfirmed. (2026-06 search: no dissertation record found in open indexes; ProQuest Dissertations access would resolve this)
 4. [Nice-to-have] Did Twynam's later academic interest in outdoor recreation and tourism grow from his camp experience?
 
 ## Related Articles
