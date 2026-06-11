@@ -1,8 +1,8 @@
 {
-  "version": "v4.37",
-  "kb_version": 4.37,
+  "version": "v4.38",
+  "kb_version": 4.38,
   "migrated_from": "3.3",
-  "fact_count": 1207,
+  "fact_count": 1208,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -20697,6 +20697,25 @@
       "date_ref": null,
       "conflicts_with": [],
       "added_version": "v4.37",
+      "added_by": "oral_history"
+    },
+    {
+      "fact_id": "f_1192",
+      "claim": "The Chopsy legend was traditionally told at the wreckage of an old car in the woods near an abandoned cabin. The car is known as 'Chopsy's Car' and the cabin was known as 'Chopsy's Cabin.' The cabin has since been destroyed. The physical car and cabin served as both the setting of the story's climax and the venue for its telling.",
+      "sources": [
+        "src_oral_aronson"
+      ],
+      "confidence": "user_knowledge",
+      "category": "legends",
+      "entities": [
+        "Chopsy",
+        "Chopsy's Car",
+        "Chopsy's Cabin",
+        "Camp Kanawana"
+      ],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "v4.38",
       "added_by": "oral_history"
     }
   ]
