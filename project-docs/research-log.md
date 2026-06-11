@@ -1050,3 +1050,7 @@ All search results converge on the same Concordia University Archives source (P0
 ## Campaign: p_125 — Sean Day tenure (2026-06-11)
 
 **Queries (3):** Kanawana 2009 revitalisation Mediaterre; Sean Day anti-bullying/programs; (Mediaterre direct fetch 403). **Yield:** virage vert began 2006; Feb 2009 accommodation phase; composting toilets, heat exchangers, artificial wetland (f_1181-f_1182); FB anti-bullying video (f_1183, new source src_facebook_kanawana). sean-day.md + environmental-history.md enriched; env OQ1 narrowed. Remaining gaps (pre-director years, program innovations) → oral history.
+
+## Campaign: p_131 — RSVL water quality, Lac Kanawana (2026-06-11)
+
+**Queries (3) + fetches (3) + CKAN API attempt:** RSVL lac Kanawana trophique/phosphore; CREL atlas (fiche confirmed at ?lac=12008); Kanawana oligotrophe/mésotrophe. ALL data surfaces 403 / allowlist-blocked (crelaurentides.org, environnement.gouv.qc.ca, donneesquebec.ca, ouvert.canada.ca). **BLOCKED** — operator must open the CREL fiche or the Données Québec trophic dataset. p_131 status → blocked with explicit URL.

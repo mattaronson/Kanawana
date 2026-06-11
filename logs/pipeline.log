@@ -1442,3 +1442,7 @@ Research status: SATURATED for online sources. Physical archives needed for adva
 [2026-06-11T18:00:00Z] RESEARCH | sean-day | p_125 completed
   - 2009 revitalization resolved as phase of 2006 'virage vert'; artificial wetland + heat exchangers documented
   - f_1181-f_1183 added; environmental-history Clivus OQ narrowed to exact year. KB v4.36: 1199 facts
+
+[2026-06-11T18:30:00Z] RESEARCH | environmental-history | p_131 → BLOCKED
+  - Lac Kanawana CREL fiche confirmed (atlasdeslacs?lac=12008) but all data surfaces proxy-blocked
+  - Operator action documented in blocking_reason (CREL fiche or Données Québec RSVL dataset)

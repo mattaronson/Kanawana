@@ -1676,10 +1676,12 @@
       "type": "RESEARCH",
       "description": "Research RSVL water quality data for Lac Kanawana: trophic status (oligotrophic/mesotrophic), Secchi transparency readings, phosphorus levels. CREL Laurentides data.",
       "article_id": "environmental-history",
-      "blocking": false,
+      "blocking": true,
       "assigned_weight": "P4",
       "created_at": "2026-03-24T03:30:00Z",
-      "status": "pending"
+      "status": "blocked",
+      "blocking_reason": "All RSVL data surfaces proxy-blocked: crelaurentides.org Atlas des lacs (Lac Kanawana fiche = ?lac=12008, confirmed to exist), environnement.gouv.qc.ca RSVL pages, donneesquebec.ca + ouvert.canada.ca trophic-state dataset (CKAN API also blocked by host allowlist). Trophic class, Secchi, and phosphorus values not present in any search-indexable snippet. OPERATOR ACTION: open https://crelaurentides.org/dossiers/eau-lacs/atlasdeslacs?lac=12008 or download the Données Québec dataset 'Lacs participants au RSVL — États trophiques' and report values for lac Kanawana (RSVL participant, data since 2013).",
+      "notes": "Searched 2026-06-11: 3 queries + 3 direct fetches + CKAN API attempt. Confirmed the fiche exists; values unreachable."
     },
     {
       "priority_id": "p_132",
