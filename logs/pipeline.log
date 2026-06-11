@@ -1406,3 +1406,9 @@ Research status: SATURATED for online sources. Physical archives needed for adva
   - Toponymie fiche 135620: landowner-naming precedent for Lac Wilson pattern (f_1166)
   - 3 new facts (f_1165-f_1167), 2 new sources. KB v4.36: 1183 facts, 339 sources, 6 conflicts
   - p_127 completed; p_132, p_133 spawned (blocked, operator). Article + tracker updated.
+
+[2026-06-11T13:00:00Z] RESEARCH | a-ross-seaman | p_121 RALPH R2 completed
+  - Death refined: October 1987 (f_1168). Full name/birth year NOT FOUND online (saturated)
+  - Successor path: P0145/12B01 1969-70 director's reports (physical access)
+  - Duplicate src_concordia_seaman_fund merged (338 sources). KB v4.36: 1184 facts
+  - Article OQs updated with null-result documentation and archival paths

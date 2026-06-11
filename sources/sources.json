@@ -1923,22 +1923,6 @@
       "notes": "US-based YMCA archive holding 'YMCA in Canada records'. Pre-1912 Canadian YMCAs administered jointly by International Committee. May contain early Camp Jubilee/Kanawana material."
     },
     {
-      "source_id": "src_concordia_seaman_fund",
-      "type": "web",
-      "title": "Concordia University - A. Ross Seaman Memorial Fund",
-      "date": "1987",
-      "date_precision": "year",
-      "origin": "web",
-      "origin_url": "https://www.concordia.ca/artsci/applied-human-sciences/about/funding.html",
-      "cache_path": null,
-      "char_count": 0,
-      "ingested_at": "2026-03-02T00:00:00Z",
-      "extracted": false,
-      "extraction_version": null,
-      "reliability": "secondary",
-      "notes": "Est. 1987 to honour Seaman's dedication to Concordia, Dawson College, Kamp Kanawana, and the YMCA. Annual leadership and scholarship awards."
-    },
-    {
       "source_id": "src_aca_dimock_bio",
       "type": "web",
       "title": "ACA - Hedley S. Dimock Biography",
@@ -5299,22 +5283,6 @@
       "notes": "Memorial scholarship page with detailed biography of A. Ross Seaman. Died 1987."
     },
     {
-      "source_id": "src_concordia_seaman_fund",
-      "type": "web",
-      "title": "Concordia University Applied Human Sciences — A. Ross Seaman Memorial Fund",
-      "date": "2024",
-      "date_precision": "approximate",
-      "origin": "web",
-      "origin_url": "https://www.concordia.ca/artsci/applied-human-sciences/about/funding.html",
-      "cache_path": null,
-      "char_count": 0,
-      "ingested_at": "2026-03-24T03:45:00Z",
-      "extracted": true,
-      "extraction_version": "v4.34",
-      "reliability": "primary",
-      "notes": "Concordia University funding page listing A. Ross Seaman memorial scholarship."
-    },
-    {
       "source_id": "src_ymca_kanawana_team_2025",
       "type": "web",
       "title": "Kanawana Summer Camp: Our Team (YMCA Quebec, 2025)",
@@ -5425,6 +5393,22 @@
       "extraction_version": "v4.36",
       "reliability": "tertiary",
       "notes": "96 bodies of water in Sainte-Anne-des-Lacs; named lakes listed. No Lac Desjardins. Used as negative evidence in c_006."
+    },
+    {
+      "source_id": "src_concordia_seaman_fund",
+      "type": "web",
+      "title": "Concordia University Applied Human Sciences — A. Ross Seaman Memorial Fund",
+      "date": "2024",
+      "date_precision": "approximate",
+      "origin": "web",
+      "origin_url": "https://www.concordia.ca/artsci/applied-human-sciences/about/funding.html",
+      "cache_path": null,
+      "char_count": 0,
+      "ingested_at": "2026-03-02T00:00:00Z",
+      "extracted": true,
+      "extraction_version": "v4.36",
+      "reliability": "primary",
+      "notes": "Fund est. 1987 honouring Seaman's dedication to Concordia, Dawson College, Kamp Kanawana, and the YMCA; annual leadership and scholarship awards. States Seaman died in October 1987 (f_1168). Duplicate sources.json entries merged 2026-06-11 (were two records with same id/URL)."
     }
   ],
   "source_count": 323

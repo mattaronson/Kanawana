@@ -1553,7 +1553,9 @@
       "blocking": false,
       "assigned_weight": "P3",
       "created_at": "2026-03-24T03:30:00Z",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-11T13:00:00Z",
+      "result": "RALPH R2 completed (8 queries: Find A Grave, obituary databases, genealogy, concordia.ca, newspaper angles, Vankleek Hill history). Death refined to October 1987 (f_1168). Full name, birth year, education beyond SGW: NOT FOUND online — remaining paths are Vankleek Hill cemetery records, 1987 print obituaries, Concordia P0145/04 staff files. Successor path identified: P0145/12B01 May 1969 director's report + 1970 annual report (physical access). Duplicate src_concordia_seaman_fund entries merged. Article updated. SATURATED for online sources."
     },
     {
       "priority_id": "p_122",

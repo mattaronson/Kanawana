@@ -1014,3 +1014,9 @@ All search results converge on the same Concordia University Archives source (P0
 **Results:** f_1165–f_1167; sources src_toponymie_lac_wilson_stelucie, src_grandquebec_sadl_lakes; conflict c_006 (Lake Desjardins existence — f_0036 vs f_0023, possible conflation with 2018 Desjardins pavilion donation); src_fong_mcconnell notes updated with chapter + IA borrow path. j-w-mcconnell.md updated (new section "The Lake Desjardins Question", OQs revised). Spawned p_132 (operator: borrow Fong on IA), p_133 (resolve c_006 via oral history). Land registry: Registre foncier requires paid account — logged as blocked.
 
 **Status:** SATURATED for agent-accessible online sources.
+
+## Campaign: p_121 — A. Ross Seaman biography (2026-06-11)
+
+**Queries (8):** Vankleek Hill obituary/cemetery 1987; full-name variants (Arthur/Albert Ross Seaman); Bannerman + Kanawana/YMCA 1968-70; site:findagrave.com Seaman Vankleek Hill; site:concordia.ca Bannerman; 12B01 director's reports site:concordia.ca; Ross Seaman Cornwall YMCA; Margaret Seaman. Fetches 403: ctr.concordia.ca 2000 Seaman Awards article, concordia.ca Seaman Nomination Criteria PDF, vankleek.ca history PDF.
+
+**Yield:** f_1168 (died October 1987 — refines 1987). NULL: full name, birth year, education beyond SGW, programming detail 1959-67. Successor: 12B01 May 1969 director's report + 1970 annual report = archival path; Bannerman (f_0753, f_0852, f_0908) remains candidate. Housekeeping: duplicate src_concordia_seaman_fund merged. **SATURATED online.**

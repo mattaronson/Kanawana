@@ -2,7 +2,7 @@
   "version": "v4.36",
   "kb_version": 4.36,
   "migrated_from": "3.3",
-  "fact_count": 1183,
+  "fact_count": 1184,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -20274,6 +20274,22 @@
         "Sainte-Anne-des-Lacs"
       ],
       "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "v4.36",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1168",
+      "claim": "A. Ross Seaman died in October 1987. The Concordia Applied Human Sciences funding page describes his death as 'a loss to countless people from many places where he expended his energies and warmth to help others to become the best they could be.'",
+      "sources": [
+        "src_concordia_seaman_fund"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "A. Ross Seaman"
+      ],
+      "date_ref": "1987-10",
       "conflicts_with": [],
       "added_version": "v4.36",
       "added_by": "ralph_loop"
