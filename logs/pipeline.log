@@ -1446,3 +1446,8 @@ Research status: SATURATED for online sources. Physical archives needed for adva
 [2026-06-11T18:30:00Z] RESEARCH | environmental-history | p_131 → BLOCKED
   - Lac Kanawana CREL fiche confirmed (atlasdeslacs?lac=12008) but all data surfaces proxy-blocked
   - Operator action documented in blocking_reason (CREL fiche or Données Québec RSVL dataset)
+
+[2026-06-11T19:00:00Z] RESEARCH | camp-weredale | p_130 completed
+  - Two-site plan abandonment reason not online; 1977 Youth Horizons merger context added (f_1184)
+  - 1973-vs-1977 Youth Horizons date flag noted for operator verification
+  - KB v4.36: 1200 facts, 342 sources

@@ -1054,3 +1054,7 @@ All search results converge on the same Concordia University Archives source (P0
 ## Campaign: p_131 — RSVL water quality, Lac Kanawana (2026-06-11)
 
 **Queries (3) + fetches (3) + CKAN API attempt:** RSVL lac Kanawana trophique/phosphore; CREL atlas (fiche confirmed at ?lac=12008); Kanawana oligotrophe/mésotrophe. ALL data surfaces 403 / allowlist-blocked (crelaurentides.org, environnement.gouv.qc.ca, donneesquebec.ca, ouvert.canada.ca). **BLOCKED** — operator must open the CREL fiche or the Données Québec trophic dataset. p_131 status → blocked with explicit URL.
+
+## Campaign: p_130 — Weredale two-site plan (2026-06-11)
+
+**Queries (3):** Youth Horizons/Batshaw + Camp Weredale 1977-80; Camp Weredale + Kanawana two-site; batshawcentreshistory directors/counsellors. Fetch of batshawcentreshistory.ca 403. **Yield:** f_1184 (inferred) — two-site planning window 1977-1980 coincided with Weredale House closure/Youth Horizons merger (1977). Reason for abandonment NOT online. Flag: snippet says Youth Horizons est. 1973 (vs 1977, f_0806) — unverified paraphrase, logged in article OQ2a. SATURATED; archival resolution (Concordia 12A 1977-83 planning docs).

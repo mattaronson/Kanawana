@@ -2,7 +2,7 @@
   "version": "v4.36",
   "kb_version": 4.36,
   "migrated_from": "3.3",
-  "fact_count": 1199,
+  "fact_count": 1200,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -20549,6 +20549,27 @@
         "Camp Kanawana"
       ],
       "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "v4.36",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1184",
+      "claim": "The YMCA's proposed Kanawana-Weredale two-site operation (planning documents 1977-1980) coincided exactly with the institutional dissolution of Weredale House: the residence closed in 1977, the year its parent merged with Summerhill Homes, the Girls' Cottage School, and Allencroft Reception Centres to form Youth Horizons. The timing suggests the two-site plan arose from (or was complicated by) this upheaval in Weredale's governance, though no source states why the plan was abandoned.",
+      "sources": [
+        "src_concordia_atom_kanawana",
+        "src_batshaw_history"
+      ],
+      "confidence": "inferred",
+      "category": "inter-camp",
+      "entities": [
+        "Camp Weredale",
+        "Camp Kanawana",
+        "Youth Horizons",
+        "Weredale House",
+        "YMCA Montreal"
+      ],
+      "date_ref": "1977-1980",
       "conflicts_with": [],
       "added_version": "v4.36",
       "added_by": "ralph_loop"

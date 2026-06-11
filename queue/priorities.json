@@ -1668,7 +1668,9 @@
       "blocking": false,
       "assigned_weight": "P4",
       "created_at": "2026-03-24T03:30:00Z",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-11T19:00:00Z",
+      "result": "RALPH completed (3 queries; batshawcentreshistory.ca fetch 403). 'Why abandoned': NOT documented online — but timing context established: the 1977-1980 planning window coincided exactly with Weredale House's closure and merger into Youth Horizons (1977) — f_1184 (inferred). Shared staff 1956-1980: nothing online; Weredale staff not indexed anywhere searchable. Flag: one snippet dated Youth Horizons formation 1973 vs 1977 — paraphrase-quality, noted in article OQ2a for operator verification. Resolution: Concordia P0145/12A planning docs (physical), batshawcentreshistory.ca (operator browse). Article updated."
     },
     {
       "priority_id": "p_131",

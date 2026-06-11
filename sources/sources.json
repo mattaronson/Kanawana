@@ -5441,6 +5441,22 @@
       "extraction_version": "v4.36",
       "reliability": "secondary",
       "notes": "French NGO observatory fiche on YMCA history. Key data: January 2009 renaming of YMCA du Grand Montréal + 8 branches to 'Ys du Québec'; 2008 Ahuntsic-Cartierville centre decision; Kanawana renovations 2007-2009 framed as sustainable development. Direct fetch 403 — content via search snippets from two independent queries."
+    },
+    {
+      "source_id": "src_batshaw_history",
+      "type": "web",
+      "title": "Batshaw History Conservation Project — The History of English Social Service in Montreal (camp_weredale.html, youth_horizons.html)",
+      "date": "2020",
+      "date_precision": "approximate",
+      "origin": "web",
+      "origin_url": "http://batshawcentreshistory.ca/camp_weredale.html",
+      "cache_path": null,
+      "char_count": 0,
+      "ingested_at": "2026-06-11T19:00:00Z",
+      "extracted": true,
+      "extraction_version": "v4.36",
+      "reliability": "secondary",
+      "notes": "Dedicated heritage site for Batshaw predecessor institutions incl. Camp Weredale and Youth Horizons. Direct fetch 403; content via search snippets. CAUTION: one snippet dated Youth Horizons formation as 1973 vs 1977 elsewhere (f_0806) — unverified paraphrase, check on operator fetch. High-value operator target for Weredale-Kanawana history."
     }
   ],
   "source_count": 323

@@ -1,7 +1,7 @@
 # Camp Weredale and Its Relationship to Kanawana
 
 *Status: E1-reviewed | Sources: src_batshaw_camp_weredale, src_biographi_charles_alexander, src_lac_weredale_fonds, src_concordia_fonds, src_concordia_atom_fonds, src_ciusss_weredale_90, src_weredale_camp, src_blog_frank_crabbe*
-*Last Updated: 2026-03-15 (E1 REVIEW pass — R3 → E1)*
+*Last Updated: 2026-06-11 (p_130: two-site plan timing contextualized with 1977 Youth Horizons merger)*
 
 ## Overview
 
@@ -29,7 +29,7 @@ In 1977, Weredale House merged with Summerhill Homes, the Girls' Cottage School,
 
 ## Relationship to Camp Kanawana
 
-In 1977, the YMCA of Montreal produced situation reports profiling Kamp Kanawana, Camp Otoreke, and Camp Weredale together, and by approximately 1980 had developed plans for a proposed two-site operation combining Kanawana and Weredale.^4 The plan was ultimately abandoned; the reasons are not documented in available sources. Concordia University Archives sub-series P0145/12A (Committees) holds the relevant planning documents (1977–1983), while sub-series P0145/12F is dedicated to Camp Weredale records.^4
+In 1977, the YMCA of Montreal produced situation reports profiling Kamp Kanawana, Camp Otoreke, and Camp Weredale together, and by approximately 1980 had developed plans for a proposed two-site operation combining Kanawana and Weredale.^4 The plan was ultimately abandoned; the reasons are not documented in available sources. Notably, the planning window coincided exactly with the dissolution of Weredale's parent institution: Weredale House closed in 1977, the same year it merged into Youth Horizons.^1 The two-site discussions thus took place while Weredale's governance was in flux — a plausible context for both the plan's origin (a camp suddenly without its founding institution) and its abandonment, though this remains inference pending the planning documents themselves.^7 Concordia University Archives sub-series P0145/12A (Committees) holds the relevant planning documents (1977–1983), while sub-series P0145/12F is dedicated to Camp Weredale records.^4
 
 The camps also shared overlapping communities of Montreal youth workers. Frank Edward Crabbe (born 1946, died February 16, 1966), an ex-Weredale Boy and Camp Lewis counsellor c.1964–65, enlisted in the U.S. Marine Corps on January 7, 1965, and was killed in the Vietnam War.^6
 
@@ -41,8 +41,9 @@ The camps also shared overlapping communities of Montreal youth workers. Frank E
 
 ## Open Questions
 
-1. [Important] Why was the YMCA two-site plan for Kanawana and Weredale abandoned? What would the combined operation have looked like?
-2. [Important] Did Camp Weredale and Camp Kanawana share any staff, programming traditions, or organizational practices during the 1934–1977 period?
+1. [Important] Why was the YMCA two-site plan for Kanawana and Weredale abandoned? What would the combined operation have looked like? (June 2026: not documented online; the 1977 Weredale House/Youth Horizons merger is the documented institutional context. Resolution requires Concordia P0145/12A planning documents, 1977–1983.)
+2. [Important] Did Camp Weredale and Camp Kanawana share any staff, programming traditions, or organizational practices during the 1934–1977 period? (June 2026: nothing online; Weredale staff names are not indexed anywhere searchable. Sources: Concordia 12F, LAC Weredale House fonds, Batshaw history site — direct fetch blocked, operator can browse batshawcentreshistory.ca.)
+2a. [Verification] One June 2026 search excerpt dated Youth Horizons' formation to 1973 rather than 1977 — likely a paraphrase error, but check against batshawcentreshistory.ca/youth_horizons.html when accessible.
 3. [Nice-to-have] What is in the Weredale House fonds at LAC that might illuminate the camp's relationship to the YMCA?
 4. [Nice-to-have] Were there any other connections between Weredale House and the Montreal YMCA beyond the 1977–1980 planning documents?
 5. [Nice-to-have] What role did Frank Crabbe play at Camp Lewis, and are there other documented Weredale–Kanawana personnel crossovers?
@@ -61,3 +62,4 @@ The camps also shared overlapping communities of Montreal youth workers. Frank E
 4. Concordia University Archives: YMCA of Montreal fonds P0145, sub-series 12A (Committees, planning documents 1977–1983) and sub-series 12F (Camp Weredale records)
 5. Weredale Foundation / Camp Weredale Official Website (weredalecamp.com): current operations
 6. Colin T. Paterson, "Remembering Frank Crabbe" (blog post, 2012)
+7. Inference from the conjunction of sources 1 and 4 (f_1184): two-site planning window 1977–1980 coincided with Weredale House closure and Youth Horizons merger (1977).
