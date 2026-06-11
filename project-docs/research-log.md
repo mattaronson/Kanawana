@@ -996,3 +996,21 @@ All search results converge on the same Concordia University Archives source (P0
 
 | New facts | f_1143 through f_1159 (17 facts total this session) |
 | New sources | src_cja_annual_2008, src_batshaw_weredale, src_lac_weredale_fonds, src_westmount_mag_mclean, src_ymca_kanawana_team_2025 |
+
+## Campaign: p_127 — J.W. McConnell / Lake Wilson / Lake Desjardins / land registry (2026-06-11)
+
+**Queries attempted (8, across 2 surfaces — WebSearch + direct fetch):**
+1. `Fong "J.W. McConnell" biography "Kanawana"` — no Kanawana hits; book metadata confirmed
+2. `"lac Désjardins" OR "Lake Desjardins" Kanawana Saint-Sauveur YMCA` — NULL for lake; surfaced 2018 Desjardins Group $1M / pavilion
+3. `"lac Wilson" "Saint-Sauveur" OR "Kanawana" origine nom toponymie` — found toponymie fiche 135620 (Sainte-Lucie Lac Wilson = landowner name); CREL atlas lake link
+4. `McConnell YMCA Montreal camp Kanawana donation land OR lake history` — McConnell Foundation funding page; IA CFCF 1941 broadcast item resurfaced
+5. `"lac Desjardins" Laurentides Saint-Sauveur OR Piedmont OR "Mille-Isles" toponymie` — NULL
+6. `William Fong McConnell biography review YMCA "boys' camp" OR "summer camp"` — KEY: chapter title "Keep the Home Fires Burning: Fundraising for the YMCA in Peace and for Canada in the Great War, 1909–19"; book on IA (jwmcconnellfinan0000fong)
+7. `"lac Desjardins" "Sainte-Anne-des-Lacs" OR "Piedmont" OR "Saint-Sauveur" Québec` — NULL; SADL has 96 lakes, none named Desjardins (grandquebec.com list)
+8. `"Kanawana" "McConnell" -foundation.ca history camp lake` — no new facts
+
+**Direct fetches all 403 (proxy):** google.com/books, babel.hathitrust.org, ia*.us.archive.org fulltext-inside, crelaurentides.org atlas, toponymie.gouv.qc.ca fiches, wikimapia.org, mcconnellfoundation.ca funding-database.
+
+**Results:** f_1165–f_1167; sources src_toponymie_lac_wilson_stelucie, src_grandquebec_sadl_lakes; conflict c_006 (Lake Desjardins existence — f_0036 vs f_0023, possible conflation with 2018 Desjardins pavilion donation); src_fong_mcconnell notes updated with chapter + IA borrow path. j-w-mcconnell.md updated (new section "The Lake Desjardins Question", OQs revised). Spawned p_132 (operator: borrow Fong on IA), p_133 (resolve c_006 via oral history). Land registry: Registre foncier requires paid account — logged as blocked.
+
+**Status:** SATURATED for agent-accessible online sources.

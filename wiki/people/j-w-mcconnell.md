@@ -1,13 +1,13 @@
 # J.W. McConnell
 
-*Status: E1-reviewed | Sources: src_wikipedia_mcconnell, src_mcconnell_foundation, src_oral_aronson, src_fong_mcconnell_2008, src_kanawana_facts*
-*Last Updated: 2026-02-28 (E1 REVIEW completed)*
+*Status: E1-reviewed | Sources: src_wikipedia_mcconnell, src_mcconnell_foundation, src_oral_aronson, src_fong_mcconnell_2008, src_kanawana_facts, src_toponymie_lac_wilson_stelucie, src_grandquebec_sadl_lakes*
+*Last Updated: 2026-06-11 (Phase 2 R3 RALPH: Fong chapter identified, Lake Desjardins conflict c_006 recorded)*
 
 ## Overview
 
 John Wilson McConnell (1877–1963) was a Montreal financier, publisher, and philanthropist who became one of Canada's wealthiest men. He had a deep connection to the YMCA of Montreal, beginning when he moved into a YMCA room in 1901, and he led a major YMCA fundraising campaign in 1909 that raised $320,000 in a single 12-day campaign.^1 ^2 The McConnell Foundation, established in 1937, describes its relationship with Camp Kanawana as "long" and has funded major renovations at the camp.^2
 
-McConnell is reported to have donated Lake Desjardins to Camp Kanawana, though the date and circumstances of this donation are not documented beyond oral history.^3 It has also been claimed that Lake Wilson, the camp's second lake, is named for his eldest son, Wilson Griffith McConnell (1908–1966), but no documentary evidence has been found to verify this claim.
+McConnell is reported to have donated Lake Desjardins to Camp Kanawana, though the date and circumstances of this donation are not documented beyond oral history, and no lake by that name has been found in any documented inventory of the area (see below).^3 It has also been claimed that Lake Wilson, the camp's second lake, is named for his eldest son, Wilson Griffith McConnell (1908–1966), but no documentary evidence has been found to verify this claim.
 
 ## Early Life
 
@@ -42,16 +42,26 @@ It has been claimed that Lake Wilson at Camp Kanawana is named for McConnell's e
 - "Wilson" was also McConnell's own middle name and his mother's maiden name — the lake could be named for McConnell himself, not his son
 - Wilson McConnell was only approximately two years old when the property was acquired circa 1910
 - The 1923 *Gas Bag* lists "Lac Wilson" as an external hiking destination alongside other non-camp locations, suggesting it may have been a pre-existing geographic name^4
-- The Commission de toponymie du Québec notes "Wilson" as a common English-origin surname in Quebec toponymy, and multiple other "Lac Wilson" lakes across Quebec are named after local landowner families
+- The Commission de toponymie du Québec notes "Wilson" as a common English-origin surname in Quebec toponymy, and multiple other "Lac Wilson" lakes across Quebec are named after local landowner families — for example, the Lac Wilson in Sainte-Lucie-des-Laurentides is officially recorded as named for the landowner on whose property it sits^6
 - No document — brochures (1921–1923), the 1935 season chronicle, newsletters, archival finding aids, or web sources — explicitly connects the lake's name to any McConnell family member
+
+## The Lake Desjardins Question
+
+Oral history records that McConnell donated "Lake Desjardins" to the camp.^3 Phase 2 research (2026) could not locate any lake by that name: the camp's three documented lakes are Lake Kanawana, Lake Wilson, and Round Lake, and no "Lac Desjardins" appears in the Commission de toponymie records, the 96-lake inventory of adjacent Sainte-Anne-des-Lacs,^7 or documentation for Saint-Sauveur and Piedmont. Possible explanations, recorded in conflict c_006:
+
+1. An informal or internal camp name for a small lake (possibly Round Lake) not officially registered
+2. A conflation in memory with the 2018 Desjardins Group donation of $1 million that funded the camp's Desjardins community pavilion
+3. A lake outside the immediate municipalities searched
+
+Resolution requires oral history follow-up (queued for the operator interview instrument) or Quebec land registry records.
 
 ## Open Questions
 
-1. [Critical] Does the Fong biography (pp. 123+) mention Camp Kanawana, land donations, or lake naming?
+1. [Critical] Does the Fong biography mention Camp Kanawana, land donations, or lake naming? The relevant chapter is now identified — "Keep the Home Fires Burning: Fundraising for the YMCA in Peace and for Canada in the Great War, 1909–19" (pp. 123+) — and the full book is borrowable online at Internet Archive (item `jwmcconnellfinan0000fong`); operator borrow + index check for "Kanawana"/"camp" is the access path (p_132)
 2. [Critical] Does the McMorris thesis full text discuss the Lake Wilson naming origin or McConnell donations?
-3. [Important] What is the date and provenance of the Lake Desjardins donation claim?
+3. [Critical] What lake is "Lake Desjardins"? No lake by that name is documented near the camp (conflict c_006) — oral history follow-up needed on its identity, location, and the donation's date
 4. [Important] Do the 1933 Ralph Dawson or 1943 R.L. Charlton camp histories mention McConnell by name?
-5. [Important] Do Quebec land registry records show a Wilson family owning property in the area before the YMCA acquisition?
+5. [Important] Do Quebec land registry records show a Wilson family owning property in the area before the YMCA acquisition? (Registre foncier du Québec requires a paid account; BAnQ cadastral collections proxy-blocked — operator access required)
 6. [Nice-to-have] Are there McConnell-YMCA correspondence records in McGill Archives fonds MG4240?
 
 ## Related Articles
@@ -67,8 +77,11 @@ It has been claimed that Lake Wilson at Camp Kanawana is named for McConnell's e
 2. McConnell Foundation, "History." URL: https://mcconnellfoundation.ca/history
 3. Oral history, Matt Aronson.
 4. The Gas Bag, 1923 Re-union Number, Internet Archive.
-5. Fong, William. *J.W. McConnell: Financier, Philanthropist, Patriot.* McGill-Queen's University Press, 2008.
+5. Fong, William. *J.W. McConnell: Financier, Philanthropist, Patriot.* McGill-Queen's University Press, 2008. Borrowable: https://archive.org/details/jwmcconnellfinan0000fong
+6. Commission de toponymie du Québec, "Lac Wilson" (Sainte-Lucie-des-Laurentides), fiche 135620. URL: https://toponymie.gouv.qc.ca/ct/ToposWeb/Fiche.aspx?no_seq=135620
+7. Grand Québec, "Lacs de Sainte-Anne-des-Lacs." URL: https://grandquebec.com/eaux-du-quebec/lacs-de-sainte-anne-des-lacs/
 
 ## Research Notes
 
 <!-- RALPH R1 completed 2026-02-26. 20+ web searches by two parallel research agents. Key findings: McConnell family tree confirmed (Wilson son 1908-1966, mother's maiden name Wilson). YMCA connection: room 1901, $300K fundraising 1909, McConnell Foundation long relationship. Lake Wilson naming claim: CANNOT BE VERIFIED — plausible but no documentary evidence. 1923 Gas Bag treats Lac Wilson as external hiking destination. Commission de toponymie has no entry for this specific Lac Wilson. Highest-priority unexamined sources: Fong biography (Ch. 5 pp. 123+), McMorris thesis full text, Dawson 1933 / Charlton 1943 camp histories. Research SATURATED for online sources. -->
+<!-- RALPH R3 (p_127) completed 2026-06-11. 8 new queries. Findings: (1) Fong YMCA chapter title confirmed, book borrowable on IA (operator action p_132); (2) Lake Desjardins does NOT exist in any documented inventory near camp — conflict c_006 created (f_0036 vs f_0023), possible conflation with 2018 Desjardins Group pavilion donation; (3) toponymie fiche 135620 documents landowner-naming pattern for another Lac Wilson (f_1166); (4) land registry path blocked (Registre foncier paid account, BAnQ proxy-blocked). Direct fetches to toponymie.gouv.qc.ca, crelaurentides.org, wikimapia, mcconnellfoundation.ca, archive.org, HathiTrust, Google Books all 403. Research SATURATED for agent-accessible online sources; remaining paths are operator actions. -->

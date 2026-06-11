@@ -88,6 +88,28 @@
         "founding-1894",
         "programs-activities"
       ]
+    },
+    {
+      "conflict_id": "c_006",
+      "description": "Lake Desjardins existence/identity: oral history says McConnell donated 'Lake Desjardins' to the camp, but no lake by that name is documented at or near the site",
+      "fact_ids": [
+        "f_0036",
+        "f_0023"
+      ],
+      "entity": "Lake Desjardins",
+      "attribute": "existence_and_identity",
+      "values": [
+        "J.W. McConnell donated Lake Desjardins to Camp Kanawana (oral history, src_oral_aronson)",
+        "The camp's three lakes are Lake Kanawana, Lake Wilson, and Round Lake — no Lake Desjardins (oral history f_0023; corroborated by YMCA official descriptions of 'three private lakes')"
+      ],
+      "status": "unresolved",
+      "notes": "Phase 2 search (2026-06-11): no 'Lac Desjardins' found in Commission de toponymie results, Sainte-Anne-des-Lacs 96-lake inventory (f_1167), Piedmont, or Saint-Sauveur documentation. Possible explanations: (1) informal/internal camp name for a small lake or for Round Lake; (2) conflation in memory with the 2018 Desjardins Group $1M donation that funded the Desjardins community pavilion (f_0442, f_0926); (3) a lake outside the immediate municipalities. Resolution path: oral history follow-up (include in p_072 interview instrument) and Quebec land registry/cadastre records.",
+      "created_at": "2026-06-11T00:00:00Z",
+      "affects_articles": [
+        "j-w-mcconnell",
+        "the-kanawana-site",
+        "lake-wilson"
+      ]
     }
   ]
 }
