@@ -1,8 +1,8 @@
 {
-  "version": "v4.36",
-  "kb_version": 4.36,
+  "version": "v4.37",
+  "kb_version": 4.37,
   "migrated_from": "3.3",
-  "fact_count": 1201,
+  "fact_count": 1207,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -20592,6 +20592,112 @@
       "conflicts_with": [],
       "added_version": "v4.36",
       "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1186",
+      "claim": "The Chopsy legend as told in oral tradition: In the summer of 1945, a kitchen staff member named Charles de Grandprix, a WWI veteran who was very skilled with knives and nicknamed 'Chopsy,' was walking in the woods when he found two Senior boys who had snuck off to practice throwing axes stolen from the Hike and Trip Department's equipment room ('the Cave'). He hid behind the tree they were throwing at, intending to scare them. After hearing two axes hit the tree he jumped out, not realizing there was a third ax, which severed his arm. He grabbed the severed arm, put it in his satchel, and fled into the woods. The camp searched but could not find him and declared him dead.",
+      "sources": [
+        "src_oral_aronson"
+      ],
+      "confidence": "user_knowledge",
+      "category": "legends",
+      "entities": [
+        "Chopsy",
+        "Charles de Grandprix",
+        "Camp Kanawana"
+      ],
+      "date_ref": "1945",
+      "conflicts_with": [],
+      "added_version": "v4.37",
+      "added_by": "oral_history"
+    },
+    {
+      "fact_id": "f_1187",
+      "claim": "The Chopsy legend continues: Over the following winter, strange occurrences happened at camp. The next spring, boys on a hike found a makeshift cabin in the woods and a car stolen from a nearby town, parked between trees in a way that it could not be driven out. During the summer, dead animals were found in the woods appearing to have been mauled. A solitary senior boy who had been warned not to go into the woods alone disappeared. A search was launched but nothing was found. A counselor checked the car — the trunk, previously open, was now locked. They broke it open and found the missing boy's body, killed with an ax. The body was still warm. Chopsy was never seen again, but for years people claimed to hear chopping sounds deep in the woods late at night.",
+      "sources": [
+        "src_oral_aronson"
+      ],
+      "confidence": "user_knowledge",
+      "category": "legends",
+      "entities": [
+        "Chopsy",
+        "Camp Kanawana"
+      ],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "v4.37",
+      "added_by": "oral_history"
+    },
+    {
+      "fact_id": "f_1188",
+      "claim": "The full Chopsy legend takes approximately one hour to tell in complete detail. The story was known to campers in the early 2000s era (Matt Aronson's time).",
+      "sources": [
+        "src_oral_aronson"
+      ],
+      "confidence": "user_knowledge",
+      "category": "legends",
+      "entities": [
+        "Chopsy",
+        "Camp Kanawana"
+      ],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "v4.37",
+      "added_by": "oral_history"
+    },
+    {
+      "fact_id": "f_1189",
+      "claim": "Chopsy's real name in the legend is Charles de Grandprix. He was described as a WWI veteran and kitchen staff member who was very skilled with knives, which is how he earned the nickname 'Chopsy.'",
+      "sources": [
+        "src_oral_aronson"
+      ],
+      "confidence": "user_knowledge",
+      "category": "legends",
+      "entities": [
+        "Chopsy",
+        "Charles de Grandprix",
+        "Camp Kanawana"
+      ],
+      "date_ref": "1945",
+      "conflicts_with": [],
+      "added_version": "v4.37",
+      "added_by": "oral_history"
+    },
+    {
+      "fact_id": "f_1190",
+      "claim": "The Hike and Trip Department at Camp Kanawana had an equipment room known as 'the Cave.' In the Chopsy legend, axes were stolen from this room by senior boys.",
+      "sources": [
+        "src_oral_aronson"
+      ],
+      "confidence": "user_knowledge",
+      "category": "places",
+      "entities": [
+        "Camp Kanawana",
+        "the Cave",
+        "Hike and Trip Department"
+      ],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "v4.37",
+      "added_by": "oral_history"
+    },
+    {
+      "fact_id": "f_1191",
+      "claim": "The Chopsy legend shares several elements with the American 'Cropsey' camp-legend archetype (a disfigured figure haunting the woods near camp, an origin story involving an accident, a weapon) but is a distinct, fully developed narrative with named characters, a specific year (1945), a three-act structure, and details unique to Kanawana (the Cave, kitchen staff, WWI veteran backstory, the locked car trunk, the warm body, the chopping-sounds coda).",
+      "sources": [
+        "src_oral_aronson"
+      ],
+      "confidence": "inferred",
+      "category": "legends",
+      "entities": [
+        "Chopsy",
+        "Cropsey",
+        "Camp Kanawana"
+      ],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "v4.37",
+      "added_by": "oral_history"
     }
   ]
 }

@@ -1,7 +1,7 @@
 # Kanawana Myths and Legends
 
 *Status: E1-reviewed | Sources: 19*
-*Last Updated: 2026-02-28 (E1 REVIEW completed)*
+*Last Updated: 2026-06-11 (Chopsy legend recorded from oral history — full narrative added)*
 
 ## Overview
 
@@ -81,19 +81,19 @@ The legend is told at camps across Ontario and Nova Scotia. **Camp White Pine** 
 
 The *Fireside Canada* podcast (Episode 35, September 26, 2024, hosted by David Williams) devoted a 38-minute episode to the legend, tracing its origins "back through the decades to the original camp that spawned the story, and the tragic series of events that inspired it" [f_0542]. The legend also appeared in the 2013 film *Bunks*, where Anson Minor is a zombie summoned from a book of campfire stories.
 
-The Anson Minor legend is especially relevant to Kanawana because it demonstrates how Canadian camps develop their own localized ghost stories following the same structural pattern as American camp legends. Whether "Chopsy" at Kanawana represents a Quebec adaptation of the Cropsey/Anson Minor archetype, or a completely independent creation, remains an open question.
+The Anson Minor legend is especially relevant to Kanawana because it demonstrates how Canadian camps develop their own localized ghost stories following the same structural pattern as American camp legends. The Chopsy legend at Kanawana (see below) shares this structural pattern — a disfigured figure, an accident origin, escalating hauntings — while being a significantly more elaborate narrative than most documented variants.
 
 ### "Chopsy" at Kanawana
 
-**"Chopsy"** is reported to be a ghost story told at Camp Kanawana about an ax murderer. No published or online documentation of this specific story has been found. Over 30 web searches using the exact terms "Chopsy," "Chopsey," "Chopsie," and "Chops" combined with camp, ghost, story, axe, Quebec, Kanawana, and YMCA keywords returned zero relevant results. The name does not appear in any indexed folklore archive, academic database, Reddit discussion, or camp ghost story collection [f_0534].
+**"Chopsy"** is a ghost story told at Camp Kanawana — an hour-long, three-act narrative with named characters, a specific origin year, and details tied to Kanawana's physical site. No published or online documentation of the story has been found; it exists entirely in oral tradition. Over 30 web searches returned zero results for the name [f_0534].
 
-The name "Chopsy" -- evoking "chopping" with an axe -- closely parallels the naming pattern of Cropsey/Cropsy (from "crop" or "chop"), Stumpy (from his severed stump), and Madman Marz. Given the documented pattern where each camp localizes the "maniac in the woods" story with its own name, setting, and details, **"Chopsy" is hypothesized to be a Kanawana-specific local adaptation of this widespread archetype** [f_0537]. However, no direct documentary link between Chopsy and Cropsey has been established. This hypothesis requires oral history confirmation from alumni who can provide:
+**The Story.** According to oral tradition recorded from a 2000s-era alumnus:^11 In the summer of 1945, **Charles de Grandprix** — a WWI veteran who worked on the kitchen staff — was nicknamed "Chopsy" for his exceptional skill with knives. He had a habit of taking long walks in the woods. One day he came upon two Senior boys who had sneaked off to practice throwing stolen axes from the Hike and Trip Department's equipment room, known as "**the Cave**." Chopsy hid behind the tree they were throwing at, intending to scare them. He waited for two axes to hit the tree, then jumped out — not realizing there was a third. The third axe severed his arm. He grabbed the severed limb, shoved it in his satchel, and fled into the woods. The camp searched but could not find him, and he was declared dead.
 
-- The full narrative as told at camp (who is Chopsy, what happened, how is the story told)
-- Whether the story is tied to specific locations on the camp property
-- How long the story has been told (which decades/generations)
-- Whether there is a jump-scare or ritual element to the telling
-- Whether the story was told by counselors, senior campers, or both
+Over the following winter, strange occurrences were reported at the camp. The next spring, a group of boys on a hike found a makeshift cabin in the woods and, nearby, a car stolen from a local town, inexplicably wedged between trees so it could not be driven out. Over the summer, dead animals were found in the woods, apparently mauled. Near the end of summer, a solitary senior boy — withdrawn and prone to wandering despite warnings — disappeared. A search found nothing. A counsellor thought to check the car: the trunk, which had been open the last time anyone looked, was now locked. They broke it open and found the missing boy's body, killed with an axe. The body was still warm. Chopsy was never seen again, but for years afterward people claimed to hear the sound of someone chopping wood deep in the woods late at night [f_1186, f_1187].
+
+The full telling takes approximately an hour and contains considerably more detail than this summary [f_1188].
+
+**Analysis.** The story shares structural elements with the American "Cropsey" archetype — a figure disfigured in an accident who haunts the woods near a camp — and the naming pattern parallels Cropsey/Cropsy, Stumpy, and Madman Marz [f_0537, f_1191]. However, the Chopsy legend is a significantly more developed narrative than most documented Cropsey variants: it provides a named character with a backstory (WWI veteran, kitchen staff), a specific origin year (1945), a sympathetic accident rather than madness, and a plot structure with escalating incidents culminating in a locked-car-trunk reveal and an ambiguous coda. These elaborations suggest either extended local development over decades or an unusually skilled original storyteller — or both. Whether the story derives from the Cropsey tradition or arose independently at Kanawana remains unknown.
 
 ### Quebec Campfire Folklore Context
 
@@ -109,7 +109,7 @@ These Quebec folk traditions are strong candidates for Kanawana campfire storyte
 
 ## Open Questions
 
-1. [Critical] What is the "Chopsy" legend as told at Camp Kanawana? What is the full narrative (who is Chopsy, backstory, how the story ends)? When did it originate? Is it derived from the Cropsey legend or an independent creation? Is there a jump-scare or ritual element?
+1. ~~[Critical] What is the "Chopsy" legend as told at Camp Kanawana?~~ [Largely resolved] Full narrative recorded from oral history (f_1186–f_1191): Charles de Grandprix, WWI veteran kitchen staffer, 1945 origin, three-act structure. Remaining: when and where was it told (Council Ring, cabin, canoe trip?), was there a jump-scare or performance element, and from whom did the informant first hear it?
 2. [Important] What was "the haunted house" referenced in the 1935 camp history? It was the destination of the final-week "eating-out day" cookout (f_1185) — so a known, reachable structure. Which building was it, and what stories were told about it? (Online research exhausted; routed to oral history instrument.)
 3. [Important] What ghost stories or supernatural narratives are told at Camp Kanawana? Are any tied to specific locations (Lake Wilson, the Council Ring, the woods)? (June 2026: no online trace; routed to oral history instrument.)
 4. [Important] What popular claims about Kanawana's history circulate among alumni that may be exaggerated or inaccurate?
