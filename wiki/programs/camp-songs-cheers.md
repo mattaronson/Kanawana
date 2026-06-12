@@ -1,7 +1,7 @@
 # Camp Songs, Cheers, and Musical Traditions
 
 *Status: E1-reviewed | Sources: src_gas_bag_1923, src_brochure_1922, src_brochure_1921, src_history_1935, src_green_triangle_1938, src_concordia_fonds, src_concordia_atom_12B04, src_concordia_atom_12B07, src_oral_aronson, src_spirit_kanawana_blog, src_aca_camp_songs_history, src_wikipedia_alabama_jubilee, src_ymca_website, src_mcmorris_thesis, src_cfcf_1941*
-*Last Updated: 2026-02-28 (E1 REVIEW completed)*
+*Last Updated: 2026-06-12 (Marching Song full text and Grace rotation recorded from oral history)*
 
 ## Overview
 
@@ -45,7 +45,35 @@ The source and date of "My Kanawana" are not identified by McMorris. The text re
 
 ## The Kamp Kanawana Marching Song (The Kanawana Cheer)
 
-The **Kamp Kanawana Marching Song** — also known simply as the **Kanawana Cheer** — is the most widely known camp cheer.^7 It is a call-and-response cheer incorporating the refrain "Hail, hail, the gang's all here." Elements of the cheer include "Kamp Kanawana, are you ready?!", marching and tramping imagery ("We're gonna tramp, tramp, tramp on through the rain"), exhortations to sing ("So let's sing, sing, sing, siiiinng!"), and the camp name spelled out: "K-A-N-A-W-A-N-A, Kanawana!"^7
+The **Kamp Kanawana Marching Song** — also known simply as the **Kanawana Cheer** — is the most widely known camp cheer.^7 The full text as performed in the 2000s era, recorded from oral history:^14
+
+> **Chief:** Shhh, shhh, shhh, shhh, shhh, shhh, shhh!
+> Kamp Kanawana, are you ready?!
+> **All:** We are!
+> **Chief:** Then let's go!
+>
+> **All:**
+> Hail, Hail, the gang's all here,
+> What the heck do we care,
+> What the heck? We're the guys from Kanawana,
+> We're gonna sing our marching sooong-a!
+>
+> We're gonna shout, shout, shout like anything,
+> And through the woods we're gonna yell!
+> We're gonna yell!
+>
+> We're gonna sing, sing, sing, along the trail,
+> And through the woods we'll give a rousing hail!
+> We are the guys from Kanawana,
+> So let's sing, sing, sing, siiiinng!
+>
+> Ringle, wrangle, jingle, jangle,
+> What's the matter with the Green Triangle?
+> Sis-boom-ba-ha, Sis-boom-ba-ha,
+> Kanawana, Kanawana, Rah-rah-rah!
+> K-A-N-A-W-A-N-A,
+> K-A-N-A-W-A-N-A,
+> YEAH!
 
 ### Origins and History
 
@@ -102,7 +130,9 @@ The camp used **CFCF Radio** (Montreal, Canadian Marconi, est. 1922) for promoti
 
 ## Grace at Meals
 
-A morning devotional practice at meals is documented from at least 1922. The brochure describes "a short morning devotional period at the breakfast table" as part of the religious program, along with "the quiet period before lights out led by the tent leader" and "Sunday services in the open-air chapel and around the fire."^2 The McMorris thesis identifies "Grace" as a continuing feature of camp life.^13 The specific words of Grace as said at Kanawana have not been documented in available written sources.
+A morning devotional practice at meals is documented from at least 1922. The brochure describes "a short morning devotional period at the breakfast table" as part of the religious program, along with "the quiet period before lights out led by the tent leader" and "Sunday services in the open-air chapel and around the fire."^2 The McMorris thesis identifies "Grace" as a continuing feature of camp life.^13
+
+By the 2000s era, Grace was not a single fixed prayer but a rotation of several **sung graces**. Two identified graces are: (1) **"Johnny Appleseed"** — the folk grace widely used at North American camps ("Oh, the Lord is good to me, and so I thank the Lord..."); and (2) the lyrics of **"Joy to the World"** by Three Dog Night ("Jeremiah was a bullfrog...") adapted as a grace.^14
 
 ## Song Books and Archival Collections
 
@@ -129,8 +159,8 @@ The Color War tradition (known at Kanawana as the L&V Games) typically includes 
 
 1. [Critical] What are the lyrics to "On My Way to Kanawana" by Richard Kerr? Is a digital copy of the P145/SR0001 CD available?
 2. [Critical] What cheers are associated with the L&V Games (Voyageur cheer, Lumberman cheer, section cheers)?
-3. [Critical] What is the full text of the Kamp Kanawana Marching Song, including the rediscovered lost verses?
-4. [Important] What are the words of Grace as said at Kanawana?
+3. ~~[Critical] What is the full text of the Kamp Kanawana Marching Song?~~ [Largely resolved] Full 2000s-era text recorded from oral history (f_1196).^14 Remaining: the rediscovered lost verses from Concordia (2006) for comparison against the modern version.
+4. ~~[Important] What are the words of Grace as said at Kanawana?~~ [Partially resolved] Rotating sung graces: Johnny Appleseed and Joy to the World ("Jeremiah was a Bullfrog") identified (f_1195).^14 Remaining: any other graces in the rotation, and when the rotation replaced a single fixed grace.
 5. [Important] What songs are in the 1925/1927 song sheets and the 1941-1945 Kanawana song books?
 6. [Important] When was the "Yo Triumphy" cheer replaced by the Marching Song? Did both coexist?
 7. [Nice-to-have] What songs were commonly sung at campfire sing-songs across different eras?
@@ -160,3 +190,4 @@ The Color War tradition (known at Kanawana as the L&V Games) typically includes 
 11. CFCF Radio Broadcast transcript, June 26, 1941 [src_cfcf_1941].
 12. YMCA Quebec, "Camp YMCA Kanawana," https://www.ymcaquebec.org/en/summer-camp-kanawana [src_ymca_website].
 13. Grace McMorris, "An Experience That Lasts a Lifetime," MA thesis, Concordia University, 2023 [src_mcmorris_thesis].
+14. Oral history, Matt Aronson (2026) [src_oral_aronson].

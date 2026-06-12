@@ -1,8 +1,8 @@
 {
-  "version": "v4.41",
-  "kb_version": 4.41,
+  "version": "v4.42",
+  "kb_version": 4.42,
   "migrated_from": "3.3",
-  "fact_count": 1211,
+  "fact_count": 1213,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -20770,6 +20770,42 @@
       "date_ref": null,
       "conflicts_with": [],
       "added_version": "v4.41",
+      "added_by": "oral_history"
+    },
+    {
+      "fact_id": "f_1196",
+      "claim": "The Kanawana Marching Song/Cheer as performed in the 2000s era opens with a call-and-response: the Chief shushes the crowd ('Shhh, shhh, shhh...'), calls 'Kamp Kanawana, are you ready?!', the camp responds 'We are!', and the Chief says 'Then let's go!' The main body begins with 'Hail, Hail, the gang's all here / What the heck do we care, what the heck? / We're the guys from Kanawana / We're gonna sing our marching song-a!' followed by 'We're gonna shout, shout, shout like anything / And through the woods we're gonna yell...' It ends with a coda: 'Ringle, wrangle, jingle, jangle / What's the matter with the Green Triangle? / Sis-boom-ba-ha, Sis-boom-ba-ha / Kanawana, Kanawana, Rah-rah-rah! / K-A-N-A-W-A-N-A / K-A-N-A-W-A-N-A / YEAH!'",
+      "sources": [
+        "src_oral_aronson"
+      ],
+      "confidence": "user_knowledge",
+      "category": "songs",
+      "entities": [
+        "Camp Kanawana",
+        "Kanawana Marching Song",
+        "Green Triangle"
+      ],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "v4.42",
+      "added_by": "oral_history"
+    },
+    {
+      "fact_id": "f_1197",
+      "claim": "The Kanawana Marching Song/Cheer references the 'Green Triangle' in the coda ('What's the matter with the Green Triangle?'). The Green Triangle was the camp's identity symbol and the name of its newsletter (1932–1940). The cheer also opens with 'Hail, Hail, the gang's all here,' borrowing from the 1917 popular song of that title (melody from Gilbert & Sullivan's Pirates of Penzance).",
+      "sources": [
+        "src_oral_aronson"
+      ],
+      "confidence": "user_knowledge",
+      "category": "songs",
+      "entities": [
+        "Camp Kanawana",
+        "Green Triangle",
+        "Kanawana Marching Song"
+      ],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "v4.42",
       "added_by": "oral_history"
     }
   ]
