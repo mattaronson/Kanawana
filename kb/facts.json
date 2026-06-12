@@ -1,8 +1,8 @@
 {
-  "version": "v4.51",
-  "kb_version": 4.51,
+  "version": "v4.52",
+  "kb_version": 4.52,
   "migrated_from": "3.3",
-  "fact_count": 1233,
+  "fact_count": 1236,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -21173,6 +21173,59 @@
       "date_ref": "pre-1985",
       "conflicts_with": [],
       "added_version": "v4.51",
+      "added_by": "oral_history"
+    },
+    {
+      "fact_id": "f_1218",
+      "claim": "The Council Ring is located in the far west end of the camp, a 10-15 minute walk past the Senior Boys section. It remains an important ceremonial site in the 2000s era. It hosts the Opening Campfire for each session, the opening campfire of the L&V Games, and the Closing Fire of the summer.",
+      "sources": [
+        "src_oral_aronson"
+      ],
+      "confidence": "user_knowledge",
+      "category": "places",
+      "entities": [
+        "Council Ring",
+        "Camp Kanawana",
+        "L&V Games"
+      ],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "v4.52",
+      "added_by": "oral_history"
+    },
+    {
+      "fact_id": "f_1219",
+      "claim": "The Council Ring has a tradition of burning a 'time capsule' containing the summer's record of important people, events, and moments at the Closing Fire, then digging it up to read at the following year's Opening Fire. This tradition is believed to be very old, possibly dating to the 1920s or 1930s.",
+      "sources": [
+        "src_oral_aronson"
+      ],
+      "confidence": "user_knowledge",
+      "category": "traditions",
+      "entities": [
+        "Council Ring",
+        "Camp Kanawana",
+        "time capsule"
+      ],
+      "date_ref": "c. 1920s-1930s?",
+      "conflicts_with": [],
+      "added_version": "v4.52",
+      "added_by": "oral_history"
+    },
+    {
+      "fact_id": "f_1220",
+      "claim": "The Council Ring is large enough to seat the entire camp (200+ people) on log benches made from trees from the site, set in three rows around a large central fire bowl made of stones from the site. The bonfires are massive — sometimes 10-12 feet of firewood stacked, with flames reaching 15-20 feet high. The area above the fire pit is kept clear of tree branches.",
+      "sources": [
+        "src_oral_aronson"
+      ],
+      "confidence": "user_knowledge",
+      "category": "places",
+      "entities": [
+        "Council Ring",
+        "Camp Kanawana"
+      ],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "v4.52",
       "added_by": "oral_history"
     }
   ]
