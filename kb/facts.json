@@ -1,8 +1,8 @@
 {
-  "version": "v4.50",
-  "kb_version": 4.50,
+  "version": "v4.51",
+  "kb_version": 4.51,
   "migrated_from": "3.3",
-  "fact_count": 1232,
+  "fact_count": 1233,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -21154,6 +21154,25 @@
       "date_ref": "c. 1981-1985",
       "conflicts_with": [],
       "added_version": "v4.50",
+      "added_by": "oral_history"
+    },
+    {
+      "fact_id": "f_1217",
+      "claim": "The dam ceremony (opening the dam between Lakes Kanawana and Wilson) was no longer practiced by the mid-1980s. An informant whose camp experience began around 1985 was not aware of the tradition, establishing a terminus ante quem: the ceremony ended sometime between 1935 (last documented) and ~1985.",
+      "sources": [
+        "src_oral_aronson"
+      ],
+      "confidence": "user_knowledge",
+      "category": "traditions",
+      "entities": [
+        "Camp Kanawana",
+        "dam ceremony",
+        "Lake Kanawana",
+        "Lake Wilson"
+      ],
+      "date_ref": "pre-1985",
+      "conflicts_with": [],
+      "added_version": "v4.51",
       "added_by": "oral_history"
     }
   ]
