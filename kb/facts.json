@@ -1,8 +1,8 @@
 {
-  "version": "v4.45",
-  "kb_version": 4.45,
+  "version": "v4.46",
+  "kb_version": 4.46,
   "migrated_from": "3.3",
-  "fact_count": 1221,
+  "fact_count": 1223,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -20954,6 +20954,45 @@
       "date_ref": null,
       "conflicts_with": [],
       "added_version": "v4.45",
+      "added_by": "oral_history"
+    },
+    {
+      "fact_id": "f_1206",
+      "claim": "According to oral history, 'Lac Desjardins' was the original name of the lake that became Lake Wilson. It was renamed after being bought and donated to the camp (by J.W. McConnell, per earlier oral history). This would explain why no 'Lac Desjardins' appears in current toponymy records — the name was replaced.",
+      "sources": [
+        "src_oral_aronson"
+      ],
+      "confidence": "user_knowledge",
+      "category": "places",
+      "entities": [
+        "Lake Wilson",
+        "Lac Desjardins",
+        "J.W. McConnell",
+        "Camp Kanawana"
+      ],
+      "date_ref": null,
+      "conflicts_with": [
+        "f_0023"
+      ],
+      "added_version": "v4.46",
+      "added_by": "oral_history"
+    },
+    {
+      "fact_id": "f_1207",
+      "claim": "According to oral history, Lake Kanawana was originally called 'Lac St Joseph.' Note: this may be a conflation with the 1894 founding site — Camp Jubilee was established at Lake Saint-Joseph near Quebec City in 1894, a different location from the current Saint-Sauveur site (acquired 1910). Whether the lake at the current site also bore a 'Saint-Joseph' name is unverified.",
+      "sources": [
+        "src_oral_aronson"
+      ],
+      "confidence": "user_knowledge",
+      "category": "places",
+      "entities": [
+        "Lake Kanawana",
+        "Lac St Joseph",
+        "Camp Kanawana"
+      ],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "v4.46",
       "added_by": "oral_history"
     }
   ]

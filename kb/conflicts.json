@@ -102,8 +102,8 @@
         "J.W. McConnell donated Lake Desjardins to Camp Kanawana (oral history, src_oral_aronson)",
         "The camp's three lakes are Lake Kanawana, Lake Wilson, and Round Lake — no Lake Desjardins (oral history f_0023; corroborated by YMCA official descriptions of 'three private lakes')"
       ],
-      "status": "unresolved",
-      "notes": "Phase 2 search (2026-06-11): no 'Lac Desjardins' found in Commission de toponymie results, Sainte-Anne-des-Lacs 96-lake inventory (f_1167), Piedmont, or Saint-Sauveur documentation. Possible explanations: (1) informal/internal camp name for a small lake or for Round Lake; (2) conflation in memory with the 2018 Desjardins Group $1M donation that funded the Desjardins community pavilion (f_0442, f_0926); (3) a lake outside the immediate municipalities. Resolution path: oral history follow-up (include in p_072 interview instrument) and Quebec land registry/cadastre records.",
+      "status": "partially_resolved",
+      "notes": "Phase 2 search (2026-06-11): no 'Lac Desjardins' found in any registry. Oral history follow-up (2026-06-12): informant states Lac Desjardins was the ORIGINAL name of the lake that became Lake Wilson — it was renamed after McConnell bought and donated it (f_1206). This resolves why no 'Lac Desjardins' appears in current records. Remaining verification: check whether historical toponymy records or pre-acquisition land documents confirm a 'Lac Desjardins' that was renamed to 'Lac Wilson.' The Commission de toponymie established 'Lac Wilson' by resolution in 1978 (f_1166). Informant also stated Lake Kanawana was originally 'Lac St Joseph' (f_1207), though this may conflate with the 1894 Camp Jubilee site at Lake Saint-Joseph near Quebec City.",
       "created_at": "2026-06-11T00:00:00Z",
       "affects_articles": [
         "j-w-mcconnell",
