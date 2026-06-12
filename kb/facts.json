@@ -1,8 +1,8 @@
 {
-  "version": "v4.52",
-  "kb_version": 4.52,
+  "version": "v4.53",
+  "kb_version": 4.53,
   "migrated_from": "3.3",
-  "fact_count": 1236,
+  "fact_count": 1237,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -21226,6 +21226,27 @@
       "date_ref": null,
       "conflicts_with": [],
       "added_version": "v4.52",
+      "added_by": "oral_history"
+    },
+    {
+      "fact_id": "f_1221",
+      "claim": "The section system at Camp Kanawana remained essentially the same from the informant's era (1980s-2000s) through to the present day, confirming the 1959 section names (Pioneers, Woodsmen, Coureurs de Bois, Pathfinders) have remained in continuous use for over 60 years.",
+      "sources": [
+        "src_oral_aronson",
+        "src_ymca_website"
+      ],
+      "confidence": "user_knowledge",
+      "category": "traditions",
+      "entities": [
+        "Camp Kanawana",
+        "Pioneers",
+        "Woodsmen",
+        "Coureurs de Bois",
+        "Pathfinders"
+      ],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "v4.53",
       "added_by": "oral_history"
     }
   ]
