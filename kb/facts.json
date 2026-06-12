@@ -1,8 +1,8 @@
 {
-  "version": "v4.42",
-  "kb_version": 4.42,
+  "version": "v4.43",
+  "kb_version": 4.43,
   "migrated_from": "3.3",
-  "fact_count": 1213,
+  "fact_count": 1217,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -20806,6 +20806,80 @@
       "date_ref": null,
       "conflicts_with": [],
       "added_version": "v4.42",
+      "added_by": "oral_history"
+    },
+    {
+      "fact_id": "f_1198",
+      "claim": "Grand Portage was one of the oldest cabins at Camp Kanawana, built sometime after the Lookout (a pre-existing structure on site before Kanawana was founded), the Dining Hall (1911), and the Infirmary (1920s?). It was situated just north of the Senior Parking Lot, to the west of the dining hall.",
+      "sources": [
+        "src_oral_aronson"
+      ],
+      "confidence": "user_knowledge",
+      "category": "places",
+      "entities": [
+        "Grand Portage",
+        "Camp Kanawana",
+        "the Lookout",
+        "Dining Hall",
+        "Infirmary",
+        "Senior Parking Lot"
+      ],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "v4.43",
+      "added_by": "oral_history"
+    },
+    {
+      "fact_id": "f_1199",
+      "claim": "Grand Portage served as the CIT (Counsellor-in-Training) director's cabin in the 1980s and 1990s.",
+      "sources": [
+        "src_oral_aronson"
+      ],
+      "confidence": "user_knowledge",
+      "category": "places",
+      "entities": [
+        "Grand Portage",
+        "Camp Kanawana",
+        "CIT"
+      ],
+      "date_ref": "1980s-1990s",
+      "conflicts_with": [],
+      "added_version": "v4.43",
+      "added_by": "oral_history"
+    },
+    {
+      "fact_id": "f_1200",
+      "claim": "According to oral history, the end of World War II was heard on the radio at Grand Portage cabin at Camp Kanawana.",
+      "sources": [
+        "src_oral_aronson"
+      ],
+      "confidence": "user_knowledge",
+      "category": "traditions",
+      "entities": [
+        "Grand Portage",
+        "Camp Kanawana",
+        "World War II"
+      ],
+      "date_ref": "1945-08",
+      "conflicts_with": [],
+      "added_version": "v4.43",
+      "added_by": "oral_history"
+    },
+    {
+      "fact_id": "f_1201",
+      "claim": "The Lookout is a structure at Camp Kanawana that pre-existed the camp's founding — it was on the site before Kanawana was established. It is described as the oldest structure on the property.",
+      "sources": [
+        "src_oral_aronson"
+      ],
+      "confidence": "user_knowledge",
+      "category": "places",
+      "entities": [
+        "the Lookout",
+        "Camp Kanawana"
+      ],
+      "date_ref": "pre-1894",
+      "conflicts_with": [],
+      "added_version": "v4.43",
       "added_by": "oral_history"
     }
   ]
