@@ -1,8 +1,8 @@
 {
-  "version": "v4.47",
-  "kb_version": 4.47,
+  "version": "v4.48",
+  "kb_version": 4.48,
   "migrated_from": "3.3",
-  "fact_count": 1224,
+  "fact_count": 1226,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -21010,6 +21010,44 @@
       "date_ref": null,
       "conflicts_with": [],
       "added_version": "v4.47",
+      "added_by": "oral_history"
+    },
+    {
+      "fact_id": "f_1209",
+      "claim": "Matt Aronson (2000s-era counsellor) wrote an elaborate creative backstory for the Chopsy character, expanding the legend with historically grounded fiction. In this backstory, Charles de Grandprix's father Louis came from Kahnawake ('Khanawake') and his grandfather was a voyageur for the Hudson's Bay Company. Charles grew up destitute in Montreal's Old Port after his mother died in childbirth and his father drank himself to death (New Year's Day, 1910). He enlisted in the Canadian Expeditionary Forces in August 1914, lying about his age. At the Second Battle of Ypres, his Ross Mark II rifle jammed and he killed enemy soldiers with a hatchet. He became feared for hand-to-hand combat in No Man's Land patrols, wielding first a bayonet, then a kitchen knife. The Germans called him 'Der Hirsch Schlachter' (the Stag Slaughterer), but it was his fellow troops who gave him the nickname 'Chopsy.' He was eventually captured and spent the rest of the war as a POW.",
+      "sources": [
+        "src_oral_aronson"
+      ],
+      "confidence": "user_knowledge",
+      "category": "legends",
+      "entities": [
+        "Chopsy",
+        "Charles de Grandprix",
+        "Camp Kanawana",
+        "Matt Aronson",
+        "Kahnawake"
+      ],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "v4.48",
+      "added_by": "oral_history"
+    },
+    {
+      "fact_id": "f_1210",
+      "claim": "The Chopsy backstory written by Matt Aronson represents a modern creative elaboration of the camp legend by an active teller — a piece of camp cultural production that demonstrates how the legend continued to develop through individual storytellers adding historically grounded fiction (CEF enlistment, Second Battle of Ypres, the Ross rifle, No Man's Land patrols) and tying the character's origins to Kahnawake, echoing the documented Kanawana/Kahnawá:ke name connection.",
+      "sources": [
+        "src_oral_aronson"
+      ],
+      "confidence": "inferred",
+      "category": "legends",
+      "entities": [
+        "Chopsy",
+        "Camp Kanawana",
+        "Kahnawake"
+      ],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "v4.48",
       "added_by": "oral_history"
     }
   ]
