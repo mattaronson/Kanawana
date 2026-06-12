@@ -1,8 +1,8 @@
 {
-  "version": "v4.44",
-  "kb_version": 4.44,
+  "version": "v4.45",
+  "kb_version": 4.45,
   "migrated_from": "3.3",
-  "fact_count": 1218,
+  "fact_count": 1221,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -20898,6 +20898,62 @@
       "date_ref": "c. 2006",
       "conflicts_with": [],
       "added_version": "v4.44",
+      "added_by": "oral_history"
+    },
+    {
+      "fact_id": "f_1203",
+      "claim": "The Longhouse was a large 2- or 3-story pavilion/boathouse on the Boating Waterfront (due south of the Dining Hall), right at the shoreline of Lake Kanawana. It was used for large group gatherings and dances. The Boating Director (at one point called 'the Admiral') had their living quarters in it.",
+      "sources": [
+        "src_oral_aronson"
+      ],
+      "confidence": "user_knowledge",
+      "category": "places",
+      "entities": [
+        "the Longhouse",
+        "Camp Kanawana",
+        "Boating Waterfront",
+        "Dining Hall",
+        "Lake Kanawana",
+        "the Admiral"
+      ],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "v4.45",
+      "added_by": "oral_history"
+    },
+    {
+      "fact_id": "f_1204",
+      "claim": "The Longhouse was demolished by controlled fire around 1979 because it was in an irreparable condition.",
+      "sources": [
+        "src_oral_aronson"
+      ],
+      "confidence": "user_knowledge",
+      "category": "places",
+      "entities": [
+        "the Longhouse",
+        "Camp Kanawana"
+      ],
+      "date_ref": "c. 1979",
+      "conflicts_with": [],
+      "added_version": "v4.45",
+      "added_by": "oral_history"
+    },
+    {
+      "fact_id": "f_1205",
+      "claim": "The Boating Director at Camp Kanawana was at one point known by the title 'the Admiral.'",
+      "sources": [
+        "src_oral_aronson"
+      ],
+      "confidence": "user_knowledge",
+      "category": "traditions",
+      "entities": [
+        "Camp Kanawana",
+        "the Admiral",
+        "Boating Director"
+      ],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "v4.45",
       "added_by": "oral_history"
     }
   ]
