@@ -1,8 +1,8 @@
 {
-  "version": "v4.46",
-  "kb_version": 4.46,
+  "version": "v4.47",
+  "kb_version": 4.47,
   "migrated_from": "3.3",
-  "fact_count": 1223,
+  "fact_count": 1224,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -20993,6 +20993,23 @@
       "date_ref": null,
       "conflicts_with": [],
       "added_version": "v4.46",
+      "added_by": "oral_history"
+    },
+    {
+      "fact_id": "f_1208",
+      "claim": "No building was known as 'the haunted house' in the 2000s era at Camp Kanawana. The identity of the 1935 'haunted house' is unknown to the informant. Other minor ghost stories besides Chopsy circulated but have not yet been documented.",
+      "sources": [
+        "src_oral_aronson"
+      ],
+      "confidence": "user_knowledge",
+      "category": "legends",
+      "entities": [
+        "Camp Kanawana",
+        "haunted house"
+      ],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "v4.47",
       "added_by": "oral_history"
     }
   ]
