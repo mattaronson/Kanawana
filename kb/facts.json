@@ -1,8 +1,8 @@
 {
-  "version": "v4.48",
-  "kb_version": 4.48,
+  "version": "v4.50",
+  "kb_version": 4.50,
   "migrated_from": "3.3",
-  "fact_count": 1226,
+  "fact_count": 1232,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -21048,6 +21048,112 @@
       "date_ref": null,
       "conflicts_with": [],
       "added_version": "v4.48",
+      "added_by": "oral_history"
+    },
+    {
+      "fact_id": "f_1211",
+      "claim": "Jay Netherwood was Director of Camp Kanawana in 1986 and 1987. He is the brother of Bruce Netherwood, who succeeded him.",
+      "sources": [
+        "src_oral_aronson"
+      ],
+      "confidence": "user_knowledge",
+      "category": "people",
+      "entities": [
+        "Jay Netherwood",
+        "Bruce Netherwood",
+        "Camp Kanawana"
+      ],
+      "date_ref": "1986-1987",
+      "conflicts_with": [],
+      "added_version": "v4.49",
+      "added_by": "oral_history"
+    },
+    {
+      "fact_id": "f_1212",
+      "claim": "Bruce Netherwood was Director of Camp Kanawana from 1988 to 1994. He is the brother of Jay Netherwood, who preceded him as director.",
+      "sources": [
+        "src_oral_aronson"
+      ],
+      "confidence": "user_knowledge",
+      "category": "people",
+      "entities": [
+        "Bruce Netherwood",
+        "Jay Netherwood",
+        "Camp Kanawana"
+      ],
+      "date_ref": "1988-1994",
+      "conflicts_with": [],
+      "added_version": "v4.49",
+      "added_by": "oral_history"
+    },
+    {
+      "fact_id": "f_1213",
+      "claim": "Joanna AA Hode was Director of Camp Kanawana from 1995 to 2000.",
+      "sources": [
+        "src_oral_aronson"
+      ],
+      "confidence": "user_knowledge",
+      "category": "people",
+      "entities": [
+        "Joanna Hode",
+        "Camp Kanawana"
+      ],
+      "date_ref": "1995-2000",
+      "conflicts_with": [],
+      "added_version": "v4.49",
+      "added_by": "oral_history"
+    },
+    {
+      "fact_id": "f_1214",
+      "claim": "Morgan Carter was Director of Camp Kanawana in 2001 and 2002.",
+      "sources": [
+        "src_oral_aronson"
+      ],
+      "confidence": "user_knowledge",
+      "category": "people",
+      "entities": [
+        "Morgan Carter",
+        "Camp Kanawana"
+      ],
+      "date_ref": "2001-2002",
+      "conflicts_with": [],
+      "added_version": "v4.49",
+      "added_by": "oral_history"
+    },
+    {
+      "fact_id": "f_1215",
+      "claim": "Dave Leduc was Director of Camp Kanawana in 2003.",
+      "sources": [
+        "src_oral_aronson"
+      ],
+      "confidence": "user_knowledge",
+      "category": "people",
+      "entities": [
+        "Dave Leduc",
+        "Camp Kanawana"
+      ],
+      "date_ref": "2003",
+      "conflicts_with": [],
+      "added_version": "v4.49",
+      "added_by": "oral_history"
+    },
+    {
+      "fact_id": "f_1216",
+      "claim": "Peter Goddard was Director of Camp Kanawana before Jay Netherwood (1986). His exact years are uncertain, but he served sometime in the early-to-mid 1980s, between Dave Twynam (~1980) and Jay Netherwood (1986).",
+      "sources": [
+        "src_oral_aronson"
+      ],
+      "confidence": "user_knowledge",
+      "category": "people",
+      "entities": [
+        "Peter Goddard",
+        "Camp Kanawana",
+        "Jay Netherwood",
+        "Dave Twynam"
+      ],
+      "date_ref": "c. 1981-1985",
+      "conflicts_with": [],
+      "added_version": "v4.50",
       "added_by": "oral_history"
     }
   ]
