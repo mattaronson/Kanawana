@@ -1,8 +1,8 @@
 {
-  "version": "v4.43",
-  "kb_version": 4.43,
+  "version": "v4.44",
+  "kb_version": 4.44,
   "migrated_from": "3.3",
-  "fact_count": 1217,
+  "fact_count": 1218,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -20880,6 +20880,24 @@
       "date_ref": "pre-1894",
       "conflicts_with": [],
       "added_version": "v4.43",
+      "added_by": "oral_history"
+    },
+    {
+      "fact_id": "f_1202",
+      "claim": "Grand Portage cabin was demolished around 2006 to make way for the new washroom buildings constructed as part of the green shift / Clivus Multrum composting toilet installation. The new washroom buildings bear the Grand Portage name.",
+      "sources": [
+        "src_oral_aronson"
+      ],
+      "confidence": "user_knowledge",
+      "category": "places",
+      "entities": [
+        "Grand Portage",
+        "Camp Kanawana",
+        "Clivus Multrum"
+      ],
+      "date_ref": "c. 2006",
+      "conflicts_with": [],
+      "added_version": "v4.44",
       "added_by": "oral_history"
     }
   ]
