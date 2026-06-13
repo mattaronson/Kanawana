@@ -5601,7 +5601,39 @@
       "extraction_version": null,
       "reliability": "primary",
       "notes": "Book-length history of Lower Canada College. May contain references to YMCA or Camp Kanawana connections via shared motto 'Non Nobis Solum.' Listed on Internet Archive but not yet borrowed/accessed. Operator action required: borrow and search for YMCA/camp/Kanawana references."
+    },
+    {
+      "source_id": "src_journal_acces_erabliere",
+      "type": "web",
+      "title": "Une érablière à Ste-Marguerite pour se sucrer le bec — Journal Accès",
+      "date": "2005",
+      "date_precision": "approximate",
+      "origin": "web",
+      "origin_url": "https://www.journalacces.ca/actualite/environnement/une-erabliere-a-ste-marguerite-pour-se-sucrer-le-bec/",
+      "cache_path": null,
+      "char_count": 0,
+      "ingested_at": "2026-06-13T07:00:00Z",
+      "extracted": false,
+      "extraction_version": null,
+      "reliability": "secondary",
+      "notes": "Article about Érablière Ste-Marguerite at 54 Chemin d'Entrelacs, former Camp Oolahwan site. Purchased 2005 by Louis Pratt and Louis Nault."
+    },
+    {
+      "source_id": "src_assoc_lac_walfred",
+      "type": "web",
+      "title": "Association du Lac Walfred website",
+      "date": "2026",
+      "date_precision": "year",
+      "origin": "web",
+      "origin_url": "https://associationlacwalfred.com/",
+      "cache_path": null,
+      "char_count": 0,
+      "ingested_at": "2026-06-13T07:00:00Z",
+      "extracted": false,
+      "extraction_version": null,
+      "reliability": "secondary",
+      "notes": "Homeowners association for Club Lac Walfred development on former Camp Oolahwan property. Owl logo in memory of camp."
     }
   ],
-  "source_count": 332
+  "source_count": 334
 }

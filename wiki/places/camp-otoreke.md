@@ -41,7 +41,7 @@ Camp Otoreke was not the only organized camp in the Saint-Adolphe-d'Howard area.
 
 ## Closure
 
-Camp Otoreke closed in 1982 after nearly 90 years of continuous operation.^1 The reasons for closure and the fate of the island property are not documented in available sources.
+Camp Otoreke closed in 1982 after nearly 90 years of continuous operation.^1 The YMCA sold the property in 1987.^1 The reasons for closure and the current status of the three islands are not documented in available sources.
 
 ## Open Questions
 

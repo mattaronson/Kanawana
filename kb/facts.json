@@ -1,8 +1,8 @@
 {
-  "version": "v4.60",
-  "kb_version": 4.60,
+  "version": "v4.63",
+  "kb_version": 4.63,
   "migrated_from": "3.3",
-  "fact_count": 1253,
+  "fact_count": 1259,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -21553,6 +21553,113 @@
       "date_ref": "1972",
       "conflicts_with": [],
       "added_version": "v4.60",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1238",
+      "claim": "A silent 1960s film of Camp Kanawana showing swimming and diving scenes is available on YouTube (title: 'YMCA: Kamp Kanawana (no sound)', ID: ZrUuQ1SU7q8). This is distinct from the 1993 Cathy Reeves documentary. The footage appears to be from the YMCA of Montreal archival collection.",
+      "sources": [
+        "src_youtube_kanawana_silent_1960s"
+      ],
+      "confidence": "stated",
+      "category": "media",
+      "entities": [
+        "Camp Kanawana"
+      ],
+      "date_ref": "1960s",
+      "conflicts_with": [],
+      "added_version": "v4.61",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1239",
+      "claim": "The Clivus Multrum composting toilet system at Camp Kanawana was installed circa 2006-2007 as part of the 'virage vert' (green shift) that began in 2006. Two new green sanitary installations were tested during the summers of 2007 and 2008. Grand Portage cabin was demolished around 2006 to make way for the new washroom buildings housing the system. A TELUS sponsorship in 2010 supported continued green shift work.",
+      "sources": [
+        "src_mediaterre_kanawana_2009",
+        "src_oral_aronson"
+      ],
+      "confidence": "inferred",
+      "category": "infrastructure",
+      "entities": [
+        "Camp Kanawana",
+        "Clivus Multrum",
+        "Grand Portage"
+      ],
+      "date_ref": "2006-2007",
+      "conflicts_with": [],
+      "added_version": "v4.62",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1240",
+      "claim": "The Camp Oolahwan property at 54 Chemin d'Entrelacs, Sainte-Marguerite-du-Lac-Masson was sold after the camp's 2005 closure. It was purchased by Louis Pratt in partnership with Louis Nault. The site became Érablière Ste-Marguerite (sugar shack) and Aventure Oolahwan (outdoor activities). A luxury vacation cottage development called Club Lac Walfred was built on the broader property by Habitations Germat / Timber Block Homes circa 2015.",
+      "sources": [
+        "src_journal_acces_erabliere",
+        "src_assoc_lac_walfred"
+      ],
+      "confidence": "stated",
+      "category": "places",
+      "entities": [
+        "Camp Oolahwan",
+        "Lake Walfred",
+        "Sainte-Marguerite-du-Lac-Masson"
+      ],
+      "date_ref": "2005",
+      "conflicts_with": [],
+      "added_version": "v4.63",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1241",
+      "claim": "Surviving traces of Camp Oolahwan at the former site include a hiking trail, bird feeder, volleyball court, and the main building with cafeteria. The Association du Lac Walfred (homeowners association for the cottage development) adopted an owl logo in memory of Camp Oolahwan's own owl logo.",
+      "sources": [
+        "src_assoc_lac_walfred"
+      ],
+      "confidence": "stated",
+      "category": "places",
+      "entities": [
+        "Camp Oolahwan",
+        "Association du Lac Walfred"
+      ],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "v4.63",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1242",
+      "claim": "YWCA Camp Hochelaga in Vermont is described as 'the last residential YWCA summer camp,' suggesting that Camp Oolahwan's 2005 closure was part of a broader YWCA trend of exiting residential camp operations. No YWCA public source states a specific reason for Oolahwan's closure.",
+      "sources": [
+        "src_ywca_oolahwan_history"
+      ],
+      "confidence": "inferred",
+      "category": "camping_movement",
+      "entities": [
+        "Camp Oolahwan",
+        "YWCA",
+        "Camp Hochelaga"
+      ],
+      "date_ref": "2005",
+      "conflicts_with": [],
+      "added_version": "v4.63",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1243",
+      "claim": "Camp Otoreke closed in 1982. The YMCA sold the property in 1987. After closure, the three-island site's current status is unknown. The camp had operated for nearly 90 years of continuous use (1894-1982).",
+      "sources": [
+        "src_qahn_howard"
+      ],
+      "confidence": "stated",
+      "category": "places",
+      "entities": [
+        "Camp Otoreke",
+        "Lake Saint-Joseph",
+        "Saint-Adolphe-d'Howard"
+      ],
+      "date_ref": "1982",
+      "conflicts_with": [],
+      "added_version": "v4.63",
       "added_by": "ralph_loop"
     }
   ]

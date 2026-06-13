@@ -1498,3 +1498,16 @@ Research status: SATURATED for online sources. Physical archives needed for adva
 2026-06-13T05:00:00Z | RESEARCH | p_143 | LCC-Kanawana motto connection: Stuart McLean confirmed as personal bridge (LCC student → Kanawana counsellor). Penton book (1972) identified as new source lead. No smoking gun for adoption pathway. f_1236, f_1237 added.
 2026-06-13T05:00:00Z | RESEARCH | p_144 | Camp Weredale-Kanawana connections: no new facts. Existing article comprehensive. Concordia P0145/12A remains only path for two-site plan details.
 2026-06-13T05:00:00Z | WRITE | traditions-and-culture | Added Stuart McLean as LCC-Kanawana personal bridge in motto section.
+2026-06-13T06:00:00Z | RESEARCH | env-agent | Environmental/facilities agent completed. Clivus Multrum installed ~2006-2007 (tested summers 2007/2008). 2023 fire details confirmed (already in KB as f_0557). Golf course decommissioning, Katimavik construction date, acreage history: all null — require oral history.
+2026-06-13T06:00:00Z | KB | facts.json | Added f_1239 (Clivus Multrum installation timing). Version updated to v4.62, fact_count 1255.
+2026-06-13T06:00:00Z | WRITE | environmental-history | Updated Composting System section with installation timing. OQ1 resolved. Source ^18 added.
+2026-06-13T06:00:00Z | RESEARCH | smee-agent | Edgar Smee sub-agent completed. Extensive biographical data found BUT all already in KB and article (E1-reviewed). No new facts. Career 1942-1968 remains unknown.
+2026-06-13T06:00:00Z | RESEARCH | hanagan-agent | R.H. Hanagan sub-agent still running, finding null results across 20+ searches. Surname rarity noted — possible transcription error from "Hanigan" or "Hannigan."
+2026-06-13T07:00:00Z | RESEARCH | hanagan-agent | R.H. Hanagan agent COMPLETED. 30+ searches, all null. Best lead: Ronald Henry Hanagan (b. 1910, Toronto, Ancestry.com) but no Montreal/YMCA connection. Lovell's Montreal City Directory is most promising remaining path. EXHAUSTED for online research.
+2026-06-13T07:00:00Z | RESEARCH | oolahwan-agent | Camp Oolahwan closure agent COMPLETED. Major findings: property sold 2005 to Pratt/Nault, became Érablière Ste-Marguerite + Aventure Oolahwan. Club Lac Walfred cottages ~2015. Owl logo homage. Closure part of broader YWCA trend. f_1240-f_1242 added. 2 sources added.
+2026-06-13T07:00:00Z | RESEARCH | perrot-agent | Camp Perrot agent COMPLETED. Exhausted (30+ searches). Only source is Concordia Archives P0145/12G. No location, dates, or type confirmed online.
+2026-06-13T07:00:00Z | RESEARCH | wilson-agent | Lake Wilson naming agent COMPLETED. McConnell maternal "Wilson" hypothesis remains strongest. No new facts beyond existing KB. Saturated for online sources.
+2026-06-13T07:00:00Z | KB | facts.json | Added f_1240-f_1243. Version v4.63, fact_count 1259.
+2026-06-13T07:00:00Z | WRITE | camp-oolahwan | Updated with closure aftermath, property sale, surviving traces, YWCA trend context. OQ2 partially resolved. Sources ^9-^10 added.
+2026-06-13T07:00:00Z | WRITE | camp-otoreke | Updated closure section with 1987 sale date from QAHN source (already cited).
+2026-06-13T07:00:00Z | RESEARCH | otoreke-sale | Camp Otoreke sold 1987 (QAHN snippet). f_1243 added.

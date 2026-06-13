@@ -1,6 +1,6 @@
 # Camp Oolahwan
 
-*Status: stub | Sources: 8*
+*Status: stub | Sources: 10*
 *Last Updated: 2026-03-24 (R2 — programming details, Summer Space Day Camp successor, centennial committee)*
 
 ## Overview
@@ -25,16 +25,20 @@ Camp Oolahwan's programming focused on developing healthy minds and bodies throu
 
 Camp Oolahwan's connection to Camp Kanawana runs through the YMCA/YWCA Montreal institutional network. Both camps were operated by branches of the same parent organization. Direct inter-camp contact is documented: YWCA Camp Oolahwan sent visitors to Kanawana, and in 1946, Kanawana campers were covered in cocoa powder to greet Oolahwan visitors as "Indians."^6
 
-## Centennial and Closure
+## Closure and Aftermath
 
-Camp Oolahwan closed in 2005 after 88 years of operation.^1 Upon closure, the YWCA launched "Summer Space Day Camp," an urban day camp sharing Oolahwan's objectives of empowering young women through self-confidence, healthy habits, and leadership, but in a city environment rather than a residential camp setting.^1
+Camp Oolahwan closed in 2005 after 88 years of operation.^1 The YWCA has never publicly stated a specific reason for the closure. YWCA Camp Hochelaga in Vermont is described as "the last residential YWCA summer camp," suggesting Oolahwan's closure was part of a broader YWCA trend of exiting residential camp operations.^9 Upon closure, the YWCA launched "Summer Space Day Camp," an urban day camp sharing Oolahwan's objectives of empowering young women through self-confidence, healthy habits, and leadership, but in a city environment rather than a residential camp setting.^1
+
+The property at 54 Chemin d'Entrelacs was sold in 2005 to Louis Pratt in partnership with Louis Nault, who opened Érablière Ste-Marguerite (a sugar shack operation) and Aventure Oolahwan (outdoor activities) on the site.^9 A luxury vacation cottage development called Club Lac Walfred, built by Habitations Germat / Timber Block Homes, opened on the broader property circa 2015.^10 Surviving traces of Camp Oolahwan on the site include a hiking trail, bird feeder, volleyball court, and the main building with cafeteria. The Association du Lac Walfred adopted an owl logo in memory of Camp Oolahwan's own owl logo.^10
+
+## Centennial Reunion
 
 In 2017, a centennial reunion was held at Camp Ouareau in Notre-Dame-de-la-Merci, organized by a committee of former campers and counselors.^7 The exact dates of the reunion are disputed: the YWCA gives September 8–10, while the West Island Blog gives August 25–27 (see conflicts.json, c_002).^7 ^8
 
 ## Open Questions
 
 1. ~~[Critical] What was Camp Oolahwan's programming like?~~ [Partially resolved] General programming philosophy documented (self-esteem, sports, nature, leadership). Detailed activity schedule and section structure remain unknown.
-2. [Critical] Why did the camp close in 2005? No source explains the closure. The YWCA replaced it with Summer Space Day Camp in an urban setting.
+2. ~~[Critical] Why did the camp close in 2005?~~ [Partially resolved] No YWCA source states a specific reason. Closure appears part of broader YWCA trend of exiting residential camp operations (Camp Hochelaga in Vermont is described as "the last residential YWCA summer camp"). Property sold 2005 to Louis Pratt and Louis Nault.
 3. [Important] What was the camp's capacity and age range?
 4. [Important] Are there additional inter-camp visits between Oolahwan and Kanawana beyond 1946?
 5. [Important] The OurOntario/Sundridge-Strong collection holds a 109-page paper on Mary Edgar's contribution to camping — this is unextracted and may contain significant Oolahwan detail.^4
@@ -59,3 +63,5 @@ In 2017, a centennial reunion was held at Camp Ouareau in Notre-Dame-de-la-Merci
 6. McMorris, Grace (2023). "An Experience That Lasts a Lifetime." MA thesis, Concordia University. 1946 Oolahwan visit to Kanawana.
 7. YWCA Montreal, "Centennial of Camp Oolahwan." URL: https://www.ydesfemmesmtl.org/en/centennial-camp-oolahwan/ — gives September 8–10, 2017.
 8. West Island Blog, "Camp Oolahwan Centennial Celebration August 25-27, 2017." URL: https://www.westislandblog.com/camp-oolahwan-centennial-celebration-august-25-27-2017/
+9. Journal Accès, "Une érablière à Ste-Marguerite pour se sucrer le bec"; YWCA Montreal history page; YWCA Camp Hochelaga reference.
+10. Association du Lac Walfred website. URL: https://associationlacwalfred.com/ — owl logo homage, surviving camp traces.

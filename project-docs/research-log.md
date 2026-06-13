@@ -1222,3 +1222,51 @@ All search results converge on the same Concordia University Archives source (P0
 - All web sources exhausted
 
 **KB now at v4.59, 1251 facts.**
+
+---
+
+## Session 2026-06-13 (continued)
+
+### Environmental/Facilities Research (background agent, 55 tool calls)
+**Topics:** Clivus Multrum installation date, golf course decommissioning, Katimavik construction, 2023 fire details, camp acreage history.
+**Results:**
+- Clivus Multrum installed ~2006-2007, tested summers 2007/2008. Grand Portage demolished ~2006 for washroom buildings. → f_1239 added.
+- 2023 fire: already fully captured in f_0557 (May 16, 2023, superintendent's house, total loss).
+- Golf course decommissioning date: NULL. Oral history required.
+- Katimavik gymnasium construction date: NULL. Oral history required.
+- Camp acreage history: NULL. 550 vs 455 acre discrepancy remains.
+
+### Edgar Smee Biographical Research (background agent, 98 tool calls)
+**Result:** All information already in KB and E1-reviewed article. Agent confirmed existing data: full name Edgar E. Smee, born ~1912 Hamilton, died Feb 2002 Ottawa, wife Frieda, 4 daughters, 1983 Environmentalist of the Year, CHOP founder 1969, Conserver Society chair. Career 1942-1968 remains unknown. No new facts.
+
+### R.H. Hanagan Biographical Research (background agent, 109 tool calls)
+**Queries:** 30+ distinct searches across Legacy.com, FamilySearch, WikiTree, Find A Grave, Ancestry, newspapers.com, Concordia archives, name variant expansions (Robert, Richard, Ralph, Raymond, Roger, Reginald, Roy, Russell, Ronald H. Hanagan).
+**Result:** Completely null. "Hanagan" extremely rare surname — search engines auto-correct to Hanigan/Hannigan/Flanagan. Best lead: Ronald Henry Hanagan (b. 1910, Toronto, Ancestry.com) but no Montreal/YMCA connection. Remaining paths: Lovell's Montreal City Directory (BAnQ numérique), Concordia Archives P0145/12A (physical). **EXHAUSTED for online research.**
+
+### Camp Oolahwan Closure Research (background agent, 48 tool calls)
+**Queries:** 15+ across YWCA Montreal, West Island Blog, QC Telegraph, CBC, Journal Accès, Association du Lac Walfred, GeoNames.
+**Results:**
+- Property at 54 Chemin d'Entrelacs sold 2005 to Louis Pratt and Louis Nault
+- Became Érablière Ste-Marguerite (sugar shack) + Aventure Oolahwan (outdoor activities)
+- Club Lac Walfred luxury cottage development ~2015 by Habitations Germat/Timber Block Homes
+- Surviving camp traces: hiking trail, bird feeder, volleyball court, main building/cafeteria
+- Association du Lac Walfred uses owl logo in memory of Camp Oolahwan
+- Closure likely part of broader YWCA trend (Camp Hochelaga VT = "last residential YWCA camp")
+- No specific closure reason stated by YWCA in any public source
+→ f_1240-f_1242 added. 2 sources added. Article updated.
+
+### Camp Perrot Research (background agent, 64 tool calls)
+**Queries:** 30+ across Google, Concordia AtoM, IA, newspapers, BAnQ, Facebook, eBay/Etsy.
+**Result:** Completely exhausted. Only source is Concordia Archives P0145/12G finding aid. No location, dates, or type confirmed. Physical archive access required.
+
+### Lake Wilson Naming Research (background agent, 49 tool calls)
+**Result:** McConnell maternal "Wilson" hypothesis confirmed as strongest (mother Margaret Anne Wilson). Wilson Griffith McConnell (son, b. 1908) also plausible. Pre-existing local landowner hypothesis supported by 1923 Gas Bag listing. No definitive answer — 1933 Dawson history and Fong biography are best remaining paths. **Saturated.**
+
+### Camp Otoreke Sale Date
+**Source:** QAHN search snippet confirms YMCA sold Otoreke property 1987 (5 years after 1982 closure). → f_1243 added.
+
+### Directorship Gap 1947-1958
+**Queries:** 5 direct searches for YMCA Montreal camp directors from 1947-1958.
+**Result:** No new directors identified. Concordia Archives 12A (seven-year summary 1955-1961, season reports 1958-59) are the access path. **Saturated for online.**
+
+**KB now at v4.63, 1259 facts. Sources: 334.**
