@@ -1,7 +1,7 @@
 # Traditions and Culture at Kanawana
 
 *Status: E1-reviewed | Sources: 20*
-*Last Updated: 2026-03-17 (orphan fact integration: Cicero etymology, Green Triangle award, Leigh Evans L&V description, Carol Skinner motto quote)*
+*Last Updated: 2026-06-13 (oral history: Council Ring time capsule, dam ceremony terminus, tradition survival assessment)*
 
 ## Overview
 
@@ -50,8 +50,8 @@ Documented ceremonies from the archives include:^10 ^11
 - **Firelighting ceremony** (1936): Catalogued in the Concordia archives but no detailed description has been recovered.
 - **Fire of Friendship / Kanawana Show** (1939): A combined ceremony and performance event. In 1942, the Fire of Friendship programme was used to welcome the Boys of Tamaracouta (a Scout camp), featuring fire-lighting, hymns, and prayers.^4
 - **KK pageant scripts** (1931–1932): Theatrical performances for campers and visitors.
-- **Council Ring closing**: A season-end gathering where a record of the season's activities was buried, followed by a "Leaders Grand Feed."^7
-- **Dam release**: The dam was opened at the end of the 1935 season as a ceremonial close.^5
+- **Council Ring closing and time capsule**: A season-end gathering where a record of the season's activities was buried, followed by a "Leaders Grand Feed."^7 Oral history confirms this tradition continued into the 2000s era: a "time capsule" containing the summer's record of important people, events, and moments is burned at the Closing Fire, then dug up the following year to be read aloud at the Opening Fire. The tradition is believed to be very old, possibly dating to the 1920s or 1930s.^21
+- **Dam release**: The dam was opened at the end of the 1935 season as a ceremonial close.^5 By the mid-1980s, this ceremony was no longer practiced.^21
 
 End-of-season traditions included all-season camper banquets (1938 and 1939), Best Camper Shields, and time capsule burials.^5 ^11
 
@@ -79,7 +79,7 @@ Known recipients include: Richard "Itche" Kerr (2007, composer of the camp song)
 ## Open Questions
 
 1. [Critical] When did the camp adopt the Latin motto "Non Nobis Solum" in place of "Each for all and all for each"?
-2. [Critical] Which pre-WWII traditions survived into the modern era? Only the Council Ring and L&V Games are documented as continuous.
+2. ~~[Critical] Which pre-WWII traditions survived into the modern era?~~ [Partially resolved] Oral history (2026-06-13) confirms: the Council Ring ceremonies (Opening/Closing/L&V fires), the time capsule burial/retrieval tradition, the section system (renamed 1959), and the Kanawana Marching Song all survived. The dam ceremony did not survive past ~1985. The Shawbridge Meet, Pyjama Parade, and Eating-Out Day/Haunted House status are unknown.
 3. [Important] What was the "Torch Ceremony for World Friendship"? Context suggests an international/peace-themed event.
 4. [Important] When did the Shawbridge Meet end? It ran from ~1912 through at least 1935.
 5. [Important] What are the details of the firelighting ceremony (1936) and fire of friendship (1939)?
@@ -118,3 +118,4 @@ Known recipients include: Richard "Itche" Kerr (2007, composer of the camp song)
 18. YMCA Quebec, "Carol Skinner Receives Camp YMCA Kanawana Pip Alumni Award" (2016). URL: https://www.ymcaquebec.org/en/news/als-advocate-carol-skinner-receives-camp-ymca-kanawana
 19. Reader's Digest, "Camp Shapes Lives." Charles "Smillie" Buckland account of the Green Triangle award.
 20. Leigh Evans blog, reflections on Camp Kanawana experience.
+21. Oral history, Matt Aronson (2026) [src_oral_aronson].

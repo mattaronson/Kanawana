@@ -1,8 +1,8 @@
 {
-  "version": "v4.53",
-  "kb_version": 4.53,
+  "version": "v4.54",
+  "kb_version": 4.54,
   "migrated_from": "3.3",
-  "fact_count": 1237,
+  "fact_count": 1240,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -21248,6 +21248,62 @@
       "conflicts_with": [],
       "added_version": "v4.53",
       "added_by": "oral_history"
+    },
+    {
+      "fact_id": "f_1222",
+      "claim": "Morgan M. Carter, identified by oral history as Camp Kanawana director in 2001-2002, is a Montreal-based architect who co-founded Atelier Schleiss Carter in 2018 with Matthieu Schleiss. His firm bio states he worked 'extensively in the non-profit sector for agencies including the YMCA and Canada World Youth' prior to architecture, and has served on the Board of Directors of YMCA Kanawana. He is adjunct faculty at McGill University (since 2011) and Université de Montréal (since 2013), and has also taught at Dalhousie, Harvard, and Carleton. Registered with the Ordre des Architectes du Québec since 2022.",
+      "sources": [
+        "src_oral_aronson",
+        "src_schleisscarter_team"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "Morgan Carter",
+        "Camp Kanawana",
+        "YMCA",
+        "Atelier Schleiss Carter",
+        "McGill University"
+      ],
+      "date_ref": "2001-2002",
+      "conflicts_with": [],
+      "added_version": "v4.54",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1223",
+      "claim": "Jay Netherwood (Camp Kanawana director 1986-1987, brother of Bruce Netherwood) has no discoverable online presence beyond a Facebook profile at facebook.com/jaynetherwood. No biographical information was found across 10+ web searches.",
+      "sources": [
+        "src_oral_aronson"
+      ],
+      "confidence": "user_knowledge",
+      "category": "people",
+      "entities": [
+        "Jay Netherwood",
+        "Bruce Netherwood",
+        "Camp Kanawana"
+      ],
+      "date_ref": "1986-1987",
+      "conflicts_with": [],
+      "added_version": "v4.54",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1224",
+      "claim": "Joanna Hode (Camp Kanawana director 1995-2000) has no discoverable online presence under any tested spelling (Hode, Houde, Hod). The surname 'Hode' is extremely rare in Quebec; 'Houde' is the common Quebec form. 16 web searches returned zero results. The 'AA' middle initials may help disambiguate if the correct surname spelling is confirmed.",
+      "sources": [
+        "src_oral_aronson"
+      ],
+      "confidence": "user_knowledge",
+      "category": "people",
+      "entities": [
+        "Joanna Hode",
+        "Camp Kanawana"
+      ],
+      "date_ref": "1995-2000",
+      "conflicts_with": [],
+      "added_version": "v4.54",
+      "added_by": "ralph_loop"
     }
   ]
 }
