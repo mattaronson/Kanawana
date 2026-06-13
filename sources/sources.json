@@ -5585,7 +5585,23 @@
       "extraction_version": "v4.58",
       "reliability": "secondary",
       "notes": "Camp Fuller (Providence YMCA) archive: documents 1932 'World-Wide Friendship' ceremony with carved sticks, autographs, fire-lighting, and friendship pledges. Direct fetch 403; content via search snippets."
+    },
+    {
+      "source_id": "src_ia_penton_lcc_history",
+      "type": "web",
+      "title": "Non Nobis Solum: The History of Lower Canada College — M.H. Penton (1972)",
+      "date": "1972",
+      "date_precision": "exact",
+      "origin": "internet_archive",
+      "origin_url": "https://archive.org/search?query=%22non+nobis+solum%22+%22lower+canada+college%22",
+      "cache_path": null,
+      "char_count": 0,
+      "ingested_at": "2026-06-13T05:00:00Z",
+      "extracted": false,
+      "extraction_version": null,
+      "reliability": "primary",
+      "notes": "Book-length history of Lower Canada College. May contain references to YMCA or Camp Kanawana connections via shared motto 'Non Nobis Solum.' Listed on Internet Archive but not yet borrowed/accessed. Operator action required: borrow and search for YMCA/camp/Kanawana references."
     }
   ],
-  "source_count": 331
+  "source_count": 332
 }

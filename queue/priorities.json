@@ -1814,6 +1814,40 @@
       "assigned_weight": "P2",
       "created_at": "2026-06-13T04:10:00Z",
       "status": "completed"
+    },
+    {
+      "priority_id": "p_143",
+      "rank": 143,
+      "type": "RESEARCH",
+      "description": "LCC-Kanawana motto connection \u2014 COMPLETED: Stuart McLean confirmed as personal bridge. Penton book (1972) identified as new source lead. f_1236, f_1237 added.",
+      "article_id": "traditions-and-culture",
+      "blocking": false,
+      "assigned_weight": "P2",
+      "created_at": "2026-06-13T05:00:00Z",
+      "status": "completed"
+    },
+    {
+      "priority_id": "p_144",
+      "rank": 144,
+      "type": "RESEARCH",
+      "description": "Camp Weredale-Kanawana connections \u2014 COMPLETED: no new facts. Existing article comprehensive. Concordia P0145/12A required for two-site plan details.",
+      "article_id": "camp-weredale",
+      "blocking": false,
+      "assigned_weight": "P2",
+      "created_at": "2026-06-13T05:00:00Z",
+      "status": "completed"
+    },
+    {
+      "priority_id": "p_145",
+      "rank": 145,
+      "type": "RESEARCH",
+      "description": "Borrow Penton book 'Non Nobis Solum: The History of Lower Canada College' (1972) on Internet Archive. Search for YMCA/camp/Kanawana references.",
+      "article_id": "traditions-and-culture",
+      "blocking": true,
+      "blocking_reason": "Requires operator Internet Archive borrow account",
+      "assigned_weight": "P2",
+      "created_at": "2026-06-13T05:00:00Z",
+      "status": "blocked"
     }
   ]
 }

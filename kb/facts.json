@@ -1,8 +1,8 @@
 {
-  "version": "v4.59",
-  "kb_version": 4.59,
+  "version": "v4.60",
+  "kb_version": 4.60,
   "migrated_from": "3.3",
-  "fact_count": 1251,
+  "fact_count": 1253,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -21514,6 +21514,45 @@
       "date_ref": "2024",
       "conflicts_with": [],
       "added_version": "v4.59",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1236",
+      "claim": "Stuart McLean attended Lower Canada College for high school before becoming a counsellor at Camp Kanawana in 1969. Both institutions use the motto 'Non Nobis Solum.' McLean is the only documented individual known to have attended both LCC and Kanawana, making him a confirmed personal bridge between the two institutions. However, no documented evidence exists of a deliberate motto adoption pathway from LCC to Kanawana.",
+      "sources": [
+        "src_ourkids_mclean",
+        "src_montrealer_mclean"
+      ],
+      "confidence": "inferred",
+      "category": "traditions",
+      "entities": [
+        "Stuart McLean",
+        "Lower Canada College",
+        "Camp Kanawana",
+        "Non Nobis Solum"
+      ],
+      "date_ref": "1969",
+      "conflicts_with": [],
+      "added_version": "v4.60",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1237",
+      "claim": "M.H. Penton authored 'Non Nobis Solum: The History of Lower Canada College' (1972), a history of the school that may contain references to YMCA or camp connections. The book is listed on Internet Archive but has not been accessed. LCC founder Charles Sanderson Fosbery adopted 'Non Nobis Solum' from his family crest when the school opened in 1909.",
+      "sources": [
+        "src_ia_penton_lcc_history"
+      ],
+      "confidence": "stated",
+      "category": "sources",
+      "entities": [
+        "Lower Canada College",
+        "M.H. Penton",
+        "Charles Sanderson Fosbery",
+        "Non Nobis Solum"
+      ],
+      "date_ref": "1972",
+      "conflicts_with": [],
+      "added_version": "v4.60",
       "added_by": "ralph_loop"
     }
   ]
