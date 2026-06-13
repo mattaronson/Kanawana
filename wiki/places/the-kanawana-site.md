@@ -1,7 +1,7 @@
 # The Kanawana Site
 
 *Status: E1-reviewed | Sources: src_ymca_website, src_kanawana_facts, src_brochure_1921, src_brochure_1922, src_gas_bag_1923, src_green_triangle_1938, src_mcmorris_thesis, src_concordia_fonds, src_wikidata_lac_kanawana, src_lapresse_ymca_2018, src_weredale_camp, src_mysummercamps_kanawana, src_crel_lac_kanawana, src_postmedia_nature_deficit_2026, src_ymca_kanawana_groups_rentals, src_ymca_kanawana_hebergement_fr, src_bonjour_quebec_kanawana, src_clivus_multrum_projects*
-*Last Updated: 2026-03-17 (winter programming, environmental infrastructure, seasonal rental windows added)*
+*Last Updated: 2026-06-13 (oral history: Grand Portage, Longhouse, the Lookout, the Cave, Lake Desjardins/Wilson renaming)*
 
 ## Overview
 
@@ -17,7 +17,7 @@ The camp is situated at 673 Saint-Elmire Street in Saint-Sauveur-des-Monts,^17 a
 The camp's main lake, used for swimming, boating, and waterfront activities. The sand beach has a marked swimming area with canoes, kayaks, paddleboards, a water trampoline, a barge, and a rescue boat.^7 Environmental monitoring data from the Conseil régional de l'environnement des Laurentides (CREL) records the lake's surface area as 0.235 km², maximum depth 12.5 metres, mean depth 5.4 metres, altitude 318.4 metres above sea level, watershed area 5.17 km², and a water renewal time of 0.43 years.^16
 
 ### Lake Wilson
-Described as "one of the most beautiful parts of the site," noted for its views, sunsets, and opportunities for stargazing.^8 Year-round private camp sites are available at Lake Wilson, providing a more secluded experience than the main site.^1 In 1923, Lac Wilson was among the hike destinations from camp.^6
+Described as "one of the most beautiful parts of the site," noted for its views, sunsets, and opportunities for stargazing.^8 Year-round private camp sites are available at Lake Wilson, providing a more secluded experience than the main site.^1 In 1923, Lac Wilson was among the hike destinations from camp.^6 According to oral history, the lake was originally called **Lac Desjardins** and was renamed after J.W. McConnell bought and donated it to the camp.^23 The Commission de toponymie du Québec established the name "Lac Wilson" by resolution in 1978. See [[people/j-w-mcconnell|J.W. McConnell]] for the donation history and the Lake Desjardins question (conflict c_006).
 
 ### Round Lake
 The camp's third private lake. Limited documentation of its use beyond the geographic fact of its presence within the property.
@@ -59,7 +59,12 @@ The modern camp includes:^7 ^9
 ### Historical Facilities
 Facilities documented from the 1920s through the 1970s include:^5 ^11
 
+- **The Lookout**: A pre-existing structure on the site before Kanawana was founded — the oldest structure on the property^23
 - Two pavilions (a Dining Pavilion and a lakeside Pavilion, both new as of 1922)
+- **Dining Hall** (1911)^23
+- **Infirmary** (1920s?)^23
+- **Grand Portage**: One of the oldest cabins, built after the Lookout, Dining Hall, and Infirmary. Located just north of the Senior Parking Lot, west of the Dining Hall. Served as CIT director's cabin in the 1980s-90s. According to oral history, the end of WWII was heard on the radio here. Demolished c. 2006 for the green shift washroom buildings, which now bear its name.^23
+- **The Longhouse**: A large 2-3 story pavilion/boathouse on the Boating Waterfront (due south of the Dining Hall), right at the shoreline. Used for large group gatherings and dances; the Boating Director ("the Admiral") had living quarters in it. Demolished by controlled fire c. 1979 due to irreparable condition.^23
 - Hospital (new as of 1922)
 - Fenced swimming pool (1922)
 - Boats and canoes
@@ -72,6 +77,7 @@ Facilities documented from the 1920s through the 1970s include:^5 ^11
 - Lacrosse field
 - An "Indian Grave" marking on the camp map
 - A totem pole (added 1927 under Harold C. Cross; still visible in 1970s photos)
+- **"The Cave"**: The Hike and Trip Department's equipment room^23
 
 A 1928 Kanawana map and a 1962 Kanawana map were both analyzed in the McMorris thesis.^12 A 1974 orienteering map (6 photocopies) is held in the Concordia Archives.^13
 
@@ -153,3 +159,4 @@ From 1977 to 1980, plans existed for a proposed two-site operation using Kanawan
 20. Bonjour Québec, "YMCA Kanawana Holiday Centre." URL: https://www.bonjourquebec.com/en-us/listing/accommodation/ymca-kanawana/0i7c
 21. YMCA Quebec, Program Specialists job posting (via The Ladders).
 22. Clivus Multrum, Parks & Recreation projects. URL: https://clivusmultrum.com/parks-recreation-toilet-system-projects.php
+23. Oral history, Matt Aronson (2026) [src_oral_aronson].
