@@ -1,7 +1,7 @@
 # Places and Locations at Camp Kanawana
 
 *Status: E1-reviewed | Sources: 18*
-*Last Updated: 2026-02-28 (E1 REVIEW completed — Ross & Macdonald discovery, Clivus Multrum, McConnell Foundation integrated)*
+*Last Updated: 2026-06-13 (oral history: Grand Portage, Longhouse, the Lookout, the Cave identified; building chronology expanded)*
 
 ## Overview
 
@@ -58,13 +58,25 @@ Located in Front Camp, the Farmhouse is a winterized building with a fully equip
 
 Also located in Front Camp, the Blockhouse is a winterized facility with similar amenities to the Farmhouse [src_ymca_website]. The name evokes frontier architecture. Its construction date and history are undocumented.
 
-### Grand Portage
+### Grand Portage (Demolished c. 2006)
 
-*The Grand Portage is known from oral tradition as a named building at Camp Kanawana. No documentation of its construction date, function, or current status has been found in available written or archival sources. The name references the fur-trade portage tradition central to Kanawana's French-Canadian wilderness identity. Whether this building is still standing or has been demolished is unknown.*
+One of the oldest cabins at Camp Kanawana, built after the Lookout (pre-existing), the Dining Hall (1911), and the Infirmary (1920s?).^15 It was situated just north of the Senior Parking Lot, to the west of the Dining Hall.^15 The cabin served as the **CIT (Counsellor-in-Training) director's cabin** in the 1980s and 1990s.^15 According to oral history, the **end of World War II was heard on the radio** in this cabin.^15
 
-### Longhouse
+Grand Portage was demolished around 2006 to make way for the new washroom buildings constructed as part of the green shift / Clivus Multrum composting toilet installation.^15 The new washroom buildings bear the Grand Portage name. The name references the fur-trade portage tradition central to Kanawana's French-Canadian wilderness identity.
 
-*The Longhouse is known from oral tradition as a named building at Camp Kanawana. No documentation of its construction, function, or fate has been found in written sources. The name may reference either Indigenous longhouse architecture or a log-cabin-style communal building. Whether the Longhouse is an alternative name for an existing structure (such as the Activity Lodge) or a distinct building that has been demolished is unknown.*
+### Longhouse (Demolished c. 1979)
+
+A large **2- or 3-story pavilion/boathouse** on the Boating Waterfront (due south of the Dining Hall), right at the shoreline of Lake Kanawana.^15 It was used for **large group gatherings and dances**, and the **Boating Director** — at one point known by the title "**the Admiral**" — had living quarters in it.^15
+
+The Longhouse was demolished by **controlled fire** around 1979 because it was in an irreparable condition.^15 The demolition falls within the Dave Twynam directorship era.
+
+### The Lookout (Pre-1894)
+
+A structure that pre-existed the camp's founding — it was on the site before Kanawana was established, making it the oldest structure on the property.^15 Its original purpose and builder are unknown. Whether it survives today is undocumented.
+
+### "The Cave" (Hike and Trip Equipment Room)
+
+The equipment room of the **Hike and Trip Department**, known as "the Cave."^15 Referenced in the Chopsy legend as the location from which axes were stolen. Its location and construction date are undocumented.
 
 ### Arts and Crafts Pavilion
 
@@ -215,7 +227,9 @@ From 1977 to 1980, plans existed for a proposed two-site camping operation using
 
 | Year | Event | Source |
 |------|-------|--------|
+| pre-1894 | The Lookout — pre-existing structure on site before camp founded | [src_oral_aronson] |
 | 1910 | YMCA purchases the Saint-Sauveur site from the Page family | [src_kanawana_facts] |
+| 1911 | Dining Hall built | [src_oral_aronson] |
 | pre-1922 | Tents with wood floors as primary accommodation | [src_brochure_1921] |
 | 1922 | New Dining Pavilion, Lakeside Pavilion, Hospital, fenced swimming pool built | [src_brochure_1922] |
 | 1922 | Council Ring built by senior campers | [f_0231] |
@@ -230,11 +244,13 @@ From 1977 to 1980, plans existed for a proposed two-site camping operation using
 | c.1909-13 | Ross & Macdonald designs "Doctor's Cottage for Kamp Kanawana" (CCA drawings) | [f_0573] |
 | 2018 | Desjardins donates $1M for new community pavilion | [src_lapresse_ymca_2018] |
 | 2023 | Superintendent's house destroyed by fire (May 16) | [src_journal_acces_fire_2023] |
+| c. 1979 | Longhouse demolished by controlled fire (irrepairable condition) | [src_oral_aronson] |
+| c. 2006 | Grand Portage demolished for green shift washroom buildings (which bear its name) | [src_oral_aronson] |
 | 2023-27 | McConnell Foundation provides $700K for major renovations | [f_0575] |
 
 ## Open Questions
 
-1. [Critical] What are/were the Grand Portage and Longhouse? When were they built, what were they used for, and are they still standing?
+1. ~~[Critical] What are/were the Grand Portage and Longhouse?~~ [Resolved] Oral history (2026-06-13): Grand Portage was an early cabin (CIT director's, demolished ~2006 for washrooms). Longhouse was a 2-3 story boathouse on the waterfront (demolished by controlled fire ~1979). The Lookout (pre-1894) and "the Cave" (Hike & Trip equipment room) also documented.
 2. [Critical] Which historical buildings (1922 Lakeside Pavilion, Hospital, Icehouse, Chapel) are still present on the site in some form, and which have been demolished?
 3. [Important] When was the Katimavik gymnasium built? What was on that site previously?
 4. [Important] What is the history of the Farmhouse? Does it predate the YMCA's 1910 purchase of the property?

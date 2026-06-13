@@ -1,7 +1,7 @@
 # J.W. McConnell
 
 *Status: E1-reviewed | Sources: src_wikipedia_mcconnell, src_mcconnell_foundation, src_oral_aronson, src_fong_mcconnell_2008, src_kanawana_facts, src_toponymie_lac_wilson_stelucie, src_grandquebec_sadl_lakes*
-*Last Updated: 2026-06-11 (Phase 2 R3 RALPH: Fong chapter identified, Lake Desjardins conflict c_006 recorded)*
+*Last Updated: 2026-06-13 (oral history: Lake Desjardins = original name of Lake Wilson, c_006 partially resolved)*
 
 ## Overview
 
@@ -47,19 +47,17 @@ It has been claimed that Lake Wilson at Camp Kanawana is named for McConnell's e
 
 ## The Lake Desjardins Question
 
-Oral history records that McConnell donated "Lake Desjardins" to the camp.^3 Phase 2 research (2026) could not locate any lake by that name: the camp's three documented lakes are Lake Kanawana, Lake Wilson, and Round Lake, and no "Lac Desjardins" appears in the Commission de toponymie records, the 96-lake inventory of adjacent Sainte-Anne-des-Lacs,^7 or documentation for Saint-Sauveur and Piedmont. Possible explanations, recorded in conflict c_006:
+Oral history records that McConnell donated "Lake Desjardins" to the camp.^3 Phase 2 research (2026) could not locate any lake by that name: the camp's three documented lakes are Lake Kanawana, Lake Wilson, and Round Lake, and no "Lac Desjardins" appears in the Commission de toponymie records, the 96-lake inventory of adjacent Sainte-Anne-des-Lacs,^7 or documentation for Saint-Sauveur and Piedmont.
 
-1. An informal or internal camp name for a small lake (possibly Round Lake) not officially registered
-2. A conflation in memory with the 2018 Desjardins Group donation of $1 million that funded the camp's Desjardins community pavilion
-3. A lake outside the immediate municipalities searched
+**Oral history follow-up (2026-06-13):** The informant stated that **Lac Desjardins was the original name of the lake that became Lake Wilson** — it was renamed after McConnell bought and donated it to the camp.^3 This would explain the absence of "Lac Desjardins" from current records: the name was simply replaced. The Commission de toponymie established "Lac Wilson" by resolution in 1978 (fiche 135620),^6 so the formal renaming may have occurred at that point. If the lake was called Desjardins before the McConnell donation, this also raises the question of whether "Desjardins" refers to a prior landowner family — which could be verified through pre-acquisition land registry records.
 
-Resolution requires oral history follow-up (queued for the operator interview instrument) or Quebec land registry records.
+Conflict c_006 is now partially resolved: the oral history provides a coherent explanation for the missing name, but documentary confirmation from Quebec land registry or Concordia archival records remains outstanding.
 
 ## Open Questions
 
 1. [Critical] Does the Fong biography mention Camp Kanawana, land donations, or lake naming? The relevant chapter is now identified — "Keep the Home Fires Burning: Fundraising for the YMCA in Peace and for Canada in the Great War, 1909–19" (pp. 123+) — and the full book is borrowable online at Internet Archive (item `jwmcconnellfinan0000fong`); operator borrow + index check for "Kanawana"/"camp" is the access path (p_132)
 2. [Critical] Does the McMorris thesis full text discuss the Lake Wilson naming origin or McConnell donations?
-3. [Critical] What lake is "Lake Desjardins"? No lake by that name is documented near the camp (conflict c_006) — oral history follow-up needed on its identity, location, and the donation's date
+3. ~~[Critical] What lake is "Lake Desjardins"?~~ [Partially resolved] Oral history (2026-06-13): Lac Desjardins was the original name of Lake Wilson, renamed after McConnell donation. Remaining: documentary confirmation from land registry or Concordia archives.
 4. [Important] Do the 1933 Ralph Dawson or 1943 R.L. Charlton camp histories mention McConnell by name?
 5. [Important] Do Quebec land registry records show a Wilson family owning property in the area before the YMCA acquisition? (Registre foncier du Québec requires a paid account; BAnQ cadastral collections proxy-blocked — operator access required)
 6. [Nice-to-have] Are there McConnell-YMCA correspondence records in McGill Archives fonds MG4240?

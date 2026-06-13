@@ -1062,3 +1062,55 @@ All search results converge on the same Concordia University Archives source (P0
 ## Campaign: p_128 — Non-Chopsy myths and legends (2026-06-11)
 
 **Queries (2, both NULL; ~80 cumulative):** Kanawana ghost/campfire/reddit/blogspot; Saint-Sauveur/Piedmont maison hantée/légende (FR). **Local re-mine of cached 1935 history:** haunted house = final-week 'eating-out day' cookout destination, same day as dam-opening (f_1185); no other legend content in document. EXHAUSTED online. All legend OQs routed to oral history instrument (p_072).
+
+## Campaign: p_134 — Oral History Session (2026-06-13)
+
+**Type:** Interactive oral history interview with Matt Aronson (src_oral_aronson)
+**Instrument:** project-docs/oral-history-instrument.md (7 sections, 36 questions)
+**Method:** Questions asked one at a time per operator preference
+
+### Results by section:
+
+**Section 1 — Chopsy Legend (9 facts: f_1186-f_1194)**
+- Full three-act narrative recorded: Charles de Grandprix, WWI veteran kitchen staffer, summer 1945 origin, severed arm, locked car trunk, chopping-sounds coda
+- Telling location: at Chopsy's Car (old car wreckage) and Chopsy's Cabin (now destroyed) in the woods
+- Opening formula: counsellor-to-counsellor oral tradition chain, anchored to "right here at Camp Kanawana"
+- Concordia archives embellishment: teller references real P0145 fonds for verisimilitude
+- Creative backstory written by Aronson: CEF enlistment, Second Battle of Ypres, Kahnawake origin, "Der Hirsch Schlachter"
+
+**Section 2 — Songs and Cheers (3 facts: f_1195-f_1197)**
+- Dining hall Grace: rotating sung graces (Johnny Appleseed, Joy to the World / "Jeremiah Was a Bullfrog")
+- Kanawana Marching Song/Cheer: full text recorded with Chief call-and-response, Green Triangle coda, K-A-N-A-W-A-N-A spelling
+
+**Section 3 — Places (8 facts: f_1198-f_1205)**
+- Grand Portage: oldest cabin class, north of Senior Parking Lot, CIT director's cabin 1980s-90s, WWII radio heard here, demolished ~2006 for green shift washrooms (which bear its name)
+- The Longhouse: 2-3 story pavilion/boathouse on Boating Waterfront, used for gatherings/dances, Boating Director ("the Admiral") quarters, demolished by controlled fire ~1979
+- The Lookout: pre-existing structure on site before Kanawana founded
+- "The Cave": Hike and Trip Department equipment room
+
+**Section 4 — Lake Desjardins (2 facts: f_1206-f_1207)**
+- Lac Desjardins was original name of Lake Wilson, renamed after McConnell donation — c_006 PARTIALLY RESOLVED
+- Lake Kanawana "originally Lac St Joseph" — informant agreed likely conflation with 1894 founding site
+
+**Section 5 — Haunted House (1 fact: f_1208)**
+- No building known as "haunted house" in 2000s era. Other minor ghost stories exist but deferred.
+
+**Section 6 — Directors (6 facts: f_1211-f_1216)**
+- 1981-2003 gap filled: Peter Goddard (~1981-85?), Jay Netherwood (1986-87), Bruce Netherwood (1988-94, Jay's brother), Joanna Hode (1995-2000), Morgan Carter (2001-02), Dave Leduc (2003)
+
+**Section 7 — Traditions (4 facts: f_1217-f_1221)**
+- Dam ceremony: ended before ~1985
+- Council Ring: far west end of camp, 10-15 min past Senior Boys. Hosts Opening/Closing/L&V fires. Time capsule tradition (burn/dig up). 200+ capacity, 3 rows log benches, stone fire bowl, 10-12 ft bonfires.
+- Sections: confirmed unchanged since 1959 (Pioneers, Woodsmen, Coureurs de Bois, Pathfinders)
+
+### Follow-up biographical research (3 facts: f_1222-f_1225)
+- Morgan M. Carter FOUND: Montreal architect, YMCA background, Kanawana board member (src_schleisscarter_team)
+- Jay Netherwood: null (Facebook profile only)
+- Joanna Hode: null across 16 searches (surname rare in QC)
+- Peter Goddard: possible match Peter Gilling Goddard (1953-2016), Scouts/outdoor ed — no confirmed link
+
+**Total: 37 oral history facts + 4 research facts = 41 facts added. KB v4.55, 1241 facts.**
+
+## Campaign: p_136 — Page/Pagé family of Saint-Sauveur (2026-06-13)
+
+**Status:** In progress. 10-query biographical/genealogical search launched.
