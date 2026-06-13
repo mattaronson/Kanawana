@@ -1,8 +1,8 @@
 {
-  "version": "v4.63",
-  "kb_version": 4.63,
+  "version": "v4.64",
+  "kb_version": 4.64,
   "migrated_from": "3.3",
-  "fact_count": 1259,
+  "fact_count": 1261,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -21660,6 +21660,48 @@
       "date_ref": "1982",
       "conflicts_with": [],
       "added_version": "v4.63",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1244",
+      "claim": "William Henry Ball graduated from the International YMCA Training School (now Springfield College) in the class of 1891, alongside James Naismith (inventor of basketball) and Amos Alonzo Stagg. Ball was a founding editor of 'The Triangle' (Physical Department publication) with Stagg and Luther H. Gulick. He worked at YMCAs in Yonkers NY, Prospect Park Brooklyn, Springfield MA, and Detroit. In 1910, he launched the national YMCA swimming instruction campaign. From 1911 to 1924, he served as Secretary to the YMCA International Committee in New York City. He returned to Springfield College to teach (1927-1930) and died December 17, 1955.",
+      "sources": [
+        "src_springfield_ball_papers",
+        "src_ymca_usa_history"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "William Henry Ball",
+        "Springfield College",
+        "YMCA International Committee",
+        "James Naismith",
+        "Amos Alonzo Stagg",
+        "Luther H. Gulick"
+      ],
+      "date_ref": "1891-1955",
+      "conflicts_with": [],
+      "added_version": "v4.64",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1245",
+      "claim": "Whether William Henry Ball (Springfield College 1891, died 1955) is the same person as 'Billy' Ball who founded Camp Jubilee in 1894 at the Montreal YMCA remains unconfirmed. The timeline is plausible: Ball graduated in 1891 and could have been posted to Montreal by 1894. His known career positions (Yonkers, Brooklyn, Springfield, Detroit, then YMCA International Committee 1911-1924) do not include Montreal, but a Montreal posting between 1891 and his other documented positions has not been ruled out. The Springfield College finding aid (MS 527) may contain biographical details that confirm or deny the Montreal connection.",
+      "sources": [
+        "src_springfield_ball_papers",
+        "src_ymca_kanawana_history"
+      ],
+      "confidence": "inferred",
+      "category": "people",
+      "entities": [
+        "William Henry Ball",
+        "Billy Ball",
+        "Camp Jubilee",
+        "Montreal YMCA"
+      ],
+      "date_ref": "1891-1894",
+      "conflicts_with": [],
+      "added_version": "v4.64",
       "added_by": "ralph_loop"
     }
   ]

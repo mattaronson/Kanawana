@@ -26,9 +26,11 @@ Ball's Camp Jubilee operated on island(s) in Lake Saint-Joseph.^3 The initial en
 
 In 1909, Camp Jubilee was renamed **Camp Otoreke** (Iroquoian for "north").^3 Around this same period, the YMCA acquired a larger site in Saint-Sauveur-des-Monts from the Page family, establishing **Kamp Kanawana** as the main boys' camp. Camp Otoreke continued operating on the original Lake Saint-Joseph islands, transitioning to serve diverse populations: men 18+, women and men, married couples, and low-income families. Otoreke closed in 1982 after nearly a century of operation.^3
 
-## The William Ball Question
+## The William Henry Ball Question
 
-A William Ball (Canadian) launched a national YMCA swimming instruction program in 1910 and served as a YMCA national board member who encouraged the Red Cross to include lifesaving instruction.^4 Whether this is the same person as "Billy" Ball of 1894 is unknown. If so, it would suggest Ball had a career in YMCA boys' work extending well beyond the founding of Camp Jubilee.
+**William Henry Ball** (1866?–1955) graduated from the International YMCA Training School (now Springfield College) in the class of 1891 — the same class as James Naismith (inventor of basketball) and Amos Alonzo Stagg.^7 Ball was a founding editor of the Physical Department's publication *The Triangle* with Stagg and Luther H. Gulick.^7 He worked at YMCAs in Yonkers, Prospect Park (Brooklyn), Springfield, and Detroit before launching the national YMCA swimming instruction program in 1910.^4 ^7 From 1911 to 1924, he served as Secretary to the YMCA International Committee in New York City. He returned to Springfield College to teach (1927–1930) and died December 17, 1955.^7
+
+Whether this is the same person as "Billy" Ball who founded Camp Jubilee in 1894 is unconfirmed but plausible. Ball graduated in 1891 and could have been posted to the Montreal YMCA by 1894. His documented career positions do not list Montreal explicitly, but a posting between 1891 and his other documented positions has not been ruled out. The Springfield College finding aid (MS 527, William H. Ball Alumni Class Representative Papers) may contain biographical details that confirm or deny the Montreal connection.^7
 
 ## Open Questions
 
@@ -36,7 +38,7 @@ A William Ball (Canadian) launched a national YMCA swimming instruction program 
 2. [Critical] What was his role within the YMCA of Montreal? (Staff? Volunteer? Boys' Work Secretary?)
 3. [Important] What years did he lead the camp? Only 1894 confirmed.
 4. [Important] Birth/death dates and biographical details.
-5. [Important] Is the 1910 YMCA swimming instructor William Ball the same person?
+5. [Important] Is the 1910 YMCA swimming instructor William Henry Ball (Springfield College 1891, died 1955) the same person? The Springfield College finding aid (MS 527) is the most promising path to resolution.
 6. [Nice-to-have] Is there a connection to the Ball family in Montreal business or YMCA circles?
 7. [Nice-to-have] Concordia Archives sub-series 12L (Camp Jubilee) and the 1895 Summer Camp journal may contain earliest records.
 
@@ -52,9 +54,10 @@ A William Ball (Canadian) launched a national YMCA swimming instruction program 
 1. YMCA Quebec, "The Kanawana Story," https://www.ymcaquebec.org/en/summer-camp-kanawana/history
 2. YMCA Kamp Kanawana Facts (undated fact sheet), Internet Archive
 3. QAHN, "The YMCA Camp of Saint-Adolphe d'Howard," https://qahn.org/article/ymca-camp-saint-adolphe-dhoward
-4. YMCA Canada and related web sources
+4. YMCA Canada and YMCA USA history pages (1910 swimming instruction program, William Ball reference)
 5. McGill Archives, D.A. Budge Collection, https://archivalcollections.library.mcgill.ca/index.php/budge-d-a
 6. Concordia University Archives, YMCA of Montreal Fonds P145 (sub-series 12L, 12A)
+7. Springfield College Library, MS 527: William H. Ball Alumni Class Representative Papers. URL: https://library.springfield.edu/manuscript-collections/ms527
 
 ## Research Notes
 

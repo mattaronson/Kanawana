@@ -5634,6 +5634,39 @@
       "reliability": "secondary",
       "notes": "Homeowners association for Club Lac Walfred development on former Camp Oolahwan property. Owl logo in memory of camp."
     }
+    },
+    {
+      "source_id": "src_springfield_ball_papers",
+      "type": "catalog_reference",
+      "title": "The William H. Ball Alumni Class Representative Papers (MS 527) — Springfield College Library",
+      "date": null,
+      "date_precision": "approximate",
+      "origin": "web",
+      "origin_url": "https://library.springfield.edu/manuscript-collections/ms527",
+      "cache_path": null,
+      "char_count": 0,
+      "ingested_at": "2026-06-13T08:00:00Z",
+      "extracted": false,
+      "extraction_version": null,
+      "reliability": "primary",
+      "notes": "Archival finding aid for William H. Ball papers at Springfield College. Class of 1891. Ball's career spanned multiple YMCAs and the International Committee. May contain Montreal YMCA connection evidence."
+    },
+    {
+      "source_id": "src_ymca_usa_history",
+      "type": "web",
+      "title": "YMCA USA, 'Our History: The 1900s'",
+      "date": "2026",
+      "date_precision": "year",
+      "origin": "web",
+      "origin_url": "https://www.ymca.org/who-we-are/our-history/1900s",
+      "cache_path": null,
+      "char_count": 0,
+      "ingested_at": "2026-06-13T08:00:00Z",
+      "extracted": false,
+      "extraction_version": null,
+      "reliability": "secondary",
+      "notes": "YMCA USA official history page. 1910 swimming instruction program. William Ball referenced as Canadian YMCA board member."
+    }
   ],
-  "source_count": 334
+  "source_count": 336
 }

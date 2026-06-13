@@ -1511,3 +1511,6 @@ Research status: SATURATED for online sources. Physical archives needed for adva
 2026-06-13T07:00:00Z | WRITE | camp-oolahwan | Updated with closure aftermath, property sale, surviving traces, YWCA trend context. OQ2 partially resolved. Sources ^9-^10 added.
 2026-06-13T07:00:00Z | WRITE | camp-otoreke | Updated closure section with 1987 sale date from QAHN source (already cited).
 2026-06-13T07:00:00Z | RESEARCH | otoreke-sale | Camp Otoreke sold 1987 (QAHN snippet). f_1243 added.
+2026-06-13T08:00:00Z | RESEARCH | billy-ball | William Henry Ball (Springfield College 1891, died Dec 17, 1955) identified as strong candidate for "Billy Ball" of Camp Jubilee 1894. f_1244-f_1245 added. 2 sources added. billy-ball.md updated. Confirmation requires Springfield College MS 527 finding aid.
+2026-06-13T08:00:00Z | RESEARCH | rsvl-water | RSVL water quality data for Lac Kanawana: CRE Laurentides page returned 403. Data exists but not extractable via web search.
+2026-06-13T08:00:00Z | KB | facts.json | Version updated to v4.64, fact_count 1261.
