@@ -1,8 +1,8 @@
 {
-  "version": "v4.54",
-  "kb_version": 4.54,
+  "version": "v4.55",
+  "kb_version": 4.55,
   "migrated_from": "3.3",
-  "fact_count": 1240,
+  "fact_count": 1241,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -21303,6 +21303,23 @@
       "date_ref": "1995-2000",
       "conflicts_with": [],
       "added_version": "v4.54",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1225",
+      "claim": "Peter Goddard (Camp Kanawana director, early-to-mid 1980s) has no confirmed online presence linking him to Kanawana or YMCA. A possible match is Peter Gilling Goddard (1953-2016) of Smiths Falls, Ontario, who had 40+ years with Boy Scouts of Canada and was an outdoor instructor at the Bill Mason Center and Rideau Valley Conservation Authority. The age and outdoor education profile fit, but no direct Kanawana or YMCA connection has been established. 15+ web searches returned null.",
+      "sources": [
+        "src_oral_aronson"
+      ],
+      "confidence": "user_knowledge",
+      "category": "people",
+      "entities": [
+        "Peter Goddard",
+        "Camp Kanawana"
+      ],
+      "date_ref": "c. 1981-1985",
+      "conflicts_with": [],
+      "added_version": "v4.55",
       "added_by": "ralph_loop"
     }
   ]
