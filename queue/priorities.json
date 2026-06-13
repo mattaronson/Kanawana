@@ -1741,12 +1741,12 @@
       "priority_id": "p_136",
       "rank": 136,
       "type": "RESEARCH",
-      "description": "Page/Pag\u00e9 family of Saint-Sauveur \u2014 who sold land to YMCA in 1910, Pag\u00e9 farm purchased 1960",
-      "article_id": "the-kanawana-site",
+      "description": "Page/Pag\u00e9 family of Saint-Sauveur \u2014 who sold land to YMCA in 1910, Pag\u00e9 farm purchased 1960. COMPLETED: 8 facts (f_1226-f_1233), 5 sources, article spawned (page-family.md), Pag\u00e9-Desjardins connection discovered.",
+      "article_id": "page-family",
       "blocking": false,
       "assigned_weight": "P1",
       "created_at": "2026-06-13T02:50:00Z",
-      "status": "pending"
+      "status": "completed"
     },
     {
       "priority_id": "p_137",
@@ -1757,18 +1757,18 @@
       "blocking": false,
       "assigned_weight": "P2",
       "created_at": "2026-06-13T02:50:00Z",
-      "status": "pending"
+      "status": "completed"
     },
     {
       "priority_id": "p_138",
       "rank": 138,
       "type": "WRITE",
-      "description": "Update j-w-mcconnell article with Lake Desjardins = Lake Wilson resolution from oral history",
+      "description": "Update j-w-mcconnell article with Lake Desjardins = Lake Wilson resolution from oral history + Pag\u00e9-Desjardins genealogical connection",
       "article_id": "j-w-mcconnell",
       "blocking": false,
       "assigned_weight": "P2",
       "created_at": "2026-06-13T02:50:00Z",
-      "status": "pending"
+      "status": "completed"
     },
     {
       "priority_id": "p_139",

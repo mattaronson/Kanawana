@@ -1,7 +1,7 @@
 # The Kanawana Site
 
 *Status: E1-reviewed | Sources: src_ymca_website, src_kanawana_facts, src_brochure_1921, src_brochure_1922, src_gas_bag_1923, src_green_triangle_1938, src_mcmorris_thesis, src_concordia_fonds, src_wikidata_lac_kanawana, src_lapresse_ymca_2018, src_weredale_camp, src_mysummercamps_kanawana, src_crel_lac_kanawana, src_postmedia_nature_deficit_2026, src_ymca_kanawana_groups_rentals, src_ymca_kanawana_hebergement_fr, src_bonjour_quebec_kanawana, src_clivus_multrum_projects*
-*Last Updated: 2026-06-13 (oral history: Grand Portage, Longhouse, the Lookout, the Cave, Lake Desjardins/Wilson renaming)*
+*Last Updated: 2026-06-13 (Pagé-Desjardins genealogical connection; oral history: Grand Portage, Longhouse, the Lookout, the Cave, Lake Desjardins/Wilson renaming)*
 
 ## Overview
 
@@ -17,7 +17,7 @@ The camp is situated at 673 Saint-Elmire Street in Saint-Sauveur-des-Monts,^17 a
 The camp's main lake, used for swimming, boating, and waterfront activities. The sand beach has a marked swimming area with canoes, kayaks, paddleboards, a water trampoline, a barge, and a rescue boat.^7 Environmental monitoring data from the Conseil régional de l'environnement des Laurentides (CREL) records the lake's surface area as 0.235 km², maximum depth 12.5 metres, mean depth 5.4 metres, altitude 318.4 metres above sea level, watershed area 5.17 km², and a water renewal time of 0.43 years.^16
 
 ### Lake Wilson
-Described as "one of the most beautiful parts of the site," noted for its views, sunsets, and opportunities for stargazing.^8 Year-round private camp sites are available at Lake Wilson, providing a more secluded experience than the main site.^1 In 1923, Lac Wilson was among the hike destinations from camp.^6 According to oral history, the lake was originally called **Lac Desjardins** and was renamed after J.W. McConnell bought and donated it to the camp.^23 The Commission de toponymie du Québec established the name "Lac Wilson" by resolution in 1978. See [[people/j-w-mcconnell|J.W. McConnell]] for the donation history and the Lake Desjardins question (conflict c_006).
+Described as "one of the most beautiful parts of the site," noted for its views, sunsets, and opportunities for stargazing.^8 Year-round private camp sites are available at Lake Wilson, providing a more secluded experience than the main site.^1 In 1923, Lac Wilson was among the hike destinations from camp.^6 According to oral history, the lake was originally called **Lac Desjardins** and was renamed after J.W. McConnell bought and donated it to the camp.^23 Pagé family genealogy research (2026) revealed that Magloire Pagé fils — whose family sold land to the YMCA circa 1910 — married **Olivine Desjardins** in 1875, providing a plausible genealogical origin for the "Desjardins" name as a reference to the landowner's family.^24 The Commission de toponymie du Québec established the name "Lac Wilson" by resolution in 1978. See [[people/j-w-mcconnell|J.W. McConnell]] for the donation history and [[people/page-family|the Pagé family]] for the genealogical connection.
 
 ### Round Lake
 The camp's third private lake. Limited documentation of its use beyond the geographic fact of its presence within the property.
@@ -117,7 +117,7 @@ From 1977 to 1980, plans existed for a proposed two-site operation using Kanawan
 ## Open Questions
 
 1. ~~[Important] The YMCA Kanawana Facts sheet dates the site purchase to 1910. Was the first season at Saint-Sauveur in 1910 or 1911?~~ [Resolved] McMorris confirms 1910 as the first season at the Saint-Sauveur site. The 1935 History's reference to the camp's "twenty-sixth year of existence" counts from 1910.^12
-2. [Critical] Who was the Page family who sold/donated the land? No biographical information has been found.
+2. ~~[Critical] Who was the Page family who sold/donated the land?~~ [Substantially resolved] The Pagé family were pioneer settlers of Saint-Sauveur: Magloire Pagé (1826–1901) owned lot 43, côte Saint-Elmire. His son Magloire fils married Olivine Desjardins (1875). Grandson Édouard became the village baker. See [[people/page-family|The Pagé Family]]. Remaining: which specific parcel(s) went to the YMCA and under what terms.
 3. [Important] Has the camp acreage changed over time? 550 acres is consistently cited in current sources but no historical acreage data exists. McMorris documents the purchase of the **Pagé farm** in 1960 as an expansion of the camp property, though the acreage of that purchase is not specified.^12
 4. [Important] What was the specific reason the Kanawana–Weredale two-site plan was abandoned?
 5. [Nice-to-have] Are the 1928 and 1962 maps accessible in the Concordia Archives?
@@ -134,6 +134,7 @@ From 1977 to 1980, plans existed for a proposed two-site operation using Kanawan
 - [[places/camp-otoreke|Camp Otoreke]]
 - [[places/places-and-locations|Places and Locations at Camp Kanawana]]
 - [[programs/traditions-and-culture|Traditions and Culture at Kanawana]]
+- [[people/page-family|The Pagé Family of Saint-Sauveur]]
 
 ## Sources
 
@@ -160,3 +161,4 @@ From 1977 to 1980, plans existed for a proposed two-site operation using Kanawan
 21. YMCA Quebec, Program Specialists job posting (via The Ladders).
 22. Clivus Multrum, Parks & Recreation projects. URL: https://clivusmultrum.com/parks-recreation-toilet-system-projects.php
 23. Oral history, Matt Aronson (2026) [src_oral_aronson].
+24. Ville de Saint-Sauveur, "Les familles pionnières de Saint-Sauveur"; Société d'histoire et de généalogie des Pays-d'en-Haut, "Édouard Pagé, boulanger à Saint-Sauveur."

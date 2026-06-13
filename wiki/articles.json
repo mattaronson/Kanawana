@@ -3696,6 +3696,37 @@
       ],
       "file_id": null,
       "word_count": 1800
+    },
+    {
+      "article_id": "page-family",
+      "title": "The Pagé Family of Saint-Sauveur",
+      "wiki_folder": "people",
+      "status": "draft",
+      "status_history": [
+        {"status": "stub", "at": "2026-06-13T03:00:00Z", "by": "auto", "task": "RESEARCH"},
+        {"status": "draft", "at": "2026-06-13T03:30:00Z", "by": "auto", "task": "WRITE"}
+      ],
+      "ralph_loops_completed": 1,
+      "kb_facts_used": ["f_1226", "f_1227", "f_1228", "f_1229", "f_1230", "f_1231", "f_1232", "f_1233", "f_0843", "f_1206"],
+      "sources_cited": [
+        "src_vss_familles_pionnieres",
+        "src_shgph_edouard_page",
+        "src_patrimoine_culturel_boulangerie_gauvreau",
+        "src_toponymie_gouv_domaine_page",
+        "src_histoiresdecheznous_mont_habitant",
+        "src_mcmorris_thesis",
+        "src_gas_bag_1923",
+        "src_oral_aronson"
+      ],
+      "open_questions": 5,
+      "cross_links": [
+        "the-kanawana-site",
+        "j-w-mcconnell",
+        "lake-wilson",
+        "founding-1894"
+      ],
+      "file_id": null,
+      "word_count": 1200
     }
   ]
 }

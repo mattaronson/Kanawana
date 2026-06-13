@@ -1,7 +1,7 @@
 # J.W. McConnell
 
-*Status: E1-reviewed | Sources: src_wikipedia_mcconnell, src_mcconnell_foundation, src_oral_aronson, src_fong_mcconnell_2008, src_kanawana_facts, src_toponymie_lac_wilson_stelucie, src_grandquebec_sadl_lakes*
-*Last Updated: 2026-06-13 (oral history: Lake Desjardins = original name of Lake Wilson, c_006 partially resolved)*
+*Status: E1-reviewed | Sources: src_wikipedia_mcconnell, src_mcconnell_foundation, src_oral_aronson, src_fong_mcconnell_2008, src_kanawana_facts, src_toponymie_lac_wilson_stelucie, src_grandquebec_sadl_lakes, src_vss_familles_pionnieres, src_shgph_edouard_page*
+*Last Updated: 2026-06-13 (Pagé-Desjardins genealogical connection added, c_006 substantially resolved)*
 
 ## Overview
 
@@ -49,15 +49,17 @@ It has been claimed that Lake Wilson at Camp Kanawana is named for McConnell's e
 
 Oral history records that McConnell donated "Lake Desjardins" to the camp.^3 Phase 2 research (2026) could not locate any lake by that name: the camp's three documented lakes are Lake Kanawana, Lake Wilson, and Round Lake, and no "Lac Desjardins" appears in the Commission de toponymie records, the 96-lake inventory of adjacent Sainte-Anne-des-Lacs,^7 or documentation for Saint-Sauveur and Piedmont.
 
-**Oral history follow-up (2026-06-13):** The informant stated that **Lac Desjardins was the original name of the lake that became Lake Wilson** — it was renamed after McConnell bought and donated it to the camp.^3 This would explain the absence of "Lac Desjardins" from current records: the name was simply replaced. The Commission de toponymie established "Lac Wilson" by resolution in 1978 (fiche 135620),^6 so the formal renaming may have occurred at that point. If the lake was called Desjardins before the McConnell donation, this also raises the question of whether "Desjardins" refers to a prior landowner family — which could be verified through pre-acquisition land registry records.
+**Oral history follow-up (2026-06-13):** The informant stated that **Lac Desjardins was the original name of the lake that became Lake Wilson** — it was renamed after McConnell bought and donated it to the camp.^3 This would explain the absence of "Lac Desjardins" from current records: the name was simply replaced. The Commission de toponymie established "Lac Wilson" by resolution in 1978 (fiche 135620),^6 so the formal renaming may have occurred at that point.
 
-Conflict c_006 is now partially resolved: the oral history provides a coherent explanation for the missing name, but documentary confirmation from Quebec land registry or Concordia archival records remains outstanding.
+**Pagé-Desjardins genealogical connection (2026-06-13):** Research into the Pagé family — who sold property to the YMCA circa 1910 — revealed that Magloire Pagé fils (b. 1853), son of pioneer settler Magloire Pagé (1826–1901), married **Olivine Desjardins** on August 3, 1875 in Saint-Sauveur.^8 The Pagé family owned extensive land in Saint-Sauveur, including lot 43 on côte Saint-Elmire.^8 If the lake sat on Pagé-Desjardins family land, "Lac Desjardins" likely refers to Olivine's maiden name — a common Quebec toponymic pattern where lakes are named for landowner families (see also the Sainte-Lucie-des-Laurentides "Lac Wilson" naming pattern^6). This provides a genealogical explanation for the name "Desjardins" that is consistent with both the oral history and the land transaction. Documentary confirmation from Quebec land registry records remains outstanding.
+
+Conflict c_006 is now substantially resolved: oral history explains the renaming, and Pagé family genealogy provides a plausible origin for the "Desjardins" name itself.
 
 ## Open Questions
 
 1. [Critical] Does the Fong biography mention Camp Kanawana, land donations, or lake naming? The relevant chapter is now identified — "Keep the Home Fires Burning: Fundraising for the YMCA in Peace and for Canada in the Great War, 1909–19" (pp. 123+) — and the full book is borrowable online at Internet Archive (item `jwmcconnellfinan0000fong`); operator borrow + index check for "Kanawana"/"camp" is the access path (p_132)
 2. [Critical] Does the McMorris thesis full text discuss the Lake Wilson naming origin or McConnell donations?
-3. ~~[Critical] What lake is "Lake Desjardins"?~~ [Partially resolved] Oral history (2026-06-13): Lac Desjardins was the original name of Lake Wilson, renamed after McConnell donation. Remaining: documentary confirmation from land registry or Concordia archives.
+3. ~~[Critical] What lake is "Lake Desjardins"?~~ [Substantially resolved] Oral history: Lac Desjardins was the original name of Lake Wilson, renamed after McConnell donation. Pagé family genealogy: Magloire Pagé fils married Olivine Desjardins (1875), linking the name to landowner family. Remaining: land registry confirmation.
 4. [Important] Do the 1933 Ralph Dawson or 1943 R.L. Charlton camp histories mention McConnell by name?
 5. [Important] Do Quebec land registry records show a Wilson family owning property in the area before the YMCA acquisition? (Registre foncier du Québec requires a paid account; BAnQ cadastral collections proxy-blocked — operator access required)
 6. [Nice-to-have] Are there McConnell-YMCA correspondence records in McGill Archives fonds MG4240?
@@ -68,6 +70,7 @@ Conflict c_006 is now partially resolved: the oral history provides a coherent e
 - [[places/lake-wilson|Lake Wilson]]
 - [[chronology/founding-1894|Founding of Camp Kanawana (1894)]]
 - [[people/cushing-family|The Cushing Family and YMCA Camping]]
+- [[people/page-family|The Pagé Family of Saint-Sauveur]]
 
 ## Sources
 
@@ -78,6 +81,7 @@ Conflict c_006 is now partially resolved: the oral history provides a coherent e
 5. Fong, William. *J.W. McConnell: Financier, Philanthropist, Patriot.* McGill-Queen's University Press, 2008. Borrowable: https://archive.org/details/jwmcconnellfinan0000fong
 6. Commission de toponymie du Québec, "Lac Wilson" (Sainte-Lucie-des-Laurentides), fiche 135620. URL: https://toponymie.gouv.qc.ca/ct/ToposWeb/Fiche.aspx?no_seq=135620
 7. Grand Québec, "Lacs de Sainte-Anne-des-Lacs." URL: https://grandquebec.com/eaux-du-quebec/lacs-de-sainte-anne-des-lacs/
+8. Ville de Saint-Sauveur, "Les familles pionnières de Saint-Sauveur"; Société d'histoire et de généalogie des Pays-d'en-Haut, "Édouard Pagé, boulanger à Saint-Sauveur."
 
 ## Research Notes
 

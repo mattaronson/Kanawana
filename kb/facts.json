@@ -1,8 +1,8 @@
 {
-  "version": "v4.55",
-  "kb_version": 4.55,
+  "version": "v4.57",
+  "kb_version": 4.57,
   "migrated_from": "3.3",
-  "fact_count": 1241,
+  "fact_count": 1249,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -21320,6 +21320,161 @@
       "date_ref": "c. 1981-1985",
       "conflicts_with": [],
       "added_version": "v4.55",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1226",
+      "claim": "Magloire Pagé (1826-1901) was a pioneer settler of Saint-Sauveur-des-Monts. He was part of the 10th generation of the Pagé family since their arrival in New France. He married Adéline Beauchamp (1830-1898) on July 28, 1851, in Saint-Jérôme. In the 1885 census, the couple owned lot 43 in the concession of côte Saint-Elmire, Saint-Sauveur.",
+      "sources": [
+        "src_vss_familles_pionnieres"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "Magloire Pagé",
+        "Pagé family",
+        "Saint-Sauveur"
+      ],
+      "date_ref": "1826-1901",
+      "conflicts_with": [],
+      "added_version": "v4.56",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1227",
+      "claim": "Magloire Pagé fils (b. 1853, Saint-Sauveur), son of Magloire Pagé and Adéline Beauchamp, acquired the paternal land in 1874 and married Olivine Desjardins on August 3, 1875. Olivine died at age 54 on June 20, 1904, and was buried in the Saint-Sauveur cemetery. Their known children include Léonie Pagé (1882-1941) and Édouard Pagé (b. March 30, 1893).",
+      "sources": [
+        "src_vss_familles_pionnieres",
+        "src_shgph_edouard_page"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "Magloire Pagé fils",
+        "Olivine Desjardins",
+        "Pagé family",
+        "Saint-Sauveur"
+      ],
+      "date_ref": "1853-1904",
+      "conflicts_with": [],
+      "added_version": "v4.56",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1228",
+      "claim": "Édouard Pagé (b. March 30, 1893, Saint-Sauveur), son of Magloire Pagé fils and Olivine Desjardins, began an apprenticeship in baking in 1910 under Ubald Gauthier on Drolet Street, Montreal. In 1912, baker Camille Gauvreau ceded his Saint-Sauveur bakery to his son Ovila, who rented it to Édouard Pagé. Pagé acquired the business in 1914. The bakery (Boulangerie Pagé) has operated continuously at 7 avenue de l'Église since 1903 (when Gauvreau founded it). In 1963, Édouard sold the business to his sons Bernard and Philippe Pagé.",
+      "sources": [
+        "src_shgph_edouard_page",
+        "src_lesaffaires_boulangerie_page"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "Édouard Pagé",
+        "Pagé family",
+        "Boulangerie Pagé",
+        "Saint-Sauveur"
+      ],
+      "date_ref": "1893-1963",
+      "conflicts_with": [],
+      "added_version": "v4.56",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1229",
+      "claim": "Édouard Pagé served as president of the Saint-Sauveur School Commission (Commission scolaire). His efforts led to the construction of a boys' school that was blessed on January 9, 1949, and named École Saint-Édouard in his honor. The school retained this name until 1995.",
+      "sources": [
+        "src_shgph_edouard_page"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "Édouard Pagé",
+        "École Saint-Édouard",
+        "Saint-Sauveur"
+      ],
+      "date_ref": "1949",
+      "conflicts_with": [],
+      "added_version": "v4.56",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1230",
+      "claim": "Télesphore Pagé, the youngest son of Magloire Pagé fils, married on May 27, 1925, inherited the family land, and settled there with his wife Clarilda Dagenais (1901-1995). The old Pagé farmhouse faced the mountains near Saint-Sauveur.",
+      "sources": [
+        "src_vss_familles_pionnieres"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "Télesphore Pagé",
+        "Clarilda Dagenais",
+        "Pagé family",
+        "Saint-Sauveur"
+      ],
+      "date_ref": "1925",
+      "conflicts_with": [],
+      "added_version": "v4.56",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1231",
+      "claim": "In 1957, Mickey Stein was staying in the old Pagé family farmhouse near Saint-Sauveur when he observed the mountain opposite and conceived the idea for the Mont Habitant ski resort. With associates Stephen and Stanley Vineberg, Stein developed the mountain, hiring designer Sel Hannah; Mont Habitant opened for the 1958-59 winter season.",
+      "sources": [
+        "src_histoiresdecheznous_mont_habitant"
+      ],
+      "confidence": "stated",
+      "category": "places",
+      "entities": [
+        "Pagé family",
+        "Mont Habitant",
+        "Mickey Stein",
+        "Saint-Sauveur"
+      ],
+      "date_ref": "1957-1959",
+      "conflicts_with": [],
+      "added_version": "v4.56",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1232",
+      "claim": "The Pagé family genealogy in Saint-Sauveur spans at least four generations: (1) Magloire Pagé père (1826-1901), married Adéline Beauchamp 1851; (2) Magloire Pagé fils (b. 1853), married Olivine Desjardins 1875; (3) children including Léonie (1882-1941), Édouard (b. 1893), and Télesphore (youngest son, married 1925); (4) Édouard's sons Bernard and Philippe (took over bakery 1963). The family owned land on lot 43, côte Saint-Elmire, and 'Domaine-Pagé' is a named locality in Saint-Sauveur whose toponymic origin the Commission de toponymie has not formally determined.",
+      "sources": [
+        "src_vss_familles_pionnieres",
+        "src_shgph_edouard_page",
+        "src_toponymie_gouv_domaine_page"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "Pagé family",
+        "Saint-Sauveur",
+        "Domaine-Pagé"
+      ],
+      "date_ref": "1826-1963",
+      "conflicts_with": [],
+      "added_version": "v4.56",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1233",
+      "claim": "The first bakery in Saint-Sauveur was established in 1897 (not 1903) by Camille Gauvreau, who purchased land from notary Malo. It was later known as the 'Ancienne boulangerie Gauvreau' and is listed in the Répertoire du patrimoine culturel du Québec (ID 206587). The building is at 7 avenue de l'Église, the same location as Boulangerie Pagé. The '1903' date sometimes cited may refer to a different milestone or error; Gauvreau established it in 1897 and Édouard Pagé took it over in 1912-1914.",
+      "sources": [
+        "src_patrimoine_culturel_boulangerie_gauvreau",
+        "src_shgph_edouard_page"
+      ],
+      "confidence": "inferred",
+      "category": "places",
+      "entities": [
+        "Boulangerie Pagé",
+        "Camille Gauvreau",
+        "Saint-Sauveur"
+      ],
+      "date_ref": "1897-1914",
+      "conflicts_with": [
+        "f_0843"
+      ],
+      "added_version": "v4.56",
       "added_by": "ralph_loop"
     }
   ]

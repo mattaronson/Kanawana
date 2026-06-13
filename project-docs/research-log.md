@@ -1113,4 +1113,41 @@ All search results converge on the same Concordia University Archives source (P0
 
 ## Campaign: p_136 — Page/Pagé family of Saint-Sauveur (2026-06-13)
 
-**Status:** In progress. 10-query biographical/genealogical search launched.
+**Status:** COMPLETED.
+
+### Queries and Surfaces
+1. "Pagé family" OR "Page family" Saint-Sauveur Quebec history — Google
+2. "Domaine Pagé" Saint-Sauveur history — Google
+3. "Pagé" bakery Saint-Sauveur 1903 OR 1900s — Google
+4. "Page" OR "Pagé" farm Saint-Sauveur Kanawana — Google
+5. FamilySearch / Généalogie Québec / Quebec genealogy: Pagé in Saint-Sauveur — Google
+6. BAnQ / land registry references Pagé Saint-Sauveur-des-Monts — Google
+7. Société d'histoire des Pays-d'en-Haut + Pagé — Google
+8. "Pagé" YMCA OR camp Kanawana — Google
+9. Google Books / HathiTrust: "Saint-Sauveur" "Pagé" history — Google
+10. Municipal history Saint-Sauveur founding families — Google
+
+### Key Sources Found
+- Ville de Saint-Sauveur, "Les familles pionnières de Saint-Sauveur" (vss.ca) — municipal page for 150th parish anniversary (2005), lists Pagé genealogy
+- SHGPH, "Édouard Pagé, boulanger à Saint-Sauveur" — detailed bakery/school commission history
+- Répertoire du patrimoine culturel du Québec, "Ancienne boulangerie Gauvreau" (ID 206587) — building heritage listing
+- Commission de toponymie, "1re rue du Domaine-Pagé" — confirms locality name, origin undetermined
+- Histoires de chez nous, "Mont Habitant" — Pagé farmhouse/ski resort connection
+- Les Affaires + Journal Accès, "Boulangerie Pagé: 121 ans" — bakery anniversary coverage
+
+### Results
+- **Four-generation Pagé genealogy confirmed**: Magloire père (1826-1901) → Magloire fils (b. 1853) → Édouard (b. 1893), Télesphore, Léonie → Bernard, Philippe
+- **CRITICAL DISCOVERY**: Magloire Pagé fils married **Olivine Desjardins** on August 3, 1875. This connects the "Desjardins" in "Lac Desjardins" (original name of Lake Wilson) to the Pagé family through marriage — a standard Quebec toponymic pattern
+- **Bakery founding date corrected**: 1897 (Gauvreau), not 1903. Pagé took over 1912-1914.
+- **School named for family**: École Saint-Édouard (1949-1995)
+- **Mont Habitant origin**: Mickey Stein conceived ski resort while staying at Pagé farmhouse (1957)
+- **Gap**: No direct documentation of the 1910 or 1960 YMCA land transactions found
+
+### KB Impact
+- 8 facts added: f_1226–f_1233
+- 5 sources added
+- 1 new article spawned: wiki/people/page-family.md (draft status)
+- Conflict c_006 upgraded to "substantially resolved"
+- Articles updated: j-w-mcconnell.md, the-kanawana-site.md
+
+**KB now at v4.57, 1249 facts.**
