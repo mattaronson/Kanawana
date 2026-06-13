@@ -1,7 +1,7 @@
 # The Pip Alumni Award
 
 *Status: E1-reviewed | Sources: src_ymca_pip_skinner, src_ymca_pip_mosher, src_ymca_pip_adam, src_ymca_pip_sharpe, src_ymca_pip_orbinski, src_oral_aronson, src_cmat_caddell_obituary, src_mcgill_news_caddell, src_wikipedia_richard_patten, src_wikipedia_john_cleghorn, src_atwater_caddell_bio*
-*Last Updated: 2026-02-19 (R3 VERIFY pass)*
+*Last Updated: 2026-06-13 (Pip Award numbering analysis: Orbinski = 15th recipient, 3 unknown recipients in 2019-2023)*
 
 ## Overview
 
@@ -43,7 +43,7 @@ Caddell died on October 16, 2005 in Tupiza, Bolivia, of pulmonary edema caused b
 | 2018 | Dr. Marina Sharpe | Former camper and staff | DPhil Law (Oxford, Trudeau Scholar); Assoc. Professor of International Law, RMC Saint-Jean; Director, Trudeau Foundation; author of *The Regional Law of Refugee Protection in Africa* (OUP, 2018)^4 |
 | 2024 | Dr. James Orbinski | Camper/counsellor 1980s–90s | President MSF International Council; accepted 1999 Nobel Peace Prize; Officer of the Order of Canada; Principal, Massey College, U of T^5 |
 
-The gap between 2018 and 2024 is not explained in available sources. The 2019 recipient's name appears truncated in one source but has not been confirmed. Whether awards were given during the 2020–2023 period is unknown.
+The YMCA Quebec page for Orbinski describes him as "the 15th recipient" of the Pip Award.^5 With 12 documented recipients through 2018 and Orbinski as the 15th in 2024, exactly 3 awards were given in the 2019–2023 period, while 2 years had no award (most likely 2020 and 2021 due to COVID camp closures). The 2019 recipient's name appears truncated to "2019 Dr." on Andrew Caddell's LinkedIn profile, suggesting the recipient holds a doctoral degree; no YMCA Quebec press release was published for any award in 2019–2023. The 2010 gap is confirmed by the numbering: Mosher was the 8th recipient in 2015, meaning only 7 recipients preceded him in eight years (2007–2014), confirming one skip year — which is 2010.
 
 ## Ceremony
 
@@ -61,8 +61,8 @@ Samuel Karl Lazarus was born March 3, 1978 in Montreal. He worked with children 
 
 ## Open Questions
 
-1. [Important] Who was the 2019 recipient? Andrew Caddell's LinkedIn profile lists "2019 Dr." but the name is truncated. No YMCA newsroom page for this year has been found.
-2. [Important] Were awards given in 2020, 2021, 2022, and/or 2023? COVID-19 likely disrupted camp operations but it is unclear whether the award was deferred or discontinued during this period.
+1. [Important] Who were the 3 recipients in 2019–2023? The 2019 recipient's title begins with "Dr." (Andrew Caddell LinkedIn). 3 awards given (Orbinski = 15th), 2 years skipped (likely 2020-2021 COVID). No YMCA newsroom press releases published for any award 2019–2023.
+2. ~~[Important] Were awards given in 2020, 2021, 2022, and/or 2023?~~ [Resolved] Orbinski = 15th recipient (2024). With 12 documented through 2018, exactly 3 awards were given in 2019–2023, and 2 years had no award (likely COVID years 2020 and 2021).
 3. [Nice-to-have] What are the exact dates and causes of Philip "Pip" Caddell's birth and death? No obituary has been located online.
 4. [Nice-to-have] Is there a physical award object (plaque, trophy)?
 5. [Nice-to-have] What was James Caddell's specific role at camp — camper from 1983, counsellor from what year, through 1991?

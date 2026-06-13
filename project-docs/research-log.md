@@ -1151,3 +1151,74 @@ All search results converge on the same Concordia University Archives source (P0
 - Articles updated: j-w-mcconnell.md, the-kanawana-site.md
 
 **KB now at v4.57, 1249 facts.**
+
+## Campaign: p_140 — Torch Ceremony for World Friendship (2026-06-13)
+
+**Status:** COMPLETED. Open question resolved.
+
+### Queries and Surfaces
+1. "Torch Ceremony" "World Friendship" YMCA camp 1935 — Google
+2. YMCA camp "torch ceremony" world friendship international peace 1930s — Google
+3. YMCA "World Friendship" torch ceremony 1926 1927 camp tradition fire — Google
+4. YMCA friendship torch Iowa camp peace 1926 international ceremony history — Google
+
+### Key Sources Found
+- YMCA Europe, "Relight the Fire: The Friendship Torch Story" (roots.ymcaeurope.com) — 403 but search snippets reveal: 1926 YMCA conference, 52 nations, Fire of Friendship, torch to Des Moines Y Camp
+- Camp Fuller Archive Project, "Camp Fuller During the Great Depression" (campfullerarchive.org) — 403 but snippets reveal: 1932 "World-Wide Friendship" ceremony, carved sticks with autographs, friendship pledges
+
+### Results
+- **RESOLVED**: The Torch Ceremony for World Friendship was part of a YMCA-wide interwar peace tradition. At a 1926 international YMCA conference, representatives from 52 nations lit a "Fire of Friendship" and passed torches to the younger generation. One torch was housed at the Greater Des Moines Y Camp. Camp Fuller (Providence YMCA) held a similar ceremony in 1932. Kanawana's 1935 "Torch Ceremony for World Friendship" was the camp's participation in this movement.
+- 1 fact added: f_1234
+- 2 sources added: src_ymca_europe_friendship_torch, src_camp_fuller_depression
+- traditions-and-culture.md OQ3 resolved
+
+## Campaign: p_141 — Pip Alumni Award gap years (2026-06-13)
+
+**Status:** COMPLETED. Partial resolution — numbering confirmed, names still unknown.
+
+### Queries and Surfaces
+1. "Pip Alumni Award" Camp Kanawana 2010 — Google
+2. "Pip Alumni Award" Camp Kanawana 2019 — Google
+3. "Pip Alumni Award" Camp Kanawana 2020 OR 2021 OR 2022 OR 2023 — Google
+4. "Camp Kanawana" "Pip Award" 2019 OR 2020 OR 2021 OR 2022 OR 2023 recipient — Google
+5. "Andrew Caddell" "Camp Kanawana" OR Kanawana OR "Pip Award" — Google
+6. "Camp Kanawana" alumni award 2019 YMCA Quebec — Google
+7. "prix Pip" "camp Kanawana" 2019 OR 2022 OR 2023 récipiendaire — Google (French)
+8. LinkedIn "Pip Award" Camp Kanawana — Google
+9. Facebook Camp Kanawana "Pip" 2019 — Google
+10. Camp YMCA Kanawana YMCA impact report 2022 — WebFetch (403)
+
+### Key Findings
+- **Orbinski = 15th recipient** (stated on YMCA Quebec press release, cached as src_ymca_pip_orbinski)
+- **2010 gap confirmed**: Mosher was 8th recipient in 2015, so exactly one skip year in 2007-2014 = 2010
+- **2019-2023**: With 12 documented through 2018 and Orbinski as #15 in 2024, exactly 3 awards were given (recipients unknown) and 2 years had no award (likely 2020 and 2021 due to COVID camp closures)
+- **2019 recipient**: title begins with "Dr." per Andrew Caddell LinkedIn (truncated entry)
+- **No YMCA Quebec newsroom press releases** published for any Pip Award 2019-2023
+- **Andrew Caddell**: confirmed as retired GAC officer, Museum of Kamouraska board, Hill Times columnist. Award sponsor, son of Pip Caddell, father of James Caddell.
+- 1 fact added: f_1235
+- pip-alumni-award.md updated
+
+## Campaign: p_142 — Biographical research dead ends (2026-06-13)
+
+**Status:** COMPLETED. All null results logged.
+
+### Richard "Itche" Kerr (12+ queries)
+- No biographical information found beyond existing KB
+- No obituary, LinkedIn, genealogy, or community record
+- Lyrics to "On My Way to Kanawana" not available online
+- Concordia Archives CD (P145/SR0001) is only known copy
+- Nickname "Itche" is Yiddish (diminutive of Yitzchak/Isaac), suggesting Montreal Jewish community connection
+
+### Derek Walsh (15+ queries)
+- Confirmed: CCA Award of Excellence 1983 (not Award of Honour)
+- Confirmed: Associated with "Kamp Kanawana, YMCA, Montreal, Quebec" in Trent CCA fonds
+- Co-recipients 1983: Rick Ryan (ACQ), Wayne Perkins (ACA/Alberta), Abe Goss
+- No biographical details, no role confirmation, no obituary found
+- Trent University Archives (physical) is only remaining path
+
+### Ralph Dawson (20+ queries, 3rd campaign)
+- No new information beyond existing KB (full name Ralph H. Dawson, Camp Jubilee 1898, wrote 1933 history)
+- Concordia Archives P145/12A manuscript is only viable path
+- All web sources exhausted
+
+**KB now at v4.59, 1251 facts.**

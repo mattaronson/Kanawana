@@ -1781,6 +1781,39 @@
       "assigned_weight": "P3",
       "created_at": "2026-06-13T02:50:00Z",
       "status": "blocked"
+    },
+    {
+      "priority_id": "p_140",
+      "rank": 140,
+      "type": "RESEARCH",
+      "description": "Torch Ceremony for World Friendship \u2014 COMPLETED: YMCA-wide interwar peace tradition from 1926 international conference. f_1234 added. OQ3 in traditions-and-culture.md resolved.",
+      "article_id": "traditions-and-culture",
+      "blocking": false,
+      "assigned_weight": "P2",
+      "created_at": "2026-06-13T04:00:00Z",
+      "status": "completed"
+    },
+    {
+      "priority_id": "p_141",
+      "rank": 141,
+      "type": "RESEARCH",
+      "description": "Pip Alumni Award gap years \u2014 COMPLETED: Orbinski = 15th recipient. 2010 gap confirmed. 3 unknown recipients in 2019-2023. f_1235 added.",
+      "article_id": "pip-alumni-award",
+      "blocking": false,
+      "assigned_weight": "P2",
+      "created_at": "2026-06-13T04:10:00Z",
+      "status": "completed"
+    },
+    {
+      "priority_id": "p_142",
+      "rank": 142,
+      "type": "RESEARCH",
+      "description": "Biographical research: Richard Kerr, Derek Walsh, Ralph Dawson \u2014 COMPLETED: all dead ends via web. Kerr/Walsh/Dawson require physical archive access.",
+      "article_id": null,
+      "blocking": false,
+      "assigned_weight": "P2",
+      "created_at": "2026-06-13T04:10:00Z",
+      "status": "completed"
     }
   ]
 }

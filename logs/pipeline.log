@@ -1490,3 +1490,8 @@ Research status: SATURATED for online sources. Physical archives needed for adva
 2026-06-13T03:35:00Z | WRITE | the-kanawana-site | Added Pagé-Desjardins connection to Lake Wilson section. OQ2 substantially resolved. Source ^24 added.
 2026-06-13T03:40:00Z | KB | facts.json | Version updated to v4.57, fact_count 1249. Verified agent writes f_1226-f_1233 intact.
 2026-06-13T03:40:00Z | KB | conflicts.json | c_006 updated with Pagé-Desjardins genealogical evidence.
+2026-06-13T04:00:00Z | RESEARCH | p_140 | Torch Ceremony for World Friendship resolved: YMCA-wide interwar peace tradition from 1926 international conference. Camp Fuller 1932, Kanawana 1935. f_1234 + 2 sources added. traditions-and-culture.md OQ3 resolved.
+2026-06-13T04:10:00Z | RESEARCH | p_141 | Pip Alumni Award numbering analysis: Orbinski = 15th recipient (2024). 2010 gap confirmed. 3 unknown recipients in 2019-2023 (2 COVID skip years). f_1235 added. pip-alumni-award.md updated.
+2026-06-13T04:10:00Z | RESEARCH | null | Richard Kerr biographical search: dead end. No new information found across 12+ queries. Lyrics to 'On My Way to Kanawana' not available online. Concordia Archives CD is only known copy.
+2026-06-13T04:10:00Z | RESEARCH | null | Derek Walsh identity: confirmed CCA Award of Excellence (not Honour) 1983. No biographical details found. Trent Archives only remaining path.
+2026-06-13T04:10:00Z | RESEARCH | null | Ralph Dawson biographical search: dead end (3rd campaign). No new information found. Concordia Archives P145/12A manuscript is only viable path.

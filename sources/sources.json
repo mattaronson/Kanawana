@@ -5553,7 +5553,39 @@
       "extraction_version": "v4.56",
       "reliability": "secondary",
       "notes": "Virtual museum exhibit on Mont Habitant ski resort. Documents that Mickey Stein conceived Mont Habitant while staying in the old Pagé family farmhouse near Saint-Sauveur in 1957. Direct fetch 403; content via search snippets."
+    },
+    {
+      "source_id": "src_ymca_europe_friendship_torch",
+      "type": "web",
+      "title": "Relight the Fire: The Friendship Torch Story — YMCA Europe Roots for Peace",
+      "date": "2025",
+      "date_precision": "approximate",
+      "origin": "web",
+      "origin_url": "https://roots.ymcaeurope.com/relight-the-fire-friendship-torch-story/",
+      "cache_path": null,
+      "char_count": 0,
+      "ingested_at": "2026-06-13T04:00:00Z",
+      "extracted": true,
+      "extraction_version": "v4.58",
+      "reliability": "secondary",
+      "notes": "YMCA Europe article on the 1926 Friendship Torch ceremony: 52 nations, Fire of Friendship, torch passed to Des Moines Y Camp. Direct fetch 403; content via search snippets."
+    },
+    {
+      "source_id": "src_camp_fuller_depression",
+      "type": "web",
+      "title": "Camp Fuller During the Great Depression — Camp Fuller Archive Project",
+      "date": "2024",
+      "date_precision": "approximate",
+      "origin": "web",
+      "origin_url": "https://www.campfullerarchive.org/articles/camp-fuller-during-the-great-depression",
+      "cache_path": null,
+      "char_count": 0,
+      "ingested_at": "2026-06-13T04:00:00Z",
+      "extracted": true,
+      "extraction_version": "v4.58",
+      "reliability": "secondary",
+      "notes": "Camp Fuller (Providence YMCA) archive: documents 1932 'World-Wide Friendship' ceremony with carved sticks, autographs, fire-lighting, and friendship pledges. Direct fetch 403; content via search snippets."
     }
   ],
-  "source_count": 329
+  "source_count": 331
 }

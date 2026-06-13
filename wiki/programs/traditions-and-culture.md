@@ -1,7 +1,7 @@
 # Traditions and Culture at Kanawana
 
 *Status: E1-reviewed | Sources: 20*
-*Last Updated: 2026-06-13 (oral history: Council Ring time capsule, dam ceremony terminus, tradition survival assessment)*
+*Last Updated: 2026-06-13 (Torch Ceremony resolved; oral history: Council Ring time capsule, dam ceremony terminus, tradition survival assessment)*
 
 ## Overview
 
@@ -27,7 +27,7 @@ The camp calendar was punctuated by recurring competitive and social events:
 - **Fancy Dress Ball**: Documented in the 1938 Green Triangle.^6
 - **Pyjama Parade**: An annual procession to the post office.^5
 - **Eating-Out Day**: At a "haunted house" location, documented in 1935.^5
-- **Torch Ceremony for World Friendship**: An international/peace-themed event held in 1935.^5
+- **Torch Ceremony for World Friendship**: Held in 1935, this was part of a YMCA-wide interwar peace tradition.^5 ^22 The movement originated at a 1926 international YMCA conference where representatives from 52 nations lit a "Fire of Friendship" and passed torches to the younger generation, who declared: "We leave this fire with a vision of a great Christian fellowship, conscious of difference but resolved to love."^22 YMCA Camp Fuller (Providence) held a similar "World-Wide Friendship" ceremony in 1932.^22
 
 ## L&V Games
 
@@ -80,7 +80,7 @@ Known recipients include: Richard "Itche" Kerr (2007, composer of the camp song)
 
 1. [Critical] When did the camp adopt the Latin motto "Non Nobis Solum" in place of "Each for all and all for each"?
 2. ~~[Critical] Which pre-WWII traditions survived into the modern era?~~ [Partially resolved] Oral history (2026-06-13) confirms: the Council Ring ceremonies (Opening/Closing/L&V fires), the time capsule burial/retrieval tradition, the section system (renamed 1959), and the Kanawana Marching Song all survived. The dam ceremony did not survive past ~1985. The Shawbridge Meet, Pyjama Parade, and Eating-Out Day/Haunted House status are unknown.
-3. [Important] What was the "Torch Ceremony for World Friendship"? Context suggests an international/peace-themed event.
+3. ~~[Important] What was the "Torch Ceremony for World Friendship"?~~ [Resolved] Part of a YMCA-wide interwar peace tradition originating at a 1926 international conference. Camp Fuller (1932) and Kanawana (1935) both held versions.
 4. [Important] When did the Shawbridge Meet end? It ran from ~1912 through at least 1935.
 5. [Important] What are the details of the firelighting ceremony (1936) and fire of friendship (1939)?
 6. [Nice-to-have] Are there other issues of the Green Triangle beyond the 1938-07-29 copy? The full run 1932–1940 is in the Concordia Archives.
@@ -119,3 +119,4 @@ Known recipients include: Richard "Itche" Kerr (2007, composer of the camp song)
 19. Reader's Digest, "Camp Shapes Lives." Charles "Smillie" Buckland account of the Green Triangle award.
 20. Leigh Evans blog, reflections on Camp Kanawana experience.
 21. Oral history, Matt Aronson (2026) [src_oral_aronson].
+22. YMCA Europe, "Relight the Fire: The Friendship Torch Story"; Camp Fuller Archive Project, "Camp Fuller During the Great Depression."

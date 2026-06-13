@@ -1,8 +1,8 @@
 {
-  "version": "v4.57",
-  "kb_version": 4.57,
+  "version": "v4.59",
+  "kb_version": 4.59,
   "migrated_from": "3.3",
-  "fact_count": 1249,
+  "fact_count": 1251,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -21475,6 +21475,45 @@
         "f_0843"
       ],
       "added_version": "v4.56",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1234",
+      "claim": "The YMCA 'Torch Ceremony for World Friendship' originated at a 1926 international YMCA conference where representatives from 52 nations gathered to discuss YMCA involvement in post-WWI peace-building. On the final night, they lit a 'Fire of Friendship' and senior leaders passed torches to the younger generation, who declared in their own languages: 'We leave this fire with a vision of a great Christian fellowship, conscious of difference but resolved to love.' One torch was housed at the Greater Des Moines Y Camp for 99 years. YMCA Camp Fuller (Providence) held a 'World-Wide Friendship' ceremony in 1932 where boys carved sticks with friends' autographs and pledged friendship. Kanawana's 1935 'Torch Ceremony for World Friendship' was part of this YMCA-wide interwar peace tradition.",
+      "sources": [
+        "src_ymca_europe_friendship_torch",
+        "src_camp_fuller_depression"
+      ],
+      "confidence": "inferred",
+      "category": "traditions",
+      "entities": [
+        "Camp Kanawana",
+        "YMCA",
+        "Torch Ceremony for World Friendship",
+        "Camp Fuller"
+      ],
+      "date_ref": "1926-1935",
+      "conflicts_with": [],
+      "added_version": "v4.58",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1235",
+      "claim": "Dr. James Orbinski is described as 'the 15th recipient' of the Pip Award on the YMCA Quebec press release (2024). With 12 documented recipients through 2018 and Orbinski as the 15th in 2024, exactly 3 awards were given in the 2019-2023 period, while 2 years had no award (likely 2020 and 2021 due to COVID). The 2010 gap is confirmed by numbering: Mosher was the 8th recipient in 2015, meaning one skip year in 2007-2014, which is 2010.",
+      "sources": [
+        "src_ymca_pip_orbinski",
+        "src_ymca_pip_mosher"
+      ],
+      "confidence": "inferred",
+      "category": "traditions",
+      "entities": [
+        "Pip Alumni Award",
+        "Camp Kanawana",
+        "James Orbinski"
+      ],
+      "date_ref": "2024",
+      "conflicts_with": [],
+      "added_version": "v4.59",
       "added_by": "ralph_loop"
     }
   ]
