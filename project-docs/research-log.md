@@ -1326,4 +1326,15 @@ All search results converge on the same Concordia University Archives source (P0
 
 **Key insight:** The L&V / Woodsmen-Voyageurs division is documented across at least three YMCA camps (Pine Crest, Kanawana, Hayo-Went-Ha), suggesting it was a widespread YMCA camping tradition rather than a Pine Crest-only invention.
 
-**KB now at v4.70, 1305 facts. Sources: 370.**
+### Cycle 10: Broad Sweep — Diminishing Returns
+**Queries:** ~35 distinct searches across multiple surfaces. Key targets: YMCA annual reports 1893-1895 on IA (none digitized), Camp Weredale-YMCA detail (already documented), Camp Perrot founding (no new details), W.E. Cushing disambiguation (already documented), Kanawana etymology (exhausted), winter programming (documented), George Clouston/Mary LeMessurier/Karen Deterding obituaries (minor Kanawana mentions from 1940s-1980s era), Ross & Macdonald CCA drawings (403), Reddit Kanawana (no results), McCord Museum YMCA photos (no specific results), Camp Ouareau (comprehensively documented), ACQ founding 1961 (documented), council fire origins (documented), day camp discontinuation (documented), Google Scholar (McMorris only), EMSB outdoor education (contemporary, minor), Cathy Reeves documentary (documented), Big Cove YMCA oldest in Canada (documented).
+**Results:** → 0 new facts. All targets either already in KB or blocked by 403/paywall.
+
+**Assessment:** Web research for Camp Kanawana has reached saturation. The remaining ~35 Critical open questions and the two stub articles (Camp Perrot, Centennial 1994) require access to:
+1. Concordia University Archives (physical/digitized access to P0145 sub-series)
+2. Oral history from domain expert (songs, cheers, legends, Grand Portage/Longhouse)
+3. McMaster University Archives (Stuart McLean materials)
+4. BAnQ newspaper digitization (Montreal Star, La Presse)
+5. Camp Pine Crest book "Lumbermen & Voyageurs" (for Kanawana references)
+
+**KB at v4.70, 1305 facts. Sources: 370. No changes this cycle.**
