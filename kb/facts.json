@@ -1,5 +1,5 @@
 {
-  "version": "v4.70",
+  "version": "v4.71",
   "kb_version": 4.64,
   "migrated_from": "3.3",
   "fact_count": 1279,
@@ -22541,6 +22541,42 @@
       "date_ref": null,
       "conflicts_with": [],
       "added_version": "v4.70",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1306",
+      "claim": "In the graphic novel 'Jane, le renard et moi' (2012), the protagonist Hélène dreads an English immersion class trip to Camp Kanawana (Lac Kanawana). On the second-to-last evening at camp, while sitting on the porch of her cabin, a fox approaches her — the pivotal encounter of the narrative. The camp's use as an English immersion destination in fiction reflects its real-world role hosting school groups.",
+      "sources": ["src_goodreads_jane_fox_me", "src_booknode_jane_fox"],
+      "confidence": "stated",
+      "category": "media",
+      "entities": ["Camp Kanawana", "Fanny Britt", "Isabelle Arsenault"],
+      "date_ref": "2012",
+      "conflicts_with": [],
+      "added_version": "v4.71",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1307",
+      "claim": "Camp YMCA Kanawana's Facebook page (facebook.com/YKanawana) contains a photo album labeled '1987-1994' with historical photographs from that era. The page is active with photos, videos, and reels documenting camp activities.",
+      "sources": ["src_facebook_kanawana"],
+      "confidence": "stated",
+      "category": "sources_and_archives",
+      "entities": ["Camp Kanawana", "Facebook"],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "v4.71",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1308",
+      "claim": "Camp YMCA Kanawana held an Open House on Sunday, June 14, 2026, from 10:00 a.m. to 4:00 p.m.",
+      "sources": ["src_ymca_website"],
+      "confidence": "stated",
+      "category": "events",
+      "entities": ["Camp Kanawana"],
+      "date_ref": "2026-06-14",
+      "conflicts_with": [],
+      "added_version": "v4.71",
       "added_by": "ralph_loop"
     }
   ]

@@ -15,7 +15,7 @@ Camp Kanawana has appeared in a range of media over its 130-year history, from p
 
 ## Literature
 
-***Jane, le renard et moi*** **(2012).** The graphic novel *Jane, le renard et moi* (*Jane, the Fox and Me*) by Fanny Britt (text) and Isabelle Arsenault (illustration) is set partly at Camp Kanawana, depicting a school class trip to the camp.^4 The book won the Governor General's Literary Award for Children's Illustration (French), the Joe Shuster Award (Writer and Artist), and was named a *New York Times* Best Illustrated Children's Book.^5 An English translation by Susan Ouriou was published by Groundwood Books in 2013.
+***Jane, le renard et moi*** **(2012).** The graphic novel *Jane, le renard et moi* (*Jane, the Fox and Me*) by Fanny Britt (text) and Isabelle Arsenault (illustration) is set partly at Camp Kanawana.^4 The protagonist, Hélène, dreads an English immersion class trip to Camp Kanawana (Lac Kanawana), where she faces social difficulties with her classmates. On the second-to-last evening, while sitting on the porch of her cabin, a fox approaches her — a pivotal encounter in the narrative. The book won the Governor General's Literary Award for Children's Illustration (French), the Joe Shuster Award (Writer and Artist), and was named a *New York Times* Best Illustrated Children's Book.^5 An English translation by Susan Ouriou was published by Groundwood Books in 2013. The camp's use as an English immersion destination in the novel reflects its real-world role hosting school groups.
 
 ## Radio
 

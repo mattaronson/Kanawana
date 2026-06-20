@@ -6371,7 +6371,39 @@
       "extraction_version": "v4.70",
       "reliability": "secondary",
       "notes": "McLean archive at McMaster University. 403 on direct fetch; data from search snippets."
+    },
+    {
+      "source_id": "src_booknode_jane_fox",
+      "type": "web",
+      "title": "Booknode — Jane, le renard et moi (plot summary)",
+      "date": "2012",
+      "date_precision": "year",
+      "origin": "web",
+      "origin_url": "https://booknode.com/jane_le_renard_et_moi_0882473",
+      "cache_path": null,
+      "char_count": 0,
+      "ingested_at": "2026-06-20T08:00:00Z",
+      "extracted": true,
+      "extraction_version": "v4.71",
+      "reliability": "secondary",
+      "notes": "Plot details for Jane, le renard et moi — Camp Kanawana as English immersion destination."
+    },
+    {
+      "source_id": "src_facebook_kanawana",
+      "type": "web",
+      "title": "Camp YMCA Kanawana Facebook page",
+      "date": null,
+      "date_precision": "approximate",
+      "origin": "web",
+      "origin_url": "https://www.facebook.com/YKanawana/",
+      "cache_path": null,
+      "char_count": 0,
+      "ingested_at": "2026-06-20T08:00:00Z",
+      "extracted": true,
+      "extraction_version": "v4.71",
+      "reliability": "primary",
+      "notes": "Camp's official Facebook page. Contains photo albums including '1987-1994' album."
     }
   ],
-  "source_count": 370
+  "source_count": 372
 }
