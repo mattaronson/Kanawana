@@ -22638,6 +22638,30 @@
       "conflicts_with": [],
       "added_version": "v4.72",
       "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1314",
+      "claim": "The municipality of Mille-Isles, where Camp Kanawana is located, was officially created on July 1, 1855, after detaching from the parish of Saint-Jérôme. It is named after the Mille-Isles Seigneury, originally granted in 1683 to Michel-Sidrac Dugué de Boisbriand (governor of Montreal 1670). Early settlement in the area dates to the 1830s.",
+      "sources": ["src_wikipedia_mille_isles"],
+      "confidence": "stated",
+      "category": "geography",
+      "entities": ["Mille-Isles", "Camp Kanawana"],
+      "date_ref": "1855",
+      "conflicts_with": [],
+      "added_version": "v4.72",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1315",
+      "claim": "The Laurentian mountains northwest of Montreal are within the traditional territory of the Anishinaabe (Algonquin) peoples. Unlike most of Ontario and the Prairies, Algonquin territory in this region has never been covered by a land-sharing treaty.",
+      "sources": ["src_morin_heights_indigenous"],
+      "confidence": "stated",
+      "category": "indigenous_history",
+      "entities": ["Laurentians", "Anishinaabe", "Algonquin"],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "v4.72",
+      "added_by": "ralph_loop"
     }
   ]
 }

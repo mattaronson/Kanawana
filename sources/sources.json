@@ -6451,7 +6451,39 @@
       "extraction_version": "v4.72",
       "reliability": "primary",
       "notes": "YMCA GTA blog about Pine Crest Games tradition since 1940. Lumbermen vs Voyageurs, random team assignment, two-day event."
+    },
+    {
+      "source_id": "src_wikipedia_mille_isles",
+      "type": "web",
+      "title": "Wikipedia — Mille-Isles",
+      "date": null,
+      "date_precision": "approximate",
+      "origin": "web",
+      "origin_url": "https://en.wikipedia.org/wiki/Mille-Isles",
+      "cache_path": null,
+      "char_count": 0,
+      "ingested_at": "2026-06-20T16:00:00Z",
+      "extracted": true,
+      "extraction_version": "v4.72",
+      "reliability": "tertiary",
+      "notes": "Wikipedia article on municipality of Mille-Isles. Created 1855, named after Mille-Isles Seigneury (1683)."
+    },
+    {
+      "source_id": "src_morin_heights_indigenous",
+      "type": "web",
+      "title": "Morin Heights Historical Association — The Indigenous People of the Laurentians",
+      "date": null,
+      "date_precision": "approximate",
+      "origin": "web",
+      "origin_url": "https://morinheightshistory.org/the-indigenous-people-of-the-laurentians/",
+      "cache_path": null,
+      "char_count": 0,
+      "ingested_at": "2026-06-20T16:00:00Z",
+      "extracted": true,
+      "extraction_version": "v4.72",
+      "reliability": "secondary",
+      "notes": "Local historical association article on Indigenous presence in Laurentians. Anishinaabe/Algonquin territory."
     }
   ],
-  "source_count": 375
+  "source_count": 377
 }
