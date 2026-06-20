@@ -27,7 +27,9 @@ Lake Wilson serves as a destination for overnight camping excursions. Two-week c
 
 The origin of the name "Lake Wilson" is unknown. The claim that the lake is named for Wilson Griffith McConnell (1908–1966), eldest son of YMCA benefactor J.W. McConnell, is plausible but unverified. See [[people/j-w-mcconnell|J.W. McConnell]] for a full discussion of this question.
 
-Alternative possibilities include:
+Oral history provides an additional lead: the lake was originally called "Lac Desjardins" before being renamed after it was bought and donated to the camp, reportedly by J.W. McConnell.^7 If correct, this would explain why no "Lac Desjardins" appears in current toponymy records — the name was replaced. This claim has not been independently verified.
+
+Alternative possibilities for the "Wilson" name include:
 - A pre-existing geographic name from a local settler family named Wilson (consistent with other Quebec "Lac Wilson" naming patterns)
 - A reference to J.W. McConnell's own middle name "Wilson" (his mother's maiden name)
 - An unrelated Wilson associated with the YMCA or the local area
@@ -62,6 +64,7 @@ The dam between Lake Kanawana and Lake Wilson is a longstanding camp feature.^3 
 4. Wikidata, Lac Kanawana (Q22660425).
 5. Research finding: CRE Laurentides atlas, Les Amis du Lac Wilson registry, Mapcarta geographic database.
 6. The Gas Bag, 1923 Re-union Number, Internet Archive.
+7. Oral history, Matt Aronson (2026).
 
 ## Research Notes
 

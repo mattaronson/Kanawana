@@ -16,6 +16,8 @@ McMorris's analysis situates the Council Ring and its associated "Indian" tradit
 - Concordia University Records Management and Archives, Fonds P145/12B01, Season Reports 1922, 1927.
 - Concordia University Records Management and Archives, Fonds P145/02D, Annual Reports 1925-1947.
 - *A History of Kamp Kanawana* (1935). Internet Archive. Lists "Council Ring" as facility and "Council of Tribes" as tradition, confirming both existed by 1935.
+- Oral history, Matt Aronson (2026).
+- *The Gas Bag*, 1923 Re-union Number. Internet Archive.
 
 ### R3 Verification Notes
 
@@ -29,8 +31,15 @@ The "Tribes of Kanawana in Council" script (c. 1925-1927) featured a Big Chief p
 
 A second pageant, the "Zuni Council" script (1931), was more elaborate: a multi-part drama featuring settler-Indigenous conflict culminating in a Jesuit priest healing sick braves and persuading the Chief to surrender his lands to settlers.^5
 
+## Location and Modern Use
+
+The Council Ring is located at the far west end of the camp, a ten- to fifteen-minute walk past the Senior Boys section.^6 It remains the primary ceremonial site. In the 2000s era, the ring hosts the Opening Campfire for each session, the opening campfire of the L&V Games, and the Closing Fire of the summer.^6
+
+A longstanding tradition at the Closing Fire involves burning a "time capsule" — a record of the summer's important people, events, and moments — and then digging it up to read aloud at the following year's Opening Fire.^6 This practice is believed to date to the 1920s or 1930s, and documentary evidence supports an early origin: the 1923 *Gas Bag* records that the season closing featured "a Council Ring ceremony where a record of activities was buried," followed by a Leaders Grand Feed.^7 The hundred-year continuity of this ritual — from the 1923 record-burying through to the present-day time capsule — makes it one of the camp's oldest documented traditions.
+
 ## Open Questions
 
 - Does the Council Ring still exist in its 1929 form, or has it been rebuilt since?
 - Are the totem poles still standing? When were they last present? (A 1970s photograph shows at least one totem pole standing.)
 - How did Council Ring ceremonies evolve after the decline of "playing Indian" programming in the 1950s-1960s?
+- What is the full list of ceremonies and events held at the Council Ring in the modern era?
