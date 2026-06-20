@@ -1451,3 +1451,58 @@ All search results converge on the same Concordia University Archives source (P0
 6. Papineau-Labelle Wildlife Reserve details → 1,600 km², 760+ lakes (geographic context only)
 
 **Assessment**: Web research for Camp Kanawana is effectively saturated. All major discoverable web sources have been found and extracted. Remaining gaps (Pip Award 2019-2023, 1947-1958 directors, Billy Ball identification) are blocked on archival access or oral history.
+
+### Cycle 16: Maintenance, Cross-links, and Final Web Searches
+
+**Date**: 2026-06-20
+
+#### Cross-link Audit (Batch 2)
+
+Four parallel subagent audits covered all 47 articles systematically. Results:
+
+**Missing inline links found and added (10 total across 5 articles):**
+1. founding-1894: Lemuel Cushing → cushing-family, Billy Ball → billy-ball, Ralph H. Dawson → ralph-dawson, Page family → page-family, Council Ring → council-ring
+2. stuart-mclean: Sean Day → sean-day
+3. billy-ball: Camp Otoreke → camp-otoreke
+4. quebec-camp-landscape: A. Ross Seaman → a-ross-seaman, Lumbermen-versus-Voyageurs → lv-games
+5. ymca-quebec-history: Stuart McLean → stuart-mclean
+
+**Articles confirmed fully linked (no action needed):**
+camp-weredale, harold-cross, ralph-dawson, terry-mosher, a-ross-seaman, voyageur-canoe-pageant, centennial-1994, camp-otoreke, lake-wilson, camp-ouareau, camp-oolahwan, notable-alumni, rh-hanagan
+
+#### Article Expansion: centennial-1994
+
+Added Jay Netherwood succession detail (director 1986-87, brother of Bruce), Bruce Netherwood's Pip Award (2011), and his VP role at South Shore YMCA (Hanover, MA). Word count 550 → 622. +2 sources, +3 fact IDs.
+
+#### Orphan Fact Resolution
+
+Systematic analysis of all 1,281 facts against all 47 articles:
+- Starting orphan count: 72 facts untracked
+- Batch 1: 31 facts assigned to 11 articles (directors, traditions, programs, places, etc.)
+- Batch 2: 28 facts assigned to 12 articles (archives, sources-index, pip, etc.)
+- **Final orphan count: 0** — all facts now tracked in articles.json
+
+#### Word Count Audit
+
+12 word count mismatches corrected in articles.json (caused by cross-link additions in earlier sessions).
+
+#### Web Research (12 searches, all null or duplicate)
+
+1. Billy Ball YMCA Montreal obituary 1890s → null
+2. "Camp Kanawana" director 1950s 1960s → null (Concordia finding aid pages already sourced)
+3. "Pip Award" "Camp Kanawana" 2019-2023 → confirms gap; no YMCA Quebec press releases exist
+4. site:ymcaquebec.org "pip" award 2019 → null (jump from 2018 to 2024)
+5. "Chris Adam" "Camp Kanawana" pip award → confirmed existing KB data
+6. archive.org "YMCA" "Montreal" annual report → only pre-1900 and 1993 available
+7. "Camp Kanawana" "Non Nobis Solum" origin → Cicero De Officiis attribution confirmed (already in KB)
+8. "Camp Kanawana" 1994 centennial 100th → null
+9. "Howie Langille" YMCA Montreal → null
+10. "Camp Kanawana" winter program → null
+11. "Ross Macdonald" architects YMCA camp → CCA fonds page (already sourced)
+12. "Camp Kanawana" fire damage storm flood → null
+
+**Pip Award 2019-2023 gap explanation**: The jump from 2018 (Marina Sharpe) to 2024 (James Orbinski) on the YMCA Quebec website strongly suggests the award was suspended during the COVID years (2020-2021 camp closures documented in KB). Whether 2019 or 2022-2023 awards were given but not publicized online remains unknown.
+
+**Assessment**: Web research remains thoroughly exhausted. All remaining knowledge gaps require physical archive access (Concordia P0145, McMaster McLean fonds) or operator oral history input.
+
+**Final state**: KB v4.73, 1,335 facts (all tracked), 408 sources, 47 articles (46 E1-reviewed, 1 stub). 0 orphan facts. 162 priorities (121 completed, 38 blocked, 3 pending→completed).
