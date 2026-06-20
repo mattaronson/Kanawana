@@ -5890,6 +5890,23 @@
       "reliability": "primary",
       "notes": "RSVL station 0391A. 2021 transparency 6.2m (3 Secchi readings), oligotrophic. NOT Lac Kanawana — different lake in Lantier/Val-des-Lacs/Saint-Donat area."
     }
+    ,
+    {
+      "source_id": "src_wikipedia_becket_chimney_corners",
+      "type": "web",
+      "title": "Wikipedia — Becket-Chimney Corners YMCA",
+      "date": "2026",
+      "date_precision": "year",
+      "origin": "web",
+      "origin_url": "https://en.wikipedia.org/wiki/Becket-Chimney_Corners_YMCA",
+      "cache_path": null,
+      "char_count": 0,
+      "ingested_at": "2026-06-20T00:00:00Z",
+      "extracted": true,
+      "extraction_version": "v4.67",
+      "reliability": "secondary",
+      "notes": "Camp Becket motto 'Each for all — all for each' established under Henry Gibson (1904-1927). Parallels Kanawana's pre-1993 English motto."
+    }
   ],
-  "source_count": 339
+  "source_count": 340
 }

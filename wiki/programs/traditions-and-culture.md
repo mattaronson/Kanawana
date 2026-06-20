@@ -78,7 +78,7 @@ Known recipients include: Richard "Itche" Kerr (2007, composer of the camp song)
 
 ## Open Questions
 
-1. [Critical] When did the camp adopt the Latin motto "Non Nobis Solum" in place of "Each for all and all for each"?
+1. [Critical] When did the camp adopt the Latin motto "Non Nobis Solum" in place of "Each for all and all for each"? The English motto is documented in the 1922 and 1927 brochures. The Latin motto is first attested in the 1993 documentary. The transition date remains unknown. Note: "Each for all — all for each" is also the motto of Camp Becket (Becket-Chimney Corners YMCA, est. 1903), suggesting a shared YMCA camping tradition.
 2. ~~[Critical] Which pre-WWII traditions survived into the modern era?~~ [Partially resolved] Oral history (2026-06-13) confirms: the Council Ring ceremonies (Opening/Closing/L&V fires), the time capsule burial/retrieval tradition, the section system (renamed 1959), and the Kanawana Marching Song all survived. The dam ceremony did not survive past ~1985. The Shawbridge Meet, Pyjama Parade, and Eating-Out Day/Haunted House status are unknown.
 3. ~~[Important] What was the "Torch Ceremony for World Friendship"?~~ [Resolved] Part of a YMCA-wide interwar peace tradition originating at a 1926 international conference. Camp Fuller (1932) and Kanawana (1935) both held versions.
 4. [Important] When did the Shawbridge Meet end? It ran from ~1912 through at least 1935.

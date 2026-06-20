@@ -22080,5 +22080,24 @@
       "added_version": "v4.67",
       "added_by": "ralph_loop"
     }
+    ,
+    {
+      "fact_id": "f_1268",
+      "claim": "The motto 'Each for all — all for each' is also the motto of Camp Becket (Becket-Chimney Corners YMCA, founded 1903 in Massachusetts), established under director Henry Gibson (1904-1927). Camp Becket has eight core mottos. This suggests the English-language motto may have been a shared YMCA camping tradition rather than unique to Kanawana. Camp Kanawana's 1922 brochure documents 'Each for all and all for each' as its motto; the camp later adopted 'Non Nobis Solum' (Cicero) at an unknown date.",
+      "sources": [
+        "src_wikipedia_becket_chimney_corners"
+      ],
+      "confidence": "stated",
+      "category": "traditions",
+      "entities": [
+        "Camp Kanawana",
+        "Camp Becket",
+        "Becket-Chimney Corners YMCA"
+      ],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "v4.67",
+      "added_by": "ralph_loop"
+    }
   ]
 }
