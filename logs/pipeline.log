@@ -1740,3 +1740,11 @@ HYPOTHESIZE — Remaining productive research requires:
   - Updated kanawana-in-media with expanded Jane le renard section
   - 2 new sources: src_booknode_jane_fox, src_facebook_kanawana
   - KB v4.71, 1309 facts, 372 sources
+
+2026-06-20T14:00:00Z | VERIFY | centennial-1994 — draft → R3-verified
+  - All claims verified against KB facts: poster title, Look Out newsletter, tear sheets, documentary details, Netherwood dates, anniversary milestones
+  - Cross-links verified: all 6 target articles exist
+  - Names checked: Billy Ball, Cathy Reeves, Richard Kerr, Bruce Netherwood — all in KB
+  - Dates checked: 1894, 1989-04-07, 1993, 1994, 1996, 2014-09-05, 2019 — all consistent with timeline
+  - Added 7 fact IDs to tracking: f_0336, f_1079, f_1080, f_1081, f_1082, f_1084, f_1212
+  - No corrections needed. 5 open questions remain (blocked on Concordia Archives access)

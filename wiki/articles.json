@@ -3852,7 +3852,7 @@
       "article_id": "centennial-1994",
       "title": "The 1994 Centennial",
       "wiki_folder": "chronology",
-      "status": "draft",
+      "status": "R3-verified",
       "status_history": [
         {
           "status": "stub",
@@ -3865,10 +3865,23 @@
           "at": "2026-06-20T08:00:00Z",
           "by": "auto",
           "task": "WRITE"
+        },
+        {
+          "status": "R3-verified",
+          "at": "2026-06-20T14:00:00Z",
+          "by": "auto",
+          "task": "VERIFY"
         }
       ],
       "ralph_loops_completed": 1,
       "kb_facts_used": [
+        "f_0336",
+        "f_1079",
+        "f_1080",
+        "f_1081",
+        "f_1082",
+        "f_1084",
+        "f_1212",
         "f_1256",
         "f_1257",
         "f_1258",

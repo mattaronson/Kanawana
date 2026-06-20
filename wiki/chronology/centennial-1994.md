@@ -1,12 +1,12 @@
 # The 1994 Centennial
 
-<!-- status: draft -->
-<!-- confidence: low -->
+<!-- status: R3-verified -->
+<!-- confidence: medium -->
 <!-- last_updated: 2026-06-20 -->
 <!-- last_editor: v54 -->
-<!-- ralph_loops: centennial-1994-R1, centennial-1994-W1 -->
+<!-- ralph_loops: centennial-1994-R1, centennial-1994-W1, centennial-1994-V1 -->
 
-*Status: draft | Sources: 6*
+*Status: R3-verified | Sources: 6*
 *Last Updated: 2026-06-20*
 
 ## Overview
