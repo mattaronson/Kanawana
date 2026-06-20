@@ -6018,7 +6018,23 @@
       "extraction_version": "v4.68",
       "reliability": "secondary",
       "notes": "ACA award honoring Hedley S. Dimock, dean of YMCA College (George Williams College) in Chicago. Led camping character education institutes from 1930. Influenced small-group-centered camping methods in 1940s-1950s."
+    },
+    {
+      "source_id": "src_websearch_page_family_vss",
+      "type": "web",
+      "title": "Web search results — Pagé family pioneer history of Saint-Sauveur (Ville de Saint-Sauveur)",
+      "date": "2026",
+      "date_precision": "year",
+      "origin": "web",
+      "origin_url": "https://www.vss.ca/loisirs-et-culture/culture-et-communaute/les-familles-pionnieres-de-saint-sauveur",
+      "cache_path": null,
+      "char_count": 0,
+      "ingested_at": "2026-06-20T00:00:00Z",
+      "extracted": true,
+      "extraction_version": "v4.68",
+      "reliability": "secondary",
+      "notes": "VSS.ca 403 blocked; facts extracted from Google search snippets only. Magloire Pagé married 1851, son born in Saint-Sauveur 1853, first baker 1897, bakery sold to Édouard Pagé 1912. Boulangerie Pagé still active. No Télesphore Pagé found."
     }
   ],
-  "source_count": 348
+  "source_count": 349
 }

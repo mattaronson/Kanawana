@@ -22254,6 +22254,54 @@
       "conflicts_with": [],
       "added_version": "v4.68",
       "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1282",
+      "claim": "A silent film (no sound) of Kamp Kanawana from the 1960s, showing swimming and diving activities, exists as a YouTube access copy (Concordia Archives P0145-09-0087). URL: https://www.youtube.com/watch?v=ZrUuQ1SU7q8",
+      "sources": ["src_concordia_p0145_12a_finding_aid"],
+      "confidence": "stated",
+      "category": "media",
+      "entities": ["Camp Kanawana"],
+      "date_ref": "1960s",
+      "conflicts_with": [],
+      "added_version": "v4.68",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1283",
+      "claim": "On September 5, 2014, Camp YMCA Kanawana alumni (former campers and staff) assembled at Victoria Hall (Westmount) to celebrate the camp's 120th anniversary reunion.",
+      "sources": ["src_ymca_website"],
+      "confidence": "stated",
+      "category": "events",
+      "entities": ["Camp Kanawana", "Victoria Hall"],
+      "date_ref": "2014-09-05",
+      "conflicts_with": [],
+      "added_version": "v4.68",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1284",
+      "claim": "Derek Walsh (ACQ) received the Canadian Camping Association Award of Excellence in 1983. The CCA fonds at Trent University associates him with Kamp Kanawana and YMCA Montreal.",
+      "sources": ["src_websearch_taylor_statten_cca"],
+      "confidence": "stated",
+      "category": "institutional",
+      "entities": ["Derek Walsh", "Canadian Camping Association", "ACQ", "Camp Kanawana"],
+      "date_ref": "1983",
+      "conflicts_with": [],
+      "added_version": "v4.68",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1285",
+      "claim": "Magloire Pagé married Adéline Beauchamp on July 28, 1851 at Saint-Jérôme. Their son, also Magloire, was born in Saint-Sauveur in 1853 and in 1897 became the village's first baker. The bakery was sold in 1912 to Édouard Pagé; Boulangerie Pagé remains active in Saint-Sauveur today.",
+      "sources": ["src_websearch_page_family_vss"],
+      "confidence": "stated",
+      "category": "people",
+      "entities": ["Pagé family", "Saint-Sauveur", "Magloire Pagé"],
+      "date_ref": "1851-1912",
+      "conflicts_with": [],
+      "added_version": "v4.68",
+      "added_by": "ralph_loop"
     }
   ]
 }

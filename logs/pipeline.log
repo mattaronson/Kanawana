@@ -1557,3 +1557,18 @@ NULL RESULTS:
   - Shawbridge Meet: QAHN article found but 403'd
   - HathiTrust 'Camp Kanawana': no direct hits (Camping magazine potentially relevant)
   - Google Books 'Camp Kanawana': hit = 'Jane le renard et moi' (extracted)
+
+=== 2026-06-20T06:04:47Z — Phase 2 RALPH continued: memorabilia, social media, deeper research ===
+RETRIEVE: eBay memorabilia (null), Reddit (null), YouTube videos, LinkedIn staff, CCA awards
+RETRIEVE: McMorris thesis CORE.ac.uk (403), Concordia Reflections PDF (403), Wikipedia Non Nobis Solum (403)
+RETRIEVE: Harold Potter deeper biography, Fanny Britt/Jane Fox Me interview context
+RETRIEVE: YMCA 120th anniversary reunion, QAHN articles (403), Kanawana preparation guide (403)
+
+ANALYZE — New facts:
+  f_1282: Silent film of Kamp Kanawana 1960s (P0145-09-0087, YouTube)
+  f_1283: 120th anniversary reunion at Victoria Hall, September 5, 2014
+  f_1284: Derek Walsh (ACQ) CCA Award of Excellence 1983, associated with Kanawana/YMCA Montreal
+  f_1285: Pagé family bakery genealogy (Magloire married 1851, son born 1853, baker 1897)
+
+NULL RESULTS: eBay/Etsy memorabilia, Reddit mentions, CORE.ac.uk thesis access, Concordia Reflections PDF
+PROCESS — KB v4.68 extended: 4 more facts (f_1282-f_1285), 1 new source (349 total)
