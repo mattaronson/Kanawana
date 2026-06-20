@@ -6403,7 +6403,55 @@
       "extraction_version": "v4.71",
       "reliability": "primary",
       "notes": "Camp's official Facebook page. Contains photo albums including '1987-1994' album."
+    },
+    {
+      "source_id": "src_campadmin_hall_of_fame",
+      "type": "web",
+      "title": "Camp Administrator Hall of Fame — Inductees",
+      "date": "2022",
+      "date_precision": "year",
+      "origin": "web",
+      "origin_url": "https://www.campadmin.org/hall/",
+      "cache_path": null,
+      "char_count": 0,
+      "ingested_at": "2026-06-20T15:00:00Z",
+      "extracted": true,
+      "extraction_version": "v4.72",
+      "reliability": "secondary",
+      "notes": "Lists Audrey Dowse as Hall of Fame inductee from Camp YMCA Kanawana/YMCA Day Camps. 2022 nominee."
+    },
+    {
+      "source_id": "src_ymca_alumni_weekend_2018",
+      "type": "web",
+      "title": "YMCA Quebec Blog — Alumni, Family & Friends Weekend September 7-9, 2018",
+      "date": "2018-08-30",
+      "date_precision": "exact",
+      "origin": "web",
+      "origin_url": "https://www.ymcaquebec.org/en/Find-a-Y/Camp-YMCA-Kanawana/Blog/Alumni-Family-Friends-Weekend-September-7-9-2018",
+      "cache_path": null,
+      "char_count": 0,
+      "ingested_at": "2026-06-20T15:00:00Z",
+      "extracted": true,
+      "extraction_version": "v4.72",
+      "reliability": "primary",
+      "notes": "YMCA blog post promoting the September 2018 alumni weekend at Kanawana."
+    },
+    {
+      "source_id": "src_ymcagta_pine_crest_games",
+      "type": "web",
+      "title": "YMCA of Greater Toronto Blog — Celebrating Tradition with the Pine Crest Games",
+      "date": null,
+      "date_precision": "approximate",
+      "origin": "web",
+      "origin_url": "https://www.ymcagta.org/blog/celebrating-tradition-with-the-pine-crest-games",
+      "cache_path": null,
+      "char_count": 0,
+      "ingested_at": "2026-06-20T15:00:00Z",
+      "extracted": true,
+      "extraction_version": "v4.72",
+      "reliability": "primary",
+      "notes": "YMCA GTA blog about Pine Crest Games tradition since 1940. Lumbermen vs Voyageurs, random team assignment, two-day event."
     }
   ],
-  "source_count": 372
+  "source_count": 375
 }

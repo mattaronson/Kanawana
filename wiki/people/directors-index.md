@@ -41,6 +41,8 @@ This index compiles all known directors of Camp Kanawana (originally Camp Jubile
 | Kate Taylor | 2020s | Camp Director; appeared on Go Camp Pro "Beyond Camp" podcast discussing social media advocacy; led COVID-era communications with families; quoted in 2021 Gazette re: second consecutive summer closure | Go Camp Pro podcast; MSN/Gazette 2021; YMCA Quebec website |
 | Kevin Slezak | 2020s | Leadership team alongside Kate Taylor and Sean Day; participated in Jan 27 Zoom town hall with families | YMCA Quebec website; LinkedIn |
 
+**Audrey Dowse** was inducted into the Camp Administrator Hall of Fame (nominated 2022) for her work with Camp YMCA Kanawana and YMCA Day Camps. Her exact role and dates of service are not yet documented.^HOF
+
 ## Staff by Era
 
 ### The 1920s: Brochure and Gas Bag Staff (1921-1923)
@@ -159,6 +161,7 @@ The following periods have no confirmed camp director:
 14. Concordia University Archives, YMCA of Montreal Fonds P145/12B05 (Staff); Hedley G. Dimock publications.
 15. Concordia University, "A. Ross Seaman Memorial Fund" (est. 1987). URL: https://www.concordia.ca/artsci/applied-human-sciences/about/funding.html
 16. Richard Andrew Patten obituary, HP McGarry Funeral Home, 2021; Wikipedia article on Richard Patten; Westmount Magazine, "A fond farewell to Stuart McLean" (March 2017), comments section.
+HOF. Camp Administrator Hall of Fame, campadmin.org — Audrey Dowse inductee (nominated 2022), Camp YMCA Kanawana/YMCA Day Camps.
 
 ## Research Notes
 

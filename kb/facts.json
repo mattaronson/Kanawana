@@ -1,5 +1,5 @@
 {
-  "version": "v4.71",
+  "version": "v4.72",
   "kb_version": 4.64,
   "migrated_from": "3.3",
   "fact_count": 1279,
@@ -22589,6 +22589,42 @@
       "date_ref": "1960",
       "conflicts_with": [],
       "added_version": "v4.71",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1310",
+      "claim": "Audrey Dowse is a Camp Administrator Hall of Fame inductee (nominated 2022), recognized for her work with Camp YMCA Kanawana and YMCA Day Camps. She is listed on campadmin.org alongside camp administrators from YMCA camps across North America.",
+      "sources": ["src_campadmin_hall_of_fame"],
+      "confidence": "stated",
+      "category": "people",
+      "entities": ["Audrey Dowse", "Camp Kanawana"],
+      "date_ref": "2022",
+      "conflicts_with": [],
+      "added_version": "v4.72",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1311",
+      "claim": "Camp YMCA Kanawana hosted an Alumni, Family & Friends Weekend on September 7-9, 2018. The Pip Award is presented at this annual alumni weekend. This confirms the event is an annual tradition, not only held for milestone anniversaries.",
+      "sources": ["src_ymca_alumni_weekend_2018"],
+      "confidence": "stated",
+      "category": "events",
+      "entities": ["Camp Kanawana", "Pip Award"],
+      "date_ref": "2018-09-07",
+      "conflicts_with": [],
+      "added_version": "v4.72",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1312",
+      "claim": "The Pine Crest Games at YMCA Camp Pine Crest have been held since 1940, making them one of the oldest continuous camp competition traditions in the YMCA system. The two-day event occurs on the last Tuesday and Wednesday of each summer. Staff and campers are randomly assigned to teams each year.",
+      "sources": ["src_ymcagta_pine_crest_games"],
+      "confidence": "stated",
+      "category": "inter_camp",
+      "entities": ["YMCA Camp Pine Crest", "Pine Crest Games", "L&V Games"],
+      "date_ref": "1940",
+      "conflicts_with": [],
+      "added_version": "v4.72",
       "added_by": "ralph_loop"
     }
   ]
