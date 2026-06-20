@@ -221,7 +221,7 @@ Both the 1928 and 1962 maps were analyzed in the McMorris thesis. The 1928 map n
 
 ### Kanawana–Weredale Two-Site Operation (1977–1980)
 
-From 1977 to 1980, plans existed for a proposed two-site camping operation using Camp Kanawana and Camp Weredale [src_concordia_fonds]. Camp Weredale was founded in 1934 to serve orphaned or at-risk boys and is now an independent non-profit operated by the Weredale Foundation, serving ages 6–17 in foster care or youth protection services. Situation reports from this period are held in the Concordia Archives (P0145/12C). The dual-site plan was abandoned; the reasons are not documented in available sources. Both camps now operate independently.
+From 1977 to 1980, plans existed for a proposed two-site camping operation using Camp Kanawana and [[context/camp-weredale|Camp Weredale]] [src_concordia_fonds]. Camp Weredale was founded in 1934 to serve orphaned or at-risk boys and is now an independent non-profit operated by the Weredale Foundation, serving ages 6–17 in foster care or youth protection services. Situation reports from this period are held in the Concordia Archives (P0145/12C). The dual-site plan was abandoned; the reasons are not documented in available sources. Both camps now operate independently.
 
 ## Building Chronology
 

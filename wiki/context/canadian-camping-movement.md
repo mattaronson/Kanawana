@@ -27,7 +27,7 @@ The earliest known Canadian camps:
 | 1910 | Camp Pine Crest | Clear Lake, Muskoka | YMCA |
 | 1919 | Camp Kitchikewana | Beausoleil Island, Georgian Bay | YMCA Simcoe/Muskoka |
 
-The Cushing family and D.A. Budge of the Montreal YMCA were instrumental in the earliest years.^4 Lemuel Cushing brought the first group of boys to Lake Saint-Joseph in 1892, two years before Billy Ball's formal establishment of Camp Jubilee in 1894.
+The [[people/cushing-family|Cushing family]] and [[people/da-budge|D.A. Budge]] of the Montreal YMCA were instrumental in the earliest years.^4 Lemuel Cushing brought the first group of boys to Lake Saint-Joseph in 1892, two years before [[people/billy-ball|Billy Ball]]'s formal establishment of Camp Jubilee in 1894.
 
 ## Taylor Statten and the Professionalization of Camping (1906-1936)
 

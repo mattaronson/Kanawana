@@ -1,7 +1,7 @@
 # Kanawana in Media and Culture
 
-*Status: E1-reviewed | Sources: 10*
-*Last Updated: 2026-06-20*
+*Status: E1-reviewed | Sources: 12*
+*Last Updated: 2026-06-20 (1913 Gazette and 1967 Ottawa Journal coverage added)*
 
 ## Overview
 
@@ -25,6 +25,10 @@ Camp Kanawana has appeared in a range of media over its 130-year history, from p
 
 ## Journalism
 
+**1913 Montreal Gazette.** On July 7, 1913, *The Montreal Gazette* reported two detachments of Montreal YMCA boys leaving for Kamp Kanawana, with programmes adapted for specific ages including instruction in athletics, educational subjects, and Bible study.^11 This is the earliest known newspaper coverage of the camp.
+
+**1967 Ottawa Journal.** The *Ottawa Journal* covered the arrival of Kanawana's CCA Centenary Journey paddlers on August 10, 1967, as the ten-month, 5,283-mile canoe relay reached the National Capital Region.^12
+
 **2026 Postmedia feature.** "Rewilding childhood: How one summer camp is tackling nature-deficit disorder among Montreal youth," by Ursula Leonowicz (Postmedia Content Works, on behalf of YMCAs of Québec, March 4, 2026).^8 Featured camper Xavier Maclaren, who attended Kanawana for six summers.
 
 ## Stuart McLean and *The Vinyl Cafe*
@@ -38,6 +42,14 @@ Stuart McLean worked as a counsellor at Camp Kanawana for five summers beginning
 3. Do any Montreal television news archives contain footage of camp events (e.g., centennial, Pip Award ceremonies)?
 4. The Concordia Archives hold photographs, slides, and film from multiple decades — have any been published or exhibited?
 
+## Related Articles
+
+- [[people/stuart-mclean|Stuart McLean]]
+- [[chronology/centennial-1967|Centennial Year (1967)]]
+- [[chronology/voyageur-canoe-pageant|The Voyageur Canoe Pageant]]
+- [[chronology/founding-1894|Founding of Camp Kanawana (1894)]]
+- [[people/terry-mosher|Terry Mosher (Aislin)]]
+
 ## Sources
 
 1. Concordia University Archives, P0145-09-0087 (YouTube access copy).
@@ -50,6 +62,8 @@ Stuart McLean worked as a counsellor at Camp Kanawana for five summers beginning
 8. Leonowicz, Ursula. "Rewilding childhood." Postmedia Content Works, March 4, 2026.
 9. Samaritanmag.com, Stuart McLean profile; CBC News, Stuart McLean obituary/fund.
 10. McMaster University Library, Stuart McLean fonds.
+11. "Kamp Kanawana." *The Montreal Gazette*, July 7, 1913.
+12. McMorris, Grace (2023). "An Experience That Lasts a Lifetime." MA thesis, Concordia University. Figure 3.5 (Ottawa Journal coverage).
 
 ### R3 Verification Notes
 

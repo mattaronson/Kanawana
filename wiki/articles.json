@@ -4198,7 +4198,9 @@
                         "f_1305",
                         "f_1306",
                         "f_1121",
-                        "f_1238"
+                        "f_1238",
+                        "f_0695",
+                        "f_0611"
                   ],
                   "sources_cited": [
                         "src_concordia_p0145_12a_finding_aid",
@@ -4211,17 +4213,22 @@
                         "src_postmedia_nature_deficit_2026",
                         "src_samaritanmag_mclean",
                         "src_cbc_mclean_fund",
-                        "src_samaritanmag_mclean"
+                        "src_samaritanmag_mclean",
+                        "src_newspapers_gazette_1913",
+                        "src_mcmorris_thesis"
                   ],
                   "open_questions": 4,
                   "cross_links": [
                         "stuart-mclean",
                         "notable-alumni",
                         "wartime-kanawana",
-                        "sources-index"
+                        "sources-index",
+                        "centennial-1967",
+                        "voyageur-canoe-pageant",
+                        "terry-mosher"
                   ],
                   "file_id": null,
-                  "word_count": 799
+                  "word_count": 933
             }
       ]
 }
