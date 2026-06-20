@@ -1948,11 +1948,13 @@
       "rank": 154,
       "type": "WRITE",
       "description": "Draft inter-camp landscape context article covering Quebec Laurentian camps (Tamaracouta, Camp Massad, Pripstein, Camp Trois-Saumons, Camp Weredale, Camp Oolahwan, Camp Ouareau) — requires ≥5 more facts to justify standalone article. Currently 2 Tamaracouta + 1 Massad + 1 Pripstein + 1 Ste-Jeanne-d'Arc = 5 orphan facts. Threshold borderline.",
-      "article_id": null,
+      "article_id": "quebec-camp-landscape",
       "blocking": false,
       "assigned_weight": "P3",
       "created_at": "2026-06-20T04:00:00Z",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-06-20T06:00:00Z",
+      "result": "Drafted 1850-word article wiki/context/quebec-camp-landscape.md. Absorbed 16 orphan inter-camp facts. Status: draft (needs VERIFY)."
     },
     {
       "priority_id": "p_155",
