@@ -6227,7 +6227,23 @@
       "extraction_version": null,
       "reliability": "primary",
       "notes": "YMCA Montreal 50th anniversary document 1851-1901. Full text blocked (403). May contain early camping references."
+    },
+    {
+      "source_id": "src_ia_cfcf_1939",
+      "type": "web",
+      "title": "Internet Archive — Kamp Kanawana CFCF Broadcast, June 10, 1939",
+      "date": "1939-06-10",
+      "date_precision": "exact",
+      "origin": "internet_archive",
+      "origin_url": "https://archive.org/details/1939-06-10-kamp-kanawana-broadcast-station-cfcf",
+      "cache_path": null,
+      "char_count": 0,
+      "ingested_at": "2026-06-20T00:00:00Z",
+      "extracted": false,
+      "extraction_version": null,
+      "reliability": "primary",
+      "notes": "Second CFCF broadcast about Kanawana (distinct from 1941 broadcast). Full text blocked (403)."
     }
   ],
-  "source_count": 361
+  "source_count": 362
 }

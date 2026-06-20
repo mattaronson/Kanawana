@@ -22446,6 +22446,18 @@
       "conflicts_with": [],
       "added_version": "v4.69",
       "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1298",
+      "claim": "A second CFCF radio broadcast about Kamp Kanawana, dated June 10, 1939, is available on the Internet Archive (identifier: 1939-06-10-kamp-kanawana-broadcast-station-cfcf). This is distinct from the June 26, 1941 broadcast already documented. Both were uploaded by Concordia University Records Management from the YMCA of Montreal fonds.",
+      "sources": ["src_ia_cfcf_1939"],
+      "confidence": "stated",
+      "category": "media_and_publications",
+      "entities": ["CFCF", "Kamp Kanawana", "Concordia University Archives"],
+      "date_ref": "1939-06-10",
+      "conflicts_with": [],
+      "added_version": "v4.69",
+      "added_by": "ralph_loop"
     }
   ]
 }

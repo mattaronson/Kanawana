@@ -1270,3 +1270,31 @@ All search results converge on the same Concordia University Archives source (P0
 **Result:** No new directors identified. Concordia Archives 12A (seven-year summary 1955-1961, season reports 1958-59) are the access path. **Saturated for online.**
 
 **KB now at v4.63, 1259 facts. Sources: 334.**
+
+---
+
+## Session: 2026-06-20 (continued)
+
+### Cycle 4: Inter-Camp Connections & Naismith-Budge
+**Queries:** D.A. Budge biography (confirmed YMCA gen. sec. 1874-1913, directed Naismith to Springfield), McMorris thesis on Spectrum/CORE (403'd), Camp Tamaracouta (Wikipedia, CBC — lodge burned 2024, sold 2025), Camp Massad Montreal (Wikipedia — est. 1947, Hebrew-speaking), Camp Kinkora (already documented), Reginald K. Groome (not Kanawana-connected — hotel exec, Boy Scouts president, Concordia Board chair), Pripstein's Camp Mishmar (new — Saint-Adolphe-d'Howard, 1941-2014)
+**Results:**
+- f_1289: D.A. Budge directed James Naismith to Springfield → basketball invented
+- f_1290-f_1291: Tamaracouta lodge fire 2024, sale 2025, founding details
+- f_1292: Camp Massad Montreal est. 1947
+- f_1293: Pripstein's Camp Mishmar 1941-2014
+→ 5 facts, 7 sources added.
+
+### Cycle 5: Archival Leads & Songs
+**Queries:** Richard "Itche" Kerr songwriter (no results — different person found), YMCA camp songbooks (1910 YMCA Song Book noted), Chopsy legend (no results), 1967 CCA Centenary Journey (already comprehensive), Sainte-Jeanne-d'Arc vacation camp (new — French girls-only 1926), University of Minnesota YMCA Canada records (archival lead), Harry Ballantyne "Short History of Canadian YMCA 1851-1944" on IA (403'd), Historical Sketch of YMCA Montreal 1901 on IA (403'd), Jane the Fox and Me (already documented), Pip Award 2019-2023 (still unknown), LCC-Kanawana alumni (no evidence), Lake Wilson name (no evidence)
+**Results:**
+- f_1294: Sainte-Jeanne-d'Arc camp, Contrecoeur, 1926
+- f_1295: UMN YMCA Canada records collection (archival lead)
+- f_1296: Ballantyne YMCA history on IA
+- f_1297: 1901 Historical Sketch on IA
+→ 4 facts, 4 sources added.
+
+### Cycle 6 (in progress): Director gap, environmental history, Concordia catalog
+**Queries:** Concordia AtoM + camp directors 1950-1970 (no names), YMCA camping/outdoor education director reports 1960s-80s (confirmed 1972 Director Report exists), environmental/conservation at Kanawana (general YMCA values, no historical ecology)
+→ No new facts. Archival access confirmed as blocker for director gap.
+
+**KB now at v4.69, 1297 facts. Sources: 361.**
