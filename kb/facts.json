@@ -22458,6 +22458,42 @@
       "conflicts_with": [],
       "added_version": "v4.69",
       "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1299",
+      "claim": "The annual 'games' at Camp Kanawana were inspired by YMCA Camp Pine Crest (Muskoka, Ontario) and have been held every year since approximately 1948. The 78th edition of the games is scheduled for 2025.",
+      "sources": ["src_ymca_kanawana_history"],
+      "confidence": "stated",
+      "category": "traditions",
+      "entities": ["Camp Kanawana", "Camp Pine Crest", "YMCA"],
+      "date_ref": "c.1948",
+      "conflicts_with": [],
+      "added_version": "v4.69",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1300",
+      "claim": "YMCA Camp Pine Crest was founded in 1910, is now part of the YMCA of Greater Toronto, and is located on 650 acres of Muskoka wilderness on three lakes. It is one of Canada's earliest overnight camps and focuses on traditional canoe tripping. A history book, 'Lumbermen & Voyageurs: The YMCA Pine Crest Story,' has been published about the camp.",
+      "sources": ["src_ymca_gta_pine_crest"],
+      "confidence": "stated",
+      "category": "inter-camp",
+      "entities": ["Camp Pine Crest", "YMCA of Greater Toronto", "Muskoka"],
+      "date_ref": "1910",
+      "conflicts_with": [],
+      "added_version": "v4.69",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1301",
+      "claim": "The Pine Crest Games at YMCA Camp Pine Crest are a two-day event held on the last Tuesday and Wednesday of each summer, involving competitions between two teams: the Lumbermen and the Voyageurs. This is the model for Kanawana's L&V Games, confirming the oral history that the tradition originated at Pine Crest.",
+      "sources": ["src_ymca_gta_blog_games"],
+      "confidence": "stated",
+      "category": "traditions",
+      "entities": ["Camp Pine Crest", "L&V Games", "Camp Kanawana"],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "v4.69",
+      "added_by": "ralph_loop"
     }
   ]
 }
