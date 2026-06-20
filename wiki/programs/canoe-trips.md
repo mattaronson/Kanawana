@@ -10,12 +10,19 @@ By 1945, the routes were codified into a tiered system: a 3-day Lachute trip for
 
 By 1962, the growth of cottager communities near Kanawana meant canoe trips had to drive over 150 km to reach suitable launch points.^mc The appetite for more remote territory led the camp committee to begin searching in 1956 for a northern site that could serve older, more experienced trippers. After three years of scouting, they chose La Vérendrye Park in 1959 as a base camp for campers aged 15 and older. The YMCA secured a 25-acre lease at Lac Landron as a base camp, and the program was formally named **"Les Voyageurs de La Vérendrye."**^mc That first summer, the Pathfinder section alone went on eighteen canoe trips — to the Rouge River, North River, Lake Kiamika, and Taureau.^mc By 1964, over twenty trips were departing each season.^mc The La Vérendrye canoe trip program, and the L&V Games competition that grew up alongside it, became inseparable from the camp's identity in the decades that followed.
 
+## Coeducation and Later Developments
+
+The first all-female Voyageur trip departed from Kanawana in 1972, a milestone in the camp's transition to coeducation.^3 In 1998, the one-month Adventurer Canoe Trip was introduced, extending the program's reach to the most committed young trippers.^3
+
+Today, canoe tripping remains central to the Kanawana experience. The current program includes Voyageurs Ultimate, a leadership section for campers aged 15–17 focused on canoe-tripping skills and wilderness leadership.^4
+
 ## Sources
 
 - McMorris, Grace. *An Experience That Lasts a Lifetime: Building Modernity, Man, and Nation at the YMCA of Montreal's Kamp Kanawana, 1894-1967*. MA thesis, Concordia University, 2023. Chapter 3. [Spectrum](https://spectrum.library.concordia.ca/id/eprint/992763/)
 - Concordia University Records Management and Archives, Fonds P145, Sub-series 12K: Les Voyageurs de la Vérendrye. Includes exploratory canoe trip logs (1958), La Vérendrye Park pilot project budget (c.1959), welcome document (1960s), Lac Landron lease (1962-63), program brochure (1963), camper records (1967-1980), and review booklet (1982).
 - YMCA Kamp Kanawana Facts (undated). [Internet Archive](https://archive.org/details/ymca-kamp-kanawana-facts). Timeline confirms Voyageurs de la Vérendrye (1950s), first all-female Voyageur trip (1972), Adventurer program (1998).
-- YMCA Quebec, "Summer Camp Kanawana: History" (ymcaquebec.org). Confirms La Vérendrye canoe trip program still active.
+- YMCA Kamp Kanawana Facts (undated). [Internet Archive](https://archive.org/details/ymca-kamp-kanawana-facts). Confirms first female Voyageur trip (1972) and Adventurer program (1998).
+- YMCA Quebec, "Summer Camp Kanawana: Programs" (ymcaquebec.org). Confirms Voyageurs Ultimate section and ongoing canoe tripping.
 - *A History of Kamp Kanawana* (1935). Internet Archive. Mentions "Four-day trip to Otoreke," confirming canoe trips existed by 1935.
 
 ### R3 Verification Notes

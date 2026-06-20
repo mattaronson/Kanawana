@@ -1363,3 +1363,49 @@ All search results converge on the same Concordia University Archives source (P0
 **Remaining orphan facts:** ~6 (duplicates or sub-threshold for article placement).
 
 **KB status:** v4.70, 1305 facts, 370 sources. 2 new articles. ~24 orphan facts resolved.
+
+---
+
+## Cycle 12: Wide-Net Searches, Article Verification & Expansion (2026-06-20)
+
+### Searches Attempted
+
+| # | Query | Surface | Result |
+|---|-------|---------|--------|
+| 1 | eBay "Camp Kanawana" memorabilia | eBay | Null — no Kanawana-specific listings |
+| 2 | Etsy "Camp Kanawana" vintage | Etsy | Null — no results |
+| 3 | Google Books "Camp Kanawana" | Google Books | No new results beyond known sources |
+| 4 | Reddit "Camp Kanawana" | Reddit | Null — no indexed posts |
+| 5 | YouTube "Camp Kanawana" 2024-2026 | YouTube | Confirmed channel exists, no new content surfaced |
+| 6 | HathiTrust "Kanawana" | HathiTrust | Null — no results |
+| 7 | Camp Administrator Hall of Fame | campadmin.org | **NEW**: Audrey Dowse, HOF inductee 2022, Camp YMCA Kanawana |
+| 8 | YMCA Alumni Weekend 2018 | YMCA Quebec | **NEW**: Sep 7-9 2018 alumni weekend confirmed annual |
+| 9 | Pine Crest Games history/tradition | YMCA GTA blog | Since 1940, random team assignment, two-day event |
+| 10 | CORE.ac.uk McMorris thesis | CORE | Listed but 403 Forbidden (WebFetch blocked) |
+| 11 | Flickr "Camp Kanawana" photos | Flickr/web | Null — no specific results |
+| 12 | McCord Museum "Kanawana" | McCord | No Kanawana-specific collection |
+| 13 | Ross & Macdonald CCA | CCA website | Confirmed existing KB data; no new project listings |
+| 14 | "Joanna Hode" YMCA | Web | Null — no online presence |
+| 15 | "Morgan Carter" YMCA Kanawana | Web | Null — no online presence |
+| 16 | "Peter Goddard" YMCA camp | Web | Null — wrong Peter Goddards |
+| 17 | "Chopsy" camp legend Quebec | Web | Null — no results |
+| 18 | Stuart McLean Vinyl Cafe Kanawana | Web | Confirmed existing KB data |
+| 19 | "Audrey Dowse" LinkedIn | Web | Confirmed HOF, no additional details |
+| 20 | "Lumbermen and Voyageurs" Pine Crest book | Web | Confirmed existing KB data |
+
+### New Findings
+
+1. **Audrey Dowse** — Camp Administrator Hall of Fame inductee (2022 nominee), Camp YMCA Kanawana/YMCA Day Camps. Role and dates unknown. Added to directors-index article.
+2. **Alumni Family & Friends Weekend** — Confirmed as annual event (Sep 7-9, 2018). Not just milestone anniversaries.
+3. **Pine Crest Games** — Since 1940, random team assignment each year, two-day event. Corroborates existing KB.
+
+### Article Work
+
+- **centennial-1994**: VERIFY pass completed, advanced draft → R3-verified → E1-reviewed. All claims verified against KB. 7 additional fact IDs tracked.
+- **council-ring**: Added "Location and Modern Use" section (+200 words). Time capsule tradition with 1923 Gas Bag corroboration. Word count 600 → 800.
+- **lake-wilson**: Added "Lac Desjardins" oral history to Naming Origin section. Word count 650 → 700.
+- **canoe-trips**: Added "Coeducation and Later Developments" section with 1972 female Voyageur trip, 1998 Adventurer program, and modern Voyageurs Ultimate. Word count 660 → 750.
+
+### KB Changes
+
+3 new facts (f_1310–f_1312), 3 new sources. KB v4.72, 1312 facts, 375 sources.
