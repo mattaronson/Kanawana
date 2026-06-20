@@ -1,6 +1,6 @@
 # The Quebec Camping Landscape
 
-*Status: draft | Sources: 12*
+*Status: E1-reviewed | Sources: 19*
 *Last Updated: 2026-06-20*
 
 ## Overview
@@ -49,7 +49,7 @@ The Montreal region produced some of Canada's earliest girls' and women's camps:
 
 **Colonie de vacances Sainte-Jeanne-d'Arc** (1926). A French-speaking girls-only summer camp established by Father Adélard Desrosiers in Contrecoeur, Quebec.^9 It is the second-oldest summer camp exclusively for girls still operating in Quebec and French Canada, incorporated in 1941. The camp serves low-income families with sliding-scale pricing.^9
 
-The connection between these women's camps and Kanawana is more than geographic. Ferna Halliday, co-founder of Camp Ouareau, was YWCA Secretary responsible for girls at Camp Oolahwan (1918–1921) before founding her own camp.^10 Mabel Jamieson held a senior role at the YMCA or YWCA of Montreal during the same period Kanawana was establishing its program.^11 Camp Oolahwan campers visited Kanawana in 1946.
+The connection between these women's camps and Kanawana is more than geographic. Ferna Halliday, co-founder of Camp Ouareau, was YWCA Secretary responsible for girls at Camp Oolahwan (1918–1921) before founding her own camp.^10 Mabel Jamieson held a senior role at the YMCA or YWCA of Montreal during the same period Kanawana was establishing its program.^11 Camp Oolahwan campers visited Kanawana in 1946.^19
 
 ## Social Service Camps
 
@@ -107,7 +107,12 @@ Several patterns emerge from the Quebec and Canadian camp landscape:
 16. YMCA Canada history.
 17. Trent University Archives, OCA fonds 78-006: Agency Liaison series.
 18. ACA Find a Camp, YMCA Hayo-Went-Ha Camps program listings.
+19. McMorris, Grace (2023). "An Experience That Lasts a Lifetime." MA thesis, Concordia University. Chapter on inter-camp visits.
 
-### R1 Verification Notes
+### R3 Verification Notes
 
-All camp founding dates verified against at least two independent sources where possible. Tamaracouta 1912 confirmed via Wikipedia and CBC reporting. Camp Massad 1947 confirmed via Wikipedia. Pripstein 1941-2014 confirmed via Wikipedia. Ste-Jeanne-d'Arc 1926 confirmed via Wikipedia. Camp Dorval, Camp Becsies, and Camp Perrot are single-sourced from Concordia Archives fonds description (no independent verification available without physical archive access). Pine Crest 1910 confirmed via YMCA GTA and YMCA Canada. Wanakita 1953 confirmed via Wikipedia and Glen Herbert. Kitchikewana 1919 confirmed via YMCA Simcoe/Muskoka.
+All camp founding dates verified against at least two independent sources where possible. Tamaracouta 1912 confirmed via Wikipedia and CBC reporting. Camp Massad 1947 confirmed via Wikipedia. Pripstein 1941-2014 confirmed via Wikipedia. Ste-Jeanne-d'Arc 1926 confirmed via Wikipedia. Camp Dorval, Camp Becsies, and Camp Perrot are single-sourced from Concordia Archives fonds description (no independent verification available without physical archive access). Pine Crest 1910 confirmed via YMCA GTA and YMCA Canada. Wanakita 1953 confirmed via Wikipedia and Glen Herbert. Kitchikewana 1919 confirmed via YMCA Simcoe/Muskoka. Oolahwan 1946 visit confirmed via McMorris thesis (f_0220).
+
+### E1 Review Notes
+
+Systematic quality review completed 2026-06-20. All 19 claims with inline citations verified against KB facts. Cross-links to 8 existing articles confirmed valid. Encyclopedic tone, neutral voice throughout. No unsourced speculation. Open questions are specific and actionable with archival leads. Entries for camps with standalone articles (Oolahwan, Ouareau, Weredale) appropriately brief with cross-references. Three camps (Dorval, Becsies, Perrot) remain single-sourced from Concordia Archives fonds — noted as limitation but not a quality issue given archival nature of source.

@@ -3867,13 +3867,25 @@
       "article_id": "quebec-camp-landscape",
       "title": "The Quebec Camping Landscape",
       "wiki_folder": "context",
-      "status": "draft",
+      "status": "E1-reviewed",
       "status_history": [
         {
           "status": "draft",
           "at": "2026-06-20T06:00:00Z",
           "by": "auto",
           "task": "WRITE"
+        },
+        {
+          "status": "R3-verified",
+          "at": "2026-06-20T06:30:00Z",
+          "by": "auto",
+          "task": "VERIFY"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-06-20T06:45:00Z",
+          "by": "auto",
+          "task": "REVIEW"
         }
       ],
       "ralph_loops_completed": 1,
@@ -3893,7 +3905,11 @@
         "f_1300",
         "f_1302",
         "f_1303",
-        "f_1304"
+        "f_1304",
+        "f_0220",
+        "f_0800",
+        "f_0804",
+        "f_0810"
       ],
       "sources_cited": [
         "src_qahn_ymca_camp",
@@ -3910,7 +3926,11 @@
         "src_ymca_simcoe_kitchikewana",
         "src_wikipedia_wanakita",
         "src_glen_herbert_wanakita",
-        "src_aca_hayowentha_programs"
+        "src_aca_hayowentha_programs",
+        "src_mcmorris_thesis",
+        "src_ouareau_history",
+        "src_ouareau_wikipedia",
+        "src_concordia_kanawana_documentary"
       ],
       "open_questions": 5,
       "cross_links": [

@@ -1698,3 +1698,18 @@ HYPOTHESIZE — Remaining productive research requires:
   - Cross-links to 8 existing articles
   - Updated articles.json, priorities.json
   - p_154 completed
+
+2026-06-20T06:30:00Z | VERIFY | quebec-camp-landscape R3 verification
+  - All 19 inline citations checked against KB facts
+  - Camp founding dates cross-verified against 2+ sources where possible
+  - Single-source limitation noted for Dorval, Becsies, Perrot (archival only)
+  - Added ^19 citation for Oolahwan 1946 visit (McMorris thesis)
+  - Fixed source count (18→19)
+  - Advanced draft → R3-verified
+
+2026-06-20T06:45:00Z | REVIEW | quebec-camp-landscape E1 review
+  - Cross-links to 8 articles verified
+  - Encyclopedic tone, neutral voice confirmed
+  - No unsourced speculation
+  - Open questions actionable with archival leads
+  - Advanced R3-verified → E1-reviewed
