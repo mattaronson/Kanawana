@@ -22674,6 +22674,42 @@
       "conflicts_with": [],
       "added_version": "v4.72",
       "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1317",
+      "claim": "The 2026 Camp Kanawana program 'Explorers Pioneers' serves girls and non-binary campers aged 11-12. Campers spend most days in the regular residential camp program while also preparing for a 3-4 day camping trip at Papineau-Labelle Wildlife Reserve, combining canoeing and hiking components.",
+      "sources": ["src_ymca_kanawana_explorers_pioneers_2026"],
+      "confidence": "stated",
+      "category": "programs",
+      "entities": ["Camp Kanawana", "Explorers Pioneers", "Papineau-Labelle Wildlife Reserve"],
+      "date_ref": "2026",
+      "conflicts_with": [],
+      "added_version": "v4.73",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1318",
+      "claim": "The 2026 Camp Kanawana program 'Adventurers Pathfinders' serves girls and non-binary campers aged 13-16 with a 4-6 day introductory canoe trip in La Vérendrye Wildlife Reserve (flat water) or on Quebec/Ontario rivers (white water). This mirrors the 'Adventurers Coureurs des Bois' program for boys and non-binary campers.",
+      "sources": ["src_ymca_kanawana_adventurers_pathfinders_2026"],
+      "confidence": "stated",
+      "category": "programs",
+      "entities": ["Camp Kanawana", "Adventurers Pathfinders", "La Vérendrye Wildlife Reserve"],
+      "date_ref": "2026",
+      "conflicts_with": [],
+      "added_version": "v4.73",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1319",
+      "claim": "The 2026 Camp Kanawana summer season runs from June 22 to August 14, with four 12-day sessions: June 22-July 3, July 6-17, July 20-31, and August 3-14. The 6-day Woodsmen program includes a trip to Sommet Saint-Sauveur water park (weather permitting).",
+      "sources": ["src_ymca_kanawana_programs_2026"],
+      "confidence": "stated",
+      "category": "programs",
+      "entities": ["Camp Kanawana", "Sommet Saint-Sauveur"],
+      "date_ref": "2026",
+      "conflicts_with": [],
+      "added_version": "v4.73",
+      "added_by": "ralph_loop"
     }
   ]
 }

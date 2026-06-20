@@ -23,7 +23,7 @@ Dimock enlisted with the Princess Patricia's Canadian Light Infantry via the Uni
 
 In 1923, Dimock and Charles E. Hendry — both then affiliated with Columbia University, New York — began a pioneering study at Camp Ahmek in Algonquin Park, Ontario.^1 ^10 The study was published as *Camping and Character: A Camp Experiment in Character Education* (Association Press, New York, 1929/1931), with a foreword by William H. Kilpatrick, the progressive educator and colleague of John Dewey at Columbia.^11 The book runs 364 pages, illustrated, and is divided into two parts: Part 1 covers camp experience and character-building potential; Part 2 presents a case study of character education at Camp Ahmek.^11 It was among the first systematic studies to measure the effects of summer camp on child development and has been described as "one of the earliest recorded research efforts into camp experience" and "a collaborative effort between the U.S. and Canada."^10
 
-Dimock also co-authored *Talks to Counselors* (1939) with Taylor Statten, the founder of Camp Ahmek.^12 Co-researcher Charles E. Hendry went on to serve at the University of Toronto School of Social Work, retiring in 1969.^10
+Dimock also co-authored *Talks to Counselors* (1939) with [[people/taylor-statten|Taylor Statten]], the founder of Camp Ahmek.^12 Co-researcher Charles E. Hendry went on to serve at the University of Toronto School of Social Work, retiring in 1969.^10
 
 ### Academic Career
 

@@ -191,14 +191,20 @@
                         "f_0721",
                         "f_0722",
                         "f_0875",
-                        "f_0876"
+                        "f_0876",
+                        "f_1317",
+                        "f_1318",
+                        "f_1319"
                   ],
                   "sources_cited": [
                         "src_mcmorris_thesis",
                         "src_concordia_12K",
                         "src_kanawana_facts",
                         "src_ymca_website",
-                        "src_history_1935"
+                        "src_history_1935",
+                        "src_ymca_kanawana_explorers_pioneers_2026",
+                        "src_ymca_kanawana_adventurers_pathfinders_2026",
+                        "src_ymca_kanawana_programs_2026"
                   ],
                   "open_questions": 3,
                   "cross_links": [
@@ -212,7 +218,7 @@
                         "a-ross-seaman"
                   ],
                   "file_id": "13MmwA1lO_3J3rJ7yEZjwsvT--vWooITy",
-                  "word_count": 750
+                  "word_count": 902
             },
             {
                   "article_id": "council-ring",

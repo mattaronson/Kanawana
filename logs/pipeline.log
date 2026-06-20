@@ -1831,3 +1831,17 @@ HYPOTHESIZE — Remaining productive research requires:
     (Smee, Twynam, Pip Award)
   - Added 4 missing links to directors-index Related Articles (Hanagan, Seaman, Dimock, Cushing)
   - Updated articles.json cross_links for 5 articles
+
+2026-06-20T18:15:00Z | RESEARCH | 2026 program structure web research
+  - Discovered Explorers Pioneers program: girls/NB 11-12, 3-4 day expedition to Papineau-Labelle Wildlife Reserve
+  - Discovered Adventurers Pathfinders program: girls/NB 13-16, 4-6 day canoe trip (La Vérendrye or rivers)
+  - 2026 season: Jun 22-Aug 14, four 12-day sessions
+  - Woodsmen 6-day includes Sommet Saint-Sauveur water park trip
+  - 3 new facts (f_1317-f_1319), 3 new sources, KB v4.73
+  - Updated canoe-trips article with 2026 program structure (+152w, 750→902)
+  - Fixed sources.json syntax error (double closing brace at line 6037)
+
+2026-06-20T18:15:00Z | MAINTENANCE | Cross-link inline fixes
+  - Added inline wiki links in myths-and-legends (Ralph Dawson, Taylor Statten, D.A. Budge, Billy Ball, Cushing family)
+  - Added inline wiki link in centennial-1967 (Taylor Statten)
+  - Added inline wiki link in hedley-dimock (Taylor Statten)
