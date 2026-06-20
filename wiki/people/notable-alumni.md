@@ -45,7 +45,7 @@ Carol Sharman Skinner served as a counsellor and section director at Kanawana fr
 
 ### Chris Adam (Pip Award 2017)
 
-Coordinator of the Sustainability Office at Dawson College with a 35-year career, 25 years at Dawson in the Community Recreation and Leadership Training (CRLT) department.^12 ^21 Executive Director of the Earthvalues Institute, a non-profit using a "Nature as Mentor" philosophy.^21 He founded the Sustainable Happiness Certificate at Dawson and led the college to carbon neutrality, winning the International Green Gown Awards Sustainability Institution of the Year.^21 ^22 A "Chris Adams" (from Vanier) is documented as running the Nature Awareness program at Kanawana in 1980;^14 it is unclear whether this is the same individual.
+Coordinator of the Sustainability Office at Dawson College with a 35-year career, 25 years at Dawson in the Community Recreation and Leadership Training (CRLT) department.^12 ^21 Executive Director of the Earthvalues Institute, a non-profit using a "Nature as Mentor" philosophy.^21 He founded the Sustainable Happiness Certificate at Dawson and led the college to carbon neutrality, winning the International Green Gown Awards Sustainability Institution of the Year.^21 ^22 Adam holds an M.Ed. and three years of wildlife and fish management experience; he received the Governor General's Meritorious Service Medal for creating Dawson's "Living Campus" sustainability model.^31 ^32 A "Chris Adams" (from Vanier) is documented as running the Nature Awareness program at Kanawana in 1980;^14 this is very likely the same individual, given the shared Vanier/Dawson connection and wildlife/nature expertise — the surname difference is a transcription variant in the 1980 *Ka-News*.
 
 ### Dr. Marina Sharpe (Pip Award 2018)
 
@@ -93,7 +93,7 @@ Attended Camp Kanawana for six summers before becoming a camp counsellor and can
 3. [Important] What is Bruce Netherwood's specific role history at Kanawana — was he a camp director? Pip Award describes him as "YMCA leader and author" — what did he author?
 4. ~~[Nice-to-have] What is Jeniene Phillips Birks's broadcasting career? Which network/station?~~ [Resolved] CBC Montreal television journalist; fill-in anchor circa 2009.^19
 5. [Nice-to-have] Can any notable alumni from the 1894–1930 era be identified?
-6. [Nice-to-have] Is "Chris Adams" (1980 nature program) the same person as Chris Adam (Pip Award 2017)?
+6. ~~[Nice-to-have] Is "Chris Adams" (1980 nature program) the same person as Chris Adam (Pip Award 2017)?~~ [Resolved] Very likely the same person: shared Vanier/Dawson connection, wildlife/nature expertise, surname difference is a Ka-News transcription variant.
 7. [Nice-to-have] Who were the 2019 and 2020–2023 Pip Award recipients, if any? (2019 appears as "Dr." on Andrew Caddell's LinkedIn but name is truncated.)
 
 ## Sources
@@ -128,3 +128,5 @@ Attended Camp Kanawana for six summers before becoming a camp counsellor and can
 28. IMDB, Janet Torge. URL: https://www.imdb.com/name/nm2365789/
 29. CBC News, "Annual street hockey jamboree honours Montreal West native" (August 21, 2015). URL: https://www.cbc.ca/news/canada/montreal/andie-s-all-stars-riel-lazarus-1.3211759
 30. Zeffy, The Sam Lazarus Fund. URL: https://www.zeffy.com/fundraising/8bc0b92d-1ae8-4791-8eeb-d890713c2360
+31. Dawson College Newsroom, "Chris Adam to receive Governor General's Meritorious Service Medal." URL: https://www.dawsoncollege.qc.ca/news/dawsons-chris-adam-to-receive-governor-generals-meritorious-service-decoration/
+32. Dawson College, Chris Adam researcher profile (M.Ed., wildlife/fish management). URL: https://www.dawsoncollege.qc.ca/research/researchers/adam-chris/

@@ -31,7 +31,7 @@ Camp Kanawana hosts EMSB school groups for fall conservation education trips. St
 
 ### C-Vert Program
 
-YMCA Quebec runs the C-Vert environmental leadership program for ages 14–16, launched in 2005 in the Mercier-Hochelaga-Maisonneuve neighbourhood.^5 ^19 Youth become "eco-citizens" through bike trips, weekend camping at Kanawana, environmental workshops, and a remunerated July internship creating a community environmental project.^5 The program engages 120 teens per summer across Quebec and explicitly addresses "nature deficit disorder," aiming to reconnect urban youth with nature.^5 ^19
+YMCA Quebec runs the C-Vert environmental leadership program for ages 14–16, launched in 2005 in the Mercier-Hochelaga-Maisonneuve neighbourhood.^5 ^21 Youth become "eco-citizens" through bike trips, weekend camping at Kanawana, environmental workshops, and a remunerated July internship creating a community environmental project.^5 The program engages 120 teens per summer across Quebec and explicitly addresses "nature deficit disorder," aiming to reconnect urban youth with nature.^5 ^21
 
 ### Nature-Deficit Framing
 
@@ -59,7 +59,7 @@ In 2018, Desjardins donated $1 million to the YMCA for renovations at Camp Kanaw
 
 The camp's engagement with nature is not entirely modern. The 1918 summer season offered instruction in "nature study" alongside first aid, basket-making, and camp sanitation.^13 By 1922, the camp held a chartered tribe in the Woodcraft League of America, whose nature study and outdoor skills programming embedded ecological awareness in the badge system.^17 The broader Woodcraft and nature study traditions of the early camping movement provided the philosophical groundwork for contemporary environmental education.
 
-A dedicated Nature Awareness program was created by Chris Adams (from Vanier) in 1980, alongside new orienteering methods with a nature trail.^12 A Nature Nook / Nature Interpretation Area remains on the current site.^4 The 1980 initiatives mark the earliest identifiable moment when environmental education became a distinct programming stream rather than a diffuse element of outdoor camping.
+A dedicated Nature Awareness program was created by Chris Adam (listed as "Chris Adams" in the 1980 *Ka-News*; from Vanier) in 1980, alongside new orienteering methods with a nature trail.^12 A Nature Nook / Nature Interpretation Area remains on the current site.^4 The 1980 initiatives mark the earliest identifiable moment when environmental education became a distinct programming stream rather than a diffuse element of outdoor camping.
 
 ## Alumni Environmental Impact
 
@@ -69,7 +69,7 @@ Several Kanawana alumni have built careers in environmental stewardship:
 
 **G. David Twynam**, who directed Kanawana circa 1979, built an academic career in sustainable tourism research, publishing on the World Wide Fund for Nature Arctic Tourism Project, marine tourism, and the Heart of Gold sustainability collaboration between Vancouver Island University and Nanaimo, Japan.^15
 
-**Chris Adam** (Pip Award 2017), former Kanawana staff member, founded the Sustainable Happiness Certificate program at Dawson College and led the college to carbon neutrality, winning the International Green Gown Awards Sustainability Institution of the Year.^9 His Earthvalues Institute uses a "Nature as Mentor" philosophy.^8
+**Chris Adam** (Pip Award 2017), former Kanawana staff member, founded the Sustainable Happiness Certificate program at Dawson College and led the college to carbon neutrality, winning the International Green Gown Awards Sustainability Institution of the Year.^9 His Earthvalues Institute uses a "Nature as Mentor" philosophy.^8 Adam holds a Master's in Education and has three years of experience in wildlife and fish management; he received the Governor General's Meritorious Service Medal for creating Dawson's "Living Campus" sustainability model.^19 ^20
 
 These trajectories suggest that the camp's environmental culture predates its formal environmental programming — alumni carried stewardship values into professional practice long before the YMCA adopted explicit environmental education branding.
 
@@ -80,9 +80,9 @@ The Canadian Summer Camp Research Project (CSCRP, 2006–2011), conducted by the
 ## Open Questions
 
 1. ~~[Important] When exactly within the 2006–2009 green shift was the Clivus Multrum system installed?~~ [Resolved] Grand Portage cabin demolished ~2006 to make way; two green sanitary installations tested summers 2007 and 2008; system operational by 2007.
-2. [Important] What specific RSVL water quality results exist for Lac Kanawana? Is the lake classified as oligotrophic, mesotrophic, or eutrophic?
+2. [Important] What specific RSVL water quality results exist for Lac Kanawana? Lac de la Montagne Noire (RSVL 0391A, oligotrophic, 6.2m transparency 2021) is a different lake in Lantier/Val-des-Lacs/Saint-Donat. No RSVL monitoring found for Lac Kanawana itself.
 3. [Important] Has the camp's environmental programming been influenced by specific pedagogical frameworks (e.g., place-based education, bioregionalism)?
-4. [Nice-to-have] Is the 1980 "Chris Adams" who ran the Nature Awareness program the same person as the 2017 Pip Award recipient Chris Adam?
+4. ~~[Nice-to-have] Is the 1980 "Chris Adams" who ran the Nature Awareness program the same person as the 2017 Pip Award recipient Chris Adam?~~ [Resolved] Very likely the same person: both from Vanier/Dawson area, both with wildlife/nature expertise, surname difference is a transcription variant in 1980 Ka-News.
 5. [Nice-to-have] Has the camp participated in any formal ecological surveys or biodiversity inventories?
 
 ## Related Articles
@@ -114,4 +114,6 @@ The Canadian Summer Camp Research Project (CSCRP, 2006–2011), conducted by the
 17. Médiaterre, "Le camp Y Kanawana poursuit sa revitalisation et son virage vert," March 3, 2009. URL: https://www.mediaterre.org/canada-quebec/actu,20090303110253.html (retrieved via search excerpts, June 2026; direct fetch blocked).
 17. 1922 Kanawana brochure (Concordia Archives P0145): Woodcraft League of America chartered tribe, badge system.
 18. Oral history, Matt Aronson (2026): Grand Portage cabin demolished ~2006 for Clivus Multrum washroom buildings.
-19. Port of Montreal, "C-Vert — A green program that changes lives." URL: https://www.port-montreal.com/en/the-port-of-montreal/news/news/logbook/neighbours-c-vert
+19. Dawson College Newsroom, "Chris Adam to receive Governor General's Meritorious Service Medal." URL: https://www.dawsoncollege.qc.ca/news/dawsons-chris-adam-to-receive-governor-generals-meritorious-service-decoration/
+20. Dawson College, Chris Adam researcher profile. URL: https://www.dawsoncollege.qc.ca/research/researchers/adam-chris/
+21. Port of Montreal, "C-Vert — A green program that changes lives." URL: https://www.port-montreal.com/en/the-port-of-montreal/news/news/logbook/neighbours-c-vert

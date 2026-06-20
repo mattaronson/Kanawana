@@ -22008,6 +22008,77 @@
       "conflicts_with": [],
       "added_version": "v4.66",
       "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1264",
+      "claim": "Chris Adam received the Governor General's Meritorious Service Medal (Civil Division) for creating a culture of sustainability and promoting well-being at Dawson College. He introduced the 'Living Campus' concept that made Dawson College a model of sustainability.",
+      "sources": [
+        "src_dawson_adam_ggmsm"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "Chris Adam",
+        "Dawson College",
+        "Camp Kanawana"
+      ],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "v4.67",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1265",
+      "claim": "Chris Adam holds a Master's degree in Education and has three years of experience in wildlife and fish management. He is also director of Cadameco Consultants Inc.",
+      "sources": [
+        "src_dawson_adam_research"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "Chris Adam",
+        "Dawson College"
+      ],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "v4.67",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1266",
+      "claim": "The 1980 'Chris Adams of Vanier' who created Camp Kanawana's Nature Awareness program is very likely the same person as Chris Adam, the 2017 Pip Award recipient. Both are from Vanier/Dawson College area, both have wildlife/nature expertise, and the surname difference is a common transcription variant. This identification resolves the open question in environmental-history.md.",
+      "sources": [
+        "src_ymca_pip_adam",
+        "src_ka_news_1980"
+      ],
+      "confidence": "inferred",
+      "category": "people",
+      "entities": [
+        "Chris Adam",
+        "Camp Kanawana"
+      ],
+      "date_ref": "1980",
+      "conflicts_with": [],
+      "added_version": "v4.67",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1267",
+      "claim": "Lac de la Montagne Noire (RSVL station 0391A) is monitored by Quebec's Réseau de surveillance volontaire des lacs. In 2021, water transparency was 6.2 metres (3 Secchi disk readings), classifying the lake as oligotrophic (very clear water). This is NOT the same lake as Lac Kanawana — Lac de la Montagne Noire is in Lantier/Val-des-Lacs/Saint-Donat, while Lac Kanawana is near Saint-Sauveur. No RSVL monitoring data was found for Lac Kanawana specifically.",
+      "sources": [
+        "src_rsvl_montagne_noire_2021"
+      ],
+      "confidence": "stated",
+      "category": "environment",
+      "entities": [
+        "Lac de la Montagne Noire",
+        "Lac Kanawana",
+        "RSVL"
+      ],
+      "date_ref": "2021",
+      "conflicts_with": [],
+      "added_version": "v4.67",
+      "added_by": "ralph_loop"
     }
   ]
 }

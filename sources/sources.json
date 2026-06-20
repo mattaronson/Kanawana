@@ -5841,7 +5841,55 @@
       "extraction_version": null,
       "reliability": "primary",
       "notes": "Silent colour film of Camp Kanawana from the 1960s. Requires operator viewing."
+    },
+    {
+      "source_id": "src_dawson_adam_ggmsm",
+      "type": "web",
+      "title": "Dawson College Newsroom — Chris Adam to receive Governor General's Meritorious Service Medal",
+      "date": "2024",
+      "date_precision": "year",
+      "origin": "web",
+      "origin_url": "https://www.dawsoncollege.qc.ca/news/dawsons-chris-adam-to-receive-governor-generals-meritorious-service-decoration/",
+      "cache_path": null,
+      "char_count": 0,
+      "ingested_at": "2026-06-20T00:00:00Z",
+      "extracted": true,
+      "extraction_version": "v4.67",
+      "reliability": "primary",
+      "notes": "Dawson College announcement of Chris Adam receiving GG Meritorious Service Medal for creating sustainability culture and Living Campus concept."
+    },
+    {
+      "source_id": "src_dawson_adam_research",
+      "type": "web",
+      "title": "Dawson College — Chris Adam researcher profile",
+      "date": "2024",
+      "date_precision": "year",
+      "origin": "web",
+      "origin_url": "https://www.dawsoncollege.qc.ca/research/researchers/adam-chris/",
+      "cache_path": null,
+      "char_count": 0,
+      "ingested_at": "2026-06-20T00:00:00Z",
+      "extracted": true,
+      "extraction_version": "v4.67",
+      "reliability": "primary",
+      "notes": "Research profile: M.Ed., 3 years wildlife/fish management, teaches environmental leadership, directs sustainability & Living Campus, exec director Earthvalues Institute, director Cadameco Consultants."
+    },
+    {
+      "source_id": "src_rsvl_montagne_noire_2021",
+      "type": "report",
+      "title": "RSVL — Lac de la Montagne Noire (0391A) water quality report 2021",
+      "date": "2021",
+      "date_precision": "year",
+      "origin": "web",
+      "origin_url": "https://www.environnement.gouv.qc.ca/eau/rsvl/relais/fiches-bilans/2021/Montagne%20Noire,%20Lac%20de%20la_0391A_2021_SA_SU.html",
+      "cache_path": null,
+      "char_count": 0,
+      "ingested_at": "2026-06-20T00:00:00Z",
+      "extracted": true,
+      "extraction_version": "v4.67",
+      "reliability": "primary",
+      "notes": "RSVL station 0391A. 2021 transparency 6.2m (3 Secchi readings), oligotrophic. NOT Lac Kanawana — different lake in Lantier/Val-des-Lacs/Saint-Donat area."
     }
   ],
-  "source_count": 336
+  "source_count": 339
 }
