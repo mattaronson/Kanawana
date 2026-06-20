@@ -12,7 +12,7 @@ Camp Kanawana, founded in 1894 as Camp Jubilee by the YMCA of Montreal, holds a 
 
 ## Origins: The YMCA and Early Camps (1851-1920)
 
-The Montreal YMCA, founded in 1851 as the first YMCA in North America, was among the earliest organizations to use camping as a tool for youth development.^3 By the 1880s and 1890s, YMCAs across North America were sponsoring camps to improve the health and character of urban youth in response to industrialization and urbanization.
+The Montreal YMCA, founded in 1851 as the first YMCA in North America, was among the earliest organizations to use camping as a tool for youth development.^3 The YMCA's national camping infrastructure was shaped by Edgar Munroe Robinson (1867–1951), appointed Boys' Work Secretary of the YMCA International Committee in 1900, who developed camping programs, father-son events, and edited *Association Boys* (1902–1912).^13 Robinson also co-founded the Boy Scouts of America in 1910.^13 By the 1880s and 1890s, YMCAs across North America were sponsoring camps to improve the health and character of urban youth in response to industrialization and urbanization.
 
 The earliest known Canadian camps:
 
@@ -102,6 +102,7 @@ The CCA published *Canadian Camping* magazine from 1949 to 1988; digitized issue
 8l. Concordia University Archives, P0145/12N03: CCA founding, QCA constitution, camping school, camp/official lists.
 8m. CCA Awards page (ccamping.org/awards.php): Derek Walsh (ACQ), CCA Award of Excellence, 1983.
 12. CCA, *Canadian Camping* magazine (1949-1988). Digitized via Internet Archive.
+13. Wikipedia, "Edgar M. Robinson." URL: https://en.wikipedia.org/wiki/Edgar_M._Robinson; ACA, "Timeline of ACA and Summer Camp." URL: https://www.acacamps.org/about/history/timeline
 
 ## Research Notes
 

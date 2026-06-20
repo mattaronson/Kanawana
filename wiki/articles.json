@@ -3648,7 +3648,8 @@
         "src_amazon_dear_sam",
         "src_imdb_torge",
         "src_bookshop_torge_old",
-        "src_zeffy_lazarus_fund"
+        "src_zeffy_lazarus_fund",
+        "src_wikipedia_harold_potter"
       ],
       "open_questions": 6,
       "cross_links": [

@@ -1848,6 +1848,63 @@
       "assigned_weight": "P2",
       "created_at": "2026-06-13T05:00:00Z",
       "status": "blocked"
+    },
+    {
+      "priority_id": "p_146",
+      "rank": 146,
+      "type": "RESEARCH",
+      "description": "Create 'Kanawana in Media and Culture' article stub: 'Jane, le renard et moi' graphic novel (2012), Cathy Reeves documentary (1993), Stuart McLean/Vinyl Cafe references, EMSB school visits",
+      "article_id": null,
+      "blocking": false,
+      "assigned_weight": "P2",
+      "created_at": "2026-06-20T00:00:00Z",
+      "status": "completed"
+    },
+    {
+      "priority_id": "p_147",
+      "rank": 147,
+      "type": "RESEARCH",
+      "description": "Harold H. Potter biographical deep-dive: find more details about his years at Kanawana, his sociology career, publications, and community impact in Montreal's Black community",
+      "article_id": "notable-alumni",
+      "blocking": false,
+      "assigned_weight": "P2",
+      "created_at": "2026-06-20T00:00:00Z",
+      "status": "completed"
+    },
+    {
+      "priority_id": "p_148",
+      "rank": 148,
+      "type": "RESEARCH",
+      "description": "Pagé family Saint-Sauveur pioneer research: Télesphore Pagé genealogy via FamilySearch, BAnQ notarial records, census data. VSS.ca pioneers page blocked (403).",
+      "article_id": "page-family",
+      "blocking": true,
+      "blocking_reason": "VSS.ca 403'd; FamilySearch and BAnQ require browser access",
+      "assigned_weight": "P2",
+      "created_at": "2026-06-20T00:00:00Z",
+      "status": "blocked"
+    },
+    {
+      "priority_id": "p_149",
+      "rank": 149,
+      "type": "RESEARCH",
+      "description": "QAHN Shawbridge history article — extract YMCA/camp/recreation details. Currently 403 blocked.",
+      "article_id": null,
+      "blocking": true,
+      "blocking_reason": "QAHN website returns 403 to automated fetches",
+      "assigned_weight": "P3",
+      "created_at": "2026-06-20T00:00:00Z",
+      "status": "blocked"
+    },
+    {
+      "priority_id": "p_150",
+      "rank": 150,
+      "type": "RESEARCH",
+      "description": "Phase 2 continued: search eBay/Etsy for Kanawana memorabilia, search YouTube for Kanawana videos, pursue Reddit/Instagram/TikTok mentions",
+      "article_id": null,
+      "blocking": false,
+      "assigned_weight": "P3",
+      "created_at": "2026-06-20T00:00:00Z",
+      "status": "pending"
     }
   ]
 }

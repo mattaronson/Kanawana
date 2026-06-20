@@ -1524,3 +1524,36 @@ Research status: SATURATED for online sources. Physical archives needed for adva
 [2026-06-20T05:38:17Z] ARTICLE_SPAWN: centennial-1994 created as stub in chronology/. 5 sources, 4 KB facts (f_1256-f_1259). 5 open questions — all require archival access (Concordia P0145/12B04). Web research saturated.
 [2026-06-20T05:40:59Z] RESEARCH (Phase 2): Pip Award recipients — confirmed 2019-2023 gap remains unresolved (no YMCA newsroom pages published). Bruce Netherwood: confirmed VP Camping & Social Responsibility at South Shore YMCA, 30+ years in YMCA Camping, no published books found. Resolved notable-alumni OQ#3 (partially). Camp Perrot: web research exhausted, archival-only path. YouTube Webisode 16 (2012, GSRCBMJeWAM) noted but not high-priority.
 [2026-06-20T05:43:13Z] RESEARCH (Phase 2): Motto research — 'Each for all' shared with Camp Becket (YMCA, 1903). Added f_1268. Updated traditions-and-culture OQ#1 with Becket parallel and date range (1922/1927 English → 1993 Latin first attestation). New source: src_wikipedia_becket_chimney_corners.
+
+=== 2026-06-20T05:57:40Z — Phase 2 RALPH: Wide-net research campaign ===
+RETRIEVE: Google Books, HathiTrust, genealogy, McGill Daily, Concordia Georgian searches
+RETRIEVE: Camp Ouareau, Taylor Statten/CCA, Edgar M. Robinson, Hedley Dimock searches
+RETRIEVE: Pagé family Saint-Sauveur pioneers, Shawbridge Meet, Chopsy legend searches
+RETRIEVE: Harold H. Potter Wikipedia, 'Jane the Fox and Me' graphic novel, EMSB school visits
+RETRIEVE: Camp Kanawana directors 1947-2003 gap, CCA/OCA archives, Flickr photos
+
+ANALYZE — New facts extracted:
+  f_1269-f_1272: Harold H. Potter (1914-2004) — Kanawana counsellor 1930s, first Canadian-born Black sociologist at SGW College
+  f_1273-f_1274: 'Jane, le renard et moi' (2012/2013) — GG Award-winning graphic novel set at Camp Kanawana
+  f_1275, f_1281: Camp Ouareau bilingual transition 1976, Jacqui Raill director 1994
+  f_1276-f_1277: CCA founding May 20 1936, Taylor Statten details
+  f_1278: Edgar M. Robinson — YMCA Boys' Work Secretary, BSA co-founder
+  f_1279: Hedley Dimock — YMCA College dean, character education institutes from 1930
+  f_1280: EMSB school visits to Camp Kanawana
+
+PROCESS — Articles updated:
+  notable-alumni.md: Added Harold H. Potter entry + source ^33
+  camp-ouareau.md: Added bilingual 1976 detail
+  canadian-camping-movement.md: Added Edgar M. Robinson + source ^13
+
+PROCESS — Sources added: 8 new (src_wikipedia_harold_potter, src_goodreads_jane_fox_me, src_wikipedia_camp_ouareau, src_websearch_taylor_statten_cca, src_websearch_edgar_robinson, src_websearch_emsb_kanawana, src_aca_hedley_dimock_award). Total: 348
+PROCESS — KB updated: v4.68, 13 new facts (f_1269-f_1281). Total: ~1297
+
+NULL RESULTS:
+  - Télesphore Pagé genealogy: VSS.ca pioneers page 403'd. General Pagé/Saint-Sauveur info found (Magloire Pagé, baker) but no Télesphore.
+  - McGill Daily + Kanawana: no hits
+  - Chopsy legend: no online references found
+  - Kanawana name meaning/indigenous origin: no definitive source
+  - Shawbridge Meet: QAHN article found but 403'd
+  - HathiTrust 'Camp Kanawana': no direct hits (Camping magazine potentially relevant)
+  - Google Books 'Camp Kanawana': hit = 'Jane le renard et moi' (extracted)

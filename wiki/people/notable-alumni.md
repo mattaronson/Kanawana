@@ -1,7 +1,7 @@
 # Notable Alumni of Camp Kanawana
 
-*Status: E1-reviewed | Sources: 30*
-*Last Updated: 2026-03-24*
+*Status: E1-reviewed | Sources: 33*
+*Last Updated: 2026-06-20*
 
 ## Overview
 
@@ -71,6 +71,10 @@ Grandson of Pip. Camper and counsellor 1983–1991. McGill BA 1997, RMC War Stud
 
 Montreal marine surveyor and "ardent YMCA worker."^4 Elected Treasurer of the Canadian Board of Marine Underwriters at its founding (March 12, 1917).^4 Served with the YMCA in France during WWI supporting Canadian troops. Authored "Notes re Early Days of YMCA Camps at Lake St. Joseph and Kanawana" (1943), held in Concordia Archives P0145/12A.^5
 
+### Harold H. Potter (1914–2004)
+
+Harold Herbert Potter grew up in Little Burgundy, Montreal's English-speaking Black community, the son of émigrés from British Guiana.^33 He worked as a camp counsellor at Kamp Kanawana during summers while earning his B.A. at Sir George Williams College (1935–1939).^33 Potter edited The Georgian, the SGW student newspaper, in 1938–39 — a position later held by Mordecai Richler.^33 In 1947, he became the first Canadian-born Black sociologist hired by a Canadian post-secondary institution when appointed lecturer in Sociology at Sir George Williams College (now part of Concordia University).^33
+
 ### Xavier Maclaren (fl. 2020s)
 
 Attended Camp Kanawana for six summers before becoming a camp counsellor and canoe tripper.^16 Featured in a 2026 Postmedia article about the camp's approach to addressing nature-deficit disorder among Montreal youth.
@@ -89,7 +93,7 @@ Attended Camp Kanawana for six summers before becoming a camp counsellor and can
 ## Open Questions
 
 1. [Critical] What are the years that Richard "Itche" Kerr attended Camp Kanawana? Was he a camper, counsellor, or both?
-2. [Important] Which other notable individuals attended Camp Kanawana who are not Pip Award recipients? The camp has operated for 130+ years — there must be many more.
+2. [Important] Which other notable individuals attended Camp Kanawana who are not Pip Award recipients? The camp has operated for 130+ years — there must be many more. (Harold H. Potter, pioneering Black Canadian sociologist, identified as 1930s counsellor. More research needed.)
 3. ~~[Important] What is Bruce Netherwood's specific role history at Kanawana — was he a camp director? Pip Award describes him as "YMCA leader and author" — what did he author?~~ [Partially resolved] Director at Kanawana 1988–1994 per oral history (f_1212). No published books found via web search; "author" in Pip citation may refer to internal YMCA publications or reports. 30+ years in YMCA camping confirmed.
 4. ~~[Nice-to-have] What is Jeniene Phillips Birks's broadcasting career? Which network/station?~~ [Resolved] CBC Montreal television journalist; fill-in anchor circa 2009.^19
 5. [Nice-to-have] Can any notable alumni from the 1894–1930 era be identified?
@@ -130,3 +134,4 @@ Attended Camp Kanawana for six summers before becoming a camp counsellor and can
 30. Zeffy, The Sam Lazarus Fund. URL: https://www.zeffy.com/fundraising/8bc0b92d-1ae8-4791-8eeb-d890713c2360
 31. Dawson College Newsroom, "Chris Adam to receive Governor General's Meritorious Service Medal." URL: https://www.dawsoncollege.qc.ca/news/dawsons-chris-adam-to-receive-governor-generals-meritorious-service-decoration/
 32. Dawson College, Chris Adam researcher profile (M.Ed., wildlife/fish management). URL: https://www.dawsoncollege.qc.ca/research/researchers/adam-chris/
+33. Wikipedia, "Harold H. Potter." URL: https://en.wikipedia.org/wiki/Harold_H._Potter
