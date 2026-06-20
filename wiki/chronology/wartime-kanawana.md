@@ -2,7 +2,7 @@
 
 *Status: E1 Reviewed | Sources: CFCF broadcast 1941 (Internet Archive), Green Triangle 1938 (Internet Archive), McMorris (2023), KB season data*
 
-When the Second World War broke out in September 1939, Camp Kanawana had been operating for forty-five seasons. The war years brought a distinctive chapter to the camp's history: while many former counsellors and staff enlisted, the camp itself became a refuge for young evacuees from Britain and continental Europe, and continued its mission of youth development under wartime constraints. The camp operated every summer through the war, though it was not without disruption.
+When the Second World War broke out in September 1939, Camp Kanawana had been operating for forty-five seasons. A CFCF radio broadcast from June 10, 1939 — just months before the declaration of war — promoted the upcoming camp season, making it one of the last records of pre-war normalcy at Kanawana. The war years brought a distinctive chapter to the camp's history: while many former counsellors and staff enlisted, the camp itself became a refuge for young evacuees from Britain and continental Europe, and continued its mission of youth development under wartime constraints. The camp operated every summer through the war, though it was not without disruption.
 
 ## The 1941 Season and British Evacuees
 
@@ -46,6 +46,7 @@ The Concordia University archives (YMCA of Montreal fonds, P145) contain wartime
 
 ## Sources
 
+- CFCF Radio Broadcast Script, June 10, 1939. [Internet Archive](https://archive.org/details/1939-06-10-ymca-kamp-kanawana-broadcast-station-cfcf) (pre-war)
 - CFCF Radio Broadcast Script, June 26, 1941. [Internet Archive](https://archive.org/details/1941-06-26-ymca-kamp-kanawana-broadcast-station-cfcf)
 - The Green Triangle, July 29, 1938. [Internet Archive](https://archive.org/details/the-green-triangle-1938-07-29)
 - McMorris, Grace. *An Experience That Lasts a Lifetime: Building Modernity, Man, and Nation at the YMCA of Montreal's Kamp Kanawana, 1894-1967*. MA thesis, Concordia University, 2023. Chapter 1 (disease outbreaks, Hanagan reports). [Spectrum](https://spectrum.library.concordia.ca/id/eprint/992763/)
