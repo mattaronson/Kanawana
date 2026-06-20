@@ -22578,6 +22578,18 @@
       "conflicts_with": [],
       "added_version": "v4.71",
       "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1309",
+      "claim": "Concordia University Archives hold a document titled 'Interpretation of scores for counselors participating in a research project at Kamp Kanawana' dated 1960, held in sub-series P0145/12B. This may be connected to the Hedley Dimock character education research conducted at YMCA camps in the mid-twentieth century.",
+      "sources": ["src_concordia_ymca_fonds_12b"],
+      "confidence": "stated",
+      "category": "sources_and_archives",
+      "entities": ["Camp Kanawana", "Concordia University Archives"],
+      "date_ref": "1960",
+      "conflicts_with": [],
+      "added_version": "v4.71",
+      "added_by": "ralph_loop"
     }
   ]
 }

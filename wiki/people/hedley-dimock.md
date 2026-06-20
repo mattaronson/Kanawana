@@ -49,7 +49,7 @@ Hedley Gardner Dimock earned a BA from Beloit College; MA and EdD from Columbia 
 
 ### Kanawana Research (1960–1961)
 
-In 1960–1961, Dimock conducted research at Camp Kanawana on camp counsellor effectiveness, publishing two studies: "A Study of the Change in Attitudes and Temperament of Counselors during a Summer in Camp" (1961) and "A Study of the Prediction of Success of Twenty-Seven Camp Counselors" (1961).^2 ^3
+In 1960–1961, Dimock conducted research at Camp Kanawana on camp counsellor effectiveness, publishing two studies: "A Study of the Change in Attitudes and Temperament of Counselors during a Summer in Camp" (1961) and "A Study of the Prediction of Success of Twenty-Seven Camp Counselors" (1961).^2 ^3 The Concordia University Archives hold the raw data from this project: a document titled "Interpretation of scores for counselors participating in a research project at Kamp Kanawana" (1960) in sub-series P0145/12B.^P
 
 ### Founding the Department (1963)
 
@@ -106,6 +106,7 @@ Both George Williams College in Chicago (where H.S. Dimock held a deanship) and 
 12. Taylor Statten Camps, "TSC History." URL: https://taylorstattencamps.com/tsc-history/
 13. infed.org, "YMCA and the Development of Informal and Youth Work Education." URL: https://infed.org/dir/welcome/ymca-and-the-development-of-informal-and-youth-work-education-2/
 14. Veterans Affairs Canada, Canadian Virtual War Memorial: Hedley Gilbert Dimock (RCAF, d. 1944). URL: https://www.veterans.gc.ca/en/remembrance/memorials/canadian-virtual-war-memorial/detail/2172611
+P. Concordia University Archives, P0145/12B: "Interpretation of scores for counselors participating in a research project at Kamp Kanawana" (1960).
 15. Oakland Tribune obituary, October 5, 1958 (paywalled). URL: https://www.newspapers.com/article/oakland-tribune-dr-hedley-seldon-dimock/38250638/
 16. Wikipedia, "Raye Kass." URL: https://en.wikipedia.org/wiki/Raye_Kass; Concordia University, Raye Kass faculty page.
 
