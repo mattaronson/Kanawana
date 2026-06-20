@@ -1803,3 +1803,9 @@ HYPOTHESIZE — Remaining productive research requires:
   - Added Mille-Isles regional history to Location and Access section (f_1314, src_wikipedia_mille_isles)
   - Word count 1600 → 2037 (was already underreported)
   - articles.json updated: +2 facts, +2 sources, word count corrected
+
+2026-06-20T17:15:00Z | MAINTENANCE | Word count audit
+  - Audited all 47 articles against actual wc -w counts
+  - Updated 46 of 47 word counts in articles.json
+  - Largest discrepancies: directors-index (2400→4010), myths-and-legends (2811→3915), voyageur-canoe-pageant (550→1542)
+  - 6 articles had recorded counts higher than actual (likely from earlier edits)
