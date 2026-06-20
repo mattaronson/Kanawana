@@ -22338,6 +22338,66 @@
       "conflicts_with": [],
       "added_version": "v4.68",
       "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1289",
+      "claim": "D.A. Budge, as General Secretary of the YMCA of Montreal, directed James Naismith to the YMCA International Training School in Springfield, Massachusetts. When Naismith inquired about becoming a YMCA instructor at the Montreal YMCA, Budge told him about the Springfield school. Naismith enrolled there and invented basketball in 1891.",
+      "sources": ["src_naismith_foundation", "src_ymca_int_basketball"],
+      "confidence": "stated",
+      "category": "people",
+      "entities": ["D.A. Budge", "James Naismith", "YMCA Montreal", "Springfield College"],
+      "date_ref": "c.1890",
+      "conflicts_with": [],
+      "added_version": "v4.69",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1290",
+      "claim": "Camp Tamaracouta's main lodge burned down in 2024. Scouts Canada sold the 1,000-acre property in 2025 to entrepreneur Eric Desroches, in partnership with the Nature Conservancy of Canada and the town of Mille-Isles, Quebec. The camp had claimed to be the oldest continuously operating Scout camp in the world.",
+      "sources": ["src_cbc_tamaracouta_fire", "src_cbc_tamaracouta_sold"],
+      "confidence": "stated",
+      "category": "inter-camp",
+      "entities": ["Camp Tamaracouta", "Scouts Canada", "Nature Conservancy of Canada", "Mille-Isles"],
+      "date_ref": "2024-2025",
+      "conflicts_with": [],
+      "added_version": "v4.69",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1291",
+      "claim": "Camp Tamaracouta was named for the tamarack trees on the property ('couta' reportedly meaning body of water in a First Nations language). It was founded in 1912 with funds provided by Colonel E.A. Whitehead on a former farm belonging to the Dawson family of Mille-Isles. After WWI, it adopted a Hudson's Bay Company theme with campsites named after HBC trading posts.",
+      "sources": ["src_wikipedia_tamaracouta"],
+      "confidence": "stated",
+      "category": "inter-camp",
+      "entities": ["Camp Tamaracouta", "Colonel E.A. Whitehead", "Mille-Isles"],
+      "date_ref": "1912",
+      "conflicts_with": [],
+      "added_version": "v4.69",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1292",
+      "claim": "Camp Massad Montreal, a Hebrew-speaking Jewish summer camp, was founded in 1947 on Lac Quenouille in Sainte-Agathe-des-Monts in the Laurentians. It is shomer Shabbat with kosher kitchen under the Montreal Va'ad Ha'ir. Founded in modern Orthodox practice but welcoming to children from all Jewish backgrounds.",
+      "sources": ["src_wikipedia_camp_massad_mtl"],
+      "confidence": "stated",
+      "category": "inter-camp",
+      "entities": ["Camp Massad", "Sainte-Agathe-des-Monts", "Laurentians"],
+      "date_ref": "1947",
+      "conflicts_with": [],
+      "added_version": "v4.69",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1293",
+      "claim": "Pripstein's Camp Mishmar was a co-educational summer camp in Saint-Adolphe-d'Howard, Quebec, operating from 1941 to 2014. Founded by Chaim Pripstein (also known as Charles Pripstein), a Polish-born Hebrew teacher at United Talmud Torahs who fled Poland before WWII. He acquired land from a local farmer near Saint-Jerome in 1941. At its peak in the 1960s, the camp had 240 campers per summer. It closed in 2014 due to declining enrolment.",
+      "sources": ["src_wikipedia_pripstein"],
+      "confidence": "stated",
+      "category": "inter-camp",
+      "entities": ["Pripstein's Camp Mishmar", "Saint-Adolphe-d'Howard", "Chaim Pripstein"],
+      "date_ref": "1941-2014",
+      "conflicts_with": [],
+      "added_version": "v4.69",
+      "added_by": "ralph_loop"
     }
   ]
 }

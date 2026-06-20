@@ -1587,3 +1587,25 @@ NULL RESULTS: Kanawana name etymology (8+ queries, 3+ surfaces — declared exha
 NULL RESULTS: The Georgian full text (IA access blocked)
 CONFIRMED: Cushing family article already comprehensive; Mountaineer program already in coeducation article
 PROCESS — KB v4.68 extended: 3 more facts (f_1286-f_1288), 1 new source (350 total)
+
+2026-06-20T12:00:00Z | RALPH_CYCLE | Phase 2 wide-net research — Cycle 4: Inter-camp connections, Naismith-Budge, Laurentian camps landscape
+
+RETRIEVE — Searched: D.A. Budge biography (confirmed YMCA gen. secretary 1874-1913), McMorris thesis on Spectrum/CORE (403'd), Camp Tamaracouta history (Wikipedia, CBC), Camp Massad Montreal (Wikipedia), Camp Weredale (already documented), Camp Otoreke (already documented), Camp Kinkora (already documented), Reginald K. Groome (not Kanawana-connected — hotel executive, Boy Scouts president, Concordia Board chair), Stuart McLean (already comprehensive in KB), Pripstein's Camp Mishmar (new), Google Books for Kanawana (no results), Indigenous land history (Weskarini Algonquin — already in KB), 1994 centennial (no new info), YMCA annual reports on Internet Archive (1876, 1891-92, 1993 — all 403'd), Harry Ballantyne "Short History of Canadian YMCA" on IA (403'd), U of Minnesota YMCA Canada records (noted as archival lead), Lower Canada College + Kanawana (no results), R.H. Hanagan (already documented), Pip Award 2019-2023 (no results), Grand Portage/Longhouse traditions (no results), Lake Wilson name origin (no results)
+
+ANALYZE — New facts:
+  f_1289: D.A. Budge directed James Naismith to YMCA Training School in Springfield, where basketball was invented (1891)
+  f_1290: Camp Tamaracouta lodge burned 2024, property sold 2025 to Eric Desroches with NCC and Mille-Isles
+  f_1291: Tamaracouta named for tamarack trees, founded 1912 by Col. Whitehead, HBC theme post-WWI
+  f_1292: Camp Massad Montreal est. 1947, Lac Quenouille, Hebrew-speaking Jewish camp
+  f_1293: Pripstein's Camp Mishmar, Saint-Adolphe-d'Howard, 1941-2014, founded by Chaim/Charles Pripstein
+
+NULL RESULTS: LCC-Kanawana alumni connection (no web evidence)
+NULL RESULTS: Pip Award 2019-2023 recipients (still unknown)
+NULL RESULTS: Grand Portage and Longhouse tradition details (blocked on oral history)
+NULL RESULTS: 1994 centennial celebration details (blocked on P0145/12B04)
+NULL RESULTS: Lake Wilson name origin (no web evidence)
+NOTED: U of Minnesota YMCA Canada records as future archival lead
+NOTED: YMCA Montreal annual reports (1876, 1891-92, 1993) on Internet Archive — 403'd but exist
+NOTED: Harry Ballantyne "Short History of Canadian YMCA 1851-1944" on IA — 403'd but exists
+
+PROCESS — KB v4.69 extended: 5 more facts (f_1289-f_1293), 7 new sources (357 total)
