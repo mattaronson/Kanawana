@@ -1,5 +1,5 @@
 {
-  "version": "v4.68",
+  "version": "v4.70",
   "kb_version": 4.64,
   "migrated_from": "3.3",
   "fact_count": 1279,
@@ -22493,6 +22493,54 @@
       "date_ref": null,
       "conflicts_with": [],
       "added_version": "v4.69",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1302",
+      "claim": "YMCA Camp Wanakita was founded in 1953 on Koshlong Lake near Haliburton, Ontario, by the YMCA of Hamilton. Keith Smith was the first director, chosen to find a 'Northwoods property.' George Jones and YMCA colleagues chose the Koshlong Lake site. The name 'Wanakita' was derived from Smith's experience at Camp Kitchikewana, where Kitchikewana was home to Wanakita Beach. First season: 373 boys, 38 staff, $18,882 budget. The camp replaced Camp Erie Heights (Lake Erie), itself a replacement for Camp Tekahoinwake (Grand River). Now over 1,000 acres, YMCA Hamilton-Burlington-Brantford.",
+      "sources": ["src_wikipedia_wanakita", "src_glen_herbert_wanakita"],
+      "confidence": "stated",
+      "category": "inter-camp",
+      "entities": ["Camp Wanakita", "Keith Smith", "George Jones", "YMCA Hamilton", "Camp Kitchikewana"],
+      "date_ref": "1953",
+      "conflicts_with": [],
+      "added_version": "v4.70",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1303",
+      "claim": "YMCA Camp Kitchikewana was founded in 1919 on Beausoleil Island in Georgian Bay Islands National Park, Honey Harbour, Ontario. Operated by YMCA of Simcoe/Muskoka. Over 105 years of continuous operation. The camp provided the name origin for Camp Wanakita (from 'Wanakita Beach' at Kitchikewana). Listed alongside Kanawana in OCA 'Y camps' records.",
+      "sources": ["src_ymca_simcoe_kitchikewana"],
+      "confidence": "stated",
+      "category": "inter-camp",
+      "entities": ["Camp Kitchikewana", "Beausoleil Island", "Camp Wanakita", "YMCA Simcoe/Muskoka"],
+      "date_ref": "1919",
+      "conflicts_with": [],
+      "added_version": "v4.70",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1304",
+      "claim": "YMCA Hayo-Went-Ha Camps (founded 1904, Central Lake, Michigan) use 'Woodsmen' and 'Voyageurs' as program group names, paralleling the 'Lumbermen vs Voyageurs' tradition at YMCA Camp Pine Crest and Camp Kanawana. This suggests the L&V/Woodsmen-Voyageurs division was a wider YMCA camp pattern, not unique to Pine Crest.",
+      "sources": ["src_aca_hayowentha_programs"],
+      "confidence": "inferred",
+      "category": "traditions",
+      "entities": ["YMCA Hayo-Went-Ha Camps", "L&V Games", "Camp Pine Crest", "Camp Kanawana"],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "v4.70",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1305",
+      "claim": "Stuart McLean's personal and literary archive is housed at McMaster University, including manuscripts, correspondence, photographs, fan mail, sound recordings, and set pieces from live Vinyl Cafe performances. This archive is a potential source for Camp Kanawana materials from McLean's five summers (1969-1975).",
+      "sources": ["src_samaritanmag_mclean"],
+      "confidence": "stated",
+      "category": "sources_and_archives",
+      "entities": ["Stuart McLean", "McMaster University", "Camp Kanawana"],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "v4.70",
       "added_by": "ralph_loop"
     }
   ]

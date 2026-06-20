@@ -1293,8 +1293,37 @@ All search results converge on the same Concordia University Archives source (P0
 - f_1297: 1901 Historical Sketch on IA
 → 4 facts, 4 sources added.
 
-### Cycle 6 (in progress): Director gap, environmental history, Concordia catalog
-**Queries:** Concordia AtoM + camp directors 1950-1970 (no names), YMCA camping/outdoor education director reports 1960s-80s (confirmed 1972 Director Report exists), environmental/conservation at Kanawana (general YMCA values, no historical ecology)
-→ No new facts. Archival access confirmed as blocker for director gap.
+### Cycle 6: 1939 CFCF Broadcast & Section System Research
+**Queries:** Concordia AtoM + camp directors 1950-1970 (no names), YMCA camping/outdoor education director reports 1960s-80s (confirmed 1972 Director Report exists), environmental/conservation at Kanawana (general YMCA values, no historical ecology), CFCF radio broadcast 1939 Kanawana (found — distinct from 1941 broadcast), YMCA camp section names Scouts Colonists Rovers origins (no definitive origin found), camp age-group naming traditions (general pattern but no direct Kanawana link)
+**Results:**
+- f_1298: 1939 CFCF broadcast about Kamp Kanawana (June 10, 1939)
+- src_ia_cfcf_1939 added
+→ 1 fact, 1 source added.
 
-**KB now at v4.69, 1297 facts. Sources: 361.**
+### Cycle 7: Pine Crest Games Origin & Inter-Camp Connections
+**Queries:** YMCA Camp Pine Crest Muskoka history (found), Pine Crest Games Lumbermen Voyageurs (confirmed match to Kanawana L&V Games), Kanawana games inspired by Pine Crest (corroborated via YMCA Quebec website — 78th edition in 2025 = started c.1948), YMCA GTA blog Pine Crest Games (detailed description of 2-day competition format), Camp Wanakita YMCA (search attempted, no Kanawana link found), Reginald K. Groome Kanawana director (false lead — hotel executive, Boy Scouts)
+**Results:**
+- f_1299: Kanawana games inspired by Camp Pine Crest, started c.1948
+- f_1300: Camp Pine Crest founded 1910, YMCA GTA, 650 acres Muskoka
+- f_1301: Pine Crest Games = Lumbermen vs Voyageurs 2-day competition
+- src_ymca_kanawana_history, src_ymca_gta_pine_crest, src_ymca_gta_blog_games added
+→ 3 facts, 3 sources added. Independently corroborates oral history facts f_0192 and f_0332.
+
+### Cycle 8: Verification Sweep (no new facts)
+**Queries:** 120th anniversary reunion (already documented), COVID closure (already documented), new construction 2020s (no results), current program names (already documented), heritage designation (none found), Billy Ball details (same as existing)
+→ No new facts. All search targets either already documented or yielded null results.
+
+### Cycle 9: Inter-Camp YMCA Network & Wide-Net Research
+**Queries:** Google Books "Camp Kanawana" (only Jane le renard match), HathiTrust "Kanawana" (no full-text matches), Camp Weredale YMCA history (already documented), Camp Otoreke history (already documented), Camp Trois-Saumons Quebec (Catholic, not YMCA — founded 1946 by Abbé Cloutier), newspapers.com Kanawana clips (403), QAHN Otoreke article (403), Otoreke blogspot (403), Camp Coniston "Quebec Quest" (US camp, unrelated), Camp Wanakita YMCA Ontario (new founding details via Wikipedia & Glen Herbert), Camp Kitchikewana 1919 Beausoleil Island (new), YMCA Hayo-Went-Ha "Woodsmen" program parallel to L&V (new pattern), Harold Potter (already documented), Stuart McLean McMaster archive (new lead), D.A. Budge biography (no new details), Hedley Dimock ACA biography PDF (403), CCA awards page (403), CCA history page (403), Lake Wilson name origin (no results), Pagé family Saint-Sauveur genealogy (no results), Billy Ball full name/obituary (still unknown), "Lumbermen & Voyageurs" Pine Crest book author (still unknown), "Camp Kanawana" doctoral/master's thesis (only McMorris found — already documented), Derek Walsh YMCA camping (ACQ Award of Excellence 1983 — already documented)
+
+**Results:**
+- f_1302: Camp Wanakita — founded 1953, Koshlong Lake, YMCA Hamilton. Keith Smith (first director), George Jones. Name from Camp Kitchikewana. Replaced Erie Heights → Tekahoinwake lineage.
+- f_1303: Camp Kitchikewana — founded 1919, Beausoleil Island, Georgian Bay. Origin of Wanakita name. Listed alongside Kanawana in OCA records.
+- f_1304: YMCA Hayo-Went-Ha (1904, Michigan) uses "Woodsmen" and "Voyageurs" program names — parallel to L&V tradition at Pine Crest and Kanawana.
+- f_1305: Stuart McLean's archive at McMaster University — potential research source for Kanawana materials 1969-1975.
+- 5 new sources: src_wikipedia_wanakita, src_glen_herbert_wanakita, src_ymca_simcoe_kitchikewana, src_aca_hayowentha_programs, src_samaritanmag_mclean
+→ 4 facts, 5 sources added.
+
+**Key insight:** The L&V / Woodsmen-Voyageurs division is documented across at least three YMCA camps (Pine Crest, Kanawana, Hayo-Went-Ha), suggesting it was a widespread YMCA camping tradition rather than a Pine Crest-only invention.
+
+**KB now at v4.70, 1305 facts. Sources: 370.**
