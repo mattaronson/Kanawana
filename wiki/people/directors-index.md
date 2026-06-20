@@ -40,6 +40,7 @@ This index compiles all known directors of Camp Kanawana (originally Camp Jubile
 | Sean Day | 2004-2023 | Regional Director of Camps for the Quebec YMCAs and Director of Camp YMCA Kanawana (dual title); grew up at Camp Kanawana; 19 years of service; led pandemic response (closed overnight 2021, pivoted to day camps); navigated 2022 staff shortages; now Director of Fund Development at Rossy Foundation | Oral history (M. Aronson); CBC 2017, 2021, 2022; LinkedIn |
 | Kate Taylor | 2020s | Camp Director; appeared on Go Camp Pro "Beyond Camp" podcast discussing social media advocacy; led COVID-era communications with families; quoted in 2021 Gazette re: second consecutive summer closure | Go Camp Pro podcast; MSN/Gazette 2021; YMCA Quebec website |
 | Kevin Slezak | 2020s | Leadership team alongside Kate Taylor and Sean Day; participated in Jan 27 Zoom town hall with families | YMCA Quebec website; LinkedIn |
+| Marie-Pierre Lacasse | 2024– | Executive Camp Director / Directeur principal, Camp YMCA Kanawana; oversaw launch of Kanawana Adventure day camp program (2024) | YMCA Quebec website; LinkedIn; Nouvelles des Laurentides |
 
 **Audrey Dowse** was inducted into the Camp Administrator Hall of Fame (nominated 2022) for her work with Camp YMCA Kanawana and YMCA Day Camps. Her exact role and dates of service are not yet documented.^HOF
 

@@ -22626,6 +22626,18 @@
       "conflicts_with": [],
       "added_version": "v4.72",
       "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1313",
+      "claim": "Marie-Pierre Lacasse holds the title 'Executive Camp Director' (directeur principal) of Camp YMCA Kanawana as of 2024. She is listed on the YMCA Quebec management team page and on LinkedIn as Directeur principal at Les YMCA du Québec.",
+      "sources": ["src_ymca_website"],
+      "confidence": "stated",
+      "category": "people",
+      "entities": ["Marie-Pierre Lacasse", "Camp Kanawana"],
+      "date_ref": "2024",
+      "conflicts_with": [],
+      "added_version": "v4.72",
+      "added_by": "ralph_loop"
     }
   ]
 }
