@@ -1904,7 +1904,8 @@
       "blocking": false,
       "assigned_weight": "P3",
       "created_at": "2026-06-20T00:00:00Z",
-      "status": "pending"
+      "status": "completed",
+      "notes": "eBay/Etsy: no Kanawana items found. Reddit: no results. YouTube: found silent 1960s film. Instagram/TikTok: official accounts exist, no historical content. Kanawana name etymology exhausted (8+ queries)."
     }
   ]
 }
