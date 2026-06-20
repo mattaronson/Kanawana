@@ -22662,6 +22662,18 @@
       "conflicts_with": [],
       "added_version": "v4.72",
       "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1316",
+      "claim": "The Pip Award is presented twice each year: first at camp during the summer (e.g., Carol Skinner on July 7; Marina Sharpe on August 2), and then again at the annual Alumni and Friends weekend in September. This dual presentation format is documented in YMCA Quebec press releases for the 2016 and 2018 awards.",
+      "sources": ["src_ymca_pip_skinner", "src_ymca_pip_sharpe"],
+      "confidence": "stated",
+      "category": "traditions",
+      "entities": ["Pip Award", "Camp Kanawana"],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "v4.72",
+      "added_by": "ralph_loop"
     }
   ]
 }
