@@ -1,12 +1,12 @@
 # The 1994 Centennial
 
-<!-- status: stub -->
+<!-- status: draft -->
 <!-- confidence: low -->
 <!-- last_updated: 2026-06-20 -->
-<!-- last_editor: v53 -->
-<!-- ralph_loops: centennial-1994-R1 -->
+<!-- last_editor: v54 -->
+<!-- ralph_loops: centennial-1994-R1, centennial-1994-W1 -->
 
-*Status: stub | Sources: 5*
+*Status: draft | Sources: 6*
 *Last Updated: 2026-06-20*
 
 ## Overview
@@ -46,6 +46,7 @@ Bruce Netherwood was Director of Camp Kanawana from 1988 to 1994, meaning the ce
 - [[people/directors-index|Directors and Staff of Camp Kanawana]]
 - [[programs/traditions-and-culture|Traditions and Culture at Kanawana]]
 - [[people/notable-alumni|Notable Alumni of Camp Kanawana]]
+- [[documents/kanawana-in-media|Kanawana in Media and Culture]]
 
 ## Sources
 

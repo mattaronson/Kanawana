@@ -3849,13 +3849,19 @@
       "article_id": "centennial-1994",
       "title": "The 1994 Centennial",
       "wiki_folder": "chronology",
-      "status": "stub",
+      "status": "draft",
       "status_history": [
         {
           "status": "stub",
           "at": "2026-06-20T00:00:00Z",
           "by": "auto",
           "task": "RESEARCH"
+        },
+        {
+          "status": "draft",
+          "at": "2026-06-20T08:00:00Z",
+          "by": "auto",
+          "task": "WRITE"
         }
       ],
       "ralph_loops_completed": 1,
@@ -3880,7 +3886,8 @@
         "billy-ball",
         "directors-index",
         "traditions-and-culture",
-        "notable-alumni"
+        "notable-alumni",
+        "kanawana-in-media"
       ],
       "file_id": null,
       "word_count": 500
