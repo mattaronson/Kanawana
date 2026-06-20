@@ -61,6 +61,17 @@ The current programme structure, as described on the YMCA Quebec website, includ
 
 Beyond summer programming, the camp hosts school groups for overnight outdoor education experiences. EMSB schools (Vincent Massey Collegiate, JFK High School, École Secondaire Louis Joseph Papineau) send students to Kanawana for activities including archery, rock climbing, canoeing, nature interpretation, and woodworking.^emsb The camp's current summer activity menu includes water trampolining, paddle boarding, archery, axe throwing, rope courses, rock climbing, theatre, music, arts and crafts, nature exploration, dance, survival techniques, and woodworking.^pm The daily schedule features "Interest Groups," cabin/tent group time, and "General Swim." Environmental education, including stewardship and conservation action projects, is woven through the programming. As of fall 2025, the YMCAs of Québec discontinued all day camp programs (including holiday and spring break camps); Kanawana continues to operate as an overnight summer camp only.
 
+## Related Articles
+
+- [[programs/lv-games|The L&V Games]]
+- [[programs/canoe-trips|Canoe Tripping at Kanawana]]
+- [[context/section-names|Section Names and Age Groups]]
+- [[context/coeducation-gender|Coeducation and Gender at Kanawana]]
+- [[places/council-ring|The Council Ring]]
+- [[chronology/founding-1894|Founding of Camp Kanawana (1894)]]
+- [[programs/traditions-and-culture|Traditions and Culture at Kanawana]]
+- [[context/quebec-camp-landscape|The Quebec Camp Landscape]]
+
 ## Open Questions
 
 1. What specific activities were offered in the 1894-1909 Lake St. Joseph period? The 1893 scouting journal and 1895 camp journal at Concordia might describe early programming.

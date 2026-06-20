@@ -45,7 +45,7 @@ A. Ross Seaman, who served as Director of Camp Kanawana, became teacher and chai
 
 ### Chris Adam and the Earthvalues Institute
 
-Chris Adam, the 2017 Pip Award recipient, spent 25 years at Dawson in the CRLT department and served as Coordinator of the Sustainability Office. He is Executive Director of the Earthvalues Institute, a non-profit using a "Nature as Mentor" philosophy.^8 Under his leadership, Dawson achieved carbon neutrality and won the International Green Gown Awards Sustainability Institution of the Year.^9
+Chris Adam, the 2017 [[programs/pip-alumni-award|Pip Award]] recipient, spent 25 years at Dawson in the CRLT department and served as Coordinator of the Sustainability Office. He is Executive Director of the Earthvalues Institute, a non-profit using a "Nature as Mentor" philosophy.^8 Under his leadership, Dawson achieved carbon neutrality and won the International Green Gown Awards Sustainability Institution of the Year.^9
 
 ### McConnell Foundation
 
@@ -65,9 +65,9 @@ A dedicated Nature Awareness program was created by Chris Adam (listed as "Chris
 
 Several Kanawana alumni have built careers in environmental stewardship:
 
-**Edgar E. Smee** (camp counsellor 1930s) returned to Hamilton, Ontario, in 1968 after a 30-year absence, dismayed by pollution at Red Hill Creek, which he remembered as a pristine stream from childhood. He became a founding figure in Hamilton's environmental movement, serving as first Secretary of the Conserver Society of Hamilton & District and winning the Dr. Victor Cecilioni Environmentalist of the Year award in 1983.^14
+**[[people/edgar-smee|Edgar E. Smee]]** (camp counsellor 1930s) returned to Hamilton, Ontario, in 1968 after a 30-year absence, dismayed by pollution at Red Hill Creek, which he remembered as a pristine stream from childhood. He became a founding figure in Hamilton's environmental movement, serving as first Secretary of the Conserver Society of Hamilton & District and winning the Dr. Victor Cecilioni Environmentalist of the Year award in 1983.^14
 
-**G. David Twynam**, who directed Kanawana circa 1979, built an academic career in sustainable tourism research, publishing on the World Wide Fund for Nature Arctic Tourism Project, marine tourism, and the Heart of Gold sustainability collaboration between Vancouver Island University and Nanaimo, Japan.^15
+**[[people/dave-twynam|G. David Twynam]]**, who directed Kanawana circa 1979, built an academic career in sustainable tourism research, publishing on the World Wide Fund for Nature Arctic Tourism Project, marine tourism, and the Heart of Gold sustainability collaboration between Vancouver Island University and Nanaimo, Japan.^15
 
 **Chris Adam** (Pip Award 2017), former Kanawana staff member, founded the Sustainable Happiness Certificate program at Dawson College and led the college to carbon neutrality, winning the International Green Gown Awards Sustainability Institution of the Year.^9 His Earthvalues Institute uses a "Nature as Mentor" philosophy.^8 Adam holds a Master's in Education and has three years of experience in wildlife and fish management; he received the Governor General's Meritorious Service Medal for creating Dawson's "Living Campus" sustainability model.^19 ^20
 
@@ -92,6 +92,10 @@ The Canadian Summer Camp Research Project (CSCRP, 2006–2011), conducted by the
 - [[people/notable-alumni|Notable Alumni of Camp Kanawana]]
 - [[people/a-ross-seaman|A. Ross Seaman]]
 - [[context/canadian-camping-movement|The Canadian Camping Movement]]
+- [[people/edgar-smee|Edgar E. Smee]]
+- [[people/dave-twynam|Dave Twynam]]
+- [[people/j-w-mcconnell|J.W. McConnell]]
+- [[programs/pip-alumni-award|The Pip Alumni Award]]
 
 ## Sources
 

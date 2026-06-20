@@ -37,6 +37,15 @@ The Council Ring is located at the far west end of the camp, a ten- to fifteen-m
 
 A longstanding tradition at the Closing Fire involves burning a "time capsule" — a record of the summer's important people, events, and moments — and then digging it up to read aloud at the following year's Opening Fire.^6 This practice is believed to date to the 1920s or 1930s, and documentary evidence supports an early origin: the 1923 *Gas Bag* records that the season closing featured "a Council Ring ceremony where a record of activities was buried," followed by a Leaders Grand Feed.^7 The hundred-year continuity of this ritual — from the 1923 record-burying through to the present-day time capsule — makes it one of the camp's oldest documented traditions.
 
+## Related Articles
+
+- [[chronology/founding-1894|Founding of Camp Kanawana (1894)]]
+- [[people/harold-cross|Harold C. Cross]]
+- [[programs/programs-activities|Programs and Activities]]
+- [[places/the-kanawana-site|The Kanawana Site]]
+- [[programs/traditions-and-culture|Traditions and Culture at Kanawana]]
+- [[programs/lv-games|The L&V Games]]
+
 ## Open Questions
 
 - Does the Council Ring still exist in its 1929 form, or has it been rebuilt since?

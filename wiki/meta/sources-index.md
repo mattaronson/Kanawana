@@ -141,6 +141,16 @@ John Wilson McConnell, Lemuel Cushing Jr., Centennial Voyageur Canoe Pageant, Br
 | Fact categories | 40 |
 | KB version | v4.14 |
 
+## Related Articles
+
+- [[chronology/founding-1894|Founding of Camp Kanawana (1894)]]
+- [[chronology/centennial-1967|Centennial Year (1967)]]
+- [[context/canadian-camping-movement|The Canadian Camping Movement]]
+- [[documents/kanawana-in-media|Kanawana in Media]]
+- [[people/harold-cross|Harold C. Cross]]
+- [[programs/pip-alumni-award|The Pip Alumni Award]]
+- [[people/stuart-mclean|Stuart McLean]]
+
 ## Open Questions
 
 1. [Critical] Can the McMorris thesis PDF be accessed for full text extraction (currently only chapters 1–3 + conclusion)?

@@ -20,17 +20,25 @@ Langille's 1941 broadcast reveals the scale of the operation: sixty-eight staff 
 
 The war years show a clear line of leadership succession at Kanawana. Howie Langille, who served as Senior Director under Chief Greig Macdiarmid in 1935, had been promoted to Chief by 1941. This promotion likely occurred around 1938 or 1939, as Macdiarmid is still documented as Chief in the July 1938 Green Triangle newsletter.
 
-By 1942, R.H. Hanagan appears in the archival record as Montreal YMCA camp director. Hanagan wrote detailed season reports that McMorris draws on extensively for the mid-1940s period. He remained active in camp leadership through at least 1946, when he authored a director's report now held in the Concordia archives.
+By 1942, [[people/rh-hanagan|R.H. Hanagan]] appears in the archival record as Montreal YMCA camp director. Hanagan wrote detailed season reports that McMorris draws on extensively for the mid-1940s period. He remained active in camp leadership through at least 1946, when he authored a director's report now held in the Concordia archives.
 
 ## Health Crises
 
-The war years were punctuated by disease outbreaks that tested camp leadership. In 1941, a scarlet fever case triggered a full month of quarantine.^mc In 1944, a mumps outbreak hit during weeks six and seven of the season.^mc Most seriously, in 1946, six campers contracted polio. The camp's medical advisor, Dr. Cushing (a pediatrician), visited the camp and recommended that trips be cancelled but the camp itself remain open.^mc Three of the six cases had been discharged by the end of the summer.^mc That decision, to keep a camp running through a polio scare rather than send potentially infected children home to their communities, reflects a confidence in the camp's medical infrastructure and isolation that would be difficult to imagine today.
+The war years were punctuated by disease outbreaks that tested camp leadership. In 1941, a scarlet fever case triggered a full month of quarantine.^mc In 1944, a mumps outbreak hit during weeks six and seven of the season.^mc Most seriously, in 1946, six campers contracted polio. The camp's medical advisor, [[people/cushing-family|Dr. Cushing]] (a pediatrician), visited the camp and recommended that trips be cancelled but the camp itself remain open.^mc Three of the six cases had been discharged by the end of the summer.^mc That decision, to keep a camp running through a polio scare rather than send potentially infected children home to their communities, reflects a confidence in the camp's medical infrastructure and isolation that would be difficult to imagine today.
 
 McMorris also notes that wartime Kanawana attracted boys from beyond the British Isles: campers came from England, France, Scotland, and Poland during the war years.^mc
 
 ## Multi-Generational Tradition
 
 One detail in the 1941 broadcast that speaks to Kanawana's deep roots: Langille mentioned that fathers who had attended camp as boys were now sending their own sons. By 1941, the camp was old enough for this to be true. A man who attended as a twelve-year-old in 1910 would have been forty-three in 1941, plausibly the father of a camp-age boy. This multi-generational participation is one of the earliest documented references to what would become a defining feature of Kanawana's culture.
+
+## Related Articles
+
+- [[people/rh-hanagan|R.H. Hanagan]]
+- [[people/cushing-family|The Cushing Family]]
+- [[people/directors-index|Directors and Staff of Camp Kanawana]]
+- [[chronology/founding-1894|Founding of Camp Kanawana (1894)]]
+- [[documents/kanawana-in-media|Kanawana in Media]]
 
 ## Research Gaps
 

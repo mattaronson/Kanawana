@@ -1,7 +1,7 @@
 # Daniel Andrew Budge (1851-1933)
 
-*Status: E1 Reviewed | Sources: src_mcgill_archives, src_ymca_world, src_concordia_1B, src_concordia_12L*
-*Last Updated: 2026-02-09*
+*Status: E1-reviewed | Sources: src_mcgill_archives, src_ymca_world, src_concordia_1B, src_concordia_12L, src_concordia_fonds*
+*Last Updated: 2026-06-20 (railway memoranda added; cross-links standardized)*
 
 ## Summary
 
@@ -28,6 +28,8 @@ Budge is noted in YMCA history for his influence on James Naismith. While studyi
 
 Budge authored "The Early Beginning of the Young Men's Christian Association in Montreal, Canada," a document preserved in the Concordia archives (sub-series 1B) and dated to approximately the 1910s. A related letter from C. K. Calhoun to J. H. Crocker accompanies it. This makes Budge himself one of the early historians of the Montreal YMCA, predating Harold Cross's centennial history by decades.
 
+Budge also authored a "Memorandum of the Early Beginnings of the YMCA Work on the Canadian Pacific Railway" (1890s) and a "Study of Possible Extension of YMCAs of Grand Trunk Railway" (1896), both held in the Concordia Archives.^5 These documents reflect the Montreal YMCA's ambition to extend its influence along the railway corridors connecting Montreal to the rest of Canada during the period when the camping program was also taking shape.
+
 ## Archival References
 
 - McGill University Archives: Budge, D. A. (Daniel Andrew), 1851-1933 biographical note
@@ -44,9 +46,11 @@ Budge authored "The Early Beginning of the Young Men's Christian Association in 
 
 ## Related Articles
 
-- [[founding-1894]] - Camp Jubilee founding under Budge's leadership
-- [[harold-cross]] - Cross wrote the centennial history covering Budge's era
-- [[directors-index]] - Camp directors who reported to Budge
+- [[chronology/founding-1894|Founding of Camp Kanawana (1894)]]
+- [[people/harold-cross|Harold C. Cross]]
+- [[people/directors-index|Directors and Staff of Camp Kanawana]]
+- [[people/cushing-family|The Cushing Family]]
+- [[people/billy-ball|Billy Ball]]
 
 ## Sources
 
@@ -55,6 +59,7 @@ Budge authored "The Early Beginning of the Young Men's Christian Association in 
 - Naismith Basketball Foundation, "Dr. James Naismith's Life" (https://naismithbasketballfoundation.com/james-naismith-life/)
 - Concordia University Archives, YMCA of Montreal fonds P145, sub-series 1B (https://www.concordia.ca/offices/archives/ymca-fonds-sub-series-1B.html)
 - Concordia University Archives, YMCA of Montreal fonds P145, sub-series 12L
+5. Concordia University Archives, YMCA of Montreal fonds P0145 finding aid — railway memoranda.
 
 ## Revision History
 

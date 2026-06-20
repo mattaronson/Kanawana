@@ -12,6 +12,13 @@ The 1959 names survived. More than six decades later, all four are still in use 
 
 The persistence of names like Pioneers and Coureurs de Bois, even as their meaning has been remapped onto entirely different organizational principles, is itself a small piece of evidence about how camp traditions work. The words outlast the systems they were designed to label.
 
+## Related Articles
+
+- [[context/coeducation-gender|Coeducation and Gender at Kanawana]]
+- [[programs/programs-activities|Programs and Activities]]
+- [[programs/traditions-and-culture|Traditions and Culture at Kanawana]]
+- [[people/a-ross-seaman|A. Ross Seaman]]
+
 ## Sources
 
 - McMorris, Grace. *An Experience That Lasts a Lifetime: Building Modernity, Man, and Nation at the YMCA of Montreal's Kamp Kanawana, 1894-1967*. MA thesis, Concordia University, 2023. Chapter 1. [Spectrum](https://spectrum.library.concordia.ca/id/eprint/992763/)

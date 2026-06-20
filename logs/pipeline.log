@@ -1816,3 +1816,18 @@ HYPOTHESIZE — Remaining productive research requires:
   - Batch-added 130 fact IDs across 26 articles to articles.json kb_facts_used arrays
   - Remaining ~73 orphans: archival holdings (not article-worthy), duplicate coverage, or sub-threshold entities
   - No significant content gaps found — all major facts are reflected in article text
+
+2026-06-20T17:45:00Z | WRITE | D.A. Budge article expansion
+  - Added railway YMCA memoranda to Historical Writings section (f_0386)
+  - Standardized cross-links to use wiki_folder/article_id format
+  - Added cushing-family and billy-ball cross-links
+  - Word count 661 → 745
+
+2026-06-20T18:00:00Z | MAINTENANCE | Cross-link audit and fixes
+  - Audit found 66 missing cross-links and 8 articles with zero inline wiki links
+  - Added Related Articles sections to 8 articles: coeducation-gender, programs-activities,
+    canoe-trips, wartime-kanawana, council-ring, lv-games, section-names, sources-index
+  - Added inline wiki links to wartime-kanawana (Hanagan, Cushing) and environmental-history
+    (Smee, Twynam, Pip Award)
+  - Added 4 missing links to directors-index Related Articles (Hanagan, Seaman, Dimock, Cushing)
+  - Updated articles.json cross_links for 5 articles

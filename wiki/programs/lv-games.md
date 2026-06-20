@@ -17,6 +17,15 @@ The name itself evolved. What began as "Lumberman-Voyageur Week" eventually beca
 
 The role of "Capitaine" — leader of the Voyageur team — is considered one of the highest honours a staff member can receive. Leigh Evans, who attended Camp Kanawana for six summers (one as a camper, one as a Leader-in-Training, four as staff), was named Capitaine for the Voyageur team in 2012. She credited Camp Kanawana with shaping her career as an educator.^5
 
+## Related Articles
+
+- [[programs/canoe-trips|Canoe Tripping at Kanawana]]
+- [[context/coeducation-gender|Coeducation and Gender at Kanawana]]
+- [[programs/programs-activities|Programs and Activities]]
+- [[programs/traditions-and-culture|Traditions and Culture at Kanawana]]
+- [[context/canadian-camping-movement|The Canadian Camping Movement]]
+- [[places/council-ring|The Council Ring]]
+
 ## Sources
 
 - McMorris, Grace. *An Experience That Lasts a Lifetime: Building Modernity, Man, and Nation at the YMCA of Montreal's Kamp Kanawana, 1894-1967*. MA thesis, Concordia University, 2023. Chapter 3. [Spectrum](https://spectrum.library.concordia.ca/id/eprint/992763/)

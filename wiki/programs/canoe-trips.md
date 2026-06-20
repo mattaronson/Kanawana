@@ -16,6 +16,17 @@ The first all-female Voyageur trip departed from Kanawana in 1972, a milestone i
 
 Today, canoe tripping remains central to the Kanawana experience. The current program includes Voyageurs Ultimate, a leadership section for campers aged 15–17 focused on canoe-tripping skills and wilderness leadership.^4
 
+## Related Articles
+
+- [[places/camp-otoreke|Camp Otoreke]]
+- [[context/canadian-camping-movement|The Canadian Camping Movement]]
+- [[chronology/centennial-1967|Centennial Year (1967)]]
+- [[context/coeducation-gender|Coeducation and Gender at Kanawana]]
+- [[programs/lv-games|The L&V Games]]
+- [[programs/programs-activities|Programs and Activities]]
+- [[places/the-kanawana-site|The Kanawana Site]]
+- [[people/a-ross-seaman|A. Ross Seaman]]
+
 ## Sources
 
 - McMorris, Grace. *An Experience That Lasts a Lifetime: Building Modernity, Man, and Nation at the YMCA of Montreal's Kamp Kanawana, 1894-1967*. MA thesis, Concordia University, 2023. Chapter 3. [Spectrum](https://spectrum.library.concordia.ca/id/eprint/992763/)

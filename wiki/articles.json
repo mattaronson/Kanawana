@@ -141,7 +141,8 @@
                         "src_naismith_foundation",
                         "src_ymca_int_basketball",
                         "src_concordia_12L",
-                        "src_naismith_foundation"
+                        "src_naismith_foundation",
+                        "src_concordia_fonds"
                   ],
                   "open_questions": 4,
                   "cross_links": [
@@ -152,7 +153,7 @@
                         "harold-cross"
                   ],
                   "file_id": "1iOHcDJeDgo5VFTfb46EQ6JrFYuZaZie5",
-                  "word_count": 661
+                  "word_count": 745
             },
             {
                   "article_id": "canoe-trips",
@@ -207,7 +208,8 @@
                         "coeducation-gender",
                         "lv-games",
                         "programs-activities",
-                        "the-kanawana-site"
+                        "the-kanawana-site",
+                        "a-ross-seaman"
                   ],
                   "file_id": "13MmwA1lO_3J3rJ7yEZjwsvT--vWooITy",
                   "word_count": 750
@@ -383,7 +385,9 @@
                         "howie-langille",
                         "directors-index",
                         "founding-1894",
-                        "kanawana-in-media"
+                        "kanawana-in-media",
+                        "rh-hanagan",
+                        "cushing-family"
                   ],
                   "file_id": "1FzPFWuQ3jBYZdPOSVC_xjANKsWr7RjSK",
                   "word_count": 1147
@@ -433,7 +437,8 @@
                   "cross_links": [
                         "coeducation-gender",
                         "programs-activities",
-                        "traditions-and-culture"
+                        "traditions-and-culture",
+                        "a-ross-seaman"
                   ],
                   "file_id": "1vObPDCKcgzCi8HVCEMuBzQCMPd0jk2ua",
                   "word_count": 858
@@ -1017,7 +1022,10 @@
                         "ralph-dawson",
                         "stuart-mclean",
                         "traditions-and-culture",
-                        "wartime-kanawana"
+                        "wartime-kanawana",
+                        "rh-hanagan",
+                        "a-ross-seaman",
+                        "hedley-dimock"
                   ],
                   "file_id": null,
                   "word_count": 4010,
@@ -3914,7 +3922,11 @@
                         "programs-activities",
                         "notable-alumni",
                         "a-ross-seaman",
-                        "canadian-camping-movement"
+                        "canadian-camping-movement",
+                        "edgar-smee",
+                        "dave-twynam",
+                        "j-w-mcconnell",
+                        "pip-alumni-award"
                   ],
                   "file_id": null,
                   "word_count": 1702

@@ -53,6 +53,17 @@ In 2022, Kanawana launched the Mountaineer program, described on the YMCA Quebec
 
 The Mountaineer program represents a conceptual shift from the 1968-1969 transition. Where coeducation introduced a second gender category to a previously single-gender institution (with parallel section tracks like Pathfinders), the Mountaineer program acknowledged that a binary gender framework was itself insufficient.
 
+## Related Articles
+
+- [[places/camp-otoreke|Camp Otoreke]]
+- [[programs/canoe-trips|Canoe Tripping at Kanawana]]
+- [[chronology/centennial-1967|Centennial Year (1967)]]
+- [[chronology/founding-1894|Founding of Camp Kanawana (1894)]]
+- [[programs/lv-games|The L&V Games]]
+- [[programs/programs-activities|Programs and Activities]]
+- [[context/section-names|Section Names and Age Groups]]
+- [[people/stuart-mclean|Stuart McLean]]
+
 ## Open Questions
 
 1. What do the Co-ed Camping Pilot Project reports (1967-1970, Concordia archives sub-series 12A) actually contain? Were girls at Kanawana specifically, or was the pilot across multiple YMCA camps?
