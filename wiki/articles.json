@@ -1801,7 +1801,9 @@
         "f_0925",
         "f_0956",
         "f_0714",
-        "f_1039"
+        "f_1039",
+        "f_1314",
+        "f_1315"
       ],
       "sources_cited": [
         "src_ymca_website",
@@ -1816,7 +1818,9 @@
         "src_lapresse_ymca_2018",
         "src_weredale_camp",
         "src_mysummercamps_kanawana",
-        "src_postmedia_nature_deficit_2026"
+        "src_postmedia_nature_deficit_2026",
+        "src_morin_heights_indigenous",
+        "src_wikipedia_mille_isles"
       ],
       "open_questions": 6,
       "cross_links": [
@@ -1831,8 +1835,8 @@
         "places-and-locations"
       ],
       "file_id": null,
-      "word_count": 1600,
-      "notes": "E1 REVIEW (2026-02-19): Added ^4 citation for 1921 brochure (railway route). Fixed 'gorgeous views' promotional language. Standardized 'Harold C. Cross'. Added camp-otoreke cross-link. Removed KB fact IDs from Sources section. All claims cited, tone neutral."
+      "word_count": 2037,
+      "notes": "E1 REVIEW (2026-02-19): Added ^4 citation for 1921 brochure (railway route). Fixed 'gorgeous views' promotional language. Standardized 'Harold C. Cross'. Added camp-otoreke cross-link. Removed KB fact IDs from Sources section. All claims cited, tone neutral. 2026-06-20: Added Indigenous territory context (f_1315) and Mille-Isles regional history (f_1314)."
     },
     {
       "article_id": "camp-otoreke",

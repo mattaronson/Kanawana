@@ -1,15 +1,15 @@
 # The Kanawana Site
 
-*Status: E1-reviewed | Sources: src_ymca_website, src_kanawana_facts, src_brochure_1921, src_brochure_1922, src_gas_bag_1923, src_green_triangle_1938, src_mcmorris_thesis, src_concordia_fonds, src_wikidata_lac_kanawana, src_lapresse_ymca_2018, src_weredale_camp, src_mysummercamps_kanawana, src_crel_lac_kanawana, src_postmedia_nature_deficit_2026, src_ymca_kanawana_groups_rentals, src_ymca_kanawana_hebergement_fr, src_bonjour_quebec_kanawana, src_clivus_multrum_projects*
-*Last Updated: 2026-06-13 (Pagé-Desjardins genealogical connection; oral history: Grand Portage, Longhouse, the Lookout, the Cave, Lake Desjardins/Wilson renaming)*
+*Status: E1-reviewed | Sources: src_ymca_website, src_kanawana_facts, src_brochure_1921, src_brochure_1922, src_gas_bag_1923, src_green_triangle_1938, src_mcmorris_thesis, src_concordia_fonds, src_wikidata_lac_kanawana, src_lapresse_ymca_2018, src_weredale_camp, src_mysummercamps_kanawana, src_crel_lac_kanawana, src_postmedia_nature_deficit_2026, src_ymca_kanawana_groups_rentals, src_ymca_kanawana_hebergement_fr, src_bonjour_quebec_kanawana, src_clivus_multrum_projects, src_morin_heights_indigenous, src_wikipedia_mille_isles*
+*Last Updated: 2026-06-20 (Indigenous territory context; Mille-Isles regional history)*
 
 ## Overview
 
-Camp Kanawana occupies a 550-acre site in Saint-Sauveur, in the Laurentian Mountains approximately 90 km north of Montreal.^1 The camp has three private lakes — Lake Kanawana, Lake Wilson, and Round Lake — connected by a dam between Lake Kanawana and Lake Wilson that is ceremonially opened at the end of each season.^2 Lac Kanawana is located at coordinates 45°51'6.01"N, 74°11'40.99"W, at an elevation of 319 metres above sea level.^3 The YMCA purchased the current site near Saint-Sauveur in 1910,^1 acquiring it from the Page family after Camp Jubilee had operated at Lake Saint-Joseph since 1894.
+Camp Kanawana occupies a 550-acre site in Saint-Sauveur, in the Laurentian Mountains approximately 90 km north of Montreal.^1 The Laurentians lie within the traditional territory of the Anishinaabe (Algonquin) peoples; unlike much of Ontario and the Prairies, Algonquin territory in this region has never been covered by a land-sharing treaty.^25 The camp has three private lakes — Lake Kanawana, Lake Wilson, and Round Lake — connected by a dam between Lake Kanawana and Lake Wilson that is ceremonially opened at the end of each season.^2 Lac Kanawana is located at coordinates 45°51'6.01"N, 74°11'40.99"W, at an elevation of 319 metres above sea level.^3 The YMCA purchased the current site near Saint-Sauveur in 1910,^1 acquiring it from the Page family after Camp Jubilee had operated at Lake Saint-Joseph since 1894.
 
 ## Location and Access
 
-The camp is situated at 673 Saint-Elmire Street in Saint-Sauveur-des-Monts,^17 approximately 90 km (45 minutes) north of Montreal by road,^1 or about 45 miles (72 km) by the historical railway route.^4 ^5 The nearest railway station was historically at Piedmont on the CPR Sainte-Agathe line. In 1922, campers took the 7:30 AM train from Place Viger Station, disembarking at Piedmont and traveling 6 miles to the camp.^5 Hike destinations from camp in 1923 included Val Morin, Lac Hughes, Sainte-Agathe, Sixteen Island Lake, Lac Wilson, Pages, and Sainte-Adolphe.^6
+The camp is situated at 673 Saint-Elmire Street in Saint-Sauveur-des-Monts,^17 approximately 90 km (45 minutes) north of Montreal by road,^1 or about 45 miles (72 km) by the historical railway route.^4 ^5 The broader region has deep colonial roots: the neighbouring municipality of Mille-Isles was created on July 1, 1855, after detaching from the parish of Saint-Jérôme, and takes its name from the Mille-Isles Seigneury, originally granted in 1683 to Michel-Sidrac Dugué de Boisbriand.^26 Early European settlement in the area dates to the 1830s.^26 The nearest railway station was historically at Piedmont on the CPR Sainte-Agathe line. In 1922, campers took the 7:30 AM train from Place Viger Station, disembarking at Piedmont and traveling 6 miles to the camp.^5 Hike destinations from camp in 1923 included Val Morin, Lac Hughes, Sainte-Agathe, Sixteen Island Lake, Lac Wilson, Pages, and Sainte-Adolphe.^6
 
 ## The Three Lakes
 
@@ -162,3 +162,5 @@ From 1977 to 1980, plans existed for a proposed two-site operation using Kanawan
 22. Clivus Multrum, Parks & Recreation projects. URL: https://clivusmultrum.com/parks-recreation-toilet-system-projects.php
 23. Oral history, Matt Aronson (2026) [src_oral_aronson].
 24. Ville de Saint-Sauveur, "Les familles pionnières de Saint-Sauveur"; Société d'histoire et de généalogie des Pays-d'en-Haut, "Édouard Pagé, boulanger à Saint-Sauveur."
+25. Morin-Heights, "Indigenous History"; cf. historical treaty maps for Quebec.
+26. Wikipedia, "Mille-Isles, Quebec."

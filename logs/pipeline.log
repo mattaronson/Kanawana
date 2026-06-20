@@ -1797,3 +1797,9 @@ HYPOTHESIZE — Remaining productive research requires:
   - Laurentians within Anishinaabe/Algonquin traditional territory, no treaty (f_1315)
   - 2 new sources: src_wikipedia_mille_isles, src_morin_heights_indigenous
   - KB v4.72, 1315 facts, 377 sources
+
+2026-06-20T17:00:00Z | WRITE | the-kanawana-site article expansion
+  - Added Indigenous territory context to Overview (f_1315, src_morin_heights_indigenous)
+  - Added Mille-Isles regional history to Location and Access section (f_1314, src_wikipedia_mille_isles)
+  - Word count 1600 → 2037 (was already underreported)
+  - articles.json updated: +2 facts, +2 sources, word count corrected
