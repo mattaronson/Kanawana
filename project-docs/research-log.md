@@ -1338,3 +1338,28 @@ All search results converge on the same Concordia University Archives source (P0
 5. Camp Pine Crest book "Lumbermen & Voyageurs" (for Kanawana references)
 
 **KB at v4.70, 1305 facts. Sources: 370. No changes this cycle.**
+
+---
+
+## Cycle 11: Article Writing & Orphan Fact Integration (2026-06-20)
+
+**Objective:** With web research saturated, shift to article-writing and cross-referencing tasks using existing KB facts.
+
+**New articles created:**
+1. **wiki/context/quebec-camp-landscape.md** — Quebec Camping Landscape (1850 words, E1-reviewed). Covers YMCA Montreal camp network (Otoreke, Perrot, Dorval, Becsies), Laurentian neighbours (Tamaracouta, Camp B'nai Brith, Pripstein, Massad), women's camps, social service camps, YMCA beyond Quebec. Absorbed 16+ orphan inter-camp facts. Completed p_154.
+2. **wiki/documents/kanawana-in-media.md** — Kanawana in Media and Culture (1000 words, E1-reviewed). Covers 1960s silent film, 1993 documentary, *Jane, le renard et moi* graphic novel, CFCF radio broadcasts, Postmedia 2026, Stuart McLean. Absorbed 10 orphan media facts.
+
+**Orphan fact integration:**
+- programs-activities: f_1280 (EMSB schools), f_1287 (day camps ending)
+- coeducation-gender: f_1286 (Mountaineer)
+- notable-alumni: f_1264-f_1266, f_1269-f_1272 (Adam, Potter)
+- canadian-camping-movement: f_1276-f_1278, f_1284 (CCA/Statten/Robinson/Walsh)
+- hedley-dimock: f_1279
+- page-family: f_1285
+- sources-index: f_1295-f_1297 (archival sources)
+- centennial-1994: f_1283 (120th anniversary)
+- quebec-camp-landscape: f_1288 (Camp B'nai Brith)
+
+**Remaining orphan facts:** ~6 (duplicates or sub-threshold for article placement).
+
+**KB status:** v4.70, 1305 facts, 370 sources. 2 new articles. ~24 orphan facts resolved.
