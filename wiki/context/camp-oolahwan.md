@@ -1,13 +1,13 @@
 # Camp Oolahwan
 
-<!-- status: draft -->
-<!-- confidence: medium -->
-<!-- last_updated: 2026-06-13 -->
-<!-- last_editor: v52 -->
+<!-- status: E1-reviewed -->
+<!-- confidence: high -->
+<!-- last_updated: 2026-06-20 -->
+<!-- last_editor: v53 -->
 <!-- ralph_loops: oolahwan-R1, oolahwan-R2 -->
 
-*Status: draft | Sources: 16*
-*Last Updated: 2026-06-13*
+*Status: E1-reviewed | Sources: 16*
+*Last Updated: 2026-06-20*
 
 ## Overview
 
@@ -41,7 +41,7 @@ Upon closure, the YWCA launched "Summer Space Day Camp," an urban day camp for g
 
 ## Centennial Reunion
 
-In 2017, a centennial reunion was held at Camp Ouareau in Notre-Dame-de-la-Merci, organized by a committee of former campers and counselors.^7 The exact dates of the reunion are disputed: the YWCA gives September 8–10, while the West Island Blog gives August 25–27 (see conflicts.json, c_002).^7 ^8 CBC Radio's "All in a Weekend" aired an 11-minute segment about the anniversary.^16 A Twitter/X account (@campoolahwan, "Camp Oolahwan 100") was created for the occasion.
+In 2017, a centennial reunion was held at Camp Ouareau in Notre-Dame-de-la-Merci, organized by a committee of former campers and counselors.^7 The exact dates of the reunion are disputed: the YWCA gives September 8–10, while the West Island Blog gives August 25–27 (see conflicts.json, c_002).^7 ^8 CBC Radio's "All in a Weekend" aired an 11-minute segment about the anniversary.^16 A Twitter/X account (@campoolahwan, "Camp Oolahwan 100") was created for the occasion.^7
 
 ## Name Etymology
 

@@ -3024,7 +3024,7 @@
       "article_id": "camp-oolahwan",
       "title": "Camp Oolahwan",
       "wiki_folder": "context",
-      "status": "draft",
+      "status": "E1-reviewed",
       "status_history": [
         {
           "status": "stub",
@@ -3037,6 +3037,18 @@
           "at": "2026-06-13T00:00:00Z",
           "by": "auto",
           "task": "RESEARCH"
+        },
+        {
+          "status": "R3-verified",
+          "at": "2026-06-20T00:00:00Z",
+          "by": "auto",
+          "task": "VERIFY"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-06-20T00:00:00Z",
+          "by": "auto",
+          "task": "REVIEW"
         }
       ],
       "ralph_loops_completed": 2,
