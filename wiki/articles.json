@@ -3811,6 +3811,45 @@
       ],
       "file_id": null,
       "word_count": 1200
+    },
+    {
+      "article_id": "centennial-1994",
+      "title": "The 1994 Centennial",
+      "wiki_folder": "chronology",
+      "status": "stub",
+      "status_history": [
+        {
+          "status": "stub",
+          "at": "2026-06-20T00:00:00Z",
+          "by": "auto",
+          "task": "RESEARCH"
+        }
+      ],
+      "ralph_loops_completed": 1,
+      "kb_facts_used": [
+        "f_1256",
+        "f_1257",
+        "f_1258",
+        "f_1259"
+      ],
+      "sources_cited": [
+        "src_concordia_fonds",
+        "src_concordia_12B04",
+        "src_concordia_reeves_film",
+        "src_ymca_120th",
+        "src_ymca_125th_2019",
+        "src_oral_aronson"
+      ],
+      "open_questions": 5,
+      "cross_links": [
+        "founding-1894",
+        "billy-ball",
+        "directors-index",
+        "traditions-and-culture",
+        "notable-alumni"
+      ],
+      "file_id": null,
+      "word_count": 500
     }
   ]
 }
