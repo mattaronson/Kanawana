@@ -275,24 +275,32 @@
         "f_0371",
         "f_0373",
         "f_0624",
-        "f_0826"
+        "f_0826",
+        "f_1299",
+        "f_1300",
+        "f_1301",
+        "f_1304"
       ],
       "sources_cited": [
         "src_mcmorris_thesis",
         "src_ymca_website",
         "src_ymca_gta_pine_crest",
-        "src_pine_crest_book"
+        "src_pine_crest_book",
+        "src_ymca_kanawana_history",
+        "src_ymca_gta_blog_games",
+        "src_aca_hayowentha_programs"
       ],
-      "open_questions": 4,
+      "open_questions": 5,
       "cross_links": [
         "canoe-trips",
         "coeducation-gender",
         "pine-crest",
         "programs-activities",
-        "traditions-and-culture"
+        "traditions-and-culture",
+        "canadian-camping-movement"
       ],
       "file_id": "1EmzjwZxmQKJhFrNsbFGn1HbdseFBM9E7",
-      "word_count": 750
+      "word_count": 830
     },
     {
       "article_id": "wartime-kanawana",

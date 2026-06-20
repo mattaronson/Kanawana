@@ -2,7 +2,7 @@
 
 <!-- status: E1-reviewed -->
 <!-- confidence: medium-high -->
-<!-- last_updated: 2026-03-15 -->
+<!-- last_updated: 2026-06-20 -->
 <!-- last_editor: session3 -->
 <!-- ralph_loops: canadian-camping-movement-R1, canadian-camping-movement-V1, canadian-camping-movement-R2 -->
 
@@ -25,6 +25,7 @@ The earliest known Canadian camps:
 | ~1906 | Camp Couchiching | Orillia, Ontario | YMCA |
 | 1906 | Camp Northway | Algonquin Park, Ontario | Oldest girls' camp |
 | 1910 | Camp Pine Crest | Clear Lake, Muskoka | YMCA |
+| 1919 | Camp Kitchikewana | Beausoleil Island, Georgian Bay | YMCA Simcoe/Muskoka |
 
 The Cushing family and D.A. Budge of the Montreal YMCA were instrumental in the earliest years.^4 Lemuel Cushing brought the first group of boys to Lake Saint-Joseph in 1892, two years before Billy Ball's formal establishment of Camp Jubilee in 1894.
 
