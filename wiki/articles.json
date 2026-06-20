@@ -101,7 +101,8 @@
                         "sources-index",
                         "the-kanawana-site",
                         "wartime-kanawana",
-                        "quebec-camp-landscape"
+                        "quebec-camp-landscape",
+                        "page-family"
                   ],
                   "file_id": "1h-vki1U2tjYj8-zZ5gzuyW6kQXelcUnB",
                   "word_count": 1941
@@ -153,7 +154,7 @@
                         "harold-cross"
                   ],
                   "file_id": "1iOHcDJeDgo5VFTfb46EQ6JrFYuZaZie5",
-                  "word_count": 745
+                  "word_count": 746
             },
             {
                   "article_id": "canoe-trips",
@@ -218,7 +219,7 @@
                         "a-ross-seaman"
                   ],
                   "file_id": "13MmwA1lO_3J3rJ7yEZjwsvT--vWooITy",
-                  "word_count": 902
+                  "word_count": 903
             },
             {
                   "article_id": "council-ring",
@@ -266,7 +267,7 @@
                         "lv-games"
                   ],
                   "file_id": "13YtmB0kQvK5oBY-Kz_88vIgztYAH5x2e",
-                  "word_count": 954
+                  "word_count": 985
             },
             {
                   "article_id": "lv-games",
@@ -302,7 +303,8 @@
                         "f_1301",
                         "f_1304",
                         "f_1100",
-                        "f_1101"
+                        "f_1101",
+                        "f_1312"
                   ],
                   "sources_cited": [
                         "src_mcmorris_thesis",
@@ -323,7 +325,7 @@
                         "canadian-camping-movement"
                   ],
                   "file_id": "1EmzjwZxmQKJhFrNsbFGn1HbdseFBM9E7",
-                  "word_count": 838
+                  "word_count": 871
             },
             {
                   "article_id": "wartime-kanawana",
@@ -396,7 +398,7 @@
                         "cushing-family"
                   ],
                   "file_id": "1FzPFWuQ3jBYZdPOSVC_xjANKsWr7RjSK",
-                  "word_count": 1147
+                  "word_count": 1174
             },
             {
                   "article_id": "section-names",
@@ -447,7 +449,7 @@
                         "a-ross-seaman"
                   ],
                   "file_id": "1vObPDCKcgzCi8HVCEMuBzQCMPd0jk2ua",
-                  "word_count": 858
+                  "word_count": 881
             },
             {
                   "article_id": "coeducation-gender",
@@ -513,7 +515,8 @@
                         "f_0588",
                         "f_0688",
                         "f_0700",
-                        "f_1286"
+                        "f_1286",
+                        "f_1048"
                   ],
                   "sources_cited": [
                         "src_mcmorris_thesis",
@@ -535,8 +538,8 @@
                         "stuart-mclean"
                   ],
                   "file_id": "1KW2yhoZ-wr_71sTPbLJ3v81KW4ZEJ_p-",
-                  "word_count": 1846,
-                  "notes": "E1 REVIEW (2026-02-19): Fixed source header (src_ymca_facts→src_kanawana_facts), added Spectrum URL for McMorris thesis, added IA URLs for Facts sheet and Gas Bag. All claims cited, dates consistent, names cross-checked, tone encyclopedic. Advanced R3-verified → E1-reviewed."
+                  "word_count": 1884,
+                  "notes": "E1 REVIEW (2026-02-19): Fixed source header (src_ymca_facts\u2192src_kanawana_facts), added Spectrum URL for McMorris thesis, added IA URLs for Facts sheet and Gas Bag. All claims cited, dates consistent, names cross-checked, tone encyclopedic. Advanced R3-verified \u2192 E1-reviewed."
             },
             {
                   "article_id": "programs-activities",
@@ -697,7 +700,14 @@
                         "f_1037",
                         "f_1038",
                         "f_1280",
-                        "f_1287"
+                        "f_1287",
+                        "f_1034",
+                        "f_1077",
+                        "f_1095",
+                        "f_1106",
+                        "f_1111",
+                        "f_0993",
+                        "f_1308"
                   ],
                   "sources_cited": [
                         "src_brochure_1922",
@@ -725,8 +735,8 @@
                         "quebec-camp-landscape"
                   ],
                   "file_id": "1oqLoU6_bzWD_9jXwXQgYNm_EqLCEfNjR",
-                  "word_count": 2252,
-                  "notes": "E1 REVIEW (2026-02-19): All claims cited, dates consistent, names cross-checked, tone encyclopedic, cross-links valid, open questions actionable, no redundancy with sibling articles. Advanced R3-verified → E1-reviewed."
+                  "word_count": 2297,
+                  "notes": "E1 REVIEW (2026-02-19): All claims cited, dates consistent, names cross-checked, tone encyclopedic, cross-links valid, open questions actionable, no redundancy with sibling articles. Advanced R3-verified \u2192 E1-reviewed."
             },
             {
                   "article_id": "ralph-dawson",
@@ -993,7 +1003,14 @@
                         "f_1222",
                         "f_1223",
                         "f_1224",
-                        "f_1225"
+                        "f_1225",
+                        "f_1057",
+                        "f_1096",
+                        "f_1107",
+                        "f_1089",
+                        "f_1109",
+                        "f_1153",
+                        "f_1154"
                   ],
                   "sources_cited": [
                         "src_mcmorris_thesis",
@@ -1034,8 +1051,8 @@
                         "hedley-dimock"
                   ],
                   "file_id": null,
-                  "word_count": 4010,
-                  "notes": "E1 REVIEW (2026-02-19): PASS — all 7 checklist items satisfied. No fixes needed. Advanced R3-verified → E1-reviewed."
+                  "word_count": 4024,
+                  "notes": "E1 REVIEW (2026-02-19): PASS \u2014 all 7 checklist items satisfied. No fixes needed. Advanced R3-verified \u2192 E1-reviewed."
             },
             {
                   "article_id": "sources-index",
@@ -1124,7 +1141,24 @@
                         "f_0837",
                         "f_1295",
                         "f_1296",
-                        "f_1297"
+                        "f_1297",
+                        "f_1046",
+                        "f_1047",
+                        "f_1049",
+                        "f_1050",
+                        "f_1051",
+                        "f_1044",
+                        "f_1045",
+                        "f_1052",
+                        "f_1053",
+                        "f_1054",
+                        "f_1055",
+                        "f_1056",
+                        "f_1058",
+                        "f_1059",
+                        "f_1086",
+                        "f_1105",
+                        "f_1309"
                   ],
                   "sources_cited": [],
                   "open_questions": 7,
@@ -1138,7 +1172,7 @@
                         "stuart-mclean"
                   ],
                   "file_id": null,
-                  "word_count": 1517,
+                  "word_count": 1551,
                   "notes": "E1 REVIEW (2026-02-19): Fixed source counts (85 total, 74 extracted, 11 IA documents). Restructured with newspaper sources, Pip Award pages, biographical sources."
             },
             {
@@ -1213,7 +1247,7 @@
                   ],
                   "file_id": null,
                   "word_count": 1000,
-                  "notes": "E1 REVIEW (2026-02-19): Added inline ^1-^5 citations throughout body text. Standardized all name mentions to 'Harold C. Cross'. Added Related Articles section. Added priority tags to Open Questions. Advanced R3-verified → E1-reviewed."
+                  "notes": "E1 REVIEW (2026-02-19): Added inline ^1-^5 citations throughout body text. Standardized all name mentions to 'Harold C. Cross'. Added Related Articles section. Added priority tags to Open Questions. Advanced R3-verified \u2192 E1-reviewed."
             },
             {
                   "article_id": "centennial-1967",
@@ -1409,7 +1443,8 @@
                         "f_1276",
                         "f_1277",
                         "f_1278",
-                        "f_1284"
+                        "f_1284",
+                        "f_1132"
                   ],
                   "sources_cited": [
                         "src_ymca_website",
@@ -1497,7 +1532,7 @@
                   ],
                   "file_id": null,
                   "word_count": 924,
-                  "notes": "E1 REVIEW (2026-02-19): PASS — all 7 checklist items satisfied. No fixes needed. Advanced R3-verified → E1-reviewed."
+                  "notes": "E1 REVIEW (2026-02-19): PASS \u2014 all 7 checklist items satisfied. No fixes needed. Advanced R3-verified \u2192 E1-reviewed."
             },
             {
                   "article_id": "cushing-family",
@@ -1590,7 +1625,7 @@
                   ],
                   "file_id": null,
                   "word_count": 1448,
-                  "notes": "E1 REVIEW (2026-02-19): Fixed Frederick row in Eight Sons table (birthplace clarified in Occupation column). All 7 checklist items satisfied. Advanced R3-verified → E1-reviewed."
+                  "notes": "E1 REVIEW (2026-02-19): Fixed Frederick row in Eight Sons table (birthplace clarified in Occupation column). All 7 checklist items satisfied. Advanced R3-verified \u2192 E1-reviewed."
             },
             {
                   "article_id": "traditions-and-culture",
@@ -1726,7 +1761,16 @@
                         "f_1205",
                         "f_1100",
                         "f_1101",
-                        "f_1102"
+                        "f_1102",
+                        "f_1026",
+                        "f_1027",
+                        "f_1028",
+                        "f_1031",
+                        "f_1062",
+                        "f_1085",
+                        "f_1029",
+                        "f_1236",
+                        "f_1268"
                   ],
                   "sources_cited": [
                         "src_mcmorris_thesis",
@@ -1857,7 +1901,11 @@
                         "f_1076",
                         "f_1110",
                         "f_1112",
-                        "f_1239"
+                        "f_1239",
+                        "f_1040",
+                        "f_1088",
+                        "f_1099",
+                        "f_1090"
                   ],
                   "sources_cited": [
                         "src_ymca_website",
@@ -1946,7 +1994,9 @@
                         "f_0489",
                         "f_0616",
                         "f_0644",
-                        "f_0645"
+                        "f_0645",
+                        "f_1104",
+                        "f_1243"
                   ],
                   "sources_cited": [
                         "src_qahn_howard",
@@ -2058,7 +2108,8 @@
                         "f_1017",
                         "f_1018",
                         "f_1063",
-                        "f_1159"
+                        "f_1159",
+                        "f_1236"
                   ],
                   "sources_cited": [
                         "src_samaritanmag_mclean",
@@ -2081,7 +2132,8 @@
                         "directors-index",
                         "pip-alumni-award",
                         "sources-index",
-                        "traditions-and-culture"
+                        "traditions-and-culture",
+                        "sean-day"
                   ],
                   "file_id": null,
                   "word_count": 1401,
@@ -2167,7 +2219,9 @@
                         "f_1012",
                         "f_1030",
                         "f_1235",
-                        "f_1316"
+                        "f_1316",
+                        "f_1119",
+                        "f_1311"
                   ],
                   "sources_cited": [
                         "src_ymca_pip_skinner",
@@ -2267,7 +2321,7 @@
                   ],
                   "file_id": null,
                   "word_count": 1426,
-                  "notes": "RALPH R1 (2026-02-26): Lake Wilson naming claim CANNOT BE VERIFIED — plausible but no documentary evidence. McConnell family tree confirmed. YMCA connection 1901-1963 documented. 10 new KB facts (f_0516-f_0525). 1 new source (Fong biography). Research SATURATED for online sources."
+                  "notes": "RALPH R1 (2026-02-26): Lake Wilson naming claim CANNOT BE VERIFIED \u2014 plausible but no documentary evidence. McConnell family tree confirmed. YMCA connection 1901-1963 documented. 10 new KB facts (f_0516-f_0525). 1 new source (Fong biography). Research SATURATED for online sources."
             },
             {
                   "article_id": "lake-wilson",
@@ -2310,7 +2364,8 @@
                         "f_0476",
                         "f_0524",
                         "f_0525",
-                        "f_1206"
+                        "f_1206",
+                        "f_1091"
                   ],
                   "sources_cited": [
                         "src_mysummercamps_kanawana",
@@ -2642,7 +2697,13 @@
                         "f_0686",
                         "f_0843",
                         "f_0725",
-                        "f_0726"
+                        "f_0726",
+                        "f_1113",
+                        "f_1118",
+                        "f_1120",
+                        "f_1123",
+                        "f_1089",
+                        "f_1152"
                   ],
                   "sources_cited": [
                         "src_ymca_website",
@@ -2777,7 +2838,7 @@
                   ],
                   "file_id": null,
                   "word_count": 2165,
-                  "notes": "E1 REVIEW (2026-03-02): 10 fixes applied. Father-son inference reframed as neutral hypothesis. Earliest publication contradiction resolved. Kamp→Camp standardized. Hendry relocated. Unsourced synthesis removed. All 7 criteria PASS."
+                  "notes": "E1 REVIEW (2026-03-02): 10 fixes applied. Father-son inference reframed as neutral hypothesis. Earliest publication contradiction resolved. Kamp\u2192Camp standardized. Hendry relocated. Unsourced synthesis removed. All 7 criteria PASS."
             },
             {
                   "article_id": "camp-weredale",
@@ -3234,7 +3295,13 @@
                         "f_1260",
                         "f_1261",
                         "f_1262",
-                        "f_1263"
+                        "f_1263",
+                        "f_1143",
+                        "f_1144",
+                        "f_1145",
+                        "f_1240",
+                        "f_1241",
+                        "f_1242"
                   ],
                   "sources_cited": [
                         "src_ywca_oolahwan_page",
@@ -3320,7 +3387,8 @@
                         "f_0974",
                         "f_0975",
                         "f_0976",
-                        "f_0977"
+                        "f_0977",
+                        "f_0988"
                   ],
                   "sources_cited": [
                         "src_concordia_12B01",
@@ -3622,7 +3690,11 @@
                         "f_0923",
                         "f_1181",
                         "f_1182",
-                        "f_1183"
+                        "f_1183",
+                        "f_0989",
+                        "f_0990",
+                        "f_0991",
+                        "f_0992"
                   ],
                   "sources_cited": [
                         "src_oral_aronson",
@@ -3691,7 +3763,8 @@
                         "f_1025",
                         "f_1178",
                         "f_1179",
-                        "f_1180"
+                        "f_1180",
+                        "f_1103"
                   ],
                   "sources_cited": [
                         "src_ymca_quebec_history",
@@ -3806,7 +3879,8 @@
                         "f_1271",
                         "f_1272",
                         "f_0986",
-                        "f_1093"
+                        "f_1093",
+                        "f_1237"
                   ],
                   "sources_cited": [
                         "src_ymca_quebec_pip_skinner",
@@ -3935,11 +4009,11 @@
                         "pip-alumni-award"
                   ],
                   "file_id": null,
-                  "word_count": 1702
+                  "word_count": 1717
             },
             {
                   "article_id": "page-family",
-                  "title": "The Pagé Family of Saint-Sauveur",
+                  "title": "The Pag\u00e9 Family of Saint-Sauveur",
                   "wiki_folder": "people",
                   "status": "E1-reviewed",
                   "status_history": [
@@ -4052,7 +4126,12 @@
                         "f_1257",
                         "f_1258",
                         "f_1259",
-                        "f_1283"
+                        "f_1283",
+                        "f_1211",
+                        "f_0180",
+                        "f_0156",
+                        "f_1108",
+                        "f_1307"
                   ],
                   "sources_cited": [
                         "src_concordia_fonds",
@@ -4060,7 +4139,9 @@
                         "src_concordia_reeves_film",
                         "src_ymca_120th",
                         "src_ymca_125th_2019",
-                        "src_oral_aronson"
+                        "src_oral_aronson",
+                        "src_south_shore_ymca",
+                        "src_ymca_pip_releases"
                   ],
                   "open_questions": 5,
                   "cross_links": [
@@ -4069,10 +4150,11 @@
                         "directors-index",
                         "traditions-and-culture",
                         "notable-alumni",
-                        "kanawana-in-media"
+                        "kanawana-in-media",
+                        "pip-alumni-award"
                   ],
                   "file_id": null,
-                  "word_count": 550
+                  "word_count": 622
             },
             {
                   "article_id": "quebec-camp-landscape",
@@ -4154,7 +4236,8 @@
                         "camp-perrot",
                         "camp-otoreke",
                         "founding-1894",
-                        "lv-games"
+                        "lv-games",
+                        "a-ross-seaman"
                   ],
                   "file_id": null,
                   "word_count": 1810
@@ -4228,7 +4311,7 @@
                         "terry-mosher"
                   ],
                   "file_id": null,
-                  "word_count": 933
+                  "word_count": 936
             }
       ]
 }

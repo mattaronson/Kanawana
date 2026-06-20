@@ -6,7 +6,7 @@
 <!-- last_editor: v54 -->
 <!-- ralph_loops: centennial-1994-R1, centennial-1994-W1, centennial-1994-V1, centennial-1994-E1 -->
 
-*Status: E1-reviewed | Sources: 6*
+*Status: E1-reviewed | Sources: 8*
 *Last Updated: 2026-06-20*
 
 ## Overview
@@ -29,7 +29,7 @@ In 1993, one year before the centennial, a documentary titled *Kamp Kanawana: Th
 
 The centennial was the camp's first major milestone celebration to be documented in surviving materials. The 95th anniversary reunion on April 7, 1989 (with "95 years of sharing" promotional materials) preceded it. Later milestone events include the 120th anniversary reunion at Victoria Hall, Montreal on September 5, 2014, and the 125th anniversary "Family, Alumni, and Friends Weekend" at camp in summer 2019.^1 ^4 ^5
 
-Bruce Netherwood was Director of Camp Kanawana from 1988 to 1994, meaning the centennial fell during his tenure.^6
+Bruce Netherwood was Director of Camp Kanawana from 1988 to 1994, meaning the centennial fell during his tenure; he had succeeded his brother Jay Netherwood, who directed the camp in 1986–1987.^6 ^7 Netherwood later received the [[programs/pip-alumni-award|Pip Alumni Award]] in 2011 and went on to become Vice President of Camping & Social Responsibility at South Shore YMCA in Hanover, Massachusetts, overseeing Camp Burgess & Hayward.^8
 
 ## Open Questions
 
@@ -56,3 +56,5 @@ Bruce Netherwood was Director of Camp Kanawana from 1988 to 1994, meaning the ce
 4. YMCA Quebec, 120th anniversary event listing (September 5, 2014).
 5. YMCA Quebec, 125th anniversary "Family, Alumni, and Friends Weekend" (summer 2019). URL: https://www.ymcaquebec.org/en/summer-camp-kanawana/history
 6. Oral history, Matt Aronson (2026).
+7. Concordia University Archives finding aid P0145/12B04; oral history.
+8. South Shore YMCA, Camp Burgess & Hayward staff listing; YMCA Quebec Pip Award press releases.
