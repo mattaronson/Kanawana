@@ -22302,6 +22302,42 @@
       "conflicts_with": [],
       "added_version": "v4.68",
       "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1286",
+      "claim": "Camp Kanawana launched the 'Mountaineer' program as an all-gender tent to provide a safe and welcoming environment for transgender, non-binary, and gender non-conforming campers.",
+      "sources": ["src_ymca_website"],
+      "confidence": "stated",
+      "category": "programs",
+      "entities": ["Camp Kanawana", "Mountaineer program"],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "v4.68",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1287",
+      "claim": "YMCA day camps, holiday camps, and spring break camps will no longer be offered as of fall 2025. The Kanawana summer camp will continue to operate.",
+      "sources": ["src_ymca_website"],
+      "confidence": "stated",
+      "category": "institutional",
+      "entities": ["Camp Kanawana", "YMCA Quebec"],
+      "date_ref": "2025",
+      "conflicts_with": [],
+      "added_version": "v4.68",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1288",
+      "claim": "Camp B'nai Brith of Montreal was established in 1921 (Mount Royal Lodge of B'nai Brith Canada). First campsite on a farm 64 km from Montreal; moved to current location 1929. Counsellors were McGill student volunteers. Combined Jewish Appeal constituent agency from 1942.",
+      "sources": ["src_wikipedia_camp_bnai_brith"],
+      "confidence": "stated",
+      "category": "inter-camp",
+      "entities": ["Camp B'nai Brith", "Montreal", "McGill University"],
+      "date_ref": "1921",
+      "conflicts_with": [],
+      "added_version": "v4.68",
+      "added_by": "ralph_loop"
     }
   ]
 }

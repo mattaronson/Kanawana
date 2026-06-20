@@ -6035,6 +6035,23 @@
       "reliability": "secondary",
       "notes": "VSS.ca 403 blocked; facts extracted from Google search snippets only. Magloire Pagé married 1851, son born in Saint-Sauveur 1853, first baker 1897, bakery sold to Édouard Pagé 1912. Boulangerie Pagé still active. No Télesphore Pagé found."
     }
+    },
+    {
+      "source_id": "src_wikipedia_camp_bnai_brith",
+      "type": "web",
+      "title": "Wikipedia — Camp B'nai Brith (Montreal)",
+      "date": "2026",
+      "date_precision": "year",
+      "origin": "web",
+      "origin_url": "https://en.wikipedia.org/wiki/Camp_B%27nai_Brith_(Montreal)",
+      "cache_path": null,
+      "char_count": 0,
+      "ingested_at": "2026-06-20T00:00:00Z",
+      "extracted": true,
+      "extraction_version": "v4.68",
+      "reliability": "secondary",
+      "notes": "Camp B'nai Brith est. 1921, Montreal. First camp on farm 64km from Montreal. McGill student volunteer counsellors. Moved to current location 1929. CJA constituent 1942. Grew to 1000+ campers 1954-1964."
+    }
   ],
-  "source_count": 349
+  "source_count": 350
 }

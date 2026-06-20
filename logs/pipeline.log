@@ -1572,3 +1572,18 @@ ANALYZE — New facts:
 
 NULL RESULTS: eBay/Etsy memorabilia, Reddit mentions, CORE.ac.uk thesis access, Concordia Reflections PDF
 PROCESS — KB v4.68 extended: 4 more facts (f_1282-f_1285), 1 new source (349 total)
+
+=== 2026-06-20T06:11:35Z — Phase 2 RALPH: third research cycle ===
+RETRIEVE: The Georgian newspaper (digitized on IA, blocked), Camp B'nai Brith, Lemuel Cushing genealogy
+RETRIEVE: Lac Kanawana ecology, YMCA Quebec annual reports, Mountaineer program, day camp cessation
+RETRIEVE: Kanawana name etymology (exhausted — no definitive source found)
+
+ANALYZE — New facts:
+  f_1286: Mountaineer all-gender tent program (already in coeducation article)
+  f_1287: YMCA day camps/holiday/spring break camps discontinued fall 2025
+  f_1288: Camp B'nai Brith Montreal est. 1921, McGill volunteers, CJA from 1942
+
+NULL RESULTS: Kanawana name etymology (8+ queries, 3+ surfaces — declared exhausted for web search)
+NULL RESULTS: The Georgian full text (IA access blocked)
+CONFIRMED: Cushing family article already comprehensive; Mountaineer program already in coeducation article
+PROCESS — KB v4.68 extended: 3 more facts (f_1286-f_1288), 1 new source (350 total)
