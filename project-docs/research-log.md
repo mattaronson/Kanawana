@@ -1409,3 +1409,45 @@ All search results converge on the same Concordia University Archives source (P0
 ### KB Changes
 
 3 new facts (f_1310–f_1312), 3 new sources. KB v4.72, 1312 facts, 375 sources.
+
+## Session: 2026-06-20 (continued — context 2)
+
+### Cycle 13: Maintenance and Cross-Link Audit
+
+**the-kanawana-site expansion**: Integrated Indigenous territory context (f_1315, Anishinaabe/Algonquin unceded territory) into Overview and Mille-Isles regional history (f_1314, 1683 seigneury) into Location and Access section. Word count updated to 2037.
+
+**Word count audit**: All 47 articles audited against actual wc -w values. 46 of 47 had stale counts in articles.json. Largest discrepancies: directors-index (2400→4010), myths-and-legends (2811→3915), voyageur-canoe-pageant (550→1542). All corrected.
+
+**Orphan fact audit**: Identified 203 orphan facts (in KB but not tracked by any article). Analysis showed most were tracking gaps, not content gaps — article text already contained the information. Batch-added 130 fact IDs across 26 articles. Remaining ~73 orphans are archival holdings, sub-threshold entities, or genuinely non-article-worthy items.
+
+**Cross-link audit**: Systematic audit found 66 missing cross-links and 8 articles with zero inline wiki links. All 8 articles (coeducation-gender, programs-activities, canoe-trips, wartime-kanawana, council-ring, lv-games, section-names, sources-index) received Related Articles sections. Added inline wiki links in wartime-kanawana (Hanagan, Cushing), environmental-history (Smee, Twynam, Pip Award), myths-and-legends (Ralph Dawson, Taylor Statten, D.A. Budge, Billy Ball, Cushing family), centennial-1967 (Taylor Statten), and hedley-dimock (Taylor Statten).
+
+**D.A. Budge expansion**: Added railway YMCA memoranda (f_0386) to Historical Writings section. Standardized cross-links. Word count 661→745.
+
+### Cycle 14: 2026 Program Structure Research
+
+**Searches attempted** (8 web searches):
+1. "Camp Kanawana YMCA 2026 summer season" → Session dates: Jun 22-Aug 14, four 12-day sessions
+2. "Camp Kanawana" "Explorers Pioneers" → NEW PROGRAM: girls/NB 11-12, 3-4 day expedition to Papineau-Labelle Wildlife Reserve
+3. ymcaquebec.org "coureurs des bois" woodsmen → Woodsmen 6-day includes Sommet Saint-Sauveur water park
+4. ymcaquebec.org "adventurers pathfinders" → NEW PROGRAM: girls/NB 13-16, 4-6 day canoe trip (La Vérendrye flat water or river white water)
+5. "William Henry Ball" YMCA Springfield College 1891 → Confirmed existing KB data; Springfield College MS 527 finding aid details
+6. "Pip Award" Camp Kanawana 2019-2023 → Still blocked; no press releases found for these years
+7. "Camp Kanawana" YMCA Quebec annual report → 2021/2022 impact reports found but PDFs blocked
+8. "Marie-Pierre Lacasse" YMCA biography → LinkedIn confirms "Directeur principal" title
+
+**New facts**: f_1317 (Explorers Pioneers program), f_1318 (Adventurers Pathfinders program), f_1319 (2026 season dates and structure). 3 new sources. KB v4.73, 1319 facts, 408 sources.
+
+**canoe-trips article expanded**: Added 2026 program structure with Adventurers Pathfinders, Explorers Pioneers, and Papineau-Labelle Wildlife Reserve as trip destination. Word count 750→902.
+
+### Cycle 15: Additional Web Research (diminishing returns)
+
+**Searches attempted** (6 web searches):
+1. McMorris thesis citations 2024-2026 → No new academic work citing the thesis
+2. "Camp Kanawana" academic research 2024-2025 → No new publications
+3. "Camp Kanawana" new discovery 2025-2026 → No new findings; TikTok presence noted
+4. "Camp Kanawana" Facebook alumni group → No new facts from snippets
+5. YMCA Quebec governance leadership → Pascale Audette already in KB
+6. Papineau-Labelle Wildlife Reserve details → 1,600 km², 760+ lakes (geographic context only)
+
+**Assessment**: Web research for Camp Kanawana is effectively saturated. All major discoverable web sources have been found and extracted. Remaining gaps (Pip Award 2019-2023, 1947-1958 directors, Billy Ball identification) are blocked on archival access or oral history.
