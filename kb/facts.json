@@ -22398,6 +22398,54 @@
       "conflicts_with": [],
       "added_version": "v4.69",
       "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1294",
+      "claim": "La Colonie de vacances Sainte-Jeanne-d'Arc, a French-speaking girls-only summer camp, was established in 1926 by Father Adélard Desrosiers in Contrecoeur, Quebec. It is the second-oldest summer camp exclusively for girls still operating in Quebec and French Canada. Incorporated December 22, 1941. Serves low-income families with sliding-scale pricing.",
+      "sources": ["src_wikipedia_ste_jeanne_darc"],
+      "confidence": "stated",
+      "category": "inter-camp",
+      "entities": ["Sainte-Jeanne-d'Arc Vacation Camp", "Contrecoeur", "Adélard Desrosiers"],
+      "date_ref": "1926",
+      "conflicts_with": [],
+      "added_version": "v4.69",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1295",
+      "claim": "The University of Minnesota Kautz Family YMCA Archives holds a 'YMCA in Canada records' collection containing minutes, reports, yearbooks, and correspondence from the Canadian YMCA pre-1912 period (when Canadian YMCA was governed jointly with US YMCA under the International Committee). Includes records related to youth development programs and camping.",
+      "sources": ["src_umn_ymca_canada_records"],
+      "confidence": "stated",
+      "category": "sources",
+      "entities": ["University of Minnesota", "YMCA", "International Committee"],
+      "date_ref": "pre-1912",
+      "conflicts_with": [],
+      "added_version": "v4.69",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1296",
+      "claim": "Harry Ballantyne authored 'A Short History of the Canadian Y.M.C.A. 1851-1944,' prepared for the Canadian YMCA Study Committee. A copy is held on the Internet Archive, uploaded by Concordia University Records Management.",
+      "sources": ["src_ia_ballantyne_ymca"],
+      "confidence": "stated",
+      "category": "sources",
+      "entities": ["Harry Ballantyne", "Canadian YMCA"],
+      "date_ref": "1944",
+      "conflicts_with": [],
+      "added_version": "v4.69",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1297",
+      "claim": "A 'Historical Sketch of the YMCA of the City of Montreal' was presented at the YMCA Jubilee Celebration in 1901, covering the YMCA's history from 1851 to 1901. A copy is on the Internet Archive, uploaded by Concordia University Records Management.",
+      "sources": ["src_ia_historical_sketch_1901"],
+      "confidence": "stated",
+      "category": "sources",
+      "entities": ["YMCA Montreal"],
+      "date_ref": "1901",
+      "conflicts_with": [],
+      "added_version": "v4.69",
+      "added_by": "ralph_loop"
     }
   ]
 }

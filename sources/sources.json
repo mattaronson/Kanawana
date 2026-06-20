@@ -6163,7 +6163,71 @@
       "extraction_version": "v4.69",
       "reliability": "secondary",
       "notes": "Co-ed camp in Saint-Adolphe-d'Howard 1941-2014. Founded by Chaim Pripstein. Closed 2014."
+    },
+    {
+      "source_id": "src_wikipedia_ste_jeanne_darc",
+      "type": "web",
+      "title": "Wikipedia — Sainte-Jeanne-d'Arc Vacation camp",
+      "date": "2026",
+      "date_precision": "year",
+      "origin": "web",
+      "origin_url": "https://en.wikipedia.org/wiki/Sainte-Jeanne-d%27Arc_Vacation_camp",
+      "cache_path": null,
+      "char_count": 0,
+      "ingested_at": "2026-06-20T00:00:00Z",
+      "extracted": true,
+      "extraction_version": "v4.69",
+      "reliability": "secondary",
+      "notes": "French-speaking girls-only camp, est. 1926 by Fr. Desrosiers in Contrecoeur."
+    },
+    {
+      "source_id": "src_umn_ymca_canada_records",
+      "type": "catalog_reference",
+      "title": "University of Minnesota Kautz YMCA Archives — YMCA in Canada records",
+      "date": "2026",
+      "date_precision": "year",
+      "origin": "web",
+      "origin_url": "https://archives.lib.umn.edu/repositories/7/resources/992",
+      "cache_path": null,
+      "char_count": 0,
+      "ingested_at": "2026-06-20T00:00:00Z",
+      "extracted": false,
+      "extraction_version": null,
+      "reliability": "primary",
+      "notes": "Minutes, reports, yearbooks, correspondence from pre-1912 Canadian YMCA. Potential source for early camping records."
+    },
+    {
+      "source_id": "src_ia_ballantyne_ymca",
+      "type": "report",
+      "title": "A Short History of the Canadian Y.M.C.A. 1851-1944 (Harry Ballantyne)",
+      "date": "1944",
+      "date_precision": "year",
+      "origin": "internet_archive",
+      "origin_url": "https://archive.org/details/1851-1944-a-brief-history-of-the-canadian-ymca",
+      "cache_path": null,
+      "char_count": 0,
+      "ingested_at": "2026-06-20T00:00:00Z",
+      "extracted": false,
+      "extraction_version": null,
+      "reliability": "primary",
+      "notes": "Prepared for Canadian YMCA Study Committee. Uploaded by Concordia Records Management. Full text blocked (403)."
+    },
+    {
+      "source_id": "src_ia_historical_sketch_1901",
+      "type": "report",
+      "title": "Historical Sketch of the YMCA of the City of Montreal (Jubilee 1901)",
+      "date": "1901",
+      "date_precision": "exact",
+      "origin": "internet_archive",
+      "origin_url": "https://archive.org/details/historical-sketch-ymca-of-montreal-1901",
+      "cache_path": null,
+      "char_count": 0,
+      "ingested_at": "2026-06-20T00:00:00Z",
+      "extracted": false,
+      "extraction_version": null,
+      "reliability": "primary",
+      "notes": "YMCA Montreal 50th anniversary document 1851-1901. Full text blocked (403). May contain early camping references."
     }
   ],
-  "source_count": 357
+  "source_count": 361
 }
