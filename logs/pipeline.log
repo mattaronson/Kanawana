@@ -1514,3 +1514,7 @@ Research status: SATURATED for online sources. Physical archives needed for adva
 2026-06-13T08:00:00Z | RESEARCH | billy-ball | William Henry Ball (Springfield College 1891, died Dec 17, 1955) identified as strong candidate for "Billy Ball" of Camp Jubilee 1894. f_1244-f_1245 added. 2 sources added. billy-ball.md updated. Confirmation requires Springfield College MS 527 finding aid.
 2026-06-13T08:00:00Z | RESEARCH | rsvl-water | RSVL water quality data for Lac Kanawana: CRE Laurentides page returned 403. Data exists but not extractable via web search.
 2026-06-13T08:00:00Z | KB | facts.json | Version updated to v4.64, fact_count 1261.
+
+[2026-06-13T10:05:00Z] VERIFY+REVIEW page-family.md: R3 verification and E1 review pass. All claims confirmed against KB (f_1226-f_1233, f_0843, f_1206, f_0013, f_0014, f_0479, f_0686, f_0313, f_0476). Dates, names, genealogical details verified. Cross-links valid. No unsourced claims. Article advanced draft → E1-reviewed.
+[2026-06-13T10:35:00Z] RESEARCH environmental-history.md: C-Vert program founding date resolved — launched 2005, MHM neighbourhood, 120 teens/summer, Port of Montreal partner. f_1246 added, src_port_montreal_cvert registered. KB v4.65, 1262 facts, 355 sources.
+[2026-06-20T05:19:45Z] ARTICLE_UPDATE: camp-oolahwan advanced stub → draft. articles.json updated: status=draft, ralph_loops_completed=2, 15 sources_cited, 30 kb_facts_used, word_count=1355, open_questions=8.

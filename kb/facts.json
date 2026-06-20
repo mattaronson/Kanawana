@@ -1,8 +1,8 @@
 {
-  "version": "v4.64",
+  "version": "v4.66",
   "kb_version": 4.64,
   "migrated_from": "3.3",
-  "fact_count": 1261,
+  "fact_count": 1279,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -21702,6 +21702,311 @@
       "date_ref": "1891-1894",
       "conflicts_with": [],
       "added_version": "v4.64",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1246",
+      "claim": "The C-Vert environmental leadership program was launched in 2005, initially in the Mercier-Hochelaga-Maisonneuve neighbourhood of Montreal. By the 2020s it operates throughout Quebec, engaging 120 teens per summer in sustainable development projects. The Port of Montreal supports the program as part of its community investment policy.",
+      "sources": [
+        "src_port_montreal_cvert"
+      ],
+      "confidence": "stated",
+      "category": "programs",
+      "entities": [
+        "YMCA Quebec",
+        "C-Vert",
+        "Port of Montreal"
+      ],
+      "date_ref": "2005",
+      "conflicts_with": [],
+      "added_version": "v4.65",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1247",
+      "claim": "Hedley S. Dimock's full name was Hedley Seldon Dimock (not Sidgwick or Sidgmore as sometimes conjectured). His obituary appeared in the Oakland Tribune, October 5, 1958.",
+      "sources": [
+        "src_newspapers_dimock_obit"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "Hedley S. Dimock"
+      ],
+      "date_ref": "1958-10-05",
+      "conflicts_with": [],
+      "added_version": "v4.65",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1248",
+      "claim": "Hedley G. Dimock's full name was Hedley Gardner Dimock. Born 1928. Per Open Library and Internet Archive author records. He published 'Group development' through Sir George Williams University (1966).",
+      "sources": [
+        "src_openlibrary_dimock"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "Hedley G. Dimock"
+      ],
+      "date_ref": "1928",
+      "conflicts_with": [],
+      "added_version": "v4.65",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1249",
+      "claim": "In 1961, Hedley G. Dimock held a dual role as Coordinator of Staff Development and Training for the Montreal YMCA, and Lecturer in Group Development at Sir George Williams University.",
+      "sources": [
+        "src_joc_dimock_1961"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "Hedley G. Dimock",
+        "YMCA Montreal",
+        "Sir George Williams University"
+      ],
+      "date_ref": "1961",
+      "conflicts_with": [],
+      "added_version": "v4.65",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1250",
+      "claim": "Camp Oolahwan closure details: a 2007 blog post ('Blue Skies Today') states the camp 'closed in 2004, a victim of rising costs and changing times.' The YWCA website says 1917-2005. The discrepancy likely reflects last camp season (summer 2004) vs property disposal date (2005).",
+      "sources": [
+        "src_blue_skies_oolahwan"
+      ],
+      "confidence": "inferred",
+      "category": "context",
+      "entities": [
+        "Camp Oolahwan"
+      ],
+      "date_ref": "2004-2005",
+      "conflicts_with": [],
+      "added_version": "v4.66",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1251",
+      "claim": "Camp Oolahwan property was 345 acres with a private lake, sold for $1.47 million to developers who subdivided it into building lots.",
+      "sources": [
+        "src_blue_skies_oolahwan"
+      ],
+      "confidence": "stated",
+      "category": "context",
+      "entities": [
+        "Camp Oolahwan"
+      ],
+      "date_ref": "2005",
+      "conflicts_with": [],
+      "added_version": "v4.66",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1252",
+      "claim": "Camp Oolahwan was located approximately 100 km north of Montreal. Geographic coordinates: 46.0501°N, 74.0659°W, elevation 369m (GeoNames feature ID 5914501).",
+      "sources": [
+        "src_blue_skies_oolahwan",
+        "src_geonames_oolahwan"
+      ],
+      "confidence": "stated",
+      "category": "geography",
+      "entities": [
+        "Camp Oolahwan"
+      ],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "v4.66",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1253",
+      "claim": "The YWCA Montreal 150-year timeline (2025) states Camp Oolahwan opened in 1915, while the camp's dedicated YWCA page and the 2017 centennial consistently use 1917. Mary Edgar served as Director of Camp Oolahwan from 1915 to 1919. The camp may have had a precursor or trial season in 1915 before formal establishment on Lake Walfred in 1917.",
+      "sources": [
+        "src_ywca_150_timeline"
+      ],
+      "confidence": "disputed",
+      "category": "context",
+      "entities": [
+        "Camp Oolahwan",
+        "Mary Susanna Edgar"
+      ],
+      "date_ref": "1915-1917",
+      "conflicts_with": [],
+      "added_version": "v4.66",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1254",
+      "claim": "The Summer Space Day Camp (successor to Camp Oolahwan) served girls ages 10 to 13, with programming including dance, circus, theatre, music, yoga, and kickboxing. Workshops focused on countering violence and early sexualization. The program was discontinued circa June 2020.",
+      "sources": [
+        "src_montreal_families_oolahwan"
+      ],
+      "confidence": "stated",
+      "category": "programs",
+      "entities": [
+        "Camp Oolahwan",
+        "YWCA Montreal",
+        "Summer Space"
+      ],
+      "date_ref": "2005-2020",
+      "conflicts_with": [],
+      "added_version": "v4.66",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1255",
+      "claim": "CBC Radio 'All in a Weekend' Montreal aired an 11-minute 46-second audio segment about the Camp Oolahwan centennial anniversary (2017).",
+      "sources": [
+        "src_cbc_oolahwan_centennial"
+      ],
+      "confidence": "stated",
+      "category": "context",
+      "entities": [
+        "Camp Oolahwan",
+        "CBC"
+      ],
+      "date_ref": "2017",
+      "conflicts_with": [],
+      "added_version": "v4.66",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1256",
+      "claim": "Commemorative poster titled 'Kanawana: 100 years of spirit and leadership' was produced in 1994 for the camp's centennial. Held in Concordia Archives P0145/12B04 (Communications sub-sub-series).",
+      "sources": [
+        "src_concordia_12B04"
+      ],
+      "confidence": "stated",
+      "category": "chronology",
+      "entities": [
+        "Camp Kanawana"
+      ],
+      "date_ref": "1994",
+      "conflicts_with": [],
+      "added_version": "v4.66",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1257",
+      "claim": "A Kanawana alumni newsletter called 'The Look Out' was published in 1994, Vol. 1, No. 3, likely launched for the centennial. Held in Concordia Archives P0145/12B04.",
+      "sources": [
+        "src_concordia_12B04"
+      ],
+      "confidence": "inferred",
+      "category": "documents",
+      "entities": [
+        "Camp Kanawana",
+        "The Look Out"
+      ],
+      "date_ref": "1994",
+      "conflicts_with": [],
+      "added_version": "v4.66",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1258",
+      "claim": "The 1993 documentary 'Kamp Kanawana: The Experience that Lasts a Lifetime' was produced by Laurentien Productions for the Montreal YMCA, directed by Cathy Reeves. 9 minutes, colour VHS (1996 release). Features the song 'On My Way to Kanawana' by Richard 'Itch' Kerr. An access copy exists on YouTube (ID: _bznoSFg3MU).",
+      "sources": [
+        "src_concordia_reeves_film",
+        "src_youtube_kanawana_film"
+      ],
+      "confidence": "stated",
+      "category": "documents",
+      "entities": [
+        "Camp Kanawana",
+        "Cathy Reeves",
+        "Richard Kerr"
+      ],
+      "date_ref": "1993",
+      "conflicts_with": [],
+      "added_version": "v4.66",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1259",
+      "claim": "Camp Kanawana anniversary pattern: 95th reunion April 7, 1989 (with '95 years of sharing' promotional materials); centennial 1994 (commemorative poster produced); 120th reunion September 5, 2014 at Victoria Hall, Montreal; 125th anniversary summer 2019 'Family, Alumni, and Friends Weekend' at camp.",
+      "sources": [
+        "src_concordia_12B04",
+        "src_ymca_website"
+      ],
+      "confidence": "stated",
+      "category": "chronology",
+      "entities": [
+        "Camp Kanawana"
+      ],
+      "date_ref": "1989-2019",
+      "conflicts_with": [],
+      "added_version": "v4.66",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1260",
+      "claim": "A silent 1960s film of Camp Kanawana exists on YouTube (ID: ZrUuQ1SU7q8), titled 'YMCA: Kamp Kanawana (no sound).'",
+      "sources": [
+        "src_youtube_kanawana_silent"
+      ],
+      "confidence": "stated",
+      "category": "documents",
+      "entities": [
+        "Camp Kanawana"
+      ],
+      "date_ref": "1960s",
+      "conflicts_with": [],
+      "added_version": "v4.66",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1261",
+      "claim": "The original 1917 Camp Oolahwan building is still standing and is used as the sugar shack for Érablière Ste-Marguerite. Louis Pratt and Louis Nault invested over $1.5 million in maple syrup equipment. The syrup production project opened mid-February 2019, operating seasonally Feb 15 through end of April.",
+      "sources": [
+        "src_journal_acces_erabliere"
+      ],
+      "confidence": "stated",
+      "category": "context",
+      "entities": [
+        "Camp Oolahwan",
+        "Érablière Ste-Marguerite"
+      ],
+      "date_ref": "2019",
+      "conflicts_with": [],
+      "added_version": "v4.66",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1262",
+      "claim": "The YMCA of Montreal had a formal 'Centennial/Expo Project Committee' that produced a 'Summary Historical Statement / resume historique' in 1966. This document is held in Concordia Archives sub-series P0145/1B.",
+      "sources": [
+        "src_concordia_1B"
+      ],
+      "confidence": "stated",
+      "category": "chronology",
+      "entities": [
+        "YMCA Montreal",
+        "Expo 67"
+      ],
+      "date_ref": "1966",
+      "conflicts_with": [],
+      "added_version": "v4.66",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1263",
+      "claim": "A Young Adult Centennial Conference was held at Camp Otoreke, July 8-15, 1967. Records are in Concordia Archives P0145/14D10.",
+      "sources": [
+        "src_concordia_14D10"
+      ],
+      "confidence": "stated",
+      "category": "chronology",
+      "entities": [
+        "Camp Otoreke",
+        "YMCA Montreal"
+      ],
+      "date_ref": "1967-07-08",
+      "conflicts_with": [],
+      "added_version": "v4.66",
       "added_by": "ralph_loop"
     }
   ]

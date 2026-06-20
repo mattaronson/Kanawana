@@ -3024,16 +3024,22 @@
       "article_id": "camp-oolahwan",
       "title": "Camp Oolahwan",
       "wiki_folder": "context",
-      "status": "stub",
+      "status": "draft",
       "status_history": [
         {
           "status": "stub",
           "at": "2026-03-15T17:00:00Z",
           "by": "auto",
           "task": "RESEARCH"
+        },
+        {
+          "status": "draft",
+          "at": "2026-06-13T00:00:00Z",
+          "by": "auto",
+          "task": "RESEARCH"
         }
       ],
-      "ralph_loops_completed": 1,
+      "ralph_loops_completed": 2,
       "kb_facts_used": [
         "f_0220",
         "f_0413",
@@ -3046,7 +3052,25 @@
         "f_0895",
         "f_0896",
         "f_0900",
-        "f_0913"
+        "f_0913",
+        "f_1246",
+        "f_1247",
+        "f_1248",
+        "f_1249",
+        "f_1250",
+        "f_1251",
+        "f_1252",
+        "f_1253",
+        "f_1254",
+        "f_1255",
+        "f_1256",
+        "f_1257",
+        "f_1258",
+        "f_1259",
+        "f_1260",
+        "f_1261",
+        "f_1262",
+        "f_1263"
       ],
       "sources_cited": [
         "src_ywca_oolahwan_page",
@@ -3054,9 +3078,18 @@
         "src_qctonline_oolahwan",
         "src_westislandblog_oolahwan",
         "src_ourontario_mary_edgar",
-        "src_mcmorris_thesis"
+        "src_mcmorris_thesis",
+        "src_wikipedia_edgar",
+        "src_camp_oconto",
+        "src_journal_acces_erabliere",
+        "src_assoc_lac_walfred",
+        "src_blue_skies_oolahwan",
+        "src_ywca_150_timeline",
+        "src_geonames_oolahwan",
+        "src_montreal_families_oolahwan",
+        "src_cbc_oolahwan_centennial"
       ],
-      "open_questions": 7,
+      "open_questions": 8,
       "cross_links": [
         "camp-ouareau",
         "canadian-camping-movement",
@@ -3065,7 +3098,7 @@
         "coeducation-gender"
       ],
       "file_id": null,
-      "word_count": 550
+      "word_count": 1355
     },
     {
       "article_id": "dave-twynam",
@@ -3701,13 +3734,52 @@
       "article_id": "page-family",
       "title": "The Pagé Family of Saint-Sauveur",
       "wiki_folder": "people",
-      "status": "draft",
+      "status": "E1-reviewed",
       "status_history": [
-        {"status": "stub", "at": "2026-06-13T03:00:00Z", "by": "auto", "task": "RESEARCH"},
-        {"status": "draft", "at": "2026-06-13T03:30:00Z", "by": "auto", "task": "WRITE"}
+        {
+          "status": "stub",
+          "at": "2026-06-13T03:00:00Z",
+          "by": "auto",
+          "task": "RESEARCH"
+        },
+        {
+          "status": "draft",
+          "at": "2026-06-13T03:30:00Z",
+          "by": "auto",
+          "task": "WRITE"
+        },
+        {
+          "status": "R3-verified",
+          "at": "2026-06-13T10:00:00Z",
+          "by": "auto",
+          "task": "VERIFY"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-06-13T10:05:00Z",
+          "by": "auto",
+          "task": "REVIEW"
+        }
       ],
       "ralph_loops_completed": 1,
-      "kb_facts_used": ["f_1226", "f_1227", "f_1228", "f_1229", "f_1230", "f_1231", "f_1232", "f_1233", "f_0843", "f_1206"],
+      "kb_facts_used": [
+        "f_1226",
+        "f_1227",
+        "f_1228",
+        "f_1229",
+        "f_1230",
+        "f_1231",
+        "f_1232",
+        "f_1233",
+        "f_0843",
+        "f_1206",
+        "f_0013",
+        "f_0014",
+        "f_0479",
+        "f_0686",
+        "f_0313",
+        "f_0476"
+      ],
       "sources_cited": [
         "src_vss_familles_pionnieres",
         "src_shgph_edouard_page",

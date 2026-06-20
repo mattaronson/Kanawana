@@ -1,7 +1,7 @@
 # Environmental Education and Stewardship at Kanawana
 
-*Status: E1-reviewed | Sources: 18*
-*Last Updated: 2026-03-24 (E1 REVIEW — all claims verified, cross-links checked, encyclopedic quality confirmed)*
+*Status: E1-reviewed | Sources: 19*
+*Last Updated: 2026-06-13 (C-Vert founding date added: 2005, 120 teens/summer)*
 
 ## Overview
 
@@ -31,7 +31,7 @@ Camp Kanawana hosts EMSB school groups for fall conservation education trips. St
 
 ### C-Vert Program
 
-YMCA Quebec runs the C-Vert environmental leadership program for ages 14–16, in which youth become "eco-citizens" through bike trips, weekend camping, environmental workshops, and a remunerated July internship creating a community environmental project.^5 The program explicitly addresses "nature deficit disorder" and aims to reconnect urban youth with nature.^5
+YMCA Quebec runs the C-Vert environmental leadership program for ages 14–16, launched in 2005 in the Mercier-Hochelaga-Maisonneuve neighbourhood.^5 ^19 Youth become "eco-citizens" through bike trips, weekend camping at Kanawana, environmental workshops, and a remunerated July internship creating a community environmental project.^5 The program engages 120 teens per summer across Quebec and explicitly addresses "nature deficit disorder," aiming to reconnect urban youth with nature.^5 ^19
 
 ### Nature-Deficit Framing
 
@@ -114,3 +114,4 @@ The Canadian Summer Camp Research Project (CSCRP, 2006–2011), conducted by the
 17. Médiaterre, "Le camp Y Kanawana poursuit sa revitalisation et son virage vert," March 3, 2009. URL: https://www.mediaterre.org/canada-quebec/actu,20090303110253.html (retrieved via search excerpts, June 2026; direct fetch blocked).
 17. 1922 Kanawana brochure (Concordia Archives P0145): Woodcraft League of America chartered tribe, badge system.
 18. Oral history, Matt Aronson (2026): Grand Portage cabin demolished ~2006 for Clivus Multrum washroom buildings.
+19. Port of Montreal, "C-Vert — A green program that changes lives." URL: https://www.port-montreal.com/en/the-port-of-montreal/news/news/logbook/neighbours-c-vert
