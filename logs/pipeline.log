@@ -1713,3 +1713,15 @@ HYPOTHESIZE — Remaining productive research requires:
   - No unsourced speculation
   - Open questions actionable with archival leads
   - Advanced R3-verified → E1-reviewed
+
+2026-06-20T07:00:00Z | WRITE+VERIFY+REVIEW | kanawana-in-media article created
+  - New 1000-word article wiki/documents/kanawana-in-media.md
+  - Absorbed 10 orphan facts: f_0749, f_0746, f_0747, f_0820, f_1258, f_1273, f_1274, f_1282, f_1298, f_1305
+  - Covers: 1960s silent film, 1993 documentary, Jane le renard et moi graphic novel, CFCF radio broadcasts, Postmedia 2026, Stuart McLean
+  - All claims verified against KB facts, advanced directly to E1-reviewed
+
+2026-06-20T07:30:00Z | CROSS-REF | Orphan fact integration batch
+  - programs-activities: added f_1280 (EMSB school visits), added EMSB source, updated word count
+  - coeducation-gender: tracked f_1286 (Mountaineer program, already in article text)
+  - notable-alumni: tracked f_1264-f_1266 (Chris Adam), f_1269-f_1272 (Harold Potter) — already in article text
+  - quebec-camp-landscape: added f_1288 (Camp B'nai Brith 1921), new section and source ^20

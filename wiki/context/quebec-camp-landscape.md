@@ -1,6 +1,6 @@
 # The Quebec Camping Landscape
 
-*Status: E1-reviewed | Sources: 19*
+*Status: E1-reviewed | Sources: 20*
 *Last Updated: 2026-06-20*
 
 ## Overview
@@ -34,6 +34,10 @@ In 2024, the camp's main lodge burned down. In 2025, Scouts Canada sold the 1,00
 ### Pripstein's Camp Mishmar (1941–2014)
 
 Pripstein's Camp Mishmar was a co-educational summer camp in Saint-Adolphe-d'Howard — the same municipality that hosted Kanawana's predecessor, Camp Jubilee.^7 Founded by Chaim Pripstein (also known as Charles Pripstein), a Polish-born Hebrew teacher at United Talmud Torahs who had fled Poland before the Second World War, the camp occupied land acquired from a local farmer near Saint-Jérôme in 1941. At its peak in the 1960s, Camp Mishmar had 240 campers per summer. It closed in 2014 due to declining enrolment.^7
+
+### Camp B'nai Brith (1921)
+
+Camp B'nai Brith of Montreal was established in 1921 by the Mount Royal Lodge of B'nai Brith Canada.^20 Its first campsite was on a farm 64 kilometres from Montreal; the camp moved to its current location in 1929. Counsellors were McGill University student volunteers. From 1942, it became a constituent agency of the Combined Jewish Appeal.^20 Camp B'nai Brith is one of several Jewish camps in the Laurentians that served Montreal's Jewish community alongside the YMCA/YWCA Protestant tradition.
 
 ### Camp Massad Montreal (1947)
 
@@ -108,6 +112,7 @@ Several patterns emerge from the Quebec and Canadian camp landscape:
 17. Trent University Archives, OCA fonds 78-006: Agency Liaison series.
 18. ACA Find a Camp, YMCA Hayo-Went-Ha Camps program listings.
 19. McMorris, Grace (2023). "An Experience That Lasts a Lifetime." MA thesis, Concordia University. Chapter on inter-camp visits.
+20. Wikipedia, "Camp B'nai Brith." URL: https://en.wikipedia.org/wiki/Camp_B%27nai_Brith
 
 ### R3 Verification Notes
 

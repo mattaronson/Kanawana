@@ -487,7 +487,8 @@
         "f_0470",
         "f_0588",
         "f_0688",
-        "f_0700"
+        "f_0700",
+        "f_1286"
       ],
       "sources_cited": [
         "src_mcmorris_thesis",
@@ -669,7 +670,8 @@
         "f_1035",
         "f_1036",
         "f_1037",
-        "f_1038"
+        "f_1038",
+        "f_1280"
       ],
       "sources_cited": [
         "src_brochure_1922",
@@ -682,7 +684,8 @@
         "src_gas_bag_1923",
         "src_cfcf_1941",
         "src_brochure_1921",
-        "src_postmedia_nature_deficit_2026"
+        "src_postmedia_nature_deficit_2026",
+        "src_websearch_emsb_kanawana"
       ],
       "open_questions": 8,
       "cross_links": [
@@ -3629,7 +3632,14 @@
         "f_1139",
         "f_1140",
         "f_1141",
-        "f_1142"
+        "f_1142",
+        "f_1264",
+        "f_1265",
+        "f_1266",
+        "f_1269",
+        "f_1270",
+        "f_1271",
+        "f_1272"
       ],
       "sources_cited": [
         "src_ymca_quebec_pip_skinner",
@@ -3909,7 +3919,8 @@
         "f_0220",
         "f_0800",
         "f_0804",
-        "f_0810"
+        "f_0810",
+        "f_1288"
       ],
       "sources_cited": [
         "src_qahn_ymca_camp",
@@ -3927,6 +3938,7 @@
         "src_wikipedia_wanakita",
         "src_glen_herbert_wanakita",
         "src_aca_hayowentha_programs",
+        "src_wikipedia_camp_bnai_brith",
         "src_mcmorris_thesis",
         "src_ouareau_history",
         "src_ouareau_wikipedia",
@@ -3945,6 +3957,66 @@
       ],
       "file_id": null,
       "word_count": 1850
+    },
+    {
+      "article_id": "kanawana-in-media",
+      "title": "Kanawana in Media and Culture",
+      "wiki_folder": "documents",
+      "status": "E1-reviewed",
+      "status_history": [
+        {
+          "status": "draft",
+          "at": "2026-06-20T07:00:00Z",
+          "by": "auto",
+          "task": "WRITE"
+        },
+        {
+          "status": "R3-verified",
+          "at": "2026-06-20T07:15:00Z",
+          "by": "auto",
+          "task": "VERIFY"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-06-20T07:20:00Z",
+          "by": "auto",
+          "task": "REVIEW"
+        }
+      ],
+      "ralph_loops_completed": 1,
+      "kb_facts_used": [
+        "f_0749",
+        "f_0746",
+        "f_0747",
+        "f_0820",
+        "f_1258",
+        "f_1273",
+        "f_1274",
+        "f_1282",
+        "f_1298",
+        "f_1305"
+      ],
+      "sources_cited": [
+        "src_concordia_p0145_12a_finding_aid",
+        "src_concordia_kanawana_documentary",
+        "src_concordia_reeves_film",
+        "src_goodreads_jane_fox_me",
+        "src_ia_cfcf_1939",
+        "src_ia_cfcf_1941",
+        "src_postmedia_nature_deficit_2026",
+        "src_samaritanmag_mclean",
+        "src_cbc_mclean_fund",
+        "src_samaritanmag_mclean"
+      ],
+      "open_questions": 4,
+      "cross_links": [
+        "stuart-mclean",
+        "notable-alumni",
+        "wartime-kanawana",
+        "sources-index"
+      ],
+      "file_id": null,
+      "word_count": 1000
     }
   ]
 }
