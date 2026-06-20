@@ -1809,3 +1809,10 @@ HYPOTHESIZE — Remaining productive research requires:
   - Updated 46 of 47 word counts in articles.json
   - Largest discrepancies: directors-index (2400→4010), myths-and-legends (2811→3915), voyageur-canoe-pageant (550→1542)
   - 6 articles had recorded counts higher than actual (likely from earlier edits)
+
+2026-06-20T17:30:00Z | MAINTENANCE | Orphan fact tracking audit
+  - Identified 203 orphan facts (in KB but not tracked by any article)
+  - Most were tracking gaps, not content gaps — article text already contained the information
+  - Batch-added 130 fact IDs across 26 articles to articles.json kb_facts_used arrays
+  - Remaining ~73 orphans: archival holdings (not article-worthy), duplicate coverage, or sub-threshold entities
+  - No significant content gaps found — all major facts are reflected in article text
