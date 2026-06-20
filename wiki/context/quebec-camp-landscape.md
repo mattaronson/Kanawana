@@ -75,11 +75,11 @@ The Ontario Camping Association fonds at Trent University lists Kanawana among "
 
 Several patterns emerge from the Quebec and Canadian camp landscape:
 
-**Institutional overlap.** The YMCA and YWCA of Montreal shared personnel across multiple camps. Jamieson and Halliday moved between the YWCA, Camp Oolahwan, Camp Ouareau, and the broader YMCA network. Staff like A. Ross Seaman built careers spanning Kanawana, the YMCA, and academic institutions.
+**Institutional overlap.** The YMCA and YWCA of Montreal shared personnel across multiple camps. Jamieson and Halliday moved between the YWCA, Camp Oolahwan, Camp Ouareau, and the broader YMCA network. Staff like [[people/a-ross-seaman|A. Ross Seaman]] built careers spanning Kanawana, the YMCA, and academic institutions.
 
 **The Laurentian geography.** The concentration of camps in the Laurentians — Kanawana at Lac Kanawana, Otoreke at Lake Saint-Joseph, Tamaracouta at Mille-Isles, Pripstein at Saint-Adolphe-d'Howard, Weredale at Lac l'Achigan, Oolahwan at Lake Walfred — reflects the region's accessibility from Montreal by rail and later by road, and its abundance of suitable lake-and-forest terrain.
 
-**Parallel traditions.** The Lumbermen-versus-Voyageurs team division appears at Pine Crest (since 1940), Kanawana (since 1947), and Hayo-Went-Ha in Michigan (as "Woodsmen vs Voyageurs"), suggesting a shared YMCA programming tradition rather than a single point of origin.^18
+**Parallel traditions.** The [[programs/lv-games|Lumbermen-versus-Voyageurs]] team division appears at Pine Crest (since 1940), Kanawana (since 1947), and Hayo-Went-Ha in Michigan (as "Woodsmen vs Voyageurs"), suggesting a shared YMCA programming tradition rather than a single point of origin.^18
 
 **Religious and cultural diversity.** The Quebec camp landscape encompasses Protestant (YMCA/YWCA), Catholic (Sainte-Jeanne-d'Arc), Jewish (Massad, Pripstein), and secular traditions, each serving distinct communities but occupying the same regional geography.
 

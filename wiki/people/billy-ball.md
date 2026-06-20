@@ -24,7 +24,7 @@ The relationship between Cushing's 1892 exploratory trip, the 1893 site survey, 
 
 Ball's Camp Jubilee operated on island(s) in Lake Saint-Joseph.^3 The initial enrollment was 20 campers.^2
 
-In 1909, Camp Jubilee was renamed **Camp Otoreke** (Iroquoian for "north").^3 Around this same period, the YMCA acquired a larger site in Saint-Sauveur-des-Monts from the Page family, establishing **Kamp Kanawana** as the main boys' camp. Camp Otoreke continued operating on the original Lake Saint-Joseph islands, transitioning to serve diverse populations: men 18+, women and men, married couples, and low-income families. Otoreke closed in 1982 after nearly a century of operation.^3
+In 1909, Camp Jubilee was renamed **[[places/camp-otoreke|Camp Otoreke]]** (Iroquoian for "north").^3 Around this same period, the YMCA acquired a larger site in Saint-Sauveur-des-Monts from the Page family, establishing **Kamp Kanawana** as the main boys' camp. Camp Otoreke continued operating on the original Lake Saint-Joseph islands, transitioning to serve diverse populations: men 18+, women and men, married couples, and low-income families. Otoreke closed in 1982 after nearly a century of operation.^3
 
 ## The William Henry Ball Question
 

@@ -24,7 +24,7 @@ The Drummond Street address (1435 Drummond Street) served as the organizational 
 
 ## Sir George Williams University
 
-In 1926, the YMCA of Montreal organized Sir George Williams College as its educational arm, named after YMCA founder George Williams.^3 The college received a university charter in 1948, becoming Sir George Williams University (SGWU).^3 Stuart McLean, who would become one of Kanawana's most prominent alumni, graduated from SGWU with a BA in Applied Social Science in 1971.
+In 1926, the YMCA of Montreal organized Sir George Williams College as its educational arm, named after YMCA founder George Williams.^3 The college received a university charter in 1948, becoming Sir George Williams University (SGWU).^3 [[people/stuart-mclean|Stuart McLean]], who would become one of Kanawana's most prominent alumni, graduated from SGWU with a BA in Applied Social Science in 1971.
 
 On August 24, 1974, SGWU merged with Loyola College to form Concordia University.^3 The Concordia University Archives (YMCA of Montreal fonds, P0145) now hold the most significant collection of Camp Kanawana historical records.
 

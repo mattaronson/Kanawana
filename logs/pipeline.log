@@ -1852,3 +1852,13 @@ HYPOTHESIZE — Remaining productive research requires:
   - Added Related Articles section (stuart-mclean, centennial-1967, voyageur-canoe-pageant, founding-1894, terry-mosher)
   - Word count 799 → 933
   - Also: inline links added in canadian-camping-movement (Budge, Ball, Cushing) and places-and-locations (Camp Weredale)
+
+2026-06-20T14:30:00Z | MAINTENANCE | Cross-link audit — batch 2 (inline wiki links)
+  - founding-1894: Added [[]] links for Lemuel Cushing, Billy Ball, Ralph H. Dawson, Page family, Council Ring (5 links)
+  - stuart-mclean: Added [[]] link for Sean Day (1 link)
+  - billy-ball: Added [[]] link for Camp Otoreke (1 link)
+  - quebec-camp-landscape: Added [[]] links for A. Ross Seaman, Lumbermen-versus-Voyageurs (2 links)
+  - ymca-quebec-history: Added [[]] link for Stuart McLean (1 link)
+  - Total: 10 new inline wiki links across 5 articles
+  - Audit scope: all 47 articles checked via 4 parallel subagent audits
+  - Result: camp-weredale, harold-cross, ralph-dawson, terry-mosher, a-ross-seaman already fully linked

@@ -43,7 +43,7 @@ McLean was a professor of journalism at Ryerson Polytechnic Institute from 1984 
 
 ## The 2005 Return Visit
 
-In 2005, McLean returned to Camp Kanawana for a week and hosted one of his *Vinyl Cafe* shows at the camp. Sean Day, then Regional Director of Camps, was present for the visit.^1 ^4
+In 2005, McLean returned to Camp Kanawana for a week and hosted one of his *Vinyl Cafe* shows at the camp. [[people/sean-day|Sean Day]], then Regional Director of Camps, was present for the visit.^1 ^4
 
 ## The Stuart McLean Fund
 
