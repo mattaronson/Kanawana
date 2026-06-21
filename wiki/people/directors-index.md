@@ -60,7 +60,7 @@ The 1921, 1922, and 1923 camp brochures and the 1923 *Gas Bag* reunion newslette
 
 ### The Mid-1930s (1935-1938)
 
-**1935 season.** The season chronicle names Camp Chief Greig Macdiarmid, Senior Director Howie Langille, Junior Director Ernie Taylor, Juvenile Director Lorne Hamilton, and camp doctors Dr. Weavers (later replaced by Dr. Eardley).^8 There were 35 counsellors on staff.^8
+**1935 season.** The season chronicle names Camp Chief Greig Macdiarmid, Senior Director Howie Langille, Junior Director Ernie Taylor, Juvenile Director Lorne Hamilton, and camp doctors Dr. Weavers (later replaced by Dr. Eardley).^8 There were 35 counsellors on staff.^8 A "Mr. Buckley" was also associated with Kanawana during this period: the *Westmount Examiner* of March 29, 1935, described him as having "many years experience in camping, both at Kanawana and at other camps in Canada and the United States."^17 His specific role and exact dates of service are not documented; the characterization suggests he may have been a director or senior staff member, but this remains unconfirmed.
 
 **1938 season.** The *Green Triangle* newsletter of July 29, 1938 confirms Chief Macdiarmid still in charge, extending his documented tenure to at least four seasons (1935-1938).^9 Staff included Doc Cooper (Camp Doctor, shared between Kanawana and the Junior League camp), Dox Wims (tent leader), "Mr. Brute" (section director, Mount Ritz), Benny Lashley (choir organizer), Morrey Cross (Tent 3 Juvenile), Shrivell (telegraph/radio operator), Clark Merritt, Brock Brace (Junior section), and a staff member named Smith.^9
 
@@ -77,6 +77,8 @@ Miss M. Rayner served as camp nurse and filled a "camp mother" role — one of t
 **Camp historians.** R.L. Charlton authored "Notes re Early Days of YMCA Camps at Lake St. Joseph and Kanawana" in 1943. Charlton was a Montreal independent marine surveyor, Treasurer of the Canadian Board of Marine Underwriters, and an "ardent YMCA worker" who went to France with the YMCA during WWI to serve Canadian troops.^13 W.E. Cushing wrote "Historical sketches — Lake St. Joseph" in the same year. Both manuscripts are held in Concordia Archives sub-series 12A.^2
 
 **Staff development.** Hedley G. Dimock, Coordinator of Staff Development and Training for the Montreal YMCA and lecturer at Sir George Williams University, conducted research at Kamp Kanawana on camp counsellor effectiveness in 1960-1961.^2 In 1963, Dimock became the first Chairman of the Department of Applied Social Science and Director of the Centre for Human Relations and Community Studies at Sir George Williams University.^14 He collaborated extensively with Dr. Raye Kass on group development publications at Concordia University from 1972 onward.^14
+
+**Ross Bannerman.** Before authoring his 1969 report on Kamp Kanawana, Ross Bannerman had a long career in YMCA camping. In 1951, Nelson McEwen — by then serving as National Council Boys' Work Secretary — recruited Bannerman to direct Camp Pascobac. Bannerman went on to direct Camp Stephens in Winnipeg in 1956.^2 His YMCA International Branch file (c. 1968-1970) and his "Report on Kamp Kanawana" (1969) are both held at Concordia Archives (sub-series 12B01).^2 Bannerman later became CEO of the Montreal YMCA in the late 1970s, placing him in a senior organizational role overseeing Kanawana during the same period as Richard Patten's tenure as Executive Director (1976-1979).^2
 
 ### The 1980 Season
 
@@ -166,6 +168,7 @@ The following periods have no confirmed camp director:
 14. Concordia University Archives, YMCA of Montreal Fonds P145/12B05 (Staff); Hedley G. Dimock publications.
 15. Concordia University, "A. Ross Seaman Memorial Fund" (est. 1987). URL: https://www.concordia.ca/artsci/applied-human-sciences/about/funding.html
 16. Richard Andrew Patten obituary, HP McGarry Funeral Home, 2021; Wikipedia article on Richard Patten; Westmount Magazine, "A fond farewell to Stuart McLean" (March 2017), comments section.
+17. *The Westmount Examiner*, March 29, 1935. BAnQ numérique.
 HOF. Camp Administrator Hall of Fame, campadmin.org — Audrey Dowse inductee (nominated 2022), Camp YMCA Kanawana/YMCA Day Camps.
 
 ## Research Notes

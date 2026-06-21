@@ -2,12 +2,12 @@
 
 <!-- status: E1-reviewed -->
 <!-- confidence: high -->
-<!-- last_updated: 2026-02-19 -->
+<!-- last_updated: 2026-06-21 -->
 <!-- last_editor: v52 -->
 
 ## Summary
 
-This article catalogs all sources consulted for the Kanawana Wiki Builder project. As of March 2026, the knowledge base draws on 126 source records spanning primary camp publications (1921–1980), archival finding aids, academic research, biographical references, and web sources. The collection is anchored by Grace McMorris's 2023 Concordia MA thesis, Internet Archive primary documents (including a newly mapped ymca-montreal-fonds collection of 25+ items), and Concordia University's YMCA of Montreal Fonds P145.
+This article catalogs all sources consulted for the Kanawana Wiki Builder project. As of March 2026, the knowledge base draws on 138 source records spanning primary camp publications (1921–1980), archival finding aids, academic research, biographical references, and web sources. The collection is anchored by Grace McMorris's 2023 Concordia MA thesis, Internet Archive primary documents (including a newly mapped ymca-montreal-fonds collection of 25+ items), and Concordia University's YMCA of Montreal Fonds P145.
 
 ## Primary Sources (31)
 
@@ -34,6 +34,7 @@ Concordia University's Records Management uploaded 25+ digitized items to Intern
 | *Historical Sketch of the YMCA of the City of Montreal* (Jubilee) | 1901 | Covers 1851–1901, overlaps Camp Jubilee founding. HIGH PRIORITY. |
 | YMCA Annual Report 1889–1890 | 1890 | Pre-camp-founding. |
 | YMCA Annual Report 1891–1892 | 1892 | Immediately pre-founding. May document Cushing's 1892 trip. HIGH PRIORITY. NOTE: IA identifier uses '1991-1992' (metadata typo). |
+| YMCA Annual Report 1966–67 | 1967 | IA identifier: sgw-ymca-annual-report-1966-67. Only known digitized annual report from the 1940s–1960s, filling a significant gap between the 1891–1892 and 1993 reports. HIGH PRIORITY. |
 | SGW College Bulletin, September 1932 | 1932 | May contain YMCA/camp references. |
 | YMCA News Release: Largest Sum (1965) | 1965-04-27 | Fundraising campaign. |
 | YMCA News Release: Back in Pointe Saint-Charles (1980) | 1980-03-17 | Institutional context. |
@@ -52,7 +53,7 @@ Concordia University's Records Management uploaded 25+ digitized items to Intern
 | P145 (main) | YMCA of Montreal Fonds | Box HA1874. 14 camping sub-series (12A–12N). |
 | 1B | History | Harold Cross manuscript, correspondence 1939–1957, Murray Ross correspondence, chapter drafts. |
 | 12A | Committees | Permanent Camp Committee minutes (1895-96!), 1895 St. Agathe scouting journal, Charlton/Dawson/Cushing histories (1933/1943), Boys Camps comparisons (1945-46, 1953-54), Outdoor Education report (1974). |
-| 12B | Kamp Kanawana | 12B01 (admin), 12B02 (finance), 12B03 (land/facilities), 12B04 (communications), 12B05 (staff), 12B06 (campers), 12B07 (program). |
+| 12B | Kamp Kanawana | 12B01 (admin: season reports, committee minutes, camp director correspondence, Dave Twynam correspondence), 12B02 (finance), 12B03 (land/facilities), 12B04 (communications: brochures from 1950, 1959, 1960s, 1964, 1965), 12B05 (staff), 12B06 (campers), 12B07 (program). |
 | 12C | Camp Otoreke | Parallel sub-series to 12B for Camp Otoreke records. |
 | 12D | Camp Becsies | Textual records 1929–1936, 1960–1971. Previously unknown YMCA camp. |
 | 12E | Camp Dorval | Textual records 1926–1928. Short-lived YMCA camp. |
@@ -65,7 +66,7 @@ Concordia University's Records Management uploaded 25+ digitized items to Intern
 | 12L | Lac St-Joseph / Camp Jubilee | 1893 camper lists, John Roy 1901 letters, 1898 photo. |
 | 12M | Day camp | Day camp records. |
 | 12N | Camping associations | Camping association correspondence and records. |
-| 14D | National Council | Harold Cross Boys' Work file 1940–1945. Nelson McEwen correspondence 1941–1945. |
+| 14D | National Council | Harold Cross Boys' Work file 1940–1945. 14D03: YMCA Montreal annual reports. 14D10: Nelson McEwen correspondence 1941–1945. |
 
 ### Newspaper Sources (BAnQ / Newspapers.com)
 
@@ -112,7 +113,7 @@ Selected highlights from 37 secondary sources:
 - **Architecture**: CCA Ross & Macdonald fonds (Doctor's Cottage drawings)
 - **Environment**: CREL Laurentides Lac Kanawana data
 - **Heritage**: BaladoDecouverte Saint-Adolphe-d'Howard tour
-- **Camping movement**: University of Minnesota Kautz YMCA Archives (YMCA in Canada records)
+- **Camping movement**: University of Minnesota Kautz Family YMCA Archives (YMCA in Canada records, 1851–1989). Includes records from the Montreal YMCA era when Canadian national administrative headquarters were located in Montreal, prior to formation of the National Council of YMCAs of Canada in 1912
 
 ## Tertiary Sources (12)
 
@@ -128,7 +129,7 @@ John Wilson McConnell, Lemuel Cushing Jr., Centennial Voyageur Canoe Pageant, Br
 | Secondary (academic, organizational, biographical) | 56 |
 | Tertiary (Wikipedia) | 16 |
 | Catalog references | 16 |
-| **Total** | **126** |
+| **Total** | **138** |
 | Extracted (KB facts generated) | 98 |
 | Unextracted (awaiting download or access) | 28 |
 | With cached text on disk | 18 |
@@ -137,9 +138,9 @@ John Wilson McConnell, Lemuel Cushing Jr., Centennial Voyageur Canoe Pageant, Br
 
 | Metric | Count |
 |--------|-------|
-| Total facts | 623 |
+| Total facts | 1355 |
 | Fact categories | 40 |
-| KB version | v4.14 |
+| KB version | v4.74 |
 
 ## Related Articles
 

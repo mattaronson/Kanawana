@@ -64,3 +64,4 @@ Bruce Netherwood was Director of Camp Kanawana from 1988 to 1994, meaning the ce
 6. Oral history, Matt Aronson (2026).
 7. Concordia University Archives finding aid P0145/12B04; oral history.
 8. South Shore YMCA, Camp Burgess & Hayward staff listing; YMCA Quebec Pip Award press releases.
+9. *Le Devoir* (Montreal), issues of January 15, July 6, and October 24, 1994. Identified via BAnQ numérique search; full texts require in-person or card-holder access.

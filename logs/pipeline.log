@@ -1917,6 +1917,17 @@ HYPOTHESIZE — Remaining productive research requires:
   - p_057 remains BLOCKED, p_074 remains BLOCKED
   - 3 new priorities added: p_163 (IA Annual Report 1993), p_164 (Kautz Archives), p_165 (FamilySearch verification)
   - Updated research-log.md with Session 12 campaign details
+
+2026-06-21T16:00:00Z | INTEGRATION | BAnQ newspaper facts integrated into wiki articles
+  - Integrated 13 new facts (f_1327-f_1339) from BAnQ/IA research into 5 wiki articles
+  - programs-activities.md: +4 facts (f_1327 1937 first aid, f_1329 1962 citizenship, f_1330 1971 Noosphere, f_1334 1972 leader training). Word count 2297→2542. 4 new BAnQ sources added.
+  - the-kanawana-site.md: +2 facts (f_1331 1976 Lovell's listing, f_1333 2023 fire). Word count 2044→2179. 2 new sources added. MAJOR: 2023 superintendent's house fire documented.
+  - centennial-1994.md: +1 fact (f_1332 Le Devoir centennial coverage). Word count 622→823. 1 new source added. New Press Coverage section.
+  - directors-index.md: +2 facts (f_1328 Mr. Buckley 1935, f_1336 Ross Bannerman biography). Word count 4024→4221. 1 new BAnQ source added.
+  - sources-index.md: +3 facts (f_1335 1966-67 annual report, f_1337 12B01 holdings detail, f_1339 Kautz Archives). Word count 1551→1622. Statistics updated to 138 sources, 1355 facts, KB v4.74.
+  - All articles maintained E1-reviewed status — well-sourced additions with inline citations
+  - articles.json updated: kb_facts_used, sources_cited, word_count, notes for all 5 articles
+  - Remaining facts not directly integrated: f_1320-f_1326 (earlier BAnQ batch), f_1338 (Ben T. Hannah reminiscence — already referenced in directors-index research notes and rh-hanagan open questions)
   - No new KB facts added (no independently verifiable new information)
 
 2026-06-21T15:00:00Z | RALPH CYCLE COMPLETE | camp-perrot: A→L→P→H (stub→draft)

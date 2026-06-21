@@ -1746,6 +1746,54 @@ The claim that Jamieson was "secretary general of the YMCA of Montreal" still ca
 | New archival leads | 2 (U of Minnesota Kautz Archives, FamilySearch Mabel Grace Jamieson) |
 | New potential sources | 1 (YMCA Annual Report 1993 on IA) |
 | p_057 status | BLOCKED (unchanged) |
+
+---
+
+## Session 13: BAnQ Newspaper Fact Integration (2026-06-21)
+
+### Campaign: Integration of f_1327-f_1339 into wiki articles
+
+Following the BAnQ newspaper research breakthrough in Session 11 (Campaign 11, p_090), which discovered 38 newspaper issues across 8 newspapers and yielded 20 new facts (f_1320-f_1339), this session integrated the key findings into existing wiki articles.
+
+### Articles Updated
+
+**1. programs-activities.md** (4 facts)
+- f_1327: 1937 St-Jean Ambulance first aid course (Le Droit, June 25, 1937)
+- f_1329: 1962 YMCA citizenship training at Kanawana + SGW (Westmount Examiner, November 16, 1962)
+- f_1330: 1971 "Noosphere" international development simulation for 100 youth aged 16-19 (Le Soleil, July 7, 1971) — significant discovery: earliest documented external-use event at Kanawana
+- f_1334: 1972 three-day counselor leader training (Sherbrooke Record, July 21, 1972)
+
+**2. the-kanawana-site.md** (2 facts)
+- f_1331: 1976 Lovell's Directory listing at 1441 Drummond, Montreal (YMCA central branch address)
+- f_1333: May 16, 2023 superintendent's house destroyed by fire — MAJOR previously unknown event. Total loss, no casualties, 25 firefighters from 3 municipalities, cause undetermined.
+
+**3. centennial-1994.md** (1 fact)
+- f_1332: Le Devoir covered Kanawana centennial in 3 issues (Jan 15, Jul 6, Oct 24, 1994). First confirmed French-language press coverage. July 6 date may evidence a formal centennial celebration. Full texts require BAnQ card-holder access.
+
+**4. directors-index.md** (2 facts)
+- f_1328: "Mr. Buckley" with years of Kanawana experience (Westmount Examiner, March 29, 1935) — new person, role undocumented
+- f_1336: Ross Bannerman biography expanded — directed Camp Pascobac (1951, recruited by McEwen), Camp Stephens Winnipeg (1956), became CEO of Montreal YMCA (late 1970s)
+
+**5. sources-index.md** (3 facts)
+- f_1335: YMCA Montreal annual report 1966-67 on Internet Archive (identifier: sgw-ymca-annual-report-1966-67) — only digitized report from 1940s-1960s
+- f_1337: Concordia 12B01 holdings detail (season reports, committee minutes, director correspondence, Twynam correspondence; 12B04 brochures 1950-1965; 14D03 annual reports; 14D10 McEwen correspondence)
+- f_1339: University of Minnesota Kautz Archives holds YMCA in Canada records (1851-1989)
+
+### Facts Not Directly Integrated
+
+- f_1320-f_1326: Earlier BAnQ batch facts (already integrated or awaiting appropriate article context)
+- f_1338: Ben T. Hannah's "Kanawana Reminiscence (of 1948)" — already referenced in directors-index.md research notes and rh-hanagan.md open questions. Archival document requiring physical access.
+
+### Session 13 Summary
+
+| Metric | Value |
+|--------|-------|
+| Articles updated | 5 |
+| Facts integrated | 12 (f_1327-f_1337, f_1339) |
+| New sources added to articles | 8 (4 BAnQ newspapers, 1 Le Devoir, 1 Lovell's, 1 Journal Accès, 1 Westmount Examiner) |
+| Total word count change | +753 (2297→2542, 2044→2179, 622→823, 4024→4221, 1551→1622) |
+| articles.json entries updated | 5 (kb_facts_used, sources_cited, word_count, notes) |
+| Article status changes | 0 (all maintained E1-reviewed) |
 | p_074 status | BLOCKED (unchanged, one new lead) |
 
 ---

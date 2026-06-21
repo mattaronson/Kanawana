@@ -707,7 +707,11 @@
                         "f_1106",
                         "f_1111",
                         "f_0993",
-                        "f_1308"
+                        "f_1308",
+                        "f_1327",
+                        "f_1329",
+                        "f_1330",
+                        "f_1334"
                   ],
                   "sources_cited": [
                         "src_brochure_1922",
@@ -721,7 +725,11 @@
                         "src_cfcf_1941",
                         "src_brochure_1921",
                         "src_postmedia_nature_deficit_2026",
-                        "src_websearch_emsb_kanawana"
+                        "src_websearch_emsb_kanawana",
+                        "src_banq_le_droit_1937_06_25",
+                        "src_banq_westmount_examiner_1962_11_16",
+                        "src_banq_le_soleil_1971_07_07",
+                        "src_banq_sherbrooke_record_1972_07_21"
                   ],
                   "open_questions": 8,
                   "cross_links": [
@@ -735,8 +743,8 @@
                         "quebec-camp-landscape"
                   ],
                   "file_id": "1oqLoU6_bzWD_9jXwXQgYNm_EqLCEfNjR",
-                  "word_count": 2297,
-                  "notes": "E1 REVIEW (2026-02-19): All claims cited, dates consistent, names cross-checked, tone encyclopedic, cross-links valid, open questions actionable, no redundancy with sibling articles. Advanced R3-verified \u2192 E1-reviewed."
+                  "word_count": 2542,
+                  "notes": "E1 REVIEW (2026-02-19): All claims cited, dates consistent, names cross-checked, tone encyclopedic, cross-links valid, open questions actionable, no redundancy with sibling articles. Advanced R3-verified \u2192 E1-reviewed. 2026-06-21: Integrated 4 BAnQ newspaper facts (f_1327 1937 first aid, f_1329 1962 citizenship training, f_1330 1971 Noosphere, f_1334 1972 leader training)."
             },
             {
                   "article_id": "ralph-dawson",
@@ -1010,7 +1018,9 @@
                         "f_1089",
                         "f_1109",
                         "f_1153",
-                        "f_1154"
+                        "f_1154",
+                        "f_1328",
+                        "f_1336"
                   ],
                   "sources_cited": [
                         "src_mcmorris_thesis",
@@ -1032,7 +1042,8 @@
                         "src_green_triangle_1938",
                         "src_ka_news_1980",
                         "src_samaritanmag_mclean",
-                        "src_qahn_howard"
+                        "src_qahn_howard",
+                        "src_banq_westmount_examiner_1935_03_29"
                   ],
                   "open_questions": 7,
                   "cross_links": [
@@ -1051,8 +1062,8 @@
                         "hedley-dimock"
                   ],
                   "file_id": null,
-                  "word_count": 4024,
-                  "notes": "E1 REVIEW (2026-02-19): PASS \u2014 all 7 checklist items satisfied. No fixes needed. Advanced R3-verified \u2192 E1-reviewed."
+                  "word_count": 4221,
+                  "notes": "E1 REVIEW (2026-02-19): PASS \u2014 all 7 checklist items satisfied. No fixes needed. Advanced R3-verified \u2192 E1-reviewed. 2026-06-21: Integrated Mr. Buckley reference (f_1328, BAnQ 1935) and expanded Ross Bannerman biography (f_1336, Concordia 12B01)."
             },
             {
                   "article_id": "sources-index",
@@ -1158,7 +1169,10 @@
                         "f_1059",
                         "f_1086",
                         "f_1105",
-                        "f_1309"
+                        "f_1309",
+                        "f_1335",
+                        "f_1337",
+                        "f_1339"
                   ],
                   "sources_cited": [],
                   "open_questions": 7,
@@ -1172,8 +1186,8 @@
                         "stuart-mclean"
                   ],
                   "file_id": null,
-                  "word_count": 1551,
-                  "notes": "E1 REVIEW (2026-02-19): Fixed source counts (85 total, 74 extracted, 11 IA documents). Restructured with newspaper sources, Pip Award pages, biographical sources."
+                  "word_count": 1622,
+                  "notes": "E1 REVIEW (2026-02-19): Fixed source counts (85 total, 74 extracted, 11 IA documents). Restructured with newspaper sources, Pip Award pages, biographical sources. 2026-06-21: Added 1966-67 annual report (f_1335), expanded 12B01/14D holdings detail (f_1337), expanded Kautz YMCA Archives entry (f_1339). Updated statistics to 138 sources, 1355 facts, KB v4.74."
             },
             {
                   "article_id": "harold-cross",
@@ -1905,7 +1919,9 @@
                         "f_1040",
                         "f_1088",
                         "f_1099",
-                        "f_1090"
+                        "f_1090",
+                        "f_1331",
+                        "f_1333"
                   ],
                   "sources_cited": [
                         "src_ymca_website",
@@ -1922,7 +1938,9 @@
                         "src_mysummercamps_kanawana",
                         "src_postmedia_nature_deficit_2026",
                         "src_morin_heights_indigenous",
-                        "src_wikipedia_mille_isles"
+                        "src_wikipedia_mille_isles",
+                        "src_banq_lovell_1976",
+                        "src_journal_acces_fire_2023"
                   ],
                   "open_questions": 6,
                   "cross_links": [
@@ -1937,8 +1955,8 @@
                         "places-and-locations"
                   ],
                   "file_id": null,
-                  "word_count": 2044,
-                  "notes": "E1 REVIEW (2026-02-19): Added ^4 citation for 1921 brochure (railway route). Fixed 'gorgeous views' promotional language. Standardized 'Harold C. Cross'. Added camp-otoreke cross-link. Removed KB fact IDs from Sources section. All claims cited, tone neutral. 2026-06-20: Added Indigenous territory context (f_1315) and Mille-Isles regional history (f_1314)."
+                  "word_count": 2179,
+                  "notes": "E1 REVIEW (2026-02-19): Added ^4 citation for 1921 brochure (railway route). Fixed 'gorgeous views' promotional language. Standardized 'Harold C. Cross'. Added camp-otoreke cross-link. Removed KB fact IDs from Sources section. All claims cited, tone neutral. 2026-06-20: Added Indigenous territory context (f_1315) and Mille-Isles regional history (f_1314). 2026-06-21: Added 1976 Lovell's directory listing (f_1331) and 2023 superintendent's house fire (f_1333)."
             },
             {
                   "article_id": "camp-otoreke",
@@ -4140,7 +4158,8 @@
                         "f_0180",
                         "f_0156",
                         "f_1108",
-                        "f_1307"
+                        "f_1307",
+                        "f_1332"
                   ],
                   "sources_cited": [
                         "src_concordia_fonds",
@@ -4150,7 +4169,8 @@
                         "src_ymca_125th_2019",
                         "src_oral_aronson",
                         "src_south_shore_ymca",
-                        "src_ymca_pip_releases"
+                        "src_ymca_pip_releases",
+                        "src_banq_le_devoir_1994_centennial"
                   ],
                   "open_questions": 5,
                   "cross_links": [
@@ -4163,7 +4183,7 @@
                         "pip-alumni-award"
                   ],
                   "file_id": null,
-                  "word_count": 622
+                  "word_count": 823
             },
             {
                   "article_id": "quebec-camp-landscape",
