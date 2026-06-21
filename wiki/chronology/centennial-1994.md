@@ -2,16 +2,16 @@
 
 <!-- status: E1-reviewed -->
 <!-- confidence: medium -->
-<!-- last_updated: 2026-06-20 -->
+<!-- last_updated: 2026-06-21 -->
 <!-- last_editor: v54 -->
 <!-- ralph_loops: centennial-1994-R1, centennial-1994-W1, centennial-1994-V1, centennial-1994-E1 -->
 
-*Status: E1-reviewed | Sources: 8*
-*Last Updated: 2026-06-20*
+*Status: E1-reviewed | Sources: 9*
+*Last Updated: 2026-06-21*
 
 ## Overview
 
-Camp Kanawana's centennial was observed in 1994, marking 100 years since Billy Ball led the first organized camping trip to Lake Saint-Joseph in the summer of 1894. The centennial was preceded by a documentary film and accompanied by commemorative materials, though no online evidence of a formal celebration event has been found.
+Camp Kanawana's centennial was observed in 1994, marking 100 years since Billy Ball led the first organized camping trip to Lake Saint-Joseph in the summer of 1894. The centennial was preceded by a documentary film and accompanied by commemorative materials. *Le Devoir* covered the camp on at least three occasions during the centennial year, though the full content of that coverage has not yet been reviewed and no detailed account of a formal celebration event has been confirmed.
 
 ## Centennial Materials
 
@@ -20,6 +20,12 @@ A commemorative poster titled "Kanawana: 100 years of spirit and leadership" was
 An alumni newsletter called *The Look Out* was published in 1994 (Vol. 1, No. 3), likely launched in connection with the centennial. The "Vol. 1, No. 3" designation suggests the newsletter was started no earlier than 1993. It is held in Concordia Archives P0145/12B04.^2
 
 Tear sheets from local newspapers with advertisements for Kamp Kanawana from 1993–1994 are also held in the same archival sub-series, indicating promotional activity around the centennial period.^1
+
+## Press Coverage
+
+The Montreal daily *Le Devoir* covered Camp Kanawana during the centennial year in at least three issues: January 15, July 6, and October 24, 1994.^9 The spread of dates across the calendar year — winter, midsummer, and autumn — suggests sustained editorial interest rather than a single news hit. The July 6 issue, falling during the camping season, may reflect coverage of a centennial celebration or event at camp, though the article texts have not been reviewed. Full texts are held on BAnQ numérique and require in-person or card-holder access.
+
+The three *Le Devoir* mentions are notable as the first confirmed French-language press coverage of Kanawana in the historical record. Combined with the English-language newspaper tear sheets held in Concordia Archives,^1 they indicate that the centennial attracted attention from both linguistic communities in Montreal.
 
 ## The 1993 Documentary
 
@@ -33,7 +39,7 @@ Bruce Netherwood was Director of Camp Kanawana from 1988 to 1994, meaning the ce
 
 ## Open Questions
 
-1. [Critical] Was there a formal centennial event or celebration at camp in summer 1994? What form did it take?
+1. [Critical] Was there a formal centennial event or celebration at camp in summer 1994? What form did it take? (*Le Devoir*'s July 6, 1994 coverage may address this; article text requires BAnQ access.)
 2. [Critical] What is the content of the centennial poster? Does it include historical photographs or a timeline?
 3. [Important] What is the content of *The Look Out* newsletter? Does it contain alumni reminiscences, historical essays, or factual records?
 4. [Important] Was the 1993 documentary commissioned specifically for the centennial, or was it an independent production?

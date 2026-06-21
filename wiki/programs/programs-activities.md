@@ -1,7 +1,7 @@
 # Programs and Activities at Kanawana
 
-*Status: E1-reviewed | Sources: src_brochure_1922, src_history_1935, src_mcmorris_thesis, src_kanawana_facts, src_ymca_website, src_concordia_12A, src_concordia_12B04, src_gas_bag_1923, src_cfcf_1941, src_brochure_1921, src_postmedia_nature_deficit_2026*
-*Last Updated: 2026-03-17 (minor update — Postmedia 2026 source added: session lengths, axe throwing, financial assistance, no-cellphone detail)*
+*Status: E1-reviewed | Sources: src_brochure_1922, src_history_1935, src_mcmorris_thesis, src_kanawana_facts, src_ymca_website, src_concordia_12A, src_concordia_12B04, src_gas_bag_1923, src_cfcf_1941, src_brochure_1921, src_postmedia_nature_deficit_2026, src_banq_le_droit_1937_06_25, src_banq_westmount_examiner_1962_11_16, src_banq_le_soleil_1971_07_07, src_banq_sherbrooke_record_1972_07_21*
+*Last Updated: 2026-06-21 (BAnQ newspaper sources added: 1937 first aid instruction, 1962 citizenship training, 1971 Noosphere simulation, 1972 leader training)*
 
 ## Overview
 
@@ -29,6 +29,8 @@ By 1930, the sections had evolved to Juveniles (10-12), Juniors (12-14), and Sen
 
 The 1935 anonymous season chronicle (not to be confused with Ralph Dawson's 1933 founding history, which remains accessible only at Concordia) describes a camp with established routines: scheduled swim periods, craft activities, evening campfires, and organized games. That season opened with 31 campers on June 23 and endured 11 consecutive days of rain, a new record. The Green Triangle newsletter, published 1932-1940, provides a camper perspective on activities across this period.
 
+In 1937, the St-Jean Ambulance Association sent a qualified instructor to Kanawana beginning July 1 to deliver a formal first aid course, continuing a tradition of first aid instruction documented as early as 1918.^ld37
+
 The Council Ring tradition, analyzed in a separate wiki article, was well established by this era, with its blend of Indigenous-inspired ceremony and YMCA moral instruction forming a central ritual element of camp life.
 
 In 1947, the Lumbermen and Voyageur Games were introduced, inspired by YMCA Camp Pine Crest's similar tradition (Muskoka, Ontario). The history of the L&V tradition at Pine Crest is documented in the book "Lumbermen & Voyageurs: The YMCA Pine Crest Story.". The L&V Games quickly became Kanawana's signature competitive event, dividing the entire camp into two teams for a multi-day competition. As of 2025, the games have run for 78 editions (with one year skipped, likely 2020 due to COVID-19). The L&V Games are covered in detail in a separate wiki article.
@@ -41,11 +43,17 @@ The Voyageurs de la Verendrye programme, introduced in the 1950s according to th
 
 The Counsellor-in-Training (CIT) programme, introduced in the 1960s per the Facts sheet, formalized the leadership pipeline that the Camp Leaders' Training Class had begun in the 1920s. The CIT programme gave older teenagers a structured path from camper to staff, cementing the multi-generational attachment that characterizes Kanawana alumni culture.
 
+By 1962, the YMCA was planning "bigger and better" citizenship training and educational programs for youth and young adults, to be delivered across Kamp Kanawana, its eight city branches, and Sir George Williams University.^we62 The emphasis on citizenship training alongside traditional camp activities reflected a mid-century broadening of the YMCA's educational ambitions.
+
 The 1965 Concordia archives listing includes "The Pathfinder program Summer Summary," suggesting at least one additional programme stream was being tested in this period.
 
 ## Coeducation and Reorganization (1968-1970s)
 
 The arrival of girl campers in 1968 or 1969 (sources differ; see the coeducation article for detailed analysis) necessarily affected programming. The first all-female Voyageur canoe trip in 1972 marked the extension of the camp's most demanding programme to girls within three years of formal coeducation.
+
+In the summer of 1971, Kanawana served as the venue for "Noosphere," an international development education simulation organized by Perspective-Jeunesse for approximately 100 young Canadians aged 16 to 19.^ls71 The event is notable as an early instance of Kanawana's facilities being used for externally organized programming with an international scope, anticipating the camp's later role as a year-round conference and retreat site.
+
+Y camp counsellors received three-day leader training courses at Camp Kanawana in 1972, formalizing the pre-season staff preparation that had been part of camp operations in various forms since the 1920s.^sr72
 
 The Concordia archives show institutional restructuring through this period. A "Camping and Outdoor Education Branch Director's Report" from 1972, a "Report of the Staff Task Group on Outdoor Education in the Montreal YMCA" from 1974, and "Camping and Outdoor Education planning 1974-1975" all point to a professionalization of programme design. The rebranding from "camping" to "outdoor education" reflected a broader trend in the camp industry toward educational justification for what had previously been framed as character-building recreation.
 
@@ -98,6 +106,10 @@ Beyond summer programming, the camp hosts school groups for overnight outdoor ed
 - Reeves, Cathy (dir.). "Kamp Kanawana: The Experience that lasts a lifetime." Film, 1993 (released as VHS 1996, 9 min). Concordia archives.
 - [pm] Leonowicz, Ursula. "Rewilding childhood: How one summer camp is tackling nature-deficit disorder among Montreal youth." Postmedia Content Works (on behalf of YMCAs of Québec), March 4, 2026.
 - [emsb] EMSB school outdoor education programs at Camp YMCA Kanawana (web search results, 2026).
+- [ld37] "La St-Jean Ambulance." *Le Droit* (Ottawa), June 25, 1937. BAnQ numérique.
+- [we62] "Y Plans Bigger, Better Citizen Training." *The Westmount Examiner*, November 16, 1962. BAnQ numérique.
+- [ls71] "Le 'Noosphère' au Camp Kanawana." *Le Soleil* (Québec), July 7, 1971. BAnQ numérique.
+- [sr72] "Y Camp Counselors Get Leader Training." *The Sherbrooke Record*, July 21, 1972. BAnQ numérique.
 
 ## R3 Verification Notes
 

@@ -2,7 +2,7 @@
 
 <!-- status: E1-reviewed -->
 <!-- confidence: medium -->
-<!-- last_updated: 2026-03-15 -->
+<!-- last_updated: 2026-06-21 -->
 <!-- last_editor: v52 -->
 <!-- ralph_loops: directors-index-compile, directors-index-R2, directors-index-staff-expansion -->
 
@@ -27,7 +27,7 @@ This index compiles all known directors of Camp Kanawana (originally Camp Jubile
 | R.H. Hanagan | 1942, 1946 | Camp Director; wrote detailed season reports; managed 1946 polio outbreak (6 cases); listed as "Montreal YMCA camp director."^10 A 1942 Gazette article describes him "in Indian garb on horseback" at a camp parade. | McMorris thesis; Concordia fonds; Gazette 1942-08-05 |
 | E.E. Smee (Edgar E. Smee) | 1939, 1942 | Full name Edgar E. Smee (b. c.1912-13 Hamilton ON, d. Feb 7 2002 Ottawa, age 89). Juvenile section director (1939);^1 Resident Director (1942), distinct from Camp Director.^10 Left Hamilton c.1938; 30-year absence aligns with Montreal/YMCA service. Later became founding Chair of Conserver Society of Hamilton (est. 1969); Environmentalist of the Year 1983. Ed Smee Fund est. 1999 in his honour. Wife: Frieda; daughters: Linda, Susan, Sydney, Sonia. | Gazette 1942-08-05; McMorris thesis; Globe and Mail obit 2002; EOY Awards 1983; Conserver Society |
 | A. Ross Seaman | 1959-1967 | Director of Kamp Kanawana; oversaw 1959 section renaming and La Vérendrye expansion; career in community work preceded directorship; became SGW faculty 1963; later chaired Dawson CRLT dept 1974-84; died 1987 | McMorris thesis; Concordia Seaman Fund^15 |
-| Ross Bannerman | 1969 | Authored "Report on Kamp Kanawana" (1969) in Concordia Archives; role title unconfirmed but report authorship suggests senior position | Concordia Archives 12B01 |
+| Ross Bannerman | 1969 | Directed Camp Pascobac (1951, recruited by Nelson McEwen) and Camp Stephens, Winnipeg (1956); authored "Report on Kamp Kanawana" (1969) in Concordia Archives; YMCA International Branch file (c. 1968-1970) at Concordia; later CEO of the Montreal YMCA (late 1970s). Role title at Kanawana unconfirmed but report authorship and career trajectory suggest senior position | Concordia Archives 12B01 |
 | Stuart McLean | 1974-1975 (Asst. Dir.) | Assistant Summer Camp Director; first hired as counselor 1969, worked 5 summers. His camp director in 1974-75 remains unidentified (commented anonymously on Westmount Magazine tribute). | OurKids interview; Samaritan Mag |
 | Dave Twynam | ~1976/1979–1980 | Camp director; correspondence from "Camp director Dave Twynam" dated 1979 in Concordia archives (June 2026 search excerpts of the same finding aid date it 1976 — unresolved, conflict c_007). Full name G. David Twynam, PhD. Career after Kanawana: faculty at Lakehead University, School of Outdoor Recreation, Parks & Tourism (by late 1990s); Dean, School of Tourism, University College of the Cariboo / Thompson Rivers University (~1999-2009, 10+ years); Dean, Faculty of Management, Vancouver Island University (post-2009); now retired. Published widely on volunteer motivation, sustainable tourism, and event management (723 citations, 10 works on ResearchGate). Co-developed the Special Event Volunteer Motivation Scale (SEVMS). Received BC Transfer & Articulation Community Leadership Award for 15 years of tourism education leadership. | Concordia Archives 12B01; ResearchGate; VIU News; TRU Newsroom |
 | Nancy Sawyer | 1980 (Asst. Dir.) | Assistant Director under "Dave" (likely Twynam); named in Ka-News | Ka-News 1980 |

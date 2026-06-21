@@ -1,7 +1,7 @@
 # The Kanawana Site
 
-*Status: E1-reviewed | Sources: src_ymca_website, src_kanawana_facts, src_brochure_1921, src_brochure_1922, src_gas_bag_1923, src_green_triangle_1938, src_mcmorris_thesis, src_concordia_fonds, src_wikidata_lac_kanawana, src_lapresse_ymca_2018, src_weredale_camp, src_mysummercamps_kanawana, src_crel_lac_kanawana, src_postmedia_nature_deficit_2026, src_ymca_kanawana_groups_rentals, src_ymca_kanawana_hebergement_fr, src_bonjour_quebec_kanawana, src_clivus_multrum_projects, src_morin_heights_indigenous, src_wikipedia_mille_isles*
-*Last Updated: 2026-06-20 (Indigenous territory context; Mille-Isles regional history)*
+*Status: E1-reviewed | Sources: src_ymca_website, src_kanawana_facts, src_brochure_1921, src_brochure_1922, src_gas_bag_1923, src_green_triangle_1938, src_mcmorris_thesis, src_concordia_fonds, src_wikidata_lac_kanawana, src_lapresse_ymca_2018, src_weredale_camp, src_mysummercamps_kanawana, src_crel_lac_kanawana, src_postmedia_nature_deficit_2026, src_ymca_kanawana_groups_rentals, src_ymca_kanawana_hebergement_fr, src_bonjour_quebec_kanawana, src_clivus_multrum_projects, src_morin_heights_indigenous, src_wikipedia_mille_isles, src_banq_lovell_1976, src_journal_acces_fire_2023*
+*Last Updated: 2026-06-21 (Lovell's 1976 directory listing; 2023 superintendent's house fire)*
 
 ## Overview
 
@@ -10,6 +10,8 @@ Camp Kanawana occupies a 550-acre site in Saint-Sauveur, in the Laurentian Mount
 ## Location and Access
 
 The camp is situated at 673 Saint-Elmire Street in Saint-Sauveur-des-Monts,^17 approximately 90 km (45 minutes) north of Montreal by road,^1 or about 45 miles (72 km) by the historical railway route.^4 ^5 The broader region has deep colonial roots: the neighbouring municipality of Mille-Isles was created on July 1, 1855, after detaching from the parish of Saint-Jérôme, and takes its name from the Mille-Isles Seigneury, originally granted in 1683 to Michel-Sidrac Dugué de Boisbriand.^26 Early European settlement in the area dates to the 1830s.^26 The nearest railway station was historically at Piedmont on the CPR Sainte-Agathe line. In 1922, campers took the 7:30 AM train from Place Viger Station, disembarking at Piedmont and traveling 6 miles to the camp.^5 Hike destinations from camp in 1923 included Val Morin, Lac Hughes, Sainte-Agathe, Sixteen Island Lake, Lac Wilson, Pages, and Sainte-Adolphe.^6
+
+The camp was administered from the YMCA Montreal's central branch downtown. Lovell's Montreal City Directory for 1976 listed "Kamp Kanawana" at 1441 Drummond Street, Montreal (H3G 1WS), telephone 849-5331 — the address of the YMCA's Drummond Street building. A second directory listing appeared under Châteauguay with telephone 692-2801.^27
 
 ## The Three Lakes
 
@@ -83,6 +85,9 @@ A 1928 Kanawana map and a 1962 Kanawana map were both analyzed in the McMorris t
 
 ### Desjardins Pavilion (2018)
 In 2018, Desjardins donated $1 million to the YMCA for renovations at Camp Kanawana, including a new community pavilion described as the "new heart of Kanawana" to increase the camp's capacity and expand its environmental education mission.^14
+
+### 2023 Fire
+On May 16, 2023, the superintendent's house at Camp YMCA Kanawana was destroyed by fire. The isolated building, located on Montée Sainte-Elmire in the Spring Valley sector, was a total loss. No one was inside at the time. Twenty-five firefighters from Saint-Sauveur, Morin-Heights, and Sainte-Anne-des-Lacs responded to the blaze. Other camp buildings were unaffected. The cause of the fire was not determined.^28
 
 ## Year-Round Use
 
@@ -164,3 +169,5 @@ From 1977 to 1980, plans existed for a proposed two-site operation using Kanawan
 24. Ville de Saint-Sauveur, "Les familles pionnières de Saint-Sauveur"; Société d'histoire et de généalogie des Pays-d'en-Haut, "Édouard Pagé, boulanger à Saint-Sauveur."
 25. Morin-Heights, "Indigenous History"; cf. historical treaty maps for Quebec.
 26. Wikipedia, "Mille-Isles, Quebec."
+27. Lovell's Montreal City Directory (1976), "Kamp Kanawana" listing. BAnQ numérique.
+28. Journal Accès, report on superintendent's house fire at Camp YMCA Kanawana (May 16, 2023).
