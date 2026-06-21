@@ -1900,3 +1900,21 @@ HYPOTHESIZE — Remaining productive research requires:
   - p_160: camp-perrot stub→draft (blocked — Concordia 12G access)
   - p_161: orphan fact tracking (completed)
   - p_162: word count verification (completed)
+2026-06-21T14:30:00Z | RALPH R1 | Campaign 11: Re-attempt of 5 blocked priorities
+  - p_077 (Mary Edgar paper): COMPLETED. Author identified: Marilee C. Tisdall (1978). 3 new facts.
+  - p_088 (McCord C387): COMPLETED. Item is postal card, not photo collection. Artefacts Canada ID: MCCD202639. f_0950 updated.
+  - p_089 (Trent QCA fonds): COMPLETED. 90cm/3 boxes, 1948-1982. Camp visitation reports 1962-1978. 3 new facts.
+  - p_090 (BAnQ newspapers): COMPLETED. MAJOR BREAKTHROUGH: 38 newspaper issues across 8 newspapers found on BAnQ via Google OCR indexing. 9 new facts, 10 new sources.
+  - p_159 (YMCA annual reports): COMPLETED. 1966-67 annual report found on IA (sgw-ymca-annual-report-1966-67). Ross Bannerman identified. 5 new facts, 2 new sources.
+  - TOTALS: 20 new facts (f_1320-f_1339), 12 new sources, 5 priorities completed. KB v4.74, 1355 facts, 420 sources.
+
+2026-06-21T14:00:00Z | RESEARCH | Concordia Archives re-access attempt (p_057, p_074)
+  - Re-attempted 30+ URLs across concordia.accesstomemory.org, concordia.ca, archive.org, web.archive.org, archivescanada.ca, rdaq.banq.qc.ca
+  - ALL returned HTTP 403 (bot protection + sandbox egress allowlist)
+  - AtoM API, OAI-PMH, EAD XML export all blocked
+  - Mabel Jamieson deep research: 80+ queries across 8+ surfaces via 4 parallel agents
+  - New leads: FamilySearch Mabel Grace Jamieson 1893-1966 (unverified), U of Minnesota Kautz YMCA Archives, YMCA Annual Report 1993 on IA
+  - p_057 remains BLOCKED, p_074 remains BLOCKED
+  - 3 new priorities added: p_163 (IA Annual Report 1993), p_164 (Kautz Archives), p_165 (FamilySearch verification)
+  - Updated research-log.md with Session 12 campaign details
+  - No new KB facts added (no independently verifiable new information)

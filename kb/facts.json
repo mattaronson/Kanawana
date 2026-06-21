@@ -1,8 +1,8 @@
 {
-  "version": "v4.73",
-  "kb_version": 4.64,
+  "version": "v4.74",
+  "kb_version": 4.74,
   "migrated_from": "3.3",
-  "fact_count": 1279,
+  "fact_count": 1355,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -16160,7 +16160,7 @@
     },
     {
       "fact_id": "f_0950",
-      "claim": "The McCord Stewart Museum in Montreal holds collection C387, 'Kamp Kanawana', containing circa 1930 photographs. The images are not digitized online.",
+      "claim": "The McCord Stewart Museum in Montreal holds item C387, titled 'Kamp Kanawana', dated approximately 1930. The item is classified as a 'postal card' within the Photography collection. Image is not digitized online ('Image Not Available'). Artefacts Canada identifier: MCCD202639. A related McCord item MCCD198988 is classified as a 'Photograph'. The C387 designation is associated with Bailey Brothers Company Limited (publisher, active before 1898).",
       "sources": [
         "src_mccord_c387"
       ],
@@ -16172,7 +16172,7 @@
       ],
       "date_ref": "1930",
       "conflicts_with": [],
-      "added_version": "4.25",
+      "added_version": "4.74",
       "added_by": "ralph_loop"
     },
     {
@@ -22079,8 +22079,7 @@
       "conflicts_with": [],
       "added_version": "v4.67",
       "added_by": "ralph_loop"
-    }
-    ,
+    },
     {
       "fact_id": "f_1268",
       "claim": "The motto 'Each for all — all for each' is also the motto of Camp Becket (Becket-Chimney Corners YMCA, founded 1903 in Massachusetts), established under director Henry Gibson (1904-1927). Camp Becket has eight core mottos. This suggests the English-language motto may have been a shared YMCA camping tradition rather than unique to Kanawana. Camp Kanawana's 1922 brochure documents 'Each for all and all for each' as its motto; the camp later adopted 'Non Nobis Solum' (Cicero) at an unknown date.",
@@ -22102,10 +22101,16 @@
     {
       "fact_id": "f_1269",
       "claim": "Harold Herbert Potter (1914-2004) worked as a camp counsellor at YMCA Kamp Kanawana during summers in the 1930s while attending Sir George Williams College (B.A. 1935-1939)",
-      "sources": ["src_wikipedia_harold_potter"],
+      "sources": [
+        "src_wikipedia_harold_potter"
+      ],
       "confidence": "stated",
       "category": "people",
-      "entities": ["Harold H. Potter", "Camp Kanawana", "Sir George Williams College"],
+      "entities": [
+        "Harold H. Potter",
+        "Camp Kanawana",
+        "Sir George Williams College"
+      ],
       "date_ref": "1935-1939",
       "conflicts_with": [],
       "added_version": "v4.68",
@@ -22114,10 +22119,15 @@
     {
       "fact_id": "f_1270",
       "claim": "Harold H. Potter was the first Canadian-born Black sociologist hired by a Canadian post-secondary institution, appointed lecturer in Sociology at Sir George Williams College in 1947",
-      "sources": ["src_wikipedia_harold_potter"],
+      "sources": [
+        "src_wikipedia_harold_potter"
+      ],
       "confidence": "stated",
       "category": "people",
-      "entities": ["Harold H. Potter", "Sir George Williams College"],
+      "entities": [
+        "Harold H. Potter",
+        "Sir George Williams College"
+      ],
       "date_ref": "1947",
       "conflicts_with": [],
       "added_version": "v4.68",
@@ -22126,10 +22136,16 @@
     {
       "fact_id": "f_1271",
       "claim": "Harold H. Potter grew up in Little Burgundy, Montreal's working-class English-speaking Black community. His parents were émigrés from British Guiana.",
-      "sources": ["src_wikipedia_harold_potter"],
+      "sources": [
+        "src_wikipedia_harold_potter"
+      ],
       "confidence": "stated",
       "category": "people",
-      "entities": ["Harold H. Potter", "Little Burgundy", "Montreal"],
+      "entities": [
+        "Harold H. Potter",
+        "Little Burgundy",
+        "Montreal"
+      ],
       "date_ref": "1914",
       "conflicts_with": [],
       "added_version": "v4.68",
@@ -22138,10 +22154,17 @@
     {
       "fact_id": "f_1272",
       "claim": "Harold H. Potter was editor of The Georgian, the student newspaper of Sir George Williams College, in 1938-39. Mordecai Richler held the same position a decade later.",
-      "sources": ["src_wikipedia_harold_potter"],
+      "sources": [
+        "src_wikipedia_harold_potter"
+      ],
       "confidence": "stated",
       "category": "people",
-      "entities": ["Harold H. Potter", "The Georgian", "Sir George Williams College", "Mordecai Richler"],
+      "entities": [
+        "Harold H. Potter",
+        "The Georgian",
+        "Sir George Williams College",
+        "Mordecai Richler"
+      ],
       "date_ref": "1938-1939",
       "conflicts_with": [],
       "added_version": "v4.68",
@@ -22150,10 +22173,16 @@
     {
       "fact_id": "f_1273",
       "claim": "The graphic novel 'Jane, le renard et moi' (Jane, the Fox and Me) by Fanny Britt and Isabelle Arsenault (2012/2013) is set partly at Camp Kanawana, depicting a school class trip to the camp",
-      "sources": ["src_goodreads_jane_fox_me"],
+      "sources": [
+        "src_goodreads_jane_fox_me"
+      ],
       "confidence": "stated",
       "category": "media",
-      "entities": ["Camp Kanawana", "Fanny Britt", "Isabelle Arsenault"],
+      "entities": [
+        "Camp Kanawana",
+        "Fanny Britt",
+        "Isabelle Arsenault"
+      ],
       "date_ref": "2012-2013",
       "conflicts_with": [],
       "added_version": "v4.68",
@@ -22162,10 +22191,16 @@
     {
       "fact_id": "f_1274",
       "claim": "'Jane, le renard et moi' won the Governor General's Literary Award for Children's Illustration (French), the Joe Shuster Award (Writer and Artist), and was named a New York Times Best Illustrated Children's Book",
-      "sources": ["src_goodreads_jane_fox_me"],
+      "sources": [
+        "src_goodreads_jane_fox_me"
+      ],
       "confidence": "stated",
       "category": "media",
-      "entities": ["Fanny Britt", "Isabelle Arsenault", "Camp Kanawana"],
+      "entities": [
+        "Fanny Britt",
+        "Isabelle Arsenault",
+        "Camp Kanawana"
+      ],
       "date_ref": "2013",
       "conflicts_with": [],
       "added_version": "v4.68",
@@ -22174,10 +22209,16 @@
     {
       "fact_id": "f_1275",
       "claim": "Camp Ouareau was founded in 1922 by Mabel C. Jamieson and Ferna G. Halliday, both school teachers. It is one of the two oldest girls-only camps still active in Canada, located at Notre-Dame-de-la-Merci on Lac Ouareau.",
-      "sources": ["src_wikipedia_camp_ouareau"],
+      "sources": [
+        "src_wikipedia_camp_ouareau"
+      ],
       "confidence": "stated",
       "category": "inter-camp",
-      "entities": ["Camp Ouareau", "Mabel C. Jamieson", "Ferna G. Halliday"],
+      "entities": [
+        "Camp Ouareau",
+        "Mabel C. Jamieson",
+        "Ferna G. Halliday"
+      ],
       "date_ref": "1922",
       "conflicts_with": [],
       "added_version": "v4.68",
@@ -22186,10 +22227,16 @@
     {
       "fact_id": "f_1276",
       "claim": "The Canadian Camping Association was founded on May 20, 1936 at the Central Y.M.C.A. in Toronto, with Taylor Statten as its first president",
-      "sources": ["src_websearch_taylor_statten_cca"],
+      "sources": [
+        "src_websearch_taylor_statten_cca"
+      ],
       "confidence": "stated",
       "category": "institutional",
-      "entities": ["Canadian Camping Association", "Taylor Statten", "YMCA"],
+      "entities": [
+        "Canadian Camping Association",
+        "Taylor Statten",
+        "YMCA"
+      ],
       "date_ref": "1936-05-20",
       "conflicts_with": [],
       "added_version": "v4.68",
@@ -22198,10 +22245,18 @@
     {
       "fact_id": "f_1277",
       "claim": "Taylor Statten was a Boer War veteran who became YMCA Boys' Work Secretary in 1906. He founded Camp Ahmek in 1921 and served as both CCA president (1936) and ACA president (1942).",
-      "sources": ["src_websearch_taylor_statten_cca"],
+      "sources": [
+        "src_websearch_taylor_statten_cca"
+      ],
       "confidence": "stated",
       "category": "institutional",
-      "entities": ["Taylor Statten", "Camp Ahmek", "YMCA", "Canadian Camping Association", "American Camping Association"],
+      "entities": [
+        "Taylor Statten",
+        "Camp Ahmek",
+        "YMCA",
+        "Canadian Camping Association",
+        "American Camping Association"
+      ],
       "date_ref": "1906-1942",
       "conflicts_with": [],
       "added_version": "v4.68",
@@ -22210,10 +22265,16 @@
     {
       "fact_id": "f_1278",
       "claim": "Edgar Munroe Robinson (1867-1951) was YMCA International Committee Boys' Work Secretary from 1900. He developed camping programs, father-son programs, and was also the first Executive Director of the Boy Scouts of America (1910).",
-      "sources": ["src_websearch_edgar_robinson"],
+      "sources": [
+        "src_websearch_edgar_robinson"
+      ],
       "confidence": "stated",
       "category": "institutional",
-      "entities": ["Edgar M. Robinson", "YMCA", "Boy Scouts of America"],
+      "entities": [
+        "Edgar M. Robinson",
+        "YMCA",
+        "Boy Scouts of America"
+      ],
       "date_ref": "1900-1910",
       "conflicts_with": [],
       "added_version": "v4.68",
@@ -22222,10 +22283,16 @@
     {
       "fact_id": "f_1279",
       "claim": "Hedley S. Dimock was dean of YMCA College (George Williams College) in Chicago. He launched camping character education institutes in 1930 and led philosophical discussions on 'small-group-centered methods' at camp in the 1940s-1950s.",
-      "sources": ["src_aca_hedley_dimock_award"],
+      "sources": [
+        "src_aca_hedley_dimock_award"
+      ],
       "confidence": "stated",
       "category": "institutional",
-      "entities": ["Hedley S. Dimock", "YMCA College", "George Williams College"],
+      "entities": [
+        "Hedley S. Dimock",
+        "YMCA College",
+        "George Williams College"
+      ],
       "date_ref": "1930-1950s",
       "conflicts_with": [],
       "added_version": "v4.68",
@@ -22234,10 +22301,17 @@
     {
       "fact_id": "f_1280",
       "claim": "EMSB schools (Vincent Massey Collegiate, JFK High School, École Secondaire Louis Joseph Papineau) send students on overnight camping experiences at Camp YMCA Kanawana, with activities including archery, rock climbing, canoeing, nature interpretation, and woodworking.",
-      "sources": ["src_websearch_emsb_kanawana"],
+      "sources": [
+        "src_websearch_emsb_kanawana"
+      ],
       "confidence": "stated",
       "category": "programs",
-      "entities": ["Camp Kanawana", "EMSB", "Vincent Massey Collegiate", "JFK High School"],
+      "entities": [
+        "Camp Kanawana",
+        "EMSB",
+        "Vincent Massey Collegiate",
+        "JFK High School"
+      ],
       "date_ref": null,
       "conflicts_with": [],
       "added_version": "v4.68",
@@ -22246,10 +22320,15 @@
     {
       "fact_id": "f_1281",
       "claim": "Camp Ouareau became bilingual in 1976. Jacqui Raill became director in 1994, having been a counsellor since 1975, bringing a focus on environmentalism and sustainability.",
-      "sources": ["src_wikipedia_camp_ouareau"],
+      "sources": [
+        "src_wikipedia_camp_ouareau"
+      ],
       "confidence": "stated",
       "category": "inter-camp",
-      "entities": ["Camp Ouareau", "Jacqui Raill"],
+      "entities": [
+        "Camp Ouareau",
+        "Jacqui Raill"
+      ],
       "date_ref": "1976-1994",
       "conflicts_with": [],
       "added_version": "v4.68",
@@ -22258,10 +22337,14 @@
     {
       "fact_id": "f_1282",
       "claim": "A silent film (no sound) of Kamp Kanawana from the 1960s, showing swimming and diving activities, exists as a YouTube access copy (Concordia Archives P0145-09-0087). URL: https://www.youtube.com/watch?v=ZrUuQ1SU7q8",
-      "sources": ["src_concordia_p0145_12a_finding_aid"],
+      "sources": [
+        "src_concordia_p0145_12a_finding_aid"
+      ],
       "confidence": "stated",
       "category": "media",
-      "entities": ["Camp Kanawana"],
+      "entities": [
+        "Camp Kanawana"
+      ],
       "date_ref": "1960s",
       "conflicts_with": [],
       "added_version": "v4.68",
@@ -22270,10 +22353,15 @@
     {
       "fact_id": "f_1283",
       "claim": "On September 5, 2014, Camp YMCA Kanawana alumni (former campers and staff) assembled at Victoria Hall (Westmount) to celebrate the camp's 120th anniversary reunion.",
-      "sources": ["src_ymca_website"],
+      "sources": [
+        "src_ymca_website"
+      ],
       "confidence": "stated",
       "category": "events",
-      "entities": ["Camp Kanawana", "Victoria Hall"],
+      "entities": [
+        "Camp Kanawana",
+        "Victoria Hall"
+      ],
       "date_ref": "2014-09-05",
       "conflicts_with": [],
       "added_version": "v4.68",
@@ -22282,10 +22370,17 @@
     {
       "fact_id": "f_1284",
       "claim": "Derek Walsh (ACQ) received the Canadian Camping Association Award of Excellence in 1983. The CCA fonds at Trent University associates him with Kamp Kanawana and YMCA Montreal.",
-      "sources": ["src_websearch_taylor_statten_cca"],
+      "sources": [
+        "src_websearch_taylor_statten_cca"
+      ],
       "confidence": "stated",
       "category": "institutional",
-      "entities": ["Derek Walsh", "Canadian Camping Association", "ACQ", "Camp Kanawana"],
+      "entities": [
+        "Derek Walsh",
+        "Canadian Camping Association",
+        "ACQ",
+        "Camp Kanawana"
+      ],
       "date_ref": "1983",
       "conflicts_with": [],
       "added_version": "v4.68",
@@ -22294,10 +22389,16 @@
     {
       "fact_id": "f_1285",
       "claim": "Magloire Pagé married Adéline Beauchamp on July 28, 1851 at Saint-Jérôme. Their son, also Magloire, was born in Saint-Sauveur in 1853 and in 1897 became the village's first baker. The bakery was sold in 1912 to Édouard Pagé; Boulangerie Pagé remains active in Saint-Sauveur today.",
-      "sources": ["src_websearch_page_family_vss"],
+      "sources": [
+        "src_websearch_page_family_vss"
+      ],
       "confidence": "stated",
       "category": "people",
-      "entities": ["Pagé family", "Saint-Sauveur", "Magloire Pagé"],
+      "entities": [
+        "Pagé family",
+        "Saint-Sauveur",
+        "Magloire Pagé"
+      ],
       "date_ref": "1851-1912",
       "conflicts_with": [],
       "added_version": "v4.68",
@@ -22306,10 +22407,15 @@
     {
       "fact_id": "f_1286",
       "claim": "Camp Kanawana launched the 'Mountaineer' program as an all-gender tent to provide a safe and welcoming environment for transgender, non-binary, and gender non-conforming campers.",
-      "sources": ["src_ymca_website"],
+      "sources": [
+        "src_ymca_website"
+      ],
       "confidence": "stated",
       "category": "programs",
-      "entities": ["Camp Kanawana", "Mountaineer program"],
+      "entities": [
+        "Camp Kanawana",
+        "Mountaineer program"
+      ],
       "date_ref": null,
       "conflicts_with": [],
       "added_version": "v4.68",
@@ -22318,10 +22424,15 @@
     {
       "fact_id": "f_1287",
       "claim": "YMCA day camps, holiday camps, and spring break camps will no longer be offered as of fall 2025. The Kanawana summer camp will continue to operate.",
-      "sources": ["src_ymca_website"],
+      "sources": [
+        "src_ymca_website"
+      ],
       "confidence": "stated",
       "category": "institutional",
-      "entities": ["Camp Kanawana", "YMCA Quebec"],
+      "entities": [
+        "Camp Kanawana",
+        "YMCA Quebec"
+      ],
       "date_ref": "2025",
       "conflicts_with": [],
       "added_version": "v4.68",
@@ -22330,10 +22441,16 @@
     {
       "fact_id": "f_1288",
       "claim": "Camp B'nai Brith of Montreal was established in 1921 (Mount Royal Lodge of B'nai Brith Canada). First campsite on a farm 64 km from Montreal; moved to current location 1929. Counsellors were McGill student volunteers. Combined Jewish Appeal constituent agency from 1942.",
-      "sources": ["src_wikipedia_camp_bnai_brith"],
+      "sources": [
+        "src_wikipedia_camp_bnai_brith"
+      ],
       "confidence": "stated",
       "category": "inter-camp",
-      "entities": ["Camp B'nai Brith", "Montreal", "McGill University"],
+      "entities": [
+        "Camp B'nai Brith",
+        "Montreal",
+        "McGill University"
+      ],
       "date_ref": "1921",
       "conflicts_with": [],
       "added_version": "v4.68",
@@ -22342,10 +22459,18 @@
     {
       "fact_id": "f_1289",
       "claim": "D.A. Budge, as General Secretary of the YMCA of Montreal, directed James Naismith to the YMCA International Training School in Springfield, Massachusetts. When Naismith inquired about becoming a YMCA instructor at the Montreal YMCA, Budge told him about the Springfield school. Naismith enrolled there and invented basketball in 1891.",
-      "sources": ["src_naismith_foundation", "src_ymca_int_basketball"],
+      "sources": [
+        "src_naismith_foundation",
+        "src_ymca_int_basketball"
+      ],
       "confidence": "stated",
       "category": "people",
-      "entities": ["D.A. Budge", "James Naismith", "YMCA Montreal", "Springfield College"],
+      "entities": [
+        "D.A. Budge",
+        "James Naismith",
+        "YMCA Montreal",
+        "Springfield College"
+      ],
       "date_ref": "c.1890",
       "conflicts_with": [],
       "added_version": "v4.69",
@@ -22354,10 +22479,18 @@
     {
       "fact_id": "f_1290",
       "claim": "Camp Tamaracouta's main lodge burned down in 2024. Scouts Canada sold the 1,000-acre property in 2025 to entrepreneur Eric Desroches, in partnership with the Nature Conservancy of Canada and the town of Mille-Isles, Quebec. The camp had claimed to be the oldest continuously operating Scout camp in the world.",
-      "sources": ["src_cbc_tamaracouta_fire", "src_cbc_tamaracouta_sold"],
+      "sources": [
+        "src_cbc_tamaracouta_fire",
+        "src_cbc_tamaracouta_sold"
+      ],
       "confidence": "stated",
       "category": "inter-camp",
-      "entities": ["Camp Tamaracouta", "Scouts Canada", "Nature Conservancy of Canada", "Mille-Isles"],
+      "entities": [
+        "Camp Tamaracouta",
+        "Scouts Canada",
+        "Nature Conservancy of Canada",
+        "Mille-Isles"
+      ],
       "date_ref": "2024-2025",
       "conflicts_with": [],
       "added_version": "v4.69",
@@ -22366,10 +22499,16 @@
     {
       "fact_id": "f_1291",
       "claim": "Camp Tamaracouta was named for the tamarack trees on the property ('couta' reportedly meaning body of water in a First Nations language). It was founded in 1912 with funds provided by Colonel E.A. Whitehead on a former farm belonging to the Dawson family of Mille-Isles. After WWI, it adopted a Hudson's Bay Company theme with campsites named after HBC trading posts.",
-      "sources": ["src_wikipedia_tamaracouta"],
+      "sources": [
+        "src_wikipedia_tamaracouta"
+      ],
       "confidence": "stated",
       "category": "inter-camp",
-      "entities": ["Camp Tamaracouta", "Colonel E.A. Whitehead", "Mille-Isles"],
+      "entities": [
+        "Camp Tamaracouta",
+        "Colonel E.A. Whitehead",
+        "Mille-Isles"
+      ],
       "date_ref": "1912",
       "conflicts_with": [],
       "added_version": "v4.69",
@@ -22378,10 +22517,16 @@
     {
       "fact_id": "f_1292",
       "claim": "Camp Massad Montreal, a Hebrew-speaking Jewish summer camp, was founded in 1947 on Lac Quenouille in Sainte-Agathe-des-Monts in the Laurentians. It is shomer Shabbat with kosher kitchen under the Montreal Va'ad Ha'ir. Founded in modern Orthodox practice but welcoming to children from all Jewish backgrounds.",
-      "sources": ["src_wikipedia_camp_massad_mtl"],
+      "sources": [
+        "src_wikipedia_camp_massad_mtl"
+      ],
       "confidence": "stated",
       "category": "inter-camp",
-      "entities": ["Camp Massad", "Sainte-Agathe-des-Monts", "Laurentians"],
+      "entities": [
+        "Camp Massad",
+        "Sainte-Agathe-des-Monts",
+        "Laurentians"
+      ],
       "date_ref": "1947",
       "conflicts_with": [],
       "added_version": "v4.69",
@@ -22390,10 +22535,16 @@
     {
       "fact_id": "f_1293",
       "claim": "Pripstein's Camp Mishmar was a co-educational summer camp in Saint-Adolphe-d'Howard, Quebec, operating from 1941 to 2014. Founded by Chaim Pripstein (also known as Charles Pripstein), a Polish-born Hebrew teacher at United Talmud Torahs who fled Poland before WWII. He acquired land from a local farmer near Saint-Jerome in 1941. At its peak in the 1960s, the camp had 240 campers per summer. It closed in 2014 due to declining enrolment.",
-      "sources": ["src_wikipedia_pripstein"],
+      "sources": [
+        "src_wikipedia_pripstein"
+      ],
       "confidence": "stated",
       "category": "inter-camp",
-      "entities": ["Pripstein's Camp Mishmar", "Saint-Adolphe-d'Howard", "Chaim Pripstein"],
+      "entities": [
+        "Pripstein's Camp Mishmar",
+        "Saint-Adolphe-d'Howard",
+        "Chaim Pripstein"
+      ],
       "date_ref": "1941-2014",
       "conflicts_with": [],
       "added_version": "v4.69",
@@ -22402,10 +22553,16 @@
     {
       "fact_id": "f_1294",
       "claim": "La Colonie de vacances Sainte-Jeanne-d'Arc, a French-speaking girls-only summer camp, was established in 1926 by Father Adélard Desrosiers in Contrecoeur, Quebec. It is the second-oldest summer camp exclusively for girls still operating in Quebec and French Canada. Incorporated December 22, 1941. Serves low-income families with sliding-scale pricing.",
-      "sources": ["src_wikipedia_ste_jeanne_darc"],
+      "sources": [
+        "src_wikipedia_ste_jeanne_darc"
+      ],
       "confidence": "stated",
       "category": "inter-camp",
-      "entities": ["Sainte-Jeanne-d'Arc Vacation Camp", "Contrecoeur", "Adélard Desrosiers"],
+      "entities": [
+        "Sainte-Jeanne-d'Arc Vacation Camp",
+        "Contrecoeur",
+        "Adélard Desrosiers"
+      ],
       "date_ref": "1926",
       "conflicts_with": [],
       "added_version": "v4.69",
@@ -22414,10 +22571,16 @@
     {
       "fact_id": "f_1295",
       "claim": "The University of Minnesota Kautz Family YMCA Archives holds a 'YMCA in Canada records' collection containing minutes, reports, yearbooks, and correspondence from the Canadian YMCA pre-1912 period (when Canadian YMCA was governed jointly with US YMCA under the International Committee). Includes records related to youth development programs and camping.",
-      "sources": ["src_umn_ymca_canada_records"],
+      "sources": [
+        "src_umn_ymca_canada_records"
+      ],
       "confidence": "stated",
       "category": "sources",
-      "entities": ["University of Minnesota", "YMCA", "International Committee"],
+      "entities": [
+        "University of Minnesota",
+        "YMCA",
+        "International Committee"
+      ],
       "date_ref": "pre-1912",
       "conflicts_with": [],
       "added_version": "v4.69",
@@ -22426,10 +22589,15 @@
     {
       "fact_id": "f_1296",
       "claim": "Harry Ballantyne authored 'A Short History of the Canadian Y.M.C.A. 1851-1944,' prepared for the Canadian YMCA Study Committee. A copy is held on the Internet Archive, uploaded by Concordia University Records Management.",
-      "sources": ["src_ia_ballantyne_ymca"],
+      "sources": [
+        "src_ia_ballantyne_ymca"
+      ],
       "confidence": "stated",
       "category": "sources",
-      "entities": ["Harry Ballantyne", "Canadian YMCA"],
+      "entities": [
+        "Harry Ballantyne",
+        "Canadian YMCA"
+      ],
       "date_ref": "1944",
       "conflicts_with": [],
       "added_version": "v4.69",
@@ -22438,10 +22606,14 @@
     {
       "fact_id": "f_1297",
       "claim": "A 'Historical Sketch of the YMCA of the City of Montreal' was presented at the YMCA Jubilee Celebration in 1901, covering the YMCA's history from 1851 to 1901. A copy is on the Internet Archive, uploaded by Concordia University Records Management.",
-      "sources": ["src_ia_historical_sketch_1901"],
+      "sources": [
+        "src_ia_historical_sketch_1901"
+      ],
       "confidence": "stated",
       "category": "sources",
-      "entities": ["YMCA Montreal"],
+      "entities": [
+        "YMCA Montreal"
+      ],
       "date_ref": "1901",
       "conflicts_with": [],
       "added_version": "v4.69",
@@ -22450,10 +22622,16 @@
     {
       "fact_id": "f_1298",
       "claim": "A second CFCF radio broadcast about Kamp Kanawana, dated June 10, 1939, is available on the Internet Archive (identifier: 1939-06-10-kamp-kanawana-broadcast-station-cfcf). This is distinct from the June 26, 1941 broadcast already documented. Both were uploaded by Concordia University Records Management from the YMCA of Montreal fonds.",
-      "sources": ["src_ia_cfcf_1939"],
+      "sources": [
+        "src_ia_cfcf_1939"
+      ],
       "confidence": "stated",
       "category": "media_and_publications",
-      "entities": ["CFCF", "Kamp Kanawana", "Concordia University Archives"],
+      "entities": [
+        "CFCF",
+        "Kamp Kanawana",
+        "Concordia University Archives"
+      ],
       "date_ref": "1939-06-10",
       "conflicts_with": [],
       "added_version": "v4.69",
@@ -22462,10 +22640,16 @@
     {
       "fact_id": "f_1299",
       "claim": "The annual 'games' at Camp Kanawana were inspired by YMCA Camp Pine Crest (Muskoka, Ontario) and have been held every year since approximately 1948. The 78th edition of the games is scheduled for 2025.",
-      "sources": ["src_ymca_kanawana_history"],
+      "sources": [
+        "src_ymca_kanawana_history"
+      ],
       "confidence": "stated",
       "category": "traditions",
-      "entities": ["Camp Kanawana", "Camp Pine Crest", "YMCA"],
+      "entities": [
+        "Camp Kanawana",
+        "Camp Pine Crest",
+        "YMCA"
+      ],
       "date_ref": "c.1948",
       "conflicts_with": [],
       "added_version": "v4.69",
@@ -22474,10 +22658,16 @@
     {
       "fact_id": "f_1300",
       "claim": "YMCA Camp Pine Crest was founded in 1910, is now part of the YMCA of Greater Toronto, and is located on 650 acres of Muskoka wilderness on three lakes. It is one of Canada's earliest overnight camps and focuses on traditional canoe tripping. A history book, 'Lumbermen & Voyageurs: The YMCA Pine Crest Story,' has been published about the camp.",
-      "sources": ["src_ymca_gta_pine_crest"],
+      "sources": [
+        "src_ymca_gta_pine_crest"
+      ],
       "confidence": "stated",
       "category": "inter-camp",
-      "entities": ["Camp Pine Crest", "YMCA of Greater Toronto", "Muskoka"],
+      "entities": [
+        "Camp Pine Crest",
+        "YMCA of Greater Toronto",
+        "Muskoka"
+      ],
       "date_ref": "1910",
       "conflicts_with": [],
       "added_version": "v4.69",
@@ -22486,10 +22676,16 @@
     {
       "fact_id": "f_1301",
       "claim": "The Pine Crest Games at YMCA Camp Pine Crest are a two-day event held on the last Tuesday and Wednesday of each summer, involving competitions between two teams: the Lumbermen and the Voyageurs. This is the model for Kanawana's L&V Games, confirming the oral history that the tradition originated at Pine Crest.",
-      "sources": ["src_ymca_gta_blog_games"],
+      "sources": [
+        "src_ymca_gta_blog_games"
+      ],
       "confidence": "stated",
       "category": "traditions",
-      "entities": ["Camp Pine Crest", "L&V Games", "Camp Kanawana"],
+      "entities": [
+        "Camp Pine Crest",
+        "L&V Games",
+        "Camp Kanawana"
+      ],
       "date_ref": null,
       "conflicts_with": [],
       "added_version": "v4.69",
@@ -22498,10 +22694,19 @@
     {
       "fact_id": "f_1302",
       "claim": "YMCA Camp Wanakita was founded in 1953 on Koshlong Lake near Haliburton, Ontario, by the YMCA of Hamilton. Keith Smith was the first director, chosen to find a 'Northwoods property.' George Jones and YMCA colleagues chose the Koshlong Lake site. The name 'Wanakita' was derived from Smith's experience at Camp Kitchikewana, where Kitchikewana was home to Wanakita Beach. First season: 373 boys, 38 staff, $18,882 budget. The camp replaced Camp Erie Heights (Lake Erie), itself a replacement for Camp Tekahoinwake (Grand River). Now over 1,000 acres, YMCA Hamilton-Burlington-Brantford.",
-      "sources": ["src_wikipedia_wanakita", "src_glen_herbert_wanakita"],
+      "sources": [
+        "src_wikipedia_wanakita",
+        "src_glen_herbert_wanakita"
+      ],
       "confidence": "stated",
       "category": "inter-camp",
-      "entities": ["Camp Wanakita", "Keith Smith", "George Jones", "YMCA Hamilton", "Camp Kitchikewana"],
+      "entities": [
+        "Camp Wanakita",
+        "Keith Smith",
+        "George Jones",
+        "YMCA Hamilton",
+        "Camp Kitchikewana"
+      ],
       "date_ref": "1953",
       "conflicts_with": [],
       "added_version": "v4.70",
@@ -22510,10 +22715,17 @@
     {
       "fact_id": "f_1303",
       "claim": "YMCA Camp Kitchikewana was founded in 1919 on Beausoleil Island in Georgian Bay Islands National Park, Honey Harbour, Ontario. Operated by YMCA of Simcoe/Muskoka. Over 105 years of continuous operation. The camp provided the name origin for Camp Wanakita (from 'Wanakita Beach' at Kitchikewana). Listed alongside Kanawana in OCA 'Y camps' records.",
-      "sources": ["src_ymca_simcoe_kitchikewana"],
+      "sources": [
+        "src_ymca_simcoe_kitchikewana"
+      ],
       "confidence": "stated",
       "category": "inter-camp",
-      "entities": ["Camp Kitchikewana", "Beausoleil Island", "Camp Wanakita", "YMCA Simcoe/Muskoka"],
+      "entities": [
+        "Camp Kitchikewana",
+        "Beausoleil Island",
+        "Camp Wanakita",
+        "YMCA Simcoe/Muskoka"
+      ],
       "date_ref": "1919",
       "conflicts_with": [],
       "added_version": "v4.70",
@@ -22522,10 +22734,17 @@
     {
       "fact_id": "f_1304",
       "claim": "YMCA Hayo-Went-Ha Camps (founded 1904, Central Lake, Michigan) use 'Woodsmen' and 'Voyageurs' as program group names, paralleling the 'Lumbermen vs Voyageurs' tradition at YMCA Camp Pine Crest and Camp Kanawana. This suggests the L&V/Woodsmen-Voyageurs division was a wider YMCA camp pattern, not unique to Pine Crest.",
-      "sources": ["src_aca_hayowentha_programs"],
+      "sources": [
+        "src_aca_hayowentha_programs"
+      ],
       "confidence": "inferred",
       "category": "traditions",
-      "entities": ["YMCA Hayo-Went-Ha Camps", "L&V Games", "Camp Pine Crest", "Camp Kanawana"],
+      "entities": [
+        "YMCA Hayo-Went-Ha Camps",
+        "L&V Games",
+        "Camp Pine Crest",
+        "Camp Kanawana"
+      ],
       "date_ref": null,
       "conflicts_with": [],
       "added_version": "v4.70",
@@ -22534,10 +22753,16 @@
     {
       "fact_id": "f_1305",
       "claim": "Stuart McLean's personal and literary archive is housed at McMaster University, including manuscripts, correspondence, photographs, fan mail, sound recordings, and set pieces from live Vinyl Cafe performances. This archive is a potential source for Camp Kanawana materials from McLean's five summers (1969-1975).",
-      "sources": ["src_samaritanmag_mclean"],
+      "sources": [
+        "src_samaritanmag_mclean"
+      ],
       "confidence": "stated",
       "category": "sources_and_archives",
-      "entities": ["Stuart McLean", "McMaster University", "Camp Kanawana"],
+      "entities": [
+        "Stuart McLean",
+        "McMaster University",
+        "Camp Kanawana"
+      ],
       "date_ref": null,
       "conflicts_with": [],
       "added_version": "v4.70",
@@ -22546,10 +22771,17 @@
     {
       "fact_id": "f_1306",
       "claim": "In the graphic novel 'Jane, le renard et moi' (2012), the protagonist Hélène dreads an English immersion class trip to Camp Kanawana (Lac Kanawana). On the second-to-last evening at camp, while sitting on the porch of her cabin, a fox approaches her — the pivotal encounter of the narrative. The camp's use as an English immersion destination in fiction reflects its real-world role hosting school groups.",
-      "sources": ["src_goodreads_jane_fox_me", "src_booknode_jane_fox"],
+      "sources": [
+        "src_goodreads_jane_fox_me",
+        "src_booknode_jane_fox"
+      ],
       "confidence": "stated",
       "category": "media",
-      "entities": ["Camp Kanawana", "Fanny Britt", "Isabelle Arsenault"],
+      "entities": [
+        "Camp Kanawana",
+        "Fanny Britt",
+        "Isabelle Arsenault"
+      ],
       "date_ref": "2012",
       "conflicts_with": [],
       "added_version": "v4.71",
@@ -22558,10 +22790,15 @@
     {
       "fact_id": "f_1307",
       "claim": "Camp YMCA Kanawana's Facebook page (facebook.com/YKanawana) contains a photo album labeled '1987-1994' with historical photographs from that era. The page is active with photos, videos, and reels documenting camp activities.",
-      "sources": ["src_facebook_kanawana"],
+      "sources": [
+        "src_facebook_kanawana"
+      ],
       "confidence": "stated",
       "category": "sources_and_archives",
-      "entities": ["Camp Kanawana", "Facebook"],
+      "entities": [
+        "Camp Kanawana",
+        "Facebook"
+      ],
       "date_ref": null,
       "conflicts_with": [],
       "added_version": "v4.71",
@@ -22570,10 +22807,14 @@
     {
       "fact_id": "f_1308",
       "claim": "Camp YMCA Kanawana held an Open House on Sunday, June 14, 2026, from 10:00 a.m. to 4:00 p.m.",
-      "sources": ["src_ymca_website"],
+      "sources": [
+        "src_ymca_website"
+      ],
       "confidence": "stated",
       "category": "events",
-      "entities": ["Camp Kanawana"],
+      "entities": [
+        "Camp Kanawana"
+      ],
       "date_ref": "2026-06-14",
       "conflicts_with": [],
       "added_version": "v4.71",
@@ -22582,10 +22823,15 @@
     {
       "fact_id": "f_1309",
       "claim": "Concordia University Archives hold a document titled 'Interpretation of scores for counselors participating in a research project at Kamp Kanawana' dated 1960, held in sub-series P0145/12B. This may be connected to the Hedley Dimock character education research conducted at YMCA camps in the mid-twentieth century.",
-      "sources": ["src_concordia_ymca_fonds_12b"],
+      "sources": [
+        "src_concordia_ymca_fonds_12b"
+      ],
       "confidence": "stated",
       "category": "sources_and_archives",
-      "entities": ["Camp Kanawana", "Concordia University Archives"],
+      "entities": [
+        "Camp Kanawana",
+        "Concordia University Archives"
+      ],
       "date_ref": "1960",
       "conflicts_with": [],
       "added_version": "v4.71",
@@ -22594,10 +22840,15 @@
     {
       "fact_id": "f_1310",
       "claim": "Audrey Dowse is a Camp Administrator Hall of Fame inductee (nominated 2022), recognized for her work with Camp YMCA Kanawana and YMCA Day Camps. She is listed on campadmin.org alongside camp administrators from YMCA camps across North America.",
-      "sources": ["src_campadmin_hall_of_fame"],
+      "sources": [
+        "src_campadmin_hall_of_fame"
+      ],
       "confidence": "stated",
       "category": "people",
-      "entities": ["Audrey Dowse", "Camp Kanawana"],
+      "entities": [
+        "Audrey Dowse",
+        "Camp Kanawana"
+      ],
       "date_ref": "2022",
       "conflicts_with": [],
       "added_version": "v4.72",
@@ -22606,10 +22857,15 @@
     {
       "fact_id": "f_1311",
       "claim": "Camp YMCA Kanawana hosted an Alumni, Family & Friends Weekend on September 7-9, 2018. The Pip Award is presented at this annual alumni weekend. This confirms the event is an annual tradition, not only held for milestone anniversaries.",
-      "sources": ["src_ymca_alumni_weekend_2018"],
+      "sources": [
+        "src_ymca_alumni_weekend_2018"
+      ],
       "confidence": "stated",
       "category": "events",
-      "entities": ["Camp Kanawana", "Pip Award"],
+      "entities": [
+        "Camp Kanawana",
+        "Pip Award"
+      ],
       "date_ref": "2018-09-07",
       "conflicts_with": [],
       "added_version": "v4.72",
@@ -22618,10 +22874,16 @@
     {
       "fact_id": "f_1312",
       "claim": "The Pine Crest Games at YMCA Camp Pine Crest have been held since 1940, making them one of the oldest continuous camp competition traditions in the YMCA system. The two-day event occurs on the last Tuesday and Wednesday of each summer. Staff and campers are randomly assigned to teams each year.",
-      "sources": ["src_ymcagta_pine_crest_games"],
+      "sources": [
+        "src_ymcagta_pine_crest_games"
+      ],
       "confidence": "stated",
       "category": "inter_camp",
-      "entities": ["YMCA Camp Pine Crest", "Pine Crest Games", "L&V Games"],
+      "entities": [
+        "YMCA Camp Pine Crest",
+        "Pine Crest Games",
+        "L&V Games"
+      ],
       "date_ref": "1940",
       "conflicts_with": [],
       "added_version": "v4.72",
@@ -22630,10 +22892,15 @@
     {
       "fact_id": "f_1313",
       "claim": "Marie-Pierre Lacasse holds the title 'Executive Camp Director' (directeur principal) of Camp YMCA Kanawana as of 2024. She is listed on the YMCA Quebec management team page and on LinkedIn as Directeur principal at Les YMCA du Québec.",
-      "sources": ["src_ymca_website"],
+      "sources": [
+        "src_ymca_website"
+      ],
       "confidence": "stated",
       "category": "people",
-      "entities": ["Marie-Pierre Lacasse", "Camp Kanawana"],
+      "entities": [
+        "Marie-Pierre Lacasse",
+        "Camp Kanawana"
+      ],
       "date_ref": "2024",
       "conflicts_with": [],
       "added_version": "v4.72",
@@ -22642,10 +22909,15 @@
     {
       "fact_id": "f_1314",
       "claim": "The municipality of Mille-Isles, where Camp Kanawana is located, was officially created on July 1, 1855, after detaching from the parish of Saint-Jérôme. It is named after the Mille-Isles Seigneury, originally granted in 1683 to Michel-Sidrac Dugué de Boisbriand (governor of Montreal 1670). Early settlement in the area dates to the 1830s.",
-      "sources": ["src_wikipedia_mille_isles"],
+      "sources": [
+        "src_wikipedia_mille_isles"
+      ],
       "confidence": "stated",
       "category": "geography",
-      "entities": ["Mille-Isles", "Camp Kanawana"],
+      "entities": [
+        "Mille-Isles",
+        "Camp Kanawana"
+      ],
       "date_ref": "1855",
       "conflicts_with": [],
       "added_version": "v4.72",
@@ -22654,10 +22926,16 @@
     {
       "fact_id": "f_1315",
       "claim": "The Laurentian mountains northwest of Montreal are within the traditional territory of the Anishinaabe (Algonquin) peoples. Unlike most of Ontario and the Prairies, Algonquin territory in this region has never been covered by a land-sharing treaty.",
-      "sources": ["src_morin_heights_indigenous"],
+      "sources": [
+        "src_morin_heights_indigenous"
+      ],
       "confidence": "stated",
       "category": "indigenous_history",
-      "entities": ["Laurentians", "Anishinaabe", "Algonquin"],
+      "entities": [
+        "Laurentians",
+        "Anishinaabe",
+        "Algonquin"
+      ],
       "date_ref": null,
       "conflicts_with": [],
       "added_version": "v4.72",
@@ -22666,10 +22944,16 @@
     {
       "fact_id": "f_1316",
       "claim": "The Pip Award is presented twice each year: first at camp during the summer (e.g., Carol Skinner on July 7; Marina Sharpe on August 2), and then again at the annual Alumni and Friends weekend in September. This dual presentation format is documented in YMCA Quebec press releases for the 2016 and 2018 awards.",
-      "sources": ["src_ymca_pip_skinner", "src_ymca_pip_sharpe"],
+      "sources": [
+        "src_ymca_pip_skinner",
+        "src_ymca_pip_sharpe"
+      ],
       "confidence": "stated",
       "category": "traditions",
-      "entities": ["Pip Award", "Camp Kanawana"],
+      "entities": [
+        "Pip Award",
+        "Camp Kanawana"
+      ],
       "date_ref": null,
       "conflicts_with": [],
       "added_version": "v4.72",
@@ -22678,10 +22962,16 @@
     {
       "fact_id": "f_1317",
       "claim": "The 2026 Camp Kanawana program 'Explorers Pioneers' serves girls and non-binary campers aged 11-12. Campers spend most days in the regular residential camp program while also preparing for a 3-4 day camping trip at Papineau-Labelle Wildlife Reserve, combining canoeing and hiking components.",
-      "sources": ["src_ymca_kanawana_explorers_pioneers_2026"],
+      "sources": [
+        "src_ymca_kanawana_explorers_pioneers_2026"
+      ],
       "confidence": "stated",
       "category": "programs",
-      "entities": ["Camp Kanawana", "Explorers Pioneers", "Papineau-Labelle Wildlife Reserve"],
+      "entities": [
+        "Camp Kanawana",
+        "Explorers Pioneers",
+        "Papineau-Labelle Wildlife Reserve"
+      ],
       "date_ref": "2026",
       "conflicts_with": [],
       "added_version": "v4.73",
@@ -22690,10 +22980,16 @@
     {
       "fact_id": "f_1318",
       "claim": "The 2026 Camp Kanawana program 'Adventurers Pathfinders' serves girls and non-binary campers aged 13-16 with a 4-6 day introductory canoe trip in La Vérendrye Wildlife Reserve (flat water) or on Quebec/Ontario rivers (white water). This mirrors the 'Adventurers Coureurs des Bois' program for boys and non-binary campers.",
-      "sources": ["src_ymca_kanawana_adventurers_pathfinders_2026"],
+      "sources": [
+        "src_ymca_kanawana_adventurers_pathfinders_2026"
+      ],
       "confidence": "stated",
       "category": "programs",
-      "entities": ["Camp Kanawana", "Adventurers Pathfinders", "La Vérendrye Wildlife Reserve"],
+      "entities": [
+        "Camp Kanawana",
+        "Adventurers Pathfinders",
+        "La Vérendrye Wildlife Reserve"
+      ],
       "date_ref": "2026",
       "conflicts_with": [],
       "added_version": "v4.73",
@@ -22702,13 +22998,369 @@
     {
       "fact_id": "f_1319",
       "claim": "The 2026 Camp Kanawana summer season runs from June 22 to August 14, with four 12-day sessions: June 22-July 3, July 6-17, July 20-31, and August 3-14. The 6-day Woodsmen program includes a trip to Sommet Saint-Sauveur water park (weather permitting).",
-      "sources": ["src_ymca_kanawana_programs_2026"],
+      "sources": [
+        "src_ymca_kanawana_programs_2026"
+      ],
       "confidence": "stated",
       "category": "programs",
-      "entities": ["Camp Kanawana", "Sommet Saint-Sauveur"],
+      "entities": [
+        "Camp Kanawana",
+        "Sommet Saint-Sauveur"
+      ],
       "date_ref": "2026",
       "conflicts_with": [],
       "added_version": "v4.73",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1320",
+      "claim": "The 109-page university paper 'Mary S. Edgar's Contribution to the Canadian Camping Movement' in the Sundridge-Strong Digital Collection was authored by Marilee C. Tisdall and dated 1978. The appendix is missing. Tisdall received the ICC (International Camping Congress) award from the CCA in 1983.",
+      "sources": [
+        "src_ourontario_mary_edgar"
+      ],
+      "confidence": "stated",
+      "category": "camping_movement",
+      "entities": [
+        "Mary Edgar",
+        "Marilee C. Tisdall",
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1978",
+      "conflicts_with": [],
+      "added_version": "4.74",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1321",
+      "claim": "Mary Susanne Edgar (May 23, 1889 – September 17, 1973) was born in Sundridge, Ontario. She graduated from the National Training School of the YWCA in New York City in 1915. From 1912-1914 she did First National Girls' Work for the YWCA in Canada. From 1915-1919 she was Girls' Work Secretary at YWCA Montreal and Director of Camp Oolahwan in the Laurentians.",
+      "sources": [
+        "src_ourontario_mary_edgar"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "Mary Edgar",
+        "Camp Oolahwan",
+        "YWCA Montreal"
+      ],
+      "date_ref": "1889-1973",
+      "conflicts_with": [],
+      "added_version": "4.74",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1322",
+      "claim": "Mary Edgar's papers are held at Queen's University Archives (primary holding). Trent University Archives holds photocopies as fonds 82-010 (15 cm, 1920-1970). SFU Digitized Collections hold Mary S. Edgar Papers (CPR-1-58). The book 'Legacy to a Camper: The Story of Mary S. Edgar' by Jocelyn Palm was published by the Canadian Camping Association in 1982.",
+      "sources": [
+        "src_ourontario_mary_edgar"
+      ],
+      "confidence": "stated",
+      "category": "sources",
+      "entities": [
+        "Mary Edgar",
+        "Queen's University",
+        "Trent University",
+        "Canadian Camping Association",
+        "Jocelyn Palm"
+      ],
+      "date_ref": "1982",
+      "conflicts_with": [],
+      "added_version": "4.74",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1323",
+      "claim": "The Quebec Camping Association fonds (85-013) at Trent University Archives contains 90 cm of textual records in 3 boxes, dated 1948-1982. Contents include correspondence, minutes of meetings, camp visitation reports, historical background papers from the standards committee, provincial board reports, and files from Miss F.M. Kelly. Most records are in French.",
+      "sources": [
+        "src_trent_qca_fonds_85_013"
+      ],
+      "confidence": "stated",
+      "category": "sources",
+      "entities": [
+        "Quebec Camping Association",
+        "Trent University",
+        "F.M. Kelly"
+      ],
+      "date_ref": "1948-1982",
+      "conflicts_with": [],
+      "added_version": "4.74",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1324",
+      "claim": "The QCA fonds (85-013) at Trent contains camp visitation reports covering 1962-1968, 1968-1971, and 1972-1978. Series 7 contains Provincial Standards Committee / Comité Provincial des Normes files (Miss F.M. Kelly). The OCA fonds accession 88-006 (Boxes 41-42) also contains QCA English Section materials: minutes, reports, correspondence, constitution (1972-1979).",
+      "sources": [
+        "src_trent_qca_fonds_85_013"
+      ],
+      "confidence": "stated",
+      "category": "sources",
+      "entities": [
+        "Quebec Camping Association",
+        "Ontario Camping Association",
+        "Trent University"
+      ],
+      "date_ref": "1962-1979",
+      "conflicts_with": [],
+      "added_version": "4.74",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1325",
+      "claim": "The Association des camps du Québec (ACQ) was founded in 1961. The QCA (formed 1937 as a CCA provincial unit) and the ACQ appear to be the same organizational lineage under English/French naming. Camp YMCA Kanawana is described as 'a founding member of the Association des camps du Québec.'",
+      "sources": [
+        "src_trent_qca_fonds_85_013"
+      ],
+      "confidence": "inferred",
+      "category": "institutional",
+      "entities": [
+        "Association des camps du Québec",
+        "Quebec Camping Association",
+        "Camp Kanawana"
+      ],
+      "date_ref": "1961",
+      "conflicts_with": [],
+      "added_version": "4.74",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1326",
+      "claim": "BAnQ numérique contains at least 38 digitized newspaper issues referencing Kanawana, across 8 newspapers: The Westmount Examiner (12 issues, 1935-2003), Le Petit Journal (10 issues, 1937-1999), Le Devoir (8 issues, 1989-2019), La Presse (2 issues), Le Droit (2 issues), Le Soleil (1 issue), The Sherbrooke Record (1 issue), The Huntingdon Gleaner (2 issues).",
+      "sources": [
+        "src_banq_numerique_general"
+      ],
+      "confidence": "stated",
+      "category": "sources",
+      "entities": [
+        "Camp Kanawana",
+        "BAnQ"
+      ],
+      "date_ref": "1933-2019",
+      "conflicts_with": [],
+      "added_version": "4.74",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1327",
+      "claim": "In 1937, the St-Jean Ambulance Association sent a qualified instructor to Camp Kanawana starting July 1 for a first aid course, as reported in Le Droit (Ottawa) on June 25, 1937.",
+      "sources": [
+        "src_banq_le_droit_1937_06_25"
+      ],
+      "confidence": "stated",
+      "category": "programs",
+      "entities": [
+        "Camp Kanawana",
+        "St-Jean Ambulance Association"
+      ],
+      "date_ref": "1937-07-01",
+      "conflicts_with": [],
+      "added_version": "4.74",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1328",
+      "claim": "A 'Mr. Buckley' had 'many years experience in camping, both at Kanawana and at other camps in Canada and the United States,' as reported in The Westmount Examiner, March 29, 1935.",
+      "sources": [
+        "src_banq_westmount_examiner_1935_03_29"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "Mr. Buckley",
+        "Camp Kanawana"
+      ],
+      "date_ref": "1935",
+      "conflicts_with": [],
+      "added_version": "4.74",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1329",
+      "claim": "In 1962, the YMCA planned 'bigger and better' citizenship training and educational programs for youth and young adults at Kamp Kanawana, its eight city branches, and Sir George Williams University, as reported in The Westmount Examiner, November 16, 1962.",
+      "sources": [
+        "src_banq_westmount_examiner_1962_11_16"
+      ],
+      "confidence": "stated",
+      "category": "programs",
+      "entities": [
+        "Kamp Kanawana",
+        "YMCA Montreal",
+        "Sir George Williams University"
+      ],
+      "date_ref": "1962",
+      "conflicts_with": [],
+      "added_version": "4.74",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1330",
+      "claim": "In summer 1971, Camp Kanawana in Saint-Sauveur hosted 'Noosphere,' an international development education simulation for approximately 100 young Canadians aged 16-19, organized by Perspective-Jeunesse, as reported in Le Soleil, July 7, 1971.",
+      "sources": [
+        "src_banq_le_soleil_1971_07_07"
+      ],
+      "confidence": "stated",
+      "category": "programs",
+      "entities": [
+        "Camp Kanawana",
+        "Perspective-Jeunesse",
+        "Noosphere"
+      ],
+      "date_ref": "1971",
+      "conflicts_with": [],
+      "added_version": "4.74",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1331",
+      "claim": "In 1976, Lovell's Montreal City Directory listed 'Kamp Kanawana' at 1441 Drummond, Montreal, H3G 1WS, telephone 849-5331. A second listing appeared in Chateauguay with telephone 692-2801.",
+      "sources": [
+        "src_banq_lovell_1976"
+      ],
+      "confidence": "stated",
+      "category": "administration",
+      "entities": [
+        "Kamp Kanawana",
+        "YMCA Montreal"
+      ],
+      "date_ref": "1976",
+      "conflicts_with": [],
+      "added_version": "4.74",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1332",
+      "claim": "Le Devoir covered Camp Kanawana during its 1994 centennial year in at least 3 issues: January 15, July 6, and October 24, 1994. Full article texts are on BAnQ numérique but require in-person or card-holder access.",
+      "sources": [
+        "src_banq_le_devoir_1994_centennial"
+      ],
+      "confidence": "stated",
+      "category": "chronology",
+      "entities": [
+        "Camp Kanawana",
+        "Le Devoir"
+      ],
+      "date_ref": "1994",
+      "conflicts_with": [],
+      "added_version": "4.74",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1333",
+      "claim": "On May 16, 2023, the superintendent's house at Camp YMCA Kanawana was destroyed by fire. The isolated building on Montée Sainte-Elmire in the Spring Valley sector was a total loss. No one was inside. 25 firefighters from Saint-Sauveur, Morin-Heights, and Sainte-Anne-des-Lacs responded. Other buildings were unaffected. Cause undetermined.",
+      "sources": [
+        "src_journal_acces_fire_2023"
+      ],
+      "confidence": "stated",
+      "category": "chronology",
+      "entities": [
+        "Camp Kanawana"
+      ],
+      "date_ref": "2023-05-16",
+      "conflicts_with": [],
+      "added_version": "4.74",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1334",
+      "claim": "Y camp counselors received three-day leader training at Camp Kanawana, as reported in The Sherbrooke Record, July 21, 1972.",
+      "sources": [
+        "src_banq_sherbrooke_record_1972_07_21"
+      ],
+      "confidence": "stated",
+      "category": "programs",
+      "entities": [
+        "Camp Kanawana"
+      ],
+      "date_ref": "1972",
+      "conflicts_with": [],
+      "added_version": "4.74",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1335",
+      "claim": "The YMCA Montreal annual report for 1966-67 is digitized on Internet Archive (identifier: sgw-ymca-annual-report-1966-67). It is the only YMCA Montreal annual report from the 1940s-1960s known to be digitized. Other digitized reports are from 1856, 1876, 1889-1890, 1891-1892, and 1993.",
+      "sources": [
+        "src_ia_ymca_annual_report_1966_67"
+      ],
+      "confidence": "stated",
+      "category": "sources",
+      "entities": [
+        "YMCA Montreal",
+        "Camp Kanawana"
+      ],
+      "date_ref": "1966-1967",
+      "conflicts_with": [],
+      "added_version": "4.74",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1336",
+      "claim": "Ross Bannerman directed Camp Pascobac (1951, recruited by Nelson McEwen) and Camp Stephens in Winnipeg (1956). He authored 'Report on Kamp Kanawana' (1969) held at Concordia Archives 12B01. He had a YMCA International Branch file (c.1968-1970) at Concordia and later became CEO of the Montreal YMCA in the late 1970s.",
+      "sources": [
+        "src_concordia_ymca_fonds_12B01"
+      ],
+      "confidence": "inferred",
+      "category": "people",
+      "entities": [
+        "Ross Bannerman",
+        "Camp Kanawana",
+        "Nelson McEwen",
+        "YMCA Montreal"
+      ],
+      "date_ref": "1951-1979",
+      "conflicts_with": [],
+      "added_version": "4.74",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1337",
+      "claim": "Concordia Archives sub-series 12B01 holds Kamp Kanawana general administration records including: season reports, committee minutes, camp director correspondence, Dave Twynam correspondence. Sub-series 12B04 holds brochures from 1950, 1959, 1960s, 1964, 1965. Sub-series 14D03 contains the YMCA Montreal annual reports. Sub-series 14D10 contains Nelson McEwen correspondence (1941-1945).",
+      "sources": [
+        "src_concordia_ymca_fonds_12B01"
+      ],
+      "confidence": "stated",
+      "category": "sources",
+      "entities": [
+        "Concordia University",
+        "Camp Kanawana",
+        "YMCA Montreal"
+      ],
+      "date_ref": "1941-1970",
+      "conflicts_with": [],
+      "added_version": "4.74",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1338",
+      "claim": "A 'Kanawana Reminiscence (of 1948)' by Ben T. Hannah (written 1989) is held at Concordia Archives, sub-series 12B01. Hannah was a camper or staff member in 1948.",
+      "sources": [
+        "src_concordia_ymca_fonds_12B01"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "Ben T. Hannah",
+        "Camp Kanawana"
+      ],
+      "date_ref": "1948",
+      "conflicts_with": [],
+      "added_version": "4.74",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1339",
+      "claim": "The University of Minnesota Kautz Family YMCA Archives holds 'YMCA in Canada records, 1851-1989' which includes records from the Montreal YMCA era when Canadian national administrative headquarters were located in Montreal (before formation of the National Council of YMCAs of Canada in 1912).",
+      "sources": [
+        "src_canadiana_ymca_reports"
+      ],
+      "confidence": "stated",
+      "category": "sources",
+      "entities": [
+        "YMCA Montreal",
+        "University of Minnesota"
+      ],
+      "date_ref": "1851-1989",
+      "conflicts_with": [],
+      "added_version": "4.74",
       "added_by": "ralph_loop"
     }
   ]

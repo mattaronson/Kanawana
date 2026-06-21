@@ -1506,3 +1506,244 @@ Systematic analysis of all 1,281 facts against all 47 articles:
 **Assessment**: Web research remains thoroughly exhausted. All remaining knowledge gaps require physical archive access (Concordia P0145, McMaster McLean fonds) or operator oral history input.
 
 **Final state**: KB v4.73, 1,335 facts (all tracked), 408 sources, 47 articles (46 E1-reviewed, 1 stub). 0 orphan facts. 162 priorities (121 completed, 38 blocked, 3 pending→completed).
+
+---
+
+## Campaign 11: Re-attempt of Blocked Priorities (2026-06-21)
+
+**Session**: Re-attempt of p_077, p_088, p_089, p_090, p_159 — five previously blocked research priorities.
+
+### p_077: Mary Edgar University Paper (Sundridge-Strong Digital Collection)
+**Status**: COMPLETED — paper author and date identified; full text remains inaccessible.
+**Searches**: 16 web searches, 11 WebFetch attempts (all 403)
+**Key findings**:
+1. Paper author identified: **Marilee C. Tisdall** (1978). Was previously "unknown."
+2. Tisdall received ICC award from CCA in 1983.
+3. Mary Susanne Edgar (May 23, 1889 – September 17, 1973) full biography confirmed.
+4. Archival holdings: Queen's University (primary), Trent 82-010 (photocopies), SFU CPR-1-58.
+5. Book: "Legacy to a Camper" by Jocelyn Palm (1982, CCA publisher) — available on Internet Archive.
+6. No direct Mary Edgar-Kanawana connection found. Indirect: Edgar was YWCA Montreal Girls' Work Secretary (1915-1919) concurrent with Kanawana.
+7. CORRECTION: Mary Edgar did NOT found Camp Oconto (that was Ferna Halliday, 1924). Edgar founded Camp Oolahwan (1917) and Glen Bernard Camp (1922).
+**New facts**: f_1320-f_1322 (3 facts)
+
+### p_088: McCord Museum C387 — Kamp Kanawana
+**Status**: COMPLETED — metadata clarified; images remain inaccessible.
+**Searches**: 35+ web searches, 12+ WebFetch attempts (all 403)
+**Key findings**:
+1. C387 is a **postal card** (not a photo collection), dated c.1930.
+2. Artefacts Canada identifier: MCCD202639.
+3. Second related McCord item: MCCD198988 (classified as "Photograph").
+4. Associated with Bailey Brothers Company Limited (publisher, active before 1898).
+5. Image marked "Not Available" in online database.
+6. Museum contact: reference.mccord@mccord-stewart.ca
+**Updated**: f_0950 (corrected), src_mccord_c387 (enriched)
+
+### p_089: Trent QCA Fonds (85-013)
+**Status**: COMPLETED — finding aid detail extracted from Google snippets.
+**Searches**: 25+ web searches, 10+ WebFetch attempts (all 403)
+**Key findings**:
+1. 90 cm of records in 3 boxes, dated 1948-1982.
+2. Contents: correspondence, minutes, camp visitation reports, standards committee papers, provincial board reports, Miss F.M. Kelly files.
+3. Camp visitation report date brackets: 1962-1968, 1968-1971, 1972-1978.
+4. Series 7: Provincial Standards Committee / Comité Provincial des Normes.
+5. OCA fonds 88-006 Boxes 41-42 contain QCA English Section materials (1972-1979).
+6. ACQ founded 1961; confirmed as QCA successor under French naming.
+7. Camp Kanawana described as "founding member" of ACQ.
+**New facts**: f_1323-f_1325 (3 facts)
+
+### p_090: BAnQ Newspaper Search — MAJOR BREAKTHROUGH
+**Status**: COMPLETED — 38 newspaper issues across 8 newspapers found.
+**Searches**: 30+ web searches, 15+ WebFetch attempts (all 403)
+**Key finding**: Google indexes BAnQ OCR text, revealing Kanawana references invisible in earlier searches.
+
+**Newspapers confirmed on BAnQ with Kanawana references**:
+| Newspaper | Language | Issues | Date Range |
+|-----------|----------|--------|------------|
+| The Westmount Examiner | EN | 12 | 1935-2003 |
+| Le Petit Journal | FR | 10 | 1937-1999 |
+| Le Devoir | FR | 8 | 1989-2019 |
+| La Presse | FR | 2 | 1884(?), 1990 |
+| Le Droit (Ottawa) | FR | 2 | 1937, 2018 |
+| Le Soleil (Quebec City) | FR | 1 | 1971 |
+| The Sherbrooke Record | EN | 1 | 1972 |
+| The Huntingdon Gleaner | EN | 2 | 1933, 1949 |
+
+**New facts extracted from search snippets**:
+1. 1935: "Mr. Buckley" had years of Kanawana camping experience.
+2. 1937: St-Jean Ambulance Association first aid course at Kanawana (July 1).
+3. 1962: YMCA citizenship training planned at Kanawana, 8 city branches, SGW.
+4. 1971: "Noosphere" international development simulation for ~100 youth aged 16-19 by Perspective-Jeunesse.
+5. 1972: Y camp counselors received 3-day leader training at Kanawana.
+6. 1976: Lovell's Directory lists Kamp Kanawana at 1441 Drummond, Montreal; second listing in Chateauguay (tel. 692-2801).
+7. 1994: Le Devoir covered the centennial in 3 issues.
+8. 2023: Fire destroyed superintendent's house (total loss, 25 firefighters, no injuries).
+**New facts**: f_1326-f_1334 (9 facts), 10 new sources
+
+### p_159: YMCA Montreal Annual Reports 1940s-1960s
+**Status**: COMPLETED — critical discovery of 1966-67 report on Internet Archive.
+**Searches**: 30+ web searches, 25+ WebFetch attempts (all 403)
+**Key findings**:
+1. **1966-67 annual report IS on Internet Archive** (sgw-ymca-annual-report-1966-67). Only 1940s-1960s report digitized. Returns 403 to bots but may be accessible via browser.
+2. Complete list of digitized reports: 1856, 1876, 1889-1890, 1891-1892, 1966-67, 1993.
+3. Ross Bannerman: new lead for 1968-1973 gap. Directed Camp Pascobac (1951), Camp Stephens (1956), authored 1969 Kanawana report, later YMCA Montreal CEO.
+4. Ben T. Hannah wrote "Kanawana Reminiscence (of 1948)" (1989) at Concordia 12B01.
+5. Concordia 12B04 holds Kanawana brochures from 1950, 1959, 1960s, 1964, 1965.
+6. University of Minnesota Kautz Family YMCA Archives holds "YMCA in Canada records, 1851-1989."
+**New facts**: f_1335-f_1339 (5 facts), 2 new sources
+
+---
+
+**Campaign 11 totals**: 20 new facts (f_1320-f_1339), 12 new sources, 5 priorities completed (p_077, p_088, p_089, p_090, p_159). Updated f_0950 and multiple source records.
+
+**Revised assessment**: Web research is no longer fully exhausted. BAnQ numérique contains 38 newspaper issues with Kanawana references, readable with a BAnQ card or in-person visit. The 1966-67 YMCA annual report on Internet Archive should be downloaded via browser. The operator should prioritize: (1) BAnQ library card for remote newspaper access, (2) browser download of 1966-67 annual report, (3) Concordia email inquiry for 12B01 season reports 1947-1958.
+
+**Final state**: KB v4.74, 1,355 facts, 420 sources, 47 articles. 5 previously blocked priorities now completed.
+
+---
+
+## Session 12: Concordia Archives Re-Access Attempt (2026-06-21)
+
+### Campaign: Re-attempt Concordia AtoM Access (p_057)
+
+**Date:** 2026-06-21
+**Status:** ALL DIRECT ACCESS REMAINS BLOCKED; incremental new data via search snippets
+
+**URLs attempted — ALL returned HTTP 403 Forbidden:**
+
+| URL | Status | Notes |
+|-----|--------|-------|
+| concordia.accesstomemory.org/downloads/ymca-of-montreal-fonds-2.pdf | 403 | Finding aid PDF still blocked |
+| concordia.accesstomemory.org/ymca-of-montreal-fonds | 403 | Main fonds page |
+| concordia.accesstomemory.org/ymca-of-montreal-fonds-2 | 403 | Alternate fonds URL |
+| concordia.accesstomemory.org/ymca-of-montreal-fonds-2;rad?sf_culture=en | 403 | RAD format view |
+| concordia.accesstomemory.org/ymca-of-montreal-fonds-2;ead?sf_format=xml | 403 | EAD XML export |
+| concordia.accesstomemory.org/kamp-kanawana | 403 | 12B Kanawana sub-series |
+| concordia.accesstomemory.org/ymca-of-montreal-fonds/kamp-kanawana | 403 | Alt Kanawana URL |
+| concordia.accesstomemory.org/ymca-of-montreal-fonds;dc=12B | 403 | DC param style |
+| concordia.accesstomemory.org/camp-perrot | 403 | 12G Camp Perrot |
+| concordia.accesstomemory.org/ymca-of-montreal-fonds/camp-perrot | 403 | Alt Perrot URL |
+| concordia.accesstomemory.org/ymca-of-montreal-fonds/committees | 403 | 12A Committees |
+| concordia.accesstomemory.org/camp-becsies | 403 | 12D Camp Becsies |
+| concordia.accesstomemory.org/index.php/kamp-kanawana-the-experience-that-lasts-a-lifetime | 403 | Film item page |
+| concordia.accesstomemory.org/informationobject/browse?repos=399&... | 403 | Browse page |
+| concordia.accesstomemory.org/api/informationobjects?q=ymca | 403 | API endpoint |
+| concordia.accesstomemory.org/api/informationobjects?q=kanawana | 403 | API endpoint |
+| concordia.accesstomemory.org/oai?verb=ListRecords&metadataPrefix=oai_dc | 403 | OAI-PMH endpoint |
+| www.concordia.ca/offices/archives/ymca-fonds-sub-series-12A.html | 403 | Finding aid page |
+| www.concordia.ca/offices/archives/ymca-fonds-sub-sub-series-12B01.html | 403 | Finding aid page |
+| library.concordia.ca/find/special-collections/archival-fonds.php | 403 | Library catalog |
+| library.concordia.ca/find/special-collections/archives.php | 403 | Archives guide |
+| spectrum.library.concordia.ca/id/eprint/992763/ | 403 | McMorris thesis |
+| core.ac.uk/outputs/591919397/ | 403 | McMorris thesis mirror |
+| web.archive.org/web/2024/... (all Wayback URLs) | 403 | Wayback Machine blocked |
+| archivescanada.ca (search) | 403 | Canadian archives portal |
+| rdaq.banq.qc.ca (search) | 403 | Quebec archives network |
+
+**Root cause:** The 403 errors fall into two categories:
+1. **concordia.accesstomemory.org**: Server-side bot/scraper protection (likely Cloudflare WAF). Returns plain-text 403 regardless of user-agent or request format.
+2. **All other domains**: Network egress allowlist restriction in the execution sandbox. Error message confirms "Host not in allowlist."
+
+**Conclusion:** p_057 remains BLOCKED. The finding aid PDF and all AtoM pages are inaccessible to automated tools. Human browser access should work for concordia.ca and concordia.accesstomemory.org pages. The AtoM EAD XML export (`/ymca-of-montreal-fonds-2;ead?sf_format=xml`) would be especially valuable if downloaded manually — it contains the complete hierarchical finding aid in machine-readable format.
+
+### Alternate Access Routes Attempted
+
+**1. Google Search Snippet Extraction — PRODUCTIVE**
+Extended the existing cached extraction with new structural details:
+- Complete P0145 classification plan (15 series, series 01-14 now mapped)
+- New sub-series details: P0145/13 Special Events (13B Anniversaries, 13D Memorials, 13E Expo 1967)
+- Camp Becsies (12D): 3 cm textual records, 1929-1936 and 1960-1971
+- Les Voyageurs de la Vérendrye (12K): detailed item list (exploratory logs 1958, Lac Landron lease 1962-63, camper records 1967-1980)
+
+**2. Internet Archive P0145 Collection — ONE NEW HIGH-PRIORITY ITEM**
+Confirmed Concordia University Records Management has been actively uploading to IA (latest: Feb 2025). Items in `ymca-montreal-fonds` and `rma-concordia-publications` collections.
+- NEW: **YMCA Annual Report 1993** (`sgw-ymca-annual-report-1993`) — HIGH PRIORITY, centennial-era
+- NEW: YMCA Annual Report 1856 (`sgw-ymca-annual-report-1856`) — pre-camp era, low priority
+- NEW: YMCA Annual Report 1876 (`sgw-ymca-annual-report-1876`) — medium priority
+- All IA items 403-blocked from this sandbox but accessible via browser
+
+**3. University of Minnesota Kautz Family YMCA Archives — NEW ARCHIVAL LEAD**
+`archives.lib.umn.edu/repositories/7/resources/992` — "YMCA in Canada records" covering 1851-1989. Includes Boys and Youth Work series with Camping sub-series. Could contain Montreal YMCA camping materials not held at Concordia. Contact: kymca@umn.edu
+
+**4. ArchivesCanada.ca — NO RESULTS**
+Neither direct fetch nor Google site search returned P0145 descriptions. The YMCA Montreal fonds does not appear to be aggregated into the national archival portal.
+
+**5. RDAQ (Quebec archives network) — NO RESULTS**
+No YMCA Montreal descriptions found via Google search of rdaq.banq.qc.ca domain.
+
+### Campaign: Mabel C. Jamieson Research (p_074)
+
+**Date:** 2026-06-21
+**Status:** INCREMENTAL PROGRESS — two new leads, no breakthrough
+
+**Queries tried (30+):**
+- "Mabel Jamieson" YMCA Montreal → existing Camp Ouareau sources only
+- "Mabel C. Jamieson" Montreal → same
+- "Mabel Jamieson" obituary Montreal/Quebec → no obituary found
+- "Mabel Jamieson" Find A Grave → no match
+- "Mabel Jamieson" FamilySearch → **Mabel Grace Jamieson (1893-1966)** found (see below)
+- "Mabel Frances Jamieson" Guysborough obituary → wrong person (b.1940, Nova Scotia)
+- "Mabel Jamieson" "Pupils College" Richmond → null; "Pupils College" not identifiable
+- "Mabel Jamieson" YWCA "national student secretary" → no independent verification
+- "Mabel Jamieson" "Committee of the Sixteen" → no direct hit
+- "Committee of the Sixteen" Montreal 1919 → confirmed as "Comité des seize" moral reform committee (Wikipedia fr:Quartier du Red Light)
+- "Mabel C. Jamieson" died OR death 1960s-1980s → null
+- "Dorothy Percival" Camp Ouareau 1934 → confirmed as Jamieson's successor
+- Camp Ouareau director chronology → full succession mapped 1922-present
+- "Mabel Jamieson" Google Books/HathiTrust → null
+- Wikipedia "Mabel Jamieson" → redirects to NZ nurse (1881-1915), wrong person
+
+**New leads:**
+
+1. **FamilySearch: Mabel Grace Jamieson (1893-1966)** — ID L2Y3-FWD
+   - Dates fit perfectly: born 1893 → age 22 in 1915 (YWCA Secretary), age 29 in 1922 (founded camp), age 41 in 1934 (succeeded by Percival), died 1966 age 73
+   - Middle name "Grace" not contradicted by known "C." initial — but "C." and "Grace" don't match. Could be wrong person, or middle initial could be maiden name
+   - Page at ancestors.familysearch.org is 403-blocked from this sandbox
+   - **Requires manual browser verification** to confirm location (Montreal/Quebec) and any family details
+
+2. **Director succession confirmed:**
+   - Jamieson co-directed Camp Ouareau 1922-1923 with Halliday
+   - Jamieson sole director 1924-1933
+   - Dorothy Percival became director 1934, acquired site 1937
+   - This narrows Jamieson's Camp Ouareau tenure to 1922-1933/34
+
+3. **"Pupils College" in Richmond**: Unidentifiable institution. St. Francis College (Richmond, Quebec, 1854-1898) had a Normal School for teacher training — possible connection, but "Pupils College" not found as an institution name anywhere.
+
+4. **Committee of the Sixteen**: French Wikipedia confirms "Comité des seize" was a Montreal moral reform committee formed c.1918 to combat "commercialized vice." Produced a 1923 anti-drug film "Le pire fléau." Jamieson's membership in 1919 is consistent with this timeline.
+
+**YMCA vs YWCA ambiguity remains unresolved:**
+The claim that Jamieson was "secretary general of the YMCA of Montreal" still cannot be independently verified. The only source is the Camp Ouareau website/Wikipedia, which contains the chronological inconsistency (YWCA 1915, YMCA post-1918 studies). The title "secretary general" was used by the YMCA for its chief executive; it would be extremely unusual for a woman to hold this role in 1915-1920. More likely she held a role at the YWCA of Montreal, or was involved in the YMCA's women's auxiliary programs.
+
+5. **YWCA network context (from parallel agent research, 50+ additional queries):**
+   - Ferna Halliday was definitively "Secretary of the Christian Association of Young Women of Montreal" (YWCA Montreal) 1918-1921 — confirmed by YWCA Montreal history page and Camp Oolahwan centennial materials
+   - Mary Susanna Edgar was "Girls' Work Secretary of the Montreal YWCA" 1915-1919, founded Camp Oolahwan (YWCA camp) in 1917
+   - All three women (Edgar, Halliday, Jamieson) were in the same YWCA network — strongly supports hypothesis that Jamieson's "YMCA" claim is actually YWCA
+   - However, women DID hold staff positions at YMCAs in this era — cannot rule out genuine cross-organization involvement
+   - No independent verification of Jamieson at YMCA Montreal found across 80+ total queries
+
+6. **"Pupils College in Richmond"**: May be a mistranslation from French of an institution name (e.g., "École normale" or teacher training college in Richmond, Quebec). St. Francis College in Richmond, QC (1854-1898) had a Normal School for teacher training — closest match.
+
+7. **Camp Ouareau centennial (2022)**: May have produced historical materials with biographical details about Jamieson — potential research lead.
+
+**Assessment:** Online research exhausted per Phase 2 criteria (80+ queries across 8+ surfaces combined across all agents). The FamilySearch lead (Mabel Grace Jamieson 1893-1966) is the only actionable new finding and requires manual browser verification. All other biographical details require Concordia P0145 physical access, paid genealogy databases (Ancestry, Drouin), or YWCA Montreal archives. University of Minnesota Kautz Family YMCA Archives is a new potential source for verifying the YMCA secretary general claim.
+
+### New Archival Lead Documented
+
+**Kautz Family YMCA Archives, University of Minnesota**
+- URL: archives.lib.umn.edu/repositories/7/resources/992
+- Collection: "YMCA in Canada records" (1851-1989)
+- Relevant series: Boys and Youth Work → Camping sub-series
+- Context: Montreal YMCA was Canadian national HQ until 1912; records from this period may be here rather than at Concordia
+- Contact: Kautz Family YMCA Archives, Elmer L. Andersen Library, University of Minnesota
+- Status: Finding aid page 403-blocked but exists. Potential for remote reference requests.
+
+### Session 12 Summary
+
+| Metric | Value |
+|--------|-------|
+| URLs attempted | 30+ |
+| URLs returning 403 | 30+ (100% blocked) |
+| New facts added | 0 (no independently verifiable new information) |
+| New archival leads | 2 (U of Minnesota Kautz Archives, FamilySearch Mabel Grace Jamieson) |
+| New potential sources | 1 (YMCA Annual Report 1993 on IA) |
+| p_057 status | BLOCKED (unchanged) |
+| p_074 status | BLOCKED (unchanged, one new lead) |
