@@ -3200,11 +3200,17 @@
                   "article_id": "camp-perrot",
                   "title": "Camp Perrot",
                   "wiki_folder": "places",
-                  "status": "stub",
+                  "status": "draft",
                   "status_history": [
                         {
                               "status": "stub",
                               "at": "2026-03-15T14:00:00Z",
+                              "by": "auto",
+                              "task": "RESEARCH"
+                        },
+                        {
+                              "status": "draft",
+                              "at": "2026-06-21T15:00:00Z",
                               "by": "auto",
                               "task": "RESEARCH"
                         }
@@ -3216,7 +3222,9 @@
                         "f_0676",
                         "f_0871",
                         "f_0874",
-                        "f_0897"
+                        "f_0877",
+                        "f_0897",
+                        "f_0940"
                   ],
                   "sources_cited": [
                         "src_concordia_fonds",
@@ -3231,7 +3239,8 @@
                         "sources-index"
                   ],
                   "file_id": null,
-                  "word_count": 418
+                  "word_count": 418,
+                  "notes": "RALPH R1 complete (2026-06-21): 30+ web searches returned zero new facts. Article meets draft criteria (Overview summary, 3 content sections, 3 sources). All remaining open questions require physical Concordia Archives access (P0145/12G). BAnQ newspaper facts (f_1326-f_1339) checked — none mention Camp Perrot. Advanced stub→draft."
             },
             {
                   "article_id": "camp-oolahwan",

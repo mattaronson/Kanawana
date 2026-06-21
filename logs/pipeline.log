@@ -1918,3 +1918,10 @@ HYPOTHESIZE — Remaining productive research requires:
   - 3 new priorities added: p_163 (IA Annual Report 1993), p_164 (Kautz Archives), p_165 (FamilySearch verification)
   - Updated research-log.md with Session 12 campaign details
   - No new KB facts added (no independently verifiable new information)
+
+2026-06-21T15:00:00Z | RALPH CYCLE COMPLETE | camp-perrot: A→L→P→H (stub→draft)
+  - ANALYZE: Article has Overview (summary), Documentary Evidence, Connection to Kanawana = 3 content sections. 3 sources cited. 8 KB facts used (f_0330, f_0346, f_0676, f_0871, f_0874, f_0877, f_0897, f_0940). Meets draft criteria.
+  - LOOP-DECIDE: CONCLUDE. R1 exhausted (30+ web searches, zero new facts). No further retrieval possible without Concordia Archives physical access to P0145/12G.
+  - PROCESS: Advanced camp-perrot stub→draft in articles.json. Added f_0877, f_0940 to kb_facts_used (were cited in article but missing from tracker). Checked BAnQ newspaper facts f_1326-f_1339 — none reference Camp Perrot.
+  - HYPOTHESIZE: All 6 open questions require Concordia Archives P0145/12G (Camp Perrot sub-series) and P0145/12A (comparison documents). No new article stubs warranted. Camp Perrot next action: VERIFY (when archival access available).
+  - Updated article header: stub→draft. Updated articles.json status_history. Updated research-log.md.

@@ -1747,3 +1747,49 @@ The claim that Jamieson was "secretary general of the YMCA of Montreal" still ca
 | New potential sources | 1 (YMCA Annual Report 1993 on IA) |
 | p_057 status | BLOCKED (unchanged) |
 | p_074 status | BLOCKED (unchanged, one new lead) |
+
+---
+
+## Campaign 12: Camp Perrot RALPH Cycle Completion
+
+### Target: Camp Perrot (article: camp-perrot)
+**Date:** 2026-06-21
+**Phase:** RALPH R1 completion (Analyze → Loop-decide → Process → Hypothesize)
+**Status:** RALPH R1 CONCLUDED — stub advanced to draft
+
+### R1 Retrieve (completed earlier)
+- 30+ web searches across Google, Google Books, Google News Archive, Internet Archive, HathiTrust, BAnQ
+- Query terms included: "Camp Perrot" YMCA, "Camp Perrot" Montreal, "Camp Perrot" Quebec, "Île Perrot" YMCA camp, "Camp Perrot" boys camp, and numerous variants
+- All queries returned zero new facts
+- 8 existing KB facts form the complete online-discoverable record
+
+### Analyze
+- Assessed article against draft criteria:
+  - Summary: Yes (Overview section, 2 paragraphs)
+  - 2+ sections: Yes — Documentary Evidence, Connection to Kanawana, Open Questions = 3 content sections
+  - 3+ sources: Yes — src_concordia_fonds, src_concordia_atom_fonds, src_mcmorris_thesis
+  - Structure complete: Yes (article template followed)
+- 8 KB facts cited: f_0330, f_0346, f_0676, f_0871, f_0874, f_0877, f_0897, f_0940
+- BAnQ newspaper facts (f_1326-f_1339) checked for Camp Perrot references — none found
+- No contradictions or conflicts detected
+
+### Loop-decide
+- Decision: **CONCLUDE**
+- Rationale: Web sources exhausted. No further retrieval possible without physical/remote access to Concordia Archives sub-series P0145/12G (Camp Perrot dedicated records) and P0145/12A (comparison documents)
+
+### Process
+- Article status advanced: stub → draft
+- articles.json updated: status, status_history, kb_facts_used (added f_0877, f_0940), notes
+- Article header updated to reflect draft status
+
+### Hypothesize
+- All 6 open questions require Concordia Archives access:
+  1. Location (P0145/12G records would confirm or deny Île Perrot)
+  2. Operating dates (P0145/12G operational records)
+  3. Programming differences (P0145/12A comparison documents)
+  4. Capacity and age range (P0145/12G or 12A)
+  5. Relationship to Kanawana canoe trips (P0145/12A or 12K)
+  6. Reason for closure (P0145/12G late-period records)
+- No new article stubs warranted
+- Next action for camp-perrot: VERIFY (blocked on archival access)
+- The 1966-67 YMCA annual report on Internet Archive (f_1335) may contain Camp Perrot information — recommend checking when processing that source

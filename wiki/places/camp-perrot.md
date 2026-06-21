@@ -1,7 +1,7 @@
 # Camp Perrot
 
-*Status: stub | Sources: src_concordia_fonds, src_concordia_atom_fonds, src_mcmorris_thesis*
-*Last Updated: 2026-03-15 (RALPH R1 — web saturation, archival-only resolution)*
+*Status: draft | Sources: src_concordia_fonds, src_concordia_atom_fonds, src_mcmorris_thesis*
+*Last Updated: 2026-06-21 (RALPH R1 complete — stub→draft; web exhausted, archival-only resolution)*
 
 ## Overview
 
