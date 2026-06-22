@@ -2067,3 +2067,14 @@ HYPOTHESIZE — Remaining productive research requires:
   - KB: 5 new facts (f_1461-f_1465). 4 new sources. Total: ~1,427 facts, 492 sources.
 2026-06-22T19:00:01Z | ENRICH | notable-alumni: +Smillie Buckland entry, sources 38→40
 2026-06-22T19:00:02Z | STATE-SAVE | KB v4.83, 492 sources, 50 E1-reviewed articles
+
+2026-06-22T21:00:00Z | RALPH LOOP | Phase 2 biographical sweep (6 targets) + newspaper/media search
+  - Ran 8 background search agents in parallel (29+ searches biographical, 16+ searches media)
+  - Biographical results: Lalonde (null), Leduc (full career reconstruction), Hannah (null), Hanagan (new ACA/survey reports), Evans (null+unsourced), Wilkinson (null+unsourced)
+  - Media results: 5 Gazette articles on Newspapers.com (1897, 1913, 1918, 1942, 1962), Globe and Mail McLean profile, CFCF audio on IA, Flickr 4416 photos, 120th/125th anniversaries, pandemic closure details
+  - Added 23 facts (f_1466-f_1488), 9 sources (500 total), KB v4.84 with 1450 facts
+  - Updated wiki: kanawana-in-media.md, rh-hanagan.md, stuart-mclean.md, ymca-quebec-history.md (unsourced names flagged)
+  - Fixed sources.json double-brace JSON error
+  - David Leduc career: Kanawana → Oxfam-Lebanon (2000-02) → McGill ICAN (11yr) → Old Brewery Mission → Dev & Peace ED (2015-20) → Pathways to Education (current)
+  - Hanagan: title was "Montreal YMCA camp director" (broader); ACA report 1946, Survey Committee 1950
+  - Wilkinson and Evans names in ymca-quebec-history.md flagged as unsourced — require Concordia Archives verification

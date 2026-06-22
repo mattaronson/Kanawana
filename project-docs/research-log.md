@@ -2117,3 +2117,92 @@ Three waves of parallel research agents executed 15 research campaigns covering 
 4. **Peter Gossage** — McMorris thesis supervisor confirmed. Concordia History professor. Strengthens SGW-Concordia connection.
 
 5. **Centenary Journey at Trent**: Personnel data sheets, trip logs, area histories in OCA/CCA fonds. Physical access required.
+
+---
+
+## Campaign 17: Biographical Search Sweep — 6 Targets (2026-06-22)
+
+**Date**: 2026-06-22
+**Method**: 8 background web search agents running in parallel
+**Targets**: Ryan Lalonde, David Leduc, Ben T. Hannah, R.H. Hanagan, Eldon "Pop" Evans, Herbert Wilkinson
+
+### Ryan Lalonde (10 searches across Google, LinkedIn, Facebook)
+- All NULL. No public web connection to Camp Kanawana confirmed.
+- LinkedIn profile at Natural Resources Canada (ca.linkedin.com/in/ryan-lalonde-816370161) is the most plausible candidate but profile content inaccessible (403).
+- **Status: EXHAUSTED-WEB**
+
+### David Leduc (13 searches + fetch attempts)
+- **SIGNIFICANT FINDINGS**: Full career timeline reconstructed from Google search snippets.
+- Camp Kanawana: managed summer/winter programs, 75 employees, 800 participants. Dates not confirmed (likely late 1990s, before Oxfam-Lebanon March 2000).
+- Post-Kanawana: Oxfam-Quebec Lebanon (2000-02) → McGill ICAN (11 yrs) → Old Brewery Mission (Exec Dir Dev) → Development & Peace (Exec Dir, 2015-2020) → Pathways to Education Canada (Dir Philanthropy Quebec, current).
+- Education: Dalhousie (Int'l Dev), McGill MBA.
+- 14 new KB facts added (f_1478-f_1483).
+- **Status: EXHAUSTED-WEB (dates at Kanawana remain unconfirmed)**
+
+### Ben T. Hannah (15 searches)
+- All NULL. No obituary, genealogical record, or biographical info found.
+- Only confirmed: authored "Kanawana Reminiscence (of 1948)" in 1989, held in Concordia Archives P0145/12B01.
+- New finding: Kamp Kanawana reunion on April 7, 1989 (contemporaneous with reminiscence).
+- **Status: EXHAUSTED-WEB**
+
+### R.H. Hanagan (20 searches)
+- New finding: Title was "Montreal YMCA camp director" (broader than Kanawana alone).
+- New finding: Authored ACA Conference report to Camp Board of Management (1946).
+- New finding: Boys' Camping Committee Survey Committee report (1950) — extends documented activity to 1950.
+- New finding: "Comparison of Two Boys Camps" (Kanawana vs Camp Perrot, c.1945-46).
+- Full first name not confirmed. "Robert" is unverified.
+- No obituary found. **Status: EXHAUSTED-WEB**
+
+### Eldon "Pop" Evans (5+ searches)
+- All NULL. No biographical details found online.
+- **Status: EXHAUSTED-WEB**
+
+### Herbert Wilkinson (23 searches)
+- All NULL. IMPORTANT: The wiki claim about "Herbert C. Wilkinson" in ymca-quebec-history.md has NO source backing. No KB fact, no source record. Provenance unknown.
+- Rev. F. H. Wilkinson is a distinct person (correspondence 1935-36, 1943) in Concordia YMCA fonds.
+- **Status: EXHAUSTED-WEB / SOURCE VERIFICATION NEEDED**
+
+---
+
+## Campaign 18: Newspaper and Media Search (2026-06-22)
+
+**Date**: 2026-06-22
+**Method**: Background search agent, 16 searches across Google, Newspapers.com, CBC, Globe, podcast surfaces
+
+### Le Devoir
+- 2 searches. NULL. No Le Devoir articles about Kanawana surfaced in web search. BAnQ numérique required.
+
+### Montreal Gazette (Newspapers.com)
+- 5 Gazette pages confirmed on Newspapers.com:
+  - Jul 7, 1897: YMCA Summer Camp Kanawana (earliest known article)
+  - Jul 7, 1913: Boys leaving for Kamp Kanawana (already in KB)
+  - Jul 11, 1918: Largest attendance (110 members), first aid/basket-making/nature study
+  - Aug 5, 1942: Parade and Circus (already in KB via rh-hanagan article)
+  - Nov 17, 1962: Citizenship training programs
+
+### CBC News
+- 4 articles confirmed (all already in KB). One new low-priority article identified.
+
+### Globe and Mail
+- **NEW FIND**: "Stuart McLean's bent vision" (c.2003) — arts piece describing McLean's time at Kanawana as "at once magical and developmentally critical." Added to KB (f_1488) and Stuart McLean article.
+
+### Podcasts
+- NULL. No Kanawana-specific podcasts found.
+
+### 1993 Documentary (Cathy Reeves)
+- All details already in KB. No new information.
+
+### Additional Findings
+- Flickr: 4,416 photos on official Kanawana account
+- YouTube: "Kamp Kanawana" channel confirmed
+- 1941 CFCF broadcast: confirmed on IA (added April 29, 2024)
+- 120th anniversary reunion: Sep 5, 2014 at Victoria Hall
+- 125th anniversary: Family/Alumni/Friends Weekend 2019
+- YMCA Quebec 2025: day camps discontinued, Kanawana summer camp continues
+- Sean Day: regional director of camps (confirmed via CBC 2021)
+- COVID: Kanawana closed 2020 AND 2021 (250+ camper capacity constraint)
+
+### KB Impact
+- 23 new facts added (f_1466-f_1488)
+- 9 new sources added (500 total)
+- 5 wiki articles updated

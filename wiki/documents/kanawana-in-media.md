@@ -1,7 +1,7 @@
 # Kanawana in Media and Culture
 
-*Status: E1-reviewed | Sources: 12*
-*Last Updated: 2026-06-20 (1913 Gazette and 1967 Ottawa Journal coverage added)*
+*Status: E1-reviewed | Sources: 16*
+*Last Updated: 2026-06-22 (1897 and 1918 Gazette articles, CFCF audio, Flickr account, pandemic CBC coverage added)*
 
 ## Overview
 
@@ -25,11 +25,27 @@ Camp Kanawana has appeared in a range of media over its 130-year history, from p
 
 ## Journalism
 
-**1913 Montreal Gazette.** On July 7, 1913, *The Montreal Gazette* reported two detachments of Montreal YMCA boys leaving for Kamp Kanawana, with programmes adapted for specific ages including instruction in athletics, educational subjects, and Bible study.^11 This is the earliest known newspaper coverage of the camp.
+**1897 Montreal Gazette.** *The Montreal Gazette* published an article about YMCA Summer Camp Kanawana on July 7, 1897 — just three years after founding. This is the earliest known newspaper coverage of the camp.^13
+
+**1913 Montreal Gazette.** On July 7, 1913, *The Gazette* reported two detachments of Montreal YMCA boys leaving for Kamp Kanawana, with programmes adapted for specific ages including instruction in athletics, educational subjects, and Bible study.^11
+
+**1918 Montreal Gazette.** On July 11, 1918, *The Gazette* reported that Camp Kanawana had the largest attendance in its history with 110 members in camp, and that instruction included first aid work, basket-making, camp sanitation, wrestling, tumbling, and nature study.^13
+
+**1942 Montreal Gazette.** On August 5, 1942, *The Gazette* reported "Y.M.C.A. Boys Stage Parade and Circus" with "Games of Luck and Skill" entertaining Kanawana campers at a week-end festival.^13 (See also [[people/rh-hanagan|R.H. Hanagan]].)
+
+**1962 Montreal Gazette.** On November 17, 1962, *The Gazette* reported that citizenship training and educational programs for youth and young adults were planned at Kamp Kanawana.^13
 
 **1967 Ottawa Journal.** The *Ottawa Journal* covered the arrival of Kanawana's CCA Centenary Journey paddlers on August 10, 1967, as the ten-month, 5,283-mile canoe relay reached the National Capital Region.^12
 
 **2026 Postmedia feature.** "Rewilding childhood: How one summer camp is tackling nature-deficit disorder among Montreal youth," by Ursula Leonowicz (Postmedia Content Works, on behalf of YMCAs of Québec, March 4, 2026).^8 Featured camper Xavier Maclaren, who attended Kanawana for six summers.
+
+## Social Media and Online Presence
+
+**Flickr.** YMCA Camp Kanawana maintains an official Flickr photostream with over 4,400 photos documenting camp activities and history.^14
+
+**YouTube.** The camp operates a YouTube channel ("Kamp Kanawana") with promotional and archival video content.^15
+
+**COVID-19 coverage (CBC, 2021).** During the pandemic, Camp Kanawana's closure for 2020 and 2021 was covered extensively by CBC News. Sean Day, regional director of camps for YMCA Québec, told CBC that offering overnight services to more than 250 campers at once was not feasible with Kanawana's facilities under pandemic conditions.^16
 
 ## Stuart McLean and *The Vinyl Cafe*
 
@@ -64,6 +80,10 @@ Stuart McLean worked as a counsellor at Camp Kanawana for five summers beginning
 10. McMaster University Library, Stuart McLean fonds.
 11. "Kamp Kanawana." *The Montreal Gazette*, July 7, 1913.
 12. McMorris, Grace (2023). "An Experience That Lasts a Lifetime." MA thesis, Concordia University. Figure 3.5 (Ottawa Journal coverage).
+13. Montreal Gazette articles on Camp Kanawana (Newspapers.com collection): Jul 7 1897, Jul 11 1918, Aug 5 1942, Nov 17 1962. URL: https://www.newspapers.com/article/the-gazette-ymca-summer-camp-kanawana/35176458/
+14. YMCA Camp Kanawana Flickr account. URL: https://www.flickr.com/photos/kanawana/
+15. Kamp Kanawana YouTube channel. URL: https://www.youtube.com/c/KampKanawana
+16. CBC News (April 2021). "Summer sleepaway camps in jeopardy." URL: https://www.cbc.ca/news/canada/montreal/pandemic-summer-camps-quebec-overnight-1.5995429
 
 ### R3 Verification Notes
 

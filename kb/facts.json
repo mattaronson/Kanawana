@@ -1,8 +1,8 @@
 {
-  "version": "v4.83",
-  "kb_version": 4.83,
+  "version": "v4.84",
+  "kb_version": 4.84,
   "migrated_from": "3.3",
-  "fact_count": 1422,
+  "fact_count": 1450,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -24426,7 +24426,7 @@
     },
     {
       "fact_id": "f_1454",
-      "claim": "Mike Cohen, Montreal media personality, Côte Saint-Luc city councillor, and columnist for The Suburban newspaper, attended Camp Kanawana as a child and described it as his 'favourite' among the camps his parents sent him to.",
+      "claim": "Mike Cohen, Montreal media personality, C\u00f4te Saint-Luc city councillor, and columnist for The Suburban newspaper, attended Camp Kanawana as a child and described it as his 'favourite' among the camps his parents sent him to.",
       "sources": [
         "src_cohen_suburban_2015"
       ],
@@ -24636,6 +24636,404 @@
       "date_ref": "1993",
       "conflicts_with": [],
       "added_version": "v4.83",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1466",
+      "claim": "The Montreal Gazette published an article about YMCA Summer Camp Kanawana on July 7, 1897, just three years after the camp's founding.",
+      "sources": [
+        "src_newspapers_com_gazette"
+      ],
+      "confidence": "stated",
+      "category": "media",
+      "entities": [
+        "Camp Kanawana",
+        "Montreal Gazette"
+      ],
+      "date_ref": "1897-07-07",
+      "conflicts_with": [],
+      "added_version": "v4.84",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1467",
+      "claim": "In July 1913, detachments of Montreal YMCA boys left the city for Kamp Kanawana, with a programme for boys aged 3 to 17 that included instruction in athletics, educational subjects, and Bible study.",
+      "sources": [
+        "src_newspapers_com_gazette"
+      ],
+      "confidence": "stated",
+      "category": "programs",
+      "entities": [
+        "Camp Kanawana",
+        "Montreal Gazette"
+      ],
+      "date_ref": "1913-07-07",
+      "conflicts_with": [],
+      "added_version": "v4.84",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1468",
+      "claim": "In July 1918, Camp Kanawana had the largest attendance in its history with 110 members in camp, and instruction included first aid work, basket-making, camp sanitation, wrestling, tumbling, and nature study.",
+      "sources": [
+        "src_newspapers_com_gazette"
+      ],
+      "confidence": "stated",
+      "category": "programs",
+      "entities": [
+        "Camp Kanawana",
+        "Montreal Gazette"
+      ],
+      "date_ref": "1918-07-11",
+      "conflicts_with": [],
+      "added_version": "v4.84",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1469",
+      "claim": "In August 1942, YMCA boys staged a parade and circus at Kanawana, with 'Games of Luck and Skill' entertaining campers at a week-end festival.",
+      "sources": [
+        "src_newspapers_com_gazette"
+      ],
+      "confidence": "stated",
+      "category": "traditions",
+      "entities": [
+        "Camp Kanawana",
+        "Montreal Gazette"
+      ],
+      "date_ref": "1942-08-05",
+      "conflicts_with": [],
+      "added_version": "v4.84",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1470",
+      "claim": "In November 1962, citizenship training and educational programs for youth and young adults were planned at Kamp Kanawana.",
+      "sources": [
+        "src_newspapers_com_gazette"
+      ],
+      "confidence": "stated",
+      "category": "programs",
+      "entities": [
+        "Camp Kanawana",
+        "Montreal Gazette"
+      ],
+      "date_ref": "1962-11-17",
+      "conflicts_with": [],
+      "added_version": "v4.84",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1471",
+      "claim": "Sean Day was the regional director of camps for YMCA Qu\u00e9bec (as of 2021).",
+      "sources": [
+        "src_cbc_pandemic_camps_2021"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "Sean Day",
+        "YMCA Qu\u00e9bec"
+      ],
+      "date_ref": "2021",
+      "conflicts_with": [],
+      "added_version": "v4.84",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1472",
+      "claim": "Camp YMCA Kanawana was closed for a second consecutive year in 2021 due to COVID-19. Sean Day said offering overnight services to more than 250 campers at once didn't seem possible with the facilities. YMCA Qu\u00e9bec instead offered 10 day camps.",
+      "sources": [
+        "src_cbc_pandemic_camps_2021"
+      ],
+      "confidence": "stated",
+      "category": "chronology",
+      "entities": [
+        "Camp Kanawana",
+        "Sean Day",
+        "YMCA Qu\u00e9bec",
+        "COVID-19"
+      ],
+      "date_ref": "2021",
+      "conflicts_with": [],
+      "added_version": "v4.84",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1473",
+      "claim": "Camp YMCA Kanawana held a 120th anniversary reunion on September 5, 2014, at Victoria Hall, where alumni (former campers and staff) assembled to celebrate.",
+      "sources": [
+        "src_ymcaq_120th_reunion"
+      ],
+      "confidence": "stated",
+      "category": "chronology",
+      "entities": [
+        "Camp Kanawana",
+        "Victoria Hall"
+      ],
+      "date_ref": "2014-09-05",
+      "conflicts_with": [],
+      "added_version": "v4.84",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1474",
+      "claim": "Camp YMCA Kanawana held a 125th anniversary Family, Alumni, and Friends Weekend in 2019.",
+      "sources": [
+        "src_fb_125th_weekend"
+      ],
+      "confidence": "stated",
+      "category": "chronology",
+      "entities": [
+        "Camp Kanawana"
+      ],
+      "date_ref": "2019",
+      "conflicts_with": [],
+      "added_version": "v4.84",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1475",
+      "claim": "YMCA Camp Kanawana maintains a Flickr photostream with 4,416 photos documenting camp activities and history.",
+      "sources": [
+        "src_flickr_kanawana"
+      ],
+      "confidence": "stated",
+      "category": "media",
+      "entities": [
+        "Camp Kanawana",
+        "Flickr"
+      ],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "v4.84",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1476",
+      "claim": "A recording of the YMCA Kamp Kanawana radio broadcast on Station CFCF, dated June 26, 1941, is preserved on Internet Archive (added April 29, 2024).",
+      "sources": [
+        "src_ia_cfcf_broadcast_1941"
+      ],
+      "confidence": "stated",
+      "category": "media",
+      "entities": [
+        "Camp Kanawana",
+        "CFCF",
+        "Internet Archive"
+      ],
+      "date_ref": "1941-06-26",
+      "conflicts_with": [],
+      "added_version": "v4.84",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1477",
+      "claim": "As of fall 2025, YMCA Qu\u00e9bec will no longer offer day camps (including holiday and spring break camps), but Camp YMCA Kanawana summer camp continues to operate.",
+      "sources": [
+        "src_ymcaq_day_camps_end_2025"
+      ],
+      "confidence": "stated",
+      "category": "chronology",
+      "entities": [
+        "Camp Kanawana",
+        "YMCA Qu\u00e9bec"
+      ],
+      "date_ref": "2025",
+      "conflicts_with": [],
+      "added_version": "v4.84",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1478",
+      "claim": "David Leduc managed Camp Kanawana's summer and winter programs, including recruitment, training, and supervision of 75 employees, management of all programs and operational budgets, and overall safety and security of 800 camp participants. His LinkedIn profile title is 'Organisational Executive \u2014 Business Strategy and Development for impact driven organizations.'",
+      "sources": [
+        "src_linkedin_leduc"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "David Leduc",
+        "Camp Kanawana"
+      ],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "v4.84",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1479",
+      "claim": "David Leduc also held a role as Director of Philanthropy (Quebec) at Pathways to Education Canada / Passeport pour ma r\u00e9ussite Canada, per RocketReach.",
+      "sources": [
+        "src_linkedin_leduc"
+      ],
+      "confidence": "inferred",
+      "category": "people",
+      "entities": [
+        "David Leduc",
+        "Pathways to Education Canada"
+      ],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "v4.84",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1480",
+      "claim": "David Leduc's education includes an undergraduate degree in International Development from Dalhousie University (Halifax) and an MBA in Management from McGill University (2006-2011).",
+      "sources": [
+        "src_linkedin_leduc"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "David Leduc",
+        "Dalhousie University",
+        "McGill University"
+      ],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "v4.84",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1481",
+      "claim": "After Kanawana, David Leduc served as Oxfam-Quebec's Lebanon Coordinator for the 'Across Borders Project' (March 2000 \u2013 June 2002), managing programs in Palestinian refugee camps and securing $340,000 from international donors.",
+      "sources": [
+        "src_linkedin_leduc"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "David Leduc",
+        "Oxfam-Quebec"
+      ],
+      "date_ref": "2000-2002",
+      "conflicts_with": [],
+      "added_version": "v4.84",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1482",
+      "claim": "David Leduc was Director of Operations at McGill University's International Community Action Network (ICAN) for approximately 11 years, strengthening civil society in marginalized communities in the Middle East.",
+      "sources": [
+        "src_linkedin_leduc"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "David Leduc",
+        "McGill University",
+        "ICAN"
+      ],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "v4.84",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1483",
+      "claim": "David Leduc was appointed Executive Director of Development and Peace (Canadian Catholic Organization for Development and Peace) on July 28, 2015, replacing Michael Casey. He headed a team of 80 employees across Canada implementing programs in 30+ countries, and served until circa 2020.",
+      "sources": [
+        "src_linkedin_leduc"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "David Leduc",
+        "Development and Peace"
+      ],
+      "date_ref": "2015-07-28",
+      "conflicts_with": [],
+      "added_version": "v4.84",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1484",
+      "claim": "R. H. Hanagan's archival title was 'Montreal YMCA camp director' (not specifically 'Kanawana director' \u2014 his portfolio covered multiple YMCA camps). His full first name is not confirmed; 'Robert' is unverified.",
+      "sources": [
+        "src_concordia_ymca_fonds"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "R. H. Hanagan",
+        "YMCA Montreal"
+      ],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "v4.84",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1485",
+      "claim": "R. H. Hanagan authored a report to the Camp Board of Management on the American Camping Association Conference (1946) and a Boys' Camping Committee \u2014 Survey Committee report (1950), both held in Concordia's YMCA fonds (P0145/12A).",
+      "sources": [
+        "src_concordia_ymca_fonds"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "R. H. Hanagan",
+        "American Camping Association",
+        "Concordia University"
+      ],
+      "date_ref": "1946-1950",
+      "conflicts_with": [],
+      "added_version": "v4.84",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1486",
+      "claim": "R. H. Hanagan authored a 'Comparison of Two Boys Camps operated by Montreal YMCA' (comparing Kanawana and Camp Perrot), c.1945-46, held in Concordia's YMCA fonds.",
+      "sources": [
+        "src_concordia_ymca_fonds"
+      ],
+      "confidence": "stated",
+      "category": "places",
+      "entities": [
+        "R. H. Hanagan",
+        "Camp Kanawana",
+        "Camp Perrot"
+      ],
+      "date_ref": "1945-1946",
+      "conflicts_with": [],
+      "added_version": "v4.84",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1487",
+      "claim": "A Kamp Kanawana reunion took place on April 7, 1989, contemporaneous with Ben T. Hannah's 'Kanawana Reminiscence (of 1948)' document dated 1989.",
+      "sources": [
+        "src_concordia_ymca_fonds"
+      ],
+      "confidence": "inferred",
+      "category": "chronology",
+      "entities": [
+        "Camp Kanawana",
+        "Ben T. Hannah"
+      ],
+      "date_ref": "1989-04-07",
+      "conflicts_with": [],
+      "added_version": "v4.84",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1488",
+      "claim": "A Globe and Mail arts piece ('Stuart McLean's bent vision,' c.2003) described McLean's time as a counsellor at Camp Kanawana in his 20s as 'at once magical and developmentally critical.'",
+      "sources": [
+        "src_globe_mclean_bent_vision"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "Stuart McLean",
+        "Camp Kanawana",
+        "Globe and Mail"
+      ],
+      "date_ref": "2003",
+      "conflicts_with": [],
+      "added_version": "v4.84",
       "added_by": "ralph_loop"
     }
   ]

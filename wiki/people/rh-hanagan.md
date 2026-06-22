@@ -1,7 +1,7 @@
 # R.H. Hanagan
 
 *Status: E1-reviewed | Sources: src_mcmorris_thesis, src_concordia_fonds, src_concordia_atom_fonds, src_newspapers_gazette_1942, src_cfcf_1941*
-*Last Updated: 2026-06-11 (p_124 RALPH: polio-wave context added; full-name search null)*
+*Last Updated: 2026-06-22 (ACA conference report 1946 and Boys' Camping Committee 1950 confirmed; title clarification)*
 
 ## Overview
 
@@ -27,7 +27,7 @@ His detailed report on the outbreak is held in the Concordia Archives sub-series
 
 ## Broader YMCA Role
 
-The Concordia Archives (P0145/12A) place Hanagan's report alongside system-wide documents including a "Comparison of Two Boys Camps operated by Montreal YMCA" (comparing Kanawana and Camp Perrot, c.1945–46), a "Report of the Montreal YMCA Camps for Boys and Girls" (1946), and an ACA Conference report to the Camp Board of Management (1946).^2 ^4 This archival grouping suggests that Hanagan's portfolio extended beyond Kanawana to encompass the broader Montreal YMCA camping system.
+Hanagan authored a report to the Camp Board of Management on the American Camping Association Conference (1946) and a Boys' Camping Committee — Survey Committee report (1950), both held in Concordia's YMCA fonds (P0145/12A).^2 ^4 These sit alongside system-wide documents including a "Comparison of Two Boys Camps operated by Montreal YMCA" (comparing Kanawana and Camp Perrot, c.1945–46) and a "Report of the Montreal YMCA Camps for Boys and Girls" (1946). The 1950 Survey Committee report extends his documented activity to at least that year. This archival grouping confirms that Hanagan's portfolio extended beyond Kanawana to encompass the broader Montreal YMCA camping system.
 
 ## Open Questions
 
