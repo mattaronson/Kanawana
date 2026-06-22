@@ -2023,3 +2023,66 @@ Three waves of parallel research agents executed 15 research campaigns covering 
 9. CRE Laurentides "wilson-2" lake page — may be camp's Lake Wilson
 10. Oral history: motto transition, dam ceremony, Joanna Hode spelling
 
+
+---
+
+## Session 11: Pip Award Enrichment, McMorris Spectrum Discovery, New Alumnus (2026-06-22)
+
+### Campaign: Pip Award Biographical Research — Web Search Sweep
+
+**Date:** 2026-06-22
+**Status:** PRODUCTIVE — 7 new KB facts, 5 new sources, 1 new alumnus, 1 birth year correction
+
+**Searches conducted:** ~20 web searches + ~8 WebFetch attempts (all 403-blocked)
+
+| Query | Surface | Result |
+|-------|---------|--------|
+| Google Scholar "Camp Kanawana" academic paper | Google | McMorris thesis on Spectrum confirmed |
+| Raye Kass Concordia camp counsellor research | Google | ICC 2008 presentation found |
+| Mike Cohen "The Suburban" "Camp Kanawana" 2015 | Google | Cohen column covering Mosher Pip Award |
+| site:spectrum.library.concordia.ca "Kamp Kanawana" | Google | Full PDF URL confirmed |
+| Marina Sharpe "Pip" award biography | Google | Full bio from YMCA Quebec search snippets |
+| Chris Adam "Pip" award biography | Google | 10th recipient confirmed, Earthvalues Institute |
+| Terry Mosher Aislin Kanawana Pip award | Google | 8th recipient, camper 1952-53, OC, honors confirmed |
+| Carol Skinner Pip award Kanawana | Google | 9th recipient, full name Carol Sharman Skinner, counsellor/section director 1990-95 |
+| Hedley S. Dimock biography ACA | Google | Summer Camp Institutes 1930-1948, Lake Geneva campus |
+| Andrew Caddell Kanawana Pip Caddell son | Google | "My father did not seek the limelight" quote |
+| Camp Kanawana Pip award 2019 2020 2021 | Google | No press releases found for 2019-2023 |
+| Sam Lazarus Pip award Ghana cerebral malaria | Google | Born March 3, 1978 (corrects 1979) |
+| Phillips Birks Pip award 2014 | Google | Jeniene Philips Birks, broadcaster, Oral School for Deaf |
+| Derek Walsh YMCA camp CCA role | Google | NULL — no connection found |
+| Bruce Netherwood Pip award 2011 | Google | YMCA leader and author, no new details |
+| John Cleghorn Pip award 2012 | Google | No new details beyond existing KB |
+| HathiTrust Kanawana | Google | No HathiTrust results |
+| Google Books Camp Kanawana | Google | No new Google Books results |
+
+**Key Findings:**
+
+1. **McMorris thesis PDF** publicly available on Concordia Spectrum: `spectrum.library.concordia.ca/id/eprint/992763/1/McMorris_MA_F2023.pdf`. Also on CORE.ac.uk. Proxy-blocked in sandbox but accessible via browser. **High-value download target for operator.**
+
+2. **Mike Cohen** — new notable alumnus. Montreal media personality, The Suburban columnist, CJAD broadcaster, Côte Saint-Luc city councillor. Camp Kanawana camper (c.1960s), described Kanawana as his "favourite" camp. July 2015 column covered Mosher Pip Award.
+
+3. **Raye Kass ICC 2008**: Presented "Leadership on a hot tin roof: Applications for Camp Professionals" at 8th International Camping Congress, Quebec City, October 4-7, 2008.
+
+4. **Pip Award numbering confirmed**: Mosher=8th (2015), Skinner=9th (2016), Adam=10th (2017), Sharpe=11th (2018). No award in 2010. Orbinski=15th (2024), meaning exactly 3 awards were given 2019-2023.
+
+5. **Sam Lazarus birth year correction**: Born March 3, 1978 (not 1979). Legacy.com obituary is definitive source.
+
+6. **Hedley S. Dimock**: Summer Camp Institutes ran from 1930 to 1948 at Lake Geneva campus (previously only start year known).
+
+7. **Andrew Caddell quote**: "Like many of the greatest generation, my father did not seek the limelight for the things he did."
+
+**NULL Results:**
+- Derek Walsh YMCA/CCA connection: no web results
+- HathiTrust "Kanawana": no results
+- Google Books "Camp Kanawana": only already-known IA items
+- Pip Award 2019-2023 recipients: no YMCA Quebec press releases
+- Bruce Netherwood new details: nothing beyond existing KB
+- John Cleghorn new details: nothing beyond existing KB
+
+### KB and Article Updates
+- **KB**: v4.82 → v4.83. 7 new facts (f_1454-f_1460). 5 new sources. Total: ~1,422 facts, 488 sources.
+- **notable-alumni.md**: Mike Cohen entry added, source 38 added.
+- **pip-alumni-award.md**: Sam Lazarus birth year corrected (1979→1978).
+- **hedley-dimock.md**: Summer Camp Institutes date range expanded to 1930-1948.
+

@@ -1,6 +1,6 @@
 # Notable Alumni of Camp Kanawana
 
-*Status: E1-reviewed | Sources: 37*
+*Status: E1-reviewed | Sources: 38*
 *Last Updated: 2026-06-22*
 
 ## Overview
@@ -91,6 +91,10 @@ Career "seeded at" Camp Kanawana per his obituary, alongside Manor Road United C
 
 Attended Kamp Kanawana as a "junior summer camp" participant. Died November 14, 2011 in his 94th year.^36
 
+### Mike Cohen (fl. 1960s–present)
+
+Montreal media personality, Côte Saint-Luc city councillor, and columnist for *The Suburban*. Cohen attended Camp Kanawana as a child, describing it as his "favourite" among the series of camps his parents sent him to.^38 He wrote about the camp in his July 2015 column covering Terry Mosher's Pip Award ceremony, noting Mosher's return to Kanawana for the first time in more than 60 years.^38
+
 ### Xavier Maclaren (fl. 2020s)
 
 Attended Camp Kanawana for six summers before becoming a camp counsellor and canoe tripper.^16 Featured in a 2026 Postmedia article about the camp's approach to addressing nature-deficit disorder among Montreal youth.
@@ -157,3 +161,4 @@ Attended Camp Kanawana for six summers before becoming a camp counsellor and can
 35. Obituary, George Clouston, Legacy Remembers (2011). URL: https://www.legacy.com/us/obituaries/legacyremembers/george-clouston-obituary?id=42863406
 36. Obituary, Douglas Warren Marston, Toronto Star / Legacy.com (2011). URL: https://www.legacy.com/obituaries/thestar/obituary.aspx?n=douglas-warren-marston&pid=154662261
 37. Obituary comment, Peter Goddard (Legacy Remembers / Toronto Star, 2022); Wikipedia, "Peter Goddard (journalist)."
+38. Cohen, Mike. "Cohen Chatter." *The Suburban* (Montreal), July 26–August 2, 2015. Column covering Terry Mosher Pip Award ceremony and personal camp memories. URL: http://blog.thesuburban.com/2015_07_26_archive.html

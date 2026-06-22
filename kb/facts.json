@@ -1,8 +1,8 @@
 {
-  "version": "v4.82",
-  "kb_version": 4.78,
+  "version": "v4.83",
+  "kb_version": 4.83,
   "migrated_from": "3.3",
-  "fact_count": 1433,
+  "fact_count": 1422,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -24422,6 +24422,132 @@
       "date_ref": "2014",
       "conflicts_with": [],
       "added_version": "v4.82",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1454",
+      "claim": "Mike Cohen, Montreal media personality, Côte Saint-Luc city councillor, and columnist for The Suburban newspaper, attended Camp Kanawana as a child and described it as his 'favourite' among the camps his parents sent him to.",
+      "sources": [
+        "src_cohen_suburban_2015"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "Mike Cohen",
+        "Camp Kanawana",
+        "The Suburban"
+      ],
+      "date_ref": "c.1960s",
+      "conflicts_with": [],
+      "added_version": "v4.83",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1455",
+      "claim": "Hedley S. Dimock created and directed Summer Camp Institutes from 1930 to 1948 at the George Williams College Lake Geneva campus, examining the role of camps in 'character education' of children.",
+      "sources": [
+        "src_aca_dimock_bio",
+        "src_aca_100years"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "Hedley S. Dimock",
+        "George Williams College"
+      ],
+      "date_ref": "1930-1948",
+      "conflicts_with": [],
+      "added_version": "v4.83",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1456",
+      "claim": "The McMorris MA thesis (2023) full PDF is publicly available on Concordia Spectrum at https://spectrum.library.concordia.ca/id/eprint/992763/1/McMorris_MA_F2023.pdf. The thesis is also indexed on CORE.ac.uk.",
+      "sources": [
+        "src_spectrum_mcmorris"
+      ],
+      "confidence": "stated",
+      "category": "sources",
+      "entities": [
+        "Grace McMorris",
+        "Concordia University"
+      ],
+      "date_ref": "2023",
+      "conflicts_with": [],
+      "added_version": "v4.83",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1457",
+      "claim": "Raye Kass presented 'Leadership on a hot tin roof: Applications for Camp Professionals' at the 8th International Camping Congress, October 4-7, 2008, in Quebec City, QC.",
+      "sources": [
+        "src_kass_icc_2008"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "Raye Kass",
+        "International Camping Congress"
+      ],
+      "date_ref": "2008-10",
+      "conflicts_with": [],
+      "added_version": "v4.83",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1458",
+      "claim": "Andrew Caddell on his father Pip: 'Like many of the greatest generation, my father did not seek the limelight for the things he did. His grandson, James was very much that sort of person, and he wanted to have an award at camp that recognized those attributes of his grandfather.'",
+      "sources": [
+        "src_ymca_pip_skinner"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "Andrew Caddell",
+        "Philip Caddell",
+        "James Caddell",
+        "Pip Award"
+      ],
+      "date_ref": "2016",
+      "conflicts_with": [],
+      "added_version": "v4.83",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1459",
+      "claim": "The Pip Award was not given in 2010. Numbering confirms: Mosher (2015) was the 8th recipient, meaning 7 recipients preceded him in 8 years (2007-2014), confirming one skip year. Skinner (2016) was 9th, Adam (2017) 10th, Sharpe (2018) 11th.",
+      "sources": [
+        "src_ymca_pip_mosher",
+        "src_ymca_pip_skinner",
+        "src_ymca_pip_adam",
+        "src_ymca_pip_sharpe"
+      ],
+      "confidence": "inferred",
+      "category": "programs",
+      "entities": [
+        "Pip Award"
+      ],
+      "date_ref": "2010",
+      "conflicts_with": [],
+      "added_version": "v4.83",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1460",
+      "claim": "Carol Sharman Skinner (full middle name Sharman) served as counsellor and section director at Kanawana from 1990 to 1995. She later became Director of YMCA Camp Hayward in Cape Cod, Massachusetts. Diagnosed with ALS in 2013.",
+      "sources": [
+        "src_ymca_pip_skinner"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "Carol Skinner",
+        "Camp Kanawana",
+        "Camp Hayward"
+      ],
+      "date_ref": "1990-1995",
+      "conflicts_with": [],
+      "added_version": "v4.83",
       "added_by": "ralph_loop"
     }
   ]

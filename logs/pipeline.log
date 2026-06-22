@@ -2045,3 +2045,16 @@ HYPOTHESIZE — Remaining productive research requires:
 2026-06-22T15:30:01Z | ENRICH | notable-alumni: +Peter Goddard (1943-2022, Toronto Star music critic, 1972 Juno), sources 36→37
 2026-06-22T15:30:02Z | ENRICH | ymca-quebec-history: Audette start date corrected to Jan 6, 2025
 2026-06-22T15:30:03Z | STATE-SAVE | KB v4.82 (1415 facts), sources 483
+2026-06-22T18:00:00Z | RALPH-R | Phase 2 web research campaign: Pip Award biographical enrichment, McMorris thesis Spectrum URL, Raye Kass ICC 2008, Hedley S. Dimock institutes 1930-1948, Mike Cohen alumnus
+  - Searches: ~20 web searches, ~8 WebFetch attempts (all 403-blocked)
+  - Confirmed: McMorris thesis PDF publicly available on Concordia Spectrum
+  - Confirmed: Pip Award numbering (Mosher=8th, Skinner=9th, Adam=10th, Sharpe=11th, no award 2010)
+  - New person: Mike Cohen (The Suburban columnist, Kanawana camper, "favourite" camp)
+  - Enriched: Hedley S. Dimock Summer Camp Institutes 1930-1948
+  - Enriched: Raye Kass ICC 2008 conference presentation
+  - Fixed: Pip Award article Sam Lazarus birth year 1979→1978
+  - KB: v4.82 → v4.83 (7 new facts f_1454-f_1460). Sources: 483 → 488. Total facts: ~1422.
+2026-06-22T18:00:01Z | ENRICH | notable-alumni: +Mike Cohen entry, source 38 added
+2026-06-22T18:00:02Z | FIX | pip-alumni-award: Sam Lazarus birth year corrected (1979→1978)
+2026-06-22T18:00:03Z | ENRICH | hedley-dimock: Summer Camp Institutes date range expanded (1930→1930-1948)
+2026-06-22T18:00:04Z | STATE-SAVE | KB v4.83, 488 sources, 50 E1-reviewed articles

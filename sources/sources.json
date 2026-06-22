@@ -7729,7 +7729,71 @@
       "extraction_version": "v4.82",
       "reliability": "primary",
       "notes": "Mentions 'friends from Kamp Kanawana.' 403-blocked for full text."
+    },
+    {
+      "source_id": "src_cohen_suburban_2015",
+      "type": "periodical",
+      "title": "Mike Cohen, 'Cohen Chatter' column, The Suburban (Montreal), July 26-Aug 2, 2015",
+      "date": "2015-07-26",
+      "date_precision": "exact",
+      "origin": "web",
+      "origin_url": "http://blog.thesuburban.com/2015_07_26_archive.html",
+      "cache_path": null,
+      "char_count": 0,
+      "ingested_at": "2026-06-22T18:00:00Z",
+      "extracted": true,
+      "extraction_version": "v4.83",
+      "reliability": "primary",
+      "notes": "Cohen describes Kanawana as his favourite childhood camp. Column covers Mosher Pip Award ceremony. Full text 403-blocked."
+    },
+    {
+      "source_id": "src_spectrum_mcmorris",
+      "type": "thesis",
+      "title": "McMorris, Grace. 'An Experience That Lasts a Lifetime: Building Modernity, Man, and Nation at the YMCA of Montreal's Kamp Kanawana, 1894-1967.' MA thesis, Concordia University, 2023.",
+      "date": "2023",
+      "date_precision": "year",
+      "origin": "web",
+      "origin_url": "https://spectrum.library.concordia.ca/id/eprint/992763/1/McMorris_MA_F2023.pdf",
+      "cache_path": null,
+      "char_count": 0,
+      "ingested_at": "2026-06-22T18:00:00Z",
+      "extracted": false,
+      "extraction_version": null,
+      "reliability": "secondary",
+      "notes": "Full PDF publicly available on Concordia Spectrum. Also indexed on CORE.ac.uk. Chapters: active Christian citizenship, playing Indian, myth of the voyageur. 403-blocked in sandbox but accessible via browser."
+    },
+    {
+      "source_id": "src_kass_icc_2008",
+      "type": "web",
+      "title": "Raye Kass, 'Leadership on a hot tin roof: Applications for Camp Professionals.' 8th International Camping Congress, Quebec City, Oct 4-7, 2008.",
+      "date": "2008-10",
+      "date_precision": "exact",
+      "origin": "web",
+      "origin_url": null,
+      "cache_path": null,
+      "char_count": 0,
+      "ingested_at": "2026-06-22T18:00:00Z",
+      "extracted": true,
+      "extraction_version": "v4.83",
+      "reliability": "secondary",
+      "notes": "Conference presentation by Raye Kass at International Camping Congress. Title and date confirmed via web search."
+    },
+    {
+      "source_id": "src_aca_100years",
+      "type": "web",
+      "title": "ACA, 'His Story, Her Story, Our Story: 100 Years of the American Camp Association.'",
+      "date": "2010",
+      "date_precision": "year",
+      "origin": "web",
+      "origin_url": "https://www.acacamps.org/article/camping-magazine/his-story-her-story-our-story-100-years-american-camp-association",
+      "cache_path": null,
+      "char_count": 0,
+      "ingested_at": "2026-06-22T18:00:00Z",
+      "extracted": true,
+      "extraction_version": "v4.83",
+      "reliability": "secondary",
+      "notes": "Mentions Hedley S. Dimock, character education institutes, small-group-centered method."
     }
   ],
-  "source_count": 471
+  "source_count": 488
 }

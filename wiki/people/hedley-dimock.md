@@ -27,7 +27,7 @@ Dimock also co-authored *Talks to Counselors* (1939) with [[people/taylor-statte
 
 ### Academic Career
 
-Dimock became dean of YMCA College in Chicago (later George Williams College, originally founded 1884 as the Western Secretarial Institute on the shores of Lake Geneva, Wisconsin).^1 ^13 The college was "frequently referred to as 'the group work school'"; Dimock, Hendry, Everett Du Vall, and Harleigh B. Trecker were key faculty who "developed programmes linked to what they termed social group work."^13 In 1930, Dimock launched institutes on the role of camps in "character education" of children.^1
+Dimock became dean of YMCA College in Chicago (later George Williams College, originally founded 1884 as the Western Secretarial Institute on the shores of Lake Geneva, Wisconsin).^1 ^13 The college was "frequently referred to as 'the group work school'"; Dimock, Hendry, Everett Du Vall, and Harleigh B. Trecker were key faculty who "developed programmes linked to what they termed social group work."^13 From 1930 to 1948, Dimock created and directed a series of Summer Camp Institutes at the college's Lake Geneva campus, examining the role of camps in "character education" of children.^1
 
 His publications include *Rediscovering the Adolescent: A Study of Personality Development in Adolescent Boys* (1937, Association Press), *A Professional Outlook on Group Education* (1938, with Karl P. Zerfess and Charles E. Hendry), *The Supervision of Group Work and Recreation* (with Harleigh Bradley Trecker), *Administration of the Modern Camp* (1948, Association Press), and *Designing Education in Values* (1955, with Roy Sorenson).^1 ^13
 
