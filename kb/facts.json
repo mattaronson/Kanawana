@@ -1,5 +1,5 @@
 {
-  "version": "v4.81",
+  "version": "v4.82",
   "kb_version": 4.78,
   "migrated_from": "3.3",
   "fact_count": 1433,
@@ -24369,6 +24369,59 @@
       "date_ref": "1970",
       "conflicts_with": [],
       "added_version": "v4.81",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1451",
+      "claim": "Peter Darwin Goddard (July 13, 1943 -- March 23, 2022) was a Canadian music and culture journalist (Globe and Mail, Toronto Telegram, Toronto Star) who won the 1972 Juno Award as Journalist of the Year. An obituary commenter stated they 'knew Peter years ago at Kamp Kanawana' and described him as 'a warm-hearted and very kind man.'",
+      "sources": [
+        "src_goddard_obituary",
+        "src_goddard_wikipedia"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "Peter Goddard",
+        "Kamp Kanawana",
+        "Toronto Star"
+      ],
+      "date_ref": "c.1960s",
+      "conflicts_with": [],
+      "added_version": "v4.81",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1452",
+      "claim": "Pascale Audette was named President and CEO of the YMCAs of Qu\u00e9bec effective January 6, 2025 \u2014 the first woman to hold this position in the organization's 170-year history.",
+      "sources": [
+        "src_ymca_audette_2024"
+      ],
+      "confidence": "stated",
+      "category": "institutions",
+      "entities": [
+        "Pascale Audette",
+        "YMCAs of Quebec"
+      ],
+      "date_ref": "2025-01-06",
+      "conflicts_with": [],
+      "added_version": "v4.82",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1453",
+      "claim": "Karen Louise Deterding (d. August 22, 2014, age 57, of pancreatic cancer) was described in her obituary as being deeply missed by 'friends from Kamp Kanawana.'",
+      "sources": [
+        "src_deterding_obituary"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "Karen Deterding",
+        "Kamp Kanawana"
+      ],
+      "date_ref": "2014",
+      "conflicts_with": [],
+      "added_version": "v4.82",
       "added_by": "ralph_loop"
     }
   ]

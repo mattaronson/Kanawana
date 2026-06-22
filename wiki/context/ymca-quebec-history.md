@@ -36,7 +36,7 @@ In November 2019, the YMCAs of Quebec underwent a major strategic restructuring,
 
 ## Current Leadership
 
-Pascale Audette was appointed President and CEO of the YMCAs of Quebec in November 2024, the first woman to hold this role.^5
+Pascale Audette was named President and CEO of the YMCAs of Quebec effective January 6, 2025 — the first woman to hold this position in the organization's 170-year history.^5
 
 ## Connection to Kanawana
 

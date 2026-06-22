@@ -1,6 +1,6 @@
 # Notable Alumni of Camp Kanawana
 
-*Status: E1-reviewed | Sources: 36*
+*Status: E1-reviewed | Sources: 37*
 *Last Updated: 2026-06-22*
 
 ## Overview
@@ -74,6 +74,10 @@ Montreal marine surveyor and "ardent YMCA worker."^4 Elected Treasurer of the Ca
 ### Harold H. Potter (1914–2004)
 
 Harold Herbert Potter grew up in Little Burgundy, Montreal's English-speaking Black community, the son of émigrés from British Guiana.^33 He worked as a camp counsellor at Kamp Kanawana during summers while earning his B.A. at Sir George Williams College (1935–1939).^33 Potter edited The Georgian, the SGW student newspaper, in 1938–39 — a position later held by Mordecai Richler.^33 In 1947, he became the first Canadian-born Black sociologist hired by a Canadian post-secondary institution when appointed lecturer in Sociology at Sir George Williams College (now part of Concordia University).^33
+
+### Peter Goddard (1943--2022)
+
+Canadian music and culture journalist for the *Globe and Mail*, *Toronto Telegram*, and *Toronto Star*. Won the 1972 Juno Award as Journalist of the Year. An obituary commenter described knowing him at Kamp Kanawana as "a warm-hearted and very kind man."^37
 
 ### Rev. John Tudor Harries (d. Aurora, ON)
 
@@ -152,3 +156,4 @@ Attended Camp Kanawana for six summers before becoming a camp counsellor and can
 34. Obituary, John Tudor Harries, Dignity Memorial (Aurora, Ontario). URL: https://www.dignitymemorial.com/obituaries/aurora-on/john-harries-11761309
 35. Obituary, George Clouston, Legacy Remembers (2011). URL: https://www.legacy.com/us/obituaries/legacyremembers/george-clouston-obituary?id=42863406
 36. Obituary, Douglas Warren Marston, Toronto Star / Legacy.com (2011). URL: https://www.legacy.com/obituaries/thestar/obituary.aspx?n=douglas-warren-marston&pid=154662261
+37. Obituary comment, Peter Goddard (Legacy Remembers / Toronto Star, 2022); Wikipedia, "Peter Goddard (journalist)."
