@@ -947,8 +947,9 @@
       "blocking": false,
       "assigned_weight": "P2",
       "created_at": "2026-03-15T06:00:00Z",
-      "status": "blocked",
-      "result": "Re-attempted 2026-06-21 (80+ queries, 8+ surfaces, 4 parallel agents). Wikipedia chronological inconsistency confirmed. NEW LEADS: (1) FamilySearch Mabel Grace Jamieson 1893-1966 (ID L2Y3-FWD) — dates fit perfectly but middle name mismatch with 'C.' initial, requires manual browser verification; (2) YWCA context strengthened — co-founders Halliday and Edgar both confirmed YWCA staff, making YMCA claim more likely erroneous; (3) Director succession: Jamieson sole director 1924-1933, succeeded by Dorothy Percival 1934; (4) Comité des seize confirmed as real Montreal moral reform committee c.1918-1923; (5) 'Pupils College' possibly St. Francis College Normal School in Richmond QC. Resolution requires: Concordia P0145, U of Minnesota Kautz YMCA Archives, YWCA Montreal archives, or FamilySearch manual lookup."
+      "status": "exhausted-web",
+      "result": "Re-attempted 2026-06-22 (53 additional queries, 8+ surfaces). Total: 130+ queries across all sessions. KEY NEGATIVE FINDINGS: (1) Jamieson was NOT an OCA founding member — that was Halliday; (2) 'Pupils College in Richmond' is unidentifiable — St. Francis College in Richmond QC closed 1898, 20 years before Jamieson's alleged 1918 studies; (3) No obituary, Find A Grave, or genealogical record definitively links to Camp Ouareau founder; (4) FamilySearch 'Mabel Grace Jamieson (1893-1966)' middle name 'Grace' does not match 'C.' initial; (5) Baltimore Sun obituary for 'MABEL C.' (June 30, 1985) likely different person; (6) Comité des seize founding corrected to 1917. Resolution requires: Concordia P0145 physical access, paid genealogy databases, or direct Camp Ouareau contact.",
+      "blocking_reason": "All web sources exhausted. Requires physical archives or paid databases."
     },
     {
       "priority_id": "p_075",
@@ -2272,8 +2273,9 @@
       "priority_id": "p_180",
       "description": "Create Harold H. Potter (1914-2004) article stub — first Canadian-born Black sociologist, SGW student, Kanawana counsellor (1935-1939)",
       "topic": "Harold Potter biography",
-      "status": "blocked",
-      "blocking_reason": "no reason",
+      "status": "done",
+      "blocking_reason": null,
+      "completed_at": "2026-06-22T12:00:00Z",
       "created_at": "2026-06-22T11:30:32Z",
       "priority": 2,
       "task_type": "WRITE"
@@ -2282,18 +2284,20 @@
       "priority_id": "p_181",
       "description": "Create SGW/Concordia institutional connection article — Potter, Dimock, Seaman, Kass, Fine Arts partnership, CHRCS",
       "topic": "SGW-Concordia-Kanawana article",
-      "status": "blocked",
-      "blocking_reason": "no reason",
+      "status": "done",
+      "blocking_reason": null,
+      "completed_at": "2026-06-22T12:00:00Z",
       "created_at": "2026-06-22T11:30:32Z",
       "priority": 2,
       "task_type": "WRITE"
     },
     {
       "priority_id": "p_182",
-      "description": "Add oral history questions from research: (1) motto transition date, (2) dam ceremony description, (3) Joanna Hode spelling, (4) 1967 Centenary Journey participants, (5) 1994 centennial event format",
+      "description": "Add oral history questions from research: (1) motto transition date, (2) dam ceremony description, (3) Joanna Hode spelling, (4) 1967 Centenary Journey participants, (5) 1994 centennial event format, (6) Pip Award recipients 2019-2023",
       "topic": "Oral history instrument update",
-      "status": "blocked",
-      "blocking_reason": "no reason",
+      "status": "done",
+      "blocking_reason": null,
+      "completed_at": "2026-06-22T12:00:00Z",
       "created_at": "2026-06-22T11:30:32Z",
       "priority": 1,
       "task_type": "WRITE"

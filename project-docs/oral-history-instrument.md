@@ -81,6 +81,17 @@ Documented directors near your era: Dave Twynam (~1976/1979–1980 — archival 
 4. Section identity in your era — names, progression, rivalries, initiation customs?
 5. Any traditions you suspect were unique to Kanawana?
 
+## Section 8 — New Research Leads (added 2026-06-22) *(affects traditions-and-culture, directors-index, centennial-1967, pip-alumni-award)*
+
+These questions arise from recent research findings. Some address specific factual gaps; others seek confirmation of details where sources conflict.
+
+1. When did you first encounter the Latin motto "Non Nobis Solum" at Kanawana? Was it always used during your time, or was there a transition from an English motto?
+2. Can you describe the dam ceremony / dam opening? What did the dam look like? How was it "opened"? When did this tradition end?
+3. Can you confirm the spelling of the director from 1995--2000 -- was it Joanna Hode, Houde, Hoad, or another variant?
+4. Do you know who the 6 boys and 2 counsellors were on the 1967 CCA Centenary Journey from Deep River to Ottawa?
+5. Was there a formal centennial celebration in summer 1994? What happened -- was it on-site at camp, off-site, or both?
+6. Pip Award recipients 2019--2023: Who received the award in those years?
+
 ---
 
 ## After the Session

@@ -2020,3 +2020,10 @@ HYPOTHESIZE — Remaining productive research requires:
 2026-06-22T06:15:02Z | ARTICLE_UPDATE | Directors Index: Kate Taylor, Kevin Slezak, Marie-Pierre Lacasse entries enriched. Harold Potter SGW-Kanawana bridge section added. Sam Lazarus details added.
 2026-06-22T06:15:03Z | ARTICLE_UPDATE | The Kanawana Site: Lake Kanawana data refined (RSVL 573, Swim Guide, ABRINORD, corrected physical measurements).
 2026-06-22T06:15:04Z | RESEARCH_LOG | Updated research-log.md with full campaign summary.
+
+2026-06-22T12:00:00Z | WRITE | Created wiki/people/harold-potter.md (stub) — Harold H. Potter biography. KB facts: f_1269, f_1270, f_1271, f_1272, f_1409. Sources: src_wikipedia_harold_potter, src_wikipedia_potter. Added to articles.json. Priority p_180 marked done.
+2026-06-22T12:00:00Z | WRITE | Created wiki/context/sgw-concordia-connection.md (stub) — SGW/Concordia institutional connection to Kanawana. KB facts: f_0357, f_0600, f_0643, f_0658, f_0754, f_0877, f_1086, f_1269, f_1270, f_1409, f_1410, f_1411, f_1412. Added to articles.json. Priority p_181 marked done.
+2026-06-22T12:00:00Z | WRITE | Updated project-docs/oral-history-instrument.md — added Section 8 with 6 new questions (motto transition, dam ceremony, Hode spelling, 1967 Centenary Journey, 1994 centennial, Pip Award 2019-2023). Priority p_182 marked done.
+
+2026-06-22T13:10:00Z | RALPH-CONCLUDE | Mabel C. Jamieson research (p_074) — 53 additional queries this session (130+ total). Key findings: Jamieson NOT OCA founding member, Pupils College unidentifiable, Comité des seize founded 1917. Status: exhausted-web. 3 new KB facts (f_1434-f_1436), 2 new sources.
+2026-06-22T13:10:01Z | STATE-SAVE | KB v4.79 (1398 facts), sources 473, priorities p_074 exhausted-web
