@@ -16,7 +16,9 @@ The camp was administered from the YMCA Montreal's central branch downtown. Love
 ## The Three Lakes
 
 ### Lake Kanawana
-The camp's main lake, used for swimming, boating, and waterfront activities. The sand beach has a marked swimming area with canoes, kayaks, paddleboards, a water trampoline, a barge, and a rescue boat.^7 Environmental monitoring data from the Conseil régional de l'environnement des Laurentides (CREL) records the lake's surface area as 0.235 km², maximum depth 12.5 metres, mean depth 5.4 metres, altitude 318.4 metres above sea level, watershed area 5.17 km², and a water renewal time of 0.43 years.^16
+The camp's main lake, used for swimming, boating, and waterfront activities. The sand beach has a marked swimming area with canoes, kayaks, paddleboards, a water trampoline, a barge, and a rescue boat.^7 The camp beach is formally listed on Swim Guide (ID 5490) and the Great Lakes Guide as "Plage du camp Kanawana YMCA camp Beach," indicating ongoing water quality monitoring for swimming safety.^29
+
+Environmental monitoring data from the Conseil régional de l'environnement des Laurentides (CREL) records the lake's surface area as 0.2388 km², maximum depth 12.4 metres, mean depth 5.2–5.4 metres, volume 1,273,000 m³, altitude 318.4 metres above sea level, watershed area 5.17 km², and a water renewal time of 0.43 years.^16 ^29 The lake has RSVL monitoring station number 573, with data since at least 2013.^29 Lac Kanawana is in the Rivière du Nord watershed; the associated watershed organization is ABRINORD (Organisme de bassin versant de la rivière du Nord).^29
 
 ### Lake Wilson
 Described as "one of the most beautiful parts of the site," noted for its views, sunsets, and opportunities for stargazing.^8 Year-round private camp sites are available at Lake Wilson, providing a more secluded experience than the main site.^1 In 1923, Lac Wilson was among the hike destinations from camp.^6 According to oral history, the lake was originally called **Lac Desjardins** and was renamed after J.W. McConnell bought and donated it to the camp.^23 Pagé family genealogy research (2026) revealed that Magloire Pagé fils — whose family sold land to the YMCA circa 1910 — married **Olivine Desjardins** in 1875, providing a plausible genealogical origin for the "Desjardins" name as a reference to the landowner's family.^24 The Commission de toponymie du Québec established the name "Lac Wilson" by resolution in 1978. See [[people/j-w-mcconnell|J.W. McConnell]] for the donation history and [[people/page-family|the Pagé family]] for the genealogical connection.
@@ -113,7 +115,7 @@ The camp has replaced its entire septic system with 16 commercial Clivus Multrum
 
 ### Lake Monitoring
 
-Lac Kanawana is monitored by the Conseil régional de l'environnement des Laurentides (CREL), which classifies it within the municipality of Saint-Sauveur in the MRC Les Pays-d'en-Haut.^16 The lake participates in Quebec's Réseau de surveillance volontaire des lacs (RSVL), with Secchi disk transparency measured every two weeks from June to October and water samples analyzed for phosphorus, dissolved organic carbon, and chlorophyll a.^16 The lake's watershed of 5.17 km² and rapid water renewal time (0.43 years) reflect its position in the Laurentian hydrological system. No formal ecological survey or environmental designation has been identified in public records.
+Lac Kanawana is monitored by the Conseil régional de l'environnement des Laurentides (CREL), which classifies it within the municipality of Saint-Sauveur in the MRC Les Pays-d'en-Haut.^16 The lake participates in Quebec's Réseau de surveillance volontaire des lacs (RSVL) as station 573, with Secchi disk transparency measured every two weeks from June to October and water samples analyzed for phosphorus, dissolved organic carbon, and chlorophyll a.^16 ^29 Monitoring data has been available since at least 2013; technical support reports for Saint-Sauveur lakes exist for years 2013-2024.^29 The lake's watershed of 5.17 km² and rapid water renewal time (0.43 years) place it within the Rivière du Nord watershed, administered by the ABRINORD watershed organization.^29 No formal ecological survey or environmental designation has been identified in public records.
 
 ## Proposed Two-Site Operation
 
@@ -171,3 +173,4 @@ From 1977 to 1980, plans existed for a proposed two-site operation using Kanawan
 26. Wikipedia, "Mille-Isles, Quebec."
 27. Lovell's Montreal City Directory (1976), "Kamp Kanawana" listing. BAnQ numérique.
 28. Journal Accès, report on superintendent's house fire at Camp YMCA Kanawana (May 16, 2023).
+29. CRE Laurentides Atlas des lacs — Lac Kanawana (RSVL 573), https://crelaurentides.org/lake/kanawana/; Swim Guide beach ID 5490, https://theswimguide.org/beach/5490; Great Lakes Guide listing.

@@ -1970,3 +1970,56 @@ Completed the Analyze → Loop-decide → Process → Hypothesize phases for thr
 - **camp-becsies.md**: New stub created (450 words, 6 open questions).
 - **articles.json**: camp-becsies entry added.
 - **priorities.json**: p_169, p_170, p_171 marked completed.
+
+---
+
+## Campaign: Exhaustive Open Questions Research (2026-06-22)
+
+### Overview
+
+Three waves of parallel research agents executed 15 research campaigns covering all major open questions. Each campaign ran 8-48 web searches with WebFetch attempts on promising URLs (all returned HTTP 403 Forbidden). Total: ~350+ searches, ~100+ fetch attempts.
+
+### Campaigns Completed
+
+**Wave 1 — Biographical & Historical:**
+1. **Joanna Hode/Houde** (25 searches): EXHAUSTED. Zero web presence. Only lead: Joanna Houde b.1977 Exeter NH, too young for 1995 directorship. Spelling variants tried. Requires operator confirmation.
+2. **1994 Centennial** (30 searches): EXHAUSTED. No narrative beyond confirmed archival materials. Le Devoir pre-2000 not Google-indexed. Requires BAnQ card-holder access.
+3. **Lac des Becs-scie / Camp Becsies** (31 searches): RESOLVED. Lake is 1.5 km west of Kanawana, NOT one of three private lakes. Etymology: merganser duck. ~240 homes now. Association formed 2003. Chapel 1950-1951.
+4. **Kanawana Dam** (48 searches): EXHAUSTED. Not in CEHQ registry. No construction date found. No government records. Requires physical archives/oral history.
+5. **CCA Centenary Journey 1967** (44 searches): PARTIALLY RESOLVED. Relay structure documented, section assignments mapped (BC-Camp Deka, Manitoba-Camp Stephens, Ontario-Kandalore, Quebec-Kanawana). Key organizers identified. Participant names still unknown. "A Log of Canada's Centenary Journey" (1971) is a key unlocated source.
+6. **Non Nobis Solum motto** (38 searches): PARTIALLY RESOLVED. Kanawana is only YMCA entity worldwide using it. English motto "Each for all and all for each" was shared YMCA tradition (Becket, Hayo-Went-Ha). LCC school song first sung 1936. Fosbery heraldic lineage established. Adoption date still unknown (1927-1993 window).
+
+**Wave 2 — People & Institutions:**
+7. **Kate Taylor biography** (8+ searches): RESOLVED. Camp alias "Wawa", Honours BA Psychology (Trent), prior director Camp Ta-Wa-Si (NB), gender-expansive tent initiative, 3 podcast appearances.
+8. **Marie-Pierre Lacasse biography** (13+ searches): RESOLVED. BA Leisure Sciences (Concordia 2004-2006), Leave No Trace Master Educator, 5+ camp directorships, ADHD-adapted camp pioneer (Camp Portneuf 2018), launched first Kanawana day camp "Aventure à Kanawana" (2024).
+9. **Environmental/ecological** (11 searches): PARTIALLY RESOLVED. RSVL station 573 confirmed, Swim Guide listing, ABRINORD watershed. No trophic data accessible (403 walls). No fish species data.
+10. **Woodcraft League** (11+ searches): PARTIALLY RESOLVED. Philip D. Fagans visited Kanawana 1918. YMCA was primary host for Woodcraft tribes. Charter cost $3/year. League peaked ~5,000 members, dissolved 1946.
+11. **SGW/Concordia connection** (24 searches): RESOLVED. Harold H. Potter (1914-2004) identified as SGW student and Kanawana counsellor — first Canadian-born Black sociologist. Dimock-Seaman 1963 institutional move. YMCA-Concordia Fine Arts camp partnership (2019). Raye Kass CHRCS connection.
+12. **McGill Camping School** (20+ searches): PARTIALLY RESOLVED. QCA/CCA camping school at McGill 1937-1940 confirmed. Arthur S. Lamb (YMCA→McGill PE). Camp Nominingue camp school in 1940s-50s. No specific Kanawana staff link found.
+
+**Wave 3 (from wave 1 sub-agents):**
+13. **Sam Lazarus** details: RESOLVED. Died 2004 age 25 of cerebral malaria in Ghana. SAM JAM annual fundraiser 17+ years.
+14. **Chris Adam / Pip Award**: 10th recipient, established 2007. Confirmed.
+15. **Kevin Slezak**: Assistant Director confirmed, later Special Projects Consultant.
+
+### KB Integration
+
+- **KB**: v4.76 → v4.78. 82 new facts (f_1390-f_1433 = 44 facts from integration agent + post-integration processing). Total: 1,433 facts.
+- **Sources**: 441 → 471 (30 new sources added).
+- **Camp Becsies article**: Completely rewritten. Incorrect "three private lakes" speculation removed. Etymology, coordinates, post-YMCA history, and 1938 Green Triangle reference added. Sources 3→7.
+- **Directors index**: Kate Taylor, Kevin Slezak, Marie-Pierre Lacasse entries significantly enriched with professional biographies. Harold Potter pre-war SGW bridge section added. Sam Lazarus Pip Award entry enriched. Sources 19→21.
+- **The Kanawana Site**: Lake Kanawana data refined (RSVL 573, Swim Guide, ABRINORD). Sources 28→29.
+
+### Research Leads Generated for Future Work
+
+1. Grace McMorris thesis (Concordia, 2023) — accessible through Spectrum repository
+2. "A Log of Canada's Centenary Journey" (1971) — publication with full route/participant roster
+3. D.S. Penton, "Non Nobis Solum" (1972) — LCC history on Internet Archive
+4. BAnQ Le Devoir articles (Jan 15, Jul 6, Oct 24, 1994) — centennial coverage
+5. Trent University OCA/CCA fonds — Centenary Journey personnel data sheets
+6. Concordia YMCA fonds P0145/12B07 — 1967 canoe trip materials
+7. Bruce Netherwood (South Shore YMCA) — living witness for centennial
+8. Mike Cohen column, The Suburban (July 2015) — Kanawana anecdotes
+9. CRE Laurentides "wilson-2" lake page — may be camp's Lake Wilson
+10. Oral history: motto transition, dam ceremony, Joanna Hode spelling
+

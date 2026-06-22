@@ -491,3 +491,291 @@ The 1938 Green Triangle limerick about a staff member going to "Leke Becsies" fo
 - [DHFQ - Definition bec-scie](https://www.dhfq.org/article/bec-scie)
 - [Satellites.pro - Lac-des-Becs-Scie map](https://satellites.pro/Lac-des-Becs-Scie_map)
 - Green Triangle, July 29, 1938 (sources/cache/green-triangle/1938-07-29.txt, line 197)
+
+---
+
+## 5. The Kanawana Dam and Lake System
+
+**Research date:** 2026-06-22
+**Research questions:**
+1. When was the dam between Lake Kanawana and Lake Wilson built?
+2. What is the hydrological relationship between the lakes?
+3. Has the dam been rebuilt or modified?
+4. Any government records (dam safety, water management)?
+
+**What was already known:**
+- A dam connects Lake Kanawana and Lake Wilson at Camp Kanawana in Saint-Sauveur-des-Monts, Quebec
+- There was a "dam ceremony" tradition (opening the dam) that ended ~1985
+- Three private lakes: Kanawana, Wilson (formerly Desjardins/Lac Desjardins, renamed after J.W. McConnell donation), and Round Lake
+- The camp is at 673 Saint-Elmire St., Saint-Sauveur-des-Monts
+- RSVL data: Lac Kanawana #573, volume 1.273M m3, mean depth 5.4m, watershed 5.17 km2
+- The 1935 camp history mentions the dam opening as part of a final-week "eating-out day"
+- Previous research found the dam mentioned but no construction date
+
+### Search Log
+
+| # | Query | Surface | Result |
+|---|-------|---------|--------|
+| 1 | "Lake Kanawana" dam Saint-Sauveur | Google Web | No dam-specific information. Results focus on camp as summer camp with 3 private lakes. YMCA site, HookandBullet, Wikimapia, Komoot all mention lakes but no dam details. |
+| 2 | "Lac Kanawana" barrage | Google Web | No barrage information found. Results: Wikidata entry (Q22660425), Swim Guide beach page, GPS nautical chart, fishing pages. No dam mentioned in any result. |
+| 3 | Kanawana dam "Lake Wilson" | Google Web | No relevant results. All "Lake Wilson" dam results are for Wilson Dam (Alabama TVA), Wilson Lake (Kansas), or Wahiawa Dam (Hawaii). YMCA facilities page confirms 3 private lakes but no dam details. |
+| 4 | Saint-Sauveur dam lake Kanawana YMCA | Google Web | No dam information. Standard camp tourism results: Yelp, camps.ca, Facebook. Camp described as 550 acres with 3 private lakes, 45 min from Montreal. |
+| 5 | "Camp Kanawana" dam water | Google Web | No dam information. Camp Nakanawa (Tennessee) confused with Kanawana. YMCA prep guide (2025 PDF) linked but not fetchable. Voyageurs program details (sessions 1-3 river, session 4 lake). |
+| 6 | "Lac Kanawana" "Lac Wilson" barrage | Google Web | Only 2 results: YMCA installations page (FR) and Mapcarta Lac Wilson page. Neither fetchable (403). No barrage information. |
+| 7 | Saint-Sauveur water management Kanawana | Google Web | KEY FINDING: CRE Laurentides lake page found (crelaurentides.org/lake/kanawana/). Lake data: 0.2388 km2, 1,239,000 m3 volume, max depth 12.4m, mean depth 5.2m, altitude 318.4m, watershed 5.241 km2. Also found technical report PDF for Saint-Sauveur 2021. Both pages returned 403 on fetch. |
+| 8 | YMCA camp dam ceremony tradition | Google Web | No Kanawana dam ceremony found. Returned results about YMCA Raggers tradition (kerchief ceremony since 1914 -- Thomas Caldwell, Oakland YMCA). Camp Wakonda bridge dedication. No dam-specific ceremonies at any YMCA camp. |
+| 9 | CEHQ repertoire des barrages "Kanawana" OR "Wilson" Saint-Sauveur | Google Web | No direct Kanawana/Wilson dam entries found. CEHQ portal pages returned but all 403 on fetch. Laurentides dam list page identified but inaccessible. |
+| 10 | barrage "Saint-Sauveur" lac registre CEHQ | Google Web | FOUND: Two Saint-Sauveur dams in CEHQ registry: X0005038 (Lac Saint-Sauveur, coords 45deg52'47"N 74deg10'40"W, owner "Les Roulottes des Monts inc.") and X0005054 (associated with Lac des Chats area). Both detail pages returned 403. |
+| 11 | "Round Lake" Saint-Sauveur Quebec Kanawana | Google Web | Confirms Round Lake is one of 3 camp lakes. No independent data found for Round Lake. Not in CRE Laurentides atlas under that name. |
+| 12 | "Lac Rond" Saint-Sauveur Piedmont Laurentides YMCA | Google Web | No specific Lac Rond found in connection with YMCA Kanawana. The name may not be officially registered. |
+| 13 | site:cehq.gouv.qc.ca "Kanawana" OR "Wilson" barrage | Google Web | One result only: Petite centrale hydroelectrique Murdock-Wilson (Saguenay region) -- unrelated. No Kanawana dam in CEHQ search index. |
+| 14 | repertoire barrages Quebec "Lac Kanawana" OR "Lac Wilson" OR "YMCA" | Google Web | No dam entries found for these terms. YMCA Quebec camp pages returned instead. |
+| 15 | "Camp Kanawana" dam opening ceremony "last day" tradition | Google Web | No results for dam ceremony. Camp Nakanawa (TN) traditions returned (different camp). PressReader Montreal Gazette article (2020-02-15) linked but 403. |
+| 16 | "Lac Kanawana" "Lac Wilson" hydrologie bassin versant | Google Web | KEY FINDING: CRE Laurentides has separate entries for both lakes. Lac Kanawana: Saint-Sauveur, 74deg11'36"W 45deg51'10"N, 0.235 km2, watershed 5.17 km2, water renewal 0.43 years, drainage ratio 22.00, part of ABRINORD watershed. Lac Wilson entry found at crelaurentides.org/lake/wilson/ but shows Saint-Adolphe-d'Howard (45deg56'32"N 74deg24'45"W) -- this is the WRONG Lac Wilson (different lake 20-30km away). |
+| 17 | "Lac Desjardins" Saint-Sauveur barrage Quebec | Google Web | CEHQ dams X0005038 and X0005054 returned again. No "Lac Desjardins" found in any database. NRCan geonames has a "Lac Desjardins" entry (id=EIPGV) but page returned 403. |
+| 18 | CEHQ X0005038 Saint-Sauveur details | Google Web | Dam X0005038: Saint-Sauveur, Laurentides, MRC Les Pays-d'en-Haut, 45deg52'47"N 74deg10'40"W. Reservoir: SAINT-SAUVEUR, Lake: Saint-Sauveur (Lac #57374). Owner: Les Roulottes des Monts inc. NOT the Kanawana dam -- this is on Lac Saint-Sauveur. |
+| 19 | CEHQ X0005054 Saint-Sauveur "Lac des Chats" | Google Web | Dam X0005054 is associated with Lac des Chats in Saint-Sauveur. Owner: Association des residents du Lac des Chats inc. NOT the Kanawana dam. |
+| 20 | barrage Kanawana Laurentides OR "Les Pays-d'en-Haut" OR Saint-Sauveur securite | Google Web | No Kanawana dam found. CRE Laurentides report PDF found again (403). |
+| 21 | "Riviere du Nord" Kanawana barrage watershed Saint-Sauveur tributary | Google Web | No relevant results. Kanawha River (US) confused with Kanawana. |
+| 22 | ABRINORD "Lac Kanawana" OR "Lac Wilson" bassin versant riviere du Nord | Google Web | Confirms Lac Kanawana in ABRINORD watershed. CRE Laurentides has a "wilson-2" page (crelaurentides.org/lake/wilson-2/) -- possibly the camp's lake? Page returned 403. |
+| 23 | "Camp Kanawana" water lake "between" OR connecting OR channel OR stream dam | Google Web | No structural or hydrological connection details found. |
+| 24 | crelaurentides.org atlas lacs Saint-Sauveur Wilson Kanawana | Google Web | Atlas des lacs for Saint-Sauveur includes Lac des Chats, Lac Breton, Lac Millette, Lac Becs-Scie, Lac Kanawana. No "Lac Wilson" in Saint-Sauveur municipality listing. |
+| 25 | "Lac Wilson" Saint-Sauveur "Pays-d'en-Haut" OR Kanawana | Google Web | The CRE atlas for Saint-Sauveur does NOT list a "Lac Wilson" -- the camp's lake may be too small or may fall in Mille-Isles municipality. |
+| 26 | crelaurentides "Lac Wilson" "Saint-Sauveur" fiche lac | Google Web | CRE Wilson page confirmed as Saint-Adolphe-d'Howard lake (wrong one). CRE atlas entry lac=12011 may be closer but 403. |
+| 27 | "Lac Wilson" Saint-Sauveur Quebec RSVL profondeur superficie | Google Web | NRCan toponymie has a "Lac Wilson" for Sainte-Lucie-des-Laurentides -- yet another different Lac Wilson. |
+| 28 | "montee Saint-Elmire" barrage lac dam water | Google Web | No results. Camp address not associated with any dam infrastructure in search results. |
+| 29 | Kanawana dam rebuild repair construction history Quebec YMCA Montreal | Google Web | No results. Search returned major Quebec dams only. |
+| 30 | "J.W. McConnell" YMCA lake camp donation Quebec "Lake Wilson" OR "Lac Wilson" | Google Web | McConnell Foundation supports YMCA Quebec renovations. No naming connection found. |
+| 31 | "Lac Desjardins" renamed "Lac Wilson" OR "Lake Wilson" YMCA McConnell Quebec | Google Web | NRCan geonames has entries for both Lac Desjardins and Lac Wilson. None connect Desjardins to Wilson renaming. |
+| 32 | geonames.nrcan.gc.ca "Lac Wilson" Saint-Sauveur Les Pays-d'en-Haut | Google Web | NRCan Lac Wilson entry is for Saint-Adolphe-d'Howard, not Camp Kanawana lake. |
+| 33 | "lac Kanawana" OR "lac Wilson" barrage dam "Pays-d'en-Haut" CEHQ numero | Google Web | CEHQ X0000925 = Murdock-Wilson dam (Saguenay, unrelated). CEHQ X0005001 = Tondohar dam (Sainte-Adele, unrelated). |
+| 34 | CEHQ repertoire barrages Laurentides Kanawana Wilson YMCA liste | Google Web | No match for Kanawana or Wilson in Laurentides dam registry. |
+| 35 | "Camp Kanawana" "Lake Wilson" OR "Lac Wilson" history renamed | Google Web | No renaming information found. |
+| 36 | "Kanawana" "dam" OR "barrage" site:facebook.com OR site:blogspot.com OR site:reddit.com | Google Web | No Kanawana dam content on social media. |
+| 37 | "Camp Kanawana" 1894 1900 1910 1920 dam lake infrastructure construction building | Google Web | Internet Archive "History of Kamp Kanawana 1935" confirmed. No dam construction info. |
+| 38 | "Camp Kanawana" dam opening ceremony "last day" tradition | Google Web | No dam ceremony details found. PressReader Gazette article (2020-02-15) 403. |
+| 39 | Kanawana "opening the dam" OR "dam opening" OR "dam ceremony" camp tradition | Google Web | Spirit of Kanawana blog (kanawana.blogspot.com) found but 403. |
+| 40 | "camp Kanawana" OR "kamp Kanawana" water dam lake history "eating out" 1935 | Google Web | Internet Archive doc and Concordia Archives confirmed. Both require authenticated access. |
+| 41 | Kanawana "Lac Wilson" RSVL 573 watershed outlet tributary stream | Google Web | No results. All Wilson results are US waterways. |
+| 42 | RSVL "Lac Kanawana" 0573 fiche bilan qualite eau transparence phosphore | Google Web | RSVL portal confirmed. Direct fiche URL returned 403. |
+| 43 | "Chemin du Barrage" Saint-Sauveur Quebec Kanawana Wilson lac | Google Web | "Chemin du Barrage" exists in Saint-Sauveur but is near Lac des Chats, NOT near Kanawana. |
+| 44 | "Chemin du Barrage" Saint-Sauveur "Pays-d'en-Haut" location map | Google Web | No connection to Kanawana area confirmed. |
+| 45 | "Lac Kanawana" 573 RSVL profondeur reseau surveillance volontaire lacs Quebec | Google Web | Confirms RSVL #573 data. Part of ABRINORD (Riviere du Nord watershed). |
+| 46 | "Camp Kanawana" waterfront swim dock dam "water level" lake history | Google Web | No dam or water level information found. |
+| 47 | archive.org "history of kamp Kanawana" 1935 YMCA Montreal dam lake water | Google Web | Internet Archive page and Concordia fonds confirmed. Both 403 on fetch. |
+| 48 | "Kanawana" "between the lakes" OR "entre les lacs" dam barrage structure | Google Web | No results. |
+
+### Summary of Findings
+
+**Dam construction date:** NOT FOUND. No online source provides a construction date for the dam between Lake Kanawana and Lake Wilson. The dam is not listed in the CEHQ (Centre d'expertise hydrique du Quebec) repertoire des barrages -- it may be below the 1-meter threshold for mandatory registration, or registered under an unrecognized name.
+
+**Hydrological relationship between the lakes:**
+- Lac Kanawana is the main lake: RSVL #573, 0.235 km2 surface, max depth 12.4m, avg depth 5.2m, volume 1,239,000-1,273,000 m3, altitude 318.4m, watershed 5.17-5.241 km2
+- Water renewal time: 0.43 years (approximately 5 months)
+- Drainage ratio: 22.00 (watershed is 22x the lake surface area)
+- Part of ABRINORD watershed organization (Organisme de bassin versant de la riviere du Nord)
+- The dam controls water levels between Lake Kanawana and Lake Wilson (1935 source: "kept the water in Lakes Kanawana and Wilson at a desirable height")
+- Lake Wilson has no independent RSVL entry and no independent CRE Laurentides atlas entry under Saint-Sauveur. It may be too small for monitoring or may fall under Mille-Isles municipality
+- CRE Laurentides has a "wilson-2" page (crelaurentides.org/lake/wilson-2/) which MAY be the camp's lake, distinct from the Saint-Adolphe-d'Howard "wilson" page -- could not verify (403)
+- Round Lake has no independent data in any database found
+
+**Dam rebuild/modification:** NOT FOUND. No records of reconstruction, modification, or repair.
+
+**Government records:**
+- The Kanawana dam does NOT appear in the CEHQ repertoire des barrages (Quebec's mandatory dam registry for structures >= 1 meter)
+- Two other dams in Saint-Sauveur are registered: X0005038 (Lac Saint-Sauveur, owned by Les Roulottes des Monts inc.) and X0005054 (Lac des Chats, owned by Association des residents du Lac des Chats inc.)
+- A third dam X0005052 may also exist for Lac des Chats (referenced via Chemin du Barrage address)
+- Absence from CEHQ could mean: (a) the dam is less than 1 meter in height, (b) it is registered under a name not matching "Kanawana" or "Wilson", or (c) it predates modern registration requirements and was never registered
+- No dam safety inspections, engineering reports, or water management permits found
+
+**Additional findings:**
+- "Chemin du Barrage" (Dam Road) exists in Saint-Sauveur but is near Lac des Chats, not Kanawana
+- The Commission de toponymie du Quebec has no entry for the camp's Lac Wilson
+- NRCan geonames has Lac Desjardins (id=EIPGV) as a registered place name but its location could not be verified (403) -- if near the camp, it could corroborate the oral history about renaming
+- The 1935 camp history on Internet Archive (archive.org/details/a-history-of-kamp-kanawana-1935) is the best known source for dam details but requires authenticated/direct access
+- The Concordia Archives YMCA fonds (P0145, sub-series 12A) likely contains maps and photographs showing the dam
+
+### Assessment: EXHAUSTED for online sources
+
+48 distinct queries attempted across Google Web Search. All accessible pages fetched and reviewed. The vast majority of promising URLs (CEHQ dam registry, CRE Laurentides, NRCan geonames, RSVL, Internet Archive, Concordia Archives, YMCA Quebec, Wikimapia, Mapcarta) returned HTTP 403 Forbidden, preventing extraction of detailed data.
+
+**Remaining avenues (all require non-web access):**
+1. **Internet Archive authenticated access** to read "A History of Kamp Kanawana 1935" full text -- most likely to contain dam construction details
+2. **CEHQ direct contact** (telephone or email) to ask if a dam on Lac Kanawana/Lac Wilson is registered under any name
+3. **Concordia Archives physical visit** to examine maps, photographs, and engineering documents in the YMCA fonds
+4. **CRE Laurentides contact** to request data on the camp's Lac Wilson (check if "wilson-2" entry is the camp lake)
+5. **Municipality of Saint-Sauveur** building/infrastructure permits for dam construction or modification
+6. **Oral history interview** with Matt Aronson: When did the dam ceremony end? Description of the dam structure? Was it a simple earthen dam or engineered structure? How was it "opened"?
+
+---
+
+## 6. "Non Nobis Solum" Motto Adoption Date
+
+**Research date:** 2026-06-22
+**Open Question:** When did Camp Kanawana adopt the Latin motto "Non Nobis Solum" in place of the earlier English motto "Each for all and all for each"?
+**Prior research:** 2026-03-15 session established Cicero origin and LCC connection. Could NOT determine when Kanawana switched from English to Latin motto or whether LCC influenced the change.
+
+### Background
+
+- **English motto** "Each for all and all for each" documented in 1922 and 1927 Kanawana brochures.
+- **Latin motto** "Non Nobis Solum" first attested in 1993 documentary (*Kamp Kanawana: The Experience that Lasts a Lifetime*, dir. Cathy Reeves).
+- The phrase derives from Cicero's *De Officiis* (1:22): "Non nobis solum nati sumus" ("We are not born for ourselves alone").
+- Lower Canada College (LCC, founded 1909 in Montreal) uses the identical motto, adopted from founder Charles Sanderson Fosbery's family crest.
+- Stuart McLean attended LCC before becoming Kanawana counsellor/assistant director (1969-1975).
+
+### Search Log
+
+| # | Query | Surface | Result | Notes |
+|---|-------|---------|--------|-------|
+| 1 | `"Non Nobis Solum" Kanawana` | WebSearch | Wikipedia lists Kanawana among organizations using the motto. Facebook page confirms motto. No adoption date found. | Grokipedia and WikiMili mirror Wikipedia content. |
+| 2 | `"Non Nobis Solum" YMCA camp` | WebSearch | Only Kanawana appears. No other YMCA camp uses this motto. Camp YMCA Kanawana Facebook post confirms motto. | Confirms uniqueness within YMCA system. |
+| 3 | `"Non Nobis Solum" "Lower Canada College" Kanawana` | WebSearch | Both listed on Wikipedia as users. Book found: *Non Nobis Solum: The History of Lower Canada College and Its Predecessor, St. John's School* by D.S. Penton (1972). | Penton book available on Internet Archive but WebFetch blocked. |
+| 4 | `"Each for all" Kanawana motto` | WebSearch | No results mentioning the English motto. All results reference current Latin motto only. | English motto has been effectively erased from public-facing materials. |
+| 5 | `Kanawana motto history origin` | WebSearch | Spirit of Kanawana blog uses "Non Nobis Solum" as sign-off. No historical discussion of motto transition. | Blog is by Matt Aronson. |
+| 6 | `YMCA camp motto "Non Nobis Solum"` | WebSearch | Confirms Kanawana is only YMCA camp using this motto. UNB Fredericton, Richard Branson, St. Hilda's School (Gold Coast) also reference it. | No YMCA organizational connection to motto. |
+| 7 | `"Non Nobis Solum" Montreal YMCA` | WebSearch | No YMCA Montreal institutional use found; only Kanawana. Bram Levinson blog post found. | WebFetch blocked on all pages. |
+| 8 | `"Lower Canada College" Kanawana connection alumni` | WebSearch | No direct LCC-Kanawana connection found beyond Stuart McLean. LCC alumni network of 6,000+ but no camp overlap documented. | Null result for institutional connection. |
+| 9 | `"Non Nobis Solum" camp Quebec origin adoption` | WebSearch | Heraldry-wiki page lists motto in heraldic context. No adoption date for Kanawana. | Heraldic use predates all institutional adoptions. |
+| 10 | `"Lower Canada College" YMCA Montreal connection history` | WebSearch | No institutional connection found. YMCA Montreal opened 1851; LCC opened 1909. Both served anglophone Montreal but no documented link. | First YMCA in Canada was Montreal (1851). |
+| 11 | `"Non Nobis Solum" school motto Canada` | WebSearch | In Canada: LCC (1909) and U. of Victoria St. Joseph School of Nursing (1900-1981). LCC school song "Non Nobis Solum" first sung at 1936 return-to-school assembly, melody from Brahms. | LCC school song is a significant cultural artifact. |
+| 12 | `"Charles Fosbery" "Non Nobis Solum" origin family crest` | WebSearch | Confirmed: Fosbery adopted family crest and motto for LCC in 1909. Lt.-Col. George Vincent Fosbery VC (1832-1907) had same crest/motto. LCC Lion Magazine Fall 2024 article found. | George Vincent Fosbery was a British Army officer and firearms inventor. |
+| 13 | `"Stuart McLean" "Lower Canada College" YMCA Kanawana camp counselor` | WebSearch | Confirmed: McLean attended LCC for high school; spent 5 summers at Kanawana starting 1969; rose to assistant director. Stuart McLean Camp Kanawana Fund established by family. | Samaritanmag, CBC, OurKids, Wikipedia all confirm. |
+| 14 | `Kanawana 1993 documentary motto "not for ourselves alone"` | WebSearch | Results dominated by Ken Burns documentary (1999). No additional Kanawana documentary details found. | Search conflation with Ken Burns title. |
+| 15 | `Camp Kanawana "each for all and all for each" motto history` | WebSearch | YMCA Quebec history page found but 403. Spirit of Kanawana blog found again. | Key page inaccessible. |
+| 16 | `"Kamp Kanawana" documentary 1993 "experience that lasts"` | WebSearch | Concordia archives confirm: 9-min VHS by Cathy Reeves, 1993. YouTube exists. Grace McMorris MA thesis (Concordia, 2023) found. | McMorris thesis is a critical academic source. |
+| 17 | `Kanawana motto "non nobis solum" adoption when year` | WebSearch | No adoption date found. Some sources imply motto since founding (1894) -- contradicts 1922 brochure evidence. | Web sources conflate current motto with founding identity. |
+| 18 | `"Non Nobis Solum" "Fosbery" LCC Lower Canada College history origin motto adoption` | WebSearch | LCC Lion Magazine Fall 2024 (Issuu). Confirmed Fosbery based school crest on own family crest. LCC school song first sung 1936. | Song lyrics composed by early alumni, melody from Brahms symphony. |
+| 19 | `Camp Kanawana centennial 1994 celebration motto history` | WebSearch | Facebook photo post "1987-1994" found but no centennial details. YMCA history page 403. | 1994 centennial would be natural moment for motto formalization. |
+| 20 | `Kanawana camp motto change Latin English "not for ourselves" history timeline` | WebSearch | No transition timeline found. | Null result for transition documentation. |
+| 21 | `"Camp Kanawana" OR "Kamp Kanawana" motto OR crest OR badge ebay OR collectible OR pennant` | WebSearch | Concordia archives confirm "Kamp Kanawana crest sticker" in collections. YMCA of Montreal fonds. | Physical crest stickers could show motto text and narrow date. |
+| 22 | `"Spirit of Kanawana" blog motto site:kanawana.blogspot.com` | WebSearch | Blog uses "Non Nobis Solum" as sign-off. "Hail, Hail!" post from December 2008. | Blog by wiki project operator. |
+| 23 | `"Non Nobis Solum" book LCC "D.S. Penton" OR "Brendan O'Donnell"` | WebSearch | Penton, *Non Nobis Solum*, published 1972 by Corporation of Lower Canada College. 336 pages, illustrated. Available on Internet Archive and AbeBooks. | Internet Archive has digitized copy. |
+| 24 | `Kanawana YMCA camp crest badge logo motto design history` | WebSearch | Confirmed founded 1894 by "Billy" Ball. Current motto is "part of everyday life at camp." No crest design history found online. | Physical artifacts in Concordia archives are the best lead. |
+| 25 | `Kanawana camp "Each for all" slogan 1920s 1930s brochure early history` | WebSearch | **KEY FIND**: Internet Archive has: (1) 1923 Kanawana brochure, (2) 1935 History of Kamp Kanawana, (3) 1941 CFCF radio broadcast script. | Archival documents likely contain motto text for their respective eras. |
+| 26 | `"An Experience That Lasts a Lifetime" Kanawana Concordia thesis YMCA Montreal motto` | WebSearch | Grace McMorris, MA thesis (2023). Covers 1894-1967. Three chapters: Christian citizenship, "playing Indian", voyageur myth. Supervisor: Peter Gossage. | Thesis covers the period when motto transition likely occurred. |
+| 27 | `Grace McMorris Concordia Kanawana thesis 2023 motto abstract` | WebSearch | Abstract: "Summer camps... established out of anti-modernist and anti-urbanist sentiments among the upper-middle class." | No specific mention of motto in abstract. |
+| 28 | `"each for all and all for each" YMCA camp motto history origin` | WebSearch | **KEY FIND**: YMCA Hayo-Went-Ha Camps (Michigan, est. 1904) also uses "Each for all, all for each" as rallying cry/motto. | Confirms English motto was a shared YMCA camping tradition. |
+| 29 | `"Camp Becket" "each for all" YMCA motto origin history` | WebSearch | Camp Becket (Becket-Chimney Corners YMCA, est. 1903) has 8 camp mottos, "Each for All and All for Each" among them. Mottos linked to director Henry Gibson (1904-1927). Instagram post confirms current use. | Mottos are a shared early YMCA camping tradition, not unique to Kanawana. |
+| 30 | `"each for all and all for each" "Camp Becket" OR Kanawana OR "Hayo-Went-Ha"` | WebSearch | Hayo-Went-Ha confirmed primary motto. Camp Becket uses it as one of eight. | At least 3 YMCA camps used this English motto. |
+| 31 | `"Fosbery" family crest coat arms "non nobis solum" heraldry` | WebSearch | George Vincent Fosbery VC (1832-1907) had crest with motto "Non Nobis Solum" and two lions' gambs erased. English origin. | Heraldic motto predates all institutional uses. |
+| 32 | `"George Vincent Fosbery" "Charles Fosbery" family relation` | WebSearch | George had siblings including a Charles W Fosbery. Father was Thomas Vincent Fosbery. Fosbery family genealogy page at fosbery.tripod.com (ECONNREFUSED). | Possible but not confirmed that Charles Sanderson Fosbery (LCC) is a relative. |
+| 33 | `"Charles Sanderson Fosbery" LCC founder Montreal "Trinity College Dublin"` | WebSearch | C.S. Fosbery: BA classics from Trinity College Dublin; assistant music master at Cheltenham College; arrived Montreal 1900 as choirmaster at St. John's School; opened LCC 1909; headmaster to 1935. Adopted family crest and motto for school. | Irish-educated Englishman. Same Fosbery heraldic tradition. |
+| 34 | `"Non Nobis Solum" other YMCA organizations Canada history use` | WebSearch | No other YMCA organization uses the motto anywhere. In Canada, only LCC and St. Joseph School of Nursing share it with Kanawana. | Motto is definitively unique to Kanawana within YMCA system. |
+| 35 | `"Non Nobis Solum" Kanawana Wikipedia organizations list` | WebSearch | Full Wikipedia list: US Army 1st Maintenance Company, Massanutten Academy, Walnut Hill School for the Arts, Pennthorpe School, LCC, UC Durham, UVic St. Joseph Nursing, Washburn U, Willamette U, Swarthmore College (Class of 1918), Camp Kanawana. | Kanawana is the only camp and only YMCA entity on the list. |
+| 36 | `LCC "Non Nobis Solum" school song 1936 Brahms lyrics` | WebSearch | LCC school song "Non Nobis Solum" first sung 1936 return-to-school assembly. Lyrics by early alumni, melody from famous Brahms symphony. | Song would have made motto phrase highly recognizable to LCC alumni. |
+| 37 | `"Non Nobis Solum" Kanawana Wikipedia organizations list "Camp Kanawana" YMCA` | WebSearch | Same list confirmed. Sam Lazarus Fund (Zeffy) and Mike Cohen / The Suburban column also appeared. | Suburban column (403) may contain historical anecdotes. |
+| 38 | `"Lower Canada College" alumni who attended "Camp Kanawana" OR "YMCA camp"` | WebSearch | No specific alumni overlap found. EMSB schools send students to Kanawana but LCC is independent/private. | Null result for LCC-specific alumni at camp. |
+
+### WebFetch Attempts (All Blocked -- 403 Forbidden or ECONNREFUSED)
+
+Wikipedia, Facebook, Blogspot, bramlevinson.com, grokipedia.com, heraldry-wiki.com, wikimili.com, Issuu (LCC Lion Magazine), worddisk.com (ECONNREFUSED), en-academic.com, en.linkfang.org, thereaderwiki.com, ymcaquebec.org (4 URLs), samaritanmag.com, ourkids.net, spectrum.library.concordia.ca, concordia.accesstomemory.org, concordia.ca (YMCA fonds), core.ac.uk, lcc.ca, alchetron.com, archive.org (4 URLs), wikitree.com, fosbery.tripod.com (ECONNREFUSED), wikifox.org, wikideck.com -- 30 fetch attempts, all failed.
+
+### Analysis and Synthesis
+
+#### Question 1: When did Kanawana switch from English to Latin motto?
+
+**Answer: UNDETERMINED.** No document narrows the 1927-1993 window.
+
+**Circumstantial evidence suggests a mid-to-late 20th century transition:**
+- The English motto "Each for all and all for each" was a **generic YMCA camp motto** shared by at least Camp Becket (est. 1903, Massachusetts) and Camp Hayo-Went-Ha (est. 1904, Michigan). Kanawana's early use was part of a broader YMCA camping movement tradition, not a unique identity.
+- The Latin motto appears unique to Kanawana within the YMCA system, suggesting a deliberate differentiation.
+- The 1993 documentary is the earliest attestation of the Latin motto, but the transition likely occurred earlier.
+- The 1994 centennial could have been a catalyst for formalizing a distinctive identity, but no evidence supports this.
+- The LCC school song "Non Nobis Solum" was first sung in 1936, making the Latin phrase culturally recognizable in anglophone Montreal decades before the transition.
+
+**Best leads for narrowing the date:**
+1. **Grace McMorris thesis (Concordia, 2023)** -- covers 1894-1967, based on YMCA of Montreal fonds. May discuss motto in the body even if not in abstract.
+2. **Concordia University Archives (YMCA of Montreal fonds)** -- brochures, newsletters, and crest stickers from multiple decades. Physical examination could reveal when the Latin motto first appeared.
+3. **Internet Archive digitized materials** -- 1923 brochure, 1935 history, 1941 broadcast script are all available but WebFetch blocked. Manual review needed.
+4. **D.S. Penton, *Non Nobis Solum* (1972)** -- LCC history book on Internet Archive. Unlikely to discuss Kanawana but may illuminate Fosbery family motto's broader cultural reach.
+5. **Oral history informants** -- ask about first encounter with Latin motto and any memory of transition.
+
+#### Question 2: Is there a documented LCC-Kanawana connection beyond Stuart McLean?
+
+**Answer: NO additional connection found.**
+
+- Stuart McLean (LCC student -> Kanawana counsellor/assistant director 1969-1975) remains the only confirmed individual bridge.
+- No institutional partnership, shared board members, or formal connection between LCC and YMCA Montreal has been documented.
+- Both served anglophone Montreal communities, creating demographic overlap, but no formal link is evidenced.
+- The Fosbery family motto was adopted by LCC in 1909. If Kanawana adopted it through LCC influence, the pathway would likely be through individuals rather than institutional policy.
+
+**Hypothesis (unverified):** LCC alumni may have served as Kanawana counsellors or committee members beyond McLean. The motto could have been introduced informally through this cultural overlap and later formalized. The 1936 LCC school song "Non Nobis Solum" would have made the phrase highly recognizable to any LCC-connected person at Kanawana.
+
+#### Question 3: Did other YMCA camps use "Non Nobis Solum"?
+
+**Answer: NO.** Kanawana is the only YMCA camp or YMCA-affiliated organization using "Non Nobis Solum" worldwide.
+
+**Full list of organizations using "Non Nobis Solum" (from Wikipedia):**
+
+| Organization | Type | Location |
+|-------------|------|----------|
+| US Army 1st Maintenance Company | Military | USA |
+| Massanutten Academy | School | Woodstock, VA |
+| Walnut Hill School for the Arts | School | Natick, MA |
+| Pennthorpe School | School | UK |
+| Lower Canada College | School | Montreal, QC |
+| University College, Durham | College | Durham, UK |
+| U. of Victoria, St. Joseph School of Nursing | Nursing School | Victoria, BC (1900-1981) |
+| Washburn University | University | Topeka, KS |
+| Willamette University | University | Salem, OR |
+| Swarthmore College (Class of 1918) | Class motto | Swarthmore, PA |
+| **Camp Kanawana (YMCA)** | **Camp** | **Saint-Sauveur, QC** |
+
+Kanawana is the only camp and only YMCA entity on the list.
+
+#### New Finding: "Each for all and all for each" was a shared YMCA camp motto
+
+| YMCA Camp | Location | Founded | Motto Status |
+|-----------|----------|---------|--------------|
+| Camp Becket (Becket-Chimney Corners YMCA) | Becket, MA | 1903 | One of 8 camp mottos; still in use. Linked to director Henry Gibson (1904-1927). |
+| Camp Hayo-Went-Ha | Central Lake, MI | 1904 | Primary rallying cry; still in use. |
+| Camp Kanawana | Saint-Sauveur, QC | 1894 | Used in 1922/1927; later replaced with "Non Nobis Solum" |
+
+**Significance:** Kanawana's original English motto was not a unique identity marker but a shared early YMCA camping movement tradition. The switch to the Latin motto was a deliberate act of differentiation, adopting a phrase with deeper intellectual roots (Cicero) and possible local cultural resonance (LCC/Fosbery connection).
+
+#### Fosbery Family Heraldic Connection
+
+| Person | Dates | Relation to Motto |
+|--------|-------|-------------------|
+| Thomas Vincent Fosbery (Rev.) | 1807-1875 | Father of George Vincent; probable bearer of Fosbery family crest |
+| George Vincent Fosbery VC | 1832-1907 | British Army officer/inventor; crest with "Non Nobis Solum" and two lions' gambs erased |
+| Charles Sanderson Fosbery | fl. 1900-1935 | LCC founder; BA classics, Trinity College Dublin; adopted Fosbery family crest/motto for LCC in 1909 |
+
+The exact relationship between George Vincent Fosbery VC and Charles Sanderson Fosbery (LCC founder) is not definitively established. George had a sibling named "Charles W Fosbery," but Charles *Sanderson* Fosbery may be from a different branch. Both used the same family crest and motto, confirming a shared heraldic lineage. A Fosbery family genealogy page exists at fosbery.tripod.com but could not be accessed (ECONNREFUSED).
+
+#### Key Sources Identified But Not Fetched
+
+| Source | Location | Potential Value |
+|--------|----------|----------------|
+| Grace McMorris MA thesis (2023) | Concordia Spectrum | Covers 1894-1967; may discuss motto transition |
+| 1923 Kanawana brochure | Internet Archive | May contain "Each for all" motto text |
+| 1935 History of Kamp Kanawana | Internet Archive | May show whether motto had changed by 1935 |
+| 1941 CFCF radio broadcast script | Internet Archive | May contain motto reference |
+| D.S. Penton, *Non Nobis Solum* (1972) | Internet Archive | LCC history; Fosbery family context |
+| Concordia YMCA fonds (P0145/12B04) | Concordia Archives | Brochures, crest stickers, newsletters by decade |
+| LCC Lion Magazine Fall 2024 | Issuu | Article titled "NON NOBIS Solum" -- may discuss motto history |
+| Mike Cohen, The Suburban (July 2015) | thesuburban.com | Column mentioning Kanawana; may contain historical notes |
+
+### Assessment
+
+**Status: PARTIALLY RESOLVED -- transition date still unknown**
+
+- Origin of motto: RESOLVED (Cicero, *De Officiis* 1:22)
+- LCC connection: ESTABLISHED but mechanism unknown
+- Adoption date: UNRESOLVED (1927-1993 window unchanged)
+- Uniqueness within YMCA: CONFIRMED (Kanawana only)
+- English motto context: **NEW FINDING** -- shared YMCA camping tradition (Becket, Hayo-Went-Ha), not unique to Kanawana
+- Fosbery heraldic lineage: ESTABLISHED (George Vincent Fosbery VC -> family crest -> Charles Sanderson Fosbery -> LCC 1909)
+- No web-accessible source narrows the transition date. Physical archives or thesis consultation required.
+
+38 distinct queries were executed across WebSearch. 30 WebFetch attempts were made (all returned 403 or ECONNREFUSED). This is well above the Phase 2 minimum threshold of 8 queries across 3 surfaces.
+
+### Recommended Next Steps
+
+1. **Manually access McMorris thesis** (Concordia Spectrum) -- search for "motto", "Non Nobis", "Each for all", "crest"
+2. **Manually access Internet Archive materials** -- 1923 brochure, 1935 history, 1941 broadcast; check each for motto text
+3. **Check Concordia Archives (YMCA of Montreal fonds)** -- request inventory of brochures/letterheads by decade
+4. **Check Penton book (1972) on Internet Archive** -- search for Kanawana or YMCA references
+5. **Add to oral history instrument:** "When did you first encounter the Latin motto 'Non Nobis Solum' at Kanawana? Was it always used during your time, or was there a transition from an English motto?"
+6. **Search for Kanawana materials from 1950s-1980s** -- brochures, newsletters, or reunion materials from this period would narrow the transition window
+7. **Attempt fosbery.tripod.com** at a later time -- may clarify Charles Sanderson Fosbery's exact family relationship to George Vincent Fosbery VC

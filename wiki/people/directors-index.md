@@ -38,9 +38,9 @@ This index compiles all known directors of Camp Kanawana (originally Camp Jubile
 | Morgan M. Carter | 2001-2002 | Montreal architect; co-founded Atelier Schleiss Carter (2018). Worked "extensively in the non-profit sector for agencies including the YMCA and Canada World Youth" before architecture. Has served on the Board of Directors of YMCA Kanawana. Adjunct faculty at McGill (since 2011), UdeM (since 2013), and has taught at Dalhousie, Harvard, and Carleton. OAQ since 2022. | Oral history (M. Aronson); Schleiss Carter team page |
 | Dave Leduc | 2003 | Managed all Kanawana summer/winter programs (75 employees, 800 participants), all operational budgets, safety/security of 800 participants, strategic business planning, developed intensive youth leadership program, reported to Board of Directors. BA International Development (Dalhousie); MBA (McGill, 2006-2011). Later: Oxfam-Quebec Lebanon coordinator (2000-2002), McGill ICAN director of operations, Exec. Dir. of Development and Peace (2015-2020), Director of Philanthropy (Quebec) at Pathways to Education. | Oral history (M. Aronson); LinkedIn (davidgleduc); Dev. & Peace press release 2015 |
 | Sean Day | 2004-2023 | Regional Director of Camps for the Quebec YMCAs and Director of Camp YMCA Kanawana (dual title); grew up at Camp Kanawana; 19 years of service; led pandemic response (closed overnight 2021, pivoted to day camps); navigated 2022 staff shortages; now Director of Fund Development at Rossy Foundation | Oral history (M. Aronson); CBC 2017, 2021, 2022; LinkedIn |
-| Kate Taylor | 2020s | Camp Director; appeared on Go Camp Pro "Beyond Camp" podcast discussing social media advocacy; led COVID-era communications with families; quoted in 2021 Gazette re: second consecutive summer closure | Go Camp Pro podcast; MSN/Gazette 2021; YMCA Quebec website |
-| Kevin Slezak | 2020s | Leadership team alongside Kate Taylor and Sean Day; participated in Jan 27 Zoom town hall with families | YMCA Quebec website; LinkedIn |
-| Marie-Pierre Lacasse | 2024– | Executive Camp Director / Directeur principal, Camp YMCA Kanawana; oversaw launch of Kanawana Adventure day camp program (2024) | YMCA Quebec website; LinkedIn; Nouvelles des Laurentides |
+| Kate Taylor | 2020s | Camp Director (alias "Wawa"). Honours BA Psychology (Trent University). Previously directed Camp Ta-Wa-Si Inc. (Johnston's Point, NB). Led introduction of gender-expansive tent option for transgender, non-binary, and gender-questioning campers. Also served as Consultant & Graphic Designer at Stephane Richard Development Consulting. Three camping industry podcast appearances: Go Camp Pro "Beyond Camp" #18 (Social Media Advocacy), CampHacker #147 (Summer Self-Care for Camp Directors), Camp Code #95 (Learning Loss in Staff Teams). Director during both 2020 and 2021 COVID closures; quoted in 2021 Gazette on closure decision. | Go Camp Pro podcast; CampHacker #147; Camp Code #95; MSN/Gazette 2021; Montreal Families (gender-expansive); LinkedIn; YMCA Quebec website |
+| Kevin Slezak | 2020s | Assistant Director, Camp YMCA Kanawana; later Special Projects Consultant at YMCA Quebec. Participated in Jan 27 Zoom town hall alongside Kate Taylor and Sean Day. | YMCA Quebec website; LinkedIn |
+| Marie-Pierre Lacasse | 2024– | Executive Camp Director / Directeur principal, Camp YMCA Kanawana. BA Leisure Sciences (Concordia, 2004-2006); also studied at Universite Laval. Certified Leave No Trace Master Educator, WFR, Red Cross First Aid Monitor. Career: Wilderness Safety Systems (Asst Dir, 2007-2012), Camp Boisjoly (DG, 2011-2014), Camp Odyssee/Minogami (Dir, 2014-2015), Camp Portneuf (DG, 2015-2018), and roles at Loisirs Saint-Sacrement, Domaine du Lac bleu, Unite de loisir et de sport de la Capitale-Nationale. At Camp Portneuf (2018) launched first ADHD-adapted summer camp in greater Quebec City region. Oversaw launch of "Aventure a Kanawana" day camp (2024) — first day camp in Kanawana's 130-year history: English-immersion, ages 5-12, max 48 children, shuttle from Saint-Sauveur. | YMCA Quebec website; LinkedIn; RocketReach; Nouvelles Laurentides 2024; La Tribune 2018; Radio-Canada 2018 |
 
 **Audrey Dowse** was inducted into the Camp Administrator Hall of Fame (nominated 2022) for her work with Camp YMCA Kanawana and YMCA Day Camps. Her exact role and dates of service are not yet documented.^HOF
 
@@ -72,6 +72,10 @@ Miss M. Rayner served as camp nurse and filled a "camp mother" role — one of t
 
 **1941 season.** The 48th season under Camp Chief Howie Langille was the best-documented wartime year, thanks to a CFCF radio broadcast on June 26, 1941.^4 Total staff numbered 68.^4 Of 58 trained counsellor applicants, 45 were selected.^4 Fourteen counsellors formed an advance party to prepare camp before the season opened on June 28 with approximately 100 campers.^4 J.W. Perks, Assistant Superintendent of the Protestant School Board, chaired the Personnel Committee overseeing staff selection.^4 Over 30 evacuees from England, Scotland, and continental Europe attended camp that year.^4 Registrations were 30% higher than the previous year.^4 A farewell letter from junior counsellors Dave and Don from the 1940 season survives in the broadcast transcript.^4
 
+### Pre-War Staff: The SGW-Kanawana Bridge (1930s)
+
+**Harold H. Potter (1914-2004)** attended Sir George Williams College (B.A. 1935-1939) and worked summers as camp counsellor at Kamp Kanawana during those years.^20 In 1947, he became the first Canadian-born Black sociologist hired by a Canadian post-secondary institution when appointed lecturer in Sociology at SGW College. He set up the Department of Sociology and Anthropology at SGW in 1960 and maintained YMCA ties throughout his career. Potter's trajectory from Kanawana counsellor to academic pioneer exemplifies the deep institutional bridge between the YMCA camp and Sir George Williams University.
+
 ### Post-War Staff (1943-1961)
 
 **Camp historians.** R.L. Charlton authored "Notes re Early Days of YMCA Camps at Lake St. Joseph and Kanawana" in 1943. Charlton was a Montreal independent marine surveyor, Treasurer of the Canadian Board of Marine Underwriters, and an "ardent YMCA worker" who went to France with the YMCA during WWI to serve Canadian troops.^13 W.E. Cushing wrote "Historical sketches — Lake St. Joseph" in the same year. Both manuscripts are held in Concordia Archives sub-series 12A.^2
@@ -95,7 +99,7 @@ The "Pip" Alumni Award, named after Philip "Pip" Caddell (1913-2004, camper 1928
 | Stuart McLean | 1969-1975 | Author, CBC radio host (*Vinyl Cafe*) | 2009 |
 | Bruce Netherwood | late 1980s-1990s | VP Camping Services, South Shore YMCA; YMCA leader and author | 2011 |
 | John Cleghorn | ~1950s | Former CEO Royal Bank of Canada | 2012 |
-| Sam Lazarus (posthumous) | unknown | NGO volunteer | 2013 |
+| Sam Lazarus (posthumous) | camper + staff | Died 2004 (age 25) of cerebral malaria in Ghana while working at orphanage. SAM JAM annual fundraiser at Kanawana (17+ years). | 2013 |
 | Jeniene Phillips Birks | unknown | Former broadcaster, community volunteer | 2014 |
 | Terry "Aislin" Mosher | 1952-1953 | Montreal Gazette editorial cartoonist | 2015 |
 | Carol Skinner | 1990-1995 | ALS advocate | 2016 |
@@ -170,6 +174,8 @@ The following periods have no confirmed camp director:
 17. *The Westmount Examiner*, March 29, 1935. BAnQ numérique.
 18. Camp Stephens Alumni Blog, 2013 posts on Nelson McEwen and Ross Bannerman careers (campstephensalumni.blogspot.com); Peter Gilling Goddard obituary and condolence messages (C.R. Gamble Funeral Home, Legacy.com, 2016).
 19. Canadian Camps Association, "Our History," https://www.ccamping.org/history — past presidents list, founding date. Doug McEwen (Ontario) served as CCA President 1967-1969. Concordia University Archives, sub-sub-series 14D10: National Council Boys' Work Secretary Nelson McEwen correspondence (1941-1945).
+20. Wikipedia, "Harold H. Potter," https://en.wikipedia.org/wiki/Harold_H._Potter; Jean-Philippe Warren et al., "Reflections: Sociology and Anthropology at Concordia."
+21. Sam Lazarus Fund, Zeffy fundraising page (https://www.zeffy.com/fundraising/8bc0b92d-1ae8-4791-8eeb-d890713c2360); Legacy.com obituary.
 HOF. Camp Administrator Hall of Fame, campadmin.org — Audrey Dowse inductee (nominated 2022), Camp YMCA Kanawana/YMCA Day Camps.
 
 ## Research Notes
