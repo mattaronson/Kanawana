@@ -1911,3 +1911,62 @@ Completed the Analyze → Loop-decide → Process → Hypothesize phases for thr
 8. When did the Shawbridge Meet end? (Last known: 1935)
 9. Are the Council Ring totem poles still standing?
 10. Who directed the camp in 1974-75? (McMaster McLean fonds, Concordia 12B01)
+
+---
+
+## Session 10: Nelson McEwen Deep Research + Camp Becsies Stub (2026-06-22)
+
+### Campaign: Nelson McEwen Deep Biographical Research (p_170 + p_171)
+
+**Objective**: Reconstruct full biography of Nelson McEwen, resolve McMorris date conflict (1930-1931 vs c.1927-1947).
+
+**Searches conducted**: 20+ queries across 8+ search surfaces
+
+| Query | Surface | Result |
+|-------|---------|--------|
+| "Nelson McEwen" YMCA Montreal | Google | Concordia 14D10 archival reference only |
+| "Nelson McEwen" camping Canada CCA | Google | Doug McEwen found in CCA fonds at Trent (different person) |
+| "Nelson McEwen" "Boys Work" YMCA | Google | No new results |
+| "Nelson McEwen" Camp Kanawana | Google | Camp Stephens Alumni blog (primary source, 403 on fetch) |
+| "Nelson McEwen" CCA founder secretary | Google | CCA official: founded 1936, officers were Statten/Edgar/Patterson/Donaldson — no McEwen |
+| "Nelson McEwen" obituary | Google/FindAGrave | Wrong Nelson McEwen (1827-1891). No match for YMCA McEwen |
+| "Nelson McEwen" Camp Pascobac Saint John | Google | Confirmed: Gen Sec Saint John 1947; first Metro Gen Sec Winnipeg 1951 |
+| "Nelson McEwen" Camp Stephens Winnipeg | Google | Doug McEwen director 1966-70 (different person) |
+| "Nelson McEwen" YMCA National Council | Google | No new results |
+| "N. McEwen" YMCA Montreal camp director | Google | Concordia 14D10 only |
+| "Nelson McEwen" Winnipeg General Secretary | Google | No direct results |
+| "Nelson McEwen" Charlottetown PEI | Google/PEI History | PEI History blog (403 on fetch) |
+| Nelson McEwen Hi-Y Geneva Park | Google | Hi-Y Advisers' Clinic 1940 in Concordia |
+| campstephensalumni McEwen CCA Statten | Google | Blog says "founded CCA in 1946" — discrepancy with 1936 official date |
+| "Nelson McEwen" died 1956 YMCA | Google | No direct obit found |
+| campstephensalumni "Nelson McEwen" died active Y service | Google | CONFIRMED: died 1956 in active Y service |
+| site:campstephensalumni.blogspot.com McEwen | Google | 8 pages mention McEwen; founded Order of the Triangle, recruited Mitchel Sharp |
+| "Nelson McEwen" first Metropolitan General Secretary 1951 | Google | No direct confirmation beyond blog snippets |
+| "Doug McEwen" Camp Stephens director son | Google | Doug at Camp Stephens 1966-70 |
+| "Doug McEwen" YMCA camp CCA president | Google | CCA President 1967-1969, YMCA Camp Wa-Sa-Ah-Dun, St. Catharines |
+| CCA founded 1936 OR 1946 reorganized | Google | CCA founded May 20, 1936 at Central YMCA Toronto — 1946 date is blog error or refers to reorganization |
+| Camp Stephens 125th Anniversary McEwen | Google/WebFetch | 403 on blog page |
+| Nelson McEwen Winnipeg Free Press 1956 | Google | No accessible archives |
+
+**Key findings**:
+1. **Death confirmed**: McEwen died 1956 while serving as first Metropolitan General Secretary of Winnipeg YMCA
+2. **Full career**: PEI (b.c.1897) → Winnipeg (1919) → Camp Stephens (1924-27) → Montreal/Kanawana (c.1927-47) → Saint John (1947-51) → Winnipeg Metro (1951-56)
+3. **Order of the Triangle**: Founded by McEwen at Camp Stephens; recruited Mitchel Sharp and Bill Master
+4. **CCA date discrepancy**: Blog says 1946, official CCA says 1936 with different officers — McEwen's role may relate to post-war reorganization
+5. **Doug McEwen**: CCA President 1967-69, Camp Stephens director 1966-70, Camp Wa-Sa-Ah-Dun (St. Catharines) — possibly Nelson's son
+6. **McMorris conflict partially resolved**: McEwen held administrative title (Boys Work Secretary) while operational directors reported to him. McMorris records only on-site director years (1930-31)
+7. **Dead ends**: No obituary text, no photograph, no exact birth/death dates, no family details. All blog pages return 403 on fetch
+
+**Conclusion**: CONCLUDE — web sources exhausted. Further research requires physical archives (Winnipeg Free Press microfiche for 1956 obit, PEI vital records, Concordia 14D10 correspondence).
+
+### Campaign: Camp Becsies Article Stub (p_169)
+
+**Action**: Created wiki/places/camp-becsies.md from 4 existing KB facts (f_0871, f_0872, f_1363, f_1364). Standalone article chosen over section in quebec-camp-landscape because Camp Becsies has sufficient distinct content (two operational periods, specific location, orphans' home connection, dedicated archival sub-series).
+
+### KB and Article Updates
+- **KB**: v4.75 → v4.76. 9 new facts (f_1381-f_1389). 2 new sources. Total: 1351 facts, 441 sources.
+- **directors-index.md**: McEwen entry expanded with death date, Order of the Triangle, Metropolitan Gen Sec role; gap periods updated; source 19 added; research note R9 added.
+- **canadian-camping-movement.md**: CCA founding discrepancy noted; Doug McEwen CCA presidency added; 2 new source refs (8n updated, 8o added).
+- **camp-becsies.md**: New stub created (450 words, 6 open questions).
+- **articles.json**: camp-becsies entry added.
+- **priorities.json**: p_169, p_170, p_171 marked completed.
