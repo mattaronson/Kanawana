@@ -2237,6 +2237,86 @@
       "assigned_weight": "P1",
       "created_at": "2026-06-22T00:00:00Z",
       "status": "blocked"
+    },
+    {
+      "priority_id": "p_177",
+      "description": "Access McMorris thesis (Concordia Spectrum) — search for motto transition, dam references, participant names",
+      "topic": "McMorris thesis deep read",
+      "status": "blocked",
+      "blocking_reason": "Concordia Spectrum requires institutional access or in-person download",
+      "created_at": "2026-06-22T11:30:32Z",
+      "priority": 1,
+      "task_type": "RESEARCH"
+    },
+    {
+      "priority_id": "p_178",
+      "description": "Locate and read 'A Log of Canada's Centenary Journey' (1971) — may contain full participant rosters by section including Kanawana's 6 boys and 2 counsellors",
+      "topic": "CCA Centenary Journey publication",
+      "status": "blocked",
+      "blocking_reason": "Out of print, not digitized. Check WorldCat, Trent University library, or CCA archives.",
+      "created_at": "2026-06-22T11:30:32Z",
+      "priority": 2,
+      "task_type": "RESEARCH"
+    },
+    {
+      "priority_id": "p_179",
+      "description": "Borrow D.S. Penton 'Non Nobis Solum: The History of Lower Canada College' (1972) from Internet Archive — check for Kanawana references",
+      "topic": "LCC history book",
+      "status": "blocked",
+      "blocking_reason": "Internet Archive borrow requires operator account. Book available on IA.",
+      "created_at": "2026-06-22T11:30:32Z",
+      "priority": 3,
+      "task_type": "RESEARCH"
+    },
+    {
+      "priority_id": "p_180",
+      "description": "Create Harold H. Potter (1914-2004) article stub — first Canadian-born Black sociologist, SGW student, Kanawana counsellor (1935-1939)",
+      "topic": "Harold Potter biography",
+      "status": "blocked",
+      "blocking_reason": "no reason",
+      "created_at": "2026-06-22T11:30:32Z",
+      "priority": 2,
+      "task_type": "WRITE"
+    },
+    {
+      "priority_id": "p_181",
+      "description": "Create SGW/Concordia institutional connection article — Potter, Dimock, Seaman, Kass, Fine Arts partnership, CHRCS",
+      "topic": "SGW-Concordia-Kanawana article",
+      "status": "blocked",
+      "blocking_reason": "no reason",
+      "created_at": "2026-06-22T11:30:32Z",
+      "priority": 2,
+      "task_type": "WRITE"
+    },
+    {
+      "priority_id": "p_182",
+      "description": "Add oral history questions from research: (1) motto transition date, (2) dam ceremony description, (3) Joanna Hode spelling, (4) 1967 Centenary Journey participants, (5) 1994 centennial event format",
+      "topic": "Oral history instrument update",
+      "status": "blocked",
+      "blocking_reason": "no reason",
+      "created_at": "2026-06-22T11:30:32Z",
+      "priority": 1,
+      "task_type": "WRITE"
+    },
+    {
+      "priority_id": "p_183",
+      "description": "Research Kate Taylor and Marie-Pierre Lacasse tenures — exact start/end dates, any additional programming innovations",
+      "topic": "Modern director tenures",
+      "status": "blocked",
+      "blocking_reason": "YMCA Quebec website 403 blocked. LinkedIn requires auth. Basic facts already captured.",
+      "created_at": "2026-06-22T11:30:32Z",
+      "priority": 3,
+      "task_type": "RESEARCH"
+    },
+    {
+      "priority_id": "p_184",
+      "description": "Contact CRE Laurentides to request 'wilson-2' lake page data — may be Camp Kanawana's Lake Wilson",
+      "topic": "Lake Wilson identification",
+      "status": "blocked",
+      "blocking_reason": "Requires operator email/phone contact with CRE Laurentides",
+      "created_at": "2026-06-22T11:30:32Z",
+      "priority": 3,
+      "task_type": "RESEARCH"
     }
   ]
 }

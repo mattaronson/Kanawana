@@ -37,7 +37,7 @@ Caddell died on October 16, 2005 in Tupiza, Bolivia, at age 32, of pulmonary ede
 | 2010 | — | *No documented recipient* | — |
 | 2011 | Bruce Netherwood | Staff, late 1980s–1990s | VP Camping Services, South Shore YMCA (Massachusetts)^3 |
 | 2012 | John Cleghorn | Alumnus; chaired Montreal YMCA | Chairman and CEO, Royal Bank of Canada; Officer of the Order of Canada^3 ^10 |
-| 2013 | Sam Lazarus (posthumous) & family | Alumnus | Worked with orphans in Ghana; died of cerebral malaria c. 2004^3 |
+| 2013 | Sam Lazarus (posthumous) & family | Camper and staff | Died 2004 (age 25) of cerebral malaria in Ghana while working at orphanage. SAM JAM annual fundraiser at Kanawana (17+ years).^3 ^19 |
 | 2014 | Jeniene Phillips Birks | Alumna | CBC Montreal television journalist; community volunteer^3 |
 | 2015 | Terry "Aislin" Mosher | Camper 1952–53 | Montreal Gazette editorial cartoonist; Officer of the Order of Canada^2 |
 | 2016 | Carol Skinner | Counsellor/Section Director 1990–95 | ALS advocate; Master's in Art Therapy; Director of YMCA Camp Hayward; CMHA Art Therapist^1 |
@@ -59,7 +59,7 @@ Caddell holds a BA and MA in Journalism from Carleton University (MA 2002).^11 ^
 
 ## The Sam Lazarus Legacy
 
-Samuel Karl Lazarus was born March 3, 1978 in Montreal. He worked with children at an orphanage in Kumasi, Ghana, where he died on January 14, 2004 of cerebral malaria at age 25.^12 His obituary appeared in the Montreal Gazette on January 24, 2004, with directions for donations to the Samuel Lazarus Fund at Kamp Kanawana, 1435 Drummond Street, 4th Floor, Montreal.^12 His family received the Pip Award posthumously in 2013.^3 In his memory, the annual "Sam Jam" (Five-Hole Sam Street Hockey Jamboree) fundraiser has raised approximately $230,000 and sent over 50 children to Camp Kanawana.^3 The Sam Lazarus Fund continues through the Fondation des YMCA du Québec.
+Samuel Karl Lazarus (1979–2004) was a Kanawana camper and staff member "for most of his childhood."^19 He worked with children at an orphanage in Ghana, where he died in 2004 of cerebral malaria at age 25.^12 ^19 His obituary appeared in the Montreal Gazette on January 24, 2004, with directions for donations to the Samuel Lazarus Fund at Kamp Kanawana, 1435 Drummond Street, 4th Floor, Montreal.^12 The fund was established by his mother Janet Torge and brother Riel Lazarus.^19 His family received the Pip Award posthumously in 2013.^3 In his memory, the annual "SAM JAM" fundraiser has been held at Camp Kanawana for 17+ years, raising approximately $230,000 and sending over 50 children to camp.^3 ^19 Rochelle Lazarus, a Concordia Sociology undergraduate, was a founding member of the YMCA Kanawana Sam Lazarus Fund, recognized at Concordia in 2011.^19 The fund continues through the Fondation des YMCA du Québec.
 
 ## Open Questions
 
@@ -98,6 +98,7 @@ Samuel Karl Lazarus was born March 3, 1978 in Montreal. He worked with children 
 16. Wikipedia, "James Caddell." URL: https://en.wikipedia.org/wiki/James_Caddell. BillionGraves, "Lawrence James Caddell." URL: https://billiongraves.com/grave/Lawrence-James-Caddell/13894960.
 17. CARE Canada, "CARE Canada Welcomes Tara Newell" (August 2025). URL: https://care.ca/2025/08/29/care-canada-welcomes-tara-newell/
 18. Canadian Global Affairs Institute, "Andrew Caddell" Fellow page. URL: https://www.cgai.ca/andrew_caddell. Heritage Lower St. Lawrence community profile.
+19. Sam Lazarus Fund, Zeffy fundraising page (https://www.zeffy.com/fundraising/8bc0b92d-1ae8-4791-8eeb-d890713c2360); Legacy.com obituary; Concordia University, "Recognizing Outstanding Concordians" (2011); Facebook SAM JAM event pages.
 
 ## Research Notes
 

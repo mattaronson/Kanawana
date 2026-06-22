@@ -1,7 +1,7 @@
 # Environmental Education and Stewardship at Kanawana
 
 *Status: E1-reviewed | Sources: 19*
-*Last Updated: 2026-06-13 (C-Vert founding date added: 2005, 120 teens/summer)*
+*Last Updated: 2026-06-22 (RSVL station 573 confirmed, Swim Guide listing, lake data refined)*
 
 ## Overview
 
@@ -21,7 +21,7 @@ The camp replaced its entire septic system with 16 commercial Clivus Multrum com
 
 ### Lake Monitoring
 
-Lac Kanawana participates in Quebec's Réseau de surveillance volontaire des lacs (RSVL) voluntary lake monitoring network.^3 Monitoring includes Secchi disk transparency measured every two weeks from June to October, and water samples analyzed for phosphorus, dissolved organic carbon, and chlorophyll a by the Centre d'expertise en analyse environnementale du Québec (CEAEQ).^3 Water quality data has been available since at least 2013. The lake has a surface area of 0.235 km², maximum depth of 12.5 metres, and a rapid water renewal time of 0.43 years.^3
+Lac Kanawana participates in Quebec's Réseau de surveillance volontaire des lacs (RSVL) as station 573.^3 Monitoring includes Secchi disk transparency measured every two weeks from June to October, and water samples analyzed for phosphorus, dissolved organic carbon, and chlorophyll a by the Centre d'expertise en analyse environnementale du Québec (CEAEQ).^3 Water quality data has been available since at least 2013, with CRE Laurentides technical support reports for Saint-Sauveur lakes covering 2013-2024.^3 The lake has a surface area of 0.2388 km², maximum depth of 12.4 metres, volume of 1,273,000 m³, and a rapid water renewal time of 0.43 years.^3 The camp beach is formally listed on Swim Guide (ID 5490) and the Great Lakes Guide, indicating ongoing water quality monitoring for swimming safety.^3
 
 ## Conservation Programming
 
@@ -80,7 +80,7 @@ The Canadian Summer Camp Research Project (CSCRP, 2006–2011), conducted by the
 ## Open Questions
 
 1. ~~[Important] When exactly within the 2006–2009 green shift was the Clivus Multrum system installed?~~ [Resolved] Grand Portage cabin demolished ~2006 to make way; two green sanitary installations tested summers 2007 and 2008; system operational by 2007.
-2. [Important] What specific RSVL water quality results exist for Lac Kanawana? Lac de la Montagne Noire (RSVL 0391A, oligotrophic, 6.2m transparency 2021) is a different lake in Lantier/Val-des-Lacs/Saint-Donat. No RSVL monitoring found for Lac Kanawana itself.
+2. [Partially resolved] Lac Kanawana has RSVL station number 573 with monitoring data since at least 2013; CRE Laurentides technical support reports for Saint-Sauveur lakes exist for 2013-2024. However, actual numeric water quality values (phosphorus, chlorophyll, transparency, trophic status) could not be retrieved due to 403 blocks on CRE Laurentides and RSVL data portals. The camp beach is listed on Swim Guide (ID 5490) as "Plage du camp Kanawana YMCA camp Beach."
 3. [Important] Has the camp's environmental programming been influenced by specific pedagogical frameworks (e.g., place-based education, bioregionalism)?
 4. ~~[Nice-to-have] Is the 1980 "Chris Adams" who ran the Nature Awareness program the same person as the 2017 Pip Award recipient Chris Adam?~~ [Resolved] Very likely the same person: both from Vanier/Dawson area, both with wildlife/nature expertise, surname difference is a transcription variant in 1980 Ka-News.
 5. [Nice-to-have] Has the camp participated in any formal ecological surveys or biodiversity inventories?
