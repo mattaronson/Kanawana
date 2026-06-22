@@ -1,8 +1,8 @@
 {
-  "version": "v4.75",
-  "kb_version": 4.75,
+  "version": "v4.76",
+  "kb_version": 4.76,
   "migrated_from": "3.3",
-  "fact_count": 1342,
+  "fact_count": 1351,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -23139,6 +23139,174 @@
       "date_ref": "2019-2023",
       "conflicts_with": [],
       "added_version": "4.75",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1381",
+      "claim": "Nelson McEwen died in 1956 while still in active YMCA service. He was serving as the first Metropolitan General Secretary of the Winnipeg YMCA at the time of his death, a position he accepted in 1951 after serving as General Secretary of the Saint John YMCA (1947-1951).",
+      "sources": [
+        "src_camp_stephens_alumni_blog"
+      ],
+      "confidence": "stated",
+      "category": "biography",
+      "entities": [
+        "Nelson McEwen",
+        "YMCA Winnipeg"
+      ],
+      "date_ref": "1956",
+      "conflicts_with": [],
+      "added_version": "4.76",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1382",
+      "claim": "Nelson McEwen's full career timeline: born c.1897 Charlottetown, PEI; hired 1919 (age 22) as Assistant Boys Work Secretary, Winnipeg YMCA; directed Camp Stephens 1924-1927; recruited to Montreal YMCA as Boys Work Secretary c.1927; directed Camp Kanawana c.1927-1947; General Secretary, Saint John YMCA 1947-1951; first Metropolitan General Secretary, Winnipeg YMCA 1951-1956; died 1956 in active service.",
+      "sources": [
+        "src_camp_stephens_alumni_blog"
+      ],
+      "confidence": "stated",
+      "category": "biography",
+      "entities": [
+        "Nelson McEwen",
+        "Camp Stephens",
+        "Camp Kanawana",
+        "YMCA Winnipeg",
+        "YMCA Saint John",
+        "YMCA Montreal"
+      ],
+      "date_ref": "1897-1956",
+      "conflicts_with": [],
+      "added_version": "4.76",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1383",
+      "claim": "Nelson McEwen founded the 'Order of the Triangle' at Camp Stephens, Winnipeg, during his tenure there (c.1919-1927). Through this program he recruited young men including Mitchel Sharp and Bill Master to YMCA service.",
+      "sources": [
+        "src_camp_stephens_alumni_blog"
+      ],
+      "confidence": "stated",
+      "category": "programs",
+      "entities": [
+        "Nelson McEwen",
+        "Camp Stephens",
+        "Mitchel Sharp",
+        "Order of the Triangle"
+      ],
+      "date_ref": "1919-1927",
+      "conflicts_with": [],
+      "added_version": "4.76",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1384",
+      "claim": "At the Saint John YMCA (1947-1951), Nelson McEwen recruited Ross Bannerman, Lloyd and Niles Ring, and Doug Allen to YMCA careers. This confirms the connection chain: McEwen recruited Bannerman at Saint John, Bannerman later directed Camp Pascobac (1951) and Camp Stephens (1956), then authored the 1969 Report on Kamp Kanawana.",
+      "sources": [
+        "src_camp_stephens_alumni_blog"
+      ],
+      "confidence": "stated",
+      "category": "biography",
+      "entities": [
+        "Nelson McEwen",
+        "Ross Bannerman",
+        "YMCA Saint John"
+      ],
+      "date_ref": "1947-1951",
+      "conflicts_with": [],
+      "added_version": "4.76",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1385",
+      "claim": "The Camp Stephens Alumni blog states McEwen 'founded the Canadian Camping Association in 1946 with his good friend Taylor Statten.' The official CCA records show the CCA was founded on May 20, 1936, with Statten as president and Dr. George S. Patterson as secretary. McEwen's role may relate to a 1946 reorganization or national assembly rather than the original 1936 founding. The discrepancy between 1936 (CCA official) and 1946 (Camp Stephens blog) is unresolved.",
+      "sources": [
+        "src_camp_stephens_alumni_blog",
+        "src_cca_history"
+      ],
+      "confidence": "disputed",
+      "category": "camping_movement",
+      "entities": [
+        "Nelson McEwen",
+        "Taylor Statten",
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1936-1946",
+      "conflicts_with": [
+        "f_1360"
+      ],
+      "added_version": "4.76",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1386",
+      "claim": "Doug McEwen served as director of Camp Stephens from 1966-1970 and as President of the Canadian Camping Association from 1967-1969. He is listed in the CCA fonds at Trent University Archives as associated with 'YMCA Camp Wa-Sa-Ah-Dun, St. Catharines, Ontario.' His relationship to Nelson McEwen (possible son) is suggested by context but not confirmed.",
+      "sources": [
+        "src_camp_stephens_alumni_blog",
+        "src_cca_history"
+      ],
+      "confidence": "inferred",
+      "category": "camping_movement",
+      "entities": [
+        "Doug McEwen",
+        "Camp Stephens",
+        "Canadian Camping Association",
+        "Camp Wa-Sa-Ah-Dun"
+      ],
+      "date_ref": "1966-1970",
+      "conflicts_with": [],
+      "added_version": "4.76",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1387",
+      "claim": "The McMorris thesis documents Nelson McEwen as camp director in 1930-1931 only. The Camp Stephens Alumni blog documents him as Boys Work Secretary of the Montreal YMCA from c.1927 to 1947, directing Camp Kanawana throughout. The discrepancy is likely explained by McEwen holding an administrative title (Boys Work Secretary) while operational camp directors (Camp Chief / Director) such as Greig Macdiarmid (1935-1938) reported to him. McMorris may document only the years McEwen personally served as on-site camp director.",
+      "sources": [
+        "src_mcmorris_thesis",
+        "src_camp_stephens_alumni_blog"
+      ],
+      "confidence": "inferred",
+      "category": "directors",
+      "entities": [
+        "Nelson McEwen",
+        "Camp Kanawana",
+        "Greig Macdiarmid"
+      ],
+      "date_ref": "1927-1947",
+      "conflicts_with": [
+        "f_0040"
+      ],
+      "added_version": "4.76",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1388",
+      "claim": "Concordia Archives sub-series 14D10 contains 'National Council Boys' Work Secretary, Nelson McEwen — E. M. Nelson Correspondence, 1941-1945.' This confirms McEwen's National Council role and his concurrent connection to the Montreal YMCA during wartime.",
+      "sources": [
+        "src_concordia_14D10"
+      ],
+      "confidence": "stated",
+      "category": "archival",
+      "entities": [
+        "Nelson McEwen",
+        "YMCA National Council"
+      ],
+      "date_ref": "1941-1945",
+      "conflicts_with": [],
+      "added_version": "4.76",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1389",
+      "claim": "Nelson McEwen's deep biographical research (20+ web searches across 8+ surfaces) yielded no obituary text, no photograph, no birth/death exact dates, and no family details beyond what the Camp Stephens Alumni blog provides. Find A Grave has no matching record. Winnipeg Free Press historical archives not accessible online. Further research requires: (1) Winnipeg Free Press microfiche for 1956 obituary, (2) PEI vital statistics for birth record, (3) Concordia Archives 14D10 correspondence for biographical details.",
+      "sources": [],
+      "confidence": "stated",
+      "category": "research_notes",
+      "entities": [
+        "Nelson McEwen"
+      ],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "4.76",
       "added_by": "ralph_loop"
     }
   ]

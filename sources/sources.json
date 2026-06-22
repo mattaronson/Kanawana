@@ -7025,7 +7025,39 @@
                   "extraction_version": "4.75",
                   "reliability": "primary",
                   "notes": "Burial record under alternate name ordering 'Lawrence James Caddell.' WebFetch returned 403."
+            },
+            {
+                  "source_id": "src_concordia_14D10",
+                  "type": "catalog_reference",
+                  "title": "Concordia University Archives — YMCA of Montreal fonds P0145, sub-sub-series 14D10: National Council Boys' Work Secretary correspondence",
+                  "date": "1941-1945",
+                  "date_precision": "year",
+                  "origin": "concordia_archives",
+                  "origin_url": "https://www.concordia.ca/offices/archives/ymca-fonds-sub-sub-series-14D10.html",
+                  "cache_path": null,
+                  "char_count": 0,
+                  "ingested_at": "2026-06-22T01:00:00Z",
+                  "extracted": false,
+                  "extraction_version": null,
+                  "reliability": "primary",
+                  "notes": "Contains Nelson McEwen — E. M. Nelson correspondence, 1941-1945. Not digitized; physical archive access required."
+            },
+            {
+                  "source_id": "src_cca_history",
+                  "type": "web",
+                  "title": "Canadian Camps Association — Our History (ccamping.org/history)",
+                  "date": "2026",
+                  "date_precision": "year",
+                  "origin": "web",
+                  "origin_url": "https://www.ccamping.org/history",
+                  "cache_path": null,
+                  "char_count": 0,
+                  "ingested_at": "2026-06-22T01:00:00Z",
+                  "extracted": true,
+                  "extraction_version": "4.76",
+                  "reliability": "secondary",
+                  "notes": "Official CCA history page. Lists past presidents including Doug McEwen (Ontario, 1967-1969). Founding date May 20, 1936 at Central YMCA Toronto. WebFetch returned 403 but search snippets extracted key data."
             }
       ],
-      "source_count": 439
+      "source_count": 441
 }
