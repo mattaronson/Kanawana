@@ -2140,11 +2140,13 @@
                   "rank": 169,
                   "type": "WRITE",
                   "description": "Create Camp Becsies article stub — now has 5+ facts: Lac des Becs-scie location (Saint-Sauveur/Mille-Isles), orphans' home connection (1934/1936), family camping (1960-1971), archival records (P0145/12D). Assess whether standalone article or section in quebec-camp-landscape is more appropriate.",
-                  "article_id": null,
+                  "article_id": "camp-becsies",
                   "blocking": false,
                   "assigned_weight": "P2",
                   "created_at": "2026-06-22T00:00:00Z",
-                  "status": "pending"
+                  "status": "completed",
+                  "completed_at": "2026-06-22T01:00:00Z",
+                  "result": "Camp Becsies stub created at wiki/places/camp-becsies.md. Standalone article chosen (sufficient content for independent article). 450 words, 4 KB facts cited (f_0871, f_0872, f_1363, f_1364), 3 sources, 6 open questions. Article added to articles.json."
             },
             {
                   "priority_id": "p_170",
@@ -2155,7 +2157,9 @@
                   "blocking": false,
                   "assigned_weight": "P1",
                   "created_at": "2026-06-22T00:00:00Z",
-                  "status": "pending"
+                  "status": "completed",
+                  "completed_at": "2026-06-22T01:00:00Z",
+                  "result": "Formal RALPH R1 completed. 20+ web searches across 8+ surfaces. KEY FINDINGS: (1) McEwen died 1956 in active YMCA service as first Metropolitan General Secretary of Winnipeg YMCA. (2) Full career reconstructed: PEI (b.c.1897) → Winnipeg (1919) → Camp Stephens (1924-27) → Montreal/Kanawana (c.1927-47) → Saint John (1947-51) → Winnipeg (1951-56, died). (3) Founded Order of the Triangle at Camp Stephens, recruited Mitchel Sharp. (4) CCA founding date discrepancy: blog says 1946, official says 1936. (5) Doug McEwen (CCA President 1967-69) may be son. (6) No obituary, photo, or exact dates found — requires physical archives. 9 new facts (f_1381-f_1389), 2 new sources. Directors-index and canadian-camping-movement articles updated."
             },
             {
                   "priority_id": "p_171",
@@ -2166,7 +2170,9 @@
                   "blocking": false,
                   "assigned_weight": "P2",
                   "created_at": "2026-06-22T00:00:00Z",
-                  "status": "pending"
+                  "status": "completed",
+                  "completed_at": "2026-06-22T01:00:00Z",
+                  "result": "Conflict partially resolved in f_1387. McEwen held administrative title (Boys Work Secretary) across c.1927-1947 while operational camp directors (Camp Chief Macdiarmid 1935-38, Senior Director Langille 1941, Camp Director Hanagan 1942/1946) reported to him. McMorris likely documents only the 1930-1931 years when McEwen served as on-site camp director. The blog's 'directed Camp Kanawana' likely means 'administratively oversaw' rather than 'personally served as on-site director' for the full 20-year period. Cannot fully resolve without Concordia Archives 12B01 season reports showing reporting structure."
             },
             {
                   "priority_id": "p_172",

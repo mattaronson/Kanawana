@@ -1988,3 +1988,30 @@ HYPOTHESIZE — Remaining productive research requires:
   - Shawbridge Meet: CONCLUDE (exhausted, no online sources)
   - Council Ring totem poles: ADVANCE (visual sources exist but blocked, needs manual browsing)
   - 1974-75 Director: ADVANCE (archival sources remain, McMaster and Concordia)
+
+2026-06-22T01:00:00Z | RALPH R1 | Nelson McEwen deep biographical research (p_170 + p_171)
+  - RETRIEVE: 20+ web searches across 8+ surfaces (Google, Camp Stephens Alumni blog, Concordia Archives, Find A Grave, CCA history, Trent Archives, PEI history, Winnipeg YMCA)
+  - ANALYZE: KEY FINDINGS:
+    (1) McEwen died 1956 in active YMCA service — first Metropolitan General Secretary, Winnipeg YMCA
+    (2) Full career: Charlottetown PEI (b.c.1897) → Winnipeg Asst Boys Work Sec (1919) → Camp Stephens director (1924-27) → Montreal Boys Work Sec / Kanawana (c.1927-47) → Gen Sec Saint John YMCA (1947-51) → first Metro Gen Sec Winnipeg YMCA (1951-56, died in service)
+    (3) Founded 'Order of the Triangle' at Camp Stephens, recruited Mitchel Sharp and Bill Master
+    (4) CCA founding discrepancy: blog says 1946, official CCA says 1936 — McEwen's role likely 1946 reorganization
+    (5) Doug McEwen: Camp Stephens director 1966-70, CCA President 1967-69, possibly Nelson's son
+    (6) Concordia 14D10 confirms McEwen correspondence 1941-1945
+    (7) No obituary text, photo, exact dates, or family details found — requires physical archives
+  - LOOP DECISION: CONCLUDE — web sources exhausted after 20+ queries across 8+ surfaces. Further research requires Winnipeg Free Press microfiche, PEI vital records, Concordia 14D10 physical access.
+  - PROCESS: 9 new facts (f_1381-f_1389), 2 new sources (src_concordia_14D10, src_cca_history). directors-index.md updated (McEwen entry expanded, gap periods updated, source 19 added, research note R9 added). canadian-camping-movement.md updated (CCA founding discrepancy noted, Doug McEwen CCA presidency added).
+  - HYPOTHESIZE: (1) Winnipeg Free Press 1956 obituary would provide death date, family details, career summary. (2) PEI vital records would confirm birth date. (3) Concordia 14D10 correspondence may contain biographical details. (4) Doug McEwen's relationship to Nelson could be confirmed via Camp Stephens Alumni blog author or YMCA Winnipeg records. (5) The 'Order of the Triangle' may parallel Kanawana's own honour system — worth investigating. (6) Mitchel Sharp's autobiography may mention Camp Stephens and McEwen.
+  - p_170, p_171 completed
+
+2026-06-22T01:00:00Z | WRITE | camp-becsies.md — Stub article created (p_169)
+  - Created wiki/places/camp-becsies.md (stub, 450 words)
+  - 4 KB facts cited (f_0871, f_0872, f_1363, f_1364), 3 sources, 6 open questions
+  - Covers: location on Lac des Becs-scie, two operational periods (1929-36, 1960-71), orphans' home connection, family camping, archival records
+  - Article added to wiki/articles.json
+  - p_169 completed
+
+2026-06-22T01:00:00Z | KB VERSION | v4.75 → v4.76
+  - 9 new facts (f_1381-f_1389): McEwen death (1956), full career timeline, Order of the Triangle, CCA discrepancy, Doug McEwen, McMorris conflict analysis, Concordia 14D10 record, research exhaustion note
+  - 2 new sources (src_concordia_14D10, src_cca_history)
+  - Total: 1351 facts, 441 sources
