@@ -50,7 +50,7 @@ The camps also shared overlapping communities of Montreal youth workers. Frank E
 
 ## Related Articles
 
-- [[context/camp-otoreke|Camp Otoreke]]
+- [[places/camp-otoreke|Camp Otoreke]]
 - [[people/directors-index|Directors and Staff of Camp Kanawana]]
 - [[chronology/wartime-kanawana|Wartime Kanawana]]
 

@@ -3938,37 +3938,7 @@
         "f_1093",
         "f_1237"
       ],
-      "sources_cited": [
-        "src_ymca_quebec_pip_skinner",
-        "src_patten_obituary",
-        "src_ssymca_netherwood",
-        "src_cbmu_history",
-        "src_concordia_p0145_12a_finding_aid",
-        "src_ymca_quebec_pip_orbinski_2024",
-        "src_ymca_pip_adam",
-        "src_ymca_pip_sharpe",
-        "src_ymca_pip_skinner",
-        "src_ymca_pip_mosher",
-        "src_oral_aronson",
-        "src_montreal_gazette_lazarus_2004",
-        "src_myjewishlearning_lazarus",
-        "src_ka_news_1980",
-        "src_wikipedia_orbinski",
-        "src_postmedia_nature_deficit_2026",
-        "src_fagstein_cbc_montreal",
-        "src_imdb_phillips",
-        "src_canadian_encyclopedia_cleghorn",
-        "src_cbc_dawson_green_gown",
-        "src_concordia_orbinski",
-        "src_rmc_sharpe_faculty",
-        "src_radicalresthomes_about",
-        "src_cbc_sam_jam_2015",
-        "src_amazon_dear_sam",
-        "src_imdb_torge",
-        "src_bookshop_torge_old",
-        "src_zeffy_lazarus_fund",
-        "src_wikipedia_harold_potter"
-      ],
+      "sources_cited": 36,
       "open_questions": 6,
       "cross_links": [
         "pip-alumni-award",
@@ -4415,27 +4385,37 @@
       "article_id": "harold-potter",
       "title": "Harold H. Potter",
       "wiki_folder": "people",
-      "status": "stub",
+      "status": "draft",
       "status_history": [
         {
           "status": "stub",
           "at": "2026-06-22T12:00:00Z",
           "by": "auto",
           "task": "WRITE"
+        },
+        {
+          "status": "draft",
+          "at": "2026-06-22T11:52:13.590092+00:00",
+          "by": "auto",
+          "task": "WRITE"
         }
       ],
-      "ralph_loops_completed": 0,
+      "ralph_loops_completed": 1,
       "kb_facts_used": [
-        "f_1269",
-        "f_1270",
-        "f_1271",
-        "f_1272",
-        "f_1409"
+        "f_1409",
+        "f_1440",
+        "f_1441",
+        "f_1442",
+        "f_1443",
+        "f_1444",
+        "f_1445",
+        "f_1446",
+        "f_1447",
+        "f_1448",
+        "f_1449",
+        "f_1450"
       ],
-      "sources_cited": [
-        "src_wikipedia_harold_potter",
-        "src_wikipedia_potter"
-      ],
+      "sources_cited": 7,
       "open_questions": 4,
       "cross_links": [
         "sgw-concordia-connection",
@@ -4445,7 +4425,7 @@
         "ymca-quebec-history"
       ],
       "file_id": null,
-      "word_count": 450
+      "word_count": 1200
     },
     {
       "article_id": "sgw-concordia-connection",

@@ -55,7 +55,7 @@ The cost in 1918 was $8.00 per week, rising to $8.50 per week by 1923, including
 
 ## Physical Plant by the 1920s-1930s
 
-The 1923 brochure and 1935 history together describe a camp that had grown into a substantial physical operation. Two large pavilions served dining and recreation (the latter equipped with a fireplace). The waterfront featured a flotilla of boats and canoes, four diving boards, and a zinc slide into the lake. Elsewhere on the property stood an open-air chapel, a [[programs/council-ring|Council Ring]] for woodcraft meetings, an icehouse, a hospital building, and a golf course. Water came from two mountain spring wells. Boys slept in tents with wood floors, each housing 8-10 campers with a counsellor.
+The 1923 brochure and 1935 history together describe a camp that had grown into a substantial physical operation. Two large pavilions served dining and recreation (the latter equipped with a fireplace). The waterfront featured a flotilla of boats and canoes, four diving boards, and a zinc slide into the lake. Elsewhere on the property stood an open-air chapel, a [[places/council-ring|Council Ring]] for woodcraft meetings, an icehouse, a hospital building, and a golf course. Water came from two mountain spring wells. Boys slept in tents with wood floors, each housing 8-10 campers with a counsellor.
 
 ## Open Questions
 
@@ -68,9 +68,9 @@ The 1923 brochure and 1935 history together describe a camp that had grown into 
 
 ## Related Articles
 
-- [[directors-index]] - Full director/chief chronology
-- [[saint-sauveur-site]] - Geography and evolution of the current site
-- [[canadian-camping-movement]] - Broader context of YMCA camping in Canada
+- [[people/directors-index|Directors and Staff of Camp Kanawana]]
+- [[places/the-kanawana-site|The Kanawana Site]]
+- [[context/canadian-camping-movement|The Canadian Camping Movement]]
 
 ## Sources
 

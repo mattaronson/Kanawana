@@ -17,7 +17,7 @@ The YMCA of Montreal operated multiple camps alongside Kanawana. The Concordia U
 
 **Camp Dorval**. A short-lived YMCA Montreal camp documented in Concordia Archives sub-series P0145/12E, with records dating from 1926 to 1928.^2
 
-**Camp Becsies**. Another YMCA Montreal camp, documented in P0145/12D, with records spanning 1929–1936 and 1960–1971.^2 The gap in the archival record (1936–1960) raises questions about whether the camp operated continuously or was revived after a hiatus.
+**[[places/camp-becsies|Camp Becsies]]**. Another YMCA Montreal camp on Lac des Becs-scie, approximately 1.5 km west of Camp Kanawana. Documented in P0145/12D, with records spanning 1929–1936 and 1960–1971.^2 The camp served youth (including children from the Montreal Protestant Orphans' Home) in its first period, and was repurposed for family camping in its second.
 
 **YMCA Day Camps**. In recent decades, the YMCA of Quebec ran day camps at Concordia University (Fine Arts Camp, Science and Engineering Camp) alongside Camp Kanawana programs, until discontinuing day camps in fall 2025.^4
 

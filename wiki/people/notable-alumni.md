@@ -1,7 +1,7 @@
 # Notable Alumni of Camp Kanawana
 
-*Status: E1-reviewed | Sources: 33*
-*Last Updated: 2026-06-20*
+*Status: E1-reviewed | Sources: 36*
+*Last Updated: 2026-06-22*
 
 ## Overview
 
@@ -75,6 +75,18 @@ Montreal marine surveyor and "ardent YMCA worker."^4 Elected Treasurer of the Ca
 
 Harold Herbert Potter grew up in Little Burgundy, Montreal's English-speaking Black community, the son of émigrés from British Guiana.^33 He worked as a camp counsellor at Kamp Kanawana during summers while earning his B.A. at Sir George Williams College (1935–1939).^33 Potter edited The Georgian, the SGW student newspaper, in 1938–39 — a position later held by Mordecai Richler.^33 In 1947, he became the first Canadian-born Black sociologist hired by a Canadian post-secondary institution when appointed lecturer in Sociology at Sir George Williams College (now part of Concordia University).^33
 
+### Rev. John Tudor Harries (d. Aurora, ON)
+
+Career "seeded at" Camp Kanawana per his obituary, alongside Manor Road United Church and Central Neighborhood House, Toronto. Later ordained into United Church ministry and served as Program Director of the United Church of Canada's Cedar Glen Conference and Education Centre near Bolton, Ontario (1976).^34
+
+### George Clouston (d. 2011)
+
+"Enthusiastic volunteer and member" of the YMCA and its Kamp Kanawana "as a young man while attending West Hill High School" in Montreal.^35
+
+### Douglas Warren Marston (c. 1918–2011)
+
+Attended Kamp Kanawana as a "junior summer camp" participant. Died November 14, 2011 in his 94th year.^36
+
 ### Xavier Maclaren (fl. 2020s)
 
 Attended Camp Kanawana for six summers before becoming a camp counsellor and canoe tripper.^16 Featured in a 2026 Postmedia article about the camp's approach to addressing nature-deficit disorder among Montreal youth.
@@ -87,7 +99,9 @@ Attended Camp Kanawana for six summers before becoming a camp counsellor and can
 - [[people/dave-twynam|G. David Twynam]]
 - [[people/edgar-smee|Edgar E. Smee]]
 - [[people/sean-day|Sean Day]]
+- [[people/harold-potter|Harold H. Potter]]
 - [[people/directors-index|Directors and Staff of Camp Kanawana]]
+- [[context/sgw-concordia-connection|Sir George Williams / Concordia University and Camp Kanawana]]
 - [[programs/traditions-and-culture|Traditions and Culture at Kanawana]]
 
 ## Open Questions
@@ -135,3 +149,6 @@ Attended Camp Kanawana for six summers before becoming a camp counsellor and can
 31. Dawson College Newsroom, "Chris Adam to receive Governor General's Meritorious Service Medal." URL: https://www.dawsoncollege.qc.ca/news/dawsons-chris-adam-to-receive-governor-generals-meritorious-service-decoration/
 32. Dawson College, Chris Adam researcher profile (M.Ed., wildlife/fish management). URL: https://www.dawsoncollege.qc.ca/research/researchers/adam-chris/
 33. Wikipedia, "Harold H. Potter." URL: https://en.wikipedia.org/wiki/Harold_H._Potter
+34. Obituary, John Tudor Harries, Dignity Memorial (Aurora, Ontario). URL: https://www.dignitymemorial.com/obituaries/aurora-on/john-harries-11761309
+35. Obituary, George Clouston, Legacy Remembers (2011). URL: https://www.legacy.com/us/obituaries/legacyremembers/george-clouston-obituary?id=42863406
+36. Obituary, Douglas Warren Marston, Toronto Star / Legacy.com (2011). URL: https://www.legacy.com/obituaries/thestar/obituary.aspx?n=douglas-warren-marston&pid=154662261

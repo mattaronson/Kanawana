@@ -1,5 +1,5 @@
 {
-  "version": "v4.79",
+  "version": "v4.81",
   "kb_version": 4.78,
   "migrated_from": "3.3",
   "fact_count": 1433,
@@ -24122,6 +24122,253 @@
       "date_ref": "1917",
       "conflicts_with": [],
       "added_version": "v4.79",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1437",
+      "claim": "Rev. John Tudor Harries (B.A., M.Div.) listed Camp Kanawana as an early career formative experience, alongside Manor Road United Church, Central Neighborhood House (Toronto), and Regent Park United Church. He later became Program Director of the United Church of Canada's Cedar Glen Conference and Education Centre near Bolton, Ontario (1976). Died in Aurora, Ontario, following kidney cancer.",
+      "sources": [
+        "src_harries_obituary"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "John Tudor Harries",
+        "Camp Kanawana",
+        "Cedar Glen Conference Centre"
+      ],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "v4.80",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1438",
+      "claim": "George Clouston (d. 2011) was described in his obituary as having been 'an enthusiastic volunteer and member' of the YMCA and its Kamp Kanawana 'as a young man while attending West Hill High School' in Montreal.",
+      "sources": [
+        "src_clouston_obituary"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "George Clouston",
+        "Kamp Kanawana",
+        "West Hill High School"
+      ],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "v4.80",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1439",
+      "claim": "Douglas Warren Marston (c.1918-2011) attended Kamp Kanawana as a 'junior summer camp' participant. He died November 14, 2011 in his 94th year.",
+      "sources": [
+        "src_marston_obituary"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "Douglas Warren Marston",
+        "Kamp Kanawana"
+      ],
+      "date_ref": "c.1930s",
+      "conflicts_with": [],
+      "added_version": "v4.80",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1440",
+      "claim": "Harold H. Potter was born March 27, 1914 and died May 8, 2004 in Montreal at age 90.",
+      "sources": [
+        "src_wikipedia_potter",
+        "src_warren_reflections"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "Harold H. Potter"
+      ],
+      "date_ref": "1914-03-27",
+      "conflicts_with": [],
+      "added_version": "v4.81",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1441",
+      "claim": "Harold Potter's father Alfred Moore Westerby Potter (1885-1947) emigrated from British Guiana in 1907 and worked as a redcap porter at Windsor Station, Montreal. He and other CNR porters received official union recognition in 1943. His mother Gertrude Miller Potter (1890-1979) emigrated in 1910 and volunteered for the Negro Community Centre from 1927.",
+      "sources": [
+        "src_wikipedia_potter"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "Harold H. Potter",
+        "Alfred Potter",
+        "Gertrude Potter"
+      ],
+      "date_ref": "1907",
+      "conflicts_with": [],
+      "added_version": "v4.81",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1442",
+      "claim": "Potter earned his MA at McGill University (1947-1949) supervised by Oswald Hall, with thesis 'The Occupational Adjustments of Montreal Negroes, 1941-48.' The thesis found that nearly 50% of Black male wage earners were sleeping car porters and 80% of Black women were in domestic service. It became a standard citation for decades.",
+      "sources": [
+        "src_wikipedia_potter",
+        "src_warren_reflections"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "Harold H. Potter",
+        "Oswald Hall",
+        "McGill University"
+      ],
+      "date_ref": "1949",
+      "conflicts_with": [],
+      "added_version": "v4.81",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1443",
+      "claim": "Potter started PhD at University of Chicago in 1950 but returned to SGW without completing the degree because he had a teaching position waiting.",
+      "sources": [
+        "src_warren_reflections"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "Harold H. Potter",
+        "University of Chicago"
+      ],
+      "date_ref": "1950",
+      "conflicts_with": [],
+      "added_version": "v4.81",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1444",
+      "claim": "Carl Dawson (founder of McGill's Department of Sociology) recommended Potter to Dean Henry F. Hall for the 1947 appointment at SGW College.",
+      "sources": [
+        "src_warren_reflections"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "Harold H. Potter",
+        "Carl Dawson",
+        "Henry F. Hall"
+      ],
+      "date_ref": "1947",
+      "conflicts_with": [],
+      "added_version": "v4.81",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1445",
+      "claim": "Potter was founding organizer of the SGWAUT (Sir George Williams Association of University Teachers) in 1951 and its president in 1956. He was promoted to Assistant Professor (1949), Associate Professor (1954), Full Professor (1963).",
+      "sources": [
+        "src_warren_reflections"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "Harold H. Potter",
+        "SGWAUT"
+      ],
+      "date_ref": "1951",
+      "conflicts_with": [],
+      "added_version": "v4.81",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1446",
+      "claim": "Potter hired Kurt Jonassohn in 1961 (whom he 'knew from the Y') and Hubert Guindon in 1962 to build the SGW Department of Sociology and Anthropology. He served as Chair 1963-64 and 1966-67.",
+      "sources": [
+        "src_warren_reflections"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "Harold H. Potter",
+        "Kurt Jonassohn",
+        "Hubert Guindon"
+      ],
+      "date_ref": "1961",
+      "conflicts_with": [],
+      "added_version": "v4.81",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1447",
+      "claim": "Potter co-authored 'Camp Laquemac: A Bilingual Adult Education Training Centre' with Renee Morin (Toronto: Canadian Association for Adult Education, 1953), demonstrating continued camp/adult education involvement beyond his Kanawana years.",
+      "sources": [
+        "src_potter_camp_laquemac"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "Harold H. Potter",
+        "Camp Laquemac",
+        "Renee Morin"
+      ],
+      "date_ref": "1953",
+      "conflicts_with": [],
+      "added_version": "v4.81",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1448",
+      "claim": "Potter was on sabbatical at Southeastern Massachusetts University during the February 1969 SGW Computer Centre Affair. He maintained he had never experienced discrimination at SGW.",
+      "sources": [
+        "src_warren_reflections"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "Harold H. Potter"
+      ],
+      "date_ref": "1969",
+      "conflicts_with": [],
+      "added_version": "v4.81",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1449",
+      "claim": "The Harold Potter fonds at Concordia University Archives was donated in 2005 by Jean-Philippe Warren, who obtained the papers from Potter's son Evan. It contains term papers, course outlines, examinations, minutes, and drafts of articles.",
+      "sources": [
+        "src_concordia_potter_fonds"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "Harold H. Potter",
+        "Jean-Philippe Warren",
+        "Evan Potter"
+      ],
+      "date_ref": "2005",
+      "conflicts_with": [],
+      "added_version": "v4.81",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1450",
+      "claim": "Potter married Theresia (Theresa) Hebein, an Austrian emigre, in 1970. Their son Evan Harold Potter was born in 1964. Potter retired from Concordia University in 1977.",
+      "sources": [
+        "src_wikipedia_potter"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "Harold H. Potter",
+        "Theresia Hebein",
+        "Evan Potter"
+      ],
+      "date_ref": "1970",
+      "conflicts_with": [],
+      "added_version": "v4.81",
       "added_by": "ralph_loop"
     }
   ]
