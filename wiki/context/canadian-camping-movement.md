@@ -2,7 +2,7 @@
 
 <!-- status: E1-reviewed -->
 <!-- confidence: medium-high -->
-<!-- last_updated: 2026-06-20 -->
+<!-- last_updated: 2026-06-22 -->
 <!-- last_editor: session3 -->
 <!-- ralph_loops: canadian-camping-movement-R1, canadian-camping-movement-V1, canadian-camping-movement-R2 -->
 
@@ -37,7 +37,7 @@ In 1921, Statten founded Camp Ahmek on Canoe Lake in Algonquin Park, named after
 
 The founding of the Ontario Camping Association in 1933 marked the transition from informal to organized camping. Statten served as first chairman, alongside founding members A.L. Cochrane, Mary Edgar, Mary Hamilton, Ferna Halliday, and Ethel Statten.^7
 
-In 1936, the Canadian Camping Association was founded at the Central Y.M.C.A. in Toronto on May 20, with Statten as first president, Mary Edgar as first vice-president, Dr. George S. Patterson as secretary, and Mary C. Donaldson as treasurer.^8 Statten also served as president of the American Camp Association in 1942, the only Canadian to hold both offices.^8b The CCA's stated objective was to "further the interests and welfare of children, youths and adults through camping as an educative, recreative, and character developing experience."^8c Its constitution was formally incorporated by Letters Patent on November 4, 1949.^8c
+In 1936, the Canadian Camping Association was founded at the Central Y.M.C.A. in Toronto on May 20, with Statten as first president, Mary Edgar as first vice-president, Dr. George S. Patterson as secretary, and Mary C. Donaldson as treasurer.^8 Nelson McEwen, who directed Camp Kanawana as Boys' Work Secretary of the Montreal YMCA from c. 1927 to 1947, co-founded the CCA with Statten, serving as Secretary. McEwen's involvement is documented in Camp Stephens Alumni blog sources; the exact nature of his role (founding or later reorganization) requires confirmation.^8n Statten also served as president of the American Camp Association in 1942, the only Canadian to hold both offices.^8b The CCA's stated objective was to "further the interests and welfare of children, youths and adults through camping as an educative, recreative, and character developing experience."^8c Its constitution was formally incorporated by Letters Patent on November 4, 1949.^8c
 
 The Quebec Camping Association (QCA) was formed in 1937 as a chartered unit of the CCA.^8d Concordia Archives hold correspondence regarding the founding of the CCA Quebec Section (1936–1937), a QCA constitution from 1937, and executive/members meeting records from 1937 to 1942.^8e A camping school affiliated with the QCA was held at McGill University from 1937 to 1940, representing one of the earliest formal training programs for camp leaders in Canada.^8f The modern successor to the QCA is the Association des camps du Québec (ACQ), of which Camp YMCA Kanawana is an accredited member today.^8g
 
@@ -103,6 +103,7 @@ The CCA published *Canadian Camping* magazine from 1949 to 1988; digitized issue
 8l. Concordia University Archives, P0145/12N03: CCA founding, QCA constitution, camping school, camp/official lists.
 8m. CCA Awards page (ccamping.org/awards.php): Derek Walsh (ACQ), CCA Award of Excellence, 1983.
 12. CCA, *Canadian Camping* magazine (1949-1988). Digitized via Internet Archive.
+8n. Camp Stephens Alumni Blog, 2013: Nelson McEwen biography (campstephensalumni.blogspot.com). McEwen co-founded CCA with Statten.
 13. Wikipedia, "Edgar M. Robinson." URL: https://en.wikipedia.org/wiki/Edgar_M._Robinson; ACA, "Timeline of ACA and Summer Camp." URL: https://www.acacamps.org/about/history/timeline
 
 ## Research Notes

@@ -1936,3 +1936,55 @@ HYPOTHESIZE — Remaining productive research requires:
   - PROCESS: Advanced camp-perrot stub→draft in articles.json. Added f_0877, f_0940 to kb_facts_used (were cited in article but missing from tracker). Checked BAnQ newspaper facts f_1326-f_1339 — none reference Camp Perrot.
   - HYPOTHESIZE: All 6 open questions require Concordia Archives P0145/12G (Camp Perrot sub-series) and P0145/12A (comparison documents). No new article stubs warranted. Camp Perrot next action: VERIFY (when archival access available).
   - Updated article header: stub→draft. Updated articles.json status_history. Updated research-log.md.
+
+2026-06-22T00:00:00Z | RALPH CYCLE COMPLETE | Three R1 research campaigns: People, Dimock/Camps, Events
+  - Phase: A (ANALYZE) → L (LOOP-DECIDE) → P (PROCESS) → H (HYPOTHESIZE)
+  - Research campaigns processed:
+    1. People: Derek Walsh (exhausted), Peter Goddard (CONFIRMED), Pip/James Caddell (enriched), Pip Award 2019-2023 (exhausted)
+    2. Dimock/Camps: Hedley Dimock father-son (blocked), Ross Bannerman (partially exhausted), Nelson McEwen (MAJOR FIND), Camp Becsies/Dorval/Thunderbird/Wilderness (partially resolved)
+    3. Events: Noosphere 1971 (Zinner thesis found), Shawbridge Meet (exhausted), Council Ring (visual sources exist), 1974-75 Director (NOT exhausted but archival)
+
+2026-06-22T00:10:00Z | KB UPDATE | v4.74 → v4.75
+  - 41 new facts added: f_1340 through f_1380
+  - f_1225 updated: Peter Goddard identification upgraded from "possible match" to CONFIRMED
+  - Pre-existing duplicate facts cleaned up (deduplication pass)
+  - Total unique facts: 1342
+
+2026-06-22T00:15:00Z | SOURCES UPDATE | 420 → 439 sources
+  - 19 new sources registered: src_goddard_obituary_condolence, src_thepeerage_caddell, src_the_goal_caddell, src_cmat_caddell_memorial, src_rch_history, src_care_canada_newell, src_cgai_caddell, src_camp_stephens_alumni_blog, src_becsscie_association, src_bdll_becs_scie, src_concordia_12D, src_concordia_12E, src_mcgill_escholarship_zinner, src_banq_montreal_matin_1971_08_24, src_law_society_alberta_zinner, src_facebook_kanawana_2020, src_flickr_kanawana, src_instagram_kanawana, src_billiongraves_caddell
+
+2026-06-22T00:20:00Z | ARTICLE UPDATES | 5 articles updated (all E1-reviewed, careful additions)
+  - directors-index.md: McEwen tenure extended c.1927-1947, Goddard confirmed (1953-2016), gap periods revised. 4221→4499 words. +12 facts, +2 sources.
+  - pip-alumni-award.md: Pip/James/Andrew Caddell biographies dramatically expanded, Tara Newell career documented, OQ3 resolved. 1537→2301 words. +18 facts, +7 sources.
+  - programs-activities.md: Noosphere section expanded (Zinner thesis, Third World Village model, Montreal-matin). 2542→2666 words. +3 facts, +2 sources.
+  - canadian-camping-movement.md: McEwen/CCA co-founding added. 1834→1891 words. +1 fact, +1 source.
+  - council-ring.md: 2020 campfire confirmed, reconciliation context added. +1 fact, +1 source.
+
+2026-06-22T00:25:00Z | PRIORITY QUEUE | 11 new priorities added (p_166 through p_176)
+  - p_166: Fetch Zinner thesis on Noosphere (P1, blocked)
+  - p_167: Contact Gabor Zinner for oral history (P2, blocked)
+  - p_168: Pip Award 2019-2023 to oral history instrument (P1, blocked)
+  - p_169: Camp Becsies article stub (P2, pending)
+  - p_170: Nelson McEwen deep research (P1, pending)
+  - p_171: McEwen/McMorris date conflict resolution (P2, pending)
+  - p_172: Hedley Dimock father-son confirmation (P2, blocked)
+  - p_173: BAnQ Montreal-matin Noosphere article (P2, blocked)
+  - p_174: Flickr/Instagram council ring photos (P3, blocked)
+  - p_175: Facebook Opening Campfire 2020 video (P3, blocked)
+  - p_176: Concordia Archives 1974-76 director correspondence (P1, blocked)
+
+2026-06-22T00:30:00Z | LOOP DECISIONS (Phase L) |
+  - Derek Walsh: CONCLUDE (exhausted, 32+ queries, 5 surfaces, zero new facts)
+  - Peter Goddard: CONCLUDE (confirmed identification, web sources exhausted, exact Kanawana dates need archives)
+  - Pip/James Caddell: CONCLUDE (substantially enriched, no obituary text accessible)
+  - Pip Award 2019-2023: CONCLUDE (exhausted, 42+ queries, 8+ surfaces, needs oral history)
+  - Hedley Dimock father-son: ADVANCE (strong circumstantial, blocked on FamilySearch/Newspapers.com)
+  - Ross Bannerman: CONCLUDE (partially exhausted, archival access needed for role details)
+  - Nelson McEwen: ADVANCE (major discovery, needs deep biographical research)
+  - Camp Becsies: ADVANCE (location resolved, stub warranted, needs archival detail)
+  - Camp Dorval: CONCLUDE (exhausted, 0.5cm archival records only)
+  - Camp Thunderbird/Wilderness: CONCLUDE (exhausted, archival only)
+  - Noosphere: ADVANCE (thesis identified but not accessed, second newspaper source found)
+  - Shawbridge Meet: CONCLUDE (exhausted, no online sources)
+  - Council Ring totem poles: ADVANCE (visual sources exist but blocked, needs manual browsing)
+  - 1974-75 Director: ADVANCE (archival sources remain, McMaster and Concordia)

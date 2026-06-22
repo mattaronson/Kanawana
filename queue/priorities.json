@@ -2098,6 +2098,135 @@
                   "assigned_weight": "P2",
                   "created_at": "2026-06-21T14:00:00Z",
                   "status": "blocked"
+            },
+            {
+                  "priority_id": "p_166",
+                  "rank": 166,
+                  "type": "RESEARCH",
+                  "description": "Fetch Gabor Ivan Zinner's McGill MA thesis 'Noosphere - an experiment in simulation' (1973) from eScholarship. Primary document for the Noosphere event at Camp Kanawana 1971. URL: https://escholarship.mcgill.ca/concern/theses/6w924d11w",
+                  "article_id": "programs-activities",
+                  "blocking": true,
+                  "blocking_reason": "McGill eScholarship may require authenticated access or institutional proxy. Try operator browser access.",
+                  "assigned_weight": "P1",
+                  "created_at": "2026-06-22T00:00:00Z",
+                  "status": "blocked"
+            },
+            {
+                  "priority_id": "p_167",
+                  "rank": 167,
+                  "type": "RESEARCH",
+                  "description": "Contact Gabor Ivan Zinner (Calgary lawyer, Zinner Law Office, 100-1100 8 Ave SW) as potential oral history source for the 1971 Noosphere simulation. He wrote the definitive thesis and may recall organizers, participants, curriculum details, and the Camp Kanawana venue.",
+                  "article_id": "programs-activities",
+                  "blocking": true,
+                  "blocking_reason": "Requires operator to initiate contact with a living person.",
+                  "assigned_weight": "P2",
+                  "created_at": "2026-06-22T00:00:00Z",
+                  "status": "blocked"
+            },
+            {
+                  "priority_id": "p_168",
+                  "rank": 168,
+                  "type": "WRITE",
+                  "description": "Add Pip Award 2019-2023 identification to oral history instrument (project-docs/oral-history-instrument.md). Ask operator if he knows any of the 3 unidentified recipients, or can contact Andrew Caddell (@pipson52). The 2019 recipient is a 'Dr.' per Caddell's LinkedIn.",
+                  "article_id": "pip-alumni-award",
+                  "blocking": true,
+                  "blocking_reason": "Requires operator input — 42+ web searches exhausted with zero results for 2019-2023 Pip Award recipients.",
+                  "assigned_weight": "P1",
+                  "created_at": "2026-06-22T00:00:00Z",
+                  "status": "blocked"
+            },
+            {
+                  "priority_id": "p_169",
+                  "rank": 169,
+                  "type": "WRITE",
+                  "description": "Create Camp Becsies article stub — now has 5+ facts: Lac des Becs-scie location (Saint-Sauveur/Mille-Isles), orphans' home connection (1934/1936), family camping (1960-1971), archival records (P0145/12D). Assess whether standalone article or section in quebec-camp-landscape is more appropriate.",
+                  "article_id": null,
+                  "blocking": false,
+                  "assigned_weight": "P2",
+                  "created_at": "2026-06-22T00:00:00Z",
+                  "status": "pending"
+            },
+            {
+                  "priority_id": "p_170",
+                  "rank": 170,
+                  "type": "RESEARCH",
+                  "description": "Nelson McEwen deep biographical research — major figure now documented connecting Camp Stephens, Camp Kanawana (c.1927-1947), CCA, Taylor Statten, and Ross Bannerman. Search for: obituary, birth/death dates, photographs, Winnipeg Free Press archives, YMCA Canada history publications. Create standalone article stub if sufficient material found.",
+                  "article_id": "directors-index",
+                  "blocking": false,
+                  "assigned_weight": "P1",
+                  "created_at": "2026-06-22T00:00:00Z",
+                  "status": "pending"
+            },
+            {
+                  "priority_id": "p_171",
+                  "rank": 171,
+                  "type": "RESEARCH",
+                  "description": "Resolve McEwen/McMorris date conflict: McMorris documents McEwen as director 1930-1931 only; Camp Stephens Alumni blog says c.1927-1947. Were there interim directors (e.g., Harold Cross through 1928, then McEwen)? Was McEwen's title 'Boys' Work Secretary' (administrative) while others held operational 'Camp Chief' or 'Camp Director' title?",
+                  "article_id": "directors-index",
+                  "blocking": false,
+                  "assigned_weight": "P2",
+                  "created_at": "2026-06-22T00:00:00Z",
+                  "status": "pending"
+            },
+            {
+                  "priority_id": "p_172",
+                  "rank": 172,
+                  "type": "RESEARCH",
+                  "description": "Hedley Dimock father-son relationship — strong circumstantial but unconfirmed. FamilySearch record LHRF-7ZS (H.S. Dimock) and Oakland Tribune 1958 obituary (Newspapers.com) would be definitive. Both require authenticated access. Add to oral history instrument or request operator to check FamilySearch.",
+                  "article_id": "hedley-dimock",
+                  "blocking": true,
+                  "blocking_reason": "FamilySearch requires login; Newspapers.com requires subscription. Both paywalled.",
+                  "assigned_weight": "P2",
+                  "created_at": "2026-06-22T00:00:00Z",
+                  "status": "blocked"
+            },
+            {
+                  "priority_id": "p_173",
+                  "rank": 173,
+                  "type": "RESEARCH",
+                  "description": "Search for BAnQ Montreal-matin article August 24, 1971 about Noosphere simulation. URL: https://numerique.banq.qc.ca/patrimoine/details/52327/4512657. Second newspaper source for the Noosphere event.",
+                  "article_id": "programs-activities",
+                  "blocking": true,
+                  "blocking_reason": "BAnQ numérique requires browser access; 403 to WebFetch.",
+                  "assigned_weight": "P2",
+                  "created_at": "2026-06-22T00:00:00Z",
+                  "status": "blocked"
+            },
+            {
+                  "priority_id": "p_174",
+                  "rank": 174,
+                  "type": "RESEARCH",
+                  "description": "Browse Flickr Camp Kanawana collection (4,416 photos, flickr.com/photos/kanawana/) and Instagram (@ymcakanawana, 573 posts) for council ring photographs, totem pole status, historical facility images. Requires manual browsing.",
+                  "article_id": "council-ring",
+                  "blocking": true,
+                  "blocking_reason": "Flickr and Instagram require browser access; both 403 to WebFetch.",
+                  "assigned_weight": "P3",
+                  "created_at": "2026-06-22T00:00:00Z",
+                  "status": "blocked"
+            },
+            {
+                  "priority_id": "p_175",
+                  "rank": 175,
+                  "type": "RESEARCH",
+                  "description": "Watch Facebook 'Opening Campfire 2020' video for visual evidence of council ring layout and totem pole status. URL: https://www.facebook.com/YKanawana/videos/opening-campfire-2020/1432885173577431/",
+                  "article_id": "council-ring",
+                  "blocking": true,
+                  "blocking_reason": "Facebook video requires browser access.",
+                  "assigned_weight": "P3",
+                  "created_at": "2026-06-22T00:00:00Z",
+                  "status": "blocked"
+            },
+            {
+                  "priority_id": "p_176",
+                  "rank": 176,
+                  "type": "RESEARCH",
+                  "description": "Concordia Archives P0145/12B01 — access 1974-1976 camp director correspondence to identify the anonymous 1974-75 director. Also check 1972 Camping and Outdoor Education Branch Director's Report (5 copies) and 1975-1978 management minutes. Physical archive visit required.",
+                  "article_id": "directors-index",
+                  "blocking": true,
+                  "blocking_reason": "Requires physical Concordia Archives visit.",
+                  "assigned_weight": "P1",
+                  "created_at": "2026-06-22T00:00:00Z",
+                  "status": "blocked"
             }
       ]
 }

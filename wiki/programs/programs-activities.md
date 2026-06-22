@@ -1,7 +1,7 @@
 # Programs and Activities at Kanawana
 
-*Status: E1-reviewed | Sources: src_brochure_1922, src_history_1935, src_mcmorris_thesis, src_kanawana_facts, src_ymca_website, src_concordia_12A, src_concordia_12B04, src_gas_bag_1923, src_cfcf_1941, src_brochure_1921, src_postmedia_nature_deficit_2026, src_banq_le_droit_1937_06_25, src_banq_westmount_examiner_1962_11_16, src_banq_le_soleil_1971_07_07, src_banq_sherbrooke_record_1972_07_21*
-*Last Updated: 2026-06-21 (BAnQ newspaper sources added: 1937 first aid instruction, 1962 citizenship training, 1971 Noosphere simulation, 1972 leader training)*
+*Status: E1-reviewed | Sources: src_brochure_1922, src_history_1935, src_mcmorris_thesis, src_kanawana_facts, src_ymca_website, src_concordia_12A, src_concordia_12B04, src_gas_bag_1923, src_cfcf_1941, src_brochure_1921, src_postmedia_nature_deficit_2026, src_banq_le_droit_1937_06_25, src_banq_westmount_examiner_1962_11_16, src_banq_le_soleil_1971_07_07, src_banq_sherbrooke_record_1972_07_21, src_banq_montreal_matin_1971_08_24, src_zinner_thesis_1973*
+*Last Updated: 2026-06-22 (BAnQ newspaper sources added: 1937 first aid instruction, 1962 citizenship training, 1971 Noosphere simulation, 1972 leader training; Montreal-matin and Zinner thesis sources added for Noosphere)*
 
 ## Overview
 
@@ -51,7 +51,7 @@ The 1965 Concordia archives listing includes "The Pathfinder program Summer Summ
 
 The arrival of girl campers in 1968 or 1969 (sources differ; see the coeducation article for detailed analysis) necessarily affected programming. The first all-female Voyageur canoe trip in 1972 marked the extension of the camp's most demanding programme to girls within three years of formal coeducation.
 
-In the summer of 1971, Kanawana served as the venue for "Noosphere," an international development education simulation organized by Perspective-Jeunesse for approximately 100 young Canadians aged 16 to 19.^ls71 The event is notable as an early instance of Kanawana's facilities being used for externally organized programming with an international scope, anticipating the camp's later role as a year-round conference and retreat site.
+In the summer of 1971, Kanawana served as the venue for "Noosphere," an international development education simulation organized by Perspective-Jeunesse for approximately 100 young Canadians aged 16 to 19.^ls71 The simulation was modeled on a "Third World Village" organized in Winnipeg the previous year and was the first such experience attempted in Quebec; an education committee in Montreal with members from various development organizations established the project.^ls71 A second newspaper account appeared in *Montreal-matin* on August 24, 1971.^mm71 The event was the subject of a 1973 McGill MA thesis by Gabor Ivan Zinner, titled "Noosphere — an experiment in simulation" (Department of Political Science), which likely documents the curriculum, participants, and outcomes in detail.^zinner The event is notable as an early instance of Kanawana's facilities being used for externally organized programming with an international scope, anticipating the camp's later role as a year-round conference and retreat site.
 
 Y camp counsellors received three-day leader training courses at Camp Kanawana in 1972, formalizing the pre-season staff preparation that had been part of camp operations in various forms since the 1920s.^sr72
 
@@ -110,6 +110,8 @@ Beyond summer programming, the camp hosts school groups for overnight outdoor ed
 - [we62] "Y Plans Bigger, Better Citizen Training." *The Westmount Examiner*, November 16, 1962. BAnQ numérique.
 - [ls71] "Le 'Noosphère' au Camp Kanawana." *Le Soleil* (Québec), July 7, 1971. BAnQ numérique.
 - [sr72] "Y Camp Counselors Get Leader Training." *The Sherbrooke Record*, July 21, 1972. BAnQ numérique.
+- [mm71] *Montreal-matin*, August 24, 1971. BAnQ numérique: https://numerique.banq.qc.ca/patrimoine/details/52327/4512657
+- [zinner] Zinner, Gabor Ivan. "Noosphere — an experiment in simulation." MA thesis, McGill University, Department of Political Science, 1973. eScholarship: https://escholarship.mcgill.ca/concern/theses/6w924d11w
 
 ## R3 Verification Notes
 

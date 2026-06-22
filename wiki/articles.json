@@ -247,15 +247,17 @@
                         "f_0323",
                         "f_1218",
                         "f_1219",
-                        "f_1220"
+                        "f_1220",
+                        "f_1372"
                   ],
                   "sources_cited": [
-                        "src_mcmorris_thesis",
-                        "src_concordia_12B01",
                         "src_concordia_02D",
+                        "src_concordia_12B01",
+                        "src_facebook_kanawana_2020",
+                        "src_gas_bag_1923",
                         "src_history_1935",
-                        "src_oral_aronson",
-                        "src_gas_bag_1923"
+                        "src_mcmorris_thesis",
+                        "src_oral_aronson"
                   ],
                   "open_questions": 4,
                   "cross_links": [
@@ -267,7 +269,8 @@
                         "lv-games"
                   ],
                   "file_id": "13YtmB0kQvK5oBY-Kz_88vIgztYAH5x2e",
-                  "word_count": 985
+                  "word_count": 1085,
+                  "notes": "v4.75: 2020 Opening Campfire confirmed (Facebook Live). Tamaracouta totem pole theft noted."
             },
             {
                   "article_id": "lv-games",
@@ -539,7 +542,7 @@
                   ],
                   "file_id": "1KW2yhoZ-wr_71sTPbLJ3v81KW4ZEJ_p-",
                   "word_count": 1884,
-                  "notes": "E1 REVIEW (2026-02-19): Fixed source header (src_ymca_facts\u2192src_kanawana_facts), added Spectrum URL for McMorris thesis, added IA URLs for Facts sheet and Gas Bag. All claims cited, dates consistent, names cross-checked, tone encyclopedic. Advanced R3-verified \u2192 E1-reviewed."
+                  "notes": "E1 REVIEW (2026-02-19): Fixed source header (src_ymca_facts→src_kanawana_facts), added Spectrum URL for McMorris thesis, added IA URLs for Facts sheet and Gas Bag. All claims cited, dates consistent, names cross-checked, tone encyclopedic. Advanced R3-verified → E1-reviewed."
             },
             {
                   "article_id": "programs-activities",
@@ -695,41 +698,46 @@
                         "f_0962",
                         "f_0963",
                         "f_0964",
+                        "f_0993",
+                        "f_1034",
                         "f_1035",
                         "f_1036",
                         "f_1037",
                         "f_1038",
-                        "f_1280",
-                        "f_1287",
-                        "f_1034",
                         "f_1077",
                         "f_1095",
                         "f_1106",
                         "f_1111",
-                        "f_0993",
+                        "f_1280",
+                        "f_1287",
                         "f_1308",
                         "f_1327",
                         "f_1329",
                         "f_1330",
-                        "f_1334"
+                        "f_1334",
+                        "f_1368",
+                        "f_1369",
+                        "f_1370"
                   ],
                   "sources_cited": [
+                        "src_banq_le_droit_1937_06_25",
+                        "src_banq_le_soleil_1971_07_07",
+                        "src_banq_montreal_matin_1971_08_24",
+                        "src_banq_sherbrooke_record_1972_07_21",
+                        "src_banq_westmount_examiner_1962_11_16",
+                        "src_brochure_1921",
                         "src_brochure_1922",
-                        "src_history_1935",
-                        "src_mcmorris_thesis",
-                        "src_kanawana_facts",
-                        "src_ymca_website",
+                        "src_cfcf_1941",
                         "src_concordia_12A",
                         "src_concordia_12B04",
                         "src_gas_bag_1923",
-                        "src_cfcf_1941",
-                        "src_brochure_1921",
+                        "src_history_1935",
+                        "src_kanawana_facts",
+                        "src_mcgill_escholarship_zinner",
+                        "src_mcmorris_thesis",
                         "src_postmedia_nature_deficit_2026",
                         "src_websearch_emsb_kanawana",
-                        "src_banq_le_droit_1937_06_25",
-                        "src_banq_westmount_examiner_1962_11_16",
-                        "src_banq_le_soleil_1971_07_07",
-                        "src_banq_sherbrooke_record_1972_07_21"
+                        "src_ymca_website"
                   ],
                   "open_questions": 8,
                   "cross_links": [
@@ -743,8 +751,8 @@
                         "quebec-camp-landscape"
                   ],
                   "file_id": "1oqLoU6_bzWD_9jXwXQgYNm_EqLCEfNjR",
-                  "word_count": 2542,
-                  "notes": "E1 REVIEW (2026-02-19): All claims cited, dates consistent, names cross-checked, tone encyclopedic, cross-links valid, open questions actionable, no redundancy with sibling articles. Advanced R3-verified \u2192 E1-reviewed. 2026-06-21: Integrated 4 BAnQ newspaper facts (f_1327 1937 first aid, f_1329 1962 citizenship training, f_1330 1971 Noosphere, f_1334 1972 leader training)."
+                  "word_count": 2666,
+                  "notes": "v4.75: Noosphere section expanded — Zinner thesis (McGill 1973), Third World Village model, Montreal-matin article."
             },
             {
                   "article_id": "ralph-dawson",
@@ -986,22 +994,27 @@
                         "f_0838",
                         "f_0839",
                         "f_0840",
-                        "f_0898",
-                        "f_0932",
-                        "f_0933",
-                        "f_0943",
-                        "f_0944",
-                        "f_0908",
-                        "f_0911",
-                        "f_0929",
                         "f_0852",
                         "f_0853",
+                        "f_0898",
+                        "f_0908",
+                        "f_0911",
                         "f_0924",
+                        "f_0929",
+                        "f_0932",
+                        "f_0933",
                         "f_0940",
                         "f_0941",
+                        "f_0943",
+                        "f_0944",
+                        "f_1057",
+                        "f_1089",
+                        "f_1096",
+                        "f_1107",
+                        "f_1109",
+                        "f_1153",
+                        "f_1154",
                         "f_1169",
-                        "f_1310",
-                        "f_1313",
                         "f_1211",
                         "f_1212",
                         "f_1213",
@@ -1012,38 +1025,47 @@
                         "f_1223",
                         "f_1224",
                         "f_1225",
-                        "f_1057",
-                        "f_1096",
-                        "f_1107",
-                        "f_1089",
-                        "f_1109",
-                        "f_1153",
-                        "f_1154",
+                        "f_1310",
+                        "f_1313",
                         "f_1328",
-                        "f_1336"
+                        "f_1336",
+                        "f_1340",
+                        "f_1341",
+                        "f_1342",
+                        "f_1343",
+                        "f_1344",
+                        "f_1359",
+                        "f_1360",
+                        "f_1361",
+                        "f_1362",
+                        "f_1374",
+                        "f_1378",
+                        "f_1379"
                   ],
                   "sources_cited": [
-                        "src_mcmorris_thesis",
-                        "src_concordia_fonds",
-                        "src_concordia_fonds_14D",
+                        "src_banq_westmount_examiner_1935_03_29",
                         "src_brochure_1921",
                         "src_brochure_1922",
                         "src_brochure_1923",
-                        "src_cfcf_1941",
+                        "src_camp_stephens_alumni_blog",
                         "src_campadmin_hall_of_fame",
+                        "src_cfcf_1941",
+                        "src_concordia_fonds",
+                        "src_concordia_fonds_14D",
+                        "src_gas_bag_1923",
+                        "src_goddard_obituary_condolence",
+                        "src_green_triangle_1938",
+                        "src_history_1935",
+                        "src_ka_news_1980",
+                        "src_mcmorris_thesis",
                         "src_oral_aronson",
-                        "src_ymca_website",
                         "src_ourkids_mclean",
+                        "src_qahn_howard",
+                        "src_samaritanmag_mclean",
+                        "src_ymca_120th",
                         "src_ymca_pip_mosher",
                         "src_ymca_pip_orbinski",
-                        "src_ymca_120th",
-                        "src_history_1935",
-                        "src_gas_bag_1923",
-                        "src_green_triangle_1938",
-                        "src_ka_news_1980",
-                        "src_samaritanmag_mclean",
-                        "src_qahn_howard",
-                        "src_banq_westmount_examiner_1935_03_29"
+                        "src_ymca_website"
                   ],
                   "open_questions": 7,
                   "cross_links": [
@@ -1062,8 +1084,8 @@
                         "hedley-dimock"
                   ],
                   "file_id": null,
-                  "word_count": 4221,
-                  "notes": "E1 REVIEW (2026-02-19): PASS \u2014 all 7 checklist items satisfied. No fixes needed. Advanced R3-verified \u2192 E1-reviewed. 2026-06-21: Integrated Mr. Buckley reference (f_1328, BAnQ 1935) and expanded Ross Bannerman biography (f_1336, Concordia 12B01)."
+                  "word_count": 4499,
+                  "notes": "v4.75: Peter Goddard confirmed (Peter Gilling Goddard 1953-2016, obituary condolence). Nelson McEwen tenure extended c.1927-1947. Derek Walsh exhausted. Gap periods updated."
             },
             {
                   "article_id": "sources-index",
@@ -1261,7 +1283,7 @@
                   ],
                   "file_id": null,
                   "word_count": 1000,
-                  "notes": "E1 REVIEW (2026-02-19): Added inline ^1-^5 citations throughout body text. Standardized all name mentions to 'Harold C. Cross'. Added Related Articles section. Added priority tags to Open Questions. Advanced R3-verified \u2192 E1-reviewed."
+                  "notes": "E1 REVIEW (2026-02-19): Added inline ^1-^5 citations throughout body text. Standardized all name mentions to 'Harold C. Cross'. Added Related Articles section. Added priority tags to Open Questions. Advanced R3-verified → E1-reviewed."
             },
             {
                   "article_id": "centennial-1967",
@@ -1446,32 +1468,34 @@
                         "f_0652",
                         "f_0653",
                         "f_0655",
+                        "f_0831",
+                        "f_0833",
                         "f_0901",
                         "f_0902",
+                        "f_0934",
                         "f_0938",
                         "f_0946",
                         "f_0957",
-                        "f_0831",
-                        "f_0833",
-                        "f_0934",
+                        "f_1132",
                         "f_1276",
                         "f_1277",
                         "f_1278",
                         "f_1284",
-                        "f_1132"
+                        "f_1360"
                   ],
                   "sources_cited": [
-                        "src_ymca_website",
+                        "src_camp_stephens_alumni_blog",
+                        "src_cca_history",
+                        "src_hathitrust_camping_character",
+                        "src_infed_ymca_education",
+                        "src_mcmorris_thesis",
+                        "src_oca_history",
                         "src_qahn_howard",
                         "src_taylor_statten_camps",
-                        "src_cca_history",
-                        "src_oca_history",
+                        "src_wall_nurture",
                         "src_wikipedia_big_cove",
                         "src_wikipedia_edgar",
-                        "src_wall_nurture",
-                        "src_mcmorris_thesis",
-                        "src_hathitrust_camping_character",
-                        "src_infed_ymca_education"
+                        "src_ymca_website"
                   ],
                   "open_questions": 5,
                   "cross_links": [
@@ -1482,7 +1506,8 @@
                         "sources-index"
                   ],
                   "file_id": null,
-                  "word_count": 1834
+                  "word_count": 1891,
+                  "notes": "v4.75: McEwen as CCA co-founder with Taylor Statten added."
             },
             {
                   "article_id": "billy-ball",
@@ -1546,7 +1571,7 @@
                   ],
                   "file_id": null,
                   "word_count": 924,
-                  "notes": "E1 REVIEW (2026-02-19): PASS \u2014 all 7 checklist items satisfied. No fixes needed. Advanced R3-verified \u2192 E1-reviewed."
+                  "notes": "E1 REVIEW (2026-02-19): PASS — all 7 checklist items satisfied. No fixes needed. Advanced R3-verified → E1-reviewed."
             },
             {
                   "article_id": "cushing-family",
@@ -1639,7 +1664,7 @@
                   ],
                   "file_id": null,
                   "word_count": 1448,
-                  "notes": "E1 REVIEW (2026-02-19): Fixed Frederick row in Eight Sons table (birthplace clarified in Occupation column). All 7 checklist items satisfied. Advanced R3-verified \u2192 E1-reviewed."
+                  "notes": "E1 REVIEW (2026-02-19): Fixed Frederick row in Eight Sons table (birthplace clarified in Occupation column). All 7 checklist items satisfied. Advanced R3-verified → E1-reviewed."
             },
             {
                   "article_id": "traditions-and-culture",
@@ -2223,36 +2248,61 @@
                         "f_0610",
                         "f_0611",
                         "f_0630",
-                        "f_0922",
-                        "f_0953",
-                        "f_0954",
-                        "f_0820",
                         "f_0746",
                         "f_0747",
                         "f_0748",
+                        "f_0820",
+                        "f_0922",
+                        "f_0953",
+                        "f_0954",
                         "f_1008",
                         "f_1009",
                         "f_1010",
                         "f_1011",
                         "f_1012",
                         "f_1030",
-                        "f_1235",
-                        "f_1316",
                         "f_1119",
-                        "f_1311"
+                        "f_1235",
+                        "f_1311",
+                        "f_1316",
+                        "f_1345",
+                        "f_1346",
+                        "f_1347",
+                        "f_1348",
+                        "f_1349",
+                        "f_1350",
+                        "f_1351",
+                        "f_1352",
+                        "f_1353",
+                        "f_1354",
+                        "f_1355",
+                        "f_1356",
+                        "f_1357",
+                        "f_1358",
+                        "f_1375",
+                        "f_1376",
+                        "f_1377",
+                        "f_1380"
                   ],
                   "sources_cited": [
-                        "src_ymca_pip_skinner",
-                        "src_ymca_pip_mosher",
-                        "src_ymca_pip_adam",
-                        "src_ymca_pip_sharpe",
-                        "src_ymca_pip_orbinski",
-                        "src_oral_aronson",
+                        "src_atwater_caddell_bio",
+                        "src_billiongraves_caddell",
+                        "src_care_canada_newell",
+                        "src_cgai_caddell",
+                        "src_cmat_caddell_memorial",
                         "src_cmat_caddell_obituary",
                         "src_mcgill_news_caddell",
-                        "src_atwater_caddell_bio",
+                        "src_oral_aronson",
+                        "src_rch_history",
+                        "src_the_goal_caddell",
+                        "src_thepeerage_caddell",
+                        "src_wikipedia_john_cleghorn",
                         "src_wikipedia_richard_patten",
-                        "src_wikipedia_john_cleghorn"
+                        "src_ymca_pip_adam",
+                        "src_ymca_pip_mosher",
+                        "src_ymca_pip_orbinski",
+                        "src_ymca_pip_sharpe",
+                        "src_ymca_pip_skinner"
                   ],
                   "open_questions": 6,
                   "cross_links": [
@@ -2262,8 +2312,8 @@
                         "traditions-and-culture"
                   ],
                   "file_id": null,
-                  "word_count": 1537,
-                  "notes": "E1 REVIEW (2026-02-19): Fixed 2010 wording ('No documented recipient'), McLean dates in table, registered 5 missing sources. Standardized 'Phillips' spelling. RALPH R1: All recipient years 2007-2018 resolved, Caddell bios expanded. 1500 words, 11 sources."
+                  "word_count": 2301,
+                  "notes": "v4.75: Pip Caddell full genealogy (The Peerage). James Caddell biography expanded (CMAT memorial). Andrew Caddell career timeline. Tara Newell post-2005 career. Pip Award 2019-2023 exhausted. OQ3 resolved."
             },
             {
                   "article_id": "j-w-mcconnell",
@@ -2339,7 +2389,7 @@
                   ],
                   "file_id": null,
                   "word_count": 1426,
-                  "notes": "RALPH R1 (2026-02-26): Lake Wilson naming claim CANNOT BE VERIFIED \u2014 plausible but no documentary evidence. McConnell family tree confirmed. YMCA connection 1901-1963 documented. 10 new KB facts (f_0516-f_0525). 1 new source (Fong biography). Research SATURATED for online sources."
+                  "notes": "RALPH R1 (2026-02-26): Lake Wilson naming claim CANNOT BE VERIFIED — plausible but no documentary evidence. McConnell family tree confirmed. YMCA connection 1901-1963 documented. 10 new KB facts (f_0516-f_0525). 1 new source (Fong biography). Research SATURATED for online sources."
             },
             {
                   "article_id": "lake-wilson",
@@ -2856,7 +2906,7 @@
                   ],
                   "file_id": null,
                   "word_count": 2165,
-                  "notes": "E1 REVIEW (2026-03-02): 10 fixes applied. Father-son inference reframed as neutral hypothesis. Earliest publication contradiction resolved. Kamp\u2192Camp standardized. Hendry relocated. Unsourced synthesis removed. All 7 criteria PASS."
+                  "notes": "E1 REVIEW (2026-03-02): 10 fixes applied. Father-son inference reframed as neutral hypothesis. Earliest publication contradiction resolved. Kamp→Camp standardized. Hendry relocated. Unsourced synthesis removed. All 7 criteria PASS."
             },
             {
                   "article_id": "camp-weredale",
@@ -4040,7 +4090,7 @@
             },
             {
                   "article_id": "page-family",
-                  "title": "The Pag\u00e9 Family of Saint-Sauveur",
+                  "title": "The Pagé Family of Saint-Sauveur",
                   "wiki_folder": "people",
                   "status": "E1-reviewed",
                   "status_history": [

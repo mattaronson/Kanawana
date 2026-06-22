@@ -1,8 +1,8 @@
 {
-  "version": "v4.74",
-  "kb_version": 4.74,
+  "version": "v4.75",
+  "kb_version": 4.75,
   "migrated_from": "3.3",
-  "fact_count": 1355,
+  "fact_count": 1342,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -14068,238 +14068,6 @@
       "added_by": "ralph_loop"
     },
     {
-      "fact_id": "f_0856",
-      "claim": "G. David Twynam (Dave Twynam) held a faculty position in the School of Outdoor Recreation, Parks, and Tourism at Lakehead University in Thunder Bay, Ontario, as confirmed by his author affiliation on publications from 1998 and 2002.",
-      "sources": [
-        "src_jsm_farrell_1998",
-        "src_leisure_twynam_2002"
-      ],
-      "confidence": "stated",
-      "category": "people",
-      "entities": [
-        "Dave Twynam",
-        "Lakehead University"
-      ],
-      "date_ref": "1998-2002",
-      "conflicts_with": [],
-      "added_version": "ralph-twynam-2026-03-15",
-      "added_by": "ralph_loop"
-    },
-    {
-      "fact_id": "f_0857",
-      "claim": "G. David Twynam became Dean of the School of Tourism at the University College of the Cariboo (UCC), which later became Thompson Rivers University (TRU) in Kamloops, BC. He served as Dean for over a decade.",
-      "sources": [
-        "src_viu_news_twynam_award",
-        "src_tru_newsroom_2008_skills"
-      ],
-      "confidence": "stated",
-      "category": "people",
-      "entities": [
-        "Dave Twynam",
-        "Thompson Rivers University",
-        "University College of the Cariboo"
-      ],
-      "date_ref": "circa 1999-2009",
-      "conflicts_with": [],
-      "added_version": "ralph-twynam-2026-03-15",
-      "added_by": "ralph_loop"
-    },
-    {
-      "fact_id": "f_0858",
-      "claim": "David Twynam was identified as 'TRU Dean of Tourism' in March 2008 at the Cariboo Skills Competition.",
-      "sources": [
-        "src_tru_newsroom_2008_skills"
-      ],
-      "confidence": "stated",
-      "category": "people",
-      "entities": [
-        "Dave Twynam",
-        "Thompson Rivers University"
-      ],
-      "date_ref": "2008-03",
-      "conflicts_with": [],
-      "added_version": "ralph-twynam-2026-03-15",
-      "added_by": "ralph_loop"
-    },
-    {
-      "fact_id": "f_0859",
-      "claim": "Dr. Dave Twynam departed as Dean of the School of Tourism at TRU around 2009, replaced by Dr. Harold Richins.",
-      "sources": [
-        "src_tru_newsroom_2009_dean"
-      ],
-      "confidence": "stated",
-      "category": "people",
-      "entities": [
-        "Dave Twynam",
-        "Thompson Rivers University"
-      ],
-      "date_ref": "2009",
-      "conflicts_with": [],
-      "added_version": "ralph-twynam-2026-03-15",
-      "added_by": "ralph_loop"
-    },
-    {
-      "fact_id": "f_0860",
-      "claim": "After leaving TRU, Dave Twynam became Dean of the Faculty of Management at Vancouver Island University (VIU) in Nanaimo, BC.",
-      "sources": [
-        "src_viu_news_twynam_award",
-        "src_heartofgold_ws"
-      ],
-      "confidence": "stated",
-      "category": "people",
-      "entities": [
-        "Dave Twynam",
-        "Vancouver Island University"
-      ],
-      "date_ref": "post-2009",
-      "conflicts_with": [],
-      "added_version": "ralph-twynam-2026-03-15",
-      "added_by": "ralph_loop"
-    },
-    {
-      "fact_id": "f_0861",
-      "claim": "Dave Twynam received the Transfer & Articulation Community Leadership Award from the BC Council on Admissions and Transfer, nominated unanimously by the BC Tourism Management Articulation Committee. He had served as System Liaison Person (SLP) for the committee for 15 years.",
-      "sources": [
-        "src_viu_news_twynam_award"
-      ],
-      "confidence": "stated",
-      "category": "people",
-      "entities": [
-        "Dave Twynam"
-      ],
-      "date_ref": "circa 2015",
-      "conflicts_with": [],
-      "added_version": "ralph-twynam-2026-03-15",
-      "added_by": "ralph_loop"
-    },
-    {
-      "fact_id": "f_0862",
-      "claim": "As Dean at TRU, Twynam was involved in the inaugural launch of the Bachelor of Tourism Management program, which was subsequently offered at several other BC post-secondary schools.",
-      "sources": [
-        "src_viu_news_twynam_award"
-      ],
-      "confidence": "stated",
-      "category": "people",
-      "entities": [
-        "Dave Twynam",
-        "Thompson Rivers University"
-      ],
-      "date_ref": "circa 2000s",
-      "conflicts_with": [],
-      "added_version": "ralph-twynam-2026-03-15",
-      "added_by": "ralph_loop"
-    },
-    {
-      "fact_id": "f_0863",
-      "claim": "Dave Twynam holds a PhD (confirmed by 'Dr.' title in multiple institutional sources and 'Dave Twynam, PhD' on Heart of Gold Project).",
-      "sources": [
-        "src_viu_news_twynam_award",
-        "src_heartofgold_ws"
-      ],
-      "confidence": "stated",
-      "category": "people",
-      "entities": [
-        "Dave Twynam"
-      ],
-      "date_ref": null,
-      "conflicts_with": [],
-      "added_version": "ralph-twynam-2026-03-15",
-      "added_by": "ralph_loop"
-    },
-    {
-      "fact_id": "f_0864",
-      "claim": "G. David Twynam has 10 research works with 723 citations on ResearchGate. Key publications include: (1) Farrell, Johnston & Twynam, 'Volunteer Motivation, Satisfaction, and Management at an Elite Sporting Competition', Journal of Sport Management 12(4), 1998; (2) Johnston, Twynam & Farrell, 'Motivation and Satisfaction of Event Volunteers for a Major Youth Organization', Leisure/Loisir 24(1-2), 1999; (3) Twynam, Farrell & Johnston, 'Leisure and volunteer motivation at a special sporting event', Leisure/Loisir 27, 2002; (4) Johnston & Twynam, WWF Arctic Tourism Guidelines sustainable tourism principles.",
-      "sources": [
-        "src_researchgate_twynam",
-        "src_jsm_farrell_1998",
-        "src_leisure_twynam_2002",
-        "src_leisure_johnston_twynam_1999"
-      ],
-      "confidence": "stated",
-      "category": "people",
-      "entities": [
-        "Dave Twynam"
-      ],
-      "date_ref": "1998-2002",
-      "conflicts_with": [],
-      "added_version": "ralph-twynam-2026-03-15",
-      "added_by": "ralph_loop"
-    },
-    {
-      "fact_id": "f_0865",
-      "claim": "Twynam co-developed the Special Event Volunteer Motivation Scale (SEVMS), a 28-item instrument with four factors: Purposive, Solidary, External Traditions, and Commitments. This scale has been widely cited and validated internationally.",
-      "sources": [
-        "src_jsm_farrell_1998",
-        "src_leisure_twynam_2002"
-      ],
-      "confidence": "stated",
-      "category": "people",
-      "entities": [
-        "Dave Twynam"
-      ],
-      "date_ref": "1998",
-      "conflicts_with": [],
-      "added_version": "ralph-twynam-2026-03-15",
-      "added_by": "ralph_loop"
-    },
-    {
-      "fact_id": "f_0866",
-      "claim": "Dave Twynam was involved in the Heart of Gold Project, an international sustainability collaboration between VIU/Nanaimo and Costa Rican institutions (Earth University, Cartago University College, Rainforest Alliance of Costa Rica).",
-      "sources": [
-        "src_heartofgold_ws"
-      ],
-      "confidence": "stated",
-      "category": "people",
-      "entities": [
-        "Dave Twynam",
-        "Vancouver Island University"
-      ],
-      "date_ref": null,
-      "conflicts_with": [],
-      "added_version": "ralph-twynam-2026-03-15",
-      "added_by": "ralph_loop"
-    },
-    {
-      "fact_id": "f_0867",
-      "claim": "Dave Twynam is now retired from VIU. His LinkedIn lists him as 'Retired, former Dean, Faculty of Management at Vancouver Island University.'",
-      "sources": [
-        "src_viu_news_twynam_award"
-      ],
-      "confidence": "stated",
-      "category": "people",
-      "entities": [
-        "Dave Twynam",
-        "Vancouver Island University"
-      ],
-      "date_ref": null,
-      "conflicts_with": [],
-      "added_version": "ralph-twynam-2026-03-15",
-      "added_by": "ralph_loop"
-    },
-    {
-      "fact_id": "f_0868",
-      "claim": "Twynam's career trajectory: YMCA Camp Kanawana director (~1979) → Lakehead University faculty, School of Outdoor Recreation, Parks & Tourism (by late 1990s) → Dean, School of Tourism, University College of the Cariboo / Thompson Rivers University (~1999-2009) → Dean, Faculty of Management, Vancouver Island University (post-2009) → Retired.",
-      "sources": [
-        "src_concordia_12B01",
-        "src_jsm_farrell_1998",
-        "src_tru_newsroom_2009_dean",
-        "src_viu_news_twynam_award"
-      ],
-      "confidence": "inferred",
-      "category": "people",
-      "entities": [
-        "Dave Twynam",
-        "Camp Kanawana",
-        "Lakehead University",
-        "Thompson Rivers University",
-        "Vancouver Island University"
-      ],
-      "date_ref": "1979-present",
-      "conflicts_with": [],
-      "added_version": "ralph-twynam-2026-03-15",
-      "added_by": "ralph_loop"
-    },
-    {
       "fact_id": "f_0869",
       "claim": "Twynam's academic research on volunteer motivation and special events was conducted at Lakehead University in Thunder Bay, using data from the 1996 Scott Tournament of Hearts (Canadian Women's Curling Championship) and the 1997 Scouts Canada Canadian Jamboree, both held in Thunder Bay.",
       "sources": [
@@ -14887,387 +14655,6 @@
         "f_0413"
       ],
       "added_version": "4.20",
-      "added_by": "ralph_loop"
-    },
-    {
-      "fact_id": "f_0880",
-      "claim": "The Canadian Camping Association (CCA/ACC) was founded on May 20, 1936 at the Central YMCA, Toronto.",
-      "sources": [
-        "src_trent_cca_fonds_78_004",
-        "src_cca_history"
-      ],
-      "confidence": "stated",
-      "category": "organizations",
-      "entities": [
-        "Canadian Camping Association",
-        "YMCA",
-        "Toronto"
-      ],
-      "date_ref": "1936-05-20",
-      "conflicts_with": [],
-      "added_version": "4.21",
-      "added_by": "ralph_loop"
-    },
-    {
-      "fact_id": "f_0881",
-      "claim": "The first CCA officers were: Taylor Statten (president), Mary Edgar (vice-president), Dr. George S. Patterson (secretary), Mary C. Donaldson (treasurer).",
-      "sources": [
-        "src_trent_cca_fonds_78_004",
-        "src_cca_history"
-      ],
-      "confidence": "stated",
-      "category": "organizations",
-      "entities": [
-        "Canadian Camping Association",
-        "Taylor Statten",
-        "Mary Edgar",
-        "George S. Patterson",
-        "Mary C. Donaldson"
-      ],
-      "date_ref": "1936-05-20",
-      "conflicts_with": [],
-      "added_version": "4.21",
-      "added_by": "ralph_loop"
-    },
-    {
-      "fact_id": "f_0882",
-      "claim": "The CCA's primary objective was to 'further the interests and welfare of children, youths and adults through camping as an educative, recreative, and character developing experience.'",
-      "sources": [
-        "src_trent_cca_fonds_78_004"
-      ],
-      "confidence": "stated",
-      "category": "organizations",
-      "entities": [
-        "Canadian Camping Association"
-      ],
-      "date_ref": "1936",
-      "conflicts_with": [],
-      "added_version": "4.21",
-      "added_by": "ralph_loop"
-    },
-    {
-      "fact_id": "f_0883",
-      "claim": "The CCA Constitution was incorporated by Letters Patent issued by the Secretary of State for Canada at Ottawa on November 4, 1949.",
-      "sources": [
-        "src_trent_cca_fonds_umbrella"
-      ],
-      "confidence": "stated",
-      "category": "organizations",
-      "entities": [
-        "Canadian Camping Association"
-      ],
-      "date_ref": "1949-11-04",
-      "conflicts_with": [],
-      "added_version": "4.21",
-      "added_by": "ralph_loop"
-    },
-    {
-      "fact_id": "f_0884",
-      "claim": "The Quebec Camping Association (QCA) was formed in 1937 as a chartered unit of the Canadian Camping Association.",
-      "sources": [
-        "src_trent_qca_fonds_85_013"
-      ],
-      "confidence": "stated",
-      "category": "organizations",
-      "entities": [
-        "Quebec Camping Association",
-        "Canadian Camping Association"
-      ],
-      "date_ref": "1937",
-      "conflicts_with": [],
-      "added_version": "4.21",
-      "added_by": "ralph_loop"
-    },
-    {
-      "fact_id": "f_0885",
-      "claim": "Concordia University YMCA archives hold correspondence regarding the founding of the CCA Quebec Section dated 1936-1937, a constitution from 1937, and executive/members meeting records from 1937-1942.",
-      "sources": [
-        "src_concordia_ymca_12A"
-      ],
-      "confidence": "stated",
-      "category": "organizations",
-      "entities": [
-        "Canadian Camping Association",
-        "Quebec Camping Association",
-        "Concordia University Archives",
-        "YMCA of Montreal"
-      ],
-      "date_ref": "1936-1937",
-      "conflicts_with": [],
-      "added_version": "4.21",
-      "added_by": "ralph_loop"
-    },
-    {
-      "fact_id": "f_0886",
-      "claim": "A camping school affiliated with the QCA was held at McGill University from 1937 to 1940.",
-      "sources": [
-        "src_concordia_ymca_12A"
-      ],
-      "confidence": "stated",
-      "category": "organizations",
-      "entities": [
-        "Quebec Camping Association",
-        "McGill University"
-      ],
-      "date_ref": "1937-1940",
-      "conflicts_with": [],
-      "added_version": "4.21",
-      "added_by": "ralph_loop"
-    },
-    {
-      "fact_id": "f_0887",
-      "claim": "The Trent University Archives OCA fonds (72-007) holds a 'Kanawana (1940)' file in its Camp Brochures and Photographs series.",
-      "sources": [
-        "src_trent_oca_fonds_72_007"
-      ],
-      "confidence": "stated",
-      "category": "organizations",
-      "entities": [
-        "Camp Kanawana",
-        "Ontario Camping Association",
-        "Trent University Archives"
-      ],
-      "date_ref": "1940",
-      "conflicts_with": [],
-      "added_version": "4.21",
-      "added_by": "ralph_loop"
-    },
-    {
-      "fact_id": "f_0888",
-      "claim": "In the OCA fonds (78-006) Agency Liaison series, Kanawana is listed among 'Y' camps alongside Wanakita, Wa-sa-ah-bun, Tapatoo, Tapawingo, Pinecrest, and Camp Stephens.",
-      "sources": [
-        "src_trent_oca_fonds_78_006"
-      ],
-      "confidence": "stated",
-      "category": "organizations",
-      "entities": [
-        "Camp Kanawana",
-        "Ontario Camping Association",
-        "YMCA"
-      ],
-      "date_ref": "1949-1978",
-      "conflicts_with": [],
-      "added_version": "4.21",
-      "added_by": "ralph_loop"
-    },
-    {
-      "fact_id": "f_0889",
-      "claim": "In the CCA fonds at Trent University, 'Kamp Kanawana' is associated with Derek Walsh and the YMCA in Montreal, Quebec.",
-      "sources": [
-        "src_trent_cca_fonds_78_004"
-      ],
-      "confidence": "stated",
-      "category": "organizations",
-      "entities": [
-        "Camp Kanawana",
-        "Derek Walsh",
-        "Canadian Camping Association",
-        "YMCA of Montreal"
-      ],
-      "date_ref": null,
-      "conflicts_with": [],
-      "added_version": "4.21",
-      "added_by": "ralph_loop"
-    },
-    {
-      "fact_id": "f_0890",
-      "claim": "The CCA published 'Canadian Camping' magazine from 1949 to 1988. Digitized issues are available on archive.org through efforts of Trent University and Joe Richards.",
-      "sources": [
-        "src_cca_history",
-        "src_archive_org_canadian_camping_1959"
-      ],
-      "confidence": "stated",
-      "category": "organizations",
-      "entities": [
-        "Canadian Camping Association",
-        "Trent University",
-        "Joe Richards"
-      ],
-      "date_ref": "1949-1988",
-      "conflicts_with": [],
-      "added_version": "4.21",
-      "added_by": "ralph_loop"
-    },
-    {
-      "fact_id": "f_0891",
-      "claim": "The Centenary Journey (1967) was a CCA/provincial camping association Centennial project where campers paddled a cross-Canada route from coast to coast. Bruce Hodgins was key to the project's success.",
-      "sources": [
-        "src_trent_oca_fonds_72_007"
-      ],
-      "confidence": "stated",
-      "category": "organizations",
-      "entities": [
-        "Canadian Camping Association",
-        "Bruce Hodgins",
-        "Centenary Journey"
-      ],
-      "date_ref": "1967",
-      "conflicts_with": [],
-      "added_version": "4.21",
-      "added_by": "ralph_loop"
-    },
-    {
-      "fact_id": "f_0892",
-      "claim": "Taylor Statten served as ACA (American Camp Association) president in 1942, in addition to being first CCA president.",
-      "sources": [
-        "src_cca_history"
-      ],
-      "confidence": "stated",
-      "category": "people",
-      "entities": [
-        "Taylor Statten",
-        "American Camp Association",
-        "Canadian Camping Association"
-      ],
-      "date_ref": "1942",
-      "conflicts_with": [],
-      "added_version": "4.21",
-      "added_by": "ralph_loop"
-    },
-    {
-      "fact_id": "f_0893",
-      "claim": "Mary Edgar (1889-1973) was Director of Camp Oolahwan in the Laurentians from 1915-1919 while serving as YWCA Girls' Work Secretary in Montreal.",
-      "sources": [
-        "src_ourontario_mary_edgar"
-      ],
-      "confidence": "stated",
-      "category": "people",
-      "entities": [
-        "Mary Edgar",
-        "Camp Oolahwan",
-        "YWCA",
-        "Montreal"
-      ],
-      "date_ref": "1915-1919",
-      "conflicts_with": [],
-      "added_version": "4.21",
-      "added_by": "ralph_loop"
-    },
-    {
-      "fact_id": "f_0894",
-      "claim": "Camp YMCA Kanawana is an accredited member of the Association des camps du Québec (ACQ), the modern successor to the Quebec Camping Association.",
-      "sources": [
-        "src_acq_kanawana_listing"
-      ],
-      "confidence": "stated",
-      "category": "organizations",
-      "entities": [
-        "Camp Kanawana",
-        "Association des camps du Québec",
-        "YMCA"
-      ],
-      "date_ref": "2026",
-      "conflicts_with": [],
-      "added_version": "4.21",
-      "added_by": "ralph_loop"
-    },
-    {
-      "fact_id": "f_0895",
-      "claim": "Kirk Wipper (1923-2011) founded Camp Kandalore in 1957 on Lake Kabakwa, Haliburton, and the Kanawa International Museum of Canoes there, which became the Canadian Canoe Museum in Peterborough (1997).",
-      "sources": [
-        "src_wikipedia_kirk_wipper"
-      ],
-      "confidence": "stated",
-      "category": "people",
-      "entities": [
-        "Kirk Wipper",
-        "Camp Kandalore",
-        "Kanawa International Museum",
-        "Canadian Canoe Museum"
-      ],
-      "date_ref": "1957",
-      "conflicts_with": [],
-      "added_version": "4.21",
-      "added_by": "ralph_loop"
-    },
-    {
-      "fact_id": "f_0896",
-      "claim": "Kirk Wipper developed comprehensive canoeing standards that were approved by the Ontario Camping Association and used in most camps with canoeing programs.",
-      "sources": [
-        "src_wikipedia_kirk_wipper"
-      ],
-      "confidence": "stated",
-      "category": "people",
-      "entities": [
-        "Kirk Wipper",
-        "Ontario Camping Association"
-      ],
-      "date_ref": null,
-      "conflicts_with": [],
-      "added_version": "4.21",
-      "added_by": "ralph_loop"
-    },
-    {
-      "fact_id": "f_0897",
-      "claim": "Concordia Archives sub-series P0145/12A holds a 'Comparison of Two Boys Camps operated by Montreal YMCA' covering Kamp Kanawana and Camp Perrot, dated approximately 1945-1946.",
-      "sources": [
-        "src_concordia_ymca_12A"
-      ],
-      "confidence": "stated",
-      "category": "founding",
-      "entities": [
-        "Camp Kanawana",
-        "Camp Perrot",
-        "YMCA of Montreal",
-        "Concordia University Archives"
-      ],
-      "date_ref": "1945-1946",
-      "conflicts_with": [],
-      "added_version": "4.21",
-      "added_by": "ralph_loop"
-    },
-    {
-      "fact_id": "f_0898",
-      "claim": "Concordia Archives sub-series P0145/12A holds an 'Interpretation of Score for Counselors Participating in the Research Project at Kamp Kanawana' from 1960.",
-      "sources": [
-        "src_concordia_ymca_12A"
-      ],
-      "confidence": "stated",
-      "category": "people",
-      "entities": [
-        "Camp Kanawana",
-        "YMCA of Montreal",
-        "Concordia University Archives"
-      ],
-      "date_ref": "1960",
-      "conflicts_with": [],
-      "added_version": "4.21",
-      "added_by": "ralph_loop"
-    },
-    {
-      "fact_id": "f_0899",
-      "claim": "Concordia Archives sub-series P0145/12A holds a proposed two-site operation plan for Kanawana and Weredale from 1977.",
-      "sources": [
-        "src_concordia_ymca_12A"
-      ],
-      "confidence": "stated",
-      "category": "administration",
-      "entities": [
-        "Camp Kanawana",
-        "Camp Weredale",
-        "YMCA of Montreal",
-        "Concordia University Archives"
-      ],
-      "date_ref": "1977",
-      "conflicts_with": [],
-      "added_version": "4.21",
-      "added_by": "ralph_loop"
-    },
-    {
-      "fact_id": "f_0900",
-      "claim": "A CCA survey found many camp directors were aware of cultural appropriation harms but had no consensus on how to address Indigenous traditions in camps. Following TRC 2015 final report, camps began reflecting on origins influenced by Indigenous culture.",
-      "sources": [
-        "src_mironline_reconciliation_camps"
-      ],
-      "confidence": "stated",
-      "category": "organizations",
-      "entities": [
-        "Canadian Camping Association",
-        "Truth and Reconciliation Commission"
-      ],
-      "date_ref": "2015-2023",
-      "conflicts_with": [],
-      "added_version": "4.21",
       "added_by": "ralph_loop"
     },
     {
@@ -18485,105 +17872,6 @@
       "added_by": "ralph_loop"
     },
     {
-      "fact_id": "f_1079",
-      "claim": "A poster titled 'Kanawana: 100 years of spirit and leadership' was produced in 1994 for the camp's centennial. It is held in the Concordia University archives (YMCA of Montreal fonds, sub-sub-series P0145/12B04).",
-      "sources": [
-        "src_concordia_fonds"
-      ],
-      "confidence": "stated",
-      "category": "events",
-      "entities": [
-        "Camp Kanawana"
-      ],
-      "date_ref": "1994",
-      "conflicts_with": [],
-      "added_version": "v4.32",
-      "added_by": "ralph_loop"
-    },
-    {
-      "fact_id": "f_1080",
-      "claim": "Offset colour separation films for a '95 years of sharing' Kamp Kanawana reunion exist in the Concordia archives (P0145/12B04), dated April 7, 1989. This indicates a reunion was held for the 95th anniversary in 1989.",
-      "sources": [
-        "src_concordia_fonds"
-      ],
-      "confidence": "stated",
-      "category": "events",
-      "entities": [
-        "Camp Kanawana"
-      ],
-      "date_ref": "1989-04-07",
-      "conflicts_with": [],
-      "added_version": "v4.32",
-      "added_by": "ralph_loop"
-    },
-    {
-      "fact_id": "f_1081",
-      "claim": "Tear sheets from local newspapers with advertisements for Kamp Kanawana from 1993-1994 are held in the Concordia archives (P0145/12B04), suggesting promotional activity around the centennial period.",
-      "sources": [
-        "src_concordia_fonds"
-      ],
-      "confidence": "stated",
-      "category": "events",
-      "entities": [
-        "Camp Kanawana"
-      ],
-      "date_ref": "1993-1994",
-      "conflicts_with": [],
-      "added_version": "v4.32",
-      "added_by": "ralph_loop"
-    },
-    {
-      "fact_id": "f_1082",
-      "claim": "Camp YMCA Kanawana celebrated its 125th anniversary in summer 2019. The YMCA Quebec website promoted: 'Come be part of Kanawana's 125th anniversary celebration this summer.'",
-      "sources": [
-        "src_ymca_125th_2019"
-      ],
-      "confidence": "stated",
-      "category": "events",
-      "entities": [
-        "Camp Kanawana"
-      ],
-      "date_ref": "2019",
-      "conflicts_with": [],
-      "added_version": "v4.32",
-      "added_by": "ralph_loop"
-    },
-    {
-      "fact_id": "f_1083",
-      "claim": "The 1993 documentary 'Kamp Kanawana: The Experience that Lasts a Lifetime' directed by Cathy Reeves has an access copy available on YouTube (https://youtu.be/_bznoSFg3MU) per the Concordia archives catalog.",
-      "sources": [
-        "src_concordia_atom_12B04"
-      ],
-      "confidence": "stated",
-      "category": "media",
-      "entities": [
-        "Cathy Reeves",
-        "Camp Kanawana"
-      ],
-      "date_ref": "1993",
-      "conflicts_with": [],
-      "added_version": "v4.32",
-      "added_by": "ralph_loop"
-    },
-    {
-      "fact_id": "f_1084",
-      "claim": "Camp Kanawana has held milestone anniversary events at regular intervals: 95th anniversary reunion (April 7, 1989), centennial with commemorative poster (1994), 120th anniversary reunion at Victoria Hall (September 5, 2014), 125th anniversary celebration (summer 2019). No online evidence of a formal centennial event in 1994 beyond the poster and alumni newsletter was found through web research.",
-      "sources": [
-        "src_concordia_fonds",
-        "src_ymca_120th",
-        "src_ymca_125th_2019"
-      ],
-      "confidence": "inferred",
-      "category": "events",
-      "entities": [
-        "Camp Kanawana"
-      ],
-      "date_ref": "1989-2019",
-      "conflicts_with": [],
-      "added_version": "v4.32",
-      "added_by": "ralph_loop"
-    },
-    {
       "fact_id": "f_1085",
       "claim": "The word \"kanawa\" is a widespread Wanderwort in South American and Caribbean languages (Karina kanawa, Trio kanawa, Wayana kanawa, Taino *kanowa) meaning \"dugout canoe.\" This root is widely believed to be the origin of the English word \"canoe.\" Whether the name \"Kanawana\" derives from this root or from an Algonquian source is unconfirmed.",
       "sources": [
@@ -18792,144 +18080,6 @@
       "date_ref": "1975-1979",
       "conflicts_with": [],
       "added_version": "v4.32",
-      "added_by": "ralph_loop"
-    },
-    {
-      "fact_id": "f_1089",
-      "claim": "Camp Kanawana facilities include: Front Camp (Farmhouse and Blockhouse, winterized), Woodsy section (12 cabins with electricity), Pioneers section (cabins), Coureurs des Bois section (prospector tents), Pathfinders section (prospector tents), Rose des Vents Pavilion (kitchen, wood stove, common area, max 16 people), 14 prospector tents total. Common buildings: cafeteria, gymnasium called Katimavik, arts and crafts pavilion, beach lodge, nature nook.",
-      "sources": [
-        "src_ymca_kanawana_facilities"
-      ],
-      "confidence": "stated",
-      "category": "facilities",
-      "entities": [
-        "Camp Kanawana"
-      ],
-      "date_ref": null,
-      "conflicts_with": [],
-      "added_version": "v4.31",
-      "added_by": "ralph_loop"
-    },
-    {
-      "fact_id": "f_1090",
-      "claim": "The gymnasium at Camp Kanawana is named Katimavik.",
-      "sources": [
-        "src_ymca_kanawana_facilities"
-      ],
-      "confidence": "stated",
-      "category": "facilities",
-      "entities": [
-        "Camp Kanawana"
-      ],
-      "date_ref": null,
-      "conflicts_with": [],
-      "added_version": "v4.31",
-      "added_by": "ralph_loop"
-    },
-    {
-      "fact_id": "f_1091",
-      "claim": "Lake Wilson nature camp sites offer rustic camping with prospector tents and fire pits. Described as one of the most beautiful parts of the camp site, with views, sunsets, and stargazing.",
-      "sources": [
-        "src_ymca_kanawana_facilities"
-      ],
-      "confidence": "stated",
-      "category": "facilities",
-      "entities": [
-        "Camp Kanawana",
-        "Lake Wilson"
-      ],
-      "date_ref": null,
-      "conflicts_with": [],
-      "added_version": "v4.31",
-      "added_by": "ralph_loop"
-    },
-    {
-      "fact_id": "f_1092",
-      "claim": "Hedley G. Dimock (son of Hedley S. Dimock) was Coordinator of Staff Development and Training for the Montreal YMCA and a lecturer in Group Development at Sir George Williams University. He authored multiple research studies conducted at Camp Kanawana including \"A Study of the Change in Attitudes and Temperament of Counselors during a Summer in Camp\" (1961), \"A Study of the Prediction of Success of Twenty-Seven Camp Counselors\" (1961), and \"Studies on the Affect of Participation in Training and Supervisory Programs\" (1969).",
-      "sources": [
-        "src_concordia_p0145_12a_finding_aid",
-        "src_openlibrary_dimock"
-      ],
-      "confidence": "stated",
-      "category": "people",
-      "entities": [
-        "Hedley G. Dimock",
-        "Camp Kanawana",
-        "YMCA Montreal",
-        "Sir George Williams University"
-      ],
-      "date_ref": "1960-1969",
-      "conflicts_with": [],
-      "added_version": "v4.31",
-      "added_by": "ralph_loop"
-    },
-    {
-      "fact_id": "f_1093",
-      "claim": "Hedley S. Dimock (father) taught at the YMCA College alongside Charles E. Hendry and authored \"Administration of the Modern Camp.\" He was a key figure in the elaboration of social group work within the YMCA system.",
-      "sources": [
-        "src_infed_ymca_education"
-      ],
-      "confidence": "stated",
-      "category": "people",
-      "entities": [
-        "Hedley S. Dimock",
-        "YMCA"
-      ],
-      "date_ref": null,
-      "conflicts_with": [],
-      "added_version": "v4.31",
-      "added_by": "ralph_loop"
-    },
-    {
-      "fact_id": "f_1094",
-      "claim": "Hedley G. Dimock co-authored works with Raye Kass, published by Captus Press. His published books include \"Designing and Facilitating Training Programs,\" \"Simplified Guide to Program Evaluation,\" \"Intervention and Empowerment,\" \"How to Observe Your Group,\" and \"Intervention and Collaborative Change.\"",
-      "sources": [
-        "src_openlibrary_dimock",
-        "src_goodreads_dimock"
-      ],
-      "confidence": "stated",
-      "category": "people",
-      "entities": [
-        "Hedley G. Dimock",
-        "Raye Kass"
-      ],
-      "date_ref": null,
-      "conflicts_with": [],
-      "added_version": "v4.31",
-      "added_by": "ralph_loop"
-    },
-    {
-      "fact_id": "f_1095",
-      "claim": "In summer 2024, the YMCAs of Quebec launched \"Kanawana Adventure,\" a day camp program at the Camp Kanawana site in Saint-Sauveur. This is the first day camp offering at the historically residential camp.",
-      "sources": [
-        "src_ymca_quebec_daycamp_2024"
-      ],
-      "confidence": "stated",
-      "category": "programs",
-      "entities": [
-        "Camp Kanawana",
-        "YMCAs of Quebec"
-      ],
-      "date_ref": "2024",
-      "conflicts_with": [],
-      "added_version": "v4.31",
-      "added_by": "ralph_loop"
-    },
-    {
-      "fact_id": "f_1096",
-      "claim": "Charles \"Smillie\" Buckland attended Camp Kanawana starting in 1944 at age 10. He was sent because his mother felt he needed male influence after his father died when he was three. He took the train from Montreal Central Station to Saint-Sauveur, then bused to camp on a gravel road.",
-      "sources": [
-        "src_readers_digest_camp_shapes_lives"
-      ],
-      "confidence": "stated",
-      "category": "people",
-      "entities": [
-        "Charles Buckland",
-        "Camp Kanawana"
-      ],
-      "date_ref": "1944",
-      "conflicts_with": [],
-      "added_version": "v4.31",
       "added_by": "ralph_loop"
     },
     {
@@ -20040,76 +19190,6 @@
       "added_by": "ralph_loop"
     },
     {
-      "fact_id": "f_1155",
-      "claim": "Wilson Griffith McConnell (1908-1966) was a jazz collector who amassed a collection of music recordings and recording equipment. His collection was donated to Concordia University Libraries' Special Collections by his widow Marjorie Wallace McConnell in 1994 and 2000.",
-      "sources": [
-        "src_concordia_wgm_collection"
-      ],
-      "confidence": "stated",
-      "category": "people",
-      "entities": [
-        "Wilson Griffith McConnell",
-        "J.W. McConnell",
-        "Concordia University"
-      ],
-      "date_ref": "1966",
-      "conflicts_with": [],
-      "added_version": "v4.35",
-      "added_by": "ralph_loop"
-    },
-    {
-      "fact_id": "f_1156",
-      "claim": "The Fong biography of J.W. McConnell (2008) contains Chapter Six titled 'Keep the Home Fires Burning: Fundraising for the YMCA in Peace and for Canada in the Great War, 1909-19' starting at page 123. The book is 733 pages. The full text is behind paywalls (JSTOR, De Gruyter) but available for borrowing on Internet Archive.",
-      "sources": [
-        "src_fong_mcconnell_2008"
-      ],
-      "confidence": "stated",
-      "category": "sources",
-      "entities": [
-        "J.W. McConnell",
-        "William Fong",
-        "YMCA"
-      ],
-      "date_ref": "2008",
-      "conflicts_with": [],
-      "added_version": "v4.35",
-      "added_by": "ralph_loop"
-    },
-    {
-      "fact_id": "f_1157",
-      "claim": "The McGill University Archives hold the J.W. McConnell Fonds (MG4240) with series including: 1) Correspondence, 2) Scrapbooks/Journals/Address books, 3) Personal and Family records, 4) Philanthropy, 5) High society, 6) Business Commitments. Series 4 includes subseries on Hospitals/Health Care, Higher Education, and War Efforts. Some files (containers 11-13, 15-17) are restricted.",
-      "sources": [
-        "src_mcgill_mg4240_finding_aid"
-      ],
-      "confidence": "stated",
-      "category": "sources",
-      "entities": [
-        "J.W. McConnell",
-        "McGill University"
-      ],
-      "date_ref": null,
-      "conflicts_with": [],
-      "added_version": "v4.35",
-      "added_by": "ralph_loop"
-    },
-    {
-      "fact_id": "f_1158",
-      "claim": "Wilson Griffith McConnell and his wife Marjorie Wallace McConnell had one daughter, Jill.",
-      "sources": [
-        "src_concordia_wgm_collection"
-      ],
-      "confidence": "stated",
-      "category": "people",
-      "entities": [
-        "Wilson Griffith McConnell",
-        "J.W. McConnell"
-      ],
-      "date_ref": null,
-      "conflicts_with": [],
-      "added_version": "v4.35",
-      "added_by": "ralph_loop"
-    },
-    {
       "fact_id": "f_1160",
       "claim": "Lemuel Cushing Jr. (1842-1881), who was YMCA Montreal president 1869-70, published 'The Genealogy of the Cushing Family' in Montreal in 1877. He died at age 39 in Montreal and could NOT have been the 'Lemuel Cushing' who brought boys to Lake Saint-Joseph in 1892. The 1892 Cushing must be a third-generation Lemuel or a nephew. A supplement to the genealogy covering 1905-1969 was compiled by James Stevenson Cushing (born 1878).",
       "sources": [
@@ -20197,41 +19277,6 @@
       "date_ref": null,
       "conflicts_with": [],
       "added_version": "v4.35",
-      "added_by": "ralph_loop"
-    },
-    {
-      "fact_id": "f_1162",
-      "claim": "J.W. McConnell (1877-1963) led a massive YMCA fundraising campaign in 1909, raising $320,000 in a single 12-day campaign. Upon first arriving in Montreal he had roomed at the YMCA, which 'nurtured a lifelong commitment to that organization.' William Fong's biography 'J.W. McConnell: Financier, Philanthropist, Patriot' (McGill-Queen's UP, 2008) dedicates Chapter 6 to 'Fundraising for the YMCA in Peace and for Canada in the Great War, 1909-19.'",
-      "sources": [
-        "src_fong_mcconnell"
-      ],
-      "confidence": "stated",
-      "category": "people",
-      "entities": [
-        "J.W. McConnell",
-        "YMCA Montreal"
-      ],
-      "date_ref": "1909",
-      "conflicts_with": [],
-      "added_version": "v4.34",
-      "added_by": "ralph_loop"
-    },
-    {
-      "fact_id": "f_1163",
-      "claim": "The McConnell Foundation describes its relationship with Camp Kanawana as 'long' and states it is 'proud to have contributed to Camp Kanawana over the years.' Recent funding contributes to the YMCA 'Springboard for Life' campaign supporting major renovations at Camp Kanawana, honouring the camp's 'long relationship with the Foundation.'",
-      "sources": [
-        "src_fong_mcconnell"
-      ],
-      "confidence": "stated",
-      "category": "administration",
-      "entities": [
-        "McConnell Foundation",
-        "Camp Kanawana",
-        "YMCA"
-      ],
-      "date_ref": null,
-      "conflicts_with": [],
-      "added_version": "v4.34",
       "added_by": "ralph_loop"
     },
     {
@@ -21312,11 +20357,11 @@
     },
     {
       "fact_id": "f_1225",
-      "claim": "Peter Goddard (Camp Kanawana director, early-to-mid 1980s) has no confirmed online presence linking him to Kanawana or YMCA. A possible match is Peter Gilling Goddard (1953-2016) of Smiths Falls, Ontario, who had 40+ years with Boy Scouts of Canada and was an outdoor instructor at the Bill Mason Center and Rideau Valley Conservation Authority. The age and outdoor education profile fit, but no direct Kanawana or YMCA connection has been established. 15+ web searches returned null.",
+      "claim": "Peter Gilling Goddard (August 13, 1953 - October 15, 2016) is CONFIRMED as the Peter Goddard who served at Camp Kanawana (director, early-to-mid 1980s). Identification upgraded from 'possible match' to confirmed based on a condolence message on his obituary explicitly mentioning 'Kamp Kanawana' (insider spelling).",
       "sources": [
-        "src_oral_aronson"
+        "src_goddard_obituary_condolence"
       ],
-      "confidence": "user_knowledge",
+      "confidence": "stated",
       "category": "people",
       "entities": [
         "Peter Goddard",
@@ -21324,7 +20369,7 @@
       ],
       "date_ref": "c. 1981-1985",
       "conflicts_with": [],
-      "added_version": "v4.55",
+      "added_version": "4.75",
       "added_by": "ralph_loop"
     },
     {
@@ -23366,6 +22411,734 @@
       "date_ref": "1851-1989",
       "conflicts_with": [],
       "added_version": "4.74",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1340",
+      "claim": "Peter Gilling Goddard (August 13, 1953 - October 15, 2016) is confirmed as the Peter Goddard who served at Camp Kanawana. A condolence message on his obituary states: 'I knew Peter years ago at Kamp Kanawana. I remember a warm-hearted and very kind man.' The use of insider spelling 'Kamp' strengthens the identification.",
+      "sources": [
+        "src_goddard_obituary_condolence"
+      ],
+      "confidence": "stated",
+      "category": "directors",
+      "entities": [
+        "Peter Gilling Goddard",
+        "Camp Kanawana"
+      ],
+      "date_ref": "1981-1985",
+      "conflicts_with": [],
+      "added_version": "4.75",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1341",
+      "claim": "Peter Gilling Goddard was born August 13, 1953, the third son of Elizabeth Anne Goddard (nee Macdonald) and Raymond Gilling Goddard of Smiths Falls, Ontario. Siblings: John, Allan, David, Jennifer, Barbara, and Kathy.",
+      "sources": [
+        "src_goddard_obituary_condolence"
+      ],
+      "confidence": "stated",
+      "category": "biography",
+      "entities": [
+        "Peter Gilling Goddard",
+        "Raymond Gilling Goddard",
+        "Elizabeth Anne Goddard"
+      ],
+      "date_ref": "1953-08-13",
+      "conflicts_with": [],
+      "added_version": "4.75",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1342",
+      "claim": "Peter Goddard died suddenly on October 15, 2016 (age 63) while walking Shaw Woods trails with the Mississippi Valley Field Naturalists and his brother Allan. Funeral at C.R. Gamble Funeral Home, Almonte, Ontario; memorial November 26, 2016 at First Unitarian Congregation of Ottawa.",
+      "sources": [
+        "src_goddard_obituary_condolence"
+      ],
+      "confidence": "stated",
+      "category": "biography",
+      "entities": [
+        "Peter Gilling Goddard",
+        "Mississippi Valley Field Naturalists"
+      ],
+      "date_ref": "2016-10-15",
+      "conflicts_with": [],
+      "added_version": "4.75",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1343",
+      "claim": "Peter Goddard served Boy Scouts of Canada for 40+ years (teaching, instruction, leading, managing). He worked at the Bill Mason Center as instructor and leader of outdoor activities, and at the Rideau Valley Conservation Authority in outdoor field management and instructing, running summer camp programs at Baxter Conservation Area. He recently retired before his death.",
+      "sources": [
+        "src_goddard_obituary_condolence"
+      ],
+      "confidence": "stated",
+      "category": "biography",
+      "entities": [
+        "Peter Gilling Goddard",
+        "Boy Scouts of Canada",
+        "Bill Mason Center",
+        "Rideau Valley Conservation Authority",
+        "Baxter Conservation Area"
+      ],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "4.75",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1344",
+      "claim": "Peter Goddard's father Raymond Gilling Goddard (September 2, 1921 - May 13, 2013) was a WWII veteran (First Canadian Infantry) and graduate of McGill and Bishop's Universities.",
+      "sources": [
+        "src_goddard_obituary_condolence"
+      ],
+      "confidence": "stated",
+      "category": "biography",
+      "entities": [
+        "Raymond Gilling Goddard",
+        "Peter Gilling Goddard"
+      ],
+      "date_ref": "1921-2013",
+      "conflicts_with": [],
+      "added_version": "4.75",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1345",
+      "claim": "Philip Mortimer Caddell was born July 7, 1913 in Brantford, Ontario, Canada, and died July 24, 2004 in Ottawa, Ontario, Canada (age 91). His parents were Captain William Persse Caddell and Florence May Ogden. He had an older brother Shirley Lee Forsythe Caddell (born November 1911).",
+      "sources": [
+        "src_thepeerage_caddell"
+      ],
+      "confidence": "stated",
+      "category": "biography",
+      "entities": [
+        "Philip Mortimer Caddell",
+        "William Persse Caddell",
+        "Florence May Ogden"
+      ],
+      "date_ref": "1913-07-07",
+      "conflicts_with": [],
+      "added_version": "4.75",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1346",
+      "claim": "Philip 'Pip' Caddell was born in Canada (Brantford, Ontario) but raised in Scotland; he returned to Canada as a teenager. He married Elga Ramsey in 1945. Elga (born 1917) was a devout Anglican associated with St. Philip's in Montreal West.",
+      "sources": [
+        "src_thepeerage_caddell",
+        "src_the_goal_caddell"
+      ],
+      "confidence": "stated",
+      "category": "biography",
+      "entities": [
+        "Philip Mortimer Caddell",
+        "Elga Ramsey"
+      ],
+      "date_ref": "1945",
+      "conflicts_with": [],
+      "added_version": "4.75",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1347",
+      "claim": "Philip 'Pip' Caddell's employer was a local brewer. He attended the 1936 Montreal Maroons vs Detroit Red Wings six-overtime playoff game (settled by Mud Bruneteau) and the 1935 Maroons Stanley Cup win. His spoken story 'The Black Horse' — about helping his employer honour a commitment to reward Maroons captain Hooley Smith with a Percheron horse — was transcribed from memory by his son Andrew and published posthumously in 'The Goal.'",
+      "sources": [
+        "src_the_goal_caddell"
+      ],
+      "confidence": "stated",
+      "category": "biography",
+      "entities": [
+        "Philip Mortimer Caddell",
+        "Andrew Caddell",
+        "Montreal Maroons"
+      ],
+      "date_ref": "1935-1936",
+      "conflicts_with": [],
+      "added_version": "4.75",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1348",
+      "claim": "James Lawrence Caddell was born March 16, 1973 in Montreal. His mother was Norma Lewis, a journalist and communications lecturer at Dawson College who covered John Lennon's 'bed-in' for peace for the Montreal Gazette in 1969. Andrew Caddell was one of her former students.",
+      "sources": [
+        "src_cmat_caddell_memorial"
+      ],
+      "confidence": "stated",
+      "category": "biography",
+      "entities": [
+        "James Lawrence Caddell",
+        "Norma Lewis",
+        "Andrew Caddell"
+      ],
+      "date_ref": "1973-03-16",
+      "conflicts_with": [],
+      "added_version": "4.75",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1349",
+      "claim": "James Caddell graduated from Cortland High School near Syracuse, NY in 1991. He moved to Montreal and attended Dawson College, then enrolled at McGill University in North American studies before switching to political science and history (BA ~1997). In summer 1997 he was a Normandy Foundation Scholar (six-week tour of European battlefields: Waterloo, Somme, D-Day Normandy).",
+      "sources": [
+        "src_cmat_caddell_memorial"
+      ],
+      "confidence": "stated",
+      "category": "biography",
+      "entities": [
+        "James Lawrence Caddell",
+        "McGill University",
+        "Dawson College",
+        "Normandy Foundation"
+      ],
+      "date_ref": "1991-1997",
+      "conflicts_with": [],
+      "added_version": "4.75",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1350",
+      "claim": "James Caddell earned an MA in War Studies from Royal Military College, Kingston (1998-2000, as a civilian student). At RMC he met Tara Newell (MA in Public Administration at Queen's); they recognized each other from McGill where James had worked part-time for the Student Society and Tara had signed his paycheques as Student Society president.",
+      "sources": [
+        "src_cmat_caddell_memorial"
+      ],
+      "confidence": "stated",
+      "category": "biography",
+      "entities": [
+        "James Lawrence Caddell",
+        "Tara Newell",
+        "Royal Military College"
+      ],
+      "date_ref": "1998-2000",
+      "conflicts_with": [],
+      "added_version": "4.75",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1351",
+      "claim": "James Caddell joined the Royal Canadian Hussars reserve while at Dawson/McGill. In 1995 he took a year off, trained at CFB Valcartier, and deployed to Bosnia: Rotation 5 of Operation Cavalier, May-October 1995, serving in CANBAT 2 (Canadian Battle Group 2), part of UNPROFOR, as a Cougar driver in 42 Troop of 'D' Squadron of the 12e Régiment blindé du Canada. He was awarded the Peacekeeping Service Medal and UNPROFOR Medal.",
+      "sources": [
+        "src_cmat_caddell_memorial",
+        "src_rch_history"
+      ],
+      "confidence": "stated",
+      "category": "biography",
+      "entities": [
+        "James Lawrence Caddell",
+        "Royal Canadian Hussars",
+        "CANBAT 2",
+        "UNPROFOR"
+      ],
+      "date_ref": "1995",
+      "conflicts_with": [],
+      "added_version": "4.75",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1352",
+      "claim": "James Caddell died October 16, 2005 in Tupiza, Bolivia (age 32) of pulmonary edema caused by altitude sickness. He had suffered altitude sickness on Mount Everest 9 months earlier above 5,000m. Tupiza is below 3,000m; no one in the hotel or local hospital recognized the symptoms or had oxygen. His wife Tara Newell was beside him.",
+      "sources": [
+        "src_cmat_caddell_memorial"
+      ],
+      "confidence": "stated",
+      "category": "biography",
+      "entities": [
+        "James Lawrence Caddell",
+        "Tara Newell",
+        "Tupiza"
+      ],
+      "date_ref": "2005-10-16",
+      "conflicts_with": [],
+      "added_version": "4.75",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1353",
+      "claim": "James and Tara Caddell's world trip started June 2004. Itinerary: crossed Australia, toured Hanoi and Angkor Wat, humanitarian work in East Timor and Indonesia, 2 months as CMAT volunteer at orphanage in Kannyakumari district (Tamil Nadu, India) working with children orphaned by the 2004 tsunami, trekked in Nepal, toured Gallipoli and Jerusalem, dined in Provence, learned Spanish in Buenos Aires and Santiago, arrived by bus in Bolivia.",
+      "sources": [
+        "src_cmat_caddell_memorial"
+      ],
+      "confidence": "stated",
+      "category": "biography",
+      "entities": [
+        "James Lawrence Caddell",
+        "Tara Newell",
+        "CMAT"
+      ],
+      "date_ref": "2004-2005",
+      "conflicts_with": [],
+      "added_version": "4.75",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1354",
+      "claim": "Tara Newell (wife of James Caddell) founded the James Caddell Memorial Foundation providing educational opportunities for marginalized girls in India. She spent 16 years with MSF (Médecins Sans Frontières), including Emergency Coordinator deployed to Syria, culminating as MSF's Representative to the United Nations. As of August 2025, she is Chief Programs Officer (VP) at CARE Canada.",
+      "sources": [
+        "src_care_canada_newell"
+      ],
+      "confidence": "stated",
+      "category": "biography",
+      "entities": [
+        "Tara Newell",
+        "James Caddell Memorial Foundation",
+        "MSF",
+        "CARE Canada"
+      ],
+      "date_ref": "2005-2025",
+      "conflicts_with": [],
+      "added_version": "4.75",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1355",
+      "claim": "Andrew Caddell married Elaine Feldman; children: James (1973-2005), Emily, and Jack. He is a double graduate of Carleton University, Ottawa, with an MA in Journalism (2002, thesis: 'Like Moths to a Flame: the news media's influence on the United Nations and the specialized agencies').",
+      "sources": [
+        "src_cgai_caddell",
+        "src_atwater_caddell_bio"
+      ],
+      "confidence": "stated",
+      "category": "biography",
+      "entities": [
+        "Andrew Caddell",
+        "Elaine Feldman",
+        "James Lawrence Caddell",
+        "Carleton University"
+      ],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "4.75",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1356",
+      "claim": "Andrew Caddell's career: broadcast journalist (Ottawa, Montreal, Quebec City, Calgary, St. John's, 1975-1981), political advisor (1980-1986), Director of Communications to Premier of Newfoundland and Labrador, Town Councillor Montreal West (1989-1993, Public Security), served with WHO Geneva and UNICEF in Macedonia and Bangladesh, foreign service officer at Global Affairs Canada for 15 years (last role: Senior Policy Advisor, North America Policy and Relations — Mexico), retired GAC July 2017.",
+      "sources": [
+        "src_cgai_caddell"
+      ],
+      "confidence": "stated",
+      "category": "biography",
+      "entities": [
+        "Andrew Caddell",
+        "Global Affairs Canada"
+      ],
+      "date_ref": "1975-2017",
+      "conflicts_with": [],
+      "added_version": "4.75",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1357",
+      "claim": "Andrew Caddell's current roles include: weekly columnist for The Hill Times (Ottawa), frequent guest on CJAD Radio (Montreal), Town Councillor of Kamouraska Quebec, President of the Task Force on Linguistic Policy, Fellow of the Canadian Global Affairs Institute and Environics Institute, Principal of QIT Canada Inc. (Emergency Management software), and Advisor to the Montreal Irish Monument Foundation.",
+      "sources": [
+        "src_cgai_caddell"
+      ],
+      "confidence": "stated",
+      "category": "biography",
+      "entities": [
+        "Andrew Caddell"
+      ],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "4.75",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1358",
+      "claim": "'The Goal: Stories about Our National Passion' by Andrew Caddell and Dave Stubbs (Deux Voiliers Publishing, 2015; revised/expanded edition 2017) contains Philip 'Pip' Caddell's posthumous spoken story 'The Black Horse' — a secondary source for Pip's biography and Montreal hockey culture of the 1930s.",
+      "sources": [
+        "src_the_goal_caddell"
+      ],
+      "confidence": "stated",
+      "category": "sources",
+      "entities": [
+        "Andrew Caddell",
+        "Philip Mortimer Caddell",
+        "Dave Stubbs"
+      ],
+      "date_ref": "2015",
+      "conflicts_with": [],
+      "added_version": "4.75",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1359",
+      "claim": "Nelson McEwen, born c.1897 in Charlottetown, PEI, was hired in 1919 (age 22) as Assistant Boys Work Secretary at Winnipeg YMCA. He personally directed Camp Stephens in Winnipeg from 1924-1927, then was recruited to Montreal YMCA as Boys Work Secretary, where he directed Camp Kanawana c.1927-1947. This extends his documented Kanawana tenure from the previously known 1930-1931 to a ~20-year period.",
+      "sources": [
+        "src_camp_stephens_alumni_blog"
+      ],
+      "confidence": "stated",
+      "category": "directors",
+      "entities": [
+        "Nelson McEwen",
+        "Camp Stephens",
+        "Camp Kanawana",
+        "YMCA Montreal"
+      ],
+      "date_ref": "1927-1947",
+      "conflicts_with": [
+        "f_0040"
+      ],
+      "added_version": "4.75",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1360",
+      "claim": "Nelson McEwen co-founded the Canadian Camping Association with Taylor Statten, serving as Secretary while Statten was President. Note: CCA was formally founded in 1936 at Central YMCA Toronto; McEwen may have been involved in the 1946 reorganization/national assemblies rather than the 1936 founding.",
+      "sources": [
+        "src_camp_stephens_alumni_blog"
+      ],
+      "confidence": "stated",
+      "category": "camping_movement",
+      "entities": [
+        "Nelson McEwen",
+        "Taylor Statten",
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1936",
+      "conflicts_with": [],
+      "added_version": "4.75",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1361",
+      "claim": "Nelson McEwen developed the Hi-Y program to 'massive size' in Montreal and conducted two National Assemblies of Hi-Y at Geneva Park in 1940 and 1946.",
+      "sources": [
+        "src_camp_stephens_alumni_blog"
+      ],
+      "confidence": "stated",
+      "category": "programs",
+      "entities": [
+        "Nelson McEwen",
+        "Hi-Y",
+        "Geneva Park"
+      ],
+      "date_ref": "1940-1946",
+      "conflicts_with": [],
+      "added_version": "4.75",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1362",
+      "claim": "In 1947, Nelson McEwen left Montreal to accept the position of General Secretary of the Saint John YMCA (New Brunswick). At Saint John he recruited Ross Bannerman, Lloyd and Niles Ring, and Doug Allen to YMCA careers.",
+      "sources": [
+        "src_camp_stephens_alumni_blog"
+      ],
+      "confidence": "stated",
+      "category": "biography",
+      "entities": [
+        "Nelson McEwen",
+        "Ross Bannerman",
+        "YMCA Saint John"
+      ],
+      "date_ref": "1947",
+      "conflicts_with": [],
+      "added_version": "4.75",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1363",
+      "claim": "Camp Becsies was located on Lac des Becs-scie, a lake in Saint-Sauveur (83%) and Mille-Isles (17%), in the same municipality as Camp Kanawana. The lake has a total area of 0.5 km², approximately 2.2 km long, 155-340m wide. It is likely one of the 'three private lakes' on or adjacent to Kanawana property.",
+      "sources": [
+        "src_becsscie_association",
+        "src_bdll_becs_scie"
+      ],
+      "confidence": "inferred",
+      "category": "geography",
+      "entities": [
+        "Camp Becsies",
+        "Lac des Becs-scie",
+        "Camp Kanawana",
+        "Saint-Sauveur"
+      ],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "4.75",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1364",
+      "claim": "Camp Becsies served campers from the Montreal Protestant Orphans' Home in 1934 and 1936. In the 1960-1971 period, Camp Becsies was repurposed for family camping (family camping brochure c.1962, administrative records 1960-1971). Photographs of Camp Becsies exist in the Concordia archives.",
+      "sources": [
+        "src_concordia_12D"
+      ],
+      "confidence": "stated",
+      "category": "camps",
+      "entities": [
+        "Camp Becsies",
+        "Montreal Protestant Orphans' Home"
+      ],
+      "date_ref": "1929-1971",
+      "conflicts_with": [],
+      "added_version": "4.75",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1365",
+      "claim": "Camp Dorval (P0145/12E, 1926-1928, 0.5cm records) was a short-lived YMCA day camp in Dorval, Quebec (West Island of Montreal). Only 0.5cm of archival records survive for its three years of operation, suggesting a small operation.",
+      "sources": [
+        "src_concordia_12E"
+      ],
+      "confidence": "inferred",
+      "category": "camps",
+      "entities": [
+        "Camp Dorval",
+        "Dorval",
+        "YMCA Montreal"
+      ],
+      "date_ref": "1926-1928",
+      "conflicts_with": [],
+      "added_version": "4.75",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1366",
+      "claim": "Camp Thunderbird (P0145/12I) and the Wilderness Survival Camp (P0145/12J) are YMCA Montreal camps listed in the Concordia Archives. No online content exists for either. The 1974 'Report of the Staff Task Group on Outdoor Education in the Montreal YMCA' and 1975 'Proposed Hike and Trip Camp' likely relate to their origin. Both likely date from the YMCA's expansion of outdoor education in the mid-1970s.",
+      "sources": [
+        "src_concordia_fonds"
+      ],
+      "confidence": "inferred",
+      "category": "camps",
+      "entities": [
+        "Camp Thunderbird",
+        "Wilderness Survival Camp",
+        "YMCA Montreal"
+      ],
+      "date_ref": "1970s",
+      "conflicts_with": [],
+      "added_version": "4.75",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1367",
+      "claim": "Camp Perrot (P0145/12G) was a boys' camp operated by Montreal YMCA. A document 'Comparison of Two Boys Camps operated by Montreal YMCA' compares Camp Perrot and Kamp Kanawana from c.1945-1946.",
+      "sources": [
+        "src_concordia_12A"
+      ],
+      "confidence": "stated",
+      "category": "camps",
+      "entities": [
+        "Camp Perrot",
+        "Kamp Kanawana",
+        "YMCA Montreal"
+      ],
+      "date_ref": "1945-1946",
+      "conflicts_with": [],
+      "added_version": "4.75",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1368",
+      "claim": "Gabor Ivan Zinner wrote an MA thesis at McGill University (Political Science, 1973) titled 'Noosphere - an experiment in simulation.' This almost certainly documents the Noosphere international development simulation held at Camp Kanawana in summer 1971. Available at https://escholarship.mcgill.ca/concern/theses/6w924d11w",
+      "sources": [
+        "src_mcgill_escholarship_zinner"
+      ],
+      "confidence": "inferred",
+      "category": "programs",
+      "entities": [
+        "Gabor Ivan Zinner",
+        "Noosphere",
+        "McGill University",
+        "Camp Kanawana"
+      ],
+      "date_ref": "1973",
+      "conflicts_with": [],
+      "added_version": "4.75",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1369",
+      "claim": "The Noosphere simulation (1971) was modeled on a 'Third World Village' organized in Winnipeg the previous year (1970). It was the first time such an experience was attempted in Quebec. An 'education committee in Montreal with members from various development organizations' established the project.",
+      "sources": [
+        "src_banq_le_soleil_1971_07_07"
+      ],
+      "confidence": "stated",
+      "category": "programs",
+      "entities": [
+        "Noosphere",
+        "Third World Village",
+        "Perspective-Jeunesse"
+      ],
+      "date_ref": "1970-1971",
+      "conflicts_with": [],
+      "added_version": "4.75",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1370",
+      "claim": "A second newspaper article about the Noosphere simulation appeared in Montreal-matin on August 24, 1971 (BAnQ: https://numerique.banq.qc.ca/patrimoine/details/52327/4512657).",
+      "sources": [
+        "src_banq_montreal_matin_1971_08_24"
+      ],
+      "confidence": "stated",
+      "category": "sources",
+      "entities": [
+        "Noosphere",
+        "Montreal-matin"
+      ],
+      "date_ref": "1971-08-24",
+      "conflicts_with": [],
+      "added_version": "4.75",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1371",
+      "claim": "Gabor Ivan Zinner, author of the 1973 McGill thesis on Noosphere, is now a lawyer in Calgary, Alberta (Zinner Law Office, 100-1100 8 Ave SW). He practices civil litigation and commercial law.",
+      "sources": [
+        "src_law_society_alberta_zinner"
+      ],
+      "confidence": "stated",
+      "category": "biography",
+      "entities": [
+        "Gabor Ivan Zinner"
+      ],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "4.75",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1372",
+      "claim": "Camp Kanawana held an 'Opening Campfire 2020' as a Facebook Live video, confirming the campfire/council ring tradition was active as recently as 2020 during COVID restrictions. URL: https://www.facebook.com/YKanawana/videos/opening-campfire-2020/1432885173577431/",
+      "sources": [
+        "src_facebook_kanawana_2020"
+      ],
+      "confidence": "stated",
+      "category": "traditions",
+      "entities": [
+        "Camp Kanawana",
+        "Council Ring"
+      ],
+      "date_ref": "2020",
+      "conflicts_with": [],
+      "added_version": "4.75",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1373",
+      "claim": "Camp Kanawana has 4,416 photos on Flickr (flickr.com/photos/kanawana/) and an active Instagram account (@ymcakanawana, 1,835 followers, 573 posts as of June 2026).",
+      "sources": [
+        "src_flickr_kanawana",
+        "src_instagram_kanawana"
+      ],
+      "confidence": "stated",
+      "category": "media",
+      "entities": [
+        "Camp Kanawana"
+      ],
+      "date_ref": "2026",
+      "conflicts_with": [],
+      "added_version": "4.75",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1374",
+      "claim": "The 1974-1975 Camp Kanawana director (who worked alongside Stuart McLean as assistant director) is confirmed NOT to be A. Ross Seaman (left for Dawson College 1974), NOT Dave Twynam (does not appear until at least 1976), and NOT Ross Bannerman (his 1969 report suggests an earlier role). The anonymous commenter who identified himself as this director on Westmount Magazine in 2017 was young enough to sublet McLean's Dorchester flat.",
+      "sources": [
+        "src_westmount_magazine_mclean_comments"
+      ],
+      "confidence": "inferred",
+      "category": "directors",
+      "entities": [
+        "Camp Kanawana",
+        "Stuart McLean"
+      ],
+      "date_ref": "1974-1975",
+      "conflicts_with": [],
+      "added_version": "4.75",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1375",
+      "claim": "James Caddell was Senior Program Manager at Human Resources Development Canada before his world trip. After moving to Ottawa (~2000), he switched to the 2nd Intelligence Platoon of the Royal Canadian Hussars and received the Queen's Jubilee Medal from his new regiment.",
+      "sources": [
+        "src_cmat_caddell_memorial"
+      ],
+      "confidence": "stated",
+      "category": "biography",
+      "entities": [
+        "James Lawrence Caddell",
+        "Royal Canadian Hussars"
+      ],
+      "date_ref": "2000-2004",
+      "conflicts_with": [],
+      "added_version": "4.75",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1376",
+      "claim": "James Caddell's memorial service was held in Ottawa on November 5, 2005. Obituaries were published in the Globe and Mail and Ottawa Citizen. A BillionGraves entry exists under the name 'Lawrence James Caddell.' A Wikipedia article on James Caddell exists.",
+      "sources": [
+        "src_cmat_caddell_memorial",
+        "src_billiongraves_caddell"
+      ],
+      "confidence": "stated",
+      "category": "biography",
+      "entities": [
+        "James Lawrence Caddell"
+      ],
+      "date_ref": "2005-11-05",
+      "conflicts_with": [],
+      "added_version": "4.75",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1377",
+      "claim": "Andrew Caddell's siblings/half-siblings of James include Emily Caddell and Jack Caddell (from Andrew's marriage to Elaine Feldman). Andrew's Twitter/X handle is @pipson52.",
+      "sources": [
+        "src_cgai_caddell"
+      ],
+      "confidence": "stated",
+      "category": "biography",
+      "entities": [
+        "Andrew Caddell",
+        "Emily Caddell",
+        "Jack Caddell"
+      ],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "4.75",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1378",
+      "claim": "Ross Bannerman established the St. James YMCA branch in Winnipeg (date unspecified, between 1951 and 1956).",
+      "sources": [
+        "src_camp_stephens_alumni_blog"
+      ],
+      "confidence": "stated",
+      "category": "biography",
+      "entities": [
+        "Ross Bannerman",
+        "YMCA Winnipeg"
+      ],
+      "date_ref": "1951-1956",
+      "conflicts_with": [],
+      "added_version": "4.75",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1379",
+      "claim": "Derek Walsh search (32+ queries, 5 surfaces) returned zero new biographical information. He remains biographically opaque. The CCA fonds at Trent University and Concordia YMCA fonds are the only remaining leads requiring physical archive access.",
+      "sources": [],
+      "confidence": "stated",
+      "category": "research_notes",
+      "entities": [
+        "Derek Walsh"
+      ],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "4.75",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1380",
+      "claim": "The Pip Award recipients for 2019-2023 cannot be identified through publicly accessible web sources. 42+ queries across 8+ surfaces yielded zero results. The 2019 recipient's title begins with 'Dr.' per Andrew Caddell's LinkedIn. No YMCA Quebec press releases were published for any award 2019-2023.",
+      "sources": [],
+      "confidence": "stated",
+      "category": "research_notes",
+      "entities": [
+        "Pip Alumni Award"
+      ],
+      "date_ref": "2019-2023",
+      "conflicts_with": [],
+      "added_version": "4.75",
       "added_by": "ralph_loop"
     }
   ]

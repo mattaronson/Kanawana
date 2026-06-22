@@ -1841,3 +1841,73 @@ Following the BAnQ newspaper research breakthrough in Session 11 (Campaign 11, p
 - No new article stubs warranted
 - Next action for camp-perrot: VERIFY (blocked on archival access)
 - The 1966-67 YMCA annual report on Internet Archive (f_1335) may contain Camp Perrot information — recommend checking when processing that source
+
+---
+
+## Session 13 — RALPH ALP H Cycle: People, Dimock/Camps, Events (2026-06-22)
+
+### Campaign Overview
+Completed the Analyze → Loop-decide → Process → Hypothesize phases for three R1 research campaigns conducted earlier in this session.
+
+### Research Campaigns Processed
+
+#### 1. People Research (research-scratch-people.md)
+| Target | Queries | Surfaces | New Facts | Loop Decision |
+|--------|---------|----------|-----------|---------------|
+| Derek Walsh | 32+ | Google, WebFetch, Find A Grave, Legacy.com, IA | 0 | CONCLUDE (exhausted) |
+| Peter Goddard | 20+ | Google, Legacy.com, C.R. Gamble, Le Necrologue, Facebook | 5 (f_1340-f_1344) | CONCLUDE (confirmed ID) |
+| Pip/James Caddell | 30+ | Google, CMAT, Wikipedia, Amazon, The Peerage, BillionGraves, RCH, McGill | 19 (f_1345-f_1358, f_1375-f_1377) | CONCLUDE (enriched) |
+| Pip Award 2019-2023 | 42+ | Google, YMCA Quebec, Facebook, Twitter/X, Instagram, Wayback, Muck Rack, LinkedIn | 1 (f_1380) | CONCLUDE (exhausted) |
+
+**Key findings**: Peter Gilling Goddard (1953-2016) CONFIRMED as Kanawana director via obituary condolence. Pip Caddell full genealogy resolved (The Peerage). James Caddell biography dramatically expanded (CMAT, RCH, Wikipedia). Andrew Caddell career timeline documented. Tara Newell post-2005 career (MSF, CARE Canada).
+
+#### 2. Dimock/Camps Research (research-scratch-dimock-camps.md)
+| Target | Queries | Surfaces | New Facts | Loop Decision |
+|--------|---------|----------|-----------|---------------|
+| Dimock father-son | 29 | Google, Ancestry, FamilySearch, SNAC, WikiTree, ACA, IA, infed.org | 0 | ADVANCE (blocked on paywalls) |
+| Ross Bannerman | 14 | Google, Camp Stephens blog, Concordia | 2 (f_1362, f_1378) | CONCLUDE (partially exhausted) |
+| Nelson McEwen (MAJOR) | - | Camp Stephens Alumni blog | 4 (f_1359-f_1362) | ADVANCE (needs deep research) |
+| Camp Becsies | 12+ | Google, becsscie.com, BDLL, Concordia | 2 (f_1363-f_1364) | ADVANCE (stub warranted) |
+| Camp Dorval | 8 | Google | 1 (f_1365) | CONCLUDE (exhausted) |
+| Camp Thunderbird/Wilderness | 12 | Google | 1 (f_1366) | CONCLUDE (exhausted) |
+
+**Key finding**: Nelson McEwen's Kanawana tenure extended from 1930-1931 (McMorris) to c.1927-1947 (Camp Stephens Alumni blog). Co-founded CCA with Taylor Statten. Major figure connecting Camp Stephens, Kanawana, CCA, and Ross Bannerman.
+
+#### 3. Events Research (research-scratch-events.md)
+| Target | Queries | Surfaces | New Facts | Loop Decision |
+|--------|---------|----------|-----------|---------------|
+| Noosphere 1971 | 25 | Google, McGill eScholarship, Google Books, BAnQ, JSTOR, Erudit | 5 (f_1368-f_1372) | ADVANCE (thesis not accessed) |
+| Shawbridge Meet | 14 | Google, Concordia | 0 | CONCLUDE (exhausted) |
+| Council Ring totem poles | 12 | Google, Flickr, Facebook, Instagram | 2 (f_1372-f_1373) | ADVANCE (visual sources blocked) |
+| 1974-75 Director | 22 | Google, Concordia, McMaster | 1 (f_1374) | ADVANCE (archival leads) |
+
+**Key finding**: Gabor Ivan Zinner's McGill MA thesis "Noosphere - an experiment in simulation" (1973) identified as the primary document for the 1971 event. Zinner is a practicing lawyer in Calgary — potential oral history source.
+
+### KB and Article Updates
+- **KB**: v4.74 → v4.75. 41 new facts (f_1340-f_1380). f_1225 upgraded to CONFIRMED. 19 new sources registered. Deduplication pass cleaned pre-existing duplicates.
+- **directors-index.md**: McEwen c.1927-1947, Goddard confirmed, gaps revised. 4221→4499 words.
+- **pip-alumni-award.md**: All three Caddell biographies expanded, OQ3 resolved. 1537→2301 words.
+- **programs-activities.md**: Noosphere expanded (Zinner thesis, Third World Village). 2542→2666 words.
+- **canadian-camping-movement.md**: McEwen CCA co-founding. 1834→1891 words.
+- **council-ring.md**: 2020 campfire confirmed, reconciliation context. +1 fact, +1 source.
+
+### New Priorities (p_166-p_176)
+11 new priorities added. Key actionable items:
+- p_169: Camp Becsies article stub (pending, autonomous)
+- p_170: Nelson McEwen deep research (pending, autonomous)
+- p_171: McEwen/McMorris date conflict (pending, autonomous)
+- p_166: Fetch Zinner thesis (blocked, operator)
+- p_168: Pip Award to oral history instrument (blocked, operator)
+- p_176: Concordia Archives director correspondence (blocked, physical)
+
+### Research Questions Emerged
+1. What were Nelson McEwen's exact years as Kanawana director? (c.1927-1947 is a 20-year range)
+2. Did McEwen direct Kanawana personally, or was he administrative overseer?
+3. Who directed Kanawana between McEwen's departure (1947) and Seaman (1959)?
+4. Is Hedley Gardner Dimock still alive? (Born 1928, no obituary found)
+5. What was the Noosphere curriculum? (Zinner thesis would answer)
+6. Who was the "Third World Village" precursor organized in Winnipeg 1970?
+7. Is Lac des Becs-scie one of Kanawana's "three private lakes"?
+8. When did the Shawbridge Meet end? (Last known: 1935)
+9. Are the Council Ring totem poles still standing?
+10. Who directed the camp in 1974-75? (McMaster McLean fonds, Concordia 12B01)

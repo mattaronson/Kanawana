@@ -1,7 +1,7 @@
 # The Pip Alumni Award
 
-*Status: E1-reviewed | Sources: src_ymca_pip_skinner, src_ymca_pip_mosher, src_ymca_pip_adam, src_ymca_pip_sharpe, src_ymca_pip_orbinski, src_oral_aronson, src_cmat_caddell_obituary, src_mcgill_news_caddell, src_wikipedia_richard_patten, src_wikipedia_john_cleghorn, src_atwater_caddell_bio*
-*Last Updated: 2026-06-13 (Pip Award numbering analysis: Orbinski = 15th recipient, 3 unknown recipients in 2019-2023)*
+*Status: E1-reviewed | Sources: src_ymca_pip_skinner, src_ymca_pip_mosher, src_ymca_pip_adam, src_ymca_pip_sharpe, src_ymca_pip_orbinski, src_oral_aronson, src_cmat_caddell_obituary, src_mcgill_news_caddell, src_wikipedia_richard_patten, src_wikipedia_john_cleghorn, src_atwater_caddell_bio, src_thepeerage_caddell, src_the_goal_caddell, src_cmat_caddell_memorial, src_rch_history, src_care_canada_newell, src_cgai_caddell, src_billiongraves_caddell*
+*Last Updated: 2026-06-22 (Pip Award numbering analysis: Orbinski = 15th recipient, 3 unknown recipients in 2019-2023)*
 
 ## Overview
 
@@ -13,17 +13,19 @@ The award is organized by Andrew Caddell, son of Pip and father of James. The se
 
 ### Philip "Pip" Caddell (1913–2004)
 
-Philip "Pip" Caddell was born July 7, 1913 in Brantford, Ontario, and attended Camp Kanawana as a camper in 1928.^1 ^6 He served as a Canadian Army officer during the Second World War and later became a Montreal executive and community volunteer.^1 ^6 He died on July 24, 2004 in Ottawa.^6
+Philip Mortimer Caddell was born July 7, 1913 in Brantford, Ontario, the son of Captain William Persse Caddell and Florence May Ogden.^6 ^13 Born in Canada but raised in Scotland, he returned as a teenager and attended Camp Kanawana as a camper in 1928.^1 ^6 ^13 He served as a Canadian Army officer during the Second World War, married Elga Ramsey in 1945, and became a Montreal executive — his employer was a local brewer.^1 ^6 ^13 He was a devoted hockey fan who attended the 1935 Montreal Maroons Stanley Cup win and the 1936 Maroons-Red Wings six-overtime playoff game. His spoken story "The Black Horse," about helping his employer honour a promise to reward Maroons captain Hooley Smith with a Percheron horse, was transcribed by Andrew and published posthumously in *The Goal* (2015).^14 He died on July 24, 2004 in Ottawa at age 91.^6 ^13
 
 ### James Lawrence Caddell (1973–2005)
 
-James Caddell was born March 16, 1973 in Montreal and attended Camp Kanawana as a camper and counsellor from 1983 to 1991.^1 ^7 He graduated from Dawson College and McGill University (BA 1997), and earned a master's degree in War Studies from the Royal Military College in Kingston.^7
+James Lawrence Caddell was born March 16, 1973 in Montreal. His mother was Norma Lewis, a journalist and communications lecturer at Dawson College who had covered John Lennon's "bed-in" for peace for the Montreal Gazette in 1969; Andrew Caddell was one of her former students.^7 ^15 James attended Camp Kanawana as a camper and counsellor from 1983 to 1991.^1 ^7
 
-Caddell served in the reserve unit of the Royal Canadian Hussars and completed a tour in Bosnia as a United Nations peacekeeper, receiving Peacekeeping Service and UNPROFOR medals.^7 He was a 1997 Normandy Foundation Scholar and an intern at the Pearson Peacekeeping Centre in Nova Scotia.^7
+After graduating from Cortland High School near Syracuse, New York in 1991, Caddell moved to Montreal, attended Dawson College, and enrolled at McGill University, initially in North American studies before switching to political science and history (BA ~1997).^7 ^15 In summer 1997 he was a Normandy Foundation Scholar, touring European battlefields over six weeks.^7 He then earned an MA in War Studies from the Royal Military College in Kingston as a civilian student, where he met his future wife Tara Newell (MA in Public Administration at Queen's) — they recognized each other from McGill, where James had worked part-time for the Student Society and Tara had signed his paycheques as its president.^7 ^15
 
-He married Tara Newell, and both worked for the federal government in Ottawa before leaving their posts in September 2004 for a round-the-world backpacking trip.^7 ^8 In February 2005, Caddell volunteered with the Canadian Medical Assistance Teams (CMAT) in tsunami-devastated Kanniyakumari district, Tamil Nadu, India, spending two months working with children orphaned by the disaster.^7
+Caddell joined the Royal Canadian Hussars reserve while at university. In 1995, he trained at CFB Valcartier and deployed to Bosnia on Rotation 5 of Operation Cavalier (May-October 1995), serving as a Cougar driver in 42 Troop of "D" Squadron of the 12e Regiment blinde du Canada, part of CANBAT 2 / UNPROFOR. He received the Peacekeeping Service Medal and UNPROFOR Medal; after moving to Ottawa he switched to the 2nd Intelligence Platoon and received the Queen's Jubilee Medal.^7 ^15 ^16
 
-Caddell died on October 16, 2005 in Tupiza, Bolivia, of pulmonary edema caused by altitude sickness.^7 The James Caddell Memorial Scholarship for Orphans was subsequently established to fund impoverished children in South India.^7
+Both Caddell and Newell worked for the federal government in Ottawa — Caddell as Senior Program Manager at Human Resources Development Canada — before leaving their posts in June 2004 for a round-the-world trip.^7 ^8 ^15 Their itinerary took them across Australia, to Hanoi and Angkor Wat, through humanitarian work in East Timor and Indonesia, and to two months as CMAT volunteers at an orphanage in Kannyakumari district, Tamil Nadu, working with children orphaned by the 2004 tsunami — an experience that, by all accounts, changed them both.^7 ^15 They continued through Nepal, Gallipoli, Jerusalem, Provence, Buenos Aires, and Santiago before arriving by bus in Bolivia.^15
+
+Caddell died on October 16, 2005 in Tupiza, Bolivia, at age 32, of pulmonary edema caused by altitude sickness. He had suffered altitude sickness nine months earlier on Mount Everest above 5,000 metres; Tupiza sits below 3,000 metres, but no one in the hotel or local hospital recognized the symptoms or had oxygen.^7 ^15 His memorial service was held in Ottawa on November 5, 2005, with obituaries published in the Globe and Mail and Ottawa Citizen.^15 Tara Newell subsequently founded the James Caddell Memorial Foundation to provide educational opportunities for marginalized girls in India, and went on to spend 16 years with MSF (including as Emergency Coordinator in Syria and as MSF's Representative to the United Nations); as of 2025, she is Chief Programs Officer at CARE Canada.^15 ^17
 
 ## Recipients
 
@@ -51,9 +53,9 @@ The award is presented at camp during the summer season and again at the annual 
 
 ## Andrew Caddell
 
-Andrew Caddell is a retired Canadian foreign service officer, writer, and public affairs consultant. He served with Global Affairs Canada for 16 years in development, policy, public diplomacy, and trade promotion, and held prior positions with the World Health Organization in Geneva, UNICEF in Macedonia and Bangladesh, and in federal and provincial government.^11 He holds a BA and MA in Journalism from Carleton University.^11
+Andrew Caddell is a retired Canadian foreign service officer, writer, and public affairs consultant. His career began in broadcast journalism (Ottawa, Montreal, Quebec City, Calgary, St. John's, 1975-1981), followed by political advisory roles including Director of Communications to the Premier of Newfoundland and Labrador, and a term as Town Councillor in Montreal West (1989-1993).^11 ^18 He served with the World Health Organization in Geneva, UNICEF in Macedonia and Bangladesh, and with Global Affairs Canada for 15 years, retiring in July 2017.^11 ^18 He married Elaine Feldman; in addition to James, they have two children, Emily and Jack.^18
 
-Caddell is a Fellow of the Canadian Global Affairs Institute and the Environics Institute, a weekly columnist for the Hill Times, and co-author of *The Goal* (a hockey book with Dave Stubbs).^11 He describes the purpose of the award as recognizing "people who have taken the values they learned at Kanawana and applied them to the larger world."^3
+Caddell holds a BA and MA in Journalism from Carleton University (MA 2002).^11 ^18 He is a Fellow of the Canadian Global Affairs Institute and the Environics Institute, a weekly columnist for the Hill Times, a frequent guest on CJAD Radio (Montreal), and co-author of *The Goal: Stories about Our National Passion* (with Dave Stubbs, Deux Voiliers Publishing, 2015; revised 2017), which includes Pip Caddell's posthumous spoken story "The Black Horse."^11 ^14 ^18 He currently serves as Town Councillor in Kamouraska, Quebec, and as President of the Task Force on Linguistic Policy.^18 He describes the purpose of the award as recognizing "people who have taken the values they learned at Kanawana and applied them to the larger world."^3
 
 ## The Sam Lazarus Legacy
 
@@ -63,7 +65,7 @@ Samuel Karl Lazarus was born March 3, 1978 in Montreal. He worked with children 
 
 1. [Important] Who were the 3 recipients in 2019–2023? The 2019 recipient's title begins with "Dr." (Andrew Caddell LinkedIn). 3 awards given (Orbinski = 15th), 2 years skipped (likely 2020-2021 COVID). No YMCA newsroom press releases published for any award 2019–2023.
 2. ~~[Important] Were awards given in 2020, 2021, 2022, and/or 2023?~~ [Resolved] Orbinski = 15th recipient (2024). With 12 documented through 2018, exactly 3 awards were given in 2019–2023, and 2 years had no award (likely COVID years 2020 and 2021).
-3. [Nice-to-have] What are the exact dates and causes of Philip "Pip" Caddell's birth and death? No obituary has been located online.
+3. ~~[Nice-to-have] What are the exact dates and causes of Philip "Pip" Caddell's birth and death?~~ [Resolved] Born July 7, 1913 in Brantford, Ontario; died July 24, 2004 in Ottawa (age 91). Full genealogy via The Peerage database. No formal obituary located, but biographical details confirmed through multiple sources.
 4. [Nice-to-have] Is there a physical award object (plaque, trophy)?
 5. [Nice-to-have] What was James Caddell's specific role at camp — camper from 1983, counsellor from what year, through 1991?
 6. [Nice-to-have] Was Andrew Caddell himself a camper or staff member at Kanawana?
@@ -90,7 +92,14 @@ Samuel Karl Lazarus was born March 3, 1978 in Montreal. He worked with children 
 10. Wikipedia, "John Cleghorn." URL: https://en.wikipedia.org/wiki/John_Cleghorn
 11. Atwater Library, "Andrew Caddell biography" (August 2024). URL: https://atwaterlibrary.ca/files/Caddell-Andrew_Biography_Aug-2024.pdf
 12. Montreal Gazette, obituary for Samuel Karl Lazarus (January 24, 2004).
+13. The Peerage genealogical database: Philip Mortimer Caddell and William Persse Caddell entries. URL: http://www.thepeerage.com/p15180.htm
+14. Caddell, Andrew, and Dave Stubbs. *The Goal: Stories about Our National Passion.* Deux Voiliers Publishing, 2015 (revised 2017). Contains Philip "Pip" Caddell's story "The Black Horse."
+15. CMAT memorial pages, "James Caddell, Soldier, Adventurer (1973-2005)." URLs: https://cmat.ca/james-caddell-soldier-adventurer-1973-2005/ and https://cmat.ca/james-caddell-1973-2005-2/. Royal Canadian Hussars History (rch.ca/wp-content/uploads/B05a_Marcotte_Caddell_Mihaljevic_20210105E.pdf).
+16. Wikipedia, "James Caddell." URL: https://en.wikipedia.org/wiki/James_Caddell. BillionGraves, "Lawrence James Caddell." URL: https://billiongraves.com/grave/Lawrence-James-Caddell/13894960.
+17. CARE Canada, "CARE Canada Welcomes Tara Newell" (August 2025). URL: https://care.ca/2025/08/29/care-canada-welcomes-tara-newell/
+18. Canadian Global Affairs Institute, "Andrew Caddell" Fellow page. URL: https://www.cgai.ca/andrew_caddell. Heritage Lower St. Lawrence community profile.
 
 ## Research Notes
 
 <!-- RALPH R1 completed 2026-02-19. 25+ web searches. Key findings: All recipient years 2007-2018 resolved from YMCA Quebec newsroom pages and Andrew Caddell's LinkedIn profile. James Caddell biography dramatically expanded from CMAT/Globe and Mail obituary. Andrew Caddell biography established from Atwater Library bio, CGAI, Hill Times. Selection criteria precise wording found ("Non Nobis Solum" connection). Ceremony format: summer + fall alumni weekend. 2019 recipient truncated at "Dr." on LinkedIn. 2020-2023 status unknown. No obituary for Pip Caddell found online. Jeniene Phillips/Philips Birks: spelling inconsistent across YMCA pages. Research SATURATED for online sources. -->
+<!-- RALPH R1 Biographical Research 2026-06-22: Pip Caddell full genealogy resolved via The Peerage: born Brantford ON, raised Scotland, returned as teenager, parents Capt. William Persse Caddell and Florence May Ogden, married Elga Ramsey 1945, employer was local brewer. James Caddell biography dramatically expanded: mother Norma Lewis (Gazette journalist, Dawson lecturer), Cortland HS → Dawson → McGill (poli sci/history), Normandy Scholar, RMC War Studies (civilian), met Tara at RMC, RCH reserve, Bosnia CANBAT 2 deployment details (42 Troop D Squadron 12e RBC, Cougar driver), Queen's Jubilee Medal, HRDC Senior PM, death circumstances (Tupiza, 3000m, prior Everest incident). Tara Newell: James Caddell Memorial Foundation, 16yr MSF, now VP CARE Canada. Andrew expanded: full career timeline, Elaine Feldman marriage, Emily/Jack children. "The Goal" identified as secondary source. Pip Award 2019-2023: 42+ queries exhausted, needs oral history. 19 new KB facts (f_1345-f_1358, f_1375-f_1377, f_1380). 7 new sources. -->

@@ -18,6 +18,7 @@ McMorris's analysis situates the Council Ring and its associated "Indian" tradit
 - *A History of Kamp Kanawana* (1935). Internet Archive. Lists "Council Ring" as facility and "Council of Tribes" as tradition, confirming both existed by 1935.
 - Oral history, Matt Aronson (2026).
 - *The Gas Bag*, 1923 Re-union Number. Internet Archive.
+8. Facebook, YKanawana, "Opening Campfire 2020" (Facebook Live video). URL: https://www.facebook.com/YKanawana/videos/opening-campfire-2020/1432885173577431/
 
 ### R3 Verification Notes
 
@@ -36,6 +37,8 @@ A second pageant, the "Zuni Council" script (1931), was more elaborate: a multi-
 The Council Ring is located at the far west end of the camp, a ten- to fifteen-minute walk past the Senior Boys section.^6 It remains the primary ceremonial site. In the 2000s era, the ring hosts the Opening Campfire for each session, the opening campfire of the L&V Games, and the Closing Fire of the summer.^6
 
 A longstanding tradition at the Closing Fire involves burning a "time capsule" — a record of the summer's important people, events, and moments — and then digging it up to read aloud at the following year's Opening Fire.^6 This practice is believed to date to the 1920s or 1930s, and documentary evidence supports an early origin: the 1923 *Gas Bag* records that the season closing featured "a Council Ring ceremony where a record of activities was buried," followed by a Leaders Grand Feed.^7 The hundred-year continuity of this ritual — from the 1923 record-burying through to the present-day time capsule — makes it one of the camp's oldest documented traditions.
+
+The council ring's campfire tradition was confirmed active as recently as 2020, when the camp streamed an "Opening Campfire" as a Facebook Live video during the COVID-19 pandemic — an indication of the tradition's centrality to camp culture, maintained even under pandemic restrictions.^8 Whether the original totem poles survive has not been determined from online sources; the broader North American camping movement has been reconsidering non-authentic totem poles as part of reconciliation efforts, and the Tamaracouta Scout Reserve in nearby Mille-Isles had its 1947 Mungo Martin totem pole stolen after the reserve closed in 2018.
 
 ## Related Articles
 
