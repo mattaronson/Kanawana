@@ -2,7 +2,7 @@
   "version": "v4.84",
   "kb_version": 4.84,
   "migrated_from": "3.3",
-  "fact_count": 1450,
+  "fact_count": 1459,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -25032,6 +25032,161 @@
         "Globe and Mail"
       ],
       "date_ref": "2003",
+      "conflicts_with": [],
+      "added_version": "v4.84",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1489",
+      "claim": "Kate Taylor became Director of Camp YMCA Kanawana after Sean Day's departure in 2023. Her social media handle is @thiskatetaylor.",
+      "sources": [
+        "src_mtl_families_gender",
+        "src_gocamp_kate_taylor"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "Kate Taylor",
+        "Camp Kanawana"
+      ],
+      "date_ref": "2023",
+      "conflicts_with": [],
+      "added_version": "v4.84",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1490",
+      "claim": "Under Kate Taylor's directorship, Kanawana introduced a gender-expansive sleeping option (tent) for campers who are transgender, non-binary, or who do not wish to be sorted by gender. Any camper can choose it; mainly teens have requested it. Taylor stated Kanawana was not the first camp in Quebec to add such an option.",
+      "sources": [
+        "src_mtl_families_gender"
+      ],
+      "confidence": "stated",
+      "category": "programs",
+      "entities": [
+        "Kate Taylor",
+        "Camp Kanawana"
+      ],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "v4.84",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1491",
+      "claim": "At Camp Kanawana, dividing by gender is becoming increasingly irrelevant: male counsellors may work with girls (and vice versa), and both boys and girls participate in all camp activities. The sleeping arrangement is the only remaining gender-divided element.",
+      "sources": [
+        "src_mtl_families_gender"
+      ],
+      "confidence": "stated",
+      "category": "programs",
+      "entities": [
+        "Camp Kanawana"
+      ],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "v4.84",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1492",
+      "claim": "Kevin Slezak served as Assistant Director of Camp YMCA Kanawana, then as Sleep-Away Camp Director and Summer Camp Director at YMCA Quebec. As of 2025, he holds the title Special Projects Consultant at YMCA Quebec.",
+      "sources": [
+        "src_linkedin_slezak"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "Kevin Slezak",
+        "Camp Kanawana",
+        "YMCA Qu\u00e9bec"
+      ],
+      "date_ref": "2025",
+      "conflicts_with": [],
+      "added_version": "v4.84",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1493",
+      "claim": "Kate Taylor appeared on the Go Camp Pro podcast (Beyond Camp #18) discussing social media advocacy for camp programs.",
+      "sources": [
+        "src_gocamp_kate_taylor"
+      ],
+      "confidence": "stated",
+      "category": "media",
+      "entities": [
+        "Kate Taylor",
+        "Go Camp Pro"
+      ],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "v4.84",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1494",
+      "claim": "EMSB (English Montreal School Board) schools including Vincent Massey Collegiate (Rosemount), John F. Kennedy High School (St. Michel), and \u00c9cole Secondaire Louis Joseph Papineau's classe d'accueil have sent students to Camp Kanawana for overnight camping experiences focused on canoeing, hiking, conservation, nature, and team-building.",
+      "sources": [
+        "src_emsb_kanawana_experience"
+      ],
+      "confidence": "stated",
+      "category": "programs",
+      "entities": [
+        "Camp Kanawana",
+        "EMSB",
+        "Vincent Massey Collegiate",
+        "John F. Kennedy High School"
+      ],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "v4.84",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1495",
+      "claim": "The 'Spirit of Kanawana' blog (kanawana.blogspot.com) is an alumni-run blog dedicated to sharing Kanawana history and traditions, inviting contributions from fellow Kanawanians.",
+      "sources": [
+        "src_spirit_of_kanawana_blog"
+      ],
+      "confidence": "stated",
+      "category": "media",
+      "entities": [
+        "Camp Kanawana"
+      ],
+      "date_ref": "2008",
+      "conflicts_with": [],
+      "added_version": "v4.84",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1496",
+      "claim": "The Spirit of Kanawana blog reports that lost verses of a camp song were rediscovered in the Kanawana Archives at Concordia University in 2006, and that the refrain 'Hail, hail, the gang's all here' derives from the 1915 American song 'Alabama Jubilee.'",
+      "sources": [
+        "src_spirit_of_kanawana_blog"
+      ],
+      "confidence": "stated",
+      "category": "traditions",
+      "entities": [
+        "Camp Kanawana",
+        "Alabama Jubilee",
+        "Concordia University"
+      ],
+      "date_ref": "2006",
+      "conflicts_with": [],
+      "added_version": "v4.84",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1497",
+      "claim": "Camp Kanawana is available for rental year-round (6-250 persons), with limited capacity during summer and winter (6-26 persons).",
+      "sources": [
+        "src_mysummercamps_kanawana"
+      ],
+      "confidence": "stated",
+      "category": "operations",
+      "entities": [
+        "Camp Kanawana"
+      ],
+      "date_ref": null,
       "conflicts_with": [],
       "added_version": "v4.84",
       "added_by": "ralph_loop"
