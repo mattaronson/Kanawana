@@ -1,7 +1,13 @@
 # Camp Perrot
 
-*Status: draft | Sources: src_concordia_fonds, src_concordia_atom_fonds, src_mcmorris_thesis*
-*Last Updated: 2026-06-21 (RALPH R1 complete — stub→draft; web exhausted, archival-only resolution)*
+<!-- status: E1-reviewed -->
+<!-- confidence: low -->
+<!-- last_updated: 2026-06-22 -->
+<!-- last_editor: session4 -->
+<!-- ralph_loops: camp-perrot-R1, camp-perrot-V1, camp-perrot-E1 -->
+
+*Status: E1-reviewed | Sources: 4*
+*Last Updated: 2026-06-22*
 
 ## Overview
 
@@ -33,6 +39,9 @@ R.H. Hanagan, who served as Montreal YMCA camp director in 1942 and 1946, filed 
 - [[people/directors-index|Directors and Staff of Camp Kanawana]]
 - [[people/rh-hanagan|R.H. Hanagan]]
 - [[programs/canoe-trips|Canoe Tripping at Kanawana]]
+- [[places/camp-becsies|Camp Becsies]]
+- [[context/quebec-camp-landscape|The Quebec Camp Landscape]]
+- [[context/ymca-quebec-history|The YMCA of Montreal / YMCAs of Quebec]]
 - [[meta/sources-index|Sources and Archives]]
 
 ## Sources

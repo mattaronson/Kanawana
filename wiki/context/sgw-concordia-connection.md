@@ -1,6 +1,12 @@
 # Sir George Williams / Concordia University and Camp Kanawana
 
-*Status: stub | Sources: 7*
+<!-- status: E1-reviewed -->
+<!-- confidence: medium -->
+<!-- last_updated: 2026-06-22 -->
+<!-- last_editor: session4 -->
+<!-- ralph_loops: sgw-concordia-R1, sgw-concordia-V1, sgw-concordia-E1 -->
+
+*Status: E1-reviewed | Sources: 8*
 *Last Updated: 2026-06-22*
 
 ## Overview
@@ -67,10 +73,10 @@ In 2019, Concordia's Faculty of Fine Arts signed a partnership agreement with th
 ## Sources
 
 1. Concordia University, "History." URL: https://www.concordia.ca/about/history.html
-2. McMorris, Grace (2023). "An Experience That Lasts a Lifetime." MA thesis, Concordia University. URL: https://spectrum.library.concordia.ca/id/eprint/992763/
+2. McMorris, Grace (2023). "An Experience That Lasts a Lifetime: Building Modernity, Man, and Nation at the YMCA of Montreal's Kamp Kanawana, 1894--1967." MA thesis, Concordia University. URL: https://spectrum.library.concordia.ca/id/eprint/992763/
 3. Concordia Access to Memory: Centre for Human Relations and Community Studies fonds; Department of Human Sciences fonds.
 4. Concordia University Archives: YMCA of Montreal fonds P0145, sub-series 12A (Committees).
 5. Concordia News, "Concordia adds an arts-focused camp to its options for summer fun" (2019). URL: https://www.concordia.ca/cunews/main/stories/2019/03/20/concordia-adds-an-arts-focused-camp-to-its-options-for-summer-fun.html
 6. Wikipedia, "Harold H. Potter." URL: https://en.wikipedia.org/wiki/Harold_H._Potter
 7. Wikipedia, "Raye Kass." URL: https://en.wikipedia.org/wiki/Raye_Kass
-8. Concordia University, Spectrum Research Repository: McMorris thesis (eprint 992763).
+8. Warren, Jean-Philippe et al. "Reflections: Sociology and Anthropology at Concordia." Concordia University.

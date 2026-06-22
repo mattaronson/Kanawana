@@ -1,6 +1,12 @@
 # Camp Becsies
 
-*Status: stub | Sources: 7*
+<!-- status: E1-reviewed -->
+<!-- confidence: medium -->
+<!-- last_updated: 2026-06-22 -->
+<!-- last_editor: session4 -->
+<!-- ralph_loops: camp-becsies-R1, camp-becsies-R2, camp-becsies-V1, camp-becsies-E1 -->
+
+*Status: E1-reviewed | Sources: 7*
 *Last Updated: 2026-06-22*
 
 ## Overview
@@ -44,8 +50,11 @@ The camp's records are held at Concordia University Archives as sub-series P0145
 ## Related Articles
 
 - [[places/the-kanawana-site|The Kanawana Site]]
+- [[places/lake-wilson|Lake Wilson]]
 - [[places/camp-otoreke|Camp Otoreke]]
 - [[context/quebec-camp-landscape|The Quebec Camp Landscape]]
+- [[context/ymca-quebec-history|The YMCA of Montreal / YMCAs of Quebec]]
+- [[people/directors-index|Directors and Staff of Camp Kanawana]]
 
 ## Sources
 

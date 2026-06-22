@@ -2027,3 +2027,7 @@ HYPOTHESIZE — Remaining productive research requires:
 
 2026-06-22T13:10:00Z | RALPH-CONCLUDE | Mabel C. Jamieson research (p_074) — 53 additional queries this session (130+ total). Key findings: Jamieson NOT OCA founding member, Pupils College unidentifiable, Comité des seize founded 1917. Status: exhausted-web. 3 new KB facts (f_1434-f_1436), 2 new sources.
 2026-06-22T13:10:01Z | STATE-SAVE | KB v4.79 (1398 facts), sources 473, priorities p_074 exhausted-web
+2026-06-22T13:30:00Z | VERIFY+REVIEW | camp-becsies: stub→E1-reviewed (13 claims verified, 7 sources, cross-links added)
+2026-06-22T13:30:01Z | VERIFY+REVIEW | sgw-concordia-connection: stub→E1-reviewed (all claims verified against KB f_1409-f_1412, 8 sources, source 8 deduplicated)
+2026-06-22T13:30:02Z | VERIFY+REVIEW | camp-perrot: draft→E1-reviewed (all claims verified against KB f_0330/f_0346/f_0874/f_0940/f_1367, 4 sources, low confidence, cross-links added)
+2026-06-22T13:30:03Z | STATE-SAVE | 49 E1-reviewed articles, 1 stub (harold-potter pending research)
