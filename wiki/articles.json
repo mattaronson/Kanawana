@@ -4385,7 +4385,7 @@
       "article_id": "harold-potter",
       "title": "Harold H. Potter",
       "wiki_folder": "people",
-      "status": "draft",
+      "status": "E1-reviewed",
       "status_history": [
         {
           "status": "stub",
@@ -4398,6 +4398,12 @@
           "at": "2026-06-22T11:52:13.590092+00:00",
           "by": "auto",
           "task": "WRITE"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-06-22T11:53:25.445440+00:00",
+          "by": "auto",
+          "task": "REVIEW"
         }
       ],
       "ralph_loops_completed": 1,
