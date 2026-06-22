@@ -1,7 +1,7 @@
 # Coeducation and Gender at Kanawana
 
-*Status: E1-reviewed | Sources: src_mcmorris_thesis, src_kanawana_facts, src_ymca_website, src_concordia_12A, src_concordia_12B04, src_gas_bag_1923, src_ymca_john_island_newsletter, user_knowledge*
-*Last Updated: 2026-02-19 (E1 REVIEW pass v51)*
+*Status: E1-reviewed | Sources: src_mcmorris_thesis, src_kanawana_facts, src_ymca_website, src_concordia_12A, src_concordia_12B04, src_gas_bag_1923, src_ymca_john_island_newsletter, user_knowledge, src_mtl_families_gender*
+*Last Updated: 2026-06-22 (gender-expansive sleeping option details added from Montreal Families source)*
 
 ## Overview
 
@@ -51,6 +51,8 @@ The Concordia archives show the camping administration continuing to evolve thro
 
 In 2022, Kanawana launched the Mountaineer program, described on the YMCA Quebec website as "an all gender tent to provide a safe and welcoming environment for transgender, non-binary, and gender non-conforming campers." The current camp registration materials note that "if your child is gender nonconforming or transgender, please let us know so that we can ensure that they are comfortable with their cabin arrangement."
 
+Under camp director Kate Taylor, the gender-expansive sleeping option was further articulated: any camper may choose it, though requests have come mainly from teens. Taylor noted that Kanawana was not the first camp in Quebec to introduce such an option.^mtl
+
 The Mountaineer program represents a conceptual shift from the 1968-1969 transition. Where coeducation introduced a second gender category to a previously single-gender institution (with parallel section tracks like Pathfinders), the Mountaineer program acknowledged that a binary gender framework was itself insufficient.
 
 ## Related Articles
@@ -85,6 +87,7 @@ The Mountaineer program represents a conceptual shift from the 1968-1969 transit
 - YMCA John Island Alumni Newsletter, 2005 (documents 1969 "senior boys section" reference).
 - Concordia University Archives, YMCA of Montreal fonds, sub-series 12A. https://www.concordia.ca/offices/archives/ymca-fonds-sub-series-12A.html
 - Concordia University Archives, YMCA of Montreal fonds, sub-sub-series 12B04. https://www.concordia.ca/offices/archives/ymca-fonds-sub-sub-series-12B04.html
+- Montreal Families, "Gender-Expansive Options at Summer Camp" (article discussing Kanawana's approach under Kate Taylor).
 
 ## R3 Verification Notes
 
