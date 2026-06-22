@@ -208,3 +208,133 @@ This second round of research (30 new queries + 21 WebFetch attempts) corroborat
 4. **Obtain Grace McMorris thesis** for bibliography/appendices that may reference centennial materials
 5. **Oral history interview** with Matt Aronson and other alumni who attended the centennial
 6. **Fetch Lachine High School comments page** and **Mike Cohen Suburban column** in a future session (may require different access method)
+
+---
+
+## 1. The 1967 CCA Centenary Journey Participants
+
+**Research date:** 2026-06-22
+**Phase:** Phase 2 Wide-Net Research
+**Open Question:** Who were the 6 boys and 2 counsellors (including trip leader Yves St. Pierre) who represented Camp Kanawana on the CCA Centenary Journey, Deep River to Britannia Beach, Aug 2-9, 1967?
+
+### What Is Already Known (from KB)
+
+- Camp Kanawana sent 6 boys and 2 counsellors on the CCA Centenary Journey (f_0283)
+- Trip leader was Yves St. Pierre, who wrote a trip report covering Ottawa River history (f_0693)
+- Route: Deep River, Ontario to Britannia Beach (west Ottawa), August 2-9, 1967 (f_0693)
+- Participants wore colourful plaid "lumberman" shirts and decorated canoes with decals and crests (f_0694)
+- A busload of Kanawana campers greeted them singing the camp song upon arrival at Britannia Beach (f_0694)
+- The Ottawa Journal covered the arrival on August 10, 1967; McMorris thesis Figure 3.5 shows the campers arriving (f_0695)
+- Derek Walsh represented "Kamp Kanawana, YMCA, Montreal, Quebec" in CCA Centenary Journey planning (from Trent CCA fonds)
+- Source for most details: McMorris thesis (Concordia, 2023) Chapter 3
+
+### Search Log
+
+| # | Query | Surface | Result |
+|---|-------|---------|--------|
+| 1 | "CCA Centenary Journey" 1967 participants | Google Web | HIT (partial): Trent University Archives OCA fonds confirmed to hold personnel data sheets, trip logs, area histories. No names extracted online. Confirms 100+ participants across all sections. |
+| 2 | "Centennial Canoe Pageant" 1967 Kanawana | Google Web | NULL for Kanawana. Returns only Centennial Voyageur Canoe Pageant info (the separate federal event, not the CCA Centenary Journey). Wikipedia, Canadian History Ehx, Paddling Magazine, Sport North. |
+| 3 | "Yves St. Pierre" YMCA canoe | Google Web | NULL. Only results for Oahe Family YMCA in Pierre, South Dakota. No match for the person. |
+| 4 | CCA centennial canoe 1967 Quebec | Google Web | NULL for participants. Returns Voyageur Canoe Pageant info only. |
+| 5 | "voyageur canoe pageant" 1967 participants list | Google Web | NULL for CCA Centenary Journey. Returns Voyageur Pageant info (10 teams, 100 men, Manitoba won). No overlap with Kanawana event. |
+| 6 | "Centenary Journey" Deep River Britannia 1967 | Google Web | NULL. No relevant results. All results about UK/Royal Yacht/unrelated. |
+| 7 | Canadian camping centennial canoe trip 1967 roster | Google Web | PARTIAL HIT: Trent OCA fonds confirmed. Camp Stephens blog post surfaced (Camp Stephens = Winnipeg River section). Kandalore blog post surfaced (Lake Superior section). |
+| 8 | "CCA" "centenary" canoe 1967 campers names | Google Web | NULL for names. Trent archives confirmed again. |
+| 9 | "Centennial Canoe Pageant" 1967 roster OR participants OR crew | Google Web | NULL for CCA event. Only Voyageur Pageant details (10 teams, 6 paddlers per shift, all male). |
+| 10 | "Canadian Camping Association" centennial 1967 canoe trip newspaper | Google Web | PARTIAL HIT: Trent CCA fonds (78-004) confirmed. Kandalore blog post confirmed. CCA history page confirmed Bruce Hodgins as key organizer. Camp sections confirmed as relay structure. |
+| 11 | "Centenary Journey" CCA 1967 canoe "Britannia" Ottawa River | Google Web | NULL. Results dominated by Voyageur Pageant and unrelated Ottawa River content. |
+| 12 | "Yves St-Pierre" OR "Yves Saint-Pierre" camp counselor Quebec canoe 1967 | Google Web | NULL. No match for person. Results include obituary listings, hockey player, genealogy sites -- none match. |
+| 13 | CCA "Centenary Journey" 1967 canoe camp sections route "Deep River" | Google Web | NULL for Deep River section details. Trent archives surface again. |
+| 14 | "Canadian Camping Association" "Centenary Journey" 1967 camps participating sections | Google Web | PARTIAL HIT: CCA history page confirms Bruce Hodgins organized it; "campers in every province paddled a section of a cross-Canada route." Archive structure confirmed. |
+| 15 | Camp Kanawana centennial 1967 canoe trip participants "Yves St-Pierre" | Google Web | NULL for participants. Trent archives and Concordia YMCA fonds surface. |
+| 16 | site:trentu.ca "centenary journey" OR "centennial canoe" camping association 1967 | Google Web | HIT: OCA fonds (72-007), CCA fonds (78-004), OCA 1978 additions (78-006), CCA 2008 additions (08-010). Confirmed: Greg Brown binder for Camp Deka Fraser River section; Regina YMCA Camp participants; personnel data sheets exist. |
+| 17 | "Ontario Camps Association" "centenary journey" 1967 personnel sections route | Google Web | PARTIAL HIT: Confirms archival materials include rolled map of Centenary route, historical essays on canoe routes, correspondence from 1963-1969. |
+| 18 | YMCA Montreal camp 1967 canoe centennial "Ottawa River" Deep River Britannia | Google Web | PARTIAL HIT: Concordia YMCA fonds (sub-series 12A) confirmed to contain "Canadian Centennial family camping project" 1966-1967. No participant names. |
+| 19 | "camp kanawana" OR "kanawana" 1967 canoe trip Ottawa River | Google Web | NULL for participants. Trent OCA fonds surface again. |
+| 20 | Bruce Hodgins 1967 centenary canoe trip camps Canada | Google Web | HIT: CCA remembering Hodgins confirms he was "extremely active member of the committee that organized campers in every province who paddled a section." Key organizer confirmed. |
+| 21 | "Centennial canoe trip" 1967 camp youth sections Ottawa River "Deep River" | Google Web | NULL for CCA event. Ottawa River canoeing general results only. |
+| 22 | "centenary journey" 1967 canoe "camp kanawana" OR "YMCA camp" OR "summer camp" Quebec section | Google Web | PARTIAL HIT: Confirms Regina YMCA Camp participated in the Centenary Journey. |
+| 23 | "Centenary Journey" canoe 1967 "log" book publication camps sections route Hodgins | Google Web | NULL for book/route details. Only Trent finding aid surfaces. |
+| 24 | Concordia archives YMCA Montreal "centennial" OR "centenary" canoe trip 1967 camp | Google Web | PARTIAL HIT: YMCA fonds sub-sub-series 12B07 confirmed to contain "Canadian Centennial canoe trip materials (1967)." Concordia also holds Kanawana song books and canoe trip logs (1945-1946). |
+| 25 | "A Log of Canada's Centenary Journey" 1971 canoe camps sections | Google Web | NULL. No results for this publication. Book appears to be out of print and not digitized. |
+| 26 | "Centenary Journey" 1967 "Camp Deka" OR "Greg Brown" OR "Regina YMCA" sections route | Google Web | HIT: Camp Deka (YMCA camp, BC) participated in Fraser River section. Greg Brown compiled a binder of Centenary Journey materials (photos, pamphlets, newspaper clippings). Camp Deka website (derekspratt.com) has a Stories page. |
+| 27 | "Centenary Journey" 1967 relay canoe camps "coast to coast" sections assigned | Google Web | NULL for detailed assignments. Don Starkell surfaced as Manitoba Voyageur Pageant team member (separate event). |
+| 28 | "centenary journey" 1967 canoe camps sections "Ottawa River" OR "Deep River" OR "Britannia" participants | Google Web | NULL for specific section details. Trent archives confirmed again. |
+| 29 | CCA 1967 centenary canoe trip camps assigned sections list "Camp Stephens" "Camp Kandalore" "Camp Kilcoo" "Camp Kanawana" | Google Web | MAJOR HIT: Derek Walsh confirmed as representing "Kamp Kanawana, YMCA, Montreal, Quebec" in CCA Centenary Journey planning. Camp Kandalore boys covered Fort Francis to Camp Stephens (Lake of the Woods). Camp Stephens traversed Winnipeg River to Lake Winnipeg. John Latimer (Camp Kilcoo) coordinated. |
+| 30 | "Derek Walsh" Kanawana YMCA Montreal centenary journey 1967 canoe | Google Web | PARTIAL HIT: McMorris thesis (CORE record) confirmed. Concordia YMCA fonds sub-sub-series 12B04 surfaced. No new biographical info on Walsh. |
+| 31 | "Derek Walsh" camp Kanawana YMCA Montreal Quebec counselor director | Google Web | NULL for role details. Current Kanawana team pages only. |
+| 32 | Kandalore "centenary journey" OR "centennial canoe" 1967 Lake Superior section "Kirk Wipper" camps assigned | Google Web | HIT: Kirk Wipper (Camp Kandalore owner) volunteered his camp for dangerous Lake Superior section using Nor'wester alumni staff. Used two Chestnut 25-foot wood-canvas canoes. Senior Camp Kandalore boys also covered Fort Francis to Camp Stephens section. |
+| 33 | "centenary journey" 1967 section camps assigned "Deep River" OR "Britannia" OR "Ottawa" OR "Quebec" canoe | Google Web | NULL for Quebec/Ottawa section details. |
+| 34 | "John Latimer" "Camp Kilcoo" centenary journey 1967 coordinator sections camps | Google Web | HIT: John Latimer was OCA President 1967-1968. Camp Kilcoo established. He coordinated the overall Centenary Journey. Trent archives hold his correspondence. Latimer authored "Maker of Men: The Kilcoo Story." |
+| 35 | "McMorris" thesis Kanawana 1967 centennial canoe trip "Yves St. Pierre" OR "Deep River" OR "Britannia" participants | Google Web | PARTIAL HIT: McMorris thesis confirmed at Concordia Spectrum repository. Chapter 3 covers "myth of the voyageur" including Centenary Journey participation. Full text not web-accessible without Concordia credentials. |
+| 36 | "centenary journey" 1967 canoe camp "Ottawa Journal" OR newspaper coverage Kanawana arrival August | Google Web | NULL for newspaper text. Trent archives confirmed to hold correspondence and press materials. |
+| 37 | "Yves St. Pierre" OR "Yves St-Pierre" Quebec YMCA camp trip report Ottawa River 1967 | Google Web | NULL. Concordia YMCA fonds confirmed to hold Boys' Camping Committee reports from 1967. No individual identified. |
+| 38 | "Ottawa Journal" August 1967 canoe camp boys YMCA Kanawana centennial arrival | Google Web | NULL for newspaper text. Camp Stephens blog confirms relay structure details. |
+| 39 | "Yves St-Pierre" OR "Yves Saint-Pierre" counselor YMCA OR Kanawana OR camp OR paddling Quebec | Google Web | NULL. No online presence found for this individual. |
+| 40 | "camp kanawana" "centenary" OR "centennial" 1967 counsellor OR counselor boys canoe "Ottawa" Deep River | Google Web | NULL for participants. Trent archives surfaced again. |
+| 41 | "Britannia Beach" Ottawa 1967 canoe centennial OR centenary arrival paddling | Google Web | NULL. Voyageur Pageant teams reached Ottawa Aug 29 (separate event). No CCA Centenary Journey Britannia Beach arrival covered. |
+| 42 | "CCA Centenary Journey" 1967 sections assigned camps list complete route | Google Web | NULL. Canberra Centenary Trail results (wrong country). |
+| 43 | site:archive.org "centenary journey" OR "centennial canoe" 1967 camps sections Canada | Google Web | PARTIAL HIT: Daily Colonist (1966-08-07) mentions a different centennial canoe event (Fort St. James, 10 birch bark canoes, 60 paddlers). Text inaccessible (403). |
+| 44 | "Canadian Camping Association" 1967 canoe trip camps "cross-Canada" relay sections youth | Google Web | HIT: Confirms relay structure -- "trips were made by youth camps using older campers supervised by canoe tripping staff, with each camp assigned a section." Kirk Wipper/Kandalore for Lake Superior (no youth camp volunteered for this dangerous section). |
+
+### WebFetch Attempts (all returned HTTP 403 Forbidden)
+
+| # | URL | Result |
+|---|-----|--------|
+| 1 | archives.trentu.ca/index.php/78-004 (CCA fonds) | HTTP 403 |
+| 2 | archives.trentu.ca/index.php/72-007 (OCA fonds) | HTTP 403 |
+| 3 | archives.trentu.ca/downloads/ontario-camps-association-fonds.pdf | HTTP 403 |
+| 4 | kandalorenorwesters.blogspot.com (Craig Macdonald memories) | HTTP 403 |
+| 5 | ccamping.org/history (CCA official history) | HTTP 403 |
+| 6 | ccamping.org/remembering-bruce-hodgins-1931-2019/ | HTTP 403 |
+| 7 | canadaehx.com/2023/09/12/the-voyageur-centennial-canoe-pageant/ | HTTP 403 |
+| 8 | concordia.ca/offices/archives/ymca-fonds-sub-sub-series-12B07.html | HTTP 403 |
+| 9 | concordia.ca/offices/archives/ymca-fonds-sub-sub-series-12B04.html | HTTP 403 |
+| 10 | concordia.accesstomemory.org/ymca-of-montreal-fonds-2 | HTTP 403 |
+| 11 | core.ac.uk/outputs/591919397/ (McMorris thesis) | HTTP 403 |
+| 12 | spectrum.library.concordia.ca/id/eprint/992763/ (McMorris thesis) | HTTP 403 |
+| 13 | campstephensalumni.blogspot.com (Camp Stephens memories) | HTTP 403 |
+| 14 | derekspratt.com/Camp_Deka/HTML/Stories.html (Camp Deka stories) | HTTP 403 |
+| 15 | archive.org/stream/dailycolonist19660807 | HTTP 403 |
+| 16 | paddlingmag.com (Centennial Voyageur article) | HTTP 403 |
+| 17 | sportnorth.com/1967-centennial-voyageurs | HTTP 403 |
+| 18 | kilcoo.com/wp-content/uploads/2016/10/gazette_nov2007.pdf | HTTP 403 |
+
+### Key Findings
+
+1. **No participant names found** beyond Yves St. Pierre (trip leader/counsellor). The identity of the second counsellor and all six boys remains unknown from web sources.
+
+2. **The CCA Centenary Journey was a relay structure**: Each camp/province was assigned a section of a cross-Canada canoe route. Known section assignments:
+   - **BC**: Camp Deka (YMCA, Kamloops) -- Fraser River section (documented by Greg Brown)
+   - **Prairies/Manitoba**: Regina YMCA Camp, Camp Stephens (Winnipeg YMCA) -- Winnipeg River from Lake of the Woods to Lake Winnipeg
+   - **Ontario (Fort Francis to Camp Stephens)**: Camp Kandalore senior boys -- used Chestnut Centennial canoes
+   - **Ontario (Lake Superior)**: Camp Kandalore (Kirk Wipper) -- dangerous section, no youth camp volunteered; completed by Nor'wester alumni staff
+   - **Ontario (coordination)**: Camp Kilcoo (John Latimer, OCA President 1967-68) -- overall coordinator
+   - **Quebec/Ottawa River**: Camp Kanawana (YMCA Montreal) -- Deep River to Britannia Beach, Aug 2-9, 1967
+   - Other provincial sections undocumented online
+
+3. **Key organizers confirmed**: Bruce Hodgins (Trent/Camp Wanapitei) organized the overall journey; John Latimer (Camp Kilcoo, OCA President 1967-68) coordinated; Kirk Wipper (Camp Kandalore) arranged the Lake Superior section.
+
+4. **Derek Walsh** represented Kanawana in the CCA Centenary Journey planning (from Trent CCA fonds). His role at Kanawana remains unknown (possibly the second counsellor, or possibly a planning committee member only). Walsh also received the CCA Award of Excellence in 1983 (ACQ). 32+ earlier queries exhausted Walsh's web research.
+
+5. **McMorris thesis** (Concordia, 2023) is the primary source for Kanawana's participation details (Chapter 3, Figure 3.5). The thesis draws on Concordia YMCA fonds sub-sub-series 12B07 which contains the 1967 Canadian Centennial canoe trip materials.
+
+6. **The Ottawa Journal** covered the arrival on August 10, 1967 -- this newspaper article could contain participant names but is not digitized/accessible online.
+
+7. **"A Log of Canada's Centenary Journey"** (published 1971) likely contains the complete route, sections, and participant roster, but appears to be out of print and not digitized.
+
+### Assessment
+
+**Status: EXHAUSTED for web research.**
+
+44 distinct queries were executed across Google Web Search. 18 WebFetch attempts were made (all returned 403). This is well above the Phase 2 minimum threshold of 8 queries across 3 surfaces.
+
+**The participant names cannot be determined from web sources.** The following physical/restricted sources remain as the only viable paths:
+
+1. **Concordia University Archives** -- YMCA of Montreal fonds, sub-sub-series P0145/12B07: Contains the 1967 Canadian Centennial canoe trip materials (trip reports, possibly participant lists). This is the most promising lead.
+2. **Trent University Archives** -- OCA fonds (72-007, 78-006) and CCA fonds (78-004): Contains personnel data sheets, trip logs, and area histories for the entire Centenary Journey.
+3. **McMorris thesis full text** (Concordia, 2023): Chapter 3 discusses the trip in detail; the thesis may name participants, especially if drawn from archival documents that list them.
+4. **Ottawa Journal, August 10, 1967**: The newspaper article about the arrival at Britannia Beach may name the participants. Would need to be accessed through Library and Archives Canada or Ottawa Public Library microfilm.
+5. **"A Log of Canada's Centenary Journey" (1971)**: Published account of the full journey. May contain participant rosters by section. Would need to be found in a research library catalogue (WorldCat search recommended).
+
+**Recommendation:** Add to oral history interview instrument -- ask the operator if they can identify any of the 1967 Centenary Journey participants from Camp Kanawana (the 6 boys, the second counsellor beyond Yves St. Pierre, and whether Derek Walsh was involved as counsellor or only as planner).
