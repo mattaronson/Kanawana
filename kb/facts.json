@@ -1,5 +1,5 @@
 {
-  "version": "v4.84",
+  "version": "v4.85",
   "kb_version": 4.84,
   "migrated_from": "3.3",
   "fact_count": 1459,
@@ -25189,6 +25189,74 @@
       "date_ref": null,
       "conflicts_with": [],
       "added_version": "v4.84",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1498",
+      "claim": "The Trailblazers CIT (Counsellor-in-Training) program at Camp Kanawana is a 48-day program (4 sessions of 12 days) for ages 16-17. Participants complete over 200 hours of workshops, training sessions, and activities covering creative programming, risk management, team building, and effective communication. The program includes a 5-day canoe trip. Certifications earned: Standard First Aid and CPR (16-hour course) and a CIT certificate from the Association des camps certifi\u00e9s du Qu\u00e9bec (ACC).",
+      "sources": [
+        "src_ymcaq_trailblazers_2026"
+      ],
+      "confidence": "stated",
+      "category": "programs",
+      "entities": [
+        "Camp Kanawana",
+        "Trailblazers",
+        "Association des camps certifi\u00e9s du Qu\u00e9bec"
+      ],
+      "date_ref": "2026",
+      "conflicts_with": [],
+      "added_version": "v4.85",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1499",
+      "claim": "\"Creatives\" at Camp Kanawana are counsellor-designed activities where staff create activities from scratch rather than reserving a regular program area. Examples include puddle jumping/mud fights, makeover the counsellors, pirate-themed overnights with a search for buried treasure, surprise birthday parties/beach parties, paint twister, and water balloon fights. Alumna Leigh Evans described Creatives as consistently campers'  favourite memories each session.",
+      "sources": [
+        "src_leigh_evans_blog"
+      ],
+      "confidence": "stated",
+      "category": "programs",
+      "entities": [
+        "Camp Kanawana",
+        "Leigh Evans"
+      ],
+      "date_ref": "c.2012",
+      "conflicts_with": [],
+      "added_version": "v4.85",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1500",
+      "claim": "Camp YMCA Kanawana maintains a Facebook photo album titled \"1987-1994\" on its official Facebook page (facebook.com/YKanawana), documenting the period that includes the Bruce Netherwood directorship and the camp's centennial year.",
+      "sources": [
+        "src_fb_kanawana_album"
+      ],
+      "confidence": "stated",
+      "category": "media",
+      "entities": [
+        "Camp Kanawana",
+        "Bruce Netherwood"
+      ],
+      "date_ref": "1987-1994",
+      "conflicts_with": [],
+      "added_version": "v4.85",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1501",
+      "claim": "A Leaders in Training Information Guide for Summer 2026 is published as a PDF on the YMCA Quebec website (ymcaquebec.org), documenting the current LIT program structure.",
+      "sources": [
+        "src_ymcaq_lit_guide_2026"
+      ],
+      "confidence": "stated",
+      "category": "programs",
+      "entities": [
+        "Camp Kanawana"
+      ],
+      "date_ref": "2026",
+      "conflicts_with": [],
+      "added_version": "v4.85",
       "added_by": "ralph_loop"
     }
   ]
