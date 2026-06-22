@@ -7610,9 +7610,10 @@
     },
     {
       "fact_id": "f_0453",
-      "claim": "Pathfinders and Pioneers groups are made up of girls and non-binary campers; Coureurs des Bois and Woodsmen consist of boys and non-binary campers; Senior Kanawanians and Voyageurs are co-ed groups.",
+      "claim": "The four core camp sections are: Pioneers (girls 7-12), Woodsmen (boys 7-12), Pathfinders (girls 13-15), and Coureurs des Bois (boys 13-15). Mountaineers is the gender-neutral section (13-15). Voyageurs is the all-gender long canoe trip program. Trailblazers are Leaders-in-Training (age 16). Foresters is the canoe trip leader specialization.",
       "sources": [
-        "src_ymca_website"
+        "src_ymca_website",
+        "src_oral_aronson"
       ],
       "confidence": "stated",
       "category": "sections",
@@ -7621,8 +7622,10 @@
         "Pioneers",
         "Coureurs des Bois",
         "Woodsmen",
-        "Senior Kanawanians",
-        "Voyageurs"
+        "Mountaineers",
+        "Voyageurs",
+        "Trailblazers",
+        "Foresters"
       ],
       "date_ref": null,
       "conflicts_with": [],
@@ -9939,9 +9942,10 @@
     },
     {
       "fact_id": "f_0588",
-      "claim": "The Pathfinders and Pioneers groups at Camp Kanawana are made up of girls and non-binary campers; Coureurs des Bois and Woodsmen consist of boys and non-binary campers; Senior Kanawanians and Voyageurs are co-ed groups.",
+      "claim": "The four core camp sections are gender-split: Pioneers (girls 7-12) and Woodsmen (boys 7-12) are Junior sections in cabins; Pathfinders (girls 13-15) and Coureurs des Bois (boys 13-15) are Senior sections in platform tents. Mountaineers (est. 2022) is the gender-neutral Senior section (13-15). 'Senior Kanawanians' is NOT a section name.",
       "sources": [
-        "src_ymca_website"
+        "src_ymca_website",
+        "src_oral_aronson"
       ],
       "confidence": "stated",
       "category": "programs",
@@ -13381,9 +13385,10 @@
     },
     {
       "fact_id": "f_0829",
-      "claim": "The Camp Kanawana current sections include: Pioneers (girls/non-binary 7-12), Woodsmen (boys/non-binary 7-12), Coureurs des Bois (boys/non-binary 13-16), Pathfinders (girls/non-binary 13-16), Rangers (15-16 leadership), Voyageurs Ultimate (15-17 canoe-tripping leadership), Trailblazers, Foresters, Adventurers, Explorers, Senior Kanawanians, and Mountaineer (all-gender tent for transgender, non-binary, and gender non-conforming campers).",
+      "claim": "The Camp Kanawana current sections are: Pioneers (girls 7-12), Woodsmen (boys 7-12), Pathfinders (girls 13-15), Coureurs des Bois (boys 13-15), Mountaineers (gender-neutral 13-15, est. 2022). Specialized programs: Voyageurs (all-gender long canoe trip program), Trailblazers (Leaders-in-Training, age 16), Foresters (canoe trip leader specialization). 'Senior Kanawanians' is not a section name. The section structure dates to at least the early 1980s.",
       "sources": [
-        "src_ymca_website"
+        "src_ymca_website",
+        "src_oral_aronson"
       ],
       "confidence": "stated",
       "category": "section_names",

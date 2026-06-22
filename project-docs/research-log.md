@@ -128,7 +128,7 @@ This log records each Phase 2 search campaign: topic, queries tried, surfaces se
 ### Target: Section naming conventions
 **Date:** 2026-03-15
 **Status:** CURRENT NAMES DOCUMENTED
-**Results:** Current sections confirmed: Pioneers (girls/NB 7-12), Woodsmen (boys/NB 7-12), Coureurs des Bois (boys/NB 13-16), Pathfinders (girls/NB 13-16), plus Rangers, Voyageurs Ultimate, Trailblazers, Foresters, Adventurers, Explorers, Senior Kanawanians. Mountaineer program launched for gender-expansive campers. Historical "Scouts/Colonists/Rovers" NOT found at any other YMCA camp.
+**Results:** Current sections confirmed: Pioneers (girls 7-12), Woodsmen (boys 7-12), Coureurs des Bois (boys 13-15), Pathfinders (girls 13-15), Mountaineers (gender-neutral 13-15, est. 2022). Specialized programs: Voyageurs (all-gender canoe trips), Trailblazers (Leaders-in-Training, age 16), Foresters (canoe trip leader specialization). **CORRECTION (2026-06-22, operator):** "Senior Kanawanians" is NOT a section name — extraction error. The four-section gender-split structure dates to at least the early 1980s. Historical "Scouts/Colonists/Rovers" NOT found at any other YMCA camp.
 
 ### Target: Non Nobis Solum motto
 **Date:** 2026-03-15
