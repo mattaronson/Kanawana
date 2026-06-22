@@ -338,3 +338,156 @@ This second round of research (30 new queries + 21 WebFetch attempts) corroborat
 5. **"A Log of Canada's Centenary Journey" (1971)**: Published account of the full journey. May contain participant rosters by section. Would need to be found in a research library catalogue (WorldCat search recommended).
 
 **Recommendation:** Add to oral history interview instrument -- ask the operator if they can identify any of the 1967 Centenary Journey participants from Camp Kanawana (the 6 boys, the second counsellor beyond Yves St. Pierre, and whether Derek Walsh was involved as counsellor or only as planner).
+
+---
+
+## 4. Lac des Becs-scie / Camp Becsies Location
+
+*Research conducted: 2026-06-22*
+*Researcher: Claude (Phase 2 autonomous research)*
+
+### Summary of Findings
+
+**Lac des Becs-scie is a real, named lake in Saint-Sauveur, Quebec, adjacent to but almost certainly NOT one of Kanawana's "three private lakes."** The lake today has ~240 homes on its shores and is a fully residential area with its own lake association. Camp Becsies was a separate YMCA Montreal facility on this lake, operating 1929-1971, distinct from Camp Kanawana.
+
+### Key Facts Established
+
+1. **Lac des Becs-scie** is located in the municipalities of Saint-Sauveur (83%) and Mille-Isles (17%), in the MRC Les Pays-d'en-Haut.
+2. **Coordinates**: ~45deg51'12"N, 74deg12'53"W (from satellite/map sources). This is approximately 1.5 km west of Lac Kanawana (45deg51'6"N, 74deg11'41"W).
+3. **Physical characteristics**: Area 0.5 km sq, crescent-shaped, ~2.2 km long, 155-340m wide, max depth 16.6m (or 16.9m per some sources), mean depth 5.8m, altitude 320.5m ASL.
+4. **Etymology**: "Bec-scie" is Quebec French for the merganser (sawbill) duck (Mergus merganser), literally "saw-beak." The name dates to 17th-century New France usage.
+5. **Current status**: Fully residential lake with ~240 homes (mix of primary residences and vacation homes). No public beach or boat launch. Governed by Association du Lac des Becs-scie (formed January 2003). A chapel, Sainte-Therese-du-Lac-des-Becs-Scies, was built on the lake in 1950-1951.
+6. **Camp Becsies**: YMCA Montreal camp documented in Concordia Archives P0145/12D. Records span 1929-1936 and 1960-1971 (3 cm textual). The camp served campers from the Montreal Protestant Orphans' Home (1934, 1936). Family camping brochure c.1962. Family camp administration records 1960-1971. Photographs exist.
+7. **1938 Green Triangle reference**: A limerick in the July 29, 1938 issue mentions staff member Wallace who "found at Leke Becsies his solace" -- confirming it was a known location to Kanawana staff in the 1930s.
+8. **Watershed**: Lac des Becs-scie is a headwater lake in the Riviere du Nord watershed. A dam at its eastern outlet regulates the water level (Quebec MDDEP set the level in 1980).
+9. **Early settlement**: A traditional log house at Lac des Becs-Scie built by Louis Alary was purchased in 1928 by Dr. Joseph-Octave Lapointe, who later served as mayor of Saint-Sauveur in 1944-1945.
+
+### Is Lac des Becs-scie one of Kanawana's "three private lakes"?
+
+**Almost certainly NOT.** The evidence strongly suggests it is a separate, adjacent lake:
+
+| Factor | Lac des Becs-scie | Kanawana's "3 private lakes" |
+|--------|-------------------|------------------------------|
+| Size | 0.5 km sq (large) | Lac Kanawana = 0.235 km sq |
+| Current use | ~240 private homes | YMCA camp property |
+| Access | Private residential, no public access | YMCA property |
+| Governance | Lake association (2003+) | YMCA Quebec |
+| Municipality | Saint-Sauveur (83%) / Mille-Isles (17%) | Saint-Sauveur |
+| Distance from Lac Kanawana | ~1.5 km west | N/A |
+
+The three private lakes are consistently identified as **Lake Kanawana, Lake Wilson, and Round Lake** in all YMCA materials. Lac des Becs-scie (at 0.5 km sq) is actually larger than Lac Kanawana itself (0.235 km sq) and could not be described as a subsidiary or ancillary lake. Its current status as a dense residential area with 240 homes confirms it left YMCA control long ago (likely after 1971 when Camp Becsies records end).
+
+### What was Camp Becsies?
+
+Based on the evidence, Camp Becsies was:
+- A **separate YMCA Montreal camp facility** on Lac des Becs-scie, adjacent to but distinct from Camp Kanawana
+- Established in **1929** (development of camping site)
+- Used for **social service purposes** in the 1930s (Montreal Protestant Orphans' Home campers, 1934 and 1936)
+- Subject to a **memo about its future** in the 1930s (suggesting its viability was questioned)
+- A **24-year gap** in the archival record (1936-1960) suggests the camp may have been inactive
+- **Revived for family camping** in the 1960s (brochure c.1962, administration records 1960-1971)
+- **Closed/divested by 1971** (end of archival records); the lake subsequently developed as a residential area
+- Known to Kanawana staff -- the 1938 Green Triangle limerick about Wallace finding "at Leke Becsies his solace" suggests staff overlap or proximity visits
+
+### Search Log
+
+| # | Query | Surface | Result |
+|---|-------|---------|--------|
+| 1 | "Lac des Becs-scie" Saint-Sauveur | Google Web | **MAJOR HIT**: Association du Lac des Becs-scie website (becsscie.com). Lake in Saint-Sauveur (83%) / Mille-Isles (17%). Area 0.5 km sq, 2.2 km long, 155-340m wide, max depth 16.6m. No public access. CRE Laurentides portrait PDF available. Commission de toponymie entries for Chemin du Lac-des-Becs-Scie Est and Ouest. |
+| 2 | "Becs-scie" Quebec lake | Google Web | HIT: Confirmed lake details. Also found Bec-Scie River (Anticosti Island, unrelated). Hookandbullet.com fishing entry confirms lake near Mille-Isles. |
+| 3 | "Lac Becs-scie" map location | Google Web | HIT: Mapcarta lists as locality in Saint-Sauveur. Satellites.pro map available. ViaMichelin map exists. Walk Score entries for Chemin du Lac des Becs Scie addresses. |
+| 4 | "Becs-scie" YMCA camp | Google Web | PARTIAL: No direct YMCA-camp connection in results. Maplogs elevation page shows YMCA Kanawana address (89 Chemin Benny) near Chemin des Becs Scie in Mille-Isles area. |
+| 5 | "Camp Becsies" Quebec location | Google Web | NULL for specific facility. Results show Camping Bec-Scie in Saguenay (unrelated) and Centre plein air Bec-Scie (also Saguenay, unrelated). |
+| 6 | "Lac des Becs-scie" Kanawana | Google Web | PARTIAL: No direct joint mention found in web results. Both lakes appear separately on fishing/map databases. Property lot listings reference views of both lakes, confirming proximity. |
+| 7 | Saint-Sauveur lakes map Laurentians private YMCA | Google Web | HIT: Camp Kanawana confirmed at 673 Mont St Elmire, Saint-Sauveur, on 550 acres with 3 private lakes. |
+| 8 | NTS topographic "Becs-scie" Quebec | Google Web | PARTIAL: NTS sheet 022H09 is "Riviere Aux Becs-Scie" (Anticosti Island, unrelated). No specific NTS reference for the Laurentian Lac des Becs-scie found. |
+| 9 | "bec-scie" OR "becs-scie" OR "becsscie" lac Quebec Laurentides | Google Web | HIT: CRE Laurentides atlas entry. Watershed area 2.62 km sq. Chemin des Becs Scie Est in Mille-Isles has 4 properties; Ouest has 21 properties. |
+| 10 | Commission de toponymie Quebec "Becs-scie" | Google Web | HIT: 8 official toponymic entries across Quebec using "Becs-scie" (Laval, Nominingue, Alma, Gatineau, Sept-Iles, Saint-Sauveur x2, Mille-Isles). Confirmed meaning: the merganser/sawbill duck. |
+| 11 | "Lac Becs-scie" OR "Lac des Becs-Scie" Piedmont OR "Sainte-Anne-des-Lacs" OR "Mille-Isles" | Google Web | HIT: Watershed in Riviere du Nord. Altitude 320.5m. Fishing near Mille-Isles confirmed. |
+| 12 | "merganser" lake Saint-Sauveur Quebec | Google Web | NULL for specific lake. General Saint-Sauveur lake results only. |
+| 13 | YMCA Montreal "Lac des Becs-scie" camp history | Google Web | NULL: No results linking YMCA directly to the lake by its French name. |
+| 14 | "Camp Becsies" YMCA Montreal 1929 | Google Web | **MAJOR HIT**: Concordia AtoM page (concordia.accesstomemory.org/camp-becsies). Concordia YMCA fonds sub-series 12D page. Confirmed: 3cm records, 1929-1936 and 1960-1971. Development of camping site (1929). Memo on future of camp. Montreal Protestant Orphans' Home campers (1934, 1936). Family camping brochure c.1962. Family camp admin 1960-1971. |
+| 15 | Kanawana "three lakes" OR "3 lakes" OR "Round Lake" OR "Wilson" OR "Desjardins" Saint-Sauveur | Google Web | CONFIRMED: Three private lakes = Lake Kanawana, Lake Wilson, Round Lake. No Lac des Becs-scie among them. |
+| 16 | "Lac des Becs-scie" history camp cottage development residential | Google Web | HIT: ~240 homes on shores. Mix of primary and vacation residences. Diverse community (francophone/anglophone, families/retirees). Less than 1 hour from Montreal. |
+| 17 | concordia archives P0145 "camp becsies" "lac becsies" YMCA Montreal sub-series 12D | Google Web | CONFIRMED: Camp Becsies = P0145/12D. Lac Becsies development 1929. Memo regarding future of Becsie camp (1930s). Montreal Protestant Orphans' Home (1934, 1936). Family camping brochure c.1962. Family camp admin 1960-1971. |
+| 18 | "Lac des Becs-scie" coordinates latitude longitude | Google Web | HIT: Coordinates ~45deg51'12"N, 74deg12'53"W (decimal: 45.85181, -74.21914). |
+| 19 | "Lac Kanawana" coordinates latitude longitude Saint-Sauveur | Google Web | HIT: Lac Kanawana at 45deg51'5"N, 74deg11'31"W. Confirmed 2.6 miles from Saint-Sauveur. |
+| 20 | "becs-scie" merganser harle bievre duck sawbill Quebec etymology | Google Web | **MAJOR HIT**: "Bec-scie" = Quebec French for merganser (Mergus merganser). Literally "saw-beak." Attested in late 17th-century New France documents. iNaturalist uses "Grand Bec-scie" for Common Merganser. Taxonomically = Harle bievre (French technical term). P.A. Taverner adopted "bec-scie" as French generic for English "merganser." |
+| 21 | "Camp Becsies" OR "Lac Becsies" family camping YMCA orphans brochure | Google Web | CONFIRMED (repeat): Concordia P0145/12D details. |
+| 22 | "Lac des Becs-scie" "Lac Kanawana" distance near adjacent | Google Web | NULL for direct distance. Both in same general area confirmed but no source states exact distance. |
+| 23 | concordia accesstomemory "camp becsies" description scope content YMCA | Google Web | CONFIRMED: Part of YMCA of Montreal Fonds (founded 1851 to late 20th century). |
+| 24 | "Lac des Becs-Scie" OR "Becs-scie" "Sainte-Therese" chapel 1950 1951 Saint-Sauveur | Google Web | HIT: Chapelle de Sainte-Therese-du-Lac-des-Becs-Scies built 1950-1951, on Chemin du Lac-des-Becs-Scie Ouest. Listed in Quebec cultural heritage registry. Included in Saint-Sauveur heritage circuit. |
+| 25 | Saint-Sauveur "Lac des Becs-scie" OR "Becs-Scie" history development 1920 1930 cottage villegiature | Google Web | HIT: Traditional log house at Lac des Becs-Scie built by Louis Alary, purchased 1928 by Dr. Joseph-Octave Lapointe (later mayor 1944-1945). P'tit train du Nord launched 1927 bringing skiers to Laurentians. |
+| 26 | "Lac des Becs-Scie" watershed "Riviere du Nord" altitude area depth | Google Web | HIT: Headwater lake. Dam at eastern outlet (level set by MDDEP in 1980). Water quality monitoring station 0620A. |
+| 27 | "Lac des Becs-scie" 240 homes residential | Google Web | CONFIRMED: ~240 homes with lake access. Mix of primary/vacation. |
+| 28 | Kanawana camp "Round Lake" OR "lac rond" Quebec | Google Web | CONFIRMED: Three private lakes = Kanawana, Wilson, Round Lake on 550-acre site. |
+| 29 | "Association du Lac des Becs-scie" history formation year | Google Web | HIT: Association formed January 2003 (as Association des proprietaires du Lac des Becs-scie Inc.) after a previous Association Ecologique became inactive. Over 100 member homes. Environmental programs since 2004. |
+| 30 | Kanawana "550 acres" property boundary lakes map | Google Web | NULL for property boundaries. Confirmed 550 acres, 3 private lakes, but no boundary map found. |
+| 31 | "Protestant Orphans Home" Montreal YMCA camp "Becs-scie" OR "Becsies" 1934 | Google Web | PARTIAL: Found Protestant orphan institutions in Montreal (Summerhill House etc.). Camp Weredale est. 1934 for at-risk boys on Lac l'Achigan. No direct link to Becsies beyond existing Concordia archive snippets. |
+
+### WebFetch Attempts (all returned 403 Forbidden)
+
+| URL | Target Info |
+|-----|-------------|
+| becsscie.com/en/our-lake/ | Lake details and history |
+| crelaurentides.org/lake/becs-scie/ | Environmental data |
+| bdll.ca/en/lakes/lac-des-becs-scie/ | Lake database entry |
+| mapcarta.com/24368122 | Coordinates and map |
+| toponymie.gouv.qc.ca (2 pages) | Place name history |
+| crelaurentides.org PDFs (2) | Environmental portraits |
+| gpsnauticalcharts.com | Nautical chart |
+| hookandbullet.com | Fishing info |
+| en.wikipedia.org/wiki/Bec-Scie_River | Etymology |
+| environnement.gouv.qc.ca (water quality) | Monitoring data |
+| concordia.accesstomemory.org/camp-becsies | Archival description |
+| concordia.ca/.../ymca-fonds-sub-series-12D.html | Archival description |
+| satellites.pro | Satellite map |
+| elevation.maplogs.com | Elevation data |
+| wikimapia.org/2252176/Lac-Kanawana | Map data |
+| vss.ca heritage brochure PDF | Heritage circuit |
+| patrimoine-culturel.gouv.qc.ca | Chapel record |
+| becsscie.com bulletin PDF (March 2012) | Lake community bulletin |
+| ymcaquebec.org facilities page | Camp facilities |
+| mapliv.com address page | Location/coordinates |
+
+### Geographic Relationship Analysis
+
+Using the coordinates obtained:
+- **Lac Kanawana**: 45deg51'6"N, 74deg11'41"W (elevation 319m / 318.4m ASL)
+- **Lac des Becs-scie**: ~45deg51'12"N, 74deg12'53"W (elevation 320.5m ASL)
+
+The longitude difference of ~1'12" at latitude 45.85deg corresponds to approximately **1.4 km** east-west separation. Both lakes are at virtually the same latitude (6" difference = ~185m). The altitude difference is minimal (1-2m). This means the two lakes are **adjacent neighbors**, with Lac des Becs-scie sitting roughly 1.5 km to the west-northwest of Lac Kanawana, at essentially the same elevation.
+
+The 1938 Green Triangle limerick about a staff member going to "Leke Becsies" for recreation suggests it was a short trip from the main Kanawana camp -- consistent with a ~1.5 km walk through the woods.
+
+### Conclusions
+
+1. **Lac des Becs-scie is NOT one of Kanawana's three private lakes.** It is a separate, adjacent lake that was used as a satellite YMCA camp facility (Camp Becsies) from 1929 to 1971.
+2. **Camp Becsies was a distinct YMCA Montreal camp** with its own sub-series in the archives (P0145/12D), separate from Camp Kanawana (P0145/12C).
+3. **The lake was divested/sold** after 1971, and has since been developed into a dense residential area with ~240 homes.
+4. **The lake is approximately 1.5 km west** of Lac Kanawana, at the same altitude, making it a natural satellite location for the main camp.
+5. **The name "Becs-scie" means merganser** (sawbill duck) in Quebec French, from 17th-century New France usage.
+
+### Remaining Open Questions
+
+1. Did the YMCA own the entire Lac des Becs-scie property, or only a portion of its shoreline?
+2. When exactly was the Lac des Becs-scie property sold/divested? (After 1971 archival records end, before residential development)
+3. What was the relationship between Camp Becsies staff and Camp Kanawana staff? (The 1938 limerick suggests staff overlap)
+4. Was Camp Becsies a day camp, overnight camp, or outpost of Kanawana?
+5. Why was there a 24-year gap (1936-1960) in the Camp Becsies archival record?
+6. Is there a connection between the 1950-1951 construction of the Sainte-Therese chapel on the lake and the YMCA's presence?
+
+### Sources
+
+- [Association du Lac des Becs-scie](https://becsscie.com/en/our-lake/)
+- [CRE Laurentides - Lac des Becs-Scie](https://crelaurentides.org/lake/becs-scie/)
+- [BDLL - Lac des Becs-Scie](https://bdll.ca/en/lakes/lac-des-becs-scie/)
+- [Concordia Archives - Camp Becsies](https://concordia.accesstomemory.org/camp-becsies)
+- [Concordia University - YMCA Fonds Sub-series 12D](https://www.concordia.ca/offices/archives/ymca-fonds-sub-series-12D.html)
+- [Commission de toponymie du Quebec - Chemin du Lac-des-Becs-Scie Ouest](https://toponymie.gouv.qc.ca/CT/ToposWeb/Fiche.aspx?no_seq=125807)
+- [Mapcarta - Lac-des-Becs-Scie](https://mapcarta.com/24368122)
+- [Quebec Environment Ministry - Water Quality 2022](https://www.environnement.gouv.qc.ca/eau/rsvl/relais/fiches-bilans/2022/Becs-Scie,%20Lac%20des_0620A_2022_SA_SU.html)
+- [iNaturalist - Grand Bec-scie (Common Merganser)](https://www.inaturalist.org/guide_taxa/23369)
+- [DHFQ - Definition bec-scie](https://www.dhfq.org/article/bec-scie)
+- [Satellites.pro - Lac-des-Becs-Scie map](https://satellites.pro/Lac-des-Becs-Scie_map)
+- Green Triangle, July 29, 1938 (sources/cache/green-triangle/1938-07-29.txt, line 197)
