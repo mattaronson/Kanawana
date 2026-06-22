@@ -1,6 +1,6 @@
 # Notable Alumni of Camp Kanawana
 
-*Status: E1-reviewed | Sources: 38*
+*Status: E1-reviewed | Sources: 40*
 *Last Updated: 2026-06-22*
 
 ## Overview
@@ -91,6 +91,10 @@ Career "seeded at" Camp Kanawana per his obituary, alongside Manor Road United C
 
 Attended Kamp Kanawana as a "junior summer camp" participant. Died November 14, 2011 in his 94th year.^36
 
+### Smillie Buckland (b. 1934)
+
+Charles Smillie Buckland (born March 3, 1934), Canadian can company executive from Mississauga, Ontario, attended Camp Kanawana from 1944 to 1951.^39 ^40 He traveled by train from Montreal Central Station to Saint-Sauveur at age 10. A counsellor checking campers in asked his name; when he responded "Charles Smillie Buckland," the counsellor called him "Smillie," and the nickname stuck.^39 In a published memoir for *Reader's Digest*, Buckland credited Kanawana with shaping his life and career, saying "camp changed my life" and describing the mentors who taught him leadership.^39 His years at camp (1944–1951) overlap with the critical 1947–1958 director gap in the camp's history, making him a potential oral history source for that undocumented period.
+
 ### Mike Cohen (fl. 1960s–present)
 
 Montreal media personality, Côte Saint-Luc city councillor, and columnist for *The Suburban*. Cohen attended Camp Kanawana as a child, describing it as his "favourite" among the series of camps his parents sent him to.^38 He wrote about the camp in his July 2015 column covering Terry Mosher's Pip Award ceremony, noting Mosher's return to Kanawana for the first time in more than 60 years.^38
@@ -162,3 +166,5 @@ Attended Camp Kanawana for six summers before becoming a camp counsellor and can
 36. Obituary, Douglas Warren Marston, Toronto Star / Legacy.com (2011). URL: https://www.legacy.com/obituaries/thestar/obituary.aspx?n=douglas-warren-marston&pid=154662261
 37. Obituary comment, Peter Goddard (Legacy Remembers / Toronto Star, 2022); Wikipedia, "Peter Goddard (journalist)."
 38. Cohen, Mike. "Cohen Chatter." *The Suburban* (Montreal), July 26–August 2, 2015. Column covering Terry Mosher Pip Award ceremony and personal camp memories. URL: http://blog.thesuburban.com/2015_07_26_archive.html
+39. Buckland, Smillie. "How Summer Camp Shapes Lives." *Reader's Digest Canada*. URL: https://www.readersdigest.ca/culture/how-summer-camp-shapes-lives/
+40. Prabook, "Charles Smillie Buckland." URL: https://prabook.com/web/charles_smillie.buckland/3371993

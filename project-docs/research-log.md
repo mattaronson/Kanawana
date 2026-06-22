@@ -2086,3 +2086,34 @@ Three waves of parallel research agents executed 15 research campaigns covering 
 - **pip-alumni-award.md**: Sam Lazarus birth year corrected (1979→1978).
 - **hedley-dimock.md**: Summer Camp Institutes date range expanded to 1930-1948.
 
+
+### Campaign: Alumni Discovery via Memoir and Blog Sources
+
+**Date:** 2026-06-22 (continued)
+
+| Query | Surface | Result |
+|-------|---------|--------|
+| "Smillie Buckland" Kanawana camp memoir | Google | Reader's Digest "How Summer Camp Shapes Lives" — camper 1944-1951 |
+| Prabook Charles Smillie Buckland | Google | Born March 3, 1934, can company executive |
+| "Leigh Evans" Kanawana camp blog | Google | WordPress blog, 6 summers (1 camper, 1 LIT, 4 staff) |
+| Stuart McLean OurKids interview | Google | Confirmed existing quotes (already in KB) |
+| Peter Gossage thesis supervisor McMorris | Google | Full Professor of History, Concordia — confirmed supervisor |
+| YMCA Montreal annual report archive.org | Google | Multiple IA items confirmed: 1856, 1876, 1889-90, 1891-92, 1993 |
+| Ben Hannah YMCA Kanawana reminiscence | Google | Confirmed archival document, no new details |
+| "A Log of Canada's Centenary Journey" 1971 | Google | Trent archives have Centenary Journey personnel data sheets |
+| "Kanawana Outing Club" | Google | Poster confirmed in Concordia 12B04, no web content |
+| Camp Kanawana fire building destroyed | Google | NULL — no fire documented |
+| Ottertooth oldest camps Canada | Google | Page confirmed, 403-blocked |
+| Camp Kanawana winter programming | Google | Year-round rental (6-250), limited winter (6-26) |
+
+**Key Findings:**
+
+1. **Smillie Buckland** — MAJOR FIND for director gap. Born 1934, camper 1944-1951 (ages 10-17). Traveled by train from Montreal Central Station to Saint-Sauveur. His 8 summers at Kanawana span the critical 1947-1958 director gap. Canadian can company executive (Mississauga ON). Published Reader's Digest memoir. If still living (age 92), he could identify directors from the undocumented period.
+
+2. **Leigh Evans** — contemporary alumna, 6 summers. WordPress blog with camp memories. Became teacher inspired by camp. Blog content 403-blocked.
+
+3. **YMCA Annual Reports on IA**: 1891-1892 report is HIGH PRIORITY — predates Camp Jubilee founding. 1993 report is HIGH PRIORITY — centennial year. Both proxy-blocked.
+
+4. **Peter Gossage** — McMorris thesis supervisor confirmed. Concordia History professor. Strengthens SGW-Concordia connection.
+
+5. **Centenary Journey at Trent**: Personnel data sheets, trip logs, area histories in OCA/CCA fonds. Physical access required.

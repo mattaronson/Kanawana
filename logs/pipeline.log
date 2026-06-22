@@ -2058,3 +2058,12 @@ HYPOTHESIZE — Remaining productive research requires:
 2026-06-22T18:00:02Z | FIX | pip-alumni-award: Sam Lazarus birth year corrected (1979→1978)
 2026-06-22T18:00:03Z | ENRICH | hedley-dimock: Summer Camp Institutes date range expanded (1930→1930-1948)
 2026-06-22T18:00:04Z | STATE-SAVE | KB v4.83, 488 sources, 50 E1-reviewed articles
+2026-06-22T19:00:00Z | RALPH-R | Phase 2 continued: Smillie Buckland (1944-1951 camper), Leigh Evans blog, IA YMCA annual reports, Peter Gossage thesis supervisor
+  - New alumnus: Smillie Buckland (b.1934), can company exec, Reader's Digest memoir, 1944-1951 at Kanawana
+  - New alumnus: Leigh Evans, 6 summers (1 camper, 1 LIT, 4 staff), WordPress blog
+  - McMorris thesis supervisor: Peter Gossage (Concordia History)
+  - IA items confirmed: YMCA Annual Reports 1856, 1876, 1889-90, 1891-92, 1993 + 1901 Historical Sketch
+  - New priorities: p_185 (1891-92 report), p_186 (1993 report), p_187 (McMorris PDF), p_188 (Buckland contact)
+  - KB: 5 new facts (f_1461-f_1465). 4 new sources. Total: ~1,427 facts, 492 sources.
+2026-06-22T19:00:01Z | ENRICH | notable-alumni: +Smillie Buckland entry, sources 38→40
+2026-06-22T19:00:02Z | STATE-SAVE | KB v4.83, 492 sources, 50 E1-reviewed articles

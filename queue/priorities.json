@@ -2321,6 +2321,46 @@
       "created_at": "2026-06-22T11:30:32Z",
       "priority": 3,
       "task_type": "RESEARCH"
+    },
+    {
+      "priority_id": "p_185",
+      "description": "Download YMCA Annual Report 1891-1892 from Internet Archive (archive.org/details/sgw-ymca-annual-report-1991-1992). Pre-Camp Jubilee document may contain Cushing 1892 trip details or early camping discussions.",
+      "topic": "Pre-founding YMCA annual report",
+      "status": "blocked",
+      "blocking_reason": "Internet Archive proxy-blocked in sandbox. Operator must download manually.",
+      "created_at": "2026-06-22T19:00:00Z",
+      "priority": 1,
+      "task_type": "RESEARCH"
+    },
+    {
+      "priority_id": "p_186",
+      "description": "Download YMCA Annual Report 1993 from Internet Archive (archive.org/details/sgw-ymca-annual-report-1993). Centennial-year report — likely contains details of centennial celebrations and documentary.",
+      "topic": "1993/94 centennial documentation",
+      "status": "blocked",
+      "blocking_reason": "Internet Archive proxy-blocked in sandbox. Operator must download manually.",
+      "created_at": "2026-06-22T19:00:00Z",
+      "priority": 1,
+      "task_type": "RESEARCH"
+    },
+    {
+      "priority_id": "p_187",
+      "description": "Download McMorris thesis full PDF from Concordia Spectrum (spectrum.library.concordia.ca/id/eprint/992763/1/McMorris_MA_F2023.pdf). Full thesis text would unlock substantial new KB facts beyond the partial extraction.",
+      "topic": "McMorris thesis full extraction",
+      "status": "blocked",
+      "blocking_reason": "Spectrum proxy-blocked in sandbox. Operator must download manually. PDF is publicly available.",
+      "created_at": "2026-06-22T19:00:00Z",
+      "priority": 1,
+      "task_type": "RESEARCH"
+    },
+    {
+      "priority_id": "p_188",
+      "description": "Contact Smillie Buckland (Mississauga ON, b.1934) — camper 1944-1951, overlaps 1947-1958 director gap. May know who directed camp after Hanagan/McEwen.",
+      "topic": "1947-1958 director gap witness",
+      "status": "blocked",
+      "blocking_reason": "Requires operator to locate and contact Buckland (if still living, age 92).",
+      "created_at": "2026-06-22T19:00:00Z",
+      "priority": 2,
+      "task_type": "RESEARCH"
     }
   ]
 }

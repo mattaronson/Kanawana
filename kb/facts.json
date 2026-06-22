@@ -24549,6 +24549,94 @@
       "conflicts_with": [],
       "added_version": "v4.83",
       "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1461",
+      "claim": "Charles Smillie Buckland (born March 3, 1934), Canadian can company executive from Mississauga, Ontario, attended Camp Kanawana from 1944 to 1951 (ages 10-17). He traveled by train from Montreal Central Station to Saint-Sauveur. A counsellor gave him the nickname 'Smillie' on arrival. His published memoir in Reader's Digest ('How Summer Camp Shapes Lives') credits Kanawana with shaping his life and career.",
+      "sources": [
+        "src_readers_digest_buckland",
+        "src_prabook_buckland"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "Smillie Buckland",
+        "Camp Kanawana",
+        "Montreal Central Station"
+      ],
+      "date_ref": "1944-1951",
+      "conflicts_with": [],
+      "added_version": "v4.83",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1462",
+      "claim": "Leigh Evans attended Camp Kanawana for 6 summers: 1 as camper, 1 as Leader-in-Training (LIT), and 4 as staff member. Camp inspired her to become a teacher. She maintains a WordPress blog with camp memories at leighcevans.wordpress.com.",
+      "sources": [
+        "src_leigh_evans_blog"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "Leigh Evans",
+        "Camp Kanawana"
+      ],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "v4.83",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1463",
+      "claim": "Peter Gossage, Professor of History at Concordia University, supervised the Grace McMorris MA thesis 'An Experience That Lasts a Lifetime' (2023) on Kamp Kanawana.",
+      "sources": [
+        "src_spectrum_mcmorris"
+      ],
+      "confidence": "stated",
+      "category": "sources",
+      "entities": [
+        "Peter Gossage",
+        "Grace McMorris",
+        "Concordia University"
+      ],
+      "date_ref": "2023",
+      "conflicts_with": [],
+      "added_version": "v4.83",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1464",
+      "claim": "YMCA Montreal Annual Reports from 1856, 1876, 1889-1890, and 1891-1892 are digitized on Internet Archive. The 1891-92 report (archive.org/details/sgw-ymca-annual-report-1991-1992, note URL typo) predates Camp Jubilee founding by 2 years and may document the Cushing 1892 camping trip or early outdoor activity discussions.",
+      "sources": [
+        "src_ia_ymca_reports"
+      ],
+      "confidence": "stated",
+      "category": "sources",
+      "entities": [
+        "YMCA of Montreal",
+        "Internet Archive"
+      ],
+      "date_ref": "1891-1892",
+      "conflicts_with": [],
+      "added_version": "v4.83",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1465",
+      "claim": "YMCA Annual Report 1993 is digitized on Internet Archive (archive.org/details/sgw-ymca-annual-report-1993). As the centennial year report, this would likely contain details about the 1993-1994 centennial celebrations and the Cathy Reeves documentary.",
+      "sources": [
+        "src_ia_ymca_reports"
+      ],
+      "confidence": "inferred",
+      "category": "sources",
+      "entities": [
+        "YMCA of Montreal",
+        "Internet Archive"
+      ],
+      "date_ref": "1993",
+      "conflicts_with": [],
+      "added_version": "v4.83",
+      "added_by": "ralph_loop"
     }
   ]
 }

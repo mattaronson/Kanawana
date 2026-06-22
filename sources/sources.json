@@ -7794,6 +7794,71 @@
       "reliability": "secondary",
       "notes": "Mentions Hedley S. Dimock, character education institutes, small-group-centered method."
     }
+    },
+    {
+      "source_id": "src_readers_digest_buckland",
+      "type": "periodical",
+      "title": "Buckland, Smillie. 'How Summer Camp Shapes Lives.' Reader's Digest Canada.",
+      "date": null,
+      "date_precision": "approximate",
+      "origin": "web",
+      "origin_url": "https://www.readersdigest.ca/culture/how-summer-camp-shapes-lives/",
+      "cache_path": null,
+      "char_count": 0,
+      "ingested_at": "2026-06-22T19:00:00Z",
+      "extracted": true,
+      "extraction_version": "v4.83",
+      "reliability": "primary",
+      "notes": "Buckland attended Kanawana 1944-1951. Train from Central Station. Nickname origin story. 403-blocked for full text."
+    },
+    {
+      "source_id": "src_prabook_buckland",
+      "type": "web",
+      "title": "Prabook: Charles Smillie Buckland (b. March 3, 1934), Canadian can company executive.",
+      "date": null,
+      "date_precision": "approximate",
+      "origin": "web",
+      "origin_url": "https://prabook.com/web/charles_smillie.buckland/3371993",
+      "cache_path": null,
+      "char_count": 0,
+      "ingested_at": "2026-06-22T19:00:00Z",
+      "extracted": true,
+      "extraction_version": "v4.83",
+      "reliability": "secondary",
+      "notes": "Biographical database entry. Born March 3, 1934."
+    },
+    {
+      "source_id": "src_leigh_evans_blog",
+      "type": "web",
+      "title": "Leigh Evans, 'Camp' page on WordPress blog.",
+      "date": null,
+      "date_precision": "approximate",
+      "origin": "web",
+      "origin_url": "https://leighcevans.wordpress.com/about/camp/",
+      "cache_path": null,
+      "char_count": 0,
+      "ingested_at": "2026-06-22T19:00:00Z",
+      "extracted": true,
+      "extraction_version": "v4.83",
+      "reliability": "primary",
+      "notes": "6 summers at Kanawana: 1 camper, 1 LIT, 4 staff. Became teacher inspired by camp. 403-blocked for full text."
+    },
+    {
+      "source_id": "src_ia_ymca_reports",
+      "type": "report",
+      "title": "YMCA of Montreal Annual Reports (Internet Archive digitized collection): 1856, 1876, 1889-1890, 1891-1892, 1993.",
+      "date": "1856-1993",
+      "date_precision": "exact",
+      "origin": "internet_archive",
+      "origin_url": "https://archive.org/search?query=creator%3A%22Young+Men%27s+Christian+Association+%28YMCA%29+of+Montreal%22",
+      "cache_path": null,
+      "char_count": 0,
+      "ingested_at": "2026-06-22T19:00:00Z",
+      "extracted": false,
+      "extraction_version": null,
+      "reliability": "primary",
+      "notes": "Multiple YMCA Montreal annual reports digitized on IA. Key items: 1891-92 (pre-Camp Jubilee), 1993 (centennial year). All proxy-blocked in sandbox — operator must download."
+    }
   ],
-  "source_count": 488
+  "source_count": 492
 }
