@@ -2,7 +2,7 @@
 
 <!-- status: E1-reviewed -->
 <!-- confidence: medium-high -->
-<!-- last_updated: 2026-06-22 -->
+<!-- last_updated: 2026-06-22 (Woodcraft League and McGill Camping School research integrated) -->
 <!-- last_editor: session3 -->
 <!-- ralph_loops: canadian-camping-movement-R1, canadian-camping-movement-V1, canadian-camping-movement-R2 -->
 
@@ -64,9 +64,9 @@ The CCA published *Canadian Camping* magazine from 1949 to 1988; digitized issue
 1. [Important] Who was Derek Walsh beyond his CCA connection? He received the CCA Award of Excellence in 1983 representing the ACQ, and the CCA fonds at Trent associates him with Kamp Kanawana/YMCA Montreal.^8m His specific role at Kanawana (director? program leader? committee member?) remains unknown.
 2. [Important] Did any Kanawana directors attend OCA or CCA meetings or serve in leadership roles?
 3. [Important] How did Kanawana's programming compare to the Taylor Statten model? Both used woodcraft, Indigenous themes, and character development.
-4. [Important] What do the 1937–1940 McGill camping school records contain? This training program may have involved Kanawana staff.
+4. [Partially resolved] The QCA/CCA organized a formal Camping School at McGill University from 1937 to 1940, one of the earliest camp leader training programs in Canada. A related "camping evening course" at McGill was held in 1952. No direct Kanawana staff participation has been confirmed, though the institutional overlap is strong. Arthur S. Lamb (1886-1958), a former Vancouver YMCA PE director and Springfield College graduate, directed McGill PE for 37 years (1919-1956) and established Canada's first university PE department — a key institutional bridge between YMCA and university training. McGill PE students attended a "Camp School" at Camp Nominingue (founded 1925) learning camping, paddling, portaging, and axe use in the 1940s-1950s.^8p
 5. [Nice-to-have] What is in the OCA "Kanawana (1940)" brochure file at Trent? It may contain the earliest surviving camp brochure.
-6. [Nice-to-have] Did Ernest Thompson Seton's Woodcraft League influence Kanawana directly? The 1922 brochure mentions a Woodcraft League charter.
+6. [Partially resolved] Philip D. Fagans, executive secretary of Ernest Thompson Seton's Woodcraft League of America (headquartered at 13 West 29th St, NYC), visited Camp Kanawana in July 1918 as reported in the *Montreal Gazette* (July 11, 1918).^8q This is the earliest documented Woodcraft League connection. Fagans was previously a YMCA camp director at Trenton NJ and West Side YMCA NYC, and later founded Greenkill Camp in Kingston NY. A Woodcraft League charter cost $3.00 annually; it "certif[ied] that the Tribe is registered at Headquarters" and entitled the tribe to recognize achievements per the *Birch Bark Roll of Woodcraft* and wear League badges.^8q "Almost all [Woodcraft] tribes operated within the YMCA" — the YMCA was the primary institutional host for Woodcraft Indian tribes.^8q The League peaked at ~5,000 members in the 1920s-1930s and dissolved after Seton's death in 1946.^8q The 1923 Kanawana brochure mentions "a large Council Ring where woodcraft meetings are held" but does not explicitly reference the charter, possibly indicating the formal affiliation was being de-emphasized by 1923.^8q
 
 ## Related Articles
 
@@ -106,6 +106,8 @@ The CCA published *Canadian Camping* magazine from 1949 to 1988; digitized issue
 8n. Camp Stephens Alumni Blog, 2013: Nelson McEwen biography (campstephensalumni.blogspot.com). McEwen co-founded CCA with Statten. Blog states founding in 1946; CCA official records say 1936. McEwen's role may relate to a 1946 reorganization rather than the original founding.
 8o. Doug McEwen (Ontario) served as CCA President 1967-1969 per CCA past presidents list (ccamping.org/history). Associated with YMCA Camp Wa-Sa-Ah-Dun, St. Catharines, Ontario in CCA fonds at Trent. Possible son of Nelson McEwen.
 13. Wikipedia, "Edgar M. Robinson." URL: https://en.wikipedia.org/wiki/Edgar_M._Robinson; ACA, "Timeline of ACA and Summer Camp." URL: https://www.acacamps.org/about/history/timeline
+8p. Research campaign 2026-06-22 (McGill Camping School). Concordia Archives P0145/12N03. McGill PE alumni testimonials (KPE alumni page). Arthur S. Lamb biography (McGill archives). Camp Nominingue "Camp School" alumni recollections.
+8q. Research campaign 2026-06-22 (Woodcraft League). *Montreal Gazette*, July 11, 1918 (via Newspapers.com/newspage/419701340). histclo.com Woodcraft League article. Woodcraft Manual for Boys (1917 Birch Bark Roll). Philip D. Fagans as ACA president (acacamps.org/history/presidents).
 
 ## Research Notes
 

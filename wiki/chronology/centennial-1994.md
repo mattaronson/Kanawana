@@ -6,8 +6,8 @@
 <!-- last_editor: v54 -->
 <!-- ralph_loops: centennial-1994-R1, centennial-1994-W1, centennial-1994-V1, centennial-1994-E1 -->
 
-*Status: E1-reviewed | Sources: 9*
-*Last Updated: 2026-06-21*
+*Status: E1-reviewed | Sources: 10*
+*Last Updated: 2026-06-22*
 
 ## Overview
 
@@ -33,7 +33,9 @@ In 1993, one year before the centennial, a documentary titled *Kamp Kanawana: Th
 
 ## Context
 
-The centennial was the camp's first major milestone celebration to be documented in surviving materials. The 95th anniversary reunion on April 7, 1989 (with "95 years of sharing" promotional materials) preceded it. Later milestone events include the 120th anniversary reunion at Victoria Hall, Montreal on September 5, 2014, and the 125th anniversary "Family, Alumni, and Friends Weekend" at camp in summer 2019.^1 ^4 ^5
+The centennial was the camp's first major milestone celebration to be documented in surviving materials. The 95th anniversary reunion on April 7, 1989 (with "95 years of sharing" promotional materials) preceded it. Later milestone events include the 120th anniversary reunion at Victoria Hall, Westmount on September 5, 2014 (announced via YMCA Quebec newsroom August 11, 2014), and the 125th anniversary "Family, Alumni, and Friends Weekend" at camp in summer 2019.^1 ^4 ^5 The anniversary formats varied: the 95th and 120th were off-site urban venues, while the 125th was on-site at camp. The 100th format remains unknown.
+
+Camp Nakanawa (Tennessee), a comparable American camp, held its own 100th anniversary (Jul 19-21) drawing 750+ alumni, families, and friends for a multi-day on-site celebration — suggesting a possible model for what Kanawana may have done.^10
 
 Bruce Netherwood was Director of Camp Kanawana from 1988 to 1994, meaning the centennial fell during his tenure; he had succeeded his brother Jay Netherwood, who directed the camp in 1986–1987.^6 ^7 Netherwood later received the [[programs/pip-alumni-award|Pip Alumni Award]] in 2011 and went on to become Vice President of Camping & Social Responsibility at South Shore YMCA in Hanover, Massachusetts, overseeing Camp Burgess & Hayward.^8
 
@@ -65,3 +67,4 @@ Bruce Netherwood was Director of Camp Kanawana from 1988 to 1994, meaning the ce
 7. Concordia University Archives finding aid P0145/12B04; oral history.
 8. South Shore YMCA, Camp Burgess & Hayward staff listing; YMCA Quebec Pip Award press releases.
 9. *Le Devoir* (Montreal), issues of January 15, July 6, and October 24, 1994. Identified via BAnQ numérique search; full texts require in-person or card-holder access.
+10. Camp Nakanawa (Tennessee) centennial as comparator. Research campaign 2026-06-22.

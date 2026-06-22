@@ -2,7 +2,7 @@
 
 <!-- status: E1-reviewed -->
 <!-- confidence: high -->
-<!-- last_updated: 2026-02-14 -->
+<!-- last_updated: 2026-06-22 -->
 <!-- last_editor: v50 -->
 <!-- ralph_loops: centennial-1967-R1, centennial-1967-V1 -->
 
@@ -26,15 +26,30 @@ The Pageant's significance as a nationalist project has been analyzed by Misao D
 
 ## The CCA Centenary Journey
 
-Running in parallel with the competitive Pageant, the Canadian Camping Association organized its own Centenary Journey — a coast-to-coast youth canoe trip with campers from every province responsible for paddling a different section of the route.^9 This was a camping and educational program rather than a race, organized primarily by Bruce W. Hodgins (1931–2019), a professor of History at Trent University and director of Camp Wanapitei.^10
+Running in parallel with the competitive Pageant, the Canadian Camping Association organized its own Centenary Journey — a coast-to-coast youth canoe trip with campers from every province responsible for paddling a different section of the route in a relay structure.^9 This was a camping and educational program rather than a race, organized primarily by Bruce W. Hodgins (1931–2019), a professor of History at Trent University and director of Camp Wanapitei.^10 John Latimer, OCA President 1967-68 and owner of Camp Kilcoo (author of *Maker of Men: The Kilcoo Story*), coordinated the overall journey.^16
+
+Known section assignments included:^16
+
+| Section | Camp | Affiliation |
+|---------|------|-------------|
+| British Columbia (Fraser River) | Camp Deka | YMCA, Kamloops |
+| Fort Francis to Camp Stephens | Camp Kandalore senior boys | Private, Ontario |
+| Lake Superior | Camp Kandalore Nor'wester alumni staff | Private, Ontario |
+| Winnipeg River to Lake Winnipeg | Camp Stephens | YMCA, Winnipeg |
+| Saskatchewan | Regina YMCA Camp | YMCA, Saskatchewan |
+| Ottawa River (Deep River to Britannia Beach) | Camp Kanawana | YMCA, Montreal |
+
+Kirk Wipper (Camp Kandalore, founder of the Canadian Canoe Museum) volunteered his camp for the dangerous Lake Superior section when no youth camp stepped forward, using Nor'wester alumni staff paddling two 25-foot Chestnut wood-canvas canoes.^16
 
 ## Kanawana's Participation
 
 Six Kanawana boys and two counsellors paddled from Deep River, Ontario to Britannia Beach on the west side of Ottawa — a distance described as 150 miles — between August 2 and August 9, 1967.^1 Deep River, historically the oldest and most well-established site of voyageur ritual baptism on the fur trade route, was chosen as the starting point for the Quebec section.^1 The trip leader, Yves St. Pierre, wrote the required historical essay documenting the route, covering the Ottawa River valley from its archaeological prehistory through Champlain's 1613 exploration and the fur trade era.^1 Participants wore colourful plaid "lumberman" shirts and decorated their canoes with decals and crests.^1 [*Note: The navigable Ottawa River distance between these points is approximately 120 miles; the 150-mile figure may include tributary detours or portage distances.*]
 
+Derek Walsh represented "Kamp Kanawana, YMCA, Montreal, Quebec" in CCA Centenary Journey planning, as documented in the CCA fonds at Trent University Archives. It is unclear whether Walsh served as the second counsellor or was involved only in planning.^16
+
 Upon the paddlers' arrival at Britannia Beach, a busload of Kanawana campers greeted them, singing the Kanawana camp song.^1 The *Ottawa Journal* covered the arrival on August 10, 1967 (Figure 3.5 in the McMorris thesis shows the campers arriving).^1 ^15
 
-Other camps also participated: Regina YMCA Camp paddled the Saskatchewan section, and Camp Deka handled the British Columbia leg from Mahood Lake.^9
+A published account of the full journey, *A Log of Canada's Centenary Journey* (1971), likely contains participant rosters by section, but appears out of print and not digitized.^16
 
 ## The Centennial in Broader Context
 
@@ -80,6 +95,7 @@ The McMorris thesis devotes its third chapter — "The National(ist) Vehicle" �
 13. Paddle Canada, "A Brief History," https://paddlecanada.com/paddle-canada-a-brief-history/
 14. Concordia University Archives, YMCA of Montreal Fonds P145, sub-series 13E.
 15. *The Ottawa Journal*, August 10, 1967. Photo of Kanawana campers arriving in Ottawa.
+16. Research campaign 2026-06-22 (44 searches, 18 WebFetch attempts). Trent University Archives OCA fonds (72-007) and CCA fonds (78-004). CCA history page. Camp Stephens Alumni Blog. Kandalore Nor'westers Blog. *A Log of Canada's Centenary Journey* (1971). Derek Walsh in CCA fonds as Kanawana representative. John Latimer as coordinator, Kirk Wipper for Lake Superior section.
 
 ## Research Notes
 
