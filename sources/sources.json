@@ -170,13 +170,13 @@
       "date_precision": "year",
       "origin": "web",
       "origin_url": "https://spectrum.library.concordia.ca/id/eprint/992763/",
-      "cache_path": "sources/cache/theses/mcmorris_thesis_full.txt",
+      "cache_path": "sources/cache/web-pages/mcmorris_thesis.txt",
       "char_count": 185000,
       "ingested_at": "2026-02-10T00:00:00Z",
       "extracted": true,
       "extraction_version": "4.17",
       "reliability": "secondary",
-      "notes": "Grace McMorris MA thesis, Concordia. Supervisor Dr. Peter Gossage. Examining committee: Dr. Elena Razlogova (chair), Dr. Gavin Taylor, Dr. Theresa Ventura. Full text ingested 2026-03-14. All chapters + Introduction + Conclusion + Bibliography extracted. 148 facts in KB (f_0001-f_0662 partial, f_0663-f_0700 from full text extraction v4.17). Full text provided by user in session."
+      "notes": "Grace McMorris MA thesis, Concordia. Supervisor Dr. Peter Gossage. Full text provided by user in prior sessions and fully extracted. 148 facts in KB. Cache file contains HTML landing page only; thesis text was processed directly from user input."
     },
     {
       "source_id": "src_ymca_website",
@@ -1709,10 +1709,10 @@
       "cache_path": null,
       "char_count": 0,
       "ingested_at": "2026-02-28T00:00:00Z",
-      "extracted": false,
-      "extraction_version": null,
+      "extracted": true,
+      "extraction_version": "4.17",
       "reliability": "secondary",
-      "notes": "Duplicate reference for McMorris thesis with Spectrum URL. See src_mcmorris_thesis for primary reference. Author: Grace McMorris. Supervisor: Peter Gossage. MA thesis, Concordia History Department, August 2023."
+      "notes": "Duplicate reference. See src_mcmorris_thesis. Thesis already fully extracted (148 facts)."
     },
     {
       "source_id": "src_nouvelles_laurentides_kanawana_2024",
@@ -7757,10 +7757,10 @@
       "cache_path": null,
       "char_count": 0,
       "ingested_at": "2026-06-22T18:00:00Z",
-      "extracted": false,
-      "extraction_version": null,
+      "extracted": true,
+      "extraction_version": "4.17",
       "reliability": "secondary",
-      "notes": "Full PDF publicly available on Concordia Spectrum. Also indexed on CORE.ac.uk. Chapters: active Christian citizenship, playing Indian, myth of the voyageur. 403-blocked in sandbox but accessible via browser."
+      "notes": "Duplicate reference. See src_mcmorris_thesis. Thesis already fully extracted (148 facts). User provided text in prior sessions."
     },
     {
       "source_id": "src_kass_icc_2008",
