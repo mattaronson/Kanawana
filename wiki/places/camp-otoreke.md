@@ -1,7 +1,7 @@
 # Camp Otoreke
 
 *Status: E1-reviewed | Sources: src_qahn_howard, src_mcmorris_thesis, src_gas_bag_1923, src_history_1935, src_concordia_fonds, src_kanawana_facts, src_ebay_otoreke_postcard, src_wikipedia_saint_adolphe, src_ymca_website, src_baladodecouverte_howard*
-*Last Updated: 2026-02-19 (E1 REVIEW pass v52)*
+*Last Updated: 2026-06-24*
 
 ## Overview
 
@@ -16,6 +16,8 @@ Saint-Adolphe-d'Howard is a municipality in the Laurentians region of Quebec, in
 ## Founding as Camp Jubilee (1894)
 
 In 1892, Lemuel Cushing of the Montreal YMCA inaugurated the camping program by bringing a group of boys to Lake Saint-Joseph.^1 In 1893, YMCA staff conducted an exploration trip to the area, described as "the first Montreal YMCA venture to explore the country round about St. Agathe with the view of securing a lake on which to establish a Summer Camp."^4 Billy Ball formally established Camp Jubilee in summer 1894, bringing 20 campers to the Lake Saint-Joseph site.^5 ^6 The camp was named to commemorate the YMCA's 50th anniversary (founded 1844).^6
+
+A BaladoDiscovery heritage tour states that the YMCA acquired the island in 1897 and accommodated 80 campers.^14 This conflicts with the QAHN account of "three islands" (see conflict c_008); the BaladoDiscovery source refers to "two islands acquired in 1897."^14 The 1897 date may refer to a formal purchase of property that had been used informally since 1894, and the "80 campers" figure, if accurate, would indicate rapid growth within the program's first three years.
 
 ## Transition to Camp Otoreke (1909-1910)
 
@@ -77,3 +79,4 @@ Camp Otoreke closed in 1982 after nearly 90 years of continuous operation.^1 The
 11. BaladoDecouverte, "Saint-Adolphe-d'Howard History" heritage tour. URL: https://baladodecouverte.com/circuits/900/poi/10164/saint-adolphe-d-howard-history
 12. BaladoDecouverte heritage tour: Camp Kinkora and regional camping context.
 13. BaladoDecouverte heritage tour: CPR railway access since 1892, distance to Sainte-Agathe station.
+14. BaladoDecouverte, Saint-Adolphe-d'Howard heritage tour: YMCA island acquisition 1897, 80 campers. (Note: conflicts with QAHN on island count — see c_008.)

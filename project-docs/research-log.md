@@ -2243,3 +2243,85 @@ Three waves of parallel research agents executed 15 research campaigns covering 
 
 ### Assessment
 Web research is genuinely exhausted across all major search surfaces. Five independent background agents running 100+ combined queries across Google, IA, Facebook, Reddit, Concordia AtoM, YMCA Quebec, and specialized databases confirmed that the KB's coverage is comprehensive. The remaining open questions require physical archive access (Concordia P0145 fonds), paywalled databases (Newspapers.com, BAnQ), or operator input (oral history, downloaded PDFs).
+
+---
+
+## Campaign 20: Exhaustive Open Questions Audit + Agent Deep Dives
+*Date: 2026-06-24*
+*Scope: Systematic audit of all ~265-280 open questions across 50 articles; deep biographical research on Harold C. Cross and Ralph H. Dawson; processing of 8 completed background agents*
+
+### Methodology
+1. Extracted ALL open questions from all 50 wiki articles (~265-280 questions total)
+2. Cross-referenced every Critical question against research log campaigns 1-19
+3. Launched 8+ background agents for parallel research across biographical, institutional, and topical domains
+4. Processed agent results systematically, filtering for genuinely new information
+
+### Agent Results Summary
+
+**Agent: Harold C. Cross biography** (40+ searches, WebSearch + FamilySearch + Find A Grave + genealogy databases)
+- **NEW FINDING**: Harold C. Cross was based at the Victoria, British Columbia YMCA from 1919 to 1925 before coming to Montreal. "Personal Reminiscences-Victoria, B.C. 1919-25, by Harold C. Cross" (1967) held in Concordia Archives sub-series 14H.
+- Established career trajectory: Victoria BC YMCA (1919-1925) → Camp Kanawana director (c. 1925-1928) → National Boys' Work (1938-1945) → YMCA historian (1949-1951+)
+- FamilySearch Harold Cross (1913-1989) ruled out — too young
+- No birth/death dates, middle name, or personal details found despite exhaustive search
+- **Result**: f_1519 added, harold-cross.md updated
+
+**Agent: Ralph H. Dawson biography** (40+ searches, WebSearch + genealogy + newspapers + census)
+- No new biographical information found
+- Confirmed: Ralph H. Dawson remains un-findable through online sources
+- Lead: Concordia Archives 13D "Material for Book of Remembrance" (Joyce Oliver, 1939-1940) may contain biographical file
+- All known facts confirmed: 1898 Camp Jubilee photo, 1933 History of Kamp Kanawana
+- **Result**: Research exhausted per Phase 2 standard. No new facts.
+
+**Agent: Camp Otoreke / Saint-Adolphe-d'Howard** (processed from earlier batch)
+- BaladoDiscovery heritage tour: YMCA acquired island 1897, 80 campers
+- Conflict c_008 created: QAHN "three islands" vs BaladoDiscovery "two islands acquired 1897"
+- **Result**: f_1502-f_1503 added, camp-otoreke.md updated
+
+**Agent: McConnell / institutional connections** (processed from earlier batch)
+- YMCA was McConnell's "favourite organization"
+- 1971 Foundation proposal in Concordia 5E07
+- Standard Chemical Company biographical context
+- **Result**: f_1504-f_1506 added, j-w-mcconnell.md updated
+
+**Agent: Yves St-Pierre / Centennial Journey** (processed from earlier batch)
+- Obituary lead: Yves St-Pierre died Jan 31, 2020, age 76, Montreal — consistent with ~23 in 1967
+- **Result**: f_1507 added, centennial-1967.md updated
+
+**Agent: Environmental / green shift** (processed from earlier batch)
+- TELUS $50,000 three-season educational pavilion (2010)
+- Green shift enabled "four times more young people"
+- **Result**: f_1508, f_1510 added, environmental-history.md updated
+
+**Agent: L&V Games / traditions** (processed from earlier batch)
+- Lumbermen = "Bûcherons" in French
+- **Result**: f_1509 added, lv-games.md updated
+
+**Agent: Cushing family / genealogy** (processed from earlier batch)
+- Harold Beveridge Cushing: McGill faculty 1902, founded Dept of Pediatrics 1937, co-founded Montreal Children's Hospital 1904
+- Thomas Hubert Cushing: Montreal Royals baseball minority owner (Jan 1908)
+- Cushing genealogy 1905-1969 supplement on FamilySearch (item 235744)
+- Walter Edgar Cushing disambiguation: different W.E. Cushing at Dartmouth 1909 / New England YMCA
+- **Result**: f_1511-f_1515 added, cushing-family.md updated
+
+**Agent: Pagé family / Saint-Sauveur** (processed from earlier batch)
+- Jean-Baptiste Desjardins among first côte Saint-Elmire settlers alongside Magloire Pagé (~1837)
+- Mickey Stein: married Sheila Joan Vineberg 1955, died May 16, 1985; Mont-Habitant Dev Ltd incorporated Jul 27, 1959
+- Second Télesphore Pagé (b. April 1908, grocery on rue de la Gare)
+- **Result**: f_1516-f_1518 added, page-family.md updated
+
+### KB Impact
+- 18 new facts added (f_1502-f_1519). Total: 1,481.
+- 9 new sources added. Total: 517.
+- 1 new conflict (c_008: Otoreke island count)
+- 8 wiki articles updated with new facts and sources
+- KB version: v4.86 → v4.87
+
+### Open Questions Exhaustion Audit Result
+All ~265-280 open questions across 50 articles were extracted and cross-referenced against the research log. Findings:
+- **Virtually all Critical questions have been researched to Phase 2 exhaustion** (8+ queries across 3+ search surfaces)
+- Remaining unresolved Critical questions are blocked on:
+  - (a) Physical archive access (Concordia P0145 fonds)
+  - (b) Operator actions (borrow Fong book from IA, download McMorris PDF from Spectrum, visit BAnQ)
+  - (c) Paywalled databases (Newspapers.com, Registre foncier du Québec)
+  - (d) Oral history from operator
+- No Critical question remains actionable through web research alone

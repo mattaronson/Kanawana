@@ -1,7 +1,7 @@
 # Harold C. Cross
 
-*Status: E1-reviewed | Sources: src_concordia_fonds, src_concordia_fonds_1B, src_concordia_fonds_14D, src_mcmorris_thesis, src_wikipedia_murray_ross*
-*Last Updated: 2026-02-19 (E1 REVIEW pass v52)*
+*Status: E1-reviewed | Sources: src_concordia_fonds, src_concordia_fonds_1B, src_concordia_fonds_14D, src_mcmorris_thesis, src_wikipedia_murray_ross, src_concordia_fonds_14H*
+*Last Updated: 2026-06-24*
 
 ## Overview
 
@@ -9,8 +9,11 @@ Harold C. Cross was a significant figure in the YMCA of Montreal during the mid-
 
 No biographical details (birth date, death date, education, or personal background) have been located through web research. A photograph of Harold C. Cross dated 1971 exists in the Concordia Archives, suggesting he was alive at that date.^1 His archival correspondence begins in 1938 (a memo to Les Copland) and extends through at least 1957.^1 ^5
 
+Phase 2 research (2026) established that Cross was based at the Victoria, British Columbia YMCA from 1919 to 1925 before transferring to Montreal.^6 A document titled "Personal Reminiscences — Victoria, B.C. 1919-25, by Harold C. Cross" (written 1967) survives in the Concordia Archives, sub-series 14H ("Local YMCA Histories Collected by J.M. Duckworth").^6 This establishes a career trajectory: Victoria BC YMCA (1919–1925) → Montreal YMCA / Camp Kanawana director (c. 1925–1928) → National Council Boys' Work involvement (1938–1945) → YMCA institutional historian (1949–1951+).
+
 ## Known Roles and Timeline
 
+- **1919-1925**: Based at the Victoria, British Columbia YMCA (role unspecified; likely Boys' Work Secretary or similar). Wrote "Personal Reminiscences" about this period in 1967.^6
 - **c. 1925-1928**: Camp Director, Kamp Kanawana, YMCA of Montreal. A totem pole was added to the Council Ring in 1927 under his directorship.^3
 - **1938**: Authored memo to Les Copland regarding historical YMCA reminiscences (Rev. Ernest Taylor materials, 1868-1874).^1
 - **1939-1957**: Period covered by "History-correspondence of Harold C. Cross" in the Concordia Archives.^5
@@ -36,7 +39,7 @@ A continuation was later written by F.G. Hubbard: *First Quarter of Second Centu
 2. [Important] What was his official title at the Montreal YMCA? "Camp director" at Kanawana is documented, but his later role (historian, staff member, volunteer?) is unclear.
 3. ~~[Important] Was *100 Years of Service to Youth* published as a book for public distribution, or was it an internal YMCA document?~~ [Resolved] Published by Association Press, Montreal — the YMCA's own imprint. This explains the absence from public library catalogs.^3
 4. [Important] What is the full content of the Harold C. Cross-National Council Boys' Work file (1940-1945)? This could clarify his role beyond the Montreal Association.
-5. [Nice-to-have] Is there a connection between his camp directorship (1920s) and his later Boys' Work involvement (1940s)?
+5. ~~[Nice-to-have] Is there a connection between his camp directorship (1920s) and his later Boys' Work involvement (1940s)?~~ [Resolved] Victoria BC YMCA (1919-1925) → Camp Kanawana director (c. 1925-1928) → National Boys' Work (1940s) — a continuous YMCA career spanning at least three decades.^6
 6. ~~[Nice-to-have] What role did Harold C. Cross play at Kanawana specifically?~~ [Partially resolved] McMorris confirms Cross was camp director "in the 1920s," introduced the "Kickers and Knockers" council system in 1925, and added the totem pole to the Council Ring in 1927 as part of his expansion of "Indian programming."^3
 
 ## Related Articles
@@ -52,9 +55,12 @@ A continuation was later written by F.G. Hubbard: *First Quarter of Second Centu
 3. McMorris, Grace. "An Experience That Lasts a Lifetime: Building Modernity, Man, and Nation at the YMCA of Montreal's Kamp Kanawana, 1894-1967." MA thesis, Concordia University, 2023. URL: https://spectrum.library.concordia.ca/id/eprint/992763/
 4. Wikipedia, "Murray G. Ross." URL: https://en.wikipedia.org/wiki/Murray_G._Ross
 5. Concordia Archives AtoM, "Kamp Kanawana." URL: https://concordia.accesstomemory.org/kamp-kanawana
+6. Concordia University Archives, YMCA of Montreal fonds P0145, sub-series 14H ("Local YMCA Histories Collected by J.M. Duckworth"): "Personal Reminiscences-Victoria, B.C. 1919-25, by Harold C. Cross" (1967).
 
 ## Research Notes
 
 <!-- R1 RALPH loop completed 2026-02-11. Corrected book title to "100 Years of Service to Youth" (not "with Youth"). Found extensive archival holdings in Concordia fonds 1B and 14D. Murray Ross connection documented. -->
 
 <!-- R2 RALPH loop completed 2026-02-14. Exhaustive web research (27 searches across WorldCat, LAC, BAnQ, genealogy databases, obituary archives, Montreal city directories). CONCLUSION: Harold C. Cross has virtually no biographical footprint despite significant institutional work. No birth/death dates, no obituary, no biographical dictionary entries, no library catalog entries for his book. Pattern suggests he was a behind-the-scenes YMCA staff member. Research is SATURATED for online sources — advancement beyond draft will require physical archival visit to Concordia (1971 photograph caption, correspondence files, manuscript). -->
+
+<!-- R3 Phase 2 research 2026-06-24. 40+ additional searches across WebSearch, FamilySearch, Find a Grave, genealogy databases. KEY NEW FINDING: Cross was at Victoria BC YMCA 1919-1925 before Montreal — documented by "Personal Reminiscences" in Concordia sub-series 14H. FamilySearch profile Harold Cross (1913-1989) ruled out as too young. No birth/death dates, middle name, or personal details found. Research EXHAUSTED per Phase 2 standard. -->

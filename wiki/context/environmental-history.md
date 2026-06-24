@@ -1,7 +1,7 @@
 # Environmental Education and Stewardship at Kanawana
 
 *Status: E1-reviewed | Sources: 19*
-*Last Updated: 2026-06-22 (RSVL station 573 confirmed, Swim Guide listing, lake data refined)*
+*Last Updated: 2026-06-24*
 
 ## Overview
 
@@ -13,7 +13,7 @@ The camp's environmental identity rests on three pillars: infrastructure investm
 
 ### The Green Shift (2006–2009)
 
-The camp's "virage vert" (green shift) began in 2006 with the goal of reducing Kanawana's ecological footprint and repositioning it as an outdoor education centre; every building renovated or constructed from 2006 onward was energy-efficient and incorporated educational elements.^17 In February 2009, Les Y du Québec announced a further revitalization phase with new accommodation facilities; environmental features documented at the time included green sanitary installations, heat exchangers, composting toilets, and an artificial wetland system (marais artificiel) for wastewater treatment.^17
+The camp's "virage vert" (green shift) began in 2006 with the goal of reducing Kanawana's ecological footprint and repositioning it as an outdoor education centre; every building renovated or constructed from 2006 onward was energy-efficient and incorporated educational elements.^17 The green shift enabled the camp to serve "four times more young people" than before, transforming it from a summer-only operation into a three-season environmental education facility.^22 In February 2009, Les Y du Québec announced a further revitalization phase with new accommodation facilities; environmental features documented at the time included green sanitary installations, heat exchangers, composting toilets, and an artificial wetland system (marais artificiel) for wastewater treatment.^17 In 2010, TELUS contributed $50,000 toward a three-season educational pavilion at the camp.^23
 
 ### Composting System
 
@@ -121,3 +121,5 @@ The Canadian Summer Camp Research Project (CSCRP, 2006–2011), conducted by the
 19. Dawson College Newsroom, "Chris Adam to receive Governor General's Meritorious Service Medal." URL: https://www.dawsoncollege.qc.ca/news/dawsons-chris-adam-to-receive-governor-generals-meritorious-service-decoration/
 20. Dawson College, Chris Adam researcher profile. URL: https://www.dawsoncollege.qc.ca/research/researchers/adam-chris/
 21. Port of Montreal, "C-Vert — A green program that changes lives." URL: https://www.port-montreal.com/en/the-port-of-montreal/news/news/logbook/neighbours-c-vert
+22. YMCA Quebec / Camp Kanawana promotional materials: green shift enabling "four times more young people."
+23. TELUS Community Board, 2010: $50,000 contribution toward three-season educational pavilion at Camp Kanawana.

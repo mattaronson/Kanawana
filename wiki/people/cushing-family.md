@@ -2,7 +2,7 @@
 
 <!-- status: E1-reviewed -->
 <!-- confidence: medium -->
-<!-- last_updated: 2026-06-11 -->
+<!-- last_updated: 2026-06-24 -->
 <!-- last_editor: v52 -->
 <!-- ralph_loops: cushing-family-stub, cushing-family-R1, cushing-genealogy-extraction, p_126-genealogy-full-mine -->
 
@@ -33,6 +33,10 @@ Lemuel Jr. was called to the Montreal bar in 1865 and served as president of the
 
 Lemuel Jr. and Ellen had four children, all born in Montreal: Walter Edgar (b. 1870), Harold Beveridge (b. 1873, later a physician at Royal Victoria Hospital), Florence Ethelwyn (b. 1874), and James Stevenson (b. 1878).^6 None were named Lemuel.
 
+### Harold Beveridge Cushing (1873–?)
+
+Harold Beveridge Cushing, Lemuel Jr.'s second son, became a prominent physician. He joined the McGill University Faculty of Medicine in 1902 and co-founded the Montreal Children's Hospital in 1904.^8 In 1937, he founded the Department of Pediatrics at McGill, and the university's Cushing Memorial Prize is named in his honour.^8 His medical career aligns with the "Dr. Cushing" who advised keeping Camp Kanawana open during the 1946 polio outbreak — as a pediatrician, he was exactly the specialist whose advice would have been sought for a decision affecting children.^4
+
 James Stevenson Cushing published an expanded 598-page second edition of the family genealogy in 1905 (Montreal: Perrault Printing Co.).^6
 
 ## The 1892 Camping Pioneer
@@ -55,12 +59,16 @@ Thomas Cushing founded the Montreal Brewing Company in 1876, which produced Indi
 
 **Charles Cushing** is mentioned in YMCA research reports held in Concordia Archives sub-series 13D, suggesting involvement with YMCA governance or legal affairs alongside his notarial career.^5
 
-**Dr. Cushing** advised keeping Camp Kanawana open during the 1946 polio outbreak — six cases were reported, canoe trips were cancelled, but the camp remained open on his advice.^4
+**Dr. Cushing** advised keeping Camp Kanawana open during the 1946 polio outbreak — six cases were reported, canoe trips were cancelled, but the camp remained open on his advice.^4 Phase 2 research confirmed that Harold Beveridge Cushing founded McGill's Department of Pediatrics in 1937 and co-founded the Montreal Children's Hospital in 1904 — as the leading pediatric specialist in Montreal, he was the natural choice for advising on a children's camp during a polio outbreak.^8
+
+## Disambiguation: Other Walter Edgar Cushings
+
+A different **Walter Edgar Cushing** (Dartmouth College, Class of 1909) served with the International Committee of the YMCA in New England and is documented in Dartmouth alumni records.^9 This is not the Montreal Cushing family's Walter Edgar (b. 1870) — the Dartmouth graduate would have been born c. 1887 and operated in a different YMCA jurisdiction. The Cushing genealogy supplement (1905-1969), available on FamilySearch (item 235744), may clarify whether any additional connections exist between the Montreal and New England Cushing branches.^10
 
 ## Open Questions
 
 1. [Critical] The 1892 "Lemuel Cushing" — was this Walter Edgar Cushing (22), Harold Beveridge Cushing (19), or the 16-year-old Lemuel (son of James Brock)? The 1893 camper lists in Concordia Archives 12L should resolve this.
-2. [Critical] Are W.E. Cushing (1943 historian) and Dr. Cushing (1946 medical advisor) the same person? Almost certainly not: the 1905 genealogy shows they would be brothers — W.E. = Walter Edgar (b. 1870, the only W.E. in the Montreal branch), while the 1946 Dr. Cushing matches Harold Beveridge Cushing (b. 1873, McGill M.D. 1898, Physician to the Children's Hospital — a pediatrician, exactly as the 1946 polio account describes). Confirmation requires the 1946 season report (Concordia P0145/12A).
+2. ~~[Critical] Are W.E. Cushing (1943 historian) and Dr. Cushing (1946 medical advisor) the same person?~~ [Substantially resolved] Almost certainly not: W.E. = Walter Edgar (b. 1870), while Dr. Cushing = Harold Beveridge Cushing (b. 1873), who founded McGill's Department of Pediatrics (1937) and co-founded Montreal Children's Hospital (1904).^8 A pediatrics founder is exactly who would advise on a children's camp during a polio outbreak. Final confirmation requires the 1946 season report (Concordia P0145/12A).
 3. [Important] What is the full text of W.E. Cushing's 1943 Lake Saint-Joseph historical sketches?
 4. [Nice-to-have] Did Thomas Cushing's Montreal Brewing wealth fund early YMCA camping operations?
 5. [Nice-to-have] What became of the 16-year-old Lemuel Cushing (b. 1875, chartered accountant by 1905)?
@@ -81,6 +89,9 @@ Thomas Cushing founded the Montreal Brewing Company in 1876, which produced Indi
 5. Concordia University Archives, YMCA of Montreal Fonds P145 (sub-series 12A, 12L, 13D)
 6. Cushing, James S. *The Genealogy of the Cushing Family.* Montreal: Perrault Printing Co., 1905. Available at Internet Archive.
 7. Beer Et Seq, "The Sand Porter of Montreal (Part I)," https://www.beeretseq.com/the-sand-porter-of-montreal-part-i/
+8. McGill University Faculty of Medicine records; Cushing Memorial Prize documentation.
+9. Dartmouth College alumni records, Class of 1909.
+10. FamilySearch, Cushing genealogy supplement 1905-1969 (item 235744).
 
 ## Research Notes
 

@@ -2,7 +2,7 @@
 
 <!-- status: E1-reviewed -->
 <!-- confidence: high -->
-<!-- last_updated: 2026-06-22 -->
+<!-- last_updated: 2026-06-24 -->
 <!-- last_editor: v50 -->
 <!-- ralph_loops: centennial-1967-R1, centennial-1967-V1 -->
 
@@ -43,7 +43,7 @@ Kirk Wipper (Camp Kandalore, founder of the Canadian Canoe Museum) volunteered h
 
 ## Kanawana's Participation
 
-Six Kanawana boys and two counsellors paddled from Deep River, Ontario to Britannia Beach on the west side of Ottawa — a distance described as 150 miles — between August 2 and August 9, 1967.^1 Deep River, historically the oldest and most well-established site of voyageur ritual baptism on the fur trade route, was chosen as the starting point for the Quebec section.^1 The trip leader, Yves St. Pierre, wrote the required historical essay documenting the route, covering the Ottawa River valley from its archaeological prehistory through Champlain's 1613 exploration and the fur trade era.^1 Participants wore colourful plaid "lumberman" shirts and decorated their canoes with decals and crests.^1 [*Note: The navigable Ottawa River distance between these points is approximately 120 miles; the 150-mile figure may include tributary detours or portage distances.*]
+Six Kanawana boys and two counsellors paddled from Deep River, Ontario to Britannia Beach on the west side of Ottawa — a distance described as 150 miles — between August 2 and August 9, 1967.^1 Deep River, historically the oldest and most well-established site of voyageur ritual baptism on the fur trade route, was chosen as the starting point for the Quebec section.^1 The trip leader, Yves St. Pierre, wrote the required historical essay documenting the route, covering the Ottawa River valley from its archaeological prehistory through Champlain's 1613 exploration and the fur trade era.^1 Phase 2 research identified an obituary lead: an Yves St-Pierre died on January 31, 2020, at age 76, in Montreal — consistent with a person who would have been approximately 23 in 1967 and thus of counsellor age.^17 Participants wore colourful plaid "lumberman" shirts and decorated their canoes with decals and crests.^1 [*Note: The navigable Ottawa River distance between these points is approximately 120 miles; the 150-mile figure may include tributary detours or portage distances.*]
 
 Derek Walsh represented "Kamp Kanawana, YMCA, Montreal, Quebec" in CCA Centenary Journey planning, as documented in the CCA fonds at Trent University Archives. It is unclear whether Walsh served as the second counsellor or was involved only in planning.^16
 
@@ -96,6 +96,7 @@ The McMorris thesis devotes its third chapter — "The National(ist) Vehicle" �
 14. Concordia University Archives, YMCA of Montreal Fonds P145, sub-series 13E.
 15. *The Ottawa Journal*, August 10, 1967. Photo of Kanawana campers arriving in Ottawa.
 16. Research campaign 2026-06-22 (44 searches, 18 WebFetch attempts). Trent University Archives OCA fonds (72-007) and CCA fonds (78-004). CCA history page. Camp Stephens Alumni Blog. Kandalore Nor'westers Blog. *A Log of Canada's Centenary Journey* (1971). Derek Walsh in CCA fonds as Kanawana representative. John Latimer as coordinator, Kirk Wipper for Lake Superior section.
+17. cfgrandmontreal.com obituary notice: Yves St-Pierre, died January 31, 2020, age 76, Montreal. (Possible match for CCA Centenary Journey trip leader — age consistent.)
 
 ## Research Notes
 

@@ -1,7 +1,7 @@
 # J.W. McConnell
 
 *Status: E1-reviewed | Sources: src_wikipedia_mcconnell, src_mcconnell_foundation, src_oral_aronson, src_fong_mcconnell_2008, src_kanawana_facts, src_toponymie_lac_wilson_stelucie, src_grandquebec_sadl_lakes, src_vss_familles_pionnieres, src_shgph_edouard_page*
-*Last Updated: 2026-06-13 (Pagé-Desjardins genealogical connection added, c_006 substantially resolved)*
+*Last Updated: 2026-06-24*
 
 ## Overview
 
@@ -15,9 +15,11 @@ McConnell was born in 1877 in Muskoka, Ontario, to John McConnell and Margaret A
 
 ## YMCA Connection
 
-McConnell's involvement with the YMCA went well beyond personal use. In 1909, he led a fundraising campaign for the Montreal YMCA that raised $320,000 in a 12-day campaign, an extraordinary sum at the time.^2 This campaign coincided roughly with the YMCA's acquisition of the Saint-Sauveur property from the Page family circa 1910, though no source explicitly links the two events.
+McConnell's involvement with the YMCA went well beyond personal use. The YMCA was reportedly his "favourite organization."^9 In 1909, he led a fundraising campaign for the Montreal YMCA that raised $320,000 in a 12-day campaign, an extraordinary sum at the time.^2 This campaign coincided roughly with the YMCA's acquisition of the Saint-Sauveur property from the Page family circa 1910, though no source explicitly links the two events.
 
 He later established the McConnell Foundation in 1937, which became one of Canada's major philanthropic organizations.^2 The foundation has maintained its connection to Camp Kanawana through funding and renovations.^2
+
+McConnell's wealth derived significantly from his role at the Standard Chemical Company, where he rose from salesman to become the dominant figure in the enterprise.^9 A 1971 proposal to the McConnell Foundation regarding Camp Kanawana is documented in the Concordia Archives, YMCA of Montreal fonds P0145, sub-series 5E07.^9
 
 ## Family
 
@@ -82,6 +84,7 @@ Conflict c_006 is now substantially resolved: oral history explains the renaming
 6. Commission de toponymie du Québec, "Lac Wilson" (Sainte-Lucie-des-Laurentides), fiche 135620. URL: https://toponymie.gouv.qc.ca/ct/ToposWeb/Fiche.aspx?no_seq=135620
 7. Grand Québec, "Lacs de Sainte-Anne-des-Lacs." URL: https://grandquebec.com/eaux-du-quebec/lacs-de-sainte-anne-des-lacs/
 8. Ville de Saint-Sauveur, "Les familles pionnières de Saint-Sauveur"; Société d'histoire et de généalogie des Pays-d'en-Haut, "Édouard Pagé, boulanger à Saint-Sauveur."
+9. Multiple Phase 2 research sources (2026): McConnell Foundation history, Concordia Archives sub-series 5E07 (1971 Foundation proposal), Standard Chemical Company biographical context.
 
 ## Research Notes
 

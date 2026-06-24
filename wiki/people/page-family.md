@@ -6,12 +6,12 @@
 <!-- last_editor: v52 -->
 <!-- ralph_loops: page-family-R1 -->
 
-*Status: E1-reviewed | Sources: 8*
-*Last Updated: 2026-06-13*
+*Status: E1-reviewed | Sources: 10*
+*Last Updated: 2026-06-24*
 
 ## Overview
 
-The Pagé family were pioneer settlers of Saint-Sauveur-des-Monts, Quebec, whose landholdings became the site of Camp Kanawana. The YMCA of Montreal acquired property from the Pagé family circa 1910 for its new camp, and purchased the "Pagé farm" in 1960 to expand the camp property.^1 The family's four-generation history in Saint-Sauveur — spanning from the 1850s to the present day — is documented through municipal records, the local historical society, and Quebec heritage registries.
+The Pagé family were pioneer settlers of Saint-Sauveur-des-Monts, Quebec, whose landholdings became the site of Camp Kanawana. The YMCA of Montreal acquired property from the Pagé family circa 1910 for its new camp, and purchased the "Pagé farm" in 1960 to expand the camp property.^1 The family's four-generation history in Saint-Sauveur — spanning from the 1850s to the present day — is documented through municipal records, the local historical society, and Quebec heritage registries. The Pagé family's settlement of côte Saint-Elmire was part of a broader wave: Jean-Baptiste Desjardins was among the first settlers alongside Magloire Pagé, arriving circa 1837 during the Lower Canada Rebellion period.^10
 
 The family's genealogy may also explain the origin of the name "Lac Desjardins," the original name of what is now Lake Wilson at Camp Kanawana: Magloire Pagé fils married **Olivine Desjardins** in 1875, and if the lake sat on Pagé-Desjardins family land, its name likely referred to Olivine's maiden family — a common Quebec toponymic pattern.^2 ^3
 
@@ -41,6 +41,8 @@ The original bakery building was established in 1897 by Camille Gauvreau (not 19
 
 Télesphore, the youngest son of Magloire fils, inherited the family land and settled there with his wife Clarilda Dagenais (1901–1995). The old Pagé farmhouse "faced the mountains" near Saint-Sauveur.^4
 
+A second Télesphore Pagé (b. April 1908), likely a nephew or cousin, operated a grocery store on rue de la Gare in Saint-Sauveur.^10
+
 ## Connection to Camp Kanawana
 
 The YMCA of Montreal purchased the Saint-Sauveur property from the Page family circa 1910, establishing Camp Kanawana at its current location.^1 The 1923 *Gas Bag* lists "Pages" as a hike destination from camp, suggesting the family still had a visible presence in the area.^7
@@ -57,7 +59,7 @@ The marriage of Magloire Pagé fils to Olivine Desjardins in 1875 provides a gen
 
 ## Mont Habitant
 
-In 1957, Mickey Stein was staying in the old Pagé family farmhouse when he observed the mountain opposite and conceived the idea for the Mont Habitant ski resort. With associates Stephen and Stanley Vineberg, Stein hired designer Sel Hannah; Mont Habitant opened for the 1958–59 winter season.^9
+In 1957, Mickey Stein was staying in the old Pagé family farmhouse when he observed the mountain opposite and conceived the idea for the Mont Habitant ski resort. Stein married Sheila Joan Vineberg in 1955 and, with her brothers Stephen and Stanley Vineberg, hired designer Sel Hannah; Mont Habitant opened for the 1958–59 winter season.^9 Mont-Habitant Development Ltd was incorporated on July 27, 1959.^11 Stein died on May 16, 1985.^11
 
 ## Open Questions
 
@@ -85,6 +87,8 @@ In 1957, Mickey Stein was staying in the old Pagé family farmhouse when he obse
 7. The Gas Bag, 1923 Re-union Number, Internet Archive.
 8. Commission de toponymie du Québec, "1re rue du Domaine-Pagé." URL: https://toponymie.gouv.qc.ca/ct/ToposWeb/Fiche.aspx?no_seq=222702
 9. Histoires de chez nous / Community Stories, "Mont Habitant." URL: https://www.histoiresdecheznous.ca/v1/pm_v2.php?id=story_line_child&fl=0&lg=Francais&ex=00000718&sl=6641&pos=1
+10. Société d'histoire et de généalogie des Pays-d'en-Haut, Saint-Sauveur local history. Jean-Baptiste Desjardins as early settler; second Télesphore Pagé (b. April 1908, grocery on rue de la Gare).
+11. Musée du Ski des Laurentides / Laurentian Ski Museum, Mickey Stein biographical data; Mont-Habitant Development Ltd incorporation (July 27, 1959).
 
 ## Research Notes
 

@@ -1,9 +1,9 @@
 # The L&V Games
 
 *Status: E1 Reviewed | Sources: McMorris (2023) Ch3, KB lv_games, YMCA Quebec official history, YMCA GTA (Pine Crest), ACA Hayo-Went-Ha*
-*Last Updated: 2026-06-20*
+*Last Updated: 2026-06-24*
 
-The L&V Games trace their origin to 1947, when the camp created "Lumberman-Voyageur Week" as a culminating event for the final week of summer. The entire camp was divided into two teams, Voyageurs and Lumbermen, and the week was given over to inter-team competition. The concept drew on Pine Crest Camp in Ontario, which had run its own Lumbermen-versus-Voyageurs competition since 1940, complete with the same team symbols: an axe for the Lumbermen and a paddle for the Voyageurs.
+The L&V Games trace their origin to 1947, when the camp created "Lumberman-Voyageur Week" as a culminating event for the final week of summer. The entire camp was divided into two teams, Voyageurs and Lumbermen (known as "Bûcherons" in French), and the week was given over to inter-team competition. The concept drew on Pine Crest Camp in Ontario, which had run its own Lumbermen-versus-Voyageurs competition since 1940, complete with the same team symbols: an axe for the Lumbermen and a paddle for the Voyageurs.
 
 The format as it developed through the late 1940s and 1950s was distinctive. Teams were announced on Friday evening, with captains selected that same night. The competition then ran through the following week. Voyageurs made model paddles to wear around their necks as team insignia; Lumbermen made model axes. The competitions included war canoe races, capture the flag, and medley relays, mixing athletics with craft and camp skills. By 1950, a Lumberman-Voyageur mural had been painted in the dining hall, a sign that the tradition had already become a defining feature of the camp's culture within just three years of its creation.
 

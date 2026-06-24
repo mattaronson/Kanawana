@@ -307,7 +307,8 @@
         "f_1304",
         "f_1100",
         "f_1101",
-        "f_1312"
+        "f_1312",
+        "f_1509"
       ],
       "sources_cited": [
         "src_mcmorris_thesis",
@@ -543,7 +544,7 @@
       ],
       "file_id": "1KW2yhoZ-wr_71sTPbLJ3v81KW4ZEJ_p-",
       "word_count": 1884,
-      "notes": "E1 REVIEW (2026-02-19): Fixed source header (src_ymca_facts\u2192src_kanawana_facts), added Spectrum URL for McMorris thesis, added IA URLs for Facts sheet and Gas Bag. All claims cited, dates consistent, names cross-checked, tone encyclopedic. Advanced R3-verified \u2192 E1-reviewed."
+      "notes": "E1 REVIEW (2026-02-19): Fixed source header (src_ymca_facts→src_kanawana_facts), added Spectrum URL for McMorris thesis, added IA URLs for Facts sheet and Gas Bag. All claims cited, dates consistent, names cross-checked, tone encyclopedic. Advanced R3-verified → E1-reviewed."
     },
     {
       "article_id": "programs-activities",
@@ -753,7 +754,7 @@
       ],
       "file_id": "1oqLoU6_bzWD_9jXwXQgYNm_EqLCEfNjR",
       "word_count": 2666,
-      "notes": "v4.75: Noosphere section expanded \u2014 Zinner thesis (McGill 1973), Third World Village model, Montreal-matin article."
+      "notes": "v4.75: Noosphere section expanded — Zinner thesis (McGill 1973), Third World Village model, Montreal-matin article."
     },
     {
       "article_id": "ralph-dawson",
@@ -1256,14 +1257,16 @@
         "f_0403",
         "f_0407",
         "f_0602",
-        "f_0603"
+        "f_0603",
+        "f_1519"
       ],
       "sources_cited": [
         "src_mcmorris_thesis",
         "src_concordia_fonds",
         "src_concordia_fonds_1B",
         "src_concordia_fonds_14D",
-        "src_wikipedia_murray_ross"
+        "src_wikipedia_murray_ross",
+        "src_concordia_fonds_14H"
       ],
       "open_questions": 6,
       "cross_links": [
@@ -1276,7 +1279,7 @@
       ],
       "file_id": null,
       "word_count": 1000,
-      "notes": "E1 REVIEW (2026-02-19): Added inline ^1-^5 citations throughout body text. Standardized all name mentions to 'Harold C. Cross'. Added Related Articles section. Added priority tags to Open Questions. Advanced R3-verified \u2192 E1-reviewed."
+      "notes": "E1 REVIEW (2026-02-19): Added inline ^1-^5 citations throughout body text. Standardized all name mentions to 'Harold C. Cross'. Added Related Articles section. Added priority tags to Open Questions. Advanced R3-verified → E1-reviewed."
     },
     {
       "article_id": "centennial-1967",
@@ -1361,7 +1364,8 @@
         "f_0393",
         "f_0394",
         "f_0459",
-        "f_0849"
+        "f_0849",
+        "f_1507"
       ],
       "sources_cited": [
         "src_mcmorris_thesis",
@@ -1373,7 +1377,8 @@
         "src_wikipedia_starkell",
         "src_mb_sports_hof",
         "src_taylor_statten_camps",
-        "src_concordia_fonds"
+        "src_concordia_fonds",
+        "src_cfgrand_stpierre"
       ],
       "open_questions": 6,
       "cross_links": [
@@ -1564,7 +1569,7 @@
       ],
       "file_id": null,
       "word_count": 924,
-      "notes": "E1 REVIEW (2026-02-19): PASS \u2014 all 7 checklist items satisfied. No fixes needed. Advanced R3-verified \u2192 E1-reviewed."
+      "notes": "E1 REVIEW (2026-02-19): PASS — all 7 checklist items satisfied. No fixes needed. Advanced R3-verified → E1-reviewed."
     },
     {
       "article_id": "cushing-family",
@@ -1635,7 +1640,12 @@
         "f_1161",
         "f_1162",
         "f_1163",
-        "f_1164"
+        "f_1164",
+        "f_1511",
+        "f_1512",
+        "f_1513",
+        "f_1514",
+        "f_1515"
       ],
       "sources_cited": [
         "src_qahn_howard",
@@ -1644,7 +1654,11 @@
         "src_dcb_cushing",
         "src_wikipedia_cushing",
         "src_beer_et_seq",
-        "src_cushing_genealogy"
+        "src_cushing_genealogy",
+        "src_mcgill_cushing",
+        "src_sabr_royals",
+        "src_familysearch_cushing_supp",
+        "src_dartmouth_alumni_cushing"
       ],
       "open_questions": 5,
       "cross_links": [
@@ -1657,7 +1671,7 @@
       ],
       "file_id": null,
       "word_count": 1448,
-      "notes": "E1 REVIEW (2026-02-19): Fixed Frederick row in Eight Sons table (birthplace clarified in Occupation column). All 7 checklist items satisfied. Advanced R3-verified \u2192 E1-reviewed."
+      "notes": "E1 REVIEW (2026-02-19): Fixed Frederick row in Eight Sons table (birthplace clarified in Occupation column). All 7 checklist items satisfied. Advanced R3-verified → E1-reviewed."
     },
     {
       "article_id": "traditions-and-culture",
@@ -2017,7 +2031,9 @@
         "f_0644",
         "f_0645",
         "f_1104",
-        "f_1243"
+        "f_1243",
+        "f_1502",
+        "f_1503"
       ],
       "sources_cited": [
         "src_qahn_howard",
@@ -2347,7 +2363,10 @@
         "f_1167",
         "f_1155",
         "f_1158",
-        "f_1162"
+        "f_1162",
+        "f_1504",
+        "f_1505",
+        "f_1506"
       ],
       "sources_cited": [
         "src_wikipedia_mcconnell",
@@ -2367,7 +2386,7 @@
       ],
       "file_id": null,
       "word_count": 1426,
-      "notes": "RALPH R1 (2026-02-26): Lake Wilson naming claim CANNOT BE VERIFIED \u2014 plausible but no documentary evidence. McConnell family tree confirmed. YMCA connection 1901-1963 documented. 10 new KB facts (f_0516-f_0525). 1 new source (Fong biography). Research SATURATED for online sources."
+      "notes": "RALPH R1 (2026-02-26): Lake Wilson naming claim CANNOT BE VERIFIED — plausible but no documentary evidence. McConnell family tree confirmed. YMCA connection 1901-1963 documented. 10 new KB facts (f_0516-f_0525). 1 new source (Fong biography). Research SATURATED for online sources."
     },
     {
       "article_id": "lake-wilson",
@@ -2884,7 +2903,7 @@
       ],
       "file_id": null,
       "word_count": 2165,
-      "notes": "E1 REVIEW (2026-03-02): 10 fixes applied. Father-son inference reframed as neutral hypothesis. Earliest publication contradiction resolved. Kamp\u2192Camp standardized. Hendry relocated. Unsourced synthesis removed. All 7 criteria PASS."
+      "notes": "E1 REVIEW (2026-03-02): 10 fixes applied. Father-son inference reframed as neutral hypothesis. Earliest publication contradiction resolved. Kamp→Camp standardized. Hendry relocated. Unsourced synthesis removed. All 7 criteria PASS."
     },
     {
       "article_id": "camp-weredale",
@@ -3288,7 +3307,7 @@
       ],
       "file_id": null,
       "word_count": 418,
-      "notes": "RALPH R1 complete (2026-06-21): 30+ web searches returned zero new facts. Article meets draft criteria (Overview summary, 3 content sections, 3 sources). All remaining open questions require physical Concordia Archives access (P0145/12G). BAnQ newspaper facts (f_1326-f_1339) checked \u2014 none mention Camp Perrot. Advanced stub\u2192draft."
+      "notes": "RALPH R1 complete (2026-06-21): 30+ web searches returned zero new facts. Article meets draft criteria (Overview summary, 3 content sections, 3 sources). All remaining open questions require physical Concordia Archives access (P0145/12G). BAnQ newspaper facts (f_1326-f_1339) checked — none mention Camp Perrot. Advanced stub→draft."
     },
     {
       "article_id": "camp-oolahwan",
@@ -4002,7 +4021,9 @@
         "f_1181",
         "f_1182",
         "f_1146",
-        "f_1267"
+        "f_1267",
+        "f_1508",
+        "f_1510"
       ],
       "sources_cited": [
         "src_ymca_kanawana_job_listing",
@@ -4021,7 +4042,8 @@
         "src_edgar_smee_bio",
         "src_twynam_research",
         "src_cscrp_wall_nurture",
-        "src_mediaterre_kanawana_2009"
+        "src_mediaterre_kanawana_2009",
+        "src_telus_kanawana"
       ],
       "open_questions": 5,
       "cross_links": [
@@ -4040,7 +4062,7 @@
     },
     {
       "article_id": "page-family",
-      "title": "The Pag\u00e9 Family of Saint-Sauveur",
+      "title": "The Pagé Family of Saint-Sauveur",
       "wiki_folder": "people",
       "status": "E1-reviewed",
       "status_history": [
@@ -4087,7 +4109,10 @@
         "f_0686",
         "f_0313",
         "f_0476",
-        "f_1285"
+        "f_1285",
+        "f_1516",
+        "f_1517",
+        "f_1518"
       ],
       "sources_cited": [
         "src_vss_familles_pionnieres",
@@ -4097,7 +4122,9 @@
         "src_histoiresdecheznous_mont_habitant",
         "src_mcmorris_thesis",
         "src_gas_bag_1923",
-        "src_oral_aronson"
+        "src_oral_aronson",
+        "src_shgph_saint_sauveur",
+        "src_musee_ski_stein"
       ],
       "open_questions": 5,
       "cross_links": [
