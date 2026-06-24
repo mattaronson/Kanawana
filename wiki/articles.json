@@ -4508,6 +4508,97 @@
       ],
       "file_id": null,
       "word_count": 750
+    },
+    {
+      "article_id": "winter-programming",
+      "title": "Winter and Year-Round Programming",
+      "wiki_folder": "programs",
+      "status": "stub",
+      "status_history": [
+        {
+          "status": "stub",
+          "at": "2026-06-24T00:00:00Z",
+          "by": "auto",
+          "task": "RESEARCH"
+        }
+      ],
+      "ralph_loops_completed": 0,
+      "kb_facts_used": [
+        "f_0029",
+        "f_0326",
+        "f_0451",
+        "f_0591",
+        "f_0755",
+        "f_0853",
+        "f_1076",
+        "f_1111",
+        "f_1113",
+        "f_1478",
+        "f_1497",
+        "f_1508",
+        "f_1510"
+      ],
+      "sources_cited": [
+        "src_kanawana_facts",
+        "src_ymcaq_website",
+        "src_mcmorris_thesis",
+        "src_telus_kanawana",
+        "src_mediaterre_kanawana"
+      ],
+      "open_questions": 4,
+      "cross_links": [
+        "environmental-history",
+        "programs-activities",
+        "the-kanawana-site",
+        "places-and-locations"
+      ],
+      "file_id": null,
+      "word_count": 450
+    },
+    {
+      "article_id": "indigenous-names-and-land",
+      "title": "Indigenous Place Names and Land History",
+      "wiki_folder": "context",
+      "status": "stub",
+      "status_history": [
+        {
+          "status": "stub",
+          "at": "2026-06-24T00:00:00Z",
+          "by": "auto",
+          "task": "RESEARCH"
+        }
+      ],
+      "ralph_loops_completed": 0,
+      "kb_facts_used": [
+        "f_0248",
+        "f_0249",
+        "f_0250",
+        "f_0254",
+        "f_0339",
+        "f_0426",
+        "f_0530",
+        "f_0672",
+        "f_0689",
+        "f_0692",
+        "f_1516"
+      ],
+      "sources_cited": [
+        "src_mcmorris_thesis",
+        "src_qahn_howard",
+        "src_concordia_fonds"
+      ],
+      "open_questions": 4,
+      "cross_links": [
+        "myths-and-legends",
+        "council-ring",
+        "camp-otoreke",
+        "camp-oolahwan",
+        "harold-cross",
+        "page-family",
+        "the-kanawana-site"
+      ],
+      "file_id": null,
+      "word_count": 550
     }
   ]
 }

@@ -1,7 +1,7 @@
 # Ralph Dawson
 
 *Status: E1-reviewed | Sources: src_concordia_fonds, src_concordia_12L, src_concordia_atom_fonds, src_concordia_atom_12A, src_mcmorris_thesis, src_web_search_2026_03*
-*Last Updated: 2026-06-11 (p_123 RALPH: second biographical campaign, all null — research exhausted online)*
+*Last Updated: 2026-06-24 (third biographical campaign: 40+ searches, all null — research exhausted)*
 
 ## Overview
 
@@ -23,7 +23,9 @@ The Concordia Archives hold photographs of R. H. Dawson and R. L. Charlton liste
 
 ## Archival Access
 
-Systematic web searching in March 2026 across obituary databases (Ancestry, FamilySearch, Genealogy Quebec), Montreal city directories, and general web sources produced no biographical results for Dawson beyond the Concordia University Archives finding aids.^6 A second campaign in June 2026 (Find A Grave, Mount Royal Cemetery records, Canadian Expeditionary Force attestation indexes, McGill yearbook references, and camp memoir/blog sources) was likewise null; the Library and Archives Canada CEF personnel database could not be queried directly (proxy-blocked) and remains an unchecked surface for the operator.^6 Resolving the open questions will require consultation of the Concordia Archives physical holdings, particularly the 1933 manuscript.
+Systematic web searching in March 2026 across obituary databases (Ancestry, FamilySearch, Genealogy Quebec), Montreal city directories, and general web sources produced no biographical results for Dawson beyond the Concordia University Archives finding aids.^6 A second campaign in June 2026 (Find A Grave, Mount Royal Cemetery records, Canadian Expeditionary Force attestation indexes, McGill yearbook references, and camp memoir/blog sources) was likewise null.^6 A third campaign in June 2026 (40+ additional searches across Google, Google Books, HathiTrust, archive.org, newspapers.com, BAnQ, census databases, and genealogy resources) confirmed the exhaustion: Ralph H. Dawson has no discoverable online biographical footprint.^6
+
+One additional archival lead was identified: Concordia Archives sub-series 13D ("Memorials, tributes, testimonials, honours") contains a "Material for Book of Remembrance and History" project compiled by Joyce Oliver (1939–1940) with biographical research on YMCA-affiliated individuals, which could potentially contain a Dawson biographical file.^2 Resolving the open questions will require consultation of the Concordia Archives physical holdings, particularly the 1933 manuscript and the Joyce Oliver research files.
 
 ## Open Questions
 
