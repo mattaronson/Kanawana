@@ -48,7 +48,7 @@
       "entity": "Taylor Statten",
       "attribute": "aca_presidency_year",
       "values": [
-        "1941 (ACA Presidents page \u2014 elected 1941, resigned due to illness)",
+        "1941 (ACA Presidents page — elected 1941, resigned due to illness)",
         "1942 (CCA history source)"
       ],
       "status": "unresolved",
@@ -82,7 +82,7 @@
         "85 campers registered for the summer session (Postmedia 2026, YMCA-sponsored content)"
       ],
       "status": "unresolved",
-      "notes": "McMorris (academic thesis with archival research) is the higher-reliability source. The 85 figure may reflect total registrations vs actual attendance, or may include Camp Otoreke (which continued operating at Lake St. Joseph). The Postmedia article is sponsored content written on behalf of YMCAs of Qu\u00e9bec, so the 85 figure likely comes from the YMCA's own institutional narrative. Not necessarily contradictory \u2014 could be registrations vs attendance.",
+      "notes": "McMorris (academic thesis with archival research) is the higher-reliability source. The 85 figure may reflect total registrations vs actual attendance, or may include Camp Otoreke (which continued operating at Lake St. Joseph). The Postmedia article is sponsored content written on behalf of YMCAs of Québec, so the 85 figure likely comes from the YMCA's own institutional narrative. Not necessarily contradictory — could be registrations vs attendance.",
       "created_at": "2026-03-17T12:00:00Z",
       "affects_articles": [
         "founding-1894",
@@ -100,10 +100,10 @@
       "attribute": "existence_and_identity",
       "values": [
         "J.W. McConnell donated Lake Desjardins to Camp Kanawana (oral history, src_oral_aronson)",
-        "The camp's three lakes are Lake Kanawana, Lake Wilson, and Round Lake \u2014 no Lake Desjardins (oral history f_0023; corroborated by YMCA official descriptions of 'three private lakes')"
+        "The camp's three lakes are Lake Kanawana, Lake Wilson, and Round Lake — no Lake Desjardins (oral history f_0023; corroborated by YMCA official descriptions of 'three private lakes')"
       ],
       "status": "partially_resolved",
-      "notes": "Phase 2 search (2026-06-11): no 'Lac Desjardins' found in any registry. Oral history follow-up (2026-06-12): informant states Lac Desjardins was the ORIGINAL name of the lake that became Lake Wilson \u2014 it was renamed after McConnell bought and donated it (f_1206). Phase 2 research (2026-06-13): Pag\u00e9 family genealogy reveals Magloire Pag\u00e9 fils married **Olivine Desjardins** in 1875 (f_1228). The Pag\u00e9 family owned extensive land in Saint-Sauveur (lot 43, c\u00f4te Saint-Elmire) and sold property to the YMCA c. 1910. If the lake sat on Pag\u00e9-Desjardins family land, 'Lac Desjardins' likely refers to Olivine's maiden name \u2014 a common Quebec toponymic pattern where lakes are named for landowner families. This provides a plausible genealogical origin for the name. Remaining: land registry confirmation linking specific Pag\u00e9 parcels to the lake.",
+      "notes": "Phase 2 search (2026-06-11): no 'Lac Desjardins' found in any registry. Oral history follow-up (2026-06-12): informant states Lac Desjardins was the ORIGINAL name of the lake that became Lake Wilson — it was renamed after McConnell bought and donated it (f_1206). Phase 2 research (2026-06-13): Pagé family genealogy reveals Magloire Pagé fils married **Olivine Desjardins** in 1875 (f_1228). The Pagé family owned extensive land in Saint-Sauveur (lot 43, côte Saint-Elmire) and sold property to the YMCA c. 1910. If the lake sat on Pagé-Desjardins family land, 'Lac Desjardins' likely refers to Olivine's maiden name — a common Quebec toponymic pattern where lakes are named for landowner families. This provides a plausible genealogical origin for the name. Remaining: land registry confirmation linking specific Pagé parcels to the lake.",
       "created_at": "2026-06-11T00:00:00Z",
       "affects_articles": [
         "j-w-mcconnell",
@@ -113,7 +113,7 @@
     },
     {
       "conflict_id": "c_007",
-      "description": "Date of 'Camp director Dave Twynam' correspondence in Concordia 12B01 finding aid: 1976 vs 1979 \u2014 affects start of Twynam directorship",
+      "description": "Date of 'Camp director Dave Twynam' correspondence in Concordia 12B01 finding aid: 1976 vs 1979 — affects start of Twynam directorship",
       "fact_ids": [
         "f_0752",
         "f_1169"
@@ -125,7 +125,7 @@
         "1976 (search-engine snippets of same finding aid, 2026-06-11, two independent queries, f_1169)"
       ],
       "status": "unresolved",
-      "notes": "Both readings derive from the same finding aid page (concordia.ca ymca-fonds-sub-sub-series-12B01.html), which is now proxy-blocked (403) to the agent. May not be a true conflict \u2014 the aid may list multiple Twynam correspondence files. Resolution: operator fetch of the 12B01 page or the AtoM finding aid PDF (p_057). If 1976 is correct, Twynam's tenure spans at least 1976-1980, fully bridging the gap after Stuart McLean (asst. director 1974-75).",
+      "notes": "Both readings derive from the same finding aid page (concordia.ca ymca-fonds-sub-sub-series-12B01.html), which is now proxy-blocked (403) to the agent. May not be a true conflict — the aid may list multiple Twynam correspondence files. Resolution: operator fetch of the 12B01 page or the AtoM finding aid PDF (p_057). If 1976 is correct, Twynam's tenure spans at least 1976-1980, fully bridging the gap after Stuart McLean (asst. director 1974-75).",
       "created_at": "2026-06-11T14:00:00Z",
       "affects_articles": [
         "dave-twynam",
@@ -146,10 +146,109 @@
         "Two islands acquired 1897 (BaladoDiscovery)"
       ],
       "status": "unresolved",
-      "notes": "Both are secondary sources. The 1897 acquisition date in BaladoDiscovery is new \u2014 may represent a formal purchase distinct from the 1894 founding. The f_0017 fact says 'main island plus two others' suggesting three total. The two-vs-three discrepancy may reflect different sources counting the mainland landing differently.",
+      "notes": "Both are secondary sources. The 1897 acquisition date in BaladoDiscovery is new — may represent a formal purchase distinct from the 1894 founding. The f_0017 fact says 'main island plus two others' suggesting three total. The two-vs-three discrepancy may reflect different sources counting the mainland landing differently.",
       "created_at": "2026-06-24T07:00:00Z",
       "affects_articles": [
         "camp-otoreke"
+      ]
+    },
+    {
+      "conflict_id": "c_009",
+      "description": "Lac Kanawana volume: RSVL/MELCCFP gives 1,239,000 m³ vs earlier KB figure 1,273,000 m³.",
+      "fact_ids": [
+        "f_1543",
+        "f_1146"
+      ],
+      "entity": "Lac Kanawana",
+      "attribute": "volume",
+      "values": [
+        "1,239,000 m³",
+        "1,273,000 m³"
+      ],
+      "status": "unresolved",
+      "notes": "Minor; likely different source years/roundings. Both from RSVL-derived data.",
+      "created_at": "2026-06-26T00:00:00Z",
+      "affects_articles": [
+        "environmental-history"
+      ]
+    },
+    {
+      "conflict_id": "c_010",
+      "description": "Lac Kanawana water renewal time: 0.36 years (RSVL/MELCCFP) vs 0.43 years (earlier KB).",
+      "fact_ids": [
+        "f_1543",
+        "f_0615"
+      ],
+      "entity": "Lac Kanawana",
+      "attribute": "renewal_time",
+      "values": [
+        "0.36 years",
+        "0.43 years"
+      ],
+      "status": "unresolved",
+      "notes": "Minor discrepancy between data vintages.",
+      "created_at": "2026-06-26T00:00:00Z",
+      "affects_articles": [
+        "environmental-history"
+      ]
+    },
+    {
+      "conflict_id": "c_011",
+      "description": "Lac Kanawana RSVL monitoring span: browser research found no data after 2011; earlier KB claimed data since at least 2013.",
+      "fact_ids": [
+        "f_1543",
+        "f_1401"
+      ],
+      "entity": "Lac Kanawana",
+      "attribute": "monitoring_period",
+      "values": [
+        "no data after 2011",
+        "data since at least 2013"
+      ],
+      "status": "unresolved",
+      "notes": "The 2013-2024 CRE Laurentides 'technical support reports' may differ from the RSVL monitoring dataset itself.",
+      "created_at": "2026-06-26T00:00:00Z",
+      "affects_articles": [
+        "environmental-history"
+      ]
+    },
+    {
+      "conflict_id": "c_012",
+      "description": "Lemuel Cushing Jr. YMCA Montreal presidency: 1867-68 (1901 historical sketch) vs 1869-70 (other sources).",
+      "fact_ids": [
+        "f_1539",
+        "f_1160"
+      ],
+      "entity": "Lemuel Cushing Jr.",
+      "attribute": "ymca_presidency_dates",
+      "values": [
+        "1867-1868",
+        "1869-1870"
+      ],
+      "status": "unresolved",
+      "notes": "1901 primary-source sketch vs later secondary sources. Primary source may be more reliable.",
+      "created_at": "2026-06-26T00:00:00Z",
+      "affects_articles": [
+        "cushing-family"
+      ]
+    },
+    {
+      "conflict_id": "c_013",
+      "description": "1960 director: a CIT plaque lists Ron McCallum as 'Director', but A. Ross Seaman is documented as overall camp director 1959-1967. McCallum likely directed the CIT/leadership program, not the whole camp.",
+      "fact_ids": [
+        "f_1544"
+      ],
+      "entity": "Camp Kanawana directorship 1960",
+      "attribute": "director_1960",
+      "values": [
+        "Ron McCallum (per CIT plaque)",
+        "A. Ross Seaman (per McMorris, 1959-1967)"
+      ],
+      "status": "likely_resolved",
+      "notes": "Most plausibly both true at different scopes: Seaman overall camp director, McCallum CIT-program director. Confirm via 1960 season report (Concordia 12B).",
+      "created_at": "2026-06-26T00:00:00Z",
+      "affects_articles": [
+        "directors-index"
       ]
     }
   ]

@@ -72,7 +72,10 @@
         "f_0879",
         "f_0903",
         "f_1033",
-        "f_1041"
+        "f_1041",
+        "f_1531",
+        "f_1532",
+        "f_1537"
       ],
       "sources_cited": [
         "src_ymca_website",
@@ -81,7 +84,9 @@
         "src_concordia_12B",
         "src_brochure_1923",
         "src_history_1935",
-        "src_cfcf_1941"
+        "src_cfcf_1941",
+        "src_ia_ymca_annual_1891_92",
+        "src_ia_historical_sketch_1901"
       ],
       "open_questions": 6,
       "cross_links": [
@@ -1058,9 +1063,15 @@
         "f_0853",
         "f_0175",
         "f_1343",
-        "f_0089"
+        "f_0089",
+        "f_1544",
+        "f_1553"
       ],
-      "sources_cited": 21,
+      "sources_cited": [
+        21,
+        "src_flickr_kanawana",
+        "src_mcmaster_mclean"
+      ],
       "open_questions": 7,
       "cross_links": [
         "billy-ball",
@@ -1645,7 +1656,12 @@
         "f_1512",
         "f_1513",
         "f_1514",
-        "f_1515"
+        "f_1515",
+        "f_1531",
+        "f_1532",
+        "f_1533",
+        "f_1539",
+        "f_1540"
       ],
       "sources_cited": [
         "src_qahn_howard",
@@ -1658,7 +1674,9 @@
         "src_mcgill_cushing",
         "src_sabr_royals",
         "src_familysearch_cushing_supp",
-        "src_dartmouth_alumni_cushing"
+        "src_dartmouth_alumni_cushing",
+        "src_ia_ymca_annual_1891_92",
+        "src_ia_historical_sketch_1901"
       ],
       "open_questions": 5,
       "cross_links": [
@@ -2033,7 +2051,9 @@
         "f_1104",
         "f_1243",
         "f_1502",
-        "f_1503"
+        "f_1503",
+        "f_1520",
+        "f_1521"
       ],
       "sources_cited": [
         "src_qahn_howard",
@@ -2045,7 +2065,8 @@
         "src_ebay_otoreke_postcard",
         "src_wikipedia_saint_adolphe",
         "src_ymca_website",
-        "src_baladodecouverte_howard"
+        "src_baladodecouverte_howard",
+        "src_concordia_atom_findingaid_pdf"
       ],
       "open_questions": 7,
       "cross_links": [
@@ -2146,7 +2167,9 @@
         "f_1018",
         "f_1063",
         "f_1159",
-        "f_1236"
+        "f_1236",
+        "f_1552",
+        "f_1553"
       ],
       "sources_cited": [
         "src_samaritanmag_mclean",
@@ -2161,7 +2184,8 @@
         "src_mcmaster_mclean_fonds",
         "src_ymca_john_island_mclean_speech",
         "src_cbc_mclean_obit",
-        "src_concordia_mclean_tribute"
+        "src_concordia_mclean_tribute",
+        "src_mcmaster_mclean"
       ],
       "open_questions": 6,
       "cross_links": [
@@ -2768,7 +2792,8 @@
         "f_1120",
         "f_1123",
         "f_1089",
-        "f_1152"
+        "f_1152",
+        "f_1530"
       ],
       "sources_cited": [
         "src_ymca_website",
@@ -2785,7 +2810,8 @@
         "src_lapresse_ymca_2018",
         "src_journal_acces_fire_2023",
         "src_ka_news_1980",
-        "src_oral_aronson"
+        "src_oral_aronson",
+        "src_cca_ross_macdonald"
       ],
       "open_questions": 13,
       "cross_links": [
@@ -2876,7 +2902,8 @@
         "f_1279",
         "f_1092",
         "f_1093",
-        "f_1094"
+        "f_1094",
+        "f_1548"
       ],
       "sources_cited": [
         "src_aca_dimock_bio",
@@ -2892,7 +2919,8 @@
         "src_infed_ymca_education",
         "src_veterans_dimock_gilbert",
         "src_wikipedia_raye_kass",
-        "src_oakland_tribune_dimock_obit"
+        "src_oakland_tribune_dimock_obit",
+        "src_familysearch_dimock"
       ],
       "open_questions": 5,
       "cross_links": [
@@ -4023,7 +4051,10 @@
         "f_1146",
         "f_1267",
         "f_1508",
-        "f_1510"
+        "f_1510",
+        "f_1541",
+        "f_1542",
+        "f_1543"
       ],
       "sources_cited": [
         "src_ymca_kanawana_job_listing",
@@ -4043,7 +4074,9 @@
         "src_twynam_research",
         "src_cscrp_wall_nurture",
         "src_mediaterre_kanawana_2009",
-        "src_telus_kanawana"
+        "src_telus_kanawana",
+        "src_crel_kanawana",
+        "src_rsvl_melccfp"
       ],
       "open_questions": 5,
       "cross_links": [
@@ -4186,7 +4219,10 @@
         "f_0156",
         "f_1108",
         "f_1307",
-        "f_1332"
+        "f_1332",
+        "f_1534",
+        "f_1535",
+        "f_1536"
       ],
       "sources_cited": [
         "src_concordia_fonds",
@@ -4197,7 +4233,8 @@
         "src_oral_aronson",
         "src_south_shore_ymca",
         "src_ymca_pip_releases",
-        "src_banq_le_devoir_1994_centennial"
+        "src_banq_le_devoir_1994_centennial",
+        "src_ia_ymca_annual_1993"
       ],
       "open_questions": 5,
       "cross_links": [
@@ -4339,7 +4376,9 @@
         "f_1121",
         "f_1238",
         "f_0695",
-        "f_0611"
+        "f_0611",
+        "f_1549",
+        "f_1550"
       ],
       "sources_cited": [
         "src_concordia_p0145_12a_finding_aid",
@@ -4354,7 +4393,8 @@
         "src_cbc_mclean_fund",
         "src_samaritanmag_mclean",
         "src_newspapers_gazette_1913",
-        "src_mcmorris_thesis"
+        "src_mcmorris_thesis",
+        "src_youtube_kanawana"
       ],
       "open_questions": 4,
       "cross_links": [
@@ -4580,7 +4620,8 @@
         "f_0672",
         "f_0689",
         "f_0692",
-        "f_1516"
+        "f_1516",
+        "f_1527"
       ],
       "sources_cited": [
         "src_mcmorris_thesis",

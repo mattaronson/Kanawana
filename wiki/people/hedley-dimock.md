@@ -7,13 +7,13 @@
 
 Two individuals named Hedley Dimock made significant contributions to the study and practice of camping, and both are connected to the YMCA of Montreal and Camp Kanawana. Hedley Seldon Dimock (1891–1958) was a pioneering camp researcher who co-authored *Camping and Character* (1929/1931), the foundational study of camp-based character education. Hedley Gardner Dimock (born c. 1928) conducted camp counsellor effectiveness research at Camp Kanawana in 1960–1961 and went on to found the Department of Applied Social Science at Sir George Williams University (now Concordia), an institution that grew directly from SGW's roots in the YMCA of Montreal.^2 ^6
 
-Their exact familial relationship has not been confirmed by any source. The circumstantial indicators are: H.S. Dimock married Elizabeth Marguerite **Gardiner** and had two children;^1 ^7 H.G. Dimock's full middle name is **Gardner**;^8 both worked in the YMCA-camping-group work field; and the timeline is compatible (H.G. born c. 1928, when H.S. was 37). These factors are consistent with a father-son relationship, but the question remains unresolved.
+Their exact familial relationship is now strongly supported as **father and son**. FamilySearch records show H.S. Dimock and Elizabeth Marguerite Gardiner had three children: Dorothy (1925–2005), **Hedley Jr. (b. 1928)**, and Elizabeth (1934–1988).^17 A son named "Hedley Jr." born 1928 matches H.G. Dimock (Hedley Gardner Dimock, b. c.1928) precisely. Combined with the earlier circumstantial indicators — the Gardiner/Gardner name connection,^8 both working in the YMCA-camping-group-work field, and the compatible timeline — the father-son relationship is now highly likely, though a source explicitly stating "H.G. is the son of H.S." has still not been located.
 
 A third individual, Hedley Gilbert Dimock, Pilot Officer (Flight Engineer) in the RCAF (service number C/92344), died June 27, 1944 in a take-off accident in India and is buried at Madras War Cemetery. His father was Charles Albert Dimock — a different family line from H.S. Dimock's father Charles Turner Torry Dimock.^14
 
 ## Hedley Seldon Dimock (1891–1958)
 
-Hedley Seldon Dimock was born February 11, 1891 in South Rawdon, Hants, Nova Scotia, the son of Charles Turner Torry Dimock and Catherine E. Dimock.^1 ^7
+Hedley Seldon Dimock was born February 11, 1891 in South Rawdon, Hants, Nova Scotia, the son of Charles Turner Torry Dimock and Catherine Elizabeth Chase.^1 ^7 ^17 He immigrated to Vermont with his family in 1895, and married Elizabeth Marguerite Gardiner on August 17, 1922 in Regina, Saskatchewan.^17
 
 ### First World War Service
 
@@ -77,7 +77,7 @@ Both George Williams College in Chicago (where H.S. Dimock held a deanship) and 
 
 ## Open Questions
 
-1. [Partially resolved] What is the familial relationship between Hedley S. Dimock and Hedley G. Dimock? The Gardiner/Gardner name connection is strong circumstantial evidence for father and son, but no source explicitly confirms this. The Oakland Tribune obituary (October 5, 1958) may name survivors.
+1. [Substantially resolved] What is the familial relationship between Hedley S. Dimock and Hedley G. Dimock? FamilySearch shows H.S. Dimock had a son **Hedley Jr. born 1928**, matching H.G. Dimock (b. c.1928) — strong evidence for father and son.^17 A source explicitly stating the relationship would close it fully.
 2. [Partially resolved] What were the findings of the 1960–1961 Kanawana counsellor effectiveness studies? Two published titles identified, but the actual findings have not been reviewed.
 3. [Important] Did Hedley S. Dimock ever visit Camp Kanawana or Camp Otoreke, given his YMCA-Montreal connections and the camp's role in early Canadian camping research?
 4. [Nice-to-have] When exactly did Hedley G. Dimock begin working for the Montreal YMCA?
@@ -109,6 +109,7 @@ Both George Williams College in Chicago (where H.S. Dimock held a deanship) and 
 P. Concordia University Archives, P0145/12B: "Interpretation of scores for counselors participating in a research project at Kamp Kanawana" (1960).
 15. Oakland Tribune obituary, October 5, 1958 (paywalled). URL: https://www.newspapers.com/article/oakland-tribune-dr-hedley-seldon-dimock/38250638/
 16. Wikipedia, "Raye Kass." URL: https://en.wikipedia.org/wiki/Raye_Kass; Concordia University, Raye Kass faculty page.
+17. FamilySearch, Hedley Seldon Dimock (LHRF-7ZS): birth/death, immigration 1895, marriage 17 Aug 1922 Regina, children Dorothy (1925-2005), Hedley Jr. (b.1928), Elizabeth (1934-1988). URL: https://ancestors.familysearch.org/en/LHRF-7ZS
 
 ## Research Notes
 

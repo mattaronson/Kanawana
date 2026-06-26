@@ -27,6 +27,10 @@ The Montreal daily *Le Devoir* covered Camp Kanawana during the centennial year 
 
 The three *Le Devoir* mentions are notable as the first confirmed French-language press coverage of Kanawana in the historical record. Combined with the English-language newspaper tear sheets held in Concordia Archives,^1 they indicate that the centennial attracted attention from both linguistic communities in Montreal.
 
+## The 1993 Annual Report and Committee
+
+The YMCA of Montreal's 1993 annual report (Board Chairman Marcel Coté; President and CEO Michael Goldbloom) noted that Kamp Kanawana "enjoys a special stature within the activities of the YMCA" and was "celebrating its 100th anniversary this year," placing the centennial observance in the report's 1993 fiscal year.^11 The 1993 Kamp Kanawana Committee comprised Andrew Caddell (Chairperson), Tim Clark, Barbara Drury, Sue Khan, Bob Lewandowski, Bruce Netherwood (YMCA staff), and Tom Snabl.^11 That year the Bill Lewis Spring Race (April 25, 1993) used $5,000 in receipts for the first time to subsidize disadvantaged children attending camp.^11 This 1993 dating partly explains the long-standing 1993-vs-1994 centennial ambiguity: institutional observances and the documentary clustered in 1993, while 1994 was the precise 100-year mark from the 1894 founding.
+
 ## The 1993 Documentary
 
 In 1993, one year before the centennial, a documentary titled *Kamp Kanawana: The Experience that Lasts a Lifetime* was produced by Laurentien Productions for the Montreal YMCA, directed by Cathy Reeves. The 9-minute colour VHS (released 1996) features the song "On My Way to Kanawana" by Richard "Itch" Kerr and describes the camp as the oldest in Quebec and second oldest in Canada. An access copy exists on YouTube.^3
@@ -68,3 +72,4 @@ Bruce Netherwood was Director of Camp Kanawana from 1988 to 1994, meaning the ce
 8. South Shore YMCA, Camp Burgess & Hayward staff listing; YMCA Quebec Pip Award press releases.
 9. *Le Devoir* (Montreal), issues of January 15, July 6, and October 24, 1994. Identified via BAnQ numérique search; full texts require in-person or card-holder access.
 10. Camp Nakanawa (Tennessee) centennial as comparator. Research campaign 2026-06-22.
+11. YMCA of Montreal Annual Report 1993 (Internet Archive, item sgw-ymca-annual-report-1993); retrieved via operator browser research, June 2026 [src_ia_ymca_annual_1993].

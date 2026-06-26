@@ -1,5 +1,5 @@
 {
-  "version": "v4.87",
+  "version": "v4.88",
   "kb_version": 4.84,
   "migrated_from": "3.3",
   "fact_count": 1459,
@@ -10414,7 +10414,9 @@
         "Saint-Sauveur"
       ],
       "date_ref": null,
-      "conflicts_with": [],
+      "conflicts_with": [
+        "f_1543"
+      ],
       "added_version": "4.14",
       "added_by": "ralph_loop"
     },
@@ -18953,7 +18955,9 @@
         "ABRINORD"
       ],
       "date_ref": "2013",
-      "conflicts_with": [],
+      "conflicts_with": [
+        "f_1543"
+      ],
       "added_version": "v4.34",
       "added_by": "ralph_loop"
     },
@@ -19203,7 +19207,9 @@
         "James Stevenson Cushing"
       ],
       "date_ref": "1892",
-      "conflicts_with": [],
+      "conflicts_with": [
+        "f_1539"
+      ],
       "added_version": "v4.34",
       "added_by": "ralph_loop"
     },
@@ -23508,7 +23514,9 @@
         "RSVL"
       ],
       "date_ref": "2013",
-      "conflicts_with": [],
+      "conflicts_with": [
+        "f_1543"
+      ],
       "added_version": "4.77",
       "added_by": "ralph_loop"
     },
@@ -25566,6 +25574,658 @@
       "conflicts_with": [],
       "added_version": "v4.87",
       "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1520",
+      "claim": "The Concordia Archives finding aid for the YMCA of Montreal fonds (P0145) lists Kamp Kanawana records (sub-series 12B) totalling 7.72 metres, spanning [190-]-2003, in 7 sub-sub-series: 12B01 General administration, 12B02 Financial administration, 12B03 Land/facilities/equipment, 12B04 Communications (1913-2003), 12B05 Staff/counsellors, 12B06 Campers, 12B07 Program (1913-1994).",
+      "sources": [
+        "src_concordia_atom_findingaid_pdf"
+      ],
+      "confidence": "stated",
+      "category": "archives",
+      "entities": [
+        "Concordia Archives",
+        "Kamp Kanawana",
+        "P0145"
+      ],
+      "date_ref": "1900-2003",
+      "conflicts_with": [],
+      "added_version": "v4.88",
+      "added_by": "browser_research"
+    },
+    {
+      "fact_id": "f_1521",
+      "claim": "The full Camping series at Concordia (P0145) totals 11.63 metres, 1893-2004. Camp sub-series include: Otoreke (12C, 1921-1983), Becsies (12D, 1929-1936 & 1960-1971), Dorval (12E, 1926-1928), Weredale (12F, 1977-1983), Perrot (12G), Thunderbird (12I), Wilderness Survival (12J), Lake St-Joseph/Jubilee (12L), Day camp (12M).",
+      "sources": [
+        "src_concordia_atom_findingaid_pdf"
+      ],
+      "confidence": "stated",
+      "category": "archives",
+      "entities": [
+        "Concordia Archives",
+        "P0145"
+      ],
+      "date_ref": "1893-2004",
+      "conflicts_with": [],
+      "added_version": "v4.88",
+      "added_by": "browser_research"
+    },
+    {
+      "fact_id": "f_1522",
+      "claim": "The name 'Dawson' does not appear anywhere in the retrieved text of the Concordia YMCA of Montreal fonds finding aid, despite Ralph Dawson's authorship of the 1933 'History of Kamp Kanawana' (negative result).",
+      "sources": [
+        "src_concordia_atom_findingaid_pdf"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "Ralph Dawson",
+        "Concordia Archives"
+      ],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "v4.88",
+      "added_by": "browser_research"
+    },
+    {
+      "fact_id": "f_1523",
+      "claim": "The Westmount Branch and North Branch of the Montreal YMCA both opened in 1912.",
+      "sources": [
+        "src_concordia_atom_findingaid_pdf"
+      ],
+      "confidence": "stated",
+      "category": "institutional",
+      "entities": [
+        "YMCA Montreal",
+        "Westmount Branch",
+        "North Branch"
+      ],
+      "date_ref": "1912",
+      "conflicts_with": [],
+      "added_version": "v4.88",
+      "added_by": "browser_research"
+    },
+    {
+      "fact_id": "f_1524",
+      "claim": "The 1971 'Noosphere' event at Kanawana was a 'Perspective-Jeunesse' international development education simulation for about 100 Canadian youth aged 16-19, held in summer 1971. Coverage: Le Soleil (July 7, 1971) and Montreal-matin (August 24, 1971).",
+      "sources": [
+        "src_banq_lesoleil_1971",
+        "src_banq_montrealmatin_1971"
+      ],
+      "confidence": "stated",
+      "category": "programs",
+      "entities": [
+        "Noosphere",
+        "Perspective-Jeunesse",
+        "Camp Kanawana"
+      ],
+      "date_ref": "1971",
+      "conflicts_with": [],
+      "added_version": "v4.88",
+      "added_by": "browser_research"
+    },
+    {
+      "fact_id": "f_1525",
+      "claim": "The 1976 Lovell's Directory lists the Kamp Kanawana office at 1441 Drummond, Montreal (H3G 1WS, tel. 849-5331), with a second location in Chateauguay (tel. 692-2801).",
+      "sources": [
+        "src_banq_lovells_1976"
+      ],
+      "confidence": "stated",
+      "category": "institutional",
+      "entities": [
+        "Kamp Kanawana",
+        "Lovell's Directory"
+      ],
+      "date_ref": "1976",
+      "conflicts_with": [],
+      "added_version": "v4.88",
+      "added_by": "browser_research"
+    },
+    {
+      "fact_id": "f_1526",
+      "claim": "The Sherbrooke Record (July 21, 1972) reported a three-day counsellor leader training program at Camp Kanawana.",
+      "sources": [
+        "src_banq_sherbrooke_1972"
+      ],
+      "confidence": "stated",
+      "category": "programs",
+      "entities": [
+        "Camp Kanawana",
+        "leader training"
+      ],
+      "date_ref": "1972",
+      "conflicts_with": [],
+      "added_version": "v4.88",
+      "added_by": "browser_research"
+    },
+    {
+      "fact_id": "f_1527",
+      "claim": "The earliest located newspaper reference to 'Kanawana' is in L'aurore des Canadas, January 17, 1843 — predating the camp and likely a geographic reference.",
+      "sources": [
+        "src_banq_aurore_1843"
+      ],
+      "confidence": "stated",
+      "category": "etymology",
+      "entities": [
+        "Kanawana"
+      ],
+      "date_ref": "1843",
+      "conflicts_with": [],
+      "added_version": "v4.88",
+      "added_by": "browser_research"
+    },
+    {
+      "fact_id": "f_1528",
+      "claim": "Le Droit (Ottawa), June 25, 1937, reported a first aid instructor going to Camp Kanawana on July 1.",
+      "sources": [
+        "src_banq_ledroit_1937"
+      ],
+      "confidence": "stated",
+      "category": "programs",
+      "entities": [
+        "Camp Kanawana"
+      ],
+      "date_ref": "1937",
+      "conflicts_with": [],
+      "added_version": "v4.88",
+      "added_by": "browser_research"
+    },
+    {
+      "fact_id": "f_1529",
+      "claim": "The Westmount Examiner (November 16, 1962) reported citizenship training planned at Kamp Kanawana.",
+      "sources": [
+        "src_banq_westmount_examiner"
+      ],
+      "confidence": "stated",
+      "category": "programs",
+      "entities": [
+        "Kamp Kanawana",
+        "citizenship training"
+      ],
+      "date_ref": "1962",
+      "conflicts_with": [],
+      "added_version": "v4.88",
+      "added_by": "browser_research"
+    },
+    {
+      "fact_id": "f_1530",
+      "claim": "Ross & Macdonald designed three projects for the YMCA at Kanawana, not one: (1) YMCA Boy's Camp buildings, 1913-1914 (CCA AP013.S1.D37, #48095, 5 working drawings); (2) Dining and Kitchen Pavilion, 1919 (AP013.S1.D46, #48710, 6 drawings); (3) Doctor's Cottage, 1921 (AP013.S1.D67, #50576, 3 drawings ARCH25242-25244). Fourteen drawings total, all for Saint-Sauveur-des-Monts.",
+      "sources": [
+        "src_cca_ross_macdonald"
+      ],
+      "confidence": "stated",
+      "category": "architecture",
+      "entities": [
+        "Ross & Macdonald",
+        "Kamp Kanawana",
+        "CCA"
+      ],
+      "date_ref": "1913-1921",
+      "conflicts_with": [],
+      "added_version": "v4.88",
+      "added_by": "browser_research"
+    },
+    {
+      "fact_id": "f_1531",
+      "claim": "As of spring 1892, the 41st Annual Report of the YMCA of Montreal (published May 19, 1892) shows the Association had no outdoor camp or athletic grounds, stating: 'The Out-door Work suffers from the disadvantage of not owning suitable grounds.' This predates the 1894 camp founding.",
+      "sources": [
+        "src_ia_ymca_annual_1891_92"
+      ],
+      "confidence": "stated",
+      "category": "chronology",
+      "entities": [
+        "YMCA Montreal",
+        "camping origins"
+      ],
+      "date_ref": "1892",
+      "conflicts_with": [],
+      "added_version": "v4.88",
+      "added_by": "browser_research"
+    },
+    {
+      "fact_id": "f_1532",
+      "claim": "The Cushing family were active in Montreal YMCA governance in 1891-92: Charles Cushing (Board of Directors, Building Committee), Walter Cushing (Young Men's Meeting committee), and P.H. Cushing (Junior Department committee).",
+      "sources": [
+        "src_ia_ymca_annual_1891_92"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "Cushing family",
+        "YMCA Montreal"
+      ],
+      "date_ref": "1891-1892",
+      "conflicts_with": [],
+      "added_version": "v4.88",
+      "added_by": "browser_research"
+    },
+    {
+      "fact_id": "f_1533",
+      "claim": "The new Montreal YMCA building at Dominion Square opened in January 1892.",
+      "sources": [
+        "src_ia_ymca_annual_1891_92"
+      ],
+      "confidence": "stated",
+      "category": "institutional",
+      "entities": [
+        "YMCA Montreal",
+        "Dominion Square"
+      ],
+      "date_ref": "1892",
+      "conflicts_with": [],
+      "added_version": "v4.88",
+      "added_by": "browser_research"
+    },
+    {
+      "fact_id": "f_1534",
+      "claim": "The 1993 Montreal YMCA annual report (Board Chairman Marcel Coté; President/CEO Michael Goldbloom) noted Kamp Kanawana celebrating its 100th anniversary and 'enjoys a special stature within the activities of the YMCA.'",
+      "sources": [
+        "src_ia_ymca_annual_1993"
+      ],
+      "confidence": "stated",
+      "category": "chronology",
+      "entities": [
+        "Kamp Kanawana",
+        "centennial",
+        "Michael Goldbloom",
+        "Marcel Coté"
+      ],
+      "date_ref": "1993",
+      "conflicts_with": [],
+      "added_version": "v4.88",
+      "added_by": "browser_research"
+    },
+    {
+      "fact_id": "f_1535",
+      "claim": "The 1993 Kamp Kanawana Committee comprised: Andrew Caddell (Chairperson), Tim Clark, Barbara Drury, Sue Khan, Bob Lewandowski, Bruce Netherwood (YMCA staff), and Tom Snabl.",
+      "sources": [
+        "src_ia_ymca_annual_1993"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "Kamp Kanawana Committee",
+        "Andrew Caddell",
+        "Bruce Netherwood"
+      ],
+      "date_ref": "1993",
+      "conflicts_with": [],
+      "added_version": "v4.88",
+      "added_by": "browser_research"
+    },
+    {
+      "fact_id": "f_1536",
+      "claim": "The Bill Lewis Spring Race (April 25, 1993) was the first time $5,000 in receipts was used to subsidize disadvantaged children attending camp.",
+      "sources": [
+        "src_ia_ymca_annual_1993"
+      ],
+      "confidence": "stated",
+      "category": "programs",
+      "entities": [
+        "Bill Lewis Spring Race",
+        "Kamp Kanawana"
+      ],
+      "date_ref": "1993",
+      "conflicts_with": [],
+      "added_version": "v4.88",
+      "added_by": "browser_research"
+    },
+    {
+      "fact_id": "f_1537",
+      "claim": "The 1901 'Historical Sketch of the YMCA of the City of Montreal, 1851-1901' (Jubilee Celebration, June 8-10, 1901) contains no references to summer camping; all 'camp' references concern militia/military camps (negative result).",
+      "sources": [
+        "src_ia_historical_sketch_1901"
+      ],
+      "confidence": "stated",
+      "category": "chronology",
+      "entities": [
+        "YMCA Montreal",
+        "camping origins"
+      ],
+      "date_ref": "1901",
+      "conflicts_with": [],
+      "added_version": "v4.88",
+      "added_by": "browser_research"
+    },
+    {
+      "fact_id": "f_1538",
+      "claim": "D.A. Budge served as General Secretary of the Montreal YMCA from 1874 to at least 1901 (27+ years continuous), per the 1901 historical sketch.",
+      "sources": [
+        "src_ia_historical_sketch_1901"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "D.A. Budge",
+        "YMCA Montreal"
+      ],
+      "date_ref": "1874-1901",
+      "conflicts_with": [],
+      "added_version": "v4.88",
+      "added_by": "browser_research"
+    },
+    {
+      "fact_id": "f_1539",
+      "claim": "The 1901 historical sketch lists Lemuel Cushing Jr. as YMCA Montreal President 1867-68 (conflicts with other sources giving 1869-70).",
+      "sources": [
+        "src_ia_historical_sketch_1901"
+      ],
+      "confidence": "disputed",
+      "category": "people",
+      "entities": [
+        "Lemuel Cushing Jr.",
+        "YMCA Montreal"
+      ],
+      "date_ref": "1867-1868",
+      "conflicts_with": [
+        "f_1160"
+      ],
+      "added_version": "v4.88",
+      "added_by": "browser_research"
+    },
+    {
+      "fact_id": "f_1540",
+      "claim": "The 1901 historical sketch lists Charles Cushing as a Board Director with term expiring May 1, 1902.",
+      "sources": [
+        "src_ia_historical_sketch_1901"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "Charles Cushing",
+        "YMCA Montreal"
+      ],
+      "date_ref": "1901",
+      "conflicts_with": [],
+      "added_version": "v4.88",
+      "added_by": "browser_research"
+    },
+    {
+      "fact_id": "f_1541",
+      "claim": "Lac Kanawana RSVL monitoring is Station 0573A, coordinates 45°51'07\"N 74°11'37\"W, in the Rivière du Nord watershed. Average depth 5.2 m, drainage ratio 21.95; 42% of the lake bottom is colonizable by macrophytes (max growth depth 4.3 m).",
+      "sources": [
+        "src_crel_kanawana",
+        "src_rsvl_melccfp"
+      ],
+      "confidence": "stated",
+      "category": "environment",
+      "entities": [
+        "Lac Kanawana",
+        "RSVL"
+      ],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "v4.88",
+      "added_by": "browser_research"
+    },
+    {
+      "fact_id": "f_1542",
+      "claim": "Lac Kanawana water quality, 2010 summer means: total phosphorus 8.4 µg/L, chlorophyll a 7.2 µg/L, Secchi 2.5 m, DOC 6.2 mg/L (trophic status: mesotrophe). 2011 summer means: phosphorus 7.5 µg/L, chlorophyll a 3.4 µg/L, Secchi 3.9 m, DOC 3.4 mg/L (oligo-mesotrophe).",
+      "sources": [
+        "src_crel_kanawana",
+        "src_rsvl_melccfp"
+      ],
+      "confidence": "stated",
+      "category": "environment",
+      "entities": [
+        "Lac Kanawana",
+        "RSVL"
+      ],
+      "date_ref": "2010-2011",
+      "conflicts_with": [],
+      "added_version": "v4.88",
+      "added_by": "browser_research"
+    },
+    {
+      "fact_id": "f_1543",
+      "claim": "Per RSVL/MELCCFP records, Lac Kanawana's volume is 1,239,000 m³ and water renewal time 0.36 years (conflicts with other figures of 1,273,000 m³ and 0.43 years); no RSVL monitoring is recorded after 2011 (conflicts with claims of data since 2013).",
+      "sources": [
+        "src_crel_kanawana",
+        "src_rsvl_melccfp"
+      ],
+      "confidence": "disputed",
+      "category": "environment",
+      "entities": [
+        "Lac Kanawana",
+        "RSVL"
+      ],
+      "date_ref": "2010-2011",
+      "conflicts_with": [
+        "f_1146",
+        "f_0615",
+        "f_1401"
+      ],
+      "added_version": "v4.88",
+      "added_by": "browser_research"
+    },
+    {
+      "fact_id": "f_1544",
+      "claim": "A 1960 CIT (Counsellor-in-Training) dining-hall plaque lists Ron McCallum as 'Director' (Flickr 'Plaque' album). Since A. Ross Seaman is documented as overall camp director 1959-1967, McCallum was most likely the CIT/leadership-program director that year rather than overall camp director (conflict c_013). The 1960 plaque also names CIT staff: Cal Breslin, Ken Peets, Keith Bush, Chris Reid, Mike Gauchier, Tom Snabl, Nick Funston, Dave Weightman, Steve Greig, Mike Wilmot.",
+      "sources": [
+        "src_flickr_kanawana"
+      ],
+      "confidence": "disputed",
+      "category": "people",
+      "entities": [
+        "Ron McCallum",
+        "Kamp Kanawana",
+        "directors"
+      ],
+      "date_ref": "1960",
+      "conflicts_with": [],
+      "added_version": "v4.88",
+      "added_by": "browser_research"
+    },
+    {
+      "fact_id": "f_1545",
+      "claim": "The official 'Kanawana' Flickr account holds 4,416 photos in 33 albums (joined 2010). A 'University Concordia Archives' album contains 34 digitized archival images spanning 1900-1960s, with titles including 'Towards St. Sauveur des Monts,' 'To Lake Wilson,' and a 1915 staff photo.",
+      "sources": [
+        "src_flickr_kanawana"
+      ],
+      "confidence": "stated",
+      "category": "documents",
+      "entities": [
+        "Camp Kanawana",
+        "Flickr",
+        "Concordia Archives"
+      ],
+      "date_ref": "1900-1960",
+      "conflicts_with": [],
+      "added_version": "v4.88",
+      "added_by": "browser_research"
+    },
+    {
+      "fact_id": "f_1546",
+      "claim": "The Concordia Records Management/Archives Flickr holds two ca.1910 Kanawana photos: a flag-raising ceremony captioned 'FLAG RAISING KAMP KANAWANA / MONTREAL Y.M.C.A. BOYS CAMP' (Ref P145) and a camp truck (Ref P145).",
+      "sources": [
+        "src_flickr_concordia_rma"
+      ],
+      "confidence": "stated",
+      "category": "documents",
+      "entities": [
+        "Kamp Kanawana",
+        "Concordia Archives"
+      ],
+      "date_ref": "1910",
+      "conflicts_with": [],
+      "added_version": "v4.88",
+      "added_by": "browser_research"
+    },
+    {
+      "fact_id": "f_1547",
+      "claim": "FamilySearch record for Mabel Grace Jamieson (b. 8 Nov 1893, Canada; d. 9 Mar 1966, Osoyoos BC; married name Mooney; resided Megantic QC per 1911 census; father William Alfred Jamieson, mother Mary McBride Kean) shows no camp connection — likely NOT Camp Ouareau founder Mabel C. Jamieson.",
+      "sources": [
+        "src_familysearch_jamieson"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "Mabel Grace Jamieson",
+        "Camp Ouareau"
+      ],
+      "date_ref": "1893-1966",
+      "conflicts_with": [],
+      "added_version": "v4.88",
+      "added_by": "browser_research"
+    },
+    {
+      "fact_id": "f_1548",
+      "claim": "Hedley Seldon Dimock was born 11 February 1891 in South Rawdon, Nova Scotia, and died 4 October 1958 in Burlingame, California. He immigrated to Vermont in 1895; parents Charles Turner Torry Dimock and Catherine Elizabeth Chase. He married Elizabeth Marguerite Gardiner on 17 August 1922 in Regina, SK, and had three children: Dorothy (1925-2005), Hedley Jr. (b. 1928), and Elizabeth (1934-1988). The son 'Hedley Jr.' born 1928 matches Hedley Gardner Dimock (b. c.1928), strongly supporting the father-son hypothesis.",
+      "sources": [
+        "src_familysearch_dimock"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "Hedley Dimock",
+        "Hedley Gardner Dimock"
+      ],
+      "date_ref": "1891-1958",
+      "conflicts_with": [],
+      "added_version": "v4.88",
+      "added_by": "browser_research"
+    },
+    {
+      "fact_id": "f_1549",
+      "claim": "Cathy Reeves' 1993 VHS film 'YMCA Kamp Kanawana: The Experience that Lasts a Lifetime' is on YouTube (uploaded June 16, 2022 from Concordia Archives); it describes Kanawana as 'the oldest camp in Quebec and second oldest in Canada.'",
+      "sources": [
+        "src_youtube_kanawana"
+      ],
+      "confidence": "stated",
+      "category": "documents",
+      "entities": [
+        "Cathy Reeves",
+        "Kamp Kanawana",
+        "film"
+      ],
+      "date_ref": "1993",
+      "conflicts_with": [],
+      "added_version": "v4.88",
+      "added_by": "browser_research"
+    },
+    {
+      "fact_id": "f_1550",
+      "claim": "Silent 1960s archival footage of Kamp Kanawana is on YouTube (uploaded June 21, 2022). A 1941 CFCF radio broadcast about YMCA Kamp Kanawana is on the Internet Archive (item 1941-06-26-ymca-kamp-kanawana-broadcast-station-cfcf).",
+      "sources": [
+        "src_youtube_kanawana",
+        "src_ia_cfcf_1941"
+      ],
+      "confidence": "stated",
+      "category": "documents",
+      "entities": [
+        "Kamp Kanawana",
+        "CFCF",
+        "film"
+      ],
+      "date_ref": "1941-1960",
+      "conflicts_with": [],
+      "added_version": "v4.88",
+      "added_by": "browser_research"
+    },
+    {
+      "fact_id": "f_1551",
+      "claim": "Tamaracouta Scout Reserve (founded 1912) claims to be the oldest continuously running Scout camp in the world — regional camping context for the Laurentians.",
+      "sources": [
+        "src_qahn_shawbridge"
+      ],
+      "confidence": "stated",
+      "category": "context",
+      "entities": [
+        "Tamaracouta Scout Reserve",
+        "Laurentians camping"
+      ],
+      "date_ref": "1912",
+      "conflicts_with": [],
+      "added_version": "v4.88",
+      "added_by": "browser_research"
+    },
+    {
+      "fact_id": "f_1552",
+      "claim": "The Stuart McLean fonds at McMaster University (1960s-2016, ~16 metres, 87+ boxes, no access restrictions) contains three camp-related files: F.13 [Summer Camp] (typescript drafts 'Camp' and 'Letter Home,' with an editor's note from Meg Masters dated 8 May 1998), F.16 'Kamp Kanawana,' and F.25 'Vinyl Cafe Show 2.10 Camp — Not Published.'",
+      "sources": [
+        "src_mcmaster_mclean"
+      ],
+      "confidence": "stated",
+      "category": "archives",
+      "entities": [
+        "Stuart McLean",
+        "McMaster University",
+        "Kamp Kanawana"
+      ],
+      "date_ref": "1960-2016",
+      "conflicts_with": [],
+      "added_version": "v4.88",
+      "added_by": "browser_research"
+    },
+    {
+      "fact_id": "f_1553",
+      "claim": "Stuart McLean (b. Montreal 1948, raised Montreal West) began as a counsellor in the Senior Boys Section at Kanawana in summer 1969, worked 5+ summers, and rose to assistant camp director under director Derek Walsh (summers 1974-75); he returned in 2005 to host a Vinyl Cafe show at camp. McLean later sublet his Westmount apartment to Derek Walsh when McLean moved to Toronto.",
+      "sources": [
+        "src_mcmaster_mclean"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "Stuart McLean",
+        "Derek Walsh",
+        "Kamp Kanawana"
+      ],
+      "date_ref": "1969-1975",
+      "conflicts_with": [],
+      "added_version": "v4.88",
+      "added_by": "browser_research"
+    },
+    {
+      "fact_id": "f_1554",
+      "claim": "Camp Kanawana's address is 673 montée Sainte-Elmire, Saint-Sauveur, QC; phone (833) 505-9622.",
+      "sources": [
+        "src_fb_kanawana"
+      ],
+      "confidence": "stated",
+      "category": "places",
+      "entities": [
+        "Camp Kanawana"
+      ],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "v4.88",
+      "added_by": "browser_research"
+    },
+    {
+      "fact_id": "f_1555",
+      "claim": "The Voyageur program consists of 8+ day canoe camping trips; trip staff are called 'Trippers' (e.g., Justin Caldwell, 2018).",
+      "sources": [
+        "src_fb_kanawana"
+      ],
+      "confidence": "stated",
+      "category": "programs",
+      "entities": [
+        "Voyageur program",
+        "canoe trips"
+      ],
+      "date_ref": "2018",
+      "conflicts_with": [],
+      "added_version": "v4.88",
+      "added_by": "browser_research"
+    },
+    {
+      "fact_id": "f_1556",
+      "claim": "The 'Non Nobis Solum' motto shared by Lower Canada College and Camp Kanawana is coincidental: both derive independently from Cicero. LCC adopted it from founder Charles Fosbery's family crest (1909). LCC's current outdoor programs use Camp Minogami (near Shawinigan), not Kanawana.",
+      "sources": [
+        "src_ia_penton_lcc",
+        "src_fb_kanawana"
+      ],
+      "confidence": "inferred",
+      "category": "context",
+      "entities": [
+        "Non Nobis Solum",
+        "Lower Canada College",
+        "Camp Kanawana"
+      ],
+      "date_ref": "1909",
+      "conflicts_with": [],
+      "added_version": "v4.88",
+      "added_by": "browser_research"
     }
   ]
 }

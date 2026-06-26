@@ -59,7 +59,7 @@ Conflict c_006 is now substantially resolved: oral history explains the renaming
 
 ## Open Questions
 
-1. [Critical] Does the Fong biography mention Camp Kanawana, land donations, or lake naming? The relevant chapter is now identified — "Keep the Home Fires Burning: Fundraising for the YMCA in Peace and for Canada in the Great War, 1909–19" (pp. 123+) — and the full book is borrowable online at Internet Archive (item `jwmcconnellfinan0000fong`); operator borrow + index check for "Kanawana"/"camp" is the access path (p_132)
+1. [Critical] Does the Fong biography mention Camp Kanawana, land donations, or lake naming? Browser research (2026) corrected the chapter attribution: the YMCA fundraising chapter is **Chapter 6** ("Keep the Home Fires Burning…1909–19"), not Chapter 5 ("Bittersweet: St Lawrence Sugar and Regulation, 1912-63"). The book on Internet Archive (item `jwmcconnellfinan0000fong`) is **print-disabled / not borrowable**, so full-text search was not possible; an index/snippet hint suggests p.573 (the McGill/McConnell Foundation chapters) may contain a Kanawana reference. Physical access to the book remains the path.
 2. [Critical] Does the McMorris thesis full text discuss the Lake Wilson naming origin or McConnell donations?
 3. ~~[Critical] What lake is "Lake Desjardins"?~~ [Substantially resolved] Oral history: Lac Desjardins was the original name of Lake Wilson, renamed after McConnell donation. Pagé family genealogy: Magloire Pagé fils married Olivine Desjardins (1875), linking the name to landowner family. Remaining: land registry confirmation.
 4. [Important] Do the 1933 Ralph Dawson or 1943 R.L. Charlton camp histories mention McConnell by name?

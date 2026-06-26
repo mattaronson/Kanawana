@@ -29,7 +29,7 @@ Lemuel Cushing was born April 29, 1806 in Trois-Rivières, Lower Canada, the eig
 
 ## Lemuel Cushing Jr. and the YMCA (1842-1881)
 
-Lemuel Jr. was called to the Montreal bar in 1865 and served as president of the Montreal YMCA from 1869 to 1870 — the first documented Cushing-YMCA connection.^2 He married Ellen Myra Macdougall in 1869 and represented Argenteuil as a Member of Parliament from 1874 to 1875. In 1877 he published *The Genealogy of the Cushing Family*, tracing the lineage from 1638.^2 He died March 1, 1881 at age 39.
+Lemuel Jr. was called to the Montreal bar in 1865 and served as president of the Montreal YMCA from 1869 to 1870 — the first documented Cushing-YMCA connection.^2 (The 1901 *Historical Sketch of the YMCA of Montreal* instead dates his presidency to 1867-68; this primary-source discrepancy is recorded as conflict c_012.)^11 He married Ellen Myra Macdougall in 1869 and represented Argenteuil as a Member of Parliament from 1874 to 1875. In 1877 he published *The Genealogy of the Cushing Family*, tracing the lineage from 1638.^2 He died March 1, 1881 at age 39.
 
 Lemuel Jr. and Ellen had four children, all born in Montreal: Walter Edgar (b. 1870), Harold Beveridge (b. 1873, later a physician at Royal Victoria Hospital), Florence Ethelwyn (b. 1874), and James Stevenson (b. 1878).^6 None were named Lemuel.
 
@@ -48,6 +48,10 @@ Analysis of the 1905 Cushing genealogy reveals that the only person literally na
 Lemuel Jr.'s eldest son **Walter Edgar Cushing** (b. 1870) was 22 in 1892 and may have been referred to informally by the family name "Cushing" or even "young Lemuel Cushing." His brother **Harold Beveridge Cushing** (b. 1873) was 19 and completing his B.A. at McGill that same year.^6 Either could plausibly have led the trip.
 
 The 1905 genealogy contains no mention of Lake Saint-Joseph, camping, or YMCA activity beyond Lemuel Jr.'s presidency — the 1892 trip is unrecorded in the family's own published history.^6 The QAHN attribution to "Lemuel Cushing" may reflect a name conflation or the use of a family surname rather than a specific individual's given name. Resolution requires the 1893 camper lists in Concordia Archives sub-series 12L.
+
+## The Cushing Family in YMCA Governance (1891–1902)
+
+The Cushing family's involvement in YMCA Montreal governance is documented in the Association's own annual reports. The 41st Annual Report (published May 19, 1892) lists Charles Cushing on the Board of Directors and Building Committee, Walter Cushing on the Young Men's Meeting committee, and P.H. Cushing on the Junior Department committee.^11 Notably, that same report states the Association had no outdoor camp or grounds — "The Out-door Work suffers from the disadvantage of not owning suitable grounds" — confirming that the YMCA's camping program did not yet exist in spring 1892, the very year a "Lemuel Cushing" is said to have taken boys to Lake Saint-Joseph.^11 The 1901 historical sketch lists Charles Cushing as a Board Director with a term expiring May 1, 1902.^11
 
 ## Thomas Cushing and Montreal Brewing
 
@@ -92,6 +96,7 @@ A different **Walter Edgar Cushing** (Dartmouth College, Class of 1909) served w
 8. McGill University Faculty of Medicine records; Cushing Memorial Prize documentation.
 9. Dartmouth College alumni records, Class of 1909.
 10. FamilySearch, Cushing genealogy supplement 1905-1969 (item 235744).
+11. YMCA of Montreal Annual Report (41st, 1892) and Historical Sketch of the YMCA of Montreal 1851-1901 (Internet Archive). [Note: the 1901 sketch dates Lemuel Jr.'s presidency to 1867-68; see conflict c_012.]
 
 ## Research Notes
 

@@ -19,6 +19,8 @@ According to the Quebec Anglophone Heritage Network (QAHN), Lemuel Cushing broug
 
 The relationship between Cushing's 1892 trip and Ball's 1894 Camp Jubilee remains unclear. They may represent successive stages of the same initiative, with Cushing's trip being an informal precursor and Ball's the formal institutional launch.
 
+Two YMCA institutional publications confirm — by their silence — that no permanent camp existed before 1894. The 41st Annual Report of the YMCA of Montreal (published May 19, 1892) states the Association had no suitable grounds: "The Out-door Work suffers from the disadvantage of not owning suitable grounds," with land priorities centred on an athletic ground at Point St. Charles rather than a rural camp.^br Likewise, the 1901 *Historical Sketch of the YMCA of the City of Montreal, 1851-1901*, prepared for the YMCA's own jubilee, contains no reference whatsoever to summer camping — all of its "camp" references concern militia camps.^br That a 50-year retrospective written in 1901 omits the camp suggests that, even seven years after Camp Jubilee's 1894 founding, summer camping was not yet regarded as a significant institutional program. The Cushing family appear in both documents as YMCA officers (Charles, Walter, and P.H. Cushing in 1891-92), but in connection with governance, not camping.^br
+
 ## Camp Jubilee at Lake St. Joseph (1894-c.1910)
 
 In the summer of 1894, Billy Ball of the Montreal YMCA took approximately 20 campers to Lake St. Joseph in the Township of Howard (now Saint-Adolphe-d'Howard), near Sainte-Agathe. The camp was situated on islands in the lake, with a landing area on the shore. Fifty-three members used the site that first summer.^mc The YMCA subsequently purchased the main island — part of a 33-acre property acquired in 1898 at a cost of one dollar per acre — along with two other islands for continued use.^mc
@@ -83,6 +85,7 @@ The 1923 brochure and 1935 history together describe a camp that had grown into 
 - 1941 CFCF radio broadcast script (Langille)
 - Montreal Gazette, July 7, 1897: "YMCA Summer Camp Kanawana" — earliest known newspaper reference [src_gazette_1897]
 - Montreal Gazette, July 11, 1918: "At Camp Kanawana" — record 110 attendance, YMCA London filming [src_gazette_1918]
+- ^br: YMCA of Montreal 41st Annual Report (1892) and Historical Sketch of the YMCA of Montreal 1851-1901, both on Internet Archive; retrieved via operator browser research, June 2026 [src_ia_ymca_annual_1891_92, src_ia_historical_sketch_1901]
 
 ## Research Notes
 

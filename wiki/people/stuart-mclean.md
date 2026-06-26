@@ -53,7 +53,7 @@ After McLean's death in February 2017, his family requested donations to Camp Ka
 
 McLean was diagnosed with melanoma in November 2015, and *The Vinyl Cafe* stopped touring and producing new episodes.^7 He died on February 15, 2017, in Toronto, aged 68.^12 A tribute special, *Canada's Storyteller*, hosted by Michael Enright, aired on CBC Radio the following day.^12
 
-McLean donated his archives — 100 boxes spanning 16 metres — to McMaster University in May 2016. The Stuart McLean fonds is publicly accessible at Mills Library.^13 The Montreal West Library named a reading room in his honour.^7
+McLean donated his archives — 100 boxes spanning 16 metres — to McMaster University in May 2016. The Stuart McLean fonds (1960s–2016, 87+ boxes, no access restrictions) is publicly accessible at Mills Library.^13 It contains at least three camp-related files: **F.13 [Summer Camp]** (typescript drafts of "Camp" and "Letter Home," with an editor's note from Meg Masters dated May 8, 1998), **F.16 "Kamp Kanawana,"** and **F.25 "Vinyl Cafe Show 2.10 Camp — Not Published"** (an unpublished show about camp).^13 The Montreal West Library named a reading room in his honour.^7
 
 A podcast, *Backstage at the Vinyl Cafe*, produced by Jess Milton, launched in January 2023, drawing on the archival recordings.^7
 
@@ -61,10 +61,10 @@ McLean recorded "A Letter from Camp" for the *Vinyl Cafe* album *Up & Away* (201
 
 ## Open Questions
 
-1. [Important] Who was the camp director McLean worked under as assistant director in 1974–1975? A Westmount Magazine commenter identified himself as that director but gave no name.^10
+1. ~~[Important] Who was the camp director McLean worked under as assistant director in 1974–1975?~~ [Resolved] **Derek Walsh.** The McMaster fonds confirms McLean was assistant director "under director Derek Walsh"; McLean sublet his Westmount/Dorchester apartment to Walsh when he moved to Toronto, identifying Walsh as the anonymous Westmount Magazine commenter.^10 ^13
 2. [Partially resolved] Did specific *Vinyl Cafe* stories reference camp or Kanawana? "A Letter from Camp" on the *Up & Away* 4-CD collection (Disc Three, 2016) includes a personal story from McLean's camp days.^14 No camp-themed Dave and Morley story has been identified, though McLean's camp values pervade the show's themes.
 3. [Nice-to-have] What is the date and venue of McLean's speech to YMCA camp directors? The John Island Alumni Newsletter (Spring 2012) excerpted it but did not date the original speech.^3
-4. [Nice-to-have] Does the McMaster fonds contain camp-related materials (photographs, letters from 1969–1975)?^13
+4. ~~[Nice-to-have] Does the McMaster fonds contain camp-related materials?~~ [Resolved] Yes — files F.13 [Summer Camp], F.16 "Kamp Kanawana," and F.25 "Vinyl Cafe Show 2.10 Camp — Not Published."^13
 5. [Nice-to-have] What is the cumulative total raised by the Stuart McLean Fund since 2017?
 
 ## Related Articles

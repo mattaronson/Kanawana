@@ -127,9 +127,15 @@ In 2018, Desjardins donated $1 million to the YMCA for renovations at Camp Kanaw
 
 A second pavilion built alongside the Dining Pavilion in 1922, described as a "lakeside Pavilion" that "takes care of the campers" in rainy weather and "provides accommodation for indoor games and recreation" [src_brochure_1922]. The 1923 brochure describes two "spacious pavilions, one for dining and one for recreation in wet weather — the latter having a large open fireplace" [src_brochure_1923]. Whether this structure survives in some form (as the Activity Lodge, the Beach Lodge, or another building) or was demolished is unknown.
 
-### Doctor's Cottage (Ross & Macdonald)
+### Ross & Macdonald Buildings (1913–1921)
 
-The **Canadian Centre for Architecture (CCA)** holds architectural drawings in the **Ross & Macdonald fonds** for a **"Doctor's Cottage for Kamp Kanawana"** [f_0573]. Ross & Macdonald was one of Canada's most prominent architectural firms (active 1904–1946), responsible for the Château Laurier, Royal York Hotel, Mount Royal Hotel, and Maple Leaf Gardens [f_0574]. The firm designed "several buildings for the YMCA in Montreal (1909–13)," placing the Doctor's Cottage likely in that period. Whether the Doctor's Cottage was built, and its relationship to the 1922 Hospital (below), remain unknown. The CCA drawings have not been examined.
+The **Canadian Centre for Architecture (CCA)** holds architectural drawings in the **Ross & Macdonald fonds** (AP013) for **three** Kanawana projects, not one — a fact established by operator browser research in 2026 [f_1530]:
+
+1. **YMCA Boy's Camp buildings**, 1913–1914 (AP013.S1.D37, CCA #48095) — 5 working drawings, the firm's earliest Kanawana work;
+2. **Dining and Kitchen Pavilion**, 1919 (AP013.S1.D46, CCA #48710) — 6 drawings, "Dining and Kitchen Pavilion for YMCA Boy's Camp, Saint-Sauveur-des-Monts";
+3. **Doctor's Cottage**, 1921 (AP013.S1.D67, CCA #50576) — 3 drawings (ARCH25242 preliminary, ARCH25243 working, ARCH25244 structural details) [f_0573].
+
+Fourteen drawings in total, all client = YMCA, location = Saint-Sauveur-des-Monts, described as "executed (?)". Ross & Macdonald was one of Canada's most prominent architectural firms (active 1904–1946), responsible for the Château Laurier, Royal York Hotel, Mount Royal Hotel, and Maple Leaf Gardens [f_0574]. The 1919 dining/kitchen pavilion drawings likely correspond to the dining pavilion documented in the 1922–1923 brochures, and the 1921 Doctor's Cottage may relate to the 1922 Hospital (below). The CCA drawings have not been examined page by page.
 
 ### Hospital (1922)
 
@@ -241,7 +247,9 @@ From 1977 to 1980, plans existed for a proposed two-site camping operation using
 | 1959 | Section names changed to Pioneers, Woodsmen, Coureurs des Bois, Pathfinders | [f_0216] |
 | 1970s | Totem pole still visible in photographs | [f_0227] |
 | 1980 | Nature trail development discussed | [src_ka_news_1980] |
-| c.1909-13 | Ross & Macdonald designs "Doctor's Cottage for Kamp Kanawana" (CCA drawings) | [f_0573] |
+| 1913-14 | Ross & Macdonald designs YMCA Boy's Camp buildings (CCA AP013.S1.D37, 5 drawings) | [f_1530] |
+| 1919 | Ross & Macdonald designs Dining and Kitchen Pavilion (CCA AP013.S1.D46, 6 drawings) | [f_1530] |
+| 1921 | Ross & Macdonald designs "Doctor's Cottage for Kamp Kanawana" (CCA AP013.S1.D67, 3 drawings) | [f_0573] [f_1530] |
 | 2018 | Desjardins donates $1M for new community pavilion | [src_lapresse_ymca_2018] |
 | 2023 | Superintendent's house destroyed by fire (May 16) | [src_journal_acces_fire_2023] |
 | c. 1979 | Longhouse demolished by controlled fire (irrepairable condition) | [src_oral_aronson] |
