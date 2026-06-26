@@ -15,7 +15,7 @@ By 1962, the growth of cottager communities near Kanawana meant canoe trips had 
 
 The first all-female Voyageur trip departed from Kanawana in 1972, a milestone in the camp's transition to coeducation.^3 In 1998, the one-month Adventurer Canoe Trip was introduced, extending the program's reach to the most committed young trippers.^3
 
-Today, canoe tripping remains central to the Kanawana experience. The 2026 program structure offers multiple expedition pathways: Adventurers Coureurs des Bois (boys and non-binary, 13–16) provides 4–6 day introductory canoe trips in La Vérendrye Wildlife Reserve; Adventurers Pathfinders (girls and non-binary, 13–16) offers the same format, with flat-water trips in La Vérendrye or white-water trips on Quebec and Ontario rivers; and Voyageurs Ultimate (15–17) runs a 26-day white-water canoe expedition.^4 ^5 The Explorers Pioneers program (girls and non-binary, 11–12) introduces younger campers to expedition travel with 3–4 day combined canoeing and hiking trips at Papineau-Labelle Wildlife Reserve.^6
+Today, canoe tripping remains central to the Kanawana experience. The 2026 program structure offers multiple expedition pathways: Adventurers Coureurs des Bois (boys and non-binary, 13–16) provides 4–6 day introductory canoe trips in La Vérendrye Wildlife Reserve; Adventurers Pathfinders (girls and non-binary, 13–16) offers the same format, with flat-water trips in La Vérendrye or white-water trips on Quebec and Ontario rivers; and Voyageurs Ultimate (15–17) runs a 26-day white-water canoe expedition.^4 ^5 The Explorers Pioneers program (girls and non-binary, 11–12) introduces younger campers to expedition travel with 3–4 day combined canoeing and hiking trips at Papineau-Labelle Wildlife Reserve.^6 A documented Papineau-Labelle route covers roughly 22 km over 4 days, with portages of 100–690 m linking Lac Saint-Denis, Lac du Crochet, and Lac Montjoie.^7
 
 ## Related Articles
 
@@ -37,6 +37,7 @@ Today, canoe tripping remains central to the Kanawana experience. The 2026 progr
 - YMCA Quebec, "Summer Camp Kanawana: Programs" (ymcaquebec.org). Confirms Voyageurs Ultimate section and ongoing canoe tripping.
 - YMCA Quebec, "Adventurers Pathfinders: Canoe-Tripping" (ymcaquebec.org, 2026). Girls and NB 13–16; La Vérendrye or river trips.
 - YMCA Quebec, "12-Day Explorers Pioneers" (ymcaquebec.org, 2026). Girls and NB 11–12; 3-4 day expedition to Papineau-Labelle Wildlife Reserve.
+- ^7 Phase 2 research (recovered June 2026): Papineau-Labelle Adventurer route ~22 km/4 days, portages 100–690 m, Lac Saint-Denis–Lac du Crochet–Lac Montjoie.
 - *A History of Kamp Kanawana* (1935). Internet Archive. Mentions "Four-day trip to Otoreke," confirming canoe trips existed by 1935.
 
 ### R3 Verification Notes

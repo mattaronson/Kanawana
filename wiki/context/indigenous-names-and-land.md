@@ -29,7 +29,9 @@ Under Harold Cross's directorship (c. 1925-1928), the camp expanded what McMorri
 
 An "Indian Grave" marking existed on the Kanawana camp map, though no documentation has been found explaining whether this referred to an actual burial site, a naturalistic feature, or a campfire-story location.^8
 
-## Land History
+## Pre-Colonial and Land History
+
+The Weskarini Algonquin were dispersed by Iroquois warfare in the 1650s; a major massacre occurred in 1653 near Petit Lac Nominingue, northwest of Arundel — roughly 70-80 km north of the Camp Kanawana site, but within the same territorial zone.^12 Archaeological fieldwork in the Laurentians since 2015 (researchers Francis Lamothe, Karine Taché, and Roland Tremblay) has shown that the Laurentian landscape was integrated within Indigenous interaction networks spanning several regions of the greater Northeast — evidence of land use long predating European settlement.^12 The camp's watershed, the Rivière du Nord, flows approximately 125-137 km from Sainte-Agathe-des-Monts through Val-David, Sainte-Adèle, Saint-Sauveur, Prévost, and Saint-Jérôme before reaching the Ottawa River at the Lake of Two Mountains.^12
 
 The Kanawana site sits in the municipality of Saint-Sauveur, in the Laurentian highlands. The area was settled by French-Canadian pioneers in the 1830s-1850s, with Jean-Baptiste Desjardins and Magloire Pagé among the first settlers of côte Saint-Elmire (c. 1837).^9 The YMCA purchased the property from the Pagé family circa 1910, and additional land (the "Pagé farm") in 1960.^10
 
@@ -63,3 +65,4 @@ The Kanawana site sits in the municipality of Saint-Sauveur, in the Laurentian h
 9. Société d'histoire et de généalogie des Pays-d'en-Haut; Ville de Saint-Sauveur.
 10. McMorris thesis: land acquisition history.
 11. KB: Weskarini Algonquin (Petite-Nation) traditional territory; nearby Mohawk communities Kanesatake and Kahnawake.
+12. Phase 2 indigenous/land-history research (recovered June 2026): Weskarini dispersal (1653 Petit Lac Nominingue), Laurentian archaeology since 2015 (Lamothe, Taché, Tremblay), Rivière du Nord course.

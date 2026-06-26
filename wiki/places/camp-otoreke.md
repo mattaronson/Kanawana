@@ -11,7 +11,7 @@ Camp Otoreke was the YMCA of Montreal's original camping site, located on island
 
 Lake Saint-Joseph is located in the Township of Howard (now Saint-Adolphe-d'Howard).^2 The lake measures approximately 3 km long by 1 km at maximum width.^2 The YMCA purchased three islands in the lake for the camp, which had a landing area on the shore.^1 A historical postcard titled "A View of The YMCA Camp Landing, Otoreke, Quebec" shows a developed landing dock and waterfront facilities.^3
 
-Saint-Adolphe-d'Howard is a municipality in the Laurentians region of Quebec, in the Pays-d'en-Haut Regional County Municipality.^2 The municipality changed its name from Howard Township to Saint-Adolphe-d'Howard in 1939; the area was popularly known as "Villa Howard" and earned the reputation "Miami of the Laurentians" in the 1950s.^11
+Saint-Adolphe-d'Howard is a municipality in the Laurentians region of Quebec, in the Pays-d'en-Haut Regional County Municipality.^2 The Township of Howard was created in 1873, named after Frederick Howard, 5th Earl of Carlisle, a Commissioner of the Colonies during the American Revolution.^15 The municipality changed its name from Howard Township to Saint-Adolphe-d'Howard in 1939; the area was popularly known as "Villa Howard" and earned the reputation "Miami of the Laurentians" in the 1950s.^11
 
 ## Founding as Camp Jubilee (1894)
 
@@ -80,3 +80,4 @@ Camp Otoreke closed in 1982 after nearly 90 years of continuous operation.^1 The
 12. BaladoDecouverte heritage tour: Camp Kinkora and regional camping context.
 13. BaladoDecouverte heritage tour: CPR railway access since 1892, distance to Sainte-Agathe station.
 14. BaladoDecouverte, Saint-Adolphe-d'Howard heritage tour: YMCA island acquisition 1897, 80 campers. (Note: conflicts with QAHN on island count — see c_008.)
+15. Phase 2 research (recovered June 2026): Township of Howard created 1873, named for Frederick Howard, 5th Earl of Carlisle.

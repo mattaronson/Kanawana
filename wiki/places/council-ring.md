@@ -2,7 +2,7 @@
 
 *Status: E1 Reviewed | Sources: McMorris (2023) Ch2, KB council_ring, P145/12B01 Season Reports, 1935 History*
 
-The Council Ring was built by senior campers in 1922, sited between the cabins and the chapel. It served from the start as the camp's ceremonial gathering place, a tiered outdoor amphitheatre where the whole community could assemble for evening programs, campfires, and ritual events. The choice of the name "Council Ring" reflected the broader "playing Indian" aesthetic that shaped YMCA camping in this period, drawing on romanticized ideas about Indigenous governance and ceremony that were common across North American organized camping.
+The Council Ring was built by senior campers in 1922, sited between the cabins and the chapel. It served from the start as the camp's ceremonial gathering place, a tiered outdoor amphitheatre where the whole community could assemble for evening programs, campfires, and ritual events. The choice of the name "Council Ring" reflected the broader "playing Indian" aesthetic that shaped YMCA camping in this period, drawing on romanticized ideas about Indigenous governance and ceremony that were common across North American organized camping. The council-ring form itself is generally traced to landscape architect Jens Jensen and to Ernest Thompson Seton's Woodcraft Indians (Silver Bay camp, 1910), from which it spread through the camping movement — context for Kanawana's adoption of it in 1922.^cr
 
 Under Harold Cross's directorship in 1927, the site gained a totem pole and a teepee constructed from old canvas. These additions were part of Cross's expansion of what McMorris terms the camp's "Indian programming," a suite of activities and symbols that borrowed freely from Indigenous cultures. The totem pole in particular became a lasting visual landmark of the ring.
 
@@ -19,6 +19,7 @@ McMorris's analysis situates the Council Ring and its associated "Indian" tradit
 - Oral history, Matt Aronson (2026).
 - *The Gas Bag*, 1923 Re-union Number. Internet Archive.
 8. Facebook, YKanawana, "Opening Campfire 2020" (Facebook Live video). URL: https://www.facebook.com/YKanawana/videos/opening-campfire-2020/1432885173577431/
+- ^cr Phase 2 research (recovered June 2026): council-ring form traced to Jens Jensen and E.T. Seton's Woodcraft Indians (Silver Bay, 1910).
 
 ### R3 Verification Notes
 

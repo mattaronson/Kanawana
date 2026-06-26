@@ -2316,6 +2316,32 @@ Web research is genuinely exhausted across all major search surfaces. Five indep
 - 8 wiki articles updated with new facts and sources
 - KB version: v4.86 → v4.87
 
+---
+
+## Campaign 21: Chrome Browser Report Integration + Transcript Audit
+*Date: 2026-06-26*
+*Scope: Integrate operator's "Chrome for Claude" 15-task browser research report; audit all 300 background-agent transcripts + 12 scratch files for un-integrated findings.*
+
+### Part A — Chrome Browser Report Integration
+The operator ran a 15-task browser session (Chrome for Claude) covering sources blocked from the sandbox (archive.org borrow, BAnQ, CCA, Flickr, FamilySearch, McMaster, YouTube). Integrated as 37 facts (f_1520-f_1556), 22 sources, 5 conflicts (c_009-c_013). KB → v4.88.
+Key resolutions:
+- **Derek Walsh** identified as Stuart McLean's 1974-75 camp director (also the anonymous Westmount commenter who sublet McLean's flat).
+- **Hedley Jr. (b.1928)** in FamilySearch strongly supports the Dimock father-son hypothesis.
+- **Ross & Macdonald = 3 Kanawana projects** (1913-14 camp buildings, 1919 dining/kitchen pavilion, 1921 doctor's cottage; 14 drawings), not 1.
+- **CRE/RSVL water quality** values retrieved (2010 mesotrophe → 2011 oligo-mesotrophe; no data after 2011); volume/renewal/monitoring discrepancies logged as c_009-c_011.
+- **1891-92 + 1901 YMCA reports**: negative evidence that no permanent camp existed before 1894; Cushing family in governance.
+- **Ron McCallum** on 1960 CIT plaque (flagged c_013 vs Seaman).
+- Fong biography is print-disabled (not borrowable); YMCA chapter is Ch.6 not Ch.5.
+
+### Part B — Transcript & Scratch-File Audit
+Built a mechanical orphan scanner (token-coverage of distinctive entities/years/numbers against KB + article text). Scanned all **300 subagent transcripts** and **12 research-scratch files**.
+- 292 transcripts had final reports; **8 died on "monthly spend limit"** — all 8 topics confirmed covered by sibling agents (etymology, Non Nobis Solum, Netherwood/Kerr, indigenous/reconciliation, env, 1967 participants, Kate Taylor/Lacasse integration).
+- Scanner flagged 9 scratch-file + 72 transcript low-coverage candidates. Manual review: the large majority were camping-movement background (Y-Indian Guides, Ragger, Morning Watch, Frederick Gunn), genealogy dead-ends (wrong R.H. Hanagan, Thomas Cushing Aylwin, Magloire Cyr), comparative-camp context, or bibliography — correctly excluded from a Kanawana KB.
+- **7 genuine orphans recovered** (f_1557-f_1563): Weskarini dispersal (1653 Petit Lac Nominingue); Laurentian archaeology since 2015 (Lamothe/Taché/Tremblay); Rivière du Nord course; Township of Howard naming (1873, Frederick Howard); Adventurer Papineau-Labelle route (22km/4d); James Orbinski's *An Imperfect Offering* (2008); council-ring origin (Jens Jensen / Seton 1910). KB → v4.89.
+
+### Audit Conclusion
+No high-value Kanawana-specific finding remains un-integrated. The transcript corpus is now reconciled against the KB. Remaining flagged items are deliberately-excluded background/dead-ends.
+
 ### Open Questions Exhaustion Audit Result
 All ~265-280 open questions across 50 articles were extracted and cross-referenced against the research log. Findings:
 - **Virtually all Critical questions have been researched to Phase 2 exhaustion** (8+ queries across 3+ search surfaces)

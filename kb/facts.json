@@ -1,5 +1,5 @@
 {
-  "version": "v4.88",
+  "version": "v4.89",
   "kb_version": 4.84,
   "migrated_from": "3.3",
   "fact_count": 1459,
@@ -26226,6 +26226,130 @@
       "conflicts_with": [],
       "added_version": "v4.88",
       "added_by": "browser_research"
+    },
+    {
+      "fact_id": "f_1557",
+      "claim": "The Weskarini Algonquin were dispersed by Iroquois warfare in the 1650s; a major massacre occurred in 1653 near Petit Lac Nominingue, northwest of Arundel — roughly 70-80 km north of the Camp Kanawana site but within the same territorial zone.",
+      "sources": [
+        "src_phase2_indigenous_research"
+      ],
+      "confidence": "stated",
+      "category": "context",
+      "entities": [
+        "Weskarini",
+        "Laurentians",
+        "Iroquois Wars"
+      ],
+      "date_ref": "1653",
+      "conflicts_with": [],
+      "added_version": "v4.89",
+      "added_by": "audit_recovery"
+    },
+    {
+      "fact_id": "f_1558",
+      "claim": "Archaeological fieldwork in the Laurentians since 2015 (researchers Francis Lamothe, Karine Taché, and Roland Tremblay) demonstrates the integration of the Laurentian landscape within Indigenous interaction networks spanning several regions of the greater Northeast.",
+      "sources": [
+        "src_phase2_indigenous_research"
+      ],
+      "confidence": "stated",
+      "category": "context",
+      "entities": [
+        "Laurentians archaeology",
+        "Francis Lamothe",
+        "Karine Taché",
+        "Roland Tremblay"
+      ],
+      "date_ref": "2015",
+      "conflicts_with": [],
+      "added_version": "v4.89",
+      "added_by": "audit_recovery"
+    },
+    {
+      "fact_id": "f_1559",
+      "claim": "The Rivière du Nord — the watershed in which Lac Kanawana sits — flows approximately 125-137 km, running from Sainte-Agathe-des-Monts through Val-David, Sainte-Adèle, Saint-Sauveur, Prévost, and Saint-Jérôme before reaching the Rivière des Outaouais (Ottawa River) at the Lake of Two Mountains.",
+      "sources": [
+        "src_phase2_indigenous_research"
+      ],
+      "confidence": "stated",
+      "category": "places",
+      "entities": [
+        "Rivière du Nord",
+        "Lac Kanawana"
+      ],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "v4.89",
+      "added_by": "audit_recovery"
+    },
+    {
+      "fact_id": "f_1560",
+      "claim": "The Township of Howard (later Saint-Adolphe-d'Howard, site of Camp Jubilee/Otoreke) was created in 1873 and named after Frederick Howard, 5th Earl of Carlisle, a Commissioner of the Colonies during the American Revolution.",
+      "sources": [
+        "src_phase2_research"
+      ],
+      "confidence": "stated",
+      "category": "places",
+      "entities": [
+        "Township of Howard",
+        "Saint-Adolphe-d'Howard",
+        "Frederick Howard"
+      ],
+      "date_ref": "1873",
+      "conflicts_with": [],
+      "added_version": "v4.89",
+      "added_by": "audit_recovery"
+    },
+    {
+      "fact_id": "f_1561",
+      "claim": "Kanawana's Adventurer program (introduced 1998) runs canoe trips in Papineau-Labelle wildlife reserve: a documented route covers ~22 km over 4 days with portages of 100-690 m between Lac Saint-Denis, Lac du Crochet, and Lac Montjoie.",
+      "sources": [
+        "src_phase2_research"
+      ],
+      "confidence": "stated",
+      "category": "programs",
+      "entities": [
+        "Adventurer program",
+        "Papineau-Labelle",
+        "canoe trips"
+      ],
+      "date_ref": "1998",
+      "conflicts_with": [],
+      "added_version": "v4.89",
+      "added_by": "audit_recovery"
+    },
+    {
+      "fact_id": "f_1562",
+      "claim": "James Orbinski (Pip Award 2024) authored 'An Imperfect Offering: Humanitarian Action for the 21st Century' (2008), winner of the Shaughnessy Cohen Award for Political Writing.",
+      "sources": [
+        "src_phase2_research"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "James Orbinski"
+      ],
+      "date_ref": "2008",
+      "conflicts_with": [],
+      "added_version": "v4.89",
+      "added_by": "audit_recovery"
+    },
+    {
+      "fact_id": "f_1563",
+      "claim": "The council-ring concept used at North American summer camps is traced to landscape architect Jens Jensen and to Ernest Thompson Seton's Woodcraft Indians (Silver Bay camp, 1910) — context for Kanawana's own Council Ring.",
+      "sources": [
+        "src_phase2_research"
+      ],
+      "confidence": "inferred",
+      "category": "context",
+      "entities": [
+        "Council Ring",
+        "Jens Jensen",
+        "Ernest Thompson Seton"
+      ],
+      "date_ref": "1910",
+      "conflicts_with": [],
+      "added_version": "v4.89",
+      "added_by": "audit_recovery"
     }
   ]
 }

@@ -8625,6 +8625,38 @@
       "extraction_version": "v4.88",
       "reliability": "secondary",
       "notes": "From operator browser (Chrome for Claude) research session, June 2026."
+    },
+    {
+      "source_id": "src_phase2_indigenous_research",
+      "type": "web",
+      "title": "Phase 2 indigenous/land-history research agents (MRC histories, Laurentian archaeology literature, Weskarini territory sources)",
+      "date": "2026",
+      "date_precision": "year",
+      "origin": "web",
+      "origin_url": null,
+      "cache_path": null,
+      "char_count": 0,
+      "ingested_at": "2026-06-26T00:00:00Z",
+      "extracted": true,
+      "extraction_version": "v4.89",
+      "reliability": "secondary",
+      "notes": "Recovered during June 2026 transcript audit from prior Phase 2 research agents."
+    },
+    {
+      "source_id": "src_phase2_research",
+      "type": "web",
+      "title": "Phase 2 web research agents (consolidated; topic-specific web sources)",
+      "date": "2026",
+      "date_precision": "year",
+      "origin": "web",
+      "origin_url": null,
+      "cache_path": null,
+      "char_count": 0,
+      "ingested_at": "2026-06-26T00:00:00Z",
+      "extracted": true,
+      "extraction_version": "v4.89",
+      "reliability": "secondary",
+      "notes": "Recovered during June 2026 transcript audit from prior Phase 2 research agents."
     }
   ],
   "source_count": 492
