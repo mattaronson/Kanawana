@@ -5,7 +5,7 @@
 
 ## Overview
 
-Camp Kanawana sits on land in the traditional territory of the Kanien'kehá:ka (Mohawk) people, within the broader Laurentian region historically inhabited by Algonquin-speaking peoples. Several place names associated with the camp derive from, or imitate, Indigenous languages. The camp's early programming also drew heavily on romanticized versions of Indigenous cultures, a practice common across North American organized camping in the early twentieth century.
+Camp Kanawana sits on unceded land historically occupied by the **Weskarini Algonquin** (also called the Petite-Nation, one of the Algonquin bands of the Ottawa River watershed), within a broader region also connected to the Kanien'kehá:ka (Mohawk) — nearby Mohawk communities include Kanesatake and Kahnawake.^11 Several place names associated with the camp derive from, or imitate, Indigenous languages. The camp's early programming also drew heavily on romanticized versions of Indigenous cultures, a practice common across North American organized camping in the early twentieth century.
 
 ## "Kanawana"
 
@@ -62,3 +62,4 @@ The Kanawana site sits in the municipality of Saint-Sauveur, in the Laurentian h
 8. Kanawana camp map (Concordia Archives).
 9. Société d'histoire et de généalogie des Pays-d'en-Haut; Ville de Saint-Sauveur.
 10. McMorris thesis: land acquisition history.
+11. KB: Weskarini Algonquin (Petite-Nation) traditional territory; nearby Mohawk communities Kanesatake and Kahnawake.

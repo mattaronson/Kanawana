@@ -25,7 +25,7 @@ In 1909, Camp Jubilee was renamed Camp Otoreke. The following year, in 1910, the
 
 ## Post-War and Later Decades
 
-Camp Otoreke remained an active YMCA facility through the mid-twentieth century. A 1944 photograph of the camp is held by the Quebec Anglophone Heritage Network (QAHN).^8 In 1967, Camp Otoreke hosted a Young Adult Centennial Conference.^4 Planning and development reports were also prepared for the site that year.^4
+Camp Otoreke remained an active YMCA facility through the mid-twentieth century. A 1944 photograph of the camp is held by the Quebec Anglophone Heritage Network (QAHN).^8 In 1967, Camp Otoreke hosted a Young Adult Centennial Conference, held July 8-15, 1967 (records in Concordia Archives P0145/14D10).^4 Planning and development reports were also prepared for the site that year.^4
 
 The Concordia Archives hold dedicated Camp Otoreke records in sub-series P0145/12C, including situation reports (1977-1980) that profiled Otoreke alongside Kanawana and Camp Weredale as part of the YMCA's camping operations.^4
 
