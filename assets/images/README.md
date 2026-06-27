@@ -1,17 +1,27 @@
-# assets/images
+# assets/images — Camp Kanawana Visual Archive
 
-Research image archive for the Camp Kanawana wiki project.
+Research image archive for the Camp Kanawana wiki.
+
+## Files
+
+- **`credits.json`** — provenance manifest. Every identified image has an entry (title, date,
+  source, source URL, rights, linked KB facts, suggested articles, target filename, status).
+  Entries are created *before* the image lands, so provenance is never lost.
+- **`PHOTO-ACQUISITION.md`** — prioritized checklist for obtaining the images (drag-drop or a
+  Chrome session), with the copyright shortcut and the per-file workflow.
 
 ## Naming Convention
 
-`[subject]-[descriptor]-[date-or-circa].[ext]`
+`[subject]-[descriptor]-[date-or-circa].[ext]` — e.g. `flag-raising-kanawana-c1910.jpg`,
+`camp-jubilee-group-1898.jpg`. Use the `target_filename` recorded in `credits.json`.
 
-Examples:
-- `otoreke-landing-postcard-c1910.jpg`
-- `council-ring-totem-pole-1971.jpg`
-- `lv-games-war-canoe-1960s.jpg`
-- `ross-macdonald-doctors-cottage-drawing-1920.jpg`
+## Copyright (Canada)
 
-## Attribution
+Photographs created **before 1949 are public domain in Canada** — the early archival images
+(1898, c.1910, 1915, 1944) are safe to display with a credit line. Items from 1950 onward are
+likely still in copyright; get permission before publishing.
 
-Each image should have a corresponding entry in `assets/images/credits.json` with source, date, rights holder, and any license information.
+## Status
+
+No image files acquired yet — `credits.json` catalogues 12 still-image targets (+ 3 moving/audio
+items linked, not stored). See `PHOTO-ACQUISITION.md` for the prioritized list.
