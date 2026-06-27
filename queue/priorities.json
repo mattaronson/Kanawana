@@ -389,8 +389,10 @@
       "blocking_reason": "Requires human browser session — all BAnQ portals return 403 to automated fetches",
       "assigned_weight": "P2",
       "created_at": "2026-02-16T00:00:00Z",
-      "status": "blocked",
-      "notes": "BAnQ digitized newspaper archive is the highest-value unexplored source for Kanawana history. The Gazette alone has confirmed mentions from 1897 and 1918. Montreal Star (1869-1979) and Montreal Herald (1811-1957) are likely rich sources for early camp history. BAnQ received YMCA Montreal archives in 1985 — relationship to Concordia fonds unclear."
+      "status": "completed",
+      "notes": "BAnQ digitized newspaper archive is the highest-value unexplored source for Kanawana history. The Gazette alone has confirmed mentions from 1897 and 1918. Montreal Star (1869-1979) and Montreal Herald (1811-1957) are likely rich sources for early camp history. BAnQ received YMCA Montreal archives in 1985 — relationship to Concordia fonds unclear.",
+      "completed_at": "2026-06-26T00:00:00Z",
+      "result": "BAnQ search via browser found 20+ newspaper hits 1843-2003 (Westmount Examiner, Le Soleil, Montreal-matin, etc.); facts f_1524-f_1529."
     },
     {
       "priority_id": "p_031",
@@ -699,7 +701,9 @@
       "blocking_reason": "archive.org proxy-blocked. User must download.",
       "assigned_weight": "P1",
       "created_at": "2026-03-02T00:00:00Z",
-      "status": "blocked"
+      "status": "completed",
+      "completed_at": "2026-06-26T00:00:00Z",
+      "result": "1901 Historical Sketch downloaded/searched: zero camping references (negative result f_1537); D.A. Budge 1874-1901, Cushing officers."
     },
     {
       "priority_id": "p_055",
@@ -711,7 +715,9 @@
       "blocking_reason": "archive.org proxy-blocked. User must download.",
       "assigned_weight": "P1",
       "created_at": "2026-03-02T00:00:00Z",
-      "status": "blocked"
+      "status": "completed",
+      "completed_at": "2026-06-26T00:00:00Z",
+      "result": "1891-92 Annual Report extracted: no camp/grounds yet (f_1531); Cushing family in governance (f_1532)."
     },
     {
       "priority_id": "p_056",
@@ -735,7 +741,9 @@
       "blocking_reason": "concordia.accesstomemory.org blocked (bot/scraper protection + sandbox egress allowlist). Re-attempted 2026-06-21: all 30+ URLs including PDF, API, OAI-PMH, EAD XML export, Wayback Machine, ArchivesCanada, RDAQ all return 403. User must download via browser. Recommended: try EAD XML export at /ymca-of-montreal-fonds-2;ead?sf_format=xml for complete machine-readable finding aid.",
       "assigned_weight": "P1",
       "created_at": "2026-03-02T00:00:00Z",
-      "status": "blocked"
+      "status": "completed",
+      "completed_at": "2026-06-26T00:00:00Z",
+      "result": "AtoM finding aid PDF retrieved: full 12B sub-sub-series breakdown (f_1520-f_1521); \"Dawson\" absent (f_1522); Westmount/North branches 1912 (f_1523)."
     },
     {
       "priority_id": "p_058",
@@ -772,7 +780,9 @@
       "blocking_reason": "CCA website proxy-blocked. User may need to access directly.",
       "assigned_weight": "P2",
       "created_at": "2026-03-02T00:00:00Z",
-      "status": "blocked"
+      "status": "completed",
+      "completed_at": "2026-06-26T00:00:00Z",
+      "result": "CCA Ross & Macdonald: THREE Kanawana projects found (1913-14, 1919, 1921), 14 drawings (f_1530)."
     },
     {
       "priority_id": "p_061",
@@ -808,7 +818,9 @@
       "blocking_reason": "YouTube proxy-blocked. User must search.",
       "assigned_weight": "P3",
       "created_at": "2026-03-02T00:00:00Z",
-      "status": "blocked"
+      "status": "completed",
+      "completed_at": "2026-06-26T00:00:00Z",
+      "result": "1993 Cathy Reeves film located on YouTube via Concordia archival channel (f_1549)."
     },
     {
       "priority_id": "p_064",
@@ -1541,7 +1553,9 @@
       "blocking_reason": "Flickr blocks all automated access (403). Requires user to visit in browser.",
       "assigned_weight": "P3",
       "created_at": "2026-03-17T04:35:00Z",
-      "status": "blocked"
+      "status": "completed",
+      "completed_at": "2026-06-26T00:00:00Z",
+      "result": "Flickr catalogued: 4,416 photos/33 albums incl. Concordia Archives (34 archival images) and Plaque albums (f_1545); Ron McCallum 1960 (f_1544)."
     },
     {
       "priority_id": "p_120",
@@ -1553,7 +1567,9 @@
       "blocking_reason": "CRE Laurentides pages return 403 on automated access. Requires direct browser access.",
       "assigned_weight": "P3",
       "created_at": "2026-03-17T04:35:00Z",
-      "status": "blocked"
+      "status": "completed",
+      "completed_at": "2026-06-26T00:00:00Z",
+      "result": "CRE Laurentides water quality retrieved: 2010-2011 values, trophic status (f_1541-f_1542)."
     },
     {
       "priority_id": "p_121",
@@ -1694,9 +1710,11 @@
       "blocking": true,
       "assigned_weight": "P4",
       "created_at": "2026-03-24T03:30:00Z",
-      "status": "blocked",
+      "status": "completed",
       "blocking_reason": "All RSVL data surfaces proxy-blocked: crelaurentides.org Atlas des lacs (Lac Kanawana fiche = ?lac=12008, confirmed to exist), environnement.gouv.qc.ca RSVL pages, donneesquebec.ca + ouvert.canada.ca trophic-state dataset (CKAN API also blocked by host allowlist). Trophic class, Secchi, and phosphorus values not present in any search-indexable snippet. OPERATOR ACTION: open https://crelaurentides.org/dossiers/eau-lacs/atlasdeslacs?lac=12008 or download the Données Québec dataset 'Lacs participants au RSVL — États trophiques' and report values for lac Kanawana (RSVL participant, data since 2013).",
-      "notes": "Searched 2026-06-11: 3 queries + 3 direct fetches + CKAN API attempt. Confirmed the fiche exists; values unreachable."
+      "notes": "Searched 2026-06-11: 3 queries + 3 direct fetches + CKAN API attempt. Confirmed the fiche exists; values unreachable.",
+      "completed_at": "2026-06-26T00:00:00Z",
+      "result": "RSVL data retrieved: Station 0573A, 2010 mesotrophe / 2011 oligo-mesotrophe; no data after 2011 (f_1542-f_1543)."
     },
     {
       "priority_id": "p_132",
@@ -1705,7 +1723,7 @@
       "description": "Operator: borrow Fong McConnell biography on Internet Archive (jwmcconnellfinan0000fong), check index for 'Kanawana', 'camp', 'Lake Wilson', land donations; extract pp.123+ YMCA chapter findings",
       "article_id": "j-w-mcconnell",
       "blocking": true,
-      "blocking_reason": "archive.org proxy-blocked for agent. Book is borrowable online — operator action required.",
+      "blocking_reason": "Fong McConnell biography on Internet Archive is PRINT-DISABLED (not borrowable) — full-text search impossible. YMCA chapter is Ch.6 not Ch.5; index hint suggests p.573. Requires physical/library copy.",
       "assigned_weight": "P2",
       "created_at": "2026-06-11T12:00:00Z",
       "status": "blocked"
@@ -1854,7 +1872,7 @@
       "description": "Borrow Penton book 'Non Nobis Solum: The History of Lower Canada College' (1972) on Internet Archive. Search for YMCA/camp/Kanawana references.",
       "article_id": "traditions-and-culture",
       "blocking": true,
-      "blocking_reason": "Requires operator Internet Archive borrow account",
+      "blocking_reason": "Penton LCC book borrow-only (duplicate of p_179).",
       "assigned_weight": "P2",
       "created_at": "2026-06-13T05:00:00Z",
       "status": "blocked"
@@ -1939,7 +1957,9 @@
       "blocking_reason": "McMaster finding aid page 403'd. Fonds confirmed: 1960s-2016, 100 boxes, 16 metres, 10 series incl. correspondence. Camp-specific contents unknown without physical access or detailed finding aid.",
       "assigned_weight": "P2",
       "created_at": "2026-06-20T04:00:00Z",
-      "status": "blocked"
+      "status": "completed",
+      "completed_at": "2026-06-26T00:00:00Z",
+      "result": "McMaster Stuart McLean fonds confirmed: files F.13/F.16/F.25; Derek Walsh = 1974-75 director (f_1552-f_1553)."
     },
     {
       "priority_id": "p_153",
@@ -2080,7 +2100,9 @@
       "blocking_reason": "archive.org 403-blocked from sandbox. User must download PDF and provide content.",
       "assigned_weight": "P1",
       "created_at": "2026-06-21T14:00:00Z",
-      "status": "blocked"
+      "status": "completed",
+      "completed_at": "2026-06-26T00:00:00Z",
+      "result": "1993 Annual Report extracted: centennial framing, Kanawana Committee, Bill Lewis Spring Race (f_1534-f_1536)."
     },
     {
       "priority_id": "p_164",
@@ -2104,7 +2126,9 @@
       "blocking_reason": "FamilySearch 403-blocked from sandbox. User must check via browser.",
       "assigned_weight": "P2",
       "created_at": "2026-06-21T14:00:00Z",
-      "status": "blocked"
+      "status": "completed",
+      "completed_at": "2026-06-26T00:00:00Z",
+      "result": "FamilySearch Mabel Grace Jamieson verified: b.1893 d.1966 Osoyoos, married Mooney, no camp link — likely NOT Camp Ouareau founder (f_1547)."
     },
     {
       "priority_id": "p_166",
@@ -2113,7 +2137,7 @@
       "description": "Fetch Gabor Ivan Zinner's McGill MA thesis 'Noosphere - an experiment in simulation' (1973) from eScholarship. Primary document for the Noosphere event at Camp Kanawana 1971. URL: https://escholarship.mcgill.ca/concern/theses/6w924d11w",
       "article_id": "programs-activities",
       "blocking": true,
-      "blocking_reason": "McGill eScholarship may require authenticated access or institutional proxy. Try operator browser access.",
+      "blocking_reason": "Zinner 1971 Noosphere MA thesis still unfetched — McGill eScholarship needs auth; browser round did not retrieve full text.",
       "assigned_weight": "P1",
       "created_at": "2026-06-22T00:00:00Z",
       "status": "blocked"
@@ -2191,7 +2215,9 @@
       "blocking_reason": "FamilySearch requires login; Newspapers.com requires subscription. Both paywalled.",
       "assigned_weight": "P2",
       "created_at": "2026-06-22T00:00:00Z",
-      "status": "blocked"
+      "status": "completed",
+      "completed_at": "2026-06-26T00:00:00Z",
+      "result": "Dimock father-son substantially resolved: FamilySearch shows H.S. Dimock had son \"Hedley Jr.\" b.1928, matching H.G. Dimock (f_1548)."
     },
     {
       "priority_id": "p_173",
@@ -2203,7 +2229,9 @@
       "blocking_reason": "BAnQ numérique requires browser access; 403 to WebFetch.",
       "assigned_weight": "P2",
       "created_at": "2026-06-22T00:00:00Z",
-      "status": "blocked"
+      "status": "completed",
+      "completed_at": "2026-06-26T00:00:00Z",
+      "result": "Montreal-matin Aug 24 1971 Noosphere article confirmed via BAnQ (f_1524)."
     },
     {
       "priority_id": "p_174",
@@ -2215,7 +2243,9 @@
       "blocking_reason": "Flickr and Instagram require browser access; both 403 to WebFetch.",
       "assigned_weight": "P3",
       "created_at": "2026-06-22T00:00:00Z",
-      "status": "blocked"
+      "status": "completed",
+      "completed_at": "2026-06-26T00:00:00Z",
+      "result": "Flickr browsed (duplicate of p_119); ca.1910 flag-raising and truck photos on Concordia RMA Flickr (f_1546)."
     },
     {
       "priority_id": "p_175",
@@ -2257,7 +2287,7 @@
       "description": "Locate and read 'A Log of Canada's Centenary Journey' (1971) — may contain full participant rosters by section including Kanawana's 6 boys and 2 counsellors",
       "topic": "CCA Centenary Journey publication",
       "status": "blocked",
-      "blocking_reason": "Out of print, not digitized. Check WorldCat, Trent University library, or CCA archives.",
+      "blocking_reason": "\"A Log of Canada's Centenary Journey\" (1971) still not located online; out of print, not digitized.",
       "created_at": "2026-06-22T11:30:32Z",
       "priority": 2,
       "task_type": "RESEARCH"
@@ -2267,7 +2297,7 @@
       "description": "Borrow D.S. Penton 'Non Nobis Solum: The History of Lower Canada College' (1972) from Internet Archive — check for Kanawana references",
       "topic": "LCC history book",
       "status": "blocked",
-      "blocking_reason": "Internet Archive borrow requires operator account. Book available on IA.",
+      "blocking_reason": "Penton LCC book on Internet Archive is BORROW-ONLY with no full-text search; confirmed exists, motto shown coincidental. Requires physical copy or borrow account to index-check.",
       "created_at": "2026-06-22T11:30:32Z",
       "priority": 3,
       "task_type": "RESEARCH"
@@ -2329,21 +2359,25 @@
       "priority_id": "p_185",
       "description": "Download YMCA Annual Report 1891-1892 from Internet Archive (archive.org/details/sgw-ymca-annual-report-1991-1992). Pre-Camp Jubilee document may contain Cushing 1892 trip details or early camping discussions.",
       "topic": "Pre-founding YMCA annual report",
-      "status": "blocked",
+      "status": "completed",
       "blocking_reason": "Internet Archive proxy-blocked in sandbox. Operator must download manually.",
       "created_at": "2026-06-22T19:00:00Z",
       "priority": 1,
-      "task_type": "RESEARCH"
+      "task_type": "RESEARCH",
+      "completed_at": "2026-06-26T00:00:00Z",
+      "result": "1891-92 Annual Report extracted via browser (duplicate of p_055)."
     },
     {
       "priority_id": "p_186",
       "description": "Download YMCA Annual Report 1993 from Internet Archive (archive.org/details/sgw-ymca-annual-report-1993). Centennial-year report — likely contains details of centennial celebrations and documentary.",
       "topic": "1993/94 centennial documentation",
-      "status": "blocked",
+      "status": "completed",
       "blocking_reason": "Internet Archive proxy-blocked in sandbox. Operator must download manually.",
       "created_at": "2026-06-22T19:00:00Z",
       "priority": 1,
-      "task_type": "RESEARCH"
+      "task_type": "RESEARCH",
+      "completed_at": "2026-06-26T00:00:00Z",
+      "result": "1993 Annual Report extracted via browser (duplicate of p_163)."
     },
     {
       "priority_id": "p_187",

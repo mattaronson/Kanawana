@@ -1,7 +1,7 @@
 # Indigenous Place Names and Land History
 
-*Status: stub | Sources: 7*
-*Last Updated: 2026-06-24*
+*Status: R3-verified | Sources: 12*
+*Last Updated: 2026-06-26*
 
 ## Overview
 
@@ -66,3 +66,7 @@ The Kanawana site sits in the municipality of Saint-Sauveur, in the Laurentian h
 10. McMorris thesis: land acquisition history.
 11. KB: Weskarini Algonquin (Petite-Nation) traditional territory; nearby Mohawk communities Kanesatake and Kahnawake.
 12. Phase 2 indigenous/land-history research (recovered June 2026): Weskarini dispersal (1653 Petit Lac Nominingue), Laurentian archaeology since 2015 (Lamothe, Taché, Tremblay), Rivière du Nord course.
+
+## Research Notes
+
+<!-- Created as stub 2026-06-24 from existing KB facts (Phase 2 autonomous spawning). Advanced stub → draft → R3-verified 2026-06-26: VERIFY pass confirmed every claim cited (etymology f_0248-f_0250/f_0672; Otoreke f_0426; Oolahwan; Indian programming f_0689/f_0692; land history f_1516/f_1557-f_1559; Mohawk/Weskarini territory). Dates cross-checked against timeline. Sources are McMorris thesis, QAHN, Concordia fonds, and recovered Phase 2 research. Remaining for E1: REVIEW pass for tone/cross-link reciprocity, and the [Critical] open question on the actual linguistic origin of "Kanawana" (needs Mohawk/Algonquin language specialist). -->

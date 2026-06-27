@@ -1,7 +1,7 @@
 # Winter and Year-Round Programming
 
-*Status: stub | Sources: 6*
-*Last Updated: 2026-06-24*
+*Status: R3-verified | Sources: 8*
+*Last Updated: 2026-06-26*
 
 ## Overview
 
@@ -56,3 +56,7 @@ David Leduc managed Camp Kanawana's summer and winter programs, including recrui
 6. TELUS Community Board, 2010.
 7. YMCA Quebec, Camp Kanawana winter experience package (2026).
 8. David Leduc LinkedIn profile.
+
+## Research Notes
+
+<!-- Created as stub 2026-06-24 from existing KB facts (Phase 2 autonomous spawning). Advanced stub → draft → R3-verified 2026-06-26: VERIFY pass confirmed every claim carries an inline citation to a cached/verified KB source (f_0029, f_0326, f_0451, f_0591, f_0755, f_0853, f_1076, f_1111, f_1113, f_1478, f_1497, f_1508, f_1510); dates cross-checked (1970s winter family camping; 1996 year-round; 2006-2009 green shift; 2010 TELUS). All source facts derive from prior RALPH cycles. Remaining for E1: cross-link reciprocity check and a dedicated REVIEW pass. -->

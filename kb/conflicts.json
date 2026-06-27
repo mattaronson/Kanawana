@@ -165,12 +165,13 @@
         "1,239,000 m³",
         "1,273,000 m³"
       ],
-      "status": "unresolved",
-      "notes": "Minor; likely different source years/roundings. Both from RSVL-derived data.",
+      "status": "resolved",
+      "notes": "Resolved: adopt RSVL/MELCCFP figure 1,239,000 m³ as canonical (official monitoring body); earlier 1,273,000 m³ treated as superseded estimate.",
       "created_at": "2026-06-26T00:00:00Z",
       "affects_articles": [
         "environmental-history"
-      ]
+      ],
+      "resolved_at": "2026-06-26T00:00:00Z"
     },
     {
       "conflict_id": "c_010",
@@ -185,12 +186,13 @@
         "0.36 years",
         "0.43 years"
       ],
-      "status": "unresolved",
-      "notes": "Minor discrepancy between data vintages.",
+      "status": "resolved",
+      "notes": "Resolved: adopt RSVL/MELCCFP renewal time 0.36 years as canonical; 0.43 years superseded.",
       "created_at": "2026-06-26T00:00:00Z",
       "affects_articles": [
         "environmental-history"
-      ]
+      ],
+      "resolved_at": "2026-06-26T00:00:00Z"
     },
     {
       "conflict_id": "c_011",
@@ -205,12 +207,13 @@
         "no data after 2011",
         "data since at least 2013"
       ],
-      "status": "unresolved",
-      "notes": "The 2013-2024 CRE Laurentides 'technical support reports' may differ from the RSVL monitoring dataset itself.",
+      "status": "resolved",
+      "notes": "Resolved: RSVL volunteer-monitoring dataset ran 2010-2011 (ended 2011); the 2013-2024 CRE Laurentides \"technical support reports\" are a separate document series. Both true at different scopes — not a true contradiction.",
       "created_at": "2026-06-26T00:00:00Z",
       "affects_articles": [
         "environmental-history"
-      ]
+      ],
+      "resolved_at": "2026-06-26T00:00:00Z"
     },
     {
       "conflict_id": "c_012",
