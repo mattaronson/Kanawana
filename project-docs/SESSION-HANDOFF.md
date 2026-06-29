@@ -4,22 +4,64 @@
 NOT captured in CLAUDE.md. Update this file when you learn something new about HOW to work
 (not WHAT was found — that goes in the KB / research-log).*
 
-*Last updated: 2026-06-26*
+*Last updated: 2026-06-29*
 
 ---
 
+## ⚡ START HERE (next session)
+
+1. **Master folder is now `D:\Kanawana`** on Matt's local Windows machine. Work here, not in
+   `C:\Users\Matt.ADESSKY\Kanawana` (that old clone is stale/redundant and may be deleted).
+   Launch Claude Code with `D:\Kanawana` as the working directory.
+2. **First task: integrate the photo archive.** Matt has placed downloaded photo archives at
+   **`D:\Kanawana\photodownloads\`** (3 ZIP files as of 2026-06-29, incl. `Kanawana Archives-3-001.zip`,
+   ~100 MB total). Begin by:
+   - Unzipping them to a scratch/working area (NOT committing the raw zips).
+   - Reviewing the images against `assets/images/credits.json` (the provenance manifest) and
+     `assets/images/PHOTO-ACQUISITION.md` (the tiered want-list). Match each image to an existing
+     `credits.json` entry where possible; add new entries for images not yet listed.
+   - Filing keepers into `assets/images/` using the `target_filename` from `credits.json`, setting
+     each entry's `status` to `acquired` and filling `filename`.
+   - Wiring images into the relevant articles with proper credit lines, then committing.
+   - **Respect the Canadian copyright rule:** photos created **before 1949 are public domain in
+     Canada** (safe to display with credit); flag 1950+ items as "permission needed."
+3. **NOT doing oral history right now** — Matt explicitly deferred it (2026-06-29). The instrument
+   at `project-docs/oral-history-instrument.md` is drafted and ready, but do not present/run it
+   unless Matt asks.
+
 ## Resuming
 
-- Run `continue`. State lives entirely in committed files (`kb/facts.json`, `wiki/articles.json`,
+- State lives entirely in committed files (`kb/facts.json`, `wiki/articles.json`,
   `queue/priorities.json`, `kb/conflicts.json`, `project-docs/research-log.md`) — not in chat.
   Nothing from a prior conversation is needed.
-- Current state: KB **v4.89** (1,525 facts, 541 sources, 13 conflicts). All 54 articles R3/E1.
-  `main` == latest work (fully merged 2026-06-26).
+- **Trust the files over any remembered/label numbers.** File-verified state as of 2026-06-29
+  (branch `claude/camp-kanawana-research-zusW1` @ commit `1b20c73`, == `origin`):
+  - `kb/facts.json`: **1,525 facts**, `kb_version` field reads **4.84** (a prior handoff labeled
+    this "v4.89" — cosmetic drift; the fact/source counts are what matter).
+  - `sources/sources.json`: **541 sources**.
+  - `kb/conflicts.json`: **13 conflicts**.
+  - `wiki/articles.json`: **52 articles** (50 E1-reviewed, 2 R3-verified). (A prior handoff said
+    "54 articles" — verify against the file, don't trust the label.)
 - **Research provenance is fully preserved**: all 300 background agents have a committed report
   in `project-docs/research-provenance/reports/<id>.md` (292 completed = full final reports; 8
   spend-killed = their attempted searches + partial notes). `INDEX.md` is the lookup table. This
-  was a one-time extraction from ephemeral transcripts — they're gone with the old container, but
-  the record survives in git.
+  was a one-time extraction from ephemeral transcripts on the old cloud sandbox — they're gone with
+  that container, but the record survives in git.
+
+## Housekeeping done 2026-06-29 (the stale-clone fix — read this, it cost a session)
+
+- **What went wrong:** a session resumed in `C:\Users\Matt.ADESSKY\Kanawana`, a clone made
+  2026-02-16 that had **never been re-fetched** and was **207 commits behind** `origin`. It showed
+  KB v4.0 / 19 articles and looked like all the v4.8x work had been lost. It hadn't — the live
+  GitHub remote (`github.com/mattaronson/Kanawana`) was current; the local clone was just stale.
+  `git ls-remote` (queries the live remote) vs the stale local refs is what exposed it.
+- **Lesson:** on resume, **always `git fetch` and compare local HEAD to `origin` before trusting
+  local state.** A clone on disk is not proof of currency. If numbers look wildly wrong, suspect
+  staleness before suspecting data loss.
+- **What we did:** fast-forwarded the old C: clone to `origin`, then made a **fresh clone into
+  `D:\Kanawana`** (the new master — C: had only ~5 GB free; D: has ~860 GB). Copied the only
+  untracked local file (`.claude/settings.local.json`) across. New clone verified == `origin`,
+  tree clean.
 
 ## Before searching/ingesting ANY source — avoid redundant work
 
@@ -36,16 +78,18 @@ NOT captured in CLAUDE.md. Update this file when you learn something new about H
   before acting. Mark genuinely-finished items `completed` so they stop resurfacing.
 - When an agent reports a finding, confirm it's in the KB **and** in the article prose. Facts often
   landed in `facts.json` but never got propagated into article text — that gap is real and worth a
-  pass (see the c_009-c_013 / Otoreke-dates / Weskarini propagation fixes this session).
+  pass (see the c_009-c_013 / Otoreke-dates / Weskarini propagation fixes from an earlier session).
 
 ## Photos / images
 
-- **The sandbox cannot fetch images** (all WebFetch → 403). Images arrive only via (a) operator
-  drag-drop into chat, or (b) a Claude-for-Chrome session that downloads them.
-- Infrastructure is ready: `assets/images/credits.json` (provenance manifest, one entry per
-  identified image, created BEFORE the file lands) and `assets/images/PHOTO-ACQUISITION.md`
-  (tiered checklist). A reusable Chrome prompt pattern: exact URLs + search terms + the exact
-  `target_filename` + a per-item report format (direct URL, caption, date, rights).
+- **The photo archive has been delivered.** Matt downloaded images via a browser session and placed
+  the ZIPs at `D:\Kanawana\photodownloads\`. Integration process is in the START HERE block above;
+  the rights/want-list live in `assets/images/credits.json` + `assets/images/PHOTO-ACQUISITION.md`.
+- Two delivery paths exist generally: (a) operator drag-drop into chat, or (b) a Claude-for-Chrome
+  session that downloads them. This batch came via a download → zip → `photodownloads/` drop.
+- **Environment note:** the old cloud sandbox could not fetch images (all WebFetch → 403). This is
+  now Matt's **local Windows machine** — do not assume the same limits; if you need to fetch
+  something, test rather than assume it's blocked. Either way, prefer images Matt supplies.
 - **Canadian copyright shortcut:** photographs made **before 1949 are public domain in Canada** —
   so the oldest archival images (1898, c.1910, 1915, 1944) are the safest to display. Flag
   1950+ items as "permission needed."
@@ -53,25 +97,23 @@ NOT captured in CLAUDE.md. Update this file when you learn something new about H
   "University Concordia Archives" album; QAHN; CCA (Ross & Macdonald drawings). Concordia AtoM and
   CCA viewers sometimes block right-click download — capture the direct image URL as fallback.
 
-## Background research agents
+## Background research agents (lessons from the old cloud sandbox)
 
-- **Agents can die mid-run on the org "monthly spend limit"** — 8 did this session. Their final
-  message is the error, not a report. Always read the **last real assistant text**, and treat a
-  topic as covered only if a *sibling* agent or the KB confirms it.
+*These are mostly sandbox-era lessons; on the local machine the working tree persists across
+sessions, but background agents may still be ephemeral. Keep extracting anything important into
+committed files.*
+
+- **Agents can die mid-run on the org "monthly spend limit"** — 8 did in one prior session. Their
+  final message is the error, not a report. Always read the **last real assistant text**, and treat
+  a topic as covered only if a *sibling* agent or the KB confirms it.
 - Prefer a **mechanical scan over re-running agents** when auditing for missed facts: a Python
   token-coverage check (distinctive entities/years/numbers vs `facts.json` + article text) is free,
-  deterministic, and immune to spend limits. Pattern saved conceptually in research-log Campaign 21.
-- An agent's `.output` file is a symlink to a JSONL transcript — parse the last assistant `text`
-  block; don't read the raw JSONL as if it were the answer.
-- **Agent transcripts are ephemeral** (under `/root/.claude/.../subagents/`, ~73 MB, NOT git-tracked)
-  and die with the container. They are also NOT resumable cross-session — an agent ID is a reference
-  label, not a handle you can `SendMessage` from a new session. So: **extract what matters into the
-  repo while the container is alive.** The `research-provenance/` archive is that extraction; if you
-  spawn many new agents, re-run the extraction before ending the session (script approach: glob the
-  JSONL, pull each agent's task prompt + final text + tool_use queries → per-id markdown + INDEX row).
-- The on-disk transcript count is a **superset** of the Background-tasks panel count (the panel shows
-  top-level cards; disk also holds nested sub-agents and prior-session agents). Capture from disk,
-  not from the panel.
+  deterministic, and immune to spend limits. Pattern noted in research-log Campaign 21.
+- An agent's `.output` file (sandbox) is a symlink to a JSONL transcript — parse the last assistant
+  `text` block; don't read the raw JSONL as if it were the answer.
+- **Agent transcripts were ephemeral** on the sandbox and NOT resumable cross-session — an agent ID
+  is a reference label, not a handle you can `SendMessage` from a new session. **Extract what matters
+  into the repo.** The `research-provenance/` archive is that extraction.
 
 ## The Background-tasks UI panel is misleading — do not trust it
 
@@ -79,9 +121,8 @@ NOT captured in CLAUDE.md. Update this file when you learn something new about H
   Their **timers tick up forever** (the UI computes `now − start`), so they appear to run for
   "hundreds of hours." **This is a display artifact, not real work.**
 - Proof an agent is dead, not running: its **token/tool-use counts are frozen** (a live agent's
-  would climb). Confirm reality with `TaskList` (→ "No tasks found"), `uptime` (container is
-  usually seconds/minutes old — ephemeral), and `ps aux | grep agent` (no subagent processes).
-- Don't burn turns debating the panel; verify once and move on.
+  would climb). Confirm reality with `TaskList` (→ "No tasks found"). Don't burn turns debating the
+  panel; verify once and move on.
 
 ## Conflicts
 
@@ -89,26 +130,34 @@ NOT captured in CLAUDE.md. Update this file when you learn something new about H
   set `conflicts_with` on the facts. When resolving, prefer the **primary/official source**
   (e.g. RSVL/MELCCFP over a derived estimate) and note the reasoning in the conflict's `notes`.
 
-## Git / merge
+## Git / environment
 
-- `gh` is **not installed** and the **GitHub MCP server is often disconnected**, so PRs usually
-  can't be opened from here. To merge with explicit operator permission, fast-forward:
-  `git push origin HEAD:main` (the feature branch is a strict descendant of main, so it's clean).
-- Develop on `claude/camp-kanawana-research-zusW1`; never touch `main` without explicit go-ahead.
+- This is now a **local Windows machine**, working in `D:\Kanawana`. Both **PowerShell** and a
+  **bash** (Git for Windows) shell are available — each takes its own syntax.
+- **`git push` works here** (credentials are cached; the fresh clone and fetches succeeded without
+  prompting). This is different from the old sandbox where `gh` was absent and the GitHub MCP was
+  often down. **Commit and push your work** — the stale-clone incident above is exactly why durable
+  pushes matter.
+- Develop on `claude/camp-kanawana-research-zusW1`; **never touch `main` without explicit go-ahead.**
+  To merge with permission, fast-forward (`git push origin HEAD:main`) — the feature branch is a
+  strict descendant of main.
+- **On resume, `git fetch` first** and confirm local HEAD == `origin/<branch>` before trusting state.
 
 ## Session hygiene (token efficiency)
 
-- **One session per phase** (research campaign / integration / photo pass / oral history); merge to
-  `main` at each boundary, then start fresh. Drift is real — verify-the-UI tangents and
-  re-derivation cost the most.
-- MCP tools unrelated to this project (Canva, Shopify, QuickBooks, Uber, etc.) consume ~19% of the
-  context window. Disconnecting unused MCP servers is a bigger, permanent saving than restarts.
+- **One session per phase** (research campaign / integration / photo pass / oral history); commit +
+  push at each boundary, then start fresh. Drift is real — verify-the-UI tangents and re-derivation
+  cost the most.
+- Unrelated MCP tools (Canva, Shopify, QuickBooks, Uber, etc.) consume a large slice of the context
+  window. Disconnecting unused MCP servers is a bigger, permanent saving than restarts.
 
 ## Highest-value remaining work (web research is near-exhausted)
 
-1. **Oral history** — the only path to the Chopsy legend, songs/cheers, Grand Portage/Longhouse.
-   Draft the full structured instrument once, present in one sitting (per CLAUDE.md pending item).
-2. **Photos** — run the Chrome acquisition prompt; integrate into articles with credit lines.
+1. **Photos (DO THIS FIRST)** — archive delivered to `D:\Kanawana\photodownloads\`; integrate into
+   `assets/images/` + articles with credit lines per `credits.json` / `PHOTO-ACQUISITION.md`.
+2. **Oral history** — the only path to the Chopsy legend, songs/cheers, Grand Portage/Longhouse.
+   Instrument is drafted (`project-docs/oral-history-instrument.md`), present in one sitting —
+   **but only when Matt asks** (he deferred it 2026-06-29).
 3. Residual blocked items need **physical archives** (Concordia P0145), **paywalls**
    (Newspapers.com, Registre foncier), or books that are **print-disabled/borrow-only on IA**
    (Fong McConnell bio, Penton LCC history) — operator/physical access only.
