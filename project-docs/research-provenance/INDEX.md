@@ -308,3 +308,6 @@
 | `a19b24fafcd179da1` | completed | 37 | You are working on the Kanawana Wiki project at /home/user/Kanawana. Your task is to create two new article st | All three tasks are complete. Here is a summary of what was done: |
 | `ab35b65248062b653` | completed | 115 | You are working on the Kanawana Wiki project at /home/user/Kanawana. Your task is to re-attempt accessing Conc | All project files are updated. Let me compile the final summary report. |
 | `a1a737ca932a7b21a` | completed | 100 | You are working on the Kanawana Wiki project at /home/user/Kanawana. Your task is to re-attempt several blocke | All files are valid and all five priorities are correctly marked as completed. Here is my report. |
+
+
+> **Update 2026-06-26:** The 8 `spend-killed` agents now also have partial reports in `reports/<id>.md` (searches attempted + partial notes before they died).
