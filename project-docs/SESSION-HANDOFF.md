@@ -18,8 +18,13 @@ NOT captured in CLAUDE.md. Update this file when you learn something new about H
 
 ## Before searching/ingesting ANY source — avoid redundant work
 
-- **Check first whether it's already done.** Grep `sources/sources.json` for the source and look
-  at `extracted` / `extraction_version`. Grep `kb/facts.json` for the topic. Many "blocked"
+- **Check the research-provenance archive FIRST.** `project-docs/research-provenance/INDEX.md`
+  lists every prior research agent (topic, status, 1-line outcome); full reports are in
+  `research-provenance/reports/<agent_id>.md`. Grep it before spawning an agent or running
+  searches — null results are recorded there too, so you won't re-run dead-end searches. Agent IDs
+  are reference labels only (NOT resumable cross-session — read the report, don't re-attach).
+- **Check whether the source is already extracted.** Grep `sources/sources.json` for the source and
+  look at `extracted` / `extraction_version`. Grep `kb/facts.json` for the topic. Many "blocked"
   priorities were actually already extracted (the McMorris thesis was re-queued as blocked
   multiple times despite being fully mined — the operator was rightly frustrated).
 - A priority marked `blocked` is not proof of incompleteness. Re-read its `result`/`blocking_reason`
