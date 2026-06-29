@@ -15,6 +15,11 @@ NOT captured in CLAUDE.md. Update this file when you learn something new about H
   Nothing from a prior conversation is needed.
 - Current state: KB **v4.89** (1,525 facts, 541 sources, 13 conflicts). All 54 articles R3/E1.
   `main` == latest work (fully merged 2026-06-26).
+- **Research provenance is fully preserved**: all 300 background agents have a committed report
+  in `project-docs/research-provenance/reports/<id>.md` (292 completed = full final reports; 8
+  spend-killed = their attempted searches + partial notes). `INDEX.md` is the lookup table. This
+  was a one-time extraction from ephemeral transcripts — they're gone with the old container, but
+  the record survives in git.
 
 ## Before searching/ingesting ANY source — avoid redundant work
 
@@ -58,6 +63,15 @@ NOT captured in CLAUDE.md. Update this file when you learn something new about H
   deterministic, and immune to spend limits. Pattern saved conceptually in research-log Campaign 21.
 - An agent's `.output` file is a symlink to a JSONL transcript — parse the last assistant `text`
   block; don't read the raw JSONL as if it were the answer.
+- **Agent transcripts are ephemeral** (under `/root/.claude/.../subagents/`, ~73 MB, NOT git-tracked)
+  and die with the container. They are also NOT resumable cross-session — an agent ID is a reference
+  label, not a handle you can `SendMessage` from a new session. So: **extract what matters into the
+  repo while the container is alive.** The `research-provenance/` archive is that extraction; if you
+  spawn many new agents, re-run the extraction before ending the session (script approach: glob the
+  JSONL, pull each agent's task prompt + final text + tool_use queries → per-id markdown + INDEX row).
+- The on-disk transcript count is a **superset** of the Background-tasks panel count (the panel shows
+  top-level cards; disk also holds nested sub-agents and prior-session agents). Capture from disk,
+  not from the panel.
 
 ## The Background-tasks UI panel is misleading — do not trust it
 
