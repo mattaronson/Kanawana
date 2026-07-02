@@ -1,6 +1,7 @@
 # Section Names at Kanawana
 
 *Status: E1 Reviewed | Sources: McMorris (2023) Ch1, KB section_names, YMCA Quebec website (2026)*
+*Last Updated: 2026-07-02 (photo gallery added)*
 
 Kanawana's original age groupings were straightforward: Juniors (12 to 14) and Seniors (14 to 17). Two groups, one dividing line. By 1930, the camp had added a Juveniles section for boys aged 10 to 12, recognizing both the demand from younger families and the practical reality that a ten-year-old and a sixteen-year-old do not belong in the same program. The 1935 staff list reflects this three-section structure, with separate directors for Juveniles (Lorne Hamilton), Juniors (Ernie Taylor), and Seniors (Howie Langille).
 
@@ -35,6 +36,17 @@ Note: The YMCA Quebec website spells it "Coureurs des Bois" (with des). The hist
 YMCA Quebec website (checked Feb 2026) confirms: Pioneers and Woodsmen are Junior sections (cabins); Coureurs de Bois and Pathfinders are Senior sections (platform tents). Gender split: Pioneers/Pathfinders = girls; Woodsmen/Coureurs de Bois = boys. Mountaineers (est. 2022) = gender-neutral Senior section. Specialized programs: Voyageurs (all-gender canoe trip), Trailblazers (Leaders-in-Training, age 16), Foresters (canoe trip leader specialization). Operator correction (2026-06-22): "Senior Kanawanians" is NOT a section name; this was an extraction error from the YMCA website. The four-section gender-split structure dates to at least the early 1980s.
 
 Note: An earlier draft incorrectly stated Woodsmen covered ages 13-16. The YMCA website clearly places Woodsmen as a Junior section (7-12), parallel to Pioneers.
+
+## Images
+
+![Rangers dining-hall plaque, 1955](../../assets/images/plaques/rangers-1955.jpg)
+*The earliest Rangers section plaque in the archive, 1955. Copyright All rights reserved by Kanawana.*
+
+![Pathfinder section plaque, 1984](../../assets/images/plaques/pathfinder-section1984.jpg)
+*A Pathfinder section plaque, 1984. Copyright All rights reserved by Kanawana.*
+
+![Explorer Boys section plaque, 2008](../../assets/images/plaques/explorer-boys-2008.jpg)
+*An Explorer Boys section plaque, 2008. Copyright All rights reserved by Kanawana.*
 
 ## Open Questions
 

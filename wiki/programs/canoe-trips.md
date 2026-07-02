@@ -1,7 +1,7 @@
 # Canoe Trips at Kanawana
 
 *Status: E1-reviewed | Sources: McMorris (2023) Ch3, KB canoe_trips, YMCA Quebec website, src_ymca_kanawana_adventurers_pathfinders_2026, src_ymca_kanawana_explorers_pioneers_2026*
-*Last Updated: 2026-06-20 (2026 program structure: Adventurers Pathfinders, Explorers Pioneers, Papineau-Labelle)*
+*Last Updated: 2026-06-20 (2026 program structure: Adventurers Pathfinders, Explorers Pioneers, Papineau-Labelle) — photo gallery added 2026-07-02*
 
 Canoe trips were introduced to Kanawana's program in 1925, offered as an optional extra at $3.50 per camper on top of the regular camp fee. By 1928, the camp director was already proposing more ambitious expeditions, suggesting 10- to 12-day trips for senior campers.
 
@@ -43,6 +43,23 @@ Today, canoe tripping remains central to the Kanawana experience. The 2026 progr
 ### R3 Verification Notes
 
 Core timeline (1925 introduction through 1959 La Vérendrye) sourced from McMorris citing P145 season reports. Modern continuity independently confirmed via YMCA Quebec website. 1935 canoe trip existence confirmed via Internet Archive source. Specific dates (1928 director proposal, 1936 Archambault, 1950 six trips/week, 1956 northern search) are single-source from McMorris's archival citations but grounded in primary season reports.
+
+## Images
+
+![“Pop Cameron and the Canoe Trippers”](../../assets/images/historical/concordia-kanawana-5.jpg)
+*“Pop Cameron and the Canoe Trippers.” Pre-1949 photograph — public domain in Canada.*
+
+![War-canoe group, 1940-1960](../../assets/images/historical/concordia-1940-1960-warcanoegroup.jpg)
+*A war-canoe group, 1940-1960. Copyright All rights reserved by Kanawana.*
+
+![2nd-session Malibu Trip canoe board, 2001](../../assets/images/plaques/malibu-trip-2001.jpg)
+*A canoe-shaped trip board marking the “2nd session Malibu Trip 2001,” with participants' names. Copyright All rights reserved by Kanawana.*
+
+![Voyageurs trip plaque, 1998](../../assets/images/plaques/voyageurs-1998.jpg)
+*A Voyageurs trip dining-hall plaque, 1998. Copyright All rights reserved by Kanawana.*
+
+![Honour-award ribbon: Canoeing, c.1920](../../assets/images/artifacts/award-ribbon-canoeing.jpg)
+*An honour-award ribbon for Canoeing, Aquatic Dept., c.1920. Copyright All rights reserved by Kanawana.*
 
 ## Open Questions
 

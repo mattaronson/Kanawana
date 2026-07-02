@@ -23,9 +23,8 @@ Items from 1950 onward are likely still in copyright — get permission before p
 - [ ] **Flag-raising ceremony, c.1910** ("FLAG RAISING KAMP KANAWANA / MONTREAL Y.M.C.A. BOYS CAMP")
       → Concordia RMA Flickr (Ref P145). `flag-raising-kanawana-c1910.jpg`
 - [ ] **Camp truck, c.1910** → Concordia RMA Flickr (Ref P145). `camp-truck-kanawana-c1910.jpg`
-- [ ] **Concordia Archives Flickr album** — pick the strongest 6-10 of the 34 images
-      (esp. "Towards St. Sauveur des Monts," "To Lake Wilson," 1915 staff photo)
-      → flickr.com/photos/kanawana/albums/ → `concordia-album-<slug>.jpg`
+- [x] **Concordia Archives Flickr album** — DONE 2026-07-02: all 34 images acquired and filed to
+      `assets/images/historical/` and `assets/images/maps/` (delivered via `photodownloads/`).
 
 ## Tier 2 — Strong historical, mostly PD
 
@@ -38,7 +37,8 @@ Items from 1950 onward are likely still in copyright — get permission before p
 - [ ] **Otoreke landing RPPC postcard** → eBay/auction archive. `otoreke-camp-landing-postcard.jpg`
 - [ ] **Centennial poster, 1994** → Concordia P0145/12B04. `centennial-poster-1994.jpg`
 - [ ] **McCord item C387** (c.1930 postcard) — may need a museum request; not online. `mccord-c387-kanawana-c1930.jpg`
-- [ ] **1960 CIT plaque** (Ron McCallum) → Flickr "Plaque" album. `cit-plaque-1960.jpg`
+- [x] **1960 CIT plaque** (Ron McCallum) — DONE 2026-07-02: acquired along with the full 151-photo
+      "Plaque" album, filed to `assets/images/plaques/cit-1960.jpg` (delivered via `photodownloads/`).
 - [ ] **Harold C. Cross portrait, 1971** → Concordia P0145. `harold-cross-1971.jpg`
 - [ ] **Facebook "1987-1994" album** — select a few → camp Facebook page.
 

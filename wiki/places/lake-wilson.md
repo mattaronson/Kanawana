@@ -1,7 +1,7 @@
 # Lake Wilson
 
 *Status: E1-reviewed | Sources: src_mysummercamps_kanawana, src_gas_bag_1923, src_history_1935, src_ymca_website, src_oral_aronson*
-*Last Updated: 2026-02-28 (E1 REVIEW completed)*
+*Last Updated: 2026-02-28 (E1 REVIEW completed) — photo gallery added 2026-07-02*
 
 ## Overview
 
@@ -39,6 +39,17 @@ The Commission de toponymie du Québec has no entry for this specific Lac Wilson
 ## The Dam
 
 The dam between Lake Kanawana and Lake Wilson is a longstanding camp feature.^3 Its ceremonial opening at the end of each season was documented as early as 1935. The dam controls water levels between the two lakes.
+
+## Images
+
+![Swim and diving team on the waterfront tower](../../assets/images/historical/concordia-kanawana-4.jpg)
+*The swim and diving team on the waterfront tower. Pre-1949 photograph — public domain in Canada.*
+
+![The waterfront at swim time](../../assets/images/historical/concordia-kanawana-6.jpg)
+*The waterfront at swim time. Pre-1949 photograph — public domain in Canada.*
+
+![Senior waterfront, 1940-1960](../../assets/images/historical/concordia-1940-1960-srwaterfront.jpg)
+*Senior waterfront, 1940-1960. Copyright All rights reserved by Kanawana.*
 
 ## Open Questions
 

@@ -1,7 +1,7 @@
 # The Kanawana Site
 
 *Status: E1-reviewed | Sources: src_ymca_website, src_kanawana_facts, src_brochure_1921, src_brochure_1922, src_gas_bag_1923, src_green_triangle_1938, src_mcmorris_thesis, src_concordia_fonds, src_wikidata_lac_kanawana, src_lapresse_ymca_2018, src_weredale_camp, src_mysummercamps_kanawana, src_crel_lac_kanawana, src_postmedia_nature_deficit_2026, src_ymca_kanawana_groups_rentals, src_ymca_kanawana_hebergement_fr, src_bonjour_quebec_kanawana, src_clivus_multrum_projects, src_morin_heights_indigenous, src_wikipedia_mille_isles, src_banq_lovell_1976, src_journal_acces_fire_2023*
-*Last Updated: 2026-06-21 (Lovell's 1976 directory listing; 2023 superintendent's house fire)*
+*Last Updated: 2026-06-21 (Lovell's 1976 directory listing; 2023 superintendent's house fire) — photo gallery added 2026-07-02*
 
 ## Overview
 
@@ -120,6 +120,20 @@ Lac Kanawana is monitored by the Conseil régional de l'environnement des Lauren
 ## Proposed Two-Site Operation
 
 From 1977 to 1980, plans existed for a proposed two-site operation using Kanawana and Camp Weredale.^13 Camp Weredale was founded in 1934 to serve orphaned or at-risk boys and is now an independent non-profit operated by the Weredale Foundation, serving ages 6–17 in foster care or youth protection services.^15 The dual-site plan was abandoned; the reasons are not documented in available sources. Both camps now operate independently.
+
+## Images
+
+![The dining hall, c.1920s](../../assets/images/historical/dining-hall-c1920s.jpg)
+*The dining hall, c.1920s. Copyright All rights reserved by Kanawana.*
+
+![Proposed dining-hall extension (never built)](../../assets/images/art/proposed-dining-hall-extension.jpg)
+*Architectural drawing for a proposed dining-hall extension that was never built. Copyright All rights reserved by Kanawana.*
+
+![The front gate, 1940-1960](../../assets/images/historical/concordia-1940-1960-frontgate.jpg)
+*The camp's front gate, 1940-1960. Copyright All rights reserved by Kanawana.*
+
+![Camp Kanawana map, 1941](../../assets/images/maps/concordia-1941-map.jpg)
+*A 1941 map of the camp property. Pre-1949 photograph — public domain in Canada.*
 
 ## Open Questions
 

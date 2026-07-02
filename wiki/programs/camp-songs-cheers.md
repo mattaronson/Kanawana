@@ -1,7 +1,7 @@
 # Camp Songs, Cheers, and Musical Traditions
 
 *Status: E1-reviewed | Sources: src_gas_bag_1923, src_brochure_1922, src_brochure_1921, src_history_1935, src_green_triangle_1938, src_concordia_fonds, src_concordia_atom_12B04, src_concordia_atom_12B07, src_oral_aronson, src_spirit_kanawana_blog, src_aca_camp_songs_history, src_wikipedia_alabama_jubilee, src_ymca_website, src_mcmorris_thesis, src_cfcf_1941*
-*Last Updated: 2026-06-12 (Marching Song full text and Grace rotation recorded from oral history)*
+*Last Updated: 2026-06-12 (Marching Song full text and Grace rotation recorded from oral history) — photo gallery added 2026-07-02*
 
 ## Overview
 
@@ -154,6 +154,11 @@ These archival materials are the definitive source for documenting Kanawana's hi
 Campfire singing is a foundational tradition across YMCA camps in North America. The American Camp Association traces the modern campfire song tradition to the late 19th century, coinciding with the rise of organized camping.^9 The Canadian YMCA had specific connections to this tradition: Gary Schofield, Boys' Work secretary at the Ottawa Canada YMCA, directed Camp On-Da-Da-Waks and was active in the Canadian Fellowship of YMCA Retirees.^9 The iconic camp song "Kum Bah Yah" was introduced at a YMCA National Conference at Green Lake, Wisconsin in the early 1950s.^9
 
 The Color War tradition (known at Kanawana as the L&V Games) typically includes team cheers, fight songs, marches, and Alma Maters as central components, presented during a culminating event called "Sing."^9 Songs are commonly rewrites of popular tunes with team-specific lyrics. This provides the likely framework for L&V section cheers at Kanawana.
+
+## Images
+
+![“Medley '81” cheer sheet](../../assets/images/art/song-medley-1981.jpg)
+*A handwritten “Medley '81” sheet recording several camp cheers and chants verbatim (f_1566). Copyright All rights reserved by Kanawana.*
 
 ## Open Questions
 

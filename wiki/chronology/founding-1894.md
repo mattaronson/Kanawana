@@ -1,7 +1,7 @@
 # Camp Kanawana: Founding and Early History (1892-1923)
 
 **Status**: E1-reviewed
-**Last Updated**: 2026-02-05
+**Last Updated**: 2026-02-05 (photo gallery added 2026-07-02)
 **Confidence**: high
 **Sources**: src_001, src_005, src_010, src_022, src_023, src_024, src_qahn_howard, src_concordia_12L, src_ymca_official
 **R3 Loop**: Completed 2026-02-05. Critical geographic correction applied.
@@ -58,6 +58,20 @@ The cost in 1918 was $8.00 per week, rising to $8.50 per week by 1923, including
 ## Physical Plant by the 1920s-1930s
 
 The 1923 brochure and 1935 history together describe a camp that had grown into a substantial physical operation. Two large pavilions served dining and recreation (the latter equipped with a fireplace). The waterfront featured a flotilla of boats and canoes, four diving boards, and a zinc slide into the lake. Elsewhere on the property stood an open-air chapel, a [[places/council-ring|Council Ring]] for woodcraft meetings, an icehouse, a hospital building, and a golf course. Water came from two mountain spring wells. Boys slept in tents with wood floors, each housing 8-10 campers with a counsellor.
+
+## Images
+
+![Early tent camp on the lakeshore](../../assets/images/historical/concordia-kanawana-1.jpg)
+*Early tent camp on the lakeshore, one of the oldest surviving photographs of the site. Pre-1949 photograph — public domain in Canada.*
+
+![Camp staff, 1915](../../assets/images/historical/concordia-1915-staff-group.jpg)
+*Camp staff, 1915 — the earliest dated staff photograph in the archive, from the period after founding-era director John Roy. Pre-1949 photograph — public domain in Canada.*
+
+![Camp Kanawana, 1900-1914](../../assets/images/historical/concordia-1900-1914.jpg)
+*Camp Kanawana in its first years, 1900-1914. Pre-1949 photograph — public domain in Canada.*
+
+![1913 reunion banquet menu](../../assets/images/art/reunion-banquet-menu-1913.jpg)
+*Menu and placemat from a 1913 reunion banquet. Copyright All rights reserved by Kanawana.*
 
 ## Open Questions
 

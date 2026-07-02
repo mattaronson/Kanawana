@@ -1,7 +1,7 @@
 # Traditions and Culture at Kanawana
 
 *Status: E1-reviewed | Sources: 24*
-*Last Updated: 2026-06-22 (Motto research: Fosbery heraldic lineage, shared YMCA tradition confirmed, LCC school song 1936)*
+*Last Updated: 2026-06-22 (Motto research: Fosbery heraldic lineage, shared YMCA tradition confirmed, LCC school song 1936) — photo gallery added 2026-07-02*
 
 ## Overview
 
@@ -77,6 +77,23 @@ The 1922 brochure documented a 32-subject Honour System, with the Large K as the
 The Pip Alumni Award was established in 2007 in memory of Philip "Pip" Caddell (1913–2004), a Kanawana camper in 1928, WWII Canadian Army officer, and community volunteer, and his grandson James Caddell (1973–2005), a camper and counsellor from 1983 to 1991 who became a UN Peacekeeper and public servant before dying of altitude sickness in Bolivia.^13 The award recognizes alumni who embody camp values.
 
 Known recipients include: Richard "Itche" Kerr (2007, composer of the camp song), Richard Patten (2008, former Ontario cabinet minister), Stuart McLean (2009, CBC broadcaster), Bruce Netherwood (2011), John Cleghorn (2012, former CEO of the Royal Bank), the late Sam Lazarus and family (2013, posthumous), Jeniene Phillips Birks (2014), Terry "Aislin" Mosher (2015), Carol Skinner (2016), Chris Adam (2017), Marina Sharpe (2018), and Dr. James Orbinski (2024). No 2010 recipient is documented.^13 ^14
+
+## Images
+
+![The Order of the Knights of Kanawana, 1981](../../assets/images/art/knights-of-kanawana-charter.jpg)
+*The 1981 induction document for “The Order of the Knights of Kanawana” (artwork and lettering by Greg Shevchenko, May 1981), giving the full oath text (f_1567). Copyright All rights reserved by Kanawana.*
+
+![Knights of Kanawana roll board, 1980-2009](../../assets/images/plaques/knights-of-kanawana.jpg)
+*A dining-hall roll board listing knighted campers by year, 1980-2009 (f_1565). Copyright All rights reserved by Kanawana.*
+
+![Honour-award ribbons, c.1920](../../assets/images/artifacts/award-ribbons-group.jpg)
+*A group of c.1920 honour-award ribbons spanning several departments. Copyright All rights reserved by Kanawana.*
+
+![The felt “small K” award, 1940s](../../assets/images/artifacts/felt-award-small-k.jpg)
+*The felt “small K” — the second-highest honour award, 1940s. Copyright All rights reserved by Kanawana.*
+
+![Felt YMCA pennant, c.1930s](../../assets/images/artifacts/ymca-pennant-crest.jpg)
+*A felt YMCA pennant bearing the camp crest and the motto “Non Nobis Solum.” Copyright All rights reserved by Kanawana.*
 
 ## Open Questions
 

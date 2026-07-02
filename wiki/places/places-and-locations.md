@@ -1,7 +1,7 @@
 # Places and Locations at Camp Kanawana
 
 *Status: E1-reviewed | Sources: 18*
-*Last Updated: 2026-06-13 (oral history: Grand Portage, Longhouse, the Lookout, the Cave identified; building chronology expanded)*
+*Last Updated: 2026-06-13 (oral history: Grand Portage, Longhouse, the Lookout, the Cave identified; building chronology expanded) — photo gallery added 2026-07-02*
 
 ## Overview
 
@@ -255,6 +255,14 @@ From 1977 to 1980, plans existed for a proposed two-site camping operation using
 | c. 1979 | Longhouse demolished by controlled fire (irrepairable condition) | [src_oral_aronson] |
 | c. 2006 | Grand Portage demolished for green shift washroom buildings (which bear its name) | [src_oral_aronson] |
 | 2023-27 | McConnell Foundation provides $700K for major renovations | [f_0575] |
+
+## Images
+
+![Camp site map, 1980-2001](../../assets/images/maps/concordia-1980-2001-site-map.jpg)
+*A camp site map, 1980-2001. Copyright All rights reserved by Kanawana.*
+
+![1941 camp map (variant)](../../assets/images/maps/concordia-1941-map-v2.jpg)
+*An alternate version of the 1941 camp map. Pre-1949 photograph — public domain in Canada.*
 
 ## Open Questions
 

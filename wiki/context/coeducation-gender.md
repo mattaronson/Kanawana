@@ -1,7 +1,7 @@
 # Coeducation and Gender at Kanawana
 
 *Status: E1-reviewed | Sources: src_mcmorris_thesis, src_kanawana_facts, src_ymca_website, src_concordia_12A, src_concordia_12B04, src_gas_bag_1923, src_ymca_john_island_newsletter, user_knowledge, src_mtl_families_gender*
-*Last Updated: 2026-06-22 (gender-expansive sleeping option details added from Montreal Families source)*
+*Last Updated: 2026-06-22 (gender-expansive sleeping option details added from Montreal Families source) — photo gallery added 2026-07-02*
 
 ## Overview
 
@@ -65,6 +65,14 @@ The Mountaineer program represents a conceptual shift from the 1968-1969 transit
 - [[programs/programs-activities|Programs and Activities]]
 - [[context/section-names|Section Names and Age Groups]]
 - [[people/stuart-mclean|Stuart McLean]]
+
+## Images
+
+![“Kanawana's First All Female Canoe Trip,” 1972](../../assets/images/plaques/kanawanas-first-all-female-trip-1972.jpg)
+*A flower-shaped canoe-trip board reading “Kanawana's First All Female Canoe Trip 1972,” naming nine participants, with the motto “Power to the Women!” (f_1564). Copyright All rights reserved by Kanawana.*
+
+![Junior Girls section plaque, 1992](../../assets/images/plaques/junior-girls-1992.jpg)
+*A Junior Girls section plaque, 1992. Copyright All rights reserved by Kanawana.*
 
 ## Open Questions
 

@@ -1,7 +1,7 @@
 # Kanawana Myths and Legends
 
 *Status: E1-reviewed | Sources: 19*
-*Last Updated: 2026-06-11 (Chopsy legend recorded from oral history — full narrative added)*
+*Last Updated: 2026-06-11 (Chopsy legend recorded from oral history — full narrative added) — photo gallery added 2026-07-02*
 
 ## Overview
 
@@ -114,6 +114,14 @@ Quebec has a rich folklore tradition that would have influenced campfire storyte
 - **La Corriveau** (Marie-Josèphe Corriveau, 1761): One of Quebec's most enduring ghost stories. Corriveau was convicted of murder and her body was publicly displayed in an iron gibbet, inspiring centuries of legend [f_0570].
 
 These Quebec folk traditions are strong candidates for Kanawana campfire storytelling, though no direct evidence of any being told at Kanawana has been found. Ghost storytelling was, however, an active tradition at Laurentian summer camps of the era: around 1948–49, an 18-year-old William Shatner worked as a volunteer counsellor at Camp B'nai Brith in Sainte-Agathe-des-Monts (approximately 30 km from Kanawana), where he earned campers' respect specifically by acting out ghost stories bunk to bunk each night [f_0568].
+
+## Images
+
+![“Chopsy '06” cabin sign](../../assets/images/plaques/chopsy-2006.jpg)
+*A painted “Chopsy '06” cabin sign, 2006. Copyright All rights reserved by Kanawana.*
+
+![“Chopsys” cabin plaque, 2008](../../assets/images/plaques/chopsys-2008.jpg)
+*A “Chopsys” cabin plaque, 2008. Copyright All rights reserved by Kanawana.*
 
 ## Open Questions
 

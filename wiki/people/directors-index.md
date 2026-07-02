@@ -2,7 +2,7 @@
 
 <!-- status: E1-reviewed -->
 <!-- confidence: medium -->
-<!-- last_updated: 2026-06-22 -->
+<!-- last_updated: 2026-07-02 (photo gallery added) -->
 <!-- last_editor: v52 -->
 <!-- ralph_loops: directors-index-compile, directors-index-R2, directors-index-staff-expansion -->
 
@@ -126,6 +126,20 @@ The following periods have no confirmed camp director:
 - **1963-1973**: A. Ross Seaman transitioned to SGW faculty in 1963, so the directorship became vacant around that date. The 1972 "Camping and Outdoor Education Branch Director's Report" in Concordia Archives may name the director for that year.
 - **1976-1978**: Between McLean's assistant directorship and Dave Twynam (~1979). The director who worked alongside Stuart McLean (1974-1975) is now identified as **Derek Walsh** (McMaster Stuart McLean fonds confirms McLean was assistant director "under director Derek Walsh"; McLean sublet his apartment to Walsh, matching the anonymous Westmount Magazine commenter).^16 Note: Richard Patten was Executive Director of YMCA Montreal 1976-1979, so while not the camp director himself, he would have been the organizational head overseeing Kanawana during this transition. Twynam's exact start date is unknown; he may have begun before 1979 — June 2026 search excerpts of the 12B01 finding aid date "Camp director Dave Twynam" correspondence to 1976 (conflict c_007), which if correct would close this gap entirely.
 - **1981-1985**: Between Twynam (~1980) and Jay Netherwood (1986). Peter Gilling Goddard (1953-2016) served as director during some or all of this period. His Kanawana connection is confirmed via an obituary condolence, but exact years require Concordia Archives confirmation.
+
+## Images
+
+![Camp staff, 1915](../../assets/images/historical/concordia-1915-staff-group.jpg)
+*The earliest dated staff photograph in the archive, 1915. Pre-1949 photograph — public domain in Canada.*
+
+![1960 CIT dining-hall plaque](../../assets/images/plaques/cit-1960.jpg)
+*A dining-hall plaque naming Ron McCallum as "Director" of the 1960 CIT program, alongside ten named CIT staff (f_1544). Copyright All rights reserved by Kanawana.*
+
+![1975 CIT dining-hall plaque](../../assets/images/plaques/cit-1975.jpg)
+*A CIT dining-hall plaque from 1975. Copyright All rights reserved by Kanawana.*
+
+![Staff photograph, 1960-1980](../../assets/images/historical/concordia-1960-1980-staff-photo.jpg)
+*A staff photograph, 1960-1980. Copyright All rights reserved by Kanawana.*
 
 ## Open Questions
 

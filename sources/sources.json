@@ -1632,7 +1632,7 @@
       "extracted": false,
       "extraction_version": null,
       "reliability": "primary",
-      "notes": "Flickr account with 4,416 photographs of Camp Kanawana. Not yet accessed or catalogued."
+      "notes": "Flickr account with 4,416 photographs of Camp Kanawana. Two albums (the 151-photo 'Plaque' album and the 34-image 'University Concordia Archives' album) were delivered and catalogued 2026-07-02 -- see src_flickr_kanawana_plaque_album and src_flickr_kanawana_concordia_historical_album. The remaining ~4,200 photos in the account are not yet accessed."
     },
     {
       "source_id": "src_clivus_multrum_projects",
@@ -8657,7 +8657,55 @@
       "extraction_version": "v4.89",
       "reliability": "secondary",
       "notes": "Recovered during June 2026 transcript audit from prior Phase 2 research agents."
+    },
+    {
+      "source_id": "src_flickr_kanawana_plaque_album",
+      "type": "web",
+      "title": "Kanawana Flickr 'Plaque' album (151 photos of dining-hall/cabin commemorative plaques and canoe boards)",
+      "date": "c.2010",
+      "date_precision": "approximate",
+      "origin": "web",
+      "origin_url": "https://www.flickr.com/photos/kanawana/albums/",
+      "cache_path": "assets/images/plaques/",
+      "char_count": 0,
+      "ingested_at": "2026-07-02T00:00:00Z",
+      "extracted": true,
+      "extraction_version": "v4.9x",
+      "reliability": "primary",
+      "notes": "All 151 photos delivered via photodownloads/ (2026-06-29) and filed to assets/images/plaques/; see credits.json. Photographed c.2010 (modern), depicting hand-painted/carved plaques and canoe boards naming sections, trips, and years with member/director names back to 1933. Visually inspected in full during photo-integration batch 2026-07-02; only a small number of plaques (CIT 1960, the 1972 all-female-trip flower board, the Knights of Kanawana roll board) have had their text transcribed into facts.json so far -- the remainder is a large untapped primary source for director/counsellor names and section rosters by year, flagged for future KB-extraction work."
+    },
+    {
+      "source_id": "src_flickr_kanawana_concordia_historical_album",
+      "type": "web",
+      "title": "Kanawana Flickr 'University Concordia Archives' album (34 images, 1900-2001)",
+      "date": "1900-2001",
+      "date_precision": "range",
+      "origin": "web",
+      "origin_url": "https://www.flickr.com/photos/kanawana/albums/",
+      "cache_path": "assets/images/historical/",
+      "char_count": 0,
+      "ingested_at": "2026-07-02T00:00:00Z",
+      "extracted": true,
+      "extraction_version": "v4.9x",
+      "reliability": "primary",
+      "notes": "All 34 images delivered via photodownloads/ (2026-06-29) and filed to assets/images/historical/ and assets/images/maps/; see credits.json. Genuine vintage photographs and site maps (not plaques) -- confirmed by visual inspection. Supersedes the img_concordia_archives_album placeholder in credits.json."
+    },
+    {
+      "source_id": "src_kanawana_physical_archive_scans_2026",
+      "type": "catalog_reference",
+      "title": "Camp Kanawana physical archive: scanned artifacts (honour-award ribbons, felt awards, t-shirt/silkscreen art, the 1981 Knights of Kanawana charter, the 1981 song-medley lyric sheet, the 1913 reunion banquet menu; 59 scans)",
+      "date": "1913-1990s",
+      "date_precision": "range",
+      "origin": "user_provided",
+      "origin_url": null,
+      "cache_path": "assets/images/artifacts/ and assets/images/art/",
+      "char_count": 0,
+      "ingested_at": "2026-07-02T00:00:00Z",
+      "extracted": true,
+      "extraction_version": "v4.9x",
+      "reliability": "primary",
+      "notes": "Delivered via photodownloads/'Kanawana Archives-3-001.zip' (2026-06-29); Matt's own scans of physical camp memorabilia. Filed to assets/images/artifacts/ and assets/images/art/; see credits.json. 10 near-duplicate scans of the same physical items were skipped (representative kept)."
     }
   ],
-  "source_count": 492
+  "source_count": 544
 }

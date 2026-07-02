@@ -1,7 +1,7 @@
 # Programs and Activities at Kanawana
 
 *Status: E1-reviewed | Sources: src_brochure_1922, src_history_1935, src_mcmorris_thesis, src_kanawana_facts, src_ymca_website, src_concordia_12A, src_concordia_12B04, src_gas_bag_1923, src_cfcf_1941, src_brochure_1921, src_postmedia_nature_deficit_2026, src_banq_le_droit_1937_06_25, src_banq_westmount_examiner_1962_11_16, src_banq_le_soleil_1971_07_07, src_banq_sherbrooke_record_1972_07_21, src_banq_montreal_matin_1971_08_24, src_zinner_thesis_1973*
-*Last Updated: 2026-06-22 (BAnQ newspaper sources added: 1937 first aid instruction, 1962 citizenship training, 1971 Noosphere simulation, 1972 leader training; Montreal-matin and Zinner thesis sources added for Noosphere)*
+*Last Updated: 2026-06-22 (BAnQ newspaper sources added: 1937 first aid instruction, 1962 citizenship training, 1971 Noosphere simulation, 1972 leader training; Montreal-matin and Zinner thesis sources added for Noosphere) — photo gallery added 2026-07-02*
 
 ## Overview
 
@@ -81,6 +81,17 @@ Beyond summer programming, the camp hosts school groups for overnight outdoor ed
 - [[chronology/founding-1894|Founding of Camp Kanawana (1894)]]
 - [[programs/traditions-and-culture|Traditions and Culture at Kanawana]]
 - [[context/quebec-camp-landscape|The Quebec Camp Landscape]]
+
+## Images
+
+![Honour-award ribbon: Life-Saving, c.1920](../../assets/images/artifacts/award-ribbon-life-saving.jpg)
+*An honour-award ribbon for Life-Saving, Aquatic Dept., c.1920. Copyright All rights reserved by Kanawana.*
+
+![Felt leadership awards, 1940s](../../assets/images/artifacts/felt-awards-leadership-crest.jpg)
+*Felt awards including a Westmount-Y leadership crest and Spirit-Mind-Body crest, 1940s. Copyright All rights reserved by Kanawana.*
+
+![Swim team, 1914-1940](../../assets/images/historical/concordia-1914-1940-swimteam.jpg)
+*The swim team, 1914-1940. Pre-1949 photograph — public domain in Canada.*
 
 ## Open Questions
 

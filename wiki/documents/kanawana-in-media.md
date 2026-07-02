@@ -1,7 +1,7 @@
 # Kanawana in Media and Culture
 
 *Status: E1-reviewed | Sources: 16*
-*Last Updated: 2026-06-22 (1897 and 1918 Gazette articles, CFCF audio, Flickr account, pandemic CBC coverage added)*
+*Last Updated: 2026-06-22 (1897 and 1918 Gazette articles, CFCF audio, Flickr account, pandemic CBC coverage added) — photo gallery added 2026-07-02*
 
 ## Overview
 
@@ -50,6 +50,26 @@ Camp Kanawana has appeared in a range of media over its 130-year history, from p
 ## Stuart McLean and *The Vinyl Cafe*
 
 Stuart McLean worked as a counsellor at Camp Kanawana for five summers beginning in 1969, eventually becoming assistant summer camp director.^9 He called it "the first place I ever felt I truly belonged." His personal and literary archive is housed at McMaster University, including manuscripts, correspondence, and photographs — a potential source for camp materials from his tenure.^10 After McLean's death in February 2017, his family established the Stuart McLean Camp Kanawana Fund to send children without financial means to camp. (See [[people/stuart-mclean|Stuart McLean]].)
+
+## Images
+
+![Star-Wars-parody t-shirt art](../../assets/images/art/art-star-wars-parody.jpg)
+*“A long time ago in a Kamp far, far away” — a bilingual Star-Wars-parody t-shirt design, c.1980s. Copyright All rights reserved by Kanawana.*
+
+![“Kamp Fever” graphic art](../../assets/images/art/art-kamp-fever.jpg)
+*“Kanawana Kamp Fever / La fièvre du Kamp Kanawana” graphic art, c.1980s. Copyright All rights reserved by Kanawana.*
+
+![Staff '91 t-shirt art](../../assets/images/art/staff-art-1991-totem.jpg)
+*Staff '91 t-shirt art with a Northwest-coast-style totem motif. Copyright All rights reserved by Kanawana.*
+
+![1989 reunion silkscreen](../../assets/images/art/reunion-silkscreen-1989.jpg)
+*A Kamp Kanawana Reunion silkscreen positive, 7 April 1989, marking the 95th anniversary (1894-1989). Copyright All rights reserved by Kanawana.*
+
+![1982 recruitment advertisement](../../assets/images/art/advertisement-1982.jpg)
+*A 1982 Kamp Kanawana YMCA recruitment advertisement (“In 1894 ... 88 years later”). Copyright All rights reserved by Kanawana.*
+
+![“Voyageurs” program advertisement, c.1981](../../assets/images/art/voyageurs-ad-1981.jpg)
+*A “Voyageurs” program advertisement, c.1981. Copyright All rights reserved by Kanawana.*
 
 ## Open Questions
 

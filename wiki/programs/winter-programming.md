@@ -1,7 +1,7 @@
 # Winter and Year-Round Programming
 
 *Status: R3-verified | Sources: 8*
-*Last Updated: 2026-06-26*
+*Last Updated: 2026-06-26 — photo gallery added 2026-07-02*
 
 ## Overview
 
@@ -31,6 +31,11 @@ Camp Kanawana has five distinct seasonal rental windows:^3
 ## Management
 
 David Leduc managed Camp Kanawana's summer and winter programs, including recruitment, training, and supervision of 75 employees serving 800 participants.^8
+
+## Images
+
+![“Kanawana Outing Club” badge, c.1960s](../../assets/images/artifacts/badge-outing-club.jpg)
+*A “Kanawana Outing Club” YMCA cloth badge, c.1960s — evidence of an off-season/outing program. Copyright All rights reserved by Kanawana.*
 
 ## Open Questions
 

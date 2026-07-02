@@ -1,7 +1,7 @@
 # Environmental Education and Stewardship at Kanawana
 
 *Status: E1-reviewed | Sources: 19*
-*Last Updated: 2026-06-24*
+*Last Updated: 2026-06-24 — photo gallery added 2026-07-02*
 
 ## Overview
 
@@ -78,6 +78,11 @@ These trajectories suggest that the camp's environmental culture predates its fo
 ## Research Context
 
 The Canadian Summer Camp Research Project (CSCRP, 2006–2011), conducted by the Canadian Camping Association and the University of Waterloo, interviewed over 50 camps across Canada and documented the relationship between camp experiences and developmental outcomes, including environmental awareness.^16 Sharon Wall's *The Nurture of Nature: Childhood, Antimodernism, and Ontario Summer Camps, 1920–55* (UBC Press, 2009) provides the most comprehensive academic treatment of how Ontario and Quebec camps evolved from anti-modern retreats to educational institutions, a trajectory that Camp Kanawana exemplifies.^16
+
+## Images
+
+![Honour-award ribbon: Nature Study — Trees, c.1920](../../assets/images/artifacts/award-ribbon-nature-student-trees.jpg)
+*An honour-award ribbon for Nature Study — Trees, Educational Dept., c.1920. Copyright All rights reserved by Kanawana.*
 
 ## Open Questions
 

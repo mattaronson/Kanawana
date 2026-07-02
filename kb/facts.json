@@ -26000,9 +26000,9 @@
     },
     {
       "fact_id": "f_1544",
-      "claim": "A 1960 CIT (Counsellor-in-Training) dining-hall plaque lists Ron McCallum as 'Director' (Flickr 'Plaque' album). Since A. Ross Seaman is documented as overall camp director 1959-1967, McCallum was most likely the CIT/leadership-program director that year rather than overall camp director (conflict c_013). The 1960 plaque also names CIT staff: Cal Breslin, Ken Peets, Keith Bush, Chris Reid, Mike Gauchier, Tom Snabl, Nick Funston, Dave Weightman, Steve Greig, Mike Wilmot.",
+      "claim": "A 1960 CIT (Counsellor-in-Training) dining-hall plaque lists Ron McCallum as 'Director' (Flickr 'Plaque' album; image now cached at assets/images/plaques/cit-1960.jpg). Since A. Ross Seaman is documented as overall camp director 1959-1967, McCallum was most likely the CIT/leadership-program director that year rather than overall camp director (conflict c_013). The 1960 plaque also names CIT staff: Cal Breslin, Ken Peets, Keith Bush, Chris Reid, Mike Gauchier, Tom Snabl, Nick Funston, Dave Weightman, Steve Greig, Mike Wilmot.",
       "sources": [
-        "src_flickr_kanawana"
+        "src_flickr_kanawana_plaque_album"
       ],
       "confidence": "disputed",
       "category": "people",
@@ -26350,6 +26350,79 @@
       "conflicts_with": [],
       "added_version": "v4.89",
       "added_by": "audit_recovery"
+    },
+    {
+      "fact_id": "f_1564",
+      "claim": "A dining-hall canoe board records 'Kanawana's First All Female Canoe Trip 1972' with nine named participants (Kathy Livingstone, Claire Colle, Kathy MacLean, Margot Hovey, Roma Kozlov, Cathy Poulson, Joy Kozlov, Cathy Pelletier, Abbie Simons) and the motto 'Power to the Women!'",
+      "sources": [
+        "src_flickr_kanawana_plaque_album"
+      ],
+      "confidence": "stated",
+      "category": "coeducation",
+      "entities": [
+        "Kathy Livingstone",
+        "Claire Colle",
+        "Kathy MacLean",
+        "Margot Hovey",
+        "Roma Kozlov",
+        "Cathy Poulson",
+        "Joy Kozlov",
+        "Cathy Pelletier",
+        "Abbie Simons"
+      ],
+      "date_ref": "1972",
+      "conflicts_with": [],
+      "added_version": "v4.9x",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_1565",
+      "claim": "A dining-hall roll board for 'The Order of the Knights of Kanawana' ('an honour bestowed upon a select few campers who have excelled in mastering important skills and who reflect the spirit that is Kanawana', crest motto 'Non Nobis') lists knighted campers by year from 1980 to 2009, including Sir Denys Lawrence and Lady Lindsay Hertland (1980) through Sir Dylan Applebaum (2009).",
+      "sources": [
+        "src_flickr_kanawana_plaque_album"
+      ],
+      "confidence": "stated",
+      "category": "traditions",
+      "entities": [
+        "Knights of Kanawana"
+      ],
+      "date_ref": "1980-2009",
+      "conflicts_with": [],
+      "added_version": "v4.9x",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_1566",
+      "claim": "A handwritten sheet titled 'Medley '81' records camp cheers/chants including a call-and-response opener ('Kamp Kanawana are you ready? We are!! Then let's go!'), 'Hail, Hail the gang's all here / What the heck do we care... We are the guys from Kanawana', a Voyageurs sound-off chant ('Said 1-2-3-4-5 / Said Junior Girls don't take no jive / Ya-Ya'), a nonsense chant ('Alabibo-Alabybo, Alabibo-bybo-boom' and 'Alaman Alaman, Alamandiego sandiego, Hocus Pocus dominocus, Whoa men'), and a girls'-section cheer ('Sr. girls are red hot, let's show them what we've got').",
+      "sources": [
+        "src_kanawana_physical_archive_scans_2026"
+      ],
+      "confidence": "stated",
+      "category": "traditions",
+      "entities": [
+        "Camp Songs, Cheers, and Musical Traditions"
+      ],
+      "date_ref": "1981",
+      "conflicts_with": [],
+      "added_version": "v4.9x",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_1567",
+      "claim": "The 1981 'Knights of Kanawana' induction document (artwork and lettering by Greg Shevchenko, May 1981) gives the full oath text: 'I solemnly swear to wear this symbol of the Knights of Kanawana with honour and loyalty. I promise to be a true Kanawanian, and to offer my humble support in all that the Council may decide. I swear, also, to keep secret the proceedings of this ceremony, the persons present, as well as the location thereof. I do solemnly accept the honour bestowed upon me this day, and agree to forfeit my Knighthood or Ladyship if at any time my deeds and thoughts prove contrary to those of the Council.' The crest bears the motto 'Non Nobis Solum' and shows a maple leaf and canoe.",
+      "sources": [
+        "src_kanawana_physical_archive_scans_2026"
+      ],
+      "confidence": "stated",
+      "category": "traditions",
+      "entities": [
+        "Knights of Kanawana",
+        "Greg Shevchenko"
+      ],
+      "date_ref": "1981-05",
+      "conflicts_with": [],
+      "added_version": "v4.9x",
+      "added_by": "manual"
     }
   ]
 }
