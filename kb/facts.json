@@ -26423,6 +26423,27 @@
       "conflicts_with": [],
       "added_version": "v4.9x",
       "added_by": "manual"
+    },
+    {
+      "fact_id": "f_1568",
+      "claim": "A dining-hall board titled 'C.I.T.'s of '93' names Sophie Caisse and Simon Heller as the two 'directors' of the 1993 CIT program, with 32 CITs listed by name including Matt Aronson (the wiki project's operator, who confirms his own attendance as a CIT that summer). Other legible names: Monique Ah-Sue, Kosyo Bradbury, Chris Gayton, Ali Liebich, Aimee Castle, Sam Grossman, Toby Lyle, Tracey Azeff, Lisa Cecchini, Ryan Harbinson, Katie Musgrave, Marisa Bacchiochi, Kippie Clark, Katie Havercroft, Andrea Pahl, Adrian di Giovanni, Andrew Heathcote, Adam Perritt, Talia Dorsey, Andrew Henle, Maurice Presser, Dave Drury, Steph Hurlburt, Rob Starke, Susan Gamberg, Alison Leduc, Mara Welch. Several first names in the leftmost column are illegible in the photograph (handwriting/lighting) and are omitted here pending a clearer image or operator confirmation.",
+      "sources": [
+        "src_flickr_kanawana_plaque_album",
+        "src_oral_aronson"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "Sophie Caisse",
+        "Simon Heller",
+        "Matt Aronson",
+        "Kamp Kanawana",
+        "directors"
+      ],
+      "date_ref": "1993",
+      "conflicts_with": [],
+      "added_version": "v4.9x",
+      "added_by": "manual"
     }
   ]
 }

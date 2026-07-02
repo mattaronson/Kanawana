@@ -97,7 +97,22 @@ NOT captured in CLAUDE.md. Update this file when you learn something new about H
   something, test rather than assume it's blocked. Either way, prefer images Matt supplies.
 - **Canadian copyright shortcut:** photographs made **before 1949 are public domain in Canada** —
   so the oldest archival images (1898, c.1910, 1915, 1944) are the safest to display. Flag
-  1950+ items as "permission needed."
+  1950+ items as "permission needed." **What matters is when the photograph itself was taken, not
+  the date of the depicted subject.** A 2010-era photo of a 1933 plaque, or a 2026 scan of a 1920
+  ribbon, is a modern photograph — copyright status follows the shoot date, not the artifact's era.
+  This bug was caught mid-integration on 2026-07-02 (see research-log.md Campaign 22) after 28
+  images were briefly misclassified; fixed before committing.
+- **Parsing names off a plaque/board (dining-hall plaques, canoe boards, trip signs — the
+  `assets/images/plaques/` album, ~140 of 151 not yet individually read):** a name paired with an
+  explicit title ("Director," "Directors," "Head Counsellor," etc.) is staff; the untitled bulk of
+  names is the group roster (CITs, section members, trip participants). Confirmed on the 1993 "CIT's
+  of '93" board: Sophie Caisse and Simon Heller are labelled "directors" of the CIT program that
+  year (distinct from Bruce Netherwood, the overall camp director 1988-1994 — see the directors
+  table in `wiki/people/directors-index.md`), with 32 untitled names below them as the CIT roster
+  (f_1568; Matt confirms he was one of the 32). Don't collapse a titled director's name into the
+  same "staff" bucket as the roster below them — read the title text on the board, not just the
+  layout. When names are hard to read (handwriting, lighting, low resolution), transcribe what's
+  legible and flag the rest as illegible rather than guessing.
 - Best image sources found: Concordia Records Management Flickr + the official Kanawana Flickr
   "University Concordia Archives" album; QAHN; CCA (Ross & Macdonald drawings). Concordia AtoM and
   CCA viewers sometimes block right-click download — capture the direct image URL as fallback.

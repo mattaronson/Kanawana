@@ -36,6 +36,7 @@ This index compiles all known directors of Camp Kanawana (originally Camp Jubile
 | Peter Goddard | ~1981–1985? | Full name: Peter Gilling Goddard (1953–2016). Identification confirmed via obituary condolence mentioning "Kamp Kanawana." Career in outdoor education: Boy Scouts of Canada (40+ years), Bill Mason Center, Rideau Valley Conservation Authority (Baxter Conservation Area). Died October 15, 2016, while walking Shaw Woods trails. Exact Kanawana years uncertain; served between Twynam and Jay Netherwood.^12 ^18 | Oral history (M. Aronson); Goddard obituary and condolences |
 | Jay Netherwood | 1986-1987 | Brother of Bruce Netherwood | Oral history (M. Aronson) |
 | Bruce Netherwood | 1988-1994 | Brother of Jay Netherwood. Now VP Camping Services, South Shore YMCA, Massachusetts; 30+ years in YMCA camping | Oral history (M. Aronson) |
+| Sophie Caisse & Simon Heller | 1993 (CIT program) | Named "directors" on a 1993 dining-hall board ("C.I.T.'s of '93"), alongside 32 named CITs. Overall camp director that year was Bruce Netherwood (1988-1994); as with Ron McCallum (1960), Caisse and Heller most likely directed the CIT/leadership program specifically, not the camp as a whole. | Flickr "Plaque" album |
 | Joanna Hode | 1995-2000 | | Oral history (M. Aronson) |
 | Morgan M. Carter | 2001-2002 | Montreal architect; co-founded Atelier Schleiss Carter (2018). Worked "extensively in the non-profit sector for agencies including the YMCA and Canada World Youth" before architecture. Has served on the Board of Directors of YMCA Kanawana. Adjunct faculty at McGill (since 2011), UdeM (since 2013), and has taught at Dalhousie, Harvard, and Carleton. OAQ since 2022. | Oral history (M. Aronson); Schleiss Carter team page |
 | Dave Leduc | 2003 | Managed all Kanawana summer/winter programs (75 employees, 800 participants), all operational budgets, safety/security of 800 participants, strategic business planning, developed intensive youth leadership program, reported to Board of Directors. BA International Development (Dalhousie); MBA (McGill, 2006-2011). Later: Oxfam-Quebec Lebanon coordinator (2000-2002), McGill ICAN director of operations, Exec. Dir. of Development and Peace (2015-2020), Director of Philanthropy (Quebec) at Pathways to Education. | Oral history (M. Aronson); LinkedIn (davidgleduc); Dev. & Peace press release 2015 |
@@ -137,6 +138,9 @@ The following periods have no confirmed camp director:
 
 ![1975 CIT dining-hall plaque](../../assets/images/plaques/cit-1975.jpg)
 *A CIT dining-hall plaque from 1975. Copyright All rights reserved by Kanawana.*
+
+![1993 CIT dining-hall board](../../assets/images/plaques/cit-1993.jpg)
+*"C.I.T.'s of '93" — a dining-hall board naming Sophie Caisse and Simon Heller as the two directors of the 1993 CIT program, with 32 CITs listed by name (f_1568). Copyright All rights reserved by Kanawana.*
 
 ![Staff photograph, 1960-1980](../../assets/images/historical/concordia-1960-1980-staff-photo.jpg)
 *A staff photograph, 1960-1980. Copyright All rights reserved by Kanawana.*
