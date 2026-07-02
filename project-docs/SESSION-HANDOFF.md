@@ -4,27 +4,28 @@
 NOT captured in CLAUDE.md. Update this file when you learn something new about HOW to work
 (not WHAT was found — that goes in the KB / research-log).*
 
-*Last updated: 2026-06-29*
+*Last updated: 2026-07-02*
 
 ---
 
 ## ⚡ START HERE (next session)
 
-1. **Master folder is now `D:\Kanawana`** on Matt's local Windows machine. Work here, not in
+1. **Master folder is `D:\Kanawana`** on Matt's local Windows machine. Work here, not in
    `C:\Users\Matt.ADESSKY\Kanawana` (that old clone is stale/redundant and may be deleted).
    Launch Claude Code with `D:\Kanawana` as the working directory.
-2. **First task: integrate the photo archive.** Matt has placed downloaded photo archives at
-   **`D:\Kanawana\photodownloads\`** (3 ZIP files as of 2026-06-29, incl. `Kanawana Archives-3-001.zip`,
-   ~100 MB total). Begin by:
-   - Unzipping them to a scratch/working area (NOT committing the raw zips).
-   - Reviewing the images against `assets/images/credits.json` (the provenance manifest) and
-     `assets/images/PHOTO-ACQUISITION.md` (the tiered want-list). Match each image to an existing
-     `credits.json` entry where possible; add new entries for images not yet listed.
-   - Filing keepers into `assets/images/` using the `target_filename` from `credits.json`, setting
-     each entry's `status` to `acquired` and filling `filename`.
-   - Wiring images into the relevant articles with proper credit lines, then committing.
-   - **Respect the Canadian copyright rule:** photos created **before 1949 are public domain in
-     Canada** (safe to display with credit); flag 1950+ items as "permission needed."
+2. **Photo integration is DONE (2026-07-02).** 234 of the 244 delivered images are filed in
+   `assets/images/{historical,maps,plaques,artifacts,art}/`, credited in `credits.json`, and a
+   curated ~40-image selection is wired into 15 wiki articles. See research-log.md Campaign 22
+   for the full account, including a rights-classification bug caught mid-integration (plaque and
+   artifact photos were briefly misclassified as pre-1949 public domain based on the depicted
+   subject's date rather than the photograph's own date — fixed before committing). **Remaining
+   work in this area (not done, optional follow-up):** ~140 of the 151 dining-hall plaque photos
+   are filed/credited but not individually embedded in any article — they're a large untapped
+   primary source for director/counsellor names and section rosters by year
+   (`src_flickr_kanawana_plaque_album` in sources.json flags this). 8 want-list items from
+   `PHOTO-ACQUISITION.md` are still `not_acquired` (flag-raising c.1910, camp truck c.1910, the
+   1898 Jubilee photo, Otoreke items, McCord postcard, Harold Cross portrait, centennial poster,
+   Facebook album) — none were present in the 2026-06-29 delivery.
 3. **NOT doing oral history right now** — Matt explicitly deferred it (2026-06-29). The instrument
    at `project-docs/oral-history-instrument.md` is drafted and ready, but do not present/run it
    unless Matt asks.
@@ -34,14 +35,18 @@ NOT captured in CLAUDE.md. Update this file when you learn something new about H
 - State lives entirely in committed files (`kb/facts.json`, `wiki/articles.json`,
   `queue/priorities.json`, `kb/conflicts.json`, `project-docs/research-log.md`) — not in chat.
   Nothing from a prior conversation is needed.
-- **Trust the files over any remembered/label numbers.** File-verified state as of 2026-06-29
-  (branch `claude/camp-kanawana-research-zusW1` @ commit `1b20c73`, == `origin`):
-  - `kb/facts.json`: **1,525 facts**, `kb_version` field reads **4.84** (a prior handoff labeled
-    this "v4.89" — cosmetic drift; the fact/source counts are what matter).
-  - `sources/sources.json`: **541 sources**.
+- **Trust the files over any remembered/label numbers.** File-verified state as of 2026-07-02
+  (branch `claude/camp-kanawana-research-zusW1` @ commit `e202f20`, == `origin`):
+  - `kb/facts.json`: **1,529 facts** (+4 from the photo-integration session: f_1564-f_1567, read
+    directly off delivered plaque/artifact photos).
+  - `sources/sources.json`: **544 sources** (+3 photo-batch sources). Note: the `source_count`
+    field had drifted stale (read 492 against an actual array length of 541) before this session
+    corrected it — don't trust that field blindly either; count the array if in doubt.
   - `kb/conflicts.json`: **13 conflicts**.
-  - `wiki/articles.json`: **52 articles** (50 E1-reviewed, 2 R3-verified). (A prior handoff said
-    "54 articles" — verify against the file, don't trust the label.)
+  - `wiki/articles.json`: **52 articles** (50 E1-reviewed, 2 R3-verified) — unchanged; the photo
+    session added image galleries to 15 article *files* but did not touch `articles.json` or
+    advance any status.
+  - `assets/images/credits.json`: **246 entries**, 234 `acquired`.
 - **Research provenance is fully preserved**: all 300 background agents have a committed report
   in `project-docs/research-provenance/reports/<id>.md` (292 completed = full final reports; 8
   spend-killed = their attempted searches + partial notes). `INDEX.md` is the lookup table. This
