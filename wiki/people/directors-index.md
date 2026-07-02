@@ -133,7 +133,7 @@ The following periods have no confirmed camp director:
 *The earliest dated staff photograph in the archive, 1915. Pre-1949 photograph — public domain in Canada.*
 
 ![1960 CIT dining-hall plaque](../../assets/images/plaques/cit-1960.jpg)
-*A dining-hall plaque naming Ron McCallum as "Director" of the 1960 CIT program, alongside ten named CIT staff (f_1544). Copyright All rights reserved by Kanawana.*
+*A dining-hall plaque naming Ron McCallum as "Director" of the 1960 CIT program, alongside the ten named Counsellors-in-Training (CITs) of summer 1960 (f_1544). Copyright All rights reserved by Kanawana.*
 
 ![1975 CIT dining-hall plaque](../../assets/images/plaques/cit-1975.jpg)
 *A CIT dining-hall plaque from 1975. Copyright All rights reserved by Kanawana.*
