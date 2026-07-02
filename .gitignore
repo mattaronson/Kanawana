@@ -64,6 +64,9 @@ yarn-error.log*
 *.zip
 *.tar.gz
 
+# Raw photo download drop zone (extract to scratch; never commit raw archives)
+photodownloads/
+
 # Temporary files
 *.bak
 *.tmp
