@@ -20189,7 +20189,9 @@
         "Camp Kanawana"
       ],
       "date_ref": "2003",
-      "conflicts_with": [],
+      "conflicts_with": [
+        "f_1638"
+      ],
       "added_version": "v4.49",
       "added_by": "oral_history"
     },
@@ -27748,7 +27750,9 @@
         "JBC"
       ],
       "date_ref": "2003",
-      "conflicts_with": [],
+      "conflicts_with": [
+        "f_1215"
+      ],
       "added_version": "v4.90",
       "added_by": "auto_extraction"
     },

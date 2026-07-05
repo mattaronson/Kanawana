@@ -253,6 +253,26 @@
       "affects_articles": [
         "directors-index"
       ]
+    },
+    {
+      "conflict_id": "c_014",
+      "description": "2003 camp director: a JBC dining-hall board explicitly labeled '2003' names a leadership hierarchy 'Camp Director: Morgan; Assistant Director: Marc; Chief: Dave; Section Directors: Matt, Laurie' -- naming 'Morgan' (not 'Dave') as Camp Director and placing 'Dave' in the subordinate 'Chief' role. This conflicts with the directors-index claim (sourced from the operator's oral history/personal knowledge, confidence 'user_knowledge') that Dave Leduc was Camp Director in 2003, and with Morgan M. Carter's documented camp-directorship being dated 2001-2002 (i.e. ending before 2003).",
+      "fact_ids": [
+        "f_1638",
+        "f_1215"
+      ],
+      "entity": "Camp Kanawana directorship 2003",
+      "attribute": "director_2003",
+      "values": [
+        "Morgan [Carter?] (per JBC 2003 dining-hall board, with 'Dave' as subordinate 'Chief')",
+        "Dave Leduc (per operator oral history, f_1215)"
+      ],
+      "status": "unresolved",
+      "notes": "Two readings are possible: (a) Morgan M. Carter's tenure extended into 2003 and Dave Leduc's directorship actually began in 2004, with the 'Dave' on this board being Leduc serving as 'Chief' (a subordinate role) that year; or (b) the board's first-name-only labels are imprecise/retrospective and 'Dave' is a different Dave entirely (an extremely common first name in this KB -- compare Dave Twynam, Dave Polsky, Dave Kaufman, Dave Robillard, Dave Love, and a dozen others). Primary-source plaque evidence (contemporaneous to 2003) is normally weighted above recalled oral history, but the operator (Matt Aronson) may be able to resolve this directly by recalling or re-examining the board. Recommend either extending Morgan M. Carter's directors-index end-date to 2003 and Dave Leduc's start-date to 2004, or confirming 'Dave' = Dave Leduc as 'Chief' under Carter that year before promotion.",
+      "created_at": "2026-07-05T00:00:00Z",
+      "affects_articles": [
+        "directors-index"
+      ]
     }
   ]
 }
