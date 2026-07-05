@@ -2433,7 +2433,9 @@
       "blocking": false,
       "assigned_weight": "P2",
       "created_at": "2026-07-05T00:00:00Z",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-07-05T00:00:00Z",
+      "result": "Added 16 titled section/program-director rows (CIT, LIT, Rangers, Voyageurs, JBC, Senior Girls) to directors-index.md Section and Program Directors table; enriched section-names.md with a new Section and Program Directors narrative section; added named trip-staff (Rob Shackell, Steve Wesley, Lorna McNeish, Mark Chamandy-Cook) to canoe-trips.md. No new facts/sources -- propagated already-extracted plaque facts (f_1569-f_1739) into article prose."
     },
     {
       "priority_id": "p_192",

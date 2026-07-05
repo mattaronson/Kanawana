@@ -1,7 +1,7 @@
 # Section Names at Kanawana
 
 *Status: E1 Reviewed | Sources: McMorris (2023) Ch1, KB section_names, YMCA Quebec website (2026)*
-*Last Updated: 2026-07-02 (photo gallery added)*
+*Last Updated: 2026-07-05 (Section and Program Directors section added, p_191 ENRICH pass)*
 
 Kanawana's original age groupings were straightforward: Juniors (12 to 14) and Seniors (14 to 17). Two groups, one dividing line. By 1930, the camp had added a Juveniles section for boys aged 10 to 12, recognizing both the demand from younger families and the practical reality that a ten-year-old and a sixteen-year-old do not belong in the same program. The 1935 staff list reflects this three-section structure, with separate directors for Juveniles (Lorne Hamilton), Juniors (Ernie Taylor), and Seniors (Howie Langille).
 
@@ -12,6 +12,10 @@ That changed in 1959, when the camp renamed all four sections. The new names dre
 The 1959 names survived. More than six decades later, all four are still in use at the camp, though the age ranges and organizational logic have shifted considerably. Where the original system sorted boys by age into two-year bands, the current structure — in place since at least the early 1980s — uses the same names to organize campers by gender. Pioneers encompasses girls aged 7 to 12, while Woodsmen covers boys in the same age range. These two make up the Junior sections, housed in cabins. In the Senior sections (platform tents), Coureurs de Bois serves boys aged 13 to 15, while Pathfinders covers girls of the same age. The Mountaineers section, established in 2022, provides a gender-neutral Senior section for campers aged 13 to 15. Beyond the core sections, the camp runs specialized programs: Voyageurs (an all-gender long canoe trip program), Trailblazers (Leaders-in-Training, age 16), and Foresters (canoe trip leader specialization).
 
 The persistence of names like Pioneers and Coureurs de Bois, even as their meaning has been remapped onto entirely different organizational principles, is itself a small piece of evidence about how camp traditions work. The words outlast the systems they were designed to label.
+
+## Section and Program Directors
+
+Beyond the Camp Director who ran the whole operation, individual sections and programs had their own named leadership, documented on the dining-hall and canoe-trip plaques campers made each summer. The Rangers program (see Programs and Activities) was run by a rotating cast of "co-ordinators" or "Masters": John Lummis in 1959, Louis Lessard and Hélène Longpré in 2002, François Goulet-Lessard and [-] Tanguy in 2003, Jen Kaufman and Liz Kolinski in 2004, and Julian Dobie, Hannah S-Paris, and Matt Iviott in 2005. The CIT (Counsellor-in-Training) program had a documented "Directress" or "Director" in most seasons from the 1970s onward: Lynne Robinson (1975), Sophie Caisse and Simon Heller (1993), Simon Heller again with Paula Cussen and Wendy (1995), Rick Cordi (1997), and Maria English (1999-2000, alongside a separately credited "CIT Program Director: Manuel"). Reiko Webster, credited "Our Beloved Director" in 1992, had herself been a named CIT on the 1986 plaque six years earlier — one of several camper-to-CIT-director career arcs the plaques preserve. The Leaders-in-Training (LIT) program was directed by Avigail Aronoff and David Leduc in 2002, the year before Leduc went on to a one-summer stint as on-site Camp Director. Voyageurs had a "Capitaine" (Lorna McNeish, 2000) and later a titled "Section Director" (Matt Hamerman, 2006); JBC (Junior Boys' Camp) and the Senior Girls/Lookout section each had a titled "S.D." in 2007 and 2008 respectively (Durga Chew-Bose and Bex Finnigan Reisler). The full roster, with sources, is in the Section and Program Directors table of the [[people/directors-index|Directors and Staff of Camp Kanawana]] index.
 
 ## Related Articles
 
@@ -26,6 +30,7 @@ The persistence of names like Pioneers and Coureurs de Bois, even as their meani
 - YMCA Quebec, "Summer Camp Kanawana" (ymcaquebec.org, 2026). Confirms Pioneers, Woodsmen, Coureurs de Bois, Pathfinders still in active use with current age/gender assignments. [YMCA Quebec](https://www.ymcaquebec.org/en/summer-camp-kanawana)
 - YMCA Kamp Kanawana Facts (undated). [Internet Archive](https://archive.org/details/ymca-kamp-kanawana-facts). Confirms 1969 coeducation.
 - KB: staff_1935 (section directors named by section), section_names (full evolution timeline).
+- Dining-hall and canoe-trip plaques, photo-mined 2026-07-05 (f_1569-f_1739): Rangers, CIT, LIT, and Voyageurs section/program directors, 1959-2008. See [[people/directors-index|Directors and Staff of Camp Kanawana]] for the full table.
 
 ### R3 Verification Notes
 
@@ -47,6 +52,12 @@ Note: An earlier draft incorrectly stated Woodsmen covered ages 13-16. The YMCA 
 
 ![Explorer Boys section plaque, 2008](../../assets/images/plaques/explorer-boys-2008.jpg)
 *An Explorer Boys section plaque, 2008. Copyright All rights reserved by Kanawana.*
+
+![2002 Rangers plaque](../../assets/images/plaques/rangers-2002.jpg)
+*The 2002 Rangers plaque, naming co-ordinators Louis Lessard and Hélène Longpré (f_1677). Copyright All rights reserved by Kanawana.*
+
+![1997 CITS plaque](../../assets/images/plaques/cit-1997.jpg)
+*The 1997 CIT plaque, crediting Rick Cordi as CIT Director (f_1616). Copyright All rights reserved by Kanawana.*
 
 ## Open Questions
 
