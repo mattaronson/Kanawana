@@ -2423,6 +2423,17 @@
       "assigned_weight": "P3",
       "created_at": "2026-06-24T00:00:00Z",
       "status": "blocked"
+    },
+    {
+      "priority_id": "p_191",
+      "rank": 191,
+      "type": "WRITE",
+      "description": "ENRICH pass on directors-index.md, section-names.md, and program articles (rangers, voyageurs, cit/lit, advance-guard, etc.) using the 158 new photo-mined facts (f_1569-f_1726) from the full visual-mining pass on assets/images/. Rich director/counsellor rosters by year now available for Rangers (1955-2005), CIT (1975-2001), Voyageurs (1988-2010), and others — cross-check against existing directors-index for gap-filling in the 1947-2003 range per the Phase 2 mandate.",
+      "article_id": null,
+      "blocking": false,
+      "assigned_weight": "P2",
+      "created_at": "2026-07-05T00:00:00Z",
+      "status": "pending"
     }
   ]
 }

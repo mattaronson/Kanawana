@@ -1,7 +1,7 @@
 {
   "_comment": "Provenance manifest for the Camp Kanawana visual archive. Every identified pre-2016 image gets an entry here BEFORE the image file lands, so provenance and rights are recorded. When an image is added to this directory, set status='acquired' and fill 'filename'. Canadian copyright note: photographs created before 1949 are generally public domain in Canada (and most pre-1972 published works), so the early archival images below are safely displayable. Photo-integration batch 'photodownloads-2026-06-29' added 2026-07-02: 234 images filed from three delivered archives (Concordia historical album, dining-hall plaque album, physical-artifact/art scans). See project-docs/research-log.md.",
   "version": "1.0",
-  "updated": "2026-07-02",
+  "updated": "2026-07-05",
   "images": [
     {
       "id": "img_flagraising_c1910",
@@ -263,7 +263,9 @@
       "source": "Concordia University Archives (YMCA of Montreal fonds P0145), via the official Kanawana 'University Concordia Archives' Flickr album",
       "source_url": "https://www.flickr.com/photos/kanawana/5132104699/",
       "rights": "Pre-1949 photograph — public domain in Canada.",
-      "linked_facts": [],
+      "linked_facts": [
+        "f_1569"
+      ],
       "suggested_articles": [
         "the-kanawana-site",
         "founding-1894"
@@ -318,7 +320,9 @@
       "source": "Concordia University Archives (YMCA of Montreal fonds P0145), via the official Kanawana 'University Concordia Archives' Flickr album",
       "source_url": "https://www.flickr.com/photos/kanawana/5132104791/",
       "rights": "Pre-1949 photograph — public domain in Canada.",
-      "linked_facts": [],
+      "linked_facts": [
+        "f_1570"
+      ],
       "suggested_articles": [
         "programs-activities"
       ],
@@ -538,7 +542,9 @@
       "source": "Concordia University Archives (YMCA of Montreal fonds P0145), via the official Kanawana 'University Concordia Archives' Flickr album",
       "source_url": "https://www.flickr.com/photos/kanawana/5132707506/",
       "rights": "Copyright All rights reserved by Kanawana.",
-      "linked_facts": [],
+      "linked_facts": [
+        "f_1570"
+      ],
       "suggested_articles": [
         "lake-wilson",
         "programs-activities"
@@ -649,7 +655,9 @@
       "source": "Concordia University Archives (YMCA of Montreal fonds P0145), via the official Kanawana 'University Concordia Archives' Flickr album",
       "source_url": "https://www.flickr.com/photos/kanawana/5132107151/",
       "rights": "Pre-1949 photograph — public domain in Canada.",
-      "linked_facts": [],
+      "linked_facts": [
+        "f_1572"
+      ],
       "suggested_articles": [
         "places-and-locations",
         "the-kanawana-site"
@@ -668,7 +676,9 @@
       "source": "Concordia University Archives (YMCA of Montreal fonds P0145), via the official Kanawana 'University Concordia Archives' Flickr album",
       "source_url": "https://www.flickr.com/photos/kanawana/5132708080/",
       "rights": "Pre-1949 photograph — public domain in Canada.",
-      "linked_facts": [],
+      "linked_facts": [
+        "f_1572"
+      ],
       "suggested_articles": [
         "places-and-locations"
       ],
@@ -686,7 +696,9 @@
       "source": "Concordia University Archives (YMCA of Montreal fonds P0145), via the official Kanawana 'University Concordia Archives' Flickr album",
       "source_url": "https://www.flickr.com/photos/kanawana/5132108027/",
       "rights": "Pre-1949 photograph — public domain in Canada.",
-      "linked_facts": [],
+      "linked_facts": [
+        "f_1572"
+      ],
       "suggested_articles": [
         "places-and-locations"
       ],
@@ -741,7 +753,9 @@
       "source": "Concordia University Archives (YMCA of Montreal fonds P0145), via the official Kanawana 'University Concordia Archives' Flickr album",
       "source_url": "https://www.flickr.com/photos/kanawana/5132108129/",
       "rights": "Copyright All rights reserved by Kanawana.",
-      "linked_facts": [],
+      "linked_facts": [
+        "f_1570"
+      ],
       "suggested_articles": [
         "directors-index"
       ],
@@ -759,7 +773,9 @@
       "source": "Concordia University Archives (YMCA of Montreal fonds P0145), via the official Kanawana 'University Concordia Archives' Flickr album",
       "source_url": "https://www.flickr.com/photos/kanawana/5132108479/",
       "rights": "Copyright All rights reserved by Kanawana.",
-      "linked_facts": [],
+      "linked_facts": [
+        "f_1573"
+      ],
       "suggested_articles": [
         "places-and-locations",
         "the-kanawana-site"
@@ -853,7 +869,9 @@
       "source": "Concordia University Archives (YMCA of Montreal fonds P0145), via the official Kanawana 'University Concordia Archives' Flickr album",
       "source_url": "https://www.flickr.com/photos/kanawana/5077392888/",
       "rights": "Pre-1949 photograph — public domain in Canada.",
-      "linked_facts": [],
+      "linked_facts": [
+        "f_1571"
+      ],
       "suggested_articles": [
         "canoe-trips"
       ],
@@ -890,7 +908,9 @@
       "source": "Camp Kanawana official archive — Flickr 'Plaque' album (dining-hall/cabin commemorative plaques and canoe boards, photographed c.2010)",
       "source_url": "https://www.flickr.com/photos/kanawana/5125331841/",
       "rights": "Copyright All rights reserved by Kanawana.",
-      "linked_facts": [],
+      "linked_facts": [
+        "f_1585"
+      ],
       "suggested_articles": [
         "programs-activities"
       ],
@@ -908,7 +928,9 @@
       "source": "Camp Kanawana official archive — Flickr 'Plaque' album (dining-hall/cabin commemorative plaques and canoe boards, photographed c.2010)",
       "source_url": "https://www.flickr.com/photos/kanawana/5126184308/",
       "rights": "Copyright All rights reserved by Kanawana.",
-      "linked_facts": [],
+      "linked_facts": [
+        "f_1586"
+      ],
       "suggested_articles": [
         "programs-activities"
       ],
@@ -926,7 +948,9 @@
       "source": "Camp Kanawana official archive — Flickr 'Plaque' album (dining-hall/cabin commemorative plaques and canoe boards, photographed c.2010)",
       "source_url": "https://www.flickr.com/photos/kanawana/5125351191/",
       "rights": "Copyright All rights reserved by Kanawana.",
-      "linked_facts": [],
+      "linked_facts": [
+        "f_1587"
+      ],
       "suggested_articles": [
         "canoe-trips"
       ],
@@ -944,7 +968,9 @@
       "source": "Camp Kanawana official archive — Flickr 'Plaque' album (dining-hall/cabin commemorative plaques and canoe boards, photographed c.2010)",
       "source_url": "https://www.flickr.com/photos/kanawana/5126053768/",
       "rights": "Copyright All rights reserved by Kanawana.",
-      "linked_facts": [],
+      "linked_facts": [
+        "f_1588"
+      ],
       "suggested_articles": [
         "programs-activities"
       ],
@@ -962,7 +988,9 @@
       "source": "Camp Kanawana official archive — Flickr 'Plaque' album (dining-hall/cabin commemorative plaques and canoe boards, photographed c.2010)",
       "source_url": "https://www.flickr.com/photos/kanawana/5126172404/",
       "rights": "Copyright All rights reserved by Kanawana.",
-      "linked_facts": [],
+      "linked_facts": [
+        "f_1589"
+      ],
       "suggested_articles": [
         "programs-activities"
       ],
@@ -980,7 +1008,9 @@
       "source": "Camp Kanawana official archive — Flickr 'Plaque' album (dining-hall/cabin commemorative plaques and canoe boards, photographed c.2010)",
       "source_url": "https://www.flickr.com/photos/kanawana/5125568043/",
       "rights": "Copyright All rights reserved by Kanawana.",
-      "linked_facts": [],
+      "linked_facts": [
+        "f_1590"
+      ],
       "suggested_articles": [
         "programs-activities"
       ],
@@ -998,7 +1028,9 @@
       "source": "Camp Kanawana official archive — Flickr 'Plaque' album (dining-hall/cabin commemorative plaques and canoe boards, photographed c.2010)",
       "source_url": "https://www.flickr.com/photos/kanawana/5125377499/",
       "rights": "Copyright All rights reserved by Kanawana.",
-      "linked_facts": [],
+      "linked_facts": [
+        "f_1591"
+      ],
       "suggested_articles": [
         "programs-activities"
       ],
@@ -1016,7 +1048,9 @@
       "source": "Camp Kanawana official archive — Flickr 'Plaque' album (dining-hall/cabin commemorative plaques and canoe boards, photographed c.2010)",
       "source_url": "https://www.flickr.com/photos/kanawana/5125451113/",
       "rights": "Copyright All rights reserved by Kanawana.",
-      "linked_facts": [],
+      "linked_facts": [
+        "f_1592"
+      ],
       "suggested_articles": [
         "coeducation-gender"
       ],
@@ -1034,7 +1068,9 @@
       "source": "Camp Kanawana official archive — Flickr 'Plaque' album (dining-hall/cabin commemorative plaques and canoe boards, photographed c.2010)",
       "source_url": "https://www.flickr.com/photos/kanawana/5125426877/",
       "rights": "Copyright All rights reserved by Kanawana.",
-      "linked_facts": [],
+      "linked_facts": [
+        "f_1593"
+      ],
       "suggested_articles": [
         "programs-activities"
       ],
@@ -1052,7 +1088,9 @@
       "source": "Camp Kanawana official archive — Flickr 'Plaque' album (dining-hall/cabin commemorative plaques and canoe boards, photographed c.2010)",
       "source_url": "https://www.flickr.com/photos/kanawana/5126000626/",
       "rights": "Copyright All rights reserved by Kanawana.",
-      "linked_facts": [],
+      "linked_facts": [
+        "f_1594"
+      ],
       "suggested_articles": [
         "programs-activities"
       ],
@@ -1070,7 +1108,9 @@
       "source": "Camp Kanawana official archive — Flickr 'Plaque' album (dining-hall/cabin commemorative plaques and canoe boards, photographed c.2010)",
       "source_url": "https://www.flickr.com/photos/kanawana/5125449125/",
       "rights": "Copyright All rights reserved by Kanawana.",
-      "linked_facts": [],
+      "linked_facts": [
+        "f_1597"
+      ],
       "suggested_articles": [
         "canoe-trips"
       ],
@@ -1088,7 +1128,9 @@
       "source": "Camp Kanawana official archive — Flickr 'Plaque' album (dining-hall/cabin commemorative plaques and canoe boards, photographed c.2010)",
       "source_url": "https://www.flickr.com/photos/kanawana/5125975172/",
       "rights": "Copyright All rights reserved by Kanawana.",
-      "linked_facts": [],
+      "linked_facts": [
+        "f_1595"
+      ],
       "suggested_articles": [
         "canoe-trips"
       ],
@@ -1106,7 +1148,9 @@
       "source": "Camp Kanawana official archive — Flickr 'Plaque' album (dining-hall/cabin commemorative plaques and canoe boards, photographed c.2010)",
       "source_url": "https://www.flickr.com/photos/kanawana/5126019856/",
       "rights": "Copyright All rights reserved by Kanawana.",
-      "linked_facts": [],
+      "linked_facts": [
+        "f_1596"
+      ],
       "suggested_articles": [
         "canoe-trips"
       ],
@@ -1124,7 +1168,9 @@
       "source": "Camp Kanawana official archive — Flickr 'Plaque' album (dining-hall/cabin commemorative plaques and canoe boards, photographed c.2010)",
       "source_url": "https://www.flickr.com/photos/kanawana/5126036350/",
       "rights": "Copyright All rights reserved by Kanawana.",
-      "linked_facts": [],
+      "linked_facts": [
+        "f_1598"
+      ],
       "suggested_articles": [
         "canoe-trips"
       ],
@@ -1142,7 +1188,9 @@
       "source": "Camp Kanawana official archive — Flickr 'Plaque' album (dining-hall/cabin commemorative plaques and canoe boards, photographed c.2010)",
       "source_url": "https://www.flickr.com/photos/kanawana/5126052242/",
       "rights": "Copyright All rights reserved by Kanawana.",
-      "linked_facts": [],
+      "linked_facts": [
+        "f_1599"
+      ],
       "suggested_articles": [
         "canoe-trips"
       ],
@@ -1160,7 +1208,9 @@
       "source": "Camp Kanawana official archive — Flickr 'Plaque' album (dining-hall/cabin commemorative plaques and canoe boards, photographed c.2010)",
       "source_url": "https://www.flickr.com/photos/kanawana/5126067082/",
       "rights": "Copyright All rights reserved by Kanawana.",
-      "linked_facts": [],
+      "linked_facts": [
+        "f_1600"
+      ],
       "suggested_articles": [
         "canoe-trips"
       ],
@@ -1178,7 +1228,9 @@
       "source": "Camp Kanawana official archive — Flickr 'Plaque' album (dining-hall/cabin commemorative plaques and canoe boards, photographed c.2010)",
       "source_url": "https://www.flickr.com/photos/kanawana/5125456845/",
       "rights": "Copyright All rights reserved by Kanawana.",
-      "linked_facts": [],
+      "linked_facts": [
+        "f_1602"
+      ],
       "suggested_articles": [
         "traditions-and-culture"
       ],
@@ -1196,7 +1248,9 @@
       "source": "Camp Kanawana official archive — Flickr 'Plaque' album (dining-hall/cabin commemorative plaques and canoe boards, photographed c.2010)",
       "source_url": "https://www.flickr.com/photos/kanawana/5125955426/",
       "rights": "Copyright All rights reserved by Kanawana.",
-      "linked_facts": [],
+      "linked_facts": [
+        "f_1601"
+      ],
       "suggested_articles": [
         "traditions-and-culture"
       ],
@@ -1214,7 +1268,9 @@
       "source": "Camp Kanawana official archive — Flickr 'Plaque' album (dining-hall/cabin commemorative plaques and canoe boards, photographed c.2010)",
       "source_url": "https://www.flickr.com/photos/kanawana/5125979488/",
       "rights": "Copyright All rights reserved by Kanawana.",
-      "linked_facts": [],
+      "linked_facts": [
+        "f_1603"
+      ],
       "suggested_articles": [
         "directors-index"
       ],
@@ -1232,7 +1288,9 @@
       "source": "Camp Kanawana official archive — Flickr 'Plaque' album (dining-hall/cabin commemorative plaques and canoe boards, photographed c.2010)",
       "source_url": "https://www.flickr.com/photos/kanawana/5126107288/",
       "rights": "Copyright All rights reserved by Kanawana.",
-      "linked_facts": [],
+      "linked_facts": [
+        "f_1604"
+      ],
       "suggested_articles": [
         "the-kanawana-site"
       ],
@@ -1250,7 +1308,9 @@
       "source": "Camp Kanawana official archive — Flickr 'Plaque' album (dining-hall/cabin commemorative plaques and canoe boards, photographed c.2010)",
       "source_url": "https://www.flickr.com/photos/kanawana/5126003598/",
       "rights": "Copyright All rights reserved by Kanawana.",
-      "linked_facts": [],
+      "linked_facts": [
+        "f_1605"
+      ],
       "suggested_articles": [
         "traditions-and-culture"
       ],
@@ -1268,7 +1328,9 @@
       "source": "Camp Kanawana official archive — Flickr 'Plaque' album (dining-hall/cabin commemorative plaques and canoe boards, photographed c.2010)",
       "source_url": "https://www.flickr.com/photos/kanawana/5125378991/",
       "rights": "Copyright All rights reserved by Kanawana.",
-      "linked_facts": [],
+      "linked_facts": [
+        "f_1606"
+      ],
       "suggested_articles": [
         "traditions-and-culture"
       ],
@@ -1286,7 +1348,9 @@
       "source": "Camp Kanawana official archive — Flickr 'Plaque' album (dining-hall/cabin commemorative plaques and canoe boards, photographed c.2010)",
       "source_url": "https://www.flickr.com/photos/kanawana/5125509785/",
       "rights": "Copyright All rights reserved by Kanawana.",
-      "linked_facts": [],
+      "linked_facts": [
+        "f_1622"
+      ],
       "suggested_articles": [
         "directors-index"
       ],
@@ -1304,7 +1368,9 @@
       "source": "Camp Kanawana official archive — Flickr 'Plaque' album (dining-hall/cabin commemorative plaques and canoe boards, photographed c.2010)",
       "source_url": "https://www.flickr.com/photos/kanawana/5125931490/",
       "rights": "Copyright All rights reserved by Kanawana.",
-      "linked_facts": [],
+      "linked_facts": [
+        "f_1544"
+      ],
       "suggested_articles": [
         "directors-index"
       ],
@@ -1322,7 +1388,9 @@
       "source": "Camp Kanawana official archive — Flickr 'Plaque' album (dining-hall/cabin commemorative plaques and canoe boards, photographed c.2010)",
       "source_url": "https://www.flickr.com/photos/kanawana/5126109256/",
       "rights": "Copyright All rights reserved by Kanawana.",
-      "linked_facts": [],
+      "linked_facts": [
+        "f_1607"
+      ],
       "suggested_articles": [
         "directors-index"
       ],
@@ -1340,7 +1408,9 @@
       "source": "Camp Kanawana official archive — Flickr 'Plaque' album (dining-hall/cabin commemorative plaques and canoe boards, photographed c.2010)",
       "source_url": "https://www.flickr.com/photos/kanawana/5125960866/",
       "rights": "Copyright All rights reserved by Kanawana.",
-      "linked_facts": [],
+      "linked_facts": [
+        "f_1608"
+      ],
       "suggested_articles": [
         "directors-index"
       ],
@@ -1358,7 +1428,9 @@
       "source": "Camp Kanawana official archive — Flickr 'Plaque' album (dining-hall/cabin commemorative plaques and canoe boards, photographed c.2010)",
       "source_url": "https://www.flickr.com/photos/kanawana/5126143192/",
       "rights": "Copyright All rights reserved by Kanawana.",
-      "linked_facts": [],
+      "linked_facts": [
+        "f_1609"
+      ],
       "suggested_articles": [
         "directors-index"
       ],
@@ -1376,7 +1448,9 @@
       "source": "Camp Kanawana official archive — Flickr 'Plaque' album (dining-hall/cabin commemorative plaques and canoe boards, photographed c.2010)",
       "source_url": "https://www.flickr.com/photos/kanawana/5126013824/",
       "rights": "Copyright All rights reserved by Kanawana.",
-      "linked_facts": [],
+      "linked_facts": [
+        "f_1610"
+      ],
       "suggested_articles": [
         "directors-index"
       ],
@@ -1394,7 +1468,9 @@
       "source": "Camp Kanawana official archive — Flickr 'Plaque' album (dining-hall/cabin commemorative plaques and canoe boards, photographed c.2010)",
       "source_url": "https://www.flickr.com/photos/kanawana/5126097722/",
       "rights": "Copyright All rights reserved by Kanawana.",
-      "linked_facts": [],
+      "linked_facts": [
+        "f_1611"
+      ],
       "suggested_articles": [
         "directors-index"
       ],
@@ -1412,7 +1488,9 @@
       "source": "Camp Kanawana official archive — Flickr 'Plaque' album (dining-hall/cabin commemorative plaques and canoe boards, photographed c.2010)",
       "source_url": "https://www.flickr.com/photos/kanawana/5125553973/",
       "rights": "Copyright All rights reserved by Kanawana.",
-      "linked_facts": [],
+      "linked_facts": [
+        "f_1612"
+      ],
       "suggested_articles": [
         "directors-index"
       ],
@@ -1430,7 +1508,9 @@
       "source": "Camp Kanawana official archive — Flickr 'Plaque' album (dining-hall/cabin commemorative plaques and canoe boards, photographed c.2010)",
       "source_url": "https://www.flickr.com/photos/kanawana/5126128598/",
       "rights": "Copyright All rights reserved by Kanawana.",
-      "linked_facts": [],
+      "linked_facts": [
+        "f_1613"
+      ],
       "suggested_articles": [
         "directors-index"
       ],
@@ -1448,7 +1528,9 @@
       "source": "Camp Kanawana official archive — Flickr 'Plaque' album (dining-hall/cabin commemorative plaques and canoe boards, photographed c.2010)",
       "source_url": "https://www.flickr.com/photos/kanawana/5126114400/",
       "rights": "Copyright All rights reserved by Kanawana.",
-      "linked_facts": [],
+      "linked_facts": [
+        "f_1568"
+      ],
       "suggested_articles": [
         "directors-index"
       ],
@@ -1466,7 +1548,9 @@
       "source": "Camp Kanawana official archive — Flickr 'Plaque' album (dining-hall/cabin commemorative plaques and canoe boards, photographed c.2010)",
       "source_url": "https://www.flickr.com/photos/kanawana/5125941898/",
       "rights": "Copyright All rights reserved by Kanawana.",
-      "linked_facts": [],
+      "linked_facts": [
+        "f_1614"
+      ],
       "suggested_articles": [
         "directors-index"
       ],
@@ -1484,7 +1568,9 @@
       "source": "Camp Kanawana official archive — Flickr 'Plaque' album (dining-hall/cabin commemorative plaques and canoe boards, photographed c.2010)",
       "source_url": "https://www.flickr.com/photos/kanawana/5126023076/",
       "rights": "Copyright All rights reserved by Kanawana.",
-      "linked_facts": [],
+      "linked_facts": [
+        "f_1615"
+      ],
       "suggested_articles": [
         "directors-index"
       ],
@@ -1502,7 +1588,9 @@
       "source": "Camp Kanawana official archive — Flickr 'Plaque' album (dining-hall/cabin commemorative plaques and canoe boards, photographed c.2010)",
       "source_url": "https://www.flickr.com/photos/kanawana/5126085024/",
       "rights": "Copyright All rights reserved by Kanawana.",
-      "linked_facts": [],
+      "linked_facts": [
+        "f_1615"
+      ],
       "suggested_articles": [
         "directors-index"
       ],
@@ -1520,7 +1608,9 @@
       "source": "Camp Kanawana official archive — Flickr 'Plaque' album (dining-hall/cabin commemorative plaques and canoe boards, photographed c.2010)",
       "source_url": "https://www.flickr.com/photos/kanawana/5125934710/",
       "rights": "Copyright All rights reserved by Kanawana.",
-      "linked_facts": [],
+      "linked_facts": [
+        "f_1616"
+      ],
       "suggested_articles": [
         "directors-index"
       ],
@@ -1538,7 +1628,9 @@
       "source": "Camp Kanawana official archive — Flickr 'Plaque' album (dining-hall/cabin commemorative plaques and canoe boards, photographed c.2010)",
       "source_url": "https://www.flickr.com/photos/kanawana/5125992714/",
       "rights": "Copyright All rights reserved by Kanawana.",
-      "linked_facts": [],
+      "linked_facts": [
+        "f_1617"
+      ],
       "suggested_articles": [
         "directors-index"
       ],
@@ -1574,7 +1666,9 @@
       "source": "Camp Kanawana official archive — Flickr 'Plaque' album (dining-hall/cabin commemorative plaques and canoe boards, photographed c.2010)",
       "source_url": "https://www.flickr.com/photos/kanawana/5125978164/",
       "rights": "Copyright All rights reserved by Kanawana.",
-      "linked_facts": [],
+      "linked_facts": [
+        "f_1618"
+      ],
       "suggested_articles": [
         "directors-index"
       ],
@@ -1592,7 +1686,9 @@
       "source": "Camp Kanawana official archive — Flickr 'Plaque' album (dining-hall/cabin commemorative plaques and canoe boards, photographed c.2010)",
       "source_url": "https://www.flickr.com/photos/kanawana/5125933176/",
       "rights": "Copyright All rights reserved by Kanawana.",
-      "linked_facts": [],
+      "linked_facts": [
+        "f_1620"
+      ],
       "suggested_articles": [
         "directors-index"
       ],
@@ -1610,7 +1706,9 @@
       "source": "Camp Kanawana official archive — Flickr 'Plaque' album (dining-hall/cabin commemorative plaques and canoe boards, photographed c.2010)",
       "source_url": "https://www.flickr.com/photos/kanawana/5126136138/",
       "rights": "Copyright All rights reserved by Kanawana.",
-      "linked_facts": [],
+      "linked_facts": [
+        "f_1619"
+      ],
       "suggested_articles": [
         "directors-index"
       ],
@@ -1628,7 +1726,9 @@
       "source": "Camp Kanawana official archive — Flickr 'Plaque' album (dining-hall/cabin commemorative plaques and canoe boards, photographed c.2010)",
       "source_url": "https://www.flickr.com/photos/kanawana/5125401343/",
       "rights": "Copyright All rights reserved by Kanawana.",
-      "linked_facts": [],
+      "linked_facts": [
+        "f_1621"
+      ],
       "suggested_articles": [
         "directors-index"
       ],
@@ -1646,7 +1746,9 @@
       "source": "Camp Kanawana official archive — Flickr 'Plaque' album (dining-hall/cabin commemorative plaques and canoe boards, photographed c.2010)",
       "source_url": "https://www.flickr.com/photos/kanawana/5126150808/",
       "rights": "Copyright All rights reserved by Kanawana.",
-      "linked_facts": [],
+      "linked_facts": [
+        "f_1623"
+      ],
       "suggested_articles": [
         "traditions-and-culture"
       ],
@@ -1664,7 +1766,9 @@
       "source": "Camp Kanawana official archive — Flickr 'Plaque' album (dining-hall/cabin commemorative plaques and canoe boards, photographed c.2010)",
       "source_url": "https://www.flickr.com/photos/kanawana/5125399193/",
       "rights": "Copyright All rights reserved by Kanawana.",
-      "linked_facts": [],
+      "linked_facts": [
+        "f_1624"
+      ],
       "suggested_articles": [
         "canoe-trips"
       ],
@@ -1682,7 +1786,10 @@
       "source": "Camp Kanawana official archive — Flickr 'Plaque' album (dining-hall/cabin commemorative plaques and canoe boards, photographed c.2010)",
       "source_url": "https://www.flickr.com/photos/kanawana/5125513517/",
       "rights": "Copyright All rights reserved by Kanawana.",
-      "linked_facts": [],
+      "linked_facts": [
+        "f_1625",
+        "f_1626"
+      ],
       "suggested_articles": [
         "directors-index"
       ],
@@ -1718,7 +1825,9 @@
       "source": "Camp Kanawana official archive — Flickr 'Plaque' album (dining-hall/cabin commemorative plaques and canoe boards, photographed c.2010)",
       "source_url": "https://www.flickr.com/photos/kanawana/5125940384/",
       "rights": "Copyright All rights reserved by Kanawana.",
-      "linked_facts": [],
+      "linked_facts": [
+        "f_1628"
+      ],
       "suggested_articles": [
         "programs-activities"
       ],
@@ -1736,7 +1845,9 @@
       "source": "Camp Kanawana official archive — Flickr 'Plaque' album (dining-hall/cabin commemorative plaques and canoe boards, photographed c.2010)",
       "source_url": "https://www.flickr.com/photos/kanawana/5125947890/",
       "rights": "Copyright All rights reserved by Kanawana.",
-      "linked_facts": [],
+      "linked_facts": [
+        "f_1627"
+      ],
       "suggested_articles": [
         "programs-activities"
       ],
@@ -1754,7 +1865,9 @@
       "source": "Camp Kanawana official archive — Flickr 'Plaque' album (dining-hall/cabin commemorative plaques and canoe boards, photographed c.2010)",
       "source_url": "https://www.flickr.com/photos/kanawana/5125968084/",
       "rights": "Copyright All rights reserved by Kanawana.",
-      "linked_facts": [],
+      "linked_facts": [
+        "f_1627"
+      ],
       "suggested_articles": [
         "programs-activities"
       ],
@@ -1772,7 +1885,9 @@
       "source": "Camp Kanawana official archive — Flickr 'Plaque' album (dining-hall/cabin commemorative plaques and canoe boards, photographed c.2010)",
       "source_url": "https://www.flickr.com/photos/kanawana/5125479689/",
       "rights": "Copyright All rights reserved by Kanawana.",
-      "linked_facts": [],
+      "linked_facts": [
+        "f_1629"
+      ],
       "suggested_articles": [
         "programs-activities"
       ],
@@ -1808,7 +1923,9 @@
       "source": "Camp Kanawana official archive — Flickr 'Plaque' album (dining-hall/cabin commemorative plaques and canoe boards, photographed c.2010)",
       "source_url": "https://www.flickr.com/photos/kanawana/5126152864/",
       "rights": "Copyright All rights reserved by Kanawana.",
-      "linked_facts": [],
+      "linked_facts": [
+        "f_1630"
+      ],
       "suggested_articles": [
         "programs-activities"
       ],
@@ -1826,7 +1943,9 @@
       "source": "Camp Kanawana official archive — Flickr 'Plaque' album (dining-hall/cabin commemorative plaques and canoe boards, photographed c.2010)",
       "source_url": "https://www.flickr.com/photos/kanawana/5126186536/",
       "rights": "Copyright All rights reserved by Kanawana.",
-      "linked_facts": [],
+      "linked_facts": [
+        "f_1631"
+      ],
       "suggested_articles": [
         "coeducation-gender"
       ],
@@ -1844,7 +1963,9 @@
       "source": "Camp Kanawana official archive — Flickr 'Plaque' album (dining-hall/cabin commemorative plaques and canoe boards, photographed c.2010)",
       "source_url": "https://www.flickr.com/photos/kanawana/5125518795/",
       "rights": "Copyright All rights reserved by Kanawana.",
-      "linked_facts": [],
+      "linked_facts": [
+        "f_1632"
+      ],
       "suggested_articles": [
         "canoe-trips"
       ],
@@ -1862,7 +1983,9 @@
       "source": "Camp Kanawana official archive — Flickr 'Plaque' album (dining-hall/cabin commemorative plaques and canoe boards, photographed c.2010)",
       "source_url": "https://www.flickr.com/photos/kanawana/5125540365/",
       "rights": "Copyright All rights reserved by Kanawana.",
-      "linked_facts": [],
+      "linked_facts": [
+        "f_1633"
+      ],
       "suggested_articles": [
         "directors-index"
       ],
@@ -1880,7 +2003,9 @@
       "source": "Camp Kanawana official archive — Flickr 'Plaque' album (dining-hall/cabin commemorative plaques and canoe boards, photographed c.2010)",
       "source_url": "https://www.flickr.com/photos/kanawana/5125345289/",
       "rights": "Copyright All rights reserved by Kanawana.",
-      "linked_facts": [],
+      "linked_facts": [
+        "f_1634"
+      ],
       "suggested_articles": [
         "directors-index"
       ],
@@ -1898,7 +2023,9 @@
       "source": "Camp Kanawana official archive — Flickr 'Plaque' album (dining-hall/cabin commemorative plaques and canoe boards, photographed c.2010)",
       "source_url": "https://www.flickr.com/photos/kanawana/5125483713/",
       "rights": "Copyright All rights reserved by Kanawana.",
-      "linked_facts": [],
+      "linked_facts": [
+        "f_1635"
+      ],
       "suggested_articles": [
         "directors-index",
         "coeducation-gender"
@@ -1917,7 +2044,9 @@
       "source": "Camp Kanawana official archive — Flickr 'Plaque' album (dining-hall/cabin commemorative plaques and canoe boards, photographed c.2010)",
       "source_url": "https://www.flickr.com/photos/kanawana/5125962216/",
       "rights": "Copyright All rights reserved by Kanawana.",
-      "linked_facts": [],
+      "linked_facts": [
+        "f_1636"
+      ],
       "suggested_articles": [
         "canoe-trips"
       ],
@@ -1935,7 +2064,9 @@
       "source": "Camp Kanawana official archive — Flickr 'Plaque' album (dining-hall/cabin commemorative plaques and canoe boards, photographed c.2010)",
       "source_url": "https://www.flickr.com/photos/kanawana/5125340629/",
       "rights": "Copyright All rights reserved by Kanawana.",
-      "linked_facts": [],
+      "linked_facts": [
+        "f_1637"
+      ],
       "suggested_articles": [
         "the-kanawana-site"
       ],
@@ -1971,7 +2102,9 @@
       "source": "Camp Kanawana official archive — Flickr 'Plaque' album (dining-hall/cabin commemorative plaques and canoe boards, photographed c.2010)",
       "source_url": "https://www.flickr.com/photos/kanawana/5125365559/",
       "rights": "Copyright All rights reserved by Kanawana.",
-      "linked_facts": [],
+      "linked_facts": [
+        "f_1638"
+      ],
       "suggested_articles": [
         "directors-index"
       ],
@@ -1989,7 +2122,9 @@
       "source": "Camp Kanawana official archive — Flickr 'Plaque' album (dining-hall/cabin commemorative plaques and canoe boards, photographed c.2010)",
       "source_url": "https://www.flickr.com/photos/kanawana/5126118680/",
       "rights": "Copyright All rights reserved by Kanawana.",
-      "linked_facts": [],
+      "linked_facts": [
+        "f_1639"
+      ],
       "suggested_articles": [
         "directors-index"
       ],
@@ -2007,7 +2142,9 @@
       "source": "Camp Kanawana official archive — Flickr 'Plaque' album (dining-hall/cabin commemorative plaques and canoe boards, photographed c.2010)",
       "source_url": "https://www.flickr.com/photos/kanawana/5125576043/",
       "rights": "Copyright All rights reserved by Kanawana.",
-      "linked_facts": [],
+      "linked_facts": [
+        "f_1640"
+      ],
       "suggested_articles": [
         "coeducation-gender"
       ],
@@ -2025,7 +2162,9 @@
       "source": "Camp Kanawana official archive — Flickr 'Plaque' album (dining-hall/cabin commemorative plaques and canoe boards, photographed c.2010)",
       "source_url": "https://www.flickr.com/photos/kanawana/5125405753/",
       "rights": "Copyright All rights reserved by Kanawana.",
-      "linked_facts": [],
+      "linked_facts": [
+        "f_1641"
+      ],
       "suggested_articles": [
         "programs-activities"
       ],
@@ -2043,7 +2182,9 @@
       "source": "Camp Kanawana official archive — Flickr 'Plaque' album (dining-hall/cabin commemorative plaques and canoe boards, photographed c.2010)",
       "source_url": "https://www.flickr.com/photos/kanawana/5125476351/",
       "rights": "Copyright All rights reserved by Kanawana.",
-      "linked_facts": [],
+      "linked_facts": [
+        "f_1642"
+      ],
       "suggested_articles": [
         "programs-activities"
       ],
@@ -2061,7 +2202,9 @@
       "source": "Camp Kanawana official archive — Flickr 'Plaque' album (dining-hall/cabin commemorative plaques and canoe boards, photographed c.2010)",
       "source_url": "https://www.flickr.com/photos/kanawana/5125462281/",
       "rights": "Copyright All rights reserved by Kanawana.",
-      "linked_facts": [],
+      "linked_facts": [
+        "f_1564"
+      ],
       "suggested_articles": [
         "canoe-trips",
         "coeducation-gender"
@@ -2080,7 +2223,9 @@
       "source": "Camp Kanawana official archive — Flickr 'Plaque' album (dining-hall/cabin commemorative plaques and canoe boards, photographed c.2010)",
       "source_url": "https://www.flickr.com/photos/kanawana/5125582165/",
       "rights": "Copyright All rights reserved by Kanawana.",
-      "linked_facts": [],
+      "linked_facts": [
+        "f_1643"
+      ],
       "suggested_articles": [
         "traditions-and-culture"
       ],
@@ -2098,7 +2243,9 @@
       "source": "Camp Kanawana official archive — Flickr 'Plaque' album (dining-hall/cabin commemorative plaques and canoe boards, photographed c.2010)",
       "source_url": "https://www.flickr.com/photos/kanawana/5125395971/",
       "rights": "Copyright All rights reserved by Kanawana.",
-      "linked_facts": [],
+      "linked_facts": [
+        "f_1644"
+      ],
       "suggested_articles": [
         "traditions-and-culture"
       ],
@@ -2116,7 +2263,9 @@
       "source": "Camp Kanawana official archive — Flickr 'Plaque' album (dining-hall/cabin commemorative plaques and canoe boards, photographed c.2010)",
       "source_url": "https://www.flickr.com/photos/kanawana/5126094162/",
       "rights": "Copyright All rights reserved by Kanawana.",
-      "linked_facts": [],
+      "linked_facts": [
+        "f_1645"
+      ],
       "suggested_articles": [
         "traditions-and-culture"
       ],
@@ -2134,7 +2283,9 @@
       "source": "Camp Kanawana official archive — Flickr 'Plaque' album (dining-hall/cabin commemorative plaques and canoe boards, photographed c.2010)",
       "source_url": "https://www.flickr.com/photos/kanawana/5126122110/",
       "rights": "Copyright All rights reserved by Kanawana.",
-      "linked_facts": [],
+      "linked_facts": [
+        "f_1646"
+      ],
       "suggested_articles": [
         "programs-activities"
       ],
@@ -2152,7 +2303,9 @@
       "source": "Camp Kanawana official archive — Flickr 'Plaque' album (dining-hall/cabin commemorative plaques and canoe boards, photographed c.2010)",
       "source_url": "https://www.flickr.com/photos/kanawana/5126130514/",
       "rights": "Copyright All rights reserved by Kanawana.",
-      "linked_facts": [],
+      "linked_facts": [
+        "f_1647"
+      ],
       "suggested_articles": [
         "directors-index"
       ],
@@ -2170,7 +2323,9 @@
       "source": "Camp Kanawana official archive — Flickr 'Plaque' album (dining-hall/cabin commemorative plaques and canoe boards, photographed c.2010)",
       "source_url": "https://www.flickr.com/photos/kanawana/5125330579/",
       "rights": "Copyright All rights reserved by Kanawana.",
-      "linked_facts": [],
+      "linked_facts": [
+        "f_1565"
+      ],
       "suggested_articles": [
         "traditions-and-culture"
       ],
@@ -2188,7 +2343,9 @@
       "source": "Camp Kanawana official archive — Flickr 'Plaque' album (dining-hall/cabin commemorative plaques and canoe boards, photographed c.2010)",
       "source_url": "https://www.flickr.com/photos/kanawana/5125343749/",
       "rights": "Copyright All rights reserved by Kanawana.",
-      "linked_facts": [],
+      "linked_facts": [
+        "f_1648"
+      ],
       "suggested_articles": [
         "programs-activities"
       ],
@@ -2206,7 +2363,9 @@
       "source": "Camp Kanawana official archive — Flickr 'Plaque' album (dining-hall/cabin commemorative plaques and canoe boards, photographed c.2010)",
       "source_url": "https://www.flickr.com/photos/kanawana/5126144844/",
       "rights": "Copyright All rights reserved by Kanawana.",
-      "linked_facts": [],
+      "linked_facts": [
+        "f_1649"
+      ],
       "suggested_articles": [
         "canoe-trips"
       ],
@@ -2224,7 +2383,9 @@
       "source": "Camp Kanawana official archive — Flickr 'Plaque' album (dining-hall/cabin commemorative plaques and canoe boards, photographed c.2010)",
       "source_url": "https://www.flickr.com/photos/kanawana/5125561973/",
       "rights": "Copyright All rights reserved by Kanawana.",
-      "linked_facts": [],
+      "linked_facts": [
+        "f_1650"
+      ],
       "suggested_articles": [
         "directors-index"
       ],
@@ -2242,7 +2403,9 @@
       "source": "Camp Kanawana official archive — Flickr 'Plaque' album (dining-hall/cabin commemorative plaques and canoe boards, photographed c.2010)",
       "source_url": "https://www.flickr.com/photos/kanawana/5126127132/",
       "rights": "Copyright All rights reserved by Kanawana.",
-      "linked_facts": [],
+      "linked_facts": [
+        "f_1651"
+      ],
       "suggested_articles": [
         "directors-index"
       ],
@@ -2260,7 +2423,9 @@
       "source": "Camp Kanawana official archive — Flickr 'Plaque' album (dining-hall/cabin commemorative plaques and canoe boards, photographed c.2010)",
       "source_url": "https://www.flickr.com/photos/kanawana/5125494823/",
       "rights": "Copyright All rights reserved by Kanawana.",
-      "linked_facts": [],
+      "linked_facts": [
+        "f_1652"
+      ],
       "suggested_articles": [
         "directors-index",
         "the-kanawana-site"
@@ -2279,7 +2444,9 @@
       "source": "Camp Kanawana official archive — Flickr 'Plaque' album (dining-hall/cabin commemorative plaques and canoe boards, photographed c.2010)",
       "source_url": "https://www.flickr.com/photos/kanawana/5125471151/",
       "rights": "Copyright All rights reserved by Kanawana.",
-      "linked_facts": [],
+      "linked_facts": [
+        "f_1653"
+      ],
       "suggested_articles": [
         "canoe-trips",
         "the-kanawana-site"
@@ -2298,7 +2465,9 @@
       "source": "Camp Kanawana official archive — Flickr 'Plaque' album (dining-hall/cabin commemorative plaques and canoe boards, photographed c.2010)",
       "source_url": "https://www.flickr.com/photos/kanawana/5125380643/",
       "rights": "Copyright All rights reserved by Kanawana.",
-      "linked_facts": [],
+      "linked_facts": [
+        "f_1654"
+      ],
       "suggested_articles": [
         "canoe-trips"
       ],
@@ -2316,7 +2485,9 @@
       "source": "Camp Kanawana official archive — Flickr 'Plaque' album (dining-hall/cabin commemorative plaques and canoe boards, photographed c.2010)",
       "source_url": "https://www.flickr.com/photos/kanawana/5125571519/",
       "rights": "Copyright All rights reserved by Kanawana.",
-      "linked_facts": [],
+      "linked_facts": [
+        "f_1655"
+      ],
       "suggested_articles": [
         "directors-index"
       ],
@@ -2334,7 +2505,9 @@
       "source": "Camp Kanawana official archive — Flickr 'Plaque' album (dining-hall/cabin commemorative plaques and canoe boards, photographed c.2010)",
       "source_url": "https://www.flickr.com/photos/kanawana/5125959546/",
       "rights": "Copyright All rights reserved by Kanawana.",
-      "linked_facts": [],
+      "linked_facts": [
+        "f_1656"
+      ],
       "suggested_articles": [
         "directors-index"
       ],
@@ -2352,7 +2525,9 @@
       "source": "Camp Kanawana official archive — Flickr 'Plaque' album (dining-hall/cabin commemorative plaques and canoe boards, photographed c.2010)",
       "source_url": "https://www.flickr.com/photos/kanawana/5125551795/",
       "rights": "Copyright All rights reserved by Kanawana.",
-      "linked_facts": [],
+      "linked_facts": [
+        "f_1657"
+      ],
       "suggested_articles": [
         "directors-index"
       ],
@@ -2370,7 +2545,9 @@
       "source": "Camp Kanawana official archive — Flickr 'Plaque' album (dining-hall/cabin commemorative plaques and canoe boards, photographed c.2010)",
       "source_url": "https://www.flickr.com/photos/kanawana/5125498549/",
       "rights": "Copyright All rights reserved by Kanawana.",
-      "linked_facts": [],
+      "linked_facts": [
+        "f_1658"
+      ],
       "suggested_articles": [
         "canoe-trips",
         "the-kanawana-site"
@@ -2389,7 +2566,9 @@
       "source": "Camp Kanawana official archive — Flickr 'Plaque' album (dining-hall/cabin commemorative plaques and canoe boards, photographed c.2010)",
       "source_url": "https://www.flickr.com/photos/kanawana/5125437487/",
       "rights": "Copyright All rights reserved by Kanawana.",
-      "linked_facts": [],
+      "linked_facts": [
+        "f_1659"
+      ],
       "suggested_articles": [
         "canoe-trips"
       ],
@@ -2407,7 +2586,9 @@
       "source": "Camp Kanawana official archive — Flickr 'Plaque' album (dining-hall/cabin commemorative plaques and canoe boards, photographed c.2010)",
       "source_url": "https://www.flickr.com/photos/kanawana/5125952414/",
       "rights": "Copyright All rights reserved by Kanawana.",
-      "linked_facts": [],
+      "linked_facts": [
+        "f_1660"
+      ],
       "suggested_articles": [
         "canoe-trips"
       ],
@@ -2425,7 +2606,9 @@
       "source": "Camp Kanawana official archive — Flickr 'Plaque' album (dining-hall/cabin commemorative plaques and canoe boards, photographed c.2010)",
       "source_url": "https://www.flickr.com/photos/kanawana/5126162344/",
       "rights": "Copyright All rights reserved by Kanawana.",
-      "linked_facts": [],
+      "linked_facts": [
+        "f_1661"
+      ],
       "suggested_articles": [
         "traditions-and-culture"
       ],
@@ -2443,7 +2626,9 @@
       "source": "Camp Kanawana official archive — Flickr 'Plaque' album (dining-hall/cabin commemorative plaques and canoe boards, photographed c.2010)",
       "source_url": "https://www.flickr.com/photos/kanawana/5126139824/",
       "rights": "Copyright All rights reserved by Kanawana.",
-      "linked_facts": [],
+      "linked_facts": [
+        "f_1662"
+      ],
       "suggested_articles": [
         "programs-activities"
       ],
@@ -2461,7 +2646,9 @@
       "source": "Camp Kanawana official archive — Flickr 'Plaque' album (dining-hall/cabin commemorative plaques and canoe boards, photographed c.2010)",
       "source_url": "https://www.flickr.com/photos/kanawana/5125525673/",
       "rights": "Copyright All rights reserved by Kanawana.",
-      "linked_facts": [],
+      "linked_facts": [
+        "f_1663"
+      ],
       "suggested_articles": [
         "canoe-trips"
       ],
@@ -2479,7 +2666,9 @@
       "source": "Camp Kanawana official archive — Flickr 'Plaque' album (dining-hall/cabin commemorative plaques and canoe boards, photographed c.2010)",
       "source_url": "https://www.flickr.com/photos/kanawana/5126029934/",
       "rights": "Copyright All rights reserved by Kanawana.",
-      "linked_facts": [],
+      "linked_facts": [
+        "f_1664"
+      ],
       "suggested_articles": [
         "canoe-trips"
       ],
@@ -2497,7 +2686,9 @@
       "source": "Camp Kanawana official archive — Flickr 'Plaque' album (dining-hall/cabin commemorative plaques and canoe boards, photographed c.2010)",
       "source_url": "https://www.flickr.com/photos/kanawana/5125366893/",
       "rights": "Copyright All rights reserved by Kanawana.",
-      "linked_facts": [],
+      "linked_facts": [
+        "f_1665"
+      ],
       "suggested_articles": [
         "canoe-trips"
       ],
@@ -2515,7 +2706,9 @@
       "source": "Camp Kanawana official archive — Flickr 'Plaque' album (dining-hall/cabin commemorative plaques and canoe boards, photographed c.2010)",
       "source_url": "https://www.flickr.com/photos/kanawana/5126081158/",
       "rights": "Copyright All rights reserved by Kanawana.",
-      "linked_facts": [],
+      "linked_facts": [
+        "f_1666"
+      ],
       "suggested_articles": [
         "section-names"
       ],
@@ -2533,7 +2726,9 @@
       "source": "Camp Kanawana official archive — Flickr 'Plaque' album (dining-hall/cabin commemorative plaques and canoe boards, photographed c.2010)",
       "source_url": "https://www.flickr.com/photos/kanawana/5126073810/",
       "rights": "Copyright All rights reserved by Kanawana.",
-      "linked_facts": [],
+      "linked_facts": [
+        "f_1667"
+      ],
       "suggested_articles": [
         "canoe-trips"
       ],
@@ -2551,7 +2746,9 @@
       "source": "Camp Kanawana official archive — Flickr 'Plaque' album (dining-hall/cabin commemorative plaques and canoe boards, photographed c.2010)",
       "source_url": "https://www.flickr.com/photos/kanawana/5126045106/",
       "rights": "Copyright All rights reserved by Kanawana.",
-      "linked_facts": [],
+      "linked_facts": [
+        "f_1668"
+      ],
       "suggested_articles": [
         "canoe-trips"
       ],
@@ -2569,7 +2766,9 @@
       "source": "Camp Kanawana official archive — Flickr 'Plaque' album (dining-hall/cabin commemorative plaques and canoe boards, photographed c.2010)",
       "source_url": "https://www.flickr.com/photos/kanawana/5126179992/",
       "rights": "Copyright All rights reserved by Kanawana.",
-      "linked_facts": [],
+      "linked_facts": [
+        "f_1669"
+      ],
       "suggested_articles": [
         "section-names"
       ],
@@ -2587,7 +2786,9 @@
       "source": "Camp Kanawana official archive — Flickr 'Plaque' album (dining-hall/cabin commemorative plaques and canoe boards, photographed c.2010)",
       "source_url": "https://www.flickr.com/photos/kanawana/5125531281/",
       "rights": "Copyright All rights reserved by Kanawana.",
-      "linked_facts": [],
+      "linked_facts": [
+        "f_1670"
+      ],
       "suggested_articles": [
         "section-names"
       ],
@@ -2605,7 +2806,9 @@
       "source": "Camp Kanawana official archive — Flickr 'Plaque' album (dining-hall/cabin commemorative plaques and canoe boards, photographed c.2010)",
       "source_url": "https://www.flickr.com/photos/kanawana/5125489249/",
       "rights": "Copyright All rights reserved by Kanawana.",
-      "linked_facts": [],
+      "linked_facts": [
+        "f_1671"
+      ],
       "suggested_articles": [
         "section-names"
       ],
@@ -2623,7 +2826,9 @@
       "source": "Camp Kanawana official archive — Flickr 'Plaque' album (dining-hall/cabin commemorative plaques and canoe boards, photographed c.2010)",
       "source_url": "https://www.flickr.com/photos/kanawana/5126141456/",
       "rights": "Copyright All rights reserved by Kanawana.",
-      "linked_facts": [],
+      "linked_facts": [
+        "f_1672"
+      ],
       "suggested_articles": [
         "section-names"
       ],
@@ -2641,7 +2846,9 @@
       "source": "Camp Kanawana official archive — Flickr 'Plaque' album (dining-hall/cabin commemorative plaques and canoe boards, photographed c.2010)",
       "source_url": "https://www.flickr.com/photos/kanawana/5125410917/",
       "rights": "Copyright All rights reserved by Kanawana.",
-      "linked_facts": [],
+      "linked_facts": [
+        "f_1673"
+      ],
       "suggested_articles": [
         "section-names"
       ],
@@ -2659,7 +2866,9 @@
       "source": "Camp Kanawana official archive — Flickr 'Plaque' album (dining-hall/cabin commemorative plaques and canoe boards, photographed c.2010)",
       "source_url": "https://www.flickr.com/photos/kanawana/5126048488/",
       "rights": "Copyright All rights reserved by Kanawana.",
-      "linked_facts": [],
+      "linked_facts": [
+        "f_1674"
+      ],
       "suggested_articles": [
         "section-names"
       ],
@@ -2677,7 +2886,9 @@
       "source": "Camp Kanawana official archive — Flickr 'Plaque' album (dining-hall/cabin commemorative plaques and canoe boards, photographed c.2010)",
       "source_url": "https://www.flickr.com/photos/kanawana/5126148818/",
       "rights": "Copyright All rights reserved by Kanawana.",
-      "linked_facts": [],
+      "linked_facts": [
+        "f_1675"
+      ],
       "suggested_articles": [
         "section-names"
       ],
@@ -2695,7 +2906,9 @@
       "source": "Camp Kanawana official archive — Flickr 'Plaque' album (dining-hall/cabin commemorative plaques and canoe boards, photographed c.2010)",
       "source_url": "https://www.flickr.com/photos/kanawana/5125352553/",
       "rights": "Copyright All rights reserved by Kanawana.",
-      "linked_facts": [],
+      "linked_facts": [
+        "f_1676"
+      ],
       "suggested_articles": [
         "section-names"
       ],
@@ -2713,7 +2926,9 @@
       "source": "Camp Kanawana official archive — Flickr 'Plaque' album (dining-hall/cabin commemorative plaques and canoe boards, photographed c.2010)",
       "source_url": "https://www.flickr.com/photos/kanawana/5125454859/",
       "rights": "Copyright All rights reserved by Kanawana.",
-      "linked_facts": [],
+      "linked_facts": [
+        "f_1677"
+      ],
       "suggested_articles": [
         "section-names"
       ],
@@ -2731,7 +2946,9 @@
       "source": "Camp Kanawana official archive — Flickr 'Plaque' album (dining-hall/cabin commemorative plaques and canoe boards, photographed c.2010)",
       "source_url": "https://www.flickr.com/photos/kanawana/5125358247/",
       "rights": "Copyright All rights reserved by Kanawana.",
-      "linked_facts": [],
+      "linked_facts": [
+        "f_1678"
+      ],
       "suggested_articles": [
         "section-names"
       ],
@@ -2749,7 +2966,9 @@
       "source": "Camp Kanawana official archive — Flickr 'Plaque' album (dining-hall/cabin commemorative plaques and canoe boards, photographed c.2010)",
       "source_url": "https://www.flickr.com/photos/kanawana/5125938862/",
       "rights": "Copyright All rights reserved by Kanawana.",
-      "linked_facts": [],
+      "linked_facts": [
+        "f_1679"
+      ],
       "suggested_articles": [
         "section-names"
       ],
@@ -2767,7 +2986,9 @@
       "source": "Camp Kanawana official archive — Flickr 'Plaque' album (dining-hall/cabin commemorative plaques and canoe boards, photographed c.2010)",
       "source_url": "https://www.flickr.com/photos/kanawana/5125999070/",
       "rights": "Copyright All rights reserved by Kanawana.",
-      "linked_facts": [],
+      "linked_facts": [
+        "f_1680"
+      ],
       "suggested_articles": [
         "section-names"
       ],
@@ -2785,7 +3006,9 @@
       "source": "Camp Kanawana official archive — Flickr 'Plaque' album (dining-hall/cabin commemorative plaques and canoe boards, photographed c.2010)",
       "source_url": "https://www.flickr.com/photos/kanawana/5126072288/",
       "rights": "Copyright All rights reserved by Kanawana.",
-      "linked_facts": [],
+      "linked_facts": [
+        "f_1681"
+      ],
       "suggested_articles": [
         "canoe-trips"
       ],
@@ -2803,7 +3026,9 @@
       "source": "Camp Kanawana official archive — Flickr 'Plaque' album (dining-hall/cabin commemorative plaques and canoe boards, photographed c.2010)",
       "source_url": "https://www.flickr.com/photos/kanawana/5125527435/",
       "rights": "Copyright All rights reserved by Kanawana.",
-      "linked_facts": [],
+      "linked_facts": [
+        "f_1682"
+      ],
       "suggested_articles": [
         "the-kanawana-site"
       ],
@@ -2821,7 +3046,9 @@
       "source": "Camp Kanawana official archive — Flickr 'Plaque' album (dining-hall/cabin commemorative plaques and canoe boards, photographed c.2010)",
       "source_url": "https://www.flickr.com/photos/kanawana/5125434765/",
       "rights": "Copyright All rights reserved by Kanawana.",
-      "linked_facts": [],
+      "linked_facts": [
+        "f_1684"
+      ],
       "suggested_articles": [
         "the-kanawana-site"
       ],
@@ -2839,7 +3066,9 @@
       "source": "Camp Kanawana official archive — Flickr 'Plaque' album (dining-hall/cabin commemorative plaques and canoe boards, photographed c.2010)",
       "source_url": "https://www.flickr.com/photos/kanawana/5125987812/",
       "rights": "Copyright All rights reserved by Kanawana.",
-      "linked_facts": [],
+      "linked_facts": [
+        "f_1683"
+      ],
       "suggested_articles": [
         "the-kanawana-site"
       ],
@@ -2857,7 +3086,9 @@
       "source": "Camp Kanawana official archive — Flickr 'Plaque' album (dining-hall/cabin commemorative plaques and canoe boards, photographed c.2010)",
       "source_url": "https://www.flickr.com/photos/kanawana/5126037946/",
       "rights": "Copyright All rights reserved by Kanawana.",
-      "linked_facts": [],
+      "linked_facts": [
+        "f_1685"
+      ],
       "suggested_articles": [
         "directors-index"
       ],
@@ -2875,7 +3106,9 @@
       "source": "Camp Kanawana official archive — Flickr 'Plaque' album (dining-hall/cabin commemorative plaques and canoe boards, photographed c.2010)",
       "source_url": "https://www.flickr.com/photos/kanawana/5125409499/",
       "rights": "Copyright All rights reserved by Kanawana.",
-      "linked_facts": [],
+      "linked_facts": [
+        "f_1686"
+      ],
       "suggested_articles": [
         "programs-activities"
       ],
@@ -2893,7 +3126,9 @@
       "source": "Camp Kanawana official archive — Flickr 'Plaque' album (dining-hall/cabin commemorative plaques and canoe boards, photographed c.2010)",
       "source_url": "https://www.flickr.com/photos/kanawana/5125517199/",
       "rights": "Copyright All rights reserved by Kanawana.",
-      "linked_facts": [],
+      "linked_facts": [
+        "f_1687"
+      ],
       "suggested_articles": [
         "programs-activities"
       ],
@@ -2911,7 +3146,9 @@
       "source": "Camp Kanawana official archive — Flickr 'Plaque' album (dining-hall/cabin commemorative plaques and canoe boards, photographed c.2010)",
       "source_url": "https://www.flickr.com/photos/kanawana/5125991208/",
       "rights": "Copyright All rights reserved by Kanawana.",
-      "linked_facts": [],
+      "linked_facts": [
+        "f_1688"
+      ],
       "suggested_articles": [
         "directors-index"
       ],
@@ -2929,7 +3166,9 @@
       "source": "Camp Kanawana official archive — Flickr 'Plaque' album (dining-hall/cabin commemorative plaques and canoe boards, photographed c.2010)",
       "source_url": "https://www.flickr.com/photos/kanawana/5125981034/",
       "rights": "Copyright All rights reserved by Kanawana.",
-      "linked_facts": [],
+      "linked_facts": [
+        "f_1689"
+      ],
       "suggested_articles": [
         "canoe-trips"
       ],
@@ -2947,7 +3186,9 @@
       "source": "Camp Kanawana official archive — Flickr 'Plaque' album (dining-hall/cabin commemorative plaques and canoe boards, photographed c.2010)",
       "source_url": "https://www.flickr.com/photos/kanawana/5125390197/",
       "rights": "Copyright All rights reserved by Kanawana.",
-      "linked_facts": [],
+      "linked_facts": [
+        "f_1690"
+      ],
       "suggested_articles": [
         "canoe-trips"
       ],
@@ -2965,7 +3206,9 @@
       "source": "Camp Kanawana official archive — Flickr 'Plaque' album (dining-hall/cabin commemorative plaques and canoe boards, photographed c.2010)",
       "source_url": "https://www.flickr.com/photos/kanawana/5126010414/",
       "rights": "Copyright All rights reserved by Kanawana.",
-      "linked_facts": [],
+      "linked_facts": [
+        "f_1691"
+      ],
       "suggested_articles": [
         "canoe-trips"
       ],
@@ -2983,7 +3226,9 @@
       "source": "Camp Kanawana official archive — Flickr 'Plaque' album (dining-hall/cabin commemorative plaques and canoe boards, photographed c.2010)",
       "source_url": "https://www.flickr.com/photos/kanawana/5125363883/",
       "rights": "Copyright All rights reserved by Kanawana.",
-      "linked_facts": [],
+      "linked_facts": [
+        "f_1692"
+      ],
       "suggested_articles": [
         "directors-index"
       ],
@@ -3001,7 +3246,9 @@
       "source": "Camp Kanawana official archive — Flickr 'Plaque' album (dining-hall/cabin commemorative plaques and canoe boards, photographed c.2010)",
       "source_url": "https://www.flickr.com/photos/kanawana/5125436173/",
       "rights": "Copyright All rights reserved by Kanawana.",
-      "linked_facts": [],
+      "linked_facts": [
+        "f_1693"
+      ],
       "suggested_articles": [
         "coeducation-gender"
       ],
@@ -3019,7 +3266,9 @@
       "source": "Camp Kanawana official archive — Flickr 'Plaque' album (dining-hall/cabin commemorative plaques and canoe boards, photographed c.2010)",
       "source_url": "https://www.flickr.com/photos/kanawana/5125443885/",
       "rights": "Copyright All rights reserved by Kanawana.",
-      "linked_facts": [],
+      "linked_facts": [
+        "f_1694"
+      ],
       "suggested_articles": [
         "coeducation-gender"
       ],
@@ -3037,7 +3286,9 @@
       "source": "Camp Kanawana official archive — Flickr 'Plaque' album (dining-hall/cabin commemorative plaques and canoe boards, photographed c.2010)",
       "source_url": "https://www.flickr.com/photos/kanawana/5126039392/",
       "rights": "Copyright All rights reserved by Kanawana.",
-      "linked_facts": [],
+      "linked_facts": [
+        "f_1695"
+      ],
       "suggested_articles": [
         "coeducation-gender"
       ],
@@ -3055,7 +3306,9 @@
       "source": "Camp Kanawana official archive — Flickr 'Plaque' album (dining-hall/cabin commemorative plaques and canoe boards, photographed c.2010)",
       "source_url": "https://www.flickr.com/photos/kanawana/5125337493/",
       "rights": "Copyright All rights reserved by Kanawana.",
-      "linked_facts": [],
+      "linked_facts": [
+        "f_1696"
+      ],
       "suggested_articles": [
         "canoe-trips",
         "coeducation-gender"
@@ -3074,7 +3327,9 @@
       "source": "Camp Kanawana official archive — Flickr 'Plaque' album (dining-hall/cabin commemorative plaques and canoe boards, photographed c.2010)",
       "source_url": "https://www.flickr.com/photos/kanawana/5125557725/",
       "rights": "Copyright All rights reserved by Kanawana.",
-      "linked_facts": [],
+      "linked_facts": [
+        "f_1697"
+      ],
       "suggested_articles": [
         "directors-index",
         "coeducation-gender"
@@ -3093,7 +3348,9 @@
       "source": "Camp Kanawana official archive — Flickr 'Plaque' album (dining-hall/cabin commemorative plaques and canoe boards, photographed c.2010)",
       "source_url": "https://www.flickr.com/photos/kanawana/5125452851/",
       "rights": "Copyright All rights reserved by Kanawana.",
-      "linked_facts": [],
+      "linked_facts": [
+        "f_1698"
+      ],
       "suggested_articles": [
         "directors-index",
         "coeducation-gender"
@@ -3112,7 +3369,9 @@
       "source": "Camp Kanawana official archive — Flickr 'Plaque' album (dining-hall/cabin commemorative plaques and canoe boards, photographed c.2010)",
       "source_url": "https://www.flickr.com/photos/kanawana/5125439989/",
       "rights": "Copyright All rights reserved by Kanawana.",
-      "linked_facts": [],
+      "linked_facts": [
+        "f_1699"
+      ],
       "suggested_articles": [
         "canoe-trips",
         "coeducation-gender"
@@ -3131,7 +3390,9 @@
       "source": "Camp Kanawana official archive — Flickr 'Plaque' album (dining-hall/cabin commemorative plaques and canoe boards, photographed c.2010)",
       "source_url": "https://www.flickr.com/photos/kanawana/5126024798/",
       "rights": "Copyright All rights reserved by Kanawana.",
-      "linked_facts": [],
+      "linked_facts": [
+        "f_1700"
+      ],
       "suggested_articles": [
         "canoe-trips"
       ],
@@ -3149,7 +3410,9 @@
       "source": "Camp Kanawana official archive — Flickr 'Plaque' album (dining-hall/cabin commemorative plaques and canoe boards, photographed c.2010)",
       "source_url": "https://www.flickr.com/photos/kanawana/5126110984/",
       "rights": "Copyright All rights reserved by Kanawana.",
-      "linked_facts": [],
+      "linked_facts": [
+        "f_1701"
+      ],
       "suggested_articles": [
         "the-kanawana-site"
       ],
@@ -3167,7 +3430,9 @@
       "source": "Camp Kanawana official archive — Flickr 'Plaque' album (dining-hall/cabin commemorative plaques and canoe boards, photographed c.2010)",
       "source_url": "https://www.flickr.com/photos/kanawana/5125472931/",
       "rights": "Copyright All rights reserved by Kanawana.",
-      "linked_facts": [],
+      "linked_facts": [
+        "f_1702"
+      ],
       "suggested_articles": [
         "directors-index"
       ],
@@ -3185,7 +3450,9 @@
       "source": "Camp Kanawana official archive — Flickr 'Plaque' album (dining-hall/cabin commemorative plaques and canoe boards, photographed c.2010)",
       "source_url": "https://www.flickr.com/photos/kanawana/5126026354/",
       "rights": "Copyright All rights reserved by Kanawana.",
-      "linked_facts": [],
+      "linked_facts": [
+        "f_1703"
+      ],
       "suggested_articles": [
         "directors-index"
       ],
@@ -3203,7 +3470,9 @@
       "source": "Camp Kanawana official archive — Flickr 'Plaque' album (dining-hall/cabin commemorative plaques and canoe boards, photographed c.2010)",
       "source_url": "https://www.flickr.com/photos/kanawana/5126175990/",
       "rights": "Copyright All rights reserved by Kanawana.",
-      "linked_facts": [],
+      "linked_facts": [
+        "f_1704"
+      ],
       "suggested_articles": [
         "directors-index"
       ],
@@ -3221,7 +3490,9 @@
       "source": "Camp Kanawana official archive — Flickr 'Plaque' album (dining-hall/cabin commemorative plaques and canoe boards, photographed c.2010)",
       "source_url": "https://www.flickr.com/photos/kanawana/5125973922/",
       "rights": "Copyright All rights reserved by Kanawana.",
-      "linked_facts": [],
+      "linked_facts": [
+        "f_1705"
+      ],
       "suggested_articles": [
         "directors-index"
       ],
@@ -3239,7 +3510,9 @@
       "source": "Camp Kanawana official archive — Flickr 'Plaque' album (dining-hall/cabin commemorative plaques and canoe boards, photographed c.2010)",
       "source_url": "https://www.flickr.com/photos/kanawana/5126170268/",
       "rights": "Copyright All rights reserved by Kanawana.",
-      "linked_facts": [],
+      "linked_facts": [
+        "f_1706"
+      ],
       "suggested_articles": [
         "directors-index"
       ],
@@ -3257,7 +3530,9 @@
       "source": "Camp Kanawana official archive — Flickr 'Plaque' album (dining-hall/cabin commemorative plaques and canoe boards, photographed c.2010)",
       "source_url": "https://www.flickr.com/photos/kanawana/5125966638/",
       "rights": "Copyright All rights reserved by Kanawana.",
-      "linked_facts": [],
+      "linked_facts": [
+        "f_1707"
+      ],
       "suggested_articles": [
         "directors-index"
       ],
@@ -3275,7 +3550,9 @@
       "source": "Camp Kanawana official archive — Flickr 'Plaque' album (dining-hall/cabin commemorative plaques and canoe boards, photographed c.2010)",
       "source_url": "https://www.flickr.com/photos/kanawana/5125481231/",
       "rights": "Copyright All rights reserved by Kanawana.",
-      "linked_facts": [],
+      "linked_facts": [
+        "f_1708"
+      ],
       "suggested_articles": [
         "canoe-trips"
       ],
@@ -3293,7 +3570,9 @@
       "source": "Camp Kanawana official archive — Flickr 'Plaque' album (dining-hall/cabin commemorative plaques and canoe boards, photographed c.2010)",
       "source_url": "https://www.flickr.com/photos/kanawana/5126070910/",
       "rights": "Copyright All rights reserved by Kanawana.",
-      "linked_facts": [],
+      "linked_facts": [
+        "f_1709"
+      ],
       "suggested_articles": [
         "canoe-trips",
         "the-kanawana-site"
@@ -3312,7 +3591,9 @@
       "source": "Camp Kanawana official archive — Flickr 'Plaque' album (dining-hall/cabin commemorative plaques and canoe boards, photographed c.2010)",
       "source_url": "https://www.flickr.com/photos/kanawana/5125548481/",
       "rights": "Copyright All rights reserved by Kanawana.",
-      "linked_facts": [],
+      "linked_facts": [
+        "f_1710"
+      ],
       "suggested_articles": [
         "canoe-trips"
       ],
@@ -3330,7 +3611,9 @@
       "source": "Camp Kanawana official archive — Flickr 'Plaque' album (dining-hall/cabin commemorative plaques and canoe boards, photographed c.2010)",
       "source_url": "https://www.flickr.com/photos/kanawana/5125458777/",
       "rights": "Copyright All rights reserved by Kanawana.",
-      "linked_facts": [],
+      "linked_facts": [
+        "f_1711"
+      ],
       "suggested_articles": [
         "canoe-trips"
       ],
@@ -3348,7 +3631,9 @@
       "source": "Camp Kanawana official archive — Flickr 'Plaque' album (dining-hall/cabin commemorative plaques and canoe boards, photographed c.2010)",
       "source_url": "https://www.flickr.com/photos/kanawana/5125550065/",
       "rights": "Copyright All rights reserved by Kanawana.",
-      "linked_facts": [],
+      "linked_facts": [
+        "f_1712"
+      ],
       "suggested_articles": [
         "traditions-and-culture"
       ],
@@ -3366,7 +3651,9 @@
       "source": "Camp Kanawana official archive — Flickr 'Plaque' album (dining-hall/cabin commemorative plaques and canoe boards, photographed c.2010)",
       "source_url": "https://www.flickr.com/photos/kanawana/5125944854/",
       "rights": "Copyright All rights reserved by Kanawana.",
-      "linked_facts": [],
+      "linked_facts": [
+        "f_1713"
+      ],
       "suggested_articles": [
         "canoe-trips"
       ],
@@ -3384,7 +3671,9 @@
       "source": "Camp Kanawana official archive — Flickr 'Plaque' album (dining-hall/cabin commemorative plaques and canoe boards, photographed c.2010)",
       "source_url": "https://www.flickr.com/photos/kanawana/5125425397/",
       "rights": "Copyright All rights reserved by Kanawana.",
-      "linked_facts": [],
+      "linked_facts": [
+        "f_1714"
+      ],
       "suggested_articles": [
         "traditions-and-culture"
       ],
@@ -3402,7 +3691,9 @@
       "source": "Camp Kanawana official archive — Flickr 'Plaque' album (dining-hall/cabin commemorative plaques and canoe boards, photographed c.2010)",
       "source_url": "https://www.flickr.com/photos/kanawana/5126075642/",
       "rights": "Copyright All rights reserved by Kanawana.",
-      "linked_facts": [],
+      "linked_facts": [
+        "f_1715"
+      ],
       "suggested_articles": [
         "section-names"
       ],
@@ -3420,7 +3711,9 @@
       "source": "Camp Kanawana official archive — Flickr 'Plaque' album (dining-hall/cabin commemorative plaques and canoe boards, photographed c.2010)",
       "source_url": "https://www.flickr.com/photos/kanawana/5125997558/",
       "rights": "Copyright All rights reserved by Kanawana.",
-      "linked_facts": [],
+      "linked_facts": [
+        "f_1718"
+      ],
       "suggested_articles": [
         "section-names"
       ],
@@ -3438,7 +3731,9 @@
       "source": "Camp Kanawana official archive — Flickr 'Plaque' album (dining-hall/cabin commemorative plaques and canoe boards, photographed c.2010)",
       "source_url": "https://www.flickr.com/photos/kanawana/5126021458/",
       "rights": "Copyright All rights reserved by Kanawana.",
-      "linked_facts": [],
+      "linked_facts": [
+        "f_1716"
+      ],
       "suggested_articles": [
         "section-names"
       ],
@@ -3456,7 +3751,9 @@
       "source": "Camp Kanawana official archive — Flickr 'Plaque' album (dining-hall/cabin commemorative plaques and canoe boards, photographed c.2010)",
       "source_url": "https://www.flickr.com/photos/kanawana/5126027744/",
       "rights": "Copyright All rights reserved by Kanawana.",
-      "linked_facts": [],
+      "linked_facts": [
+        "f_1717"
+      ],
       "suggested_articles": [
         "section-names"
       ],
@@ -3474,7 +3771,9 @@
       "source": "Camp Kanawana official archive — Flickr 'Plaque' album (dining-hall/cabin commemorative plaques and canoe boards, photographed c.2010)",
       "source_url": "https://www.flickr.com/photos/kanawana/5126099488/",
       "rights": "Copyright All rights reserved by Kanawana.",
-      "linked_facts": [],
+      "linked_facts": [
+        "f_1719"
+      ],
       "suggested_articles": [
         "section-names"
       ],
@@ -3492,7 +3791,9 @@
       "source": "Camp Kanawana official archive — Flickr 'Plaque' album (dining-hall/cabin commemorative plaques and canoe boards, photographed c.2010)",
       "source_url": "https://www.flickr.com/photos/kanawana/5126103228/",
       "rights": "Copyright All rights reserved by Kanawana.",
-      "linked_facts": [],
+      "linked_facts": [
+        "f_1720"
+      ],
       "suggested_articles": [
         "section-names"
       ],
@@ -3510,7 +3811,9 @@
       "source": "Camp Kanawana official archive — Flickr 'Plaque' album (dining-hall/cabin commemorative plaques and canoe boards, photographed c.2010)",
       "source_url": "https://www.flickr.com/photos/kanawana/5125402921/",
       "rights": "Copyright All rights reserved by Kanawana.",
-      "linked_facts": [],
+      "linked_facts": [
+        "f_1721"
+      ],
       "suggested_articles": [
         "section-names"
       ],
@@ -3528,7 +3831,9 @@
       "source": "Camp Kanawana official archive — Flickr 'Plaque' album (dining-hall/cabin commemorative plaques and canoe boards, photographed c.2010)",
       "source_url": "https://www.flickr.com/photos/kanawana/5125359405/",
       "rights": "Copyright All rights reserved by Kanawana.",
-      "linked_facts": [],
+      "linked_facts": [
+        "f_1722"
+      ],
       "suggested_articles": [
         "section-names",
         "canoe-trips"
@@ -3547,7 +3852,9 @@
       "source": "Camp Kanawana official archive — Flickr 'Plaque' album (dining-hall/cabin commemorative plaques and canoe boards, photographed c.2010)",
       "source_url": "https://www.flickr.com/photos/kanawana/5125989560/",
       "rights": "Copyright All rights reserved by Kanawana.",
-      "linked_facts": [],
+      "linked_facts": [
+        "f_1723"
+      ],
       "suggested_articles": [
         "programs-activities"
       ],
@@ -3565,7 +3872,9 @@
       "source": "Camp Kanawana official archive — Flickr 'Plaque' album (dining-hall/cabin commemorative plaques and canoe boards, photographed c.2010)",
       "source_url": "https://www.flickr.com/photos/kanawana/5126034872/",
       "rights": "Copyright All rights reserved by Kanawana.",
-      "linked_facts": [],
+      "linked_facts": [
+        "f_1724"
+      ],
       "suggested_articles": [
         "traditions-and-culture"
       ],
@@ -3583,7 +3892,9 @@
       "source": "Camp Kanawana official archive — Flickr 'Plaque' album (dining-hall/cabin commemorative plaques and canoe boards, photographed c.2010)",
       "source_url": "https://www.flickr.com/photos/kanawana/5125559849/",
       "rights": "Copyright All rights reserved by Kanawana.",
-      "linked_facts": [],
+      "linked_facts": [
+        "f_1725"
+      ],
       "suggested_articles": [
         "section-names"
       ],
@@ -3601,7 +3912,9 @@
       "source": "Camp Kanawana official archive — Flickr 'Plaque' album (dining-hall/cabin commemorative plaques and canoe boards, photographed c.2010)",
       "source_url": "https://www.flickr.com/photos/kanawana/5125371211/",
       "rights": "Copyright All rights reserved by Kanawana.",
-      "linked_facts": [],
+      "linked_facts": [
+        "f_1726"
+      ],
       "suggested_articles": [
         "canoe-trips"
       ],
@@ -3619,7 +3932,9 @@
       "source": "Camp Kanawana archives (physical artifact, scanned)",
       "source_url": null,
       "rights": "Copyright All rights reserved by Kanawana.",
-      "linked_facts": [],
+      "linked_facts": [
+        "f_1581"
+      ],
       "suggested_articles": [
         "traditions-and-culture",
         "programs-activities"
@@ -3638,7 +3953,9 @@
       "source": "Camp Kanawana archives (physical artifact, scanned)",
       "source_url": null,
       "rights": "Copyright All rights reserved by Kanawana.",
-      "linked_facts": [],
+      "linked_facts": [
+        "f_1581"
+      ],
       "suggested_articles": [
         "traditions-and-culture"
       ],
@@ -3656,7 +3973,9 @@
       "source": "Camp Kanawana archives (physical artifact, scanned)",
       "source_url": null,
       "rights": "Copyright All rights reserved by Kanawana.",
-      "linked_facts": [],
+      "linked_facts": [
+        "f_1581"
+      ],
       "suggested_articles": [
         "traditions-and-culture"
       ],
@@ -3674,7 +3993,9 @@
       "source": "Camp Kanawana archives (physical artifact, scanned)",
       "source_url": null,
       "rights": "Copyright All rights reserved by Kanawana.",
-      "linked_facts": [],
+      "linked_facts": [
+        "f_1581"
+      ],
       "suggested_articles": [
         "traditions-and-culture",
         "programs-activities"
@@ -3693,7 +4014,9 @@
       "source": "Camp Kanawana archives (physical artifact, scanned)",
       "source_url": null,
       "rights": "Copyright All rights reserved by Kanawana.",
-      "linked_facts": [],
+      "linked_facts": [
+        "f_1582"
+      ],
       "suggested_articles": [
         "traditions-and-culture"
       ],
@@ -3711,7 +4034,9 @@
       "source": "Camp Kanawana archives (physical artifact, scanned)",
       "source_url": null,
       "rights": "Copyright All rights reserved by Kanawana.",
-      "linked_facts": [],
+      "linked_facts": [
+        "f_1582"
+      ],
       "suggested_articles": [
         "traditions-and-culture"
       ],
@@ -3729,7 +4054,9 @@
       "source": "Camp Kanawana archives (physical artifact, scanned)",
       "source_url": null,
       "rights": "Copyright All rights reserved by Kanawana.",
-      "linked_facts": [],
+      "linked_facts": [
+        "f_1580"
+      ],
       "suggested_articles": [
         "kanawana-in-media"
       ],
@@ -3747,7 +4074,9 @@
       "source": "Camp Kanawana archives (physical artifact, scanned)",
       "source_url": null,
       "rights": "Copyright All rights reserved by Kanawana.",
-      "linked_facts": [],
+      "linked_facts": [
+        "f_1580"
+      ],
       "suggested_articles": [
         "kanawana-in-media",
         "traditions-and-culture"
@@ -3766,7 +4095,9 @@
       "source": "Camp Kanawana archives (physical artifact, scanned)",
       "source_url": null,
       "rights": "Copyright All rights reserved by Kanawana.",
-      "linked_facts": [],
+      "linked_facts": [
+        "f_1580"
+      ],
       "suggested_articles": [
         "kanawana-in-media"
       ],
@@ -3784,7 +4115,9 @@
       "source": "Camp Kanawana archives (physical artifact, scanned)",
       "source_url": null,
       "rights": "Copyright All rights reserved by Kanawana.",
-      "linked_facts": [],
+      "linked_facts": [
+        "f_1580"
+      ],
       "suggested_articles": [
         "kanawana-in-media"
       ],
@@ -3802,7 +4135,9 @@
       "source": "Camp Kanawana archives (physical artifact, scanned)",
       "source_url": null,
       "rights": "Copyright All rights reserved by Kanawana.",
-      "linked_facts": [],
+      "linked_facts": [
+        "f_1567"
+      ],
       "suggested_articles": [
         "myths-and-legends",
         "traditions-and-culture"
@@ -3821,7 +4156,9 @@
       "source": "Camp Kanawana archives (physical artifact, scanned)",
       "source_url": null,
       "rights": "Copyright All rights reserved by Kanawana.",
-      "linked_facts": [],
+      "linked_facts": [
+        "f_1566"
+      ],
       "suggested_articles": [
         "camp-songs-cheers"
       ],
@@ -3839,7 +4176,9 @@
       "source": "Camp Kanawana archives (physical artifact, scanned)",
       "source_url": null,
       "rights": "Copyright All rights reserved by Kanawana.",
-      "linked_facts": [],
+      "linked_facts": [
+        "f_1574"
+      ],
       "suggested_articles": [
         "kanawana-in-media",
         "programs-activities"
@@ -3858,7 +4197,9 @@
       "source": "Camp Kanawana archives (physical artifact, scanned)",
       "source_url": null,
       "rights": "Copyright All rights reserved by Kanawana.",
-      "linked_facts": [],
+      "linked_facts": [
+        "f_1580"
+      ],
       "suggested_articles": [
         "kanawana-in-media"
       ],
@@ -3876,7 +4217,9 @@
       "source": "Camp Kanawana archives (physical artifact, scanned)",
       "source_url": null,
       "rights": "Copyright All rights reserved by Kanawana.",
-      "linked_facts": [],
+      "linked_facts": [
+        "f_1580"
+      ],
       "suggested_articles": [
         "kanawana-in-media"
       ],
@@ -3894,7 +4237,9 @@
       "source": "Camp Kanawana archives (physical artifact, scanned)",
       "source_url": null,
       "rights": "Copyright All rights reserved by Kanawana.",
-      "linked_facts": [],
+      "linked_facts": [
+        "f_1580"
+      ],
       "suggested_articles": [
         "kanawana-in-media"
       ],
@@ -3912,7 +4257,9 @@
       "source": "Camp Kanawana archives (physical artifact, scanned)",
       "source_url": null,
       "rights": "Copyright All rights reserved by Kanawana.",
-      "linked_facts": [],
+      "linked_facts": [
+        "f_1580"
+      ],
       "suggested_articles": [
         "kanawana-in-media"
       ],
@@ -3930,7 +4277,9 @@
       "source": "Camp Kanawana archives (physical artifact, scanned)",
       "source_url": null,
       "rights": "Copyright All rights reserved by Kanawana.",
-      "linked_facts": [],
+      "linked_facts": [
+        "f_1580"
+      ],
       "suggested_articles": [
         "kanawana-in-media"
       ],
@@ -3948,7 +4297,9 @@
       "source": "Camp Kanawana archives (physical artifact, scanned)",
       "source_url": null,
       "rights": "Copyright All rights reserved by Kanawana.",
-      "linked_facts": [],
+      "linked_facts": [
+        "f_1578"
+      ],
       "suggested_articles": [
         "kanawana-in-media",
         "centennial-1994"
@@ -3967,7 +4318,9 @@
       "source": "Camp Kanawana archives (physical artifact, scanned)",
       "source_url": null,
       "rights": "Copyright All rights reserved by Kanawana.",
-      "linked_facts": [],
+      "linked_facts": [
+        "f_1581"
+      ],
       "suggested_articles": [
         "traditions-and-culture"
       ],
@@ -3985,7 +4338,9 @@
       "source": "Camp Kanawana archives (physical artifact, scanned)",
       "source_url": null,
       "rights": "Copyright All rights reserved by Kanawana.",
-      "linked_facts": [],
+      "linked_facts": [
+        "f_1581"
+      ],
       "suggested_articles": [
         "traditions-and-culture"
       ],
@@ -4003,7 +4358,9 @@
       "source": "Camp Kanawana archives (physical artifact, scanned)",
       "source_url": null,
       "rights": "Copyright All rights reserved by Kanawana.",
-      "linked_facts": [],
+      "linked_facts": [
+        "f_1581"
+      ],
       "suggested_articles": [
         "traditions-and-culture"
       ],
@@ -4021,7 +4378,9 @@
       "source": "Camp Kanawana archives (physical artifact, scanned)",
       "source_url": null,
       "rights": "Copyright All rights reserved by Kanawana.",
-      "linked_facts": [],
+      "linked_facts": [
+        "f_1581"
+      ],
       "suggested_articles": [
         "traditions-and-culture"
       ],
@@ -4039,7 +4398,9 @@
       "source": "Camp Kanawana archives (physical artifact, scanned)",
       "source_url": null,
       "rights": "Copyright All rights reserved by Kanawana.",
-      "linked_facts": [],
+      "linked_facts": [
+        "f_1581"
+      ],
       "suggested_articles": [
         "traditions-and-culture",
         "programs-activities"
@@ -4058,7 +4419,9 @@
       "source": "Camp Kanawana archives (physical artifact, scanned)",
       "source_url": null,
       "rights": "Copyright All rights reserved by Kanawana.",
-      "linked_facts": [],
+      "linked_facts": [
+        "f_1584"
+      ],
       "suggested_articles": [
         "traditions-and-culture",
         "the-kanawana-site"
@@ -4077,7 +4440,9 @@
       "source": "Camp Kanawana archives (physical artifact, scanned)",
       "source_url": null,
       "rights": "Copyright All rights reserved by Kanawana.",
-      "linked_facts": [],
+      "linked_facts": [
+        "f_1583"
+      ],
       "suggested_articles": [
         "winter-programming",
         "programs-activities"
@@ -4096,7 +4461,9 @@
       "source": "Camp Kanawana archives (physical artifact, scanned)",
       "source_url": null,
       "rights": "Copyright All rights reserved by Kanawana.",
-      "linked_facts": [],
+      "linked_facts": [
+        "f_1582"
+      ],
       "suggested_articles": [
         "traditions-and-culture"
       ],
@@ -4114,7 +4481,9 @@
       "source": "Camp Kanawana archives (physical artifact, scanned)",
       "source_url": null,
       "rights": "Copyright All rights reserved by Kanawana.",
-      "linked_facts": [],
+      "linked_facts": [
+        "f_1581"
+      ],
       "suggested_articles": [
         "traditions-and-culture",
         "canoe-trips"
@@ -4133,7 +4502,9 @@
       "source": "Camp Kanawana archives (physical artifact, scanned)",
       "source_url": null,
       "rights": "Copyright All rights reserved by Kanawana.",
-      "linked_facts": [],
+      "linked_facts": [
+        "f_1581"
+      ],
       "suggested_articles": [
         "traditions-and-culture"
       ],
@@ -4151,7 +4522,9 @@
       "source": "Camp Kanawana archives (physical artifact, scanned)",
       "source_url": null,
       "rights": "Copyright All rights reserved by Kanawana.",
-      "linked_facts": [],
+      "linked_facts": [
+        "f_1581"
+      ],
       "suggested_articles": [
         "traditions-and-culture"
       ],
@@ -4169,7 +4542,9 @@
       "source": "Camp Kanawana archives (physical artifact, scanned)",
       "source_url": null,
       "rights": "Copyright All rights reserved by Kanawana.",
-      "linked_facts": [],
+      "linked_facts": [
+        "f_1581"
+      ],
       "suggested_articles": [
         "traditions-and-culture"
       ],
@@ -4206,7 +4581,9 @@
       "source": "Camp Kanawana archives (physical artifact, scanned)",
       "source_url": null,
       "rights": "Copyright All rights reserved by Kanawana.",
-      "linked_facts": [],
+      "linked_facts": [
+        "f_1727"
+      ],
       "suggested_articles": [
         "the-kanawana-site"
       ],
@@ -4224,7 +4601,9 @@
       "source": "Camp Kanawana archives (physical artifact, scanned)",
       "source_url": null,
       "rights": "Copyright All rights reserved by Kanawana.",
-      "linked_facts": [],
+      "linked_facts": [
+        "f_1579"
+      ],
       "suggested_articles": [
         "the-kanawana-site",
         "places-and-locations"
@@ -4243,7 +4622,9 @@
       "source": "Camp Kanawana archives (physical artifact, scanned)",
       "source_url": null,
       "rights": "Copyright All rights reserved by Kanawana.",
-      "linked_facts": [],
+      "linked_facts": [
+        "f_1577"
+      ],
       "suggested_articles": [
         "founding-1894",
         "kanawana-in-media"
@@ -4262,7 +4643,9 @@
       "source": "Camp Kanawana archives (physical artifact, scanned)",
       "source_url": null,
       "rights": "Copyright All rights reserved by Kanawana.",
-      "linked_facts": [],
+      "linked_facts": [
+        "f_1577"
+      ],
       "suggested_articles": [
         "founding-1894"
       ],
@@ -4280,7 +4663,9 @@
       "source": "Camp Kanawana archives (physical artifact, scanned)",
       "source_url": null,
       "rights": "Copyright All rights reserved by Kanawana.",
-      "linked_facts": [],
+      "linked_facts": [
+        "f_1580"
+      ],
       "suggested_articles": [
         "kanawana-in-media"
       ],
@@ -4298,7 +4683,9 @@
       "source": "Camp Kanawana archives (physical artifact, scanned)",
       "source_url": null,
       "rights": "Copyright All rights reserved by Kanawana.",
-      "linked_facts": [],
+      "linked_facts": [
+        "f_1580"
+      ],
       "suggested_articles": [
         "kanawana-in-media"
       ],
@@ -4316,7 +4703,9 @@
       "source": "Camp Kanawana archives (physical artifact, scanned)",
       "source_url": null,
       "rights": "Copyright All rights reserved by Kanawana.",
-      "linked_facts": [],
+      "linked_facts": [
+        "f_1580"
+      ],
       "suggested_articles": [
         "kanawana-in-media"
       ],
@@ -4334,7 +4723,9 @@
       "source": "Camp Kanawana archives (physical artifact, scanned)",
       "source_url": null,
       "rights": "Copyright All rights reserved by Kanawana.",
-      "linked_facts": [],
+      "linked_facts": [
+        "f_1575"
+      ],
       "suggested_articles": [
         "canoe-trips",
         "section-names",
@@ -4354,7 +4745,9 @@
       "source": "Camp Kanawana archives (physical artifact, scanned)",
       "source_url": null,
       "rights": "Copyright All rights reserved by Kanawana.",
-      "linked_facts": [],
+      "linked_facts": [
+        "f_1576"
+      ],
       "suggested_articles": [
         "kanawana-in-media"
       ],
@@ -4372,7 +4765,9 @@
       "source": "Camp Kanawana archives (physical artifact, scanned)",
       "source_url": null,
       "rights": "Copyright All rights reserved by Kanawana.",
-      "linked_facts": [],
+      "linked_facts": [
+        "f_1581"
+      ],
       "suggested_articles": [
         "traditions-and-culture"
       ],
@@ -4390,7 +4785,9 @@
       "source": "Camp Kanawana archives (physical artifact, scanned)",
       "source_url": null,
       "rights": "Copyright All rights reserved by Kanawana.",
-      "linked_facts": [],
+      "linked_facts": [
+        "f_1581"
+      ],
       "suggested_articles": [
         "traditions-and-culture"
       ],
@@ -4408,7 +4805,9 @@
       "source": "Camp Kanawana archives (physical artifact, scanned)",
       "source_url": null,
       "rights": "Copyright All rights reserved by Kanawana.",
-      "linked_facts": [],
+      "linked_facts": [
+        "f_1581"
+      ],
       "suggested_articles": [
         "traditions-and-culture"
       ],
@@ -4426,7 +4825,9 @@
       "source": "Camp Kanawana archives (physical artifact, scanned)",
       "source_url": null,
       "rights": "Copyright All rights reserved by Kanawana.",
-      "linked_facts": [],
+      "linked_facts": [
+        "f_1581"
+      ],
       "suggested_articles": [
         "traditions-and-culture",
         "canoe-trips"
@@ -4445,7 +4846,9 @@
       "source": "Camp Kanawana archives (physical artifact, scanned)",
       "source_url": null,
       "rights": "Copyright All rights reserved by Kanawana.",
-      "linked_facts": [],
+      "linked_facts": [
+        "f_1581"
+      ],
       "suggested_articles": [
         "traditions-and-culture",
         "programs-activities"
@@ -4464,7 +4867,9 @@
       "source": "Camp Kanawana archives (physical artifact, scanned)",
       "source_url": null,
       "rights": "Copyright All rights reserved by Kanawana.",
-      "linked_facts": [],
+      "linked_facts": [
+        "f_1581"
+      ],
       "suggested_articles": [
         "traditions-and-culture",
         "environmental-history"
@@ -4483,7 +4888,9 @@
       "source": "Camp Kanawana archives (physical artifact, scanned)",
       "source_url": null,
       "rights": "Copyright All rights reserved by Kanawana.",
-      "linked_facts": [],
+      "linked_facts": [
+        "f_1582"
+      ],
       "suggested_articles": [
         "traditions-and-culture"
       ],
@@ -4501,7 +4908,9 @@
       "source": "Camp Kanawana archives (physical artifact, scanned)",
       "source_url": null,
       "rights": "Copyright All rights reserved by Kanawana.",
-      "linked_facts": [],
+      "linked_facts": [
+        "f_1582"
+      ],
       "suggested_articles": [
         "traditions-and-culture"
       ],

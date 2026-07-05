@@ -40,3 +40,11 @@ As of 2026-07-02: **234 images acquired** and filed (from a 244-image delivery v
 8 items from the original 12-target want-list remain `not_acquired` (flag-raising c.1910, camp
 truck c.1910, the 1898 Jubilee group photo, Otoreke items, McCord postcard, Harold Cross portrait,
 centennial poster, Facebook album) — see `PHOTO-ACQUISITION.md`.
+
+As of 2026-07-05: all 234 acquired images have been visually mined for text, names, and dates
+(8 parallel review agents, one full pass per subfolder). 159 new KB facts (f_1569-f_1727) were
+added and every image's `linked_facts` in `credits.json` backfilled accordingly. A small number
+of plaques remain substantially illegible from the available photographs (`dsc-0544.jpg`, the
+name columns on `staff-2000.jpg`, `voyageurs-1998-3.jpg`) and would need higher-resolution
+re-photography to recover further names — see `logs/pipeline.log` (Campaign 22) for the full
+list of findings and `queue/priorities.json` (p_191) for the follow-up article-enrichment pass.

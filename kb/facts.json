@@ -1,8 +1,8 @@
 {
-  "version": "v4.89",
-  "kb_version": 4.84,
+  "version": "v4.90",
+  "kb_version": 4.9,
   "migrated_from": "3.3",
-  "fact_count": 1459,
+  "fact_count": 1689,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -26444,6 +26444,2870 @@
       "conflicts_with": [],
       "added_version": "v4.9x",
       "added_by": "manual"
+    },
+    {
+      "fact_id": "f_1569",
+      "claim": "A pre-WWI Concordia Archives photo-album page from the Kanawana collection carries handwritten captions 'Tent C', 'Towards St. Sauveur des Monts', and 'To Lake Wilson' beneath three mounted photographs (a group of boys/staff posed by a tent, a hillside/valley landscape, and a wooded riverbank view).",
+      "sources": [
+        "src_flickr_kanawana_concordia_historical_album"
+      ],
+      "confidence": "stated",
+      "category": "places",
+      "entities": [
+        "Lake Wilson",
+        "Saint-Sauveur-des-Monts"
+      ],
+      "date_ref": "1900-1914",
+      "conflicts_with": [],
+      "added_version": "v4.90",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_1570",
+      "claim": "A photograph of a Kamp Kanawana swim team (seven young men in swim trunks on a shoreline, holding a life ring) shows the life ring lettered 'CAMP KANAWANA'; a separate Concordia Archives photo captioned 'KAMP KANAWANA SR. WATERFRONT' and a 1960s-70s staff-photo t-shirt reading 'KAMP KANAWANA / YMCA / STAFF' corroborate 'Kamp' as the dominant camp-era spelling, distinct from the modern 'Camp Kanawana'.",
+      "sources": [
+        "src_flickr_kanawana_concordia_historical_album"
+      ],
+      "confidence": "stated",
+      "category": "traditions",
+      "entities": [
+        "Kamp Kanawana"
+      ],
+      "date_ref": "1914-1980",
+      "conflicts_with": [],
+      "added_version": "v4.90",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_1571",
+      "claim": "A Concordia Archives photograph (captioned 'Pop Cameron and the Canoe Trippers') shows a group of boys and men with canoes and packs posed around a car bearing a 1941 Quebec license plate ('54-868 QUEBEC 41'), naming a previously undocumented staff member, 'Pop Cameron', associated with the camp's canoe-trip program circa 1941.",
+      "sources": [
+        "src_flickr_kanawana_concordia_historical_album"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "Pop Cameron"
+      ],
+      "date_ref": "1941",
+      "conflicts_with": [],
+      "added_version": "v4.90",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_1572",
+      "claim": "The 1941 hand-drawn Kanawana camp map (three near-identical copies in the archive) carries printed travel directions: 'Kanawana is situated about five miles from the village of St. Sauveur des Monts. Take C.N.R. train from the Tunnel Station. The camp truck meets all week-end trains. By road the camp is reached by highway No. 11 to Piedmont. Turn left up the hill, through St. Sauveur village and follow the Kamp Kanawana road signs.' The map itself labels Lake Kanawana, Lake Wilson, and (tentatively) 'Lac des Beories', with an inset map captioned 'Map showing Camp Property [with] Morgan's to Lock' and small hand-lettered activity labels including 'Junior Camp', 'Camp Cliff', 'Indian Grave', and 'Ski Course'.",
+      "sources": [
+        "src_flickr_kanawana_concordia_historical_album"
+      ],
+      "confidence": "stated",
+      "category": "geography",
+      "entities": [
+        "Lake Kanawana",
+        "Lake Wilson",
+        "Saint-Sauveur-des-Monts"
+      ],
+      "date_ref": "1941",
+      "conflicts_with": [],
+      "added_version": "v4.90",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_1573",
+      "claim": "A Kamp Kanawana site map (dated by the archive to 1980-2001) labels facilities around Lac Kanawana including a Fitness Course, Ball Field, Hospital, Lookout, Archery Field, Fire House, Rock Climbing Wall, Craft Shop, 'Chez Claude', Barn, Indian Council Ring, Chapel, Boating Waterfront, Sauna, and a Tee Pee site, alongside Senior and Junior parking lots and a Post Office.",
+      "sources": [
+        "src_flickr_kanawana_concordia_historical_album"
+      ],
+      "confidence": "stated",
+      "category": "facilities",
+      "entities": [
+        "Lac Kanawana",
+        "Indian Council Ring",
+        "Chez Claude"
+      ],
+      "date_ref": "1980-2001",
+      "conflicts_with": [],
+      "added_version": "v4.90",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_1574",
+      "claim": "A 1982 print advertisement for Kamp Kanawana states: 'In 1894 the Y.M.C.A. pioneered camping in the Laurentians by opening the first boys camp in Canada. Today, 88 years later, Kamp Kanawana continues to lead the way,' and advertises coed enrollment ages 8-15, activities (canoeing, hiking, sailing, campcraft, arts & crafts, orienteering, nature lore), '1200 acres & 3 lakes', a 3:1 camper/staff ratio, membership in the QCA and CCA, and contact details 'Kamp Kanawana, 1441 Drummond St., Montreal, Canada H3G 1W5, (514) 849-5331'.",
+      "sources": [
+        "src_kanawana_physical_archive_scans_2026"
+      ],
+      "confidence": "stated",
+      "category": "founding",
+      "entities": [
+        "Kamp Kanawana",
+        "QCA",
+        "CCA"
+      ],
+      "date_ref": "1982",
+      "conflicts_with": [],
+      "added_version": "v4.90",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_1575",
+      "claim": "A 1981 advertisement for 'Les Voyageurs de la Vérendrye' — described as 'excursions en canoë pour les jeunes de 13 à 17 ans' / 'extended wilderness canoe trips for youths 13-17' — run through Kamp Kanawana, carries the YMCA de Montréal's founding date ('fondé en 1851') and the contact address 'Kamp Kanawana, 1441 rue Drummond Street, Montréal (Québec) H3G 1W5, (514) 849-5331'; the program name references explorer Pierre Gaultier de Varennes, sieur de La Vérendrye.",
+      "sources": [
+        "src_kanawana_physical_archive_scans_2026"
+      ],
+      "confidence": "stated",
+      "category": "programs",
+      "entities": [
+        "Les Voyageurs de la Vérendrye",
+        "YMCA de Montréal"
+      ],
+      "date_ref": "1981",
+      "conflicts_with": [],
+      "added_version": "v4.90",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_1576",
+      "claim": "A handwritten 1970s ad-planning sheet for Kamp Kanawana reads: 'YMCA summer camp. Kamp kanawana for boys + girls age 7-15. Some places still available in 1st 3rd + 4th session. For more info call: 849-5331 ext 749,' with five rough pencil sketches iterating on a YMCA-triangle logo layout for a classified-style newspaper ad.",
+      "sources": [
+        "src_kanawana_physical_archive_scans_2026"
+      ],
+      "confidence": "stated",
+      "category": "media",
+      "entities": [
+        "Kamp Kanawana"
+      ],
+      "date_ref": "1970s",
+      "conflicts_with": [],
+      "added_version": "v4.90",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_1577",
+      "claim": "A 1913 Kamp Kanawana reunion banquet menu card, dated 'Wednesday, Nov. 26th, 1913' and printed on autumn-leaf themed paper, is headed 'Kamp Kanawana Kampers' Kluster to kandidly re-konsider their kapricious kapers and knavery under kanvas' and lists a joking mock-formal menu: 'Cold Meats (Purloined from Harry)', 'Lamb (not Hal of tent 1) à la Filion', 'Pork à la Prevost, très tough', 'Rolls... no Tumbling award allowed', '\"Inexpensive, but highly nutritious\" Doc. H. Griffiths, M a D', 'Cake (the kind our Bird-ette)', and 'Fruit Salad \"General mix up, see tent B\"' — the earliest dated primary-source document yet found naming individual campers/staff (Harry, Hal, Filion, Prevost, H. Griffiths) by their in-joke camp roles.",
+      "sources": [
+        "src_kanawana_physical_archive_scans_2026"
+      ],
+      "confidence": "stated",
+      "category": "events",
+      "entities": [
+        "Harry",
+        "Hal",
+        "Filion",
+        "Prevost",
+        "H. Griffiths"
+      ],
+      "date_ref": "1913-11-26",
+      "conflicts_with": [],
+      "added_version": "v4.90",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_1578",
+      "claim": "A silkscreen printing film for a 'Kamp Kanawana Reunion, April 7th, 1989' marks the camp's founding-to-reunion span as '1894-1989' (i.e. a 95th-anniversary event), depicted with a stylized torch/plant graphic.",
+      "sources": [
+        "src_kanawana_physical_archive_scans_2026"
+      ],
+      "confidence": "stated",
+      "category": "events",
+      "entities": [
+        "Kamp Kanawana Reunion"
+      ],
+      "date_ref": "1989-04-07",
+      "conflicts_with": [],
+      "added_version": "v4.90",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_1579",
+      "claim": "A cyanotype architectural blueprint titled 'Proposed Service Wing to Dining Hall, KAMP KANAWANA Y.M.C.A.' is signed 'J.M. Venters, Architect, 1503 Mackay Street, Montreal' and itemizes a construction cost estimate (store room, tool cupboard, new building, misc.) totalling $5,000, for a workshop, office, staff room, laundry, and truck-packing addition to the dining hall.",
+      "sources": [
+        "src_kanawana_physical_archive_scans_2026"
+      ],
+      "confidence": "stated",
+      "category": "facilities",
+      "entities": [
+        "J.M. Venters"
+      ],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "v4.90",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_1580",
+      "claim": "Camp staff produced hand-drawn t-shirt and silkscreen art across the 1980s-1990s with recurring motifs of Pacific Northwest Coast-style masks/totems (e.g. 'Staff '91 Kanawana', a design with printer's color-separation notes — 4 PMS colors — addressed to a contact named 'Harriet' at the print shop), parody humour (a Star Wars-logo parody reading 'Kana Wana... A long time ago in a Kamp far, far away' / bilingual French caption), and nature imagery ('Kanawana' silhouetted against a treeline; a beaver-in-a-canoe-hat silkscreen design); dated examples include Staff '86, Staff '88, Staff '91 (two versions), and t-shirt mockups from 1987.",
+      "sources": [
+        "src_kanawana_physical_archive_scans_2026"
+      ],
+      "confidence": "stated",
+      "category": "camp_culture",
+      "entities": [
+        "Harriet"
+      ],
+      "date_ref": "1980s-1990s",
+      "conflicts_with": [],
+      "added_version": "v4.90",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_1581",
+      "claim": "A set of cloth 'KAMP KANAWANA HONOUR AWARD' ribbons, most explicitly dated 1920, covers four departments: Educational (Knot Tying, Signalling, Advanced Basketry, Bible Study, Bandaging, Basketry, Nature Study/Trees), Aquatic (Rowing, Canoeing, Length of Lake Swim, Life-Saving), Athletic (Hike, Wrestling, Boxing), and Social Service (Camp Improvement, Public Health); most ribbons carry a circular YMCA 'Spirit/Mind/Body' triangle emblem. Nearly all use the spelling 'KAMP KANAWANA'; one Camp Improvement ribbon uniquely reads 'CAMP KANAWANA'.",
+      "sources": [
+        "src_kanawana_physical_archive_scans_2026"
+      ],
+      "confidence": "stated",
+      "category": "traditions",
+      "entities": [
+        "Kamp Kanawana Honour Award"
+      ],
+      "date_ref": "1920",
+      "conflicts_with": [],
+      "added_version": "v4.90",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_1582",
+      "claim": "A scrapbook page captioned 'Awards, Circa 1940' documents the camp's felt-badge award hierarchy in period handwriting: a maroon triangle with an embroidered maple leaf is captioned 'This was the leadership crest - Westmount \"Y\"'; a plain green felt 'K' letter is captioned 'The small \"K\". The second highest award'; an outlined (unfilled) triangle badge is captioned '▽ - awarded after getting a certain # of badges'; and an orange-and-black circular felt patch bears the YMCA 'Spirit/Mind/Body' triangle motif with the biblical citation 'John 17:21' at its center. Three felt pennants (blue, gold, brown) each carry only a stitched letter 'K'.",
+      "sources": [
+        "src_kanawana_physical_archive_scans_2026"
+      ],
+      "confidence": "stated",
+      "category": "traditions",
+      "entities": [
+        "Westmount YMCA"
+      ],
+      "date_ref": "circa 1940",
+      "conflicts_with": [],
+      "added_version": "v4.90",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_1583",
+      "claim": "A felt badge reads 'KANAWANA OUTING CLUB' around a central YMCA triangle logo, evidencing a camp 'Outing Club' distinct from the main honour-award system.",
+      "sources": [
+        "src_kanawana_physical_archive_scans_2026"
+      ],
+      "confidence": "stated",
+      "category": "organizations",
+      "entities": [
+        "Kanawana Outing Club"
+      ],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "v4.90",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_1584",
+      "claim": "A felt YMCA pennant reads 'Y.M.C.A.' in large vertical lettering with a shield crest bearing the banner text 'KAMPKANAWANA' (run together, no space) and a partially legible Latin-style motto banner, alongside a small YMCA triangle logo and a torch/flame mark — consistent with, though not fully confirming, the camp's later 'Non Nobis Solum' motto.",
+      "sources": [
+        "src_kanawana_physical_archive_scans_2026"
+      ],
+      "confidence": "stated",
+      "category": "traditions",
+      "entities": [
+        "Kamp Kanawana"
+      ],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "v4.90",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_1585",
+      "claim": "A carved wooden medallion 'commemorating the 3km Swim of 2000' names nine swimmers: Alicia Hamerman, Carmen Bodmer-Roy, Kendra Hughes, Rochelle Lazarus, Flicky Jarvie, Geoffry Cowley, Hannah Kingsley, Lorna McNeish, and Joshua Weisbord.",
+      "sources": [
+        "src_flickr_kanawana_plaque_album"
+      ],
+      "confidence": "stated",
+      "category": "programs",
+      "entities": [
+        "Alicia Hamerman",
+        "Carmen Bodmer-Roy",
+        "Kendra Hughes",
+        "Rochelle Lazarus",
+        "Flicky Jarvie",
+        "Geoffry Cowley",
+        "Hannah Kingsley",
+        "Lorna McNeish",
+        "Joshua Weisbord"
+      ],
+      "date_ref": "2000",
+      "conflicts_with": [],
+      "added_version": "v4.90",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_1586",
+      "claim": "A painted sign records 'A First at Kamp Kanawana — 5 Km Swim — Wilson Falls to Frogs Bog (Lake Wilson) (Lake Kanawana) — August 17, Summer 98', congratulating swimmers Laurent Thibault, Jamie Raphael-McKenna, Matthew Hammerman, Helen Milne, and Aliki Constantis, with a hand-painted route map of the swim course between Lake Wilson and Lake Kanawana.",
+      "sources": [
+        "src_flickr_kanawana_plaque_album"
+      ],
+      "confidence": "stated",
+      "category": "programs",
+      "entities": [
+        "Laurent Thibault",
+        "Jamie Raphael-McKenna",
+        "Matthew Hammerman",
+        "Helen Milne",
+        "Aliki Constantis",
+        "Lake Wilson",
+        "Lake Kanawana"
+      ],
+      "date_ref": "1998-08-17",
+      "conflicts_with": [],
+      "added_version": "v4.90",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_1587",
+      "claim": "A canoe paddle blade is inscribed: 'This special Kanawana achievement is presented with great pride to Jennifer Kaufman and Louis Lessard in honour of their 7000 km expedition' (no year given on the paddle).",
+      "sources": [
+        "src_flickr_kanawana_plaque_album"
+      ],
+      "confidence": "stated",
+      "category": "canoe_trips",
+      "entities": [
+        "Jennifer Kaufman",
+        "Louis Lessard"
+      ],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "v4.90",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_1588",
+      "claim": "An 'Advance Guard '63' board names Julien Tassé, Wally Leemans, Rusty McKay, Buppy Warren, Rick Patten, John Clement, and Ron Parker; the following year's 'Advance Guard '64' board repeats Julien Tassé, Rusty McKay, and Bumpy/Buppy Warren alongside Ron Duncan, Ed McNider, Vic Salvaneschi, and Ron Parker, showing year-over-year roster continuity in the Advance Guard section.",
+      "sources": [
+        "src_flickr_kanawana_plaque_album"
+      ],
+      "confidence": "stated",
+      "category": "programs",
+      "entities": [
+        "Julien Tassé",
+        "Wally Leemans",
+        "Rusty McKay",
+        "Buppy Warren",
+        "Rick Patten",
+        "John Clement",
+        "Ron Parker",
+        "Ron Duncan",
+        "Ed McNider",
+        "Vic Salvaneschi"
+      ],
+      "date_ref": "1963-1964",
+      "conflicts_with": [],
+      "added_version": "v4.90",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_1589",
+      "claim": "See 1963 Advance Guard entry for the paired 1964 board transcription (Julien Tassé, Ron Duncan, Rusty McKay, Ed McNider, Vic Salvaneschi, Bumpy Warren, Ron Parker).",
+      "sources": [
+        "src_flickr_kanawana_plaque_album"
+      ],
+      "confidence": "stated",
+      "category": "programs",
+      "entities": [
+        "Julien Tassé",
+        "Ron Duncan",
+        "Rusty McKay",
+        "Ed McNider",
+        "Vic Salvaneschi",
+        "Bumpy Warren",
+        "Ron Parker"
+      ],
+      "date_ref": "1964",
+      "conflicts_with": [],
+      "added_version": "v4.90",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_1590",
+      "claim": "An 'Advance Guard '86' board (painted with a fist gripping a tree/pole) names Yves Tassé, Julien Tassé, Danny Glassman, Toby Desjardins, Philip Aubin, Jeff Muss, Mark Desjardins, and Bruce Netherwood — the recurrence of the Tassé surname (Julien Tassé also on the 1963/1964 boards, joined here by Yves Tassé) suggests a multi-generational family connection to the section.",
+      "sources": [
+        "src_flickr_kanawana_plaque_album"
+      ],
+      "confidence": "stated",
+      "category": "programs",
+      "entities": [
+        "Yves Tassé",
+        "Julien Tassé",
+        "Danny Glassman",
+        "Toby Desjardins",
+        "Philip Aubin",
+        "Jeff Muss",
+        "Mark Desjardins",
+        "Bruce Netherwood"
+      ],
+      "date_ref": "1986",
+      "conflicts_with": [],
+      "added_version": "v4.90",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_1591",
+      "claim": "An 'Adventurer Boys — Flat Water White Water — 2008' board is covered in dozens of informal graffiti-style signatures; clearly legible names/nicknames include T.R. Strauss, Simon ('Monsieur Bagayo'), Charles Parlee ('The Leech'), Val Pothitos ('Coyote'), Matthew Talley ('Rock'), Eric Liu, Kevin Chadwick Chabot ('The Muskrat'), Esteban Sanchez ('Guitar God'), Mikhail Kushnarov ('Russia'), Felix G., and Ryan Sklivas.",
+      "sources": [
+        "src_flickr_kanawana_plaque_album"
+      ],
+      "confidence": "stated",
+      "category": "programs",
+      "entities": [
+        "T.R. Strauss",
+        "Charles Parlee",
+        "Val Pothitos",
+        "Matthew Talley",
+        "Eric Liu",
+        "Kevin Chadwick Chabot",
+        "Esteban Sanchez",
+        "Mikhail Kushnarov",
+        "Ryan Sklivas"
+      ],
+      "date_ref": "2008",
+      "conflicts_with": [],
+      "added_version": "v4.90",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_1592",
+      "claim": "An 'Adventurer Girls — Flat Water White Water — 2008' board lists names by sub-group/session: 'Talahassee 2nd session' (Ariel H'Geary Hall, Bea Scharff-P., Sasha Adler, Charlotte Menzies, Kia Pouliot, Sole Pardo-O., Niki Bohbot, Kayla Sabourin); 'Swazi' (Ana Castillo, Valentina Sopo, Andrea Lopicic, Morgan O'Farrell, Lauren Reidy, Lin Wilson, Casey Wittman); 'Talahassee 3rd session' (Agel H'Geary Hall, Milène Rimbeault, Iciar Gonzalez, Deborah Weiser, Georgia Newsam, Kat LeBlanc); and 'Basin Breezers 3rd session' (Emma Anders, Christina Kaminski, Claire Henderson, Tessa Dixon).",
+      "sources": [
+        "src_flickr_kanawana_plaque_album"
+      ],
+      "confidence": "stated",
+      "category": "programs",
+      "entities": [
+        "Ariel H'Geary Hall",
+        "Casey Wittman",
+        "Georgia Newsam",
+        "Emma Anders",
+        "Christina Kaminski",
+        "Tessa Dixon",
+        "Talahassee",
+        "Swazi",
+        "Basin Breezers"
+      ],
+      "date_ref": "2008",
+      "conflicts_with": [],
+      "added_version": "v4.90",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_1593",
+      "claim": "A dog-bone-shaped board reads '3rd Session All-Kamp 1995 — We saved Raku and the red-day tuck!' (no personal names given).",
+      "sources": [
+        "src_flickr_kanawana_plaque_album"
+      ],
+      "confidence": "stated",
+      "category": "traditions",
+      "entities": [
+        "All-Kamp"
+      ],
+      "date_ref": "1995",
+      "conflicts_with": [],
+      "added_version": "v4.90",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_1594",
+      "claim": "A carved ship-shaped board reads 'Treasure Island KK — All Kamp — 1996' (no personal names given).",
+      "sources": [
+        "src_flickr_kanawana_plaque_album"
+      ],
+      "confidence": "stated",
+      "category": "traditions",
+      "entities": [
+        "All-Kamp"
+      ],
+      "date_ref": "1996",
+      "conflicts_with": [],
+      "added_version": "v4.90",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_1595",
+      "claim": "A decorated toilet-seat-lid novelty plaque ('Basin Bathroom', labeled 'Nooners') names 4th-session-2007 campers/staff Jessica Hutchins, Laura Morrison, Sarah Bumper, Dan Dixon, Kyrstin Coughlin, and Emma Anders.",
+      "sources": [
+        "src_flickr_kanawana_plaque_album"
+      ],
+      "confidence": "stated",
+      "category": "programs",
+      "entities": [
+        "Jessica Hutchins",
+        "Laura Morrison",
+        "Sarah Bumper",
+        "Dan Dixon",
+        "Kyrstin Coughlin",
+        "Emma Anders",
+        "Basin"
+      ],
+      "date_ref": "2007",
+      "conflicts_with": [],
+      "added_version": "v4.90",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_1596",
+      "claim": "A Basin-section board ('2007, 2nd session, 5 days in P.F.P.') names counsellor Emma Anders and campers Eric Bilodeau, Layla Courcue, Yaisa Lopez, Camille, and Mika.",
+      "sources": [
+        "src_flickr_kanawana_plaque_album"
+      ],
+      "confidence": "stated",
+      "category": "programs",
+      "entities": [
+        "Emma Anders",
+        "Eric Bilodeau",
+        "Layla Courcue",
+        "Yaisa Lopez",
+        "Basin"
+      ],
+      "date_ref": "2007",
+      "conflicts_with": [],
+      "added_version": "v4.90",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_1597",
+      "claim": "A Basin-section board ('Man Down! From Basin to the stalls... 3rd Session 2007') names Emma Anders, Chris McDonald, Kayla Cerone, Kyrstin Coughlin, Genny Campbell, Laura Kekesi, and Laura Morrison.",
+      "sources": [
+        "src_flickr_kanawana_plaque_album"
+      ],
+      "confidence": "stated",
+      "category": "programs",
+      "entities": [
+        "Emma Anders",
+        "Chris McDonald",
+        "Kayla Cerone",
+        "Kyrstin Coughlin",
+        "Genny Campbell",
+        "Laura Kekesi",
+        "Laura Morrison",
+        "Basin"
+      ],
+      "date_ref": "2007",
+      "conflicts_with": [],
+      "added_version": "v4.90",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_1598",
+      "claim": "A Basin-section board ('Basin Burbujas — 1st Session 2008') names Emma Anders and (partly overlapping paint, lower confidence) Steph Lad-, Marie Pardo, and Kristen.",
+      "sources": [
+        "src_flickr_kanawana_plaque_album"
+      ],
+      "confidence": "stated",
+      "category": "programs",
+      "entities": [
+        "Emma Anders",
+        "Basin"
+      ],
+      "date_ref": "2008",
+      "conflicts_with": [],
+      "added_version": "v4.90",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_1599",
+      "claim": "A round wood-slice board ('Basin Ace, I-Bridge/T-Bridge, 4th Session 2008') names Regan, Emma Anders, Georgia Newsam, Scott, Latoia Lajoie, Freddy, Emily Morgan, Jackie, Niki Bohbot, Kayla Sabourin, Franco, Kyrstin Coughlin, Katya Malone, Emily Caddell, and Patrick Raymond.",
+      "sources": [
+        "src_flickr_kanawana_plaque_album"
+      ],
+      "confidence": "stated",
+      "category": "programs",
+      "entities": [
+        "Emma Anders",
+        "Georgia Newsam",
+        "Latoia Lajoie",
+        "Emily Morgan",
+        "Niki Bohbot",
+        "Kayla Sabourin",
+        "Kyrstin Coughlin",
+        "Katya Malone",
+        "Emily Caddell",
+        "Patrick Raymond",
+        "Basin"
+      ],
+      "date_ref": "2008",
+      "conflicts_with": [],
+      "added_version": "v4.90",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_1600",
+      "claim": "A wide photograph of a wall of dining-hall boards includes a green 'Swazi a.k.a. Heroes' board naming counsellors Caitlin Booth and Razi Fraticelli with campers Angela McCrary, Kayla Sabourin, Michele Côté, D. Rohée Beaudoin, Niki Bohbot, Sophie Doyle, Yeon Jung Choi, and Emma Cobb, alongside a green triangular 'Ranger 2002 KK' board naming co-ordinators Louis Lessard and Hélène Longpré with campers Hannah Shizgal-Paris, Alexandra Olshefsky, Ian Braide, Andrew Paré, and Alexandre Lebrun.",
+      "sources": [
+        "src_flickr_kanawana_plaque_album"
+      ],
+      "confidence": "stated",
+      "category": "programs",
+      "entities": [
+        "Caitlin Booth",
+        "Razi Fraticelli",
+        "Louis Lessard",
+        "Hélène Longpré",
+        "Hannah Shizgal-Paris",
+        "Alexandra Olshefsky",
+        "Swazi",
+        "Rangers"
+      ],
+      "date_ref": "2002-2008",
+      "conflicts_with": [],
+      "added_version": "v4.90",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_1601",
+      "claim": "A 'Bella' section board ('3rd session 1995, Senior Girls, Kairine's KK Kids') names C.I.T. Lindsay MacDougall and campers Joanna Haber, Robyn Dalton, Debbie Yeinish, Tara Lazanis, Rachael Legg Goldman, Zyanna O'Connell, Ashley Carrington, and Katie Kaufman.",
+      "sources": [
+        "src_flickr_kanawana_plaque_album"
+      ],
+      "confidence": "stated",
+      "category": "programs",
+      "entities": [
+        "Lindsay MacDougall",
+        "Joanna Haber",
+        "Robyn Dalton",
+        "Tara Lazanis",
+        "Rachael Legg Goldman",
+        "Zyanna O'Connell",
+        "Ashley Carrington",
+        "Katie Kaufman",
+        "Bella"
+      ],
+      "date_ref": "1995",
+      "conflicts_with": [],
+      "added_version": "v4.90",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_1602",
+      "claim": "A 'Bella' Senior Girls board ('3rd Session 1995') names Jill, Lindsay, and Nadia among faint, partly illegible additional text.",
+      "sources": [
+        "src_flickr_kanawana_plaque_album"
+      ],
+      "confidence": "stated",
+      "category": "programs",
+      "entities": [
+        "Bella"
+      ],
+      "date_ref": "1995",
+      "conflicts_with": [],
+      "added_version": "v4.90",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_1603",
+      "claim": "A Voyageurs paddle-shaped board ('KK Voyageurs — C. de B's 2006') names Section Director Matt Hamerman, counsellors Dean Pugh, JP Belmont, Matt Held, Alex Zannis, Andrew Doyle, and Dan Shemie, and JCs Zack Brzezinski, Andrew Rankin, Jared Conover, and Mo Jarjour.",
+      "sources": [
+        "src_flickr_kanawana_plaque_album"
+      ],
+      "confidence": "stated",
+      "category": "programs",
+      "entities": [
+        "Matt Hamerman",
+        "Dean Pugh",
+        "Alex Zannis",
+        "Andrew Doyle",
+        "Dan Shemie",
+        "Zack Brzezinski",
+        "Andrew Rankin",
+        "Voyageurs"
+      ],
+      "date_ref": "2006",
+      "conflicts_with": [],
+      "added_version": "v4.90",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_1604",
+      "claim": "A black board reading 'We experienced the power of nature' carries individual paper name-tags for Alexandra Neville, Barbara Charos, Liz DiCesare, Kaitlin Keane, Renaud Pettersen, Roxanne Sayegh, and Robin Wiviott.",
+      "sources": [
+        "src_flickr_kanawana_plaque_album"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "Alexandra Neville",
+        "Barbara Charos",
+        "Liz DiCesare",
+        "Kaitlin Keane",
+        "Renaud Pettersen",
+        "Roxanne Sayegh",
+        "Robin Wiviott"
+      ],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "v4.90",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_1605",
+      "claim": "A 'Chopsy '06' board names counsellors Jean-Paul Belmont, Robert Brais, Vincent Raymond, and Guillaume Poulin, and campers Michael Truong, Kyle Burnham, Joshua C., and Charlie, under a 'C de B session 2006' heading.",
+      "sources": [
+        "src_flickr_kanawana_plaque_album"
+      ],
+      "confidence": "stated",
+      "category": "programs",
+      "entities": [
+        "Jean-Paul Belmont",
+        "Robert Brais",
+        "Vincent Raymond",
+        "Guillaume Poulin",
+        "Michael Truong",
+        "Chopsy"
+      ],
+      "date_ref": "2006",
+      "conflicts_with": [],
+      "added_version": "v4.90",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_1606",
+      "claim": "A 'Chopsys 2008' board groups campers by trip ordinal: 1st (Kenya Shatan, Percival, Kevin C.C., Jack Caddell, Brendan, Alex Torana, Eric Lio), 2nd (Hari Her, Micheal Cho), 3rd (Scotty H.H., Max Lauze, Frank Carretti, Hari Iyer, Andrew MacPhearson, Matt Parizot, plus Bertoni, Thomas Pierre, Sydney Hassoun 'Trip in Pap[ineau]'), and 4th (Marc Grover, Laurent Dumas, Dylan O'Brian, Alex Abrams, Mike Pravato, Spiro Trent), with counsellor Andy Neil.",
+      "sources": [
+        "src_flickr_kanawana_plaque_album"
+      ],
+      "confidence": "stated",
+      "category": "programs",
+      "entities": [
+        "Andy Neil",
+        "Jack Caddell",
+        "Chopsy"
+      ],
+      "date_ref": "2008",
+      "conflicts_with": [],
+      "added_version": "v4.90",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_1607",
+      "claim": "A 'Counsellors in Training — Nineteen Hundred and Seventy Five' board names 'Directress' Lynne Robinson and CITs Claude Boucher, Susan Dean, David Hart, Margot Hovey, Carol Hulley, David Jackson, John Kennedy, Burke Lawrence, Jacquie Masson, Wendy O'Donnell, David Paltiel, Peter Porteous, Patrice Robillard, Keith Stewart, Lisa Taylor, and Danny Trotter.",
+      "sources": [
+        "src_flickr_kanawana_plaque_album"
+      ],
+      "confidence": "stated",
+      "category": "directors",
+      "entities": [
+        "Lynne Robinson",
+        "Margot Hovey",
+        "Burke Lawrence"
+      ],
+      "date_ref": "1975",
+      "conflicts_with": [],
+      "added_version": "v4.90",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_1608",
+      "claim": "A heavily weathered 'CITs' board dated 1979 preserves only the name Paul A. Boudreau with confidence; several additional names in two columns are illegible due to fading of the burned/carved lettering.",
+      "sources": [
+        "src_flickr_kanawana_plaque_album"
+      ],
+      "confidence": "stated",
+      "category": "programs",
+      "entities": [
+        "Paul A. Boudreau"
+      ],
+      "date_ref": "1979",
+      "conflicts_with": [],
+      "added_version": "v4.90",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_1609",
+      "claim": "A 'C.I.T.'s 82' board reads 'Thanks Larry Lacey for an amazing summer' and lists CITs Sarah Campbell, Mark Kiddell, Nadia Myers, Nicole Tigchelaar, Jeff 'Travolta' Muss, Caroline Cohen, Jean Perron, Anne Nigen, Jane 'Apple Crisp' Ogilvy, Andrew 'Hippo' Eldridge, Emily 'Melvin' Feldman, Simon Leonard, Andrew Ramsey, and Natalie Bernard, among others.",
+      "sources": [
+        "src_flickr_kanawana_plaque_album"
+      ],
+      "confidence": "stated",
+      "category": "programs",
+      "entities": [
+        "Larry Lacey",
+        "Jean Perron",
+        "Simon Leonard",
+        "CIT"
+      ],
+      "date_ref": "1982",
+      "conflicts_with": [],
+      "added_version": "v4.90",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_1610",
+      "claim": "An '84 CIT's' board names Bruce Netherwood alongside CITs Alex Acker, Tim Amey, Mike Bishop, Toby Desjardins, Danny Glassman, Joel Goldberg, Randee Hare, Tessa Herbert, Nathalie Lamontagne, Shaun Leggett, Matthew Nadler, and Gill Watt (Toby Desjardins also appears on the 1986 Advance Guard board).",
+      "sources": [
+        "src_flickr_kanawana_plaque_album"
+      ],
+      "confidence": "stated",
+      "category": "programs",
+      "entities": [
+        "Bruce Netherwood",
+        "Toby Desjardins",
+        "CIT"
+      ],
+      "date_ref": "1984",
+      "conflicts_with": [],
+      "added_version": "v4.90",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_1611",
+      "claim": "A 'CITs' board ('C.I.T. Trips '85') names Dave Love, Adrian Maas, J.J. Ferst, Eric Boghen, Dave Lepage, Adam Cobb, Marc Goldstein, Sean Bogue, Sonia Tarantino, Angela Kertland, Lindsay Kertland, Bradley Tagieff, Jessica Rubinger, Erin Clark, Stephanie Sylvere, Nathalie Goldin, and Bibi Ball.",
+      "sources": [
+        "src_flickr_kanawana_plaque_album"
+      ],
+      "confidence": "stated",
+      "category": "programs",
+      "entities": [
+        "Dave Love",
+        "Adrian Maas",
+        "Lindsay Kertland",
+        "CIT"
+      ],
+      "date_ref": "1985",
+      "conflicts_with": [],
+      "added_version": "v4.90",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_1612",
+      "claim": "A 'CITs '86' board names Barb Goddard alongside CITs Miriam Schleifer, Dom Ferst, Paola Jorizzo, Joe Clement, Michelle Rosenswig, Alison McDougall, Julian Wilson, Bryn Caron, JB Thibaudeau, Trista Leggett, Peter Lopata, Reiko Webster, Eric Toker, Cathy Harries, Izabelle Deschamps, Andrea Peplow, and Jeff Cox — the same Reiko Webster is later credited as CIT director in 1992.",
+      "sources": [
+        "src_flickr_kanawana_plaque_album"
+      ],
+      "confidence": "stated",
+      "category": "directors",
+      "entities": [
+        "Barb Goddard",
+        "Reiko Webster",
+        "CIT"
+      ],
+      "date_ref": "1986",
+      "conflicts_with": [],
+      "added_version": "v4.90",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_1613",
+      "claim": "A 'CIT's 1992' paddle credits Reiko Webster as 'Our Beloved Director' and names CITs Arpon Basu, Simon Beauchemin, Josh Byers, Aliki Constantis, Audrey Davis, Alexa Dubreuil, Dahlia Kasimer, Phil Kaufman, Erin Kenny, Robin McKenna, Nick Martire, Alex Rourke, Amy Vincent, Jackson Wightman, and Mike Zylberstein.",
+      "sources": [
+        "src_flickr_kanawana_plaque_album"
+      ],
+      "confidence": "stated",
+      "category": "directors",
+      "entities": [
+        "Reiko Webster",
+        "Aliki Constantis",
+        "Phil Kaufman",
+        "CIT"
+      ],
+      "date_ref": "1992",
+      "conflicts_with": [],
+      "added_version": "v4.90",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_1614",
+      "claim": "A 'CITS 95' board credits Directors Simon Heller, Paula Cussen, and Wendy, and names CITs Sarah A. Frankel, Avigail Aronoff, Dan Aronson, Rick Badger, Laura Davis, Marc Dunn, Lindsay McDougall (matching the CIT credited on the 1995 Bella board), Erin McKenzie, Jon Mee, Marina Sharpe, and Tom Watt.",
+      "sources": [
+        "src_flickr_kanawana_plaque_album"
+      ],
+      "confidence": "stated",
+      "category": "directors",
+      "entities": [
+        "Simon Heller",
+        "Paula Cussen",
+        "Avigail Aronoff",
+        "Lindsay McDougall",
+        "CIT"
+      ],
+      "date_ref": "1995",
+      "conflicts_with": [],
+      "added_version": "v4.90",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_1615",
+      "claim": "A boat-shaped 'CITs of '96' board names Laura Penrose, Tara Ryan, Kirk Shannon, Heidi Shapiro, Marta Tanczarski, Melanie Taylor, Matthew Thomson, Matthew Woodrow, and Sian Slavicki; a companion black board reads 'This plaque is dedicated to the CIT of '96 for their hardwork & inspiration.'",
+      "sources": [
+        "src_flickr_kanawana_plaque_album"
+      ],
+      "confidence": "stated",
+      "category": "programs",
+      "entities": [
+        "Kirk Shannon",
+        "Heidi Shapiro",
+        "Matthew Thomson",
+        "CIT"
+      ],
+      "date_ref": "1996",
+      "conflicts_with": [],
+      "added_version": "v4.90",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_1616",
+      "claim": "A 'CITS of '97' board credits Rick Cordi as 'CIT Director' and names CITs Christine Francis, Justin Francis, Mike Johnston, Jason Bond, Liam O'Neil, Jill Osborne, Chris Owen, Don Patton, and Jesse Tomalty.",
+      "sources": [
+        "src_flickr_kanawana_plaque_album"
+      ],
+      "confidence": "stated",
+      "category": "directors",
+      "entities": [
+        "Rick Cordi",
+        "CIT"
+      ],
+      "date_ref": "1997",
+      "conflicts_with": [],
+      "added_version": "v4.90",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_1617",
+      "claim": "A circular '1st & 2nd Session C.I.T.'s — Bram [and] Marcy — 1998' board names 27 CITs including Sarah Pinchevsky, Sam Carsley, Duc Nguyen, Briana Mackay, Sach Baylin-Stern, Maggie Castle, Andrea Heckler, Matt Busbridge, Marianne Filion, Allison Staton, Clara Bird, Fran Bristow, Marie-France Grandmont, Roxanne Sayegh, Mike Johnson, and Alex Bonebakker.",
+      "sources": [
+        "src_flickr_kanawana_plaque_album"
+      ],
+      "confidence": "stated",
+      "category": "programs",
+      "entities": [
+        "Bram",
+        "Marcy",
+        "CIT"
+      ],
+      "date_ref": "1998",
+      "conflicts_with": [],
+      "added_version": "v4.90",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_1618",
+      "claim": "A 'CITs of 1999' board (3rd & 4th sessions) credits 'Maria E[nglish], Director' and lists 24 CITs by first-name-and-initial, including Ben G., Emma L., Katie K., Kristin J., and Cindy E.",
+      "sources": [
+        "src_flickr_kanawana_plaque_album"
+      ],
+      "confidence": "stated",
+      "category": "directors",
+      "entities": [
+        "Maria English",
+        "CIT"
+      ],
+      "date_ref": "1999",
+      "conflicts_with": [],
+      "added_version": "v4.90",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_1619",
+      "claim": "A '2000 CIT' board credits 'CIT Program Director: Manuel' and 'CIT Director: Maria E[nglish]' and names Dan Shemie, Alyssa Nitsche, Annie Brace, Annie Bodmer, Anne Hughes, Erica Cowan, Mari Santos, Sam Drapeau, Hannah Wilson, Dave Carpenter, Connor O'Neil, Rachel Bond, Robin Wiviot, Jess Goldman, and Bruce Zigman.",
+      "sources": [
+        "src_flickr_kanawana_plaque_album"
+      ],
+      "confidence": "stated",
+      "category": "directors",
+      "entities": [
+        "Maria English",
+        "Dan Shemie",
+        "CIT"
+      ],
+      "date_ref": "2000",
+      "conflicts_with": [],
+      "added_version": "v4.90",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_1620",
+      "claim": "A 'CIT 2000' board (1st + 2nd session) credits 'Director: Maria English' and names Vicki Braide, Caroline Eaves, Valerie Gregory, Heather Jenkins, Allie Smith, Veronica Taylor, Daphne Thivierge, Andrew Lord, Theo Lerikos, and Dat Nguyen.",
+      "sources": [
+        "src_flickr_kanawana_plaque_album"
+      ],
+      "confidence": "stated",
+      "category": "directors",
+      "entities": [
+        "Maria English",
+        "CIT"
+      ],
+      "date_ref": "2000",
+      "conflicts_with": [],
+      "added_version": "v4.90",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_1621",
+      "claim": "A 'CITs 2001' board ('Are you in the loop?') names Andréa Pahl and CITs Julie Brzezinski, Sarah Carsley, Danny Coleman, Alexandra Conners, Stacey Corber, Jessica DiCesare, Victor Garcia, Tommy MacLean, Mitch McLarnon, Ross O'Lochlainn, Clare Pollock, Marc Raymond, Megan Robinson, Erin Savage, Richard Scott, and Jasmine Williams.",
+      "sources": [
+        "src_flickr_kanawana_plaque_album"
+      ],
+      "confidence": "stated",
+      "category": "programs",
+      "entities": [
+        "Andréa Pahl",
+        "CIT"
+      ],
+      "date_ref": "2001",
+      "conflicts_with": [],
+      "added_version": "v4.90",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_1622",
+      "claim": "A 1970 'Kamp Kanawana' board ('TC 70') lists C.I.T.'s Art Hammerschmidt, Bunny Asselman, René Boutet, Nancy McDonald, and Bob Quinn, and J.C.'s Janna Adamson, Bea Attems-Odier, Bob Benson, Michel Duguay, Emmanuel Lepin, Lesley McIntyre, Bill Menzel, Jean Raymond, Patrick Savard, Cliff Warren, and Rick 'Biafra' Wood.",
+      "sources": [
+        "src_flickr_kanawana_plaque_album"
+      ],
+      "confidence": "stated",
+      "category": "programs",
+      "entities": [
+        "Art Hammerschmidt",
+        "Bunny Asselman",
+        "Rick Wood",
+        "CIT",
+        "JC"
+      ],
+      "date_ref": "1970",
+      "conflicts_with": [],
+      "added_version": "v4.90",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_1623",
+      "claim": "A round 'Co-Jokes! 2004' board (2nd & 4th sessions) credits Kevin Coughlin and Matt Held with the motto 'Well we're not hardcore.'",
+      "sources": [
+        "src_flickr_kanawana_plaque_album"
+      ],
+      "confidence": "stated",
+      "category": "programs",
+      "entities": [
+        "Kevin Coughlin",
+        "Matt Held"
+      ],
+      "date_ref": "2004",
+      "conflicts_with": [],
+      "added_version": "v4.90",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_1624",
+      "claim": "A '4th Session Coed Exploratory Trip 1997' board names Trippers Louis Lessard and (Annie) Charoches, and campers Kate Woolhouse, Sarah Pearson, Catherine Silver, and Valerie Scheer, under the caption 'How 'Bout Them Knicks.'",
+      "sources": [
+        "src_flickr_kanawana_plaque_album"
+      ],
+      "confidence": "stated",
+      "category": "canoe_trips",
+      "entities": [
+        "Louis Lessard",
+        "Sarah Pearson",
+        "Catherine Silver"
+      ],
+      "date_ref": "1997",
+      "conflicts_with": [],
+      "added_version": "v4.90",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_1625",
+      "claim": "A banner-shaped board titled 'Councillors Without Portfolio' names Randy Dowling and Phil Howard, dated MCMLXVIII (1968) in Roman numerals.",
+      "sources": [
+        "src_flickr_kanawana_plaque_album"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "Randy Dowling",
+        "Phil Howard"
+      ],
+      "date_ref": "1968",
+      "conflicts_with": [],
+      "added_version": "v4.90",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_1626",
+      "claim": "A canoe paddle visible in the same frame as the 1968 'Councillors Without Portfolio' board, titled 'Kamp Kanawana Canoing Krew', names staff Matthew Lella, Sally Watt, Emily Feldman, Jeff Auss, Scott Awlean, Lois Oak, Gary Lawrence, Jack Bowen, Brian Leonard, Bob Berube, Nancy Fletcher, and Sean Pearson (year not visible on this item).",
+      "sources": [
+        "src_flickr_kanawana_plaque_album"
+      ],
+      "confidence": "stated",
+      "category": "programs",
+      "entities": [
+        "Matthew Lella",
+        "Emily Feldman",
+        "Gary Lawrence"
+      ],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "v4.90",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_1627",
+      "claim": "A bus-shaped wooden board (photographed both as dsc-0587.jpg and, partially, in dsc-0559.jpg; undated, displayed alongside 2008-era boards) names by seating panel: Wally, Edmond, Andrea, Jerry; Ariane Beaudet, Alison Dunn, Eve Escher, Kristina Charles; Julia Klemczynski, Kelsey Brady, Erica Rhinehart, Annick Knox; Matt Hamerman, Matt Stavro, Max Zanis, Julian Freidman, Mark Painter; Eric Jorgenson, Nathan Vanderau; and, on the door panel, Esther Belcourt, Allie Smith, 'T.I.T.' Mitch, Rich McGovern, Dan Shemie; the two wheels are labelled Helena Longpré and Jess Sherman. A companion board above it (visible in the same photo) credits 'S.D. Bex Finnigan Reisler' with the identical Senior Girl Staff 2008 roster documented separately.",
+      "sources": [
+        "src_flickr_kanawana_plaque_album"
+      ],
+      "confidence": "stated",
+      "category": "programs",
+      "entities": [
+        "Matt Hamerman",
+        "Dan Shemie",
+        "Helena Longpré"
+      ],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "v4.90",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_1628",
+      "claim": "A collaged birch-bark scrapbook page names Phil Kaufman, Mike Keane, and Laurence Petitclerc among fragmentary, partly torn/illegible additional names.",
+      "sources": [
+        "src_flickr_kanawana_plaque_album"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "Phil Kaufman",
+        "Mike Keane",
+        "Laurence Petitclerc"
+      ],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "v4.90",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_1629",
+      "claim": "A shelf/bunk label reads 'Evan Frankel'; an adjacent, mostly-cropped board shows a fragmentary cursive name list too degraded to transcribe reliably, with the words 'Australia' and 'England' suggesting international exchange staff.",
+      "sources": [
+        "src_flickr_kanawana_plaque_album"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "Evan Frankel"
+      ],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "v4.90",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_1630",
+      "claim": "An 'Explorer Boys 2008' board (1st Session and '3rd Cabin') names, with moderate confidence, Jacques Leblond-Murphy, Pascal Gaston, Blake Orenstein, and Zebulon Sasseville / Shannon Jones-Golanski.",
+      "sources": [
+        "src_flickr_kanawana_plaque_album"
+      ],
+      "confidence": "stated",
+      "category": "programs",
+      "entities": [
+        "Jacques Leblond-Murphy",
+        "Explorer Boys"
+      ],
+      "date_ref": "2008",
+      "conflicts_with": [],
+      "added_version": "v4.90",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_1631",
+      "claim": "An 'Explorer Girls 2008' board, divided into four sessions, names 1st-session campers Naomi Pastrana, Enya Léger, Anna McGaughey, and Tammy Bernstein ('J.G.C.'s'); 3rd-session campers Sasha Jones, Shannon Black, Emmanuelle Leblanc, and L.I.T. Laura Morrissey; and 4th-session campers including Michelle Chamandy-Cook, with mottos 'Kanawana: Peace & lots of food' and 'J.A.M.E.N.D.A.T.'s UNITE!'.",
+      "sources": [
+        "src_flickr_kanawana_plaque_album"
+      ],
+      "confidence": "stated",
+      "category": "programs",
+      "entities": [
+        "Tammy Bernstein",
+        "Sasha Jones",
+        "Explorer Girls"
+      ],
+      "date_ref": "2008",
+      "conflicts_with": [],
+      "added_version": "v4.90",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_1632",
+      "claim": "A round carved board titled 'From Coast to Coast' bears the carved inscriptions 'We are together' and 'Thanks Kanawana!' with a signature reading approximately 'Bradley Traeger, 1982' beside a painted orca.",
+      "sources": [
+        "src_flickr_kanawana_plaque_album"
+      ],
+      "confidence": "stated",
+      "category": "canoe_trips",
+      "entities": [
+        "Bradley Traeger"
+      ],
+      "date_ref": "1982",
+      "conflicts_with": [],
+      "added_version": "v4.90",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_1633",
+      "claim": "A 'JBC 2007' board names S.D. Durga Chew-Bose alongside Johnny Nagles, Cameron Stiff, Mauricio Martinez, Jeff Hamilton, Sam Trowbridge, Mike Raymond, Jeff Riley, Zack Brzezinski, Ryan Prussin, Austin Zaloum, Russel Goldberg, Jacques L-Murphy, Maya Anders, Andrew Rankin, Kevin Gauley, and Phil Yeatman.",
+      "sources": [
+        "src_flickr_kanawana_plaque_album"
+      ],
+      "confidence": "stated",
+      "category": "directors",
+      "entities": [
+        "Durga Chew-Bose",
+        "JBC"
+      ],
+      "date_ref": "2007",
+      "conflicts_with": [],
+      "added_version": "v4.90",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_1634",
+      "claim": "A circular 1965 'JC' board (monogrammed 'JC 65') carves names in a ring around a central lamp icon; individual tokens recovered include John, Owen, Peter, Hassall, Sved, Glenn, Hector, David, Harding, Kent, Roberts, and Menzies, though the circular layout makes confident first/last-name pairing impossible from the photograph alone.",
+      "sources": [
+        "src_flickr_kanawana_plaque_album"
+      ],
+      "confidence": "stated",
+      "category": "programs",
+      "entities": [
+        "JC"
+      ],
+      "date_ref": "1965",
+      "conflicts_with": [],
+      "added_version": "v4.90",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_1635",
+      "claim": "A 'JC Girls 2007!' board ('The 1st Ladies of the Barracks') names Caitlin Booth, Melissa Sukosd, Cassia Napier, Joanna Weil, Ariel McGeary, Kyla Mandel, Danielle Lands, Casey Wittman, Tammy Bernstein, and Sam Moorcroft.",
+      "sources": [
+        "src_flickr_kanawana_plaque_album"
+      ],
+      "confidence": "stated",
+      "category": "programs",
+      "entities": [
+        "Caitlin Booth",
+        "Ariel McGeary",
+        "Casey Wittman",
+        "Tammy Bernstein",
+        "JC Girls"
+      ],
+      "date_ref": "2007",
+      "conflicts_with": [],
+      "added_version": "v4.90",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_1636",
+      "claim": "A 'Jr. Hiking Trip '96, Cabin 7' board (captioned 'Operation Desert Heat') credits writer Danielle Denomy and names campers Jesse Sillars, Peter Trabonka, Justin Lee, and Jason Paskal.",
+      "sources": [
+        "src_flickr_kanawana_plaque_album"
+      ],
+      "confidence": "stated",
+      "category": "programs",
+      "entities": [
+        "Danielle Denomy"
+      ],
+      "date_ref": "1996",
+      "conflicts_with": [],
+      "added_version": "v4.90",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_1637",
+      "claim": "A 'Little Boy Bluez, 1st Sess. '95, Cabin 7' board names Thomas Bracken, Michael Bracken, Andy Pitre, 'Nacho' Quiñones, J.B.C. Michael Farkas, Toban Harding, Pablo 'Chick' Durana, Pat d'Vespa, and C.I.T. J.M. Sotiran.",
+      "sources": [
+        "src_flickr_kanawana_plaque_album"
+      ],
+      "confidence": "stated",
+      "category": "programs",
+      "entities": [
+        "Michael Farkas",
+        "J.M. Sotiran",
+        "Cabin 7"
+      ],
+      "date_ref": "1995",
+      "conflicts_with": [],
+      "added_version": "v4.90",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_1638",
+      "claim": "A 'JBC's 2003' board explicitly names a leadership hierarchy — 'Camp Director: Morgan; Assistant Director: Marc; Chief: Dave; Section Directors: Matt, Laurie' — with counsellors Sam L., Dean P., Sam W., Marc R., and George W.",
+      "sources": [
+        "src_flickr_kanawana_plaque_album"
+      ],
+      "confidence": "stated",
+      "category": "directors",
+      "entities": [
+        "Morgan",
+        "Marc",
+        "Dave",
+        "Matt",
+        "Laurie",
+        "JBC"
+      ],
+      "date_ref": "2003",
+      "conflicts_with": [],
+      "added_version": "v4.90",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_1639",
+      "claim": "A '2009' junior-counsellors board (large cut-out letters 'JC') names Sydney Hassan, Liam Moore, Luisa DesArmas, Ben Beland, Laura Morrison, Chloe Nagels, Emily Morgan, Brittany Ng, Clare Mintzer, Kayla Patton, Guillermo Zamora, Erick Gonzalez, Guim Gonzalez Lleal, and Caroline DeTomasso.",
+      "sources": [
+        "src_flickr_kanawana_plaque_album"
+      ],
+      "confidence": "stated",
+      "category": "programs",
+      "entities": [
+        "Laura Morrison",
+        "Emily Morgan",
+        "Clare Mintzer",
+        "JC"
+      ],
+      "date_ref": "2009",
+      "conflicts_with": [],
+      "added_version": "v4.90",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_1640",
+      "claim": "A 'Junior Girls 1992' board (carved on a natural wood slab) names only first names: Michelle, Shannon, Laurie, Carolyn, Sacha, Paula, and Cassie.",
+      "sources": [
+        "src_flickr_kanawana_plaque_album"
+      ],
+      "confidence": "stated",
+      "category": "programs",
+      "entities": [
+        "Junior Girls"
+      ],
+      "date_ref": "1992",
+      "conflicts_with": [],
+      "added_version": "v4.90",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_1641",
+      "claim": "A 'Kathy's Koolest Kanawana Kids' board (dated 'Aug '89') names Cathy, Leah, Allison, Leigh, Kelsey, Emily, and Carly (first names only).",
+      "sources": [
+        "src_flickr_kanawana_plaque_album"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "Kathy"
+      ],
+      "date_ref": "1989-08",
+      "conflicts_with": [],
+      "added_version": "v4.90",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_1642",
+      "claim": "A '1st Place, Kanawana Rounds 2008, Team Andvan' paddle credits winners Emma Anders and Evan Frankel with a time of 28:45.",
+      "sources": [
+        "src_flickr_kanawana_plaque_album"
+      ],
+      "confidence": "stated",
+      "category": "programs",
+      "entities": [
+        "Emma Anders",
+        "Evan Frankel",
+        "Kanawana Rounds"
+      ],
+      "date_ref": "2008",
+      "conflicts_with": [],
+      "added_version": "v4.90",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_1643",
+      "claim": "A guitar-pick-shaped 'Kanawoodstock' board (2000) names Justin Francis, Matt Busbridge, Gareth Potter, and Alex Bonebakker, captioned 'I Want to Rock & Roll All Nite.'",
+      "sources": [
+        "src_flickr_kanawana_plaque_album"
+      ],
+      "confidence": "stated",
+      "category": "traditions",
+      "entities": [
+        "Justin Francis",
+        "Matt Busbridge",
+        "Kanawoodstock"
+      ],
+      "date_ref": "2000",
+      "conflicts_with": [],
+      "added_version": "v4.90",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_1644",
+      "claim": "A drum-head 'KKanawoodstock 09' ('Anarchy in the KK') is signed by Liam Moore, Tom Kirk, Berry Herrmann, Adam Black, Caroline D.T., and Guillaume.",
+      "sources": [
+        "src_flickr_kanawana_plaque_album"
+      ],
+      "confidence": "stated",
+      "category": "traditions",
+      "entities": [
+        "Liam Moore",
+        "Kanawoodstock"
+      ],
+      "date_ref": "2009",
+      "conflicts_with": [],
+      "added_version": "v4.90",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_1645",
+      "claim": "A guitar-shaped 'Kanawoodstock' board (year rendered ambiguously, possibly 1993 or 1995) carries no name list, only the title/year.",
+      "sources": [
+        "src_flickr_kanawana_plaque_album"
+      ],
+      "confidence": "stated",
+      "category": "traditions",
+      "entities": [
+        "Kanawoodstock"
+      ],
+      "date_ref": "1995",
+      "conflicts_with": [],
+      "added_version": "v4.90",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_1646",
+      "claim": "A canoe-paddle blade titled 'Kamp Kanawana Kanoing Krew — 1983 Canoe Staff' names Matthew Lella, Sally Wafi, Emily Feldman, Jeff Muss, Scott McLeod, Lindsay Kertland, Gary Lawrence, Mark Boghen, Simon Leonard, Shig Shimura, Nancy Sleicher, and Jean Perron.",
+      "sources": [
+        "src_flickr_kanawana_plaque_album"
+      ],
+      "confidence": "stated",
+      "category": "staff",
+      "entities": [
+        "Matthew Lella",
+        "Emily Feldman",
+        "Jeff Muss",
+        "Lindsay Kertland",
+        "Gary Lawrence",
+        "Jean Perron"
+      ],
+      "date_ref": "1983",
+      "conflicts_with": [],
+      "added_version": "v4.90",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_1647",
+      "claim": "A 'Kamp Kanawana YMCA Kitchen Staff' board for 1963 names no individuals, but a small attached tag reads 'Kamp Kanawana Volleyball Champs' (text otherwise faint).",
+      "sources": [
+        "src_flickr_kanawana_plaque_album"
+      ],
+      "confidence": "stated",
+      "category": "staff",
+      "entities": [
+        "Kitchen Staff"
+      ],
+      "date_ref": "1963",
+      "conflicts_with": [],
+      "added_version": "v4.90",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_1648",
+      "claim": "A moose-antler 'La Verendrye '59' board (naming a section called 'The Cawasachouanes') names John Rothschild, [L/D]on Brown, Ron Blofield, 'Wee Willie' Trotter, and Dick Evans.",
+      "sources": [
+        "src_flickr_kanawana_plaque_album"
+      ],
+      "confidence": "stated",
+      "category": "programs",
+      "entities": [
+        "John Rothschild",
+        "Dick Evans",
+        "La Vérendrye"
+      ],
+      "date_ref": "1959",
+      "conflicts_with": [],
+      "added_version": "v4.90",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_1649",
+      "claim": "A 'Last Trip of 2000 — Co-Ed Mali-Chopsy' board names sixteen participants each with a bracketed nickname, including Annik 'Mother' Belanger-Krays, Natasha 'Gizmo' Cichanowicz, Sara 'Suzy' Gamberg, Matt 'Mr Peanuts' Hamerman, and Hannah 'El Desastre' Kingsley, under the motto 'For the glory of the empire!!'.",
+      "sources": [
+        "src_flickr_kanawana_plaque_album"
+      ],
+      "confidence": "stated",
+      "category": "canoe_trips",
+      "entities": [
+        "Sara Gamberg",
+        "Matt Hamerman",
+        "Hannah Kingsley",
+        "Chopsy"
+      ],
+      "date_ref": "2000",
+      "conflicts_with": [],
+      "added_version": "v4.90",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_1650",
+      "claim": "A 'LIT 2002' board credits Directors Avigail Aronoff and David Leduc, and lists 19 LITs including Adam Baylin-Stern, Mike Cantono, Matt Hamerman, David Kaufman, and Leah Williams, plus Trippers Helena Longpré and Jon Mee.",
+      "sources": [
+        "src_flickr_kanawana_plaque_album"
+      ],
+      "confidence": "stated",
+      "category": "directors",
+      "entities": [
+        "Avigail Aronoff",
+        "David Leduc",
+        "Helena Longpré",
+        "LIT"
+      ],
+      "date_ref": "2002",
+      "conflicts_with": [],
+      "added_version": "v4.90",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_1651",
+      "claim": "A round 'Leaders in Training of Summer 2008' board names Carlos Azofra, Ben Seland, Sarah Berger, Raven Cook, Maude David, Caroline Di Tommaso, Max Feist, Alec Henderson, Clare Mintzer, Emily Morgan, Laura Morrison, Kayla Patton, Dave Polsky, and Jon Reisler.",
+      "sources": [
+        "src_flickr_kanawana_plaque_album"
+      ],
+      "confidence": "stated",
+      "category": "programs",
+      "entities": [
+        "Clare Mintzer",
+        "Emily Morgan",
+        "Laura Morrison",
+        "LIT"
+      ],
+      "date_ref": "2008",
+      "conflicts_with": [],
+      "added_version": "v4.90",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_1652",
+      "claim": "A 'Road House 2010 LIT's' board names Kristen Caine, Adriana Casado, Anna Kirk, Jess McLaughlin, and Julia Fraquelli, with the motto 'We don't have any inside jokes yet.'",
+      "sources": [
+        "src_flickr_kanawana_plaque_album"
+      ],
+      "confidence": "stated",
+      "category": "programs",
+      "entities": [
+        "Kristen Caine",
+        "Julia Fraquelli",
+        "LIT"
+      ],
+      "date_ref": "2010",
+      "conflicts_with": [],
+      "added_version": "v4.90",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_1653",
+      "claim": "A 'Lookout, 4th Session, A Bedtime Story' board (2010) names counsellor Amy Zeidel and campers Christina Kaminski, Tessa Dixon, Lily Foris, Lana Hill, Sam Rudy, Manon Griffin, Xana Bohbot, and Emma Copeman, with LITs Evan Frenkel and Arielle Sholzberg.",
+      "sources": [
+        "src_flickr_kanawana_plaque_album"
+      ],
+      "confidence": "stated",
+      "category": "programs",
+      "entities": [
+        "Amy Zeidel",
+        "Evan Frenkel",
+        "Arielle Sholzberg",
+        "Lookout"
+      ],
+      "date_ref": "2010",
+      "conflicts_with": [],
+      "added_version": "v4.90",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_1654",
+      "claim": "A rainbow-striped board ('Roseann & Sophie's tent — Lookout, 3rd Session '98 — Canoe Trip') names CIT Dan Braidwood and campers Caitlin Reid, Joey Little, Ashley Mullin, Aisling O'Gorman, Cindy Eason, Katie A-Frankel, Maddie Nerenberg, and Anna-Tina Eberhard.",
+      "sources": [
+        "src_flickr_kanawana_plaque_album"
+      ],
+      "confidence": "stated",
+      "category": "canoe_trips",
+      "entities": [
+        "Dan Braidwood",
+        "Lookout"
+      ],
+      "date_ref": "1998",
+      "conflicts_with": [],
+      "added_version": "v4.90",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_1655",
+      "claim": "A carved 'Kamp Kanawana' plaque (1997) names Claude Beaulieu, Jacques Hudson, Luc Beaulne, and Hugo Proulx (filename indicates a maintenance crew, though that word does not itself appear on the board).",
+      "sources": [
+        "src_flickr_kanawana_plaque_album"
+      ],
+      "confidence": "stated",
+      "category": "staff",
+      "entities": [
+        "Claude Beaulieu",
+        "Jacques Hudson",
+        "Luc Beaulne",
+        "Hugo Proulx"
+      ],
+      "date_ref": "1997",
+      "conflicts_with": [],
+      "added_version": "v4.90",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_1656",
+      "claim": "A carved wood tray (1999) names only 'Claude' — likely the same Claude Beaulieu named on the adjacent 1997 maintenance-crew board.",
+      "sources": [
+        "src_flickr_kanawana_plaque_album"
+      ],
+      "confidence": "stated",
+      "category": "staff",
+      "entities": [
+        "Claude"
+      ],
+      "date_ref": "1999",
+      "conflicts_with": [],
+      "added_version": "v4.90",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_1657",
+      "claim": "A diamond board ('God Bless Our Mess — Male C.I.T.'s '83') names Avi Belinsky, Gordon Weinstein, Peter Snelling, Peter Harries, John Morgan, Chris Clarke, Steve Henle, and David Glen.",
+      "sources": [
+        "src_flickr_kanawana_plaque_album"
+      ],
+      "confidence": "stated",
+      "category": "programs",
+      "entities": [
+        "Avi Belinsky",
+        "Gordon Weinstein",
+        "Peter Harries",
+        "CIT"
+      ],
+      "date_ref": "1983",
+      "conflicts_with": [],
+      "added_version": "v4.90",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_1658",
+      "claim": "A 'Malibu, Hil's Tent '97, 1st session' board (beach-themed) names counsellor Hilary Thomson and campers Juliana Bennett, Erin Corber, Kristin Johnston, Rachael Legg-Goldman, Zyanna O'Connell, and Debbie Veinish.",
+      "sources": [
+        "src_flickr_kanawana_plaque_album"
+      ],
+      "confidence": "stated",
+      "category": "programs",
+      "entities": [
+        "Hilary Thomson",
+        "Malibu"
+      ],
+      "date_ref": "1997",
+      "conflicts_with": [],
+      "added_version": "v4.90",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_1659",
+      "claim": "A 'Malibu Trip '06' board names Julia Durham, Carly Elliott, Olivia Kelner, Sybil G.-Stock, Ryland Jacob-Louis, Jess Dobrinski, and Sara Held.",
+      "sources": [
+        "src_flickr_kanawana_plaque_album"
+      ],
+      "confidence": "stated",
+      "category": "canoe_trips",
+      "entities": [
+        "Malibu"
+      ],
+      "date_ref": "2006",
+      "conflicts_with": [],
+      "added_version": "v4.90",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_1660",
+      "claim": "A red canoe-cutout board ('2nd Session Malibu Trip 2001') names, with reduced confidence due to physical obstruction by mounted cables, Beverly Kostela and Catherine Labonte among others.",
+      "sources": [
+        "src_flickr_kanawana_plaque_album"
+      ],
+      "confidence": "stated",
+      "category": "canoe_trips",
+      "entities": [
+        "Malibu"
+      ],
+      "date_ref": "2001",
+      "conflicts_with": [],
+      "added_version": "v4.90",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_1661",
+      "claim": "A board titled 'Members of the Pig Pen' (1982) names Scott MacLeod, Peter Watt, Tim O'Shaughnessy, Tim Fletcher, Stewart Gandal, Andrew Tencer, and Craig Gillett.",
+      "sources": [
+        "src_flickr_kanawana_plaque_album"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "Scott MacLeod",
+        "Peter Watt",
+        "Tim O'Shaughnessy",
+        "Tim Fletcher",
+        "Andrew Tencer"
+      ],
+      "date_ref": "1982",
+      "conflicts_with": [],
+      "added_version": "v4.90",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_1662",
+      "claim": "A canoe-paddle board titled 'Montreal to New York 1946' marks a multi-year sequence of years (1947-1954) painted down its edge, evidencing a recurring Montreal-to-New-York canoe trip through the late 1940s and early 1950s; an adjacent (partly cropped) board names participants John Cleghorn, Dick Clements, Fred Cowie, and others whose first names are cut from frame.",
+      "sources": [
+        "src_flickr_kanawana_plaque_album"
+      ],
+      "confidence": "stated",
+      "category": "canoe_trips",
+      "entities": [
+        "John Cleghorn",
+        "Dick Clements",
+        "Fred Cowie"
+      ],
+      "date_ref": "1946-1954",
+      "conflicts_with": [],
+      "added_version": "v4.90",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_1663",
+      "claim": "A bird-shaped board reads only 'Nature Trip 1994' with no names.",
+      "sources": [
+        "src_flickr_kanawana_plaque_album"
+      ],
+      "confidence": "stated",
+      "category": "programs",
+      "entities": [
+        "Nature Trip"
+      ],
+      "date_ref": "1994",
+      "conflicts_with": [],
+      "added_version": "v4.90",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_1664",
+      "claim": "A tree-shaped 'Nature Trip 2003' board (small tags marked 'Lac Pearson') names Elissa Sukosd, Isabelle Silverstone, Joanna Bateman, Sara Held, and Zacharie Tsantrizos among partly-illegible additional names.",
+      "sources": [
+        "src_flickr_kanawana_plaque_album"
+      ],
+      "confidence": "stated",
+      "category": "canoe_trips",
+      "entities": [
+        "Isabelle Silverstone",
+        "Joanna Bateman",
+        "Nature Trip"
+      ],
+      "date_ref": "2003",
+      "conflicts_with": [],
+      "added_version": "v4.90",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_1665",
+      "claim": "A 'New Deck' board (paired with a 'LAV Trip Toilette, 3rd, 2007' arrow sign) names nine staff/campers by nickname-plus-initials only: Drew 'Squirt' K.D., Danny 'Spanish Connection', Jon R. & Rob L. ('The Ambiguous Duo'), J-M 'Methane Man' B., Scotty 'The Engineer' H.H., Dylan 'Just' O., Myland 'Dr Pepper' G.L., Ian B., and Mark C.C.",
+      "sources": [
+        "src_flickr_kanawana_plaque_album"
+      ],
+      "confidence": "stated",
+      "category": "programs",
+      "entities": [
+        "New Deck"
+      ],
+      "date_ref": "2007",
+      "conflicts_with": [],
+      "added_version": "v4.90",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_1666",
+      "claim": "A '1st Place, Kanawana Rounds 2008, Team Andvan' paddle (Emma Anders, Evan Frankel, time 28:45) is photographed alongside an orange 'Pathfinder Section' paddle whose own small, low-contrast name list could not be transcribed with confidence.",
+      "sources": [
+        "src_flickr_kanawana_plaque_album"
+      ],
+      "confidence": "stated",
+      "category": "programs",
+      "entities": [
+        "Emma Anders",
+        "Evan Frankel",
+        "Pathfinder"
+      ],
+      "date_ref": "2008",
+      "conflicts_with": [],
+      "added_version": "v4.90",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_1667",
+      "claim": "A small birdhouse-shaped 'Pink Flamingo' board is painted with the year 2000, not 2010 as its filename suggests, and carries no name list.",
+      "sources": [
+        "src_flickr_kanawana_plaque_album"
+      ],
+      "confidence": "stated",
+      "category": "programs",
+      "entities": [
+        "Pink Flamingo"
+      ],
+      "date_ref": "2000",
+      "conflicts_with": [],
+      "added_version": "v4.90",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_1668",
+      "claim": "A bullseye/target-shaped 'Pink Flam Trip '07' board names campers abbreviated as Sabri G-B, Cass. C, Kat. L, M-Claude. B, Chloé K., and Dani L.",
+      "sources": [
+        "src_flickr_kanawana_plaque_album"
+      ],
+      "confidence": "stated",
+      "category": "canoe_trips",
+      "entities": [
+        "Pink Flamingo"
+      ],
+      "date_ref": "2007",
+      "conflicts_with": [],
+      "added_version": "v4.90",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_1669",
+      "claim": "A 'Rangers' board for 1955 names Ian Fincham, Len Heitin, Ron Albert, Dave Taylor, Keith Lewis, Rip Gauthier, and Ben Hannan (bottom edge obscured, possibly cropping further names).",
+      "sources": [
+        "src_flickr_kanawana_plaque_album"
+      ],
+      "confidence": "stated",
+      "category": "programs",
+      "entities": [
+        "Ian Fincham",
+        "Ben Hannan",
+        "Rangers"
+      ],
+      "date_ref": "1955",
+      "conflicts_with": [],
+      "added_version": "v4.90",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_1670",
+      "claim": "A 'Rangers' board for 1956 names John Bradley, Bob Brown, Frank Carpenter, Dave Chown, John Cleghorn, Dick Clements, Fred Cowie, Fred Lerner, Bill McNeil, Pete Newman, Al Whittall, and Ben Hannan.",
+      "sources": [
+        "src_flickr_kanawana_plaque_album"
+      ],
+      "confidence": "stated",
+      "category": "programs",
+      "entities": [
+        "John Cleghorn",
+        "Dick Clements",
+        "Fred Cowie",
+        "Ben Hannan",
+        "Rangers"
+      ],
+      "date_ref": "1956",
+      "conflicts_with": [],
+      "added_version": "v4.90",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_1671",
+      "claim": "A '1959 Rangers' board names co-ordinator John Lummis (a second co-ordinator's name is obscured) and campers Steve Greig, Mark Latour, Bob Mutch, Ken Peets, Chris Robb, Tom Snabl, Fred Warren, Bill Webster, and Dave Weightman.",
+      "sources": [
+        "src_flickr_kanawana_plaque_album"
+      ],
+      "confidence": "stated",
+      "category": "programs",
+      "entities": [
+        "John Lummis",
+        "Rangers"
+      ],
+      "date_ref": "1959",
+      "conflicts_with": [],
+      "added_version": "v4.90",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_1672",
+      "claim": "A 'Rangers 1960' board names Keith Lewis, George Burman, Eric Roberts, Peter Marosi, Peter Henderson, Anthony Blair, Pete Bogaty, John Hack, and Jeff Goodman.",
+      "sources": [
+        "src_flickr_kanawana_plaque_album"
+      ],
+      "confidence": "stated",
+      "category": "programs",
+      "entities": [
+        "Keith Lewis",
+        "Rangers"
+      ],
+      "date_ref": "1960",
+      "conflicts_with": [],
+      "added_version": "v4.90",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_1673",
+      "claim": "A 'Rangers '61' board (with a 'Leadership' shield and paddle/axe icons) names, with reduced confidence due to small painted lettering, Hugh Dow, Bob Harris, Stu Rogers, and several further names painted onto falling-bomb shapes.",
+      "sources": [
+        "src_flickr_kanawana_plaque_album"
+      ],
+      "confidence": "stated",
+      "category": "programs",
+      "entities": [
+        "Hugh Dow",
+        "Rangers"
+      ],
+      "date_ref": "1961",
+      "conflicts_with": [],
+      "added_version": "v4.90",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_1674",
+      "claim": "A 'Rangers 62' board names campers by nickname: 'Reptile' Ron Chapman, 'Absess' Andy Elliot, 'Jamjar' John Robinson, 'Tongue' Gary Peate, 'Squeeks' Ken Warren, 'Mouth' Chris Clark, John 'Moose' Morse, and 'Sunset' Ron Parker.",
+      "sources": [
+        "src_flickr_kanawana_plaque_album"
+      ],
+      "confidence": "stated",
+      "category": "programs",
+      "entities": [
+        "Ron Chapman",
+        "Andy Elliot",
+        "John Robinson",
+        "Rangers"
+      ],
+      "date_ref": "1962",
+      "conflicts_with": [],
+      "added_version": "v4.90",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_1675",
+      "claim": "A 'Rangers 63' board (red ribbons) names Howard 'Howie' Burman, Larry 'A' Dennis, Peter 'Hass' Hassall, Jim 'Bibby' Kitto, Wayne Major, Pete Ratcheous, Steve Spatariu, and Dietrich Woshie.",
+      "sources": [
+        "src_flickr_kanawana_plaque_album"
+      ],
+      "confidence": "stated",
+      "category": "programs",
+      "entities": [
+        "Howard Burman",
+        "Peter Hassall",
+        "Rangers"
+      ],
+      "date_ref": "1963",
+      "conflicts_with": [],
+      "added_version": "v4.90",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_1676",
+      "claim": "A 'Rangers' paddle (1964) names Dave Biron, Wayne Fellows, Don Marston, Richard 'Gizmo' Guimont, and John D. 'JJ' Jerome; a separate wall plaque visible nearby reads 'Kamp Kanawana 1994' (unrelated to this paddle).",
+      "sources": [
+        "src_flickr_kanawana_plaque_album"
+      ],
+      "confidence": "stated",
+      "category": "programs",
+      "entities": [
+        "Dave Biron",
+        "Don Marston",
+        "Rangers"
+      ],
+      "date_ref": "1964",
+      "conflicts_with": [],
+      "added_version": "v4.90",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_1677",
+      "claim": "A 'Rangers 2002' board names co-ordinators Louis Lessard and Héléna Longpré, and campers Hannah Shizgal-Paris, Alexandra Olshefsky, Ian Braide, Andrew Paré, Alexandre Lebrun, Katie Smith, Matthew Held, and Jasmine Carrier, under the motto 'Leadership – Knowledge – Respect – Trust – Tradition.'",
+      "sources": [
+        "src_flickr_kanawana_plaque_album"
+      ],
+      "confidence": "stated",
+      "category": "directors",
+      "entities": [
+        "Louis Lessard",
+        "Héléna Longpré",
+        "Rangers"
+      ],
+      "date_ref": "2002",
+      "conflicts_with": [],
+      "added_version": "v4.90",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_1678",
+      "claim": "A 'Rangers '03' board names co-ordinators François Goulet-Lessard and [-] Tanguy, and campers Caitlin Healy, Laurence Petitclerc, Frédéric Beaudoin, Nicolas Capony, and Éric Cho.",
+      "sources": [
+        "src_flickr_kanawana_plaque_album"
+      ],
+      "confidence": "stated",
+      "category": "directors",
+      "entities": [
+        "François Goulet-Lessard",
+        "Rangers"
+      ],
+      "date_ref": "2003",
+      "conflicts_with": [],
+      "added_version": "v4.90",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_1679",
+      "claim": "A 'Rangers 2004' board names 'Masters' Jen Kaufman and Liz Kolinski, and campers Taylor Vrieze, Alex Krivicky, Jo Lazarus, and Franco E. Bourhis.",
+      "sources": [
+        "src_flickr_kanawana_plaque_album"
+      ],
+      "confidence": "stated",
+      "category": "directors",
+      "entities": [
+        "Jen Kaufman",
+        "Liz Kolinski",
+        "Rangers"
+      ],
+      "date_ref": "2004",
+      "conflicts_with": [],
+      "added_version": "v4.90",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_1680",
+      "claim": "A 'Rangers Featuring' canoe paddle (2005) names 'Masters' Julian Dobie, Hannah S-Paris, and Matt Iviott, and campers Pablo Aguilar, Pierre McCarthy, Julian Cooper, and Tom 'Tigersnake' Guilbert.",
+      "sources": [
+        "src_flickr_kanawana_plaque_album"
+      ],
+      "confidence": "stated",
+      "category": "directors",
+      "entities": [
+        "Julian Dobie",
+        "Rangers"
+      ],
+      "date_ref": "2005",
+      "conflicts_with": [],
+      "added_version": "v4.90",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_1681",
+      "claim": "A small birdhouse-shaped 'PF' board (undated, no year despite its filename) names first names/nicknames Julie, Megan, Jess, Jasmine, Maria, Laura, Miriam, Nat, and Anna.",
+      "sources": [
+        "src_flickr_kanawana_plaque_album"
+      ],
+      "confidence": "stated",
+      "category": "programs",
+      "entities": [
+        "Pink Flamingo"
+      ],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "v4.90",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_1682",
+      "claim": "A 'Roadhouse, 4th Session 2007' board names counsellor Nika Hodson and campers, each with a nickname, Lily 'i'm sorry' Foris, Michele 'i can't do it' Tebeka, Christina 'jellybean' Kaminski, Courteney 'keeps talking' Riley, Arielle 'keeps singing' Sholzberg, Chelsea 'right?' Pringle-Duchemin, Tessa 'it's all good' Dixon, Manon 'the british kid' Griffin, and L.I.T. Bianca Pungartnik.",
+      "sources": [
+        "src_flickr_kanawana_plaque_album"
+      ],
+      "confidence": "stated",
+      "category": "programs",
+      "entities": [
+        "Nika Hodson",
+        "Arielle Sholzberg",
+        "Roadhouse"
+      ],
+      "date_ref": "2007",
+      "conflicts_with": [],
+      "added_version": "v4.90",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_1683",
+      "claim": "A 'Rock Tent' board ('2nd session 2008') names guest 'SD Jesse' and campers T.R. Strauss, Charles-Antoine Prowerskier, Eric Champoux, Golan Frodo, Sam Champagne, and Warren G, captioned 'Yeeeah Boi!!!'.",
+      "sources": [
+        "src_flickr_kanawana_plaque_album"
+      ],
+      "confidence": "stated",
+      "category": "programs",
+      "entities": [
+        "Sam Champagne",
+        "Rock Tent"
+      ],
+      "date_ref": "2008",
+      "conflicts_with": [],
+      "added_version": "v4.90",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_1684",
+      "claim": "A 'Rock Tent, 3rd Session '08' board names 'Therapist' Brian and campers T.R. Strauss, D'Arcy, Félix, Frank, Justin, and JJ.",
+      "sources": [
+        "src_flickr_kanawana_plaque_album"
+      ],
+      "confidence": "stated",
+      "category": "programs",
+      "entities": [
+        "Rock Tent"
+      ],
+      "date_ref": "2008",
+      "conflicts_with": [],
+      "added_version": "v4.90",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_1685",
+      "claim": "A 'Sailing Staff of 85' board (with a verse signed 'Fred Rogers') names, each with a bracketed nickname, Scott 'Gumby' MacLeod, Ian 'Mau-Mau' Cleghorn, Mike 'Mr. R' Bishop, Rob 'Bambi' Bassett, Steve 'Beauty' Henle, Peter 'Opie' Harries, and Brad 'Conducter' Tagieff.",
+      "sources": [
+        "src_flickr_kanawana_plaque_album"
+      ],
+      "confidence": "stated",
+      "category": "staff",
+      "entities": [
+        "Scott MacLeod",
+        "Ian Cleghorn",
+        "Mike Bishop",
+        "Peter Harries",
+        "Sailing"
+      ],
+      "date_ref": "1985",
+      "conflicts_with": [],
+      "added_version": "v4.90",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_1686",
+      "claim": "A 'C. de B. Tent #1, Canoe Trip 1975' board names Chris Gordon, Michael Sakal, Adam Steinhouse, Scott Whitehouse, John Wylie, Burke Lawrence, and Stephen Reizes.",
+      "sources": [
+        "src_flickr_kanawana_plaque_album"
+      ],
+      "confidence": "stated",
+      "category": "canoe_trips",
+      "entities": [
+        "Burke Lawrence",
+        "Stephen Reizes"
+      ],
+      "date_ref": "1975",
+      "conflicts_with": [],
+      "added_version": "v4.90",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_1687",
+      "claim": "A 'Suez Bridge, Senior Boys '87' board carries only a title/location marker with no name list, its paint heavily worn.",
+      "sources": [
+        "src_flickr_kanawana_plaque_album"
+      ],
+      "confidence": "stated",
+      "category": "canoe_trips",
+      "entities": [
+        "Senior Boys"
+      ],
+      "date_ref": "1987",
+      "conflicts_with": [],
+      "added_version": "v4.90",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_1688",
+      "claim": "A 'Senior Boys Sanctum' board (2007, 'S.D. Matt Hamerman') names Matt Foster, Toby Holland, David Kaufman, Mike Moran, Andy Weil, Ian Braide, Sam Trowbridge, Zander Smith, Ryan Prussin, Kevin Gauley, Mike Raymond, and Andrew Rankin, captioned 'May the Sanctum R.I.P.'.",
+      "sources": [
+        "src_flickr_kanawana_plaque_album"
+      ],
+      "confidence": "stated",
+      "category": "directors",
+      "entities": [
+        "Matt Hamerman",
+        "David Kaufman",
+        "Senior Boys"
+      ],
+      "date_ref": "2007",
+      "conflicts_with": [],
+      "added_version": "v4.90",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_1689",
+      "claim": "A 'The #1 Trip of '82' board (a painted map of Lac des Sept Frères, Lac Montjoie, Lac Bruchési, and Lac Saint-Denis) names Jean Perron (C.I.T.), Graham Scammells (2nd Staff), James LeGallais (Tripper), and campers Mark 'Junior' Berlow, Eyal Artzy, Andrew Schinasi, Jamie Mount, Jullian 'Bubba' Wilson, and Mike Zeltzer.",
+      "sources": [
+        "src_flickr_kanawana_plaque_album"
+      ],
+      "confidence": "stated",
+      "category": "canoe_trips",
+      "entities": [
+        "Jean Perron",
+        "Graham Scammells",
+        "James LeGallais"
+      ],
+      "date_ref": "1982",
+      "conflicts_with": [],
+      "added_version": "v4.90",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_1690",
+      "claim": "A 'Rock & New Deck, Rivière Rouge 2007 Trip' board names counsellors Matt Foster and Mike Moran, Trippers Tom Guilbert and Vanessa Blais-Tremblay, and camper Patrick Raymond and Chris Ware among many lower-confidence names.",
+      "sources": [
+        "src_flickr_kanawana_plaque_album"
+      ],
+      "confidence": "stated",
+      "category": "canoe_trips",
+      "entities": [
+        "Matt Foster",
+        "Mike Moran",
+        "Tom Guilbert",
+        "Rivière Rouge"
+      ],
+      "date_ref": "2007",
+      "conflicts_with": [],
+      "added_version": "v4.90",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_1691",
+      "claim": "A 'Yak Trip '09' board (1st session) names counsellor Nick Zarins and campers Alex Laporte, Noah Bennett, listing a weekly routine including 'Yak Saturdays', 'Mosquito Mondays', and 'grilled cheese Thursdays'.",
+      "sources": [
+        "src_flickr_kanawana_plaque_album"
+      ],
+      "confidence": "stated",
+      "category": "canoe_trips",
+      "entities": [
+        "Nick Zarins",
+        "Noah Bennett"
+      ],
+      "date_ref": "2009",
+      "conflicts_with": [],
+      "added_version": "v4.90",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_1692",
+      "claim": "A 'Senior Girl Staff 2008' board credits S.D. Bex Finnigan Reisler and names Emma Anders ('Capitaine'), Ariel McGeary, Caitlin Booth, Tammy Bernstein, Chloe Boyle (JC), and Taylor LeBlanc (JC), captioned 'To the women that filled the lookout with love and friendship.'",
+      "sources": [
+        "src_flickr_kanawana_plaque_album"
+      ],
+      "confidence": "stated",
+      "category": "directors",
+      "entities": [
+        "Bex Finnigan Reisler",
+        "Emma Anders",
+        "Ariel McGeary",
+        "Caitlin Booth"
+      ],
+      "date_ref": "2008",
+      "conflicts_with": [],
+      "added_version": "v4.90",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_1693",
+      "claim": "A 'Sr. Girls '73, Taureau Resvr.' board names Claire Colle, Cathy Poulson, Diana Townson, Rosemary Lamb, Cathy Chauvin, Miriam Potter, Steve Reizes, and Sheena Maclean (Claire Colle and Cathy Poulson also appear on the 1972 all-female-canoe-trip board, f_1564).",
+      "sources": [
+        "src_flickr_kanawana_plaque_album"
+      ],
+      "confidence": "stated",
+      "category": "programs",
+      "entities": [
+        "Claire Colle",
+        "Cathy Poulson",
+        "Senior Girls"
+      ],
+      "date_ref": "1973",
+      "conflicts_with": [],
+      "added_version": "v4.90",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_1694",
+      "claim": "A 'Senior 2006 Girls' board ('S.D. Lisa Kirsch') names Rochelle Lazarus, Bex Reisler, Avra Morein, and Karlenne Durena; the lower half of the board is faded and its 'Special Guests' list is largely illegible.",
+      "sources": [
+        "src_flickr_kanawana_plaque_album"
+      ],
+      "confidence": "stated",
+      "category": "directors",
+      "entities": [
+        "Lisa Kirsch",
+        "Senior Girls"
+      ],
+      "date_ref": "2006",
+      "conflicts_with": [],
+      "added_version": "v4.90",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_1695",
+      "claim": "A 'Don't Mess with Dynamite! 2007' Senior Girls Cabin (SGC) board ('S.D. Lisa Kirsch') names Bex Reisler, Emma Anders, Beth Goslett, Sarah Howard, Mel Walter, Maddy Doyle, and Kate S.",
+      "sources": [
+        "src_flickr_kanawana_plaque_album"
+      ],
+      "confidence": "stated",
+      "category": "directors",
+      "entities": [
+        "Lisa Kirsch",
+        "Emma Anders",
+        "Senior Girls"
+      ],
+      "date_ref": "2007",
+      "conflicts_with": [],
+      "added_version": "v4.90",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_1696",
+      "claim": "A 'Basin, 1st Session KK 2007' board (a vertical B-A-S-I-N acrostic naming 'Les Pépites') names Emma 'Peter' Anders and, with lower confidence, Pia Bastide, Alexandra Day, Marie Ajcerra, and Violette Papin.",
+      "sources": [
+        "src_flickr_kanawana_plaque_album"
+      ],
+      "confidence": "stated",
+      "category": "programs",
+      "entities": [
+        "Emma Anders",
+        "Basin"
+      ],
+      "date_ref": "2007",
+      "conflicts_with": [],
+      "added_version": "v4.90",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_1697",
+      "claim": "A carved circular 'Senior Girls Staff '82' board (with a painted phoenix/thunderbird) names only first names: Cary, Nadine, Heather, Tori, Patti, Pam, Clare, Cristina, and Jane.",
+      "sources": [
+        "src_flickr_kanawana_plaque_album"
+      ],
+      "confidence": "stated",
+      "category": "staff",
+      "entities": [
+        "Senior Girls Staff"
+      ],
+      "date_ref": "1982",
+      "conflicts_with": [],
+      "added_version": "v4.90",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_1698",
+      "claim": "A triangular 'Senior Girls 1983 Staff' pennant carries only decorative geometric/floral painting, with no name list.",
+      "sources": [
+        "src_flickr_kanawana_plaque_album"
+      ],
+      "confidence": "stated",
+      "category": "staff",
+      "entities": [
+        "Senior Girls Staff"
+      ],
+      "date_ref": "1983",
+      "conflicts_with": [],
+      "added_version": "v4.90",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_1699",
+      "claim": "A 'Kanawana Senior Girls Canoe Trip '84' board names only first names arranged around a circular icon: Sharron, Greg, Jill, Samantha, Genevieve, Gudrun, Reiko, Jennifer, and Vanessa.",
+      "sources": [
+        "src_flickr_kanawana_plaque_album"
+      ],
+      "confidence": "stated",
+      "category": "canoe_trips",
+      "entities": [
+        "Senior Girls"
+      ],
+      "date_ref": "1984",
+      "conflicts_with": [],
+      "added_version": "v4.90",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_1700",
+      "claim": "A 'Seven Days in Lav' board (crossed canoe paddles motif, captioned 'May the sun be at your face and the wind at your back') names Naomi Goloff, Catherine Eustace, Catee Lalonde, Davida Nemeroff, Sarah Simmons, Pam Shapiro, Laura Davis, Anne-Elise Sauvé, Steve Cookson, and Morgan M. Carter.",
+      "sources": [
+        "src_flickr_kanawana_plaque_album"
+      ],
+      "confidence": "stated",
+      "category": "canoe_trips",
+      "entities": [
+        "Naomi Goloff",
+        "Davida Nemeroff",
+        "Laura Davis"
+      ],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "v4.90",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_1701",
+      "claim": "A 'We Shower Tent' board ('2nd session 2000') names counsellor Heidi Hawkins, Tripper Marissa Kyte, and campers Sarah Carsley, Stacey Corber, Kim Creton, Jess Dobrinski, Emma Gaudet, Sara Held, and Katie Smith.",
+      "sources": [
+        "src_flickr_kanawana_plaque_album"
+      ],
+      "confidence": "stated",
+      "category": "programs",
+      "entities": [
+        "Heidi Hawkins",
+        "Marissa Kyte"
+      ],
+      "date_ref": "2000",
+      "conflicts_with": [],
+      "added_version": "v4.90",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_1702",
+      "claim": "A shield-shaped decorative board (filename dated 1933) bears only carved floral/scroll motifs with no legible year, names, or title text.",
+      "sources": [
+        "src_flickr_kanawana_plaque_album"
+      ],
+      "confidence": "stated",
+      "category": "traditions",
+      "entities": [],
+      "date_ref": "1933",
+      "conflicts_with": [],
+      "added_version": "v4.90",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_1703",
+      "claim": "A 'Staff of '79' board ('To the Staff of '79, thank you verra large much!', signed 'Ronnie Marin' and 'from Heather Berke') lists roughly 50 names in three cursive columns, including Larry Lacy, John Kennedy, Dave Robillard, and Bob Woodhouse.",
+      "sources": [
+        "src_flickr_kanawana_plaque_album"
+      ],
+      "confidence": "stated",
+      "category": "staff",
+      "entities": [
+        "Ronnie Marin",
+        "Heather Berke",
+        "Larry Lacy"
+      ],
+      "date_ref": "1979",
+      "conflicts_with": [],
+      "added_version": "v4.90",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_1704",
+      "claim": "A 'The Staff of 1990' board (birchbark-style 'KK' logo, real dried leaves affixed) lists roughly 90 names across four columns, including Sophie Caisse, Barbara Goddard, Bruce Netherwood, Julian Tassé, and Rieke Webster.",
+      "sources": [
+        "src_flickr_kanawana_plaque_album"
+      ],
+      "confidence": "stated",
+      "category": "staff",
+      "entities": [
+        "Sophie Caisse",
+        "Barbara Goddard",
+        "Bruce Netherwood",
+        "Julian Tassé"
+      ],
+      "date_ref": "1990",
+      "conflicts_with": [],
+      "added_version": "v4.90",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_1705",
+      "claim": "A carved 'Kanawana Staff 97' board (bark-edged, with a partly worn dedication reading approximately 'Dedicated to the staff of '97... you never know when you're making a memory') lists roughly 75 names across four columns, including Rick Cordi, Louis Lessard, and Hilary Thomson.",
+      "sources": [
+        "src_flickr_kanawana_plaque_album"
+      ],
+      "confidence": "stated",
+      "category": "staff",
+      "entities": [
+        "Rick Cordi",
+        "Louis Lessard",
+        "Hilary Thomson"
+      ],
+      "date_ref": "1997",
+      "conflicts_with": [],
+      "added_version": "v4.90",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_1706",
+      "claim": "A 'Staff 2000' board carries the Latin motto 'Non Nobis Solum' ('Not for ourselves alone') flanked by a canoe-paddle and tomahawk icon; its name columns are too small to transcribe reliably from the available photograph.",
+      "sources": [
+        "src_flickr_kanawana_plaque_album"
+      ],
+      "confidence": "stated",
+      "category": "traditions",
+      "entities": [
+        "Non Nobis Solum"
+      ],
+      "date_ref": "2000",
+      "conflicts_with": [],
+      "added_version": "v4.90",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_1707",
+      "claim": "A 'Staff 02' board lists roughly 75 names across four columns, including Avigail Aronoff, Dan Aronson, Matt Aronson, David Leduc, Louis Lessard, and Helena Longpré.",
+      "sources": [
+        "src_flickr_kanawana_plaque_album"
+      ],
+      "confidence": "stated",
+      "category": "staff",
+      "entities": [
+        "Avigail Aronoff",
+        "Matt Aronson",
+        "David Leduc",
+        "Louis Lessard"
+      ],
+      "date_ref": "2002",
+      "conflicts_with": [],
+      "added_version": "v4.90",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_1708",
+      "claim": "A 'Swazi Trip 05' board names Tripper Rob Shackell and campers Adrienne Vaupshas, Katie Rotman, Jess McGregor, Raven Leipsic, Alex Poirier, Charlotta Prigent, and Anna Rotman, captioned 'It's All Protein!'.",
+      "sources": [
+        "src_flickr_kanawana_plaque_album"
+      ],
+      "confidence": "stated",
+      "category": "canoe_trips",
+      "entities": [
+        "Rob Shackell",
+        "Swazi"
+      ],
+      "date_ref": "2005",
+      "conflicts_with": [],
+      "added_version": "v4.90",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_1709",
+      "claim": "A 'Swazi a.k.a. Siberia, 2nd Session 2007' board names L.T. Daphne Pungartnik, counsellors Caitlin Booth and Razi Fraticelli, and campers Kayla Sabourin, Michele Côté, Sophie Doyle, Yeon Jung Choi, and Emma Cobb.",
+      "sources": [
+        "src_flickr_kanawana_plaque_album"
+      ],
+      "confidence": "stated",
+      "category": "canoe_trips",
+      "entities": [
+        "Daphne Pungartnik",
+        "Caitlin Booth",
+        "Swazi"
+      ],
+      "date_ref": "2007",
+      "conflicts_with": [],
+      "added_version": "v4.90",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_1710",
+      "claim": "A 'Swazi, Jump on It! 5-Day Trip in LAV, 4th Session 2003' board names Alexandra Neville, Kaitlin Keane, Kendra Hughes, Erica Rheaume, Kelsey Bradley, Vienna Napier, Erin Savage, and Roxanne Sayegh.",
+      "sources": [
+        "src_flickr_kanawana_plaque_album"
+      ],
+      "confidence": "stated",
+      "category": "canoe_trips",
+      "entities": [
+        "Alexandra Neville",
+        "Kendra Hughes",
+        "Swazi"
+      ],
+      "date_ref": "2003",
+      "conflicts_with": [],
+      "added_version": "v4.90",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_1711",
+      "claim": "A 'Talahassee, 2nd Session 2009' board names counselor Ariel McGeary Hall, Tripper Mark Chamandy-Cook, 'Wolf' Jeff Ware, and campers Victoria Petitclerc, Adriana Casado, Kristen Caine, Amanda Gloor, Kimberly Fabre, Anna Gagné, and Marguerite Naudin, referencing the Papineau-Labelle wildlife reserve.",
+      "sources": [
+        "src_flickr_kanawana_plaque_album"
+      ],
+      "confidence": "stated",
+      "category": "canoe_trips",
+      "entities": [
+        "Ariel McGeary Hall",
+        "Mark Chamandy-Cook",
+        "Talahassee"
+      ],
+      "date_ref": "2009",
+      "conflicts_with": [],
+      "added_version": "v4.90",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_1712",
+      "claim": "A 'The Roosties, 4th Session 2007' board names JCs Kyla Mandel and Casey Wittman among a group of eight additional first-name/surname pairs.",
+      "sources": [
+        "src_flickr_kanawana_plaque_album"
+      ],
+      "confidence": "stated",
+      "category": "programs",
+      "entities": [
+        "Kyla Mandel",
+        "Casey Wittman",
+        "Roosties"
+      ],
+      "date_ref": "2007",
+      "conflicts_with": [],
+      "added_version": "v4.90",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_1713",
+      "claim": "A '1st Hike of '85' board names counsellor Bruce Weihs and C.I.T. Adrian Maas, with campers Greg Davis, Chad Duncan, Sean Madden, Benji O'Hara-Byrne, Tim Hoffman, Eddie Marin, and Chris Robitaille.",
+      "sources": [
+        "src_flickr_kanawana_plaque_album"
+      ],
+      "confidence": "stated",
+      "category": "programs",
+      "entities": [
+        "Bruce Weihs",
+        "Adrian Maas"
+      ],
+      "date_ref": "1985",
+      "conflicts_with": [],
+      "added_version": "v4.90",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_1714",
+      "claim": "A carved 'Viking Day 1972 — Sweden' board bears a Viking longship illustration and no names.",
+      "sources": [
+        "src_flickr_kanawana_plaque_album"
+      ],
+      "confidence": "stated",
+      "category": "traditions",
+      "entities": [
+        "Viking Day"
+      ],
+      "date_ref": "1972",
+      "conflicts_with": [],
+      "added_version": "v4.90",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_1715",
+      "claim": "A 'Voyageurs — 1988' board names Bruce Weihs, James Caddell, Sarah Harries, Jane Bauer, Siobhan Wallace, Jeff Muss, Aaron Chase, Pascal Richer, and Antoine DeGuise.",
+      "sources": [
+        "src_flickr_kanawana_plaque_album"
+      ],
+      "confidence": "stated",
+      "category": "canoe_trips",
+      "entities": [
+        "Bruce Weihs",
+        "Jeff Muss",
+        "Voyageurs"
+      ],
+      "date_ref": "1988",
+      "conflicts_with": [],
+      "added_version": "v4.90",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_1716",
+      "claim": "A 'Voyageur 4th Sesh 98' board names Clara Bird, Matthew Wiviott, Nicholas Dennis Stoddart, and (first names only) Suemi, Leigh, and Nadia.",
+      "sources": [
+        "src_flickr_kanawana_plaque_album"
+      ],
+      "confidence": "stated",
+      "category": "canoe_trips",
+      "entities": [
+        "Clara Bird",
+        "Matthew Wiviott",
+        "Voyageurs"
+      ],
+      "date_ref": "1998",
+      "conflicts_with": [],
+      "added_version": "v4.90",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_1717",
+      "claim": "A severely faded, water-damaged 'Voyageurs 300km '98' board preserves only the title and the first names Carine and Camille; the remainder of the text is not recoverable from the available photograph.",
+      "sources": [
+        "src_flickr_kanawana_plaque_album"
+      ],
+      "confidence": "stated",
+      "category": "canoe_trips",
+      "entities": [
+        "Voyageurs"
+      ],
+      "date_ref": "1998",
+      "conflicts_with": [],
+      "added_version": "v4.90",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_1718",
+      "claim": "A weathered driftwood 'Voyageurs '98' sign preserves only fragmentary names (Pat, Jon, Max, and partial 'Andréanne', 'Lauren'); a separate carved paddle nearby ('totem paddle') names Julian Cooper, Tom 'Tigersnake' Guilbert, Jonathan 'Attila' Nagels, Stewart 'Stalin' Polsky, and Sam 'Saddam' Trowbridge under the mottos 'Respect' and 'Knowledge'.",
+      "sources": [
+        "src_flickr_kanawana_plaque_album"
+      ],
+      "confidence": "stated",
+      "category": "canoe_trips",
+      "entities": [
+        "Julian Cooper",
+        "Tom Guilbert",
+        "Voyageurs"
+      ],
+      "date_ref": "1998",
+      "conflicts_with": [],
+      "added_version": "v4.90",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_1719",
+      "claim": "A 'The Year 2000 Was the Year of the Voyageurs' board credits 'Capitaine' Lorna McNeish and names Hannah, Alexandra, Sara, Ariel, David, Sarah, Alicia, Genevieve, Leigh, Anna, Jordi, Tullia, Alexander, and Evan, under the motto 'You can take our lives but you'll never take our paddles!'.",
+      "sources": [
+        "src_flickr_kanawana_plaque_album"
+      ],
+      "confidence": "stated",
+      "category": "directors",
+      "entities": [
+        "Lorna McNeish",
+        "Voyageurs"
+      ],
+      "date_ref": "2000",
+      "conflicts_with": [],
+      "added_version": "v4.90",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_1720",
+      "claim": "A 'Voyageurs — 3rd Session 2010' board names Trippers Steve Wesley and Rob Shackell, and campers Ola Kaminski, Belén Azofra, Emily Fleisler, Amanda Gloor, and Ling Yee.",
+      "sources": [
+        "src_flickr_kanawana_plaque_album"
+      ],
+      "confidence": "stated",
+      "category": "canoe_trips",
+      "entities": [
+        "Steve Wesley",
+        "Rob Shackell",
+        "Voyageurs"
+      ],
+      "date_ref": "2010",
+      "conflicts_with": [],
+      "added_version": "v4.90",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_1721",
+      "claim": "A 'Missinaibi 2008 — Voyageurs 21 Days Ultimate' board (flanked by two feather-decorated paddle boards) names, with reduced confidence, Bruce Weihs, Jeff White, Katie Kovacs, Rob Shackell, Oskar Newman, and Alex Zannis, referencing the Missinaibi River canoe route.",
+      "sources": [
+        "src_flickr_kanawana_plaque_album"
+      ],
+      "confidence": "stated",
+      "category": "canoe_trips",
+      "entities": [
+        "Missinaibi River",
+        "Rob Shackell"
+      ],
+      "date_ref": "2008",
+      "conflicts_with": [],
+      "added_version": "v4.90",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_1722",
+      "claim": "An 'Ashuapmushuan Explosion 2010' board names Trippers Rob Shackell and Steve Wesley, and JC Tristan Eves, referencing the Ashuapmushuan River canoe route.",
+      "sources": [
+        "src_flickr_kanawana_plaque_album"
+      ],
+      "confidence": "stated",
+      "category": "canoe_trips",
+      "entities": [
+        "Ashuapmushuan River",
+        "Rob Shackell",
+        "Steve Wesley",
+        "Tristan Eves"
+      ],
+      "date_ref": "2010",
+      "conflicts_with": [],
+      "added_version": "v4.90",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_1723",
+      "claim": "A '6.4km Portage — Voyageurs 4th Session 2001' board (bordered with river stones) names Rob Shackell and Pat Lazarus among lower-confidence additional names.",
+      "sources": [
+        "src_flickr_kanawana_plaque_album"
+      ],
+      "confidence": "stated",
+      "category": "canoe_trips",
+      "entities": [
+        "Rob Shackell",
+        "Pat Lazarus",
+        "Voyageurs"
+      ],
+      "date_ref": "2001",
+      "conflicts_with": [],
+      "added_version": "v4.90",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_1724",
+      "claim": "A shield-shaped 'Western Day Trophy Winners' board (1968) names the winning team 'Cowboys' with no individual names.",
+      "sources": [
+        "src_flickr_kanawana_plaque_album"
+      ],
+      "confidence": "stated",
+      "category": "traditions",
+      "entities": [
+        "Western Day"
+      ],
+      "date_ref": "1968",
+      "conflicts_with": [],
+      "added_version": "v4.90",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_1725",
+      "claim": "A 'Woodsmen Sect.' warning sign ('Enter if you dare!!!') is signed 'The Jr. Boys' with no year or individual names.",
+      "sources": [
+        "src_flickr_kanawana_plaque_album"
+      ],
+      "confidence": "stated",
+      "category": "programs",
+      "entities": [
+        "Woodsmen"
+      ],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "v4.90",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_1726",
+      "claim": "A 'Zodiac' cabin-naming board ('This cabin was named 1st Session 2000 by:') names Emily Feist, Rachel Voss, Lianne Rothstein, and Andrea Ehslauf among partly-uncertain additional names.",
+      "sources": [
+        "src_flickr_kanawana_plaque_album"
+      ],
+      "confidence": "stated",
+      "category": "programs",
+      "entities": [
+        "Emily Feist",
+        "Rachel Voss",
+        "Lianne Rothstein",
+        "Zodiac"
+      ],
+      "date_ref": "2000",
+      "conflicts_with": [],
+      "added_version": "v4.90",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_1727",
+      "claim": "A Concordia Archives photograph of the interior of a long open-sided dining pavilion (dated c.1920s) shows a hanging banner reading 'KAMP KANAWANA' and a pennant on a post reading 'YMCA', with rows of tables full of boys and staff eating; several smaller pennants nearby are too small/blurred to transcribe.",
+      "sources": [
+        "src_flickr_kanawana_concordia_historical_album"
+      ],
+      "confidence": "stated",
+      "category": "facilities",
+      "entities": [
+        "Kamp Kanawana"
+      ],
+      "date_ref": "1920s",
+      "conflicts_with": [],
+      "added_version": "v4.90",
+      "added_by": "auto_extraction"
     }
   ]
 }
