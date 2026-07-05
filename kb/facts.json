@@ -1,8 +1,8 @@
 {
-  "version": "v4.90",
-  "kb_version": 4.9,
+  "version": "v4.91",
+  "kb_version": 4.91,
   "migrated_from": "3.3",
-  "fact_count": 1689,
+  "fact_count": 1701,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -20190,7 +20190,8 @@
       ],
       "date_ref": "2003",
       "conflicts_with": [
-        "f_1638"
+        "f_1638",
+        "f_1733"
       ],
       "added_version": "v4.49",
       "added_by": "oral_history"
@@ -29312,6 +29313,215 @@
       "conflicts_with": [],
       "added_version": "v4.90",
       "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_1728",
+      "claim": "When Bruce Netherwood left the Camp Director role at the end of 1994, the YMCA restructured Kanawana's administration into two positions: a year-round Executive Director, headquartered in Montreal and responsible for the organization overall, and a three-season on-site Camp Director. The on-site role was colloquially called 'Chief' -- a title dating to the camp's 'playing Indian' era -- until it was retired in the early 2020s as part of Kanawana's reconciliation efforts, after which the role was referred to as the 'on-site Director'.",
+      "sources": [
+        "src_oral_aronson"
+      ],
+      "confidence": "user_knowledge",
+      "category": "institutional",
+      "entities": [
+        "Executive Director",
+        "Camp Director",
+        "Chief",
+        "Bruce Netherwood"
+      ],
+      "date_ref": "1994-1995",
+      "conflicts_with": [],
+      "added_version": "v4.91",
+      "added_by": "oral_history"
+    },
+    {
+      "fact_id": "f_1729",
+      "claim": "Arlene Boyle served as Executive Director of Camp Kanawana from 1995 to 2000.",
+      "sources": [
+        "src_oral_aronson"
+      ],
+      "confidence": "user_knowledge",
+      "category": "directors",
+      "entities": [
+        "Arlene Boyle"
+      ],
+      "date_ref": "1995-2000",
+      "conflicts_with": [],
+      "added_version": "v4.91",
+      "added_by": "oral_history"
+    },
+    {
+      "fact_id": "f_1730",
+      "claim": "Johanna A.A. Hoade served as the on-site Camp Director of Kanawana from 1995 to 2000, under Executive Director Arlene Boyle. (Previously recorded in the KB as 'Joanna Hode' -- same person, corrected spelling.)",
+      "sources": [
+        "src_oral_aronson"
+      ],
+      "confidence": "user_knowledge",
+      "category": "directors",
+      "entities": [
+        "Johanna A.A. Hoade",
+        "Arlene Boyle"
+      ],
+      "date_ref": "1995-2000",
+      "conflicts_with": [],
+      "added_version": "v4.91",
+      "added_by": "oral_history"
+    },
+    {
+      "fact_id": "f_1731",
+      "claim": "Gary White succeeded Arlene Boyle as Executive Director of Camp Kanawana in 2001 and served until 2005, when he was succeeded by Sean Day.",
+      "sources": [
+        "src_oral_aronson"
+      ],
+      "confidence": "user_knowledge",
+      "category": "directors",
+      "entities": [
+        "Gary White",
+        "Arlene Boyle",
+        "Sean Day"
+      ],
+      "date_ref": "2001-2005",
+      "conflicts_with": [],
+      "added_version": "v4.91",
+      "added_by": "oral_history"
+    },
+    {
+      "fact_id": "f_1732",
+      "claim": "Morgan Carter was the on-site Camp Director of Kanawana for the summers of 2001, 2002, and 2003, under Executive Director Gary White. (Corrects/extends the previous KB record of Morgan M. Carter's tenure as 2001-2002 only -- 2003 should be included.)",
+      "sources": [
+        "src_oral_aronson"
+      ],
+      "confidence": "user_knowledge",
+      "category": "directors",
+      "entities": [
+        "Morgan Carter",
+        "Gary White"
+      ],
+      "date_ref": "2001-2003",
+      "conflicts_with": [],
+      "added_version": "v4.91",
+      "added_by": "oral_history"
+    },
+    {
+      "fact_id": "f_1733",
+      "claim": "Dave Leduc was the on-site Camp Director of Kanawana for the single summer of 2004 (succeeding Morgan Carter), under Executive Director Gary White. (Corrects the previous KB record, f_1215, which dated Leduc's directorship to 2003; this superseded that fact and resolves conflict c_014.)",
+      "sources": [
+        "src_oral_aronson"
+      ],
+      "confidence": "user_knowledge",
+      "category": "directors",
+      "entities": [
+        "Dave Leduc",
+        "Morgan Carter",
+        "Gary White"
+      ],
+      "date_ref": "2004",
+      "conflicts_with": [
+        "f_1215"
+      ],
+      "added_version": "v4.91",
+      "added_by": "oral_history"
+    },
+    {
+      "fact_id": "f_1734",
+      "claim": "Nicholas Garcia served as the on-site Director of Kanawana from 2005 to 2012, under Executive Director Sean Day.",
+      "sources": [
+        "src_oral_aronson"
+      ],
+      "confidence": "user_knowledge",
+      "category": "directors",
+      "entities": [
+        "Nicholas Garcia",
+        "Sean Day"
+      ],
+      "date_ref": "2005-2012",
+      "conflicts_with": [],
+      "added_version": "v4.91",
+      "added_by": "oral_history"
+    },
+    {
+      "fact_id": "f_1735",
+      "claim": "Sean Day served as Executive Director of Camp Kanawana from 2005 (succeeding Gary White) until the spring of 2023, when he was succeeded by Marie-Pierre Lacasse.",
+      "sources": [
+        "src_oral_aronson"
+      ],
+      "confidence": "user_knowledge",
+      "category": "directors",
+      "entities": [
+        "Sean Day",
+        "Gary White",
+        "Marie-Pierre Lacasse"
+      ],
+      "date_ref": "2005-2023",
+      "conflicts_with": [],
+      "added_version": "v4.91",
+      "added_by": "oral_history"
+    },
+    {
+      "fact_id": "f_1736",
+      "claim": "Kate 'Wawa' Taylor served as the on-site Director of Kanawana from 2013 through the third session of the summer of 2023, when she left partway through the season without completing it. (Refines the previous KB record, which dated her tenure only approximately to 'the 2020s'.)",
+      "sources": [
+        "src_oral_aronson"
+      ],
+      "confidence": "user_knowledge",
+      "category": "directors",
+      "entities": [
+        "Kate Taylor"
+      ],
+      "date_ref": "2013-2023",
+      "conflicts_with": [],
+      "added_version": "v4.91",
+      "added_by": "oral_history"
+    },
+    {
+      "fact_id": "f_1737",
+      "claim": "Kevin Slezak, previously Assistant Director under Kate Taylor, was promoted to on-site Camp Director for the fourth session of the summer of 2023 after Taylor's early departure, and served in that role for the full summer of 2024.",
+      "sources": [
+        "src_oral_aronson"
+      ],
+      "confidence": "user_knowledge",
+      "category": "directors",
+      "entities": [
+        "Kevin Slezak",
+        "Kate Taylor"
+      ],
+      "date_ref": "2023-2024",
+      "conflicts_with": [],
+      "added_version": "v4.91",
+      "added_by": "oral_history"
+    },
+    {
+      "fact_id": "f_1738",
+      "claim": "Marie-Pierre Lacasse became Executive Director of Camp Kanawana in the spring of 2023, succeeding Sean Day. (Refines the previous KB record, which dated her tenure to '2024-'.)",
+      "sources": [
+        "src_oral_aronson"
+      ],
+      "confidence": "user_knowledge",
+      "category": "directors",
+      "entities": [
+        "Marie-Pierre Lacasse",
+        "Sean Day"
+      ],
+      "date_ref": "2023",
+      "conflicts_with": [],
+      "added_version": "v4.91",
+      "added_by": "oral_history"
+    },
+    {
+      "fact_id": "f_1739",
+      "claim": "Justin Caldwell has been the on-site Camp Director of Kanawana for the summers of 2025 and 2026, succeeding Kevin Slezak.",
+      "sources": [
+        "src_oral_aronson"
+      ],
+      "confidence": "user_knowledge",
+      "category": "directors",
+      "entities": [
+        "Justin Caldwell",
+        "Kevin Slezak"
+      ],
+      "date_ref": "2025-2026",
+      "conflicts_with": [],
+      "added_version": "v4.91",
+      "added_by": "oral_history"
     }
   ]
 }

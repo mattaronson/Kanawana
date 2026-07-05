@@ -259,7 +259,9 @@
       "description": "2003 camp director: a JBC dining-hall plaque explicitly labeled '2003' names a leadership hierarchy 'Camp Director: Morgan; Assistant Director: Marc; Chief: Dave; Section Directors: Matt, Laurie' -- naming 'Morgan' (not 'Dave') as Camp Director. Per directors-index.md's own framing, 'Camp Chief' is a historical synonym for Camp Director, which complicates rather than resolves the reading: this plaque may be using 'Camp Director' and 'Chief' as two names for the same top role (in which case Morgan and Dave can't both hold it in 2003), or as genuinely distinct roles (Chief subordinate to Camp Director) unique to this plaque/era. Either reading conflicts with the directors-index claim (sourced from the operator's oral history/personal knowledge, confidence 'user_knowledge') that Dave Leduc was Camp Director in 2003, and sits awkwardly against Morgan M. Carter's documented 2001-2002 end date.",
       "fact_ids": [
         "f_1638",
-        "f_1215"
+        "f_1215",
+        "f_1732",
+        "f_1733"
       ],
       "entity": "Camp Kanawana directorship 2003",
       "attribute": "director_2003",
@@ -268,8 +270,8 @@
         "Dave Leduc as Camp Director in 2003 (f_1215, operator oral history)",
         "Dave Leduc as Camp Director starting 2004 instead, per operator's 2026-07-05 reconsideration (would need to reconcile against Sean Day's documented 2004-2023 start)"
       ],
-      "status": "unresolved",
-      "notes": "Operator input (2026-07-05): 'Chief' may indeed be an old synonym for Camp Director on this plaque, raising the possibility that Dave (presumably Leduc) held the top role starting in 2004 rather than 2003, with Morgan (Carter?) as Camp Director through all of 2003. However, directors-index.md currently documents Sean Day as Camp Director starting 2004 (no gap before him) -- so shifting Leduc's tenure to 2004 would create a NEW overlap/contradiction with Day's start date unless Day's 2004 start is itself imprecise, or Leduc's 2004 tenure was very brief before Day took over. Not resolved; needs the operator's direct confirmation (memory, or a closer look at the physical plaque/season records) before dates are changed in facts.json or directors-index.md. Do not silently adjust f_1215 or the Camp Directors table until this is settled -- three plausible tenures (Carter's end date, Leduc's start date, Day's start date) are all in play at once.",
+      "status": "resolved",
+      "notes": "RESOLVED 2026-07-05 via operator oral history (f_1728-f_1739): from 1995, Kanawana's directorship was split into a year-round Executive Director and a three-season on-site Camp Director (colloquially 'Chief' until the title was retired in the early 2020s as part of reconciliation efforts). Morgan Carter was the on-site Camp Director for summers 2001-2003 (f_1732, extending the prior 2001-2002 record); Dave Leduc's on-site directorship was a single summer, 2004 (f_1733), not 2003 as f_1215 stated. The JBC 2003 plaque's 'Camp Director: Morgan' is now fully corroborated. Its 'Chief: Dave' remains a minor open question -- since Morgan, not Dave, held the on-site directorship ('Chief') in 2003 per this corrected timeline, 'Dave' on that plaque was either a different Dave in a distinct (non-director) role, or Dave Leduc in some other capacity the year before his 2004 promotion; this residual ambiguity is not worth its own conflict record. f_1215 (Leduc directorship dated 2003) is superseded by f_1733 but left in the KB as a preserved historical record per conflict-handling convention.",
       "created_at": "2026-07-05T00:00:00Z",
       "affects_articles": [
         "directors-index"
