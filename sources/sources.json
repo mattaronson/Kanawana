@@ -8705,6 +8705,38 @@
       "extraction_version": "v4.9x",
       "reliability": "primary",
       "notes": "Delivered via photodownloads/'Kanawana Archives-3-001.zip' (2026-06-29); Matt's own scans of physical camp memorabilia. Filed to assets/images/artifacts/ and assets/images/art/; see credits.json. 10 near-duplicate scans of the same physical items were skipped (representative kept). Full visual-mining pass completed 2026-07-05: remaining 46 images in assets/images/artifacts/ and assets/images/art/ (beyond the 2 already transcribed) reviewed and transcribed into KB facts (f_1569 onward), including the 1913 reunion banquet menu, the J.M. Venters dining-hall-extension blueprint, the 1920s honour-award ribbon system, and the 1982/1981 print advertisements."
+    },
+    {
+      "source_id": "src_fb_kanawana_tripper_caldwell_2018",
+      "type": "web",
+      "title": "Camp YMCA Kanawana Facebook video, 'Hike and Trip at Camp Kanawana' (July 25, 2018)",
+      "date": "2018-07-25",
+      "date_precision": "exact",
+      "origin": "web",
+      "origin_url": "https://www.facebook.com/YKanawana/videos/hike-and-trip-at-camp-kanawana-les-excursions-au-camp-kanawana/2137702109634469/",
+      "cache_path": null,
+      "char_count": 0,
+      "ingested_at": "2026-07-05T00:00:00Z",
+      "extracted": true,
+      "extraction_version": "v4.92",
+      "reliability": "primary",
+      "notes": "Video caption names 'Tripper Justin Caldwell' introducing the Voyageurs canoe-trip program. Read via WebSearch snippet only, not the video itself."
+    },
+    {
+      "source_id": "src_zoominfo_justin_caldwell",
+      "type": "web",
+      "title": "ZoomInfo / Datanyze aggregator listing: Justin Caldwell, Summer Camp Director, YMCA of Quebec",
+      "date": "2026",
+      "date_precision": "approximate",
+      "origin": "web",
+      "origin_url": "https://www.zoominfo.com/p/Justin-Caldwell/2709652206",
+      "cache_path": null,
+      "char_count": 0,
+      "ingested_at": "2026-07-05T00:00:00Z",
+      "extracted": true,
+      "extraction_version": "v4.92",
+      "reliability": "secondary",
+      "notes": "Commercial contact-data aggregator (corroborated independently by Datanyze's YMCA of Quebec employee listing), likely both scraped from the same underlying LinkedIn profile rather than independently verified. A direct LinkedIn search for this name/location did not surface a matching profile. Treat as a lead, not a primary-source confirmation."
     }
   ],
   "source_count": 544

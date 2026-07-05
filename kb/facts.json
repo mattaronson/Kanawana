@@ -1,8 +1,8 @@
 {
-  "version": "v4.91",
-  "kb_version": 4.91,
+  "version": "v4.92",
+  "kb_version": 4.92,
   "migrated_from": "3.3",
-  "fact_count": 1701,
+  "fact_count": 1704,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -29522,6 +29522,56 @@
       "conflicts_with": [],
       "added_version": "v4.91",
       "added_by": "oral_history"
+    },
+    {
+      "fact_id": "f_1740",
+      "claim": "A CBC News article on the Stuart McLean Camp Kanawana Fund states that 'Sean Day, regional director of camps for the YMCA in Quebec, was director of Camp Kanawana when McLean returned [in 2005] to host his show' -- independent (non-oral-history) corroboration that Sean Day held a director-level role at Kanawana specifically by 2005, consistent with the oral-history claim that his Executive Directorship began that year (f_1735). The article does not use the specific title 'Executive Director'.",
+      "sources": [
+        "src_cbc_mclean_fund"
+      ],
+      "confidence": "stated",
+      "category": "directors",
+      "entities": [
+        "Sean Day",
+        "Stuart McLean"
+      ],
+      "date_ref": "2005",
+      "conflicts_with": [],
+      "added_version": "v4.92",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_1741",
+      "claim": "A Camp YMCA Kanawana Facebook video dated July 25, 2018 ('Hike and Trip at Camp Kanawana') names 'Tripper Justin Caldwell' introducing the Voyageurs canoe-trip program -- independent confirmation that a real Justin Caldwell had a genuine, camp-specific staff history at Kanawana (as trip/canoe staff in 2018), seven years before the oral-history claim that he became on-site Camp Director in 2025.",
+      "sources": [
+        "src_fb_kanawana_tripper_caldwell_2018"
+      ],
+      "confidence": "stated",
+      "category": "staff",
+      "entities": [
+        "Justin Caldwell",
+        "Voyageurs"
+      ],
+      "date_ref": "2018",
+      "conflicts_with": [],
+      "added_version": "v4.92",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_1742",
+      "claim": "Two independent commercial contact-data aggregators (ZoomInfo and Datanyze) list a 'Justin Caldwell' with the title 'Summer Camp Director at YMCA of Quebec', based in Westmount, Quebec (YMCA Quebec's head-office location). This is consistent with the oral-history claim that Justin Caldwell became Kanawana's on-site Camp Director in 2025, but a direct LinkedIn search for this name/location combination did not surface a matching profile, so the aggregator listings could not be independently corroborated against a primary source and should be treated as a lead rather than confirmation.",
+      "sources": [
+        "src_zoominfo_justin_caldwell"
+      ],
+      "confidence": "inferred",
+      "category": "directors",
+      "entities": [
+        "Justin Caldwell"
+      ],
+      "date_ref": "2025-2026",
+      "conflicts_with": [],
+      "added_version": "v4.92",
+      "added_by": "auto_extraction"
     }
   ]
 }
