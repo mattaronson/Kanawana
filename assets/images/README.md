@@ -30,7 +30,7 @@ As of 2026-07-02: **234 images acquired** and filed (from a 244-image delivery v
   Archives" Flickr album, 1900s-1980s.
 - `maps/` (4) — camp site maps, 1941 and 1980-2001.
 - `plaques/` (151) — modern (c.2010) photographs of dining-hall/cabin commemorative plaques and
-  canoe boards naming sections, trips, and years (Flickr "Plaque" album). All in copyright
+  canoe plaques naming sections, trips, and years (Flickr "Plaque" album). All in copyright
   regardless of the year painted on the plaque — see the Copyright section below.
   Individually credited in `credits.json`; only a curated subset is embedded in wiki articles.
 - `artifacts/` (27) — honour-award ribbons, felt awards, YMCA pennants, badges (physical scans).

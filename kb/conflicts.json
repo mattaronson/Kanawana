@@ -256,7 +256,7 @@
     },
     {
       "conflict_id": "c_014",
-      "description": "2003 camp director: a JBC dining-hall board explicitly labeled '2003' names a leadership hierarchy 'Camp Director: Morgan; Assistant Director: Marc; Chief: Dave; Section Directors: Matt, Laurie' -- naming 'Morgan' (not 'Dave') as Camp Director and placing 'Dave' in the subordinate 'Chief' role. This conflicts with the directors-index claim (sourced from the operator's oral history/personal knowledge, confidence 'user_knowledge') that Dave Leduc was Camp Director in 2003, and with Morgan M. Carter's documented camp-directorship being dated 2001-2002 (i.e. ending before 2003).",
+      "description": "2003 camp director: a JBC dining-hall plaque explicitly labeled '2003' names a leadership hierarchy 'Camp Director: Morgan; Assistant Director: Marc; Chief: Dave; Section Directors: Matt, Laurie' -- naming 'Morgan' (not 'Dave') as Camp Director. Per directors-index.md's own framing, 'Camp Chief' is a historical synonym for Camp Director, which complicates rather than resolves the reading: this plaque may be using 'Camp Director' and 'Chief' as two names for the same top role (in which case Morgan and Dave can't both hold it in 2003), or as genuinely distinct roles (Chief subordinate to Camp Director) unique to this plaque/era. Either reading conflicts with the directors-index claim (sourced from the operator's oral history/personal knowledge, confidence 'user_knowledge') that Dave Leduc was Camp Director in 2003, and sits awkwardly against Morgan M. Carter's documented 2001-2002 end date.",
       "fact_ids": [
         "f_1638",
         "f_1215"
@@ -264,11 +264,12 @@
       "entity": "Camp Kanawana directorship 2003",
       "attribute": "director_2003",
       "values": [
-        "Morgan [Carter?] (per JBC 2003 dining-hall board, with 'Dave' as subordinate 'Chief')",
-        "Dave Leduc (per operator oral history, f_1215)"
+        "Morgan [Carter?] as Camp Director, Dave possibly as subordinate 'Chief' (literal plaque reading)",
+        "Dave Leduc as Camp Director in 2003 (f_1215, operator oral history)",
+        "Dave Leduc as Camp Director starting 2004 instead, per operator's 2026-07-05 reconsideration (would need to reconcile against Sean Day's documented 2004-2023 start)"
       ],
       "status": "unresolved",
-      "notes": "Two readings are possible: (a) Morgan M. Carter's tenure extended into 2003 and Dave Leduc's directorship actually began in 2004, with the 'Dave' on this board being Leduc serving as 'Chief' (a subordinate role) that year; or (b) the board's first-name-only labels are imprecise/retrospective and 'Dave' is a different Dave entirely (an extremely common first name in this KB -- compare Dave Twynam, Dave Polsky, Dave Kaufman, Dave Robillard, Dave Love, and a dozen others). Primary-source plaque evidence (contemporaneous to 2003) is normally weighted above recalled oral history, but the operator (Matt Aronson) may be able to resolve this directly by recalling or re-examining the board. Recommend either extending Morgan M. Carter's directors-index end-date to 2003 and Dave Leduc's start-date to 2004, or confirming 'Dave' = Dave Leduc as 'Chief' under Carter that year before promotion.",
+      "notes": "Operator input (2026-07-05): 'Chief' may indeed be an old synonym for Camp Director on this plaque, raising the possibility that Dave (presumably Leduc) held the top role starting in 2004 rather than 2003, with Morgan (Carter?) as Camp Director through all of 2003. However, directors-index.md currently documents Sean Day as Camp Director starting 2004 (no gap before him) -- so shifting Leduc's tenure to 2004 would create a NEW overlap/contradiction with Day's start date unless Day's 2004 start is itself imprecise, or Leduc's 2004 tenure was very brief before Day took over. Not resolved; needs the operator's direct confirmation (memory, or a closer look at the physical plaque/season records) before dates are changed in facts.json or directors-index.md. Do not silently adjust f_1215 or the Camp Directors table until this is settled -- three plausible tenures (Carter's end date, Leduc's start date, Day's start date) are all in play at once.",
       "created_at": "2026-07-05T00:00:00Z",
       "affects_articles": [
         "directors-index"

@@ -61,7 +61,7 @@ These roles carried the title "Director" but reported to the Camp Director above
 | "Mr. Brute" | 1938 | Section director, Mount Ritz | Full name not documented; overall Camp Chief that year was Greig Macdiarmid | Green Triangle 1938^9 |
 | E.E. Smee (Edgar E. Smee) | 1939, 1942 | Juvenile section (1939); "Resident Director" (1942) | Full name Edgar E. Smee (b. c.1912-13 Hamilton ON, d. Feb 7 2002 Ottawa, age 89). Juvenile section director (1939);^1 Resident Director (1942), explicitly distinct from Camp Director R.H. Hanagan that year.^10 Left Hamilton c.1938; 30-year absence aligns with Montreal/YMCA service. Later became founding Chair of Conserver Society of Hamilton (est. 1969); Environmentalist of the Year 1983. Ed Smee Fund est. 1999 in his honour. Wife: Frieda; daughters: Linda, Susan, Sydney, Sonia. | Gazette 1942-08-05; McMorris thesis; Globe and Mail obit 2002; EOY Awards 1983; Conserver Society |
 | Ron McCallum | 1960 | CIT / leadership program | Listed as "Director" on a 1960 CIT (Counsellor-in-Training) dining-hall plaque (Flickr). Overall camp director that year was A. Ross Seaman (1959-1967); McCallum most likely directed the CIT/leadership program specifically (conflict c_013). | Flickr "Plaque" album |
-| Sophie Caisse & Simon Heller | 1993 | CIT / leadership program | Named "directors" on a 1993 dining-hall board ("C.I.T.'s of '93"), alongside 32 named CITs (f_1568). Overall camp director that year was Bruce Netherwood (1988-1994); as with Ron McCallum (1960), Caisse and Heller most likely directed the CIT/leadership program specifically, not the camp as a whole. | Flickr "Plaque" album |
+| Sophie Caisse & Simon Heller | 1993 | CIT / leadership program | Named "directors" on a 1993 dining-hall plaque ("C.I.T.'s of '93"), alongside 32 named CITs (f_1568). Overall camp director that year was Bruce Netherwood (1988-1994); as with Ron McCallum (1960), Caisse and Heller most likely directed the CIT/leadership program specifically, not the camp as a whole. | Flickr "Plaque" album |
 
 **Audrey Dowse** was inducted into the Camp Administrator Hall of Fame (nominated 2022) for her work with Camp YMCA Kanawana and YMCA Day Camps. Her exact role (Camp Director, section/program director, or another administrative position) and dates of service are not yet documented.^HOF
 
@@ -157,8 +157,8 @@ The following periods have no confirmed camp director:
 ![1975 CIT dining-hall plaque](../../assets/images/plaques/cit-1975.jpg)
 *A CIT dining-hall plaque from 1975. Copyright All rights reserved by Kanawana.*
 
-![1993 CIT dining-hall board](../../assets/images/plaques/cit-1993.jpg)
-*"C.I.T.'s of '93" — a dining-hall board naming Sophie Caisse and Simon Heller as the two directors of the 1993 CIT program, with 32 CITs listed by name (f_1568). Copyright All rights reserved by Kanawana.*
+![1993 CIT dining-hall plaque](../../assets/images/plaques/cit-1993.jpg)
+*"C.I.T.'s of '93" — a dining-hall plaque naming Sophie Caisse and Simon Heller as the two directors of the 1993 CIT program, with 32 CITs listed by name (f_1568). Copyright All rights reserved by Kanawana.*
 
 ![Staff photograph, 1960-1980](../../assets/images/historical/concordia-1960-1980-staff-photo.jpg)
 *A staff photograph, 1960-1980. Copyright All rights reserved by Kanawana.*
