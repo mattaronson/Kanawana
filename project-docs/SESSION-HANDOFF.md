@@ -10,25 +10,28 @@ NOT captured in CLAUDE.md. Update this file when you learn something new about H
 
 ## ⚡ START HERE (next session)
 
-1. **Master folder is `D:\Kanawana`** on Matt's local Windows machine. Work here, not in
-   `C:\Users\Matt.ADESSKY\Kanawana` (that old clone is stale/redundant and may be deleted).
-   Launch Claude Code with `D:\Kanawana` as the working directory.
+1. **See `project-docs/NEXT-SESSION-PROMPT.md` (2026-07-05 version) for the current handoff** —
+   it supersedes the photo-integration prompt referenced lower in this section. Short version:
+   the ~140 untapped plaque photos flagged in item 2 below got a full visual-mining pass on branch
+   `claude/photo-image-metadata-mining-81iv0v` (PR #2, open/draft) — 159 new facts, a resolved
+   director-timeline conflict (c_014, via oral history revealing a 1995 Executive/On-Site Director
+   split), and a RALPH web-verification pass that's *partially* blocked on an egress-proxy 403
+   Matt is trying to get lifted. Read the prompt file for the full state and the next concrete
+   steps.
 2. **Photo integration is DONE (2026-07-02).** 234 of the 244 delivered images are filed in
    `assets/images/{historical,maps,plaques,artifacts,art}/`, credited in `credits.json`, and a
    curated ~40-image selection is wired into 15 wiki articles. See research-log.md Campaign 22
    for the full account, including a rights-classification bug caught mid-integration (plaque and
    artifact photos were briefly misclassified as pre-1949 public domain based on the depicted
-   subject's date rather than the photograph's own date — fixed before committing). **Remaining
-   work in this area (not done, optional follow-up):** ~140 of the 151 dining-hall plaque photos
-   are filed/credited but not individually embedded in any article — they're a large untapped
-   primary source for director/counsellor names and section rosters by year
-   (`src_flickr_kanawana_plaque_album` in sources.json flags this). 8 want-list items from
-   `PHOTO-ACQUISITION.md` are still `not_acquired` (flag-raising c.1910, camp truck c.1910, the
-   1898 Jubilee photo, Otoreke items, McCord postcard, Harold Cross portrait, centennial poster,
-   Facebook album) — none were present in the 2026-06-29 delivery.
-3. **NOT doing oral history right now** — Matt explicitly deferred it (2026-06-29). The instrument
-   at `project-docs/oral-history-instrument.md` is drafted and ready, but do not present/run it
-   unless Matt asks.
+   subject's date rather than the photograph's own date — fixed before committing). The ~140
+   dining-hall plaque photos flagged here as an untapped source are no longer untapped — see #1.
+   8 want-list items from `PHOTO-ACQUISITION.md` are still `not_acquired` (flag-raising c.1910,
+   camp truck c.1910, the 1898 Jubilee photo, Otoreke items, McCord postcard, Harold Cross
+   portrait, centennial poster, Facebook album) — none were present in the 2026-06-29 delivery.
+3. **NOT doing oral history right now** — Matt explicitly deferred it (2026-06-29), though he did
+   volunteer a substantial piece of it unprompted on 2026-07-05 (the director-timeline
+   restructuring in #1). The instrument at `project-docs/oral-history-instrument.md` is drafted
+   and ready, but do not present/run it unless Matt asks.
 
 ## Resuming
 
