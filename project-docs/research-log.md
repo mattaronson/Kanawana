@@ -2601,3 +2601,25 @@ now noted in the new article's own research notes for future sessions.
 ### Outcome
 3 new facts (f_1755-f_1757), 2 new sources, KB v4.95 (1719 facts). 1 new article
 (`wiki/people/joanna-hoad.md`, status draft), `articles.json` now has 53 articles.
+
+## Campaign 25, continued: a second name correction — Arleen Boyer
+
+Immediately after the Hoad/LCC breakthrough above, the operator corrected another name: "Arlene Boyle"
+should be **Arleen Boyer** — both the first name and surname were wrong, not just one. This closes the
+loop on the "promising but unconfirmed" lead from earlier the same day: the "Arleen Boyer" name found
+on Kamp Kanawana's FY2003-2004 local volunteer advisory committee (in the same Montreal YMCA annual
+report that corroborated Gary White and Morgan Carter) was flagged at the time as *phonetically close
+but not an exact match* to "Arlene Boyle." It turns out the annual report had the spelling right all
+along — the mismatch was in the oral-history transcription, not the archival record. Updated the KB
+facts (f_1729, f_1730, f_1731, f_1751, f_1758), her `directors-index.md` row, Open Question 9, and the
+cross-reference in the new `joanna-hoad.md` article.
+
+**Lesson**: when a research lead is "close but not an exact spelling match" to a name sourced only
+from memory, the mismatch may well be in the memory rather than the lead — worth flagging clearly as
+a positive-but-unconfirmed candidate (as this one was) rather than discounting it, since operator
+follow-up can resolve it in seconds once asked.
+
+### Outcome
+No new facts (existing facts corrected in place, per the same pattern as the Hoad name correction —
+this is an operator-sourced identity correction, not a new external source, so no conflict record was
+needed). KB v4.95 unchanged in fact count.

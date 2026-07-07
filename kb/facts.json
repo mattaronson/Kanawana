@@ -2,7 +2,7 @@
   "version": "v4.92",
   "kb_version": "v4.95",
   "migrated_from": "3.3",
-  "fact_count": 1719,
+  "fact_count": 1720,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -29335,14 +29335,14 @@
     },
     {
       "fact_id": "f_1729",
-      "claim": "Arlene Boyle served as Executive Director of Camp Kanawana from 1995 to 2000.",
+      "claim": "Arleen Boyer (previously misrecorded as 'Arlene Boyle') served as Executive Director of Camp Kanawana from 1995 to 2000. Operator corrected both the first name ('Arlene' -> 'Arleen') and surname ('Boyle' -> 'Boyer') on 2026-07-07, confirming that the 'Arleen Boyer' name independently found on Kamp Kanawana's FY2003-2004 local volunteer advisory committee in the Montreal YMCA's own annual report (f_1751) was the correct spelling all along, not a near-miss.",
       "sources": [
         "src_oral_aronson"
       ],
       "confidence": "user_knowledge",
       "category": "directors",
       "entities": [
-        "Arlene Boyle"
+        "Arleen Boyer"
       ],
       "date_ref": "1995-2000",
       "conflicts_with": [],
@@ -29351,7 +29351,7 @@
     },
     {
       "fact_id": "f_1730",
-      "claim": "Joanna A.A. Hoad served as the on-site Camp Director of Kanawana from 1995 to 2000, under Executive Director Arlene Boyle. (Previously recorded in the KB as 'Joanna Hode', then miscorrected to 'Johanna A.A. Hoade' -- operator confirms the correct spelling is 'Joanna A.A. Hoad'.)",
+      "claim": "Joanna A.A. Hoad served as the on-site Camp Director of Kanawana from 1995 to 2000, under Executive Director Arleen Boyer. (Previously recorded in the KB as 'Joanna Hode', then miscorrected to 'Johanna A.A. Hoade' -- operator confirms the correct spelling is 'Joanna A.A. Hoad'.)",
       "sources": [
         "src_oral_aronson"
       ],
@@ -29359,7 +29359,7 @@
       "category": "directors",
       "entities": [
         "Joanna A.A. Hoad",
-        "Arlene Boyle"
+        "Arleen Boyer"
       ],
       "date_ref": "1995-2000",
       "conflicts_with": [],
@@ -29368,7 +29368,7 @@
     },
     {
       "fact_id": "f_1731",
-      "claim": "Gary White succeeded Arlene Boyle as Executive Director of Camp Kanawana in 2001 and served until 2005, when he was succeeded by Sean Day.",
+      "claim": "Gary White succeeded Arleen Boyer as Executive Director of Camp Kanawana in 2001 and served until 2005, when he was succeeded by Sean Day.",
       "sources": [
         "src_oral_aronson"
       ],
@@ -29376,7 +29376,7 @@
       "category": "directors",
       "entities": [
         "Gary White",
-        "Arlene Boyle",
+        "Arleen Boyer",
         "Sean Day"
       ],
       "date_ref": "2001-2005",
@@ -29709,14 +29709,14 @@
     },
     {
       "fact_id": "f_1751",
-      "claim": "The Montreal YMCA's Annual Report for fiscal year 2003-2004 (archived PDF, web.archive.org/web/20051124062448/http://www.ymcamontreal.qc.ca/PDF/SS/rapportannuel_a.pdf, fetched directly 2026-07-07) confirms Gary White continuing as 'Director, Westmount YMCA' (not Kamp Kanawana), and lists the Kamp Kanawana branch's local volunteer advisory committee as: Arleen Boyer, Lynn Brown-Poole, Toni Cochand (Chair), Rick Lozoff, Marley Morriss, and Judy Weil. 'Arleen Boyer' also appears independently in the same report's general individual-donor list (not Kanawana-specific). Her name is phonetically close to, but not an exact spelling match for, 'Arlene Boyle' (the oral-history-sourced 1995-2000 Executive Director) -- flagged as a promising but unconfirmed identity lead, consistent with a former director remaining connected to the camp as a volunteer committee member after her paid tenure ended, not a positive identification.",
+      "claim": "The Montreal YMCA's Annual Report for fiscal year 2003-2004 (archived PDF, web.archive.org/web/20051124062448/http://www.ymcamontreal.qc.ca/PDF/SS/rapportannuel_a.pdf, fetched directly 2026-07-07) confirms Gary White continuing as 'Director, Westmount YMCA' (not Kamp Kanawana), and lists the Kamp Kanawana branch's local volunteer advisory committee as: Arleen Boyer, Lynn Brown-Poole, Toni Cochand (Chair), Rick Lozoff, Marley Morriss, and Judy Weil. 'Arleen Boyer' also appears independently in the same report's general individual-donor list (not Kanawana-specific). Operator confirmed 2026-07-07 that this is the same person: the oral-history-sourced 1995-2000 Executive Director's name was itself misrecorded as 'Arlene Boyle' and is actually 'Arleen Boyer' -- this annual report's spelling was correct all along, now treated as a positive identification, consistent with a former director remaining connected to the camp as a volunteer committee member after her paid tenure ended.",
       "sources": [
         "src_wayback_ymcamontreal_annualreport_2003_2004"
       ],
       "confidence": "stated",
       "category": "people",
       "entities": [
-        "Arlene Boyle",
+        "Arleen Boyer",
         "Gary White"
       ],
       "date_ref": "2003-2004",
@@ -29829,6 +29829,22 @@
       "conflicts_with": [],
       "added_version": "v4.95",
       "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_1758",
+      "claim": "Operator confirmed 2026-07-07 that 'Arlene Boyle' (Kanawana Executive Director, 1995-2000) was misrecorded on both the first name and surname -- the correct name is 'Arleen Boyer.' This matches, and is confirmed by, 'Arleen Boyer' independently found on Kamp Kanawana's FY2003-2004 local volunteer advisory committee in the Montreal YMCA's own Wayback-archived annual report (f_1751), which had been flagged as a promising-but-unconfirmed lead earlier the same day, before the name correction. That lead is now a positive identification.",
+      "sources": [
+        "src_oral_aronson"
+      ],
+      "confidence": "user_knowledge",
+      "category": "people",
+      "entities": [
+        "Arleen Boyer"
+      ],
+      "date_ref": "2026-07-07",
+      "conflicts_with": [],
+      "added_version": "v4.95",
+      "added_by": "oral_history"
     }
   ]
 }
