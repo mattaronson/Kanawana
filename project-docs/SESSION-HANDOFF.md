@@ -8,6 +8,26 @@ NOT captured in CLAUDE.md. Update this file when you learn something new about H
 
 ---
 
+## Network access 403s — root cause found (2026-07-05)
+
+The recurring HTTP 403 on `ymcaquebec.org`, `linkedin.com`, `facebook.com`, `concordia.ca`, `cbc.ca`,
+`web.archive.org` (and, on testing, essentially every other non-package-registry domain —
+`archive.org`, `spectrum.library.concordia.ca`, BAnQ, newspapers.com, instagram.com) was **not** a
+proxy bug, a stale-session/propagation-timing issue, or the wrong environment being edited. Matt
+confirmed (2026-07-05) he had typed the target domains into the environment's **Allowed Domains**
+box but never switched the **Network Access level** dropdown itself to **Custom** — it was still on
+Trusted (or None). The Allowed Domains list is inert unless the level is Custom; Trusted only
+permits a fixed Anthropic allowlist (package registries, GitHub/GitLab/Bitbucket, cloud SDKs) that
+none of this project's research domains are on. `curl -v` against the local agent proxy confirmed
+the CONNECT tunnel reaches the upstream gateway fine and the gateway itself returns the 403 — the
+local proxy and network path were never the problem.
+
+**Fix**: in the environment settings (claude.ai/code → cloud icon → edit environment), explicitly
+select **Custom** as the Network Access level (not just fill the domains box), save, then start a
+**new** session — network policy is fixed at session boot, not hot-reloaded into a running session.
+**If a future session still 403s on these hosts after Matt says he's fixed it**, re-verify the access
+level is actually Custom (not just the domains list) before assuming it's a new/different problem.
+
 ## ⚡ START HERE (next session)
 
 1. **See `project-docs/NEXT-SESSION-PROMPT.md` (2026-07-05 version) for the current handoff** —
