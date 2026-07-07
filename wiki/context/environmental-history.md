@@ -1,7 +1,7 @@
 # Environmental Education and Stewardship at Kanawana
 
-*Status: E1-reviewed | Sources: 19*
-*Last Updated: 2026-06-24 — photo gallery added 2026-07-02*
+*Status: E1-reviewed | Sources: 23*
+*Last Updated: 2026-07-07 — Green Shift section enriched with primary-source detail from a systematic Montreal YMCA/YMCA Quebec annual-report sweep (2007-2012), plus new School Programs and Accessibility sections*
 
 ## Overview
 
@@ -11,9 +11,11 @@ The camp's environmental identity rests on three pillars: infrastructure investm
 
 ## Environmental Infrastructure
 
-### The Green Shift (2006–2009)
+### The Green Shift (2006–2012)
 
 The camp's "virage vert" (green shift) began in 2006 with the goal of reducing Kanawana's ecological footprint and repositioning it as an outdoor education centre; every building renovated or constructed from 2006 onward was energy-efficient and incorporated educational elements.^17 The green shift enabled the camp to serve "four times more young people" than before, transforming it from a summer-only operation into a three-season environmental education facility.^22 In February 2009, Les Y du Québec announced a further revitalization phase with new accommodation facilities; environmental features documented at the time included green sanitary installations, heat exchangers, composting toilets, and an artificial wetland system (marais artificiel) for wastewater treatment.^17 In 2010, TELUS contributed $50,000 toward a three-season educational pavilion at the camp.^23
+
+The Montreal YMCA's own annual reports, mined directly in 2026-07-07 (project-docs/research-log.md Campaign 25), give a year-by-year primary-source account of the project's scale and progress. The 2007 annual report frames it as a $5 million development, describing it as Quebec's first "green camp": by that spring, two eco-friendly sanitary buildings (low-flow taps and showers, heat-recovery systems) were already built and in use, and a garden/composting education program had launched in partnership with YMCA Pointe-Saint-Charles, pairing seniors and youth for seedling production, planting, and composting under a specialist gardener; 19% of Kanawana campers received financial assistance that year, a figure the report described as rising annually.^24 By December 2008, $1.48 million had been raised toward the $5 million goal.^25 By 2009, Phase I was nearly complete, with twelve new three-season cabins erected at the Saint-Sauveur site for campers aged 7–12 and their counsellors.^26 The project's environmental merit was recognized outside the YMCA itself: in December 2010, Kanawana received an honourable mention for environmental achievement at the City of Saint-Sauveur's annual Gala Méritas award.^27 Construction began in October 2011 on educational pavilions for nature classes and community groups,^27 and a new eco-educational pavilion opened in 2012.^28
 
 ### Composting System
 
@@ -29,7 +31,11 @@ Actual monitoring values were retrieved via operator browser access: in 2010 the
 
 ### School Programs
 
-Camp Kanawana hosts EMSB school groups for fall conservation education trips. Students from schools including Vincent Massey Collegiate and John F. Kennedy High School have spent overnight stays learning about modern conservation, nature, and team building, then planning community-based conservation action projects to implement throughout the year.^4
+Camp Kanawana hosts EMSB school groups for fall conservation education trips. Students from schools including Vincent Massey Collegiate and John F. Kennedy High School have spent overnight stays learning about modern conservation, nature, and team building, then planning community-based conservation action projects to implement throughout the year.^4 The Montreal YMCA's 2009 annual report documents this school-partnership program at scale: over 500 students from six schools and roughly ten community groups took part in Kanawana's nature classes that year, with educational content co-developed with the Commission scolaire de Montréal (CSDM) and the Clubs 4-H du Québec.^26
+
+### Accessibility and Inclusion
+
+The camp's 2019 annual report describes its inclusion program helping a camper living with autism, a recent immigrant from Brazil, build independence and become a full member of the camp community — one documented example of Kanawana's disability-inclusion programming alongside its financial-accessibility initiatives (see the "19% of campers received financial assistance" figure noted for 2007, above).^29
 
 ### C-Vert Program
 
@@ -131,3 +137,9 @@ The Canadian Summer Camp Research Project (CSCRP, 2006–2011), conducted by the
 22. YMCA Quebec / Camp Kanawana promotional materials: green shift enabling "four times more young people."
 23. TELUS Community Board, 2010: $50,000 contribution toward three-season educational pavilion at Camp Kanawana.
 22. CRE Laurentides / RSVL-MELCCFP — Lac Kanawana (Station 0573A) data, retrieved via operator browser access June 2026: morphometry, 2010-2011 water quality means, trophic status. See conflicts c_009 (volume), c_010 (renewal time), c_011 (monitoring period).
+24. Les YMCA du Québec, Rapport Annuel 2007 (Wayback Machine, fetched directly 2026-07-07). f_1761.
+25. Les YMCA du Québec, Rapport Annuel 2008 (Wayback Machine, fetched directly 2026-07-07). f_1762.
+26. Les YMCA du Québec, Rapport Annuel 2009 (Wayback Machine, fetched directly 2026-07-07). f_1763.
+27. Les YMCA du Québec, Rapport à la communauté 2011 (Wayback Machine, fetched directly 2026-07-07). f_1764.
+28. Les YMCA du Québec, Rapport à la communauté 2012 (Wayback Machine, fetched directly 2026-07-07). f_1765.
+29. Les YMCA du Québec, Rapport Annuel 2019 (Wayback Machine, fetched directly 2026-07-07). f_1766.

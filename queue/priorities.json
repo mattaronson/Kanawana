@@ -2423,6 +2423,44 @@
       "assigned_weight": "P3",
       "created_at": "2026-06-24T00:00:00Z",
       "status": "blocked"
+    },
+    {
+      "priority_id": "p_191",
+      "rank": 191,
+      "type": "WRITE",
+      "description": "ENRICH pass on directors-index.md, section-names.md, and program articles (rangers, voyageurs, cit/lit, advance-guard, etc.) using the 158 new photo-mined facts (f_1569-f_1726) from the full visual-mining pass on assets/images/. Rich director/counsellor rosters by year now available for Rangers (1955-2005), CIT (1975-2001), Voyageurs (1988-2010), and others — cross-check against existing directors-index for gap-filling in the 1947-2003 range per the Phase 2 mandate.",
+      "article_id": null,
+      "blocking": false,
+      "assigned_weight": "P2",
+      "created_at": "2026-07-05T00:00:00Z",
+      "status": "completed",
+      "completed_at": "2026-07-05T00:00:00Z",
+      "result": "Added 16 titled section/program-director rows (CIT, LIT, Rangers, Voyageurs, JBC, Senior Girls) to directors-index.md Section and Program Directors table; enriched section-names.md with a new Section and Program Directors narrative section; added named trip-staff (Rob Shackell, Steve Wesley, Lorna McNeish, Mark Chamandy-Cook) to canoe-trips.md. No new facts/sources -- propagated already-extracted plaque facts (f_1569-f_1739) into article prose."
+    },
+    {
+      "priority_id": "p_192",
+      "rank": 192,
+      "type": "RESEARCH",
+      "description": "Formal-RALPH biographical research on four newly-named directors surfaced by 2026-07-05 operator oral history (single-source only so far): Arlene Boyle (Exec. Dir. 1995-2000), Gary White (Exec. Dir. 2001-2005), Nicholas Garcia (on-site Director 2005-2012), Justin Caldwell (on-site Director 2025-present, current). Search obituaries/LinkedIn/YMCA records/news coverage to corroborate independently before creating standalone stub articles (Article Spawning Thresholds require a named person who held a camp role, but formal RALPH is mandatory for people stubs).",
+      "article_id": "directors-index",
+      "blocking": false,
+      "assigned_weight": "P2",
+      "created_at": "2026-07-05T00:00:00Z",
+      "status": "completed",
+      "completed_at": "2026-07-05T00:00:00Z",
+      "result": "RALPH research completed 2026-07-05 (5 parallel agents, ~130 total queries across web/LinkedIn/Facebook/Instagram/news/YMCA-site/genealogy surfaces -- exceeds the 8-query/3-surface exhaustion bar for every target). Results: Arlene Boyle (Exec. Dir. 1995-2000) -- 27 queries, ZERO independent corroboration, no contradiction; remains oral-history-only. Johanna A.A. Hoade / 'Joanna Hode' (on-site Dir. 1995-2000) -- same batch, ZERO corroboration under any spelling variant; remains oral-history-only. Gary White (Exec. Dir. 2001-2005) -- found an ambiguous, UNCONFIRMED partial lead (a 'Gary White' documented as Westmount YMCA branch director 2012-2018, different role/decade, not verified as the same person); no direct corroboration of the 2001-2005 Kanawana claim. Nicholas Garcia (on-site Dir. 2005-2012) -- 24 queries, ZERO corroboration, no contradiction; remains oral-history-only. Justin Caldwell (current on-site Dir. 2025-) -- PARTIALLY CORROBORATED: independently confirmed as genuine 2018 Kanawana trip staff (Facebook video, f_1741) plus two aggregator listings (ZoomInfo/Datanyze) as 'Summer Camp Director at YMCA of Quebec' (f_1742, lead-level confidence only, no LinkedIn primary-source match). Also independently corroborated in passing: Sean Day held a director-level Kanawana role by 2005 per a CBC article (f_1740, upgrades f_0046's vaguer 'was present' framing); Kevin Slezak's and Marie-Pierre Lacasse's general titles exist on LinkedIn/aggregators (dates unconfirmed); Marie-Pierre Lacasse's LinkedIn title reads 'Directeur principal' of the YMCA Québec organization region-wide rather than Kanawana-specific 'Executive Director' -- flagged as an open nuance in directors-index.md, not escalated to a formal conflict. No stub articles created for Boyle/Hoade/White/Garcia -- single-source oral history only, does not meet the bar for a standalone biography."
+    },
+    {
+      "priority_id": "p_193",
+      "rank": 193,
+      "type": "OPERATOR_ACTION",
+      "description": "Two operator-only leads flagged 2026-07-07, blocked on agent capability, not research effort: (1) MANUAL FACEBOOK SEARCH -- the Kanawana Facebook page/alumni groups are a likely-rich, completely untapped source (photos, tagged names, event posts, comments), but are structurally unreachable to this agent: a plain fetch or Wayback archive returns only an empty JS/CSS shell (confirmed by direct test 2026-07-07 -- 445KB of markup, zero post content, just a one-line bio blurb), and using the operator's login via an automated/headless browser was considered and explicitly declined -- credentials would be an exposed secret in this environment, and driving a real login via headless automation risks tripping Facebook's bot detection and flagging/locking the operator's actual account, a real cost for uncertain payoff. The only safe path is the operator manually browsing Facebook themselves (normal personal use, no ToS/security issue) and reporting back specific finds -- names, dates, photos, post text, screenshots -- for the agent to verify and write up, the same way the Drive-delivered photo archive was handled. (2) PHYSICAL CONCORDIA ARCHIVES VISIT -- consolidates p_049 (P0145/12B07 song sheets and Kanawana song books 1925-1945, blocked) and p_176 (P0145/12B01 1974-76 camp director correspondence to identify the anonymous 1974-75 director, blocked): both require in-person access to boxes not digitized or described in enough detail online. The Concordia finding aids for sub-series 12A, 12B01, and 12B04 have now been read directly in full (2026-07-07) and confirmed to stop around 1983-1990 -- they will not resolve the 1995-2012 Two-Tier Era director gaps (conflicts c_015 Sean Day's start date, c_016 Nicolas Garcia's exact tenure) either; only a physical visit or a records request to Concordia University Archives (P0145, YMCA of Montreal fonds) could plausibly close these.",
+      "article_id": null,
+      "blocking": false,
+      "assigned_weight": "P2",
+      "created_at": "2026-07-07T00:00:00Z",
+      "status": "blocked",
+      "blocking_reason": "Requires operator physical presence (archive visit) or direct manual action (personal Facebook browsing) -- not resolvable by agent research."
     }
   ]
 }

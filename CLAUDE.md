@@ -241,6 +241,8 @@ When a new fact contradicts an existing one (same entity + same attribute + diff
 3. Flag for human review
 4. Preserve both facts until resolved
 
+**Default resolution direction (operator directive, 2026-07-07):** oral history always yields to documented facts when the two directly conflict. When a conflict record pits an oral-history-sourced fact (`confidence: user_knowledge` or an oral-history source) against a documented source (primary or secondary — annual report, archival record, LinkedIn, press coverage, etc.), resolve in favor of the documented source without waiting for further human review. Mark the conflict `resolved`, note the resolution and date, and update affected wiki articles accordingly. The superseded oral-history fact is still preserved per the no-silent-overwrite rule — it is not deleted, only marked superseded. This directive applies only where the two sources actually conflict on the same claim; an undocumented span that no source covers (e.g., an oral-history date range partially outside any document's coverage window) is not "resolved" by this rule, since there is nothing documented to prefer — it remains open, flagged as unconfirmed. Genuine human-decision-point conflicts (two documented sources disagreeing with each other, or ambiguity about what a document actually means) still require human review as before.
+
 ## Wiki Manager
 
 ### Coverage Analysis

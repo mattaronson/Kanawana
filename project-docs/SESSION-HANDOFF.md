@@ -8,27 +8,76 @@ NOT captured in CLAUDE.md. Update this file when you learn something new about H
 
 ---
 
+## Commit signing outage 2026-07-07 — one commit pushed unsigned with Matt's explicit go-ahead
+
+Mid-session, `git commit` started failing with `failed to read codesign server configuration:
+codesign server configuration not found` (the harness's commit-signing helper couldn't reach its
+config service) — not caused by anything in the repo or the commit content. Retried plain several
+times over ~15 minutes with no recovery. Matt was asked and explicitly authorized `--no-gpg-sign`
+for that one push (commit `d88722b`) rather than continuing to block on it. If this recurs: retry
+plain signed commits a few times first (it may be transient), but don't loop indefinitely — ask
+before bypassing, same as this time.
+
+## Network access 403s — RESOLVED (2026-07-05 diagnosis, fixed 2026-07-07)
+
+**Status: fixed and verified live 2026-07-07.** `ymcaquebec.org`, `linkedin.com`, `facebook.com`,
+`concordia.ca`, `cbc.ca`, `web.archive.org`, `archive.org`, `spectrum.library.concordia.ca`, and
+`banq.qc.ca` all now return real HTTP responses (200) instead of proxy 403s, confirmed via
+`curl` and WebFetch in-session. `canlii.ca` also passes the proxy now — it returns its own 403 from
+DataDome bot-protection on canlii.org's side, which is a site-side WAF issue, not a network-policy
+one. `canada.ca` timed out on one retest (inconclusive, not one of the original blocked targets,
+not investigated further).
+
+**What the actual fix was**: not the per-environment "Network Access" dropdown originally suspected
+(2026-07-05 theory below, left for the record) — it was **claude.ai → Settings → Capabilities →
+Domain allowlist**, an account-wide "Additional allowed domains" list (screenshot confirmed
+`*.archive.org`, `*.banq.qc.ca`, `*.canada.ca`, `*.canlii.ca`, `*.cbc.ca`, and more added there).
+The first couple of retests in the same session still 403'd even on domains already in that list,
+which looked like it might be the wrong settings panel entirely — but a subsequent retest in a
+newer session showed it had in fact worked. So: **it does work, but changes to this list did not
+take effect until a genuinely fresh session was started** — mid-session retests in the same running
+session kept failing even minutes after the settings were saved. If this recurs, don't conclude the
+panel is wrong; just make sure you're testing from a brand new session, not the one open when the
+change was saved.
+
+<!-- Original 2026-07-05 theory, superseded by the above -- kept for context, do not re-apply: the
+diagnosis at the time was a per-environment Network Access level (claude.ai/code -> cloud icon ->
+edit environment -> Custom) left on Trusted. That may be a real, separate setting, but it was not
+the one that actually resolved this issue -- the Capabilities > Domain allowlist panel was. -->
+
 ## ⚡ START HERE (next session)
 
-1. **Master folder is `D:\Kanawana`** on Matt's local Windows machine. Work here, not in
-   `C:\Users\Matt.ADESSKY\Kanawana` (that old clone is stale/redundant and may be deleted).
-   Launch Claude Code with `D:\Kanawana` as the working directory.
+0. **Two operator-only action items are flagged in `queue/priorities.json` as `p_193`** (blocked,
+   2026-07-07): (a) a manual Facebook search by Matt himself — the Kanawana FB page/alumni groups are
+   likely rich but structurally unreachable to the agent (confirmed: a fetch returns only an empty
+   JS shell, no post content; using Matt's login via automation was considered and declined on
+   security/ToS/account-risk grounds — see p_193 for the full reasoning) — and (b) a physical visit to
+   Concordia University Archives (P0145, YMCA of Montreal fonds), consolidating two long-blocked leads
+   (p_049 song sheets/song books, p_176 the 1974-76 anonymous director's correspondence) now that the
+   online finding aids have been fully read and confirmed to stop around 1983-1990. Neither is
+   actionable by an agent session — don't re-attempt automating either without new operator input.
+1. **See `project-docs/NEXT-SESSION-PROMPT.md` (2026-07-05 version) for the current handoff** —
+   it supersedes the photo-integration prompt referenced lower in this section. Short version:
+   the ~140 untapped plaque photos flagged in item 2 below got a full visual-mining pass on branch
+   `claude/photo-image-metadata-mining-81iv0v` (PR #2, open/draft) — 159 new facts, a resolved
+   director-timeline conflict (c_014, via oral history revealing a 1995 Executive/On-Site Director
+   split), and a RALPH web-verification pass that's *partially* blocked on an egress-proxy 403
+   Matt is trying to get lifted. Read the prompt file for the full state and the next concrete
+   steps.
 2. **Photo integration is DONE (2026-07-02).** 234 of the 244 delivered images are filed in
    `assets/images/{historical,maps,plaques,artifacts,art}/`, credited in `credits.json`, and a
    curated ~40-image selection is wired into 15 wiki articles. See research-log.md Campaign 22
    for the full account, including a rights-classification bug caught mid-integration (plaque and
    artifact photos were briefly misclassified as pre-1949 public domain based on the depicted
-   subject's date rather than the photograph's own date — fixed before committing). **Remaining
-   work in this area (not done, optional follow-up):** ~140 of the 151 dining-hall plaque photos
-   are filed/credited but not individually embedded in any article — they're a large untapped
-   primary source for director/counsellor names and section rosters by year
-   (`src_flickr_kanawana_plaque_album` in sources.json flags this). 8 want-list items from
-   `PHOTO-ACQUISITION.md` are still `not_acquired` (flag-raising c.1910, camp truck c.1910, the
-   1898 Jubilee photo, Otoreke items, McCord postcard, Harold Cross portrait, centennial poster,
-   Facebook album) — none were present in the 2026-06-29 delivery.
-3. **NOT doing oral history right now** — Matt explicitly deferred it (2026-06-29). The instrument
-   at `project-docs/oral-history-instrument.md` is drafted and ready, but do not present/run it
-   unless Matt asks.
+   subject's date rather than the photograph's own date — fixed before committing). The ~140
+   dining-hall plaque photos flagged here as an untapped source are no longer untapped — see #1.
+   8 want-list items from `PHOTO-ACQUISITION.md` are still `not_acquired` (flag-raising c.1910,
+   camp truck c.1910, the 1898 Jubilee photo, Otoreke items, McCord postcard, Harold Cross
+   portrait, centennial poster, Facebook album) — none were present in the 2026-06-29 delivery.
+3. **NOT doing oral history right now** — Matt explicitly deferred it (2026-06-29), though he did
+   volunteer a substantial piece of it unprompted on 2026-07-05 (the director-timeline
+   restructuring in #1). The instrument at `project-docs/oral-history-instrument.md` is drafted
+   and ready, but do not present/run it unless Matt asks.
 
 ## Resuming
 

@@ -66,13 +66,16 @@
         "f_0860",
         "f_0991"
       ],
-      "resolution": "pending",
+      "status": "resolved",
+      "resolution": "Resolved 2026-07-07 per standing policy (documented sources take precedence over oral history in direct conflicts -- operator directive): adopt f_0991 (LinkedIn, 'stated' confidence) -- Sean Day is Director of Fund Development at Tyndale St-Georges Community Centre. f_0860 (oral-history-derived 'Rossy Foundation' report, 'inferred' confidence) is superseded and preserved per the no-silent-overwrite rule; f_0991's own text suggests Rossy may have been a brief interim position. wiki/people/sean-day.md already reflected the Tyndale reading; directors-index.md's Sean Day row (which still read 'Rossy Foundation') has been corrected to match.",
+      "resolved_at": "2026-07-07T00:00:00Z",
       "created_at": "2026-03-16T05:00:00Z"
     },
     {
       "conflict_id": "c_005",
       "description": "1910 first-season enrollment at Saint-Sauveur: 66 members (McMorris) vs 85 campers registered (Postmedia/YMCA-sponsored 2026)",
       "fact_ids": [
+        "f_1747",
         "f_1033"
       ],
       "entity": "Camp Kanawana",
@@ -82,7 +85,7 @@
         "85 campers registered for the summer session (Postmedia 2026, YMCA-sponsored content)"
       ],
       "status": "unresolved",
-      "notes": "McMorris (academic thesis with archival research) is the higher-reliability source. The 85 figure may reflect total registrations vs actual attendance, or may include Camp Otoreke (which continued operating at Lake St. Joseph). The Postmedia article is sponsored content written on behalf of YMCAs of Québec, so the 85 figure likely comes from the YMCA's own institutional narrative. Not necessarily contradictory — could be registrations vs attendance.",
+      "notes": "McMorris (academic thesis with archival research) is the higher-reliability source. The 85 figure may reflect total registrations vs actual attendance, or may include Camp Otoreke (which continued operating at Lake St. Joseph). The Postmedia article is sponsored content written on behalf of YMCAs of Québec, so the 85 figure likely comes from the YMCA's own institutional narrative. Not necessarily contradictory — could be registrations vs attendance. Update 2026-07-07: direct fetch of the YMCA Quebec history page (f_1747) confirms the '85 campers' figure is the YMCA's own current official institutional claim (not merely Postmedia sponsored-content phrasing) -- strengthens the case that this is a real institutional-narrative-vs-archival-record discrepancy rather than a media error, but does not resolve which figure is correct.",
       "created_at": "2026-03-17T12:00:00Z",
       "affects_articles": [
         "founding-1894",
@@ -124,13 +127,15 @@
         "1979 (Phase 2 extraction of 12B01 finding aid, f_0752)",
         "1976 (search-engine snippets of same finding aid, 2026-06-11, two independent queries, f_1169)"
       ],
-      "status": "unresolved",
+      "status": "resolved",
       "notes": "Both readings derive from the same finding aid page (concordia.ca ymca-fonds-sub-sub-series-12B01.html), which is now proxy-blocked (403) to the agent. May not be a true conflict — the aid may list multiple Twynam correspondence files. Resolution: operator fetch of the 12B01 page or the AtoM finding aid PDF (p_057). If 1976 is correct, Twynam's tenure spans at least 1976-1980, fully bridging the gap after Stuart McLean (asst. director 1974-75).",
       "created_at": "2026-06-11T14:00:00Z",
       "affects_articles": [
         "dave-twynam",
         "directors-index"
-      ]
+      ],
+      "resolution": "Direct fetch of the Concordia 12B01 finding aid page (2026-07-07, first time network access allowed reading it directly rather than via search snippet) shows the finding aid's own text reads 'Camp director Dave Twynam-correspondence. - 1979' -- confirming the original 1979 dating. The 1976 alternative was an artifact of search-engine snippet rendering, not the finding aid's actual text. f_1748 added as the resolving fact.",
+      "resolved_at": "2026-07-07T00:00:00Z"
     },
     {
       "conflict_id": "c_008",
@@ -253,6 +258,92 @@
       "affects_articles": [
         "directors-index"
       ]
+    },
+    {
+      "conflict_id": "c_014",
+      "description": "2003 camp director: a JBC dining-hall plaque explicitly labeled '2003' names a leadership hierarchy 'Camp Director: Morgan; Assistant Director: Marc; Chief: Dave; Section Directors: Matt, Laurie' -- naming 'Morgan' (not 'Dave') as Camp Director. Per directors-index.md's own framing, 'Camp Chief' is a historical synonym for Camp Director, which complicates rather than resolves the reading: this plaque may be using 'Camp Director' and 'Chief' as two names for the same top role (in which case Morgan and Dave can't both hold it in 2003), or as genuinely distinct roles (Chief subordinate to Camp Director) unique to this plaque/era. Either reading conflicts with the directors-index claim (sourced from the operator's oral history/personal knowledge, confidence 'user_knowledge') that Dave Leduc was Camp Director in 2003, and sits awkwardly against Morgan M. Carter's documented 2001-2002 end date.",
+      "fact_ids": [
+        "f_1638",
+        "f_1215",
+        "f_1732",
+        "f_1733"
+      ],
+      "entity": "Camp Kanawana directorship 2003",
+      "attribute": "director_2003",
+      "values": [
+        "Morgan [Carter?] as Camp Director, Dave possibly as subordinate 'Chief' (literal plaque reading)",
+        "Dave Leduc as Camp Director in 2003 (f_1215, operator oral history)",
+        "Dave Leduc as Camp Director starting 2004 instead, per operator's 2026-07-05 reconsideration (would need to reconcile against Sean Day's documented 2004-2023 start)"
+      ],
+      "status": "resolved",
+      "notes": "RESOLVED 2026-07-05 via operator oral history (f_1728-f_1739): from 1995, Kanawana's directorship was split into a year-round Executive Director and a three-season on-site Camp Director (colloquially 'Chief' until the title was retired in the early 2020s as part of reconciliation efforts). Morgan Carter was the on-site Camp Director for summers 2001-2003 (f_1732, extending the prior 2001-2002 record); Dave Leduc's on-site directorship was a single summer, 2004 (f_1733), not 2003 as f_1215 stated. The JBC 2003 plaque's 'Camp Director: Morgan' is now fully corroborated. Its 'Chief: Dave' remains a minor open question -- since Morgan, not Dave, held the on-site directorship ('Chief') in 2003 per this corrected timeline, 'Dave' on that plaque was either a different Dave in a distinct (non-director) role, or Dave Leduc in some other capacity the year before his 2004 promotion; this residual ambiguity is not worth its own conflict record. f_1215 (Leduc directorship dated 2003) is superseded by f_1733 but left in the KB as a preserved historical record per conflict-handling convention.",
+      "created_at": "2026-07-05T00:00:00Z",
+      "affects_articles": [
+        "directors-index"
+      ]
+    },
+    {
+      "conflict_id": "c_015",
+      "description": "Gary White's Kamp Kanawana directorship: oral history says Executive Director 2001-2005 (year-round, senior to Morgan Carter's on-site summer directorship 2001-2003); the Montreal YMCA's own annual reports show 'White, Gary -- Director, YMCA Kamp Kanawana' only for fiscal year 2001-2002, after which the report lists 'Carter, Morgan M. -- Interim Director, YMCA Kamp Kanawana' (FY2002-2003) and White separately as 'Director, Westmount YMCA' (confirmed FY2002-2003 and FY2003-2004).",
+      "fact_ids": [
+        "f_1731",
+        "f_1732",
+        "f_1749",
+        "f_1750",
+        "f_1751"
+      ],
+      "entity": "Gary White",
+      "attribute": "kanawana_directorship_tenure",
+      "values": [
+        "Executive Director, Camp Kanawana, 2001-2005 (oral history, M. Aronson)",
+        "Director, YMCA Kamp Kanawana, FY2001-2002 only; Director, Westmount YMCA, FY2002-2003 onward (Montreal YMCA annual reports, primary source)"
+      ],
+      "status": "resolved",
+      "notes": "The annual reports' own org chart lists exactly one 'Director' per branch per fiscal year, with no visible Executive/on-site two-tier split -- this may mean the report's 'Director' title tracks the oral history's 'on-site Director' role rather than 'Executive Director,' or it may mean White's Kanawana tenure was genuinely much shorter than oral history recalls, with Morgan Carter (not White) as the senior Kanawana figure from FY2002-2003. That structural question (which tier the annual report's single 'Director' listing tracks) remains an open nuance, not fully resolved. Preserved per the no-silent-overwrite rule -- White's and Carter's directors-index.md rows retain the oral-history dates as historical context alongside the resolved documented dates.",
+      "resolution": "Resolved 2026-07-07 per standing policy (documented sources take precedence over oral history in direct conflicts -- operator directive): adopt the Montreal YMCA annual reports' documented dates. Gary White's confirmed 'Director, YMCA Kamp Kanawana' tenure is FY2001-2002 only; by FY2002-2003 he had moved to 'Director, Westmount YMCA' (confirmed through the 2007 report). The oral-history-recalled 2001-2005 tenure length is superseded for this purpose, though preserved in the KB as f_1731/f_1758.",
+      "resolved_at": "2026-07-07T00:00:00Z",
+      "created_at": "2026-07-07T00:00:00Z"
+    },
+    {
+      "conflict_id": "c_016",
+      "description": "Nicolas/Nicholas Garcia's on-site Director ('Chef de Camp') tenure: oral history says 2005-2012; primary-source archived documents (a 2009 parent guide and 2010-2014 official contact-page snapshots) confirm the role continuously from June 2009 through March 2014 only, with no earlier or later corroboration despite a thorough Wayback CDX search for both endpoints. Identity is not in question (the primary sources independently confirm the person and role under Sean Day) -- only the exact tenure boundary dates differ.",
+      "fact_ids": [
+        "f_1734",
+        "f_1752",
+        "f_1753"
+      ],
+      "entity": "Nicholas Garcia",
+      "attribute": "onsite_directorship_tenure",
+      "values": [
+        "2005-2012 (oral history, M. Aronson)",
+        "June 2009-March 2014, confirmed continuously (Wayback-archived Kanawana parent guide and official contact page, primary source)"
+      ],
+      "status": "resolved",
+      "notes": "The correct spelling per every primary source found is 'Nicolas Garcia' (no 'h'), not 'Nicholas Garcia' as recorded in the KB from oral history -- a likely anglicization from memory, analogous to the 'Joanna Hode' -> 'Joanna A.A. Hoad' spelling correction made for c_014. No pre-2009 snapshot of the camp's staff-contact page exists in the Wayback archive, so the oral-history-recalled 2005 start is not directly contradicted by any document and is retained as the best available (unconfirmed) evidence for that end of the range.",
+      "resolution": "Resolved 2026-07-07 per standing policy (documented sources take precedence over oral history in direct conflicts -- operator directive), applied only where the two genuinely conflict: the documented end date (through March 2014, per f_1753) supersedes the oral-history-recalled 2012 end date, since the two directly contradict for 2012-2014. Spelling corrected to 'Nicolas Garcia' (documented) throughout the KB and directors-index.md, superseding the oral-history 'Nicholas' spelling. The 2005-2008 start is NOT overwritten, since no document covers that span to conflict with it -- it remains oral-history-only and is flagged as unconfirmed rather than resolved.",
+      "resolved_at": "2026-07-07T00:00:00Z",
+      "created_at": "2026-07-07T00:00:00Z"
+    },
+    {
+      "conflict_id": "c_017",
+      "description": "Sean Day's actual start date as Kanawana director: oral history + a CBC News 2017 profile say he was already 'director of Camp Kanawana' in 2005 (f_1740); the Montreal YMCA's own annual reports show Francois Dauphin (not Day) held the 'Directeur, YMCA Kanawana' Senior Management role as of the 2007 report, with Day's first documented appearance in that specific role coming only in the 2008 report (f_1759, f_1762).",
+      "fact_ids": [
+        "f_1735",
+        "f_1740",
+        "f_1759",
+        "f_1762"
+      ],
+      "entity": "Sean Day",
+      "attribute": "kanawana_directorship_start_date",
+      "values": [
+        "2005 (oral history, M. Aronson; corroborated in general terms by CBC News 2017, which places him in a director-level Kanawana role when Stuart McLean returned in 2005)",
+        "Not before 2008 per the Montreal YMCA's own annual reports -- Francois Dauphin held the Senior Management 'Director, Kanawana' title as of the 2007 report; Day first appears in it in the 2008 report"
+      ],
+      "status": "resolved",
+      "notes": "Possible reconciliation: the CBC 2017 article's 2005 framing most likely describes Day's presence/involvement at Kanawana in some capacity that year (he 'grew up at the camp' per other KB facts, and was already on staff informally) rather than his formal directorship start, which the annual reports -- the more authoritative, institutional primary source -- place later. Dauphin may also have held a distinct or overlapping role the org chart doesn't separately track from Day's; that structural nuance is not fully resolved. A 2005 or 2006 annual report, if found, would directly test this further.",
+      "resolution": "Resolved 2026-07-07 per standing policy (documented sources take precedence over oral history in direct conflicts -- operator directive): adopt the Montreal YMCA annual reports' documented start. Francois Dauphin held the 'Directeur, YMCA Kanawana' Senior Management title as of the 2007 report; Sean Day's first documented appearance in that specific role is the 2008 report. The oral-history/CBC-corroborated 2005 start date is superseded as Day's *directorship* start, though preserved in the KB (f_1735, f_1740) as evidence he was already connected to Kanawana in some capacity that year.",
+      "resolved_at": "2026-07-07T00:00:00Z",
+      "created_at": "2026-07-07T00:00:00Z"
     }
   ]
 }

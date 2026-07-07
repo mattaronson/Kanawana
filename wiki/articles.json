@@ -1091,8 +1091,8 @@
         "hedley-dimock"
       ],
       "file_id": null,
-      "word_count": 4800,
-      "notes": "v4.75: Peter Goddard confirmed (Peter Gilling Goddard 1953-2016, obituary condolence). Nelson McEwen tenure extended c.1927-1947. Derek Walsh exhausted. Gap periods updated."
+      "word_count": 5250,
+      "notes": "v4.75: Peter Goddard confirmed (Peter Gilling Goddard 1953-2016, obituary condolence). Nelson McEwen tenure extended c.1927-1947. Derek Walsh exhausted. Gap periods updated. | 2026-07-07: applied operator's standing conflict-resolution policy (documented sources take precedence over oral history) to resolve c_004, c_015, c_016, c_017 -- Gary White's Kanawana tenure narrowed to FY2001-2002, Sean Day's start corrected to 2008, Nicolas Garcia's spelling/end-date corrected to March 2014, Rossy Foundation corrected to Tyndale St-Georges."
     },
     {
       "article_id": "sources-index",
@@ -1836,7 +1836,11 @@
         "f_1085",
         "f_1029",
         "f_1236",
-        "f_1268"
+        "f_1268",
+        "f_1767",
+        "f_1768",
+        "f_1769",
+        "f_1770"
       ],
       "sources_cited": [
         "src_mcmorris_thesis",
@@ -1855,9 +1859,11 @@
         "src_ymca_pip_orbinski",
         "src_leigh_evans_blog",
         "src_pine_crest_encyclopedia",
-        "src_kanawana_facts"
+        "src_kanawana_facts",
+        "src_wayback_ymcakanawana_homepage_2005_2015",
+        "src_websearch_kamp_kanawana_sweep_2026"
       ],
-      "open_questions": 6,
+      "open_questions": 7,
       "cross_links": [
         "camp-songs-cheers",
         "centennial-1967",
@@ -3815,7 +3821,9 @@
         "src_mediaterre_kanawana_2009",
         "src_facebook_kanawana",
         "src_acq_day",
-        "src_ymca_mclean_fund"
+        "src_ymca_mclean_fund",
+        "src_ymcaquebec_annualreport_2007",
+        "src_ymcaquebec_annualreport_2008"
       ],
       "open_questions": 4,
       "cross_links": [
@@ -3826,7 +3834,7 @@
         "programs-activities"
       ],
       "file_id": null,
-      "word_count": 1212
+      "word_count": 1260
     },
     {
       "article_id": "ymca-quebec-history",
@@ -4058,7 +4066,13 @@
         "f_1510",
         "f_1541",
         "f_1542",
-        "f_1543"
+        "f_1543",
+        "f_1761",
+        "f_1762",
+        "f_1763",
+        "f_1764",
+        "f_1765",
+        "f_1766"
       ],
       "sources_cited": [
         "src_ymca_kanawana_job_listing",
@@ -4080,7 +4094,13 @@
         "src_mediaterre_kanawana_2009",
         "src_telus_kanawana",
         "src_crel_kanawana",
-        "src_rsvl_melccfp"
+        "src_rsvl_melccfp",
+        "src_ymcaquebec_annualreport_2007",
+        "src_ymcaquebec_annualreport_2008",
+        "src_ymcaquebec_annualreport_2009",
+        "src_ymcaquebec_annualreport_2011",
+        "src_ymcaquebec_annualreport_2012",
+        "src_ymcaquebec_annualreport_2019"
       ],
       "open_questions": 5,
       "cross_links": [
@@ -4095,7 +4115,7 @@
         "pip-alumni-award"
       ],
       "file_id": null,
-      "word_count": 1717
+      "word_count": 2050
     },
     {
       "article_id": "page-family",
@@ -4659,6 +4679,46 @@
       ],
       "file_id": null,
       "word_count": 550
+    },
+    {
+      "article_id": "joanna-hoad",
+      "title": "Joanna A.A. Hoad",
+      "wiki_folder": "people",
+      "status": "draft",
+      "status_history": [
+        {
+          "status": "stub",
+          "at": "2026-07-05T00:00:00Z",
+          "by": "auto",
+          "task": "RESEARCH"
+        },
+        {
+          "status": "draft",
+          "at": "2026-07-07T00:00:00Z",
+          "by": "auto",
+          "task": "WRITE"
+        }
+      ],
+      "ralph_loops_completed": 3,
+      "kb_facts_used": [
+        "f_1729",
+        "f_1730",
+        "f_1754",
+        "f_1755",
+        "f_1756",
+        "f_1757"
+      ],
+      "sources_cited": [
+        "src_oral_aronson",
+        "src_wayback_lcc_phonelist_2001",
+        "src_wayback_lcc_staffprofile_2001"
+      ],
+      "open_questions": 4,
+      "cross_links": [
+        "directors-index"
+      ],
+      "file_id": null,
+      "word_count": 520
     }
   ]
 }
