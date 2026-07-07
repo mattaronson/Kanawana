@@ -1836,7 +1836,11 @@
         "f_1085",
         "f_1029",
         "f_1236",
-        "f_1268"
+        "f_1268",
+        "f_1767",
+        "f_1768",
+        "f_1769",
+        "f_1770"
       ],
       "sources_cited": [
         "src_mcmorris_thesis",
@@ -1855,9 +1859,11 @@
         "src_ymca_pip_orbinski",
         "src_leigh_evans_blog",
         "src_pine_crest_encyclopedia",
-        "src_kanawana_facts"
+        "src_kanawana_facts",
+        "src_wayback_ymcakanawana_homepage_2005_2015",
+        "src_websearch_kamp_kanawana_sweep_2026"
       ],
-      "open_questions": 6,
+      "open_questions": 7,
       "cross_links": [
         "camp-songs-cheers",
         "centennial-1967",

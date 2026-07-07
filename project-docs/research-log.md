@@ -2677,3 +2677,46 @@ conflicts). Updated `directors-index.md` (Dauphin's row, Sean Day/Gary White/Mor
 Hamerman/Nicholas Garcia rows, two new Open Questions) and `environmental-history.md` (Green Shift
 section substantially enriched, two new subsections). No stub articles created — Dauphin's single-fact
 depth doesn't clear the bar established for Joanna Hoad's article.
+
+## Campaign 27 (2026-07-07): dating the "Kamp Kanawana" to "Camp Kanawana" spelling change
+
+Matt asked for web research to pin down when the institutional spelling changed from "Kamp" (with a
+K, used from at least 1913 through the Twynam era) to "Camp" — he recalled the YMCA making the change
+sometime in the mid-to-late 2010s.
+
+### Method
+Checked the Montreal YMCA/YMCA Quebec annual reports already mined in Campaigns 25-26 for the exact
+spelling used year by year, then went further: enumerated every Wayback Machine snapshot of the
+camp's own dedicated website (`ymcakanawana.com`, active roughly 2005-2015) and fetched enough of
+them to find the exact transition point, rather than just spot-checking a few years.
+
+### Finding: spring 2005, not the mid-to-late 2010s
+The annual reports show "Kamp Kanawana" consistently through the FY2001-2002, FY2002-2003, and
+FY2003-2004 reports, and "Camp Kanawana" consistently from the 2007 report onward (no 2005/2006
+report has been found to test the gap directly). The camp's own website pins it far more precisely:
+the March 24, 2005 snapshot's page title reads "YMCA **Kamp** Kanawana | Home"; the very next
+snapshot, May 10, 2005, reads "YMCA **Camp** Kanawana | Home" — a six-week window. The domain's
+earliest snapshot (February 12, 2005) was a redirect stub pointing to the old URL
+`ymcamontreal.qc.ca/kk/kampkanawana_en.html`, whose filename itself preserves the old spelling right
+up to the switch. Every snapshot checked from May 2005 through 2015 — a full decade — consistently
+uses "Camp," with zero reversions found.
+
+A systematic WebSearch sweep for "Kamp Kanawana" across different date ranges (2000s through 2020s)
+found no genuine ongoing official usage after 2005. What surfaces is either archival citations of
+objects that kept their original title (the 1993 Cathy Reeves documentary, still catalogued and
+uploaded under its original name by Concordia's AtoM and on YouTube) or third-party directory
+listings that appear to have simply never been updated (MySummerCamps.com, a Saint-Sauveur tourism
+directory, a Wikimapia label).
+
+### Open question, not a correction
+This dates the *institutional* spelling change a full decade earlier than Matt's recollection. Rather
+than treat this as simply correcting his memory, it's written up as an open question in
+`traditions-and-culture.md`: it's entirely plausible the informal "Kamp" spelling persisted in camp
+culture, merchandise, signage, or staff/alumni usage — the kind of internal-culture lag that commonly
+outlives an official rebrand by years — but no dated evidence of that specific later persistence has
+been found yet. If Matt has a specific merchandise item, sign, or memory to anchor a later date, that
+would be a concrete, checkable lead.
+
+### Outcome
+4 new facts (f_1767-f_1770), 2 new sources. New "'Kamp' to 'Camp': the spelling change" subsection
+added to `traditions-and-culture.md`, with a new Open Question. KB v4.97 (1732 facts).

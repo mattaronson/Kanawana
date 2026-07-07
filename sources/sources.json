@@ -8961,7 +8961,39 @@
       "extraction_version": "v4.96",
       "reliability": "primary",
       "notes": "Short-form report; one substantive Kanawana mention, the inclusion-program story (f_1766)."
+    },
+    {
+      "source_id": "src_wayback_ymcakanawana_homepage_2005_2015",
+      "type": "web",
+      "title": "Camp/Kamp Kanawana official website (ymcakanawana.com), homepage snapshots 2005-2015",
+      "date": "2005-2015",
+      "date_precision": "approximate",
+      "origin": "web",
+      "origin_url": "https://web.archive.org/web/20050324011404/http://ymcakanawana.com:80/",
+      "cache_path": null,
+      "char_count": 0,
+      "ingested_at": "2026-07-07T00:00:00Z",
+      "extracted": true,
+      "extraction_version": "v4.97",
+      "reliability": "primary",
+      "notes": "Systematic Wayback CDX enumeration + direct fetch of ~15 homepage snapshots 2005-2015, checking page <title> and body text for 'Kamp' vs 'Camp' spelling. Pinned the spelling change to between 2005-03-24 (still 'Kamp') and 2005-05-10 (already 'Camp'). Sourced facts: f_1767, f_1768."
+    },
+    {
+      "source_id": "src_websearch_kamp_kanawana_sweep_2026",
+      "type": "web",
+      "title": "WebSearch sweep for post-2005 'Kamp Kanawana' mentions",
+      "date": "2026",
+      "date_precision": "year",
+      "origin": "web",
+      "origin_url": null,
+      "cache_path": null,
+      "char_count": 0,
+      "ingested_at": "2026-07-07T00:00:00Z",
+      "extracted": true,
+      "extraction_version": "v4.97",
+      "reliability": "secondary",
+      "notes": "Multiple WebSearch queries for '\"Kamp Kanawana\" [year ranges]' across 2000-2026, per operator request to establish the Kamp->Camp spelling transition timeline. Sourced fact: f_1770."
     }
   ],
-  "source_count": 560
+  "source_count": 562
 }

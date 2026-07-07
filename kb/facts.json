@@ -1,8 +1,8 @@
 {
   "version": "v4.92",
-  "kb_version": "v4.96",
+  "kb_version": "v4.97",
   "migrated_from": "3.3",
-  "fact_count": 1728,
+  "fact_count": 1732,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -29977,6 +29977,71 @@
       "date_ref": "2019",
       "conflicts_with": [],
       "added_version": "v4.96",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_1767",
+      "claim": "The camp's own dedicated website (ymcakanawana.com), archived by the Wayback Machine and fetched directly 2026-07-07, shows its page title reading '<title>YMCA Kamp Kanawana | Home</title>' as of the March 24, 2005 snapshot, and '<title>YMCA Camp Kanawana | Home</title>' by the very next available snapshot, May 10, 2005 -- pinning the official 'Kamp' to 'Camp' spelling change to a roughly six-week window in spring 2005. Every subsequent snapshot checked through 2015 (a decade of coverage) consistently uses 'Camp.'",
+      "sources": [
+        "src_wayback_ymcakanawana_homepage_2005_2015"
+      ],
+      "confidence": "stated",
+      "category": "traditions",
+      "entities": [
+        "Camp Kanawana",
+        "Kamp Kanawana"
+      ],
+      "date_ref": "March-May 2005",
+      "conflicts_with": [],
+      "added_version": "v4.97",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_1768",
+      "claim": "Prior to the March 2005 ymcakanawana.com website, the camp's page lived at ymcamontreal.qc.ca/kk/kampkanawana_en.html -- a February 12, 2005 Wayback snapshot of the old ymcakanawana.com domain is a redirect stub pointing to that URL, whose filename itself uses the 'kampkanawana' spelling, corroborating that the 'Kamp' spelling was still the org's own naming convention right up to the transition.",
+      "sources": [
+        "src_wayback_ymcakanawana_homepage_2005_2015"
+      ],
+      "confidence": "stated",
+      "category": "traditions",
+      "entities": [
+        "Kamp Kanawana"
+      ],
+      "date_ref": "2005-02-12",
+      "conflicts_with": [],
+      "added_version": "v4.97",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_1769",
+      "claim": "The Montreal YMCA's own annual reports independently corroborate the spring-2005 spelling change: the FY2001-2002, FY2002-2003, and FY2003-2004 annual reports (f_1749-f_1751) consistently use 'Kamp Kanawana' (9, 8, and 8 instances respectively, including capitalized headers), while the 2007 annual report (f_1759) and every subsequent annual report checked through 2012 (f_1760-f_1765) consistently use 'Camp Kanawana' / 'Camp YMCA Kanawana' with zero 'Kamp' instances. No 2005 or 2006 annual report has been found to test the transition at the corporate-report level directly, but the dating is consistent with the website evidence.",
+      "sources": [
+        "src_ymcaquebec_annualreport_2007"
+      ],
+      "confidence": "stated",
+      "category": "traditions",
+      "entities": [
+        "Camp Kanawana"
+      ],
+      "date_ref": "2001-2007",
+      "conflicts_with": [],
+      "added_version": "v4.97",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_1770",
+      "claim": "A systematic web search (2026-07-07) for 'Kamp Kanawana' mentions dated after 2005 found no genuine ongoing official usage -- every post-2005 'Kamp Kanawana' reference found is either (a) a retrospective citation of an object/document whose own original title used the old spelling (e.g. Concordia's AtoM catalog entry and a YouTube upload both titled after the 1993 documentary 'Kamp Kanawana: The Experience that Lasts a Lifetime'; the 1993 Cathy Reeves film itself, f_0622), or (b) third-party directories that appear to have never updated their listing after the camp's own rebrand (MySummerCamps.com's 'YMCA Kamp Kanawana' listing; La Vallée de Saint-Sauveur's tourism directory entry 'Y.M.C.A. Kamp Kanawana'; a Wikimapia user-submitted place label). No dated news article, official document, merchandise listing, or social media post using 'Kamp Kanawana' was found for any point in the 2010s specifically.",
+      "sources": [
+        "src_websearch_kamp_kanawana_sweep_2026"
+      ],
+      "confidence": "inferred",
+      "category": "traditions",
+      "entities": [
+        "Kamp Kanawana"
+      ],
+      "date_ref": "2005-2026",
+      "conflicts_with": [],
+      "added_version": "v4.97",
       "added_by": "auto_extraction"
     }
   ]
