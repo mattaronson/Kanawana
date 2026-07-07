@@ -47,6 +47,15 @@ the one that actually resolved this issue -- the Capabilities > Domain allowlist
 
 ## ⚡ START HERE (next session)
 
+0. **Two operator-only action items are flagged in `queue/priorities.json` as `p_193`** (blocked,
+   2026-07-07): (a) a manual Facebook search by Matt himself — the Kanawana FB page/alumni groups are
+   likely rich but structurally unreachable to the agent (confirmed: a fetch returns only an empty
+   JS shell, no post content; using Matt's login via automation was considered and declined on
+   security/ToS/account-risk grounds — see p_193 for the full reasoning) — and (b) a physical visit to
+   Concordia University Archives (P0145, YMCA of Montreal fonds), consolidating two long-blocked leads
+   (p_049 song sheets/song books, p_176 the 1974-76 anonymous director's correspondence) now that the
+   online finding aids have been fully read and confirmed to stop around 1983-1990. Neither is
+   actionable by an agent session — don't re-attempt automating either without new operator input.
 1. **See `project-docs/NEXT-SESSION-PROMPT.md` (2026-07-05 version) for the current handoff** —
    it supersedes the photo-integration prompt referenced lower in this section. Short version:
    the ~140 untapped plaque photos flagged in item 2 below got a full visual-mining pass on branch
