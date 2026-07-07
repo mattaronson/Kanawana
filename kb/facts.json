@@ -1,8 +1,8 @@
 {
   "version": "v4.92",
-  "kb_version": "v4.95",
+  "kb_version": "v4.96",
   "migrated_from": "3.3",
-  "fact_count": 1720,
+  "fact_count": 1728,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -29845,6 +29845,139 @@
       "conflicts_with": [],
       "added_version": "v4.95",
       "added_by": "oral_history"
+    },
+    {
+      "fact_id": "f_1759",
+      "claim": "The Montreal YMCA's 2007 Annual Report (fetched directly via Wayback Machine, 2026-07-07) lists in its Senior Management ('Cadres supérieurs') roster: 'Dauphin, François -- Directeur YMCA Kanawana.' This is a previously undocumented Kanawana director, not recorded anywhere in this KB before this pass.",
+      "sources": [
+        "src_ymcaquebec_annualreport_2007"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "François Dauphin"
+      ],
+      "date_ref": "2007",
+      "conflicts_with": [],
+      "added_version": "v4.96",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_1760",
+      "claim": "The Montreal YMCA's 2007 Annual Report lists Gary White as a member of the YMCA Westmount board/committee ('CONSEIL D'ADMINISTRATION... YMCA Westmount... White, Gary'), extending his previously-confirmed Westmount YMCA tenure (documented FY2002-2003 and FY2003-2004 in earlier annual reports, f_1750-f_1751) through at least 2007.",
+      "sources": [
+        "src_ymcaquebec_annualreport_2007"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "Gary White"
+      ],
+      "date_ref": "2007",
+      "conflicts_with": [],
+      "added_version": "v4.96",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_1761",
+      "claim": "The Montreal YMCA's 2007 Annual Report describes Kanawana's environmental 'green camp' development as a $5 million project: by spring 2007 two new eco-friendly sanitary buildings (low-flow taps/showers, heat-recovery system) were already built and in use; a garden/composting education program was launched in partnership with YMCA Pointe-Saint-Charles, pairing seniors and youth for seedling production, planting, and composting under a specialist gardener's supervision; 19% of Kanawana campers received financial assistance that year, described as a measurably increasing trend. The report frames this as Quebec's first 'green camp' development.",
+      "sources": [
+        "src_ymcaquebec_annualreport_2007"
+      ],
+      "confidence": "stated",
+      "category": "environmental",
+      "entities": [
+        "Camp Kanawana"
+      ],
+      "date_ref": "2007",
+      "conflicts_with": [],
+      "added_version": "v4.96",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_1762",
+      "claim": "The Montreal YMCA's 2008 Annual Report (published ~2009) lists Sean Day as 'Directeur, Camp Y Kanawana' in its Senior Management roster -- his first appearance in this specific role in any annual report found. The same list shows François Dauphin (Kanawana's 2007 director, f_1759) had moved to 'Directeur, Centre Y Guy-Favreau,' a different branch. The report also states Kanawana hosted 171 disadvantaged campers in 2008 (23% of all campers, a new record), and that $1.48 million had been raised toward the camp's $5 million eco-development goal by December 2008.",
+      "sources": [
+        "src_ymcaquebec_annualreport_2008"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "Sean Day",
+        "François Dauphin"
+      ],
+      "date_ref": "2008",
+      "conflicts_with": [],
+      "added_version": "v4.96",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_1763",
+      "claim": "The Montreal YMCA's 2009 Annual Report confirms Sean Day continuing as 'Directeur, Camp Y Kanawana.' It states Phase I of the Kanawana eco-development project was nearly complete, with twelve new three-season cabins erected at the Saint-Sauveur site for campers aged 7-12 and their counsellors. It also documents a nature-class program in 2009 serving 500+ students from 6 schools and roughly 10 community groups, developed in partnership with the Commission scolaire de Montreal (CSDM) and the Clubs 4H du Quebec. The report's Kamawana local advisory committee ('Centre Y Kanawana') for 2009 lists, among others, Chris Adam, Matt Aronson, and Don Bennett.",
+      "sources": [
+        "src_ymcaquebec_annualreport_2009"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "Sean Day",
+        "Chris Adam"
+      ],
+      "date_ref": "2009",
+      "conflicts_with": [],
+      "added_version": "v4.96",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_1764",
+      "claim": "The Montreal YMCA's 2011 Annual Report ('Rapport a la communaute,' marking the Montreal YMCA's 160th anniversary) lists Sean Day as 'Directeur, Camp YMCA Kanawana et Ecole de ski' -- his portfolio had expanded to include a ski school. The report's Kanawana local advisory committee for 2011 includes several names independently corroborated elsewhere in this KB as former Kanawana staff/campers: Morgan Carter (on-site Director 2001-2003, f_1732), Matt Hamerman (Voyageurs Section Director 2006, f_1603), Roxane Martel (administrative coordinator per the camp's 2009 parent guide, f_1752), Evan Frankel/Frenkel (2008 Kanawana Rounds winner and 2010 LIT, f_1666/f_1653), and Adrian Maas (a named 1985 CIT, f_1611) -- alongside Don Bennett, Valery Cordeman, Michelle Grostern, Steve Henle (committee president), Derek Lyndsay, Dan Rona, and Judy Weil (who also appeared on the FY2003-2004 committee, f_1751). Other 2011 highlights: Kanawana received an honourable mention for environmental achievement at the City of Saint-Sauveur's annual Gala Meritas award (announced December 2010); the Sam Jam street-hockey tournament raised $20,000 for the camp; a FitSpirit girls' 'Bootcamp' weekend partnership ran in September; construction began in October on educational pavilions for nature classes and community groups.",
+      "sources": [
+        "src_ymcaquebec_annualreport_2011"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "Sean Day",
+        "Morgan Carter",
+        "Matt Hamerman",
+        "Roxanne Martel"
+      ],
+      "date_ref": "2011",
+      "conflicts_with": [],
+      "added_version": "v4.96",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_1765",
+      "claim": "The Montreal YMCA's 2012 Annual Report confirms Sean Day continuing as 'Directeur, Camp YMCA Kanawana et Ecole de ski,' with the Kanawana local advisory committee substantially unchanged from 2011 (Don Bennett, Morgan Carter, Valery Cordemans, and others continuing). A new eco-educational pavilion opened in 2012. The report's quick-facts infobox for 'Camp YMCA Kanawana' states 'Date de creation: 1912' -- this conflicts with the well-established 1910 Saint-Sauveur founding date (McMorris thesis, YMCA's own history page, f_1747) and is treated as a likely error in this summary infobox rather than a genuine conflict, given the weight of corroborating evidence for 1910.",
+      "sources": [
+        "src_ymcaquebec_annualreport_2012"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "Sean Day"
+      ],
+      "date_ref": "2012",
+      "conflicts_with": [],
+      "added_version": "v4.96",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_1766",
+      "claim": "The Montreal YMCA's 2019 Annual Report describes Kanawana's inclusion program helping a Brazilian-immigrant camper living with autism develop independence and become a full member of the camp community -- an example of the camp's disability-inclusion programming.",
+      "sources": [
+        "src_ymcaquebec_annualreport_2019"
+      ],
+      "confidence": "stated",
+      "category": "programs",
+      "entities": [
+        "Camp Kanawana"
+      ],
+      "date_ref": "2019",
+      "conflicts_with": [],
+      "added_version": "v4.96",
+      "added_by": "auto_extraction"
     }
   ]
 }

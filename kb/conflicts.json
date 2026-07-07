@@ -317,6 +317,25 @@
       "status": "unresolved",
       "notes": "Also note: the correct spelling per every primary source found is 'Nicolas Garcia' (no 'h'), not 'Nicholas Garcia' as recorded in the KB from oral history -- a likely anglicization from memory, analogous to the 'Joanna Hode' -> 'Johanna A.A. Hoade' spelling correction made for c_014. No pre-2009 or post-2014 snapshot of the camp's staff-contact page exists in the Wayback archive to check the 2005-2008 or post-2014-to-2012-claimed-end gap; closing this fully would need either an earlier archived document or additional operator context. directors-index.md's Nicolas Garcia row updated with both the corroboration and this open date/spelling discrepancy -- entity name not yet renamed pending resolution, per no-silent-overwrite.",
       "created_at": "2026-07-07T00:00:00Z"
+    },
+    {
+      "conflict_id": "c_017",
+      "description": "Sean Day's actual start date as Kanawana director: oral history + a CBC News 2017 profile say he was already 'director of Camp Kanawana' in 2005 (f_1740); the Montreal YMCA's own annual reports show Francois Dauphin (not Day) held the 'Directeur, YMCA Kanawana' Senior Management role as of the 2007 report, with Day's first documented appearance in that specific role coming only in the 2008 report (f_1759, f_1762).",
+      "fact_ids": [
+        "f_1735",
+        "f_1740",
+        "f_1759",
+        "f_1762"
+      ],
+      "entity": "Sean Day",
+      "attribute": "kanawana_directorship_start_date",
+      "values": [
+        "2005 (oral history, M. Aronson; corroborated in general terms by CBC News 2017, which places him in a director-level Kanawana role when Stuart McLean returned in 2005)",
+        "Not before 2008 per the Montreal YMCA's own annual reports -- Francois Dauphin held the Senior Management 'Director, Kanawana' title as of the 2007 report; Day first appears in it in the 2008 report"
+      ],
+      "status": "unresolved",
+      "notes": "Possible reconciliation, not yet confirmed: the CBC 2017 article's 2005 framing may describe Day's presence/involvement at Kanawana in some capacity that year (he 'grew up at the camp' per other KB facts) rather than his formal directorship start, which the annual reports place later. Alternatively, Dauphin may have held a different or overlapping role the org chart doesn't distinguish from Day's. Not resolved without further primary-source clarification (e.g. a 2005 or 2006 annual report, not yet found, would directly test this) or operator input.",
+      "created_at": "2026-07-07T00:00:00Z"
     }
   ]
 }

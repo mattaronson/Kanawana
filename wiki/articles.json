@@ -4058,7 +4058,13 @@
         "f_1510",
         "f_1541",
         "f_1542",
-        "f_1543"
+        "f_1543",
+        "f_1761",
+        "f_1762",
+        "f_1763",
+        "f_1764",
+        "f_1765",
+        "f_1766"
       ],
       "sources_cited": [
         "src_ymca_kanawana_job_listing",
@@ -4080,7 +4086,13 @@
         "src_mediaterre_kanawana_2009",
         "src_telus_kanawana",
         "src_crel_kanawana",
-        "src_rsvl_melccfp"
+        "src_rsvl_melccfp",
+        "src_ymcaquebec_annualreport_2007",
+        "src_ymcaquebec_annualreport_2008",
+        "src_ymcaquebec_annualreport_2009",
+        "src_ymcaquebec_annualreport_2011",
+        "src_ymcaquebec_annualreport_2012",
+        "src_ymcaquebec_annualreport_2019"
       ],
       "open_questions": 5,
       "cross_links": [
@@ -4095,7 +4107,7 @@
         "pip-alumni-award"
       ],
       "file_id": null,
-      "word_count": 1717
+      "word_count": 2050
     },
     {
       "article_id": "page-family",

@@ -2623,3 +2623,57 @@ follow-up can resolve it in seconds once asked.
 No new facts (existing facts corrected in place, per the same pattern as the Hoad name correction —
 this is an operator-sourced identity correction, not a new external source, so no conflict record was
 needed). KB v4.95 unchanged in fact count.
+
+## Campaign 26 (2026-07-07): systematic YMCA Montreal/Quebec annual-report sweep
+
+Matt asked for a full, systematic review of every findable YMCA Montreal/YMCA Quebec annual report
+for Kanawana mentions — the FY2001-2004 reports mined in Campaign 25 had proven unexpectedly rich
+(Gary White, Morgan Carter, Arleen Boyer), and this extends that same approach across the full run.
+
+### Enumeration
+Wayback CDX search of `ymcamontreal.qc.ca` (the pre-2005 domain) turned up no additional annual
+report PDFs beyond the three already mined. `ymcaquebec.org` (the successor domain) publishes a
+"rapport annuel" / "rapport à la communauté" / "rapport d'impact" series running from 2007 to the
+present. Fetched and `pypdf`-extracted: 2007, 2008, 2009, 2011, 2012 (all substantively
+Kanawana-relevant — grepped 10-15 Kanawana mentions each), plus 2015 and 2019 (checked, one passing
+mention each, not further mined). No 2005 or 2006 report was found despite searching — a real,
+unresolved gap in the archival record.
+
+### Key finds
+
+- **François Dauphin** — a completely new name. The 2007 report's Senior Management list reads
+  "Dauphin, François — Directeur YMCA Kanawana" (f_1759). By the 2008 report he had moved to
+  "Directeur, Centre Y Guy-Favreau," with Sean Day appearing in the Kanawana role in his place
+  (f_1762). No other biographical detail found for him.
+- **Sean Day's directorship start date — new conflict (c_017)**: oral history and a CBC 2017 profile
+  place him at Kanawana by 2005; the annual reports show Dauphin holding the role as of 2007, with
+  Day's first documented appearance in it only in the 2008 report. Registered as unresolved rather
+  than silently adjusting the recorded date.
+- **Gary White's Westmount tenure** extended: the 2007 report lists him on the YMCA Westmount
+  board, corroborating his post-Kanawana move through at least that year (f_1760).
+- **Rich committee-roster cross-corroboration.** Each year's Kanawana local volunteer advisory
+  committee roster reads like an alumni reunion: Morgan Carter (on-site Director 2001-2003) appears
+  on the 2011 committee; Matt Hamerman (Voyageurs Section Director 2006) appears as "Hammerman, Matt"
+  in 2011; Roxanne/Roxane Martel (2009 administrative coordinator, per the parent guide found in
+  Campaign 25) appears on the 2011 committee too; Evan Frankel and Adrian Maas — both previously
+  known only from dining-hall plaque photos — also turn up on the 2011 roster (f_1764). This is the
+  same former-staff-becomes-committee-volunteer pattern first noticed with Arleen Boyer, now showing
+  up repeatedly. Incidentally, Matt Aronson — this KB's own oral-history source — appears on the 2009
+  committee roster himself (f_1763), which helps explain the depth of his institutional knowledge.
+- **The "green camp" environmental project (2007-2012)**, previously documented in
+  `environmental-history.md` mostly via a blocked-and-snippet-only Médiaterre article, now has a full
+  primary-source paper trail: a $5M budget (2007), $1.48M raised by December 2008, Phase I complete
+  by 2009 (twelve new three-season cabins), a December 2010 municipal environmental award from the
+  City of Saint-Sauveur, October 2011 pavilion construction, and a 2012 pavilion opening. Folded into
+  the existing Green Shift section rather than duplicated in `directors-index.md`.
+- Smaller finds: a 2009 nature-class partnership with CSDM and the Clubs 4-H du Québec (500+ students,
+  6 schools, ~10 community groups); a 2019 inclusion-program example (an autistic camper, a recent
+  Brazilian immigrant); a "Date de création: 1912" infobox figure in the 2012 report, almost certainly
+  an error against the well-established 1910 date, noted but not escalated to a formal conflict.
+
+### Outcome
+8 new facts (f_1759-f_1766), 7 new sources, 1 new conflict (c_017). KB v4.96 (1728 facts, 17
+conflicts). Updated `directors-index.md` (Dauphin's row, Sean Day/Gary White/Morgan Carter/Matt
+Hamerman/Nicholas Garcia rows, two new Open Questions) and `environmental-history.md` (Green Shift
+section substantially enriched, two new subsections). No stub articles created — Dauphin's single-fact
+depth doesn't clear the bar established for Joanna Hoad's article.
