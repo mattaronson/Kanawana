@@ -2421,3 +2421,142 @@ The handoff's "Other open threads" section flagged an "incidentally surfaced, no
 
 ### Outcome
 No new facts, sources, or conflicts this session. Three wiki articles updated (`directors-index.md`, `section-names.md`, `canoe-trips.md`). p_191 marked completed. Network-access question remains unresolved and blocking (still 403 on all six flagged hosts) — the RALPH web-verification work in Campaign 23 remains capped at WebSearch-snippet quality until that changes.
+
+## Campaign 25 (2026-07-07): Direct-fetch re-verification, now that network access works
+
+Matt fixed the network-access issue (root cause: claude.ai Settings > Capabilities > Domain
+allowlist, not the environment-level setting originally suspected on 2026-07-05 — see
+`project-docs/SESSION-HANDOFF.md` for the full diagnostic trail). This is the first session able to
+directly fetch `ymcaquebec.org`, `cbc.ca`, and `concordia.ca` pages rather than relying on
+WebSearch snippets.
+
+### Direct fetches performed and findings
+
+- **YMCA Quebec "Our Team" page** (`ymcaquebec.org/en/summer-camp-kanawana/team`), read directly for
+  the first time: current management team is **Marie-Pierre Lacasse** ("Director, Camp YMCA
+  Kanawana"), **Justin Caldwell** ("Summer Camp Director"), **Amy Thomson** ("Assistant to the
+  directors"), and **Quinn Durand** ("Assistant Summer Camp Director"). Concrete upgrades:
+  - Justin Caldwell moves from "partially corroborated" (Campaign 23: a Facebook video plus
+    aggregator listings) to **fully corroborated** — the camp's own team page names him and his
+    title directly, plus a full career progression since 2004 (f_1744).
+  - Marie-Pierre Lacasse's bio discloses a previously undocumented **2007-2010 stint as "director of
+    expeditions"** at Kanawana, with "a break from 2010 to February 2023" before her return (f_1743).
+    This also explains an unsourced fragment an earlier search agent found and correctly discarded
+    (a "director of expeditions 2007-2010" claim it couldn't attribute) — that fragment was Lacasse's
+    own bio all along, misattributed in search results, not evidence about Nicholas Garcia.
+  - Her own page byline, "Director, Camp YMCA Kanawana," tips Open Question 8 (Kanawana-specific vs.
+    org-wide role) toward Kanawana-specific — downgraded from "Important" to "Nice-to-have."
+  - Two new current staff added: Quinn Durand (f_1746) and Amy Thomson (f_1745).
+- **YMCA Quebec history page** (`ymcaquebec.org/en/summer-camp-kanawana/history`): a short milestones
+  page (1894/1910/1947/1968/2022/2025), no staff names, but confirms the "85 campers" 1910 figure
+  (conflict c_005) is the YMCA's own current institutional claim, not a Postmedia invention (f_1747).
+  c_005 remains unresolved (McMorris's archival 66 vs. the YMCA's 85) but is now better sourced on
+  the YMCA side.
+- **CBC News, Stuart McLean fund article**, read in full for the first time: matches what f_1740
+  already captured exactly — no new director names beyond Sean Day.
+- **Concordia University Archives finding aids, sub-series 12A, 12B01, 12B04**, read directly for the
+  first time (previously only seen via search-engine snippets): 12B01's own text reads "**Camp
+  director Dave Twynam-correspondence. - 1979**," settling conflict c_007 in favour of 1979 over the
+  1976 date a search snippet had suggested on 2026-06-11 (f_1748, c_007 marked resolved). All three
+  finding aids' described holdings stop around 1983-1990 — **this is now a confirmed dead end**, not
+  an untried lead, for corroborating any of the four 1995-2012 directors below.
+- **concordia.accesstomemory.org** (the AtoM catalog viewer): blocked by a JS bot-challenge that a
+  plain fetch can't pass — a site-side anti-bot measure, not a network-policy issue. Not pursued
+  further this session (would need a real browser/Playwright).
+- **linkedin.com / facebook.com**: direct URL fetches return redirects/login-walls for anonymous
+  access even with the network policy fixed — these two platforms remain readable only via WebSearch
+  snippets, same as before the fix. This is a site-side auth wall, unrelated to the egress proxy.
+
+### Four parallel RALPH agents dispatched (Boyle, Hoade, White, Garcia)
+
+With direct-fetch access now open, dispatched one research agent per name to re-run the Campaign 23
+verification with real page reads instead of snippets, each instructed on the constraints found
+above (Concordia finding aids are a confirmed dead end for this era; LinkedIn/Facebook are
+unreadable regardless of network policy; 8+ queries across 3+ surfaces per the Phase 2 standard).
+Results to be logged in a follow-up entry once all four report back.
+
+### Outcome so far
+6 new facts (f_1743-f_1748), KB v4.93 (1710 facts). Conflict c_007 resolved. Conflict c_005 updated
+with corroborating context, remains unresolved. Two new current-staff facts (Durand, Thomson) added
+to directors-index.md. Marie-Pierre Lacasse's row and Justin Caldwell's row updated with primary-
+source corroboration. Open Question 8 downgraded from Important to Nice-to-have.
+
+## Campaign 25 continued: four-name RALPH re-verification results
+
+Four parallel research agents (dispatched with direct-fetch access, see above) reported back. Combined
+with the orchestrating session's own follow-up digging into Wayback-archived Montreal YMCA annual
+reports, this substantially changes the corroboration picture for all four Two-Tier Era names:
+
+### Johanna A.A. Hoade — genuinely exhausted, still zero corroboration
+18 WebSearch queries + 12 direct fetches across 9 surfaces (including two new to this project,
+Newspapers.com and Google Books), all spelling variants tried. The YMCA's own site and the Concordia
+finding aids were confirmed (not assumed) to hold nothing for 1995-2000. No promising lead of any
+kind on any surface. Remains oral-history-only, but the "untried leads" that Open Question 9 used to
+flag are no longer untried.
+
+### Nicholas/Nicolas Garcia — major reversal, strongly corroborated (with a new date conflict)
+The dispatched agent found the camp's own archived materials via Wayback CDX search of two now-defunct
+Kanawana microsite domains (`ymcakanawana.ca`, `ymcakanawana.com`) — content no search engine ever
+indexed:
+- A 2009 French-language Parent Guide (Word doc, metadata confirms 2009 creation) signed "Sean Day /
+  Nicolas Garcia / Roxanne Martel — Directeur du Camp / Chef de Camp / Coordonnateur administratif"
+  (f_1752).
+- The camp's official "Contact Us" page, archived continuously June 2010 through March 2014, naming
+  Nicolas Garcia under Sean Day throughout (f_1753) — titled "Chef de Camp" then "Coordonnateur du
+  camp de vacances."
+- By April 2015, Kristen Whitelaw had replaced him — a new name for the KB.
+
+This is genuine primary-source corroboration of both the person and the role. But note: **the correct
+spelling is "Nicolas" (no "h")**, not "Nicholas" as recorded from oral history — likely misremembered,
+the same pattern as "Joanna Hode" → "Johanna A.A. Hoade." And the confirmed documentary window
+(June 2009-March 2014) doesn't match the oral-history-recalled 2005-2012 — no earlier or later
+snapshot exists to check either boundary. Registered as conflict c_016 (unresolved) rather than
+silently correcting the dates.
+
+### Gary White — corroborated for one year, then a structural conflict
+The dispatched agent read in full a 2011 *Westmount Independent* item confirming White as Westmount
+YMCA director that year — upgrading the 2026-07-05 "ambiguous LinkedIn/aggregator lead" to a real
+dated primary source, though still with no link to Kanawana found.
+
+Separately, following up on a Wayback-archived resource the Boyle agent surfaced (the Montreal YMCA's
+own annual reports, 1999-2011 archive of `ymcamontreal.qc.ca`), the orchestrating session pulled and
+read (via `pypdf`, after fixing a `cffi` dependency issue) three consecutive annual report PDFs:
+- **FY2001-2002**: Senior Management list reads "White, Gary — Director, YMCA Kamp Kanawana" (f_1749)
+  — corroborates the start of his Kanawana tenure.
+- **FY2002-2003**: the same list instead reads "Carter, Morgan M. — Interim Director, YMCA Kamp
+  Kanawana" and, separately, "White, Gary — Director, Westmount YMCA" (f_1750) — White had already
+  moved to a different branch by this fiscal year.
+- **FY2003-2004**: confirms White still at Westmount YMCA (f_1751).
+
+This means the Westmount move happened by 2002-2003 — a decade earlier than the newspaper-confirmed
+2011 sighting, and contradicting the oral-history-recorded 2001-2005 Kanawana Executive Directorship.
+It also puts Morgan Carter, not White, as the senior Kanawana figure from FY2002-2003 onward, per the
+report's own org chart (which shows one "Director" per branch, no visible Executive/on-site split).
+Registered as conflict c_015 (unresolved) — not resolved by silently shortening White's recorded
+tenure, since it's unclear whether the annual report's single "Director" title maps onto the oral
+history's "Executive Director" or "on-site Director" concept.
+
+### Arlene Boyle — a promising, unconfirmed lead
+The same FY2003-2004 annual report lists Kamp Kanawana's local volunteer advisory committee, including
+an **"Arleen Boyer"** (f_1751) — phonetically close to "Arlene Boyle" but not an exact spelling match,
+appearing a few years after Boyle's claimed 1995-2000 tenure (consistent with a former director
+staying connected as a committee volunteer, if it's the same person). Not escalated to a positive
+identification, flagged in Open Question 9 instead.
+
+### Two leads independently checked and closed off
+The Boyle agent flagged two threads as blocked at its own sandbox's network layer, which the
+orchestrating session verified directly: **Wayback Machine snapshots of ymcaquebec.org for 2001-2005**
+turn out not to exist at all (the domain wasn't archived by the Wayback Machine until 2009 — a
+genuine, CDX-API-confirmed dead end, not a tooling gap on either side); and the **Newspapers.com
+Gazette clipping** the White agent found is confirmed still paywalled (403) from the main session too.
+
+### Outcome
+9 new facts (f_1749-f_1753 directly written to the KB; the agents' other findings were WebSearch-only
+null results, already fully captured in directors-index.md's updated rows), 5 new sources, 2 new
+conflicts (c_015, c_016), KB v4.94 (1715 facts). No stub articles created — all four names still
+lack the independent, non-oral-history primary-source depth CLAUDE.md's formal-RALPH stub bar
+requires on their own, though Garcia in particular is now close. Both new conflicts are flagged as
+possibly resolvable with operator context (does "Executive Director" as recalled differ from the
+annual report's single "Director" title? could Garcia's role have started before the earliest
+surviving snapshot?) rather than further web research, since the archival trail for both is otherwise
+exhausted.

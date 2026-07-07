@@ -5292,11 +5292,11 @@
       "origin_url": "https://www.ymcaquebec.org/en/summer-camp-kanawana/team",
       "cache_path": null,
       "char_count": 0,
-      "ingested_at": "2026-03-24T04:00:00Z",
+      "ingested_at": "2026-07-07T00:00:00Z",
       "extracted": true,
-      "extraction_version": "v4.34",
+      "extraction_version": "v4.93",
       "reliability": "primary",
-      "notes": "Current team page. Staff career paths described. 80+ hours training mentioned. Section director, counsellor, expeditions director roles."
+      "notes": "Current team page, re-fetched DIRECTLY 2026-07-07 (first direct read; prior 2026-03-24 extraction was WebSearch-snippet-only, before network access to this domain was fixed). Roster has changed since the 2025 snapshot: current team is Marie-Pierre Lacasse (Director), Justin Caldwell (Summer Camp Director), Amy Thomson (Assistant to the directors), Quinn Durand (Assistant Summer Camp Director) -- f_1743-f_1746. Training requirement now stated as 'more than 50 hours' (was '80+ hours' in the prior snapshot's notes -- may reflect a real policy change or a difference in what was captured, not re-verified)."
     },
     {
       "source_id": "src_batshaw_weredale",
@@ -6252,11 +6252,11 @@
       "origin_url": "https://www.ymcaquebec.org/en/summer-camp-kanawana/history",
       "cache_path": null,
       "char_count": 0,
-      "ingested_at": "2026-06-20T00:00:00Z",
+      "ingested_at": "2026-07-07T00:00:00Z",
       "extracted": true,
       "extraction_version": "v4.69",
       "reliability": "primary",
-      "notes": "Games inspired by Pinecrest Camp, 78th edition 2025. Mountaineer program. Girls first admitted."
+      "notes": "Re-fetched DIRECTLY 2026-07-07 (first direct read). Short milestones page only (1894/1910/1947/1968/2022/2025), no staff names. Confirms the '85 campers' 1910 figure (f_1747, relevant to conflict c_005) is the YMCA's own official claim."
     },
     {
       "source_id": "src_ymca_gta_pine_crest",
@@ -8737,7 +8737,87 @@
       "extraction_version": "v4.92",
       "reliability": "secondary",
       "notes": "Commercial contact-data aggregator (corroborated independently by Datanyze's YMCA of Quebec employee listing), likely both scraped from the same underlying LinkedIn profile rather than independently verified. A direct LinkedIn search for this name/location did not surface a matching profile. Treat as a lead, not a primary-source confirmation."
+    },
+    {
+      "source_id": "src_wayback_ymcamontreal_annualreport_2001_2002",
+      "type": "report",
+      "title": "Montreal YMCA Annual Report, fiscal year 2001-2002 (Wayback Machine archive)",
+      "date": "2002",
+      "date_precision": "year",
+      "origin": "web",
+      "origin_url": "https://web.archive.org/web/20031215162301/http://www.ymcamontreal.qc.ca:80/PDF/SS/rapportannuel_a.pdf",
+      "cache_path": null,
+      "char_count": 33783,
+      "ingested_at": "2026-07-07T00:00:00Z",
+      "extracted": true,
+      "extraction_version": "v4.94",
+      "reliability": "primary",
+      "notes": "Montreal YMCA's own institutional annual report, surfaced via a research agent's Wayback CDX search of ymcamontreal.qc.ca and fetched/extracted (pypdf) directly by the orchestrating session. Senior Management list names Gary White as Director, YMCA Kamp Kanawana. Sourced facts: f_1749."
+    },
+    {
+      "source_id": "src_wayback_ymcamontreal_annualreport_2002_2003",
+      "type": "report",
+      "title": "Montreal YMCA Annual Report, fiscal year 2002-2003 (Wayback Machine archive)",
+      "date": "2003",
+      "date_precision": "year",
+      "origin": "web",
+      "origin_url": "https://web.archive.org/web/20040620134743/http://www.ymcamontreal.qc.ca:80/PDF/SS/rapportannuel_a.pdf",
+      "cache_path": null,
+      "char_count": 48415,
+      "ingested_at": "2026-07-07T00:00:00Z",
+      "extracted": true,
+      "extraction_version": "v4.94",
+      "reliability": "primary",
+      "notes": "Same annual PDF URL as the 2001-2002 report, later Wayback snapshot with updated fiscal-year content. Senior Management list names Morgan Carter as Interim Director, YMCA Kamp Kanawana, and Gary White as Director, Westmount YMCA. Sourced facts: f_1750 (conflict c_015)."
+    },
+    {
+      "source_id": "src_wayback_ymcamontreal_annualreport_2003_2004",
+      "type": "report",
+      "title": "Montreal YMCA Annual Report, fiscal year 2003-2004 (Wayback Machine archive)",
+      "date": "2004",
+      "date_precision": "year",
+      "origin": "web",
+      "origin_url": "https://web.archive.org/web/20051124062448/http://www.ymcamontreal.qc.ca:80/PDF/SS/rapportannuel_a.pdf",
+      "cache_path": null,
+      "char_count": 61958,
+      "ingested_at": "2026-07-07T00:00:00Z",
+      "extracted": true,
+      "extraction_version": "v4.94",
+      "reliability": "primary",
+      "notes": "Same annual PDF URL, third Wayback snapshot. Lists the Kamp Kanawana local advisory committee (including Arleen Boyer) and confirms Gary White still Director, Westmount YMCA. Sourced facts: f_1751."
+    },
+    {
+      "source_id": "src_wayback_ymcakanawana_parentguide_2009",
+      "type": "document",
+      "title": "Camp YMCA Kanawana 2009 French-language Parent Guide (Wayback Machine archive)",
+      "date": "2009",
+      "date_precision": "year",
+      "origin": "web",
+      "origin_url": "https://web.archive.org/web/20090617093616/http://www.ymcakanawana.ca/FilesUpload/2009-Guide_des_Parents_Francais.doc",
+      "cache_path": null,
+      "char_count": 0,
+      "ingested_at": "2026-07-07T00:00:00Z",
+      "extracted": true,
+      "extraction_version": "v4.94",
+      "reliability": "primary",
+      "notes": "Camp's own official parent-communication document, surfaced by a research agent via Wayback CDX search of the camp's old microsite domain (ymcakanawana.ca) and confirmed by document metadata (created 2009-06-10, Last Saved By: Nicolas). Signature block names Sean Day (Directeur du Camp), Nicolas Garcia (Chef de Camp), and Roxanne Martel (Coordonnateur administratif). Sourced facts: f_1752."
+    },
+    {
+      "source_id": "src_wayback_ymcakanawana_contactpage_2010_2014",
+      "type": "web",
+      "title": "Camp YMCA Kanawana official 'Contact Us' page, 2010-2015 snapshots (Wayback Machine archive)",
+      "date": "2010-2015",
+      "date_precision": "approximate",
+      "origin": "web",
+      "origin_url": "https://web.archive.org/web/20100608204016/http://www.ymcakanawana.com/3084/02_10_pour_nous_joindre.asp",
+      "cache_path": null,
+      "char_count": 0,
+      "ingested_at": "2026-07-07T00:00:00Z",
+      "extracted": true,
+      "extraction_version": "v4.94",
+      "reliability": "primary",
+      "notes": "Camp's own official staff contact page (ymcakanawana.com), multiple Wayback snapshots 2010-2015 surfaced and fetched by a research agent. Confirms Nicolas Garcia continuously under Sean Day (Directeur) 2010-March 2014, titled Chef de Camp then Coordonnateur du camp de vacances; replaced by Kristen Whitelaw by April 2015. Sourced facts: f_1753 (conflict c_016)."
     }
   ],
-  "source_count": 544
+  "source_count": 551
 }

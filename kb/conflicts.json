@@ -73,6 +73,7 @@
       "conflict_id": "c_005",
       "description": "1910 first-season enrollment at Saint-Sauveur: 66 members (McMorris) vs 85 campers registered (Postmedia/YMCA-sponsored 2026)",
       "fact_ids": [
+        "f_1747",
         "f_1033"
       ],
       "entity": "Camp Kanawana",
@@ -82,7 +83,7 @@
         "85 campers registered for the summer session (Postmedia 2026, YMCA-sponsored content)"
       ],
       "status": "unresolved",
-      "notes": "McMorris (academic thesis with archival research) is the higher-reliability source. The 85 figure may reflect total registrations vs actual attendance, or may include Camp Otoreke (which continued operating at Lake St. Joseph). The Postmedia article is sponsored content written on behalf of YMCAs of Québec, so the 85 figure likely comes from the YMCA's own institutional narrative. Not necessarily contradictory — could be registrations vs attendance.",
+      "notes": "McMorris (academic thesis with archival research) is the higher-reliability source. The 85 figure may reflect total registrations vs actual attendance, or may include Camp Otoreke (which continued operating at Lake St. Joseph). The Postmedia article is sponsored content written on behalf of YMCAs of Québec, so the 85 figure likely comes from the YMCA's own institutional narrative. Not necessarily contradictory — could be registrations vs attendance. Update 2026-07-07: direct fetch of the YMCA Quebec history page (f_1747) confirms the '85 campers' figure is the YMCA's own current official institutional claim (not merely Postmedia sponsored-content phrasing) -- strengthens the case that this is a real institutional-narrative-vs-archival-record discrepancy rather than a media error, but does not resolve which figure is correct.",
       "created_at": "2026-03-17T12:00:00Z",
       "affects_articles": [
         "founding-1894",
@@ -124,13 +125,15 @@
         "1979 (Phase 2 extraction of 12B01 finding aid, f_0752)",
         "1976 (search-engine snippets of same finding aid, 2026-06-11, two independent queries, f_1169)"
       ],
-      "status": "unresolved",
+      "status": "resolved",
       "notes": "Both readings derive from the same finding aid page (concordia.ca ymca-fonds-sub-sub-series-12B01.html), which is now proxy-blocked (403) to the agent. May not be a true conflict — the aid may list multiple Twynam correspondence files. Resolution: operator fetch of the 12B01 page or the AtoM finding aid PDF (p_057). If 1976 is correct, Twynam's tenure spans at least 1976-1980, fully bridging the gap after Stuart McLean (asst. director 1974-75).",
       "created_at": "2026-06-11T14:00:00Z",
       "affects_articles": [
         "dave-twynam",
         "directors-index"
-      ]
+      ],
+      "resolution": "Direct fetch of the Concordia 12B01 finding aid page (2026-07-07, first time network access allowed reading it directly rather than via search snippet) shows the finding aid's own text reads 'Camp director Dave Twynam-correspondence. - 1979' -- confirming the original 1979 dating. The 1976 alternative was an artifact of search-engine snippet rendering, not the finding aid's actual text. f_1748 added as the resolving fact.",
+      "resolved_at": "2026-07-07T00:00:00Z"
     },
     {
       "conflict_id": "c_008",
@@ -276,6 +279,44 @@
       "affects_articles": [
         "directors-index"
       ]
+    },
+    {
+      "conflict_id": "c_015",
+      "description": "Gary White's Kamp Kanawana directorship: oral history says Executive Director 2001-2005 (year-round, senior to Morgan Carter's on-site summer directorship 2001-2003); the Montreal YMCA's own annual reports show 'White, Gary -- Director, YMCA Kamp Kanawana' only for fiscal year 2001-2002, after which the report lists 'Carter, Morgan M. -- Interim Director, YMCA Kamp Kanawana' (FY2002-2003) and White separately as 'Director, Westmount YMCA' (confirmed FY2002-2003 and FY2003-2004).",
+      "fact_ids": [
+        "f_1731",
+        "f_1732",
+        "f_1749",
+        "f_1750",
+        "f_1751"
+      ],
+      "entity": "Gary White",
+      "attribute": "kanawana_directorship_tenure",
+      "values": [
+        "Executive Director, Camp Kanawana, 2001-2005 (oral history, M. Aronson)",
+        "Director, YMCA Kamp Kanawana, FY2001-2002 only; Director, Westmount YMCA, FY2002-2003 onward (Montreal YMCA annual reports, primary source)"
+      ],
+      "status": "unresolved",
+      "notes": "The annual reports' own org chart lists exactly one 'Director' per branch per fiscal year, with no visible Executive/on-site two-tier split -- this may mean the report's 'Director' title tracks the oral history's 'on-site Director' role rather than 'Executive Director,' or it may mean White's Kanawana tenure was genuinely much shorter than oral history recalls, with Morgan Carter (not White) as the senior Kanawana figure from FY2002-2003. Both readings are plausible; not resolved without further primary-source clarification (e.g., a Montreal YMCA org chart or governance document explicitly defining the two-tier structure's start date) or additional operator context. Preserved per the no-silent-overwrite rule -- White's and Carter's existing directors-index.md rows are NOT changed pending resolution, only flagged.",
+      "created_at": "2026-07-07T00:00:00Z"
+    },
+    {
+      "conflict_id": "c_016",
+      "description": "Nicolas/Nicholas Garcia's on-site Director ('Chef de Camp') tenure: oral history says 2005-2012; primary-source archived documents (a 2009 parent guide and 2010-2014 official contact-page snapshots) confirm the role continuously from June 2009 through March 2014 only, with no earlier or later corroboration despite a thorough Wayback CDX search for both endpoints. Identity is not in question (the primary sources independently confirm the person and role under Sean Day) -- only the exact tenure boundary dates differ.",
+      "fact_ids": [
+        "f_1734",
+        "f_1752",
+        "f_1753"
+      ],
+      "entity": "Nicholas Garcia",
+      "attribute": "onsite_directorship_tenure",
+      "values": [
+        "2005-2012 (oral history, M. Aronson)",
+        "June 2009-March 2014, confirmed continuously (Wayback-archived Kanawana parent guide and official contact page, primary source)"
+      ],
+      "status": "unresolved",
+      "notes": "Also note: the correct spelling per every primary source found is 'Nicolas Garcia' (no 'h'), not 'Nicholas Garcia' as recorded in the KB from oral history -- a likely anglicization from memory, analogous to the 'Joanna Hode' -> 'Johanna A.A. Hoade' spelling correction made for c_014. No pre-2009 or post-2014 snapshot of the camp's staff-contact page exists in the Wayback archive to check the 2005-2008 or post-2014-to-2012-claimed-end gap; closing this fully would need either an earlier archived document or additional operator context. directors-index.md's Nicolas Garcia row updated with both the corroboration and this open date/spelling discrepancy -- entity name not yet renamed pending resolution, per no-silent-overwrite.",
+      "created_at": "2026-07-07T00:00:00Z"
     }
   ]
 }

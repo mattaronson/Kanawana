@@ -1,8 +1,8 @@
 {
   "version": "v4.92",
-  "kb_version": 4.92,
+  "kb_version": "v4.94",
   "migrated_from": "3.3",
-  "fact_count": 1704,
+  "fact_count": 1715,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -29571,6 +29571,195 @@
       "date_ref": "2025-2026",
       "conflicts_with": [],
       "added_version": "v4.92",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_1743",
+      "claim": "The YMCA Quebec 'Our Team' page for Camp YMCA Kanawana (fetched directly 2026-07-07) lists Marie-Pierre Lacasse's own bio as: 'Director, Camp YMCA Kanawana. Part of the Kanawana family since: 2007, with a break from 2010 to February 2023... I was actually the director of expeditions at Kanawana from 2007 to 2010, where I put in place the current expedition program.' Her official on-page title is 'Director, Camp YMCA Kanawana' (not 'Executive Director' or 'Directeur principal').",
+      "sources": [
+        "src_ymca_kanawana_team_2025"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "Marie-Pierre Lacasse"
+      ],
+      "date_ref": "2007-2010; 2023-present",
+      "conflicts_with": [],
+      "added_version": "v4.93",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_1744",
+      "claim": "The YMCA Quebec 'Our Team' page for Camp YMCA Kanawana (fetched directly 2026-07-07) lists Justin Caldwell's title as 'Summer Camp Director,' 'Part of the Kanawana family since: 2004,' with a professional journey in the camp industry described as: 'Junior Counsellor, Counsellor, Section Director, Canoe Guide, Camping Programs Coordinator, (Guide Again), Summer Camp Assistant Director' -- i.e. the page itself confirms his current title as director and documents a 20+ year internal career progression, independently corroborating the oral-history claim that he holds the on-site Director role as of 2025.",
+      "sources": [
+        "src_ymca_kanawana_team_2025"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "Justin Caldwell"
+      ],
+      "date_ref": "2004-present",
+      "conflicts_with": [],
+      "added_version": "v4.93",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_1745",
+      "claim": "The YMCA Quebec 'Our Team' page for Camp YMCA Kanawana (fetched directly 2026-07-07) lists Amy Thomson as 'Assistant to the directors,' part of the Kanawana family since 2008, with prior camp-industry experience 2002-2008 (including summer 2008 at Kanawana) and a return to Kanawana in 2023. Field of study: Psychology (BA), Concordia University.",
+      "sources": [
+        "src_ymca_kanawana_team_2025"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "Amy Thomson"
+      ],
+      "date_ref": "2008; 2023-present",
+      "conflicts_with": [],
+      "added_version": "v4.93",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_1746",
+      "claim": "The YMCA Quebec 'Our Team' page for Camp YMCA Kanawana (fetched directly 2026-07-07) lists Quinn Durand as 'Assistant Summer Camp Director,' part of the Kanawana family since 2025, with a professional journey described as: 'Counsellor, Fall Camp Facilitator, Spring Camp Facilitator, Hike Guide, Sea Kayak Guide, Nature Specialist, Section Director, Program Director.' Field of study: Therapeutic Recreation with Honours, Memorial University of Newfoundland.",
+      "sources": [
+        "src_ymca_kanawana_team_2025"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "Quinn Durand"
+      ],
+      "date_ref": "2025",
+      "conflicts_with": [],
+      "added_version": "v4.93",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_1747",
+      "claim": "The YMCA Quebec 'Camp YMCA Kanawana's History' page (fetched directly 2026-07-07) states, under '1910 - Creation of Camp Kanawana': 'Looking for a larger site, the YMCA acquired a site in Saint-Sauveur from the Page family. Camp Kanawana opened its doors and 85 campers registered for the first session.' This confirms the '85 campers' figure (previously seen only in Postmedia sponsored content, conflict c_005) is the YMCA's own official institutional claim, not a Postmedia invention -- though it does not resolve the underlying discrepancy with McMorris's archival figure of 66 members.",
+      "sources": [
+        "src_ymca_kanawana_history"
+      ],
+      "confidence": "stated",
+      "category": "chronology",
+      "entities": [
+        "Camp Kanawana"
+      ],
+      "date_ref": "1910",
+      "conflicts_with": [
+        "f_1033"
+      ],
+      "added_version": "v4.93",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_1748",
+      "claim": "The Concordia University Archives finding aid for the YMCA of Montreal fonds, sub-sub-series 12B01 (fetched directly 2026-07-07 at concordia.ca/offices/archives/ymca-fonds-sub-sub-series-12B01.html), lists among its 'Camp directors' correspondence and administrative documents' box: 'Camp director Dave Twynam-correspondence. - 1979' -- the finding aid's own text confirms the 1979 date, resolving conflict c_007 in favour of the original 1979 reading over the 1976 date found via search-engine snippets in 2026-06-11.",
+      "sources": [
+        "src_concordia_p0145_12b01_finding_aid"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "Dave Twynam"
+      ],
+      "date_ref": "1979",
+      "conflicts_with": [],
+      "added_version": "v4.93",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_1749",
+      "claim": "The Montreal YMCA's Annual Report for fiscal year 2001-2002 (archived PDF, web.archive.org/web/20031215162301/http://www.ymcamontreal.qc.ca/PDF/SS/rapportannuel_a.pdf, fetched directly 2026-07-07), in its Senior Management listing, states: 'White, Gary -- Director, YMCA Kamp Kanawana.' This is a first-party institutional primary source (not a search snippet) independently corroborating Gary White holding the Kanawana directorship in FY2001-2002.",
+      "sources": [
+        "src_wayback_ymcamontreal_annualreport_2001_2002"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "Gary White"
+      ],
+      "date_ref": "2001-2002",
+      "conflicts_with": [],
+      "added_version": "v4.94",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_1750",
+      "claim": "The Montreal YMCA's Annual Report for fiscal year 2002-2003 (archived PDF, web.archive.org/web/20040620134743/http://www.ymcamontreal.qc.ca/PDF/SS/rapportannuel_a.pdf, fetched directly 2026-07-07), in its Senior Management listing, states: 'Carter, Morgan M. -- Interim Director, YMCA Kamp Kanawana,' and separately, in the same list: 'White, Gary -- Director, Westmount YMCA.' By this fiscal year, Gary White had moved to head a different Montreal YMCA branch (Westmount) entirely, while Morgan Carter held the Kamp Kanawana directorship on an interim basis -- the report's own org chart shows one 'Director' per branch, not a two-tier Executive/on-site split.",
+      "sources": [
+        "src_wayback_ymcamontreal_annualreport_2002_2003"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "Morgan Carter",
+        "Gary White"
+      ],
+      "date_ref": "2002-2003",
+      "conflicts_with": [
+        "f_1731",
+        "f_1732"
+      ],
+      "added_version": "v4.94",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_1751",
+      "claim": "The Montreal YMCA's Annual Report for fiscal year 2003-2004 (archived PDF, web.archive.org/web/20051124062448/http://www.ymcamontreal.qc.ca/PDF/SS/rapportannuel_a.pdf, fetched directly 2026-07-07) confirms Gary White continuing as 'Director, Westmount YMCA' (not Kamp Kanawana), and lists the Kamp Kanawana branch's local volunteer advisory committee as: Arleen Boyer, Lynn Brown-Poole, Toni Cochand (Chair), Rick Lozoff, Marley Morriss, and Judy Weil. 'Arleen Boyer' also appears independently in the same report's general individual-donor list (not Kanawana-specific). Her name is phonetically close to, but not an exact spelling match for, 'Arlene Boyle' (the oral-history-sourced 1995-2000 Executive Director) -- flagged as a promising but unconfirmed identity lead, consistent with a former director remaining connected to the camp as a volunteer committee member after her paid tenure ended, not a positive identification.",
+      "sources": [
+        "src_wayback_ymcamontreal_annualreport_2003_2004"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "Arlene Boyle",
+        "Gary White"
+      ],
+      "date_ref": "2003-2004",
+      "conflicts_with": [],
+      "added_version": "v4.94",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_1752",
+      "claim": "A Camp YMCA Kanawana 2009 French-language Parent Guide (Word document, archived web.archive.org/web/20090617093616/http://www.ymcakanawana.ca/FilesUpload/2009-Guide_des_Parents_Francais.doc, fetched directly 2026-07-07; file metadata shows creation date 2009-06-10 and 'Last Saved By: Nicolas') closes with a welcome-letter signature block reading 'Sean Day / Nicolas Garcia / Roxanne Martel -- Directeur du Camp / Chef de Camp / Coordonnateur administratif.' This is the first primary-source confirmation of 'Nicolas Garcia' (spelled without an 'h', differing from the oral history's 'Nicholas Garcia') holding the on-site 'Chef de Camp' role under Sean Day as of June 2009, alongside a previously undocumented administrative coordinator, Roxanne Martel.",
+      "sources": [
+        "src_wayback_ymcakanawana_parentguide_2009"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "Nicholas Garcia",
+        "Sean Day",
+        "Roxanne Martel"
+      ],
+      "date_ref": "2009",
+      "conflicts_with": [],
+      "added_version": "v4.94",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_1753",
+      "claim": "The official YMCA Kanawana 'Contact Us' page, archived at multiple Wayback Machine snapshots between June 2010 and March 2014 (web.archive.org/web/20100608204016, 20110318190935, 20120312001041, 20130305125749, and 20140319125238 of ymcakanawana.com/.../02_10_pour_nous_joindre.asp, fetched directly 2026-07-07), consistently lists Nicolas Garcia (email nicolas.garcia@ymcaquebec.org) continuously under Sean Day as 'Directeur': titled 'Chef de Camp' in the 2010-2011 snapshots, then 'Coordonnateur du camp de vacances' in the 2012 through March 2014 snapshots (same person, same email, title changed). By the next available snapshot (20150414044801, April 2015), Garcia had been replaced in that role by Kristen Whitelaw. No earlier snapshot exists confirming Garcia in this role before June 2009, and no later snapshot after March 2014 -- the oral history's claimed 2005-2012 tenure does not match the confirmed documentary window of June 2009-March 2014.",
+      "sources": [
+        "src_wayback_ymcakanawana_contactpage_2010_2014"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "Nicholas Garcia",
+        "Sean Day",
+        "Kristen Whitelaw"
+      ],
+      "date_ref": "2010-2014",
+      "conflicts_with": [
+        "f_1734"
+      ],
+      "added_version": "v4.94",
       "added_by": "auto_extraction"
     }
   ]
