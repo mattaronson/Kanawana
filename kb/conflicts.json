@@ -66,7 +66,9 @@
         "f_0860",
         "f_0991"
       ],
-      "resolution": "pending",
+      "status": "resolved",
+      "resolution": "Resolved 2026-07-07 per standing policy (documented sources take precedence over oral history in direct conflicts -- operator directive): adopt f_0991 (LinkedIn, 'stated' confidence) -- Sean Day is Director of Fund Development at Tyndale St-Georges Community Centre. f_0860 (oral-history-derived 'Rossy Foundation' report, 'inferred' confidence) is superseded and preserved per the no-silent-overwrite rule; f_0991's own text suggests Rossy may have been a brief interim position. wiki/people/sean-day.md already reflected the Tyndale reading; directors-index.md's Sean Day row (which still read 'Rossy Foundation') has been corrected to match.",
+      "resolved_at": "2026-07-07T00:00:00Z",
       "created_at": "2026-03-16T05:00:00Z"
     },
     {
@@ -296,8 +298,10 @@
         "Executive Director, Camp Kanawana, 2001-2005 (oral history, M. Aronson)",
         "Director, YMCA Kamp Kanawana, FY2001-2002 only; Director, Westmount YMCA, FY2002-2003 onward (Montreal YMCA annual reports, primary source)"
       ],
-      "status": "unresolved",
-      "notes": "The annual reports' own org chart lists exactly one 'Director' per branch per fiscal year, with no visible Executive/on-site two-tier split -- this may mean the report's 'Director' title tracks the oral history's 'on-site Director' role rather than 'Executive Director,' or it may mean White's Kanawana tenure was genuinely much shorter than oral history recalls, with Morgan Carter (not White) as the senior Kanawana figure from FY2002-2003. Both readings are plausible; not resolved without further primary-source clarification (e.g., a Montreal YMCA org chart or governance document explicitly defining the two-tier structure's start date) or additional operator context. Preserved per the no-silent-overwrite rule -- White's and Carter's existing directors-index.md rows are NOT changed pending resolution, only flagged.",
+      "status": "resolved",
+      "notes": "The annual reports' own org chart lists exactly one 'Director' per branch per fiscal year, with no visible Executive/on-site two-tier split -- this may mean the report's 'Director' title tracks the oral history's 'on-site Director' role rather than 'Executive Director,' or it may mean White's Kanawana tenure was genuinely much shorter than oral history recalls, with Morgan Carter (not White) as the senior Kanawana figure from FY2002-2003. That structural question (which tier the annual report's single 'Director' listing tracks) remains an open nuance, not fully resolved. Preserved per the no-silent-overwrite rule -- White's and Carter's directors-index.md rows retain the oral-history dates as historical context alongside the resolved documented dates.",
+      "resolution": "Resolved 2026-07-07 per standing policy (documented sources take precedence over oral history in direct conflicts -- operator directive): adopt the Montreal YMCA annual reports' documented dates. Gary White's confirmed 'Director, YMCA Kamp Kanawana' tenure is FY2001-2002 only; by FY2002-2003 he had moved to 'Director, Westmount YMCA' (confirmed through the 2007 report). The oral-history-recalled 2001-2005 tenure length is superseded for this purpose, though preserved in the KB as f_1731/f_1758.",
+      "resolved_at": "2026-07-07T00:00:00Z",
       "created_at": "2026-07-07T00:00:00Z"
     },
     {
@@ -314,8 +318,10 @@
         "2005-2012 (oral history, M. Aronson)",
         "June 2009-March 2014, confirmed continuously (Wayback-archived Kanawana parent guide and official contact page, primary source)"
       ],
-      "status": "unresolved",
-      "notes": "Also note: the correct spelling per every primary source found is 'Nicolas Garcia' (no 'h'), not 'Nicholas Garcia' as recorded in the KB from oral history -- a likely anglicization from memory, analogous to the 'Joanna Hode' -> 'Johanna A.A. Hoade' spelling correction made for c_014. No pre-2009 or post-2014 snapshot of the camp's staff-contact page exists in the Wayback archive to check the 2005-2008 or post-2014-to-2012-claimed-end gap; closing this fully would need either an earlier archived document or additional operator context. directors-index.md's Nicolas Garcia row updated with both the corroboration and this open date/spelling discrepancy -- entity name not yet renamed pending resolution, per no-silent-overwrite.",
+      "status": "resolved",
+      "notes": "The correct spelling per every primary source found is 'Nicolas Garcia' (no 'h'), not 'Nicholas Garcia' as recorded in the KB from oral history -- a likely anglicization from memory, analogous to the 'Joanna Hode' -> 'Joanna A.A. Hoad' spelling correction made for c_014. No pre-2009 snapshot of the camp's staff-contact page exists in the Wayback archive, so the oral-history-recalled 2005 start is not directly contradicted by any document and is retained as the best available (unconfirmed) evidence for that end of the range.",
+      "resolution": "Resolved 2026-07-07 per standing policy (documented sources take precedence over oral history in direct conflicts -- operator directive), applied only where the two genuinely conflict: the documented end date (through March 2014, per f_1753) supersedes the oral-history-recalled 2012 end date, since the two directly contradict for 2012-2014. Spelling corrected to 'Nicolas Garcia' (documented) throughout the KB and directors-index.md, superseding the oral-history 'Nicholas' spelling. The 2005-2008 start is NOT overwritten, since no document covers that span to conflict with it -- it remains oral-history-only and is flagged as unconfirmed rather than resolved.",
+      "resolved_at": "2026-07-07T00:00:00Z",
       "created_at": "2026-07-07T00:00:00Z"
     },
     {
@@ -333,8 +339,10 @@
         "2005 (oral history, M. Aronson; corroborated in general terms by CBC News 2017, which places him in a director-level Kanawana role when Stuart McLean returned in 2005)",
         "Not before 2008 per the Montreal YMCA's own annual reports -- Francois Dauphin held the Senior Management 'Director, Kanawana' title as of the 2007 report; Day first appears in it in the 2008 report"
       ],
-      "status": "unresolved",
-      "notes": "Possible reconciliation, not yet confirmed: the CBC 2017 article's 2005 framing may describe Day's presence/involvement at Kanawana in some capacity that year (he 'grew up at the camp' per other KB facts) rather than his formal directorship start, which the annual reports place later. Alternatively, Dauphin may have held a different or overlapping role the org chart doesn't distinguish from Day's. Not resolved without further primary-source clarification (e.g. a 2005 or 2006 annual report, not yet found, would directly test this) or operator input.",
+      "status": "resolved",
+      "notes": "Possible reconciliation: the CBC 2017 article's 2005 framing most likely describes Day's presence/involvement at Kanawana in some capacity that year (he 'grew up at the camp' per other KB facts, and was already on staff informally) rather than his formal directorship start, which the annual reports -- the more authoritative, institutional primary source -- place later. Dauphin may also have held a distinct or overlapping role the org chart doesn't separately track from Day's; that structural nuance is not fully resolved. A 2005 or 2006 annual report, if found, would directly test this further.",
+      "resolution": "Resolved 2026-07-07 per standing policy (documented sources take precedence over oral history in direct conflicts -- operator directive): adopt the Montreal YMCA annual reports' documented start. Francois Dauphin held the 'Directeur, YMCA Kanawana' Senior Management title as of the 2007 report; Sean Day's first documented appearance in that specific role is the 2008 report. The oral-history/CBC-corroborated 2005 start date is superseded as Day's *directorship* start, though preserved in the KB (f_1735, f_1740) as evidence he was already connected to Kanawana in some capacity that year.",
+      "resolved_at": "2026-07-07T00:00:00Z",
       "created_at": "2026-07-07T00:00:00Z"
     }
   ]

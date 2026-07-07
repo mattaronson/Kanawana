@@ -1091,8 +1091,8 @@
         "hedley-dimock"
       ],
       "file_id": null,
-      "word_count": 4800,
-      "notes": "v4.75: Peter Goddard confirmed (Peter Gilling Goddard 1953-2016, obituary condolence). Nelson McEwen tenure extended c.1927-1947. Derek Walsh exhausted. Gap periods updated."
+      "word_count": 5250,
+      "notes": "v4.75: Peter Goddard confirmed (Peter Gilling Goddard 1953-2016, obituary condolence). Nelson McEwen tenure extended c.1927-1947. Derek Walsh exhausted. Gap periods updated. | 2026-07-07: applied operator's standing conflict-resolution policy (documented sources take precedence over oral history) to resolve c_004, c_015, c_016, c_017 -- Gary White's Kanawana tenure narrowed to FY2001-2002, Sean Day's start corrected to 2008, Nicolas Garcia's spelling/end-date corrected to March 2014, Rossy Foundation corrected to Tyndale St-Georges."
     },
     {
       "article_id": "sources-index",
@@ -3821,7 +3821,9 @@
         "src_mediaterre_kanawana_2009",
         "src_facebook_kanawana",
         "src_acq_day",
-        "src_ymca_mclean_fund"
+        "src_ymca_mclean_fund",
+        "src_ymcaquebec_annualreport_2007",
+        "src_ymcaquebec_annualreport_2008"
       ],
       "open_questions": 4,
       "cross_links": [
@@ -3832,7 +3834,7 @@
         "programs-activities"
       ],
       "file_id": null,
-      "word_count": 1212
+      "word_count": 1260
     },
     {
       "article_id": "ymca-quebec-history",

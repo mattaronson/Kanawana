@@ -2720,3 +2720,60 @@ would be a concrete, checkable lead.
 ### Outcome
 4 new facts (f_1767-f_1770), 2 new sources. New "'Kamp' to 'Camp': the spelling change" subsection
 added to `traditions-and-culture.md`, with a new Open Question. KB v4.97 (1732 facts).
+
+## Campaign 28 (2026-07-07): "oral history yields to documented facts" — retroactive conflict resolution
+
+**Trigger:** Matt's directive — "the oral history should always yield to documented facts when there
+is a conflict." This is a standing policy for future work, not a one-off instruction, so it's now
+codified in `CLAUDE.md`'s Conflict Handling section as well as applied retroactively to every
+still-open conflict where an oral-history fact directly contradicted a documented source.
+
+### Conflicts resolved
+
+- **c_004** (Sean Day's post-YMCA employer): oral history/prior KB note said Rossy Foundation;
+  LinkedIn (f_0991, "stated" confidence) says Tyndale St-Georges Community Centre. Adopted Tyndale.
+  `sean-day.md` already had this right; `directors-index.md`'s Sean Day row had drifted stale and
+  still said Rossy Foundation — corrected.
+- **c_015** (Gary White's Kanawana tenure): oral history said Executive Director 2001-2005. The
+  Montreal YMCA's own annual reports confirm "Director, YMCA Kamp Kanawana" for FY2001-2002 only,
+  then "Director, Westmount YMCA" from FY2002-2003 through at least 2007. Adopted the documented
+  FY2001-2002-only tenure; the oral-history date range is superseded but preserved in the KB.
+- **c_016** (Nicolas/Nicholas Garcia's tenure): oral history said 2005-2012. Wayback-archived primary
+  sources confirm him continuously in role from June 2009 through March 2014. Applied the policy
+  narrowly: the *end* date is a genuine conflict (2012 vs. still-serving-in-2014), so the documented
+  March 2014 end wins. The *start* date is NOT a genuine conflict — no document covers 2005-2008 at
+  all — so it's left as unconfirmed oral history rather than "resolved." Spelling corrected to the
+  documented "Nicolas" (no h) throughout the KB and wiki.
+- **c_017** (Sean Day's directorship start): oral history + a 2017 CBC profile placed him as director
+  in 2005. The annual reports show François Dauphin held the "Directeur YMCA Kanawana" title as of
+  the 2007 report, with Day's first documented appearance in that role in the 2008 report. Adopted
+  2008 as the documented start; reconciled the 2005 CBC/oral-history date as describing Day's general
+  presence/connection to the camp that year (he "grew up at the camp"), not his formal directorship.
+
+### What changed
+
+- `kb/conflicts.json`: all four conflicts marked `resolved`, each with a `resolution` field explaining
+  the reasoning and citing the policy.
+- `kb/facts.json`: f_1734 (Garcia oral-history fact) — entities and claim updated to the corrected
+  name and to note the superseded end date; confidence downgraded to `disputed`. f_1752/f_1753
+  entities normalized to "Nicolas Garcia". KB now v4.98, 1732 facts (no new facts added — this was a
+  resolution pass on existing facts, not new research).
+- `wiki/people/directors-index.md`: Gary White, Sean Day, and Nicolas Garcia rows rewritten with the
+  resolved dates and an explanation of what was superseded and why; Morgan Carter's and François
+  Dauphin's rows updated to reflect that c_015/c_017 are no longer open; new changelog header line.
+- `wiki/people/sean-day.md`: directorship start corrected from "c. 2004" / "at least 2005" to 2008;
+  "Rossy Foundation" corrected to "Tyndale St-Georges Community Centre"; Stuart McLean Partnership
+  section reworded so it no longer implies Day held the formal director title in 2005; new source 13
+  (the 2007/2008 annual reports) added.
+- `CLAUDE.md`: added a "Default resolution direction" paragraph to the Conflict Handling section,
+  making this a durable project convention rather than a one-time cleanup. It's scoped narrowly —
+  documented sources win only where they *actually* contradict oral history on the same claim;
+  spans no document covers at all remain open and unconfirmed, not silently "resolved" in either
+  direction. Two-documented-sources-disagreeing conflicts (e.g. c_001, c_002, c_003, c_008, c_012)
+  are unaffected and still require human review as before.
+
+### Outcome
+
+0 new facts (a resolution pass, not new research). 4 conflicts resolved (c_004, c_015, c_016, c_017).
+17 conflicts total in the KB, of which 10 are now resolved/likely_resolved/partially_resolved and 7
+remain genuinely unresolved (all two-documented-source disagreements, unaffected by this policy).

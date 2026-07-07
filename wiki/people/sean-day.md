@@ -1,25 +1,25 @@
 # Sean Day
 
-*Status: E1-reviewed | Sources: 12*
-*Last Updated: 2026-06-11 (p_125: green shift 2006 origin and 2009 revitalization scope documented)*
+*Status: E1-reviewed | Sources: 13*
+*Last Updated: 2026-07-07 (conflict c_017 resolved per standing policy: Montreal YMCA annual reports document Day's Kanawana directorship start as 2008, not 2005 as oral history/CBC had suggested — the 2008 report is his first documented appearance in the "Director, Kanawana" Senior Management role, while Francois Dauphin held it as of the 2007 report)*
 
 ## Overview
 
-Sean Day served as Director of Camp YMCA Kanawana and Regional Director of Camps for the Quebec YMCAs from approximately 2004 to April 2023, a tenure of 19 years.^1 ^2 He grew up at Camp Kanawana and rose from camper to counsellor to director, holding a dual institutional role overseeing both the individual camp and the broader YMCA Quebec camping system.^2 ^3 His directorship spanned several defining periods, including the Stuart McLean partnership, a camp revitalization effort, the COVID-19 pandemic, and post-pandemic staffing challenges. He also served as spokesperson for the Quebec Camping Association (Association des camps du Québec).^4
+Sean Day served as Director of Camp YMCA Kanawana and Regional Director of Camps for the Quebec YMCAs from 2008 to April 2023, a tenure of about 15 years.^1 ^2 ^13 He grew up at Camp Kanawana and rose from camper to counsellor to director, holding a dual institutional role overseeing both the individual camp and the broader YMCA Quebec camping system.^2 ^3 His directorship spanned several defining periods, including the Stuart McLean partnership, a camp revitalization effort, the COVID-19 pandemic, and post-pandemic staffing challenges. He also served as spokesperson for the Quebec Camping Association (Association des camps du Québec).^4
 
 ## Early Connection to Kanawana
 
 Day grew up at Camp Kanawana, as he stated in a 2017 CBC interview: "Having lived with him for that week up at camp and having myself grown up at the camp and having lived the impact myself, I guess for Stuart it was just a natural thing."^3 He was Matt Aronson's counsellor during the latter's camper years.^1 Day attended Concordia University, though his specific degree and graduation year are not publicly documented.^7
 
-## Directorship (c. 2004–2023)
+## Directorship (2008–2023)
 
 ### Titles and Scope
 
-Day held the title "Director of Camp YMCA Kanawana" from at least 2005.^3 A 2009 press release describes him as "directeur des programmes et du camp Y Kanawana" (Director of Programs and Camp Y Kanawana).^8 From 2017 onward, CBC coverage uses the broader title "Regional Director of Camps for YMCA Quebec" alongside his camp director role.^2 ^3 Both titles appear to have been held concurrently, reflecting a dual role overseeing Kanawana specifically and the YMCA Quebec camping portfolio generally.
+Oral history and a 2017 CBC profile placed Day in the "Director of Camp Kanawana" role as early as 2005.^3 The Montreal YMCA's own annual reports tell a more precise story: Francois Dauphin held the Senior Management "Directeur YMCA Kanawana" title as of the 2007 report, and Day's first documented appearance in that specific role is the 2008 report.^13 Per the project's standing policy that documented sources take precedence over oral history where the two directly conflict (conflict c_017, resolved 2026-07-07), 2008 is treated as his formal directorship start; the 2005 date most plausibly reflects Day's general presence and connection to the camp that year rather than the formal title, since no contemporaneous source uses "Director" for him before 2008. A 2009 press release describes him as "directeur des programmes et du camp Y Kanawana" (Director of Programs and Camp Y Kanawana).^8 From 2017 onward, CBC coverage uses the broader title "Regional Director of Camps for YMCA Quebec" alongside his camp director role.^2 ^3 Both titles appear to have been held concurrently, reflecting a dual role overseeing Kanawana specifically and the YMCA Quebec camping portfolio generally.
 
 ### Stuart McLean Partnership
 
-Day was director when Stuart McLean returned to Camp Kanawana in 2005 for a week, during which McLean hosted his CBC Radio program *The Vinyl Cafe* from the camp.^3 This visit led to an ongoing relationship between McLean and the camp. Before McLean's death from cancer on February 15, 2017, the McLean family established the Stuart McLean Camp YMCA Kanawana Fund to provide financial support for children who cannot afford to attend camp.^3
+Day was present at Camp Kanawana when Stuart McLean returned for a week in 2005, during which McLean hosted his CBC Radio program *The Vinyl Cafe* from the camp^3 — three years before Day's documented formal directorship began (see Titles and Scope, above). This visit led to an ongoing relationship between McLean and the camp. Before McLean's death from cancer on February 15, 2017, the McLean family established the Stuart McLean Camp YMCA Kanawana Fund to provide financial support for children who cannot afford to attend camp.^3
 
 Day spoke about the fund: "That was Stuart's experience, and he's so kindly asked people to support making sure that any kid who wants to experience that magic can."^3 He also articulated the camp's mission: "Helping kids to understand their potential in the context of community and nature is what the camp is all about."^3
 
@@ -79,3 +79,4 @@ Day became Director of Fund Development at **Tyndale St-Georges Community Centre
 10. Association des camps du Québec (ACQ). Day described as "former director." URL: https://campsquebec.com/blogue-camps/great-news-for-our-english-members
 11. CBC Daybreak Montreal (2022/2023). Kate Taylor and Kevin Slezak as current leadership.
 12. YMCA Quebec. "The Stuart McLean Camp YMCA Kanawana Fund." URL: https://www.ymcaquebec.org/en/Blog/The-Stuart-McLean-Camp-Kanawana-Fund-providing-fi
+13. Montreal YMCA annual reports, 2007 and 2008 editions (Wayback Machine). Senior Management listings: Francois Dauphin as "Directeur YMCA Kanawana" (2007 report); Sean Day first appearing in that role (2008 report). Basis for resolving conflict c_017.

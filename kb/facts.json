@@ -1,5 +1,5 @@
 {
-  "version": "v4.92",
+  "version": "v4.98",
   "kb_version": "v4.97",
   "migrated_from": "3.3",
   "fact_count": 1732,
@@ -29423,14 +29423,14 @@
     },
     {
       "fact_id": "f_1734",
-      "claim": "Nicholas Garcia served as the on-site Director of Kanawana from 2005 to 2012, under Executive Director Sean Day.",
+      "claim": "Nicolas Garcia (recorded from oral history as \"Nicholas Garcia\" -- corrected to the documented spelling, see f_1752) served as the on-site Director of Kanawana under Executive Director Sean Day. Oral history recalled a 2005-2012 tenure; per the standing policy that documented sources take precedence over oral history in direct conflicts (operator directive, 2026-07-07, resolving conflict c_016), the 2012 end date is superseded by documented evidence (f_1753) that he served continuously through March 2014. The 2005-2008 start is not directly contradicted by any document and remains oral-history-only, unconfirmed.",
       "sources": [
         "src_oral_aronson"
       ],
-      "confidence": "user_knowledge",
+      "confidence": "disputed",
       "category": "directors",
       "entities": [
-        "Nicholas Garcia",
+        "Nicolas Garcia",
         "Sean Day"
       ],
       "date_ref": "2005-2012",
@@ -29733,7 +29733,7 @@
       "confidence": "stated",
       "category": "people",
       "entities": [
-        "Nicholas Garcia",
+        "Nicolas Garcia",
         "Sean Day",
         "Roxanne Martel"
       ],
@@ -29751,7 +29751,7 @@
       "confidence": "stated",
       "category": "people",
       "entities": [
-        "Nicholas Garcia",
+        "Nicolas Garcia",
         "Sean Day",
         "Kristen Whitelaw"
       ],
