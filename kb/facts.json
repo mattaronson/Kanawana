@@ -29351,14 +29351,14 @@
     },
     {
       "fact_id": "f_1730",
-      "claim": "Johanna A.A. Hoade served as the on-site Camp Director of Kanawana from 1995 to 2000, under Executive Director Arlene Boyle. (Previously recorded in the KB as 'Joanna Hode' -- same person, corrected spelling.)",
+      "claim": "Joanna A.A. Hoad served as the on-site Camp Director of Kanawana from 1995 to 2000, under Executive Director Arlene Boyle. (Previously recorded in the KB as 'Joanna Hode', then miscorrected to 'Johanna A.A. Hoade' -- operator confirms the correct spelling is 'Joanna A.A. Hoad'.)",
       "sources": [
         "src_oral_aronson"
       ],
       "confidence": "user_knowledge",
       "category": "directors",
       "entities": [
-        "Johanna A.A. Hoade",
+        "Joanna A.A. Hoad",
         "Arlene Boyle"
       ],
       "date_ref": "1995-2000",
