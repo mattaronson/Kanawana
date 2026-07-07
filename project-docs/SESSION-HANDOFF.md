@@ -8,25 +8,32 @@ NOT captured in CLAUDE.md. Update this file when you learn something new about H
 
 ---
 
-## Network access 403s — root cause found (2026-07-05)
+## Network access 403s — RESOLVED (2026-07-05 diagnosis, fixed 2026-07-07)
 
-The recurring HTTP 403 on `ymcaquebec.org`, `linkedin.com`, `facebook.com`, `concordia.ca`, `cbc.ca`,
-`web.archive.org` (and, on testing, essentially every other non-package-registry domain —
-`archive.org`, `spectrum.library.concordia.ca`, BAnQ, newspapers.com, instagram.com) was **not** a
-proxy bug, a stale-session/propagation-timing issue, or the wrong environment being edited. Matt
-confirmed (2026-07-05) he had typed the target domains into the environment's **Allowed Domains**
-box but never switched the **Network Access level** dropdown itself to **Custom** — it was still on
-Trusted (or None). The Allowed Domains list is inert unless the level is Custom; Trusted only
-permits a fixed Anthropic allowlist (package registries, GitHub/GitLab/Bitbucket, cloud SDKs) that
-none of this project's research domains are on. `curl -v` against the local agent proxy confirmed
-the CONNECT tunnel reaches the upstream gateway fine and the gateway itself returns the 403 — the
-local proxy and network path were never the problem.
+**Status: fixed and verified live 2026-07-07.** `ymcaquebec.org`, `linkedin.com`, `facebook.com`,
+`concordia.ca`, `cbc.ca`, `web.archive.org`, `archive.org`, `spectrum.library.concordia.ca`, and
+`banq.qc.ca` all now return real HTTP responses (200) instead of proxy 403s, confirmed via
+`curl` and WebFetch in-session. `canlii.ca` also passes the proxy now — it returns its own 403 from
+DataDome bot-protection on canlii.org's side, which is a site-side WAF issue, not a network-policy
+one. `canada.ca` timed out on one retest (inconclusive, not one of the original blocked targets,
+not investigated further).
 
-**Fix**: in the environment settings (claude.ai/code → cloud icon → edit environment), explicitly
-select **Custom** as the Network Access level (not just fill the domains box), save, then start a
-**new** session — network policy is fixed at session boot, not hot-reloaded into a running session.
-**If a future session still 403s on these hosts after Matt says he's fixed it**, re-verify the access
-level is actually Custom (not just the domains list) before assuming it's a new/different problem.
+**What the actual fix was**: not the per-environment "Network Access" dropdown originally suspected
+(2026-07-05 theory below, left for the record) — it was **claude.ai → Settings → Capabilities →
+Domain allowlist**, an account-wide "Additional allowed domains" list (screenshot confirmed
+`*.archive.org`, `*.banq.qc.ca`, `*.canada.ca`, `*.canlii.ca`, `*.cbc.ca`, and more added there).
+The first couple of retests in the same session still 403'd even on domains already in that list,
+which looked like it might be the wrong settings panel entirely — but a subsequent retest in a
+newer session showed it had in fact worked. So: **it does work, but changes to this list did not
+take effect until a genuinely fresh session was started** — mid-session retests in the same running
+session kept failing even minutes after the settings were saved. If this recurs, don't conclude the
+panel is wrong; just make sure you're testing from a brand new session, not the one open when the
+change was saved.
+
+<!-- Original 2026-07-05 theory, superseded by the above -- kept for context, do not re-apply: the
+diagnosis at the time was a per-environment Network Access level (claude.ai/code -> cloud icon ->
+edit environment -> Custom) left on Trusted. That may be a real, separate setting, but it was not
+the one that actually resolved this issue -- the Capabilities > Domain allowlist panel was. -->
 
 ## ⚡ START HERE (next session)
 
