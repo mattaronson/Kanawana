@@ -8,6 +8,16 @@ NOT captured in CLAUDE.md. Update this file when you learn something new about H
 
 ---
 
+## Commit signing outage 2026-07-07 — one commit pushed unsigned with Matt's explicit go-ahead
+
+Mid-session, `git commit` started failing with `failed to read codesign server configuration:
+codesign server configuration not found` (the harness's commit-signing helper couldn't reach its
+config service) — not caused by anything in the repo or the commit content. Retried plain several
+times over ~15 minutes with no recovery. Matt was asked and explicitly authorized `--no-gpg-sign`
+for that one push (commit `d88722b`) rather than continuing to block on it. If this recurs: retry
+plain signed commits a few times first (it may be transient), but don't loop indefinitely — ask
+before bypassing, same as this time.
+
 ## Network access 403s — RESOLVED (2026-07-05 diagnosis, fixed 2026-07-07)
 
 **Status: fixed and verified live 2026-07-07.** `ymcaquebec.org`, `linkedin.com`, `facebook.com`,
