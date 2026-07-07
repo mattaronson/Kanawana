@@ -2560,3 +2560,44 @@ possibly resolvable with operator context (does "Executive Director" as recalled
 annual report's single "Director" title? could Garcia's role have started before the earliest
 surviving snapshot?) rather than further web research, since the archival trail for both is otherwise
 exhausted.
+
+## Campaign 25, continued: name correction and a Lower Canada College breakthrough
+
+After Campaign 25's four-name RALPH results were committed, the operator corrected the name
+"Johanna A.A. Hoade" itself — the actually-correct spelling is **Joanna A.A. Hoad**. This is the
+second correction to this name (originally "Joanna Hode" → "Johanna A.A. Hoade" on 2026-07-05 →
+"Joanna A.A. Hoad" now). Updated the KB fact, her directors-index.md row, and Open Question 9. Before
+updating the "genuinely exhausted" language, ran a final targeted check under the truly-correct
+spelling (2 WebSearch queries, 1 archive.org full-text search) — still zero corroboration; every
+"Joanna Hoad" found is a distinct UK-based person. The exhaustion assessment stands.
+
+Immediately afterward, the operator volunteered a new detail: Hoad worked at **Lower Canada College**
+(LCC), a Montreal private school, after leaving Kanawana. This was a genuinely untried lead — every
+prior research pass (2026-07-05 and 2026-07-07) had focused on Kanawana-, YMCA-, and general-web-
+specific searches, never on a completely separate later-career institution. Wayback-CDX-searching
+`lcc.ca` for "hoad" found real results within minutes:
+- A February 2001 internal staff phone list: "Hoad, Joanna — Director of Community Programs —
+  Administration — (514) 482-9797 Ext. 204 — jaahoad" (f_1755).
+- Her full staff-directory profile from the same period: "Ms. Joanna Hoad, Director of Community
+  Programs. BSc (Health) Christ Church (UK); BA (Geography) Lakehead; Hons Bac. (Outdoor Recreation),
+  Lakehead... Years at LCC: 1" (f_1756) — meaning her LCC tenure began in 2000, the same year her
+  Kanawana directorship ended, suggesting a direct transition between the two roles.
+- A 2004-dated staff photo filename and a 2007-dated photo-gallery caption place her still at LCC
+  through at least 2007; she's absent from the 2008 and 2009 staff listings (f_1757).
+
+The "jaahoad" email prefix independently confirms the "A.A." middle initials against the oral-history
+name — genuine, non-oral-history identity confirmation, the first found anywhere for her, after two
+separate exhausted research passes focused on the wrong institution. Note this doesn't corroborate
+her *Kanawana* tenure specifically (no source yet documents her 1995-2000 camp directorship
+independently) — it documents a later, separate chapter of her life. Created a new standalone article,
+`wiki/people/joanna-hoad.md` (status: draft, registered in `articles.json`), and cross-linked it from
+`directors-index.md`.
+
+**Lesson for future research**: targeted operator memory ("did you know them from anywhere else?")
+can succeed where broad multi-surface web search cannot, even after that search is genuinely
+exhausted under every name variant tried. Worth asking before closing out a null result as final —
+now noted in the new article's own research notes for future sessions.
+
+### Outcome
+3 new facts (f_1755-f_1757), 2 new sources, KB v4.95 (1719 facts). 1 new article
+(`wiki/people/joanna-hoad.md`, status draft), `articles.json` now has 53 articles.

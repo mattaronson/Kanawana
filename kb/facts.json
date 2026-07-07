@@ -1,8 +1,8 @@
 {
   "version": "v4.92",
-  "kb_version": "v4.94",
+  "kb_version": "v4.95",
   "migrated_from": "3.3",
-  "fact_count": 1715,
+  "fact_count": 1719,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -29760,6 +29760,74 @@
         "f_1734"
       ],
       "added_version": "v4.94",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_1754",
+      "claim": "Joanna A.A. Hoad was also staff at Lower Canada College (LCC), a Montreal private school, after she left Camp Kanawana (i.e. after her 1995-2000 on-site Directorship there).",
+      "sources": [
+        "src_oral_aronson"
+      ],
+      "confidence": "user_knowledge",
+      "category": "people",
+      "entities": [
+        "Joanna A.A. Hoad",
+        "Lower Canada College"
+      ],
+      "date_ref": "post-2000",
+      "conflicts_with": [],
+      "added_version": "v4.94",
+      "added_by": "oral_history"
+    },
+    {
+      "fact_id": "f_1755",
+      "claim": "Lower Canada College's (LCC, a Montreal private school) internal staff phone list, archived by the Wayback Machine (web.archive.org/web/20010221151029/http://www.lcc.ca/Faculty/Phonelist.asp, fetched directly 2026-07-07), lists 'Hoad, Joanna -- Director of Community Programs -- Administration -- (514) 482-9797 Ext. 204 -- jaahoad' as of early 2001. The email/username prefix 'jaahoad' independently confirms the middle initials 'A.A.' matching the oral-history name 'Joanna A.A. Hoad,' resolving her identity beyond the phonetic-only spelling correction.",
+      "sources": [
+        "src_wayback_lcc_phonelist_2001"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "Joanna A.A. Hoad",
+        "Lower Canada College"
+      ],
+      "date_ref": "2001",
+      "conflicts_with": [],
+      "added_version": "v4.95",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_1756",
+      "claim": "Lower Canada College's internal staff-directory profile page for Joanna Hoad (Wayback-archived, web.archive.org/web/20010429094053/http://www.lcc.ca/lccscripts/SDDisp.asp?ID=jhoad, fetched directly 2026-07-07) reads in full: 'Ms. Joanna Hoad, Director of Community Programs. BSc (Health) Christ Church (UK); BA (Geography) Lakehead; Hons Bac. (Outdoor Recreation), Lakehead. Phone/Extension: (514) 482-9797 Ext. 204. E-mail: jaahoad@lcc.ca. Department: Administration. Years at LCC: 1' -- i.e. as of this April 2001 snapshot she had been at LCC for one year, meaning her LCC tenure began in 2000, immediately upon or overlapping the end of her 1995-2000 on-site directorship at Camp Kanawana.",
+      "sources": [
+        "src_wayback_lcc_staffprofile_2001"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "Joanna A.A. Hoad",
+        "Lower Canada College"
+      ],
+      "date_ref": "2001",
+      "conflicts_with": [],
+      "added_version": "v4.95",
+      "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_1757",
+      "claim": "LCC's website (Wayback-archived) shows a staff photo file 'images/Staff/HoadJ.jpg' (snapshot dated 2004) and a 2007-dated photo gallery captioned 'Group shot with JHoad in circle with arms up' (web.archive.org, urls galleries/00015/Group_shot_with_JHoad...), placing Joanna Hoad still at LCC as of 2007. She does not appear in LCC's faculty-senior listing (2008 snapshot) or full staff directory (2009 snapshot), suggesting she had left LCC by then. Her confirmed LCC tenure window is therefore approximately 2000/2001 to sometime between 2007 and 2009 -- exact end date not pinned down.",
+      "sources": [
+        "src_wayback_lcc_staffprofile_2001"
+      ],
+      "confidence": "inferred",
+      "category": "people",
+      "entities": [
+        "Joanna A.A. Hoad",
+        "Lower Canada College"
+      ],
+      "date_ref": "2000-2009",
+      "conflicts_with": [],
+      "added_version": "v4.95",
       "added_by": "auto_extraction"
     }
   ]

@@ -8817,7 +8817,39 @@
       "extraction_version": "v4.94",
       "reliability": "primary",
       "notes": "Camp's own official staff contact page (ymcakanawana.com), multiple Wayback snapshots 2010-2015 surfaced and fetched by a research agent. Confirms Nicolas Garcia continuously under Sean Day (Directeur) 2010-March 2014, titled Chef de Camp then Coordonnateur du camp de vacances; replaced by Kristen Whitelaw by April 2015. Sourced facts: f_1753 (conflict c_016)."
+    },
+    {
+      "source_id": "src_wayback_lcc_phonelist_2001",
+      "type": "web",
+      "title": "Lower Canada College internal staff phone list, 2001 (Wayback Machine archive)",
+      "date": "2001",
+      "date_precision": "year",
+      "origin": "web",
+      "origin_url": "https://web.archive.org/web/20010221151029/http://www.lcc.ca:80/Faculty/Phonelist.asp",
+      "cache_path": null,
+      "char_count": 0,
+      "ingested_at": "2026-07-07T00:00:00Z",
+      "extracted": true,
+      "extraction_version": "v4.95",
+      "reliability": "primary",
+      "notes": "Surfaced via Wayback CDX search of lcc.ca after the operator noted Joanna Hoad's post-Kanawana LCC career. Lists her as Director of Community Programs, Administration, email prefix jaahoad. Sourced facts: f_1755."
+    },
+    {
+      "source_id": "src_wayback_lcc_staffprofile_2001",
+      "type": "web",
+      "title": "Lower Canada College staff directory profile, Joanna Hoad, 2001 (Wayback Machine archive)",
+      "date": "2001",
+      "date_precision": "year",
+      "origin": "web",
+      "origin_url": "https://web.archive.org/web/20010429094053/http://www.lcc.ca:80/lccscripts/SDDisp.asp?ID=jhoad",
+      "cache_path": null,
+      "char_count": 0,
+      "ingested_at": "2026-07-07T00:00:00Z",
+      "extracted": true,
+      "extraction_version": "v4.95",
+      "reliability": "primary",
+      "notes": "Full staff profile: title, education (BSc Health, Christ Church UK; BA Geography and Hons Bac Outdoor Recreation, Lakehead), email jaahoad@lcc.ca, one year at LCC as of April 2001. Also used a 2004 staff-photo filename and a 2007 photo-gallery caption (both confirmed via Wayback CDX, not separately fetched in full) to bracket her LCC tenure to roughly 2000-2007/2009. Sourced facts: f_1756, f_1757."
     }
   ],
-  "source_count": 551
+  "source_count": 553
 }

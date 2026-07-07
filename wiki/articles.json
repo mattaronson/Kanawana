@@ -4659,6 +4659,46 @@
       ],
       "file_id": null,
       "word_count": 550
+    },
+    {
+      "article_id": "joanna-hoad",
+      "title": "Joanna A.A. Hoad",
+      "wiki_folder": "people",
+      "status": "draft",
+      "status_history": [
+        {
+          "status": "stub",
+          "at": "2026-07-05T00:00:00Z",
+          "by": "auto",
+          "task": "RESEARCH"
+        },
+        {
+          "status": "draft",
+          "at": "2026-07-07T00:00:00Z",
+          "by": "auto",
+          "task": "WRITE"
+        }
+      ],
+      "ralph_loops_completed": 3,
+      "kb_facts_used": [
+        "f_1729",
+        "f_1730",
+        "f_1754",
+        "f_1755",
+        "f_1756",
+        "f_1757"
+      ],
+      "sources_cited": [
+        "src_oral_aronson",
+        "src_wayback_lcc_phonelist_2001",
+        "src_wayback_lcc_staffprofile_2001"
+      ],
+      "open_questions": 4,
+      "cross_links": [
+        "directors-index"
+      ],
+      "file_id": null,
+      "word_count": 520
     }
   ]
 }
