@@ -2777,3 +2777,61 @@ still-open conflict where an oral-history fact directly contradicted a documente
 0 new facts (a resolution pass, not new research). 4 conflicts resolved (c_004, c_015, c_016, c_017).
 17 conflicts total in the KB, of which 10 are now resolved/likely_resolved/partially_resolved and 7
 remain genuinely unresolved (all two-documented-source disagreements, unaffected by this policy).
+
+---
+
+## Campaign 29: Priority-queue stale-entry cleanup + re-test of pre-fix-era blocked items
+
+**Date:** 2026-07-08
+**Trigger:** A status-dashboard review surfaced that several `blocked` queue items cited the
+egress-proxy 403 as their reason, but that block was fixed 2026-07-07 — those items had never been
+re-tried, and a few others looked resolved-but-mislabeled independent of the network question.
+
+### Bookkeeping-only fixes (already resolved elsewhere, never marked completed)
+- **p_148** (Pagé family) — `wiki/people/page-family.md` is a full four-generation E1-reviewed
+  article, 20 facts, 10 sources. Resolved in an earlier session; the priority just never got closed.
+- **p_149** (QAHN Shawbridge) — `src_qahn_shawbridge` in sources.json already shows `extracted: true`.
+- **p_183** (Kate Taylor / Marie-Pierre Lacasse tenures) — resolved in Campaign 24 (2026-07-07) once
+  ymcaquebec.org became reachable; directors-index.md already reflects it.
+- **p_189** (winter-programming) — the article already advanced past stub to R3-verified in an
+  earlier session; the blocking_reason predates that work.
+
+### Re-tested and actually re-run (genuinely still open, blocked on the now-fixed proxy)
+Six Internet Archive items, all confirmed reachable via direct WebFetch:
+- **Alfred Sandham, "History of the Montreal YMCA" (1873)** — full text covers only 1851-1860.
+  Genuine negative result: no camping/Kanawana content (organized camping didn't exist yet).
+- **YMCA of Montreal Annual Report, 1889-90** — same negative result; confirms D.A. Budge as
+  Secretary and Abner Kingman as incoming (1890-91) President, no Cushing in a top role that year.
+  (Consolidated into one fact, f_1776, alongside the Sandham result — same negative finding, same
+  "no camping pre-1894" conclusion.)
+- **Sir George Williams College Bulletin, September 1932** — genuine null, no Kanawana mention.
+- **YMCA news releases, 1965-04-27 and 1980-03-17** — both genuine nulls; unrelated administrative
+  announcements (a fundraising campaign; a Pointe-Saint-Charles community-centre reopening).
+- **YMCA of Montreal Annual Report, 1966-67** — this one had a real payoff. Previously flagged in
+  p_159 (2026-06-21) as "IS on Internet Archive but returns 403." Read in full this time: confirms
+  A. Ross Seaman's title as "Director of Camping"; gives 1966 season stats (73rd year of operation,
+  488 campers aged 7-17, 1,323 camper-weeks vs. 1,182 in 1965); documents a two-week, 45-staff
+  training program with Montreal YMCA Secretaries serving as section directors, plus an eight-week
+  CIT/Junior Counsellor program; and quotes Seaman describing the camp's philosophy as a
+  "participatory democracy" — campers planning their own activities rather than following a fixed
+  program. 5 new facts (f_1771-f_1775), folded into `wiki/people/a-ross-seaman.md` (open question #2
+  on his programming approach is now largely resolved).
+
+### KB / file changes
+- `kb/facts.json`: +6 facts (f_1771-f_1776). KB v4.99, 1,738 facts.
+- `sources/sources.json`: 6 sources flipped `extracted: false → true` with notes on findings
+  (562 total, unchanged — no new sources, just extraction of ones already on record).
+- `wiki/people/a-ross-seaman.md`: new paragraph in the Camp Kanawana section, open question #2
+  marked largely resolved, source 6 added, word count 725 → 891.
+- `wiki/articles.json`: a-ross-seaman's kb_facts_used, sources_cited, word_count, status_history
+  updated accordingly.
+- `queue/priorities.json`: 6 items marked completed (p_056, p_064, p_148, p_149, p_183, p_189);
+  p_159's stale "returns 403" note appended with a pointer to the successful re-fetch. Queue is now
+  161 completed / 28 blocked / 3 done / 1 exhausted-web (was 155 / 34 / 3 / 1).
+
+### Outcome
+
+6 new facts, 0 new sources (6 existing sources extracted), 0 new conflicts. No remaining blocked
+items reference the pre-2026-07-07 network policy as their sole blocker — the rest of the 28 are
+genuinely blocked on paywalls, physical archive access, or operator-only actions (oral history,
+personal contact, Facebook browsing).

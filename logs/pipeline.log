@@ -2123,3 +2123,13 @@ HYPOTHESIZE — Remaining productive research requires:
   - Codified the policy as a durable rule in CLAUDE.md's Conflict Handling section, so future sessions apply it automatically without waiting for per-conflict human review; scoped narrowly so undocumented spans are not treated as "resolved" against oral history
   - Updated wiki/articles.json (directors-index, sean-day word counts and notes/sources)
   - All facts preserved per no-silent-overwrite rule -- superseded, not deleted
+
+2026-07-08T00:00:00Z | QUEUE-CLEANUP | Stale-entry sweep on queue/priorities.json (prompted by a status-dashboard review)
+  - Verified 6 items marked "blocked" against current KB/article state and current network reachability before touching anything (per SESSION-HANDOFF.md's "blocked is not proof of incompleteness" lesson).
+  - p_148 (Pagé family), p_149 (QAHN Shawbridge), p_183 (Kate Taylor/Lacasse tenures), p_189 (winter-programming) were already fully resolved in earlier sessions but never marked completed -- fixed.
+  - p_056 (Sandham 1873) and p_064 (5 remaining IA items: 1889-90 report, 1966-67 report, 1932 SGW Bulletin, 1965 + 1980 news releases) were genuinely still open, with blocking_reason citing the pre-2026-07-07 egress-proxy 403. Re-tested with direct WebFetch: all 6 items now reachable. Read all 6 in full:
+    - Sandham 1873 + 1889-90 Annual Report: genuine negative results (pre-1894-founding, no camping content) -- f_1776.
+    - 1932 SGW Bulletin, 1965 news release, 1980 news release: genuine negative results, no Kanawana content.
+    - 1966-67 Annual Report (previously flagged 403 in p_159): yielded 5 new facts (f_1771-f_1775) -- A. Ross Seaman's "Director of Camping" title, 1966 season stats (73rd year, 488 campers, 1,323 camper-weeks), staff training program, CIT/Junior Counsellor program, and his "participatory democracy" philosophy quote, folded into wiki/people/a-ross-seaman.md (open question #2 largely resolved).
+  - KB v4.99, 1738 facts (+6). sources/sources.json: 6 sources flipped extracted:false -> true (562 total unchanged, no new sources). articles.json updated for a-ross-seaman (word count, facts, sources, status_history).
+  - priorities.json: 155->161 completed, 34->28 blocked. p_159's stale "returns 403" note appended with a 2026-07-08 update pointing to the successful re-fetch.

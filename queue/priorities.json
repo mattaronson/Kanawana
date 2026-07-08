@@ -729,7 +729,9 @@
       "blocking_reason": "archive.org proxy-blocked. User must download.",
       "assigned_weight": "P2",
       "created_at": "2026-03-02T00:00:00Z",
-      "status": "blocked"
+      "status": "completed",
+      "result": "Direct-fetch cleanup pass 2026-07-08 (post network-access fix): Sandham's 1873 'History of the Montreal YMCA' read in full. Covers only 1851-1860 -- genuine negative result, no camping/Kanawana content (organized camping didn't exist yet). See f_1776.",
+      "completed_at": "2026-07-08T00:00:00Z"
     },
     {
       "priority_id": "p_057",
@@ -832,7 +834,9 @@
       "blocking_reason": "archive.org proxy-blocked. User must download.",
       "assigned_weight": "P3",
       "created_at": "2026-03-02T00:00:00Z",
-      "status": "blocked"
+      "status": "completed",
+      "result": "Direct-fetch cleanup pass 2026-07-08 (post network-access fix). All five remaining items read in full: 1889-90 Annual Report (negative result, pre-founding, see f_1776), the 1966-67 Annual Report (previously 403-blocked per p_159 -- yielded 5 new facts f_1771-f_1775: A. Ross Seaman's 'Director of Camping' title, 1966 season stats, staff training, CIT program, 'participatory democracy' philosophy quote -- folded into wiki/people/a-ross-seaman.md), the September 1932 SGW College Bulletin (genuine null, no Kanawana content), and the 1965 and 1980 YMCA news releases (both genuine nulls, unrelated administrative announcements). 1856/1876 reports and the 1993 report were already covered by p_185/p_186/p_163. Nothing further to extract from this batch.",
+      "completed_at": "2026-07-08T00:00:00Z"
     },
     {
       "priority_id": "p_065",
@@ -1909,7 +1913,9 @@
       "blocking_reason": "VSS.ca 403'd; FamilySearch and BAnQ require browser access",
       "assigned_weight": "P2",
       "created_at": "2026-06-20T00:00:00Z",
-      "status": "blocked"
+      "status": "completed",
+      "completed_at": "2026-07-08T00:00:00Z",
+      "result": "Stale bookkeeping fix 2026-07-08: this was already fully resolved in an earlier session -- wiki/people/page-family.md is a four-generation, E1-reviewed article (20 KB facts, 10 sources) covering the Pagé family's Saint-Sauveur settlement, the YMCA's c.1910 and 1960 land purchases, and the Lac Desjardins/Olivine Desjardins naming theory. Marking completed so it stops resurfacing as blocked."
     },
     {
       "priority_id": "p_149",
@@ -1921,7 +1927,9 @@
       "blocking_reason": "QAHN website returns 403 to automated fetches",
       "assigned_weight": "P3",
       "created_at": "2026-06-20T00:00:00Z",
-      "status": "blocked"
+      "status": "completed",
+      "completed_at": "2026-07-08T00:00:00Z",
+      "result": "Stale bookkeeping fix 2026-07-08: sources.json shows src_qahn_shawbridge already extracted:true (a separate QAHN Shawbridge/Laurentians camping-articles source from the one this priority's description referenced). Already covered; marking completed."
     },
     {
       "priority_id": "p_150",
@@ -2047,7 +2055,7 @@
       "assigned_weight": "P2",
       "created_at": "2026-06-20T16:00:00Z",
       "status": "completed",
-      "result": "R1 RALPH loop completed. CRITICAL FIND: 1966-67 annual report IS on Internet Archive (sgw-ymca-annual-report-1966-67) but returns 403 to automated fetch. Only 6 digitized YMCA Montreal annual reports exist (1856, 1876, 1889-1890, 1891-1892, 1966-67, 1993). 1940s-1950s reports remain at Concordia only. Ross Bannerman identified as 1969 Kanawana report author and later YMCA Montreal CEO. Ben T. Hannah 'Kanawana Reminiscence (of 1948)' at Concordia. 5 new facts (f_1335-f_1339), 2 new sources.",
+      "result": "R1 RALPH loop completed. CRITICAL FIND: 1966-67 annual report IS on Internet Archive (sgw-ymca-annual-report-1966-67) but returns 403 to automated fetch. Only 6 digitized YMCA Montreal annual reports exist (1856, 1876, 1889-1890, 1891-1892, 1966-67, 1993). 1940s-1950s reports remain at Concordia only. Ross Bannerman identified as 1969 Kanawana report author and later YMCA Montreal CEO. Ben T. Hannah 'Kanawana Reminiscence (of 1948)' at Concordia. 5 new facts (f_1335-f_1339), 2 new sources. [Update 2026-07-08 / p_064]: the 403 was a since-fixed network-policy block, not a permanent one -- the report was read directly on 2026-07-08 and yielded 5 new facts (f_1771-f_1775), folded into wiki/people/a-ross-seaman.md.",
       "completed_at": "2026-06-21T14:30:00Z"
     },
     {
@@ -2339,11 +2347,13 @@
       "priority_id": "p_183",
       "description": "Research Kate Taylor and Marie-Pierre Lacasse tenures — exact start/end dates, any additional programming innovations",
       "topic": "Modern director tenures",
-      "status": "blocked",
+      "status": "completed",
       "blocking_reason": "YMCA Quebec website 403 blocked. LinkedIn requires auth. Basic facts already captured.",
       "created_at": "2026-06-22T11:30:32Z",
       "priority": 3,
-      "task_type": "RESEARCH"
+      "task_type": "RESEARCH",
+      "completed_at": "2026-07-08T00:00:00Z",
+      "result": "Stale bookkeeping fix 2026-07-08: this was already resolved in Campaign 24 (2026-07-07) once ymcaquebec.org became reachable -- the YMCA Quebec team page was read directly and gave Kate Taylor's and Marie-Pierre Lacasse's tenure detail (including Lacasse's previously-undocumented 2007-2010 expeditions-director stint), plus Quinn Durand and Amy Thomson. See wiki/people/directors-index.md rows and changelog. Marking completed."
     },
     {
       "priority_id": "p_184",
@@ -2410,7 +2420,9 @@
       "blocking_reason": "Limited online sources available. Concordia Archives 12A/12B may contain seasonal programming records. Some facts already extracted from cached sources.",
       "assigned_weight": "P3",
       "created_at": "2026-06-24T00:00:00Z",
-      "status": "blocked"
+      "status": "completed",
+      "completed_at": "2026-07-08T00:00:00Z",
+      "result": "Stale bookkeeping fix 2026-07-08: wiki/winter-programming.md has already advanced past stub to R3-verified (13 KB facts, 5 sources) in an earlier session -- the blocking_reason describing 'limited online sources' predates that work. Marking completed; further depth would require the same physical Concordia archive access already tracked under p_193."
     },
     {
       "priority_id": "p_190",

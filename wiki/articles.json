@@ -3045,6 +3045,12 @@
           "at": "2026-03-15T13:30:00Z",
           "by": "auto",
           "task": "REVIEW"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-07-08T00:00:00Z",
+          "by": "auto",
+          "task": "RESEARCH"
         }
       ],
       "ralph_loops_completed": 1,
@@ -3067,14 +3073,20 @@
         "f_1147",
         "f_1148",
         "f_1149",
-        "f_1150"
+        "f_1150",
+        "f_1771",
+        "f_1772",
+        "f_1773",
+        "f_1774",
+        "f_1775"
       ],
       "sources_cited": [
         "src_concordia_seaman_fund",
         "src_mcmorris_thesis",
         "src_dawson_crlt",
         "src_concordia_ctr_2001",
-        "src_concordia_atom_12K"
+        "src_concordia_atom_12K",
+        "src_ia_ymca_annual_report_1966_67"
       ],
       "open_questions": 5,
       "cross_links": [
@@ -3083,7 +3095,7 @@
         "section-names"
       ],
       "file_id": null,
-      "word_count": 725
+      "word_count": 891
     },
     {
       "article_id": "taylor-statten",

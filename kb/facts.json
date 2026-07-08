@@ -1,8 +1,8 @@
 {
   "version": "v4.98",
-  "kb_version": "v4.97",
+  "kb_version": "v4.99",
   "migrated_from": "3.3",
-  "fact_count": 1732,
+  "fact_count": 1738,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -30043,6 +30043,108 @@
       "conflicts_with": [],
       "added_version": "v4.97",
       "added_by": "auto_extraction"
+    },
+    {
+      "fact_id": "f_1771",
+      "claim": "A. Ross Seaman held the title \"Director of Camping\" per the YMCA of Montreal's 1966-67 Annual Report, corroborating his documented camp directorship (1959-1967).",
+      "sources": [
+        "src_ia_ymca_annual_report_1966_67"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "A. Ross Seaman"
+      ],
+      "date_ref": "1966-1967",
+      "conflicts_with": [],
+      "added_version": "v4.99",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_1772",
+      "claim": "Per the 1966-67 YMCA of Montreal Annual Report, \"Kamp Kanawana celebrated its seventy-third year of operation with 488 campers ranging in age from 7 to 17 years. Total of camper weeks was 1,323 against 1,182 in 1965.\"",
+      "sources": [
+        "src_ia_ymca_annual_report_1966_67"
+      ],
+      "confidence": "stated",
+      "category": "chronology",
+      "entities": [
+        "Camp Kanawana",
+        "attendance"
+      ],
+      "date_ref": "1966",
+      "conflicts_with": [],
+      "added_version": "v4.99",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_1773",
+      "claim": "A two-week training program for 45 program staff preceded the 1966 camp opening, with several Montreal YMCA Secretaries participating as section directors.",
+      "sources": [
+        "src_ia_ymca_annual_report_1966_67"
+      ],
+      "confidence": "stated",
+      "category": "programs",
+      "entities": [
+        "staff training"
+      ],
+      "date_ref": "1966",
+      "conflicts_with": [],
+      "added_version": "v4.99",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_1774",
+      "claim": "The 1966-67 YMCA of Montreal Annual Report documents an eight-week program at Camp Kanawana for Counsellors-in-Training and Junior Counsellors.",
+      "sources": [
+        "src_ia_ymca_annual_report_1966_67"
+      ],
+      "confidence": "stated",
+      "category": "programs",
+      "entities": [
+        "Counsellors-in-Training",
+        "Junior Counsellors"
+      ],
+      "date_ref": "1966",
+      "conflicts_with": [],
+      "added_version": "v4.99",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_1775",
+      "claim": "Director A. Ross Seaman described Camp Kanawana's 1966 operating philosophy as a \"participatory democracy,\" emphasizing camper involvement in planning their own activities rather than following rigid programming, per the YMCA of Montreal's 1966-67 Annual Report.",
+      "sources": [
+        "src_ia_ymca_annual_report_1966_67"
+      ],
+      "confidence": "stated",
+      "category": "traditions",
+      "entities": [
+        "A. Ross Seaman",
+        "camp philosophy"
+      ],
+      "date_ref": "1966",
+      "conflicts_with": [],
+      "added_version": "v4.99",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_1776",
+      "claim": "Alfred Sandham's 'History of the Montreal YMCA' (1873, covers 1851-1860) and the YMCA of Montreal's 1889-90 Annual Report both contain no references to summer camping or Camp Jubilee; their only 'camp' references concern militia/military training camps. The 1889-90 report confirms D.A. Budge as Secretary and Abner Kingman as incoming (1890-91) President, with W.E. Cushing, P.H. Cushing, and Charles Cushing on committees but no Cushing in a top executive role that year (negative result, consistent with organized camping not yet existing before the 1894 founding).",
+      "sources": [
+        "src_ia_sandham_1873",
+        "src_ia_annual_report_1889"
+      ],
+      "confidence": "stated",
+      "category": "chronology",
+      "entities": [
+        "YMCA Montreal",
+        "camping origins",
+        "D.A. Budge"
+      ],
+      "date_ref": "1873-1890",
+      "conflicts_with": [],
+      "added_version": "v4.99",
+      "added_by": "manual"
     }
   ]
 }

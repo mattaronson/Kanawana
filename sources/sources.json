@@ -1741,10 +1741,10 @@
       "cache_path": null,
       "char_count": 0,
       "ingested_at": "2026-03-02T00:00:00Z",
-      "extracted": false,
-      "extraction_version": null,
+      "extracted": true,
+      "extraction_version": "v4.99",
       "reliability": "primary",
-      "notes": "Alfred Sandham, earliest known YMCA Montreal history. In ymca-montreal-fonds IA collection. Predates camp founding. Needs download and extraction."
+      "notes": "Alfred Sandham, earliest known YMCA Montreal history. In ymca-montreal-fonds IA collection. Predates camp founding. Needs download and extraction. Extracted 2026-07-08 (direct fetch, post network-access fix): full text covers only 1851-1860, no camping/Kanawana content -- negative result, see f_1776."
     },
     {
       "source_id": "src_ia_historical_sketch_1901",
@@ -1773,10 +1773,10 @@
       "cache_path": null,
       "char_count": 0,
       "ingested_at": "2026-03-02T00:00:00Z",
-      "extracted": false,
-      "extraction_version": null,
+      "extracted": true,
+      "extraction_version": "v4.99",
       "reliability": "primary",
-      "notes": "SGW College (now Concordia) newsletter. May contain YMCA/camp references. 10.1M."
+      "notes": "SGW College (now Concordia) newsletter. May contain YMCA/camp references. 10.1M. Extracted 2026-07-08 (direct fetch): no mention of Camp/Kamp Kanawana or YMCA summer camping anywhere in this SGW College Bulletin issue -- genuine null result, nothing further to extract."
     },
     {
       "source_id": "src_ia_annual_report_1889",
@@ -1789,10 +1789,10 @@
       "cache_path": null,
       "char_count": 0,
       "ingested_at": "2026-03-02T00:00:00Z",
-      "extracted": false,
-      "extraction_version": null,
+      "extracted": true,
+      "extraction_version": "v4.99",
       "reliability": "primary",
-      "notes": "Pre-camp-founding annual report. May contain early outdoor/camping discussions. In ymca-montreal-fonds IA collection."
+      "notes": "Pre-camp-founding annual report. May contain early outdoor/camping discussions. In ymca-montreal-fonds IA collection. Extracted 2026-07-08 (direct fetch): no camping content (pre-1894 founding); confirms D.A. Budge as Secretary, Abner Kingman as incoming President 1890-91 -- negative result, see f_1776."
     },
     {
       "source_id": "src_ia_annual_report_1891",
@@ -1821,10 +1821,10 @@
       "cache_path": null,
       "char_count": 0,
       "ingested_at": "2026-03-02T00:00:00Z",
-      "extracted": false,
-      "extraction_version": null,
+      "extracted": true,
+      "extraction_version": "v4.99",
       "reliability": "primary",
-      "notes": "YMCA Montreal 1965 campaign raised $283,674. May reference camp funding."
+      "notes": "YMCA Montreal 1965 campaign raised $283,674. May reference camp funding. Extracted 2026-07-08 (direct fetch): 1965 fundraising-campaign news release, no mention of Camp Kanawana or camping programs -- genuine null result."
     },
     {
       "source_id": "src_ia_news_release_1980",
@@ -1837,10 +1837,10 @@
       "cache_path": null,
       "char_count": 0,
       "ingested_at": "2026-03-02T00:00:00Z",
-      "extracted": false,
-      "extraction_version": null,
+      "extracted": true,
+      "extraction_version": "v4.99",
       "reliability": "primary",
-      "notes": "YMCA institutional context. In ymca-montreal-fonds IA collection."
+      "notes": "YMCA institutional context. In ymca-montreal-fonds IA collection. Extracted 2026-07-08 (direct fetch): 1980 Pointe-Saint-Charles community-centre news release, no mention of Camp Kanawana or camping programs -- genuine null result."
     },
     {
       "source_id": "src_newspapers_gazette_1913",
@@ -6701,10 +6701,10 @@
       "cache_path": null,
       "char_count": 0,
       "ingested_at": "2026-06-21T14:30:00Z",
-      "extracted": false,
-      "extraction_version": null,
+      "extracted": true,
+      "extraction_version": "v4.99",
       "reliability": "primary",
-      "notes": "YMCA Montreal annual report 1966-67. Falls within A. Ross Seaman's directorship (1959-1967) and the year Kanawana transitioned to co-ed. Uploaded by Concordia University Records Management. WebFetch returns 403; manual browser download may succeed. THIS IS THE ONLY 1940s-1960s ANNUAL REPORT KNOWN TO BE DIGITIZED."
+      "notes": "YMCA Montreal annual report 1966-67. Falls within A. Ross Seaman's directorship (1959-1967) and the year Kanawana transitioned to co-ed. Uploaded by Concordia University Records Management. WebFetch returns 403; manual browser download may succeed. THIS IS THE ONLY 1940s-1960s ANNUAL REPORT KNOWN TO BE DIGITIZED. Extracted 2026-07-08 (direct fetch, previously 403-blocked -- see p_159 2026-06-21 note): yielded 5 new facts f_1771-f_1775 (Seaman's 'Director of Camping' title, 1966 season stats, staff training, CIT program, 'participatory democracy' philosophy quote)."
     },
     {
       "source_id": "src_canadiana_ymca_reports",
