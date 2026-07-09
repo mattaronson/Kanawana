@@ -1,8 +1,8 @@
 {
   "version": "v4.98",
-  "kb_version": "v5.00",
+  "kb_version": "v5.02",
   "migrated_from": "3.3",
-  "fact_count": 1776,
+  "fact_count": 1790,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -30828,6 +30828,243 @@
       "conflicts_with": [],
       "added_version": "v4.99",
       "added_by": "manual"
+    },
+    {
+      "fact_id": "f_1815",
+      "claim": "Olivier Charron (b. Nov 4, 1830, Saint-Vincent-de-Paul, Laval; d. Nov 15, 1902, age 72) became owner of lot number 280 \"located at Lac Kanawana\" in 1887 -- seven years before the YMCA's 1894 founding of Camp Kanawana (then Camp Jubilee, at a different lake). He married Arthémise Bouchard in 1851. This is a distinct pre-camp landowner from the Pagé family (lot 43, côte Saint-Elmire), documented on the same municipal pioneer-families page but not previously extracted from it.",
+      "sources": [
+        "src_vss_familles_pionnieres"
+      ],
+      "confidence": "stated",
+      "category": "places",
+      "entities": [
+        "Olivier Charron",
+        "Lac Kanawana"
+      ],
+      "date_ref": "1887-1902",
+      "conflicts_with": [],
+      "added_version": "v5.01",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1816",
+      "claim": "The Répertoire du patrimoine culturel du Québec (Quebec government cultural heritage registry), in its group entry for the YMCA (id 8364), states verbatim: \"le camp Kanawana en 1894. Ce dernier permet aux enfants de s'éloigner de l'air pollué de la ville\" -- an official government source directly naming and dating Camp Kanawana's 1894 founding as the YMCA's first vacation camp located outside the city.",
+      "sources": [
+        "src_rpcq_ymca_8364"
+      ],
+      "confidence": "stated",
+      "category": "chronology",
+      "entities": [
+        "Camp Kanawana",
+        "Young Men's Christian Association"
+      ],
+      "date_ref": "1894",
+      "conflicts_with": [],
+      "added_version": "v5.01",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1817",
+      "claim": "\"Live a lot\" is a song traditionally sung at the closing ceremony of every session at Camp Kanawana, performed (per a YouTube video titled \"Live a lot- Camp YMCA Kanawana\") by then-Camp Director Sean Day.",
+      "sources": [
+        "src_youtube_live_a_lot"
+      ],
+      "confidence": "stated",
+      "category": "programs",
+      "entities": [
+        "Live a lot",
+        "Sean Day"
+      ],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "v5.01",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1818",
+      "claim": "Camp YMCA Kanawana issued an official statement/video, \"Camp YMCA Kanawana Stands with Trans Campers,\" on its Facebook page, committing to pronoun accommodation, equitable and safe sleeping arrangements regardless of sex assigned at birth, and staff education on trans-youth issues. The exact date of the post could not be confirmed from the fetch.",
+      "sources": [
+        "src_facebook_trans_inclusion"
+      ],
+      "confidence": "stated",
+      "category": "context",
+      "entities": [
+        "Camp YMCA Kanawana",
+        "Mountaineers"
+      ],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "v5.01",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1819",
+      "claim": "\"Journée plein air\" (Outdoor Day) is an annual event hosted at Camp YMCA Kanawana, a partnership between the Ville de Saint-Sauveur and the Club Optimiste de la Vallée de Saint-Sauveur. The 2023 edition was held Sunday, August 27, 2023, offering guided hiking, archery, fishing, free canoe/kayak/paddleboard use, rock climbing, and beach access, with a free shuttle from Mont-Habitant (no on-site parking). The event historically focused on trout fishing and has expanded in scope since approximately 2022.",
+      "sources": [
+        "src_vss_journee_plein_air"
+      ],
+      "confidence": "stated",
+      "category": "places",
+      "entities": [
+        "Journée plein air",
+        "Ville de Saint-Sauveur",
+        "Club Optimiste de la Vallée de Saint-Sauveur",
+        "Camp YMCA Kanawana"
+      ],
+      "date_ref": "2023-08-27",
+      "conflicts_with": [],
+      "added_version": "v5.01",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1820",
+      "claim": "\"Companion\" is a current Camp YMCA Kanawana staff role providing one-on-one inclusion support: the Companion supervises one assigned camper with special needs all day (meals, activities, personal care), sleeps in that camper's cabin/tent, and plans activities with them across the four 12-day sessions. The role requires French plus intermediate English, First Aid/CPR certification, and a clean criminal record check.",
+      "sources": [
+        "src_indeed_companion_job"
+      ],
+      "confidence": "stated",
+      "category": "programs",
+      "entities": [
+        "Companion"
+      ],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "v5.01",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1821",
+      "claim": "A job listing titled \"Director, Outdoor Education Centre Kanawana\" was found on Glassdoor, indicating a distinct off-season directorship title for Kanawana's Outdoor Education Centre operation, separate from the summer camp on-site Director role documented in directors-index.md. The direct page fetch returned a 403 error; the title is confirmed only via a search-result snippet, not the full listing text, and should be treated as an unverified lead pending independent corroboration.",
+      "sources": [
+        "src_glassdoor_outdoor_ed_director"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "Director, Outdoor Education Centre Kanawana"
+      ],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "v5.01",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1822",
+      "claim": "Grace McMorris, author of the 2023 Concordia MA thesis on Kamp Kanawana, was listed as a \"recent graduate\" panelist with affiliation \"Historica Canada\" (Canada's national heritage/public-history organization) at a Concordia History Department careers event, \"Where Will Your History MA Take You?\", held March 25, 2024. No further post-graduate career detail is given.",
+      "sources": [
+        "src_concordia_history_ma_event_2024"
+      ],
+      "confidence": "stated",
+      "category": "meta",
+      "entities": [
+        "Grace McMorris",
+        "Historica Canada"
+      ],
+      "date_ref": "2024-03-25",
+      "conflicts_with": [],
+      "added_version": "v5.01",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1823",
+      "claim": "Camp Kanawana has a review listing on CampRatingz.com with 9 anonymous user-submitted reviews spanning 2007-2014, averaging 3.8/5. The platform's existence and aggregate rating are noted here as stated fact; the substance of individual anonymous reviews (including one unverified 2012 allegation of institutional safety lapses) is NOT integrated as fact and is instead flagged for human review -- see priorities.json (p_194).",
+      "sources": [
+        "src_campratingz_2012"
+      ],
+      "confidence": "stated",
+      "category": "meta",
+      "entities": [
+        "CampRatingz.com"
+      ],
+      "date_ref": "2007-2014",
+      "conflicts_with": [],
+      "added_version": "v5.01",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1824",
+      "claim": "Camp YMCA Kanawana requires every camper and their parent/guardian to read and sign a formal bilingual \"Serment du campeur / Camper's Oath,\" tied explicitly to the camp motto \"Non Nobis Solum\" (\"Not for Ourselves alone\"). The 2010 and 2013 versions are nearly word-for-word identical. The oath's promises are: Respect the natural environment that makes camp so beautiful; Treat all campers and staff with respect and courtesy; Use appropriate language; Respect other's belongings; Respect all safety regulations implemented by Kanawana staff during activities on camp and on canoe trip expeditions; Not use or possess alcohol or illegal substances during my stay at camp or a canoe trip expedition; Not use tobacco during my stay at camp or a canoe trip expedition off property; Contribute to the camp community through happiness, enthusiasm and humour. The signed copy is kept on file at the camp office.",
+      "sources": [
+        "src_camper_oath_2010_2013"
+      ],
+      "confidence": "stated",
+      "category": "programs",
+      "entities": [
+        "Camper's Oath",
+        "Non Nobis Solum"
+      ],
+      "date_ref": "2010-2013",
+      "conflicts_with": [],
+      "added_version": "v5.02",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1825",
+      "claim": "Rob Braide, President of Standard Broadcasting Corporation and of Montreal radio stations CHOM, MIX 96, and CJAD, was a Camp Kanawana camper for 9 summers. In 1967, at age 14, he and 6 other boys plus a counsellor undertook a week-long, 150-mile canoe trip from Camp Kanawana in Saint-Sauveur to Ottawa, re-tracing the historic east-west fur-trade route between Deep River and Ottawa, facing rapids, high waves, and long portages. His testimonial was published in a 2007 Camp YMCA Kanawana recruitment document, \"Reportage vécu.\"",
+      "sources": [
+        "src_reportage_vecu_2007"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "Rob Braide",
+        "CHOM",
+        "MIX 96",
+        "CJAD",
+        "Standard Broadcasting Corporation"
+      ],
+      "date_ref": "1967",
+      "conflicts_with": [],
+      "added_version": "v5.02",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1826",
+      "claim": "A 2006 Camp YMCA Kanawana staff application form lists \"sean.day@ymcamontreal.qc.ca\" as its contact email, confirming Sean Day held a staff or administrative role at Kanawana by 2006. This does not by itself establish that he held the Director title that year -- it is contextual evidence, not a resolution, for conflict c_017 (Sean Day's documented directorship start, disputed between 2005 and 2008).",
+      "sources": [
+        "src_application_2006"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "Sean Day"
+      ],
+      "date_ref": "2006",
+      "conflicts_with": [],
+      "added_version": "v5.02",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1827",
+      "claim": "The 2005 English-language Camp YMCA Kanawana Parent Handbook (recovered from the predecessor ymcakanawana.com domain via Wayback) carries the document-author metadata \"aboyer\" -- a plausible but unconfirmed reference to Arleen Boyer, the camp's Executive Director 1995-2000 (see directors-index.md). The document postdates her documented tenure by roughly five years, so this is a lead rather than a confirmation: she may have continued authoring administrative templates informally, or the metadata may simply be inherited from an older template file.",
+      "sources": [
+        "src_ymcakanawana_2005_handbook"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "Arleen Boyer"
+      ],
+      "date_ref": "2005",
+      "conflicts_with": [],
+      "added_version": "v5.02",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1828",
+      "claim": "As of June 16, 2026, ymcaquebec.org hosts a new authoritative current-year parent preparation guide (\"Camp-Kanawana-GUIDE-Parent-EN_2026.pdf\" / \"-FR_2026.pdf\"), superseding both the January 2026 and 2025 versions previously cached. It follows the same 43-page structure as the 2025 guide, with the canoe-trip complement embedded in the same PDF (pages 29+) rather than as a separate document. Not yet re-extracted in full for content changes.",
+      "sources": [
+        "src_kk_prep_guide_2026"
+      ],
+      "confidence": "stated",
+      "category": "meta",
+      "entities": [
+        "Camp Kanawana Preparation Guide 2026"
+      ],
+      "date_ref": "2026-06-16",
+      "conflicts_with": [],
+      "added_version": "v5.02",
+      "added_by": "ralph_loop"
     }
   ]
 }

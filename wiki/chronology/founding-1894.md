@@ -1,9 +1,9 @@
 # Camp Kanawana: Founding and Early History (1892-1923)
 
 **Status**: E1-reviewed
-**Last Updated**: 2026-02-05 (photo gallery added 2026-07-02)
+**Last Updated**: 2026-07-09 (broad-sweep campaign: Olivier Charron pre-camp landowner detail and RPCQ heritage-registry corroboration of the 1894 founding date added)
 **Confidence**: high
-**Sources**: src_001, src_005, src_010, src_022, src_023, src_024, src_qahn_howard, src_concordia_12L, src_ymca_official
+**Sources**: src_001, src_005, src_010, src_022, src_023, src_024, src_qahn_howard, src_concordia_12L, src_ymca_official, src_vss_familles_pionnieres, src_rpcq_ymca_8364
 **R3 Loop**: Completed 2026-02-05. Critical geographic correction applied.
 **E1 Review**: Completed 2026-02-05. Prose tightened, scrapbook date qualified, John Roy expanded.
 
@@ -38,6 +38,10 @@ An 1898 photograph from the archives names four individuals at the camp: W. N. C
 Seeking a larger site, the YMCA acquired land at Saint-Sauveur-des-Monts (near Piedmont) from the [[people/page-family|Page family]] around 1910. The camp was situated among trees on the high sloping shores of a lake that would become known as Lake Kanawana, approximately 45 miles from Montreal and 6 miles from the Piedmont train station. A second lake, Lake Wilson, was within the property, with a dam controlling water levels between the two. A third lake, Round Lake, was also part of the camp property.
 
 McMorris confirms 1910 as the first season at the new site: during the first summer at Saint-Sauveur, sixty-six members attended camp between June 19 and July 17.^mc The 1910 date is further supported by the 1935 History, which describes the camp as being in its "twenty-sixth year of existence." The exact terms of the Page family acquisition, including price, acreage, and precise date, remain unknown.
+
+The Pagé family were not the only pre-camp landowners at the site. Olivier Charron (1830-1902) became owner of lot 280, described as "located at Lac Kanawana," in 1887 -- seven years before the YMCA's 1894 founding of the camp (at that point still Camp Jubilee, on a different lake) and roughly 23 years before the 1910 Saint-Sauveur acquisition. Charron's holding is documented on the same Ville de Saint-Sauveur pioneer-families page used for the Pagé genealogy, citing Lorraine Dagenais and Carmelle Huppé's local history book.^charron See [[people/page-family|The Pagé Family of Saint-Sauveur]] for the family whose land the YMCA did acquire.
+
+Separately, a Quebec government cultural-heritage registry entry for the YMCA (Répertoire du patrimoine culturel du Québec, id 8364) independently corroborates the 1894 founding date, describing Kanawana as the YMCA's first vacation camp located outside the city.^rpcq
 
 ## Early Organization at the Saint-Sauveur Site (1910s-1920s)
 
@@ -100,6 +104,8 @@ The 1923 brochure and 1935 history together describe a camp that had grown into 
 - Montreal Gazette, July 7, 1897: "YMCA Summer Camp Kanawana" — earliest known newspaper reference [src_gazette_1897]
 - Montreal Gazette, July 11, 1918: "At Camp Kanawana" — record 110 attendance, YMCA London filming [src_gazette_1918]
 - ^br: YMCA of Montreal 41st Annual Report (1892) and Historical Sketch of the YMCA of Montreal 1851-1901, both on Internet Archive; retrieved via operator browser research, June 2026 [src_ia_ymca_annual_1891_92, src_ia_historical_sketch_1901]
+- ^charron: Ville de Saint-Sauveur, "Les familles pionnières de Saint-Sauveur," citing Dagenais, Lorraine and Carmelle Huppé, *Saint-Sauveur: Son histoire, notre patrimoine* [src_vss_familles_pionnieres]
+- ^rpcq: Répertoire du patrimoine culturel du Québec, "Young Men's Christian Association" (id 8364) [src_rpcq_ymca_8364]
 
 ## Research Notes
 

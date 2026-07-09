@@ -1,7 +1,7 @@
 # Programs and Activities at Kanawana
 
-*Status: E1-reviewed | Sources: src_brochure_1922, src_history_1935, src_mcmorris_thesis, src_kanawana_facts, src_ymca_website, src_concordia_12A, src_concordia_12B04, src_gas_bag_1923, src_cfcf_1941, src_brochure_1921, src_postmedia_nature_deficit_2026, src_banq_le_droit_1937_06_25, src_banq_westmount_examiner_1962_11_16, src_banq_le_soleil_1971_07_07, src_banq_sherbrooke_record_1972_07_21, src_banq_montreal_matin_1971_08_24, src_mcgill_escholarship_zinner*
-*Last Updated: 2026-07-08 (Zinner's Noosphere thesis read in full for the first time — corrected source_id fixed a dangling reference; actual participant count/ages, organizers, and chronology added, reconciling the pre-event ~100/16-19 estimate with the actual 46/15-20 turnout)*
+*Status: E1-reviewed | Sources: src_brochure_1922, src_history_1935, src_mcmorris_thesis, src_kanawana_facts, src_ymca_website, src_concordia_12A, src_concordia_12B04, src_gas_bag_1923, src_cfcf_1941, src_brochure_1921, src_postmedia_nature_deficit_2026, src_banq_le_droit_1937_06_25, src_banq_westmount_examiner_1962_11_16, src_banq_le_soleil_1971_07_07, src_banq_sherbrooke_record_1972_07_21, src_banq_montreal_matin_1971_08_24, src_mcgill_escholarship_zinner, src_vss_journee_plein_air, src_indeed_companion_job, src_glassdoor_outdoor_ed_director*
+*Last Updated: 2026-07-09 (broad-sweep campaign: added the "Companion" staff role, an unverified "Director, Outdoor Education Centre Kanawana" job title, and the "Journée plein air" municipal event)*
 
 ## Overview
 
@@ -75,6 +75,10 @@ A distinctive element of Kanawana's daily programming is "Creatives" — counsel
 
 Beyond summer programming, the camp hosts school groups for overnight outdoor education experiences. EMSB schools (Vincent Massey Collegiate, JFK High School, École Secondaire Louis Joseph Papineau) send students to Kanawana for activities including archery, rock climbing, canoeing, nature interpretation, and woodworking.^emsb The camp's current summer activity menu includes water trampolining, paddle boarding, archery, axe throwing, rope courses, rock climbing, theatre, music, arts and crafts, nature exploration, dance, survival techniques, and woodworking.^pm The daily schedule features "Interest Groups," cabin/tent group time, and "General Swim." Environmental education, including stewardship and conservation action projects, is woven through the programming. As of fall 2025, the YMCAs of Québec discontinued all day camp programs (including holiday and spring break camps); Kanawana continues to operate as an overnight summer camp only.
 
+Current job postings document a "Companion" staff role providing dedicated one-on-one inclusion support: the Companion supervises one assigned camper with special needs all day (meals, activities, personal care), sleeps in that camper's cabin/tent, and plans shared activities across the four 12-day sessions.^comp A separate job listing title, "Director, Outdoor Education Centre Kanawana," suggests a distinct off-season directorship for the Outdoor Education Centre operation, though this is unverified beyond a search-engine snippet (the direct listing page returned a 403 error).^oed
+
+An annual municipal event, "Journée plein air" (Outdoor Day), is hosted at Camp YMCA Kanawana as a partnership between the Ville de Saint-Sauveur and the Club Optimiste de la Vallée de Saint-Sauveur. The 2023 edition (Sunday, August 27, 2023) offered guided hiking, archery, fishing, free canoe/kayak/paddleboard use, rock climbing, and beach access, with a free shuttle from Mont-Habitant. The event historically focused on trout fishing and has expanded in scope since approximately 2022.^jpa
+
 ## Related Articles
 
 - [[programs/lv-games|The L&V Games]]
@@ -131,6 +135,9 @@ Beyond summer programming, the camp hosts school groups for overnight outdoor ed
 - [zinner] Zinner, Gabor. "Noosphere — an experiment in simulation." MA thesis, McGill University, Department of Political Science, 1973. https://mcgill.scholaris.ca/items/070685e4-ddbd-4a34-9110-8420d80720aa (read in full 2026-07-08).
 - [tb] YMCA Quebec, "Trailblazers CIT (Ages 16-17) – 48 days." URL: https://www.ymcaquebec.org/en/summer-camp-kanawana/trailblazers-counsellor
 - [le] Leigh Evans, "Camp" blog post. URL: https://leighcevans.wordpress.com/about/camp/
+- [comp] "Companion" job posting, Indeed (expired) [src_indeed_companion_job].
+- [oed] "Director, Outdoor Education Centre Kanawana" job listing, Glassdoor [src_glassdoor_outdoor_ed_director].
+- [jpa] "La Ville invite les citoyennes et citoyens à son événement annuel Journée plein air au Camp YMCA Kanawana," Ville de Saint-Sauveur [src_vss_journee_plein_air].
 
 ## R3 Verification Notes
 

@@ -1,7 +1,7 @@
 # Coeducation and Gender at Kanawana
 
-*Status: E1-reviewed | Sources: src_mcmorris_thesis, src_kanawana_facts, src_ymca_website, src_concordia_12A, src_concordia_12B04, src_gas_bag_1923, src_ymca_john_island_newsletter, user_knowledge, src_mtl_families_gender*
-*Last Updated: 2026-06-22 (gender-expansive sleeping option details added from Montreal Families source) — photo gallery added 2026-07-02*
+*Status: E1-reviewed | Sources: src_mcmorris_thesis, src_kanawana_facts, src_ymca_website, src_concordia_12A, src_concordia_12B04, src_gas_bag_1923, src_ymca_john_island_newsletter, user_knowledge, src_mtl_families_gender, src_facebook_trans_inclusion*
+*Last Updated: 2026-07-09 (broad-sweep campaign: added the official Facebook "Stands with Trans Campers" institutional statement to the Mountaineer Program section)*
 
 ## Overview
 
@@ -53,6 +53,8 @@ In 2022, Kanawana launched the Mountaineer program, described on the YMCA Quebec
 
 Under camp director Kate Taylor, the gender-expansive sleeping option was further articulated: any camper may choose it, though requests have come mainly from teens. Taylor noted that Kanawana was not the first camp in Quebec to introduce such an option.^mtl
 
+The camp has also made a public institutional commitment on this front: an official Facebook video/post, "Camp YMCA Kanawana Stands with Trans Campers," states the camp will accommodate campers' pronouns, provide equitable and safe sleeping arrangements regardless of sex assigned at birth, and educate staff on trans-youth issues.^fb The exact date of the post is unconfirmed, but it is consistent with the Mountaineer program's 2022 launch.
+
 The Mountaineer program represents a conceptual shift from the 1968-1969 transition. Where coeducation introduced a second gender category to a previously single-gender institution (with parallel section tracks like Pathfinders), the Mountaineer program acknowledged that a binary gender framework was itself insufficient.
 
 ## Related Articles
@@ -96,6 +98,7 @@ The Mountaineer program represents a conceptual shift from the 1968-1969 transit
 - Concordia University Archives, YMCA of Montreal fonds, sub-series 12A. https://www.concordia.ca/offices/archives/ymca-fonds-sub-series-12A.html
 - Concordia University Archives, YMCA of Montreal fonds, sub-sub-series 12B04. https://www.concordia.ca/offices/archives/ymca-fonds-sub-sub-series-12B04.html
 - Montreal Families, "Gender-Expansive Options at Summer Camp" (article discussing Kanawana's approach under Kate Taylor).
+- [fb] "Camp YMCA Kanawana Stands with Trans Campers," official Facebook video/post [src_facebook_trans_inclusion].
 
 ## R3 Verification Notes
 

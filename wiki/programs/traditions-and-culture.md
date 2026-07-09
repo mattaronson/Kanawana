@@ -1,7 +1,7 @@
 # Traditions and Culture at Kanawana
 
-*Status: E1-reviewed | Sources: 28*
-*Last Updated: 2026-07-07 ("Kamp" to "Camp" spelling change dated to spring 2005 via Wayback website snapshots and annual-report cross-check)*
+*Status: E1-reviewed | Sources: 29*
+*Last Updated: 2026-07-09 (broad-sweep campaign: added the full bilingual Camper's Oath text, recovered from the predecessor ymcakanawana.ca domain)*
 
 ## Overview
 
@@ -64,6 +64,10 @@ Documented ceremonies from the archives include:^10 ^11
 - **Dam release**: The dam was opened at the end of the 1935 season as a ceremonial close.^5 By the mid-1980s, this ceremony was no longer practiced.^21
 
 End-of-season traditions included all-season camper banquets (1938 and 1939), Best Camper Shields, and time capsule burials.^5 ^11
+
+## The Camper's Oath
+
+Every camper and their parent/guardian must read and sign a formal bilingual "Serment du campeur / Camper's Oath," explicitly tied to the motto Non Nobis Solum. Recovered copies from 2010 and 2013 are nearly word-for-word identical, indicating a stable, standardized text across at least that period. The oath commits campers to respect the natural environment, treat campers and staff with respect and courtesy, use appropriate language, respect others' belongings, follow all safety regulations (on camp and on canoe trip expeditions), abstain from alcohol, illegal substances, and tobacco during their stay or expedition, and contribute to the camp community through joy, enthusiasm, and humour. Breach of the safety provisions can result in immediate dismissal from camp or from a canoe trip expedition. The signed copy is kept on file at the camp office.^29
 
 ## The Kanawana Song
 
@@ -154,3 +158,4 @@ Known recipients include: Richard "Itche" Kerr (2007, composer of the camp song)
 26. 1960s-70s "KAMP KANAWANA / YMCA / STAFF" t-shirt and 1920 "KAMP KANAWANA HONOUR AWARD" ribbon set, photo-mined 2026-07-05 (f_1570, f_1581).
 27. ymcakanawana.com homepage, Wayback Machine snapshots 2005-2015, fetched directly 2026-07-07 (f_1767, f_1768); Montreal YMCA annual reports FY2001-2002 through 2012 (f_1749-f_1751, f_1759-f_1765).
 28. WebSearch sweep for post-2005 "Kamp Kanawana" mentions, 2026-07-07 (f_1770).
+29. "Serment du campeur / Camper's Oath," Camp YMCA Kanawana (2010, 2013 versions), recovered via Wayback from the predecessor ymcakanawana.ca domain [src_camper_oath_2010_2013].

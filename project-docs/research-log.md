@@ -3066,3 +3066,103 @@ places-and-locations.md (7 of 12 open items resolved/advanced, including one ful
 question previously marked "exhausted" earlier in the very same session — a reminder that
 "exhausted" should mean "exhausted for the surfaces tried," not "exhausted absolutely," since a
 single new source (the thesis's embedded map images) overturned it within the hour.
+
+---
+
+## Campaign 32: Phase 2 Broad-Net General Search Sweep (autonomous, prompted by an operator observation)
+
+**Date:** 2026-07-09
+**Trigger:** The operator found the current site map and Concordia P145/12B03 finding aid via simple
+generic Google searches ("map Kanawana") that this project's prior, more targeted, question-driven
+research had missed. The operator asked for "extremely broad searches across the internet for
+general topics related to Kanawana." Agreed approach: run a broad-net sweep first, then resume the
+article-by-article open-questions plan.
+
+**Six parallel agents launched, each covering a distinct surface, deliberately NOT tied to any
+specific open question:**
+
+1. **Site-crawl** — direct crawl of ymcaquebec.org's Kanawana document folders plus a Wayback CDX
+   scan of the camp's predecessor domains (ymcakanawana.com/.ca).
+2. **News/media** — generic French and English news-coverage queries across all eras, with emphasis
+   on 2020-2026 (previously under-covered).
+3. **Social media and public reviews** — Reddit, Yelp, TripAdvisor, CampRatingz, Park Slope Parents,
+   Instagram, TikTok, X/Twitter, Facebook, YouTube.
+4. **Academic/institutional** — citation checks on the McMorris thesis, Quebec heritage registries,
+   Concordia event pages, parallel Ontario-camp historiography.
+5. **Job postings and municipal records** — Indeed/Glassdoor/Jobillico/Isarta job listings; Quebec
+   heritage registry (RPCQ), municipal council records, property/tax-roll lookups.
+6. **Images/video** — Flickr, YouTube, Google Images, Library and Archives Canada, McCord Museum.
+
+### Key findings
+
+- **Site-crawl (biggest single haul)**: found the June 2026 current parent guide (superseding the
+  2025/January-2026 versions), plus — via a Wayback CDX scan of the predecessor `ymcakanawana.com`/
+  `.ca` domains — a cache of ~20 historical documents 2005-2015 not previously in the KB. Deep-read
+  two of these directly: the full bilingual **"Serment du campeur / Camper's Oath"** (2010, 2013
+  versions, tied to the motto Non Nobis Solum) and **"Reportage vécu" (2007)**, a testimonial by
+  **Rob Braide** (President, Standard Broadcasting Corporation / CHOM / MIX 96 / CJAD; camper 9
+  summers; 1967 age-14 canoe trip retracing the Deep River-Ottawa fur-trade route) — new
+  notable-alumnus stub created. Also surfaced: a 2006 staff-application form listing
+  `sean.day@ymcamontreal.qc.ca` as contact (contextual evidence, not resolution, for conflict c_017),
+  and 2005 parent-handbook document metadata "aboyer" (an unconfirmed lead for Arleen Boyer, outside
+  her documented 1995-2000 tenure window). The remaining ~15 lower-priority documents (packing lists,
+  maps-to-camp, payment/registration forms, French parent guides 2010-2014) were catalogued but not
+  deep-extracted — flagged as future work (p_197 covers the one directly relevant retry; the rest
+  are logged in `src_ymcakanawana_predecessor_domain_cache`'s notes).
+- **News/media**: found the Ville de Saint-Sauveur's annual "Journée plein air" (Outdoor Day)
+  municipal-partnership event at the camp (2023 edition documented); a minor 2025 Journal Accès
+  day-camp advertorial (mostly duplicate of already-known facts, not separately extracted); confirmed
+  no dedicated Wikipedia article exists for the camp. CampRatingz.com and Park Slope Parents review
+  platforms newly catalogued (see below). Radio-Canada/other candidate news hits were checked and
+  ruled out as unrelated (different camp incidents, unrelated day-camp regulatory stories).
+- **Social media**: confirmed the official Flickr account has **~26 uncatalogued albums** (thousands
+  of photos, c. 2009-2013) beyond the single "Plaque" album already mined — the single largest
+  untapped source found this campaign, flagged for an operator scoping decision (p_195) given the
+  volume. Found the "Live a Lot" closing-ceremony song (performed by Sean Day) and an official
+  "Camp YMCA Kanawana Stands with Trans Campers" Facebook statement (added to
+  `coeducation-gender.md`). Flagged, but did NOT integrate as fact, an anonymous 2012 CampRatingz
+  review alleging safety/medication lapses — unverified, anonymous, user-generated; routed to
+  human review (p_194) per operator-review norms for sensitive content.
+- **Academic/institutional**: found a Répertoire du patrimoine culturel du Québec (Quebec government
+  heritage registry) entry directly naming and dating Camp Kanawana's 1894 founding (id 8364) — ruled
+  out a similarly-named "Chapelle du Camp Canawish" (id 235860) as an unrelated Rivière-Ouelle chapel,
+  a name-similarity false lead not to be re-investigated. Also found Olivier Charron (1830-1902), a
+  pre-camp landowner at "Lac Kanawana" from 1887 — on the same already-cached VSS pioneer-families
+  page previously mined only for the Pagé family — and a minor biographical note that thesis author
+  Grace McMorris is now affiliated with Historica Canada.
+- **Job postings/municipal**: found a current "Companion" one-on-one inclusion-support staff role and
+  a "Director, Outdoor Education Centre Kanawana" job title (the latter unverified beyond a search
+  snippet, flagged p_198); confirmed the RPCQ's only Saint-Sauveur-area heritage site
+  ("Site du patrimoine de Saint-Sauveur-des-Monts," id 93576) does NOT include Kanawana — a genuine,
+  now-closed null; Mille-Isles/MRC Argenteuil property-tax lookups could not be completed via search
+  alone (form-based, not indexed).
+- **Images/video**: (reported earlier in session) confirmed the Flickr album count above.
+
+### Integration
+
+All four fully-reported sweeps plus the site-crawl were integrated in one pass: 14 new facts
+(f_1815-f_1828), 14 new source records, 6 wiki articles updated (`founding-1894.md`,
+`coeducation-gender.md`, `camp-songs-cheers.md`, `programs-activities.md`,
+`traditions-and-culture.md`, `directors-index.md`), one new stub article (`rob-braide.md`), and 5 new
+priority-queue items for flagged/deferred leads (p_194-p_198). No conflicts were newly created; the
+CampRatingz safety allegation was deliberately NOT converted into a KB fact (see p_194).
+
+### Queries and surfaces (see individual agent reports for full per-query logs; summarized here to
+avoid re-running this ground)
+
+Both French and English generic queries were run across Google web search, Google News, Wikipedia,
+Reddit, Yelp/TripAdvisor/CampRatingz/Park Slope Parents, Instagram/TikTok/X/Facebook/YouTube, Indeed/
+Glassdoor/Jobillico/Isarta/Dayforce, the Répertoire du patrimoine culturel du Québec, Mille-Isles/
+Saint-Sauveur/MRC Pays-d'en-Haut municipal sites, and a direct crawl + Wayback CDX scan of
+ymcaquebec.org and its predecessor domains. Confirmed null/exhausted for this pass: Reddit (5 queries,
+zero hits), TripAdvisor (no listing), Mille-Isles council minutes (no Kanawana mentions), CPTAQ/
+certificat d'autorisation/environmental-permit records (none found), Dayforce candidate portal
+(JS-rendered shell, not fetchable).
+
+### Outcome
+
+14 new facts, 14 new sources, 1 new stub article (Rob Braide), 6 wiki articles updated, 5 new
+priority items (1 flagged for human review — p_194 — and 4 for future research/verification). KB
+v5.00 → **v5.02**. The Phase 2 broad-sweep mandate is judged substantially executed for this pass;
+the biggest remaining lead (the ~26 uncatalogued Flickr albums) awaits an operator scoping decision
+before further mining.

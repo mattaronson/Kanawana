@@ -1,7 +1,7 @@
 # Camp Songs, Cheers, and Musical Traditions
 
-*Status: E1-reviewed | Sources: src_gas_bag_1923, src_brochure_1922, src_brochure_1921, src_history_1935, src_green_triangle_1938, src_concordia_fonds, src_concordia_atom_12B04, src_concordia_atom_12B07, src_oral_aronson, src_spirit_kanawana_blog, src_aca_camp_songs_history, src_wikipedia_alabama_jubilee, src_ymca_website, src_mcmorris_thesis, src_cfcf_1941*
-*Last Updated: 2026-06-12 (Marching Song full text and Grace rotation recorded from oral history) — photo gallery added 2026-07-02*
+*Status: E1-reviewed | Sources: src_gas_bag_1923, src_brochure_1922, src_brochure_1921, src_history_1935, src_green_triangle_1938, src_concordia_fonds, src_concordia_atom_12B04, src_concordia_atom_12B07, src_oral_aronson, src_spirit_kanawana_blog, src_aca_camp_songs_history, src_wikipedia_alabama_jubilee, src_ymca_website, src_mcmorris_thesis, src_cfcf_1941, src_youtube_live_a_lot*
+*Last Updated: 2026-07-09 (broad-sweep campaign: added the "Live a Lot" closing-ceremony song, performed by Sean Day)*
 
 ## Overview
 
@@ -128,6 +128,10 @@ By **1938**, formal musical activity was well-established. **Benny Leshley**, id
 
 The camp used **CFCF Radio** (Montreal, Canadian Marconi, est. 1922) for promotional broadcasts from **1936 to 1941**.^5 ^11 The June 26, 1941 broadcast transcript survives on the Internet Archive and describes the opening of the 48th season of Kamp Kanawana. While the transcript covers safety and leadership rather than music, the series represents the camp's engagement with broadcast media over a five-year period.
 
+## "Live a Lot" (Closing Ceremony Song, 2000s-2020s)
+
+**"Live a lot"** is a song traditionally sung at the closing ceremony of every Kanawana session, performed by then-Camp Director Sean Day (per a YouTube video titled "Live a lot- Camp YMCA Kanawana").^15 This is a distinct tradition from the historical camp songs above and from the Marching Song, specifically associated with the end-of-session send-off during Day's 2005/2008-2023 directorship (see [[people/directors-index|Directors and Staff of Camp Kanawana]] for the disputed start-date question). No lyrics have been transcribed from the video.
+
 ## Grace at Meals
 
 A morning devotional practice at meals is documented from at least 1922. The brochure describes "a short morning devotional period at the breakfast table" as part of the religious program, along with "the quiet period before lights out led by the tent leader" and "Sunday services in the open-air chapel and around the fire."^2 The McMorris thesis identifies "Grace" as a continuing feature of camp life.^13
@@ -196,3 +200,4 @@ The Color War tradition (known at Kanawana as the L&V Games) typically includes 
 12. YMCA Quebec, "Camp YMCA Kanawana," https://www.ymcaquebec.org/en/summer-camp-kanawana [src_ymca_website].
 13. Grace McMorris, "An Experience That Lasts a Lifetime," MA thesis, Concordia University, 2023 [src_mcmorris_thesis].
 14. Oral history, Matt Aronson (2026) [src_oral_aronson].
+15. "Live a lot- Camp YMCA Kanawana," YouTube [src_youtube_live_a_lot].

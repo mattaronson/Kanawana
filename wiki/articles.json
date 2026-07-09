@@ -13,6 +13,12 @@
           "at": "2026-02-10T00:00:00Z",
           "by": "auto",
           "task": "REVIEW"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-07-09T06:30:00Z",
+          "by": "auto",
+          "task": "RESEARCH"
         }
       ],
       "ralph_loops_completed": 1,
@@ -75,7 +81,9 @@
         "f_1041",
         "f_1531",
         "f_1532",
-        "f_1537"
+        "f_1537",
+        "f_1815",
+        "f_1816"
       ],
       "sources_cited": [
         "src_ymca_website",
@@ -86,7 +94,9 @@
         "src_history_1935",
         "src_cfcf_1941",
         "src_ia_ymca_annual_1891_92",
-        "src_ia_historical_sketch_1901"
+        "src_ia_historical_sketch_1901",
+        "src_vss_familles_pionnieres",
+        "src_rpcq_ymca_8364"
       ],
       "open_questions": 6,
       "cross_links": [
@@ -110,7 +120,7 @@
         "page-family"
       ],
       "file_id": "1h-vki1U2tjYj8-zZ5gzuyW6kQXelcUnB",
-      "word_count": 1941
+      "word_count": 2391
     },
     {
       "article_id": "da-budge",
@@ -497,6 +507,12 @@
           "at": "2026-02-19T00:00:00Z",
           "by": "auto",
           "task": "REVIEW"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-07-09T06:30:00Z",
+          "by": "auto",
+          "task": "RESEARCH"
         }
       ],
       "ralph_loops_completed": 2,
@@ -528,7 +544,8 @@
         "f_0700",
         "f_1286",
         "f_1048",
-        "f_1777"
+        "f_1777",
+        "f_1818"
       ],
       "sources_cited": [
         "src_mcmorris_thesis",
@@ -538,7 +555,8 @@
         "src_gas_bag_1923",
         "src_ymca_john_island_newsletter",
         "src_mtl_families_gender",
-        "src_ymca_quebec_history"
+        "src_ymca_quebec_history",
+        "src_facebook_trans_inclusion"
       ],
       "open_questions": 8,
       "cross_links": [
@@ -552,7 +570,7 @@
         "stuart-mclean"
       ],
       "file_id": "1KW2yhoZ-wr_71sTPbLJ3v81KW4ZEJ_p-",
-      "word_count": 1884,
+      "word_count": 2261,
       "notes": "E1 REVIEW (2026-02-19): Fixed source header (src_ymca_facts→src_kanawana_facts), added Spectrum URL for McMorris thesis, added IA URLs for Facts sheet and Gas Bag. All claims cited, dates consistent, names cross-checked, tone encyclopedic. Advanced R3-verified → E1-reviewed."
     },
     {
@@ -594,6 +612,12 @@
         {
           "status": "E1-reviewed",
           "at": "2026-07-08T00:00:00Z",
+          "by": "auto",
+          "task": "RESEARCH"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-07-09T06:30:00Z",
           "by": "auto",
           "task": "RESEARCH"
         }
@@ -739,7 +763,10 @@
         "f_1781",
         "f_1782",
         "f_1783",
-        "f_1784"
+        "f_1784",
+        "f_1819",
+        "f_1820",
+        "f_1821"
       ],
       "sources_cited": [
         "src_banq_le_droit_1937_06_25",
@@ -759,7 +786,10 @@
         "src_mcmorris_thesis",
         "src_postmedia_nature_deficit_2026",
         "src_websearch_emsb_kanawana",
-        "src_ymca_website"
+        "src_ymca_website",
+        "src_vss_journee_plein_air",
+        "src_indeed_companion_job",
+        "src_glassdoor_outdoor_ed_director"
       ],
       "open_questions": 8,
       "cross_links": [
@@ -773,7 +803,7 @@
         "quebec-camp-landscape"
       ],
       "file_id": "1oqLoU6_bzWD_9jXwXQgYNm_EqLCEfNjR",
-      "word_count": 3128,
+      "word_count": 3322,
       "notes": "v4.75: Noosphere section expanded — Zinner thesis (McGill 1973), Third World Village model, Montreal-matin article."
     },
     {
@@ -902,6 +932,12 @@
           "at": "2026-07-09T00:00:00Z",
           "by": "auto",
           "task": "VERIFY"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-07-09T06:30:00Z",
+          "by": "auto",
+          "task": "RESEARCH"
         }
       ],
       "ralph_loops_completed": 2,
@@ -1099,14 +1135,20 @@
         "f_1794",
         "f_1795",
         "f_1796",
-        "f_1797"
+        "f_1797",
+        "f_1825",
+        "f_1826",
+        "f_1827"
       ],
       "sources_cited": [
         21,
         "src_flickr_kanawana",
         "src_mcmaster_mclean",
         "src_pureexploration_manuel_quiroga",
-        "src_ymcakanawana_com_wayback_2005_2007"
+        "src_ymcakanawana_com_wayback_2005_2007",
+        "src_reportage_vecu_2007",
+        "src_application_2006",
+        "src_ymcakanawana_2005_handbook"
       ],
       "open_questions": 7,
       "cross_links": [
@@ -1125,7 +1167,7 @@
         "hedley-dimock"
       ],
       "file_id": null,
-      "word_count": 12994,
+      "word_count": 13218,
       "notes": "v4.75: Peter Goddard confirmed (Peter Gilling Goddard 1953-2016, obituary condolence). Nelson McEwen tenure extended c.1927-1947. Derek Walsh exhausted. Gap periods updated. | 2026-07-07: applied operator's standing conflict-resolution policy (documented sources take precedence over oral history) to resolve c_004, c_015, c_016, c_017 -- Gary White's Kanawana tenure narrowed to FY2001-2002, Sean Day's start corrected to 2008, Nicolas Garcia's spelling/end-date corrected to March 2014, Rossy Foundation corrected to Tyndale St-Georges."
     },
     {
@@ -1764,6 +1806,12 @@
           "at": "2026-02-19T00:00:00Z",
           "by": "auto",
           "task": "REVIEW"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-07-09T06:30:00Z",
+          "by": "auto",
+          "task": "RESEARCH"
         }
       ],
       "ralph_loops_completed": 1,
@@ -1882,7 +1930,8 @@
         "f_1767",
         "f_1768",
         "f_1769",
-        "f_1770"
+        "f_1770",
+        "f_1824"
       ],
       "sources_cited": [
         "src_mcmorris_thesis",
@@ -1903,7 +1952,8 @@
         "src_pine_crest_encyclopedia",
         "src_kanawana_facts",
         "src_wayback_ymcakanawana_homepage_2005_2015",
-        "src_websearch_kamp_kanawana_sweep_2026"
+        "src_websearch_kamp_kanawana_sweep_2026",
+        "src_camper_oath_2010_2013"
       ],
       "open_questions": 7,
       "cross_links": [
@@ -1920,7 +1970,7 @@
         "the-kanawana-site"
       ],
       "file_id": null,
-      "word_count": 2126,
+      "word_count": 3174,
       "notes": "E1 REVIEW (2026-02-19): Fixed non-existent src_concordia_12B04 in header (removed; src_concordia_atom_12B04 already present). Fixed '131-year history' ambiguity to 'more than 130 years'. All claims cited, dates consistent, names cross-checked, tone encyclopedic."
     },
     {
@@ -2702,6 +2752,12 @@
           "at": "2026-02-28T05:47:31Z",
           "by": "auto",
           "task": "REVIEW"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-07-09T06:30:00Z",
+          "by": "auto",
+          "task": "RESEARCH"
         }
       ],
       "ralph_loops_completed": 1,
@@ -2739,7 +2795,8 @@
         "f_0835",
         "f_0836",
         "f_1196",
-        "f_1197"
+        "f_1197",
+        "f_1817"
       ],
       "sources_cited": [
         "src_gas_bag_1923",
@@ -2756,7 +2813,8 @@
         "src_aca_camp_songs_history",
         "src_wikipedia_alabama_jubilee",
         "src_ymca_website",
-        "src_cfcf_1941"
+        "src_cfcf_1941",
+        "src_youtube_live_a_lot"
       ],
       "open_questions": 9,
       "cross_links": [
@@ -2767,7 +2825,7 @@
         "council-ring"
       ],
       "file_id": null,
-      "word_count": 2462,
+      "word_count": 2568,
       "notes": "R1 RALPH completed 2026-02-27. 14 new KB facts. 23 KB facts total. 15 sources. Key findings: Marching Song traced to Alabama Jubilee (1915), lost verses found at Concordia 2006; full 1922 Yo Triumphy cheer; 1923 Gas Bag original songs; 1935 musicale; 1938 choir by Leshley; Kerr song on CD P145/SR0001 (4:30). Blocked on: oral history for section cheers/Grace/campfire repertoire; Concordia archives for song books 1925-1945."
     },
     {
@@ -4835,6 +4893,34 @@
       ],
       "file_id": null,
       "word_count": 520
+    },
+    {
+      "article_id": "rob-braide",
+      "title": "Rob Braide",
+      "wiki_folder": "people",
+      "status": "stub",
+      "status_history": [
+        {
+          "status": "stub",
+          "at": "2026-07-09T06:30:00Z",
+          "by": "auto",
+          "task": "RESEARCH"
+        }
+      ],
+      "ralph_loops_completed": 1,
+      "kb_facts_used": [
+        "f_1825"
+      ],
+      "sources_cited": [
+        "src_reportage_vecu_2007"
+      ],
+      "open_questions": 4,
+      "cross_links": [
+        "canoe-trips",
+        "directors-index"
+      ],
+      "file_id": null,
+      "word_count": 458
     }
   ]
 }

@@ -2479,6 +2479,62 @@
       "created_at": "2026-07-07T00:00:00Z",
       "status": "blocked",
       "blocking_reason": "Requires operator physical presence (archive visit) or direct manual action (personal Facebook browsing) -- not resolvable by agent research."
+    },
+    {
+      "priority_id": "p_194",
+      "rank": 194,
+      "type": "HUMAN_REVIEW",
+      "description": "CampRatingz.com (2007-2014 reviews of Camp Kanawana) contains one anonymous 2012 review, self-described as from a 'former 9-year staff member,' alleging expired medications and mishandled medical emergencies, and a 2010 review alleging an unaddressed injury. These are unverified, anonymous, user-generated safety allegations. Per operator-review norms for sensitive/unverified content, NOT integrated into kb/facts.json as substantive claims (only the platform's existence/aggregate rating is recorded as f_1823). Needs an explicit operator decision on whether/how to reference this in the wiki (e.g. camp-history context section) versus leaving it out entirely, and whether any corroboration attempt is warranted.",
+      "article_id": null,
+      "blocking": false,
+      "assigned_weight": "P1",
+      "created_at": "2026-07-09T06:00:00Z",
+      "status": "pending",
+      "notes": "Flagged by the broad social-media sweep (Campaign 32). Do not silently add to any article without operator sign-off."
+    },
+    {
+      "priority_id": "p_195",
+      "rank": 195,
+      "type": "OPERATOR_ACTION",
+      "description": "The official Kanawana Flickr account (flickr.com/photos/kanawana/) has approximately 26 uncatalogued albums (thousands of photos, roughly 2009-2013 era) beyond the single 'Plaque' album already mined extensively for director/staff facts. This is the single largest untapped source surfaced by the Phase 2 broad-sweep campaign. Given the volume, needs an operator decision on scope before diving in: mine all albums systematically, sample a subset, or prioritize by album title/date first.",
+      "article_id": null,
+      "blocking": false,
+      "assigned_weight": "P1",
+      "created_at": "2026-07-09T06:00:00Z",
+      "status": "pending"
+    },
+    {
+      "priority_id": "p_196",
+      "rank": 196,
+      "type": "RESEARCH",
+      "description": "Track down Lorraine Dagenais and Carmelle Huppé's book \"Saint-Sauveur: Son histoire, notre patrimoine\" (published by the Société d'histoire et de généalogie des Pays-d'en-Haut), cited by the VSS pioneer-families web page as the source for the Olivier Charron pre-camp landowner detail (f_1815). May contain additional pre-camp land history relevant to Phase 2 item 8 (Indigenous Place Names and Land History). Likely requires physical/library acquisition, not web access.",
+      "article_id": "places-and-locations",
+      "blocking": false,
+      "assigned_weight": "P3",
+      "created_at": "2026-07-09T06:00:00Z",
+      "status": "pending"
+    },
+    {
+      "priority_id": "p_197",
+      "rank": 197,
+      "type": "RESEARCH",
+      "description": "Retry fetching the Park Slope Parents Camp Kanawana review page (https://www.parkslopeparents.com/reviews/camp-ymca-kanawana) -- two direct-fetch attempts timed out during the Campaign 32 broad sweep. A search snippet suggests reviews exist describing the camp as bilingual and 'running for more than a century.'",
+      "article_id": null,
+      "blocking": false,
+      "assigned_weight": "P3",
+      "created_at": "2026-07-09T06:00:00Z",
+      "status": "pending"
+    },
+    {
+      "priority_id": "p_198",
+      "rank": 198,
+      "type": "VERIFY",
+      "description": "Independently corroborate the \"Director, Outdoor Education Centre Kanawana\" job title (f_1821) beyond the single Glassdoor search-snippet found in Campaign 32 (direct fetch returned 403). Try Indeed/LinkedIn/Isarta mirrors or a repeat Glassdoor fetch.",
+      "article_id": "directors-index",
+      "blocking": false,
+      "assigned_weight": "P3",
+      "created_at": "2026-07-09T06:00:00Z",
+      "status": "pending"
     }
   ]
 }
