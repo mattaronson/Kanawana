@@ -1,7 +1,7 @@
 # A. Ross Seaman
 
-*Status: E1-reviewed | Sources: src_concordia_seaman_fund, src_mcmorris_thesis, src_dawson_crlt, src_concordia_ctr_2001, src_concordia_atom_12K, src_ia_ymca_annual_report_1966_67*
-*Last Updated: 2026-07-08 (p_064 cleanup pass: 1966-67 YMCA of Montreal Annual Report, previously proxy-blocked, read directly and added his "Director of Camping" title, 1966 season attendance figures, and the "participatory democracy" programming philosophy)*
+*Status: E1-reviewed | Sources: src_concordia_seaman_fund, src_mcmorris_thesis, src_dawson_crlt, src_concordia_ctr_2001, src_concordia_atom_12K, src_ia_ymca_annual_report_1966_67, src_concordia_p0145_12a_finding_aid*
+*Last Updated: 2026-07-09 (open-questions research pass: birth/death biographical details and director-successor questions re-confirmed as genuine dead ends requiring paid/physical access, not further web search)*
 
 ## Overview
 
@@ -33,9 +33,9 @@ The A. Ross Seaman Memorial Leadership Development Fund was established in 1987 
 
 ## Open Questions
 
-1. [Critical] What are Seaman's full biographical details — birth year, full name, education beyond SGW? (2026-06 search: no obituary, Find A Grave entry, or genealogy record located online; Vankleek Hill cemetery records and a 1987 Montreal/Ottawa-area newspaper obituary are the remaining paths)
+1. [Critical, re-confirmed dead end 2026-07-09] What are Seaman's full biographical details — birth year, full name, education beyond SGW? A further pass (genealogy sites, FindAGrave, Vankleek Hill obituary aggregators) found nothing new. The Vankleek Hill newspaper "The Review" (archived from 1893) very likely carries an October/November 1987 obituary, but its own online archive is not full-text searchable — this requires a paid GenealogyBank-style subscription search or direct contact with the newspaper or a Vankleek Hill funeral home, not further web queries.
 2. ~~[Important] What specific programming changes did Seaman make at Kanawana during 1959–1967?~~ [Largely resolved] The 1966-67 Annual Report documents his "participatory democracy" philosophy and 1966 season structure directly (see above); earlier years of his tenure remain undocumented.
-3. [Important] Who succeeded Seaman as director after 1967? (Ross Bannerman authored a Kanawana report in 1969 and had a YMCA International Branch file c.1968–1970. Concordia sub-sub-series P0145/12B01 holds a May 1969 director's report and a 1970 Director's Annual Report — physical consultation would identify the author/successor.)
+3. [Important, re-confirmed 2026-07-09] Who succeeded Seaman as director after 1967? (Ross Bannerman authored a Kanawana report in 1969 and had a YMCA International Branch file c.1968–1970. Concordia sub-sub-series P0145/12B01 holds a May 1969 director's report and a run of unattributed "Director's Annual Reports" for 1970-1975 — the online finding aid does not name authors for these; physical consultation remains the only path to identify the author/successor.)
 4. [Nice-to-have] What was Seaman's role at Cornwall YMCA — was this before or after his Kanawana directorship?
 5. [Nice-to-have] Is Margaret Seaman still involved with the memorial fund?
 

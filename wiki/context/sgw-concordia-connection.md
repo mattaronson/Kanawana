@@ -3,7 +3,8 @@
 <!-- status: E1-reviewed -->
 <!-- confidence: medium -->
 <!-- last_updated: 2026-06-22 -->
-<!-- last_editor: session4 -->
+<!-- last_updated: 2026-07-09 (open-questions research pass: confirmed The Georgian and McGill Daily are both fully digitized, but flagged a genuine archive.org search-API limitation blocking automated full-text search of either) -->
+<!-- last_editor: session4, v68 -->
 <!-- ralph_loops: sgw-concordia-R1, sgw-concordia-V1, sgw-concordia-E1 -->
 
 *Status: E1-reviewed | Sources: 8*
@@ -58,7 +59,7 @@ In 2019, Concordia's Faculty of Fine Arts signed a partnership agreement with th
 1. [Important] What was the content of the April 1970 Seminar on Camp Leadership Research at SGW? Who participated, and what were the outcomes?
 2. [Important] When exactly did SGW sever its financial ties with the YMCA, and what prompted the break? Was there any effect on the camp relationship?
 3. [Nice-to-have] Did other SGW/Concordia faculty besides Dimock, Seaman, Kass, and Potter have direct Kanawana connections?
-4. [Nice-to-have] Are there SGW student newspaper (*The Georgian*) articles about Camp Kanawana from the 1930s--1960s?
+4. [Nice-to-have, advanced 2026-07-09] Are there SGW student newspaper (*The Georgian*) articles about Camp Kanawana from the 1930s--1960s? The Georgian (200+ issues, 1936-37 and 1962-70) and the McGill Daily/Le Délit (9,868 issues, 1911-2001) are both fully digitized on Internet Archive — but a genuine methodological obstacle was found: archive.org's `advancedsearch.php` API does not perform true full-text OCR search (confirmed via a positive-control test using SGW's well-documented 1969 "Computer Riot," which also returned zero results). Properly searching either collection for "Kanawana" requires a human using the real browser-based search-inside feature, issue by issue — not yet done.
 5. [Nice-to-have] What is the scope of the 2019--2024 YMCA-Concordia camp partnership -- does it involve Kanawana specifically, or YMCA day camps more broadly?
 
 ## Related Articles
@@ -80,3 +81,4 @@ In 2019, Concordia's Faculty of Fine Arts signed a partnership agreement with th
 6. Wikipedia, "Harold H. Potter." URL: https://en.wikipedia.org/wiki/Harold_H._Potter
 7. Wikipedia, "Raye Kass." URL: https://en.wikipedia.org/wiki/Raye_Kass
 8. Warren, Jean-Philippe et al. "Reflections: Sociology and Anthropology at Concordia." Concordia University.
+9. Internet Archive, "The Georgian" (rma-concordia-publications collection) [src_ia_the_georgian]; "McGill Student Publications Collection" [src_ia_mcgill_daily].

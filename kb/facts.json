@@ -1,8 +1,8 @@
 {
   "version": "v4.98",
-  "kb_version": "v5.04",
+  "kb_version": "v5.05",
   "migrated_from": "3.3",
-  "fact_count": 1861,
+  "fact_count": 1893,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -32259,6 +32259,530 @@
       "date_ref": "1960s",
       "conflicts_with": [],
       "added_version": "v5.04",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1900",
+      "claim": "Concordia Archives sub-series P0145/13E (Expo 1967/Canadian Centennial) lists an item, 'Expo 67-canoe tripping program. -- 1964' (Box HA1930) -- showing canoe-trip/Expo-67 planning was underway three years ahead of the Centennial. Does not name Kanawana explicitly; a lead, not a confirmed Kanawana-Expo67 connection.",
+      "sources": [
+        "src_concordia_13E_expo67"
+      ],
+      "confidence": "stated",
+      "category": "chronology",
+      "entities": [
+        "Expo 67"
+      ],
+      "date_ref": "1964",
+      "conflicts_with": [],
+      "added_version": "v5.05",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1901",
+      "claim": "A Quebec genealogy database shows a 1970 Napierville marriage record for a Yves St-Pierre to Lucette Gregoire, matching the wife's name in the already-cited 2020 Montreal obituary of a Yves St-Pierre (age 76 at death). This is weak, corroborating-only evidence that does not establish any YMCA/Kanawana/camp-counsellor connection -- the identification of this Yves St-Pierre as the 1967 CCA Centenary Journey trip leader remains unestablished.",
+      "sources": [
+        "src_mesaieux_st_pierre"
+      ],
+      "confidence": "disputed",
+      "category": "people",
+      "entities": [
+        "Yves St-Pierre"
+      ],
+      "date_ref": "1970",
+      "conflicts_with": [],
+      "added_version": "v5.05",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1902",
+      "claim": "Concordia Archives sub-sub-series 12B01 (item list for 1966-1968) and 12B04 (Communications, 1913-2003) were confirmed, via direct finding-aid fetch, to contain no file, report, or item referencing the 1967 CCA Centenary Journey trip, a Yves St-Pierre trip report, or a 'Planning and Development (1967)' report -- ruling out these two specific locations as the source of the missing participant-roster material.",
+      "sources": [
+        "src_concordia_p0145_12a_finding_aid"
+      ],
+      "confidence": "stated",
+      "category": "chronology",
+      "entities": [
+        "Centenary Journey"
+      ],
+      "date_ref": "1966-1968",
+      "conflicts_with": [],
+      "added_version": "v5.05",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1903",
+      "claim": "The Georgian, Sir George Williams University's student newspaper, is digitized on Internet Archive (200+ individual issues, vol. 1-33, covering 1936-37 and 1962-70), part of a larger 2,100+ issue digitization project by Concordia University Records Management and Archives completed circa November 2021. The Georgian merged with Loyola News in 1980 to form The Link. Not yet searched for Kanawana mentions -- archive.org's search API does not perform true full-text OCR search (see f_1904).",
+      "sources": [
+        "src_ia_the_georgian"
+      ],
+      "confidence": "stated",
+      "category": "meta",
+      "entities": [
+        "The Georgian"
+      ],
+      "date_ref": "1936-1970",
+      "conflicts_with": [],
+      "added_version": "v5.05",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1904",
+      "claim": "The McGill Daily and Le Delit are fully digitized on Internet Archive as the 'McGill Student Publications Collection' (9,868 issues, 1911-2001), OCR-searchable in principle. A methodological test found that archive.org's advancedsearch.php 'text:' field does NOT perform true full-text OCR search across these collections: a positive-control query for a guaranteed-present term ('computer riot,' referencing SGW's well-documented 1969 Computer Riot, extensively covered by the Georgian) also returned zero results via this API. Properly searching either collection for 'Kanawana' requires a human using the real browser-based search-inside feature, issue by issue -- flagged as a methodology note for future research sessions, not a content-based null result.",
+      "sources": [
+        "src_ia_mcgill_daily",
+        "src_ia_the_georgian"
+      ],
+      "confidence": "stated",
+      "category": "meta",
+      "entities": [
+        "McGill Daily",
+        "The Georgian"
+      ],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "v5.05",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1905",
+      "claim": "Lac Landron (associated with a 1962-63 YMCA canoe-trip base-camp lease) is a real, documented lake located in the unorganized territory of Lac-Lenotre, MRC La Vallee-de-la-Gatineau, Outaouais region, inside the Zec Capitachouane -- east of, and administratively adjacent to (not inside), La Verendrye Wildlife Reserve proper. Its main watercourse is the South Channel of the Ottawa River. The toponym was officially registered December 5, 1968 by Quebec's Commission de toponymie, named after Pierre Landron (attempted a brick factory at the Saint-Charles River in 1688).",
+      "sources": [
+        "src_wikipedia_lac_landron"
+      ],
+      "confidence": "stated",
+      "category": "places",
+      "entities": [
+        "Lac Landron"
+      ],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "v5.05",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1906",
+      "claim": "La Verendrye Wildlife Reserve was established in 1939 as the 'Reserve de la Route Mont-Laurier-Senneterre' (anticipating a road connecting Mont-Laurier to Abitibi); it was converted to a park and renamed in 1950 to mark the bicentennial of explorer La Verendrye's 1749 death; it is now a 'reserve faunique' administered by SEPAQ.",
+      "sources": [
+        "src_reserve_laverendrye_history"
+      ],
+      "confidence": "stated",
+      "category": "places",
+      "entities": [
+        "Reserve faunique La Verendrye"
+      ],
+      "date_ref": "1939-1950",
+      "conflicts_with": [],
+      "added_version": "v5.05",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1907",
+      "claim": "From 1993, canoe-camping within the Reserve La Verendrye was managed by the Federation quebecoise du canot-camping (FQCC, later Canot Kayak Quebec) in partnership with SEPAQ; around 2022, SEPAQ took over full/sole management. Current official Kanawana Voyageurs canoe-trip program pages make no reference to Lac Landron or any private base camp, and the camp's own official history pages omit the Lac Landron/La Verendrye base-camp narrative entirely. This is strong circumstantial (not direct documentary) evidence that the YMCA's 1962-63 Lac Landron lease has lapsed or been discontinued -- no source states this outright.",
+      "sources": [
+        "src_radiocanada_sepaq_laverendrye_2022"
+      ],
+      "confidence": "inferred",
+      "category": "places",
+      "entities": [
+        "Lac Landron",
+        "Reserve faunique La Verendrye"
+      ],
+      "date_ref": "1993-2022",
+      "conflicts_with": [],
+      "added_version": "v5.05",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1908",
+      "claim": "No source (Camp Ouareau's own history/Wikipedia, the McMorris thesis, or Trent University's Ontario Camps Association finding aid) documents any direct visit or contact between Camp Ouareau and Camp Kanawana -- the connection between the two camps remains personnel-network-only (via Ferna Halliday's shared YWCA/YMCA ties), not an institutional/inter-camp-visit one. Separately, the Mabel/Mable Jamieson title dispute (whether she held a formal 'secretary general of the YMCA of Montreal' title) remains unresolved: Trent's Ontario Camps Association fonds finding aid contains one incidental photo caption naming her among OCA social circles, but no source anywhere gives her an explicit title beyond Camp Ouareau's own (self-reported) history page.",
+      "sources": [
+        "src_camp_ouareau_history"
+      ],
+      "confidence": "disputed",
+      "category": "context",
+      "entities": [
+        "Camp Ouareau",
+        "Mabel Jamieson"
+      ],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "v5.05",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1909",
+      "claim": "Walter Edgar Cushing (b. May 19, 1870, Montreal), per the full-text-read 1905-1969 Cushing genealogy supplement, was 'a local public accountant, and an active social worker... At times he was a vice-president and director of the Y.M.C.A., a director of the Boys' Home of Montreal, a member of the Boys' Farm and Training School at Shawbridge and the Daily Bible Schools.' He died January 13, 1935. This independently corroborates a real, substantial YMCA governance role for Walter Edgar Cushing (age 22 in 1892, a plausible candidate for the 'Lemuel Cushing' 1892 Lake St. Joseph trip). However, it also directly CONTRADICTS this KB's existing identification of 'W.E. Cushing' (author of the 1943 'Historical sketches -- Lake St. Joseph' manuscript held in Concordia Archives) as this same Walter Edgar Cushing, since he died eight years before that manuscript's 1943 date. This identification needs correction or re-examination -- either the Concordia archive's '1943' filing date reflects a later transcription of earlier notes, or the 1943 'W.E. Cushing' is a different person.",
+      "sources": [
+        "src_familysearch_cushing_supp"
+      ],
+      "confidence": "disputed",
+      "category": "people",
+      "entities": [
+        "Walter Edgar Cushing"
+      ],
+      "date_ref": "1870-1935",
+      "conflicts_with": [],
+      "added_version": "v5.05",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1910",
+      "claim": "A full-text search of both the McMorris thesis (129 pages) and the complete 1905-1969 Cushing genealogy supplement (240 pages) found zero mentions of 'Cushing' or '1892' in either document (except the one Walter Edgar Cushing biographical entry, f_1909, which does not mention 1892 or camping). This is a meaningful negative finding: the most rigorous available secondary sources on both Kanawana's history and the Cushing family do not repeat or corroborate the QAHN's 'Lemuel Cushing led the 1892 trip' claim. Concordia's own sub-series 12L finding aid (camper/visitor lists 1893-1897, 1904, 1908) also names no Cushing among its listed individuals.",
+      "sources": [
+        "src_mcmorris_thesis",
+        "src_familysearch_cushing_supp"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "Lemuel Cushing"
+      ],
+      "date_ref": "1892",
+      "conflicts_with": [],
+      "added_version": "v5.05",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1911",
+      "claim": "Harold Beveridge Cushing died October 31, 1947 (married Jessie Alice Barnard November 8, 1915, in Niagara Falls, NY), per the full-text-read 1905-1969 Cushing genealogy supplement -- consistent with, and corroborating, his being alive and available to advise during Kanawana's 1946 polio outbreak.",
+      "sources": [
+        "src_familysearch_cushing_supp"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "Harold Beveridge Cushing"
+      ],
+      "date_ref": "1915-1947",
+      "conflicts_with": [],
+      "added_version": "v5.05",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1912",
+      "claim": "D.A. Budge's exact death date is confirmed, via direct raw fetch of the McGill Archival Collections Catalogue page, as February 13, 1933, in Montreal.",
+      "sources": [
+        "src_mcgill_budge"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "D.A. Budge"
+      ],
+      "date_ref": "1933",
+      "conflicts_with": [],
+      "added_version": "v5.05",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1913",
+      "claim": "Concordia Archives sub-series 13D (Memorials, tributes, testimonials, honours), Box HA2330, holds 'research reports on D.A. Budge' as part of Joyce Oliver's 1939-40 'Book of Remembrance and History' project (approximately 50 biographical subjects researched for a YMCA commemorative history). Contents not yet read -- a concrete additional archival lead for closing D.A. Budge's remaining biographical open questions.",
+      "sources": [
+        "src_concordia_13D_joyce_oliver"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "D.A. Budge",
+        "Joyce Oliver"
+      ],
+      "date_ref": "1939-1940",
+      "conflicts_with": [],
+      "added_version": "v5.05",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1914",
+      "claim": "No obituary, FindAGrave entry, or FamilySearch profile for A. Ross Seaman (died 1987) was located despite an exhaustive search. The Vankleek Hill newspaper 'The Review' (archived from 1893) very likely carries an October/November 1987 obituary, but its own online archive is not full-text searchable and standard obituary aggregators don't cover it -- this requires a paid GenealogyBank-style subscription search or direct contact with the newspaper or Hillcrest Funeral Home (Vankleek Hill), not further web queries. Separately, no name for Seaman's successor as Kanawana director beyond the already-known Ross Bannerman (1969) was found -- Concordia's own finding aid lists a run of unattributed 'Director's Annual Reports' (1970-1975) whose authors are not given in the online finding aid.",
+      "sources": [
+        "src_concordia_seaman_fund"
+      ],
+      "confidence": "disputed",
+      "category": "people",
+      "entities": [
+        "A. Ross Seaman"
+      ],
+      "date_ref": "1987",
+      "conflicts_with": [],
+      "added_version": "v5.05",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1915",
+      "claim": "The McMorris thesis cites Kanawana's invitation of girls (ages 10-12) to camp for the first time in 1968 to the 'One-hundred and seventeenth Annual Report 1968' (YMCA of Montreal fonds, Annual Reports, P145/02D) -- a more specific citation than previously recorded in this KB for the already-documented 1968 coeducation date.",
+      "sources": [
+        "src_mcmorris_thesis"
+      ],
+      "confidence": "stated",
+      "category": "chronology",
+      "entities": [
+        "Coeducation"
+      ],
+      "date_ref": "1968",
+      "conflicts_with": [],
+      "added_version": "v5.05",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1916",
+      "claim": "Taylor Statten's full biography, per a full-text read of Donald Burry's 1985 MA thesis 'A History of the Taylor Statten Camps' (University of Saskatchewan): full birth name Emerson Taylor Israel Statten; born July 12, 1882, in his grandfather's exchange hotel in Springfield (now Erindale), Ontario; parents John Marr Statten and Eleanor Elmina (nee Taylor) Statten; eldest of four children (sister Bolina 'Bay,' b. 1884; brothers Waldemar 'Waldie,' b. 1887, and Lincoln, b. 1889). Joined the YMCA in 1902 via J. Howard Crocker's Leaders' Corps (Toronto Central YMCA); became full-time Secretary of Boys' Work of the Toronto Central YMCA on May 1, 1905, holding the post until 1911 (refines the previous 'around 1905-1906' dating). Prior to founding Ahmek, Statten ran a camp called 'Camp Tuxis,' which closed in August 1920, the same year he began planning the private camp on Canoe Lake that became Ahmek (1921). He died in his sleep on Thursday, November 1, 1956, after a day working in the garden at Little Wapomeo, per a Statten-family Christmas letter reproduced in the thesis.",
+      "sources": [
+        "src_burry_thesis_1985"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "Taylor Statten"
+      ],
+      "date_ref": "1882-1956",
+      "conflicts_with": [],
+      "added_version": "v5.05",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1917",
+      "claim": "The underlying full-length biography behind most Taylor Statten scholarship is identified: C.A.M. Edwards (Charles Austin McNally Edwards), 'Taylor Statten: A Biography,' foreword by J. Alex Edmison, Ryerson Press, Toronto, 1960, 161pp. Confirmed via multiple used-book-retailer listings (Google Books, Amazon, AbeBooks, Biblio) but NOT digitized anywhere -- checked HathiTrust and Internet Archive directly, neither holds it.",
+      "sources": [
+        "src_burry_thesis_1985"
+      ],
+      "confidence": "stated",
+      "category": "meta",
+      "entities": [
+        "Taylor Statten",
+        "C.A.M. Edwards"
+      ],
+      "date_ref": "1960",
+      "conflicts_with": [],
+      "added_version": "v5.05",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1918",
+      "claim": "A full-text grep of Donald Burry's 178-page 1985 thesis on the Taylor Statten Camps found zero mentions of 'Kanawana' and zero mentions of 'Naismith' anywhere in the document -- this source does not address whether Taylor Statten ever visited Camp Kanawana, despite being the most detailed available biography drawing on direct 1984 family interviews.",
+      "sources": [
+        "src_burry_thesis_1985"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "Taylor Statten"
+      ],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "v5.05",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1919",
+      "claim": "Donald Burry's 1985 thesis contains an internal three-way disagreement on the Ontario Camping Association's founding date, distinct from this KB's existing citation (the OCA's own website, giving 1933): citing a 1984 personal interview with camping historian Mary Northway, Burry states OCA founders (including Statten) organized in 1930, with Statten becoming the OCA's first President only in 1938, succeeding A.L. Cochrane's 'Original Honorary President' role. Citing an undated Charles Plewman tribute essay, Burry separately records that Statten 'became the first President... in 1933' -- but Burry himself appends '(sic)' to this claim, signalling his own doubt. This is a genuine multi-source disagreement (OCA website vs. Northway-via-Burry vs. Plewman-via-Burry), none of which is oral history, requiring human/editorial review rather than the 'oral history yields to documents' policy.",
+      "sources": [
+        "src_burry_thesis_1985"
+      ],
+      "confidence": "disputed",
+      "category": "context",
+      "entities": [
+        "Ontario Camping Association",
+        "Taylor Statten"
+      ],
+      "date_ref": "1930-1938",
+      "conflicts_with": [],
+      "added_version": "v5.05",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1920",
+      "claim": "Terry Mosher's parents were Jack and Norma Mosher, per a 2015 interview: 'My parents... always tried to get me out of the city for a period of time during summers and sent me to a series of camps, Kanawana being my favourite.' He attended Victoria School, King's School, and Westmount Junior High during his Montreal years (age 7-14), living in a converted-garage coach house in an alleyway between Lincoln Avenue and Saint-Luc (now de Maisonneuve), between Fort and Chomedey near the old Forum, with painter John Little (his godfather) as downstairs neighbour. He said in 2015: 'I remember the layout of the camp surprisingly well -- and I haven't been back since 1954! I am told that it has hardly changed.'",
+      "sources": [
+        "src_suburban_mosher_2015"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "Terry Mosher"
+      ],
+      "date_ref": "1952-1954",
+      "conflicts_with": [],
+      "added_version": "v5.05",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1921",
+      "claim": "The 2015 Pip Alumni Award ceremony for Terry Mosher was held Saturday, August 8, 2015 -- not August 3 as stated in the already-cited YMCA Quebec newsroom page, which appears to contain a transcription error. Two independent sources (a 2015-08-01 Suburban blog post and a second, differently-URLed YMCA Quebec newsroom page) both state 'August 8,' and a day-of-week check confirms August 3, 2015 was a Monday while August 8, 2015 was a Saturday -- consistent with both correcting sources describing a Saturday camp event.",
+      "sources": [
+        "src_suburban_mosher_2015"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "Terry Mosher",
+        "Pip Alumni Award"
+      ],
+      "date_ref": "2015-08-08",
+      "conflicts_with": [],
+      "added_version": "v5.05",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1922",
+      "claim": "A full raw fetch (not just a search-engine snippet) of Concordia's finding aid for sub-sub-series 12B01 confirms exactly one Dave Twynam entry exists: 'Camp director Dave Twynam-correspondence. -- 1979' (Box HA2054) -- no separate 1976 entry exists anywhere in the list, further corroborating the already-resolved conflict c_007 in favour of 1979.",
+      "sources": [
+        "src_concordia_p0145_12a_finding_aid"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "Dave Twynam"
+      ],
+      "date_ref": "1979",
+      "conflicts_with": [],
+      "added_version": "v5.05",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1923",
+      "claim": "A previously undocumented Twynam/Johnston publication: Twynam, G.D., & Johnston, M. (2004), 'Changes in host community reactions to a special sporting event,' Current Issues in Tourism, 7(3), 242-261 -- a longitudinal study of Thunder Bay resident reactions to the 1995 Nordic World Ski Championships, alongside his already-known Scott Tournament of Hearts and Scouts Jamboree studies.",
+      "sources": [
+        "src_twynam_johnston_2004"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "Dave Twynam"
+      ],
+      "date_ref": "2004",
+      "conflicts_with": [],
+      "added_version": "v5.05",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1924",
+      "claim": "A third independent research pass on Joanna Hoad's post-Lower Canada College life and pre-Kanawana history (21 queries across WebSearch, WebFetch, Facebook, ZoomInfo, genealogy sites, and a direct Wayback Machine CDX query) found zero new facts, confirming the two prior exhausted passes (2026-07-05, 2026-07-07). The Wayback CDX query for lcc.ca confirms only the three already-cited captures (2001 staff profile, 2004 staff photo, 2007 gallery caption) exist anywhere matching 'hoad.' Recommend treating this as genuinely exhausted for RESEARCH purposes; a VERIFY task (cross-checking existing citations/dates/names) toward R3-verified status is achievable without further research, since R3-verified does not require resolving the two remaining 'Important' open questions (departure date, post-LCC life) -- those can legitimately remain open.",
+      "sources": [
+        "src_websearch_edgar_robinson"
+      ],
+      "confidence": "disputed",
+      "category": "people",
+      "entities": [
+        "Joanna Hoad"
+      ],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "v5.05",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1925",
+      "claim": "Grace McMorris's thesis (Figure 2.1 caption, p.60) directly reproduces a photograph of the Kanawana totem pole, captioned 'Totem pole at Kanawana circa 1970s.' McMorris's own footnote states: 'It is unclear if this is the same totem pole [as the one erected in 1927 by Harold Cross], however, since the photograph was taken in the 1970s.' This is the primary academic source directly addressing the totem pole's continued existence into the 1970s, now read directly rather than cited secondarily.",
+      "sources": [
+        "src_mcmorris_thesis"
+      ],
+      "confidence": "stated",
+      "category": "places",
+      "entities": [
+        "Council Ring",
+        "Totem pole"
+      ],
+      "date_ref": "1970s",
+      "conflicts_with": [],
+      "added_version": "v5.05",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1926",
+      "claim": "The same thesis (p.68) states the 1962 Kanawana map labels 'Indian' three times: 'the Indians and Settlers teepee, the Indian Council Ring, and the Indian Grave. The Council Ring was always marked by a drawing of a totem pole' -- confirming the 'Indian Council Ring' name and totem-pole iconography persisted at least through 1962. A separate reflective passage (p.112) about the camping movement's reconciliation dilemma in general terms ('It is not enough to cover up the murals and take the totem poles down') is rhetorical/general, NOT a specific claim that Kanawana itself removed its poles -- should not be read as evidence of removal.",
+      "sources": [
+        "src_mcmorris_thesis"
+      ],
+      "confidence": "stated",
+      "category": "places",
+      "entities": [
+        "Council Ring",
+        "Totem pole"
+      ],
+      "date_ref": "1962",
+      "conflicts_with": [],
+      "added_version": "v5.05",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1927",
+      "claim": "The camp's current official facilities page lists 'fire bowls for campfires and cookouts' among current amenities, but does not use the name 'Council Ring' or mention totem poles -- inconclusive (promotional copy is not exhaustive) rather than evidence of removal. The camp's own curated history timeline (1894, 1910, 1947, 1968, 2022, 2025 milestones) omits the Council Ring/totem-pole tradition entirely -- a notable absence from the camp's own public-facing narrative, though not proof the site no longer exists.",
+      "sources": [
+        "src_ymcaquebec_voyageurs_page"
+      ],
+      "confidence": "inferred",
+      "category": "places",
+      "entities": [
+        "Council Ring"
+      ],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "v5.05",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1928",
+      "claim": "YMCA Canada's own institutional history states: '1912 - Formation of National Federation: A national Federation is created to unify local YMCAs and provide leadership and coordination across the country.' A naming discrepancy is unresolved: a 1972 Concordia-catalogued report uses the name 'National Council YMCAs of Canada' instead of 'Federation' -- the exact relationship/renaming between these two national-body names is not reconciled.",
+      "sources": [
+        "src_ymca_canada_history"
+      ],
+      "confidence": "stated",
+      "category": "context",
+      "entities": [
+        "YMCA Canada"
+      ],
+      "date_ref": "1912",
+      "conflicts_with": [],
+      "added_version": "v5.05",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1929",
+      "claim": "Concordia's finding aid for YMCA of Montreal fonds sub-series 12A extends the previously-documented camping governance chronology into the early 1980s: 'Camping and Outdoor Education Branch of Management minutes, 1975-1978'; a 'Special Intercommittee Task Force on Camping, 1981-1982'; a 'Comite du service des camps / Camping Services Committee, 1981-1982'; and 'YMCA Canada -- Resident Camp Statistics 1984-1988' (compiled 1989). A governance-title gap still remains between 1982 and the 2004 'Regional Director of Camps' title (1983-2003 remains open).",
+      "sources": [
+        "src_concordia_p0145_12a_finding_aid"
+      ],
+      "confidence": "stated",
+      "category": "context",
+      "entities": [
+        "YMCA of Montreal"
+      ],
+      "date_ref": "1975-1989",
+      "conflicts_with": [],
+      "added_version": "v5.05",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1930",
+      "claim": "The YMCA of Montreal moved from Dominion Square to a new building on Drummond Street in 1912 (cost $540,206); a 12-storey annex was added 1930-31; Sir George Williams University students used the building's chapel, gym, and pool until the 1970s. 'The YMCA occupied the building until it was demolished in 2002.'",
+      "sources": [
+        "src_concordia_drummond_ymca_building"
+      ],
+      "confidence": "stated",
+      "category": "context",
+      "entities": [
+        "YMCA of Montreal",
+        "Drummond Street"
+      ],
+      "date_ref": "1912-2002",
+      "conflicts_with": [],
+      "added_version": "v5.05",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1931",
+      "claim": "On October 11, 2023, YMCA Quebec's own newsroom announced intent to sell the (rebuilt) downtown Montreal YMCA building on Drummond/Stanley streets, citing reduced post-COVID membership revenue, aging-infrastructure costs, and only one-third of the building being used for programming; existing tenants (a language school with ~3,400 students, TeenZone with ~650 participants, and homelessness/reentry services) were to continue 'until 2025.'",
+      "sources": [
+        "src_ymcaquebec_downtown_sale_2023"
+      ],
+      "confidence": "stated",
+      "category": "context",
+      "entities": [
+        "YMCA of Montreal"
+      ],
+      "date_ref": "2023",
+      "conflicts_with": [],
+      "added_version": "v5.05",
       "added_by": "ralph_loop"
     }
   ]

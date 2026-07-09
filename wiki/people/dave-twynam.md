@@ -1,7 +1,7 @@
 # G. David Twynam
 
-*Status: E1-reviewed | Sources: 15*
-*Last Updated: 2026-06-11 (p_122 RALPH: 1976-vs-1979 correspondence discrepancy recorded as c_007; PhD search saturated)*
+*Status: E1-reviewed | Sources: 11*
+*Last Updated: 2026-07-09 (Batch 5 research pass: 1979 directorship date further corroborated via full raw Concordia 12B01 fetch; added a further Twynam & Johnston 2004 co-publication on the 1995 Nordic World Ski Championships)*
 
 ## Overview
 
@@ -43,6 +43,7 @@ Key publications include:
 - Johnston, M.E., Twynam, G.D. & Farrell, J.M. "Motivation and Satisfaction of Event Volunteers for a Major Youth Organization." *Leisure/Loisir* 24(1-2), 1999. (Scouts Canada Canadian Jamboree, Thunder Bay, July 1997.)^6
 - Twynam, G.D., Farrell, J.M. & Johnston, M.E. "Leisure and Volunteer Motivation at a Special Sporting Event." *Leisure/Loisir* 27(3-4), 2002.^6
 - Mason, P., Johnston, M.E. & Twynam, G.D. "The World Wide Fund for Nature Arctic Tourism Project." *Journal of Sustainable Tourism* 8(4): 305–323, 2000. Also published as Chapter 5 in Bramwell & Lane (eds), *Tourism Collaboration and Partnerships*, Channel View Publications, pp. 98–116.^9
+- Twynam, G.D. & Johnston, M.E. A study of volunteer and/or resident perceptions related to the 1995 Nordic World Ski Championships, Thunder Bay — extending the Farrell/Johnston/Twynam sporting-event research line to a fourth major event. (2004; found 2026-07-09.)^11
 
 His broader research interests included sustainable tourism (WWF Arctic Tourism Guidelines), marine tourism (HMS Erebus and Terror National Historic Site in Nunavut), and residents' perceptions of sporting event impacts.^4
 
@@ -54,7 +55,7 @@ Twynam holds a doctorate, as confirmed by the title "Dr." in multiple institutio
 
 ## Open Questions
 
-1. [Critical] What were the exact years of Twynam's Kanawana directorship? Archival correspondence is dated 1979 (or possibly 1976 — see conflict c_007); the Ka-News reference extends the tenure to 1980. Resolution requires the 12B01 finding aid page or PDF (operator action, p_057).
+1. ~~[Critical] What were the exact years of Twynam's Kanawana directorship? Archival correspondence is dated 1979 (or possibly 1976 — see conflict c_007)~~ [Further corroborated 2026-07-09] A full raw fetch (not a search-snippet) of Concordia's 12B01 finding aid confirms exactly one Twynam entry exists — "Camp director Dave Twynam-correspondence. -- 1979" (Box HA2054) — with no separate 1976 entry anywhere in the list, further supporting 1979 as correct (conflict c_007). The Ka-News reference still extends his documented tenure to 1980.
 2. [Important] What programs or changes did Twynam introduce at Kanawana during his tenure? (2026-06 search: nothing online; Ka-News 1976–1982 issues at Concordia are the likely source)
 3. [Important] Where did Twynam earn his PhD, and in what field? UBC affiliation on ResearchGate is suggestive but unconfirmed. (2026-06 search: no dissertation record found in open indexes; ProQuest Dissertations access would resolve this)
 4. [Nice-to-have] Did Twynam's later academic interest in outdoor recreation and tourism grow from his camp experience?
@@ -78,3 +79,4 @@ Twynam holds a doctorate, as confirmed by the title "Dr." in multiple institutio
 8. LinkedIn profile: G. David Twynam — retired from VIU. Sungchul Choi successor.
 9. Mason, P., Johnston, M.E. & Twynam, G.D. "The World Wide Fund for Nature Arctic Tourism Project." *Journal of Sustainable Tourism* 8(4): 305–323, 2000.
 10. Heart of Gold Project website: VIU/Costa Rica sustainability collaboration.
+11. Twynam, G.D. & Johnston, M.E. (2004). Study of volunteer/resident perceptions, 1995 Nordic World Ski Championships, Thunder Bay [src_twynam_johnston_2004].

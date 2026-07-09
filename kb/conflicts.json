@@ -368,6 +368,43 @@
       "resolution": null,
       "resolved_at": null,
       "created_at": "2026-07-09T10:00:00Z"
+    },
+    {
+      "conflict_id": "c_019",
+      "description": "This KB's existing identification of 'W.E. Cushing' (author of the 1943 Concordia-archived manuscript 'Historical sketches -- Lake St. Joseph') as Walter Edgar Cushing is contradicted by genealogical evidence that Walter Edgar Cushing died in January 1935 -- eight years before the manuscript's 1943 date.",
+      "fact_ids": [
+        "f_1909"
+      ],
+      "entity": "W.E. Cushing",
+      "attribute": "identity_and_manuscript_authorship_date",
+      "values": [
+        "W.E. Cushing (1943 manuscript author) = Walter Edgar Cushing (b. 1870, YMCA vice-president/director, d. Jan 13 1935) -- the KB's existing identification",
+        "Walter Edgar Cushing died in 1935, per the full 1905-1969 Cushing genealogy supplement -- incompatible with authoring a manuscript dated 1943"
+      ],
+      "status": "unresolved",
+      "notes": "Two plausible reconciliations, neither confirmed: (1) the Concordia archive's '1943' date reflects a later transcription/filing/copying of notes Cushing wrote earlier in his life (he died 1935, so any original notes would predate that); (2) the 1943 'W.E. Cushing' is a different person entirely, sharing only initials with Walter Edgar Cushing. Requires physical examination of the Concordia manuscript itself (does it carry an internal composition date, or only an archive-assigned one?) to resolve. Relevant to wiki/people/cushing-family.md.",
+      "resolution": null,
+      "resolved_at": null,
+      "created_at": "2026-07-09T12:00:00Z"
+    },
+    {
+      "conflict_id": "c_020",
+      "description": "Three-way disagreement on the year the Ontario Camping Association (OCA) was founded / the year Taylor Statten became its first President, surfaced by a full-text read of Donald Burry's 1985 MA thesis on the Taylor Statten Camps.",
+      "fact_ids": [
+        "f_1919"
+      ],
+      "entity": "Ontario Camping Association",
+      "attribute": "founding_and_first_presidency_date",
+      "values": [
+        "1933 (founding/first-president year), per the OCA's own official website -- this KB's existing citation",
+        "Organized 1930; Statten became first President only in 1938 (succeeding A.L. Cochrane's 'Original Honorary President' role), per a 1984 personal interview with camping historian Mary Northway, cited in the Burry thesis",
+        "1933 (Statten becomes first President), per a Charles Plewman tribute essay cited in the Burry thesis -- though Burry himself appends '(sic)' to this claim, signalling his own skepticism"
+      ],
+      "status": "unresolved",
+      "notes": "None of the three sources is oral history or user_knowledge, so the 'oral history yields to documents' standing policy does not apply -- this requires human/editorial judgment. The OCA website and the Plewman-via-Burry citation agree on 1933 (2 vs. 1), giving some weight to that date, but the Northway-via-Burry account is more detailed (naming Cochrane's preceding role) and comes from a named camping historian rather than a tribute essay. Relevant to wiki/people/taylor-statten.md and wiki/context/canadian-camping-movement.md.",
+      "resolution": null,
+      "resolved_at": null,
+      "created_at": "2026-07-09T12:00:00Z"
     }
   ]
 }

@@ -1,11 +1,11 @@
 # Daniel Andrew Budge (1851-1933)
 
-*Status: E1-reviewed | Sources: src_mcgill_archives, src_ymca_world, src_concordia_1B, src_concordia_12L, src_concordia_fonds*
-*Last Updated: 2026-06-20 (railway memoranda added; cross-links standardized)*
+*Status: E1-reviewed | Sources: src_mcgill_archives, src_ymca_world, src_concordia_1B, src_concordia_12L, src_concordia_fonds, src_concordia_13D_joyce_oliver*
+*Last Updated: 2026-07-09 (open-questions research pass: confirmed exact death date, Feb 13 1933; found a new archival lead, Concordia 13D Box HA2330, for remaining biographical gaps)*
 
 ## Summary
 
-Daniel Andrew Budge was born April 16, 1851, in Newmarket, Ontario, and served as General Secretary of the Montreal YMCA from 1874 until 1913, a tenure of 39 years. He married Annie Margaret Watson (1852-1931) in 1876. In 1937, four years after his death, the Montreal Central YMCA on Drummond Street renamed its Association Hall the D. A. Budge Memorial Hall in his honour.
+Daniel Andrew Budge was born April 16, 1851, in Newmarket, Ontario, and served as General Secretary of the Montreal YMCA from 1874 until 1913, a tenure of 39 years. He died February 13, 1933, in Montreal (exact date confirmed 2026-07-09 via direct fetch of the McGill Archival Collections Catalogue). He married Annie Margaret Watson (1852-1931) in 1876. In 1937, four years after his death, the Montreal Central YMCA on Drummond Street renamed its Association Hall the D. A. Budge Memorial Hall in his honour.
 
 Budge's career at the Montreal YMCA encompassed virtually every significant development of the organization's first half-century: the construction of the Dominion Square building (1892), the founding of Camp Jubilee (1894), the establishment of evening educational courses that would eventually become Sir George Williams College (later Concordia University), and the expansion of the branch system across Montreal. His influence extended internationally through YMCA war work during World War I, where he played a significant role in organizing Red Triangle activities in England and France.
 
@@ -40,7 +40,7 @@ Budge also authored a "Memorandum of the Early Beginnings of the YMCA Work on th
 ## Open Questions
 
 - Did Budge write specifically about the founding of Camp Jubilee or the camping program?
-- Where is Budge buried? Are there other biographical records beyond the McGill archives entry?
+- [Confirmed dead end for burial location, 2026-07-09] Where is Budge buried? Are there other biographical records beyond the McGill archives entry? No FindAGrave, Genealogy Quebec, or Mount Royal Cemetery record located — would require a Genealogy Quebec paid subscription or a direct Mount Royal Cemetery Commemorative Services records request. **New lead**: Concordia Archives sub-series 13D, Box HA2330, holds "research reports on D.A. Budge" as part of Joyce Oliver's 1939-40 "Book of Remembrance and History" project — not yet read, requires physical archive access.
 - What was Budge's role in the decision to acquire the Saint-Sauveur site?
 - Are there photographs of Budge?
 
@@ -60,6 +60,7 @@ Budge also authored a "Memorandum of the Early Beginnings of the YMCA Work on th
 - Concordia University Archives, YMCA of Montreal fonds P145, sub-series 1B (https://www.concordia.ca/offices/archives/ymca-fonds-sub-series-1B.html)
 - Concordia University Archives, YMCA of Montreal fonds P145, sub-series 12L
 5. Concordia University Archives, YMCA of Montreal fonds P0145 finding aid — railway memoranda.
+6. Concordia University Archives, YMCA of Montreal fonds P0145, sub-series 13D (Joyce Oliver "Book of Remembrance and History" project, 1939-40) [src_concordia_13D_joyce_oliver].
 
 ## Revision History
 

@@ -1,6 +1,7 @@
 # Camp Ouareau and Its Connections to Kanawana
 
 *Status: E1-reviewed | Sources: src_ouareau_history, src_ouareau_wikipedia, src_camp_oconto, src_mcmorris_thesis, src_ywca_oolahwan_page, src_ywca_oolahwan_centennial*
+*Last Updated: 2026-07-09 (open-questions research pass: Jamieson title and Ouareau-Kanawana direct-contact questions confirmed as genuine dead ends for online sources)*
 *Last Updated: 2026-03-15 (E1 REVIEW pass — editorial issues fixed, date conflict logged, status advanced)*
 
 ## Overview
@@ -39,9 +40,9 @@ In 2014, Camp Ouareau changed its team names from Iroquois, Algonquin, and Micma
 
 ## Open Questions
 
-1. [Critical] Was Mabel Jamieson actually secretary general of the YMCA (not YWCA) of Montreal? Concordia Archives P0145 should be checked.
-2. [Important] Did Jamieson and Halliday have any direct involvement with Kanawana programming or personnel?
-3. [Nice-to-have] What was the nature of Camp Oolahwan's visits to Kanawana beyond the 1946 episode?
+1. [Critical, confirmed dead end 2026-07-09] Was Mabel Jamieson actually secretary general of the YMCA (not YWCA) of Montreal? Concordia's own P0145 finding aid does not name Jamieson at all; Trent University's Ontario Camps Association finding aid contains only one incidental photo caption naming her among OCA social circles, with no title given. No source anywhere independently corroborates or refutes the "secretary general" claim beyond Camp Ouareau's own self-reported history page (which, as of 2026-07-09, no longer even states a title on its current site — just "school teacher"). Genuinely exhausted for online sources.
+2. [Important, confirmed dead end 2026-07-09] Did Jamieson and Halliday have any direct involvement with Kanawana programming or personnel? No source (Ouareau's own history/Wikipedia, the McMorris thesis, or the Trent OCA finding aid) documents any direct Ouareau-Kanawana visit or contact — the connection remains personnel-network-only (via Halliday's shared YWCA/YMCA ties to Camp Oolahwan), not an institutional one.
+3. [Nice-to-have, advanced 2026-07-09] What was the nature of Camp Oolahwan's visits to Kanawana beyond the 1946 episode? See [[context/camp-oolahwan|Camp Oolahwan]] — McMorris's thesis (read in full) confirms the visits were recurring through the 1940s, not a single 1946 event, and also documents a third camp with Kanawana contact, the Junior League Camp. This doesn't directly involve Ouareau, though.
 4. [Nice-to-have] A 1941 forest fire south of Lac Ouareau threatened Camp Ouareau — was Camp Kanawana affected by the same fire season?
 
 ## Related Articles

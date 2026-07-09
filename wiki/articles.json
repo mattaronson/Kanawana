@@ -133,9 +133,15 @@
           "at": "2026-02-10T00:00:00Z",
           "by": "auto",
           "task": "REVIEW"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-07-09T18:00:00Z",
+          "by": "auto",
+          "task": "RESEARCH"
         }
       ],
-      "ralph_loops_completed": 1,
+      "ralph_loops_completed": 2,
       "kb_facts_used": [
         "f_0001",
         "f_0002",
@@ -148,7 +154,9 @@
         "f_0386",
         "f_0427",
         "f_0431",
-        "f_1289"
+        "f_1289",
+        "f_1912",
+        "f_1913"
       ],
       "sources_cited": [
         "src_mcgill_archives",
@@ -158,7 +166,8 @@
         "src_ymca_int_basketball",
         "src_concordia_12L",
         "src_naismith_foundation",
-        "src_concordia_fonds"
+        "src_concordia_fonds",
+        "src_concordia_13D_joyce_oliver"
       ],
       "open_questions": 4,
       "cross_links": [
@@ -169,7 +178,7 @@
         "harold-cross"
       ],
       "file_id": "1iOHcDJeDgo5VFTfb46EQ6JrFYuZaZie5",
-      "word_count": 746
+      "word_count": 872
     },
     {
       "article_id": "canoe-trips",
@@ -182,9 +191,15 @@
           "at": "2026-02-10T00:00:00Z",
           "by": "auto",
           "task": "REVIEW"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-07-09T18:00:00Z",
+          "by": "auto",
+          "task": "RESEARCH"
         }
       ],
-      "ralph_loops_completed": 1,
+      "ralph_loops_completed": 2,
       "kb_facts_used": [
         "f_0127",
         "f_0202",
@@ -211,7 +226,11 @@
         "f_1317",
         "f_1318",
         "f_1319",
-        "f_1561"
+        "f_1561",
+        "f_1905",
+        "f_1906",
+        "f_1907",
+        "f_1908"
       ],
       "sources_cited": [
         "src_mcmorris_thesis",
@@ -221,9 +240,13 @@
         "src_history_1935",
         "src_ymca_kanawana_explorers_pioneers_2026",
         "src_ymca_kanawana_adventurers_pathfinders_2026",
-        "src_ymca_kanawana_programs_2026"
+        "src_ymca_kanawana_programs_2026",
+        "src_wikipedia_lac_landron",
+        "src_reserve_laverendrye_history",
+        "src_radiocanada_sepaq_laverendrye_2022",
+        "src_mesaieux_st_pierre"
       ],
-      "open_questions": 3,
+      "open_questions": 5,
       "cross_links": [
         "camp-otoreke",
         "canadian-camping-movement",
@@ -235,7 +258,7 @@
         "a-ross-seaman"
       ],
       "file_id": "13MmwA1lO_3J3rJ7yEZjwsvT--vWooITy",
-      "word_count": 903
+      "word_count": 1343
     },
     {
       "article_id": "council-ring",
@@ -248,9 +271,15 @@
           "at": "2026-02-10T00:00:00Z",
           "by": "auto",
           "task": "REVIEW"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-07-09T18:00:00Z",
+          "by": "auto",
+          "task": "RESEARCH"
         }
       ],
-      "ralph_loops_completed": 1,
+      "ralph_loops_completed": 2,
       "kb_facts_used": [
         "f_0031",
         "f_0038",
@@ -265,7 +294,10 @@
         "f_1219",
         "f_1220",
         "f_1372",
-        "f_1563"
+        "f_1563",
+        "f_1925",
+        "f_1926",
+        "f_1927"
       ],
       "sources_cited": [
         "src_concordia_02D",
@@ -286,7 +318,7 @@
         "lv-games"
       ],
       "file_id": "13YtmB0kQvK5oBY-Kz_88vIgztYAH5x2e",
-      "word_count": 1085,
+      "word_count": 1459,
       "notes": "v4.75: 2020 Opening Campfire confirmed (Facebook Live). Tamaracouta totem pole theft noted."
     },
     {
@@ -1450,9 +1482,15 @@
           "at": "2026-02-14T03:30:00Z",
           "by": "auto",
           "task": "REVIEW"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-07-09T18:00:00Z",
+          "by": "auto",
+          "task": "RESEARCH"
         }
       ],
-      "ralph_loops_completed": 1,
+      "ralph_loops_completed": 2,
       "kb_facts_used": [
         "f_0244",
         "f_0245",
@@ -1505,7 +1543,9 @@
         "f_0394",
         "f_0459",
         "f_0849",
-        "f_1507"
+        "f_1507",
+        "f_1900",
+        "f_1902"
       ],
       "sources_cited": [
         "src_mcmorris_thesis",
@@ -1518,7 +1558,8 @@
         "src_mb_sports_hof",
         "src_taylor_statten_camps",
         "src_concordia_fonds",
-        "src_cfgrand_stpierre"
+        "src_cfgrand_stpierre",
+        "src_concordia_13E_expo67"
       ],
       "open_questions": 6,
       "cross_links": [
@@ -1532,7 +1573,7 @@
         "traditions-and-culture"
       ],
       "file_id": null,
-      "word_count": 1417
+      "word_count": 1952
     },
     {
       "article_id": "canadian-camping-movement",
@@ -1778,9 +1819,15 @@
           "at": "2026-07-08T00:00:00Z",
           "by": "auto",
           "task": "VERIFY"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-07-09T18:00:00Z",
+          "by": "auto",
+          "task": "RESEARCH"
         }
       ],
-      "ralph_loops_completed": 3,
+      "ralph_loops_completed": 4,
       "kb_facts_used": [
         "f_0011",
         "f_0185",
@@ -1824,7 +1871,10 @@
         "f_1539",
         "f_1540",
         "f_1778",
-        "f_1779"
+        "f_1779",
+        "f_1909",
+        "f_1910",
+        "f_1911"
       ],
       "sources_cited": [
         "src_qahn_howard",
@@ -1841,7 +1891,7 @@
         "src_ia_ymca_annual_1891_92",
         "src_ia_historical_sketch_1901"
       ],
-      "open_questions": 5,
+      "open_questions": 6,
       "cross_links": [
         "billy-ball",
         "camp-otoreke",
@@ -1851,7 +1901,7 @@
         "founding-1894"
       ],
       "file_id": null,
-      "word_count": 1979,
+      "word_count": 2444,
       "notes": "E1 REVIEW (2026-02-19): Fixed Frederick row in Eight Sons table (birthplace clarified in Occupation column). All 7 checklist items satisfied. Advanced R3-verified → E1-reviewed."
     },
     {
@@ -3336,9 +3386,15 @@
           "at": "2026-07-08T00:00:00Z",
           "by": "auto",
           "task": "RESEARCH"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-07-09T18:00:00Z",
+          "by": "auto",
+          "task": "RESEARCH"
         }
       ],
-      "ralph_loops_completed": 1,
+      "ralph_loops_completed": 2,
       "kb_facts_used": [
         "f_0612",
         "f_0631",
@@ -3363,7 +3419,8 @@
         "f_1772",
         "f_1773",
         "f_1774",
-        "f_1775"
+        "f_1775",
+        "f_1914"
       ],
       "sources_cited": [
         "src_concordia_seaman_fund",
@@ -3380,7 +3437,7 @@
         "section-names"
       ],
       "file_id": null,
-      "word_count": 891
+      "word_count": 941
     },
     {
       "article_id": "taylor-statten",
@@ -3417,9 +3474,15 @@
           "at": "2026-07-08T00:00:00Z",
           "by": "auto",
           "task": "VERIFY"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-07-09T18:00:00Z",
+          "by": "auto",
+          "task": "RESEARCH"
         }
       ],
-      "ralph_loops_completed": 2,
+      "ralph_loops_completed": 3,
       "kb_facts_used": [
         "f_0251",
         "f_0252",
@@ -3439,7 +3502,11 @@
         "f_0832",
         "f_0939",
         "f_0938",
-        "f_1277"
+        "f_1277",
+        "f_1916",
+        "f_1917",
+        "f_1918",
+        "f_1919"
       ],
       "sources_cited": [
         "src_mcmorris_thesis",
@@ -3447,9 +3514,10 @@
         "src_wikipedia_tuxis",
         "src_oca_archives",
         "src_wikipedia_cca",
-        "src_aca_presidents"
+        "src_aca_presidents",
+        "src_burry_thesis_1985"
       ],
-      "open_questions": 4,
+      "open_questions": 5,
       "cross_links": [
         "canadian-camping-movement",
         "hedley-dimock",
@@ -3457,7 +3525,7 @@
         "traditions-and-culture"
       ],
       "file_id": null,
-      "word_count": 990
+      "word_count": 1437
     },
     {
       "article_id": "rh-hanagan",
@@ -3547,9 +3615,15 @@
           "at": "2026-03-15T13:30:00Z",
           "by": "auto",
           "task": "REVIEW"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-07-09T18:00:00Z",
+          "by": "auto",
+          "task": "RESEARCH"
         }
       ],
-      "ralph_loops_completed": 1,
+      "ralph_loops_completed": 2,
       "kb_facts_used": [
         "f_0807",
         "f_0808",
@@ -3583,7 +3657,8 @@
         "f_0872",
         "f_0873",
         "f_1275",
-        "f_1281"
+        "f_1281",
+        "f_1908"
       ],
       "sources_cited": [
         "src_ouareau_history",
@@ -3601,7 +3676,7 @@
         "traditions-and-culture"
       ],
       "file_id": null,
-      "word_count": 738
+      "word_count": 907
     },
     {
       "article_id": "camp-perrot",
@@ -3797,9 +3872,15 @@
           "at": "2026-03-16T05:30:00Z",
           "by": "auto",
           "task": "REVIEW"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-07-09T18:00:00Z",
+          "by": "auto",
+          "task": "RESEARCH"
         }
       ],
-      "ralph_loops_completed": 2,
+      "ralph_loops_completed": 3,
       "kb_facts_used": [
         "f_0752",
         "f_0847",
@@ -3825,7 +3906,9 @@
         "f_0975",
         "f_0976",
         "f_0977",
-        "f_0988"
+        "f_0988",
+        "f_1922",
+        "f_1923"
       ],
       "sources_cited": [
         "src_concordia_12B01",
@@ -3839,7 +3922,8 @@
         "src_linkedin_twynam",
         "src_leisure_johnston_twynam_1999",
         "src_mason_johnston_twynam_2000_jst",
-        "src_bccat_awards_2014"
+        "src_bccat_awards_2014",
+        "src_twynam_johnston_2004"
       ],
       "open_questions": 4,
       "cross_links": [
@@ -3849,7 +3933,7 @@
         "canadian-camping-movement"
       ],
       "file_id": null,
-      "word_count": 1248
+      "word_count": 1350
     },
     {
       "article_id": "voyageur-canoe-pageant",
@@ -3880,9 +3964,15 @@
           "at": "2026-03-16T05:30:00Z",
           "by": "auto",
           "task": "REVIEW"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-07-09T18:00:00Z",
+          "by": "auto",
+          "task": "RESEARCH"
         }
       ],
-      "ralph_loops_completed": 2,
+      "ralph_loops_completed": 3,
       "kb_facts_used": [
         "f_0270",
         "f_0271",
@@ -3906,7 +3996,9 @@
         "f_1002",
         "f_1003",
         "f_1004",
-        "f_1005"
+        "f_1005",
+        "f_1900",
+        "f_1902"
       ],
       "sources_cited": [
         "src_mcmorris_thesis",
@@ -3930,7 +4022,7 @@
         "taylor-statten"
       ],
       "file_id": null,
-      "word_count": 1542
+      "word_count": 1579
     },
     {
       "article_id": "edgar-smee",
@@ -4028,9 +4120,15 @@
           "at": "2026-03-16T05:30:00Z",
           "by": "auto",
           "task": "REVIEW"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-07-09T18:00:00Z",
+          "by": "auto",
+          "task": "RESEARCH"
         }
       ],
-      "ralph_loops_completed": 2,
+      "ralph_loops_completed": 3,
       "kb_facts_used": [
         "f_0158",
         "f_0164",
@@ -4056,7 +4154,9 @@
         "f_0984",
         "f_0985",
         "f_0986",
-        "f_0987"
+        "f_0987",
+        "f_1920",
+        "f_1921"
       ],
       "sources_cited": [
         "src_oral_aronson",
@@ -4067,7 +4167,9 @@
         "src_concordia_mosher_2018",
         "src_mccord_aislin_50",
         "src_canada_post_mosher_2021",
-        "src_wikipedia_mosher"
+        "src_wikipedia_mosher",
+        "src_suburban_mosher_2015",
+        "src_montrealer_mosher_2016_kerr"
       ],
       "open_questions": 3,
       "cross_links": [
@@ -4076,7 +4178,7 @@
         "directors-index"
       ],
       "file_id": null,
-      "word_count": 974
+      "word_count": 1122
     },
     {
       "article_id": "sean-day",
@@ -4197,9 +4299,15 @@
           "at": "2026-03-16T07:20:00Z",
           "by": "auto",
           "task": "REVIEW"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-07-09T18:00:00Z",
+          "by": "auto",
+          "task": "RESEARCH"
         }
       ],
-      "ralph_loops_completed": 1,
+      "ralph_loops_completed": 2,
       "kb_facts_used": [
         "f_1019",
         "f_1020",
@@ -4211,7 +4319,11 @@
         "f_1178",
         "f_1179",
         "f_1180",
-        "f_1103"
+        "f_1103",
+        "f_1928",
+        "f_1929",
+        "f_1930",
+        "f_1931"
       ],
       "sources_cited": [
         "src_ymca_quebec_history",
@@ -4219,9 +4331,12 @@
         "src_concordia_sgw_history",
         "src_newswire_ymca_2019",
         "src_ymca_audette_2024",
-        "src_observatoire_ymca"
+        "src_observatoire_ymca",
+        "src_ymca_canada_history",
+        "src_concordia_drummond_ymca_building",
+        "src_ymcaquebec_downtown_sale_2023"
       ],
-      "open_questions": 3,
+      "open_questions": 5,
       "cross_links": [
         "founding-1894",
         "directors-index",
@@ -4230,7 +4345,7 @@
         "canadian-camping-movement"
       ],
       "file_id": null,
-      "word_count": 1092
+      "word_count": 1467
     },
     {
       "article_id": "notable-alumni",
@@ -4948,9 +5063,15 @@
           "at": "2026-06-22T11:45:14.689724+00:00",
           "by": "auto",
           "task": "REVIEW"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-07-09T18:00:00Z",
+          "by": "auto",
+          "task": "RESEARCH"
         }
       ],
-      "ralph_loops_completed": 1,
+      "ralph_loops_completed": 2,
       "kb_facts_used": [
         "f_0357",
         "f_0600",
@@ -4964,9 +5085,14 @@
         "f_1409",
         "f_1410",
         "f_1411",
-        "f_1412"
+        "f_1412",
+        "f_1903",
+        "f_1904"
       ],
-      "sources_cited": 8,
+      "sources_cited": [
+        "src_ia_the_georgian",
+        "src_ia_mcgill_daily"
+      ],
       "open_questions": 5,
       "cross_links": [
         "harold-potter",
@@ -4977,7 +5103,7 @@
         "sources-index"
       ],
       "file_id": null,
-      "word_count": 750
+      "word_count": 1036
     },
     {
       "article_id": "winter-programming",
@@ -5105,7 +5231,7 @@
       "article_id": "joanna-hoad",
       "title": "Joanna A.A. Hoad",
       "wiki_folder": "people",
-      "status": "draft",
+      "status": "R3-verified",
       "status_history": [
         {
           "status": "stub",
@@ -5118,9 +5244,15 @@
           "at": "2026-07-07T00:00:00Z",
           "by": "auto",
           "task": "WRITE"
+        },
+        {
+          "status": "R3-verified",
+          "at": "2026-07-09T18:00:00Z",
+          "by": "auto",
+          "task": "VERIFY"
         }
       ],
-      "ralph_loops_completed": 3,
+      "ralph_loops_completed": 4,
       "kb_facts_used": [
         "f_1729",
         "f_1730",
@@ -5139,7 +5271,7 @@
         "directors-index"
       ],
       "file_id": null,
-      "word_count": 520
+      "word_count": 970
     },
     {
       "article_id": "rob-braide",

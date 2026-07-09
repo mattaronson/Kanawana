@@ -3,7 +3,8 @@
 <!-- status: E1-reviewed -->
 <!-- confidence: high -->
 <!-- last_updated: 2026-06-24 -->
-<!-- last_editor: v50 -->
+<!-- last_updated: 2026-07-09 (open-questions research pass: found an Expo 67 canoe-tripping-program lead in Concordia 13E, ruled out 12B01/12B04 as locations for the missing participant roster, flagged the McMorris thesis as needing a local-PDF-extraction retry) -->
+<!-- last_editor: v50, v68 -->
 <!-- ralph_loops: centennial-1967-R1, centennial-1967-V1 -->
 
 ## Summary
@@ -63,10 +64,10 @@ The McMorris thesis devotes its third chapter — "The National(ist) Vehicle" �
 
 ## Open Questions
 
-1. [Critical] Who were the six Kanawana boys and two counsellors on the 1967 Centenary Journey? One counsellor was Yves St. Pierre (trip report author), but names of the other counsellor and six boys remain unknown.
+1. [Critical, confirmed dead end for this pass 2026-07-09] Who were the six Kanawana boys and two counsellors on the 1967 Centenary Journey? One counsellor was Yves St. Pierre (trip report author), but names of the other counsellor and six boys remain unknown. Direct fetches of Concordia sub-sub-series 12B01 and 12B04 confirmed neither holds this material online. A weak, non-confirming genealogical lead was found for Yves St. Pierre (a 1970 Napierville marriage record matching his obituary's wife's name) but establishes no camp connection. **Important tooling note**: the McMorris thesis (the one source likely to name these six boys in a Chapter 3 footnote) was NOT successfully text-extracted this pass — automated PDF fetch/proxy attempts failed, even though other research sessions this project have successfully extracted its full text via a local `pdftotext` pass. A follow-up attempt using that same local-extraction method (not WebFetch) is recommended before this question is treated as fully exhausted.
 2. [Resolved] The route ran from Deep River, Ontario to Britannia Beach (west Ottawa), August 2-9, 1967 (8 days, ~150 miles). Trip report by Yves St. Pierre covers the Ottawa River route history. Resolved via McMorris thesis Ch.3.
 3. [Important] What was the "Canadian Centennial family camping project" at Kanawana in 1966-1967? Concordia archives reference but no details.
-4. [Important] Did Kanawana send any delegation to Expo '67? Archives reference P0145/13E.
+4. [Important, advanced 2026-07-09] Did Kanawana send any delegation to Expo '67? Concordia sub-series P0145/13E (Expo 1967/Canadian Centennial) lists an item, "Expo 67-canoe tripping program. -- 1964" (Box HA1930), showing canoe-trip/Expo-67 planning was underway three years ahead of the Centennial — but the item does not name Kanawana explicitly, so this remains a lead, not a confirmed delegation/visit.
 5. [Nice-to-have] Were any Kanawana alumni involved in the competitive Voyageur Canoe Pageant?
 6. [Nice-to-have] What is in the "Kamp Kanawana report — Planning and Development (1967)" held at Concordia?
 
@@ -97,6 +98,8 @@ The McMorris thesis devotes its third chapter — "The National(ist) Vehicle" �
 15. *The Ottawa Journal*, August 10, 1967. Photo of Kanawana campers arriving in Ottawa.
 16. Research campaign 2026-06-22 (44 searches, 18 WebFetch attempts). Trent University Archives OCA fonds (72-007) and CCA fonds (78-004). CCA history page. Camp Stephens Alumni Blog. Kandalore Nor'westers Blog. *A Log of Canada's Centenary Journey* (1971). Derek Walsh in CCA fonds as Kanawana representative. John Latimer as coordinator, Kirk Wipper for Lake Superior section.
 17. cfgrandmontreal.com obituary notice: Yves St-Pierre, died January 31, 2020, age 76, Montreal. (Possible match for CCA Centenary Journey trip leader — age consistent.)
+18. Mes Aieux genealogy database, Yves St-Pierre/Lucette Gregoire 1970 marriage record [src_mesaieux_st_pierre] — weak, non-confirming corroboration only.
+19. Concordia University Archives finding aid, sub-series 13E (direct fetch, 2026-07-09), confirming the "Expo 67-canoe tripping program" item [src_concordia_13E_expo67]; sub-sub-series 12B01/12B04 (confirming these do NOT hold the missing 1967 material) [src_concordia_p0145_12a_finding_aid].
 
 ## Research Notes
 

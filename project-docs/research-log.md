@@ -3354,3 +3354,111 @@ ambiguous (Pip Award 2019 candidates); one new institutional conflict was logged
 sourcing (Camp Thunderbird). Four new priority-queue items track the remaining actionable leads
 (LAC YWCA fonds ingestion, the c_018 conflict, a local-PDF-extraction retry for the McMorris thesis,
 and manual Flickr/Facebook photo browsing for L&V Games).
+
+## Campaign 35 — Batch 5: Open-Questions Pass, Tier 5 (2026-07-09)
+
+Six parallel research clusters, continuing the article-by-article open-questions plan into a fifth
+tier following the operator's repeated "keep going" instruction.
+
+### 1967 Centennial / Voyageur Canoe Pageant
+
+The Expo 67 canoe-tripping-program lead (Concordia P0145/13E, Box HA1930) was checked directly and
+does not confirm any Kanawana-Expo67 connection. A Yves St-Pierre 1970 Napierville marriage record
+offers weak, non-confirming corroboration for an existing lead (marked disputed rather than stated).
+Concordia's 12B01/12B04 sub-series were ruled out as locations for the missing 1967 Centenary Journey
+participant roster. The agent assigned to this cluster reported that both WebFetch and a jina.ai
+reader proxy failed (401) when attempting to extract the McMorris thesis PDF's text for this specific
+question — inconsistent with several other agents in this same session who successfully extracted the
+same thesis's full text via local `pdftotext`. This is logged as a tooling-retry priority (p_203), not
+a confirmed dead end.
+
+### SGW-Concordia Connection / Canoe Trips / Lac Landron
+
+The Georgian (SGW's student newspaper, 200+ issues 1936-37/1962-70) and the McGill Daily/Le Délit
+(9,868 issues, 1911-2001) are both confirmed digitized on Internet Archive. A positive-control
+methodology test — searching Internet Archive's `advancedsearch.php?q=text:...` API for "Computer
+Riot," a topic The Georgian covered extensively in 1969 — returned zero results, proving this API does
+not perform true full-text OCR search across these newspaper collections; only a human using the
+browser-based search-inside feature can search them properly. This is an important standing caveat for
+any future newspaper-archive research in this project. On the geography side: Lac Landron sits within
+Zec Capitachouane in the La Vérendrye Wildlife Reserve (est. 1939, renamed 1950), and canoe-camping
+administration passed from the reserve directly to the FQCC (1993) and then fully to SEPAQ (~2022) —
+circumstantial evidence (not proof) that Kanawana's 1962-63 YMCA lease has since lapsed. No direct
+Ouareau-Kanawana visit was found; the Jamieson title dispute remains unresolved.
+
+### Camp Ouareau / Cushing Family
+
+The most significant single finding of this batch: Walter Edgar Cushing, previously identified in this
+wiki as the likely author of a 1943 "W.E. Cushing" manuscript, in fact died on January 13, 1935 — eight
+years before the manuscript's stated date. This directly contradicts the existing identification and
+has been logged as conflict c_019 (unresolved; genuinely documented-vs-documented, not an
+oral-history-vs-document case, so it does not auto-resolve under CLAUDE.md's standing policy). A full
+read of both the McMorris thesis and the complete FamilySearch Cushing genealogy supplement (240 pages)
+found zero "Cushing"+"1892" mentions that would help disambiguate. Harold Beveridge Cushing's exact
+death date (October 31, 1947) was separately confirmed.
+
+### D.A. Budge / A. Ross Seaman / Taylor Statten
+
+D.A. Budge's exact death date is now confirmed as February 13, 1933. A new Concordia lead (13D, Joyce
+Oliver's 1939-40 "Book of Remembrance" project) holds unread "research reports on D.A. Budge." A. Ross
+Seaman's biographical gaps and his director-successor question were both re-confirmed as genuine dead
+ends requiring paid or physical archive access, not further web search. The Taylor Statten cluster
+produced a major breakthrough: Donald Burry's 1985 MA thesis (University of Saskatchewan), drawing on
+1984 family interviews, gives Statten's full birth name ("Emerson Taylor Israel Statten"), precise
+career dates (YMCA 1902; Secretary of Boys' Work May 1, 1905-1911), a previously undocumented
+precursor camp ("Camp Tuxis," closed August 1920) before Ahmek's 1921 founding, and his exact death
+date (November 1, 1956). A full-text grep of the 178-page thesis found zero "Kanawana" or "Naismith"
+mentions. The thesis also surfaces a new three-way conflict (c_020) on the Ontario Camping
+Association's founding date: 1933 per the OCA's own website; 1930 organizing/1938 first presidency per
+a Northway interview cited in Burry; and 1933 (doubted by Burry himself, flagged "(sic)") per a Plewman
+tribute essay. All three sources are documents, so this requires editorial judgment rather than
+auto-resolution.
+
+### Joanna Hoad / Dave Twynam / Terry Mosher
+
+A third independent research pass on Joanna Hoad's post-LCC life (21 queries, including a Wayback CDX
+query not used in the prior two passes) confirmed it is genuinely exhausted for online sources; a
+light VERIFY pass cross-checked her documented dates against directors-index.md's Two-Tier Era table,
+and the article was advanced from draft to R3-verified. Dave Twynam's 1979 Kanawana directorship date
+was further corroborated via a full raw (not search-snippet) fetch of Concordia's 12B01 finding aid,
+which shows exactly one Twynam entry with no separate 1976 entry anywhere in the list; a further
+co-publication (Twynam & Johnston, 2004, on the 1995 Nordic World Ski Championships) was also found.
+For Terry Mosher, his parents (Jack and Norma Mosher) and school history were added from 2015 interview
+coverage, and a date correction was made: the 2015 Pip Award ceremony was Saturday, August 8, 2015, not
+August 3 as previously cited (a day-of-week check confirms August 3, 2015 was a Monday; two
+independent sources give August 8).
+
+### Council Ring / YMCA Quebec Institutional History
+
+The McMorris thesis's Figure 2.1 (a 1970s totem-pole photograph) and a 1962 site map on page 68
+("Indian Council Ring" label and totem iconography) were both integrated, though whether the 1970s pole
+is the same one erected in 1927 remains unconfirmed. The camp's current facilities webpage describes
+"fire bowls" but doesn't mention a Council Ring or totem pole by name — noted as inconclusive rather
+than evidence of removal. On the institutional side: Canadian YMCAs formed a "National Federation" in
+1912 (a possible, unconfirmed match to a 1972-catalogued "National Council YMCAs of Canada"); the
+Concordia governance chronology was extended to 1981-82 (a Special Intercommittee Task Force on
+Camping and a "Comité du service des camps"), narrowing but not closing the 1983-2003 gap; and the
+Drummond Street YMCA building's history was completed — occupied from 1912, a 12-storey annex added
+1930-31, demolished in 2002 — with the further finding that YMCA Quebec announced intent to sell its
+successor downtown building on October 11, 2023.
+
+### Integration
+
+32 new KB facts (f_1900-f_1931). 14 new/updated source records (13 new plus richer extraction notes on
+3 existing sources: `src_burry_thesis_1985`, `src_familysearch_cushing_supp`, `src_mcgill_budge`). Two
+new conflict records (c_019, c_020). 14 wiki articles updated: centennial-1967.md,
+voyageur-canoe-pageant.md, sgw-concordia-connection.md, canoe-trips.md, camp-ouareau.md,
+cushing-family.md, da-budge.md, a-ross-seaman.md, taylor-statten.md, joanna-hoad.md (draft ->
+R3-verified), dave-twynam.md, terry-mosher.md, council-ring.md, ymca-quebec-history.md. KB v5.04 ->
+v5.05.
+
+### Outcome
+
+Across the six clusters, a large majority of the targeted open questions were resolved, advanced with
+new corroborating detail, or honestly confirmed as dead ends; one weak/single-source lead was marked
+disputed rather than promoted to confident fact (the St-Pierre marriage record); two genuine
+documented-vs-documented conflicts were logged for human review rather than silently adjudicated
+(c_019 Cushing identity, c_020 OCA founding date) — consistent with CLAUDE.md's policy that only
+oral-history-vs-document conflicts auto-resolve. Three new priority-queue items track the remaining
+actionable leads (a McMorris-thesis extraction retry targeting the 1967 roster specifically, a
+physical-archive review to resolve c_019, and a human-review flag for c_020).
