@@ -1,8 +1,8 @@
 {
   "version": "v4.98",
-  "kb_version": "v5.02",
+  "kb_version": "v5.03",
   "migrated_from": "3.3",
-  "fact_count": 1790,
+  "fact_count": 1814,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -22899,11 +22899,12 @@
     },
     {
       "fact_id": "f_1366",
-      "claim": "Camp Thunderbird (P0145/12I) and the Wilderness Survival Camp (P0145/12J) are YMCA Montreal camps listed in the Concordia Archives. No online content exists for either. The 1974 'Report of the Staff Task Group on Outdoor Education in the Montreal YMCA' and 1975 'Proposed Hike and Trip Camp' likely relate to their origin. Both likely date from the YMCA's expansion of outdoor education in the mid-1970s.",
+      "claim": "Camp Thunderbird (P0145/12I) and the Wilderness Survival Camp (P0145/12J) are YMCA Montreal camps listed in the Concordia Archives. CORRECTED 2026-07-09: a direct fetch of the Concordia finding aid found a specific dated item, \"Camp Thunderbird - brochure, correspondence, reports, publicity. -- 1942-1943\" (Box HA2316) -- dating Camp Thunderbird to the early 1940s, not \"the mid-1970s\" as this fact previously speculated. The Wilderness Survival Camp's dating is confirmed and sharpened by finding-aid items: \"Wilderness camp director's report\" (1973), \"Wilderness camping programs-brochures\" (1973-1974), \"Program planning 1974-75 -- Survival camp\" (1974), and \"Wilderness survival camp\" (1975) -- a precise 1973-1975 operating window. The 1974 'Report of the Staff Task Group on Outdoor Education in the Montreal YMCA' and 1975 'Proposed Hike and Trip Camp' remain plausible context for the Wilderness Survival Camp's origin specifically, not Thunderbird's. No gender assignment is stated in either finding aid.",
       "sources": [
-        "src_concordia_fonds"
+        "src_concordia_fonds",
+        "src_concordia_12L"
       ],
-      "confidence": "inferred",
+      "confidence": "stated",
       "category": "camps",
       "entities": [
         "Camp Thunderbird",
@@ -31064,6 +31065,422 @@
       "date_ref": "2026-06-16",
       "conflicts_with": [],
       "added_version": "v5.02",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1829",
+      "claim": "The YMCA of Montreal's 1890-91 Annual Report (presented May 28, 1891) announces securing \"the services of Mr. W. H. Ball as Physical Director. Mr. Ball is a graduate of the Springfield School... commences his work with us first of September next.\" The same report separately identifies him as \"Mr. W.H. Ball, jr., of Yonkers, N.Y.\" -- indicating he came to Montreal from Yonkers, New York.",
+      "sources": [
+        "src_ia_ymca_annual_1890_91"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "William Henry Ball",
+        "Billy Ball"
+      ],
+      "date_ref": "1891",
+      "conflicts_with": [],
+      "added_version": "v5.03",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1830",
+      "claim": "W. H. Ball is confirmed as the YMCA of Montreal's Physical Director in every annual report checked from 1892-93 through 1900, a consecutive run spanning the 1894 founding of Camp Jubilee (the original Camp Kanawana).",
+      "sources": [
+        "src_ia_ymca_annual_1890_91"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "William Henry Ball"
+      ],
+      "date_ref": "1892-1900",
+      "conflicts_with": [],
+      "added_version": "v5.03",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1831",
+      "claim": "The YMCA of Montreal's 1902 Annual Report states: \"Mr. W. H. Ball, the Association's first Physical Director, who rendered such helpful service during the past ten years... resigned and accepted a similar position with the Prospect Park Branch of the Brooklyn Association. He was succeeded by Mr. J. E. Merritt.\" This confirms a roughly ten-year Montreal tenure (September 1891 to 1901 or 1902).",
+      "sources": [
+        "src_ia_ymca_annual_1902"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "William Henry Ball",
+        "J. E. Merritt",
+        "Prospect Park Branch"
+      ],
+      "date_ref": "1902",
+      "conflicts_with": [],
+      "added_version": "v5.03",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1832",
+      "claim": "Lovell's Montreal Directory, 1893-94, independently corroborates W.H. Ball's YMCA role via a non-YMCA-produced source: an institutional listing reads \"YOUNG MEN'S CHRISTIAN ASSOCIATION, D.A. Budge, general secretary; T.D. Patton, asst secretary; W. H. Ball, physical director, Dorchester cor Dominion Sq,\" and a separate residential street-directory line reads \"Ball W. H., physical director Y.M.C.A.\"",
+      "sources": [
+        "src_lovells_montreal_directory_1893_94"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "William Henry Ball",
+        "D.A. Budge",
+        "T.D. Patton"
+      ],
+      "date_ref": "1893-1894",
+      "conflicts_with": [],
+      "added_version": "v5.03",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1833",
+      "claim": "Two caveats qualify the identification of \"Billy Ball\" with W.H. Ball, Physical Director: (1) no period document found uses the nickname \"Billy\" -- he is always referred to as \"W. H. Ball\" or \"Mr. Ball\" in contemporary sources; \"Billy Ball\" appears only in modern (21st-century) secondary sources such as the YMCA Quebec website and QAHN. (2) No period document explicitly states Ball personally led the 1894 boys' camp trip -- the YMCA of Montreal's 1894-95 annual report's Physical Department section (his department) describing the first Summer Camp is unsigned, a separate Junior Department camp committee in that era is credited to volunteer chairman John W. Ross, and the 1895-96 Summer Camp writeup is signed by Wm. Tees, Chairman -- neither names Ball specifically.",
+      "sources": [
+        "src_ia_ymca_annual_1890_91"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "William Henry Ball",
+        "John W. Ross",
+        "Wm. Tees"
+      ],
+      "date_ref": "1894-1896",
+      "conflicts_with": [],
+      "added_version": "v5.03",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1834",
+      "claim": "A self-published alumni blog, \"Camp Otoreke Blog\" (established 2005 by former staff, low reliability -- single uncorroborated source with anonymous/pseudonymous commenters), suggests the site is still informally called \"Otoreke Island\" and was privately owned by multiple co-owners by 2008 (a commenter identifying as \"Michael Evans\" states he was \"one of the current owners of Otoreke Island\" and hosted a 2005 reunion there). A separate 2005 commenter (\"Finn Sander\") describes the camp buildings as having suffered \"years of neglect, invasive foliage, cyclic freezing and thawing, pervasive humidity, and attendant mould and rot\" by that year -- i.e., abandoned/derelict rather than redeveloped. No official toponym search (Quebec's Commission de toponymie) confirms \"Otoreke Island\" as a recognized place name.",
+      "sources": [
+        "src_otoreke_blog_2005"
+      ],
+      "confidence": "disputed",
+      "category": "places",
+      "entities": [
+        "Camp Otoreke",
+        "Otoreke Island",
+        "Michael Evans"
+      ],
+      "date_ref": "2005-2008",
+      "conflicts_with": [],
+      "added_version": "v5.03",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1835",
+      "claim": "The same low-reliability, single-source \"Camp Otoreke Blog\" (see f_1834) posts a staff roster from a commenter (\"Howard Duncan\"): Ron and Valma Huppfield ran the camp during WWII; Rev. and Mrs. McGerrigle were directors afterward; Colin and Mrs. Mackay succeeded the McGerrigles as directors in the early 1960s. These names do NOT appear elsewhere in this KB and have no independent corroboration -- flagged explicitly for verification (YMCA annual reports, obituaries) before any standalone biography stub is created, per CLAUDE.md's formal-RALPH requirement for people stubs.",
+      "sources": [
+        "src_otoreke_blog_2005"
+      ],
+      "confidence": "disputed",
+      "category": "people",
+      "entities": [
+        "Ron Huppfield",
+        "Valma Huppfield",
+        "Rev. McGerrigle",
+        "Colin Mackay"
+      ],
+      "date_ref": "1940s-1960s",
+      "conflicts_with": [],
+      "added_version": "v5.03",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1836",
+      "claim": "Re-mining the already-cited BaladoDecouverte heritage-tour source (previously used only for the 1897/two-islands/80-campers claims) surfaces unextracted detail: a local entrepreneur named Victor Bergeron was hired to build a two-story log cabin able to house 25 young men, and the early Camp Jubilee/Otoreke operation purchased staples \"from the Bergin and Corbeil General Store.\"",
+      "sources": [
+        "src_baladodecouverte_howard"
+      ],
+      "confidence": "stated",
+      "category": "places",
+      "entities": [
+        "Victor Bergeron",
+        "Bergin and Corbeil General Store"
+      ],
+      "date_ref": "1894-1901",
+      "conflicts_with": [],
+      "added_version": "v5.03",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1837",
+      "claim": "Concordia University Archives sub-series P0145/12C (Camp Otoreke) is organized into seven sub-sub-series: 12C01 (General administration), 12C02 (Financial administration), 12C03 (Land/facilities/equipment/supplies), 12C04 (Communications), 12C05 (Staff/counsellors), 12C06 (Campers), 12C07 (Program). The finding aid confirms the existence -- but not the content -- of 1982 revenue/expenditure and tax-status records within 12C02, suggesting Camp Otoreke's closure-year finances were documented, though the documents themselves are not available online.",
+      "sources": [
+        "src_concordia_12L"
+      ],
+      "confidence": "stated",
+      "category": "places",
+      "entities": [
+        "Camp Otoreke",
+        "P0145/12C"
+      ],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "v5.03",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1838",
+      "claim": "Two open ambiguities in the Concordia finding aid for Camp Otoreke-related material: (1) two separate 1967 catalog entries -- \"Report of the Boys' and Girls' Camping Committee to the Metropolitan Planning and Development Committee of the YMCA of Montreal\" (Box HA1881) and \"Camp Otoreke report -- Planning and Development\" (Box HA2367) -- may be the same document cross-referenced or two distinct related documents. (2) W.E. Cushing's 1943 manuscript appears under two variant titles/locations: \"Early Days at Lake St. Joseph\" (Box HA1881) versus the previously-cited \"Historical sketches -- Lake St. Joseph\" (Box HA2307) -- possibly the same manuscript catalogued twice, or two distinct short pieces. Neither ambiguity is resolvable online; both require a physical Concordia Archives visit.",
+      "sources": [
+        "src_concordia_12L"
+      ],
+      "confidence": "stated",
+      "category": "places",
+      "entities": [
+        "Camp Otoreke",
+        "W.E. Cushing"
+      ],
+      "date_ref": "1943, 1967",
+      "conflicts_with": [],
+      "added_version": "v5.03",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1839",
+      "claim": "The YMCA of Montreal's 1930 Annual Report (covering the 1929 season) describes the new equipment on \"Lac Becscies\" as furthered by building a wharf, a new dining pavilion, four new tent floors, and a well, explicitly stating: \"This camp will form a valuable annex to the main camp for 'peak' periods and also for overnight and short term out-trips.\" This reframes Camp Becsies, at least in its origin, as Kanawana's own overflow/annex infrastructure rather than an independently operated camp.",
+      "sources": [
+        "src_ia_ymca_annual_1930"
+      ],
+      "confidence": "stated",
+      "category": "places",
+      "entities": [
+        "Camp Becsies",
+        "Lac Becscies"
+      ],
+      "date_ref": "1929",
+      "conflicts_with": [],
+      "added_version": "v5.03",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1840",
+      "claim": "The Montreal Protestant Orphans' Home was given free use of the YMCA's Lac Becscies equipment for four consecutive seasons -- 1933, 1934, 1935, and 1936 -- per the YMCA of Montreal Annual Reports for 1934, 1935, 1936, and 1937 respectively, each using near-identical wording (\"given the free use of our auxiliary camp equipment,\" or in 1937, \"again given, free of charge, the use of our property on Lake Bec-scies, for which their Board has expressed generous appreciation\"). This refines the previously documented \"1934 and 1936\" claim to all four consecutive years.",
+      "sources": [
+        "src_ia_ymca_annual_1934",
+        "src_ia_ymca_annual_1935",
+        "src_ia_ymca_annual_1936",
+        "src_ia_ymca_annual_1937"
+      ],
+      "confidence": "stated",
+      "category": "places",
+      "entities": [
+        "Camp Becsies",
+        "Montreal Protestant Orphans' Home"
+      ],
+      "date_ref": "1933-1936",
+      "conflicts_with": [],
+      "added_version": "v5.03",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1841",
+      "claim": "The YMCA of Montreal's 1937 Annual Report names W.J.G. Macdiarmid as the Kanawana Camp Director in the same passage documenting that year's (1936 season's) Protestant Orphans' Home free-use-of-Becscies arrangement. This independently corroborates the already-documented director in directors-index.md (Greig / W.J.G. Macdiarmid, Camp Chief 1935-1938+). The 1934 Annual Report separately names W.H. Spearman as Kanawana's Camp Director for the 1933 season.",
+      "sources": [
+        "src_ia_ymca_annual_1937",
+        "src_ia_ymca_annual_1934"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "W.J.G. Macdiarmid",
+        "W.H. Spearman",
+        "Camp Becsies"
+      ],
+      "date_ref": "1933, 1936",
+      "conflicts_with": [],
+      "added_version": "v5.03",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1842",
+      "claim": "The YMCA of Montreal's 1930 Annual Report records a $201.00 surplus applied against $2,258.00 in capital expenditure \"on the Becscies extension and the new craft shop\" for the 1929 season (a combined figure, not broken out separately). The same report states a group of businessmen from the Westmount Branch underwrote the expense of twelve boys from the Protestant Orphans' Home to attend as regular Kanawana campers that season -- a separate sponsorship channel, distinct from the later equipment-loan arrangement at Becscies.",
+      "sources": [
+        "src_ia_ymca_annual_1930"
+      ],
+      "confidence": "stated",
+      "category": "places",
+      "entities": [
+        "Camp Becsies",
+        "Montreal Protestant Orphans' Home",
+        "Westmount Branch"
+      ],
+      "date_ref": "1929",
+      "conflicts_with": [],
+      "added_version": "v5.03",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1843",
+      "claim": "A systematic check of YMCA of Montreal Annual Reports for every year from 1938 through 1962 (21+ consecutive years) found zero mentions of \"Becscies,\" \"Becsies,\" \"Becs-Scie,\" or the Protestant Orphans' Home camp arrangement -- confirming the 1936 end-date of the documented arrangement but leaving the reason for the subsequent gap (until Camp Becsies' 1960 resumption) undocumented. Notably, Kanawana itself recorded its highest attendance to that point in the 1937-38 season (407 boys, 1,442 camper-weeks, \"necessary to refuse registration for periods in July\"), arguing against a simple Depression-driven cost-cutting explanation for the Becsies arrangement's end, though this doesn't rule out reasons specific to the Orphans' Home side.",
+      "sources": [
+        "src_ia_ymca_annual_1937"
+      ],
+      "confidence": "stated",
+      "category": "places",
+      "entities": [
+        "Camp Becsies"
+      ],
+      "date_ref": "1938-1962",
+      "conflicts_with": [],
+      "added_version": "v5.03",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1844",
+      "claim": "Camp Amy Molson, founded May 23, 1944 by the Montreal Ladies' Benevolent Society specifically as a dedicated summer camp for children from foster homes/orphanages (58 campers, 5 counsellors in its first season), is a plausible but unconfirmed contributing thread to the Camp Becsies 1936-1960 gap. It does not cleanly explain the gap: a 7-8 year unexplained span remains (1936 to 1944), and the Ladies' Benevolent Society and the Protestant Orphans' Home were still separate organizations at that date (they merged c.1946-1947, see f_1845).",
+      "sources": [
+        "src_camp_amy_molson_mcgill_paper"
+      ],
+      "confidence": "inferred",
+      "category": "places",
+      "entities": [
+        "Camp Amy Molson",
+        "Montreal Ladies' Benevolent Society"
+      ],
+      "date_ref": "1944",
+      "conflicts_with": [],
+      "added_version": "v5.03",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1845",
+      "claim": "The Montreal Protestant Orphans' Home was founded in 1822 as the Protestant Orphan Asylum, built a permanent home in 1849 on St. Catherine St. near Drummond, moved to Summerhill/Cote-des-Neiges in 1894, and merged with the Montreal Ladies' Benevolent Society around 1946 or 1947 (sources disagree on the exact year) to form the Montreal Ladies' Benevolent and Protestant Orphans' Society, later known as Summerhill Homes. Retrieved only via search-result summaries -- direct fetch of the source page returned HTTP 503 twice -- so this should be independently re-verified, especially the exact merger year, before being treated as fully confident.",
+      "sources": [
+        "src_batshaw_centre_history"
+      ],
+      "confidence": "inferred",
+      "category": "places",
+      "entities": [
+        "Montreal Protestant Orphans' Home",
+        "Montreal Ladies' Benevolent Society",
+        "Summerhill Homes"
+      ],
+      "date_ref": "1822-1947",
+      "conflicts_with": [],
+      "added_version": "v5.03",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1846",
+      "claim": "The Woodcraft League of America (the national woodcraft-movement organization Kanawana chartered a tribe in circa 1922) grew to roughly 5,000 members at its peak in the 1920s-30s, declined during the WWII-era shift toward industrialization and Cold War militarism, and dissolved entirely in 1946 after founder Ernest Thompson Seton's death, when his family declined to keep the organization running. This is general/national context, not a Kanawana-specific charter-lapse date.",
+      "sources": [
+        "src_wikipedia_woodcraft_league"
+      ],
+      "confidence": "stated",
+      "category": "context",
+      "entities": [
+        "Woodcraft League of America",
+        "Ernest Thompson Seton"
+      ],
+      "date_ref": "1920s-1946",
+      "conflicts_with": [],
+      "added_version": "v5.03",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1847",
+      "claim": "Grace McMorris's thesis (re-mined via a direct full-PDF extraction) quotes Kanawana's own 1925 season report stating the Woodcraft League program was \"easily adapted to camp\" (thesis p.58) -- a verbatim primary-source quote not previously captured in the KB.",
+      "sources": [
+        "src_mcmorris_thesis"
+      ],
+      "confidence": "stated",
+      "category": "programs",
+      "entities": [
+        "Woodcraft League of America"
+      ],
+      "date_ref": "1925",
+      "conflicts_with": [],
+      "added_version": "v5.03",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1848",
+      "claim": "The \"Kanawana Outing Club\" (previously known only from a felt badge reading \"KANAWANA OUTING CLUB\" around a YMCA triangle logo) is confirmed via direct fetches of the Concordia finding aid (sub-sub-series 12B03, 12B04, and 12B07) as a distinct WINTER-season hiking/trail program, with its own trail system (\"Kanawana Outing Club trails\"), its own promotional poster and artwork/printing plate, running at least from the 1970s ([197-]) through 1979 per the archivist's own bracketed annotation on the 12B07 item -- separate from the main summer honour-award badge system.",
+      "sources": [
+        "src_concordia_12B03",
+        "src_concordia_atom_12B04",
+        "src_concordia_atom_12B07"
+      ],
+      "confidence": "stated",
+      "category": "programs",
+      "entities": [
+        "Kanawana Outing Club"
+      ],
+      "date_ref": "1970s-1979",
+      "conflicts_with": [],
+      "added_version": "v5.03",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1849",
+      "claim": "The Concordia finding aid (sub-sub-series 12B07, Program) lists earlier winter-camping precedents than the \"1970s\" window currently attributed to Winter Outdoor Family Camping: a \"Winter ski camp\" (1945-1947) and a one-off \"Winter camp\" (January 28-29, 1961). Whether either is the same program as the later Winter Outdoor Family Camping or Winter Kanawana Outing Club is not confirmed -- flagged as a plausible link, not a confirmed identity.",
+      "sources": [
+        "src_concordia_atom_12B07"
+      ],
+      "confidence": "stated",
+      "category": "programs",
+      "entities": [
+        "Winter ski camp"
+      ],
+      "date_ref": "1945-1947, 1961",
+      "conflicts_with": [],
+      "added_version": "v5.03",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1850",
+      "claim": "The Concordia finding aid (sub-series 12B01, General Administration) lists a \"Working paper on year-round use\" dated 1969, showing the YMCA was formally studying year-round use of the Kanawana site 27 years before the 1996 year-round residential programming launch already documented in this KB. This directly precedes, and may help explain, the camp's 1994-95 leadership restructuring into a year-round Executive Director plus a three-season on-site Camp Director.",
+      "sources": [
+        "src_concordia_p0145_12b01_finding_aid"
+      ],
+      "confidence": "stated",
+      "category": "programs",
+      "entities": [
+        "Kanawana year-round programming"
+      ],
+      "date_ref": "1969",
+      "conflicts_with": [],
+      "added_version": "v5.03",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1851",
+      "claim": "Grace McMorris's thesis (re-mined via a direct full-PDF extraction) explicitly declines to cover how Kanawana's coeducational programming -- including how the L&V Games' masculine team structure (Lumbermen and Voyageurs) adapted for girls after 1968 -- worked in practice: \"A study of co-ed camps, or even of Kanawana's co-ed programming, is beyond the scope of my research since I am focusing on the kinds of masculine ideals that were being promoted by Kanawana...\" (thesis, scope statement) and, in her conclusion: \"This would have had a dramatic effect on the camp dynamic. How did the camp's mission and programming change to reflect the presence of girls and women at camp?... the development of femininity at and through summer camp is another area of research I am most interested in.\" This documents the open question as a genuine, acknowledged gap in the existing academic literature on Kanawana, not merely an unresearched item for this project.",
+      "sources": [
+        "src_mcmorris_thesis"
+      ],
+      "confidence": "stated",
+      "category": "context",
+      "entities": [
+        "L&V Games",
+        "Grace McMorris"
+      ],
+      "date_ref": "1968",
+      "conflicts_with": [],
+      "added_version": "v5.03",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1852",
+      "claim": "The Concordia finding aid for Camp Dorval (sub-series 12E) lists specific items \"Camp Dorval director's report\" (1926) and \"Report on Camp Dorval season 1928\" (Box HA1894), plus photographs (Box HA2318) -- consistent with, and slightly more granular than, the already-documented 1926-1928 operating window. No gender assignment is stated in the finding aid.",
+      "sources": [
+        "src_concordia_12L"
+      ],
+      "confidence": "stated",
+      "category": "places",
+      "entities": [
+        "Camp Dorval"
+      ],
+      "date_ref": "1926-1928",
+      "conflicts_with": [],
+      "added_version": "v5.03",
       "added_by": "ralph_loop"
     }
   ]

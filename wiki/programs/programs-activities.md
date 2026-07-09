@@ -1,7 +1,7 @@
 # Programs and Activities at Kanawana
 
-*Status: E1-reviewed | Sources: src_brochure_1922, src_history_1935, src_mcmorris_thesis, src_kanawana_facts, src_ymca_website, src_concordia_12A, src_concordia_12B04, src_gas_bag_1923, src_cfcf_1941, src_brochure_1921, src_postmedia_nature_deficit_2026, src_banq_le_droit_1937_06_25, src_banq_westmount_examiner_1962_11_16, src_banq_le_soleil_1971_07_07, src_banq_sherbrooke_record_1972_07_21, src_banq_montreal_matin_1971_08_24, src_mcgill_escholarship_zinner, src_vss_journee_plein_air, src_indeed_companion_job, src_glassdoor_outdoor_ed_director*
-*Last Updated: 2026-07-09 (broad-sweep campaign: added the "Companion" staff role, an unverified "Director, Outdoor Education Centre Kanawana" job title, and the "Journée plein air" municipal event)*
+*Status: E1-reviewed | Sources: src_brochure_1922, src_history_1935, src_mcmorris_thesis, src_kanawana_facts, src_ymca_website, src_concordia_12A, src_concordia_12B04, src_gas_bag_1923, src_cfcf_1941, src_brochure_1921, src_postmedia_nature_deficit_2026, src_banq_le_droit_1937_06_25, src_banq_westmount_examiner_1962_11_16, src_banq_le_soleil_1971_07_07, src_banq_sherbrooke_record_1972_07_21, src_banq_montreal_matin_1971_08_24, src_mcgill_escholarship_zinner, src_vss_journee_plein_air, src_indeed_companion_job, src_glassdoor_outdoor_ed_director, src_wikipedia_woodcraft_league, src_concordia_p0145_12b01_finding_aid, src_concordia_12B03, src_concordia_atom_12B07*
+*Last Updated: 2026-07-09 (open-questions research pass: resolved the "Kanawana Outing Club" as a distinct winter hiking/trail program; added winter-camping precedents and a 1969 year-round-use working paper; added "Companion" staff role, an unverified "Director, Outdoor Education Centre Kanawana" job title, and the "Journée plein air" municipal event)*
 
 ## Overview
 
@@ -17,7 +17,7 @@ Whatever programming existed in these years was almost certainly informal: swimm
 
 The move to the Saint-Sauveur site in 1910, acquired from the Page family, gave the camp a property that could support more structured programming. By 1918, Kanawana recorded its largest attendance to that point, with 110 members in one weekend; that season's offerings included first aid, basket-making, camp sanitation, wrestling, tumbling, and nature study. A visit from the secretary of the Woodcraft League of New York the same year suggests the camp was already connected to the broader outdoor education movement.
 
-By 1922, the camp held a chartered tribe in the Woodcraft League of America, and its honour system offered 32 instructional subjects with the Large K as the highest award. The section system divided campers by age into Juniors (12-14) and Seniors (14-17), each with distinct activities. The 1921 and 1922 brochures (both surviving in the Concordia archives and cached in the project source files) are the earliest detailed descriptions of what campers actually did; the 1922 brochure included the camp yell, section structure, and references to the Gas Bag newspaper. By 1923, the badge system had grown to 42 subjects, including the Small k (requiring Life-Saving, Bible Study, Altruism, and Hike groups), the Triangle (8 badges across 4 categories), and the KLS (Kanawana Life Saver, based on the RLSS Award of Merit).
+By 1922, the camp held a chartered tribe in the Woodcraft League of America, and its honour system offered 32 instructional subjects with the Large K as the highest award. The McMorris thesis (re-mined via a full-PDF extraction) quotes Kanawana's own 1925 season report describing the Woodcraft League program as "easily adapted to camp." The national Woodcraft League organization itself grew to roughly 5,000 members at its 1920s-30s peak before declining amid WWII-era militarism and dissolving entirely in 1946 after founder Ernest Thompson Seton's death -- general context, though no source found gives a Kanawana-specific charter-lapse date.^wl The section system divided campers by age into Juniors (12-14) and Seniors (14-17), each with distinct activities. The 1921 and 1922 brochures (both surviving in the Concordia archives and cached in the project source files) are the earliest detailed descriptions of what campers actually did; the 1922 brochure included the camp yell, section structure, and references to the Gas Bag newspaper. By 1923, the badge system had grown to 42 subjects, including the Small k (requiring Life-Saving, Bible Study, Altruism, and Hike groups), the Triangle (8 badges across 4 categories), and the KLS (Kanawana Life Saver, based on the RLSS Award of Merit).
 
 The 1923 Gas Bag, the camp's first known in-house publication, provides a camper's-eye view of daily life in this period. In 1925, canoe trips were introduced at Kanawana for the first time, at an extra charge of $3.50. That same year, camp councils called "Kickers and Knockers," elected for two-week periods, gave campers a formal voice in camp governance.
 
@@ -63,6 +63,10 @@ The Concordia archives show institutional restructuring through this period. A "
 
 The Concordia archives also list Director's Reports from the 1970s (1973, 1975, 1977, 1978) and a "Proposed two-site operation, Kanawana and Weredale" document from 1977, suggesting that programming decisions in this era were made in the context of a multi-site camping operation.
 
+## The Kanawana Outing Club and Winter Programming
+
+Resolved 2026-07-09: the "Kanawana Outing Club," previously known only from a felt badge, is confirmed via direct fetches of the Concordia finding aid (sub-sub-series 12B03, 12B04, and 12B07) as a distinct WINTER-season hiking/trail program, with its own trail system ("Kanawana Outing Club trails"), promotional poster, and printing artwork, running at least from the 1970s through 1979 per the archivist's own bracketed dating on the 12B07 item. The same finding aid lists earlier winter-camping precedents than previously known: a "Winter ski camp" (1945-1947) and a one-off "Winter camp" (January 28-29, 1961) -- whether either is the same program as the later Winter Outdoor Family Camping is not confirmed, only a plausible link. Separately, a 1969 "Working paper on year-round use" (12B01) shows the YMCA formally studying year-round use of the site 27 years before the 1996 year-round programming launch, directly preceding the 1994-95 leadership restructuring into a year-round Executive Director plus a three-season on-site Camp Director.^oc
+
 ## Contemporary Programmes (1990s-Present)
 
 The 1990s brought significant programme expansion:
@@ -104,11 +108,11 @@ An annual municipal event, "Journée plein air" (Outdoor Day), is hosted at Camp
 ## Open Questions
 
 1. What specific activities were offered in the 1894-1909 Lake St. Joseph period? The 1893 scouting journal and 1895 camp journal at Concordia might describe early programming.
-2. When did the Woodcraft League charter (documented 1922) lapse, and how did the badge system evolve after the 1920s?
+2. [Confirmed dead end for online sources, 2026-07-09] When did the Woodcraft League charter (documented 1922) lapse, and how did the badge system evolve after the 1920s? A 1925 season-report quote ("easily adapted to camp") and national context (dissolved 1946) were found, but no Kanawana-specific lapse date exists in any online source.
 3. How did the move from "camping" to "outdoor education" branding in the 1970s affect actual programme content?
-4. When did the Family Vacation Camping programme (mentioned in the 1964 brochure) begin and end? When did Winter Outdoor Family Camping (1970s) begin and end?
-5. What was the "Kanawana Outing Club" referenced in a poster in the Concordia archives?
-6. How did year-round programming (1996) affect the camp's staffing model and physical infrastructure?
+4. [Partially resolved 2026-07-09] When did the Family Vacation Camping programme (mentioned in the 1964 brochure) begin and end? Still a confirmed dead end — brochure listings from 1965-2003 give only years, no content descriptions. When did Winter Outdoor Family Camping (1970s) begin and end? See the new "Kanawana Outing Club and Winter Programming" section above — earlier winter-camping precedents (1945-1947, 1961) were found, though not confirmed to be the same program.
+5. ~~[Nice-to-have] What was the "Kanawana Outing Club" referenced in a poster in the Concordia archives?~~ [Resolved 2026-07-09] A distinct winter-season hiking/trail program with its own badge, trail system, and poster, running at least [197-]-1979. See the "Kanawana Outing Club and Winter Programming" section above.
+6. [Advanced 2026-07-09] How did year-round programming (1996) affect the camp's staffing model and physical infrastructure? A 1969 "Working paper on year-round use" shows the idea was studied 27 years earlier, directly preceding the 1994-95 leadership restructuring — but no source documents the specific staffing/infrastructure changes (e.g. Front Camp winterization) that accompanied the 1996 launch itself; confirmed dead end for that specific detail.
 7. What programmes existed in the 1980s? The Ka-News newsletter (1976, 1978-1982) in the Concordia archives may document this period.
 8. What was the Pathfinder program Summer Summary (1965 archives listing)? Was it the existing boys' section (est. 1959) or something new?
 
@@ -138,6 +142,8 @@ An annual municipal event, "Journée plein air" (Outdoor Day), is hosted at Camp
 - [comp] "Companion" job posting, Indeed (expired) [src_indeed_companion_job].
 - [oed] "Director, Outdoor Education Centre Kanawana" job listing, Glassdoor [src_glassdoor_outdoor_ed_director].
 - [jpa] "La Ville invite les citoyennes et citoyens à son événement annuel Journée plein air au Camp YMCA Kanawana," Ville de Saint-Sauveur [src_vss_journee_plein_air].
+- [wl] Wikipedia, "Woodcraft League of America" [src_wikipedia_woodcraft_league].
+- [oc] Concordia University Archives, YMCA of Montreal fonds, sub-sub-series 12B01, 12B03, 12B04, 12B07 [src_concordia_p0145_12b01_finding_aid, src_concordia_12B03, src_concordia_atom_12B04, src_concordia_atom_12B07].
 
 ## R3 Verification Notes
 

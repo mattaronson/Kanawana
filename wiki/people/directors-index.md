@@ -27,7 +27,7 @@ The title "Director" was applied at more than one level: the **Camp Director** (
 | Director | Years | Notes | Source |
 |----------|-------|-------|--------|
 | Billy Ball | 1894 | Led first organized trip to Lake Saint-Joseph; full name and role title unknown | YMCA Quebec website; QAHN |
-| John Roy | 1901 | Earliest identified director by name; wrote letters from Camp Jubilee | Concordia Archives 12L |
+| John Roy | 1901 | Earliest identified director by name; wrote letters from Camp Jubilee. Possibly (unconfirmed) the same person as "John W. Ross," credited as volunteer chairman of a mid-1890s Junior Department camp committee in the YMCA of Montreal's own annual reports -- see [[people/billy-ball|Billy Ball]] Open Question #8. | Concordia Archives 12L |
 | G.D. Brandon | 1921 | Named in 1921 brochure | 1921 brochure |
 | Lemuel P. Ereaux | 1922 (documented) | The 1922 brochure's "eleven summers" describes his cumulative prior camp experience (as camper/counsellor, back to roughly 1912), not eleven years as director -- the 1921 brochure separately and explicitly names G.D. Brandon as that year's director, with no mention of Ereaux. 1922 is his only documented directorship year; also served as Camp Doctor, 4th year McGill Medicine. A possible identity lead (unconfirmed): a "Lemuel Price Ereaux, MD" (1898-1967) memorialized in a 1968 *Archives of Dermatology* obituary -- age/timeline fit, but the full text is paywalled and no camp connection could be confirmed. | 1921/1922 brochures |
 | Philip G. Paterson | 1923 | Camp Chief; Boys' Work Secretary, Westmount YMCA; presided over "complete rebrand in tone" | 1923 brochure |

@@ -513,6 +513,12 @@
           "at": "2026-07-09T06:30:00Z",
           "by": "auto",
           "task": "RESEARCH"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-07-09T09:00:00Z",
+          "by": "auto",
+          "task": "RESEARCH"
         }
       ],
       "ralph_loops_completed": 2,
@@ -545,7 +551,10 @@
         "f_1286",
         "f_1048",
         "f_1777",
-        "f_1818"
+        "f_1818",
+        "f_1851",
+        "f_1852",
+        "f_1366"
       ],
       "sources_cited": [
         "src_mcmorris_thesis",
@@ -556,7 +565,8 @@
         "src_ymca_john_island_newsletter",
         "src_mtl_families_gender",
         "src_ymca_quebec_history",
-        "src_facebook_trans_inclusion"
+        "src_facebook_trans_inclusion",
+        "src_concordia_12L"
       ],
       "open_questions": 8,
       "cross_links": [
@@ -570,7 +580,7 @@
         "stuart-mclean"
       ],
       "file_id": "1KW2yhoZ-wr_71sTPbLJ3v81KW4ZEJ_p-",
-      "word_count": 2261,
+      "word_count": 2517,
       "notes": "E1 REVIEW (2026-02-19): Fixed source header (src_ymca_facts→src_kanawana_facts), added Spectrum URL for McMorris thesis, added IA URLs for Facts sheet and Gas Bag. All claims cited, dates consistent, names cross-checked, tone encyclopedic. Advanced R3-verified → E1-reviewed."
     },
     {
@@ -618,6 +628,12 @@
         {
           "status": "E1-reviewed",
           "at": "2026-07-09T06:30:00Z",
+          "by": "auto",
+          "task": "RESEARCH"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-07-09T09:00:00Z",
           "by": "auto",
           "task": "RESEARCH"
         }
@@ -766,7 +782,12 @@
         "f_1784",
         "f_1819",
         "f_1820",
-        "f_1821"
+        "f_1821",
+        "f_1846",
+        "f_1847",
+        "f_1848",
+        "f_1849",
+        "f_1850"
       ],
       "sources_cited": [
         "src_banq_le_droit_1937_06_25",
@@ -789,7 +810,11 @@
         "src_ymca_website",
         "src_vss_journee_plein_air",
         "src_indeed_companion_job",
-        "src_glassdoor_outdoor_ed_director"
+        "src_glassdoor_outdoor_ed_director",
+        "src_wikipedia_woodcraft_league",
+        "src_concordia_p0145_12b01_finding_aid",
+        "src_concordia_12B03",
+        "src_concordia_atom_12B07"
       ],
       "open_questions": 8,
       "cross_links": [
@@ -803,7 +828,7 @@
         "quebec-camp-landscape"
       ],
       "file_id": "1oqLoU6_bzWD_9jXwXQgYNm_EqLCEfNjR",
-      "word_count": 3322,
+      "word_count": 3749,
       "notes": "v4.75: Noosphere section expanded — Zinner thesis (McGill 1973), Third World Village model, Montreal-matin article."
     },
     {
@@ -936,6 +961,12 @@
         {
           "status": "E1-reviewed",
           "at": "2026-07-09T06:30:00Z",
+          "by": "auto",
+          "task": "RESEARCH"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-07-09T09:00:00Z",
           "by": "auto",
           "task": "RESEARCH"
         }
@@ -1167,7 +1198,7 @@
         "hedley-dimock"
       ],
       "file_id": null,
-      "word_count": 13218,
+      "word_count": 13253,
       "notes": "v4.75: Peter Goddard confirmed (Peter Gilling Goddard 1953-2016, obituary condolence). Nelson McEwen tenure extended c.1927-1947. Derek Walsh exhausted. Gap periods updated. | 2026-07-07: applied operator's standing conflict-resolution policy (documented sources take precedence over oral history) to resolve c_004, c_015, c_016, c_017 -- Gary White's Kanawana tenure narrowed to FY2001-2002, Sean Day's start corrected to 2008, Nicolas Garcia's spelling/end-date corrected to March 2014, Rossy Foundation corrected to Tyndale St-Georges."
     },
     {
@@ -1631,6 +1662,12 @@
           "at": "2026-02-19T04:30:00Z",
           "by": "auto",
           "task": "REVIEW"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-07-09T09:00:00Z",
+          "by": "auto",
+          "task": "RESEARCH"
         }
       ],
       "ralph_loops_completed": 2,
@@ -1645,16 +1682,24 @@
         "f_0430",
         "f_0431",
         "f_1244",
-        "f_1245"
+        "f_1245",
+        "f_1829",
+        "f_1830",
+        "f_1831",
+        "f_1832",
+        "f_1833"
       ],
       "sources_cited": [
         "src_ymca_website",
         "src_kanawana_facts",
         "src_qahn_howard",
         "src_mcgill_budge",
-        "src_concordia_fonds"
+        "src_concordia_fonds",
+        "src_ia_ymca_annual_1890_91",
+        "src_ia_ymca_annual_1902",
+        "src_lovells_montreal_directory_1893_94"
       ],
-      "open_questions": 7,
+      "open_questions": 8,
       "cross_links": [
         "camp-otoreke",
         "cushing-family",
@@ -1663,7 +1708,7 @@
         "founding-1894"
       ],
       "file_id": null,
-      "word_count": 924,
+      "word_count": 1730,
       "notes": "E1 REVIEW (2026-02-19): PASS — all 7 checklist items satisfied. No fixes needed. Advanced R3-verified → E1-reviewed."
     },
     {
@@ -2128,6 +2173,12 @@
           "at": "2026-02-19T00:00:00Z",
           "by": "auto",
           "task": "REVIEW"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-07-09T09:00:00Z",
+          "by": "auto",
+          "task": "RESEARCH"
         }
       ],
       "ralph_loops_completed": 1,
@@ -2160,7 +2211,12 @@
         "f_1503",
         "f_1520",
         "f_1521",
-        "f_1560"
+        "f_1560",
+        "f_1834",
+        "f_1835",
+        "f_1836",
+        "f_1837",
+        "f_1838"
       ],
       "sources_cited": [
         "src_qahn_howard",
@@ -2173,7 +2229,8 @@
         "src_wikipedia_saint_adolphe",
         "src_ymca_website",
         "src_baladodecouverte_howard",
-        "src_concordia_atom_findingaid_pdf"
+        "src_concordia_atom_findingaid_pdf",
+        "src_otoreke_blog_2005"
       ],
       "open_questions": 7,
       "cross_links": [
@@ -2186,7 +2243,7 @@
         "the-kanawana-site"
       ],
       "file_id": null,
-      "word_count": 957,
+      "word_count": 1679,
       "notes": "E1 REVIEW (2026-02-19): Removed unverifiable 'Google Maps' source and '20 km' distance claim. Expanded 'Multiple sources' citation into discrete references (Facts sheet + McMorris). Removed src_oral_aronson (no inline citation). Removed unsourced bullet. Fixed postcard inference. Fixed closure section process language. Split 1967 conference/reports sentence. Renumbered sources 1-10. Added camp-otoreke cross-link to centennial-1967."
     },
     {
@@ -4630,6 +4687,12 @@
           "at": "2026-06-22T11:45:14.689724+00:00",
           "by": "auto",
           "task": "REVIEW"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-07-09T09:00:00Z",
+          "by": "auto",
+          "task": "RESEARCH"
         }
       ],
       "ralph_loops_completed": 2,
@@ -4641,9 +4704,28 @@
         "f_1363",
         "f_0872",
         "f_1430",
-        "f_0871"
+        "f_0871",
+        "f_1839",
+        "f_1840",
+        "f_1841",
+        "f_1842",
+        "f_1843",
+        "f_1844",
+        "f_1845"
       ],
-      "sources_cited": 7,
+      "sources_cited": [
+        "src_becsscie_association",
+        "src_bdll_becs_scie",
+        "src_patrimoine_qc_chapel",
+        "src_concordia_12L",
+        "src_ia_ymca_annual_1930",
+        "src_ia_ymca_annual_1934",
+        "src_ia_ymca_annual_1935",
+        "src_ia_ymca_annual_1936",
+        "src_ia_ymca_annual_1937",
+        "src_camp_amy_molson_mcgill_paper",
+        "src_batshaw_centre_history"
+      ],
       "open_questions": 7,
       "cross_links": [
         "the-kanawana-site",
@@ -4651,7 +4733,7 @@
         "quebec-camp-landscape"
       ],
       "file_id": null,
-      "word_count": 850
+      "word_count": 1714
     },
     {
       "article_id": "harold-potter",

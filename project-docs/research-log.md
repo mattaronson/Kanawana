@@ -3166,3 +3166,77 @@ priority items (1 flagged for human review — p_194 — and 4 for future resear
 v5.00 → **v5.02**. The Phase 2 broad-sweep mandate is judged substantially executed for this pass;
 the biggest remaining lead (the ~26 uncatalogued Flickr albums) awaits an operator scoping decision
 before further mining.
+
+---
+
+## Campaign 33: Article-by-Article Open-Questions Pass, Tier 2 (Billy Ball, Camp Otoreke, Camp Becsies, cross-cutting programs/coeducation)
+
+**Date:** 2026-07-09
+**Context:** Resuming the systematic article-by-article open-questions plan (Campaign 31 covered
+directors-index.md and places-and-locations.md) after the Phase 2 broad-sweep campaign, per the
+operator's "both, broad sweep first" instruction. This batch targeted the next tier: billy-ball.md,
+camp-otoreke.md, camp-becsies.md, and cross-cutting questions spanning programs-activities.md and
+coeducation-gender.md. A `sources-index.md` reconciliation (stale stats, 3 resolved questions) was
+done directly beforehand, not delegated.
+
+### Billy Ball — major breakthrough
+
+A formal RALPH pass (23 queries) discovered a 165-item digitized Montreal YMCA Annual Report
+collection on Internet Archive, not previously catalogued in this KB. Three independent primary
+sources now strongly corroborate "Billy Ball" as **William Henry Ball**, the YMCA of Montreal's
+Physical Director: the 1890-91 report (hiring, Yonkers origin, Springfield School graduate), reports
+1892-1900 (confirmed tenure spanning the 1894 founding), the 1902 report (resignation to the Prospect
+Park Branch, Brooklyn — matching his already-documented national career), and Lovell's Montreal
+Directory 1893-94 (independent, non-YMCA corroboration). Two honest caveats were preserved rather than
+smoothed over: no period document uses the "Billy" nickname, and no document credits him personally
+with leading the 1894 trip (a separate volunteer chairman, "John W. Ross," is named instead — possibly
+the same person as the already-documented "John Roy," a new open disambiguation question). Article
+confidence upgraded low → medium; 4 of 7 open questions resolved or largely resolved.
+
+### Camp Otoreke
+
+22 queries across 10+ surfaces. Confirmed the 1982 closure reason is a genuine dead end for online
+sources (would require a physical Concordia Archives visit, sub-series 12C). Re-mined an
+already-cited source (BaladoDecouverte) for unextracted detail (Victor Bergeron, log cabin, Bergin &
+Corbeil General Store). Found and cautiously flagged (explicit low-reliability caveat, not treated as
+confirmed) a self-published alumni blog suggesting informal post-closure private ownership and a
+1940s-1960s director sequence — none of these staff names are independently corroborated, so no stub
+articles were created for them, per CLAUDE.md's formal-RALPH requirement.
+
+### Camp Becsies — strong primary-source corroboration
+
+Downloaded and full-text-searched 30 years of digitized YMCA of Montreal Annual Reports (1929-1962).
+Found that Becsies began as Kanawana's own overflow/annex site (1929), that the Protestant Orphans'
+Home equipment loan spans four consecutive seasons (1933-1936, not just two as previously recorded),
+and that the 1934 and 1937 reports name Kanawana's own Camp Directors that era (W.H. Spearman;
+W.J.G. Macdiarmid) — independently corroborating Macdiarmid's already-documented tenure in
+directors-index.md. A comprehensive 21-year null check (1938-1962) confirms the 1936 end-date while
+ruling out simple Depression-driven cost-cutting as the explanation (Kanawana itself had record
+attendance the very next season). Property-divestment date and photograph content remain confirmed
+dead ends for online sources (JS-challenge-blocked archive page, no cadastral records found).
+
+### Cross-cutting programs/coeducation questions
+
+Resolved the "Kanawana Outing Club" (a distinct winter hiking/trail program, [197-]-1979) via direct
+Concordia finding-aid fetches, plus earlier winter-camping precedents (1945-1947, 1961) and a 1969
+"working paper on year-round use" predating the 1996 launch by 27 years. Found that Grace McMorris's
+own thesis explicitly declines to cover how coeducation affected the L&V Games — a documented
+non-answer in the existing academic literature, not merely unresearched. Corrected a stale KB
+inference (f_1366): Camp Thunderbird is now dated 1942-1943 via a specific finding-aid item, not "the
+mid-1970s" as previously guessed; the Wilderness Survival Camp's window is sharpened to 1973-1975.
+
+### Integration
+
+24 new facts (f_1829-f_1852) plus one in-place correction to a previously-hedged fact (f_1366), 12
+new source records, 6 wiki articles updated (billy-ball.md, camp-otoreke.md, camp-becsies.md,
+programs-activities.md, coeducation-gender.md, directors-index.md cross-link). KB v5.02 → v5.03. Also
+fixed a pre-existing data-quality bug in wiki/articles.json (camp-becsies' `sources_cited` field held
+a bare integer instead of a source-ID list).
+
+### Outcome
+
+Across the three place/person articles and the cross-cutting cluster, roughly 14 of ~30 targeted open
+questions were resolved, largely resolved, or confirmed as genuine (not merely unindexed) dead ends.
+Two low-confidence leads (Otoreke's post-closure ownership/director sequence) were deliberately not
+promoted to confident fact status, consistent with this project's handling of unverified
+single-source claims.

@@ -1,7 +1,7 @@
 # Coeducation and Gender at Kanawana
 
-*Status: E1-reviewed | Sources: src_mcmorris_thesis, src_kanawana_facts, src_ymca_website, src_concordia_12A, src_concordia_12B04, src_gas_bag_1923, src_ymca_john_island_newsletter, user_knowledge, src_mtl_families_gender, src_facebook_trans_inclusion*
-*Last Updated: 2026-07-09 (broad-sweep campaign: added the official Facebook "Stands with Trans Campers" institutional statement to the Mountaineer Program section)*
+*Status: E1-reviewed | Sources: src_mcmorris_thesis, src_kanawana_facts, src_ymca_website, src_concordia_12A, src_concordia_12B04, src_gas_bag_1923, src_ymca_john_island_newsletter, user_knowledge, src_mtl_families_gender, src_facebook_trans_inclusion, src_concordia_12L*
+*Last Updated: 2026-07-09 (open-questions research pass: L&V Games/coeducation question resolved as a documented non-answer per McMorris's own thesis; Camp Thunderbird redated to 1942-1943, correcting a prior "mid-1970s" inference; Camp Dorval/Wilderness Survival Camp dates confirmed/sharpened; added the official Facebook "Stands with Trans Campers" institutional statement to the Mountaineer Program section)*
 
 ## Overview
 
@@ -84,8 +84,8 @@ The Mountaineer program represents a conceptual shift from the 1968-1969 transit
 4. Did coeducation affect enrollment numbers? Was there resistance from parents or alumni?
 5. What was the relationship between Kanawana's coeducation and the closure of Camp Otoreke (1982)?
 6. Are there oral histories from the first cohort of girl campers in 1968 or 1969?
-7. How did coeducation affect the L&V Games, which had been structured around masculine competition themes (Lumbermen and Voyageurs)?
-8. What were the purposes and gender assignments of Camp Becsies (12D), Camp Dorval (12E), Camp Thunderbird (12I), and the Wilderness Survival Camp (12J) in the YMCA Montreal camp network?
+7. [Resolved as a documented non-answer, 2026-07-09] How did coeducation affect the L&V Games, which had been structured around masculine competition themes (Lumbermen and Voyageurs)? Grace McMorris's own thesis (re-mined via full-PDF extraction) explicitly declines to cover this: "A study of co-ed camps, or even of Kanawana's co-ed programming, is beyond the scope of my research," and her conclusion poses the identical question as her own unanswered future-research interest. This is a genuine, acknowledged gap in the existing academic literature, not merely unresearched by this project -- closing it would require the physical archive (Concordia P145/12B07 program-report folders, 1968-1980) or oral history.
+8. [Partially resolved 2026-07-09] What were the purposes and gender assignments of Camp Becsies (12D), Camp Dorval (12E), Camp Thunderbird (12I), and the Wilderness Survival Camp (12J) in the YMCA Montreal camp network? Direct fetches of all four Concordia finding-aid pages found no gender designation stated for any of the four. Dates were confirmed/corrected: Camp Dorval's 1926-1928 window is corroborated by specific finding-aid items (director's report 1926, season report 1928); **Camp Thunderbird is now dated to 1942-1943** (a finding-aid item titled "brochure, correspondence, reports, publicity — 1942-1943"), correcting this KB's prior "mid-1970s" inference; the Wilderness Survival Camp's window is sharpened to a precise 1973-1975 (several dated finding-aid items), well after coeducation was underway camp-wide, which at least weakly suggests (not confirms) it was not boys-only. Camp Becsies' Protestant Orphans' Home connection (see [[places/camp-becsies|Camp Becsies]]) doesn't establish a specific gender designation either, though the Home itself likely served both boys and girls.
 
 ## Sources
 
@@ -99,6 +99,7 @@ The Mountaineer program represents a conceptual shift from the 1968-1969 transit
 - Concordia University Archives, YMCA of Montreal fonds, sub-sub-series 12B04. https://www.concordia.ca/offices/archives/ymca-fonds-sub-sub-series-12B04.html
 - Montreal Families, "Gender-Expansive Options at Summer Camp" (article discussing Kanawana's approach under Kate Taylor).
 - [fb] "Camp YMCA Kanawana Stands with Trans Campers," official Facebook video/post [src_facebook_trans_inclusion].
+- Concordia University Archives, YMCA of Montreal fonds, sub-series 12D (Camp Becsies), 12E (Camp Dorval), 12I (Camp Thunderbird), 12J (Wilderness Survival Camp) [src_concordia_12L].
 
 ## R3 Verification Notes
 
