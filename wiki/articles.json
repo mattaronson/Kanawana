@@ -527,7 +527,8 @@
         "f_0688",
         "f_0700",
         "f_1286",
-        "f_1048"
+        "f_1048",
+        "f_1777"
       ],
       "sources_cited": [
         "src_mcmorris_thesis",
@@ -536,7 +537,8 @@
         "src_kanawana_facts",
         "src_gas_bag_1923",
         "src_ymca_john_island_newsletter",
-        "src_mtl_families_gender"
+        "src_mtl_families_gender",
+        "src_ymca_quebec_history"
       ],
       "open_questions": 8,
       "cross_links": [
@@ -588,6 +590,12 @@
           "at": "2026-02-19T00:00:00Z",
           "by": "auto",
           "task": "REVIEW"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-07-08T00:00:00Z",
+          "by": "auto",
+          "task": "RESEARCH"
         }
       ],
       "ralph_loops_completed": 2,
@@ -726,7 +734,12 @@
         "f_1334",
         "f_1368",
         "f_1369",
-        "f_1370"
+        "f_1370",
+        "f_1780",
+        "f_1781",
+        "f_1782",
+        "f_1783",
+        "f_1784"
       ],
       "sources_cited": [
         "src_banq_le_droit_1937_06_25",
@@ -760,7 +773,7 @@
         "quebec-camp-landscape"
       ],
       "file_id": "1oqLoU6_bzWD_9jXwXQgYNm_EqLCEfNjR",
-      "word_count": 2666,
+      "word_count": 3128,
       "notes": "v4.75: Noosphere section expanded — Zinner thesis (McGill 1973), Third World Village model, Montreal-matin article."
     },
     {
@@ -1619,6 +1632,12 @@
           "at": "2026-02-19T04:30:00Z",
           "by": "auto",
           "task": "REVIEW"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-07-08T00:00:00Z",
+          "by": "auto",
+          "task": "VERIFY"
         }
       ],
       "ralph_loops_completed": 3,
@@ -1663,7 +1682,9 @@
         "f_1532",
         "f_1533",
         "f_1539",
-        "f_1540"
+        "f_1540",
+        "f_1778",
+        "f_1779"
       ],
       "sources_cited": [
         "src_qahn_howard",
@@ -1690,7 +1711,7 @@
         "founding-1894"
       ],
       "file_id": null,
-      "word_count": 1448,
+      "word_count": 1979,
       "notes": "E1 REVIEW (2026-02-19): Fixed Frederick row in Eight Sons table (birthplace clarified in Occupation column). All 7 checklist items satisfied. Advanced R3-verified → E1-reviewed."
     },
     {
@@ -3126,6 +3147,12 @@
           "at": "2026-03-15T16:00:00Z",
           "by": "auto",
           "task": "REVIEW"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-07-08T00:00:00Z",
+          "by": "auto",
+          "task": "VERIFY"
         }
       ],
       "ralph_loops_completed": 2,
@@ -3146,7 +3173,9 @@
         "f_0653",
         "f_0818",
         "f_0832",
-        "f_0939"
+        "f_0939",
+        "f_0938",
+        "f_1277"
       ],
       "sources_cited": [
         "src_mcmorris_thesis",
@@ -3164,7 +3193,7 @@
         "traditions-and-culture"
       ],
       "file_id": null,
-      "word_count": 978
+      "word_count": 990
     },
     {
       "article_id": "rh-hanagan",

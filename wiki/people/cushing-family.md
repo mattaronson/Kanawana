@@ -2,13 +2,13 @@
 
 <!-- status: E1-reviewed -->
 <!-- confidence: medium -->
-<!-- last_updated: 2026-06-24 -->
-<!-- last_editor: v52 -->
-<!-- ralph_loops: cushing-family-stub, cushing-family-R1, cushing-genealogy-extraction, p_126-genealogy-full-mine -->
+<!-- last_updated: 2026-07-08 -->
+<!-- last_editor: campaign-29-conflict-resolution -->
+<!-- ralph_loops: cushing-family-stub, cushing-family-R1, cushing-genealogy-extraction, p_126-genealogy-full-mine, c_012-resolution -->
 
 ## Summary
 
-The Cushing family had a multi-generational connection to the YMCA of Montreal spanning from the 1860s through at least the 1940s. The patriarch Lemuel Cushing Sr. (1806-1875), a businessman of United Empire Loyalist descent, had thirteen children including eight sons who became prominent in Montreal business and civic life.^1 His son Lemuel Cushing Jr. (1842-1881) served as YMCA president in 1869-1870 and published *The Genealogy of the Cushing Family* (1877).^2 A later Lemuel Cushing — whose exact identity remains uncertain — brought the first group of boys to Lake Saint-Joseph in 1892, inaugurating the Montreal YMCA's camping program two years before the formal establishment of Camp Jubilee.^3 W.E. Cushing wrote historical sketches about the Lake Saint-Joseph camps in 1943, and a Dr. Cushing advised keeping Camp Kanawana open during the 1946 polio outbreak.^4 ^5
+The Cushing family had a multi-generational connection to the YMCA of Montreal spanning from the 1860s through at least the 1940s. The patriarch Lemuel Cushing Sr. (1806-1875), a businessman of United Empire Loyalist descent, had thirteen children including eight sons who became prominent in Montreal business and civic life.^1 His son Lemuel Cushing Jr. (1842-1881) served as president of the main Montreal YMCA in 1867-68 and published *The Genealogy of the Cushing Family* (1877).^2 A later Lemuel Cushing — whose exact identity remains uncertain — brought the first group of boys to Lake Saint-Joseph in 1892, inaugurating the Montreal YMCA's camping program two years before the formal establishment of Camp Jubilee.^3 W.E. Cushing wrote historical sketches about the Lake Saint-Joseph camps in 1943, and a Dr. Cushing advised keeping Camp Kanawana open during the 1946 polio outbreak.^4 ^5
 
 ## The Patriarch: Lemuel Cushing Sr. (1806-1875)
 
@@ -18,7 +18,7 @@ Lemuel Cushing was born April 29, 1806 in Trois-Rivières, Lower Canada, the eig
 
 | Son | Dates | Occupation/Distinction |
 |-----|-------|----------------------|
-| Lemuel Jr. | 1842-1881 | Lawyer, MP for Argenteuil 1874-1875, YMCA president 1869-1870 |
+| Lemuel Jr. | 1842-1881 | Lawyer, MP for Argenteuil 1874-1875, Montreal YMCA president 1867-68 |
 | Thomas | 1843–? | Founded Montreal Brewing Company (1876); its President and Manager as of 1905 |
 | Charles | 1848–? | Notary (McGill B.C.L. 1869), published *Cushing's Notarial Form Book* (1887); Sun Life director (1904); married Lily Macaulay, daughter of Sun Life president Robertson Macaulay |
 | Francis | dates unknown | Founded Cushing's Island Company (Maine, 1883), hired Frederick Law Olmsted |
@@ -29,7 +29,7 @@ Lemuel Cushing was born April 29, 1806 in Trois-Rivières, Lower Canada, the eig
 
 ## Lemuel Cushing Jr. and the YMCA (1842-1881)
 
-Lemuel Jr. was called to the Montreal bar in 1865 and served as president of the Montreal YMCA from 1869 to 1870 — the first documented Cushing-YMCA connection.^2 (The 1901 *Historical Sketch of the YMCA of Montreal* instead dates his presidency to 1867-68; this primary-source discrepancy is recorded as conflict c_012.)^11 He married Ellen Myra Macdougall in 1869 and represented Argenteuil as a Member of Parliament from 1874 to 1875. In 1877 he published *The Genealogy of the Cushing Family*, tracing the lineage from 1638.^2 He died March 1, 1881 at age 39.
+Lemuel Jr. was called to the Montreal bar in 1865 and served as president of the main Montreal YMCA in 1867-68 — the first documented Cushing-YMCA connection.^11 A Wikipedia-sourced claim (citing Morgan's 1875 *Canadian Parliamentary Companion*) instead dates his YMCA presidency to 1869-1870;^2 this was logged as conflict c_012. A direct reading of the 1901 *Historical Sketch*'s own presidents list (2026-07-08) shows T. James Claxton, not Cushing, holding the main-organization presidency in 1869-73, and separately documents "Lemuel Cushing, jr." as president of a distinct, short-lived Point St. Charles branch YMCA — likely the actual source of the 1869-1870 date, if a later secondary source conflated the branch role with the main presidency. Conflict c_012 is now likely resolved in favour of 1867-68 for the main Montreal YMCA presidency. He married Ellen Myra Macdougall in 1869 and represented Argenteuil as a Member of Parliament from 1874 to 1875. In 1877 he published *The Genealogy of the Cushing Family*, tracing the lineage from 1638.^2 He died March 1, 1881 at age 39.
 
 Lemuel Jr. and Ellen had four children, all born in Montreal: Walter Edgar (b. 1870), Harold Beveridge (b. 1873, later a physician at Royal Victoria Hospital), Florence Ethelwyn (b. 1874), and James Stevenson (b. 1878).^6 None were named Lemuel.
 
@@ -96,7 +96,7 @@ A different **Walter Edgar Cushing** (Dartmouth College, Class of 1909) served w
 8. McGill University Faculty of Medicine records; Cushing Memorial Prize documentation.
 9. Dartmouth College alumni records, Class of 1909.
 10. FamilySearch, Cushing genealogy supplement 1905-1969 (item 235744).
-11. YMCA of Montreal Annual Report (41st, 1892) and Historical Sketch of the YMCA of Montreal 1851-1901 (Internet Archive). [Note: the 1901 sketch dates Lemuel Jr.'s presidency to 1867-68; see conflict c_012.]
+11. YMCA of Montreal Annual Report (41st, 1892) and Historical Sketch of the YMCA of Montreal 1851-1901 (Internet Archive), read in full 2026-07-08. Its own presidents list gives 1867-68 for Lemuel Cushing Jr.'s main-organization presidency, 1869-73 for T. James Claxton, and separately names Cushing as president of a distinct Point St. Charles branch YMCA — see conflict c_012 (likely resolved).
 
 ## Research Notes
 

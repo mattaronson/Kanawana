@@ -1,7 +1,7 @@
 # Taylor Statten and the Canadian Camping Movement
 
 *Status: E1-reviewed | Sources: src_mcmorris_thesis, src_tsc_history, src_wikipedia_tuxis, src_oca_archives, src_wikipedia_cca, src_aca_presidents*
-*Last Updated: 2026-03-15 (E1 REVIEW pass — editorial issues fixed, status advanced)*
+*Last Updated: 2026-07-08 (conflict c_003 resolved: direct re-fetch of the ACA presidents page confirmed 1942, correcting an earlier misreading)*
 
 ## Overview
 
@@ -33,7 +33,7 @@ Hedley S. Dimock and Charles Hendry, both affiliated with Columbia University, c
 
 The Ontario Camping Association was founded in 1933 with Statten as a founding member, alongside A.L. Cochrane, Mary Edgar, Mary Hamilton, Ferna Halliday, and Ethel Statten.^5
 
-On May 20, 1936, the Canadian Camping Association was founded at the Central Y.M.C.A. in Toronto, with Statten as first president and Mary Edgar as first vice-president.^6 Statten was also elected president of the American Camp Association in 1941 but resigned due to illness; Vice-President Wes Klusmann assumed responsibilities.^7 (The CCA's own history gives 1942 as his ACA presidency year; this discrepancy is logged in conflicts.json as c_003.)
+On May 20, 1936, the Canadian Camping Association was founded at the Central Y.M.C.A. in Toronto, with Statten as first president and Mary Edgar as first vice-president.^6 Statten was also elected president of the American Camp Association in 1942 but resigned due to illness; Vice-President Wes Klusmann assumed responsibilities.^7
 
 ## Connection to Kanawana
 
@@ -67,4 +67,4 @@ Taylor Statten Camps first sent groups to Quetico in 1965 as part of the OCA Cen
 4. Wikipedia, "TUXIS," https://en.wikipedia.org/wiki/TUXIS — CSET fourfold philosophy, Trail Rangers/TUXIS structure, CGIT parallel, 1917 Parliament.
 5. Ontario Camping Association, "History," https://ontariocampsassociation.ca/about/history/
 6. Canadian Camping Association, "History," https://www.ccamping.org/history
-7. ACA Presidents History, https://www.acacamps.org/about/history/presidents — Statten elected 1941, resigned due to illness.
+7. ACA Presidents History, https://www.acacamps.org/about/history/presidents — Statten elected 1942, resigned due to illness; Esther Waldo of the YWCA held the separate 1941 term. (Direct re-fetch 2026-07-08 corrected an earlier misreading of this same page that had placed Statten under 1941 — conflict c_003 resolved.)

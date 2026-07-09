@@ -2835,3 +2835,105 @@ Six Internet Archive items, all confirmed reachable via direct WebFetch:
 items reference the pre-2026-07-07 network policy as their sole blocker — the rest of the 28 are
 genuinely blocked on paywalls, physical archive access, or operator-only actions (oral history,
 personal contact, Facebook browsing).
+
+---
+
+## Campaign 30: Conflict re-verification + Zinner Noosphere thesis (autonomous session)
+
+**Date:** 2026-07-08
+**Trigger:** Operator stepped away and asked what could move the build forward unattended. With the
+priority queue's actionable items exhausted (Campaign 29), the remaining productive autonomous work
+was (a) hunting for tie-breaking sources on the 7 still-unresolved KB conflicts, and (b) re-testing
+a couple of previously-blocked leads on the theory that platform/network changes might have
+quietly unblocked them since they were last tried.
+
+### Conflict re-verification results
+
+- **c_001** (coeducation 1968 vs 1969): direct-fetched the live YMCA Quebec history page. It
+  currently states "1968 – Kanawana starts to welcome girl campers" as an official milestone
+  (f_1777). This closes a real KB bookkeeping gap — f_0201 (the 1968 fact) had only ever been
+  sourced to oral history (src_oral_aronson), even though the article prose already correctly
+  attributed 1968 to the YMCA website. Importantly, this does NOT resolve the conflict: it's
+  genuinely two documented institutional sources disagreeing with each other (the YMCA's own
+  history timeline says 1968; its own Kamp Kanawana Facts sheet says 1969), so the operator's
+  "oral history yields to documents" policy doesn't apply — both sides are documented. Remains
+  open for editorial judgment or further archival work (the Co-ed Camping Pilot Project records,
+  1967-1970, at Concordia could support a phased answer: 1968 pilot, 1969 full integration).
+- **c_003** (Taylor Statten's ACA presidency, 1941 vs 1942): RESOLVED. Re-fetched the ACA's own
+  presidents history page directly and had it list every entry 1938-1945 to check the table
+  structure precisely. Statten is listed under 1942; a separate 1941 entry belongs to Esther Waldo
+  of the YWCA. The original "1941" reading in the KB (f_0938) was a straightforward misextraction
+  of the same page, not a genuine second source — confirmed by finding a second KB fact (f_1277,
+  from an earlier websearch pass) that already had the correct 1942 date. Also discovered the
+  conflict record itself had a data-entry bug: it cited fact_id f_0892 as the "1942" corroborating
+  fact, but f_0892 is actually an unrelated Camp Ouareau team-names fact — a copy-paste error from
+  whenever c_003 was created. Corrected f_0938's claim text in place (noting the correction rather
+  than silently rewriting history), fixed the conflict's fact_ids, and updated
+  `wiki/people/taylor-statten.md` to 1942, removing the inline "logged as conflict c_003" caveat.
+- **c_008** (Camp Otoreke island count, two vs three): re-fetched both qahn.org and
+  baladodecouverte.com directly (both previously only reachable via search-snippet extraction).
+  Neither page's current text gave a clean, re-quotable exact island count or 1897 date in this
+  pass — QAHN says only "situated on several islands," and BaladoDecouverte's specific claim wasn't
+  found on the POI page checked (it may live on a different page within the same walking-tour
+  circuit). Logged the re-check; not resolved, and not worth further remote-research time without
+  first identifying which exact page the 1897/two-islands claim came from.
+- **c_012** (Lemuel Cushing Jr.'s YMCA presidency, 1867-68 vs 1869-70): LIKELY RESOLVED. Read the
+  1901 *Historical Sketch*'s full text directly (previously only partially quoted) and had it
+  extract the complete chronological presidents list. It runs ...1865-66 David Bentley, 1867-68
+  Lemuel Cushing, 1869-73 T. James Claxton... (f_1778) — internally consistent, no gap or overlap,
+  and it explicitly assigns 1869-73 to Claxton, not Cushing. The same document separately names
+  "Lemuel Cushing, jr." as president of a distinct, short-lived Point St. Charles branch YMCA
+  (f_1779) — a different office from the main organization. The 1869-1870 claim (Wikipedia, citing
+  Morgan's 1875 *Canadian Parliamentary Companion*) most plausibly conflates that branch
+  presidency with the main-organization role in a later secondary source, though this isn't fully
+  confirmed without reading Morgan's original 1875 entry directly. Updated
+  `wiki/people/cushing-family.md` throughout (summary, sons' table, main narrative, footnote 11).
+
+### Zinner's 1973 Noosphere thesis — finally read in full
+
+`p_166` had been blocked since 2026-06-22 on McGill eScholarship requiring authentication. A
+re-check found the platform had migrated wholesale to `mcgill.scholaris.ca` — the old URL now
+301-redirects there, and the thesis PDF downloads without any login. The file is a 176-page
+Adobe-Acrobat-OCR'd scan; `poppler-utils` (previously absent from the environment) was installed
+via `apt-get` to render and full-text-search it.
+
+Key findings, all new to the KB:
+- **Actual attendance**: 46 participants aged 15–20 (not the ~100 aged 16–19 reported by *Le
+  Soleil* on July 7, 1971, three weeks before the event started). The thesis itself explains the
+  gap: organizers "had hoped to attract nearly double the number of participants that were in fact
+  engaged" — meaning the ~100 figure was a recruitment target, not a final headcount. Clean
+  reconciliation, no real contradiction (f_1780).
+- **Organizers**: the "Noosphere Committee," funded by the federal "Opportunities for Youth" grant;
+  Pierre Devrud as co-author of the scenario and game master; Professor Harold M. Waller (McGill
+  Political Science) as Zinner's thesis adviser (f_1783).
+- **Structure**: three villages by language — English ("Cannabis," 12 people, in an electrified
+  farmhouse with kitchen and plumbing), Bilingual ("Slide dans Slutch," 17 people, tents on
+  platforms), French ("Triquenimo," 16 people, named from Trois-Rivières/Québec/Nicolet/Montreal —
+  the home regions of its members — in ground tents with the crudest facilities) (f_1782). The
+  farmhouse-plus-tents mix matches Front Camp's documented Farmhouse.
+- **Chronology**: game began Sunday, August 22, 1971; a staged in-game "coup" on August 27 saw a
+  capitalist faction in the English village kill six opposing members (via coloured water pistols)
+  and co-opt the lone neutral holdout, reversing an earlier village vote to abolish money — the
+  central turning point of the two-week scenario (f_1784).
+- **Venue never named**: a full-text search across all 176 pages for "Kanawana," "YMCA,"
+  "Saint-Sauveur," and "Shawbridge" returned zero hits. Zinner describes the venue only as "a
+  summer camp...in the Laurentian Mountains near Montreal," rented for three weeks. The Kanawana
+  identification for this event rests entirely on the newspaper coverage, not on the thesis itself
+  — worth stating plainly rather than leaving implicit (f_1781).
+
+Also fixed a small standing bug while in the article: `wiki/programs/programs-activities.md`'s
+header cited a source_id (`src_zinner_thesis_1973`) that was never actually created as a source
+record — a dangling reference, presumably left over from an early draft before the real record
+(`src_mcgill_escholarship_zinner`) was registered. Corrected to the real id.
+
+Re-tested the University of Minnesota Kautz Family YMCA Archives (`p_061`/`p_164`) on the same
+theory — still a genuine site-side 403, unrelated to the egress-proxy fix. No change; remains
+accurately blocked.
+
+### Outcome
+
+16 new facts (f_1777–f_1784, plus 6 already logged in Campaign 29 for a running total of 22 new
+facts today), 0 new sources (2 existing sources — the ACA presidents page and the Zinner thesis —
+fully (re-)extracted). 2 conflicts resolved/likely-resolved (c_003, c_012), 1 clarified without
+resolving (c_001), 1 re-checked without progress (c_008). KB v4.99, 1,746 facts. `p_166` and
+`p_167` marked completed in `queue/priorities.json`.

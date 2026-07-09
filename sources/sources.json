@@ -6921,14 +6921,14 @@
       "date": "1973",
       "date_precision": "year",
       "origin": "web",
-      "origin_url": "https://escholarship.mcgill.ca/concern/theses/6w924d11w",
+      "origin_url": "https://mcgill.scholaris.ca/items/070685e4-ddbd-4a34-9110-8420d80720aa",
       "cache_path": null,
-      "char_count": 0,
+      "char_count": 176,
       "ingested_at": "2026-06-22T00:00:00Z",
-      "extracted": false,
-      "extraction_version": null,
+      "extracted": true,
+      "extraction_version": "v4.99",
       "reliability": "primary",
-      "notes": "MA thesis documenting the Noosphere international development simulation. Almost certainly describes the 1971 Camp Kanawana event. Full text not yet accessed. Also listed on Google Books (id: ZgvVvAEACAAJ)."
+      "notes": "MA thesis documenting the Noosphere international development simulation. Almost certainly describes the 1971 Camp Kanawana event.  Also listed on Google Books (id: ZgvVvAEACAAJ). Full thesis (176 pages) read directly 2026-07-08 after the McGill eScholarship platform migrated to mcgill.scholaris.ca (the old escholarship.mcgill.ca URL now redirects there). Never names Camp Kanawana explicitly -- describes the venue only as a rented summer camp in the Laurentian Mountains near Montreal (f_1781). Yielded 5 new facts (f_1780-f_1784): actual participant count/ages, organizers, chronology highlights including the August 27 in-game coup."
     },
     {
       "source_id": "src_banq_montreal_matin_1971_08_24",

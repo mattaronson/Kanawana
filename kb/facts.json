@@ -2,7 +2,7 @@
   "version": "v4.98",
   "kb_version": "v4.99",
   "migrated_from": "3.3",
-  "fact_count": 1738,
+  "fact_count": 1746,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -3381,7 +3381,8 @@
       ],
       "date_ref": "1969",
       "conflicts_with": [
-        "f_0201"
+        "f_0201",
+        "f_1777"
       ],
       "added_version": "4.0",
       "added_by": "auto_extraction"
@@ -15340,7 +15341,7 @@
     },
     {
       "fact_id": "f_0938",
-      "claim": "Taylor Statten was elected ACA president in 1941 but resigned due to illness; VP Wes Klusmann assumed responsibilities.",
+      "claim": "Taylor Statten was elected ACA president in 1942 but resigned due to illness; VP Wes Klusmann assumed responsibilities. (Corrected 2026-07-08 from an earlier misreading of the same ACA presidents page as 1941 -- that year belongs to a separate entry for Esther Waldo of the YWCA. See f_1277 and conflict c_003.)",
       "sources": [
         "src_aca_presidents"
       ],
@@ -30142,6 +30143,144 @@
         "D.A. Budge"
       ],
       "date_ref": "1873-1890",
+      "conflicts_with": [],
+      "added_version": "v4.99",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_1777",
+      "claim": "The YMCA Quebec official history page (ymcaquebec.org, fetched directly 2026-07-08) lists \"1968 – Kanawana starts to welcome girl campers\" as a milestone: \"Kawanana welcomed girls to its camp for the first time, beginning a long tradition of inclusion and diversity.\"",
+      "sources": [
+        "src_ymca_quebec_history"
+      ],
+      "confidence": "stated",
+      "category": "coeducation",
+      "entities": [
+        "Camp Kanawana",
+        "coeducation"
+      ],
+      "date_ref": "1968",
+      "conflicts_with": [
+        "f_0200"
+      ],
+      "added_version": "v4.99",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_1778",
+      "claim": "The 1901 'Historical Sketch of the YMCA of Montreal' (read in full 2026-07-08) gives its own chronological presidents list for the main Montreal YMCA: ...1865-66 David Bentley, 1867-68 Lemuel Cushing, 1869-73 T. James Claxton... This places T. James Claxton, not Lemuel Cushing Jr., as president of the main Montreal YMCA during 1869-70.",
+      "sources": [
+        "src_ia_historical_sketch_1901"
+      ],
+      "confidence": "stated",
+      "category": "chronology",
+      "entities": [
+        "Lemuel Cushing Jr.",
+        "T. James Claxton",
+        "YMCA Montreal"
+      ],
+      "date_ref": "1851-1901",
+      "conflicts_with": [],
+      "added_version": "v4.99",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_1779",
+      "claim": "The 1901 Historical Sketch separately records that a distinct Point St. Charles branch YMCA was formed 'with Mr. Lemuel Cushing, jr., as President, and Mr. J. R. Dougall as Secretary. It continued for two years and then disbanded.' This is a different office from the main Montreal YMCA presidency, and may be the source of the 1869-70 dating found elsewhere (via Morgan's 1875 'Canadian Parliamentary Companion', cited by Wikipedia) if that branch presidency has been conflated with the main-organization role in later secondary sources.",
+      "sources": [
+        "src_ia_historical_sketch_1901"
+      ],
+      "confidence": "stated",
+      "category": "chronology",
+      "entities": [
+        "Lemuel Cushing Jr.",
+        "Point St. Charles YMCA"
+      ],
+      "date_ref": "1851-1901",
+      "conflicts_with": [],
+      "added_version": "v4.99",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_1780",
+      "claim": "Gabor Zinner's own 1973 MA thesis on the Noosphere simulation (read in full 2026-07-08, previously access-gated) gives the actual final numbers: 46 participants total, aged 15-20, organized by a 'Noosphere Committee' funded by the Canadian government's 'Opportunities for Youth' grant program. The thesis itself notes organizers 'had hoped to attract nearly double the number of participants that were in fact engaged' -- reconciling this with the pre-event Le Soleil article (July 7, 1971, f_1330/f_1524) reporting an anticipated ~100 participants aged 16-19 organized via 'Perspective-Jeunesse': the ~100 figure was a recruitment target reported before the event, not final attendance.",
+      "sources": [
+        "src_mcgill_escholarship_zinner"
+      ],
+      "confidence": "stated",
+      "category": "programs",
+      "entities": [
+        "Noosphere",
+        "Gabor Zinner"
+      ],
+      "date_ref": "1971",
+      "conflicts_with": [],
+      "added_version": "v4.99",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_1781",
+      "claim": "Zinner's thesis describes the venue only as 'a summer camp...in the Laurentian Mountains near Montreal,' rented for three weeks; a full-text search of all 176 pages (2026-07-08) found no mention of 'Kanawana,' 'YMCA,' 'Saint-Sauveur,' or 'Shawbridge' anywhere in the thesis. The Kanawana identification for the venue rests entirely on the newspaper coverage (Le Soleil, Montreal-matin), not on the thesis itself.",
+      "sources": [
+        "src_mcgill_escholarship_zinner"
+      ],
+      "confidence": "stated",
+      "category": "programs",
+      "entities": [
+        "Noosphere",
+        "Camp Kanawana"
+      ],
+      "date_ref": "1971",
+      "conflicts_with": [],
+      "added_version": "v4.99",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_1782",
+      "claim": "The Noosphere simulation began Sunday, August 22, 1971, with participants divided into three villages by language/ethnicity: an English village ('Cannabis,' 12 people, housed in an electrified farmhouse with kitchen and indoor plumbing), a bilingual village ('Slide dans Slutch,' 17 people, in tents on platforms), and a French village ('Triquenimo,' 16 people, named from the first syllables of Trois-Rivières/Québec/Nicolet/Montreal, indicating where those participants were recruited from -- housed in ground tents with the crudest facilities of the three). The farmhouse-plus-tents facility mix matches Camp Kanawana's documented Front Camp Farmhouse.",
+      "sources": [
+        "src_mcgill_escholarship_zinner"
+      ],
+      "confidence": "stated",
+      "category": "programs",
+      "entities": [
+        "Noosphere"
+      ],
+      "date_ref": "1971-08-22",
+      "conflicts_with": [],
+      "added_version": "v4.99",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_1783",
+      "claim": "The Noosphere simulation's acknowledgements name Pierre Devrud as co-author of the scenario and game master, and Professor Harold M. Waller (McGill Political Science) as Gabor Zinner's thesis adviser.",
+      "sources": [
+        "src_mcgill_escholarship_zinner"
+      ],
+      "confidence": "stated",
+      "category": "programs",
+      "entities": [
+        "Noosphere",
+        "Pierre Devrud",
+        "Harold M. Waller"
+      ],
+      "date_ref": "1971-1973",
+      "conflicts_with": [],
+      "added_version": "v4.99",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_1784",
+      "claim": "On August 27, 1971 (the sixth day of the Noosphere simulation), a 'capitalist' faction within the English village staged an in-game coup after the village had voted to abolish money: they killed six opposing members and co-opted the one neutral individual, reinstating a market economy. The revolution became the central turning point in the two-week scenario, per Zinner's thesis chronology.",
+      "sources": [
+        "src_mcgill_escholarship_zinner"
+      ],
+      "confidence": "stated",
+      "category": "programs",
+      "entities": [
+        "Noosphere"
+      ],
+      "date_ref": "1971-08-27",
       "conflicts_with": [],
       "added_version": "v4.99",
       "added_by": "manual"

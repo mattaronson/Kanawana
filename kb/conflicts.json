@@ -6,7 +6,8 @@
       "description": "Coeducation start date: 1968 vs 1969",
       "fact_ids": [
         "f_0200",
-        "f_0201"
+        "f_0201",
+        "f_1777"
       ],
       "entity": "Camp Kanawana",
       "attribute": "coeducation_start_date",
@@ -15,7 +16,7 @@
         "1968 (YMCA Quebec website)"
       ],
       "status": "unresolved",
-      "notes": "YMCA website says 1968; Kanawana Facts sheet says 1969. Both are official YMCA sources. v49 handoff confirmed the discrepancy exists on the live site.",
+      "notes": "YMCA website says 1968; Kanawana Facts sheet says 1969. Both are official YMCA sources. v49 handoff confirmed the discrepancy exists on the live site. Update 2026-07-08: direct fetch of the live YMCA Quebec history page confirms it currently states \"1968 - Kanawana starts to welcome girl campers\" as an official institutional milestone (f_1777) -- this is a genuine second documented source for 1968, not just oral history (f_0201's oral-history sourcing was a KB gap; the article prose already correctly attributed 1968 to the YMCA website, the fact record just hadn't caught up). So this remains a genuine two-documented-source conflict (YMCA Quebec's official timeline: 1968; the YMCA Kamp Kanawana Facts sheet: 1969) with oral history corroborating the 1968 side -- not resolved by the oral-history-yields-to-documents policy, since both sides have documentary backing. Still needs an editorial call, or the Co-ed Camping Pilot Project records (1967-1970) at Concordia, which could support both being correct at different phases (pilot vs. full integration).",
       "created_at": "2026-02-11T06:00:00Z",
       "affects_articles": [
         "coeducation-gender"
@@ -43,16 +44,15 @@
       "description": "Taylor Statten ACA presidency year: 1941 vs 1942",
       "fact_ids": [
         "f_0938",
-        "f_0892"
+        "f_1277"
       ],
       "entity": "Taylor Statten",
       "attribute": "aca_presidency_year",
       "values": [
-        "1941 (ACA Presidents page — elected 1941, resigned due to illness)",
-        "1942 (CCA history source)"
+        "1942 (ACA Presidents page, direct re-fetch 2026-07-08)"
       ],
-      "status": "unresolved",
-      "notes": "ACA official presidents list says 1941 with illness resignation; CCA-derived fact says 1942. May reflect election year vs service year distinction.",
+      "status": "resolved",
+      "notes": "ACA official presidents list says 1941 with illness resignation; CCA-derived fact says 1942. May reflect election year vs service year distinction. RESOLVED 2026-07-08: the conflict record had cited the wrong fact_id (f_0892, an unrelated Camp Ouareau fact -- a data-entry error) for the '1942' side; the correct corroborating fact was f_1277. A direct re-fetch of the ACA presidents page confirms Statten is listed under 1942, with a separate 1941 entry belonging to Esther Waldo of the YWCA -- the original 1941 reading (f_0938) was a straightforward misextraction of the same source, not a genuine second source. f_0938's claim text corrected in place; wiki/people/taylor-statten.md updated to 1942 and its inline 'discrepancy logged as c_003' note removed.",
       "created_at": "2026-03-15T15:00:00Z",
       "affects_articles": [
         "taylor-statten",
@@ -151,7 +151,7 @@
         "Two islands acquired 1897 (BaladoDiscovery)"
       ],
       "status": "unresolved",
-      "notes": "Both are secondary sources. The 1897 acquisition date in BaladoDiscovery is new — may represent a formal purchase distinct from the 1894 founding. The f_0017 fact says 'main island plus two others' suggesting three total. The two-vs-three discrepancy may reflect different sources counting the mainland landing differently.",
+      "notes": "Both are secondary sources. The 1897 acquisition date in BaladoDiscovery is new — may represent a formal purchase distinct from the 1894 founding. The f_0017 fact says 'main island plus two others' suggesting three total. The two-vs-three discrepancy may reflect different sources counting the mainland landing differently. Re-checked 2026-07-08: both qahn.org and baladodecouverte.com read directly (previously inaccessible/only search-snippet-extracted); neither page's current text gives a clean, quotable exact island count or 1897 date in the sections surfaced -- QAHN says only 'situated on several islands', BaladoDecouverte's island/1897 claim wasn't found on the specific POI page checked (may be on a different page in the same circuit, or the extraction summarized around it). Still unresolved; not worth further remote-research time without narrowing which exact page/POI the 1897 claim came from.",
       "created_at": "2026-06-24T07:00:00Z",
       "affects_articles": [
         "camp-otoreke"
@@ -225,7 +225,9 @@
       "description": "Lemuel Cushing Jr. YMCA Montreal presidency: 1867-68 (1901 historical sketch) vs 1869-70 (other sources).",
       "fact_ids": [
         "f_1539",
-        "f_1160"
+        "f_1160",
+        "f_1778",
+        "f_1779"
       ],
       "entity": "Lemuel Cushing Jr.",
       "attribute": "ymca_presidency_dates",
@@ -233,8 +235,8 @@
         "1867-1868",
         "1869-1870"
       ],
-      "status": "unresolved",
-      "notes": "1901 primary-source sketch vs later secondary sources. Primary source may be more reliable.",
+      "status": "likely_resolved",
+      "notes": "1901 primary-source sketch vs later secondary sources. Primary source may be more reliable. Update 2026-07-08: read the 1901 Historical Sketch's full text directly. It gives its own presidents list for the MAIN Montreal YMCA -- 1865-66 David Bentley, 1867-68 Lemuel Cushing, 1869-73 T. James Claxton (f_1778) -- which is internally consistent (no overlap) and supports 1867-68 for the main-organization presidency. The same document separately names 'Lemuel Cushing, jr.' as president of a distinct, short-lived Point St. Charles branch YMCA (f_1779) -- a different office. The 1869-1870 dating (Wikipedia, citing Morgan's 1875 'Canadian Parliamentary Companion') may reflect a later conflation of the branch presidency with the main-organization role, though this isn't fully confirmed without reading Morgan's original 1875 entry directly. Likely resolved in favour of 1867-68 for the main Montreal YMCA presidency; the 1869-70 claim likely refers to the separate Point St. Charles branch.",
       "created_at": "2026-06-26T00:00:00Z",
       "affects_articles": [
         "cushing-family"
