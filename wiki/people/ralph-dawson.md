@@ -1,7 +1,7 @@
 # Ralph Dawson
 
 *Status: E1-reviewed | Sources: src_concordia_fonds, src_concordia_12L, src_concordia_atom_fonds, src_concordia_atom_12A, src_mcmorris_thesis, src_web_search_2026_03*
-*Last Updated: 2026-06-24 (third biographical campaign: 40+ searches, all null — research exhausted)*
+*Last Updated: 2026-07-09 (McMorris's thesis read directly as a full PDF for the first time — previously only user-pasted excerpts had been extracted — resolving open question #4 and adding a new lean on question #1)*
 
 ## Overview
 
@@ -15,7 +15,7 @@ Dawson appears in an 1898 photograph labelled "YMCA Camp - Lac St. Joseph" at Ca
 
 In 1933, Dawson wrote a document titled "History of Kamp Kanawana," which is held in Concordia University Archives sub-series 12A (Camping and Outdoor Education).^2 ^3 This history is distinct from the anonymous 1935 season chronicle "A History of Kamp Kanawana" that was later digitized on Internet Archive (dated August 23, 1935, published by the YMCA of Montreal).^4 According to Dawson's history, the meaning of the name "Kanawana" was not learned until years after the name was adopted.^5
 
-Whether Dawson served as camp director in 1933 is unconfirmed. His role at the time of writing is unknown.
+Whether Dawson served as camp director in 1933 is unconfirmed. His role at the time of writing is unknown. Grace McMorris, in her 2023 MA thesis, characterizes him as "an alumnus" — a former camper — while discussing the same name-origin passage his manuscript addresses (p. 76, footnote 81).^7 This is her own inference from reading his manuscript, not a self-identification by Dawson, so it's a lean rather than a confirmation: it points toward "former camper who wrote the history" over "director," but doesn't rule out some other volunteer or committee capacity.
 
 ## Association with R. L. Charlton
 
@@ -29,10 +29,10 @@ One additional archival lead was identified: Concordia Archives sub-series 13D (
 
 ## Open Questions
 
-1. [Critical] What was Ralph Dawson's formal role at Camp Kanawana? Was he a director, committee member, or volunteer historian?
+1. [Critical, advanced 2026-07-09] What was Ralph Dawson's formal role at Camp Kanawana? Was he a director, committee member, or volunteer historian? McMorris's thesis leans "alumnus" (former camper), but this is her inference, not a confirmed title — still open.
 2. [Critical] What are Dawson's biographical details — birth/death dates, profession, YMCA role? His middle initial "H." is confirmed from the 1898 photo caption.
 3. [Important] What does the 1933 "History of Kamp Kanawana" contain? This unpublished manuscript in Concordia Archives 12A is a primary source for camp history.
-4. [Important] Does the McMorris thesis full text mention Dawson's role? The PDF at spectrum.library.concordia.ca should be checked.
+4. ~~[Important] Does the McMorris thesis full text mention Dawson's role?~~ [Resolved 2026-07-09] Yes — read directly as a full PDF (previously only user-pasted excerpts existed in the cache). Two total mentions of "Dawson" in the 129-page thesis; she characterizes him as "an alumnus" (p. 76, fn. 81) but gives no further biographical or role detail.
 5. [Nice-to-have] Is Ralph Dawson related to any of the other early camp figures (Cunningham, Brown, Benedict)?
 6. [Nice-to-have] What was R. L. Charlton's relationship to Dawson? Were they co-leaders, committee members, or fellow alumni?
 
@@ -50,3 +50,4 @@ One additional archival lead was identified: Concordia Archives sub-series 13D (
 4. "A History of Kamp Kanawana" (1935 Season Chronicle), Internet Archive. URL: https://archive.org/details/a-history-of-kamp-kanawana-1935. Confirmed as distinct from Dawson's 1933 history.
 5. McMorris thesis (Ch. 1): Name origin discussion citing Dawson. Note: secondary access — McMorris cites the 1933 Dawson manuscript; the manuscript itself is undigitized.
 6. Web search results, March 15, 2026: Eight queries across Google, Ancestry, FamilySearch, Genealogy Quebec, and Montreal city directory databases. Queries included "Ralph Dawson" YMCA Montreal, "R.H. Dawson" YMCA, "Ralph Dawson" obituary Montreal, and variants. No biographical hits beyond Concordia Archives finding aids.
+7. McMorris, Grace (2023). "An Experience That Lasts a Lifetime." MA thesis, Concordia University, p. 76 and fn. 81 — read as a full PDF direct from spectrum.library.concordia.ca, 2026-07-09 (previously only user-pasted excerpts had been extracted).

@@ -1,8 +1,8 @@
 {
   "version": "v4.98",
-  "kb_version": "v4.99",
+  "kb_version": "v5.00",
   "migrated_from": "3.3",
-  "fact_count": 1746,
+  "fact_count": 1776,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -29859,7 +29859,9 @@
         "François Dauphin"
       ],
       "date_ref": "2007",
-      "conflicts_with": [],
+      "conflicts_with": [
+        "f_1797"
+      ],
       "added_version": "v4.96",
       "added_by": "auto_extraction"
     },
@@ -30281,6 +30283,548 @@
         "Noosphere"
       ],
       "date_ref": "1971-08-27",
+      "conflicts_with": [],
+      "added_version": "v4.99",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_1785",
+      "claim": "Concordia Archives P145/12B03 (Land, facilities, equipment, supplies) Box HA2694 holds hand-drawn and coloured architectural drawings and property maps spanning 1915-1994, including 1915 sketches showing lot transactions.",
+      "sources": [
+        "src_concordia_12B03"
+      ],
+      "confidence": "stated",
+      "category": "places",
+      "entities": [
+        "Camp Kanawana",
+        "property records"
+      ],
+      "date_ref": "1915-1994",
+      "conflicts_with": [],
+      "added_version": "v4.99",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_1786",
+      "claim": "Concordia Archives P145/12B03 Box HA2313 holds a file titled 'Kamp Kanawana land purchases 1910-1927' and 1937 trail mapping records.",
+      "sources": [
+        "src_concordia_12B03"
+      ],
+      "confidence": "stated",
+      "category": "places",
+      "entities": [
+        "Camp Kanawana",
+        "land purchases"
+      ],
+      "date_ref": "1910-1937",
+      "conflicts_with": [],
+      "added_version": "v4.99",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_1787",
+      "claim": "Concordia Archives P145/12B03 lists blueprints for a dining pavilion (1919) and boathouse construction (1928) among Camp Kanawana's facilities records.",
+      "sources": [
+        "src_concordia_12B03"
+      ],
+      "confidence": "stated",
+      "category": "places",
+      "entities": [
+        "Camp Kanawana",
+        "dining hall",
+        "boathouse"
+      ],
+      "date_ref": "1919-1928",
+      "conflicts_with": [],
+      "added_version": "v4.99",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_1788",
+      "claim": "Concordia Archives P145/12B03 lists a 'Dedication - Millen Memorial Craft Shop' record dated 1960, indicating Kanawana's Craft Shop building (labeled on the 1980-2001 camp site map) was dedicated that year in memory of someone named Millen.",
+      "sources": [
+        "src_concordia_12B03"
+      ],
+      "confidence": "stated",
+      "category": "places",
+      "entities": [
+        "Camp Kanawana",
+        "Craft Shop",
+        "Millen"
+      ],
+      "date_ref": "1960",
+      "conflicts_with": [],
+      "added_version": "v4.99",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_1789",
+      "claim": "Direct re-examination of the 1941 hand-drawn Kanawana camp map (all three archived copies, zoomed/cropped 2026-07-09) confirms and locates several place-name labels beyond the prior summary: 'Camp Cliff' and 'Indian Grave' are both labeled on the shoreline/peninsula between Lake Wilson and Lake Kanawana, near each other; a 'Golf Course' is labeled in the wooded area near the Junior Camp building cluster (with a small numeral, possibly a map-grid reference rather than 'nine-hole'); a 'Lacrosse Field' is labeled south of the Kamp Kanawana crest, illustrated with a figure holding a stick-like implement; and 'Mountain House' is labeled at the southwest corner of the property near the camp entrance road. This directly places open question #12 ('Indian Grave' location) at the Camp Cliff peninsula, and shows a golf course and lacrosse field existed on the property by 1941 (relevant to open question #5 on golf-course dates).",
+      "sources": [
+        "src_flickr_kanawana_concordia_historical_album"
+      ],
+      "confidence": "stated",
+      "category": "geography",
+      "entities": [
+        "Camp Cliff",
+        "Indian Grave",
+        "Golf Course",
+        "Lacrosse Field",
+        "Mountain House"
+      ],
+      "date_ref": "1941",
+      "conflicts_with": [],
+      "added_version": "v4.99",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_1790",
+      "claim": "The 1941 map also shows an illustrated vignette (tepee, campfire with rising smoke, a seated figure and a standing figure) near the top-center of the map, accompanied by a partially illegible cursive caption reading approximately '[?] ou Settlers' -- the first word could not be confidently transcribed even at high zoom across all three map copies. This appears to depict an 'Indian Lore'/settler-themed activity area, consistent with the camp's documented early 'playing Indian' programming, but the exact label text remains unconfirmed.",
+      "sources": [
+        "src_flickr_kanawana_concordia_historical_album"
+      ],
+      "confidence": "inferred",
+      "category": "traditions",
+      "entities": [
+        "Camp Kanawana"
+      ],
+      "date_ref": "1941",
+      "conflicts_with": [],
+      "added_version": "v4.99",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_1791",
+      "claim": "Direct re-examination of the 1980-2001 Kamp Kanawana site map (zoomed/cropped 2026-07-09) identifies additional labeled buildings/facilities beyond the prior summary: a 'Chief's' building (the director's residence/office, continuing the historic 'Camp Chief' title used for directors as far back as 1923), a 'Lodge' (a large building near the Post Office), a 'Bunkhouse', a 'Tee Pee' building on a hill near the Lookout (distinct from a separately labeled 'Tee Pee site' near the south shore), 'Farm House' and 'Block House' as neighbouring buildings at the east end of the property near the Archery Field and Barn, 'Sanctuary', 'Softball Diamond', and 'Car Wash'. This locates 'Block House' (open question #10) precisely relative to Farm House, Barn, Archery Field, and Chez Claude.",
+      "sources": [
+        "src_flickr_kanawana_concordia_historical_album"
+      ],
+      "confidence": "stated",
+      "category": "facilities",
+      "entities": [
+        "Chief's",
+        "Lodge",
+        "Bunkhouse",
+        "Tee Pee",
+        "Farm House",
+        "Block House",
+        "Sanctuary",
+        "Softball Diamond"
+      ],
+      "date_ref": "1980-2001",
+      "conflicts_with": [],
+      "added_version": "v4.99",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_1792",
+      "claim": "Grace McMorris, in her 2023 MA thesis (direct PDF full-text search, 2026-07-09 -- the thesis had previously only been extracted from user-pasted text, never the actual PDF), characterizes Ralph Dawson, author of the 1933 'History of Kamp Kanawana' manuscript, as 'an alumnus' -- i.e. a former camper -- rather than as a director, staff member, or committee member (McMorris thesis p.76, main text and footnote 81, citing 'History of Kamp Kanawana by Ralph Dawson, YMCA of Montreal fonds, Kanawana Committees, P145/12A, CURMA').",
+      "sources": [
+        "src_mcmorris_thesis"
+      ],
+      "confidence": "inferred",
+      "category": "people",
+      "entities": [
+        "Ralph Dawson"
+      ],
+      "date_ref": "1933",
+      "conflicts_with": [],
+      "added_version": "v4.99",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_1793",
+      "claim": "The 1922 Kamp Kanawana brochure states Lemuel P. Ereaux 'comes to Camp with the experience of eleven summers' when he became Camp Director that year -- describing his cumulative prior camp experience (as a camper/counsellor, dating back to roughly 1912), not eleven years serving as director. The 1921 brochure separately and explicitly names G.D. Brandon as that year's Camp Director, with no mention of Ereaux -- so Ereaux's only documented directorship year is 1922, succeeding Brandon.",
+      "sources": [
+        "src_brochure_1922",
+        "src_brochure_1921"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "Lemuel Ereaux",
+        "G.D. Brandon"
+      ],
+      "date_ref": "1921-1922",
+      "conflicts_with": [],
+      "added_version": "v4.99",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_1794",
+      "claim": "The 1923 Kamp Kanawana brochure states 'Mr. L. P. Little, better known as \"Bones\"... will be Camp Doctor and Assistant Chief of the Junior Division' -- the only use of 'Chief' terminology in the 1921-1923 brochures for a subordinate, section-specific role rather than the overall camp head. This shows 'Chief' was used flexibly that year, complicating (without resolving) whether Paterson (named 'Camp Chief' in the same 1923 brochure) and Davis (called 'the Chief' in the 1923 Gas Bag newsletter) held the same overall role or different-scoped ones -- the printed brochure names only Paterson as Director; Davis's 'Chief' title comes solely from the informal, camper-authored Gas Bag, whose activities described (dining hall, staff-vs-world game, camp auction, regatta) span both Junior and Senior campers, reading more like an overall head than a section-specific one.",
+      "sources": [
+        "src_brochure_1923"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "L.P. Little",
+        "Philip Paterson",
+        "R.E.G. Davis"
+      ],
+      "date_ref": "1923",
+      "conflicts_with": [],
+      "added_version": "v4.99",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_1795",
+      "claim": "The 2003 JBC dining-hall plaque (f_1638) that names Section Directors 'Matt' and 'Laurie' by first name only genuinely never recorded surnames for these two roles -- unlike the counsellors below them, who are given first-name-plus-last-initial. Re-examination at full zoom (2026-07-09) confirms this is not an illegibility issue; the information simply isn't on the plaque. A plausible but unconfirmed identity for 'Matt' is Matt Hamerman, who has a long, independently documented association with Kanawana leadership roles from 2000 (canoe trip) through 2011 (advisory committee), including Voyageurs Section Director in 2006 -- chronologically consistent with a 2003 Section Director stint, but no source directly names him on the 2003 plaque.",
+      "sources": [
+        "src_flickr_kanawana_plaque_album"
+      ],
+      "confidence": "inferred",
+      "category": "people",
+      "entities": [
+        "Matt Hamerman"
+      ],
+      "date_ref": "2003",
+      "conflicts_with": [],
+      "added_version": "v4.99",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_1796",
+      "claim": "Close re-examination of the 2000 CIT plaque (f_1619, previously obscured by a strap in the original photo crop) reveals the 'CIT Program Director' signature most plausibly reads 'Manuel Quiroga' (cursive handwriting, good but not absolute confidence). This is independently corroborated by pureexploration.com's instructor bio for a Manuel Quiroga (born Rosario, Argentina), which states: 'In 1998, he moved to Canada where he worked as a Canoe Guide and Program Director at YMCA Camp Kanawana. After 2 years, he decided to return to Argentina' -- consistent with a 2000 departure. A separate, IFMGA-certified mountain guide named Manuel Quiroga has been based in El Chaltén, Patagonia since 2000, timeline-consistent with the same person but not explicitly confirmed as identical in any single source. Maria English (documented 'CIT Director' 1999-2001) and Manuel appear to have held distinct, complementary titles in 2000 (broader CIT Director vs. program-specific director), not a conflicting or confused pair.",
+      "sources": [
+        "src_flickr_kanawana_plaque_album",
+        "src_pureexploration_manuel_quiroga"
+      ],
+      "confidence": "inferred",
+      "category": "people",
+      "entities": [
+        "Manuel Quiroga",
+        "Maria English"
+      ],
+      "date_ref": "2000",
+      "conflicts_with": [],
+      "added_version": "v4.99",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_1797",
+      "claim": "The camp's own website (ymcakanawana.com), Wayback-archived continuously from December 2005 through December 2007, names 'Sean Day, directeur du camp estival et des programmes' under 'Directeurs du camp' on its public contact page -- confirmed identically across five independent snapshots (2005-12-16, 2006-09-09, 2007-06-09, 2007-08-11, 2007-12-28), each with a different page 'last updated' date, so not a single stale cache. No mention of Francois Dauphin appears on this page or on the site's 2007 homepage or capital-campaign page in any snapshot checked. This directly conflicts with the Montreal YMCA's own 2007 annual report, whose Senior Management ('Cadres superieurs') listing names Dauphin, not Day, as 'Directeur YMCA Kanawana' that same year (f_1759) -- re-verified independently via a fresh pdftotext extraction of the same annual-report PDF, confirming that extraction is accurate. Both are genuine institutional primary sources naming different people for overlapping 2005-2007 dates, reopening conflict c_017 as a two-documented-source disagreement.",
+      "sources": [
+        "src_ymcakanawana_com_wayback_2005_2007"
+      ],
+      "confidence": "stated",
+      "category": "directors",
+      "entities": [
+        "Sean Day",
+        "François Dauphin"
+      ],
+      "date_ref": "2005-2007",
+      "conflicts_with": [
+        "f_1759"
+      ],
+      "added_version": "v4.99",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_1798",
+      "claim": "The 2025 camp map divides the property into 8 numbered zones: 1 Centre Camp, 2 Staff Village, 3 Coureurs des bois, 4 Pioneers, 5 Woodsmen, 6 Pathfinders, 7 LIT, 8 Boating. No zone is separately numbered for 'Mountaineers' (the gender-neutral section established 2022) -- it may be integrated into an existing zone rather than having its own dedicated cabin cluster, though the map doesn't state this explicitly.",
+      "sources": [
+        "src_kk_prep_guide_2025"
+      ],
+      "confidence": "stated",
+      "category": "places",
+      "entities": [
+        "Centre Camp",
+        "Staff Village",
+        "Coureurs des bois",
+        "Pioneers",
+        "Woodsmen",
+        "Pathfinders",
+        "LIT"
+      ],
+      "date_ref": "2025",
+      "conflicts_with": [],
+      "added_version": "v4.99",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_1799",
+      "claim": "The 2025 preparation guide's text uses 'Woodsy' (singular)/'Woodsies' (plural) as the current camper-facing term for the youngest boys' section (ages 7-9), alongside 'Pioneer,' 'Pathfinder,' 'Coureur des Bois,' 'Voyageur,' and 'LIT' as example section names -- while the camp's own 2025 map legend still labels the corresponding zone 'Woodsmen.' This suggests 'Woodsy/Woodsies' may be a newer informal or camper-facing variant of 'Woodsmen,' not yet reflected in official cartography, though this is an inference, not stated outright by the source.",
+      "sources": [
+        "src_kk_prep_guide_2025"
+      ],
+      "confidence": "inferred",
+      "category": "traditions",
+      "entities": [
+        "Woodsmen",
+        "Woodsy"
+      ],
+      "date_ref": "2025",
+      "conflicts_with": [],
+      "added_version": "v4.99",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_1800",
+      "claim": "The 2025 camp map's building legend (area E, the Centre Camp cluster) lists: E1 Archery, E2 Ball Field, E3 Ropes Course, E4 Reseau epurateur (water-treatment/purification network), E5 Katimavik, E6 Hut, E7 Kitchen, E8 Business Office (B.O.), E9 Program Office (P.O.), E10 Arts & Crafts (A&C), E11 Lodge, E12 Pavilion. This resolves the meaning of 'B.O.' seen unlabeled on the 1980-2001 map (Business Office, not a director's residence as previously guessed) and clarifies that 'P.O.' most likely denotes 'Program Office' rather than 'Post Office' as earlier assumed from the older map alone.",
+      "sources": [
+        "src_kk_prep_guide_2025"
+      ],
+      "confidence": "stated",
+      "category": "facilities",
+      "entities": [
+        "Business Office",
+        "Program Office",
+        "Katimavik",
+        "Lodge",
+        "Pavilion"
+      ],
+      "date_ref": "2025",
+      "conflicts_with": [],
+      "added_version": "v4.99",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_1801",
+      "claim": "The 2025 camp map's F-series building legend (waterfront/shoreline cluster) lists: F1 Barracks, F2 Sanctum, F3 Ash, F4 La Cache, F5 North Wind, F6 Tripper's Inn, F7 Soleil du midi, F8 Northern Lights, F9 Boating House, F10 Carwash, F11 Wawa's Cabin, F12 The Ice Box, F13 Cabin 0, F14 Nest, F15 Lighthouse, F16 Teepee, F17 Beach Hut, F18 Lookout, F19 Bunker. 'Lookout' and 'Teepee' both persist by name from the 1980-2001 map (Lookout on a hill; Teepee near it), showing continuity of at least two landmark names across 40+ years. 'Wawa's Cabin' is notable: 'Wawa' is documented elsewhere in this KB as Kate Taylor's camp alias (on-site Director 2013-2023) -- a plausible but unconfirmed naming connection.",
+      "sources": [
+        "src_kk_prep_guide_2025"
+      ],
+      "confidence": "stated",
+      "category": "facilities",
+      "entities": [
+        "Lookout",
+        "Teepee",
+        "Wawa's Cabin",
+        "Kate Taylor"
+      ],
+      "date_ref": "2025",
+      "conflicts_with": [],
+      "added_version": "v4.99",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_1802",
+      "claim": "The 2025 camp map's D-series cabin legend (Coureurs des bois and Pathfinders zones) includes a cabin named 'D7 Chopsy's' -- the only documented institutional/cartographic trace of the 'Chopsy' name found anywhere outside oral history. This does not resolve the Chopsy legend itself (open question in myths-and-legends.md) but confirms the name is embedded in camp geography as of 2025, not merely a fading oral memory. Other D-series cabins in the same cluster: D1 Outpost, D2 I-Bridge, D3 Crossroads, D4 Rock, D5 LegenDeck, D6 Newer Deck, D8 Backroads, D9 Sauna, D10 Laguna, D11 Daytona, D12 Verardaro, D13 Bondi, D14 Omaha, D15 Newport, D16 Oka, D17 Basin, D18 Malibu -- many following a beach/surf-destination naming pattern (Malibu, Newport, Bondi, Daytona, Laguna).",
+      "sources": [
+        "src_kk_prep_guide_2025"
+      ],
+      "confidence": "stated",
+      "category": "traditions",
+      "entities": [
+        "Chopsy",
+        "Chopsy's"
+      ],
+      "date_ref": "2025",
+      "conflicts_with": [],
+      "added_version": "v4.99",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_1803",
+      "claim": "The 2025 camp map's remaining cabin series: B-series (Woodsmen/Pathfinders zone) -- B2 #2, B4 #4, B5 #5, B6 #6, B7 #7, B8 Torpedo Junction, B9 Bella, B10 Roadhouse, B11 Zodiac. G-series (Pioneers/Coureurs des bois zone) -- G1 Willow, G2 Spruce, G3 Cedar, G4 Sequoia, G5 Palm, G6 Maple, G7 Burrow, G8 Den, G9 Web, G10 Dune, G11 Lair, G12 Fortress (tree and animal-den names). The legend distinguishes cabin types by icon: Staff Cabin, LIT Cabin, Miscellaneous Cabin, Woodsmen Cabin, and Pioneer Cabin, plus Tuck Shop, Tent, Fire Bowl, and Gaga Ball Pit markers.",
+      "sources": [
+        "src_kk_prep_guide_2025"
+      ],
+      "confidence": "stated",
+      "category": "facilities",
+      "entities": [
+        "Torpedo Junction",
+        "Zodiac",
+        "Willow",
+        "Fortress"
+      ],
+      "date_ref": "2025",
+      "conflicts_with": [],
+      "added_version": "v4.99",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_1804",
+      "claim": "The 2025 preparation guide restates the camp motto 'Non nobis solum' (not for ourselves alone) as still current, appearing on the guide's title page and in its mission/values section, and states the camp draws on 'over 130 years of summer camping' -- consistent with the documented 1894/1910 founding era.",
+      "sources": [
+        "src_kk_prep_guide_2025"
+      ],
+      "confidence": "stated",
+      "category": "traditions",
+      "entities": [
+        "Non Nobis Solum"
+      ],
+      "date_ref": "2025",
+      "conflicts_with": [],
+      "added_version": "v4.99",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_1805",
+      "claim": "The 2025 preparation guide's staff contact page independently confirms the already-documented current management team: Justin Caldwell (Summer Camp Director), Marie-Pierre Lacasse (Executive Camp Director), Quinn Durand (Summer Camp Assistant Director), and Amy Thomson (Assistant to the Directors) -- matching the YMCA Quebec team-page bios already in the KB (f_1744-f_1746).",
+      "sources": [
+        "src_kk_prep_guide_2025"
+      ],
+      "confidence": "stated",
+      "category": "directors",
+      "entities": [
+        "Justin Caldwell",
+        "Marie-Pierre Lacasse",
+        "Quinn Durand",
+        "Amy Thomson"
+      ],
+      "date_ref": "2025",
+      "conflicts_with": [],
+      "added_version": "v4.99",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_1806",
+      "claim": "A weathered, deeply-carved wooden plaque (assets/images/plaques/dsc-0544.jpg), stylistically distinct from the painted section-roster boards making up most of the plaque collection, appears to read approximately 'Wizard of Oz Day / Kamp Kanawana / Winning Team / of 19[??] / [illegible team name]' -- suggesting a previously undocumented themed color-war/trophy event, structurally parallel to the already-documented 'Western Day' (1968, f_1724) and 'Viking Day' (1972, f_1714). The exact year and team name could not be read even after contrast enhancement; this reading is low-confidence.",
+      "sources": [
+        "src_flickr_kanawana_plaque_album"
+      ],
+      "confidence": "inferred",
+      "category": "traditions",
+      "entities": [
+        "Wizard of Oz Day"
+      ],
+      "date_ref": "undated",
+      "conflicts_with": [],
+      "added_version": "v4.99",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_1807",
+      "claim": "Grace McMorris's 2023 MA thesis (full PDF read directly 2026-07-09 -- the prior cache held only the Spectrum repository's landing page, never the full text), describing the 1928 and 1962 Kanawana site maps (her Figures 2.2 and 2.6, citing P145/12B07), states: 'The size of the property grew as the Y purchased land on the shores of Lake Becsies and the Pagé farm, the building just outside the camp gate.'",
+      "sources": [
+        "src_mcmorris_thesis"
+      ],
+      "confidence": "stated",
+      "category": "places",
+      "entities": [
+        "Pagé farm",
+        "Camp Kanawana"
+      ],
+      "date_ref": "1928-1962",
+      "conflicts_with": [],
+      "added_version": "v4.99",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_1808",
+      "claim": "McMorris's thesis (p.91) states: 'By 1960, the Y had purchased the Pagé farm that bordered the camp property in order to \"assur[e] Kanawana many years of camping on the site without cottage country encroaching,\"' citing the 'Kamp Kanawana Annual Report 1960, YMCA of Montreal fonds, Kanawana General Administration, P145/12B01, Season Report 1960.' Concordia's P145/12B03 finding aid (Box HA2313) independently corroborates this with a distinct file item, 'KK land purchase-Pagé farm. -- 1960-1961,' separate from the 1910-1927 land-purchase file in the same box.",
+      "sources": [
+        "src_mcmorris_thesis",
+        "src_concordia_12B03"
+      ],
+      "confidence": "stated",
+      "category": "places",
+      "entities": [
+        "Pagé farm",
+        "Camp Kanawana"
+      ],
+      "date_ref": "1960-1961",
+      "conflicts_with": [],
+      "added_version": "v4.99",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_1809",
+      "claim": "Synthesizing f_1807, f_1808, and the 1980-2001/2025 camp maps (which pair a 'Farm House' building with a 'Barn' at the property's eastern boundary edge, f_1791/f_1800): it is plausible, though not directly confirmed by any single source, that the building now called 'the Farmhouse' is the former Pagé farm's farmhouse -- annexed into camp property via a separate 1960-1961 purchase, fifty years after the YMCA's original 1910 acquisition, rather than being part of that original purchase. The farmhouse+barn pairing at the property's edge is consistent with an annexed working farm, and the farm is described as sitting 'just outside the camp gate' before its purchase.",
+      "sources": [
+        "src_mcmorris_thesis",
+        "src_concordia_12B03"
+      ],
+      "confidence": "inferred",
+      "category": "places",
+      "entities": [
+        "Farmhouse",
+        "Pagé farm"
+      ],
+      "date_ref": "1910-1961",
+      "conflicts_with": [],
+      "added_version": "v4.99",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_1810",
+      "claim": "Both the 1928 and 1962 Kanawana camp maps (viewed directly as embedded figures in McMorris's thesis, 2026-07-09 -- previously only her prose descriptions had been read) explicitly label a building 'HAUNTED HOUSE' in the same location: the southwest corner of the property, next to a labeled 'Falls' (waterfall), near Round Lake -- a location distinct from the 1941 map's separately-labeled 'Mountain House' near the main entrance road. This resolves the location of the building referenced in the 1935 season chronicle's 'eating-out day, when every camper went over to the haunted house' passage: it was a real, specifically-drawn building, not merely a figure of speech, and it persisted at the same map location for at least 34 years (1928-1962). What stories attached to it, and whether it survives today, remain undocumented.",
+      "sources": [
+        "src_mcmorris_thesis"
+      ],
+      "confidence": "stated",
+      "category": "places",
+      "entities": [
+        "Haunted House",
+        "Falls",
+        "Round Lake"
+      ],
+      "date_ref": "1928-1962",
+      "conflicts_with": [],
+      "added_version": "v4.99",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_1811",
+      "claim": "The 1928 Kamp Kanawana map (viewed directly, McMorris thesis Figure 2.2, citing P145/12B07 'Maps of Kanawana n.d.') labels: Lac des Becsies, Round Lake, Lake Wilson, Lake Kanawana, the Kamp Kanawana crest, a compass rose, an inset 'Map showing Camp Property' with 'Morgan's to Lock,' Farewell Rock, Parliament Rock, Camp Cliff Point, Indian Grave, Council Ring, Ball Field, Birchbark Field, Frenchie Camp, Craft House, Senior Camp, Golf Course, Lacrosse Field, an 'Indians and Settlers' vignette (tepee/campfire scene), and a Junior Camp cluster with several small unlabeled buildings. A figure identified as 'Ozy Pierre Pagé' and 'Golf Souvenir' appear near the property's edge (possibly Pagé family references).",
+      "sources": [
+        "src_mcmorris_thesis"
+      ],
+      "confidence": "stated",
+      "category": "places",
+      "entities": [
+        "Farewell Rock",
+        "Parliament Rock",
+        "Frenchie Camp"
+      ],
+      "date_ref": "1928",
+      "conflicts_with": [],
+      "added_version": "v4.99",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_1812",
+      "claim": "The 1962 Kamp Kanawana map (viewed directly, McMorris thesis Figure 2.6, same P145/12B07 folder) uses a numbered legend: 1 Craftshop, 2 Lodge, 3 Long House, 4 Dining Hall, 5 Business Office, 6 Chief's Cabin, 7 Pump House, 8 Windward Ho!, 9 Sanctan. It also labels Lac des Becsies, Round Lake, Lake Wilson, Lake Kanawana, Snowshoe Lake (a lake name not otherwise documented in this KB), Farewell Rock, Parliament Rock, Frog Bay, Chapel, Baseball Field, Indian Council Ring, Look Out, Sandy Beach, Cougars and Pioneers/Woodsmen/Coureurs des Bois/Pathfinders section clusters, a sailboat icon, and a trail to Saint-Sauveur. Golf Course and Lacrosse Field, both present on the 1928 map, are absent from the 1962 map -- narrowing the golf course's decommissioning window to sometime between 1928 and 1962.",
+      "sources": [
+        "src_mcmorris_thesis"
+      ],
+      "confidence": "stated",
+      "category": "places",
+      "entities": [
+        "Long House",
+        "Chief's Cabin",
+        "Business Office",
+        "Snowshoe Lake",
+        "Look Out"
+      ],
+      "date_ref": "1962",
+      "conflicts_with": [],
+      "added_version": "v4.99",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_1813",
+      "claim": "Concordia Archives P145/12B03's finding aid (Box HA2694) itemizes several architectural drawings/blueprints not previously catalogued in this KB: 'Sleeping cabins, Kamp Kanawana' (pencil architect's drawing, 1940), 'Eight-boy Cabin' (Boy Scouts of America Engineering Service blueprint, 1945), and 'Proposed craft shop Kamp Kanawana' (blueprint, 1952) -- the last predating the 1960 Millen Memorial Craft Shop dedication (f_1788) by 8 years, suggesting either a distinct earlier proposal or a multi-year planning process for the same building. Box HA2313 separately holds a dining/kitchen pavilion blueprint and letter (1919), ice-house/cold-storage blueprints (c.1929), 1950s water-filtration-system blueprints, and undated architectural drawings for the Lodge and the boat dock.",
+      "sources": [
+        "src_concordia_12B03"
+      ],
+      "confidence": "stated",
+      "category": "places",
+      "entities": [
+        "Craft Shop",
+        "Sleeping cabins",
+        "Lodge"
+      ],
+      "date_ref": "1919-1952",
+      "conflicts_with": [],
+      "added_version": "v4.99",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_1814",
+      "claim": "Concordia Archives P145/12B03, Box HA2342, lists an item 'Map of Camp Agaming. -- 1929' alongside three undated (1960s) colour photos of Kanawana in the same folder. 'Camp Agaming' does not appear anywhere else in this KB or in general web search -- it's unclear whether this is a mislabeled/alternate name for a Kanawana-related site or a genuinely distinct camp filed in the same folder by association. Flagged as an unresolved lead, not investigated further this session.",
+      "sources": [
+        "src_concordia_12B03"
+      ],
+      "confidence": "stated",
+      "category": "places",
+      "entities": [
+        "Camp Agaming"
+      ],
+      "date_ref": "1929",
       "conflicts_with": [],
       "added_version": "v4.99",
       "added_by": "manual"

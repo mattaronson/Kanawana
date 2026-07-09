@@ -1,7 +1,7 @@
 # Kanawana Myths and Legends
 
 *Status: E1-reviewed | Sources: 19*
-*Last Updated: 2026-06-11 (Chopsy legend recorded from oral history — full narrative added) — photo gallery added 2026-07-02*
+*Last Updated: 2026-06-11 (Chopsy legend recorded from oral history — full narrative added) — photo gallery added 2026-07-02 — haunted house building location resolved via direct map examination 2026-07-09*
 
 ## Overview
 
@@ -51,7 +51,7 @@ Legends are unverifiable narratives -- ghost stories, supernatural tales, and ca
 
 ### The Haunted House
 
-The 1935 camp history document mentions that the final week of camp began with an "eating-out day, when every camper went over to the haunted house and cooked his own supper" [f_0135, f_1185, src_history_1935]. The same day, the dam that had kept Lakes Kanawana and Wilson "at a desirable height" was opened before the assembled campers. The haunted house was therefore not merely a story setting but an established camp-wide cookout destination within walking distance of camp — by 1935 the name was casual, institutional vocabulary. Which building it was, and what stories attached to it, have not been found in any available source (June 2026: a second search campaign for Kanawana ghost stories and Saint-Sauveur-area legends returned nothing). Identification now depends on oral history or the Concordia archival holdings.
+The 1935 camp history document mentions that the final week of camp began with an "eating-out day, when every camper went over to the haunted house and cooked his own supper" [f_0135, f_1185, src_history_1935]. The same day, the dam that had kept Lakes Kanawana and Wilson "at a desirable height" was opened before the assembled campers. The haunted house was therefore not merely a story setting but an established camp-wide cookout destination within walking distance of camp — by 1935 the name was casual, institutional vocabulary. Direct examination of the 1928 and 1962 camp maps (2026-07-09, via McMorris's thesis figures) confirms it as a real, specifically-drawn building, consistently located at the property's southwest corner next to a waterfall ("Falls"), near Round Lake, for at least 34 years [f_1810] — see [[places/places-and-locations|Places and Locations at Camp Kanawana]] for the map detail. What stories attached to it remain undocumented in any available source (a June 2026 search campaign for Kanawana ghost stories and Saint-Sauveur-area legends returned nothing, and a direct 2026-06-13 oral-history question to the operator found no knowledge of the building in the 2000s era). Identification of a *building* is now resolved; the *legend content* still depends on oral history not yet obtained, or physical Concordia archival holdings.
 
 ### Ghost Stories and Campfire Traditions (Undocumented)
 
@@ -126,7 +126,7 @@ These Quebec folk traditions are strong candidates for Kanawana campfire storyte
 ## Open Questions
 
 1. ~~[Critical] What is the "Chopsy" legend as told at Camp Kanawana?~~ [Largely resolved] Full narrative recorded from oral history (f_1186–f_1191): Charles de Grandprix, WWI veteran kitchen staffer, 1945 origin, three-act structure. Remaining: when and where was it told (Council Ring, cabin, canoe trip?), was there a jump-scare or performance element, and from whom did the informant first hear it?
-2. [Important] What was "the haunted house" referenced in the 1935 camp history? It was the destination of the final-week "eating-out day" cookout (f_1185) — so a known, reachable structure. Which building was it, and what stories were told about it? (Online research exhausted; routed to oral history instrument.)
+2. ~~[Important] What was "the haunted house" referenced in the 1935 camp history?~~ [Largely resolved 2026-07-09] It was the destination of the final-week "eating-out day" cookout (f_1185) — the 1928 and 1962 camp maps both draw and label it at the same spot (property's southwest corner, near "Falls" and Round Lake), confirming it as a real, persistently-located building. What stories were told about it remains unknown; routed to the oral history instrument for that part.
 3. [Important] What ghost stories or supernatural narratives are told at Camp Kanawana? Are any tied to specific locations (Lake Wilson, the Council Ring, the woods)? (June 2026: no online trace; routed to oral history instrument.)
 4. [Important] What popular claims about Kanawana's history circulate among alumni that may be exaggerated or inaccurate?
 5. ~~[Nice-to-have] Does the McMorris thesis full text contain information about the meaning of "Kanawana" or the naming process?~~ [Resolved] Yes — McMorris examines the name in detail. The word does not exist in Kanien'kéha (Mohawk); the closest term is "kanà:wa" (swamp). McMorris notes the phonetic similarity to Kahnawá:ke.^3

@@ -659,11 +659,13 @@
       "type": "RESEARCH",
       "description": "Oral history needed for Grand Portage and Longhouse building identification, named cabin inventory, individual building histories",
       "article_id": "places-and-locations",
-      "blocking": true,
+      "blocking": false,
       "blocking_reason": "Grand Portage and Longhouse are known only from oral tradition. No written documentation found. Requires alumni input.",
       "assigned_weight": "P1",
       "created_at": "2026-02-27T13:00:00Z",
-      "status": "blocked"
+      "status": "completed",
+      "completed_at": "2026-07-09T00:00:00Z",
+      "result": "Stale bookkeeping fix + substantial new research 2026-07-09. Grand Portage and Longhouse were actually already identified via oral history in an earlier session (2026-06-13) -- this priority just never got marked completed. The 'named cabin inventory' and 'individual building histories' parts are now substantially resolved without needing oral history at all: direct examination of the 1928, 1941, 1962, 1980-2001, and current 2025 camp maps (the last two newly acquired/examined this session) produced a near-complete cabin/building inventory across every era, resolved the 'Indian Grave' location, located the 'Haunted House' building (present on both the 1928 and 1962 maps), and narrowed the golf course's decommissioning window. Concordia Archives P145/12B03's finding aid, read directly, added further building/blueprint records (Millen Memorial Craft Shop 1960, sleeping-cabin and craft-shop blueprints, etc.). See wiki/places/places-and-locations.md for the full integration. Remaining oral-history value: the *stories* behind named places (what happened at the Haunted House, deeper Grand Portage/Longhouse lore) rather than their bare identification/location, which is now documented."
     },
     {
       "priority_id": "p_052",

@@ -176,7 +176,7 @@
       "extracted": true,
       "extraction_version": "4.17",
       "reliability": "secondary",
-      "notes": "Grace McMorris MA thesis, Concordia. Supervisor Dr. Peter Gossage. Full text provided by user in prior sessions and fully extracted. 148 facts in KB. Cache file contains HTML landing page only; thesis text was processed directly from user input."
+      "notes": "Grace McMorris MA thesis, Concordia. Supervisor Dr. Peter Gossage. Full text provided by user in prior sessions and fully extracted. 148 facts in KB. Cache file contains HTML landing page only; thesis text was processed directly from user input. Direct PDF download + pdftotext/image extraction performed 2026-07-09 (previous cache held only the Spectrum landing page HTML) -- found the full embedded 1928 and 1962 camp maps (Figures 2.2/2.6), the Ralph Dawson 'alumnus' characterization, and new Pagé farm (1960-1961) purchase detail, none previously extracted."
     },
     {
       "source_id": "src_ymca_website",
@@ -8993,7 +8993,71 @@
       "extraction_version": "v4.97",
       "reliability": "secondary",
       "notes": "Multiple WebSearch queries for '\"Kamp Kanawana\" [year ranges]' across 2000-2026, per operator request to establish the Kamp->Camp spelling transition timeline. Sourced fact: f_1770."
+    },
+    {
+      "source_id": "src_concordia_12B03",
+      "type": "catalog_reference",
+      "title": "Concordia University Archives, YMCA of Montreal fonds, sub-sub-series P145/12B03 (Land, facilities, equipment, supplies)",
+      "date": "1910-1995",
+      "date_precision": "approximate",
+      "origin": "web",
+      "origin_url": "https://www.concordia.ca/offices/archives/ymca-fonds-sub-sub-series-12B03.html",
+      "cache_path": null,
+      "char_count": 0,
+      "ingested_at": "2026-07-09T00:00:00Z",
+      "extracted": true,
+      "extraction_version": "v4.99",
+      "reliability": "primary",
+      "notes": "Finding-aid page (box/file-level metadata, not full content) read directly 2026-07-09, flagged by the operator. Lists Box HA2694 (architectural drawings/property maps 1915-1994, incl. hand-drawn/coloured 1915 lot-transaction sketches), Box HA2313 ('Kamp Kanawana land purchases 1910-1927' and 1937 trail mapping), and facilities records (1919 dining pavilion blueprints, 1928 boathouse construction, 1960 Dedication-Millen Memorial Craft Shop). No season reports, committee minutes, or camp-director personnel records in this specific sub-sub-series -- confirms those live elsewhere in the fonds (12B01/12B05)."
+    },
+    {
+      "source_id": "src_pureexploration_manuel_quiroga",
+      "type": "web",
+      "title": "Pure Exploration -- Our Instructors: Manuel Quiroga bio",
+      "date": "undated",
+      "date_precision": "approximate",
+      "origin": "web",
+      "origin_url": "https://pureexploration.com/pages/our-instructors",
+      "cache_path": null,
+      "char_count": 0,
+      "ingested_at": "2026-07-09T00:00:00Z",
+      "extracted": true,
+      "extraction_version": "v4.99",
+      "reliability": "secondary",
+      "notes": "Mountain-guiding company instructor bio for Manuel Quiroga, an Argentine guide. States he worked as a 'Canoe Guide and Program Director at YMCA Camp Kanawana' 1998-2000 before returning to Argentina. Read 2026-07-09 as corroboration for the illegible 2000 CIT plaque signature (f_1619/f_1796). Identity match to the plaque signature is plausible but not certain (cursive handwriting)."
+    },
+    {
+      "source_id": "src_ymcakanawana_com_wayback_2005_2007",
+      "type": "web",
+      "title": "ymcakanawana.com contact page ('Pour nous joindre'), Wayback Machine snapshots 2005-2007",
+      "date": "2005-2007",
+      "date_precision": "range",
+      "origin": "web",
+      "origin_url": "https://web.archive.org/web/20051216232907/http://www.ymcakanawana.com/3084/07_01_pour_nous_joindre.asp",
+      "cache_path": null,
+      "char_count": 0,
+      "ingested_at": "2026-07-09T00:00:00Z",
+      "extracted": true,
+      "extraction_version": "v4.99",
+      "reliability": "primary",
+      "notes": "Re-tested 2026-07-09 after a prior campaign (research-log.md Campaign 27/28, conflict c_017) concluded no pre-2009 snapshot of the camp's contact page existed. That premise was wrong: CDX search (via curl over https://, since WebFetch and http:// curl are both blocked for web.archive.org in this environment) finds snapshots at 20051216232907, 20060909222646, 20070609024239, 20070811221214, and 20071228063810, all naming 'Sean Day, directeur du camp estival et des programmes' under 'Directeurs du camp' -- with no mention of Francois Dauphin on this or two other 2007 pages checked (homepage, capital-campaign page). This directly conflicts with the 2007 Montreal YMCA annual report's Senior Management listing of Dauphin as 'Directeur YMCA Kanawana' (src_ymcaquebec_annualreport_2007, re-confirmed accurate via independent pdftotext re-extraction the same session). Reopens conflict c_017 as a genuine two-documented-source disagreement rather than a resolved oral-history-vs-document case."
+    },
+    {
+      "source_id": "src_kk_prep_guide_2025",
+      "type": "web",
+      "title": "Camp YMCA Kanawana Preparation Guide, Summer 2025 (parent handbook, 43 pages)",
+      "date": "2025",
+      "date_precision": "exact",
+      "origin": "web",
+      "origin_url": "https://www.ymcaquebec.org/fileadmin/03_Camps/decouvrir_kanawana/guide_des_parents_kanawana/PDF_guide_preparation/kk-preparation-guide-2025.pdf",
+      "cache_path": null,
+      "char_count": 0,
+      "ingested_at": "2026-07-09T00:00:00Z",
+      "extracted": true,
+      "extraction_version": "v4.99",
+      "reliability": "primary",
+      "notes": "Flagged directly by the operator, 2026-07-09. Official current (2025) parent preparation guide -- mission/values statement, packing/safety policy, staff-supervision ratios, daily schedule, current staff team (matching already-documented Caldwell/Lacasse/Durand/Thomson), and a detailed current site map with a full building/cabin-name legend (rendered from PDF page 20 via pdftoppm, since it's graphical, not extractable text). The map is the single richest current-day building-inventory source found this project -- see facts for the full legend transcription."
     }
   ],
-  "source_count": 562
+  "source_count": 566
 }

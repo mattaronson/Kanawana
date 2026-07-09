@@ -811,6 +811,12 @@
           "at": "2026-03-15T13:30:00Z",
           "by": "auto",
           "task": "REVIEW"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-07-09T00:00:00Z",
+          "by": "auto",
+          "task": "RESEARCH"
         }
       ],
       "ralph_loops_completed": 2,
@@ -826,7 +832,8 @@
         "f_0930",
         "f_0931",
         "f_1043",
-        "f_1151"
+        "f_1151",
+        "f_1792"
       ],
       "sources_cited": [
         "src_concordia_fonds",
@@ -845,7 +852,7 @@
         "myths-and-legends"
       ],
       "file_id": "1sAGFRKb22uggFeMgrSJLllgpSZoAGxa4",
-      "word_count": 803,
+      "word_count": 1038,
       "notes": "v47 protocol test subject. Formal RALPH caught factual conflation. v4.24 RALPH loop (2026-03-15): 8-query web search saturation. No biographical details found online. New facts f_0927-f_0931. Resolution requires Concordia Archives physical/remote access."
     },
     {
@@ -889,6 +896,12 @@
           "at": "2026-02-19T04:30:00Z",
           "by": "auto",
           "task": "REVIEW"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-07-09T00:00:00Z",
+          "by": "auto",
+          "task": "VERIFY"
         }
       ],
       "ralph_loops_completed": 2,
@@ -1080,12 +1093,20 @@
         "f_1343",
         "f_0089",
         "f_1544",
-        "f_1553"
+        "f_1553",
+        "f_1792",
+        "f_1793",
+        "f_1794",
+        "f_1795",
+        "f_1796",
+        "f_1797"
       ],
       "sources_cited": [
         21,
         "src_flickr_kanawana",
-        "src_mcmaster_mclean"
+        "src_mcmaster_mclean",
+        "src_pureexploration_manuel_quiroga",
+        "src_ymcakanawana_com_wayback_2005_2007"
       ],
       "open_questions": 7,
       "cross_links": [
@@ -1104,7 +1125,7 @@
         "hedley-dimock"
       ],
       "file_id": null,
-      "word_count": 5250,
+      "word_count": 12994,
       "notes": "v4.75: Peter Goddard confirmed (Peter Gilling Goddard 1953-2016, obituary condolence). Nelson McEwen tenure extended c.1927-1947. Derek Walsh exhausted. Gap periods updated. | 2026-07-07: applied operator's standing conflict-resolution policy (documented sources take precedence over oral history) to resolve c_004, c_015, c_016, c_017 -- Gary White's Kanawana tenure narrowed to FY2001-2002, Sean Day's start corrected to 2008, Nicolas Garcia's spelling/end-date corrected to March 2014, Rossy Foundation corrected to Tyndale St-Georges."
     },
     {
@@ -2539,6 +2560,12 @@
           "at": "2026-02-28T05:50:01Z",
           "by": "auto",
           "task": "REVIEW"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-07-09T00:00:00Z",
+          "by": "auto",
+          "task": "RESEARCH"
         }
       ],
       "ralph_loops_completed": 1,
@@ -2609,7 +2636,8 @@
         "f_1207",
         "f_1208",
         "f_1209",
-        "f_1210"
+        "f_1210",
+        "f_1810"
       ],
       "sources_cited": [
         "src_ymca_website",
@@ -2642,7 +2670,7 @@
         "canadian-camping-movement"
       ],
       "file_id": null,
-      "word_count": 3915,
+      "word_count": 4045,
       "notes": "R1-R2 RALPH completed 2026-02-27. Four myths documented (oldest camp, name meaning, Indian heritage, founding narrative). Legends: haunted house (1935), Cropsey archetype, Anson Minor (Canadian parallel), Chopsy (Kanawana-local). Quebec folklore context. Fireside Canada podcast as source. 17 KB facts cited. 19 sources. Chopsy needs oral history."
     },
     {
@@ -2771,6 +2799,12 @@
           "at": "2026-02-28T05:57:36Z",
           "by": "auto",
           "task": "REVIEW"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-07-09T00:00:00Z",
+          "by": "auto",
+          "task": "RESEARCH"
         }
       ],
       "ralph_loops_completed": 1,
@@ -2823,7 +2857,28 @@
         "f_1123",
         "f_1089",
         "f_1152",
-        "f_1530"
+        "f_1530",
+        "f_1785",
+        "f_1786",
+        "f_1787",
+        "f_1788",
+        "f_1789",
+        "f_1790",
+        "f_1791",
+        "f_1798",
+        "f_1799",
+        "f_1800",
+        "f_1801",
+        "f_1802",
+        "f_1803",
+        "f_1807",
+        "f_1808",
+        "f_1809",
+        "f_1810",
+        "f_1811",
+        "f_1812",
+        "f_1813",
+        "f_1814"
       ],
       "sources_cited": [
         "src_ymca_website",
@@ -2841,7 +2896,9 @@
         "src_journal_acces_fire_2023",
         "src_ka_news_1980",
         "src_oral_aronson",
-        "src_cca_ross_macdonald"
+        "src_cca_ross_macdonald",
+        "src_concordia_12B03",
+        "src_kk_prep_guide_2025"
       ],
       "open_questions": 13,
       "cross_links": [
@@ -2856,7 +2913,7 @@
         "lv-games"
       ],
       "file_id": null,
-      "word_count": 3447,
+      "word_count": 5785,
       "notes": "Stub created 2026-02-27. Comprehensive inventory of named places, buildings, structures (current and historical). Includes Grand Portage and Longhouse from oral tradition (no written documentation found). Superintendent's house fire May 2023. Infirmary (5 beds), 30ft climbing wall, workshop pavilion added from web research. 13 open questions."
     },
     {
@@ -3824,6 +3881,12 @@
           "at": "2026-03-16T05:30:00Z",
           "by": "auto",
           "task": "REVIEW"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-07-09T00:00:00Z",
+          "by": "auto",
+          "task": "VERIFY"
         }
       ],
       "ralph_loops_completed": 2,
@@ -3848,7 +3911,8 @@
         "f_0989",
         "f_0990",
         "f_0991",
-        "f_0992"
+        "f_0992",
+        "f_1797"
       ],
       "sources_cited": [
         "src_oral_aronson",
@@ -3864,7 +3928,8 @@
         "src_acq_day",
         "src_ymca_mclean_fund",
         "src_ymcaquebec_annualreport_2007",
-        "src_ymcaquebec_annualreport_2008"
+        "src_ymcaquebec_annualreport_2008",
+        "src_ymcakanawana_com_wayback_2005_2007"
       ],
       "open_questions": 4,
       "cross_links": [
@@ -3875,7 +3940,7 @@
         "programs-activities"
       ],
       "file_id": null,
-      "word_count": 1260
+      "word_count": 1630
     },
     {
       "article_id": "ymca-quebec-history",
@@ -4187,6 +4252,12 @@
           "at": "2026-06-13T10:05:00Z",
           "by": "auto",
           "task": "REVIEW"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-07-09T00:00:00Z",
+          "by": "auto",
+          "task": "RESEARCH"
         }
       ],
       "ralph_loops_completed": 1,
@@ -4210,7 +4281,10 @@
         "f_1285",
         "f_1516",
         "f_1517",
-        "f_1518"
+        "f_1518",
+        "f_1807",
+        "f_1808",
+        "f_1809"
       ],
       "sources_cited": [
         "src_vss_familles_pionnieres",
@@ -4222,7 +4296,8 @@
         "src_gas_bag_1923",
         "src_oral_aronson",
         "src_shgph_saint_sauveur",
-        "src_musee_ski_stein"
+        "src_musee_ski_stein",
+        "src_concordia_12B03"
       ],
       "open_questions": 5,
       "cross_links": [
@@ -4232,7 +4307,7 @@
         "founding-1894"
       ],
       "file_id": null,
-      "word_count": 1074
+      "word_count": 1368
     },
     {
       "article_id": "centennial-1994",

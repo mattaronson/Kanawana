@@ -47,7 +47,7 @@ A second Télesphore Pagé (b. April 1908), likely a nephew or cousin, operated 
 
 The YMCA of Montreal purchased the Saint-Sauveur property from the Page family circa 1910, establishing Camp Kanawana at its current location.^1 The 1923 *Gas Bag* lists "Pages" as a hike destination from camp, suggesting the family still had a visible presence in the area.^7
 
-In 1960, the YMCA purchased additional land described as the "Pagé farm" to expand the camp property, though the acreage and terms of this purchase are not specified in available sources.^1
+In 1960, the YMCA purchased additional land described as the "Pagé farm" to expand the camp property, though the acreage and terms of this purchase are not specified in available sources.^1 McMorris's thesis (read as a full PDF for the first time, 2026-07-09) gives a fuller account: the farm — "the building just outside the camp gate" — was bought "in order to assure Kanawana many years of camping on the site without cottage country encroaching," citing the YMCA's own 1960 Kamp Kanawana Annual Report.^12 Concordia's P145/12B03 finding aid independently corroborates a distinct archival file, "KK land purchase-Pagé farm. — 1960-1961," separate from the original 1910-1927 purchase records — narrowing the transaction to that specific two-year window, though exact acreage and terms remain undocumented. It's plausible, though not directly confirmed, that today's "Farmhouse" building at Camp Kanawana (see [[places/places-and-locations|Places and Locations at Camp Kanawana]]) is this former Pagé farmhouse.
 
 ## The Desjardins Connection
 
@@ -64,7 +64,7 @@ In 1957, Mickey Stein was staying in the old Pagé family farmhouse when he obse
 ## Open Questions
 
 1. [Critical] Which specific parcel(s) did the Pagé family sell or donate to the YMCA circa 1910? Was it lot 43 on côte Saint-Elmire, or a different holding?
-2. [Critical] What were the terms and acreage of the 1960 "Pagé farm" purchase?
+2. [Critical, narrowed 2026-07-09] What were the terms and acreage of the 1960 "Pagé farm" purchase? Now dated more precisely to 1960-1961 per a Concordia finding-aid file, and its purpose is documented (preventing "cottage country encroaching") — but exact acreage and price remain undocumented.
 3. [Important] Was Télesphore Pagé the family member who sold the 1960 "Pagé farm" to the YMCA? He inherited the family land and his wife Clarilda lived until 1995.
 4. [Important] Do Quebec land registry records (Registre foncier du Québec) document the Pagé-to-YMCA transactions? (Requires paid account — operator access needed.)
 5. [Nice-to-have] Does the Société d'histoire et de généalogie des Pays-d'en-Haut hold additional records on the Pagé family's landholdings?
@@ -89,6 +89,7 @@ In 1957, Mickey Stein was staying in the old Pagé family farmhouse when he obse
 9. Histoires de chez nous / Community Stories, "Mont Habitant." URL: https://www.histoiresdecheznous.ca/v1/pm_v2.php?id=story_line_child&fl=0&lg=Francais&ex=00000718&sl=6641&pos=1
 10. Société d'histoire et de généalogie des Pays-d'en-Haut, Saint-Sauveur local history. Jean-Baptiste Desjardins as early settler; second Télesphore Pagé (b. April 1908, grocery on rue de la Gare).
 11. Musée du Ski des Laurentides / Laurentian Ski Museum, Mickey Stein biographical data; Mont-Habitant Development Ltd incorporation (July 27, 1959).
+12. Grace McMorris, "An Experience That Lasts a Lifetime," MA thesis, Concordia University, 2023, p.63-64 and p.91 (read as a full PDF, 2026-07-09) [src_mcmorris_thesis]; Concordia University Archives, YMCA of Montreal fonds, sub-sub-series P145/12B03 [src_concordia_12B03].
 
 ## Research Notes
 

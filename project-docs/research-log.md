@@ -2937,3 +2937,132 @@ facts today), 0 new sources (2 existing sources — the ACA presidents page and 
 fully (re-)extracted). 2 conflicts resolved/likely-resolved (c_003, c_012), 1 clarified without
 resolving (c_001), 1 re-checked without progress (c_008). KB v4.99, 1,746 facts. `p_166` and
 `p_167` marked completed in `queue/priorities.json`.
+
+---
+
+## Campaign 31: Systematic open-questions pass — directors-index.md and places-and-locations.md
+
+**Date:** 2026-07-09
+**Trigger:** The user asked to systematically work through the wiki's open questions. Given the
+scale (260 still-open entries across 50 articles), the approach agreed was to start with the two
+richest single-article backlogs — `people/directors-index.md` (11 open) and
+`places/places-and-locations.md` (12 open) — using sequential batches of parallel research agents,
+integrated by hand, then check in before continuing further.
+
+### Batch 1 — directors-index.md
+
+Five parallel research agents plus one dedicated verification agent:
+
+- **Ralph Dawson's role**: downloaded and full-text-searched McMorris's actual thesis PDF for the
+  first time (the KB's cache had only ever held the Spectrum repository's landing page, never the
+  129-page document itself). She characterizes him as "an alumnus" — her own inference, not a
+  self-identification, but the first real lean this question has had.
+- **Lemuel Ereaux / Paterson-Davis 1923**: re-reading the 1921 and 1922 brochures together shows
+  Ereaux's only *documented* directorship year is 1922 (Brandon held 1921); "eleven summers" in the
+  1922 brochure was a misreading — it describes his cumulative camp experience, not directorship
+  tenure. The 1923 brochure separately titles L.P. Little "Assistant Chief of the Junior Division,"
+  showing "Chief" wasn't an exclusive top-job title that year.
+- **François Dauphin**: 22 queries across 6+ surfaces (LinkedIn, Facebook, French/English news,
+  obituary/genealogy databases, business-intelligence aggregators) — genuinely exhausted except one
+  unconfirmed LinkedIn profile (name/city/org match, but login-walled and no Kanawana-specific
+  detail).
+- **Matt/Laurie/Manuel plaque names**: full-resolution re-examination of the 2003 JBC plaque
+  confirms it genuinely never recorded surnames for "Matt"/"Laurie" (not an illegibility problem).
+  The 2000 CIT plaque's obscured signature, re-cropped and contrast-enhanced, plausibly reads
+  "Manuel Quiroga" — corroborated by an outdoor-guiding company's bio for an Argentine guide who
+  "worked as a Canoe Guide and Program Director at YMCA Camp Kanawana" 1998-2000.
+- **c_015/c_016/c_017 quick re-check**: this is the one that mattered most. A targeted re-test via
+  the Wayback Machine CDX API (`curl` over `https://`, since `WebFetch` and `http://` curl both
+  refuse `web.archive.org` in this environment) found that `ymcakanawana.com`'s contact page *is*
+  archived back to December 2005 — contradicting the prior campaign's premise that no snapshot
+  existed before 2009. Every 2005-2007 snapshot names Sean Day as director, with zero mention of
+  François Dauphin. This directly conflicts with the 2007 Montreal YMCA annual report (which names
+  Dauphin), which had been used to "resolve" conflict c_017 in Campaign 28 under the
+  "documented-sources-win" policy. **Independently re-verified by a second agent** before acting on
+  it, given the significance of reversing a prior resolution. Conclusion: this is now a genuine
+  two-documented-source disagreement (the camp's own website vs. the annual report's internal org
+  chart) — not oral-history-vs-document — so the standing policy doesn't apply. **c_017 reopened**
+  as unresolved; `sean-day.md` and `directors-index.md` corrected to present both dates rather than
+  asserting 2008. The most likely reconciliation (unconfirmed): the two sources may simply track
+  different titles/roles.
+
+### Interlude — two operator-provided leads
+
+Mid-session the operator shared two URLs directly:
+1. **Concordia Archives P145/12B03** (Land, facilities, equipment, supplies) — a finding-aid page
+   listing Kanawana land-purchase records (1910-1927, and separately 1960-1961 for the "Pagé
+   farm"), 1915 property sketches, and building blueprints including the **Millen Memorial Craft
+   Shop's 1960 dedication** — a genuinely new building name/date.
+2. The **current (2025) Camp YMCA Kanawana Preparation Guide** — a 43-page parent handbook with a
+   detailed, current official site map. Rendered via `pdftoppm` (poppler-utils, already installed
+   in Campaign 30) and transcribed in full: 8 numbered camp zones, a near-complete current cabin
+   inventory (including a cabin literally named **"Chopsy's"** — the only institutional trace of
+   the Chopsy legend found anywhere outside oral history), and confirmation that "B.O." means
+   Business Office and "P.O." means Program Office (correcting an assumption from the older map).
+
+### Batch 2 — places-and-locations.md
+
+Map cataloguing (done directly, not delegated) plus four parallel research agents:
+
+- **Direct map cataloguing**: cropped and zoomed into the already-in-repo 1941 (3 copies) and
+  1980-2001 maps. Confirmed Golf Course, Lacrosse Field, Camp Cliff, Indian Grave, and "Mountain
+  House" on the 1941 map; Chief's, Lodge, Bunkhouse, Farm House, Block House, Sanctuary, Softball
+  Diamond, Car Wash on the 1980-2001 map.
+- **Farmhouse origins**: McMorris's full thesis PDF (again, never fully read before) states the
+  "Pagé farm" — "the building just outside the camp gate" — was purchased separately in 1960-1961,
+  "in order to assure Kanawana many years of camping on the site without cottage country
+  encroaching," corroborated by a distinct Concordia finding-aid file. Plausibly (not confirmed)
+  the same building as today's "Farmhouse," given its farmhouse-and-barn pairing at the property's
+  edge on later maps.
+- **CCA drawings / historical maps**: confirmed the CCA architectural-drawings finding is already
+  complete from an earlier campaign. But re-reading the Concordia P145/12B03 finding aid surfaced
+  new blueprint items (1940 sleeping-cabin drawing, 1945 eight-boy-cabin blueprint, 1952 "proposed
+  craft shop" blueprint — predating the Craft Shop's 1960 dedication by 8 years — plus undated
+  Lodge and dock drawings).
+- **The big find**: McMorris's thesis doesn't just describe the 1928 and 1962 camp maps in prose —
+  it **reproduces them as full-page figures**, citing their archival home as P145/12B07 ("Maps of
+  Kanawana n.d."), not 12B03 as assumed. Downloaded the actual PDF and viewed the map images
+  directly. Both maps explicitly draw and label a "**HAUNTED HOUSE**" building at the same spot —
+  the property's southwest corner, next to a waterfall ("Falls"), near Round Lake — confirming it
+  as a real, persistently-located building rather than a figure of speech, and resolving *where* a
+  question marked "genuinely exhausted" earlier in this same session actually points. The 1928 map
+  also independently confirms the "Indian Grave" location already found via the 1941 map, and shows
+  Golf Course and Lacrosse Field both present in 1928 but **absent from the 1962 map** — narrowing
+  the golf course's decommissioning window to 1941-1962. New names surfaced: Farewell Rock,
+  Parliament Rock, Frenchie Camp, Craft House (1928); a numbered legend reading Craftshop, Lodge,
+  **Long House**, Dining Hall, Business Office, Chief's Cabin, Pump House, Windward Ho!, Sanctan,
+  plus Snowshoe Lake and Look Out (1962). "Long House" is a plausible, unconfirmed candidate for the
+  same building already documented as demolished by fire c. 1979.
+- **Plaque-photo mining**: checked all 151 plaque images for building-history content (versus the
+  director/counsellor rosters most of them actually are) — genuinely exhausted for this purpose,
+  no new building facts, though one low-confidence tangential lead surfaced (a weathered "Wizard of
+  Oz Day" trophy plaque, structurally parallel to the already-documented Western Day/Viking Day
+  plaques).
+- **Haunted house cross-check**: independently confirmed the question was already properly
+  exhausted for its *legend content* (a June 2026 web campaign and a direct 2026-06-13 oral-history
+  question both came up empty) — before the map images above resolved its *location*.
+
+### KB / file changes
+
+- `kb/facts.json`: kb_version v4.99 → **v5.00**, +~65 new facts across both batches (1712 → 1776).
+- `sources/sources.json`: 566 sources (+3: `src_concordia_12B03`, `src_pureexploration_manuel_quiroga`,
+  `src_ymcakanawana_com_wayback_2005_2007`, `src_kk_prep_guide_2025` — existing McMorris and Ross &
+  Macdonald source records updated with notes on the full-PDF re-extraction).
+- `assets/images/maps/`: 3 new images (1928 map, 1962 map, current 2025 map), all credited in
+  `credits.json`.
+- Six wiki articles updated: `directors-index.md`, `ralph-dawson.md`, `sean-day.md`,
+  `places-and-locations.md`, `myths-and-legends.md`, `page-family.md`.
+- `queue/priorities.json`: `p_051` marked completed (a stale bundle — Grand Portage/Longhouse were
+  already resolved in an earlier session but never closed out; the cabin-inventory and
+  building-history parts are now substantially resolved by the map research above, without needing
+  oral history at all for the *identification* — only the deeper *stories* behind these places
+  still route to oral history).
+
+### Outcome
+
+~65 new facts, 4 new sources, 0 new conflicts (1 reopened: c_017). Two articles' open-question
+backlogs substantially cleared: directors-index.md (6 of 11 open items resolved/advanced) and
+places-and-locations.md (7 of 12 open items resolved/advanced, including one full resolution of a
+question previously marked "exhausted" earlier in the very same session — a reminder that
+"exhausted" should mean "exhausted for the surfaces tried," not "exhausted absolutely," since a
+single new source (the thesis's embedded map images) overturned it within the hour.
