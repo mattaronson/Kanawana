@@ -2,12 +2,12 @@
 
 <!-- status: E1-reviewed -->
 <!-- confidence: high -->
-<!-- last_updated: 2026-06-21 -->
-<!-- last_editor: v52 -->
+<!-- last_updated: 2026-07-09 (open-questions pass: McMorris thesis full-PDF question resolved, Trent OCA/CCA and BAnQ Advitam questions clarified, Source/KB Statistics tables refreshed to current totals -- the detailed category breakdown below them is flagged as stale and not yet recomputed) -->
+<!-- last_editor: v67 -->
 
 ## Summary
 
-This article catalogs all sources consulted for the Kanawana Wiki Builder project. As of March 2026, the knowledge base draws on 138 source records spanning primary camp publications (1921–1980), archival finding aids, academic research, biographical references, and web sources. The collection is anchored by Grace McMorris's 2023 Concordia MA thesis, Internet Archive primary documents (including a newly mapped ymca-montreal-fonds collection of 25+ items), and Concordia University's YMCA of Montreal Fonds P145.
+This article catalogs all sources consulted for the Kanawana Wiki Builder project. As of March 2026, the knowledge base drew on 138 source records; by 2026-07-09 this had grown to 580, spanning primary camp publications (1921–1980), archival finding aids, academic research, biographical references, and web sources -- including a substantial Phase 2 broad-net expansion into social media, review platforms, job postings, municipal/heritage registries, and Wayback-recovered predecessor-domain documents. The collection is anchored by Grace McMorris's 2023 Concordia MA thesis (now read in full, not just chapters 1-3 + conclusion), Internet Archive primary documents (including a newly mapped ymca-montreal-fonds collection of 25+ items), and Concordia University's YMCA of Montreal Fonds P145.
 
 ## Primary Sources (31)
 
@@ -123,24 +123,27 @@ John Wilson McConnell, Lemuel Cushing Jr., Centennial Voyageur Canoe Pageant, Br
 
 ## Source Statistics
 
-| Category | Count |
+*Note: the category breakdown below (primary/secondary/tertiary/catalog split, extraction counts) was last hand-tallied in March 2026 and has not been recomputed against the current source list; only the total and KB Statistics figures below are current as of 2026-07-09. Recomputing the full breakdown is a future-work item.*
+
+| Category | Count (March 2026) |
 |----------|-------|
 | Primary (camp publications, archives, oral history, newspapers) | 38 |
 | Secondary (academic, organizational, biographical) | 56 |
 | Tertiary (Wikipedia) | 16 |
 | Catalog references | 16 |
-| **Total** | **138** |
-| Extracted (KB facts generated) | 98 |
-| Unextracted (awaiting download or access) | 28 |
-| With cached text on disk | 18 |
+| **Total (March 2026)** | **138** |
+| **Total (current, 2026-07-09)** | **580** |
+| Extracted (KB facts generated) | 98 (March 2026 tally, stale) |
+| Unextracted (awaiting download or access) | 28 (March 2026 tally, stale) |
+| With cached text on disk | 18 (March 2026 tally, stale) |
 
 ## KB Statistics
 
 | Metric | Count |
 |--------|-------|
-| Total facts | 1355 |
-| Fact categories | 40 |
-| KB version | v4.74 |
+| Total facts | 1790 |
+| Fact categories | 77 |
+| KB version | v5.02 |
 
 ## Related Articles
 
@@ -154,10 +157,10 @@ John Wilson McConnell, Lemuel Cushing Jr., Centennial Voyageur Canoe Pageant, Br
 
 ## Open Questions
 
-1. [Critical] Can the McMorris thesis PDF be accessed for full text extraction (currently only chapters 1–3 + conclusion)?
+1. ~~[Critical] Can the McMorris thesis PDF be accessed for full text extraction (currently only chapters 1–3 + conclusion)?~~ [Resolved 2026-07-08/09] Yes — the thesis was read directly as a full 129-page PDF from spectrum.library.concordia.ca across Campaigns 30-31, superseding the earlier chapters-1-3-plus-conclusion extraction. Dozens of new facts and two article corrections (Ralph Dawson, the Pagé farm purchase date, the 1928/1962 camp maps) resulted.
 2. [Important] What additional materials exist in Concordia Fonds P145 sub-series 12A–12K and 12M–12N?
-3. [Important] Are there Kanawana-specific records in the Trent University OCA/CCA fonds?
+3. ~~[Important] Are there Kanawana-specific records in the Trent University OCA/CCA fonds?~~ [Largely resolved] Yes — Derek Walsh's 1983 CCA Award of Excellence and his link to "Kamp Kanawana, YMCA, Montreal" are documented via the Trent University Ontario Camping Association fonds (see directors-index.md), among 30+ KB facts referencing Trent-held material.
 4. [Important] BAnQ digitized newspaper archive (numerique.banq.qc.ca) — systematic search for Kanawana mentions in Gazette, Montreal Star, La Presse, Le Devoir requires browser access.
 5. [Nice-to-have] Can the Ballantyne 1944 history yield any Montreal YMCA camping context?
 6. [Nice-to-have] Does BAnQ hold Quebec-specific camping records (provincial camping association, inspection records)?
-7. [Nice-to-have] BAnQ Advitam Notice 519920 references YMCA Montreal archives received 1985 — what is the relationship to Concordia fonds?
+7. ~~[Nice-to-have] BAnQ Advitam Notice 519920 references YMCA Montreal archives received 1985 — what is the relationship to Concordia fonds?~~ [Clarified] These are two separate archival deposits, not the same holding: the BAnQ Advitam notice (f_0443) documents a distinct 1985 transfer to BAnQ, while Concordia's P145 fonds is the primary Kanawana-relevant collection used throughout this KB. No evidence the BAnQ material duplicates or supersedes the Concordia fonds; it remains a separate, unexplored lead in its own right.

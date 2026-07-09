@@ -1205,6 +1205,12 @@
           "at": "2026-02-19T07:30:00Z",
           "by": "auto",
           "task": "REVIEW"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-07-09T07:00:00Z",
+          "by": "auto",
+          "task": "REVIEW"
         }
       ],
       "ralph_loops_completed": 0,
@@ -1280,7 +1286,7 @@
         "f_1339"
       ],
       "sources_cited": [],
-      "open_questions": 7,
+      "open_questions": 4,
       "cross_links": [
         "founding-1894",
         "centennial-1967",
@@ -1291,8 +1297,8 @@
         "stuart-mclean"
       ],
       "file_id": null,
-      "word_count": 1622,
-      "notes": "E1 REVIEW (2026-02-19): Fixed source counts (85 total, 74 extracted, 11 IA documents). Restructured with newspaper sources, Pip Award pages, biographical sources. 2026-06-21: Added 1966-67 annual report (f_1335), expanded 12B01/14D holdings detail (f_1337), expanded Kautz YMCA Archives entry (f_1339). Updated statistics to 138 sources, 1355 facts, KB v4.74."
+      "word_count": 1902,
+      "notes": "E1 REVIEW (2026-02-19): Fixed source counts (85 total, 74 extracted, 11 IA documents). Restructured with newspaper sources, Pip Award pages, biographical sources. 2026-06-21: Added 1966-67 annual report (f_1335), expanded 12B01/14D holdings detail (f_1337), expanded Kautz YMCA Archives entry (f_1339). Updated statistics to 138 sources, 1355 facts, KB v4.74. 2026-07-09: Resolved/clarified 3 of 7 open questions (McMorris thesis now read in full; Trent OCA/CCA fonds largely resolved via Derek Walsh; BAnQ Advitam notice clarified as a separate deposit from the Concordia fonds). Refreshed Source/KB Statistics tables to current totals (580 sources, 1790 facts, KB v5.02) -- the detailed primary/secondary/tertiary category breakdown remains a March-2026 tally, flagged stale, not recomputed this pass."
     },
     {
       "article_id": "harold-cross",
