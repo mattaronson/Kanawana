@@ -1,7 +1,7 @@
 # Lake Wilson
 
-*Status: E1-reviewed | Sources: src_mysummercamps_kanawana, src_gas_bag_1923, src_history_1935, src_ymca_website, src_oral_aronson*
-*Last Updated: 2026-02-28 (E1 REVIEW completed) — photo gallery added 2026-07-02*
+*Status: E1-reviewed | Sources: src_mysummercamps_kanawana, src_gas_bag_1923, src_history_1935, src_ymca_website, src_oral_aronson, src_mcmorris_thesis, src_toponymie_lac_wilson_additional, src_concordia_12L*
+*Last Updated: 2026-07-09 (open-questions research pass: McMorris thesis full-text search confirmed no naming discussion; dam-construction date and lake dimensions confirmed as dead ends; 3 more Quebec "Lac Wilson" toponymy fiches added as supporting, non-conclusive pattern evidence)*
 
 ## Overview
 
@@ -34,7 +34,9 @@ Alternative possibilities for the "Wilson" name include:
 - A reference to J.W. McConnell's own middle name "Wilson" (his mother's maiden name)
 - An unrelated Wilson associated with the YMCA or the local area
 
-The Commission de toponymie du Québec has no entry for this specific Lac Wilson. The most likely sources to resolve this question are the 1933 Ralph Dawson camp history, the 1943 R.L. Charlton "Early Days" account, or the McMorris thesis full text, none of which have been fully examined.
+The Commission de toponymie du Québec has no entry for this specific Lac Wilson. **Resolved 2026-07-09 (partial)**: a full-text extraction of the complete McMorris thesis (129 pages) found zero mentions of "McConnell" and exactly two trivial mentions of "Wilson" (both simply listing "Lake Kanawana and Lake Wilson" as the camp's two lakes, with no naming discussion) — the thesis is not a source for this question and can be marked exhausted. Dawson's 1933 history and Charlton's 1943 "Early Days" account remain the most likely sources, but only their box locations (Concordia Archives Box HA2307 and HA1881 respectively) are confirmed online — no secondary source anywhere reproduces or summarizes their content regarding the lake name; physical archive access is required.
+
+Additional supporting (not conclusive) pattern evidence was also found: three more official Quebec "Lac Wilson" toponymy entries beyond Sainte-Lucie-des-Laurentides — Brownsburg-Chatham (fiche 451695, named for a landowning family who also built a dam to create the lake, directly parallel to this lake's own dam), Saint-Théophile (fiche 67250, named for a man named Wilson who built a fishing camp), and Grenville-sur-la-Rouge (fiche 67246, undetermined). 3 of 4 documented Quebec "Lac Wilson" toponyms are named for a landowner/settler named Wilson — mildly favouring the pre-existing-settler-family hypothesis over the McConnell-son hypothesis, though not proving it for this specific lake.
 
 ## The Dam
 
@@ -53,10 +55,10 @@ The dam between Lake Kanawana and Lake Wilson is a longstanding camp feature.^3 
 
 ## Open Questions
 
-1. [Critical] What is the naming origin of Lake Wilson? The 1933 Dawson history and 1943 Charlton account are the most likely sources.
-2. [Important] When was the dam between Lake Kanawana and Lake Wilson constructed?
-3. [Important] What is the surface area and depth of Lake Wilson?
-4. [Important] Does the McMorris thesis discuss Lake Wilson's history or naming?
+1. [Critical] What is the naming origin of Lake Wilson? The 1933 Dawson history and 1943 Charlton account remain the most likely sources, but are confirmed archive-only (content inaccessible online) — see above. 3 of 4 comparable Quebec "Lac Wilson" toponyms favour a settler-family origin over the McConnell hypothesis.
+2. [Important, confirmed dead end 2026-07-09] When was the dam between Lake Kanawana and Lake Wilson constructed? Not found in any online source; Quebec's CEHQ Répertoire des barrages does not list this dam at all.
+3. [Important, confirmed dead end 2026-07-09] What is the surface area and depth of Lake Wilson? Does not appear in any public lake/GIS database (checked GPS Nautical Charts, which does list neighbouring Lac Kanawana at 57.97 acres) — likely because it is a small, private, unofficial-toponymy lake.
+4. ~~[Important] Does the McMorris thesis discuss Lake Wilson's history or naming?~~ [Resolved 2026-07-09] No — full-text search found only two trivial mentions (see above).
 5. [Nice-to-have] Are there historical photographs of Lake Wilson in the Concordia Archives?
 6. [Nice-to-have] What species of fish, if any, are present in Lake Wilson?
 
@@ -76,6 +78,9 @@ The dam between Lake Kanawana and Lake Wilson is a longstanding camp feature.^3 
 5. Research finding: CRE Laurentides atlas, Les Amis du Lac Wilson registry, Mapcarta geographic database.
 6. The Gas Bag, 1923 Re-union Number, Internet Archive.
 7. Oral history, Matt Aronson (2026).
+8. McMorris, Grace (2023). "An Experience That Lasts a Lifetime." MA thesis, Concordia University — full-text search, 2026-07-09 [src_mcmorris_thesis].
+9. Additional Commission de toponymie du Québec "Lac Wilson" fiches: Brownsburg-Chatham (451695), Saint-Théophile (67250), Grenville-sur-la-Rouge (67246) [src_toponymie_lac_wilson_additional].
+10. Concordia University Archives, YMCA of Montreal fonds sub-series 12A/12L (Dawson 1933, Charlton 1943 box locations) [src_concordia_12L].
 
 ## Research Notes
 

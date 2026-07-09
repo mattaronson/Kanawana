@@ -2535,6 +2535,50 @@
       "assigned_weight": "P3",
       "created_at": "2026-07-09T06:00:00Z",
       "status": "pending"
+    },
+    {
+      "priority_id": "p_199",
+      "rank": 199,
+      "type": "RESEARCH",
+      "description": "Access and extract the Library and Archives Canada 'Montreal Young Women's Christian Association fonds' series 'Camp Oolahwan committee minutes, reports and training programmes, 1916-1974' -- a newly-found, not-yet-accessed primary source that could resolve Camp Oolahwan's capacity, age range, and post-Halliday directors (camp-oolahwan.md open questions).",
+      "article_id": "camp-oolahwan",
+      "blocking": false,
+      "assigned_weight": "P2",
+      "created_at": "2026-07-09T11:00:00Z",
+      "status": "pending"
+    },
+    {
+      "priority_id": "p_200",
+      "rank": 200,
+      "type": "HUMAN_REVIEW",
+      "description": "Conflict c_018: the McCord Stewart Museum's Junior League of Montreal fonds description claims 'today, Camp Amy Molson carries on its mission' (implying institutional succession from the Junior League's 1921 camp), but Camp Amy Molson's own official history states it was founded independently in 1944 by the Montreal Ladies' Benevolent and Protestant Orphans' Society. Two documented institutional sources disagreeing -- needs editorial judgment, not resolvable by the 'oral history yields to documents' policy since neither side is oral history.",
+      "article_id": "camp-oolahwan",
+      "blocking": false,
+      "assigned_weight": "P2",
+      "created_at": "2026-07-09T11:00:00Z",
+      "status": "pending"
+    },
+    {
+      "priority_id": "p_201",
+      "rank": 201,
+      "type": "RESEARCH",
+      "description": "Attempt local (non-WebFetch) PDF text extraction of the McMorris thesis PDF (https://spectrum.library.concordia.ca/992763/1/McMorris_MA_F2023.pdf) to search for the exact date of the 'Lumberman-Voyageur Week' to 'L&V Games' name change -- a FlateDecode-compressed stream defeated WebFetch-based extraction this session, but a local pdftotext-style tool (already used successfully elsewhere this project) would likely succeed.",
+      "article_id": "lv-games",
+      "blocking": false,
+      "assigned_weight": "P3",
+      "created_at": "2026-07-09T11:00:00Z",
+      "status": "pending"
+    },
+    {
+      "priority_id": "p_202",
+      "rank": 202,
+      "type": "RESEARCH",
+      "description": "Manually browse the Kanawana Flickr account (~4,416 photos) and/or Facebook photo archive to find and date the earliest surviving L&V Games photograph -- not resolvable via text search/WebFetch, requires visual browsing.",
+      "article_id": "lv-games",
+      "blocking": false,
+      "assigned_weight": "P3",
+      "created_at": "2026-07-09T11:00:00Z",
+      "status": "pending"
     }
   ]
 }

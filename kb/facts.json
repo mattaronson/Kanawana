@@ -1,8 +1,8 @@
 {
   "version": "v4.98",
-  "kb_version": "v5.03",
+  "kb_version": "v5.04",
   "migrated_from": "3.3",
-  "fact_count": 1814,
+  "fact_count": 1861,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -31345,7 +31345,9 @@
         "Montreal Ladies' Benevolent Society"
       ],
       "date_ref": "1944",
-      "conflicts_with": [],
+      "conflicts_with": [
+        "f_1860"
+      ],
       "added_version": "v5.03",
       "added_by": "ralph_loop"
     },
@@ -31481,6 +31483,782 @@
       "date_ref": "1926-1928",
       "conflicts_with": [],
       "added_version": "v5.03",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1853",
+      "claim": "Mary Susannah Edgar's biography, per the Trent University Archives finding aid for her fonds: parents Joseph Edgar and Mary Little; educated at Sundridge Public School, Barrie High School, Havergal Ladies College (Toronto), University of Chicago extension courses, and Teachers College, Columbia University; graduated the YWCA National Training School, New York City, 1915. She held a YWCA 'First National Girls' Work' role from 1912 to 1914 -- predating her 1915-1919 Montreal/Oolahwan period. In 1920 she undertook a four-month YWCA volunteer posting in Japan, and that same year purchased the Lake Bernard property -- two years before Glen Bernard Camp opened in 1922, refining the previously-recorded chronology.",
+      "sources": [
+        "src_trent_mary_edgar_finding_aid"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "Mary Susannah Edgar"
+      ],
+      "date_ref": "1912-1922",
+      "conflicts_with": [],
+      "added_version": "v5.04",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1854",
+      "claim": "Mary Edgar wrote four books, not one as previously recorded: Wood-fire and Candlelight (1945), Under Open Skies (1956), The Christmas Wreath of Verse (1967), and Once There Was a Camper (1970). She collaborated with Canadian Girls in Training, Girl Guides of Canada, the Canadian Camping Association, and the Ontario Camping Association.",
+      "sources": [
+        "src_trent_mary_edgar_finding_aid"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "Mary Susannah Edgar"
+      ],
+      "date_ref": "1945-1970",
+      "conflicts_with": [],
+      "added_version": "v5.04",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1855",
+      "claim": "Grace McMorris's thesis (full-text extraction) states that visits between Kanawana and its girls'-camp neighbours were not a one-off: 'in the 1940s Kanawana occasionally hosted visitors from... Camp Oolahwan... and from the Junior League Camp.' The exact date of the already-documented cocoa/'Indians' greeting event is now pinned to the 'Intermediate Section Log, 17 July 1946' (YMCA of Montreal fonds, P145/12B07).",
+      "sources": [
+        "src_mcmorris_thesis"
+      ],
+      "confidence": "stated",
+      "category": "places",
+      "entities": [
+        "Camp Oolahwan",
+        "Junior League Camp"
+      ],
+      "date_ref": "1940s",
+      "conflicts_with": [],
+      "added_version": "v5.04",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1856",
+      "claim": "A previously undocumented girls' camp, the Junior League (of Montreal) Camp -- serving the Griffintown Girls Club, opened 1921, a 'fresh-air' camp funded by galas/social events for underprivileged children -- also had contact with Kanawana. McMorris's thesis cites the 'Intermediate Section Report, 5 July 1943,' recording that some Kanawana counsellors snuck off to the Junior League camp to meet women counsellors there -- a distinct, dated cross-camp social contact.",
+      "sources": [
+        "src_mcmorris_thesis"
+      ],
+      "confidence": "stated",
+      "category": "places",
+      "entities": [
+        "Junior League Camp"
+      ],
+      "date_ref": "1921-1943",
+      "conflicts_with": [],
+      "added_version": "v5.04",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1857",
+      "claim": "A 1970s photograph from Camp Oolahwan itself (Figure 2.9 in McMorris's thesis) shows girls in 'Indian' costumes -- direct evidence that Oolahwan practiced its own 'playing Indian' tradition, paralleling Kanawana's. A separate undated Camp Oolahwan newspaper advertisement (Figure 1.4) exists in the Y des femmes Montreal collection.",
+      "sources": [
+        "src_mcmorris_thesis"
+      ],
+      "confidence": "stated",
+      "category": "context",
+      "entities": [
+        "Camp Oolahwan"
+      ],
+      "date_ref": "1970s",
+      "conflicts_with": [],
+      "added_version": "v5.04",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1858",
+      "claim": "Library and Archives Canada's 'Montreal Young Women's Christian Association fonds' catalog description (not yet accessed/extracted) lists a dedicated series: 'Camp Oolahwan committee minutes, reports and training programmes, 1916-1974,' plus Committee minutes (1910-1973), Finance (1918-1975), Reports (1877-1972), and photographs (1937-1973). This is a strong new lead for Camp Oolahwan's capacity, age range, and post-Halliday directors -- see priorities.json for the future ingestion item.",
+      "sources": [
+        "src_lac_ywca_montreal_fonds"
+      ],
+      "confidence": "stated",
+      "category": "meta",
+      "entities": [
+        "Camp Oolahwan",
+        "Montreal YWCA"
+      ],
+      "date_ref": "1916-1974",
+      "conflicts_with": [],
+      "added_version": "v5.04",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1859",
+      "claim": "The Junior League of Montreal was founded in 1912; its summer camp (the one that had contact with Kanawana) was founded in 1921, financed partly via a 1930-31 campaign that also funded a Griffintown dental clinic and hospital canteens. Per the McCord Stewart Museum's own fonds description, the camp welcomed 300+ girls per year by the early 1960s (roughly 12,000 girls total), and 'today, Camp Amy Molson carries on its mission.' A 1956 Maclean's article states that as of that year, 'for thirty-six years' the League had given nearly 400 underprivileged girls a three-week vacation at a Laurentians camp, with the Montreal branch then the oldest in Canada (511 members).",
+      "sources": [
+        "src_mccord_junior_league_fonds",
+        "src_chenier_junior_league_chr",
+        "src_macleans_1956_junior_league"
+      ],
+      "confidence": "stated",
+      "category": "places",
+      "entities": [
+        "Junior League Camp",
+        "Camp Amy Molson"
+      ],
+      "date_ref": "1912-1963",
+      "conflicts_with": [],
+      "added_version": "v5.04",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1861",
+      "claim": "The YMCA of Montreal's 1994 Annual Report (English and French editions) states under 'Kamp Kanawana': 'This was Kanawana's 100th year of operation. As part of the centennial celebration, an Alumni reunion was held during Labor Day weekend attracting over 200 past campers and staff.' This directly answers how the camp's 1994 centennial was marked: an alumni reunion, Labor Day weekend, 200+ attendees.",
+      "sources": [
+        "src_ia_ymca_annual_1994",
+        "src_ia_ymca_annual_1994_fr"
+      ],
+      "confidence": "stated",
+      "category": "chronology",
+      "entities": [
+        "Camp Kanawana centennial"
+      ],
+      "date_ref": "1994",
+      "conflicts_with": [],
+      "added_version": "v5.04",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1862",
+      "claim": "The same 1994 Annual Report also records: camper registration reached 101% of capacity, camper return rate was 70%, and there were 40 subsidized campers (a 10% increase over 1993).",
+      "sources": [
+        "src_ia_ymca_annual_1994"
+      ],
+      "confidence": "stated",
+      "category": "chronology",
+      "entities": [
+        "Camp Kanawana centennial"
+      ],
+      "date_ref": "1994",
+      "conflicts_with": [],
+      "added_version": "v5.04",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1863",
+      "claim": "A 'Kanawana calendar 1993/94' is held in Concordia Archives Box HA1874 (same box as The Look Out, Vol. 1 #3), per the Concordia finding aid -- a previously uncatalogued item in this KB, adjacent to the newsletter.",
+      "sources": [
+        "src_concordia_atom_12B04"
+      ],
+      "confidence": "stated",
+      "category": "chronology",
+      "entities": [
+        "Camp Kanawana centennial"
+      ],
+      "date_ref": "1993-1994",
+      "conflicts_with": [],
+      "added_version": "v5.04",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1864",
+      "claim": "The 1989 French YMCA of Montreal Annual Report describes a separate, earlier institutional anniversary: the 'Centenary of YMCA Camping in Canada' (1889-1989), marking 100 years since Big Cove (Halifax YMCA, 1889) -- NOT Kanawana's own centennial. Kanawana and 28 other YMCA camps participated via a relay campfire: ashes from a fire lit at Big Cove were distributed to every YMCA camp, each burning a campfire for 29 hours (one hour per camp) comparing songs/legends/customs, culminating in a time capsule (camper signatures plus campfire ashes) buried at the October Canadian Camping Association congress. This event is easily confused with the 1994 Kanawana-specific centennial and with an April 7, 1989 '95 years of sharing' Kanawana reunion (the same year, a different event) -- flagged for careful disambiguation.",
+      "sources": [
+        "src_ia_ymca_annual_1989_fr"
+      ],
+      "confidence": "stated",
+      "category": "chronology",
+      "entities": [
+        "Camp Kanawana centennial",
+        "Centenary of YMCA Camping in Canada"
+      ],
+      "date_ref": "1889-1989",
+      "conflicts_with": [],
+      "added_version": "v5.04",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1865",
+      "claim": "The 1989 French Annual Report documents a five-year facility 'rajeunissement' (rejuvenation) campaign at Kamp Kanawana totaling $250,000, underway as of 1989; Kamp Kanawana facilities/equipment renewal was one of ten designated targets in the YMCA Montreal Foundation's endowment/planned-giving initiative.",
+      "sources": [
+        "src_ia_ymca_annual_1989_fr"
+      ],
+      "confidence": "stated",
+      "category": "places",
+      "entities": [
+        "Camp Kanawana"
+      ],
+      "date_ref": "1989",
+      "conflicts_with": [],
+      "added_version": "v5.04",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1866",
+      "claim": "The 1988-89 Kamp Kanawana Committee, per the 1989 French Annual Report, comprised Andre Herard, Chris Adam, Keith Farquharson, Paul Cappelli, Derek Walsh, Tom Snabl, Bruce Netherwood (YMCA), Maureen McBride, Jay Netherwood (YMCA), and Bill Pigott (YMCA) -- confirming Derek Walsh's Kanawana committee involvement in this era, corroborating his separately-known 1983 CCA Award of Excellence.",
+      "sources": [
+        "src_ia_ymca_annual_1989_fr"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "Derek Walsh",
+        "Bruce Netherwood",
+        "Jay Netherwood"
+      ],
+      "date_ref": "1988-1989",
+      "conflicts_with": [],
+      "added_version": "v5.04",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1867",
+      "claim": "The 1990 Annual Report lists 'Netherwood, Bruce (Director, Kamp Kanawana)' and separately 'Netherwood, Jay (Supervisor, Kamp Kanawana)' -- showing Jay Netherwood remained on staff in a supervisory role after handing the Director title to his brother Bruce, refining the existing directorship timeline. The same report describes a five-year strategic-planning process (begun circa 1990) covering building strategies for the Downtown YMCA and Kamp Kanawana, as well as the Du Parc YMCA.",
+      "sources": [
+        "src_ia_ymca_annual_1990"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "Bruce Netherwood",
+        "Jay Netherwood"
+      ],
+      "date_ref": "1990",
+      "conflicts_with": [],
+      "added_version": "v5.04",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1868",
+      "claim": "The YMCA of Montreal's 1971-72 Annual Report states: 'A ski tow has been installed there to broaden the scope of winter programming' -- the earliest documented step toward Kanawana's Winter Outdoor Family Camping program, one year before the fuller description below.",
+      "sources": [
+        "src_ia_ymca_annual_1971_72"
+      ],
+      "confidence": "stated",
+      "category": "programs",
+      "entities": [
+        "Winter Outdoor Family Camping"
+      ],
+      "date_ref": "1971-1972",
+      "conflicts_with": [],
+      "added_version": "v5.04",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1869",
+      "claim": "The 1972-73 Annual Report precisely dates the Winter Outdoor Family Camping program: 'A ski lift has already been installed there, two slopes have been groomed for downhill runs and miles of trails marked for cross-country skiing and snowshoeing. Emphasis this past winter was on providing families with opportunities to participate together in outdoor recreation. Courses of instruction were carried on for all ages, and a babysitting service enabled parents with toddlers to take part in activities.' This replaces the previous broad dating of 'the 1970s' with a precise winter 1972-73 description.",
+      "sources": [
+        "src_ia_ymca_annual_1972_73"
+      ],
+      "confidence": "stated",
+      "category": "programs",
+      "entities": [
+        "Winter Outdoor Family Camping"
+      ],
+      "date_ref": "1972-1973",
+      "conflicts_with": [],
+      "added_version": "v5.04",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1870",
+      "claim": "Further institutional-history data points from the annual reports: the 1974-75 report records 475 campers, the 'second highest registration in 25 years' despite a national decline in resident camping; the 1976-77 report documents the 'commencement of the planning process for new facilities at Kamp Kanawana'; the 1980-81 report records over 750 children at Kanawana.",
+      "sources": [
+        "src_ia_ymca_annual_1994"
+      ],
+      "confidence": "stated",
+      "category": "places",
+      "entities": [
+        "Camp Kanawana"
+      ],
+      "date_ref": "1974-1981",
+      "conflicts_with": [],
+      "added_version": "v5.04",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1871",
+      "claim": "The 1996 Annual Report states: 'This was the first time that programs were offered to groups other than summer campers. A group of 50 Korean students... participated in traditional camp activities for four days, sleeping in tents, cooking on open fires and integrating with the campers.' This documents a genuine 1996 'first,' but describes an in-season (summer) international-student visit, not a winter/off-season residential stay -- it corroborates 1996 as a diversification milestone but does not by itself confirm the separately-sourced claim that year-round RESIDENTIAL programming began that year; the two claims may be related but are not shown to be the same thing.",
+      "sources": [
+        "src_ia_ymca_annual_1996"
+      ],
+      "confidence": "stated",
+      "category": "programs",
+      "entities": [
+        "Camp Kanawana"
+      ],
+      "date_ref": "1996",
+      "conflicts_with": [],
+      "added_version": "v5.04",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1872",
+      "claim": "A systematic check of every YMCA of Montreal Annual Report from 1980 through 1988 (8 consecutive years) found no mention of 'outing club,' 'winter,' or 'ski' in the Kanawana section -- the Kanawana Outing Club's exact wind-down date after 1979 remains a confirmed dead end for this surface.",
+      "sources": [
+        "src_ia_ymca_annual_1994"
+      ],
+      "confidence": "stated",
+      "category": "programs",
+      "entities": [
+        "Kanawana Outing Club"
+      ],
+      "date_ref": "1980-1988",
+      "conflicts_with": [],
+      "added_version": "v5.04",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1873",
+      "claim": "The well-known songwriter Richard Kerr (Barry Manilow's co-writer) has no documented connection to YMCA camp songs or 'On My Way to Kanawana,' per Wikipedia and SecondHandSongs. The KB's 'Richard \"Itch\" Kerr' (the actual Kanawana camp-song composer and 2007 Pip Award recipient) is very likely a distinct, non-notable person -- this identity question remains open, not resolved in favour of the famous songwriter.",
+      "sources": [
+        "src_wikipedia_alabama_jubilee"
+      ],
+      "confidence": "disputed",
+      "category": "people",
+      "entities": [
+        "Richard Kerr"
+      ],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "v5.04",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1860",
+      "claim": "Two documented sources disagree on institutional continuity for Montreal's mid-century girls'/underprivileged-children's summer camps: the McCord Stewart Museum's own Junior League of Montreal fonds (P685) description states 'today, Camp Amy Molson carries on its mission' -- implying Camp Amy Molson is a successor to the Junior League's 1921 camp. But Camp Amy Molson's own official history states it was founded May 23, 1944 by the Montreal Ladies' Benevolent and Protestant Orphans' Society (not the Junior League), with 58 campers in its first season. See conflict c_018 -- flagged for human/editorial review, not resolved by the 'oral history yields to documents' policy since both sides are documented institutional sources, not an oral-history-vs-document case.",
+      "sources": [
+        "src_mccord_junior_league_fonds",
+        "src_camp_amy_molson_mcgill_paper"
+      ],
+      "confidence": "disputed",
+      "category": "places",
+      "entities": [
+        "Junior League Camp",
+        "Camp Amy Molson",
+        "Montreal Ladies' Benevolent and Protestant Orphans' Society"
+      ],
+      "date_ref": "1921-1944",
+      "conflicts_with": [
+        "f_1844"
+      ],
+      "added_version": "v5.04",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1874",
+      "claim": "A full-text search of Grace McMorris's thesis (129-page PDF, re-extracted directly) found zero matches for 'McConnell' anywhere in the document, and exactly two matches for 'Wilson' -- both trivial, simply listing 'Lake Kanawana and Lake Wilson' as the camp's two swimming/canoeing lakes with no discussion of naming origin, donation, or any connection to a person named Wilson. This resolves the McMorris-thesis question for both j-w-mcconnell.md and lake-wilson.md: the thesis is not a source for either question and can be marked exhausted.",
+      "sources": [
+        "src_mcmorris_thesis"
+      ],
+      "confidence": "stated",
+      "category": "places",
+      "entities": [
+        "J.W. McConnell",
+        "Lake Wilson"
+      ],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "v5.04",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1875",
+      "claim": "Three more official Quebec 'Lac Wilson' toponymy entries were found beyond the one already known (Sainte-Lucie-des-Laurentides): Brownsburg-Chatham (fiche 451695) -- named for a family who owned the land in the early 20th century, who also built a dam on Reardon Creek to create the lake; Saint-Theophile (fiche 67250) -- named for a man named Wilson who reportedly built a fishing camp there; and Grenville-sur-la-Rouge (fiche 67246), origin undetermined. 3 of 4 documented Quebec 'Lac Wilson' toponyms are named for a landowner/settler named Wilson (one involving a dam, like the camp's own Lake Wilson) -- this pattern evidence mildly favours the pre-existing-settler-family hypothesis over the McConnell-son hypothesis for the camp's own Lake Wilson naming, though it does not prove it.",
+      "sources": [
+        "src_toponymie_lac_wilson_additional"
+      ],
+      "confidence": "inferred",
+      "category": "places",
+      "entities": [
+        "Lake Wilson"
+      ],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "v5.04",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1876",
+      "claim": "Wilson Griffith McConnell (b. March 3, 1908, d. January 12, 1966), per a Concordia AccessToMemory finding-aid search snippet, managed St. Lawrence Sugar and was a jazz enthusiast/collector of recordings and equipment. No mention of Camp Kanawana, the YMCA, or Lake Wilson appears in the visible finding-aid description. Obtained only via search-engine snippet, not a full-text confirmation.",
+      "sources": [
+        "src_concordia_wilson_mcconnell_collection"
+      ],
+      "confidence": "inferred",
+      "category": "people",
+      "entities": [
+        "Wilson Griffith McConnell"
+      ],
+      "date_ref": "1908-1966",
+      "conflicts_with": [],
+      "added_version": "v5.04",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1877",
+      "claim": "Concordia's public finding-aid summary page confirms exact box locations, but not content, for the three manuscripts most likely to discuss Lake Wilson's naming: Ralph Dawson's 'History of Kamp Kanawana' (1933, Box HA2307); R.L. Charlton's 'Notes re Early Days of YMCA Camps at Lake St. Joseph and Kanawana' (1943, also catalogued as 'Early Days of YMCA Camps,' attributed to 'R.H. Charlton' in one listing, Box HA1881); and W.E. Cushing's 'Historical sketches - Lake St. Joseph' / 'Early Days at Lake St. Joseph' (1943, Box HA1881). No secondary source anywhere reproduces or summarizes their content regarding the lake name -- confirmed dead end for content without physical archive access.",
+      "sources": [
+        "src_concordia_12L"
+      ],
+      "confidence": "stated",
+      "category": "places",
+      "entities": [
+        "Lake Wilson",
+        "Ralph Dawson",
+        "R.L. Charlton",
+        "W.E. Cushing"
+      ],
+      "date_ref": "1933, 1943",
+      "conflicts_with": [],
+      "added_version": "v5.04",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1878",
+      "claim": "The two 1961 Dimock 'studies' are unpublished internal YMCA/camp administrative research reports, not journal articles, per the Concordia finding aid: both titled documents sit in Box HA2323 of the YMCA of Montreal fonds, alongside 'Interpretation of Score for Counselors Participating in the Research Project at Kamp Kanawana' (1960) and 1961 opinion/attitude questionnaires and score sheets. A previously undocumented THIRD report extends Dimock's Kanawana-linked research to 1970: 'Research on the Selection and Training of Camp Leaders' (1970), also in Box HA2323. Related preliminary materials sit in Box HA2317: 'Camp Leadership Project Interim Report' (1959), an application questionnaire (1960), and 'Montreal YMCA 1960 Research Project - Study Group One/Two' plus '1960 YMCA Camping Research Project' folders 1-7 (1960-1961). This explains why no journal-publication citation exists in JSTOR, Google Scholar, HathiTrust, or ERIC (all checked, all null) -- the material was never published outside internal YMCA administrative channels.",
+      "sources": [
+        "src_concordia_p0145_12a_finding_aid"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "Hedley Gardner Dimock"
+      ],
+      "date_ref": "1959-1970",
+      "conflicts_with": [],
+      "added_version": "v5.04",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1879",
+      "claim": "A full-text search of Grace McMorris's thesis (129-page PDF) found zero matches for 'Dimock' anywhere in the document -- the thesis, though already cited in hedley-dimock.md, does not cover Dimock's counsellor-research studies at all.",
+      "sources": [
+        "src_mcmorris_thesis"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "Hedley Gardner Dimock"
+      ],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "v5.04",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1880",
+      "claim": "The American Camp Association's Hedley S. Dimock Award recipient list is extended, per direct WebFetch of each year's ACA press release: 2022 Simone Gamble (NY & NJ) and Tracey Gaslin PhD (Ohio); 2023 Matt Buczek (NY & NJ) and Rachel Fendell Satinsky (Keystone); 2024 Elisa Spungen Bildner and Robert Bildner, Foundation for Jewish Camp (NY/NJ); 2025 Bashier Kayou (New England) and Bethany Uhl MD (Ohio); 2026 John Hamilton (Heart of the South) and Chris T. Rehs-Dupin (NY/NJ).",
+      "sources": [
+        "src_aca_dimock_award_recipients_2022_2026"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "Hedley S. Dimock Award"
+      ],
+      "date_ref": "2022-2026",
+      "conflicts_with": [],
+      "added_version": "v5.04",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1881",
+      "claim": "The 2015 Hedley S. Dimock Award recipients were, per a search-snippet only (the direct ACA page returned 403): Ellen S. Gannett, M.Ed. and Lance Ozier, Ed.D. -- medium confidence, not independently re-verified via a direct primary-source fetch. The 2019, 2020, and 2021 recipients remain unresolved: two specific 2019 claims found via search ('Florida Youth Conservation Centers Network' and 'David Bryfman') could not be adjudicated against any primary source and should NOT be treated as confirmed.",
+      "sources": [
+        "src_aca_dimock_award_recipients_2022_2026"
+      ],
+      "confidence": "disputed",
+      "category": "people",
+      "entities": [
+        "Hedley S. Dimock Award"
+      ],
+      "date_ref": "2015, 2019-2021",
+      "conflicts_with": [],
+      "added_version": "v5.04",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1882",
+      "claim": "Two specific claimed identities for the 2019 Camp YMCA Kanawana Pip Alumni Award recipient were investigated and explicitly DEBUNKED, not merely unconfirmed: 'Dr. Amy Ornstein' is a pediatrics faculty member at Dalhousie University (Halifax) specializing in child-maltreatment pediatrics, with no connection whatsoever to Camp Kanawana, YMCA Quebec, or Montreal found in any source. 'David Bryfman' is CEO of The Jewish Education Project (New York); no source connects him to the Pip Award or Camp Kanawana. Both names appear to be search-engine confabulation/conflation (likely with the separately-unverified 2019 ACA Dimock Award claims). Neither should be added to the KB as the 2019 recipient. The 2019-2023 Pip Award recipient gap otherwise remains unresolved after an additional ~20 queries across new surfaces (YMCA Quebec newsroom, Facebook, LinkedIn, Wayback Machine, archive.ph, PressReader, newspapers.com) -- genuinely exhausted for agent-accessible web research.",
+      "sources": [
+        "src_aca_dimock_award_recipients_2022_2026"
+      ],
+      "confidence": "disputed",
+      "category": "people",
+      "entities": [
+        "Pip Alumni Award"
+      ],
+      "date_ref": "2019-2023",
+      "conflicts_with": [],
+      "added_version": "v5.04",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1883",
+      "claim": "The Ontario Camping Association's 1940 Kanawana file sits in Box 1, Folder 5 of the 'Camp Brochures and Photographs' series (OCA fonds 72-007, Trent University Archives), alphabetically between 'Glen Mohr' and 'Kiawa.' No content description is available online beyond this single-line catalog entry -- confirms this is a genuine physical-archive-access requirement, not an online research gap.",
+      "sources": [
+        "src_trent_oca_fonds_72_007"
+      ],
+      "confidence": "stated",
+      "category": "context",
+      "entities": [
+        "Ontario Camping Association"
+      ],
+      "date_ref": "1940",
+      "conflicts_with": [],
+      "added_version": "v5.04",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1884",
+      "claim": "A previously unflagged Concordia Archives sub-series, P0145/12B05 ('Staff and Counsellors'), exists specifically for Kamp Kanawana staff/counsellor records -- potentially relevant to the still-unresolved question of whether any McGill Camping School (1937-1940) staff also worked at Kanawana, though its contents are not visible online. No named individual was found on both sides of that connection after this session's additional targeted search.",
+      "sources": [
+        "src_concordia_atom_12B05"
+      ],
+      "confidence": "stated",
+      "category": "meta",
+      "entities": [
+        "McGill Camping School"
+      ],
+      "date_ref": "1937-1940",
+      "conflicts_with": [],
+      "added_version": "v5.04",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1885",
+      "claim": "YMCA Camp Pine Crest (Muskoka, Ontario), whose Lumbermen-and-Voyageur tradition Kanawana borrowed in 1947, itself had roots in the Broadview Boys' Institute camping tradition dating to 1896; the Broadview Boys' Institute (Toronto) amalgamated with the Toronto YMCA in 1910 to become the Broadview YMCA, which opened Pine Crest that same year. However, the Pine Crest Games themselves are independently confirmed (per the YMCA of Greater Toronto's own history page and blog) to have begun in 1940 -- so the 1896 Broadview root is institutional/camp lineage, not evidence that the L&V-style competition itself predates 1940, only seven years before Kanawana adopted it.",
+      "sources": [
+        "src_ymcagta_pine_crest_games"
+      ],
+      "confidence": "stated",
+      "category": "context",
+      "entities": [
+        "Camp Pine Crest",
+        "L&V Games"
+      ],
+      "date_ref": "1896-1947",
+      "conflicts_with": [],
+      "added_version": "v5.04",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1886",
+      "claim": "CORRECTION: Camp Hayo-Went-Ha's 'Woodsmen' and 'Voyageurs' are NOT a Color-War-style competing team pair, contrary to a prior inference in this KB implying a parallel structure. Direct fetches of both program pages show Woodsmen is a younger-boys' in-camp-activities program level ('Fun is the focus... enjoy the many in-camp activities') and Voyageurs is an older-campers' canoe-expedition program level (an AuSable River trip) -- neither page describes any team rivalry or scoring against the other. The naming parallel to Kanawana's sections is coincidental in format, not evidence of a shared competitive tradition.",
+      "sources": [
+        "src_hayowentha_website",
+        "src_aca_hayowentha_programs"
+      ],
+      "confidence": "stated",
+      "category": "context",
+      "entities": [
+        "Camp Hayo-Went-Ha",
+        "L&V Games"
+      ],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "v5.04",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1887",
+      "claim": "The broader 'Color War' genre (of which Kanawana's Lumbermen-vs-Voyageurs is a Canadian/YMCA/frontier-themed regional variant) is documented by historian Leslie Paris (UBC) as originating with 'Red and Gray Week' in 1916 at Schroon Lake Camp, a Jewish boys' camp in the Adirondacks, becoming a widespread American camp staple by the 1920s. This places Kanawana/Pine Crest's L&V tradition as a regional YMCA branch of an already-established American genre, not a novel invention.",
+      "sources": [
+        "src_wikipedia_color_war"
+      ],
+      "confidence": "stated",
+      "category": "context",
+      "entities": [
+        "Color War",
+        "L&V Games"
+      ],
+      "date_ref": "1916",
+      "conflicts_with": [],
+      "added_version": "v5.04",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1888",
+      "claim": "The modern Kanawana canoe-tripping program for ages 13-16 is itself branded 'Voyageurs' (per the current YMCA Quebec website), including a flat-water option in La Verendrye Wildlife Reserve alongside whitewater options (Coulonge, Dumoine, Noire rivers) -- a separate naming use from the historical L&V Games team of the same name. This resolves the open question about a La Verendrye/L&V connection as 'no direct institutional link found -- likely thematic naming coincidence' between two distinct camp institutions (the historical L&V team vs. the modern canoe-trip program tier), rather than the L&V Games tradition literally expanding into a canoe-trip program.",
+      "sources": [
+        "src_ymcaquebec_voyageurs_page"
+      ],
+      "confidence": "stated",
+      "category": "programs",
+      "entities": [
+        "L&V Games",
+        "Voyageurs"
+      ],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "v5.04",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1889",
+      "claim": "Derek Walsh's biography remains genuinely exhausted online (9 additional queries this session across web search, obituary databases, LinkedIn, BAnQ, and alumni searches -- zero new facts, reconfirming an existing 32+-query dead end). However, new corroborating context was found: Walsh is named on the 1988-89 Kamp Kanawana Committee (see f_1866), extending his documented Kanawana institutional involvement well beyond his 1974-75 camp directorship and 1983 CCA Award of Excellence.",
+      "sources": [
+        "src_ia_ymca_annual_1989_fr"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "Derek Walsh"
+      ],
+      "date_ref": "1988-1989",
+      "conflicts_with": [],
+      "added_version": "v5.04",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1890",
+      "claim": "A systematic search for additional notable Camp Kanawana alumni beyond current documentation (18 distinct queries across 7 surfaces: Google web, LinkedIn, Facebook, Instagram, TikTok, Newspapers.com, Wikipedia, Google Books) found no previously undocumented, independently-notable/public alumni. Every query returned either already-documented figures (McLean, Mosher, Cleghorn, Orbinski, Sharpe, Adam, etc.) or generic camp marketing/program pages -- confirms the existing notable-alumni.md article has genuinely saturated the easily-discoverable public web for this topic.",
+      "sources": [
+        "src_websearch_page_family_vss"
+      ],
+      "confidence": "stated",
+      "category": "meta",
+      "entities": [
+        "Notable Alumni"
+      ],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "v5.04",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1891",
+      "claim": "The McMaster University Stuart McLean fonds finding aid (full 983-line text retrieved via direct fetch, superseding the previously partial/summarized access) lists Box 60, F.16 (Series 4, Vinyl Cafe studio/tour shows, Season 10, 2004-2005): 'Kamp Kanawana - 10.26, n.d.' -- a specific numbered show file explicitly titled 'Kamp Kanawana,' likely corresponding to the already-documented 2005 Kanawana return-visit recording, now with a specific box location and show number.",
+      "sources": [
+        "src_mcmaster_mclean_fonds"
+      ],
+      "confidence": "stated",
+      "category": "documents",
+      "entities": [
+        "Stuart McLean"
+      ],
+      "date_ref": "2004-2005",
+      "conflicts_with": [],
+      "added_version": "v5.04",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1892",
+      "claim": "The same finding aid lists Box 53, F.25 (Series 4, Season 2, 1995-96): 'Vinyl Cafe Show 2.10 Camp - Not Published, n.d.' -- confirming the exact box and season/show number for the already-known unpublished 'Camp' script, and establishing it as a distinct, earlier file (~10 years before) from the 'Kamp Kanawana' 10.26 file above -- two separate camp-themed show files exist. Box 37, F.13 (Series 2, manuscripts for Home from the Vinyl Cafe, 1998) is confirmed as the exact box for the already-known '[Summer Camp]' typescript file (drafts of 'Camp' and 'Letter Home,' with a Meg Masters note dated May 8, 1998).",
+      "sources": [
+        "src_mcmaster_mclean_fonds"
+      ],
+      "confidence": "stated",
+      "category": "documents",
+      "entities": [
+        "Stuart McLean"
+      ],
+      "date_ref": "1995-1998",
+      "conflicts_with": [],
+      "added_version": "v5.04",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1893",
+      "claim": "New, previously undocumented items in the McMaster Stuart McLean fonds: Box 90, F.6 (Series 7, Personal ephemera, 1971-1975) -- 'Address lists and phone number lists, various, including Camp Kanawana, Sir George Williams University and other lists, 1971-1975'; Box 92, F.3 (Series 7, [1970s]) -- 'Dried flowers from Camp Kanawana'; Box 92, F.4 -- 'Kamp Kanawana decals (2)'; Box 92, F.10 (Series 7/8, I.D. and membership cards) includes a 'YMCA Temporary membership card, 1969' -- from the exact year McLean began at Kanawana.",
+      "sources": [
+        "src_mcmaster_mclean_fonds"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "Stuart McLean"
+      ],
+      "date_ref": "1969-1975",
+      "conflicts_with": [],
+      "added_version": "v5.04",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1894",
+      "claim": "Box 1, F.8 of the McMaster Stuart McLean fonds (Series 1, Correspondence, general 'Y' correspondents) lists a file simply titled 'YMCA, 1976' -- one year after McLean's last documented camp summer (1975). Content not accessible online.",
+      "sources": [
+        "src_mcmaster_mclean_fonds"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "Stuart McLean"
+      ],
+      "date_ref": "1976",
+      "conflicts_with": [],
+      "added_version": "v5.04",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1895",
+      "claim": "Series 6 (Events, speeches, conferences), F.16 of the McMaster Stuart McLean fonds lists: 'YMCA NAYDO Conference on Philanthropy, Montreal, April 9-12, 2008. Keynote Speaker name tag and cards.' NAYDO is the North American YMCA Development Organization. This documents McLean as a keynote speaker at a YMCA philanthropy conference in Montreal in April 2008, roughly a year before his 2009 Pip Award -- plausible institutional-tie evidence, though web searches for independent corroboration of this specific conference/speaker pairing returned null (archival-only, single-source).",
+      "sources": [
+        "src_mcmaster_mclean_fonds"
+      ],
+      "confidence": "inferred",
+      "category": "people",
+      "entities": [
+        "Stuart McLean"
+      ],
+      "date_ref": "2008",
+      "conflicts_with": [],
+      "added_version": "v5.04",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1896",
+      "claim": "Box 76 ('Tour Shows with No Dates'), F.5 of the McMaster Stuart McLean fonds lists an undated file: 'YMCA Speech, n.d.' -- a strong but unconfirmed candidate to be, or contain, the source material for the 'speech to YMCA camp directors' quoted in the John Island Alumni Newsletter (Spring 2012), an open question in stuart-mclean.md. Flagged as a lead requiring in-person/archival-request follow-up, not a confirmed match. A separate item, Box 90, F.4, 'Canoeing Instructor School, 1974,' is plausibly (but not explicitly labeled Kanawana-)connected to McLean's camp canoeing-instructor role in the same era.",
+      "sources": [
+        "src_mcmaster_mclean_fonds"
+      ],
+      "confidence": "inferred",
+      "category": "people",
+      "entities": [
+        "Stuart McLean"
+      ],
+      "date_ref": "1974",
+      "conflicts_with": [],
+      "added_version": "v5.04",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1897",
+      "claim": "The McMaster Stuart McLean fonds' Series 9 (Photographs, Box 97) photo inventory was read in full and confirmed to contain NO camp/Kanawana-tagged photographs -- a genuine null result answering part of the 'Images' open question in kanawana-in-media.md.",
+      "sources": [
+        "src_mcmaster_mclean_fonds"
+      ],
+      "confidence": "stated",
+      "category": "documents",
+      "entities": [
+        "Stuart McLean"
+      ],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "v5.04",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1898",
+      "claim": "Stuart McLean's oft-quoted line -- 'It was the first place, as a young person, that I felt I could contribute to the greater good' -- was originally said in a CBC Montreal Radio Noon interview, per OurKids.net's own framing ('in an interview with CBC Montreal's Radio Noon two years ago'), not solely in the OurKids piece itself. This adds provenance detail to an already-known quote (medium confidence -- secondary reporting of the interview, not the interview itself).",
+      "sources": [
+        "src_mcmaster_mclean_fonds"
+      ],
+      "confidence": "inferred",
+      "category": "people",
+      "entities": [
+        "Stuart McLean"
+      ],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "v5.04",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1899",
+      "claim": "The 1960s silent Kanawana film (Concordia P0145-09-0087), already cited in kanawana-in-media.md without a direct URL, is confirmed via direct fetch to be hosted at https://www.youtube.com/watch?v=ZrUuQ1SU7q8, titled 'YMCA: Kamp Kanawana (no sound),' uploaded 2022-06-21 by 'Concordia University Records Management & Archives,' description: 'Various scenes from Kamp Kanawana from the 1960s, including swimming and diving.'",
+      "sources": [
+        "src_youtube_kanawana_1960s_silent_film"
+      ],
+      "confidence": "stated",
+      "category": "documents",
+      "entities": [
+        "Kanawana silent film"
+      ],
+      "date_ref": "1960s",
+      "conflicts_with": [],
+      "added_version": "v5.04",
       "added_by": "ralph_loop"
     }
   ]

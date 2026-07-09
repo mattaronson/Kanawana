@@ -6,8 +6,8 @@
 <!-- last_editor: v53 -->
 <!-- ralph_loops: oolahwan-R1, oolahwan-R2 -->
 
-*Status: E1-reviewed | Sources: 16*
-*Last Updated: 2026-06-20*
+*Status: E1-reviewed | Sources: 19*
+*Last Updated: 2026-07-09 (open-questions research pass: expanded Mary Edgar biography via Trent finding aid; documented recurring 1940s Kanawana-Oolahwan/Junior League contact and a shared "playing Indian" tradition via McMorris's full-text-extracted thesis; found a new Junior League Camp connection with a flagged institutional-continuity conflict re: Camp Amy Molson (c_018); confirmed the OurOntario 109-page paper is a genuine automated-access dead end)*
 
 ## Overview
 
@@ -19,7 +19,7 @@ The property comprised 345 acres with a private lake (Lake Walfred), at coordina
 
 ## Founding and Direction
 
-Mary Susanna Edgar (born May 23, 1889, Sundridge, Ontario) graduated from the YWCA National Training School in New York City in 1915 and served as YWCA Girls' Work Secretary in Montreal from 1915 to 1919, directing Camp Oolahwan during that period.^3 ^4 Edgar later founded Glen Bernard Camp (1922, with 38 initial campers) and served as first vice-president of the Canadian Camping Association (1936).^3 She authored *Wood-Fire and Candle-Light* (1945) and won first prize in the ACA hymn competition in 1925 for "God Who Touchest Earth with Beauty" (published 1926).^3 She died September 17, 1973 in Toronto. Archival collections are held at Trent University (fonds 82-010) and Queen's University.^4
+Mary Susanna Edgar (born May 23, 1889, Sundridge, Ontario; daughter of Joseph Edgar and Mary Little) was educated at Sundridge Public School, Barrie High School, Havergal Ladies College (Toronto), University of Chicago extension courses, and Teachers College, Columbia University, before graduating from the YWCA National Training School in New York City in 1915.^3 ^4 ^17 She had already held a YWCA "First National Girls' Work" role from 1912 to 1914, predating her 1915-1919 Montreal/Oolahwan directorship.^17 After leaving Oolahwan in 1919, she undertook a four-month YWCA volunteer posting in Japan in 1920, and that same year purchased the Lake Bernard property -- two years before Glen Bernard Camp opened in 1922 with 38 initial campers.^17 She served as first vice-president of the Canadian Camping Association (1936).^3 She wrote four books, not one as previously recorded here: *Wood-fire and Candlelight* (1945), *Under Open Skies* (1956), *The Christmas Wreath of Verse* (1967), and *Once There Was a Camper* (1970), and won first prize in the ACA hymn competition in 1925 for "God Who Touchest Earth with Beauty" (published 1926).^3 She collaborated with Canadian Girls in Training, Girl Guides of Canada, the CCA, and the OCA.^17 She died September 17, 1973 in Toronto. Her fonds (donated by her nephew John Gilchrist and his wife, funded via the Ebbs Archives Fund) is held at Trent University as photocopies (1920-1970); the originals remain at Queen's University Archives.^4 ^17
 
 Ferna G. Halliday, a Queen's University graduate, served as Secretary of YWCA Montreal from 1918 to 1921 and was responsible for girls at Camp Oolahwan during that period.^5 Halliday went on to co-found Camp Ouareau (1922) and Camp Oconto in Tichborne, Ontario (1924, directed until 1949), and was a founding member of the Ontario Camping Association in 1933.^5 Camp Oconto's original dining hall is named "Halliday Hall" in her honour, and the traditions she brought from YWCA work — candlelight ceremonies, classical music, poetry, and tableaux vivants — may have originated at Oolahwan.^5
 
@@ -29,7 +29,11 @@ Camp Oolahwan's programming focused on developing healthy minds and bodies throu
 
 ## Connection to Kanawana
 
-Camp Oolahwan's connection to Camp Kanawana runs through the YMCA/YWCA Montreal institutional network. Both camps were operated by branches of the same parent organization. Direct inter-camp contact is documented: YWCA Camp Oolahwan sent visitors to Kanawana, and in 1946, Kanawana campers were covered in cocoa powder to greet Oolahwan visitors as "Indians."^6
+Camp Oolahwan's connection to Camp Kanawana runs through the YMCA/YWCA Montreal institutional network. Both camps were operated by branches of the same parent organization. Direct inter-camp contact is documented and, per a full-text extraction of Grace McMorris's thesis, was not a one-off: "in the 1940s Kanawana occasionally hosted visitors from... Camp Oolahwan... and from the Junior League Camp."^6 The cocoa-powder/"Indians" greeting event is now precisely dated to the "Intermediate Section Log, 17 July 1946."^6
+
+A previously undocumented second girls' camp also had contact with Kanawana: the **Junior League (of Montreal) Camp**, serving the Griffintown Girls Club, founded 1921 -- a "fresh-air" camp for underprivileged children financed partly via a 1930-31 campaign that also funded a Griffintown dental clinic and hospital canteens.^18 McMorris's thesis separately cites an "Intermediate Section Report, 5 July 1943" recording that some Kanawana counsellors snuck off to the Junior League camp to meet women counsellors there.^6 By the early 1960s the Junior League camp welcomed 300+ girls per year (roughly 12,000 total), per the McCord Stewart Museum's own fonds description, which also states "today, Camp Amy Molson carries on its mission" -- a continuity claim in tension with Camp Amy Molson's own official founding history (1944, by a different organization). See [[places/camp-becsies|Camp Becsies]] and conflict c_018 in `kb/conflicts.json`; not resolved here.^18 ^19
+
+Programming overlap is also now documented: a 1970s photograph from Camp Oolahwan itself (reproduced in McMorris's thesis) shows girls in "Indian" costumes -- direct evidence Oolahwan practiced its own "playing Indian" tradition, paralleling Kanawana's, answering Open Question #7 below.^6
 
 ## Closure and Aftermath
 
@@ -51,12 +55,12 @@ The name "Oolahwan" may derive from the Lakota word *olówaŋ* meaning "song" or
 
 1. ~~[Critical] What was Camp Oolahwan's programming like?~~ [Resolved] General programming philosophy and specific activities now documented.
 2. ~~[Critical] Why did the camp close?~~ [Resolved] "Rising costs and changing times" per 2007 blog; property sold for $1.47M.
-3. [Important] What was the camp's capacity and age range? Only the successor program's age range (10–13) is documented.
-4. [Important] Are there additional inter-camp visits between Oolahwan and Kanawana beyond 1946?
-5. [Important] The OurOntario/Sundridge-Strong collection holds a 109-page paper on Mary Edgar's contribution to camping — this is unextracted and may contain significant Oolahwan detail.^4
+3. [Important, new lead 2026-07-09] What was the camp's capacity and age range? Only the successor program's age range (10–13) is documented. Confirmed dead end via general web/Google Books/HathiTrust/Internet Archive full-text search (8+ queries) — but a newly-found, not-yet-accessed Library and Archives Canada series, "Camp Oolahwan committee minutes, reports and training programmes, 1916-1974" (part of the Montreal YWCA fonds), is a strong candidate to resolve this. See priorities.json.
+4. ~~[Important] Are there additional inter-camp visits between Oolahwan and Kanawana beyond 1946?~~ [Resolved 2026-07-09] Yes — McMorris's thesis states Kanawana "occasionally" hosted Oolahwan (and Junior League Camp) visitors through the 1940s, not just the single dated 1946 event.
+5. [Important, still unextracted] The OurOntario/Sundridge-Strong collection holds a 109-page paper on Mary Edgar's contribution to camping (Marilee C. Tisdall, 1978) — confirmed 2026-07-09 as a genuine access dead end for automated tools (Cloudflare bot-challenge blocks direct fetch, curl, and proxy-reader attempts; a Wayback snapshot exists but this project's tools cannot reach web.archive.org). Requires a human with a residential/Canadian IP, or a library-request approach.^4
 6. ~~[Nice-to-have] Are there any surviving photographs or ephemera from Camp Oolahwan?~~ [Resolved] eBay listing confirms ephemera survives; original camp building still standing as sugar shack.
-7. [Nice-to-have] Did Oolahwan programming influence or share elements with Kanawana's?
-8. [Nice-to-have] Who directed Camp Oolahwan after Edgar left in 1919 and before the final season?
+7. ~~[Nice-to-have] Did Oolahwan programming influence or share elements with Kanawana's?~~ [Resolved 2026-07-09] Yes — a 1970s Oolahwan photograph (McMorris thesis) shows girls in "Indian" costumes, a parallel "playing Indian" tradition to Kanawana's.
+8. [Nice-to-have] Who directed Camp Oolahwan after Edgar left in 1919 and before the final season? Confirmed dead end across Trent, McCord, and LAC catalog descriptions — no successor-director name found online.
 
 ## Related Articles
 
@@ -84,6 +88,9 @@ The name "Oolahwan" may derive from the Lakota word *olówaŋ* meaning "song" or
 14. Érablière Ste-Marguerite website; Journal Accès article.
 15. Montreal Families article on Summer Space Day Camp.
 16. CBC Radio, "All in a Weekend" — Camp Oolahwan centennial segment (11:46). URL: https://www.cbc.ca/player/play/audio/1.3738351
+17. Trent University Archives finding aid — Mary S. Edgar fonds (82-010) [src_trent_mary_edgar_finding_aid].
+18. McCord Stewart Museum, Junior League of Montreal fonds (P685) [src_mccord_junior_league_fonds]; Elise Chenier, "Class, Gender, and the Social Standard: The Montreal Junior League, 1912-1939," *Canadian Historical Review* 90.4 (2009) [src_chenier_junior_league_chr]; "The Junior League joins the world," *Maclean's*, November 24, 1956 [src_macleans_1956_junior_league].
+19. Library and Archives Canada, "Montreal Young Women's Christian Association fonds" [src_lac_ywca_montreal_fonds]. Not yet accessed/extracted — flagged as a priority lead.
 
 ## Research Notes
 

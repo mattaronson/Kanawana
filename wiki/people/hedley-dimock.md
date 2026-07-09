@@ -1,7 +1,7 @@
 # Hedley Dimock and the Science of Camping
 
-*Status: E1-reviewed | Sources: src_aca_dimock_bio, src_concordia_atom_12B05, src_mcmorris_thesis, src_concordia_seaman_fund, src_ancestry_dimock, src_great_war_album_dimock, src_snac_dimock, src_hathitrust_camping_character, src_taylor_statten_camps, src_concordia_chrcs_fonds, src_infed_ymca_education, src_veterans_dimock_gilbert, src_wikipedia_raye_kass, src_oakland_tribune_dimock_obit*
-*Last Updated: 2026-03-02 (E1 REVIEW completed)*
+*Status: E1-reviewed | Sources: src_aca_dimock_bio, src_concordia_atom_12B05, src_mcmorris_thesis, src_concordia_seaman_fund, src_ancestry_dimock, src_great_war_album_dimock, src_snac_dimock, src_hathitrust_camping_character, src_taylor_statten_camps, src_concordia_chrcs_fonds, src_infed_ymca_education, src_veterans_dimock_gilbert, src_wikipedia_raye_kass, src_oakland_tribune_dimock_obit, src_concordia_p0145_12a_finding_aid, src_aca_dimock_award_recipients_2022_2026*
+*Last Updated: 2026-07-09 (open-questions research pass: 1960-61 studies confirmed as unpublished internal reports, not journal articles, in Concordia Box HA2323; found a new 1970 report extending Dimock's Kanawana research; McMorris thesis confirmed to have zero Dimock mentions; ACA Dimock Award recipient list extended to 2026)*
 
 ## Overview
 
@@ -49,7 +49,7 @@ Hedley Gardner Dimock earned a BA from Beloit College; MA and EdD from Columbia 
 
 ### Kanawana Research (1960–1961)
 
-In 1960–1961, Dimock conducted research at Camp Kanawana on camp counsellor effectiveness, publishing two studies: "A Study of the Change in Attitudes and Temperament of Counselors during a Summer in Camp" (1961) and "A Study of the Prediction of Success of Twenty-Seven Camp Counselors" (1961).^2 ^3 The Concordia University Archives hold the raw data from this project: a document titled "Interpretation of scores for counselors participating in a research project at Kamp Kanawana" (1960) in sub-series P0145/12B.^P
+In 1960–1961, Dimock conducted research at Camp Kanawana on camp counsellor effectiveness, publishing two studies: "A Study of the Change in Attitudes and Temperament of Counselors during a Summer in Camp" (1961) and "A Study of the Prediction of Success of Twenty-Seven Camp Counselors" (1961).^2 ^3 **Resolved 2026-07-09**: these are unpublished internal YMCA/camp administrative research reports, not journal articles -- both sit in Concordia Archives Box HA2323, alongside "Interpretation of scores for counselors participating in a research project at Kamp Kanawana" (1960, sub-series P0145/12B) and 1961 opinion/attitude questionnaires and score sheets.^P This explains why no journal-publication citation for either study exists in JSTOR, Google Scholar, HathiTrust, or ERIC (all checked, all null) -- the material was never published outside internal YMCA channels. Related preliminary materials sit in Box HA2317: a "Camp Leadership Project Interim Report" (1959), an application questionnaire (1960), and "Montreal YMCA 1960 Research Project -- Study Group One/Two" plus "1960 YMCA Camping Research Project" folders 1-7 (1960-1961). A previously undocumented **third** report extends Dimock's Kanawana-linked research to 1970: "Research on the Selection and Training of Camp Leaders" (1970), also in Box HA2323.^P Separately, a full-text search of Grace McMorris's thesis found zero mentions of "Dimock" anywhere in the 129-page document -- it is not a source for his counsellor-research studies, despite being cited elsewhere in this KB.
 
 ### Founding the Department (1963)
 
@@ -78,10 +78,10 @@ Both George Williams College in Chicago (where H.S. Dimock held a deanship) and 
 ## Open Questions
 
 1. [Substantially resolved] What is the familial relationship between Hedley S. Dimock and Hedley G. Dimock? FamilySearch shows H.S. Dimock had a son **Hedley Jr. born 1928**, matching H.G. Dimock (b. c.1928) — strong evidence for father and son.^17 A source explicitly stating the relationship would close it fully.
-2. [Partially resolved] What were the findings of the 1960–1961 Kanawana counsellor effectiveness studies? Two published titles identified, but the actual findings have not been reviewed.
+2. [Largely resolved 2026-07-09] What were the findings of the 1960–1961 Kanawana counsellor effectiveness studies? These are unpublished internal reports (Concordia Box HA2323), not journal articles -- confirmed genuine dead end for the actual findings/content without physical archive access; explains why no publication record exists in any academic index.
 3. [Important] Did Hedley S. Dimock ever visit Camp Kanawana or Camp Otoreke, given his YMCA-Montreal connections and the camp's role in early Canadian camping research?
 4. [Nice-to-have] When exactly did Hedley G. Dimock begin working for the Montreal YMCA?
-5. [Nice-to-have] Can a complete list of ACA Dimock Award recipients be compiled?
+5. [Largely resolved 2026-07-09] Can a complete list of ACA Dimock Award recipients be compiled? Extended to 2015 (medium confidence) and 2022-2026 (high confidence, direct primary-source fetch) -- see [[programs/pip-alumni-award|The Pip Alumni Award]] for the parallel Kanawana-specific award and its own recipient-list gap. 2019-2021 remain unresolved; two specific 2019 claims were checked and could not be confirmed against any primary source.
 
 ## Related Articles
 
@@ -110,6 +110,8 @@ P. Concordia University Archives, P0145/12B: "Interpretation of scores for couns
 15. Oakland Tribune obituary, October 5, 1958 (paywalled). URL: https://www.newspapers.com/article/oakland-tribune-dr-hedley-seldon-dimock/38250638/
 16. Wikipedia, "Raye Kass." URL: https://en.wikipedia.org/wiki/Raye_Kass; Concordia University, Raye Kass faculty page.
 17. FamilySearch, Hedley Seldon Dimock (LHRF-7ZS): birth/death, immigration 1895, marriage 17 Aug 1922 Regina, children Dorothy (1925-2005), Hedley Jr. (b.1928), Elizabeth (1934-1988). URL: https://ancestors.familysearch.org/en/LHRF-7ZS
+18. Concordia University Archives, YMCA of Montreal fonds sub-series 12A (Box HA2317, HA2323 finding aid) [src_concordia_p0145_12a_finding_aid].
+19. American Camp Association, Hedley S. Dimock Award press releases, 2022-2026 [src_aca_dimock_award_recipients_2022_2026].
 
 ## Research Notes
 

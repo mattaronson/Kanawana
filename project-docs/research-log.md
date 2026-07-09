@@ -3240,3 +3240,117 @@ questions were resolved, largely resolved, or confirmed as genuine (not merely u
 Two low-confidence leads (Otoreke's post-closure ownership/director sequence) were deliberately not
 promoted to confident fact status, consistent with this project's handling of unverified
 single-source claims.
+
+---
+
+## Campaign 34: Article-by-Article Open-Questions Pass, Batch 4 (six research clusters)
+
+**Date:** 2026-07-09
+**Context:** Continuing the systematic article-by-article open-questions plan after a fresh
+Explore-agent inventory ranked all remaining wiki articles by unresolved open-question count and
+web-tractability. Six parallel research agents covered: Camp Oolahwan; centennial-1994.md +
+winter-programming.md; J.W. McConnell + Lake Wilson; Hedley Dimock + Pip Alumni Award; Canadian
+Camping Movement + L&V Games; Notable Alumni + Stuart McLean/Kanawana in Media.
+
+### Camp Oolahwan
+
+Trent University's Mary Edgar fonds finding aid substantially expanded her biography (parents,
+education sequence, a 1912-1914 pre-Oolahwan YWCA role, a 1920 Japan posting, and confirmation she
+purchased the Lake Bernard property in 1920, two years before Glen Bernard Camp opened — plus a
+corrected bibliography of four books, not one). A full-text extraction of Grace McMorris's thesis
+resolved several open questions at once: Kanawana-Oolahwan contact was recurring through the 1940s,
+not a single 1946 event, precisely dated to "17 July 1946"; a previously undocumented "Junior League
+Camp" (Griffintown, founded 1921) also had contact with Kanawana (a 1943 counsellor social visit); and
+a 1970s Oolahwan photograph shows girls in "Indian" costumes, evidencing a shared "playing Indian"
+tradition. The Junior League research surfaced a genuine conflict: the McCord Museum's own fonds
+description claims Camp Amy Molson "carries on" the Junior League's mission, contradicting Camp Amy
+Molson's own official 1944-founding history under a different organization — logged as **conflict
+c_018**, flagged for human review, not auto-resolved. A newly-found Library and Archives Canada series
+("Camp Oolahwan committee minutes... 1916-1974") is a strong, not-yet-accessed lead for capacity/
+director questions (priority p_199). The OurOntario 109-page Mary Edgar paper remains a confirmed
+automated-access dead end (Cloudflare bot-challenge blocks every tool tried).
+
+### Centennial 1994 / Winter Programming
+
+Extending the annual-report Wayback-Machine technique (proven for Camp Becsies and
+environmental-history.md) resolved centennial-1994.md's central open question: the 1994 Annual
+Report directly states the centennial took the form of a 200+-attendee Labor Day weekend alumni
+reunion. A related, easily-confused event was disambiguated: the 1989 Annual Report describes a
+separate "Centenary of YMCA Camping in Canada" (1889-1989, a national relay-campfire event), distinct
+from Kanawana's own 1994 centennial and its own 1989 "95 years of sharing" reunion — three similar
+events in a few years, now clearly distinguished. The same reports yielded 1988-90 committee/staffing
+detail (Derek Walsh on the 1988-89 committee; Jay Netherwood as "Supervisor" under Bruce Netherwood's
+directorship). For winter-programming.md, precise dating was found for the previously
+broadly-dated "1970s" Winter Outdoor Family Camping program: a 1971-72 ski tow, then a fully-described
+1972-73 season (ski lift, groomed slopes, cross-country trails, all-ages courses, babysitting). A 1996
+"first non-summer-camper group" fact (50 Korean students) was reconciled as a distinct in-season
+milestone from the separately-sourced "year-round residential programming" claim, not proof of the
+same thing.
+
+### J.W. McConnell / Lake Wilson
+
+A full-text extraction of the McMorris thesis conclusively closed one long-open lead: zero mentions of
+"McConnell" and only two trivial "Wilson" mentions (listing the camp's two lakes) exist anywhere in
+the 129-page document. Three additional Quebec "Lac Wilson" toponymy entries were found, three of four
+comparable cases nationwide naming the lake after a landowning Wilson family — mild, non-conclusive
+support for the settler-family hypothesis over the McConnell-son hypothesis. The Fong biography's
+search-inside function was confirmed blocked (HTTP 403, print-disabled status), and Dawson
+1933/Charlton 1943's box locations were confirmed but their content remains archive-only.
+
+### Hedley Dimock / Pip Alumni Award
+
+Dimock's two "published" 1961 studies turned out to be unpublished internal YMCA administrative
+reports (Concordia Box HA2323) — explaining their total absence from JSTOR/Scholar/HathiTrust/ERIC — and
+a previously-undocumented third 1970 report extends his Kanawana-linked research by a decade. The
+McMorris thesis was confirmed to have zero Dimock mentions. The ACA's Hedley S. Dimock Award recipient
+list was extended with high confidence through 2026. Separately, two specific candidate names for the
+2019 Pip Alumni Award recipient ("Dr. Amy Ornstein," "David Bryfman") were investigated and explicitly
+**debunked** — neither has any connection to Kanawana — rather than left as unconfirmed leads that
+might resurface.
+
+### Canadian Camping Movement / L&V Games
+
+The OCA's 1940 Kanawana file was pinned to an exact box/folder (still content-inaccessible online).
+Derek Walsh's biography was reconfirmed exhausted after 9 more queries, though new corroborating
+committee context surfaced via the centennial-1994 research. For lv-games.md, a genuine correction was
+made: Camp Hayo-Went-Ha's "Woodsmen"/"Voyageurs" are age-based program *levels*, not a Color-War-style
+competing team pair as this KB previously implied — the naming parallel is real, the competitive
+structure is not. Camp Pine Crest's own Lumbermen-Voyageur Games are independently confirmed to have
+started in 1940 (not earlier, despite 1896-era Broadview Boys' Institute camp lineage), and the
+broader genre traces to a 1916 "Red and Gray Week" at an Adirondacks Jewish boys' camp — useful
+comparative context on how derivative Kanawana's 1947 adoption was. The long-standing "La Vérendrye
+connection" open question resolved as coincidental branding: the modern Kanawana canoe-trip program
+reuses "Voyageurs" separately from the historical L&V team of the same name, with no institutional
+link found.
+
+### Notable Alumni / Stuart McLean / Kanawana in Media
+
+An 18-query, 7-surface sweep for additional notable alumni reconfirmed the existing list as genuinely
+saturated for the public web — no new names. The Stuart McLean research was far more productive: a
+direct curl fetch (browser user-agent) retrieved the full 983-line McMaster finding aid, which
+archives.mcmaster.ca itself now blocks — surfacing 8 previously undocumented camp-related archival
+items (address lists, dried flowers, decals, a 1969 YMCA membership card, 1976 correspondence, a 2008
+NAYDO philanthropy-conference keynote appearance, and leads on both his John Island Alumni Newsletter
+speech and a 1974 canoeing-instructor course), plus confirming zero camp photos exist in that
+particular fonds. A citable YouTube URL was found for the already-documented 1960s silent Kanawana
+film.
+
+### Integration
+
+47 new KB facts (f_1853-f_1899, with one gap at f_1860 filled by the conflict fact), 1 new conflict
+record (c_018), 18 new source records, 12 wiki articles updated (camp-oolahwan.md,
+centennial-1994.md, winter-programming.md, j-w-mcconnell.md, lake-wilson.md, hedley-dimock.md,
+pip-alumni-award.md, canadian-camping-movement.md, lv-games.md, notable-alumni.md, stuart-mclean.md,
+kanawana-in-media.md). KB v5.03 -> v5.04. Also corrected a stale, over-confident inference (f_1366,
+Camp Thunderbird/Wilderness Survival Camp dating) discovered incidentally by the earlier Campaign 33
+batch but only now cross-referenced against this batch's findings.
+
+### Outcome
+
+Across the six clusters, roughly 25-30 of the targeted open questions were resolved, largely
+resolved, or confirmed as genuine dead ends; two false leads were explicitly debunked rather than left
+ambiguous (Pip Award 2019 candidates); one new institutional conflict was logged for human review
+(c_018) rather than silently adjudicated; and one prior KB over-inference was corrected with primary
+sourcing (Camp Thunderbird). Four new priority-queue items track the remaining actionable leads
+(LAC YWCA fonds ingestion, the c_018 conflict, a local-PDF-extraction retry for the McMorris thesis,
+and manual Flickr/Facebook photo browsing for L&V Games).

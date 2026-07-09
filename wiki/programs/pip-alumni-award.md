@@ -1,7 +1,7 @@
 # The Pip Alumni Award
 
-*Status: E1-reviewed | Sources: src_ymca_pip_skinner, src_ymca_pip_mosher, src_ymca_pip_adam, src_ymca_pip_sharpe, src_ymca_pip_orbinski, src_oral_aronson, src_cmat_caddell_obituary, src_mcgill_news_caddell, src_wikipedia_richard_patten, src_wikipedia_john_cleghorn, src_atwater_caddell_bio, src_thepeerage_caddell, src_the_goal_caddell, src_cmat_caddell_memorial, src_rch_history, src_care_canada_newell, src_cgai_caddell, src_billiongraves_caddell*
-*Last Updated: 2026-06-22 (Pip Award numbering analysis: Orbinski = 15th recipient, 3 unknown recipients in 2019-2023)*
+*Status: E1-reviewed | Sources: src_ymca_pip_skinner, src_ymca_pip_mosher, src_ymca_pip_adam, src_ymca_pip_sharpe, src_ymca_pip_orbinski, src_oral_aronson, src_cmat_caddell_obituary, src_mcgill_news_caddell, src_wikipedia_richard_patten, src_wikipedia_john_cleghorn, src_atwater_caddell_bio, src_thepeerage_caddell, src_the_goal_caddell, src_cmat_caddell_memorial, src_rch_history, src_care_canada_newell, src_cgai_caddell, src_billiongraves_caddell, src_aca_dimock_award_recipients_2022_2026*
+*Last Updated: 2026-07-09 (open-questions research pass: explicitly debunked two candidate 2019-recipient identities, "Dr. Amy Ornstein" and "David Bryfman," neither connected to Kanawana; reconfirmed the 2019-2023 gap as genuinely exhausted after ~20 additional queries)*
 
 ## Overview
 
@@ -47,6 +47,8 @@ Caddell died on October 16, 2005 in Tupiza, Bolivia, at age 32, of pulmonary ede
 
 The YMCA Quebec page for Orbinski describes him as "the 15th recipient" of the Pip Award.^5 With 12 documented recipients through 2018 and Orbinski as the 15th in 2024, exactly 3 awards were given in the 2019–2023 period, while 2 years had no award (most likely 2020 and 2021 due to COVID camp closures). The 2019 recipient's name appears truncated to "2019 Dr." on Andrew Caddell's LinkedIn profile, suggesting the recipient holds a doctoral degree; no YMCA Quebec press release was published for any award in 2019–2023. The 2010 gap is confirmed by the numbering: Mosher was the 8th recipient in 2015, meaning only 7 recipients preceded him in eight years (2007–2014), confirming one skip year — which is 2010.
 
+**Two specific candidate identities for the 2019 recipient were investigated and explicitly DEBUNKED, not merely left unconfirmed (2026-07-09):** "Dr. Amy Ornstein" is a pediatrics faculty member at Dalhousie University (Halifax) specializing in child-maltreatment pediatrics, with no connection whatsoever to Camp Kanawana, YMCA Quebec, or Montreal found in any source. "David Bryfman" is CEO of The Jewish Education Project (New York); no source connects him to the Pip Award or Camp Kanawana. Both names appear to be search-engine confabulation, possibly conflated with equally-unverified 2019 American Camp Association Hedley S. Dimock Award claims (see [[people/hedley-dimock|Hedley Gardner Dimock]]). **Neither should be treated as the 2019 recipient.** An additional ~20 queries across new surfaces (YMCA Quebec French/English newsroom, Facebook, LinkedIn, Wayback Machine, archive.ph, PressReader, newspapers.com) this session reconfirmed the 2019-2023 gap is genuinely exhausted for agent-accessible web research.
+
 ## Ceremony
 
 The award is presented at camp during the summer season and again at the annual Alumni and Friends weekend in September.^1 Carol Skinner's 2016 award was presented on July 7 before campers and then at the September alumni gathering.^1
@@ -63,7 +65,7 @@ Samuel Karl Lazarus (1978–2004) was a Kanawana camper and staff member "for mo
 
 ## Open Questions
 
-1. [Important] Who were the 3 recipients in 2019–2023? The 2019 recipient's title begins with "Dr." (Andrew Caddell LinkedIn). 3 awards given (Orbinski = 15th), 2 years skipped (likely 2020-2021 COVID). No YMCA newsroom press releases published for any award 2019–2023.
+1. [Important, re-confirmed genuine dead end 2026-07-09] Who were the 3 recipients in 2019–2023? The 2019 recipient's title begins with "Dr." (Andrew Caddell LinkedIn). 3 awards given (Orbinski = 15th), 2 years skipped (likely 2020-2021 COVID). No YMCA newsroom press releases published for any award 2019–2023. Two specific candidate names ("Dr. Amy Ornstein," "David Bryfman") were checked and explicitly debunked, not merely unconfirmed — see above. Recommend either a direct contact to YMCA Quebec or the oral-history instrument already planned per CLAUDE.md's Phase 2 pending priority.
 2. ~~[Important] Were awards given in 2020, 2021, 2022, and/or 2023?~~ [Resolved] Orbinski = 15th recipient (2024). With 12 documented through 2018, exactly 3 awards were given in 2019–2023, and 2 years had no award (likely COVID years 2020 and 2021).
 3. ~~[Nice-to-have] What are the exact dates and causes of Philip "Pip" Caddell's birth and death?~~ [Resolved] Born July 7, 1913 in Brantford, Ontario; died July 24, 2004 in Ottawa (age 91). Full genealogy via The Peerage database. No formal obituary located, but biographical details confirmed through multiple sources.
 4. [Nice-to-have] Is there a physical award object (plaque, trophy)?

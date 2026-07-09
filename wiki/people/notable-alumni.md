@@ -1,7 +1,7 @@
 # Notable Alumni of Camp Kanawana
 
 *Status: E1-reviewed | Sources: 40*
-*Last Updated: 2026-06-22*
+*Last Updated: 2026-07-09 (open-questions research pass: an 18-query, 7-surface sweep for additional notable alumni reconfirmed the existing list as genuinely saturated for the public web; the Pip Award 2019 recipient gap's two candidate names were explicitly debunked)*
 
 ## Overview
 
@@ -119,12 +119,12 @@ Attended Camp Kanawana for six summers before becoming a camp counsellor and can
 ## Open Questions
 
 1. [Critical] What are the years that Richard "Itche" Kerr attended Camp Kanawana? Was he a camper, counsellor, or both?
-2. [Important] Which other notable individuals attended Camp Kanawana who are not Pip Award recipients? The camp has operated for 130+ years — there must be many more. (Harold H. Potter, pioneering Black Canadian sociologist, identified as 1930s counsellor. More research needed.)
+2. [Important, re-confirmed exhausted 2026-07-09] Which other notable individuals attended Camp Kanawana who are not Pip Award recipients? The camp has operated for 130+ years — there must be many more. (Harold H. Potter, pioneering Black Canadian sociologist, identified as 1930s counsellor.) A systematic 18-query, 7-surface sweep (Google web, LinkedIn, Facebook, Instagram, TikTok, Newspapers.com, Wikipedia, Google Books) found no previously undocumented, independently-notable/public alumni — every result was either already-documented or a generic camp/marketing page. The easily-discoverable public web is genuinely saturated for this topic; further progress likely requires oral history or physical archive access.
 3. ~~[Important] What is Bruce Netherwood's specific role history at Kanawana — was he a camp director? Pip Award describes him as "YMCA leader and author" — what did he author?~~ [Partially resolved] Director at Kanawana 1988–1994 per oral history (f_1212). No published books found via web search; "author" in Pip citation may refer to internal YMCA publications or reports. 30+ years in YMCA camping confirmed.
 4. ~~[Nice-to-have] What is Jeniene Phillips Birks's broadcasting career? Which network/station?~~ [Resolved] CBC Montreal television journalist; fill-in anchor circa 2009.^19
 5. [Nice-to-have] Can any notable alumni from the 1894–1930 era be identified?
 6. ~~[Nice-to-have] Is "Chris Adams" (1980 nature program) the same person as Chris Adam (Pip Award 2017)?~~ [Resolved] Very likely the same person: shared Vanier/Dawson connection, wildlife/nature expertise, surname difference is a Ka-News transcription variant.
-7. [Nice-to-have] Who were the 2019 and 2020–2023 Pip Award recipients, if any? (2019 appears as "Dr." on Andrew Caddell's LinkedIn but name is truncated.)
+7. [Nice-to-have, re-confirmed exhausted 2026-07-09] Who were the 2019 and 2020–2023 Pip Award recipients, if any? (2019 appears as "Dr." on Andrew Caddell's LinkedIn but name is truncated.) See [[programs/pip-alumni-award|The Pip Alumni Award]] — two candidate names ("Dr. Amy Ornstein," "David Bryfman") were checked and explicitly debunked, not merely unconfirmed.
 
 ## Sources
 

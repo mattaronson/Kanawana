@@ -1,7 +1,7 @@
 # Winter and Year-Round Programming
 
-*Status: R3-verified | Sources: 8*
-*Last Updated: 2026-06-26 — photo gallery added 2026-07-02*
+*Status: R3-verified | Sources: 9*
+*Last Updated: 2026-07-09 (open-questions research pass: annual reports precisely date Winter Outdoor Family Camping to 1972-73, one year after an initial 1971-72 ski tow; the Kanawana Outing Club's wind-down after 1979 confirmed as a dead end; the 1996 "first non-summer-camper group" fact reconciled as a distinct, in-season milestone from the year-round-residential claim)*
 
 ## Overview
 
@@ -13,8 +13,12 @@ Front Camp houses the Farmhouse and Blockhouse, which are winterized facilities 
 
 ## Timeline
 
-- **1970s**: Winter outdoor family camping was introduced.^4
-- **1996**: Year-round residential programming began, extending the camp's operational calendar beyond the traditional summer season.^5
+- **1971-72**: A ski tow was installed "to broaden the scope of winter programming," per the YMCA of Montreal's own Annual Report — the earliest documented step toward winter operations.^9
+- **1972-73**: Resolved precise dating (2026-07-09) for what had only been broadly dated to "the 1970s": that year's Annual Report states a ski lift was installed, two slopes groomed for downhill runs, miles of cross-country/snowshoe trails marked, all-ages instructional courses offered, and a babysitting service enabled parents with toddlers to participate. This is the specific "Winter Outdoor Family Camping" program.^9
+- **1974-75 to 1980-81**: Camper counts recorded in annual reports: 475 campers in 1974-75 ("second highest registration in 25 years," despite a national decline in resident camping); a capital-planning process for new facilities began in 1976-77; over 750 children attended by 1980-81.^9
+- **Through 1979**: The "Kanawana Outing Club," a distinct winter hiking/trail program with its own badge (pictured below) and trail system, ran at least through 1979 (see [[programs/programs-activities|Programs and Activities]]). A systematic check of every annual report from 1980 through 1988 found no further mention of the Outing Club, winter programming, or skiing at Kanawana — its exact wind-down date after 1979 is a confirmed dead end for online sources.^9
+- **1996**: The camp's own Annual Report states "this was the first time that programs were offered to groups other than summer campers" — a group of 50 Korean students spent four days in-season (summer) doing traditional camp activities. This is a genuine 1996 diversification milestone, but it describes an in-season international-group visit, not necessarily the same thing as "year-round RESIDENTIAL programming" (see below) — the two claims may be related but are not shown to be identical.^9
+- **1996 (per McMorris thesis)**: Year-round residential programming began, extending the camp's operational calendar beyond the traditional summer season.^5
 - **2006-2009**: The "virage vert" (green shift) transformed the camp into a three-season environmental education facility with new accommodation facilities, green sanitary installations, heat exchangers, composting toilets, and an artificial wetland system.^1
 - **2010**: TELUS contributed $50,000 toward a three-season educational pavilion.^6
 - **Current**: The camp offers a winter experience package (January to March) that includes snowshoeing adapted to group levels.^7
@@ -39,8 +43,8 @@ David Leduc managed Camp Kanawana's summer and winter programs, including recrui
 
 ## Open Questions
 
-1. [Important] When exactly did Winter Outdoor Family Camping begin in the 1970s? What did it involve?
-2. [Important] How did year-round programming (1996) affect the camp's staffing model?
+1. ~~[Important] When exactly did Winter Outdoor Family Camping begin in the 1970s? What did it involve?~~ [Resolved 2026-07-09] Winter 1972-73, per the YMCA's own Annual Report: ski lift, two groomed downhill slopes, cross-country/snowshoe trails, all-ages courses, toddler babysitting service — one year after an initial 1971-72 ski tow.
+2. [Important, advanced 2026-07-09] How did year-round programming (1996) affect the camp's staffing model? A 1969 Concordia "Working paper on year-round use" shows the idea was studied 27 years earlier, directly preceding the camp's 1994-95 leadership restructuring into a year-round Executive Director plus a three-season on-site Camp Director — but no source documents the specific staffing/infrastructure changes that accompanied the 1996 launch itself; confirmed dead end for that specific detail.
 3. [Nice-to-have] What environmental education programming runs during the winter months specifically?
 4. [Nice-to-have] How many groups use the camp annually outside the summer season?
 
@@ -61,6 +65,7 @@ David Leduc managed Camp Kanawana's summer and winter programs, including recrui
 6. TELUS Community Board, 2010.
 7. YMCA Quebec, Camp Kanawana winter experience package (2026).
 8. David Leduc LinkedIn profile.
+9. YMCA of Montreal Annual Reports, 1971-72, 1972-73, 1996 [src_ia_ymca_annual_1971_72, src_ia_ymca_annual_1972_73, src_ia_ymca_annual_1996].
 
 ## Research Notes
 

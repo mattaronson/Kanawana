@@ -348,6 +348,26 @@
       "resolution": "Resolved 2026-07-07 per standing policy (documented sources take precedence over oral history in direct conflicts -- operator directive): adopt the Montreal YMCA annual reports' documented start. Francois Dauphin held the 'Directeur, YMCA Kanawana' Senior Management title as of the 2007 report; Sean Day's first documented appearance in that specific role is the 2008 report. The oral-history/CBC-corroborated 2005 start date is superseded as Day's *directorship* start, though preserved in the KB (f_1735, f_1740) as evidence he was already connected to Kanawana in some capacity that year. SUPERSEDED 2026-07-09 -- see notes. The 2026-07-07 resolution (documented annual report wins, start=2008) no longer holds because a second documented source (the camp's own website) contradicts the annual report, not oral history. Status reverted to unresolved.",
       "resolved_at": "2026-07-07T00:00:00Z",
       "created_at": "2026-07-07T00:00:00Z"
+    },
+    {
+      "conflict_id": "c_018",
+      "description": "Institutional continuity claim for Montreal's mid-century girls'/underprivileged-children's summer camps: the McCord Stewart Museum's Junior League of Montreal fonds (P685) description states 'today, Camp Amy Molson carries on its mission' -- implying Camp Amy Molson succeeded the Junior League's 1921 Griffintown camp. But Camp Amy Molson's own official history states it was founded May 23, 1944 by the Montreal Ladies' Benevolent and Protestant Orphans' Society (a different organization from the Junior League), with 58 campers in its first season.",
+      "fact_ids": [
+        "f_1859",
+        "f_1860",
+        "f_1844"
+      ],
+      "entity": "Camp Amy Molson",
+      "attribute": "institutional_succession_claim",
+      "values": [
+        "Successor to the Junior League of Montreal's 1921 camp, per the McCord Stewart Museum's own Junior League fonds description ('today, Camp Amy Molson carries on its mission')",
+        "Founded independently in 1944 by the Montreal Ladies' Benevolent and Protestant Orphans' Society (a distinct organization from the Junior League), per Camp Amy Molson's own official history"
+      ],
+      "status": "unresolved",
+      "notes": "This is a genuine two-documented-sources disagreement, not an oral-history-vs-document case, so the 'oral history yields to documents' standing policy does not apply -- it requires human/editorial judgment. Likely explanation (unconfirmed): two distinct Montreal girls'/children's-welfare camps existed in the same era (the Junior League's 1921 Griffintown camp vs. the Ladies' Benevolent Society's 1944 Amy Molson camp), and McCord's 'carries on its mission' is a loose mission-continuity claim (both served underprivileged Montreal children) rather than a literal organizational-succession claim. Relevant to camp-oolahwan.md (Kanawana's 1940s cross-camp contact with 'the Junior League Camp,' per McMorris's thesis) and to camp-becsies.md (which already separately documents Camp Amy Molson as a hypothesis for the 1936-1944 Becsies gap). Not resolved this session -- flagged for operator/editorial review.",
+      "resolution": null,
+      "resolved_at": null,
+      "created_at": "2026-07-09T10:00:00Z"
     }
   ]
 }
