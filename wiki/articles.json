@@ -19,9 +19,15 @@
           "at": "2026-07-09T06:30:00Z",
           "by": "auto",
           "task": "RESEARCH"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-07-09T22:00:00Z",
+          "by": "auto",
+          "task": "RESEARCH"
         }
       ],
-      "ralph_loops_completed": 1,
+      "ralph_loops_completed": 2,
       "kb_facts_used": [
         "f_0001",
         "f_0002",
@@ -83,7 +89,9 @@
         "f_1532",
         "f_1537",
         "f_1815",
-        "f_1816"
+        "f_1816",
+        "f_1938",
+        "f_1939"
       ],
       "sources_cited": [
         "src_ymca_website",
@@ -120,7 +128,7 @@
         "page-family"
       ],
       "file_id": "1h-vki1U2tjYj8-zZ5gzuyW6kQXelcUnB",
-      "word_count": 2391
+      "word_count": 2733
     },
     {
       "article_id": "da-budge",
@@ -478,9 +486,15 @@
           "at": "2026-02-10T00:00:00Z",
           "by": "auto",
           "task": "REVIEW"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-07-09T22:00:00Z",
+          "by": "auto",
+          "task": "RESEARCH"
         }
       ],
-      "ralph_loops_completed": 1,
+      "ralph_loops_completed": 2,
       "kb_facts_used": [
         "f_0078",
         "f_0079",
@@ -501,12 +515,15 @@
         "f_0713",
         "f_0829",
         "f_0830",
-        "f_1221"
+        "f_1221",
+        "f_1948",
+        "f_1949"
       ],
       "sources_cited": [
         "src_mcmorris_thesis",
         "src_ymca_website",
-        "src_kanawana_facts"
+        "src_kanawana_facts",
+        "src_gazette_1974_summer_camps_clipping"
       ],
       "open_questions": 3,
       "cross_links": [
@@ -516,7 +533,7 @@
         "a-ross-seaman"
       ],
       "file_id": "1vObPDCKcgzCi8HVCEMuBzQCMPd0jk2ua",
-      "word_count": 881
+      "word_count": 1567
     },
     {
       "article_id": "coeducation-gender",
@@ -918,9 +935,15 @@
           "at": "2026-07-09T00:00:00Z",
           "by": "auto",
           "task": "RESEARCH"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-07-09T22:00:00Z",
+          "by": "auto",
+          "task": "RESEARCH"
         }
       ],
-      "ralph_loops_completed": 2,
+      "ralph_loops_completed": 3,
       "kb_facts_used": [
         "f_0021",
         "f_0049",
@@ -934,7 +957,8 @@
         "f_0931",
         "f_1043",
         "f_1151",
-        "f_1792"
+        "f_1792",
+        "f_1940"
       ],
       "sources_cited": [
         "src_concordia_fonds",
@@ -942,7 +966,8 @@
         "src_concordia_atom_fonds",
         "src_concordia_atom_12A",
         "src_mcmorris_thesis",
-        "src_web_search_2026_03"
+        "src_web_search_2026_03",
+        "src_concordia_13D_joyce_oliver"
       ],
       "open_questions": 6,
       "cross_links": [
@@ -953,7 +978,7 @@
         "myths-and-legends"
       ],
       "file_id": "1sAGFRKb22uggFeMgrSJLllgpSZoAGxa4",
-      "word_count": 1038,
+      "word_count": 1365,
       "notes": "v47 protocol test subject. Formal RALPH caught factual conflation. v4.24 RALPH loop (2026-03-15): 8-query web search saturation. No biographical details found online. New facts f_0927-f_0931. Resolution requires Concordia Archives physical/remote access."
     },
     {
@@ -1939,9 +1964,15 @@
           "at": "2026-07-09T06:30:00Z",
           "by": "auto",
           "task": "RESEARCH"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-07-09T22:00:00Z",
+          "by": "auto",
+          "task": "RESEARCH"
         }
       ],
-      "ralph_loops_completed": 1,
+      "ralph_loops_completed": 2,
       "kb_facts_used": [
         "f_0103",
         "f_0120",
@@ -2058,7 +2089,10 @@
         "f_1768",
         "f_1769",
         "f_1770",
-        "f_1824"
+        "f_1824",
+        "f_1935",
+        "f_1936",
+        "f_1937"
       ],
       "sources_cited": [
         "src_mcmorris_thesis",
@@ -2097,7 +2131,7 @@
         "the-kanawana-site"
       ],
       "file_id": null,
-      "word_count": 3174,
+      "word_count": 3625,
       "notes": "E1 REVIEW (2026-02-19): Fixed non-existent src_concordia_12B04 in header (removed; src_concordia_atom_12B04 already present). Fixed '131-year history' ambiguity to 'more than 130 years'. All claims cited, dates consistent, names cross-checked, tone encyclopedic."
     },
     {
@@ -2129,9 +2163,15 @@
           "at": "2026-02-19T00:00:00Z",
           "by": "auto",
           "task": "REVIEW"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-07-09T22:00:00Z",
+          "by": "auto",
+          "task": "RESEARCH"
         }
       ],
-      "ralph_loops_completed": 1,
+      "ralph_loops_completed": 2,
       "kb_facts_used": [
         "f_0470",
         "f_0476",
@@ -2201,9 +2241,19 @@
         "f_0338",
         "f_0956",
         "f_1333",
-        "f_0013"
+        "f_0013",
+        "f_1943",
+        "f_1944",
+        "f_1945",
+        "f_1946",
+        "f_1947"
       ],
-      "sources_cited": 29,
+      "sources_cited": [
+        "src_wikimapia_kanawana",
+        "src_batshaw_camp_weredale",
+        "src_vss_plan_urbanisme_2024",
+        "src_vss_reglement_zonage_222_2008"
+      ],
       "open_questions": 6,
       "cross_links": [
         "founding-1894",
@@ -2217,7 +2267,7 @@
         "places-and-locations"
       ],
       "file_id": null,
-      "word_count": 2179,
+      "word_count": 2883,
       "notes": "E1 REVIEW (2026-02-19): Added ^4 citation for 1921 brochure (railway route). Fixed 'gorgeous views' promotional language. Standardized 'Harold C. Cross'. Added camp-otoreke cross-link. Removed KB fact IDs from Sources section. All claims cited, tone neutral. 2026-06-20: Added Indigenous territory context (f_1315) and Mille-Isles regional history (f_1314). 2026-06-21: Added 1976 Lovell's directory listing (f_1331) and 2023 superintendent's house fire (f_1333)."
     },
     {
@@ -2945,9 +2995,15 @@
           "at": "2026-07-09T06:30:00Z",
           "by": "auto",
           "task": "RESEARCH"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-07-09T22:00:00Z",
+          "by": "auto",
+          "task": "RESEARCH"
         }
       ],
-      "ralph_loops_completed": 1,
+      "ralph_loops_completed": 2,
       "kb_facts_used": [
         "f_0154",
         "f_0283",
@@ -2983,7 +3039,10 @@
         "f_0836",
         "f_1196",
         "f_1197",
-        "f_1817"
+        "f_1817",
+        "f_1932",
+        "f_1933",
+        "f_1934"
       ],
       "sources_cited": [
         "src_gas_bag_1923",
@@ -3001,7 +3060,9 @@
         "src_wikipedia_alabama_jubilee",
         "src_ymca_website",
         "src_cfcf_1941",
-        "src_youtube_live_a_lot"
+        "src_youtube_live_a_lot",
+        "src_concordia_ymca_fonds_12B04_finding_aid",
+        "src_ymcagta_pinecrest_games"
       ],
       "open_questions": 9,
       "cross_links": [
@@ -3012,7 +3073,7 @@
         "council-ring"
       ],
       "file_id": null,
-      "word_count": 2568,
+      "word_count": 3107,
       "notes": "R1 RALPH completed 2026-02-27. 14 new KB facts. 23 KB facts total. 15 sources. Key findings: Marching Song traced to Alabama Jubilee (1915), lost verses found at Concordia 2006; full 1922 Yo Triumphy cheer; 1923 Gas Bag original songs; 1935 musicale; 1938 choir by Leshley; Kerr song on CD P145/SR0001 (4:30). Blocked on: oral history for section cheers/Grace/campfire repertoire; Concordia archives for song books 1925-1945."
     },
     {
@@ -4053,9 +4114,15 @@
           "at": "2026-03-16T05:30:00Z",
           "by": "auto",
           "task": "REVIEW"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-07-09T22:00:00Z",
+          "by": "auto",
+          "task": "RESEARCH"
         }
       ],
-      "ralph_loops_completed": 2,
+      "ralph_loops_completed": 3,
       "kb_facts_used": [
         "f_0091",
         "f_0738",
@@ -4070,7 +4137,8 @@
         "f_0868",
         "f_0994",
         "f_0995",
-        "f_0996"
+        "f_0996",
+        "f_1953"
       ],
       "sources_cited": [
         "src_mcmorris_thesis",
@@ -4079,7 +4147,8 @@
         "src_eoy_smee_1983",
         "src_conserver_society_smee_fund",
         "src_hamilton_community_foundation",
-        "src_concordia_fonds"
+        "src_concordia_fonds",
+        "src_grymca_manitoulin_history"
       ],
       "open_questions": 4,
       "cross_links": [
@@ -4089,7 +4158,7 @@
         "section-names"
       ],
       "file_id": null,
-      "word_count": 881
+      "word_count": 1220
     },
     {
       "article_id": "terry-mosher",
@@ -4215,9 +4284,15 @@
           "at": "2026-07-09T00:00:00Z",
           "by": "auto",
           "task": "VERIFY"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-07-09T22:00:00Z",
+          "by": "auto",
+          "task": "RESEARCH"
         }
       ],
-      "ralph_loops_completed": 2,
+      "ralph_loops_completed": 3,
       "kb_facts_used": [
         "f_0045",
         "f_0046",
@@ -4259,7 +4334,7 @@
         "src_ymcaquebec_annualreport_2008",
         "src_ymcakanawana_com_wayback_2005_2007"
       ],
-      "open_questions": 4,
+      "open_questions": 5,
       "cross_links": [
         "directors-index",
         "stuart-mclean",
@@ -4268,7 +4343,7 @@
         "programs-activities"
       ],
       "file_id": null,
-      "word_count": 1630
+      "word_count": 1787
     },
     {
       "article_id": "ymca-quebec-history",
@@ -4609,9 +4684,15 @@
           "at": "2026-07-09T00:00:00Z",
           "by": "auto",
           "task": "RESEARCH"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-07-09T22:00:00Z",
+          "by": "auto",
+          "task": "RESEARCH"
         }
       ],
-      "ralph_loops_completed": 1,
+      "ralph_loops_completed": 2,
       "kb_facts_used": [
         "f_1226",
         "f_1227",
@@ -4635,7 +4716,9 @@
         "f_1518",
         "f_1807",
         "f_1808",
-        "f_1809"
+        "f_1809",
+        "f_1941",
+        "f_1942"
       ],
       "sources_cited": [
         "src_vss_familles_pionnieres",
@@ -4658,7 +4741,7 @@
         "founding-1894"
       ],
       "file_id": null,
-      "word_count": 1368
+      "word_count": 1831
     },
     {
       "article_id": "centennial-1994",
@@ -5277,21 +5360,33 @@
       "article_id": "rob-braide",
       "title": "Rob Braide",
       "wiki_folder": "people",
-      "status": "stub",
+      "status": "draft",
       "status_history": [
         {
           "status": "stub",
           "at": "2026-07-09T06:30:00Z",
           "by": "auto",
           "task": "RESEARCH"
+        },
+        {
+          "status": "draft",
+          "at": "2026-07-09T22:00:00Z",
+          "by": "auto",
+          "task": "RESEARCH"
         }
       ],
-      "ralph_loops_completed": 1,
+      "ralph_loops_completed": 2,
       "kb_facts_used": [
-        "f_1825"
+        "f_1825",
+        "f_1950",
+        "f_1951",
+        "f_1952"
       ],
       "sources_cited": [
-        "src_reportage_vecu_2007"
+        "src_reportage_vecu_2007",
+        "src_broadcasting_history_braide",
+        "src_billboard_ca_braide",
+        "src_gulf_islands_driftwood_braide_obit"
       ],
       "open_questions": 4,
       "cross_links": [
@@ -5299,7 +5394,7 @@
         "directors-index"
       ],
       "file_id": null,
-      "word_count": 458
+      "word_count": 1147
     }
   ]
 }

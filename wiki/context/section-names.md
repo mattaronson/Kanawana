@@ -1,7 +1,7 @@
 # Section Names at Kanawana
 
 *Status: E1 Reviewed | Sources: McMorris (2023) Ch1, KB section_names, YMCA Quebec website (2026)*
-*Last Updated: 2026-07-05 (Section and Program Directors section added, p_191 ENRICH pass)*
+*Last Updated: 2026-07-09 (Batch 6 research pass: Rangers confirmed to predate the 1959 renaming rather than follow it; a specific 1974 Gazette clipping identified as a lead for the gender-reassignment date, though paywalled)*
 
 Kanawana's original age groupings were straightforward: Juniors (12 to 14) and Seniors (14 to 17). Two groups, one dividing line. By 1930, the camp had added a Juveniles section for boys aged 10 to 12, recognizing both the demand from younger families and the practical reality that a ten-year-old and a sixteen-year-old do not belong in the same program. The 1935 staff list reflects this three-section structure, with separate directors for Juveniles (Lorne Hamilton), Juniors (Ernie Taylor), and Seniors (Howie Langille).
 
@@ -12,6 +12,8 @@ That changed in 1959, when the camp renamed all four sections. The new names dre
 The 1959 names survived. More than six decades later, all four are still in use at the camp, though the age ranges and organizational logic have shifted considerably. Where the original system sorted boys by age into two-year bands, the current structure — in place since at least the early 1980s — uses the same names to organize campers by gender. Pioneers encompasses girls aged 7 to 12, while Woodsmen covers boys in the same age range. These two make up the Junior sections, housed in cabins. In the Senior sections (platform tents), Coureurs de Bois serves boys aged 13 to 15, while Pathfinders covers girls of the same age. The Mountaineers section, established in 2022, provides a gender-neutral Senior section for campers aged 13 to 15. Beyond the core sections, the camp runs specialized programs: Voyageurs (an all-gender long canoe trip program), Trailblazers (Leaders-in-Training, age 16), and Foresters (canoe trip leader specialization).
 
 The persistence of names like Pioneers and Coureurs de Bois, even as their meaning has been remapped onto entirely different organizational principles, is itself a small piece of evidence about how camp traditions work. The words outlast the systems they were designed to label.
+
+The "Rangers" program name is absent entirely from the McMorris thesis, which exhaustively documents Kanawana's 1894-1967 primary sources and the four core 1959 section names in detail — confirming Rangers was never one of them. Combined with the earliest dated Rangers artifact in the archive (a 1955 plaque), this means Rangers was already an established, separately-named program four years *before* the 1959 renaming, not introduced after it as previously assumed. "Trailblazers" and "Foresters" remain entirely undated: neither appears in the McMorris thesis or any pre-1980s primary source checked, only in current (2026) YMCA program pages.
 
 ## Section and Program Directors
 
@@ -31,6 +33,7 @@ Beyond the Camp Director who ran the whole operation, individual sections and pr
 - YMCA Kamp Kanawana Facts (undated). [Internet Archive](https://archive.org/details/ymca-kamp-kanawana-facts). Confirms 1969 coeducation.
 - KB: staff_1935 (section directors named by section), section_names (full evolution timeline).
 - Dining-hall and canoe-trip plaques, photo-mined 2026-07-05 (f_1569-f_1739): Rangers, CIT, LIT, and Voyageurs section/program directors, 1959-2008. See [[people/directors-index|Directors and Staff of Camp Kanawana]] for the full table.
+- Montreal Gazette, "Summer Camps – Kanawana" (April 18, 1974), Newspapers.com [src_gazette_1974_summer_camps_clipping]. Located but paywalled; requires operator account to read.
 
 ### R3 Verification Notes
 
@@ -61,6 +64,6 @@ Note: An earlier draft incorrectly stated Woodsmen covered ages 13-16. The YMCA 
 
 ## Open Questions
 
-- The camp became coeducational in 1969 (per YMCA Kamp Kanawana Facts sheet). When were the section names reassigned along gender lines?
-- When were the additional section names (Rangers, Trailblazers, Foresters, etc.) introduced?
+- [Re-confirmed dead end 2026-07-09, one lead found] The camp became coeducational in 1969 (per YMCA Kamp Kanawana Facts sheet). When were the section names reassigned along gender lines? The McMorris thesis explicitly places the post-1967 co-ed period outside its own scope. A specific, dated lead was found: a Montreal Gazette clipping titled "Summer Camps – Kanawana" (April 18, 1974) exists on Newspapers.com and could plausibly describe the section structure mid-transition, but it is paywalled (HTTP 403 to automated fetch) and requires the operator's own Newspapers.com account to read.
+- [Partially resolved 2026-07-09] When were the additional section names (Rangers, Trailblazers, Foresters, etc.) introduced? Rangers is now confirmed to predate the 1959 core-section renaming — it is absent from the McMorris thesis's exhaustive 1894-1967 coverage, and the archive's earliest dated Rangers plaque is from 1955, four years before 1959. Trailblazers and Foresters remain entirely undated, confirmed dead ends for online research beyond current program pages.
 - ~~Did the Bantam name fall out of use at the 1959 renaming, or was it replaced later?~~ [Resolved] McMorris confirms the Bantam section was replaced at the 1959 renaming, when all four sections received new names (Pioneers replacing Bantams, Woodsmen replacing Juveniles, Coureurs de Bois replacing Juniors, Pathfinders replacing Seniors).^mc

@@ -2612,6 +2612,87 @@
       "assigned_weight": "P3",
       "created_at": "2026-07-09T18:00:00Z",
       "status": "pending"
+    },
+    {
+      "priority_id": "p_206",
+      "rank": 206,
+      "type": "RESEARCH",
+      "description": "Physically inspect Concordia Box HA1874's itemized camp brochures (1950, 1959, [1960s], 1964, 1965, [1968?], [197-], 1978, 1982, 1983, 1997) -- the most promising remaining lead for narrowing the 'Non Nobis Solum' Latin-motto adoption date, which even the McMorris thesis's full archival access could not pin down.",
+      "article_id": "traditions-and-culture",
+      "blocking": false,
+      "assigned_weight": "P2",
+      "created_at": "2026-07-09T22:00:00Z",
+      "status": "pending"
+    },
+    {
+      "priority_id": "p_207",
+      "rank": 207,
+      "type": "RESEARCH",
+      "description": "Retrieve the contents of 'Lumbermen & Voyageurs: The YMCA Pine Crest Story' (Camp Pine Crest centennial book) via interlibrary loan or a retried/slower fetch of the camp's shop page (repeatedly rate-limited, HTTP 429) -- Pine Crest's own 'Lumbermen vs Voyageurs' games (since 1940) are a striking naming parallel to Kanawana's L&V Games and may hold cheer text or an origin story worth comparing.",
+      "article_id": "camp-songs-cheers",
+      "blocking": false,
+      "assigned_weight": "P3",
+      "created_at": "2026-07-09T22:00:00Z",
+      "status": "pending"
+    },
+    {
+      "priority_id": "p_208",
+      "rank": 208,
+      "type": "RESEARCH",
+      "description": "Contact SHGPH directly (info@shgph.org, 450-744-0182) to request 'Hommage à Télesphore Pagé,' La Mémoire de la Vallée de Saint-Sauveur, bulletin no. 81, hiver 1999 -- now identified by exact title/issue, a much more targeted request than a general inquiry, and likely to confirm whether Télesphore Pagé (d. 1961) was the seller of the 1960 'Pagé farm.'",
+      "article_id": "page-family",
+      "blocking": true,
+      "blocking_reason": "Requires an operator-initiated direct contact with SHGPH; not resolvable via automated web search.",
+      "assigned_weight": "P2",
+      "created_at": "2026-07-09T22:00:00Z",
+      "status": "pending"
+    },
+    {
+      "priority_id": "p_209",
+      "rank": 209,
+      "type": "RESEARCH",
+      "description": "Physically consult Concordia's 'Permanent Camp Committee' minute/correspondence files (1895-96, 1899-1901, 1908, 1911-1926, 1921) -- a newly identified, plausible venue for documenting Ralph Dawson's formal role at the camp, not checked in any prior research campaign.",
+      "article_id": "ralph-dawson",
+      "blocking": true,
+      "blocking_reason": "Requires physical Concordia Archives access; the finding aid gives only file-date ranges, no content.",
+      "assigned_weight": "P2",
+      "created_at": "2026-07-09T22:00:00Z",
+      "status": "pending"
+    },
+    {
+      "priority_id": "p_210",
+      "rank": 210,
+      "type": "RESEARCH",
+      "description": "Retrieve the Montreal Gazette clipping 'Summer Camps – Kanawana' (April 18, 1974) via the operator's own Newspapers.com public-access account -- paywalled to automated fetch (HTTP 403) but a concrete, dated lead for when section names were reassigned along gender lines during the camp's 1968-early 1980s coeducational transition.",
+      "article_id": "section-names",
+      "blocking": true,
+      "blocking_reason": "Requires the operator's Newspapers.com login; blocked to automated tools.",
+      "assigned_weight": "P2",
+      "created_at": "2026-07-09T22:00:00Z",
+      "status": "pending"
+    },
+    {
+      "priority_id": "p_211",
+      "rank": 211,
+      "type": "RESEARCH",
+      "description": "Physically consult Concordia sub-series 12L, Box HA2312, 'Director's report (1908)' -- a single, specific dated record from the middle of the undocumented 1901-1923 gap between Camp Jubilee directors John Roy and Philip Paterson, very likely naming whoever was director that year.",
+      "article_id": "founding-1894",
+      "blocking": true,
+      "blocking_reason": "Requires physical Concordia Archives access; not digitized.",
+      "assigned_weight": "P2",
+      "created_at": "2026-07-09T22:00:00Z",
+      "status": "pending"
+    },
+    {
+      "priority_id": "p_212",
+      "rank": 212,
+      "type": "RESEARCH",
+      "description": "Pursue Quebec vital-records/genealogy sources (Drouin collection, Ancestry Quebec) to determine whether Rob Braide (broadcaster, b. 1953, chaired the Kanawana Capital Campaign) is related to the separate Braide family of David Ian William Braide (1928-2018) -> Robbie David Braide -> Ian/Vicki Braide (2000s campers/CITs) -- both families have independent Montreal-area YMCA ties but no source found links them directly.",
+      "article_id": "rob-braide",
+      "blocking": false,
+      "assigned_weight": "P3",
+      "created_at": "2026-07-09T22:00:00Z",
+      "status": "pending"
     }
   ]
 }

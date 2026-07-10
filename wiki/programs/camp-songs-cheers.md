@@ -1,7 +1,7 @@
 # Camp Songs, Cheers, and Musical Traditions
 
-*Status: E1-reviewed | Sources: src_gas_bag_1923, src_brochure_1922, src_brochure_1921, src_history_1935, src_green_triangle_1938, src_concordia_fonds, src_concordia_atom_12B04, src_concordia_atom_12B07, src_oral_aronson, src_spirit_kanawana_blog, src_aca_camp_songs_history, src_wikipedia_alabama_jubilee, src_ymca_website, src_mcmorris_thesis, src_cfcf_1941, src_youtube_live_a_lot*
-*Last Updated: 2026-07-09 (broad-sweep campaign: added the "Live a Lot" closing-ceremony song, performed by Sean Day)*
+*Status: E1-reviewed | Sources: src_gas_bag_1923, src_brochure_1922, src_brochure_1921, src_history_1935, src_green_triangle_1938, src_concordia_fonds, src_concordia_atom_12B04, src_concordia_atom_12B07, src_oral_aronson, src_spirit_kanawana_blog, src_aca_camp_songs_history, src_wikipedia_alabama_jubilee, src_ymca_website, src_mcmorris_thesis, src_cfcf_1941, src_youtube_live_a_lot, src_concordia_ymca_fonds_12B04_finding_aid, src_ymcagta_pinecrest_games*
+*Last Updated: 2026-07-09 (Batch 6 research pass: box numbers found for the SR0001 recording and the song sheets/song books folder; a Pine Crest Games naming parallel flagged as a lead for L&V cheer origins; fixed an internal inconsistency about whether any section cheer has been documented)*
 
 ## Overview
 
@@ -13,7 +13,7 @@ The camp's musical heritage is preserved in several archival collections at Conc
 
 The official camp song, **"On My Way to Kanawana,"** was composed and performed by **Richard "Itch" Kerr**, a Kanawana alumnus who received the inaugural Pip Alumni Award circa 2007.^5 The song is preserved at Concordia University as **P145/SR0001** (Sound Recordings) on CD, with a duration of 4 minutes and 30 seconds. It accompanies the 1993/1996 YMCA film *Kamp Kanawana: The Experience that Lasts a Lifetime*, produced by Cathy Reeves (9 minutes, colour VHS).^5 It is the only known audio recording in the Kanawana archival collection.
 
-The song held particular significance in camp culture. In 1967, a busload of Kanawana campers singing the camp song greeted the CCA Centenary Journey paddlers upon their arrival in Ottawa.^13 No lyrics, sheet music, or digital copy of the recording have been found in any online source. The Concordia Archives CD is the sole known copy.
+The song held particular significance in camp culture. In 1967, a busload of Kanawana campers singing the camp song greeted the CCA Centenary Journey paddlers upon their arrival in Ottawa.^13 No lyrics, sheet music, or digital copy of the recording have been found in any online source. The Concordia Archives CD is the sole known copy. Its exact box number is now confirmed: Concordia's static finding-aid page for sub-sub-series 12B04 gives the catalog entry "On My Way to Kanawana. Song composed and performed by Richard Itch Kerr. CD. 4'30. - nd." at **Box HA2559**; the item is undated ("nd") in the finding aid itself.^16
 
 ### "Dear Old Kanawana" (Camp Song, pre-1967)
 
@@ -102,7 +102,9 @@ The cheer is entirely nonsensical, concluding only with the camp name. This stru
 
 ## Section Cheers
 
-*No section-specific cheers have been documented in available written sources. The Color War / L&V Games tradition at YMCA camps across North America typically features team cheers, fight songs, and an "Alma Mater" presented during a culminating event called "Sing."^9 This framework almost certainly applies to the L&V Games at Kanawana, but no specific Voyageur or Lumberman cheers have been recorded in any accessible archive or publication. Oral history is needed to document these.*
+*Correction (2026-07-09): one section cheer has in fact been recorded in a written source, not zero as previously stated here — the handwritten "Medley '81" cheer sheet (see Images below) records an actual Voyageurs sound-off chant ("Said 1-2-3-4-5 / Said Junior Girls don't take no jive / Ya-Ya") and a girls'-section cheer verbatim (f_1566). No further Voyageur, Lumberman, or other section cheers beyond what's on that one sheet have been recorded in any accessible archive or publication. The Color War / L&V Games tradition at YMCA camps across North America typically features team cheers, fight songs, and an "Alma Mater" presented during a culminating event called "Sing."^9 This framework almost certainly applies to the L&V Games at Kanawana.*
+
+*A possible model/common-origin lead: YMCA Camp Pine Crest (Muskoka, Ontario) has run a two-day "Lumbermen vs. Voyageurs" color-war competition, "The Pine Crest Games," every year since 1940 — a striking naming parallel to Kanawana's own "L&V Games" (Lumberman/Voyageur).^17 A centennial book, *Lumbermen & Voyageurs: The YMCA Pine Crest Story*, exists but its contents (including any cheer text) could not be retrieved online in this pass — worth a dedicated attempt via interlibrary loan or a slower/retried fetch.*
 
 ## Sing-Songs, Campfire Music, and Camp Shows
 
@@ -142,16 +144,17 @@ By the 2000s era, Grace was not a single fixed prayer but a rotation of several 
 
 The Concordia University Archives hold the following music-related materials in the Kanawana fonds (P145):^5 ^6
 
-| Item | Date | Series |
+| Item | Date | Series / Box |
 |------|------|--------|
-| Song sheets and skits | 1925, 1927 | P0145/12B07 (Program) |
-| Kanawana song books | 1941-1945 | P0145/12B07 (Program) |
-| Canadian YMCA song book | 1941-1945 | P0145/12B07 (Program) |
-| "On My Way to Kanawana" (CD) | undated | P145/SR0001 (Sound Recordings) |
+| Song sheets and skits | 1925, 1927 | P0145/12B07 (Program), Box HA2315 |
+| Kanawana song books | 1941-1945 | P0145/12B07 (Program), Box HA2315 |
+| Canadian YMCA song book | 1941-1945 | P0145/12B07 (Program), Box HA2315 |
+| KK pageant scripts | 1931-1932 | P0145/12B07 (Program), Box HA2315 |
+| "On My Way to Kanawana" (CD) | undated | P145/SR0001 (Sound Recordings), Box HA2559 |
 | Radio broadcast scripts | 1936-1941 | P0145/12B04 (Communications) |
 | Promotional audiovisual materials | various | P0145/12B04 (Communications) |
 
-These archival materials are the definitive source for documenting Kanawana's historical song repertoire and are not accessible online. Physical access to Concordia University Archives is required.
+These archival materials are the definitive source for documenting Kanawana's historical song repertoire and are not accessible online — the box numbers above are confirmed at the folder level via Concordia's static finding-aid pages, but no individual song titles or lyrics are itemized in the finding aid itself.^16 ^18 Physical access to Concordia University Archives is required.
 
 ## YMCA Camp Song Tradition: Context
 
@@ -166,15 +169,15 @@ The Color War tradition (known at Kanawana as the L&V Games) typically includes 
 
 ## Open Questions
 
-1. [Critical] What are the lyrics to "On My Way to Kanawana" by Richard Kerr? Is a digital copy of the P145/SR0001 CD available?
-2. [Critical] What cheers are associated with the L&V Games (Voyageur cheer, Lumberman cheer, section cheers)?
+1. [Critical, re-confirmed dead end 2026-07-09] What are the lyrics to "On My Way to Kanawana" by Richard Kerr? Is a digital copy of the P145/SR0001 CD available? The item's box number (HA2559) is now confirmed, but it remains undated ("nd") in the finding aid and inaccessible online; only a physical Concordia visit can resolve this.
+2. [Critical, partially advanced 2026-07-09] What cheers are associated with the L&V Games (Voyageur cheer, Lumberman cheer, section cheers)? One section cheer (Voyageurs sound-off, girls'-section cheer) is in fact already documented on the "Medley '81" sheet (f_1566) — see the corrected Section Cheers note above. A possible model/common-origin lead surfaced: YMCA Camp Pine Crest's "Lumbermen vs. Voyageurs" games (since 1940) — its centennial book is an unread, worth-pursuing source.
 3. ~~[Critical] What is the full text of the Kamp Kanawana Marching Song?~~ [Largely resolved] Full 2000s-era text recorded from oral history (f_1196).^14 Remaining: the rediscovered lost verses from Concordia (2006) for comparison against the modern version.
 4. ~~[Important] What are the words of Grace as said at Kanawana?~~ [Partially resolved] Rotating sung graces: Johnny Appleseed and Joy to the World ("Jeremiah was a Bullfrog") identified (f_1195).^14 Remaining: any other graces in the rotation, and when the rotation replaced a single fixed grace.
-5. [Important] What songs are in the 1925/1927 song sheets and the 1941-1945 Kanawana song books?
-6. [Important] When was the "Yo Triumphy" cheer replaced by the Marching Song? Did both coexist?
+5. [Important, re-confirmed dead end 2026-07-09] What songs are in the 1925/1927 song sheets and the 1941-1945 Kanawana song books? Box number now confirmed (HA2315, along with two previously undocumented adjacent items — "KK pageant scripts" 1931-32 and "Fire of Friendship, Kanawana show" 1939 — see [[programs/traditions-and-culture|Traditions and Culture]]) but the finding aid is folder-level only; no song titles are itemized online.
+6. [Important, re-confirmed dead end 2026-07-09] When was the "Yo Triumphy" cheer replaced by the Marching Song? Did both coexist? A 12+ query sweep across web search, the Spirit of Kanawana blog, and general camp-yell-history sources found no trace of "Yo Triumphy" (under any spelling variant) anywhere outside this wiki's own 1922 brochure citation. Only physical Green Triangle/Ka-News issues (1932-1982, Concordia) can resolve this.
 7. [Nice-to-have] What songs were commonly sung at campfire sing-songs across different eras?
 8. ~~[Nice-to-have] Did the camp song change over time, or has "On My Way to Kanawana" always been the primary camp song?~~ [Resolved] Yes — "Dear Old Kanawana" (to the Battle Hymn of the Republic) was the camp song during the pre-war and mid-century periods. "On My Way to Kanawana" by Richard Kerr is a later composition (date unknown).^13
-9. [Nice-to-have] Who adapted "Alabama Jubilee" into the Kanawana Marching Song, and when?
+9. [Nice-to-have, re-confirmed dead end 2026-07-09] Who adapted "Alabama Jubilee" into the Kanawana Marching Song, and when? Independently re-searched this session (web, LinkedIn/Facebook, the primary blog source) — only the famous pop songwriter Richard Kerr (co-writer of "Mandy") surfaces, with no documented YMCA/camp connection; the Kanawana alumnus "Richard Itch Kerr" has no trace anywhere online outside the Concordia catalog entry and Pip Award recipient lists. This is now independently confirmed exhausted across two separate sessions.
 
 ## Related Articles
 
@@ -201,3 +204,6 @@ The Color War tradition (known at Kanawana as the L&V Games) typically includes 
 13. Grace McMorris, "An Experience That Lasts a Lifetime," MA thesis, Concordia University, 2023 [src_mcmorris_thesis].
 14. Oral history, Matt Aronson (2026) [src_oral_aronson].
 15. "Live a lot- Camp YMCA Kanawana," YouTube [src_youtube_live_a_lot].
+16. Concordia University Archives, static finding-aid page for sub-sub-series 12B04 (Communications) [src_concordia_ymca_fonds_12B04_finding_aid]. Direct fetch 2026-07-09: Box HA2559 (SR0001 catalog entry).
+17. YMCA of Greater Toronto blog, "Celebrating Tradition with the Pine Crest Games" [src_ymcagta_pinecrest_games].
+18. Concordia University Archives, sub-sub-series 12B07 (Program) [src_concordia_atom_12B07]. Direct fetch 2026-07-09: Box HA2315 (song sheets, song books, pageant scripts).

@@ -1,8 +1,8 @@
 {
   "version": "v4.98",
-  "kb_version": "v5.05",
+  "kb_version": "v5.06",
   "migrated_from": "3.3",
-  "fact_count": 1893,
+  "fact_count": 1915,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -25547,7 +25547,7 @@
     },
     {
       "fact_id": "f_1518",
-      "claim": "A second Télesphore Pagé (b. April 1908) existed in the Saint-Sauveur Pagé family. He attended école du Grand-Ruisseau, worked in logging camps, then was hired by Auguste Dionne for his Montreal business. He married Marguerite Amyot in 1935 and returned to Saint-Sauveur to open a grocery store on rue de la Gare. This may be a son or nephew of the Télesphore who married Clarilda Dagenais in 1925.",
+      "claim": "A second Télesphore Pagé (b. April 1908) existed in the Saint-Sauveur Pagé family. He attended école du Grand-Ruisseau, worked in logging camps, then was hired by Auguste Dionne for his Montreal business. He married Marguerite Amyot in 1935 and returned to Saint-Sauveur to open a grocery store on rue de la Gare. This may be a son or nephew of the Télesphore who married Clarilda Dagenais in 1925. CORRECTED 2026-07-09: this appears to be a mistaken duplication -- see f_1942, which identifies this same biography as belonging to Télesphore Léonard (1908-1997), a Pagé descendant through the female line (son of Léonie Pagé), not a second Télesphore Pagé. Preserved here per the no-silent-overwrite rule; treat as superseded.",
       "sources": [
         "src_vss_families"
       ],
@@ -25558,7 +25558,9 @@
         "Saint-Sauveur"
       ],
       "date_ref": "1908",
-      "conflicts_with": [],
+      "conflicts_with": [
+        "f_1942"
+      ],
       "added_version": "v4.86",
       "added_by": "ralph_loop"
     },
@@ -32783,6 +32785,391 @@
       "date_ref": "2023",
       "conflicts_with": [],
       "added_version": "v5.05",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1932",
+      "claim": "Concordia's static finding-aid page for sub-sub-series 12B04 (Communications) gives the exact catalog entry for the 'On My Way to Kanawana' recording: 'On My Way to Kanawana. Song composed and performed by Richard Itch Kerr. CD. 4'30. - nd.' (Box HA2559, P145/SR0001). The item is undated in the finding aid itself; no lyrics, transcription, or streamable/digitized copy exists online.",
+      "sources": [
+        "src_concordia_ymca_fonds_12B04_finding_aid"
+      ],
+      "confidence": "stated",
+      "category": "programs",
+      "entities": [
+        "Richard Kerr",
+        "On My Way to Kanawana"
+      ],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "v5.06",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1933",
+      "claim": "Concordia's static finding-aid page for sub-sub-series 12B07 (Program), Box HA2315, lists 'Song sheets, skits' (1925, 1927), 'Kanawana song books, Canadian YMCA song book' (1941-1945), 'KK pageant scripts' (1931-1932), and 'Fire of Friendship, Kanawana show' (1939) -- all folder-level descriptions only, with no individual song titles or ceremony scripts itemized online.",
+      "sources": [
+        "src_concordia_atom_12B07"
+      ],
+      "confidence": "stated",
+      "category": "programs",
+      "entities": [
+        "Camp Kanawana",
+        "Fire of Friendship"
+      ],
+      "date_ref": "1925-1945",
+      "conflicts_with": [],
+      "added_version": "v5.06",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1934",
+      "claim": "YMCA Camp Pine Crest (Muskoka, Ontario) has run a two-day 'Lumbermen vs. Voyageurs' color-war competition, 'The Pine Crest Games,' every year since 1940, using an axe (Lumbermen) and paddle (Voyageurs) as team symbols -- a striking naming parallel to Kanawana's 'L&V Games' (Lumberman/Voyageur) worth investigating as a possible shared-origin or common-inspiration lead. A centennial book, 'Lumbermen & Voyageurs: The YMCA Pine Crest Story,' exists but its contents could not be retrieved online (repeated HTTP 429 rate-limiting on the shop page; no WorldCat/review record with cheer text).",
+      "sources": [
+        "src_ymcagta_pinecrest_games"
+      ],
+      "confidence": "stated",
+      "category": "programs",
+      "entities": [
+        "L&V Games",
+        "Camp Pine Crest"
+      ],
+      "date_ref": "1940",
+      "conflicts_with": [],
+      "added_version": "v5.06",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1935",
+      "claim": "Concordia's static finding-aid page for sub-sub-series 12B04 (Communications), Box HA1874, itemizes individual Kanawana camp brochures by year: 1950, 1959, [1960s], 1964, 1965, [1968?], [197-], 1978, 1982, 1983, and 1997. None are digitized online; the same box holds the full 1932-1940 run of 'The Green Triangle' newsletter as a single undifferentiated entry (individual issue dates not itemized in the public finding aid).",
+      "sources": [
+        "src_concordia_ymca_fonds_12B04_finding_aid"
+      ],
+      "confidence": "stated",
+      "category": "sources",
+      "entities": [
+        "Concordia University Archives",
+        "Camp Kanawana"
+      ],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "v5.06",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1936",
+      "claim": "The McMorris 2023 thesis, citing Concordia P145/12B07 ('Fire of Friendship — Kanawana Show'), notes the Fire of Friendship service's suggested programme was designed to be used 'at the end of a Boy Scout day' -- indicating the programme text was adapted directly from Boy Scout ceremonial material rather than composed originally for Kanawana.",
+      "sources": [
+        "src_mcmorris_thesis"
+      ],
+      "confidence": "stated",
+      "category": "programs",
+      "entities": [
+        "Fire of Friendship",
+        "Boy Scouts"
+      ],
+      "date_ref": "1939",
+      "conflicts_with": [],
+      "added_version": "v5.06",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1937",
+      "claim": "Concordia's finding aid for sub-series 12L (Camp Jubilee/Lac St-Joseph), Box HA2312, lists a 'Director's report (1908)' -- a single, specific dated record from the middle of the undocumented 1901-1923 gap between directors John Roy and Philip Paterson. This item is not currently digitized and would very likely name whoever was director in 1908 if physically consulted.",
+      "sources": [
+        "src_concordia_12L"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "Camp Jubilee",
+        "John Roy",
+        "Philip Paterson"
+      ],
+      "date_ref": "1908",
+      "conflicts_with": [],
+      "added_version": "v5.06",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1938",
+      "claim": "QAHN's article on the camp's founding treats Lemuel Cushing's 1892 Lake St-Joseph trip and the YMCA's 1893-94 opening of Camp Jubilee as two separate, non-linked mentions, with no stated causal or organizational relationship between them; the article does not mention Billy Ball at all. This confirms the relationship between the two events is genuinely undocumented in this source, not merely under-researched.",
+      "sources": [
+        "src_qahn_howard"
+      ],
+      "confidence": "stated",
+      "category": "chronology",
+      "entities": [
+        "Lemuel Cushing",
+        "Camp Jubilee",
+        "Billy Ball"
+      ],
+      "date_ref": "1892-1894",
+      "conflicts_with": [],
+      "added_version": "v5.06",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1939",
+      "claim": "Concordia's finding aid references a 'Permanent Camp Committee' with minute and correspondence files spanning 1895-96, 1899-1901, 1908, 1911-1926, and 1921 -- a previously unexplored archival lead covering most of the period Ralph Dawson may have been active, and a plausible venue for his role at the camp to be documented.",
+      "sources": [
+        "src_concordia_atom_12A"
+      ],
+      "confidence": "stated",
+      "category": "sources",
+      "entities": [
+        "Ralph Dawson",
+        "Permanent Camp Committee"
+      ],
+      "date_ref": "1895-1926",
+      "conflicts_with": [],
+      "added_version": "v5.06",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1940",
+      "claim": "Télesphore Pagé (the family member who married Clarilda/Claire-Ida Dagenais in 1925) lived 1895-1961, per 'Hommage à Télesphore Pagé,' La Mémoire de la Vallée de Saint-Sauveur, bulletin de la SHGPH, no. 81, hiver 1999 -- confirming he was alive through the 1960 'Pagé farm' purchase and died the following year, consistent with (but not proof of) his being the seller.",
+      "sources": [
+        "src_vss_familles_pionnieres"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "Télesphore Pagé",
+        "Pagé family"
+      ],
+      "date_ref": "1895-1961",
+      "conflicts_with": [],
+      "added_version": "v5.06",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1941",
+      "claim": "CORRECTION 2026-07-09 (supersedes f_1518): the person born April 1908 who attended école du Grand-Ruisseau, worked in logging camps, was hired by Auguste Dionne, married Marguerite Amyot in 1935, and opened a grocery store on rue de la Gare in Saint-Sauveur is not a second 'Télesphore Pagé' -- a direct re-read of the full raw vss.ca pioneer-families page text identifies this person as Télesphore Léonard (1908-1997), son of Joseph-Vital Léonard and Léonie Pagé (1882-1941, daughter of Magloire Pagé père). He is a Pagé descendant through the female line, surnamed Léonard, not a Pagé. Every biographical detail (birth month/year, the grocery, rue de la Gare) matches exactly between the two article sections, indicating f_1518 conflated adjacent entries on the source page during an earlier extraction pass.",
+      "sources": [
+        "src_vss_familles_pionnieres"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "Télesphore Léonard",
+        "Léonie Pagé",
+        "Pagé family"
+      ],
+      "date_ref": "1908-1997",
+      "conflicts_with": [
+        "f_1518"
+      ],
+      "added_version": "v5.06",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1942",
+      "claim": "A direct full-text read of the McMorris 2023 thesis found exactly two acreage figures, neither for the Saint-Sauveur Kanawana site: the original Camp Jubilee/Lake St-Joseph island property was 33 acres, bought from the government in 1898 for $1/acre (citing Cross, One Hundred Years, p.189); and the 1950s Voyageurs de la Vérendrye program used a 25-acre lease on Lac Landron in La Vérendrye Park. The thesis's own passages on 1928-1962 property growth (Lake Becsies, the Pagé farm) give no acreage figure for either transaction -- confirming this is a genuine absence in the primary academic source, not an extraction gap.",
+      "sources": [
+        "src_mcmorris_thesis"
+      ],
+      "confidence": "stated",
+      "category": "places",
+      "entities": [
+        "Camp Kanawana",
+        "Camp Jubilee",
+        "the Kanawana site"
+      ],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "v5.06",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1943",
+      "claim": "Wikimapia's entry for Kamp Kanawana independently states the camp is '455 acres' in phrasing near-identical to promotional language elsewhere ('pristine wilderness just outside St-Sauveur des Monts, one hour north of Montreal'), differing from the YMCA's own current claim of 550 acres. The page's content could not be directly fetched or dated to confirm whether this reflects an older survey, a scraping/copy error, or genuine change; the discrepancy remains unresolved.",
+      "sources": [
+        "src_wikimapia_kanawana"
+      ],
+      "confidence": "disputed",
+      "category": "places",
+      "entities": [
+        "Camp Kanawana",
+        "the Kanawana site"
+      ],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "v5.06",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1944",
+      "claim": "Batshaw Centres' institutional history pages for Camp Weredale and Youth Horizons make zero mention of the YMCA, Kanawana, or any two-site plan -- the Weredale institutional history is told entirely independent of any YMCA connection, ruling this source out as an explanation for why the Kanawana-Weredale two-site plan was abandoned.",
+      "sources": [
+        "src_batshaw_camp_weredale"
+      ],
+      "confidence": "stated",
+      "category": "context",
+      "entities": [
+        "Camp Weredale",
+        "Camp Kanawana"
+      ],
+      "date_ref": "1977-1980",
+      "conflicts_with": [],
+      "added_version": "v5.06",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1945",
+      "claim": "The City of Saint-Sauveur's draft Plan d'urbanisme (March 2024) states directly: 'Avec ses grands espaces naturels, le camp Kanawana présente également une valeur environnementale méritant d'être reconnue au sein de la présente planification' -- a dated (2024) municipal document explicitly naming Kanawana's environmental value, though it stops short of conferring any formal legal designation.",
+      "sources": [
+        "src_vss_plan_urbanisme_2024"
+      ],
+      "confidence": "stated",
+      "category": "places",
+      "entities": [
+        "Camp Kanawana",
+        "Ville de Saint-Sauveur"
+      ],
+      "date_ref": "2024",
+      "conflicts_with": [],
+      "added_version": "v5.06",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1946",
+      "claim": "Saint-Sauveur's zoning regulation (Règlement 222-2008, consolidated) defines an 'Affectation récréative et de conservation (RC)' land-use category whose stated purpose names a vacation camp ('camp de vacances') as an example qualifying use, alongside trails and outdoor recreation with minimal development. A zone code 'RC 123' appears near a reference to a road on côte Sainte-Elmire (the camp's address), but the camp parcel's actual zone designation could not be confirmed from the extracted text, since zone boundary maps are graphical, not text-searchable.",
+      "sources": [
+        "src_vss_reglement_zonage_222_2008"
+      ],
+      "confidence": "inferred",
+      "category": "places",
+      "entities": [
+        "Camp Kanawana",
+        "Ville de Saint-Sauveur"
+      ],
+      "date_ref": "2008",
+      "conflicts_with": [],
+      "added_version": "v5.06",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1947",
+      "claim": "Concordia's finding aid for sub-sub-series 12B01 (Kamp Kanawana General Administration) lists an item titled 'Proposed wildlife sanctuary, bird and game sanctuary — 1847, 1954-1960' -- a previously undocumented lead. Whether this proposal concerned the camp property itself, was ever enacted, or relates to a different YMCA holding is undetermined without physical examination of the folder.",
+      "sources": [
+        "src_concordia_atom_12B01"
+      ],
+      "confidence": "stated",
+      "category": "places",
+      "entities": [
+        "Camp Kanawana",
+        "wildlife sanctuary"
+      ],
+      "date_ref": "1954-1960",
+      "conflicts_with": [],
+      "added_version": "v5.06",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1948",
+      "claim": "A Montreal Gazette clipping titled 'Summer Camps – Kanawana,' dated April 18, 1974, exists on Newspapers.com -- a concrete, dated lead that could plausibly describe the camp's section structure mid-way through its 1968-early 1980s coeducational transition, potentially bearing on when section names were reassigned along gender lines. The clipping is paywalled (HTTP 403 to automated fetch) and requires the operator's own Newspapers.com public-access account to read.",
+      "sources": [
+        "src_gazette_1974_summer_camps_clipping"
+      ],
+      "confidence": "stated",
+      "category": "sources",
+      "entities": [
+        "Camp Kanawana",
+        "section names"
+      ],
+      "date_ref": "1974-04-18",
+      "conflicts_with": [],
+      "added_version": "v5.06",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1949",
+      "claim": "The 'Rangers' section name is entirely absent from the McMorris 2023 thesis, which exhaustively covers Kanawana's primary sources from 1894-1967 and documents the 1959 renaming's four core section names (Pioneers, Woodsmen, Coureurs de Bois, Pathfinders) in detail -- confirming Rangers was not one of the 1959-renaming names. Combined with the KB's existing 1955 'Rangers' plaque (the earliest dated Rangers artifact), this indicates Rangers already existed as an established, separately-named program by 1955, four years before the 1959 core-section renaming -- refining the article's prior framing of Rangers as introduced 'beyond' 1959 to instead predating it. Trailblazers and Foresters remain undated; neither appears in the McMorris thesis, any pre-1980s cached primary source checked, or anywhere beyond current (2026) YMCA program pages.",
+      "sources": [
+        "src_mcmorris_thesis"
+      ],
+      "confidence": "stated",
+      "category": "programs",
+      "entities": [
+        "Rangers",
+        "Trailblazers",
+        "Foresters",
+        "section names"
+      ],
+      "date_ref": "1955",
+      "conflicts_with": [],
+      "added_version": "v5.06",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1950",
+      "claim": "Robert 'Rob' Braide was born April 4, 1953, in Montreal, and grew up in Westmount, attending Westmount High and Dawson College before five years at Carleton University's Faculty of Music (electronic/computer composition), which he left to take CHOM's all-night show in September 1977. His career spanned CHOM (DJ, then Music Director, then Program Director, 1977-mid-1980s), CKGM programming (1981), General Manager of CJAD/FM96 (renamed Mix 96) under Standard Broadcasting from June 1987, Astral Media Group VP (branding/communications/industry relations, post-2008 Standard Radio acquisition, laid off January 2009 in a 23-position restructuring), and later VP of content/regulatory affairs at Stingray Digital, retiring around age 58. He now runs a consulting firm, Braide Media, and was inducted into the CAB Hall of Fame (November 2009) and the Canadian Music and Broadcasting Hall of Fame. He has served on numerous community boards (Montreal Board of Trade, Palais des Congrès, Saidye Bronfman Centre, St. Mary's Hospital, Montreal Children's Hospital, Les Amis de la Montagne, Montreal Jubilation Gospel Choir, Trevor Williams Kids Foundation, Quebec Community Groups Network) and chaired Calgary's Studio Bell/National Music Centre.",
+      "sources": [
+        "src_broadcasting_history_braide",
+        "src_billboard_ca_braide"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "Rob Braide"
+      ],
+      "date_ref": "1953-2020s",
+      "conflicts_with": [],
+      "added_version": "v5.06",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1951",
+      "claim": "Rob Braide is stated to have chaired the YMCA's Kamp Kanawana Capital Campaign, per History of Canadian Broadcasting's biography page -- a direct institutional tie to Kanawana beyond being a camper alumnus. No specific year(s) are given for this chairmanship.",
+      "sources": [
+        "src_broadcasting_history_braide"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "Rob Braide",
+        "Camp Kanawana"
+      ],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "v5.06",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1952",
+      "claim": "Ian Braide and Vicki Braide (Kanawana campers/CITs, 2000-2007 and 2000 respectively) are grandchildren of David Ian William Braide (1928-2018), a Montreal businessman with a 36-year career at Canadian Industries Limited, via his son Robbie David Braide. David Ian William Braide's obituary states he held YMCA board roles including 'the Montreal and Westmount YMCAs' -- a separate, real YMCA connection in this Braide lineage. No source found directly links this family to Robert 'Rob' Braide the broadcaster (b. 1953); despite the rare surname and shared Westmount/YMCA milieu, a family relationship between the two Braide lines remains unconfirmed by any source found.",
+      "sources": [
+        "src_gulf_islands_driftwood_braide_obit"
+      ],
+      "confidence": "disputed",
+      "category": "people",
+      "entities": [
+        "Rob Braide",
+        "Ian Braide",
+        "Vicki Braide",
+        "David Ian William Braide"
+      ],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "v5.06",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1953",
+      "claim": "At YMCA Camp Manitou-Lin (Grand Rapids, Michigan area, an unrelated YMCA camp), 'Uncle Bob' Augustine held the title Resident Director in 1931, then was promoted to Camp Director from 1932-1948 -- suggesting that in at least one other YMCA camping context, 'Resident Director' functioned as a subordinate/on-site precursor rank to 'Camp Director,' not a co-equal or administratively separate role. This is offered as a circumstantial cross-camp comparison for Kanawana's 1942 two-tier Resident Director/Camp Director structure (Edgar Smee/R.H. Hanagan), not a confirmed answer -- no YMCA of Montreal-specific policy document defining the two titles was found.",
+      "sources": [
+        "src_grymca_manitoulin_history"
+      ],
+      "confidence": "inferred",
+      "category": "people",
+      "entities": [
+        "Edgar Smee",
+        "R.H. Hanagan",
+        "Resident Director"
+      ],
+      "date_ref": "1931-1948",
+      "conflicts_with": [],
+      "added_version": "v5.06",
       "added_by": "ralph_loop"
     }
   ]
