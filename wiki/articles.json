@@ -3985,6 +3985,12 @@
           "at": "2026-07-10T09:00:00Z",
           "by": "auto",
           "task": "REVIEW"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-07-11T00:00:00Z",
+          "by": "auto",
+          "task": "REVIEW"
         }
       ],
       "ralph_loops_completed": 2,
@@ -4065,7 +4071,8 @@
         "coeducation-gender"
       ],
       "file_id": null,
-      "word_count": 2061
+      "word_count": 2085,
+      "notes": "2026-07-11: Workstream A Wave 1 prose-sediment REVIEW pass -- removed duplicate old-style HTML-comment header, moved the c_018 and c_002 editorial-resolution narratives out of prose into a new visible Revision History section, trimmed the header's dated parenthetical. No facts, citations, or open questions dropped; status unchanged."
     },
     {
       "article_id": "dave-twynam",
@@ -4883,6 +4890,12 @@
           "at": "2026-07-09T22:00:00Z",
           "by": "auto",
           "task": "RESEARCH"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-07-11T00:00:00Z",
+          "by": "auto",
+          "task": "REVIEW"
         }
       ],
       "ralph_loops_completed": 2,
@@ -4934,7 +4947,8 @@
         "founding-1894"
       ],
       "file_id": null,
-      "word_count": 1831
+      "word_count": 1915,
+      "notes": "2026-07-11: Workstream A Wave 1 prose-sediment REVIEW pass -- removed duplicate old-style HTML-comment header (already had the new standardized header alongside it), moved the embedded 'Correction (2026-07-09)' paragraph into a new visible Revision History section, rewrote surrounding prose to state current understanding only. No facts, citations, or open questions dropped; status unchanged."
     },
     {
       "article_id": "centennial-1994",

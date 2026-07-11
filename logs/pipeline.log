@@ -2247,3 +2247,8 @@ HYPOTHESIZE — Remaining productive research requires:
   - Fixed a citation-marker break introduced mid-pass: renumbered the "HOF" lettered Sources entry to "22." and updated the one inline marker that pointed to it.
   - No facts, sources, or citations dropped or altered. Status unchanged (E1-reviewed). word_count 13198 -> 12031 (net reduction from moving process narrative out of prose, not content loss).
   - wiki/articles.json updated: new status_history entry (task: REVIEW, 2026-07-11), open_questions corrected 7->14, word_count updated, notes appended.
+
+[2026-07-11] Campaign 41 (Workstream A, Wave 1, articles 2-3 of 8): prose-sediment REVIEW pass on page-family.md and camp-oolahwan.md
+  - page-family.md: removed a duplicate old-style HTML-comment header (the new standardized header already existed alongside it); moved the embedded "Correction (2026-07-09)" paragraph about the Télesphore Pagé/Télesphore Léonard conflation into a new visible Revision History section; rewrote surrounding prose to state current understanding only.
+  - camp-oolahwan.md: same duplicate-header cleanup; moved the c_018 (Camp Amy Molson/Junior League succession) and c_002 (centennial reunion date) editorial-resolution narratives out of prose into Revision History; trimmed the header's dated parenthetical.
+  - No facts, sources, citations, or open questions dropped on either article. Status unchanged (E1-reviewed) on both. wiki/articles.json updated (status_history REVIEW entries, word_count, notes).

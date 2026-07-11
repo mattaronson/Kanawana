@@ -1,13 +1,7 @@
 # Camp Oolahwan
 
-<!-- status: E1-reviewed -->
-<!-- confidence: high -->
-<!-- last_updated: 2026-06-20 -->
-<!-- last_editor: v53 -->
-<!-- ralph_loops: oolahwan-R1, oolahwan-R2 -->
-
 *Status: E1-reviewed | Sources: 19*
-*Last Updated: 2026-07-10 (conflict c_018 resolved editorially: Camp Amy Molson and the Junior League Camp treated as distinct organizations, not a case of institutional succession -- flagged explicitly as editorial judgment)*
+*Last Updated: 2026-07-10*
 
 ## Overview
 
@@ -33,7 +27,7 @@ Camp Oolahwan's connection to Camp Kanawana runs through the YMCA/YWCA Montreal 
 
 A previously undocumented second girls' camp also had contact with Kanawana: the **Junior League (of Montreal) Camp**, serving the Griffintown Girls Club, founded 1921 -- a "fresh-air" camp for underprivileged children financed partly via a 1930-31 campaign that also funded a Griffintown dental clinic and hospital canteens.^18 McMorris's thesis separately cites an "Intermediate Section Report, 5 July 1943" recording that some Kanawana counsellors snuck off to the Junior League camp to meet women counsellors there.^6 By the early 1960s the Junior League camp welcomed 300+ girls per year (roughly 12,000 total), per the McCord Stewart Museum's own fonds description, which also states "today, Camp Amy Molson carries on its mission" -- a continuity claim in tension with Camp Amy Molson's own official founding history (1944, by a different organization). See [[places/camp-becsies|Camp Becsies]].^18 ^19
 
-**Editorial resolution (2026-07-10, conflict c_018):** these are treated as two distinct organizations, not a case of organizational succession. Camp Amy Molson's own official history is weighted as the more authoritative source for its own origin (founded independently in 1944 by the Montreal Ladies' Benevolent and Protestant Orphans' Society, a different body from the Junior League). The McCord Museum's "carries on its mission" phrasing, describing a *different* organization's own fonds, is read as a loose, thematic mission-continuity claim (both served underprivileged Montreal children in the same general era) rather than a literal successor-organization claim. This is an editorial judgment, not new evidence, and remains open to revision.
+Camp Amy Molson and the Junior League Camp are treated in this KB as two distinct organizations rather than a case of institutional succession: Camp Amy Molson's own official history is weighted as the more authoritative source for its own origin (founded independently in 1944 by the Montreal Ladies' Benevolent and Protestant Orphans' Society, a different body from the Junior League), and the McCord Museum's "carries on its mission" phrasing is read as a loose, thematic mission-continuity claim rather than a literal successor-organization claim. This is an editorial reading, not new evidence, and remains open to revision (see Revision History).
 
 Programming overlap is also now documented: a 1970s photograph from Camp Oolahwan itself (reproduced in McMorris's thesis) shows girls in "Indian" costumes -- direct evidence Oolahwan practiced its own "playing Indian" tradition, paralleling Kanawana's, answering Open Question #7 below.^6
 
@@ -47,7 +41,7 @@ Upon closure, the YWCA launched "Summer Space Day Camp," an urban day camp for g
 
 ## Centennial Reunion
 
-In 2017, a centennial reunion was held at Camp Ouareau in Notre-Dame-de-la-Merci, organized by a committee of former campers and counselors, held **September 8–10** per editorial resolution of conflict c_002 (2026-07-10): the YWCA's own announcement, as the organizing institution's own primary-source statement of its own event's dates, is weighted over a local blog's date (August 25–27), which may reflect an earlier save-the-date announcement, a transcription error, or a related but distinct local event — an editorial call, not new evidence.^7 ^8 CBC Radio's "All in a Weekend" aired an 11-minute segment about the anniversary.^16 A Twitter/X account (@campoolahwan, "Camp Oolahwan 100") was created for the occasion.^7
+In 2017, a centennial reunion was held at Camp Ouareau in Notre-Dame-de-la-Merci, organized by a committee of former campers and counselors, held **September 8–10** per the YWCA's own announcement — weighted, as the organizing institution's primary-source statement of its own event's dates, over a local blog's conflicting August 25–27 date (see Revision History).^7 ^8 CBC Radio's "All in a Weekend" aired an 11-minute segment about the anniversary.^16 A Twitter/X account (@campoolahwan, "Camp Oolahwan 100") was created for the occasion.^7
 
 ## Name Etymology
 
@@ -96,4 +90,10 @@ The name "Oolahwan" may derive from the Lakota word *olówaŋ* meaning "song" or
 
 ## Research Notes
 
+### Revision History
+
+- **2026-07-10** — Conflict c_018 (whether Camp Amy Molson is the Junior League Camp's institutional successor) resolved editorially: the two are treated as distinct organizations, weighting Camp Amy Molson's own official founding history (1944, a different sponsoring body) over the McCord Museum's looser "carries on its mission" phrasing. An editorial reading, not new evidence; open to revision.
+- **2026-07-10** — Conflict c_002 (centennial reunion date) resolved in favour of September 8–10, 2017, per the YWCA's own announcement — weighted as the organizing institution's primary-source statement of its own event's dates over a local blog's conflicting August 25–27 date.
+
+<!-- RALPH process log (informal, not reader-facing). -->
 <!-- R2 RALPH loop completed 2026-06-13. 33 queries across web search, geographic databases, blog posts, social media. Key discoveries: (1) Closure attributed to "rising costs and changing times" per alumna blog; (2) property 345 acres sold for $1.47M; (3) 1915 vs 1917 founding date discrepancy; (4) Summer Space successor ages 10-13, discontinued 2020; (5) CBC radio segment; (6) original 1917 building still standing as sugar shack; (7) geographic coordinates confirmed; (8) possible Lakota "olowan" (song) etymology. Online sources near exhaustion; Mary Edgar 109-page paper and CBC audio segment are remaining extraction targets. -->

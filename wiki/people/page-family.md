@@ -1,13 +1,7 @@
 # The Pagé Family of Saint-Sauveur
 
-<!-- status: E1-reviewed -->
-<!-- confidence: medium -->
-<!-- last_updated: 2026-06-13 -->
-<!-- last_editor: v52 -->
-<!-- ralph_loops: page-family-R1 -->
-
 *Status: E1-reviewed | Sources: 13*
-*Last Updated: 2026-07-09 (Batch 6 research pass: Télesphore Pagé's own dates found (1895-1961); corrected a likely conflation -- the "second Télesphore Pagé" grocer is in fact Télesphore Léonard, a Pagé descendant through the female line, not a second Pagé)*
+*Last Updated: 2026-07-09*
 
 ## Overview
 
@@ -41,7 +35,7 @@ The original bakery building was established in 1897 by Camille Gauvreau (not 19
 
 Télesphore, the youngest son of Magloire fils, inherited the family land and settled there with his wife Clarilda Dagenais (1901–1995; her name also appears as "Claire-Ida Dagenais" in one heading on the same source, evidently an alternate spelling of the same person — the dates match). The old Pagé farmhouse "faced the mountains" near Saint-Sauveur.^4 Télesphore's own dates are now documented: 1895–1961, per "Hommage à Télesphore Pagé," *La Mémoire de la Vallée de Saint-Sauveur*, bulletin de la SHGPH, no. 81, hiver 1999.^4 This confirms he was alive through the 1960 "Pagé farm" purchase and died the following year — consistent with, though not direct proof of, his being the seller (see Open Questions).
 
-**Correction (2026-07-09):** this article previously stated that "a second Télesphore Pagé (b. April 1908), likely a nephew or cousin, operated a grocery store on rue de la Gare in Saint-Sauveur." A direct re-read of the full raw vss.ca pioneer-families page text shows this was a misattribution: the person born in April 1908 who attended école du Grand-Ruisseau, worked in logging camps, was hired by Auguste Dionne, married Marguerite Amyot in 1935, and opened the grocery on rue de la Gare is explicitly named **Télesphore Léonard (1908–1997)** — son of Joseph-Vital Léonard and **Léonie Pagé** (1882–1941, Magloire Pagé fils's daughter, see below). He is a Pagé descendant through the female line, surnamed Léonard, not a second Télesphore Pagé. Every biographical detail matches exactly between the two adjacent sections of the source page, indicating the earlier extraction conflated them. The original (now-superseded) claim is preserved in the KB per the project's no-silent-overwrite rule (see f_1518, superseded by f_1942).^10
+A grocery store on rue de la Gare in Saint-Sauveur was operated by **Télesphore Léonard** (1908–1997) — son of Joseph-Vital Léonard and **Léonie Pagé** (1882–1941, Magloire Pagé fils's daughter, see above), a Pagé descendant through the female line, not a second, directly-surnamed Télesphore Pagé (see Revision History). Léonard attended école du Grand-Ruisseau, worked in logging camps, was hired by Auguste Dionne, and married Marguerite Amyot in 1935 before opening the grocery.^10
 
 ## Connection to Camp Kanawana
 
@@ -94,4 +88,10 @@ In 1957, Mickey Stein was staying in the old Pagé family farmhouse when he obse
 
 ## Research Notes
 
+### Revision History
+
+- **2026-07-09** — Corrected a likely conflation: this article previously stated that "a second Télesphore Pagé (b. April 1908), likely a nephew or cousin, operated a grocery store on rue de la Gare in Saint-Sauveur." A direct re-read of the full raw vss.ca pioneer-families page text (bypassing an earlier AI-summarization layer that had garbled the distinction) showed this was a misattribution: the grocer is **Télesphore Léonard**, a Pagé descendant through the female line (Léonie Pagé's son), not a second Télesphore Pagé. Every biographical detail matched exactly between the two adjacent sections of the source page, indicating the earlier extraction had conflated two distinct people. The original, now-superseded claim is preserved in the KB per the no-silent-overwrite rule (f_1518, superseded by f_1942). Télesphore Pagé's own dates were also confirmed this same pass (1895-1961, per "Hommage à Télesphore Pagé," *La Mémoire de la Vallée de Saint-Sauveur*, SHGPH bulletin no. 81, hiver 1999).
+
+<!-- RALPH process log (informal, not reader-facing). -->
 <!-- RALPH R1 (p_136) completed 2026-06-13. Agent-based research: 10 queries across web search, genealogy databases, local history societies. Key findings: four-generation Pagé genealogy confirmed from municipal and SHGPH sources. Critical discovery: Magloire Pagé fils married Olivine Desjardins (1875) — potential origin of "Lac Desjardins" name. Bakery founding date corrected (1897 Gauvreau, not 1903). Mont Habitant connection documented. Gap: no documentation of the specific YMCA land transactions (1910, 1960). Land registry requires paid access. -->
+<!-- R2 (Batch 6, 2026-07-09): direct raw-HTML re-fetch of the vss.ca pioneer-families page corrected the Télesphore Pagé/Télesphore Léonard conflation (see Revision History above) and located Télesphore Pagé's own dates via the SHGPH bulletin citation. McMorris's full thesis PDF (read for the first time this pass) added detail on the 1960 Pagé farm purchase's purpose and narrowed its date to 1960-1961 via a Concordia finding-aid cross-check. -->
