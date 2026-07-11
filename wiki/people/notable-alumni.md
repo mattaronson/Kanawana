@@ -1,13 +1,13 @@
 # Notable Alumni of Camp Kanawana
 
 *Status: E1-reviewed | Sources: 40*
-*Last Updated: 2026-07-09 (open-questions research pass: an 18-query, 7-surface sweep for additional notable alumni reconfirmed the existing list as genuinely saturated for the public web; the Pip Award 2019 recipient gap's two candidate names were explicitly debunked)*
+*Last Updated: 2026-07-11*
 
 ## Overview
 
 Camp Kanawana has produced a remarkable number of alumni who achieved distinction in public life. Since 2007, the Pip Alumni Award has formally recognized some of these individuals, but the camp's alumni network extends well beyond award recipients. This article collects biographical notes on notable alumni not covered by standalone articles elsewhere in the wiki.
 
-For alumni who have standalone articles, see: [[people/stuart-mclean|Stuart McLean]] (Pip Award 2009), [[people/terry-mosher|Terry Mosher / Aislin]] (Pip Award 2015), [[people/dave-twynam|G. David Twynam]], [[people/edgar-smee|Edgar E. Smee]], [[people/sean-day|Sean Day]]. For full details on the award itself and the Caddell family, see [[programs/pip-alumni-award|The Pip Alumni Award]].
+For alumni who have standalone articles, see: [[people/stuart-mclean|Stuart McLean]] (Pip Award 2009), [[people/terry-mosher|Terry Mosher / Aislin]] (Pip Award 2015), [[people/dave-twynam|G. David Twynam]], [[people/edgar-smee|Edgar E. Smee]], [[people/sean-day|Sean Day]], [[people/john-cleghorn|John Cleghorn]] (Pip Award 2012), [[people/chris-adam|Chris Adam]] (Pip Award 2017), [[people/james-orbinski|James Orbinski]] (Pip Award 2024). For full details on the award itself and the Caddell family, see [[programs/pip-alumni-award|The Pip Alumni Award]].
 
 ## Pip Award Recipients Without Standalone Articles
 
@@ -25,7 +25,7 @@ Bruce Netherwood has spent more than 30 years in YMCA camping. He currently serv
 
 ### John Cleghorn (Pip Award 2012)
 
-John Edward Cleghorn (born July 7, 1941, Montreal) served as Chairman and CEO of the Royal Bank of Canada (1994–2001) and subsequently as Chairman of Canadian Pacific Railway and SNC-Lavalin.^6 ^7 An Officer of the Order of Canada and Companion of the Canadian Business Hall of Fame. He attended Westmount High School and graduated from McGill University in 1962, where he played defensive lineman on the Redmen's national championship football team and was drafted by the Toronto Argonauts but declined.^18 He served as Chancellor of Wilfrid Laurier University (1996–2003).^18 Cleghorn chaired the Montreal YMCA and was named Officer of YMCA Canada's Fellowship of Honour, confirming deep institutional ties to the organization.^18 His period as a camper likely dates to the 1950s.
+Former Chairman and CEO of the Royal Bank of Canada (1994–2001), Kanawana camper, and lifelong canoe-tripper there with his own children. See [[people/john-cleghorn|John Cleghorn]] for full biography.
 
 ### Sam Lazarus (1978–2004) (Pip Award 2013, posthumous)
 
@@ -45,7 +45,7 @@ Carol Sharman Skinner served as a counsellor and section director at Kanawana fr
 
 ### Chris Adam (Pip Award 2017)
 
-Coordinator of the Sustainability Office at Dawson College with a 35-year career, 25 years at Dawson in the Community Recreation and Leadership Training (CRLT) department.^12 ^21 Executive Director of the Earthvalues Institute, a non-profit using a "Nature as Mentor" philosophy.^21 He founded the Sustainable Happiness Certificate at Dawson and led the college to carbon neutrality, winning the International Green Gown Awards Sustainability Institution of the Year.^21 ^22 Adam holds an M.Ed. and three years of wildlife and fish management experience; he received the Governor General's Meritorious Service Medal for creating Dawson's "Living Campus" sustainability model.^31 ^32 A "Chris Adams" (from Vanier) is documented as running the Nature Awareness program at Kanawana in 1980;^14 this is very likely the same individual, given the shared Vanier/Dawson connection and wildlife/nature expertise — the surname difference is a transcription variant in the 1980 *Ka-News*.
+Coordinator of the Sustainability Office at Dawson College; ran Kanawana's Nature Awareness program in 1980. See [[people/chris-adam|Chris Adam]] for full biography.
 
 ### Dr. Marina Sharpe (Pip Award 2018)
 
@@ -168,3 +168,11 @@ Attended Camp Kanawana for six summers before becoming a camp counsellor and can
 38. Cohen, Mike. "Cohen Chatter." *The Suburban* (Montreal), July 26–August 2, 2015. Column covering Terry Mosher Pip Award ceremony and personal camp memories. URL: http://blog.thesuburban.com/2015_07_26_archive.html
 39. Buckland, Smillie. "How Summer Camp Shapes Lives." *Reader's Digest Canada*. URL: https://www.readersdigest.ca/culture/how-summer-camp-shapes-lives/
 40. Prabook, "Charles Smillie Buckland." URL: https://prabook.com/web/charles_smillie.buckland/3371993
+
+## Research Notes
+
+### Revision History
+
+- **2026-07-11**: John Cleghorn, Chris Adam, and James Orbinski were split out into standalone articles ([[people/john-cleghorn|John Cleghorn]], [[people/chris-adam|Chris Adam]], [[people/james-orbinski|James Orbinski]]) as part of Workstream C (new-article spawning); their entries here were trimmed to short pointers. No facts were dropped — all three articles were written from the same KB facts already cited here. Sources 7, 12, 14, 18, 21, 22, 31, and 32 remain in this article's Sources list even though no longer directly cited in-text, since they retain provenance value for the article's overall subject; they are now also cited directly in the three new standalone articles.
+
+<!-- RALPH process log (informal, not reader-facing). 2026-07-09 open-questions research pass: an 18-query, 7-surface sweep for additional notable alumni reconfirmed the existing list as genuinely saturated for the public web; the Pip Award 2019 recipient gap's two candidate names were explicitly debunked. -->

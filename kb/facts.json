@@ -13087,7 +13087,7 @@
       "fact_id": "f_0752",
       "claim": "Dave Twynam served as camp director of Kamp Kanawana. Correspondence from 'Camp director Dave Twynam' is dated 1979 in the Concordia YMCA archives (sub-sub-series P0145/12B01).",
       "sources": [
-        "src_concordia_12B01"
+        "src_concordia_atom_12B01"
       ],
       "confidence": "stated",
       "category": "people",
@@ -13106,7 +13106,7 @@
       "fact_id": "f_0753",
       "claim": "Ross Bannerman authored a 'Report on Kamp Kanawana' in 1969, listed in Concordia YMCA archives (sub-sub-series P0145/12B01). Role at camp not confirmed but authoring a camp report suggests administrative authority.",
       "sources": [
-        "src_concordia_12B01"
+        "src_concordia_atom_12B01"
       ],
       "confidence": "inferred",
       "category": "people",
@@ -13174,7 +13174,7 @@
       "fact_id": "f_0757",
       "claim": "Concordia archives P0145/12B01 contains 'YMCA Kamp Kanawana Facts-timeline 1894-1998' and 'Kanawana Reminiscence (of 1948), by Ben T. Hannah (1989)'. These documents likely contain comprehensive director lists.",
       "sources": [
-        "src_concordia_12B01"
+        "src_concordia_atom_12B01"
       ],
       "confidence": "stated",
       "category": "sources",
@@ -13191,7 +13191,7 @@
       "fact_id": "f_0758",
       "claim": "'Kanawana, a Place to Grow: A Proposal for the Future of Kanawana, by Kanawana Camping Task Force' report from 1988 is held in Concordia archives P0145/12B01.",
       "sources": [
-        "src_concordia_12B01"
+        "src_concordia_atom_12B01"
       ],
       "confidence": "stated",
       "category": "sources",
@@ -13698,7 +13698,7 @@
       "fact_id": "f_0847",
       "claim": "Dave Twynam (G. David Twynam) was camp director of Kamp Kanawana circa 1979. He later became an academic specializing in outdoor recreation, tourism, and event management — Dean of Faculty of Management at Vancouver Island University and previously at Thompson Rivers University.",
       "sources": [
-        "src_concordia_12B01"
+        "src_concordia_atom_12B01"
       ],
       "confidence": "inferred",
       "category": "staff",
@@ -13778,7 +13778,7 @@
       "fact_id": "f_0852",
       "claim": "Ross Bannerman authored a 'Report on Kamp Kanawana' in 1969 (Concordia Archives), suggesting a senior role at the camp — possibly director — during that period.",
       "sources": [
-        "src_concordia_12B01"
+        "src_concordia_atom_12B01"
       ],
       "confidence": "inferred",
       "category": "staff",
@@ -16210,7 +16210,7 @@
       "fact_id": "f_0988",
       "claim": "G. David Twynam's career trajectory: YMCA Camp Kanawana director (~1979) → Lakehead University faculty, School of Outdoor Recreation, Parks & Tourism (by late 1990s) → Dean, School of Tourism, University College of the Cariboo / Thompson Rivers University (~1999-2009) → Dean, Faculty of Management, Vancouver Island University (post-2009) → Retired. He developed a research partnership with Sun Peaks Resort at TRU and received the BCCAT Community Leadership Award on November 14, 2014.",
       "sources": [
-        "src_concordia_12B01",
+        "src_concordia_atom_12B01",
         "src_viu_news_twynam_award",
         "src_tru_newsroom_2009_dean",
         "src_bccat_awards_2014"
@@ -17672,7 +17672,7 @@
       "fact_id": "f_1073",
       "claim": "Chris Adam, environmentalist and teacher, received the Pip Award in 2017. Former Kanawana staff member.",
       "sources": [
-        "src_ymca_quebec_pip_adam_2017"
+        "src_ymca_pip_adam_2017"
       ],
       "confidence": "stated",
       "category": "people",
@@ -18021,7 +18021,7 @@
       "claim": "John Cleghorn (b. July 7, 1941), former Chairman and CEO of Royal Bank of Canada (1994-2001) and Chancellor of Wilfrid Laurier University (1996-2003), is a Camp Kanawana alumnus. He received the Pip Award in 2012. Born in Montreal, attended Westmount High School and earned B.Com from McGill (1962).",
       "sources": [
         "src_ymca_quebec_pip_skinner",
-        "src_cleghorn_wikipedia"
+        "src_wikipedia_john_cleghorn"
       ],
       "confidence": "stated",
       "category": "people",
@@ -18592,7 +18592,7 @@
       "fact_id": "f_1126",
       "claim": "John Cleghorn chaired the Montreal YMCA and was named Officer of YMCA Canada's Fellowship of Honour. He was drafted by the Toronto Argonauts but declined, having played defensive lineman on McGill Redmen's national championship football team. He served as Chancellor of Wilfrid Laurier University (1996-2003) and is a Companion of the Canadian Business Hall of Fame.",
       "sources": [
-        "src_cleghorn_wikipedia",
+        "src_wikipedia_john_cleghorn",
         "src_canadian_encyclopedia_cleghorn"
       ],
       "confidence": "stated",
@@ -19357,7 +19357,7 @@
       "fact_id": "f_1169",
       "claim": "Search-engine snippets of the Concordia 12B01 finding aid (retrieved 2026-06-11, two independent queries) describe correspondence from 'Camp director Dave Twynam' dated 1976, which if accurate would extend his directorship back to 1976. An earlier extraction of the same finding aid (f_0752) dated such correspondence to 1979. Whether the finding aid lists two separate correspondence files (1976 and 1979) or one of the datings is an error is unresolved.",
       "sources": [
-        "src_concordia_12B01"
+        "src_concordia_atom_12B01"
       ],
       "confidence": "disputed",
       "category": "directors",
@@ -22356,7 +22356,7 @@
       "fact_id": "f_1336",
       "claim": "Ross Bannerman directed Camp Pascobac (1951, recruited by Nelson McEwen) and Camp Stephens in Winnipeg (1956). He authored 'Report on Kamp Kanawana' (1969) held at Concordia Archives 12B01. He had a YMCA International Branch file (c.1968-1970) at Concordia and later became CEO of the Montreal YMCA in the late 1970s.",
       "sources": [
-        "src_concordia_ymca_fonds_12B01"
+        "src_concordia_atom_12B01"
       ],
       "confidence": "inferred",
       "category": "people",
@@ -22375,7 +22375,7 @@
       "fact_id": "f_1337",
       "claim": "Concordia Archives sub-series 12B01 holds Kamp Kanawana general administration records including: season reports, committee minutes, camp director correspondence, Dave Twynam correspondence. Sub-series 12B04 holds brochures from 1950, 1959, 1960s, 1964, 1965. Sub-series 14D03 contains the YMCA Montreal annual reports. Sub-series 14D10 contains Nelson McEwen correspondence (1941-1945).",
       "sources": [
-        "src_concordia_ymca_fonds_12B01"
+        "src_concordia_atom_12B01"
       ],
       "confidence": "stated",
       "category": "sources",
@@ -22393,7 +22393,7 @@
       "fact_id": "f_1338",
       "claim": "A 'Kanawana Reminiscence (of 1948)' by Ben T. Hannah (written 1989) is held at Concordia Archives, sub-series 12B01. Hannah was a camper or staff member in 1948.",
       "sources": [
-        "src_concordia_ymca_fonds_12B01"
+        "src_concordia_atom_12B01"
       ],
       "confidence": "stated",
       "category": "people",

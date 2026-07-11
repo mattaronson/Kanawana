@@ -52,7 +52,7 @@ Doug McEwen served as director of Camp Stephens from 1966 to 1970 and as Preside
 6. Camp Stephens Alumni Blog, 2013 (CCA co-founding claim) [src_camp_stephens_alumni_blog].
 7. Canadian Camps Association, "Our History" (ccamping.org/history) [src_cca_history].
 8. Camp Stephens Alumni Blog, 2013 (Saint John recruitment) [src_camp_stephens_alumni_blog].
-9. Concordia University Archives, YMCA of Montreal fonds P0145/12B01 (Ross Bannerman's 1969 report and YMCA International Branch file) [src_concordia_ymca_fonds_12B01].
+9. Concordia University Archives, YMCA of Montreal fonds P0145/12B01 (Ross Bannerman's 1969 report and YMCA International Branch file) [src_concordia_atom_12B01].
 10. Canadian Camps Association, "Our History"; Trent University Archives CCA fonds (Doug McEwen / Camp Wa-Sa-Ah-Dun) [src_cca_history].
 
 ## Research Notes

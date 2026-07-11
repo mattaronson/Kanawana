@@ -1550,25 +1550,27 @@
       ],
       "open_questions": 14,
       "cross_links": [
+        "a-ross-seaman",
         "billy-ball",
         "cushing-family",
         "da-budge",
         "founding-1894",
         "harold-cross",
+        "hedley-dimock",
+        "howie-langille",
+        "nelson-mcewen",
         "pip-alumni-award",
         "ralph-dawson",
-        "stuart-mclean",
-        "traditions-and-culture",
-        "wartime-kanawana",
         "rh-hanagan",
-        "a-ross-seaman",
-        "hedley-dimock",
+        "ross-bannerman",
+        "stuart-mclean",
         "timeline-overview",
-        "nelson-mcewen"
+        "traditions-and-culture",
+        "wartime-kanawana"
       ],
       "file_id": null,
       "word_count": 12042,
-      "notes": "v4.75: Peter Goddard confirmed (Peter Gilling Goddard 1953-2016, obituary condolence). Nelson McEwen tenure extended c.1927-1947. Derek Walsh exhausted. Gap periods updated. | 2026-07-07: applied operator's standing conflict-resolution policy (documented sources take precedence over oral history) to resolve c_004, c_015, c_016, c_017 -- Gary White's Kanawana tenure narrowed to FY2001-2002, Sean Day's start corrected to 2008, Nicolas Garcia's spelling/end-date corrected to March 2014, Rossy Foundation corrected to Tyndale St-Georges. | 2026-07-11: Workstream A Wave 1 prose-sediment REVIEW pass -- standardized header, moved dated correction narrative from table cells into a new visible Revision History section, corrected open_questions count (was stale at 7, actual count is and remains 14). No facts, citations, or open questions dropped; status unchanged.",
+      "notes": "v4.75: Peter Goddard confirmed (Peter Gilling Goddard 1953-2016, obituary condolence). Nelson McEwen tenure extended c.1927-1947. Derek Walsh exhausted. Gap periods updated. | 2026-07-07: applied operator's standing conflict-resolution policy (documented sources take precedence over oral history) to resolve c_004, c_015, c_016, c_017 -- Gary White's Kanawana tenure narrowed to FY2001-2002, Sean Day's start corrected to 2008, Nicolas Garcia's spelling/end-date corrected to March 2014, Rossy Foundation corrected to Tyndale St-Georges. | 2026-07-11: Workstream A Wave 1 prose-sediment REVIEW pass -- standardized header, moved dated correction narrative from table cells into a new visible Revision History section, corrected open_questions count (was stale at 7, actual count is and remains 14). No facts, citations, or open questions dropped; status unchanged. | 2026-07-11: Added wiki-links to Howie Langille and Ross Bannerman table rows and Related Articles, pointing to their new standalone Workstream C1 articles.",
       "tags": {
         "era": [
           "1880s",
@@ -5772,6 +5774,12 @@
           "at": "2026-07-09T11:00:00Z",
           "by": "auto",
           "task": "RESEARCH"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-07-11T00:00:00Z",
+          "by": "auto",
+          "task": "REVIEW"
         }
       ],
       "ralph_loops_completed": 3,
@@ -5848,17 +5856,20 @@
       ],
       "open_questions": 6,
       "cross_links": [
+        "chris-adam",
+        "dave-twynam",
+        "directors-index",
+        "edgar-smee",
+        "james-orbinski",
+        "john-cleghorn",
         "pip-alumni-award",
+        "sean-day",
         "stuart-mclean",
         "terry-mosher",
-        "dave-twynam",
-        "edgar-smee",
-        "sean-day",
-        "directors-index",
         "traditions-and-culture"
       ],
       "file_id": null,
-      "word_count": 2990,
+      "word_count": 2449,
       "tags": {
         "era": [
           "1910s",
@@ -5885,7 +5896,8 @@
           "meta"
         ],
         "is_hub": true
-      }
+      },
+      "notes": "2026-07-11: Split John Cleghorn, Chris Adam, James Orbinski out to standalone articles (Workstream C1); trimmed their entries to pointers, fixed header sediment, added Research Notes/Revision History section. No facts dropped."
     },
     {
       "article_id": "environmental-history",
@@ -7172,7 +7184,7 @@
         "src_mcmorris_thesis",
         "src_concordia_14D10",
         "src_cca_history",
-        "src_concordia_ymca_fonds_12B01"
+        "src_concordia_atom_12B01"
       ],
       "open_questions": 5,
       "cross_links": [
@@ -7199,6 +7211,282 @@
           "directors",
           "people",
           "ymca_canada"
+        ],
+        "is_hub": false
+      }
+    },
+    {
+      "article_id": "howie-langille",
+      "title": "Howie Langille",
+      "wiki_folder": "people",
+      "status": "draft",
+      "status_history": [
+        {
+          "status": "draft",
+          "at": "2026-07-11T00:00:00Z",
+          "by": "auto",
+          "task": "WRITE"
+        }
+      ],
+      "ralph_loops_completed": 1,
+      "kb_facts_used": [
+        "f_0047",
+        "f_0048",
+        "f_0078",
+        "f_0092",
+        "f_0941"
+      ],
+      "sources_cited": [
+        "src_cfcf_1941",
+        "src_history_1935",
+        "src_mcmorris_thesis"
+      ],
+      "open_questions": 3,
+      "cross_links": [
+        "directors-index",
+        "wartime-kanawana",
+        "rh-hanagan",
+        "section-names"
+      ],
+      "file_id": null,
+      "word_count": 546,
+      "notes": "2026-07-11: Workstream C1 spawn. Synthesizes existing facts from directors-index.md and wartime-kanawana.md prior RESEARCH passes -- no new research conducted.",
+      "tags": {
+        "era": [
+          "1930s",
+          "1940s"
+        ],
+        "region": "montreal",
+        "location_refs": [],
+        "person_type": "director",
+        "topics": [
+          "directors",
+          "staff",
+          "people"
+        ],
+        "is_hub": false
+      }
+    },
+    {
+      "article_id": "ross-bannerman",
+      "title": "Ross Bannerman",
+      "wiki_folder": "people",
+      "status": "draft",
+      "status_history": [
+        {
+          "status": "draft",
+          "at": "2026-07-11T00:00:00Z",
+          "by": "auto",
+          "task": "WRITE"
+        }
+      ],
+      "ralph_loops_completed": 1,
+      "kb_facts_used": [
+        "f_0753",
+        "f_0852",
+        "f_0908",
+        "f_1336",
+        "f_1362",
+        "f_1378",
+        "f_1384"
+      ],
+      "sources_cited": [
+        "src_camp_stephens_alumni_blog",
+        "src_concordia_atom_12B01",
+        "src_concordia_atom_fonds"
+      ],
+      "open_questions": 3,
+      "cross_links": [
+        "nelson-mcewen",
+        "directors-index",
+        "a-ross-seaman",
+        "centennial-1967"
+      ],
+      "file_id": null,
+      "word_count": 572,
+      "notes": "2026-07-11: Workstream C1 spawn. Synthesizes existing facts from directors-index.md and nelson-mcewen.md -- no new research conducted. Corrected dangling source_id references (src_concordia_12B01 / src_concordia_ymca_fonds_12B01 -> src_concordia_atom_12B01) in kb/facts.json while preparing this article.",
+      "tags": {
+        "era": [
+          "1950s",
+          "1960s",
+          "1970s"
+        ],
+        "region": "canada-other",
+        "location_refs": [],
+        "person_type": "director",
+        "topics": [
+          "directors",
+          "people",
+          "ymca_canada"
+        ],
+        "is_hub": false
+      }
+    },
+    {
+      "article_id": "james-orbinski",
+      "title": "James Orbinski",
+      "wiki_folder": "people",
+      "status": "draft",
+      "status_history": [
+        {
+          "status": "draft",
+          "at": "2026-07-11T00:00:00Z",
+          "by": "auto",
+          "task": "WRITE"
+        }
+      ],
+      "ralph_loops_completed": 1,
+      "kb_facts_used": [
+        "f_0423",
+        "f_0953",
+        "f_1006",
+        "f_1075",
+        "f_1080",
+        "f_1130",
+        "f_1235",
+        "f_1562"
+      ],
+      "sources_cited": [
+        "src_ymca_pip_orbinski_2024",
+        "src_ymca_pip_orbinski",
+        "src_wikipedia_orbinski",
+        "src_concordia_orbinski",
+        "src_ymca_quebec_pip_orbinski_2024"
+      ],
+      "open_questions": 2,
+      "cross_links": [
+        "notable-alumni",
+        "pip-alumni-award",
+        "john-cleghorn"
+      ],
+      "file_id": null,
+      "word_count": 488,
+      "notes": "2026-07-11: Workstream C1 spawn, split from notable-alumni.md. Public figure (Nobel Peace Prize acceptance on behalf of MSF, Order of Canada) -- no new research conducted, synthesizes already-cited facts.",
+      "tags": {
+        "era": [
+          "1980s",
+          "1990s",
+          "2020s"
+        ],
+        "region": "not-applicable",
+        "location_refs": [],
+        "person_type": "alumnus",
+        "topics": [
+          "notable_alumni",
+          "people"
+        ],
+        "is_hub": false
+      }
+    },
+    {
+      "article_id": "john-cleghorn",
+      "title": "John Cleghorn",
+      "wiki_folder": "people",
+      "status": "draft",
+      "status_history": [
+        {
+          "status": "draft",
+          "at": "2026-07-11T00:00:00Z",
+          "by": "auto",
+          "task": "WRITE"
+        }
+      ],
+      "ralph_loops_completed": 1,
+      "kb_facts_used": [
+        "f_0157",
+        "f_0160",
+        "f_0161",
+        "f_0162",
+        "f_0163",
+        "f_1069",
+        "f_1093",
+        "f_1126"
+      ],
+      "sources_cited": [
+        "src_wikipedia_john_cleghorn",
+        "src_ymca_quebec_pip_skinner",
+        "src_canadian_encyclopedia_cleghorn",
+        "src_oral_aronson"
+      ],
+      "open_questions": 2,
+      "cross_links": [
+        "notable-alumni",
+        "pip-alumni-award",
+        "james-orbinski"
+      ],
+      "file_id": null,
+      "word_count": 522,
+      "notes": "2026-07-11: Workstream C1 spawn, split from notable-alumni.md. Combines oral history (src_oral_aronson) with documented sources (Wikipedia, Canadian Encyclopedia); no conflict exists between them so no resolution needed. Corrected dangling source_id reference (src_cleghorn_wikipedia -> src_wikipedia_john_cleghorn) in kb/facts.json while preparing this article.",
+      "tags": {
+        "era": [
+          "1950s"
+        ],
+        "region": "not-applicable",
+        "location_refs": [],
+        "person_type": "alumnus",
+        "topics": [
+          "notable_alumni",
+          "people"
+        ],
+        "is_hub": false
+      }
+    },
+    {
+      "article_id": "chris-adam",
+      "title": "Chris Adam",
+      "wiki_folder": "people",
+      "status": "draft",
+      "status_history": [
+        {
+          "status": "draft",
+          "at": "2026-07-11T00:00:00Z",
+          "by": "auto",
+          "task": "WRITE"
+        }
+      ],
+      "ralph_loops_completed": 1,
+      "kb_facts_used": [
+        "f_0109",
+        "f_0114",
+        "f_1008",
+        "f_1073",
+        "f_1116",
+        "f_1129",
+        "f_1264",
+        "f_1265",
+        "f_1266",
+        "f_1417"
+      ],
+      "sources_cited": [
+        "src_ymca_pip_adam",
+        "src_ymca_pip_adam_2017",
+        "src_ka_news_1980",
+        "src_dawson_chris_adam",
+        "src_cbc_dawson_green_gown",
+        "src_dawson_adam_ggmsm",
+        "src_dawson_adam_research"
+      ],
+      "open_questions": 2,
+      "cross_links": [
+        "notable-alumni",
+        "pip-alumni-award",
+        "environmental-history"
+      ],
+      "file_id": null,
+      "word_count": 515,
+      "notes": "2026-07-11: Workstream C1 spawn, split from notable-alumni.md. No new research conducted, synthesizes already-cited facts. Corrected dangling source_id reference (src_ymca_quebec_pip_adam_2017 -> src_ymca_pip_adam_2017) in kb/facts.json while preparing this article.",
+      "tags": {
+        "era": [
+          "1980s",
+          "2010s"
+        ],
+        "region": "not-applicable",
+        "location_refs": [],
+        "person_type": "alumnus",
+        "topics": [
+          "notable_alumni",
+          "people",
+          "environment"
         ],
         "is_hub": false
       }
