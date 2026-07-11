@@ -1555,10 +1555,14 @@
         "bruce-netherwood",
         "cushing-family",
         "da-budge",
+        "david-leduc",
         "founding-1894",
+        "gary-white",
         "harold-cross",
         "hedley-dimock",
         "howie-langille",
+        "kate-taylor",
+        "marie-pierre-lacasse",
         "nelson-mcewen",
         "pip-alumni-award",
         "ralph-dawson",
@@ -1572,7 +1576,7 @@
       ],
       "file_id": null,
       "word_count": 12042,
-      "notes": "v4.75: Peter Goddard confirmed (Peter Gilling Goddard 1953-2016, obituary condolence). Nelson McEwen tenure extended c.1927-1947. Derek Walsh exhausted. Gap periods updated. | 2026-07-07: applied operator's standing conflict-resolution policy (documented sources take precedence over oral history) to resolve c_004, c_015, c_016, c_017 -- Gary White's Kanawana tenure narrowed to FY2001-2002, Sean Day's start corrected to 2008, Nicolas Garcia's spelling/end-date corrected to March 2014, Rossy Foundation corrected to Tyndale St-Georges. | 2026-07-11: Workstream A Wave 1 prose-sediment REVIEW pass -- standardized header, moved dated correction narrative from table cells into a new visible Revision History section, corrected open_questions count (was stale at 7, actual count is and remains 14). No facts, citations, or open questions dropped; status unchanged. | 2026-07-11: Added wiki-links to Howie Langille and Ross Bannerman table rows and Related Articles, pointing to their new standalone Workstream C1 articles. | 2026-07-11: Added wiki-links to Bruce Netherwood (Camp Directors table, Pip Award table, Related Articles) pointing to the new standalone article.",
+      "notes": "v4.75: Peter Goddard confirmed (Peter Gilling Goddard 1953-2016, obituary condolence). Nelson McEwen tenure extended c.1927-1947. Derek Walsh exhausted. Gap periods updated. | 2026-07-07: applied operator's standing conflict-resolution policy (documented sources take precedence over oral history) to resolve c_004, c_015, c_016, c_017 -- Gary White's Kanawana tenure narrowed to FY2001-2002, Sean Day's start corrected to 2008, Nicolas Garcia's spelling/end-date corrected to March 2014, Rossy Foundation corrected to Tyndale St-Georges. | 2026-07-11: Workstream A Wave 1 prose-sediment REVIEW pass -- standardized header, moved dated correction narrative from table cells into a new visible Revision History section, corrected open_questions count (was stale at 7, actual count is and remains 14). No facts, citations, or open questions dropped; status unchanged. | 2026-07-11: Added wiki-links to Howie Langille and Ross Bannerman table rows and Related Articles, pointing to their new standalone Workstream C1 articles. | 2026-07-11: Added wiki-links to Bruce Netherwood (Camp Directors table, Pip Award table, Related Articles) pointing to the new standalone article. | 2026-07-11: Added wiki-links to Gary White, David Leduc, Kate Taylor, Marie-Pierre Lacasse table rows and Related Articles, pointing to new standalone institutional-role-director articles.",
       "tags": {
         "era": [
           "1880s",
@@ -7782,6 +7786,243 @@
           "founding",
           "people",
           "directors"
+        ],
+        "is_hub": false
+      }
+    },
+    {
+      "article_id": "david-leduc",
+      "title": "David Leduc",
+      "wiki_folder": "people",
+      "status": "draft",
+      "status_history": [
+        {
+          "status": "draft",
+          "at": "2026-07-11T00:00:00Z",
+          "by": "auto",
+          "task": "WRITE"
+        }
+      ],
+      "ralph_loops_completed": 1,
+      "kb_facts_used": [
+        "f_0755",
+        "f_0853",
+        "f_1478",
+        "f_1479",
+        "f_1480",
+        "f_1481",
+        "f_1482",
+        "f_1483",
+        "f_1650",
+        "f_1707",
+        "f_1733"
+      ],
+      "sources_cited": [
+        "src_linkedin_leduc",
+        "src_flickr_kanawana_plaque_album",
+        "src_devp_leduc_2015"
+      ],
+      "open_questions": 2,
+      "cross_links": [
+        "directors-index",
+        "sean-day"
+      ],
+      "file_id": null,
+      "word_count": 313,
+      "notes": "2026-07-11: Workstream C (institutional-role director) spawn, split from directors-index.md Two-Tier Era On-Site Directors table. No new research conducted.",
+      "tags": {
+        "era": [
+          "2000s"
+        ],
+        "region": "montreal",
+        "location_refs": [
+          "the-kanawana-site"
+        ],
+        "person_type": "director",
+        "topics": [
+          "directors",
+          "staff",
+          "people"
+        ],
+        "is_hub": false
+      }
+    },
+    {
+      "article_id": "marie-pierre-lacasse",
+      "title": "Marie-Pierre Lacasse",
+      "wiki_folder": "people",
+      "status": "draft",
+      "status_history": [
+        {
+          "status": "draft",
+          "at": "2026-07-11T00:00:00Z",
+          "by": "auto",
+          "task": "WRITE"
+        }
+      ],
+      "ralph_loops_completed": 1,
+      "kb_facts_used": [
+        "f_0580",
+        "f_1313",
+        "f_1396",
+        "f_1397",
+        "f_1398",
+        "f_1399",
+        "f_1400",
+        "f_1738",
+        "f_1743",
+        "f_1805"
+      ],
+      "sources_cited": [
+        "src_rocketreach_lacasse",
+        "src_latribune_lacasse_2018",
+        "src_oral_aronson",
+        "src_nouvelles_laurentides_2024",
+        "src_ymcaquebec_kanawana_adventure_2024",
+        "src_ymca_website"
+      ],
+      "open_questions": 2,
+      "cross_links": [
+        "directors-index",
+        "sean-day",
+        "lv-games"
+      ],
+      "file_id": null,
+      "word_count": 358,
+      "notes": "2026-07-11: Workstream C (institutional-role director) spawn, split from directors-index.md Two-Tier Era Executive Directors table. No new research conducted.",
+      "tags": {
+        "era": [
+          "2000s",
+          "2010s",
+          "2020s"
+        ],
+        "region": "montreal",
+        "location_refs": [
+          "the-kanawana-site"
+        ],
+        "person_type": "director",
+        "topics": [
+          "directors",
+          "staff",
+          "people"
+        ],
+        "is_hub": false
+      }
+    },
+    {
+      "article_id": "kate-taylor",
+      "title": "Kate Taylor",
+      "wiki_folder": "people",
+      "status": "draft",
+      "status_history": [
+        {
+          "status": "draft",
+          "at": "2026-07-11T00:00:00Z",
+          "by": "auto",
+          "task": "WRITE"
+        }
+      ],
+      "ralph_loops_completed": 1,
+      "kb_facts_used": [
+        "f_0422",
+        "f_0743",
+        "f_0759",
+        "f_0854",
+        "f_1107",
+        "f_1390",
+        "f_1391",
+        "f_1392",
+        "f_1393",
+        "f_1394",
+        "f_1395",
+        "f_1489",
+        "f_1490",
+        "f_1493"
+      ],
+      "sources_cited": [
+        "src_linkedin_kate_taylor",
+        "src_camphacker_147",
+        "src_msn_kanawana_closed_2021",
+        "src_oral_aronson",
+        "src_montreal_families_gender",
+        "src_gocamp_pro_kate_taylor",
+        "src_campcode_95"
+      ],
+      "open_questions": 2,
+      "cross_links": [
+        "directors-index",
+        "sean-day",
+        "coeducation-gender"
+      ],
+      "file_id": null,
+      "word_count": 326,
+      "notes": "2026-07-11: Workstream C (institutional-role director) spawn, split from directors-index.md Two-Tier Era On-Site Directors table. No new research conducted. One fact (f_1109) cites a genuinely un-cached source_id (src_ymca_kanawana_town_hall, no obvious real equivalent) -- deliberately left uncited, flagged as a KB cleanup item.",
+      "tags": {
+        "era": [
+          "2010s",
+          "2020s"
+        ],
+        "region": "montreal",
+        "location_refs": [
+          "the-kanawana-site"
+        ],
+        "person_type": "director",
+        "topics": [
+          "directors",
+          "staff",
+          "people",
+          "coeducation"
+        ],
+        "is_hub": false
+      }
+    },
+    {
+      "article_id": "gary-white",
+      "title": "Gary White",
+      "wiki_folder": "people",
+      "status": "stub",
+      "status_history": [
+        {
+          "status": "stub",
+          "at": "2026-07-11T00:00:00Z",
+          "by": "auto",
+          "task": "WRITE"
+        }
+      ],
+      "ralph_loops_completed": 1,
+      "kb_facts_used": [
+        "f_1731",
+        "f_1749",
+        "f_1750",
+        "f_1751",
+        "f_1760"
+      ],
+      "sources_cited": [
+        "src_wayback_ymcamontreal_annualreport_2001_2002",
+        "src_wayback_ymcamontreal_annualreport_2002_2003",
+        "src_ymcaquebec_annualreport_2007"
+      ],
+      "open_questions": 2,
+      "cross_links": [
+        "directors-index",
+        "sean-day"
+      ],
+      "file_id": null,
+      "word_count": 345,
+      "notes": "2026-07-11: Workstream C (institutional-role director) spawn, split from directors-index.md. Set to stub given genuine thinness beyond annual-report tenure records. Follows the already-resolved conflict c_015 (documented dates over oral history, per operator directive 2026-07-07) rather than re-litigating it.",
+      "tags": {
+        "era": [
+          "2000s"
+        ],
+        "region": "montreal",
+        "location_refs": [
+          "the-kanawana-site"
+        ],
+        "person_type": "director",
+        "topics": [
+          "directors",
+          "staff",
+          "people"
         ],
         "is_hub": false
       }
