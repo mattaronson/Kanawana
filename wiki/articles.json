@@ -5541,6 +5541,12 @@
           "at": "2026-07-10T04:00:00Z",
           "by": "auto",
           "task": "RESEARCH"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-07-11T00:00:00Z",
+          "by": "auto",
+          "task": "REVIEW"
         }
       ],
       "ralph_loops_completed": 2,
@@ -5568,7 +5574,8 @@
         "ymca-quebec-history"
       ],
       "file_id": null,
-      "word_count": 1608
+      "word_count": 1548,
+      "notes": "2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass (FINAL article of Wave 2) -- removed a duplicate old-style HTML-comment header, softened a dated bold-label marker in prose. No facts, citations, or open questions dropped; status unchanged."
     },
     {
       "article_id": "sgw-concordia-connection",
@@ -5821,6 +5828,12 @@
           "at": "2026-07-09T22:00:00Z",
           "by": "auto",
           "task": "RESEARCH"
+        },
+        {
+          "status": "draft",
+          "at": "2026-07-11T00:00:00Z",
+          "by": "auto",
+          "task": "REVIEW"
         }
       ],
       "ralph_loops_completed": 2,
@@ -5842,7 +5855,8 @@
         "directors-index"
       ],
       "file_id": null,
-      "word_count": 1147
+      "word_count": 1099,
+      "notes": "2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- removed a duplicate old-style HTML-comment header. No facts, citations, or open questions dropped; status unchanged (draft)."
     }
   ]
 }

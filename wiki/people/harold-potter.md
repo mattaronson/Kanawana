@@ -1,13 +1,7 @@
 # Harold H. Potter
 
-<!-- status: E1-reviewed -->
-<!-- confidence: medium-high -->
-<!-- last_updated: 2026-06-22 -->
-<!-- last_editor: session4 -->
-<!-- ralph_loops: harold-potter-R1, harold-potter-V1, harold-potter-E1 -->
-
 *Status: E1-reviewed | Sources: 9*
-*Last Updated: 2026-07-10 (Batch 7 research pass: three specific Montreal Gazette citations found for Potter's counsellor years 1935/36/38; Camp Laquemac resolved as a Université Laval adult-education camp with no YMCA/Kanawana link; Harold Potter fonds confirmed to hold no photographs)*
+*Last Updated: 2026-07-10*
 
 ## Overview
 
@@ -52,7 +46,7 @@ Potter maintained he had never experienced discrimination at Sir George Williams
 ## Publications
 
 1. *The Occupational Adjustments of Montreal Negroes, 1941--48.* MA thesis, McGill University, 1949.
-2. Potter, Harold H. and Renee Morin. *Camp Laquemac: A Bilingual Adult Education Training Centre.* Toronto: Canadian Association for Adult Education, 1953.^3 **Resolved 2026-07-10**: Camp Laquemac (properly "Camp Laquémac") was Université Laval's own flagship adult-education summer camp, run by its Centre de Culture Populaire in partnership with Macdonald College of McGill University and sponsored by provincial and federal governments, operating 1947-1957. Two independent sources (Miriam Chapin's *Quebec Now*, 1955; Scott McLean's 2023 *Canadian Journal of Education* article on Laval and adult education) describe it in detail; neither mentions the YMCA or Kanawana. Potter and Morin's 1953 pamphlet appears to be outside documentation of Laval's camp-based adult-education model for the Canadian Association for Adult Education, consistent with Potter's general camp-methodology interests, rather than evidence Laquemac itself was YMCA-run or Kanawana-linked.
+2. Potter, Harold H. and Renee Morin. *Camp Laquemac: A Bilingual Adult Education Training Centre.* Toronto: Canadian Association for Adult Education, 1953.^3 Camp Laquemac (properly "Camp Laquémac") was Université Laval's own flagship adult-education summer camp, run by its Centre de Culture Populaire in partnership with Macdonald College of McGill University and sponsored by provincial and federal governments, operating 1947-1957. Two independent sources (Miriam Chapin's *Quebec Now*, 1955; Scott McLean's 2023 *Canadian Journal of Education* article on Laval and adult education) describe it in detail; neither mentions the YMCA or Kanawana. Potter and Morin's 1953 pamphlet appears to be outside documentation of Laval's camp-based adult-education model for the Canadian Association for Adult Education, consistent with Potter's general camp-methodology interests, rather than evidence Laquemac itself was YMCA-run or Kanawana-linked.
 3. "Negroes in Canada." *Race* 3:1 (1961): pp. 39--56.^4
 4. "Negroes in Canada." Republished in Richard Laskin (ed.), *Social Problems: A Canadian Profile.* Toronto: McGraw-Hill, 1964.
 5. Potter, Harold H. and Daniel G. Hill. *Negro Settlement in Canada, 1628--1965: A Survey.* Royal Commission on Bilingualism and Biculturalism. Ottawa, 1966.^5

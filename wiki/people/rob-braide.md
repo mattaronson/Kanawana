@@ -1,12 +1,7 @@
 # Rob Braide
 
-<!-- status: draft -->
-<!-- confidence: medium -->
-<!-- last_updated: 2026-07-09 -->
-<!-- ralph_loops: rob-braide-R1, rob-braide-R2 -->
-
 *Status: draft | Sources: 4*
-*Last Updated: 2026-07-09 (Batch 6 RALPH pass: full biography found across two independent sources, advancing this article from stub to draft; a second, apparently unrelated Braide family with its own separate YMCA connection identified)*
+*Last Updated: 2026-07-09*
 
 ## Overview
 

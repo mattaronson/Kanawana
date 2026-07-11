@@ -2342,3 +2342,9 @@ HYPOTHESIZE — Remaining productive research requires:
   - sgw-concordia-connection.md: removed a duplicate old-style HTML-comment header, corrected the header's stale Sources count (8 -> 9).
   - billy-ball.md: removed the old-style HTML-comment header (article had no standardized header at all), softened a dated bold-label marker in prose.
   - No facts, sources, citations, or open questions dropped on either article. Status unchanged (E1-reviewed) on both. wiki/articles.json updated.
+
+[2026-07-11] Campaign 60 (Workstream A, Wave 2, articles 30-31, FINAL): rob-braide.md and harold-potter.md
+  - rob-braide.md: removed a duplicate old-style HTML-comment header (status: draft, unchanged).
+  - harold-potter.md: removed a duplicate old-style HTML-comment header, softened a dated bold-label marker in prose.
+  - No facts, sources, citations, or open questions dropped on either article. wiki/articles.json updated.
+  - WAVE 2 COMPLETE: a wiki-wide sweep confirms zero remaining old-style HTML-comment headers, zero malformed "Sources: src_..." headers, and zero articles missing the standardized header entirely. Combined with Wave 1, all 54 wiki articles now share the standardized two-line header (*Status: ... | Sources: N* / *Last Updated: YYYY-MM-DD*) and a consistent Research Notes > Revision History convention for corrections. Along the way this wave also fixed: two genuine citation-numbering bugs (environmental-history.md's duplicate "17."/"22." source entries; directors-index.md's citation-marker/Sources-list mismatch, from Wave 1), several stale cross-article consistency issues (dave-twynam.md and directors-index.md both referencing conflict c_007 inconsistently; camp-weredale.md's Overview contradicting its own later correction), and multiple stale open_questions counts in wiki/articles.json. Zero facts, sources, citations, or open questions were dropped across all 39 articles touched in Waves 1-2.
