@@ -141,7 +141,33 @@
       ],
       "file_id": "1h-vki1U2tjYj8-zZ5gzuyW6kQXelcUnB",
       "word_count": 2734,
-      "notes": "2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- replaced the bold-field header convention with the standardized two-line header, moved the embedded c_005 editorial-resolution paragraph into the existing Revision History section (merged the separate 'Research Notes'/'Revision History' H2 sections into one, per the wiki-wide convention). No facts, citations, or open questions dropped; status unchanged."
+      "notes": "2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- replaced the bold-field header convention with the standardized two-line header, moved the embedded c_005 editorial-resolution paragraph into the existing Revision History section (merged the separate 'Research Notes'/'Revision History' H2 sections into one, per the wiki-wide convention). No facts, citations, or open questions dropped; status unchanged.",
+      "tags": {
+        "era": [
+          "1890s",
+          "1900s",
+          "1910s",
+          "1920s",
+          "1930s",
+          "1940s"
+        ],
+        "region": "kanawana-site",
+        "location_refs": [
+          "the-kanawana-site"
+        ],
+        "person_type": null,
+        "topics": [
+          "founding",
+          "people",
+          "staff",
+          "chronology",
+          "name_origin",
+          "directors",
+          "geography",
+          "facilities"
+        ],
+        "is_hub": false
+      }
     },
     {
       "article_id": "da-budge",
@@ -206,7 +232,24 @@
       ],
       "file_id": "1iOHcDJeDgo5VFTfb46EQ6JrFYuZaZie5",
       "word_count": 847,
-      "notes": "2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- fixed the malformed Sources header, nested the standalone 'Revision History' heading under a new parent 'Research Notes' heading per the wiki-wide convention. No facts, citations, or open questions dropped; status unchanged."
+      "notes": "2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- fixed the malformed Sources header, nested the standalone 'Revision History' heading under a new parent 'Research Notes' heading per the wiki-wide convention. No facts, citations, or open questions dropped; status unchanged.",
+      "tags": {
+        "era": [
+          "1890s",
+          "1900s",
+          "1930s"
+        ],
+        "region": "montreal",
+        "location_refs": [],
+        "person_type": "founder-era-figure",
+        "topics": [
+          "founding",
+          "people",
+          "directors",
+          "sources"
+        ],
+        "is_hub": false
+      }
     },
     {
       "article_id": "canoe-trips",
@@ -286,7 +329,28 @@
         "a-ross-seaman"
       ],
       "file_id": "13MmwA1lO_3J3rJ7yEZjwsvT--vWooITy",
-      "word_count": 1343
+      "word_count": 1343,
+      "tags": {
+        "era": [
+          "1920s",
+          "1930s",
+          "1950s",
+          "1960s",
+          "1990s",
+          "2020s"
+        ],
+        "region": "not-applicable",
+        "location_refs": [],
+        "person_type": null,
+        "topics": [
+          "canoe_trips",
+          "programs",
+          "places",
+          "coeducation",
+          "context"
+        ],
+        "is_hub": true
+      }
     },
     {
       "article_id": "council-ring",
@@ -347,7 +411,25 @@
       ],
       "file_id": "13YtmB0kQvK5oBY-Kz_88vIgztYAH5x2e",
       "word_count": 1459,
-      "notes": "v4.75: 2020 Opening Campfire confirmed (Facebook Live). Tamaracouta totem pole theft noted."
+      "notes": "v4.75: 2020 Opening Campfire confirmed (Facebook Live). Tamaracouta totem pole theft noted.",
+      "tags": {
+        "era": [
+          "1920s",
+          "1930s"
+        ],
+        "region": "kanawana-site",
+        "location_refs": [],
+        "person_type": null,
+        "topics": [
+          "council_ring",
+          "places",
+          "traditions",
+          "facilities",
+          "directors",
+          "context"
+        ],
+        "is_hub": false
+      }
     },
     {
       "article_id": "lv-games",
@@ -434,7 +516,30 @@
       ],
       "file_id": "1EmzjwZxmQKJhFrNsbFGn1HbdseFBM9E7",
       "word_count": 1429,
-      "notes": "2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- fixed the malformed header (Status casing 'E1 Reviewed' -> 'E1-reviewed', Sources field was free-text descriptions instead of a count), moved the 'Correction, 2026-07-09' paragraph into a new Research Notes > Revision History section, folded the orphaned 'R3 Verification Notes' H3 (no parent heading) into Research Notes. No facts, citations, or open questions dropped; status unchanged."
+      "notes": "2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- fixed the malformed header (Status casing 'E1 Reviewed' -> 'E1-reviewed', Sources field was free-text descriptions instead of a count), moved the 'Correction, 2026-07-09' paragraph into a new Research Notes > Revision History section, folded the orphaned 'R3 Verification Notes' H3 (no parent heading) into Research Notes. No facts, citations, or open questions dropped; status unchanged.",
+      "tags": {
+        "era": [
+          "1910s",
+          "1940s",
+          "1950s",
+          "2010s"
+        ],
+        "region": "kanawana-site",
+        "location_refs": [
+          "the-kanawana-site"
+        ],
+        "person_type": null,
+        "topics": [
+          "lv_games",
+          "traditions",
+          "context",
+          "programs",
+          "camp_culture",
+          "inter-camp",
+          "inter_camp"
+        ],
+        "is_hub": false
+      }
     },
     {
       "article_id": "wartime-kanawana",
@@ -507,7 +612,30 @@
         "cushing-family"
       ],
       "file_id": "1FzPFWuQ3jBYZdPOSVC_xjANKsWr7RjSK",
-      "word_count": 1174
+      "word_count": 1174,
+      "tags": {
+        "era": [
+          "1910s",
+          "1930s",
+          "1940s"
+        ],
+        "region": "kanawana-site",
+        "location_refs": [
+          "the-kanawana-site"
+        ],
+        "person_type": null,
+        "topics": [
+          "staff",
+          "directors",
+          "programs",
+          "health",
+          "chronology",
+          "people",
+          "related_camps",
+          "founding"
+        ],
+        "is_hub": false
+      }
     },
     {
       "article_id": "section-names",
@@ -567,7 +695,29 @@
         "a-ross-seaman"
       ],
       "file_id": "1vObPDCKcgzCi8HVCEMuBzQCMPd0jk2ua",
-      "word_count": 1567
+      "word_count": 1567,
+      "tags": {
+        "era": [
+          "1920s",
+          "1930s",
+          "1940s",
+          "1950s"
+        ],
+        "region": "not-applicable",
+        "location_refs": [],
+        "person_type": null,
+        "topics": [
+          "section_names",
+          "sections",
+          "staff",
+          "coeducation",
+          "canoe_trips",
+          "traditions",
+          "sources",
+          "programs"
+        ],
+        "is_hub": false
+      }
     },
     {
       "article_id": "coeducation-gender",
@@ -690,7 +840,33 @@
       ],
       "file_id": "1KW2yhoZ-wr_71sTPbLJ3v81KW4ZEJ_p-",
       "word_count": 2471,
-      "notes": "E1 REVIEW (2026-02-19): Fixed source header (src_ymca_facts→src_kanawana_facts), added Spectrum URL for McMorris thesis, added IA URLs for Facts sheet and Gas Bag. All claims cited, dates consistent, names cross-checked, tone encyclopedic. Advanced R3-verified → E1-reviewed. | 2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- fixed the malformed Sources header, moved the c_001 editorial-resolution narrative into a new Research Notes > Revision History section, folded the orphaned 'R3 Verification Notes' H2 into Research Notes. No facts, citations, or open questions dropped; status unchanged."
+      "notes": "E1 REVIEW (2026-02-19): Fixed source header (src_ymca_facts→src_kanawana_facts), added Spectrum URL for McMorris thesis, added IA URLs for Facts sheet and Gas Bag. All claims cited, dates consistent, names cross-checked, tone encyclopedic. Advanced R3-verified → E1-reviewed. | 2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- fixed the malformed Sources header, moved the c_001 editorial-resolution narrative into a new Research Notes > Revision History section, folded the orphaned 'R3 Verification Notes' H2 into Research Notes. No facts, citations, or open questions dropped; status unchanged.",
+      "tags": {
+        "era": [
+          "1920s",
+          "1930s",
+          "1950s",
+          "1960s",
+          "1970s",
+          "2020s"
+        ],
+        "region": "kanawana-site",
+        "location_refs": [
+          "the-kanawana-site"
+        ],
+        "person_type": null,
+        "topics": [
+          "coeducation",
+          "programs",
+          "section_names",
+          "camping_movement",
+          "context",
+          "staff",
+          "meta",
+          "sources_archives"
+        ],
+        "is_hub": false
+      }
     },
     {
       "article_id": "programs-activities",
@@ -944,7 +1120,37 @@
       ],
       "file_id": "1oqLoU6_bzWD_9jXwXQgYNm_EqLCEfNjR",
       "word_count": 3500,
-      "notes": "v4.75: Noosphere section expanded — Zinner thesis (McGill 1973), Third World Village model, Montreal-matin article. | 2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- fixed the malformed Sources header, renamed the orphaned 'R3 Verification Notes' H2 to the standard 'Research Notes' heading and condensed its bullet list into a single HTML-comment process-log entry. No facts, citations, or open questions dropped; status unchanged."
+      "notes": "v4.75: Noosphere section expanded — Zinner thesis (McGill 1973), Third World Village model, Montreal-matin article. | 2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- fixed the malformed Sources header, renamed the orphaned 'R3 Verification Notes' H2 to the standard 'Research Notes' heading and condensed its bullet list into a single HTML-comment process-log entry. No facts, citations, or open questions dropped; status unchanged.",
+      "tags": {
+        "era": [
+          "1890s",
+          "1910s",
+          "1920s",
+          "1930s",
+          "1940s",
+          "1950s",
+          "1960s",
+          "1970s",
+          "1980s",
+          "1990s",
+          "2010s",
+          "2020s"
+        ],
+        "region": "not-applicable",
+        "location_refs": [],
+        "person_type": null,
+        "topics": [
+          "programs",
+          "founding",
+          "enrollment",
+          "operations",
+          "canoe_trips",
+          "lv_games",
+          "section_names",
+          "brochures"
+        ],
+        "is_hub": true
+      }
     },
     {
       "article_id": "ralph-dawson",
@@ -1037,7 +1243,24 @@
       ],
       "file_id": "1sAGFRKb22uggFeMgrSJLllgpSZoAGxa4",
       "word_count": 1317,
-      "notes": "v47 protocol test subject. Formal RALPH caught factual conflation. v4.24 RALPH loop (2026-03-15): 8-query web search saturation. No biographical details found online. New facts f_0927-f_0931. Resolution requires Concordia Archives physical/remote access. | 2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- fixed the malformed Sources header. No facts, citations, or open questions dropped; status unchanged."
+      "notes": "v47 protocol test subject. Formal RALPH caught factual conflation. v4.24 RALPH loop (2026-03-15): 8-query web search saturation. No biographical details found online. New facts f_0927-f_0931. Resolution requires Concordia Archives physical/remote access. | 2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- fixed the malformed Sources header. No facts, citations, or open questions dropped; status unchanged.",
+      "tags": {
+        "era": [
+          "1890s",
+          "1930s"
+        ],
+        "region": "not-applicable",
+        "location_refs": [],
+        "person_type": "founder-era-figure",
+        "topics": [
+          "people",
+          "meta",
+          "directors",
+          "name_origin",
+          "documents"
+        ],
+        "is_hub": false
+      }
     },
     {
       "article_id": "directors-index",
@@ -1340,7 +1563,40 @@
       ],
       "file_id": null,
       "word_count": 12031,
-      "notes": "v4.75: Peter Goddard confirmed (Peter Gilling Goddard 1953-2016, obituary condolence). Nelson McEwen tenure extended c.1927-1947. Derek Walsh exhausted. Gap periods updated. | 2026-07-07: applied operator's standing conflict-resolution policy (documented sources take precedence over oral history) to resolve c_004, c_015, c_016, c_017 -- Gary White's Kanawana tenure narrowed to FY2001-2002, Sean Day's start corrected to 2008, Nicolas Garcia's spelling/end-date corrected to March 2014, Rossy Foundation corrected to Tyndale St-Georges. | 2026-07-11: Workstream A Wave 1 prose-sediment REVIEW pass -- standardized header, moved dated correction narrative from table cells into a new visible Revision History section, corrected open_questions count (was stale at 7, actual count is and remains 14). No facts, citations, or open questions dropped; status unchanged."
+      "notes": "v4.75: Peter Goddard confirmed (Peter Gilling Goddard 1953-2016, obituary condolence). Nelson McEwen tenure extended c.1927-1947. Derek Walsh exhausted. Gap periods updated. | 2026-07-07: applied operator's standing conflict-resolution policy (documented sources take precedence over oral history) to resolve c_004, c_015, c_016, c_017 -- Gary White's Kanawana tenure narrowed to FY2001-2002, Sean Day's start corrected to 2008, Nicolas Garcia's spelling/end-date corrected to March 2014, Rossy Foundation corrected to Tyndale St-Georges. | 2026-07-11: Workstream A Wave 1 prose-sediment REVIEW pass -- standardized header, moved dated correction narrative from table cells into a new visible Revision History section, corrected open_questions count (was stale at 7, actual count is and remains 14). No facts, citations, or open questions dropped; status unchanged.",
+      "tags": {
+        "era": [
+          "1880s",
+          "1890s",
+          "1900s",
+          "1910s",
+          "1920s",
+          "1930s",
+          "1940s",
+          "1950s",
+          "1960s",
+          "1970s",
+          "1980s",
+          "1990s",
+          "2000s",
+          "2010s",
+          "2020s"
+        ],
+        "region": "not-applicable",
+        "location_refs": [],
+        "person_type": null,
+        "topics": [
+          "people",
+          "staff",
+          "directors",
+          "biography",
+          "programs",
+          "notable_alumni",
+          "administration",
+          "traditions"
+        ],
+        "is_hub": true
+      }
     },
     {
       "article_id": "sources-index",
@@ -1497,7 +1753,36 @@
       ],
       "file_id": null,
       "word_count": 2494,
-      "notes": "E1 REVIEW (2026-02-19): Fixed source counts (85 total, 74 extracted, 11 IA documents). Restructured with newspaper sources, Pip Award pages, biographical sources. 2026-06-21: Added 1966-67 annual report (f_1335), expanded 12B01/14D holdings detail (f_1337), expanded Kautz YMCA Archives entry (f_1339). Updated statistics to 138 sources, 1355 facts, KB v4.74. 2026-07-09: Resolved/clarified 3 of 7 open questions (McMorris thesis now read in full; Trent OCA/CCA fonds largely resolved via Derek Walsh; BAnQ Advitam notice clarified as a separate deposit from the Concordia fonds). Refreshed Source/KB Statistics tables to current totals (580 sources, 1790 facts, KB v5.02) -- the detailed primary/secondary/tertiary category breakdown remains a March-2026 tally, flagged stale, not recomputed this pass. | 2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- removed the old-style HTML-comment header, replaced with the standardized header (Sources field uses the project's current total-sources count, since this meta article is itself a sources catalog rather than a cited-source article). No facts, citations, or open questions dropped; status unchanged."
+      "notes": "E1 REVIEW (2026-02-19): Fixed source counts (85 total, 74 extracted, 11 IA documents). Restructured with newspaper sources, Pip Award pages, biographical sources. 2026-06-21: Added 1966-67 annual report (f_1335), expanded 12B01/14D holdings detail (f_1337), expanded Kautz YMCA Archives entry (f_1339). Updated statistics to 138 sources, 1355 facts, KB v4.74. 2026-07-09: Resolved/clarified 3 of 7 open questions (McMorris thesis now read in full; Trent OCA/CCA fonds largely resolved via Derek Walsh; BAnQ Advitam notice clarified as a separate deposit from the Concordia fonds). Refreshed Source/KB Statistics tables to current totals (580 sources, 1790 facts, KB v5.02) -- the detailed primary/secondary/tertiary category breakdown remains a March-2026 tally, flagged stale, not recomputed this pass. | 2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- removed the old-style HTML-comment header, replaced with the standardized header (Sources field uses the project's current total-sources count, since this meta article is itself a sources catalog rather than a cited-source article). No facts, citations, or open questions dropped; status unchanged.",
+      "tags": {
+        "era": [
+          "1890s",
+          "1910s",
+          "1920s",
+          "1930s",
+          "1940s",
+          "1950s",
+          "1960s",
+          "1970s",
+          "1980s",
+          "1990s",
+          "2020s"
+        ],
+        "region": "not-applicable",
+        "location_refs": [],
+        "person_type": null,
+        "topics": [
+          "sources",
+          "archives",
+          "meta",
+          "sources_archives",
+          "media_and_publications",
+          "programs",
+          "media",
+          "publications"
+        ],
+        "is_hub": true
+      }
     },
     {
       "article_id": "harold-cross",
@@ -1579,7 +1864,27 @@
       ],
       "file_id": null,
       "word_count": 1204,
-      "notes": "E1 REVIEW (2026-02-19): Added inline ^1-^5 citations throughout body text. Standardized all name mentions to 'Harold C. Cross'. Added Related Articles section. Added priority tags to Open Questions. Advanced R3-verified → E1-reviewed. | 2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- fixed the malformed Sources header. No facts, citations, or open questions dropped; status unchanged."
+      "notes": "E1 REVIEW (2026-02-19): Added inline ^1-^5 citations throughout body text. Standardized all name mentions to 'Harold C. Cross'. Added Related Articles section. Added priority tags to Open Questions. Advanced R3-verified → E1-reviewed. | 2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- fixed the malformed Sources header. No facts, citations, or open questions dropped; status unchanged.",
+      "tags": {
+        "era": [
+          "1920s",
+          "1930s",
+          "1940s",
+          "1950s",
+          "1970s"
+        ],
+        "region": "montreal",
+        "location_refs": [],
+        "person_type": "director",
+        "topics": [
+          "directors",
+          "sources_archives",
+          "ymca_montreal",
+          "ymca_canada",
+          "people"
+        ],
+        "is_hub": false
+      }
     },
     {
       "article_id": "centennial-1967",
@@ -1715,7 +2020,29 @@
       ],
       "file_id": null,
       "word_count": 1908,
-      "notes": "2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- removed the old-style HTML-comment header, replaced with the standardized two-line header. No facts, citations, or open questions dropped; status unchanged."
+      "notes": "2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- removed the old-style HTML-comment header, replaced with the standardized two-line header. No facts, citations, or open questions dropped; status unchanged.",
+      "tags": {
+        "era": [
+          "1920s",
+          "1960s",
+          "2010s",
+          "2020s"
+        ],
+        "region": "canada-other",
+        "location_refs": [],
+        "person_type": null,
+        "topics": [
+          "centennial",
+          "brochures",
+          "meta",
+          "traditions",
+          "chronology",
+          "founding",
+          "geography",
+          "context"
+        ],
+        "is_hub": false
+      }
     },
     {
       "article_id": "canadian-camping-movement",
@@ -1852,7 +2179,36 @@
       ],
       "file_id": null,
       "word_count": 2562,
-      "notes": "v4.75: McEwen as CCA co-founder with Taylor Statten added. | 2026-07-11: Workstream A Wave 1 prose-sediment REVIEW pass -- added the standardized two-line header (previously had only the old-style HTML-comment header), moved the c_020 (OCA founding-date reconciliation) editorial-resolution narrative into a new visible Revision History section. Corrected open_questions count (was stale at 5, actual is 6). No facts, citations, or open questions dropped; status unchanged."
+      "notes": "v4.75: McEwen as CCA co-founder with Taylor Statten added. | 2026-07-11: Workstream A Wave 1 prose-sediment REVIEW pass -- added the standardized two-line header (previously had only the old-style HTML-comment header), moved the c_020 (OCA founding-date reconciliation) editorial-resolution narrative into a new visible Revision History section. Corrected open_questions count (was stale at 5, actual is 6). No facts, citations, or open questions dropped; status unchanged.",
+      "tags": {
+        "era": [
+          "1880s",
+          "1900s",
+          "1910s",
+          "1920s",
+          "1930s",
+          "1940s",
+          "1960s",
+          "1970s",
+          "1980s",
+          "2010s",
+          "2020s"
+        ],
+        "region": "canada-other",
+        "location_refs": [],
+        "person_type": null,
+        "topics": [
+          "camping_movement",
+          "organizations",
+          "institutional",
+          "people",
+          "context",
+          "ymca_montreal",
+          "publications",
+          "canadian_camping"
+        ],
+        "is_hub": false
+      }
     },
     {
       "article_id": "billy-ball",
@@ -1936,7 +2292,22 @@
       ],
       "file_id": null,
       "word_count": 1664,
-      "notes": "E1 REVIEW (2026-02-19): PASS — all 7 checklist items satisfied. No fixes needed. Advanced R3-verified → E1-reviewed. | 2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- removed the old-style HTML-comment header (article had no standardized header at all), softened a dated bold-label marker in prose. No facts, citations, or open questions dropped; status unchanged."
+      "notes": "E1 REVIEW (2026-02-19): PASS — all 7 checklist items satisfied. No fixes needed. Advanced R3-verified → E1-reviewed. | 2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- removed the old-style HTML-comment header (article had no standardized header at all), softened a dated bold-label marker in prose. No facts, citations, or open questions dropped; status unchanged.",
+      "tags": {
+        "era": [
+          "1890s",
+          "1900s"
+        ],
+        "region": "montreal",
+        "location_refs": [],
+        "person_type": "founder-era-figure",
+        "topics": [
+          "people",
+          "founding",
+          "sources"
+        ],
+        "is_hub": false
+      }
     },
     {
       "article_id": "cushing-family",
@@ -2074,7 +2445,36 @@
       ],
       "file_id": null,
       "word_count": 2585,
-      "notes": "E1 REVIEW (2026-02-19): Fixed Frederick row in Eight Sons table (birthplace clarified in Occupation column). All 7 checklist items satisfied. Advanced R3-verified → E1-reviewed. | 2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- removed the old-style HTML-comment header, moved the c_019 contradiction/editorial-resolution narrative into a new Research Notes > Revision History section. No facts, citations, or open questions dropped; status unchanged."
+      "notes": "E1 REVIEW (2026-02-19): Fixed Frederick row in Eight Sons table (birthplace clarified in Occupation column). All 7 checklist items satisfied. Advanced R3-verified → E1-reviewed. | 2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- removed the old-style HTML-comment header, moved the c_019 contradiction/editorial-resolution narrative into a new Research Notes > Revision History section. No facts, citations, or open questions dropped; status unchanged.",
+      "tags": {
+        "era": [
+          "1800s",
+          "1840s",
+          "1850s",
+          "1860s",
+          "1870s",
+          "1880s",
+          "1890s",
+          "1900s",
+          "1910s",
+          "1930s",
+          "1940s"
+        ],
+        "region": "montreal",
+        "location_refs": [],
+        "person_type": "family",
+        "topics": [
+          "people",
+          "chronology",
+          "sources",
+          "founding",
+          "programs",
+          "research_leads",
+          "archives",
+          "institutional"
+        ],
+        "is_hub": false
+      }
     },
     {
       "article_id": "traditions-and-culture",
@@ -2279,7 +2679,35 @@
       ],
       "file_id": null,
       "word_count": 3625,
-      "notes": "E1 REVIEW (2026-02-19): Fixed non-existent src_concordia_12B04 in header (removed; src_concordia_atom_12B04 already present). Fixed '131-year history' ambiguity to 'more than 130 years'. All claims cited, dates consistent, names cross-checked, tone encyclopedic."
+      "notes": "E1 REVIEW (2026-02-19): Fixed non-existent src_concordia_12B04 in header (removed; src_concordia_atom_12B04 already present). Fixed '131-year history' ambiguity to 'more than 130 years'. All claims cited, dates consistent, names cross-checked, tone encyclopedic.",
+      "tags": {
+        "era": [
+          "1900s",
+          "1920s",
+          "1930s",
+          "1940s",
+          "1950s",
+          "1960s",
+          "1990s",
+          "2000s",
+          "2010s",
+          "2020s"
+        ],
+        "region": "not-applicable",
+        "location_refs": [],
+        "person_type": null,
+        "topics": [
+          "traditions",
+          "programs",
+          "brochures",
+          "people",
+          "lv_games",
+          "events",
+          "facilities",
+          "camp_culture"
+        ],
+        "is_hub": true
+      }
     },
     {
       "article_id": "the-kanawana-site",
@@ -2429,12 +2857,43 @@
       ],
       "file_id": null,
       "word_count": 2929,
-      "notes": "E1 REVIEW (2026-02-19): Added ^4 citation for 1921 brochure (railway route). Fixed 'gorgeous views' promotional language. Standardized 'Harold C. Cross'. Added camp-otoreke cross-link. Removed KB fact IDs from Sources section. All claims cited, tone neutral. 2026-06-20: Added Indigenous territory context (f_1315) and Mille-Isles regional history (f_1314). 2026-06-21: Added 1976 Lovell's directory listing (f_1331) and 2023 superintendent's house fire (f_1333). | 2026-07-11: Workstream A Wave 1 prose-sediment REVIEW pass -- fixed a malformed header (the 'Sources:' field was listing raw source IDs instead of a count), moved the embedded 'Correction (2026-07-10)' paragraph about the Weredale lease into a new Research Notes > Revision History section (this article previously had no Research Notes section at all). No facts, citations, or open questions dropped; status unchanged."
+      "notes": "E1 REVIEW (2026-02-19): Added ^4 citation for 1921 brochure (railway route). Fixed 'gorgeous views' promotional language. Standardized 'Harold C. Cross'. Added camp-otoreke cross-link. Removed KB fact IDs from Sources section. All claims cited, tone neutral. 2026-06-20: Added Indigenous territory context (f_1315) and Mille-Isles regional history (f_1314). 2026-06-21: Added 1976 Lovell's directory listing (f_1331) and 2023 superintendent's house fire (f_1333). | 2026-07-11: Workstream A Wave 1 prose-sediment REVIEW pass -- fixed a malformed header (the 'Sources:' field was listing raw source IDs instead of a count), moved the embedded 'Correction (2026-07-10)' paragraph about the Weredale lease into a new Research Notes > Revision History section (this article previously had no Research Notes section at all). No facts, citations, or open questions dropped; status unchanged.",
+      "tags": {
+        "era": [
+          "1910s",
+          "1920s",
+          "1930s",
+          "1940s",
+          "1960s",
+          "1970s",
+          "1980s",
+          "2000s",
+          "2010s",
+          "2020s"
+        ],
+        "region": "kanawana-site",
+        "location_refs": [],
+        "person_type": null,
+        "topics": [
+          "geography",
+          "facilities",
+          "places",
+          "founding",
+          "context",
+          "property",
+          "administration",
+          "infrastructure"
+        ],
+        "is_hub": false
+      }
     },
     {
       "article_id": "camp-otoreke",
       "title": "Camp Otoreke",
       "wiki_folder": "places",
+      "aliases": [
+        "camp-jubilee"
+      ],
       "status": "E1-reviewed",
       "status_history": [
         {
@@ -2543,7 +3002,33 @@
       ],
       "file_id": null,
       "word_count": 1721,
-      "notes": "E1 REVIEW (2026-02-19): Removed unverifiable 'Google Maps' source and '20 km' distance claim. Expanded 'Multiple sources' citation into discrete references (Facts sheet + McMorris). Removed src_oral_aronson (no inline citation). Removed unsourced bullet. Fixed postcard inference. Fixed closure section process language. Split 1967 conference/reports sentence. Renumbered sources 1-10. Added camp-otoreke cross-link to centennial-1967. | 2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- fixed the malformed Sources header, moved the c_008 editorial-resolution narrative into a new Research Notes > Revision History section (article had none before). No facts, citations, or open questions dropped; status unchanged."
+      "notes": "E1 REVIEW (2026-02-19): Removed unverifiable 'Google Maps' source and '20 km' distance claim. Expanded 'Multiple sources' citation into discrete references (Facts sheet + McMorris). Removed src_oral_aronson (no inline citation). Removed unsourced bullet. Fixed postcard inference. Fixed closure section process language. Split 1967 conference/reports sentence. Renumbered sources 1-10. Added camp-otoreke cross-link to centennial-1967. | 2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- fixed the malformed Sources header, moved the c_008 editorial-resolution narrative into a new Research Notes > Revision History section (article had none before). No facts, citations, or open questions dropped; status unchanged.",
+      "tags": {
+        "era": [
+          "1890s",
+          "1900s",
+          "1920s",
+          "1930s",
+          "1940s",
+          "1960s",
+          "1980s",
+          "2000s"
+        ],
+        "region": "laurentians",
+        "location_refs": [],
+        "person_type": null,
+        "topics": [
+          "founding",
+          "places",
+          "geography",
+          "sources",
+          "archives",
+          "name_origin",
+          "programs",
+          "canoe_trips"
+        ],
+        "is_hub": false
+      }
     },
     {
       "article_id": "stuart-mclean",
@@ -2681,7 +3166,31 @@
       ],
       "file_id": null,
       "word_count": 1943,
-      "notes": "E1 REVIEW (2026-02-19): Fixed header source IDs. All 7 checklist items PASS. RALPH R1: 26 new facts, 10 new sources. Pip Award year resolved (2009). Full biography: 1400 words, 13 sources, 9 sections. | 2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- fixed the malformed Sources header again (had drifted back to raw IDs since the 2026-02-19 fix). No facts, citations, or open questions dropped; status unchanged."
+      "notes": "E1 REVIEW (2026-02-19): Fixed header source IDs. All 7 checklist items PASS. RALPH R1: 26 new facts, 10 new sources. Pip Award year resolved (2009). Full biography: 1400 words, 13 sources, 9 sections. | 2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- fixed the malformed Sources header again (had drifted back to raw IDs since the 2026-02-19 fix). No facts, citations, or open questions dropped; status unchanged.",
+      "tags": {
+        "era": [
+          "1940s",
+          "1960s",
+          "1970s",
+          "1980s",
+          "1990s",
+          "2000s",
+          "2010s"
+        ],
+        "region": "not-applicable",
+        "location_refs": [],
+        "person_type": "alumnus",
+        "topics": [
+          "people",
+          "notable_alumni",
+          "documents",
+          "directors",
+          "operations",
+          "traditions",
+          "archives"
+        ],
+        "is_hub": false
+      }
     },
     {
       "article_id": "pip-alumni-award",
@@ -2828,7 +3337,34 @@
       ],
       "file_id": null,
       "word_count": 2523,
-      "notes": "v4.75: Pip Caddell full genealogy (The Peerage). James Caddell biography expanded (CMAT memorial). Andrew Caddell career timeline. Tara Newell post-2005 career. Pip Award 2019-2023 exhausted. OQ3 resolved. | 2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- fixed the malformed Sources header (was listing raw source IDs). Body prose was already clean. No facts, citations, or open questions dropped; status unchanged."
+      "notes": "v4.75: Pip Caddell full genealogy (The Peerage). James Caddell biography expanded (CMAT memorial). Andrew Caddell career timeline. Tara Newell post-2005 career. Pip Award 2019-2023 exhausted. OQ3 resolved. | 2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- fixed the malformed Sources header (was listing raw source IDs). Body prose was already clean. No facts, citations, or open questions dropped; status unchanged.",
+      "tags": {
+        "era": [
+          "1920s",
+          "1930s",
+          "1940s",
+          "1960s",
+          "1970s",
+          "1990s",
+          "2000s",
+          "2010s",
+          "2020s"
+        ],
+        "region": "not-applicable",
+        "location_refs": [],
+        "person_type": null,
+        "topics": [
+          "people",
+          "biography",
+          "notable_alumni",
+          "traditions",
+          "notable-people",
+          "administration",
+          "events",
+          "sources"
+        ],
+        "is_hub": true
+      }
     },
     {
       "article_id": "j-w-mcconnell",
@@ -2927,7 +3463,29 @@
       ],
       "file_id": null,
       "word_count": 1825,
-      "notes": "RALPH R1 (2026-02-26): Lake Wilson naming claim CANNOT BE VERIFIED — plausible but no documentary evidence. McConnell family tree confirmed. YMCA connection 1901-1963 documented. 10 new KB facts (f_0516-f_0525). 1 new source (Fong biography). Research SATURATED for online sources. | 2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- fixed the malformed Sources header (was listing raw source IDs). No facts, citations, or open questions dropped; status unchanged."
+      "notes": "RALPH R1 (2026-02-26): Lake Wilson naming claim CANNOT BE VERIFIED — plausible but no documentary evidence. McConnell family tree confirmed. YMCA connection 1901-1963 documented. 10 new KB facts (f_0516-f_0525). 1 new source (Fong biography). Research SATURATED for online sources. | 2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- fixed the malformed Sources header (was listing raw source IDs). No facts, citations, or open questions dropped; status unchanged.",
+      "tags": {
+        "era": [
+          "1900s",
+          "1930s",
+          "1970s",
+          "2000s"
+        ],
+        "region": "montreal",
+        "location_refs": [],
+        "person_type": "family",
+        "topics": [
+          "people",
+          "geography",
+          "places",
+          "meta",
+          "operations",
+          "sources_archives",
+          "sources",
+          "inter-camp"
+        ],
+        "is_hub": false
+      }
     },
     {
       "article_id": "lake-wilson",
@@ -3007,7 +3565,22 @@
       ],
       "file_id": null,
       "word_count": 1215,
-      "notes": "RALPH R1 (2026-02-26): Two parallel research agents. First reference 1923 (Gas Bag). Dam ceremony since 1935. Two separate Lac Wilsons in region (camp vs Saint-Adolphe-d'Howard). Naming origin UNKNOWN. Added Lac Desjardins oral history (f_1206) 2026-06-20. | 2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- fixed the malformed Sources header, removed a minor dated-label sediment marker from prose. No facts, citations, or open questions dropped; status unchanged."
+      "notes": "RALPH R1 (2026-02-26): Two parallel research agents. First reference 1923 (Gas Bag). Dam ceremony since 1935. Two separate Lac Wilsons in region (camp vs Saint-Adolphe-d'Howard). Naming origin UNKNOWN. Added Lac Desjardins oral history (f_1206) 2026-06-20. | 2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- fixed the malformed Sources header, removed a minor dated-label sediment marker from prose. No facts, citations, or open questions dropped; status unchanged.",
+      "tags": {
+        "era": [
+          "1920s"
+        ],
+        "region": "kanawana-site",
+        "location_refs": [],
+        "person_type": null,
+        "topics": [
+          "geography",
+          "places",
+          "facilities",
+          "people"
+        ],
+        "is_hub": false
+      }
     },
     {
       "article_id": "myths-and-legends",
@@ -3177,7 +3750,37 @@
       ],
       "file_id": null,
       "word_count": 4733,
-      "notes": "R1-R2 RALPH completed 2026-02-27. Four myths documented (oldest camp, name meaning, Indian heritage, founding narrative). Legends: haunted house (1935), Cropsey archetype, Anson Minor (Canadian parallel), Chopsy (Kanawana-local). Quebec folklore context. Fireside Canada podcast as source. 17 KB facts cited. 19 sources. Chopsy needs oral history. | 2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- trimmed the header's dated parenthetical, moved the embedded 'Update (2026-07-10)' and 'Correction (2026-07-10)' paragraphs into a new Research Notes > Revision History section (article had none before). No facts, citations, or open questions dropped; status unchanged."
+      "notes": "R1-R2 RALPH completed 2026-02-27. Four myths documented (oldest camp, name meaning, Indian heritage, founding narrative). Legends: haunted house (1935), Cropsey archetype, Anson Minor (Canadian parallel), Chopsy (Kanawana-local). Quebec folklore context. Fireside Canada podcast as source. 17 KB facts cited. 19 sources. Chopsy needs oral history. | 2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- trimmed the header's dated parenthetical, moved the embedded 'Update (2026-07-10)' and 'Correction (2026-07-10)' paragraphs into a new Research Notes > Revision History section (article had none before). No facts, citations, or open questions dropped; status unchanged.",
+      "tags": {
+        "era": [
+          "1760s",
+          "1890s",
+          "1910s",
+          "1920s",
+          "1930s",
+          "1940s",
+          "1950s",
+          "1960s",
+          "1980s",
+          "2020s"
+        ],
+        "region": "kanawana-site",
+        "location_refs": [
+          "the-kanawana-site"
+        ],
+        "person_type": null,
+        "topics": [
+          "legends",
+          "places",
+          "camping_movement",
+          "camp_culture",
+          "traditions",
+          "facilities",
+          "name_origin",
+          "programs"
+        ],
+        "is_hub": false
+      }
     },
     {
       "article_id": "camp-songs-cheers",
@@ -3299,7 +3902,34 @@
       ],
       "file_id": null,
       "word_count": 3094,
-      "notes": "R1 RALPH completed 2026-02-27. 14 new KB facts. 23 KB facts total. 15 sources. Key findings: Marching Song traced to Alabama Jubilee (1915), lost verses found at Concordia 2006; full 1922 Yo Triumphy cheer; 1923 Gas Bag original songs; 1935 musicale; 1938 choir by Leshley; Kerr song on CD P145/SR0001 (4:30). Blocked on: oral history for section cheers/Grace/campfire repertoire; Concordia archives for song books 1925-1945. | 2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- fixed the malformed Sources header, moved the 'Correction (2026-07-09)' paragraph into a new Research Notes > Revision History section. No facts, citations, or open questions dropped; status unchanged."
+      "notes": "R1 RALPH completed 2026-02-27. 14 new KB facts. 23 KB facts total. 15 sources. Key findings: Marching Song traced to Alabama Jubilee (1915), lost verses found at Concordia 2006; full 1922 Yo Triumphy cheer; 1923 Gas Bag original songs; 1935 musicale; 1938 choir by Leshley; Kerr song on CD P145/SR0001 (4:30). Blocked on: oral history for section cheers/Grace/campfire repertoire; Concordia archives for song books 1925-1945. | 2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- fixed the malformed Sources header, moved the 'Correction (2026-07-09)' paragraph into a new Research Notes > Revision History section. No facts, citations, or open questions dropped; status unchanged.",
+      "tags": {
+        "era": [
+          "1910s",
+          "1920s",
+          "1930s",
+          "1940s",
+          "1960s",
+          "2000s",
+          "2020s"
+        ],
+        "region": "kanawana-site",
+        "location_refs": [
+          "the-kanawana-site"
+        ],
+        "person_type": null,
+        "topics": [
+          "traditions",
+          "songs",
+          "songs_cheers",
+          "programs",
+          "sources",
+          "centennial",
+          "people",
+          "camp_culture"
+        ],
+        "is_hub": false
+      }
     },
     {
       "article_id": "places-and-locations",
@@ -3445,7 +4075,34 @@
       ],
       "file_id": null,
       "word_count": 5785,
-      "notes": "Stub created 2026-02-27. Comprehensive inventory of named places, buildings, structures (current and historical). Includes Grand Portage and Longhouse from oral tradition (no written documentation found). Superintendent's house fire May 2023. Infirmary (5 beds), 30ft climbing wall, workshop pavilion added from web research. 13 open questions."
+      "notes": "Stub created 2026-02-27. Comprehensive inventory of named places, buildings, structures (current and historical). Includes Grand Portage and Longhouse from oral tradition (no written documentation found). Superintendent's house fire May 2023. Infirmary (5 beds), 30ft climbing wall, workshop pavilion added from web research. 13 open questions.",
+      "tags": {
+        "era": [
+          "1890s",
+          "1900s",
+          "1910s",
+          "1920s",
+          "1940s",
+          "1950s",
+          "1960s",
+          "2000s",
+          "2020s"
+        ],
+        "region": "kanawana-site",
+        "location_refs": [],
+        "person_type": null,
+        "topics": [
+          "places",
+          "facilities",
+          "council_ring",
+          "infrastructure",
+          "administration",
+          "camp_culture",
+          "buildings",
+          "people"
+        ],
+        "is_hub": true
+      }
     },
     {
       "article_id": "hedley-dimock",
@@ -3567,7 +4224,36 @@
       ],
       "file_id": null,
       "word_count": 2472,
-      "notes": "E1 REVIEW (2026-03-02): 10 fixes applied. Father-son inference reframed as neutral hypothesis. Earliest publication contradiction resolved. Kamp→Camp standardized. Hendry relocated. Unsourced synthesis removed. All 7 criteria PASS. | 2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- fixed the malformed Sources header. No facts, citations, or open questions dropped; status unchanged."
+      "notes": "E1 REVIEW (2026-03-02): 10 fixes applied. Father-son inference reframed as neutral hypothesis. Earliest publication contradiction resolved. Kamp→Camp standardized. Hendry relocated. Unsourced synthesis removed. All 7 criteria PASS. | 2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- fixed the malformed Sources header. No facts, citations, or open questions dropped; status unchanged.",
+      "tags": {
+        "era": [
+          "1890s",
+          "1910s",
+          "1920s",
+          "1930s",
+          "1940s",
+          "1950s",
+          "1960s",
+          "1970s",
+          "1980s",
+          "2010s",
+          "2020s"
+        ],
+        "region": "montreal",
+        "location_refs": [],
+        "person_type": "staff",
+        "topics": [
+          "people",
+          "publications",
+          "camping_movement",
+          "ymca_montreal",
+          "directors",
+          "awards",
+          "academic",
+          "institutional"
+        ],
+        "is_hub": false
+      }
     },
     {
       "article_id": "camp-weredale",
@@ -3659,7 +4345,29 @@
       ],
       "file_id": null,
       "word_count": 1395,
-      "notes": "2026-07-11: Workstream A Wave 1 prose-sediment REVIEW pass (final article of 8) -- fixed a malformed header (the 'Sources:' field was listing raw source IDs instead of a count), moved the embedded 'Correction (2026-07-10)' paragraph into a new Research Notes > Revision History section, and fixed a real inconsistency the sediment had introduced: the Overview still described the two-site plan as 'ultimately abandoned' even though the article's own later correction established a signed 1979 lease and joint files through 1981-82 -- rewritten to match. Corrected open_questions count (was stale at 5, actual is 6, counting sub-item 2a). No facts, citations, or open questions dropped; status unchanged."
+      "notes": "2026-07-11: Workstream A Wave 1 prose-sediment REVIEW pass (final article of 8) -- fixed a malformed header (the 'Sources:' field was listing raw source IDs instead of a count), moved the embedded 'Correction (2026-07-10)' paragraph into a new Research Notes > Revision History section, and fixed a real inconsistency the sediment had introduced: the Overview still described the two-site plan as 'ultimately abandoned' even though the article's own later correction established a signed 1979 lease and joint files through 1981-82 -- rewritten to match. Corrected open_questions count (was stale at 5, actual is 6, counting sub-item 2a). No facts, citations, or open questions dropped; status unchanged.",
+      "tags": {
+        "era": [
+          "1870s",
+          "1930s",
+          "1960s",
+          "1970s",
+          "1980s"
+        ],
+        "region": "laurentians",
+        "location_refs": [],
+        "person_type": null,
+        "topics": [
+          "inter-camp",
+          "related_camps",
+          "context",
+          "camping_movement",
+          "facilities",
+          "people",
+          "sources"
+        ],
+        "is_hub": false
+      }
     },
     {
       "article_id": "a-ross-seaman",
@@ -3763,7 +4471,25 @@
       ],
       "file_id": null,
       "word_count": 1027,
-      "notes": "2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- fixed the malformed Sources header. No facts, citations, or open questions dropped; status unchanged."
+      "notes": "2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- fixed the malformed Sources header. No facts, citations, or open questions dropped; status unchanged.",
+      "tags": {
+        "era": [
+          "1960s",
+          "1970s",
+          "1980s"
+        ],
+        "region": "montreal",
+        "location_refs": [],
+        "person_type": "director",
+        "topics": [
+          "people",
+          "directors",
+          "chronology",
+          "programs",
+          "traditions"
+        ],
+        "is_hub": false
+      }
     },
     {
       "article_id": "taylor-statten",
@@ -3864,7 +4590,31 @@
       ],
       "file_id": null,
       "word_count": 1572,
-      "notes": "2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- fixed the malformed Sources header, moved the c_020 editorial-resolution narrative into a new Research Notes > Revision History section. No facts, citations, or open questions dropped; status unchanged."
+      "notes": "2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- fixed the malformed Sources header, moved the c_020 editorial-resolution narrative into a new Research Notes > Revision History section. No facts, citations, or open questions dropped; status unchanged.",
+      "tags": {
+        "era": [
+          "1880s",
+          "1900s",
+          "1920s",
+          "1930s",
+          "1940s",
+          "1960s"
+        ],
+        "region": "canada-other",
+        "location_refs": [],
+        "person_type": "founder-era-figure",
+        "topics": [
+          "camping_movement",
+          "people",
+          "centennial",
+          "publications",
+          "inter-camp",
+          "canadian_camping",
+          "material_culture",
+          "organizations"
+        ],
+        "is_hub": false
+      }
     },
     {
       "article_id": "rh-hanagan",
@@ -3930,7 +4680,23 @@
       ],
       "file_id": null,
       "word_count": 764,
-      "notes": "2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- fixed the malformed Sources header. No facts, citations, or open questions dropped; status unchanged."
+      "notes": "2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- fixed the malformed Sources header. No facts, citations, or open questions dropped; status unchanged.",
+      "tags": {
+        "era": [
+          "1940s"
+        ],
+        "region": "montreal",
+        "location_refs": [],
+        "person_type": "director",
+        "topics": [
+          "directors",
+          "staff",
+          "people",
+          "events",
+          "camping_movement"
+        ],
+        "is_hub": false
+      }
     },
     {
       "article_id": "camp-ouareau",
@@ -4035,7 +4801,27 @@
       ],
       "file_id": null,
       "word_count": 918,
-      "notes": "2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- fixed a malformed header (Sources field was listing raw source IDs, and a duplicate 'Last Updated' line existed), moved the c_002 editorial-resolution parenthetical into a new Research Notes > Revision History section. No facts, citations, or open questions dropped; status unchanged."
+      "notes": "2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- fixed a malformed header (Sources field was listing raw source IDs, and a duplicate 'Last Updated' line existed), moved the c_002 editorial-resolution parenthetical into a new Research Notes > Revision History section. No facts, citations, or open questions dropped; status unchanged.",
+      "tags": {
+        "era": [
+          "1910s",
+          "1920s",
+          "1940s",
+          "1950s",
+          "1970s",
+          "1990s",
+          "2010s",
+          "2020s"
+        ],
+        "region": "laurentians",
+        "location_refs": [],
+        "person_type": null,
+        "topics": [
+          "inter-camp",
+          "context"
+        ],
+        "is_hub": false
+      }
     },
     {
       "article_id": "camp-perrot",
@@ -4107,7 +4893,27 @@
       ],
       "file_id": null,
       "word_count": 1662,
-      "notes": "RALPH R1 complete (2026-06-21): 30+ web searches returned zero new facts. Article meets draft criteria (Overview summary, 3 content sections, 3 sources). All remaining open questions require physical Concordia Archives access (P0145/12G). BAnQ newspaper facts (f_1326-f_1339) checked — none mention Camp Perrot. Advanced stub→draft. | 2026-07-11: Workstream A Wave 1 prose-sediment REVIEW pass -- removed duplicate old-style HTML-comment header, moved the '12G sub-series' correction and the Batch 7 research-pass summary into a new Research Notes > Revision History section (this article previously had no Research Notes section). No facts, citations, or open questions dropped; status unchanged."
+      "notes": "RALPH R1 complete (2026-06-21): 30+ web searches returned zero new facts. Article meets draft criteria (Overview summary, 3 content sections, 3 sources). All remaining open questions require physical Concordia Archives access (P0145/12G). BAnQ newspaper facts (f_1326-f_1339) checked — none mention Camp Perrot. Advanced stub→draft. | 2026-07-11: Workstream A Wave 1 prose-sediment REVIEW pass -- removed duplicate old-style HTML-comment header, moved the '12G sub-series' correction and the Batch 7 research-pass summary into a new Research Notes > Revision History section (this article previously had no Research Notes section). No facts, citations, or open questions dropped; status unchanged.",
+      "tags": {
+        "era": [
+          "1940s",
+          "1950s"
+        ],
+        "region": "laurentians",
+        "location_refs": [],
+        "person_type": null,
+        "topics": [
+          "camping_movement",
+          "sources_archives",
+          "programs",
+          "meta",
+          "canoe_trips",
+          "inter-camp",
+          "administration",
+          "places"
+        ],
+        "is_hub": false
+      }
     },
     {
       "article_id": "camp-oolahwan",
@@ -4243,7 +5049,33 @@
       ],
       "file_id": null,
       "word_count": 2085,
-      "notes": "2026-07-11: Workstream A Wave 1 prose-sediment REVIEW pass -- removed duplicate old-style HTML-comment header, moved the c_018 and c_002 editorial-resolution narratives out of prose into a new visible Revision History section, trimmed the header's dated parenthetical. No facts, citations, or open questions dropped; status unchanged."
+      "notes": "2026-07-11: Workstream A Wave 1 prose-sediment REVIEW pass -- removed duplicate old-style HTML-comment header, moved the c_018 and c_002 editorial-resolution narratives out of prose into a new visible Revision History section, trimmed the header's dated parenthetical. No facts, citations, or open questions dropped; status unchanged.",
+      "tags": {
+        "era": [
+          "1910s",
+          "1920s",
+          "1940s",
+          "1960s",
+          "1970s",
+          "1990s",
+          "2000s",
+          "2010s"
+        ],
+        "region": "laurentians",
+        "location_refs": [],
+        "person_type": null,
+        "topics": [
+          "inter-camp",
+          "context",
+          "places",
+          "people",
+          "chronology",
+          "documents",
+          "camping_movement",
+          "programs"
+        ],
+        "is_hub": false
+      }
     },
     {
       "article_id": "dave-twynam",
@@ -4342,7 +5174,28 @@
       ],
       "file_id": null,
       "word_count": 1365,
-      "notes": "2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- trimmed the header's dated parenthetical, and fixed staleness: this article still described conflict c_007 as unresolved when it had actually been resolved (1979) back in Campaign 25 -- updated the Directorship section and Open Question 1 to state the resolved understanding, added a Research Notes > Revision History section. No facts, citations, or open questions dropped; status unchanged."
+      "notes": "2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- trimmed the header's dated parenthetical, and fixed staleness: this article still described conflict c_007 as unresolved when it had actually been resolved (1979) back in Campaign 25 -- updated the Directorship section and Open Question 1 to state the resolved understanding, added a Research Notes > Revision History section. No facts, citations, or open questions dropped; status unchanged.",
+      "tags": {
+        "era": [
+          "1930s",
+          "1960s",
+          "1970s",
+          "1980s",
+          "2000s",
+          "2010s",
+          "2020s"
+        ],
+        "region": "not-applicable",
+        "location_refs": [],
+        "person_type": "director",
+        "topics": [
+          "people",
+          "staff",
+          "directors",
+          "operations"
+        ],
+        "is_hub": false
+      }
     },
     {
       "article_id": "voyageur-canoe-pageant",
@@ -4431,7 +5284,20 @@
         "taylor-statten"
       ],
       "file_id": null,
-      "word_count": 1579
+      "word_count": 1579,
+      "tags": {
+        "era": [
+          "1960s"
+        ],
+        "region": "not-applicable",
+        "location_refs": [],
+        "person_type": null,
+        "topics": [
+          "centennial",
+          "chronology"
+        ],
+        "is_hub": false
+      }
     },
     {
       "article_id": "edgar-smee",
@@ -4506,7 +5372,25 @@
         "section-names"
       ],
       "file_id": null,
-      "word_count": 1220
+      "word_count": 1220,
+      "tags": {
+        "era": [
+          "1930s",
+          "1940s",
+          "1960s",
+          "1980s",
+          "2000s"
+        ],
+        "region": "not-applicable",
+        "location_refs": [],
+        "person_type": "staff",
+        "topics": [
+          "staff",
+          "people",
+          "events"
+        ],
+        "is_hub": false
+      }
     },
     {
       "article_id": "terry-mosher",
@@ -4595,7 +5479,26 @@
         "directors-index"
       ],
       "file_id": null,
-      "word_count": 1122
+      "word_count": 1122,
+      "tags": {
+        "era": [
+          "1950s",
+          "1960s",
+          "1970s",
+          "1990s",
+          "2000s",
+          "2010s",
+          "2020s"
+        ],
+        "region": "not-applicable",
+        "location_refs": [],
+        "person_type": "alumnus",
+        "topics": [
+          "people",
+          "notable_alumni"
+        ],
+        "is_hub": false
+      }
     },
     {
       "article_id": "sean-day",
@@ -4704,7 +5607,24 @@
       ],
       "file_id": null,
       "word_count": 1848,
-      "notes": "2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- trimmed the header's dated parenthetical, moved the c_017 editorial-resolution narrative into a new Research Notes > Revision History section, fixed two Sources entries (13, 14) that still labeled the conflict 'unresolved', and fixed Open Questions numbering (was out of sequence: 1, 5, 2, 3, 4). No facts, citations, or open questions dropped; status unchanged."
+      "notes": "2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- trimmed the header's dated parenthetical, moved the c_017 editorial-resolution narrative into a new Research Notes > Revision History section, fixed two Sources entries (13, 14) that still labeled the conflict 'unresolved', and fixed Open Questions numbering (was out of sequence: 1, 5, 2, 3, 4). No facts, citations, or open questions dropped; status unchanged.",
+      "tags": {
+        "era": [
+          "2000s",
+          "2020s"
+        ],
+        "region": "not-applicable",
+        "location_refs": [],
+        "person_type": "director",
+        "topics": [
+          "directors",
+          "operations",
+          "people",
+          "facilities",
+          "staff"
+        ],
+        "is_hub": false
+      }
     },
     {
       "article_id": "ymca-quebec-history",
@@ -4789,7 +5709,26 @@
         "canadian-camping-movement"
       ],
       "file_id": null,
-      "word_count": 1551
+      "word_count": 1551,
+      "tags": {
+        "era": [
+          "1850s",
+          "1910s",
+          "1970s",
+          "2000s",
+          "2020s"
+        ],
+        "region": "not-applicable",
+        "location_refs": [],
+        "person_type": null,
+        "topics": [
+          "institutional",
+          "context",
+          "administration",
+          "facilities"
+        ],
+        "is_hub": false
+      }
     },
     {
       "article_id": "notable-alumni",
@@ -4912,7 +5851,34 @@
         "traditions-and-culture"
       ],
       "file_id": null,
-      "word_count": 2990
+      "word_count": 2990,
+      "tags": {
+        "era": [
+          "1910s",
+          "1930s",
+          "1940s",
+          "1970s",
+          "1980s",
+          "1990s",
+          "2000s",
+          "2010s",
+          "2020s"
+        ],
+        "region": "not-applicable",
+        "location_refs": [],
+        "person_type": null,
+        "topics": [
+          "people",
+          "notable_alumni",
+          "traditions",
+          "staff",
+          "programs",
+          "administration",
+          "sources",
+          "meta"
+        ],
+        "is_hub": true
+      }
     },
     {
       "article_id": "environmental-history",
@@ -5039,7 +6005,30 @@
       ],
       "file_id": null,
       "word_count": 2773,
-      "notes": "2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- trimmed the header's dated parenthetical; fixed a genuine citation-numbering bug where the Sources list had two entries each numbered '17.' and '22.' (disambiguated as 17b./22b., three inline markers corrected to point at the right one). No facts, source content, or open questions dropped; status unchanged."
+      "notes": "2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- trimmed the header's dated parenthetical; fixed a genuine citation-numbering bug where the Sources list had two entries each numbered '17.' and '22.' (disambiguated as 17b./22b., three inline markers corrected to point at the right one). No facts, source content, or open questions dropped; status unchanged.",
+      "tags": {
+        "era": [
+          "2000s",
+          "2010s",
+          "2020s"
+        ],
+        "region": "kanawana-site",
+        "location_refs": [
+          "the-kanawana-site"
+        ],
+        "person_type": null,
+        "topics": [
+          "programs",
+          "environment",
+          "people",
+          "infrastructure",
+          "facilities",
+          "environmental",
+          "administration",
+          "media"
+        ],
+        "is_hub": false
+      }
     },
     {
       "article_id": "page-family",
@@ -5140,7 +6129,29 @@
       ],
       "file_id": null,
       "word_count": 1915,
-      "notes": "2026-07-11: Workstream A Wave 1 prose-sediment REVIEW pass -- removed duplicate old-style HTML-comment header (already had the new standardized header alongside it), moved the embedded 'Correction (2026-07-09)' paragraph into a new visible Revision History section, rewrote surrounding prose to state current understanding only. No facts, citations, or open questions dropped; status unchanged."
+      "notes": "2026-07-11: Workstream A Wave 1 prose-sediment REVIEW pass -- removed duplicate old-style HTML-comment header (already had the new standardized header alongside it), moved the embedded 'Correction (2026-07-09)' paragraph into a new visible Revision History section, rewrote surrounding prose to state current understanding only. No facts, citations, or open questions dropped; status unchanged.",
+      "tags": {
+        "era": [
+          "1820s",
+          "1850s",
+          "1890s",
+          "1900s",
+          "1910s",
+          "1920s",
+          "1950s",
+          "1960s"
+        ],
+        "region": "laurentians",
+        "location_refs": [],
+        "person_type": "family",
+        "topics": [
+          "places",
+          "people",
+          "founding",
+          "geography"
+        ],
+        "is_hub": false
+      }
     },
     {
       "article_id": "centennial-1994",
@@ -5244,7 +6255,31 @@
       ],
       "file_id": null,
       "word_count": 1453,
-      "notes": "2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- removed a duplicate old-style HTML-comment header, softened two dated bold-label markers in prose ('Resolved 2026-07-09', 'Important disambiguation (2026-07-09)') into plain encyclopedic prose since they weren't corrections requiring a Revision History move. No facts, citations, or open questions dropped; status unchanged."
+      "notes": "2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- removed a duplicate old-style HTML-comment header, softened two dated bold-label markers in prose ('Resolved 2026-07-09', 'Important disambiguation (2026-07-09)') into plain encyclopedic prose since they weren't corrections requiring a Revision History move. No facts, citations, or open questions dropped; status unchanged.",
+      "tags": {
+        "era": [
+          "1980s",
+          "1990s",
+          "2010s",
+          "2020s"
+        ],
+        "region": "kanawana-site",
+        "location_refs": [
+          "the-kanawana-site"
+        ],
+        "person_type": null,
+        "topics": [
+          "people",
+          "chronology",
+          "documents",
+          "brochures",
+          "events",
+          "institutional",
+          "sources_and_archives",
+          "programs"
+        ],
+        "is_hub": false
+      }
     },
     {
       "article_id": "quebec-camp-landscape",
@@ -5352,7 +6387,30 @@
       ],
       "file_id": null,
       "word_count": 2170,
-      "notes": "2026-07-11: Workstream A Wave 1 prose-sediment REVIEW pass -- folded the former 'R3 Verification Notes'/'E1 Review Notes' H3 sub-headings into a proper '## Research Notes' section (HTML-comment process log), trimmed the header's dated parenthetical. This article's main body had no embedded prose sediment to begin with. No facts, citations, or open questions changed; status unchanged."
+      "notes": "2026-07-11: Workstream A Wave 1 prose-sediment REVIEW pass -- folded the former 'R3 Verification Notes'/'E1 Review Notes' H3 sub-headings into a proper '## Research Notes' section (HTML-comment process log), trimmed the header's dated parenthetical. This article's main body had no embedded prose sediment to begin with. No facts, citations, or open questions changed; status unchanged.",
+      "tags": {
+        "era": [
+          "1910s",
+          "1920s",
+          "1940s",
+          "1950s",
+          "1970s",
+          "2020s"
+        ],
+        "region": "laurentians",
+        "location_refs": [],
+        "person_type": null,
+        "topics": [
+          "inter-camp",
+          "programs",
+          "traditions",
+          "coeducation",
+          "places",
+          "people",
+          "context"
+        ],
+        "is_hub": true
+      }
     },
     {
       "article_id": "kanawana-in-media",
@@ -5438,7 +6496,27 @@
         "terry-mosher"
       ],
       "file_id": null,
-      "word_count": 1466
+      "word_count": 1466,
+      "tags": {
+        "era": [
+          "1960s",
+          "1990s",
+          "2000s",
+          "2010s"
+        ],
+        "region": "not-applicable",
+        "location_refs": [],
+        "person_type": null,
+        "topics": [
+          "media",
+          "documents",
+          "notable-people",
+          "media_and_publications",
+          "sources_and_archives",
+          "people"
+        ],
+        "is_hub": false
+      }
     },
     {
       "article_id": "camp-becsies",
@@ -5510,7 +6588,28 @@
       ],
       "file_id": null,
       "word_count": 1634,
-      "notes": "2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- removed a duplicate old-style HTML-comment header, softened a dated bold-label marker in prose. No facts, citations, or open questions dropped; status unchanged."
+      "notes": "2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- removed a duplicate old-style HTML-comment header, softened a dated bold-label marker in prose. No facts, citations, or open questions dropped; status unchanged.",
+      "tags": {
+        "era": [
+          "1920s",
+          "1930s",
+          "1940s",
+          "1970s"
+        ],
+        "region": "laurentians",
+        "location_refs": [],
+        "person_type": null,
+        "topics": [
+          "places",
+          "geography",
+          "camps",
+          "institutional",
+          "inter-camp",
+          "sources_archives",
+          "people"
+        ],
+        "is_hub": false
+      }
     },
     {
       "article_id": "harold-potter",
@@ -5575,7 +6674,22 @@
       ],
       "file_id": null,
       "word_count": 1548,
-      "notes": "2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass (FINAL article of Wave 2) -- removed a duplicate old-style HTML-comment header, softened a dated bold-label marker in prose. No facts, citations, or open questions dropped; status unchanged."
+      "notes": "2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass (FINAL article of Wave 2) -- removed a duplicate old-style HTML-comment header, softened a dated bold-label marker in prose. No facts, citations, or open questions dropped; status unchanged.",
+      "tags": {
+        "era": [
+          "1940s",
+          "1950s",
+          "1960s",
+          "2000s"
+        ],
+        "region": "montreal",
+        "location_refs": [],
+        "person_type": "staff",
+        "topics": [
+          "people"
+        ],
+        "is_hub": false
+      }
     },
     {
       "article_id": "sgw-concordia-connection",
@@ -5641,7 +6755,29 @@
       ],
       "file_id": null,
       "word_count": 983,
-      "notes": "2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- removed a duplicate old-style HTML-comment header, corrected the Sources count in the header (was 8, actual is 9). No facts, citations, or open questions dropped; status unchanged."
+      "notes": "2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- removed a duplicate old-style HTML-comment header, corrected the Sources count in the header (was 8, actual is 9). No facts, citations, or open questions dropped; status unchanged.",
+      "tags": {
+        "era": [
+          "1930s",
+          "1940s",
+          "1960s",
+          "1970s",
+          "2020s"
+        ],
+        "region": "montreal",
+        "location_refs": [],
+        "person_type": null,
+        "topics": [
+          "people",
+          "meta",
+          "ymca_montreal",
+          "institutional",
+          "sources",
+          "sources_archives",
+          "archives"
+        ],
+        "is_hub": false
+      }
     },
     {
       "article_id": "winter-programming",
@@ -5708,7 +6844,29 @@
         "places-and-locations"
       ],
       "file_id": null,
-      "word_count": 952
+      "word_count": 952,
+      "tags": {
+        "era": [
+          "1970s",
+          "1980s",
+          "1990s",
+          "2020s"
+        ],
+        "region": "not-applicable",
+        "location_refs": [],
+        "person_type": null,
+        "topics": [
+          "programs",
+          "facilities",
+          "people",
+          "staff",
+          "administration",
+          "operations",
+          "infrastructure",
+          "environmental"
+        ],
+        "is_hub": false
+      }
     },
     {
       "article_id": "indigenous-names-and-land",
@@ -5763,7 +6921,24 @@
         "the-kanawana-site"
       ],
       "file_id": null,
-      "word_count": 550
+      "word_count": 550,
+      "tags": {
+        "era": [],
+        "region": "not-applicable",
+        "location_refs": [],
+        "person_type": null,
+        "topics": [
+          "name_origin",
+          "traditions",
+          "places",
+          "context",
+          "camping_movement",
+          "brochures",
+          "founding",
+          "naming"
+        ],
+        "is_hub": false
+      }
     },
     {
       "article_id": "joanna-hoad",
@@ -5809,7 +6984,21 @@
         "directors-index"
       ],
       "file_id": null,
-      "word_count": 970
+      "word_count": 970,
+      "tags": {
+        "era": [
+          "1990s",
+          "2000s"
+        ],
+        "region": "not-applicable",
+        "location_refs": [],
+        "person_type": "director",
+        "topics": [
+          "people",
+          "directors"
+        ],
+        "is_hub": false
+      }
     },
     {
       "article_id": "rob-braide",
@@ -5856,7 +7045,17 @@
       ],
       "file_id": null,
       "word_count": 1099,
-      "notes": "2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- removed a duplicate old-style HTML-comment header. No facts, citations, or open questions dropped; status unchanged (draft)."
+      "notes": "2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- removed a duplicate old-style HTML-comment header. No facts, citations, or open questions dropped; status unchanged (draft).",
+      "tags": {
+        "era": [],
+        "region": "not-applicable",
+        "location_refs": [],
+        "person_type": "alumnus",
+        "topics": [
+          "people"
+        ],
+        "is_hub": false
+      }
     }
   ]
 }
