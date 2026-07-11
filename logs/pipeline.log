@@ -2283,3 +2283,8 @@ HYPOTHESIZE — Remaining productive research requires:
 [2026-07-11] Campaign 47 (Workstream A, Wave 2, article 5): prose-sediment REVIEW pass on myths-and-legends.md
   - Trimmed header's dated parenthetical. Moved the embedded "Update (2026-07-10)" and "Correction (2026-07-10)" paragraphs (about the 38-issue Green Triangle discovery and the Haunted House/ghost-story content) into a new Research Notes > Revision History section (article had none before).
   - No facts, sources, citations, or open questions dropped. Status unchanged (E1-reviewed). wiki/articles.json updated.
+
+[2026-07-11] Campaign 48 (Workstream A, Wave 2, articles 6-7): prose-sediment REVIEW pass on cushing-family.md and dave-twynam.md
+  - cushing-family.md: removed the old-style HTML-comment header, moved the c_019 contradiction/editorial-resolution narrative into a new Research Notes > Revision History section.
+  - dave-twynam.md: trimmed the header's dated parenthetical; caught and fixed staleness -- the article still described conflict c_007 (Twynam's directorship-correspondence date) as unresolved, when directors-index.md's own Revision History already documents it resolved to 1979 back in Campaign 25. Updated the Directorship section and Open Question 1 to match, added a Revision History entry.
+  - No facts, sources, citations, or open questions dropped on either article. Status unchanged (E1-reviewed) on both. wiki/articles.json updated.

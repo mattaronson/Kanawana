@@ -1940,6 +1940,12 @@
           "at": "2026-07-10T08:00:00Z",
           "by": "auto",
           "task": "REVIEW"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-07-11T00:00:00Z",
+          "by": "auto",
+          "task": "REVIEW"
         }
       ],
       "ralph_loops_completed": 4,
@@ -2017,7 +2023,7 @@
       ],
       "file_id": null,
       "word_count": 2585,
-      "notes": "E1 REVIEW (2026-02-19): Fixed Frederick row in Eight Sons table (birthplace clarified in Occupation column). All 7 checklist items satisfied. Advanced R3-verified → E1-reviewed."
+      "notes": "E1 REVIEW (2026-02-19): Fixed Frederick row in Eight Sons table (birthplace clarified in Occupation column). All 7 checklist items satisfied. Advanced R3-verified → E1-reviewed. | 2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- removed the old-style HTML-comment header, moved the c_019 contradiction/editorial-resolution narrative into a new Research Notes > Revision History section. No facts, citations, or open questions dropped; status unchanged."
     },
     {
       "article_id": "traditions-and-culture",
@@ -4160,6 +4166,12 @@
           "at": "2026-07-09T18:00:00Z",
           "by": "auto",
           "task": "RESEARCH"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-07-11T00:00:00Z",
+          "by": "auto",
+          "task": "REVIEW"
         }
       ],
       "ralph_loops_completed": 3,
@@ -4215,7 +4227,8 @@
         "canadian-camping-movement"
       ],
       "file_id": null,
-      "word_count": 1350
+      "word_count": 1365,
+      "notes": "2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- trimmed the header's dated parenthetical, and fixed staleness: this article still described conflict c_007 as unresolved when it had actually been resolved (1979) back in Campaign 25 -- updated the Directorship section and Open Question 1 to state the resolved understanding, added a Research Notes > Revision History section. No facts, citations, or open questions dropped; status unchanged."
     },
     {
       "article_id": "voyageur-canoe-pageant",

@@ -1,7 +1,7 @@
 # G. David Twynam
 
 *Status: E1-reviewed | Sources: 11*
-*Last Updated: 2026-07-09 (Batch 5 research pass: 1979 directorship date further corroborated via full raw Concordia 12B01 fetch; added a further Twynam & Johnston 2004 co-publication on the 1995 Nordic World Ski Championships)*
+*Last Updated: 2026-07-10*
 
 ## Overview
 
@@ -9,7 +9,7 @@ G. David Twynam (PhD) served as camp director of Kamp Kanawana circa 1979–1980
 
 ## Kanawana Directorship
 
-Correspondence from "Camp director Dave Twynam" is dated 1979 in the Concordia University Archives (sub-sub-series P0145/12B01), providing the primary documentary evidence for his tenure.^1 He is also referenced as "Dave" in the Ka-News 1980 publication, suggesting his directorship extended into at least the 1980 season.^5 Search-engine excerpts of the same finding aid retrieved in June 2026 instead date director correspondence to 1976; whether this reflects a second, earlier correspondence file or a dating discrepancy is unresolved (conflict c_007). If 1976 is correct, Twynam's tenure spans at least 1976–1980, immediately following Stuart McLean's assistant directorship (1974–75).^1
+Correspondence from "Camp director Dave Twynam" is dated 1979 in the Concordia University Archives (sub-sub-series P0145/12B01), providing the primary documentary evidence for his tenure.^1 He is also referenced as "Dave" in the Ka-News 1980 publication, suggesting his directorship extended into at least the 1980 season.^5 Search-engine excerpts of the same finding aid retrieved in June 2026 had instead dated director correspondence to 1976 (conflict c_007); a full raw fetch of the finding aid confirmed exactly one Twynam entry exists, dated 1979, with no separate 1976 entry anywhere in the list — resolving the conflict in favour of 1979.^1
 
 Twynam's directorship falls in the late 1970s, within the 1947–2003 gap in the camp's directorial record — a 57-year period for which few directors have been identified through web-accessible sources. His predecessor and successor in the role remain unconfirmed, though A. Ross Seaman (1959–1967) and Bruce Netherwood (date uncertain) are documented for adjacent periods.^1
 
@@ -55,7 +55,7 @@ Twynam holds a doctorate, as confirmed by the title "Dr." in multiple institutio
 
 ## Open Questions
 
-1. ~~[Critical] What were the exact years of Twynam's Kanawana directorship? Archival correspondence is dated 1979 (or possibly 1976 — see conflict c_007)~~ [Further corroborated 2026-07-09] A full raw fetch (not a search-snippet) of Concordia's 12B01 finding aid confirms exactly one Twynam entry exists — "Camp director Dave Twynam-correspondence. -- 1979" (Box HA2054) — with no separate 1976 entry anywhere in the list, further supporting 1979 as correct (conflict c_007). The Ka-News reference still extends his documented tenure to 1980.
+1. ~~[Critical] What were the exact years of Twynam's Kanawana directorship? Archival correspondence is dated 1979 (or possibly 1976 — see conflict c_007)~~ [Resolved 2026-07-09] A full raw fetch (not a search-snippet) of Concordia's 12B01 finding aid confirms exactly one Twynam entry exists — "Camp director Dave Twynam-correspondence. -- 1979" (Box HA2054) — with no separate 1976 entry anywhere in the list, resolving conflict c_007 in favour of 1979. The Ka-News reference still extends his documented tenure to 1980.
 2. [Important] What programs or changes did Twynam introduce at Kanawana during his tenure? (2026-06 search: nothing online; Ka-News 1976–1982 issues at Concordia are the likely source)
 3. [Important] Where did Twynam earn his PhD, and in what field? UBC affiliation on ResearchGate is suggestive but unconfirmed. (2026-06 search: no dissertation record found in open indexes; ProQuest Dissertations access would resolve this)
 4. [Nice-to-have] Did Twynam's later academic interest in outdoor recreation and tourism grow from his camp experience?
@@ -80,3 +80,10 @@ Twynam holds a doctorate, as confirmed by the title "Dr." in multiple institutio
 9. Mason, P., Johnston, M.E. & Twynam, G.D. "The World Wide Fund for Nature Arctic Tourism Project." *Journal of Sustainable Tourism* 8(4): 305–323, 2000.
 10. Heart of Gold Project website: VIU/Costa Rica sustainability collaboration.
 11. Twynam, G.D. & Johnston, M.E. (2004). Study of volunteer/resident perceptions, 1995 Nordic World Ski Championships, Thunder Bay [src_twynam_johnston_2004].
+
+## Research Notes
+
+### Revision History
+
+- **2026-07-09** — Conflict c_007 (Twynam's Concordia correspondence date: 1979 vs. a search-snippet-derived 1976) resolved in favour of 1979, per a full raw fetch of the 12B01 finding aid showing exactly one Twynam entry and no separate 1976 entry.
+

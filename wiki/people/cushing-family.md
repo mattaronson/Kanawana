@@ -1,12 +1,7 @@
 # The Cushing Family and YMCA Camping
 
-<!-- status: E1-reviewed -->
-<!-- confidence: medium -->
-<!-- last_updated: 2026-07-10 (conflict c_019 resolved editorially: Walter Edgar Cushing's identification as the 1943 manuscript's author is retained, on the judgment that "1943" is most likely an archival filing date rather than a composition date -- flagged explicitly as editorial judgment, not new evidence) -->
-<!-- last_updated: 2026-07-08 -->
-<!-- last_updated: 2026-07-09 (open-questions research pass: full-text read of the complete Cushing genealogy supplement found Walter Edgar Cushing died 1935, contradicting this article's identification of him as the 1943 "W.E. Cushing" manuscript author -- new conflict c_019, unresolved; also confirmed zero "Cushing"/"1892" mentions in the McMorris thesis and the genealogy supplement) -->
-<!-- last_editor: campaign-29-conflict-resolution, v68 -->
-<!-- ralph_loops: cushing-family-stub, cushing-family-R1, cushing-genealogy-extraction, p_126-genealogy-full-mine, c_012-resolution, c_019-discovery-2026-07-09 -->
+*Status: E1-reviewed | Sources: 12*
+*Last Updated: 2026-07-10*
 
 ## Summary
 
@@ -63,9 +58,9 @@ Thomas Cushing founded the Montreal Brewing Company in 1876, which produced Indi
 
 **W.E. Cushing** wrote "Historical sketches—Lake St. Joseph" and "Early Days at Lake St. Joseph" in 1943, both preserved in the Concordia Archives.^5 He also had correspondence regarding the history of East End YMCA work (1906-1933). The 1905 genealogy contains no "William E." Cushing anywhere in the Montreal branch; the only family member matching the initials W.E. is **Walter Edgar Cushing** (b. 1870), Lemuel Jr.'s eldest son, whose age (22) made him a plausible leader of the 1892 trip he later chronicled.^6
 
-**Contradiction found 2026-07-09 (conflict c_019):** the full 1905-1969 Cushing genealogy supplement, read directly for the first time, states that Walter Edgar Cushing "was a local public accountant, and an active social worker... At times he was a vice-president and director of the Y.M.C.A., a director of the Boys' Home of Montreal, a member of the Boys' Farm and Training School at Shawbridge and the Daily Bible Schools," and that **he died January 13, 1935** — eight years before the 1943 manuscript date.^12 This independently corroborates a substantial YMCA governance role for Walter Edgar (strengthening his general candidacy in this family's YMCA history), but it directly contradicts his being the person who authored a document dated 1943.
+The full 1905-1969 Cushing genealogy supplement states that Walter Edgar Cushing "was a local public accountant, and an active social worker... At times he was a vice-president and director of the Y.M.C.A., a director of the Boys' Home of Montreal, a member of the Boys' Farm and Training School at Shawbridge and the Daily Bible Schools," and that **he died January 13, 1935** — eight years before the 1943 manuscript date.^12 This independently corroborates a substantial YMCA governance role for Walter Edgar, but it stands in tension with his being the person who authored a document dated 1943 (conflict c_019, see Revision History).
 
-**Editorial resolution (2026-07-10):** the identification of Walter Edgar Cushing as the manuscript's author is retained, on the judgment that the "1943" date most likely reflects Concordia's own archival filing/cataloguing date rather than the date of composition — a common archival phenomenon for donated or transcribed personal papers — rather than positing an otherwise entirely undocumented second "W.E. Cushing." No trace of any other Cushing with those initials appears anywhere in the extensive genealogy work done for this KB, which weighs against the "different person" explanation on Occam's-razor grounds. Under this reading, Walter Edgar Cushing likely wrote the historical sketches at some point before his 1935 death, with the material only reaching the archive's 1943 accession/filing date afterward. This is an editorial call, not new evidence — the manuscript itself (does it carry an internal composition date distinct from the archive's date?) remains the only way to confirm this directly, and the identification should be treated as probable rather than settled.
+His identification as the manuscript's author is retained here on the judgment that the "1943" date most likely reflects Concordia's own archival filing/cataloguing date rather than the date of composition — a common archival phenomenon for donated or transcribed personal papers — rather than positing an otherwise entirely undocumented second "W.E. Cushing." No trace of any other Cushing with those initials appears anywhere in the extensive genealogy work done for this KB, which weighs against the "different person" explanation on Occam's-razor grounds. Under this reading, Walter Edgar Cushing likely wrote the historical sketches at some point before his 1935 death, with the material only reaching the archive's 1943 accession/filing date afterward. This is an editorial call, not new evidence — the manuscript itself (does it carry an internal composition date distinct from the archive's date?) remains the only way to confirm this directly, and the identification should be treated as probable rather than settled.
 
 **Charles Cushing** is mentioned in YMCA research reports held in Concordia Archives sub-series 13D, suggesting involvement with YMCA governance or legal affairs alongside his notarial career.^5
 
@@ -108,6 +103,12 @@ A different **Walter Edgar Cushing** (Dartmouth College, Class of 1909) served w
 
 ## Research Notes
 
+### Revision History
+
+- **2026-07-10** — Conflict c_019 (Walter Edgar Cushing's identification as the 1943 manuscript's author, versus genealogical evidence he died in 1935) resolved editorially: the identification is retained, on the judgment that "1943" most likely reflects an archival filing/cataloguing date rather than a composition date. An editorial judgment, not new evidence; the identification should be treated as probable, not settled.
+- **2026-07-09** — A full-text read of the complete 1905-1969 Cushing genealogy supplement found Walter Edgar Cushing died January 13, 1935, in tension with this article's identification of him as the 1943 "W.E. Cushing" manuscript author (raising conflict c_019, above). The same pass confirmed zero "Cushing"/"1892" mentions in either the McMorris thesis or the genealogy supplement, a meaningful negative result for identifying the 1892 camping pioneer.
+
+<!-- RALPH process log (informal, not reader-facing). -->
 <!-- R1 RALPH loop completed 2026-02-14. Comprehensive genealogical research confirmed 8 named sons. Research SATURATED for online sources. -->
 
 <!-- R2 RALPH + VERIFY 2026-02-17. Mined the 1905 Cushing genealogy (46,000 lines). KEY FINDING: Lemuel Jr. had NO son named Lemuel — his four children were Walter Edgar (b. 1870), Harold Beveridge (b. 1873, physician), Florence Ethelwyn (b. 1874), James Stevenson (b. 1878, genealogy author). The only literal "Lemuel Cushing" in Montreal 1892 was 16-year-old son of James Brock (b. 1875). NEW HYPOTHESIS: W.E. Cushing (1943 historian) = Walter Edgar Cushing (b. 1870), Lemuel Jr.'s eldest son. Dr. Cushing (1946 polio advisor) = Harold Beveridge Cushing (b. 1873, physician at Royal Victoria Hospital). If correct, Lemuel Jr.'s sons maintained the family YMCA connection for 50+ years. All claims verified: DCB, Wikipedia, Beer Et Seq, genealogy all confirm. Genealogy has NO mention of 1892 camping trip — the attribution to "Lemuel Cushing" by QAHN may be an informal family-name reference. -->
