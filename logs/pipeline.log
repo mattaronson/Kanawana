@@ -2230,3 +2230,11 @@ HYPOTHESIZE — Remaining productive research requires:
   - c_020 (Ontario Camping Association founding date): three disputed dates (1930/1933/1938) reconciled as three distinct milestones (organized/chartered/first-presidency) rather than picking one source as wrong. Updated taylor-statten.md and canadian-camping-movement.md.
   - kb/conflicts.json: all four conflicts marked "resolved_editorially" (a new status distinct from "resolved," to make clear these are judgment calls, not fact-based resolutions). queue/priorities.json: p_200, p_205 marked completed; p_204 annotated to reflect the interim editorial call it would confirm/overturn.
   - 6 wiki articles updated: sean-day.md, directors-index.md, camp-oolahwan.md, cushing-family.md, taylor-statten.md, canadian-camping-movement.md.
+
+2026-07-10T09:00:00Z | REVIEW | Campaign 39 (continued): editorial resolution pass on the four older unresolved conflicts (c_001, c_002, c_005, c_008), completing the full conflict backlog.
+  - c_001 (coeducation start 1968 vs 1969): both dates retained as correct about different milestones -- 1968 pilot cohort, 1969 full integration. Updated coeducation-gender.md.
+  - c_002 (Oolahwan centennial reunion date): September 8-10, 2017 adopted, weighting the YWCA's own announcement over a local blog's differing date. Updated camp-oolahwan.md and camp-ouareau.md.
+  - c_005 (1910 enrollment, 66 vs 85): McMorris's archival figure (66) weighted over the YMCA's own promotional website figure (85). Updated founding-1894.md.
+  - c_008 (Otoreke island count, two vs three): "three islands" retained as the total; "two islands acquired 1897" read as a specific later transaction, not a competing total. Updated camp-otoreke.md.
+  - All four marked "resolved_editorially" in kb/conflicts.json, explicitly flagged as judgment calls. Zero unresolved conflicts remain in the KB.
+  - 5 wiki articles updated: coeducation-gender.md, camp-oolahwan.md, camp-ouareau.md, founding-1894.md, camp-otoreke.md.

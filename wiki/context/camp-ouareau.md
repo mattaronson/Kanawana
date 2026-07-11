@@ -32,7 +32,7 @@ The Lodge, built in 1922, is one of the oldest log buildings still in use in Can
 
 ## Connection to Kanawana
 
-Jamieson's role at the YMCA or YWCA of Montreal placed her within the same organization that operated Camp Kanawana.^4 Camp Oolahwan (YWCA, est. 1917) also sent visitors to Kanawana; in 1946, Kanawana campers were covered in cocoa powder to greet Oolahwan visitors as "Indians."^6 The Camp Oolahwan centennial reunion was held at Camp Ouareau in 2017 (date disputed: YWCA source gives September 8–10; West Island Blog gives August 25–27).^7
+Jamieson's role at the YMCA or YWCA of Montreal placed her within the same organization that operated Camp Kanawana.^4 Camp Oolahwan (YWCA, est. 1917) also sent visitors to Kanawana; in 1946, Kanawana campers were covered in cocoa powder to greet Oolahwan visitors as "Indians."^6 The Camp Oolahwan centennial reunion was held at Camp Ouareau on September 8–10, 2017 (editorial resolution of conflict c_002, 2026-07-10: the YWCA's own announcement is weighted over a local blog's differing date — see [[context/camp-oolahwan|Camp Oolahwan]]).^7
 
 Although Camp Ouareau operated in English from its founding, it became bilingual in 1976, and today roughly half of registrations are francophone.^4
 

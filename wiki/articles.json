@@ -25,6 +25,12 @@
           "at": "2026-07-09T22:00:00Z",
           "by": "auto",
           "task": "RESEARCH"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-07-10T09:00:00Z",
+          "by": "auto",
+          "task": "REVIEW"
         }
       ],
       "ralph_loops_completed": 2,
@@ -128,7 +134,7 @@
         "page-family"
       ],
       "file_id": "1h-vki1U2tjYj8-zZ5gzuyW6kQXelcUnB",
-      "word_count": 2733
+      "word_count": 2813
     },
     {
       "article_id": "da-budge",
@@ -589,6 +595,12 @@
           "at": "2026-07-09T09:00:00Z",
           "by": "auto",
           "task": "RESEARCH"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-07-10T09:00:00Z",
+          "by": "auto",
+          "task": "REVIEW"
         }
       ],
       "ralph_loops_completed": 2,
@@ -650,7 +662,7 @@
         "stuart-mclean"
       ],
       "file_id": "1KW2yhoZ-wr_71sTPbLJ3v81KW4ZEJ_p-",
-      "word_count": 2517,
+      "word_count": 2561,
       "notes": "E1 REVIEW (2026-02-19): Fixed source header (src_ymca_facts→src_kanawana_facts), added Spectrum URL for McMorris thesis, added IA URLs for Facts sheet and Gas Bag. All claims cited, dates consistent, names cross-checked, tone encyclopedic. Advanced R3-verified → E1-reviewed."
     },
     {
@@ -2366,6 +2378,12 @@
           "at": "2026-07-09T09:00:00Z",
           "by": "auto",
           "task": "RESEARCH"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-07-10T09:00:00Z",
+          "by": "auto",
+          "task": "REVIEW"
         }
       ],
       "ralph_loops_completed": 1,
@@ -2430,7 +2448,7 @@
         "the-kanawana-site"
       ],
       "file_id": null,
-      "word_count": 1679,
+      "word_count": 1722,
       "notes": "E1 REVIEW (2026-02-19): Removed unverifiable 'Google Maps' source and '20 km' distance claim. Expanded 'Multiple sources' citation into discrete references (Facts sheet + McMorris). Removed src_oral_aronson (no inline citation). Removed unsourced bullet. Fixed postcard inference. Fixed closure section process language. Split 1967 conference/reports sentence. Renumbered sources 1-10. Added camp-otoreke cross-link to centennial-1967."
     },
     {
@@ -3785,6 +3803,12 @@
           "at": "2026-07-09T18:00:00Z",
           "by": "auto",
           "task": "RESEARCH"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-07-10T09:00:00Z",
+          "by": "auto",
+          "task": "REVIEW"
         }
       ],
       "ralph_loops_completed": 2,
@@ -3840,7 +3864,7 @@
         "traditions-and-culture"
       ],
       "file_id": null,
-      "word_count": 907
+      "word_count": 917
     },
     {
       "article_id": "camp-perrot",
@@ -3949,6 +3973,12 @@
           "at": "2026-07-10T08:00:00Z",
           "by": "auto",
           "task": "REVIEW"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-07-10T09:00:00Z",
+          "by": "auto",
+          "task": "REVIEW"
         }
       ],
       "ralph_loops_completed": 2,
@@ -4029,7 +4059,7 @@
         "coeducation-gender"
       ],
       "file_id": null,
-      "word_count": 2027
+      "word_count": 2061
     },
     {
       "article_id": "dave-twynam",

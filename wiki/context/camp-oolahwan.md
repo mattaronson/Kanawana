@@ -47,7 +47,7 @@ Upon closure, the YWCA launched "Summer Space Day Camp," an urban day camp for g
 
 ## Centennial Reunion
 
-In 2017, a centennial reunion was held at Camp Ouareau in Notre-Dame-de-la-Merci, organized by a committee of former campers and counselors.^7 The exact dates of the reunion are disputed: the YWCA gives September 8–10, while the West Island Blog gives August 25–27 (see conflicts.json, c_002).^7 ^8 CBC Radio's "All in a Weekend" aired an 11-minute segment about the anniversary.^16 A Twitter/X account (@campoolahwan, "Camp Oolahwan 100") was created for the occasion.^7
+In 2017, a centennial reunion was held at Camp Ouareau in Notre-Dame-de-la-Merci, organized by a committee of former campers and counselors, held **September 8–10** per editorial resolution of conflict c_002 (2026-07-10): the YWCA's own announcement, as the organizing institution's own primary-source statement of its own event's dates, is weighted over a local blog's date (August 25–27), which may reflect an earlier save-the-date announcement, a transcription error, or a related but distinct local event — an editorial call, not new evidence.^7 ^8 CBC Radio's "All in a Weekend" aired an 11-minute segment about the anniversary.^16 A Twitter/X account (@campoolahwan, "Camp Oolahwan 100") was created for the occasion.^7
 
 ## Name Etymology
 
