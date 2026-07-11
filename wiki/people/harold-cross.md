@@ -1,6 +1,6 @@
 # Harold C. Cross
 
-*Status: E1-reviewed | Sources: src_concordia_fonds, src_concordia_fonds_1B, src_concordia_fonds_14D, src_mcmorris_thesis, src_wikipedia_murray_ross, src_concordia_fonds_14H*
+*Status: E1-reviewed | Sources: 6*
 *Last Updated: 2026-06-24*
 
 ## Overview

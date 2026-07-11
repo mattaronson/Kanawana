@@ -1,7 +1,7 @@
 # Ralph Dawson
 
-*Status: E1-reviewed | Sources: src_concordia_fonds, src_concordia_12L, src_concordia_atom_fonds, src_concordia_atom_12A, src_mcmorris_thesis, src_web_search_2026_03*
-*Last Updated: 2026-07-09 (Batch 6 research pass: biographical-detail search re-confirmed exhausted for a fourth independent campaign; a "Permanent Camp Committee" file series (1895-1926) identified as an unexplored lead for Dawson's role; the Joyce Oliver 13D research-file lead checked directly and found to name Charlton, not Dawson)*
+*Status: E1-reviewed | Sources: 9*
+*Last Updated: 2026-07-09*
 
 ## Overview
 

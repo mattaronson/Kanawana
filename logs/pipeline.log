@@ -2314,3 +2314,7 @@ HYPOTHESIZE — Remaining productive research requires:
   - lake-wilson.md: fixed the malformed Sources header, removed a minor dated-label sediment marker from prose ("Resolved 2026-07-09 (partial)").
   - stuart-mclean.md: fixed the malformed Sources header (had drifted back to raw source IDs since a 2026-02-19 fix).
   - No facts, sources, citations, or open questions dropped on either article. Status unchanged (E1-reviewed) on both. wiki/articles.json updated.
+
+[2026-07-11] Campaign 54 (Workstream A, Wave 2, articles 18-19, header-only fixes): harold-cross.md and ralph-dawson.md
+  - Both: fixed the malformed Sources header only; body prose was already clean on both.
+  - No facts, sources, citations, or open questions dropped. Status unchanged (E1-reviewed) on both. wiki/articles.json updated.

@@ -986,6 +986,12 @@
           "at": "2026-07-09T22:00:00Z",
           "by": "auto",
           "task": "RESEARCH"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-07-11T00:00:00Z",
+          "by": "auto",
+          "task": "REVIEW"
         }
       ],
       "ralph_loops_completed": 3,
@@ -1023,8 +1029,8 @@
         "myths-and-legends"
       ],
       "file_id": "1sAGFRKb22uggFeMgrSJLllgpSZoAGxa4",
-      "word_count": 1365,
-      "notes": "v47 protocol test subject. Formal RALPH caught factual conflation. v4.24 RALPH loop (2026-03-15): 8-query web search saturation. No biographical details found online. New facts f_0927-f_0931. Resolution requires Concordia Archives physical/remote access."
+      "word_count": 1317,
+      "notes": "v47 protocol test subject. Formal RALPH caught factual conflation. v4.24 RALPH loop (2026-03-15): 8-query web search saturation. No biographical details found online. New facts f_0927-f_0931. Resolution requires Concordia Archives physical/remote access. | 2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- fixed the malformed Sources header. No facts, citations, or open questions dropped; status unchanged."
     },
     {
       "article_id": "directors-index",
@@ -1515,6 +1521,12 @@
           "at": "2026-02-19T04:30:00Z",
           "by": "auto",
           "task": "REVIEW"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-07-11T00:00:00Z",
+          "by": "auto",
+          "task": "REVIEW"
         }
       ],
       "ralph_loops_completed": 2,
@@ -1553,8 +1565,8 @@
         "the-kanawana-site"
       ],
       "file_id": null,
-      "word_count": 1000,
-      "notes": "E1 REVIEW (2026-02-19): Added inline ^1-^5 citations throughout body text. Standardized all name mentions to 'Harold C. Cross'. Added Related Articles section. Added priority tags to Open Questions. Advanced R3-verified → E1-reviewed."
+      "word_count": 1204,
+      "notes": "E1 REVIEW (2026-02-19): Added inline ^1-^5 citations throughout body text. Standardized all name mentions to 'Harold C. Cross'. Added Related Articles section. Added priority tags to Open Questions. Advanced R3-verified → E1-reviewed. | 2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- fixed the malformed Sources header. No facts, citations, or open questions dropped; status unchanged."
     },
     {
       "article_id": "centennial-1967",
