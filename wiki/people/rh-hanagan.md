@@ -1,7 +1,7 @@
 # R.H. Hanagan
 
-*Status: E1-reviewed | Sources: src_mcmorris_thesis, src_concordia_fonds, src_concordia_atom_fonds, src_newspapers_gazette_1942, src_cfcf_1941*
-*Last Updated: 2026-06-22 (ACA conference report 1946 and Boys' Camping Committee 1950 confirmed; title clarification)*
+*Status: E1-reviewed | Sources: 6*
+*Last Updated: 2026-06-22*
 
 ## Overview
 

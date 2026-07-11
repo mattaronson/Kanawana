@@ -2322,3 +2322,8 @@ HYPOTHESIZE — Remaining productive research requires:
 [2026-07-11] Campaign 55 (Workstream A, Wave 2, articles 20-21, header-only fixes): hedley-dimock.md and a-ross-seaman.md
   - Both: fixed the malformed Sources header only; body prose was already clean on both.
   - No facts, sources, citations, or open questions dropped. Status unchanged (E1-reviewed) on both. wiki/articles.json updated.
+
+[2026-07-11] Campaign 56 (Workstream A, Wave 2, articles 22-23, header-only fixes): rh-hanagan.md and da-budge.md
+  - rh-hanagan.md: fixed the malformed Sources header only.
+  - da-budge.md: fixed the malformed Sources header, nested the standalone "Revision History" heading under a new parent "Research Notes" heading per the wiki-wide convention.
+  - No facts, sources, citations, or open questions dropped. Status unchanged (E1-reviewed) on both. wiki/articles.json updated.

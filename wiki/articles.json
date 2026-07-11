@@ -160,6 +160,12 @@
           "at": "2026-07-09T18:00:00Z",
           "by": "auto",
           "task": "RESEARCH"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-07-11T00:00:00Z",
+          "by": "auto",
+          "task": "REVIEW"
         }
       ],
       "ralph_loops_completed": 2,
@@ -199,7 +205,8 @@
         "harold-cross"
       ],
       "file_id": "1iOHcDJeDgo5VFTfb46EQ6JrFYuZaZie5",
-      "word_count": 872
+      "word_count": 847,
+      "notes": "2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- fixed the malformed Sources header, nested the standalone 'Revision History' heading under a new parent 'Research Notes' heading per the wiki-wide convention. No facts, citations, or open questions dropped; status unchanged."
     },
     {
       "article_id": "canoe-trips",
@@ -3869,6 +3876,12 @@
           "at": "2026-03-15T16:00:00Z",
           "by": "auto",
           "task": "REVIEW"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-07-11T00:00:00Z",
+          "by": "auto",
+          "task": "REVIEW"
         }
       ],
       "ralph_loops_completed": 2,
@@ -3897,7 +3910,8 @@
         "wartime-kanawana"
       ],
       "file_id": null,
-      "word_count": 753
+      "word_count": 764,
+      "notes": "2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- fixed the malformed Sources header. No facts, citations, or open questions dropped; status unchanged."
     },
     {
       "article_id": "camp-ouareau",

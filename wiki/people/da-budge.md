@@ -1,7 +1,7 @@
 # Daniel Andrew Budge (1851-1933)
 
-*Status: E1-reviewed | Sources: src_mcgill_archives, src_ymca_world, src_concordia_1B, src_concordia_12L, src_concordia_fonds, src_concordia_13D_joyce_oliver*
-*Last Updated: 2026-07-09 (open-questions research pass: confirmed exact death date, Feb 13 1933; found a new archival lead, Concordia 13D Box HA2330, for remaining biographical gaps)*
+*Status: E1-reviewed | Sources: 6*
+*Last Updated: 2026-07-09*
 
 ## Summary
 
@@ -62,7 +62,9 @@ Budge also authored a "Memorandum of the Early Beginnings of the YMCA Work on th
 5. Concordia University Archives, YMCA of Montreal fonds P0145 finding aid — railway memoranda.
 6. Concordia University Archives, YMCA of Montreal fonds P0145, sub-series 13D (Joyce Oliver "Book of Remembrance and History" project, 1939-40) [src_concordia_13D_joyce_oliver].
 
-## Revision History
+## Research Notes
+
+### Revision History
 
 - v2 (2026-02-05): R3 verified. Naismith chronology corrected (McGill 1883-87, Presby College 1887-90). Source URLs added.
 - v1 (2026-02-05): Initial draft from R1 web research (McGill archives, YMCA World, Concordia finding aids)
