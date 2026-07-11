@@ -1065,6 +1065,12 @@
           "at": "2026-07-10T08:00:00Z",
           "by": "auto",
           "task": "REVIEW"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-07-11T00:00:00Z",
+          "by": "auto",
+          "task": "REVIEW"
         }
       ],
       "ralph_loops_completed": 2,
@@ -1277,7 +1283,7 @@
         "src_application_2006",
         "src_ymcakanawana_2005_handbook"
       ],
-      "open_questions": 7,
+      "open_questions": 14,
       "cross_links": [
         "billy-ball",
         "cushing-family",
@@ -1294,8 +1300,8 @@
         "hedley-dimock"
       ],
       "file_id": null,
-      "word_count": 13198,
-      "notes": "v4.75: Peter Goddard confirmed (Peter Gilling Goddard 1953-2016, obituary condolence). Nelson McEwen tenure extended c.1927-1947. Derek Walsh exhausted. Gap periods updated. | 2026-07-07: applied operator's standing conflict-resolution policy (documented sources take precedence over oral history) to resolve c_004, c_015, c_016, c_017 -- Gary White's Kanawana tenure narrowed to FY2001-2002, Sean Day's start corrected to 2008, Nicolas Garcia's spelling/end-date corrected to March 2014, Rossy Foundation corrected to Tyndale St-Georges."
+      "word_count": 12031,
+      "notes": "v4.75: Peter Goddard confirmed (Peter Gilling Goddard 1953-2016, obituary condolence). Nelson McEwen tenure extended c.1927-1947. Derek Walsh exhausted. Gap periods updated. | 2026-07-07: applied operator's standing conflict-resolution policy (documented sources take precedence over oral history) to resolve c_004, c_015, c_016, c_017 -- Gary White's Kanawana tenure narrowed to FY2001-2002, Sean Day's start corrected to 2008, Nicolas Garcia's spelling/end-date corrected to March 2014, Rossy Foundation corrected to Tyndale St-Georges. | 2026-07-11: Workstream A Wave 1 prose-sediment REVIEW pass -- standardized header, moved dated correction narrative from table cells into a new visible Revision History section, corrected open_questions count (was stale at 7, actual count is and remains 14). No facts, citations, or open questions dropped; status unchanged."
     },
     {
       "article_id": "sources-index",

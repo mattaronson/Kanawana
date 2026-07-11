@@ -2238,3 +2238,12 @@ HYPOTHESIZE — Remaining productive research requires:
   - c_008 (Otoreke island count, two vs three): "three islands" retained as the total; "two islands acquired 1897" read as a specific later transaction, not a competing total. Updated camp-otoreke.md.
   - All four marked "resolved_editorially" in kb/conflicts.json, explicitly flagged as judgment calls. Zero unresolved conflicts remain in the KB.
   - 5 wiki articles updated: coeducation-gender.md, camp-oolahwan.md, camp-ouareau.md, founding-1894.md, camp-otoreke.md.
+
+[2026-07-11] Campaign 40 (Workstream A, Wave 1, article 1 of 8): prose-sediment REVIEW pass on wiki/people/directors-index.md
+  - Standardized header: replaced 12 stacked dated HTML comments + separate status/confidence/last_editor/ralph_loops comments with the new two-line "*Status: ... | Sources: N*" / "*Last Updated: YYYY-MM-DD*" convention.
+  - Moved dated correction/conflict-resolution narrative (Gary White, Sean Day, François Dauphin, Nicolas Garcia, Morgan Carter, Marie-Pierre Lacasse, Joanna Hoad, Arleen Boyer, Dave Twynam rows) out of table cells into a new visible "## Research Notes > ### Revision History" section; table cells now state current understanding only.
+  - Corrected stale prose: Dave Twynam's row and the 1976-1978 Gap Periods entry still described conflict c_007 as unresolved; it was actually resolved to 1979 back in Campaign 25 (R13). Fixed both to reflect current understanding.
+  - Restored two Open Questions (conflicts c_015/c_016 resolution status, conflict c_017/Sean Day resolution status) that were accidentally dropped in an early draft of this pass; caught before commit. Open Questions count confirmed at 14 (was mis-recorded as 7 in articles.json -- corrected).
+  - Fixed a citation-marker break introduced mid-pass: renumbered the "HOF" lettered Sources entry to "22." and updated the one inline marker that pointed to it.
+  - No facts, sources, or citations dropped or altered. Status unchanged (E1-reviewed). word_count 13198 -> 12031 (net reduction from moving process narrative out of prose, not content loss).
+  - wiki/articles.json updated: new status_history entry (task: REVIEW, 2026-07-11), open_questions corrected 7->14, word_count updated, notes appended.
