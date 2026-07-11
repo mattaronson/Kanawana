@@ -2693,6 +2693,64 @@
       "assigned_weight": "P3",
       "created_at": "2026-07-09T22:00:00Z",
       "status": "pending"
+    },
+    {
+      "priority_id": "p_213",
+      "rank": 213,
+      "type": "RESEARCH",
+      "description": "Physically consult Concordia P0145/12F Box HA1894 to determine why/when the actual 1979-1982 Kanawana-Weredale operational relationship (a signed lease plus joint YMCA/Weredale Foundation files) ended, and what it looked like in practice -- the file titles alone (lease, day-camp proposal, 'Comité Weredale') don't say. This supersedes the old framing of a plan that was merely 'proposed then abandoned.'",
+      "article_id": "camp-weredale",
+      "blocking": true,
+      "blocking_reason": "Requires physical Concordia Archives access; only file titles are public online.",
+      "assigned_weight": "P2",
+      "created_at": "2026-07-10T04:00:00Z",
+      "status": "pending"
+    },
+    {
+      "priority_id": "p_214",
+      "rank": 214,
+      "type": "RESEARCH",
+      "description": "Verify whether a ship named 'Kanawana' actually existed in Furness Withy / Furness Bermuda Line vessel registries, per a 1951 primary source's claim that R.L. Charlton proposed the camp's name by analogy to a Furness Steamer. Search shipping-line historical registries and Lloyd's Register archives specifically, not general web search.",
+      "article_id": "myths-and-legends",
+      "blocking": false,
+      "assigned_weight": "P3",
+      "created_at": "2026-07-10T04:00:00Z",
+      "status": "pending"
+    },
+    {
+      "priority_id": "p_215",
+      "rank": 215,
+      "type": "RESEARCH",
+      "description": "Physically consult Concordia P0145/12A for the Camp Perrot 1958 Camp Committee closure decision and reconcile it against the 1959 Cochrane memo and 1969 Family Centre planning document, which give internally inconsistent closure chronologies (resident camp still operating in 1958-59 per Cochrane; a ~6-year dormancy and 1958 Day Camp reopening per the 1969 document). Resolve which account -- or what combination -- is accurate.",
+      "article_id": "camp-perrot",
+      "blocking": true,
+      "blocking_reason": "Requires physical Concordia Archives access to resolve a genuine documentary contradiction.",
+      "assigned_weight": "P2",
+      "created_at": "2026-07-10T04:00:00Z",
+      "status": "pending"
+    },
+    {
+      "priority_id": "p_216",
+      "rank": 216,
+      "type": "RESEARCH",
+      "description": "Use Concordia's newly-identified master finding-aid PDF (concordia.accesstomemory.org/downloads/ymca-of-montreal-fonds-2.pdf) as the default research tool for all future Concordia fonds mining -- it is directly curl-downloadable (unlike the bot-walled AtoM site) and yields item-level detail no static finding-aid page captures. Re-mine sub-series not yet fully checked against it (12C, 12D, 12H, 12I, 12J, 14D) for any further undocumented Kanawana-specific items, following the same method that surfaced new AV items in 09/11 this session.",
+      "article_id": "sources-index",
+      "blocking": false,
+      "assigned_weight": "P2",
+      "created_at": "2026-07-10T04:00:00Z",
+      "status": "pending"
+    },
+    {
+      "priority_id": "p_217",
+      "rank": 217,
+      "type": "RESEARCH",
+      "description": "A human with a JS-executing browser should open the SGW 1973 Yearbook on Issuu (issuu.com/concordiayearbooks/docs/sir_george_williams_university_year) directly and check the Sociology/Arts faculty section for a Harold Potter photograph -- confirmed to exist and be publicly hosted, but not extractable by automated fetch tools.",
+      "article_id": "harold-potter",
+      "blocking": true,
+      "blocking_reason": "Issuu's viewer is JavaScript-rendered and not fetchable by automated tools; needs a human browser session.",
+      "assigned_weight": "P3",
+      "created_at": "2026-07-10T04:00:00Z",
+      "status": "pending"
     }
   ]
 }

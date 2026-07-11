@@ -1,7 +1,7 @@
 # A. Ross Seaman
 
-*Status: E1-reviewed | Sources: src_concordia_seaman_fund, src_mcmorris_thesis, src_dawson_crlt, src_concordia_ctr_2001, src_concordia_atom_12K, src_ia_ymca_annual_report_1966_67, src_concordia_p0145_12a_finding_aid*
-*Last Updated: 2026-07-09 (open-questions research pass: birth/death biographical details and director-successor questions re-confirmed as genuine dead ends requiring paid/physical access, not further web search)*
+*Status: E1-reviewed | Sources: src_concordia_seaman_fund, src_mcmorris_thesis, src_dawson_crlt, src_concordia_ctr_2001, src_concordia_atom_12K, src_ia_ymca_annual_report_1966_67, src_concordia_p0145_12a_finding_aid, src_ia_camp_perrot_collection, src_camp_perrot_1959_fresh_look*
+*Last Updated: 2026-07-10 (Batch 7 cross-reference: newly found Camp Perrot annual reports show Seaman served as a past director there before Kanawana, with a possible wife connection to Perrot's 1952 Girls' Camp Director)*
 
 ## Overview
 
@@ -9,7 +9,7 @@ A. Ross Seaman (died October 1987) was director of Kamp Kanawana from 1959 to 19
 
 ## Early Career and YMCA
 
-After graduating from Sir George Williams University, Seaman entered community work and the camping movement through the YMCA.^2 ^3 At some point in his career, he offered a colleague a position at the Cornwall YMCA.^3 The chronology and extent of his YMCA roles before Kanawana are undocumented.
+After graduating from Sir George Williams University, Seaman entered community work and the camping movement through the YMCA.^2 ^3 At some point in his career, he offered a colleague a position at the Cornwall YMCA.^3 The chronology and extent of his YMCA roles before Kanawana are undocumented. A newly found lead (2026-07-10): Camp Perrot's 1952 annual report thanks Seaman as "Past Director of Camp Perrot," a YMCA service camp on Île Perrot, and a 1959 internal memo from that camp records him personally planting trees there "about 1950" — placing a Camp Perrot directorship before his Kanawana tenure.^7 A "Margaret Seaman" served as Camp Perrot's Girls' Camp Director in 1952, plausibly the same Margaret who was Seaman's wife (see Personal Life and Legacy, below), though this is not independently confirmed. See [[places/camp-perrot|Camp Perrot]] for the primary-source detail.
 
 ## Camp Kanawana (1959–1967)
 
@@ -54,3 +54,4 @@ The A. Ross Seaman Memorial Leadership Development Fund was established in 1987 
 4. Concordia Thursday Report, April 2001: Seaman Awards ceremony.
 5. Concordia University Archives: YMCA of Montreal fonds, P0145/12K — La Vérendrye canoe trip records (1958–1982), including exploratory trip logs and Lac Landron lease.
 6. YMCA of Montreal, Annual Report 1966-67 (Internet Archive, digitized by Concordia RMA). Read directly 2026-07-08.
+7. Camp Perrot annual reports, 1952 [src_ia_camp_perrot_collection]; "A Fresh Look at Camp Perrot," 1959 memo [src_camp_perrot_1959_fresh_look]. Both verified genuine via archive.org metadata API, 2026-07-10.

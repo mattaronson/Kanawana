@@ -1,7 +1,7 @@
 # The Quebec Camping Landscape
 
-*Status: E1-reviewed | Sources: 20*
-*Last Updated: 2026-06-20*
+*Status: E1-reviewed | Sources: 23*
+*Last Updated: 2026-07-10 (Batch 7 research pass: Camp Perrot substantially re-researched via 11 newly-found digitized annual reports -- see camp-perrot.md; Camp Dorval's founding corrected to 1925 and its "experimental" framing corrected; Quebec Camping Association institutional lineage documented in detail)*
 
 ## Overview
 
@@ -13,9 +13,9 @@ The YMCA of Montreal operated multiple camps alongside Kanawana. The Concordia U
 
 **Camp Jubilee / Camp Otoreke** (1894–1982). The original YMCA camp at Lake Saint-Joseph in Saint-Adolphe-d'Howard, founded by Billy Ball as Camp Jubilee and renamed Camp Otoreke ("home in the north") in 1909.^1 Otoreke operated continuously on the original site until 1982, making it a companion camp to Kanawana for much of the twentieth century. (See [[chronology/founding-1894|Founding of Camp Kanawana]].)
 
-**Camp Perrot**. A boys' camp operated by the Montreal YMCA alongside Kanawana.^2 Concordia Archives hold a "Comparison of Two Boys Camps operated by Montreal YMCA" (c.1945–46) and a further comparison document from 1953–54, suggesting Camp Perrot was seen as a peer institution to Kanawana within the YMCA system.^3 Camp Perrot's precise founding date, location, and closure remain undocumented in publicly accessible sources. (See [[places/camp-perrot|Camp Perrot]].)
+**Camp Perrot** (1944–late 1950s/early 1960s). A low-cost, branch-referral boys'-and-girls' service camp operated by the Montreal YMCA on the south shore of Île Perrot, seen as a peer institution to Kanawana within the YMCA system and compared directly against it in internal reports.^2 ^3 Substantially re-researched in 2026-07-10 via 11 newly-found digitized annual reports and brochures. (See [[places/camp-perrot|Camp Perrot]] for the full history, including a documented equipment-sharing link and a shared director, A. Ross Seaman.)
 
-**Camp Dorval**. A short-lived YMCA Montreal camp documented in Concordia Archives sub-series P0145/12E, with records dating from 1926 to 1928.^2
+**Camp Dorval** (at least 1925–1928). A short-lived, weekend/near-city YMCA Montreal camp jointly operated by the Verdun and St. Paul branches, using a leased house on the Marcil Trust Company's land. Its actual operation traces to 1925 — three years earlier than the 1926-1928 span of surviving Concordia records (P0145/12E) previously used to date it — and its 1928 annual report explicitly recommends continuing the program, rather than reading as an abandoned experiment as previously inferred.^2 ^21
 
 **[[places/camp-becsies|Camp Becsies]]**. Another YMCA Montreal camp on Lac des Becs-scie, approximately 1.5 km west of Camp Kanawana. Documented in P0145/12D, with records spanning 1929–1936 and 1960–1971.^2 The camp served youth (including children from the Montreal Protestant Orphans' Home) in its first period, and was repurposed for family camping in its second.
 
@@ -85,11 +85,11 @@ Several patterns emerge from the Quebec and Canadian camp landscape:
 
 ## Open Questions
 
-1. What was Camp Perrot's location and when did it operate? The Concordia Archives comparison documents (1945–46, 1953–54) are the only known references.
+1. ~~What was Camp Perrot's location and when did it operate?~~ [Resolved 2026-07-10] South shore of Île Perrot, founded 1944; closure genuinely contested between two internal sources. See [[places/camp-perrot|Camp Perrot]] for the full detail.
 2. Where was Camp Becsies, and what was its purpose? The 24-year gap in its archival record (1936–1960) is unexplained.
-3. What was Camp Dorval's relationship to the YMCA summer program? Its brief two-year record (1926–1928) suggests it may have been experimental.
-4. How did Laurentian camps interact during the mid-twentieth century? Were there inter-camp competitions, shared staff training, or coordinated programming?
-5. What role did the Quebec Camping Association (founded 1937) play in connecting these camps?
+3. ~~What was Camp Dorval's relationship to the YMCA summer program?~~ [Resolved 2026-07-10] A joint Verdun/St. Paul-branch weekend retreat operating from at least 1925; its 1928 report explicitly recommends continuation, not evidence of a failed experiment as previously framed.
+4. [Re-confirmed, largely unchanged 2026-07-10] How did Laurentian camps interact during the mid-twentieth century? Were there inter-camp competitions, shared staff training, or coordinated programming? The Quebec Camping Association / Canadian Camping Association Quebec Section held spring conferences (1940-46), counsellor training courses (1942-47, 1970), and a McGill camping school (1937-40) — plausible venues for inter-camp staff mixing — but no document names which specific camps sent staff; this would require physical archive access to the QCA/CCA correspondence.
+5. [Substantially resolved 2026-07-10] What role did the Quebec Camping Association (founded 1937) play in connecting these camps? Its institutional lineage is now documented in detail: Concordia's P0145/12N03 ("Quebec Section, Canadian Camping Association," 1929-1970) and 12N04 ("Quebec Camping Association / Association des camps du Québec," 1978-1980), plus Trent University's own QCA fonds (85-013, 1948-1982), confirm it was "established in 1937 as a chartered unit of the Canadian Camping Association." Neither finding aid names Kamp Kanawana or Camp Perrot as specific members by name — only physical box-level access could establish this.^22 ^23
 
 ## Sources
 
@@ -113,6 +113,9 @@ Several patterns emerge from the Quebec and Canadian camp landscape:
 18. ACA Find a Camp, YMCA Hayo-Went-Ha Camps program listings.
 19. McMorris, Grace (2023). "An Experience That Lasts a Lifetime." MA thesis, Concordia University. Chapter on inter-camp visits.
 20. Wikipedia, "Camp B'nai Brith." URL: https://en.wikipedia.org/wiki/Camp_B%27nai_Brith
+21. "Report on Camp Dorval - Season 1928," Internet Archive [src_camp_dorval_1928]. Verified genuine via archive.org metadata API and direct OCR text fetch, 2026-07-10.
+22. Concordia University Archives, sub-series 12N (Camping associations), sub-sub-series 12N01-12N04 [src_concordia_12N_camping_associations].
+23. Trent University Archives, Quebec Camping Association fonds (85-013, 1948-1982) [src_trent_qca_fonds].
 
 ### R3 Verification Notes
 

@@ -1,8 +1,8 @@
 {
   "version": "v4.98",
-  "kb_version": "v5.06",
+  "kb_version": "v5.07",
   "migrated_from": "3.3",
-  "fact_count": 1915,
+  "fact_count": 1941,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -33170,6 +33170,450 @@
       "date_ref": "1931-1948",
       "conflicts_with": [],
       "added_version": "v5.06",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1954",
+      "claim": "An 18-query, 4-surface sweep found no source naming a specific pedagogical framework (place-based education, bioregionalism, forest-school pedagogy) as influencing Kanawana's environmental programming. The closest adjacent finding is a 2009 description of a mandatory 'tournée verte' (green tour) covering the camp's ecological infrastructure, built into every stay -- a described practice, not an attributed theory. Chris Adam's 'Nature as Mentor' philosophy is documented as his own Dawson College/Earthvalues Institute brand, connected to Kanawana only biographically (he is a Pip Award-winning alumnus), not as an adopted camp curriculum.",
+      "sources": [
+        "src_mediaterre_kanawana_2009"
+      ],
+      "confidence": "disputed",
+      "category": "programs",
+      "entities": [
+        "environmental education",
+        "Chris Adam"
+      ],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "v5.07",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1955",
+      "claim": "Direct GBIF and iNaturalist API queries confirm real, geotagged citizen-science observations exist at 'Ch du Lac-Kanawana, St-Sauveur' -- amphibians (Pickerel Frog, American Toad, Green Frog), mammals (beaver, fisher), insects, and plants, dated June 2026. These are informal, individual app-user observations, not an institutional survey; no eBird hotspot exists under the Kanawana name and no formal biodiversity inventory or bioblitz involving the camp was found.",
+      "sources": [
+        "src_ymca_kanawana_groups_rentals"
+      ],
+      "confidence": "stated",
+      "category": "places",
+      "entities": [
+        "Camp Kanawana",
+        "Lake Kanawana",
+        "biodiversity"
+      ],
+      "date_ref": "2026",
+      "conflicts_with": [],
+      "added_version": "v5.07",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1956",
+      "claim": "Concordia's static finding-aid page for sub-series 12F (Camp Weredale), Box HA1894, documents a real, signed 1979 lease agreement between the Weredale Foundation and the Montreal YMCA, plus continuing joint files -- 'Weredale Foundation/YMCA' (1980-1981), 'Comité Weredale' (1981-1982), a day-camp program proposal (1980), and a 'YMCA staff cottage rental' (1981). This contradicts the wiki's prior framing of the Kanawana-Weredale two-site plan as simply proposed then abandoned: a genuine multi-year operational relationship existed from at least 1979 to c.1982. The reason the arrangement eventually ended remains undocumented online.",
+      "sources": [
+        "src_concordia_atom_12F"
+      ],
+      "confidence": "stated",
+      "category": "context",
+      "entities": [
+        "Camp Weredale",
+        "Camp Kanawana",
+        "YMCA of Montreal"
+      ],
+      "date_ref": "1979-1982",
+      "conflicts_with": [],
+      "added_version": "v5.07",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1957",
+      "claim": "Youth Horizons was formed in 1977 (from Allancroft Centre, Summerhill Homes, Weredale House, and Mount Bruno Girls Cottage School), confirmed via direct raw-HTML fetch of Batshaw Centres' own timeline page, cross-corroborated on two further pages of the same site. A previously-circulating '1973' date was traced to a misreading of an adjacent, unrelated timeline entry ('Ville Marie Social Services is formed,' 1973) -- a confirmed misreading, not a genuine source conflict.",
+      "sources": [
+        "src_batshaw_timeline_page"
+      ],
+      "confidence": "stated",
+      "category": "context",
+      "entities": [
+        "Youth Horizons",
+        "Camp Weredale"
+      ],
+      "date_ref": "1977",
+      "conflicts_with": [],
+      "added_version": "v5.07",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1958",
+      "claim": "A full-text search of the complete McMorris 2023 thesis (covering 1894-1967) found zero occurrences of 'Weredale' anywhere. A direct raw-HTML check of the Frank Crabbe memorial blog post (a first-hand account of the Weredale/Camp Lewis milieu, 1961-65) likewise contains zero mention of Kanawana. No shared staff, programming, or organizational practice between Camp Weredale and Camp Kanawana during 1934-1977 has been found in any source checked -- this remains a confirmed dead end for online research.",
+      "sources": [
+        "src_mcmorris_thesis"
+      ],
+      "confidence": "disputed",
+      "category": "context",
+      "entities": [
+        "Camp Weredale",
+        "Camp Kanawana"
+      ],
+      "date_ref": "1934-1977",
+      "conflicts_with": [],
+      "added_version": "v5.07",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1959",
+      "claim": "The YMCA of Montreal fonds' full 125-page master finding-aid PDF is directly downloadable via curl (unlike the bot-walled AtoM catalog interface) and readable via pdftotext -- a superior, reusable research tool. It confirms sub-sub-series 12B05 (Staff and counsellors) is explicitly access-restricted, explaining why static finding-aid pages for 12B02/05/06 consistently 404 while 12B01/03/04/07 work.",
+      "sources": [
+        "src_concordia_finding_aid_master_pdf"
+      ],
+      "confidence": "stated",
+      "category": "sources",
+      "entities": [
+        "Concordia University Archives",
+        "YMCA of Montreal fonds"
+      ],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "v5.07",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1960",
+      "claim": "The same master finding-aid PDF's item-level list (sub-series 09 moving images, 11 sound recordings) surfaces several previously uncatalogued Kanawana-specific audiovisual items: 'Camp Kanawana: Boating and Water Sports All Summer Long' (16mm, ~8 min); 'News Documents and Kamp Kanawana' (VHS, 15 min); a French and an English 'Kamp Kanawana' PSA (December 1988 and March 1987, 1 min each); a 'Kamp Kanawana' audio reel (undated); a 1969 promotional audio tape; an August 24, 1962 audio interview with a 'Woodsman' section member; a 'Homesick tape' (undated); and a 1963 audio recording titled 'What is God? / Interview of Kamp Kanawana campers and staff.' Only catalog metadata was retrieved, not transcripts or audio itself.",
+      "sources": [
+        "src_concordia_finding_aid_master_pdf"
+      ],
+      "confidence": "stated",
+      "category": "sources",
+      "entities": [
+        "Camp Kanawana",
+        "Concordia University Archives"
+      ],
+      "date_ref": "1962-1988",
+      "conflicts_with": [],
+      "added_version": "v5.07",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1961",
+      "claim": "The wiki's sources-index.md previously listed '12G | Camp Perrot' as if it were a standalone, described archival sub-series. The finding aid's own descriptive body has no 12G entry at all -- it jumps directly from 12F (Weredale) to 12H (Ski lodge). Camp Perrot material exists only as comparison documents within 12A, consistent with existing KB facts; this is a genuine cataloguing gap in Concordia's own finding aid, not a wiki error, and was independently corroborated by a separate research pass on the same day.",
+      "sources": [
+        "src_concordia_finding_aid_master_pdf"
+      ],
+      "confidence": "stated",
+      "category": "sources",
+      "entities": [
+        "Camp Perrot",
+        "Concordia University Archives"
+      ],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "v5.07",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1962",
+      "claim": "BAnQ numérique's search and article-detail pages are blocked at every level tested by a Radware 'perfdrive.com' bot-validation redirect (confirmed on multiple distinct URLs) -- a more specific characterization than the KB's prior generic '403' note. No new Kanawana newspaper hits were found; every article surfaced by site-restricted search was already in the KB. Notably, no 'Montreal Star' + 'Kanawana' hit surfaced anywhere despite the Star's 1869-1979 run being partly digitized -- unclear whether this reflects a genuine absence or incomplete BAnQ digitization of that title.",
+      "sources": [
+        "src_banq_numerique_general"
+      ],
+      "confidence": "disputed",
+      "category": "sources",
+      "entities": [
+        "BAnQ numérique",
+        "Montreal Star"
+      ],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "v5.07",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1963",
+      "claim": "The Ballantyne 1944 history's full cached text (38,099 characters) was directly re-grepped for 'camp', 'Laurentian', 'Saint-Sauveur', 'St. Joseph', 'Ball', 'Cushing', and 'Kanawana' -- zero mentions of any of these beyond a generic national camping statistic already in the KB (5,835 boys / 95,360 camper-days in 1942). This independently reconfirms the source is a genuine dead end for Kanawana-specific content, not merely under-searched.",
+      "sources": [
+        "src_ballantyne_1944"
+      ],
+      "confidence": "stated",
+      "category": "sources",
+      "entities": [
+        "Ballantyne 1944"
+      ],
+      "date_ref": "1944",
+      "conflicts_with": [],
+      "added_version": "v5.07",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1964",
+      "claim": "Concordia's sub-series 12N (Camping associations, 1929-1981) comprises four sub-sub-series: 12N01 American Camping Association (1937-1959); 12N02 Canadian Camping Association (1936-1981); 12N03 Quebec Section, CCA / Quebec Camping Association (1929-1970, including McGill camping-leadership courses 1937-1952, founding correspondence 1936-1937, a 1937/1942 constitution, spring conferences 1940-1946, and counsellor training courses 1942-1947); and 12N04 Quebec Camping Association / Association des camps du Québec (1978-1980). None of the four contain any Kanawana or Camp Perrot content by name in their public box-level descriptions.",
+      "sources": [
+        "src_concordia_12N_camping_associations"
+      ],
+      "confidence": "stated",
+      "category": "context",
+      "entities": [
+        "Quebec Camping Association",
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1929-1981",
+      "conflicts_with": [],
+      "added_version": "v5.07",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1965",
+      "claim": "Trent University holds the Quebec Camping Association's own fonds (85-013, 1948-1982, 90cm, mostly French-language), confirming the QCA was 'established in 1937 as a chartered unit of the Canadian Camping Association.' Its boxes include camp visitation reports (1962-1978) and leadership-training files (1969-1973). Neither this fonds nor Concordia's 12N holdings name Kamp Kanawana or Camp Perrot as specific participating members -- only physical box-level access could establish this.",
+      "sources": [
+        "src_trent_qca_fonds"
+      ],
+      "confidence": "stated",
+      "category": "context",
+      "entities": [
+        "Quebec Camping Association",
+        "Trent University"
+      ],
+      "date_ref": "1937-1982",
+      "conflicts_with": [],
+      "added_version": "v5.07",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1966",
+      "claim": "CORRECTION: this wiki previously assumed only the single July 29, 1938 issue of The Green Triangle was digitized. A direct archive.org advancedsearch API query confirms 38 issues spanning 1932-1982 actually exist in the collection, uploaded by Concordia RMA. This significantly expands the pool of primary-source camp-newsletter material available for online research going forward.",
+      "sources": [
+        "src_ia_green_triangle_collection"
+      ],
+      "confidence": "stated",
+      "category": "sources",
+      "entities": [
+        "The Green Triangle"
+      ],
+      "date_ref": "1932-1982",
+      "conflicts_with": [],
+      "added_version": "v5.07",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1967",
+      "claim": "The July 8, 1933 issue of The Green Triangle describes a full, staged 'Haunted House' campfire tradition -- a 'reception... given by the ghosts of the haunted house to all Kanawana campers,' with the Chief leading legends and a sing-song, staged 'mock-knocking' sound effects, and a folkloric rule that 'the spirits never appeared except when the wind blew from the east and when the moon and stars were invisible.' This is two years earlier than the previously-known 1935 attestation of the Haunted House tradition. The same issue mentions passing 'the deserted village' en route -- an unexplained, unexplored detail.",
+      "sources": [
+        "src_green_triangle_1933_07_08"
+      ],
+      "confidence": "stated",
+      "category": "programs",
+      "entities": [
+        "Haunted House",
+        "Camp Kanawana"
+      ],
+      "date_ref": "1933",
+      "conflicts_with": [],
+      "added_version": "v5.07",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1968",
+      "claim": "The Haunted House tradition is independently attested as a recurring, camp-wide institution across four further Green Triangle issues beyond the original 1935 and 1933 mentions: a July 1937 photo caption ('The picnic at the Haunted House'), a July 1939 mention (supper 'at the falls near the haunted house'), and a June 1940 mention (a 'Haunted House treat... received at Tamaracouta' joined by the Juveniles). No issue of the 38 checked mentions 'Chopsy' or 'Cropsy' by name, and none contain a specific explanation of the camp name beyond what was already known.",
+      "sources": [
+        "src_ia_green_triangle_collection"
+      ],
+      "confidence": "stated",
+      "category": "programs",
+      "entities": [
+        "Haunted House",
+        "Camp Kanawana"
+      ],
+      "date_ref": "1937-1940",
+      "conflicts_with": [],
+      "added_version": "v5.07",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1969",
+      "claim": "A previously uncatalogued primary source, 'Kamp Kanawana History' (presented at a training course, June 6, 1951, digitized on Internet Archive), states: 'A great deal of thought was given to choosing a name for the camp. Mr. Charlton suggested Kanawana which was like the name of a Furness Steamer. At a later meeting the name Kanawana was adopted, which means in the Indian language lots to eat.' This independently confirms the 'lots to eat' translation claim from a primary rather than secondary source, and surfaces a new claim -- that R.L. Charlton personally proposed the name by analogy to a Furness Line steamship name -- not previously documented anywhere in this KB.",
+      "sources": [
+        "src_1951_kamp_kanawana_history"
+      ],
+      "confidence": "stated",
+      "category": "chronology",
+      "entities": [
+        "Kanawana (name)",
+        "R.L. Charlton"
+      ],
+      "date_ref": "1951",
+      "conflicts_with": [],
+      "added_version": "v5.07",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1970",
+      "claim": "No corroboration was found of an actual ship named 'Kanawana' in Furness Withy / Furness Bermuda Line vessel records, despite the 1951 'Kamp Kanawana History' document's claim that the camp was named after a Furness Steamer. This remains an unconfirmed, unresolved lead requiring shipping-registry research.",
+      "sources": [
+        "src_1951_kamp_kanawana_history"
+      ],
+      "confidence": "disputed",
+      "category": "chronology",
+      "entities": [
+        "Kanawana (name)",
+        "Furness Line"
+      ],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "v5.07",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1971",
+      "claim": "A 14-query sweep across Facebook, Instagram, Reddit, Quora, CampRatingz, and Park Slope Parents found no additional alumni-circulated historical myth about Kanawana beyond the already-documented 'oldest camp in Canada' claim. Reddit has zero indexed discussion of the camp under any query tried; official social-media posts consistently use accurate historical dates and framing.",
+      "sources": [
+        "src_campratingz_2012"
+      ],
+      "confidence": "disputed",
+      "category": "programs",
+      "entities": [
+        "Camp Kanawana",
+        "alumni myths"
+      ],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "v5.07",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1972",
+      "claim": "A 9-query sweep for camp legends shared with comparable YMCA/Canadian camps (Pine Crest, John Island, Camp Weredale, Camp Ouareau) found no published, camp-specific ghost story matching Kanawana's for any of them. Camp Weredale was independently reconfirmed to be a Rotary Club/Batshaw-affiliated at-risk-youth camp, not a YMCA-of-Montreal camp. An American Camp Association message-board thread on camp ghost stories confirmed the same generic archetypes already documented in this wiki, but contained no Canadian or YMCA-specific references at all.",
+      "sources": [],
+      "confidence": "disputed",
+      "category": "programs",
+      "entities": [
+        "Camp Kanawana",
+        "Camp Pine Crest",
+        "Camp Weredale"
+      ],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "v5.07",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1973",
+      "claim": "Camp Perrot's exact location is confirmed: 'the south shore of Isle Perrot, looking out over the St. Lawrence River, with Beauharnois on the left and the Ottawa and St. Lawrence Rivers merging on the right' -- a 45-acre property with 600 feet of sandy shoreline, approximately 28 miles from Montreal, with the mailing address 'Y.M.C.A. Camp Perrot, Ile Perrot North, Que.'",
+      "sources": [
+        "src_ia_camp_perrot_collection"
+      ],
+      "confidence": "stated",
+      "category": "places",
+      "entities": [
+        "Camp Perrot",
+        "Île Perrot"
+      ],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "v5.07",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1974",
+      "claim": "Camp Perrot's founding date is corrected to 1944, triangulated across five independent annual reports that consistently self-describe their season number relative to a common start year: the 1947 report calls itself the camp's 'fourth season'; 1948 the 'fifth season'; 1950 the 'seventh consecutive season'; 1951 the 'eighth year of operation'; and 1952 the 'ninth summer' for both boys' and girls' sessions. This supersedes the wiki's prior '1945-1954' range, which reflected only the span of surviving documents, not the camp's true founding year.",
+      "sources": [
+        "src_ia_camp_perrot_collection"
+      ],
+      "confidence": "stated",
+      "category": "places",
+      "entities": [
+        "Camp Perrot"
+      ],
+      "date_ref": "1944",
+      "conflicts_with": [],
+      "added_version": "v5.07",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1975",
+      "claim": "Camp Perrot's closure is genuinely contested between two internal sources, not resolvable to a single clean date. A 1959 memo by director Donald Cochrane rebuts a July 1958 Camp Committee decision to close the resident camp once a new site was found, indicating the resident program was still fully operating in 1958-59. A separate 1969 planning document instead states the resident camp (established in the 1940s) closed at an OCR-illegible year, sat dormant for about six years, and reopened in 1958 as a Day Camp -- which would place the resident camp's closure around 1952, inconsistent with the 1959 memo's evidence of ongoing 1958-59 operation. This contradiction is preserved as an open question rather than forced to a single answer.",
+      "sources": [
+        "src_camp_perrot_1959_fresh_look",
+        "src_camp_perrot_1969_family_centre"
+      ],
+      "confidence": "disputed",
+      "category": "places",
+      "entities": [
+        "Camp Perrot"
+      ],
+      "date_ref": "1958-1964",
+      "conflicts_with": [],
+      "added_version": "v5.07",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1976",
+      "claim": "Camp Perrot ran sequential single-sex sessions at the same site (a ~6-week Boys' Camp late June to early August, then a ~2-week Girls' Camp in mid-August) rather than simultaneous coeducation. Its 1947 brochure gives ages 9-14 for boys and 9-15 for girls -- younger and narrower than Kanawana's stated 8-16 boys-only range in the same brochure. Camp Perrot explicitly described itself as a low-cost 'service' camp for boys and girls 'who for a variety of reasons are unable to attend camps with more elaborate facilities,' fed by referral quotas from roughly nine Montreal YMCA branches plus service clubs (Foremen's Club of Montreal, Rotary, Kinsmen, Kinette Club) sponsoring needy campers. Attendance was roughly 260 campers per season in 1947, with a rated capacity later reaching approximately 630 boys and 210 girls by 1958.",
+      "sources": [
+        "src_ia_camp_perrot_collection"
+      ],
+      "confidence": "stated",
+      "category": "places",
+      "entities": [
+        "Camp Perrot",
+        "Camp Kanawana"
+      ],
+      "date_ref": "1944-1958",
+      "conflicts_with": [],
+      "added_version": "v5.07",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1977",
+      "claim": "Camp Perrot ran its own independent canoe-tripping program (to Cascade Island, around Perrot Island, and later up the Ottawa River to Carillon/Grenville) driven by its own flat, non-wilderness terrain, not as a base for Kanawana's trips -- the two camps' shared Île-Perrot-area canoe activity appears to be geographic coincidence. However, a direct equipment-sharing link is documented: the 1954 Camp Perrot Annual Report states 'with the addition of another canoe donated by Kamp Kanawana, we were able to keep three canoes out.'",
+      "sources": [
+        "src_ia_camp_perrot_collection"
+      ],
+      "confidence": "stated",
+      "category": "programs",
+      "entities": [
+        "Camp Perrot",
+        "Camp Kanawana",
+        "canoe trips"
+      ],
+      "date_ref": "1954",
+      "conflicts_with": [],
+      "added_version": "v5.07",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1978",
+      "claim": "A. Ross Seaman (Kanawana director 1959-1967) is thanked in Camp Perrot's 1952 annual report as 'Past Director of Camp Perrot,' and per the 1959 Cochrane memo personally planted trees at Perrot 'about 1950' -- a previously undocumented staff-overlap between the two camps. Margaret Seaman (likely a relation) was Camp Perrot's Girls' Camp Director in 1952. Hedley Dimock appears on Camp Perrot's 1958 committee list.",
+      "sources": [
+        "src_ia_camp_perrot_collection",
+        "src_camp_perrot_1959_fresh_look"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "A. Ross Seaman",
+        "Margaret Seaman",
+        "Hedley Dimock",
+        "Camp Perrot"
+      ],
+      "date_ref": "1950-1958",
+      "conflicts_with": [],
+      "added_version": "v5.07",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1979",
+      "claim": "Camp Dorval's operation actually traces to 1925, three years earlier than the '1926-1928' window previously inferred from the span of surviving archival records. The 1928 season report states it was 'again operated jointly by the Verdun and St. Paul Branches' of the Montreal YMCA, using 'the large house which was used in 1925 and 1926,' leased from the Marcil Trust Company for $75 (May-November). It was a weekend/short-stay near-city retreat (only 2 full weeks open in the entire 1928 season, roughly $500 total annual cost), not a full residential summer camp. The report explicitly recommends continuation ('the near-the-City Camp idea has proven itself... strongly recommended that the Camp be continued'), directly contradicting a prior KB inference that its brief record suggested a failed experiment.",
+      "sources": [
+        "src_camp_dorval_1928"
+      ],
+      "confidence": "stated",
+      "category": "context",
+      "entities": [
+        "Camp Dorval",
+        "YMCA of Montreal"
+      ],
+      "date_ref": "1925-1928",
+      "conflicts_with": [],
+      "added_version": "v5.07",
       "added_by": "ralph_loop"
     }
   ]

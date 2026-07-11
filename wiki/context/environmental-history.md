@@ -1,7 +1,7 @@
 # Environmental Education and Stewardship at Kanawana
 
-*Status: E1-reviewed | Sources: 23*
-*Last Updated: 2026-07-07 — Green Shift section enriched with primary-source detail from a systematic Montreal YMCA/YMCA Quebec annual-report sweep (2007-2012), plus new School Programs and Accessibility sections*
+*Status: E1-reviewed | Sources: 25*
+*Last Updated: 2026-07-10 (Batch 7 research pass: no named pedagogical framework found for environmental programming, but real informal iNaturalist/GBIF citizen-science observations confirmed at the camp's own lake; no formal biodiversity survey found)*
 
 ## Overview
 
@@ -44,6 +44,10 @@ YMCA Quebec runs the C-Vert environmental leadership program for ages 14–16, l
 ### Nature-Deficit Framing
 
 A 2026 Postmedia article framed Kanawana's programming around addressing "nature-deficit disorder" (a term coined by Richard Louv in 2005), positioning the camp as an antidote to screen-dominated urban childhoods.^6 The camp enforces a no-cellphones and no-Wi-Fi policy, describing itself as an "unplugged camp."^6
+
+### Pedagogical Framework and Biodiversity Monitoring
+
+No source identifies a specific named pedagogical framework (place-based education, bioregionalism, forest-school pedagogy) behind Kanawana's environmental programming; an 18-query, 4-surface sweep (2026-07-10) found only the described-but-unattributed "tournée verte" (green tour) practice covering the camp's ecological infrastructure, plus Chris Adam's own "Nature as Mentor" philosophy, which is documented as his personal Dawson College/Earthvalues Institute brand connected to Kanawana biographically rather than as an adopted camp curriculum.^30 Separately, direct GBIF and iNaturalist API queries confirm real, geotagged citizen-science observations exist at "Ch du Lac-Kanawana, St-Sauveur" — Pickerel Frog, American Toad, Green Frog, beaver, and fisher among them, dated June 2026 — informal individual app-user records, not an institutional survey. No formal ecological survey, biodiversity inventory, or eBird hotspot under the Kanawana name was found.^31
 
 ## Institutional Connections
 
@@ -94,9 +98,9 @@ The Canadian Summer Camp Research Project (CSCRP, 2006–2011), conducted by the
 
 1. ~~[Important] When exactly within the 2006–2009 green shift was the Clivus Multrum system installed?~~ [Resolved] Grand Portage cabin demolished ~2006 to make way; two green sanitary installations tested summers 2007 and 2008; system operational by 2007.
 2. ~~[Partially resolved] ... actual numeric water quality values could not be retrieved due to 403 blocks.~~ [Resolved] Operator browser access (June 2026) retrieved the values: 2010 phosphorus 8.4 µg/L, chlorophyll a 7.2 µg/L, Secchi 2.5 m (mesotrophe); 2011 phosphorus 7.5 µg/L, chlorophyll a 3.4 µg/L, Secchi 3.9 m (oligo-mesotrophe). No RSVL data after 2011. Minor conflicts on volume/renewal/monitoring-span recorded as c_009-c_011.
-3. [Important] Has the camp's environmental programming been influenced by specific pedagogical frameworks (e.g., place-based education, bioregionalism)?
+3. [Important, re-confirmed dead end 2026-07-10] Has the camp's environmental programming been influenced by specific pedagogical frameworks (e.g., place-based education, bioregionalism)? An 18-query sweep across job postings, academic literature, and francophone environmental-education sources found no named framework attributed to Kanawana specifically. Still worth trying: a direct inquiry to YMCA Quebec's program department, since full job-posting curriculum text sits behind an authenticated portal.
 4. ~~[Nice-to-have] Is the 1980 "Chris Adams" who ran the Nature Awareness program the same person as the 2017 Pip Award recipient Chris Adam?~~ [Resolved] Very likely the same person: both from Vanier/Dawson area, both with wildlife/nature expertise, surname difference is a transcription variant in 1980 Ka-News.
-5. [Nice-to-have] Has the camp participated in any formal ecological surveys or biodiversity inventories?
+5. [Nice-to-have, re-confirmed dead end 2026-07-10] Has the camp participated in any formal ecological surveys or biodiversity inventories? No formal survey found, but real informal citizen-science data exists: geotagged iNaturalist/GBIF observations (frogs, beaver, fisher) at the camp's own lake, logged by app users unconnected to any camp program.
 
 ## Related Articles
 
@@ -143,3 +147,5 @@ The Canadian Summer Camp Research Project (CSCRP, 2006–2011), conducted by the
 27. Les YMCA du Québec, Rapport à la communauté 2011 (Wayback Machine, fetched directly 2026-07-07). f_1764.
 28. Les YMCA du Québec, Rapport à la communauté 2012 (Wayback Machine, fetched directly 2026-07-07). f_1765.
 29. Les YMCA du Québec, Rapport Annuel 2019 (Wayback Machine, fetched directly 2026-07-07). f_1766.
+30. Médiaterre, "Le camp Y Kanawana poursuit sa revitalisation et son virage vert" [src_mediaterre_kanawana_2009]; Dawson College Chris Adam research page [src_dawson_chris_adam] (re-checked 2026-07-10, no named pedagogical framework found).
+31. Direct GBIF and iNaturalist API queries for the Lac Kanawana area, 2026-07-10 — geotagged observations at "Ch du Lac-Kanawana, St-Sauveur."

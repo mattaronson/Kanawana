@@ -1313,9 +1313,15 @@
           "at": "2026-07-09T07:00:00Z",
           "by": "auto",
           "task": "REVIEW"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-07-10T04:00:00Z",
+          "by": "auto",
+          "task": "RESEARCH"
         }
       ],
-      "ralph_loops_completed": 0,
+      "ralph_loops_completed": 1,
       "kb_facts_used": [
         "f_0345",
         "f_0350",
@@ -1385,10 +1391,25 @@
         "f_1309",
         "f_1335",
         "f_1337",
-        "f_1339"
+        "f_1339",
+        "f_1960",
+        "f_1961",
+        "f_1962",
+        "f_1963",
+        "f_1964",
+        "f_1966",
+        "f_1967",
+        "f_1968",
+        "f_1983"
       ],
-      "sources_cited": [],
-      "open_questions": 4,
+      "sources_cited": [
+        "src_concordia_finding_aid_master_pdf",
+        "src_concordia_12N_camping_associations",
+        "src_trent_qca_fonds",
+        "src_banq_numerique_general",
+        "src_ballantyne_1944"
+      ],
+      "open_questions": 7,
       "cross_links": [
         "founding-1894",
         "centennial-1967",
@@ -1399,7 +1420,7 @@
         "stuart-mclean"
       ],
       "file_id": null,
-      "word_count": 1902,
+      "word_count": 2547,
       "notes": "E1 REVIEW (2026-02-19): Fixed source counts (85 total, 74 extracted, 11 IA documents). Restructured with newspaper sources, Pip Award pages, biographical sources. 2026-06-21: Added 1966-67 annual report (f_1335), expanded 12B01/14D holdings detail (f_1337), expanded Kautz YMCA Archives entry (f_1339). Updated statistics to 138 sources, 1355 facts, KB v4.74. 2026-07-09: Resolved/clarified 3 of 7 open questions (McMorris thesis now read in full; Trent OCA/CCA fonds largely resolved via Derek Walsh; BAnQ Advitam notice clarified as a separate deposit from the Concordia fonds). Refreshed Source/KB Statistics tables to current totals (580 sources, 1790 facts, KB v5.02) -- the detailed primary/secondary/tertiary category breakdown remains a March-2026 tally, flagged stale, not recomputed this pass."
     },
     {
@@ -2169,9 +2190,15 @@
           "at": "2026-07-09T22:00:00Z",
           "by": "auto",
           "task": "RESEARCH"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-07-10T04:00:00Z",
+          "by": "auto",
+          "task": "RESEARCH"
         }
       ],
-      "ralph_loops_completed": 2,
+      "ralph_loops_completed": 3,
       "kb_facts_used": [
         "f_0470",
         "f_0476",
@@ -2246,13 +2273,15 @@
         "f_1944",
         "f_1945",
         "f_1946",
-        "f_1947"
+        "f_1947",
+        "f_1956"
       ],
       "sources_cited": [
         "src_wikimapia_kanawana",
         "src_batshaw_camp_weredale",
         "src_vss_plan_urbanisme_2024",
-        "src_vss_reglement_zonage_222_2008"
+        "src_vss_reglement_zonage_222_2008",
+        "src_concordia_atom_12F"
       ],
       "open_questions": 6,
       "cross_links": [
@@ -2267,7 +2296,7 @@
         "places-and-locations"
       ],
       "file_id": null,
-      "word_count": 2883,
+      "word_count": 2913,
       "notes": "E1 REVIEW (2026-02-19): Added ^4 citation for 1921 brochure (railway route). Fixed 'gorgeous views' promotional language. Standardized 'Harold C. Cross'. Added camp-otoreke cross-link. Removed KB fact IDs from Sources section. All claims cited, tone neutral. 2026-06-20: Added Indigenous territory context (f_1315) and Mille-Isles regional history (f_1314). 2026-06-21: Added 1976 Lovell's directory listing (f_1331) and 2023 superintendent's house fire (f_1333)."
     },
     {
@@ -2853,9 +2882,15 @@
           "at": "2026-07-09T00:00:00Z",
           "by": "auto",
           "task": "RESEARCH"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-07-10T04:00:00Z",
+          "by": "auto",
+          "task": "RESEARCH"
         }
       ],
-      "ralph_loops_completed": 1,
+      "ralph_loops_completed": 2,
       "kb_facts_used": [
         "f_0135",
         "f_0196",
@@ -2924,7 +2959,13 @@
         "f_1208",
         "f_1209",
         "f_1210",
-        "f_1810"
+        "f_1810",
+        "f_1970",
+        "f_1971",
+        "f_1972",
+        "f_1973",
+        "f_1974",
+        "f_1975"
       ],
       "sources_cited": [
         "src_ymca_website",
@@ -2945,7 +2986,11 @@
         "src_fireside_canada_chasse_galerie",
         "src_kotula_stumpy",
         "src_cropsey_documentary",
-        "src_slate_camp_ghost_2019"
+        "src_slate_camp_ghost_2019",
+        "src_1951_kamp_kanawana_history",
+        "src_ia_green_triangle_collection",
+        "src_green_triangle_1933_07_08",
+        "src_campratingz_2012"
       ],
       "open_questions": 8,
       "cross_links": [
@@ -2957,7 +3002,7 @@
         "canadian-camping-movement"
       ],
       "file_id": null,
-      "word_count": 4045,
+      "word_count": 4697,
       "notes": "R1-R2 RALPH completed 2026-02-27. Four myths documented (oldest camp, name meaning, Indian heritage, founding narrative). Legends: haunted house (1935), Cropsey archetype, Anson Minor (Canadian parallel), Chopsy (Kanawana-local). Quebec folklore context. Fireside Canada podcast as source. 17 KB facts cited. 19 sources. Chopsy needs oral history."
     },
     {
@@ -3367,9 +3412,15 @@
           "at": "2026-03-15T15:30:00Z",
           "by": "auto",
           "task": "REVIEW"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-07-10T04:00:00Z",
+          "by": "auto",
+          "task": "RESEARCH"
         }
       ],
-      "ralph_loops_completed": 1,
+      "ralph_loops_completed": 2,
       "kb_facts_used": [
         "f_0354",
         "f_0470",
@@ -3390,7 +3441,10 @@
         "f_1184",
         "f_1155",
         "f_1156",
-        "f_1157"
+        "f_1157",
+        "f_1956",
+        "f_1957",
+        "f_1958"
       ],
       "sources_cited": [
         "src_batshaw_camp_weredale",
@@ -3401,7 +3455,9 @@
         "src_ciusss_weredale_90",
         "src_weredale_camp",
         "src_blog_frank_crabbe",
-        "src_batshaw_history"
+        "src_batshaw_history",
+        "src_concordia_atom_12F",
+        "src_batshaw_timeline_page"
       ],
       "open_questions": 5,
       "cross_links": [
@@ -3410,7 +3466,7 @@
         "the-kanawana-site"
       ],
       "file_id": null,
-      "word_count": 1008
+      "word_count": 1354
     },
     {
       "article_id": "a-ross-seaman",
@@ -3453,9 +3509,15 @@
           "at": "2026-07-09T18:00:00Z",
           "by": "auto",
           "task": "RESEARCH"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-07-10T04:00:00Z",
+          "by": "auto",
+          "task": "RESEARCH"
         }
       ],
-      "ralph_loops_completed": 2,
+      "ralph_loops_completed": 3,
       "kb_facts_used": [
         "f_0612",
         "f_0631",
@@ -3481,7 +3543,8 @@
         "f_1773",
         "f_1774",
         "f_1775",
-        "f_1914"
+        "f_1914",
+        "f_1981"
       ],
       "sources_cited": [
         "src_concordia_seaman_fund",
@@ -3489,7 +3552,9 @@
         "src_dawson_crlt",
         "src_concordia_ctr_2001",
         "src_concordia_atom_12K",
-        "src_ia_ymca_annual_report_1966_67"
+        "src_ia_ymca_annual_report_1966_67",
+        "src_ia_camp_perrot_collection",
+        "src_camp_perrot_1959_fresh_look"
       ],
       "open_questions": 5,
       "cross_links": [
@@ -3498,7 +3563,7 @@
         "section-names"
       ],
       "file_id": null,
-      "word_count": 941
+      "word_count": 1065
     },
     {
       "article_id": "taylor-statten",
@@ -3762,9 +3827,15 @@
           "at": "2026-06-22T11:45:14.689724+00:00",
           "by": "auto",
           "task": "REVIEW"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-07-10T04:00:00Z",
+          "by": "auto",
+          "task": "RESEARCH"
         }
       ],
-      "ralph_loops_completed": 1,
+      "ralph_loops_completed": 2,
       "kb_facts_used": [
         "f_0330",
         "f_0346",
@@ -3773,9 +3844,21 @@
         "f_0874",
         "f_0877",
         "f_0897",
-        "f_0940"
+        "f_0940",
+        "f_1976",
+        "f_1977",
+        "f_1978",
+        "f_1979",
+        "f_1980",
+        "f_1981",
+        "f_1963"
       ],
-      "sources_cited": 4,
+      "sources_cited": [
+        "src_ia_camp_perrot_collection",
+        "src_camp_perrot_1959_fresh_look",
+        "src_camp_perrot_1969_family_centre",
+        "src_concordia_finding_aid_master_pdf"
+      ],
       "open_questions": 6,
       "cross_links": [
         "directors-index",
@@ -3784,7 +3867,7 @@
         "sources-index"
       ],
       "file_id": null,
-      "word_count": 418,
+      "word_count": 1625,
       "notes": "RALPH R1 complete (2026-06-21): 30+ web searches returned zero new facts. Article meets draft criteria (Overview summary, 3 content sections, 3 sources). All remaining open questions require physical Concordia Archives access (P0145/12G). BAnQ newspaper facts (f_1326-f_1339) checked — none mention Camp Perrot. Advanced stub→draft."
     },
     {
@@ -4574,9 +4657,15 @@
           "at": "2026-03-24T03:20:00Z",
           "by": "auto",
           "task": "REVIEW"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-07-10T04:00:00Z",
+          "by": "auto",
+          "task": "RESEARCH"
         }
       ],
-      "ralph_loops_completed": 2,
+      "ralph_loops_completed": 3,
       "kb_facts_used": [
         "f_0477",
         "f_0572",
@@ -4604,7 +4693,9 @@
         "f_1763",
         "f_1764",
         "f_1765",
-        "f_1766"
+        "f_1766",
+        "f_1954",
+        "f_1955"
       ],
       "sources_cited": [
         "src_ymca_kanawana_job_listing",
@@ -4647,7 +4738,7 @@
         "pip-alumni-award"
       ],
       "file_id": null,
-      "word_count": 2050
+      "word_count": 2689
     },
     {
       "article_id": "page-family",
@@ -4863,9 +4954,15 @@
           "at": "2026-06-20T06:45:00Z",
           "by": "auto",
           "task": "REVIEW"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-07-10T04:00:00Z",
+          "by": "auto",
+          "task": "RESEARCH"
         }
       ],
-      "ralph_loops_completed": 1,
+      "ralph_loops_completed": 2,
       "kb_facts_used": [
         "f_0750",
         "f_0811",
@@ -4887,7 +4984,13 @@
         "f_0800",
         "f_0804",
         "f_0810",
-        "f_1288"
+        "f_1288",
+        "f_1976",
+        "f_1977",
+        "f_1978",
+        "f_1982",
+        "f_1983",
+        "f_1984"
       ],
       "sources_cited": [
         "src_qahn_ymca_camp",
@@ -4909,7 +5012,10 @@
         "src_mcmorris_thesis",
         "src_ouareau_history",
         "src_ouareau_wikipedia",
-        "src_concordia_kanawana_documentary"
+        "src_concordia_kanawana_documentary",
+        "src_camp_dorval_1928",
+        "src_concordia_12N_camping_associations",
+        "src_trent_qca_fonds"
       ],
       "open_questions": 5,
       "cross_links": [
@@ -4924,7 +5030,7 @@
         "a-ross-seaman"
       ],
       "file_id": null,
-      "word_count": 1810
+      "word_count": 2121
     },
     {
       "article_id": "kanawana-in-media",
@@ -5100,9 +5206,15 @@
           "at": "2026-06-22T11:53:25.445440+00:00",
           "by": "auto",
           "task": "REVIEW"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-07-10T04:00:00Z",
+          "by": "auto",
+          "task": "RESEARCH"
         }
       ],
-      "ralph_loops_completed": 1,
+      "ralph_loops_completed": 2,
       "kb_facts_used": [
         "f_1409",
         "f_1440",
@@ -5117,7 +5229,7 @@
         "f_1449",
         "f_1450"
       ],
-      "sources_cited": 7,
+      "sources_cited": [],
       "open_questions": 4,
       "cross_links": [
         "sgw-concordia-connection",
@@ -5127,7 +5239,7 @@
         "ymca-quebec-history"
       ],
       "file_id": null,
-      "word_count": 1200
+      "word_count": 1608
     },
     {
       "article_id": "sgw-concordia-connection",
