@@ -3486,6 +3486,12 @@
           "at": "2026-07-10T04:00:00Z",
           "by": "auto",
           "task": "RESEARCH"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-07-11T00:00:00Z",
+          "by": "auto",
+          "task": "REVIEW"
         }
       ],
       "ralph_loops_completed": 2,
@@ -3527,14 +3533,15 @@
         "src_concordia_atom_12F",
         "src_batshaw_timeline_page"
       ],
-      "open_questions": 5,
+      "open_questions": 6,
       "cross_links": [
         "canadian-camping-movement",
         "camp-otoreke",
         "the-kanawana-site"
       ],
       "file_id": null,
-      "word_count": 1354
+      "word_count": 1395,
+      "notes": "2026-07-11: Workstream A Wave 1 prose-sediment REVIEW pass (final article of 8) -- fixed a malformed header (the 'Sources:' field was listing raw source IDs instead of a count), moved the embedded 'Correction (2026-07-10)' paragraph into a new Research Notes > Revision History section, and fixed a real inconsistency the sediment had introduced: the Overview still described the two-site plan as 'ultimately abandoned' even though the article's own later correction established a signed 1979 lease and joint files through 1981-82 -- rewritten to match. Corrected open_questions count (was stale at 5, actual is 6, counting sub-item 2a). No facts, citations, or open questions dropped; status unchanged."
     },
     {
       "article_id": "a-ross-seaman",
