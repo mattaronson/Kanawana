@@ -2279,3 +2279,7 @@ HYPOTHESIZE — Remaining productive research requires:
   - coeducation-gender.md: fixed the malformed Sources header, moved the c_001 editorial-resolution narrative into a new Research Notes > Revision History section, folded the orphaned "R3 Verification Notes" H2 into Research Notes.
   - environmental-history.md: header was already close to standard (trimmed dated parenthetical only). Found and fixed a genuine citation-numbering bug: the Sources list had two entries each numbered "17." and "22.", leaving inline markers ambiguous about which they referenced -- disambiguated as 17b./22b. and corrected the three inline markers that actually pointed at the CRE Laurentides technical data.
   - No facts, sources, citations, or open questions dropped on either article. Status unchanged (E1-reviewed) on both. wiki/articles.json updated.
+
+[2026-07-11] Campaign 47 (Workstream A, Wave 2, article 5): prose-sediment REVIEW pass on myths-and-legends.md
+  - Trimmed header's dated parenthetical. Moved the embedded "Update (2026-07-10)" and "Correction (2026-07-10)" paragraphs (about the 38-issue Green Triangle discovery and the Haunted House/ghost-story content) into a new Research Notes > Revision History section (article had none before).
+  - No facts, sources, citations, or open questions dropped. Status unchanged (E1-reviewed). wiki/articles.json updated.
