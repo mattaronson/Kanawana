@@ -1,7 +1,7 @@
 # Stuart McLean
 
-*Status: E1-reviewed | Sources: src_samaritanmag_mclean, src_ourkids_mclean, src_ymca_website, src_oral_aronson, src_wikipedia_stuart_mclean, src_canadian_encyclopedia_mclean, src_montrealer_mclean, src_concordia_mclean_tribute, src_cbc_mclean_fund, src_westmount_mag_mclean, src_ymca_john_island_mclean_speech, src_cbc_mclean_obit, src_mcmaster_mclean_fonds, src_mclean_letter_from_camp, src_globe_mclean_bent_vision*
-*Last Updated: 2026-07-09 (open-questions research pass: retrieved the full 983-line McMaster finding aid directly, surfacing 8 previously undocumented camp-related archival items and confirming no camp photos exist in the fonds; added CBC Radio Noon interview provenance for an already-known quote)*
+*Status: E1-reviewed | Sources: 15*
+*Last Updated: 2026-07-09*
 
 ## Overview
 
