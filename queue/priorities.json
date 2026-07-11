@@ -2523,7 +2523,9 @@
       "blocking": false,
       "assigned_weight": "P3",
       "created_at": "2026-07-09T06:00:00Z",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-07-10T07:00:00Z",
+      "result": "Retrieved successfully with a browser user-agent (curl -A). Contains one review (Nov 12 2023) confirming bilingual programming, tech-free policy, and \"running for more than a century\" -- corroborates existing facts, no new substantive claims. See f_1983."
     },
     {
       "priority_id": "p_198",

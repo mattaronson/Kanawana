@@ -4685,9 +4685,15 @@
           "at": "2026-07-10T04:00:00Z",
           "by": "auto",
           "task": "RESEARCH"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-07-10T07:00:00Z",
+          "by": "auto",
+          "task": "RESEARCH"
         }
       ],
-      "ralph_loops_completed": 3,
+      "ralph_loops_completed": 4,
       "kb_facts_used": [
         "f_0477",
         "f_0572",
@@ -4717,7 +4723,8 @@
         "f_1765",
         "f_1766",
         "f_1954",
-        "f_1955"
+        "f_1955",
+        "f_1983"
       ],
       "sources_cited": [
         "src_ymca_kanawana_job_listing",
@@ -4745,7 +4752,8 @@
         "src_ymcaquebec_annualreport_2009",
         "src_ymcaquebec_annualreport_2011",
         "src_ymcaquebec_annualreport_2012",
-        "src_ymcaquebec_annualreport_2019"
+        "src_ymcaquebec_annualreport_2019",
+        "src_parkslopeparents_2023"
       ],
       "open_questions": 5,
       "cross_links": [
@@ -4760,7 +4768,7 @@
         "pip-alumni-award"
       ],
       "file_id": null,
-      "word_count": 2689
+      "word_count": 2729
     },
     {
       "article_id": "page-family",

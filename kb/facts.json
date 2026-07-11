@@ -2,7 +2,7 @@
   "version": "v4.98",
   "kb_version": "v5.08",
   "migrated_from": "3.3",
-  "fact_count": 1944,
+  "fact_count": 1945,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -33663,6 +33663,22 @@
         "YMCA of Montreal"
       ],
       "date_ref": "1892-1999",
+      "conflicts_with": [],
+      "added_version": "v5.08",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1983",
+      "claim": "A Park Slope Parents review (2023 Summer Camp Survey, posted November 12, 2023, parent of a 12- and 10-year-old) independently corroborates several already-documented camp characteristics: the camp is \"fully bilingual with French and English,\" has \"been running for more than a century,\" and is technology-free. The review also describes a 1-week overnight session option, activities (swimming, paddleboarding, archery, music), and COVID-era arrival protocols (testing, lice checks). Retrieved successfully 2026-07-10 with a browser user-agent, after two earlier timeout attempts.",
+      "sources": [
+        "src_parkslopeparents_2023"
+      ],
+      "confidence": "stated",
+      "category": "programs",
+      "entities": [
+        "Camp Kanawana"
+      ],
+      "date_ref": "2023-11-12",
       "conflicts_with": [],
       "added_version": "v5.08",
       "added_by": "ralph_loop"

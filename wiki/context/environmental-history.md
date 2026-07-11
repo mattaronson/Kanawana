@@ -43,7 +43,7 @@ YMCA Quebec runs the C-Vert environmental leadership program for ages 14–16, l
 
 ### Nature-Deficit Framing
 
-A 2026 Postmedia article framed Kanawana's programming around addressing "nature-deficit disorder" (a term coined by Richard Louv in 2005), positioning the camp as an antidote to screen-dominated urban childhoods.^6 The camp enforces a no-cellphones and no-Wi-Fi policy, describing itself as an "unplugged camp."^6
+A 2026 Postmedia article framed Kanawana's programming around addressing "nature-deficit disorder" (a term coined by Richard Louv in 2005), positioning the camp as an antidote to screen-dominated urban childhoods.^6 The camp enforces a no-cellphones and no-Wi-Fi policy, describing itself as an "unplugged camp."^6 A 2023 parent review independently corroborates the technology-free framing and describes the program as "fully bilingual with French and English."^32
 
 ### Pedagogical Framework and Biodiversity Monitoring
 
@@ -149,3 +149,4 @@ The Canadian Summer Camp Research Project (CSCRP, 2006–2011), conducted by the
 29. Les YMCA du Québec, Rapport Annuel 2019 (Wayback Machine, fetched directly 2026-07-07). f_1766.
 30. Médiaterre, "Le camp Y Kanawana poursuit sa revitalisation et son virage vert" [src_mediaterre_kanawana_2009]; Dawson College Chris Adam research page [src_dawson_chris_adam] (re-checked 2026-07-10, no named pedagogical framework found).
 31. Direct GBIF and iNaturalist API queries for the Lac Kanawana area, 2026-07-10 — geotagged observations at "Ch du Lac-Kanawana, St-Sauveur."
+32. Park Slope Parents, Camp YMCA Kanawana review, November 12, 2023 [src_parkslopeparents_2023]. Retrieved successfully 2026-07-10 after two earlier timeout attempts.
