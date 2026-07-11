@@ -7118,18 +7118,22 @@
       "sources_cited": [],
       "open_questions": 2,
       "cross_links": [
-        "directors-index",
-        "founding-1894",
-        "wartime-kanawana",
+        "between-centennials",
         "centennial-1967",
         "centennial-1994",
         "coeducation-gender",
+        "directors-index",
         "environmental-history",
-        "sources-index"
+        "founding-1894",
+        "interwar-era",
+        "modern-era",
+        "postwar-gap",
+        "sources-index",
+        "wartime-kanawana"
       ],
       "file_id": null,
-      "word_count": 1341,
-      "notes": "2026-07-11: Workstream B hub page. Synthesizes existing wiki articles into a decade-by-decade navigation hub per the approved wiki-expansion plan; adds no new facts or sources of its own (kb_facts_used/sources_cited intentionally empty -- every claim is already cited in the linked articles). Status left at 'draft' rather than following the normal RESEARCH+RALPH draft bar, since this is explicitly a hub/navigation page, not a primary-content article.",
+      "word_count": 1338,
+      "notes": "2026-07-11: Workstream B hub page. Synthesizes existing wiki articles into a decade-by-decade navigation hub per the approved wiki-expansion plan; adds no new facts or sources of its own (kb_facts_used/sources_cited intentionally empty -- every claim is already cited in the linked articles). Status left at 'draft' rather than following the normal RESEARCH+RALPH draft bar, since this is explicitly a hub/navigation page, not a primary-content article. | 2026-07-11: Linked all four new Workstream C4 era articles into the Decades-at-a-Glance table and decade prose sections, replacing \"no dedicated article yet\" placeholders. This delivers the hub-splitting stretch goal flagged in Open Question 2 (now resolved and removed).",
       "tags": {
         "era": [
           "1890s",
@@ -8242,6 +8246,249 @@
           "programs",
           "staff",
           "traditions"
+        ],
+        "is_hub": false
+      }
+    },
+    {
+      "article_id": "interwar-era",
+      "title": "The Interwar Era (1920s-1930s)",
+      "wiki_folder": "chronology",
+      "status": "draft",
+      "status_history": [
+        {
+          "status": "draft",
+          "at": "2026-07-11T00:00:00Z",
+          "by": "auto",
+          "task": "WRITE"
+        }
+      ],
+      "ralph_loops_completed": 1,
+      "kb_facts_used": [
+        "f_0262",
+        "f_0293",
+        "f_0304",
+        "f_0440",
+        "f_1404",
+        "f_1405",
+        "f_1407",
+        "f_1408",
+        "f_1846",
+        "f_1847"
+      ],
+      "sources_cited": [
+        "src_brochure_1921",
+        "src_brochure_1922",
+        "src_brochure_1923",
+        "src_gas_bag_1923",
+        "src_wikipedia_woodcraft_league",
+        "src_woodcraft_birch_bark",
+        "src_histclo_woodcraft",
+        "src_mcmorris_thesis",
+        "src_newspapers_gazette_1918",
+        "src_green_triangle_1938"
+      ],
+      "open_questions": 3,
+      "cross_links": [
+        "directors-index",
+        "council-ring",
+        "canadian-camping-movement",
+        "ralph-dawson",
+        "rl-charlton",
+        "timeline-overview"
+      ],
+      "file_id": null,
+      "word_count": 1005,
+      "notes": "2026-07-11: Workstream C4 spawn (1 of 4). Connective-narrative synthesis, no new research conducted.",
+      "tags": {
+        "era": [
+          "1920s",
+          "1930s"
+        ],
+        "region": "montreal",
+        "location_refs": [
+          "the-kanawana-site"
+        ],
+        "person_type": null,
+        "topics": [
+          "chronology",
+          "directors",
+          "traditions"
+        ],
+        "is_hub": false
+      }
+    },
+    {
+      "article_id": "postwar-gap",
+      "title": "The Postwar Gap (1947-1966)",
+      "wiki_folder": "chronology",
+      "status": "draft",
+      "status_history": [
+        {
+          "status": "draft",
+          "at": "2026-07-11T00:00:00Z",
+          "by": "auto",
+          "task": "WRITE"
+        }
+      ],
+      "ralph_loops_completed": 1,
+      "kb_facts_used": [],
+      "sources_cited": [
+        "src_camp_stephens_alumni_blog",
+        "src_mcmorris_thesis",
+        "src_ia_camp_perrot_collection",
+        "src_camp_perrot_1959_fresh_look",
+        "src_concordia_fonds",
+        "src_ia_ymca_annual_report_1966_67",
+        "src_concordia_chrcs_fonds"
+      ],
+      "open_questions": 3,
+      "cross_links": [
+        "directors-index",
+        "a-ross-seaman",
+        "nelson-mcewen",
+        "ross-bannerman",
+        "hedley-dimock",
+        "sgw-concordia-connection",
+        "camp-perrot",
+        "centennial-1967",
+        "timeline-overview"
+      ],
+      "file_id": null,
+      "word_count": 835,
+      "notes": "2026-07-11: Workstream C4 spawn (2 of 4). Connective-narrative synthesis, no new research conducted. Directly addresses CLAUDE.md-named \"1947-2003 director gap\" for its earliest, thinnest span.",
+      "tags": {
+        "era": [
+          "1950s",
+          "1960s"
+        ],
+        "region": "montreal",
+        "location_refs": [
+          "the-kanawana-site"
+        ],
+        "person_type": null,
+        "topics": [
+          "chronology",
+          "directors"
+        ],
+        "is_hub": false
+      }
+    },
+    {
+      "article_id": "between-centennials",
+      "title": "Between Centennials (1968-1993)",
+      "wiki_folder": "chronology",
+      "status": "draft",
+      "status_history": [
+        {
+          "status": "draft",
+          "at": "2026-07-11T00:00:00Z",
+          "by": "auto",
+          "task": "WRITE"
+        }
+      ],
+      "ralph_loops_completed": 1,
+      "kb_facts_used": [],
+      "sources_cited": [
+        "src_concordia_fonds",
+        "src_ymca_kanawana_history",
+        "src_kanawana_facts",
+        "src_mcmaster_mclean_fonds",
+        "src_ka_news_1980",
+        "src_mcmorris_thesis"
+      ],
+      "open_questions": 4,
+      "cross_links": [
+        "coeducation-gender",
+        "directors-index",
+        "stuart-mclean",
+        "dave-twynam",
+        "richard-patten",
+        "bruce-netherwood",
+        "centennial-1967",
+        "centennial-1994",
+        "timeline-overview"
+      ],
+      "file_id": null,
+      "word_count": 870,
+      "notes": "2026-07-11: Workstream C4 spawn (3 of 4). Connective-narrative synthesis, no new research conducted.",
+      "tags": {
+        "era": [
+          "1970s",
+          "1980s"
+        ],
+        "region": "montreal",
+        "location_refs": [
+          "the-kanawana-site"
+        ],
+        "person_type": null,
+        "topics": [
+          "chronology",
+          "directors",
+          "coeducation"
+        ],
+        "is_hub": false
+      }
+    },
+    {
+      "article_id": "modern-era",
+      "title": "The Modern Era: The Two-Tier Era (1995-Present)",
+      "wiki_folder": "chronology",
+      "status": "draft",
+      "status_history": [
+        {
+          "status": "draft",
+          "at": "2026-07-11T00:00:00Z",
+          "by": "auto",
+          "task": "WRITE"
+        }
+      ],
+      "ralph_loops_completed": 1,
+      "kb_facts_used": [],
+      "sources_cited": [
+        "src_oral_aronson",
+        "src_wayback_ymcamontreal_annualreport_2001_2002",
+        "src_msn_kanawana_closed_2021",
+        "src_montreal_families_gender",
+        "src_ymcaquebec_annualreport_2007",
+        "src_ymcaquebec_annualreport_2008",
+        "src_ymcaquebec_annualreport_2009",
+        "src_ymcaquebec_annualreport_2011"
+      ],
+      "open_questions": 3,
+      "cross_links": [
+        "directors-index",
+        "gary-white",
+        "david-leduc",
+        "kate-taylor",
+        "marie-pierre-lacasse",
+        "sean-day",
+        "bruce-netherwood",
+        "centennial-1994",
+        "environmental-history",
+        "coeducation-gender",
+        "timeline-overview"
+      ],
+      "file_id": null,
+      "word_count": 1069,
+      "notes": "2026-07-11: Workstream C4 spawn (4 of 4, final). Connective-narrative synthesis, no new research conducted. Ties together this session's institutional-role-director spawns into continuous narrative history. This completes Workstream C4 and the full operator-approved plan.",
+      "tags": {
+        "era": [
+          "1990s",
+          "2000s",
+          "2010s",
+          "2020s"
+        ],
+        "region": "montreal",
+        "location_refs": [
+          "the-kanawana-site"
+        ],
+        "person_type": null,
+        "topics": [
+          "chronology",
+          "directors",
+          "environment",
+          "coeducation"
         ],
         "is_hub": false
       }
