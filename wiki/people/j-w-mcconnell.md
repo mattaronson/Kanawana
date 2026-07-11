@@ -1,7 +1,7 @@
 # J.W. McConnell
 
-*Status: E1-reviewed | Sources: src_wikipedia_mcconnell, src_mcconnell_foundation, src_oral_aronson, src_fong_mcconnell_2008, src_kanawana_facts, src_toponymie_lac_wilson_stelucie, src_grandquebec_sadl_lakes, src_vss_familles_pionnieres, src_shgph_edouard_page, src_mcmorris_thesis, src_toponymie_lac_wilson_additional, src_concordia_12L, src_concordia_wilson_mcconnell_collection*
-*Last Updated: 2026-07-09 (open-questions research pass: McMorris thesis full-text search confirmed zero McConnell mentions, closing that lead; Fong biography search-inside confirmed blocked; 3 more Quebec "Lac Wilson" toponymy fiches found, mildly favouring the settler-family naming hypothesis)*
+*Status: E1-reviewed | Sources: 12*
+*Last Updated: 2026-07-09*
 
 ## Overview
 

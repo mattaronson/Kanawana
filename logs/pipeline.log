@@ -2288,3 +2288,8 @@ HYPOTHESIZE — Remaining productive research requires:
   - cushing-family.md: removed the old-style HTML-comment header, moved the c_019 contradiction/editorial-resolution narrative into a new Research Notes > Revision History section.
   - dave-twynam.md: trimmed the header's dated parenthetical; caught and fixed staleness -- the article still described conflict c_007 (Twynam's directorship-correspondence date) as unresolved, when directors-index.md's own Revision History already documents it resolved to 1979 back in Campaign 25. Updated the Directorship section and Open Question 1 to match, added a Revision History entry.
   - No facts, sources, citations, or open questions dropped on either article. Status unchanged (E1-reviewed) on both. wiki/articles.json updated.
+
+[2026-07-11] Campaign 49 (Workstream A, Wave 2, articles 8-9): prose-sediment REVIEW pass on j-w-mcconnell.md and sean-day.md
+  - j-w-mcconnell.md: fixed the malformed Sources header only (body prose was already clean).
+  - sean-day.md: trimmed the header's dated parenthetical, moved the c_017 editorial-resolution narrative into a new Research Notes > Revision History section, fixed two Sources entries that still labeled conflict c_017 "unresolved", and fixed an out-of-sequence Open Questions numbering (1, 5, 2, 3, 4 -> 1-5).
+  - No facts, sources, citations, or open questions dropped on either article. Status unchanged (E1-reviewed) on both. wiki/articles.json updated.
