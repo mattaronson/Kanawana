@@ -2354,3 +2354,8 @@ HYPOTHESIZE — Remaining productive research requires:
   - Spot-checked 10 articles' auto-assigned era/topics against a manual read (founding-1894, directors-index, camp-otoreke, lv-games, harold-cross, centennial-1967, pip-alumni-award, lake-wilson, coeducation-gender, stuart-mclean) -- all plausible.
   - Investigated the plan's "17 dangling camp-jubilee links" premise: a wiki-wide search found zero actual [[camp-jubilee|...]] links exist -- all "Camp Jubilee" mentions already correctly link to places/camp-otoreke or are plain text, so this was already resolved in earlier work. Added "aliases": ["camp-jubilee"] to camp-otoreke's articles.json entry per the plan, for future-proofing.
   - Privacy carve-out respected: no C5-listed name was used in tagging.
+
+[2026-07-11] Campaign 62 (Workstream B, part 2): chronology/timeline-overview.md hub page
+  - New hub page: "Decades at a Glance" table (1890s-2020s: key events, directors, dedicated article if any, approx. KB fact count) followed by one prose section per decade. Written strictly from already-cited facts in existing articles -- no new research, no new sources (kb_facts_used/sources_cited intentionally empty in articles.json). Flags the 1950s and 1980s as the thinnest-documented decades and cross-references the existing Open Questions on directors-index.md that would fill them.
+  - Registered as article_id "timeline-overview" (chronology/, status: draft, is_hub: true) in wiki/articles.json.
+  - Added reciprocal Related Articles links from the 8 articles the hub links to (directors-index, founding-1894, wartime-kanawana, centennial-1967, centennial-1994, coeducation-gender, environmental-history, sources-index) and updated their word_count/cross_links in articles.json accordingly.

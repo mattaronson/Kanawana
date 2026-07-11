@@ -104,6 +104,7 @@ The Canadian Summer Camp Research Project (CSCRP, 2006–2011), conducted by the
 
 ## Related Articles
 
+- [[chronology/timeline-overview|Timeline Overview: Camp Kanawana Decade by Decade]]
 - [[places/the-kanawana-site|The Kanawana Site]]
 - [[programs/programs-activities|Programs and Activities at Kanawana]]
 - [[people/notable-alumni|Notable Alumni of Camp Kanawana]]

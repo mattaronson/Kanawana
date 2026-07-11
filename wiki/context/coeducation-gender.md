@@ -59,6 +59,7 @@ The Mountaineer program represents a conceptual shift from the 1968-1969 transit
 
 ## Related Articles
 
+- [[chronology/timeline-overview|Timeline Overview: Camp Kanawana Decade by Decade]]
 - [[places/camp-otoreke|Camp Otoreke]]
 - [[programs/canoe-trips|Canoe Tripping at Kanawana]]
 - [[chronology/centennial-1967|Centennial Year (1967)]]

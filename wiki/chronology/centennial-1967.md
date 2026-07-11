@@ -69,6 +69,7 @@ The McMorris thesis devotes its third chapter â€” "The National(ist) Vehicle" â€
 
 ## Related Articles
 
+- [[chronology/timeline-overview|Timeline Overview: Camp Kanawana Decade by Decade]]
 - [[programs/canoe-trips|Canoe Tripping at Kanawana]]
 - [[context/coeducation-gender|Coeducation and Gender at Kanawana]]
 - [[context/canadian-camping-movement|The Canadian Camping Movement]]

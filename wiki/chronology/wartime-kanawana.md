@@ -34,6 +34,7 @@ One detail in the 1941 broadcast that speaks to Kanawana's deep roots: Langille 
 
 ## Related Articles
 
+- [[chronology/timeline-overview|Timeline Overview: Camp Kanawana Decade by Decade]]
 - [[people/rh-hanagan|R.H. Hanagan]]
 - [[people/cushing-family|The Cushing Family]]
 - [[people/directors-index|Directors and Staff of Camp Kanawana]]

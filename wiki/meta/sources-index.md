@@ -151,6 +151,7 @@ John Wilson McConnell, Lemuel Cushing Jr., Centennial Voyageur Canoe Pageant, Br
 
 ## Related Articles
 
+- [[chronology/timeline-overview|Timeline Overview: Camp Kanawana Decade by Decade]]
 - [[chronology/founding-1894|Founding of Camp Kanawana (1894)]]
 - [[chronology/centennial-1967|Centennial Year (1967)]]
 - [[context/canadian-camping-movement|The Canadian Camping Movement]]

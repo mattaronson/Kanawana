@@ -137,10 +137,11 @@
         "the-kanawana-site",
         "wartime-kanawana",
         "quebec-camp-landscape",
-        "page-family"
+        "page-family",
+        "timeline-overview"
       ],
       "file_id": "1h-vki1U2tjYj8-zZ5gzuyW6kQXelcUnB",
-      "word_count": 2734,
+      "word_count": 2742,
       "notes": "2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- replaced the bold-field header convention with the standardized two-line header, moved the embedded c_005 editorial-resolution paragraph into the existing Revision History section (merged the separate 'Research Notes'/'Revision History' H2 sections into one, per the wiki-wide convention). No facts, citations, or open questions dropped; status unchanged.",
       "tags": {
         "era": [
@@ -609,10 +610,11 @@
         "founding-1894",
         "kanawana-in-media",
         "rh-hanagan",
-        "cushing-family"
+        "cushing-family",
+        "timeline-overview"
       ],
       "file_id": "1FzPFWuQ3jBYZdPOSVC_xjANKsWr7RjSK",
-      "word_count": 1174,
+      "word_count": 1180,
       "tags": {
         "era": [
           "1910s",
@@ -836,10 +838,11 @@
         "lv-games",
         "programs-activities",
         "section-names",
-        "stuart-mclean"
+        "stuart-mclean",
+        "timeline-overview"
       ],
       "file_id": "1KW2yhoZ-wr_71sTPbLJ3v81KW4ZEJ_p-",
-      "word_count": 2471,
+      "word_count": 2479,
       "notes": "E1 REVIEW (2026-02-19): Fixed source header (src_ymca_facts→src_kanawana_facts), added Spectrum URL for McMorris thesis, added IA URLs for Facts sheet and Gas Bag. All claims cited, dates consistent, names cross-checked, tone encyclopedic. Advanced R3-verified → E1-reviewed. | 2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- fixed the malformed Sources header, moved the c_001 editorial-resolution narrative into a new Research Notes > Revision History section, folded the orphaned 'R3 Verification Notes' H2 into Research Notes. No facts, citations, or open questions dropped; status unchanged.",
       "tags": {
         "era": [
@@ -1559,10 +1562,11 @@
         "wartime-kanawana",
         "rh-hanagan",
         "a-ross-seaman",
-        "hedley-dimock"
+        "hedley-dimock",
+        "timeline-overview"
       ],
       "file_id": null,
-      "word_count": 12031,
+      "word_count": 12039,
       "notes": "v4.75: Peter Goddard confirmed (Peter Gilling Goddard 1953-2016, obituary condolence). Nelson McEwen tenure extended c.1927-1947. Derek Walsh exhausted. Gap periods updated. | 2026-07-07: applied operator's standing conflict-resolution policy (documented sources take precedence over oral history) to resolve c_004, c_015, c_016, c_017 -- Gary White's Kanawana tenure narrowed to FY2001-2002, Sean Day's start corrected to 2008, Nicolas Garcia's spelling/end-date corrected to March 2014, Rossy Foundation corrected to Tyndale St-Georges. | 2026-07-11: Workstream A Wave 1 prose-sediment REVIEW pass -- standardized header, moved dated correction narrative from table cells into a new visible Revision History section, corrected open_questions count (was stale at 7, actual count is and remains 14). No facts, citations, or open questions dropped; status unchanged.",
       "tags": {
         "era": [
@@ -1749,10 +1753,11 @@
         "kanawana-in-media",
         "harold-cross",
         "pip-alumni-award",
-        "stuart-mclean"
+        "stuart-mclean",
+        "timeline-overview"
       ],
       "file_id": null,
-      "word_count": 2494,
+      "word_count": 2502,
       "notes": "E1 REVIEW (2026-02-19): Fixed source counts (85 total, 74 extracted, 11 IA documents). Restructured with newspaper sources, Pip Award pages, biographical sources. 2026-06-21: Added 1966-67 annual report (f_1335), expanded 12B01/14D holdings detail (f_1337), expanded Kautz YMCA Archives entry (f_1339). Updated statistics to 138 sources, 1355 facts, KB v4.74. 2026-07-09: Resolved/clarified 3 of 7 open questions (McMorris thesis now read in full; Trent OCA/CCA fonds largely resolved via Derek Walsh; BAnQ Advitam notice clarified as a separate deposit from the Concordia fonds). Refreshed Source/KB Statistics tables to current totals (580 sources, 1790 facts, KB v5.02) -- the detailed primary/secondary/tertiary category breakdown remains a March-2026 tally, flagged stale, not recomputed this pass. | 2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- removed the old-style HTML-comment header, replaced with the standardized header (Sources field uses the project's current total-sources count, since this meta article is itself a sources catalog rather than a cited-source article). No facts, citations, or open questions dropped; status unchanged.",
       "tags": {
         "era": [
@@ -2016,10 +2021,11 @@
         "founding-1894",
         "harold-cross",
         "sources-index",
-        "traditions-and-culture"
+        "traditions-and-culture",
+        "timeline-overview"
       ],
       "file_id": null,
-      "word_count": 1908,
+      "word_count": 1916,
       "notes": "2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- removed the old-style HTML-comment header, replaced with the standardized two-line header. No facts, citations, or open questions dropped; status unchanged.",
       "tags": {
         "era": [
@@ -6001,10 +6007,11 @@
         "edgar-smee",
         "dave-twynam",
         "j-w-mcconnell",
-        "pip-alumni-award"
+        "pip-alumni-award",
+        "timeline-overview"
       ],
       "file_id": null,
-      "word_count": 2773,
+      "word_count": 2781,
       "notes": "2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- trimmed the header's dated parenthetical; fixed a genuine citation-numbering bug where the Sources list had two entries each numbered '17.' and '22.' (disambiguated as 17b./22b., three inline markers corrected to point at the right one). No facts, source content, or open questions dropped; status unchanged.",
       "tags": {
         "era": [
@@ -6251,10 +6258,11 @@
         "traditions-and-culture",
         "notable-alumni",
         "kanawana-in-media",
-        "pip-alumni-award"
+        "pip-alumni-award",
+        "timeline-overview"
       ],
       "file_id": null,
-      "word_count": 1453,
+      "word_count": 1461,
       "notes": "2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- removed a duplicate old-style HTML-comment header, softened two dated bold-label markers in prose ('Resolved 2026-07-09', 'Important disambiguation (2026-07-09)') into plain encyclopedic prose since they weren't corrections requiring a Revision History move. No facts, citations, or open questions dropped; status unchanged.",
       "tags": {
         "era": [
@@ -7055,6 +7063,66 @@
           "people"
         ],
         "is_hub": false
+      }
+    },
+    {
+      "article_id": "timeline-overview",
+      "title": "Timeline Overview: Camp Kanawana Decade by Decade",
+      "wiki_folder": "chronology",
+      "status": "draft",
+      "status_history": [
+        {
+          "status": "draft",
+          "at": "2026-07-11T00:00:00Z",
+          "by": "auto",
+          "task": "WRITE"
+        }
+      ],
+      "ralph_loops_completed": 0,
+      "kb_facts_used": [],
+      "sources_cited": [],
+      "open_questions": 2,
+      "cross_links": [
+        "directors-index",
+        "founding-1894",
+        "wartime-kanawana",
+        "centennial-1967",
+        "centennial-1994",
+        "coeducation-gender",
+        "environmental-history",
+        "sources-index"
+      ],
+      "file_id": null,
+      "word_count": 1341,
+      "notes": "2026-07-11: Workstream B hub page. Synthesizes existing wiki articles into a decade-by-decade navigation hub per the approved wiki-expansion plan; adds no new facts or sources of its own (kb_facts_used/sources_cited intentionally empty -- every claim is already cited in the linked articles). Status left at 'draft' rather than following the normal RESEARCH+RALPH draft bar, since this is explicitly a hub/navigation page, not a primary-content article.",
+      "tags": {
+        "era": [
+          "1890s",
+          "1900s",
+          "1910s",
+          "1920s",
+          "1930s",
+          "1940s",
+          "1950s",
+          "1960s",
+          "1970s",
+          "1980s",
+          "1990s",
+          "2000s",
+          "2010s",
+          "2020s"
+        ],
+        "region": "kanawana-site",
+        "location_refs": [
+          "the-kanawana-site"
+        ],
+        "person_type": null,
+        "topics": [
+          "chronology",
+          "founding",
+          "directors"
+        ],
+        "is_hub": true
       }
     }
   ]

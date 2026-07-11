@@ -84,6 +84,7 @@ The 1923 brochure and 1935 history together describe a camp that had grown into 
 
 ## Related Articles
 
+- [[chronology/timeline-overview|Timeline Overview: Camp Kanawana Decade by Decade]]
 - [[people/directors-index|Directors and Staff of Camp Kanawana]]
 - [[places/the-kanawana-site|The Kanawana Site]]
 - [[context/canadian-camping-movement|The Canadian Camping Movement]]
