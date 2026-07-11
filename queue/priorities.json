@@ -2558,7 +2558,9 @@
       "blocking": false,
       "assigned_weight": "P2",
       "created_at": "2026-07-09T11:00:00Z",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-07-10T08:00:00Z",
+      "result": "Resolved editorially 2026-07-10: Camp Amy Molson and the Junior League Camp are treated as distinct organizations, not institutional succession. See conflict c_018 and wiki/context/camp-oolahwan.md."
     },
     {
       "priority_id": "p_201",
@@ -2601,7 +2603,7 @@
       "priority_id": "p_204",
       "rank": 204,
       "type": "VERIFY",
-      "description": "Conflict c_019: physically examine the Concordia P0145 'W.E. Cushing' 1943 manuscript (or its finding-aid metadata) to resolve whether its author is genuinely Walter Edgar Cushing (who died January 13, 1935, eight years before the manuscript's stated date) or a different, unidentified Cushing. Not resolvable via further web search -- the FamilySearch Cushing genealogy supplement and the McMorris thesis were both read in full (2026-07-09) and contain zero corroborating detail either way.",
+      "description": "Conflict c_019: physically examine the Concordia P0145 'W.E. Cushing' 1943 manuscript (or its finding-aid metadata) to resolve whether its author is genuinely Walter Edgar Cushing (who died January 13, 1935, eight years before the manuscript's stated date) or a different, unidentified Cushing. Not resolvable via further web search -- the FamilySearch Cushing genealogy supplement and the McMorris thesis were both read in full (2026-07-09) and contain zero corroborating detail either way. UPDATE 2026-07-10: conflict c_019 has since been resolved editorially (Cushing's identification retained, \"1943\" read as an archival filing date) -- this physical examination would CONFIRM or OVERTURN that editorial call, not settle an open question from scratch.",
       "article_id": "cushing-family",
       "blocking": false,
       "assigned_weight": "P2",
@@ -2617,7 +2619,9 @@
       "blocking": false,
       "assigned_weight": "P3",
       "created_at": "2026-07-09T18:00:00Z",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-07-10T08:00:00Z",
+      "result": "Resolved editorially 2026-07-10: the three dates reconciled as three distinct milestones (organized 1930, chartered/branded 1933, Statten's first full presidency 1938), not a single disputed founding date. See conflict c_020 and wiki/people/taylor-statten.md."
     },
     {
       "priority_id": "p_206",

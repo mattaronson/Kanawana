@@ -1047,6 +1047,12 @@
           "at": "2026-07-09T09:00:00Z",
           "by": "auto",
           "task": "RESEARCH"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-07-10T08:00:00Z",
+          "by": "auto",
+          "task": "REVIEW"
         }
       ],
       "ralph_loops_completed": 2,
@@ -1276,7 +1282,7 @@
         "hedley-dimock"
       ],
       "file_id": null,
-      "word_count": 13253,
+      "word_count": 13198,
       "notes": "v4.75: Peter Goddard confirmed (Peter Gilling Goddard 1953-2016, obituary condolence). Nelson McEwen tenure extended c.1927-1947. Derek Walsh exhausted. Gap periods updated. | 2026-07-07: applied operator's standing conflict-resolution policy (documented sources take precedence over oral history) to resolve c_004, c_015, c_016, c_017 -- Gary White's Kanawana tenure narrowed to FY2001-2002, Sean Day's start corrected to 2008, Nicolas Garcia's spelling/end-date corrected to March 2014, Rossy Foundation corrected to Tyndale St-Georges."
     },
     {
@@ -1670,6 +1676,12 @@
           "at": "2026-07-09T11:00:00Z",
           "by": "auto",
           "task": "RESEARCH"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-07-10T08:00:00Z",
+          "by": "auto",
+          "task": "REVIEW"
         }
       ],
       "ralph_loops_completed": 1,
@@ -1757,7 +1769,7 @@
         "sources-index"
       ],
       "file_id": null,
-      "word_count": 2498,
+      "word_count": 2583,
       "notes": "v4.75: McEwen as CCA co-founder with Taylor Statten added."
     },
     {
@@ -1885,6 +1897,12 @@
           "at": "2026-07-09T18:00:00Z",
           "by": "auto",
           "task": "RESEARCH"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-07-10T08:00:00Z",
+          "by": "auto",
+          "task": "REVIEW"
         }
       ],
       "ralph_loops_completed": 4,
@@ -1961,7 +1979,7 @@
         "founding-1894"
       ],
       "file_id": null,
-      "word_count": 2444,
+      "word_count": 2585,
       "notes": "E1 REVIEW (2026-02-19): Fixed Frederick row in Eight Sons table (birthplace clarified in Occupation column). All 7 checklist items satisfied. Advanced R3-verified → E1-reviewed."
     },
     {
@@ -3620,6 +3638,12 @@
           "at": "2026-07-09T18:00:00Z",
           "by": "auto",
           "task": "RESEARCH"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-07-10T08:00:00Z",
+          "by": "auto",
+          "task": "REVIEW"
         }
       ],
       "ralph_loops_completed": 3,
@@ -3665,7 +3689,7 @@
         "traditions-and-culture"
       ],
       "file_id": null,
-      "word_count": 1437
+      "word_count": 1571
     },
     {
       "article_id": "rh-hanagan",
@@ -3919,6 +3943,12 @@
           "at": "2026-07-09T11:00:00Z",
           "by": "auto",
           "task": "RESEARCH"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-07-10T08:00:00Z",
+          "by": "auto",
+          "task": "REVIEW"
         }
       ],
       "ralph_loops_completed": 2,
@@ -3999,7 +4029,7 @@
         "coeducation-gender"
       ],
       "file_id": null,
-      "word_count": 1956
+      "word_count": 2027
     },
     {
       "article_id": "dave-twynam",
@@ -4387,6 +4417,12 @@
           "at": "2026-07-09T22:00:00Z",
           "by": "auto",
           "task": "RESEARCH"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-07-10T08:00:00Z",
+          "by": "auto",
+          "task": "REVIEW"
         }
       ],
       "ralph_loops_completed": 3,
@@ -4440,7 +4476,7 @@
         "programs-activities"
       ],
       "file_id": null,
-      "word_count": 1787
+      "word_count": 1790
     },
     {
       "article_id": "ymca-quebec-history",
