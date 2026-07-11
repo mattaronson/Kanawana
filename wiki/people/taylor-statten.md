@@ -1,7 +1,7 @@
 # Taylor Statten and the Canadian Camping Movement
 
-*Status: E1-reviewed | Sources: src_mcmorris_thesis, src_tsc_history, src_wikipedia_tuxis, src_oca_archives, src_wikipedia_cca, src_aca_presidents, src_burry_thesis_1985*
-*Last Updated: 2026-07-10 (conflict c_020 resolved editorially: the OCA's three disputed dates reconciled as three distinct milestones -- organized 1930, chartered/branded 1933, Statten's first full presidency 1938 -- flagged explicitly as editorial judgment, not new evidence)*
+*Status: E1-reviewed | Sources: 9*
+*Last Updated: 2026-07-10*
 
 ## Overview
 
@@ -35,7 +35,7 @@ Hedley S. Dimock and Charles Hendry, both affiliated with Columbia University, c
 
 The Ontario Camping Association was founded in 1933 with Statten as a founding member, alongside A.L. Cochrane, Mary Edgar, Mary Hamilton, Ferna Halliday, and Ethel Statten, per the OCA's own website.^5 **This date was disputed (2026-07-09, conflict c_020)**: Donald Burry's 1985 thesis, citing a 1984 personal interview with camping historian Mary Northway, instead states the OCA's founders organized in 1930, with Statten becoming the OCA's first President only in 1938, succeeding A.L. Cochrane's "Original Honorary President" role. Burry separately cites a Charles Plewman tribute essay giving 1933 for Statten's first presidency, but appends his own "(sic)" to that claim, signalling doubt. None of the three sources is oral history, so this required editorial judgment rather than the "documents over oral history" policy.^8
 
-**Editorial resolution (2026-07-10):** rather than picking one source as correct and discarding the others, the three accounts are read as reconcilable, describing three different milestones: the OCA's founders **organized informally in 1930** (Northway's account, the most detailed of the three, naming Cochrane's specific preceding role); the association was **formally chartered/branded in 1933** (matching both the OCA's own official website and the Plewman essay Burry cites, giving that later date some independent corroboration); and Statten's **own first full presidency began only in 1938**, after Cochrane's initial "Original Honorary President" tenure (again Northway's account, and the most specific claim of the three). Under this reading, all three sources are correct about a different specific thing, rather than two being wrong. This is an editorial judgment, not new evidence, and is offered as the more parsimonious reconciliation rather than a forced choice between sources.
+Rather than picking one source as correct and discarding the others, the three accounts are read as reconcilable (see Revision History), describing three different milestones: the OCA's founders **organized informally in 1930** (Northway's account, the most detailed of the three, naming Cochrane's specific preceding role); the association was **formally chartered/branded in 1933** (matching both the OCA's own official website and the Plewman essay Burry cites, giving that later date some independent corroboration); and Statten's **own first full presidency began only in 1938**, after Cochrane's initial "Original Honorary President" tenure (again Northway's account, and the most specific claim of the three). Under this reading, all three sources are correct about a different specific thing, rather than two being wrong.
 
 On May 20, 1936, the Canadian Camping Association was founded at the Central Y.M.C.A. in Toronto, with Statten as first president and Mary Edgar as first vice-president.^6 Statten was also elected president of the American Camp Association in 1942 but resigned due to illness; Vice-President Wes Klusmann assumed responsibilities.^7
 
@@ -74,3 +74,10 @@ Taylor Statten Camps first sent groups to Quetico in 1965 as part of the OCA Cen
 6. Canadian Camping Association, "History," https://www.ccamping.org/history
 7. ACA Presidents History, https://www.acacamps.org/about/history/presidents — Statten elected 1942, resigned due to illness; Esther Waldo of the YWCA held the separate 1941 term. (Direct re-fetch 2026-07-08 corrected an earlier misreading of this same page that had placed Statten under 1941 — conflict c_003 resolved.)
 8. Burry, Donald. *A History of the Taylor Statten Camps.* MA thesis, University of Saskatchewan, 1985 — read in full 2026-07-09 [src_burry_thesis_1985].
+
+## Research Notes
+
+### Revision History
+
+- **2026-07-10** — Conflict c_020 (OCA founding: three different dates across three sources) resolved editorially: read as three distinct milestones rather than one disputed date — informal organization in 1930, formal chartering in 1933, Statten's first full presidency in 1938. An editorial judgment, not new evidence; offered as the more parsimonious reconciliation rather than a forced choice between sources.
+

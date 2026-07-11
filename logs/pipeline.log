@@ -2293,3 +2293,8 @@ HYPOTHESIZE — Remaining productive research requires:
   - j-w-mcconnell.md: fixed the malformed Sources header only (body prose was already clean).
   - sean-day.md: trimmed the header's dated parenthetical, moved the c_017 editorial-resolution narrative into a new Research Notes > Revision History section, fixed two Sources entries that still labeled conflict c_017 "unresolved", and fixed an out-of-sequence Open Questions numbering (1, 5, 2, 3, 4 -> 1-5).
   - No facts, sources, citations, or open questions dropped on either article. Status unchanged (E1-reviewed) on both. wiki/articles.json updated.
+
+[2026-07-11] Campaign 50 (Workstream A, Wave 2, articles 10-11): prose-sediment REVIEW pass on taylor-statten.md and camp-otoreke.md
+  - taylor-statten.md: fixed the malformed Sources header, moved the c_020 editorial-resolution narrative into a new Research Notes > Revision History section.
+  - camp-otoreke.md: fixed the malformed Sources header, moved the c_008 editorial-resolution narrative into a new Research Notes > Revision History section (article had none before).
+  - No facts, sources, citations, or open questions dropped on either article. Status unchanged (E1-reviewed) on both. wiki/articles.json updated.

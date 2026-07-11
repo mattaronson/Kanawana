@@ -1,7 +1,7 @@
 # Camp Otoreke
 
-*Status: E1-reviewed | Sources: src_qahn_howard, src_mcmorris_thesis, src_gas_bag_1923, src_history_1935, src_concordia_fonds, src_kanawana_facts, src_ebay_otoreke_postcard, src_wikipedia_saint_adolphe, src_ymca_website, src_baladodecouverte_howard, src_otoreke_blog_2005*
-*Last Updated: 2026-07-09 (open-questions research pass: Victor Bergeron/log cabin detail re-mined; Concordia P0145/12C sub-series breakdown added; closure reason confirmed as a genuine dead end for online sources; low-confidence post-closure/director leads from a self-published blog added with explicit caveats)*
+*Status: E1-reviewed | Sources: 16*
+*Last Updated: 2026-07-09*
 
 ## Overview
 
@@ -17,7 +17,7 @@ Saint-Adolphe-d'Howard is a municipality in the Laurentians region of Quebec, in
 
 In 1892, Lemuel Cushing of the Montreal YMCA inaugurated the camping program by bringing a group of boys to Lake Saint-Joseph.^1 In 1893, YMCA staff conducted an exploration trip to the area, described as "the first Montreal YMCA venture to explore the country round about St. Agathe with the view of securing a lake on which to establish a Summer Camp."^4 Billy Ball formally established Camp Jubilee in summer 1894, bringing 20 campers to the Lake Saint-Joseph site.^5 ^6 The camp was named to commemorate the YMCA's 50th anniversary (founded 1844).^6
 
-A BaladoDiscovery heritage tour states that the YMCA acquired the island in 1897 and accommodated 80 campers.^14 This differs from the QAHN account of "three islands" total (conflict c_008). **Editorial resolution (2026-07-10):** "three islands" is retained as the total count, consistent with this KB's existing "main island plus two others" framing; BaladoDiscovery's "two islands acquired in 1897" is read as describing a specific, later, formal transaction — plausibly the acquisition of two additional islands in 1897 to supplement an original island already in informal use since 1894 — rather than a competing total-count claim. This is an editorial reconciliation, not new evidence, and the "80 campers" figure, if accurate, would indicate rapid growth within the program's first three years.
+A BaladoDiscovery heritage tour states that the YMCA acquired the island in 1897 and accommodated 80 campers.^14 This differs from the QAHN account of "three islands" total (conflict c_008). "Three islands" is retained as the total count, consistent with this KB's existing "main island plus two others" framing; BaladoDiscovery's "two islands acquired in 1897" is read as describing a specific, later, formal transaction — plausibly the acquisition of two additional islands in 1897 to supplement an original island already in informal use since 1894 — rather than a competing total-count claim (an editorial reconciliation, not new evidence; see Revision History). The "80 campers" figure, if accurate, would indicate rapid growth within the program's first three years.
 
 The same BaladoDiscovery source, re-mined in 2026-07-09, adds construction detail not previously extracted: a local entrepreneur named **Victor Bergeron** was hired to build a two-story log cabin able to house 25 young men, and the early camp purchased staples "from the Bergin and Corbeil General Store."^14
 
@@ -88,3 +88,10 @@ Camp Otoreke closed in 1982 after nearly 90 years of continuous operation.^1 The
 14. BaladoDecouverte, Saint-Adolphe-d'Howard heritage tour: YMCA island acquisition 1897, 80 campers. (Note: conflicts with QAHN on island count — see c_008.)
 15. Phase 2 research (recovered June 2026): Township of Howard created 1873, named for Frederick Howard, 5th Earl of Carlisle.
 16. "Camp Otoreke Blog" (self-published alumni blog, est. 2005) [src_otoreke_blog_2005]. Low reliability — single uncorroborated source with anonymous commenters.
+
+## Research Notes
+
+### Revision History
+
+- **2026-07-10** — Conflict c_008 (two vs. three islands) resolved editorially: "three islands" retained as the total, with BaladoDiscovery's "two islands acquired in 1897" read as a specific later transaction rather than a competing total-count claim. An editorial reconciliation, not new evidence.
+
