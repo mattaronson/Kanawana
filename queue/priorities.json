@@ -2567,7 +2567,9 @@
       "blocking": false,
       "assigned_weight": "P3",
       "created_at": "2026-07-09T11:00:00Z",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-07-10T05:00:00Z",
+      "result": "Local pdftotext extraction of the full McMorris thesis PDF succeeded (curl download + pdftotext, bypassing the FlateDecode issue that defeated WebFetch). The phrase \"L&V Games\" appears nowhere in the thesis -- confirms the rename postdates her sources and remains undocumented online. See wiki/programs/lv-games.md Open Questions."
     },
     {
       "priority_id": "p_202",
@@ -2589,7 +2591,9 @@
       "blocking": false,
       "assigned_weight": "P2",
       "created_at": "2026-07-09T18:00:00Z",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-07-10T05:00:00Z",
+      "result": "Local pdftotext extraction of the full McMorris thesis PDF succeeded. The six 1967 Centenary Journey campers are not named anywhere in the thesis text -- only an uncaptioned-by-name photo (Figure 3.5) sourced to The Ottawa Journal, August 10 1967 (already cited in centennial-1967.md as source #15). Newspapers.com blocked by Cloudflare; genuinely exhausted for automated research now."
     },
     {
       "priority_id": "p_204",

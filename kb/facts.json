@@ -1,8 +1,8 @@
 {
   "version": "v4.98",
-  "kb_version": "v5.07",
+  "kb_version": "v5.08",
   "migrated_from": "3.3",
-  "fact_count": 1941,
+  "fact_count": 1943,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -33614,6 +33614,40 @@
       "date_ref": "1925-1928",
       "conflicts_with": [],
       "added_version": "v5.07",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1980",
+      "claim": "A direct local pdftotext extraction of the full McMorris 2023 thesis (via curl download of the actual PDF, not WebFetch, which had been defeated by a FlateDecode-compressed stream) confirms the thesis never uses the phrase 'L&V Games' anywhere -- it consistently calls the tradition 'Lumberman-Voyageur Week' throughout, including in material sourced from a 1988 Kanawana Camping Task Force document and a late-1950s report. This confirms the rename to 'L&V Games' postdates the thesis's own source material and is not documented in this source at all, resolving the extraction-tooling question though not the substantive rename date.",
+      "sources": [
+        "src_mcmorris_thesis"
+      ],
+      "confidence": "stated",
+      "category": "programs",
+      "entities": [
+        "L&V Games",
+        "Lumberman-Voyageur Week"
+      ],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "v5.08",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1981",
+      "claim": "A direct local pdftotext extraction of the full McMorris 2023 thesis confirms the six named Kanawana campers on the 1967 CCA Centenary Journey canoe trip are not named anywhere in the thesis's text -- only a photograph (Figure 3.5, 'Kanawana campers arriving in Ottawa') is included, captioned with its source: The Ottawa Journal, August 10, 1967 (Kanawana Program, P145/12B07, Canadian Centennial Canoe Trip, CURMA). This is a new, specific, actionable lead -- a single dated newspaper issue -- not previously identified in this KB; it was not retrievable via any tool available this session (Newspapers.com blocked by a Cloudflare check).",
+      "sources": [
+        "src_mcmorris_thesis"
+      ],
+      "confidence": "stated",
+      "category": "chronology",
+      "entities": [
+        "Centenary Journey",
+        "Centennial Voyageur Canoe Pageant"
+      ],
+      "date_ref": "1967-08-10",
+      "conflicts_with": [],
+      "added_version": "v5.08",
       "added_by": "ralph_loop"
     }
   ]

@@ -346,9 +346,15 @@
           "at": "2026-07-09T11:00:00Z",
           "by": "auto",
           "task": "RESEARCH"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-07-10T05:00:00Z",
+          "by": "auto",
+          "task": "RESEARCH"
         }
       ],
-      "ralph_loops_completed": 1,
+      "ralph_loops_completed": 2,
       "kb_facts_used": [
         "f_0192",
         "f_0193",
@@ -375,7 +381,8 @@
         "f_1885",
         "f_1886",
         "f_1887",
-        "f_1888"
+        "f_1888",
+        "f_1980"
       ],
       "sources_cited": [
         "src_mcmorris_thesis",
@@ -400,7 +407,7 @@
         "canadian-camping-movement"
       ],
       "file_id": "1EmzjwZxmQKJhFrNsbFGn1HbdseFBM9E7",
-      "word_count": 1365
+      "word_count": 1399
     },
     {
       "article_id": "wartime-kanawana",
@@ -1534,9 +1541,15 @@
           "at": "2026-07-09T18:00:00Z",
           "by": "auto",
           "task": "RESEARCH"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-07-10T05:00:00Z",
+          "by": "auto",
+          "task": "RESEARCH"
         }
       ],
-      "ralph_loops_completed": 2,
+      "ralph_loops_completed": 3,
       "kb_facts_used": [
         "f_0244",
         "f_0245",
@@ -1591,7 +1604,8 @@
         "f_0849",
         "f_1507",
         "f_1900",
-        "f_1902"
+        "f_1902",
+        "f_1981"
       ],
       "sources_cited": [
         "src_mcmorris_thesis",
@@ -1619,7 +1633,7 @@
         "traditions-and-culture"
       ],
       "file_id": null,
-      "word_count": 1952
+      "word_count": 1961
     },
     {
       "article_id": "canadian-camping-movement",
