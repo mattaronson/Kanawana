@@ -1,8 +1,7 @@
 # Camp Ouareau and Its Connections to Kanawana
 
-*Status: E1-reviewed | Sources: src_ouareau_history, src_ouareau_wikipedia, src_camp_oconto, src_mcmorris_thesis, src_ywca_oolahwan_page, src_ywca_oolahwan_centennial*
-*Last Updated: 2026-07-09 (open-questions research pass: Jamieson title and Ouareau-Kanawana direct-contact questions confirmed as genuine dead ends for online sources)*
-*Last Updated: 2026-03-15 (E1 REVIEW pass — editorial issues fixed, date conflict logged, status advanced)*
+*Status: E1-reviewed | Sources: 10*
+*Last Updated: 2026-07-10*
 
 ## Overview
 
@@ -32,7 +31,7 @@ The Lodge, built in 1922, is one of the oldest log buildings still in use in Can
 
 ## Connection to Kanawana
 
-Jamieson's role at the YMCA or YWCA of Montreal placed her within the same organization that operated Camp Kanawana.^4 Camp Oolahwan (YWCA, est. 1917) also sent visitors to Kanawana; in 1946, Kanawana campers were covered in cocoa powder to greet Oolahwan visitors as "Indians."^6 The Camp Oolahwan centennial reunion was held at Camp Ouareau on September 8–10, 2017 (editorial resolution of conflict c_002, 2026-07-10: the YWCA's own announcement is weighted over a local blog's differing date — see [[context/camp-oolahwan|Camp Oolahwan]]).^7
+Jamieson's role at the YMCA or YWCA of Montreal placed her within the same organization that operated Camp Kanawana.^4 Camp Oolahwan (YWCA, est. 1917) also sent visitors to Kanawana; in 1946, Kanawana campers were covered in cocoa powder to greet Oolahwan visitors as "Indians."^6 The Camp Oolahwan centennial reunion was held at Camp Ouareau on September 8–10, 2017 (the YWCA's own announcement is weighted over a local blog's differing date; see Revision History and [[context/camp-oolahwan|Camp Oolahwan]]).^7
 
 Although Camp Ouareau operated in English from its founding, it became bilingual in 1976, and today roughly half of registrations are francophone.^4
 
@@ -65,3 +64,10 @@ In 2014, Camp Ouareau changed its team names from Iroquois, Algonquin, and Micma
 6. McMorris, Grace (2023). "An Experience That Lasts a Lifetime." MA thesis, Concordia University. 1946 Oolahwan visit incident.
 7. YWCA Camp Oolahwan centennial reunion announcement (dates disputed — see conflicts.json).
 8. Camp Ouareau 2014 team name change announcement (campouareau.com).
+
+## Research Notes
+
+### Revision History
+
+- **2026-07-10** — Conflict c_002 (Camp Oolahwan centennial reunion date) resolved in favour of September 8–10, 2017, per the YWCA's own announcement — weighted as the organizing institution's primary-source statement over a local blog's conflicting date.
+

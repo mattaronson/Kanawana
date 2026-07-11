@@ -31,6 +31,12 @@
           "at": "2026-07-10T09:00:00Z",
           "by": "auto",
           "task": "REVIEW"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-07-11T00:00:00Z",
+          "by": "auto",
+          "task": "REVIEW"
         }
       ],
       "ralph_loops_completed": 2,
@@ -134,7 +140,8 @@
         "page-family"
       ],
       "file_id": "1h-vki1U2tjYj8-zZ5gzuyW6kQXelcUnB",
-      "word_count": 2813
+      "word_count": 2734,
+      "notes": "2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- replaced the bold-field header convention with the standardized two-line header, moved the embedded c_005 editorial-resolution paragraph into the existing Revision History section (merged the separate 'Research Notes'/'Revision History' H2 sections into one, per the wiki-wide convention). No facts, citations, or open questions dropped; status unchanged."
     },
     {
       "article_id": "da-budge",
@@ -3834,6 +3841,12 @@
           "at": "2026-07-10T09:00:00Z",
           "by": "auto",
           "task": "REVIEW"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-07-11T00:00:00Z",
+          "by": "auto",
+          "task": "REVIEW"
         }
       ],
       "ralph_loops_completed": 2,
@@ -3889,7 +3902,8 @@
         "traditions-and-culture"
       ],
       "file_id": null,
-      "word_count": 917
+      "word_count": 918,
+      "notes": "2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- fixed a malformed header (Sources field was listing raw source IDs, and a duplicate 'Last Updated' line existed), moved the c_002 editorial-resolution parenthetical into a new Research Notes > Revision History section. No facts, citations, or open questions dropped; status unchanged."
     },
     {
       "article_id": "camp-perrot",

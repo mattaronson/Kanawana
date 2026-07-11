@@ -1,11 +1,7 @@
 # Camp Kanawana: Founding and Early History (1892-1923)
 
-**Status**: E1-reviewed
-**Last Updated**: 2026-07-09 (Batch 6 research pass: Cushing/Ball relationship re-confirmed genuinely undocumented rather than under-researched; a specific 1908 director's-report archive lead found for the Roy-Paterson gap; Budge and Lake St. Joseph islands questions cross-referenced to already-resolved KB material)
-**Confidence**: high
-**Sources**: src_001, src_005, src_010, src_022, src_023, src_024, src_qahn_howard, src_concordia_12L, src_ymca_official, src_vss_familles_pionnieres, src_rpcq_ymca_8364
-**R3 Loop**: Completed 2026-02-05. Critical geographic correction applied.
-**E1 Review**: Completed 2026-02-05. Prose tightened, scrapbook date qualified, John Roy expanded.
+*Status: E1-reviewed | Sources: 12*
+*Last Updated: 2026-07-10*
 
 ## Summary
 
@@ -37,7 +33,7 @@ An 1898 photograph from the archives names four individuals at the camp: W. N. C
 
 Seeking a larger site, the YMCA acquired land at Saint-Sauveur-des-Monts (near Piedmont) from the [[people/page-family|Page family]] around 1910. The camp was situated among trees on the high sloping shores of a lake that would become known as Lake Kanawana, approximately 45 miles from Montreal and 6 miles from the Piedmont train station. A second lake, Lake Wilson, was within the property, with a dam controlling water levels between the two. A third lake, Round Lake, was also part of the camp property.
 
-McMorris confirms 1910 as the first season at the new site: during the first summer at Saint-Sauveur, sixty-six members attended camp between June 19 and July 17.^mc The 1910 date is further supported by the 1935 History, which describes the camp as being in its "twenty-sixth year of existence." The exact terms of the Page family acquisition, including price, acreage, and precise date, remain unknown. **Editorial resolution (2026-07-10, conflict c_005):** the YMCA's own current website states 85 campers registered for the 1910 season, versus McMorris's archival figure of 66. McMorris's academic thesis, drawing directly on primary season records, is weighted as the more reliable figure; the YMCA's "85" is treated as imprecise institutional narrative copy (possibly conflating registrations with attendance, or including Camp Otoreke, which continued operating at Lake St. Joseph that same season) rather than a competing archival claim. Editorial call, not new evidence.
+McMorris confirms 1910 as the first season at the new site: during the first summer at Saint-Sauveur, sixty-six members attended camp between June 19 and July 17.^mc The 1910 date is further supported by the 1935 History, which describes the camp as being in its "twenty-sixth year of existence." The exact terms of the Page family acquisition, including price, acreage, and precise date, remain unknown. McMorris's archival figure of 66 attendees is weighted over the YMCA's own current website, which states 85 (read as imprecise institutional narrative copy, possibly conflating registrations with attendance or including Camp Otoreke, which continued operating at Lake St. Joseph that same season) — an editorial call between two documented sources, not new evidence; see Revision History.
 
 The Pagé family were not the only pre-camp landowners at the site. Olivier Charron (1830-1902) became owner of lot 280, described as "located at Lac Kanawana," in 1887 -- seven years before the YMCA's 1894 founding of the camp (at that point still Camp Jubilee, on a different lake) and roughly 23 years before the 1910 Saint-Sauveur acquisition. Charron's holding is documented on the same Ville de Saint-Sauveur pioneer-families page used for the Pagé genealogy, citing Lorraine Dagenais and Carmelle Huppé's local history book.^charron See [[people/page-family|The Pagé Family of Saint-Sauveur]] for the family whose land the YMCA did acquire.
 
@@ -109,12 +105,9 @@ The 1923 brochure and 1935 history together describe a camp that had grown into 
 
 ## Research Notes
 
-R3 verification (2026-02-05) corrected a critical geographic error: the original article implied Camp Jubilee was near the current Saint-Sauveur site. In fact, Camp Jubilee operated at Lake St. Joseph in Saint-Adolphe-d'Howard (near Sainte-Agathe), a completely different location roughly 40km north of the current Kanawana site. The move to Saint-Sauveur occurred around 1910. This revision also added Lemuel Cushing as a 1892 precursor figure, John Roy as earliest known director (1901), and clarified the island-based nature of the original Camp Jubilee site.
+### Revision History
 
-E1 review (2026-02-05): Qualified the scrapbook date range claim (1880 start date likely reflects general YMCA history, not camp-specific). Expanded John Roy section with analysis of the Budge correspondence and its implications. Added Budge as open question. Tightened prose in Physical Plant section. Promoted 1893 evidence significance in Precursors section. Added new open question about Mr. Budge.
-
-## Revision History
-
-- v1 (2026-02-05): Initial draft from KB synthesis
-- v2 (2026-02-05): R3 verification. Critical geographic correction (Camp Jubilee location). Added Cushing 1892, John Roy 1901, island detail. Removed unverified 85-camper claim. Updated open questions.
-- v3 (2026-02-05): E1 review. Scrapbook date qualified, John Roy expanded, prose tightened, Budge open question added.
+- **2026-07-10** — Conflict c_005 (1910 attendance: 66 vs. 85) resolved editorially in favour of McMorris's archival figure (66), weighted over the YMCA's own promotional website (85, read as imprecise institutional copy). An editorial call between two documented sources, not new evidence.
+- **2026-02-05** (v3, E1 review) — Qualified the scrapbook date range claim (1880 start date likely reflects general YMCA history, not camp-specific). Expanded John Roy section with analysis of the Budge correspondence and its implications. Added Budge as an open question. Tightened prose in Physical Plant section. Promoted 1893 evidence significance in Precursors section.
+- **2026-02-05** (v2, R3 verification) — Corrected a critical geographic error: the article previously implied Camp Jubilee was near the current Saint-Sauveur site. In fact, Camp Jubilee operated at Lake St. Joseph in Saint-Adolphe-d'Howard (near Sainte-Agathe), a completely different location roughly 40km north of the current Kanawana site; the move to Saint-Sauveur occurred around 1910. This revision also added Lemuel Cushing as a 1892 precursor figure, John Roy as earliest known director (1901), clarified the island-based nature of the original Camp Jubilee site, and removed an unverified 85-camper claim (the same claim later reconsidered, with sourcing, as conflict c_005 above).
+- **2026-02-05** (v1) — Initial draft from KB synthesis.
