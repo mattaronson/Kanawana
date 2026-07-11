@@ -2,7 +2,7 @@
   "version": "v4.98",
   "kb_version": "v5.08",
   "migrated_from": "3.3",
-  "fact_count": 1943,
+  "fact_count": 1944,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -33646,6 +33646,23 @@
         "Centennial Voyageur Canoe Pageant"
       ],
       "date_ref": "1967-08-10",
+      "conflicts_with": [],
+      "added_version": "v5.08",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1982",
+      "claim": "Concordia's master finding-aid PDF confirms \"National Council of YMCAs of Canada\" is the consistent name used across sub-series 14D's entire documented span (1892-1999, per the sub-series-level date range) -- not merely a 1972 archival snapshot. This does not resolve whether it is the same body as the \"National Federation\" YMCA Canada says was formed in 1912, since no item-level constitutive document (14D01) was accessible to check a founding date directly; sub-sub-series 12C, 12D, 12H, 12I, 12J were also re-checked against this same PDF and confirmed to hold no Kanawana-specific content, consistent with their being dedicated to other YMCA Montreal camps.",
+      "sources": [
+        "src_concordia_finding_aid_master_pdf"
+      ],
+      "confidence": "stated",
+      "category": "context",
+      "entities": [
+        "National Council of YMCAs of Canada",
+        "YMCA of Montreal"
+      ],
+      "date_ref": "1892-1999",
       "conflicts_with": [],
       "added_version": "v5.08",
       "added_by": "ralph_loop"

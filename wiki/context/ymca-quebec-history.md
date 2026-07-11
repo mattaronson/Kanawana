@@ -9,7 +9,7 @@ The YMCA of Montreal, founded November 25, 1851, was the first YMCA in North Ame
 
 The organization has operated continuously for over 170 years, evolving from a young men's Christian association into a broad-based community organization. It established Camp Kanawana in 1894 as one of the earliest YMCA camps in Canada, and the camp remains its sole residential camp today.^1
 
-YMCA Montreal's national context: Canadian YMCAs formed a "National Federation" in 1912.^12 A body catalogued in a 1972 archival source under the name "National Council YMCAs of Canada" may or may not be the same organization under a later name — this has not been confirmed and is noted here as an open naming discrepancy rather than resolved fact.
+YMCA Montreal's national context: Canadian YMCAs formed a "National Federation" in 1912.^12 A body catalogued in a 1972 archival source under the name "National Council YMCAs of Canada" may or may not be the same organization under a later name — this has not been confirmed and is noted here as an open naming discrepancy rather than resolved fact. Concordia's master finding-aid PDF (checked 2026-07-10) confirms "National Council of YMCAs of Canada" is the consistent name Concordia's own archivists use for this body's entire documented span, 1892-1999 — i.e., the "National Council" name is not merely a 1972 snapshot but the term used across the full fonds. This doesn't resolve whether "National Federation" (1912) and "National Council" are the same body under different names at different times or genuinely distinct organizations, since no item-level constitutive document was accessible to check a founding date directly.
 
 ## Buildings
 

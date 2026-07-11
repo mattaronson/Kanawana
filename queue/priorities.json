@@ -2742,7 +2742,9 @@
       "blocking": false,
       "assigned_weight": "P2",
       "created_at": "2026-07-10T04:00:00Z",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-07-10T06:00:00Z",
+      "result": "Re-mined 12C, 12D, 12H, 12I, 12J, and 14D against the master finding-aid PDF directly. No Kanawana-specific content found in the non-Kanawana camp sub-series (expected, confirms clean separation). Clarified that Concordia consistently calls the national body \"National Council of YMCAs of Canada\" across its full 1892-1999 documented span, not just a 1972 snapshot -- though this still doesn't resolve whether it's the same body as the 1912 \"National Federation\" (no item-level constitutive document was accessible). See ymca-quebec-history.md."
     },
     {
       "priority_id": "p_217",

@@ -4477,9 +4477,15 @@
           "at": "2026-07-09T18:00:00Z",
           "by": "auto",
           "task": "RESEARCH"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-07-10T06:00:00Z",
+          "by": "auto",
+          "task": "RESEARCH"
         }
       ],
-      "ralph_loops_completed": 2,
+      "ralph_loops_completed": 3,
       "kb_facts_used": [
         "f_1019",
         "f_1020",
@@ -4495,7 +4501,8 @@
         "f_1928",
         "f_1929",
         "f_1930",
-        "f_1931"
+        "f_1931",
+        "f_1982"
       ],
       "sources_cited": [
         "src_ymca_quebec_history",
@@ -4506,7 +4513,8 @@
         "src_observatoire_ymca",
         "src_ymca_canada_history",
         "src_concordia_drummond_ymca_building",
-        "src_ymcaquebec_downtown_sale_2023"
+        "src_ymcaquebec_downtown_sale_2023",
+        "src_concordia_finding_aid_master_pdf"
       ],
       "open_questions": 5,
       "cross_links": [
@@ -4517,7 +4525,7 @@
         "canadian-camping-movement"
       ],
       "file_id": null,
-      "word_count": 1467
+      "word_count": 1551
     },
     {
       "article_id": "notable-alumni",
