@@ -1552,6 +1552,7 @@
       "cross_links": [
         "a-ross-seaman",
         "billy-ball",
+        "bruce-netherwood",
         "cushing-family",
         "da-budge",
         "founding-1894",
@@ -1562,6 +1563,7 @@
         "pip-alumni-award",
         "ralph-dawson",
         "rh-hanagan",
+        "rl-charlton",
         "ross-bannerman",
         "stuart-mclean",
         "timeline-overview",
@@ -1570,7 +1572,7 @@
       ],
       "file_id": null,
       "word_count": 12042,
-      "notes": "v4.75: Peter Goddard confirmed (Peter Gilling Goddard 1953-2016, obituary condolence). Nelson McEwen tenure extended c.1927-1947. Derek Walsh exhausted. Gap periods updated. | 2026-07-07: applied operator's standing conflict-resolution policy (documented sources take precedence over oral history) to resolve c_004, c_015, c_016, c_017 -- Gary White's Kanawana tenure narrowed to FY2001-2002, Sean Day's start corrected to 2008, Nicolas Garcia's spelling/end-date corrected to March 2014, Rossy Foundation corrected to Tyndale St-Georges. | 2026-07-11: Workstream A Wave 1 prose-sediment REVIEW pass -- standardized header, moved dated correction narrative from table cells into a new visible Revision History section, corrected open_questions count (was stale at 7, actual count is and remains 14). No facts, citations, or open questions dropped; status unchanged. | 2026-07-11: Added wiki-links to Howie Langille and Ross Bannerman table rows and Related Articles, pointing to their new standalone Workstream C1 articles.",
+      "notes": "v4.75: Peter Goddard confirmed (Peter Gilling Goddard 1953-2016, obituary condolence). Nelson McEwen tenure extended c.1927-1947. Derek Walsh exhausted. Gap periods updated. | 2026-07-07: applied operator's standing conflict-resolution policy (documented sources take precedence over oral history) to resolve c_004, c_015, c_016, c_017 -- Gary White's Kanawana tenure narrowed to FY2001-2002, Sean Day's start corrected to 2008, Nicolas Garcia's spelling/end-date corrected to March 2014, Rossy Foundation corrected to Tyndale St-Georges. | 2026-07-11: Workstream A Wave 1 prose-sediment REVIEW pass -- standardized header, moved dated correction narrative from table cells into a new visible Revision History section, corrected open_questions count (was stale at 7, actual count is and remains 14). No facts, citations, or open questions dropped; status unchanged. | 2026-07-11: Added wiki-links to Howie Langille and Ross Bannerman table rows and Related Articles, pointing to their new standalone Workstream C1 articles. | 2026-07-11: Added wiki-links to Bruce Netherwood (Camp Directors table, Pip Award table, Related Articles) pointing to the new standalone article.",
       "tags": {
         "era": [
           "1880s",
@@ -3750,16 +3752,17 @@
       ],
       "open_questions": 8,
       "cross_links": [
-        "traditions-and-culture",
-        "the-kanawana-site",
-        "lake-wilson",
+        "canadian-camping-movement",
         "council-ring",
         "founding-1894",
-        "canadian-camping-movement"
+        "lake-wilson",
+        "rl-charlton",
+        "the-kanawana-site",
+        "traditions-and-culture"
       ],
       "file_id": null,
       "word_count": 4733,
-      "notes": "R1-R2 RALPH completed 2026-02-27. Four myths documented (oldest camp, name meaning, Indian heritage, founding narrative). Legends: haunted house (1935), Cropsey archetype, Anson Minor (Canadian parallel), Chopsy (Kanawana-local). Quebec folklore context. Fireside Canada podcast as source. 17 KB facts cited. 19 sources. Chopsy needs oral history. | 2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- trimmed the header's dated parenthetical, moved the embedded 'Update (2026-07-10)' and 'Correction (2026-07-10)' paragraphs into a new Research Notes > Revision History section (article had none before). No facts, citations, or open questions dropped; status unchanged.",
+      "notes": "R1-R2 RALPH completed 2026-02-27. Four myths documented (oldest camp, name meaning, Indian heritage, founding narrative). Legends: haunted house (1935), Cropsey archetype, Anson Minor (Canadian parallel), Chopsy (Kanawana-local). Quebec folklore context. Fireside Canada podcast as source. 17 KB facts cited. 19 sources. Chopsy needs oral history. | 2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- trimmed the header's dated parenthetical, moved the embedded 'Update (2026-07-10)' and 'Correction (2026-07-10)' paragraphs into a new Research Notes > Revision History section (article had none before). No facts, citations, or open questions dropped; status unchanged. | 2026-07-11: Fixed link-text bug (\"R.L. Charlton\" text was linked to people/ralph-dawson); now correctly points to the new people/rl-charlton.md.",
       "tags": {
         "era": [
           "1760s",
@@ -5856,6 +5859,8 @@
       ],
       "open_questions": 6,
       "cross_links": [
+        "bruce-netherwood",
+        "carol-skinner",
         "chris-adam",
         "dave-twynam",
         "directors-index",
@@ -5863,13 +5868,16 @@
         "james-orbinski",
         "john-cleghorn",
         "pip-alumni-award",
+        "richard-patten",
+        "rl-charlton",
+        "sam-lazarus",
         "sean-day",
         "stuart-mclean",
         "terry-mosher",
         "traditions-and-culture"
       ],
       "file_id": null,
-      "word_count": 2449,
+      "word_count": 1980,
       "tags": {
         "era": [
           "1910s",
@@ -5897,7 +5905,7 @@
         ],
         "is_hub": true
       },
-      "notes": "2026-07-11: Split John Cleghorn, Chris Adam, James Orbinski out to standalone articles (Workstream C1); trimmed their entries to pointers, fixed header sediment, added Research Notes/Revision History section. No facts dropped."
+      "notes": "2026-07-11: Split John Cleghorn, Chris Adam, James Orbinski out to standalone articles (Workstream C1); trimmed their entries to pointers, fixed header sediment, added Research Notes/Revision History section. No facts dropped. | 2026-07-11: Split Bruce Netherwood out to a standalone article (was actually a documented Director 1988-1994, not merely a Pip Award recipient); trimmed entry to a pointer. | 2026-07-11: Split Richard Patten, Carol Skinner, Sam Lazarus, R.L. Charlton out to standalone articles; trimmed their entries to pointers."
     },
     {
       "article_id": "environmental-history",
@@ -7487,6 +7495,293 @@
           "notable_alumni",
           "people",
           "environment"
+        ],
+        "is_hub": false
+      }
+    },
+    {
+      "article_id": "bruce-netherwood",
+      "title": "Bruce Netherwood",
+      "wiki_folder": "people",
+      "status": "draft",
+      "status_history": [
+        {
+          "status": "draft",
+          "at": "2026-07-11T00:00:00Z",
+          "by": "auto",
+          "task": "WRITE"
+        }
+      ],
+      "ralph_loops_completed": 1,
+      "kb_facts_used": [
+        "f_0156",
+        "f_0179",
+        "f_0180",
+        "f_1068",
+        "f_1082",
+        "f_1083",
+        "f_1211",
+        "f_1212",
+        "f_1216",
+        "f_1223",
+        "f_1500",
+        "f_1535",
+        "f_1610",
+        "f_1728",
+        "f_1866",
+        "f_1867"
+      ],
+      "sources_cited": [
+        "src_flickr_kanawana_plaque_album",
+        "src_oral_aronson",
+        "src_ia_ymca_annual_1990",
+        "src_ia_ymca_annual_1993",
+        "src_ia_ymca_annual_1989_fr",
+        "src_concordia_atom_12B04",
+        "src_ssymca_netherwood",
+        "src_ymca_quebec_pip_skinner"
+      ],
+      "open_questions": 3,
+      "cross_links": [
+        "directors-index",
+        "notable-alumni",
+        "pip-alumni-award",
+        "centennial-1994"
+      ],
+      "file_id": null,
+      "word_count": 647,
+      "notes": "2026-07-11: Workstream C1 spawn, split from notable-alumni.md AND from directors-index.md Camp Directors table (Bruce Netherwood was already a fully-documented Director 1988-1994, richer than the plan's Pip-Award-only framing suggested). Jay Netherwood folded in as a section rather than a separate stub given near-total absence of independent biographical material. Corrected a dangling source_id reference (src_concordia_p0145_12b04_finding_aid -> src_concordia_atom_12B04, also affecting f_1066) in kb/facts.json while preparing this article.",
+      "tags": {
+        "era": [
+          "1980s",
+          "1990s"
+        ],
+        "region": "montreal",
+        "location_refs": [],
+        "person_type": "director",
+        "topics": [
+          "directors",
+          "staff",
+          "people",
+          "notable_alumni"
+        ],
+        "is_hub": false
+      }
+    },
+    {
+      "article_id": "richard-patten",
+      "title": "Richard Patten",
+      "wiki_folder": "people",
+      "status": "draft",
+      "status_history": [
+        {
+          "status": "draft",
+          "at": "2026-07-11T00:00:00Z",
+          "by": "auto",
+          "task": "WRITE"
+        }
+      ],
+      "ralph_loops_completed": 1,
+      "kb_facts_used": [
+        "f_0448",
+        "f_0467",
+        "f_0610",
+        "f_1067",
+        "f_1079",
+        "f_1089",
+        "f_1090",
+        "f_1091",
+        "f_1127",
+        "f_1588"
+      ],
+      "sources_cited": [
+        "src_patten_obituary",
+        "src_ymca_quebec_pip_skinner",
+        "src_flickr_kanawana_plaque_album",
+        "src_wikipedia_richard_patten"
+      ],
+      "open_questions": 2,
+      "cross_links": [
+        "notable-alumni",
+        "pip-alumni-award",
+        "dave-twynam",
+        "directors-index"
+      ],
+      "file_id": null,
+      "word_count": 455,
+      "notes": "2026-07-11: Workstream C1 spawn, split from notable-alumni.md. No new research conducted. Corrected two dangling source_id references (src_patten_wikipedia -> src_wikipedia_richard_patten; src_hpmcgarry_patten_obituary -> src_patten_obituary) in kb/facts.json while preparing this article.",
+      "tags": {
+        "era": [
+          "1960s",
+          "1970s"
+        ],
+        "region": "not-applicable",
+        "location_refs": [],
+        "person_type": "alumnus",
+        "topics": [
+          "notable_alumni",
+          "people",
+          "ymca_canada"
+        ],
+        "is_hub": false
+      }
+    },
+    {
+      "article_id": "carol-skinner",
+      "title": "Carol Skinner",
+      "wiki_folder": "people",
+      "status": "stub",
+      "status_history": [
+        {
+          "status": "stub",
+          "at": "2026-07-11T00:00:00Z",
+          "by": "auto",
+          "task": "WRITE"
+        }
+      ],
+      "ralph_loops_completed": 1,
+      "kb_facts_used": [
+        "f_0421",
+        "f_0447",
+        "f_1009",
+        "f_1062",
+        "f_1072",
+        "f_1128",
+        "f_1460"
+      ],
+      "sources_cited": [
+        "src_ymca_pip_skinner",
+        "src_ymca_quebec_pip_skinner"
+      ],
+      "open_questions": 3,
+      "cross_links": [
+        "notable-alumni",
+        "pip-alumni-award"
+      ],
+      "file_id": null,
+      "word_count": 255,
+      "notes": "2026-07-11: Workstream C1 spawn, split from notable-alumni.md. Set to stub (not draft) per CLAUDE.md pipeline requirements -- only 2 genuinely distinct sources exist, below the 3+ threshold for draft.",
+      "tags": {
+        "era": [
+          "1990s",
+          "2010s"
+        ],
+        "region": "not-applicable",
+        "location_refs": [],
+        "person_type": "alumnus",
+        "topics": [
+          "notable_alumni",
+          "people"
+        ],
+        "is_hub": false
+      }
+    },
+    {
+      "article_id": "sam-lazarus",
+      "title": "Sam Lazarus",
+      "wiki_folder": "people",
+      "status": "draft",
+      "status_history": [
+        {
+          "status": "draft",
+          "at": "2026-07-11T00:00:00Z",
+          "by": "auto",
+          "task": "WRITE"
+        }
+      ],
+      "ralph_loops_completed": 1,
+      "kb_facts_used": [
+        "f_0610",
+        "f_1119",
+        "f_1125",
+        "f_1135",
+        "f_1140",
+        "f_1141",
+        "f_1416"
+      ],
+      "sources_cited": [
+        "src_myjewishlearning_lazarus",
+        "src_amazon_dear_sam",
+        "src_cbc_sam_jam_2015",
+        "src_zeffy_lazarus_fund"
+      ],
+      "open_questions": 2,
+      "cross_links": [
+        "notable-alumni",
+        "pip-alumni-award"
+      ],
+      "file_id": null,
+      "word_count": 411,
+      "notes": "2026-07-11: Workstream C1 spawn, split from notable-alumni.md. No new research conducted. Noted but did not fix a pre-existing fact-to-source mis-citation (f_0611 cites src_newspapers_gazette_1913, an unrelated 1913 article) -- flagged as a KB cleanup item rather than guessed at.",
+      "tags": {
+        "era": [
+          "1990s",
+          "2000s"
+        ],
+        "region": "not-applicable",
+        "location_refs": [],
+        "person_type": "alumnus",
+        "topics": [
+          "notable_alumni",
+          "people"
+        ],
+        "is_hub": false
+      }
+    },
+    {
+      "article_id": "rl-charlton",
+      "title": "R.L. Charlton",
+      "wiki_folder": "people",
+      "status": "draft",
+      "status_history": [
+        {
+          "status": "draft",
+          "at": "2026-07-11T00:00:00Z",
+          "by": "auto",
+          "task": "WRITE"
+        }
+      ],
+      "ralph_loops_completed": 1,
+      "kb_facts_used": [
+        "f_0184",
+        "f_0349",
+        "f_0601",
+        "f_0927",
+        "f_1044",
+        "f_1057",
+        "f_1060",
+        "f_1061",
+        "f_1151",
+        "f_1969"
+      ],
+      "sources_cited": [
+        "src_cbmu_history",
+        "src_1951_kamp_kanawana_history",
+        "src_concordia_p0145_12a_finding_aid",
+        "src_concordia_fonds"
+      ],
+      "open_questions": 4,
+      "cross_links": [
+        "ralph-dawson",
+        "directors-index",
+        "myths-and-legends",
+        "founding-1894"
+      ],
+      "file_id": null,
+      "word_count": 633,
+      "notes": "2026-07-11: Workstream C1 spawn, split from notable-alumni.md \"Other Notable Alumni\" section. Synthesizes existing research including myths-and-legends.md Batch 7 finding (1951 primary source naming Charlton as the person who proposed the camp name). Fixed a pre-existing link-text bug in myths-and-legends.md (text \"R.L. Charlton\" was linked to people/ralph-dawson instead of a Charlton article). Corrected a dangling source_id reference (src_concordia_fonds_12A -> src_concordia_p0145_12a_finding_aid, affecting f_1151) in kb/facts.json while preparing this article.",
+      "tags": {
+        "era": [
+          "1910s",
+          "1940s"
+        ],
+        "region": "montreal",
+        "location_refs": [],
+        "person_type": "founder-era-figure",
+        "topics": [
+          "founding",
+          "people",
+          "directors"
         ],
         "is_hub": false
       }

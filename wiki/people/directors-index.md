@@ -31,8 +31,8 @@ The title "Director" was applied at more than one level: the **Camp Director** (
 | Dave Twynam | 1979-1980 | Camp director; correspondence dated 1979 in Concordia Archives (12B01 finding aid, confirmed via direct reading — an earlier 1976 date drawn from search-engine snippets is superseded, see Revision History). Full name G. David Twynam, PhD. Career after Kanawana: faculty at Lakehead University, School of Outdoor Recreation, Parks & Tourism (by late 1990s); Dean, School of Tourism, University College of the Cariboo / Thompson Rivers University (~1999-2009, 10+ years); Dean, Faculty of Management, Vancouver Island University (post-2009); now retired. Published widely on volunteer motivation, sustainable tourism, and event management (723 citations, 10 works on ResearchGate). Co-developed the Special Event Volunteer Motivation Scale (SEVMS). Received BC Transfer & Articulation Community Leadership Award for 15 years of tourism education leadership. | Concordia Archives 12B01; ResearchGate; VIU News; TRU Newsroom |
 | Nancy Sawyer (Asst.) | 1980 | Assistant Director under "Dave" (likely Twynam); named in Ka-News | Ka-News 1980 |
 | Peter Goddard | ~1981–1985? | Full name: Peter Gilling Goddard (1953–2016). Identification confirmed via obituary condolence mentioning "Kamp Kanawana." Career in outdoor education: Boy Scouts of Canada (40+ years), Bill Mason Center, Rideau Valley Conservation Authority (Baxter Conservation Area). Died October 15, 2016, while walking Shaw Woods trails. Exact Kanawana years uncertain; served between Twynam and Jay Netherwood.^12 ^18 | Oral history (M. Aronson); Goddard obituary and condolences |
-| Jay Netherwood | 1986-1987 | Brother of Bruce Netherwood | Oral history (M. Aronson) |
-| Bruce Netherwood | 1988-1994 | Brother of Jay Netherwood. Now VP Camping Services, South Shore YMCA, Massachusetts; 30+ years in YMCA camping | Oral history (M. Aronson) |
+| Jay Netherwood | 1986-1987 | Brother of Bruce Netherwood — see [[people/bruce-netherwood\|Bruce Netherwood]] | Oral history (M. Aronson) |
+| [[people/bruce-netherwood\|Bruce Netherwood]] | 1988-1994 | Brother of Jay Netherwood. Now VP Camping Services, South Shore YMCA, Massachusetts; 30+ years in YMCA camping | Oral history (M. Aronson) |
 
 When Netherwood left at the end of 1994, the YMCA restructured Kanawana's leadership into two parallel roles — see "The Two-Tier Era" below.
 
@@ -137,7 +137,7 @@ Miss M. Rayner served as camp nurse and filled a "camp mother" role — one of t
 
 ### Post-War Staff (1943-1961)
 
-**Camp historians.** R.L. Charlton authored "Notes re Early Days of YMCA Camps at Lake St. Joseph and Kanawana" in 1943. Charlton was a Montreal independent marine surveyor, Treasurer of the Canadian Board of Marine Underwriters, and an "ardent YMCA worker" who went to France with the YMCA during WWI to serve Canadian troops.^13 W.E. Cushing wrote "Historical sketches — Lake St. Joseph" in the same year. Both manuscripts are held in Concordia Archives sub-series 12A.^2
+**Camp historians.** [[people/rl-charlton|R.L. Charlton]] authored "Notes re Early Days of YMCA Camps at Lake St. Joseph and Kanawana" in 1943 — see his standalone article for full biography, including a 1951 source crediting him as the person who proposed the camp's name. W.E. Cushing wrote "Historical sketches — Lake St. Joseph" in the same year. Both manuscripts are held in Concordia Archives sub-series 12A.^2
 
 **Staff development.** Hedley G. Dimock, Coordinator of Staff Development and Training for the Montreal YMCA and lecturer at Sir George Williams University, conducted research at Kamp Kanawana on camp counsellor effectiveness in 1960-1961.^2 In 1963, Dimock became the first Chairman of the Department of Applied Social Science and Director of the Centre for Human Relations and Community Studies at Sir George Williams University.^14 He collaborated extensively with Dr. Raye Kass on group development publications at Concordia University from 1972 onward.^14
 
@@ -156,7 +156,7 @@ The "Pip" Alumni Award, named after Philip "Pip" Caddell (1913-2004, camper 1928
 | Richard "Itche" Kerr | unknown | Volunteer working with the physically challenged | 2007 |
 | Richard Patten | 1960s (day camps) | Ontario MPP, YMCA Executive Director Montreal 1976-79 | 2008 |
 | Stuart McLean | 1969-1975 | Author, CBC radio host (*Vinyl Cafe*) | 2009 |
-| Bruce Netherwood | late 1980s-1990s | VP Camping Services, South Shore YMCA; YMCA leader and author | 2011 |
+| [[people/bruce-netherwood\|Bruce Netherwood]] | late 1980s-1990s | VP Camping Services, South Shore YMCA; YMCA leader and author | 2011 |
 | John Cleghorn | ~1950s | Former CEO Royal Bank of Canada | 2012 |
 | Sam Lazarus (posthumous) | camper + staff | Died 2004 (age 25) of cerebral malaria in Ghana while working at orphanage. SAM JAM annual fundraiser at Kanawana (17+ years). | 2013 |
 | Jeniene Phillips Birks | unknown | Former broadcaster, community volunteer | 2014 |
@@ -235,6 +235,8 @@ The following periods have no confirmed camp director:
 - [[people/nelson-mcewen|Nelson McEwen]]
 - [[people/howie-langille|Howie Langille]]
 - [[people/ross-bannerman|Ross Bannerman]]
+- [[people/bruce-netherwood|Bruce Netherwood]]
+- [[people/rl-charlton|R.L. Charlton]]
 - [[people/harold-cross|Harold C. Cross]]
 - [[people/billy-ball|Billy Ball]]
 - [[people/da-budge|D.A. Budge]]

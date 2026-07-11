@@ -7,7 +7,7 @@
 
 Camp Kanawana has produced a remarkable number of alumni who achieved distinction in public life. Since 2007, the Pip Alumni Award has formally recognized some of these individuals, but the camp's alumni network extends well beyond award recipients. This article collects biographical notes on notable alumni not covered by standalone articles elsewhere in the wiki.
 
-For alumni who have standalone articles, see: [[people/stuart-mclean|Stuart McLean]] (Pip Award 2009), [[people/terry-mosher|Terry Mosher / Aislin]] (Pip Award 2015), [[people/dave-twynam|G. David Twynam]], [[people/edgar-smee|Edgar E. Smee]], [[people/sean-day|Sean Day]], [[people/john-cleghorn|John Cleghorn]] (Pip Award 2012), [[people/chris-adam|Chris Adam]] (Pip Award 2017), [[people/james-orbinski|James Orbinski]] (Pip Award 2024). For full details on the award itself and the Caddell family, see [[programs/pip-alumni-award|The Pip Alumni Award]].
+For alumni who have standalone articles, see: [[people/stuart-mclean|Stuart McLean]] (Pip Award 2009), [[people/terry-mosher|Terry Mosher / Aislin]] (Pip Award 2015), [[people/dave-twynam|G. David Twynam]], [[people/edgar-smee|Edgar E. Smee]], [[people/sean-day|Sean Day]], [[people/john-cleghorn|John Cleghorn]] (Pip Award 2012), [[people/chris-adam|Chris Adam]] (Pip Award 2017), [[people/james-orbinski|James Orbinski]] (Pip Award 2024), [[people/bruce-netherwood|Bruce Netherwood]] (Pip Award 2011), [[people/richard-patten|Richard Patten]] (Pip Award 2008), [[people/carol-skinner|Carol Skinner]] (Pip Award 2016), [[people/sam-lazarus|Sam Lazarus]] (Pip Award 2013, posthumous), [[people/rl-charlton|R.L. Charlton]]. For full details on the award itself and the Caddell family, see [[programs/pip-alumni-award|The Pip Alumni Award]].
 
 ## Pip Award Recipients Without Standalone Articles
 
@@ -17,11 +17,11 @@ Richard Kerr, known by his camp nickname "Itche," was the inaugural Pip Award re
 
 ### Richard Patten (1942–2021) (Pip Award 2008)
 
-Richard Andrew Patten (born May 13, 1942; died December 30, 2021) was a Liberal member of the Ontario Legislature representing Ottawa Centre (1987–1990, 1995–2007).^6 He served as Minister of Government Services and Minister of Correctional Services in the Peterson government. Educated at Sir George Williams University (now Concordia), Patten worked in summer day camps for the Montreal YMCA while a student in the early-to-mid 1960s; his family rented a cottage at YMCA Geneva Park on Lake Couchiching every summer, reflecting a lifelong YMCA affiliation.^17 He had an extensive YMCA career before politics: he trained YMCA staff in Guyana (1969–71), served as Director of International Programs at the Montreal YMCA (1971–76), then as Executive Director of the YMCA in Montreal (1976–79), and Director of International Programs for the Canadian National Council of YMCAs in Ottawa (1979–87).^2 ^17 He worked with Palestinian youth in refugee camps in Syria, Lebanon, Jordan, and Gaza under the UNRWA/World Alliance of YMCAs, and coordinated support for Ugandan Asian refugees expelled by Idi Amin.^17 After leaving politics, he served as CEO of the CHEO Foundation and President of the Canadian Council for International Cooperation.^6 The Richard Patten Aboriginal Bursary Fund was created at Algonquin College in his honour.^2
+Liberal Ontario MPP for Ottawa Centre (1987–90, 1995–2007) with an extensive prior YMCA international career. See [[people/richard-patten|Richard Patten]] for full biography.
 
 ### Bruce Netherwood (Pip Award 2011)
 
-Bruce Netherwood has spent more than 30 years in YMCA camping. He currently serves as Vice President of Camping & Social Responsibility at the South Shore YMCA in Hanover, Massachusetts, overseeing Camp Burgess & Hayward and day camps at the Hale, Emilson, and Science Center branches.^3 He was previously Executive Director at Camp Burgess & Hayward. At Kanawana, he was staff in the late 1980s–1990s.^1 The Concordia Archives hold an envelope addressed to him containing T-shirt design materials, confirming his operational involvement.^5
+Directed Camp Kanawana 1988–1994, succeeding his brother Jay Netherwood; later VP Camping & Social Responsibility, South Shore YMCA, Massachusetts. See [[people/bruce-netherwood|Bruce Netherwood]] for full biography.
 
 ### John Cleghorn (Pip Award 2012)
 
@@ -29,11 +29,7 @@ Former Chairman and CEO of the Royal Bank of Canada (1994–2001), Kanawana camp
 
 ### Sam Lazarus (1978–2004) (Pip Award 2013, posthumous)
 
-Samuel Karl Lazarus was born March 3, 1978 in Montreal.^8 He was a camper and staff member at Camp Kanawana for much of his childhood and youth.^9 After camp, he volunteered at an orphanage in Kumasi, Ghana, where he died of cerebral malaria on January 14, 2004, at age 25.^8
-
-His obituary in the Montreal Gazette (January 24, 2004) directed donations to the Samuel Lazarus Fund at Kamp Kanawana.^8 His mother, Janet Torge — a Montreal-based writer and television documentary producer whose varied career has included radio talk-show host, traffic reporter, Montreal Gazette columnist, prenatal teacher and doula, construction site manager, and co-founder of Canada's first Rape Relief Centre (1973)^25 — and his brother Riel Lazarus (archivist and researcher for film and TV) established the Sam Lazarus Fund to send children who otherwise could not afford camp to Kanawana.^9 Torge published *Dear Sam: Grieving the Death of My Son* (iUniverse, ISBN 9780595423835), a memoir of letters written to cope with her loss, and later *I Can't Believe I'm Old: Essays on Aging* (Linda Leith Publishing).^26 ^27 She went on to found Radical Resthomes, a co-living housing model for seniors, and serves on the CIHR Institute of Aging Older Adult Advisory Council.^25 Her documentary producer credits include *Harry Gulkin: Red Dawn on Main Street* (2004) and *The Gig Is Up* (2021).^28
-
-The annual "Five-Hole Sam Street Hockey Jamboree" (Sam Jam), organized by Riel Lazarus, had raised over $260,000 and sent more than 70 children to camp as of 2015.^29 Sam was a legendary street hockey goalie whose tendency to let goals through "the five-hole" inspired the event's name.^29 The fund continues through the Fondation des YMCA du Québec, accepting donations via Zeffy; over 17 years, dozens of families have received camperships.^30
+Camper and staff member who died volunteering in Ghana at 25; the Sam Lazarus Fund, established by his family, continues to send children to Kanawana. See [[people/sam-lazarus|Sam Lazarus]] for full biography. His mother, Janet Torge, is a Montreal-based writer and television documentary producer whose varied career has included radio talk-show host, traffic reporter, Montreal Gazette columnist, prenatal teacher and doula, construction site manager, and co-founder of Canada's first Rape Relief Centre (1973);^25 she published *Dear Sam: Grieving the Death of My Son* (iUniverse) and *I Can't Believe I'm Old: Essays on Aging* (Linda Leith Publishing),^26 ^27 founded Radical Resthomes, a co-living housing model for seniors, and serves on the CIHR Institute of Aging Older Adult Advisory Council.^25 Her documentary producer credits include *Harry Gulkin: Red Dawn on Main Street* (2004) and *The Gig Is Up* (2021).^28
 
 ### Jeniene Phillips Birks (Pip Award 2014)
 
@@ -41,7 +37,7 @@ CBC Montreal television journalist who served as fill-in anchor on the evening n
 
 ### Carol Skinner (Pip Award 2016)
 
-Carol Sharman Skinner served as a counsellor and section director at Kanawana from 1990 to 1995.^11 She went on to become Director of YMCA Camp Hayward in Cape Cod, Massachusetts, before earning a Master's in Art Therapy and working as a school counsellor and as Art Therapist for the Canadian Mental Health Association in Ottawa.^11 Diagnosed with ALS in 2013, she became an advocate for ALS Canada, speaking publicly about living with the disease.^11 Her award was presented on July 7, 2016 before campers and again at the September alumni gathering.^11
+Counsellor and section director at Kanawana (1990–1995); later ALS advocate. See [[people/carol-skinner|Carol Skinner]] (stub — sourcing is currently thin) for what's documented so far.
 
 ### Chris Adam (Pip Award 2017)
 
@@ -69,7 +65,7 @@ Grandson of Pip. Camper and counsellor 1983–1991. McGill BA 1997, RMC War Stud
 
 ### R. L. Charlton (fl. 1917–1943)
 
-Montreal marine surveyor and "ardent YMCA worker."^4 Elected Treasurer of the Canadian Board of Marine Underwriters at its founding (March 12, 1917).^4 Served with the YMCA in France during WWI supporting Canadian troops. Authored "Notes re Early Days of YMCA Camps at Lake St. Joseph and Kanawana" (1943), held in Concordia Archives P0145/12A.^5
+Montreal marine surveyor and "ardent YMCA worker" credited by a 1951 primary source as the person who proposed the camp's name. See [[people/rl-charlton|R.L. Charlton]] for full biography.
 
 ### Harold H. Potter (1914–2004)
 
