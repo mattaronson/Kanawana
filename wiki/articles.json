@@ -1889,6 +1889,12 @@
           "at": "2026-07-09T09:00:00Z",
           "by": "auto",
           "task": "RESEARCH"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-07-11T00:00:00Z",
+          "by": "auto",
+          "task": "REVIEW"
         }
       ],
       "ralph_loops_completed": 2,
@@ -1929,8 +1935,8 @@
         "founding-1894"
       ],
       "file_id": null,
-      "word_count": 1730,
-      "notes": "E1 REVIEW (2026-02-19): PASS — all 7 checklist items satisfied. No fixes needed. Advanced R3-verified → E1-reviewed."
+      "word_count": 1664,
+      "notes": "E1 REVIEW (2026-02-19): PASS — all 7 checklist items satisfied. No fixes needed. Advanced R3-verified → E1-reviewed. | 2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- removed the old-style HTML-comment header (article had no standardized header at all), softened a dated bold-label marker in prose. No facts, citations, or open questions dropped; status unchanged."
     },
     {
       "article_id": "cushing-family",
@@ -5587,6 +5593,12 @@
           "at": "2026-07-09T18:00:00Z",
           "by": "auto",
           "task": "RESEARCH"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-07-11T00:00:00Z",
+          "by": "auto",
+          "task": "REVIEW"
         }
       ],
       "ralph_loops_completed": 2,
@@ -5621,7 +5633,8 @@
         "sources-index"
       ],
       "file_id": null,
-      "word_count": 1036
+      "word_count": 983,
+      "notes": "2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- removed a duplicate old-style HTML-comment header, corrected the Sources count in the header (was 8, actual is 9). No facts, citations, or open questions dropped; status unchanged."
     },
     {
       "article_id": "winter-programming",

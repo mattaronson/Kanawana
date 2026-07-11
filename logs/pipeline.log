@@ -2337,3 +2337,8 @@ HYPOTHESIZE — Remaining productive research requires:
   - camp-becsies.md: removed a duplicate old-style HTML-comment header, softened a dated bold-label marker in prose.
   - sources-index.md (meta): removed the old-style HTML-comment header, applied the standardized header using the project's current total-sources count (643) since this meta article is itself a sources catalog rather than a cited-source article.
   - No facts, sources, citations, or open questions dropped on either article. Status unchanged (E1-reviewed) on both. wiki/articles.json updated.
+
+[2026-07-11] Campaign 59 (Workstream A, Wave 2, articles 28-29): sgw-concordia-connection.md and billy-ball.md
+  - sgw-concordia-connection.md: removed a duplicate old-style HTML-comment header, corrected the header's stale Sources count (8 -> 9).
+  - billy-ball.md: removed the old-style HTML-comment header (article had no standardized header at all), softened a dated bold-label marker in prose.
+  - No facts, sources, citations, or open questions dropped on either article. Status unchanged (E1-reviewed) on both. wiki/articles.json updated.

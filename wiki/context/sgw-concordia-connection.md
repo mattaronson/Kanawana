@@ -1,14 +1,7 @@
 # Sir George Williams / Concordia University and Camp Kanawana
 
-<!-- status: E1-reviewed -->
-<!-- confidence: medium -->
-<!-- last_updated: 2026-06-22 -->
-<!-- last_updated: 2026-07-09 (open-questions research pass: confirmed The Georgian and McGill Daily are both fully digitized, but flagged a genuine archive.org search-API limitation blocking automated full-text search of either) -->
-<!-- last_editor: session4, v68 -->
-<!-- ralph_loops: sgw-concordia-R1, sgw-concordia-V1, sgw-concordia-E1 -->
-
-*Status: E1-reviewed | Sources: 8*
-*Last Updated: 2026-06-22*
+*Status: E1-reviewed | Sources: 9*
+*Last Updated: 2026-07-09*
 
 ## Overview
 
