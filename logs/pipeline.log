@@ -2257,3 +2257,8 @@ HYPOTHESIZE — Remaining productive research requires:
   - canadian-camping-movement.md: added the standardized header (previously had only the old-style HTML-comment header), moved the c_020 (OCA founding-date reconciliation) editorial-resolution narrative into a new visible Revision History section. Corrected open_questions count (was stale at 5, actual is 6).
   - quebec-camp-landscape.md: already had the standardized header and clean prose (no embedded corrections); folded the competing "R3 Verification Notes"/"E1 Review Notes" H3 sub-headings (with no parent Research Notes heading) into a proper "## Research Notes" section per the wiki-wide convention, trimmed the header's dated parenthetical.
   - No facts, sources, citations, or open questions dropped on either article. Status unchanged (E1-reviewed) on both. wiki/articles.json updated.
+
+[2026-07-11] Campaign 43 (Workstream A, Wave 1, articles 6-7 of 8): prose-sediment REVIEW pass on the-kanawana-site.md and camp-perrot.md
+  - the-kanawana-site.md: fixed a malformed header (the "Sources:" field was listing raw source IDs instead of a count -- now "Sources: 34"), moved the embedded "Correction (2026-07-10)" paragraph about the Weredale lease into a new Research Notes > Revision History section (article previously had no Research Notes section at all).
+  - camp-perrot.md: removed duplicate old-style HTML-comment header, moved the "12G sub-series" correction and the Batch 7 research-pass summary into a new Research Notes > Revision History section (also previously absent).
+  - No facts, sources, citations, or open questions dropped on either article. Status unchanged (E1-reviewed) on both. wiki/articles.json updated.

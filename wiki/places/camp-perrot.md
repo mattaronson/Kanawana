@@ -1,13 +1,7 @@
 # Camp Perrot
 
-<!-- status: E1-reviewed -->
-<!-- confidence: medium-high -->
-<!-- last_updated: 2026-07-10 -->
-<!-- last_editor: batch7 -->
-<!-- ralph_loops: camp-perrot-R1, camp-perrot-V1, camp-perrot-E1, camp-perrot-R2 -->
-
 *Status: E1-reviewed | Sources: 9*
-*Last Updated: 2026-07-10 (Batch 7 research pass: 11 Camp Perrot annual reports/brochures found digitized on Internet Archive -- location, founding year, capacity, age range, programming, and staff overlap with Kanawana all substantially advanced; corrected the article's prior claim of a dedicated "P0145/12G" sub-series)*
+*Last Updated: 2026-07-10*
 
 ## Overview
 
@@ -39,7 +33,7 @@ R.H. Hanagan, who served as Montreal YMCA camp director in 1942 and 1946, filed 
 
 ## A Note on Archival Cataloguing
 
-This article previously stated Camp Perrot has its own dedicated archival sub-series, P0145/12G. Concordia's full 125-page master finding-aid PDF shows this is not quite accurate: unlike every sibling sub-series (12C through 12F, 12H through 12N, each of which has a full date-range and box-listing entry), "12G" has no descriptive entry at all in the finding aid's body — the structure jumps directly from 12F (Weredale) to 12H (Ski lodge). Camp Perrot material exists only as comparison documents within sub-series 12A, consistent with the Documentary Evidence below. This appears to be a genuine cataloguing gap in Concordia's own finding aid, not a wiki error — flagged here rather than silently corrected, since it may reflect an intended-but-never-completed sub-series.^8
+Camp Perrot has sometimes been cited under a "P0145/12G" sub-series designation, but Concordia's full 125-page master finding-aid PDF shows this is not accurate: unlike every sibling sub-series (12C through 12F, 12H through 12N, each of which has a full date-range and box-listing entry), "12G" has no descriptive entry at all in the finding aid's body — the structure jumps directly from 12F (Weredale) to 12H (Ski lodge). Camp Perrot material exists only as comparison documents within sub-series 12A, consistent with the Documentary Evidence below. This appears to be a genuine cataloguing gap in Concordia's own finding aid, not a wiki error (see Revision History), since it may reflect an intended-but-never-completed sub-series.^8
 
 ## Documentary Evidence
 
@@ -75,3 +69,11 @@ The earliest known Kanawana-side documentary evidence is a "Comparison of Two Bo
 7. "Camp Perrot Family Centre," planning document, 1969 [src_camp_perrot_1969_family_centre].
 8. Concordia University Archives, master finding-aid PDF [src_concordia_finding_aid_master_pdf]. Confirms no descriptive "12G" entry exists.
 9. A. Ross Seaman, Margaret Seaman, and Hedley Dimock cross-referenced from Camp Perrot's own annual reports (sources 5-6) against this KB's existing people index.
+
+## Research Notes
+
+### Revision History
+
+- **2026-07-10** — Corrected an inaccurate claim that Camp Perrot has its own dedicated archival sub-series (P0145/12G). A direct read of Concordia's full master finding-aid PDF shows "12G" has no descriptive entry at all — the structure jumps from 12F (Weredale) to 12H (Ski lodge); Camp Perrot material exists only as comparison documents within sub-series 12A. See "A Note on Archival Cataloguing," above.
+- **2026-07-10** — Batch 7 research pass: 11 Camp Perrot annual reports/brochures found digitized on Internet Archive, substantially advancing location, founding year, capacity, age range, programming, and documented staff overlap with Kanawana (A. Ross Seaman, Margaret Seaman, Hedley Dimock).
+

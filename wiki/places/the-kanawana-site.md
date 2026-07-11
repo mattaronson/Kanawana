@@ -1,7 +1,7 @@
 # The Kanawana Site
 
-*Status: E1-reviewed | Sources: src_ymca_website, src_kanawana_facts, src_brochure_1921, src_brochure_1922, src_gas_bag_1923, src_green_triangle_1938, src_mcmorris_thesis, src_concordia_fonds, src_wikidata_lac_kanawana, src_lapresse_ymca_2018, src_weredale_camp, src_mysummercamps_kanawana, src_crel_lac_kanawana, src_postmedia_nature_deficit_2026, src_ymca_kanawana_groups_rentals, src_ymca_kanawana_hebergement_fr, src_bonjour_quebec_kanawana, src_clivus_multrum_projects, src_morin_heights_indigenous, src_wikipedia_mille_isles, src_banq_lovell_1976, src_journal_acces_fire_2023*
-*Last Updated: 2026-07-10 (Batch 7 correction: the Kanawana-Weredale plan was not simply "abandoned" -- a real signed 1979 lease and joint files through 1981-82 existed; see camp-weredale.md)*
+*Status: E1-reviewed | Sources: 34*
+*Last Updated: 2026-07-10*
 
 ## Overview
 
@@ -119,7 +119,7 @@ Lac Kanawana is monitored by the Conseil régional de l'environnement des Lauren
 
 ## Proposed Two-Site Operation
 
-From 1977 to 1980, plans existed for a proposed two-site operation using Kanawana and Camp Weredale.^13 Camp Weredale was founded in 1934 to serve orphaned or at-risk boys and is now an independent non-profit operated by the Weredale Foundation, serving ages 6–17 in foster care or youth protection services.^15 A direct fetch of Batshaw Centres' own institutional history pages for Camp Weredale (2026-07-09) confirms they make zero mention of the YMCA, Kanawana, or any two-site plan at all.^32 **Correction (2026-07-10):** this was not simply a proposal that "was abandoned" — Concordia's finding aid for sub-series 12F documents an actual signed 1979 lease between the Weredale Foundation and the Montreal YMCA, plus joint files running through 1981-1982 (a day-camp proposal, a "YMCA staff cottage rental," a "Comité Weredale"). See [[context/camp-weredale|Camp Weredale and Its Relationship to Kanawana]] for the full finding. Both camps operate independently today; why and when the 1979-1982 arrangement ended remains undocumented online.^34
+From 1977 to 1980, plans existed for a proposed two-site operation using Kanawana and Camp Weredale.^13 Camp Weredale was founded in 1934 to serve orphaned or at-risk boys and is now an independent non-profit operated by the Weredale Foundation, serving ages 6–17 in foster care or youth protection services.^15 A direct fetch of Batshaw Centres' own institutional history pages for Camp Weredale (2026-07-09) confirms they make zero mention of the YMCA, Kanawana, or any two-site plan at all.^32 This was not simply a proposal that went unrealized: Concordia's finding aid for sub-series 12F documents an actual signed 1979 lease between the Weredale Foundation and the Montreal YMCA, plus joint files running through 1981-1982 (a day-camp proposal, a "YMCA staff cottage rental," a "Comité Weredale"; see Revision History and [[context/camp-weredale|Camp Weredale and Its Relationship to Kanawana]] for the full finding). Both camps operate independently today; why and when the 1979-1982 arrangement ended remains undocumented online.^34
 
 ## Images
 
@@ -193,3 +193,10 @@ From 1977 to 1980, plans existed for a proposed two-site operation using Kanawan
 32. Batshaw Centres History, Camp Weredale / Youth Horizons institutional history pages [src_batshaw_camp_weredale]. Direct fetch 2026-07-09.
 33. Concordia University Archives, finding aid for sub-sub-series 12B01 (Kamp Kanawana General Administration) [src_concordia_atom_12B01].
 34. Concordia University Archives, static finding-aid page for sub-series 12F (Camp Weredale) [src_concordia_atom_12F]. Direct fetch 2026-07-10: 1979 lease agreement, 1980-82 joint files.
+
+## Research Notes
+
+### Revision History
+
+- **2026-07-10** — Corrected the characterization of the Kanawana-Weredale two-site plan: this article previously implied the 1977-1980 proposal was simply abandoned. Concordia's sub-series 12F finding aid, fetched directly, documents an actual signed 1979 lease between the Weredale Foundation and the Montreal YMCA, plus joint files running through 1981-1982. See [[context/camp-weredale|Camp Weredale]] for the full finding.
+
