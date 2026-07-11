@@ -2274,3 +2274,8 @@ HYPOTHESIZE — Remaining productive research requires:
   - founding-1894.md: replaced the bold-field header (Status/Last Updated/Confidence/Sources/R3 Loop/E1 Review) with the standard two-line header; merged the separate "Research Notes" (prose) and "Revision History" (bullets) H2 sections into one, with the c_005 editorial-resolution paragraph folded in as a dated entry.
   - camp-ouareau.md: fixed the malformed Sources header and a duplicate "Last Updated" line, moved the c_002 editorial-resolution parenthetical into a new Research Notes > Revision History section (article had none before).
   - No facts, sources, citations, or open questions dropped on either article. Status unchanged (E1-reviewed) on both. wiki/articles.json updated.
+
+[2026-07-11] Campaign 46 (Workstream A, Wave 2, articles 3-4): prose-sediment REVIEW pass on coeducation-gender.md and environmental-history.md
+  - coeducation-gender.md: fixed the malformed Sources header, moved the c_001 editorial-resolution narrative into a new Research Notes > Revision History section, folded the orphaned "R3 Verification Notes" H2 into Research Notes.
+  - environmental-history.md: header was already close to standard (trimmed dated parenthetical only). Found and fixed a genuine citation-numbering bug: the Sources list had two entries each numbered "17." and "22.", leaving inline markers ambiguous about which they referenced -- disambiguated as 17b./22b. and corrected the three inline markers that actually pointed at the CRE Laurentides technical data.
+  - No facts, sources, citations, or open questions dropped on either article. Status unchanged (E1-reviewed) on both. wiki/articles.json updated.

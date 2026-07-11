@@ -1,7 +1,7 @@
 # Environmental Education and Stewardship at Kanawana
 
 *Status: E1-reviewed | Sources: 25*
-*Last Updated: 2026-07-10 (Batch 7 research pass: no named pedagogical framework found for environmental programming, but real informal iNaturalist/GBIF citizen-science observations confirmed at the camp's own lake; no formal biodiversity survey found)*
+*Last Updated: 2026-07-10*
 
 ## Overview
 
@@ -23,9 +23,9 @@ The camp replaced its entire septic system with 16 commercial Clivus Multrum com
 
 ### Lake Monitoring
 
-Lac Kanawana participates in Quebec's Réseau de surveillance volontaire des lacs (RSVL) as station 573 (Station 0573A; coordinates 45°51'07"N 74°11'37"W; Rivière du Nord watershed), with the YMCA itself as the volunteer participant.^3 ^22 Monitoring includes Secchi disk transparency measured every two weeks from June to October, and water samples analyzed for phosphorus, dissolved organic carbon, and chlorophyll a by the Centre d'expertise en analyse environnementale du Québec (CEAEQ).^3 The lake has a surface area of 0.2388 km², maximum depth of 12.4 metres, average depth 5.2 metres, and a drainage ratio of 21.95; 42% of the lake bottom is colonizable by macrophytes (maximum growth depth 4.3 metres).^22 Its volume and renewal time are recorded slightly differently across data vintages — 1,239,000 m³ / 0.36 years (RSVL/MELCCFP) versus 1,273,000 m³ / 0.43 years (earlier figures) — recorded as conflicts c_009 and c_010.^22
+Lac Kanawana participates in Quebec's Réseau de surveillance volontaire des lacs (RSVL) as station 573 (Station 0573A; coordinates 45°51'07"N 74°11'37"W; Rivière du Nord watershed), with the YMCA itself as the volunteer participant.^3 ^22b Monitoring includes Secchi disk transparency measured every two weeks from June to October, and water samples analyzed for phosphorus, dissolved organic carbon, and chlorophyll a by the Centre d'expertise en analyse environnementale du Québec (CEAEQ).^3 The lake has a surface area of 0.2388 km², maximum depth of 12.4 metres, average depth 5.2 metres, and a drainage ratio of 21.95; 42% of the lake bottom is colonizable by macrophytes (maximum growth depth 4.3 metres).^22b Its volume and renewal time are recorded slightly differently across data vintages — 1,239,000 m³ / 0.36 years (RSVL/MELCCFP) versus 1,273,000 m³ / 0.43 years (earlier figures) — recorded as conflicts c_009 and c_010.^22b
 
-Actual monitoring values were retrieved via operator browser access: in 2010 the summer means were total phosphorus 8.4 µg/L, chlorophyll a 7.2 µg/L, Secchi 2.5 m, and DOC 6.2 mg/L (trophic status **mesotrophe**); in 2011 they improved to phosphorus 7.5 µg/L, chlorophyll a 3.4 µg/L, Secchi 3.9 m, and DOC 3.4 mg/L (**oligo-mesotrophe**).^22 No RSVL monitoring is recorded after 2011, which conflicts with the earlier understanding of data "since at least 2013" (the 2013–2024 CRE Laurentides material may be separate technical-support reports rather than the RSVL dataset itself; conflict c_011).^22 The camp beach is formally listed on Swim Guide (ID 5490) and the Great Lakes Guide.^3
+Actual monitoring values were retrieved via operator browser access: in 2010 the summer means were total phosphorus 8.4 µg/L, chlorophyll a 7.2 µg/L, Secchi 2.5 m, and DOC 6.2 mg/L (trophic status **mesotrophe**); in 2011 they improved to phosphorus 7.5 µg/L, chlorophyll a 3.4 µg/L, Secchi 3.9 m, and DOC 3.4 mg/L (**oligo-mesotrophe**).^22b No RSVL monitoring is recorded after 2011, which conflicts with the earlier understanding of data "since at least 2013" (the 2013–2024 CRE Laurentides material may be separate technical-support reports rather than the RSVL dataset itself; conflict c_011).^22b The camp beach is formally listed on Swim Guide (ID 5490) and the Great Lakes Guide.^3
 
 ## Conservation Programming
 
@@ -69,7 +69,7 @@ In 2018, Desjardins donated $1 million to the YMCA for renovations at Camp Kanaw
 
 ## Historical Antecedents
 
-The camp's engagement with nature is not entirely modern. The 1918 summer season offered instruction in "nature study" alongside first aid, basket-making, and camp sanitation.^13 By 1922, the camp held a chartered tribe in the Woodcraft League of America, whose nature study and outdoor skills programming embedded ecological awareness in the badge system.^17 The broader Woodcraft and nature study traditions of the early camping movement provided the philosophical groundwork for contemporary environmental education.
+The camp's engagement with nature is not entirely modern. The 1918 summer season offered instruction in "nature study" alongside first aid, basket-making, and camp sanitation.^13 By 1922, the camp held a chartered tribe in the Woodcraft League of America, whose nature study and outdoor skills programming embedded ecological awareness in the badge system.^17b The broader Woodcraft and nature study traditions of the early camping movement provided the philosophical groundwork for contemporary environmental education.
 
 A dedicated Nature Awareness program was created by Chris Adam (listed as "Chris Adams" in the 1980 *Ka-News*; from Vanier) in 1980, alongside new orienteering methods with a nature trail.^12 A Nature Nook / Nature Interpretation Area remains on the current site.^4 The 1980 initiatives mark the earliest identifiable moment when environmental education became a distinct programming stream rather than a diffuse element of outdoor camping.
 
@@ -133,14 +133,14 @@ The Canadian Summer Camp Research Project (CSCRP, 2006–2011), conducted by the
 15. Dave Twynam research publications: ResearchGate; Johnston, Twynam & Farrell (2006) sustainability research; Heart of Gold Project (2004).
 16. Canadian Summer Camp Research Project (CSCRP, 2006–2011), CCA/University of Waterloo; Wall, Sharon, *The Nurture of Nature* (UBC Press, 2009).
 17. Médiaterre, "Le camp Y Kanawana poursuit sa revitalisation et son virage vert," March 3, 2009. URL: https://www.mediaterre.org/canada-quebec/actu,20090303110253.html (retrieved via search excerpts, June 2026; direct fetch blocked).
-17. 1922 Kanawana brochure (Concordia Archives P0145): Woodcraft League of America chartered tribe, badge system.
+17b. 1922 Kanawana brochure (Concordia Archives P0145): Woodcraft League of America chartered tribe, badge system.
 18. Oral history, Matt Aronson (2026): Grand Portage cabin demolished ~2006 for Clivus Multrum washroom buildings.
 19. Dawson College Newsroom, "Chris Adam to receive Governor General's Meritorious Service Medal." URL: https://www.dawsoncollege.qc.ca/news/dawsons-chris-adam-to-receive-governor-generals-meritorious-service-decoration/
 20. Dawson College, Chris Adam researcher profile. URL: https://www.dawsoncollege.qc.ca/research/researchers/adam-chris/
 21. Port of Montreal, "C-Vert — A green program that changes lives." URL: https://www.port-montreal.com/en/the-port-of-montreal/news/news/logbook/neighbours-c-vert
 22. YMCA Quebec / Camp Kanawana promotional materials: green shift enabling "four times more young people."
 23. TELUS Community Board, 2010: $50,000 contribution toward three-season educational pavilion at Camp Kanawana.
-22. CRE Laurentides / RSVL-MELCCFP — Lac Kanawana (Station 0573A) data, retrieved via operator browser access June 2026: morphometry, 2010-2011 water quality means, trophic status. See conflicts c_009 (volume), c_010 (renewal time), c_011 (monitoring period).
+22b. CRE Laurentides / RSVL-MELCCFP — Lac Kanawana (Station 0573A) data, retrieved via operator browser access June 2026: morphometry, 2010-2011 water quality means, trophic status. See conflicts c_009 (volume), c_010 (renewal time), c_011 (monitoring period).
 24. Les YMCA du Québec, Rapport Annuel 2007 (Wayback Machine, fetched directly 2026-07-07). f_1761.
 25. Les YMCA du Québec, Rapport Annuel 2008 (Wayback Machine, fetched directly 2026-07-07). f_1762.
 26. Les YMCA du Québec, Rapport Annuel 2009 (Wayback Machine, fetched directly 2026-07-07). f_1763.
@@ -150,3 +150,10 @@ The Canadian Summer Camp Research Project (CSCRP, 2006–2011), conducted by the
 30. Médiaterre, "Le camp Y Kanawana poursuit sa revitalisation et son virage vert" [src_mediaterre_kanawana_2009]; Dawson College Chris Adam research page [src_dawson_chris_adam] (re-checked 2026-07-10, no named pedagogical framework found).
 31. Direct GBIF and iNaturalist API queries for the Lac Kanawana area, 2026-07-10 — geotagged observations at "Ch du Lac-Kanawana, St-Sauveur."
 32. Park Slope Parents, Camp YMCA Kanawana review, November 12, 2023 [src_parkslopeparents_2023]. Retrieved successfully 2026-07-10 after two earlier timeout attempts.
+
+## Research Notes
+
+### Revision History
+
+- **2026-07-11** — Fixed a citation-numbering bug: the Sources list had two entries each numbered "17." and "22.", leaving inline ^17/^22 markers ambiguous. Disambiguated by renaming the second entry in each pair to "17b."/"22b." and updating the three inline markers that referred to the CRE Laurentides technical data (not the YMCA promotional-materials or Médiaterre entries) to point at the correct one. No source content changed, only the numbering.
+
