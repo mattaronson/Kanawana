@@ -1,7 +1,7 @@
 # A. Ross Seaman
 
-*Status: E1-reviewed | Sources: src_concordia_seaman_fund, src_mcmorris_thesis, src_dawson_crlt, src_concordia_ctr_2001, src_concordia_atom_12K, src_ia_ymca_annual_report_1966_67, src_concordia_p0145_12a_finding_aid, src_ia_camp_perrot_collection, src_camp_perrot_1959_fresh_look*
-*Last Updated: 2026-07-10 (Batch 7 cross-reference: newly found Camp Perrot annual reports show Seaman served as a past director there before Kanawana, with a possible wife connection to Perrot's 1952 Girls' Camp Director)*
+*Status: E1-reviewed | Sources: 7*
+*Last Updated: 2026-07-10*
 
 ## Overview
 

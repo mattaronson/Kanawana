@@ -1,7 +1,7 @@
 # Hedley Dimock and the Science of Camping
 
-*Status: E1-reviewed | Sources: src_aca_dimock_bio, src_concordia_atom_12B05, src_mcmorris_thesis, src_concordia_seaman_fund, src_ancestry_dimock, src_great_war_album_dimock, src_snac_dimock, src_hathitrust_camping_character, src_taylor_statten_camps, src_concordia_chrcs_fonds, src_infed_ymca_education, src_veterans_dimock_gilbert, src_wikipedia_raye_kass, src_oakland_tribune_dimock_obit, src_concordia_p0145_12a_finding_aid, src_aca_dimock_award_recipients_2022_2026*
-*Last Updated: 2026-07-09 (open-questions research pass: 1960-61 studies confirmed as unpublished internal reports, not journal articles, in Concordia Box HA2323; found a new 1970 report extending Dimock's Kanawana research; McMorris thesis confirmed to have zero Dimock mentions; ACA Dimock Award recipient list extended to 2026)*
+*Status: E1-reviewed | Sources: 20*
+*Last Updated: 2026-07-09*
 
 ## Overview
 
