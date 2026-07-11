@@ -1,7 +1,7 @@
 # Kanawana in Media and Culture
 
-*Status: E1-reviewed | Sources: 16*
-*Last Updated: 2026-07-09 (open-questions research pass: confirmed YouTube URL for the 1960s silent film; identified two distinct Stuart McLean/Vinyl Cafe camp-themed show files via the full McMaster finding aid; confirmed no camp photos exist in the McMaster fonds specifically)*
+*Status: E1-reviewed | Sources: 19*
+*Last Updated: 2026-07-11*
 
 ## Overview
 
@@ -19,9 +19,11 @@ Camp Kanawana has appeared in a range of media over its 130-year history, from p
 
 ## Radio
 
-**CFCF broadcasts (1939, 1941).** Two promotional radio broadcast scripts survive in the Concordia University Archives, both from CFCF Montreal:
+**CFCF broadcasts (1939, 1941).** Two promotional radio broadcasts survive as digitized audio, uploaded to the Internet Archive by Concordia University Records Management, both from CFCF Montreal — Canada's first radio station, established in 1919 from the Marconi Wireless experimental station XWA:^17
 - June 10, 1939: Promoted the upcoming summer season, one of the last records of pre-war normalcy at Kanawana.^6
-- June 26, 1941: Chief Howie Langille promoted summer registrations, describing the 48th season and mentioning British evacuee children, 68 staff, and multi-generational attendance.^7
+- June 26, 1941, 8:50 PM Thursday: Chief [[people/howie-langille|Howie Langille]] was interviewed by an announcer, promoting summer registrations and describing the 48th season, British evacuee children, 68 staff, and multi-generational attendance.^7 ^18
+
+The Concordia Archives (P145/12B04, Communications sub-series) describe CFCF broadcasts promoting Kanawana as running from 1936 to 1941, suggesting further, not-yet-digitized broadcasts beyond these two surviving recordings.^19 See [[people/howie-langille|Howie Langille]] for the 1941 broadcast's fuller biographical context, and [[chronology/wartime-kanawana|Wartime Kanawana]] for its content in the camp's wartime narrative.
 
 ## Journalism
 
@@ -104,6 +106,18 @@ Stuart McLean worked as a counsellor at Camp Kanawana for five summers beginning
 14. YMCA Camp Kanawana Flickr account. URL: https://www.flickr.com/photos/kanawana/
 15. Kamp Kanawana YouTube channel. URL: https://www.youtube.com/c/KampKanawana
 16. CBC News (April 2021). "Summer sleepaway camps in jeopardy." URL: https://www.cbc.ca/news/canada/montreal/pandemic-summer-camps-quebec-overnight-1.5995429
+17. CFCF Radio Broadcast, June 26, 1941 — station history (Canada's first radio station, established 1919 from the Marconi Wireless experimental station XWA) [src_cfcf_1941].
+18. CFCF Radio Broadcast, June 26, 1941 — broadcast timing (8:50 PM Thursday) and announcer interview format [src_cfcf_1941].
+19. Concordia University Archives, YMCA of Montreal Fonds, sub-sub-series 12B04 (Communications) [src_concordia_atom_12B04].
+
+## Research Notes
+
+### Revision History
+
+- **2026-07-11**: Enhanced the Radio section (Workstream C3) — corrected "broadcast scripts" to "digitized audio," per source records explicitly noting Internet Archive audio uploads; added CFCF station history, the 1941 broadcast's exact air time, and the archival note that CFCF-Kanawana broadcasts are documented running 1936-1941, beyond the two surviving digitized recordings. Cross-linked to the new [[people/howie-langille|Howie Langille]] article. No facts, sources, or open questions dropped.
+
+<!-- RALPH process log (informal, not reader-facing). Considered spawning a standalone CFCF radio article per the Workstream C plan's C3 list, but the plan itself hedged this ("either its own short article or a section within Green Triangle's/here") and the material (9 KB facts) was already thin and already had a natural home in this article's existing Radio section, with fuller context already covered in wartime-kanawana.md and the new howie-langille.md -- a standalone article would have been a near-duplicate with little new value. Enhanced this section in place instead, per the same scope-discipline reasoning used for the quebec-camp-landscape.md satellite-hub decision earlier in Workstream B. -->
+
 
 ### R3 Verification Notes
 

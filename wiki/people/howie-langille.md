@@ -29,6 +29,7 @@ No director is documented at Kanawana between Langille's 1941 season and R.H. Ha
 - [[chronology/wartime-kanawana|Wartime Kanawana]]
 - [[people/rh-hanagan|R.H. Hanagan]]
 - [[context/section-names|Section Names and Age Groupings]]
+- [[documents/kanawana-in-media|Kanawana in Media and Culture]]
 
 ## Sources
 

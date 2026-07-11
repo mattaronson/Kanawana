@@ -9647,7 +9647,7 @@
       "fact_id": "f_0571",
       "claim": "Charles 'Smillie' Buckland attended Camp Kanawana from 1944 to 1951 and described being the 'first recipient of the coveted Green Triangle.' His memoir describes arriving by train from Montreal Central Station and bus up a gravel road to camp.",
       "sources": [
-        "src_web_readers_digest_buckland"
+        "src_readers_digest_buckland"
       ],
       "confidence": "stated",
       "category": "people",
@@ -18108,7 +18108,7 @@
       "claim": "The Green Triangle award at Camp Kanawana was given to campers who accomplished a series of feats. Charles Buckland was its first recipient circa 1944-1948. The Green Triangle was also the name of the camp newsletter (known issue: July 29, 1938, digitized on Internet Archive).",
       "sources": [
         "src_readers_digest_camp_shapes_lives",
-        "src_ia_green_triangle_1938"
+        "src_green_triangle_1938"
       ],
       "confidence": "stated",
       "category": "traditions",

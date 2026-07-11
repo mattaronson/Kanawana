@@ -6509,35 +6509,36 @@
         "f_1899"
       ],
       "sources_cited": [
-        "src_concordia_p0145_12a_finding_aid",
+        "src_booknode_jane_fox",
+        "src_cbc_mclean_fund",
+        "src_concordia_atom_12B04",
         "src_concordia_kanawana_documentary",
+        "src_concordia_p0145_12a_finding_aid",
         "src_concordia_reeves_film",
         "src_goodreads_jane_fox_me",
-        "src_booknode_jane_fox",
         "src_ia_cfcf_1939",
         "src_ia_cfcf_1941",
+        "src_mcmaster_mclean_fonds",
+        "src_mcmorris_thesis",
+        "src_newspapers_gazette_1913",
         "src_postmedia_nature_deficit_2026",
         "src_samaritanmag_mclean",
-        "src_cbc_mclean_fund",
-        "src_samaritanmag_mclean",
-        "src_newspapers_gazette_1913",
-        "src_mcmorris_thesis",
         "src_youtube_kanawana",
-        "src_mcmaster_mclean_fonds",
         "src_youtube_kanawana_1960s_silent_film"
       ],
       "open_questions": 4,
       "cross_links": [
-        "stuart-mclean",
-        "notable-alumni",
-        "wartime-kanawana",
-        "sources-index",
         "centennial-1967",
+        "howie-langille",
+        "notable-alumni",
+        "sources-index",
+        "stuart-mclean",
+        "terry-mosher",
         "voyageur-canoe-pageant",
-        "terry-mosher"
+        "wartime-kanawana"
       ],
       "file_id": null,
-      "word_count": 1466,
+      "word_count": 1321,
       "tags": {
         "era": [
           "1960s",
@@ -6557,7 +6558,8 @@
           "people"
         ],
         "is_hub": false
-      }
+      },
+      "notes": "2026-07-11: Workstream C3 -- enhanced Radio section rather than spawning a duplicate CFCF article (plan hedge); fixed header sediment into Research Notes/Revision History; corrected \"scripts\" to \"digitized audio\"; added station history and cross-link to new howie-langille.md."
     },
     {
       "article_id": "camp-becsies",
@@ -7258,12 +7260,13 @@
       "open_questions": 3,
       "cross_links": [
         "directors-index",
-        "wartime-kanawana",
+        "kanawana-in-media",
         "rh-hanagan",
-        "section-names"
+        "section-names",
+        "wartime-kanawana"
       ],
       "file_id": null,
-      "word_count": 546,
+      "word_count": 433,
       "notes": "2026-07-11: Workstream C1 spawn. Synthesizes existing facts from directors-index.md and wartime-kanawana.md prior RESEARCH passes -- no new research conducted.",
       "tags": {
         "era": [
@@ -8093,6 +8096,152 @@
           "places",
           "traditions",
           "camping_movement"
+        ],
+        "is_hub": false
+      }
+    },
+    {
+      "article_id": "green-triangle",
+      "title": "The Green Triangle",
+      "wiki_folder": "documents",
+      "status": "draft",
+      "status_history": [
+        {
+          "status": "draft",
+          "at": "2026-07-11T00:00:00Z",
+          "by": "auto",
+          "task": "WRITE"
+        }
+      ],
+      "ralph_loops_completed": 1,
+      "kb_facts_used": [
+        "f_0119",
+        "f_0142",
+        "f_0143",
+        "f_0333",
+        "f_0374",
+        "f_0410",
+        "f_0531",
+        "f_0550",
+        "f_0565",
+        "f_0571",
+        "f_0821",
+        "f_0837",
+        "f_1097",
+        "f_1098",
+        "f_1196",
+        "f_1197",
+        "f_1429",
+        "f_1935",
+        "f_1966",
+        "f_1967",
+        "f_1968"
+      ],
+      "sources_cited": [
+        "src_concordia_fonds",
+        "src_history_1935",
+        "src_concordia_ymca_fonds_12B04_finding_aid",
+        "src_ia_green_triangle_collection",
+        "src_green_triangle_1938",
+        "src_green_triangle_1933_07_08",
+        "src_readers_digest_buckland",
+        "src_readers_digest_camp_shapes_lives",
+        "src_spirit_kanawana_blog"
+      ],
+      "open_questions": 3,
+      "cross_links": [
+        "traditions-and-culture",
+        "myths-and-legends",
+        "camp-songs-cheers",
+        "directors-index"
+      ],
+      "file_id": null,
+      "word_count": 773,
+      "notes": "2026-07-11: Workstream C3 spawn -- newsletter/award/symbol synthesized into standalone article, cited as a source in 13+ articles but never its own subject. No new research conducted. Corrected two dangling source_id references (src_web_readers_digest_buckland -> src_readers_digest_buckland; src_ia_green_triangle_1938 -> src_green_triangle_1938) in kb/facts.json while preparing this article.",
+      "tags": {
+        "era": [
+          "1930s",
+          "2000s"
+        ],
+        "region": "montreal",
+        "location_refs": [
+          "the-kanawana-site"
+        ],
+        "person_type": null,
+        "topics": [
+          "traditions",
+          "documents",
+          "media"
+        ],
+        "is_hub": false
+      }
+    },
+    {
+      "article_id": "cit-lit-program",
+      "title": "The CIT/LIT Program",
+      "wiki_folder": "programs",
+      "status": "draft",
+      "status_history": [
+        {
+          "status": "draft",
+          "at": "2026-07-11T00:00:00Z",
+          "by": "auto",
+          "task": "WRITE"
+        }
+      ],
+      "ralph_loops_completed": 1,
+      "kb_facts_used": [
+        "f_0174",
+        "f_0325",
+        "f_0624",
+        "f_1100",
+        "f_1199",
+        "f_1462",
+        "f_1498",
+        "f_1501",
+        "f_1544",
+        "f_1568",
+        "f_1612",
+        "f_1614",
+        "f_1615",
+        "f_1654",
+        "f_1796"
+      ],
+      "sources_cited": [
+        "src_kanawana_facts",
+        "src_oral_aronson",
+        "src_flickr_kanawana_plaque_album",
+        "src_ymcaq_trailblazers_2026",
+        "src_ymcaq_lit_guide_2026",
+        "src_leigh_evans_blog"
+      ],
+      "open_questions": 3,
+      "cross_links": [
+        "directors-index",
+        "a-ross-seaman",
+        "lv-games",
+        "canoe-trips",
+        "notable-alumni"
+      ],
+      "file_id": null,
+      "word_count": 573,
+      "notes": "2026-07-11: Workstream C3 spawn -- structured, decades-spanning program synthesized from 5 scattered articles into a standalone article. No new research conducted. Individual plaque-roster names deliberately not reproduced here (privacy carve-out for C5-listed names already collectively catalogued in directors-index.md).",
+      "tags": {
+        "era": [
+          "1960s",
+          "1980s",
+          "1990s",
+          "2020s"
+        ],
+        "region": "montreal",
+        "location_refs": [
+          "the-kanawana-site"
+        ],
+        "person_type": null,
+        "topics": [
+          "programs",
+          "staff",
+          "traditions"
         ],
         "is_hub": false
       }
