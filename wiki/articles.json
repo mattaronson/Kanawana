@@ -1563,10 +1563,11 @@
         "rh-hanagan",
         "a-ross-seaman",
         "hedley-dimock",
-        "timeline-overview"
+        "timeline-overview",
+        "nelson-mcewen"
       ],
       "file_id": null,
-      "word_count": 12039,
+      "word_count": 12042,
       "notes": "v4.75: Peter Goddard confirmed (Peter Gilling Goddard 1953-2016, obituary condolence). Nelson McEwen tenure extended c.1927-1947. Derek Walsh exhausted. Gap periods updated. | 2026-07-07: applied operator's standing conflict-resolution policy (documented sources take precedence over oral history) to resolve c_004, c_015, c_016, c_017 -- Gary White's Kanawana tenure narrowed to FY2001-2002, Sean Day's start corrected to 2008, Nicolas Garcia's spelling/end-date corrected to March 2014, Rossy Foundation corrected to Tyndale St-Georges. | 2026-07-11: Workstream A Wave 1 prose-sediment REVIEW pass -- standardized header, moved dated correction narrative from table cells into a new visible Revision History section, corrected open_questions count (was stale at 7, actual count is and remains 14). No facts, citations, or open questions dropped; status unchanged.",
       "tags": {
         "era": [
@@ -7129,6 +7130,77 @@
           "directors"
         ],
         "is_hub": true
+      }
+    },
+    {
+      "article_id": "nelson-mcewen",
+      "title": "Nelson McEwen",
+      "wiki_folder": "people",
+      "status": "draft",
+      "status_history": [
+        {
+          "status": "draft",
+          "at": "2026-07-11T00:00:00Z",
+          "by": "auto",
+          "task": "WRITE"
+        }
+      ],
+      "ralph_loops_completed": 1,
+      "kb_facts_used": [
+        "f_0040",
+        "f_0041",
+        "f_0405",
+        "f_0697",
+        "f_1336",
+        "f_1359",
+        "f_1360",
+        "f_1361",
+        "f_1362",
+        "f_1381",
+        "f_1382",
+        "f_1383",
+        "f_1384",
+        "f_1385",
+        "f_1386",
+        "f_1387",
+        "f_1388",
+        "f_1389"
+      ],
+      "sources_cited": [
+        "src_camp_stephens_alumni_blog",
+        "src_concordia_fonds_14D",
+        "src_mcmorris_thesis",
+        "src_concordia_14D10",
+        "src_cca_history",
+        "src_concordia_ymca_fonds_12B01"
+      ],
+      "open_questions": 5,
+      "cross_links": [
+        "directors-index",
+        "canadian-camping-movement",
+        "taylor-statten",
+        "camp-perrot"
+      ],
+      "file_id": null,
+      "word_count": 1104,
+      "notes": "2026-07-11: Workstream C1 spawn. Synthesizes an already-completed formal RALPH campaign (documented in directors-index.md's R8/R9 research notes, 2026-06-22) into a standalone article -- no new research conducted. Single-source reliance on the Camp Stephens Alumni blog for most biographical detail is preserved as an explicit limitation.",
+      "tags": {
+        "era": [
+          "1900s",
+          "1920s",
+          "1930s",
+          "1940s",
+          "1950s"
+        ],
+        "region": "canada-other",
+        "location_refs": [],
+        "person_type": "director",
+        "topics": [
+          "directors",
+          "people",
+          "ymca_canada"
+        ],
+        "is_hub": false
       }
     }
   ]
