@@ -77,7 +77,7 @@ The **Kamp Kanawana Marching Song** — also known simply as the **Kanawana Chee
 
 ### Origins and History
 
-The Marching Song is **not original to Kanawana**. Research by Matt Aronson (Spirit of Kanawana blog) traced the refrain "Hail, hail, the gang's all here" to the 1915 American popular song **"Alabama Jubilee"** (music by George L. Cobb, words by Jack Yellen, published under the pseudonym D. A. Esrom / Dolly Morse).^7 ^8 The melody itself derives from Arthur Sullivan's tune for the comic opera *The Pirates of Penzance*. The same refrain became the "fight song" of Glasgow Celtic football supporters.^7
+The Marching Song is **not original to Kanawana**. Research by [[people/matt-aronson|Matt Aronson]] (Spirit of Kanawana blog) traced the refrain "Hail, hail, the gang's all here" to the 1915 American popular song **"Alabama Jubilee"** (music by George L. Cobb, words by Jack Yellen, published under the pseudonym D. A. Esrom / Dolly Morse).^7 ^8 The melody itself derives from Arthur Sullivan's tune for the comic opera *The Pirates of Penzance*. The same refrain became the "fight song" of Glasgow Celtic football supporters.^7
 
 The document in which the lost verses were rediscovered was **undated**, making it difficult to identify the author who adapted the song for Kanawana. Aronson proposed a theory connecting the adaptation to the tradition of the Green Triangle camp newspaper.^7
 
@@ -186,6 +186,8 @@ The Color War tradition (known at Kanawana as the L&V Games) typically includes 
 - [[programs/pip-alumni-award|The Pip Alumni Award]]
 - [[programs/lv-games|The L&V Games]]
 - [[places/council-ring|The Council Ring]]
+- [[people/matt-aronson|Matt Aronson]]
+- [[documents/green-triangle|The Green Triangle]]
 
 ## Sources
 

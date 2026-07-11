@@ -1552,19 +1552,27 @@
       "open_questions": 14,
       "cross_links": [
         "a-ross-seaman",
+        "arleen-boyer",
         "billy-ball",
         "bruce-netherwood",
         "cushing-family",
         "da-budge",
+        "dan-aronson",
         "david-leduc",
         "founding-1894",
+        "francois-dauphin",
         "gary-white",
+        "greig-macdiarmid",
         "harold-cross",
         "hedley-dimock",
         "howie-langille",
+        "justin-caldwell",
         "kate-taylor",
         "marie-pierre-lacasse",
+        "matt-aronson",
+        "morgan-carter",
         "nelson-mcewen",
+        "nicolas-garcia",
         "pip-alumni-award",
         "ralph-dawson",
         "rh-hanagan",
@@ -1577,7 +1585,7 @@
       ],
       "file_id": null,
       "word_count": 12042,
-      "notes": "v4.75: Peter Goddard confirmed (Peter Gilling Goddard 1953-2016, obituary condolence). Nelson McEwen tenure extended c.1927-1947. Derek Walsh exhausted. Gap periods updated. | 2026-07-07: applied operator's standing conflict-resolution policy (documented sources take precedence over oral history) to resolve c_004, c_015, c_016, c_017 -- Gary White's Kanawana tenure narrowed to FY2001-2002, Sean Day's start corrected to 2008, Nicolas Garcia's spelling/end-date corrected to March 2014, Rossy Foundation corrected to Tyndale St-Georges. | 2026-07-11: Workstream A Wave 1 prose-sediment REVIEW pass -- standardized header, moved dated correction narrative from table cells into a new visible Revision History section, corrected open_questions count (was stale at 7, actual count is and remains 14). No facts, citations, or open questions dropped; status unchanged. | 2026-07-11: Added wiki-links to Howie Langille and Ross Bannerman table rows and Related Articles, pointing to their new standalone Workstream C1 articles. | 2026-07-11: Added wiki-links to Bruce Netherwood (Camp Directors table, Pip Award table, Related Articles) pointing to the new standalone article. | 2026-07-11: Added wiki-links to Gary White, David Leduc, Kate Taylor, Marie-Pierre Lacasse table rows and Related Articles, pointing to new standalone institutional-role-director articles.",
+      "notes": "v4.75: Peter Goddard confirmed (Peter Gilling Goddard 1953-2016, obituary condolence). Nelson McEwen tenure extended c.1927-1947. Derek Walsh exhausted. Gap periods updated. | 2026-07-07: applied operator's standing conflict-resolution policy (documented sources take precedence over oral history) to resolve c_004, c_015, c_016, c_017 -- Gary White's Kanawana tenure narrowed to FY2001-2002, Sean Day's start corrected to 2008, Nicolas Garcia's spelling/end-date corrected to March 2014, Rossy Foundation corrected to Tyndale St-Georges. | 2026-07-11: Workstream A Wave 1 prose-sediment REVIEW pass -- standardized header, moved dated correction narrative from table cells into a new visible Revision History section, corrected open_questions count (was stale at 7, actual count is and remains 14). No facts, citations, or open questions dropped; status unchanged. | 2026-07-11: Added wiki-links to Howie Langille and Ross Bannerman table rows and Related Articles, pointing to their new standalone Workstream C1 articles. | 2026-07-11: Added wiki-links to Bruce Netherwood (Camp Directors table, Pip Award table, Related Articles) pointing to the new standalone article. | 2026-07-11: Added wiki-links to Gary White, David Leduc, Kate Taylor, Marie-Pierre Lacasse table rows and Related Articles, pointing to new standalone institutional-role-director articles. | 2026-07-11: Added wiki-links to Greig Macdiarmid, Francois Dauphin, Nicolas Garcia, Morgan Carter, Arleen Boyer, Justin Caldwell (Two-Tier Era + Staff by Era tables) and Matt/Dan Aronson (Related Articles), per the operator's revised C5 policy.",
       "tags": {
         "era": [
           "1880s",
@@ -3761,6 +3769,7 @@
         "council-ring",
         "founding-1894",
         "lake-wilson",
+        "matt-aronson",
         "rl-charlton",
         "the-kanawana-site",
         "traditions-and-culture"
@@ -3911,11 +3920,13 @@
       ],
       "open_questions": 9,
       "cross_links": [
-        "traditions-and-culture",
+        "council-ring",
+        "green-triangle",
+        "lv-games",
+        "matt-aronson",
         "myths-and-legends",
         "pip-alumni-award",
-        "lv-games",
-        "council-ring"
+        "traditions-and-culture"
       ],
       "file_id": null,
       "word_count": 3094,
@@ -5617,10 +5628,10 @@
       "open_questions": 5,
       "cross_links": [
         "directors-index",
-        "stuart-mclean",
+        "matt-aronson",
         "pip-alumni-award",
         "programs-activities",
-        "programs-activities"
+        "stuart-mclean"
       ],
       "file_id": null,
       "word_count": 1848,
@@ -8154,10 +8165,11 @@
       ],
       "open_questions": 3,
       "cross_links": [
-        "traditions-and-culture",
-        "myths-and-legends",
         "camp-songs-cheers",
-        "directors-index"
+        "directors-index",
+        "matt-aronson",
+        "myths-and-legends",
+        "traditions-and-culture"
       ],
       "file_id": null,
       "word_count": 773,
@@ -8489,6 +8501,434 @@
           "directors",
           "environment",
           "coeducation"
+        ],
+        "is_hub": false
+      }
+    },
+    {
+      "article_id": "matt-aronson",
+      "title": "Matt Aronson",
+      "wiki_folder": "people",
+      "status": "draft",
+      "status_history": [
+        {
+          "status": "draft",
+          "at": "2026-07-11T00:00:00Z",
+          "by": "auto",
+          "task": "WRITE"
+        }
+      ],
+      "ralph_loops_completed": 1,
+      "kb_facts_used": [
+        "f_0173",
+        "f_0174",
+        "f_0175",
+        "f_0176",
+        "f_0177",
+        "f_0178",
+        "f_0564",
+        "f_0565",
+        "f_1188",
+        "f_1194",
+        "f_1209",
+        "f_1210",
+        "f_1568",
+        "f_1763"
+      ],
+      "sources_cited": [
+        "src_oral_aronson",
+        "src_flickr_kanawana_plaque_album",
+        "src_ymcaquebec_annualreport_2009",
+        "src_spirit_kanawana_blog"
+      ],
+      "open_questions": 2,
+      "cross_links": [
+        "sean-day",
+        "myths-and-legends",
+        "green-triangle",
+        "camp-songs-cheers",
+        "directors-index"
+      ],
+      "file_id": null,
+      "word_count": 601,
+      "notes": "2026-07-11: Spawned per operator's direct authorization revising the C5 privacy policy (see plan file Status Update). Subject is also this KB's own primary oral-history source -- a novel situation flagged transparently in Research Notes. Per operator's explicit instruction, personal/family detail from f_0566 (wife, daughters, neighborhood) deliberately excluded even though he published it himself; article covers camp history and public/professional role only. No new research conducted.",
+      "tags": {
+        "era": [
+          "1980s",
+          "1990s",
+          "2000s"
+        ],
+        "region": "montreal",
+        "location_refs": [
+          "the-kanawana-site"
+        ],
+        "person_type": "alumnus",
+        "topics": [
+          "people",
+          "traditions",
+          "staff"
+        ],
+        "is_hub": false
+      }
+    },
+    {
+      "article_id": "dan-aronson",
+      "title": "Dan Aronson",
+      "wiki_folder": "people",
+      "status": "stub",
+      "status_history": [
+        {
+          "status": "stub",
+          "at": "2026-07-11T00:00:00Z",
+          "by": "auto",
+          "task": "WRITE"
+        }
+      ],
+      "ralph_loops_completed": 1,
+      "kb_facts_used": [
+        "f_1614",
+        "f_1707"
+      ],
+      "sources_cited": [
+        "src_flickr_kanawana_plaque_album"
+      ],
+      "open_questions": 2,
+      "cross_links": [
+        "matt-aronson",
+        "directors-index"
+      ],
+      "file_id": null,
+      "word_count": 205,
+      "notes": "2026-07-11: Spawned per operator's direct authorization revising the C5 privacy policy. Only 2 bare plaque-transcription facts exist; per operator's explicit choice, no invented tenure/roles/biography beyond what the plaques show. No new research conducted.",
+      "tags": {
+        "era": [
+          "1990s",
+          "2000s"
+        ],
+        "region": "montreal",
+        "location_refs": [
+          "the-kanawana-site"
+        ],
+        "person_type": "staff",
+        "topics": [
+          "people",
+          "staff"
+        ],
+        "is_hub": false
+      }
+    },
+    {
+      "article_id": "greig-macdiarmid",
+      "title": "Greig Macdiarmid",
+      "wiki_folder": "people",
+      "status": "draft",
+      "status_history": [
+        {
+          "status": "draft",
+          "at": "2026-07-11T00:00:00Z",
+          "by": "auto",
+          "task": "WRITE"
+        }
+      ],
+      "ralph_loops_completed": 1,
+      "kb_facts_used": [
+        "f_0042",
+        "f_0077",
+        "f_0083",
+        "f_0670",
+        "f_0716",
+        "f_1841"
+      ],
+      "sources_cited": [
+        "src_history_1935",
+        "src_green_triangle_1938",
+        "src_ia_ymca_annual_1937",
+        "src_mcmorris_thesis"
+      ],
+      "open_questions": 2,
+      "cross_links": [
+        "directors-index",
+        "howie-langille",
+        "interwar-era",
+        "camp-becsies"
+      ],
+      "file_id": null,
+      "word_count": 380,
+      "notes": "2026-07-11: Spawned per operator's revised C5 policy -- mis-categorized originally, since he's a substantially-documented 1935-1938 Camp Chief, not a plaque-only name. No new research conducted.",
+      "tags": {
+        "era": [
+          "1930s"
+        ],
+        "region": "montreal",
+        "location_refs": [
+          "the-kanawana-site"
+        ],
+        "person_type": "director",
+        "topics": [
+          "directors",
+          "staff"
+        ],
+        "is_hub": false
+      }
+    },
+    {
+      "article_id": "francois-dauphin",
+      "title": "François Dauphin",
+      "wiki_folder": "people",
+      "status": "stub",
+      "status_history": [
+        {
+          "status": "stub",
+          "at": "2026-07-11T00:00:00Z",
+          "by": "auto",
+          "task": "WRITE"
+        }
+      ],
+      "ralph_loops_completed": 1,
+      "kb_facts_used": [
+        "f_1759",
+        "f_1762"
+      ],
+      "sources_cited": [
+        "src_ymcaquebec_annualreport_2007",
+        "src_ymcaquebec_annualreport_2008"
+      ],
+      "open_questions": 2,
+      "cross_links": [
+        "directors-index",
+        "sean-day",
+        "modern-era"
+      ],
+      "file_id": null,
+      "word_count": 261,
+      "notes": "2026-07-11: Spawned per operator's revised C5 policy. Genuinely thin -- single-year annual-report title only. No new research conducted.",
+      "tags": {
+        "era": [
+          "2000s"
+        ],
+        "region": "montreal",
+        "location_refs": [
+          "the-kanawana-site"
+        ],
+        "person_type": "director",
+        "topics": [
+          "directors",
+          "staff"
+        ],
+        "is_hub": false
+      }
+    },
+    {
+      "article_id": "nicolas-garcia",
+      "title": "Nicolas Garcia",
+      "wiki_folder": "people",
+      "status": "draft",
+      "status_history": [
+        {
+          "status": "draft",
+          "at": "2026-07-11T00:00:00Z",
+          "by": "auto",
+          "task": "WRITE"
+        }
+      ],
+      "ralph_loops_completed": 1,
+      "kb_facts_used": [
+        "f_1734",
+        "f_1752",
+        "f_1753"
+      ],
+      "sources_cited": [
+        "src_wayback_ymcakanawana_parentguide_2009",
+        "src_wayback_ymcakanawana_contactpage_2010_2014",
+        "src_oral_aronson"
+      ],
+      "open_questions": 2,
+      "cross_links": [
+        "directors-index",
+        "sean-day",
+        "modern-era"
+      ],
+      "file_id": null,
+      "word_count": 341,
+      "notes": "2026-07-11: Spawned per operator's revised C5 policy. No new research conducted.",
+      "tags": {
+        "era": [
+          "2000s",
+          "2010s"
+        ],
+        "region": "montreal",
+        "location_refs": [
+          "the-kanawana-site"
+        ],
+        "person_type": "director",
+        "topics": [
+          "directors",
+          "staff"
+        ],
+        "is_hub": false
+      }
+    },
+    {
+      "article_id": "morgan-carter",
+      "title": "Morgan Carter",
+      "wiki_folder": "people",
+      "status": "draft",
+      "status_history": [
+        {
+          "status": "draft",
+          "at": "2026-07-11T00:00:00Z",
+          "by": "auto",
+          "task": "WRITE"
+        }
+      ],
+      "ralph_loops_completed": 1,
+      "kb_facts_used": [
+        "f_1214",
+        "f_1732",
+        "f_1733",
+        "f_1750",
+        "f_1764",
+        "f_1765"
+      ],
+      "sources_cited": [
+        "src_oral_aronson",
+        "src_wayback_ymcamontreal_annualreport_2002_2003",
+        "src_ymcaquebec_annualreport_2011"
+      ],
+      "open_questions": 2,
+      "cross_links": [
+        "directors-index",
+        "david-leduc",
+        "gary-white",
+        "modern-era"
+      ],
+      "file_id": null,
+      "word_count": 304,
+      "notes": "2026-07-11: Spawned per operator's revised C5 policy. No new research conducted.",
+      "tags": {
+        "era": [
+          "2000s",
+          "2010s"
+        ],
+        "region": "montreal",
+        "location_refs": [
+          "the-kanawana-site"
+        ],
+        "person_type": "director",
+        "topics": [
+          "directors",
+          "staff"
+        ],
+        "is_hub": false
+      }
+    },
+    {
+      "article_id": "arleen-boyer",
+      "title": "Arleen Boyer",
+      "wiki_folder": "people",
+      "status": "draft",
+      "status_history": [
+        {
+          "status": "draft",
+          "at": "2026-07-11T00:00:00Z",
+          "by": "auto",
+          "task": "WRITE"
+        }
+      ],
+      "ralph_loops_completed": 1,
+      "kb_facts_used": [
+        "f_1729",
+        "f_1730",
+        "f_1731",
+        "f_1751",
+        "f_1758",
+        "f_1827"
+      ],
+      "sources_cited": [
+        "src_oral_aronson",
+        "src_wayback_ymcamontreal_annualreport_2003_2004"
+      ],
+      "open_questions": 2,
+      "cross_links": [
+        "directors-index",
+        "joanna-hoad",
+        "gary-white",
+        "modern-era"
+      ],
+      "file_id": null,
+      "word_count": 339,
+      "notes": "2026-07-11: Spawned per operator's revised C5 policy. No new research conducted.",
+      "tags": {
+        "era": [
+          "1990s",
+          "2000s"
+        ],
+        "region": "montreal",
+        "location_refs": [
+          "the-kanawana-site"
+        ],
+        "person_type": "director",
+        "topics": [
+          "directors",
+          "staff"
+        ],
+        "is_hub": false
+      }
+    },
+    {
+      "article_id": "justin-caldwell",
+      "title": "Justin Caldwell",
+      "wiki_folder": "people",
+      "status": "draft",
+      "status_history": [
+        {
+          "status": "draft",
+          "at": "2026-07-11T00:00:00Z",
+          "by": "auto",
+          "task": "WRITE"
+        }
+      ],
+      "ralph_loops_completed": 1,
+      "kb_facts_used": [
+        "f_1555",
+        "f_1739",
+        "f_1741",
+        "f_1742",
+        "f_1744",
+        "f_1805"
+      ],
+      "sources_cited": [
+        "src_ymca_kanawana_team_2025",
+        "src_fb_kanawana_tripper_caldwell_2018",
+        "src_fb_kanawana",
+        "src_zoominfo_justin_caldwell",
+        "src_oral_aronson",
+        "src_kk_prep_guide_2025"
+      ],
+      "open_questions": 1,
+      "cross_links": [
+        "directors-index",
+        "marie-pierre-lacasse",
+        "kate-taylor",
+        "modern-era"
+      ],
+      "file_id": null,
+      "word_count": 322,
+      "notes": "2026-07-11: Spawned per operator's revised C5 policy. No new research conducted.",
+      "tags": {
+        "era": [
+          "2000s",
+          "2010s",
+          "2020s"
+        ],
+        "region": "montreal",
+        "location_refs": [
+          "the-kanawana-site"
+        ],
+        "person_type": "director",
+        "topics": [
+          "directors",
+          "staff"
         ],
         "is_hub": false
       }

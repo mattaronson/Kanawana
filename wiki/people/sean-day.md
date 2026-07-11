@@ -9,7 +9,7 @@ Sean Day served as Director of Camp YMCA Kanawana and Regional Director of Camps
 
 ## Early Connection to Kanawana
 
-Day grew up at Camp Kanawana, as he stated in a 2017 CBC interview: "Having lived with him for that week up at camp and having myself grown up at the camp and having lived the impact myself, I guess for Stuart it was just a natural thing."^3 He was Matt Aronson's counsellor during the latter's camper years.^1 Day attended Concordia University, though his specific degree and graduation year are not publicly documented.^7
+Day grew up at Camp Kanawana, as he stated in a 2017 CBC interview: "Having lived with him for that week up at camp and having myself grown up at the camp and having lived the impact myself, I guess for Stuart it was just a natural thing."^3 He was [[people/matt-aronson|Matt Aronson]]'s counsellor during the latter's camper years.^1 Day attended Concordia University, though his specific degree and graduation year are not publicly documented.^7
 
 ## Directorship (2005–2023; start date resolved editorially — see below)
 
@@ -65,6 +65,7 @@ Day became Director of Fund Development at **Tyndale St-Georges Community Centre
 
 - [[people/directors-index|Directors and Staff of Camp Kanawana]]
 - [[people/stuart-mclean|Stuart McLean]]
+- [[people/matt-aronson|Matt Aronson]]
 - [[programs/programs-activities|Programs and Activities at Kanawana]]
 - [[programs/pip-alumni-award|The Pip Alumni Award]]
 

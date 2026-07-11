@@ -25,7 +25,7 @@ Separately from the newsletter, "the Green Triangle" was also a coveted camper a
 
 ## Symbolic Identity
 
-Beyond the publication and the award, "Green Triangle" functioned more broadly as a symbolic identity marker for the camp. It appears in the coda of the Kanawana marching cheer as performed in the 2000s ("What's the matter with the Green Triangle?"), and the camp historian Matt Aronson has theorized — without yet elaborating publicly — that the Kanawana Marching Song itself arrived via "the tradition of Green Triangle."^9
+Beyond the publication and the award, "Green Triangle" functioned more broadly as a symbolic identity marker for the camp. It appears in the coda of the Kanawana marching cheer as performed in the 2000s ("What's the matter with the Green Triangle?"), and the camp historian [[people/matt-aronson|Matt Aronson]] has theorized — without yet elaborating publicly — that the Kanawana Marching Song itself arrived via "the tradition of Green Triangle."^9
 
 ## Open Questions
 
@@ -39,6 +39,7 @@ Beyond the publication and the award, "Green Triangle" functioned more broadly a
 - [[context/myths-and-legends|Myths and Legends of Camp Kanawana]]
 - [[programs/camp-songs-cheers|Camp Songs and Cheers]]
 - [[people/directors-index|Directors and Staff of Camp Kanawana]]
+- [[people/matt-aronson|Matt Aronson]]
 
 ## Sources
 
