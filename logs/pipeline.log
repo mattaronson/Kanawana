@@ -2332,3 +2332,8 @@ HYPOTHESIZE — Remaining productive research requires:
   - centennial-1967.md: removed the old-style HTML-comment header, replaced with the standardized header.
   - centennial-1994.md: removed a duplicate old-style HTML-comment header; softened two dated bold-label markers in prose ("Resolved 2026-07-09", "Important disambiguation (2026-07-09)") into plain encyclopedic prose since they weren't corrections requiring a Revision History move, just informative content with unnecessary date-stamping.
   - No facts, sources, citations, or open questions dropped on either article. Status unchanged (E1-reviewed) on both. wiki/articles.json updated.
+
+[2026-07-11] Campaign 58 (Workstream A, Wave 2, articles 26-27): camp-becsies.md and sources-index.md
+  - camp-becsies.md: removed a duplicate old-style HTML-comment header, softened a dated bold-label marker in prose.
+  - sources-index.md (meta): removed the old-style HTML-comment header, applied the standardized header using the project's current total-sources count (643) since this meta article is itself a sources catalog rather than a cited-source article.
+  - No facts, sources, citations, or open questions dropped on either article. Status unchanged (E1-reviewed) on both. wiki/articles.json updated.

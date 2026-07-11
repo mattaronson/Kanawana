@@ -1,9 +1,7 @@
 # Sources and Archives
 
-<!-- status: E1-reviewed -->
-<!-- confidence: high -->
-<!-- last_updated: 2026-07-10 (Batch 7 research pass: found a superior master finding-aid PDF tool; mapped sub-series 12M/12N in detail; surfaced several previously uncatalogued Kanawana AV items; corrected the "12G | Camp Perrot" table row, which does not actually exist as a described sub-series; BAnQ's access block re-characterized as a Radware bot gate; KB/Source Statistics refreshed to current totals) -->
-<!-- last_editor: v68 -->
+*Status: E1-reviewed | Sources: 643 (this article catalogs the project's sources; see Source Statistics, below)*
+*Last Updated: 2026-07-10*
 
 ## Summary
 

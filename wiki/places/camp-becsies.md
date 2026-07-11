@@ -1,11 +1,5 @@
 # Camp Becsies
 
-<!-- status: E1-reviewed -->
-<!-- confidence: medium -->
-<!-- last_updated: 2026-07-09 (open-questions research pass: YMCA of Montreal's own annual reports 1930-1937 resolve Becsies' origin as a Kanawana annex, extend the Protestant Orphans' Home loan to four consecutive seasons, name two corroborating Kanawana directors, and confirm a comprehensive 21-year null result 1938-1962; property-divestment and photograph-content questions confirmed as genuine dead ends for online sources) -->
-<!-- last_editor: session4, v68 -->
-<!-- ralph_loops: camp-becsies-R1, camp-becsies-R2, camp-becsies-V1, camp-becsies-E1, camp-becsies-R3-annual-reports-2026-07-09 -->
-
 *Status: E1-reviewed | Sources: 10*
 *Last Updated: 2026-07-09*
 
@@ -25,7 +19,7 @@ A limerick in the *Green Triangle* (July 29, 1938) mentions a staff member Walla
 
 The earliest records for Camp Becsies date to 1929, documenting the development of the camping site.^2 A memo regarding "the future of Camp Becsies" survives from the 1930s, suggesting the camp's viability was questioned at some point.^3
 
-**Resolved 2026-07-09** (primary source: the YMCA of Montreal's own digitized Annual Reports, 1930-1937): Camp Becsies began life explicitly as Kanawana's own overflow/annex site, not an independently run camp. The 1930 Annual Report (covering the 1929 season) describes the new equipment at "Lac Becscies" -- a wharf, a new dining pavilion, four new tent floors, a well -- as intended so "this camp will form a valuable annex to the main camp for 'peak' periods and also for overnight and short term out-trips."^8 That same season, $2,258 in capital expenditure went toward "the Becscies extension and the new craft shop" (a combined figure), and a group of Westmount Branch businessmen separately underwrote twelve Protestant Orphans' Home boys as regular Kanawana campers -- a distinct sponsorship channel from the equipment-loan arrangement that followed.^8
+Per the YMCA of Montreal's own digitized Annual Reports (1930-1937), Camp Becsies began life explicitly as Kanawana's own overflow/annex site, not an independently run camp. The 1930 Annual Report (covering the 1929 season) describes the new equipment at "Lac Becscies" -- a wharf, a new dining pavilion, four new tent floors, a well -- as intended so "this camp will form a valuable annex to the main camp for 'peak' periods and also for overnight and short term out-trips."^8 That same season, $2,258 in capital expenditure went toward "the Becscies extension and the new craft shop" (a combined figure), and a group of Westmount Branch businessmen separately underwrote twelve Protestant Orphans' Home boys as regular Kanawana campers -- a distinct sponsorship channel from the equipment-loan arrangement that followed.^8
 
 The Protestant Orphans' Home equipment loan itself is now documented across **four consecutive seasons**, not just two: the 1934, 1935, 1936, and 1937 Annual Reports (covering the 1933, 1934, 1935, and 1936 seasons respectively) each record the Home being given free use of the Becscies equipment, with the final entry reading "again given, free of charge, the use of our property on Lake Bec-scies, for which their Board has expressed generous appreciation."^8 The 1934 report names **W.H. Spearman** as that season's Kanawana Camp Director; the 1937 report names **W.J.G. Macdiarmid** -- independently corroborating the director already documented in [[people/directors-index|Directors and Staff of Camp Kanawana]] (Greig/W.J.G. Macdiarmid, Camp Chief 1935-1938+).^8
 
