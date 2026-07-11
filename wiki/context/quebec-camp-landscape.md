@@ -27,7 +27,7 @@ This is also the wiki's answer to a question the folder structure alone doesn't 
 | Camp Massad Montreal | Montreal Va'ad Ha'ir | Regional peer (Jewish, Orthodox) | 1947– | Not confirmed in current sources | *(covered above, no standalone article)* |
 | Colonie de vacances Sainte-Jeanne-d'Arc | Independent (Catholic) | Regional peer (Catholic, girls) | 1926– | Not confirmed in current sources | *(covered above, no standalone article)* |
 | Big Cove YMCA Camp | YMCA (Nova Scotia) | National peer; Canada's oldest residential camp, 5 years older than Kanawana | 1889– | Not confirmed in current sources | *(covered above, no standalone article)* |
-| Camp Pine Crest | YMCA of Greater Toronto | Direct source of Kanawana's L&V Games tradition (adopted 1947) | 1910– | Not confirmed in current sources (Pine Crest Games described as an unbroken tradition since 1940) | *(covered above, no standalone article)* |
+| Camp Pine Crest | YMCA of Greater Toronto | Direct source of Kanawana's L&V Games tradition (adopted 1947) | 1910– | Not confirmed in current sources (Pine Crest Games described as an unbroken tradition since 1940) | [[places/camp-pine-crest\|Camp Pine Crest]] |
 | Camp Kitchikewana | YMCA (Simcoe/Muskoka) | National peer; listed alongside Kanawana in OCA "Y camps" records | 1919– | Active (over 105 years of continuous operation, per source) | *(covered above, no standalone article)* |
 | Camp Wanakita | YMCA Hamilton-Burlington-Brantford | National peer | 1953– | Not confirmed in current sources | *(covered above, no standalone article)* |
 | John Island Camp | YMCA of Northeastern Ontario | National peer | 1954– | Not confirmed in current sources | *(covered above, no standalone article)* |
@@ -89,7 +89,7 @@ The connection between these women's camps and Kanawana is more than geographic.
 Kanawana's institutional connections extend across Canada through the YMCA network. These camps shared programming traditions, staff training models, and in some cases direct influence on each other's development:
 
 - **Big Cove YMCA Camp** (1889, Merigomish, Nova Scotia): Canada's oldest residential camp, five years older than Kanawana.^12
-- **Camp Pine Crest** (1910, Muskoka, Ontario): Source of the Lumbermen-versus-Voyageurs tradition that Kanawana adopted in 1947 as its L&V Games.^13
+- **[[places/camp-pine-crest|Camp Pine Crest]]** (1910, Muskoka, Ontario): Source of the Lumbermen-versus-Voyageurs tradition that Kanawana adopted in 1947 as its L&V Games.^13
 - **Camp Kitchikewana** (1919, Beausoleil Island, Georgian Bay): Over 105 years of continuous operation. Listed alongside Kanawana in OCA "Y camps" records.^14
 - **Camp Wanakita** (1953, Koshlong Lake, Ontario): Named after a beach at Camp Kitchikewana. First season: 373 boys, 38 staff, $18,882 budget. YMCA Hamilton-Burlington-Brantford.^15
 - **John Island Camp** (1954, Lake Huron, Ontario): YMCA of Northeastern Ontario.^16

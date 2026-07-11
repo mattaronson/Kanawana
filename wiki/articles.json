@@ -508,16 +508,17 @@
       ],
       "open_questions": 5,
       "cross_links": [
+        "camp-pine-crest",
+        "canadian-camping-movement",
         "canoe-trips",
         "coeducation-gender",
         "pine-crest",
         "programs-activities",
-        "traditions-and-culture",
-        "canadian-camping-movement"
+        "traditions-and-culture"
       ],
       "file_id": "1EmzjwZxmQKJhFrNsbFGn1HbdseFBM9E7",
       "word_count": 1429,
-      "notes": "2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- fixed the malformed header (Status casing 'E1 Reviewed' -> 'E1-reviewed', Sources field was free-text descriptions instead of a count), moved the 'Correction, 2026-07-09' paragraph into a new Research Notes > Revision History section, folded the orphaned 'R3 Verification Notes' H3 (no parent heading) into Research Notes. No facts, citations, or open questions dropped; status unchanged.",
+      "notes": "2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- fixed the malformed header (Status casing 'E1 Reviewed' -> 'E1-reviewed', Sources field was free-text descriptions instead of a count), moved the 'Correction, 2026-07-09' paragraph into a new Research Notes > Revision History section, folded the orphaned 'R3 Verification Notes' H3 (no parent heading) into Research Notes. No facts, citations, or open questions dropped; status unchanged. | 2026-07-11: Added wiki-link to Camp Pine Crest (now a standalone article) in prose and Related Articles.",
       "tags": {
         "era": [
           "1910s",
@@ -6414,19 +6415,20 @@
       ],
       "open_questions": 6,
       "cross_links": [
-        "canadian-camping-movement",
+        "a-ross-seaman",
         "camp-oolahwan",
-        "camp-ouareau",
-        "camp-weredale",
-        "camp-perrot",
         "camp-otoreke",
+        "camp-ouareau",
+        "camp-perrot",
+        "camp-pine-crest",
+        "camp-weredale",
+        "canadian-camping-movement",
         "founding-1894",
-        "lv-games",
-        "a-ross-seaman"
+        "lv-games"
       ],
       "file_id": null,
       "word_count": 3056,
-      "notes": "2026-07-11: Workstream A Wave 1 prose-sediment REVIEW pass -- folded the former 'R3 Verification Notes'/'E1 Review Notes' H3 sub-headings into a proper '## Research Notes' section (HTML-comment process log), trimmed the header's dated parenthetical. This article's main body had no embedded prose sediment to begin with. No facts, citations, or open questions changed; status unchanged. | 2026-07-11 (Workstream B): added the \"Camps at a Glance\" summary table and an explanatory paragraph tying it to the places/-vs-context/ folder split, per the approved wiki-expansion plan -- this page now serves as the satellite/peer-camp hub. No new facts/sources; surfaced a new open question (#6, present-day status of several camps unconfirmed).",
+      "notes": "2026-07-11: Workstream A Wave 1 prose-sediment REVIEW pass -- folded the former 'R3 Verification Notes'/'E1 Review Notes' H3 sub-headings into a proper '## Research Notes' section (HTML-comment process log), trimmed the header's dated parenthetical. This article's main body had no embedded prose sediment to begin with. No facts, citations, or open questions changed; status unchanged. | 2026-07-11 (Workstream B): added the \"Camps at a Glance\" summary table and an explanatory paragraph tying it to the places/-vs-context/ folder split, per the approved wiki-expansion plan -- this page now serves as the satellite/peer-camp hub. No new facts/sources; surfaced a new open question (#6, present-day status of several camps unconfirmed). | 2026-07-11: Linked \"Camp Pine Crest\" table row and prose bullet to the new standalone places/camp-pine-crest.md article.",
       "tags": {
         "era": [
           "1910s",
@@ -8023,6 +8025,74 @@
           "directors",
           "staff",
           "people"
+        ],
+        "is_hub": false
+      }
+    },
+    {
+      "article_id": "camp-pine-crest",
+      "title": "Camp Pine Crest",
+      "wiki_folder": "places",
+      "status": "draft",
+      "status_history": [
+        {
+          "status": "draft",
+          "at": "2026-07-11T00:00:00Z",
+          "by": "auto",
+          "task": "WRITE"
+        }
+      ],
+      "ralph_loops_completed": 1,
+      "kb_facts_used": [
+        "f_0192",
+        "f_0332",
+        "f_0370",
+        "f_0371",
+        "f_0372",
+        "f_0373",
+        "f_0815",
+        "f_0826",
+        "f_1299",
+        "f_1300",
+        "f_1301",
+        "f_1304",
+        "f_1312",
+        "f_1885",
+        "f_1887",
+        "f_1934"
+      ],
+      "sources_cited": [
+        "src_ymca_gta_pine_crest",
+        "src_ymca_canada_history",
+        "src_ymcagta_pine_crest_games",
+        "src_pine_crest_encyclopedia",
+        "src_ymca_gta_blog_games",
+        "src_ymcagta_pinecrest_games",
+        "src_pine_crest_book",
+        "src_wikipedia_color_war"
+      ],
+      "open_questions": 2,
+      "cross_links": [
+        "lv-games",
+        "quebec-camp-landscape",
+        "canadian-camping-movement",
+        "traditions-and-culture"
+      ],
+      "file_id": null,
+      "word_count": 518,
+      "notes": "2026-07-11: Workstream C2 spawn -- the one genuine new-place candidate on the approved shortlist (Camp Stephens and Camp Dorval held/folded into the satellite hub per the plan). Synthesizes already-cited facts from lv-games.md and quebec-camp-landscape.md; no new research conducted.",
+      "tags": {
+        "era": [
+          "1900s",
+          "1940s"
+        ],
+        "region": "canada-other",
+        "location_refs": [],
+        "person_type": null,
+        "topics": [
+          "places",
+          "traditions",
+          "camping_movement"
         ],
         "is_hub": false
       }
