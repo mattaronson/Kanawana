@@ -1,7 +1,7 @@
 # The Pip Alumni Award
 
-*Status: E1-reviewed | Sources: src_ymca_pip_skinner, src_ymca_pip_mosher, src_ymca_pip_adam, src_ymca_pip_sharpe, src_ymca_pip_orbinski, src_oral_aronson, src_cmat_caddell_obituary, src_mcgill_news_caddell, src_wikipedia_richard_patten, src_wikipedia_john_cleghorn, src_atwater_caddell_bio, src_thepeerage_caddell, src_the_goal_caddell, src_cmat_caddell_memorial, src_rch_history, src_care_canada_newell, src_cgai_caddell, src_billiongraves_caddell, src_aca_dimock_award_recipients_2022_2026*
-*Last Updated: 2026-07-09 (open-questions research pass: explicitly debunked two candidate 2019-recipient identities, "Dr. Amy Ornstein" and "David Bryfman," neither connected to Kanawana; reconfirmed the 2019-2023 gap as genuinely exhausted after ~20 additional queries)*
+*Status: E1-reviewed | Sources: 19*
+*Last Updated: 2026-07-09*
 
 ## Overview
 

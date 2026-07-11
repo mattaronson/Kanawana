@@ -1,7 +1,7 @@
 # Programs and Activities at Kanawana
 
-*Status: E1-reviewed | Sources: src_brochure_1922, src_history_1935, src_mcmorris_thesis, src_kanawana_facts, src_ymca_website, src_concordia_12A, src_concordia_12B04, src_gas_bag_1923, src_cfcf_1941, src_brochure_1921, src_postmedia_nature_deficit_2026, src_banq_le_droit_1937_06_25, src_banq_westmount_examiner_1962_11_16, src_banq_le_soleil_1971_07_07, src_banq_sherbrooke_record_1972_07_21, src_banq_montreal_matin_1971_08_24, src_mcgill_escholarship_zinner, src_vss_journee_plein_air, src_indeed_companion_job, src_glassdoor_outdoor_ed_director, src_wikipedia_woodcraft_league, src_concordia_p0145_12b01_finding_aid, src_concordia_12B03, src_concordia_atom_12B07*
-*Last Updated: 2026-07-09 (open-questions research pass: resolved the "Kanawana Outing Club" as a distinct winter hiking/trail program; added winter-camping precedents and a 1969 year-round-use working paper; added "Companion" staff role, an unverified "Director, Outdoor Education Centre Kanawana" job title, and the "Journée plein air" municipal event)*
+*Status: E1-reviewed | Sources: 23*
+*Last Updated: 2026-07-09*
 
 ## Overview
 
@@ -145,17 +145,8 @@ An annual municipal event, "Journée plein air" (Outdoor Day), is hosted at Camp
 - [wl] Wikipedia, "Woodcraft League of America" [src_wikipedia_woodcraft_league].
 - [oc] Concordia University Archives, YMCA of Montreal fonds, sub-sub-series 12B01, 12B03, 12B04, 12B07 [src_concordia_p0145_12b01_finding_aid, src_concordia_12B03, src_concordia_atom_12B04, src_concordia_atom_12B07].
 
-## R3 Verification Notes
+## Research Notes
 
-R3 VERIFY pass (2026-02-19) corrected and expanded the R1 draft:
-- **"85 campers" removed**: R1 draft claimed 85 campers at the Saint-Sauveur site in 1910. No KB fact supports this figure. Replaced with 1918 enrollment data (f_0437: 110 members in one weekend) which is sourced.
-- **1918 activities added**: KB facts f_0437, f_0438, f_0440 provided specific programming details for 1918 (first aid, basket-making, wrestling, tumbling, nature study, Woodcraft League visit). These were absent from R1.
-- **Badge system added**: KB facts f_0304, f_0305, f_0314-f_0319 document the 1922 Woodcraft League charter, honour system with 32 subjects, and 1923 badge structure (42 badges, Large K, Small k, Triangle, KLS). Absent from R1.
-- **1925 canoe trips and camp councils added**: KB facts f_0236 (canoe trips introduced 1925, $3.50) and f_0207 ("Kickers and Knockers" camp councils 1925). Absent from R1.
-- **Section evolution expanded**: Added 1930 three-section structure (f_0214), early 1940s four-section structure (f_0215), 1938 weekly program (f_0140). R1 mentioned sections without chronological detail.
-- **Canoe trip development expanded**: Added 1950 trip frequency (f_0240), 1956 search for remote site (f_0241), 1959 La Vérendrye choice (f_0242, f_0243). R1 mentioned Voyageurs without pre-history.
-- **Rangers/DAFA added**: KB fact f_0465 documents the Rangers program (ages 15-16, DAFA certification). Absent from R1.
-- **Contemporary details added**: Technology-free policy (f_0380), pre-COVID enrollment ~900/year (f_0464), environmental education mission (f_0477), daily schedule structure (f_0379).
-- **McMorris first name**: Added "Grace" at first substantive mention.
-- **Source list expanded**: Added URLs for Internet Archive sources, separated 1921 and 1922 brochures, corrected Reeves film date (1993, VHS 1996).
-- **Open questions updated**: Resolved the 1920s extraction gap (now done). Added Woodcraft League evolution, 1980s programming gap, Pathfinder 1965 question.
+<!-- RALPH process log (informal, not reader-facing). -->
+<!-- R3 VERIFY pass (2026-02-19) corrected and expanded the R1 draft: removed an unsupported "85 campers" claim (replaced with sourced 1918 enrollment data, f_0437); added 1918 activities (f_0437, f_0438, f_0440), the 1922-1923 badge system (f_0304, f_0305, f_0314-f_0319), 1925 canoe trips and camp councils (f_0236, f_0207), section-structure evolution (f_0214, f_0215, f_0140), canoe-trip development history (f_0240-f_0243), the Rangers/DAFA program (f_0465), and contemporary details (technology-free policy f_0380, pre-COVID enrollment f_0464, environmental mission f_0477, daily schedule f_0379); expanded source list with URLs; resolved the 1920s extraction gap in Open Questions. -->
+

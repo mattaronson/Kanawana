@@ -2304,3 +2304,8 @@ HYPOTHESIZE — Remaining productive research requires:
   - lv-games.md: fixed a malformed header (wrong Status casing "E1 Reviewed", Sources field was free-text descriptions rather than a count), moved the "Correction, 2026-07-09" paragraph into a new Research Notes > Revision History section, folded the orphaned "R3 Verification Notes" H3 (no parent heading) into Research Notes.
   - No facts, sources, citations, or open questions dropped on either article. Status unchanged (E1-reviewed) on both. wiki/articles.json updated.
   - This completes the original 13-article sediment-marker list identified beyond Wave 1 (founding-1894, camp-ouareau, coeducation-gender, environmental-history, myths-and-legends, cushing-family, dave-twynam, j-w-mcconnell, sean-day, taylor-statten, camp-otoreke, camp-songs-cheers, lv-games). Remaining Wave 2 work: ~18 articles flagged only for the malformed-Sources-header / old-style-header / missing-header problem, with no embedded correction sediment (mostly single-header-line fixes).
+
+[2026-07-11] Campaign 52 (Workstream A, Wave 2, articles 14-15, header-only fixes): pip-alumni-award.md and programs-activities.md
+  - pip-alumni-award.md: fixed the malformed Sources header only; body prose was already clean.
+  - programs-activities.md: fixed the malformed Sources header; renamed the orphaned "R3 Verification Notes" H2 to the standard "Research Notes" heading and condensed its bullet list into a single HTML-comment process-log entry.
+  - No facts, sources, citations, or open questions dropped on either article. Status unchanged (E1-reviewed) on both. wiki/articles.json updated.
