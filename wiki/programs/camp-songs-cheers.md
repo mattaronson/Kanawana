@@ -1,7 +1,7 @@
 # Camp Songs, Cheers, and Musical Traditions
 
-*Status: E1-reviewed | Sources: src_gas_bag_1923, src_brochure_1922, src_brochure_1921, src_history_1935, src_green_triangle_1938, src_concordia_fonds, src_concordia_atom_12B04, src_concordia_atom_12B07, src_oral_aronson, src_spirit_kanawana_blog, src_aca_camp_songs_history, src_wikipedia_alabama_jubilee, src_ymca_website, src_mcmorris_thesis, src_cfcf_1941, src_youtube_live_a_lot, src_concordia_ymca_fonds_12B04_finding_aid, src_ymcagta_pinecrest_games*
-*Last Updated: 2026-07-09 (Batch 6 research pass: box numbers found for the SR0001 recording and the song sheets/song books folder; a Pine Crest Games naming parallel flagged as a lead for L&V cheer origins; fixed an internal inconsistency about whether any section cheer has been documented)*
+*Status: E1-reviewed | Sources: 18*
+*Last Updated: 2026-07-09*
 
 ## Overview
 
@@ -102,7 +102,7 @@ The cheer is entirely nonsensical, concluding only with the camp name. This stru
 
 ## Section Cheers
 
-*Correction (2026-07-09): one section cheer has in fact been recorded in a written source, not zero as previously stated here — the handwritten "Medley '81" cheer sheet (see Images below) records an actual Voyageurs sound-off chant ("Said 1-2-3-4-5 / Said Junior Girls don't take no jive / Ya-Ya") and a girls'-section cheer verbatim (f_1566). No further Voyageur, Lumberman, or other section cheers beyond what's on that one sheet have been recorded in any accessible archive or publication. The Color War / L&V Games tradition at YMCA camps across North America typically features team cheers, fight songs, and an "Alma Mater" presented during a culminating event called "Sing."^9 This framework almost certainly applies to the L&V Games at Kanawana.*
+One section cheer has been recorded in a written source (see Revision History): the handwritten "Medley '81" cheer sheet (see Images below) records an actual Voyageurs sound-off chant ("Said 1-2-3-4-5 / Said Junior Girls don't take no jive / Ya-Ya") and a girls'-section cheer verbatim (f_1566). No further Voyageur, Lumberman, or other section cheers beyond what's on that one sheet have been recorded in any accessible archive or publication. The Color War / L&V Games tradition at YMCA camps across North America typically features team cheers, fight songs, and an "Alma Mater" presented during a culminating event called "Sing."^9 This framework almost certainly applies to the L&V Games at Kanawana.
 
 *A possible model/common-origin lead: YMCA Camp Pine Crest (Muskoka, Ontario) has run a two-day "Lumbermen vs. Voyageurs" color-war competition, "The Pine Crest Games," every year since 1940 — a striking naming parallel to Kanawana's own "L&V Games" (Lumberman/Voyageur).^17 A centennial book, *Lumbermen & Voyageurs: The YMCA Pine Crest Story*, exists but its contents (including any cheer text) could not be retrieved online in this pass — worth a dedicated attempt via interlibrary loan or a slower/retried fetch.*
 
@@ -207,3 +207,10 @@ The Color War tradition (known at Kanawana as the L&V Games) typically includes 
 16. Concordia University Archives, static finding-aid page for sub-sub-series 12B04 (Communications) [src_concordia_ymca_fonds_12B04_finding_aid]. Direct fetch 2026-07-09: Box HA2559 (SR0001 catalog entry).
 17. YMCA of Greater Toronto blog, "Celebrating Tradition with the Pine Crest Games" [src_ymcagta_pinecrest_games].
 18. Concordia University Archives, sub-sub-series 12B07 (Program) [src_concordia_atom_12B07]. Direct fetch 2026-07-09: Box HA2315 (song sheets, song books, pageant scripts).
+
+## Research Notes
+
+### Revision History
+
+- **2026-07-09** — Corrected an internal inconsistency: this article previously stated no section cheer had been recorded in any written source. The handwritten "Medley '81" cheer sheet (see Images) in fact records a Voyageurs sound-off chant and a girls'-section cheer verbatim (f_1566) — one section cheer is documented, not zero.
+

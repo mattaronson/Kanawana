@@ -2298,3 +2298,9 @@ HYPOTHESIZE — Remaining productive research requires:
   - taylor-statten.md: fixed the malformed Sources header, moved the c_020 editorial-resolution narrative into a new Research Notes > Revision History section.
   - camp-otoreke.md: fixed the malformed Sources header, moved the c_008 editorial-resolution narrative into a new Research Notes > Revision History section (article had none before).
   - No facts, sources, citations, or open questions dropped on either article. Status unchanged (E1-reviewed) on both. wiki/articles.json updated.
+
+[2026-07-11] Campaign 51 (Workstream A, Wave 2, articles 12-13, FINAL of the sediment-marker list): prose-sediment REVIEW pass on camp-songs-cheers.md and lv-games.md
+  - camp-songs-cheers.md: fixed the malformed Sources header, moved the "Correction (2026-07-09)" paragraph into a new Research Notes > Revision History section (article had none before).
+  - lv-games.md: fixed a malformed header (wrong Status casing "E1 Reviewed", Sources field was free-text descriptions rather than a count), moved the "Correction, 2026-07-09" paragraph into a new Research Notes > Revision History section, folded the orphaned "R3 Verification Notes" H3 (no parent heading) into Research Notes.
+  - No facts, sources, citations, or open questions dropped on either article. Status unchanged (E1-reviewed) on both. wiki/articles.json updated.
+  - This completes the original 13-article sediment-marker list identified beyond Wave 1 (founding-1894, camp-ouareau, coeducation-gender, environmental-history, myths-and-legends, cushing-family, dave-twynam, j-w-mcconnell, sean-day, taylor-statten, camp-otoreke, camp-songs-cheers, lv-games). Remaining Wave 2 work: ~18 articles flagged only for the malformed-Sources-header / old-style-header / missing-header problem, with no embedded correction sediment (mostly single-header-line fixes).

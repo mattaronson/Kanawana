@@ -365,6 +365,12 @@
           "at": "2026-07-10T05:00:00Z",
           "by": "auto",
           "task": "RESEARCH"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-07-11T00:00:00Z",
+          "by": "auto",
+          "task": "REVIEW"
         }
       ],
       "ralph_loops_completed": 2,
@@ -420,7 +426,8 @@
         "canadian-camping-movement"
       ],
       "file_id": "1EmzjwZxmQKJhFrNsbFGn1HbdseFBM9E7",
-      "word_count": 1399
+      "word_count": 1429,
+      "notes": "2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- fixed the malformed header (Status casing 'E1 Reviewed' -> 'E1-reviewed', Sources field was free-text descriptions instead of a count), moved the 'Correction, 2026-07-09' paragraph into a new Research Notes > Revision History section, folded the orphaned 'R3 Verification Notes' H3 (no parent heading) into Research Notes. No facts, citations, or open questions dropped; status unchanged."
     },
     {
       "article_id": "wartime-kanawana",
@@ -3151,6 +3158,12 @@
           "at": "2026-07-09T22:00:00Z",
           "by": "auto",
           "task": "RESEARCH"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-07-11T00:00:00Z",
+          "by": "auto",
+          "task": "REVIEW"
         }
       ],
       "ralph_loops_completed": 2,
@@ -3223,8 +3236,8 @@
         "council-ring"
       ],
       "file_id": null,
-      "word_count": 3107,
-      "notes": "R1 RALPH completed 2026-02-27. 14 new KB facts. 23 KB facts total. 15 sources. Key findings: Marching Song traced to Alabama Jubilee (1915), lost verses found at Concordia 2006; full 1922 Yo Triumphy cheer; 1923 Gas Bag original songs; 1935 musicale; 1938 choir by Leshley; Kerr song on CD P145/SR0001 (4:30). Blocked on: oral history for section cheers/Grace/campfire repertoire; Concordia archives for song books 1925-1945."
+      "word_count": 3094,
+      "notes": "R1 RALPH completed 2026-02-27. 14 new KB facts. 23 KB facts total. 15 sources. Key findings: Marching Song traced to Alabama Jubilee (1915), lost verses found at Concordia 2006; full 1922 Yo Triumphy cheer; 1923 Gas Bag original songs; 1935 musicale; 1938 choir by Leshley; Kerr song on CD P145/SR0001 (4:30). Blocked on: oral history for section cheers/Grace/campfire repertoire; Concordia archives for song books 1925-1945. | 2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- fixed the malformed Sources header, moved the 'Correction (2026-07-09)' paragraph into a new Research Notes > Revision History section. No facts, citations, or open questions dropped; status unchanged."
     },
     {
       "article_id": "places-and-locations",

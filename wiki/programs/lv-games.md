@@ -1,7 +1,7 @@
 # The L&V Games
 
-*Status: E1 Reviewed | Sources: McMorris (2023) Ch3, KB lv_games, YMCA Quebec official history, YMCA GTA (Pine Crest), ACA Hayo-Went-Ha, src_wikipedia_color_war, src_ymcaquebec_voyageurs_page*
-*Last Updated: 2026-07-10 (direct local pdftotext extraction of the McMorris thesis confirms "L&V Games" appears nowhere in it -- the rename postdates her sources and remains undocumented online)*
+*Status: E1-reviewed | Sources: 9*
+*Last Updated: 2026-07-10*
 
 The L&V Games trace their origin to 1947, when the camp created "Lumberman-Voyageur Week" as a culminating event for the final week of summer. The entire camp was divided into two teams, Voyageurs and Lumbermen (known as "Bûcherons" in French), and the week was given over to inter-team competition. The concept drew on Pine Crest Camp in Ontario, which had run its own Lumbermen-versus-Voyageurs competition since 1940, complete with the same team symbols: an axe for the Lumbermen and a paddle for the Voyageurs.
 
@@ -9,7 +9,7 @@ The format as it developed through the late 1940s and 1950s was distinctive. Tea
 
 By 1958, McMorris describes the L&V program as "well-developed," with an established sequence: team selection on Friday, captains chosen that evening, competition running through the week. The team leaders had distinct titles: the Voyageur leader was called the **Capitaine**, while the Lumberman leader was called the **Boss**.^mc The opening ceremony, held on Sunday, featured a dramatic **floating bonfire** on the lake.^mc The 2025 YMCA Quebec official history refers to the 78th edition of the L&V Games, which is consistent with a 1947 origin if one year was skipped (most likely the COVID-cancelled 2020 season).
 
-The tradition was not unique to Pine Crest and Kanawana, though the parallel is looser than previously stated here. **Correction, 2026-07-09:** YMCA Hayo-Went-Ha Camps in Michigan (founded 1904) use "Woodsmen" and "Voyageurs" as program names, but direct fetches of both program pages show these are age-based program *levels* (Woodsmen: younger boys' general in-camp activities; Voyageurs: older campers' canoe-expedition tier, e.g. an AuSable River trip), not a Color-War-style competing team pair — neither page describes any team rivalry or scoring against the other. The naming echo is real but is not evidence of a shared *competitive* tradition.
+The tradition was not unique to Pine Crest and Kanawana, though the parallel is looser than an earlier version of this article stated (see Revision History). YMCA Hayo-Went-Ha Camps in Michigan (founded 1904) use "Woodsmen" and "Voyageurs" as program names, but direct fetches of both program pages show these are age-based program *levels* (Woodsmen: younger boys' general in-camp activities; Voyageurs: older campers' canoe-expedition tier, e.g. an AuSable River trip), not a Color-War-style competing team pair — neither page describes any team rivalry or scoring against the other. The naming echo is real but is not evidence of a shared *competitive* tradition.
 
 Camp Pine Crest's own camping lineage traces further back than 1940: it had roots in the Broadview Boys' Institute camping tradition dating to 1896; the Institute (Toronto) amalgamated with the Toronto YMCA in 1910 to become the Broadview YMCA, which opened Pine Crest that same year. However, the Pine Crest Games themselves are independently confirmed (YMCA of Greater Toronto's own history page and blog) to have begun only in 1940 — seven years before Kanawana adopted the format — so the 1896 root is camp/institutional lineage, not evidence the L&V-style competition itself is older than 1940.
 
@@ -42,14 +42,20 @@ The role of "Capitaine" — leader of the Voyageur team — is considered one of
 - YMCA Quebec, "Voyageurs" canoe-tripping program page [src_ymcaquebec_voyageurs_page].
 - Direct fetches, 2026-07-09: hayowentha.org/program/voyageurs/ and find.acacamps.org (Woodsmen program profile) [src_hayowentha_website, src_aca_hayowentha_programs].
 
-### R3 Verification Notes
-
-1947 origin independently confirmed by YMCA Quebec official history (78th edition in 2025). Pine Crest inspiration independently confirmed by YMCA Quebec ("inspired by Pinecrest Camp") and corroborated by YMCA GTA blog documenting identical tradition since 1940. Team names, symbols (axe/paddle), and competition format match across both camps. Specific details (Friday team selection, model paddles/axes worn around necks, 1950 dining hall mural, war canoe races) are single-sourced from McMorris citing P145 season reports.
-
 ## Open Questions
 
 - ~~When exactly did the name shift from "Lumberman-Voyageur Week" to "L&V Games"?~~ [Confirmed dead end, tooling resolved 2026-07-10] A local `curl` + `pdftotext` extraction of the full McMorris thesis (succeeding where WebFetch had been defeated by a FlateDecode-compressed stream) confirms the phrase "L&V Games" appears nowhere in the thesis at all — she uses only "Lumberman-Voyageur Week" throughout, including in material sourced from a 1988 Kanawana Camping Task Force document. This confirms the rename postdates the thesis's own primary sources and remains undocumented online; only physical Ka-News/Green Triangle issues from the intervening decades could resolve the exact date.
 - What is the earliest surviving photograph of L&V Games competition? Confirmed access limitation, not a null result: Kanawana's Flickr account (~4,416 photos) and Facebook photo archive exist but require manual visual browsing to date-sort — not resolvable via text search.
 - How has the format changed since the 1950s? Are war canoe races still part of it? Weak modern-format leads only (2026-07-09): a Facebook post references a "douse the fire" event and a TikTok video describes the modern Games as "3 days" — confirms the format has changed/added events since the 1950s but doesn't establish which legacy events persist.
 - ~~When did the L&V Games expand beyond the final week to become associated with the La Vérendrye canoe trip program?~~ [Resolved 2026-07-09] It didn't — the modern Kanawana canoe-tripping program for ages 13-16 is separately branded "Voyageurs" (with a La Vérendrye Wildlife Reserve flat-water option), a parallel reuse of "voyageur" branding across two distinct camp institutions, not the historical L&V Games team expanding into a canoe-trip tier. No direct institutional link found.
-- ~~How many other YMCA camps adopted the Lumbermen/Woodsmen-vs-Voyageurs format? Was there a common source (e.g., a YMCA programming manual) or did it spread camp-to-camp?~~ [Reframed 2026-07-09] Hayo-Went-Ha's "Woodsmen"/"Voyageurs" turned out to be program-level names, not a competing team format (see correction above) — so it is not actually a second example of the L&V-style team competition. The broader "Color War" genre (1916, Schroon Lake Camp, Adirondacks) is the real common ancestor of this kind of tradition; no evidence of a shared YMCA-specific programming manual was found.
+- ~~How many other YMCA camps adopted the Lumbermen/Woodsmen-vs-Voyageurs format? Was there a common source (e.g., a YMCA programming manual) or did it spread camp-to-camp?~~ [Reframed 2026-07-09] Hayo-Went-Ha's "Woodsmen"/"Voyageurs" turned out to be program-level names, not a competing team format (see Revision History) — so it is not actually a second example of the L&V-style team competition. The broader "Color War" genre (1916, Schroon Lake Camp, Adirondacks) is the real common ancestor of this kind of tradition; no evidence of a shared YMCA-specific programming manual was found.
+
+## Research Notes
+
+### Revision History
+
+- **2026-07-09** — Corrected an overstated parallel: this article previously treated YMCA Hayo-Went-Ha's "Woodsmen"/"Voyageurs" names as a second example of the L&V-style competing-team format. Direct fetches of both program pages show these are age-based program levels, not a Color-War-style team pair — the naming echo is real but isn't evidence of a shared competitive tradition.
+
+<!-- RALPH process log (informal, not reader-facing). -->
+<!-- R3 VERIFY: 1947 origin independently confirmed by YMCA Quebec official history (78th edition in 2025). Pine Crest inspiration independently confirmed by YMCA Quebec ("inspired by Pinecrest Camp") and corroborated by YMCA GTA blog documenting identical tradition since 1940. Team names, symbols (axe/paddle), and competition format match across both camps. Specific details (Friday team selection, model paddles/axes worn around necks, 1950 dining hall mural, war canoe races) are single-sourced from McMorris citing P145 season reports. -->
+
