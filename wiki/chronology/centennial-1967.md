@@ -1,11 +1,7 @@
 # The 1967 Centennial and Kanawana
 
-<!-- status: E1-reviewed -->
-<!-- confidence: high -->
-<!-- last_updated: 2026-06-24 -->
-<!-- last_updated: 2026-07-10 (the recommended local-PDF-extraction retry was completed: the McMorris thesis text itself does not name the six campers, only a photograph captioned to The Ottawa Journal, August 10, 1967 -- already cited here as source #15) -->
-<!-- last_editor: v50, v68 -->
-<!-- ralph_loops: centennial-1967-R1, centennial-1967-V1 -->
+*Status: E1-reviewed | Sources: 19*
+*Last Updated: 2026-07-10*
 
 ## Summary
 

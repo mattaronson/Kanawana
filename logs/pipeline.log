@@ -2327,3 +2327,8 @@ HYPOTHESIZE — Remaining productive research requires:
   - rh-hanagan.md: fixed the malformed Sources header only.
   - da-budge.md: fixed the malformed Sources header, nested the standalone "Revision History" heading under a new parent "Research Notes" heading per the wiki-wide convention.
   - No facts, sources, citations, or open questions dropped. Status unchanged (E1-reviewed) on both. wiki/articles.json updated.
+
+[2026-07-11] Campaign 57 (Workstream A, Wave 2, articles 24-25): centennial-1967.md and centennial-1994.md
+  - centennial-1967.md: removed the old-style HTML-comment header, replaced with the standardized header.
+  - centennial-1994.md: removed a duplicate old-style HTML-comment header; softened two dated bold-label markers in prose ("Resolved 2026-07-09", "Important disambiguation (2026-07-09)") into plain encyclopedic prose since they weren't corrections requiring a Revision History move, just informative content with unnecessary date-stamping.
+  - No facts, sources, citations, or open questions dropped on either article. Status unchanged (E1-reviewed) on both. wiki/articles.json updated.

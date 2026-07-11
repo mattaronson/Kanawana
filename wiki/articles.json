@@ -1616,6 +1616,12 @@
           "at": "2026-07-10T05:00:00Z",
           "by": "auto",
           "task": "RESEARCH"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-07-11T00:00:00Z",
+          "by": "auto",
+          "task": "REVIEW"
         }
       ],
       "ralph_loops_completed": 3,
@@ -1702,7 +1708,8 @@
         "traditions-and-culture"
       ],
       "file_id": null,
-      "word_count": 1961
+      "word_count": 1908,
+      "notes": "2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- removed the old-style HTML-comment header, replaced with the standardized two-line header. No facts, citations, or open questions dropped; status unchanged."
     },
     {
       "article_id": "canadian-camping-movement",
@@ -5158,6 +5165,12 @@
           "at": "2026-07-09T11:00:00Z",
           "by": "auto",
           "task": "RESEARCH"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-07-11T00:00:00Z",
+          "by": "auto",
+          "task": "REVIEW"
         }
       ],
       "ralph_loops_completed": 1,
@@ -5218,7 +5231,8 @@
         "pip-alumni-award"
       ],
       "file_id": null,
-      "word_count": 1517
+      "word_count": 1453,
+      "notes": "2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- removed a duplicate old-style HTML-comment header, softened two dated bold-label markers in prose ('Resolved 2026-07-09', 'Important disambiguation (2026-07-09)') into plain encyclopedic prose since they weren't corrections requiring a Revision History move. No facts, citations, or open questions dropped; status unchanged."
     },
     {
       "article_id": "quebec-camp-landscape",
