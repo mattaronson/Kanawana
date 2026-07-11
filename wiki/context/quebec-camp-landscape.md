@@ -1,7 +1,7 @@
 # The Quebec Camping Landscape
 
 *Status: E1-reviewed | Sources: 23*
-*Last Updated: 2026-07-10 (Batch 7 research pass: Camp Perrot substantially re-researched via 11 newly-found digitized annual reports -- see camp-perrot.md; Camp Dorval's founding corrected to 1925 and its "experimental" framing corrected; Quebec Camping Association institutional lineage documented in detail)*
+*Last Updated: 2026-07-10*
 
 ## Overview
 
@@ -117,10 +117,10 @@ Several patterns emerge from the Quebec and Canadian camp landscape:
 22. Concordia University Archives, sub-series 12N (Camping associations), sub-sub-series 12N01-12N04 [src_concordia_12N_camping_associations].
 23. Trent University Archives, Quebec Camping Association fonds (85-013, 1948-1982) [src_trent_qca_fonds].
 
-### R3 Verification Notes
+## Research Notes
 
-All camp founding dates verified against at least two independent sources where possible. Tamaracouta 1912 confirmed via Wikipedia and CBC reporting. Camp Massad 1947 confirmed via Wikipedia. Pripstein 1941-2014 confirmed via Wikipedia. Ste-Jeanne-d'Arc 1926 confirmed via Wikipedia. Camp Dorval, Camp Becsies, and Camp Perrot are single-sourced from Concordia Archives fonds description (no independent verification available without physical archive access). Pine Crest 1910 confirmed via YMCA GTA and YMCA Canada. Wanakita 1953 confirmed via Wikipedia and Glen Herbert. Kitchikewana 1919 confirmed via YMCA Simcoe/Muskoka. Oolahwan 1946 visit confirmed via McMorris thesis (f_0220).
+<!-- RALPH process log (informal, not reader-facing). -->
+<!-- R3 VERIFY pass: all camp founding dates verified against at least two independent sources where possible. Tamaracouta 1912 confirmed via Wikipedia and CBC reporting. Camp Massad 1947 confirmed via Wikipedia. Pripstein 1941-2014 confirmed via Wikipedia. Ste-Jeanne-d'Arc 1926 confirmed via Wikipedia. Camp Dorval, Camp Becsies, and Camp Perrot are single-sourced from Concordia Archives fonds description (no independent verification available without physical archive access). Pine Crest 1910 confirmed via YMCA GTA and YMCA Canada. Wanakita 1953 confirmed via Wikipedia and Glen Herbert. Kitchikewana 1919 confirmed via YMCA Simcoe/Muskoka. Oolahwan 1946 visit confirmed via McMorris thesis (f_0220). -->
+<!-- E1 REVIEW pass completed 2026-06-20: systematic quality review. All 19 claims with inline citations verified against KB facts. Cross-links to 8 existing articles confirmed valid. Encyclopedic tone, neutral voice throughout. No unsourced speculation. Open questions are specific and actionable with archival leads. Entries for camps with standalone articles (Oolahwan, Ouareau, Weredale) appropriately brief with cross-references. Three camps (Dorval, Becsies, Perrot) remain single-sourced from Concordia Archives fonds -- noted as limitation but not a quality issue given archival nature of source. -->
+<!-- REVIEW pass 2026-07-11 (Workstream A, Wave 1): folded the former "R3 Verification Notes" and "E1 Review Notes" H3 sub-headings (which had no parent Research Notes heading) into this section, per the wiki-wide standardized convention; trimmed the header's dated parenthetical. No prose sediment was found in this article's main body -- it was already clean -- so no Revision History entries were needed. No facts, citations, or open questions changed. -->
 
-### E1 Review Notes
-
-Systematic quality review completed 2026-06-20. All 19 claims with inline citations verified against KB facts. Cross-links to 8 existing articles confirmed valid. Encyclopedic tone, neutral voice throughout. No unsourced speculation. Open questions are specific and actionable with archival leads. Entries for camps with standalone articles (Oolahwan, Ouareau, Weredale) appropriately brief with cross-references. Three camps (Dorval, Becsies, Perrot) remain single-sourced from Concordia Archives fonds — noted as limitation but not a quality issue given archival nature of source.

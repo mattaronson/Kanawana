@@ -1,12 +1,7 @@
 # The Canadian Camping Movement
 
-<!-- status: E1-reviewed -->
-<!-- confidence: medium-high -->
-<!-- last_updated: 2026-06-22 (Woodcraft League and McGill Camping School research integrated) -->
-<!-- last_updated: 2026-07-09 (open-questions research pass: OCA Kanawana 1940 file pinned to Box 1/Folder 5; Derek Walsh biography reconfirmed exhausted with new corroborating committee context; flagged an untested P0145/12B05 staff-overlap lead) -->
-<!-- last_updated: 2026-07-10 (conflict c_020 resolved editorially: OCA's three disputed dates reconciled as three distinct milestones -- flagged explicitly as editorial judgment, not new evidence) -->
-<!-- last_editor: session3, v68 -->
-<!-- ralph_loops: canadian-camping-movement-R1, canadian-camping-movement-V1, canadian-camping-movement-R2 -->
+*Status: E1-reviewed | Sources: 30*
+*Last Updated: 2026-07-10*
 
 ## Summary
 
@@ -37,7 +32,7 @@ Taylor Statten (1882-1956) was the central figure in the professionalization of 
 
 In 1921, Statten founded Camp Ahmek on Canoe Lake in Algonquin Park, named after the Ojibwa word for "Great Beaver."^5 In 1924, his wife Ethel opened Camp Wapomeo for girls on the same lake. Pierre Trudeau attended Camp Ahmek as a camper.^5
 
-The founding of the Ontario Camping Association marked the transition from informal to organized camping. Statten served as first chairman, alongside founding members A.L. Cochrane, Mary Edgar, Mary Hamilton, Ferna Halliday, and Ethel Statten.^7 **Editorial resolution (2026-07-10, conflict c_020)**: three sources gave three different dates (1930, 1933, 1938), reconciled as three distinct milestones rather than a single disputed founding date — the OCA organized informally in 1930, was formally chartered/branded in 1933, and Statten's own first full presidency began in 1938. See [[people/taylor-statten|Taylor Statten]] for the full reasoning; this is an editorial judgment, not new evidence.
+The founding of the Ontario Camping Association marked the transition from informal to organized camping. Statten served as first chairman, alongside founding members A.L. Cochrane, Mary Edgar, Mary Hamilton, Ferna Halliday, and Ethel Statten.^7 Three sources give three different dates for this founding (1930, 1933, 1938); this KB reads them as three distinct milestones rather than a single disputed date — the OCA organized informally in 1930, was formally chartered/branded in 1933, and Statten's own first full presidency began in 1938 (editorial reconciliation, see Revision History and [[people/taylor-statten|Taylor Statten]] for the full reasoning).
 
 In 1936, the Canadian Camping Association was founded at the Central Y.M.C.A. in Toronto on May 20, with Statten as first president, Mary Edgar as first vice-president, Dr. George S. Patterson as secretary, and Mary C. Donaldson as treasurer.^8 Nelson McEwen, who directed Camp Kanawana as Boys' Work Secretary of the Montreal YMCA from c. 1927 to 1947, co-founded the CCA with Statten, serving as Secretary. McEwen's involvement is documented in Camp Stephens Alumni blog sources, which state McEwen "founded the Canadian Camping Association in 1946" with Statten; since the CCA was formally founded in 1936, McEwen's role may relate to a 1946 reorganization or national assembly.^8n Doug McEwen, possibly Nelson's son, later served as CCA President from 1967 to 1969.^8o Statten also served as president of the American Camp Association in 1942, the only Canadian to hold both offices.^8b The CCA's stated objective was to "further the interests and welfare of children, youths and adults through camping as an educative, recreative, and character developing experience."^8c Its constitution was formally incorporated by Letters Patent on November 4, 1949.^8c
 
@@ -114,6 +109,11 @@ The CCA published *Canadian Camping* magazine from 1949 to 1988; digitized issue
 
 ## Research Notes
 
+### Revision History
+
+- **2026-07-10** — Conflict c_020 (OCA founding: 1930 vs. 1933 vs. 1938, three different sources) resolved editorially: read as three distinct milestones rather than one disputed date — informal organization in 1930, formal chartering in 1933, Statten's first full presidency in 1938. See [[people/taylor-statten|Taylor Statten]] for full reasoning; an editorial judgment, not new evidence.
+
+<!-- RALPH process log (informal, not reader-facing). -->
 <!-- R1 formal RALPH loop completed 2026-02-11. Strong web sources available. Big Cove YMCA Camp (1889) predates Kanawana — important correction to any "first in Canada" claims. Kanawana's position as second-oldest and Quebec's first is well-supported. Taylor Statten's YMCA background directly parallels Kanawana's institutional origins. Trent University Archives are a major untapped resource for Kanawana context within the broader movement. Ernest Thompson Seton / Woodcraft League connection to Kanawana's 1922 charter merits further investigation. -->
 
 <!-- V1 VERIFY pass completed 2026-02-14. 17/19 claims independently confirmed. Corrections applied: (1) Keewaydin founded 1893 not 1894, per Wikipedia and Keewaydin.org. (2) Camp Oolahwan was NOT first girls' camp in Canada — Camp Northway (1906) predates it by 11 years. Wording corrected to "one of the earliest." (3) Taylor Statten's 1906 YMCA role clarified as regional/early, national secretary by 1912. All other claims confirmed: Big Cove 1889, Montreal YMCA 1851, Camp Pine Crest 1910, CSET 1914, TUXIS/Trail Rangers 1918, Camp Ahmek 1921, Wapomeo 1924, Pierre Trudeau at Ahmek, OCA 1933, CCA 1936, Camp Tanamakoon 1925, Camp Ouareau 1922, Cochrane 1900, Wall 2009, Canadian Camping magazine 1949-1988. -->

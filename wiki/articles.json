@@ -1700,6 +1700,12 @@
           "at": "2026-07-10T08:00:00Z",
           "by": "auto",
           "task": "REVIEW"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-07-11T00:00:00Z",
+          "by": "auto",
+          "task": "REVIEW"
         }
       ],
       "ralph_loops_completed": 1,
@@ -1778,7 +1784,7 @@
         "src_concordia_atom_12B05",
         "src_ia_ymca_annual_1989_fr"
       ],
-      "open_questions": 5,
+      "open_questions": 6,
       "cross_links": [
         "canoe-trips",
         "centennial-1967",
@@ -1787,8 +1793,8 @@
         "sources-index"
       ],
       "file_id": null,
-      "word_count": 2583,
-      "notes": "v4.75: McEwen as CCA co-founder with Taylor Statten added."
+      "word_count": 2562,
+      "notes": "v4.75: McEwen as CCA co-founder with Taylor Statten added. | 2026-07-11: Workstream A Wave 1 prose-sediment REVIEW pass -- added the standardized two-line header (previously had only the old-style HTML-comment header), moved the c_020 (OCA founding-date reconciliation) editorial-resolution narrative into a new visible Revision History section. Corrected open_questions count (was stale at 5, actual is 6). No facts, citations, or open questions dropped; status unchanged."
     },
     {
       "article_id": "billy-ball",
@@ -5076,6 +5082,12 @@
           "at": "2026-07-10T04:00:00Z",
           "by": "auto",
           "task": "RESEARCH"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-07-11T00:00:00Z",
+          "by": "auto",
+          "task": "REVIEW"
         }
       ],
       "ralph_loops_completed": 2,
@@ -5146,7 +5158,8 @@
         "a-ross-seaman"
       ],
       "file_id": null,
-      "word_count": 2121
+      "word_count": 2170,
+      "notes": "2026-07-11: Workstream A Wave 1 prose-sediment REVIEW pass -- folded the former 'R3 Verification Notes'/'E1 Review Notes' H3 sub-headings into a proper '## Research Notes' section (HTML-comment process log), trimmed the header's dated parenthetical. This article's main body had no embedded prose sediment to begin with. No facts, citations, or open questions changed; status unchanged."
     },
     {
       "article_id": "kanawana-in-media",
