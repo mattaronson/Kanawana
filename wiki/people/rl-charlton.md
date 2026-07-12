@@ -13,7 +13,7 @@ Charlton was a Montreal-based independent marine surveyor who maintained his own
 
 ## Proposing the Name "Kanawana"
 
-A 1951 primary source, "Kamp Kanawana History" (presented at a training course on June 6, 1951), states: "A great deal of thought was given to choosing a name for the camp. Mr. Charlton suggested Kanawana which was like the name of a Furness Steamer. At a later meeting the name Kanawana was adopted, which means in the Indian language lots to eat."^2 This is the only source identifying who specifically proposed the camp's name, and independently confirms the "lots to eat" translation from a primary rather than secondary account. No corroboration has been found of an actual ship named "Kanawana" in Furness Withy or Furness Bermuda Line vessel records — this remains an unresolved lead. See [[context/myths-and-legends|Myths and Legends of Camp Kanawana]] for the full naming-origin discussion.
+A 1951 primary source, "Kamp Kanawana History" (presented at a training course on June 6, 1951), states: "A great deal of thought was given to choosing a name for the camp. Mr. Charlton suggested Kanawana which was like the name of a Furness Steamer. At a later meeting the name Kanawana was adopted, which means in the Indian language lots to eat."^2 This is the only source identifying who specifically proposed the camp's name, and independently confirms the "lots to eat" translation from a primary rather than secondary account. No corroboration has been found of an actual ship named "Kanawana" in Furness Withy or Furness Bermuda Line vessel records, despite a five-surface search (two published fleet lists, a general Furness Withy history, and Lloyd's Register Foundation's digitized register collection) turning up zero matches. See [[context/myths-and-legends|Myths and Legends of Camp Kanawana]] for the full naming-origin discussion and search detail.
 
 ## The 1943 "Early Days" Manuscript
 
@@ -25,7 +25,7 @@ The Concordia Archives also hold undated photographs of "R. H. Dawson" (likely R
 
 1. [Important] What was Charlton's specific role at Kanawana — was he a committee member, camp visitor, or held some other formal position? His YMCA and CBMU career is documented, but his direct camp involvement is inferred from the two manuscripts and the archival photograph pairing with Dawson.
 2. [Important] The 1943 "Notes re Early Days" manuscript remains undigitized (Concordia Box HA1881); physical archive access is the only path to its full content.
-3. [Nice-to-have] Can the "Furness Steamer" analogy be corroborated against actual Furness Withy or Furness Bermuda Line vessel names of the period?
+3. ~~[Nice-to-have] Can the "Furness Steamer" analogy be corroborated against actual Furness Withy or Furness Bermuda Line vessel names of the period?~~ [Exhausted 2026-07-11] A five-surface search (two fleet lists, a general history, Lloyd's Register Foundation's digitized collection) found zero matches. Does not rule out an unindexed register year or smaller subsidiary, but remains uncorroborated.
 4. [Nice-to-have] What was Charlton's relationship to Ralph Dawson — co-leaders, committee colleagues, or fellow alumni? The only documented connection is the shared archival photo filing.
 
 ## Related Articles

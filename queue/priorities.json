@@ -2531,12 +2531,12 @@
       "priority_id": "p_198",
       "rank": 198,
       "type": "VERIFY",
-      "description": "Independently corroborate the \"Director, Outdoor Education Centre Kanawana\" job title (f_1821) beyond the single Glassdoor search-snippet found in Campaign 32 (direct fetch returned 403). Try Indeed/LinkedIn/Isarta mirrors or a repeat Glassdoor fetch.",
+      "description": "Independently corroborate the \"Director, Outdoor Education Centre Kanawana\" job title (f_1821) beyond the single Glassdoor search-snippet found in Campaign 32 (direct fetch returned 403). Try Indeed/LinkedIn/Isarta mirrors or a repeat Glassdoor fetch. [Resolved 2026-07-11] Confirmed via 3 live Dayforce postings on YMCA Quebec's own recruiting platform (f_1984) -- a first-party source, not just a Glassdoor snippet. Full posting text still not extractable (JS-rendered portal).",
       "article_id": "directors-index",
       "blocking": false,
       "assigned_weight": "P3",
       "created_at": "2026-07-09T06:00:00Z",
-      "status": "pending"
+      "status": "completed"
     },
     {
       "priority_id": "p_199",
@@ -2638,7 +2638,7 @@
       "priority_id": "p_207",
       "rank": 207,
       "type": "RESEARCH",
-      "description": "Retrieve the contents of 'Lumbermen & Voyageurs: The YMCA Pine Crest Story' (Camp Pine Crest centennial book) via interlibrary loan or a retried/slower fetch of the camp's shop page (repeatedly rate-limited, HTTP 429) -- Pine Crest's own 'Lumbermen vs Voyageurs' games (since 1940) are a striking naming parallel to Kanawana's L&V Games and may hold cheer text or an origin story worth comparing.",
+      "description": "Retrieve the contents of 'Lumbermen & Voyageurs: The YMCA Pine Crest Story' (Camp Pine Crest centennial book) via interlibrary loan or a retried/slower fetch of the camp's shop page (repeatedly rate-limited, HTTP 429) -- Pine Crest's own 'Lumbermen vs Voyageurs' games (since 1940) are a striking naming parallel to Kanawana's L&V Games and may hold cheer text or an origin story worth comparing. [Re-attempted 2026-07-11] Shop page still HTTP 429 rate-limited (same as before); Wayback Machine is unfetchable by this tool entirely; checked an alternate 2008 Pine Crest Games booklet (Yumpu) as a substitute -- contains no relevant content. Remains blocked for automated tools; interlibrary loan or a manual browser visit is the only remaining path.",
       "article_id": "camp-songs-cheers",
       "blocking": false,
       "assigned_weight": "P3",
@@ -2720,12 +2720,12 @@
       "priority_id": "p_214",
       "rank": 214,
       "type": "RESEARCH",
-      "description": "Verify whether a ship named 'Kanawana' actually existed in Furness Withy / Furness Bermuda Line vessel registries, per a 1951 primary source's claim that R.L. Charlton proposed the camp's name by analogy to a Furness Steamer. Search shipping-line historical registries and Lloyd's Register archives specifically, not general web search.",
+      "description": "Verify whether a ship named 'Kanawana' actually existed in Furness Withy / Furness Bermuda Line vessel registries, per a 1951 primary source's claim that R.L. Charlton proposed the camp's name by analogy to a Furness Steamer. Search shipping-line historical registries and Lloyd's Register archives specifically, not general web search. [Resolved 2026-07-11] Five-surface search (2 fleet lists, general history, Lloyd's Register digitized collection) found zero matches -- genuine null result (f_1985), not proof of absence but exhausted for online search.",
       "article_id": "myths-and-legends",
       "blocking": false,
       "assigned_weight": "P3",
       "created_at": "2026-07-10T04:00:00Z",
-      "status": "pending"
+      "status": "completed"
     },
     {
       "priority_id": "p_215",

@@ -1,7 +1,7 @@
 # Kanawana Myths and Legends
 
-*Status: E1-reviewed | Sources: 21*
-*Last Updated: 2026-07-10*
+*Status: E1-reviewed | Sources: 22*
+*Last Updated: 2026-07-11*
 
 ## Overview
 
@@ -33,7 +33,7 @@ A possibly related toponym is "Kanawha," the name of a river in West Virginia, w
 
 The naming may also reflect the broader practice of YMCA and summer camps adopting pseudo-Indigenous names in the early twentieth century, a practice examined in the McMorris thesis chapter on "playing Indian" [f_0339]. At the time the name was chosen (around 1910 when the camp moved to the Saint-Sauveur site), many camps across North America adopted names that sounded Indigenous regardless of linguistic accuracy.
 
-A previously uncatalogued primary source, "Kamp Kanawana History" (presented at a training course, June 6, 1951, digitized on Internet Archive), adds a specific new claim not found anywhere else: "A great deal of thought was given to choosing a name for the camp. Mr. Charlton suggested Kanawana which was like the name of a Furness Steamer. At a later meeting the name Kanawana was adopted, which means in the Indian language lots to eat."^20 This independently confirms the "lots to eat" translation from a primary rather than secondary source, and identifies [[people/rl-charlton|R.L. Charlton]] as the person who personally proposed the name. No corroboration has been found of an actual ship named "Kanawana" in Furness Withy/Furness Bermuda Line vessel records — this remains an unresolved lead requiring shipping-registry research.
+A previously uncatalogued primary source, "Kamp Kanawana History" (presented at a training course, June 6, 1951, digitized on Internet Archive), adds a specific new claim not found anywhere else: "A great deal of thought was given to choosing a name for the camp. Mr. Charlton suggested Kanawana which was like the name of a Furness Steamer. At a later meeting the name Kanawana was adopted, which means in the Indian language lots to eat."^20 This independently confirms the "lots to eat" translation from a primary rather than secondary source, and identifies [[people/rl-charlton|R.L. Charlton]] as the person who personally proposed the name. No corroboration has been found of an actual ship named "Kanawana" in Furness Withy/Furness Bermuda Line vessel records: a 2026-07-11 search of two independent published Furness fleet lists, a general history of the wider Furness Withy fleet, and a full-text search of Lloyd's Register Foundation's digitized register collection all returned zero matches.^22 This does not rule out an unindexed register year or a smaller Furness subsidiary, but the claim remains uncorroborated.
 
 ### Myth 3: "Indian" Heritage and the Council Ring
 
@@ -172,6 +172,7 @@ These Quebec folk traditions are strong candidates for Kanawana campfire storyte
 19. *Fireside Canada* podcast, Episode 5: "La Chasse-Galerie" (Parts 1 & 2), hosted by David Williams, 2021 [src_fireside_canada_chasse_galerie].
 20. "Kamp Kanawana History," presented at Training Course, June 6, 1951, Internet Archive [src_1951_kamp_kanawana_history]. Verified genuine via archive.org metadata API and direct OCR text fetch, 2026-07-10.
 21. *The Green Triangle*, full digitized run 1932-1982 (38 issues), Internet Archive [src_ia_green_triangle_collection]; July 8, 1933 issue specifically [src_green_triangle_1933_07_08]. Read in full 2026-07-10.
+22. Furness Line fleet list (GGA Archives); Furness Bermuda Line fleet roster; Wikipedia, "Furness Withy"; Lloyd's Register Foundation digitized collection (Internet Archive). Five-surface search, zero matches, 2026-07-11.
 
 ## Research Notes
 

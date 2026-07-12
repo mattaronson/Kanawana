@@ -1,8 +1,8 @@
 {
   "version": "v4.98",
-  "kb_version": "v5.08",
+  "kb_version": "v5.09",
   "migrated_from": "3.3",
-  "fact_count": 1945,
+  "fact_count": 1947,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -33681,6 +33681,40 @@
       "date_ref": "2023-11-12",
       "conflicts_with": [],
       "added_version": "v5.08",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1984",
+      "claim": "Independent corroboration for the 'Director, Outdoor Education Centre Kanawana' job title (f_1821): three separate live postings for this exact title (job IDs 1277, 2010, 3224) were found on Les YMCA du Quebec's own official Dayforce recruiting platform, distinct from and in addition to the original single Glassdoor snippet. Full listing text could not be extracted (Dayforce candidate portal is JS-rendered), but the title's existence and active use by the employer is now confirmed by a first-party source rather than a single third-party job-aggregator snippet.",
+      "sources": [
+        "src_dayforce_kanawana_outdoor_ed_director"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "Director, Outdoor Education Centre Kanawana"
+      ],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "v5.09",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1985",
+      "claim": "No ship named 'Kanawana' (or a close variant) has been found in any searched Furness Withy / Furness Bermuda Line fleet record: two independent fleet lists (GGA Archives' Furness Line list -- Digby, Dominica, Evangeline, Fort Amherst, Fort Townsend, Loyalist -- and the Furness Bermuda Line roster -- Bermudian/Fort Hamilton, Wandilla/Fort Victoria, Willochra/Fort St. George, Bermuda, Monarch of Bermuda, Queen of Bermuda), a general Wikipedia overview of the wider Furness Withy fleet (1,000+ ships across its history), and a full-text search of Lloyd's Register Foundation's digitized register collection on Internet Archive all returned zero matches. This does not rule out a ship of that name existing in an unindexed/undigitized register year or a smaller Furness subsidiary not covered by these sources, but the claim (from a 1951 primary source, that R.L. Charlton named the camp after a Furness Steamer) remains uncorroborated after this search.",
+      "sources": [
+        "src_web_search_exhausted"
+      ],
+      "confidence": "inferred",
+      "category": "chronology",
+      "entities": [
+        "Kanawana (name)",
+        "Furness Withy",
+        "R.L. Charlton"
+      ],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "v5.09",
       "added_by": "ralph_loop"
     }
   ]

@@ -10305,7 +10305,23 @@
       "extraction_version": "campaign38",
       "reliability": "tertiary",
       "notes": "A parent review (children aged 12 and 10) describing a 1-week overnight session, fully bilingual French/English program, technology-free policy, activities (swimming, paddleboarding, archery, music), and COVID-era testing/lice checks upon arrival. Independently corroborates (does not add new facts beyond) the camp's bilingual and unplugged/tech-free framing already documented elsewhere in this KB. Retrieved successfully 2026-07-10 with a browser user-agent, after two earlier timeout attempts (p_197)."
+    },
+    {
+      "source_id": "src_dayforce_kanawana_outdoor_ed_director",
+      "type": "web",
+      "title": "Director, Outdoor Education Centre Kanawana -- Les YMCA du Quebec job postings (Dayforce)",
+      "date": null,
+      "date_precision": "approximate",
+      "origin": "web",
+      "origin_url": "https://jobs.dayforcehcm.com/lesymcaquebec/CANDIDATEPORTAL/jobs/2010",
+      "cache_path": null,
+      "char_count": 0,
+      "ingested_at": "2026-07-11T00:00:00Z",
+      "extracted": false,
+      "extraction_version": null,
+      "reliability": "primary",
+      "notes": "Two additional live Dayforce postings found for this exact title (job IDs 1277, 2010, 3224) on Les YMCA du Quebec's own official recruiting platform, independent of the original Glassdoor find. Full posting text not extractable -- Dayforce candidate portal is JS-rendered and returns only header/footer/nav content to automated fetch, redirecting across multiple subdomains (can242/can261/www/jobs.dayforcehcm.com). Confirms the job title is real and actively used by the employer, corroborating src_glassdoor_outdoor_ed_director beyond a single search-result snippet."
     }
   ],
-  "source_count": 644
+  "source_count": 645
 }
