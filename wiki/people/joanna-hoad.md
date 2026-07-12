@@ -1,7 +1,7 @@
 # Joanna A.A. Hoad
 
-*Status: draft | Sources: 3*
-*Last Updated: 2026-07-07*
+*Status: R3-verified | Sources: 3*
+*Last Updated: 2026-07-09 (VERIFY pass: dates cross-checked against directors-index.md's Two-Tier Era table -- 1995-2000 Kanawana tenure and Arleen Boyer as Executive Director both consistent; all claims carry inline citations; RESEARCH on her post-LCC life confirmed exhausted for a third time, advancing from draft to R3-verified per CLAUDE.md's pipeline, since R3-verified does not require resolving remaining open questions)*
 
 ## Overview
 
@@ -22,7 +22,7 @@ The "jaahoad" email prefix independently confirms the "A.A." middle initials aga
 ## Open Questions
 
 1. [Important] What was Joanna Hoad's exact departure date from Lower Canada College? Confirmed present in 2007, absent by 2009.
-2. [Important] What did she do after leaving LCC? No source of any kind — web, genealogy, obituary, LinkedIn, Facebook — has been found for her post-LCC life.
+2. [Important, third exhausted pass 2026-07-09] What did she do after leaving LCC? No source of any kind — web, genealogy, obituary, LinkedIn, Facebook — has been found for her post-LCC life. A third independent research pass (21 queries across WebSearch, WebFetch, Facebook, ZoomInfo, genealogy sites, and a direct Wayback Machine CDX query) found zero new facts, confirming the two prior exhausted passes (2026-07-05, 2026-07-07). The CDX query confirms only the three already-cited Wayback captures exist anywhere on lcc.ca matching "hoad." This should now be treated as genuinely exhausted for RESEARCH purposes absent new operator-supplied oral history (the same mechanism that unlocked the original LCC lead).
 3. [Nice-to-have] Where is "Christ Church (UK)" — likely Canterbury Christ Church University or Christ Church, Oxford? Her BSc (Health) is from there, per her LCC staff profile.
 4. [Nice-to-have] Is she still living? No obituary or death record has surfaced in any search to date.
 
@@ -39,3 +39,7 @@ The "jaahoad" email prefix independently confirms the "A.A." middle initials aga
 ### R1 Research Notes
 
 Compiled 2026-07-07 from KB facts f_1729-f_1730 (Kanawana tenure, oral history), f_1754 (operator's LCC lead), and f_1755-f_1757 (Wayback-archived LCC staff records, found immediately after the operator's lead by CDX-searching lcc.ca for "hoad" and fetching the matching pages directly). This is the first source of any kind — independent of oral history — ever found for this individual, after two separate formal-RALPH research passes (2026-07-05 and 2026-07-07) had found nothing. The lesson: the operator's specific, targeted memory ("she went to LCC after") succeeded where broad web/genealogy/social-media search across 9+ surfaces had not — a reminder that oral history isn't just a source to corroborate, it can also redirect where corroboration is findable at all.
+
+### VERIFY Notes (2026-07-09)
+
+A third RESEARCH pass (21 queries, including a direct Wayback CDX query not available/used in the prior two passes) confirmed her post-LCC life is genuinely exhausted for online sources. A VERIFY pass cross-checked this article's claims: the 1995-2000 Kanawana tenure and Executive Director Arleen Boyer both match directors-index.md's Two-Tier Era table; every substantive claim in this article carries an inline citation; no name in this article conflicts with the people index elsewhere in this KB. Advanced from draft to R3-verified — the two remaining "Important" open questions (exact LCC departure date, post-LCC life) do not block R3-verified status per CLAUDE.md's status-progression table, since they require oral history or physical archive access rather than a verification failure.

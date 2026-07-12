@@ -6,7 +6,8 @@
       "description": "Coeducation start date: 1968 vs 1969",
       "fact_ids": [
         "f_0200",
-        "f_0201"
+        "f_0201",
+        "f_1777"
       ],
       "entity": "Camp Kanawana",
       "attribute": "coeducation_start_date",
@@ -14,12 +15,14 @@
         "1969 (Kanawana Facts sheet)",
         "1968 (YMCA Quebec website)"
       ],
-      "status": "unresolved",
-      "notes": "YMCA website says 1968; Kanawana Facts sheet says 1969. Both are official YMCA sources. v49 handoff confirmed the discrepancy exists on the live site.",
+      "status": "resolved_editorially",
+      "notes": "YMCA website says 1968; Kanawana Facts sheet says 1969. Both are official YMCA sources. v49 handoff confirmed the discrepancy exists on the live site. Update 2026-07-08: direct fetch of the live YMCA Quebec history page confirms it currently states \"1968 - Kanawana starts to welcome girl campers\" as an official institutional milestone (f_1777) -- this is a genuine second documented source for 1968, not just oral history (f_0201's oral-history sourcing was a KB gap; the article prose already correctly attributed 1968 to the YMCA website, the fact record just hadn't caught up). So this remains a genuine two-documented-source conflict (YMCA Quebec's official timeline: 1968; the YMCA Kamp Kanawana Facts sheet: 1969) with oral history corroborating the 1968 side -- not resolved by the oral-history-yields-to-documents policy, since both sides have documentary backing. Still needs an editorial call, or the Co-ed Camping Pilot Project records (1967-1970) at Concordia, which could support both being correct at different phases (pilot vs. full integration).",
       "created_at": "2026-02-11T06:00:00Z",
       "affects_articles": [
         "coeducation-gender"
-      ]
+      ],
+      "resolution": "Editorial judgment (2026-07-10, operator-approved pass): both dates treated as correct about different milestones rather than one being an error -- a pilot cohort of girls in summer 1968, with full coeducational integration formalized in 1969, consistent with the Co-ed Camping Pilot Project documentation spanning 1967-1970 and the \"Boys' Camping Committee\" persisting through 1968-1969. Editorial call, not new evidence; the Concordia pilot-project reports remain the only way to confirm directly. See wiki/context/coeducation-gender.md.",
+      "resolved_at": "2026-07-10T09:00:00Z"
     },
     {
       "conflict_id": "c_002",
@@ -31,28 +34,29 @@
         "September 8-10, 2017 (YWCA source)",
         "August 25-27, 2017 (West Island Blog)"
       ],
-      "status": "unresolved",
+      "status": "resolved_editorially",
       "notes": "Two sources give different weekend dates for the same event at Camp Ouareau. Neither source has been verified as authoritative.",
       "created_at": "2026-03-15T13:30:00Z",
       "affects_articles": [
         "camp-ouareau"
-      ]
+      ],
+      "resolution": "Editorial judgment (2026-07-10, operator-approved pass): September 8-10, 2017, per the YWCA's own announcement, weighted as the organizing institution's own primary-source statement over a local blog's differing date (August 25-27), which may reflect an earlier save-the-date, a transcription error, or a distinct related event. Editorial call, not new evidence. See wiki/context/camp-oolahwan.md and wiki/context/camp-ouareau.md.",
+      "resolved_at": "2026-07-10T09:00:00Z"
     },
     {
       "conflict_id": "c_003",
       "description": "Taylor Statten ACA presidency year: 1941 vs 1942",
       "fact_ids": [
         "f_0938",
-        "f_0892"
+        "f_1277"
       ],
       "entity": "Taylor Statten",
       "attribute": "aca_presidency_year",
       "values": [
-        "1941 (ACA Presidents page — elected 1941, resigned due to illness)",
-        "1942 (CCA history source)"
+        "1942 (ACA Presidents page, direct re-fetch 2026-07-08)"
       ],
-      "status": "unresolved",
-      "notes": "ACA official presidents list says 1941 with illness resignation; CCA-derived fact says 1942. May reflect election year vs service year distinction.",
+      "status": "resolved",
+      "notes": "ACA official presidents list says 1941 with illness resignation; CCA-derived fact says 1942. May reflect election year vs service year distinction. RESOLVED 2026-07-08: the conflict record had cited the wrong fact_id (f_0892, an unrelated Camp Ouareau fact -- a data-entry error) for the '1942' side; the correct corroborating fact was f_1277. A direct re-fetch of the ACA presidents page confirms Statten is listed under 1942, with a separate 1941 entry belonging to Esther Waldo of the YWCA -- the original 1941 reading (f_0938) was a straightforward misextraction of the same source, not a genuine second source. f_0938's claim text corrected in place; wiki/people/taylor-statten.md updated to 1942 and its inline 'discrepancy logged as c_003' note removed.",
       "created_at": "2026-03-15T15:00:00Z",
       "affects_articles": [
         "taylor-statten",
@@ -84,13 +88,15 @@
         "66 members attended between June 19 and July 17 (McMorris thesis, primary research)",
         "85 campers registered for the summer session (Postmedia 2026, YMCA-sponsored content)"
       ],
-      "status": "unresolved",
+      "status": "resolved_editorially",
       "notes": "McMorris (academic thesis with archival research) is the higher-reliability source. The 85 figure may reflect total registrations vs actual attendance, or may include Camp Otoreke (which continued operating at Lake St. Joseph). The Postmedia article is sponsored content written on behalf of YMCAs of Québec, so the 85 figure likely comes from the YMCA's own institutional narrative. Not necessarily contradictory — could be registrations vs attendance. Update 2026-07-07: direct fetch of the YMCA Quebec history page (f_1747) confirms the '85 campers' figure is the YMCA's own current official institutional claim (not merely Postmedia sponsored-content phrasing) -- strengthens the case that this is a real institutional-narrative-vs-archival-record discrepancy rather than a media error, but does not resolve which figure is correct.",
       "created_at": "2026-03-17T12:00:00Z",
       "affects_articles": [
         "founding-1894",
         "programs-activities"
-      ]
+      ],
+      "resolution": "Editorial judgment (2026-07-10, operator-approved pass): McMorris's archival figure (66 members, primary season records) is weighted over the YMCA's own current website figure (85), treated as imprecise institutional narrative copy rather than a competing archival claim -- possibly conflating registrations with attendance, or including Camp Otoreke (which continued operating at Lake St. Joseph that season). Editorial call, not new evidence. See wiki/chronology/founding-1894.md.",
+      "resolved_at": "2026-07-10T09:00:00Z"
     },
     {
       "conflict_id": "c_006",
@@ -150,12 +156,14 @@
         "Three islands (QAHN article)",
         "Two islands acquired 1897 (BaladoDiscovery)"
       ],
-      "status": "unresolved",
-      "notes": "Both are secondary sources. The 1897 acquisition date in BaladoDiscovery is new — may represent a formal purchase distinct from the 1894 founding. The f_0017 fact says 'main island plus two others' suggesting three total. The two-vs-three discrepancy may reflect different sources counting the mainland landing differently.",
+      "status": "resolved_editorially",
+      "notes": "Both are secondary sources. The 1897 acquisition date in BaladoDiscovery is new — may represent a formal purchase distinct from the 1894 founding. The f_0017 fact says 'main island plus two others' suggesting three total. The two-vs-three discrepancy may reflect different sources counting the mainland landing differently. Re-checked 2026-07-08: both qahn.org and baladodecouverte.com read directly (previously inaccessible/only search-snippet-extracted); neither page's current text gives a clean, quotable exact island count or 1897 date in the sections surfaced -- QAHN says only 'situated on several islands', BaladoDecouverte's island/1897 claim wasn't found on the specific POI page checked (may be on a different page in the same circuit, or the extraction summarized around it). Still unresolved; not worth further remote-research time without narrowing which exact page/POI the 1897 claim came from.",
       "created_at": "2026-06-24T07:00:00Z",
       "affects_articles": [
         "camp-otoreke"
-      ]
+      ],
+      "resolution": "Editorial judgment (2026-07-10, operator-approved pass): \"three islands\" retained as the total count (consistent with this KB's existing \"main island plus two others\" framing); BaladoDiscovery's \"two islands acquired in 1897\" read as a specific, later, formal transaction (two additional islands, supplementing an original island already in informal use since 1894) rather than a competing total-count claim. Editorial call, not new evidence. See wiki/places/camp-otoreke.md.",
+      "resolved_at": "2026-07-10T09:00:00Z"
     },
     {
       "conflict_id": "c_009",
@@ -225,7 +233,9 @@
       "description": "Lemuel Cushing Jr. YMCA Montreal presidency: 1867-68 (1901 historical sketch) vs 1869-70 (other sources).",
       "fact_ids": [
         "f_1539",
-        "f_1160"
+        "f_1160",
+        "f_1778",
+        "f_1779"
       ],
       "entity": "Lemuel Cushing Jr.",
       "attribute": "ymca_presidency_dates",
@@ -233,8 +243,8 @@
         "1867-1868",
         "1869-1870"
       ],
-      "status": "unresolved",
-      "notes": "1901 primary-source sketch vs later secondary sources. Primary source may be more reliable.",
+      "status": "likely_resolved",
+      "notes": "1901 primary-source sketch vs later secondary sources. Primary source may be more reliable. Update 2026-07-08: read the 1901 Historical Sketch's full text directly. It gives its own presidents list for the MAIN Montreal YMCA -- 1865-66 David Bentley, 1867-68 Lemuel Cushing, 1869-73 T. James Claxton (f_1778) -- which is internally consistent (no overlap) and supports 1867-68 for the main-organization presidency. The same document separately names 'Lemuel Cushing, jr.' as president of a distinct, short-lived Point St. Charles branch YMCA (f_1779) -- a different office. The 1869-1870 dating (Wikipedia, citing Morgan's 1875 'Canadian Parliamentary Companion') may reflect a later conflation of the branch presidency with the main-organization role, though this isn't fully confirmed without reading Morgan's original 1875 entry directly. Likely resolved in favour of 1867-68 for the main Montreal YMCA presidency; the 1869-70 claim likely refers to the separate Point St. Charles branch.",
       "created_at": "2026-06-26T00:00:00Z",
       "affects_articles": [
         "cushing-family"
@@ -331,19 +341,78 @@
         "f_1735",
         "f_1740",
         "f_1759",
-        "f_1762"
+        "f_1762",
+        "f_1797"
       ],
       "entity": "Sean Day",
       "attribute": "kanawana_directorship_start_date",
       "values": [
         "2005 (oral history, M. Aronson; corroborated in general terms by CBC News 2017, which places him in a director-level Kanawana role when Stuart McLean returned in 2005)",
-        "Not before 2008 per the Montreal YMCA's own annual reports -- Francois Dauphin held the Senior Management 'Director, Kanawana' title as of the 2007 report; Day first appears in it in the 2008 report"
+        "Not before 2008 per the Montreal YMCA's own annual reports -- Francois Dauphin held the Senior Management 'Director, Kanawana' title as of the 2007 report; Day first appears in it in the 2008 report",
+        "2005-2007, continuously per the camp's own website's public contact page (ymcakanawana.com, Wayback-archived) -- reopens the question"
       ],
-      "status": "resolved",
-      "notes": "Possible reconciliation: the CBC 2017 article's 2005 framing most likely describes Day's presence/involvement at Kanawana in some capacity that year (he 'grew up at the camp' per other KB facts, and was already on staff informally) rather than his formal directorship start, which the annual reports -- the more authoritative, institutional primary source -- place later. Dauphin may also have held a distinct or overlapping role the org chart doesn't separately track from Day's; that structural nuance is not fully resolved. A 2005 or 2006 annual report, if found, would directly test this further.",
-      "resolution": "Resolved 2026-07-07 per standing policy (documented sources take precedence over oral history in direct conflicts -- operator directive): adopt the Montreal YMCA annual reports' documented start. Francois Dauphin held the 'Directeur, YMCA Kanawana' Senior Management title as of the 2007 report; Sean Day's first documented appearance in that specific role is the 2008 report. The oral-history/CBC-corroborated 2005 start date is superseded as Day's *directorship* start, though preserved in the KB (f_1735, f_1740) as evidence he was already connected to Kanawana in some capacity that year.",
-      "resolved_at": "2026-07-07T00:00:00Z",
+      "status": "resolved_editorially",
+      "notes": "Possible reconciliation: the CBC 2017 article's 2005 framing most likely describes Day's presence/involvement at Kanawana in some capacity that year (he 'grew up at the camp' per other KB facts, and was already on staff informally) rather than his formal directorship start, which the annual reports -- the more authoritative, institutional primary source -- place later. Dauphin may also have held a distinct or overlapping role the org chart doesn't separately track from Day's; that structural nuance is not fully resolved. A 2005 or 2006 annual report, if found, would directly test this further. REOPENED 2026-07-09: a re-test of Wayback Machine coverage (the prior 'no pre-2009 snapshot exists' premise was itself incorrect) found the camp's own contact page naming Sean Day continuously from December 2005 through December 2007 (f_1797), overlapping exactly the period the 2007 annual report names Francois Dauphin instead. This is no longer an oral-history-vs-document case -- it's two documented institutional sources disagreeing with each other, which per CLAUDE.md's Conflict Handling section is a genuine human-decision-point conflict, not something the 'oral history yields to documents' policy covers. The most likely reconciliation (unconfirmed): 'Directeur, YMCA Kanawana' on the annual report's internal Senior-Management org chart may be a distinct administrative/head-office-facing title from 'directeur du camp estival et des programmes' on the camp's own public-facing site -- i.e., Dauphin and Day may have held different, non-conflicting roles the org chart and the camp site each track differently, similar to the Executive Director / on-site Director split already documented for other years. Not confirmed; needs editorial judgment or a source that states both roles' scope explicitly.",
+      "resolution": "Editorial judgment (2026-07-10, operator-approved pass): adopt 2005 as Sean Day's on-site directorship start. The camp's own contemporaneous public website (Wayback-archived, naming Day continuously Dec 2005-Dec 2007) is weighted as a more direct real-time signal than the Montreal YMCA's internal annual-report Senior Management listing, which names Francois Dauphin in 2007. Best-guess reconciliation: Dauphin's annual-report title is a separate/concurrent head-office administrative designation, not proof he alone ran the camp on-site that year. This is an editorial call, not new evidence -- explicitly flagged as such in wiki/people/sean-day.md and wiki/people/directors-index.md, and open to revision if a source states both roles' scope explicitly.",
+      "resolved_at": "2026-07-10T08:00:00Z",
       "created_at": "2026-07-07T00:00:00Z"
+    },
+    {
+      "conflict_id": "c_018",
+      "description": "Institutional continuity claim for Montreal's mid-century girls'/underprivileged-children's summer camps: the McCord Stewart Museum's Junior League of Montreal fonds (P685) description states 'today, Camp Amy Molson carries on its mission' -- implying Camp Amy Molson succeeded the Junior League's 1921 Griffintown camp. But Camp Amy Molson's own official history states it was founded May 23, 1944 by the Montreal Ladies' Benevolent and Protestant Orphans' Society (a different organization from the Junior League), with 58 campers in its first season.",
+      "fact_ids": [
+        "f_1859",
+        "f_1860",
+        "f_1844"
+      ],
+      "entity": "Camp Amy Molson",
+      "attribute": "institutional_succession_claim",
+      "values": [
+        "Successor to the Junior League of Montreal's 1921 camp, per the McCord Stewart Museum's own Junior League fonds description ('today, Camp Amy Molson carries on its mission')",
+        "Founded independently in 1944 by the Montreal Ladies' Benevolent and Protestant Orphans' Society (a distinct organization from the Junior League), per Camp Amy Molson's own official history"
+      ],
+      "status": "resolved_editorially",
+      "notes": "This is a genuine two-documented-sources disagreement, not an oral-history-vs-document case, so the 'oral history yields to documents' standing policy does not apply -- it requires human/editorial judgment. Likely explanation (unconfirmed): two distinct Montreal girls'/children's-welfare camps existed in the same era (the Junior League's 1921 Griffintown camp vs. the Ladies' Benevolent Society's 1944 Amy Molson camp), and McCord's 'carries on its mission' is a loose mission-continuity claim (both served underprivileged Montreal children) rather than a literal organizational-succession claim. Relevant to camp-oolahwan.md (Kanawana's 1940s cross-camp contact with 'the Junior League Camp,' per McMorris's thesis) and to camp-becsies.md (which already separately documents Camp Amy Molson as a hypothesis for the 1936-1944 Becsies gap). Not resolved this session -- flagged for operator/editorial review.",
+      "resolution": "Editorial judgment (2026-07-10, operator-approved pass): treated as two distinct organizations, not organizational succession. Camp Amy Molson's own official history (founded 1944 by the Montreal Ladies' Benevolent and Protestant Orphans' Society, a different body from the Junior League) is weighted as more authoritative for its own origin than the McCord Museum's \"carries on its mission\" phrasing in a different organization's (the Junior League's) fonds description -- read as loose thematic mission-continuity language, not a literal succession claim. Editorial call, not new evidence; open to revision. See wiki/context/camp-oolahwan.md.",
+      "resolved_at": "2026-07-10T08:00:00Z",
+      "created_at": "2026-07-09T10:00:00Z"
+    },
+    {
+      "conflict_id": "c_019",
+      "description": "This KB's existing identification of 'W.E. Cushing' (author of the 1943 Concordia-archived manuscript 'Historical sketches -- Lake St. Joseph') as Walter Edgar Cushing is contradicted by genealogical evidence that Walter Edgar Cushing died in January 1935 -- eight years before the manuscript's 1943 date.",
+      "fact_ids": [
+        "f_1909"
+      ],
+      "entity": "W.E. Cushing",
+      "attribute": "identity_and_manuscript_authorship_date",
+      "values": [
+        "W.E. Cushing (1943 manuscript author) = Walter Edgar Cushing (b. 1870, YMCA vice-president/director, d. Jan 13 1935) -- the KB's existing identification",
+        "Walter Edgar Cushing died in 1935, per the full 1905-1969 Cushing genealogy supplement -- incompatible with authoring a manuscript dated 1943"
+      ],
+      "status": "resolved_editorially",
+      "notes": "Two plausible reconciliations, neither confirmed: (1) the Concordia archive's '1943' date reflects a later transcription/filing/copying of notes Cushing wrote earlier in his life (he died 1935, so any original notes would predate that); (2) the 1943 'W.E. Cushing' is a different person entirely, sharing only initials with Walter Edgar Cushing. Requires physical examination of the Concordia manuscript itself (does it carry an internal composition date, or only an archive-assigned one?) to resolve. Relevant to wiki/people/cushing-family.md.",
+      "resolution": "Editorial judgment (2026-07-10, operator-approved pass): the identification of Walter Edgar Cushing (b.1870, d. Jan 13 1935) as the author of the 1943 \"Historical sketches -- Lake St. Joseph\" manuscript is RETAINED as probable. Reasoning: the \"1943\" date most likely reflects Concordia's own archival filing/cataloguing date rather than composition date -- a common phenomenon for donated personal papers -- rather than positing an otherwise entirely undocumented second \"W.E. Cushing,\" for whom zero corroborating trace exists anywhere in this KB's extensive Cushing genealogy work (Occam's razor). This is an editorial call, not new evidence -- physical examination of the manuscript for an internal composition date remains the only way to confirm directly. See wiki/people/cushing-family.md.",
+      "resolved_at": "2026-07-10T08:00:00Z",
+      "created_at": "2026-07-09T12:00:00Z"
+    },
+    {
+      "conflict_id": "c_020",
+      "description": "Three-way disagreement on the year the Ontario Camping Association (OCA) was founded / the year Taylor Statten became its first President, surfaced by a full-text read of Donald Burry's 1985 MA thesis on the Taylor Statten Camps.",
+      "fact_ids": [
+        "f_1919"
+      ],
+      "entity": "Ontario Camping Association",
+      "attribute": "founding_and_first_presidency_date",
+      "values": [
+        "1933 (founding/first-president year), per the OCA's own official website -- this KB's existing citation",
+        "Organized 1930; Statten became first President only in 1938 (succeeding A.L. Cochrane's 'Original Honorary President' role), per a 1984 personal interview with camping historian Mary Northway, cited in the Burry thesis",
+        "1933 (Statten becomes first President), per a Charles Plewman tribute essay cited in the Burry thesis -- though Burry himself appends '(sic)' to this claim, signalling his own skepticism"
+      ],
+      "status": "resolved_editorially",
+      "notes": "None of the three sources is oral history or user_knowledge, so the 'oral history yields to documents' standing policy does not apply -- this requires human/editorial judgment. The OCA website and the Plewman-via-Burry citation agree on 1933 (2 vs. 1), giving some weight to that date, but the Northway-via-Burry account is more detailed (naming Cochrane's preceding role) and comes from a named camping historian rather than a tribute essay. Relevant to wiki/people/taylor-statten.md and wiki/context/canadian-camping-movement.md.",
+      "resolution": "Editorial judgment (2026-07-10, operator-approved pass): the three dates are reconciled as three distinct milestones rather than a single disputed founding date. The OCA's founders organized informally in 1930 (Northway's account, the most detailed, naming Cochrane's preceding \"Original Honorary President\" role); the association was formally chartered/branded in 1933 (matching both the OCA's own website and the Plewman essay, giving that date independent corroboration from two sources); Statten's own first full presidency began only in 1938, succeeding Cochrane. Under this reading all three sources are correct about a different specific thing. Editorial call, not new evidence; open to revision. See wiki/people/taylor-statten.md.",
+      "resolved_at": "2026-07-10T08:00:00Z",
+      "created_at": "2026-07-09T12:00:00Z"
     }
   ]
 }

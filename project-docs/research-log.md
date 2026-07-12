@@ -2777,3 +2777,760 @@ still-open conflict where an oral-history fact directly contradicted a documente
 0 new facts (a resolution pass, not new research). 4 conflicts resolved (c_004, c_015, c_016, c_017).
 17 conflicts total in the KB, of which 10 are now resolved/likely_resolved/partially_resolved and 7
 remain genuinely unresolved (all two-documented-source disagreements, unaffected by this policy).
+
+---
+
+## Campaign 29: Priority-queue stale-entry cleanup + re-test of pre-fix-era blocked items
+
+**Date:** 2026-07-08
+**Trigger:** A status-dashboard review surfaced that several `blocked` queue items cited the
+egress-proxy 403 as their reason, but that block was fixed 2026-07-07 — those items had never been
+re-tried, and a few others looked resolved-but-mislabeled independent of the network question.
+
+### Bookkeeping-only fixes (already resolved elsewhere, never marked completed)
+- **p_148** (Pagé family) — `wiki/people/page-family.md` is a full four-generation E1-reviewed
+  article, 20 facts, 10 sources. Resolved in an earlier session; the priority just never got closed.
+- **p_149** (QAHN Shawbridge) — `src_qahn_shawbridge` in sources.json already shows `extracted: true`.
+- **p_183** (Kate Taylor / Marie-Pierre Lacasse tenures) — resolved in Campaign 24 (2026-07-07) once
+  ymcaquebec.org became reachable; directors-index.md already reflects it.
+- **p_189** (winter-programming) — the article already advanced past stub to R3-verified in an
+  earlier session; the blocking_reason predates that work.
+
+### Re-tested and actually re-run (genuinely still open, blocked on the now-fixed proxy)
+Six Internet Archive items, all confirmed reachable via direct WebFetch:
+- **Alfred Sandham, "History of the Montreal YMCA" (1873)** — full text covers only 1851-1860.
+  Genuine negative result: no camping/Kanawana content (organized camping didn't exist yet).
+- **YMCA of Montreal Annual Report, 1889-90** — same negative result; confirms D.A. Budge as
+  Secretary and Abner Kingman as incoming (1890-91) President, no Cushing in a top role that year.
+  (Consolidated into one fact, f_1776, alongside the Sandham result — same negative finding, same
+  "no camping pre-1894" conclusion.)
+- **Sir George Williams College Bulletin, September 1932** — genuine null, no Kanawana mention.
+- **YMCA news releases, 1965-04-27 and 1980-03-17** — both genuine nulls; unrelated administrative
+  announcements (a fundraising campaign; a Pointe-Saint-Charles community-centre reopening).
+- **YMCA of Montreal Annual Report, 1966-67** — this one had a real payoff. Previously flagged in
+  p_159 (2026-06-21) as "IS on Internet Archive but returns 403." Read in full this time: confirms
+  A. Ross Seaman's title as "Director of Camping"; gives 1966 season stats (73rd year of operation,
+  488 campers aged 7-17, 1,323 camper-weeks vs. 1,182 in 1965); documents a two-week, 45-staff
+  training program with Montreal YMCA Secretaries serving as section directors, plus an eight-week
+  CIT/Junior Counsellor program; and quotes Seaman describing the camp's philosophy as a
+  "participatory democracy" — campers planning their own activities rather than following a fixed
+  program. 5 new facts (f_1771-f_1775), folded into `wiki/people/a-ross-seaman.md` (open question #2
+  on his programming approach is now largely resolved).
+
+### KB / file changes
+- `kb/facts.json`: +6 facts (f_1771-f_1776). KB v4.99, 1,738 facts.
+- `sources/sources.json`: 6 sources flipped `extracted: false → true` with notes on findings
+  (562 total, unchanged — no new sources, just extraction of ones already on record).
+- `wiki/people/a-ross-seaman.md`: new paragraph in the Camp Kanawana section, open question #2
+  marked largely resolved, source 6 added, word count 725 → 891.
+- `wiki/articles.json`: a-ross-seaman's kb_facts_used, sources_cited, word_count, status_history
+  updated accordingly.
+- `queue/priorities.json`: 6 items marked completed (p_056, p_064, p_148, p_149, p_183, p_189);
+  p_159's stale "returns 403" note appended with a pointer to the successful re-fetch. Queue is now
+  161 completed / 28 blocked / 3 done / 1 exhausted-web (was 155 / 34 / 3 / 1).
+
+### Outcome
+
+6 new facts, 0 new sources (6 existing sources extracted), 0 new conflicts. No remaining blocked
+items reference the pre-2026-07-07 network policy as their sole blocker — the rest of the 28 are
+genuinely blocked on paywalls, physical archive access, or operator-only actions (oral history,
+personal contact, Facebook browsing).
+
+---
+
+## Campaign 30: Conflict re-verification + Zinner Noosphere thesis (autonomous session)
+
+**Date:** 2026-07-08
+**Trigger:** Operator stepped away and asked what could move the build forward unattended. With the
+priority queue's actionable items exhausted (Campaign 29), the remaining productive autonomous work
+was (a) hunting for tie-breaking sources on the 7 still-unresolved KB conflicts, and (b) re-testing
+a couple of previously-blocked leads on the theory that platform/network changes might have
+quietly unblocked them since they were last tried.
+
+### Conflict re-verification results
+
+- **c_001** (coeducation 1968 vs 1969): direct-fetched the live YMCA Quebec history page. It
+  currently states "1968 – Kanawana starts to welcome girl campers" as an official milestone
+  (f_1777). This closes a real KB bookkeeping gap — f_0201 (the 1968 fact) had only ever been
+  sourced to oral history (src_oral_aronson), even though the article prose already correctly
+  attributed 1968 to the YMCA website. Importantly, this does NOT resolve the conflict: it's
+  genuinely two documented institutional sources disagreeing with each other (the YMCA's own
+  history timeline says 1968; its own Kamp Kanawana Facts sheet says 1969), so the operator's
+  "oral history yields to documents" policy doesn't apply — both sides are documented. Remains
+  open for editorial judgment or further archival work (the Co-ed Camping Pilot Project records,
+  1967-1970, at Concordia could support a phased answer: 1968 pilot, 1969 full integration).
+- **c_003** (Taylor Statten's ACA presidency, 1941 vs 1942): RESOLVED. Re-fetched the ACA's own
+  presidents history page directly and had it list every entry 1938-1945 to check the table
+  structure precisely. Statten is listed under 1942; a separate 1941 entry belongs to Esther Waldo
+  of the YWCA. The original "1941" reading in the KB (f_0938) was a straightforward misextraction
+  of the same page, not a genuine second source — confirmed by finding a second KB fact (f_1277,
+  from an earlier websearch pass) that already had the correct 1942 date. Also discovered the
+  conflict record itself had a data-entry bug: it cited fact_id f_0892 as the "1942" corroborating
+  fact, but f_0892 is actually an unrelated Camp Ouareau team-names fact — a copy-paste error from
+  whenever c_003 was created. Corrected f_0938's claim text in place (noting the correction rather
+  than silently rewriting history), fixed the conflict's fact_ids, and updated
+  `wiki/people/taylor-statten.md` to 1942, removing the inline "logged as conflict c_003" caveat.
+- **c_008** (Camp Otoreke island count, two vs three): re-fetched both qahn.org and
+  baladodecouverte.com directly (both previously only reachable via search-snippet extraction).
+  Neither page's current text gave a clean, re-quotable exact island count or 1897 date in this
+  pass — QAHN says only "situated on several islands," and BaladoDecouverte's specific claim wasn't
+  found on the POI page checked (it may live on a different page within the same walking-tour
+  circuit). Logged the re-check; not resolved, and not worth further remote-research time without
+  first identifying which exact page the 1897/two-islands claim came from.
+- **c_012** (Lemuel Cushing Jr.'s YMCA presidency, 1867-68 vs 1869-70): LIKELY RESOLVED. Read the
+  1901 *Historical Sketch*'s full text directly (previously only partially quoted) and had it
+  extract the complete chronological presidents list. It runs ...1865-66 David Bentley, 1867-68
+  Lemuel Cushing, 1869-73 T. James Claxton... (f_1778) — internally consistent, no gap or overlap,
+  and it explicitly assigns 1869-73 to Claxton, not Cushing. The same document separately names
+  "Lemuel Cushing, jr." as president of a distinct, short-lived Point St. Charles branch YMCA
+  (f_1779) — a different office from the main organization. The 1869-1870 claim (Wikipedia, citing
+  Morgan's 1875 *Canadian Parliamentary Companion*) most plausibly conflates that branch
+  presidency with the main-organization role in a later secondary source, though this isn't fully
+  confirmed without reading Morgan's original 1875 entry directly. Updated
+  `wiki/people/cushing-family.md` throughout (summary, sons' table, main narrative, footnote 11).
+
+### Zinner's 1973 Noosphere thesis — finally read in full
+
+`p_166` had been blocked since 2026-06-22 on McGill eScholarship requiring authentication. A
+re-check found the platform had migrated wholesale to `mcgill.scholaris.ca` — the old URL now
+301-redirects there, and the thesis PDF downloads without any login. The file is a 176-page
+Adobe-Acrobat-OCR'd scan; `poppler-utils` (previously absent from the environment) was installed
+via `apt-get` to render and full-text-search it.
+
+Key findings, all new to the KB:
+- **Actual attendance**: 46 participants aged 15–20 (not the ~100 aged 16–19 reported by *Le
+  Soleil* on July 7, 1971, three weeks before the event started). The thesis itself explains the
+  gap: organizers "had hoped to attract nearly double the number of participants that were in fact
+  engaged" — meaning the ~100 figure was a recruitment target, not a final headcount. Clean
+  reconciliation, no real contradiction (f_1780).
+- **Organizers**: the "Noosphere Committee," funded by the federal "Opportunities for Youth" grant;
+  Pierre Devrud as co-author of the scenario and game master; Professor Harold M. Waller (McGill
+  Political Science) as Zinner's thesis adviser (f_1783).
+- **Structure**: three villages by language — English ("Cannabis," 12 people, in an electrified
+  farmhouse with kitchen and plumbing), Bilingual ("Slide dans Slutch," 17 people, tents on
+  platforms), French ("Triquenimo," 16 people, named from Trois-Rivières/Québec/Nicolet/Montreal —
+  the home regions of its members — in ground tents with the crudest facilities) (f_1782). The
+  farmhouse-plus-tents mix matches Front Camp's documented Farmhouse.
+- **Chronology**: game began Sunday, August 22, 1971; a staged in-game "coup" on August 27 saw a
+  capitalist faction in the English village kill six opposing members (via coloured water pistols)
+  and co-opt the lone neutral holdout, reversing an earlier village vote to abolish money — the
+  central turning point of the two-week scenario (f_1784).
+- **Venue never named**: a full-text search across all 176 pages for "Kanawana," "YMCA,"
+  "Saint-Sauveur," and "Shawbridge" returned zero hits. Zinner describes the venue only as "a
+  summer camp...in the Laurentian Mountains near Montreal," rented for three weeks. The Kanawana
+  identification for this event rests entirely on the newspaper coverage, not on the thesis itself
+  — worth stating plainly rather than leaving implicit (f_1781).
+
+Also fixed a small standing bug while in the article: `wiki/programs/programs-activities.md`'s
+header cited a source_id (`src_zinner_thesis_1973`) that was never actually created as a source
+record — a dangling reference, presumably left over from an early draft before the real record
+(`src_mcgill_escholarship_zinner`) was registered. Corrected to the real id.
+
+Re-tested the University of Minnesota Kautz Family YMCA Archives (`p_061`/`p_164`) on the same
+theory — still a genuine site-side 403, unrelated to the egress-proxy fix. No change; remains
+accurately blocked.
+
+### Outcome
+
+16 new facts (f_1777–f_1784, plus 6 already logged in Campaign 29 for a running total of 22 new
+facts today), 0 new sources (2 existing sources — the ACA presidents page and the Zinner thesis —
+fully (re-)extracted). 2 conflicts resolved/likely-resolved (c_003, c_012), 1 clarified without
+resolving (c_001), 1 re-checked without progress (c_008). KB v4.99, 1,746 facts. `p_166` and
+`p_167` marked completed in `queue/priorities.json`.
+
+---
+
+## Campaign 31: Systematic open-questions pass — directors-index.md and places-and-locations.md
+
+**Date:** 2026-07-09
+**Trigger:** The user asked to systematically work through the wiki's open questions. Given the
+scale (260 still-open entries across 50 articles), the approach agreed was to start with the two
+richest single-article backlogs — `people/directors-index.md` (11 open) and
+`places/places-and-locations.md` (12 open) — using sequential batches of parallel research agents,
+integrated by hand, then check in before continuing further.
+
+### Batch 1 — directors-index.md
+
+Five parallel research agents plus one dedicated verification agent:
+
+- **Ralph Dawson's role**: downloaded and full-text-searched McMorris's actual thesis PDF for the
+  first time (the KB's cache had only ever held the Spectrum repository's landing page, never the
+  129-page document itself). She characterizes him as "an alumnus" — her own inference, not a
+  self-identification, but the first real lean this question has had.
+- **Lemuel Ereaux / Paterson-Davis 1923**: re-reading the 1921 and 1922 brochures together shows
+  Ereaux's only *documented* directorship year is 1922 (Brandon held 1921); "eleven summers" in the
+  1922 brochure was a misreading — it describes his cumulative camp experience, not directorship
+  tenure. The 1923 brochure separately titles L.P. Little "Assistant Chief of the Junior Division,"
+  showing "Chief" wasn't an exclusive top-job title that year.
+- **François Dauphin**: 22 queries across 6+ surfaces (LinkedIn, Facebook, French/English news,
+  obituary/genealogy databases, business-intelligence aggregators) — genuinely exhausted except one
+  unconfirmed LinkedIn profile (name/city/org match, but login-walled and no Kanawana-specific
+  detail).
+- **Matt/Laurie/Manuel plaque names**: full-resolution re-examination of the 2003 JBC plaque
+  confirms it genuinely never recorded surnames for "Matt"/"Laurie" (not an illegibility problem).
+  The 2000 CIT plaque's obscured signature, re-cropped and contrast-enhanced, plausibly reads
+  "Manuel Quiroga" — corroborated by an outdoor-guiding company's bio for an Argentine guide who
+  "worked as a Canoe Guide and Program Director at YMCA Camp Kanawana" 1998-2000.
+- **c_015/c_016/c_017 quick re-check**: this is the one that mattered most. A targeted re-test via
+  the Wayback Machine CDX API (`curl` over `https://`, since `WebFetch` and `http://` curl both
+  refuse `web.archive.org` in this environment) found that `ymcakanawana.com`'s contact page *is*
+  archived back to December 2005 — contradicting the prior campaign's premise that no snapshot
+  existed before 2009. Every 2005-2007 snapshot names Sean Day as director, with zero mention of
+  François Dauphin. This directly conflicts with the 2007 Montreal YMCA annual report (which names
+  Dauphin), which had been used to "resolve" conflict c_017 in Campaign 28 under the
+  "documented-sources-win" policy. **Independently re-verified by a second agent** before acting on
+  it, given the significance of reversing a prior resolution. Conclusion: this is now a genuine
+  two-documented-source disagreement (the camp's own website vs. the annual report's internal org
+  chart) — not oral-history-vs-document — so the standing policy doesn't apply. **c_017 reopened**
+  as unresolved; `sean-day.md` and `directors-index.md` corrected to present both dates rather than
+  asserting 2008. The most likely reconciliation (unconfirmed): the two sources may simply track
+  different titles/roles.
+
+### Interlude — two operator-provided leads
+
+Mid-session the operator shared two URLs directly:
+1. **Concordia Archives P145/12B03** (Land, facilities, equipment, supplies) — a finding-aid page
+   listing Kanawana land-purchase records (1910-1927, and separately 1960-1961 for the "Pagé
+   farm"), 1915 property sketches, and building blueprints including the **Millen Memorial Craft
+   Shop's 1960 dedication** — a genuinely new building name/date.
+2. The **current (2025) Camp YMCA Kanawana Preparation Guide** — a 43-page parent handbook with a
+   detailed, current official site map. Rendered via `pdftoppm` (poppler-utils, already installed
+   in Campaign 30) and transcribed in full: 8 numbered camp zones, a near-complete current cabin
+   inventory (including a cabin literally named **"Chopsy's"** — the only institutional trace of
+   the Chopsy legend found anywhere outside oral history), and confirmation that "B.O." means
+   Business Office and "P.O." means Program Office (correcting an assumption from the older map).
+
+### Batch 2 — places-and-locations.md
+
+Map cataloguing (done directly, not delegated) plus four parallel research agents:
+
+- **Direct map cataloguing**: cropped and zoomed into the already-in-repo 1941 (3 copies) and
+  1980-2001 maps. Confirmed Golf Course, Lacrosse Field, Camp Cliff, Indian Grave, and "Mountain
+  House" on the 1941 map; Chief's, Lodge, Bunkhouse, Farm House, Block House, Sanctuary, Softball
+  Diamond, Car Wash on the 1980-2001 map.
+- **Farmhouse origins**: McMorris's full thesis PDF (again, never fully read before) states the
+  "Pagé farm" — "the building just outside the camp gate" — was purchased separately in 1960-1961,
+  "in order to assure Kanawana many years of camping on the site without cottage country
+  encroaching," corroborated by a distinct Concordia finding-aid file. Plausibly (not confirmed)
+  the same building as today's "Farmhouse," given its farmhouse-and-barn pairing at the property's
+  edge on later maps.
+- **CCA drawings / historical maps**: confirmed the CCA architectural-drawings finding is already
+  complete from an earlier campaign. But re-reading the Concordia P145/12B03 finding aid surfaced
+  new blueprint items (1940 sleeping-cabin drawing, 1945 eight-boy-cabin blueprint, 1952 "proposed
+  craft shop" blueprint — predating the Craft Shop's 1960 dedication by 8 years — plus undated
+  Lodge and dock drawings).
+- **The big find**: McMorris's thesis doesn't just describe the 1928 and 1962 camp maps in prose —
+  it **reproduces them as full-page figures**, citing their archival home as P145/12B07 ("Maps of
+  Kanawana n.d."), not 12B03 as assumed. Downloaded the actual PDF and viewed the map images
+  directly. Both maps explicitly draw and label a "**HAUNTED HOUSE**" building at the same spot —
+  the property's southwest corner, next to a waterfall ("Falls"), near Round Lake — confirming it
+  as a real, persistently-located building rather than a figure of speech, and resolving *where* a
+  question marked "genuinely exhausted" earlier in this same session actually points. The 1928 map
+  also independently confirms the "Indian Grave" location already found via the 1941 map, and shows
+  Golf Course and Lacrosse Field both present in 1928 but **absent from the 1962 map** — narrowing
+  the golf course's decommissioning window to 1941-1962. New names surfaced: Farewell Rock,
+  Parliament Rock, Frenchie Camp, Craft House (1928); a numbered legend reading Craftshop, Lodge,
+  **Long House**, Dining Hall, Business Office, Chief's Cabin, Pump House, Windward Ho!, Sanctan,
+  plus Snowshoe Lake and Look Out (1962). "Long House" is a plausible, unconfirmed candidate for the
+  same building already documented as demolished by fire c. 1979.
+- **Plaque-photo mining**: checked all 151 plaque images for building-history content (versus the
+  director/counsellor rosters most of them actually are) — genuinely exhausted for this purpose,
+  no new building facts, though one low-confidence tangential lead surfaced (a weathered "Wizard of
+  Oz Day" trophy plaque, structurally parallel to the already-documented Western Day/Viking Day
+  plaques).
+- **Haunted house cross-check**: independently confirmed the question was already properly
+  exhausted for its *legend content* (a June 2026 web campaign and a direct 2026-06-13 oral-history
+  question both came up empty) — before the map images above resolved its *location*.
+
+### KB / file changes
+
+- `kb/facts.json`: kb_version v4.99 → **v5.00**, +~65 new facts across both batches (1712 → 1776).
+- `sources/sources.json`: 566 sources (+3: `src_concordia_12B03`, `src_pureexploration_manuel_quiroga`,
+  `src_ymcakanawana_com_wayback_2005_2007`, `src_kk_prep_guide_2025` — existing McMorris and Ross &
+  Macdonald source records updated with notes on the full-PDF re-extraction).
+- `assets/images/maps/`: 3 new images (1928 map, 1962 map, current 2025 map), all credited in
+  `credits.json`.
+- Six wiki articles updated: `directors-index.md`, `ralph-dawson.md`, `sean-day.md`,
+  `places-and-locations.md`, `myths-and-legends.md`, `page-family.md`.
+- `queue/priorities.json`: `p_051` marked completed (a stale bundle — Grand Portage/Longhouse were
+  already resolved in an earlier session but never closed out; the cabin-inventory and
+  building-history parts are now substantially resolved by the map research above, without needing
+  oral history at all for the *identification* — only the deeper *stories* behind these places
+  still route to oral history).
+
+### Outcome
+
+~65 new facts, 4 new sources, 0 new conflicts (1 reopened: c_017). Two articles' open-question
+backlogs substantially cleared: directors-index.md (6 of 11 open items resolved/advanced) and
+places-and-locations.md (7 of 12 open items resolved/advanced, including one full resolution of a
+question previously marked "exhausted" earlier in the very same session — a reminder that
+"exhausted" should mean "exhausted for the surfaces tried," not "exhausted absolutely," since a
+single new source (the thesis's embedded map images) overturned it within the hour.
+
+---
+
+## Campaign 32: Phase 2 Broad-Net General Search Sweep (autonomous, prompted by an operator observation)
+
+**Date:** 2026-07-09
+**Trigger:** The operator found the current site map and Concordia P145/12B03 finding aid via simple
+generic Google searches ("map Kanawana") that this project's prior, more targeted, question-driven
+research had missed. The operator asked for "extremely broad searches across the internet for
+general topics related to Kanawana." Agreed approach: run a broad-net sweep first, then resume the
+article-by-article open-questions plan.
+
+**Six parallel agents launched, each covering a distinct surface, deliberately NOT tied to any
+specific open question:**
+
+1. **Site-crawl** — direct crawl of ymcaquebec.org's Kanawana document folders plus a Wayback CDX
+   scan of the camp's predecessor domains (ymcakanawana.com/.ca).
+2. **News/media** — generic French and English news-coverage queries across all eras, with emphasis
+   on 2020-2026 (previously under-covered).
+3. **Social media and public reviews** — Reddit, Yelp, TripAdvisor, CampRatingz, Park Slope Parents,
+   Instagram, TikTok, X/Twitter, Facebook, YouTube.
+4. **Academic/institutional** — citation checks on the McMorris thesis, Quebec heritage registries,
+   Concordia event pages, parallel Ontario-camp historiography.
+5. **Job postings and municipal records** — Indeed/Glassdoor/Jobillico/Isarta job listings; Quebec
+   heritage registry (RPCQ), municipal council records, property/tax-roll lookups.
+6. **Images/video** — Flickr, YouTube, Google Images, Library and Archives Canada, McCord Museum.
+
+### Key findings
+
+- **Site-crawl (biggest single haul)**: found the June 2026 current parent guide (superseding the
+  2025/January-2026 versions), plus — via a Wayback CDX scan of the predecessor `ymcakanawana.com`/
+  `.ca` domains — a cache of ~20 historical documents 2005-2015 not previously in the KB. Deep-read
+  two of these directly: the full bilingual **"Serment du campeur / Camper's Oath"** (2010, 2013
+  versions, tied to the motto Non Nobis Solum) and **"Reportage vécu" (2007)**, a testimonial by
+  **Rob Braide** (President, Standard Broadcasting Corporation / CHOM / MIX 96 / CJAD; camper 9
+  summers; 1967 age-14 canoe trip retracing the Deep River-Ottawa fur-trade route) — new
+  notable-alumnus stub created. Also surfaced: a 2006 staff-application form listing
+  `sean.day@ymcamontreal.qc.ca` as contact (contextual evidence, not resolution, for conflict c_017),
+  and 2005 parent-handbook document metadata "aboyer" (an unconfirmed lead for Arleen Boyer, outside
+  her documented 1995-2000 tenure window). The remaining ~15 lower-priority documents (packing lists,
+  maps-to-camp, payment/registration forms, French parent guides 2010-2014) were catalogued but not
+  deep-extracted — flagged as future work (p_197 covers the one directly relevant retry; the rest
+  are logged in `src_ymcakanawana_predecessor_domain_cache`'s notes).
+- **News/media**: found the Ville de Saint-Sauveur's annual "Journée plein air" (Outdoor Day)
+  municipal-partnership event at the camp (2023 edition documented); a minor 2025 Journal Accès
+  day-camp advertorial (mostly duplicate of already-known facts, not separately extracted); confirmed
+  no dedicated Wikipedia article exists for the camp. CampRatingz.com and Park Slope Parents review
+  platforms newly catalogued (see below). Radio-Canada/other candidate news hits were checked and
+  ruled out as unrelated (different camp incidents, unrelated day-camp regulatory stories).
+- **Social media**: confirmed the official Flickr account has **~26 uncatalogued albums** (thousands
+  of photos, c. 2009-2013) beyond the single "Plaque" album already mined — the single largest
+  untapped source found this campaign, flagged for an operator scoping decision (p_195) given the
+  volume. Found the "Live a Lot" closing-ceremony song (performed by Sean Day) and an official
+  "Camp YMCA Kanawana Stands with Trans Campers" Facebook statement (added to
+  `coeducation-gender.md`). Flagged, but did NOT integrate as fact, an anonymous 2012 CampRatingz
+  review alleging safety/medication lapses — unverified, anonymous, user-generated; routed to
+  human review (p_194) per operator-review norms for sensitive content.
+- **Academic/institutional**: found a Répertoire du patrimoine culturel du Québec (Quebec government
+  heritage registry) entry directly naming and dating Camp Kanawana's 1894 founding (id 8364) — ruled
+  out a similarly-named "Chapelle du Camp Canawish" (id 235860) as an unrelated Rivière-Ouelle chapel,
+  a name-similarity false lead not to be re-investigated. Also found Olivier Charron (1830-1902), a
+  pre-camp landowner at "Lac Kanawana" from 1887 — on the same already-cached VSS pioneer-families
+  page previously mined only for the Pagé family — and a minor biographical note that thesis author
+  Grace McMorris is now affiliated with Historica Canada.
+- **Job postings/municipal**: found a current "Companion" one-on-one inclusion-support staff role and
+  a "Director, Outdoor Education Centre Kanawana" job title (the latter unverified beyond a search
+  snippet, flagged p_198); confirmed the RPCQ's only Saint-Sauveur-area heritage site
+  ("Site du patrimoine de Saint-Sauveur-des-Monts," id 93576) does NOT include Kanawana — a genuine,
+  now-closed null; Mille-Isles/MRC Argenteuil property-tax lookups could not be completed via search
+  alone (form-based, not indexed).
+- **Images/video**: (reported earlier in session) confirmed the Flickr album count above.
+
+### Integration
+
+All four fully-reported sweeps plus the site-crawl were integrated in one pass: 14 new facts
+(f_1815-f_1828), 14 new source records, 6 wiki articles updated (`founding-1894.md`,
+`coeducation-gender.md`, `camp-songs-cheers.md`, `programs-activities.md`,
+`traditions-and-culture.md`, `directors-index.md`), one new stub article (`rob-braide.md`), and 5 new
+priority-queue items for flagged/deferred leads (p_194-p_198). No conflicts were newly created; the
+CampRatingz safety allegation was deliberately NOT converted into a KB fact (see p_194).
+
+### Queries and surfaces (see individual agent reports for full per-query logs; summarized here to
+avoid re-running this ground)
+
+Both French and English generic queries were run across Google web search, Google News, Wikipedia,
+Reddit, Yelp/TripAdvisor/CampRatingz/Park Slope Parents, Instagram/TikTok/X/Facebook/YouTube, Indeed/
+Glassdoor/Jobillico/Isarta/Dayforce, the Répertoire du patrimoine culturel du Québec, Mille-Isles/
+Saint-Sauveur/MRC Pays-d'en-Haut municipal sites, and a direct crawl + Wayback CDX scan of
+ymcaquebec.org and its predecessor domains. Confirmed null/exhausted for this pass: Reddit (5 queries,
+zero hits), TripAdvisor (no listing), Mille-Isles council minutes (no Kanawana mentions), CPTAQ/
+certificat d'autorisation/environmental-permit records (none found), Dayforce candidate portal
+(JS-rendered shell, not fetchable).
+
+### Outcome
+
+14 new facts, 14 new sources, 1 new stub article (Rob Braide), 6 wiki articles updated, 5 new
+priority items (1 flagged for human review — p_194 — and 4 for future research/verification). KB
+v5.00 → **v5.02**. The Phase 2 broad-sweep mandate is judged substantially executed for this pass;
+the biggest remaining lead (the ~26 uncatalogued Flickr albums) awaits an operator scoping decision
+before further mining.
+
+---
+
+## Campaign 33: Article-by-Article Open-Questions Pass, Tier 2 (Billy Ball, Camp Otoreke, Camp Becsies, cross-cutting programs/coeducation)
+
+**Date:** 2026-07-09
+**Context:** Resuming the systematic article-by-article open-questions plan (Campaign 31 covered
+directors-index.md and places-and-locations.md) after the Phase 2 broad-sweep campaign, per the
+operator's "both, broad sweep first" instruction. This batch targeted the next tier: billy-ball.md,
+camp-otoreke.md, camp-becsies.md, and cross-cutting questions spanning programs-activities.md and
+coeducation-gender.md. A `sources-index.md` reconciliation (stale stats, 3 resolved questions) was
+done directly beforehand, not delegated.
+
+### Billy Ball — major breakthrough
+
+A formal RALPH pass (23 queries) discovered a 165-item digitized Montreal YMCA Annual Report
+collection on Internet Archive, not previously catalogued in this KB. Three independent primary
+sources now strongly corroborate "Billy Ball" as **William Henry Ball**, the YMCA of Montreal's
+Physical Director: the 1890-91 report (hiring, Yonkers origin, Springfield School graduate), reports
+1892-1900 (confirmed tenure spanning the 1894 founding), the 1902 report (resignation to the Prospect
+Park Branch, Brooklyn — matching his already-documented national career), and Lovell's Montreal
+Directory 1893-94 (independent, non-YMCA corroboration). Two honest caveats were preserved rather than
+smoothed over: no period document uses the "Billy" nickname, and no document credits him personally
+with leading the 1894 trip (a separate volunteer chairman, "John W. Ross," is named instead — possibly
+the same person as the already-documented "John Roy," a new open disambiguation question). Article
+confidence upgraded low → medium; 4 of 7 open questions resolved or largely resolved.
+
+### Camp Otoreke
+
+22 queries across 10+ surfaces. Confirmed the 1982 closure reason is a genuine dead end for online
+sources (would require a physical Concordia Archives visit, sub-series 12C). Re-mined an
+already-cited source (BaladoDecouverte) for unextracted detail (Victor Bergeron, log cabin, Bergin &
+Corbeil General Store). Found and cautiously flagged (explicit low-reliability caveat, not treated as
+confirmed) a self-published alumni blog suggesting informal post-closure private ownership and a
+1940s-1960s director sequence — none of these staff names are independently corroborated, so no stub
+articles were created for them, per CLAUDE.md's formal-RALPH requirement.
+
+### Camp Becsies — strong primary-source corroboration
+
+Downloaded and full-text-searched 30 years of digitized YMCA of Montreal Annual Reports (1929-1962).
+Found that Becsies began as Kanawana's own overflow/annex site (1929), that the Protestant Orphans'
+Home equipment loan spans four consecutive seasons (1933-1936, not just two as previously recorded),
+and that the 1934 and 1937 reports name Kanawana's own Camp Directors that era (W.H. Spearman;
+W.J.G. Macdiarmid) — independently corroborating Macdiarmid's already-documented tenure in
+directors-index.md. A comprehensive 21-year null check (1938-1962) confirms the 1936 end-date while
+ruling out simple Depression-driven cost-cutting as the explanation (Kanawana itself had record
+attendance the very next season). Property-divestment date and photograph content remain confirmed
+dead ends for online sources (JS-challenge-blocked archive page, no cadastral records found).
+
+### Cross-cutting programs/coeducation questions
+
+Resolved the "Kanawana Outing Club" (a distinct winter hiking/trail program, [197-]-1979) via direct
+Concordia finding-aid fetches, plus earlier winter-camping precedents (1945-1947, 1961) and a 1969
+"working paper on year-round use" predating the 1996 launch by 27 years. Found that Grace McMorris's
+own thesis explicitly declines to cover how coeducation affected the L&V Games — a documented
+non-answer in the existing academic literature, not merely unresearched. Corrected a stale KB
+inference (f_1366): Camp Thunderbird is now dated 1942-1943 via a specific finding-aid item, not "the
+mid-1970s" as previously guessed; the Wilderness Survival Camp's window is sharpened to 1973-1975.
+
+### Integration
+
+24 new facts (f_1829-f_1852) plus one in-place correction to a previously-hedged fact (f_1366), 12
+new source records, 6 wiki articles updated (billy-ball.md, camp-otoreke.md, camp-becsies.md,
+programs-activities.md, coeducation-gender.md, directors-index.md cross-link). KB v5.02 → v5.03. Also
+fixed a pre-existing data-quality bug in wiki/articles.json (camp-becsies' `sources_cited` field held
+a bare integer instead of a source-ID list).
+
+### Outcome
+
+Across the three place/person articles and the cross-cutting cluster, roughly 14 of ~30 targeted open
+questions were resolved, largely resolved, or confirmed as genuine (not merely unindexed) dead ends.
+Two low-confidence leads (Otoreke's post-closure ownership/director sequence) were deliberately not
+promoted to confident fact status, consistent with this project's handling of unverified
+single-source claims.
+
+---
+
+## Campaign 34: Article-by-Article Open-Questions Pass, Batch 4 (six research clusters)
+
+**Date:** 2026-07-09
+**Context:** Continuing the systematic article-by-article open-questions plan after a fresh
+Explore-agent inventory ranked all remaining wiki articles by unresolved open-question count and
+web-tractability. Six parallel research agents covered: Camp Oolahwan; centennial-1994.md +
+winter-programming.md; J.W. McConnell + Lake Wilson; Hedley Dimock + Pip Alumni Award; Canadian
+Camping Movement + L&V Games; Notable Alumni + Stuart McLean/Kanawana in Media.
+
+### Camp Oolahwan
+
+Trent University's Mary Edgar fonds finding aid substantially expanded her biography (parents,
+education sequence, a 1912-1914 pre-Oolahwan YWCA role, a 1920 Japan posting, and confirmation she
+purchased the Lake Bernard property in 1920, two years before Glen Bernard Camp opened — plus a
+corrected bibliography of four books, not one). A full-text extraction of Grace McMorris's thesis
+resolved several open questions at once: Kanawana-Oolahwan contact was recurring through the 1940s,
+not a single 1946 event, precisely dated to "17 July 1946"; a previously undocumented "Junior League
+Camp" (Griffintown, founded 1921) also had contact with Kanawana (a 1943 counsellor social visit); and
+a 1970s Oolahwan photograph shows girls in "Indian" costumes, evidencing a shared "playing Indian"
+tradition. The Junior League research surfaced a genuine conflict: the McCord Museum's own fonds
+description claims Camp Amy Molson "carries on" the Junior League's mission, contradicting Camp Amy
+Molson's own official 1944-founding history under a different organization — logged as **conflict
+c_018**, flagged for human review, not auto-resolved. A newly-found Library and Archives Canada series
+("Camp Oolahwan committee minutes... 1916-1974") is a strong, not-yet-accessed lead for capacity/
+director questions (priority p_199). The OurOntario 109-page Mary Edgar paper remains a confirmed
+automated-access dead end (Cloudflare bot-challenge blocks every tool tried).
+
+### Centennial 1994 / Winter Programming
+
+Extending the annual-report Wayback-Machine technique (proven for Camp Becsies and
+environmental-history.md) resolved centennial-1994.md's central open question: the 1994 Annual
+Report directly states the centennial took the form of a 200+-attendee Labor Day weekend alumni
+reunion. A related, easily-confused event was disambiguated: the 1989 Annual Report describes a
+separate "Centenary of YMCA Camping in Canada" (1889-1989, a national relay-campfire event), distinct
+from Kanawana's own 1994 centennial and its own 1989 "95 years of sharing" reunion — three similar
+events in a few years, now clearly distinguished. The same reports yielded 1988-90 committee/staffing
+detail (Derek Walsh on the 1988-89 committee; Jay Netherwood as "Supervisor" under Bruce Netherwood's
+directorship). For winter-programming.md, precise dating was found for the previously
+broadly-dated "1970s" Winter Outdoor Family Camping program: a 1971-72 ski tow, then a fully-described
+1972-73 season (ski lift, groomed slopes, cross-country trails, all-ages courses, babysitting). A 1996
+"first non-summer-camper group" fact (50 Korean students) was reconciled as a distinct in-season
+milestone from the separately-sourced "year-round residential programming" claim, not proof of the
+same thing.
+
+### J.W. McConnell / Lake Wilson
+
+A full-text extraction of the McMorris thesis conclusively closed one long-open lead: zero mentions of
+"McConnell" and only two trivial "Wilson" mentions (listing the camp's two lakes) exist anywhere in
+the 129-page document. Three additional Quebec "Lac Wilson" toponymy entries were found, three of four
+comparable cases nationwide naming the lake after a landowning Wilson family — mild, non-conclusive
+support for the settler-family hypothesis over the McConnell-son hypothesis. The Fong biography's
+search-inside function was confirmed blocked (HTTP 403, print-disabled status), and Dawson
+1933/Charlton 1943's box locations were confirmed but their content remains archive-only.
+
+### Hedley Dimock / Pip Alumni Award
+
+Dimock's two "published" 1961 studies turned out to be unpublished internal YMCA administrative
+reports (Concordia Box HA2323) — explaining their total absence from JSTOR/Scholar/HathiTrust/ERIC — and
+a previously-undocumented third 1970 report extends his Kanawana-linked research by a decade. The
+McMorris thesis was confirmed to have zero Dimock mentions. The ACA's Hedley S. Dimock Award recipient
+list was extended with high confidence through 2026. Separately, two specific candidate names for the
+2019 Pip Alumni Award recipient ("Dr. Amy Ornstein," "David Bryfman") were investigated and explicitly
+**debunked** — neither has any connection to Kanawana — rather than left as unconfirmed leads that
+might resurface.
+
+### Canadian Camping Movement / L&V Games
+
+The OCA's 1940 Kanawana file was pinned to an exact box/folder (still content-inaccessible online).
+Derek Walsh's biography was reconfirmed exhausted after 9 more queries, though new corroborating
+committee context surfaced via the centennial-1994 research. For lv-games.md, a genuine correction was
+made: Camp Hayo-Went-Ha's "Woodsmen"/"Voyageurs" are age-based program *levels*, not a Color-War-style
+competing team pair as this KB previously implied — the naming parallel is real, the competitive
+structure is not. Camp Pine Crest's own Lumbermen-Voyageur Games are independently confirmed to have
+started in 1940 (not earlier, despite 1896-era Broadview Boys' Institute camp lineage), and the
+broader genre traces to a 1916 "Red and Gray Week" at an Adirondacks Jewish boys' camp — useful
+comparative context on how derivative Kanawana's 1947 adoption was. The long-standing "La Vérendrye
+connection" open question resolved as coincidental branding: the modern Kanawana canoe-trip program
+reuses "Voyageurs" separately from the historical L&V team of the same name, with no institutional
+link found.
+
+### Notable Alumni / Stuart McLean / Kanawana in Media
+
+An 18-query, 7-surface sweep for additional notable alumni reconfirmed the existing list as genuinely
+saturated for the public web — no new names. The Stuart McLean research was far more productive: a
+direct curl fetch (browser user-agent) retrieved the full 983-line McMaster finding aid, which
+archives.mcmaster.ca itself now blocks — surfacing 8 previously undocumented camp-related archival
+items (address lists, dried flowers, decals, a 1969 YMCA membership card, 1976 correspondence, a 2008
+NAYDO philanthropy-conference keynote appearance, and leads on both his John Island Alumni Newsletter
+speech and a 1974 canoeing-instructor course), plus confirming zero camp photos exist in that
+particular fonds. A citable YouTube URL was found for the already-documented 1960s silent Kanawana
+film.
+
+### Integration
+
+47 new KB facts (f_1853-f_1899, with one gap at f_1860 filled by the conflict fact), 1 new conflict
+record (c_018), 18 new source records, 12 wiki articles updated (camp-oolahwan.md,
+centennial-1994.md, winter-programming.md, j-w-mcconnell.md, lake-wilson.md, hedley-dimock.md,
+pip-alumni-award.md, canadian-camping-movement.md, lv-games.md, notable-alumni.md, stuart-mclean.md,
+kanawana-in-media.md). KB v5.03 -> v5.04. Also corrected a stale, over-confident inference (f_1366,
+Camp Thunderbird/Wilderness Survival Camp dating) discovered incidentally by the earlier Campaign 33
+batch but only now cross-referenced against this batch's findings.
+
+### Outcome
+
+Across the six clusters, roughly 25-30 of the targeted open questions were resolved, largely
+resolved, or confirmed as genuine dead ends; two false leads were explicitly debunked rather than left
+ambiguous (Pip Award 2019 candidates); one new institutional conflict was logged for human review
+(c_018) rather than silently adjudicated; and one prior KB over-inference was corrected with primary
+sourcing (Camp Thunderbird). Four new priority-queue items track the remaining actionable leads
+(LAC YWCA fonds ingestion, the c_018 conflict, a local-PDF-extraction retry for the McMorris thesis,
+and manual Flickr/Facebook photo browsing for L&V Games).
+
+## Campaign 35 — Batch 5: Open-Questions Pass, Tier 5 (2026-07-09)
+
+Six parallel research clusters, continuing the article-by-article open-questions plan into a fifth
+tier following the operator's repeated "keep going" instruction.
+
+### 1967 Centennial / Voyageur Canoe Pageant
+
+The Expo 67 canoe-tripping-program lead (Concordia P0145/13E, Box HA1930) was checked directly and
+does not confirm any Kanawana-Expo67 connection. A Yves St-Pierre 1970 Napierville marriage record
+offers weak, non-confirming corroboration for an existing lead (marked disputed rather than stated).
+Concordia's 12B01/12B04 sub-series were ruled out as locations for the missing 1967 Centenary Journey
+participant roster. The agent assigned to this cluster reported that both WebFetch and a jina.ai
+reader proxy failed (401) when attempting to extract the McMorris thesis PDF's text for this specific
+question — inconsistent with several other agents in this same session who successfully extracted the
+same thesis's full text via local `pdftotext`. This is logged as a tooling-retry priority (p_203), not
+a confirmed dead end.
+
+### SGW-Concordia Connection / Canoe Trips / Lac Landron
+
+The Georgian (SGW's student newspaper, 200+ issues 1936-37/1962-70) and the McGill Daily/Le Délit
+(9,868 issues, 1911-2001) are both confirmed digitized on Internet Archive. A positive-control
+methodology test — searching Internet Archive's `advancedsearch.php?q=text:...` API for "Computer
+Riot," a topic The Georgian covered extensively in 1969 — returned zero results, proving this API does
+not perform true full-text OCR search across these newspaper collections; only a human using the
+browser-based search-inside feature can search them properly. This is an important standing caveat for
+any future newspaper-archive research in this project. On the geography side: Lac Landron sits within
+Zec Capitachouane in the La Vérendrye Wildlife Reserve (est. 1939, renamed 1950), and canoe-camping
+administration passed from the reserve directly to the FQCC (1993) and then fully to SEPAQ (~2022) —
+circumstantial evidence (not proof) that Kanawana's 1962-63 YMCA lease has since lapsed. No direct
+Ouareau-Kanawana visit was found; the Jamieson title dispute remains unresolved.
+
+### Camp Ouareau / Cushing Family
+
+The most significant single finding of this batch: Walter Edgar Cushing, previously identified in this
+wiki as the likely author of a 1943 "W.E. Cushing" manuscript, in fact died on January 13, 1935 — eight
+years before the manuscript's stated date. This directly contradicts the existing identification and
+has been logged as conflict c_019 (unresolved; genuinely documented-vs-documented, not an
+oral-history-vs-document case, so it does not auto-resolve under CLAUDE.md's standing policy). A full
+read of both the McMorris thesis and the complete FamilySearch Cushing genealogy supplement (240 pages)
+found zero "Cushing"+"1892" mentions that would help disambiguate. Harold Beveridge Cushing's exact
+death date (October 31, 1947) was separately confirmed.
+
+### D.A. Budge / A. Ross Seaman / Taylor Statten
+
+D.A. Budge's exact death date is now confirmed as February 13, 1933. A new Concordia lead (13D, Joyce
+Oliver's 1939-40 "Book of Remembrance" project) holds unread "research reports on D.A. Budge." A. Ross
+Seaman's biographical gaps and his director-successor question were both re-confirmed as genuine dead
+ends requiring paid or physical archive access, not further web search. The Taylor Statten cluster
+produced a major breakthrough: Donald Burry's 1985 MA thesis (University of Saskatchewan), drawing on
+1984 family interviews, gives Statten's full birth name ("Emerson Taylor Israel Statten"), precise
+career dates (YMCA 1902; Secretary of Boys' Work May 1, 1905-1911), a previously undocumented
+precursor camp ("Camp Tuxis," closed August 1920) before Ahmek's 1921 founding, and his exact death
+date (November 1, 1956). A full-text grep of the 178-page thesis found zero "Kanawana" or "Naismith"
+mentions. The thesis also surfaces a new three-way conflict (c_020) on the Ontario Camping
+Association's founding date: 1933 per the OCA's own website; 1930 organizing/1938 first presidency per
+a Northway interview cited in Burry; and 1933 (doubted by Burry himself, flagged "(sic)") per a Plewman
+tribute essay. All three sources are documents, so this requires editorial judgment rather than
+auto-resolution.
+
+### Joanna Hoad / Dave Twynam / Terry Mosher
+
+A third independent research pass on Joanna Hoad's post-LCC life (21 queries, including a Wayback CDX
+query not used in the prior two passes) confirmed it is genuinely exhausted for online sources; a
+light VERIFY pass cross-checked her documented dates against directors-index.md's Two-Tier Era table,
+and the article was advanced from draft to R3-verified. Dave Twynam's 1979 Kanawana directorship date
+was further corroborated via a full raw (not search-snippet) fetch of Concordia's 12B01 finding aid,
+which shows exactly one Twynam entry with no separate 1976 entry anywhere in the list; a further
+co-publication (Twynam & Johnston, 2004, on the 1995 Nordic World Ski Championships) was also found.
+For Terry Mosher, his parents (Jack and Norma Mosher) and school history were added from 2015 interview
+coverage, and a date correction was made: the 2015 Pip Award ceremony was Saturday, August 8, 2015, not
+August 3 as previously cited (a day-of-week check confirms August 3, 2015 was a Monday; two
+independent sources give August 8).
+
+### Council Ring / YMCA Quebec Institutional History
+
+The McMorris thesis's Figure 2.1 (a 1970s totem-pole photograph) and a 1962 site map on page 68
+("Indian Council Ring" label and totem iconography) were both integrated, though whether the 1970s pole
+is the same one erected in 1927 remains unconfirmed. The camp's current facilities webpage describes
+"fire bowls" but doesn't mention a Council Ring or totem pole by name — noted as inconclusive rather
+than evidence of removal. On the institutional side: Canadian YMCAs formed a "National Federation" in
+1912 (a possible, unconfirmed match to a 1972-catalogued "National Council YMCAs of Canada"); the
+Concordia governance chronology was extended to 1981-82 (a Special Intercommittee Task Force on
+Camping and a "Comité du service des camps"), narrowing but not closing the 1983-2003 gap; and the
+Drummond Street YMCA building's history was completed — occupied from 1912, a 12-storey annex added
+1930-31, demolished in 2002 — with the further finding that YMCA Quebec announced intent to sell its
+successor downtown building on October 11, 2023.
+
+### Integration
+
+32 new KB facts (f_1900-f_1931). 14 new/updated source records (13 new plus richer extraction notes on
+3 existing sources: `src_burry_thesis_1985`, `src_familysearch_cushing_supp`, `src_mcgill_budge`). Two
+new conflict records (c_019, c_020). 14 wiki articles updated: centennial-1967.md,
+voyageur-canoe-pageant.md, sgw-concordia-connection.md, canoe-trips.md, camp-ouareau.md,
+cushing-family.md, da-budge.md, a-ross-seaman.md, taylor-statten.md, joanna-hoad.md (draft ->
+R3-verified), dave-twynam.md, terry-mosher.md, council-ring.md, ymca-quebec-history.md. KB v5.04 ->
+v5.05.
+
+### Outcome
+
+Across the six clusters, a large majority of the targeted open questions were resolved, advanced with
+new corroborating detail, or honestly confirmed as dead ends; one weak/single-source lead was marked
+disputed rather than promoted to confident fact (the St-Pierre marriage record); two genuine
+documented-vs-documented conflicts were logged for human review rather than silently adjudicated
+(c_019 Cushing identity, c_020 OCA founding date) — consistent with CLAUDE.md's policy that only
+oral-history-vs-document conflicts auto-resolve. Three new priority-queue items track the remaining
+actionable leads (a McMorris-thesis extraction retry targeting the 1967 roster specifically, a
+physical-archive review to resolve c_019, and a human-review flag for c_020).
+
+## Campaign 36 — Batch 6: Open-Questions Pass, Tier 6 (2026-07-09)
+
+Six parallel research clusters, the sixth tier of the article-by-article open-questions plan, following the operator's standing "keep going" instruction. This tier moved past the highest-profile people/places articles into cultural-tradition and lower-profile-but-substantial articles: songs and cheers, general traditions, the founding narrative itself, Ralph Dawson and the Pagé family, site geography and section names, and three shorter people articles (Rob Braide, Sean Day, Edgar Smee).
+
+### Camp Songs, Cheers, and Musical Traditions
+
+Concordia's static finding-aid pages (which, unlike the JavaScript-only AtoM catalog, are still directly fetchable) yielded exact box numbers: HA2559 for the "On My Way to Kanawana" CD (P145/SR0001, still undated), and HA2315 for the 1925/1927 song sheets, the 1941-1945 song books, and two previously undocumented items — "KK pageant scripts" (1931-1932) and "Fire of Friendship, Kanawana show" (1939). A genuine internal inconsistency was caught and fixed: the article claimed no section cheer had ever been documented, when the KB already held one (the "Medley '81" sheet, f_1566). A striking possible model for the L&V Games' naming was found: YMCA Camp Pine Crest's own "Lumbermen vs. Voyageurs" games have run since 1940, and a centennial book about them exists but couldn't be retrieved this session (repeated rate-limiting). The "Yo Triumphy" replacement question and the Alabama Jubilee adapter's identity were both independently re-confirmed as dead ends after fresh multi-surface sweeps.
+
+### Traditions and Culture at Kanawana
+
+The Latin-motto transition date remains the article's most stubborn open question — even the McMorris thesis, with full archival access, couldn't narrow it. The most concrete lead found this session is a specific, itemized (but undigitized) list of brochures in Concordia's Box HA1874, spanning 1950 to 1997, which is now the clear physical-archive target. The Shawbridge Meet's end date and the existence of further Green Triangle issues were both re-confirmed as dead ends after direct fetches of Concordia's finding aids and QAHN's own Shawbridge history article turned up nothing. One small but real detail was added: the 1939 Fire of Friendship ceremony's suggested programme was explicitly designed "to be used at the end of a Boy Scout day," per the McMorris thesis — direct evidence that it was adapted from Scout ceremonial material.
+
+### Founding and Early History / D.A. Budge Cross-Check
+
+A direct re-read of the QAHN article confirmed that the relationship between Cushing's 1892 trip and Ball's 1894 Camp Jubilee founding is genuinely undocumented in that source — the two are simply presented as separate mentions, with Billy Ball not named at all. A sharp new lead surfaced for the 22-year gap between directors John Roy (1901) and Philip Paterson (1923): Concordia's finding aid for sub-series 12L lists a specific, dated "Director's report (1908)," squarely in the middle of the gap and not previously logged. Two of founding-1894.md's open questions turned out to already be answered elsewhere in this project's own KB — Mr. Budge's identity (Daniel Andrew Budge, YMCA General Secretary 1874-1913, already the subject of his own article) and the fate of the Lake St. Joseph islands (renamed Camp Otoreke in 1909, closed 1982, sold 1987) — and have now been cross-referenced rather than left stale.
+
+### Ralph Dawson and the Pagé Family
+
+Dawson's biographical trail remains a confirmed dead end across four independent research campaigns now (March, June x2, July). A new, unexplored lead was found: a "Permanent Camp Committee" file series in Concordia's finding aid, spanning 1895 to 1926, which has never been checked and covers nearly all of Dawson's known active period. On the Pagé family side, Télesphore Pagé's own dates were found (1895-1961) via a specific named SHGPH bulletin article — now a much more targeted lead for a direct society inquiry than before. The most significant finding of this cluster was a likely correction: the wiki previously described "a second Télesphore Pagé (b. April 1908)" running a grocery store, but a direct re-read of the full raw source page shows this biography actually belongs to Télesphore **Léonard** (1908-1997), a Pagé descendant through the female line (son of Léonie Pagé), not a second Pagé at all — evidently a conflation from an earlier extraction pass. This was corrected in the KB following the same in-place, no-silent-overwrite pattern used for the Camp Thunderbird correction in Campaign 33/34 (the original claim is preserved with a correction note, not deleted).
+
+### The Kanawana Site and Section Names
+
+A full-text search of the McMorris thesis confirmed it contains exactly two acreage figures — neither for the Saint-Sauveur site itself — settling that no historical acreage record exists in the primary academic source. A separate, unresolved discrepancy was noted: Wikimapia states the camp is 455 acres against the YMCA's own 550-acre figure, with no way to determine which (if either) is current. The Kanawana-Weredale two-site plan's abandonment reason remains a dead end — Batshaw Centres' own Weredale institutional history makes no mention of the YMCA at all — but two new environmental leads were found: a 2024 municipal planning document that names Kanawana's environmental value explicitly (without conferring a formal designation), and an unexamined Concordia file titled "Proposed wildlife sanctuary, bird and game sanctuary" (1847, 1954-1960). On section names, a full-text check of the McMorris thesis confirmed "Rangers" is entirely absent from her exhaustive 1894-1967 coverage — combined with the archive's earliest dated Rangers plaque (1955), this establishes that Rangers predates the 1959 section renaming rather than following it, refining a previous assumption. A specific, dated Montreal Gazette clipping (April 18, 1974) was located as a lead for when section names were reassigned along gender lines, though it is paywalled.
+
+### Rob Braide, Sean Day, and Edgar Smee
+
+Rob Braide's biography was substantially filled in from two independent sources (full name, education, a decades-long broadcasting career from CHOM through Astral Media to Stingray Digital, hall-of-fame inductions), including a new institutional tie: he is stated to have chaired the YMCA's own Kanawana Capital Campaign. Per CLAUDE.md's formal-RALPH requirement for people stubs, this article was advanced from stub to draft. A separate Braide family (David Ian William Braide, 1928-2018, with his own independent YMCA board history) was identified as a possible but unconfirmed relative of the two young Kanawana campers Ian and Vicki Braide — genealogical records, not general web search, are the next step. One low-confidence, apparently-fabricated claim about Rob Braide's family (naming a possibly-deceased child) was explicitly investigated, found unsupported by any direct source, and deliberately excluded from the KB given its sensitivity, rather than included with a caveat. Sean Day's article found no new programs beyond what was already documented, and conflict c_017 (his 2005-vs-2008 directorship start date) remains genuinely unresolved — new evidence gathered this session is consistent with either side but doesn't disambiguate. Edgar Smee's 1942-1968 career gap and educational background both remain confirmed dead ends, though a comparative case from an unrelated YMCA camp (Manitou-Lin, Michigan) offers a circumstantial hypothesis for how the "Resident Director"/"Camp Director" title distinction may have worked.
+
+### Integration
+
+22 new KB facts (f_1932-f_1953). 9 new source records. One in-place correction (f_1518, superseded by f_1942) rather than a new conflict record, since this was judged a probable transcription/extraction error rather than a genuine disagreement between two documented sources. 10 wiki articles updated, including rob-braide.md's advancement from stub to draft. KB v5.05 -> v5.06.
+
+### Outcome
+
+This tier's open questions skewed more heavily toward genuine, well-confirmed dead ends than prior batches — a natural consequence of moving into lower-profile articles whose remaining open questions had already survived several earlier passes. Even so, six concrete new physical-archive leads were surfaced (the brochure box, the Permanent Camp Committee files, the 1908 director's report, the Pine Crest centennial book, the specific SHGPH bulletin, and the 1974 Gazette clipping), each specific enough to make a future in-person or operator-assisted follow-up meaningfully more efficient than before. One documented, low-confidence family claim was deliberately kept out of the KB given its sensitivity — consistent with the project's standing discipline of not promoting unverified claims about identifiable individuals, especially where they might concern a deceased child. Seven new priority-queue items track the physical-archive and operator-access leads that can't be resolved by further web research alone.
+
+## Campaign 37 — Batch 7: Open-Questions Pass, Tier 7 (Near-Final) (2026-07-10)
+
+Six parallel research clusters covering the last remaining previously-untouched or skip-listed articles in the article-by-article plan: myths-and-legends, environmental-history, sources-index (a meta article), and a re-attempt at three previously skip-listed articles (camp-perrot, quebec-camp-landscape, harold-potter, camp-weredale) using a technique — direct fetches of Concordia's static (non-AtoM) finding-aid pages and its master finding-aid PDF — that had proven unexpectedly productive in earlier batches this session.
+
+### Environmental History
+
+An 18-query sweep found no source naming a specific pedagogical framework behind Kanawana's environmental programming — only a described-but-unattributed "green tour" practice and Chris Adam's personal "Nature as Mentor" brand, connected biographically rather than institutionally. On formal ecological surveys, direct GBIF and iNaturalist API queries (rather than relying on general web search, which returned null) confirmed real, geotagged citizen-science observations — frogs, a beaver, a fisher — logged by individual app users at the camp's own lake. No institutional survey or eBird hotspot exists under the Kanawana name.
+
+### Camp Weredale and The Kanawana Site
+
+The most significant correction of this batch: both articles previously described the 1977-1980 Kanawana-Weredale two-site plan as "proposed" and then "ultimately abandoned." A direct fetch of Concordia's static finding-aid page for sub-series 12F (which, unlike the AtoM catalog, is not bot-walled) shows this substantially understates the record — Box HA1894 documents an actual signed 1979 lease between the Weredale Foundation and the Montreal YMCA, plus continuing joint files through 1981-82 (a day-camp proposal, a "YMCA staff cottage rental," a "Comité Weredale"). This indicates a real, multi-year operational relationship existed, not a plan that died on paper; why and when it eventually ended remains the article's most significant open question now. Separately, Youth Horizons' 1977 formation date was independently re-confirmed via a direct raw-HTML fetch of Batshaw's own timeline page, tracing a previously-circulating "1973" figure to a misreading of an adjacent, unrelated entry on the same page.
+
+### Sources Index
+
+This meta-article's own research turned up a genuinely useful new tool: the YMCA of Montreal fonds' full 125-page master finding-aid PDF is directly downloadable via `curl` (unlike the bot-walled AtoM catalog) and readable via `pdftotext`. Using it, sub-series 12M (day camp) and 12N (camping associations) were mapped in full detail, and several previously uncatalogued Kanawana-specific audiovisual items surfaced — 1960s-80s films and audio recordings, including two 1962-63 recorded interviews with campers and staff, a promising lead for a future session with audio-transcription capability. The same PDF also revealed that the wiki's own "12G | Camp Perrot" table row describes a sub-series that doesn't actually exist in Concordia's finding aid — the structure jumps from 12F directly to 12H — a genuine cataloguing gap, independently corroborated by a separate research pass the same day. BAnQ numérique's access block was re-characterized precisely as a Radware "perfdrive.com" bot-validation gate rather than a generic 403, and the Ballantyne 1944 history was re-confirmed, via a full re-grep of its cached text, as a genuine dead end for Kanawana-specific content.
+
+### Camp Perrot and the Quebec Camp Landscape
+
+The single largest find of this batch: Internet Archive holds 11 Camp Perrot annual reports and brochures (1945-1969), uploaded by Concordia Records Management and never previously found by this project. Given the scale of the claim, every headline finding was independently re-verified via direct archive.org metadata API and OCR-text fetches before integration — all confirmed genuine. These reports resolve Camp Perrot's exact location (south shore of Île Perrot), correct its founding date to 1944 (one year earlier than previously inferred, triangulated across five reports' own season-count language), and document its programming model in detail: a low-cost, branch-referral service camp running sequential single-sex sessions for a younger age range than Kanawana. A direct equipment-sharing link was found (Kanawana donated a canoe to Perrot in 1954), along with a previously undocumented staff overlap — A. Ross Seaman served as a past Camp Perrot director before his Kanawana tenure, and a "Margaret Seaman" (plausibly his wife) directed Perrot's Girls' Camp in 1952. The camp's closure date, however, remains genuinely contested between an internal 1959 memo (showing the resident camp still operating that year) and a 1969 planning document (implying an earlier closure and multi-year dormancy) — this contradiction is preserved rather than forced to a single answer. Camp Dorval's operation was similarly corrected to trace back to 1925 (not 1926) via a direct primary-source read, and its previous "failed experiment" framing was corrected — the 1928 report explicitly recommends continuing the program. The Quebec Camping Association's institutional lineage was documented in detail via Concordia's 12N sub-series and Trent University's own QCA fonds, though neither names Kamp Kanawana or Camp Perrot as specific members.
+
+### Harold Potter
+
+Three specific Montreal Gazette citations (1935, 1936, 1938), found in Wikipedia's own footnotes but never previously extracted into this KB, corroborate Potter's Kanawana counsellor years directly. The long-standing "Camp Laquemac" question was resolved: it was Université Laval's own flagship adult-education camp (1947-1957), run with Macdonald College of McGill and government sponsorship, with no institutional YMCA or Kanawana connection found in two independent sources. The Harold Potter fonds at Concordia was confirmed, via consistent search-indexed descriptions, to contain no photographs — a useful negative finding rather than an unstated gap.
+
+### Myths and Legends
+
+The second major find of this batch: Internet Archive actually holds 38 digitized issues of The Green Triangle (1932-1982), not the single July 1938 issue this wiki had assumed for its entire research history. A direct read of all 38 uncovered genuine Haunted House ghost-story content dating to July 1933 — two years earlier than the previously-known 1935 attestation — describing a fully staged campfire tradition with mock sound effects and folkloric rules, with continuity documented through 1940. A previously uncatalogued 1951 primary source, "Kamp Kanawana History" (independently verified genuine via direct archive.org fetch), gives a new claim: R.L. Charlton personally proposed the camp's name by analogy to a Furness Line steamship, while also independently confirming the "lots to eat" translation from a primary rather than secondary source. No corroboration of an actual Furness ship named "Kanawana" was found — a new lead for future shipping-registry research. Fresh, exhaustive sweeps for additional alumni myths and shared camp-legend matches at comparable YMCA camps both re-confirmed as dead ends.
+
+### Integration
+
+26 new KB facts (f_1954-f_1979). 11 new source records, several verified independently via direct archive.org metadata API calls given the unusually large scale of new primary-source material this batch surfaced. No new conflict records. 9 wiki articles updated, including a major rewrite of camp-perrot.md and significant corrections to camp-weredale.md and the-kanawana-site.md. KB v5.06 -> v5.07.
+
+### Outcome
+
+This tier — deliberately the last remaining previously-untouched or skip-listed articles — produced two of the largest single-session finds of the entire project: the actual 1979-1982 Kanawana-Weredale operational relationship, and the discovery that 38 (not 1) Green Triangle issues and 11 (not 0) Camp Perrot annual reports are digitized on Internet Archive. Both underscore a recurring lesson from this session: Concordia's static finding-aid pages and its master PDF, plus a full re-scan of Internet Archive's actual holdings rather than assumed coverage, repeatedly surface material that targeted keyword search alone misses. Five new priority-queue items track the remaining physical-archive leads (the Weredale arrangement's end, the Camp Perrot closure contradiction, a Furness shipping-registry check, further master-PDF re-mining, and a human check of the SGW 1973 yearbook).

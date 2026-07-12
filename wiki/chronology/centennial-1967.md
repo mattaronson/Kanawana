@@ -1,10 +1,7 @@
 # The 1967 Centennial and Kanawana
 
-<!-- status: E1-reviewed -->
-<!-- confidence: high -->
-<!-- last_updated: 2026-06-24 -->
-<!-- last_editor: v50 -->
-<!-- ralph_loops: centennial-1967-R1, centennial-1967-V1 -->
+*Status: E1-reviewed | Sources: 19*
+*Last Updated: 2026-07-10*
 
 ## Summary
 
@@ -63,15 +60,16 @@ The McMorris thesis devotes its third chapter — "The National(ist) Vehicle" �
 
 ## Open Questions
 
-1. [Critical] Who were the six Kanawana boys and two counsellors on the 1967 Centenary Journey? One counsellor was Yves St. Pierre (trip report author), but names of the other counsellor and six boys remain unknown.
+1. [Critical, confirmed dead end 2026-07-10] Who were the six Kanawana boys and two counsellors on the 1967 Centenary Journey? One counsellor was Yves St. Pierre (trip report author), but names of the other counsellor and six boys remain unknown. Direct fetches of Concordia sub-sub-series 12B01 and 12B04 confirmed neither holds this material online. The recommended local-PDF-extraction retry was completed 2026-07-10 (direct `curl` download of the actual thesis PDF plus `pdftotext`, succeeding where WebFetch/jina.ai had failed): the thesis text itself does not name the six campers anywhere — it only includes an uncaptioned-by-name photograph (Figure 3.5, "Kanawana campers arriving in Ottawa"), sourced to *The Ottawa Journal*, August 10, 1967 (already cited as source #15 below). This newspaper issue was not retrievable via any tool available this session (Newspapers.com blocked by a Cloudflare bot check). This question is now genuinely exhausted for online/automated research; only a physical or paid-subscription read of that specific Ottawa Journal issue could resolve it.
 2. [Resolved] The route ran from Deep River, Ontario to Britannia Beach (west Ottawa), August 2-9, 1967 (8 days, ~150 miles). Trip report by Yves St. Pierre covers the Ottawa River route history. Resolved via McMorris thesis Ch.3.
 3. [Important] What was the "Canadian Centennial family camping project" at Kanawana in 1966-1967? Concordia archives reference but no details.
-4. [Important] Did Kanawana send any delegation to Expo '67? Archives reference P0145/13E.
+4. [Important, advanced 2026-07-09] Did Kanawana send any delegation to Expo '67? Concordia sub-series P0145/13E (Expo 1967/Canadian Centennial) lists an item, "Expo 67-canoe tripping program. -- 1964" (Box HA1930), showing canoe-trip/Expo-67 planning was underway three years ahead of the Centennial — but the item does not name Kanawana explicitly, so this remains a lead, not a confirmed delegation/visit.
 5. [Nice-to-have] Were any Kanawana alumni involved in the competitive Voyageur Canoe Pageant?
 6. [Nice-to-have] What is in the "Kamp Kanawana report — Planning and Development (1967)" held at Concordia?
 
 ## Related Articles
 
+- [[chronology/timeline-overview|Timeline Overview: Camp Kanawana Decade by Decade]]
 - [[programs/canoe-trips|Canoe Tripping at Kanawana]]
 - [[context/coeducation-gender|Coeducation and Gender at Kanawana]]
 - [[context/canadian-camping-movement|The Canadian Camping Movement]]
@@ -97,6 +95,8 @@ The McMorris thesis devotes its third chapter — "The National(ist) Vehicle" �
 15. *The Ottawa Journal*, August 10, 1967. Photo of Kanawana campers arriving in Ottawa.
 16. Research campaign 2026-06-22 (44 searches, 18 WebFetch attempts). Trent University Archives OCA fonds (72-007) and CCA fonds (78-004). CCA history page. Camp Stephens Alumni Blog. Kandalore Nor'westers Blog. *A Log of Canada's Centenary Journey* (1971). Derek Walsh in CCA fonds as Kanawana representative. John Latimer as coordinator, Kirk Wipper for Lake Superior section.
 17. cfgrandmontreal.com obituary notice: Yves St-Pierre, died January 31, 2020, age 76, Montreal. (Possible match for CCA Centenary Journey trip leader — age consistent.)
+18. Mes Aieux genealogy database, Yves St-Pierre/Lucette Gregoire 1970 marriage record [src_mesaieux_st_pierre] — weak, non-confirming corroboration only.
+19. Concordia University Archives finding aid, sub-series 13E (direct fetch, 2026-07-09), confirming the "Expo 67-canoe tripping program" item [src_concordia_13E_expo67]; sub-sub-series 12B01/12B04 (confirming these do NOT hold the missing 1967 material) [src_concordia_p0145_12a_finding_aid].
 
 ## Research Notes
 

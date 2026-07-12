@@ -1,7 +1,7 @@
 # J.W. McConnell
 
-*Status: E1-reviewed | Sources: src_wikipedia_mcconnell, src_mcconnell_foundation, src_oral_aronson, src_fong_mcconnell_2008, src_kanawana_facts, src_toponymie_lac_wilson_stelucie, src_grandquebec_sadl_lakes, src_vss_familles_pionnieres, src_shgph_edouard_page*
-*Last Updated: 2026-06-24*
+*Status: E1-reviewed | Sources: 12*
+*Last Updated: 2026-07-09*
 
 ## Overview
 
@@ -45,7 +45,9 @@ It has been claimed that Lake Wilson at Camp Kanawana is named for McConnell's e
 - Wilson McConnell was only approximately two years old when the property was acquired circa 1910
 - The 1923 *Gas Bag* lists "Lac Wilson" as an external hiking destination alongside other non-camp locations, suggesting it may have been a pre-existing geographic name^4
 - The Commission de toponymie du Québec notes "Wilson" as a common English-origin surname in Quebec toponymy, and multiple other "Lac Wilson" lakes across Quebec are named after local landowner families — for example, the Lac Wilson in Sainte-Lucie-des-Laurentides is officially recorded as named for the landowner on whose property it sits^6
-- No document — brochures (1921–1923), the 1935 season chronicle, newsletters, archival finding aids, or web sources — explicitly connects the lake's name to any McConnell family member
+- **New pattern evidence (2026-07-09):** three more official Quebec "Lac Wilson" toponymy entries were found: Brownsburg-Chatham (fiche 451695, named for a family who owned the land in the early 20th century, who also built a dam to create the lake — directly parallel to Kanawana's own Lake Wilson, which also has a dam); Saint-Théophile (fiche 67250, named for a man named Wilson who built a fishing camp there); and Grenville-sur-la-Rouge (fiche 67246, origin undetermined). 3 of 4 documented Quebec "Lac Wilson" toponyms are named for a landowner/settler named Wilson — this mildly favours the pre-existing-settler-family hypothesis over the McConnell-son hypothesis, though it does not prove it for this specific lake.
+- No document — brochures (1921–1923), the 1935 season chronicle, newsletters, archival finding aids, or web sources — explicitly connects the lake's name to any McConnell family member. **Confirmed 2026-07-09**: a full-text extraction of Grace McMorris's thesis found zero mentions of "McConnell" anywhere in the 129-page document.
+- **Wilson Griffith McConnell biographical detail (2026-07-09, low-medium confidence, search-snippet only):** per a Concordia AccessToMemory finding-aid description for the "Wilson Griffith McConnell collection," he was a jazz enthusiast/collector of recordings and equipment; no mention of Camp Kanawana, the YMCA, or Lake Wilson appears in the visible description. The actual finding-aid page is blocked by a JS bot-challenge and could not be read directly.
 
 ## The Lake Desjardins Question
 
@@ -59,10 +61,10 @@ Conflict c_006 is now substantially resolved: oral history explains the renaming
 
 ## Open Questions
 
-1. [Critical] Does the Fong biography mention Camp Kanawana, land donations, or lake naming? Browser research (2026) corrected the chapter attribution: the YMCA fundraising chapter is **Chapter 6** ("Keep the Home Fires Burning…1909–19"), not Chapter 5 ("Bittersweet: St Lawrence Sugar and Regulation, 1912-63"). The book on Internet Archive (item `jwmcconnellfinan0000fong`) is **print-disabled / not borrowable**, so full-text search was not possible; an index/snippet hint suggests p.573 (the McGill/McConnell Foundation chapters) may contain a Kanawana reference. Physical access to the book remains the path.
-2. [Critical] Does the McMorris thesis full text discuss the Lake Wilson naming origin or McConnell donations?
+1. [Critical, confirmed dead end 2026-07-09] Does the Fong biography mention Camp Kanawana, land donations, or lake naming? An attempt to search inside the book via the Internet Archive's own search-inside API (having resolved the correct server/directory via the metadata endpoint) returned HTTP 403 "Item not available due to issues with the item's content" for every query tried — the print-disabled status blocks search-inside just as it blocks borrowing. Reviews/excerpts on Project MUSE, ResearchGate, JSTOR, Goodreads, Amazon, 49thShelf, and MQUP were also checked — none discuss camp/land/lake donations. Genuine dead end; only physical/operator access to the book remains.
+2. ~~[Critical] Does the McMorris thesis full text discuss the Lake Wilson naming origin or McConnell donations?~~ [Resolved 2026-07-09] No. A full-text extraction of the complete 129-page thesis found zero matches for "McConnell" and exactly two trivial matches for "Wilson" (both simply listing "Lake Kanawana and Lake Wilson" as the camp's two lakes, no naming discussion). The thesis is not a source for this question and can be marked exhausted.
 3. ~~[Critical] What lake is "Lake Desjardins"?~~ [Substantially resolved] Oral history: Lac Desjardins was the original name of Lake Wilson, renamed after McConnell donation. Pagé family genealogy: Magloire Pagé fils married Olivine Desjardins (1875), linking the name to landowner family. Remaining: land registry confirmation.
-4. [Important] Do the 1933 Ralph Dawson or 1943 R.L. Charlton camp histories mention McConnell by name?
+4. [Important, confirmed dead end for content 2026-07-09] Do the 1933 Ralph Dawson or 1943 R.L. Charlton camp histories mention McConnell by name? Concordia's public finding-aid summary page confirms exact box locations (Dawson, Box HA2307; Charlton, Box HA1881) but no secondary source anywhere reproduces or summarizes their content. Requires physical archive access.
 5. [Important] Do Quebec land registry records show a Wilson family owning property in the area before the YMCA acquisition? (Registre foncier du Québec requires a paid account; BAnQ cadastral collections proxy-blocked — operator access required)
 6. [Nice-to-have] Are there McConnell-YMCA correspondence records in McGill Archives fonds MG4240?
 
@@ -85,6 +87,9 @@ Conflict c_006 is now substantially resolved: oral history explains the renaming
 7. Grand Québec, "Lacs de Sainte-Anne-des-Lacs." URL: https://grandquebec.com/eaux-du-quebec/lacs-de-sainte-anne-des-lacs/
 8. Ville de Saint-Sauveur, "Les familles pionnières de Saint-Sauveur"; Société d'histoire et de généalogie des Pays-d'en-Haut, "Édouard Pagé, boulanger à Saint-Sauveur."
 9. Multiple Phase 2 research sources (2026): McConnell Foundation history, Concordia Archives sub-series 5E07 (1971 Foundation proposal), Standard Chemical Company biographical context.
+10. Additional Commission de toponymie du Québec "Lac Wilson" fiches: Brownsburg-Chatham (451695), Saint-Théophile (67250), Grenville-sur-la-Rouge (67246) [src_toponymie_lac_wilson_additional].
+11. Concordia University Archives, YMCA of Montreal fonds sub-series 12A/12L (Dawson 1933, Charlton 1943 box locations) [src_concordia_12L].
+12. Concordia University AccessToMemory, "Wilson Griffith McConnell collection" (search-snippet only) [src_concordia_wilson_mcconnell_collection].
 
 ## Research Notes
 

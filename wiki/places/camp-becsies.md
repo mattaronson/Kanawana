@@ -1,13 +1,7 @@
 # Camp Becsies
 
-<!-- status: E1-reviewed -->
-<!-- confidence: medium -->
-<!-- last_updated: 2026-06-22 -->
-<!-- last_editor: session4 -->
-<!-- ralph_loops: camp-becsies-R1, camp-becsies-R2, camp-becsies-V1, camp-becsies-E1 -->
-
-*Status: E1-reviewed | Sources: 7*
-*Last Updated: 2026-06-22*
+*Status: E1-reviewed | Sources: 10*
+*Last Updated: 2026-07-09*
 
 ## Overview
 
@@ -23,7 +17,15 @@ A limerick in the *Green Triangle* (July 29, 1938) mentions a staff member Walla
 
 ## First Period: Youth Camp (1929-1936)
 
-The earliest records for Camp Becsies date to 1929, documenting the development of the camping site.^2 During this period, the camp served youth campers including children from the Montreal Protestant Orphans' Home, documented in 1934 and 1936.^3 A memo regarding "the future of Camp Becsies" survives from the 1930s, suggesting the camp's viability was questioned.^3
+The earliest records for Camp Becsies date to 1929, documenting the development of the camping site.^2 A memo regarding "the future of Camp Becsies" survives from the 1930s, suggesting the camp's viability was questioned at some point.^3
+
+Per the YMCA of Montreal's own digitized Annual Reports (1930-1937), Camp Becsies began life explicitly as Kanawana's own overflow/annex site, not an independently run camp. The 1930 Annual Report (covering the 1929 season) describes the new equipment at "Lac Becscies" -- a wharf, a new dining pavilion, four new tent floors, a well -- as intended so "this camp will form a valuable annex to the main camp for 'peak' periods and also for overnight and short term out-trips."^8 That same season, $2,258 in capital expenditure went toward "the Becscies extension and the new craft shop" (a combined figure), and a group of Westmount Branch businessmen separately underwrote twelve Protestant Orphans' Home boys as regular Kanawana campers -- a distinct sponsorship channel from the equipment-loan arrangement that followed.^8
+
+The Protestant Orphans' Home equipment loan itself is now documented across **four consecutive seasons**, not just two: the 1934, 1935, 1936, and 1937 Annual Reports (covering the 1933, 1934, 1935, and 1936 seasons respectively) each record the Home being given free use of the Becscies equipment, with the final entry reading "again given, free of charge, the use of our property on Lake Bec-scies, for which their Board has expressed generous appreciation."^8 The 1934 report names **W.H. Spearman** as that season's Kanawana Camp Director; the 1937 report names **W.J.G. Macdiarmid** -- independently corroborating the director already documented in [[people/directors-index|Directors and Staff of Camp Kanawana]] (Greig/W.J.G. Macdiarmid, Camp Chief 1935-1938+).^8
+
+A systematic 2026-07-09 check of every YMCA of Montreal Annual Report from 1938 through 1962 (21+ consecutive years) found **zero further mentions** of Becscies, Becsies, Becs-Scie, or the Orphans' Home arrangement -- confirming the 1936 end-date but leaving the reason for the subsequent gap undocumented. Notably, Kanawana itself recorded its highest attendance to that point in the very next (1937-38) season -- 407 boys, 1,442 camper-weeks, "necessary to refuse registration for periods in July" -- which argues against a simple Depression-driven cost-cutting explanation, though it doesn't rule out reasons specific to the Orphans' Home side of the arrangement.^8
+
+One plausible but unconfirmed contributing thread: Camp Amy Molson, founded May 23, 1944 by the Montreal Ladies' Benevolent Society as a dedicated summer camp for children from foster homes/orphanages, may have absorbed some of the same population -- though this doesn't cleanly explain the gap (a 7-8 year unexplained span remains between 1936 and 1944), and the Ladies' Benevolent Society and the Protestant Orphans' Home were still separate organizations at that date.^9 They merged around 1946 or 1947 (sources disagree on the exact year) to form the Montreal Ladies' Benevolent and Protestant Orphans' Society, later Summerhill Homes.^10
 
 ## Second Period: Family Camping (1960-1971)
 
@@ -39,13 +41,13 @@ The camp's records are held at Concordia University Archives as sub-series P0145
 
 ## Open Questions
 
-1. [Important] Why did Camp Becsies close after 1936 and not resume operations until 1960? Was the gap related to the Depression, wartime, or a change in YMCA camp strategy?
-2. [Important] What programs and activities were offered during the 1929-1936 youth camp period? How many campers attended?
-3. [Important] What was the Montreal Protestant Orphans' Home, and how did its campers come to attend Camp Becsies specifically?
-4. [Important] When was the Lac des Becs-scie property sold or divested by the YMCA? Did the YMCA own the entire shoreline or only a portion?
-5. [Nice-to-have] What do the surviving photographs show? Do they depict facilities, campers, or specific activities?
-6. [Nice-to-have] Did any Kanawana staff also serve at Camp Becsies? (The 1938 Green Triangle limerick confirms staff awareness of the site.)
-7. [Nice-to-have] Is there a connection between the 1950-1951 construction of the Sainte-Thérèse chapel and the YMCA's presence on the lake?
+1. [Important, narrowed 2026-07-09] Why did Camp Becsies close after 1936 and not resume operations until 1960? A comprehensive 21-year annual-report check (1938-1962) confirms the end-date and rules out visible Kanawana-side financial distress as the cause (Kanawana had record attendance the very next season), but the actual reason remains undocumented online -- likely requires a physical Concordia Archives visit or Protestant Orphans'/Ladies' Benevolent Society records.
+2. [Important] What programs and activities were offered during the 1929-1936 youth camp period? How many campers attended? Still undocumented beyond the equipment/capital-spending detail now on record.
+3. ~~[Important] What was the Montreal Protestant Orphans' Home, and how did its campers come to attend Camp Becsies specifically?~~ [Largely resolved] Founded 1822 as the Protestant Orphan Asylum, merged with the Montreal Ladies' Benevolent Society c.1946/1947 to form Summerhill Homes. Becsies use came via a free equipment-loan arrangement (1933-1936) separate from, but alongside, a direct-sponsorship channel (Westmount Branch businessmen underwriting 12 Home boys as regular 1929-season Kanawana campers).
+4. [Important] When was the Lac des Becs-scie property sold or divested by the YMCA? Did the YMCA own the entire shoreline or only a portion? Confirmed dead end for online sources (2026-07-09) -- would require BAnQ notarial/cadastral records or Saint-Sauveur municipal archives.
+5. [Nice-to-have] What do the surviving photographs show? Do they depict facilities, campers, or specific activities? The Concordia AtoM detail page is blocked by a JavaScript challenge page that neither curl nor WebFetch can pass -- confirmed dead end without a headless browser or in-person visit.
+6. [Nice-to-have] Did any Kanawana staff also serve at Camp Becsies? Two Kanawana Camp Directors (W.H. Spearman, 1933; W.J.G. Macdiarmid, 1936) are now directly named in the same annual-report passages documenting the Becsies loan, alongside the 1938 Green Triangle limerick's staff-awareness detail.
+7. [Nice-to-have] Is there a connection between the 1950-1951 construction of the Sainte-Thérèse chapel and the YMCA's presence on the lake? The YMCA's documented presence ends in 1936/37 and (per the annual reports) doesn't resume until at least 1960 -- a direct causal link to the 1950-51 chapel looks unlikely on current evidence, but this is inference, not a sourced conclusion; the RPCQ heritage page's full historical narrative could not be retrieved (JS-rendering issue) and is worth a re-check.
 
 ## Related Articles
 
@@ -65,3 +67,6 @@ The camp's records are held at Concordia University Archives as sub-series P0145
 5. Research campaign 2026-06-22: Association du Lac des Becs-scie website; Commission de toponymie du Québec; satellite coordinates comparison; CRE Laurentides Atlas des lacs; Saint-Sauveur heritage circuit; real estate data.
 6. Commission de toponymie du Québec; iNaturalist; DHFQ — "bec-scie" = Quebec French for merganser (sawbill duck), from 17th-century New France.
 7. Quebec Cultural Heritage Registry — Chapelle de Sainte-Thérèse-du-Lac-des-Becs-Scies (built 1950-1951). Listed in Saint-Sauveur heritage circuit.
+8. YMCA of Montreal Annual Reports, 1930, 1934, 1935, 1936, 1937 (Internet Archive, "sgw-ymca-annual-report" collection) [src_ia_ymca_annual_1930, src_ia_ymca_annual_1934, src_ia_ymca_annual_1935, src_ia_ymca_annual_1936, src_ia_ymca_annual_1937].
+9. "Camp Amy Molson: a history of the Summer Camp of the Montreal Ladies' Benevolent and Protestant Orphans' Society," McGill eScholarship [src_camp_amy_molson_mcgill_paper].
+10. Batshaw Centre History (batshawcentreshistory.ca) — Montreal Protestant Orphans' Home / Ladies' Benevolent Society institutional history [src_batshaw_centre_history]. Retrieved via search-summary only; needs independent verification.

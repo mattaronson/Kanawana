@@ -1,13 +1,7 @@
 # The Pagé Family of Saint-Sauveur
 
-<!-- status: E1-reviewed -->
-<!-- confidence: medium -->
-<!-- last_updated: 2026-06-13 -->
-<!-- last_editor: v52 -->
-<!-- ralph_loops: page-family-R1 -->
-
-*Status: E1-reviewed | Sources: 10*
-*Last Updated: 2026-06-24*
+*Status: E1-reviewed | Sources: 13*
+*Last Updated: 2026-07-09*
 
 ## Overview
 
@@ -39,15 +33,15 @@ The original bakery building was established in 1897 by Camille Gauvreau (not 19
 
 ### Third Generation: Télesphore Pagé
 
-Télesphore, the youngest son of Magloire fils, inherited the family land and settled there with his wife Clarilda Dagenais (1901–1995). The old Pagé farmhouse "faced the mountains" near Saint-Sauveur.^4
+Télesphore, the youngest son of Magloire fils, inherited the family land and settled there with his wife Clarilda Dagenais (1901–1995; her name also appears as "Claire-Ida Dagenais" in one heading on the same source, evidently an alternate spelling of the same person — the dates match). The old Pagé farmhouse "faced the mountains" near Saint-Sauveur.^4 Télesphore's own dates are now documented: 1895–1961, per "Hommage à Télesphore Pagé," *La Mémoire de la Vallée de Saint-Sauveur*, bulletin de la SHGPH, no. 81, hiver 1999.^4 This confirms he was alive through the 1960 "Pagé farm" purchase and died the following year — consistent with, though not direct proof of, his being the seller (see Open Questions).
 
-A second Télesphore Pagé (b. April 1908), likely a nephew or cousin, operated a grocery store on rue de la Gare in Saint-Sauveur.^10
+A grocery store on rue de la Gare in Saint-Sauveur was operated by **Télesphore Léonard** (1908–1997) — son of Joseph-Vital Léonard and **Léonie Pagé** (1882–1941, Magloire Pagé fils's daughter, see above), a Pagé descendant through the female line, not a second, directly-surnamed Télesphore Pagé (see Revision History). Léonard attended école du Grand-Ruisseau, worked in logging camps, was hired by Auguste Dionne, and married Marguerite Amyot in 1935 before opening the grocery.^10
 
 ## Connection to Camp Kanawana
 
 The YMCA of Montreal purchased the Saint-Sauveur property from the Page family circa 1910, establishing Camp Kanawana at its current location.^1 The 1923 *Gas Bag* lists "Pages" as a hike destination from camp, suggesting the family still had a visible presence in the area.^7
 
-In 1960, the YMCA purchased additional land described as the "Pagé farm" to expand the camp property, though the acreage and terms of this purchase are not specified in available sources.^1
+In 1960, the YMCA purchased additional land described as the "Pagé farm" to expand the camp property, though the acreage and terms of this purchase are not specified in available sources.^1 McMorris's thesis (read as a full PDF for the first time, 2026-07-09) gives a fuller account: the farm — "the building just outside the camp gate" — was bought "in order to assure Kanawana many years of camping on the site without cottage country encroaching," citing the YMCA's own 1960 Kamp Kanawana Annual Report.^12 Concordia's P145/12B03 finding aid independently corroborates a distinct archival file, "KK land purchase-Pagé farm. — 1960-1961," separate from the original 1910-1927 purchase records — narrowing the transaction to that specific two-year window, though exact acreage and terms remain undocumented. It's plausible, though not directly confirmed, that today's "Farmhouse" building at Camp Kanawana (see [[places/places-and-locations|Places and Locations at Camp Kanawana]]) is this former Pagé farmhouse.
 
 ## The Desjardins Connection
 
@@ -63,11 +57,11 @@ In 1957, Mickey Stein was staying in the old Pagé family farmhouse when he obse
 
 ## Open Questions
 
-1. [Critical] Which specific parcel(s) did the Pagé family sell or donate to the YMCA circa 1910? Was it lot 43 on côte Saint-Elmire, or a different holding?
-2. [Critical] What were the terms and acreage of the 1960 "Pagé farm" purchase?
-3. [Important] Was Télesphore Pagé the family member who sold the 1960 "Pagé farm" to the YMCA? He inherited the family land and his wife Clarilda lived until 1995.
-4. [Important] Do Quebec land registry records (Registre foncier du Québec) document the Pagé-to-YMCA transactions? (Requires paid account — operator access needed.)
-5. [Nice-to-have] Does the Société d'histoire et de généalogie des Pays-d'en-Haut hold additional records on the Pagé family's landholdings?
+1. [Critical, re-confirmed dead end 2026-07-09] Which specific parcel(s) did the Pagé family sell or donate to the YMCA circa 1910? Was it lot 43 on côte Saint-Elmire, or a different holding? A direct raw-HTML fetch of the vss.ca page, the SHGPH site, the Répertoire du patrimoine culturel du Québec's Saint-Sauveur-des-Monts entry, and the city's general history page were all checked directly and none mention the Pagé-YMCA transaction or a specific parcel number.
+2. [Critical, narrowed 2026-07-09] What were the terms and acreage of the 1960 "Pagé farm" purchase? Now dated more precisely to 1960-1961 per a Concordia finding-aid file, and its purpose is documented (preventing "cottage country encroaching") — but exact acreage and price remain undocumented.
+3. [Important, advanced 2026-07-09] Was Télesphore Pagé the family member who sold the 1960 "Pagé farm" to the YMCA? He inherited the family land; his own dates are now confirmed as 1895–1961 (his wife Clarilda/Claire-Ida Dagenais lived until 1995) — meaning he was alive through the purchase year and died the following year, consistent with but not proof of the sale attribution. The underlying SHGPH bulletin article ("Hommage à Télesphore Pagé," no. 81, hiver 1999) that likely confirms this directly could not be retrieved online (docplayer.fr unreachable; a guessed direct-PDF URL on the RPFO/mes-racines.ca repository 404'd) — a direct request to SHGPH (info@shgph.org, 450-744-0182) for this specific named bulletin is now a much more targeted next step than before.
+4. [Important] Do Quebec land registry records (Registre foncier du Québec) document the Pagé-to-YMCA transactions? (Requires paid account — operator access needed.) Confirmed 2026-07-09 that the registry is searchable back to 1841 but requires a specific cadastral lot number plus a paid account; no free index surfaces the Pagé-YMCA lot number.
+5. [Nice-to-have, re-confirmed dead end 2026-07-09] Does the Société d'histoire et de généalogie des Pays-d'en-Haut hold additional records on the Pagé family's landholdings? A direct site-search of shgph.org for "Kanawana" returned zero results; the society's own contact channel (phone/in-person visit) remains the only unexhausted path.
 
 ## Related Articles
 
@@ -89,7 +83,15 @@ In 1957, Mickey Stein was staying in the old Pagé family farmhouse when he obse
 9. Histoires de chez nous / Community Stories, "Mont Habitant." URL: https://www.histoiresdecheznous.ca/v1/pm_v2.php?id=story_line_child&fl=0&lg=Francais&ex=00000718&sl=6641&pos=1
 10. Société d'histoire et de généalogie des Pays-d'en-Haut, Saint-Sauveur local history. Jean-Baptiste Desjardins as early settler; second Télesphore Pagé (b. April 1908, grocery on rue de la Gare).
 11. Musée du Ski des Laurentides / Laurentian Ski Museum, Mickey Stein biographical data; Mont-Habitant Development Ltd incorporation (July 27, 1959).
+12. Grace McMorris, "An Experience That Lasts a Lifetime," MA thesis, Concordia University, 2023, p.63-64 and p.91 (read as a full PDF, 2026-07-09) [src_mcmorris_thesis]; Concordia University Archives, YMCA of Montreal fonds, sub-sub-series P145/12B03 [src_concordia_12B03].
+13. Ville de Saint-Sauveur, "Les familles pionnières de Saint-Sauveur" — direct raw-HTML fetch, 2026-07-09, bypassing an earlier AI-summarization layer that had garbled the Télesphore Pagé/Télesphore Léonard distinction [src_vss_familles_pionnieres].
 
 ## Research Notes
 
+### Revision History
+
+- **2026-07-09** — Corrected a likely conflation: this article previously stated that "a second Télesphore Pagé (b. April 1908), likely a nephew or cousin, operated a grocery store on rue de la Gare in Saint-Sauveur." A direct re-read of the full raw vss.ca pioneer-families page text (bypassing an earlier AI-summarization layer that had garbled the distinction) showed this was a misattribution: the grocer is **Télesphore Léonard**, a Pagé descendant through the female line (Léonie Pagé's son), not a second Télesphore Pagé. Every biographical detail matched exactly between the two adjacent sections of the source page, indicating the earlier extraction had conflated two distinct people. The original, now-superseded claim is preserved in the KB per the no-silent-overwrite rule (f_1518, superseded by f_1942). Télesphore Pagé's own dates were also confirmed this same pass (1895-1961, per "Hommage à Télesphore Pagé," *La Mémoire de la Vallée de Saint-Sauveur*, SHGPH bulletin no. 81, hiver 1999).
+
+<!-- RALPH process log (informal, not reader-facing). -->
 <!-- RALPH R1 (p_136) completed 2026-06-13. Agent-based research: 10 queries across web search, genealogy databases, local history societies. Key findings: four-generation Pagé genealogy confirmed from municipal and SHGPH sources. Critical discovery: Magloire Pagé fils married Olivine Desjardins (1875) — potential origin of "Lac Desjardins" name. Bakery founding date corrected (1897 Gauvreau, not 1903). Mont Habitant connection documented. Gap: no documentation of the specific YMCA land transactions (1910, 1960). Land registry requires paid access. -->
+<!-- R2 (Batch 6, 2026-07-09): direct raw-HTML re-fetch of the vss.ca pioneer-families page corrected the Télesphore Pagé/Télesphore Léonard conflation (see Revision History above) and located Télesphore Pagé's own dates via the SHGPH bulletin citation. McMorris's full thesis PDF (read for the first time this pass) added detail on the 1960 Pagé farm purchase's purpose and narrowed its date to 1960-1961 via a Concordia finding-aid cross-check. -->

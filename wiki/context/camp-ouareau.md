@@ -1,7 +1,7 @@
 # Camp Ouareau and Its Connections to Kanawana
 
-*Status: E1-reviewed | Sources: src_ouareau_history, src_ouareau_wikipedia, src_camp_oconto, src_mcmorris_thesis, src_ywca_oolahwan_page, src_ywca_oolahwan_centennial*
-*Last Updated: 2026-03-15 (E1 REVIEW pass — editorial issues fixed, date conflict logged, status advanced)*
+*Status: E1-reviewed | Sources: 10*
+*Last Updated: 2026-07-10*
 
 ## Overview
 
@@ -31,7 +31,7 @@ The Lodge, built in 1922, is one of the oldest log buildings still in use in Can
 
 ## Connection to Kanawana
 
-Jamieson's role at the YMCA or YWCA of Montreal placed her within the same organization that operated Camp Kanawana.^4 Camp Oolahwan (YWCA, est. 1917) also sent visitors to Kanawana; in 1946, Kanawana campers were covered in cocoa powder to greet Oolahwan visitors as "Indians."^6 The Camp Oolahwan centennial reunion was held at Camp Ouareau in 2017 (date disputed: YWCA source gives September 8–10; West Island Blog gives August 25–27).^7
+Jamieson's role at the YMCA or YWCA of Montreal placed her within the same organization that operated Camp Kanawana.^4 Camp Oolahwan (YWCA, est. 1917) also sent visitors to Kanawana; in 1946, Kanawana campers were covered in cocoa powder to greet Oolahwan visitors as "Indians."^6 The Camp Oolahwan centennial reunion was held at Camp Ouareau on September 8–10, 2017 (the YWCA's own announcement is weighted over a local blog's differing date; see Revision History and [[context/camp-oolahwan|Camp Oolahwan]]).^7
 
 Although Camp Ouareau operated in English from its founding, it became bilingual in 1976, and today roughly half of registrations are francophone.^4
 
@@ -39,9 +39,9 @@ In 2014, Camp Ouareau changed its team names from Iroquois, Algonquin, and Micma
 
 ## Open Questions
 
-1. [Critical] Was Mabel Jamieson actually secretary general of the YMCA (not YWCA) of Montreal? Concordia Archives P0145 should be checked.
-2. [Important] Did Jamieson and Halliday have any direct involvement with Kanawana programming or personnel?
-3. [Nice-to-have] What was the nature of Camp Oolahwan's visits to Kanawana beyond the 1946 episode?
+1. [Critical, confirmed dead end 2026-07-09] Was Mabel Jamieson actually secretary general of the YMCA (not YWCA) of Montreal? Concordia's own P0145 finding aid does not name Jamieson at all; Trent University's Ontario Camps Association finding aid contains only one incidental photo caption naming her among OCA social circles, with no title given. No source anywhere independently corroborates or refutes the "secretary general" claim beyond Camp Ouareau's own self-reported history page (which, as of 2026-07-09, no longer even states a title on its current site — just "school teacher"). Genuinely exhausted for online sources.
+2. [Important, confirmed dead end 2026-07-09] Did Jamieson and Halliday have any direct involvement with Kanawana programming or personnel? No source (Ouareau's own history/Wikipedia, the McMorris thesis, or the Trent OCA finding aid) documents any direct Ouareau-Kanawana visit or contact — the connection remains personnel-network-only (via Halliday's shared YWCA/YMCA ties to Camp Oolahwan), not an institutional one.
+3. [Nice-to-have, advanced 2026-07-09] What was the nature of Camp Oolahwan's visits to Kanawana beyond the 1946 episode? See [[context/camp-oolahwan|Camp Oolahwan]] — McMorris's thesis (read in full) confirms the visits were recurring through the 1940s, not a single 1946 event, and also documents a third camp with Kanawana contact, the Junior League Camp. This doesn't directly involve Ouareau, though.
 4. [Nice-to-have] A 1941 forest fire south of Lac Ouareau threatened Camp Ouareau — was Camp Kanawana affected by the same fire season?
 
 ## Related Articles
@@ -64,3 +64,10 @@ In 2014, Camp Ouareau changed its team names from Iroquois, Algonquin, and Micma
 6. McMorris, Grace (2023). "An Experience That Lasts a Lifetime." MA thesis, Concordia University. 1946 Oolahwan visit incident.
 7. YWCA Camp Oolahwan centennial reunion announcement (dates disputed — see conflicts.json).
 8. Camp Ouareau 2014 team name change announcement (campouareau.com).
+
+## Research Notes
+
+### Revision History
+
+- **2026-07-10** — Conflict c_002 (Camp Oolahwan centennial reunion date) resolved in favour of September 8–10, 2017, per the YWCA's own announcement — weighted as the organizing institution's primary-source statement over a local blog's conflicting date.
+

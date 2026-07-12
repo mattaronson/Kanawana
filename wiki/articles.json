@@ -13,9 +13,33 @@
           "at": "2026-02-10T00:00:00Z",
           "by": "auto",
           "task": "REVIEW"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-07-09T06:30:00Z",
+          "by": "auto",
+          "task": "RESEARCH"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-07-09T22:00:00Z",
+          "by": "auto",
+          "task": "RESEARCH"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-07-10T09:00:00Z",
+          "by": "auto",
+          "task": "REVIEW"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-07-11T00:00:00Z",
+          "by": "auto",
+          "task": "REVIEW"
         }
       ],
-      "ralph_loops_completed": 1,
+      "ralph_loops_completed": 2,
       "kb_facts_used": [
         "f_0001",
         "f_0002",
@@ -75,7 +99,11 @@
         "f_1041",
         "f_1531",
         "f_1532",
-        "f_1537"
+        "f_1537",
+        "f_1815",
+        "f_1816",
+        "f_1938",
+        "f_1939"
       ],
       "sources_cited": [
         "src_ymca_website",
@@ -86,7 +114,9 @@
         "src_history_1935",
         "src_cfcf_1941",
         "src_ia_ymca_annual_1891_92",
-        "src_ia_historical_sketch_1901"
+        "src_ia_historical_sketch_1901",
+        "src_vss_familles_pionnieres",
+        "src_rpcq_ymca_8364"
       ],
       "open_questions": 6,
       "cross_links": [
@@ -107,10 +137,38 @@
         "the-kanawana-site",
         "wartime-kanawana",
         "quebec-camp-landscape",
-        "page-family"
+        "page-family",
+        "timeline-overview"
       ],
       "file_id": "1h-vki1U2tjYj8-zZ5gzuyW6kQXelcUnB",
-      "word_count": 1941
+      "word_count": 2742,
+      "notes": "2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- replaced the bold-field header convention with the standardized two-line header, moved the embedded c_005 editorial-resolution paragraph into the existing Revision History section (merged the separate 'Research Notes'/'Revision History' H2 sections into one, per the wiki-wide convention). No facts, citations, or open questions dropped; status unchanged.",
+      "tags": {
+        "era": [
+          "1890s",
+          "1900s",
+          "1910s",
+          "1920s",
+          "1930s",
+          "1940s"
+        ],
+        "region": "kanawana-site",
+        "location_refs": [
+          "the-kanawana-site"
+        ],
+        "person_type": null,
+        "topics": [
+          "founding",
+          "people",
+          "staff",
+          "chronology",
+          "name_origin",
+          "directors",
+          "geography",
+          "facilities"
+        ],
+        "is_hub": false
+      }
     },
     {
       "article_id": "da-budge",
@@ -123,9 +181,21 @@
           "at": "2026-02-10T00:00:00Z",
           "by": "auto",
           "task": "REVIEW"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-07-09T18:00:00Z",
+          "by": "auto",
+          "task": "RESEARCH"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-07-11T00:00:00Z",
+          "by": "auto",
+          "task": "REVIEW"
         }
       ],
-      "ralph_loops_completed": 1,
+      "ralph_loops_completed": 2,
       "kb_facts_used": [
         "f_0001",
         "f_0002",
@@ -138,7 +208,9 @@
         "f_0386",
         "f_0427",
         "f_0431",
-        "f_1289"
+        "f_1289",
+        "f_1912",
+        "f_1913"
       ],
       "sources_cited": [
         "src_mcgill_archives",
@@ -148,7 +220,8 @@
         "src_ymca_int_basketball",
         "src_concordia_12L",
         "src_naismith_foundation",
-        "src_concordia_fonds"
+        "src_concordia_fonds",
+        "src_concordia_13D_joyce_oliver"
       ],
       "open_questions": 4,
       "cross_links": [
@@ -159,7 +232,25 @@
         "harold-cross"
       ],
       "file_id": "1iOHcDJeDgo5VFTfb46EQ6JrFYuZaZie5",
-      "word_count": 746
+      "word_count": 847,
+      "notes": "2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- fixed the malformed Sources header, nested the standalone 'Revision History' heading under a new parent 'Research Notes' heading per the wiki-wide convention. No facts, citations, or open questions dropped; status unchanged.",
+      "tags": {
+        "era": [
+          "1890s",
+          "1900s",
+          "1930s"
+        ],
+        "region": "montreal",
+        "location_refs": [],
+        "person_type": "founder-era-figure",
+        "topics": [
+          "founding",
+          "people",
+          "directors",
+          "sources"
+        ],
+        "is_hub": false
+      }
     },
     {
       "article_id": "canoe-trips",
@@ -172,9 +263,15 @@
           "at": "2026-02-10T00:00:00Z",
           "by": "auto",
           "task": "REVIEW"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-07-09T18:00:00Z",
+          "by": "auto",
+          "task": "RESEARCH"
         }
       ],
-      "ralph_loops_completed": 1,
+      "ralph_loops_completed": 2,
       "kb_facts_used": [
         "f_0127",
         "f_0202",
@@ -201,7 +298,11 @@
         "f_1317",
         "f_1318",
         "f_1319",
-        "f_1561"
+        "f_1561",
+        "f_1905",
+        "f_1906",
+        "f_1907",
+        "f_1908"
       ],
       "sources_cited": [
         "src_mcmorris_thesis",
@@ -211,9 +312,13 @@
         "src_history_1935",
         "src_ymca_kanawana_explorers_pioneers_2026",
         "src_ymca_kanawana_adventurers_pathfinders_2026",
-        "src_ymca_kanawana_programs_2026"
+        "src_ymca_kanawana_programs_2026",
+        "src_wikipedia_lac_landron",
+        "src_reserve_laverendrye_history",
+        "src_radiocanada_sepaq_laverendrye_2022",
+        "src_mesaieux_st_pierre"
       ],
-      "open_questions": 3,
+      "open_questions": 5,
       "cross_links": [
         "camp-otoreke",
         "canadian-camping-movement",
@@ -225,7 +330,28 @@
         "a-ross-seaman"
       ],
       "file_id": "13MmwA1lO_3J3rJ7yEZjwsvT--vWooITy",
-      "word_count": 903
+      "word_count": 1343,
+      "tags": {
+        "era": [
+          "1920s",
+          "1930s",
+          "1950s",
+          "1960s",
+          "1990s",
+          "2020s"
+        ],
+        "region": "not-applicable",
+        "location_refs": [],
+        "person_type": null,
+        "topics": [
+          "canoe_trips",
+          "programs",
+          "places",
+          "coeducation",
+          "context"
+        ],
+        "is_hub": true
+      }
     },
     {
       "article_id": "council-ring",
@@ -238,9 +364,15 @@
           "at": "2026-02-10T00:00:00Z",
           "by": "auto",
           "task": "REVIEW"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-07-09T18:00:00Z",
+          "by": "auto",
+          "task": "RESEARCH"
         }
       ],
-      "ralph_loops_completed": 1,
+      "ralph_loops_completed": 2,
       "kb_facts_used": [
         "f_0031",
         "f_0038",
@@ -255,7 +387,10 @@
         "f_1219",
         "f_1220",
         "f_1372",
-        "f_1563"
+        "f_1563",
+        "f_1925",
+        "f_1926",
+        "f_1927"
       ],
       "sources_cited": [
         "src_concordia_02D",
@@ -276,8 +411,26 @@
         "lv-games"
       ],
       "file_id": "13YtmB0kQvK5oBY-Kz_88vIgztYAH5x2e",
-      "word_count": 1085,
-      "notes": "v4.75: 2020 Opening Campfire confirmed (Facebook Live). Tamaracouta totem pole theft noted."
+      "word_count": 1459,
+      "notes": "v4.75: 2020 Opening Campfire confirmed (Facebook Live). Tamaracouta totem pole theft noted.",
+      "tags": {
+        "era": [
+          "1920s",
+          "1930s"
+        ],
+        "region": "kanawana-site",
+        "location_refs": [],
+        "person_type": null,
+        "topics": [
+          "council_ring",
+          "places",
+          "traditions",
+          "facilities",
+          "directors",
+          "context"
+        ],
+        "is_hub": false
+      }
     },
     {
       "article_id": "lv-games",
@@ -290,9 +443,27 @@
           "at": "2026-02-10T00:00:00Z",
           "by": "auto",
           "task": "REVIEW"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-07-09T11:00:00Z",
+          "by": "auto",
+          "task": "RESEARCH"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-07-10T05:00:00Z",
+          "by": "auto",
+          "task": "RESEARCH"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-07-11T00:00:00Z",
+          "by": "auto",
+          "task": "REVIEW"
         }
       ],
-      "ralph_loops_completed": 1,
+      "ralph_loops_completed": 2,
       "kb_facts_used": [
         "f_0192",
         "f_0193",
@@ -315,7 +486,12 @@
         "f_1100",
         "f_1101",
         "f_1312",
-        "f_1509"
+        "f_1509",
+        "f_1885",
+        "f_1886",
+        "f_1887",
+        "f_1888",
+        "f_1980"
       ],
       "sources_cited": [
         "src_mcmorris_thesis",
@@ -324,19 +500,48 @@
         "src_pine_crest_book",
         "src_ymca_kanawana_history",
         "src_ymca_gta_blog_games",
-        "src_aca_hayowentha_programs"
+        "src_aca_hayowentha_programs",
+        "src_ymcagta_pine_crest_games",
+        "src_hayowentha_website",
+        "src_wikipedia_color_war",
+        "src_ymcaquebec_voyageurs_page"
       ],
       "open_questions": 5,
       "cross_links": [
+        "camp-pine-crest",
+        "canadian-camping-movement",
         "canoe-trips",
         "coeducation-gender",
         "pine-crest",
         "programs-activities",
-        "traditions-and-culture",
-        "canadian-camping-movement"
+        "traditions-and-culture"
       ],
       "file_id": "1EmzjwZxmQKJhFrNsbFGn1HbdseFBM9E7",
-      "word_count": 871
+      "word_count": 1429,
+      "notes": "2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- fixed the malformed header (Status casing 'E1 Reviewed' -> 'E1-reviewed', Sources field was free-text descriptions instead of a count), moved the 'Correction, 2026-07-09' paragraph into a new Research Notes > Revision History section, folded the orphaned 'R3 Verification Notes' H3 (no parent heading) into Research Notes. No facts, citations, or open questions dropped; status unchanged. | 2026-07-11: Added wiki-link to Camp Pine Crest (now a standalone article) in prose and Related Articles.",
+      "tags": {
+        "era": [
+          "1910s",
+          "1940s",
+          "1950s",
+          "2010s"
+        ],
+        "region": "kanawana-site",
+        "location_refs": [
+          "the-kanawana-site"
+        ],
+        "person_type": null,
+        "topics": [
+          "lv_games",
+          "traditions",
+          "context",
+          "programs",
+          "camp_culture",
+          "inter-camp",
+          "inter_camp"
+        ],
+        "is_hub": false
+      }
     },
     {
       "article_id": "wartime-kanawana",
@@ -406,10 +611,34 @@
         "founding-1894",
         "kanawana-in-media",
         "rh-hanagan",
-        "cushing-family"
+        "cushing-family",
+        "timeline-overview"
       ],
       "file_id": "1FzPFWuQ3jBYZdPOSVC_xjANKsWr7RjSK",
-      "word_count": 1174
+      "word_count": 1180,
+      "tags": {
+        "era": [
+          "1910s",
+          "1930s",
+          "1940s"
+        ],
+        "region": "kanawana-site",
+        "location_refs": [
+          "the-kanawana-site"
+        ],
+        "person_type": null,
+        "topics": [
+          "staff",
+          "directors",
+          "programs",
+          "health",
+          "chronology",
+          "people",
+          "related_camps",
+          "founding"
+        ],
+        "is_hub": false
+      }
     },
     {
       "article_id": "section-names",
@@ -422,9 +651,15 @@
           "at": "2026-02-10T00:00:00Z",
           "by": "auto",
           "task": "REVIEW"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-07-09T22:00:00Z",
+          "by": "auto",
+          "task": "RESEARCH"
         }
       ],
-      "ralph_loops_completed": 1,
+      "ralph_loops_completed": 2,
       "kb_facts_used": [
         "f_0078",
         "f_0079",
@@ -445,12 +680,15 @@
         "f_0713",
         "f_0829",
         "f_0830",
-        "f_1221"
+        "f_1221",
+        "f_1948",
+        "f_1949"
       ],
       "sources_cited": [
         "src_mcmorris_thesis",
         "src_ymca_website",
-        "src_kanawana_facts"
+        "src_kanawana_facts",
+        "src_gazette_1974_summer_camps_clipping"
       ],
       "open_questions": 3,
       "cross_links": [
@@ -460,7 +698,29 @@
         "a-ross-seaman"
       ],
       "file_id": "1vObPDCKcgzCi8HVCEMuBzQCMPd0jk2ua",
-      "word_count": 881
+      "word_count": 1567,
+      "tags": {
+        "era": [
+          "1920s",
+          "1930s",
+          "1940s",
+          "1950s"
+        ],
+        "region": "not-applicable",
+        "location_refs": [],
+        "person_type": null,
+        "topics": [
+          "section_names",
+          "sections",
+          "staff",
+          "coeducation",
+          "canoe_trips",
+          "traditions",
+          "sources",
+          "programs"
+        ],
+        "is_hub": false
+      }
     },
     {
       "article_id": "coeducation-gender",
@@ -497,6 +757,30 @@
           "at": "2026-02-19T00:00:00Z",
           "by": "auto",
           "task": "REVIEW"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-07-09T06:30:00Z",
+          "by": "auto",
+          "task": "RESEARCH"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-07-09T09:00:00Z",
+          "by": "auto",
+          "task": "RESEARCH"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-07-10T09:00:00Z",
+          "by": "auto",
+          "task": "REVIEW"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-07-11T00:00:00Z",
+          "by": "auto",
+          "task": "REVIEW"
         }
       ],
       "ralph_loops_completed": 2,
@@ -527,7 +811,12 @@
         "f_0688",
         "f_0700",
         "f_1286",
-        "f_1048"
+        "f_1048",
+        "f_1777",
+        "f_1818",
+        "f_1851",
+        "f_1852",
+        "f_1366"
       ],
       "sources_cited": [
         "src_mcmorris_thesis",
@@ -536,7 +825,10 @@
         "src_kanawana_facts",
         "src_gas_bag_1923",
         "src_ymca_john_island_newsletter",
-        "src_mtl_families_gender"
+        "src_mtl_families_gender",
+        "src_ymca_quebec_history",
+        "src_facebook_trans_inclusion",
+        "src_concordia_12L"
       ],
       "open_questions": 8,
       "cross_links": [
@@ -547,11 +839,38 @@
         "lv-games",
         "programs-activities",
         "section-names",
-        "stuart-mclean"
+        "stuart-mclean",
+        "timeline-overview"
       ],
       "file_id": "1KW2yhoZ-wr_71sTPbLJ3v81KW4ZEJ_p-",
-      "word_count": 1884,
-      "notes": "E1 REVIEW (2026-02-19): Fixed source header (src_ymca_facts→src_kanawana_facts), added Spectrum URL for McMorris thesis, added IA URLs for Facts sheet and Gas Bag. All claims cited, dates consistent, names cross-checked, tone encyclopedic. Advanced R3-verified → E1-reviewed."
+      "word_count": 2479,
+      "notes": "E1 REVIEW (2026-02-19): Fixed source header (src_ymca_facts→src_kanawana_facts), added Spectrum URL for McMorris thesis, added IA URLs for Facts sheet and Gas Bag. All claims cited, dates consistent, names cross-checked, tone encyclopedic. Advanced R3-verified → E1-reviewed. | 2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- fixed the malformed Sources header, moved the c_001 editorial-resolution narrative into a new Research Notes > Revision History section, folded the orphaned 'R3 Verification Notes' H2 into Research Notes. No facts, citations, or open questions dropped; status unchanged.",
+      "tags": {
+        "era": [
+          "1920s",
+          "1930s",
+          "1950s",
+          "1960s",
+          "1970s",
+          "2020s"
+        ],
+        "region": "kanawana-site",
+        "location_refs": [
+          "the-kanawana-site"
+        ],
+        "person_type": null,
+        "topics": [
+          "coeducation",
+          "programs",
+          "section_names",
+          "camping_movement",
+          "context",
+          "staff",
+          "meta",
+          "sources_archives"
+        ],
+        "is_hub": false
+      }
     },
     {
       "article_id": "programs-activities",
@@ -586,6 +905,30 @@
         {
           "status": "E1-reviewed",
           "at": "2026-02-19T00:00:00Z",
+          "by": "auto",
+          "task": "REVIEW"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-07-08T00:00:00Z",
+          "by": "auto",
+          "task": "RESEARCH"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-07-09T06:30:00Z",
+          "by": "auto",
+          "task": "RESEARCH"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-07-09T09:00:00Z",
+          "by": "auto",
+          "task": "RESEARCH"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-07-11T00:00:00Z",
           "by": "auto",
           "task": "REVIEW"
         }
@@ -726,7 +1069,20 @@
         "f_1334",
         "f_1368",
         "f_1369",
-        "f_1370"
+        "f_1370",
+        "f_1780",
+        "f_1781",
+        "f_1782",
+        "f_1783",
+        "f_1784",
+        "f_1819",
+        "f_1820",
+        "f_1821",
+        "f_1846",
+        "f_1847",
+        "f_1848",
+        "f_1849",
+        "f_1850"
       ],
       "sources_cited": [
         "src_banq_le_droit_1937_06_25",
@@ -746,7 +1102,14 @@
         "src_mcmorris_thesis",
         "src_postmedia_nature_deficit_2026",
         "src_websearch_emsb_kanawana",
-        "src_ymca_website"
+        "src_ymca_website",
+        "src_vss_journee_plein_air",
+        "src_indeed_companion_job",
+        "src_glassdoor_outdoor_ed_director",
+        "src_wikipedia_woodcraft_league",
+        "src_concordia_p0145_12b01_finding_aid",
+        "src_concordia_12B03",
+        "src_concordia_atom_12B07"
       ],
       "open_questions": 8,
       "cross_links": [
@@ -760,8 +1123,38 @@
         "quebec-camp-landscape"
       ],
       "file_id": "1oqLoU6_bzWD_9jXwXQgYNm_EqLCEfNjR",
-      "word_count": 2666,
-      "notes": "v4.75: Noosphere section expanded — Zinner thesis (McGill 1973), Third World Village model, Montreal-matin article."
+      "word_count": 3500,
+      "notes": "v4.75: Noosphere section expanded — Zinner thesis (McGill 1973), Third World Village model, Montreal-matin article. | 2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- fixed the malformed Sources header, renamed the orphaned 'R3 Verification Notes' H2 to the standard 'Research Notes' heading and condensed its bullet list into a single HTML-comment process-log entry. No facts, citations, or open questions dropped; status unchanged.",
+      "tags": {
+        "era": [
+          "1890s",
+          "1910s",
+          "1920s",
+          "1930s",
+          "1940s",
+          "1950s",
+          "1960s",
+          "1970s",
+          "1980s",
+          "1990s",
+          "2010s",
+          "2020s"
+        ],
+        "region": "not-applicable",
+        "location_refs": [],
+        "person_type": null,
+        "topics": [
+          "programs",
+          "founding",
+          "enrollment",
+          "operations",
+          "canoe_trips",
+          "lv_games",
+          "section_names",
+          "brochures"
+        ],
+        "is_hub": true
+      }
     },
     {
       "article_id": "ralph-dawson",
@@ -798,9 +1191,27 @@
           "at": "2026-03-15T13:30:00Z",
           "by": "auto",
           "task": "REVIEW"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-07-09T00:00:00Z",
+          "by": "auto",
+          "task": "RESEARCH"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-07-09T22:00:00Z",
+          "by": "auto",
+          "task": "RESEARCH"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-07-11T00:00:00Z",
+          "by": "auto",
+          "task": "REVIEW"
         }
       ],
-      "ralph_loops_completed": 2,
+      "ralph_loops_completed": 3,
       "kb_facts_used": [
         "f_0021",
         "f_0049",
@@ -813,7 +1224,9 @@
         "f_0930",
         "f_0931",
         "f_1043",
-        "f_1151"
+        "f_1151",
+        "f_1792",
+        "f_1940"
       ],
       "sources_cited": [
         "src_concordia_fonds",
@@ -821,7 +1234,8 @@
         "src_concordia_atom_fonds",
         "src_concordia_atom_12A",
         "src_mcmorris_thesis",
-        "src_web_search_2026_03"
+        "src_web_search_2026_03",
+        "src_concordia_13D_joyce_oliver"
       ],
       "open_questions": 6,
       "cross_links": [
@@ -832,8 +1246,25 @@
         "myths-and-legends"
       ],
       "file_id": "1sAGFRKb22uggFeMgrSJLllgpSZoAGxa4",
-      "word_count": 803,
-      "notes": "v47 protocol test subject. Formal RALPH caught factual conflation. v4.24 RALPH loop (2026-03-15): 8-query web search saturation. No biographical details found online. New facts f_0927-f_0931. Resolution requires Concordia Archives physical/remote access."
+      "word_count": 1317,
+      "notes": "v47 protocol test subject. Formal RALPH caught factual conflation. v4.24 RALPH loop (2026-03-15): 8-query web search saturation. No biographical details found online. New facts f_0927-f_0931. Resolution requires Concordia Archives physical/remote access. | 2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- fixed the malformed Sources header. No facts, citations, or open questions dropped; status unchanged.",
+      "tags": {
+        "era": [
+          "1890s",
+          "1930s"
+        ],
+        "region": "not-applicable",
+        "location_refs": [],
+        "person_type": "founder-era-figure",
+        "topics": [
+          "people",
+          "meta",
+          "directors",
+          "name_origin",
+          "documents"
+        ],
+        "is_hub": false
+      }
     },
     {
       "article_id": "directors-index",
@@ -874,6 +1305,36 @@
         {
           "status": "E1-reviewed",
           "at": "2026-02-19T04:30:00Z",
+          "by": "auto",
+          "task": "REVIEW"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-07-09T00:00:00Z",
+          "by": "auto",
+          "task": "VERIFY"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-07-09T06:30:00Z",
+          "by": "auto",
+          "task": "RESEARCH"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-07-09T09:00:00Z",
+          "by": "auto",
+          "task": "RESEARCH"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-07-10T08:00:00Z",
+          "by": "auto",
+          "task": "REVIEW"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-07-11T00:00:00Z",
           "by": "auto",
           "task": "REVIEW"
         }
@@ -1067,32 +1528,97 @@
         "f_1343",
         "f_0089",
         "f_1544",
-        "f_1553"
+        "f_1553",
+        "f_1792",
+        "f_1793",
+        "f_1794",
+        "f_1795",
+        "f_1796",
+        "f_1797",
+        "f_1825",
+        "f_1826",
+        "f_1827"
       ],
       "sources_cited": [
         21,
         "src_flickr_kanawana",
-        "src_mcmaster_mclean"
+        "src_mcmaster_mclean",
+        "src_pureexploration_manuel_quiroga",
+        "src_ymcakanawana_com_wayback_2005_2007",
+        "src_reportage_vecu_2007",
+        "src_application_2006",
+        "src_ymcakanawana_2005_handbook"
       ],
-      "open_questions": 7,
+      "open_questions": 14,
       "cross_links": [
+        "a-ross-seaman",
+        "arleen-boyer",
         "billy-ball",
+        "bruce-netherwood",
         "cushing-family",
         "da-budge",
+        "dan-aronson",
+        "david-leduc",
         "founding-1894",
+        "francois-dauphin",
+        "gary-white",
+        "greig-macdiarmid",
         "harold-cross",
+        "hedley-dimock",
+        "howie-langille",
+        "justin-caldwell",
+        "kate-taylor",
+        "marie-pierre-lacasse",
+        "matt-aronson",
+        "morgan-carter",
+        "nelson-mcewen",
+        "nicolas-garcia",
         "pip-alumni-award",
         "ralph-dawson",
-        "stuart-mclean",
-        "traditions-and-culture",
-        "wartime-kanawana",
         "rh-hanagan",
-        "a-ross-seaman",
-        "hedley-dimock"
+        "rl-charlton",
+        "ross-bannerman",
+        "stuart-mclean",
+        "timeline-overview",
+        "traditions-and-culture",
+        "wartime-kanawana"
       ],
       "file_id": null,
-      "word_count": 5250,
-      "notes": "v4.75: Peter Goddard confirmed (Peter Gilling Goddard 1953-2016, obituary condolence). Nelson McEwen tenure extended c.1927-1947. Derek Walsh exhausted. Gap periods updated. | 2026-07-07: applied operator's standing conflict-resolution policy (documented sources take precedence over oral history) to resolve c_004, c_015, c_016, c_017 -- Gary White's Kanawana tenure narrowed to FY2001-2002, Sean Day's start corrected to 2008, Nicolas Garcia's spelling/end-date corrected to March 2014, Rossy Foundation corrected to Tyndale St-Georges."
+      "word_count": 12042,
+      "notes": "v4.75: Peter Goddard confirmed (Peter Gilling Goddard 1953-2016, obituary condolence). Nelson McEwen tenure extended c.1927-1947. Derek Walsh exhausted. Gap periods updated. | 2026-07-07: applied operator's standing conflict-resolution policy (documented sources take precedence over oral history) to resolve c_004, c_015, c_016, c_017 -- Gary White's Kanawana tenure narrowed to FY2001-2002, Sean Day's start corrected to 2008, Nicolas Garcia's spelling/end-date corrected to March 2014, Rossy Foundation corrected to Tyndale St-Georges. | 2026-07-11: Workstream A Wave 1 prose-sediment REVIEW pass -- standardized header, moved dated correction narrative from table cells into a new visible Revision History section, corrected open_questions count (was stale at 7, actual count is and remains 14). No facts, citations, or open questions dropped; status unchanged. | 2026-07-11: Added wiki-links to Howie Langille and Ross Bannerman table rows and Related Articles, pointing to their new standalone Workstream C1 articles. | 2026-07-11: Added wiki-links to Bruce Netherwood (Camp Directors table, Pip Award table, Related Articles) pointing to the new standalone article. | 2026-07-11: Added wiki-links to Gary White, David Leduc, Kate Taylor, Marie-Pierre Lacasse table rows and Related Articles, pointing to new standalone institutional-role-director articles. | 2026-07-11: Added wiki-links to Greig Macdiarmid, Francois Dauphin, Nicolas Garcia, Morgan Carter, Arleen Boyer, Justin Caldwell (Two-Tier Era + Staff by Era tables) and Matt/Dan Aronson (Related Articles), per the operator's revised C5 policy.",
+      "tags": {
+        "era": [
+          "1880s",
+          "1890s",
+          "1900s",
+          "1910s",
+          "1920s",
+          "1930s",
+          "1940s",
+          "1950s",
+          "1960s",
+          "1970s",
+          "1980s",
+          "1990s",
+          "2000s",
+          "2010s",
+          "2020s"
+        ],
+        "region": "not-applicable",
+        "location_refs": [],
+        "person_type": null,
+        "topics": [
+          "people",
+          "staff",
+          "directors",
+          "biography",
+          "programs",
+          "notable_alumni",
+          "administration",
+          "traditions"
+        ],
+        "is_hub": true
+      }
     },
     {
       "article_id": "sources-index",
@@ -1129,9 +1655,27 @@
           "at": "2026-02-19T07:30:00Z",
           "by": "auto",
           "task": "REVIEW"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-07-09T07:00:00Z",
+          "by": "auto",
+          "task": "REVIEW"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-07-10T04:00:00Z",
+          "by": "auto",
+          "task": "RESEARCH"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-07-11T00:00:00Z",
+          "by": "auto",
+          "task": "REVIEW"
         }
       ],
-      "ralph_loops_completed": 0,
+      "ralph_loops_completed": 1,
       "kb_facts_used": [
         "f_0345",
         "f_0350",
@@ -1201,9 +1745,24 @@
         "f_1309",
         "f_1335",
         "f_1337",
-        "f_1339"
+        "f_1339",
+        "f_1960",
+        "f_1961",
+        "f_1962",
+        "f_1963",
+        "f_1964",
+        "f_1966",
+        "f_1967",
+        "f_1968",
+        "f_1983"
       ],
-      "sources_cited": [],
+      "sources_cited": [
+        "src_concordia_finding_aid_master_pdf",
+        "src_concordia_12N_camping_associations",
+        "src_trent_qca_fonds",
+        "src_banq_numerique_general",
+        "src_ballantyne_1944"
+      ],
       "open_questions": 7,
       "cross_links": [
         "founding-1894",
@@ -1212,11 +1771,41 @@
         "kanawana-in-media",
         "harold-cross",
         "pip-alumni-award",
-        "stuart-mclean"
+        "stuart-mclean",
+        "timeline-overview"
       ],
       "file_id": null,
-      "word_count": 1622,
-      "notes": "E1 REVIEW (2026-02-19): Fixed source counts (85 total, 74 extracted, 11 IA documents). Restructured with newspaper sources, Pip Award pages, biographical sources. 2026-06-21: Added 1966-67 annual report (f_1335), expanded 12B01/14D holdings detail (f_1337), expanded Kautz YMCA Archives entry (f_1339). Updated statistics to 138 sources, 1355 facts, KB v4.74."
+      "word_count": 2502,
+      "notes": "E1 REVIEW (2026-02-19): Fixed source counts (85 total, 74 extracted, 11 IA documents). Restructured with newspaper sources, Pip Award pages, biographical sources. 2026-06-21: Added 1966-67 annual report (f_1335), expanded 12B01/14D holdings detail (f_1337), expanded Kautz YMCA Archives entry (f_1339). Updated statistics to 138 sources, 1355 facts, KB v4.74. 2026-07-09: Resolved/clarified 3 of 7 open questions (McMorris thesis now read in full; Trent OCA/CCA fonds largely resolved via Derek Walsh; BAnQ Advitam notice clarified as a separate deposit from the Concordia fonds). Refreshed Source/KB Statistics tables to current totals (580 sources, 1790 facts, KB v5.02) -- the detailed primary/secondary/tertiary category breakdown remains a March-2026 tally, flagged stale, not recomputed this pass. | 2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- removed the old-style HTML-comment header, replaced with the standardized header (Sources field uses the project's current total-sources count, since this meta article is itself a sources catalog rather than a cited-source article). No facts, citations, or open questions dropped; status unchanged.",
+      "tags": {
+        "era": [
+          "1890s",
+          "1910s",
+          "1920s",
+          "1930s",
+          "1940s",
+          "1950s",
+          "1960s",
+          "1970s",
+          "1980s",
+          "1990s",
+          "2020s"
+        ],
+        "region": "not-applicable",
+        "location_refs": [],
+        "person_type": null,
+        "topics": [
+          "sources",
+          "archives",
+          "meta",
+          "sources_archives",
+          "media_and_publications",
+          "programs",
+          "media",
+          "publications"
+        ],
+        "is_hub": true
+      }
     },
     {
       "article_id": "harold-cross",
@@ -1251,6 +1840,12 @@
         {
           "status": "E1-reviewed",
           "at": "2026-02-19T04:30:00Z",
+          "by": "auto",
+          "task": "REVIEW"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-07-11T00:00:00Z",
           "by": "auto",
           "task": "REVIEW"
         }
@@ -1291,8 +1886,28 @@
         "the-kanawana-site"
       ],
       "file_id": null,
-      "word_count": 1000,
-      "notes": "E1 REVIEW (2026-02-19): Added inline ^1-^5 citations throughout body text. Standardized all name mentions to 'Harold C. Cross'. Added Related Articles section. Added priority tags to Open Questions. Advanced R3-verified → E1-reviewed."
+      "word_count": 1204,
+      "notes": "E1 REVIEW (2026-02-19): Added inline ^1-^5 citations throughout body text. Standardized all name mentions to 'Harold C. Cross'. Added Related Articles section. Added priority tags to Open Questions. Advanced R3-verified → E1-reviewed. | 2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- fixed the malformed Sources header. No facts, citations, or open questions dropped; status unchanged.",
+      "tags": {
+        "era": [
+          "1920s",
+          "1930s",
+          "1940s",
+          "1950s",
+          "1970s"
+        ],
+        "region": "montreal",
+        "location_refs": [],
+        "person_type": "director",
+        "topics": [
+          "directors",
+          "sources_archives",
+          "ymca_montreal",
+          "ymca_canada",
+          "people"
+        ],
+        "is_hub": false
+      }
     },
     {
       "article_id": "centennial-1967",
@@ -1323,9 +1938,27 @@
           "at": "2026-02-14T03:30:00Z",
           "by": "auto",
           "task": "REVIEW"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-07-09T18:00:00Z",
+          "by": "auto",
+          "task": "RESEARCH"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-07-10T05:00:00Z",
+          "by": "auto",
+          "task": "RESEARCH"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-07-11T00:00:00Z",
+          "by": "auto",
+          "task": "REVIEW"
         }
       ],
-      "ralph_loops_completed": 1,
+      "ralph_loops_completed": 3,
       "kb_facts_used": [
         "f_0244",
         "f_0245",
@@ -1378,7 +2011,10 @@
         "f_0394",
         "f_0459",
         "f_0849",
-        "f_1507"
+        "f_1507",
+        "f_1900",
+        "f_1902",
+        "f_1981"
       ],
       "sources_cited": [
         "src_mcmorris_thesis",
@@ -1391,7 +2027,8 @@
         "src_mb_sports_hof",
         "src_taylor_statten_camps",
         "src_concordia_fonds",
-        "src_cfgrand_stpierre"
+        "src_cfgrand_stpierre",
+        "src_concordia_13E_expo67"
       ],
       "open_questions": 6,
       "cross_links": [
@@ -1402,10 +2039,34 @@
         "founding-1894",
         "harold-cross",
         "sources-index",
-        "traditions-and-culture"
+        "traditions-and-culture",
+        "timeline-overview"
       ],
       "file_id": null,
-      "word_count": 1417
+      "word_count": 1916,
+      "notes": "2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- removed the old-style HTML-comment header, replaced with the standardized two-line header. No facts, citations, or open questions dropped; status unchanged.",
+      "tags": {
+        "era": [
+          "1920s",
+          "1960s",
+          "2010s",
+          "2020s"
+        ],
+        "region": "canada-other",
+        "location_refs": [],
+        "person_type": null,
+        "topics": [
+          "centennial",
+          "brochures",
+          "meta",
+          "traditions",
+          "chronology",
+          "founding",
+          "geography",
+          "context"
+        ],
+        "is_hub": false
+      }
     },
     {
       "article_id": "canadian-camping-movement",
@@ -1434,6 +2095,24 @@
         {
           "status": "E1-reviewed",
           "at": "2026-02-14T03:30:00Z",
+          "by": "auto",
+          "task": "REVIEW"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-07-09T11:00:00Z",
+          "by": "auto",
+          "task": "RESEARCH"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-07-10T08:00:00Z",
+          "by": "auto",
+          "task": "REVIEW"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-07-11T00:00:00Z",
           "by": "auto",
           "task": "REVIEW"
         }
@@ -1492,7 +2171,10 @@
         "f_1277",
         "f_1278",
         "f_1284",
-        "f_1360"
+        "f_1360",
+        "f_1883",
+        "f_1884",
+        "f_1889"
       ],
       "sources_cited": [
         "src_camp_stephens_alumni_blog",
@@ -1506,9 +2188,12 @@
         "src_wall_nurture",
         "src_wikipedia_big_cove",
         "src_wikipedia_edgar",
-        "src_ymca_website"
+        "src_ymca_website",
+        "src_trent_oca_fonds_72_007",
+        "src_concordia_atom_12B05",
+        "src_ia_ymca_annual_1989_fr"
       ],
-      "open_questions": 5,
+      "open_questions": 6,
       "cross_links": [
         "canoe-trips",
         "centennial-1967",
@@ -1517,8 +2202,37 @@
         "sources-index"
       ],
       "file_id": null,
-      "word_count": 1891,
-      "notes": "v4.75: McEwen as CCA co-founder with Taylor Statten added."
+      "word_count": 2562,
+      "notes": "v4.75: McEwen as CCA co-founder with Taylor Statten added. | 2026-07-11: Workstream A Wave 1 prose-sediment REVIEW pass -- added the standardized two-line header (previously had only the old-style HTML-comment header), moved the c_020 (OCA founding-date reconciliation) editorial-resolution narrative into a new visible Revision History section. Corrected open_questions count (was stale at 5, actual is 6). No facts, citations, or open questions dropped; status unchanged.",
+      "tags": {
+        "era": [
+          "1880s",
+          "1900s",
+          "1910s",
+          "1920s",
+          "1930s",
+          "1940s",
+          "1960s",
+          "1970s",
+          "1980s",
+          "2010s",
+          "2020s"
+        ],
+        "region": "canada-other",
+        "location_refs": [],
+        "person_type": null,
+        "topics": [
+          "camping_movement",
+          "organizations",
+          "institutional",
+          "people",
+          "context",
+          "ymca_montreal",
+          "publications",
+          "canadian_camping"
+        ],
+        "is_hub": false
+      }
     },
     {
       "article_id": "billy-ball",
@@ -1549,6 +2263,18 @@
           "at": "2026-02-19T04:30:00Z",
           "by": "auto",
           "task": "REVIEW"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-07-09T09:00:00Z",
+          "by": "auto",
+          "task": "RESEARCH"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-07-11T00:00:00Z",
+          "by": "auto",
+          "task": "REVIEW"
         }
       ],
       "ralph_loops_completed": 2,
@@ -1563,16 +2289,24 @@
         "f_0430",
         "f_0431",
         "f_1244",
-        "f_1245"
+        "f_1245",
+        "f_1829",
+        "f_1830",
+        "f_1831",
+        "f_1832",
+        "f_1833"
       ],
       "sources_cited": [
         "src_ymca_website",
         "src_kanawana_facts",
         "src_qahn_howard",
         "src_mcgill_budge",
-        "src_concordia_fonds"
+        "src_concordia_fonds",
+        "src_ia_ymca_annual_1890_91",
+        "src_ia_ymca_annual_1902",
+        "src_lovells_montreal_directory_1893_94"
       ],
-      "open_questions": 7,
+      "open_questions": 8,
       "cross_links": [
         "camp-otoreke",
         "cushing-family",
@@ -1581,8 +2315,23 @@
         "founding-1894"
       ],
       "file_id": null,
-      "word_count": 924,
-      "notes": "E1 REVIEW (2026-02-19): PASS — all 7 checklist items satisfied. No fixes needed. Advanced R3-verified → E1-reviewed."
+      "word_count": 1664,
+      "notes": "E1 REVIEW (2026-02-19): PASS — all 7 checklist items satisfied. No fixes needed. Advanced R3-verified → E1-reviewed. | 2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- removed the old-style HTML-comment header (article had no standardized header at all), softened a dated bold-label marker in prose. No facts, citations, or open questions dropped; status unchanged.",
+      "tags": {
+        "era": [
+          "1890s",
+          "1900s"
+        ],
+        "region": "montreal",
+        "location_refs": [],
+        "person_type": "founder-era-figure",
+        "topics": [
+          "people",
+          "founding",
+          "sources"
+        ],
+        "is_hub": false
+      }
     },
     {
       "article_id": "cushing-family",
@@ -1619,9 +2368,33 @@
           "at": "2026-02-19T04:30:00Z",
           "by": "auto",
           "task": "REVIEW"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-07-08T00:00:00Z",
+          "by": "auto",
+          "task": "VERIFY"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-07-09T18:00:00Z",
+          "by": "auto",
+          "task": "RESEARCH"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-07-10T08:00:00Z",
+          "by": "auto",
+          "task": "REVIEW"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-07-11T00:00:00Z",
+          "by": "auto",
+          "task": "REVIEW"
         }
       ],
-      "ralph_loops_completed": 3,
+      "ralph_loops_completed": 4,
       "kb_facts_used": [
         "f_0011",
         "f_0185",
@@ -1663,7 +2436,12 @@
         "f_1532",
         "f_1533",
         "f_1539",
-        "f_1540"
+        "f_1540",
+        "f_1778",
+        "f_1779",
+        "f_1909",
+        "f_1910",
+        "f_1911"
       ],
       "sources_cited": [
         "src_qahn_howard",
@@ -1680,7 +2458,7 @@
         "src_ia_ymca_annual_1891_92",
         "src_ia_historical_sketch_1901"
       ],
-      "open_questions": 5,
+      "open_questions": 6,
       "cross_links": [
         "billy-ball",
         "camp-otoreke",
@@ -1690,8 +2468,37 @@
         "founding-1894"
       ],
       "file_id": null,
-      "word_count": 1448,
-      "notes": "E1 REVIEW (2026-02-19): Fixed Frederick row in Eight Sons table (birthplace clarified in Occupation column). All 7 checklist items satisfied. Advanced R3-verified → E1-reviewed."
+      "word_count": 2585,
+      "notes": "E1 REVIEW (2026-02-19): Fixed Frederick row in Eight Sons table (birthplace clarified in Occupation column). All 7 checklist items satisfied. Advanced R3-verified → E1-reviewed. | 2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- removed the old-style HTML-comment header, moved the c_019 contradiction/editorial-resolution narrative into a new Research Notes > Revision History section. No facts, citations, or open questions dropped; status unchanged.",
+      "tags": {
+        "era": [
+          "1800s",
+          "1840s",
+          "1850s",
+          "1860s",
+          "1870s",
+          "1880s",
+          "1890s",
+          "1900s",
+          "1910s",
+          "1930s",
+          "1940s"
+        ],
+        "region": "montreal",
+        "location_refs": [],
+        "person_type": "family",
+        "topics": [
+          "people",
+          "chronology",
+          "sources",
+          "founding",
+          "programs",
+          "research_leads",
+          "archives",
+          "institutional"
+        ],
+        "is_hub": false
+      }
     },
     {
       "article_id": "traditions-and-culture",
@@ -1722,9 +2529,21 @@
           "at": "2026-02-19T00:00:00Z",
           "by": "auto",
           "task": "REVIEW"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-07-09T06:30:00Z",
+          "by": "auto",
+          "task": "RESEARCH"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-07-09T22:00:00Z",
+          "by": "auto",
+          "task": "RESEARCH"
         }
       ],
-      "ralph_loops_completed": 1,
+      "ralph_loops_completed": 2,
       "kb_facts_used": [
         "f_0103",
         "f_0120",
@@ -1840,7 +2659,11 @@
         "f_1767",
         "f_1768",
         "f_1769",
-        "f_1770"
+        "f_1770",
+        "f_1824",
+        "f_1935",
+        "f_1936",
+        "f_1937"
       ],
       "sources_cited": [
         "src_mcmorris_thesis",
@@ -1861,7 +2684,8 @@
         "src_pine_crest_encyclopedia",
         "src_kanawana_facts",
         "src_wayback_ymcakanawana_homepage_2005_2015",
-        "src_websearch_kamp_kanawana_sweep_2026"
+        "src_websearch_kamp_kanawana_sweep_2026",
+        "src_camper_oath_2010_2013"
       ],
       "open_questions": 7,
       "cross_links": [
@@ -1878,8 +2702,36 @@
         "the-kanawana-site"
       ],
       "file_id": null,
-      "word_count": 2126,
-      "notes": "E1 REVIEW (2026-02-19): Fixed non-existent src_concordia_12B04 in header (removed; src_concordia_atom_12B04 already present). Fixed '131-year history' ambiguity to 'more than 130 years'. All claims cited, dates consistent, names cross-checked, tone encyclopedic."
+      "word_count": 3625,
+      "notes": "E1 REVIEW (2026-02-19): Fixed non-existent src_concordia_12B04 in header (removed; src_concordia_atom_12B04 already present). Fixed '131-year history' ambiguity to 'more than 130 years'. All claims cited, dates consistent, names cross-checked, tone encyclopedic.",
+      "tags": {
+        "era": [
+          "1900s",
+          "1920s",
+          "1930s",
+          "1940s",
+          "1950s",
+          "1960s",
+          "1990s",
+          "2000s",
+          "2010s",
+          "2020s"
+        ],
+        "region": "not-applicable",
+        "location_refs": [],
+        "person_type": null,
+        "topics": [
+          "traditions",
+          "programs",
+          "brochures",
+          "people",
+          "lv_games",
+          "events",
+          "facilities",
+          "camp_culture"
+        ],
+        "is_hub": true
+      }
     },
     {
       "article_id": "the-kanawana-site",
@@ -1910,9 +2762,27 @@
           "at": "2026-02-19T00:00:00Z",
           "by": "auto",
           "task": "REVIEW"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-07-09T22:00:00Z",
+          "by": "auto",
+          "task": "RESEARCH"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-07-10T04:00:00Z",
+          "by": "auto",
+          "task": "RESEARCH"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-07-11T00:00:00Z",
+          "by": "auto",
+          "task": "REVIEW"
         }
       ],
-      "ralph_loops_completed": 1,
+      "ralph_loops_completed": 3,
       "kb_facts_used": [
         "f_0470",
         "f_0476",
@@ -1982,9 +2852,21 @@
         "f_0338",
         "f_0956",
         "f_1333",
-        "f_0013"
+        "f_0013",
+        "f_1943",
+        "f_1944",
+        "f_1945",
+        "f_1946",
+        "f_1947",
+        "f_1956"
       ],
-      "sources_cited": 29,
+      "sources_cited": [
+        "src_wikimapia_kanawana",
+        "src_batshaw_camp_weredale",
+        "src_vss_plan_urbanisme_2024",
+        "src_vss_reglement_zonage_222_2008",
+        "src_concordia_atom_12F"
+      ],
       "open_questions": 6,
       "cross_links": [
         "founding-1894",
@@ -1998,13 +2880,44 @@
         "places-and-locations"
       ],
       "file_id": null,
-      "word_count": 2179,
-      "notes": "E1 REVIEW (2026-02-19): Added ^4 citation for 1921 brochure (railway route). Fixed 'gorgeous views' promotional language. Standardized 'Harold C. Cross'. Added camp-otoreke cross-link. Removed KB fact IDs from Sources section. All claims cited, tone neutral. 2026-06-20: Added Indigenous territory context (f_1315) and Mille-Isles regional history (f_1314). 2026-06-21: Added 1976 Lovell's directory listing (f_1331) and 2023 superintendent's house fire (f_1333)."
+      "word_count": 2929,
+      "notes": "E1 REVIEW (2026-02-19): Added ^4 citation for 1921 brochure (railway route). Fixed 'gorgeous views' promotional language. Standardized 'Harold C. Cross'. Added camp-otoreke cross-link. Removed KB fact IDs from Sources section. All claims cited, tone neutral. 2026-06-20: Added Indigenous territory context (f_1315) and Mille-Isles regional history (f_1314). 2026-06-21: Added 1976 Lovell's directory listing (f_1331) and 2023 superintendent's house fire (f_1333). | 2026-07-11: Workstream A Wave 1 prose-sediment REVIEW pass -- fixed a malformed header (the 'Sources:' field was listing raw source IDs instead of a count), moved the embedded 'Correction (2026-07-10)' paragraph about the Weredale lease into a new Research Notes > Revision History section (this article previously had no Research Notes section at all). No facts, citations, or open questions dropped; status unchanged.",
+      "tags": {
+        "era": [
+          "1910s",
+          "1920s",
+          "1930s",
+          "1940s",
+          "1960s",
+          "1970s",
+          "1980s",
+          "2000s",
+          "2010s",
+          "2020s"
+        ],
+        "region": "kanawana-site",
+        "location_refs": [],
+        "person_type": null,
+        "topics": [
+          "geography",
+          "facilities",
+          "places",
+          "founding",
+          "context",
+          "property",
+          "administration",
+          "infrastructure"
+        ],
+        "is_hub": false
+      }
     },
     {
       "article_id": "camp-otoreke",
       "title": "Camp Otoreke",
       "wiki_folder": "places",
+      "aliases": [
+        "camp-jubilee"
+      ],
       "status": "E1-reviewed",
       "status_history": [
         {
@@ -2028,6 +2941,24 @@
         {
           "status": "E1-reviewed",
           "at": "2026-02-19T00:00:00Z",
+          "by": "auto",
+          "task": "REVIEW"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-07-09T09:00:00Z",
+          "by": "auto",
+          "task": "RESEARCH"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-07-10T09:00:00Z",
+          "by": "auto",
+          "task": "REVIEW"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-07-11T00:00:00Z",
           "by": "auto",
           "task": "REVIEW"
         }
@@ -2062,7 +2993,12 @@
         "f_1503",
         "f_1520",
         "f_1521",
-        "f_1560"
+        "f_1560",
+        "f_1834",
+        "f_1835",
+        "f_1836",
+        "f_1837",
+        "f_1838"
       ],
       "sources_cited": [
         "src_qahn_howard",
@@ -2075,7 +3011,8 @@
         "src_wikipedia_saint_adolphe",
         "src_ymca_website",
         "src_baladodecouverte_howard",
-        "src_concordia_atom_findingaid_pdf"
+        "src_concordia_atom_findingaid_pdf",
+        "src_otoreke_blog_2005"
       ],
       "open_questions": 7,
       "cross_links": [
@@ -2088,8 +3025,34 @@
         "the-kanawana-site"
       ],
       "file_id": null,
-      "word_count": 957,
-      "notes": "E1 REVIEW (2026-02-19): Removed unverifiable 'Google Maps' source and '20 km' distance claim. Expanded 'Multiple sources' citation into discrete references (Facts sheet + McMorris). Removed src_oral_aronson (no inline citation). Removed unsourced bullet. Fixed postcard inference. Fixed closure section process language. Split 1967 conference/reports sentence. Renumbered sources 1-10. Added camp-otoreke cross-link to centennial-1967."
+      "word_count": 1721,
+      "notes": "E1 REVIEW (2026-02-19): Removed unverifiable 'Google Maps' source and '20 km' distance claim. Expanded 'Multiple sources' citation into discrete references (Facts sheet + McMorris). Removed src_oral_aronson (no inline citation). Removed unsourced bullet. Fixed postcard inference. Fixed closure section process language. Split 1967 conference/reports sentence. Renumbered sources 1-10. Added camp-otoreke cross-link to centennial-1967. | 2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- fixed the malformed Sources header, moved the c_008 editorial-resolution narrative into a new Research Notes > Revision History section (article had none before). No facts, citations, or open questions dropped; status unchanged.",
+      "tags": {
+        "era": [
+          "1890s",
+          "1900s",
+          "1920s",
+          "1930s",
+          "1940s",
+          "1960s",
+          "1980s",
+          "2000s"
+        ],
+        "region": "laurentians",
+        "location_refs": [],
+        "person_type": null,
+        "topics": [
+          "founding",
+          "places",
+          "geography",
+          "sources",
+          "archives",
+          "name_origin",
+          "programs",
+          "canoe_trips"
+        ],
+        "is_hub": false
+      }
     },
     {
       "article_id": "stuart-mclean",
@@ -2124,6 +3087,18 @@
         {
           "status": "E1-reviewed",
           "at": "2026-02-19T07:30:00Z",
+          "by": "auto",
+          "task": "REVIEW"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-07-09T11:00:00Z",
+          "by": "auto",
+          "task": "RESEARCH"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-07-11T00:00:00Z",
           "by": "auto",
           "task": "REVIEW"
         }
@@ -2178,7 +3153,15 @@
         "f_1159",
         "f_1236",
         "f_1552",
-        "f_1553"
+        "f_1553",
+        "f_1891",
+        "f_1892",
+        "f_1893",
+        "f_1894",
+        "f_1895",
+        "f_1896",
+        "f_1897",
+        "f_1898"
       ],
       "sources_cited": [
         "src_samaritanmag_mclean",
@@ -2206,8 +3189,32 @@
         "sean-day"
       ],
       "file_id": null,
-      "word_count": 1401,
-      "notes": "E1 REVIEW (2026-02-19): Fixed header source IDs. All 7 checklist items PASS. RALPH R1: 26 new facts, 10 new sources. Pip Award year resolved (2009). Full biography: 1400 words, 13 sources, 9 sections."
+      "word_count": 1943,
+      "notes": "E1 REVIEW (2026-02-19): Fixed header source IDs. All 7 checklist items PASS. RALPH R1: 26 new facts, 10 new sources. Pip Award year resolved (2009). Full biography: 1400 words, 13 sources, 9 sections. | 2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- fixed the malformed Sources header again (had drifted back to raw IDs since the 2026-02-19 fix). No facts, citations, or open questions dropped; status unchanged.",
+      "tags": {
+        "era": [
+          "1940s",
+          "1960s",
+          "1970s",
+          "1980s",
+          "1990s",
+          "2000s",
+          "2010s"
+        ],
+        "region": "not-applicable",
+        "location_refs": [],
+        "person_type": "alumnus",
+        "topics": [
+          "people",
+          "notable_alumni",
+          "documents",
+          "directors",
+          "operations",
+          "traditions",
+          "archives"
+        ],
+        "is_hub": false
+      }
     },
     {
       "article_id": "pip-alumni-award",
@@ -2236,6 +3243,18 @@
         {
           "status": "E1-reviewed",
           "at": "2026-02-19T07:30:00Z",
+          "by": "auto",
+          "task": "REVIEW"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-07-09T11:00:00Z",
+          "by": "auto",
+          "task": "RESEARCH"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-07-11T00:00:00Z",
           "by": "auto",
           "task": "REVIEW"
         }
@@ -2309,7 +3328,8 @@
         "f_1375",
         "f_1376",
         "f_1377",
-        "f_1380"
+        "f_1380",
+        "f_1882"
       ],
       "sources_cited": [
         "src_atwater_caddell_bio",
@@ -2329,7 +3349,8 @@
         "src_ymca_pip_mosher",
         "src_ymca_pip_orbinski",
         "src_ymca_pip_sharpe",
-        "src_ymca_pip_skinner"
+        "src_ymca_pip_skinner",
+        "src_aca_dimock_award_recipients_2022_2026"
       ],
       "open_questions": 6,
       "cross_links": [
@@ -2339,8 +3360,35 @@
         "traditions-and-culture"
       ],
       "file_id": null,
-      "word_count": 2301,
-      "notes": "v4.75: Pip Caddell full genealogy (The Peerage). James Caddell biography expanded (CMAT memorial). Andrew Caddell career timeline. Tara Newell post-2005 career. Pip Award 2019-2023 exhausted. OQ3 resolved."
+      "word_count": 2523,
+      "notes": "v4.75: Pip Caddell full genealogy (The Peerage). James Caddell biography expanded (CMAT memorial). Andrew Caddell career timeline. Tara Newell post-2005 career. Pip Award 2019-2023 exhausted. OQ3 resolved. | 2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- fixed the malformed Sources header (was listing raw source IDs). Body prose was already clean. No facts, citations, or open questions dropped; status unchanged.",
+      "tags": {
+        "era": [
+          "1920s",
+          "1930s",
+          "1940s",
+          "1960s",
+          "1970s",
+          "1990s",
+          "2000s",
+          "2010s",
+          "2020s"
+        ],
+        "region": "not-applicable",
+        "location_refs": [],
+        "person_type": null,
+        "topics": [
+          "people",
+          "biography",
+          "notable_alumni",
+          "traditions",
+          "notable-people",
+          "administration",
+          "events",
+          "sources"
+        ],
+        "is_hub": true
+      }
     },
     {
       "article_id": "j-w-mcconnell",
@@ -2371,6 +3419,18 @@
           "at": "2026-02-28T05:51:22Z",
           "by": "auto",
           "task": "REVIEW"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-07-09T11:00:00Z",
+          "by": "auto",
+          "task": "RESEARCH"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-07-11T00:00:00Z",
+          "by": "auto",
+          "task": "REVIEW"
         }
       ],
       "ralph_loops_completed": 1,
@@ -2399,7 +3459,11 @@
         "f_1162",
         "f_1504",
         "f_1505",
-        "f_1506"
+        "f_1506",
+        "f_1874",
+        "f_1875",
+        "f_1876",
+        "f_1877"
       ],
       "sources_cited": [
         "src_wikipedia_mcconnell",
@@ -2408,7 +3472,11 @@
         "src_fong_mcconnell_2008",
         "src_kanawana_facts",
         "src_toponymie_lac_wilson_stelucie",
-        "src_grandquebec_sadl_lakes"
+        "src_grandquebec_sadl_lakes",
+        "src_mcmorris_thesis",
+        "src_toponymie_lac_wilson_additional",
+        "src_concordia_12L",
+        "src_concordia_wilson_mcconnell_collection"
       ],
       "open_questions": 6,
       "cross_links": [
@@ -2418,8 +3486,30 @@
         "cushing-family"
       ],
       "file_id": null,
-      "word_count": 1426,
-      "notes": "RALPH R1 (2026-02-26): Lake Wilson naming claim CANNOT BE VERIFIED — plausible but no documentary evidence. McConnell family tree confirmed. YMCA connection 1901-1963 documented. 10 new KB facts (f_0516-f_0525). 1 new source (Fong biography). Research SATURATED for online sources."
+      "word_count": 1825,
+      "notes": "RALPH R1 (2026-02-26): Lake Wilson naming claim CANNOT BE VERIFIED — plausible but no documentary evidence. McConnell family tree confirmed. YMCA connection 1901-1963 documented. 10 new KB facts (f_0516-f_0525). 1 new source (Fong biography). Research SATURATED for online sources. | 2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- fixed the malformed Sources header (was listing raw source IDs). No facts, citations, or open questions dropped; status unchanged.",
+      "tags": {
+        "era": [
+          "1900s",
+          "1930s",
+          "1970s",
+          "2000s"
+        ],
+        "region": "montreal",
+        "location_refs": [],
+        "person_type": "family",
+        "topics": [
+          "people",
+          "geography",
+          "places",
+          "meta",
+          "operations",
+          "sources_archives",
+          "sources",
+          "inter-camp"
+        ],
+        "is_hub": false
+      }
     },
     {
       "article_id": "lake-wilson",
@@ -2450,6 +3540,18 @@
           "at": "2026-02-28T05:51:22Z",
           "by": "auto",
           "task": "REVIEW"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-07-09T11:00:00Z",
+          "by": "auto",
+          "task": "RESEARCH"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-07-11T00:00:00Z",
+          "by": "auto",
+          "task": "REVIEW"
         }
       ],
       "ralph_loops_completed": 1,
@@ -2463,14 +3565,20 @@
         "f_0524",
         "f_0525",
         "f_1206",
-        "f_1091"
+        "f_1091",
+        "f_1874",
+        "f_1875",
+        "f_1877"
       ],
       "sources_cited": [
         "src_mysummercamps_kanawana",
         "src_gas_bag_1923",
         "src_history_1935",
         "src_ymca_website",
-        "src_oral_aronson"
+        "src_oral_aronson",
+        "src_mcmorris_thesis",
+        "src_toponymie_lac_wilson_additional",
+        "src_concordia_12L"
       ],
       "open_questions": 6,
       "cross_links": [
@@ -2480,8 +3588,23 @@
         "traditions-and-culture"
       ],
       "file_id": null,
-      "word_count": 869,
-      "notes": "RALPH R1 (2026-02-26): Two parallel research agents. First reference 1923 (Gas Bag). Dam ceremony since 1935. Two separate Lac Wilsons in region (camp vs Saint-Adolphe-d'Howard). Naming origin UNKNOWN. Added Lac Desjardins oral history (f_1206) 2026-06-20."
+      "word_count": 1215,
+      "notes": "RALPH R1 (2026-02-26): Two parallel research agents. First reference 1923 (Gas Bag). Dam ceremony since 1935. Two separate Lac Wilsons in region (camp vs Saint-Adolphe-d'Howard). Naming origin UNKNOWN. Added Lac Desjardins oral history (f_1206) 2026-06-20. | 2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- fixed the malformed Sources header, removed a minor dated-label sediment marker from prose. No facts, citations, or open questions dropped; status unchanged.",
+      "tags": {
+        "era": [
+          "1920s"
+        ],
+        "region": "kanawana-site",
+        "location_refs": [],
+        "person_type": null,
+        "topics": [
+          "geography",
+          "places",
+          "facilities",
+          "people"
+        ],
+        "is_hub": false
+      }
     },
     {
       "article_id": "myths-and-legends",
@@ -2518,9 +3641,27 @@
           "at": "2026-02-28T05:50:01Z",
           "by": "auto",
           "task": "REVIEW"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-07-09T00:00:00Z",
+          "by": "auto",
+          "task": "RESEARCH"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-07-10T04:00:00Z",
+          "by": "auto",
+          "task": "RESEARCH"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-07-11T00:00:00Z",
+          "by": "auto",
+          "task": "REVIEW"
         }
       ],
-      "ralph_loops_completed": 1,
+      "ralph_loops_completed": 2,
       "kb_facts_used": [
         "f_0135",
         "f_0196",
@@ -2588,7 +3729,14 @@
         "f_1207",
         "f_1208",
         "f_1209",
-        "f_1210"
+        "f_1210",
+        "f_1810",
+        "f_1970",
+        "f_1971",
+        "f_1972",
+        "f_1973",
+        "f_1974",
+        "f_1975"
       ],
       "sources_cited": [
         "src_ymca_website",
@@ -2609,20 +3757,56 @@
         "src_fireside_canada_chasse_galerie",
         "src_kotula_stumpy",
         "src_cropsey_documentary",
-        "src_slate_camp_ghost_2019"
+        "src_slate_camp_ghost_2019",
+        "src_1951_kamp_kanawana_history",
+        "src_ia_green_triangle_collection",
+        "src_green_triangle_1933_07_08",
+        "src_campratingz_2012"
       ],
       "open_questions": 8,
       "cross_links": [
-        "traditions-and-culture",
-        "the-kanawana-site",
-        "lake-wilson",
+        "canadian-camping-movement",
         "council-ring",
         "founding-1894",
-        "canadian-camping-movement"
+        "lake-wilson",
+        "matt-aronson",
+        "rl-charlton",
+        "the-kanawana-site",
+        "traditions-and-culture"
       ],
       "file_id": null,
-      "word_count": 3915,
-      "notes": "R1-R2 RALPH completed 2026-02-27. Four myths documented (oldest camp, name meaning, Indian heritage, founding narrative). Legends: haunted house (1935), Cropsey archetype, Anson Minor (Canadian parallel), Chopsy (Kanawana-local). Quebec folklore context. Fireside Canada podcast as source. 17 KB facts cited. 19 sources. Chopsy needs oral history."
+      "word_count": 4558,
+      "notes": "R1-R2 RALPH completed 2026-02-27. Four myths documented (oldest camp, name meaning, Indian heritage, founding narrative). Legends: haunted house (1935), Cropsey archetype, Anson Minor (Canadian parallel), Chopsy (Kanawana-local). Quebec folklore context. Fireside Canada podcast as source. 17 KB facts cited. 19 sources. Chopsy needs oral history. | 2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- trimmed the header's dated parenthetical, moved the embedded 'Update (2026-07-10)' and 'Correction (2026-07-10)' paragraphs into a new Research Notes > Revision History section (article had none before). No facts, citations, or open questions dropped; status unchanged. | 2026-07-11: Fixed link-text bug (\"R.L. Charlton\" text was linked to people/ralph-dawson); now correctly points to the new people/rl-charlton.md. | 2026-07-11: p_214 VERIFY -- searched Furness Withy/Bermuda Line fleet records for a ship named Kanawana (5 surfaces, zero matches); updated Myth 2 prose and Sources with the null result.",
+      "tags": {
+        "era": [
+          "1760s",
+          "1890s",
+          "1910s",
+          "1920s",
+          "1930s",
+          "1940s",
+          "1950s",
+          "1960s",
+          "1980s",
+          "2020s"
+        ],
+        "region": "kanawana-site",
+        "location_refs": [
+          "the-kanawana-site"
+        ],
+        "person_type": null,
+        "topics": [
+          "legends",
+          "places",
+          "camping_movement",
+          "camp_culture",
+          "traditions",
+          "facilities",
+          "name_origin",
+          "programs"
+        ],
+        "is_hub": false
+      }
     },
     {
       "article_id": "camp-songs-cheers",
@@ -2653,9 +3837,27 @@
           "at": "2026-02-28T05:47:31Z",
           "by": "auto",
           "task": "REVIEW"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-07-09T06:30:00Z",
+          "by": "auto",
+          "task": "RESEARCH"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-07-09T22:00:00Z",
+          "by": "auto",
+          "task": "RESEARCH"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-07-11T00:00:00Z",
+          "by": "auto",
+          "task": "REVIEW"
         }
       ],
-      "ralph_loops_completed": 1,
+      "ralph_loops_completed": 2,
       "kb_facts_used": [
         "f_0154",
         "f_0283",
@@ -2690,7 +3892,11 @@
         "f_0835",
         "f_0836",
         "f_1196",
-        "f_1197"
+        "f_1197",
+        "f_1817",
+        "f_1932",
+        "f_1933",
+        "f_1934"
       ],
       "sources_cited": [
         "src_gas_bag_1923",
@@ -2707,19 +3913,51 @@
         "src_aca_camp_songs_history",
         "src_wikipedia_alabama_jubilee",
         "src_ymca_website",
-        "src_cfcf_1941"
+        "src_cfcf_1941",
+        "src_youtube_live_a_lot",
+        "src_concordia_ymca_fonds_12B04_finding_aid",
+        "src_ymcagta_pinecrest_games"
       ],
       "open_questions": 9,
       "cross_links": [
-        "traditions-and-culture",
+        "council-ring",
+        "green-triangle",
+        "lv-games",
+        "matt-aronson",
         "myths-and-legends",
         "pip-alumni-award",
-        "lv-games",
-        "council-ring"
+        "traditions-and-culture"
       ],
       "file_id": null,
-      "word_count": 2462,
-      "notes": "R1 RALPH completed 2026-02-27. 14 new KB facts. 23 KB facts total. 15 sources. Key findings: Marching Song traced to Alabama Jubilee (1915), lost verses found at Concordia 2006; full 1922 Yo Triumphy cheer; 1923 Gas Bag original songs; 1935 musicale; 1938 choir by Leshley; Kerr song on CD P145/SR0001 (4:30). Blocked on: oral history for section cheers/Grace/campfire repertoire; Concordia archives for song books 1925-1945."
+      "word_count": 3094,
+      "notes": "R1 RALPH completed 2026-02-27. 14 new KB facts. 23 KB facts total. 15 sources. Key findings: Marching Song traced to Alabama Jubilee (1915), lost verses found at Concordia 2006; full 1922 Yo Triumphy cheer; 1923 Gas Bag original songs; 1935 musicale; 1938 choir by Leshley; Kerr song on CD P145/SR0001 (4:30). Blocked on: oral history for section cheers/Grace/campfire repertoire; Concordia archives for song books 1925-1945. | 2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- fixed the malformed Sources header, moved the 'Correction (2026-07-09)' paragraph into a new Research Notes > Revision History section. No facts, citations, or open questions dropped; status unchanged.",
+      "tags": {
+        "era": [
+          "1910s",
+          "1920s",
+          "1930s",
+          "1940s",
+          "1960s",
+          "2000s",
+          "2020s"
+        ],
+        "region": "kanawana-site",
+        "location_refs": [
+          "the-kanawana-site"
+        ],
+        "person_type": null,
+        "topics": [
+          "traditions",
+          "songs",
+          "songs_cheers",
+          "programs",
+          "sources",
+          "centennial",
+          "people",
+          "camp_culture"
+        ],
+        "is_hub": false
+      }
     },
     {
       "article_id": "places-and-locations",
@@ -2750,6 +3988,12 @@
           "at": "2026-02-28T05:57:36Z",
           "by": "auto",
           "task": "REVIEW"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-07-09T00:00:00Z",
+          "by": "auto",
+          "task": "RESEARCH"
         }
       ],
       "ralph_loops_completed": 1,
@@ -2802,7 +4046,28 @@
         "f_1123",
         "f_1089",
         "f_1152",
-        "f_1530"
+        "f_1530",
+        "f_1785",
+        "f_1786",
+        "f_1787",
+        "f_1788",
+        "f_1789",
+        "f_1790",
+        "f_1791",
+        "f_1798",
+        "f_1799",
+        "f_1800",
+        "f_1801",
+        "f_1802",
+        "f_1803",
+        "f_1807",
+        "f_1808",
+        "f_1809",
+        "f_1810",
+        "f_1811",
+        "f_1812",
+        "f_1813",
+        "f_1814"
       ],
       "sources_cited": [
         "src_ymca_website",
@@ -2820,7 +4085,9 @@
         "src_journal_acces_fire_2023",
         "src_ka_news_1980",
         "src_oral_aronson",
-        "src_cca_ross_macdonald"
+        "src_cca_ross_macdonald",
+        "src_concordia_12B03",
+        "src_kk_prep_guide_2025"
       ],
       "open_questions": 13,
       "cross_links": [
@@ -2835,8 +4102,35 @@
         "lv-games"
       ],
       "file_id": null,
-      "word_count": 3447,
-      "notes": "Stub created 2026-02-27. Comprehensive inventory of named places, buildings, structures (current and historical). Includes Grand Portage and Longhouse from oral tradition (no written documentation found). Superintendent's house fire May 2023. Infirmary (5 beds), 30ft climbing wall, workshop pavilion added from web research. 13 open questions."
+      "word_count": 5785,
+      "notes": "Stub created 2026-02-27. Comprehensive inventory of named places, buildings, structures (current and historical). Includes Grand Portage and Longhouse from oral tradition (no written documentation found). Superintendent's house fire May 2023. Infirmary (5 beds), 30ft climbing wall, workshop pavilion added from web research. 13 open questions.",
+      "tags": {
+        "era": [
+          "1890s",
+          "1900s",
+          "1910s",
+          "1920s",
+          "1940s",
+          "1950s",
+          "1960s",
+          "2000s",
+          "2020s"
+        ],
+        "region": "kanawana-site",
+        "location_refs": [],
+        "person_type": null,
+        "topics": [
+          "places",
+          "facilities",
+          "council_ring",
+          "infrastructure",
+          "administration",
+          "camp_culture",
+          "buildings",
+          "people"
+        ],
+        "is_hub": true
+      }
     },
     {
       "article_id": "hedley-dimock",
@@ -2865,6 +4159,18 @@
         {
           "status": "E1-reviewed",
           "at": "2026-03-02T18:00:00Z",
+          "by": "auto",
+          "task": "REVIEW"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-07-09T11:00:00Z",
+          "by": "auto",
+          "task": "RESEARCH"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-07-11T00:00:00Z",
           "by": "auto",
           "task": "REVIEW"
         }
@@ -2912,7 +4218,11 @@
         "f_1092",
         "f_1093",
         "f_1094",
-        "f_1548"
+        "f_1548",
+        "f_1878",
+        "f_1879",
+        "f_1880",
+        "f_1881"
       ],
       "sources_cited": [
         "src_aca_dimock_bio",
@@ -2929,7 +4239,9 @@
         "src_veterans_dimock_gilbert",
         "src_wikipedia_raye_kass",
         "src_oakland_tribune_dimock_obit",
-        "src_familysearch_dimock"
+        "src_familysearch_dimock",
+        "src_concordia_p0145_12a_finding_aid",
+        "src_aca_dimock_award_recipients_2022_2026"
       ],
       "open_questions": 5,
       "cross_links": [
@@ -2939,8 +4251,37 @@
         "traditions-and-culture"
       ],
       "file_id": null,
-      "word_count": 2165,
-      "notes": "E1 REVIEW (2026-03-02): 10 fixes applied. Father-son inference reframed as neutral hypothesis. Earliest publication contradiction resolved. Kamp→Camp standardized. Hendry relocated. Unsourced synthesis removed. All 7 criteria PASS."
+      "word_count": 2472,
+      "notes": "E1 REVIEW (2026-03-02): 10 fixes applied. Father-son inference reframed as neutral hypothesis. Earliest publication contradiction resolved. Kamp→Camp standardized. Hendry relocated. Unsourced synthesis removed. All 7 criteria PASS. | 2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- fixed the malformed Sources header. No facts, citations, or open questions dropped; status unchanged.",
+      "tags": {
+        "era": [
+          "1890s",
+          "1910s",
+          "1920s",
+          "1930s",
+          "1940s",
+          "1950s",
+          "1960s",
+          "1970s",
+          "1980s",
+          "2010s",
+          "2020s"
+        ],
+        "region": "montreal",
+        "location_refs": [],
+        "person_type": "staff",
+        "topics": [
+          "people",
+          "publications",
+          "camping_movement",
+          "ymca_montreal",
+          "directors",
+          "awards",
+          "academic",
+          "institutional"
+        ],
+        "is_hub": false
+      }
     },
     {
       "article_id": "camp-weredale",
@@ -2971,9 +4312,21 @@
           "at": "2026-03-15T15:30:00Z",
           "by": "auto",
           "task": "REVIEW"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-07-10T04:00:00Z",
+          "by": "auto",
+          "task": "RESEARCH"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-07-11T00:00:00Z",
+          "by": "auto",
+          "task": "REVIEW"
         }
       ],
-      "ralph_loops_completed": 1,
+      "ralph_loops_completed": 2,
       "kb_facts_used": [
         "f_0354",
         "f_0470",
@@ -2994,7 +4347,10 @@
         "f_1184",
         "f_1155",
         "f_1156",
-        "f_1157"
+        "f_1157",
+        "f_1956",
+        "f_1957",
+        "f_1958"
       ],
       "sources_cited": [
         "src_batshaw_camp_weredale",
@@ -3005,16 +4361,41 @@
         "src_ciusss_weredale_90",
         "src_weredale_camp",
         "src_blog_frank_crabbe",
-        "src_batshaw_history"
+        "src_batshaw_history",
+        "src_concordia_atom_12F",
+        "src_batshaw_timeline_page"
       ],
-      "open_questions": 5,
+      "open_questions": 6,
       "cross_links": [
         "canadian-camping-movement",
         "camp-otoreke",
         "the-kanawana-site"
       ],
       "file_id": null,
-      "word_count": 1008
+      "word_count": 1395,
+      "notes": "2026-07-11: Workstream A Wave 1 prose-sediment REVIEW pass (final article of 8) -- fixed a malformed header (the 'Sources:' field was listing raw source IDs instead of a count), moved the embedded 'Correction (2026-07-10)' paragraph into a new Research Notes > Revision History section, and fixed a real inconsistency the sediment had introduced: the Overview still described the two-site plan as 'ultimately abandoned' even though the article's own later correction established a signed 1979 lease and joint files through 1981-82 -- rewritten to match. Corrected open_questions count (was stale at 5, actual is 6, counting sub-item 2a). No facts, citations, or open questions dropped; status unchanged.",
+      "tags": {
+        "era": [
+          "1870s",
+          "1930s",
+          "1960s",
+          "1970s",
+          "1980s"
+        ],
+        "region": "laurentians",
+        "location_refs": [],
+        "person_type": null,
+        "topics": [
+          "inter-camp",
+          "related_camps",
+          "context",
+          "camping_movement",
+          "facilities",
+          "people",
+          "sources"
+        ],
+        "is_hub": false
+      }
     },
     {
       "article_id": "a-ross-seaman",
@@ -3045,9 +4426,33 @@
           "at": "2026-03-15T13:30:00Z",
           "by": "auto",
           "task": "REVIEW"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-07-08T00:00:00Z",
+          "by": "auto",
+          "task": "RESEARCH"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-07-09T18:00:00Z",
+          "by": "auto",
+          "task": "RESEARCH"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-07-10T04:00:00Z",
+          "by": "auto",
+          "task": "RESEARCH"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-07-11T00:00:00Z",
+          "by": "auto",
+          "task": "REVIEW"
         }
       ],
-      "ralph_loops_completed": 1,
+      "ralph_loops_completed": 3,
       "kb_facts_used": [
         "f_0612",
         "f_0631",
@@ -3067,14 +4472,24 @@
         "f_1147",
         "f_1148",
         "f_1149",
-        "f_1150"
+        "f_1150",
+        "f_1771",
+        "f_1772",
+        "f_1773",
+        "f_1774",
+        "f_1775",
+        "f_1914",
+        "f_1981"
       ],
       "sources_cited": [
         "src_concordia_seaman_fund",
         "src_mcmorris_thesis",
         "src_dawson_crlt",
         "src_concordia_ctr_2001",
-        "src_concordia_atom_12K"
+        "src_concordia_atom_12K",
+        "src_ia_ymca_annual_report_1966_67",
+        "src_ia_camp_perrot_collection",
+        "src_camp_perrot_1959_fresh_look"
       ],
       "open_questions": 5,
       "cross_links": [
@@ -3083,7 +4498,26 @@
         "section-names"
       ],
       "file_id": null,
-      "word_count": 725
+      "word_count": 1027,
+      "notes": "2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- fixed the malformed Sources header. No facts, citations, or open questions dropped; status unchanged.",
+      "tags": {
+        "era": [
+          "1960s",
+          "1970s",
+          "1980s"
+        ],
+        "region": "montreal",
+        "location_refs": [],
+        "person_type": "director",
+        "topics": [
+          "people",
+          "directors",
+          "chronology",
+          "programs",
+          "traditions"
+        ],
+        "is_hub": false
+      }
     },
     {
       "article_id": "taylor-statten",
@@ -3114,9 +4548,33 @@
           "at": "2026-03-15T16:00:00Z",
           "by": "auto",
           "task": "REVIEW"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-07-08T00:00:00Z",
+          "by": "auto",
+          "task": "VERIFY"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-07-09T18:00:00Z",
+          "by": "auto",
+          "task": "RESEARCH"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-07-10T08:00:00Z",
+          "by": "auto",
+          "task": "REVIEW"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-07-11T00:00:00Z",
+          "by": "auto",
+          "task": "REVIEW"
         }
       ],
-      "ralph_loops_completed": 2,
+      "ralph_loops_completed": 3,
       "kb_facts_used": [
         "f_0251",
         "f_0252",
@@ -3134,7 +4592,13 @@
         "f_0653",
         "f_0818",
         "f_0832",
-        "f_0939"
+        "f_0939",
+        "f_0938",
+        "f_1277",
+        "f_1916",
+        "f_1917",
+        "f_1918",
+        "f_1919"
       ],
       "sources_cited": [
         "src_mcmorris_thesis",
@@ -3142,9 +4606,10 @@
         "src_wikipedia_tuxis",
         "src_oca_archives",
         "src_wikipedia_cca",
-        "src_aca_presidents"
+        "src_aca_presidents",
+        "src_burry_thesis_1985"
       ],
-      "open_questions": 4,
+      "open_questions": 5,
       "cross_links": [
         "canadian-camping-movement",
         "hedley-dimock",
@@ -3152,7 +4617,32 @@
         "traditions-and-culture"
       ],
       "file_id": null,
-      "word_count": 978
+      "word_count": 1572,
+      "notes": "2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- fixed the malformed Sources header, moved the c_020 editorial-resolution narrative into a new Research Notes > Revision History section. No facts, citations, or open questions dropped; status unchanged.",
+      "tags": {
+        "era": [
+          "1880s",
+          "1900s",
+          "1920s",
+          "1930s",
+          "1940s",
+          "1960s"
+        ],
+        "region": "canada-other",
+        "location_refs": [],
+        "person_type": "founder-era-figure",
+        "topics": [
+          "camping_movement",
+          "people",
+          "centennial",
+          "publications",
+          "inter-camp",
+          "canadian_camping",
+          "material_culture",
+          "organizations"
+        ],
+        "is_hub": false
+      }
     },
     {
       "article_id": "rh-hanagan",
@@ -3183,6 +4673,12 @@
           "at": "2026-03-15T16:00:00Z",
           "by": "auto",
           "task": "REVIEW"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-07-11T00:00:00Z",
+          "by": "auto",
+          "task": "REVIEW"
         }
       ],
       "ralph_loops_completed": 2,
@@ -3211,7 +4707,24 @@
         "wartime-kanawana"
       ],
       "file_id": null,
-      "word_count": 753
+      "word_count": 764,
+      "notes": "2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- fixed the malformed Sources header. No facts, citations, or open questions dropped; status unchanged.",
+      "tags": {
+        "era": [
+          "1940s"
+        ],
+        "region": "montreal",
+        "location_refs": [],
+        "person_type": "director",
+        "topics": [
+          "directors",
+          "staff",
+          "people",
+          "events",
+          "camping_movement"
+        ],
+        "is_hub": false
+      }
     },
     {
       "article_id": "camp-ouareau",
@@ -3242,9 +4755,27 @@
           "at": "2026-03-15T13:30:00Z",
           "by": "auto",
           "task": "REVIEW"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-07-09T18:00:00Z",
+          "by": "auto",
+          "task": "RESEARCH"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-07-10T09:00:00Z",
+          "by": "auto",
+          "task": "REVIEW"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-07-11T00:00:00Z",
+          "by": "auto",
+          "task": "REVIEW"
         }
       ],
-      "ralph_loops_completed": 1,
+      "ralph_loops_completed": 2,
       "kb_facts_used": [
         "f_0807",
         "f_0808",
@@ -3278,7 +4809,8 @@
         "f_0872",
         "f_0873",
         "f_1275",
-        "f_1281"
+        "f_1281",
+        "f_1908"
       ],
       "sources_cited": [
         "src_ouareau_history",
@@ -3296,7 +4828,28 @@
         "traditions-and-culture"
       ],
       "file_id": null,
-      "word_count": 738
+      "word_count": 918,
+      "notes": "2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- fixed a malformed header (Sources field was listing raw source IDs, and a duplicate 'Last Updated' line existed), moved the c_002 editorial-resolution parenthetical into a new Research Notes > Revision History section. No facts, citations, or open questions dropped; status unchanged.",
+      "tags": {
+        "era": [
+          "1910s",
+          "1920s",
+          "1940s",
+          "1950s",
+          "1970s",
+          "1990s",
+          "2010s",
+          "2020s"
+        ],
+        "region": "laurentians",
+        "location_refs": [],
+        "person_type": null,
+        "topics": [
+          "inter-camp",
+          "context"
+        ],
+        "is_hub": false
+      }
     },
     {
       "article_id": "camp-perrot",
@@ -3321,9 +4874,21 @@
           "at": "2026-06-22T11:45:14.689724+00:00",
           "by": "auto",
           "task": "REVIEW"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-07-10T04:00:00Z",
+          "by": "auto",
+          "task": "RESEARCH"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-07-11T00:00:00Z",
+          "by": "auto",
+          "task": "REVIEW"
         }
       ],
-      "ralph_loops_completed": 1,
+      "ralph_loops_completed": 2,
       "kb_facts_used": [
         "f_0330",
         "f_0346",
@@ -3332,9 +4897,21 @@
         "f_0874",
         "f_0877",
         "f_0897",
-        "f_0940"
+        "f_0940",
+        "f_1976",
+        "f_1977",
+        "f_1978",
+        "f_1979",
+        "f_1980",
+        "f_1981",
+        "f_1963"
       ],
-      "sources_cited": 4,
+      "sources_cited": [
+        "src_ia_camp_perrot_collection",
+        "src_camp_perrot_1959_fresh_look",
+        "src_camp_perrot_1969_family_centre",
+        "src_concordia_finding_aid_master_pdf"
+      ],
       "open_questions": 6,
       "cross_links": [
         "directors-index",
@@ -3343,8 +4920,28 @@
         "sources-index"
       ],
       "file_id": null,
-      "word_count": 418,
-      "notes": "RALPH R1 complete (2026-06-21): 30+ web searches returned zero new facts. Article meets draft criteria (Overview summary, 3 content sections, 3 sources). All remaining open questions require physical Concordia Archives access (P0145/12G). BAnQ newspaper facts (f_1326-f_1339) checked — none mention Camp Perrot. Advanced stub→draft."
+      "word_count": 1662,
+      "notes": "RALPH R1 complete (2026-06-21): 30+ web searches returned zero new facts. Article meets draft criteria (Overview summary, 3 content sections, 3 sources). All remaining open questions require physical Concordia Archives access (P0145/12G). BAnQ newspaper facts (f_1326-f_1339) checked — none mention Camp Perrot. Advanced stub→draft. | 2026-07-11: Workstream A Wave 1 prose-sediment REVIEW pass -- removed duplicate old-style HTML-comment header, moved the '12G sub-series' correction and the Batch 7 research-pass summary into a new Research Notes > Revision History section (this article previously had no Research Notes section). No facts, citations, or open questions dropped; status unchanged.",
+      "tags": {
+        "era": [
+          "1940s",
+          "1950s"
+        ],
+        "region": "laurentians",
+        "location_refs": [],
+        "person_type": null,
+        "topics": [
+          "camping_movement",
+          "sources_archives",
+          "programs",
+          "meta",
+          "canoe_trips",
+          "inter-camp",
+          "administration",
+          "places"
+        ],
+        "is_hub": false
+      }
     },
     {
       "article_id": "camp-oolahwan",
@@ -3373,6 +4970,30 @@
         {
           "status": "E1-reviewed",
           "at": "2026-06-20T00:00:00Z",
+          "by": "auto",
+          "task": "REVIEW"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-07-09T11:00:00Z",
+          "by": "auto",
+          "task": "RESEARCH"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-07-10T08:00:00Z",
+          "by": "auto",
+          "task": "REVIEW"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-07-10T09:00:00Z",
+          "by": "auto",
+          "task": "REVIEW"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-07-11T00:00:00Z",
           "by": "auto",
           "task": "REVIEW"
         }
@@ -3414,7 +5035,15 @@
         "f_1145",
         "f_1240",
         "f_1241",
-        "f_1242"
+        "f_1242",
+        "f_1853",
+        "f_1854",
+        "f_1855",
+        "f_1856",
+        "f_1857",
+        "f_1858",
+        "f_1859",
+        "f_1860"
       ],
       "sources_cited": [
         "src_ywca_oolahwan_page",
@@ -3431,7 +5060,12 @@
         "src_ywca_150_timeline",
         "src_geonames_oolahwan",
         "src_montreal_families_oolahwan",
-        "src_cbc_oolahwan_centennial"
+        "src_cbc_oolahwan_centennial",
+        "src_trent_mary_edgar_finding_aid",
+        "src_lac_ywca_montreal_fonds",
+        "src_mccord_junior_league_fonds",
+        "src_chenier_junior_league_chr",
+        "src_macleans_1956_junior_league"
       ],
       "open_questions": 8,
       "cross_links": [
@@ -3442,7 +5076,34 @@
         "coeducation-gender"
       ],
       "file_id": null,
-      "word_count": 1363
+      "word_count": 2085,
+      "notes": "2026-07-11: Workstream A Wave 1 prose-sediment REVIEW pass -- removed duplicate old-style HTML-comment header, moved the c_018 and c_002 editorial-resolution narratives out of prose into a new visible Revision History section, trimmed the header's dated parenthetical. No facts, citations, or open questions dropped; status unchanged.",
+      "tags": {
+        "era": [
+          "1910s",
+          "1920s",
+          "1940s",
+          "1960s",
+          "1970s",
+          "1990s",
+          "2000s",
+          "2010s"
+        ],
+        "region": "laurentians",
+        "location_refs": [],
+        "person_type": null,
+        "topics": [
+          "inter-camp",
+          "context",
+          "places",
+          "people",
+          "chronology",
+          "documents",
+          "camping_movement",
+          "programs"
+        ],
+        "is_hub": false
+      }
     },
     {
       "article_id": "dave-twynam",
@@ -3473,9 +5134,21 @@
           "at": "2026-03-16T05:30:00Z",
           "by": "auto",
           "task": "REVIEW"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-07-09T18:00:00Z",
+          "by": "auto",
+          "task": "RESEARCH"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-07-11T00:00:00Z",
+          "by": "auto",
+          "task": "REVIEW"
         }
       ],
-      "ralph_loops_completed": 2,
+      "ralph_loops_completed": 3,
       "kb_facts_used": [
         "f_0752",
         "f_0847",
@@ -3501,7 +5174,9 @@
         "f_0975",
         "f_0976",
         "f_0977",
-        "f_0988"
+        "f_0988",
+        "f_1922",
+        "f_1923"
       ],
       "sources_cited": [
         "src_concordia_12B01",
@@ -3515,7 +5190,8 @@
         "src_linkedin_twynam",
         "src_leisure_johnston_twynam_1999",
         "src_mason_johnston_twynam_2000_jst",
-        "src_bccat_awards_2014"
+        "src_bccat_awards_2014",
+        "src_twynam_johnston_2004"
       ],
       "open_questions": 4,
       "cross_links": [
@@ -3525,7 +5201,29 @@
         "canadian-camping-movement"
       ],
       "file_id": null,
-      "word_count": 1248
+      "word_count": 1365,
+      "notes": "2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- trimmed the header's dated parenthetical, and fixed staleness: this article still described conflict c_007 as unresolved when it had actually been resolved (1979) back in Campaign 25 -- updated the Directorship section and Open Question 1 to state the resolved understanding, added a Research Notes > Revision History section. No facts, citations, or open questions dropped; status unchanged.",
+      "tags": {
+        "era": [
+          "1930s",
+          "1960s",
+          "1970s",
+          "1980s",
+          "2000s",
+          "2010s",
+          "2020s"
+        ],
+        "region": "not-applicable",
+        "location_refs": [],
+        "person_type": "director",
+        "topics": [
+          "people",
+          "staff",
+          "directors",
+          "operations"
+        ],
+        "is_hub": false
+      }
     },
     {
       "article_id": "voyageur-canoe-pageant",
@@ -3556,9 +5254,15 @@
           "at": "2026-03-16T05:30:00Z",
           "by": "auto",
           "task": "REVIEW"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-07-09T18:00:00Z",
+          "by": "auto",
+          "task": "RESEARCH"
         }
       ],
-      "ralph_loops_completed": 2,
+      "ralph_loops_completed": 3,
       "kb_facts_used": [
         "f_0270",
         "f_0271",
@@ -3582,7 +5286,9 @@
         "f_1002",
         "f_1003",
         "f_1004",
-        "f_1005"
+        "f_1005",
+        "f_1900",
+        "f_1902"
       ],
       "sources_cited": [
         "src_mcmorris_thesis",
@@ -3606,7 +5312,20 @@
         "taylor-statten"
       ],
       "file_id": null,
-      "word_count": 1542
+      "word_count": 1579,
+      "tags": {
+        "era": [
+          "1960s"
+        ],
+        "region": "not-applicable",
+        "location_refs": [],
+        "person_type": null,
+        "topics": [
+          "centennial",
+          "chronology"
+        ],
+        "is_hub": false
+      }
     },
     {
       "article_id": "edgar-smee",
@@ -3637,9 +5356,15 @@
           "at": "2026-03-16T05:30:00Z",
           "by": "auto",
           "task": "REVIEW"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-07-09T22:00:00Z",
+          "by": "auto",
+          "task": "RESEARCH"
         }
       ],
-      "ralph_loops_completed": 2,
+      "ralph_loops_completed": 3,
       "kb_facts_used": [
         "f_0091",
         "f_0738",
@@ -3654,7 +5379,8 @@
         "f_0868",
         "f_0994",
         "f_0995",
-        "f_0996"
+        "f_0996",
+        "f_1953"
       ],
       "sources_cited": [
         "src_mcmorris_thesis",
@@ -3663,7 +5389,8 @@
         "src_eoy_smee_1983",
         "src_conserver_society_smee_fund",
         "src_hamilton_community_foundation",
-        "src_concordia_fonds"
+        "src_concordia_fonds",
+        "src_grymca_manitoulin_history"
       ],
       "open_questions": 4,
       "cross_links": [
@@ -3673,7 +5400,25 @@
         "section-names"
       ],
       "file_id": null,
-      "word_count": 881
+      "word_count": 1220,
+      "tags": {
+        "era": [
+          "1930s",
+          "1940s",
+          "1960s",
+          "1980s",
+          "2000s"
+        ],
+        "region": "not-applicable",
+        "location_refs": [],
+        "person_type": "staff",
+        "topics": [
+          "staff",
+          "people",
+          "events"
+        ],
+        "is_hub": false
+      }
     },
     {
       "article_id": "terry-mosher",
@@ -3704,9 +5449,15 @@
           "at": "2026-03-16T05:30:00Z",
           "by": "auto",
           "task": "REVIEW"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-07-09T18:00:00Z",
+          "by": "auto",
+          "task": "RESEARCH"
         }
       ],
-      "ralph_loops_completed": 2,
+      "ralph_loops_completed": 3,
       "kb_facts_used": [
         "f_0158",
         "f_0164",
@@ -3732,7 +5483,9 @@
         "f_0984",
         "f_0985",
         "f_0986",
-        "f_0987"
+        "f_0987",
+        "f_1920",
+        "f_1921"
       ],
       "sources_cited": [
         "src_oral_aronson",
@@ -3743,7 +5496,9 @@
         "src_concordia_mosher_2018",
         "src_mccord_aislin_50",
         "src_canada_post_mosher_2021",
-        "src_wikipedia_mosher"
+        "src_wikipedia_mosher",
+        "src_suburban_mosher_2015",
+        "src_montrealer_mosher_2016_kerr"
       ],
       "open_questions": 3,
       "cross_links": [
@@ -3752,7 +5507,26 @@
         "directors-index"
       ],
       "file_id": null,
-      "word_count": 974
+      "word_count": 1122,
+      "tags": {
+        "era": [
+          "1950s",
+          "1960s",
+          "1970s",
+          "1990s",
+          "2000s",
+          "2010s",
+          "2020s"
+        ],
+        "region": "not-applicable",
+        "location_refs": [],
+        "person_type": "alumnus",
+        "topics": [
+          "people",
+          "notable_alumni"
+        ],
+        "is_hub": false
+      }
     },
     {
       "article_id": "sean-day",
@@ -3783,9 +5557,33 @@
           "at": "2026-03-16T05:30:00Z",
           "by": "auto",
           "task": "REVIEW"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-07-09T00:00:00Z",
+          "by": "auto",
+          "task": "VERIFY"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-07-09T22:00:00Z",
+          "by": "auto",
+          "task": "RESEARCH"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-07-10T08:00:00Z",
+          "by": "auto",
+          "task": "REVIEW"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-07-11T00:00:00Z",
+          "by": "auto",
+          "task": "REVIEW"
         }
       ],
-      "ralph_loops_completed": 2,
+      "ralph_loops_completed": 3,
       "kb_facts_used": [
         "f_0045",
         "f_0046",
@@ -3807,7 +5605,8 @@
         "f_0989",
         "f_0990",
         "f_0991",
-        "f_0992"
+        "f_0992",
+        "f_1797"
       ],
       "sources_cited": [
         "src_oral_aronson",
@@ -3823,18 +5622,37 @@
         "src_acq_day",
         "src_ymca_mclean_fund",
         "src_ymcaquebec_annualreport_2007",
-        "src_ymcaquebec_annualreport_2008"
+        "src_ymcaquebec_annualreport_2008",
+        "src_ymcakanawana_com_wayback_2005_2007"
       ],
-      "open_questions": 4,
+      "open_questions": 5,
       "cross_links": [
         "directors-index",
-        "stuart-mclean",
+        "matt-aronson",
         "pip-alumni-award",
         "programs-activities",
-        "programs-activities"
+        "stuart-mclean"
       ],
       "file_id": null,
-      "word_count": 1260
+      "word_count": 1848,
+      "notes": "2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- trimmed the header's dated parenthetical, moved the c_017 editorial-resolution narrative into a new Research Notes > Revision History section, fixed two Sources entries (13, 14) that still labeled the conflict 'unresolved', and fixed Open Questions numbering (was out of sequence: 1, 5, 2, 3, 4). No facts, citations, or open questions dropped; status unchanged.",
+      "tags": {
+        "era": [
+          "2000s",
+          "2020s"
+        ],
+        "region": "not-applicable",
+        "location_refs": [],
+        "person_type": "director",
+        "topics": [
+          "directors",
+          "operations",
+          "people",
+          "facilities",
+          "staff"
+        ],
+        "is_hub": false
+      }
     },
     {
       "article_id": "ymca-quebec-history",
@@ -3865,9 +5683,21 @@
           "at": "2026-03-16T07:20:00Z",
           "by": "auto",
           "task": "REVIEW"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-07-09T18:00:00Z",
+          "by": "auto",
+          "task": "RESEARCH"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-07-10T06:00:00Z",
+          "by": "auto",
+          "task": "RESEARCH"
         }
       ],
-      "ralph_loops_completed": 1,
+      "ralph_loops_completed": 3,
       "kb_facts_used": [
         "f_1019",
         "f_1020",
@@ -3879,7 +5709,12 @@
         "f_1178",
         "f_1179",
         "f_1180",
-        "f_1103"
+        "f_1103",
+        "f_1928",
+        "f_1929",
+        "f_1930",
+        "f_1931",
+        "f_1982"
       ],
       "sources_cited": [
         "src_ymca_quebec_history",
@@ -3887,9 +5722,13 @@
         "src_concordia_sgw_history",
         "src_newswire_ymca_2019",
         "src_ymca_audette_2024",
-        "src_observatoire_ymca"
+        "src_observatoire_ymca",
+        "src_ymca_canada_history",
+        "src_concordia_drummond_ymca_building",
+        "src_ymcaquebec_downtown_sale_2023",
+        "src_concordia_finding_aid_master_pdf"
       ],
-      "open_questions": 3,
+      "open_questions": 5,
       "cross_links": [
         "founding-1894",
         "directors-index",
@@ -3898,7 +5737,26 @@
         "canadian-camping-movement"
       ],
       "file_id": null,
-      "word_count": 1092
+      "word_count": 1551,
+      "tags": {
+        "era": [
+          "1850s",
+          "1910s",
+          "1970s",
+          "2000s",
+          "2020s"
+        ],
+        "region": "not-applicable",
+        "location_refs": [],
+        "person_type": null,
+        "topics": [
+          "institutional",
+          "context",
+          "administration",
+          "facilities"
+        ],
+        "is_hub": false
+      }
     },
     {
       "article_id": "notable-alumni",
@@ -3927,6 +5785,18 @@
         {
           "status": "E1-reviewed",
           "at": "2026-03-17T04:35:00Z",
+          "by": "auto",
+          "task": "REVIEW"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-07-09T11:00:00Z",
+          "by": "auto",
+          "task": "RESEARCH"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-07-11T00:00:00Z",
           "by": "auto",
           "task": "REVIEW"
         }
@@ -3996,22 +5866,62 @@
         "f_0986",
         "f_1093",
         "f_1237",
-        "f_1562"
+        "f_1562",
+        "f_1890",
+        "f_1882"
       ],
-      "sources_cited": 36,
+      "sources_cited": [
+        "src_aca_dimock_award_recipients_2022_2026"
+      ],
       "open_questions": 6,
       "cross_links": [
+        "bruce-netherwood",
+        "carol-skinner",
+        "chris-adam",
+        "dave-twynam",
+        "directors-index",
+        "edgar-smee",
+        "james-orbinski",
+        "john-cleghorn",
         "pip-alumni-award",
+        "richard-patten",
+        "rl-charlton",
+        "sam-lazarus",
+        "sean-day",
         "stuart-mclean",
         "terry-mosher",
-        "dave-twynam",
-        "edgar-smee",
-        "sean-day",
-        "directors-index",
         "traditions-and-culture"
       ],
       "file_id": null,
-      "word_count": 2424
+      "word_count": 1980,
+      "tags": {
+        "era": [
+          "1910s",
+          "1930s",
+          "1940s",
+          "1970s",
+          "1980s",
+          "1990s",
+          "2000s",
+          "2010s",
+          "2020s"
+        ],
+        "region": "not-applicable",
+        "location_refs": [],
+        "person_type": null,
+        "topics": [
+          "people",
+          "notable_alumni",
+          "traditions",
+          "staff",
+          "programs",
+          "administration",
+          "sources",
+          "meta"
+        ],
+        "is_hub": true
+      },
+      "notes": "2026-07-11: Split John Cleghorn, Chris Adam, James Orbinski out to standalone articles (Workstream C1); trimmed their entries to pointers, fixed header sediment, added Research Notes/Revision History section. No facts dropped. | 2026-07-11: Split Bruce Netherwood out to a standalone article (was actually a documented Director 1988-1994, not merely a Pip Award recipient); trimmed entry to a pointer. | 2026-07-11: Split Richard Patten, Carol Skinner, Sam Lazarus, R.L. Charlton out to standalone articles; trimmed their entries to pointers."
     },
     {
       "article_id": "environmental-history",
@@ -4042,9 +5952,27 @@
           "at": "2026-03-24T03:20:00Z",
           "by": "auto",
           "task": "REVIEW"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-07-10T04:00:00Z",
+          "by": "auto",
+          "task": "RESEARCH"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-07-10T07:00:00Z",
+          "by": "auto",
+          "task": "RESEARCH"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-07-11T00:00:00Z",
+          "by": "auto",
+          "task": "REVIEW"
         }
       ],
-      "ralph_loops_completed": 2,
+      "ralph_loops_completed": 4,
       "kb_facts_used": [
         "f_0477",
         "f_0572",
@@ -4072,7 +6000,10 @@
         "f_1763",
         "f_1764",
         "f_1765",
-        "f_1766"
+        "f_1766",
+        "f_1954",
+        "f_1955",
+        "f_1983"
       ],
       "sources_cited": [
         "src_ymca_kanawana_job_listing",
@@ -4100,7 +6031,8 @@
         "src_ymcaquebec_annualreport_2009",
         "src_ymcaquebec_annualreport_2011",
         "src_ymcaquebec_annualreport_2012",
-        "src_ymcaquebec_annualreport_2019"
+        "src_ymcaquebec_annualreport_2019",
+        "src_parkslopeparents_2023"
       ],
       "open_questions": 5,
       "cross_links": [
@@ -4112,10 +6044,35 @@
         "edgar-smee",
         "dave-twynam",
         "j-w-mcconnell",
-        "pip-alumni-award"
+        "pip-alumni-award",
+        "timeline-overview"
       ],
       "file_id": null,
-      "word_count": 2050
+      "word_count": 2781,
+      "notes": "2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- trimmed the header's dated parenthetical; fixed a genuine citation-numbering bug where the Sources list had two entries each numbered '17.' and '22.' (disambiguated as 17b./22b., three inline markers corrected to point at the right one). No facts, source content, or open questions dropped; status unchanged.",
+      "tags": {
+        "era": [
+          "2000s",
+          "2010s",
+          "2020s"
+        ],
+        "region": "kanawana-site",
+        "location_refs": [
+          "the-kanawana-site"
+        ],
+        "person_type": null,
+        "topics": [
+          "programs",
+          "environment",
+          "people",
+          "infrastructure",
+          "facilities",
+          "environmental",
+          "administration",
+          "media"
+        ],
+        "is_hub": false
+      }
     },
     {
       "article_id": "page-family",
@@ -4146,9 +6103,27 @@
           "at": "2026-06-13T10:05:00Z",
           "by": "auto",
           "task": "REVIEW"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-07-09T00:00:00Z",
+          "by": "auto",
+          "task": "RESEARCH"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-07-09T22:00:00Z",
+          "by": "auto",
+          "task": "RESEARCH"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-07-11T00:00:00Z",
+          "by": "auto",
+          "task": "REVIEW"
         }
       ],
-      "ralph_loops_completed": 1,
+      "ralph_loops_completed": 2,
       "kb_facts_used": [
         "f_1226",
         "f_1227",
@@ -4169,7 +6144,12 @@
         "f_1285",
         "f_1516",
         "f_1517",
-        "f_1518"
+        "f_1518",
+        "f_1807",
+        "f_1808",
+        "f_1809",
+        "f_1941",
+        "f_1942"
       ],
       "sources_cited": [
         "src_vss_familles_pionnieres",
@@ -4181,7 +6161,8 @@
         "src_gas_bag_1923",
         "src_oral_aronson",
         "src_shgph_saint_sauveur",
-        "src_musee_ski_stein"
+        "src_musee_ski_stein",
+        "src_concordia_12B03"
       ],
       "open_questions": 5,
       "cross_links": [
@@ -4191,7 +6172,30 @@
         "founding-1894"
       ],
       "file_id": null,
-      "word_count": 1074
+      "word_count": 1915,
+      "notes": "2026-07-11: Workstream A Wave 1 prose-sediment REVIEW pass -- removed duplicate old-style HTML-comment header (already had the new standardized header alongside it), moved the embedded 'Correction (2026-07-09)' paragraph into a new visible Revision History section, rewrote surrounding prose to state current understanding only. No facts, citations, or open questions dropped; status unchanged.",
+      "tags": {
+        "era": [
+          "1820s",
+          "1850s",
+          "1890s",
+          "1900s",
+          "1910s",
+          "1920s",
+          "1950s",
+          "1960s"
+        ],
+        "region": "laurentians",
+        "location_refs": [],
+        "person_type": "family",
+        "topics": [
+          "places",
+          "people",
+          "founding",
+          "geography"
+        ],
+        "is_hub": false
+      }
     },
     {
       "article_id": "centennial-1994",
@@ -4222,6 +6226,18 @@
           "at": "2026-06-20T14:45:00Z",
           "by": "auto",
           "task": "REVIEW"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-07-09T11:00:00Z",
+          "by": "auto",
+          "task": "RESEARCH"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-07-11T00:00:00Z",
+          "by": "auto",
+          "task": "REVIEW"
         }
       ],
       "ralph_loops_completed": 1,
@@ -4246,7 +6262,14 @@
         "f_1332",
         "f_1534",
         "f_1535",
-        "f_1536"
+        "f_1536",
+        "f_1861",
+        "f_1862",
+        "f_1863",
+        "f_1864",
+        "f_1865",
+        "f_1866",
+        "f_1867"
       ],
       "sources_cited": [
         "src_concordia_fonds",
@@ -4258,7 +6281,11 @@
         "src_south_shore_ymca",
         "src_ymca_pip_releases",
         "src_banq_le_devoir_1994_centennial",
-        "src_ia_ymca_annual_1993"
+        "src_ia_ymca_annual_1993",
+        "src_ia_ymca_annual_1994",
+        "src_ia_ymca_annual_1994_fr",
+        "src_ia_ymca_annual_1989_fr",
+        "src_ia_ymca_annual_1990"
       ],
       "open_questions": 5,
       "cross_links": [
@@ -4268,10 +6295,36 @@
         "traditions-and-culture",
         "notable-alumni",
         "kanawana-in-media",
-        "pip-alumni-award"
+        "pip-alumni-award",
+        "timeline-overview"
       ],
       "file_id": null,
-      "word_count": 823
+      "word_count": 1461,
+      "notes": "2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- removed a duplicate old-style HTML-comment header, softened two dated bold-label markers in prose ('Resolved 2026-07-09', 'Important disambiguation (2026-07-09)') into plain encyclopedic prose since they weren't corrections requiring a Revision History move. No facts, citations, or open questions dropped; status unchanged.",
+      "tags": {
+        "era": [
+          "1980s",
+          "1990s",
+          "2010s",
+          "2020s"
+        ],
+        "region": "kanawana-site",
+        "location_refs": [
+          "the-kanawana-site"
+        ],
+        "person_type": null,
+        "topics": [
+          "people",
+          "chronology",
+          "documents",
+          "brochures",
+          "events",
+          "institutional",
+          "sources_and_archives",
+          "programs"
+        ],
+        "is_hub": false
+      }
     },
     {
       "article_id": "quebec-camp-landscape",
@@ -4296,9 +6349,27 @@
           "at": "2026-06-20T06:45:00Z",
           "by": "auto",
           "task": "REVIEW"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-07-10T04:00:00Z",
+          "by": "auto",
+          "task": "RESEARCH"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-07-11T00:00:00Z",
+          "by": "auto",
+          "task": "REVIEW"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-07-11T01:00:00Z",
+          "by": "auto",
+          "task": "WRITE"
         }
       ],
-      "ralph_loops_completed": 1,
+      "ralph_loops_completed": 2,
       "kb_facts_used": [
         "f_0750",
         "f_0811",
@@ -4320,7 +6391,13 @@
         "f_0800",
         "f_0804",
         "f_0810",
-        "f_1288"
+        "f_1288",
+        "f_1976",
+        "f_1977",
+        "f_1978",
+        "f_1982",
+        "f_1983",
+        "f_1984"
       ],
       "sources_cited": [
         "src_qahn_ymca_camp",
@@ -4342,22 +6419,50 @@
         "src_mcmorris_thesis",
         "src_ouareau_history",
         "src_ouareau_wikipedia",
-        "src_concordia_kanawana_documentary"
+        "src_concordia_kanawana_documentary",
+        "src_camp_dorval_1928",
+        "src_concordia_12N_camping_associations",
+        "src_trent_qca_fonds"
       ],
-      "open_questions": 5,
+      "open_questions": 6,
       "cross_links": [
-        "canadian-camping-movement",
+        "a-ross-seaman",
         "camp-oolahwan",
-        "camp-ouareau",
-        "camp-weredale",
-        "camp-perrot",
         "camp-otoreke",
+        "camp-ouareau",
+        "camp-perrot",
+        "camp-pine-crest",
+        "camp-weredale",
+        "canadian-camping-movement",
         "founding-1894",
-        "lv-games",
-        "a-ross-seaman"
+        "lv-games"
       ],
       "file_id": null,
-      "word_count": 1810
+      "word_count": 3056,
+      "notes": "2026-07-11: Workstream A Wave 1 prose-sediment REVIEW pass -- folded the former 'R3 Verification Notes'/'E1 Review Notes' H3 sub-headings into a proper '## Research Notes' section (HTML-comment process log), trimmed the header's dated parenthetical. This article's main body had no embedded prose sediment to begin with. No facts, citations, or open questions changed; status unchanged. | 2026-07-11 (Workstream B): added the \"Camps at a Glance\" summary table and an explanatory paragraph tying it to the places/-vs-context/ folder split, per the approved wiki-expansion plan -- this page now serves as the satellite/peer-camp hub. No new facts/sources; surfaced a new open question (#6, present-day status of several camps unconfirmed). | 2026-07-11: Linked \"Camp Pine Crest\" table row and prose bullet to the new standalone places/camp-pine-crest.md article.",
+      "tags": {
+        "era": [
+          "1910s",
+          "1920s",
+          "1940s",
+          "1950s",
+          "1970s",
+          "2020s"
+        ],
+        "region": "laurentians",
+        "location_refs": [],
+        "person_type": null,
+        "topics": [
+          "inter-camp",
+          "programs",
+          "traditions",
+          "coeducation",
+          "places",
+          "people",
+          "context"
+        ],
+        "is_hub": true
+      }
     },
     {
       "article_id": "kanawana-in-media",
@@ -4382,6 +6487,12 @@
           "at": "2026-06-20T07:20:00Z",
           "by": "auto",
           "task": "REVIEW"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-07-09T11:00:00Z",
+          "by": "auto",
+          "task": "RESEARCH"
         }
       ],
       "ralph_loops_completed": 1,
@@ -4402,36 +6513,64 @@
         "f_0695",
         "f_0611",
         "f_1549",
-        "f_1550"
+        "f_1550",
+        "f_1891",
+        "f_1892",
+        "f_1897",
+        "f_1899"
       ],
       "sources_cited": [
-        "src_concordia_p0145_12a_finding_aid",
+        "src_booknode_jane_fox",
+        "src_cbc_mclean_fund",
+        "src_concordia_atom_12B04",
         "src_concordia_kanawana_documentary",
+        "src_concordia_p0145_12a_finding_aid",
         "src_concordia_reeves_film",
         "src_goodreads_jane_fox_me",
-        "src_booknode_jane_fox",
         "src_ia_cfcf_1939",
         "src_ia_cfcf_1941",
+        "src_mcmaster_mclean_fonds",
+        "src_mcmorris_thesis",
+        "src_newspapers_gazette_1913",
         "src_postmedia_nature_deficit_2026",
         "src_samaritanmag_mclean",
-        "src_cbc_mclean_fund",
-        "src_samaritanmag_mclean",
-        "src_newspapers_gazette_1913",
-        "src_mcmorris_thesis",
-        "src_youtube_kanawana"
+        "src_youtube_kanawana",
+        "src_youtube_kanawana_1960s_silent_film"
       ],
       "open_questions": 4,
       "cross_links": [
-        "stuart-mclean",
-        "notable-alumni",
-        "wartime-kanawana",
-        "sources-index",
         "centennial-1967",
+        "howie-langille",
+        "notable-alumni",
+        "sources-index",
+        "stuart-mclean",
+        "terry-mosher",
         "voyageur-canoe-pageant",
-        "terry-mosher"
+        "wartime-kanawana"
       ],
       "file_id": null,
-      "word_count": 936
+      "word_count": 1321,
+      "tags": {
+        "era": [
+          "1960s",
+          "1990s",
+          "2000s",
+          "2010s"
+        ],
+        "region": "not-applicable",
+        "location_refs": [],
+        "person_type": null,
+        "topics": [
+          "media",
+          "documents",
+          "notable-people",
+          "media_and_publications",
+          "sources_and_archives",
+          "people"
+        ],
+        "is_hub": false
+      },
+      "notes": "2026-07-11: Workstream C3 -- enhanced Radio section rather than spawning a duplicate CFCF article (plan hedge); fixed header sediment into Research Notes/Revision History; corrected \"scripts\" to \"digitized audio\"; added station history and cross-link to new howie-langille.md."
     },
     {
       "article_id": "camp-becsies",
@@ -4450,6 +6589,18 @@
           "at": "2026-06-22T11:45:14.689724+00:00",
           "by": "auto",
           "task": "REVIEW"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-07-09T09:00:00Z",
+          "by": "auto",
+          "task": "RESEARCH"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-07-11T00:00:00Z",
+          "by": "auto",
+          "task": "REVIEW"
         }
       ],
       "ralph_loops_completed": 2,
@@ -4461,9 +6612,28 @@
         "f_1363",
         "f_0872",
         "f_1430",
-        "f_0871"
+        "f_0871",
+        "f_1839",
+        "f_1840",
+        "f_1841",
+        "f_1842",
+        "f_1843",
+        "f_1844",
+        "f_1845"
       ],
-      "sources_cited": 7,
+      "sources_cited": [
+        "src_becsscie_association",
+        "src_bdll_becs_scie",
+        "src_patrimoine_qc_chapel",
+        "src_concordia_12L",
+        "src_ia_ymca_annual_1930",
+        "src_ia_ymca_annual_1934",
+        "src_ia_ymca_annual_1935",
+        "src_ia_ymca_annual_1936",
+        "src_ia_ymca_annual_1937",
+        "src_camp_amy_molson_mcgill_paper",
+        "src_batshaw_centre_history"
+      ],
       "open_questions": 7,
       "cross_links": [
         "the-kanawana-site",
@@ -4471,7 +6641,29 @@
         "quebec-camp-landscape"
       ],
       "file_id": null,
-      "word_count": 850
+      "word_count": 1634,
+      "notes": "2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- removed a duplicate old-style HTML-comment header, softened a dated bold-label marker in prose. No facts, citations, or open questions dropped; status unchanged.",
+      "tags": {
+        "era": [
+          "1920s",
+          "1930s",
+          "1940s",
+          "1970s"
+        ],
+        "region": "laurentians",
+        "location_refs": [],
+        "person_type": null,
+        "topics": [
+          "places",
+          "geography",
+          "camps",
+          "institutional",
+          "inter-camp",
+          "sources_archives",
+          "people"
+        ],
+        "is_hub": false
+      }
     },
     {
       "article_id": "harold-potter",
@@ -4496,9 +6688,21 @@
           "at": "2026-06-22T11:53:25.445440+00:00",
           "by": "auto",
           "task": "REVIEW"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-07-10T04:00:00Z",
+          "by": "auto",
+          "task": "RESEARCH"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-07-11T00:00:00Z",
+          "by": "auto",
+          "task": "REVIEW"
         }
       ],
-      "ralph_loops_completed": 1,
+      "ralph_loops_completed": 2,
       "kb_facts_used": [
         "f_1409",
         "f_1440",
@@ -4513,7 +6717,7 @@
         "f_1449",
         "f_1450"
       ],
-      "sources_cited": 7,
+      "sources_cited": [],
       "open_questions": 4,
       "cross_links": [
         "sgw-concordia-connection",
@@ -4523,7 +6727,23 @@
         "ymca-quebec-history"
       ],
       "file_id": null,
-      "word_count": 1200
+      "word_count": 1548,
+      "notes": "2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass (FINAL article of Wave 2) -- removed a duplicate old-style HTML-comment header, softened a dated bold-label marker in prose. No facts, citations, or open questions dropped; status unchanged.",
+      "tags": {
+        "era": [
+          "1940s",
+          "1950s",
+          "1960s",
+          "2000s"
+        ],
+        "region": "montreal",
+        "location_refs": [],
+        "person_type": "staff",
+        "topics": [
+          "people"
+        ],
+        "is_hub": false
+      }
     },
     {
       "article_id": "sgw-concordia-connection",
@@ -4542,9 +6762,21 @@
           "at": "2026-06-22T11:45:14.689724+00:00",
           "by": "auto",
           "task": "REVIEW"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-07-09T18:00:00Z",
+          "by": "auto",
+          "task": "RESEARCH"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-07-11T00:00:00Z",
+          "by": "auto",
+          "task": "REVIEW"
         }
       ],
-      "ralph_loops_completed": 1,
+      "ralph_loops_completed": 2,
       "kb_facts_used": [
         "f_0357",
         "f_0600",
@@ -4558,9 +6790,14 @@
         "f_1409",
         "f_1410",
         "f_1411",
-        "f_1412"
+        "f_1412",
+        "f_1903",
+        "f_1904"
       ],
-      "sources_cited": 8,
+      "sources_cited": [
+        "src_ia_the_georgian",
+        "src_ia_mcgill_daily"
+      ],
       "open_questions": 5,
       "cross_links": [
         "harold-potter",
@@ -4571,7 +6808,30 @@
         "sources-index"
       ],
       "file_id": null,
-      "word_count": 750
+      "word_count": 983,
+      "notes": "2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- removed a duplicate old-style HTML-comment header, corrected the Sources count in the header (was 8, actual is 9). No facts, citations, or open questions dropped; status unchanged.",
+      "tags": {
+        "era": [
+          "1930s",
+          "1940s",
+          "1960s",
+          "1970s",
+          "2020s"
+        ],
+        "region": "montreal",
+        "location_refs": [],
+        "person_type": null,
+        "topics": [
+          "people",
+          "meta",
+          "ymca_montreal",
+          "institutional",
+          "sources",
+          "sources_archives",
+          "archives"
+        ],
+        "is_hub": false
+      }
     },
     {
       "article_id": "winter-programming",
@@ -4590,6 +6850,12 @@
           "at": "2026-06-26T00:00:00Z",
           "by": "auto",
           "task": "VERIFY"
+        },
+        {
+          "status": "R3-verified",
+          "at": "2026-07-09T11:00:00Z",
+          "by": "auto",
+          "task": "RESEARCH"
         }
       ],
       "ralph_loops_completed": 1,
@@ -4606,14 +6872,23 @@
         "f_1478",
         "f_1497",
         "f_1508",
-        "f_1510"
+        "f_1510",
+        "f_1868",
+        "f_1869",
+        "f_1870",
+        "f_1871",
+        "f_1872",
+        "f_1873"
       ],
       "sources_cited": [
         "src_kanawana_facts",
         "src_ymcaq_website",
         "src_mcmorris_thesis",
         "src_telus_kanawana",
-        "src_mediaterre_kanawana"
+        "src_mediaterre_kanawana",
+        "src_ia_ymca_annual_1971_72",
+        "src_ia_ymca_annual_1972_73",
+        "src_ia_ymca_annual_1996"
       ],
       "open_questions": 4,
       "cross_links": [
@@ -4623,7 +6898,29 @@
         "places-and-locations"
       ],
       "file_id": null,
-      "word_count": 450
+      "word_count": 952,
+      "tags": {
+        "era": [
+          "1970s",
+          "1980s",
+          "1990s",
+          "2020s"
+        ],
+        "region": "not-applicable",
+        "location_refs": [],
+        "person_type": null,
+        "topics": [
+          "programs",
+          "facilities",
+          "people",
+          "staff",
+          "administration",
+          "operations",
+          "infrastructure",
+          "environmental"
+        ],
+        "is_hub": false
+      }
     },
     {
       "article_id": "indigenous-names-and-land",
@@ -4678,13 +6975,30 @@
         "the-kanawana-site"
       ],
       "file_id": null,
-      "word_count": 550
+      "word_count": 550,
+      "tags": {
+        "era": [],
+        "region": "not-applicable",
+        "location_refs": [],
+        "person_type": null,
+        "topics": [
+          "name_origin",
+          "traditions",
+          "places",
+          "context",
+          "camping_movement",
+          "brochures",
+          "founding",
+          "naming"
+        ],
+        "is_hub": false
+      }
     },
     {
       "article_id": "joanna-hoad",
       "title": "Joanna A.A. Hoad",
       "wiki_folder": "people",
-      "status": "draft",
+      "status": "R3-verified",
       "status_history": [
         {
           "status": "stub",
@@ -4697,9 +7011,15 @@
           "at": "2026-07-07T00:00:00Z",
           "by": "auto",
           "task": "WRITE"
+        },
+        {
+          "status": "R3-verified",
+          "at": "2026-07-09T18:00:00Z",
+          "by": "auto",
+          "task": "VERIFY"
         }
       ],
-      "ralph_loops_completed": 3,
+      "ralph_loops_completed": 4,
       "kb_facts_used": [
         "f_1729",
         "f_1730",
@@ -4718,7 +7038,1900 @@
         "directors-index"
       ],
       "file_id": null,
-      "word_count": 520
+      "word_count": 970,
+      "tags": {
+        "era": [
+          "1990s",
+          "2000s"
+        ],
+        "region": "not-applicable",
+        "location_refs": [],
+        "person_type": "director",
+        "topics": [
+          "people",
+          "directors"
+        ],
+        "is_hub": false
+      }
+    },
+    {
+      "article_id": "rob-braide",
+      "title": "Rob Braide",
+      "wiki_folder": "people",
+      "status": "draft",
+      "status_history": [
+        {
+          "status": "stub",
+          "at": "2026-07-09T06:30:00Z",
+          "by": "auto",
+          "task": "RESEARCH"
+        },
+        {
+          "status": "draft",
+          "at": "2026-07-09T22:00:00Z",
+          "by": "auto",
+          "task": "RESEARCH"
+        },
+        {
+          "status": "draft",
+          "at": "2026-07-11T00:00:00Z",
+          "by": "auto",
+          "task": "REVIEW"
+        }
+      ],
+      "ralph_loops_completed": 2,
+      "kb_facts_used": [
+        "f_1825",
+        "f_1950",
+        "f_1951",
+        "f_1952"
+      ],
+      "sources_cited": [
+        "src_reportage_vecu_2007",
+        "src_broadcasting_history_braide",
+        "src_billboard_ca_braide",
+        "src_gulf_islands_driftwood_braide_obit"
+      ],
+      "open_questions": 4,
+      "cross_links": [
+        "canoe-trips",
+        "directors-index"
+      ],
+      "file_id": null,
+      "word_count": 1099,
+      "notes": "2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- removed a duplicate old-style HTML-comment header. No facts, citations, or open questions dropped; status unchanged (draft).",
+      "tags": {
+        "era": [],
+        "region": "not-applicable",
+        "location_refs": [],
+        "person_type": "alumnus",
+        "topics": [
+          "people"
+        ],
+        "is_hub": false
+      }
+    },
+    {
+      "article_id": "timeline-overview",
+      "title": "Timeline Overview: Camp Kanawana Decade by Decade",
+      "wiki_folder": "chronology",
+      "status": "draft",
+      "status_history": [
+        {
+          "status": "draft",
+          "at": "2026-07-11T00:00:00Z",
+          "by": "auto",
+          "task": "WRITE"
+        }
+      ],
+      "ralph_loops_completed": 0,
+      "kb_facts_used": [],
+      "sources_cited": [],
+      "open_questions": 2,
+      "cross_links": [
+        "between-centennials",
+        "centennial-1967",
+        "centennial-1994",
+        "coeducation-gender",
+        "directors-index",
+        "environmental-history",
+        "founding-1894",
+        "interwar-era",
+        "modern-era",
+        "postwar-gap",
+        "sources-index",
+        "wartime-kanawana"
+      ],
+      "file_id": null,
+      "word_count": 1338,
+      "notes": "2026-07-11: Workstream B hub page. Synthesizes existing wiki articles into a decade-by-decade navigation hub per the approved wiki-expansion plan; adds no new facts or sources of its own (kb_facts_used/sources_cited intentionally empty -- every claim is already cited in the linked articles). Status left at 'draft' rather than following the normal RESEARCH+RALPH draft bar, since this is explicitly a hub/navigation page, not a primary-content article. | 2026-07-11: Linked all four new Workstream C4 era articles into the Decades-at-a-Glance table and decade prose sections, replacing \"no dedicated article yet\" placeholders. This delivers the hub-splitting stretch goal flagged in Open Question 2 (now resolved and removed).",
+      "tags": {
+        "era": [
+          "1890s",
+          "1900s",
+          "1910s",
+          "1920s",
+          "1930s",
+          "1940s",
+          "1950s",
+          "1960s",
+          "1970s",
+          "1980s",
+          "1990s",
+          "2000s",
+          "2010s",
+          "2020s"
+        ],
+        "region": "kanawana-site",
+        "location_refs": [
+          "the-kanawana-site"
+        ],
+        "person_type": null,
+        "topics": [
+          "chronology",
+          "founding",
+          "directors"
+        ],
+        "is_hub": true
+      }
+    },
+    {
+      "article_id": "nelson-mcewen",
+      "title": "Nelson McEwen",
+      "wiki_folder": "people",
+      "status": "draft",
+      "status_history": [
+        {
+          "status": "draft",
+          "at": "2026-07-11T00:00:00Z",
+          "by": "auto",
+          "task": "WRITE"
+        }
+      ],
+      "ralph_loops_completed": 1,
+      "kb_facts_used": [
+        "f_0040",
+        "f_0041",
+        "f_0405",
+        "f_0697",
+        "f_1336",
+        "f_1359",
+        "f_1360",
+        "f_1361",
+        "f_1362",
+        "f_1381",
+        "f_1382",
+        "f_1383",
+        "f_1384",
+        "f_1385",
+        "f_1386",
+        "f_1387",
+        "f_1388",
+        "f_1389"
+      ],
+      "sources_cited": [
+        "src_camp_stephens_alumni_blog",
+        "src_concordia_fonds_14D",
+        "src_mcmorris_thesis",
+        "src_concordia_14D10",
+        "src_cca_history",
+        "src_concordia_atom_12B01"
+      ],
+      "open_questions": 5,
+      "cross_links": [
+        "directors-index",
+        "canadian-camping-movement",
+        "taylor-statten",
+        "camp-perrot"
+      ],
+      "file_id": null,
+      "word_count": 1104,
+      "notes": "2026-07-11: Workstream C1 spawn. Synthesizes an already-completed formal RALPH campaign (documented in directors-index.md's R8/R9 research notes, 2026-06-22) into a standalone article -- no new research conducted. Single-source reliance on the Camp Stephens Alumni blog for most biographical detail is preserved as an explicit limitation.",
+      "tags": {
+        "era": [
+          "1900s",
+          "1920s",
+          "1930s",
+          "1940s",
+          "1950s"
+        ],
+        "region": "canada-other",
+        "location_refs": [],
+        "person_type": "director",
+        "topics": [
+          "directors",
+          "people",
+          "ymca_canada"
+        ],
+        "is_hub": false
+      }
+    },
+    {
+      "article_id": "howie-langille",
+      "title": "Howie Langille",
+      "wiki_folder": "people",
+      "status": "draft",
+      "status_history": [
+        {
+          "status": "draft",
+          "at": "2026-07-11T00:00:00Z",
+          "by": "auto",
+          "task": "WRITE"
+        }
+      ],
+      "ralph_loops_completed": 1,
+      "kb_facts_used": [
+        "f_0047",
+        "f_0048",
+        "f_0078",
+        "f_0092",
+        "f_0941"
+      ],
+      "sources_cited": [
+        "src_cfcf_1941",
+        "src_history_1935",
+        "src_mcmorris_thesis"
+      ],
+      "open_questions": 3,
+      "cross_links": [
+        "directors-index",
+        "kanawana-in-media",
+        "rh-hanagan",
+        "section-names",
+        "wartime-kanawana"
+      ],
+      "file_id": null,
+      "word_count": 433,
+      "notes": "2026-07-11: Workstream C1 spawn. Synthesizes existing facts from directors-index.md and wartime-kanawana.md prior RESEARCH passes -- no new research conducted.",
+      "tags": {
+        "era": [
+          "1930s",
+          "1940s"
+        ],
+        "region": "montreal",
+        "location_refs": [],
+        "person_type": "director",
+        "topics": [
+          "directors",
+          "staff",
+          "people"
+        ],
+        "is_hub": false
+      }
+    },
+    {
+      "article_id": "ross-bannerman",
+      "title": "Ross Bannerman",
+      "wiki_folder": "people",
+      "status": "draft",
+      "status_history": [
+        {
+          "status": "draft",
+          "at": "2026-07-11T00:00:00Z",
+          "by": "auto",
+          "task": "WRITE"
+        }
+      ],
+      "ralph_loops_completed": 1,
+      "kb_facts_used": [
+        "f_0753",
+        "f_0852",
+        "f_0908",
+        "f_1336",
+        "f_1362",
+        "f_1378",
+        "f_1384"
+      ],
+      "sources_cited": [
+        "src_camp_stephens_alumni_blog",
+        "src_concordia_atom_12B01",
+        "src_concordia_atom_fonds"
+      ],
+      "open_questions": 3,
+      "cross_links": [
+        "nelson-mcewen",
+        "directors-index",
+        "a-ross-seaman",
+        "centennial-1967"
+      ],
+      "file_id": null,
+      "word_count": 572,
+      "notes": "2026-07-11: Workstream C1 spawn. Synthesizes existing facts from directors-index.md and nelson-mcewen.md -- no new research conducted. Corrected dangling source_id references (src_concordia_12B01 / src_concordia_ymca_fonds_12B01 -> src_concordia_atom_12B01) in kb/facts.json while preparing this article.",
+      "tags": {
+        "era": [
+          "1950s",
+          "1960s",
+          "1970s"
+        ],
+        "region": "canada-other",
+        "location_refs": [],
+        "person_type": "director",
+        "topics": [
+          "directors",
+          "people",
+          "ymca_canada"
+        ],
+        "is_hub": false
+      }
+    },
+    {
+      "article_id": "james-orbinski",
+      "title": "James Orbinski",
+      "wiki_folder": "people",
+      "status": "draft",
+      "status_history": [
+        {
+          "status": "draft",
+          "at": "2026-07-11T00:00:00Z",
+          "by": "auto",
+          "task": "WRITE"
+        }
+      ],
+      "ralph_loops_completed": 1,
+      "kb_facts_used": [
+        "f_0423",
+        "f_0953",
+        "f_1006",
+        "f_1075",
+        "f_1080",
+        "f_1130",
+        "f_1235",
+        "f_1562"
+      ],
+      "sources_cited": [
+        "src_ymca_pip_orbinski_2024",
+        "src_ymca_pip_orbinski",
+        "src_wikipedia_orbinski",
+        "src_concordia_orbinski",
+        "src_ymca_quebec_pip_orbinski_2024"
+      ],
+      "open_questions": 2,
+      "cross_links": [
+        "notable-alumni",
+        "pip-alumni-award",
+        "john-cleghorn"
+      ],
+      "file_id": null,
+      "word_count": 488,
+      "notes": "2026-07-11: Workstream C1 spawn, split from notable-alumni.md. Public figure (Nobel Peace Prize acceptance on behalf of MSF, Order of Canada) -- no new research conducted, synthesizes already-cited facts.",
+      "tags": {
+        "era": [
+          "1980s",
+          "1990s",
+          "2020s"
+        ],
+        "region": "not-applicable",
+        "location_refs": [],
+        "person_type": "alumnus",
+        "topics": [
+          "notable_alumni",
+          "people"
+        ],
+        "is_hub": false
+      }
+    },
+    {
+      "article_id": "john-cleghorn",
+      "title": "John Cleghorn",
+      "wiki_folder": "people",
+      "status": "draft",
+      "status_history": [
+        {
+          "status": "draft",
+          "at": "2026-07-11T00:00:00Z",
+          "by": "auto",
+          "task": "WRITE"
+        }
+      ],
+      "ralph_loops_completed": 1,
+      "kb_facts_used": [
+        "f_0157",
+        "f_0160",
+        "f_0161",
+        "f_0162",
+        "f_0163",
+        "f_1069",
+        "f_1093",
+        "f_1126"
+      ],
+      "sources_cited": [
+        "src_wikipedia_john_cleghorn",
+        "src_ymca_quebec_pip_skinner",
+        "src_canadian_encyclopedia_cleghorn",
+        "src_oral_aronson"
+      ],
+      "open_questions": 2,
+      "cross_links": [
+        "notable-alumni",
+        "pip-alumni-award",
+        "james-orbinski"
+      ],
+      "file_id": null,
+      "word_count": 522,
+      "notes": "2026-07-11: Workstream C1 spawn, split from notable-alumni.md. Combines oral history (src_oral_aronson) with documented sources (Wikipedia, Canadian Encyclopedia); no conflict exists between them so no resolution needed. Corrected dangling source_id reference (src_cleghorn_wikipedia -> src_wikipedia_john_cleghorn) in kb/facts.json while preparing this article.",
+      "tags": {
+        "era": [
+          "1950s"
+        ],
+        "region": "not-applicable",
+        "location_refs": [],
+        "person_type": "alumnus",
+        "topics": [
+          "notable_alumni",
+          "people"
+        ],
+        "is_hub": false
+      }
+    },
+    {
+      "article_id": "chris-adam",
+      "title": "Chris Adam",
+      "wiki_folder": "people",
+      "status": "draft",
+      "status_history": [
+        {
+          "status": "draft",
+          "at": "2026-07-11T00:00:00Z",
+          "by": "auto",
+          "task": "WRITE"
+        }
+      ],
+      "ralph_loops_completed": 1,
+      "kb_facts_used": [
+        "f_0109",
+        "f_0114",
+        "f_1008",
+        "f_1073",
+        "f_1116",
+        "f_1129",
+        "f_1264",
+        "f_1265",
+        "f_1266",
+        "f_1417"
+      ],
+      "sources_cited": [
+        "src_ymca_pip_adam",
+        "src_ymca_pip_adam_2017",
+        "src_ka_news_1980",
+        "src_dawson_chris_adam",
+        "src_cbc_dawson_green_gown",
+        "src_dawson_adam_ggmsm",
+        "src_dawson_adam_research"
+      ],
+      "open_questions": 2,
+      "cross_links": [
+        "notable-alumni",
+        "pip-alumni-award",
+        "environmental-history"
+      ],
+      "file_id": null,
+      "word_count": 515,
+      "notes": "2026-07-11: Workstream C1 spawn, split from notable-alumni.md. No new research conducted, synthesizes already-cited facts. Corrected dangling source_id reference (src_ymca_quebec_pip_adam_2017 -> src_ymca_pip_adam_2017) in kb/facts.json while preparing this article.",
+      "tags": {
+        "era": [
+          "1980s",
+          "2010s"
+        ],
+        "region": "not-applicable",
+        "location_refs": [],
+        "person_type": "alumnus",
+        "topics": [
+          "notable_alumni",
+          "people",
+          "environment"
+        ],
+        "is_hub": false
+      }
+    },
+    {
+      "article_id": "bruce-netherwood",
+      "title": "Bruce Netherwood",
+      "wiki_folder": "people",
+      "status": "draft",
+      "status_history": [
+        {
+          "status": "draft",
+          "at": "2026-07-11T00:00:00Z",
+          "by": "auto",
+          "task": "WRITE"
+        }
+      ],
+      "ralph_loops_completed": 1,
+      "kb_facts_used": [
+        "f_0156",
+        "f_0179",
+        "f_0180",
+        "f_1068",
+        "f_1082",
+        "f_1083",
+        "f_1211",
+        "f_1212",
+        "f_1216",
+        "f_1223",
+        "f_1500",
+        "f_1535",
+        "f_1610",
+        "f_1728",
+        "f_1866",
+        "f_1867"
+      ],
+      "sources_cited": [
+        "src_flickr_kanawana_plaque_album",
+        "src_oral_aronson",
+        "src_ia_ymca_annual_1990",
+        "src_ia_ymca_annual_1993",
+        "src_ia_ymca_annual_1989_fr",
+        "src_concordia_atom_12B04",
+        "src_ssymca_netherwood",
+        "src_ymca_quebec_pip_skinner"
+      ],
+      "open_questions": 3,
+      "cross_links": [
+        "directors-index",
+        "notable-alumni",
+        "pip-alumni-award",
+        "centennial-1994"
+      ],
+      "file_id": null,
+      "word_count": 647,
+      "notes": "2026-07-11: Workstream C1 spawn, split from notable-alumni.md AND from directors-index.md Camp Directors table (Bruce Netherwood was already a fully-documented Director 1988-1994, richer than the plan's Pip-Award-only framing suggested). Jay Netherwood folded in as a section rather than a separate stub given near-total absence of independent biographical material. Corrected a dangling source_id reference (src_concordia_p0145_12b04_finding_aid -> src_concordia_atom_12B04, also affecting f_1066) in kb/facts.json while preparing this article.",
+      "tags": {
+        "era": [
+          "1980s",
+          "1990s"
+        ],
+        "region": "montreal",
+        "location_refs": [],
+        "person_type": "director",
+        "topics": [
+          "directors",
+          "staff",
+          "people",
+          "notable_alumni"
+        ],
+        "is_hub": false
+      }
+    },
+    {
+      "article_id": "richard-patten",
+      "title": "Richard Patten",
+      "wiki_folder": "people",
+      "status": "draft",
+      "status_history": [
+        {
+          "status": "draft",
+          "at": "2026-07-11T00:00:00Z",
+          "by": "auto",
+          "task": "WRITE"
+        }
+      ],
+      "ralph_loops_completed": 1,
+      "kb_facts_used": [
+        "f_0448",
+        "f_0467",
+        "f_0610",
+        "f_1067",
+        "f_1079",
+        "f_1089",
+        "f_1090",
+        "f_1091",
+        "f_1127",
+        "f_1588"
+      ],
+      "sources_cited": [
+        "src_patten_obituary",
+        "src_ymca_quebec_pip_skinner",
+        "src_flickr_kanawana_plaque_album",
+        "src_wikipedia_richard_patten"
+      ],
+      "open_questions": 2,
+      "cross_links": [
+        "notable-alumni",
+        "pip-alumni-award",
+        "dave-twynam",
+        "directors-index"
+      ],
+      "file_id": null,
+      "word_count": 455,
+      "notes": "2026-07-11: Workstream C1 spawn, split from notable-alumni.md. No new research conducted. Corrected two dangling source_id references (src_patten_wikipedia -> src_wikipedia_richard_patten; src_hpmcgarry_patten_obituary -> src_patten_obituary) in kb/facts.json while preparing this article.",
+      "tags": {
+        "era": [
+          "1960s",
+          "1970s"
+        ],
+        "region": "not-applicable",
+        "location_refs": [],
+        "person_type": "alumnus",
+        "topics": [
+          "notable_alumni",
+          "people",
+          "ymca_canada"
+        ],
+        "is_hub": false
+      }
+    },
+    {
+      "article_id": "carol-skinner",
+      "title": "Carol Skinner",
+      "wiki_folder": "people",
+      "status": "stub",
+      "status_history": [
+        {
+          "status": "stub",
+          "at": "2026-07-11T00:00:00Z",
+          "by": "auto",
+          "task": "WRITE"
+        }
+      ],
+      "ralph_loops_completed": 1,
+      "kb_facts_used": [
+        "f_0421",
+        "f_0447",
+        "f_1009",
+        "f_1062",
+        "f_1072",
+        "f_1128",
+        "f_1460"
+      ],
+      "sources_cited": [
+        "src_ymca_pip_skinner",
+        "src_ymca_quebec_pip_skinner"
+      ],
+      "open_questions": 3,
+      "cross_links": [
+        "notable-alumni",
+        "pip-alumni-award"
+      ],
+      "file_id": null,
+      "word_count": 255,
+      "notes": "2026-07-11: Workstream C1 spawn, split from notable-alumni.md. Set to stub (not draft) per CLAUDE.md pipeline requirements -- only 2 genuinely distinct sources exist, below the 3+ threshold for draft.",
+      "tags": {
+        "era": [
+          "1990s",
+          "2010s"
+        ],
+        "region": "not-applicable",
+        "location_refs": [],
+        "person_type": "alumnus",
+        "topics": [
+          "notable_alumni",
+          "people"
+        ],
+        "is_hub": false
+      }
+    },
+    {
+      "article_id": "sam-lazarus",
+      "title": "Sam Lazarus",
+      "wiki_folder": "people",
+      "status": "draft",
+      "status_history": [
+        {
+          "status": "draft",
+          "at": "2026-07-11T00:00:00Z",
+          "by": "auto",
+          "task": "WRITE"
+        }
+      ],
+      "ralph_loops_completed": 1,
+      "kb_facts_used": [
+        "f_0610",
+        "f_1119",
+        "f_1125",
+        "f_1135",
+        "f_1140",
+        "f_1141",
+        "f_1416"
+      ],
+      "sources_cited": [
+        "src_myjewishlearning_lazarus",
+        "src_amazon_dear_sam",
+        "src_cbc_sam_jam_2015",
+        "src_zeffy_lazarus_fund"
+      ],
+      "open_questions": 2,
+      "cross_links": [
+        "notable-alumni",
+        "pip-alumni-award"
+      ],
+      "file_id": null,
+      "word_count": 411,
+      "notes": "2026-07-11: Workstream C1 spawn, split from notable-alumni.md. No new research conducted. Noted but did not fix a pre-existing fact-to-source mis-citation (f_0611 cites src_newspapers_gazette_1913, an unrelated 1913 article) -- flagged as a KB cleanup item rather than guessed at.",
+      "tags": {
+        "era": [
+          "1990s",
+          "2000s"
+        ],
+        "region": "not-applicable",
+        "location_refs": [],
+        "person_type": "alumnus",
+        "topics": [
+          "notable_alumni",
+          "people"
+        ],
+        "is_hub": false
+      }
+    },
+    {
+      "article_id": "rl-charlton",
+      "title": "R.L. Charlton",
+      "wiki_folder": "people",
+      "status": "draft",
+      "status_history": [
+        {
+          "status": "draft",
+          "at": "2026-07-11T00:00:00Z",
+          "by": "auto",
+          "task": "WRITE"
+        }
+      ],
+      "ralph_loops_completed": 1,
+      "kb_facts_used": [
+        "f_0184",
+        "f_0349",
+        "f_0601",
+        "f_0927",
+        "f_1044",
+        "f_1057",
+        "f_1060",
+        "f_1061",
+        "f_1151",
+        "f_1969"
+      ],
+      "sources_cited": [
+        "src_cbmu_history",
+        "src_1951_kamp_kanawana_history",
+        "src_concordia_p0145_12a_finding_aid",
+        "src_concordia_fonds"
+      ],
+      "open_questions": 4,
+      "cross_links": [
+        "ralph-dawson",
+        "directors-index",
+        "myths-and-legends",
+        "founding-1894"
+      ],
+      "file_id": null,
+      "word_count": 692,
+      "notes": "2026-07-11: Workstream C1 spawn, split from notable-alumni.md \"Other Notable Alumni\" section. Synthesizes existing research including myths-and-legends.md Batch 7 finding (1951 primary source naming Charlton as the person who proposed the camp name). Fixed a pre-existing link-text bug in myths-and-legends.md (text \"R.L. Charlton\" was linked to people/ralph-dawson instead of a Charlton article). Corrected a dangling source_id reference (src_concordia_fonds_12A -> src_concordia_p0145_12a_finding_aid, affecting f_1151) in kb/facts.json while preparing this article. | 2026-07-11: p_214 VERIFY -- Open Question 3 marked exhausted (5-surface Furness fleet search, zero matches).",
+      "tags": {
+        "era": [
+          "1910s",
+          "1940s"
+        ],
+        "region": "montreal",
+        "location_refs": [],
+        "person_type": "founder-era-figure",
+        "topics": [
+          "founding",
+          "people",
+          "directors"
+        ],
+        "is_hub": false
+      }
+    },
+    {
+      "article_id": "david-leduc",
+      "title": "David Leduc",
+      "wiki_folder": "people",
+      "status": "draft",
+      "status_history": [
+        {
+          "status": "draft",
+          "at": "2026-07-11T00:00:00Z",
+          "by": "auto",
+          "task": "WRITE"
+        }
+      ],
+      "ralph_loops_completed": 1,
+      "kb_facts_used": [
+        "f_0755",
+        "f_0853",
+        "f_1478",
+        "f_1479",
+        "f_1480",
+        "f_1481",
+        "f_1482",
+        "f_1483",
+        "f_1650",
+        "f_1707",
+        "f_1733"
+      ],
+      "sources_cited": [
+        "src_linkedin_leduc",
+        "src_flickr_kanawana_plaque_album",
+        "src_devp_leduc_2015"
+      ],
+      "open_questions": 2,
+      "cross_links": [
+        "directors-index",
+        "sean-day"
+      ],
+      "file_id": null,
+      "word_count": 313,
+      "notes": "2026-07-11: Workstream C (institutional-role director) spawn, split from directors-index.md Two-Tier Era On-Site Directors table. No new research conducted.",
+      "tags": {
+        "era": [
+          "2000s"
+        ],
+        "region": "montreal",
+        "location_refs": [
+          "the-kanawana-site"
+        ],
+        "person_type": "director",
+        "topics": [
+          "directors",
+          "staff",
+          "people"
+        ],
+        "is_hub": false
+      }
+    },
+    {
+      "article_id": "marie-pierre-lacasse",
+      "title": "Marie-Pierre Lacasse",
+      "wiki_folder": "people",
+      "status": "draft",
+      "status_history": [
+        {
+          "status": "draft",
+          "at": "2026-07-11T00:00:00Z",
+          "by": "auto",
+          "task": "WRITE"
+        }
+      ],
+      "ralph_loops_completed": 1,
+      "kb_facts_used": [
+        "f_0580",
+        "f_1313",
+        "f_1396",
+        "f_1397",
+        "f_1398",
+        "f_1399",
+        "f_1400",
+        "f_1738",
+        "f_1743",
+        "f_1805"
+      ],
+      "sources_cited": [
+        "src_rocketreach_lacasse",
+        "src_latribune_lacasse_2018",
+        "src_oral_aronson",
+        "src_nouvelles_laurentides_2024",
+        "src_ymcaquebec_kanawana_adventure_2024",
+        "src_ymca_website"
+      ],
+      "open_questions": 2,
+      "cross_links": [
+        "directors-index",
+        "sean-day",
+        "lv-games"
+      ],
+      "file_id": null,
+      "word_count": 358,
+      "notes": "2026-07-11: Workstream C (institutional-role director) spawn, split from directors-index.md Two-Tier Era Executive Directors table. No new research conducted.",
+      "tags": {
+        "era": [
+          "2000s",
+          "2010s",
+          "2020s"
+        ],
+        "region": "montreal",
+        "location_refs": [
+          "the-kanawana-site"
+        ],
+        "person_type": "director",
+        "topics": [
+          "directors",
+          "staff",
+          "people"
+        ],
+        "is_hub": false
+      }
+    },
+    {
+      "article_id": "kate-taylor",
+      "title": "Kate Taylor",
+      "wiki_folder": "people",
+      "status": "draft",
+      "status_history": [
+        {
+          "status": "draft",
+          "at": "2026-07-11T00:00:00Z",
+          "by": "auto",
+          "task": "WRITE"
+        }
+      ],
+      "ralph_loops_completed": 1,
+      "kb_facts_used": [
+        "f_0422",
+        "f_0743",
+        "f_0759",
+        "f_0854",
+        "f_1107",
+        "f_1390",
+        "f_1391",
+        "f_1392",
+        "f_1393",
+        "f_1394",
+        "f_1395",
+        "f_1489",
+        "f_1490",
+        "f_1493"
+      ],
+      "sources_cited": [
+        "src_linkedin_kate_taylor",
+        "src_camphacker_147",
+        "src_msn_kanawana_closed_2021",
+        "src_oral_aronson",
+        "src_montreal_families_gender",
+        "src_gocamp_pro_kate_taylor",
+        "src_campcode_95"
+      ],
+      "open_questions": 2,
+      "cross_links": [
+        "directors-index",
+        "sean-day",
+        "coeducation-gender"
+      ],
+      "file_id": null,
+      "word_count": 326,
+      "notes": "2026-07-11: Workstream C (institutional-role director) spawn, split from directors-index.md Two-Tier Era On-Site Directors table. No new research conducted. One fact (f_1109) cites a genuinely un-cached source_id (src_ymca_kanawana_town_hall, no obvious real equivalent) -- deliberately left uncited, flagged as a KB cleanup item.",
+      "tags": {
+        "era": [
+          "2010s",
+          "2020s"
+        ],
+        "region": "montreal",
+        "location_refs": [
+          "the-kanawana-site"
+        ],
+        "person_type": "director",
+        "topics": [
+          "directors",
+          "staff",
+          "people",
+          "coeducation"
+        ],
+        "is_hub": false
+      }
+    },
+    {
+      "article_id": "gary-white",
+      "title": "Gary White",
+      "wiki_folder": "people",
+      "status": "stub",
+      "status_history": [
+        {
+          "status": "stub",
+          "at": "2026-07-11T00:00:00Z",
+          "by": "auto",
+          "task": "WRITE"
+        }
+      ],
+      "ralph_loops_completed": 1,
+      "kb_facts_used": [
+        "f_1731",
+        "f_1749",
+        "f_1750",
+        "f_1751",
+        "f_1760"
+      ],
+      "sources_cited": [
+        "src_wayback_ymcamontreal_annualreport_2001_2002",
+        "src_wayback_ymcamontreal_annualreport_2002_2003",
+        "src_ymcaquebec_annualreport_2007"
+      ],
+      "open_questions": 2,
+      "cross_links": [
+        "directors-index",
+        "sean-day"
+      ],
+      "file_id": null,
+      "word_count": 345,
+      "notes": "2026-07-11: Workstream C (institutional-role director) spawn, split from directors-index.md. Set to stub given genuine thinness beyond annual-report tenure records. Follows the already-resolved conflict c_015 (documented dates over oral history, per operator directive 2026-07-07) rather than re-litigating it.",
+      "tags": {
+        "era": [
+          "2000s"
+        ],
+        "region": "montreal",
+        "location_refs": [
+          "the-kanawana-site"
+        ],
+        "person_type": "director",
+        "topics": [
+          "directors",
+          "staff",
+          "people"
+        ],
+        "is_hub": false
+      }
+    },
+    {
+      "article_id": "camp-pine-crest",
+      "title": "Camp Pine Crest",
+      "wiki_folder": "places",
+      "status": "draft",
+      "status_history": [
+        {
+          "status": "draft",
+          "at": "2026-07-11T00:00:00Z",
+          "by": "auto",
+          "task": "WRITE"
+        }
+      ],
+      "ralph_loops_completed": 1,
+      "kb_facts_used": [
+        "f_0192",
+        "f_0332",
+        "f_0370",
+        "f_0371",
+        "f_0372",
+        "f_0373",
+        "f_0815",
+        "f_0826",
+        "f_1299",
+        "f_1300",
+        "f_1301",
+        "f_1304",
+        "f_1312",
+        "f_1885",
+        "f_1887",
+        "f_1934"
+      ],
+      "sources_cited": [
+        "src_ymca_gta_pine_crest",
+        "src_ymca_canada_history",
+        "src_ymcagta_pine_crest_games",
+        "src_pine_crest_encyclopedia",
+        "src_ymca_gta_blog_games",
+        "src_ymcagta_pinecrest_games",
+        "src_pine_crest_book",
+        "src_wikipedia_color_war"
+      ],
+      "open_questions": 2,
+      "cross_links": [
+        "lv-games",
+        "quebec-camp-landscape",
+        "canadian-camping-movement",
+        "traditions-and-culture"
+      ],
+      "file_id": null,
+      "word_count": 518,
+      "notes": "2026-07-11: Workstream C2 spawn -- the one genuine new-place candidate on the approved shortlist (Camp Stephens and Camp Dorval held/folded into the satellite hub per the plan). Synthesizes already-cited facts from lv-games.md and quebec-camp-landscape.md; no new research conducted.",
+      "tags": {
+        "era": [
+          "1900s",
+          "1940s"
+        ],
+        "region": "canada-other",
+        "location_refs": [],
+        "person_type": null,
+        "topics": [
+          "places",
+          "traditions",
+          "camping_movement"
+        ],
+        "is_hub": false
+      }
+    },
+    {
+      "article_id": "green-triangle",
+      "title": "The Green Triangle",
+      "wiki_folder": "documents",
+      "status": "draft",
+      "status_history": [
+        {
+          "status": "draft",
+          "at": "2026-07-11T00:00:00Z",
+          "by": "auto",
+          "task": "WRITE"
+        }
+      ],
+      "ralph_loops_completed": 1,
+      "kb_facts_used": [
+        "f_0119",
+        "f_0142",
+        "f_0143",
+        "f_0333",
+        "f_0374",
+        "f_0410",
+        "f_0531",
+        "f_0550",
+        "f_0565",
+        "f_0571",
+        "f_0821",
+        "f_0837",
+        "f_1097",
+        "f_1098",
+        "f_1196",
+        "f_1197",
+        "f_1429",
+        "f_1935",
+        "f_1966",
+        "f_1967",
+        "f_1968"
+      ],
+      "sources_cited": [
+        "src_concordia_fonds",
+        "src_history_1935",
+        "src_concordia_ymca_fonds_12B04_finding_aid",
+        "src_ia_green_triangle_collection",
+        "src_green_triangle_1938",
+        "src_green_triangle_1933_07_08",
+        "src_readers_digest_buckland",
+        "src_readers_digest_camp_shapes_lives",
+        "src_spirit_kanawana_blog"
+      ],
+      "open_questions": 3,
+      "cross_links": [
+        "camp-songs-cheers",
+        "directors-index",
+        "matt-aronson",
+        "myths-and-legends",
+        "traditions-and-culture"
+      ],
+      "file_id": null,
+      "word_count": 773,
+      "notes": "2026-07-11: Workstream C3 spawn -- newsletter/award/symbol synthesized into standalone article, cited as a source in 13+ articles but never its own subject. No new research conducted. Corrected two dangling source_id references (src_web_readers_digest_buckland -> src_readers_digest_buckland; src_ia_green_triangle_1938 -> src_green_triangle_1938) in kb/facts.json while preparing this article.",
+      "tags": {
+        "era": [
+          "1930s",
+          "2000s"
+        ],
+        "region": "montreal",
+        "location_refs": [
+          "the-kanawana-site"
+        ],
+        "person_type": null,
+        "topics": [
+          "traditions",
+          "documents",
+          "media"
+        ],
+        "is_hub": false
+      }
+    },
+    {
+      "article_id": "cit-lit-program",
+      "title": "The CIT/LIT Program",
+      "wiki_folder": "programs",
+      "status": "draft",
+      "status_history": [
+        {
+          "status": "draft",
+          "at": "2026-07-11T00:00:00Z",
+          "by": "auto",
+          "task": "WRITE"
+        }
+      ],
+      "ralph_loops_completed": 1,
+      "kb_facts_used": [
+        "f_0174",
+        "f_0325",
+        "f_0624",
+        "f_1100",
+        "f_1199",
+        "f_1462",
+        "f_1498",
+        "f_1501",
+        "f_1544",
+        "f_1568",
+        "f_1612",
+        "f_1614",
+        "f_1615",
+        "f_1654",
+        "f_1796"
+      ],
+      "sources_cited": [
+        "src_kanawana_facts",
+        "src_oral_aronson",
+        "src_flickr_kanawana_plaque_album",
+        "src_ymcaq_trailblazers_2026",
+        "src_ymcaq_lit_guide_2026",
+        "src_leigh_evans_blog"
+      ],
+      "open_questions": 3,
+      "cross_links": [
+        "directors-index",
+        "a-ross-seaman",
+        "lv-games",
+        "canoe-trips",
+        "notable-alumni"
+      ],
+      "file_id": null,
+      "word_count": 573,
+      "notes": "2026-07-11: Workstream C3 spawn -- structured, decades-spanning program synthesized from 5 scattered articles into a standalone article. No new research conducted. Individual plaque-roster names deliberately not reproduced here (privacy carve-out for C5-listed names already collectively catalogued in directors-index.md).",
+      "tags": {
+        "era": [
+          "1960s",
+          "1980s",
+          "1990s",
+          "2020s"
+        ],
+        "region": "montreal",
+        "location_refs": [
+          "the-kanawana-site"
+        ],
+        "person_type": null,
+        "topics": [
+          "programs",
+          "staff",
+          "traditions"
+        ],
+        "is_hub": false
+      }
+    },
+    {
+      "article_id": "interwar-era",
+      "title": "The Interwar Era (1920s-1930s)",
+      "wiki_folder": "chronology",
+      "status": "draft",
+      "status_history": [
+        {
+          "status": "draft",
+          "at": "2026-07-11T00:00:00Z",
+          "by": "auto",
+          "task": "WRITE"
+        }
+      ],
+      "ralph_loops_completed": 1,
+      "kb_facts_used": [
+        "f_0262",
+        "f_0293",
+        "f_0304",
+        "f_0440",
+        "f_1404",
+        "f_1405",
+        "f_1407",
+        "f_1408",
+        "f_1846",
+        "f_1847"
+      ],
+      "sources_cited": [
+        "src_brochure_1921",
+        "src_brochure_1922",
+        "src_brochure_1923",
+        "src_gas_bag_1923",
+        "src_wikipedia_woodcraft_league",
+        "src_woodcraft_birch_bark",
+        "src_histclo_woodcraft",
+        "src_mcmorris_thesis",
+        "src_newspapers_gazette_1918",
+        "src_green_triangle_1938"
+      ],
+      "open_questions": 3,
+      "cross_links": [
+        "directors-index",
+        "council-ring",
+        "canadian-camping-movement",
+        "ralph-dawson",
+        "rl-charlton",
+        "timeline-overview"
+      ],
+      "file_id": null,
+      "word_count": 1005,
+      "notes": "2026-07-11: Workstream C4 spawn (1 of 4). Connective-narrative synthesis, no new research conducted.",
+      "tags": {
+        "era": [
+          "1920s",
+          "1930s"
+        ],
+        "region": "montreal",
+        "location_refs": [
+          "the-kanawana-site"
+        ],
+        "person_type": null,
+        "topics": [
+          "chronology",
+          "directors",
+          "traditions"
+        ],
+        "is_hub": false
+      }
+    },
+    {
+      "article_id": "postwar-gap",
+      "title": "The Postwar Gap (1947-1966)",
+      "wiki_folder": "chronology",
+      "status": "draft",
+      "status_history": [
+        {
+          "status": "draft",
+          "at": "2026-07-11T00:00:00Z",
+          "by": "auto",
+          "task": "WRITE"
+        }
+      ],
+      "ralph_loops_completed": 1,
+      "kb_facts_used": [],
+      "sources_cited": [
+        "src_camp_stephens_alumni_blog",
+        "src_mcmorris_thesis",
+        "src_ia_camp_perrot_collection",
+        "src_camp_perrot_1959_fresh_look",
+        "src_concordia_fonds",
+        "src_ia_ymca_annual_report_1966_67",
+        "src_concordia_chrcs_fonds"
+      ],
+      "open_questions": 3,
+      "cross_links": [
+        "directors-index",
+        "a-ross-seaman",
+        "nelson-mcewen",
+        "ross-bannerman",
+        "hedley-dimock",
+        "sgw-concordia-connection",
+        "camp-perrot",
+        "centennial-1967",
+        "timeline-overview"
+      ],
+      "file_id": null,
+      "word_count": 835,
+      "notes": "2026-07-11: Workstream C4 spawn (2 of 4). Connective-narrative synthesis, no new research conducted. Directly addresses CLAUDE.md-named \"1947-2003 director gap\" for its earliest, thinnest span.",
+      "tags": {
+        "era": [
+          "1950s",
+          "1960s"
+        ],
+        "region": "montreal",
+        "location_refs": [
+          "the-kanawana-site"
+        ],
+        "person_type": null,
+        "topics": [
+          "chronology",
+          "directors"
+        ],
+        "is_hub": false
+      }
+    },
+    {
+      "article_id": "between-centennials",
+      "title": "Between Centennials (1968-1993)",
+      "wiki_folder": "chronology",
+      "status": "draft",
+      "status_history": [
+        {
+          "status": "draft",
+          "at": "2026-07-11T00:00:00Z",
+          "by": "auto",
+          "task": "WRITE"
+        }
+      ],
+      "ralph_loops_completed": 1,
+      "kb_facts_used": [],
+      "sources_cited": [
+        "src_concordia_fonds",
+        "src_ymca_kanawana_history",
+        "src_kanawana_facts",
+        "src_mcmaster_mclean_fonds",
+        "src_ka_news_1980",
+        "src_mcmorris_thesis"
+      ],
+      "open_questions": 4,
+      "cross_links": [
+        "coeducation-gender",
+        "directors-index",
+        "stuart-mclean",
+        "dave-twynam",
+        "richard-patten",
+        "bruce-netherwood",
+        "centennial-1967",
+        "centennial-1994",
+        "timeline-overview"
+      ],
+      "file_id": null,
+      "word_count": 870,
+      "notes": "2026-07-11: Workstream C4 spawn (3 of 4). Connective-narrative synthesis, no new research conducted.",
+      "tags": {
+        "era": [
+          "1970s",
+          "1980s"
+        ],
+        "region": "montreal",
+        "location_refs": [
+          "the-kanawana-site"
+        ],
+        "person_type": null,
+        "topics": [
+          "chronology",
+          "directors",
+          "coeducation"
+        ],
+        "is_hub": false
+      }
+    },
+    {
+      "article_id": "modern-era",
+      "title": "The Modern Era: The Two-Tier Era (1995-Present)",
+      "wiki_folder": "chronology",
+      "status": "draft",
+      "status_history": [
+        {
+          "status": "draft",
+          "at": "2026-07-11T00:00:00Z",
+          "by": "auto",
+          "task": "WRITE"
+        }
+      ],
+      "ralph_loops_completed": 1,
+      "kb_facts_used": [],
+      "sources_cited": [
+        "src_oral_aronson",
+        "src_wayback_ymcamontreal_annualreport_2001_2002",
+        "src_msn_kanawana_closed_2021",
+        "src_montreal_families_gender",
+        "src_ymcaquebec_annualreport_2007",
+        "src_ymcaquebec_annualreport_2008",
+        "src_ymcaquebec_annualreport_2009",
+        "src_ymcaquebec_annualreport_2011"
+      ],
+      "open_questions": 3,
+      "cross_links": [
+        "directors-index",
+        "gary-white",
+        "david-leduc",
+        "kate-taylor",
+        "marie-pierre-lacasse",
+        "sean-day",
+        "bruce-netherwood",
+        "centennial-1994",
+        "environmental-history",
+        "coeducation-gender",
+        "timeline-overview"
+      ],
+      "file_id": null,
+      "word_count": 1069,
+      "notes": "2026-07-11: Workstream C4 spawn (4 of 4, final). Connective-narrative synthesis, no new research conducted. Ties together this session's institutional-role-director spawns into continuous narrative history. This completes Workstream C4 and the full operator-approved plan.",
+      "tags": {
+        "era": [
+          "1990s",
+          "2000s",
+          "2010s",
+          "2020s"
+        ],
+        "region": "montreal",
+        "location_refs": [
+          "the-kanawana-site"
+        ],
+        "person_type": null,
+        "topics": [
+          "chronology",
+          "directors",
+          "environment",
+          "coeducation"
+        ],
+        "is_hub": false
+      }
+    },
+    {
+      "article_id": "matt-aronson",
+      "title": "Matt Aronson",
+      "wiki_folder": "people",
+      "status": "draft",
+      "status_history": [
+        {
+          "status": "draft",
+          "at": "2026-07-11T00:00:00Z",
+          "by": "auto",
+          "task": "WRITE"
+        }
+      ],
+      "ralph_loops_completed": 1,
+      "kb_facts_used": [
+        "f_0173",
+        "f_0174",
+        "f_0175",
+        "f_0176",
+        "f_0177",
+        "f_0178",
+        "f_0564",
+        "f_0565",
+        "f_1188",
+        "f_1194",
+        "f_1209",
+        "f_1210",
+        "f_1568",
+        "f_1763"
+      ],
+      "sources_cited": [
+        "src_oral_aronson",
+        "src_flickr_kanawana_plaque_album",
+        "src_ymcaquebec_annualreport_2009",
+        "src_spirit_kanawana_blog"
+      ],
+      "open_questions": 2,
+      "cross_links": [
+        "sean-day",
+        "myths-and-legends",
+        "green-triangle",
+        "camp-songs-cheers",
+        "directors-index"
+      ],
+      "file_id": null,
+      "word_count": 601,
+      "notes": "2026-07-11: Spawned per operator's direct authorization revising the C5 privacy policy (see plan file Status Update). Subject is also this KB's own primary oral-history source -- a novel situation flagged transparently in Research Notes. Per operator's explicit instruction, personal/family detail from f_0566 (wife, daughters, neighborhood) deliberately excluded even though he published it himself; article covers camp history and public/professional role only. No new research conducted.",
+      "tags": {
+        "era": [
+          "1980s",
+          "1990s",
+          "2000s"
+        ],
+        "region": "montreal",
+        "location_refs": [
+          "the-kanawana-site"
+        ],
+        "person_type": "alumnus",
+        "topics": [
+          "people",
+          "traditions",
+          "staff"
+        ],
+        "is_hub": false
+      }
+    },
+    {
+      "article_id": "dan-aronson",
+      "title": "Dan Aronson",
+      "wiki_folder": "people",
+      "status": "stub",
+      "status_history": [
+        {
+          "status": "stub",
+          "at": "2026-07-11T00:00:00Z",
+          "by": "auto",
+          "task": "WRITE"
+        }
+      ],
+      "ralph_loops_completed": 1,
+      "kb_facts_used": [
+        "f_1614",
+        "f_1707"
+      ],
+      "sources_cited": [
+        "src_flickr_kanawana_plaque_album"
+      ],
+      "open_questions": 2,
+      "cross_links": [
+        "matt-aronson",
+        "directors-index"
+      ],
+      "file_id": null,
+      "word_count": 205,
+      "notes": "2026-07-11: Spawned per operator's direct authorization revising the C5 privacy policy. Only 2 bare plaque-transcription facts exist; per operator's explicit choice, no invented tenure/roles/biography beyond what the plaques show. No new research conducted.",
+      "tags": {
+        "era": [
+          "1990s",
+          "2000s"
+        ],
+        "region": "montreal",
+        "location_refs": [
+          "the-kanawana-site"
+        ],
+        "person_type": "staff",
+        "topics": [
+          "people",
+          "staff"
+        ],
+        "is_hub": false
+      }
+    },
+    {
+      "article_id": "greig-macdiarmid",
+      "title": "Greig Macdiarmid",
+      "wiki_folder": "people",
+      "status": "draft",
+      "status_history": [
+        {
+          "status": "draft",
+          "at": "2026-07-11T00:00:00Z",
+          "by": "auto",
+          "task": "WRITE"
+        }
+      ],
+      "ralph_loops_completed": 1,
+      "kb_facts_used": [
+        "f_0042",
+        "f_0077",
+        "f_0083",
+        "f_0670",
+        "f_0716",
+        "f_1841"
+      ],
+      "sources_cited": [
+        "src_history_1935",
+        "src_green_triangle_1938",
+        "src_ia_ymca_annual_1937",
+        "src_mcmorris_thesis"
+      ],
+      "open_questions": 2,
+      "cross_links": [
+        "directors-index",
+        "howie-langille",
+        "interwar-era",
+        "camp-becsies"
+      ],
+      "file_id": null,
+      "word_count": 380,
+      "notes": "2026-07-11: Spawned per operator's revised C5 policy -- mis-categorized originally, since he's a substantially-documented 1935-1938 Camp Chief, not a plaque-only name. No new research conducted.",
+      "tags": {
+        "era": [
+          "1930s"
+        ],
+        "region": "montreal",
+        "location_refs": [
+          "the-kanawana-site"
+        ],
+        "person_type": "director",
+        "topics": [
+          "directors",
+          "staff"
+        ],
+        "is_hub": false
+      }
+    },
+    {
+      "article_id": "francois-dauphin",
+      "title": "François Dauphin",
+      "wiki_folder": "people",
+      "status": "stub",
+      "status_history": [
+        {
+          "status": "stub",
+          "at": "2026-07-11T00:00:00Z",
+          "by": "auto",
+          "task": "WRITE"
+        }
+      ],
+      "ralph_loops_completed": 1,
+      "kb_facts_used": [
+        "f_1759",
+        "f_1762"
+      ],
+      "sources_cited": [
+        "src_ymcaquebec_annualreport_2007",
+        "src_ymcaquebec_annualreport_2008"
+      ],
+      "open_questions": 2,
+      "cross_links": [
+        "directors-index",
+        "sean-day",
+        "modern-era"
+      ],
+      "file_id": null,
+      "word_count": 261,
+      "notes": "2026-07-11: Spawned per operator's revised C5 policy. Genuinely thin -- single-year annual-report title only. No new research conducted.",
+      "tags": {
+        "era": [
+          "2000s"
+        ],
+        "region": "montreal",
+        "location_refs": [
+          "the-kanawana-site"
+        ],
+        "person_type": "director",
+        "topics": [
+          "directors",
+          "staff"
+        ],
+        "is_hub": false
+      }
+    },
+    {
+      "article_id": "nicolas-garcia",
+      "title": "Nicolas Garcia",
+      "wiki_folder": "people",
+      "status": "draft",
+      "status_history": [
+        {
+          "status": "draft",
+          "at": "2026-07-11T00:00:00Z",
+          "by": "auto",
+          "task": "WRITE"
+        }
+      ],
+      "ralph_loops_completed": 1,
+      "kb_facts_used": [
+        "f_1734",
+        "f_1752",
+        "f_1753"
+      ],
+      "sources_cited": [
+        "src_wayback_ymcakanawana_parentguide_2009",
+        "src_wayback_ymcakanawana_contactpage_2010_2014",
+        "src_oral_aronson"
+      ],
+      "open_questions": 2,
+      "cross_links": [
+        "directors-index",
+        "sean-day",
+        "modern-era"
+      ],
+      "file_id": null,
+      "word_count": 341,
+      "notes": "2026-07-11: Spawned per operator's revised C5 policy. No new research conducted.",
+      "tags": {
+        "era": [
+          "2000s",
+          "2010s"
+        ],
+        "region": "montreal",
+        "location_refs": [
+          "the-kanawana-site"
+        ],
+        "person_type": "director",
+        "topics": [
+          "directors",
+          "staff"
+        ],
+        "is_hub": false
+      }
+    },
+    {
+      "article_id": "morgan-carter",
+      "title": "Morgan Carter",
+      "wiki_folder": "people",
+      "status": "draft",
+      "status_history": [
+        {
+          "status": "draft",
+          "at": "2026-07-11T00:00:00Z",
+          "by": "auto",
+          "task": "WRITE"
+        }
+      ],
+      "ralph_loops_completed": 1,
+      "kb_facts_used": [
+        "f_1214",
+        "f_1732",
+        "f_1733",
+        "f_1750",
+        "f_1764",
+        "f_1765"
+      ],
+      "sources_cited": [
+        "src_oral_aronson",
+        "src_wayback_ymcamontreal_annualreport_2002_2003",
+        "src_ymcaquebec_annualreport_2011"
+      ],
+      "open_questions": 2,
+      "cross_links": [
+        "directors-index",
+        "david-leduc",
+        "gary-white",
+        "modern-era"
+      ],
+      "file_id": null,
+      "word_count": 304,
+      "notes": "2026-07-11: Spawned per operator's revised C5 policy. No new research conducted.",
+      "tags": {
+        "era": [
+          "2000s",
+          "2010s"
+        ],
+        "region": "montreal",
+        "location_refs": [
+          "the-kanawana-site"
+        ],
+        "person_type": "director",
+        "topics": [
+          "directors",
+          "staff"
+        ],
+        "is_hub": false
+      }
+    },
+    {
+      "article_id": "arleen-boyer",
+      "title": "Arleen Boyer",
+      "wiki_folder": "people",
+      "status": "draft",
+      "status_history": [
+        {
+          "status": "draft",
+          "at": "2026-07-11T00:00:00Z",
+          "by": "auto",
+          "task": "WRITE"
+        }
+      ],
+      "ralph_loops_completed": 1,
+      "kb_facts_used": [
+        "f_1729",
+        "f_1730",
+        "f_1731",
+        "f_1751",
+        "f_1758",
+        "f_1827"
+      ],
+      "sources_cited": [
+        "src_oral_aronson",
+        "src_wayback_ymcamontreal_annualreport_2003_2004"
+      ],
+      "open_questions": 2,
+      "cross_links": [
+        "directors-index",
+        "joanna-hoad",
+        "gary-white",
+        "modern-era"
+      ],
+      "file_id": null,
+      "word_count": 339,
+      "notes": "2026-07-11: Spawned per operator's revised C5 policy. No new research conducted.",
+      "tags": {
+        "era": [
+          "1990s",
+          "2000s"
+        ],
+        "region": "montreal",
+        "location_refs": [
+          "the-kanawana-site"
+        ],
+        "person_type": "director",
+        "topics": [
+          "directors",
+          "staff"
+        ],
+        "is_hub": false
+      }
+    },
+    {
+      "article_id": "justin-caldwell",
+      "title": "Justin Caldwell",
+      "wiki_folder": "people",
+      "status": "draft",
+      "status_history": [
+        {
+          "status": "draft",
+          "at": "2026-07-11T00:00:00Z",
+          "by": "auto",
+          "task": "WRITE"
+        }
+      ],
+      "ralph_loops_completed": 1,
+      "kb_facts_used": [
+        "f_1555",
+        "f_1739",
+        "f_1741",
+        "f_1742",
+        "f_1744",
+        "f_1805"
+      ],
+      "sources_cited": [
+        "src_ymca_kanawana_team_2025",
+        "src_fb_kanawana_tripper_caldwell_2018",
+        "src_fb_kanawana",
+        "src_zoominfo_justin_caldwell",
+        "src_oral_aronson",
+        "src_kk_prep_guide_2025"
+      ],
+      "open_questions": 1,
+      "cross_links": [
+        "directors-index",
+        "marie-pierre-lacasse",
+        "kate-taylor",
+        "modern-era"
+      ],
+      "file_id": null,
+      "word_count": 322,
+      "notes": "2026-07-11: Spawned per operator's revised C5 policy. No new research conducted.",
+      "tags": {
+        "era": [
+          "2000s",
+          "2010s",
+          "2020s"
+        ],
+        "region": "montreal",
+        "location_refs": [
+          "the-kanawana-site"
+        ],
+        "person_type": "director",
+        "topics": [
+          "directors",
+          "staff"
+        ],
+        "is_hub": false
+      }
     }
   ]
 }

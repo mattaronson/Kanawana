@@ -1,11 +1,36 @@
 # The Quebec Camping Landscape
 
-*Status: E1-reviewed | Sources: 20*
-*Last Updated: 2026-06-20*
+*Status: E1-reviewed | Sources: 23*
+*Last Updated: 2026-07-10*
 
 ## Overview
 
 Camp Kanawana (1894) is the oldest residential summer camp in Quebec, but it has never existed in isolation. From its founding, Kanawana operated within an expanding ecosystem of camps — YMCA, YWCA, Scout, religious, and private — that collectively shaped the Laurentian and broader Quebec camp tradition. Several of these camps shared staff, programming ideas, and institutional connections with Kanawana, while others developed independently but occupied the same regional landscape. This article surveys the camps that form Kanawana's wider context, focusing on those without standalone articles elsewhere in this wiki.
+
+This is also the wiki's answer to a question the folder structure alone doesn't explain: why do some sibling camps (Otoreke, Perrot, Becsies) live under `places/`, while others (Oolahwan, Ouareau, Weredale) live under `context/`? The split is real, not arbitrary — `places/` is for camps the YMCA of Montreal itself directly operated as part of the same institution as Kanawana; `context/` is for camps run by a distinct organization (the YWCA, an independent foundation, etc.) that nonetheless intersected with Kanawana's history. The table below tabulates every camp on this page by that same distinction (the "Operating Body" column), so the folder split should now read as a documented fact rather than an unexplained inconsistency.
+
+## Camps at a Glance
+
+| Camp | Operating Body | Relationship to Kanawana | Active Years | Status Today | Article |
+|------|-----------------|---------------------------|---------------|----------------|---------|
+| Camp Otoreke (orig. Camp Jubilee) | YMCA of Montreal | Kanawana's own predecessor/original site | 1894–1982 | Closed; property sold 1987 | [[places/camp-otoreke\|Camp Otoreke]] |
+| Camp Perrot | YMCA of Montreal | Sibling "service camp," directly compared to Kanawana in internal YMCA reports; shared director (A. Ross Seaman) and equipment | 1944–late 1950s/early 1960s | Closed | [[places/camp-perrot\|Camp Perrot]] |
+| Camp Becsies | YMCA of Montreal | Sibling/annex camp ~1.5 km from Kanawana; began as a Kanawana overflow site | 1929–1936, 1960–1971 | Closed; site now residential | [[places/camp-becsies\|Camp Becsies]] |
+| Camp Dorval | YMCA of Montreal (Verdun & St. Paul branches) | Sibling weekend/near-city camp | at least 1925–1928 | Not confirmed in current sources | *(covered above, no standalone article)* |
+| YMCA Day Camps (Concordia) | YMCA of Quebec | Parallel contemporary programming alongside Kanawana | recent decades–2025 | Discontinued fall 2025 | *(covered above, no standalone article)* |
+| Camp Oolahwan | YWCA of Montreal | Sister organization; documented camper visits to Kanawana (1940s) | 1917–2004 | Closed | [[context/camp-oolahwan\|Camp Oolahwan]] |
+| Camp Ouareau | Independent (founders drawn from the YMCA/YWCA personnel network) | Personnel-network connection via co-founder Ferna Halliday | 1922–present | Active, per the camp's own current director listing | [[context/camp-ouareau\|Camp Ouareau]] |
+| Camp Weredale | Weredale Foundation (formerly Rotary Club of Westmount) | Documented 1979–1982 signed lease and joint operations with the Montreal YMCA; never a YMCA property itself | 1934–present | Active, independent | [[context/camp-weredale\|Camp Weredale]] |
+| Camp Tamaracouta | Scouts Canada | Regional peer (Scout movement), same era and geography | 1912–2025 | Closed/sold 2025 | *(covered above, no standalone article)* |
+| Pripstein's Camp Mishmar | Independent (Pripstein family) | Regional peer (Jewish), same municipality as Camp Jubilee/Otoreke | 1941–2014 | Closed | *(covered above, no standalone article)* |
+| Camp B'nai Brith | B'nai Brith Canada (Mount Royal Lodge) | Regional peer (Jewish) | 1921– | Not confirmed in current sources | *(covered above, no standalone article)* |
+| Camp Massad Montreal | Montreal Va'ad Ha'ir | Regional peer (Jewish, Orthodox) | 1947– | Not confirmed in current sources | *(covered above, no standalone article)* |
+| Colonie de vacances Sainte-Jeanne-d'Arc | Independent (Catholic) | Regional peer (Catholic, girls) | 1926– | Not confirmed in current sources | *(covered above, no standalone article)* |
+| Big Cove YMCA Camp | YMCA (Nova Scotia) | National peer; Canada's oldest residential camp, 5 years older than Kanawana | 1889– | Not confirmed in current sources | *(covered above, no standalone article)* |
+| Camp Pine Crest | YMCA of Greater Toronto | Direct source of Kanawana's L&V Games tradition (adopted 1947) | 1910– | Not confirmed in current sources (Pine Crest Games described as an unbroken tradition since 1940) | [[places/camp-pine-crest\|Camp Pine Crest]] |
+| Camp Kitchikewana | YMCA (Simcoe/Muskoka) | National peer; listed alongside Kanawana in OCA "Y camps" records | 1919– | Active (over 105 years of continuous operation, per source) | *(covered above, no standalone article)* |
+| Camp Wanakita | YMCA Hamilton-Burlington-Brantford | National peer | 1953– | Not confirmed in current sources | *(covered above, no standalone article)* |
+| John Island Camp | YMCA of Northeastern Ontario | National peer | 1954– | Not confirmed in current sources | *(covered above, no standalone article)* |
 
 ## The YMCA Montreal Camp Network
 
@@ -13,9 +38,9 @@ The YMCA of Montreal operated multiple camps alongside Kanawana. The Concordia U
 
 **Camp Jubilee / Camp Otoreke** (1894–1982). The original YMCA camp at Lake Saint-Joseph in Saint-Adolphe-d'Howard, founded by Billy Ball as Camp Jubilee and renamed Camp Otoreke ("home in the north") in 1909.^1 Otoreke operated continuously on the original site until 1982, making it a companion camp to Kanawana for much of the twentieth century. (See [[chronology/founding-1894|Founding of Camp Kanawana]].)
 
-**Camp Perrot**. A boys' camp operated by the Montreal YMCA alongside Kanawana.^2 Concordia Archives hold a "Comparison of Two Boys Camps operated by Montreal YMCA" (c.1945–46) and a further comparison document from 1953–54, suggesting Camp Perrot was seen as a peer institution to Kanawana within the YMCA system.^3 Camp Perrot's precise founding date, location, and closure remain undocumented in publicly accessible sources. (See [[places/camp-perrot|Camp Perrot]].)
+**Camp Perrot** (1944–late 1950s/early 1960s). A low-cost, branch-referral boys'-and-girls' service camp operated by the Montreal YMCA on the south shore of Île Perrot, seen as a peer institution to Kanawana within the YMCA system and compared directly against it in internal reports.^2 ^3 Substantially re-researched in 2026-07-10 via 11 newly-found digitized annual reports and brochures. (See [[places/camp-perrot|Camp Perrot]] for the full history, including a documented equipment-sharing link and a shared director, A. Ross Seaman.)
 
-**Camp Dorval**. A short-lived YMCA Montreal camp documented in Concordia Archives sub-series P0145/12E, with records dating from 1926 to 1928.^2
+**Camp Dorval** (at least 1925–1928). A short-lived, weekend/near-city YMCA Montreal camp jointly operated by the Verdun and St. Paul branches, using a leased house on the Marcil Trust Company's land. Its actual operation traces to 1925 — three years earlier than the 1926-1928 span of surviving Concordia records (P0145/12E) previously used to date it — and its 1928 annual report explicitly recommends continuing the program, rather than reading as an abandoned experiment as previously inferred.^2 ^21
 
 **[[places/camp-becsies|Camp Becsies]]**. Another YMCA Montreal camp on Lac des Becs-scie, approximately 1.5 km west of Camp Kanawana. Documented in P0145/12D, with records spanning 1929–1936 and 1960–1971.^2 The camp served youth (including children from the Montreal Protestant Orphans' Home) in its first period, and was repurposed for family camping in its second.
 
@@ -64,7 +89,7 @@ The connection between these women's camps and Kanawana is more than geographic.
 Kanawana's institutional connections extend across Canada through the YMCA network. These camps shared programming traditions, staff training models, and in some cases direct influence on each other's development:
 
 - **Big Cove YMCA Camp** (1889, Merigomish, Nova Scotia): Canada's oldest residential camp, five years older than Kanawana.^12
-- **Camp Pine Crest** (1910, Muskoka, Ontario): Source of the Lumbermen-versus-Voyageurs tradition that Kanawana adopted in 1947 as its L&V Games.^13
+- **[[places/camp-pine-crest|Camp Pine Crest]]** (1910, Muskoka, Ontario): Source of the Lumbermen-versus-Voyageurs tradition that Kanawana adopted in 1947 as its L&V Games.^13
 - **Camp Kitchikewana** (1919, Beausoleil Island, Georgian Bay): Over 105 years of continuous operation. Listed alongside Kanawana in OCA "Y camps" records.^14
 - **Camp Wanakita** (1953, Koshlong Lake, Ontario): Named after a beach at Camp Kitchikewana. First season: 373 boys, 38 staff, $18,882 budget. YMCA Hamilton-Burlington-Brantford.^15
 - **John Island Camp** (1954, Lake Huron, Ontario): YMCA of Northeastern Ontario.^16
@@ -85,11 +110,12 @@ Several patterns emerge from the Quebec and Canadian camp landscape:
 
 ## Open Questions
 
-1. What was Camp Perrot's location and when did it operate? The Concordia Archives comparison documents (1945–46, 1953–54) are the only known references.
+1. ~~What was Camp Perrot's location and when did it operate?~~ [Resolved 2026-07-10] South shore of Île Perrot, founded 1944; closure genuinely contested between two internal sources. See [[places/camp-perrot|Camp Perrot]] for the full detail.
 2. Where was Camp Becsies, and what was its purpose? The 24-year gap in its archival record (1936–1960) is unexplained.
-3. What was Camp Dorval's relationship to the YMCA summer program? Its brief two-year record (1926–1928) suggests it may have been experimental.
-4. How did Laurentian camps interact during the mid-twentieth century? Were there inter-camp competitions, shared staff training, or coordinated programming?
-5. What role did the Quebec Camping Association (founded 1937) play in connecting these camps?
+3. ~~What was Camp Dorval's relationship to the YMCA summer program?~~ [Resolved 2026-07-10] A joint Verdun/St. Paul-branch weekend retreat operating from at least 1925; its 1928 report explicitly recommends continuation, not evidence of a failed experiment as previously framed.
+4. [Re-confirmed, largely unchanged 2026-07-10] How did Laurentian camps interact during the mid-twentieth century? Were there inter-camp competitions, shared staff training, or coordinated programming? The Quebec Camping Association / Canadian Camping Association Quebec Section held spring conferences (1940-46), counsellor training courses (1942-47, 1970), and a McGill camping school (1937-40) — plausible venues for inter-camp staff mixing — but no document names which specific camps sent staff; this would require physical archive access to the QCA/CCA correspondence.
+5. [Substantially resolved 2026-07-10] What role did the Quebec Camping Association (founded 1937) play in connecting these camps? Its institutional lineage is now documented in detail: Concordia's P0145/12N03 ("Quebec Section, Canadian Camping Association," 1929-1970) and 12N04 ("Quebec Camping Association / Association des camps du Québec," 1978-1980), plus Trent University's own QCA fonds (85-013, 1948-1982), confirm it was "established in 1937 as a chartered unit of the Canadian Camping Association." Neither finding aid names Kamp Kanawana or Camp Perrot as specific members by name — only physical box-level access could establish this.^22 ^23
+6. [Important, new 2026-07-11] Building the "Camps at a Glance" summary table made explicit a gap that existed but wasn't previously visible: this article does not currently confirm whether Camp B'nai Brith, Camp Massad, Colonie de vacances Sainte-Jeanne-d'Arc, Big Cove YMCA Camp, Camp Pine Crest, Camp Wanakita, or John Island Camp are still operating today. Each was originally researched for its historical connection to Kanawana, not its present-day status, so this was never checked. A dedicated round of "is this camp still open" searches would close the gap.
 
 ## Sources
 
@@ -113,11 +139,18 @@ Several patterns emerge from the Quebec and Canadian camp landscape:
 18. ACA Find a Camp, YMCA Hayo-Went-Ha Camps program listings.
 19. McMorris, Grace (2023). "An Experience That Lasts a Lifetime." MA thesis, Concordia University. Chapter on inter-camp visits.
 20. Wikipedia, "Camp B'nai Brith." URL: https://en.wikipedia.org/wiki/Camp_B%27nai_Brith
+21. "Report on Camp Dorval - Season 1928," Internet Archive [src_camp_dorval_1928]. Verified genuine via archive.org metadata API and direct OCR text fetch, 2026-07-10.
+22. Concordia University Archives, sub-series 12N (Camping associations), sub-sub-series 12N01-12N04 [src_concordia_12N_camping_associations].
+23. Trent University Archives, Quebec Camping Association fonds (85-013, 1948-1982) [src_trent_qca_fonds].
 
-### R3 Verification Notes
+## Research Notes
 
-All camp founding dates verified against at least two independent sources where possible. Tamaracouta 1912 confirmed via Wikipedia and CBC reporting. Camp Massad 1947 confirmed via Wikipedia. Pripstein 1941-2014 confirmed via Wikipedia. Ste-Jeanne-d'Arc 1926 confirmed via Wikipedia. Camp Dorval, Camp Becsies, and Camp Perrot are single-sourced from Concordia Archives fonds description (no independent verification available without physical archive access). Pine Crest 1910 confirmed via YMCA GTA and YMCA Canada. Wanakita 1953 confirmed via Wikipedia and Glen Herbert. Kitchikewana 1919 confirmed via YMCA Simcoe/Muskoka. Oolahwan 1946 visit confirmed via McMorris thesis (f_0220).
+<!-- RALPH process log (informal, not reader-facing). -->
+<!-- R3 VERIFY pass: all camp founding dates verified against at least two independent sources where possible. Tamaracouta 1912 confirmed via Wikipedia and CBC reporting. Camp Massad 1947 confirmed via Wikipedia. Pripstein 1941-2014 confirmed via Wikipedia. Ste-Jeanne-d'Arc 1926 confirmed via Wikipedia. Camp Dorval, Camp Becsies, and Camp Perrot are single-sourced from Concordia Archives fonds description (no independent verification available without physical archive access). Pine Crest 1910 confirmed via YMCA GTA and YMCA Canada. Wanakita 1953 confirmed via Wikipedia and Glen Herbert. Kitchikewana 1919 confirmed via YMCA Simcoe/Muskoka. Oolahwan 1946 visit confirmed via McMorris thesis (f_0220). -->
+<!-- E1 REVIEW pass completed 2026-06-20: systematic quality review. All 19 claims with inline citations verified against KB facts. Cross-links to 8 existing articles confirmed valid. Encyclopedic tone, neutral voice throughout. No unsourced speculation. Open questions are specific and actionable with archival leads. Entries for camps with standalone articles (Oolahwan, Ouareau, Weredale) appropriately brief with cross-references. Three camps (Dorval, Becsies, Perrot) remain single-sourced from Concordia Archives fonds -- noted as limitation but not a quality issue given archival nature of source. -->
+<!-- REVIEW pass 2026-07-11 (Workstream A, Wave 1): folded the former "R3 Verification Notes" and "E1 Review Notes" H3 sub-headings (which had no parent Research Notes heading) into this section, per the wiki-wide standardized convention; trimmed the header's dated parenthetical. No prose sediment was found in this article's main body -- it was already clean -- so no Revision History entries were needed. No facts, citations, or open questions changed. -->
 
-### E1 Review Notes
+### Revision History
 
-Systematic quality review completed 2026-06-20. All 19 claims with inline citations verified against KB facts. Cross-links to 8 existing articles confirmed valid. Encyclopedic tone, neutral voice throughout. No unsourced speculation. Open questions are specific and actionable with archival leads. Entries for camps with standalone articles (Oolahwan, Ouareau, Weredale) appropriately brief with cross-references. Three camps (Dorval, Becsies, Perrot) remain single-sourced from Concordia Archives fonds — noted as limitation but not a quality issue given archival nature of source.
+- **2026-07-11** (Workstream B) — Added the "Camps at a Glance" summary table (Camp | Operating Body | Relationship to Kanawana | Active Years | Status Today | Article) and an explanatory paragraph tying the table's "Operating Body" column directly to the wiki's places/-vs-context/ folder split, per the approved wiki-expansion plan. This page now serves as the wiki's satellite/peer-camp hub. No new facts or sources were added — the table summarizes claims already cited in this article's own body text below. Building the table surfaced a new open question (present-day status of several camps was never checked) — see Open Questions #6.
+

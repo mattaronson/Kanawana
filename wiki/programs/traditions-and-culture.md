@@ -1,7 +1,7 @@
 # Traditions and Culture at Kanawana
 
-*Status: E1-reviewed | Sources: 28*
-*Last Updated: 2026-07-07 ("Kamp" to "Camp" spelling change dated to spring 2005 via Wayback website snapshots and annual-report cross-check)*
+*Status: E1-reviewed | Sources: 31*
+*Last Updated: 2026-07-09 (Batch 6 research pass: itemized brochure box list and a Boy Scout provenance note for the Fire of Friendship programme found; Shawbridge Meet end-date and other Green Triangle issues re-confirmed as archive-access-only dead ends)*
 
 ## Overview
 
@@ -57,13 +57,17 @@ The **Council of the Tribes of Kanawana** was newly introduced in 1935, reflecti
 
 Documented ceremonies from the archives include:^10 ^11
 
-- **Firelighting ceremony** (1936): Catalogued in the Concordia archives but no detailed description has been recovered.
-- **Fire of Friendship / Kanawana Show** (1939): A combined ceremony and performance event. In 1942, the Fire of Friendship programme was used to welcome the Boys of Tamaracouta (a Scout camp), featuring fire-lighting, hymns, and prayers.^4
+- **Firelighting ceremony** (1936): Catalogued in the Concordia archives (Box HA2315) but no detailed description has been recovered.^30
+- **Fire of Friendship / Kanawana Show** (1939): A combined ceremony and performance event, catalogued at Box HA2315.^30 In 1942, the Fire of Friendship programme was used to welcome the Boys of Tamaracouta (a Scout camp), featuring fire-lighting, hymns, and prayers.^4 The thesis's full text adds that the suggested programme itself was designed "to be used at the end of a Boy Scout day" — indicating it was adapted directly from Boy Scout ceremonial material rather than composed originally for Kanawana.^4
 - **KK pageant scripts** (1931–1932): Theatrical performances for campers and visitors.
 - **Council Ring closing and time capsule**: A season-end gathering where a record of the season's activities was buried, followed by a "Leaders Grand Feed."^7 Oral history confirms this tradition continued into the 2000s era: a "time capsule" containing the summer's record of important people, events, and moments is burned at the Closing Fire, then dug up the following year to be read aloud at the Opening Fire. The tradition is believed to be very old, possibly dating to the 1920s or 1930s.^21
 - **Dam release**: The dam was opened at the end of the 1935 season as a ceremonial close.^5 By the mid-1980s, this ceremony was no longer practiced.^21
 
 End-of-season traditions included all-season camper banquets (1938 and 1939), Best Camper Shields, and time capsule burials.^5 ^11
+
+## The Camper's Oath
+
+Every camper and their parent/guardian must read and sign a formal bilingual "Serment du campeur / Camper's Oath," explicitly tied to the motto Non Nobis Solum. Recovered copies from 2010 and 2013 are nearly word-for-word identical, indicating a stable, standardized text across at least that period. The oath commits campers to respect the natural environment, treat campers and staff with respect and courtesy, use appropriate language, respect others' belongings, follow all safety regulations (on camp and on canoe trip expeditions), abstain from alcohol, illegal substances, and tobacco during their stay or expedition, and contribute to the camp community through joy, enthusiasm, and humour. Breach of the safety provisions can result in immediate dismissal from camp or from a canoe trip expedition. The signed copy is kept on file at the camp office.^29
 
 ## The Kanawana Song
 
@@ -105,13 +109,13 @@ Known recipients include: Richard "Itche" Kerr (2007, composer of the camp song)
 
 ## Open Questions
 
-1. [Critical] When did the camp adopt the Latin motto "Non Nobis Solum" in place of "Each for all and all for each"? The English motto is documented in the 1922 and 1927 brochures. The Latin motto is first attested in the 1993 documentary. The transition date remains unknown. Note: "Each for all — all for each" is also the motto of Camp Becket (Becket-Chimney Corners YMCA, est. 1903), suggesting a shared YMCA camping tradition.
+1. [Critical, re-confirmed dead end 2026-07-09] When did the camp adopt the Latin motto "Non Nobis Solum" in place of "Each for all and all for each"? The English motto is documented in the 1922 and 1927 brochures. The Latin motto is first attested in the 1993 documentary. Even the McMorris thesis, with full archival access, could not narrow this window. A concrete physical-archive target now exists: Concordia's Box HA1874 holds individually itemized (but undigitized) camp brochures from 1950, 1959, [1960s], 1964, 1965, [1968?], [197-], 1978, 1982, and 1983 — inspecting these, particularly the pre-1993 ones, is very likely the only way to narrow the transition window.^30 Note: "Each for all — all for each" is also the motto of Camp Becket (Becket-Chimney Corners YMCA, est. 1903), suggesting a shared YMCA camping tradition.
 2. ~~[Critical] Which pre-WWII traditions survived into the modern era?~~ [Partially resolved] Oral history (2026-06-13) confirms: the Council Ring ceremonies (Opening/Closing/L&V fires), the time capsule burial/retrieval tradition, the section system (renamed 1959), and the Kanawana Marching Song all survived. The dam ceremony did not survive past ~1985. The Shawbridge Meet, Pyjama Parade, and Eating-Out Day/Haunted House status are unknown.
 3. ~~[Important] What was the "Torch Ceremony for World Friendship"?~~ [Resolved] Part of a YMCA-wide interwar peace tradition originating at a 1926 international conference. Camp Fuller (1932) and Kanawana (1935) both held versions.
-4. [Important] When did the Shawbridge Meet end? It ran from ~1912 through at least 1935.
-5. [Important] What are the details of the firelighting ceremony (1936) and fire of friendship (1939)?
-6. [Nice-to-have] Are there other issues of the Green Triangle beyond the 1938-07-29 copy? The full run 1932–1940 is in the Concordia Archives.
-7. [Nice-to-have] Did "Kamp Kanawana" persist informally (merchandise, staff/alumni culture, signage) after the official spring-2005 spelling change to "Camp"? One operator recollection places the change in the mid-to-late 2010s — a decade after the documented institutional switch — which may reflect informal persistence not yet found in any dated source.
+4. [Important, re-confirmed dead end 2026-07-09] When did the Shawbridge Meet end? It ran from ~1912 through at least 1935. A direct fetch of Concordia's 12A finding aid (1895-1982) and QAHN's dedicated Shawbridge-history article both confirm zero mentions of the meet; the McMorris thesis full text likewise contains zero "Shawbridge" mentions. This is now a confirmed dead end for free online sources — only a BAnQ numérique login/library-card search of the Montreal Star/La Presse (blocked to this tool by paywall) or a direct Concordia annual-report request for the 1936-1946 range could resolve it.
+5. [Important, re-confirmed dead end 2026-07-09] What are the details of the firelighting ceremony (1936) and fire of friendship (1939)? Both are confirmed to be catalog-title-only entries in Concordia's Box HA2315, with no descriptive content in the finding aid itself.^30 One new detail was found: the Fire of Friendship's suggested programme was designed "to be used at the end of a Boy Scout day," per the McMorris thesis (see Ceremonial Traditions above) — but the 1936 firelighting ceremony itself remains wholly undescribed online.
+6. [Nice-to-have, re-confirmed dead end 2026-07-09] Are there other issues of the Green Triangle beyond the 1938-07-29 copy? The full run 1932–1940 is in the Concordia Archives (Box HA1874), but the public finding aid lists it only as a single undifferentiated box-level entry — individual issue dates are not itemized online. Only five total items from this collection are digitized on Internet Archive (the 1923 brochure, 1935 chronicle, the one 1938 Green Triangle issue, the 1941 CFCF broadcast, and a previously uncited May 1980 "Ka-News" issue, which contains no motto/Shawbridge-relevant content). A direct request to Concordia Records Management for the box's item list is the only remaining path.
+7. [Nice-to-have, re-confirmed dead end 2026-07-09] Did "Kamp Kanawana" persist informally (merchandise, staff/alumni culture, signage) after the official spring-2005 spelling change to "Camp"? A fresh sweep across Facebook, Instagram, TikTok, Reddit, Etsy, eBay, Worthpoint, and Wikimapia found no dated evidence of post-2005 informal "Kamp" usage — every hit is either a citation of an object whose own original title used the old spelling, or an unrelated legacy URL slug. One operator recollection places the change in the mid-to-late 2010s — a decade after the documented institutional switch — which may reflect informal persistence not yet found in any dated source, but this remains unconfirmed after two independent search passes.
 
 ## Related Articles
 
@@ -154,3 +158,6 @@ Known recipients include: Richard "Itche" Kerr (2007, composer of the camp song)
 26. 1960s-70s "KAMP KANAWANA / YMCA / STAFF" t-shirt and 1920 "KAMP KANAWANA HONOUR AWARD" ribbon set, photo-mined 2026-07-05 (f_1570, f_1581).
 27. ymcakanawana.com homepage, Wayback Machine snapshots 2005-2015, fetched directly 2026-07-07 (f_1767, f_1768); Montreal YMCA annual reports FY2001-2002 through 2012 (f_1749-f_1751, f_1759-f_1765).
 28. WebSearch sweep for post-2005 "Kamp Kanawana" mentions, 2026-07-07 (f_1770).
+29. "Serment du campeur / Camper's Oath," Camp YMCA Kanawana (2010, 2013 versions), recovered via Wayback from the predecessor ymcakanawana.ca domain [src_camper_oath_2010_2013].
+30. Concordia University Archives, static finding-aid pages for sub-sub-series 12A (Committees), 12B04 (Communications, Box HA1874), and 12B07 (Program, Box HA2315) [src_concordia_atom_12A, src_concordia_ymca_fonds_12B04_finding_aid, src_concordia_atom_12B07]. Direct fetch 2026-07-09.
+31. QAHN, dedicated Shawbridge local-history article; Internet Archive, "Ka-News," May 1980 [src_ka_news_1980]. Both checked directly 2026-07-09, no Shawbridge/motto content found.

@@ -1,7 +1,7 @@
 # Terry Mosher (Aislin)
 
-*Status: E1-reviewed | Sources: 10*
-*Last Updated: 2026-03-16*
+*Status: E1-reviewed | Sources: 12*
+*Last Updated: 2026-07-09 (Batch 5 research pass: parents and schools added from 2015 interview coverage; Pip Award ceremony date corrected to August 8, 2015 (day-of-week check: Aug 3, 2015 was a Monday, Aug 8 a Saturday; two independent sources confirm Aug 8))*
 
 ## Overview
 
@@ -11,13 +11,13 @@ Mosher is a Kanawana alumnus who attended camp as a camper in 1952–1953.^4 ^5 
 
 ## Early Life and Education
 
-Mosher was born in Ottawa "within sight of the Parliament Buildings on Remembrance Day 1942."^2 He attended fourteen different schools in Montreal, Toronto, and Quebec City.^2 He studied art at Toronto's Central Technical School and the Ontario College of Art before dropping out to hitchhike across North America for two years, supporting himself by sketching people in bars and taverns.^2
+Mosher was born in Ottawa "within sight of the Parliament Buildings on Remembrance Day 1942," to Jack and Norma Mosher.^2 ^11 He attended fourteen different schools in Montreal, Toronto, and Quebec City, a childhood mobility he discussed in 2015 interviews around his Pip Award visit.^11 He studied art at Toronto's Central Technical School and the Ontario College of Art before dropping out to hitchhike across North America for two years, supporting himself by sketching people in bars and taverns.^2
 
 He graduated from the École des Beaux-arts in 1967 (now part of UQAM), having famously forged his high school graduation certificate to gain entrance — a feat he later called "his most successful work."^2
 
 ## Kanawana Connection
 
-Mosher was a camper at Kanawana during the 1952 and 1953 seasons, when the pre-1959 section naming scheme (Bantam, Junior, Intermediate, Senior) would have been in effect.^4 ^5 His return to camp in 2015 for the Pip Award ceremony marked his first visit in more than 60 years.^6 On August 3, 2015, he was the eighth recipient of the award, presented at Saint-Sauveur, Quebec.^6
+Mosher was a camper at Kanawana during the 1952 and 1953 seasons, when the pre-1959 section naming scheme (Bantam, Junior, Intermediate, Senior) would have been in effect.^4 ^5 His return to camp in 2015 for the Pip Award ceremony marked his first visit in more than 60 years.^6 On Saturday, August 8, 2015, he was the eighth recipient of the award, presented at Saint-Sauveur, Quebec — the ceremony date is corrected here from the previously cited "August 3, 2015" (which was in fact a Monday); two independent 2015 sources give August 8.^6 ^11 ^12
 
 ## Career
 
@@ -88,8 +88,10 @@ In 1993, MP Robert Layton denounced an Aislin cartoon depicting outgoing Prime M
 3. "About Aislin." aislin.com. Career overview, publications. URL: http://www.aislin.com/wordpress/about-aislin/
 4. YMCA Quebec website: Kanawana notable alumni.
 5. Aronson (2024). Mosher as camper 1952–1953.
-6. YMCA Quebec: "Terry 'Aislin' Mosher Receives YMCA Kanawana Pip Award" (August 3, 2015). URL: https://www.ymcaquebec.org/en/About-Us/Newsroom/2015-en/Terry-Aislin-Mosher-Receives-YMCA-Kanawana-Pip
+6. YMCA Quebec: "Terry 'Aislin' Mosher Receives YMCA Kanawana Pip Award" (dated August 3, 2015 in the page's own metadata; corrected to August 8, 2015 per sources 11-12, see above). URL: https://www.ymcaquebec.org/en/About-Us/Newsroom/2015-en/Terry-Aislin-Mosher-Receives-YMCA-Kanawana-Pip
 7. Concordia University: Honorary degree recipients 2018 — Serge Chapleau and Terry Mosher. URL: https://www.concordia.ca/offices/archives/honorary-degree-recipients/2018/June/serge-chapleau-terry-mosher.html
 8. McCord Museum: "Aislin: 50 Years of Cartoons" (2017 exhibition). URL: https://www.musee-mccord-stewart.ca/en/exhibitions/aislin/
 9. Canada Post (2021): Editorial cartoonist commemorative stamp series.
 10. Terry Mosher — Wikipedia. URL: https://en.wikipedia.org/wiki/Terry_Mosher
+11. *The Suburban* (2015): Mosher/Aislin profile ahead of his Pip Award return to Kanawana — parents Jack and Norma Mosher, schools, quotes; Pip Award ceremony date given as August 8, 2015 [src_suburban_mosher_2015].
+12. *The Montrealer* (2016): profile referencing Richard Kerr and the 2015 Pip Award ceremony, independently confirming the August 8, 2015 date [src_montrealer_mosher_2016_kerr].

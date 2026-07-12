@@ -1,7 +1,7 @@
 # Coeducation and Gender at Kanawana
 
-*Status: E1-reviewed | Sources: src_mcmorris_thesis, src_kanawana_facts, src_ymca_website, src_concordia_12A, src_concordia_12B04, src_gas_bag_1923, src_ymca_john_island_newsletter, user_knowledge, src_mtl_families_gender*
-*Last Updated: 2026-06-22 (gender-expansive sleeping option details added from Montreal Families source) — photo gallery added 2026-07-02*
+*Status: E1-reviewed | Sources: 11*
+*Last Updated: 2026-07-10*
 
 ## Overview
 
@@ -37,7 +37,7 @@ There is a discrepancy in the available sources regarding when girls first atten
 
 The YMCA Quebec website's official history timeline states "1968" under the heading "Kanawana starts to welcome girl campers." McMorris's thesis confirms that the first girls admitted were aged 10 to 12, entering the youngest section of the camp.^mc The YMCA Kamp Kanawana Facts sheet, a separate institutional document, states that the camp "became coeducational" in 1969. The Concordia archives' Co-ed Camping Pilot Project records span 1967-1970. And the Pathfinder program summary from 1965 may push the timeline even earlier, depending on whether it refers to programming at Kanawana itself.
 
-These dates are not necessarily contradictory. It is plausible that a small number of girls attended as part of a pilot program in the summer of 1968, with full coeducational integration formalized in 1969. The pilot project documentation spanning 1967-1970 suggests a phased approach. The "Boys' Camping Committee" persisting through 1968-1969 further supports the interpretation that the transition was gradual rather than instantaneous. A 2005 YMCA John Island Alumni Newsletter describes someone visiting Kanawana in 1969 who was "hired as a counsellor in the senior boys section," implying gender-segregated sections still existed that year, consistent with a phased transition. Resolving this question definitively would likely require consulting the Co-ed Camping Pilot Project reports at Concordia.
+These dates are not necessarily contradictory. It is plausible that a small number of girls attended as part of a pilot program in the summer of 1968, with full coeducational integration formalized in 1969. The pilot project documentation spanning 1967-1970 suggests a phased approach. The "Boys' Camping Committee" persisting through 1968-1969 further supports the interpretation that the transition was gradual rather than instantaneous. A 2005 YMCA John Island Alumni Newsletter describes someone visiting Kanawana in 1969 who was "hired as a counsellor in the senior boys section," implying gender-segregated sections still existed that year, consistent with a phased transition. This phased reading (1968 pilot, 1969 full integration) is adopted as the working resolution, treating both official sources as correct about a different milestone rather than one being an error — an editorial judgment, not new evidence (see Revision History); the Co-ed Camping Pilot Project reports at Concordia remain the only way to confirm it directly.
 
 ## After Coeducation
 
@@ -53,10 +53,13 @@ In 2022, Kanawana launched the Mountaineer program, described on the YMCA Quebec
 
 Under camp director Kate Taylor, the gender-expansive sleeping option was further articulated: any camper may choose it, though requests have come mainly from teens. Taylor noted that Kanawana was not the first camp in Quebec to introduce such an option.^mtl
 
+The camp has also made a public institutional commitment on this front: an official Facebook video/post, "Camp YMCA Kanawana Stands with Trans Campers," states the camp will accommodate campers' pronouns, provide equitable and safe sleeping arrangements regardless of sex assigned at birth, and educate staff on trans-youth issues.^fb The exact date of the post is unconfirmed, but it is consistent with the Mountaineer program's 2022 launch.
+
 The Mountaineer program represents a conceptual shift from the 1968-1969 transition. Where coeducation introduced a second gender category to a previously single-gender institution (with parallel section tracks like Pathfinders), the Mountaineer program acknowledged that a binary gender framework was itself insufficient.
 
 ## Related Articles
 
+- [[chronology/timeline-overview|Timeline Overview: Camp Kanawana Decade by Decade]]
 - [[places/camp-otoreke|Camp Otoreke]]
 - [[programs/canoe-trips|Canoe Tripping at Kanawana]]
 - [[chronology/centennial-1967|Centennial Year (1967)]]
@@ -82,8 +85,8 @@ The Mountaineer program represents a conceptual shift from the 1968-1969 transit
 4. Did coeducation affect enrollment numbers? Was there resistance from parents or alumni?
 5. What was the relationship between Kanawana's coeducation and the closure of Camp Otoreke (1982)?
 6. Are there oral histories from the first cohort of girl campers in 1968 or 1969?
-7. How did coeducation affect the L&V Games, which had been structured around masculine competition themes (Lumbermen and Voyageurs)?
-8. What were the purposes and gender assignments of Camp Becsies (12D), Camp Dorval (12E), Camp Thunderbird (12I), and the Wilderness Survival Camp (12J) in the YMCA Montreal camp network?
+7. [Resolved as a documented non-answer, 2026-07-09] How did coeducation affect the L&V Games, which had been structured around masculine competition themes (Lumbermen and Voyageurs)? Grace McMorris's own thesis (re-mined via full-PDF extraction) explicitly declines to cover this: "A study of co-ed camps, or even of Kanawana's co-ed programming, is beyond the scope of my research," and her conclusion poses the identical question as her own unanswered future-research interest. This is a genuine, acknowledged gap in the existing academic literature, not merely unresearched by this project -- closing it would require the physical archive (Concordia P145/12B07 program-report folders, 1968-1980) or oral history.
+8. [Partially resolved 2026-07-09] What were the purposes and gender assignments of Camp Becsies (12D), Camp Dorval (12E), Camp Thunderbird (12I), and the Wilderness Survival Camp (12J) in the YMCA Montreal camp network? Direct fetches of all four Concordia finding-aid pages found no gender designation stated for any of the four. Dates were confirmed/corrected: Camp Dorval's 1926-1928 window is corroborated by specific finding-aid items (director's report 1926, season report 1928); **Camp Thunderbird is now dated to 1942-1943** (a finding-aid item titled "brochure, correspondence, reports, publicity — 1942-1943"), correcting this KB's prior "mid-1970s" inference; the Wilderness Survival Camp's window is sharpened to a precise 1973-1975 (several dated finding-aid items), well after coeducation was underway camp-wide, which at least weakly suggests (not confirms) it was not boys-only. Camp Becsies' Protestant Orphans' Home connection (see [[places/camp-becsies|Camp Becsies]]) doesn't establish a specific gender designation either, though the Home itself likely served both boys and girls.
 
 ## Sources
 
@@ -96,12 +99,16 @@ The Mountaineer program represents a conceptual shift from the 1968-1969 transit
 - Concordia University Archives, YMCA of Montreal fonds, sub-series 12A. https://www.concordia.ca/offices/archives/ymca-fonds-sub-series-12A.html
 - Concordia University Archives, YMCA of Montreal fonds, sub-sub-series 12B04. https://www.concordia.ca/offices/archives/ymca-fonds-sub-sub-series-12B04.html
 - Montreal Families, "Gender-Expansive Options at Summer Camp" (article discussing Kanawana's approach under Kate Taylor).
+- [fb] "Camp YMCA Kanawana Stands with Trans Campers," official Facebook video/post [src_facebook_trans_inclusion].
+- Concordia University Archives, YMCA of Montreal fonds, sub-series 12D (Camp Becsies), 12E (Camp Dorval), 12I (Camp Thunderbird), 12J (Wilderness Survival Camp) [src_concordia_12L].
 
-## R3 Verification Notes
+## Research Notes
 
-R3 VERIFY pass (2026-02-18) corrected several factual errors in the R1 draft:
-- **Camp Otoreke/Weredale**: R1 draft inferred these were girls' camps. KB evidence shows Otoreke served adults (men 18+, then mixed adults, married couples, low-income families) and Weredale served orphaned/at-risk boys. Corrected.
-- **"Doers and Darers"**: R1 draft listed these as boys' section names. No KB support for these names. Current boys' sections are Woodsmen and Coureurs des Bois (1959 names). Corrected.
-- **Pathfinder name origin**: R1 draft treated Pathfinder as inherently a girls' section name. KB shows it was introduced in 1959 for the boys-only camp (ages 14-15). The gender reassignment to senior girls occurred at an unknown date after coeducation. Corrected.
-- **New material added**: 1923 Marois girls visit (f_0322), 1930 director's wife presence (f_0218), Miss Rayner as camp nurse/mother 1939 (f_0219), Oolahwan/Junior League visits (f_0220, f_0221), 1969 "senior boys section" reference (f_0367), current gendered section structure (f_0453).
-- **Source attribution note**: The 1968 coeducation date is attributed to the YMCA website in the article and to src_oral_aronson in the KB (f_0201). Both sources may independently give 1968; reconciliation deferred to archival research.
+### Revision History
+
+- **2026-07-10** — Conflict c_001 (1968 vs. 1969 coeducation date) resolved editorially: adopted a phased reading (a 1968 pilot, full integration in 1969) treating both official sources as correct about different milestones rather than one being an error. An editorial judgment, not new evidence.
+- **2026-07-08** — A direct fetch of the live YMCA Quebec history page confirmed its official timeline currently states "1968 – Kanawana starts to welcome girl campers" (f_1777) — a second documented source for 1968, not just oral history. This established conflict c_001 as two documented institutional sources disagreeing with each other (the YMCA's own history timeline vs. its own Kamp Kanawana Facts sheet), not an oral-history-vs-document case, hence not covered by the standing "oral history yields to documents" policy — it required the editorial resolution above.
+
+<!-- RALPH process log (informal, not reader-facing). -->
+<!-- R3 VERIFY pass (2026-02-18) corrected several factual errors in the R1 draft: (1) Camp Otoreke/Weredale -- R1 draft inferred these were girls' camps. KB evidence shows Otoreke served adults (men 18+, then mixed adults, married couples, low-income families) and Weredale served orphaned/at-risk boys. Corrected. (2) "Doers and Darers" -- R1 draft listed these as boys' section names. No KB support for these names. Current boys' sections are Woodsmen and Coureurs des Bois (1959 names). Corrected. (3) Pathfinder name origin -- R1 draft treated Pathfinder as inherently a girls' section name. KB shows it was introduced in 1959 for the boys-only camp (ages 14-15). The gender reassignment to senior girls occurred at an unknown date after coeducation. Corrected. New material added: 1923 Marois girls visit (f_0322), 1930 director's wife presence (f_0218), Miss Rayner as camp nurse/mother 1939 (f_0219), Oolahwan/Junior League visits (f_0220, f_0221), 1969 "senior boys section" reference (f_0367), current gendered section structure (f_0453). -->
+

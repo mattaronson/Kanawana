@@ -1,13 +1,11 @@
 # Sources and Archives
 
-<!-- status: E1-reviewed -->
-<!-- confidence: high -->
-<!-- last_updated: 2026-06-21 -->
-<!-- last_editor: v52 -->
+*Status: E1-reviewed | Sources: 643 (this article catalogs the project's sources; see Source Statistics, below)*
+*Last Updated: 2026-07-10*
 
 ## Summary
 
-This article catalogs all sources consulted for the Kanawana Wiki Builder project. As of March 2026, the knowledge base draws on 138 source records spanning primary camp publications (1921–1980), archival finding aids, academic research, biographical references, and web sources. The collection is anchored by Grace McMorris's 2023 Concordia MA thesis, Internet Archive primary documents (including a newly mapped ymca-montreal-fonds collection of 25+ items), and Concordia University's YMCA of Montreal Fonds P145.
+This article catalogs all sources consulted for the Kanawana Wiki Builder project. As of March 2026, the knowledge base drew on 138 source records; by 2026-07-09 this had grown to 580, spanning primary camp publications (1921–1980), archival finding aids, academic research, biographical references, and web sources -- including a substantial Phase 2 broad-net expansion into social media, review platforms, job postings, municipal/heritage registries, and Wayback-recovered predecessor-domain documents. The collection is anchored by Grace McMorris's 2023 Concordia MA thesis (now read in full, not just chapters 1-3 + conclusion), Internet Archive primary documents (including a newly mapped ymca-montreal-fonds collection of 25+ items), and Concordia University's YMCA of Montreal Fonds P145.
 
 ## Primary Sources (31)
 
@@ -58,15 +56,21 @@ Concordia University's Records Management uploaded 25+ digitized items to Intern
 | 12D | Camp Becsies | Textual records 1929–1936, 1960–1971. Previously unknown YMCA camp. |
 | 12E | Camp Dorval | Textual records 1926–1928. Short-lived YMCA camp. |
 | 12F | Camp Weredale | YMCA planning documents related to Weredale (1977–1983). |
-| 12G | Camp Perrot | Boys' camp operated alongside Kanawana; compared in reports 1945–46, 1953–54. |
+| 12G | Camp Perrot (see note below) | Boys'-and-girls' service camp compared against Kanawana in reports 1945–46, 1953–54; 11 of its own annual reports/brochures (1944/45-1969) are separately digitized on Internet Archive, not catalogued under this label — see [[places/camp-perrot|Camp Perrot]]. |
 | 12H | Ski lodge | YMCA ski lodge records. |
 | 12I | Camp Thunderbird | YMCA Camp Thunderbird records. |
 | 12J | Wilderness Survival Camp | Wilderness Survival Camp program records. |
 | 12K | Les Voyageurs de la Vérendrye | Canoe program est. 1958-59. Exploratory logs, Lac Landron lease (1962-63), brochures, camper records (1967-80), review (1982). |
-| 12L | Lac St-Joseph / Camp Jubilee | 1893 camper lists, John Roy 1901 letters, 1898 photo. |
-| 12M | Day camp | Day camp records. |
-| 12N | Camping associations | Camping association correspondence and records. |
+| 12L | Lac St-Joseph / Camp Jubilee | 1893 camper lists, John Roy 1901 letters, 1898 photo; Box HA2312 holds an unread "Director's report (1908)," a specific lead for the undocumented 1901-1923 director gap. |
+| 12M | Day camp | 1953-1989. Box HA2312 (admin: memos, promotion, policy, staff seminars) and Box HA1886 (resource materials: bilingual manuals, Olympic Day programming). No Kanawana-specific content confirmed. |
+| 12N | Camping associations | 1929-1981. Four sub-sub-series: 12N01 American Camping Association (1937-59); 12N02 Canadian Camping Association (1936-81); 12N03 Quebec Section CCA / Quebec Camping Association (1929-70, incl. McGill camping-leadership courses); 12N04 QCA / Association des camps du Québec (1978-80). No Kanawana content by name in any box-level description. |
 | 14D | National Council | Harold Cross Boys' Work file 1940–1945. 14D03: YMCA Montreal annual reports. 14D10: Nelson McEwen correspondence 1941–1945. |
+
+**Note on "12G" (added 2026-07-10):** Concordia's full 125-page master finding-aid PDF shows that, unlike every sibling sub-series (12C-12F, 12H-12N, each with a full date-range and box-listing entry), "12G" has no descriptive entry at all in the finding aid's body — the structure jumps directly from 12F (Weredale) to 12H (Ski lodge). This appears to be a genuine cataloguing gap in Concordia's own finding aid (independently confirmed by two separate research passes the same day), not a wiki error. Camp Perrot material that *is* catalogued exists only as comparison documents within sub-series 12A.
+
+**New research tool (2026-07-10):** the fonds' full 125-page master finding-aid PDF (`concordia.accesstomemory.org/downloads/ymca-of-montreal-fonds-2.pdf`) is directly downloadable via `curl` — unlike the bot-walled AtoM catalog interface — and readable via `pdftotext -layout`. This is a superior, reusable tool for future Concordia fonds research: it surfaced item-level detail (including several previously uncatalogued Kanawana audiovisual items — see below) that no static finding-aid page had captured, and confirms sub-sub-series 12B05 (Staff and counsellors) is explicitly access-restricted, explaining why static pages for 12B02/05/06 consistently 404 while 12B01/03/04/07 work.
+
+**Newly surfaced Kanawana audiovisual items (2026-07-10, from the master PDF's item-level list, sub-series 09 moving images and 11 sound recordings):** *Camp Kanawana: Boating and Water Sports All Summer Long* (16mm, ~8 min); *News Documents and Kamp Kanawana* (VHS, 15 min); French and English *Kamp Kanawana* PSAs (December 1988 and March 1987, 1 min each); an undated *Kamp Kanawana* audio reel; a 1969 promotional audio tape; an August 24, 1962 audio interview with a "Woodsman" section member; an undated "Homesick tape"; and a 1963 recording titled "What is God? / Interview of Kamp Kanawana campers and staff." Only catalog metadata was retrieved, not transcripts or audio itself — these are potentially rich primary sources for a future session with audio-transcription capability.
 
 ### Newspaper Sources (BAnQ / Newspapers.com)
 
@@ -87,7 +91,7 @@ Concordia University's Records Management uploaded 25+ digitized items to Intern
 | McMorris, Grace. "An Experience That Lasts a Lifetime." MA thesis, Concordia University. | 2023 | Thesis | Central secondary source. Ch1–3 + Conclusion extracted, 78+ facts. |
 | Wall, Sharon. *The Nurture of Nature*. UBC Press. | 2009 | Monograph | Principal study of Ontario camping. Won 2010 Clio Prize. |
 | Dean, Misao. "The Centennial Voyageur Canoe Pageant." *JCS* 40:3. | n.d. | Journal article | Nationalist symbolism of 1967 canoe pageant. |
-| Ballantyne. *A Short History of the Canadian YMCA 1851–1944*. | 1944 | History | National YMCA history. 38,063 chars cached. |
+| Ballantyne. *A Short History of the Canadian YMCA 1851–1944*. | 1944 | History | National YMCA history. 38,063 chars cached. Re-grepped in full 2026-07-10 for "camp," "Laurentian," "Saint-Sauveur," "St. Joseph," "Ball," "Cushing," "Kanawana" — zero Kanawana-specific mentions beyond one already-known national statistic. Confirmed dead end. |
 | Cushing, James S. *The Genealogy of the Cushing Family*. Montreal: Perrault, 1905. | 1905 | Genealogy | 598 pages. Internet Archive. Key genealogical source. |
 
 ### YMCA Quebec Newsroom (Pip Alumni Award pages)
@@ -123,27 +127,31 @@ John Wilson McConnell, Lemuel Cushing Jr., Centennial Voyageur Canoe Pageant, Br
 
 ## Source Statistics
 
-| Category | Count |
+*Note: the category breakdown below (primary/secondary/tertiary/catalog split, extraction counts) was last hand-tallied in March 2026 and has not been recomputed against the current source list; only the total and KB Statistics figures below are current as of 2026-07-09. Recomputing the full breakdown is a future-work item.*
+
+| Category | Count (March 2026) |
 |----------|-------|
 | Primary (camp publications, archives, oral history, newspapers) | 38 |
 | Secondary (academic, organizational, biographical) | 56 |
 | Tertiary (Wikipedia) | 16 |
 | Catalog references | 16 |
-| **Total** | **138** |
-| Extracted (KB facts generated) | 98 |
-| Unextracted (awaiting download or access) | 28 |
-| With cached text on disk | 18 |
+| **Total (March 2026)** | **138** |
+| **Total (current, 2026-07-10)** | **643** |
+| Extracted (KB facts generated) | 98 (March 2026 tally, stale) |
+| Unextracted (awaiting download or access) | 28 (March 2026 tally, stale) |
+| With cached text on disk | 18 (March 2026 tally, stale) |
 
 ## KB Statistics
 
 | Metric | Count |
 |--------|-------|
-| Total facts | 1355 |
-| Fact categories | 40 |
-| KB version | v4.74 |
+| Total facts | 1941 |
+| Fact categories | 77 (stale tally, not recomputed) |
+| KB version | v5.07 |
 
 ## Related Articles
 
+- [[chronology/timeline-overview|Timeline Overview: Camp Kanawana Decade by Decade]]
 - [[chronology/founding-1894|Founding of Camp Kanawana (1894)]]
 - [[chronology/centennial-1967|Centennial Year (1967)]]
 - [[context/canadian-camping-movement|The Canadian Camping Movement]]
@@ -154,10 +162,10 @@ John Wilson McConnell, Lemuel Cushing Jr., Centennial Voyageur Canoe Pageant, Br
 
 ## Open Questions
 
-1. [Critical] Can the McMorris thesis PDF be accessed for full text extraction (currently only chapters 1–3 + conclusion)?
-2. [Important] What additional materials exist in Concordia Fonds P145 sub-series 12A–12K and 12M–12N?
-3. [Important] Are there Kanawana-specific records in the Trent University OCA/CCA fonds?
-4. [Important] BAnQ digitized newspaper archive (numerique.banq.qc.ca) — systematic search for Kanawana mentions in Gazette, Montreal Star, La Presse, Le Devoir requires browser access.
-5. [Nice-to-have] Can the Ballantyne 1944 history yield any Montreal YMCA camping context?
-6. [Nice-to-have] Does BAnQ hold Quebec-specific camping records (provincial camping association, inspection records)?
-7. [Nice-to-have] BAnQ Advitam Notice 519920 references YMCA Montreal archives received 1985 — what is the relationship to Concordia fonds?
+1. ~~[Critical] Can the McMorris thesis PDF be accessed for full text extraction (currently only chapters 1–3 + conclusion)?~~ [Resolved 2026-07-08/09] Yes — the thesis was read directly as a full 129-page PDF from spectrum.library.concordia.ca across Campaigns 30-31, superseding the earlier chapters-1-3-plus-conclusion extraction. Dozens of new facts and two article corrections (Ralph Dawson, the Pagé farm purchase date, the 1928/1962 camp maps) resulted.
+2. [Important, substantially resolved 2026-07-10] What additional materials exist in Concordia Fonds P145 sub-series 12A–12K and 12M–12N? Mapped in detail via the master finding-aid PDF: 12M (day camp, 1953-89, no Kanawana content) and 12N (camping associations, 1929-81, four sub-sub-series, no Kanawana content) are now fully catalogued; several previously undocumented Kanawana-specific audiovisual items were surfaced (see the note above); the "12G | Camp Perrot" entry was found to be a cataloguing gap, not a real described sub-series.
+3. ~~[Important] Are there Kanawana-specific records in the Trent University OCA/CCA fonds?~~ [Largely resolved] Yes — Derek Walsh's 1983 CCA Award of Excellence and his link to "Kamp Kanawana, YMCA, Montreal" are documented via the Trent University Ontario Camping Association fonds (see directors-index.md), among 30+ KB facts referencing Trent-held material. Trent also separately holds the Quebec Camping Association's own fonds (85-013, 1948-1982) — no Kanawana content by name found there either.
+4. [Important, re-confirmed 2026-07-10] BAnQ digitized newspaper archive (numerique.banq.qc.ca) — systematic search for Kanawana mentions in Gazette, Montreal Star, La Presse, Le Devoir requires browser access. Now more precisely characterized: the block is a Radware "perfdrive.com" bot-validation redirect at both the search and article-detail level, confirmed on multiple distinct URLs — not a simple 403. Every article surfaced by site-restricted search was already in this KB; notably, no "Montreal Star" hit surfaced at all despite its partial digitization, unclear whether this reflects absence or incomplete coverage of that title.
+5. ~~[Nice-to-have] Can the Ballantyne 1944 history yield any Montreal YMCA camping context?~~ [Confirmed dead end 2026-07-10] No — see the Academic Works table above.
+6. [Nice-to-have, advanced 2026-07-10] Does BAnQ hold Quebec-specific camping records (provincial camping association, inspection records)? BAnQ numérique holds a digitized "Rapport annuel... Association des camps du Québec" entry (inaccessible due to the Radware block above). The more productive path turns out to be Concordia, not BAnQ: sub-series 12N holds the actual Quebec Section CCA/QCA correspondence, minutes, and constitutions (1929-1981) — see the fonds table above.
+7. ~~[Nice-to-have] BAnQ Advitam Notice 519920 references YMCA Montreal archives received 1985 — what is the relationship to Concordia fonds?~~ [Clarified] These are two separate archival deposits, not the same holding: the BAnQ Advitam notice (f_0443) documents a distinct 1985 transfer to BAnQ, while Concordia's P145 fonds is the primary Kanawana-relevant collection used throughout this KB. No evidence the BAnQ material duplicates or supersedes the Concordia fonds; it remains a separate, unexplored lead in its own right.

@@ -1,7 +1,7 @@
 # Stuart McLean
 
-*Status: E1-reviewed | Sources: src_samaritanmag_mclean, src_ourkids_mclean, src_ymca_website, src_oral_aronson, src_wikipedia_stuart_mclean, src_canadian_encyclopedia_mclean, src_montrealer_mclean, src_concordia_mclean_tribute, src_cbc_mclean_fund, src_westmount_mag_mclean, src_ymca_john_island_mclean_speech, src_cbc_mclean_obit, src_mcmaster_mclean_fonds, src_mclean_letter_from_camp, src_globe_mclean_bent_vision*
-*Last Updated: 2026-06-22 (Globe and Mail arts piece added)*
+*Status: E1-reviewed | Sources: 15*
+*Last Updated: 2026-07-09*
 
 ## Overview
 
@@ -19,7 +19,7 @@ McLean visited a friend working at Kanawana in summer 1969 and was hired on the 
 
 McLean spoke repeatedly about the camp's formative impact: "When I got to camp, I found a place where I was accepted by others and I was able to contribute to the greater good. It worked its magic on me. Camp is where I found my confidence."^2 ^5 In a 2008 interview, he said: "I began pulling my adult self together at Camp Kanawana, and I benefited greatly from my camp experiences."^8 A Globe and Mail arts profile (c. 2003) described his time as a counsellor at Kanawana in his 20s as "at once magical and developmentally critical."^15 In a speech to YMCA camp directors, later excerpted in the John Island Alumni Newsletter (Spring 2012), he described arriving at camp as "a wholly unsuccessful boy" carrying "a packsack full of fears." He said: "the best I can say is that camp happened." He linked his writerly preoccupation with "the world of the family, the neighbourhood" and "the safe places that foster a sense of belonging" directly to "the kinds of places that are created at YMCA camps across North America."^3
 
-His first opportunity to mentor children and stage a variety show — skills that would define his broadcasting career — came at Camp Kanawana.^2
+His first opportunity to mentor children and stage a variety show — skills that would define his broadcasting career — came at Camp Kanawana.^2 A frequently-quoted line — "It was the first place, as a young person, that I felt I could contribute to the greater good" — was originally said in a CBC Montreal Radio Noon interview, per OurKids.net's own framing ("in an interview with CBC Montreal's Radio Noon two years ago"), adding provenance to a quote already documented from the OurKids piece itself.^2
 
 ## Career in Broadcasting and Writing
 
@@ -53,7 +53,22 @@ After McLean's death in February 2017, his family requested donations to Camp Ka
 
 McLean was diagnosed with melanoma in November 2015, and *The Vinyl Cafe* stopped touring and producing new episodes.^7 He died on February 15, 2017, in Toronto, aged 68.^12 A tribute special, *Canada's Storyteller*, hosted by Michael Enright, aired on CBC Radio the following day.^12
 
-McLean donated his archives — 100 boxes spanning 16 metres — to McMaster University in May 2016. The Stuart McLean fonds (1960s–2016, 87+ boxes, no access restrictions) is publicly accessible at Mills Library.^13 It contains at least three camp-related files: **F.13 [Summer Camp]** (typescript drafts of "Camp" and "Letter Home," with an editor's note from Meg Masters dated May 8, 1998), **F.16 "Kamp Kanawana,"** and **F.25 "Vinyl Cafe Show 2.10 Camp — Not Published"** (an unpublished show about camp).^13 The Montreal West Library named a reading room in his honour.^7
+McLean donated his archives — 100 boxes spanning 16 metres — to McMaster University in May 2016. The Stuart McLean fonds (1960s–2016, 87+ boxes, no access restrictions) is publicly accessible at Mills Library.^13 **Resolved 2026-07-09**: the full 983-line finding aid (retrieved directly, superseding the previously partial/summarized access at archives.mcmaster.ca, now access-blocked) confirms box locations and surfaces several previously undocumented camp-related items:
+
+- **Box 37, F.13, "[Summer Camp]"** (Series 2, manuscripts for *Home from the Vinyl Cafe*, 1998) — typescript drafts of "Camp" and "Letter Home," with an editor's note from Meg Masters dated May 8, 1998.
+- **Box 60, F.16, "Kamp Kanawana – 10.26"** (Series 4, Vinyl Cafe studio/tour shows, Season 10, 2004-2005) — likely corresponds to the 2005 return-visit recording (see below), now with a specific box location and show number.
+- **Box 53, F.25, "Vinyl Cafe Show 2.10 Camp – Not Published"** (Series 4, Season 2, 1995-96) — a distinct, earlier unpublished camp-themed show file, roughly ten years before the "Kamp Kanawana" file above; two separate camp-themed show files exist.
+- **NEW — Box 90, F.6**: address lists including Camp Kanawana and Sir George Williams University, 1971-1975.
+- **NEW — Box 92, F.3**: "Dried flowers from Camp Kanawana," 1970s (a physical/realia item).
+- **NEW — Box 92, F.4**: "Kamp Kanawana decals (2)."
+- **NEW — Box 92, F.10**: a YMCA temporary membership card, 1969 — the exact year McLean began at Kanawana.
+- **NEW — Box 1, F.8**: correspondence file "YMCA, 1976," one year after his last documented camp summer.
+- **NEW — Series 6, F.16**: "YMCA NAYDO Conference on Philanthropy, Montreal, April 9-12, 2008. Keynote Speaker name tag and cards" — documents McLean as a keynote speaker at a YMCA philanthropy conference in Montreal roughly a year before his 2009 Pip Award (archival-only, single-source; no independent corroboration found).
+- **NEW, unconfirmed lead — Box 76, F.5**: an undated file, "YMCA Speech, n.d.," in the "Tour Shows with No Dates" box — a strong candidate to be, or contain, the source for the John Island Alumni Newsletter speech quote (Open Question #3), not yet confirmed.
+- **NEW, probable but unconfirmed — Box 90, F.4**: "Canoeing Instructor School, 1974," filed adjacent to the Camp Kanawana address-list file, plausibly connected to his camp canoeing-instructor role.
+- The fonds' Series 9 (Photographs, Box 97) was read in full and confirmed to contain **no camp/Kanawana-tagged photographs** — a genuine null result on that specific lead.
+
+The Montreal West Library named a reading room in his honour.^7
 
 A podcast, *Backstage at the Vinyl Cafe*, produced by Jess Milton, launched in January 2023, drawing on the archival recordings.^7
 
@@ -63,8 +78,8 @@ McLean recorded "A Letter from Camp" for the *Vinyl Cafe* album *Up & Away* (201
 
 1. ~~[Important] Who was the camp director McLean worked under as assistant director in 1974–1975?~~ [Resolved] **Derek Walsh.** The McMaster fonds confirms McLean was assistant director "under director Derek Walsh"; McLean sublet his Westmount/Dorchester apartment to Walsh when he moved to Toronto, identifying Walsh as the anonymous Westmount Magazine commenter.^10 ^13
 2. [Partially resolved] Did specific *Vinyl Cafe* stories reference camp or Kanawana? "A Letter from Camp" on the *Up & Away* 4-CD collection (Disc Three, 2016) includes a personal story from McLean's camp days.^14 No camp-themed Dave and Morley story has been identified, though McLean's camp values pervade the show's themes.
-3. [Nice-to-have] What is the date and venue of McLean's speech to YMCA camp directors? The John Island Alumni Newsletter (Spring 2012) excerpted it but did not date the original speech.^3
-4. ~~[Nice-to-have] Does the McMaster fonds contain camp-related materials?~~ [Resolved] Yes — files F.13 [Summer Camp], F.16 "Kamp Kanawana," and F.25 "Vinyl Cafe Show 2.10 Camp — Not Published."^13
+3. [Nice-to-have, advanced 2026-07-09] What is the date and venue of McLean's speech to YMCA camp directors? The John Island Alumni Newsletter (Spring 2012) excerpted it but did not date the original speech. A candidate source file, Box 76/F.5 "YMCA Speech, n.d." in the McMaster fonds, was found but not confirmed as a match — would require an in-person/archival-request follow-up.
+4. ~~[Nice-to-have] Does the McMaster fonds contain camp-related materials?~~ [Resolved, expanded 2026-07-09] Yes — well beyond the three files previously known. The full finding aid (983 lines, retrieved directly) surfaces address lists (1971-1975), dried flowers and decals (1970s), a 1969 YMCA membership card, 1976 correspondence, a 2008 NAYDO conference keynote-speaker file, and a probable canoeing-instructor-course connection (1974) — see "Death and Legacy" above. The photo series (Box 97) was confirmed to contain no camp photos.
 5. [Nice-to-have] What is the cumulative total raised by the Stuart McLean Fund since 2017?
 
 ## Related Articles

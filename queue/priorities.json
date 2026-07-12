@@ -659,11 +659,13 @@
       "type": "RESEARCH",
       "description": "Oral history needed for Grand Portage and Longhouse building identification, named cabin inventory, individual building histories",
       "article_id": "places-and-locations",
-      "blocking": true,
+      "blocking": false,
       "blocking_reason": "Grand Portage and Longhouse are known only from oral tradition. No written documentation found. Requires alumni input.",
       "assigned_weight": "P1",
       "created_at": "2026-02-27T13:00:00Z",
-      "status": "blocked"
+      "status": "completed",
+      "completed_at": "2026-07-09T00:00:00Z",
+      "result": "Stale bookkeeping fix + substantial new research 2026-07-09. Grand Portage and Longhouse were actually already identified via oral history in an earlier session (2026-06-13) -- this priority just never got marked completed. The 'named cabin inventory' and 'individual building histories' parts are now substantially resolved without needing oral history at all: direct examination of the 1928, 1941, 1962, 1980-2001, and current 2025 camp maps (the last two newly acquired/examined this session) produced a near-complete cabin/building inventory across every era, resolved the 'Indian Grave' location, located the 'Haunted House' building (present on both the 1928 and 1962 maps), and narrowed the golf course's decommissioning window. Concordia Archives P145/12B03's finding aid, read directly, added further building/blueprint records (Millen Memorial Craft Shop 1960, sleeping-cabin and craft-shop blueprints, etc.). See wiki/places/places-and-locations.md for the full integration. Remaining oral-history value: the *stories* behind named places (what happened at the Haunted House, deeper Grand Portage/Longhouse lore) rather than their bare identification/location, which is now documented."
     },
     {
       "priority_id": "p_052",
@@ -729,7 +731,9 @@
       "blocking_reason": "archive.org proxy-blocked. User must download.",
       "assigned_weight": "P2",
       "created_at": "2026-03-02T00:00:00Z",
-      "status": "blocked"
+      "status": "completed",
+      "result": "Direct-fetch cleanup pass 2026-07-08 (post network-access fix): Sandham's 1873 'History of the Montreal YMCA' read in full. Covers only 1851-1860 -- genuine negative result, no camping/Kanawana content (organized camping didn't exist yet). See f_1776.",
+      "completed_at": "2026-07-08T00:00:00Z"
     },
     {
       "priority_id": "p_057",
@@ -832,7 +836,9 @@
       "blocking_reason": "archive.org proxy-blocked. User must download.",
       "assigned_weight": "P3",
       "created_at": "2026-03-02T00:00:00Z",
-      "status": "blocked"
+      "status": "completed",
+      "result": "Direct-fetch cleanup pass 2026-07-08 (post network-access fix). All five remaining items read in full: 1889-90 Annual Report (negative result, pre-founding, see f_1776), the 1966-67 Annual Report (previously 403-blocked per p_159 -- yielded 5 new facts f_1771-f_1775: A. Ross Seaman's 'Director of Camping' title, 1966 season stats, staff training, CIT program, 'participatory democracy' philosophy quote -- folded into wiki/people/a-ross-seaman.md), the September 1932 SGW College Bulletin (genuine null, no Kanawana content), and the 1965 and 1980 YMCA news releases (both genuine nulls, unrelated administrative announcements). 1856/1876 reports and the 1993 report were already covered by p_185/p_186/p_163. Nothing further to extract from this batch.",
+      "completed_at": "2026-07-08T00:00:00Z"
     },
     {
       "priority_id": "p_065",
@@ -1909,7 +1915,9 @@
       "blocking_reason": "VSS.ca 403'd; FamilySearch and BAnQ require browser access",
       "assigned_weight": "P2",
       "created_at": "2026-06-20T00:00:00Z",
-      "status": "blocked"
+      "status": "completed",
+      "completed_at": "2026-07-08T00:00:00Z",
+      "result": "Stale bookkeeping fix 2026-07-08: this was already fully resolved in an earlier session -- wiki/people/page-family.md is a four-generation, E1-reviewed article (20 KB facts, 10 sources) covering the Pagé family's Saint-Sauveur settlement, the YMCA's c.1910 and 1960 land purchases, and the Lac Desjardins/Olivine Desjardins naming theory. Marking completed so it stops resurfacing as blocked."
     },
     {
       "priority_id": "p_149",
@@ -1921,7 +1929,9 @@
       "blocking_reason": "QAHN website returns 403 to automated fetches",
       "assigned_weight": "P3",
       "created_at": "2026-06-20T00:00:00Z",
-      "status": "blocked"
+      "status": "completed",
+      "completed_at": "2026-07-08T00:00:00Z",
+      "result": "Stale bookkeeping fix 2026-07-08: sources.json shows src_qahn_shawbridge already extracted:true (a separate QAHN Shawbridge/Laurentians camping-articles source from the one this priority's description referenced). Already covered; marking completed."
     },
     {
       "priority_id": "p_150",
@@ -2047,7 +2057,7 @@
       "assigned_weight": "P2",
       "created_at": "2026-06-20T16:00:00Z",
       "status": "completed",
-      "result": "R1 RALPH loop completed. CRITICAL FIND: 1966-67 annual report IS on Internet Archive (sgw-ymca-annual-report-1966-67) but returns 403 to automated fetch. Only 6 digitized YMCA Montreal annual reports exist (1856, 1876, 1889-1890, 1891-1892, 1966-67, 1993). 1940s-1950s reports remain at Concordia only. Ross Bannerman identified as 1969 Kanawana report author and later YMCA Montreal CEO. Ben T. Hannah 'Kanawana Reminiscence (of 1948)' at Concordia. 5 new facts (f_1335-f_1339), 2 new sources.",
+      "result": "R1 RALPH loop completed. CRITICAL FIND: 1966-67 annual report IS on Internet Archive (sgw-ymca-annual-report-1966-67) but returns 403 to automated fetch. Only 6 digitized YMCA Montreal annual reports exist (1856, 1876, 1889-1890, 1891-1892, 1966-67, 1993). 1940s-1950s reports remain at Concordia only. Ross Bannerman identified as 1969 Kanawana report author and later YMCA Montreal CEO. Ben T. Hannah 'Kanawana Reminiscence (of 1948)' at Concordia. 5 new facts (f_1335-f_1339), 2 new sources. [Update 2026-07-08 / p_064]: the 403 was a since-fixed network-policy block, not a permanent one -- the report was read directly on 2026-07-08 and yielded 5 new facts (f_1771-f_1775), folded into wiki/people/a-ross-seaman.md.",
       "completed_at": "2026-06-21T14:30:00Z"
     },
     {
@@ -2136,11 +2146,13 @@
       "type": "RESEARCH",
       "description": "Fetch Gabor Ivan Zinner's McGill MA thesis 'Noosphere - an experiment in simulation' (1973) from eScholarship. Primary document for the Noosphere event at Camp Kanawana 1971. URL: https://escholarship.mcgill.ca/concern/theses/6w924d11w",
       "article_id": "programs-activities",
-      "blocking": true,
+      "blocking": false,
       "blocking_reason": "Zinner 1971 Noosphere MA thesis still unfetched — McGill eScholarship needs auth; browser round did not retrieve full text.",
       "assigned_weight": "P1",
       "created_at": "2026-06-22T00:00:00Z",
-      "status": "blocked"
+      "status": "completed",
+      "completed_at": "2026-07-08T00:00:00Z",
+      "result": "Thesis read in full 2026-07-08: McGill's eScholarship platform migrated to mcgill.scholaris.ca (old escholarship.mcgill.ca URL now redirects there), making the PDF directly downloadable. It's a 176-page OCR'd scan; poppler-utils was installed to render/extract it. 5 new facts (f_1780-f_1784): actual participant count (46, not ~100) and ages (15-20, not 16-19), organizers (Pierre Devrud as co-author/game master, Prof. Harold M. Waller as thesis adviser), the three villages' names/composition/facilities, and the August 27 in-game coup. A full-text search across all 176 pages found zero mentions of 'Kanawana,' 'YMCA,' 'Saint-Sauveur,' or 'Shawbridge' -- the thesis describes the venue only as a rented Laurentian summer camp, never naming it; the Kanawana identification rests entirely on the newspaper coverage, not the thesis. Folded into wiki/programs/programs-activities.md; also fixed a dangling source_id reference in that article's header (src_zinner_thesis_1973, which never existed as an actual source record) to the correct src_mcgill_escholarship_zinner."
     },
     {
       "priority_id": "p_167",
@@ -2148,11 +2160,13 @@
       "type": "RESEARCH",
       "description": "Contact Gabor Ivan Zinner (Calgary lawyer, Zinner Law Office, 100-1100 8 Ave SW) as potential oral history source for the 1971 Noosphere simulation. He wrote the definitive thesis and may recall organizers, participants, curriculum details, and the Camp Kanawana venue.",
       "article_id": "programs-activities",
-      "blocking": true,
+      "blocking": false,
       "blocking_reason": "Requires operator to initiate contact with a living person.",
       "assigned_weight": "P2",
       "created_at": "2026-06-22T00:00:00Z",
-      "status": "blocked"
+      "status": "completed",
+      "completed_at": "2026-07-08T00:00:00Z",
+      "result": "Superseded by reading the thesis itself (p_166) rather than contacting Zinner -- his own account already answers the organizer/participant/venue-description questions this priority was chasing. Contacting him directly (a living private individual, now a Calgary lawyer per f_1371) remains a viable oral-history lead for the still-unanswered question of which specific camp hosted the event, but is not pursued without operator direction per the living-person contact convention."
     },
     {
       "priority_id": "p_168",
@@ -2339,11 +2353,13 @@
       "priority_id": "p_183",
       "description": "Research Kate Taylor and Marie-Pierre Lacasse tenures — exact start/end dates, any additional programming innovations",
       "topic": "Modern director tenures",
-      "status": "blocked",
+      "status": "completed",
       "blocking_reason": "YMCA Quebec website 403 blocked. LinkedIn requires auth. Basic facts already captured.",
       "created_at": "2026-06-22T11:30:32Z",
       "priority": 3,
-      "task_type": "RESEARCH"
+      "task_type": "RESEARCH",
+      "completed_at": "2026-07-08T00:00:00Z",
+      "result": "Stale bookkeeping fix 2026-07-08: this was already resolved in Campaign 24 (2026-07-07) once ymcaquebec.org became reachable -- the YMCA Quebec team page was read directly and gave Kate Taylor's and Marie-Pierre Lacasse's tenure detail (including Lacasse's previously-undocumented 2007-2010 expeditions-director stint), plus Quinn Durand and Amy Thomson. See wiki/people/directors-index.md rows and changelog. Marking completed."
     },
     {
       "priority_id": "p_184",
@@ -2410,7 +2426,9 @@
       "blocking_reason": "Limited online sources available. Concordia Archives 12A/12B may contain seasonal programming records. Some facts already extracted from cached sources.",
       "assigned_weight": "P3",
       "created_at": "2026-06-24T00:00:00Z",
-      "status": "blocked"
+      "status": "completed",
+      "completed_at": "2026-07-08T00:00:00Z",
+      "result": "Stale bookkeeping fix 2026-07-08: wiki/winter-programming.md has already advanced past stub to R3-verified (13 KB facts, 5 sources) in an earlier session -- the blocking_reason describing 'limited online sources' predates that work. Marking completed; further depth would require the same physical Concordia archive access already tracked under p_193."
     },
     {
       "priority_id": "p_190",
@@ -2461,6 +2479,290 @@
       "created_at": "2026-07-07T00:00:00Z",
       "status": "blocked",
       "blocking_reason": "Requires operator physical presence (archive visit) or direct manual action (personal Facebook browsing) -- not resolvable by agent research."
+    },
+    {
+      "priority_id": "p_194",
+      "rank": 194,
+      "type": "HUMAN_REVIEW",
+      "description": "CampRatingz.com (2007-2014 reviews of Camp Kanawana) contains one anonymous 2012 review, self-described as from a 'former 9-year staff member,' alleging expired medications and mishandled medical emergencies, and a 2010 review alleging an unaddressed injury. These are unverified, anonymous, user-generated safety allegations. Per operator-review norms for sensitive/unverified content, NOT integrated into kb/facts.json as substantive claims (only the platform's existence/aggregate rating is recorded as f_1823). Needs an explicit operator decision on whether/how to reference this in the wiki (e.g. camp-history context section) versus leaving it out entirely, and whether any corroboration attempt is warranted.",
+      "article_id": null,
+      "blocking": false,
+      "assigned_weight": "P1",
+      "created_at": "2026-07-09T06:00:00Z",
+      "status": "pending",
+      "notes": "Flagged by the broad social-media sweep (Campaign 32). Do not silently add to any article without operator sign-off."
+    },
+    {
+      "priority_id": "p_195",
+      "rank": 195,
+      "type": "OPERATOR_ACTION",
+      "description": "The official Kanawana Flickr account (flickr.com/photos/kanawana/) has approximately 26 uncatalogued albums (thousands of photos, roughly 2009-2013 era) beyond the single 'Plaque' album already mined extensively for director/staff facts. This is the single largest untapped source surfaced by the Phase 2 broad-sweep campaign. Given the volume, needs an operator decision on scope before diving in: mine all albums systematically, sample a subset, or prioritize by album title/date first.",
+      "article_id": null,
+      "blocking": false,
+      "assigned_weight": "P1",
+      "created_at": "2026-07-09T06:00:00Z",
+      "status": "pending"
+    },
+    {
+      "priority_id": "p_196",
+      "rank": 196,
+      "type": "RESEARCH",
+      "description": "Track down Lorraine Dagenais and Carmelle Huppé's book \"Saint-Sauveur: Son histoire, notre patrimoine\" (published by the Société d'histoire et de généalogie des Pays-d'en-Haut), cited by the VSS pioneer-families web page as the source for the Olivier Charron pre-camp landowner detail (f_1815). May contain additional pre-camp land history relevant to Phase 2 item 8 (Indigenous Place Names and Land History). Likely requires physical/library acquisition, not web access.",
+      "article_id": "places-and-locations",
+      "blocking": false,
+      "assigned_weight": "P3",
+      "created_at": "2026-07-09T06:00:00Z",
+      "status": "pending"
+    },
+    {
+      "priority_id": "p_197",
+      "rank": 197,
+      "type": "RESEARCH",
+      "description": "Retry fetching the Park Slope Parents Camp Kanawana review page (https://www.parkslopeparents.com/reviews/camp-ymca-kanawana) -- two direct-fetch attempts timed out during the Campaign 32 broad sweep. A search snippet suggests reviews exist describing the camp as bilingual and 'running for more than a century.'",
+      "article_id": null,
+      "blocking": false,
+      "assigned_weight": "P3",
+      "created_at": "2026-07-09T06:00:00Z",
+      "status": "completed",
+      "completed_at": "2026-07-10T07:00:00Z",
+      "result": "Retrieved successfully with a browser user-agent (curl -A). Contains one review (Nov 12 2023) confirming bilingual programming, tech-free policy, and \"running for more than a century\" -- corroborates existing facts, no new substantive claims. See f_1983."
+    },
+    {
+      "priority_id": "p_198",
+      "rank": 198,
+      "type": "VERIFY",
+      "description": "Independently corroborate the \"Director, Outdoor Education Centre Kanawana\" job title (f_1821) beyond the single Glassdoor search-snippet found in Campaign 32 (direct fetch returned 403). Try Indeed/LinkedIn/Isarta mirrors or a repeat Glassdoor fetch. [Resolved 2026-07-11] Confirmed via 3 live Dayforce postings on YMCA Quebec's own recruiting platform (f_1984) -- a first-party source, not just a Glassdoor snippet. Full posting text still not extractable (JS-rendered portal).",
+      "article_id": "directors-index",
+      "blocking": false,
+      "assigned_weight": "P3",
+      "created_at": "2026-07-09T06:00:00Z",
+      "status": "completed"
+    },
+    {
+      "priority_id": "p_199",
+      "rank": 199,
+      "type": "RESEARCH",
+      "description": "Access and extract the Library and Archives Canada 'Montreal Young Women's Christian Association fonds' series 'Camp Oolahwan committee minutes, reports and training programmes, 1916-1974' -- a newly-found, not-yet-accessed primary source that could resolve Camp Oolahwan's capacity, age range, and post-Halliday directors (camp-oolahwan.md open questions).",
+      "article_id": "camp-oolahwan",
+      "blocking": false,
+      "assigned_weight": "P2",
+      "created_at": "2026-07-09T11:00:00Z",
+      "status": "pending"
+    },
+    {
+      "priority_id": "p_200",
+      "rank": 200,
+      "type": "HUMAN_REVIEW",
+      "description": "Conflict c_018: the McCord Stewart Museum's Junior League of Montreal fonds description claims 'today, Camp Amy Molson carries on its mission' (implying institutional succession from the Junior League's 1921 camp), but Camp Amy Molson's own official history states it was founded independently in 1944 by the Montreal Ladies' Benevolent and Protestant Orphans' Society. Two documented institutional sources disagreeing -- needs editorial judgment, not resolvable by the 'oral history yields to documents' policy since neither side is oral history.",
+      "article_id": "camp-oolahwan",
+      "blocking": false,
+      "assigned_weight": "P2",
+      "created_at": "2026-07-09T11:00:00Z",
+      "status": "completed",
+      "completed_at": "2026-07-10T08:00:00Z",
+      "result": "Resolved editorially 2026-07-10: Camp Amy Molson and the Junior League Camp are treated as distinct organizations, not institutional succession. See conflict c_018 and wiki/context/camp-oolahwan.md."
+    },
+    {
+      "priority_id": "p_201",
+      "rank": 201,
+      "type": "RESEARCH",
+      "description": "Attempt local (non-WebFetch) PDF text extraction of the McMorris thesis PDF (https://spectrum.library.concordia.ca/992763/1/McMorris_MA_F2023.pdf) to search for the exact date of the 'Lumberman-Voyageur Week' to 'L&V Games' name change -- a FlateDecode-compressed stream defeated WebFetch-based extraction this session, but a local pdftotext-style tool (already used successfully elsewhere this project) would likely succeed.",
+      "article_id": "lv-games",
+      "blocking": false,
+      "assigned_weight": "P3",
+      "created_at": "2026-07-09T11:00:00Z",
+      "status": "completed",
+      "completed_at": "2026-07-10T05:00:00Z",
+      "result": "Local pdftotext extraction of the full McMorris thesis PDF succeeded (curl download + pdftotext, bypassing the FlateDecode issue that defeated WebFetch). The phrase \"L&V Games\" appears nowhere in the thesis -- confirms the rename postdates her sources and remains undocumented online. See wiki/programs/lv-games.md Open Questions."
+    },
+    {
+      "priority_id": "p_202",
+      "rank": 202,
+      "type": "RESEARCH",
+      "description": "Manually browse the Kanawana Flickr account (~4,416 photos) and/or Facebook photo archive to find and date the earliest surviving L&V Games photograph -- not resolvable via text search/WebFetch, requires visual browsing.",
+      "article_id": "lv-games",
+      "blocking": false,
+      "assigned_weight": "P3",
+      "created_at": "2026-07-09T11:00:00Z",
+      "status": "pending"
+    },
+    {
+      "priority_id": "p_203",
+      "rank": 203,
+      "type": "RESEARCH",
+      "description": "Retry local (non-WebFetch) pdftotext extraction of the McMorris thesis PDF specifically targeting the 1967 Centenary Journey / Voyageur Canoe Pageant participant names (six named campers). One Batch 5 research agent reported WebFetch and a jina.ai reader proxy both failed (401) on this same PDF, inconsistent with other agents this session who successfully extracted its full text via local pdftotext -- distinct from p_201, which targets L&V Games content in the same thesis.",
+      "article_id": "centennial-1967",
+      "blocking": false,
+      "assigned_weight": "P2",
+      "created_at": "2026-07-09T18:00:00Z",
+      "status": "completed",
+      "completed_at": "2026-07-10T05:00:00Z",
+      "result": "Local pdftotext extraction of the full McMorris thesis PDF succeeded. The six 1967 Centenary Journey campers are not named anywhere in the thesis text -- only an uncaptioned-by-name photo (Figure 3.5) sourced to The Ottawa Journal, August 10 1967 (already cited in centennial-1967.md as source #15). Newspapers.com blocked by Cloudflare; genuinely exhausted for automated research now."
+    },
+    {
+      "priority_id": "p_204",
+      "rank": 204,
+      "type": "VERIFY",
+      "description": "Conflict c_019: physically examine the Concordia P0145 'W.E. Cushing' 1943 manuscript (or its finding-aid metadata) to resolve whether its author is genuinely Walter Edgar Cushing (who died January 13, 1935, eight years before the manuscript's stated date) or a different, unidentified Cushing. Not resolvable via further web search -- the FamilySearch Cushing genealogy supplement and the McMorris thesis were both read in full (2026-07-09) and contain zero corroborating detail either way. UPDATE 2026-07-10: conflict c_019 has since been resolved editorially (Cushing's identification retained, \"1943\" read as an archival filing date) -- this physical examination would CONFIRM or OVERTURN that editorial call, not settle an open question from scratch.",
+      "article_id": "cushing-family",
+      "blocking": false,
+      "assigned_weight": "P2",
+      "created_at": "2026-07-09T18:00:00Z",
+      "status": "pending"
+    },
+    {
+      "priority_id": "p_205",
+      "rank": 205,
+      "type": "HUMAN_REVIEW",
+      "description": "Conflict c_020: editorial judgment needed on the Ontario Camping Association's founding date. Three documented sources disagree (1933 per the OCA's own website; 1930 organizing / 1938 first presidency per a 1984 Mary Northway interview cited in the Burry 1985 thesis; 1933 per a Plewman tribute essay, doubted by Burry himself with an appended '(sic)'). None of the three is oral history, so CLAUDE.md's oral-history-yields-to-documents policy does not apply -- this is a genuine documented-vs-documented disagreement requiring human/editorial judgment, not further research.",
+      "article_id": "taylor-statten",
+      "blocking": false,
+      "assigned_weight": "P3",
+      "created_at": "2026-07-09T18:00:00Z",
+      "status": "completed",
+      "completed_at": "2026-07-10T08:00:00Z",
+      "result": "Resolved editorially 2026-07-10: the three dates reconciled as three distinct milestones (organized 1930, chartered/branded 1933, Statten's first full presidency 1938), not a single disputed founding date. See conflict c_020 and wiki/people/taylor-statten.md."
+    },
+    {
+      "priority_id": "p_206",
+      "rank": 206,
+      "type": "RESEARCH",
+      "description": "Physically inspect Concordia Box HA1874's itemized camp brochures (1950, 1959, [1960s], 1964, 1965, [1968?], [197-], 1978, 1982, 1983, 1997) -- the most promising remaining lead for narrowing the 'Non Nobis Solum' Latin-motto adoption date, which even the McMorris thesis's full archival access could not pin down.",
+      "article_id": "traditions-and-culture",
+      "blocking": false,
+      "assigned_weight": "P2",
+      "created_at": "2026-07-09T22:00:00Z",
+      "status": "pending"
+    },
+    {
+      "priority_id": "p_207",
+      "rank": 207,
+      "type": "RESEARCH",
+      "description": "Retrieve the contents of 'Lumbermen & Voyageurs: The YMCA Pine Crest Story' (Camp Pine Crest centennial book) via interlibrary loan or a retried/slower fetch of the camp's shop page (repeatedly rate-limited, HTTP 429) -- Pine Crest's own 'Lumbermen vs Voyageurs' games (since 1940) are a striking naming parallel to Kanawana's L&V Games and may hold cheer text or an origin story worth comparing. [Re-attempted 2026-07-11] Shop page still HTTP 429 rate-limited (same as before); Wayback Machine is unfetchable by this tool entirely; checked an alternate 2008 Pine Crest Games booklet (Yumpu) as a substitute -- contains no relevant content. Remains blocked for automated tools; interlibrary loan or a manual browser visit is the only remaining path.",
+      "article_id": "camp-songs-cheers",
+      "blocking": false,
+      "assigned_weight": "P3",
+      "created_at": "2026-07-09T22:00:00Z",
+      "status": "pending"
+    },
+    {
+      "priority_id": "p_208",
+      "rank": 208,
+      "type": "RESEARCH",
+      "description": "Contact SHGPH directly (info@shgph.org, 450-744-0182) to request 'Hommage à Télesphore Pagé,' La Mémoire de la Vallée de Saint-Sauveur, bulletin no. 81, hiver 1999 -- now identified by exact title/issue, a much more targeted request than a general inquiry, and likely to confirm whether Télesphore Pagé (d. 1961) was the seller of the 1960 'Pagé farm.'",
+      "article_id": "page-family",
+      "blocking": true,
+      "blocking_reason": "Requires an operator-initiated direct contact with SHGPH; not resolvable via automated web search.",
+      "assigned_weight": "P2",
+      "created_at": "2026-07-09T22:00:00Z",
+      "status": "pending"
+    },
+    {
+      "priority_id": "p_209",
+      "rank": 209,
+      "type": "RESEARCH",
+      "description": "Physically consult Concordia's 'Permanent Camp Committee' minute/correspondence files (1895-96, 1899-1901, 1908, 1911-1926, 1921) -- a newly identified, plausible venue for documenting Ralph Dawson's formal role at the camp, not checked in any prior research campaign.",
+      "article_id": "ralph-dawson",
+      "blocking": true,
+      "blocking_reason": "Requires physical Concordia Archives access; the finding aid gives only file-date ranges, no content.",
+      "assigned_weight": "P2",
+      "created_at": "2026-07-09T22:00:00Z",
+      "status": "pending"
+    },
+    {
+      "priority_id": "p_210",
+      "rank": 210,
+      "type": "RESEARCH",
+      "description": "Retrieve the Montreal Gazette clipping 'Summer Camps – Kanawana' (April 18, 1974) via the operator's own Newspapers.com public-access account -- paywalled to automated fetch (HTTP 403) but a concrete, dated lead for when section names were reassigned along gender lines during the camp's 1968-early 1980s coeducational transition.",
+      "article_id": "section-names",
+      "blocking": true,
+      "blocking_reason": "Requires the operator's Newspapers.com login; blocked to automated tools.",
+      "assigned_weight": "P2",
+      "created_at": "2026-07-09T22:00:00Z",
+      "status": "pending"
+    },
+    {
+      "priority_id": "p_211",
+      "rank": 211,
+      "type": "RESEARCH",
+      "description": "Physically consult Concordia sub-series 12L, Box HA2312, 'Director's report (1908)' -- a single, specific dated record from the middle of the undocumented 1901-1923 gap between Camp Jubilee directors John Roy and Philip Paterson, very likely naming whoever was director that year.",
+      "article_id": "founding-1894",
+      "blocking": true,
+      "blocking_reason": "Requires physical Concordia Archives access; not digitized.",
+      "assigned_weight": "P2",
+      "created_at": "2026-07-09T22:00:00Z",
+      "status": "pending"
+    },
+    {
+      "priority_id": "p_212",
+      "rank": 212,
+      "type": "RESEARCH",
+      "description": "Pursue Quebec vital-records/genealogy sources (Drouin collection, Ancestry Quebec) to determine whether Rob Braide (broadcaster, b. 1953, chaired the Kanawana Capital Campaign) is related to the separate Braide family of David Ian William Braide (1928-2018) -> Robbie David Braide -> Ian/Vicki Braide (2000s campers/CITs) -- both families have independent Montreal-area YMCA ties but no source found links them directly.",
+      "article_id": "rob-braide",
+      "blocking": false,
+      "assigned_weight": "P3",
+      "created_at": "2026-07-09T22:00:00Z",
+      "status": "pending"
+    },
+    {
+      "priority_id": "p_213",
+      "rank": 213,
+      "type": "RESEARCH",
+      "description": "Physically consult Concordia P0145/12F Box HA1894 to determine why/when the actual 1979-1982 Kanawana-Weredale operational relationship (a signed lease plus joint YMCA/Weredale Foundation files) ended, and what it looked like in practice -- the file titles alone (lease, day-camp proposal, 'Comité Weredale') don't say. This supersedes the old framing of a plan that was merely 'proposed then abandoned.'",
+      "article_id": "camp-weredale",
+      "blocking": true,
+      "blocking_reason": "Requires physical Concordia Archives access; only file titles are public online.",
+      "assigned_weight": "P2",
+      "created_at": "2026-07-10T04:00:00Z",
+      "status": "pending"
+    },
+    {
+      "priority_id": "p_214",
+      "rank": 214,
+      "type": "RESEARCH",
+      "description": "Verify whether a ship named 'Kanawana' actually existed in Furness Withy / Furness Bermuda Line vessel registries, per a 1951 primary source's claim that R.L. Charlton proposed the camp's name by analogy to a Furness Steamer. Search shipping-line historical registries and Lloyd's Register archives specifically, not general web search. [Resolved 2026-07-11] Five-surface search (2 fleet lists, general history, Lloyd's Register digitized collection) found zero matches -- genuine null result (f_1985), not proof of absence but exhausted for online search.",
+      "article_id": "myths-and-legends",
+      "blocking": false,
+      "assigned_weight": "P3",
+      "created_at": "2026-07-10T04:00:00Z",
+      "status": "completed"
+    },
+    {
+      "priority_id": "p_215",
+      "rank": 215,
+      "type": "RESEARCH",
+      "description": "Physically consult Concordia P0145/12A for the Camp Perrot 1958 Camp Committee closure decision and reconcile it against the 1959 Cochrane memo and 1969 Family Centre planning document, which give internally inconsistent closure chronologies (resident camp still operating in 1958-59 per Cochrane; a ~6-year dormancy and 1958 Day Camp reopening per the 1969 document). Resolve which account -- or what combination -- is accurate.",
+      "article_id": "camp-perrot",
+      "blocking": true,
+      "blocking_reason": "Requires physical Concordia Archives access to resolve a genuine documentary contradiction.",
+      "assigned_weight": "P2",
+      "created_at": "2026-07-10T04:00:00Z",
+      "status": "pending"
+    },
+    {
+      "priority_id": "p_216",
+      "rank": 216,
+      "type": "RESEARCH",
+      "description": "Use Concordia's newly-identified master finding-aid PDF (concordia.accesstomemory.org/downloads/ymca-of-montreal-fonds-2.pdf) as the default research tool for all future Concordia fonds mining -- it is directly curl-downloadable (unlike the bot-walled AtoM site) and yields item-level detail no static finding-aid page captures. Re-mine sub-series not yet fully checked against it (12C, 12D, 12H, 12I, 12J, 14D) for any further undocumented Kanawana-specific items, following the same method that surfaced new AV items in 09/11 this session.",
+      "article_id": "sources-index",
+      "blocking": false,
+      "assigned_weight": "P2",
+      "created_at": "2026-07-10T04:00:00Z",
+      "status": "completed",
+      "completed_at": "2026-07-10T06:00:00Z",
+      "result": "Re-mined 12C, 12D, 12H, 12I, 12J, and 14D against the master finding-aid PDF directly. No Kanawana-specific content found in the non-Kanawana camp sub-series (expected, confirms clean separation). Clarified that Concordia consistently calls the national body \"National Council of YMCAs of Canada\" across its full 1892-1999 documented span, not just a 1972 snapshot -- though this still doesn't resolve whether it's the same body as the 1912 \"National Federation\" (no item-level constitutive document was accessible). See ymca-quebec-history.md."
+    },
+    {
+      "priority_id": "p_217",
+      "rank": 217,
+      "type": "RESEARCH",
+      "description": "A human with a JS-executing browser should open the SGW 1973 Yearbook on Issuu (issuu.com/concordiayearbooks/docs/sir_george_williams_university_year) directly and check the Sociology/Arts faculty section for a Harold Potter photograph -- confirmed to exist and be publicly hosted, but not extractable by automated fetch tools.",
+      "article_id": "harold-potter",
+      "blocking": true,
+      "blocking_reason": "Issuu's viewer is JavaScript-rendered and not fetchable by automated tools; needs a human browser session.",
+      "assigned_weight": "P3",
+      "created_at": "2026-07-10T04:00:00Z",
+      "status": "pending"
     }
   ]
 }

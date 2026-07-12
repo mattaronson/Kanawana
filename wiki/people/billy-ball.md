@@ -1,16 +1,13 @@
 # Billy Ball
 
-<!-- status: E1-reviewed -->
-<!-- confidence: low -->
-<!-- last_updated: 2026-02-19 -->
-<!-- last_editor: v52 -->
-<!-- ralph_loops: billy-ball-stub, billy-ball-R1 -->
+*Status: E1-reviewed | Sources: 10*
+*Last Updated: 2026-07-09*
 
 ## Summary
 
 "Billy" Ball of the YMCA of Montreal led the first organized camping trip in the summer of 1894, taking a group of 20 boys to an island on Lake Saint-Joseph in the Township of Howard (now Saint-Adolphe-d'Howard), near Sainte-Agathe, Quebec.^1 ^2 This trip formally established Camp Jubilee, Quebec's first residential summer camp. The camp was named to commemorate the 50th anniversary of the worldwide YMCA movement (founded 1844 in London).^3
 
-Despite his founding role, Ball remains one of the most underdocumented figures in Kanawana history. His full name, YMCA title, and biographical details have not been located through web research, archival catalog searches, or genealogical databases. The only known facts come from secondary references on the YMCA Quebec website and the QAHN.
+Despite his founding role, Ball remained, until 2026-07-09, one of the most underdocumented figures in Kanawana history. A formal RALPH research pass has since strongly corroborated his identity as the YMCA of Montreal's Physical Director, William Henry Ball, via three independent primary sources -- see "The William Henry Ball Question" below -- though the informal "Billy" nickname itself and direct personal credit for leading the 1894 trip remain unconfirmed in period documents.
 
 ## Context: The Montreal YMCA and Early Camping
 
@@ -30,17 +27,22 @@ In 1909, Camp Jubilee was renamed **[[places/camp-otoreke|Camp Otoreke]]** (Iroq
 
 **William Henry Ball** (1866?–1955) graduated from the International YMCA Training School (now Springfield College) in the class of 1891 — the same class as James Naismith (inventor of basketball) and Amos Alonzo Stagg.^7 Ball was a founding editor of the Physical Department's publication *The Triangle* with Stagg and Luther H. Gulick.^7 He worked at YMCAs in Yonkers, Prospect Park (Brooklyn), Springfield, and Detroit before launching the national YMCA swimming instruction program in 1910.^4 ^7 From 1911 to 1924, he served as Secretary to the YMCA International Committee in New York City. He returned to Springfield College to teach (1927–1930) and died December 17, 1955.^7
 
-Whether this is the same person as "Billy" Ball who founded Camp Jubilee in 1894 is unconfirmed but plausible. Ball graduated in 1891 and could have been posted to the Montreal YMCA by 1894. His documented career positions do not list Montreal explicitly, but a posting between 1891 and his other documented positions has not been ruled out. The Springfield College finding aid (MS 527, William H. Ball Alumni Class Representative Papers) may contain biographical details that confirm or deny the Montreal connection.^7
+A direct search of the Montreal YMCA's own digitized Annual Reports (a 165-item Internet Archive collection not previously catalogued in this KB) strongly corroborates, though does not fully prove, this identification. The 1890-91 report (presented May 28, 1891) announces securing "the services of Mr. W. H. Ball as Physical Director. Mr. Ball is a graduate of the Springfield School... commences his work with us first of September next," and separately identifies him as "Mr. W.H. Ball, jr., of Yonkers, N.Y." — meaning he came to Montreal directly from Yonkers, exactly the gap year his Springfield-College-to-national-career timeline had left unaccounted for.^9 He is then confirmed as Physical Director in every annual report checked from 1892-93 through 1900 — a run spanning the entire 1894 Camp Jubilee founding.^9 The 1902 report closes the Montreal chapter: "Mr. W. H. Ball, the Association's first Physical Director, who rendered such helpful service during the past ten years... resigned and accepted a similar position with the Prospect Park Branch of the Brooklyn Association. He was succeeded by Mr. J. E. Merritt" — matching, in both destination (Prospect Park, Brooklyn) and rough chronology, the William Henry Ball whose documented national career resumes at exactly that YMCA branch.^10 A second, independent, non-YMCA-produced source corroborates this: Lovell's Montreal Directory, 1893-94, lists "W. H. Ball, physical director, Dorchester cor Dominion Sq" under the YMCA's own institutional entry, plus a separate residential listing "Ball W. H., physical director Y.M.C.A."^11
+
+This resolves open questions #2 (role: Physical Director, paid YMCA of Montreal staff, not a volunteer or Boys' Work Secretary) and #3 (years: confirmed September 1891 through 1901 or 1902, not merely 1894) with high confidence, and strongly (though not conclusively) resolves #5 in favour of a single identity.
+
+Two caveats prevent full closure. First, no period document found uses the nickname "Billy" — contemporary sources consistently write "W. H. Ball" or "Mr. Ball"; "Billy Ball" appears only in modern (21st-century) secondary sources (the YMCA Quebec website, QAHN). Second, no period document explicitly credits Ball personally with leading the 1894 boys' trip: the 1894-95 Annual Report's Physical Department section (his own department) describing that first Summer Camp is unsigned, a separate Junior Department camp committee that era is credited to volunteer chairman **John W. Ross**, and the 1895-96 Summer Camp writeup is signed by **Wm. Tees, Chairman**.^9 Neither of these two names is currently identified elsewhere in this KB; whether "John W. Ross" is a variant/misreading of the already-documented earliest director "John Roy" (1901, per Concordia Archives sub-series 12L) or a genuinely distinct person is an open disambiguation question in its own right, not yet resolved.
 
 ## Open Questions
 
-1. [Critical] What was Billy Ball's full name? Only referenced as "Billy" Ball.
-2. [Critical] What was his role within the YMCA of Montreal? (Staff? Volunteer? Boys' Work Secretary?)
-3. [Important] What years did he lead the camp? Only 1894 confirmed.
-4. [Important] Birth/death dates and biographical details.
-5. [Important] Is the 1910 YMCA swimming instructor William Henry Ball (Springfield College 1891, died 1955) the same person? The Springfield College finding aid (MS 527) is the most promising path to resolution.
-6. [Nice-to-have] Is there a connection to the Ball family in Montreal business or YMCA circles?
+1. ~~[Critical] What was Billy Ball's full name? Only referenced as "Billy" Ball.~~ [Largely resolved] Strongly corroborated as William Henry Ball, though no period document uses the "Billy" nickname itself.
+2. ~~[Critical] What was his role within the YMCA of Montreal? (Staff? Volunteer? Boys' Work Secretary?)~~ [Resolved] Physical Director, paid staff, September 1891 – 1901/1902, per the Montreal YMCA's own Annual Reports.
+3. ~~[Important] What years did he lead the camp? Only 1894 confirmed.~~ [Largely resolved] His documented Montreal tenure (1891-1901/1902) spans and brackets the 1894 founding, but no document states he personally led that specific 1894 trip (see caveats above) — distinct from confirming his general tenure.
+4. [Important] Birth/death dates beyond the William Henry Ball hypothesis (b. 1866?, d. Dec 17, 1955) — an exact birth date and Montreal-era biographical detail (residence, family) has not been found.
+5. ~~[Important] Is the 1910 YMCA swimming instructor William Henry Ball (Springfield College 1891, died 1955) the same person?~~ [Strongly corroborated, not fully proven] Three independent sources (two Montreal YMCA Annual Reports, one non-YMCA city directory) converge on matching, unusual, specific details. The Springfield College finding aid (MS 527) remains JS-rendered and inaccessible to automated fetch; a direct archive contact (jmonseau@springfield.edu, 413-748-3315) is the remaining path to full proof.
+6. [Nice-to-have] Is there a connection to the Ball family in Montreal business or YMCA circles? Other unrelated Balls found in the 1893-94 Montreal directory (James H. Ball, joiner; W. E. Ball, accountant; Marion Ball, institutional superintendent) show no evidence of a connection.
 7. [Nice-to-have] Concordia Archives sub-series 12L (Camp Jubilee) and the 1895 Summer Camp journal may contain earliest records.
+8. [New, 2026-07-09] Is "John W. Ross," credited as volunteer chairman of a Junior Department camp committee in the mid-1890s, the same person as "John Roy," already documented in this KB as the earliest identified Camp Jubilee director (1901)? Or are these two distinct people?
 
 ## Related Articles
 
@@ -58,7 +60,11 @@ Whether this is the same person as "Billy" Ball who founded Camp Jubilee in 1894
 5. McGill Archives, D.A. Budge Collection, https://archivalcollections.library.mcgill.ca/index.php/budge-d-a
 6. Concordia University Archives, YMCA of Montreal Fonds P145 (sub-series 12L, 12A)
 7. Springfield College Library, MS 527: William H. Ball Alumni Class Representative Papers. URL: https://library.springfield.edu/manuscript-collections/ms527
+9. YMCA of Montreal, Annual Report, 1890-91 (presented May 28, 1891) [src_ia_ymca_annual_1890_91].
+10. YMCA of Montreal, Annual Report, 1902 [src_ia_ymca_annual_1902].
+11. Lovell's Montreal Directory, 1893-94 [src_lovells_montreal_directory_1893_94].
 
 ## Research Notes
 
 <!-- R1 RALPH loop completed 2026-02-14. Exhaustive web research: 20+ searches across YMCA archives, genealogy databases, Dictionary of Canadian Biography, Montreal city directories, BAnQ, Internet Archive. Billy Ball has virtually no biographical footprint. Key contextual discoveries: (1) Camp Jubilee renamed Camp Otoreke 1909, operated until 1982. (2) D.A. Budge bio confirmed (1851-1933, Newmarket ON, Gen Sec 1874-1913). (3) 1893 St. Agathe exploration journal in Concordia Archives predates Ball's 1894 trip. (4) William Ball 1910 swimming instructor may be same person. Research SATURATED for online sources. Physical archives (Concordia 12L, McGill Budge collection, 1895 Summer Camp journal) are the only path to Ball's identity. -->
+<!-- R2 RALPH loop completed 2026-07-09, part of a systematic article-by-article open-questions pass. 23 queries across web/genealogy/archive surfaces, decisive breakthrough came from discovering and full-text-searching a 165-item digitized Montreal YMCA Annual Report collection on Internet Archive (not previously catalogued in this KB) plus Lovell's Montreal Directory 1893-94. Three independent primary sources converge on the William Henry Ball identification: the 1890-91 report (hiring, Yonkers origin), reports 1892-1900 (confirmed tenure), the 1902 report (resignation to Prospect Park, Brooklyn), and the 1893-94 city directory (independent corroboration). Resolved/largely resolved open questions #1, #2, #3, #5. Added caveats: no period document uses "Billy," and no document credits Ball personally with leading the 1894 trip (that department's report is unsigned; a camp committee is instead credited to "John W. Ross," possibly the same person as documented director "John Roy" -- new open question #8, not resolved this pass). Springfield College MS 527 remains inaccessible via automated fetch (JS-rendered), flagged for a direct archive contact as the remaining path to full proof. -->

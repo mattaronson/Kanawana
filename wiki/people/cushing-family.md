@@ -1,14 +1,11 @@
 # The Cushing Family and YMCA Camping
 
-<!-- status: E1-reviewed -->
-<!-- confidence: medium -->
-<!-- last_updated: 2026-06-24 -->
-<!-- last_editor: v52 -->
-<!-- ralph_loops: cushing-family-stub, cushing-family-R1, cushing-genealogy-extraction, p_126-genealogy-full-mine -->
+*Status: E1-reviewed | Sources: 12*
+*Last Updated: 2026-07-10*
 
 ## Summary
 
-The Cushing family had a multi-generational connection to the YMCA of Montreal spanning from the 1860s through at least the 1940s. The patriarch Lemuel Cushing Sr. (1806-1875), a businessman of United Empire Loyalist descent, had thirteen children including eight sons who became prominent in Montreal business and civic life.^1 His son Lemuel Cushing Jr. (1842-1881) served as YMCA president in 1869-1870 and published *The Genealogy of the Cushing Family* (1877).^2 A later Lemuel Cushing — whose exact identity remains uncertain — brought the first group of boys to Lake Saint-Joseph in 1892, inaugurating the Montreal YMCA's camping program two years before the formal establishment of Camp Jubilee.^3 W.E. Cushing wrote historical sketches about the Lake Saint-Joseph camps in 1943, and a Dr. Cushing advised keeping Camp Kanawana open during the 1946 polio outbreak.^4 ^5
+The Cushing family had a multi-generational connection to the YMCA of Montreal spanning from the 1860s through at least the 1940s. The patriarch Lemuel Cushing Sr. (1806-1875), a businessman of United Empire Loyalist descent, had thirteen children including eight sons who became prominent in Montreal business and civic life.^1 His son Lemuel Cushing Jr. (1842-1881) served as president of the main Montreal YMCA in 1867-68 and published *The Genealogy of the Cushing Family* (1877).^2 A later Lemuel Cushing — whose exact identity remains uncertain — brought the first group of boys to Lake Saint-Joseph in 1892, inaugurating the Montreal YMCA's camping program two years before the formal establishment of Camp Jubilee.^3 W.E. Cushing wrote historical sketches about the Lake Saint-Joseph camps in 1943, and a Dr. Cushing advised keeping Camp Kanawana open during the 1946 polio outbreak.^4 ^5
 
 ## The Patriarch: Lemuel Cushing Sr. (1806-1875)
 
@@ -18,7 +15,7 @@ Lemuel Cushing was born April 29, 1806 in Trois-Rivières, Lower Canada, the eig
 
 | Son | Dates | Occupation/Distinction |
 |-----|-------|----------------------|
-| Lemuel Jr. | 1842-1881 | Lawyer, MP for Argenteuil 1874-1875, YMCA president 1869-1870 |
+| Lemuel Jr. | 1842-1881 | Lawyer, MP for Argenteuil 1874-1875, Montreal YMCA president 1867-68 |
 | Thomas | 1843–? | Founded Montreal Brewing Company (1876); its President and Manager as of 1905 |
 | Charles | 1848–? | Notary (McGill B.C.L. 1869), published *Cushing's Notarial Form Book* (1887); Sun Life director (1904); married Lily Macaulay, daughter of Sun Life president Robertson Macaulay |
 | Francis | dates unknown | Founded Cushing's Island Company (Maine, 1883), hired Frederick Law Olmsted |
@@ -29,13 +26,13 @@ Lemuel Cushing was born April 29, 1806 in Trois-Rivières, Lower Canada, the eig
 
 ## Lemuel Cushing Jr. and the YMCA (1842-1881)
 
-Lemuel Jr. was called to the Montreal bar in 1865 and served as president of the Montreal YMCA from 1869 to 1870 — the first documented Cushing-YMCA connection.^2 (The 1901 *Historical Sketch of the YMCA of Montreal* instead dates his presidency to 1867-68; this primary-source discrepancy is recorded as conflict c_012.)^11 He married Ellen Myra Macdougall in 1869 and represented Argenteuil as a Member of Parliament from 1874 to 1875. In 1877 he published *The Genealogy of the Cushing Family*, tracing the lineage from 1638.^2 He died March 1, 1881 at age 39.
+Lemuel Jr. was called to the Montreal bar in 1865 and served as president of the main Montreal YMCA in 1867-68 — the first documented Cushing-YMCA connection.^11 A Wikipedia-sourced claim (citing Morgan's 1875 *Canadian Parliamentary Companion*) instead dates his YMCA presidency to 1869-1870;^2 this was logged as conflict c_012. A direct reading of the 1901 *Historical Sketch*'s own presidents list (2026-07-08) shows T. James Claxton, not Cushing, holding the main-organization presidency in 1869-73, and separately documents "Lemuel Cushing, jr." as president of a distinct, short-lived Point St. Charles branch YMCA — likely the actual source of the 1869-1870 date, if a later secondary source conflated the branch role with the main presidency. Conflict c_012 is now likely resolved in favour of 1867-68 for the main Montreal YMCA presidency. He married Ellen Myra Macdougall in 1869 and represented Argenteuil as a Member of Parliament from 1874 to 1875. In 1877 he published *The Genealogy of the Cushing Family*, tracing the lineage from 1638.^2 He died March 1, 1881 at age 39.
 
 Lemuel Jr. and Ellen had four children, all born in Montreal: Walter Edgar (b. 1870), Harold Beveridge (b. 1873, later a physician at Royal Victoria Hospital), Florence Ethelwyn (b. 1874), and James Stevenson (b. 1878).^6 None were named Lemuel.
 
 ### Harold Beveridge Cushing (1873–?)
 
-Harold Beveridge Cushing, Lemuel Jr.'s second son, became a prominent physician. He joined the McGill University Faculty of Medicine in 1902 and co-founded the Montreal Children's Hospital in 1904.^8 In 1937, he founded the Department of Pediatrics at McGill, and the university's Cushing Memorial Prize is named in his honour.^8 His medical career aligns with the "Dr. Cushing" who advised keeping Camp Kanawana open during the 1946 polio outbreak — as a pediatrician, he was exactly the specialist whose advice would have been sought for a decision affecting children.^4
+Harold Beveridge Cushing, Lemuel Jr.'s second son, became a prominent physician. He joined the McGill University Faculty of Medicine in 1902 and co-founded the Montreal Children's Hospital in 1904.^8 In 1937, he founded the Department of Pediatrics at McGill, and the university's Cushing Memorial Prize is named in his honour.^8 His medical career aligns with the "Dr. Cushing" who advised keeping Camp Kanawana open during the 1946 polio outbreak — as a pediatrician, he was exactly the specialist whose advice would have been sought for a decision affecting children.^4 He married Jessie Alice Barnard on November 8, 1915, in Niagara Falls, NY, and died October 31, 1947 — confirming he was alive and available to advise during the 1946 outbreak.^12
 
 James Stevenson Cushing published an expanded 598-page second edition of the family genealogy in 1905 (Montreal: Perrault Printing Co.).^6
 
@@ -45,7 +42,7 @@ In 1892, a "Lemuel Cushing" brought the first group of boys to an island on Lake
 
 Analysis of the 1905 Cushing genealogy reveals that the only person literally named "Lemuel Cushing" alive in Montreal in 1892 was **Lemuel Cushing (b. 26 November 1875)**, son of James Brock Cushing.^6 James Brock had moved his family from Chatham to Montreal in October 1890.^6 However, this Lemuel was only 16 years old in 1892 — too young to have led a YMCA camping trip, though old enough to participate as a camper.
 
-Lemuel Jr.'s eldest son **Walter Edgar Cushing** (b. 1870) was 22 in 1892 and may have been referred to informally by the family name "Cushing" or even "young Lemuel Cushing." His brother **Harold Beveridge Cushing** (b. 1873) was 19 and completing his B.A. at McGill that same year.^6 Either could plausibly have led the trip.
+Lemuel Jr.'s eldest son **Walter Edgar Cushing** (b. 1870, d. January 13, 1935) was 22 in 1892 and may have been referred to informally by the family name "Cushing" or even "young Lemuel Cushing." His brother **Harold Beveridge Cushing** (b. 1873, d. October 31, 1947) was 19 and completing his B.A. at McGill that same year.^6 ^12 Either could plausibly have led the trip. **A full-text search of both the McMorris thesis and the complete 1905-1969 Cushing genealogy supplement (2026-07-09) found zero mentions of "Cushing" or "1892" in either document** (beyond Walter Edgar's own biographical entry, which does not mention 1892 or camping) — a meaningful negative finding, since these are the two most likely secondary sources to corroborate the QAHN's claim.^12
 
 The 1905 genealogy contains no mention of Lake Saint-Joseph, camping, or YMCA activity beyond Lemuel Jr.'s presidency — the 1892 trip is unrecorded in the family's own published history.^6 The QAHN attribution to "Lemuel Cushing" may reflect a name conflation or the use of a family surname rather than a specific individual's given name. Resolution requires the 1893 camper lists in Concordia Archives sub-series 12L.
 
@@ -59,7 +56,11 @@ Thomas Cushing founded the Montreal Brewing Company in 1876, which produced Indi
 
 ## Later Cushings in YMCA Service
 
-**W.E. Cushing** wrote "Historical sketches—Lake St. Joseph" and "Early Days at Lake St. Joseph" in 1943, both preserved in the Concordia Archives.^5 He also had correspondence regarding the history of East End YMCA work (1906-1933). The 1905 genealogy contains no "William E." Cushing anywhere in the Montreal branch; the only family member matching the initials W.E. is **Walter Edgar Cushing** (b. 1870), Lemuel Jr.'s eldest son, who would have been 73 when the 1943 sketches were written — and whose age (22) made him a plausible leader of the 1892 trip he later chronicled.^6
+**W.E. Cushing** wrote "Historical sketches—Lake St. Joseph" and "Early Days at Lake St. Joseph" in 1943, both preserved in the Concordia Archives.^5 He also had correspondence regarding the history of East End YMCA work (1906-1933). The 1905 genealogy contains no "William E." Cushing anywhere in the Montreal branch; the only family member matching the initials W.E. is **Walter Edgar Cushing** (b. 1870), Lemuel Jr.'s eldest son, whose age (22) made him a plausible leader of the 1892 trip he later chronicled.^6
+
+The full 1905-1969 Cushing genealogy supplement states that Walter Edgar Cushing "was a local public accountant, and an active social worker... At times he was a vice-president and director of the Y.M.C.A., a director of the Boys' Home of Montreal, a member of the Boys' Farm and Training School at Shawbridge and the Daily Bible Schools," and that **he died January 13, 1935** — eight years before the 1943 manuscript date.^12 This independently corroborates a substantial YMCA governance role for Walter Edgar, but it stands in tension with his being the person who authored a document dated 1943 (conflict c_019, see Revision History).
+
+His identification as the manuscript's author is retained here on the judgment that the "1943" date most likely reflects Concordia's own archival filing/cataloguing date rather than the date of composition — a common archival phenomenon for donated or transcribed personal papers — rather than positing an otherwise entirely undocumented second "W.E. Cushing." No trace of any other Cushing with those initials appears anywhere in the extensive genealogy work done for this KB, which weighs against the "different person" explanation on Occam's-razor grounds. Under this reading, Walter Edgar Cushing likely wrote the historical sketches at some point before his 1935 death, with the material only reaching the archive's 1943 accession/filing date afterward. This is an editorial call, not new evidence — the manuscript itself (does it carry an internal composition date distinct from the archive's date?) remains the only way to confirm this directly, and the identification should be treated as probable rather than settled.
 
 **Charles Cushing** is mentioned in YMCA research reports held in Concordia Archives sub-series 13D, suggesting involvement with YMCA governance or legal affairs alongside his notarial career.^5
 
@@ -71,11 +72,12 @@ A different **Walter Edgar Cushing** (Dartmouth College, Class of 1909) served w
 
 ## Open Questions
 
-1. [Critical] The 1892 "Lemuel Cushing" — was this Walter Edgar Cushing (22), Harold Beveridge Cushing (19), or the 16-year-old Lemuel (son of James Brock)? The 1893 camper lists in Concordia Archives 12L should resolve this.
-2. ~~[Critical] Are W.E. Cushing (1943 historian) and Dr. Cushing (1946 medical advisor) the same person?~~ [Substantially resolved] Almost certainly not: W.E. = Walter Edgar (b. 1870), while Dr. Cushing = Harold Beveridge Cushing (b. 1873), who founded McGill's Department of Pediatrics (1937) and co-founded Montreal Children's Hospital (1904).^8 A pediatrics founder is exactly who would advise on a children's camp during a polio outbreak. Final confirmation requires the 1946 season report (Concordia P0145/12A).
-3. [Important] What is the full text of W.E. Cushing's 1943 Lake Saint-Joseph historical sketches?
-4. [Nice-to-have] Did Thomas Cushing's Montreal Brewing wealth fund early YMCA camping operations?
-5. [Nice-to-have] What became of the 16-year-old Lemuel Cushing (b. 1875, chartered accountant by 1905)?
+1. [Critical, confirmed dead end for online sources 2026-07-09] The 1892 "Lemuel Cushing" — was this Walter Edgar Cushing (22), Harold Beveridge Cushing (19), or the 16-year-old Lemuel (son of James Brock)? A full-text search of both the McMorris thesis and the complete Cushing genealogy supplement (1905-1969) found zero mentions of "Cushing" or "1892" in either — a meaningful negative result from the two most likely secondary sources. The 1893 camper lists in Concordia Archives 12L remain the only path to resolution and require physical access.
+2. ~~[Critical] Are W.E. Cushing (1943 historian) and Dr. Cushing (1946 medical advisor) the same person?~~ [Substantially resolved] Almost certainly not: W.E. = Walter Edgar (b. 1870, d. 1935), while Dr. Cushing = Harold Beveridge Cushing (b. 1873, d. 1947), who founded McGill's Department of Pediatrics (1937) and co-founded Montreal Children's Hospital (1904).^8 A pediatrics founder is exactly who would advise on a children's camp during a polio outbreak. Final confirmation requires the 1946 season report (Concordia P0145/12A).
+3. [Resolved editorially 2026-07-10] Is the identification of "W.E. Cushing" (1943 manuscript author) as Walter Edgar Cushing (b. 1870) actually correct? Genealogical evidence shows Walter Edgar died January 13, 1935 — eight years before the manuscript's 1943 date (conflict c_019). Retained as the probable identification on editorial judgment (the "1943" is most likely an archival filing date, not a composition date — see above), not confirmed. Physical examination of the manuscript for an internal composition date would settle this definitively.
+4. [Important] What is the full text of W.E. Cushing's 1943 Lake Saint-Joseph historical sketches?
+5. [Nice-to-have] Did Thomas Cushing's Montreal Brewing wealth fund early YMCA camping operations?
+6. [Nice-to-have] What became of the 16-year-old Lemuel Cushing (b. 1875, chartered accountant by 1905)?
 
 ## Related Articles
 
@@ -96,10 +98,17 @@ A different **Walter Edgar Cushing** (Dartmouth College, Class of 1909) served w
 8. McGill University Faculty of Medicine records; Cushing Memorial Prize documentation.
 9. Dartmouth College alumni records, Class of 1909.
 10. FamilySearch, Cushing genealogy supplement 1905-1969 (item 235744).
-11. YMCA of Montreal Annual Report (41st, 1892) and Historical Sketch of the YMCA of Montreal 1851-1901 (Internet Archive). [Note: the 1901 sketch dates Lemuel Jr.'s presidency to 1867-68; see conflict c_012.]
+11. YMCA of Montreal Annual Report (41st, 1892) and Historical Sketch of the YMCA of Montreal 1851-1901 (Internet Archive), read in full 2026-07-08. Its own presidents list gives 1867-68 for Lemuel Cushing Jr.'s main-organization presidency, 1869-73 for T. James Claxton, and separately names Cushing as president of a distinct Point St. Charles branch YMCA — see conflict c_012 (likely resolved).
+12. Cushing genealogy supplement, 1905-1969, FamilySearch item 235744 — read in full 2026-07-09 [src_familysearch_cushing_supp]. McMorris thesis, full-text search for "Cushing"/"1892" [src_mcmorris_thesis].
 
 ## Research Notes
 
+### Revision History
+
+- **2026-07-10** — Conflict c_019 (Walter Edgar Cushing's identification as the 1943 manuscript's author, versus genealogical evidence he died in 1935) resolved editorially: the identification is retained, on the judgment that "1943" most likely reflects an archival filing/cataloguing date rather than a composition date. An editorial judgment, not new evidence; the identification should be treated as probable, not settled.
+- **2026-07-09** — A full-text read of the complete 1905-1969 Cushing genealogy supplement found Walter Edgar Cushing died January 13, 1935, in tension with this article's identification of him as the 1943 "W.E. Cushing" manuscript author (raising conflict c_019, above). The same pass confirmed zero "Cushing"/"1892" mentions in either the McMorris thesis or the genealogy supplement, a meaningful negative result for identifying the 1892 camping pioneer.
+
+<!-- RALPH process log (informal, not reader-facing). -->
 <!-- R1 RALPH loop completed 2026-02-14. Comprehensive genealogical research confirmed 8 named sons. Research SATURATED for online sources. -->
 
 <!-- R2 RALPH + VERIFY 2026-02-17. Mined the 1905 Cushing genealogy (46,000 lines). KEY FINDING: Lemuel Jr. had NO son named Lemuel — his four children were Walter Edgar (b. 1870), Harold Beveridge (b. 1873, physician), Florence Ethelwyn (b. 1874), James Stevenson (b. 1878, genealogy author). The only literal "Lemuel Cushing" in Montreal 1892 was 16-year-old son of James Brock (b. 1875). NEW HYPOTHESIS: W.E. Cushing (1943 historian) = Walter Edgar Cushing (b. 1870), Lemuel Jr.'s eldest son. Dr. Cushing (1946 polio advisor) = Harold Beveridge Cushing (b. 1873, physician at Royal Victoria Hospital). If correct, Lemuel Jr.'s sons maintained the family YMCA connection for 50+ years. All claims verified: DCB, Wikipedia, Beer Et Seq, genealogy all confirm. Genealogy has NO mention of 1892 camping trip — the attribution to "Lemuel Cushing" by QAHN may be an informal family-name reference. -->

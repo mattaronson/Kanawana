@@ -1,7 +1,7 @@
 # A. Ross Seaman
 
-*Status: E1-reviewed | Sources: src_concordia_seaman_fund, src_mcmorris_thesis, src_dawson_crlt, src_concordia_ctr_2001, src_concordia_atom_12K*
-*Last Updated: 2026-06-11 (p_121 RALPH R2: death date refined to October 1987; biographical search saturated)*
+*Status: E1-reviewed | Sources: 7*
+*Last Updated: 2026-07-10*
 
 ## Overview
 
@@ -9,11 +9,13 @@ A. Ross Seaman (died October 1987) was director of Kamp Kanawana from 1959 to 19
 
 ## Early Career and YMCA
 
-After graduating from Sir George Williams University, Seaman entered community work and the camping movement through the YMCA.^2 ^3 At some point in his career, he offered a colleague a position at the Cornwall YMCA.^3 The chronology and extent of his YMCA roles before Kanawana are undocumented.
+After graduating from Sir George Williams University, Seaman entered community work and the camping movement through the YMCA.^2 ^3 At some point in his career, he offered a colleague a position at the Cornwall YMCA.^3 The chronology and extent of his YMCA roles before Kanawana are undocumented. A newly found lead (2026-07-10): Camp Perrot's 1952 annual report thanks Seaman as "Past Director of Camp Perrot," a YMCA service camp on Île Perrot, and a 1959 internal memo from that camp records him personally planting trees there "about 1950" — placing a Camp Perrot directorship before his Kanawana tenure.^7 A "Margaret Seaman" served as Camp Perrot's Girls' Camp Director in 1952, plausibly the same Margaret who was Seaman's wife (see Personal Life and Legacy, below), though this is not independently confirmed. See [[places/camp-perrot|Camp Perrot]] for the primary-source detail.
 
 ## Camp Kanawana (1959–1967)
 
 Seaman served as director of Kamp Kanawana from 1959 to 1967.^1 During his tenure, he oversaw the 1959 section renaming and the expansion of the La Vérendrye canoe trip program, which grew from exploratory trips in 1958 to a formal satellite operation with a lease at Lac Landron by the early 1960s.^1 ^5
+
+The YMCA of Montreal's 1966-67 Annual Report lists Seaman's title as "Director of Camping" and gives a detailed snapshot of the camp under his leadership: Kamp Kanawana's 73rd season drew 488 campers aged 7 to 17, totalling 1,323 camper-weeks (up from 1,182 in 1965).^6 A two-week training program preceded the season for 45 program staff, several of them Montreal YMCA Secretaries serving as section directors, alongside an eight-week program for Counsellors-in-Training and Junior Counsellors.^6 The same report quotes Seaman describing the camp's operating philosophy as a "participatory democracy," with campers involved in planning their own activities rather than following a fixed program — the clearest documented statement of his programming approach found to date.^6
 
 ## Academic Career
 
@@ -31,9 +33,9 @@ The A. Ross Seaman Memorial Leadership Development Fund was established in 1987 
 
 ## Open Questions
 
-1. [Critical] What are Seaman's full biographical details — birth year, full name, education beyond SGW? (2026-06 search: no obituary, Find A Grave entry, or genealogy record located online; Vankleek Hill cemetery records and a 1987 Montreal/Ottawa-area newspaper obituary are the remaining paths)
-2. [Important] What specific programming changes did Seaman make at Kanawana during 1959–1967?
-3. [Important] Who succeeded Seaman as director after 1967? (Ross Bannerman authored a Kanawana report in 1969 and had a YMCA International Branch file c.1968–1970. Concordia sub-sub-series P0145/12B01 holds a May 1969 director's report and a 1970 Director's Annual Report — physical consultation would identify the author/successor.)
+1. [Critical, re-confirmed dead end 2026-07-09] What are Seaman's full biographical details — birth year, full name, education beyond SGW? A further pass (genealogy sites, FindAGrave, Vankleek Hill obituary aggregators) found nothing new. The Vankleek Hill newspaper "The Review" (archived from 1893) very likely carries an October/November 1987 obituary, but its own online archive is not full-text searchable — this requires a paid GenealogyBank-style subscription search or direct contact with the newspaper or a Vankleek Hill funeral home, not further web queries.
+2. ~~[Important] What specific programming changes did Seaman make at Kanawana during 1959–1967?~~ [Largely resolved] The 1966-67 Annual Report documents his "participatory democracy" philosophy and 1966 season structure directly (see above); earlier years of his tenure remain undocumented.
+3. [Important, re-confirmed 2026-07-09] Who succeeded Seaman as director after 1967? (Ross Bannerman authored a Kanawana report in 1969 and had a YMCA International Branch file c.1968–1970. Concordia sub-sub-series P0145/12B01 holds a May 1969 director's report and a run of unattributed "Director's Annual Reports" for 1970-1975 — the online finding aid does not name authors for these; physical consultation remains the only path to identify the author/successor.)
 4. [Nice-to-have] What was Seaman's role at Cornwall YMCA — was this before or after his Kanawana directorship?
 5. [Nice-to-have] Is Margaret Seaman still involved with the memorial fund?
 
@@ -51,3 +53,5 @@ The A. Ross Seaman Memorial Leadership Development Fund was established in 1987 
 3. Dawson College CRLT Scholarships page: A. Ross Seaman Memorial Scholarship.
 4. Concordia Thursday Report, April 2001: Seaman Awards ceremony.
 5. Concordia University Archives: YMCA of Montreal fonds, P0145/12K — La Vérendrye canoe trip records (1958–1982), including exploratory trip logs and Lac Landron lease.
+6. YMCA of Montreal, Annual Report 1966-67 (Internet Archive, digitized by Concordia RMA). Read directly 2026-07-08.
+7. Camp Perrot annual reports, 1952 [src_ia_camp_perrot_collection]; "A Fresh Look at Camp Perrot," 1959 memo [src_camp_perrot_1959_fresh_look]. Both verified genuine via archive.org metadata API, 2026-07-10.

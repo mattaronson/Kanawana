@@ -1,25 +1,27 @@
 # Sean Day
 
-*Status: E1-reviewed | Sources: 13*
-*Last Updated: 2026-07-07 (conflict c_017 resolved per standing policy: Montreal YMCA annual reports document Day's Kanawana directorship start as 2008, not 2005 as oral history/CBC had suggested — the 2008 report is his first documented appearance in the "Director, Kanawana" Senior Management role, while Francois Dauphin held it as of the 2007 report)*
+*Status: E1-reviewed | Sources: 15*
+*Last Updated: 2026-07-10*
 
 ## Overview
 
-Sean Day served as Director of Camp YMCA Kanawana and Regional Director of Camps for the Quebec YMCAs from 2008 to April 2023, a tenure of about 15 years.^1 ^2 ^13 He grew up at Camp Kanawana and rose from camper to counsellor to director, holding a dual institutional role overseeing both the individual camp and the broader YMCA Quebec camping system.^2 ^3 His directorship spanned several defining periods, including the Stuart McLean partnership, a camp revitalization effort, the COVID-19 pandemic, and post-pandemic staffing challenges. He also served as spokesperson for the Quebec Camping Association (Association des camps du Québec).^4
+Sean Day served as Director of Camp YMCA Kanawana and Regional Director of Camps for the Quebec YMCAs from 2005 (per editorial resolution of conflict c_017 — see Titles and Scope, below) to April 2023.^1 ^2 ^13 ^14 He grew up at Camp Kanawana and rose from camper to counsellor to director, holding a dual institutional role overseeing both the individual camp and the broader YMCA Quebec camping system.^2 ^3 His directorship spanned several defining periods, including the Stuart McLean partnership, a camp revitalization effort, the COVID-19 pandemic, and post-pandemic staffing challenges. He also served as spokesperson for the Quebec Camping Association (Association des camps du Québec).^4
 
 ## Early Connection to Kanawana
 
-Day grew up at Camp Kanawana, as he stated in a 2017 CBC interview: "Having lived with him for that week up at camp and having myself grown up at the camp and having lived the impact myself, I guess for Stuart it was just a natural thing."^3 He was Matt Aronson's counsellor during the latter's camper years.^1 Day attended Concordia University, though his specific degree and graduation year are not publicly documented.^7
+Day grew up at Camp Kanawana, as he stated in a 2017 CBC interview: "Having lived with him for that week up at camp and having myself grown up at the camp and having lived the impact myself, I guess for Stuart it was just a natural thing."^3 He was [[people/matt-aronson|Matt Aronson]]'s counsellor during the latter's camper years.^1 Day attended Concordia University, though his specific degree and graduation year are not publicly documented.^7
 
-## Directorship (2008–2023)
+## Directorship (2005–2023; start date resolved editorially — see below)
 
 ### Titles and Scope
 
-Oral history and a 2017 CBC profile placed Day in the "Director of Camp Kanawana" role as early as 2005.^3 The Montreal YMCA's own annual reports tell a more precise story: Francois Dauphin held the Senior Management "Directeur YMCA Kanawana" title as of the 2007 report, and Day's first documented appearance in that specific role is the 2008 report.^13 Per the project's standing policy that documented sources take precedence over oral history where the two directly conflict (conflict c_017, resolved 2026-07-07), 2008 is treated as his formal directorship start; the 2005 date most plausibly reflects Day's general presence and connection to the camp that year rather than the formal title, since no contemporaneous source uses "Director" for him before 2008. A 2009 press release describes him as "directeur des programmes et du camp Y Kanawana" (Director of Programs and Camp Y Kanawana).^8 From 2017 onward, CBC coverage uses the broader title "Regional Director of Camps for YMCA Quebec" alongside his camp director role.^2 ^3 Both titles appear to have been held concurrently, reflecting a dual role overseeing Kanawana specifically and the YMCA Quebec camping portfolio generally.
+Oral history and a 2017 CBC profile placed Day in the "Director of Camp Kanawana" role as early as 2005.^3 The Montreal YMCA's 2007 annual report's Senior Management listing instead names Francois Dauphin as "Directeur YMCA Kanawana" that year, with Day's first appearance in that specific internal org-chart role coming only in the 2008 report.^13 This once looked like a clean case for the project's "documented sources take precedence over oral history" policy — but a 2026-07-09 re-check found the camp's own public website (Wayback-archived) naming Day as "directeur du camp estival et des programmes" continuously from December 2005 through December 2007, with no mention of Dauphin anywhere on the site.^14 That makes this a genuine disagreement between two documented institutional sources (the annual report's internal org chart vs. the camp's own public-facing site), not oral history versus a document.
+
+Conflict c_017 is resolved in favour of **2005** as the start of Day's on-site directorship, per editorial judgment rather than new evidence (see Revision History). The camp's own public-facing website is read as a more direct, real-time signal of who ran the camp season-to-season, naming Day continuously across five consecutive Wayback snapshots (December 2005 through December 2007) with zero mention of Dauphin anywhere on the site. The most likely reconciliation: "Directeur, YMCA Kanawana" on the Montreal YMCA's internal annual-report Senior Management list is a separate head-office/administrative designation that Dauphin held concurrently or that lagged the camp's own public messaging by a year or two — not a claim that Dauphin, not Day, was running the camp on-site in 2007. This is not confirmed by any single source stating both roles' scope explicitly, so it remains open to revision if better evidence surfaces. A 2009 press release describes Day as "directeur des programmes et du camp Y Kanawana" (Director of Programs and Camp Y Kanawana).^8 From 2017 onward, CBC coverage uses the broader title "Regional Director of Camps for YMCA Quebec" alongside his camp director role.^2 ^3
 
 ### Stuart McLean Partnership
 
-Day was present at Camp Kanawana when Stuart McLean returned for a week in 2005, during which McLean hosted his CBC Radio program *The Vinyl Cafe* from the camp^3 — three years before Day's documented formal directorship began (see Titles and Scope, above). This visit led to an ongoing relationship between McLean and the camp. Before McLean's death from cancer on February 15, 2017, the McLean family established the Stuart McLean Camp YMCA Kanawana Fund to provide financial support for children who cannot afford to attend camp.^3
+Day was present at Camp Kanawana when Stuart McLean returned for a week in 2005, during which McLean hosted his CBC Radio program *The Vinyl Cafe* from the camp^3 — the same year the camp's own website (though not the 2007 annual report) names him as director (see Titles and Scope, above). This visit led to an ongoing relationship between McLean and the camp. Before McLean's death from cancer on February 15, 2017, the McLean family established the Stuart McLean Camp YMCA Kanawana Fund to provide financial support for children who cannot afford to attend camp.^3
 
 Day spoke about the fund: "That was Stuart's experience, and he's so kindly asked people to support making sure that any kid who wants to experience that magic can."^3 He also articulated the camp's mission: "Helping kids to understand their potential in the context of community and nature is what the camp is all about."^3
 
@@ -53,15 +55,17 @@ Day became Director of Fund Development at **Tyndale St-Georges Community Centre
 
 ## Open Questions
 
-1. [Important] What specific programs or innovations did Day introduce during his 19-year tenure beyond the green shift, COVID pivot, and anti-bullying initiative?
-2. ~~Largely resolved (2026-06-11)~~ The 2009 revitalization was a phase of the 2006-onward green shift: new accommodation buildings, composting toilets, heat exchangers, and an artificial wastewater wetland.^8 Remaining: completion dates and costs of each building.
-3. [Nice-to-have] What were Day's camper and counsellor years before becoming director?
-4. [Nice-to-have] How did the YMCA's day camp pivot during COVID-19 affect long-term programming?
+1. [Important, re-confirmed dead end 2026-07-09] What specific programs or innovations did Day introduce during his 19-year tenure beyond the green shift, COVID pivot, and anti-bullying initiative? A 10-query sweep across web search and direct site/Facebook fetches found nothing additional; a 2014 Facebook post marking the camp's 120th anniversary reproduces a Day statement but could not be fully extracted (Facebook's mobile wrapper truncated it) and the 2014 YMCA Quebec news article on the same anniversary doesn't mention him at all.
+2. ~~[Important] Resolve conflict c_017: did Day's directorship begin in 2005 or 2008?~~ [Resolved editorially 2026-07-10] 2005, per editorial judgment favouring the camp's own contemporaneous public website over a single internal annual-report org-chart snapshot — see Titles and Scope, above, and Revision History. Not confirmed by a source stating both roles' scope explicitly; open to revision. A 2020 YMCA Quebec community-report subdomain that might contain a title breakdown could not be reached (DNS failure) — worth a Wayback Machine retry if further confirmation is wanted.
+3. ~~Largely resolved (2026-06-11)~~ The 2009 revitalization was a phase of the 2006-onward green shift: new accommodation buildings, composting toilets, heat exchangers, and an artificial wastewater wetland.^8 Remaining: completion dates and costs of each building.
+4. [Nice-to-have, re-confirmed dead end 2026-07-09] What were Day's camper and counsellor years before becoming director? No source (CBC 2017, Samaritanmag 2017, or any staff roster/newspaper item found this session) documents specific years -- only that he "grew up at the camp." Requires oral history or an archives request, not further web search.
+5. [Nice-to-have] How did the YMCA's day camp pivot during COVID-19 affect long-term programming?
 
 ## Related Articles
 
 - [[people/directors-index|Directors and Staff of Camp Kanawana]]
 - [[people/stuart-mclean|Stuart McLean]]
+- [[people/matt-aronson|Matt Aronson]]
 - [[programs/programs-activities|Programs and Activities at Kanawana]]
 - [[programs/pip-alumni-award|The Pip Alumni Award]]
 
@@ -79,4 +83,13 @@ Day became Director of Fund Development at **Tyndale St-Georges Community Centre
 10. Association des camps du Québec (ACQ). Day described as "former director." URL: https://campsquebec.com/blogue-camps/great-news-for-our-english-members
 11. CBC Daybreak Montreal (2022/2023). Kate Taylor and Kevin Slezak as current leadership.
 12. YMCA Quebec. "The Stuart McLean Camp YMCA Kanawana Fund." URL: https://www.ymcaquebec.org/en/Blog/The-Stuart-McLean-Camp-Kanawana-Fund-providing-fi
-13. Montreal YMCA annual reports, 2007 and 2008 editions (Wayback Machine). Senior Management listings: Francois Dauphin as "Directeur YMCA Kanawana" (2007 report); Sean Day first appearing in that role (2008 report). Basis for resolving conflict c_017.
+13. Montreal YMCA annual reports, 2007 and 2008 editions (Wayback Machine). Senior Management listings: Francois Dauphin as "Directeur YMCA Kanawana" (2007 report); Sean Day first appearing in that role (2008 report). One side of conflict c_017, resolved editorially in favour of the other (source 14) -- see Revision History.
+14. ymcakanawana.com, "Pour nous joindre" contact page, Wayback Machine snapshots 2005-12-16 through 2007-12-28. Names "Sean Day, directeur du camp estival et des programmes" continuously across five snapshots; no mention of Francois Dauphin. The side of conflict c_017 favoured in the editorial resolution -- see Revision History.
+15. Camp YMCA Kanawana Facebook page, 120th-anniversary post (September 5, 2014). Labels Day "directeur du camp YMCA Kanawana"; content only partially extractable due to Facebook's mobile wrapper.
+
+## Research Notes
+
+### Revision History
+
+- **2026-07-10** — Conflict c_017 (Day's directorship start: 2005 vs. 2008) resolved editorially in favour of 2005, weighing the camp's own contemporaneous public website (naming Day continuously from December 2005) above the Montreal YMCA's 2007 annual report, which instead names François Dauphin in Senior Management that year. An editorial judgment between two documented sources, not new evidence; open to revision.
+

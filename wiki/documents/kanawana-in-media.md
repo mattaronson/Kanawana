@@ -1,7 +1,7 @@
 # Kanawana in Media and Culture
 
-*Status: E1-reviewed | Sources: 16*
-*Last Updated: 2026-06-22 (1897 and 1918 Gazette articles, CFCF audio, Flickr account, pandemic CBC coverage added) — photo gallery added 2026-07-02*
+*Status: E1-reviewed | Sources: 19*
+*Last Updated: 2026-07-11*
 
 ## Overview
 
@@ -9,7 +9,7 @@ Camp Kanawana has appeared in a range of media over its 130-year history, from p
 
 ## Film and Video
 
-**1960s silent film.** A silent colour film of Kamp Kanawana from the 1960s survives in the Concordia University Archives (P0145-09-0087), showing swimming and diving activities. A YouTube access copy exists.^1
+**1960s silent film.** A silent colour film of Kamp Kanawana from the 1960s survives in the Concordia University Archives (P0145-09-0087), showing swimming and diving activities. A YouTube access copy exists, confirmed 2026-07-09 at https://www.youtube.com/watch?v=ZrUuQ1SU7q8, titled "YMCA: Kamp Kanawana (no sound)," uploaded 2022-06-21 by Concordia University Records Management & Archives.^1
 
 **1993 documentary.** *Kamp Kanawana: The Experience that Lasts a Lifetime* (9 minutes, colour) was produced by Laurentien Productions for the Montreal YMCA, directed by Cathy Reeves.^2 It describes Kanawana as the oldest camp in Quebec and second oldest in Canada. The film features "On My Way to Kanawana," a camp song composed and performed by Richard "Itch" Kerr (Pip Award 2007).^3 Originally released on VHS in 1996; a YouTube access copy exists.^3
 
@@ -19,9 +19,11 @@ Camp Kanawana has appeared in a range of media over its 130-year history, from p
 
 ## Radio
 
-**CFCF broadcasts (1939, 1941).** Two promotional radio broadcast scripts survive in the Concordia University Archives, both from CFCF Montreal:
+**CFCF broadcasts (1939, 1941).** Two promotional radio broadcasts survive as digitized audio, uploaded to the Internet Archive by Concordia University Records Management, both from CFCF Montreal — Canada's first radio station, established in 1919 from the Marconi Wireless experimental station XWA:^17
 - June 10, 1939: Promoted the upcoming summer season, one of the last records of pre-war normalcy at Kanawana.^6
-- June 26, 1941: Chief Howie Langille promoted summer registrations, describing the 48th season and mentioning British evacuee children, 68 staff, and multi-generational attendance.^7
+- June 26, 1941, 8:50 PM Thursday: Chief [[people/howie-langille|Howie Langille]] was interviewed by an announcer, promoting summer registrations and describing the 48th season, British evacuee children, 68 staff, and multi-generational attendance.^7 ^18
+
+The Concordia Archives (P145/12B04, Communications sub-series) describe CFCF broadcasts promoting Kanawana as running from 1936 to 1941, suggesting further, not-yet-digitized broadcasts beyond these two surviving recordings.^19 See [[people/howie-langille|Howie Langille]] for the 1941 broadcast's fuller biographical context, and [[chronology/wartime-kanawana|Wartime Kanawana]] for its content in the camp's wartime narrative.
 
 ## Journalism
 
@@ -73,10 +75,10 @@ Stuart McLean worked as a counsellor at Camp Kanawana for five summers beginning
 
 ## Open Questions
 
-1. Did Stuart McLean reference Camp Kanawana in any *Vinyl Cafe* stories or published work? The McMaster archive may contain evidence.
+1. [Largely resolved 2026-07-09] Did Stuart McLean reference Camp Kanawana in any *Vinyl Cafe* stories or published work? A full retrieval of the McMaster fonds finding aid found two distinct camp-themed show files (Box 60/F.16 "Kamp Kanawana," Season 10 2004-05; Box 53/F.25 "Vinyl Cafe Show 2.10 Camp — Not Published," Season 2 1995-96), plus "A Letter from Camp" (already documented). No additional Dave-and-Morley narrative referencing camp was found beyond these. See [[people/stuart-mclean|Stuart McLean]] for full detail.
 2. Are there other published works of fiction or memoir set at or inspired by Kanawana?
 3. Do any Montreal television news archives contain footage of camp events (e.g., centennial, Pip Award ceremonies)?
-4. The Concordia Archives hold photographs, slides, and film from multiple decades — have any been published or exhibited?
+4. [Partially resolved, negative result 2026-07-09] The Concordia Archives hold photographs, slides, and film from multiple decades — have any been published or exhibited? Separately, the McMaster Stuart McLean fonds' own photo series (Box 97) was checked and confirmed to contain NO camp/Kanawana-tagged photographs — ruling out that specific archive as a source, though the original Concordia-held photographs remain unexamined for publication/exhibition history.
 
 ## Related Articles
 
@@ -104,6 +106,18 @@ Stuart McLean worked as a counsellor at Camp Kanawana for five summers beginning
 14. YMCA Camp Kanawana Flickr account. URL: https://www.flickr.com/photos/kanawana/
 15. Kamp Kanawana YouTube channel. URL: https://www.youtube.com/c/KampKanawana
 16. CBC News (April 2021). "Summer sleepaway camps in jeopardy." URL: https://www.cbc.ca/news/canada/montreal/pandemic-summer-camps-quebec-overnight-1.5995429
+17. CFCF Radio Broadcast, June 26, 1941 — station history (Canada's first radio station, established 1919 from the Marconi Wireless experimental station XWA) [src_cfcf_1941].
+18. CFCF Radio Broadcast, June 26, 1941 — broadcast timing (8:50 PM Thursday) and announcer interview format [src_cfcf_1941].
+19. Concordia University Archives, YMCA of Montreal Fonds, sub-sub-series 12B04 (Communications) [src_concordia_atom_12B04].
+
+## Research Notes
+
+### Revision History
+
+- **2026-07-11**: Enhanced the Radio section (Workstream C3) — corrected "broadcast scripts" to "digitized audio," per source records explicitly noting Internet Archive audio uploads; added CFCF station history, the 1941 broadcast's exact air time, and the archival note that CFCF-Kanawana broadcasts are documented running 1936-1941, beyond the two surviving digitized recordings. Cross-linked to the new [[people/howie-langille|Howie Langille]] article. No facts, sources, or open questions dropped.
+
+<!-- RALPH process log (informal, not reader-facing). Considered spawning a standalone CFCF radio article per the Workstream C plan's C3 list, but the plan itself hedged this ("either its own short article or a section within Green Triangle's/here") and the material (9 KB facts) was already thin and already had a natural home in this article's existing Radio section, with fuller context already covered in wartime-kanawana.md and the new howie-langille.md -- a standalone article would have been a near-duplicate with little new value. Enhanced this section in place instead, per the same scope-discipline reasoning used for the quebec-camp-landscape.md satellite-hub decision earlier in Workstream B. -->
+
 
 ### R3 Verification Notes
 

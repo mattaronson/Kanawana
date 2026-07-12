@@ -1,13 +1,7 @@
 # Harold H. Potter
 
-<!-- status: E1-reviewed -->
-<!-- confidence: medium-high -->
-<!-- last_updated: 2026-06-22 -->
-<!-- last_editor: session4 -->
-<!-- ralph_loops: harold-potter-R1, harold-potter-V1, harold-potter-E1 -->
-
-*Status: E1-reviewed | Sources: 7*
-*Last Updated: 2026-06-22*
+*Status: E1-reviewed | Sources: 9*
+*Last Updated: 2026-07-10*
 
 ## Overview
 
@@ -25,7 +19,7 @@ Potter was active at the YMCA on Drummond Street from at least age 14 (c. 1928),
 
 ## Education
 
-Potter attended Sir George Williams College from 1935 to 1939, earning a B.A. During these years he worked summers as a camp counsellor at YMCA Kamp Kanawana.^1 ^2 In 1938--39 he served as editor of *The Georgian*, the SGW student newspaper -- a position later held by Mordecai Richler. Potter later described it as "a dull, straight, serious and earnest newspaper."^1
+Potter attended Sir George Williams College from 1935 to 1939, earning a B.A. During these years he worked summers as a camp counsellor at YMCA Kamp Kanawana.^1 ^2 Three specific Montreal Gazette items, cited in Wikipedia's own footnotes but not previously extracted into this KB, corroborate at least three of those years directly: "Camp group named" (May 15, 1935, p. 5), "Named to camp staff" (May 13, 1936, p. 5), and "'Y' campers stage reunion meeting" (May 9, 1938, p. 18).^8 The clippings themselves are paywalled on Newspapers.com and were not read in full; his specific section or age group at camp remains undocumented — full-text reads of the 1935 season chronicle and the July 1938 Green Triangle issue found no "Potter" mention in either. In 1938--39 he served as editor of *The Georgian*, the SGW student newspaper -- a position later held by Mordecai Richler. Potter later described it as "a dull, straight, serious and earnest newspaper."^1
 
 He enrolled in the M.A. program in Sociology at McGill University in 1947, supervised by Oswald Hall, a Chicago School alumnus.^2 His thesis, *The Occupational Adjustments of Montreal Negroes, 1941--48* (defended 1949), documented that nearly 50% of all Black male wage earners in early-1940s Montreal were sleeping car porters, and almost 80% of Black women were employed as domestic servants.^1 ^2 The thesis became a standard citation for decades.
 
@@ -52,7 +46,7 @@ Potter maintained he had never experienced discrimination at Sir George Williams
 ## Publications
 
 1. *The Occupational Adjustments of Montreal Negroes, 1941--48.* MA thesis, McGill University, 1949.
-2. Potter, Harold H. and Renee Morin. *Camp Laquemac: A Bilingual Adult Education Training Centre.* Toronto: Canadian Association for Adult Education, 1953.^3
+2. Potter, Harold H. and Renee Morin. *Camp Laquemac: A Bilingual Adult Education Training Centre.* Toronto: Canadian Association for Adult Education, 1953.^3 Camp Laquemac (properly "Camp Laquémac") was Université Laval's own flagship adult-education summer camp, run by its Centre de Culture Populaire in partnership with Macdonald College of McGill University and sponsored by provincial and federal governments, operating 1947-1957. Two independent sources (Miriam Chapin's *Quebec Now*, 1955; Scott McLean's 2023 *Canadian Journal of Education* article on Laval and adult education) describe it in detail; neither mentions the YMCA or Kanawana. Potter and Morin's 1953 pamphlet appears to be outside documentation of Laval's camp-based adult-education model for the Canadian Association for Adult Education, consistent with Potter's general camp-methodology interests, rather than evidence Laquemac itself was YMCA-run or Kanawana-linked.
 3. "Negroes in Canada." *Race* 3:1 (1961): pp. 39--56.^4
 4. "Negroes in Canada." Republished in Richard Laskin (ed.), *Social Problems: A Canadian Profile.* Toronto: McGraw-Hill, 1964.
 5. Potter, Harold H. and Daniel G. Hill. *Negro Settlement in Canada, 1628--1965: A Survey.* Royal Commission on Bilingualism and Biculturalism. Ottawa, 1966.^5
@@ -68,10 +62,10 @@ Potter married Theresia (Theresa) Hebein, an Austrian emigre, in 1970. Their son
 
 ## Open Questions
 
-1. [Important] What specific years did Potter serve as a counsellor at Kanawana? Did he work with a specific section or age group?
-2. [Important] What is the full text of the Camp Laquemac publication (1953)? Was this a YMCA camp with a Kanawana connection?
-3. [Nice-to-have] Are there photographs of Potter at Kanawana in the Concordia Archives (P0145 fonds or Harold Potter fonds)?
-4. [Nice-to-have] Does the SGW 1973 Yearbook contain a faculty photograph of Potter?
+1. [Important, advanced 2026-07-10] What specific years did Potter serve as a counsellor at Kanawana? Did he work with a specific section or age group? Three specific 1935/1936/1938 Gazette citations now corroborate the years (see Education above), though the clippings themselves are paywalled; section/age group remains undocumented after full-text checks of the 1935 chronicle and 1938 Green Triangle.
+2. ~~[Important] What is the full text of the Camp Laquemac publication (1953)? Was this a YMCA camp with a Kanawana connection?~~ [Resolved 2026-07-10] Camp Laquemac was Université Laval's own adult-education camp (1947-1957), unconnected to the YMCA or Kanawana institutionally — see Publications above.
+3. [Nice-to-have, advanced 2026-07-10] Are there photographs of Potter at Kanawana in the Concordia Archives? The Harold Potter fonds itself (per repeated, consistent search-engine-indexed descriptions) contains no photographs — only teaching materials and equity/Georgian-related clippings. The broader P0145 YMCA fonds holds Kanawana photographs generally, but not indexed by counsellor name, so a targeted Potter photo can't be located without an in-person box search.
+4. [Nice-to-have] Does the SGW 1973 Yearbook contain a faculty photograph of Potter? The yearbook is confirmed to exist and is publicly hosted on Issuu (issuu.com/concordiayearbooks), but its content could not be extracted by automated fetch tools (JavaScript-rendered viewer) — this is an access gap, not a confirmed absence. A human browsing the Issuu flipbook directly to the Sociology/Arts faculty section is the concrete next step.
 
 ## Related Articles
 
@@ -90,3 +84,5 @@ Potter married Theresia (Theresa) Hebein, an Austrian emigre, in 1970. Their son
 5. Potter, Harold H. and Daniel G. Hill. *Negro Settlement in Canada, 1628--1965.* Royal Commission on Bilingualism and Biculturalism, 1966.
 6. Concordia University Archives: Harold Potter fonds (donated 2005 by Jean-Philippe Warren via Evan Potter).
 7. Ontario Archives: Daniel G. Hill papers, letter from Harold H. Potter, August 8, 1963.
+8. Wikipedia, "Harold H. Potter" footnotes citing three Montreal Gazette items: "Camp group named" (May 15, 1935); "Named to camp staff" (May 13, 1936); "'Y' campers stage reunion meeting" (May 9, 1938).
+9. Chapin, Miriam. *Quebec Now*, Chapter 6 ("The Cleric and the Layman"), 1955; McLean, Scott. "No 'haughty and inaccessible ivory tower': Laval University and Adult Education, 1930–1965." *Canadian Journal of Education/Revue canadienne de l'éducation* 46:2 (2023), pp. 442-465. Camp Laquémac institutional history.

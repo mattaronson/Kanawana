@@ -1,6 +1,7 @@
 # The Council Ring
 
 *Status: E1 Reviewed | Sources: McMorris (2023) Ch2, KB council_ring, P145/12B01 Season Reports, 1935 History*
+*Last Updated: 2026-07-09 (Batch 5 research pass: McMorris thesis Fig. 2.1 identified as the source of the "1970s photograph" reference, with the caveat that it's uncertain whether it shows the same pole as 1927; a 1962 map in the same thesis (p.68) shows the "Indian Council Ring" name and totem-pole iconography still in use; a check of the camp's current facilities page found no mention of a Council Ring or totem pole, though this is inconclusive rather than evidence of removal)*
 
 The Council Ring was built by senior campers in 1922, sited between the cabins and the chapel. It served from the start as the camp's ceremonial gathering place, a tiered outdoor amphitheatre where the whole community could assemble for evening programs, campfires, and ritual events. The choice of the name "Council Ring" reflected the broader "playing Indian" aesthetic that shaped YMCA camping in this period, drawing on romanticized ideas about Indigenous governance and ceremony that were common across North American organized camping. The council-ring form itself is generally traced to landscape architect Jens Jensen and to Ernest Thompson Seton's Woodcraft Indians (Silver Bay camp, 1910), from which it spread through the camping movement — context for Kanawana's adoption of it in 1922.^cr
 
@@ -19,6 +20,8 @@ McMorris's analysis situates the Council Ring and its associated "Indian" tradit
 - Oral history, Matt Aronson (2026).
 - *The Gas Bag*, 1923 Re-union Number. Internet Archive.
 8. Facebook, YKanawana, "Opening Campfire 2020" (Facebook Live video). URL: https://www.facebook.com/YKanawana/videos/opening-campfire-2020/1432885173577431/
+9. McMorris, Grace (2023), Figure 2.1 (1970s totem pole photograph) and p. 68 (1962 site map, "Indian Council Ring" label and totem-pole iconography). Read directly 2026-07-09.
+10. Camp Kanawana current facilities webpage (2026-07-09 check): describes "fire bowls," no mention of "Council Ring" or totem pole by name.
 - ^cr Phase 2 research (recovered June 2026): council-ring form traced to Jens Jensen and E.T. Seton's Woodcraft Indians (Silver Bay, 1910).
 
 ### R3 Verification Notes
@@ -41,6 +44,8 @@ A longstanding tradition at the Closing Fire involves burning a "time capsule" �
 
 The council ring's campfire tradition was confirmed active as recently as 2020, when the camp streamed an "Opening Campfire" as a Facebook Live video during the COVID-19 pandemic — an indication of the tradition's centrality to camp culture, maintained even under pandemic restrictions.^8 Whether the original totem poles survive has not been determined from online sources; the broader North American camping movement has been reconsidering non-authentic totem poles as part of reconciliation efforts, and the Tamaracouta Scout Reserve in nearby Mille-Isles had its 1947 Mungo Martin totem pole stolen after the reserve closed in 2018.
 
+The "1970s photograph" showing a standing totem pole is McMorris's thesis Figure 2.1; it is not established whether this is the same physical pole erected in 1927 or a replacement.^9 A 1962 site map reproduced in the same thesis (p. 68) still labels the site the "Indian Council Ring" and depicts totem-pole iconography, showing the name and imagery persisted at least through the early 1960s.^9 By contrast, the camp's current (2020s) facilities webpage describes "fire bowls" in the area but makes no mention of a "Council Ring" or totem pole by name — a search-checked but inconclusive finding, since a facilities-overview page omitting a name is not evidence the physical site or its features were removed or renamed, only that this particular page doesn't describe them.^10
+
 ## Related Articles
 
 - [[chronology/founding-1894|Founding of Camp Kanawana (1894)]]
@@ -53,6 +58,6 @@ The council ring's campfire tradition was confirmed active as recently as 2020, 
 ## Open Questions
 
 - Does the Council Ring still exist in its 1929 form, or has it been rebuilt since?
-- Are the totem poles still standing? When were they last present? (A 1970s photograph shows at least one totem pole standing.)
+- Are the totem poles still standing? When were they last present? [Partially advanced 2026-07-09] The "1970s photograph" is McMorris's Fig. 2.1, and a 1962 map in the same thesis (p. 68) confirms "Indian Council Ring" naming and totem imagery persisted at least to the early 1960s; it remains unconfirmed whether the 1970s photo shows the original 1927 pole or a replacement, and whether any pole survives today. The current facilities page's silence on the topic is inconclusive, not evidence of removal.
 - How did Council Ring ceremonies evolve after the decline of "playing Indian" programming in the 1950s-1960s?
 - What is the full list of ceremonies and events held at the Council Ring in the modern era?

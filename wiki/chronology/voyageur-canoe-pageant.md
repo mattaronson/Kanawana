@@ -100,7 +100,7 @@ Glenn Fallis, an Ontario team member, created an hour-long documentary using sti
 
 ## Open Questions
 
-1. [Important] Who were the six Kanawana boys and two counsellors who paddled the Montreal-to-Ottawa section?
+1. [Important, re-confirmed dead end 2026-07-09] Who were the six Kanawana boys and two counsellors who paddled the Montreal-to-Ottawa section? See [[chronology/centennial-1967|The 1967 Centennial and Kanawana]] for the full research trail — Concordia sub-sub-series 12B01/12B04 ruled out as locations for this roster; the McMorris thesis (a plausible remaining source) needs a local-PDF-extraction retry, not yet successfully read for this specific question.
 2. [Important] Did Kanawana participate through the CCA Quebec section or independently?
 3. [Nice-to-have] What canoe model was used for the CCA Centenary Journey sections?
 4. [Nice-to-have] Are there photographs or camp records of the Kanawana group's participation?

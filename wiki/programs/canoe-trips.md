@@ -1,6 +1,7 @@
 # Canoe Trips at Kanawana
 
-*Status: E1-reviewed | Sources: McMorris (2023) Ch3, KB canoe_trips, YMCA Quebec website, src_ymca_kanawana_adventurers_pathfinders_2026, src_ymca_kanawana_explorers_pioneers_2026*
+*Status: E1-reviewed | Sources: McMorris (2023) Ch3, KB canoe_trips, YMCA Quebec website, src_ymca_kanawana_adventurers_pathfinders_2026, src_ymca_kanawana_explorers_pioneers_2026, src_wikipedia_lac_landron, src_reserve_laverendrye_history, src_radiocanada_sepaq_laverendrye_2022*
+*Last Updated: 2026-07-09 (open-questions research pass: confirmed Lac Landron's real geography and the Reserve's canoe-camping administration history; circumstantial evidence the 1962-63 lease has lapsed, though not directly confirmed)*
 *Last Updated: 2026-07-05 (named trip staff added from photo-mined canoe-trip plaques, p_191 ENRICH pass) — photo gallery added 2026-07-02*
 
 Canoe trips were introduced to Kanawana's program in 1925, offered as an optional extra at $3.50 per camper on top of the regular camp fee. By 1928, the camp director was already proposing more ambitious expeditions, suggesting 10- to 12-day trips for senior campers.
@@ -40,6 +41,7 @@ Today, canoe tripping remains central to the Kanawana experience. The 2026 progr
 - YMCA Quebec, "Adventurers Pathfinders: Canoe-Tripping" (ymcaquebec.org, 2026). Girls and NB 13–16; La Vérendrye or river trips.
 - YMCA Quebec, "12-Day Explorers Pioneers" (ymcaquebec.org, 2026). Girls and NB 11–12; 3-4 day expedition to Papineau-Labelle Wildlife Reserve.
 - ^7 Phase 2 research (recovered June 2026): Papineau-Labelle Adventurer route ~22 km/4 days, portages 100–690 m, Lac Saint-Denis–Lac du Crochet–Lac Montjoie.
+- French Wikipedia, "Lac Landron" [src_wikipedia_lac_landron]; "Réserve faunique La Vérendrye" [src_reserve_laverendrye_history]. Radio-Canada/La Presse, SEPAQ canoe-camping administration transition, 2022 [src_radiocanada_sepaq_laverendrye_2022].
 - *A History of Kamp Kanawana* (1935). Internet Archive. Mentions "Four-day trip to Otoreke," confirming canoe trips existed by 1935.
 - Canoe-trip dining-hall plaques, photo-mined 2026-07-05 (f_1708, f_1719-f_1723): named Trippers and trip captains, 2000-2010.
 
@@ -66,8 +68,8 @@ Core timeline (1925 introduction through 1959 La Vérendrye) sourced from McMorr
 
 ## Open Questions
 
-- What routes did the earliest 1925 canoe trips follow?
+- [Confirmed dead end, 2026-07-09] What routes did the earliest 1925 canoe trips follow? No source beyond McMorris's already-cited season-report citations found after 8+ additional queries.
 - Who organized the first La Vérendrye scouting expedition in 1956?
 - When did the La Vérendrye base camp transition from seasonal trips to a permanent satellite operation?
-- What is the current status of the 25-acre Lac Landron lease? Is it still active?
+- [Advanced, still not directly confirmed, 2026-07-09] What is the current status of the 25-acre Lac Landron lease? Is it still active? Lac Landron is confirmed to be a real lake in the Zec Capitachouane, adjacent to (not inside) La Vérendrye Wildlife Reserve proper. Circumstantial evidence suggests the lease has lapsed: canoe-camping administration in the Reserve moved to the FQCC in 1993 and to full SEPAQ control by ~2022, and current official Kanawana canoe-trip program pages make no mention of Lac Landron or any private base camp — but no source states outright that the lease ended. Confirming this would require SEPAQ or Ministère des Forêts, de la Faune et des Parcs land-lease records, not indexed online.
 - When was the formal name "Les Voyageurs de La Vérendrye" adopted and when did it fall out of common usage?
