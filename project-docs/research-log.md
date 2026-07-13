@@ -3534,3 +3534,110 @@ The second major find of this batch: Internet Archive actually holds 38 digitize
 ### Outcome
 
 This tier — deliberately the last remaining previously-untouched or skip-listed articles — produced two of the largest single-session finds of the entire project: the actual 1979-1982 Kanawana-Weredale operational relationship, and the discovery that 38 (not 1) Green Triangle issues and 11 (not 0) Camp Perrot annual reports are digitized on Internet Archive. Both underscore a recurring lesson from this session: Concordia's static finding-aid pages and its master PDF, plus a full re-scan of Internet Archive's actual holdings rather than assumed coverage, repeatedly surface material that targeted keyword search alone misses. Five new priority-queue items track the remaining physical-archive leads (the Weredale arrangement's end, the Camp Perrot closure contradiction, a Furness shipping-registry check, further master-PDF re-mining, and a human check of the SGW 1973 yearbook).
+
+## Campaign 74 (2026-07-13): Camps Founded by Kanawana Alumni/Staff + Associational Contributions
+
+*Numbering note: this file's own Campaign count last stood at 37 (2026-07-10); `logs/pipeline.log`'s independent Campaign numbering has since continued past that point to 73. This entry continues `pipeline.log`'s numbering as Campaign 74 rather than attempting to backfill the intervening gap.*
+
+The operator proposed a new Phase 2 research angle directly: camps and programs founded by identified Kanawana alumni or staff members (naming Rob Evis/"Paddlefoot," Steve Leckman/"Coyote Camp," and a possible 1920s-30s Kanawana director named "Wagner" connected to Camp Nominingue), plus a fresh pass on Kanawana's contributions to the Quebec/Canadian Camping Associations and the CIT program as a national concept. Five priority items (p_218-p_222) were queued and run as five parallel formal RALPH cycles.
+
+### Rob Evis / Paddlefoot (p_218)
+
+31 queries across 10 surfaces (general web, Paddlefoot's own site, Wilderness Safety Systems, the Corporations Canada registry, Camp Kanawana's own official site, LinkedIn, Facebook, IMDb, Reddit, Instagram, myccr.com). Paddlefoot is confirmed real: an Ontario wilderness-adventure/canoe-tripping organization founded in 1996 by "Robb and Sue," federally incorporated in 1997 (director of record: Robert Charles Evis). Rob "Robb" Evis is independently documented as a Montreal-raised paramedic and wilderness-rescue instructor. But no source anywhere links him to Camp Kanawana — Kanawana's own team page names a different person, Marie-Pierre Lacasse, as its 2007-2010 Expeditions Director, the only comparable role found. The operator's specific claim remains unconfirmed oral history. Not spawned as a standalone article; logged instead as a new, explicitly-tested Open Question in `notable-alumni.md`.
+
+### Steve Leckman / Coyote Camp (p_219)
+
+19 queries across 6 surfaces. A real, dated Kanawana connection was found: Kanawana's own Facebook page announced on 2011-05-27 that Steve Leckman would join camp staff for summer 2011. Separately, Leckman is a real person who founded a genuine, still-operating Montreal nature-connection education organization — but every source names it "The Coyote Club" or "Programmes Coyote"/"Coyote Programs," never "Coyote Camp." The KB already held an unrelated fact (f_0617) documenting Kanawana's own internal 2017 session also called "Coyote Camp" (the Emma Anders song). No source connects Leckman to that 2017 session. The most defensible read: the operator's recollection blends two true memories — Leckman's real 2011 staff connection, and the borrowed name of Kanawana's own unrelated internal session. Spawned `wiki/people/steve-leckman.md` as a stub, with the disambiguation stated explicitly, and added a cross-linked entry in `notable-alumni.md`.
+
+### F.M. Van Wagner / Camp Nominingue personnel link (p_220)
+
+24 queries across 12+ surfaces (general web, McGill's own athletics site, Camp Nominingue's own site, QAHN, Trent University Archives, Concordia University Archives, WikiTree/genealogy, McGill digitized yearbooks, Newspapers.com, Ontario Camps Association, HathiTrust, BAnQ-oriented search). F.M. Van Wagner's documented biography is continuous and leaves no gap for an undocumented Kanawana stint: born Hyde Park, NY, 1894; Springfield College B.P.E. 1920; McGill assistant PE director/track coach from September 1920 onward without interruption; founded Camp Nominingue in July 1925 while still at McGill; died Montreal, 1989. No source anywhere links him, or any other Wagner, to Camp Kanawana. This closes the operator's specific hypothesis as tested and unconfirmed. The one remaining, genuinely untested avenue is physical examination of two Concordia-held camp histories from exactly the right era — Ralph Dawson's 1933 "History of Kamp Kanawana" and R.L. Charlton's 1943 "Notes re Early Days of YMCA Camps at Lake St. Joseph and Kanawana" — plus a 1911-1926 Permanent Camp Committee minute book, none digitized or indexed by individual staff name online.
+
+### CIT program in national context (p_221)
+
+19 queries across 5+ surfaces (Wikipedia, the American Camp Association's own history timeline, Trent University Archives' OCA and CCA fonds finding aids, Taylor Statten Camps, general web/scholarship search). No single national origin event for the term "counsellor-in-training"/"CIT" was found anywhere — Wikipedia's own CIT article, the ACA's history timeline, and both Trent finding aids all came up null on the term itself. The strongest institutional link instead runs through Hedley S. Dimock, already documented in this KB for an unrelated reason (his son Hedley Gardner Dimock's 1960-61 Kanawana counsellor-training research) — Dimock senior ran YMCA College Chicago's Summer Camp Institutes on camp "character education" from 1930-1948 and co-authored *Talks to Counselors* (1939) directly with Taylor Statten. Notably, H.G. Dimock's Kanawana fieldwork coincides with Kanawana's own earliest documented CIT cohort (the 1960 Ron McCallum plaque) — a circumstantial, not proven, connection now flagged in `cit-lit-program.md`. A search-engine synthesis of the Taylor Statten Camps history page (direct fetch blocked, HTTP 403) suggests TSC's own formal CIT program dates only to the 1970s-80s — if that holds up under future verification, Kanawana's 1960 program would be early rather than a late follower of the province's flagship camp.
+
+### Bounded CCA/QCA mop-up (p_222)
+
+8 queries (capped by design). Direct fetches of both institutions' full master finding-aid PDFs (Concordia's YMCA of Montreal fonds PDF and Trent's Ontario Camps Association fonds PDF) confirmed: Concordia's P0145/12B05 ("Staff, counsellors") is a genuine, cataloged sub-sub-series with an explicit access-restriction note — real content exists, but no item-level file listing is published online, and the legacy concordia.ca box-listing webpage for it now returns 404 (site fully migrated to AtoM). The OCA "Kanawana (1940)" brochure file's verbatim surrounding entry text was captured directly, and its separate photograph-inventory appendix was checked and contains no Kanawana entries. No new angle was attempted on the long-standing Derek Walsh or CCA/OCA-meeting-attendance open questions, per instructions to prioritize the two previously-untested leads.
+
+### Integration
+
+22 new KB facts (f_1986-f_2007). 18 new source records (17 wholly new plus one, `src_concordia_ymca_fonds_12a`, already existing and simply re-cited). No new conflict records — every finding either corroborates, refines, or closes an already-open question rather than contradicting an existing fact. 4 wiki articles updated (`canadian-camping-movement.md`, `cit-lit-program.md`, `notable-alumni.md`, plus the new `steve-leckman.md` stub); `wiki/articles.json` updated accordingly. KB v5.09 -> v5.10.
+
+### Outcome
+
+Of the three named leads, one (Leckman/Coyote Club) confirmed a real but differently-named connection; two (Evis/Paddlefoot, Van Wagner/Nominingue) came back as genuine, well-searched null results rather than confirmations of the operator's specific recollections — logged transparently as such rather than forced into a positive finding. The CIT-national-context and CCA/QCA mop-up passes both surfaced incremental, real refinements (the Dimock circumstantial link; the P0145/12B05 and OCA-brochure archival confirmations) without overturning any existing conclusion. This batch is a useful reminder that Phase 2's "wide net" methodology is equally valuable for closing operator-supplied leads honestly as it is for finding new material — an unconfirmed oral-history claim, tested exhaustively and logged as such, is a genuine research product in its own right.
+
+## Campaign 75 (2026-07-13): Operator-Confirmed Robb Evis Tenure + Tim Van Dam Research
+
+Direct follow-up to Campaign 74's p_218 (Rob Evis/Paddlefoot), which had closed as `exhausted-web`
+after a null 31-query, 10-surface sweep found no documentary link between Evis and Kanawana. The
+operator supplied exactly the missing detail: direct personal testimony that he worked alongside
+Robb Evis (operator's own spelling correction — double-b) at Kanawana in 1993 and 1994, plus a new
+lead, Tim Van Dam, possibly connected to both Paddlefoot and Kanawana.
+
+### Recording the operator's testimony
+
+This KB already has an established category for exactly this situation — `confidence:
+"user_knowledge"`, sourced to `src_oral_aronson` — used elsewhere for tenures like Arleen Boyer's
+and Joanna Hoad's directorships, which are also undocumented by any independent web source. Two
+new facts (f_2008, f_2009) record the operator's account, without touching or overwriting f_1991
+(the earlier null-result fact) — both stand side by side, one describing the state of public
+documentary evidence, the other the operator's direct testimony. Spawned
+`wiki/people/notable-alumni/robb-evis.md` as a stub, now that Evis clears the Article Spawning
+Threshold ("named person who held a camp role").
+
+### p_223: Bounded plaque/photo re-mining (not a repeat of the prior sweep)
+
+Rather than re-running the same broad web query set, this pass went straight to Kanawana's own
+primary materials, now that specific years (1993-94) narrow the search. The Flickr plaque album
+(151 photos) is already cached locally in this repo at `assets/images/plaques/`, so no re-fetch
+was needed — the cached 1993 "C.I.T.'s of '93" plaque image was re-examined directly. This
+surfaced two additional legible CIT names beyond the 27 already transcribed (Simon Bergeron, Alex
+Bullhorn — `f_1568` updated accordingly), plus two more surnames ("Bacon," "Borratt") whose first
+names remain illegible even on close re-inspection. Neither "Evis" nor "Van Dam" appears anywhere
+on this plaque. No 1994 staff/CIT roster plaque exists in the album at all — it jumps directly
+from `cit-1993.jpg` to `cit-1995.jpg`; only a nameless "Nature Trip 1994" board is dated 1994. A
+direct re-read of Paddlefoot's and Wilderness Safety Systems' own bio pages found no Kanawana
+mention for either founder — interestingly, co-founder Sue (O'Rorke) Evis's own bio *does* name a
+specific camp background, but it's Taylor Statten Camps, not Kanawana. One genuine gap remains:
+the 1993 plaque's Flickr photo page has exactly one comment that loads dynamically via JavaScript
+and is inaccessible to this project's fetch tools — a human with a logged-in browser could check
+it in under a minute; flagged as a specific, low-effort follow-up rather than closed off.
+
+### p_224: Tim Van Dam (formal RALPH, blank slate)
+
+33 queries across general web search, Flickr, Paddlefoot's and Wilderness Safety Systems' own
+sites, NWTRPA's site, LinkedIn, Facebook, Instagram, TikTok, Quebec/federal business registries,
+and canoe-tripping forums (myccr.com, Ottertooth). The most substantive find: a "Tim Van Dam"
+appears by name alongside Robb Evis in two 2009-dated Wilderness Safety Systems training photos
+on the organization's own Flickr account — a real, citable connection to the Evis/Paddlefoot
+orbit, partially validating the operator's instinct. However, no source anywhere connects any Tim
+Van Dam to Camp Kanawana specifically. A same-named individual — Interim Executive Director of
+the Northwest Territories Recreation and Parks Association, with a career "in camps, aquatics,
+wilderness guiding, and outdoor and experiential education" — is a plausible but entirely
+unconfirmed match to the WSS photos' Van Dam (career-shape resemblance only, no sourced identity
+link). Worth flagging: Wayback Machine access was blocked in this research environment throughout,
+meaning an older Paddlefoot/WSS staff bio page (which might name Kanawana or clarify Van Dam's
+role) could not be checked — a genuine tooling gap, not a fully exhausted avenue, and worth a
+retry if archive.org access becomes available in a future session. An AI-search-summary
+misattribution (a different instructor's bio, "Tim Martin," briefly and incorrectly surfaced as
+Van Dam's) was caught and corrected by direct source verification before it could enter the KB —
+a reminder to verify AI-synthesized search summaries against the underlying page before citing.
+
+### Integration
+
+7 new KB facts (f_2008-f_2014) plus one refinement to an existing fact (f_1568). 6 new source
+records. 1 new wiki article (`robb-evis.md`, stub); `notable-alumni.md` updated (new entry,
+resolved Open Question #8, new source). No new conflict records. KB v5.11 -> v5.12.
+
+### Outcome
+
+A clean example of the project's oral-history protocol working as designed: an unconfirmed lead
+from Campaign 74 was neither forced into a false "confirmed" state nor left stuck at "unconfirmed"
+indefinitely — the operator's direct testimony resolved it at the confidence level this KB already
+treats as authoritative for exactly this kind of gap, while the parallel web research honestly
+reported what it could and couldn't verify independently, including flagging genuine remaining
+gaps (the inaccessible Flickr comment, blocked Wayback Machine access) rather than papering over
+them as exhausted.

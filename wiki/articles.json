@@ -2115,6 +2115,12 @@
           "at": "2026-07-11T00:00:00Z",
           "by": "auto",
           "task": "REVIEW"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-07-13T00:00:00Z",
+          "by": "auto",
+          "task": "VERIFY"
         }
       ],
       "ralph_loops_completed": 1,
@@ -2174,7 +2180,14 @@
         "f_1360",
         "f_1883",
         "f_1884",
-        "f_1889"
+        "f_1889",
+        "f_1997",
+        "f_1998",
+        "f_1999",
+        "f_2000",
+        "f_2001",
+        "f_2006",
+        "f_2007"
       ],
       "sources_cited": [
         "src_camp_stephens_alumni_blog",
@@ -2191,7 +2204,12 @@
         "src_ymca_website",
         "src_trent_oca_fonds_72_007",
         "src_concordia_atom_12B05",
-        "src_ia_ymca_annual_1989_fr"
+        "src_ia_ymca_annual_1989_fr",
+        "src_mcgill_hof_vanwagner",
+        "src_newspapers_gazette_vanwagner_obit_1989",
+        "src_concordia_ymca_fonds_12a",
+        "src_concordia_master_finding_aid_pdf",
+        "src_trent_oca_master_finding_aid_pdf"
       ],
       "open_questions": 6,
       "cross_links": [
@@ -2202,8 +2220,8 @@
         "sources-index"
       ],
       "file_id": null,
-      "word_count": 2562,
-      "notes": "v4.75: McEwen as CCA co-founder with Taylor Statten added. | 2026-07-11: Workstream A Wave 1 prose-sediment REVIEW pass -- added the standardized two-line header (previously had only the old-style HTML-comment header), moved the c_020 (OCA founding-date reconciliation) editorial-resolution narrative into a new visible Revision History section. Corrected open_questions count (was stale at 5, actual is 6). No facts, citations, or open questions dropped; status unchanged.",
+      "word_count": 2940,
+      "notes": "v4.75: McEwen as CCA co-founder with Taylor Statten added. | 2026-07-11: Workstream A Wave 1 prose-sediment REVIEW pass -- added the standardized two-line header (previously had only the old-style HTML-comment header), moved the c_020 (OCA founding-date reconciliation) editorial-resolution narrative into a new visible Revision History section. Corrected open_questions count (was stale at 5, actual is 6). No facts, citations, or open questions dropped; status unchanged. | 2026-07-13: Campaign 74 -- closed the Van Wagner/Nominingue personnel-link hypothesis (Open Question #4) as no-link-found after 24 queries; re-confirmed P0145/12B05 and the OCA Kanawana(1940) brochure file details directly against both institutions' master finding-aid PDFs.",
       "tags": {
         "era": [
           "1880s",
@@ -5799,6 +5817,18 @@
           "at": "2026-07-11T00:00:00Z",
           "by": "auto",
           "task": "REVIEW"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-07-13T00:00:00Z",
+          "by": "auto",
+          "task": "RESEARCH"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-07-13T00:00:00Z",
+          "by": "auto",
+          "task": "RESEARCH"
         }
       ],
       "ralph_loops_completed": 3,
@@ -5868,12 +5898,23 @@
         "f_1237",
         "f_1562",
         "f_1890",
-        "f_1882"
+        "f_1882",
+        "f_1991",
+        "f_1992",
+        "f_1993",
+        "f_1994",
+        "f_1995",
+        "f_1996",
+        "f_2008",
+        "f_2009"
       ],
       "sources_cited": [
-        "src_aca_dimock_award_recipients_2022_2026"
+        "src_aca_dimock_award_recipients_2022_2026",
+        "src_leckman_fb_ykanawana2011",
+        "src_leckman_wilderness_awareness",
+        "src_oral_aronson"
       ],
-      "open_questions": 6,
+      "open_questions": 7,
       "cross_links": [
         "bruce-netherwood",
         "carol-skinner",
@@ -5890,10 +5931,12 @@
         "sean-day",
         "stuart-mclean",
         "terry-mosher",
-        "traditions-and-culture"
+        "traditions-and-culture",
+        "steve-leckman",
+        "robb-evis"
       ],
       "file_id": null,
-      "word_count": 1980,
+      "word_count": 2280,
       "tags": {
         "era": [
           "1910s",
@@ -5921,7 +5964,7 @@
         ],
         "is_hub": true
       },
-      "notes": "2026-07-11: Split John Cleghorn, Chris Adam, James Orbinski out to standalone articles (Workstream C1); trimmed their entries to pointers, fixed header sediment, added Research Notes/Revision History section. No facts dropped. | 2026-07-11: Split Bruce Netherwood out to a standalone article (was actually a documented Director 1988-1994, not merely a Pip Award recipient); trimmed entry to a pointer. | 2026-07-11: Split Richard Patten, Carol Skinner, Sam Lazarus, R.L. Charlton out to standalone articles; trimmed their entries to pointers."
+      "notes": "2026-07-11: Split John Cleghorn, Chris Adam, James Orbinski out to standalone articles (Workstream C1); trimmed their entries to pointers, fixed header sediment, added Research Notes/Revision History section. No facts dropped. | 2026-07-11: Split Bruce Netherwood out to a standalone article (was actually a documented Director 1988-1994, not merely a Pip Award recipient); trimmed entry to a pointer. | 2026-07-11: Split Richard Patten, Carol Skinner, Sam Lazarus, R.L. Charlton out to standalone articles; trimmed their entries to pointers. | 2026-07-13: Campaign 74 -- added Steve Leckman entry (spawned to standalone stub) and Open Question #8 (Rob Evis/Paddlefoot, tested/unconfirmed). | 2026-07-13 (Campaign 75): operator confirmed Robb Evis's 1993-94 Kanawana tenure directly; added entry and resolved Open Question #8; spawned robb-evis.md."
     },
     {
       "article_id": "environmental-history",
@@ -8203,6 +8246,12 @@
           "at": "2026-07-11T00:00:00Z",
           "by": "auto",
           "task": "WRITE"
+        },
+        {
+          "status": "draft",
+          "at": "2026-07-13T00:00:00Z",
+          "by": "auto",
+          "task": "RESEARCH"
         }
       ],
       "ralph_loops_completed": 1,
@@ -8221,7 +8270,11 @@
         "f_1614",
         "f_1615",
         "f_1654",
-        "f_1796"
+        "f_1796",
+        "f_2002",
+        "f_2003",
+        "f_2004",
+        "f_2005"
       ],
       "sources_cited": [
         "src_kanawana_facts",
@@ -8229,7 +8282,13 @@
         "src_flickr_kanawana_plaque_album",
         "src_ymcaq_trailblazers_2026",
         "src_ymcaq_lit_guide_2026",
-        "src_leigh_evans_blog"
+        "src_leigh_evans_blog",
+        "src_wikipedia_cit",
+        "src_aca_history_timeline",
+        "src_trent_oca_master_finding_aid_pdf",
+        "src_cca_fonds_trentu",
+        "src_tsc_history_page",
+        "src_concordia_ymca_fonds_12a"
       ],
       "open_questions": 3,
       "cross_links": [
@@ -8237,11 +8296,12 @@
         "a-ross-seaman",
         "lv-games",
         "canoe-trips",
-        "notable-alumni"
+        "notable-alumni",
+        "hedley-dimock"
       ],
       "file_id": null,
-      "word_count": 573,
-      "notes": "2026-07-11: Workstream C3 spawn -- structured, decades-spanning program synthesized from 5 scattered articles into a standalone article. No new research conducted. Individual plaque-roster names deliberately not reproduced here (privacy carve-out for C5-listed names already collectively catalogued in directors-index.md).",
+      "word_count": 1050,
+      "notes": "2026-07-11: Workstream C3 spawn -- structured, decades-spanning program synthesized from 5 scattered articles into a standalone article. No new research conducted. Individual plaque-roster names deliberately not reproduced here (privacy carve-out for C5-listed names already collectively catalogued in directors-index.md). | 2026-07-13: Campaign 74 (priority p_221) -- added \"Kanawana's CIT Program in National Context\" section; no single national CIT origin event found, strongest link runs through Hedley S. Dimock (already in KB).",
       "tags": {
         "era": [
           "1960s",
@@ -8929,6 +8989,123 @@
         "topics": [
           "directors",
           "staff"
+        ],
+        "is_hub": false
+      }
+    },
+    {
+      "article_id": "steve-leckman",
+      "title": "Steve Leckman",
+      "wiki_folder": "people/notable-alumni",
+      "status": "stub",
+      "status_history": [
+        {
+          "status": "stub",
+          "at": "2026-07-13T00:00:00Z",
+          "by": "auto",
+          "task": "RESEARCH"
+        }
+      ],
+      "ralph_loops_completed": 1,
+      "kb_facts_used": [
+        "f_1992",
+        "f_1993",
+        "f_1994",
+        "f_1995",
+        "f_1996"
+      ],
+      "sources_cited": [
+        "src_leckman_fb_ykanawana2011",
+        "src_leckman_wilderness_awareness",
+        "src_programmescoyote_campsquebec",
+        "src_leckman_fb_resiliencendg2020"
+      ],
+      "open_questions": 3,
+      "cross_links": [
+        "notable-alumni",
+        "canadian-camping-movement"
+      ],
+      "file_id": null,
+      "word_count": 460,
+      "notes": "2026-07-13: Campaign 74 spawn (priority p_219). Formal RALPH cycle confirmed a real 2011 Kanawana staff connection and disambiguated Leckman's actual organization (\"The Coyote Club\"/\"Programmes Coyote\") from the operator's recollection of \"Coyote Camp\" -- explicitly distinct from Kanawana's own unrelated internal 2017 \"Coyote Camp\" session (f_0617). Set to stub: only one source documents the Kanawana connection itself.",
+      "tags": {
+        "era": [
+          "2010s",
+          "2020s"
+        ],
+        "region": "montreal",
+        "location_refs": [],
+        "person_type": "alumnus",
+        "topics": [
+          "notable_alumni",
+          "people"
+        ],
+        "is_hub": false
+      }
+    },
+    {
+      "article_id": "robb-evis",
+      "title": "Robb Evis",
+      "wiki_folder": "people/notable-alumni",
+      "status": "stub",
+      "status_history": [
+        {
+          "status": "stub",
+          "at": "2026-07-13T00:00:00Z",
+          "by": "auto",
+          "task": "RESEARCH"
+        }
+      ],
+      "ralph_loops_completed": 1,
+      "kb_facts_used": [
+        "f_2008",
+        "f_2009",
+        "f_1986",
+        "f_1987",
+        "f_1988",
+        "f_1989",
+        "f_1990",
+        "f_2010",
+        "f_2011",
+        "f_2012",
+        "f_2013",
+        "f_2014",
+        "f_1568"
+      ],
+      "sources_cited": [
+        "src_oral_aronson",
+        "src_paddlefoot_history",
+        "src_flickr_kanawana_plaque_album",
+        "src_paddlefoot_director",
+        "src_corp_registry_paddlefoot",
+        "src_paddlefoot_home",
+        "src_wss_our_staff",
+        "src_wss_about",
+        "src_paddlefoot_wss2",
+        "src_flickr_wss_live_bait",
+        "src_flickr_wss_line_rescue",
+        "src_nwtrpa_tim_van_dam",
+        "src_web_search_exhausted"
+      ],
+      "open_questions": 3,
+      "cross_links": [
+        "notable-alumni",
+        "steve-leckman"
+      ],
+      "file_id": null,
+      "word_count": 650,
+      "notes": "2026-07-13: Campaign 75 spawn. Operator directly confirmed Evis's 1993-94 Kanawana staff tenure (oral history, confidence: user_knowledge), resolving notable-alumni.md's Open Question #8. Combines this with the already-sourced Paddlefoot/Wilderness Safety Systems facts from Campaign 74 (p_218). Set to stub: Kanawana connection rests on a single oral-history source pending independent documentary corroboration (see parallel p_223 plaque re-mining pass).",
+      "tags": {
+        "era": [
+          "1990s",
+          "2020s"
+        ],
+        "region": "montreal",
+        "location_refs": [],
+        "person_type": "alumnus",
+        "topics": [
+          "notable_alumni",
+          "people"
         ],
         "is_hub": false
       }

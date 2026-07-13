@@ -1,8 +1,8 @@
 {
   "version": "v4.98",
-  "kb_version": "v5.09",
+  "kb_version": "v5.12",
   "migrated_from": "3.3",
-  "fact_count": 1947,
+  "fact_count": 1976,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -26433,7 +26433,7 @@
     },
     {
       "fact_id": "f_1568",
-      "claim": "A dining-hall plaque titled 'C.I.T.'s of '93' names Sophie Caisse and Simon Heller as the two 'directors' of the 1993 CIT program, with 32 CITs listed by name including Matt Aronson (the wiki project's operator, who confirms his own attendance as a CIT that summer). Other legible names: Monique Ah-Sue, Kosyo Bradbury, Chris Gayton, Ali Liebich, Aimee Castle, Sam Grossman, Toby Lyle, Tracey Azeff, Lisa Cecchini, Ryan Harbinson, Katie Musgrave, Marisa Bacchiochi, Kippie Clark, Katie Havercroft, Andrea Pahl, Adrian di Giovanni, Andrew Heathcote, Adam Perritt, Talia Dorsey, Andrew Henle, Maurice Presser, Dave Drury, Steph Hurlburt, Rob Starke, Susan Gamberg, Alison Leduc, Mara Welch. Several first names in the leftmost column are illegible in the photograph (handwriting/lighting) and are omitted here pending a clearer image or operator confirmation.",
+      "claim": "A dining-hall plaque titled 'C.I.T.'s of '93' names Sophie Caisse and Simon Heller as the two 'directors' of the 1993 CIT program, with 32 CITs listed by name including Matt Aronson (the wiki project's operator, who confirms his own attendance as a CIT that summer). Other legible names: Monique Ah-Sue, Kosyo Bradbury, Chris Gayton, Ali Liebich, Aimee Castle, Sam Grossman, Toby Lyle, Tracey Azeff, Lisa Cecchini, Ryan Harbinson, Katie Musgrave, Marisa Bacchiochi, Kippie Clark, Katie Havercroft, Andrea Pahl, Adrian di Giovanni, Andrew Heathcote, Adam Perritt, Talia Dorsey, Andrew Henle, Maurice Presser, Dave Drury, Steph Hurlburt, Rob Starke, Susan Gamberg, Alison Leduc, Mara Welch. A closer re-examination (Campaign 75, 2026-07-13) additionally identified Simon Bergeron and Alex Bullhorn among the CITs (moderate confidence -- direct visual read of cursive handwriting, no independent corroboration). Two more surnames are legible in the same column, 'Bacon' and 'Borratt,' but their first names remain illegible even on re-inspection and are omitted pending a clearer image or operator confirmation. Neither 'Evis' nor 'Van Dam' appears anywhere on this plaque.",
       "sources": [
         "src_flickr_kanawana_plaque_album",
         "src_oral_aronson"
@@ -26449,7 +26449,7 @@
       ],
       "date_ref": "1993",
       "conflicts_with": [],
-      "added_version": "v4.9x",
+      "added_version": "v5.12",
       "added_by": "manual"
     },
     {
@@ -33715,6 +33715,513 @@
       "date_ref": null,
       "conflicts_with": [],
       "added_version": "v5.09",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1986",
+      "claim": "Paddlefoot is an Ontario-based wilderness adventure/canoe-tripping organization headquartered at 1035 Long Line Lake Rd., Baysville, ON, described on its own site as 'originally a summer camp for youth,' now offering canoe trips, wilderness education, and safety training for youth, adults, families and groups.",
+      "sources": [
+        "src_paddlefoot_home"
+      ],
+      "confidence": "stated",
+      "category": "programs",
+      "entities": [
+        "Paddlefoot"
+      ],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "v5.10",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1987",
+      "claim": "Paddlefoot was founded in 1996 by 'Robb and Sue,' who had studied International Development Studies and traveled internationally before returning to Canada; wilderness education/training programs (whitewater rescue, first aid, paddling courses) began in 1997.",
+      "sources": [
+        "src_paddlefoot_history"
+      ],
+      "confidence": "stated",
+      "category": "programs",
+      "entities": [
+        "Paddlefoot",
+        "Rob Evis"
+      ],
+      "date_ref": "1996",
+      "conflicts_with": [],
+      "added_version": "v5.10",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1988",
+      "claim": "Robert 'Robb' Evis is a founding member and Director/Head Instructor of Paddlefoot Inc. and its affiliate Wilderness Safety Systems. He grew up in Montreal, Quebec, holds a Bachelor's degree from the University of Western Ontario, is a certified Ontario paramedic (part-time, Muskoka Ambulance Service), and holds instructor certifications with Rescue 3 International, Wilderness Medical Associates International, the Canadian Heart and Stroke Foundation, and Raven Rescue.",
+      "sources": [
+        "src_paddlefoot_director"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "Rob Evis",
+        "Paddlefoot",
+        "Wilderness Safety Systems"
+      ],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "v5.10",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1989",
+      "claim": "Paddlefoot Inc. is registered with Corporations Canada (federal corporation #3378454, Business Number 887266674), incorporated May 28, 1997, registered address 1035 Long Line Lake Road, Baysville, ON; director of record is Robert Charles Evis. The corporation was dissolved June 10, 2004, then revived June 6, 2007.",
+      "sources": [
+        "src_corp_registry_paddlefoot"
+      ],
+      "confidence": "stated",
+      "category": "programs",
+      "entities": [
+        "Paddlefoot",
+        "Rob Evis"
+      ],
+      "date_ref": "1997-05-28",
+      "conflicts_with": [],
+      "added_version": "v5.10",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1990",
+      "claim": "Camp Kanawana's own official team page names Marie-Pierre Lacasse, not Rob Evis, as the person who served as 'Expeditions Director' 2007-2010 -- the only 'expeditions director' role identified at Kanawana in this research.",
+      "sources": [
+        "src_ymca_kanawana_team_page"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "Marie-Pierre Lacasse",
+        "Camp Kanawana",
+        "Rob Evis"
+      ],
+      "date_ref": "2007-2010",
+      "conflicts_with": [],
+      "added_version": "v5.10",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1991",
+      "claim": "No source found establishes any connection between Rob Evis / Paddlefoot and Camp Kanawana, despite 31 distinct queries across 10 different search surfaces (general web, Paddlefoot's own site, Wilderness Safety Systems, Corporations Canada registry, Camp Kanawana's own site, LinkedIn, Facebook, IMDb, Reddit, Instagram, and the myccr.com canoe-tripping forum). The operator's claim that Rob Evis is a former Kanawana alumnus who founded Paddlefoot remains unconfirmed oral history, not corroborated by any documented source.",
+      "sources": [
+        "src_web_search_exhausted"
+      ],
+      "confidence": "inferred",
+      "category": "people",
+      "entities": [
+        "Rob Evis",
+        "Paddlefoot",
+        "Camp Kanawana"
+      ],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "v5.10",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1992",
+      "claim": "Camp YMCA Kanawana's own Facebook page posted on 2011-05-27 that Steve Leckman (shown in the TOU.TV film 'Chercher le courant,' aired 2011-04-22) 'will be working at camp next summer' -- i.e., as Kanawana staff for summer 2011.",
+      "sources": [
+        "src_leckman_fb_ykanawana2011"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "Steve Leckman",
+        "Camp Kanawana"
+      ],
+      "date_ref": "2011",
+      "conflicts_with": [],
+      "added_version": "v5.10",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1993",
+      "claim": "Steve Leckman founded 'The Coyote Club,' described as a monthly nature-connection program operated through the YMCAs of Quebec, meeting in the forests of a Mohawk reserve, for children ages 7-13; he has led nature-connection/mentoring programs in the Montreal area since 2011, and as of ~2020 was coordinating his first-ever week-long sleep-away camp (40 children enrolled).",
+      "sources": [
+        "src_leckman_wilderness_awareness"
+      ],
+      "confidence": "stated",
+      "category": "programs",
+      "entities": [
+        "Steve Leckman",
+        "The Coyote Club"
+      ],
+      "date_ref": "2011-2020",
+      "conflicts_with": [],
+      "added_version": "v5.10",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1994",
+      "claim": "Steve Leckman's organization currently operates as 'Programmes Coyote'/'Coyote Programs,' running week-long day camps (not sleep-away) at Parc Angrignon, Montreal (3400 Trinitaires Blvd), for children ages 6-12, with weekly visits from Kanien'kehaka (Mohawk) knowledge keepers.",
+      "sources": [
+        "src_programmescoyote_campsquebec"
+      ],
+      "confidence": "stated",
+      "category": "programs",
+      "entities": [
+        "Steve Leckman",
+        "Programmes Coyote"
+      ],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "v5.10",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1995",
+      "claim": "Steve Leckman is described in a 2020-06-26 social media post as 'director of Coyote Programs in Montreal,' offering foraging and nature-connection workshops.",
+      "sources": [
+        "src_leckman_fb_resiliencendg2020"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "Steve Leckman",
+        "Coyote Programs"
+      ],
+      "date_ref": "2020",
+      "conflicts_with": [],
+      "added_version": "v5.10",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1996",
+      "claim": "No source found anywhere uses the exact name 'Coyote Camp' for Steve Leckman's organization -- every source consistently names it 'The Coyote Club' or 'Programmes Coyote'/'Coyote Programs.' No source connects Leckman to Kanawana's own unrelated internal 2017 'Coyote Camp' session (f_0617, the Emma Anders song). The most likely explanation for the operator's recollection of 'Steve Leckman founded Coyote Camp' is a name-blend of two separately true memories: Leckman's real 2011 Kanawana staff connection, and the name of Kanawana's own unrelated 2017 internal session.",
+      "sources": [
+        "src_web_search_exhausted"
+      ],
+      "confidence": "inferred",
+      "category": "programs",
+      "entities": [
+        "Steve Leckman",
+        "Coyote Camp",
+        "The Coyote Club",
+        "Camp Kanawana"
+      ],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "v5.10",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1997",
+      "claim": "F.M. Van Wagner was born Floyd Marcellus Van Wagner on March 27, 1894 in Hyde Park, New York, and died in Montreal on June 15, 1989.",
+      "sources": [
+        "src_mcgill_hof_vanwagner"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "F.M. Van Wagner"
+      ],
+      "date_ref": "1894-1989",
+      "conflicts_with": [],
+      "added_version": "v5.10",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1998",
+      "claim": "F.M. Van Wagner graduated from Springfield College with a B.P.E. in 1920 and served as assistant physical education director and track coach at McGill University from September 1920 until 1944, and as a professor there until 1954 -- a continuous career with no documented gap for an undocumented Kanawana staff stint.",
+      "sources": [
+        "src_mcgill_hof_vanwagner"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "F.M. Van Wagner",
+        "McGill University",
+        "Springfield College"
+      ],
+      "date_ref": "1920-1954",
+      "conflicts_with": [],
+      "added_version": "v5.10",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1999",
+      "claim": "An obituary for F.M. Van Wagner was published in the Montreal Gazette on July 9, 1989 (existence confirmed via Newspapers.com listing; full text not accessible to automated fetch -- paywalled).",
+      "sources": [
+        "src_newspapers_gazette_vanwagner_obit_1989"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "F.M. Van Wagner"
+      ],
+      "date_ref": "1989-07-09",
+      "conflicts_with": [],
+      "added_version": "v5.10",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_2000",
+      "claim": "The Concordia University YMCA of Montreal fonds, sub-series 12A, Box HA2307, holds 'History of Kamp Kanawana' by Ralph Dawson (1933), 'Notes re Early Days of YMCA Camps at Lake St. Joseph and Kanawana' by R.L. Charlton (1943), and a Permanent Camp Committee minute book spanning 1911-1926 -- none named at item level as containing any 'Wagner,' but none examined at document level either.",
+      "sources": [
+        "src_concordia_ymca_fonds_12a"
+      ],
+      "confidence": "stated",
+      "category": "documents",
+      "entities": [
+        "Ralph Dawson",
+        "R.L. Charlton",
+        "Permanent Camp Committee",
+        "Camp Kanawana"
+      ],
+      "date_ref": "1911-1943",
+      "conflicts_with": [],
+      "added_version": "v5.10",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_2001",
+      "claim": "No link was found between any Wagner or Van Wagner and Camp Kanawana after 24 distinct queries across 12+ surfaces (general web, McGill's own athletics site, Camp Nominingue's own site, QAHN, Trent University Archives, Concordia University Archives, WikiTree/genealogy sites, McGill digitized yearbooks, Newspapers.com, Ontario Camps Association, HathiTrust, and BAnQ-oriented search). F.M. Van Wagner's documented biography is continuous -- Hyde Park NY (1894) to Springfield College (1920) to McGill PE department (1920 onward, uninterrupted) to founding Camp Nominingue (1925) -- leaving no gap for an undocumented Kanawana stint. The operator's specific hypothesis of a Kanawana-affiliated Wagner in the 1920s-30s is tested and unconfirmed by open-web research; only physical examination of Concordia's Dawson (1933) and Charlton (1943) camp histories and the 1911-1926 Permanent Camp Committee minutes (f_2000) remains as a genuine, untested avenue.",
+      "sources": [
+        "src_web_search_exhausted"
+      ],
+      "confidence": "inferred",
+      "category": "chronology",
+      "entities": [
+        "F.M. Van Wagner",
+        "Camp Kanawana",
+        "Camp Nominingue"
+      ],
+      "date_ref": "1920s-1930s",
+      "conflicts_with": [],
+      "added_version": "v5.10",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_2002",
+      "claim": "A search-engine synthesis of the Taylor Statten Camps history page (direct fetch blocked, HTTP 403) states: 'Into the 1970 and 80s, formal leadership programs were introduced, including two-year student counsellor, or counsellor in training (CIT) programs' -- suggesting Taylor Statten Camps' own formal CIT designation dates only to the 1970s-80s, later than Kanawana's earliest documented 1960 CIT cohort. This dating is flagged as unverified pending direct or Wayback Machine confirmation, since the source page could not be fetched directly.",
+      "sources": [
+        "src_tsc_history_page"
+      ],
+      "confidence": "disputed",
+      "category": "programs",
+      "entities": [
+        "Taylor Statten Camps",
+        "Camp Ahmek",
+        "Camp Wapomeo"
+      ],
+      "date_ref": "1970s-1980s",
+      "conflicts_with": [],
+      "added_version": "v5.10",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_2003",
+      "claim": "A YMCA of Montreal fonds item titled 'Camp leaders' training class' is dated [193-] (1930s), filed under committee studies/activity reports in sub-series 12A.",
+      "sources": [
+        "src_concordia_ymca_fonds_12a"
+      ],
+      "confidence": "inferred",
+      "category": "documents",
+      "entities": [
+        "YMCA of Montreal"
+      ],
+      "date_ref": "1930s",
+      "conflicts_with": [],
+      "added_version": "v5.10",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_2004",
+      "claim": "No mention of 'counsellor in training' or 'CIT' was found in either the Ontario Camping Association fonds finding-aid PDF or the Canadian Camping Association fonds finding-aid page at Trent University Archives -- both are administrative/metadata-level finding aids, not full-text magazine or program content.",
+      "sources": [
+        "src_trent_oca_master_finding_aid_pdf",
+        "src_cca_fonds_trentu"
+      ],
+      "confidence": "inferred",
+      "category": "programs",
+      "entities": [
+        "Ontario Camping Association",
+        "Canadian Camping Association"
+      ],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "v5.10",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_2005",
+      "claim": "The American Camp Association's official history timeline contains exactly one CIT-related entry -- a 2016 reference to leadership development through CIT programs in a staff-impact study -- with no earlier historical CIT milestone appearing anywhere on the timeline.",
+      "sources": [
+        "src_aca_history_timeline"
+      ],
+      "confidence": "stated",
+      "category": "programs",
+      "entities": [
+        "American Camp Association"
+      ],
+      "date_ref": "2016",
+      "conflicts_with": [],
+      "added_version": "v5.10",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_2006",
+      "claim": "Concordia's directly-downloadable YMCA of Montreal fonds master finding-aid PDF confirms P0145/12B05 ('Staff, counsellors') is a genuine, cataloged sub-sub-series in the Kamp Kanawana classification plan, with an explicit restriction note: 'Some files in sub-sub-series P0145/12B5 - Staff and counselors are restricted.' No item-level file listing (names, dates, roles) appears anywhere in the exported finding aid, and the legacy concordia.ca box-listing webpage for this sub-series now returns HTTP 404 (the site has migrated fully to the AtoM platform).",
+      "sources": [
+        "src_concordia_master_finding_aid_pdf"
+      ],
+      "confidence": "stated",
+      "category": "documents",
+      "entities": [
+        "Camp Kanawana"
+      ],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "v5.10",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_2007",
+      "claim": "The verbatim Trent University Archives OCA fonds entry for Box 1, Folder 5 reads: 'Glen Mohr Presbyterian Camp (1948), G.T.R. Cub Camps, Haliburton Scout Reserve, Hobachi (1961), Huron Presbytery Camp (1958), Hurontario, John Island, Inawendawin, John Island, Kagawong (receipts and expenditures, (1918)), Kakeba, Kanawana (1940), Kandalore (1967), Kawagama (1952), Kawabi (1952), Kawartha (1961, 1962, 1966), Kennaway (1954), Kenny (1954), Kiawa (1961)' -- a bare name-and-year citation with no further description. The finding aid's separate photograph-inventory appendix for this box range contains no Kanawana-tagged photograph entries, suggesting the file is brochure-only with no separately itemized photographs.",
+      "sources": [
+        "src_trent_oca_master_finding_aid_pdf"
+      ],
+      "confidence": "stated",
+      "category": "documents",
+      "entities": [
+        "Camp Kanawana",
+        "Ontario Camping Association"
+      ],
+      "date_ref": "1940",
+      "conflicts_with": [],
+      "added_version": "v5.10",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_2008",
+      "claim": "Robb Evis (also spelled 'Rob' informally) was a Camp Kanawana staff member in at least the 1993 and 1994 seasons, per the operator's direct personal account of having worked alongside him at camp those years.",
+      "sources": [
+        "src_oral_aronson"
+      ],
+      "confidence": "user_knowledge",
+      "category": "people",
+      "entities": [
+        "Robb Evis",
+        "Camp Kanawana",
+        "Matt Aronson"
+      ],
+      "date_ref": "1993-1994",
+      "conflicts_with": [],
+      "added_version": "v5.11",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_2009",
+      "claim": "The operator independently recalled the spelling 'Robb' (double-b) for Evis's name, matching the spelling already documented in Paddlefoot's own bio (f_1988, 'Robert \"Robb\" Evis') -- corroborating detail supporting that this is the same person, on top of the biographical plausibility of a Montreal-raised camp counsellor in his early-to-mid 20s founding an outdoor-education company (Paddlefoot, 1996) two to three years after a 1993-94 camp staff role.",
+      "sources": [
+        "src_oral_aronson"
+      ],
+      "confidence": "user_knowledge",
+      "category": "people",
+      "entities": [
+        "Robb Evis",
+        "Paddlefoot"
+      ],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "v5.11",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_2010",
+      "claim": "Susan 'Sue' O'Rorke Evis, Paddlefoot's co-founder, states in her own bio that she 'began her canoe tripping life as a camper at Taylor Statten Camps' -- a different camp from Camp Kanawana.",
+      "sources": [
+        "src_wss_our_staff"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "Sue O'Rorke Evis",
+        "Taylor Statten Camps",
+        "Paddlefoot"
+      ],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "v5.12",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_2011",
+      "claim": "Paddlefoot and Wilderness Safety Systems' own current site pages name only Robert 'Robb' Evis and Susan 'Sue' O'Rorke Evis as founders/directors, plus staff Brad Davies, Marty Pomerleau, and Jamie Rosen -- no 'Van Dam' appears among any current founder, director, or staff listing.",
+      "sources": [
+        "src_wss_our_staff",
+        "src_wss_about",
+        "src_paddlefoot_wss2"
+      ],
+      "confidence": "stated",
+      "category": "programs",
+      "entities": [
+        "Paddlefoot",
+        "Wilderness Safety Systems",
+        "Robb Evis"
+      ],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "v5.12",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_2012",
+      "claim": "A person named Tim Van Dam appears alongside Robb Evis (and, in a second photo, Jake May and Bonnie Anderson) in wilderness-rescue training photographs posted by the Wilderness Safety Systems Flickr account, titled 'Live Bait -Tandem Rescue (Robb Evis, Tim Van Dam)' and 'Line Rescue (Rob Evis, Tim Van Dam, Jake May, Bonnie Anderson),' both dated 2009-01-20.",
+      "sources": [
+        "src_flickr_wss_live_bait",
+        "src_flickr_wss_line_rescue"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "Tim Van Dam",
+        "Robb Evis",
+        "Wilderness Safety Systems",
+        "Jake May",
+        "Bonnie Anderson"
+      ],
+      "date_ref": "2009",
+      "conflicts_with": [],
+      "added_version": "v5.12",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_2013",
+      "claim": "A Tim Van Dam is Interim Executive Director of the Northwest Territories Recreation and Parks Association, founder of 'South Slave Safety,' moved to the NWT in 2003, with a career described as 'in camps, aquatics, wilderness guiding, and outdoor and experiential education.' No source found confirms this is the same person as the Tim Van Dam in the Wilderness Safety Systems photographs (f_2012) -- the resemblance in career shape is circumstantial only, not a sourced identity match.",
+      "sources": [
+        "src_nwtrpa_tim_van_dam"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "Tim Van Dam",
+        "Northwest Territories Recreation and Parks Association"
+      ],
+      "date_ref": "2003",
+      "conflicts_with": [],
+      "added_version": "v5.12",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_2014",
+      "claim": "Despite 33 queries across 10+ search surfaces (general web, Flickr, Paddlefoot's and Wilderness Safety Systems' own sites, NWTRPA's site, LinkedIn, Facebook, Instagram, TikTok, Quebec/federal business registries, canoe-tripping forums), no source connects any Tim Van Dam to Camp Kanawana in any capacity. Wayback Machine access, which might have surfaced an older Paddlefoot/WSS staff bio page, was blocked in this research environment -- a genuine tooling gap rather than a fully exhausted result.",
+      "sources": [
+        "src_web_search_exhausted"
+      ],
+      "confidence": "inferred",
+      "category": "people",
+      "entities": [
+        "Tim Van Dam",
+        "Camp Kanawana"
+      ],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "v5.12",
       "added_by": "ralph_loop"
     }
   ]
