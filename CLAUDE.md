@@ -13,8 +13,11 @@ project/
 │   ├── conflicts.json        # Unresolved conflicts
 │   └── versions/             # KB version snapshots
 ├── wiki/
+│   ├── README.md             # Hub page: Kanawana's core identity, entry point to the wiki
 │   ├── articles.json         # Article status tracker
-│   ├── context/ programs/ people/ places/ chronology/ documents/ meta/
+│   ├── history/ site/ traditions/ people/ documents/ meta/   # core, 1 click from the hub
+│   ├── people/notable-alumni/                                # spoke, 2 clicks
+│   └── connections/institutional-lineage/ connections/related-camps/  # spokes, 2 clicks
 ├── queue/
 │   └── priorities.json       # Research priority queue
 └── logs/
@@ -166,13 +169,24 @@ Create stubs for newly discovered entities matching:
 - Publication or media
 - Program or activity with structure and evolution
 
+### Wiki Folder Placement — Hub and Spoke
+
+Folders encode distance from Kanawana's own core identity, not just topic. Core categories sit at the wiki root (one click from `wiki/README.md`); spoke content gets an extra folder level (two clicks), in proportion to how far it actually is from Kanawana itself:
+
+- **Core (`history/`, `site/`, `traditions/`, `people/`, `documents/`, `meta/`)** — the subject IS Kanawana: its own timeline, its own physical site, its own programming/culture, the people who built and ran it, its own media/documents. This includes articles that examine Kanawana through a wider social lens (e.g. coeducation, environmental education, land history) as long as Kanawana itself is the subject, not the wider phenomenon.
+- **`people/notable-alumni/`** — a person had real contact with camp (camper, brief staff role) but their enduring, defining biography is a life lived mostly *outside and after* Kanawana. Test: would this person have a Wikipedia-notable article even if Kanawana never existed? If yes, they belong here, not in core `people/`.
+- **`connections/institutional-lineage/`** — a parent or affiliated *institution* whose own history is much bigger than Kanawana's (e.g. YMCA of Montreal overall, Concordia/SGW, the national Canadian Camping Movement). Kanawana is one chapter in their story, not the reverse.
+- **`connections/related-camps/`** — a sibling *camp* operated by a genuinely separate organization (different YMCA branch, YWCA, independent foundation) that intersected with Kanawana's history. Camps operated by the same institution as Kanawana (e.g. an earlier or overflow YMCA of Montreal site) are core `site/`, not a related camp.
+
+When spawning a new stub, classify it into one of these five buckets before writing `wiki_folder`, and add it to the correct index page (`people/directors-index.md`, `people/notable-alumni/notable-alumni.md`, `connections/related-camps/quebec-camp-landscape.md`, etc.) so it's discoverable from the hub.
+
 ### Article Status Schema
 
 ```json
 {
   "article_id": "string",
   "title": "string",
-  "wiki_folder": "context|programs|people|places|chronology|documents|meta",
+  "wiki_folder": "history|site|traditions|people|people/notable-alumni|connections/institutional-lineage|connections/related-camps|documents|meta",
   "status": "stub|draft|R3-verified|E1-reviewed",
   "status_history": [{"status": "", "at": "ISO8601", "by": "auto|human", "task": "RESEARCH|VERIFY|WRITE|REVIEW"}],
   "ralph_loops_completed": 0,

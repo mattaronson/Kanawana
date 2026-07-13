@@ -19,7 +19,7 @@ The Camp Stephens alumni blog also credits McEwen as a co-founder of the Canadia
 
 ## Later Career and Death (1947–1956)
 
-McEwen left Montreal in 1947 to become General Secretary of the Saint John YMCA in New Brunswick, where he recruited several men to YMCA careers, including Ross Bannerman, Lloyd and Niles Ring, and Doug Allen.^8 Bannerman went on to direct Camp Pascobac (1951) and Camp Stephens (1956), and later authored a 1969 report on Kamp Kanawana held in the Concordia Archives — see [[places/camp-perrot|Camp Perrot]] and [[people/directors-index|Directors and Staff of Camp Kanawana]] for Bannerman's own documented Kanawana connections.^9
+McEwen left Montreal in 1947 to become General Secretary of the Saint John YMCA in New Brunswick, where he recruited several men to YMCA careers, including Ross Bannerman, Lloyd and Niles Ring, and Doug Allen.^8 Bannerman went on to direct Camp Pascobac (1951) and Camp Stephens (1956), and later authored a 1969 report on Kamp Kanawana held in the Concordia Archives — see [[site/camp-perrot|Camp Perrot]] and [[people/directors-index|Directors and Staff of Camp Kanawana]] for Bannerman's own documented Kanawana connections.^9
 
 In 1951, McEwen became the first Metropolitan General Secretary of the Winnipeg YMCA, a position he held until his death in active service in 1956.^1
 
@@ -38,9 +38,9 @@ Doug McEwen served as director of Camp Stephens from 1966 to 1970 and as Preside
 ## Related Articles
 
 - [[people/directors-index|Directors and Staff of Camp Kanawana]]
-- [[context/canadian-camping-movement|The Canadian Camping Movement]]
-- [[people/taylor-statten|Taylor Statten and the Canadian Camping Movement]]
-- [[places/camp-perrot|Camp Perrot]]
+- [[connections/institutional-lineage/canadian-camping-movement|The Canadian Camping Movement]]
+- [[connections/institutional-lineage/taylor-statten|Taylor Statten and the Canadian Camping Movement]]
+- [[site/camp-perrot|Camp Perrot]]
 
 ## Sources
 

@@ -24,7 +24,7 @@ Lacasse became Executive Director of Camp Kanawana in spring 2023.^3 In 2024 she
 
 - [[people/directors-index|Directors and Staff of Camp Kanawana]]
 - [[people/sean-day|Sean Day]]
-- [[programs/lv-games|The L&V Games]]
+- [[traditions/lv-games|The L&V Games]]
 
 ## Sources
 

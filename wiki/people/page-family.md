@@ -41,7 +41,7 @@ A grocery store on rue de la Gare in Saint-Sauveur was operated by **Télesphore
 
 The YMCA of Montreal purchased the Saint-Sauveur property from the Page family circa 1910, establishing Camp Kanawana at its current location.^1 The 1923 *Gas Bag* lists "Pages" as a hike destination from camp, suggesting the family still had a visible presence in the area.^7
 
-In 1960, the YMCA purchased additional land described as the "Pagé farm" to expand the camp property, though the acreage and terms of this purchase are not specified in available sources.^1 McMorris's thesis (read as a full PDF for the first time, 2026-07-09) gives a fuller account: the farm — "the building just outside the camp gate" — was bought "in order to assure Kanawana many years of camping on the site without cottage country encroaching," citing the YMCA's own 1960 Kamp Kanawana Annual Report.^12 Concordia's P145/12B03 finding aid independently corroborates a distinct archival file, "KK land purchase-Pagé farm. — 1960-1961," separate from the original 1910-1927 purchase records — narrowing the transaction to that specific two-year window, though exact acreage and terms remain undocumented. It's plausible, though not directly confirmed, that today's "Farmhouse" building at Camp Kanawana (see [[places/places-and-locations|Places and Locations at Camp Kanawana]]) is this former Pagé farmhouse.
+In 1960, the YMCA purchased additional land described as the "Pagé farm" to expand the camp property, though the acreage and terms of this purchase are not specified in available sources.^1 McMorris's thesis (read as a full PDF for the first time, 2026-07-09) gives a fuller account: the farm — "the building just outside the camp gate" — was bought "in order to assure Kanawana many years of camping on the site without cottage country encroaching," citing the YMCA's own 1960 Kamp Kanawana Annual Report.^12 Concordia's P145/12B03 finding aid independently corroborates a distinct archival file, "KK land purchase-Pagé farm. — 1960-1961," separate from the original 1910-1927 purchase records — narrowing the transaction to that specific two-year window, though exact acreage and terms remain undocumented. It's plausible, though not directly confirmed, that today's "Farmhouse" building at Camp Kanawana (see [[site/places-and-locations|Places and Locations at Camp Kanawana]]) is this former Pagé farmhouse.
 
 ## The Desjardins Connection
 
@@ -65,10 +65,10 @@ In 1957, Mickey Stein was staying in the old Pagé family farmhouse when he obse
 
 ## Related Articles
 
-- [[places/the-kanawana-site|The Kanawana Site]]
+- [[site/the-kanawana-site|The Kanawana Site]]
 - [[people/j-w-mcconnell|J.W. McConnell]]
-- [[places/lake-wilson|Lake Wilson]]
-- [[chronology/founding-1894|Founding of Camp Kanawana (1894)]]
+- [[site/lake-wilson|Lake Wilson]]
+- [[history/founding-1894|Founding of Camp Kanawana (1894)]]
 
 ## Sources
 

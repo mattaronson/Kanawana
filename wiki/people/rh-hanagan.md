@@ -43,9 +43,9 @@ Hanagan authored a report to the Camp Board of Management on the American Campin
 - [[people/directors-index|Directors and Staff of Camp Kanawana]]
 - [[people/edgar-smee|Edgar E. Smee]]
 - [[people/cushing-family|The Cushing Family and YMCA Camping]]
-- [[chronology/wartime-kanawana|Wartime Kanawana]]
-- [[programs/traditions-and-culture|Traditions and Culture at Kanawana]]
-- [[places/camp-perrot|Camp Perrot]]
+- [[history/wartime-kanawana|Wartime Kanawana]]
+- [[traditions/traditions-and-culture|Traditions and Culture at Kanawana]]
+- [[site/camp-perrot|Camp Perrot]]
 
 ## Sources
 

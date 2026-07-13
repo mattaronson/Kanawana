@@ -5,7 +5,7 @@
     {
       "article_id": "founding-1894",
       "title": "Founding of Camp Kanawana (1894)",
-      "wiki_folder": "chronology",
+      "wiki_folder": "history",
       "status": "E1-reviewed",
       "status_history": [
         {
@@ -255,7 +255,7 @@
     {
       "article_id": "canoe-trips",
       "title": "Canoe Tripping at Kanawana",
-      "wiki_folder": "programs",
+      "wiki_folder": "traditions",
       "status": "E1-reviewed",
       "status_history": [
         {
@@ -356,7 +356,7 @@
     {
       "article_id": "council-ring",
       "title": "The Council Ring",
-      "wiki_folder": "places",
+      "wiki_folder": "site",
       "status": "E1-reviewed",
       "status_history": [
         {
@@ -435,7 +435,7 @@
     {
       "article_id": "lv-games",
       "title": "L&V Games (Lumbermen vs. Voyageurs)",
-      "wiki_folder": "programs",
+      "wiki_folder": "traditions",
       "status": "E1-reviewed",
       "status_history": [
         {
@@ -546,7 +546,7 @@
     {
       "article_id": "wartime-kanawana",
       "title": "Wartime Kanawana",
-      "wiki_folder": "chronology",
+      "wiki_folder": "history",
       "status": "E1-reviewed",
       "status_history": [
         {
@@ -643,7 +643,7 @@
     {
       "article_id": "section-names",
       "title": "Section Names and Age Groups",
-      "wiki_folder": "context",
+      "wiki_folder": "traditions",
       "status": "E1-reviewed",
       "status_history": [
         {
@@ -725,7 +725,7 @@
     {
       "article_id": "coeducation-gender",
       "title": "Coeducation and Gender at Kanawana",
-      "wiki_folder": "context",
+      "wiki_folder": "history",
       "status": "E1-reviewed",
       "status_history": [
         {
@@ -875,7 +875,7 @@
     {
       "article_id": "programs-activities",
       "title": "Programs and Activities at Kanawana",
-      "wiki_folder": "programs",
+      "wiki_folder": "traditions",
       "status": "E1-reviewed",
       "status_history": [
         {
@@ -1912,7 +1912,7 @@
     {
       "article_id": "centennial-1967",
       "title": "The 1967 Centennial and Kanawana",
-      "wiki_folder": "chronology",
+      "wiki_folder": "history",
       "status": "E1-reviewed",
       "status_history": [
         {
@@ -2071,7 +2071,7 @@
     {
       "article_id": "canadian-camping-movement",
       "title": "The Canadian Camping Movement",
-      "wiki_folder": "context",
+      "wiki_folder": "connections/institutional-lineage",
       "status": "E1-reviewed",
       "status_history": [
         {
@@ -2503,7 +2503,7 @@
     {
       "article_id": "traditions-and-culture",
       "title": "Traditions and Culture at Kanawana",
-      "wiki_folder": "programs",
+      "wiki_folder": "traditions",
       "status": "E1-reviewed",
       "status_history": [
         {
@@ -2736,7 +2736,7 @@
     {
       "article_id": "the-kanawana-site",
       "title": "The Kanawana Site",
-      "wiki_folder": "places",
+      "wiki_folder": "site",
       "status": "E1-reviewed",
       "status_history": [
         {
@@ -2914,7 +2914,7 @@
     {
       "article_id": "camp-otoreke",
       "title": "Camp Otoreke",
-      "wiki_folder": "places",
+      "wiki_folder": "site",
       "aliases": [
         "camp-jubilee"
       ],
@@ -3057,7 +3057,7 @@
     {
       "article_id": "stuart-mclean",
       "title": "Stuart McLean",
-      "wiki_folder": "people",
+      "wiki_folder": "people/notable-alumni",
       "status": "E1-reviewed",
       "status_history": [
         {
@@ -3219,7 +3219,7 @@
     {
       "article_id": "pip-alumni-award",
       "title": "The Pip Alumni Award",
-      "wiki_folder": "programs",
+      "wiki_folder": "traditions",
       "status": "E1-reviewed",
       "status_history": [
         {
@@ -3514,7 +3514,7 @@
     {
       "article_id": "lake-wilson",
       "title": "Lake Wilson",
-      "wiki_folder": "places",
+      "wiki_folder": "site",
       "status": "E1-reviewed",
       "status_history": [
         {
@@ -3609,7 +3609,7 @@
     {
       "article_id": "myths-and-legends",
       "title": "Kanawana Myths and Legends",
-      "wiki_folder": "context",
+      "wiki_folder": "traditions",
       "status": "E1-reviewed",
       "status_history": [
         {
@@ -3811,7 +3811,7 @@
     {
       "article_id": "camp-songs-cheers",
       "title": "Camp Songs, Cheers, and Musical Traditions",
-      "wiki_folder": "programs",
+      "wiki_folder": "traditions",
       "status": "E1-reviewed",
       "status_history": [
         {
@@ -3962,7 +3962,7 @@
     {
       "article_id": "places-and-locations",
       "title": "Places and Locations at Camp Kanawana",
-      "wiki_folder": "places",
+      "wiki_folder": "site",
       "status": "E1-reviewed",
       "status_history": [
         {
@@ -4286,7 +4286,7 @@
     {
       "article_id": "camp-weredale",
       "title": "Camp Weredale and Its Relationship to Kanawana",
-      "wiki_folder": "context",
+      "wiki_folder": "connections/related-camps",
       "status": "E1-reviewed",
       "status_history": [
         {
@@ -4522,7 +4522,7 @@
     {
       "article_id": "taylor-statten",
       "title": "Taylor Statten and the Canadian Camping Movement",
-      "wiki_folder": "people",
+      "wiki_folder": "connections/institutional-lineage",
       "status": "E1-reviewed",
       "status_history": [
         {
@@ -4729,7 +4729,7 @@
     {
       "article_id": "camp-ouareau",
       "title": "Camp Ouareau and Its Connections to Kanawana",
-      "wiki_folder": "context",
+      "wiki_folder": "connections/related-camps",
       "status": "E1-reviewed",
       "status_history": [
         {
@@ -4854,7 +4854,7 @@
     {
       "article_id": "camp-perrot",
       "title": "Camp Perrot",
-      "wiki_folder": "places",
+      "wiki_folder": "site",
       "status": "E1-reviewed",
       "status_history": [
         {
@@ -4946,7 +4946,7 @@
     {
       "article_id": "camp-oolahwan",
       "title": "Camp Oolahwan",
-      "wiki_folder": "context",
+      "wiki_folder": "connections/related-camps",
       "status": "E1-reviewed",
       "status_history": [
         {
@@ -5228,7 +5228,7 @@
     {
       "article_id": "voyageur-canoe-pageant",
       "title": "The Centennial Voyageur Canoe Pageant (1967)",
-      "wiki_folder": "chronology",
+      "wiki_folder": "connections/institutional-lineage",
       "status": "E1-reviewed",
       "status_history": [
         {
@@ -5423,7 +5423,7 @@
     {
       "article_id": "terry-mosher",
       "title": "Terry Mosher (Aislin)",
-      "wiki_folder": "people",
+      "wiki_folder": "people/notable-alumni",
       "status": "E1-reviewed",
       "status_history": [
         {
@@ -5657,7 +5657,7 @@
     {
       "article_id": "ymca-quebec-history",
       "title": "The YMCA of Montreal / YMCAs of Quebec",
-      "wiki_folder": "context",
+      "wiki_folder": "connections/institutional-lineage",
       "status": "E1-reviewed",
       "status_history": [
         {
@@ -5761,7 +5761,7 @@
     {
       "article_id": "notable-alumni",
       "title": "Notable Alumni of Camp Kanawana",
-      "wiki_folder": "people",
+      "wiki_folder": "people/notable-alumni",
       "status": "E1-reviewed",
       "status_history": [
         {
@@ -5926,7 +5926,7 @@
     {
       "article_id": "environmental-history",
       "title": "Environmental Education and Stewardship at Kanawana",
-      "wiki_folder": "context",
+      "wiki_folder": "traditions",
       "status": "E1-reviewed",
       "status_history": [
         {
@@ -6200,7 +6200,7 @@
     {
       "article_id": "centennial-1994",
       "title": "The 1994 Centennial",
-      "wiki_folder": "chronology",
+      "wiki_folder": "history",
       "status": "E1-reviewed",
       "status_history": [
         {
@@ -6329,7 +6329,7 @@
     {
       "article_id": "quebec-camp-landscape",
       "title": "The Quebec Camping Landscape",
-      "wiki_folder": "context",
+      "wiki_folder": "connections/related-camps",
       "status": "E1-reviewed",
       "status_history": [
         {
@@ -6575,7 +6575,7 @@
     {
       "article_id": "camp-becsies",
       "title": "Camp Becsies",
-      "wiki_folder": "places",
+      "wiki_folder": "site",
       "status": "E1-reviewed",
       "status_history": [
         {
@@ -6668,7 +6668,7 @@
     {
       "article_id": "harold-potter",
       "title": "Harold H. Potter",
-      "wiki_folder": "people",
+      "wiki_folder": "people/notable-alumni",
       "status": "E1-reviewed",
       "status_history": [
         {
@@ -6748,7 +6748,7 @@
     {
       "article_id": "sgw-concordia-connection",
       "title": "Sir George Williams / Concordia University and Camp Kanawana",
-      "wiki_folder": "context",
+      "wiki_folder": "connections/institutional-lineage",
       "status": "E1-reviewed",
       "status_history": [
         {
@@ -6836,7 +6836,7 @@
     {
       "article_id": "winter-programming",
       "title": "Winter and Year-Round Programming",
-      "wiki_folder": "programs",
+      "wiki_folder": "traditions",
       "status": "R3-verified",
       "status_history": [
         {
@@ -6925,7 +6925,7 @@
     {
       "article_id": "indigenous-names-and-land",
       "title": "Indigenous Place Names and Land History",
-      "wiki_folder": "context",
+      "wiki_folder": "site",
       "status": "R3-verified",
       "status_history": [
         {
@@ -7057,7 +7057,7 @@
     {
       "article_id": "rob-braide",
       "title": "Rob Braide",
-      "wiki_folder": "people",
+      "wiki_folder": "people/notable-alumni",
       "status": "draft",
       "status_history": [
         {
@@ -7114,7 +7114,7 @@
     {
       "article_id": "timeline-overview",
       "title": "Timeline Overview: Camp Kanawana Decade by Decade",
-      "wiki_folder": "chronology",
+      "wiki_folder": "history",
       "status": "draft",
       "status_history": [
         {
@@ -7357,7 +7357,7 @@
     {
       "article_id": "james-orbinski",
       "title": "James Orbinski",
-      "wiki_folder": "people",
+      "wiki_folder": "people/notable-alumni",
       "status": "draft",
       "status_history": [
         {
@@ -7413,7 +7413,7 @@
     {
       "article_id": "john-cleghorn",
       "title": "John Cleghorn",
-      "wiki_folder": "people",
+      "wiki_folder": "people/notable-alumni",
       "status": "draft",
       "status_history": [
         {
@@ -7466,7 +7466,7 @@
     {
       "article_id": "chris-adam",
       "title": "Chris Adam",
-      "wiki_folder": "people",
+      "wiki_folder": "people/notable-alumni",
       "status": "draft",
       "status_history": [
         {
@@ -7653,7 +7653,7 @@
     {
       "article_id": "carol-skinner",
       "title": "Carol Skinner",
-      "wiki_folder": "people",
+      "wiki_folder": "people/notable-alumni",
       "status": "stub",
       "status_history": [
         {
@@ -7703,7 +7703,7 @@
     {
       "article_id": "sam-lazarus",
       "title": "Sam Lazarus",
-      "wiki_folder": "people",
+      "wiki_folder": "people/notable-alumni",
       "status": "draft",
       "status_history": [
         {
@@ -8050,7 +8050,7 @@
     {
       "article_id": "camp-pine-crest",
       "title": "Camp Pine Crest",
-      "wiki_folder": "places",
+      "wiki_folder": "connections/related-camps",
       "status": "draft",
       "status_history": [
         {
@@ -8195,7 +8195,7 @@
     {
       "article_id": "cit-lit-program",
       "title": "The CIT/LIT Program",
-      "wiki_folder": "programs",
+      "wiki_folder": "traditions",
       "status": "draft",
       "status_history": [
         {
@@ -8265,7 +8265,7 @@
     {
       "article_id": "interwar-era",
       "title": "The Interwar Era (1920s-1930s)",
-      "wiki_folder": "chronology",
+      "wiki_folder": "history",
       "status": "draft",
       "status_history": [
         {
@@ -8333,7 +8333,7 @@
     {
       "article_id": "postwar-gap",
       "title": "The Postwar Gap (1947-1966)",
-      "wiki_folder": "chronology",
+      "wiki_folder": "history",
       "status": "draft",
       "status_history": [
         {
@@ -8389,7 +8389,7 @@
     {
       "article_id": "between-centennials",
       "title": "Between Centennials (1968-1993)",
-      "wiki_folder": "chronology",
+      "wiki_folder": "history",
       "status": "draft",
       "status_history": [
         {
@@ -8445,7 +8445,7 @@
     {
       "article_id": "modern-era",
       "title": "The Modern Era: The Two-Tier Era (1995-Present)",
-      "wiki_folder": "chronology",
+      "wiki_folder": "history",
       "status": "draft",
       "status_history": [
         {

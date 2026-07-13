@@ -20,7 +20,7 @@ The Montreal YMCA's 2007 Annual Report lists, in its Senior Management ("Cadres 
 
 - [[people/directors-index|Directors and Staff of Camp Kanawana]]
 - [[people/sean-day|Sean Day]]
-- [[chronology/modern-era|The Modern Era]]
+- [[history/modern-era|The Modern Era]]
 
 ## Sources
 

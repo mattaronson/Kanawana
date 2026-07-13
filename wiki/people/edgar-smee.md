@@ -58,8 +58,8 @@ Smee died peacefully on February 7, 2002, at the Glebe Centre in Ottawa, at age 
 
 - [[people/rh-hanagan|R.H. Hanagan]]
 - [[people/directors-index|Directors and Staff of Camp Kanawana]]
-- [[chronology/wartime-kanawana|Wartime Kanawana]]
-- [[context/section-names|Section Names at Kanawana]]
+- [[history/wartime-kanawana|Wartime Kanawana]]
+- [[traditions/section-names|Section Names at Kanawana]]
 
 ## Sources
 

@@ -26,8 +26,8 @@ Patten served as a Liberal MPP for Ottawa Centre (1987–1990, 1995–2007), hol
 
 ## Related Articles
 
-- [[people/notable-alumni|Notable Alumni of Camp Kanawana]]
-- [[programs/pip-alumni-award|The Pip Alumni Award]]
+- [[people/notable-alumni/notable-alumni|Notable Alumni of Camp Kanawana]]
+- [[traditions/pip-alumni-award|The Pip Alumni Award]]
 - [[people/dave-twynam|G. David Twynam]]
 - [[people/directors-index|Directors and Staff of Camp Kanawana]]
 

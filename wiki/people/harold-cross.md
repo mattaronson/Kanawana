@@ -44,9 +44,9 @@ A continuation was later written by F.G. Hubbard: *First Quarter of Second Centu
 
 ## Related Articles
 
-- [[places/council-ring|The Council Ring]]
+- [[site/council-ring|The Council Ring]]
 - [[people/directors-index|Directors and Staff of Camp Kanawana]]
-- [[chronology/centennial-1967|The 1967 Centennial and Kanawana]]
+- [[history/centennial-1967|The 1967 Centennial and Kanawana]]
 
 ## Sources
 

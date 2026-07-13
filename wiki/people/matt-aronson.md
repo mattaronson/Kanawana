@@ -13,7 +13,7 @@ Aronson was a camper at Kanawana from 1985 to 1992, a Counsellor-in-Training in 
 
 ## The Chopsy Legend and Camp Storytelling
 
-As a 2000s-era teller of the Chopsy legend, Aronson embellished the traditional opening formula with a claim that he had "looked it up in the Kanawana archives at Concordia... it's all documented there" — a piece of verisimilitude referencing the real Concordia University Archives (YMCA of Montreal fonds P0145).^1 He also wrote an original, historically grounded backstory for the Chopsy character, tying the figure to Kahnawake, the First World War, and the Second Battle of Ypres — an elaboration this wiki treats as a documented instance of the legend's continued creative development by an active camp storyteller, not as historical fact about the legend's actual origin.^1 See [[context/myths-and-legends|Myths and Legends of Camp Kanawana]] for the fuller Chopsy discussion and how Aronson's version fits into it.
+As a 2000s-era teller of the Chopsy legend, Aronson embellished the traditional opening formula with a claim that he had "looked it up in the Kanawana archives at Concordia... it's all documented there" — a piece of verisimilitude referencing the real Concordia University Archives (YMCA of Montreal fonds P0145).^1 He also wrote an original, historically grounded backstory for the Chopsy character, tying the figure to Kahnawake, the First World War, and the Second Battle of Ypres — an elaboration this wiki treats as a documented instance of the legend's continued creative development by an active camp storyteller, not as historical fact about the legend's actual origin.^1 See [[traditions/myths-and-legends|Myths and Legends of Camp Kanawana]] for the fuller Chopsy discussion and how Aronson's version fits into it.
 
 ## Spirit of Kanawana and Camp Research
 
@@ -31,9 +31,9 @@ Aronson is a McGill University Faculty of Law graduate and an attorney at Adessk
 ## Related Articles
 
 - [[people/sean-day|Sean Day]]
-- [[context/myths-and-legends|Myths and Legends of Camp Kanawana]]
+- [[traditions/myths-and-legends|Myths and Legends of Camp Kanawana]]
 - [[documents/green-triangle|The Green Triangle]]
-- [[programs/camp-songs-cheers|Camp Songs and Cheers]]
+- [[traditions/camp-songs-cheers|Camp Songs and Cheers]]
 - [[people/directors-index|Directors and Staff of Camp Kanawana]]
 
 ## Sources

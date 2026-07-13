@@ -26,8 +26,8 @@ McMorris's thesis records the director's name in the initialed archival form "W.
 
 - [[people/directors-index|Directors and Staff of Camp Kanawana]]
 - [[people/howie-langille|Howie Langille]]
-- [[chronology/interwar-era|The Interwar Era]]
-- [[places/camp-becsies|Camp Becsies]]
+- [[history/interwar-era|The Interwar Era]]
+- [[site/camp-becsies|Camp Becsies]]
 
 ## Sources
 

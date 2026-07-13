@@ -64,10 +64,10 @@ Day became Director of Fund Development at **Tyndale St-Georges Community Centre
 ## Related Articles
 
 - [[people/directors-index|Directors and Staff of Camp Kanawana]]
-- [[people/stuart-mclean|Stuart McLean]]
+- [[people/notable-alumni/stuart-mclean|Stuart McLean]]
 - [[people/matt-aronson|Matt Aronson]]
-- [[programs/programs-activities|Programs and Activities at Kanawana]]
-- [[programs/pip-alumni-award|The Pip Alumni Award]]
+- [[traditions/programs-activities|Programs and Activities at Kanawana]]
+- [[traditions/pip-alumni-award|The Pip Alumni Award]]
 
 ## Sources
 

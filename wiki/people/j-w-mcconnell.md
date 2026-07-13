@@ -70,9 +70,9 @@ Conflict c_006 is now substantially resolved: oral history explains the renaming
 
 ## Related Articles
 
-- [[places/the-kanawana-site|The Kanawana Site]]
-- [[places/lake-wilson|Lake Wilson]]
-- [[chronology/founding-1894|Founding of Camp Kanawana (1894)]]
+- [[site/the-kanawana-site|The Kanawana Site]]
+- [[site/lake-wilson|Lake Wilson]]
+- [[history/founding-1894|Founding of Camp Kanawana (1894)]]
 - [[people/cushing-family|The Cushing Family and YMCA Camping]]
 - [[people/page-family|The Pagé Family of Saint-Sauveur]]
 

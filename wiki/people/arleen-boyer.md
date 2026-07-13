@@ -25,7 +25,7 @@ Boyer's name was originally recorded in this KB, via oral history, as "Arlene Bo
 - [[people/directors-index|Directors and Staff of Camp Kanawana]]
 - [[people/joanna-hoad|Joanna A.A. Hoad]]
 - [[people/gary-white|Gary White]]
-- [[chronology/modern-era|The Modern Era]]
+- [[history/modern-era|The Modern Era]]
 
 ## Sources
 
