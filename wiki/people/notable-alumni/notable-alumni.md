@@ -1,7 +1,7 @@
 # Notable Alumni of Camp Kanawana
 
-*Status: E1-reviewed | Sources: 40*
-*Last Updated: 2026-07-11*
+*Status: E1-reviewed | Sources: 42*
+*Last Updated: 2026-07-13*
 
 ## Overview
 
@@ -99,6 +99,10 @@ Montreal media personality, Côte Saint-Luc city councillor, and columnist for *
 
 Attended Camp Kanawana for six summers before becoming a camp counsellor and canoe tripper.^16 Featured in a 2026 Postmedia article about the camp's approach to addressing nature-deficit disorder among Montreal youth.
 
+### Steve Leckman (fl. 2011–present)
+
+Worked at Kanawana starting summer 2011;^41 went on to found a Montreal nature-connection education program, now operating as "Programmes Coyote"/"Coyote Programs."^42 See [[people/notable-alumni/steve-leckman|Steve Leckman]] (stub) for full detail, including an explicit disambiguation from Kanawana's own unrelated internal 2017 "Coyote Camp" session.
+
 ## Related Articles
 
 - [[traditions/pip-alumni-award|The Pip Alumni Award]]
@@ -108,6 +112,7 @@ Attended Camp Kanawana for six summers before becoming a camp counsellor and can
 - [[people/edgar-smee|Edgar E. Smee]]
 - [[people/sean-day|Sean Day]]
 - [[people/notable-alumni/harold-potter|Harold H. Potter]]
+- [[people/notable-alumni/steve-leckman|Steve Leckman]]
 - [[people/directors-index|Directors and Staff of Camp Kanawana]]
 - [[connections/institutional-lineage/sgw-concordia-connection|Sir George Williams / Concordia University and Camp Kanawana]]
 - [[traditions/traditions-and-culture|Traditions and Culture at Kanawana]]
@@ -121,6 +126,7 @@ Attended Camp Kanawana for six summers before becoming a camp counsellor and can
 5. [Nice-to-have] Can any notable alumni from the 1894–1930 era be identified?
 6. ~~[Nice-to-have] Is "Chris Adams" (1980 nature program) the same person as Chris Adam (Pip Award 2017)?~~ [Resolved] Very likely the same person: shared Vanier/Dawson connection, wildlife/nature expertise, surname difference is a Ka-News transcription variant.
 7. [Nice-to-have, re-confirmed exhausted 2026-07-09] Who were the 2019 and 2020–2023 Pip Award recipients, if any? (2019 appears as "Dr." on Andrew Caddell's LinkedIn but name is truncated.) See [[traditions/pip-alumni-award|The Pip Alumni Award]] — two candidate names ("Dr. Amy Ornstein," "David Bryfman") were checked and explicitly debunked, not merely unconfirmed.
+8. [Important, tested 2026-07-13] Operator lead: Rob Evis, described as a former Kanawana alumnus, is said to have founded "Paddlefoot," a real, independently-documented Ontario canoe-tripping/wilderness-education organization (founded 1996, federally incorporated 1997). Despite 31 queries across 10 surfaces, no source establishes any connection between Rob Evis and Camp Kanawana — Kanawana's own team page names a different person (Marie-Pierre Lacasse) as its 2007–2010 Expeditions Director, the only comparable role found. This remains unconfirmed oral history pending further operator detail (e.g. approximate camper years) or a newly-discovered corroborating source; not spawned as a standalone article absent a confirmed Kanawana connection.
 
 ## Sources
 
@@ -164,11 +170,14 @@ Attended Camp Kanawana for six summers before becoming a camp counsellor and can
 38. Cohen, Mike. "Cohen Chatter." *The Suburban* (Montreal), July 26–August 2, 2015. Column covering Terry Mosher Pip Award ceremony and personal camp memories. URL: http://blog.thesuburban.com/2015_07_26_archive.html
 39. Buckland, Smillie. "How Summer Camp Shapes Lives." *Reader's Digest Canada*. URL: https://www.readersdigest.ca/culture/how-summer-camp-shapes-lives/
 40. Prabook, "Charles Smillie Buckland." URL: https://prabook.com/web/charles_smillie.buckland/3371993
+41. Facebook, YMCA Kanawana page, post dated 2011-05-27, re: Steve Leckman joining camp staff [src_leckman_fb_ykanawana2011].
+42. "Founding the Coyote Club" — Wilderness Awareness School alumni profile of Steve Leckman [src_leckman_wilderness_awareness].
 
 ## Research Notes
 
 ### Revision History
 
+- **2026-07-13**: Campaign 74 — added Steve Leckman entry (spawned as a standalone stub, [[people/notable-alumni/steve-leckman|Steve Leckman]]) after confirming a real 2011 Kanawana staff connection and disambiguating his organization from Kanawana's own unrelated 2017 internal "Coyote Camp" session (f_0617). Added Open Question #8 documenting the Rob Evis/Paddlefoot lead as tested-but-unconfirmed (31 queries, 10 surfaces) — not spawned as an article absent a confirmed Kanawana connection.
 - **2026-07-11**: John Cleghorn, Chris Adam, and James Orbinski were split out into standalone articles ([[people/notable-alumni/john-cleghorn|John Cleghorn]], [[people/notable-alumni/chris-adam|Chris Adam]], [[people/notable-alumni/james-orbinski|James Orbinski]]) as part of Workstream C (new-article spawning); their entries here were trimmed to short pointers. No facts were dropped — all three articles were written from the same KB facts already cited here. Sources 7, 12, 14, 18, 21, 22, 31, and 32 remain in this article's Sources list even though no longer directly cited in-text, since they retain provenance value for the article's overall subject; they are now also cited directly in the three new standalone articles.
 
 <!-- RALPH process log (informal, not reader-facing). 2026-07-09 open-questions research pass: an 18-query, 7-surface sweep for additional notable alumni reconfirmed the existing list as genuinely saturated for the public web; the Pip Award 2019 recipient gap's two candidate names were explicitly debunked. -->

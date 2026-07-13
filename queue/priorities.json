@@ -2773,7 +2773,9 @@
       "blocking": false,
       "assigned_weight": "P1",
       "created_at": "2026-07-13T00:00:00Z",
-      "status": "pending"
+      "status": "exhausted-web",
+      "completed_at": "2026-07-13T00:00:00Z",
+      "result": "31 queries across 10 surfaces. Paddlefoot and Rob Evis are both real and independently documented (founded 1996, federally incorporated 1997), but no source establishes any connection to Camp Kanawana -- Kanawana's own team page names a different person as its 2007-2010 Expeditions Director. 6 new facts (f_1986-f_1991), 5 new sources. Not spawned as a standalone article; logged as Open Question #8 in notable-alumni.md pending operator clarification or a new corroborating source."
     },
     {
       "priority_id": "p_219",
@@ -2784,7 +2786,9 @@
       "blocking": false,
       "assigned_weight": "P1",
       "created_at": "2026-07-13T00:00:00Z",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-07-13T00:00:00Z",
+      "result": "19 queries across 6 surfaces. Confirmed a real 2011 Kanawana staff connection for Steve Leckman and a real, still-operating nature-education organization he founded -- but no source ever calls it 'Coyote Camp' (consistently 'The Coyote Club'/'Programmes Coyote'). Disambiguated from f_0617 (Kanawana's own unrelated internal 2017 'Coyote Camp' session). 5 new facts (f_1992-f_1996), 5 new sources. Spawned wiki/people/steve-leckman.md (stub) and added an entry + cross-link in notable-alumni.md."
     },
     {
       "priority_id": "p_220",
@@ -2795,7 +2799,9 @@
       "blocking": false,
       "assigned_weight": "P1",
       "created_at": "2026-07-13T00:00:00Z",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-07-13T00:00:00Z",
+      "result": "24 queries across 12+ surfaces. F.M. Van Wagner's documented biography (Hyde Park NY 1894 -> Springfield College 1920 -> McGill PE department 1920 onward, uninterrupted -> founded Nominingue 1925) leaves no gap for an undocumented Kanawana stint; no source links him or any other Wagner to Kanawana. The operator's specific hypothesis is closed as no-link-found. 5 new facts (f_1997-f_2001), 4 new sources. Updated Open Question #4 in canadian-camping-movement.md; the broader Nominingue institutional question stays open pending physical examination of Concordia's Dawson (1933)/Charlton (1943) camp histories and the 1911-1926 Permanent Camp Committee minutes."
     },
     {
       "priority_id": "p_221",
@@ -2806,7 +2812,9 @@
       "blocking": false,
       "assigned_weight": "P2",
       "created_at": "2026-07-13T00:00:00Z",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-07-13T00:00:00Z",
+      "result": "19 queries across 5+ surfaces. No single national origin event for the term 'CIT' found (Wikipedia, ACA, Trent OCA/CCA fonds all null). Strongest institutional link runs through Hedley S. Dimock (already documented in KB for an unrelated reason), whose son conducted counsellor-training research at Kanawana in 1960-61, the same year as Kanawana's earliest CIT cohort -- a circumstantial, not proven, connection. Taylor Statten Camps' own CIT program may date only to the 1970s-80s (flagged unverified, fetch blocked). 4 new facts (f_2002-f_2005), 6 new sources. Added new section to cit-lit-program.md and refined Open Question #1."
     },
     {
       "priority_id": "p_222",
@@ -2817,7 +2825,9 @@
       "blocking": false,
       "assigned_weight": "P2",
       "created_at": "2026-07-13T00:00:00Z",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-07-13T00:00:00Z",
+      "result": "8 queries (capped). Directly fetched both institutions' master finding-aid PDFs. P0145/12B05 confirmed as a genuine, access-restricted staff/counsellor sub-series (no online item list; legacy box-listing URL now 404). OCA Box1/Folder5 verbatim entry text captured; its photograph-inventory appendix contains no Kanawana entries. No new angle attempted on Derek Walsh/meeting-attendance questions per instructions. 2 new facts (f_2006-f_2007), 2 new sources. Updated Open Questions #4 and #5 in canadian-camping-movement.md."
     }
   ]
 }
