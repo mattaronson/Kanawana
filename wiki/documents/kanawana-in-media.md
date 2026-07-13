@@ -23,7 +23,7 @@ Camp Kanawana has appeared in a range of media over its 130-year history, from p
 - June 10, 1939: Promoted the upcoming summer season, one of the last records of pre-war normalcy at Kanawana.^6
 - June 26, 1941, 8:50 PM Thursday: Chief [[people/howie-langille|Howie Langille]] was interviewed by an announcer, promoting summer registrations and describing the 48th season, British evacuee children, 68 staff, and multi-generational attendance.^7 ^18
 
-The Concordia Archives (P145/12B04, Communications sub-series) describe CFCF broadcasts promoting Kanawana as running from 1936 to 1941, suggesting further, not-yet-digitized broadcasts beyond these two surviving recordings.^19 See [[people/howie-langille|Howie Langille]] for the 1941 broadcast's fuller biographical context, and [[chronology/wartime-kanawana|Wartime Kanawana]] for its content in the camp's wartime narrative.
+The Concordia Archives (P145/12B04, Communications sub-series) describe CFCF broadcasts promoting Kanawana as running from 1936 to 1941, suggesting further, not-yet-digitized broadcasts beyond these two surviving recordings.^19 See [[people/howie-langille|Howie Langille]] for the 1941 broadcast's fuller biographical context, and [[history/wartime-kanawana|Wartime Kanawana]] for its content in the camp's wartime narrative.
 
 ## Journalism
 
@@ -51,7 +51,7 @@ The Concordia Archives (P145/12B04, Communications sub-series) describe CFCF bro
 
 ## Stuart McLean and *The Vinyl Cafe*
 
-Stuart McLean worked as a counsellor at Camp Kanawana for five summers beginning in 1969, eventually becoming assistant summer camp director.^9 He called it "the first place I ever felt I truly belonged." His personal and literary archive is housed at McMaster University, including manuscripts, correspondence, and photographs — a potential source for camp materials from his tenure.^10 After McLean's death in February 2017, his family established the Stuart McLean Camp Kanawana Fund to send children without financial means to camp. (See [[people/stuart-mclean|Stuart McLean]].)
+Stuart McLean worked as a counsellor at Camp Kanawana for five summers beginning in 1969, eventually becoming assistant summer camp director.^9 He called it "the first place I ever felt I truly belonged." His personal and literary archive is housed at McMaster University, including manuscripts, correspondence, and photographs — a potential source for camp materials from his tenure.^10 After McLean's death in February 2017, his family established the Stuart McLean Camp Kanawana Fund to send children without financial means to camp. (See [[people/notable-alumni/stuart-mclean|Stuart McLean]].)
 
 ## Images
 
@@ -75,18 +75,18 @@ Stuart McLean worked as a counsellor at Camp Kanawana for five summers beginning
 
 ## Open Questions
 
-1. [Largely resolved 2026-07-09] Did Stuart McLean reference Camp Kanawana in any *Vinyl Cafe* stories or published work? A full retrieval of the McMaster fonds finding aid found two distinct camp-themed show files (Box 60/F.16 "Kamp Kanawana," Season 10 2004-05; Box 53/F.25 "Vinyl Cafe Show 2.10 Camp — Not Published," Season 2 1995-96), plus "A Letter from Camp" (already documented). No additional Dave-and-Morley narrative referencing camp was found beyond these. See [[people/stuart-mclean|Stuart McLean]] for full detail.
+1. [Largely resolved 2026-07-09] Did Stuart McLean reference Camp Kanawana in any *Vinyl Cafe* stories or published work? A full retrieval of the McMaster fonds finding aid found two distinct camp-themed show files (Box 60/F.16 "Kamp Kanawana," Season 10 2004-05; Box 53/F.25 "Vinyl Cafe Show 2.10 Camp — Not Published," Season 2 1995-96), plus "A Letter from Camp" (already documented). No additional Dave-and-Morley narrative referencing camp was found beyond these. See [[people/notable-alumni/stuart-mclean|Stuart McLean]] for full detail.
 2. Are there other published works of fiction or memoir set at or inspired by Kanawana?
 3. Do any Montreal television news archives contain footage of camp events (e.g., centennial, Pip Award ceremonies)?
 4. [Partially resolved, negative result 2026-07-09] The Concordia Archives hold photographs, slides, and film from multiple decades — have any been published or exhibited? Separately, the McMaster Stuart McLean fonds' own photo series (Box 97) was checked and confirmed to contain NO camp/Kanawana-tagged photographs — ruling out that specific archive as a source, though the original Concordia-held photographs remain unexamined for publication/exhibition history.
 
 ## Related Articles
 
-- [[people/stuart-mclean|Stuart McLean]]
-- [[chronology/centennial-1967|Centennial Year (1967)]]
-- [[chronology/voyageur-canoe-pageant|The Voyageur Canoe Pageant]]
-- [[chronology/founding-1894|Founding of Camp Kanawana (1894)]]
-- [[people/terry-mosher|Terry Mosher (Aislin)]]
+- [[people/notable-alumni/stuart-mclean|Stuart McLean]]
+- [[history/centennial-1967|Centennial Year (1967)]]
+- [[connections/institutional-lineage/voyageur-canoe-pageant|The Voyageur Canoe Pageant]]
+- [[history/founding-1894|Founding of Camp Kanawana (1894)]]
+- [[people/notable-alumni/terry-mosher|Terry Mosher (Aislin)]]
 
 ## Sources
 

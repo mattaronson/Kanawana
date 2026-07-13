@@ -63,9 +63,9 @@ Twynam holds a doctorate, as confirmed by the title "Dr." in multiple institutio
 ## Related Articles
 
 - [[people/directors-index|Directors and Staff of Camp Kanawana]]
-- [[programs/programs-activities|Programs and Activities at Kanawana]]
+- [[traditions/programs-activities|Programs and Activities at Kanawana]]
 - [[people/a-ross-seaman|A. Ross Seaman]]
-- [[context/canadian-camping-movement|The Canadian Camping Movement]]
+- [[connections/institutional-lineage/canadian-camping-movement|The Canadian Camping Movement]]
 
 ## Sources
 

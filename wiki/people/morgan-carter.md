@@ -25,7 +25,7 @@ Carter reappears on the Montreal YMCA's 2011 and 2012 Kanawana local advisory co
 - [[people/directors-index|Directors and Staff of Camp Kanawana]]
 - [[people/david-leduc|David Leduc]]
 - [[people/gary-white|Gary White]]
-- [[chronology/modern-era|The Modern Era]]
+- [[history/modern-era|The Modern Era]]
 
 ## Sources
 

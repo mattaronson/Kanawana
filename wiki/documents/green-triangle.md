@@ -15,9 +15,9 @@ A 2026-07 direct query of the Internet Archive's advanced-search API confirmed t
 
 ### Surviving Content
 
-Surviving issues document camp life in granular detail. The July 29, 1938 issue describes a fancy-dress ball tradition and brain-teaser contests, and reports that Benny Leshley had organized a choir at the outdoor chapel that summer, still recruiting members as of that issue.^5 A limerick in the same issue, about a staff member named Wallace who "found at Leke Becsies his solace," confirms [[places/camp-becsies|Camp Becsies]] was a known location to Kanawana staff by the 1930s.^5
+Surviving issues document camp life in granular detail. The July 29, 1938 issue describes a fancy-dress ball tradition and brain-teaser contests, and reports that Benny Leshley had organized a choir at the outdoor chapel that summer, still recruiting members as of that issue.^5 A limerick in the same issue, about a staff member named Wallace who "found at Leke Becsies his solace," confirms [[site/camp-becsies|Camp Becsies]] was a known location to Kanawana staff by the 1930s.^5
 
-The July 8, 1933 issue — two years earlier than the previously-known earliest attestation — describes a full, staged "Haunted House" campfire tradition: a "reception... given by the ghosts of the haunted house to all Kanawana campers," with the Chief leading legends and a sing-song, staged "mock-knocking" sound effects, and a folkloric rule that "the spirits never appeared except when the wind blew from the east and when the moon and stars were invisible."^6 The same issue mentions passing "the deserted village" en route to the event — an unexplained, unexplored detail. The tradition recurs across at least four further issues: a July 1937 photo caption ("The picnic at the Haunted House"), a July 1939 mention of supper "at the falls near the haunted house," and a June 1940 mention of a "Haunted House treat... received at Tamaracouta" joined by the Juveniles.^4 None of the 38 issues checked mentions "Chopsy" or "Cropsy" by name, and none contain a specific explanation of the camp's own name. See [[context/myths-and-legends|Myths and Legends of Camp Kanawana]] for the fuller Chopsy and naming-origin discussion.
+The July 8, 1933 issue — two years earlier than the previously-known earliest attestation — describes a full, staged "Haunted House" campfire tradition: a "reception... given by the ghosts of the haunted house to all Kanawana campers," with the Chief leading legends and a sing-song, staged "mock-knocking" sound effects, and a folkloric rule that "the spirits never appeared except when the wind blew from the east and when the moon and stars were invisible."^6 The same issue mentions passing "the deserted village" en route to the event — an unexplained, unexplored detail. The tradition recurs across at least four further issues: a July 1937 photo caption ("The picnic at the Haunted House"), a July 1939 mention of supper "at the falls near the haunted house," and a June 1940 mention of a "Haunted House treat... received at Tamaracouta" joined by the Juveniles.^4 None of the 38 issues checked mentions "Chopsy" or "Cropsy" by name, and none contain a specific explanation of the camp's own name. See [[traditions/myths-and-legends|Myths and Legends of Camp Kanawana]] for the fuller Chopsy and naming-origin discussion.
 
 ## The Green Triangle Award
 
@@ -35,9 +35,9 @@ Beyond the publication and the award, "Green Triangle" functioned more broadly a
 
 ## Related Articles
 
-- [[programs/traditions-and-culture|Traditions and Culture at Kanawana]]
-- [[context/myths-and-legends|Myths and Legends of Camp Kanawana]]
-- [[programs/camp-songs-cheers|Camp Songs and Cheers]]
+- [[traditions/traditions-and-culture|Traditions and Culture at Kanawana]]
+- [[traditions/myths-and-legends|Myths and Legends of Camp Kanawana]]
+- [[traditions/camp-songs-cheers|Camp Songs and Cheers]]
 - [[people/directors-index|Directors and Staff of Camp Kanawana]]
 - [[people/matt-aronson|Matt Aronson]]
 

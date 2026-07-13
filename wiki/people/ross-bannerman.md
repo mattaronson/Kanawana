@@ -26,7 +26,7 @@ Bannerman authored a "Report on Kamp Kanawana" in 1969, held at Concordia Archiv
 - [[people/nelson-mcewen|Nelson McEwen]]
 - [[people/directors-index|Directors and Staff of Camp Kanawana]]
 - [[people/a-ross-seaman|A. Ross Seaman]]
-- [[chronology/centennial-1967|The 1967 Centennial]]
+- [[history/centennial-1967|The 1967 Centennial]]
 
 ## Sources
 

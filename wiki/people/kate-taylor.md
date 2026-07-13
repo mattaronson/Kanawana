@@ -28,7 +28,7 @@ Taylor appeared on three camping-industry podcasts: Go Camp Pro's "Beyond Camp" 
 
 - [[people/directors-index|Directors and Staff of Camp Kanawana]]
 - [[people/sean-day|Sean Day]]
-- [[programs/coeducation-gender|Coeducation and Gender at Camp Kanawana]]
+- [[history/coeducation-gender|Coeducation and Gender at Camp Kanawana]]
 
 ## Sources
 

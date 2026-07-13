@@ -166,7 +166,7 @@ The "Pip" Alumni Award, named after Philip "Pip" Caddell (1913-2004, camper 1928
 | Marina Sharpe | unknown | Refugee advocate | 2018 |
 | Dr. James Orbinski | 1980s-1990s | Humanitarian physician, MSF president | 2024 |
 
-**[[people/rob-braide|Rob Braide]]** (camper for 9 summers, ending by 1967; President of Standard Broadcasting Corporation and Montreal radio stations CHOM, MIX 96, and CJAD) is a notable alumnus documented via a 2007 camp testimonial, though not (so far as documented) a Pip Award recipient.
+**[[people/notable-alumni/rob-braide|Rob Braide]]** (camper for 9 summers, ending by 1967; President of Standard Broadcasting Corporation and Montreal radio stations CHOM, MIX 96, and CJAD) is a notable alumnus documented via a 2007 camp testimonial, though not (so far as documented) a Pip Award recipient.
 
 ### Memorials and Endowments
 
@@ -231,7 +231,7 @@ The following periods have no confirmed camp director:
 
 ## Related Articles
 
-- [[chronology/timeline-overview|Timeline Overview: Camp Kanawana Decade by Decade]]
+- [[history/timeline-overview|Timeline Overview: Camp Kanawana Decade by Decade]]
 - [[people/nelson-mcewen|Nelson McEwen]]
 - [[people/howie-langille|Howie Langille]]
 - [[people/ross-bannerman|Ross Bannerman]]
@@ -252,19 +252,19 @@ The following periods have no confirmed camp director:
 - [[people/harold-cross|Harold C. Cross]]
 - [[people/billy-ball|Billy Ball]]
 - [[people/da-budge|D.A. Budge]]
-- [[people/stuart-mclean|Stuart McLean]]
+- [[people/notable-alumni/stuart-mclean|Stuart McLean]]
 - [[people/edgar-smee|Edgar Smee]]
 - [[people/joanna-hoad|Joanna A.A. Hoad]]
 - [[people/dave-twynam|Dave Twynam]]
 - [[people/sean-day|Sean Day]]
-- [[people/terry-mosher|Terry Mosher (Aislin)]]
+- [[people/notable-alumni/terry-mosher|Terry Mosher (Aislin)]]
 - [[people/rh-hanagan|R.H. Hanagan]]
 - [[people/a-ross-seaman|A. Ross Seaman]]
 - [[people/hedley-dimock|Hedley Dimock]]
 - [[people/cushing-family|The Cushing Family]]
-- [[chronology/founding-1894|Founding of Camp Kanawana (1894)]]
-- [[chronology/wartime-kanawana|Wartime Kanawana]]
-- [[programs/traditions-and-culture|Traditions and Culture at Kanawana]]
+- [[history/founding-1894|Founding of Camp Kanawana (1894)]]
+- [[history/wartime-kanawana|Wartime Kanawana]]
+- [[traditions/traditions-and-culture|Traditions and Culture at Kanawana]]
 
 ## Sources
 

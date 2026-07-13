@@ -23,7 +23,7 @@ Dimock enlisted with the Princess Patricia's Canadian Light Infantry via the Uni
 
 In 1923, Dimock and Charles E. Hendry — both then affiliated with Columbia University, New York — began a pioneering study at Camp Ahmek in Algonquin Park, Ontario.^1 ^10 The study was published as *Camping and Character: A Camp Experiment in Character Education* (Association Press, New York, 1929/1931), with a foreword by William H. Kilpatrick, the progressive educator and colleague of John Dewey at Columbia.^11 The book runs 364 pages, illustrated, and is divided into two parts: Part 1 covers camp experience and character-building potential; Part 2 presents a case study of character education at Camp Ahmek.^11 It was among the first systematic studies to measure the effects of summer camp on child development and has been described as "one of the earliest recorded research efforts into camp experience" and "a collaborative effort between the U.S. and Canada."^10
 
-Dimock also co-authored *Talks to Counselors* (1939) with [[people/taylor-statten|Taylor Statten]], the founder of Camp Ahmek.^12 Co-researcher Charles E. Hendry went on to serve at the University of Toronto School of Social Work, retiring in 1969.^10
+Dimock also co-authored *Talks to Counselors* (1939) with [[connections/institutional-lineage/taylor-statten|Taylor Statten]], the founder of Camp Ahmek.^12 Co-researcher Charles E. Hendry went on to serve at the University of Toronto School of Social Work, retiring in 1969.^10
 
 ### Academic Career
 
@@ -81,14 +81,14 @@ Both George Williams College in Chicago (where H.S. Dimock held a deanship) and 
 2. [Largely resolved 2026-07-09] What were the findings of the 1960–1961 Kanawana counsellor effectiveness studies? These are unpublished internal reports (Concordia Box HA2323), not journal articles -- confirmed genuine dead end for the actual findings/content without physical archive access; explains why no publication record exists in any academic index.
 3. [Important] Did Hedley S. Dimock ever visit Camp Kanawana or Camp Otoreke, given his YMCA-Montreal connections and the camp's role in early Canadian camping research?
 4. [Nice-to-have] When exactly did Hedley G. Dimock begin working for the Montreal YMCA?
-5. [Largely resolved 2026-07-09] Can a complete list of ACA Dimock Award recipients be compiled? Extended to 2015 (medium confidence) and 2022-2026 (high confidence, direct primary-source fetch) -- see [[programs/pip-alumni-award|The Pip Alumni Award]] for the parallel Kanawana-specific award and its own recipient-list gap. 2019-2021 remain unresolved; two specific 2019 claims were checked and could not be confirmed against any primary source.
+5. [Largely resolved 2026-07-09] Can a complete list of ACA Dimock Award recipients be compiled? Extended to 2015 (medium confidence) and 2022-2026 (high confidence, direct primary-source fetch) -- see [[traditions/pip-alumni-award|The Pip Alumni Award]] for the parallel Kanawana-specific award and its own recipient-list gap. 2019-2021 remain unresolved; two specific 2019 claims were checked and could not be confirmed against any primary source.
 
 ## Related Articles
 
 - [[people/directors-index|Directors and Staff of Camp Kanawana]]
-- [[context/canadian-camping-movement|The Canadian Camping Movement]]
-- [[places/camp-otoreke|Camp Otoreke]]
-- [[programs/traditions-and-culture|Traditions and Culture at Kanawana]]
+- [[connections/institutional-lineage/canadian-camping-movement|The Canadian Camping Movement]]
+- [[site/camp-otoreke|Camp Otoreke]]
+- [[traditions/traditions-and-culture|Traditions and Culture at Kanawana]]
 
 ## Sources
 

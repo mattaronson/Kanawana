@@ -56,7 +56,7 @@ Concordia University's Records Management uploaded 25+ digitized items to Intern
 | 12D | Camp Becsies | Textual records 1929–1936, 1960–1971. Previously unknown YMCA camp. |
 | 12E | Camp Dorval | Textual records 1926–1928. Short-lived YMCA camp. |
 | 12F | Camp Weredale | YMCA planning documents related to Weredale (1977–1983). |
-| 12G | Camp Perrot (see note below) | Boys'-and-girls' service camp compared against Kanawana in reports 1945–46, 1953–54; 11 of its own annual reports/brochures (1944/45-1969) are separately digitized on Internet Archive, not catalogued under this label — see [[places/camp-perrot|Camp Perrot]]. |
+| 12G | Camp Perrot (see note below) | Boys'-and-girls' service camp compared against Kanawana in reports 1945–46, 1953–54; 11 of its own annual reports/brochures (1944/45-1969) are separately digitized on Internet Archive, not catalogued under this label — see [[site/camp-perrot|Camp Perrot]]. |
 | 12H | Ski lodge | YMCA ski lodge records. |
 | 12I | Camp Thunderbird | YMCA Camp Thunderbird records. |
 | 12J | Wilderness Survival Camp | Wilderness Survival Camp program records. |
@@ -151,14 +151,14 @@ John Wilson McConnell, Lemuel Cushing Jr., Centennial Voyageur Canoe Pageant, Br
 
 ## Related Articles
 
-- [[chronology/timeline-overview|Timeline Overview: Camp Kanawana Decade by Decade]]
-- [[chronology/founding-1894|Founding of Camp Kanawana (1894)]]
-- [[chronology/centennial-1967|Centennial Year (1967)]]
-- [[context/canadian-camping-movement|The Canadian Camping Movement]]
+- [[history/timeline-overview|Timeline Overview: Camp Kanawana Decade by Decade]]
+- [[history/founding-1894|Founding of Camp Kanawana (1894)]]
+- [[history/centennial-1967|Centennial Year (1967)]]
+- [[connections/institutional-lineage/canadian-camping-movement|The Canadian Camping Movement]]
 - [[documents/kanawana-in-media|Kanawana in Media]]
 - [[people/harold-cross|Harold C. Cross]]
-- [[programs/pip-alumni-award|The Pip Alumni Award]]
-- [[people/stuart-mclean|Stuart McLean]]
+- [[traditions/pip-alumni-award|The Pip Alumni Award]]
+- [[people/notable-alumni/stuart-mclean|Stuart McLean]]
 
 ## Open Questions
 

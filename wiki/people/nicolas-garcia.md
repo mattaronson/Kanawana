@@ -22,7 +22,7 @@ Oral history originally recorded Garcia's tenure as spanning 2005 to 2012. Per t
 
 - [[people/directors-index|Directors and Staff of Camp Kanawana]]
 - [[people/sean-day|Sean Day]]
-- [[chronology/modern-era|The Modern Era]]
+- [[history/modern-era|The Modern Era]]
 
 ## Sources
 

@@ -24,7 +24,7 @@ Caldwell has served as on-site Camp Director for the summers of 2025 and 2026, s
 - [[people/directors-index|Directors and Staff of Camp Kanawana]]
 - [[people/marie-pierre-lacasse|Marie-Pierre Lacasse]]
 - [[people/kate-taylor|Kate Taylor]]
-- [[chronology/modern-era|The Modern Era]]
+- [[history/modern-era|The Modern Era]]
 
 ## Sources
 

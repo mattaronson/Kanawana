@@ -81,7 +81,7 @@ A different **Walter Edgar Cushing** (Dartmouth College, Class of 1909) served w
 
 ## Related Articles
 
-- [[chronology/founding-1894|Founding of Camp Kanawana (1894)]]
+- [[history/founding-1894|Founding of Camp Kanawana (1894)]]
 - [[people/billy-ball|Billy Ball]]
 - [[people/da-budge|D.A. Budge]]
 - [[people/directors-index|Directors of Camp Kanawana]]

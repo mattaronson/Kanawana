@@ -46,7 +46,7 @@ Budge also authored a "Memorandum of the Early Beginnings of the YMCA Work on th
 
 ## Related Articles
 
-- [[chronology/founding-1894|Founding of Camp Kanawana (1894)]]
+- [[history/founding-1894|Founding of Camp Kanawana (1894)]]
 - [[people/harold-cross|Harold C. Cross]]
 - [[people/directors-index|Directors and Staff of Camp Kanawana]]
 - [[people/cushing-family|The Cushing Family]]

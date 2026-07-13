@@ -30,9 +30,9 @@ Netherwood went on to a long career in YMCA camping, most recently as Vice Presi
 ## Related Articles
 
 - [[people/directors-index|Directors and Staff of Camp Kanawana]]
-- [[people/notable-alumni|Notable Alumni of Camp Kanawana]]
-- [[programs/pip-alumni-award|The Pip Alumni Award]]
-- [[chronology/centennial-1994|The 1994 Centennial]]
+- [[people/notable-alumni/notable-alumni|Notable Alumni of Camp Kanawana]]
+- [[traditions/pip-alumni-award|The Pip Alumni Award]]
+- [[history/centennial-1994|The 1994 Centennial]]
 
 ## Sources
 

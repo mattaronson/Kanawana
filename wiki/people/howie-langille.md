@@ -26,9 +26,9 @@ No director is documented at Kanawana between Langille's 1941 season and R.H. Ha
 ## Related Articles
 
 - [[people/directors-index|Directors and Staff of Camp Kanawana]]
-- [[chronology/wartime-kanawana|Wartime Kanawana]]
+- [[history/wartime-kanawana|Wartime Kanawana]]
 - [[people/rh-hanagan|R.H. Hanagan]]
-- [[context/section-names|Section Names and Age Groupings]]
+- [[traditions/section-names|Section Names and Age Groupings]]
 - [[documents/kanawana-in-media|Kanawana in Media and Culture]]
 
 ## Sources

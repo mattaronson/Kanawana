@@ -9,7 +9,7 @@ A. Ross Seaman (died October 1987) was director of Kamp Kanawana from 1959 to 19
 
 ## Early Career and YMCA
 
-After graduating from Sir George Williams University, Seaman entered community work and the camping movement through the YMCA.^2 ^3 At some point in his career, he offered a colleague a position at the Cornwall YMCA.^3 The chronology and extent of his YMCA roles before Kanawana are undocumented. A newly found lead (2026-07-10): Camp Perrot's 1952 annual report thanks Seaman as "Past Director of Camp Perrot," a YMCA service camp on Île Perrot, and a 1959 internal memo from that camp records him personally planting trees there "about 1950" — placing a Camp Perrot directorship before his Kanawana tenure.^7 A "Margaret Seaman" served as Camp Perrot's Girls' Camp Director in 1952, plausibly the same Margaret who was Seaman's wife (see Personal Life and Legacy, below), though this is not independently confirmed. See [[places/camp-perrot|Camp Perrot]] for the primary-source detail.
+After graduating from Sir George Williams University, Seaman entered community work and the camping movement through the YMCA.^2 ^3 At some point in his career, he offered a colleague a position at the Cornwall YMCA.^3 The chronology and extent of his YMCA roles before Kanawana are undocumented. A newly found lead (2026-07-10): Camp Perrot's 1952 annual report thanks Seaman as "Past Director of Camp Perrot," a YMCA service camp on Île Perrot, and a 1959 internal memo from that camp records him personally planting trees there "about 1950" — placing a Camp Perrot directorship before his Kanawana tenure.^7 A "Margaret Seaman" served as Camp Perrot's Girls' Camp Director in 1952, plausibly the same Margaret who was Seaman's wife (see Personal Life and Legacy, below), though this is not independently confirmed. See [[site/camp-perrot|Camp Perrot]] for the primary-source detail.
 
 ## Camp Kanawana (1959–1967)
 
@@ -42,8 +42,8 @@ The A. Ross Seaman Memorial Leadership Development Fund was established in 1987 
 ## Related Articles
 
 - [[people/directors-index|Directors and Staff of Camp Kanawana]]
-- [[programs/canoe-trips|Canoe Tripping at Kanawana]]
-- [[context/section-names|Section Names and Age Groups]]
+- [[traditions/canoe-trips|Canoe Tripping at Kanawana]]
+- [[traditions/section-names|Section Names and Age Groups]]
 - [[people/hedley-dimock|Hedley Dimock and the Science of Camping]]
 
 ## Sources

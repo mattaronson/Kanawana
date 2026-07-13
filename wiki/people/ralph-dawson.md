@@ -40,7 +40,7 @@ A second, previously unexplored lead surfaced in the same pass: Concordia's find
 
 ## Related Articles
 
-- [[chronology/founding-1894|Founding of Camp Kanawana (1894)]]
+- [[history/founding-1894|Founding of Camp Kanawana (1894)]]
 - [[people/directors-index|Directors and Staff of Camp Kanawana]]
 - [[meta/sources-index|Sources and Archives]]
 

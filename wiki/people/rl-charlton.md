@@ -13,7 +13,7 @@ Charlton was a Montreal-based independent marine surveyor who maintained his own
 
 ## Proposing the Name "Kanawana"
 
-A 1951 primary source, "Kamp Kanawana History" (presented at a training course on June 6, 1951), states: "A great deal of thought was given to choosing a name for the camp. Mr. Charlton suggested Kanawana which was like the name of a Furness Steamer. At a later meeting the name Kanawana was adopted, which means in the Indian language lots to eat."^2 This is the only source identifying who specifically proposed the camp's name, and independently confirms the "lots to eat" translation from a primary rather than secondary account. No corroboration has been found of an actual ship named "Kanawana" in Furness Withy or Furness Bermuda Line vessel records, despite a five-surface search (two published fleet lists, a general Furness Withy history, and Lloyd's Register Foundation's digitized register collection) turning up zero matches. See [[context/myths-and-legends|Myths and Legends of Camp Kanawana]] for the full naming-origin discussion and search detail.
+A 1951 primary source, "Kamp Kanawana History" (presented at a training course on June 6, 1951), states: "A great deal of thought was given to choosing a name for the camp. Mr. Charlton suggested Kanawana which was like the name of a Furness Steamer. At a later meeting the name Kanawana was adopted, which means in the Indian language lots to eat."^2 This is the only source identifying who specifically proposed the camp's name, and independently confirms the "lots to eat" translation from a primary rather than secondary account. No corroboration has been found of an actual ship named "Kanawana" in Furness Withy or Furness Bermuda Line vessel records, despite a five-surface search (two published fleet lists, a general Furness Withy history, and Lloyd's Register Foundation's digitized register collection) turning up zero matches. See [[traditions/myths-and-legends|Myths and Legends of Camp Kanawana]] for the full naming-origin discussion and search detail.
 
 ## The 1943 "Early Days" Manuscript
 
@@ -32,8 +32,8 @@ The Concordia Archives also hold undated photographs of "R. H. Dawson" (likely R
 
 - [[people/ralph-dawson|Ralph Dawson]]
 - [[people/directors-index|Directors and Staff of Camp Kanawana]]
-- [[context/myths-and-legends|Myths and Legends of Camp Kanawana]]
-- [[chronology/founding-1894|Founding of Camp Kanawana (1894)]]
+- [[traditions/myths-and-legends|Myths and Legends of Camp Kanawana]]
+- [[history/founding-1894|Founding of Camp Kanawana (1894)]]
 
 ## Sources
 
