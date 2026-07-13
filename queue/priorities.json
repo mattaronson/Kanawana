@@ -2763,6 +2763,61 @@
       "assigned_weight": "P3",
       "created_at": "2026-07-10T04:00:00Z",
       "status": "pending"
+    },
+    {
+      "priority_id": "p_218",
+      "rank": 218,
+      "type": "RESEARCH",
+      "description": "Formal RALPH: research Rob Evis and \"Paddlefoot,\" a canoe-camping program reportedly founded by a former Kanawana alumnus. Search Paddlefoot + canoe/camping/Quebec/Ontario, Rob Evis + Kanawana/YMCA, Quebec/Ontario business registry for a legal entity, LinkedIn, canoe-tripping community sites (myccr.com, Ottertooth), Facebook/Instagram public pages, local news coverage, and a Trent University Archives finding-aid search (OCA/CCA fonds, camp brochure series) for \"Paddlefoot\"/\"Evis.\" Spawn people/rob-evis.md and/or programs/paddlefoot.md if facts warrant, else fold into notable-alumni.md.",
+      "article_id": "notable-alumni",
+      "blocking": false,
+      "assigned_weight": "P1",
+      "created_at": "2026-07-13T00:00:00Z",
+      "status": "pending"
+    },
+    {
+      "priority_id": "p_219",
+      "rank": 219,
+      "type": "RESEARCH",
+      "description": "Formal RALPH: research Steve Leckman and \"Coyote Camp,\" a program reportedly founded by a former Kanawana staff member. Explicitly disambiguate against f_0617 (Kanawana's own in-house 2017 \"Coyote Camp\" session referenced in the Emma Anders song) before adding any new fact -- log a disambiguation note either way. Search Coyote Camp + camping/canoe/Leckman, Steve Leckman + Kanawana/YMCA, business registry, LinkedIn, community sites, and a Trent finding-aid search for \"Coyote Camp\"/\"Leckman.\"",
+      "article_id": "notable-alumni",
+      "blocking": false,
+      "assigned_weight": "P1",
+      "created_at": "2026-07-13T00:00:00Z",
+      "status": "pending"
+    },
+    {
+      "priority_id": "p_220",
+      "rank": 220,
+      "type": "VERIFY",
+      "description": "Test the operator hypothesis that F.M. Van Wagner (founder of Camp Nominingue, 1925; see f_0186-f_0189) was a Kanawana staff member or director in the 1920s-30s before founding Nominingue -- this is the existing open question in wiki/context/canadian-camping-movement.md (Open Question #4) about no confirmed personnel link. Search Van Wagner obituary (died 1989 -- Gazette archive, Legacy.com), YMCA Montreal annual reports 1920-1930 for \"Wagner\" staff listings, genealogical records (Ancestry public trees, FamilySearch, Genealogie Quebec), Camp Nominingue institutional history for founder pre-1925 biography, McGill/Concordia yearbooks, and a Trent finding-aid search (\"Nominingue,\" \"Van Wagner,\" \"Wagner\") against the OCA/CCA fonds. If a link surfaces, add fact(s) + cross-link canadian-camping-movement.md to a new Nominingue context entry; if the 8-query/3-surface bar is exhausted with nothing, close the open question as checked/no link found.",
+      "article_id": "canadian-camping-movement",
+      "blocking": false,
+      "assigned_weight": "P1",
+      "created_at": "2026-07-13T00:00:00Z",
+      "status": "pending"
+    },
+    {
+      "priority_id": "p_221",
+      "rank": 221,
+      "type": "RESEARCH",
+      "description": "Research whether Kanawana's 1960s Counsellor-in-Training (CIT) program (wiki/programs/cit-lit-program.md, currently unsourced beyond \"1960s\") connects to, originated, or merely adopted the broader Canadian/YMCA camping movement's CIT concept. Search Canadian Camping Association historical publications and the digitized Canadian Camping magazine run (1949-1988) via a Trent finding-aid search for \"counsellor in training\"/\"CIT\" mentions and dating, Taylor Statten Camps CIT history for comparison, YMCA program manuals/archives, and American Camping Association CIT origin literature. Goal: place Kanawana in national context and confirm or rule out any claim of priority.",
+      "article_id": "cit-lit-program",
+      "blocking": false,
+      "assigned_weight": "P2",
+      "created_at": "2026-07-13T00:00:00Z",
+      "status": "pending"
+    },
+    {
+      "priority_id": "p_222",
+      "rank": 222,
+      "type": "VERIFY",
+      "description": "Bounded mop-up pass (not a full re-research) on two outstanding open questions in wiki/context/canadian-camping-movement.md: (1) Derek Walsh's exact Kanawana role beyond his 1983 CCA Award of Excellence / \"Kamp Kanawana\" Trent fonds association; (2) whether Kanawana directors attended CCA/OCA founding-era meetings. Includes a fresh Trent finding-aid pass on the still-untested P0145/12B05 \"Staff and Counsellors\" lead and the OCA fonds 72-007 Box 1 Folder 5 Kanawana brochure file (location confirmed, contents unread). Cap at 8 queries -- this is a mop-up, not a new campaign.",
+      "article_id": "canadian-camping-movement",
+      "blocking": false,
+      "assigned_weight": "P2",
+      "created_at": "2026-07-13T00:00:00Z",
+      "status": "pending"
     }
   ]
 }
