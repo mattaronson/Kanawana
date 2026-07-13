@@ -5823,6 +5823,12 @@
           "at": "2026-07-13T00:00:00Z",
           "by": "auto",
           "task": "RESEARCH"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-07-13T00:00:00Z",
+          "by": "auto",
+          "task": "RESEARCH"
         }
       ],
       "ralph_loops_completed": 3,
@@ -5898,12 +5904,15 @@
         "f_1993",
         "f_1994",
         "f_1995",
-        "f_1996"
+        "f_1996",
+        "f_2008",
+        "f_2009"
       ],
       "sources_cited": [
         "src_aca_dimock_award_recipients_2022_2026",
         "src_leckman_fb_ykanawana2011",
-        "src_leckman_wilderness_awareness"
+        "src_leckman_wilderness_awareness",
+        "src_oral_aronson"
       ],
       "open_questions": 7,
       "cross_links": [
@@ -5923,10 +5932,11 @@
         "stuart-mclean",
         "terry-mosher",
         "traditions-and-culture",
-        "steve-leckman"
+        "steve-leckman",
+        "robb-evis"
       ],
       "file_id": null,
-      "word_count": 2130,
+      "word_count": 2280,
       "tags": {
         "era": [
           "1910s",
@@ -5954,7 +5964,7 @@
         ],
         "is_hub": true
       },
-      "notes": "2026-07-11: Split John Cleghorn, Chris Adam, James Orbinski out to standalone articles (Workstream C1); trimmed their entries to pointers, fixed header sediment, added Research Notes/Revision History section. No facts dropped. | 2026-07-11: Split Bruce Netherwood out to a standalone article (was actually a documented Director 1988-1994, not merely a Pip Award recipient); trimmed entry to a pointer. | 2026-07-11: Split Richard Patten, Carol Skinner, Sam Lazarus, R.L. Charlton out to standalone articles; trimmed their entries to pointers. | 2026-07-13: Campaign 74 -- added Steve Leckman entry (spawned to standalone stub) and Open Question #8 (Rob Evis/Paddlefoot, tested/unconfirmed)."
+      "notes": "2026-07-11: Split John Cleghorn, Chris Adam, James Orbinski out to standalone articles (Workstream C1); trimmed their entries to pointers, fixed header sediment, added Research Notes/Revision History section. No facts dropped. | 2026-07-11: Split Bruce Netherwood out to a standalone article (was actually a documented Director 1988-1994, not merely a Pip Award recipient); trimmed entry to a pointer. | 2026-07-11: Split Richard Patten, Carol Skinner, Sam Lazarus, R.L. Charlton out to standalone articles; trimmed their entries to pointers. | 2026-07-13: Campaign 74 -- added Steve Leckman entry (spawned to standalone stub) and Open Question #8 (Rob Evis/Paddlefoot, tested/unconfirmed). | 2026-07-13 (Campaign 75): operator confirmed Robb Evis's 1993-94 Kanawana tenure directly; added entry and resolved Open Question #8; spawned robb-evis.md."
     },
     {
       "article_id": "environmental-history",
@@ -9021,6 +9031,60 @@
       "tags": {
         "era": [
           "2010s",
+          "2020s"
+        ],
+        "region": "montreal",
+        "location_refs": [],
+        "person_type": "alumnus",
+        "topics": [
+          "notable_alumni",
+          "people"
+        ],
+        "is_hub": false
+      }
+    },
+    {
+      "article_id": "robb-evis",
+      "title": "Robb Evis",
+      "wiki_folder": "people/notable-alumni",
+      "status": "stub",
+      "status_history": [
+        {
+          "status": "stub",
+          "at": "2026-07-13T00:00:00Z",
+          "by": "auto",
+          "task": "RESEARCH"
+        }
+      ],
+      "ralph_loops_completed": 0,
+      "kb_facts_used": [
+        "f_2008",
+        "f_2009",
+        "f_1986",
+        "f_1987",
+        "f_1988",
+        "f_1989",
+        "f_1990"
+      ],
+      "sources_cited": [
+        "src_oral_aronson",
+        "src_paddlefoot_history",
+        "src_flickr_kanawana_plaque_album",
+        "src_paddlefoot_director",
+        "src_corp_registry_paddlefoot",
+        "src_paddlefoot_home"
+      ],
+      "open_questions": 3,
+      "cross_links": [
+        "notable-alumni",
+        "steve-leckman"
+      ],
+      "file_id": null,
+      "word_count": 420,
+      "notes": "2026-07-13: Campaign 75 spawn. Operator directly confirmed Evis's 1993-94 Kanawana staff tenure (oral history, confidence: user_knowledge), resolving notable-alumni.md's Open Question #8. Combines this with the already-sourced Paddlefoot/Wilderness Safety Systems facts from Campaign 74 (p_218). Set to stub: Kanawana connection rests on a single oral-history source pending independent documentary corroboration (see parallel p_223 plaque re-mining pass).",
+      "tags": {
+        "era": [
+          "1990s",
           "2020s"
         ],
         "region": "montreal",

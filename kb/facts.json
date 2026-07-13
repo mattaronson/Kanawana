@@ -1,8 +1,8 @@
 {
   "version": "v4.98",
-  "kb_version": "v5.10",
+  "kb_version": "v5.11",
   "migrated_from": "3.3",
-  "fact_count": 1969,
+  "fact_count": 1971,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -34095,6 +34095,41 @@
       "conflicts_with": [],
       "added_version": "v5.10",
       "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_2008",
+      "claim": "Robb Evis (also spelled 'Rob' informally) was a Camp Kanawana staff member in at least the 1993 and 1994 seasons, per the operator's direct personal account of having worked alongside him at camp those years.",
+      "sources": [
+        "src_oral_aronson"
+      ],
+      "confidence": "user_knowledge",
+      "category": "people",
+      "entities": [
+        "Robb Evis",
+        "Camp Kanawana",
+        "Matt Aronson"
+      ],
+      "date_ref": "1993-1994",
+      "conflicts_with": [],
+      "added_version": "v5.11",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_2009",
+      "claim": "The operator independently recalled the spelling 'Robb' (double-b) for Evis's name, matching the spelling already documented in Paddlefoot's own bio (f_1988, 'Robert \"Robb\" Evis') -- corroborating detail supporting that this is the same person, on top of the biographical plausibility of a Montreal-raised camp counsellor in his early-to-mid 20s founding an outdoor-education company (Paddlefoot, 1996) two to three years after a 1993-94 camp staff role.",
+      "sources": [
+        "src_oral_aronson"
+      ],
+      "confidence": "user_knowledge",
+      "category": "people",
+      "entities": [
+        "Robb Evis",
+        "Paddlefoot"
+      ],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "v5.11",
+      "added_by": "manual"
     }
   ]
 }

@@ -2828,6 +2828,28 @@
       "status": "completed",
       "completed_at": "2026-07-13T00:00:00Z",
       "result": "8 queries (capped). Directly fetched both institutions' master finding-aid PDFs. P0145/12B05 confirmed as a genuine, access-restricted staff/counsellor sub-series (no online item list; legacy box-listing URL now 404). OCA Box1/Folder5 verbatim entry text captured; its photograph-inventory appendix contains no Kanawana entries. No new angle attempted on Derek Walsh/meeting-attendance questions per instructions. 2 new facts (f_2006-f_2007), 2 new sources. Updated Open Questions #4 and #5 in canadian-camping-movement.md."
+    },
+    {
+      "priority_id": "p_223",
+      "rank": 223,
+      "type": "RESEARCH",
+      "description": "Bounded re-investigation (not a repeat of p_218's 31-query general web sweep): the operator has confirmed Robb Evis was Kanawana staff in 1993-94. Re-examine the Flickr plaque album (src_flickr_kanawana_plaque_album) specifically for (a) the illegible names on the 1993 'C.I.T.'s of '93' plaque (f_1568) -- check if a clearer image, alternate crop, or album caption/comment resolves any to 'Evis' or 'Van Dam'; (b) any 1994 staff/CIT roster plaque not yet extracted into the KB (currently only a nameless 'Nature Trip 1994' plaque and an unrelated 'Kamp Kanawana 1994' wall-plaque mention exist). Also re-read the existing Paddlefoot/Wilderness Safety Systems source pages (src_paddlefoot_home, src_paddlefoot_history, src_paddlefoot_director) specifically for any 'Kanawana'/'YMCA'/'counsellor'/'camp' mention in Evis's own bio text.",
+      "article_id": "robb-evis",
+      "blocking": false,
+      "assigned_weight": "P1",
+      "created_at": "2026-07-13T00:00:00Z",
+      "status": "pending"
+    },
+    {
+      "priority_id": "p_224",
+      "rank": 224,
+      "type": "RESEARCH",
+      "description": "Formal RALPH: research Tim Van Dam, possibly connected to both Paddlefoot and Camp Kanawana (operator lead). Blank slate -- zero KB mentions of 'Van Dam' currently. Search 'Tim Van Dam' + Paddlefoot/Wilderness Safety Systems, 'Tim Van Dam' + Kanawana/YMCA, LinkedIn, Facebook, Quebec/Ontario business registry (check for co-registration with Paddlefoot Inc. or a related entity), canoe-tripping community forums (myccr.com, Ottertooth), and the same Flickr plaque album re-mining from p_223. If a real connection surfaces to either Paddlefoot or Kanawana, add facts and assess whether it warrants folding into wiki/people/notable-alumni/robb-evis.md, a standalone stub, or a notable-alumni.md entry.",
+      "article_id": "notable-alumni",
+      "blocking": false,
+      "assigned_weight": "P1",
+      "created_at": "2026-07-13T00:00:00Z",
+      "status": "pending"
     }
   ]
 }
