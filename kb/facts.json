@@ -1,8 +1,8 @@
 {
   "version": "v4.98",
-  "kb_version": "v5.11",
+  "kb_version": "v5.12",
   "migrated_from": "3.3",
-  "fact_count": 1971,
+  "fact_count": 1976,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -26433,7 +26433,7 @@
     },
     {
       "fact_id": "f_1568",
-      "claim": "A dining-hall plaque titled 'C.I.T.'s of '93' names Sophie Caisse and Simon Heller as the two 'directors' of the 1993 CIT program, with 32 CITs listed by name including Matt Aronson (the wiki project's operator, who confirms his own attendance as a CIT that summer). Other legible names: Monique Ah-Sue, Kosyo Bradbury, Chris Gayton, Ali Liebich, Aimee Castle, Sam Grossman, Toby Lyle, Tracey Azeff, Lisa Cecchini, Ryan Harbinson, Katie Musgrave, Marisa Bacchiochi, Kippie Clark, Katie Havercroft, Andrea Pahl, Adrian di Giovanni, Andrew Heathcote, Adam Perritt, Talia Dorsey, Andrew Henle, Maurice Presser, Dave Drury, Steph Hurlburt, Rob Starke, Susan Gamberg, Alison Leduc, Mara Welch. Several first names in the leftmost column are illegible in the photograph (handwriting/lighting) and are omitted here pending a clearer image or operator confirmation.",
+      "claim": "A dining-hall plaque titled 'C.I.T.'s of '93' names Sophie Caisse and Simon Heller as the two 'directors' of the 1993 CIT program, with 32 CITs listed by name including Matt Aronson (the wiki project's operator, who confirms his own attendance as a CIT that summer). Other legible names: Monique Ah-Sue, Kosyo Bradbury, Chris Gayton, Ali Liebich, Aimee Castle, Sam Grossman, Toby Lyle, Tracey Azeff, Lisa Cecchini, Ryan Harbinson, Katie Musgrave, Marisa Bacchiochi, Kippie Clark, Katie Havercroft, Andrea Pahl, Adrian di Giovanni, Andrew Heathcote, Adam Perritt, Talia Dorsey, Andrew Henle, Maurice Presser, Dave Drury, Steph Hurlburt, Rob Starke, Susan Gamberg, Alison Leduc, Mara Welch. A closer re-examination (Campaign 75, 2026-07-13) additionally identified Simon Bergeron and Alex Bullhorn among the CITs (moderate confidence -- direct visual read of cursive handwriting, no independent corroboration). Two more surnames are legible in the same column, 'Bacon' and 'Borratt,' but their first names remain illegible even on re-inspection and are omitted pending a clearer image or operator confirmation. Neither 'Evis' nor 'Van Dam' appears anywhere on this plaque.",
       "sources": [
         "src_flickr_kanawana_plaque_album",
         "src_oral_aronson"
@@ -26449,7 +26449,7 @@
       ],
       "date_ref": "1993",
       "conflicts_with": [],
-      "added_version": "v4.9x",
+      "added_version": "v5.12",
       "added_by": "manual"
     },
     {
@@ -34130,6 +34130,99 @@
       "conflicts_with": [],
       "added_version": "v5.11",
       "added_by": "manual"
+    },
+    {
+      "fact_id": "f_2010",
+      "claim": "Susan 'Sue' O'Rorke Evis, Paddlefoot's co-founder, states in her own bio that she 'began her canoe tripping life as a camper at Taylor Statten Camps' -- a different camp from Camp Kanawana.",
+      "sources": [
+        "src_wss_our_staff"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "Sue O'Rorke Evis",
+        "Taylor Statten Camps",
+        "Paddlefoot"
+      ],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "v5.12",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_2011",
+      "claim": "Paddlefoot and Wilderness Safety Systems' own current site pages name only Robert 'Robb' Evis and Susan 'Sue' O'Rorke Evis as founders/directors, plus staff Brad Davies, Marty Pomerleau, and Jamie Rosen -- no 'Van Dam' appears among any current founder, director, or staff listing.",
+      "sources": [
+        "src_wss_our_staff",
+        "src_wss_about",
+        "src_paddlefoot_wss2"
+      ],
+      "confidence": "stated",
+      "category": "programs",
+      "entities": [
+        "Paddlefoot",
+        "Wilderness Safety Systems",
+        "Robb Evis"
+      ],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "v5.12",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_2012",
+      "claim": "A person named Tim Van Dam appears alongside Robb Evis (and, in a second photo, Jake May and Bonnie Anderson) in wilderness-rescue training photographs posted by the Wilderness Safety Systems Flickr account, titled 'Live Bait -Tandem Rescue (Robb Evis, Tim Van Dam)' and 'Line Rescue (Rob Evis, Tim Van Dam, Jake May, Bonnie Anderson),' both dated 2009-01-20.",
+      "sources": [
+        "src_flickr_wss_live_bait",
+        "src_flickr_wss_line_rescue"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "Tim Van Dam",
+        "Robb Evis",
+        "Wilderness Safety Systems",
+        "Jake May",
+        "Bonnie Anderson"
+      ],
+      "date_ref": "2009",
+      "conflicts_with": [],
+      "added_version": "v5.12",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_2013",
+      "claim": "A Tim Van Dam is Interim Executive Director of the Northwest Territories Recreation and Parks Association, founder of 'South Slave Safety,' moved to the NWT in 2003, with a career described as 'in camps, aquatics, wilderness guiding, and outdoor and experiential education.' No source found confirms this is the same person as the Tim Van Dam in the Wilderness Safety Systems photographs (f_2012) -- the resemblance in career shape is circumstantial only, not a sourced identity match.",
+      "sources": [
+        "src_nwtrpa_tim_van_dam"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "Tim Van Dam",
+        "Northwest Territories Recreation and Parks Association"
+      ],
+      "date_ref": "2003",
+      "conflicts_with": [],
+      "added_version": "v5.12",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_2014",
+      "claim": "Despite 33 queries across 10+ search surfaces (general web, Flickr, Paddlefoot's and Wilderness Safety Systems' own sites, NWTRPA's site, LinkedIn, Facebook, Instagram, TikTok, Quebec/federal business registries, canoe-tripping forums), no source connects any Tim Van Dam to Camp Kanawana in any capacity. Wayback Machine access, which might have surfaced an older Paddlefoot/WSS staff bio page, was blocked in this research environment -- a genuine tooling gap rather than a fully exhausted result.",
+      "sources": [
+        "src_web_search_exhausted"
+      ],
+      "confidence": "inferred",
+      "category": "people",
+      "entities": [
+        "Tim Van Dam",
+        "Camp Kanawana"
+      ],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "v5.12",
+      "added_by": "ralph_loop"
     }
   ]
 }

@@ -9056,7 +9056,7 @@
           "task": "RESEARCH"
         }
       ],
-      "ralph_loops_completed": 0,
+      "ralph_loops_completed": 1,
       "kb_facts_used": [
         "f_2008",
         "f_2009",
@@ -9064,7 +9064,13 @@
         "f_1987",
         "f_1988",
         "f_1989",
-        "f_1990"
+        "f_1990",
+        "f_2010",
+        "f_2011",
+        "f_2012",
+        "f_2013",
+        "f_2014",
+        "f_1568"
       ],
       "sources_cited": [
         "src_oral_aronson",
@@ -9072,7 +9078,14 @@
         "src_flickr_kanawana_plaque_album",
         "src_paddlefoot_director",
         "src_corp_registry_paddlefoot",
-        "src_paddlefoot_home"
+        "src_paddlefoot_home",
+        "src_wss_our_staff",
+        "src_wss_about",
+        "src_paddlefoot_wss2",
+        "src_flickr_wss_live_bait",
+        "src_flickr_wss_line_rescue",
+        "src_nwtrpa_tim_van_dam",
+        "src_web_search_exhausted"
       ],
       "open_questions": 3,
       "cross_links": [
@@ -9080,7 +9093,7 @@
         "steve-leckman"
       ],
       "file_id": null,
-      "word_count": 420,
+      "word_count": 650,
       "notes": "2026-07-13: Campaign 75 spawn. Operator directly confirmed Evis's 1993-94 Kanawana staff tenure (oral history, confidence: user_knowledge), resolving notable-alumni.md's Open Question #8. Combines this with the already-sourced Paddlefoot/Wilderness Safety Systems facts from Campaign 74 (p_218). Set to stub: Kanawana connection rests on a single oral-history source pending independent documentary corroboration (see parallel p_223 plaque re-mining pass).",
       "tags": {
         "era": [

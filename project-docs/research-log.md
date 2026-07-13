@@ -3568,3 +3568,76 @@ The operator proposed a new Phase 2 research angle directly: camps and programs 
 ### Outcome
 
 Of the three named leads, one (Leckman/Coyote Club) confirmed a real but differently-named connection; two (Evis/Paddlefoot, Van Wagner/Nominingue) came back as genuine, well-searched null results rather than confirmations of the operator's specific recollections — logged transparently as such rather than forced into a positive finding. The CIT-national-context and CCA/QCA mop-up passes both surfaced incremental, real refinements (the Dimock circumstantial link; the P0145/12B05 and OCA-brochure archival confirmations) without overturning any existing conclusion. This batch is a useful reminder that Phase 2's "wide net" methodology is equally valuable for closing operator-supplied leads honestly as it is for finding new material — an unconfirmed oral-history claim, tested exhaustively and logged as such, is a genuine research product in its own right.
+
+## Campaign 75 (2026-07-13): Operator-Confirmed Robb Evis Tenure + Tim Van Dam Research
+
+Direct follow-up to Campaign 74's p_218 (Rob Evis/Paddlefoot), which had closed as `exhausted-web`
+after a null 31-query, 10-surface sweep found no documentary link between Evis and Kanawana. The
+operator supplied exactly the missing detail: direct personal testimony that he worked alongside
+Robb Evis (operator's own spelling correction — double-b) at Kanawana in 1993 and 1994, plus a new
+lead, Tim Van Dam, possibly connected to both Paddlefoot and Kanawana.
+
+### Recording the operator's testimony
+
+This KB already has an established category for exactly this situation — `confidence:
+"user_knowledge"`, sourced to `src_oral_aronson` — used elsewhere for tenures like Arleen Boyer's
+and Joanna Hoad's directorships, which are also undocumented by any independent web source. Two
+new facts (f_2008, f_2009) record the operator's account, without touching or overwriting f_1991
+(the earlier null-result fact) — both stand side by side, one describing the state of public
+documentary evidence, the other the operator's direct testimony. Spawned
+`wiki/people/notable-alumni/robb-evis.md` as a stub, now that Evis clears the Article Spawning
+Threshold ("named person who held a camp role").
+
+### p_223: Bounded plaque/photo re-mining (not a repeat of the prior sweep)
+
+Rather than re-running the same broad web query set, this pass went straight to Kanawana's own
+primary materials, now that specific years (1993-94) narrow the search. The Flickr plaque album
+(151 photos) is already cached locally in this repo at `assets/images/plaques/`, so no re-fetch
+was needed — the cached 1993 "C.I.T.'s of '93" plaque image was re-examined directly. This
+surfaced two additional legible CIT names beyond the 27 already transcribed (Simon Bergeron, Alex
+Bullhorn — `f_1568` updated accordingly), plus two more surnames ("Bacon," "Borratt") whose first
+names remain illegible even on close re-inspection. Neither "Evis" nor "Van Dam" appears anywhere
+on this plaque. No 1994 staff/CIT roster plaque exists in the album at all — it jumps directly
+from `cit-1993.jpg` to `cit-1995.jpg`; only a nameless "Nature Trip 1994" board is dated 1994. A
+direct re-read of Paddlefoot's and Wilderness Safety Systems' own bio pages found no Kanawana
+mention for either founder — interestingly, co-founder Sue (O'Rorke) Evis's own bio *does* name a
+specific camp background, but it's Taylor Statten Camps, not Kanawana. One genuine gap remains:
+the 1993 plaque's Flickr photo page has exactly one comment that loads dynamically via JavaScript
+and is inaccessible to this project's fetch tools — a human with a logged-in browser could check
+it in under a minute; flagged as a specific, low-effort follow-up rather than closed off.
+
+### p_224: Tim Van Dam (formal RALPH, blank slate)
+
+33 queries across general web search, Flickr, Paddlefoot's and Wilderness Safety Systems' own
+sites, NWTRPA's site, LinkedIn, Facebook, Instagram, TikTok, Quebec/federal business registries,
+and canoe-tripping forums (myccr.com, Ottertooth). The most substantive find: a "Tim Van Dam"
+appears by name alongside Robb Evis in two 2009-dated Wilderness Safety Systems training photos
+on the organization's own Flickr account — a real, citable connection to the Evis/Paddlefoot
+orbit, partially validating the operator's instinct. However, no source anywhere connects any Tim
+Van Dam to Camp Kanawana specifically. A same-named individual — Interim Executive Director of
+the Northwest Territories Recreation and Parks Association, with a career "in camps, aquatics,
+wilderness guiding, and outdoor and experiential education" — is a plausible but entirely
+unconfirmed match to the WSS photos' Van Dam (career-shape resemblance only, no sourced identity
+link). Worth flagging: Wayback Machine access was blocked in this research environment throughout,
+meaning an older Paddlefoot/WSS staff bio page (which might name Kanawana or clarify Van Dam's
+role) could not be checked — a genuine tooling gap, not a fully exhausted avenue, and worth a
+retry if archive.org access becomes available in a future session. An AI-search-summary
+misattribution (a different instructor's bio, "Tim Martin," briefly and incorrectly surfaced as
+Van Dam's) was caught and corrected by direct source verification before it could enter the KB —
+a reminder to verify AI-synthesized search summaries against the underlying page before citing.
+
+### Integration
+
+7 new KB facts (f_2008-f_2014) plus one refinement to an existing fact (f_1568). 6 new source
+records. 1 new wiki article (`robb-evis.md`, stub); `notable-alumni.md` updated (new entry,
+resolved Open Question #8, new source). No new conflict records. KB v5.11 -> v5.12.
+
+### Outcome
+
+A clean example of the project's oral-history protocol working as designed: an unconfirmed lead
+from Campaign 74 was neither forced into a false "confirmed" state nor left stuck at "unconfirmed"
+indefinitely — the operator's direct testimony resolved it at the confidence level this KB already
+treats as authoritative for exactly this kind of gap, while the parallel web research honestly
+reported what it could and couldn't verify independently, including flagging genuine remaining
+gaps (the inaccessible Flickr comment, blocked Wayback Machine access) rather than papering over
+them as exhausted.

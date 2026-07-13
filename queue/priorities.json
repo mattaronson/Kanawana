@@ -2838,7 +2838,9 @@
       "blocking": false,
       "assigned_weight": "P1",
       "created_at": "2026-07-13T00:00:00Z",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-07-13T00:00:00Z",
+      "result": "Re-mined the Flickr plaque album directly (cached locally at assets/images/plaques/) and re-read Paddlefoot/WSS bio pages. No 'Evis' or 'Van Dam' found on any plaque; the 1993 CIT plaque yielded 2 newly-legible names (Simon Bergeron, Alex Bullhorn -- f_1568 updated) but neither is Evis, and no 1994 staff/CIT roster plaque exists in the album. Paddlefoot's own site never mentions Kanawana for either founder; co-founder Sue Evis's own bio names Taylor Statten Camps as her camp background instead (f_2010). One untried lead: the 1993 plaque's single Flickr comment is inaccessible to automated tools (dynamically loaded) -- flagged for a human check. Confirms the Kanawana connection remains oral-history-only, consistent with how this KB treats other undocumented tenures."
     },
     {
       "priority_id": "p_224",
@@ -2849,7 +2851,9 @@
       "blocking": false,
       "assigned_weight": "P1",
       "created_at": "2026-07-13T00:00:00Z",
-      "status": "pending"
+      "status": "completed",
+      "completed_at": "2026-07-13T00:00:00Z",
+      "result": "33 queries across 10+ surfaces. Found a real, documented connection: a 'Tim Van Dam' appears with Robb Evis in 2009-dated Wilderness Safety Systems training photos (f_2012) -- confirming the operator's Paddlefoot lead. No source found connects any Tim Van Dam to Camp Kanawana. A same-named NWT recreation-association officer with a similar wilderness/camps career (f_2013) could not be confirmed as the same person. Wayback Machine access was blocked in this environment, a genuine tooling gap rather than full exhaustion. 5 new facts (f_2010-f_2014), 6 new sources. Added a new 'Tim Van Dam' section and Open Question to wiki/people/notable-alumni/robb-evis.md; not spawned as a standalone article."
     }
   ]
 }
