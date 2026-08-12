@@ -2773,8 +2773,10 @@
       "blocking": false,
       "assigned_weight": "P1",
       "created_at": "2026-08-12T00:00:00Z",
-      "status": "pending",
-      "notes": "Largest concrete lever identified in the 2026-08-12 state review: 28 of 85 articles (33%) are one required task type away from R3-verified, none started."
+      "status": "in_progress",
+      "notes": "Largest concrete lever identified in the 2026-08-12 state review: 28 of 85 articles (33%) are one required task type away from R3-verified, none started.",
+      "audit_completed_at": "2026-08-12T00:00:00Z",
+      "result": "AUDIT HALF COMPLETE; FIX HALF OUTSTANDING. 5 parallel read-only audit agents (one per cluster) plus a mechanical harness. RESULT: 48 BLOCKING + 76 MINOR findings; ZERO of 28 articles pass the R3 bar. This INVERTS p_218's own premise -- the entry predicted VERIFY would be 'fast per article' because these were WRITE-only syntheses of already-cited facts. Synthesis is precisely what introduced the drift. Three signatures: (1) a number/qualifier lifted from the source article and re-attached to the wrong claim; (2) citation markers pointing at whichever source was nearest rather than the one carrying the claim; (3) documented uncertainty flattened into narrative continuity. The mechanical harness found the articles nearly spotless (all ^N resolve, all [src_] resolve, 0 broken links) -- which is exactly why the qualitative pass was necessary. Full findings: project-docs/VERIFY-FINDINGS-p218-2026-08-12.md. Reusable scripts: scripts/verify/. One fix applied and committed so far (957862c): privacy removal in rob-braide.md. Fix work split into p_222-p_227. p_218 closes when those close."
     },
     {
       "priority_id": "p_219",
@@ -2809,6 +2811,111 @@
       "created_at": "2026-08-12T00:00:00Z",
       "status": "pending",
       "notes": "Confirm with operator whether these 14 are still desired given the operator-authorized C5 policy revision context (Campaign 71) before spawning, since the revision was scoped case-by-case rather than as a blanket C5 list removal."
+    },
+    {
+      "priority_id": "p_222",
+      "rank": 222,
+      "type": "VERIFY",
+      "description": "Apply the 12 BLOCKING chronology fixes from the p_218 audit (weakest cluster). Highest priority single item in the whole sweep: modern-era.md:16 says the camp 'closed overnight in 2021 ... then reopened in 2021' -- self-contradictory and contradicted by sean-day.md:44, which documents a SECOND consecutive closed season. Also: 'the camp's second Centennial' (1994 was its first and only); 'two pandemics'; Garcia->Taylor false continuity; Grand Portage/Clivus miscited to the 2008 annual report; interwar-era.md:24 claims two never-read manuscripts corroborate each other; the 1963-1973 gap surfaced nowhere. See project-docs/VERIFY-FINDINGS-p218-2026-08-12.md for file:line detail.",
+      "article_id": null,
+      "blocking": false,
+      "assigned_weight": "P1",
+      "created_at": "2026-08-12T00:00:00Z",
+      "status": "pending",
+      "notes": "12 BLOCKING, 15 MINOR across interwar-era, postwar-gap, between-centennials, modern-era, timeline-overview."
+    },
+    {
+      "priority_id": "p_223",
+      "rank": 223,
+      "type": "VERIFY",
+      "description": "Apply the 11 BLOCKING Two-Tier Era director fixes from the p_218 audit. Dominant theme: conflict c_015 was resolved on 2026-07-07 but its resolution was never propagated -- david-leduc.md:8 and morgan-carter.md:8 still credit Gary White as Executive Director for years after his documented FY2001-2002 tenure, and morgan-carter.md contradicts itself within one article. The honest answer for 2003-2004 appears to be 'no Executive Director documented', NOT a substitute name. Also: david-leduc.md:16 chronological impossibility (an Oxfam role framed as 'After Kanawana' that predates the directorship by 2-4 years); uncited load-bearing claims in morgan-carter.md:12 and arleen-boyer.md:16 whose sources are absent from the article entirely; arleen-boyer.md:16 'five years' should be three-to-four.",
+      "article_id": null,
+      "blocking": false,
+      "assigned_weight": "P1",
+      "created_at": "2026-08-12T00:00:00Z",
+      "status": "pending",
+      "notes": "Fixing the White conflation requires the same decision applied consistently across david-leduc.md, morgan-carter.md AND directors-index.md:59 (which is E1-reviewed -- see p_227)."
+    },
+    {
+      "priority_id": "p_224",
+      "rank": 224,
+      "type": "VERIFY",
+      "description": "Apply the remaining 8 BLOCKING notable-alumni fixes from the p_218 audit (the 9th, rob-braide.md's private-individual genealogy, is already fixed in 957862c). Includes: the 1967 canoe-trip account in rob-braide.md:14 conflicting with centennial-1967.md:43 on party size AND route, while being internally self-contradictory in one sentence; sam-lazarus.md drawing exact dates and full name from f_0611, the very fact its own research note declares unusable; the SAM JAM totals contradiction; and notable-alumni.md:50-54 still carrying Orbinski's full biography that its own Revision History says was trimmed to a pointer.",
+      "article_id": null,
+      "blocking": false,
+      "assigned_weight": "P1",
+      "created_at": "2026-08-12T00:00:00Z",
+      "status": "pending"
+    },
+    {
+      "priority_id": "p_225",
+      "rank": 225,
+      "type": "VERIFY",
+      "description": "Apply the 8 BLOCKING early/mid-era people fixes from the p_218 audit. Includes: ross-bannerman.md:8 placing Camp Pascobac 'in Manitoba' when no KB fact locates it and McEwen recruited him in Saint John NB; rl-charlton.md:22 asserting, with no citation at all, that Charlton is named in an archival listing the KB explicitly records as 'Contents not yet read' (f_1913 names D.A. Budge, not Charlton); richard-patten.md:8 stating as fact an inferential identification of 'Rick Patten' on a 1963 plaque with Richard Patten MPP, against directors-index.md:157 which records his camp years as DAY camps; and greig-macdiarmid.md:23 claiming no source exists outside 1935-1938 when f_1841 documents W.H. Spearman as director for the 1933 season.",
+      "article_id": null,
+      "blocking": false,
+      "assigned_weight": "P1",
+      "created_at": "2026-08-12T00:00:00Z",
+      "status": "pending",
+      "notes": "f_1841 also reveals directors-index.md has no W.H. Spearman row at all -- a documented director missing from the people index. Handle with p_227."
+    },
+    {
+      "priority_id": "p_226",
+      "rank": 226,
+      "type": "VERIFY",
+      "description": "Apply the 8 BLOCKING programs/places/documents fixes from the p_218 audit. Includes: camp-pine-crest.md:8 hardening f_1299's documented 'inspired by' into 'IS the direct origin' of the L&V Games -- uncited, and resting on a source the article does not list; green-triangle.md contradicting itself on whether 38 or 3 issues were examined (the source record shows 6); the Lashley/Leshley name split; cit-lit-program.md:8 'run continuously for over six decades' against a documented 15-year hole (1960-1975) and its own body's 'three and a half decades'.",
+      "article_id": null,
+      "blocking": false,
+      "assigned_weight": "P1",
+      "created_at": "2026-08-12T00:00:00Z",
+      "status": "pending",
+      "notes": "On the Trailblazers age range, cit-lit-program.md is CORRECT (16-17, per its source's own title) and section-names.md is wrong -- fix the E1 article, not the draft."
+    },
+    {
+      "priority_id": "p_227",
+      "rank": 227,
+      "type": "REVIEW",
+      "description": "Fix the 10 defects the p_218 sweep found in already-E1-REviewed articles. Significant finding in its own right: E1-reviewed is the top status tier, yet these errors sat undetected until draft articles leaned on them. Includes directors-index.md (Gary White conflation inherited at :59; McEwen's 1951 title wrong at :144; the 1963-1973 gap at :185 contradicting its own table; no W.H. Spearman row; Netherwood's title still the oral-history form), pip-alumni-award.md (:48 arithmetic -- says 12 recipients through 2018, the table lists 11; and :64 SAM JAM totals), section-names.md (Trailblazers age), quebec-camp-landscape.md:107 (stale, asserts a reading lv-games.md formally retracted 2026-07-09), centennial-1967.md:63 (Open Question marked 'confirmed dead end' though f_1825 now names one of the participants).",
+      "article_id": null,
+      "blocking": false,
+      "assigned_weight": "P1",
+      "created_at": "2026-08-12T00:00:00Z",
+      "status": "pending",
+      "notes": "Raises a process question worth putting to the operator: E1-reviewed articles are not being re-verified when downstream work contradicts them. Consider a standing rule that a VERIFY finding against a reference article re-opens that article's status."
+    },
+    {
+      "priority_id": "p_228",
+      "rank": 228,
+      "type": "VERIFY",
+      "description": "Open conflict records for the four genuine documented-vs-documented disagreements the p_218 sweep surfaced, per CLAUDE.md's no-silent-overwrite rule. None is resolvable from available sources and none should be closed by guessing: (1) Nicolas Garcia and Kate Taylor both hold the single on-site Director role for 2013-early 2014, with directors-index.md also naming Kristen Whitelaw as Garcia's successor by April 2015; (2) Ross Bannerman 'CEO of the Montreal YMCA in the late 1970s' vs Richard Patten 'Executive Director of the YMCA in Montreal 1976-79' -- plausibly the same office in the same years; (3) Rob Braide's job title, GM of Standard Broadcasting (f_1950) vs President of Standard Broadcasting Corporation (f_1825, per directors-index.md:169); (4) the 1967 canoe trip's party composition and route, rob-braide.md:14 vs centennial-1967.md:43.",
+      "article_id": null,
+      "blocking": false,
+      "assigned_weight": "P2",
+      "created_at": "2026-08-12T00:00:00Z",
+      "status": "pending"
+    },
+    {
+      "priority_id": "p_229",
+      "rank": 229,
+      "type": "VERIFY",
+      "description": "Close the systematic Overview-citation gap: 18 of 25 draft Overviews assert dates with no citation marker at all, against 15% for mature E1-reviewed articles (33 sampled) and 3/3 for R3-verified. The Campaign 65-71 spawns adopted a convention the rest of the wiki does not follow, and it bears directly on the R3 bar's 'every claim cited'. Several BLOCKING findings in p_223/p_224 are instances of it (kate-taylor 'Wawa', marie-pierre-lacasse's 2007-2010 role, both appearing ONLY in an uncited Overview). NOTE: do not attempt to automate this by matching years sentence-by-sentence -- that was tried and failed, because house style places the ^N marker AFTER the sentence period, so a naive sentence splitter detaches every marker from its own sentence.",
+      "article_id": null,
+      "blocking": false,
+      "assigned_weight": "P2",
+      "created_at": "2026-08-12T00:00:00Z",
+      "status": "pending"
+    },
+    {
+      "priority_id": "p_230",
+      "rank": 230,
+      "type": "HUMAN_REVIEW",
+      "description": "Two folder-placement calls from the p_218 sweep need an operator decision; the audit agent deliberately did not move either. (1) chris-adam.md is filed under people/notable-alumni/ but reads as core people/ -- he was camp staff who built a camp program (environmental-history.md:74 calls his 1980 Nature Awareness program the earliest identifiable moment environmental education became a distinct stream at Kanawana), and f_1866 documents him on the 1988-89 Kamp Kanawana Committee. Comparable staff-plus-program figures (Netherwood, Smee, Twynam) all sit in core people/. (2) sam-lazarus.md fails CLAUDE.md's 'would this person be notable if Kanawana never existed?' test outright -- he died at 25 and his enduring significance IS the camp's own Sam Lazarus Fund and SAM JAM. Also flagged separately: richard-patten.md is in core people/ but meets the notable-alumni test squarely (an Ontario MPP with a Wikipedia article who never held a camp role).",
+      "article_id": null,
+      "blocking": false,
+      "assigned_weight": "P2",
+      "created_at": "2026-08-12T00:00:00Z",
+      "status": "pending",
+      "notes": "Editorial/taxonomy judgement, not a factual dispute -- genuine human decision point per CLAUDE.md."
     }
   ]
 }
