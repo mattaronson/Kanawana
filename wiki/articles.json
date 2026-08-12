@@ -7089,8 +7089,7 @@
       "sources_cited": [
         "src_reportage_vecu_2007",
         "src_broadcasting_history_braide",
-        "src_billboard_ca_braide",
-        "src_gulf_islands_driftwood_braide_obit"
+        "src_billboard_ca_braide"
       ],
       "open_questions": 4,
       "cross_links": [
@@ -7099,7 +7098,7 @@
       ],
       "file_id": null,
       "word_count": 1099,
-      "notes": "2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- removed a duplicate old-style HTML-comment header. No facts, citations, or open questions dropped; status unchanged (draft).",
+      "notes": "2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- removed a duplicate old-style HTML-comment header. No facts, citations, or open questions dropped; status unchanged (draft). | 2026-08-12 (p_218 VERIFY): removed the \"Possible Family Connection\" section and its obituary source per CLAUDE.md Phase 2 privacy rule -- it published genealogy about private individuals who were minors, on a disputed-confidence inference, and concluded no link to the subject existed. f_1952 preserved in KB, no longer reproduced in prose. See article Research Notes.",
       "tags": {
         "era": [],
         "region": "not-applicable",
