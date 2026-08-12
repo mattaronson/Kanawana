@@ -47,7 +47,13 @@ the one that actually resolved this issue -- the Capabilities > Domain allowlist
 
 ## ⚡ START HERE (next session)
 
-0. **Two operator-only action items are flagged in `queue/priorities.json` as `p_193`** (blocked,
+0. **Read `project-docs/STATE-REVIEW-2026-08-12.md` first.** Everything below this point in this
+   file describes state as of 2026-07-02/07-05 — 45+ campaigns and 5+ weeks stale (the operational
+   *lessons* further down are still valid; the numbers and pointers are not). The review has the
+   current headline numbers, what Campaigns 40-73 + the hub-and-spoke reorg actually did, and a
+   prioritized next-steps list (start at p_218 — 28 articles are stalled at draft with no VERIFY
+   pass queued, the single largest lever right now).
+0b. **Two operator-only action items are flagged in `queue/priorities.json` as `p_193`** (blocked,
    2026-07-07): (a) a manual Facebook search by Matt himself — the Kanawana FB page/alumni groups are
    likely rich but structurally unreachable to the agent (confirmed: a fetch returns only an empty
    JS shell, no post content; using Matt's login via automation was considered and declined on

@@ -2763,6 +2763,52 @@
       "assigned_weight": "P3",
       "created_at": "2026-07-10T04:00:00Z",
       "status": "pending"
+    },
+    {
+      "priority_id": "p_218",
+      "rank": 218,
+      "type": "VERIFY",
+      "description": "VERIFY sweep on the 28 articles stuck at draft status (all spawned Campaigns 65-71 and never advanced): rob-braide, timeline-overview, nelson-mcewen, howie-langille, ross-bannerman, james-orbinski, john-cleghorn, chris-adam, bruce-netherwood, richard-patten, sam-lazarus, rl-charlton, david-leduc, marie-pierre-lacasse, kate-taylor, camp-pine-crest, green-triangle, cit-lit-program, interwar-era, postwar-gap, between-centennials, modern-era, matt-aronson, greig-macdiarmid, nicolas-garcia, morgan-carter, arleen-boyer, justin-caldwell. Per CLAUDE.md pipeline rules, draft->R3-verified requires every claim cited, dates checked against timeline, names checked against people index. Since these were WRITE-only syntheses of already-cited facts (no new research), VERIFY should be fast per article -- batch in clusters of 4-6 as prior Workstream campaigns did.",
+      "article_id": null,
+      "blocking": false,
+      "assigned_weight": "P1",
+      "created_at": "2026-08-12T00:00:00Z",
+      "status": "pending",
+      "notes": "Largest concrete lever identified in the 2026-08-12 state review: 28 of 85 articles (33%) are one required task type away from R3-verified, none started."
+    },
+    {
+      "priority_id": "p_219",
+      "rank": 219,
+      "type": "REVIEW",
+      "description": "REVIEW pass (R3-verified -> E1-reviewed) on winter-programming.md, indigenous-names-and-land.md, and joanna-hoad.md -- the only three articles currently at R3-verified. Check cross-links, encyclopedic tone, no unsourced speculation, Open Questions actionable.",
+      "article_id": null,
+      "blocking": false,
+      "assigned_weight": "P1",
+      "created_at": "2026-08-12T00:00:00Z",
+      "status": "pending"
+    },
+    {
+      "priority_id": "p_220",
+      "rank": 220,
+      "type": "RESEARCH",
+      "description": "KB integrity cleanup: 40 source_ids are cited by facts in kb/facts.json but have no corresponding record in sources/sources.json (confirmed by script re-check 2026-08-12; flagged as ~46 in Campaigns 65-66 pipeline.log notes but never queued). Same pattern as the dangling-source_id fixes already made in Campaigns 65/66/69/70 (typo'd/malformed variants of real cached sources) -- for each, determine whether it's a remap-to-existing-source fix or a genuinely missing source record that needs backfilling, then fix in place. Do not silently drop the citations.",
+      "article_id": null,
+      "blocking": false,
+      "assigned_weight": "P2",
+      "created_at": "2026-08-12T00:00:00Z",
+      "status": "pending"
+    },
+    {
+      "priority_id": "p_221",
+      "rank": 221,
+      "type": "WRITE",
+      "description": "Re-do the ~14 plaque-only formerly-C5 name stubs (Emma Anders, Casey Wittman, Kyrstin Coughlin, Emily Morgan, Laura Morrison, Caitlin Booth, Jean Perron, Jeff Muss, Julien Tasse, Dan Shemie, Evan Frankel, Louis Lessard, Matt Hamerman, Maria English) that Campaign 71's pipeline.log entry flagged as remaining work for 'a following campaign' (Campaign 72). That campaign's batch was deliberately left uncommitted per an operator instruction at the time and is now unrecoverable (confirmed absent from git log/reflog/stash in the 2026-08-12 state review) -- treat this as a clean restart, not a resume. Follow the same honest-stub discipline used for carol-skinner.md/gary-white.md/francois-dauphin.md: plaque-derived facts only, no invented biography, stub status where sourcing is genuinely thin.",
+      "article_id": null,
+      "blocking": false,
+      "assigned_weight": "P3",
+      "created_at": "2026-08-12T00:00:00Z",
+      "status": "pending",
+      "notes": "Confirm with operator whether these 14 are still desired given the operator-authorized C5 policy revision context (Campaign 71) before spawning, since the revision was scoped case-by-case rather than as a blanket C5 list removal."
     }
   ]
 }
