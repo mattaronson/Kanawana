@@ -3066,7 +3066,9 @@
    "blocking": false,
    "assigned_weight": "P0",
    "created_at": "2026-08-14T00:00:00Z",
-   "status": "pending"
+   "status": "completed",
+   "completed_at": "2026-08-14T00:00:00Z",
+   "result": "Completed 2026-08-14. src_mcmorris_thesis.cache_path now points at sources/cache/theses/mcmorris_thesis_fulltext.txt (253,681 chars, verified to contain the Seaman letter footnote and the 'one of the trip leaders' passage). The old landing-page file is retained as mcmorris_thesis_LANDING_PAGE_ONLY.html so it cannot be mistaken for the text again. The two duplicate source records point at the corrected one."
   },
   {
    "priority_id": "p_243",

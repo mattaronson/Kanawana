@@ -170,13 +170,13 @@
    "date_precision": "year",
    "origin": "web",
    "origin_url": "https://spectrum.library.concordia.ca/id/eprint/992763/",
-   "cache_path": "sources/cache/web-pages/mcmorris_thesis.txt",
-   "char_count": 185000,
+   "cache_path": "sources/cache/theses/mcmorris_thesis_fulltext.txt",
+   "char_count": 253681,
    "ingested_at": "2026-02-10T00:00:00Z",
    "extracted": true,
    "extraction_version": "4.17",
    "reliability": "secondary",
-   "notes": "Grace McMorris MA thesis, Concordia. Supervisor Dr. Peter Gossage. Full text provided by user in prior sessions and fully extracted. 148 facts in KB. Cache file contains HTML landing page only; thesis text was processed directly from user input. Direct PDF download + pdftotext/image extraction performed 2026-07-09 (previous cache held only the Spectrum landing page HTML) -- found the full embedded 1928 and 1962 camp maps (Figures 2.2/2.6), the Ralph Dawson 'alumnus' characterization, and new Pag\u00e9 farm (1960-1961) purchase detail, none previously extracted."
+   "notes": "Grace McMorris MA thesis, Concordia. Supervisor Dr. Peter Gossage. 148+ facts in KB. CACHE FIXED 2026-08-14 (p_242): cache_path pointed at sources/cache/web-pages/mcmorris_thesis.txt, which was the 54KB Spectrum LANDING PAGE HTML, not the thesis. The real 253,681-character text is now cached at sources/cache/theses/mcmorris_thesis_fulltext.txt (curl of the PDF + pdftotext). The old file is retained, renamed mcmorris_thesis_LANDING_PAGE_ONLY.html so it cannot be mistaken for the text again. WHY THIS MATTERED: the full text had been extracted ad hoc TWICE in 2026 and discarded both times, and the second extraction is what reopened the 1967 Centennial canoe-trip Open Question -- the thesis's own footnotes 54-55 place every Centennial document in Concordia box P145/12B07, while the earlier 'confirmed dead end' finding had tested only 12B01 and 12B04. A cache pointing at a landing page is not a cosmetic defect; it cost this project a wrongly-closed research question."
   },
   {
    "source_id": "src_ymca_website",
@@ -1712,7 +1712,7 @@
    "extracted": true,
    "extraction_version": "4.17",
    "reliability": "secondary",
-   "notes": "Duplicate reference. See src_mcmorris_thesis. Thesis already fully extracted (148 facts)."
+   "notes": "Duplicate reference. See src_mcmorris_thesis, whose cache_path was corrected 2026-08-14 to the full 253KB text at sources/cache/theses/mcmorris_thesis_fulltext.txt. Do not add a third record; cite src_mcmorris_thesis."
   },
   {
    "source_id": "src_nouvelles_laurentides_kanawana_2024",
@@ -7760,7 +7760,7 @@
    "extracted": true,
    "extraction_version": "4.17",
    "reliability": "secondary",
-   "notes": "Duplicate reference. See src_mcmorris_thesis. Thesis already fully extracted (148 facts). User provided text in prior sessions."
+   "notes": "Duplicate reference. See src_mcmorris_thesis, whose cache_path was corrected 2026-08-14 to the full 253KB text at sources/cache/theses/mcmorris_thesis_fulltext.txt. Do not add a third record; cite src_mcmorris_thesis."
   },
   {
    "source_id": "src_kass_icc_2008",
