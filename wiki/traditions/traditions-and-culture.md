@@ -105,6 +105,12 @@ The charter sets out **six challenges**, documented here for the first time — 
 
 Taken together these criteria are notable for how closely they track the camp's documented programming — canoe tripping, the badge/skill grading system, the Council Ring and totem-pole construction tradition, and environmental education — making the Knights less a ceremonial honour than a capstone assembled from the camp's own curriculum. Challenge 5 in particular ties the order directly to the physical fabric of the site.
 
+Two further details are legible on the charter itself.^32 First, challenge 2 shows the camp operating a **lettered A/B/C skill-grading system** across named activity areas — sailing, orienteering, archery and rock climbing are listed by name, alongside kampcraft and canoeing — a more granular scheme than the count-based badge system otherwise documented here, and the clearest surviving statement of how camp skills were ranked. Part of that clause, including what appears to be a ball-game activity name and an equivalence notation, is not legible in the available photograph.
+
+Second, the charter spells the camp "**Kamp**" in challenge 5 ("contribute something of permanence to Kamp"), consistent with the K-spelling being the camp's own usage in 1980–81 and with the transition to "Camp" not occurring until spring 2005 as established above.
+
+The charter is a **birchbark sheet**, not paper: a painted black lake-and-island scene with conifers and a lone standing dead tree occupies the upper half, pressed maple and fern leaves run down both margins, the proclamation and challenges are hand-lettered in two columns below, and a drawn log carrying further lettering closes the foot of the sheet, signed and dated 1981. The medium is itself in keeping with challenge 5's ethic — the document is made of the woods it describes.
+
 The order overlaps in membership with [[traditions/order-of-owens|the Order of Owens]]: Denys Lawrence was an Owens recipient in 1977 and among the first knights in 1980, and Dylan Applebaum was knighted in 2009 and received the Owens in 2010. Whether the two honours are formally related is undocumented.
 
 ## Images

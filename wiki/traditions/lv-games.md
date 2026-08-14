@@ -25,9 +25,52 @@ The Games have a **perpetual trophy**, photographed at camp on 2026-08-14 and do
 
 Beneath it hang rows of smaller shield-shaped plaques, each carrying several consecutive years and the winning team for each. The series begins at **47** (1947, the founding year established above) and runs to **25** (2025), with years given as two digits throughout. Entries alternate irregularly between "Voyageurs" and "Lumbermen," with the singular "Lumberman" used on several late-1970s entries.
 
-**This trophy is the artifact most likely to settle the "78th edition" question.** As noted above, YMCA Quebec's 2025 history refers to the 78th edition, which fits a 1947 origin only if exactly one year was skipped — this article previously inferred that skipped year was most likely 2020. The trophy records the sequence directly, so a careful reading of it would confirm or correct that inference rather than leaving it as arithmetic. **It has not been read carefully enough yet to do so.** The photographs are taken at an angle, several plaques are partly hidden behind the crossed paddle and axe, and a number of the older shields are faded or silvered to the point of illegibility. A transcription attempted from these images would not be reliable enough to publish as a winners table, and none is published here.
+### Winners roll
 
-What can be stated confidently from the photographs: the trophy exists, is in active use, spans 1947–2025 continuously enough to constitute a near-complete competitive record, and contains at least one gap in the 2020–2022 region consistent with the pandemic closures — but **which** year or years are absent is exactly the detail the current images cannot settle. See Open Questions.
+The following is transcribed from the trophy photographs. **74 of 79 seasons are legible; five are not, and are marked rather than guessed.** Plaques partly hidden behind the crossed paddle and axe, and older shields faded or silvered, account for the gaps. Years appear on the trophy as two digits; they are expanded here.
+
+| Season | Winner | | Season | Winner | | Season | Winner |
+|---|---|---|---|---|---|---|---|
+| 1947 | Voyageurs | | 1974 | Voyageurs | | 2001 | Lumbermen |
+| 1948 | Voyageurs | | 1975 | Lumbermen | | 2002 | Voyageurs |
+| 1949 | *illegible* | | 1976 | Lumberman | | 2003 | Lumbermen |
+| 1950 | Lumbermen | | 1977 | Lumberman | | 2004 | Voyageurs |
+| 1951 | Lumbermen | | 1978 | Lumberman | | 2005 | Lumbermen |
+| 1952 | *team illegible* | | 1979 | Voyageurs | | 2006 | Voyageurs |
+| 1953 | Lumbermen | | 1980 | Voyageurs | | 2007 | Lumbermen |
+| 1954 | Lumbermen | | 1981 | Voyageurs | | 2008 | Lumbermen |
+| 1955 | Lumbermen | | 1982 | Voyageurs | | 2009 | Lumbermen |
+| 1956 | Voyageurs | | 1983 | Lumbermen | | 2010 | Voyageurs |
+| 1957 | Voyageurs | | 1984 | Lumbermen | | 2011 | Voyageurs |
+| 1958 | *illegible* | | 1985 | Voyageurs | | 2012 | Lumbermen |
+| 1959 | Voyageurs | | 1986 | Lumbermen | | 2013 | Voyageurs |
+| 1960 | Voyageurs | | 1987 | Lumbermen | | 2014 | Voyageurs |
+| 1961 | *illegible* | | 1988 | Voyageurs | | 2015 | Lumbermen |
+| 1962 | Voyageurs | | 1989 | Voyageurs | | 2016 | Lumbermen |
+| 1963 | Voyageurs | | 1990 | Lumbermen | | 2017 | Voyageurs |
+| 1964 | Lumbermen | | 1991 | Lumbermen | | 2018 | Voyageurs |
+| 1965 | Lumbermen | | 1992 | Voyageurs | | 2019 | Lumbermen |
+| 1966 | Lumbermen | | 1993 | Voyageurs | | 2020 | Voyageurs |
+| 1967 | Voyageurs | | 1994 | Voyageurs | | **2021** | **no shield found** |
+| 1968 | Lumbermen | | 1995 | Voyageurs | | 2022 | Lumbermen |
+| 1969 | Lumbermen | | 1996 | Lumbermen | | 2023 | Lumbermen |
+| 1970 | Lumbermen | | 1997 | Voyageurs | | 2024 | Lumbermen |
+| 1971 | Lumbermen | | 1998 | Voyageurs | | 2025 | Voyageurs |
+| 1972 | Voyageurs | | 1999 | Lumbermen | | | |
+| 1973 | Lumbermen | | 2000 | Voyageurs | | | |
+
+Of the 74 legible seasons, the **Lumbermen won 38 and the Voyageurs 36** — a near-even split across nearly eight decades. The longest legible run by one team is the Lumbermen's four consecutive seasons 1975–1978 (the years lettered in the singular "Lumberman"), matched by 2022–2024. Note also 1992–1995, four straight Voyageur seasons.
+
+### The 2020–2021 discrepancy
+
+The transcription raises a contradiction that this wiki cannot currently resolve, and which is recorded rather than smoothed over as **conflict c_021**:
+
+- The trophy appears to carry a shield for **2020 (Voyageurs)** but **none for 2021**.
+- [[traditions/order-of-owens|The Order of Owens]] was **not awarded in either 2020 or 2021**, per both the operator's roster and the award paddle, which runs 2019 → 2022.
+- [[people/sean-day|Sean Day]] is documented announcing that the overnight camp stayed closed for **both** the 2020 and 2021 seasons, pivoting to day camps.
+- YMCA Quebec's own 2025 history calls that year the **78th edition**, which from a 1947 start requires **exactly one** skipped season across 79 years.
+
+These cannot all be right as read. If both 2020 and 2021 were lost, 2025 would be the 77th edition, not the 78th. Three readings are possible and no source settles between them: (a) the Games ran in some form in 2020 — conceivably at the day camps — and only 2021 was lost, making the trophy and the "78th edition" claim consistent and the Owens gap a separate decision about that award; (b) both seasons were lost and the YMCA's edition count is off by one; or (c) the "2020" shield is misread here. Resolving it needs a straight-on photograph of that final shield row.
 
 ## The Capitaine Role
 
@@ -59,7 +102,9 @@ The role of "Capitaine" — leader of the Voyageur team — is considered one of
 ## Open Questions
 
 - ~~When exactly did the name shift from "Lumberman-Voyageur Week" to "L&V Games"?~~ [Confirmed dead end, tooling resolved 2026-07-10] A local `curl` + `pdftotext` extraction of the full McMorris thesis (succeeding where WebFetch had been defeated by a FlateDecode-compressed stream) confirms the phrase "L&V Games" appears nowhere in the thesis at all — she uses only "Lumberman-Voyageur Week" throughout, including in material sourced from a 1988 Kanawana Camping Task Force document. This confirms the rename postdates the thesis's own primary sources and remains undocumented online; only physical Ka-News/Green Triangle issues from the intervening decades could resolve the exact date.
-- **[New, actionable 2026-08-14] Transcribe the Annual Trophy's year-by-year winners roll.** The perpetual trophy (see The Annual Trophy above) carries the winning team for every season from 1947 to 2025 on shield plaques — a near-complete 79-season competitive record that exists nowhere else in this wiki or KB. Two things block transcription from the current photographs: several plaques sit behind the crossed paddle and axe, and the oldest shields are faded or silvered. **This needs either higher-resolution straight-on photographs of each row, or an in-person read.** Doing so would (a) produce the winners roll, and (b) settle which season was skipped, converting the "78th edition" inference into a documented fact.
+- **[Partly resolved 2026-08-14] The Annual Trophy's winners roll is now transcribed — 74 of 79 seasons.** Five remain unread: **1949, 1958 and 1961** (obscured behind the crossed paddle and axe), the **1952 team** (the year is visible, the winner is not), and whether a **2021** shield exists at all. A straight-on photograph of the top row and of the final shield would close all five.
+- **[New, critical] Resolve conflict c_021 — the 2020/2021 discrepancy.** The trophy appears to show a 2020 shield and no 2021; the Order of Owens skipped both years; Sean Day is documented closing the overnight camp for both seasons; and YMCA Quebec calls 2025 the 78th edition, which allows only one skipped season. All four cannot hold. See "The 2020–2021 discrepancy" above.
+- **[New] What was the "Kanawana Stampede"?** A plaque mounted above the L&V trophy reads "KANAWANA STAMPEDE / 1976 CHAMPIONS" with further lettering not legible in the photograph. The Stampede appears nowhere else in this wiki or KB — an entirely undocumented camp event or competition.
 - What is the earliest surviving photograph of L&V Games competition? Confirmed access limitation, not a null result: Kanawana's Flickr account (~4,416 photos) and Facebook photo archive exist but require manual visual browsing to date-sort — not resolvable via text search.
 - How has the format changed since the 1950s? Are war canoe races still part of it? Weak modern-format leads only (2026-07-09): a Facebook post references a "douse the fire" event and a TikTok video describes the modern Games as "3 days" — confirms the format has changed/added events since the 1950s but doesn't establish which legacy events persist.
 - ~~When did the L&V Games expand beyond the final week to become associated with the La Vérendrye canoe trip program?~~ [Resolved 2026-07-09] It didn't — the modern Kanawana canoe-tripping program for ages 13-16 is separately branded "Voyageurs" (with a La Vérendrye Wildlife Reserve flat-water option), a parallel reuse of "voyageur" branding across two distinct camp institutions, not the historical L&V Games team expanding into a canoe-trip tier. No direct institutional link found.

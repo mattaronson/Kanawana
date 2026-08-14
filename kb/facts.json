@@ -1,8 +1,8 @@
 {
   "version": "v4.98",
-  "kb_version": "v5.11",
+  "kb_version": "v5.12",
   "migrated_from": "3.3",
-  "fact_count": 1961,
+  "fact_count": 1968,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -33944,6 +33944,123 @@
       "date_ref": "1980",
       "conflicts_with": [],
       "added_version": "v5.11",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_2000",
+      "claim": "L&V Games winners transcribed from the Annual Trophy, 1947-1975: 1947 Voyageurs; 1948 Voyageurs; 1949 illegible; 1950 Lumbermen; 1951 Lumbermen; 1952 year visible but team illegible; 1953 Lumbermen; 1954 Lumbermen; 1955 Lumbermen; 1956 Voyageurs; 1957 Voyageurs; 1958 illegible; 1959 Voyageurs; 1960 Voyageurs; 1961 illegible; 1962 Voyageurs; 1963 Voyageurs; 1964 Lumbermen; 1965 Lumbermen; 1966 Lumbermen; 1967 Voyageurs; 1968 Lumbermen; 1969 Lumbermen; 1970 Lumbermen; 1971 Lumbermen; 1972 Voyageurs; 1973 Lumbermen; 1974 Voyageurs; 1975 Lumbermen.",
+      "sources": [
+        "src_photo_lv_annual_trophy"
+      ],
+      "confidence": "stated",
+      "category": "traditions",
+      "entities": [
+        "L&V Games"
+      ],
+      "date_ref": "1947-1975",
+      "conflicts_with": [],
+      "added_version": "v5.12",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_2001",
+      "claim": "L&V Games winners transcribed from the Annual Trophy, 1976-2025: 1976 Lumberman; 1977 Lumberman; 1978 Lumberman; 1979 Voyageurs; 1980 Voyageurs; 1981 Voyageurs; 1982 Voyageurs; 1983 Lumbermen; 1984 Lumbermen; 1985 Voyageurs; 1986 Lumbermen; 1987 Lumbermen; 1988 Voyageurs; 1989 Voyageurs; 1990 Lumbermen; 1991 Lumbermen; 1992 Voyageurs; 1993 Voyageurs; 1994 Voyageurs; 1995 Voyageurs; 1996 Lumbermen; 1997 Voyageurs; 1998 Voyageurs; 1999 Lumbermen; 2000 Voyageurs; 2001 Lumbermen; 2002 Voyageurs; 2003 Lumbermen; 2004 Voyageurs; 2005 Lumbermen; 2006 Voyageurs; 2007 Lumbermen; 2008 Lumbermen; 2009 Lumbermen; 2010 Voyageurs; 2011 Voyageurs; 2012 Lumbermen; 2013 Voyageurs; 2014 Voyageurs; 2015 Lumbermen; 2016 Lumbermen; 2017 Voyageurs; 2018 Voyageurs; 2019 Lumbermen; 2020 Voyageurs; 2021 NO SHIELD FOUND; 2022 Lumbermen; 2023 Lumbermen; 2024 Lumbermen; 2025 Voyageurs. Years 1976-1978 are lettered in the singular 'Lumberman'.",
+      "sources": [
+        "src_photo_lv_annual_trophy"
+      ],
+      "confidence": "stated",
+      "category": "traditions",
+      "entities": [
+        "L&V Games"
+      ],
+      "date_ref": "1976-2025",
+      "conflicts_with": [
+        "f_1987",
+        "f_1994"
+      ],
+      "added_version": "v5.12",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_2002",
+      "claim": "Across the 74 legible seasons on the L&V Annual Trophy, the Lumbermen won 38 and the Voyageurs 36. The longest legible consecutive runs are four seasons: Lumbermen 1975-1978 and 2022-2024 (three), and Voyageurs 1992-1995.",
+      "sources": [
+        "src_photo_lv_annual_trophy"
+      ],
+      "confidence": "inferred",
+      "category": "traditions",
+      "entities": [
+        "L&V Games"
+      ],
+      "date_ref": "1947-2025",
+      "conflicts_with": [],
+      "added_version": "v5.12",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_2003",
+      "claim": "A plaque mounted above the L&V Annual Trophy reads 'KANAWANA STAMPEDE / 1976 CHAMPIONS', with further lettering not legible in the available photograph. The 'Kanawana Stampede' appears nowhere else in this project's wiki, KB or sources -- an entirely undocumented camp event or competition.",
+      "sources": [
+        "src_photo_lv_annual_trophy"
+      ],
+      "confidence": "stated",
+      "category": "traditions",
+      "entities": [
+        "Kanawana Stampede",
+        "Camp Kanawana"
+      ],
+      "date_ref": "1976",
+      "conflicts_with": [],
+      "added_version": "v5.12",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_2004",
+      "claim": "The Knights of Kanawana charter's second challenge shows the camp operating a lettered A/B/C skill-grading system across named activity areas -- kampcraft, canoeing, sailing, orienteering, archery and rock climbing are named -- requiring one A and one B in kampcraft and canoeing plus C-level standing elsewhere. Part of the clause, including an apparent ball-game activity name and an equivalence notation, is illegible in the available photograph.",
+      "sources": [
+        "src_photo_knights_charter_challenges"
+      ],
+      "confidence": "stated",
+      "category": "traditions",
+      "entities": [
+        "Knights of Kanawana"
+      ],
+      "date_ref": "1980",
+      "conflicts_with": [],
+      "added_version": "v5.12",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_2005",
+      "claim": "The Knights of Kanawana charter spells the camp 'Kamp' in its fifth challenge ('contribute something of permanence to Kamp'), consistent with the K-spelling being the camp's own usage in 1980-81 and with the documented transition to 'Camp' in spring 2005.",
+      "sources": [
+        "src_photo_knights_charter_challenges"
+      ],
+      "confidence": "stated",
+      "category": "traditions",
+      "entities": [
+        "Knights of Kanawana",
+        "Camp Kanawana"
+      ],
+      "date_ref": "1981",
+      "conflicts_with": [],
+      "added_version": "v5.12",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_2006",
+      "claim": "The Knights of Kanawana charter is a birchbark sheet: a painted black lake-and-island scene with conifers and a lone standing dead tree fills the upper half, pressed maple and fern leaves run down both margins, the proclamation and six challenges are hand-lettered in two columns below, and a drawn log carrying further lettering closes the foot, signed and dated 1981.",
+      "sources": [
+        "src_photo_knights_charter_challenges"
+      ],
+      "confidence": "stated",
+      "category": "traditions",
+      "entities": [
+        "Knights of Kanawana"
+      ],
+      "date_ref": "1981",
+      "conflicts_with": [],
+      "added_version": "v5.12",
       "added_by": "manual"
     }
   ]

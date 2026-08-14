@@ -413,6 +413,19 @@
       "resolution": "Editorial judgment (2026-07-10, operator-approved pass): the three dates are reconciled as three distinct milestones rather than a single disputed founding date. The OCA's founders organized informally in 1930 (Northway's account, the most detailed, naming Cochrane's preceding \"Original Honorary President\" role); the association was formally chartered/branded in 1933 (matching both the OCA's own website and the Plewman essay, giving that date independent corroboration from two sources); Statten's own first full presidency began only in 1938, succeeding Cochrane. Under this reading all three sources are correct about a different specific thing. Editorial call, not new evidence; open to revision. See wiki/people/taylor-statten.md.",
       "resolved_at": "2026-07-10T08:00:00Z",
       "created_at": "2026-07-09T12:00:00Z"
+    },
+    {
+      "conflict_id": "c_021",
+      "description": "Whether the L&V Games were held in 2020 and/or 2021, and how many editions had run by 2025. Four documented positions cannot all hold: (1) the L&V Annual Trophy appears to carry a shield for 2020 (Voyageurs) and NO shield for 2021 (f_2000, f_2001); (2) the Order of Owens was not awarded in EITHER 2020 or 2021, per both the operator roster and the award paddle which runs 2019 -> 2022 (f_1987, f_1994); (3) Sean Day is documented announcing the overnight camp stayed closed for BOTH the 2020 and 2021 seasons, pivoting to day camps (sean-day.md, CBC-sourced); (4) YMCA Quebec's own 2025 history calls that year the 78th edition, which from a 1947 start requires exactly ONE skipped season across 79 years. If both 2020 and 2021 were lost, 2025 would be the 77th edition.",
+      "facts": [
+        "f_1987",
+        "f_1994",
+        "f_2000",
+        "f_2001"
+      ],
+      "status": "unresolved",
+      "flagged_at": "2026-08-14T00:00:00Z",
+      "notes": "Three readings, none settled by any available source: (a) the Games ran in some form in 2020 -- conceivably at the day camps -- and only 2021 was lost, which would make the trophy and the '78th edition' claim mutually consistent and the Owens gap a separate decision about that award; (b) both seasons were lost and the YMCA's edition count is off by one; (c) the '2020' shield is misread from an angled photograph. NOT auto-resolvable under the standing oral-history-yields-to-documents directive: this is documented-vs-documented (a physical trophy against a published institutional history against CBC-sourced closure reporting), so it requires human judgement. NEXT STEP is cheap and specific: a straight-on photograph of the trophy's final shield row would test reading (c) immediately."
     }
   ]
 }

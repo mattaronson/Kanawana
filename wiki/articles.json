@@ -495,7 +495,11 @@
         "f_1888",
         "f_1980",
         "f_1996",
-        "f_1997"
+        "f_1997",
+        "f_2000",
+        "f_2001",
+        "f_2002",
+        "f_2003"
       ],
       "sources_cited": [
         "src_mcmorris_thesis",
@@ -522,8 +526,8 @@
         "traditions-and-culture"
       ],
       "file_id": "1EmzjwZxmQKJhFrNsbFGn1HbdseFBM9E7",
-      "word_count": 1829,
-      "notes": "2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- fixed the malformed header (Status casing 'E1 Reviewed' -> 'E1-reviewed', Sources field was free-text descriptions instead of a count), moved the 'Correction, 2026-07-09' paragraph into a new Research Notes > Revision History section, folded the orphaned 'R3 Verification Notes' H3 (no parent heading) into Research Notes. No facts, citations, or open questions dropped; status unchanged. | 2026-07-11: Added wiki-link to Camp Pine Crest (now a standalone article) in prose and Related Articles. | 2026-08-14: NEW Annual Trophy section from operator photographs -- the L&V perpetual trophy (winners shields 1947-2025) documented for the first time; no winners table published as the shields are not reliably legible in the current images. NOTE: this article is E1-reviewed and has received substantive new content; warrants a re-REVIEW pass.",
+      "word_count": 2444,
+      "notes": "2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- fixed the malformed header (Status casing 'E1 Reviewed' -> 'E1-reviewed', Sources field was free-text descriptions instead of a count), moved the 'Correction, 2026-07-09' paragraph into a new Research Notes > Revision History section, folded the orphaned 'R3 Verification Notes' H3 (no parent heading) into Research Notes. No facts, citations, or open questions dropped; status unchanged. | 2026-07-11: Added wiki-link to Camp Pine Crest (now a standalone article) in prose and Related Articles. | 2026-08-14: NEW Annual Trophy section from operator photographs -- the L&V perpetual trophy (winners shields 1947-2025) documented for the first time; no winners table published as the shields are not reliably legible in the current images. NOTE: this article is E1-reviewed and has received substantive new content; warrants a re-REVIEW pass. | 2026-08-14 (2nd pass): winners roll TRANSCRIBED from the trophy photos -- 74 of 79 seasons legible; 1949/1958/1961 obscured, 1952 team illegible, no 2021 shield found. Surfaced conflict c_021 (trophy 2020 shield vs Owens skipping both 2020-21 vs Day's documented two-season closure vs YMCA's '78th edition'). New lead: 'Kanawana Stampede 1976 Champions' plaque, undocumented anywhere.",
       "tags": {
         "era": [
           "1910s",
@@ -2670,7 +2674,10 @@
         "f_1936",
         "f_1937",
         "f_1998",
-        "f_1999"
+        "f_1999",
+        "f_2004",
+        "f_2005",
+        "f_2006"
       ],
       "sources_cited": [
         "src_mcmorris_thesis",
@@ -2711,8 +2718,8 @@
         "traditions/order-of-owens"
       ],
       "file_id": null,
-      "word_count": 4043,
-      "notes": "E1 REVIEW (2026-02-19): Fixed non-existent src_concordia_12B04 in header (removed; src_concordia_atom_12B04 already present). Fixed '131-year history' ambiguity to 'more than 130 years'. All claims cited, dates consistent, names cross-checked, tone encyclopedic. | 2026-08-14: cross-linked to the new traditions/order-of-owens.md. | 2026-08-14: NEW prose section on the Order of the Knights of Kanawana, giving the proclamation text and the six challenges for knighthood (previously the KB held the oath and the 1980-2009 roll but not the criteria). NOTE: this article is E1-reviewed and has received substantive new content; warrants a re-REVIEW pass.",
+      "word_count": 4253,
+      "notes": "E1 REVIEW (2026-02-19): Fixed non-existent src_concordia_12B04 in header (removed; src_concordia_atom_12B04 already present). Fixed '131-year history' ambiguity to 'more than 130 years'. All claims cited, dates consistent, names cross-checked, tone encyclopedic. | 2026-08-14: cross-linked to the new traditions/order-of-owens.md. | 2026-08-14: NEW prose section on the Order of the Knights of Kanawana, giving the proclamation text and the six challenges for knighthood (previously the KB held the oath and the 1980-2009 roll but not the criteria). NOTE: this article is E1-reviewed and has received substantive new content; warrants a re-REVIEW pass. | 2026-08-14 (2nd pass): charter mined further -- A/B/C skill-grading system across named activities (f_2004), 'Kamp' spelling in challenge 5 corroborating the pre-2005 usage (f_2005), and the birchbark medium/composition (f_2006).",
       "tags": {
         "era": [
           "1900s",
