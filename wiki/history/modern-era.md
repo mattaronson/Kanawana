@@ -1,7 +1,7 @@
 # The Modern Era: The Two-Tier Era (1995–Present)
 
-*Status: draft | Sources: 12*
-*Last Updated: 2026-07-11*
+*Status: draft | Sources: 13*
+*Last Updated: 2026-08-14*
 
 ## Overview
 
@@ -26,6 +26,22 @@ Building on the coeducation-era section structure established in the late 1960s 
 ## Leadership Transition and the First Day Camp (2023–Present)
 
 In spring 2023, [[people/marie-pierre-lacasse|Marie-Pierre Lacasse]] became Executive Director, succeeding Sean Day; she had earlier held a Kanawana role as director of expeditions (2007–2010) before a 13-year break.^4 Kate Taylor departed partway through the 2023 season, succeeded on-site for the remainder of that summer by her Assistant Director, Kevin Slezak, who then served the full 2024 season; Justin Caldwell has held the on-site role since 2025.^4 In 2024, Lacasse oversaw the launch of "Aventure à Kanawana" (Kanawana Adventure) — the first day camp in the camp's 130-year history, an English-immersion program for ages 5 to 12.^4
+
+## Attendance and Recovery, 2020–2025
+
+The YMCAs of Québec's annual impact and community reports give the camp's modern attendance directly, and they document the shape of its pandemic recovery.^13
+
+| Year | Campers at Kanawana | Context |
+|---|---|---|
+| 2020 | *(no residential season)* | Camp closed; the YMCA ran a virtual campfire singalong with the Kanawana team as part of a fundraiser that raised $81,520, doubled by the Trottier Family Foundation. Sean Day appears as **Regional Camp Director** |
+| 2021 | *(no residential season)* | Second closed summer |
+| 2022 | **655** kids and teens | The reopening season. The CEO's letter records that the association "reopened Camp YMCA Kanawana after **two years of closures**" |
+| 2023 | **780** kids and teens | A 19% increase on the reopening year |
+| 2024 | *(not stated)* | The reports mark the camp's **130th anniversary** and the launch of "**Adventure at Kanawana**," a day-camp format on the Saint-Sauveur site — distinct from the residential camp and from the Concordia science, engineering and fine-arts camps |
+
+**A number worth reading carefully.** The 2022 report also states that "Close to 300 campers, including **Ukrainian refugees**, had a memorable summer in our day camps and at Camp YMCA Kanawana." That figure is the **financially-assisted subset across day camps *and* Kanawana together** — it is not a Kanawana attendance figure and must not be added to or subtracted from the 655. The sentence immediately preceding it in the report is about financial assistance. The Ukrainian-refugee detail is the substantive fact here: the camp took in children displaced by the 2022 invasion.
+
+The 2022 and 2023 figures are the first hard residential-attendance numbers this wiki has for any year after the 1980s, and they bracket the recovery: two lost summers, then 655, then 780.
 
 ## Open Questions
 
@@ -61,6 +77,7 @@ In spring 2023, [[people/marie-pierre-lacasse|Marie-Pierre Lacasse]] became Exec
 10. Clivus Multrum, Parks & Recreation project documentation [src_clivus_multrum_projects]; oral history, Matt Aronson (Grand Portage demolition) [src_oral_aronson]. The 2020 remote L&V Games: operator account [src_oral_aronson_lv_2020_remote].
 11. Médiaterre, "Le camp Y Kanawana poursuit sa revitalisation et son virage vert," March 3, 2009 [src_mediaterre_kanawana_2009].
 12. TELUS Community Board, 2010: $50,000 toward a three-season educational pavilion [src_telus_kanawana].
+13. YMCAs of Québec annual impact and community reports, 2020, 2021, 2022, 2023, 2024 and 2025 (Concordia-digitized fonds on Internet Archive) [src_ia_ymca_montreal_fonds_collection].
 
 ## Research Notes
 

@@ -1,8 +1,8 @@
 {
  "version": "v4.98",
- "kb_version": "v5.28",
+ "kb_version": "v5.29",
  "migrated_from": "3.3",
- "fact_count": 2095,
+ "fact_count": 2100,
  "facts": [
   {
    "fact_id": "f_0001",
@@ -36255,6 +36255,89 @@
    "date_ref": "1947-1993",
    "conflicts_with": [],
    "added_version": "v5.28",
+   "added_by": "ralph_loop"
+  },
+  {
+   "fact_id": "f_2134",
+   "claim": "Camp YMCA Kanawana's modern residential attendance, from the YMCAs of Quebec impact reports: 655 kids and teens in 2022 (the reopening season) and 780 in 2023, a 19% increase. These are the first hard residential-attendance figures this wiki holds for any year after the 1980s.",
+   "sources": [
+    "src_ia_ymca_montreal_fonds_collection"
+   ],
+   "confidence": "stated",
+   "category": "operations",
+   "entities": [
+    "Kamp Kanawana"
+   ],
+   "date_ref": "2022-2023",
+   "conflicts_with": [],
+   "added_version": "v5.29",
+   "added_by": "ralph_loop"
+  },
+  {
+   "fact_id": "f_2135",
+   "claim": "The YMCAs of Quebec 2022 impact report records that the association 'reopened Camp YMCA Kanawana after two years of closures' -- corroborating the two lost summers of 2020 and 2021 from the association's own reporting.",
+   "sources": [
+    "src_ia_ymca_montreal_fonds_collection"
+   ],
+   "confidence": "stated",
+   "category": "operations",
+   "entities": [
+    "Kamp Kanawana"
+   ],
+   "date_ref": "2022",
+   "conflicts_with": [],
+   "added_version": "v5.29",
+   "added_by": "ralph_loop"
+  },
+  {
+   "fact_id": "f_2136",
+   "claim": "CAUTION ON A NUMBER: the 2022 impact report states 'Close to 300 campers, including Ukrainian refugees, had a memorable summer in our day camps and at Camp YMCA Kanawana.' This is the FINANCIALLY-ASSISTED subset across day camps AND Kanawana combined -- the preceding sentence is about financial assistance -- and is NOT a Kanawana attendance figure. It must not be added to or netted against the 655. The substantive fact is that the camp took in children displaced by the 2022 invasion of Ukraine.",
+   "sources": [
+    "src_ia_ymca_montreal_fonds_collection"
+   ],
+   "confidence": "stated",
+   "category": "operations",
+   "entities": [
+    "Kamp Kanawana",
+    "Ukrainian refugees"
+   ],
+   "date_ref": "2022",
+   "conflicts_with": [],
+   "added_version": "v5.29",
+   "added_by": "ralph_loop"
+  },
+  {
+   "fact_id": "f_2137",
+   "claim": "The YMCAs of Quebec 2024 impact report marks the 130th anniversary of Camp Kanawana and the launch of 'Adventure at Kanawana', a DAY-CAMP format run on the Saint-Sauveur site -- distinct from the residential camp and from the YMCA Concordia science, engineering and fine-arts camps.",
+   "sources": [
+    "src_ia_ymca_montreal_fonds_collection"
+   ],
+   "confidence": "stated",
+   "category": "operations",
+   "entities": [
+    "Kamp Kanawana"
+   ],
+   "date_ref": "2024",
+   "conflicts_with": [],
+   "added_version": "v5.29",
+   "added_by": "ralph_loop"
+  },
+  {
+   "fact_id": "f_2138",
+   "claim": "During the 2020 closed summer the YMCA ran a virtual campfire singalong with the Camp YMCA Kanawana team as part of a fundraiser that raised $81,520, with donations doubled by the Trottier Family Foundation. The same report lists Sean Day as Regional Camp Director.",
+   "sources": [
+    "src_ia_ymca_montreal_fonds_collection"
+   ],
+   "confidence": "stated",
+   "category": "operations",
+   "entities": [
+    "Kamp Kanawana",
+    "Sean Day",
+    "Trottier Family Foundation"
+   ],
+   "date_ref": "2020",
+   "conflicts_with": [],
+   "added_version": "v5.29",
    "added_by": "ralph_loop"
   }
  ]
