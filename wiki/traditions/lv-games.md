@@ -1,11 +1,37 @@
 # The L&V Games
 
-*Status: E1-reviewed | Sources: 7*
+*Status: E1-reviewed | Sources: 9*
 *Last Updated: 2026-07-10*
 
-The L&V Games trace their origin to 1947, when the camp created "Lumberman-Voyageur Week" as a culminating event for the final week of summer. The entire camp was divided into two teams, Voyageurs and Lumbermen (known as "Bûcherons" in French), and the week was given over to inter-team competition. The concept drew on [[connections/related-camps/camp-pine-crest|Camp Pine Crest]] in Ontario, which had run its own Lumbermen-versus-Voyageurs competition since 1940, complete with the same team symbols: an axe for the Lumbermen and a paddle for the Voyageurs.
+The L&V Games trace their origin to 1947, when the camp created "Lumberman-Voyageur Week" as a culminating event for the final week of summer. **The camp's own 1988 report states it plainly**, under Programme Highlights: "1947 Kanawana introduces new camp wide event to highlight the final session of camp. Lumbermen and Voyageurs competition is created."^17 The entire camp was divided into two teams, Voyageurs and Lumbermen (known as "Bûcherons" in French), and the week was given over to inter-team competition. The concept drew on [[connections/related-camps/camp-pine-crest|Camp Pine Crest]] in Ontario, which had run its own Lumbermen-versus-Voyageurs competition since 1940, complete with the same team symbols: an axe for the Lumbermen and a paddle for the Voyageurs.
 
 The format as it developed through the late 1940s and 1950s was distinctive. Teams were announced on Friday evening, with captains selected that same night. The competition then ran through the following week. Voyageurs made model paddles to wear around their necks as team insignia; Lumbermen made model axes. The competitions included war canoe races, capture the flag, and medley relays, mixing athletics with craft and camp skills. By 1950, a Lumberman-Voyageur mural had been painted in the dining hall, a sign that the tradition had already become a defining feature of the camp's culture within just three years of its creation.
+
+**The earliest contemporaneous description is from 1949**, and adds three things this article did not have. The YMCA of Montreal's 1950 Annual Report, covering the 1949 season, records: "'Lumbermen-Voyageur' Week, as a closing feature of camp programme has become a worthwhile tradition of Kanawana. A striking, large **fireplace mural in the dining hall** makes use of this motif. Division of the entire camp into two teams for this final week of good-natured competition again met with tremendous enthusiasm on the part of campers."^17 So by 1949 it ran a **full week**, it was the **closing feature** of the season, and the dining hall carried a **large fireplace mural** of the Lumbermen/Voyageur motif — a physical artifact of the tradition that no longer appears in any modern description of the room.
+
+### "Week" → "Day" → "Games"
+
+The name was never formally changed; it drifted, and it drifted back. Documented forms, in order:
+
+| Year | Form used |
+|---|---|
+| 1949–50 | "Lumbermen-Voyageur **Week**" |
+| 1960 | "Lumberman-Voyageur **Day**" |
+| 1966 | "Lumberman and Voyageur" (no unit word) |
+| 1969 | "Lumbermen and Voyageurs," under *total camp activities* |
+| 1975–77 | "Lumbermen-Voyageurs" / "Lumbermen-Voyageur Competitions" |
+| **1982** | **"the Lumbermen-Voyageurs Games"** — first attested use of "Games" |
+| 1987, 1993 | back to the bare "Lumbermen and Voyageur" / "Lumberman-Voyageur" |
+
+The contraction from a week to a day happened between 1950 and 1960. "Games" is attested from 1982, in the camp director's season-end letter — but 1987 and 1993 revert to the bare form, so "the L&V Games" is best treated as the 1980s-onward common name rather than a formal rename.^15 ^16 ^17
+
+### The 1976 review
+
+The Games were nearly discontinued. Derek Walsh's 1976 director's report records a candid internal doubt:
+
+> "[I] and some other staff have doubts about the validity of the Lumbermen-Voyageur program. It is a very different style (i.e. ultra competition) of program as compared to the regular Kamp Kanawana programs. It also **interfers with the best of the tripping season**. Its continuing should be thoroughly discussed and decided this winter."^15
+
+It survived the winter — 1977, 1978, 1982, 1987 and 1993 are all documented. The passage is also evidence that by 1976 the Games had moved off the closing week and into mid-summer, where they clashed with canoe tripping. By the later 1970s the result was announced at the **Green Triangle Banquet**, the closing banquet: the 1977 report pairs the two, and the 1993 alumni newsletter has an eyewitness hearing the Voyageurs' win announced there.^16
 
 By 1958, McMorris describes the L&V program as "well-developed," with an established sequence: team selection on Friday, captains chosen that evening, competition running through the week. The team leaders had distinct titles: the Voyageur leader was called the **Capitaine**, while the Lumberman leader was called the **Boss**.^mc The opening ceremony, held on Sunday, featured a dramatic **floating bonfire** on the lake.^mc The 2025 YMCA Quebec official history refers to the 78th edition of the L&V Games, consistent with a 1947 origin and exactly one skipped season. That season is **2021** — not 2020, as this article inferred before the trophy was read and the remote-Games account supplied; see The Annual Trophy below. On the same count, the 2026 Games contested on 14 August 2026 were the **79th edition**.
 
@@ -61,7 +87,9 @@ Years appear on the trophy as two digits; they are expanded here. The singular "
 | 1972 | Voyageurs | | 1999 | Lumbermen | | 2026 | Lumbermen |
 | 1973 | Lumbermen | | 2000 | Voyageurs | | | |
 
-**Standings, 78 known seasons: Lumbermen 41, Voyageurs 37.** Across seventy-nine years the two teams are within four wins of each other.
+**Standings, 78 known seasons: Lumbermen 41, Voyageurs 37** — *as the trophy has them.* Across seventy-nine years the two teams are within four wins of each other.
+
+⚠️ **One entry in this table is disputed.** The 1966 season report says the Voyageurs won; the trophy says the Lumbermen. If the report is right, the standings are **Lumbermen 40, Voyageurs 38**, and every figure derived from the roll below — the running balance, the longest runs, the levelling arithmetic — shifts by one in the Voyageurs' favour. The table keeps the trophy's reading because the trophy is the roll's source of record, and flags the dispute rather than silently switching. See "The 1966 discrepancy."
 
 Four seasons is the longest run either side has managed, and it has happened four times — Lumbermen 1968–1971 and 1975–1978, Voyageurs 1979–1982 and 1992–1995. The 1975–1982 stretch is the most striking sequence on the trophy: four straight Lumberman years (the singular-spelled ones) answered immediately by four straight Voyageur years.
 
@@ -142,17 +170,43 @@ The role of "Capitaine" — leader of the Voyageur team — is considered one of
 - Direct fetches, 2026-07-09: hayowentha.org/program/voyageurs/ and find.acacamps.org (Woodsmen program profile) [src_hayowentha_website, src_aca_hayowentha_programs].
 14. *Kamp Kanawana Annual Report 1966*, YMCA of Montreal (Internet Archive) [src_ia_kanawana_annual_report_1966].
 15. *Kamp Kanawana Director's Report 1976* and the September 1976 *Green Triangle* (Internet Archive) [src_ia_kanawana_directors_report_1976]; riding-program history from the digitized YMCA of Montreal fonds [src_ia_ymca_montreal_fonds_collection].
+16. *Kamp Kanawana Director's Report 1977* [src_ia_kanawana_report_1977] and *1978* [src_ia_kanawana_report_1978] (Internet Archive); *The Lookout* Vol. 1 No. 3, Kanawana Alumni newsletter, autumn 1993 [src_ia_the_lookout_1993].
+17. *Kanawana… A Place to Grow*, YMCA of Montreal report, 1988, "Programme Highlights" [src_ia_kanawana_place_to_grow_1988]; and the YMCA of Montreal Annual Report for 1950, describing the 1949 season [src_ia_ymca_montreal_annual_reports_collection].
 13. Operator recollection (Matt Aronson), 2026-08-14: the Voyageurs are remembered as holding the longest unbroken run, and the Lumbermen as holding slightly more wins overall with the gap having narrowed during his camper years [src_oral_aronson_lv_balance_recollection]. Basis for the unconfirmed 1961 attribution.
 12. Operator (Matt Aronson), 2026-08-14: winners for the four shields not legible in the photographs (1949 Lumbermen, 1952 Voyageurs, 1958 Lumbermen; 1961 still to be verified), and the 2026 result, decided that night [src_oral_aronson_lv_trophy_gaps_2026].
 11. Operator account (Matt Aronson), 2026-08-14: the 2020 L&V Games were played remotely by volunteer alumni and campers in socially-distanced "bubbles"; the 2021 Games were not held [src_oral_aronson_lv_2020_remote]. Resolves conflict c_021.
 10. Photographs of the Kanawana Annual Trophy for Lumbermen Voyageur Games (perpetual trophy, winners shields 1947-2025), supplied by the operator 2026-08-14 [src_photo_lv_annual_trophy]. Establishes the trophy's existence, form, and span; the shields themselves are not yet reliably transcribed.
+
+## The 1966 discrepancy
+
+Two sources give different winners for 1966, and both are documentary.
+
+| Source | Says | Character |
+|---|---|---|
+| The Annual Trophy, 1966 shield | **Lumbermen** | Engraved plate on the camp's perpetual trophy; transcribed here from photographs supplied by the operator |
+| *Kamp Kanawana Annual Report 1966* | **Voyageurs** — "Lumberman and Voyage[ur], with the Voyageurs being victorious" | Contemporaneous internal season report, written by the camp director at the end of that summer |
+
+This is two documented sources disagreeing, so the project's standing "oral history yields to documents" directive does not apply. It is a **human decision point**, recorded as conflict **c_025, unresolved**.
+
+Three possibilities, in the order this article thinks likeliest:
+
+1. **The transcription is wrong.** The roll was read off photographs of a shield-covered trophy. A single misread line is the cheapest explanation and the easiest to test — it needs one look at the physical trophy. Note that the four shields obscured behind the crossed paddle and axe had to be supplied separately precisely because the photographs do not show everything cleanly.
+2. **The report is right and the trophy is wrong.** Engraving happens after the fact and can be ordered wrongly; the season report was written by the man who ran the season.
+3. **Both are right about different things.** If the 1966 season had both a Lumbermen-Voyageur competition and a separate overall standing — the 1966 report says there were *sixteen* all-camp program days — the trophy and the report could be recording different totals. The 1976 director's report separately describes the L&V format as contested enough to be formally reviewed that winter, so the format was not fixed.
+
+**What makes this worth taking seriously rather than dismissing:** three other seasons in the digitized reports — 1977, 1978 and 1993 — match the trophy exactly, and the 1978 report's "Lumbermen won ... again" independently confirms 1977 as well. The roll is not generally unreliable. That is precisely why one discordant entry is interesting rather than noise.
+
+**A note on how this was found, and got briefly mis-stated.** When the 1966 report was first added to this article on 2026-08-14, the sentence claimed it was "matching the trophy shield." It does not match; the claim was written without checking it against the roll in this same article, and it stood for a few hours. The correction is recorded here rather than quietly applied, because the error is instructive: a corroborating source is only corroboration if you actually compare it.
+
 
 ## Open Questions
 
 - ~~When exactly did the name shift from "Lumberman-Voyageur Week" to "L&V Games"?~~ [Confirmed dead end, tooling resolved 2026-07-10] A local `curl` + `pdftotext` extraction of the full McMorris thesis (succeeding where WebFetch had been defeated by a FlateDecode-compressed stream) confirms the phrase "L&V Games" appears nowhere in the thesis at all — she uses only "Lumberman-Voyageur Week" throughout, including in material sourced from a 1988 Kanawana Camping Task Force document. This confirms the rename postdates the thesis's own primary sources and remains undocumented online; only physical Ka-News/Green Triangle issues from the intervening decades could resolve the exact date.
 - **[Substantially resolved 2026-08-14] The Annual Trophy's winners roll is complete but for one season — 78 of 79 known.** The four shields obscured in the photographs were supplied directly: 1949 Lumbermen, 1952 Voyageurs, 1958 Lumbermen. **Only 1961 remains unknown**, and the operator notes it will have to be verified against the trophy itself. It is the highest-value single entry left: if 1961 went to the Voyageurs it completes a five-season run (1959-1963), the longest in the Games' history; if to the Lumbermen, nothing changes.
 - ~~**[New, critical] Resolve conflict c_021 — the 2020/2021 discrepancy.**~~ **[Resolved 2026-08-14]** The 2020 Games were played remotely — volunteer alumni and campers competing in individual and online challenges from their socially-distanced bubbles — and the 2021 Games were not held. This reconciles the trophy, the Owens gap, the documented closures and the "78th edition" count simultaneously. See "The remote 2020 Games" above.
-- **[New 2026-08-14] The 1966 result is now documented from a report rather than the trophy.** The Kamp Kanawana Annual Report 1966 records "Lumberman and Voyage[ur], with the Voyageurs being victorious" — matching the trophy shield.^14 It is a small thing, but it is the first season of the series independently corroborated against the trophy, and it establishes that the annual reports record L&V outcomes. The digitized run of Kamp Kanawana Annual and Director's Reports covers **1964–1979 and 1987**, so up to seventeen further seasons of the roll may be independently confirmable — including whether any documentary source can settle **1961**, the one missing shield.
+- **[New 2026-08-14, CRITICAL] The season reports contradict the trophy at 1966 — and this article got that wrong for several hours.** The *Kamp Kanawana Annual Report 1966* records "Lumberman and Voyage[ur], **with the Voyageurs being victorious**."^14 The trophy shield for 1966 reads **Lumbermen**. When this line was first added earlier the same day it claimed the report was "matching the trophy shield." **It does not match. That sentence was written without checking it against the roll two screens above, and it was false.** Raised as **conflict c_025, unresolved** — see "The 1966 discrepancy" below.
+- **[New 2026-08-14] Three other seasons now corroborate the trophy exactly.** The 1977 report records "Green Triangle Banquet (**Lumbermen won**)"; the 1978 report "Lumbermen-Voyageurs (**Lumbermen won ... again**)" — the "again" independently confirming 1977 as well; and the 1993 alumni newsletter *The Lookout* twice reports the **Voyageurs** winning narrowly that year, once in an eyewitness account of the closing banquet.^15 ^16 All three match the trophy. So the roll is not generally unreliable — 1966 is a single discordant entry, which is exactly why it needs explaining rather than averaging away.
+- **[New 2026-08-14] What the reports could still settle.** The digitized run of Kamp Kanawana Annual and Director's Reports covers **1964–1979 and 1987**, and the *Green Triangle* and *Ka-News* runs add more. A dedicated read of every surviving season report for its L&V result is now an obvious task — including whether anything can settle **1961**. On that: the 1961 SGW annual report covers the Kanawana season but **drops the "Lumberman-Voyageur Day" phrase the 1960 report had used, and reports no result**, and the 1962 report carries no Kanawana programme narrative at all. That is a searched-and-found-nothing result, not an unsearched gap.
 - **[New] How were the remote 2020 Games actually run?** What the individual and online challenges were, how they were scored across bubbles, who organised them, and how the Voyageur win was determined are all undocumented. This is the only edition of the Games known to have been contested without the camp.
 - **[Advanced 2026-08-14] What was the "Kanawana Stampede"?** A plaque mounted above the L&V trophy reads "KANAWANA STAMPEDE / 1976 CHAMPIONS" with further lettering not legible in the photograph. The name is no longer entirely undocumented: the **Kamp Kanawana Annual Report 1966** lists "Stampede Day" among the season's all-camp themed program days, in the same sentence as the L&V Games themselves — "Penny Carnival, Viking Funeral, the most exciting Christmas Day ever, New Year's Eve, **Stampede Day**, Klondike Day where everybody gambled and landed in jail, Fishermen's Supper, Lumberman and Voyage[ur], with the Voyageurs being victorious."^14 That places the Stampede in the documented family of camp-wide themed competition days alongside Klondike Day, and makes a frontier-western themed day, not a rodeo, the natural reading. **The equestrian reading is positively contradicted for 1976:** the camp ran a horsemanship program with awards from 1969 to 1971, but the 1971 Director's Report recommended the riding program be discontinued, and riding does not appear among the 1976 program areas at all.^13
   Two pieces of negative evidence keep this at "plausible" rather than settled. The 1976 Director's Report — 1,455 lines covering every program area of that season — does not mention a Stampede, and neither does the September 1976 *Green Triangle* season-wrap newsletter.^15 So the 1976 Stampede was either too minor for the season report, or **not a summer camp-session event at all** — a winter Kanawana Outing Club event, a staff or alumni event, or a fundraiser would each explain the silence. The plaque's remaining lettering, or Concordia's physical 1976 *Ka-News* holdings, are the routes to an answer.

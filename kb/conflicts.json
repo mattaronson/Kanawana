@@ -483,6 +483,28 @@
    "resolved_at": null,
    "resolution": null,
    "notes": "HUMAN DECISION POINT per CLAUDE.md: two documented sources disagreeing, not oral history versus document, so the standing resolution directive does not apply. Arguments each way. FOR Lac la Croix: the 1919 sketch is first-person testimony from a man who was in the room, written 25 years after the events and 32 years before the 1951 history, which is itself a second-hand institutional retelling. AGAINST: 25 years is long enough to compress a site-selection sequence, the author left Montreal for Winnipeg in June 1894 and so may not have been present at the camp itself, and every other source places 1894 at Lake Saint-Joseph. A THIRD reading, which would dissolve the conflict: 'decided to locate' may describe an intention that was revised before the season, with 'the first group went out' referring to the scouting party rather than the campers. The passage is genuinely ambiguous about what happened in which order. Do not resolve by picking the majority; the memoir may be recording a real detail the institutional narrative smoothed away. Concordia's 1893 'Report - trip to St. Agathe' journal (sub-series 12A) is the document most likely to settle it."
+  },
+  {
+   "conflict_id": "c_025",
+   "entity": "Lumbermen-Voyageurs Games, 1966 season",
+   "attribute": "winning team",
+   "positions": [
+    {
+     "claim": "Lumbermen won in 1966.",
+     "source": "The Kanawana Annual Trophy, 1966 shield, transcribed from operator photographs [src_photo_lv_annual_trophy]",
+     "facts": []
+    },
+    {
+     "claim": "Voyageurs won in 1966.",
+     "source": "Kamp Kanawana Annual Report 1966: 'Lumberman and Voyage[ur], with the Voyageurs being victorious' [src_ia_kanawana_annual_report_1966]",
+     "facts": []
+    }
+   ],
+   "status": "unresolved",
+   "raised_at": "2026-08-14T00:00:00Z",
+   "resolved_at": null,
+   "resolution": null,
+   "notes": "HUMAN DECISION POINT: two documented sources, so the oral-history-yields-to-documents directive does not apply. Likeliest explanation is a TRANSCRIPTION error on this project's side -- the roll was read off photographs of a trophy whose shields are partly obscured by a crossed paddle and axe, and four shields already had to be supplied separately for that reason. One look at the physical trophy would settle it. Second possibility: engraving is done after the fact and can be ordered wrongly, while the season report was written by the man who ran the season. Third: they may record different things, since the 1966 report counts sixteen all-camp program days and the L&V format was unstable enough to be formally reviewed in winter 1976. IMPORTANT CONTEXT: three other seasons in the digitized reports -- 1977, 1978 and 1993 -- match the trophy exactly, and the 1978 report's 'Lumbermen won ... again' independently confirms 1977. The roll is not generally unreliable, which is why this single discordant entry deserves explanation rather than averaging. CONSEQUENCE IF THE REPORT IS RIGHT: standings become Lumbermen 40 / Voyageurs 38 rather than 41/37, and every derived figure -- running balance, longest runs, the levelling arithmetic -- shifts one in the Voyageurs' favour."
   }
  ]
 }
