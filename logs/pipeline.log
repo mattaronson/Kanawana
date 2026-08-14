@@ -2574,3 +2574,33 @@ THIS COMPLETES THE FULL OPERATOR-APPROVED PLAN (can-you-systematically-work-iter
   - NEW FINDING, narrowing a documented gap: Kamp Kanawana director's and annual reports ARE digitized and full-text searchable on Internet Archive (rma-concordia-publications) -- 1964-1966, 1969-1971, 1974-1979, 1987, plus Ka-News 1977-1981. The 1976 and 1977 director's reports are signed "Derek V. Walsh, Director of Camping" and the 1979 report "G. David Twynam / Director". between-centennials.md had stated "No director is confirmed for 1976-1978"; Walsh is now documented in camping leadership for two of those three years, leaving only 1978 unaccounted. Caveat preserved in-article: "Director of Camping" is the BRANCH title and does not by itself establish on-site camp direction.
   - This also CORRECTS ross-bannerman.md Open Question 2, which asserted "Physical archive consultation is the only path" to the 1970-1975 director's reports. It is not -- several are digitized. Reading them is now a desk task.
   - kb/facts.json: +7 (f_2020-f_2026), now 1988, v5.16 -> v5.17. sources/sources.json: +5 primary/secondary records, now 657. Verified: 736 cross-links, 0 broken; harness A2 issues cleared.
+
+2026-08-14 | RESEARCH + WRITE | The 1947-2003 director gap, first substantial advance
+  Seam: the Kamp Kanawana annual/director's reports, digitized on Internet Archive
+  and surviving for 1964, 1965, 1966, 1969, 1970, 1971, 1973, 1974, 1975, 1976,
+  1977, 1978, 1979 and 1987. Each is signed by its director. Found by a research
+  agent that noted only 44 of the 638 text items in the Concordia-digitized YMCA
+  of Montreal fonds are referenced in sources.json.
+  New to the record: Geoff Anderson (1969), James H. Turner (1970-1971),
+  Leo J. Robitaille (1973), J. Breckenridge (1967 Kanawana branch chairman).
+  Corrected: Derek Walsh 1974-1975 -> 1974-1978; Twynam's 1979 start fixed from
+  "circa" to documented, in his own words; Jay Netherwood's 1987 upgraded from
+  oral history to document.
+  Removed: Ross Bannerman from the Camp Directors table (conflict c_023, resolved).
+  The 1969 report is signed by Geoff Anderson. Bannerman was at association HQ --
+  Associate Executive Secretary of the Metropolitan Office from 1967, "Assistant du
+  Secretaire General" by Feb 1970. His own article had already reached that
+  conclusion; the directors table had not been updated to match. A hedge in a
+  notes column does not undo a name in a directors table.
+  Also removed: the claim that Richard Patten was "the organizational head
+  overseeing Kanawana" 1976-1979. False. An earlier VERIFY pass had flagged the
+  sentence as uncited and fixed it by adding a citation. Recorded prominently in
+  directors-index.md because the failure mode matters more than the fact.
+  ERROR MADE AND FIXED IN THIS PASS: I added a Jay Netherwood row asserting that
+  no relationship to Bruce Netherwood was documented and none should be assumed.
+  The wiki already documents them as brothers. I wrote a caution without checking
+  the record I was cautioning about. Row merged into the existing one; f_2054
+  carries the correction.
+  Sources 665 -> 680. Facts 2009 -> 2021, KB v5.20. Conflict c_023 raised+resolved.
+  Two research agents dispatched: (1) systematic officers-table sweep of every
+  annual report 1947-2003; (2) traditions/programs mining of the Kanawana reports.

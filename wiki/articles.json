@@ -1531,7 +1531,7 @@
     "wartime-kanawana"
    ],
    "file_id": null,
-   "word_count": 12370,
+   "word_count": 13253,
    "notes": "v4.75: Peter Goddard confirmed (Peter Gilling Goddard 1953-2016, obituary condolence). Nelson McEwen tenure extended c.1927-1947. Derek Walsh exhausted. Gap periods updated. | 2026-07-07: applied operator's standing conflict-resolution policy (documented sources take precedence over oral history) to resolve c_004, c_015, c_016, c_017 -- Gary White's Kanawana tenure narrowed to FY2001-2002, Sean Day's start corrected to 2008, Nicolas Garcia's spelling/end-date corrected to March 2014, Rossy Foundation corrected to Tyndale St-Georges. | 2026-07-11: Workstream A Wave 1 prose-sediment REVIEW pass -- standardized header, moved dated correction narrative from table cells into a new visible Revision History section, corrected open_questions count (was stale at 7, actual count is and remains 14). No facts, citations, or open questions dropped; status unchanged. | 2026-07-11: Added wiki-links to Howie Langille and Ross Bannerman table rows and Related Articles, pointing to their new standalone Workstream C1 articles. | 2026-07-11: Added wiki-links to Bruce Netherwood (Camp Directors table, Pip Award table, Related Articles) pointing to the new standalone article. | 2026-07-11: Added wiki-links to Gary White, David Leduc, Kate Taylor, Marie-Pierre Lacasse table rows and Related Articles, pointing to new standalone institutional-role-director articles. | 2026-07-11: Added wiki-links to Greig Macdiarmid, Francois Dauphin, Nicolas Garcia, Morgan Carter, Arleen Boyer, Justin Caldwell (Two-Tier Era + Staff by Era tables) and Matt/Dan Aronson (Related Articles), per the operator's revised C5 policy.",
    "tags": {
     "era": [
@@ -4698,10 +4698,10 @@
     "f_1963"
    ],
    "sources_cited": [
-    "src_ia_camp_perrot_collection",
     "src_camp_perrot_1959_fresh_look",
     "src_camp_perrot_1969_family_centre",
-    "src_concordia_finding_aid_master_pdf"
+    "src_concordia_finding_aid_master_pdf",
+    "src_ia_camp_perrot_collection"
    ],
    "open_questions": 6,
    "cross_links": [
@@ -4955,6 +4955,10 @@
     "f_1923"
    ],
    "sources_cited": [
+    "src_ia_kanawana_report_1974",
+    "src_ia_kanawana_report_1978",
+    "src_ia_kanawana_report_1979",
+    "src_ia_kanawana_report_1987",
     "src_twynam_johnston_2004"
    ],
    "open_questions": 4,
@@ -4965,7 +4969,7 @@
     "canadian-camping-movement"
    ],
    "file_id": null,
-   "word_count": 1378,
+   "word_count": 1541,
    "notes": "2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- trimmed the header's dated parenthetical, and fixed staleness: this article still described conflict c_007 as unresolved when it had actually been resolved (1979) back in Campaign 25 -- updated the Directorship section and Open Question 1 to state the resolved understanding, added a Research Notes > Revision History section. No facts, citations, or open questions dropped; status unchanged.",
    "tags": {
     "era": [
@@ -6427,8 +6431,8 @@
     "f_1904"
    ],
    "sources_cited": [
-    "src_ia_the_georgian",
-    "src_ia_mcgill_daily"
+    "src_ia_mcgill_daily",
+    "src_ia_the_georgian"
    ],
    "open_questions": 5,
    "cross_links": [
@@ -6838,11 +6842,11 @@
    ],
    "sources_cited": [
     "src_camp_stephens_alumni_blog",
-    "src_concordia_fonds_14D",
-    "src_mcmorris_thesis",
-    "src_concordia_14D10",
     "src_cca_history",
-    "src_concordia_atom_12B01"
+    "src_concordia_14D10",
+    "src_concordia_atom_12B01",
+    "src_concordia_fonds_14D",
+    "src_mcmorris_thesis"
    ],
    "open_questions": 5,
    "cross_links": [
@@ -6955,13 +6959,13 @@
     "f_2026"
    ],
    "sources_cited": [
+    "src_camp_pascobac_history",
     "src_camp_stephens_alumni_blog",
     "src_concordia_atom_12B01",
     "src_concordia_atom_fonds",
-    "src_ia_ymca_news_release_1970_11_27",
     "src_ia_ymca_annual_report_1977_78",
     "src_ia_ymca_annual_report_1978_79",
-    "src_camp_pascobac_history"
+    "src_ia_ymca_news_release_1970_11_27"
    ],
    "open_questions": 3,
    "cross_links": [
@@ -7015,10 +7019,10 @@
     "f_1562"
    ],
    "sources_cited": [
-    "src_ymca_pip_orbinski_2024",
-    "src_ymca_pip_orbinski",
-    "src_wikipedia_orbinski",
     "src_concordia_orbinski",
+    "src_wikipedia_orbinski",
+    "src_ymca_pip_orbinski",
+    "src_ymca_pip_orbinski_2024",
     "src_ymca_quebec_pip_orbinski_2024"
    ],
    "open_questions": 2,
@@ -7071,10 +7075,10 @@
     "f_1126"
    ],
    "sources_cited": [
-    "src_wikipedia_john_cleghorn",
-    "src_ymca_quebec_pip_skinner",
     "src_canadian_encyclopedia_cleghorn",
-    "src_oral_aronson"
+    "src_oral_aronson",
+    "src_wikipedia_john_cleghorn",
+    "src_ymca_quebec_pip_skinner"
    ],
    "open_questions": 2,
    "cross_links": [
@@ -7126,13 +7130,13 @@
     "f_1417"
    ],
    "sources_cited": [
-    "src_ymca_pip_adam",
-    "src_ymca_pip_adam_2017",
-    "src_ka_news_1980",
-    "src_dawson_chris_adam",
     "src_cbc_dawson_green_gown",
     "src_dawson_adam_ggmsm",
-    "src_dawson_adam_research"
+    "src_dawson_adam_research",
+    "src_dawson_chris_adam",
+    "src_ka_news_1980",
+    "src_ymca_pip_adam",
+    "src_ymca_pip_adam_2017"
    ],
    "open_questions": 2,
    "cross_links": [
@@ -7192,12 +7196,12 @@
     "f_1867"
    ],
    "sources_cited": [
+    "src_concordia_atom_12B04",
     "src_flickr_kanawana_plaque_album",
-    "src_oral_aronson",
+    "src_ia_ymca_annual_1989_fr",
     "src_ia_ymca_annual_1990",
     "src_ia_ymca_annual_1993",
-    "src_ia_ymca_annual_1989_fr",
-    "src_concordia_atom_12B04",
+    "src_oral_aronson",
     "src_ssymca_netherwood",
     "src_ymca_quebec_pip_skinner"
    ],
@@ -7256,12 +7260,12 @@
     "f_2022"
    ],
    "sources_cited": [
-    "src_patten_obituary",
-    "src_ymca_quebec_pip_skinner",
     "src_flickr_kanawana_plaque_album",
-    "src_wikipedia_richard_patten",
     "src_ia_ymca_annual_report_1977_78",
-    "src_ia_ymca_annual_report_1978_79"
+    "src_ia_ymca_annual_report_1978_79",
+    "src_patten_obituary",
+    "src_wikipedia_richard_patten",
+    "src_ymca_quebec_pip_skinner"
    ],
    "open_questions": 2,
    "cross_links": [
@@ -7419,10 +7423,10 @@
     "f_1969"
    ],
    "sources_cited": [
-    "src_cbmu_history",
     "src_1951_kamp_kanawana_history",
-    "src_concordia_p0145_12a_finding_aid",
-    "src_concordia_fonds"
+    "src_cbmu_history",
+    "src_concordia_fonds",
+    "src_concordia_p0145_12a_finding_aid"
    ],
    "open_questions": 4,
    "cross_links": [
@@ -7484,9 +7488,9 @@
     "f_1733"
    ],
    "sources_cited": [
-    "src_linkedin_leduc",
+    "src_devp_leduc_2015",
     "src_flickr_kanawana_plaque_album",
-    "src_devp_leduc_2015"
+    "src_linkedin_leduc"
    ],
    "open_questions": 2,
    "cross_links": [
@@ -7546,12 +7550,12 @@
     "f_1805"
    ],
    "sources_cited": [
-    "src_rocketreach_lacasse",
     "src_latribune_lacasse_2018",
-    "src_oral_aronson",
     "src_nouvelles_laurentides_2024",
-    "src_ymcaquebec_kanawana_adventure_2024",
-    "src_ymca_website"
+    "src_oral_aronson",
+    "src_rocketreach_lacasse",
+    "src_ymca_website",
+    "src_ymcaquebec_kanawana_adventure_2024"
    ],
    "open_questions": 2,
    "cross_links": [
@@ -7618,13 +7622,13 @@
     "f_1493"
    ],
    "sources_cited": [
-    "src_linkedin_kate_taylor",
+    "src_campcode_95",
     "src_camphacker_147",
-    "src_msn_kanawana_closed_2021",
-    "src_oral_aronson",
-    "src_montreal_families_gender",
     "src_gocamp_pro_kate_taylor",
-    "src_campcode_95"
+    "src_linkedin_kate_taylor",
+    "src_montreal_families_gender",
+    "src_msn_kanawana_closed_2021",
+    "src_oral_aronson"
    ],
    "open_questions": 2,
    "cross_links": [
@@ -7738,16 +7742,16 @@
     "f_1934"
    ],
    "sources_cited": [
-    "src_ymca_gta_pine_crest",
-    "src_ymca_canada_history",
-    "src_ymcagta_pine_crest_games",
-    "src_pine_crest_encyclopedia",
-    "src_pine_crest_book",
-    "src_wikipedia_color_war",
-    "src_ymca_kanawana_history",
-    "src_leigh_evans_lv_blog",
+    "src_aca_hayowentha_programs",
     "src_hayowentha_website",
-    "src_aca_hayowentha_programs"
+    "src_leigh_evans_lv_blog",
+    "src_pine_crest_book",
+    "src_pine_crest_encyclopedia",
+    "src_wikipedia_color_war",
+    "src_ymca_canada_history",
+    "src_ymca_gta_pine_crest",
+    "src_ymca_kanawana_history",
+    "src_ymcagta_pine_crest_games"
    ],
    "open_questions": 2,
    "cross_links": [
@@ -7814,11 +7818,11 @@
    ],
    "sources_cited": [
     "src_concordia_fonds",
-    "src_history_1935",
     "src_concordia_ymca_fonds_12B04_finding_aid",
-    "src_ia_green_triangle_collection",
-    "src_green_triangle_1938",
     "src_green_triangle_1933_07_08",
+    "src_green_triangle_1938",
+    "src_history_1935",
+    "src_ia_green_triangle_collection",
     "src_readers_digest_buckland",
     "src_readers_digest_camp_shapes_lives",
     "src_spirit_kanawana_blog"
@@ -7884,12 +7888,12 @@
     "f_1796"
    ],
    "sources_cited": [
-    "src_kanawana_facts",
-    "src_oral_aronson",
     "src_flickr_kanawana_plaque_album",
-    "src_ymcaq_trailblazers_2026",
+    "src_kanawana_facts",
+    "src_leigh_evans_blog",
+    "src_oral_aronson",
     "src_ymcaq_lit_guide_2026",
-    "src_leigh_evans_blog"
+    "src_ymcaq_trailblazers_2026"
    ],
    "open_questions": 3,
    "cross_links": [
@@ -7959,12 +7963,12 @@
     "src_brochure_1922",
     "src_brochure_1923",
     "src_gas_bag_1923",
-    "src_wikipedia_woodcraft_league",
-    "src_woodcraft_birch_bark",
+    "src_green_triangle_1938",
     "src_histclo_woodcraft",
     "src_mcmorris_thesis",
     "src_newspapers_gazette_1918",
-    "src_green_triangle_1938"
+    "src_wikipedia_woodcraft_league",
+    "src_woodcraft_birch_bark"
    ],
    "open_questions": 3,
    "cross_links": [
@@ -8018,13 +8022,13 @@
    "ralph_loops_completed": 1,
    "kb_facts_used": [],
    "sources_cited": [
-    "src_camp_stephens_alumni_blog",
-    "src_mcmorris_thesis",
-    "src_ia_camp_perrot_collection",
     "src_camp_perrot_1959_fresh_look",
+    "src_camp_stephens_alumni_blog",
+    "src_concordia_chrcs_fonds",
     "src_concordia_fonds",
+    "src_ia_camp_perrot_collection",
     "src_ia_ymca_annual_report_1966_67",
-    "src_concordia_chrcs_fonds"
+    "src_mcmorris_thesis"
    ],
    "open_questions": 3,
    "cross_links": [
@@ -8084,16 +8088,18 @@
    ],
    "sources_cited": [
     "src_concordia_fonds",
-    "src_ymca_kanawana_history",
+    "src_goddard_obituary",
+    "src_goddard_obituary_condolence",
+    "src_ia_kanawana_report_1977",
+    "src_ia_kanawana_report_1978",
+    "src_ia_ymca_annual_report_1977_78",
+    "src_ia_ymca_annual_report_1978_79",
+    "src_ka_news_1980",
     "src_kanawana_facts",
     "src_mcmaster_mclean_fonds",
-    "src_ka_news_1980",
-    "src_goddard_obituary_condolence",
-    "src_goddard_obituary",
     "src_oral_aronson",
     "src_ymca_john_island_newsletter",
-    "src_ia_ymca_annual_report_1977_78",
-    "src_ia_ymca_annual_report_1978_79"
+    "src_ymca_kanawana_history"
    ],
    "open_questions": 4,
    "cross_links": [
@@ -8108,7 +8114,7 @@
     "timeline-overview"
    ],
    "file_id": null,
-   "word_count": 1208,
+   "word_count": 1255,
    "notes": "2026-07-11: Workstream C4 spawn (3 of 4). Connective-narrative synthesis, no new research conducted. | 2026-08-14 p_222: applied the chronology BLOCKING fixes from the p_218 VERIFY audit. | 2026-08-14 p_225 research: deep web research resolved three long-standing questions against PRIMARY sources (YMCA of Montreal news release 1970 + annual reports 1977-79 on Internet Archive; Camp Pascobac's own history page; broadcasting-history.ca).",
    "tags": {
     "era": [
@@ -8150,18 +8156,18 @@
    "ralph_loops_completed": 1,
    "kb_facts_used": [],
    "sources_cited": [
-    "src_oral_aronson",
-    "src_wayback_ymcamontreal_annualreport_2001_2002",
-    "src_msn_kanawana_closed_2021",
+    "src_clivus_multrum_projects",
+    "src_mediaterre_kanawana_2009",
     "src_montreal_families_gender",
+    "src_msn_kanawana_closed_2021",
+    "src_oral_aronson",
+    "src_oral_aronson_lv_2020_remote",
+    "src_telus_kanawana",
+    "src_wayback_ymcamontreal_annualreport_2001_2002",
     "src_ymcaquebec_annualreport_2007",
     "src_ymcaquebec_annualreport_2008",
     "src_ymcaquebec_annualreport_2009",
-    "src_ymcaquebec_annualreport_2011",
-    "src_clivus_multrum_projects",
-    "src_mediaterre_kanawana_2009",
-    "src_oral_aronson_lv_2020_remote",
-    "src_telus_kanawana"
+    "src_ymcaquebec_annualreport_2011"
    ],
    "open_questions": 3,
    "cross_links": [
@@ -8238,10 +8244,10 @@
     "f_1763"
    ],
    "sources_cited": [
-    "src_oral_aronson",
     "src_flickr_kanawana_plaque_album",
-    "src_ymcaquebec_annualreport_2009",
-    "src_spirit_kanawana_blog"
+    "src_oral_aronson",
+    "src_spirit_kanawana_blog",
+    "src_ymcaquebec_annualreport_2009"
    ],
    "open_questions": 2,
    "cross_links": [
@@ -8342,8 +8348,8 @@
     "f_1841"
    ],
    "sources_cited": [
-    "src_history_1935",
     "src_green_triangle_1938",
+    "src_history_1935",
     "src_ia_ymca_annual_1937",
     "src_mcmorris_thesis"
    ],
@@ -8446,9 +8452,9 @@
     "f_1753"
    ],
    "sources_cited": [
-    "src_wayback_ymcakanawana_parentguide_2009",
+    "src_oral_aronson",
     "src_wayback_ymcakanawana_contactpage_2010_2014",
-    "src_oral_aronson"
+    "src_wayback_ymcakanawana_parentguide_2009"
    ],
    "open_questions": 2,
    "cross_links": [
@@ -8505,10 +8511,10 @@
     "f_1765"
    ],
    "sources_cited": [
+    "src_flickr_kanawana_plaque_album",
     "src_oral_aronson",
     "src_wayback_ymcamontreal_annualreport_2002_2003",
-    "src_ymcaquebec_annualreport_2011",
-    "src_flickr_kanawana_plaque_album"
+    "src_ymcaquebec_annualreport_2011"
    ],
    "open_questions": 2,
    "cross_links": [
@@ -8626,12 +8632,12 @@
     "f_1805"
    ],
    "sources_cited": [
-    "src_ymca_kanawana_team_2025",
-    "src_fb_kanawana_tripper_caldwell_2018",
     "src_fb_kanawana",
-    "src_zoominfo_justin_caldwell",
+    "src_fb_kanawana_tripper_caldwell_2018",
+    "src_kk_prep_guide_2025",
     "src_oral_aronson",
-    "src_kk_prep_guide_2025"
+    "src_ymca_kanawana_team_2025",
+    "src_zoominfo_justin_caldwell"
    ],
    "open_questions": 1,
    "cross_links": [
@@ -8754,7 +8760,7 @@
     "site/camp-becsies"
    ],
    "file_id": null,
-   "word_count": 1654,
+   "word_count": 1655,
    "notes": "Created 2026-08-14 from the digitized Montreal YMCA annual reports (complete 1929-1955) and Green Triangle run. Fills the previously-blank 1932-1934 directorship slot; carries a standing caution against merging two different W.H. Spearmans."
   }
  ],

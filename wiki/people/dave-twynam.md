@@ -1,17 +1,17 @@
 # G. David Twynam
 
-*Status: E1-reviewed | Sources: 11*
-*Last Updated: 2026-07-10*
+*Status: E1-reviewed | Sources: 13*
+*Last Updated: 2026-08-14*
 
 ## Overview
 
-G. David Twynam (PhD) served as camp director of Kamp Kanawana circa 1979–1980, during a period in the camp's history that remains poorly documented.^1 ^5 After leaving camp work, Twynam built a distinguished academic career in outdoor recreation, tourism, and event management, holding faculty positions at Lakehead University and dean-level positions at Thompson Rivers University and Vancouver Island University.^2 ^3 ^4 His research on volunteer motivation at sporting events, particularly the Special Event Volunteer Motivation Scale (SEVMS), has been widely cited (723+ citations on ResearchGate).^4
+G. David Twynam (PhD) served as camp director of Kamp Kanawana from 1979 into at least 1980. **1979 is fixed as his first year by his own words** — the *Kamp Kanawana Director's Report 1979*, signed "G. David Twynam / Director," concludes: "This being my first year as Director of Kamp Kanawana I must state that the rewards have been tremendous."^12 That upgrades what this article previously carried as "circa 1979–1980."^1 ^5 After leaving camp work, Twynam built a distinguished academic career in outdoor recreation, tourism, and event management, holding faculty positions at Lakehead University and dean-level positions at Thompson Rivers University and Vancouver Island University.^2 ^3 ^4 His research on volunteer motivation at sporting events, particularly the Special Event Volunteer Motivation Scale (SEVMS), has been widely cited (723+ citations on ResearchGate).^4
 
 ## Kanawana Directorship
 
-Correspondence from "Camp director Dave Twynam" is dated 1979 in the Concordia University Archives (sub-sub-series P0145/12B01), providing the primary documentary evidence for his tenure.^1 He is also referenced as "Dave" in the Ka-News 1980 publication, suggesting his directorship extended into at least the 1980 season.^5 Search-engine excerpts of the same finding aid retrieved in June 2026 had instead dated director correspondence to 1976 (conflict c_007); a full raw fetch of the finding aid confirmed exactly one Twynam entry exists, dated 1979, with no separate 1976 entry anywhere in the list — resolving the conflict in favour of 1979.^1
+Correspondence from "Camp director Dave Twynam" is dated 1979 in the Concordia University Archives (sub-sub-series P0145/12B01).^1 The stronger evidence is now his own signed season report for 1979, which also fixes the start of his tenure and records the season: 441 different kampers and 18 CITs, with children accepted from Youth Horizons and Children's Mountain Cottage and campers sponsored by the Rotary Club of Westmount. He thanks "Julian and Olga whose experience, understanding and cooperation made my job easy" and "Tom Potts for his assistance on my arrival," and closes the report with a poem by Joan Dalrymple.^12 He is also referenced as "Dave" in the Ka-News 1980 publication, suggesting his directorship extended into at least the 1980 season.^5 Search-engine excerpts of the same finding aid retrieved in June 2026 had instead dated director correspondence to 1976 (conflict c_007); a full raw fetch of the finding aid confirmed exactly one Twynam entry exists, dated 1979, with no separate 1976 entry anywhere in the list — resolving the conflict in favour of 1979.^1
 
-Twynam's directorship falls in the late 1970s, within the 1947–2003 gap in the camp's directorial record — a 57-year period for which few directors have been identified through web-accessible sources. His predecessor and successor in the role remain unconfirmed, though A. Ross Seaman (1959–1967) and Bruce Netherwood (date uncertain) are documented for adjacent periods.^1
+Twynam's directorship falls in the late 1970s, within the 1947–2003 gap in the camp's directorial record — a 57-year period for which few directors have been identified through web-accessible sources. **His predecessor is now documented:** Derek V. Walsh signed the Kanawana reports for 1974 through 1978, so Twynam followed Walsh directly. His successor remains unconfirmed; the next named director after him is Jay Netherwood in 1987.^12 ^13
 
 ## Academic Career
 
@@ -80,6 +80,8 @@ Twynam holds a doctorate, as confirmed by the title "Dr." in multiple institutio
 9. Mason, P., Johnston, M.E. & Twynam, G.D. "The World Wide Fund for Nature Arctic Tourism Project." *Journal of Sustainable Tourism* 8(4): 305–323, 2000.
 10. Heart of Gold Project website: VIU/Costa Rica sustainability collaboration.
 11. Twynam, G.D. & Johnston, M.E. (2004). Study of volunteer/resident perceptions, 1995 Nordic World Ski Championships, Thunder Bay [src_twynam_johnston_2004].
+12. *Kamp Kanawana Director's Report 1979*, YMCA of Montreal (Internet Archive) [src_ia_kanawana_report_1979]; and the 1974-1978 reports establishing Walsh as predecessor [src_ia_kanawana_report_1974, src_ia_kanawana_report_1978].
+13. *Kamp Kanawana Director's Report 1987* [src_ia_kanawana_report_1987].
 
 ## Research Notes
 

@@ -1,8 +1,8 @@
 {
  "version": "v4.98",
- "kb_version": "v5.19",
+ "kb_version": "v5.20",
  "migrated_from": "3.3",
- "fact_count": 2009,
+ "fact_count": 2021,
  "facts": [
   {
    "fact_id": "f_0001",
@@ -34760,6 +34760,222 @@
    "date_ref": "1966",
    "conflicts_with": [],
    "added_version": "v5.19",
+   "added_by": "ralph_loop"
+  },
+  {
+   "fact_id": "f_2048",
+   "claim": "Geoff Anderson signed the Kamp Kanawana Annual Report 1969 as \"Director\". This is direct documentary evidence of the 1969 Kanawana directorship and CONTRADICTS the wiki's prior attribution of 1969 to Ross Bannerman, which rested only on Bannerman's authorship of a separate \"Report on Kamp Kanawana\" (1969).",
+   "sources": [
+    "src_ia_kanawana_report_1969"
+   ],
+   "confidence": "stated",
+   "category": "people",
+   "entities": [
+    "Geoff Anderson",
+    "Kamp Kanawana",
+    "Ross Bannerman"
+   ],
+   "date_ref": "1969",
+   "conflicts_with": [],
+   "added_version": "v5.20",
+   "added_by": "ralph_loop"
+  },
+  {
+   "fact_id": "f_2049",
+   "claim": "James H. Turner signed the Kamp Kanawana Annual Report 1970 as \"Camp Director\" and the 1971 Director's Report as \"Camp Director, Kamp Kanawana '71\", establishing a two-season directorship, 1970-1971.",
+   "sources": [
+    "src_ia_kanawana_report_1970",
+    "src_ia_kanawana_report_1971"
+   ],
+   "confidence": "stated",
+   "category": "people",
+   "entities": [
+    "James H. Turner",
+    "Kamp Kanawana"
+   ],
+   "date_ref": "1970-1971",
+   "conflicts_with": [],
+   "added_version": "v5.20",
+   "added_by": "ralph_loop"
+  },
+  {
+   "fact_id": "f_2050",
+   "claim": "Leo J. Robitaille signed the Kamp Kanawana Director's Report 1973, dated August 17, 1973. No year other than 1973 is documented for him.",
+   "sources": [
+    "src_ia_kanawana_report_1973"
+   ],
+   "confidence": "stated",
+   "category": "people",
+   "entities": [
+    "Leo J. Robitaille",
+    "Kamp Kanawana"
+   ],
+   "date_ref": "1973",
+   "conflicts_with": [],
+   "added_version": "v5.20",
+   "added_by": "ralph_loop"
+  },
+  {
+   "fact_id": "f_2051",
+   "claim": "Derek V. Walsh's documented Kanawana tenure extends from 1974 to at least 1978, not 1974-1975 as previously recorded: he signs the 1974 report \"Director '74\", the 1975 report \"Director, Kamp Kanawana '75\", and the 1976, 1977 and 1978 reports \"Director of Camping\".",
+   "sources": [
+    "src_ia_kanawana_report_1974",
+    "src_ia_kanawana_report_1975",
+    "src_ia_kanawana_directors_report_1976",
+    "src_ia_kanawana_report_1977",
+    "src_ia_kanawana_report_1978"
+   ],
+   "confidence": "stated",
+   "category": "people",
+   "entities": [
+    "Derek V. Walsh",
+    "Kamp Kanawana"
+   ],
+   "date_ref": "1974-1978",
+   "conflicts_with": [],
+   "added_version": "v5.20",
+   "added_by": "ralph_loop"
+  },
+  {
+   "fact_id": "f_2052",
+   "claim": "Derek V. Walsh's signature title CHANGES between 1975 and 1976, from \"Director\"/\"Director '74\" to \"Director of Camping\". Whether this marks a move from on-site Kanawana director to an association-level role over all YMCA of Montreal camps -- with someone else running Kanawana on site in 1976-78 -- is UNRESOLVED. Supporting the ambiguity: the 1978 report names Kerry Finucan as \"Assistant Camp Director\" and carries a separate \"Camp Director\" line in a staff list; ross-bannerman.md separately records \"Camping and Outdoor Education\" as its own branch under D. Walsh and then D. Twynam in the 1977-78 association annual report.",
+   "sources": [
+    "src_ia_kanawana_report_1977",
+    "src_ia_kanawana_report_1978"
+   ],
+   "confidence": "inferred",
+   "category": "people",
+   "entities": [
+    "Derek V. Walsh",
+    "Kerry Finucan",
+    "Kamp Kanawana"
+   ],
+   "date_ref": "1976-1978",
+   "conflicts_with": [],
+   "added_version": "v5.20",
+   "added_by": "ralph_loop"
+  },
+  {
+   "fact_id": "f_2053",
+   "claim": "G. David Twynam's Kanawana directorship BEGAN in 1979, stated in his own words: the 1979 Director's Report concludes \"This being my first year as Director of Kamp Kanawana I must state that the rewards have been tremendous\", and is signed \"G. David Twynam / Director\". This upgrades the wiki's \"circa 1979-1980\" to a documented start year.",
+   "sources": [
+    "src_ia_kanawana_report_1979"
+   ],
+   "confidence": "stated",
+   "category": "people",
+   "entities": [
+    "G. David Twynam",
+    "Kamp Kanawana"
+   ],
+   "date_ref": "1979",
+   "conflicts_with": [],
+   "added_version": "v5.20",
+   "added_by": "ralph_loop"
+  },
+  {
+   "fact_id": "f_2054",
+   "claim": "Jay Netherwood is named on the title page of the Kamp Kanawana Director's Report 1987 (\"KAMP KANAWANA / DIRECTOR'S REPORT 1987 / Jay Netherwood\"). This CORROBORATES with a primary document the 1987 half of the 1986-1987 directorship the wiki had recorded from oral history alone; 1986 remains oral-history-only. [CORRECTION 2026-08-14, same day: this fact as first written asserted that no relationship to Bruce Netherwood was documented and none should be assumed. That was wrong -- the wiki already documents them as brothers (see bruce-netherwood.md and directors-index.md), from oral history. The caution was written without checking the existing record.]",
+   "sources": [
+    "src_ia_kanawana_report_1987"
+   ],
+   "confidence": "stated",
+   "category": "people",
+   "entities": [
+    "Jay Netherwood",
+    "Kamp Kanawana"
+   ],
+   "date_ref": "1987",
+   "conflicts_with": [],
+   "added_version": "v5.20",
+   "added_by": "ralph_loop"
+  },
+  {
+   "fact_id": "f_2055",
+   "claim": "The YMCA of Montreal carried Kamp Kanawana as a BRANCH of the association in its officers table. The 1967 Annual Report's table, headed \"BRANCHES / CHAIRMEN / EXECUTIVE SECRETARY\", lists \"Kamp Kanawana  J. Breckenridge  A. Ross Seaman\" alongside Downtown, International, Lachine-Dorval, Northmount, Notre Dame de Grace, Verdun LaSalle, West Island and Westmount. J. Breckenridge is a newly surfaced name: Chairman of the Kanawana committee/branch in 1967.",
+   "sources": [
+    "src_ia_sgw_annual_report_1967"
+   ],
+   "confidence": "stated",
+   "category": "people",
+   "entities": [
+    "J. Breckenridge",
+    "A. Ross Seaman",
+    "Kamp Kanawana"
+   ],
+   "date_ref": "1967",
+   "conflicts_with": [],
+   "added_version": "v5.20",
+   "added_by": "ralph_loop"
+  },
+  {
+   "fact_id": "f_2056",
+   "claim": "D. R. Bannerman transferred from Executive Secretary, West Island Branch to Associate Executive Secretary, Metropolitan Office in 1967, and was described in a February 1970 news release as \"Assistant du Secretaire General du YMCA de Montreal\". His 1969 \"Report on Kamp Kanawana\" was therefore written from association headquarters, not from a camp post -- corroborating the reading already adopted in the wiki and definitively excluding him from the 1969 directorship, which Geoff Anderson held.",
+   "sources": [
+    "src_ia_sgw_annual_report_1967",
+    "src_ia_ymca_news_release_1970_02",
+    "src_ia_kanawana_report_1969"
+   ],
+   "confidence": "stated",
+   "category": "people",
+   "entities": [
+    "Ross Bannerman",
+    "Geoff Anderson"
+   ],
+   "date_ref": "1967-1970",
+   "conflicts_with": [],
+   "added_version": "v5.20",
+   "added_by": "ralph_loop"
+  },
+  {
+   "fact_id": "f_2057",
+   "claim": "A January 1971 YMCA of Montreal news release reviewing 1970 records under NOVEMBER: \"Ross Bannerman was appointed General Secretary and Chief Executive Officer of the YMCAs of Greater Montreal.\" The wiki records the office as effective December 1, 1970. November appointment and December 1 effective date are compatible; the discrepancy is recorded rather than resolved.",
+   "sources": [
+    "src_ia_ymca_news_release_1971_01"
+   ],
+   "confidence": "stated",
+   "category": "people",
+   "entities": [
+    "Ross Bannerman"
+   ],
+   "date_ref": "1970-11",
+   "conflicts_with": [],
+   "added_version": "v5.20",
+   "added_by": "ralph_loop"
+  },
+  {
+   "fact_id": "f_2058",
+   "claim": "Ben T. Hannan was Assistant Camp Director of Kamp Kanawana in 1964, and Colin McKay was Director of Camp Otoreke that year.",
+   "sources": [
+    "src_ia_kanawana_report_1964"
+   ],
+   "confidence": "stated",
+   "category": "people",
+   "entities": [
+    "Ben T. Hannan",
+    "Colin McKay",
+    "Camp Otoreke"
+   ],
+   "date_ref": "1964",
+   "conflicts_with": [],
+   "added_version": "v5.20",
+   "added_by": "ralph_loop"
+  },
+  {
+   "fact_id": "f_2059",
+   "claim": "Kanawana's 1979 season served 441 different kampers and 18 CITs, and accepted children from Youth Horizons and Children's Mountain Cottage as well as campers sponsored by the Rotary Club of Westmount.",
+   "sources": [
+    "src_ia_kanawana_report_1979"
+   ],
+   "confidence": "stated",
+   "category": "operations",
+   "entities": [
+    "Kamp Kanawana",
+    "Youth Horizons",
+    "Rotary Club of Westmount"
+   ],
+   "date_ref": "1979",
+   "conflicts_with": [],
+   "added_version": "v5.20",
    "added_by": "ralph_loop"
   }
  ]
