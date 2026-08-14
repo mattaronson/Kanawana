@@ -8446,7 +8446,7 @@
     "camp-becsies"
    ],
    "file_id": null,
-   "word_count": 1621,
+   "word_count": 1696,
    "notes": "2026-07-11: Spawned per operator's revised C5 policy -- mis-categorized originally, since he's a substantially-documented 1935-1938 Camp Chief, not a plaque-only name. No new research conducted.",
    "tags": {
     "era": [
@@ -9023,7 +9023,52 @@
    "file_id": null,
    "word_count": 715,
    "notes": "Created 2026-08-14 (p_250). Signed the 1973 report from the Camping and Outdoor Education Branch post. Whether he ran the camp on site in 1973 is left open -- the same branch title was later held by Derek Walsh in years when Walsh is proven to have been on site, so the title settles nothing."
+  },
+  {
+   "article_id": "attendance-series",
+   "title": "Attendance at Kanawana, 1894-2023",
+   "wiki_folder": "meta",
+   "status": "draft",
+   "status_history": [
+    {
+     "status": "stub",
+     "at": "2026-08-14T00:00:00Z",
+     "by": "auto",
+     "task": "WRITE"
+    },
+    {
+     "status": "draft",
+     "at": "2026-08-14T00:00:00Z",
+     "by": "auto",
+     "task": "WRITE"
+    }
+   ],
+   "ralph_loops_completed": 0,
+   "kb_facts_used": [],
+   "sources_cited": [
+    "src_ia_kanawana_place_to_grow_1988",
+    "src_ia_kanawana_report_1964",
+    "src_ia_kanawana_report_1969",
+    "src_ia_kanawana_report_1979",
+    "src_ia_sgw_annual_report_1894_1895",
+    "src_ia_sgw_annual_report_1910",
+    "src_ia_ymca_montreal_annual_reports_collection",
+    "src_ia_ymca_montreal_fonds_collection"
+   ],
+   "open_questions": 5,
+   "cross_links": [
+    "history/timeline-overview",
+    "history/founding-1894",
+    "history/wartime-kanawana",
+    "history/postwar-gap",
+    "history/coeducation-gender",
+    "history/modern-era",
+    "site/camp-otoreke"
+   ],
+   "file_id": null,
+   "word_count": 2425,
+   "notes": "Created 2026-08-14 (p_256) from the 114-annual-report sweep. ~60 seasons of camper counts and camper-weeks, 1894-2023, with SIX internal inconsistencies carried as flags rather than resolved -- every one of them the association contradicting itself. Kept as a separate article so the contradictions travel with the numbers. No aggregate totals computed: too many missing years, the 1998-2001 rows count a different population, and the two documented lifetime totals (40,000 in 1964, 34,000 in 1984) contradict each other. Marked draft, not stub, because it is transcription of primary figures rather than synthesis; NOT yet VERIFY-passed -- figures should be spot-checked against the OCR before advancing."
   }
  ],
- "article_count": 92
+ "article_count": 93
 }

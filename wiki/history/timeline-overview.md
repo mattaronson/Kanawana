@@ -7,6 +7,8 @@
 
 This is a navigation hub, not a new research article: it draws together what the rest of the wiki already documents, decade by decade, so a reader can see the camp's whole span at a glance and jump to the fuller treatment. Every claim below is already cited in the linked articles — this page adds no new facts. Where a decade has no dedicated article yet, the section below is necessarily thin; that thinness is itself informative; see Open Questions.
 
+**Attendance figures for roughly sixty seasons between 1894 and 2023 are collected in [[meta/attendance-series|Attendance at Kanawana]]** — kept as a separate article because six of its figures are contradicted by the association's own other reports, and those flags need to travel with the numbers.
+
 ## Decades at a Glance
 
 | Decade | Key Events | Camp/On-Site Director(s) | Dedicated Article? | Approx. KB Facts |
@@ -71,6 +73,7 @@ Now narrated as continuous history in [[history/modern-era|The Modern Era]], bey
 ## Related Articles
 
 - [[people/directors-index|Directors and Staff of Camp Kanawana]]
+- [[meta/attendance-series|Attendance at Kanawana, 1894-2023]]
 - [[history/founding-1894|Founding of Camp Kanawana (1894)]]
 - [[history/interwar-era|The Interwar Era]]
 - [[history/wartime-kanawana|Wartime Kanawana]]

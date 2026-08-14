@@ -3228,7 +3228,9 @@
    "blocking": false,
    "assigned_weight": "P0",
    "created_at": "2026-08-14T00:00:00Z",
-   "status": "pending"
+   "status": "completed",
+   "completed_at": "2026-08-14T00:00:00Z",
+   "result": "Completed 2026-08-14. New article meta/attendance-series.md: ~60 seasons of camper counts and camper-weeks, 1894-2023, in three tables (Lac St. Joseph era, Kanawana 1910-1949, Kanawana 1952-2023). All six internal inconsistencies CARRIED AS FLAGS in the tables and explained in their own section -- every one is the association contradicting itself, not a transcription problem. Kept as a separate article rather than bolted onto timeline-overview.md (a source-less hub) so the flags travel with the numbers. Deliberately computes NO aggregate: too many missing years, the 1998-2001 rows count rentals and off-season use, and the two documented lifetime totals (40,000 in 1964, 34,000 in 1984) contradict each other and the series. Marked draft; NOT VERIFY-passed."
   },
   {
    "priority_id": "p_257",
@@ -3262,6 +3264,17 @@
    "article_id": null,
    "blocking": false,
    "assigned_weight": "P2",
+   "created_at": "2026-08-14T00:00:00Z",
+   "status": "pending"
+  },
+  {
+   "priority_id": "p_260",
+   "rank": 260,
+   "type": "VERIFY",
+   "description": "VERIFY pass on meta/attendance-series.md: spot-check every figure against the annual-report OCR before the article advances past draft. It is transcription of ~60 seasons of primary numbers and has not been independently checked. Priority targets: the six flagged inconsistencies (confirm each really is the association contradicting itself rather than an OCR misread on our side), the 1998-2001 four-digit rows (confirm they include rentals as the article states), and the 1930 '432' arithmetic failure.",
+   "article_id": "attendance-series",
+   "blocking": false,
+   "assigned_weight": "P1",
    "created_at": "2026-08-14T00:00:00Z",
    "status": "pending"
   }

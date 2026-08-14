@@ -2723,3 +2723,23 @@ THIS COMPLETES THE FULL OPERATOR-APPROVED PLAN (can-you-systematically-work-iter
   not "correct" them: the 1910 Kanawana announcement and the 1946 Macdiarmid
   Toronto move.
   Facts 2114 -> 2119, KB v5.31.
+
+2026-08-14 | WRITE | p_256: the attendance series
+  New article meta/attendance-series.md -- ~60 seasons, 1894-2023, in three
+  tables. 23 boys in 1894 to 780 in 2023.
+  Kept SEPARATE from timeline-overview.md deliberately: that page is a
+  source-less hub, and more importantly the six internal contradictions need to
+  travel WITH the numbers. A reader lifting "1,017 boy-weeks in 1934" out of
+  prose elsewhere has no way to know the 1936 report says 972.
+  All six flagged in-table and explained: the 289-boy season dated three
+  different ways across three reports; 1924 916-vs-906; 1934 1,017-vs-972; 1932
+  360-vs-385; 1965 1,200-vs-1,182; and the 1930 "increase of 432" that does not
+  close. Plus the 1918 report calling a decrease "a splendid increase", and the
+  lifetime totals of 40,000 (1964) and 34,000 (1984) -- the later one smaller.
+  NO aggregate computed, deliberately: too many missing years, the 1998-2001
+  rows count rentals, and the lifetime totals contradict each other. Any
+  average would be false precision.
+  Three shapes visible only from the whole series: the camp roughly doubled
+  twice; the Second World War did NOT shrink it (boy-weeks flat to up across
+  1940-45); and from the 1950s headcounts rise while average stay falls.
+  96 files, 809 links, 0 broken. Queued p_260 for a VERIFY pass on the figures.
