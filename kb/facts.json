@@ -1,8 +1,8 @@
 {
  "version": "v4.98",
- "kb_version": "v5.20",
+ "kb_version": "v5.21",
  "migrated_from": "3.3",
- "fact_count": 2021,
+ "fact_count": 2028,
  "facts": [
   {
    "fact_id": "f_0001",
@@ -34976,6 +34976,125 @@
    "date_ref": "1979",
    "conflicts_with": [],
    "added_version": "v5.20",
+   "added_by": "ralph_loop"
+  },
+  {
+   "fact_id": "f_2060",
+   "claim": "Greig Macdiarmid's Kanawana Camp Chieftaincy extends to 1939, not 1938: the CFCF radio broadcast of 10 June 1939 introduces \"Mr. Macdiarmid, the director... of Kamp Kanawana\" and later \"Mr. Macdiarmid, chief of the camp\".",
+   "sources": [
+    "src_ia_ymca_montreal_fonds_collection"
+   ],
+   "confidence": "stated",
+   "category": "people",
+   "entities": [
+    "Greig Macdiarmid",
+    "Kamp Kanawana"
+   ],
+   "date_ref": "1939",
+   "conflicts_with": [],
+   "added_version": "v5.21",
+   "added_by": "ralph_loop"
+  },
+  {
+   "fact_id": "f_2061",
+   "claim": "Greig Macdiarmid's Kanawana directorship ENDED because he went overseas with YMCA War Services in December 1939. The YMCA of Montreal 1946 Annual Report states: \"W. J. G. Macdiarmid, on leave of absence with Y.M.C.A. War Services, who went overseas in December 1939, and is at present Senior Secretary for War Services in the United Kingdom, has accepted the position of Executive Secretary of Toronto Central Y.M.C.A. to take effect September first, and has therefore tendered his resignation from the Montreal Association.\" This also explains Howie Langille leading the 1941 season.",
+   "sources": [
+    "src_ia_ymca_montreal_annual_reports_collection"
+   ],
+   "confidence": "stated",
+   "category": "people",
+   "entities": [
+    "Greig Macdiarmid",
+    "Howie Langille"
+   ],
+   "date_ref": "1939-12",
+   "conflicts_with": [],
+   "added_version": "v5.21",
+   "added_by": "ralph_loop"
+  },
+  {
+   "fact_id": "f_2062",
+   "claim": "The YMCA of Montreal 1926 Annual Report renders the same man as both \"J. Greig Macdiarmid\" and \"W. J. G. Macdiarmid\", fixing \"Greig\" as a documented given name and the source of the \"G\". What \"W.\" and \"J.\" stand for remains unknown, and the two orderings are not obviously reconcilable -- no expansion should be invented.",
+   "sources": [
+    "src_ia_ymca_montreal_annual_reports_collection"
+   ],
+   "confidence": "stated",
+   "category": "people",
+   "entities": [
+    "Greig Macdiarmid"
+   ],
+   "date_ref": "1926",
+   "conflicts_with": [],
+   "added_version": "v5.21",
+   "added_by": "ralph_loop"
+  },
+  {
+   "fact_id": "f_2063",
+   "claim": "Greig Macdiarmid was on Kanawana staff before becoming Camp Chief, overlapping W. H. Spearman's 1932-1934 Chieftaincy. The Green Triangle of 29 July 1933 says \"We are so glad to have Mr. MacDiarmid with us again this summer\" -- the word \"again\" implying at least 1932 -- and credits him with the morning wake-up call \"Little speed boys, little speed\". He appears again in the 5 August 1933 issue.",
+   "sources": [
+    "src_ia_ymca_montreal_annual_reports_collection"
+   ],
+   "confidence": "stated",
+   "category": "people",
+   "entities": [
+    "Greig Macdiarmid",
+    "W. H. Spearman"
+   ],
+   "date_ref": "1933",
+   "conflicts_with": [],
+   "added_version": "v5.21",
+   "added_by": "ralph_loop"
+  },
+  {
+   "fact_id": "f_2064",
+   "claim": "Greig Macdiarmid's YMCA career: member of the Central Branch Boys' Division; entered the Secretaryship in 1926 with A. H. Reekie, as assistant to J. G. MacKinnon at the Verdun and St. Paul work; Associate Secretary by 1928 and appointed to succeed MacKinnon temporarily as Executive Secretary on 15 September 1928; Verdun Branch staff 1929-1930; Camp Chief Kanawana 1935-1939; overseas December 1939; Senior YMCA Supervisor for Great Britain 1942-1943; resigned from Montreal in 1946 for Executive Secretary, Toronto Central YMCA, effective 1 September.",
+   "sources": [
+    "src_ia_ymca_montreal_annual_reports_collection"
+   ],
+   "confidence": "stated",
+   "category": "people",
+   "entities": [
+    "Greig Macdiarmid",
+    "A. H. Reekie",
+    "J. G. MacKinnon"
+   ],
+   "date_ref": "1926-1946",
+   "conflicts_with": [],
+   "added_version": "v5.21",
+   "added_by": "ralph_loop"
+  },
+  {
+   "fact_id": "f_2065",
+   "claim": "Kanawana's November 1938 letterhead prints its two officers together: \"O. N. H. OWENS, Chairman   W. J. G. MACDIARMID, Director\" -- placing O.N.H. Owens, the likely namesake of the 1976 Order of Owens, as chairman of the camp alongside Macdiarmid.",
+   "sources": [
+    "src_ia_ymca_montreal_fonds_collection"
+   ],
+   "confidence": "stated",
+   "category": "people",
+   "entities": [
+    "O.N.H. Owens",
+    "Greig Macdiarmid",
+    "Order of Owens"
+   ],
+   "date_ref": "1938-11",
+   "conflicts_with": [],
+   "added_version": "v5.21",
+   "added_by": "ralph_loop"
+  },
+  {
+   "fact_id": "f_2066",
+   "claim": "The Green Triangle addresses Macdiarmid as \"Chief MacDiarmid\" in the issues of 6 July 1935, 4 August 1935, 1 August 1936, 17 October 1936 and 29 July 1938, giving direct camp-newsletter confirmation of his Chieftaincy in 1935, 1936 and 1938.",
+   "sources": [
+    "src_ia_ymca_montreal_annual_reports_collection"
+   ],
+   "confidence": "stated",
+   "category": "people",
+   "entities": [
+    "Greig Macdiarmid"
+   ],
+   "date_ref": "1935-1938",
+   "conflicts_with": [],
+   "added_version": "v5.21",
    "added_by": "ralph_loop"
   }
  ]
