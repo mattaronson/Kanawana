@@ -1,8 +1,8 @@
 {
   "version": "v4.98",
-  "kb_version": "v5.10",
+  "kb_version": "v5.11",
   "migrated_from": "3.3",
-  "fact_count": 1954,
+  "fact_count": 1961,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -33831,6 +33831,119 @@
       "date_ref": "2020-2021",
       "conflicts_with": [],
       "added_version": "v5.10",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_1993",
+      "claim": "The Order of Owens roster is kept on carved wooden award paddles at Camp Kanawana. Two are documented: an older paddle lettered in blackletter running 2005-2012, and a later cursive paddle running 2005-2022. Both begin at 2005, so neither covers the 1976-2004 portion of the roster.",
+      "sources": [
+        "src_photo_order_of_owens_paddles"
+      ],
+      "confidence": "stated",
+      "category": "awards",
+      "entities": [
+        "Order of Owens"
+      ],
+      "date_ref": "2005-2022",
+      "conflicts_with": [],
+      "added_version": "v5.11",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_1994",
+      "claim": "The cursive Order of Owens paddle runs directly from '2019 - Sophie Parent' to '2022 - Miriam Vandervort Charboneau', confirming the two-season 2020-2021 COVID gap on the physical artifact rather than only in operator account.",
+      "sources": [
+        "src_photo_order_of_owens_paddles"
+      ],
+      "confidence": "stated",
+      "category": "awards",
+      "entities": [
+        "Order of Owens"
+      ],
+      "date_ref": "2019-2022",
+      "conflicts_with": [],
+      "added_version": "v5.11",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_1995",
+      "claim": "Two unresolved spelling discrepancies exist between the Order of Owens paddles and the operator-supplied roster: the 2008 recipient appears as 'Oscar Newsam' on the paddles against 'Oskar Newsam' in the roster; and the 2009 recipient appears as 'Russell Donahue' on the blackletter paddle but 'Russel Donahue' on the cursive paddle and in the roster -- the 2009 case being an inconsistency between the two artifacts themselves.",
+      "sources": [
+        "src_photo_order_of_owens_paddles"
+      ],
+      "confidence": "disputed",
+      "category": "awards",
+      "entities": [
+        "Order of Owens"
+      ],
+      "date_ref": "2008-2009",
+      "conflicts_with": [],
+      "added_version": "v5.11",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_1996",
+      "claim": "Camp Kanawana holds a perpetual trophy for the L&V Games, wall-mounted as a crossed paddle and axe over a red backing with a central shield reading 'KANAWANA ANNUAL TROPHY for LUMBERMEN VOYAGEUR GAMES'. Rows of shield plaques beneath record the winning team for each season, running from 47 (1947) to 25 (2025) in two-digit years, alternating irregularly between Voyageurs and Lumbermen, with the singular 'Lumberman' used on several late-1970s entries.",
+      "sources": [
+        "src_photo_lv_annual_trophy"
+      ],
+      "confidence": "stated",
+      "category": "traditions",
+      "entities": [
+        "L&V Games",
+        "Camp Kanawana"
+      ],
+      "date_ref": "1947-2025",
+      "conflicts_with": [],
+      "added_version": "v5.11",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_1997",
+      "claim": "The L&V Games annual trophy's shields have NOT been reliably transcribed: the available photographs are angled, several plaques sit behind the crossed paddle and axe, and older shields are faded or silvered. A careful read would yield a near-complete 79-season winners roll and settle which season was skipped, which currently rests on arithmetic from YMCA Quebec's '78th edition' claim for 2025.",
+      "sources": [
+        "src_photo_lv_annual_trophy"
+      ],
+      "confidence": "inferred",
+      "category": "traditions",
+      "entities": [
+        "L&V Games"
+      ],
+      "date_ref": "1947-2025",
+      "conflicts_with": [],
+      "added_version": "v5.11",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_1998",
+      "claim": "The charter of the Order of the Knights of Kanawana proclaims the order 'in this Year of Our Lord Nineteen Hundred and Eighty', establishing 'a select group of Kanawanians who upon proving themselves worthy, will then become Ladies and Knights of the Land', to be 'challenged Aquatically and Terrestrially, Morally and Intellectually', judged by a council only after all challenges are met, invested 'in a secret ceremony, at the discretion of the council', and thereafter retaining 'their positions of honour forever'.",
+      "sources": [
+        "src_photo_knights_charter_challenges"
+      ],
+      "confidence": "stated",
+      "category": "traditions",
+      "entities": [
+        "Knights of Kanawana"
+      ],
+      "date_ref": "1980",
+      "conflicts_with": [],
+      "added_version": "v5.11",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_1999",
+      "claim": "The Knights of Kanawana charter sets out six challenges for knighthood: (1) participate in at least two five-day canoe trips, displaying leadership in trip preparation, en route and in camp; (2) achieve one A and one B in kampcraft and canoeing plus C-level standing in other approved areas including sailing, orienteering, archery and rock climbing; (3) complete a distance swim of at least two miles; (4) assist teaching an interest group throughout an entire session; (5) contribute something of permanence to camp, the charter's examples being 'a substantial part of a totem pole, or a bridge'; (6) learn to identify six different trees and three edible plants.",
+      "sources": [
+        "src_photo_knights_charter_challenges"
+      ],
+      "confidence": "stated",
+      "category": "traditions",
+      "entities": [
+        "Knights of Kanawana"
+      ],
+      "date_ref": "1980",
+      "conflicts_with": [],
+      "added_version": "v5.11",
       "added_by": "manual"
     }
   ]

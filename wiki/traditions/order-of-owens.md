@@ -1,6 +1,6 @@
 # The Order of Owens
 
-*Status: draft | Sources: 1*
+*Status: draft | Sources: 2*
 *Last Updated: 2026-08-14*
 
 ## Overview
@@ -75,6 +75,24 @@ Years with two names denote two recipients in the same season.
 
 Across 49 award seasons, 54 individuals have received the Order of Owens, five seasons having had two recipients each (1984, 1996, 1998, 2004, 2012).
 
+### The award paddles
+
+The roster is kept on **carved wooden paddles**, photographed 2026-08-14.^2 Two are documented, and both begin at 2005 — the later one continues the series rather than replacing it:
+
+- An older paddle lettered in **blackletter**, running 2005 (Thomas Gilbert) through 2012 (Emily Fleisler & Scott Bennet), headed "Order of Owens."
+- A later paddle lettered in **cursive**, headed "Order Of Owens," running 2005 through 2022 (Miriam Vandervort Charboneau).
+
+The later paddle jumps directly from **2019 – Sophie Parent to 2022 – Miriam Vandervort Charboneau**, confirming the two-season COVID gap on the artifact itself rather than only in the operator's account.^2
+
+**Two spelling discrepancies between the paddles and the supplied roster are unresolved** and are recorded rather than silently corrected:
+
+| Year | Supplied roster | Paddle(s) |
+|------|-----------------|-----------|
+| 2008 | Oskar Newsam | **Oscar** Newsam (both paddles appear to read "Oscar") |
+| 2009 | Russel Donahue | **Russell** Donahue (blackletter paddle); *Russel* Donahue (cursive paddle) |
+
+The 2009 case is an inconsistency *between the two artifacts themselves*, not merely between artifact and memory. This article follows the supplied roster in the table above pending a closer read; see Open Question 7.
+
 ## The 2020–2021 Gap
 
 The award was not presented in 2020 or 2021. This independently corroborates the camp's documented pandemic closures from a separate, camp-internal source: [[people/sean-day|Sean Day]] announced that YMCA Quebec would keep Kanawana's overnight camp closed for the 2021 season — a *second consecutive* closed summer — pivoting instead to 10 day camps, up from 3 the previous year.^1 The Order of Owens roster shows the same two-season interruption, from the camp's own award record rather than from press coverage.
@@ -85,10 +103,13 @@ The award resumed in 2022 and has run annually since.
 
 1. [Important] Who was Norrey Owens, and what was their connection to Camp Kanawana? The award carries their name, but no source in this wiki documents them.
 2. [Important] What does the date April 13, 1976 mark — Norrey Owens's death, the award's dedication, or its founding? And is the "namesake, not first recipient" reading above correct? This is currently an inference from the entry's form (a full date, and the name matching the award's own), not a documented fact.
-3. [Important] What is the underlying source of this roster? Its precision across 49 seasons — exact spellings, five dual-recipient years, a specific April 1976 date — suggests transcription from a physical plaque or camp record rather than recall. If so, the record should be re-sourced to that artifact and its confidence upgraded from `user_knowledge`. See Research Notes.
+3. ~~[Important] What is the underlying source of this roster?~~ **[Resolved 2026-08-14]** The roster is kept on carved wooden award paddles at camp, two of which have now been photographed — see "The award paddles" above. The roster is therefore a transcription of a physical artifact, not recall, and `src_photo_order_of_owens_paddles` is recorded at `primary` reliability. Note that this resolves the *provenance* question only: the paddles begin at 2005, so the 1976–2004 portion of the roster still rests on the operator's account plus whatever earlier artifact it was drawn from (see Open Question 8).
 4. [Nice-to-have] Why did five seasons (1984, 1996, 1998, 2004, 2012) have two recipients? Was this a tie, a deliberate co-award, or a change in criteria?
 5. [Nice-to-have] Is the award connected to a specific canoe trip, section, or ceremony — and where is it presented? The Pip Award has a documented ceremony; nothing is yet documented for this one.
 6. [Nice-to-have] "Susan Owen" (1992) is one letter from the award's own name. Coincidence is by far the likeliest explanation, but worth a single confirming check rather than an assumption.
+7. [Important] Resolve the two paddle-vs-roster spelling discrepancies: Oscar/Oskar Newsam (2008) and Russell/Russel Donahue (2009). The 2009 case differs *between the two paddles*, so a closer read of both artifacts — not just one — is needed.
+8. [Important] Both photographed paddles begin at 2005. What carries the 1976–2004 roster at camp — an earlier paddle, a board, or a written record? Locating it would move four decades of this roster from operator account to primary artifact, and would also settle the Norrey Owens namesake question (Open Questions 1–2).
+9. [Nice-to-have] Several Order of Owens recipients also appear on the [[traditions/traditions-and-culture|Knights of Kanawana]] roll — Denys Lawrence (Owens 1977; knighted 1980) and Dylan Applebaum (knighted 2009; Owens 2010) among them. Are the two honours formally related, sequential, or independent?
 
 ## Related Articles
 
@@ -100,6 +121,7 @@ The award resumed in 2022 and has run annually since.
 ## Sources
 
 1. Order of Owens roster and award criteria, 1976–2026, provided directly by the operator (Matt Aronson), 2026-08-14 [src_oral_aronson_order_of_owens].
+2. Photographs of the two carved Order of Owens award paddles at camp (blackletter, 2005–2012; cursive, 2005–2022), supplied by the operator, 2026-08-14 [src_photo_order_of_owens_paddles].
 
 ## Research Notes
 

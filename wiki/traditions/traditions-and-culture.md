@@ -1,6 +1,6 @@
 # Traditions and Culture at Kanawana
 
-*Status: E1-reviewed | Sources: 31*
+*Status: E1-reviewed | Sources: 32*
 *Last Updated: 2026-07-09 (Batch 6 research pass: itemized brochure box list and a Boy Scout provenance note for the Fire of Friendship programme found; Shawbridge Meet end-date and other Green Triangle issues re-confirmed as archive-access-only dead ends)*
 
 ## Overview
@@ -90,6 +90,23 @@ The Pip Alumni Award was established in 2007 in memory of Philip "Pip" Caddell (
 
 Known recipients include: Richard "Itche" Kerr (2007, composer of the camp song), Richard Patten (2008, former Ontario cabinet minister), Stuart McLean (2009, CBC broadcaster), Bruce Netherwood (2011), John Cleghorn (2012, former CEO of the Royal Bank), the late Sam Lazarus and family (2013, posthumous), Jeniene Phillips Birks (2014), Terry "Aislin" Mosher (2015), Carol Skinner (2016), Chris Adam (2017), Marina Sharpe (2018), and Dr. James Orbinski (2024). No 2010 recipient is documented.^13 ^14
 
+### The Order of the Knights of Kanawana
+
+The Knights of Kanawana was proclaimed, in the charter's own words, "in this Year of Our Lord Nineteen Hundred and Eighty," establishing "a select group of Kanawanians who upon proving themselves worthy, will then become Ladies and Knights of the Land." Aspirants would be "challenged Aquatically and Terrestrially, Morally and Intellectually," judged by a council only after every challenge had been met, and invested "in a secret ceremony, at the discretion of the council." Those invested "shall retain their positions of honour forever."^32
+
+The charter sets out **six challenges**, documented here for the first time — the KB previously held the order's oath text and its 1980–2009 roll of knights, but not the criteria by which they were earned:^32
+
+1. Participate in at least **two five-day canoe trips**, displaying leadership in trip preparation and planning, en route, and in the campsite.
+2. Achieve one **A** and one **B** in kampcraft and canoeing, plus **C**-level standing in other approved areas — sailing, orienteering, archery, rock climbing among those named.
+3. Complete a **distance swim of at least two miles**.
+4. **Assist in teaching an interest group** throughout an entire session.
+5. **Contribute something of permanence to camp** — the charter's own examples are "a substantial part of a totem pole, or a bridge."
+6. Learn something of the environment: be able to **identify six different trees and three edible plants**.
+
+Taken together these criteria are notable for how closely they track the camp's documented programming — canoe tripping, the badge/skill grading system, the Council Ring and totem-pole construction tradition, and environmental education — making the Knights less a ceremonial honour than a capstone assembled from the camp's own curriculum. Challenge 5 in particular ties the order directly to the physical fabric of the site.
+
+The order overlaps in membership with [[traditions/order-of-owens|the Order of Owens]]: Denys Lawrence was an Owens recipient in 1977 and among the first knights in 1980, and Dylan Applebaum was knighted in 2009 and received the Owens in 2010. Whether the two honours are formally related is undocumented.
+
 ## Images
 
 ![The Order of the Knights of Kanawana, 1981](../../assets/images/art/knights-of-kanawana-charter.jpg)
@@ -162,3 +179,4 @@ Known recipients include: Richard "Itche" Kerr (2007, composer of the camp song)
 29. "Serment du campeur / Camper's Oath," Camp YMCA Kanawana (2010, 2013 versions), recovered via Wayback from the predecessor ymcakanawana.ca domain [src_camper_oath_2010_2013].
 30. Concordia University Archives, static finding-aid pages for sub-sub-series 12A (Committees), 12B04 (Communications, Box HA1874), and 12B07 (Program, Box HA2315) [src_concordia_atom_12A, src_concordia_ymca_fonds_12B04_finding_aid, src_concordia_atom_12B07]. Direct fetch 2026-07-09.
 31. QAHN, dedicated Shawbridge local-history article; Internet Archive, "Ka-News," May 1980 [src_ka_news_1980]. Both checked directly 2026-07-09, no Shawbridge/motto content found.
+32. Photograph of the birchbark charter of the Order of the Knights of Kanawana (proclaimed 1980; document dated 1981), supplied by the operator 2026-08-14 [src_photo_knights_charter_challenges]. Source of the six challenges and the proclamation text.

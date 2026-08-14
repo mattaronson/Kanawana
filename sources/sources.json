@@ -10337,7 +10337,55 @@
       "extraction_version": "v5.10",
       "reliability": "primary",
       "notes": "Full 1976-2026 roster of the Order of Owens plus the award's stated criteria, supplied directly by the operator (Matt Aronson) in session on 2026-08-14. The Order of Owens had ZERO prior mentions anywhere in this project before this record. Internal precision (49 seasons, exact spellings, five dual-recipient years, a specific April 13 1976 date) suggests transcription from a plaque or camp record rather than recall -- if the operator confirms an underlying artifact, this record should be superseded by a source for that artifact and confidence upgraded from user_knowledge. Tracked as Open Question 3 in wiki/traditions/order-of-owens.md."
+    },
+    {
+      "type": "web",
+      "date": "2026-08-14",
+      "date_precision": "exact",
+      "origin": "user_provided",
+      "origin_url": null,
+      "cache_path": null,
+      "char_count": 0,
+      "ingested_at": "2026-08-14T00:00:00Z",
+      "extracted": true,
+      "extraction_version": "v5.11",
+      "reliability": "primary",
+      "source_id": "src_photo_order_of_owens_paddles",
+      "title": "Photographs: Order of Owens award paddles (blackletter 2005-2012; cursive 2005-2022)",
+      "notes": "Operator-supplied photographs of two carved Order of Owens paddles at camp. Confirms the roster is a transcription of a physical artifact (resolves Open Question 3 in order-of-owens.md) and shows the 2019->2022 COVID gap on the artifact itself. Two unresolved spelling discrepancies vs the supplied roster: Oscar/Oskar Newsam (2008) and Russell/Russel Donahue (2009) -- the latter differs BETWEEN the two paddles. Both paddles begin at 2005, so the 1976-2004 roster is not covered by either. IMAGE FILES NOT YET IN REPO -- see notes in logs/pipeline.log."
+    },
+    {
+      "type": "web",
+      "date": "2026-08-14",
+      "date_precision": "exact",
+      "origin": "user_provided",
+      "origin_url": null,
+      "cache_path": null,
+      "char_count": 0,
+      "ingested_at": "2026-08-14T00:00:00Z",
+      "extracted": true,
+      "extraction_version": "v5.11",
+      "reliability": "primary",
+      "source_id": "src_photo_lv_annual_trophy",
+      "title": "Photographs: Kanawana Annual Trophy for Lumbermen Voyageur Games (winners shields, 1947-2025)",
+      "notes": "Operator-supplied photographs of the L&V Games perpetual trophy: crossed paddle and axe over a red backing, central shield reading 'KANAWANA ANNUAL TROPHY for LUMBERMEN VOYAGEUR GAMES', with rows of shield plaques giving the winning team per season from 47 (1947) to 25 (2025). Establishes the trophy's existence, form and span. The shields are NOT reliably transcribed: photographed at an angle, several plaques sit behind the crossed paddle/axe, and older shields are faded or silvered. No winners table has been published from these images. Higher-resolution straight-on shots or an in-person read would yield a near-complete 79-season competitive record and settle which season was skipped (the '78th edition' question). IMAGE FILES NOT YET IN REPO."
+    },
+    {
+      "type": "web",
+      "date": "2026-08-14",
+      "date_precision": "exact",
+      "origin": "user_provided",
+      "origin_url": null,
+      "cache_path": null,
+      "char_count": 0,
+      "ingested_at": "2026-08-14T00:00:00Z",
+      "extracted": true,
+      "extraction_version": "v5.11",
+      "reliability": "primary",
+      "source_id": "src_photo_knights_charter_challenges",
+      "title": "Photograph: birchbark charter of the Order of the Knights of Kanawana (proclaimed 1980, document 1981)",
+      "notes": "Operator-supplied photograph of the birchbark charter. Source of the proclamation text and, newly, the SIX CHALLENGES required for knighthood -- criteria not previously held in the KB, which had the order's oath text (f_1567) and its 1980-2009 roll (f_1565) but not the requirements. May be the same physical artifact already filed as assets/images/art/knights-of-kanawana-charter.jpg, re-photographed, or a companion piece; the challenges text is new either way. IMAGE FILE NOT YET IN REPO."
     }
   ],
-  "source_count": 646
+  "source_count": 649
 }

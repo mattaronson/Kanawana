@@ -1,6 +1,6 @@
 # The L&V Games
 
-*Status: E1-reviewed | Sources: 9*
+*Status: E1-reviewed | Sources: 10*
 *Last Updated: 2026-07-10*
 
 The L&V Games trace their origin to 1947, when the camp created "Lumberman-Voyageur Week" as a culminating event for the final week of summer. The entire camp was divided into two teams, Voyageurs and Lumbermen (known as "Bûcherons" in French), and the week was given over to inter-team competition. The concept drew on [[connections/related-camps/camp-pine-crest|Camp Pine Crest]] in Ontario, which had run its own Lumbermen-versus-Voyageurs competition since 1940, complete with the same team symbols: an axe for the Lumbermen and a paddle for the Voyageurs.
@@ -16,6 +16,18 @@ Camp Pine Crest's own camping lineage traces further back than 1940: it had root
 More broadly, the general team-competition-week genre (of which Lumbermen-vs-Voyageurs is a Canadian/YMCA/frontier-themed regional variant) is documented by historian Leslie Paris (UBC) as originating with "Red and Gray Week" in 1916 at Schroon Lake Camp, a Jewish boys' camp in the Adirondacks, becoming a widespread American camp staple (known generically as "Color War") by the 1920s. This places Kanawana and Pine Crest's L&V tradition as a regional YMCA branch of an already-established American genre, not a novel invention.
 
 The name itself evolved. What began as "Lumberman-Voyageur Week" eventually became simply "the L&V Games," and the event expanded in scope and intensity over the decades. For generations of Kanawana alumni, the L&V Games represent the emotional peak of the camp summer, the week when everything else falls away and the entire community organizes around a single shared competition. The fact that the tradition has survived essentially intact for nearly eight decades, with the same team names, the same basic structure, and the same position as the climax of the season, makes it one of the longest continuously running traditions in Canadian organized camping.
+
+## The Annual Trophy
+
+The Games have a **perpetual trophy**, photographed at camp on 2026-08-14 and documented here for the first time.^10 It is a wall-mounted assembly: a crossed **paddle and axe** — the Voyageur and Lumberman emblems described above — over a red-painted backing, with a central shield reading:
+
+> KANAWANA / ANNUAL TROPHY / for / LUMBERMEN VOYAGEUR / GAMES
+
+Beneath it hang rows of smaller shield-shaped plaques, each carrying several consecutive years and the winning team for each. The series begins at **47** (1947, the founding year established above) and runs to **25** (2025), with years given as two digits throughout. Entries alternate irregularly between "Voyageurs" and "Lumbermen," with the singular "Lumberman" used on several late-1970s entries.
+
+**This trophy is the artifact most likely to settle the "78th edition" question.** As noted above, YMCA Quebec's 2025 history refers to the 78th edition, which fits a 1947 origin only if exactly one year was skipped — this article previously inferred that skipped year was most likely 2020. The trophy records the sequence directly, so a careful reading of it would confirm or correct that inference rather than leaving it as arithmetic. **It has not been read carefully enough yet to do so.** The photographs are taken at an angle, several plaques are partly hidden behind the crossed paddle and axe, and a number of the older shields are faded or silvered to the point of illegibility. A transcription attempted from these images would not be reliable enough to publish as a winners table, and none is published here.
+
+What can be stated confidently from the photographs: the trophy exists, is in active use, spans 1947–2025 continuously enough to constitute a near-complete competitive record, and contains at least one gap in the 2020–2022 region consistent with the pandemic closures — but **which** year or years are absent is exactly the detail the current images cannot settle. See Open Questions.
 
 ## The Capitaine Role
 
@@ -42,10 +54,12 @@ The role of "Capitaine" — leader of the Voyageur team — is considered one of
 - Wikipedia / reporting on Leslie Paris (UBC) research, "Color war" [src_wikipedia_color_war].
 - YMCA Quebec, "Voyageurs" canoe-tripping program page [src_ymcaquebec_voyageurs_page].
 - Direct fetches, 2026-07-09: hayowentha.org/program/voyageurs/ and find.acacamps.org (Woodsmen program profile) [src_hayowentha_website, src_aca_hayowentha_programs].
+10. Photographs of the Kanawana Annual Trophy for Lumbermen Voyageur Games (perpetual trophy, winners shields 1947-2025), supplied by the operator 2026-08-14 [src_photo_lv_annual_trophy]. Establishes the trophy's existence, form, and span; the shields themselves are not yet reliably transcribed.
 
 ## Open Questions
 
 - ~~When exactly did the name shift from "Lumberman-Voyageur Week" to "L&V Games"?~~ [Confirmed dead end, tooling resolved 2026-07-10] A local `curl` + `pdftotext` extraction of the full McMorris thesis (succeeding where WebFetch had been defeated by a FlateDecode-compressed stream) confirms the phrase "L&V Games" appears nowhere in the thesis at all — she uses only "Lumberman-Voyageur Week" throughout, including in material sourced from a 1988 Kanawana Camping Task Force document. This confirms the rename postdates the thesis's own primary sources and remains undocumented online; only physical Ka-News/Green Triangle issues from the intervening decades could resolve the exact date.
+- **[New, actionable 2026-08-14] Transcribe the Annual Trophy's year-by-year winners roll.** The perpetual trophy (see The Annual Trophy above) carries the winning team for every season from 1947 to 2025 on shield plaques — a near-complete 79-season competitive record that exists nowhere else in this wiki or KB. Two things block transcription from the current photographs: several plaques sit behind the crossed paddle and axe, and the oldest shields are faded or silvered. **This needs either higher-resolution straight-on photographs of each row, or an in-person read.** Doing so would (a) produce the winners roll, and (b) settle which season was skipped, converting the "78th edition" inference into a documented fact.
 - What is the earliest surviving photograph of L&V Games competition? Confirmed access limitation, not a null result: Kanawana's Flickr account (~4,416 photos) and Facebook photo archive exist but require manual visual browsing to date-sort — not resolvable via text search.
 - How has the format changed since the 1950s? Are war canoe races still part of it? Weak modern-format leads only (2026-07-09): a Facebook post references a "douse the fire" event and a TikTok video describes the modern Games as "3 days" — confirms the format has changed/added events since the 1950s but doesn't establish which legacy events persist.
 - ~~When did the L&V Games expand beyond the final week to become associated with the La Vérendrye canoe trip program?~~ [Resolved 2026-07-09] It didn't — the modern Kanawana canoe-tripping program for ages 13-16 is separately branded "Voyageurs" (with a La Vérendrye Wildlife Reserve flat-water option), a parallel reuse of "voyageur" branding across two distinct camp institutions, not the historical L&V Games team expanding into a canoe-trip tier. No direct institutional link found.
