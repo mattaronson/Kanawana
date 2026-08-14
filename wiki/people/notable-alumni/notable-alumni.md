@@ -49,9 +49,7 @@ Former camper and Kanawana staff member.^13 Educated at McGill (BA Economics, LL
 
 ### Dr. James Orbinski (Pip Award 2024)
 
-Born 1960 in England; grew up in Notre-Dame-de-Grâce, Montreal.^15 Attended John XXIII High School and Dawson CEGEP in Montreal, then earned a BA in Psychology from Trent University (1984), MD from McMaster University (1990), and MA in International Relations from the University of Toronto (1998).^15 ^24 Camper and counsellor at Kanawana in the 1980s–1990s.^15
-
-Orbinski co-founded MSF Canada (1990) and served as President of the International Council of MSF (1998–2001), accepting the 1999 Nobel Peace Prize on behalf of the organization.^6 ^15 His MSF field missions included Peru (1992), Somalia (1992–93), Afghanistan (1994), Rwanda during the 1994 genocide, and Zaire during the refugee crisis (1996–97).^6 He received the Meritorious Service Cross (1997) for his work during the Rwandan genocide and the Concordia University Loyola Medal (2017).^24 He co-founded Dignitas International (2004), a medical/research NGO focusing on HIV/AIDS and TB. Officer of the Order of Canada (2009).^15 He authored *An Imperfect Offering: Humanitarian Action for the 21st Century* (2008), winner of the Shaughnessy Cohen Award for Political Writing.^24 Currently Principal of Massey College at the University of Toronto.^15
+Camper and counsellor at Kanawana in the 1980s–1990s.^15 Co-founder of MSF Canada and President of the International Council of MSF (1998–2001), he accepted the 1999 Nobel Peace Prize on the organization's behalf; he is an Officer of the Order of Canada and Principal of Massey College at the University of Toronto.^6 ^15 See [[people/notable-alumni/james-orbinski|James Orbinski]] for the full biography.
 
 ## Other Notable Alumni
 

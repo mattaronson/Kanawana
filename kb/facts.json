@@ -1,8 +1,8 @@
 {
  "version": "v4.98",
- "kb_version": "v5.21",
+ "kb_version": "v5.22",
  "migrated_from": "3.3",
- "fact_count": 2028,
+ "fact_count": 2033,
  "facts": [
   {
    "fact_id": "f_0001",
@@ -35096,6 +35096,86 @@
    "conflicts_with": [],
    "added_version": "v5.21",
    "added_by": "ralph_loop"
+  },
+  {
+   "fact_id": "f_2067",
+   "claim": "CORRECTION: no source establishes that R. L. Charlton appears in Joyce Oliver's 1939-1940 \"Material for Book of Remembrance and History\" (Concordia sub-series 13D). rl-charlton.md asserted this without a citation until 2026-08-14. The KB fact behind that project (f_1913) names D. A. Budge, not Charlton, and records the contents as not yet read. The claim is removed; the project remains a genuine unread founding-era lead.",
+   "sources": [],
+   "confidence": "disputed",
+   "category": "meta",
+   "entities": [
+    "R. L. Charlton",
+    "Joyce Oliver",
+    "D. A. Budge"
+   ],
+   "date_ref": "1939-1940",
+   "conflicts_with": [],
+   "added_version": "v5.22",
+   "added_by": "manual"
+  },
+  {
+   "fact_id": "f_2068",
+   "claim": "UNRESOLVED: which Concordia sub-series holds the paired undated photographs of \"R. H. Dawson\" and R. L. Charlton. Two KB facts disagree -- one says 12L (Lac St-Joseph / Camp Jubilee), the cited source says 12A. rl-charlton.md stated 12L while citing the 12A source. Both readings are now recorded in the article; neither is asserted.",
+   "sources": [],
+   "confidence": "disputed",
+   "category": "meta",
+   "entities": [
+    "R. L. Charlton",
+    "Ralph Dawson"
+   ],
+   "date_ref": null,
+   "conflicts_with": [],
+   "added_version": "v5.22",
+   "added_by": "manual"
+  },
+  {
+   "fact_id": "f_2069",
+   "claim": "UNCONFIRMED IDENTIFICATION: the \"Advance Guard '63\" dining-hall plaque names a \"Rick Patten\" alongside Julien Tasse, Wally Leemans, Rusty McKay, Buppy Warren, John Clement and Ron Parker. richard-patten.md stated as fact that this is the Ontario MPP Richard Patten (1942-2021) until 2026-08-14. Nothing links them. Against: directors-index.md independently records Patten's camp involvement as the Montreal YMCA DAY camps, not residential Kanawana, and he would have been 21 in 1963. For: \"Rick\" is a standard short form of Richard, the surname is uncommon, and he was a Montreal YMCA figure in that period. Plausible, unproven.",
+   "sources": [],
+   "confidence": "disputed",
+   "category": "people",
+   "entities": [
+    "Richard Patten",
+    "Rick Patten"
+   ],
+   "date_ref": "1963",
+   "conflicts_with": [],
+   "added_version": "v5.22",
+   "added_by": "manual"
+  },
+  {
+   "fact_id": "f_2070",
+   "claim": "CORRECTION: Richard Patten's 1976-1979 YMCA role did NOT give him authority over Kanawana. He was Executive Director of the Centre-ville/Downtown branch; the association's chief executive was Ross Bannerman, and Camping and Outdoor Education was a separate parallel branch under Derek Walsh and then G. David Twynam. The claim that he was \"the organizational head overseeing Kanawana\" appeared in directors-index.md, between-centennials.md and richard-patten.md, and had been given a citation by a VERIFY pass that flagged it as uncited without testing whether it was true.",
+   "sources": [
+    "src_ia_kanawana_report_1977",
+    "src_ia_kanawana_report_1978"
+   ],
+   "confidence": "stated",
+   "category": "people",
+   "entities": [
+    "Richard Patten",
+    "Ross Bannerman",
+    "Derek V. Walsh"
+   ],
+   "date_ref": "1976-1979",
+   "conflicts_with": [],
+   "added_version": "v5.22",
+   "added_by": "manual"
+  },
+  {
+   "fact_id": "f_2071",
+   "claim": "The rl-charlton.md \"five-surface search\" for a Furness steamer named Kanawana enumerated only FOUR surfaces, twice, and f_1985 lists four. Corrected to four 2026-08-14. The null result itself stands.",
+   "sources": [],
+   "confidence": "stated",
+   "category": "meta",
+   "entities": [
+    "R. L. Charlton",
+    "Furness Withy"
+   ],
+   "date_ref": null,
+   "conflicts_with": [],
+   "added_version": "v5.22",
+   "added_by": "manual"
   }
  ]
 }

@@ -1,15 +1,15 @@
 # Richard Patten
 
 *Status: draft | Sources: 8*
-*Last Updated: 2026-07-11*
+*Last Updated: 2026-08-14*
 
 ## Overview
 
-Richard Andrew Patten (born May 13, 1942; died December 30, 2021) was a Liberal member of the Ontario Legislature representing Ottawa Centre from 1987 to 1990 and again from 1995 to 2007, and a lifelong figure in YMCA international and camp work. A 1963 dining-hall plaque names him among Kanawana's Advance Guard section as "Rick Patten." He received the Pip Alumni Award in 2008.^1 ^2
+Richard Andrew Patten (born May 13, 1942; died December 30, 2021) was a Liberal member of the Ontario Legislature representing Ottawa Centre from 1987 to 1990 and again from 1995 to 2007, and a lifelong figure in YMCA international and camp work. A 1963 dining-hall plaque names a "Rick Patten" among Kanawana's Advance Guard section — **possibly but not demonstrably this Richard Patten** (see below). He received the Pip Alumni Award in 2008.^1 ^2
 
 ## Camp Kanawana and Early YMCA Career
 
-Patten is named on an "Advance Guard '63" plaque alongside Julien Tassé, Wally Leemans, Rusty McKay, Buppy Warren, John Clement, and Ron Parker, placing him at Kanawana as a teenager or young man in the early 1960s.^3 He worked in summer day camps for the Montreal YMCA while a student at Sir George Williams University (now Concordia University), and later worked at different YMCA branches — a career that would carry him through international YMCA work for two decades.^4 ^5
+An "Advance Guard '63" plaque names a **"Rick Patten"** alongside Julien Tassé, Wally Leemans, Rusty McKay, Buppy Warren, John Clement, and Ron Parker.^3 **This article previously stated as fact that the plaque names this Richard Patten. It does not — it names a Rick Patten, and nothing links the two.** Two things cut against the identification and one for it. Against: [[people/directors-index|the directors index]] independently records Patten's own camp involvement as the Montreal YMCA's **day camps**, not residential Kanawana; and he would have been twenty-one in 1963, older than a typical Advance Guard camper. For: "Rick" is a standard short form of Richard, the surname is uncommon, and he was a Montreal YMCA figure in exactly that period. The identification is plausible and unproven, and is recorded here as such rather than asserted. What is documented without qualification is that he worked in summer day camps for the Montreal YMCA while a student at Sir George Williams University (now Concordia University), and later worked at different YMCA branches — a career that would carry him through international YMCA work for two decades.^4 ^5
 
 ## YMCA Career
 
@@ -21,8 +21,9 @@ Patten served as a Liberal MPP for Ottawa Centre (1987–1990, 1995–2007), hol
 
 ## Open Questions
 
-1. [Nice-to-have] What years exactly did Patten attend Kanawana as a camper, beyond the single 1963 plaque appearance? Was he also a counsellor there?
-2. [Nice-to-have] What connection, if any, existed between Patten's 1976–79 tenure as YMCA Montreal Executive Director (overseeing Kanawana) and his earlier teenage years at the camp?
+0. [New 2026-08-14, Important] Is the "Rick Patten" on the Advance Guard '63 dining-hall plaque this Richard Patten? The article asserted it as fact until 2026-08-14 and now records it as plausible-but-unproven. Resolvable by an obituary or biography that names Kanawana specifically (his 2021 obituary does not), or by a camper roster for 1963.
+1. [Nice-to-have] What years, if any, did Patten attend residential Kanawana as a camper? The only candidate evidence is the 1963 "Rick Patten" plaque, whose identification is now open (question 0). His documented camp work is the Montreal YMCA **day camps**.
+2. [Nice-to-have, **premise corrected 2026-08-14**] What connection, if any, existed between Patten's 1976–79 YMCA role and his earlier camp years? The premise as previously written — that he was "YMCA Montreal Executive Director (overseeing Kanawana)" — is **wrong**. He was Executive Director of the **Centre-ville/Downtown branch**, one branch among several; the association's chief executive across those years was Ross Bannerman, and Camping and Outdoor Education was a separate parallel branch under Derek Walsh and then G. David Twynam. Patten had no line authority over Kanawana.
 
 ## Related Articles
 

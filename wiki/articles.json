@@ -5607,7 +5607,7 @@
     "traditions-and-culture"
    ],
    "file_id": null,
-   "word_count": 2454,
+   "word_count": 2336,
    "tags": {
     "era": [
      "1910s",
@@ -7275,7 +7275,7 @@
     "directors-index"
    ],
    "file_id": null,
-   "word_count": 721,
+   "word_count": 963,
    "notes": "2026-07-11: Workstream C1 spawn, split from notable-alumni.md. No new research conducted. Corrected two dangling source_id references (src_patten_wikipedia -> src_wikipedia_richard_patten; src_hpmcgarry_patten_obituary -> src_patten_obituary) in kb/facts.json while preparing this article. | 2026-08-14 p_225 research: deep web research resolved three long-standing questions against PRIMARY sources (YMCA of Montreal news release 1970 + annual reports 1977-79 on Internet Archive; Camp Pascobac's own history page; broadcasting-history.ca).",
    "tags": {
     "era": [
@@ -7436,7 +7436,7 @@
     "founding-1894"
    ],
    "file_id": null,
-   "word_count": 851,
+   "word_count": 1024,
    "notes": "2026-07-11: Workstream C1 spawn, split from notable-alumni.md \"Other Notable Alumni\" section. Synthesizes existing research including myths-and-legends.md Batch 7 finding (1951 primary source naming Charlton as the person who proposed the camp name). Fixed a pre-existing link-text bug in myths-and-legends.md (text \"R.L. Charlton\" was linked to people/ralph-dawson instead of a Charlton article). Corrected a dangling source_id reference (src_concordia_fonds_12A -> src_concordia_p0145_12a_finding_aid, affecting f_1151) in kb/facts.json while preparing this article. | 2026-07-11: p_214 VERIFY -- Open Question 3 marked exhausted (5-surface Furness fleet search, zero matches).",
    "tags": {
     "era": [
