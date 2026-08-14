@@ -3276,7 +3276,9 @@
    "blocking": false,
    "assigned_weight": "P1",
    "created_at": "2026-08-14T00:00:00Z",
-   "status": "pending"
+   "status": "completed",
+   "completed_at": "2026-08-14T00:00:00Z",
+   "result": "Completed 2026-08-14. ALL SIX flagged inconsistencies re-checked at source and ALL SIX are genuine -- the association contradicting itself, not OCR misreads or transcription errors on our side. Verifying quotations recorded in the KB. Spot-checks on ordinary figures (1894 '23 workers and boys', 1923 269, 1939 1477, 1949 '557 boys... 1,464 camper [weeks]', 1969 '622 boys and girls spent 1613 camper weeks') all pass; no transcription errors found. TWO BONUS FINDINGS from the pass: the 1931 report calls W. J. Holliday 'THE FIRST CAMP DIRECTOR' in the association's own words -- independent confirmation of the 1910 announcement from twenty-one years later; and a new name, Mr. Gnaedinger, former President of the Kanawana Committee. Also added a scope note: the pre-1921 rows count the BOYS' camp only, and the senior camp is reported separately and is often larger."
   }
  ]
 }

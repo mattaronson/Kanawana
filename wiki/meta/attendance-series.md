@@ -31,7 +31,7 @@ Two camps ran in parallel on one leased lake: the Junior Department's boys' camp
 
 | Season | Campers | Boy-weeks | Notes |
 |---|---|---|---|
-| 1910 | *(capacity 70)* | — | Opening season, 1 July – 15 Aug |
+| 1910 | *(capacity 70)* | — | Opening season, 1 July – 15 Aug, under **W. J. Holliday** — whom the 1931 report calls "**the first camp director**" |
 | 1912 | 187 | — | |
 | 1913 | 162 | — | |
 | 1915 | 167 | — | 26 June – 25 Aug |
@@ -108,6 +108,8 @@ Two camps ran in parallel on one leased lake: the Junior Department's boys' camp
 
 Six inconsistencies, carried as flags rather than resolved. In every case the conflict is between the association's own documents.^1
 
+**All six were re-checked against the OCR on 2026-08-14 and all six are genuine** — the association contradicting itself, not a transcription error on this project's side. The verifying quotations are recorded in the KB. Sampled ordinary figures (1894, 1923, 1939, 1949, 1969) also checked clean.
+
 1. **The 289-boy season is dated three different ways.** The FY1919-20 report — audited 10 May 1920 — describes it as happening "during the year," which can only be summer 1919. But the retrospective tables in the 1922-23 and 1924 reports label 289 as **1920**, and the 1921-22 report says "391 boys as compared with 289 in **1921**." Three attributions for one number. *Reading adopted here (inference, not statement):* 289 is summer **1919**, and the retrospective tables shifted the pre-1921 column by a year. The 391 column is anchored — its branch breakdown (16+12+73+130+160) sums exactly to 391.
 2. **1924 boy-weeks: 916 or 906?** The 1926 report says 916; the tabulated series in the 1927 report says 906.
 3. **1934 boy-weeks: 1,017 or 972?** The 1935 report versus the 1936 report.
@@ -118,6 +120,8 @@ Six inconsistencies, carried as flags rather than resolved. In every case the co
 And one that is not an arithmetic problem but a reporting one: **the 1918 report calls the 1917 season "a splendid increase over last year, both in attendance and receipts"** while giving 168 campers against the previous year's 175. Receipts may well have risen; attendance did not.
 
 **A lifetime-total contradiction, too.** The 1964 report says "**Forty thousand** boys have earned the title 'Kanawanian' since Kanawana was established." The 1984 report says "More than **34,000** people have benefited over the years." The later figure is smaller than the earlier one. Neither is reconcilable with the other, and neither is reconcilable with the season-by-season series above, which totals well under 40,000 for the years it covers.
+
+**A scope note that matters for the pre-1921 rows.** Those figures count the **boys' camp only**. The reports give the senior/members' camp separately, and it is often the larger of the two — the 1918 report, for instance, gives the Senior Camp "Attendance 90, as compared with 130, last year" under W. H. Henderson, W. A. MacLaren and M. F. Furey, right beside the 168 boys. The two series must not be added together.^1
 
 ## What the shape of the series shows
 

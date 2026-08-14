@@ -1,8 +1,8 @@
 {
  "version": "v4.98",
- "kb_version": "v5.31",
+ "kb_version": "v5.32",
  "migrated_from": "3.3",
- "fact_count": 2119,
+ "fact_count": 2124,
  "facts": [
   {
    "fact_id": "f_0001",
@@ -36667,6 +36667,89 @@
    "date_ref": "1856-2009",
    "conflicts_with": [],
    "added_version": "v5.31",
+   "added_by": "ralph_loop"
+  },
+  {
+   "fact_id": "f_2158",
+   "claim": "THE ASSOCIATION CALLS W. J. HOLLIDAY \"THE FIRST CAMP DIRECTOR\" IN ITS OWN WORDS. The 1931 Annual Report, describing the camp's twenty-first-anniversary event for the 1930 season: \"W. J. HOLLIDAY, THE FIRST CAMP DIRECTOR, DELIVERED AN INSPIRING ADDRESS, AND MR. GNAEDINGER, THE FORMER PRESIDENT OF THE COMMITTEE, GAVE A TALK REMINISCENT OF THE DAYS WHEN A CAMP OF THIRTY-FIVE BOYS WAS CONSIDERED LARGE.\" This independently corroborates the 1910 report's forward-tense announcement putting Holliday in charge of the new Lake Kanawana site, and settles that he is regarded by the association as Kanawana's first director. Found incidentally during the p_260 verification pass, not by the sweep that established the 1910 announcement.",
+   "sources": [
+    "src_ia_ymca_montreal_annual_reports_collection"
+   ],
+   "confidence": "stated",
+   "category": "people",
+   "entities": [
+    "W. J. Holliday",
+    "Mr. Gnaedinger"
+   ],
+   "date_ref": "1930",
+   "conflicts_with": [],
+   "added_version": "v5.32",
+   "added_by": "ralph_loop"
+  },
+  {
+   "fact_id": "f_2159",
+   "claim": "A new name from the 1931 Annual Report: MR. GNAEDINGER, former President of the Kanawana Committee, who spoke at the camp's twenty-first-anniversary event about \"the days when a camp of thirty-five boys was considered large\". No first name or dates are given.",
+   "sources": [
+    "src_ia_ymca_montreal_annual_reports_collection"
+   ],
+   "confidence": "stated",
+   "category": "people",
+   "entities": [
+    "Mr. Gnaedinger"
+   ],
+   "date_ref": "1930",
+   "conflicts_with": [],
+   "added_version": "v5.32",
+   "added_by": "ralph_loop"
+  },
+  {
+   "fact_id": "f_2160",
+   "claim": "VERIFICATION PASS (p_260) on meta/attendance-series.md: ALL SIX flagged internal inconsistencies confirmed as genuine source-level contradictions, not OCR misreads or transcription errors on this project's side. Confirmed at source: (1) the 1920 report gives \"an attendance of 289 boys\" for a season it describes as during its year, while the 1921-22 report says \"391 boys as compared with 289 in 1921\" and the 1924 report's retrospective series \"269 307 391 289\" places 289 at 1920; (2) the 1926 report's \"916 the previous year\" against the 1927 report's series \"879 833 906 934\"; (3) the 1935 report's \"1017 boy weeks\" against the 1936 report's \"917 compared with 972 a year\"; (4) the 1933 report's 360 against the 1934 report's \"decrease of 98 from 1932\"; (5) \"420 boys enjoyed a total of 1,200 camper-weeks\" (1965) against \"1,323 against 1,182 in 1965\" (1966-67); (6) the 1931 report's \"[1]512 BOY WEEKS, AN INCREASE OF 432 OVER LAST YEAR\" against its own 1,090 for the prior year. The 1918 report's \"splendid increase over last year\" for a season of 168 against the prior 175 is also confirmed verbatim.",
+   "sources": [
+    "src_ia_ymca_montreal_annual_reports_collection"
+   ],
+   "confidence": "stated",
+   "category": "meta",
+   "entities": [
+    "Kamp Kanawana"
+   ],
+   "date_ref": "1918-1966",
+   "conflicts_with": [],
+   "added_version": "v5.32",
+   "added_by": "ralph_loop"
+  },
+  {
+   "fact_id": "f_2161",
+   "claim": "SPOT-CHECKS PASSED in the p_260 verification: the 1894 founding (\"Camp was composed of 23 workers and boys\"); 1923 campers 269; 1939 boy-weeks 1477; 1949 \"557 boys from 8-16 years of age attended camp for 1,464 camper [weeks]\"; 1969 \"A total of 622 boys and girls spent 1613 camper weeks at Kamp Kanawana\". No transcription errors found in the sampled figures.",
+   "sources": [
+    "src_ia_ymca_montreal_annual_reports_collection"
+   ],
+   "confidence": "stated",
+   "category": "meta",
+   "entities": [
+    "Kamp Kanawana"
+   ],
+   "date_ref": "1894-1969",
+   "conflicts_with": [],
+   "added_version": "v5.32",
+   "added_by": "ralph_loop"
+  },
+  {
+   "fact_id": "f_2162",
+   "claim": "SCOPE NOTE for the attendance series: the pre-1921 figures count the BOYS' camp only. The annual reports give senior/members' camp attendance separately and it is often larger -- e.g. the 1918 report gives the Senior Camp \"Attendance 90, as compared with 130, last year\" under W. H. Henderson, W. A. MacLaren and M. F. Furey, alongside the 168 boys. The two must not be added together or confused.",
+   "sources": [
+    "src_ia_ymca_montreal_annual_reports_collection"
+   ],
+   "confidence": "stated",
+   "category": "meta",
+   "entities": [
+    "W. H. Henderson",
+    "W. A. MacLaren",
+    "M. F. Furey"
+   ],
+   "date_ref": "1894-1920",
+   "conflicts_with": [],
+   "added_version": "v5.32",
    "added_by": "ralph_loop"
   }
  ]
