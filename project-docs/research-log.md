@@ -3534,3 +3534,58 @@ The second major find of this batch: Internet Archive actually holds 38 digitize
 ### Outcome
 
 This tier — deliberately the last remaining previously-untouched or skip-listed articles — produced two of the largest single-session finds of the entire project: the actual 1979-1982 Kanawana-Weredale operational relationship, and the discovery that 38 (not 1) Green Triangle issues and 11 (not 0) Camp Perrot annual reports are digitized on Internet Archive. Both underscore a recurring lesson from this session: Concordia's static finding-aid pages and its master PDF, plus a full re-scan of Internet Archive's actual holdings rather than assumed coverage, repeatedly surface material that targeted keyword search alone misses. Five new priority-queue items track the remaining physical-archive leads (the Weredale arrangement's end, the Camp Perrot closure contradiction, a Furness shipping-registry check, further master-PDF re-mining, and a human check of the SGW 1973 yearbook).
+
+---
+
+## Campaign: The YMCA of Montreal fonds — 2026-08-14
+
+### What the seam is
+
+The Concordia-digitized **YMCA of Montreal fonds** on Internet Archive: 1,037 items, 638 of them text. Before this date, ~44 were referenced anywhere in `sources.json`. **594 had never been opened.**
+
+Everything below came out of that untouched 93% in a single day.
+
+### Method (reproducible; two traps)
+
+1. `https://archive.org/advancedsearch.php?q=collection%3Aymca-montreal-fonds&fl[]=identifier&rows=2000&output=json`
+2. For each id: `https://archive.org/metadata/{id}` → find the `_djvu.txt` entry
+3. Download `https://archive.org/download/{id}/{file}` → grep locally
+
+**Trap 1:** `advancedsearch.php` searches **metadata only, not OCR**. Its zero-results are not evidence of absence. Earlier campaigns took them as such.
+**Trap 2:** `ia-fts.archive.org` (the real full-text API) is blocked by the egress proxy. Bulk download plus local grep is the only route.
+**Trap 3:** the `_djvu.txt` filename uses the item's human-readable **title**, not its identifier — which is why earlier fetch attempts 404'd.
+
+The OCR is tesseract on mid-century typescript and is imperfect in a specific, learnable way: periods often render as `e` (`WeHe Spearman` = `W. H. Spearman`), `l`↔`1`, `|`↔`I`. Search for variants.
+
+### Found
+
+| Finding | Document |
+|---|---|
+| Order of Owens created 1976; Norrey Owens the **donor/presenter**, Doug Peets the first recipient; April 13 1976 is **not** a death date | Director's Report 1976 |
+| O. N. H. Owens, Kanawana Committee Chairman 1937–38, Camp Perrot board chair 1940s–50s — likely the namesake | 1938 letterhead; reports 1929–1964 |
+| W. H. Spearman was Camp Chief **1932–1934**, not 1933 alone; and there are **two** W. H. Spearmans | Green Triangle 1932–33; reports 1934, 1935, 1949 |
+| Geoff Anderson, Director 1969 — displacing Ross Bannerman | Annual Report 1969 |
+| James H. Turner, Camp Director 1970 and 1971 | Reports 1970, 1971 |
+| Leo J. Robitaille, 1973 | Director's Report 1973 |
+| Derek Walsh extends 1974–75 → **1974–78** | Reports 1974–78 |
+| Twynam's 1979 start fixed in his own words | Director's Report 1979 |
+| Macdiarmid extends to **1939**, and the *reason it ended*: overseas with YMCA War Services, December 1939 | CFCF broadcast 1939; report 1946 |
+| W. H. Ball on the **founding committee**, fall 1892 | Kamp Kanawana History 1951 |
+| The YMCA's own obituary crediting Ball with "establishing the first Canadian camps for boys" | Annual Report 1955 |
+| A **first-person founding memoir** (1919), author still unidentified | Autobiographical Sketch, Aug 1919 |
+| "Stampede Day" as a named all-camp themed day | Annual Report 1966 |
+
+### Null results worth recording
+
+- **"Kanawana Stampede"** as an exact phrase: zero hits across all 634 text items. "Stampede Day" (1966) is the closest thing, and the 1976 Director's Report — 1,455 lines covering the whole season — does not mention a Stampede at all.
+- The equestrian reading of the 1976 Stampede plaque is **positively contradicted**: the riding program was recommended for discontinuation in 1971 and does not appear among 1976's program areas.
+- `advancedsearch.php` phrase queries for `"Kanawana Stampede"`, `"Norrey Owens"`, `owens AND kanawana`, `"order of owens"`: all zero — **but see Trap 1**; these prove nothing.
+
+### Two cataloguing defects found
+
+- `sgw-ymca-annual-report-1990-1991` and `-1991-1992` are misdated by a century in their Internet Archive identifiers; they hold **1890-91 and 1891-92** content. The 1890-91 report is the one announcing W. H. Ball's hiring. Anyone searching by date will miss them.
+- The registered McMorris thesis cache is the 54KB **landing page**, not the 251KB extracted text. The real text has now been extracted ad hoc twice and discarded twice; the second extraction is what reopened the 1967 Open Question. Queued as `p_242`.
+
+### What this changes about method
+
+Phase 2's definition of "exhausted" — 8 queries across 3 surfaces — assumes the surfaces are searchable. This collection *is* full-text searchable and returned nothing for years, because the search endpoint everyone reached for indexes metadata only. **A negative result from a search tool is a fact about the tool, not about the archive.** Several questions closed in this project as dead ends were closed on exactly that mistake: the 1967 canoe-trip Open Question was marked a "confirmed dead end" after testing archive boxes 12B01 and 12B04, when the thesis's own footnotes place every Centennial document in 12B07.
