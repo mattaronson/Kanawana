@@ -1577,7 +1577,7 @@
     "wartime-kanawana"
    ],
    "file_id": null,
-   "word_count": 14288,
+   "word_count": 14307,
    "notes": "v4.75: Peter Goddard confirmed (Peter Gilling Goddard 1953-2016, obituary condolence). Nelson McEwen tenure extended c.1927-1947. Derek Walsh exhausted. Gap periods updated. | 2026-07-07: applied operator's standing conflict-resolution policy (documented sources take precedence over oral history) to resolve c_004, c_015, c_016, c_017 -- Gary White's Kanawana tenure narrowed to FY2001-2002, Sean Day's start corrected to 2008, Nicolas Garcia's spelling/end-date corrected to March 2014, Rossy Foundation corrected to Tyndale St-Georges. | 2026-07-11: Workstream A Wave 1 prose-sediment REVIEW pass -- standardized header, moved dated correction narrative from table cells into a new visible Revision History section, corrected open_questions count (was stale at 7, actual count is and remains 14). No facts, citations, or open questions dropped; status unchanged. | 2026-07-11: Added wiki-links to Howie Langille and Ross Bannerman table rows and Related Articles, pointing to their new standalone Workstream C1 articles. | 2026-07-11: Added wiki-links to Bruce Netherwood (Camp Directors table, Pip Award table, Related Articles) pointing to the new standalone article. | 2026-07-11: Added wiki-links to Gary White, David Leduc, Kate Taylor, Marie-Pierre Lacasse table rows and Related Articles, pointing to new standalone institutional-role-director articles. | 2026-07-11: Added wiki-links to Greig Macdiarmid, Francois Dauphin, Nicolas Garcia, Morgan Carter, Arleen Boyer, Justin Caldwell (Two-Tier Era + Staff by Era tables) and Matt/Dan Aronson (Related Articles), per the operator's revised C5 policy.",
    "tags": {
     "era": [
@@ -8841,7 +8841,183 @@
    "file_id": null,
    "word_count": 1655,
    "notes": "Created 2026-08-14 from the digitized Montreal YMCA annual reports (complete 1929-1955) and Green Triangle run. Fills the previously-blank 1932-1934 directorship slot; carries a standing caution against merging two different W.H. Spearmans."
+  },
+  {
+   "article_id": "roy-locke",
+   "title": "Roy D. Locke",
+   "wiki_folder": "people",
+   "status": "stub",
+   "status_history": [
+    {
+     "status": "stub",
+     "at": "2026-08-14T00:00:00Z",
+     "by": "auto",
+     "task": "WRITE"
+    }
+   ],
+   "ralph_loops_completed": 0,
+   "kb_facts_used": [
+    "f_2079",
+    "f_2084",
+    "f_2120"
+   ],
+   "sources_cited": [
+    "src_ia_kanawana_history_1951",
+    "src_ia_ymca_montreal_annual_reports_collection",
+    "src_ia_ymca_montreal_fonds_collection"
+   ],
+   "open_questions": 4,
+   "cross_links": [
+    "people/directors-index",
+    "people/james-h-turner",
+    "people/a-ross-seaman",
+    "history/postwar-gap",
+    "site/camp-perrot"
+   ],
+   "file_id": null,
+   "word_count": 865,
+   "notes": "Created 2026-08-14 (p_250). First name filling the 1947-1958 postwar gap. Documented Montreal YMCA span of ~40 years: Kanawana Camp Chief 1947, Camping Branch executive secretary 1970-72, Metropolitan Staff 1986. Status stub not draft -- no dedicated RALPH cycle, no VERIFY pass."
+  },
+  {
+   "article_id": "murray-shantz",
+   "title": "Murray B. Shantz",
+   "wiki_folder": "people",
+   "status": "stub",
+   "status_history": [
+    {
+     "status": "stub",
+     "at": "2026-08-14T00:00:00Z",
+     "by": "auto",
+     "task": "WRITE"
+    }
+   ],
+   "ralph_loops_completed": 0,
+   "kb_facts_used": [
+    "f_2080"
+   ],
+   "sources_cited": [
+    "src_ia_ymca_montreal_annual_reports_collection"
+   ],
+   "open_questions": 3,
+   "cross_links": [
+    "people/directors-index",
+    "people/roy-locke",
+    "people/a-ross-seaman",
+    "history/postwar-gap"
+   ],
+   "file_id": null,
+   "word_count": 598,
+   "notes": "Created 2026-08-14 (p_250). Thinnest-documented director in the index -- one document names him in the role (the 16 April 1956 annual-meeting agenda). 1955/1957/1958 rest on an argument from silence in the personnel-change lists, stated as such."
+  },
+  {
+   "article_id": "geoff-anderson",
+   "title": "Geoff Anderson",
+   "wiki_folder": "people",
+   "status": "stub",
+   "status_history": [
+    {
+     "status": "stub",
+     "at": "2026-08-14T00:00:00Z",
+     "by": "auto",
+     "task": "WRITE"
+    }
+   ],
+   "ralph_loops_completed": 0,
+   "kb_facts_used": [
+    "f_2048",
+    "f_2056",
+    "f_2086"
+   ],
+   "sources_cited": [
+    "src_ia_kanawana_report_1969",
+    "src_ia_the_lookout_1993",
+    "src_ia_ymca_montreal_annual_reports_collection",
+    "src_ia_ymca_montreal_fonds_collection"
+   ],
+   "open_questions": 4,
+   "cross_links": [
+    "people/directors-index",
+    "people/ross-bannerman",
+    "people/james-h-turner",
+    "history/postwar-gap"
+   ],
+   "file_id": null,
+   "word_count": 752,
+   "notes": "Created 2026-08-14 (p_250). The director whose recovery displaced Ross Bannerman from the Camp Directors table (conflict c_023, resolved). Self-dates his appointment to 1 February 1969; gone by November. His report also records the 1969 camper drowning."
+  },
+  {
+   "article_id": "james-h-turner",
+   "title": "James H. Turner",
+   "wiki_folder": "people",
+   "status": "stub",
+   "status_history": [
+    {
+     "status": "stub",
+     "at": "2026-08-14T00:00:00Z",
+     "by": "auto",
+     "task": "WRITE"
+    }
+   ],
+   "ralph_loops_completed": 0,
+   "kb_facts_used": [
+    "f_2049",
+    "f_2084",
+    "f_2087",
+    "f_2129"
+   ],
+   "sources_cited": [
+    "src_ia_kanawana_place_to_grow_1988",
+    "src_ia_kanawana_report_1970",
+    "src_ia_kanawana_report_1971",
+    "src_ia_the_lookout_1993",
+    "src_ia_ymca_montreal_annual_reports_collection",
+    "src_ia_ymca_montreal_fonds_collection"
+   ],
+   "open_questions": 4,
+   "cross_links": [
+    "people/directors-index",
+    "people/roy-locke",
+    "people/geoff-anderson",
+    "people/leo-robitaille",
+    "traditions/environmental-history"
+   ],
+   "file_id": null,
+   "word_count": 814,
+   "notes": "Created 2026-08-14 (p_250). Clearest documented case of the 1969-1972 two-tier structure. His 1971 parting report recommends effectively abolishing the camp as a physical plant -- quoted at length deliberately, since paraphrase softens it."
+  },
+  {
+   "article_id": "leo-robitaille",
+   "title": "Leo J. Robitaille",
+   "wiki_folder": "people",
+   "status": "stub",
+   "status_history": [
+    {
+     "status": "stub",
+     "at": "2026-08-14T00:00:00Z",
+     "by": "auto",
+     "task": "WRITE"
+    }
+   ],
+   "ralph_loops_completed": 0,
+   "kb_facts_used": [
+    "f_2050",
+    "f_2088"
+   ],
+   "sources_cited": [
+    "src_ia_kanawana_report_1973",
+    "src_ia_ymca_montreal_annual_reports_collection",
+    "src_ia_ymca_montreal_fonds_collection"
+   ],
+   "open_questions": 4,
+   "cross_links": [
+    "people/directors-index",
+    "people/james-h-turner",
+    "people/ross-bannerman"
+   ],
+   "file_id": null,
+   "word_count": 715,
+   "notes": "Created 2026-08-14 (p_250). Signed the 1973 report from the Camping and Outdoor Education Branch post. Whether he ran the camp on site in 1973 is left open -- the same branch title was later held by Derek Walsh in years when Walsh is proven to have been on site, so the title settles nothing."
   }
  ],
- "article_count": 87
+ "article_count": 92
 }

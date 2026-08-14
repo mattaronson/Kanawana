@@ -2645,3 +2645,18 @@ THIS COMPLETES THE FULL OPERATOR-APPROVED PLAN (can-you-systematically-work-iter
   extracted, per the Phase 2 privacy rule. These reports are now publicly
   digitized, which is itself worth the operator knowing.
   Facts 2086 -> 2094, KB v5.27.
+
+2026-08-14 | WRITE | p_250: five director stubs spawned
+  roy-locke, murray-shantz, geoff-anderson, james-h-turner, leo-robitaille --
+  all five newly documented by the same day's fonds campaign, all five
+  previously plain-text rows in directors-index.md with no article.
+  Now registered, linked from the Camp Directors table and Related Articles.
+  92 articles, 794 links, 0 broken, 0 dangling citation markers.
+  STATUS DELIBERATELY "stub", not "draft", for all five. Four of them meet the
+  structural draft bar -- summary, 2+ sections, 3 sources. None has had a
+  dedicated RALPH cycle or a VERIFY pass. p_218 found 48 blocking defects in 28
+  articles marked "draft" on exactly that basis. Not repeating it.
+  Each article states plainly what is inferred rather than stated: Locke's
+  1948-54 seasons, Shantz's 1955/57/58 (an argument from silence), and whether
+  Robitaille ran the camp on site or signed from the branch post.
+  Follow-up queued as p_254.

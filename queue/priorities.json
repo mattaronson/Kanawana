@@ -3154,7 +3154,9 @@
    "blocking": false,
    "assigned_weight": "P0",
    "created_at": "2026-08-14T00:00:00Z",
-   "status": "pending"
+   "status": "completed",
+   "completed_at": "2026-08-14T00:00:00Z",
+   "result": "Completed 2026-08-14. Five stubs spawned: roy-locke, murray-shantz, geoff-anderson, james-h-turner, leo-robitaille. All registered in articles.json, linked from the directors-index Camp Directors table (previously plain-text names) and from its Related Articles list. Wiki now 92 articles, 794 links, 0 broken. STATUS NOTE: all five are marked \"stub\" rather than \"draft\" even though four of them meet the structural draft bar (summary, 2+ sections, 3 sources). None has had a dedicated RALPH cycle or a VERIFY pass. p_218 found 48 blocking defects in 28 articles marked \"draft\" on exactly that basis -- structural completeness from a WRITE-only synthesis with the process bar skipped. Advancing them is a separate, later task."
   },
   {
    "priority_id": "p_251",
@@ -3183,6 +3185,17 @@
    "rank": 253,
    "type": "INGEST",
    "description": "Two cataloguing defects to work around and, if possible, report to Concordia/IA: (1) \"sgw-ymca-annual-report-1990-1991\" and \"-1991-1992\" hold 1890-91 and 1891-92 content -- misdated by a century, and the 1890-91 one announces W. H. Ball's hiring; (2) the Kanawana orienteering map catalogued as 1974 is internally c.1978-1982 (it shows Katimavik, the sauna and the Grand Portage). Anyone searching that collection by date will miss or misdate these.",
+   "article_id": null,
+   "blocking": false,
+   "assigned_weight": "P1",
+   "created_at": "2026-08-14T00:00:00Z",
+   "status": "pending"
+  },
+  {
+   "priority_id": "p_254",
+   "rank": 254,
+   "type": "VERIFY",
+   "description": "Advance the five p_250 director stubs (roy-locke, murray-shantz, geoff-anderson, james-h-turner, leo-robitaille) from stub toward draft/R3. Each needs a dedicated RALPH cycle and a VERIFY pass. The highest-value targets inside that work: (a) Roy D. Locke -- did he direct on site every season 1948-1954, or only hold the portfolio? (b) Murray B. Shantz -- 1955/1957/1958 currently rest on an argument from silence in the personnel-change lists; (c) Leo J. Robitaille -- did he run the camp on site in 1973 or sign as branch executive above someone unnamed? (d) Geoff Anderson -- traceable to Toronto from November 1969, the most findable of the five.",
    "article_id": null,
    "blocking": false,
    "assigned_weight": "P1",
