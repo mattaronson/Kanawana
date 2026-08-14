@@ -1,8 +1,8 @@
 {
  "version": "v4.98",
- "kb_version": "v5.27",
+ "kb_version": "v5.28",
  "migrated_from": "3.3",
- "fact_count": 2094,
+ "fact_count": 2095,
  "facts": [
   {
    "fact_id": "f_0001",
@@ -36238,6 +36238,23 @@
    "date_ref": "1973-1975",
    "conflicts_with": [],
    "added_version": "v5.27",
+   "added_by": "ralph_loop"
+  },
+  {
+   "fact_id": "f_2133",
+   "claim": "EXHAUSTIVE SEARCH, NULL BEYOND FOUR YEARS: the complete digitized YMCA of Montreal fonds contains L&V Games RESULTS for exactly four seasons -- 1966 (Voyageurs), 1977 (Lumbermen), 1978 (Lumbermen, 'again', which also corroborates 1977) and 1993 (Voyageurs, narrowly). All four are already extracted. Every surviving Kanawana season report (1964, 1965, 1966, 1969, 1970, 1971, 1973, 1974, 1975, 1976, 1977, 1978, 1979, 1987), the Green Triangle run, the Ka-News run, the Gas Bag, the 1988 'A Place to Grow' report and the SGW annual reports 1856-2009 were searched for both 'lumber*' and 'voyageur' with and without a win verb. The Games are mentioned in 1949/50, 1960, 1969, 1975, 1976, 1982, 1987 and 1988 WITHOUT naming a winner -- the reports record that the event happened, not who won it. CONSEQUENCE: p_244's premise, that up to a dozen further seasons were available to corroborate the trophy roll, is WRONG; four is the ceiling from this corpus. Conflict c_025 (the 1966 discrepancy) and the missing 1961 shield CANNOT be resolved from these documents and need the physical trophy or a source outside this collection.",
+   "sources": [
+    "src_ia_ymca_montreal_fonds_collection",
+    "src_ia_ymca_montreal_annual_reports_collection"
+   ],
+   "confidence": "stated",
+   "category": "traditions",
+   "entities": [
+    "L&V Games"
+   ],
+   "date_ref": "1947-1993",
+   "conflicts_with": [],
+   "added_version": "v5.28",
    "added_by": "ralph_loop"
   }
  ]

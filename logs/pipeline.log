@@ -2660,3 +2660,20 @@ THIS COMPLETES THE FULL OPERATOR-APPROVED PLAN (can-you-systematically-work-iter
   1948-54 seasons, Shantz's 1955/57/58 (an argument from silence), and whether
   Robitaille ran the camp on site or signed from the branch post.
   Follow-up queued as p_254.
+
+2026-08-14 | INGEST + RESEARCH | p_242 and p_244
+  p_242: src_mcmorris_thesis.cache_path pointed at a 54KB Spectrum landing page.
+  Now points at the real 253,681-char text; old file renamed
+  mcmorris_thesis_LANDING_PAGE_ONLY.html so it cannot be mistaken again. The
+  text had been extracted ad hoc twice in 2026 and discarded both times, and
+  the second extraction is what reopened the 1967 canoe-trip question.
+  p_244: NULL RESULT, and the priority's own premise was wrong. Searched all 14
+  surviving season reports plus the Green Triangle, Ka-News, Gas Bag, the 1988
+  report and the SGW annual reports 1856-2009. The corpus states an L&V winner
+  for EXACTLY FOUR seasons: 1966, 1977, 1978, 1993 -- all already extracted.
+  The Games are mentioned in 1949/50, 1960, 1969, 1975, 1976, 1982, 1987 and
+  1988 without naming a winner. p_244 predicted "up to a dozen more years";
+  four is the ceiling. c_025 and the 1961 shield therefore CANNOT be resolved
+  from this corpus -- they need the physical trophy.
+  Logged in lv-games.md and f_2133 so the ground is not re-covered.
+  Facts 2094 -> 2095, KB v5.28.
