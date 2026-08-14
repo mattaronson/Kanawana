@@ -294,6 +294,11 @@
     "f_1908"
    ],
    "sources_cited": [
+    "src_concordia_fonds",
+    "src_flickr_kanawana_plaque_album",
+    "src_history_1935",
+    "src_ia_kanawana_directors_report_1976",
+    "src_mcmorris_thesis",
     "src_radiocanada_sepaq_laverendrye_2022",
     "src_reserve_laverendrye_history",
     "src_wikipedia_lac_landron"
@@ -311,7 +316,7 @@
     "traditions/order-of-owens"
    ],
    "file_id": "13MmwA1lO_3J3rJ7yEZjwsvT--vWooITy",
-   "word_count": 1354,
+   "word_count": 1111,
    "tags": {
     "era": [
      "1920s",
@@ -1509,6 +1514,26 @@
    ],
    "sources_cited": [
     "src_application_2006",
+    "src_ia_kanawana_annual_report_1966",
+    "src_ia_kanawana_directors_report_1976",
+    "src_ia_kanawana_history_1951",
+    "src_ia_kanawana_report_1964",
+    "src_ia_kanawana_report_1965",
+    "src_ia_kanawana_report_1969",
+    "src_ia_kanawana_report_1970",
+    "src_ia_kanawana_report_1971",
+    "src_ia_kanawana_report_1973",
+    "src_ia_kanawana_report_1974",
+    "src_ia_kanawana_report_1975",
+    "src_ia_kanawana_report_1977",
+    "src_ia_kanawana_report_1978",
+    "src_ia_kanawana_report_1979",
+    "src_ia_kanawana_report_1987",
+    "src_ia_sgw_annual_report_1967",
+    "src_ia_the_lookout_1993",
+    "src_ia_ymca_montreal_annual_reports_collection",
+    "src_ia_ymca_news_release_1970_02",
+    "src_ia_ymca_news_release_1971_01",
     "src_reportage_vecu_2007",
     "src_ymcakanawana_2005_handbook"
    ],
@@ -1547,7 +1572,7 @@
     "wartime-kanawana"
    ],
    "file_id": null,
-   "word_count": 14173,
+   "word_count": 14288,
    "notes": "v4.75: Peter Goddard confirmed (Peter Gilling Goddard 1953-2016, obituary condolence). Nelson McEwen tenure extended c.1927-1947. Derek Walsh exhausted. Gap periods updated. | 2026-07-07: applied operator's standing conflict-resolution policy (documented sources take precedence over oral history) to resolve c_004, c_015, c_016, c_017 -- Gary White's Kanawana tenure narrowed to FY2001-2002, Sean Day's start corrected to 2008, Nicolas Garcia's spelling/end-date corrected to March 2014, Rossy Foundation corrected to Tyndale St-Georges. | 2026-07-11: Workstream A Wave 1 prose-sediment REVIEW pass -- standardized header, moved dated correction narrative from table cells into a new visible Revision History section, corrected open_questions count (was stale at 7, actual count is and remains 14). No facts, citations, or open questions dropped; status unchanged. | 2026-07-11: Added wiki-links to Howie Langille and Ross Bannerman table rows and Related Articles, pointing to their new standalone Workstream C1 articles. | 2026-07-11: Added wiki-links to Bruce Netherwood (Camp Directors table, Pip Award table, Related Articles) pointing to the new standalone article. | 2026-07-11: Added wiki-links to Gary White, David Leduc, Kate Taylor, Marie-Pierre Lacasse table rows and Related Articles, pointing to new standalone institutional-role-director articles. | 2026-07-11: Added wiki-links to Greig Macdiarmid, Francois Dauphin, Nicolas Garcia, Morgan Carter, Arleen Boyer, Justin Caldwell (Two-Tier Era + Staff by Era tables) and Matt/Dan Aronson (Related Articles), per the operator's revised C5 policy.",
    "tags": {
     "era": [
@@ -2598,6 +2623,9 @@
     "src_concordia_atom_12A",
     "src_concordia_atom_12B07",
     "src_concordia_ymca_fonds_12B04_finding_aid",
+    "src_ia_kanawana_place_to_grow_1988",
+    "src_ia_kanawana_report_1987",
+    "src_ia_ymca_montreal_fonds_collection",
     "src_ka_news_1980",
     "src_oral_aronson",
     "src_photo_knights_charter_challenges"
@@ -2618,7 +2646,7 @@
     "traditions/order-of-owens"
    ],
    "file_id": null,
-   "word_count": 4253,
+   "word_count": 4754,
    "notes": "E1 REVIEW (2026-02-19): Fixed non-existent src_concordia_12B04 in header (removed; src_concordia_atom_12B04 already present). Fixed '131-year history' ambiguity to 'more than 130 years'. All claims cited, dates consistent, names cross-checked, tone encyclopedic. | 2026-08-14: cross-linked to the new traditions/order-of-owens.md. | 2026-08-14: NEW prose section on the Order of the Knights of Kanawana, giving the proclamation text and the six challenges for knighthood (previously the KB held the oath and the 1980-2009 roll but not the criteria). NOTE: this article is E1-reviewed and has received substantive new content; warrants a re-REVIEW pass. | 2026-08-14 (2nd pass): charter mined further -- A/B/C skill-grading system across named activities (f_2004), 'Kamp' spelling in challenge 5 corroborating the pre-2005 usage (f_2005), and the birchbark medium/composition (f_2006).",
    "tags": {
     "era": [
@@ -3770,6 +3798,9 @@
     "src_gas_bag_1923",
     "src_green_triangle_1938",
     "src_history_1935",
+    "src_ia_kanawana_report_1970",
+    "src_ia_the_lookout_1993",
+    "src_ia_ymca_montreal_fonds_collection",
     "src_mcmorris_thesis",
     "src_oral_aronson",
     "src_spirit_kanawana_blog",
@@ -3789,7 +3820,7 @@
     "traditions-and-culture"
    ],
    "file_id": null,
-   "word_count": 3129,
+   "word_count": 4094,
    "notes": "R1 RALPH completed 2026-02-27. 14 new KB facts. 23 KB facts total. 15 sources. Key findings: Marching Song traced to Alabama Jubilee (1915), lost verses found at Concordia 2006; full 1922 Yo Triumphy cheer; 1923 Gas Bag original songs; 1935 musicale; 1938 choir by Leshley; Kerr song on CD P145/SR0001 (4:30). Blocked on: oral history for section cheers/Grace/campfire repertoire; Concordia archives for song books 1925-1945. | 2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- fixed the malformed Sources header, moved the 'Correction (2026-07-09)' paragraph into a new Research Notes > Revision History section. No facts, citations, or open questions dropped; status unchanged.",
    "tags": {
     "era": [

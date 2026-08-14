@@ -1,7 +1,7 @@
 # Camp Songs, Cheers, and Musical Traditions
 
-*Status: E1-reviewed | Sources: 18*
-*Last Updated: 2026-07-09*
+*Status: E1-reviewed | Sources: 19*
+*Last Updated: 2026-08-14*
 
 ## Overview
 
@@ -12,6 +12,12 @@ The camp's musical heritage is preserved in several archival collections at Conc
 ## The Camp Song: "On My Way to Kanawana"
 
 The official camp song, **"On My Way to Kanawana,"** was composed and performed by **Richard "Itch" Kerr**, a Kanawana alumnus who received the inaugural Pip Alumni Award circa 2007.^5 The song is preserved at Concordia University as **P145/SR0001** (Sound Recordings) on CD, with a duration of 4 minutes and 30 seconds. It accompanies the 1993/1996 YMCA film *Kamp Kanawana: The Experience that Lasts a Lifetime*, produced by Cathy Reeves (9 minutes, colour VHS).^5 It is the only known audio recording in the Kanawana archival collection.
+
+**Kerr's own account of writing it survives, and it dates the song precisely.** Writing in the Kanawana alumni newsletter *The Lookout* in autumn 1993, he describes the closing banquet:
+
+> "My invitation to this year's closing banquet was written at **summer's end 1977**. I wrote it myself late one night with some help from **three friends**. What we wrote was as spontaneous as love itself. One moment there was nothing the next, a song which payed tribute to friends, a place, an experience we loved. I had forgotten all about the song. Something as ethereal as a song at a summer camp should have easily vanished into the mists of time. Somehow, **the next summer it was remembered and it has been sung every summer since**. Much like the names on the ancient plaques that haunt the dining hall; my Kamp nickname has always accompanied any introduction to the song as the mysterious author of long ago."^19
+
+So: written in one night at the end of summer **1977**, by Kerr with three unnamed collaborators; revived in **1978** and sung annually thereafter. Kerr was on the Kanawana staff in 1975 (filling in as a counsellor for a week), 1976 (taking over the CIT program mid-summer) and 1977 (CIT Director), and returned to run a song workshop at pre-camp in 1992.^19 **Note what this account does not support:** no contemporaneous 1977 or 1978 document naming Kerr as composer has been found. His own 1993 retrospective is the sole source, and it is a memoir written sixteen years after the fact — reliable on authorship, less so on detail.
 
 The song held particular significance in camp culture. In 1967, a busload of Kanawana campers singing the camp song greeted the CCA Centenary Journey paddlers upon their arrival in Ottawa.^13 No lyrics, sheet music, or digital copy of the recording have been found in any online source. The Concordia Archives CD is the sole known copy. Its exact box number is now confirmed: Concordia's static finding-aid page for sub-sub-series 12B04 gives the catalog entry "On My Way to Kanawana. Song composed and performed by Richard Itch Kerr. CD. 4'30. - nd." at **Box HA2559**; the item is undated ("nd") in the finding aid itself.^16
 
@@ -99,6 +105,43 @@ The earliest documented Kanawana cheer predates the Marching Song and comes from
 > Kanawana---Rah!"
 
 The cheer is entirely nonsensical, concluding only with the camp name. This structure — using pseudo-foreign or deliberately absurd syllables as a rallying cry — was characteristic of early twentieth-century camp yells. The origin and meaning of "Yo Triumphy" have not been identified. The cheer does not appear in any other known camp's repertoire.
+
+## The 1938 broadcast set list
+
+A CBM radio broadcast of 10 November 1938, "The Voice of Youth," was performed by the boys of Kanawana and its script survives — giving a set list of what the camp actually sang:^19
+
+1. **"Kanawana Marching Song"** — a distinct title, not otherwise attested, and not necessarily the same as the "camp song" of 1933
+2. **"Hi-Ho, Hi-Ho"**
+3. **"My Old Kentucky Home"** — sung solo by twelve-year-old Sandy Spence
+4. **"The World is Waiting for the Sunrise"** — chorus only
+5. **"Johnny Verbec"** — introduced as Dick Abraham's "Kanawana song specialty," with guitar, and called "the sausage song"
+6. **"Taps"** — to close
+
+**"Johnny Verbec" is a second "Alabama Jubilee"-type lead.** It is the folk song usually spelled *Johnny Verbeck* or *Dunderbeck's Machine*, a comic song about a sausage-machine inventor with a long and traceable history outside camp — yet the script calls it a "Kanawana song specialty," exactly the way a borrowed song becomes a house song.
+
+The same script records where singing happened — "those zippy camp sing-songs in the dining hall, at **Farewell Rock**, around the fire-rafts on the lake, and — of course — at our Saturday Night Shows" — and names **John Pearson** as the song leader, "waving his arms at us when leading the sing-songs."^19 A 1936 broadcast adds that there was a **daily** song-and-music period after dinner at which "new songs are learned."^19
+
+## Four named songs from 1933
+
+The *Green Triangle* of 29 July 1933 describes campers singing on the way up to camp and names four songs by title — **"Marois," "The Nonsense Song," "Sea-Side"** and **"Yo Triumphy"** — alongside an unnamed "the camp song" distinct from all four.^19 "Marois" is almost certainly connected to Lake Marois and to Marois Day, the 1935 season's most anticipated event; "Yo Triumphy" is the 1922 cheer below, still in the repertoire eleven years later, which is the only continuity this article can demonstrate between the 1920s and 1930s material.
+
+**No lyrics survive for any of these.** Across the entire digitized corpus there are song *titles* and one complete *yell* text, and no camp-song lyrics whatsoever.
+
+## The Pathfinder yell (1965)
+
+This is the only complete Kanawana cheer text recovered from the corpus besides the 1922 brochure cheer. Printed in a 1965 camp publication, in capitals, with OCR damage — reconstructed here, with the raw text in the source note:^19
+
+> Tents, trails, trees and tracks,
+> Paths, paddles, pets and packs,
+> We're the boys with the strongest backs,
+> We're the boys who swing the axe.
+> Here we are, there we are,
+> Tripping men from near and far,
+> Swish, swash, splish, splash,
+> We're at Kamp to have a bash.
+> **YEA, PATHFINDERS!**
+
+The article printing it explains its function: "This yell, which was original to the Pathfinders in 1965, required maximum participation and group effort in order for it to sound really good **in the dining hall**." It gives the section's motto — "one for all and all for one" — and a closing call-and-response: "Pathfinders, ARE YOU READY?" answered "WE ARE." The dining hall was the venue for section yells generally: the 1970 season report notes a section that "seemed to act and react as one section most of the time (ie Pathfinder yell in the dining hall)," and an all-camp "Kanawana Yell" existed as early as 1932.^19
 
 ## Section Cheers
 
@@ -209,6 +252,8 @@ The Color War tradition (known at Kanawana as the L&V Games) typically includes 
 16. Concordia University Archives, static finding-aid page for sub-sub-series 12B04 (Communications) [src_concordia_ymca_fonds_12B04_finding_aid]. Direct fetch 2026-07-09: Box HA2559 (SR0001 catalog entry).
 17. YMCA of Greater Toronto blog, "Celebrating Tradition with the Pine Crest Games" [src_ymcagta_pinecrest_games].
 18. Concordia University Archives, sub-sub-series 12B07 (Program) [src_concordia_atom_12B07]. Direct fetch 2026-07-09: Box HA2315 (song sheets, song books, pageant scripts).
+
+19. Kanawana material in the Concordia-digitized YMCA of Montreal fonds: *The Lookout* Vol. 1 No. 3, autumn 1993 (Richard "Itche" Kerr's first-person account of writing the camp song) [src_ia_the_lookout_1993]; the CBM "Voice of Youth" broadcast script, 10 November 1938; the CFCF broadcast of 1936; *The Green Triangle* of 29 July 1933 and 13 August 1932; the 1965 camp publication *The Chestnut*, for the Pathfinder yell; and the *Kamp Kanawana Annual Report 1970* [src_ia_ymca_montreal_fonds_collection, src_ia_kanawana_report_1970]. *OCR note: the Pathfinder yell survives only as damaged uppercase OCR ("TENTS, FRAILS, TREES AND TRACKS, / PATHS, PADOLES, PETS AND. PACKS, / LERE THE 30YS 1TH THE STRONGEST RACKS / SE'RE THE 30S SHO S"ING THE AXE..."). The reading given above is a reconstruction; the raw text is recorded here so the reconstruction can be checked.*
 
 ## Research Notes
 

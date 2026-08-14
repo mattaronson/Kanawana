@@ -1,7 +1,7 @@
 # Traditions and Culture at Kanawana
 
-*Status: E1-reviewed | Sources: 32*
-*Last Updated: 2026-07-09 (Batch 6 research pass: itemized brochure box list and a Boy Scout provenance note for the Fire of Friendship programme found; Shawbridge Meet end-date and other Green Triangle issues re-confirmed as archive-access-only dead ends)*
+*Status: E1-reviewed | Sources: 33*
+*Last Updated: 2026-08-14*
 
 ## Overview
 
@@ -84,6 +84,16 @@ The 1922 brochure documented a 32-subject Honour System, with the Large K as the
 - **KLS (Kanawana Life Saver)**: Based on the RLSS Award of Merit
 - **The Green Triangle**: Described as "the coveted Green Triangle" in a Reader's Digest account, this award was given to campers who accomplished a specified series of feats. Charles "Smillie" Buckland was the first recipient.^19
 
+### Two lost honours, recovered 2026-08-14
+
+The season reports and camp newsletters document two further Kanawana awards that appeared nowhere in this wiki.
+
+**The Order of the Red Feather** ran from at least 1940 to at least 1965 and was tied to the Council Ring ceremonies. It worked by degrees: the *Green Triangle* of 29 July 1940 reports under "RED FEATHER TESTS PASSED" that "Alec Cherney has finally succeeded in passing his **third degree**, thus entitling him to become a full member of the Order of the Red Feather. This coveted honour is very rare indeed, and to attain it requires a good deal of hard industrious work."^24 The order survived the collapse of the camp's "Indian lore" programming: a 1965 camp publication still refers to "the man in the Red Feather" and to "a Red Feather Revue."^24 What the three degrees tested, and when the order lapsed, are undocumented.
+
+**The Golden Arrow** was instituted in 1965 — the report announcing it explains both the award and, unusually, what it was designed *not* to be: "At the closing camp fire he was presented with a 'Golden Arrow' which is an award that has been instituted at camp this summer and presented at the discretion of the staff to any boy in camp who shows extraordinary personal achievement during his stay. **This is not a 'popularity poll'** but an award that is given on recommendation only."^24 The first recipient described is a boy named Gordon — a foster child, almost totally blind, who "learned to go off the high dive at camp."
+
+Both belong to a pattern this wiki can now see across a century: Kanawana kept inventing named honours. The Large K and Altruism badge (1922–23), the Green Triangle, the Red Feather (by 1940), the Golden Arrow (1965), [[traditions/order-of-owens|the Order of Owens]] (1976), the Knights of Kanawana (1979), and the Walden Solos (1982) are seven distinct recognition systems, most of which ran for decades and then quietly stopped.
+
 ## The Pip Alumni Award
 
 The Pip Alumni Award was established in 2007 in memory of Philip "Pip" Caddell (1913–2004), a Kanawana camper in 1928, WWII Canadian Army officer, and community volunteer, and his grandson James Caddell (1973–2005), a camper and counsellor from 1983 to 1991 who became a UN Peacekeeper and public servant before dying of altitude sickness in Bolivia.^13 The award recognizes alumni who embody camp values.
@@ -93,6 +103,8 @@ Known recipients include: Richard "Itche" Kerr (2007, composer of the camp song)
 ### The Order of the Knights of Kanawana
 
 The Knights of Kanawana was proclaimed, in the charter's own words, "in this Year of Our Lord Nineteen Hundred and Eighty," establishing "a select group of Kanawanians who upon proving themselves worthy, will then become Ladies and Knights of the Land." Aspirants would be "challenged Aquatically and Terrestrially, Morally and Intellectually," judged by a council only after every challenge had been met, and invested "in a secret ceremony, at the discretion of the council." Those invested "shall retain their positions of honour forever."^32
+
+**The founding year is 1979, not 1980.** The camp's own 1988 report dates it under Programme Highlights: "**1979** Knights of Kanawana is instituted. This is a recognition of campers who have acquired an advanced level of various outdoor skills."^24 The charter's "Year of Our Lord Nineteen Hundred and Eighty" is the year the charter document was drawn up, one season after the order itself began — the same 1988 list separately dates the Order of Owens to 1976 and the **Walden Solos** to 1982 ("a programme that enables CITs to participate in a 48 hour controlled solo experience"), and adds that as of 1988 "all the programmes and activities listed here are still in effect at Kanawana." An Arthurian all-camp day, "Sir Kay, or Arthur's Lost Knight," ran in 1987 — presumably built on the Knights' framing, and rated by the director as "slightly less than mediocre."^24
 
 The charter sets out **six challenges**, documented here for the first time — the KB previously held the order's oath text and its 1980–2009 roll of knights, but not the criteria by which they were earned:^32
 
@@ -173,6 +185,7 @@ The order overlaps in membership with [[traditions/order-of-owens|the Order of O
 17. Lower Canada College history; McMorris thesis discussion of LCC–Kanawana connections.
 18. YMCA Quebec, "Carol Skinner Receives Camp YMCA Kanawana Pip Alumni Award" (2016). URL: https://www.ymcaquebec.org/en/news/als-advocate-carol-skinner-receives-camp-ymca-kanawana
 19. Reader's Digest, "Camp Shapes Lives." Charles "Smillie" Buckland account of the Green Triangle award.
+24. Kamp Kanawana season reports and newsletters in the Concordia-digitized YMCA of Montreal fonds: *The Green Triangle*, 29 July 1940 (Red Feather); the 1965 camp publication *The Chestnut* (Golden Arrow, Red Feather Revue); *Kanawana… A Place to Grow*, 1988 (founding dates for the Order of Owens, Knights of Kanawana and Walden Solos); *Kamp Kanawana Director's Report 1987* [src_ia_ymca_montreal_fonds_collection, src_ia_kanawana_place_to_grow_1988, src_ia_kanawana_report_1987].
 20. Leigh Evans blog, reflections on Camp Kanawana experience.
 21. Oral history, Matt Aronson (2026) [src_oral_aronson].
 22. YMCA Europe, "Relight the Fire: The Friendship Torch Story"; Camp Fuller Archive Project, "Camp Fuller During the Great Depression."

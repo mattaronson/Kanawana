@@ -1,6 +1,6 @@
 # Directors and Staff of Camp Kanawana
 
-*Status: E1-reviewed | Sources: 25*
+*Status: E1-reviewed | Sources: 29*
 *Last Updated: 2026-08-14*
 
 ## Summary
@@ -331,6 +331,10 @@ Rewritten 2026-08-14. **The 1947–2003 gap, which framed this project's researc
 23. "Reportage vécu," Camp YMCA Kanawana recruitment document, 2007 (Wayback, predecessor ymcakanawana.com domain) — Rob Braide testimonial [src_reportage_vecu_2007].
 24. 2006 Camp YMCA Kanawana staff application form (Wayback, predecessor domain) [src_application_2006].
 25. 2005 Camp YMCA Kanawana Parent Handbook, English (Wayback, predecessor domain) — document-author metadata [src_ymcakanawana_2005_handbook].
+26. YMCA of Montreal Annual Reports, digitized run 1856-2009, and the digitized *Green Triangle* run (Internet Archive) [src_ia_ymca_montreal_annual_reports_collection].
+27. Kamp Kanawana annual and director's reports, Internet Archive: 1964 [src_ia_kanawana_report_1964], 1965 [src_ia_kanawana_report_1965], 1966 [src_ia_kanawana_annual_report_1966], 1969 [src_ia_kanawana_report_1969], 1970 [src_ia_kanawana_report_1970], 1971 [src_ia_kanawana_report_1971], 1973 [src_ia_kanawana_report_1973], 1974 [src_ia_kanawana_report_1974], 1975 [src_ia_kanawana_report_1975], 1976 [src_ia_kanawana_directors_report_1976], 1977 [src_ia_kanawana_report_1977], 1978 [src_ia_kanawana_report_1978], 1979 [src_ia_kanawana_report_1979], 1987 [src_ia_kanawana_report_1987]. Association context from the 1967 annual report [src_ia_sgw_annual_report_1967], the news releases of 9 February 1970 [src_ia_ymca_news_release_1970_02] and January 1971 [src_ia_ymca_news_release_1971_01], and the Metropolitan Staff / Senior Management rosters 1984-2003 [src_ia_ymca_montreal_annual_reports_collection].
+28. *The Lookout*, Vol. 1 No. 3, Kanawana Alumni newsletter, autumn 1993 (Internet Archive) [src_ia_the_lookout_1993].
+29. "Kamp Kanawana History," presented at a Training Course, 6 June 1951 (Internet Archive) [src_ia_kanawana_history_1951].
 
 ## Research Notes
 

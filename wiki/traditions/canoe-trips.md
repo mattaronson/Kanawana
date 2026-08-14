@@ -34,43 +34,16 @@ Today, canoe tripping remains central to the Kanawana experience. The 2026 progr
 
 ## Sources
 
-- McMorris, Grace. *An Experience That Lasts a Lifetime: Building Modernity, Man, and Nation at the YMCA of Montreal's Kamp Kanawana, 1894-1967*. MA thesis, Concordia University, 2023. Chapter 3. [Spectrum](https://spectrum.library.concordia.ca/id/eprint/992763/)
-- Concordia University Records Management and Archives, Fonds P145, Sub-series 12K: Les Voyageurs de la Vérendrye. Includes exploratory canoe trip logs (1958), La Vérendrye Park pilot project budget (c.1959), welcome document (1960s), Lac Landron lease (1962-63), program brochure (1963), camper records (1967-1980), and review booklet (1982).
-- YMCA Kamp Kanawana Facts (undated). [Internet Archive](https://archive.org/details/ymca-kamp-kanawana-facts). Timeline confirms Voyageurs de la Vérendrye (1950s), first all-female Voyageur trip (1972), Adventurer program (1998).
-- YMCA Kamp Kanawana Facts (undated). [Internet Archive](https://archive.org/details/ymca-kamp-kanawana-facts). Confirms first female Voyageur trip (1972) and Adventurer program (1998).
-- YMCA Quebec, "Summer Camp Kanawana: Programs" (ymcaquebec.org). Confirms Voyageurs Ultimate section and ongoing canoe tripping.
-- YMCA Quebec, "Adventurers Pathfinders: Canoe-Tripping" (ymcaquebec.org, 2026). Girls and NB 13–16; La Vérendrye or river trips.
-- YMCA Quebec, "12-Day Explorers Pioneers" (ymcaquebec.org, 2026). Girls and NB 11–12; 3-4 day expedition to Papineau-Labelle Wildlife Reserve.
-- ^7 Phase 2 research (recovered June 2026): Papineau-Labelle Adventurer route ~22 km/4 days, portages 100–690 m, Lac Saint-Denis–Lac du Crochet–Lac Montjoie.
-- French Wikipedia, "Lac Landron" [src_wikipedia_lac_landron]; "Réserve faunique La Vérendrye" [src_reserve_laverendrye_history]. Radio-Canada/La Presse, SEPAQ canoe-camping administration transition, 2022 [src_radiocanada_sepaq_laverendrye_2022].
-- *A History of Kamp Kanawana* (1935). Internet Archive. Mentions "Four-day trip to Otoreke," confirming canoe trips existed by 1935.
-- Canoe-trip dining-hall plaques, photo-mined 2026-07-05 (f_1708, f_1719-f_1723): named Trippers and trip captains, 2000-2010.
+*Renumbered 2026-08-14. This list was previously an unnumbered bullet list, while the body carried numeric markers ^3–^7 — so none of those five citations resolved to anything. Only ^7 had a label, on the eighth bullet. The list is now numbered in its original order, and the markers point where the ^7 label implies they were always meant to.*
 
-### R3 Verification Notes
-
-Core timeline (1925 introduction through 1959 La Vérendrye) sourced from McMorris citing P145 season reports. Modern continuity independently confirmed via YMCA Quebec website. 1935 canoe trip existence confirmed via Internet Archive source. Specific dates (1928 director proposal, 1936 Archambault, 1950 six trips/week, 1956 northern search) are single-source from McMorris's archival citations but grounded in primary season reports.
-
-## Images
-
-![“Pop Cameron and the Canoe Trippers”](../../assets/images/historical/concordia-kanawana-5.jpg)
-*“Pop Cameron and the Canoe Trippers.” Pre-1949 photograph — public domain in Canada.*
-
-![War-canoe group, 1940-1960](../../assets/images/historical/concordia-1940-1960-warcanoegroup.jpg)
-*A war-canoe group, 1940-1960. Copyright All rights reserved by Kanawana.*
-
-![2nd-session Malibu Trip canoe board, 2001](../../assets/images/plaques/malibu-trip-2001.jpg)
-*A canoe-shaped trip board marking the “2nd session Malibu Trip 2001,” with participants' names. Copyright All rights reserved by Kanawana.*
-
-![Voyageurs trip plaque, 1998](../../assets/images/plaques/voyageurs-1998.jpg)
-*A Voyageurs trip dining-hall plaque, 1998. Copyright All rights reserved by Kanawana.*
-
-![Honour-award ribbon: Canoeing, c.1920](../../assets/images/artifacts/award-ribbon-canoeing.jpg)
-*An honour-award ribbon for Canoeing, Aquatic Dept., c.1920. Copyright All rights reserved by Kanawana.*
-
-## Open Questions
-
-- [Confirmed dead end, 2026-07-09] What routes did the earliest 1925 canoe trips follow? No source beyond McMorris's already-cited season-report citations found after 8+ additional queries.
-- Who organized the first La Vérendrye scouting expedition in 1956?
-- When did the La Vérendrye base camp transition from seasonal trips to a permanent satellite operation?
-- [Advanced, still not directly confirmed, 2026-07-09] What is the current status of the 25-acre Lac Landron lease? Is it still active? Lac Landron is confirmed to be a real lake in the Zec Capitachouane, adjacent to (not inside) La Vérendrye Wildlife Reserve proper. Circumstantial evidence suggests the lease has lapsed: canoe-camping administration in the Reserve moved to the FQCC in 1993 and to full SEPAQ control by ~2022, and current official Kanawana canoe-trip program pages make no mention of Lac Landron or any private base camp — but no source states outright that the lease ended. Confirming this would require SEPAQ or Ministère des Forêts, de la Faune et des Parcs land-lease records, not indexed online.
-- When was the formal name "Les Voyageurs de La Vérendrye" adopted and when did it fall out of common usage?
+1. McMorris, Grace. *An Experience That Lasts a Lifetime: Building Modernity, Man, and Nation at the YMCA of Montreal's Kamp Kanawana, 1894-1967*. MA thesis, Concordia University, 2023. Chapter 3. [Spectrum](https://spectrum.library.concordia.ca/id/eprint/992763/) [src_mcmorris_thesis]
+2. Concordia University Records Management and Archives, Fonds P145, Sub-series 12K: Les Voyageurs de la Vérendrye. Includes exploratory canoe trip logs (1958), La Vérendrye Park pilot project budget (c.1959), welcome document (1960s), Lac Landron lease (1962-63), program brochure (1963), camper records (1967-1980), and review booklet (1982). [src_concordia_fonds]
+3. YMCA Kamp Kanawana Facts (undated). [Internet Archive](https://archive.org/details/ymca-kamp-kanawana-facts). Timeline confirms Voyageurs de la Vérendrye (1950s), first all-female Voyageur trip (1972), Adventurer program (1998). *Caution: this same undated sheet is the source of the erroneous "1969" coeducation date corrected elsewhere in this wiki; treat its dates as institutional copy, not documentation.*
+4. YMCA Quebec, "Summer Camp Kanawana: Programs" (ymcaquebec.org). Confirms Voyageurs Ultimate section and ongoing canoe tripping.
+5. YMCA Quebec, "Adventurers Pathfinders: Canoe-Tripping" (ymcaquebec.org, 2026). Girls and NB 13–16; La Vérendrye or river trips.
+6. YMCA Quebec, "12-Day Explorers Pioneers" (ymcaquebec.org, 2026). Girls and NB 11–12; 3-4 day expedition to Papineau-Labelle Wildlife Reserve.
+7. Phase 2 research (recovered June 2026): Papineau-Labelle Adventurer route ~22 km/4 days, portages 100–690 m, Lac Saint-Denis–Lac du Crochet–Lac Montjoie.
+8. French Wikipedia, "Lac Landron" [src_wikipedia_lac_landron]; "Réserve faunique La Vérendrye" [src_reserve_laverendrye_history]. Radio-Canada/La Presse, SEPAQ canoe-camping administration transition, 2022 [src_radiocanada_sepaq_laverendrye_2022].
+9. *A History of Kamp Kanawana* (1935). Internet Archive. Mentions "Four-day trip to Otoreke," confirming canoe trips existed by 1935. [src_history_1935]
+10. Canoe-trip dining-hall plaques, photo-mined 2026-07-05 (f_1708, f_1719-f_1723): named Trippers and trip captains, 2000-2010. [src_flickr_kanawana_plaque_album]
+11. *Kamp Kanawana Director's Report 1976* [src_ia_kanawana_directors_report_1976] — records the first award of the Order of Owens to a tripper, and Derek Walsh's note that the L&V Games "interfers with the best of the tripping season."

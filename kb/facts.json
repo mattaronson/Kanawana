@@ -1,8 +1,8 @@
 {
  "version": "v4.98",
- "kb_version": "v5.25",
+ "kb_version": "v5.26",
  "migrated_from": "3.3",
- "fact_count": 2069,
+ "fact_count": 2077,
  "facts": [
   {
    "fact_id": "f_0001",
@@ -35804,6 +35804,141 @@
    "date_ref": "1977-1979",
    "conflicts_with": [],
    "added_version": "v5.25",
+   "added_by": "ralph_loop"
+  },
+  {
+   "fact_id": "f_2108",
+   "claim": "THE ORDER OF THE RED FEATHER was a Kanawana honour, previously unrecorded in this wiki, running from at least 1940 to at least 1965 and tied to the Council Ring ceremonies. It worked by degrees: the Green Triangle of 29 July 1940 reports \"Alec Cherney has finally succeeded in passing his third degree, thus entitling him to become a full member of the Order of the Red Feather. This coveted honour is very rare indeed, and to attain it requires a good deal of hard industrious work.\" It outlasted the \"Indian lore\" programming -- a 1965 camp publication still refers to \"the man in the Red Feather\" and \"A RED FEATHER REVUE\". What the three degrees tested, and when the order lapsed, are undocumented.",
+   "sources": [
+    "src_ia_ymca_montreal_fonds_collection"
+   ],
+   "confidence": "stated",
+   "category": "traditions",
+   "entities": [
+    "Order of the Red Feather",
+    "Alec Cherney"
+   ],
+   "date_ref": "1940-1965",
+   "conflicts_with": [],
+   "added_version": "v5.26",
+   "added_by": "ralph_loop"
+  },
+  {
+   "fact_id": "f_2109",
+   "claim": "THE GOLDEN ARROW was instituted at Kanawana in 1965, previously unrecorded in this wiki. The 1965 report: \"At the closing camp fire he was presented with a 'Golden Arrow' which is an award that has been instituted at camp this summer and presented at the discretion of the staff to any boy in camp who shows extraordinary personal achievment during his stay. This is not a 'popularity poll' but an award that is given on recommendation only.\" The first recipient described is a boy named Gordon, a foster child, almost totally blind, who \"learned to go off the high dive at camp\".",
+   "sources": [
+    "src_ia_ymca_montreal_fonds_collection"
+   ],
+   "confidence": "stated",
+   "category": "traditions",
+   "entities": [
+    "Golden Arrow"
+   ],
+   "date_ref": "1965",
+   "conflicts_with": [],
+   "added_version": "v5.26",
+   "added_by": "ralph_loop"
+  },
+  {
+   "fact_id": "f_2110",
+   "claim": "The Knights of Kanawana was INSTITUTED IN 1979, not 1980. The camp's 1988 report dates it under Programme Highlights: \"1979 Knights of Kanawana is instituted. This is a recognition of campers who have acquired an advanced level of various outdoor skills.\" The charter's \"Year of Our Lord Nineteen Hundred and Eighty\" dates the charter document, one season after the order began. The same list dates the Order of Owens to 1976 and the WALDEN SOLOS to 1982 (\"a programme that enables CITs to participate in a 48 hour controlled solo experience\"), and states that as of 1988 all listed programmes were still in effect.",
+   "sources": [
+    "src_ia_kanawana_place_to_grow_1988"
+   ],
+   "confidence": "stated",
+   "category": "traditions",
+   "entities": [
+    "Knights of Kanawana",
+    "Walden Solos",
+    "Order of Owens"
+   ],
+   "date_ref": "1979-1982",
+   "conflicts_with": [],
+   "added_version": "v5.26",
+   "added_by": "ralph_loop"
+  },
+  {
+   "fact_id": "f_2111",
+   "claim": "Richard \"Itche\" Kerr's own first-person account dates the camp song precisely. Writing in the alumni newsletter The Lookout in autumn 1993: \"My invitation to this year's closing banquet was written at summer's end 1977. I wrote it myself late one night with some help from three friends... Somehow, the next summer it was remembered and it has been sung every summer since.\" So: written in one night at the end of summer 1977 with three unnamed collaborators, revived 1978, annual thereafter. CAUTION: no contemporaneous 1977 or 1978 document naming Kerr as composer has been found; this 1993 memoir, sixteen years after the fact, is the sole source. Kerr was on staff in 1975, 1976 (took over the CIT program mid-summer) and 1977 (CIT Director), and ran a song workshop at pre-camp in 1992.",
+   "sources": [
+    "src_ia_the_lookout_1993",
+    "src_ia_ymca_montreal_fonds_collection"
+   ],
+   "confidence": "stated",
+   "category": "traditions",
+   "entities": [
+    "Richard Kerr",
+    "camp song"
+   ],
+   "date_ref": "1977-1978",
+   "conflicts_with": [],
+   "added_version": "v5.26",
+   "added_by": "ralph_loop"
+  },
+  {
+   "fact_id": "f_2112",
+   "claim": "The CBM radio broadcast \"The Voice of Youth\" of 10 November 1938, performed by the boys of Kanawana, gives a set list: 1. \"Kanawana Marching Song\" (a distinct title, not otherwise attested); 2. \"Hi-Ho, Hi-Ho\"; 3. \"My Old Kentucky Home\" (solo by 12-year-old Sandy Spence); 4. \"The World is Waiting for the Sunrise\" (chorus only); 5. \"Johnny Verbec\", introduced as Dick Abraham's \"Kanawana song specialty\" with guitar and called \"the sausage song\"; 6. \"Taps\". \"Johnny Verbec\" is the folk song usually spelled Johnny Verbeck / Dunderbeck's Machine -- a second borrowed-song lead of the \"Alabama Jubilee\" type. The script names John Pearson as song leader and lists the singing venues: the dining hall, Farewell Rock, around the fire-rafts on the lake, and the Saturday Night Shows.",
+   "sources": [
+    "src_ia_ymca_montreal_fonds_collection"
+   ],
+   "confidence": "stated",
+   "category": "traditions",
+   "entities": [
+    "Kanawana Marching Song",
+    "Johnny Verbec",
+    "John Pearson",
+    "Sandy Spence",
+    "Dick Abraham"
+   ],
+   "date_ref": "1938-11-10",
+   "conflicts_with": [],
+   "added_version": "v5.26",
+   "added_by": "ralph_loop"
+  },
+  {
+   "fact_id": "f_2113",
+   "claim": "Four Kanawana song titles from 1933, from the Green Triangle of 29 July: \"Marois\", \"The Nonsense Song\", \"Sea-Side\" and \"Yo Triumphy\", plus an unnamed \"the camp song\" distinct from all four. \"Yo Triumphy\" is the 1922 brochure cheer, still in the repertoire eleven years later. NO LYRICS survive for any Kanawana song anywhere in the digitized corpus -- only titles, plus one complete yell text (the 1965 Pathfinder yell).",
+   "sources": [
+    "src_ia_ymca_montreal_fonds_collection"
+   ],
+   "confidence": "stated",
+   "category": "traditions",
+   "entities": [
+    "camp song"
+   ],
+   "date_ref": "1933",
+   "conflicts_with": [],
+   "added_version": "v5.26",
+   "added_by": "ralph_loop"
+  },
+  {
+   "fact_id": "f_2114",
+   "claim": "The 1965 Pathfinder yell is the only complete Kanawana cheer text recovered from the season-report corpus besides the 1922 brochure cheer. Reconstructed from damaged uppercase OCR: \"Tents, trails, trees and tracks / Paths, paddles, pets and packs / We're the boys with the strongest backs / We're the boys who swing the axe / Here we are, there we are / Tripping men from near and far / Swish, swash, splish, splash / We're at Kamp to have a bash / YEA, PATHFINDERS!\" The article printing it says the yell \"was original to the Pathfinders in 1965, required maximum participation and group effort in order for it to sound really good in the dining hall\", gives the section motto \"one for all and all for one\", and a call-and-response closing. An all-camp \"Kanawana Yell\" existed by 1932.",
+   "sources": [
+    "src_ia_ymca_montreal_fonds_collection"
+   ],
+   "confidence": "stated",
+   "category": "traditions",
+   "entities": [
+    "Pathfinders"
+   ],
+   "date_ref": "1965",
+   "conflicts_with": [],
+   "added_version": "v5.26",
+   "added_by": "ralph_loop"
+  },
+  {
+   "fact_id": "f_2115",
+   "claim": "DEFECT FOUND AND FIXED 2026-08-14: canoe-trips.md carried numeric citation markers ^3 through ^7 in its body while its Sources section was an UNNUMBERED bullet list, so none of those five citations resolved to anything. Only ^7 had a label, attached to the eighth bullet. Pre-existing, not introduced by any recent pass, and invisible to the draft-only mechanical harness because the article is E1-reviewed. Found by extending the marker-resolution check to all 91 articles rather than the 28 drafts. The list is now numbered.",
+   "sources": [],
+   "confidence": "stated",
+   "category": "meta",
+   "entities": [
+    "canoe-trips"
+   ],
+   "date_ref": null,
+   "conflicts_with": [],
+   "added_version": "v5.26",
    "added_by": "ralph_loop"
   }
  ]
