@@ -1,8 +1,8 @@
 {
  "version": "v4.98",
- "kb_version": "v5.26",
+ "kb_version": "v5.27",
  "migrated_from": "3.3",
- "fact_count": 2086,
+ "fact_count": 2094,
  "facts": [
   {
    "fact_id": "f_0001",
@@ -36100,6 +36100,144 @@
    "date_ref": "1923-1987",
    "conflicts_with": [],
    "added_version": "v5.26",
+   "added_by": "ralph_loop"
+  },
+  {
+   "fact_id": "f_2125",
+   "claim": "The 1970 Kanawana annual report records severe erosion in the camp's own words: \"Since we use only a small area of our 1,000 acres we have finally worn all the earth away. One section (Pioneers) is eroded so badly that there is no green area over most of the section... The main areas we use 90% of the time (camp proper) do not look like a camp but a section of St. Catherine Street.\" Thirty-six years before the camp's \"green camp\" branding.",
+   "sources": [
+    "src_ia_kanawana_report_1970"
+   ],
+   "confidence": "stated",
+   "category": "environment",
+   "entities": [
+    "Kamp Kanawana"
+   ],
+   "date_ref": "1970",
+   "conflicts_with": [],
+   "added_version": "v5.27",
+   "added_by": "ralph_loop"
+  },
+  {
+   "fact_id": "f_2126",
+   "claim": "The 1987 director's report documents four camper-led restoration projects in one season -- a Junior Boys forest project with 100 seedlings, a CIT reforestation project, a CIT stair-and-retaining-wall project for erosion control, and path closures directed by camp naturalist Chris Adam -- and records acid-rain damage: \"Many of our large maples are dead or dying and the Tasses must cut more down each year. At this rate, in 5-7 years there will be no large trees left.\"",
+   "sources": [
+    "src_ia_kanawana_report_1987"
+   ],
+   "confidence": "stated",
+   "category": "environment",
+   "entities": [
+    "Kamp Kanawana",
+    "Chris Adam"
+   ],
+   "date_ref": "1987",
+   "conflicts_with": [],
+   "added_version": "v5.27",
+   "added_by": "ralph_loop"
+  },
+  {
+   "fact_id": "f_2127",
+   "claim": "Kanawana's stated land area varies by nearly a factor of seven across the record: 150 acres (1936 CFCF broadcast); 600 acres (1949-1959 annual reports); \"a sixty acre site\" (1957, almost certainly an error for 600); \"approximately 1,000 acres\" (1964, 1969, 1970) after a 1964 purchase of ~120 acres at the south end of Lake Wilson; and 455 acres land / 537 total (1989 Royal LePage figure). The 1988 report supplies the explanation: \"There was no record found that showed the Kanawana site has ever been surveyed.\"",
+   "sources": [
+    "src_ia_kanawana_place_to_grow_1988",
+    "src_ia_kanawana_report_1964",
+    "src_ia_kanawana_report_1970"
+   ],
+   "confidence": "stated",
+   "category": "site",
+   "entities": [
+    "Kamp Kanawana"
+   ],
+   "date_ref": "1936-1989",
+   "conflicts_with": [],
+   "added_version": "v5.27",
+   "added_by": "ralph_loop"
+  },
+  {
+   "fact_id": "f_2128",
+   "claim": "The 1964 Kanawana land purchase was partly defensive: lot 215 was bought JOINTLY WITH THE BOY SCOUTS' CAMP TAMARACOUTA and lots 216-217 outright, expressly to block \"a proposed summer colony of some 200 lots\" at the south end of Lake Wilson.",
+   "sources": [
+    "src_ia_kanawana_report_1964"
+   ],
+   "confidence": "stated",
+   "category": "site",
+   "entities": [
+    "Kamp Kanawana",
+    "Camp Tamaracouta",
+    "Lake Wilson"
+   ],
+   "date_ref": "1964",
+   "conflicts_with": [],
+   "added_version": "v5.27",
+   "added_by": "ralph_loop"
+  },
+  {
+   "fact_id": "f_2129",
+   "claim": "In his 1971 parting report, Camp Director James H. Turner recommended effectively abolishing Kanawana as it then existed: \"Kanawana program should focus specifically on hikes and canoe trips... this would reduce budget expenses by cutting back on all other program staff and equipment... all meals would be cooked out - just as when they are on their trip. Kanawana should move this aspect of its operation 50-100 miles further north to a smaller base camp site... buildings and program areas are no longer needed... Kanawana's present property to be used for experimental programs or rentals.\" He also recommended selling the Lac Becsie property, which WAS sold in 1986.",
+   "sources": [
+    "src_ia_kanawana_report_1971",
+    "src_ia_kanawana_place_to_grow_1988"
+   ],
+   "confidence": "stated",
+   "category": "history",
+   "entities": [
+    "James H. Turner",
+    "Camp Becsies"
+   ],
+   "date_ref": "1971",
+   "conflicts_with": [],
+   "added_version": "v5.27",
+   "added_by": "ralph_loop"
+  },
+  {
+   "fact_id": "f_2130",
+   "claim": "Kanawana hosted campers with cystic fibrosis from 1970 -- seven in the first year (3 girls, 4 boys), one of whom \"swam two miles for his double black cord\" at age 10. The 1970 report is candid about the partnership: \"Our relationship with the C.F. Association seemed shaky all through the pre-arrangements and during camp. There seemed to be no clearing house for them and everyone did pretty well what they wanted when they wanted.\" From 1986 the camp partnered with the West Island Association for the Handicapped, Giant Steps, and the Montreal Oral School for the Deaf.",
+   "sources": [
+    "src_ia_kanawana_report_1970",
+    "src_ia_kanawana_place_to_grow_1988"
+   ],
+   "confidence": "stated",
+   "category": "programs",
+   "entities": [
+    "Kamp Kanawana"
+   ],
+   "date_ref": "1970-1986",
+   "conflicts_with": [],
+   "added_version": "v5.27",
+   "added_by": "ralph_loop"
+  },
+  {
+   "fact_id": "f_2131",
+   "claim": "The 1978 Kanawana director's report is unusually candid about internal difficulty: \"In my six years at Kanawana, I don't think that I have ever written a report that talked about problems as much as this\", and \"Some staff have intimated that they feel the strictness of the Director inhibits the kamp spirit.\" Seven campers were sent home that summer -- four for drugs, two for cigarettes, one for an injury. The following year the returnee staff rate was 10%.",
+   "sources": [
+    "src_ia_kanawana_report_1978",
+    "src_ia_kanawana_report_1979"
+   ],
+   "confidence": "stated",
+   "category": "history",
+   "entities": [
+    "Derek V. Walsh",
+    "G. David Twynam"
+   ],
+   "date_ref": "1978-1979",
+   "conflicts_with": [],
+   "added_version": "v5.27",
+   "added_by": "ralph_loop"
+  },
+  {
+   "fact_id": "f_2132",
+   "claim": "PRIVACY NOTE, deliberately recorded without names: Kanawana directors named individual staff under a \"Do not re-hire\" heading in season reports that are now publicly digitized -- the 1973 report lists three people by name and gives two further paragraph-length negative character assessments naming individuals. The 1975 report records a Senior Waterfront Director \"asked to leave during the fourth session\". The EXISTENCE of the practice is recorded here as a fact about how the camp documented itself; the names are NOT extracted, per CLAUDE.md's Phase 2 rule against extracting personal information about living private individuals.",
+   "sources": [
+    "src_ia_kanawana_report_1973"
+   ],
+   "confidence": "stated",
+   "category": "meta",
+   "entities": [
+    "Kamp Kanawana"
+   ],
+   "date_ref": "1973-1975",
+   "conflicts_with": [],
+   "added_version": "v5.27",
    "added_by": "ralph_loop"
   }
  ]

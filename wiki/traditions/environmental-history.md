@@ -1,7 +1,7 @@
 # Environmental Education and Stewardship at Kanawana
 
-*Status: E1-reviewed | Sources: 32*
-*Last Updated: 2026-07-10*
+*Status: E1-reviewed | Sources: 33*
+*Last Updated: 2026-08-14*
 
 ## Overview
 
@@ -72,6 +72,38 @@ In 2018, Desjardins donated $1 million to the YMCA for renovations at Camp Kanaw
 The camp's engagement with nature is not entirely modern. The 1918 summer season offered instruction in "nature study" alongside first aid, basket-making, and camp sanitation.^13 By 1922, the camp held a chartered tribe in the Woodcraft League of America, whose nature study and outdoor skills programming embedded ecological awareness in the badge system.^17b The broader Woodcraft and nature study traditions of the early camping movement provided the philosophical groundwork for contemporary environmental education.
 
 A dedicated Nature Awareness program was created by Chris Adam (listed as "Chris Adams" in the 1980 *Ka-News*; from Vanier) in 1980, alongside new orienteering methods with a nature trail.^12 A Nature Nook / Nature Interpretation Area remains on the current site.^4 The 1980 initiatives mark the earliest identifiable moment when environmental education became a distinct programming stream rather than a diffuse element of outdoor camping.
+
+### The 1970 erosion crisis
+
+The camp's environmental awareness did not begin with the 2006 Green Shift, and its most striking early statement is a confession rather than a programme. The *Kamp Kanawana Annual Report 1970* records:^33
+
+> "Since we use only a small area of our 1,000 acres we have finally worn all the earth away. One section (Pioneers) is eroded so badly that there is no green area over most of the section… The main areas we use 90% of the time (camp proper) **do not look like a camp but a section of St. Catherine Street**."
+
+That is a camp comparing its own grounds to a downtown Montreal shopping street, in its own internal report, thirty-six years before the "green camp" branding.
+
+### 1987: restoration, and acid rain
+
+Seventeen years later the same report series documents four camper-led restoration projects in a single season — a Junior Boys forest project planting 100 seedlings, a CIT reforestation project, a CIT stair-and-retaining-wall project specifically for erosion control, and path closures directed by the camp's naturalist, **Chris Adam**.^33 The erosion problem of 1970 was being worked on by campers, which is a more interesting institutional history than a policy adopted from above.
+
+The same 1987 report records a problem the camp could not fix by itself:^33
+
+> "Many of our large maples are dead or dying and the Tassés must cut more down each year. At this rate, **in 5-7 years there will be no large trees left**."
+
+That is acid rain, at its Quebec peak, recorded from the ground by the people watching it happen. Whether the projection came true is not documented here, and would be worth checking against the present tree cover.
+
+### Land area: an unresolved discrepancy
+
+The camp's stated acreage varies by a factor of nearly seven across the record, and the 1989 document conceding the problem is the most useful one.^33
+
+| Source | Area |
+|---|---|
+| 1936 CFCF broadcast | 150 acres |
+| 1949–1959 annual reports | 600 acres |
+| 1957 annual report | "a sixty acre site" — almost certainly an OCR or typographic error for 600 |
+| 1964, 1969, 1970 reports | "approximately 1,000 acres," after a 1964 purchase of ~120 acres at the south end of Lake Wilson |
+| 1989 (Royal LePage figure, in the 1988 report) | **455 acres land, 537 acres total** |
+
+The 1964 purchase is itself notable: lot 215 was bought **jointly with the Boy Scouts' Camp Tamaracouta**, and lots 216–217 outright, expressly to block "a proposed summer colony of some 200 lots."^33 And the 1988 report contains the line that explains the whole table: **"There was no record found that showed the Kanawana site has ever been surveyed."**
 
 ## Alumni Environmental Impact
 
@@ -151,6 +183,7 @@ The Canadian Summer Camp Research Project (CSCRP, 2006–2011), conducted by the
 30. Médiaterre, "Le camp Y Kanawana poursuit sa revitalisation et son virage vert" [src_mediaterre_kanawana_2009]; Dawson College Chris Adam research page [src_dawson_chris_adam] (re-checked 2026-07-10, no named pedagogical framework found).
 31. Direct GBIF and iNaturalist API queries for the Lac Kanawana area, 2026-07-10 — geotagged observations at "Ch du Lac-Kanawana, St-Sauveur."
 32. Park Slope Parents, Camp YMCA Kanawana review, November 12, 2023 [src_parkslopeparents_2023]. Retrieved successfully 2026-07-10 after two earlier timeout attempts.
+33. Kamp Kanawana season reports in the Concordia-digitized YMCA of Montreal fonds: *Annual Report 1964* [src_ia_kanawana_report_1964], *1969* [src_ia_kanawana_report_1969], *1970* [src_ia_kanawana_report_1970], *Director's Report 1987* [src_ia_kanawana_report_1987], and *Kanawana… A Place to Grow*, 1988 [src_ia_kanawana_place_to_grow_1988]; earlier acreage figures from the YMCA of Montreal annual reports and the 1936 CFCF broadcast [src_ia_ymca_montreal_annual_reports_collection, src_ia_ymca_montreal_fonds_collection].
 
 ## Research Notes
 
