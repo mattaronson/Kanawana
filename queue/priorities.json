@@ -2948,7 +2948,9 @@
    "blocking": false,
    "assigned_weight": "P0",
    "created_at": "2026-08-14T00:00:00Z",
-   "status": "pending"
+   "status": "completed",
+   "completed_at": "2026-08-14T00:00:00Z",
+   "result": "Completed 2026-08-14. The 1947-1958 gap is named at both ends: Roy D. Locke (Camp Chief from summer 1947, camping portfolio to Sept 1954) and Murray B. Shantz (\"Assistant Metropolitan Program Secretary and Director of Kamp Kanawana\", 1955-1958). The intervening seasons remain continuity inferences. Method finding: the annual reports of 1947-1965 name no paid camp director at all -- only volunteer chairmen -- which is why earlier passes found nothing."
   },
   {
    "priority_id": "p_233",
@@ -2970,7 +2972,9 @@
    "blocking": false,
    "assigned_weight": "P1",
    "created_at": "2026-08-14T00:00:00Z",
-   "status": "pending"
+   "status": "completed",
+   "completed_at": "2026-08-14T00:00:00Z",
+   "result": "Completed 2026-08-14. The 1988-2003 record is now documented year by year from the Metropolitan Staff / Senior Management rosters: Jay Netherwood to FY1988-89, Bruce Netherwood 1989-1994 (stated outright in the 1995 report), Joanna Hoad from March 1995, Gary White 2000-2002, Morgan Carter interim 2002-03. No Kanawana season report later than 1987 exists in the digitized set."
   },
   {
    "priority_id": "p_235",
@@ -3036,7 +3040,9 @@
    "blocking": false,
    "assigned_weight": "P1",
    "created_at": "2026-08-14T00:00:00Z",
-   "status": "pending"
+   "status": "completed",
+   "completed_at": "2026-08-14T00:00:00Z",
+   "result": "Completed 2026-08-14 for the identification half: Geoff Anderson, James H. Turner and Leo J. Robitaille now have documented YMCA careers before and after Kanawana, and Jay Netherwood is documented 1986-1989. Standalone stubs not yet spawned -- see the new priority for that."
   },
   {
    "priority_id": "p_241",
@@ -3047,7 +3053,9 @@
    "blocking": false,
    "assigned_weight": "P1",
    "created_at": "2026-08-14T00:00:00Z",
-   "status": "pending"
+   "status": "completed",
+   "completed_at": "2026-08-14T00:00:00Z",
+   "result": "Completed 2026-08-14, SETTLED: Walsh was the on-site director throughout 1976-1978. Four independent proofs, including the 1978 staff roster aligning his name to \"Camp Director\" and his 5 Feb 1979 resignation letter opening \"my last letter to you as director of Kamp Kanawana\". A. Ross Seaman used the identical \"Director of Camping\" title while running the camp a decade earlier."
   },
   {
    "priority_id": "p_242",
@@ -3057,6 +3065,127 @@
    "article_id": null,
    "blocking": false,
    "assigned_weight": "P0",
+   "created_at": "2026-08-14T00:00:00Z",
+   "status": "pending"
+  },
+  {
+   "priority_id": "p_243",
+   "rank": 243,
+   "type": "VERIFY",
+   "description": "Resolve conflict c_025 (L&V 1966): the season report says Voyageurs, the trophy shield says Lumbermen. Likeliest explanation is a TRANSCRIPTION error on our side -- the roll was read off photographs of a trophy partly obscured by a crossed paddle and axe. ONE LOOK AT THE PHYSICAL TROPHY SETTLES IT, and the operator has access. If the report is right, standings become 40-38 not 41-37 and every derived figure shifts. Note that 1977, 1978 and 1993 all match the trophy exactly, so this is one discordant entry, not a general reliability problem.",
+   "article_id": "lv-games",
+   "blocking": true,
+   "assigned_weight": "P0",
+   "created_at": "2026-08-14T00:00:00Z",
+   "status": "pending"
+  },
+  {
+   "priority_id": "p_244",
+   "rank": 244,
+   "type": "RESEARCH",
+   "description": "Read every surviving Kanawana season report for its L&V result. The digitized run covers 1964-1979 and 1987, plus Green Triangle and Ka-News issues. Four years are done (1966, 1977, 1978, 1993); up to a dozen more are available and would independently corroborate or challenge the trophy roll. NOTE a searched-and-found-nothing result already recorded: the 1961 SGW report covers the Kanawana season but drops the \"Lumberman-Voyageur Day\" phrase the 1960 report used and gives no result, and the 1962 report has no Kanawana programme narrative at all.",
+   "article_id": "lv-games",
+   "blocking": false,
+   "assigned_weight": "P0",
+   "created_at": "2026-08-14T00:00:00Z",
+   "status": "pending"
+  },
+  {
+   "priority_id": "p_245",
+   "rank": 245,
+   "type": "RESEARCH",
+   "description": "Locate The Lookout issues 1 and 2, and any 1994 centennial issues. Only Vol.1 No.3 (autumn 1993) is digitized, and it alone yielded Itche Kerr's first-person account of writing the camp song, the only source for Tom Potts as 1972 director, the 1993 L&V result, and the Maureen McBride memorial. The newsletter gives a contact address and phone and names dozens of alumni contributors. A centennial issue would be the richest single document available.",
+   "article_id": null,
+   "blocking": false,
+   "assigned_weight": "P0",
+   "created_at": "2026-08-14T00:00:00Z",
+   "status": "pending"
+  },
+  {
+   "priority_id": "p_246",
+   "rank": 246,
+   "type": "RESEARCH",
+   "description": "The Gas Bag: the digitized \"Extra, Vol. 13 No. 1\" implies twelve prior volumes, i.e. roughly 1911-1923 of the camp paper. Only two Gas Bag items are digitized. Locating the earlier run would attack the 1902-1920 director gap, the earliest traditions, and the founding period directly.",
+   "article_id": null,
+   "blocking": false,
+   "assigned_weight": "P0",
+   "created_at": "2026-08-14T00:00:00Z",
+   "status": "pending"
+  },
+  {
+   "priority_id": "p_247",
+   "rank": 247,
+   "type": "RESEARCH",
+   "description": "The Green Triangle has a 36-year hole in the digitized run: issues exist for 1932-1940 and 1976-1982, with NOTHING between. The 1947 volume would document the Lumbermen-Voyageurs origin contemporaneously rather than through the 1988 retrospective, and the 1940s-50s issues would attack the 1947-1958 director gap.",
+   "article_id": null,
+   "blocking": false,
+   "assigned_weight": "P0",
+   "created_at": "2026-08-14T00:00:00Z",
+   "status": "pending"
+  },
+  {
+   "priority_id": "p_248",
+   "rank": 248,
+   "type": "RESEARCH",
+   "description": "The 1969 camper drowning: find the name and date. Recorded in the Kanawana annual report as \"the tragic drowing of one of our campers this Summer\" with no further detail. Quebec coroner records, the Montreal Star and Gazette for summer 1969, and Concordia's physical Kanawana holdings are the routes. Handle with care -- a child's death, family very possibly living. Establish the facts; decide publication separately with the operator.",
+   "article_id": "postwar-gap",
+   "blocking": false,
+   "assigned_weight": "P0",
+   "created_at": "2026-08-14T00:00:00Z",
+   "status": "pending"
+  },
+  {
+   "priority_id": "p_249",
+   "rank": 249,
+   "type": "RESEARCH",
+   "description": "Two physical artifacts worth photographing or tracing at camp. (1) The dining hall's \"striking, large fireplace mural\" of the Lumbermen/Voyageur motif, described in the 1950 annual report and absent from every modern description of the room -- did it survive? (2) \"The ancient plaques that haunt the dining hall\", per the 1993 alumni newsletter.",
+   "article_id": null,
+   "blocking": false,
+   "assigned_weight": "P1",
+   "created_at": "2026-08-14T00:00:00Z",
+   "status": "pending"
+  },
+  {
+   "priority_id": "p_250",
+   "rank": 250,
+   "type": "ARTICLE",
+   "description": "Spawn stubs for Roy D. Locke, Murray B. Shantz, Geoff Anderson, James H. Turner and Leo J. Robitaille. All five now clear the Article Spawning Threshold (named person who held a camp role, 3+ facts each) and all five are currently table rows with no article. Locke is the strongest candidate: Camp Chief 1947, camping branch executive 1970-72, still on Metropolitan Staff in 1986 -- a forty-year YMCA career.",
+   "article_id": null,
+   "blocking": false,
+   "assigned_weight": "P0",
+   "created_at": "2026-08-14T00:00:00Z",
+   "status": "pending"
+  },
+  {
+   "priority_id": "p_251",
+   "rank": 251,
+   "type": "RESEARCH",
+   "description": "For the ORAL HISTORY INSTRUMENT (p_045 Chopsy). The documentary record on Chopsy is now EXHAUSTED: zero hits across all 634 digitized text items. But two findings reframe the question. (1) \"The Cave\" in the legend is a real camp building doing exactly what the story says -- the 1987 report has it as the hike-and-trip equipment store. (2) The Haunted House is documented 1928-1940 with its own ghost legend and its own rule (spirits appear only when the wind is from the east and the moon and stars invisible), and stops just before Chopsy's stated 1945 origin. ASK: is Chopsy a successor to, or renaming of, the Haunted House ghost? Also ask about \"the deserted village\" the 1933 newsletter has campers passing en route.",
+   "article_id": "myths-and-legends",
+   "blocking": false,
+   "assigned_weight": "P0",
+   "created_at": "2026-08-14T00:00:00Z",
+   "status": "pending"
+  },
+  {
+   "priority_id": "p_252",
+   "rank": 252,
+   "type": "RESEARCH",
+   "description": "Sweep the remaining ~570 unread text items in the ymca-montreal-fonds collection systematically rather than by targeted query. Two agents working specific questions found the Order of Owens origin, five directors, two lost camp honours, a camper fatality, a first-person founding memoir and the coeducation delay -- all incidentally. A systematic pass over what has never been opened is likely to be more productive than any further targeted search.",
+   "article_id": null,
+   "blocking": false,
+   "assigned_weight": "P0",
+   "created_at": "2026-08-14T00:00:00Z",
+   "status": "pending"
+  },
+  {
+   "priority_id": "p_253",
+   "rank": 253,
+   "type": "INGEST",
+   "description": "Two cataloguing defects to work around and, if possible, report to Concordia/IA: (1) \"sgw-ymca-annual-report-1990-1991\" and \"-1991-1992\" hold 1890-91 and 1891-92 content -- misdated by a century, and the 1890-91 one announces W. H. Ball's hiring; (2) the Kanawana orienteering map catalogued as 1974 is internally c.1978-1982 (it shows Katimavik, the sauna and the Grand Portage). Anyone searching that collection by date will miss or misdate these.",
+   "article_id": null,
+   "blocking": false,
+   "assigned_weight": "P1",
    "created_at": "2026-08-14T00:00:00Z",
    "status": "pending"
   }
