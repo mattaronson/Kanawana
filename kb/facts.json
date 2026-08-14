@@ -37020,6 +37020,59 @@
    "conflicts_with": [],
    "added_version": "v5.34",
    "added_by": "ralph_loop"
+  },
+  {
+   "fact_id": "f_2179",
+   "claim": "MATERIAL QUALIFICATION to the p_255 'Camp Jubilee' null: while the name appears in only one of the 634 digitized corpus items, it IS the name used by CONCORDIA'S OWN ARCHIVAL DESCRIPTION of the YMCA of Montreal fonds -- sub-series 'P0145/12L - Lac St-Joseph/Camp Jubilee', and a series description reading 'Season reports of the Junior Camp (Camp Jubilee/Otoreke)'. QAHN uses it too: 'That camp, called Camp Jubilee after the fiftieth anniversary of the YMCA'. So the name is the received archival and heritage-sector name for the site, not a wiki invention -- it simply has no attestation in the association's own 1894-1909 records.",
+   "sources": [
+    "src_concordia_atom_kanawana",
+    "src_qahn_howard"
+   ],
+   "confidence": "stated",
+   "category": "naming",
+   "entities": [
+    "Camp Jubilee"
+   ],
+   "date_ref": "1894-2026",
+   "conflicts_with": [],
+   "added_version": "v5.34",
+   "added_by": "ralph_loop"
+  },
+  {
+   "fact_id": "f_2180",
+   "claim": "The camp's two in-house histories do NOT use the name 'Camp Jubilee' either. The 1935 'A History of Kamp Kanawana' does not contain the word; the 1951 'Kamp Kanawana History' says only that 'After much searching a site was chosen on Lac St. Joseph at Ste [Agathe]' -- wording which is itself consistent with the Lac la Croix site-selection sequence recorded in the 1919 memoir.",
+   "sources": [
+    "src_ia_kanawana_history_1951",
+    "src_history_1935"
+   ],
+   "confidence": "stated",
+   "category": "naming",
+   "entities": [
+    "Camp Jubilee"
+   ],
+   "date_ref": "1935-1951",
+   "conflicts_with": [],
+   "added_version": "v5.34",
+   "added_by": "ralph_loop"
+  },
+  {
+   "fact_id": "f_2181",
+   "claim": "QAHN dates the renaming of Camp Jubilee to Camp Otoreke to 1909; the camp's own 1988 retrospective dates it to 1910. Both postdate the events by decades and neither is corroborated by a contemporaneous document; the earliest corpus attestation of 'Otoreke' is the 1921-22 Annual Report.",
+   "sources": [
+    "src_qahn_howard",
+    "src_ia_kanawana_place_to_grow_1988",
+    "src_ia_ymca_montreal_annual_reports_collection"
+   ],
+   "confidence": "disputed",
+   "category": "naming",
+   "entities": [
+    "Camp Otoreke",
+    "Camp Jubilee"
+   ],
+   "date_ref": "1909-1922",
+   "conflicts_with": [],
+   "added_version": "v5.34",
+   "added_by": "ralph_loop"
   }
  ]
 }
