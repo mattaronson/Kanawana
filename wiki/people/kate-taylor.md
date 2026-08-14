@@ -5,11 +5,13 @@
 
 ## Overview
 
-Kate Taylor, known by the camp alias "Wawa," served as on-site Director of Camp Kanawana from 2013 until partway through the 2023 season, under Executive Directors Sean Day and later Marie-Pierre Lacasse. She led the camp through both the 2020 and 2021 COVID-19 closures and introduced a gender-expansive sleeping option for transgender, non-binary, and gender-questioning campers.
+Kate Taylor, known by the camp alias "Wawa,"^4 served as on-site Director of Camp Kanawana from 2013 until partway through the 2023 season, under Executive Directors Sean Day and later Marie-Pierre Lacasse. She led the camp through both the 2020 and 2021 COVID-19 closures and introduced a gender-expansive sleeping option for transgender, non-binary, and gender-questioning campers.
 
 ## Background and Directorship (2013–2023)
 
-Taylor holds an Honours BA in Psychology from Trent University in Peterborough, Ontario, and previously directed Camp Ta-Wa-Si Inc., a camp founded in 1940 at Johnston's Point on New Brunswick's Northumberland Strait.^1 She also served as Consultant & Graphic Designer at Stephane Richard Development Consulting, concurrent with or adjacent to her Kanawana tenure.^1 ^2 Taylor was Director during both the 2020 and 2021 COVID-19 closure decisions, and was quoted in a 2021 Montreal Gazette article on the camp's closure.^3 She left partway through the 2023 season, after the third session, and was succeeded on-site for the remainder of that summer by Kevin Slezak, previously her Assistant Director.^4
+Taylor holds an Honours BA in Psychology from Trent University in Peterborough, Ontario, and previously directed Camp Ta-Wa-Si Inc. in New Brunswick.^1 (The camp's 1940 founding date and Johnston's Point location, previously stated here, are not supported by the cited LinkedIn source and have been removed pending a source that carries them.) She also served as Consultant & Graphic Designer at Stephane Richard Development Consulting.^1 (Whether that role ran concurrently with her Kanawana tenure is not stated by any cited source and is no longer asserted here.) Taylor was Director during both the 2020 and 2021 COVID-19 closure decisions, and was quoted in a 2021 Montreal Gazette article on the camp's closure.^3 She left partway through the 2023 season, after the third session, and was succeeded on-site for the remainder of that summer by Kevin Slezak, previously her Assistant Director.^4
+
+**Her 2013 start overlaps a documented Nicolas Garcia span.** [[people/nicolas-garcia|Nicolas Garcia]] is recorded in the on-site role through March 2014 via the camp's own archived contact pages, so the two accounts overlap by roughly a year — logged as conflict **c_022** and deliberately not resolved by shortening either range. One economical reading is that Garcia's 2012 title change to "Coordonnateur du camp de vacances" marks him moving out of the directorship while remaining on staff, which would dissolve the overlap; that is testable against the 2013–2014 archived contact pages but has not been checked.
 
 ## Gender-Inclusive Programming
 

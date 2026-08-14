@@ -11,6 +11,8 @@ Marie-Pierre Lacasse has served as Executive Director of Camp Kanawana since spr
 
 Lacasse holds a BA in Leisure Sciences from Concordia University (2004–2006) and also studied at Université Laval.^1 She is a certified Leave No Trace Master Educator, Wilderness First Responder, and Red Cross First Aid Monitor.^1 Her career includes Wilderness Safety Systems (Assistant Director, 2007–2012), Camp Boisjoli (Directrice générale, 2011–2014), Camp Odyssée/Minogami (Director, 2014–2015), and Camp Portneuf (Directrice générale, 2015–2018), along with roles at Loisirs Saint-Sacrement, Domaine du Lac bleu, and the Unité de loisir et de sport de la Capitale-Nationale.^1 At Camp Portneuf in 2018 she launched the first ADHD-adapted summer camp in the greater Quebec City region, collaborating with Lyne Guillemette of the Panda Association.^2
 
+
+Her earlier Kanawana role is documented by YMCA Quebec's own team page, which records her as director of expeditions at the camp from 2007 to 2010, before a thirteen-year break and her 2023 return.^6
 ## Return to Kanawana (2023–present)
 
 Lacasse became Executive Director of Camp Kanawana in spring 2023.^3 In 2024 she oversaw the launch of "Aventure à Kanawana" (Kanawana Adventure) — the first day camp in the camp's 130-year history, an English-immersion program for ages 5 to 12 with a maximum capacity of 48 children and shuttle service from Saint-Sauveur.^4 ^5 Her own YMCA Quebec team-page bio titles her "Director, Camp YMCA Kanawana," a Kanawana-specific title distinct from the org-wide "Directeur principal, Les YMCA du Québec" title that appears on LinkedIn; the discrepancy between the two titles is unexplained.^6

@@ -7858,6 +7858,12 @@
           "at": "2026-07-11T00:00:00Z",
           "by": "auto",
           "task": "WRITE"
+        },
+        {
+          "status": "draft",
+          "at": "2026-08-14T00:00:00Z",
+          "by": "auto",
+          "task": "VERIFY"
         }
       ],
       "ralph_loops_completed": 1,
@@ -7885,8 +7891,8 @@
         "sean-day"
       ],
       "file_id": null,
-      "word_count": 313,
-      "notes": "2026-07-11: Workstream C (institutional-role director) spawn, split from directors-index.md Two-Tier Era On-Site Directors table. No new research conducted.",
+      "word_count": 418,
+      "notes": "2026-07-11: Workstream C (institutional-role director) spawn, split from directors-index.md Two-Tier Era On-Site Directors table. No new research conducted. | 2026-08-14 p_223: applied the Two-Tier Era BLOCKING fixes from the p_218 audit (Gary White tier conflation per resolved c_015; Leduc chronology; uncited load-bearing claims; Garcia/Taylor overlap raised as c_022).",
       "tags": {
         "era": [
           "2000s"
@@ -7915,6 +7921,12 @@
           "at": "2026-07-11T00:00:00Z",
           "by": "auto",
           "task": "WRITE"
+        },
+        {
+          "status": "draft",
+          "at": "2026-08-14T00:00:00Z",
+          "by": "auto",
+          "task": "VERIFY"
         }
       ],
       "ralph_loops_completed": 1,
@@ -7945,8 +7957,8 @@
         "lv-games"
       ],
       "file_id": null,
-      "word_count": 358,
-      "notes": "2026-07-11: Workstream C (institutional-role director) spawn, split from directors-index.md Two-Tier Era Executive Directors table. No new research conducted.",
+      "word_count": 417,
+      "notes": "2026-07-11: Workstream C (institutional-role director) spawn, split from directors-index.md Two-Tier Era Executive Directors table. No new research conducted. | 2026-08-14 p_223: applied the Two-Tier Era BLOCKING fixes from the p_218 audit (Gary White tier conflation per resolved c_015; Leduc chronology; uncited load-bearing claims; Garcia/Taylor overlap raised as c_022).",
       "tags": {
         "era": [
           "2000s",
@@ -7977,6 +7989,12 @@
           "at": "2026-07-11T00:00:00Z",
           "by": "auto",
           "task": "WRITE"
+        },
+        {
+          "status": "draft",
+          "at": "2026-08-14T00:00:00Z",
+          "by": "auto",
+          "task": "VERIFY"
         }
       ],
       "ralph_loops_completed": 1,
@@ -8012,8 +8030,8 @@
         "coeducation-gender"
       ],
       "file_id": null,
-      "word_count": 326,
-      "notes": "2026-07-11: Workstream C (institutional-role director) spawn, split from directors-index.md Two-Tier Era On-Site Directors table. No new research conducted. One fact (f_1109) cites a genuinely un-cached source_id (src_ymca_kanawana_town_hall, no obvious real equivalent) -- deliberately left uncited, flagged as a KB cleanup item.",
+      "word_count": 481,
+      "notes": "2026-07-11: Workstream C (institutional-role director) spawn, split from directors-index.md Two-Tier Era On-Site Directors table. No new research conducted. One fact (f_1109) cites a genuinely un-cached source_id (src_ymca_kanawana_town_hall, no obvious real equivalent) -- deliberately left uncited, flagged as a KB cleanup item. | 2026-08-14 p_223: applied the Two-Tier Era BLOCKING fixes from the p_218 audit (Gary White tier conflation per resolved c_015; Leduc chronology; uncited load-bearing claims; Garcia/Taylor overlap raised as c_022).",
       "tags": {
         "era": [
           "2010s",
@@ -8584,6 +8602,12 @@
           "at": "2026-07-11T00:00:00Z",
           "by": "auto",
           "task": "WRITE"
+        },
+        {
+          "status": "draft",
+          "at": "2026-08-14T00:00:00Z",
+          "by": "auto",
+          "task": "VERIFY"
         }
       ],
       "ralph_loops_completed": 1,
@@ -8618,8 +8642,8 @@
         "directors-index"
       ],
       "file_id": null,
-      "word_count": 601,
-      "notes": "2026-07-11: Spawned per operator's direct authorization revising the C5 privacy policy (see plan file Status Update). Subject is also this KB's own primary oral-history source -- a novel situation flagged transparently in Research Notes. Per operator's explicit instruction, personal/family detail from f_0566 (wife, daughters, neighborhood) deliberately excluded even though he published it himself; article covers camp history and public/professional role only. No new research conducted.",
+      "word_count": 670,
+      "notes": "2026-07-11: Spawned per operator's direct authorization revising the C5 privacy policy (see plan file Status Update). Subject is also this KB's own primary oral-history source -- a novel situation flagged transparently in Research Notes. Per operator's explicit instruction, personal/family detail from f_0566 (wife, daughters, neighborhood) deliberately excluded even though he published it himself; article covers camp history and public/professional role only. No new research conducted. | 2026-08-14 p_223: applied the Two-Tier Era BLOCKING fixes from the p_218 audit (Gary White tier conflation per resolved c_015; Leduc chronology; uncited load-bearing claims; Garcia/Taylor overlap raised as c_022).",
       "tags": {
         "era": [
           "1980s",
@@ -8797,6 +8821,12 @@
           "at": "2026-07-11T00:00:00Z",
           "by": "auto",
           "task": "WRITE"
+        },
+        {
+          "status": "draft",
+          "at": "2026-08-14T00:00:00Z",
+          "by": "auto",
+          "task": "VERIFY"
         }
       ],
       "ralph_loops_completed": 1,
@@ -8817,8 +8847,8 @@
         "modern-era"
       ],
       "file_id": null,
-      "word_count": 341,
-      "notes": "2026-07-11: Spawned per operator's revised C5 policy. No new research conducted.",
+      "word_count": 444,
+      "notes": "2026-07-11: Spawned per operator's revised C5 policy. No new research conducted. | 2026-08-14 p_223: applied the Two-Tier Era BLOCKING fixes from the p_218 audit (Gary White tier conflation per resolved c_015; Leduc chronology; uncited load-bearing claims; Garcia/Taylor overlap raised as c_022).",
       "tags": {
         "era": [
           "2000s",
@@ -8847,6 +8877,12 @@
           "at": "2026-07-11T00:00:00Z",
           "by": "auto",
           "task": "WRITE"
+        },
+        {
+          "status": "draft",
+          "at": "2026-08-14T00:00:00Z",
+          "by": "auto",
+          "task": "VERIFY"
         }
       ],
       "ralph_loops_completed": 1,
@@ -8861,7 +8897,8 @@
       "sources_cited": [
         "src_oral_aronson",
         "src_wayback_ymcamontreal_annualreport_2002_2003",
-        "src_ymcaquebec_annualreport_2011"
+        "src_ymcaquebec_annualreport_2011",
+        "src_flickr_kanawana_plaque_album"
       ],
       "open_questions": 2,
       "cross_links": [
@@ -8871,8 +8908,8 @@
         "modern-era"
       ],
       "file_id": null,
-      "word_count": 304,
-      "notes": "2026-07-11: Spawned per operator's revised C5 policy. No new research conducted.",
+      "word_count": 391,
+      "notes": "2026-07-11: Spawned per operator's revised C5 policy. No new research conducted. | 2026-08-14 p_223: applied the Two-Tier Era BLOCKING fixes from the p_218 audit (Gary White tier conflation per resolved c_015; Leduc chronology; uncited load-bearing claims; Garcia/Taylor overlap raised as c_022).",
       "tags": {
         "era": [
           "2000s",
@@ -8901,6 +8938,12 @@
           "at": "2026-07-11T00:00:00Z",
           "by": "auto",
           "task": "WRITE"
+        },
+        {
+          "status": "draft",
+          "at": "2026-08-14T00:00:00Z",
+          "by": "auto",
+          "task": "VERIFY"
         }
       ],
       "ralph_loops_completed": 1,
@@ -8914,7 +8957,8 @@
       ],
       "sources_cited": [
         "src_oral_aronson",
-        "src_wayback_ymcamontreal_annualreport_2003_2004"
+        "src_wayback_ymcamontreal_annualreport_2003_2004",
+        "src_ymcakanawana_2005_handbook"
       ],
       "open_questions": 2,
       "cross_links": [
@@ -8924,8 +8968,8 @@
         "modern-era"
       ],
       "file_id": null,
-      "word_count": 339,
-      "notes": "2026-07-11: Spawned per operator's revised C5 policy. No new research conducted.",
+      "word_count": 360,
+      "notes": "2026-07-11: Spawned per operator's revised C5 policy. No new research conducted. | 2026-08-14 p_223: applied the Two-Tier Era BLOCKING fixes from the p_218 audit (Gary White tier conflation per resolved c_015; Leduc chronology; uncited load-bearing claims; Garcia/Taylor overlap raised as c_022).",
       "tags": {
         "era": [
           "1990s",
@@ -8954,6 +8998,12 @@
           "at": "2026-07-11T00:00:00Z",
           "by": "auto",
           "task": "WRITE"
+        },
+        {
+          "status": "draft",
+          "at": "2026-08-14T00:00:00Z",
+          "by": "auto",
+          "task": "VERIFY"
         }
       ],
       "ralph_loops_completed": 1,
@@ -8981,8 +9031,8 @@
         "modern-era"
       ],
       "file_id": null,
-      "word_count": 322,
-      "notes": "2026-07-11: Spawned per operator's revised C5 policy. No new research conducted.",
+      "word_count": 358,
+      "notes": "2026-07-11: Spawned per operator's revised C5 policy. No new research conducted. | 2026-08-14 p_223: applied the Two-Tier Era BLOCKING fixes from the p_218 audit (Gary White tier conflation per resolved c_015; Leduc chronology; uncited load-bearing claims; Garcia/Taylor overlap raised as c_022).",
       "tags": {
         "era": [
           "2000s",

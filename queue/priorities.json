@@ -2835,8 +2835,10 @@
       "blocking": false,
       "assigned_weight": "P1",
       "created_at": "2026-08-12T00:00:00Z",
-      "status": "pending",
-      "notes": "Fixing the White conflation requires the same decision applied consistently across david-leduc.md, morgan-carter.md AND directors-index.md:59 (which is E1-reviewed -- see p_227)."
+      "status": "completed",
+      "notes": "Fixing the White conflation requires the same decision applied consistently across david-leduc.md, morgan-carter.md AND directors-index.md:59 (which is E1-reviewed -- see p_227).",
+      "completed_at": "2026-08-14T00:00:00Z",
+      "result": "All 11 BLOCKING Two-Tier Era findings applied. Core fix: conflict c_015 was resolved 2026-07-07 but its resolution had never been propagated -- david-leduc.md and morgan-carter.md both credited Gary White as Executive Director for years after his documented FY2001-2002 tenure, and morgan-carter.md contradicted itself within one article. Both now state the honest answer for 2003-2004: NO Executive Director is documented. Also fixed: Leduc's Oxfam role reframed from 'After Kanawana' (chronologically impossible -- it ended 2002, two years before his 2004 directorship) to before it; morgan-carter's load-bearing 2003 plaque corroboration cited and its source added; arleen-boyer's 'five years' arithmetic corrected to three-to-four and the 2005 handbook claim cited; marie-pierre-lacasse's 2007-2010 expeditions role moved from an uncited Overview into the cited body; kate-taylor's 'Wawa' alias cited, and two claims her LinkedIn source cannot support (Camp Ta-Wa-Si's 1940 founding and location; concurrency of her consulting role) removed rather than left; justin-caldwell's 2026 overclaim narrowed to what the 2025 guide actually confirms and an unsourced head-office gloss dropped. NEW CONFLICT c_022 raised for the Garcia/Taylor 2013-2014 overlap -- surfaced in both articles, deliberately NOT resolved by shortening either range. Notes the most economical reading (Garcia's 2012 title change to 'Coordonnateur du camp de vacances' marking him stepping out of the directorship) and that it is testable against the 2013-2014 archived contact pages. Kristen Whitelaw's April 2015 appearance flagged as needing explanation under any reading. matt-aronson.md's Program Director role flagged as missing from the index (p_227)."
     },
     {
       "priority_id": "p_224",
