@@ -1,8 +1,8 @@
 {
   "version": "v4.98",
-  "kb_version": "v5.15",
+  "kb_version": "v5.16",
   "migrated_from": "3.3",
-  "fact_count": 1978,
+  "fact_count": 1981,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -34223,6 +34223,57 @@
       "date_ref": "1947-2026",
       "conflicts_with": [],
       "added_version": "v5.15",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_2017",
+      "claim": "As of 2026 the Lumbermen lead the all-time L&V series by three (41-38) if the unknown 1961 season went to the Voyageurs, or by five (42-37) if it went to the Lumbermen. Because each season moves the margin by one, the earliest the Voyageurs could level the series is 2029 (three straight wins, 2027-2029) under the first reading, or 2031 (five straight) under the second -- the latter requiring the longest winning run by either team in the history of the Games.",
+      "sources": [
+        "src_photo_lv_annual_trophy",
+        "src_oral_aronson_lv_trophy_gaps_2026"
+      ],
+      "confidence": "inferred",
+      "category": "traditions",
+      "entities": [
+        "L&V Games"
+      ],
+      "date_ref": "2027-2031",
+      "conflicts_with": [],
+      "added_version": "v5.16",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_2018",
+      "claim": "The unknown 1961 shield displaces every running series total from 1961 onward by one win. If 1961 went to the Voyageurs, the all-time series has stood level thirteen times, most recently after the remote 2020 Games, and the Voyageurs led the series outright during part of the 1960s, reaching a best margin of -3 in 1963. If it went to the Lumbermen, the series has not been level since 1964 and the Voyageurs have never led by more than two (1948).",
+      "sources": [
+        "src_photo_lv_annual_trophy",
+        "src_oral_aronson_lv_trophy_gaps_2026"
+      ],
+      "confidence": "inferred",
+      "category": "traditions",
+      "entities": [
+        "L&V Games"
+      ],
+      "date_ref": "1961-2026",
+      "conflicts_with": [],
+      "added_version": "v5.16",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_2019",
+      "claim": "CORRECTION to an earlier statement in this KB: the claim that the Voyageurs led the all-time L&V series only in its first two seasons was an artifact of omitting the unknown 1961 season from the running count rather than treating it as an unknown displacing all subsequent totals. The claim is false under either reading of 1961 -- the Voyageurs led in nine seasons spanning 1947-1967 if 1961 was theirs, or four spanning 1947-1963 if not.",
+      "sources": [
+        "src_photo_lv_annual_trophy",
+        "src_oral_aronson_lv_trophy_gaps_2026"
+      ],
+      "confidence": "stated",
+      "category": "traditions",
+      "entities": [
+        "L&V Games"
+      ],
+      "date_ref": "1947-1967",
+      "conflicts_with": [],
+      "added_version": "v5.16",
       "added_by": "manual"
     }
   ]

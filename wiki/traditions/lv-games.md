@@ -67,28 +67,37 @@ Four seasons is the longest run either side has managed, and it has happened fou
 
 ### The balance of the series
 
-The near-even final tally conceals a series that has swung considerably. Tracking the Lumbermen's running lead season by season:
+The near-even final tally conceals a series that has swung considerably. **Every running total from 1961 onward depends on the one unread shield**, so the figures below are given both ways — the single unknown season shifts the entire subsequent series by one win in one direction or the other.
 
-| Point | Lumbermen lead |
-|---|---|
-| 1948 | −2 *(Voyageurs' largest lead ever)* |
-| 1963 | −2 |
-| 1971 | +4 |
-| **1978** | **+7 — the Lumbermen's high-water mark** |
-| 1982 | +3 |
-| 1991 | +6 |
-| 1995 | +2 |
-| 1998 | +1 |
-| 2002 | +1 |
-| 2009 | +4 |
-| 2020 | +1 |
-| 2026 | +4 |
+| Point | If 1961 = Voyageurs | If 1961 = Lumbermen |
+|---|---|---|
+| 1948 | −2 | −2 |
+| 1963 | **−3** *(Voyageurs' best)* | −1 |
+| 1978 | +6 *(Lumbermen's best)* | **+8** *(Lumbermen's best)* |
+| 1995 | +1 | +3 |
+| 1998 | **0 — level** | +2 |
+| 2009 | +3 | +5 |
+| 2020 | **0 — level** | +2 |
+| 2026 | **+3** | **+5** |
 
-The Voyageurs have led the all-time series only in its first two seasons. From there the Lumbermen built steadily to a **+7 lead by 1978** — winning 19 of the first 31 seasons. What followed was the Voyageurs' great recovery: **between 1979 and 1995 they took 11 of 17 seasons**, cutting the deficit from seven to two, and by 1998 to a single win. The series then sat within one or two wins for two decades before the Lumbermen pulled clear again, winning three straight from 2022 and taking 2026 to restore a +4 margin.
+The shape is the same under either reading. The Lumbermen built a commanding lead through the first three decades, peaking in 1978 after winning 19 of the first 31 seasons. The Voyageurs then mounted their great recovery, **taking 11 of 17 seasons between 1979 and 1995**, and the series has been close ever since — until the Lumbermen pulled clear again with three straight from 2022 plus 2026.
+
+What the 1961 shield changes is not the shape but the drama. **If it went to the Voyageurs, the series has been level thirteen times, most recently after the remote 2020 Games** — and the Voyageurs actually led the all-time series for a stretch of the 1960s, reaching −3 in 1963. **If it went to the Lumbermen, the series has not been level since 1964** and the Voyageurs have never led by more than two, in 1948.
+
+*An earlier version of this section gave a single set of running totals and stated that the Voyageurs "have led the all-time series only in its first two seasons." That was an artifact of omitting 1961 from the running count rather than treating it as an unknown that displaces everything after it; the claim is wrong under either reading and has been replaced.*
+
+### How the series could be levelled
+
+The Lumbermen lead by **three** (41–38) if 1961 was a Voyageur year, or by **five** (42–37) if it was not. Since each season moves the margin by one, the Voyageurs would need that many more wins than the Lumbermen to square the series — fastest achieved by winning every season from 2027.
+
+- **If 1961 = Voyageurs**: three straight Voyageur wins would tie the series at 41–41 in **2029** — well within precedent, since they have twice won four in a row.
+- **If 1961 = Lumbermen**: five straight would be needed, tying at 42–42 in **2031** — which would require the longest winning run by either team in the history of the Games.
+
+Either way the earliest possible tie is **2029**, and it depends on a shield painted sixty-five years earlier.
 
 ### The 1961 shield
 
-1961 sits between Voyageur wins in 1959–1960 and 1962–1963. If it was a Voyageur year it forms a **five-season run, 1959–1963 — longer than anything else on the trophy**. If it went to the Lumbermen, it merely separates two ordinary pairs.
+1961 sits between Voyageur wins in 1959–1960 and 1962–1963. If it was a Voyageur year it forms a **five-season run, 1959–1963 — longer than anything else on the trophy**. If it went to the Lumbermen, it merely separates two ordinary pairs. As set out above, the same shield also decides whether the series has been repeatedly level in the modern era or has not been level since 1964, and whether the Voyageurs could square it as early as 2029 or not before 2031. For a single unread plaque it carries an unusual amount of the record.
 
 **Operator recollection points to the Voyageurs**, on the grounds that the Voyageurs are remembered as holding the longest unbroken run.^13 That is meaningful support, because a Voyageur record run *requires* five consecutive seasons — the Voyageurs' other best runs are four (1979–1982 and 1992–1995), which only tie the Lumbermen's two four-season runs (1968–1971, 1975–1978). A remembered Voyageur record is therefore only true if 1961 went to them.
 
