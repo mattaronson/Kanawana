@@ -89,7 +89,7 @@
     "85 campers registered for the summer session (Postmedia 2026, YMCA-sponsored content)"
    ],
    "status": "resolved_editorially",
-   "notes": "McMorris (academic thesis with archival research) is the higher-reliability source. The 85 figure may reflect total registrations vs actual attendance, or may include Camp Otoreke (which continued operating at Lake St. Joseph). The Postmedia article is sponsored content written on behalf of YMCAs of Qu\u00e9bec, so the 85 figure likely comes from the YMCA's own institutional narrative. Not necessarily contradictory \u2014 could be registrations vs attendance. Update 2026-07-07: direct fetch of the YMCA Quebec history page (f_1747) confirms the '85 campers' figure is the YMCA's own current official institutional claim (not merely Postmedia sponsored-content phrasing) -- strengthens the case that this is a real institutional-narrative-vs-archival-record discrepancy rather than a media error, but does not resolve which figure is correct.",
+   "notes": "McMorris (academic thesis with archival research) is the higher-reliability source. The 85 figure may reflect total registrations vs actual attendance, or may include Camp Otoreke (which continued operating at Lake St. Joseph). The Postmedia article is sponsored content written on behalf of YMCAs of Québec, so the 85 figure likely comes from the YMCA's own institutional narrative. Not necessarily contradictory — could be registrations vs attendance. Update 2026-07-07: direct fetch of the YMCA Quebec history page (f_1747) confirms the '85 campers' figure is the YMCA's own current official institutional claim (not merely Postmedia sponsored-content phrasing) -- strengthens the case that this is a real institutional-narrative-vs-archival-record discrepancy rather than a media error, but does not resolve which figure is correct.",
    "created_at": "2026-03-17T12:00:00Z",
    "affects_articles": [
     "founding-1894",
@@ -109,10 +109,10 @@
    "attribute": "existence_and_identity",
    "values": [
     "J.W. McConnell donated Lake Desjardins to Camp Kanawana (oral history, src_oral_aronson)",
-    "The camp's three lakes are Lake Kanawana, Lake Wilson, and Round Lake \u2014 no Lake Desjardins (oral history f_0023; corroborated by YMCA official descriptions of 'three private lakes')"
+    "The camp's three lakes are Lake Kanawana, Lake Wilson, and Round Lake — no Lake Desjardins (oral history f_0023; corroborated by YMCA official descriptions of 'three private lakes')"
    ],
    "status": "partially_resolved",
-   "notes": "Phase 2 search (2026-06-11): no 'Lac Desjardins' found in any registry. Oral history follow-up (2026-06-12): informant states Lac Desjardins was the ORIGINAL name of the lake that became Lake Wilson \u2014 it was renamed after McConnell bought and donated it (f_1206). Phase 2 research (2026-06-13): Pag\u00e9 family genealogy reveals Magloire Pag\u00e9 fils married **Olivine Desjardins** in 1875 (f_1228). The Pag\u00e9 family owned extensive land in Saint-Sauveur (lot 43, c\u00f4te Saint-Elmire) and sold property to the YMCA c. 1910. If the lake sat on Pag\u00e9-Desjardins family land, 'Lac Desjardins' likely refers to Olivine's maiden name \u2014 a common Quebec toponymic pattern where lakes are named for landowner families. This provides a plausible genealogical origin for the name. Remaining: land registry confirmation linking specific Pag\u00e9 parcels to the lake.",
+   "notes": "Phase 2 search (2026-06-11): no 'Lac Desjardins' found in any registry. Oral history follow-up (2026-06-12): informant states Lac Desjardins was the ORIGINAL name of the lake that became Lake Wilson — it was renamed after McConnell bought and donated it (f_1206). Phase 2 research (2026-06-13): Pagé family genealogy reveals Magloire Pagé fils married **Olivine Desjardins** in 1875 (f_1228). The Pagé family owned extensive land in Saint-Sauveur (lot 43, côte Saint-Elmire) and sold property to the YMCA c. 1910. If the lake sat on Pagé-Desjardins family land, 'Lac Desjardins' likely refers to Olivine's maiden name — a common Quebec toponymic pattern where lakes are named for landowner families. This provides a plausible genealogical origin for the name. Remaining: land registry confirmation linking specific Pagé parcels to the lake.",
    "created_at": "2026-06-11T00:00:00Z",
    "affects_articles": [
     "j-w-mcconnell",
@@ -122,7 +122,7 @@
   },
   {
    "conflict_id": "c_007",
-   "description": "Date of 'Camp director Dave Twynam' correspondence in Concordia 12B01 finding aid: 1976 vs 1979 \u2014 affects start of Twynam directorship",
+   "description": "Date of 'Camp director Dave Twynam' correspondence in Concordia 12B01 finding aid: 1976 vs 1979 — affects start of Twynam directorship",
    "fact_ids": [
     "f_0752",
     "f_1169"
@@ -134,7 +134,7 @@
     "1976 (search-engine snippets of same finding aid, 2026-06-11, two independent queries, f_1169)"
    ],
    "status": "resolved",
-   "notes": "Both readings derive from the same finding aid page (concordia.ca ymca-fonds-sub-sub-series-12B01.html), which is now proxy-blocked (403) to the agent. May not be a true conflict \u2014 the aid may list multiple Twynam correspondence files. Resolution: operator fetch of the 12B01 page or the AtoM finding aid PDF (p_057). If 1976 is correct, Twynam's tenure spans at least 1976-1980, fully bridging the gap after Stuart McLean (asst. director 1974-75).",
+   "notes": "Both readings derive from the same finding aid page (concordia.ca ymca-fonds-sub-sub-series-12B01.html), which is now proxy-blocked (403) to the agent. May not be a true conflict — the aid may list multiple Twynam correspondence files. Resolution: operator fetch of the 12B01 page or the AtoM finding aid PDF (p_057). If 1976 is correct, Twynam's tenure spans at least 1976-1980, fully bridging the gap after Stuart McLean (asst. director 1974-75).",
    "created_at": "2026-06-11T14:00:00Z",
    "affects_articles": [
     "dave-twynam",
@@ -157,7 +157,7 @@
     "Two islands acquired 1897 (BaladoDiscovery)"
    ],
    "status": "resolved_editorially",
-   "notes": "Both are secondary sources. The 1897 acquisition date in BaladoDiscovery is new \u2014 may represent a formal purchase distinct from the 1894 founding. The f_0017 fact says 'main island plus two others' suggesting three total. The two-vs-three discrepancy may reflect different sources counting the mainland landing differently. Re-checked 2026-07-08: both qahn.org and baladodecouverte.com read directly (previously inaccessible/only search-snippet-extracted); neither page's current text gives a clean, quotable exact island count or 1897 date in the sections surfaced -- QAHN says only 'situated on several islands', BaladoDecouverte's island/1897 claim wasn't found on the specific POI page checked (may be on a different page in the same circuit, or the extraction summarized around it). Still unresolved; not worth further remote-research time without narrowing which exact page/POI the 1897 claim came from.",
+   "notes": "Both are secondary sources. The 1897 acquisition date in BaladoDiscovery is new — may represent a formal purchase distinct from the 1894 founding. The f_0017 fact says 'main island plus two others' suggesting three total. The two-vs-three discrepancy may reflect different sources counting the mainland landing differently. Re-checked 2026-07-08: both qahn.org and baladodecouverte.com read directly (previously inaccessible/only search-snippet-extracted); neither page's current text gives a clean, quotable exact island count or 1897 date in the sections surfaced -- QAHN says only 'situated on several islands', BaladoDecouverte's island/1897 claim wasn't found on the specific POI page checked (may be on a different page in the same circuit, or the extraction summarized around it). Still unresolved; not worth further remote-research time without narrowing which exact page/POI the 1897 claim came from.",
    "created_at": "2026-06-24T07:00:00Z",
    "affects_articles": [
     "camp-otoreke"
@@ -167,7 +167,7 @@
   },
   {
    "conflict_id": "c_009",
-   "description": "Lac Kanawana volume: RSVL/MELCCFP gives 1,239,000 m\u00b3 vs earlier KB figure 1,273,000 m\u00b3.",
+   "description": "Lac Kanawana volume: RSVL/MELCCFP gives 1,239,000 m³ vs earlier KB figure 1,273,000 m³.",
    "fact_ids": [
     "f_1543",
     "f_1146"
@@ -175,11 +175,11 @@
    "entity": "Lac Kanawana",
    "attribute": "volume",
    "values": [
-    "1,239,000 m\u00b3",
-    "1,273,000 m\u00b3"
+    "1,239,000 m³",
+    "1,273,000 m³"
    ],
    "status": "resolved",
-   "notes": "Resolved: adopt RSVL/MELCCFP figure 1,239,000 m\u00b3 as canonical (official monitoring body); earlier 1,273,000 m\u00b3 treated as superseded estimate.",
+   "notes": "Resolved: adopt RSVL/MELCCFP figure 1,239,000 m³ as canonical (official monitoring body); earlier 1,273,000 m³ treated as superseded estimate.",
    "created_at": "2026-06-26T00:00:00Z",
    "affects_articles": [
     "environmental-history"
@@ -221,7 +221,7 @@
     "data since at least 2013"
    ],
    "status": "resolved",
-   "notes": "Resolved: RSVL volunteer-monitoring dataset ran 2010-2011 (ended 2011); the 2013-2024 CRE Laurentides \"technical support reports\" are a separate document series. Both true at different scopes \u2014 not a true contradiction.",
+   "notes": "Resolved: RSVL volunteer-monitoring dataset ran 2010-2011 (ended 2011); the 2013-2024 CRE Laurentides \"technical support reports\" are a separate document series. Both true at different scopes — not a true contradiction.",
    "created_at": "2026-06-26T00:00:00Z",
    "affects_articles": [
     "environmental-history"
@@ -478,10 +478,10 @@
      "facts": []
     }
    ],
-   "status": "unresolved",
+   "status": "resolved",
    "raised_at": "2026-08-14T00:00:00Z",
-   "resolved_at": null,
-   "resolution": null,
+   "resolved_at": "2026-08-14T00:00:00Z",
+   "resolution": "RESOLVED BY OPERATOR (Matt Aronson), 2026-08-14: 'Read Ball's account again - Lac La Croix was the first one they picked until Lake Saint-Joseph was found, which was a better option.' The 1919 memoir is a SEQUENCE, not a rival claim about where the 1894 season was held: the syndicate chose Lac la Croix, the first party went out in 1894, a better location was found 'just a little further on', and Lac St. Joseph was secured instead. This is the third reading the conflict record itself flagged as the one that would dissolve the conflict. The wiki keeps Lake Saint-Joseph for the 1894 camp and now ALSO records Lac la Croix as the originally selected, abandoned site. NEITHER POSITION IS DISCARDED - they describe different moments. Independent support: the memoir's 'property with fishing privileges' at Lac St. Joseph matches the 1894-95 Annual Report's 'leased land from the Government and the fishing rights of a lake near St. Agathe' - the same transaction described in the same terms by an institutional source written within a year of the events. ATTRIBUTION CAUTION: the memoir is not by Billy Ball; Ball appears in it in the third person as a fellow syndicate member.",
    "notes": "HUMAN DECISION POINT per CLAUDE.md: two documented sources disagreeing, not oral history versus document, so the standing resolution directive does not apply. Arguments each way. FOR Lac la Croix: the 1919 sketch is first-person testimony from a man who was in the room, written 25 years after the events and 32 years before the 1951 history, which is itself a second-hand institutional retelling. AGAINST: 25 years is long enough to compress a site-selection sequence, the author left Montreal for Winnipeg in June 1894 and so may not have been present at the camp itself, and every other source places 1894 at Lake Saint-Joseph. A THIRD reading, which would dissolve the conflict: 'decided to locate' may describe an intention that was revised before the season, with 'the first group went out' referring to the scouting party rather than the campers. The passage is genuinely ambiguous about what happened in which order. Do not resolve by picking the majority; the memoir may be recording a real detail the institutional narrative smoothed away. Concordia's 1893 'Report - trip to St. Agathe' journal (sub-series 12A) is the document most likely to settle it."
   },
   {
@@ -500,10 +500,10 @@
      "facts": []
     }
    ],
-   "status": "unresolved",
+   "status": "resolved",
    "raised_at": "2026-08-14T00:00:00Z",
-   "resolved_at": null,
-   "resolution": null,
+   "resolved_at": "2026-08-14T00:00:00Z",
+   "resolution": "RESOLVED BY OPERATOR (Matt Aronson), 2026-08-14: '1966 is clearly Lumbermen (from the photo).' Settled by returning to the object - the 1966 shield is legible in the trophy photograph - rather than by weighing the two accounts. The wiki follows the TROPHY for 1966; standings are unchanged (Lumbermen 41, Voyageurs 37 on read shields) because the roll already carried the trophy's reading. The 1966 season report's text ('with the Voyageurs being victorious') is PRESERVED, not corrected away, per the no-silent-overwrite rule. STILL UNEXPLAINED: why the report differs. The most interesting unexplored reading is that the two sources record different things - the 1966 report lists sixteen all-camp program days, of which the L&V competition was one.",
    "notes": "HUMAN DECISION POINT: two documented sources, so the oral-history-yields-to-documents directive does not apply. Likeliest explanation is a TRANSCRIPTION error on this project's side -- the roll was read off photographs of a trophy whose shields are partly obscured by a crossed paddle and axe, and four shields already had to be supplied separately for that reason. One look at the physical trophy would settle it. Second possibility: engraving is done after the fact and can be ordered wrongly, while the season report was written by the man who ran the season. Third: they may record different things, since the 1966 report counts sixteen all-camp program days and the L&V format was unstable enough to be formally reviewed in winter 1976. IMPORTANT CONTEXT: three other seasons in the digitized reports -- 1977, 1978 and 1993 -- match the trophy exactly, and the 1978 report's 'Lumbermen won ... again' independently confirms 1977. The roll is not generally unreliable, which is why this single discordant entry deserves explanation rather than averaging. CONSEQUENCE IF THE REPORT IS RIGHT: standings become Lumbermen 40 / Voyageurs 38 rather than 41/37, and every derived figure -- running balance, longest runs, the levelling arithmetic -- shifts one in the Voyageurs' favour."
   }
  ]
