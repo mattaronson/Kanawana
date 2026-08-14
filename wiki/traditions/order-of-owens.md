@@ -1,6 +1,6 @@
 # The Order of Owens
 
-*Status: draft | Sources: 3*
+*Status: draft | Sources: 5*
 *Last Updated: 2026-08-14*
 
 ## Overview
@@ -9,11 +9,27 @@ The Order of Owens is an annual Camp Kanawana award presented to "a Kanawanian w
 
 The award has been presented in every season from 1976 through 2026 except 2020 and 2021, when it was not awarded because of the COVID-19 pandemic.^1 That is 49 award seasons across a 51-year span — one of the longest continuous annual records documented in this wiki, though not the longest: [[traditions/lv-games|the L&V Games]] have been contested in 79 seasons since 1947, missing only 2021.
 
-## Namesake
+## Namesake and origin
 
-The roster's first entry reads "April 13, 1976 — Norrey Owens," carrying a full calendar date where every subsequent entry carries only a year, and bearing the name the award itself is called after. This wiki therefore reads Norrey Owens as the award's **namesake** rather than its first recipient, with Doug Peets (1976) as the first person to receive it — the same structure as the Pip Alumni Award, which is named for [[traditions/pip-alumni-award|Philip "Pip" Caddell]] and separately lists its recipients.
+**The Kamp Kanawana Director's Report for 1976 documents this award's creation, in the season it happened.** Under *Program Areas — Hike & Trip*, it reads:
 
-**This reading is an inference, not something the source states.** Who Norrey Owens was, their connection to Kanawana, and what April 13, 1976 marks (a death, a dedication, a founding resolution) are all undocumented. See Open Questions 1 and 2.
+> "This summer was the first for the new Kamp Kanawana award 'Order of Owens'. This was presented by Norrey Owens to the kamper who best exemplified the qualities and attributes of a tripper at Kanawana. My congratulations to the tripper of 1976, Doug Peets."^4
+
+A second, independent document corroborates the founding year. The 1988 report *Kanawana… A Place to Grow* lists under *Programme Highlights*: "1976 The Order of Owens Award is created. It is given annually to the camper who best exhibits the skills and attitude towards canoe tripping."^5
+
+Three things this settles, all of which this article previously carried as inference:
+
+- **Norrey Owens was the award's donor and presenter, not its first recipient.** The namesake reading was correct, and is now documented rather than inferred.
+- **Doug Peets was the first recipient**, in the award's first season.
+- **April 13, 1976 is not a death date.** Owens personally presented the award at camp that August, four months later. The working hypothesis in the earlier Open Question 2 is refuted. The date most plausibly marks the award's establishment or the donation itself, but no source says so.
+
+The criteria have also survived nearly intact. The 1976 wording — "best exemplified the qualities and attributes of a tripper at Kanawana" — is recognisably the ancestor of the modern formula, "best exemplifies the leadership qualities and attitude of a canoe tripper at Camp Kanawana."^1 ^4
+
+### Who was Norrey Owens
+
+A single figure in the Montreal YMCA's records fits, though the identification is **not confirmed**. An **O. N. H. Owens** appears across thirty-five years of Montreal YMCA camping service: listed as "N. H. Owens" in 1929; captioned "O.N.H. Owens, Chairman, Kanawana Com." in a 1937 photograph; printed on 1938 Kanawana letterhead as "O. N. H. OWENS, Chairman" beside "W. J. G. MACDIARMID, Director"; Chairman of the Board of Management of Camp Perrot through the 1940s and 1950s; and in 1964, heading a special YMCA committee.^5 A man who chaired the Kanawana Committee in the late 1930s is exactly the sort of person who would endow a Kanawana canoe-tripping award in 1976.
+
+The name link is suggestive but unproven. A Library and Archives Canada First World War personnel file exists for **"OWENS, OWEN NORREYS HARRINGTON"** — initials matching O.N.H. exactly, with "Norrey" a natural short form of *Norreys*, and the 1929 listing as "N. H. Owens" independently suggesting a man who dropped his leading given name.^5 Against it: the LAC record could not be opened, no document in the digitized corpus spells his given names out, and thirty-eight years separate the 1938 chairmanship from the 1976 presentation — the 1964 reference narrows that to twelve and makes the same-man reading comfortable, but a same-named son cannot be excluded. Recorded here as a strong lead, not an identification.
 
 ## Recipients
 
@@ -103,8 +119,8 @@ The award resumed in 2022 and has run annually since.
 
 ## Open Questions
 
-1. [Important] Who was Norrey Owens, and what was their connection to Camp Kanawana? The award carries their name, but no source in this wiki documents them.
-2. [Important] What does the date April 13, 1976 mark — Norrey Owens's death, the award's dedication, or its founding? And is the "namesake, not first recipient" reading above correct? This is currently an inference from the entry's form (a full date, and the name matching the award's own), not a documented fact.
+1. [Important, **substantially advanced** 2026-08-14] Who was Norrey Owens? He is now documented as the award's donor and presenter in 1976. The strong lead is **O. N. H. Owens**, Chairman of the Kanawana Committee in the late 1930s and of Camp Perrot's Board through the 1940s–50s, plausibly the "Owen Norreys Harrington Owens" of a Library and Archives Canada First World War file. Confirming this needs a surface that was blocked to this project: the LAC personnel record itself (Cloudflare 403), a Montreal death notice, or any document spelling his given names in full. Birth and death dates remain unknown.
+2. ~~[Important] What does the date April 13, 1976 mark — Norrey Owens's death, the award's dedication, or its founding? And is the "namesake, not first recipient" reading above correct?~~ **[Half resolved, half open, 2026-08-14]** The namesake reading is **confirmed** by the 1976 Director's Report: Owens presented the award, Doug Peets received it. April 13, 1976 is **not** a death date — Owens was alive and at camp that August. What the date does mark is still undocumented; establishment or donation is the natural reading, but nothing states it.
 3. ~~[Important] What is the underlying source of this roster?~~ **[Resolved 2026-08-14]** The roster is kept on carved wooden award paddles at camp, two of which have now been photographed — see "The award paddles" above. The roster is therefore a transcription of a physical artifact, not recall, and `src_photo_order_of_owens_paddles` is recorded at `primary` reliability. Note that this resolves the *provenance* question only: the paddles begin at 2005, so the 1976–2004 portion of the roster still rests on the operator's account plus whatever earlier artifact it was drawn from (see Open Question 8).
 4. [Nice-to-have] Why did five seasons (1984, 1996, 1998, 2004, 2012) have two recipients? Was this a tie, a deliberate co-award, or a change in criteria?
 5. [Nice-to-have] Is the award connected to a specific canoe trip, section, or ceremony — and where is it presented? The Pip Award has a documented ceremony; nothing is yet documented for this one.
@@ -125,6 +141,8 @@ The award resumed in 2022 and has run annually since.
 1. Order of Owens roster and award criteria, 1976–2026, provided directly by the operator (Matt Aronson), 2026-08-14 [src_oral_aronson_order_of_owens].
 3. Operator account (Matt Aronson), 2026-08-14: the 2020 L&V Games were played remotely; the 2021 Games were not held [src_oral_aronson_lv_2020_remote].
 2. Photographs of the two carved Order of Owens award paddles at camp (blackletter, 2005–2012; cursive, 2005–2022), supplied by the operator, 2026-08-14 [src_photo_order_of_owens_paddles].
+4. *Kamp Kanawana Director's Report 1976*, YMCA of Montreal, section "Program Areas — Hike & Trip" (Internet Archive, `1976-kamp-kanawana-directors-report`) [src_ia_kanawana_directors_report_1976].
+5. *Kanawana… A Place to Grow* report, 1988, "Programme Highlights" (Internet Archive, `1988-kanawana-a-place-to-grow-report`); and the O. N. H. Owens references across the digitized YMCA of Montreal fonds, 1929–1964 [src_ia_kanawana_place_to_grow_1988, src_ia_ymca_montreal_fonds_collection].
 
 ## Research Notes
 

@@ -1,6 +1,6 @@
 # Daniel Andrew Budge (1851-1933)
 
-*Status: E1-reviewed | Sources: 6*
+*Status: E1-reviewed | Sources: 2*
 *Last Updated: 2026-07-09*
 
 ## Summary

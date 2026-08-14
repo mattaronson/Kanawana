@@ -1,7 +1,7 @@
 # The Pip Alumni Award
 
-*Status: E1-reviewed | Sources: 19*
-*Last Updated: 2026-07-09*
+*Status: E1-reviewed | Sources: 20*
+*Last Updated: 2026-08-14*
 
 ## Overview
 
@@ -37,7 +37,7 @@ Caddell died on October 16, 2005 in Tupiza, Bolivia, at age 32, of pulmonary ede
 | 2010 | — | *No documented recipient* | — |
 | 2011 | Bruce Netherwood | Staff, late 1980s–1990s | VP Camping Services, South Shore YMCA (Massachusetts)^3 |
 | 2012 | John Cleghorn | Alumnus; chaired Montreal YMCA | Chairman and CEO, Royal Bank of Canada; Officer of the Order of Canada^3 ^10 |
-| 2013 | Sam Lazarus (posthumous) & family | Camper and staff | Died 2004 (age 25) of cerebral malaria in Ghana while working at orphanage. SAM JAM annual fundraiser at Kanawana (17+ years).^3 ^19 |
+| 2013 | Sam Lazarus (posthumous) & family | Camper and staff | Died 2004 (age 25) of cerebral malaria in Ghana while working at orphanage. SAM JAM annual fundraiser, 17+ years.^3 ^19 ^20 |
 | 2014 | Jeniene Phillips Birks | Alumna | CBC Montreal television journalist; community volunteer^3 |
 | 2015 | Terry "Aislin" Mosher | Camper 1952–53 | Montreal Gazette editorial cartoonist; Officer of the Order of Canada^2 |
 | 2016 | Carol Skinner | Counsellor/Section Director 1990–95 | ALS advocate; Master's in Art Therapy; Director of YMCA Camp Hayward; CMHA Art Therapist^1 |
@@ -61,7 +61,9 @@ Caddell holds a BA and MA in Journalism from Carleton University (MA 2002).^11 ^
 
 ## The Sam Lazarus Legacy
 
-Samuel Karl Lazarus (1978–2004) was a Kanawana camper and staff member "for most of his childhood."^19 He worked with children at an orphanage in Ghana, where he died in 2004 of cerebral malaria at age 25.^12 ^19 His obituary appeared in the Montreal Gazette on January 24, 2004, with directions for donations to the Samuel Lazarus Fund at Kamp Kanawana, 1435 Drummond Street, 4th Floor, Montreal.^12 The fund was established by his mother Janet Torge and brother Riel Lazarus.^19 His family received the Pip Award posthumously in 2013.^3 In his memory, the annual "SAM JAM" fundraiser has been held at Camp Kanawana for 17+ years, raising approximately $230,000 and sending over 50 children to camp.^3 ^19 Rochelle Lazarus, a Concordia Sociology undergraduate, was a founding member of the YMCA Kanawana Sam Lazarus Fund, recognized at Concordia in 2011.^19 The fund continues through the Fondation des YMCA du Québec.
+Samuel Karl Lazarus (1978–2004) was a Kanawana camper and staff member "for most of his childhood."^19 He worked with children at an orphanage in Ghana, where he died in 2004 of cerebral malaria at age 25.^12 ^19 His obituary, published January 23, 2004, gave directions for donations to the Samuel Lazarus Fund at Kamp Kanawana, 1435 Drummond Street, 4th Floor, Montreal.^12 The fund was established by his mother Janet Torge and brother Riel Lazarus.^19 His family received the Pip Award posthumously in 2013.^3
+
+In his memory, the annual "Five-Hole Sam" street hockey jamboree ("SAM JAM"), organized by Riel Lazarus, has been held for over seventeen years. **Its running totals must be read with their dates attached, and this article previously reported them without.** CBC, covering the 2015 jamboree, put the cumulative total at over $260,000 and more than seventy children sent to camp.^20 This article until 2026-08-14 carried "approximately $230,000 and over 50 children" with no date — figures *below* the 2015 CBC numbers, which is impossible for a cumulative fundraising total and marks them as an earlier snapshot that was never updated. The dated 2015 figures are used here. The fund continues through the Fondation des YMCA du Québec, and as of 2024 has supported camperships for dozens of families over seventeen-plus years; no cumulative dollar figure more recent than 2015 has been located.^19 Rochelle Lazarus, a Concordia Sociology undergraduate, was a founding member of the YMCA Kanawana Sam Lazarus Fund, recognized at Concordia in 2011.^19 The fund continues through the Fondation des YMCA du Québec.
 
 ## Open Questions
 
@@ -94,14 +96,15 @@ Samuel Karl Lazarus (1978–2004) was a Kanawana camper and staff member "for mo
 9. Wikipedia, "Richard Patten." URL: https://en.wikipedia.org/wiki/Richard_Patten
 10. Wikipedia, "John Cleghorn." URL: https://en.wikipedia.org/wiki/John_Cleghorn
 11. Atwater Library, "Andrew Caddell biography" (August 2024). URL: https://atwaterlibrary.ca/files/Caddell-Andrew_Biography_Aug-2024.pdf
-12. Montreal Gazette, obituary for Samuel Karl Lazarus (January 24, 2004).
+12. Samuel Lazarus obituary, published January 23, 2004, retrieved via Legacy.com [src_legacy_lazarus_obituary_2004]. *The Montreal Gazette masthead and a January 24 date were previously asserted here; neither is confirmed from the located record, which carries January 23. Flagged for a human check.*
 13. The Peerage genealogical database: Philip Mortimer Caddell and William Persse Caddell entries. URL: http://www.thepeerage.com/p15180.htm
 14. Caddell, Andrew, and Dave Stubbs. *The Goal: Stories about Our National Passion.* Deux Voiliers Publishing, 2015 (revised 2017). Contains Philip "Pip" Caddell's story "The Black Horse."
 15. CMAT memorial pages, "James Caddell, Soldier, Adventurer (1973-2005)." URLs: https://cmat.ca/james-caddell-soldier-adventurer-1973-2005/ and https://cmat.ca/james-caddell-1973-2005-2/. Royal Canadian Hussars History (rch.ca/wp-content/uploads/B05a_Marcotte_Caddell_Mihaljevic_20210105E.pdf).
 16. Wikipedia, "James Caddell." URL: https://en.wikipedia.org/wiki/James_Caddell. BillionGraves, "Lawrence James Caddell." URL: https://billiongraves.com/grave/Lawrence-James-Caddell/13894960.
 17. CARE Canada, "CARE Canada Welcomes Tara Newell" (August 2025). URL: https://care.ca/2025/08/29/care-canada-welcomes-tara-newell/
 18. Canadian Global Affairs Institute, "Andrew Caddell" Fellow page. URL: https://www.cgai.ca/andrew_caddell. Heritage Lower St. Lawrence community profile.
-19. Sam Lazarus Fund, Zeffy fundraising page (https://www.zeffy.com/fundraising/8bc0b92d-1ae8-4791-8eeb-d890713c2360); Legacy.com obituary; Concordia University, "Recognizing Outstanding Concordians" (2011); Facebook SAM JAM event pages.
+19. Sam Lazarus Fund, Zeffy fundraising page (https://www.zeffy.com/fundraising/8bc0b92d-1ae8-4791-8eeb-d890713c2360); Concordia University, "Recognizing Outstanding Concordians" (2011); Facebook SAM JAM event pages. *(The Legacy.com obituary, formerly bundled into this composite entry, is now cited separately and precisely as source 12.)*
+20. CBC News, "Annual street hockey jamboree honours Montreal West native" (August 21, 2015) [src_cbc_sam_jam_2015].
 
 ## Research Notes
 

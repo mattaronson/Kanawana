@@ -1,6 +1,6 @@
 # Bruce Netherwood
 
-*Status: draft | Sources: 7*
+*Status: draft | Sources: 9*
 *Last Updated: 2026-07-11*
 
 ## Overview

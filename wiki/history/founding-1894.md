@@ -1,6 +1,6 @@
 # Camp Kanawana: Founding and Early History (1892-1923)
 
-*Status: E1-reviewed | Sources: 12*
+*Status: E1-reviewed | Sources: 0*
 *Last Updated: 2026-07-10*
 
 ## Summary

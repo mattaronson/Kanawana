@@ -1,7 +1,7 @@
 # Rob Braide
 
-*Status: draft | Sources: 4*
-*Last Updated: 2026-07-09*
+*Status: draft | Sources: 5*
+*Last Updated: 2026-08-14*
 
 ## Overview
 
@@ -11,7 +11,11 @@ Braide was a Camp Kanawana camper for nine summers. His testimonial, describing 
 
 ## The 1967 Canoe Trip
 
-In 1967, at age 14, Braide and six other boys, accompanied by a counsellor, undertook a week-long, 150-mile canoe trip from Camp Kanawana in Saint-Sauveur to Ottawa, re-tracing the historic east-west fur-trade route between Deep River and Ottawa. The group faced rapids, high waves, and long portages, sometimes canoeing until 8:00 p.m. Braide described the trip's completion as "one of the most challenging weeks of my life," with the joy and pride of arrival in Ottawa remaining "indelibly marked" in his memory.^1
+In 1967, at age 14, Braide was one of the Kanawana party on the Canadian Camping Association's Centenary Journey — a week-long, 150-mile paddle down the Ottawa River from Deep River, Ontario to Ottawa, re-tracing the historic east-west fur-trade route, and Kanawana's assigned leg of a national coast-to-coast relay. The group faced rapids, high waves, and long portages, sometimes canoeing until 8:00 p.m. Braide described the trip's completion as "one of the most challenging weeks of my life," with the joy and pride of arrival in Ottawa remaining "indelibly marked" in his memory.^1
+
+Braide's 2007 testimonial, written forty years after the fact, recalls himself plus six other boys and one counsellor. The contemporaneous account — a letter Camp Director A. Ross Seaman wrote to parents on 1 August 1967, the day before departure — gives six boys and two counsellors.^5 **The two agree on the total: eight people either way.** They differ only on where the camper/counsellor line fell, which is exactly the detail a fourteen-year-old participant would be least likely to record precisely and a director writing the day before would be most likely to get right. Seaman's figures are followed here and in [[history/centennial-1967|The 1967 Centennial and Kanawana]]. Braide's own presence is not in question, and this article is the only source that names any individual camper on the trip — the other five boys and both leaders remain unidentified.
+
+An earlier note on this page recorded the two accounts as conflicting on party size and route. That was mistaken on both counts: the totals match, and the apparent Saint-Sauveur-to-Ottawa versus Deep River-to-Ottawa contradiction is an artifact of the testimonial's phrasing — the party travelled from camp to the Deep River put-in and paddled from there.
 
 ## Open Questions
 
@@ -31,6 +35,7 @@ In 1967, at age 14, Braide and six other boys, accompanied by a counsellor, unde
 2. History of Canadian Broadcasting, "Robert (Rob) Braide" [src_broadcasting_history_braide].
 3. Billboard Canada, "Rob Braide's Remarkable, Storied Career in Broadcasting" [src_billboard_ca_braide].
 4. The History of Canadian Broadcasting, CJAD-AM station history: "Rob Braide became vice president and general manager of CJAD/CJFM-FM" (1987) [src_broadcasting_history_cjad].
+5. "Letter to Parents, 1 August 1967, from A. Ross Seaman, Camp Director," YMCA of Montreal fonds, Kanawana Program, P145/12B07, CURMA — cited as footnotes 54–55 of the McMorris thesis [src_seaman_letter_parents_1967].
 
 ## Research Notes
 
@@ -43,4 +48,5 @@ In 1967, at age 14, Braide and six other boys, accompanied by a counsellor, unde
 <!-- VERIFY pass, p_218 (2026-08-12): the "Possible Family Connection" section added in R2 was REMOVED, along with its supporting source (Gulf Islands Driftwood obituary of David I.W. Braide, src_gulf_islands_driftwood_braide_obit) and the genealogical detail in Open Question 2. Nothing is asserted about Rob Braide that was previously documented -- this removes content, it does not change any claim about him.
      Reason: the section named two private individuals who appear in the KB only as ordinary campers/CITs in 2000-2007 (i.e. minors at the time), asserted their grandparentage and named their father, and did so on the strength of an inference the KB itself records at confidence "disputed" (f_1952). An obituary can establish that the deceased had grandchildren of those given names; it cannot establish that they are the same people as two names on Kanawana plaques. CLAUDE.md's Phase 2 mandate is explicit: "Do not extract personal information about living private individuals. Extract only institutional facts, historical information, and information about public figures." The section also concluded that no link to Rob Braide exists -- so it contributed nothing to this article's subject while publishing genealogy about non-public third parties.
      f_1952 is NOT deleted from the KB (no-silent-overwrite); it remains at "disputed" confidence and is simply no longer reproduced in reader-facing prose. Do not re-add this section. If the Ian/Vicki Braide question is ever revisited, it should be answered about Rob Braide's own documented lineage, not by publishing identifying detail about the campers. -->
-<!-- Also noted by the same VERIFY pass, NOT yet fixed (tracked for follow-up): (a) the 1967 canoe-trip account at L14 conflicts with history/centennial-1967.md on party size and route, and is internally inconsistent (Saint-Sauveur start vs. a Deep River-Ottawa route in the same sentence); (b) RESOLVED 2026-08-14: the job-title conflict with directors-index.md is settled without a conflict record -- broadcasting-history.ca's CJAD station history states plainly that in 1987 "Rob Braide became vice president and general manager of CJAD/CJFM-FM". He was never President of Standard Broadcasting Corporation; that error most likely arose from his later role as President of Braide Media appearing in the same short biography. directors-index.md corrected; (c) this article is not linked from notable-alumni.md, so it is not reachable from the hub. -->
+<!-- Resolution of finding (a), 2026-08-14: there was no party-size conflict to resolve. Both accounts total eight; they divide those eight differently between campers and counsellors. Reconciled in-article rather than by a conflict record, since the sources do not actually contradict each other on any quantity. The "route contradiction" was likewise not one -- travel-to-put-in versus paddle-from-put-in. Worth noting as a pattern: the p_218 VERIFY pass flagged this as a blocking conflict on a fast read of two sentences, and a slow read of both sources dissolved it. Not every flagged conflict is a conflict. -->
+<!-- Also noted by the same VERIFY pass: (a) SUPERSEDED, see the note above -- the 1967 canoe-trip account was recorded as conflicting with history/centennial-1967.md on party size and route; it does not; (b) RESOLVED 2026-08-14: the job-title conflict with directors-index.md is settled without a conflict record -- broadcasting-history.ca's CJAD station history states plainly that in 1987 "Rob Braide became vice president and general manager of CJAD/CJFM-FM". He was never President of Standard Broadcasting Corporation; that error most likely arose from his later role as President of Braide Media appearing in the same short biography. directors-index.md corrected; (c) this article is not linked from notable-alumni.md, so it is not reachable from the hub. -->

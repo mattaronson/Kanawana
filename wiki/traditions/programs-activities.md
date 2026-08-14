@@ -1,6 +1,6 @@
 # Programs and Activities at Kanawana
 
-*Status: E1-reviewed | Sources: 23*
+*Status: E1-reviewed | Sources: 0*
 *Last Updated: 2026-07-09*
 
 ## Overview

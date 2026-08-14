@@ -1,6 +1,6 @@
 # Nelson McEwen
 
-*Status: draft | Sources: 4*
+*Status: draft | Sources: 10*
 *Last Updated: 2026-07-11*
 
 ## Overview

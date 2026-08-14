@@ -1,6 +1,6 @@
 # Coeducation and Gender at Kanawana
 
-*Status: E1-reviewed | Sources: 11*
+*Status: E1-reviewed | Sources: 0*
 *Last Updated: 2026-07-10*
 
 ## Overview

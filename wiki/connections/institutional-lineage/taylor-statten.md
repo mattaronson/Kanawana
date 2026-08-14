@@ -1,6 +1,6 @@
 # Taylor Statten and the Canadian Camping Movement
 
-*Status: E1-reviewed | Sources: 9*
+*Status: E1-reviewed | Sources: 8*
 *Last Updated: 2026-07-10*
 
 ## Overview

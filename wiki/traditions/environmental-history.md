@@ -1,6 +1,6 @@
 # Environmental Education and Stewardship at Kanawana
 
-*Status: E1-reviewed | Sources: 25*
+*Status: E1-reviewed | Sources: 32*
 *Last Updated: 2026-07-10*
 
 ## Overview

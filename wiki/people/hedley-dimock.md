@@ -1,6 +1,6 @@
 # Hedley Dimock and the Science of Camping
 
-*Status: E1-reviewed | Sources: 20*
+*Status: E1-reviewed | Sources: 19*
 *Last Updated: 2026-07-09*
 
 ## Overview
