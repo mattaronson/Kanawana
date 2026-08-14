@@ -1,13 +1,13 @@
 # The L&V Games
 
-*Status: E1-reviewed | Sources: 11*
+*Status: E1-reviewed | Sources: 12*
 *Last Updated: 2026-07-10*
 
 The L&V Games trace their origin to 1947, when the camp created "Lumberman-Voyageur Week" as a culminating event for the final week of summer. The entire camp was divided into two teams, Voyageurs and Lumbermen (known as "Bûcherons" in French), and the week was given over to inter-team competition. The concept drew on [[connections/related-camps/camp-pine-crest|Camp Pine Crest]] in Ontario, which had run its own Lumbermen-versus-Voyageurs competition since 1940, complete with the same team symbols: an axe for the Lumbermen and a paddle for the Voyageurs.
 
 The format as it developed through the late 1940s and 1950s was distinctive. Teams were announced on Friday evening, with captains selected that same night. The competition then ran through the following week. Voyageurs made model paddles to wear around their necks as team insignia; Lumbermen made model axes. The competitions included war canoe races, capture the flag, and medley relays, mixing athletics with craft and camp skills. By 1950, a Lumberman-Voyageur mural had been painted in the dining hall, a sign that the tradition had already become a defining feature of the camp's culture within just three years of its creation.
 
-By 1958, McMorris describes the L&V program as "well-developed," with an established sequence: team selection on Friday, captains chosen that evening, competition running through the week. The team leaders had distinct titles: the Voyageur leader was called the **Capitaine**, while the Lumberman leader was called the **Boss**.^mc The opening ceremony, held on Sunday, featured a dramatic **floating bonfire** on the lake.^mc The 2025 YMCA Quebec official history refers to the 78th edition of the L&V Games, consistent with a 1947 origin and exactly one skipped season. That season is **2021** — not 2020, as this article inferred before the trophy was read and the remote-Games account supplied; see The Annual Trophy below.
+By 1958, McMorris describes the L&V program as "well-developed," with an established sequence: team selection on Friday, captains chosen that evening, competition running through the week. The team leaders had distinct titles: the Voyageur leader was called the **Capitaine**, while the Lumberman leader was called the **Boss**.^mc The opening ceremony, held on Sunday, featured a dramatic **floating bonfire** on the lake.^mc The 2025 YMCA Quebec official history refers to the 78th edition of the L&V Games, consistent with a 1947 origin and exactly one skipped season. That season is **2021** — not 2020, as this article inferred before the trophy was read and the remote-Games account supplied; see The Annual Trophy below. On the same count, the 2026 Games contested on 14 August 2026 were the **79th edition**.
 
 The tradition was not unique to Pine Crest and Kanawana, though the parallel is looser than an earlier version of this article stated (see Revision History). YMCA Hayo-Went-Ha Camps in Michigan (founded 1904) use "Woodsmen" and "Voyageurs" as program names, but direct fetches of both program pages show these are age-based program *levels* (Woodsmen: younger boys' general in-camp activities; Voyageurs: older campers' canoe-expedition tier, e.g. an AuSable River trip), not a Color-War-style competing team pair — neither page describes any team rivalry or scoring against the other. The naming echo is real but is not evidence of a shared *competitive* tradition.
 
@@ -23,43 +23,49 @@ The Games have a **perpetual trophy**, photographed at camp on 2026-08-14 and do
 
 > KANAWANA / ANNUAL TROPHY / for / LUMBERMEN VOYAGEUR / GAMES
 
-Beneath it hang rows of smaller shield-shaped plaques, each carrying several consecutive years and the winning team for each. The series begins at **47** (1947, the founding year established above) and runs to **25** (2025), with years given as two digits throughout. Entries alternate irregularly between "Voyageurs" and "Lumbermen," with the singular "Lumberman" used on several late-1970s entries.
+Beneath it hang rows of smaller shield-shaped plaques, each carrying several consecutive years and the winning team for each. The series begins at **47** (1947, the founding year established above) and, as photographed on 14 August 2026, ran to **25** (2025) — the 2026 result was decided that same night and is not yet on the trophy. Years are given as two digits throughout. Entries alternate irregularly between "Voyageurs" and "Lumbermen," with the singular "Lumberman" used on several late-1970s entries.
 
 ### Winners roll
 
-The following is transcribed from the trophy photographs. **74 of 79 seasons are legible; five are not, and are marked rather than guessed.** Plaques partly hidden behind the crossed paddle and axe, and older shields faded or silvered, account for the gaps. Years appear on the trophy as two digits; they are expanded here.
+The Games have been contested in **79 seasons** between 1947 and 2026 — every year except 2021. **78 of those 79 winners are now known.** The roll below was transcribed from the trophy photographs; four shields obscured behind the crossed paddle and axe were supplied separately by the operator, and the 2026 result was decided on the night of 14 August 2026.^11 ^12 One season, **1961**, remains genuinely unknown and is not guessed.
+
+Years appear on the trophy as two digits; they are expanded here. The singular "Lumberman" spelling of 1976–1978 is the trophy's own.
 
 | Season | Winner | | Season | Winner | | Season | Winner |
 |---|---|---|---|---|---|---|---|
 | 1947 | Voyageurs | | 1974 | Voyageurs | | 2001 | Lumbermen |
 | 1948 | Voyageurs | | 1975 | Lumbermen | | 2002 | Voyageurs |
-| 1949 | *illegible* | | 1976 | Lumberman | | 2003 | Lumbermen |
+| 1949 | Lumbermen | | 1976 | Lumberman | | 2003 | Lumbermen |
 | 1950 | Lumbermen | | 1977 | Lumberman | | 2004 | Voyageurs |
 | 1951 | Lumbermen | | 1978 | Lumberman | | 2005 | Lumbermen |
-| 1952 | *team illegible* | | 1979 | Voyageurs | | 2006 | Voyageurs |
+| 1952 | Voyageurs | | 1979 | Voyageurs | | 2006 | Voyageurs |
 | 1953 | Lumbermen | | 1980 | Voyageurs | | 2007 | Lumbermen |
 | 1954 | Lumbermen | | 1981 | Voyageurs | | 2008 | Lumbermen |
 | 1955 | Lumbermen | | 1982 | Voyageurs | | 2009 | Lumbermen |
 | 1956 | Voyageurs | | 1983 | Lumbermen | | 2010 | Voyageurs |
 | 1957 | Voyageurs | | 1984 | Lumbermen | | 2011 | Voyageurs |
-| 1958 | *illegible* | | 1985 | Voyageurs | | 2012 | Lumbermen |
+| 1958 | Lumbermen | | 1985 | Voyageurs | | 2012 | Lumbermen |
 | 1959 | Voyageurs | | 1986 | Lumbermen | | 2013 | Voyageurs |
 | 1960 | Voyageurs | | 1987 | Lumbermen | | 2014 | Voyageurs |
-| 1961 | *illegible* | | 1988 | Voyageurs | | 2015 | Lumbermen |
+| **1961** | ***unknown*** | | 1988 | Voyageurs | | 2015 | Lumbermen |
 | 1962 | Voyageurs | | 1989 | Voyageurs | | 2016 | Lumbermen |
 | 1963 | Voyageurs | | 1990 | Lumbermen | | 2017 | Voyageurs |
 | 1964 | Lumbermen | | 1991 | Lumbermen | | 2018 | Voyageurs |
 | 1965 | Lumbermen | | 1992 | Voyageurs | | 2019 | Lumbermen |
-| 1966 | Lumbermen | | 1993 | Voyageurs | | 2020 | Voyageurs |
-| 1967 | Voyageurs | | 1994 | Voyageurs | | **2021** | **no shield found** |
+| 1966 | Lumbermen | | 1993 | Voyageurs | | 2020 | Voyageurs *(remote)* |
+| 1967 | Voyageurs | | 1994 | Voyageurs | | **2021** | ***not held*** |
 | 1968 | Lumbermen | | 1995 | Voyageurs | | 2022 | Lumbermen |
 | 1969 | Lumbermen | | 1996 | Lumbermen | | 2023 | Lumbermen |
 | 1970 | Lumbermen | | 1997 | Voyageurs | | 2024 | Lumbermen |
 | 1971 | Lumbermen | | 1998 | Voyageurs | | 2025 | Voyageurs |
-| 1972 | Voyageurs | | 1999 | Lumbermen | | | |
+| 1972 | Voyageurs | | 1999 | Lumbermen | | 2026 | Lumbermen |
 | 1973 | Lumbermen | | 2000 | Voyageurs | | | |
 
-Of the 74 legible seasons, the **Lumbermen won 38 and the Voyageurs 36** — a near-even split across nearly eight decades. The longest legible run by one team is the Lumbermen's four consecutive seasons 1975–1978 (the years lettered in the singular "Lumberman"), matched by 2022–2024. Note also 1992–1995, four straight Voyageur seasons.
+**Standings, 78 known seasons: Lumbermen 41, Voyageurs 37.** Across seventy-nine years the two teams are within four wins of each other.
+
+Four seasons is the longest run either side has managed, and it has happened four times — Lumbermen 1968–1971 and 1975–1978, Voyageurs 1979–1982 and 1992–1995. The 1975–1982 stretch is the most striking sequence on the trophy: four straight Lumberman years (the singular-spelled ones) answered immediately by four straight Voyageur years.
+
+There is a nice consequence of the one remaining gap. 1961 sits between Voyageur wins in 1959–1960 and 1962–1963. **If 1961 turns out to be a Voyageur year, it creates a five-season run, 1959–1963 — longer than anything else on the trophy.** If it went to the Lumbermen, it merely separates two ordinary pairs. The single unread shield is the one that decides whether the record run in the Games' history exists.
 
 ### The remote 2020 Games, and the single missing season
 
@@ -96,13 +102,14 @@ The role of "Capitaine" — leader of the Voyageur team — is considered one of
 - Wikipedia / reporting on Leslie Paris (UBC) research, "Color war" [src_wikipedia_color_war].
 - YMCA Quebec, "Voyageurs" canoe-tripping program page [src_ymcaquebec_voyageurs_page].
 - Direct fetches, 2026-07-09: hayowentha.org/program/voyageurs/ and find.acacamps.org (Woodsmen program profile) [src_hayowentha_website, src_aca_hayowentha_programs].
+12. Operator (Matt Aronson), 2026-08-14: winners for the four shields not legible in the photographs (1949 Lumbermen, 1952 Voyageurs, 1958 Lumbermen; 1961 still to be verified), and the 2026 result, decided that night [src_oral_aronson_lv_trophy_gaps_2026].
 11. Operator account (Matt Aronson), 2026-08-14: the 2020 L&V Games were played remotely by volunteer alumni and campers in socially-distanced "bubbles"; the 2021 Games were not held [src_oral_aronson_lv_2020_remote]. Resolves conflict c_021.
 10. Photographs of the Kanawana Annual Trophy for Lumbermen Voyageur Games (perpetual trophy, winners shields 1947-2025), supplied by the operator 2026-08-14 [src_photo_lv_annual_trophy]. Establishes the trophy's existence, form, and span; the shields themselves are not yet reliably transcribed.
 
 ## Open Questions
 
 - ~~When exactly did the name shift from "Lumberman-Voyageur Week" to "L&V Games"?~~ [Confirmed dead end, tooling resolved 2026-07-10] A local `curl` + `pdftotext` extraction of the full McMorris thesis (succeeding where WebFetch had been defeated by a FlateDecode-compressed stream) confirms the phrase "L&V Games" appears nowhere in the thesis at all — she uses only "Lumberman-Voyageur Week" throughout, including in material sourced from a 1988 Kanawana Camping Task Force document. This confirms the rename postdates the thesis's own primary sources and remains undocumented online; only physical Ka-News/Green Triangle issues from the intervening decades could resolve the exact date.
-- **[Partly resolved 2026-08-14] The Annual Trophy's winners roll is now transcribed — 74 of 79 seasons.** Five remain unread: **1949, 1958 and 1961** (obscured behind the crossed paddle and axe), the **1952 team** (the year is visible, the winner is not), and whether a **2021** shield exists at all. A straight-on photograph of the top row and of the final shield would close all five.
+- **[Substantially resolved 2026-08-14] The Annual Trophy's winners roll is complete but for one season — 78 of 79 known.** The four shields obscured in the photographs were supplied directly: 1949 Lumbermen, 1952 Voyageurs, 1958 Lumbermen. **Only 1961 remains unknown**, and the operator notes it will have to be verified against the trophy itself. It is the highest-value single entry left: if 1961 went to the Voyageurs it completes a five-season run (1959-1963), the longest in the Games' history; if to the Lumbermen, nothing changes.
 - ~~**[New, critical] Resolve conflict c_021 — the 2020/2021 discrepancy.**~~ **[Resolved 2026-08-14]** The 2020 Games were played remotely — volunteer alumni and campers competing in individual and online challenges from their socially-distanced bubbles — and the 2021 Games were not held. This reconciles the trophy, the Owens gap, the documented closures and the "78th edition" count simultaneously. See "The remote 2020 Games" above.
 - **[New] How were the remote 2020 Games actually run?** What the individual and online challenges were, how they were scored across bubbles, who organised them, and how the Voyageur win was determined are all undocumented. This is the only edition of the Games known to have been contested without the camp.
 - **[New] What was the "Kanawana Stampede"?** A plaque mounted above the L&V trophy reads "KANAWANA STAMPEDE / 1976 CHAMPIONS" with further lettering not legible in the photograph. The Stampede appears nowhere else in this wiki or KB — an entirely undocumented camp event or competition.

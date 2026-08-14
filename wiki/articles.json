@@ -501,7 +501,11 @@
         "f_2002",
         "f_2003",
         "f_2007",
-        "f_2008"
+        "f_2008",
+        "f_2010",
+        "f_2011",
+        "f_2012",
+        "f_2013"
       ],
       "sources_cited": [
         "src_mcmorris_thesis",
@@ -516,7 +520,8 @@
         "src_wikipedia_color_war",
         "src_ymcaquebec_voyageurs_page",
         "src_photo_lv_annual_trophy",
-        "src_oral_aronson_lv_2020_remote"
+        "src_oral_aronson_lv_2020_remote",
+        "src_oral_aronson_lv_trophy_gaps_2026"
       ],
       "open_questions": 5,
       "cross_links": [
@@ -529,8 +534,8 @@
         "traditions-and-culture"
       ],
       "file_id": "1EmzjwZxmQKJhFrNsbFGn1HbdseFBM9E7",
-      "word_count": 2546,
-      "notes": "2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- fixed the malformed header (Status casing 'E1 Reviewed' -> 'E1-reviewed', Sources field was free-text descriptions instead of a count), moved the 'Correction, 2026-07-09' paragraph into a new Research Notes > Revision History section, folded the orphaned 'R3 Verification Notes' H3 (no parent heading) into Research Notes. No facts, citations, or open questions dropped; status unchanged. | 2026-07-11: Added wiki-link to Camp Pine Crest (now a standalone article) in prose and Related Articles. | 2026-08-14: NEW Annual Trophy section from operator photographs -- the L&V perpetual trophy (winners shields 1947-2025) documented for the first time; no winners table published as the shields are not reliably legible in the current images. NOTE: this article is E1-reviewed and has received substantive new content; warrants a re-REVIEW pass. | 2026-08-14 (2nd pass): winners roll TRANSCRIBED from the trophy photos -- 74 of 79 seasons legible; 1949/1958/1961 obscured, 1952 team illegible, no 2021 shield found. Surfaced conflict c_021 (trophy 2020 shield vs Owens skipping both 2020-21 vs Day's documented two-season closure vs YMCA's '78th edition'). New lead: 'Kanawana Stampede 1976 Champions' plaque, undocumented anywhere. | 2026-08-14 (3rd pass): c_021 RESOLVED -- the 2020 Games were played remotely, 2021 not held. Corrected the body's standing inference that the skipped season was 'most likely 2020' to the now-documented 2021.",
+      "word_count": 2801,
+      "notes": "2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- fixed the malformed header (Status casing 'E1 Reviewed' -> 'E1-reviewed', Sources field was free-text descriptions instead of a count), moved the 'Correction, 2026-07-09' paragraph into a new Research Notes > Revision History section, folded the orphaned 'R3 Verification Notes' H3 (no parent heading) into Research Notes. No facts, citations, or open questions dropped; status unchanged. | 2026-07-11: Added wiki-link to Camp Pine Crest (now a standalone article) in prose and Related Articles. | 2026-08-14: NEW Annual Trophy section from operator photographs -- the L&V perpetual trophy (winners shields 1947-2025) documented for the first time; no winners table published as the shields are not reliably legible in the current images. NOTE: this article is E1-reviewed and has received substantive new content; warrants a re-REVIEW pass. | 2026-08-14 (2nd pass): winners roll TRANSCRIBED from the trophy photos -- 74 of 79 seasons legible; 1949/1958/1961 obscured, 1952 team illegible, no 2021 shield found. Surfaced conflict c_021 (trophy 2020 shield vs Owens skipping both 2020-21 vs Day's documented two-season closure vs YMCA's '78th edition'). New lead: 'Kanawana Stampede 1976 Champions' plaque, undocumented anywhere. | 2026-08-14 (3rd pass): c_021 RESOLVED -- the 2020 Games were played remotely, 2021 not held. Corrected the body's standing inference that the skipped season was 'most likely 2020' to the now-documented 2021. | 2026-08-14 (4th pass): winners roll now 78 of 79 contested seasons -- 1949/1952/1958 supplied, 2026 (Lumbermen) added. Only 1961 unknown. Standings L41 V37.",
       "tags": {
         "era": [
           "1910s",
@@ -8992,7 +8997,7 @@
         "people/sean-day"
       ],
       "file_id": null,
-      "word_count": 1471,
+      "word_count": 1514,
       "tags": [
         "awards",
         "canoe-tripping",

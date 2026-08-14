@@ -1,8 +1,8 @@
 {
   "version": "v4.98",
-  "kb_version": "v5.13",
+  "kb_version": "v5.14",
   "migrated_from": "3.3",
-  "fact_count": 1971,
+  "fact_count": 1975,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -34111,6 +34111,70 @@
       "date_ref": "2020-2021",
       "conflicts_with": [],
       "added_version": "v5.13",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_2010",
+      "claim": "Three L&V Games winners not legible in the trophy photographs were supplied directly: 1949 Lumbermen, 1952 Voyageurs, 1958 Lumbermen. The 1961 winner remains unknown and is to be verified against the trophy itself.",
+      "sources": [
+        "src_oral_aronson_lv_trophy_gaps_2026"
+      ],
+      "confidence": "user_knowledge",
+      "category": "traditions",
+      "entities": [
+        "L&V Games"
+      ],
+      "date_ref": "1949-1961",
+      "conflicts_with": [],
+      "added_version": "v5.14",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_2011",
+      "claim": "The 2026 L&V Games were won by the Lumbermen, decided on the night of 14 August 2026. As the 79th edition (79 contested seasons since 1947, 2021 excepted), the result was not yet on the Annual Trophy when it was photographed earlier that day.",
+      "sources": [
+        "src_oral_aronson_lv_trophy_gaps_2026"
+      ],
+      "confidence": "user_knowledge",
+      "category": "traditions",
+      "entities": [
+        "L&V Games"
+      ],
+      "date_ref": "2026",
+      "conflicts_with": [],
+      "added_version": "v5.14",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_2012",
+      "claim": "Across the 78 known L&V Games seasons of 79 contested between 1947 and 2026, the Lumbermen have won 41 and the Voyageurs 37. The longest run by either team is four consecutive seasons, achieved four times: Lumbermen 1968-1971 and 1975-1978, Voyageurs 1979-1982 and 1992-1995.",
+      "sources": [
+        "src_oral_aronson_lv_trophy_gaps_2026"
+      ],
+      "confidence": "inferred",
+      "category": "traditions",
+      "entities": [
+        "L&V Games"
+      ],
+      "date_ref": "1947-2026",
+      "conflicts_with": [],
+      "added_version": "v5.14",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_2013",
+      "claim": "The single unknown L&V season, 1961, sits between Voyageur wins in 1959-1960 and 1962-1963. If 1961 was a Voyageur year it would form a five-season run (1959-1963), longer than any other run on the trophy; if a Lumbermen year, it separates two ordinary pairs. The one unread shield therefore determines whether the longest run in the Games' history exists.",
+      "sources": [
+        "src_oral_aronson_lv_trophy_gaps_2026"
+      ],
+      "confidence": "inferred",
+      "category": "traditions",
+      "entities": [
+        "L&V Games"
+      ],
+      "date_ref": "1961",
+      "conflicts_with": [],
+      "added_version": "v5.14",
       "added_by": "manual"
     }
   ]

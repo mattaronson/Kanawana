@@ -10401,7 +10401,23 @@
       "extraction_version": "v5.13",
       "reliability": "primary",
       "notes": "Operator (Matt Aronson) account, supplied 2026-08-14, explaining the 2020 shield on the L&V Annual Trophy: in the first COVID summer the Games were played remotely, with volunteer alumni and campers competing in individual and online challenges within socially-distanced 'bubbles'. The 2021 Games were not held. This RESOLVES conflict c_021 by reconciling all four previously-conflicting positions rather than overriding any of them."
+    },
+    {
+      "source_id": "src_oral_aronson_lv_trophy_gaps_2026",
+      "type": "oral_history",
+      "title": "L&V trophy shields not legible in photographs, plus the 2026 result (operator-supplied)",
+      "date": "2026-08-14",
+      "date_precision": "exact",
+      "origin": "user_provided",
+      "origin_url": null,
+      "cache_path": null,
+      "char_count": 0,
+      "ingested_at": "2026-08-14T00:00:00Z",
+      "extracted": true,
+      "extraction_version": "v5.14",
+      "reliability": "primary",
+      "notes": "Operator (Matt Aronson) supplied the winners for three of the four shields obscured behind the crossed paddle and axe in the trophy photographs -- 1949 Lumbermen, 1952 Voyageurs, 1958 Lumbermen -- and the 2026 result (Lumbermen), decided the night of 2026-08-14 and not yet added to the trophy. 1961 was explicitly left UNKNOWN, the operator noting it will have to be verified against the trophy itself; it is not guessed anywhere in this KB."
     }
   ],
-  "source_count": 650
+  "source_count": 651
 }

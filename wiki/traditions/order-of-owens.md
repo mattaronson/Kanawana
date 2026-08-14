@@ -7,7 +7,7 @@
 
 The Order of Owens is an annual Camp Kanawana award presented to "a Kanawanian who best exemplifies the leadership qualities and attitude of a canoe tripper at Camp Kanawana."^1 It is the camp's principal canoe-tripping honour, and — unlike [[traditions/pip-alumni-award|the Pip Alumni Award]], which recognises alumni for achievement in later life — it is awarded to members of the camp community for conduct at camp itself.
 
-The award has been presented in every season from 1976 through 2026 except 2020 and 2021, when it was not awarded because of the COVID-19 pandemic.^1 That is 49 award seasons across a 51-year span — one of the longest continuous annual records documented in this wiki, though not the longest: [[traditions/lv-games|the L&V Games]] have been contested in 78 seasons since 1947, missing only 2021.
+The award has been presented in every season from 1976 through 2026 except 2020 and 2021, when it was not awarded because of the COVID-19 pandemic.^1 That is 49 award seasons across a 51-year span — one of the longest continuous annual records documented in this wiki, though not the longest: [[traditions/lv-games|the L&V Games]] have been contested in 79 seasons since 1947, missing only 2021.
 
 ## Namesake
 
