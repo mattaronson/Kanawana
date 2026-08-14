@@ -15,16 +15,16 @@ This is a navigation hub, not a new research article: it draws together what the
 | 1900s | Camp Jubilee continues at Lake Saint-Joseph | John Roy (1901) | [[history/founding-1894\|Founding of Camp Kanawana]] | ~56 |
 | 1910s | 1909: renamed Camp Otoreke; 1910: Saint-Sauveur site acquired, "Kanawana" name adopted | (gap 1902–1920) | [[history/founding-1894\|Founding of Camp Kanawana]] | ~94 |
 | 1920s | Growth into a full physical camp; Council Ring built (1922); Woodcraft League charter (1922); totem pole (1927) | G.D. Brandon (1921), Ereaux (1922), Paterson (1923), Harold C. Cross (~1925–1928) | [[history/interwar-era\|The Interwar Era]] | ~161 |
-| 1930s | 1933: Ralph Dawson writes the first camp history; Depression-era operations continue | Nelson McEwen (c.1927–1947, overseer), Ralph Dawson (1933?), Greig Macdiarmid (1935–1938+) | [[history/interwar-era\|The Interwar Era]] | ~155 |
-| 1940s | Wartime operations, British evacuees (1941); 1946 polio outbreak | Howie Langille (1941), R.H. Hanagan (1942, 1946) | [[history/wartime-kanawana\|Wartime Kanawana]] | ~158 |
+| 1930s | 1933: Ralph Dawson writes the first camp history; Depression-era finances undocumented, staffing record continues | Nelson McEwen (c.1927–1947, overseer), Ralph Dawson (1933?), Greig Macdiarmid (1935–1938+) | [[history/interwar-era\|The Interwar Era]] | ~155 |
+| 1940s | Wartime operations, British evacuees (attended 1940, revealed in the June 1941 broadcast); 1946 polio outbreak | Howie Langille (1941), R.H. Hanagan (1942, 1946) | [[history/wartime-kanawana\|Wartime Kanawana]] | ~158 |
 | 1950s | Post-war gap in the directorial record | (gap 1947–1958; A. Ross Seaman by 1959) | [[history/postwar-gap\|The Postwar Gap]] | ~78 |
-| 1960s | Coeducation pilot begins (1967–1970); Canada's Centennial (1967 Centenary Journey) | A. Ross Seaman (1959–1967), Ross Bannerman (1969) | [[history/centennial-1967\|The 1967 Centennial]]; [[history/postwar-gap\|The Postwar Gap]] | ~168 |
-| 1970s | Coeducation formalized (1968/1969); first all-female Voyageur trip (1972) | Derek Walsh / Stuart McLean (asst., 1974–75), Dave Twynam (1979–1980) | [[history/between-centennials\|Between Centennials]] | ~124 |
-| 1980s | Section/program structure matures | Nancy Sawyer (asst., 1980), Peter Goddard (~1981–1985?), Jay Netherwood (1986–1987) | [[history/between-centennials\|Between Centennials]] | ~105 |
+| 1960s | Coeducation pilot begins (1967–1970), formalized 1968/1969; Canada's Centennial (1967 Centenary Journey) | A. Ross Seaman (1959–1967), Ross Bannerman (1969) | [[history/centennial-1967\|The 1967 Centennial]]; [[history/postwar-gap\|The Postwar Gap]] | ~168 |
+| 1970s | Coeducation consolidated; first all-female Voyageur trip (1972); section structure reorganized along gender lines by the early 1980s | Derek Walsh / Stuart McLean (asst., 1974–75), Dave Twynam (1979–1980) | [[history/between-centennials\|Between Centennials]] | ~124 |
+| 1980s | Section/program structure matures | Nancy Sawyer (asst., 1980), Peter Goddard (~1981–1985?), Jay Netherwood (1986–1987), Bruce Netherwood (1988–) | [[history/between-centennials\|Between Centennials]] | ~105 |
 | 1990s | Bruce Netherwood directorship (to 1994); camp's Centennial (1994); Two-Tier Era begins (1995) | Bruce Netherwood (1988–1994); Arleen Boyer (Exec.) / Joanna Hoad (on-site) from 1995 | [[history/centennial-1994\|The 1994 Centennial]]; [[history/modern-era\|The Modern Era]] | ~93 |
 | 2000s | Two-Tier Era continues; green shift/environmental education programming (2006–2012) | Gary White, François Dauphin, Sean Day (Exec.); Morgan Carter, Dave Leduc, Nicolas Garcia (on-site) | [[history/modern-era\|The Modern Era]] | ~189 |
 | 2010s | Sean Day / Kate Taylor era; environmental-education branding solidifies | Sean Day (Exec.); Kate Taylor (on-site, 2013–2023) | [[history/modern-era\|The Modern Era]] | ~120 |
-| 2020s | Leadership transition (2023); Mountaineer program (2022); day camp launch (2024) | Marie-Pierre Lacasse (Exec., 2023–); Kevin Slezak, Justin Caldwell, Quinn Durand (on-site) | [[history/modern-era\|The Modern Era]] | ~146 |
+| 2020s | Leadership transition (2023); Mountaineer program (2022); day camp launch (2024) | Marie-Pierre Lacasse (Exec., 2023–); Kevin Slezak, Justin Caldwell (on-site); Quinn Durand (asst., 2025–) | [[history/modern-era\|The Modern Era]] | ~146 |
 
 *Fact counts are approximate: a KB fact can span multiple decades (e.g. a person's tenure) and is counted once per decade it touches, so the column totals exceed the KB's total fact count. See [[meta/sources-index|Sources and Archives]] for the KB's overall statistics.*
 
@@ -38,7 +38,7 @@ Now fully covered in [[history/interwar-era|The Interwar Era]]: the camp's growt
 
 ## The 1940s: Wartime
 
-Fully covered in [[history/wartime-kanawana|Wartime Kanawana]]: the 1941 season under Howie Langille (48th season, 68 staff, 30+ British evacuees), R.H. Hanagan's 1942 and 1946 directorships, and the 1946 polio outbreak that the camp weathered on medical advice rather than closing.
+Fully covered in [[history/wartime-kanawana|Wartime Kanawana]]: the 1941 season under Howie Langille (48th season, 68 staff), and the 30+ British and European evacuees who had attended the previous summer, R.H. Hanagan's 1942 and 1946 directorships, and the 1946 polio outbreak that the camp weathered on medical advice rather than closing.
 
 ## The 1950s: The Post-War Gap
 
@@ -54,7 +54,7 @@ Now covered in [[history/between-centennials|Between Centennials]]: the first al
 
 ## The 1980s: Between Centennials
 
-Now covered in [[history/between-centennials|Between Centennials]] — one of the thinnest decades in the directorial record after the 1950s: Nancy Sawyer (assistant, 1980), Peter Goddard (~1981–1985, dates uncertain), and Jay Netherwood (1986–1987) are the only documented directors.
+Now covered in [[history/between-centennials|Between Centennials]] — one of the thinnest decades in the directorial record after the 1950s. Those documented are Nancy Sawyer (assistant, 1980), Peter Goddard (~1981–1985, dates uncertain), Jay Netherwood (1986–1987), and Bruce Netherwood, whose directorship began in 1988 and ran through the 1994 Centennial. No director is confirmed for 1976–1978 or for parts of the early 1980s.
 
 ## The 1990s: A Second Centennial
 

@@ -7153,12 +7153,18 @@
           "at": "2026-07-11T00:00:00Z",
           "by": "auto",
           "task": "WRITE"
+        },
+        {
+          "status": "draft",
+          "at": "2026-08-14T00:00:00Z",
+          "by": "auto",
+          "task": "VERIFY"
         }
       ],
       "ralph_loops_completed": 0,
       "kb_facts_used": [],
       "sources_cited": [],
-      "open_questions": 2,
+      "open_questions": 1,
       "cross_links": [
         "between-centennials",
         "centennial-1967",
@@ -7174,8 +7180,8 @@
         "wartime-kanawana"
       ],
       "file_id": null,
-      "word_count": 1338,
-      "notes": "2026-07-11: Workstream B hub page. Synthesizes existing wiki articles into a decade-by-decade navigation hub per the approved wiki-expansion plan; adds no new facts or sources of its own (kb_facts_used/sources_cited intentionally empty -- every claim is already cited in the linked articles). Status left at 'draft' rather than following the normal RESEARCH+RALPH draft bar, since this is explicitly a hub/navigation page, not a primary-content article. | 2026-07-11: Linked all four new Workstream C4 era articles into the Decades-at-a-Glance table and decade prose sections, replacing \"no dedicated article yet\" placeholders. This delivers the hub-splitting stretch goal flagged in Open Question 2 (now resolved and removed).",
+      "word_count": 1355,
+      "notes": "2026-07-11: Workstream B hub page. Synthesizes existing wiki articles into a decade-by-decade navigation hub per the approved wiki-expansion plan; adds no new facts or sources of its own (kb_facts_used/sources_cited intentionally empty -- every claim is already cited in the linked articles). Status left at 'draft' rather than following the normal RESEARCH+RALPH draft bar, since this is explicitly a hub/navigation page, not a primary-content article. | 2026-07-11: Linked all four new Workstream C4 era articles into the Decades-at-a-Glance table and decade prose sections, replacing \"no dedicated article yet\" placeholders. This delivers the hub-splitting stretch goal flagged in Open Question 2 (now resolved and removed). | 2026-08-14 p_222: applied the chronology BLOCKING fixes from the p_218 VERIFY audit.",
       "tags": {
         "era": [
           "1890s",
@@ -8304,6 +8310,12 @@
           "at": "2026-07-11T00:00:00Z",
           "by": "auto",
           "task": "WRITE"
+        },
+        {
+          "status": "draft",
+          "at": "2026-08-14T00:00:00Z",
+          "by": "auto",
+          "task": "VERIFY"
         }
       ],
       "ralph_loops_completed": 1,
@@ -8341,8 +8353,8 @@
         "timeline-overview"
       ],
       "file_id": null,
-      "word_count": 1005,
-      "notes": "2026-07-11: Workstream C4 spawn (1 of 4). Connective-narrative synthesis, no new research conducted.",
+      "word_count": 1143,
+      "notes": "2026-07-11: Workstream C4 spawn (1 of 4). Connective-narrative synthesis, no new research conducted. | 2026-08-14 p_222: applied the chronology BLOCKING fixes from the p_218 VERIFY audit.",
       "tags": {
         "era": [
           "1920s",
@@ -8372,6 +8384,12 @@
           "at": "2026-07-11T00:00:00Z",
           "by": "auto",
           "task": "WRITE"
+        },
+        {
+          "status": "draft",
+          "at": "2026-08-14T00:00:00Z",
+          "by": "auto",
+          "task": "VERIFY"
         }
       ],
       "ralph_loops_completed": 1,
@@ -8398,8 +8416,8 @@
         "timeline-overview"
       ],
       "file_id": null,
-      "word_count": 835,
-      "notes": "2026-07-11: Workstream C4 spawn (2 of 4). Connective-narrative synthesis, no new research conducted. Directly addresses CLAUDE.md-named \"1947-2003 director gap\" for its earliest, thinnest span.",
+      "word_count": 1056,
+      "notes": "2026-07-11: Workstream C4 spawn (2 of 4). Connective-narrative synthesis, no new research conducted. Directly addresses CLAUDE.md-named \"1947-2003 director gap\" for its earliest, thinnest span. | 2026-08-14 p_222: applied the chronology BLOCKING fixes from the p_218 VERIFY audit.",
       "tags": {
         "era": [
           "1950s",
@@ -8428,6 +8446,12 @@
           "at": "2026-07-11T00:00:00Z",
           "by": "auto",
           "task": "WRITE"
+        },
+        {
+          "status": "draft",
+          "at": "2026-08-14T00:00:00Z",
+          "by": "auto",
+          "task": "VERIFY"
         }
       ],
       "ralph_loops_completed": 1,
@@ -8438,7 +8462,10 @@
         "src_kanawana_facts",
         "src_mcmaster_mclean_fonds",
         "src_ka_news_1980",
-        "src_mcmorris_thesis"
+        "src_goddard_obituary_condolence",
+        "src_goddard_obituary",
+        "src_oral_aronson",
+        "src_ymca_john_island_newsletter"
       ],
       "open_questions": 4,
       "cross_links": [
@@ -8453,8 +8480,8 @@
         "timeline-overview"
       ],
       "file_id": null,
-      "word_count": 870,
-      "notes": "2026-07-11: Workstream C4 spawn (3 of 4). Connective-narrative synthesis, no new research conducted.",
+      "word_count": 980,
+      "notes": "2026-07-11: Workstream C4 spawn (3 of 4). Connective-narrative synthesis, no new research conducted. | 2026-08-14 p_222: applied the chronology BLOCKING fixes from the p_218 VERIFY audit.",
       "tags": {
         "era": [
           "1970s",
@@ -8484,6 +8511,12 @@
           "at": "2026-07-11T00:00:00Z",
           "by": "auto",
           "task": "WRITE"
+        },
+        {
+          "status": "draft",
+          "at": "2026-08-14T00:00:00Z",
+          "by": "auto",
+          "task": "VERIFY"
         }
       ],
       "ralph_loops_completed": 1,
@@ -8496,7 +8529,11 @@
         "src_ymcaquebec_annualreport_2007",
         "src_ymcaquebec_annualreport_2008",
         "src_ymcaquebec_annualreport_2009",
-        "src_ymcaquebec_annualreport_2011"
+        "src_ymcaquebec_annualreport_2011",
+        "src_clivus_multrum_projects",
+        "src_mediaterre_kanawana_2009",
+        "src_oral_aronson_lv_2020_remote",
+        "src_telus_kanawana"
       ],
       "open_questions": 3,
       "cross_links": [
@@ -8513,8 +8550,8 @@
         "timeline-overview"
       ],
       "file_id": null,
-      "word_count": 1069,
-      "notes": "2026-07-11: Workstream C4 spawn (4 of 4, final). Connective-narrative synthesis, no new research conducted. Ties together this session's institutional-role-director spawns into continuous narrative history. This completes Workstream C4 and the full operator-approved plan.",
+      "word_count": 1269,
+      "notes": "2026-07-11: Workstream C4 spawn (4 of 4, final). Connective-narrative synthesis, no new research conducted. Ties together this session's institutional-role-director spawns into continuous narrative history. This completes Workstream C4 and the full operator-approved plan. | 2026-08-14 p_222: applied the chronology BLOCKING fixes from the p_218 VERIFY audit.",
       "tags": {
         "era": [
           "1990s",

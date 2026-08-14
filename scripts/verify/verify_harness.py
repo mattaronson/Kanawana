@@ -33,8 +33,8 @@ DRAFTS = [a for a in arts if a['status'] == 'draft']
 
 link_re    = re.compile(r'\[\[([^\]]+?)\]\]')
 cite_re    = re.compile(r'\^(\d+)')
-srcref_re  = re.compile(r'\[(src_[A-Za-z0-9_]+)\]')
-hdr_src_re = re.compile(r'^\*Status:\s*([a-zA-Z0-9\-]+)\s*\|\s*Sources:\s*(\d+)\s*\*', re.M)
+srcref_re  = re.compile(r'\bsrc_[A-Za-z0-9_]+')   # matches ids inside combined brackets too, e.g. [src_a, src_b]
+hdr_src_re = re.compile(r'^\*Status:\s*([a-zA-Z0-9\-]+)\s*\|\s*Sources:\s*(\d+)', re.M)
 srcline_re = re.compile(r'^(\d+)\.\s', re.M)
 
 def article_path(a):
@@ -68,7 +68,9 @@ for a in sorted(DRAFTS, key=lambda x: x['article_id']):
         issues.append('A1: header "Sources: %d" != %d numbered entries' % (hdr_n, n_numbered))
 
     # A2: compare SETS of source ids, not counts
-    in_article = set(srcref_re.findall(text))
+    in_article = set()
+    for br in re.findall(r'\[([^\]]*src_[^\]]*)\]', text):
+        in_article |= set(srcref_re.findall(br))
     in_json = set(a.get('sources_cited', []))
     missing_from_json = sorted(in_article - in_json)
     extra_in_json = sorted(in_json - in_article)
