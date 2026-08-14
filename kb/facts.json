@@ -1,8 +1,8 @@
 {
   "version": "v4.98",
-  "kb_version": "v5.12",
+  "kb_version": "v5.13",
   "migrated_from": "3.3",
-  "fact_count": 1968,
+  "fact_count": 1971,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -34061,6 +34061,56 @@
       "date_ref": "1981",
       "conflicts_with": [],
       "added_version": "v5.12",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_2007",
+      "claim": "The 2020 L&V Games were played remotely during the first COVID-19 summer: volunteer alumni and campers competed in individual and online challenges from within their socially-distanced 'bubbles'. The Voyageurs won, and a 2020 shield appears on the Annual Trophy.",
+      "sources": [
+        "src_oral_aronson_lv_2020_remote"
+      ],
+      "confidence": "user_knowledge",
+      "category": "traditions",
+      "entities": [
+        "L&V Games",
+        "COVID-19"
+      ],
+      "date_ref": "2020",
+      "conflicts_with": [],
+      "added_version": "v5.13",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_2008",
+      "claim": "The 2021 L&V Games were not held. 2021 is therefore the only season since the Games' 1947 founding in which they were not contested, which reconciles YMCA Quebec's description of 2025 as the 78th edition (79 seasons from 1947 to 2025, minus one).",
+      "sources": [
+        "src_oral_aronson_lv_2020_remote"
+      ],
+      "confidence": "user_knowledge",
+      "category": "traditions",
+      "entities": [
+        "L&V Games"
+      ],
+      "date_ref": "2021",
+      "conflicts_with": [],
+      "added_version": "v5.13",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_2009",
+      "claim": "The Order of Owens was not awarded in either 2020 or 2021 while the L&V Games were contested in 2020, because the two honours measure different things: the Games could be abstracted into individual and online challenges, whereas the Order of Owens recognises canoe-tripping leadership that cannot be earned without an in-person camp.",
+      "sources": [
+        "src_oral_aronson_lv_2020_remote"
+      ],
+      "confidence": "inferred",
+      "category": "traditions",
+      "entities": [
+        "Order of Owens",
+        "L&V Games"
+      ],
+      "date_ref": "2020-2021",
+      "conflicts_with": [],
+      "added_version": "v5.13",
       "added_by": "manual"
     }
   ]

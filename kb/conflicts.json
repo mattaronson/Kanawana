@@ -421,11 +421,16 @@
         "f_1987",
         "f_1994",
         "f_2000",
-        "f_2001"
+        "f_2001",
+        "f_2007",
+        "f_2008",
+        "f_2009"
       ],
-      "status": "unresolved",
+      "status": "resolved",
       "flagged_at": "2026-08-14T00:00:00Z",
-      "notes": "Three readings, none settled by any available source: (a) the Games ran in some form in 2020 -- conceivably at the day camps -- and only 2021 was lost, which would make the trophy and the '78th edition' claim mutually consistent and the Owens gap a separate decision about that award; (b) both seasons were lost and the YMCA's edition count is off by one; (c) the '2020' shield is misread from an angled photograph. NOT auto-resolvable under the standing oral-history-yields-to-documents directive: this is documented-vs-documented (a physical trophy against a published institutional history against CBC-sourced closure reporting), so it requires human judgement. NEXT STEP is cheap and specific: a straight-on photograph of the trophy's final shield row would test reading (c) immediately."
+      "notes": "Three readings, none settled by any available source: (a) the Games ran in some form in 2020 -- conceivably at the day camps -- and only 2021 was lost, which would make the trophy and the '78th edition' claim mutually consistent and the Owens gap a separate decision about that award; (b) both seasons were lost and the YMCA's edition count is off by one; (c) the '2020' shield is misread from an angled photograph. NOT auto-resolvable under the standing oral-history-yields-to-documents directive: this is documented-vs-documented (a physical trophy against a published institutional history against CBC-sourced closure reporting), so it requires human judgement. NEXT STEP is cheap and specific: a straight-on photograph of the trophy's final shield row would test reading (c) immediately.",
+      "resolved_at": "2026-08-14T00:00:00Z",
+      "resolution": "RESOLVED by operator account (f_2007, f_2008): the 2020 L&V Games were played REMOTELY -- volunteer alumni and campers competing in individual and online challenges within socially-distanced 'bubbles' -- and the 2021 Games were not held. Reading (a) of the three offered was correct. This reconciles ALL FOUR previously-conflicting positions rather than overriding any of them: the trophy's 2020 shield and missing 2021 are both correct; YMCA Quebec's '78th edition' for 2025 is correct (79 seasons less one lost); Sean Day's documented two-season overnight closure is correct (a remote competition needed no waterfront); and the Order of Owens' two-year gap is correct and non-contradictory, since that award recognises canoe-tripping leadership which could not be earned without an in-person camp, while the Games could be abstracted online. NOTE ON POLICY: this is not an instance of the standing 'oral history yields to documented facts' directive -- no document was overridden. The oral history supplied the missing context that made four documented records mutually consistent, which is the resolution path a document-vs-document conflict actually needed."
     }
   ]
 }

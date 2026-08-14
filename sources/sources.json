@@ -10385,7 +10385,23 @@
       "source_id": "src_photo_knights_charter_challenges",
       "title": "Photograph: birchbark charter of the Order of the Knights of Kanawana (proclaimed 1980, document 1981)",
       "notes": "Operator-supplied photograph of the birchbark charter. Source of the proclamation text and, newly, the SIX CHALLENGES required for knighthood -- criteria not previously held in the KB, which had the order's oath text (f_1567) and its 1980-2009 roll (f_1565) but not the requirements. May be the same physical artifact already filed as assets/images/art/knights-of-kanawana-charter.jpg, re-photographed, or a companion piece; the challenges text is new either way. IMAGE FILE NOT YET IN REPO."
+    },
+    {
+      "source_id": "src_oral_aronson_lv_2020_remote",
+      "type": "oral_history",
+      "title": "Account of the remote 2020 L&V Games and the cancelled 2021 Games (operator-supplied)",
+      "date": "2026-08-14",
+      "date_precision": "exact",
+      "origin": "user_provided",
+      "origin_url": null,
+      "cache_path": null,
+      "char_count": 0,
+      "ingested_at": "2026-08-14T00:00:00Z",
+      "extracted": true,
+      "extraction_version": "v5.13",
+      "reliability": "primary",
+      "notes": "Operator (Matt Aronson) account, supplied 2026-08-14, explaining the 2020 shield on the L&V Annual Trophy: in the first COVID summer the Games were played remotely, with volunteer alumni and campers competing in individual and online challenges within socially-distanced 'bubbles'. The 2021 Games were not held. This RESOLVES conflict c_021 by reconciling all four previously-conflicting positions rather than overriding any of them."
     }
   ],
-  "source_count": 649
+  "source_count": 650
 }

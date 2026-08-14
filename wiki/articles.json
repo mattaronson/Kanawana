@@ -499,7 +499,9 @@
         "f_2000",
         "f_2001",
         "f_2002",
-        "f_2003"
+        "f_2003",
+        "f_2007",
+        "f_2008"
       ],
       "sources_cited": [
         "src_mcmorris_thesis",
@@ -513,7 +515,8 @@
         "src_hayowentha_website",
         "src_wikipedia_color_war",
         "src_ymcaquebec_voyageurs_page",
-        "src_photo_lv_annual_trophy"
+        "src_photo_lv_annual_trophy",
+        "src_oral_aronson_lv_2020_remote"
       ],
       "open_questions": 5,
       "cross_links": [
@@ -526,8 +529,8 @@
         "traditions-and-culture"
       ],
       "file_id": "1EmzjwZxmQKJhFrNsbFGn1HbdseFBM9E7",
-      "word_count": 2444,
-      "notes": "2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- fixed the malformed header (Status casing 'E1 Reviewed' -> 'E1-reviewed', Sources field was free-text descriptions instead of a count), moved the 'Correction, 2026-07-09' paragraph into a new Research Notes > Revision History section, folded the orphaned 'R3 Verification Notes' H3 (no parent heading) into Research Notes. No facts, citations, or open questions dropped; status unchanged. | 2026-07-11: Added wiki-link to Camp Pine Crest (now a standalone article) in prose and Related Articles. | 2026-08-14: NEW Annual Trophy section from operator photographs -- the L&V perpetual trophy (winners shields 1947-2025) documented for the first time; no winners table published as the shields are not reliably legible in the current images. NOTE: this article is E1-reviewed and has received substantive new content; warrants a re-REVIEW pass. | 2026-08-14 (2nd pass): winners roll TRANSCRIBED from the trophy photos -- 74 of 79 seasons legible; 1949/1958/1961 obscured, 1952 team illegible, no 2021 shield found. Surfaced conflict c_021 (trophy 2020 shield vs Owens skipping both 2020-21 vs Day's documented two-season closure vs YMCA's '78th edition'). New lead: 'Kanawana Stampede 1976 Champions' plaque, undocumented anywhere.",
+      "word_count": 2546,
+      "notes": "2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- fixed the malformed header (Status casing 'E1 Reviewed' -> 'E1-reviewed', Sources field was free-text descriptions instead of a count), moved the 'Correction, 2026-07-09' paragraph into a new Research Notes > Revision History section, folded the orphaned 'R3 Verification Notes' H3 (no parent heading) into Research Notes. No facts, citations, or open questions dropped; status unchanged. | 2026-07-11: Added wiki-link to Camp Pine Crest (now a standalone article) in prose and Related Articles. | 2026-08-14: NEW Annual Trophy section from operator photographs -- the L&V perpetual trophy (winners shields 1947-2025) documented for the first time; no winners table published as the shields are not reliably legible in the current images. NOTE: this article is E1-reviewed and has received substantive new content; warrants a re-REVIEW pass. | 2026-08-14 (2nd pass): winners roll TRANSCRIBED from the trophy photos -- 74 of 79 seasons legible; 1949/1958/1961 obscured, 1952 team illegible, no 2021 shield found. Surfaced conflict c_021 (trophy 2020 shield vs Owens skipping both 2020-21 vs Day's documented two-season closure vs YMCA's '78th edition'). New lead: 'Kanawana Stampede 1976 Champions' plaque, undocumented anywhere. | 2026-08-14 (3rd pass): c_021 RESOLVED -- the 2020 Games were played remotely, 2021 not held. Corrected the body's standing inference that the skipped season was 'most likely 2020' to the now-documented 2021.",
       "tags": {
         "era": [
           "1910s",
@@ -8973,11 +8976,13 @@
         "f_1992",
         "f_1993",
         "f_1994",
-        "f_1995"
+        "f_1995",
+        "f_2009"
       ],
       "sources_cited": [
         "src_oral_aronson_order_of_owens",
-        "src_photo_order_of_owens_paddles"
+        "src_photo_order_of_owens_paddles",
+        "src_oral_aronson_lv_2020_remote"
       ],
       "open_questions": 9,
       "cross_links": [
@@ -8987,14 +8992,14 @@
         "people/sean-day"
       ],
       "file_id": null,
-      "word_count": 1369,
+      "word_count": 1471,
       "tags": [
         "awards",
         "canoe-tripping",
         "traditions",
         "recognition"
       ],
-      "notes": "Created 2026-08-14 from an operator-supplied roster (Matt Aronson). The Order of Owens had zero prior mentions anywhere in the project. Status set to draft, not E1: single source, confidence user_knowledge, and the namesake reading of the 'April 13, 1976 - Norrey Owens' entry is an explicit inference (Open Questions 1-3). Roster's 2020-2021 non-award independently corroborates the two-season COVID closure and is a second line of evidence for the p_222 fix to history/modern-era.md:16. | 2026-08-14: paddle photographs received -- Open Question 3 (provenance) RESOLVED, roster confirmed as a physical-artifact transcription. Two name discrepancies logged (f_1995, disputed). OQs 7-9 added."
+      "notes": "Created 2026-08-14 from an operator-supplied roster (Matt Aronson). The Order of Owens had zero prior mentions anywhere in the project. Status set to draft, not E1: single source, confidence user_knowledge, and the namesake reading of the 'April 13, 1976 - Norrey Owens' entry is an explicit inference (Open Questions 1-3). Roster's 2020-2021 non-award independently corroborates the two-season COVID closure and is a second line of evidence for the p_222 fix to history/modern-era.md:16. | 2026-08-14: paddle photographs received -- Open Question 3 (provenance) RESOLVED, roster confirmed as a physical-artifact transcription. Two name discrepancies logged (f_1995, disputed). OQs 7-9 added. | 2026-08-14: added the L&V contrast -- the Games ran remotely in 2020 while the Owens lapsed for both years, a divergence that reflects what each honour measures."
     }
   ]
 }

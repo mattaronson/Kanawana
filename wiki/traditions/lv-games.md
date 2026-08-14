@@ -1,13 +1,13 @@
 # The L&V Games
 
-*Status: E1-reviewed | Sources: 10*
+*Status: E1-reviewed | Sources: 11*
 *Last Updated: 2026-07-10*
 
 The L&V Games trace their origin to 1947, when the camp created "Lumberman-Voyageur Week" as a culminating event for the final week of summer. The entire camp was divided into two teams, Voyageurs and Lumbermen (known as "Bûcherons" in French), and the week was given over to inter-team competition. The concept drew on [[connections/related-camps/camp-pine-crest|Camp Pine Crest]] in Ontario, which had run its own Lumbermen-versus-Voyageurs competition since 1940, complete with the same team symbols: an axe for the Lumbermen and a paddle for the Voyageurs.
 
 The format as it developed through the late 1940s and 1950s was distinctive. Teams were announced on Friday evening, with captains selected that same night. The competition then ran through the following week. Voyageurs made model paddles to wear around their necks as team insignia; Lumbermen made model axes. The competitions included war canoe races, capture the flag, and medley relays, mixing athletics with craft and camp skills. By 1950, a Lumberman-Voyageur mural had been painted in the dining hall, a sign that the tradition had already become a defining feature of the camp's culture within just three years of its creation.
 
-By 1958, McMorris describes the L&V program as "well-developed," with an established sequence: team selection on Friday, captains chosen that evening, competition running through the week. The team leaders had distinct titles: the Voyageur leader was called the **Capitaine**, while the Lumberman leader was called the **Boss**.^mc The opening ceremony, held on Sunday, featured a dramatic **floating bonfire** on the lake.^mc The 2025 YMCA Quebec official history refers to the 78th edition of the L&V Games, which is consistent with a 1947 origin if one year was skipped (most likely the COVID-cancelled 2020 season).
+By 1958, McMorris describes the L&V program as "well-developed," with an established sequence: team selection on Friday, captains chosen that evening, competition running through the week. The team leaders had distinct titles: the Voyageur leader was called the **Capitaine**, while the Lumberman leader was called the **Boss**.^mc The opening ceremony, held on Sunday, featured a dramatic **floating bonfire** on the lake.^mc The 2025 YMCA Quebec official history refers to the 78th edition of the L&V Games, consistent with a 1947 origin and exactly one skipped season. That season is **2021** — not 2020, as this article inferred before the trophy was read and the remote-Games account supplied; see The Annual Trophy below.
 
 The tradition was not unique to Pine Crest and Kanawana, though the parallel is looser than an earlier version of this article stated (see Revision History). YMCA Hayo-Went-Ha Camps in Michigan (founded 1904) use "Woodsmen" and "Voyageurs" as program names, but direct fetches of both program pages show these are age-based program *levels* (Woodsmen: younger boys' general in-camp activities; Voyageurs: older campers' canoe-expedition tier, e.g. an AuSable River trip), not a Color-War-style competing team pair — neither page describes any team rivalry or scoring against the other. The naming echo is real but is not evidence of a shared *competitive* tradition.
 
@@ -61,16 +61,15 @@ The following is transcribed from the trophy photographs. **74 of 79 seasons are
 
 Of the 74 legible seasons, the **Lumbermen won 38 and the Voyageurs 36** — a near-even split across nearly eight decades. The longest legible run by one team is the Lumbermen's four consecutive seasons 1975–1978 (the years lettered in the singular "Lumberman"), matched by 2022–2024. Note also 1992–1995, four straight Voyageur seasons.
 
-### The 2020–2021 discrepancy
+### The remote 2020 Games, and the single missing season
 
-The transcription raises a contradiction that this wiki cannot currently resolve, and which is recorded rather than smoothed over as **conflict c_021**:
+The trophy carries a shield for **2020 (Voyageurs)** but none for **2021** — a pattern that initially looked contradictory, since the overnight camp was closed for both summers. It is not. In the first COVID summer the Games were played **remotely**: volunteer alumni and campers competed in individual and online challenges from within their socially-distanced "bubbles."^11 The 2021 Games were not held at all.^11
 
-- The trophy appears to carry a shield for **2020 (Voyageurs)** but **none for 2021**.
-- [[traditions/order-of-owens|The Order of Owens]] was **not awarded in either 2020 or 2021**, per both the operator's roster and the award paddle, which runs 2019 → 2022.
-- [[people/sean-day|Sean Day]] is documented announcing that the overnight camp stayed closed for **both** the 2020 and 2021 seasons, pivoting to day camps.
-- YMCA Quebec's own 2025 history calls that year the **78th edition**, which from a 1947 start requires **exactly one** skipped season across 79 years.
+This reconciles every other record. YMCA Quebec's 2025 history calls that year the **78th edition**, which from a 1947 start requires exactly one lost season in seventy-nine — and 2021 is it. [[traditions/order-of-owens|The Order of Owens]], by contrast, was not awarded in *either* year, which is consistent rather than contradictory: the Owens recognises canoe-tripping leadership at camp, and there was no in-person camp in 2020 to earn it at, while a remote competition needed no waterfront. The two records diverge because the two honours measure different things.
 
-These cannot all be right as read. If both 2020 and 2021 were lost, 2025 would be the 77th edition, not the 78th. Three readings are possible and no source settles between them: (a) the Games ran in some form in 2020 — conceivably at the day camps — and only 2021 was lost, making the trophy and the "78th edition" claim consistent and the Owens gap a separate decision about that award; (b) both seasons were lost and the YMCA's edition count is off by one; or (c) the "2020" shield is misread here. Resolving it needs a straight-on photograph of that final shield row.
+The upshot is a stronger continuity claim than this article previously made. **The L&V Games have been contested every season since 1947 except 2021** — including one pandemic year in which the camp itself was shut and the competition moved online rather than lapsing. For a tradition whose whole character is physical, communal, and site-bound, that adaptation is itself a measure of how much weight the camp places on the streak.
+
+*This resolves conflict `c_021`, which was raised when the trophy was first transcribed and could not be settled from documents alone.*
 
 ## The Capitaine Role
 
@@ -97,13 +96,15 @@ The role of "Capitaine" — leader of the Voyageur team — is considered one of
 - Wikipedia / reporting on Leslie Paris (UBC) research, "Color war" [src_wikipedia_color_war].
 - YMCA Quebec, "Voyageurs" canoe-tripping program page [src_ymcaquebec_voyageurs_page].
 - Direct fetches, 2026-07-09: hayowentha.org/program/voyageurs/ and find.acacamps.org (Woodsmen program profile) [src_hayowentha_website, src_aca_hayowentha_programs].
+11. Operator account (Matt Aronson), 2026-08-14: the 2020 L&V Games were played remotely by volunteer alumni and campers in socially-distanced "bubbles"; the 2021 Games were not held [src_oral_aronson_lv_2020_remote]. Resolves conflict c_021.
 10. Photographs of the Kanawana Annual Trophy for Lumbermen Voyageur Games (perpetual trophy, winners shields 1947-2025), supplied by the operator 2026-08-14 [src_photo_lv_annual_trophy]. Establishes the trophy's existence, form, and span; the shields themselves are not yet reliably transcribed.
 
 ## Open Questions
 
 - ~~When exactly did the name shift from "Lumberman-Voyageur Week" to "L&V Games"?~~ [Confirmed dead end, tooling resolved 2026-07-10] A local `curl` + `pdftotext` extraction of the full McMorris thesis (succeeding where WebFetch had been defeated by a FlateDecode-compressed stream) confirms the phrase "L&V Games" appears nowhere in the thesis at all — she uses only "Lumberman-Voyageur Week" throughout, including in material sourced from a 1988 Kanawana Camping Task Force document. This confirms the rename postdates the thesis's own primary sources and remains undocumented online; only physical Ka-News/Green Triangle issues from the intervening decades could resolve the exact date.
 - **[Partly resolved 2026-08-14] The Annual Trophy's winners roll is now transcribed — 74 of 79 seasons.** Five remain unread: **1949, 1958 and 1961** (obscured behind the crossed paddle and axe), the **1952 team** (the year is visible, the winner is not), and whether a **2021** shield exists at all. A straight-on photograph of the top row and of the final shield would close all five.
-- **[New, critical] Resolve conflict c_021 — the 2020/2021 discrepancy.** The trophy appears to show a 2020 shield and no 2021; the Order of Owens skipped both years; Sean Day is documented closing the overnight camp for both seasons; and YMCA Quebec calls 2025 the 78th edition, which allows only one skipped season. All four cannot hold. See "The 2020–2021 discrepancy" above.
+- ~~**[New, critical] Resolve conflict c_021 — the 2020/2021 discrepancy.**~~ **[Resolved 2026-08-14]** The 2020 Games were played remotely — volunteer alumni and campers competing in individual and online challenges from their socially-distanced bubbles — and the 2021 Games were not held. This reconciles the trophy, the Owens gap, the documented closures and the "78th edition" count simultaneously. See "The remote 2020 Games" above.
+- **[New] How were the remote 2020 Games actually run?** What the individual and online challenges were, how they were scored across bubbles, who organised them, and how the Voyageur win was determined are all undocumented. This is the only edition of the Games known to have been contested without the camp.
 - **[New] What was the "Kanawana Stampede"?** A plaque mounted above the L&V trophy reads "KANAWANA STAMPEDE / 1976 CHAMPIONS" with further lettering not legible in the photograph. The Stampede appears nowhere else in this wiki or KB — an entirely undocumented camp event or competition.
 - What is the earliest surviving photograph of L&V Games competition? Confirmed access limitation, not a null result: Kanawana's Flickr account (~4,416 photos) and Facebook photo archive exist but require manual visual browsing to date-sort — not resolvable via text search.
 - How has the format changed since the 1950s? Are war canoe races still part of it? Weak modern-format leads only (2026-07-09): a Facebook post references a "douse the fire" event and a TikTok video describes the modern Games as "3 days" — confirms the format has changed/added events since the 1950s but doesn't establish which legacy events persist.

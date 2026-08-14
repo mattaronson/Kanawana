@@ -1,13 +1,13 @@
 # The Order of Owens
 
-*Status: draft | Sources: 2*
+*Status: draft | Sources: 3*
 *Last Updated: 2026-08-14*
 
 ## Overview
 
 The Order of Owens is an annual Camp Kanawana award presented to "a Kanawanian who best exemplifies the leadership qualities and attitude of a canoe tripper at Camp Kanawana."^1 It is the camp's principal canoe-tripping honour, and — unlike [[traditions/pip-alumni-award|the Pip Alumni Award]], which recognises alumni for achievement in later life — it is awarded to members of the camp community for conduct at camp itself.
 
-The award has been presented in every season from 1976 through 2026 except 2020 and 2021, when it was not awarded because of the COVID-19 pandemic.^1 That is a continuous 49-season record, the longest unbroken annual series documented anywhere in this wiki.
+The award has been presented in every season from 1976 through 2026 except 2020 and 2021, when it was not awarded because of the COVID-19 pandemic.^1 That is 49 award seasons across a 51-year span — one of the longest continuous annual records documented in this wiki, though not the longest: [[traditions/lv-games|the L&V Games]] have been contested in 78 seasons since 1947, missing only 2021.
 
 ## Namesake
 
@@ -97,6 +97,8 @@ The 2009 case is an inconsistency *between the two artifacts themselves*, not me
 
 The award was not presented in 2020 or 2021. This independently corroborates the camp's documented pandemic closures from a separate, camp-internal source: [[people/sean-day|Sean Day]] announced that YMCA Quebec would keep Kanawana's overnight camp closed for the 2021 season — a *second consecutive* closed summer — pivoting instead to 10 day camps, up from 3 the previous year.^1 The Order of Owens roster shows the same two-season interruption, from the camp's own award record rather than from press coverage.
 
+Notably, the camp's other great annual honour did **not** lapse for both years. [[traditions/lv-games|The L&V Games]] were contested in 2020, played remotely by volunteer alumni and campers in socially-distanced "bubbles," and only 2021 was lost.^3 The divergence is telling rather than contradictory: the L&V Games are a competition that could be abstracted into individual and online challenges, whereas the Order of Owens recognises the leadership and bearing of a canoe tripper — something that cannot be earned without a canoe, a trip, or a camp to do it at. When Kanawana went remote, the contest survived and the canoe-tripping honour could not.
+
 The award resumed in 2022 and has run annually since.
 
 ## Open Questions
@@ -121,6 +123,7 @@ The award resumed in 2022 and has run annually since.
 ## Sources
 
 1. Order of Owens roster and award criteria, 1976–2026, provided directly by the operator (Matt Aronson), 2026-08-14 [src_oral_aronson_order_of_owens].
+3. Operator account (Matt Aronson), 2026-08-14: the 2020 L&V Games were played remotely; the 2021 Games were not held [src_oral_aronson_lv_2020_remote].
 2. Photographs of the two carved Order of Owens award paddles at camp (blackletter, 2005–2012; cursive, 2005–2022), supplied by the operator, 2026-08-14 [src_photo_order_of_owens_paddles].
 
 ## Research Notes
