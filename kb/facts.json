@@ -1,8 +1,8 @@
 {
  "version": "v4.98",
- "kb_version": "v5.22",
+ "kb_version": "v5.23",
  "migrated_from": "3.3",
- "fact_count": 2033,
+ "fact_count": 2040,
  "facts": [
   {
    "fact_id": "f_0001",
@@ -35176,6 +35176,131 @@
    "conflicts_with": [],
    "added_version": "v5.22",
    "added_by": "manual"
+  },
+  {
+   "fact_id": "f_2072",
+   "claim": "W. H. Ball held a documented FOUNDING ROLE beyond leading the 1894 trip: the 1951 \"Kamp Kanawana History\" records that in the fall of 1892 \"a Committee of Messrs. J. W. Ross, W. E. Cushing, W. W. Wilson, T. Duncan Patton and W. H. Ball, was appointed\" to plan a boys' camp. Ball was one of five founding committee members.",
+   "sources": [
+    "src_ia_kanawana_history_1951"
+   ],
+   "confidence": "stated",
+   "category": "people",
+   "entities": [
+    "W. H. Ball",
+    "J. W. Ross",
+    "W. E. Cushing",
+    "W. W. Wilson",
+    "T. Duncan Patton"
+   ],
+   "date_ref": "1892",
+   "conflicts_with": [],
+   "added_version": "v5.23",
+   "added_by": "ralph_loop"
+  },
+  {
+   "fact_id": "f_2073",
+   "claim": "The Montreal YMCA's own 1955 Annual Report carries W. H. Ball's memorial notice: \"W.H. Ball, the first Physical Director of the YMCA of Montreal, passed away during 1955. He is endeared and remembered by members of our Association through his work in establishing the first Canadian camps for boys, and his part in founding the Dominion Square YMCA Building.\" This is the association crediting Ball, in its own words, with establishing the first Canadian camps for boys -- the strongest institutional corroboration yet of his founding role -- and independently confirms the 1955 death year from a Montreal source.",
+   "sources": [
+    "src_ia_ymca_montreal_annual_reports_collection"
+   ],
+   "confidence": "stated",
+   "category": "people",
+   "entities": [
+    "W. H. Ball"
+   ],
+   "date_ref": "1955",
+   "conflicts_with": [],
+   "added_version": "v5.23",
+   "added_by": "ralph_loop"
+  },
+  {
+   "fact_id": "f_2074",
+   "claim": "W. H. Ball remained connected to the Montreal association long after leaving it: the 1906 report records a visit from \"Mr. W. H. Ball, of Detroit\", and the 1928 report notes his presence at the Provincial Leaders' Corps Conference in November as \"formerly Physical Director in the Dominion Square Building and now on the faculty of the Y.M.C.A. College at Springfield\".",
+   "sources": [
+    "src_ia_ymca_montreal_annual_reports_collection"
+   ],
+   "confidence": "stated",
+   "category": "people",
+   "entities": [
+    "W. H. Ball"
+   ],
+   "date_ref": "1906-1928",
+   "conflicts_with": [],
+   "added_version": "v5.23",
+   "added_by": "ralph_loop"
+  },
+  {
+   "fact_id": "f_2075",
+   "claim": "A first-person 1919 memoir by a founding participant states the 1894 camp was first located at LAC LA CROIX, not Lake Saint-Joseph: \"it was decided to locate the first camp at Lac la Croix and in 1894 the first group went out. It was then discovered that just a little further on there was a better location, and property with fishing privileges was secured at Lac St. Joseph.\" This CONFLICTS with the established narrative (1951 history, QAHN, McMorris) that the 1894 Camp Jubilee was on islands in Lake Saint-Joseph. See conflict c_024 -- two documented sources disagreeing, requiring human review.",
+   "sources": [
+    "src_ia_autobiographical_sketch_1919"
+   ],
+   "confidence": "stated",
+   "category": "history",
+   "entities": [
+    "Camp Jubilee",
+    "Lac la Croix",
+    "Lake Saint-Joseph",
+    "W. H. Ball"
+   ],
+   "date_ref": "1894",
+   "conflicts_with": [],
+   "added_version": "v5.23",
+   "added_by": "ralph_loop"
+  },
+  {
+   "fact_id": "f_2076",
+   "claim": "The 1919 memoir independently names \"John W. Ross\" as a member of the small syndicate that investigated a camp site, alongside W. H. Ball and Will Wilson. The 1951 history's founding committee likewise lists \"J. W. Ross\". This strengthens the documentary basis for John W. Ross as a founding figure, and bears on the open question of whether the \"John Roy\" who wrote from Camp Jubilee in 1901 is the same man. It does not resolve that question -- Roy and Ross remain distinct spellings with no source equating them.",
+   "sources": [
+    "src_ia_autobiographical_sketch_1919",
+    "src_ia_kanawana_history_1951"
+   ],
+   "confidence": "stated",
+   "category": "people",
+   "entities": [
+    "John W. Ross",
+    "John Roy",
+    "W. H. Ball",
+    "Will Wilson"
+   ],
+   "date_ref": "1892-1901",
+   "conflicts_with": [],
+   "added_version": "v5.23",
+   "added_by": "ralph_loop"
+  },
+  {
+   "fact_id": "f_2077",
+   "claim": "The 1951 \"Kamp Kanawana History\" dates the origin of Montreal YMCA boys' camping to 1892, when General Secretary D. A. Budge made a fishing trip to Lac Des Isles accompanied by a Mr. Ross, a Director of the Association; the train then ran only as far as Ste Jerome, and the rest of the trip was made by horse and cart. The two men were \"greatly impressed by the Laurentian country\" and discussed the possibility of a camp for boys and young men.",
+   "sources": [
+    "src_ia_kanawana_history_1951"
+   ],
+   "confidence": "stated",
+   "category": "history",
+   "entities": [
+    "D. A. Budge",
+    "Lac Des Isles"
+   ],
+   "date_ref": "1892",
+   "conflicts_with": [],
+   "added_version": "v5.23",
+   "added_by": "ralph_loop"
+  },
+  {
+   "fact_id": "f_2078",
+   "claim": "Two files in the digitized YMCA of Montreal fonds are MISDATED by a century in their Internet Archive identifiers: \"sgw-ymca-annual-report-1990-1991\" and \"sgw-ymca-annual-report-1991-1992\" contain 1890-1891 and 1891-1892 content respectively. The 1890-91 report is the one announcing W. H. Ball's hiring as Physical Director. Anyone searching the collection by date will miss them.",
+   "sources": [
+    "src_ia_ymca_montreal_annual_reports_collection"
+   ],
+   "confidence": "stated",
+   "category": "meta",
+   "entities": [
+    "YMCA of Montreal",
+    "W. H. Ball"
+   ],
+   "date_ref": "1890-1892",
+   "conflicts_with": [],
+   "added_version": "v5.23",
+   "added_by": "ralph_loop"
   }
  ]
 }

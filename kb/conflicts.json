@@ -461,6 +461,28 @@
    "resolved_at": "2026-08-14T00:00:00Z",
    "resolution": "Resolved in favour of Geoff Anderson. This is not an oral-history-versus-document case: it is an INFERENCE from one document's authorship versus a DIRECT SIGNATURE in another. Bannerman was Associate Executive Secretary of the Metropolitan Office from 1967 and 'Assistant du Secretaire General' by February 1970, so his 1969 report reads as headquarters oversight -- which ross-bannerman.md had already concluded independently. directors-index.md is corrected: Bannerman is removed from the Camp Directors table and recorded under the association's administrative oversight instead. Worth noting how this was found: the wiki had hedged the claim carefully ('Role title at Kanawana unconfirmed... suggest senior position') and still carried it in a table of directors. A hedge in the notes column does not undo a name in a directors table.",
    "notes": "Raised and resolved in the same pass; recorded rather than silently fixed because the erroneous attribution had propagated into the Camp Directors table and was cited from other articles."
+  },
+  {
+   "conflict_id": "c_024",
+   "entity": "Camp Jubilee, 1894 season",
+   "attribute": "the lake the first camp was actually held on",
+   "positions": [
+    {
+     "claim": "The 1894 camp was on islands in Lake Saint-Joseph, Township of Howard.",
+     "source": "1951 Kamp Kanawana History; QAHN; McMorris thesis; YMCA Quebec",
+     "facts": []
+    },
+    {
+     "claim": "The 1894 camp was first located at Lac la Croix, and Lake Saint-Joseph was secured only afterwards.",
+     "source": "src_ia_autobiographical_sketch_1919 -- first-person memoir by a member of the founding syndicate",
+     "facts": []
+    }
+   ],
+   "status": "unresolved",
+   "raised_at": "2026-08-14T00:00:00Z",
+   "resolved_at": null,
+   "resolution": null,
+   "notes": "HUMAN DECISION POINT per CLAUDE.md: two documented sources disagreeing, not oral history versus document, so the standing resolution directive does not apply. Arguments each way. FOR Lac la Croix: the 1919 sketch is first-person testimony from a man who was in the room, written 25 years after the events and 32 years before the 1951 history, which is itself a second-hand institutional retelling. AGAINST: 25 years is long enough to compress a site-selection sequence, the author left Montreal for Winnipeg in June 1894 and so may not have been present at the camp itself, and every other source places 1894 at Lake Saint-Joseph. A THIRD reading, which would dissolve the conflict: 'decided to locate' may describe an intention that was revised before the season, with 'the first group went out' referring to the scouting party rather than the campers. The passage is genuinely ambiguous about what happened in which order. Do not resolve by picking the majority; the memoir may be recording a real detail the institutional narrative smoothed away. Concordia's 1893 'Report - trip to St. Agathe' journal (sub-series 12A) is the document most likely to settle it."
   }
  ]
 }

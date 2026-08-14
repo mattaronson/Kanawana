@@ -10881,7 +10881,39 @@
    "extraction_version": "v5.20",
    "reliability": "primary",
    "notes": "Quotes \"Monsieur D. R. Bannerman, Assistant du Secretaire General du YMCA de Montreal\" -- documenting his association-level role in early 1970, consistent with organisational oversight of Kanawana rather than a camp directorship."
+  },
+  {
+   "source_id": "src_ia_kanawana_history_1951",
+   "type": "report",
+   "title": "\"Kamp Kanawana History\", presented at a Training Course, 6 June 1951",
+   "date": "1951-06-06",
+   "date_precision": "exact",
+   "origin": "internet_archive",
+   "origin_url": "https://archive.org/details/1951-kamp-kanawana-history",
+   "cache_path": null,
+   "char_count": 0,
+   "ingested_at": "2026-08-14T00:00:00Z",
+   "extracted": true,
+   "extraction_version": "v5.23",
+   "reliability": "primary",
+   "notes": "Institutional founding narrative delivered in-house in 1951. Dates the origin to 1892 (D. A. Budge's fishing trip to Lac Des Isles with a Mr. Ross, a Director of the Association) and names the founding committee appointed in the fall of 1892: \"a Committee of Messrs. J. W. Ross, W. E. Cushing, W. W. Wilson, T. Duncan Patton and W. H. Ball, was appointed.\" This is the document naming W. H. Ball on the founding committee, and the same document that carries the R. L. Charlton camp-naming story. OCR note: the scan renders periods as \"e\", so \"WeHe Ball\" = \"W. H. Ball\"."
+  },
+  {
+   "source_id": "src_ia_autobiographical_sketch_1919",
+   "type": "oral_history",
+   "title": "\"Brief Autobiographical Sketch of Association Career\", August 1919",
+   "date": "1919-08",
+   "date_precision": "year",
+   "origin": "internet_archive",
+   "origin_url": "https://archive.org/details/1919-08-brief-autobiographical-sketch-of-association-career",
+   "cache_path": null,
+   "char_count": 0,
+   "ingested_at": "2026-08-14T00:00:00Z",
+   "extracted": true,
+   "extraction_version": "v5.23",
+   "reliability": "primary",
+   "notes": "FIRST-PERSON MEMOIR BY A FOUNDING PARTICIPANT, written 25 years after the fact. The author is not named in the OCR (the signature is illegible) but is identifiable from internal evidence: he joined the Montreal YMCA in 1883, graduated in 1892, took charge of membership and finances at the new Dominion Square building, and in June 1894 became the THIRD General Secretary of the Winnipeg YMCA, succeeding Herbert Gill (the first was C. M. Copeland); later YMCA Area Supervisor for Military District No. 10 (Saskatchewan) 1916-1918. Key passage: \"a small group composed of W. H. Ball, John W. Ross, Will Wilson, myself and others formed a small syndicate to investigate the possibilities of securing an opening for a young men's camp. St. Agathe District was visited by four of us... it was decided to locate the first camp at Lac la Croix and in 1894 the first group went out. It was then discovered that just a little further on there was a better location, and property with fishing privileges was secured at Lac St. Joseph.\" This CONFLICTS with the established narrative that the 1894 camp was at Lake Saint-Joseph -- see conflict c_024. Also independently names \"John W. Ross\", bearing on the John Roy / John W. Ross identification question."
   }
  ],
- "source_count": 680
+ "source_count": 682
 }

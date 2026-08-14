@@ -1,13 +1,17 @@
 # Billy Ball
 
-*Status: E1-reviewed | Sources: 10*
-*Last Updated: 2026-07-09*
+*Status: E1-reviewed | Sources: 13*
+*Last Updated: 2026-08-14*
 
 ## Summary
 
 "Billy" Ball of the YMCA of Montreal led the first organized camping trip in the summer of 1894, taking a group of 20 boys to an island on Lake Saint-Joseph in the Township of Howard (now Saint-Adolphe-d'Howard), near Sainte-Agathe, Quebec.^1 ^2 This trip formally established Camp Jubilee, Quebec's first residential summer camp. The camp was named to commemorate the 50th anniversary of the worldwide YMCA movement (founded 1844 in London).^3
 
-Despite his founding role, Ball remained, until 2026-07-09, one of the most underdocumented figures in Kanawana history. A formal RALPH research pass has since strongly corroborated his identity as the YMCA of Montreal's Physical Director, William Henry Ball, via three independent primary sources -- see "The William Henry Ball Question" below -- though the informal "Billy" nickname itself and direct personal credit for leading the 1894 trip remain unconfirmed in period documents.
+Despite his founding role, Ball remained, until 2026-07-09, one of the most underdocumented figures in Kanawana history. A formal RALPH research pass corroborated his identity as the YMCA of Montreal's Physical Director, William Henry Ball, via three independent primary sources — see "The William Henry Ball Question" below.
+
+**Two further findings, 2026-08-14, close most of what was left open.** The association credited Ball with the founding *in its own words*, in his obituary notice: the 1955 Annual Report records that "W.H. Ball, the first Physical Director of the YMCA of Montreal, passed away during 1955. He is endeared and remembered by members of our Association through his work in **establishing the first Canadian camps for boys**, and his part in founding the Dominion Square YMCA Building."^12 That is the Montreal YMCA's own memorial notice, and it also confirms the 1955 death year from a Montreal source rather than a Springfield one. And his role is now documented as more than trip-leading: the 1951 "Kamp Kanawana History" records that in the fall of 1892 "a Committee of Messrs. J. W. Ross, W. E. Cushing, W. W. Wilson, T. Duncan Patton and **W. H. Ball**, was appointed" to plan the camp.^13 Ball was one of five founding committee members, appointed two years before the first season.
+
+What remains genuinely unconfirmed is narrower than before: the informal "Billy" nickname appears in no period document located so far.
 
 ## Context: The Montreal YMCA and Early Camping
 
@@ -15,7 +19,9 @@ Ball's 1894 trip did not occur in isolation. The Montreal YMCA, founded November
 
 In 1892, two years before Ball's trip, Lemuel Cushing brought a group of boys to Lake Saint-Joseph in what was the Montreal YMCA's inaugural summer camping program.^3 In 1893, YMCA staff conducted an exploration trip to the Sainte-Agathe area, documented in a journal titled "Report-trip to St. Agathe" in the Concordia Archives — described as "the first Montreal YMCA venture to explore the country round about St. Agathe with the view of securing a lake on which to establish a Summer Camp."^6
 
-The relationship between Cushing's 1892 exploratory trip, the 1893 site survey, and Ball's 1894 founding of Camp Jubilee is not documented. Whether Ball participated in either prior trip is unknown.
+**Ball's participation in the planning is now documented, and it predates the 1893 survey.** He sat on the committee appointed in the fall of 1892.^13 A first-person memoir written in 1919 by another member of that group describes it from the inside: "a small group composed of W. H. Ball, John W. Ross, Will Wilson, myself and others formed a small syndicate to investigate the possibilities of securing an opening for a young men's camp. St. Agathe District was visited by four of us and two or three days spent investigating in different directions."^14 So Ball was not handed a site — he helped choose it.
+
+That same memoir also raises a genuine problem about *which* site. It continues: "it was decided to locate the first camp at **Lac la Croix** and in 1894 the first group went out. It was then discovered that just a little further on there was a better location, and property with fishing privileges was secured at Lac St. Joseph."^14 Every other source places the 1894 camp on Lake Saint-Joseph. See **conflict c_024 (unresolved)** and [[history/founding-1894|Founding of Camp Kanawana]].
 
 ## Camp Jubilee and Its Successors
 
@@ -63,6 +69,9 @@ Two caveats prevent full closure. First, no period document found uses the nickn
 9. YMCA of Montreal, Annual Report, 1890-91 (presented May 28, 1891) [src_ia_ymca_annual_1890_91].
 10. YMCA of Montreal, Annual Report, 1902 [src_ia_ymca_annual_1902].
 11. Lovell's Montreal Directory, 1893-94 [src_lovells_montreal_directory_1893_94].
+12. YMCA of Montreal Annual Report 1955, memorial notice for W. H. Ball [src_ia_ymca_montreal_annual_reports_collection].
+13. "Kamp Kanawana History," presented at a Training Course, 6 June 1951 [src_ia_kanawana_history_1951].
+14. "Brief Autobiographical Sketch of Association Career," August 1919 — first-person memoir by an unnamed member of the founding syndicate, identifiable from internal evidence as the man who became the third General Secretary of the Winnipeg YMCA in June 1894 [src_ia_autobiographical_sketch_1919].
 
 ## Research Notes
 
