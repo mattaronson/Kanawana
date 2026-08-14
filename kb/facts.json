@@ -1,8 +1,8 @@
 {
   "version": "v4.98",
-  "kb_version": "v5.14",
+  "kb_version": "v5.15",
   "migrated_from": "3.3",
-  "fact_count": 1975,
+  "fact_count": 1978,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -34175,6 +34175,54 @@
       "date_ref": "1961",
       "conflicts_with": [],
       "added_version": "v5.14",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_2014",
+      "claim": "Operator recollection holds that the 1961 L&V Games went to the Voyageurs, inferred from the Voyageurs being remembered as holding the longest unbroken run. This is UNCONFIRMED and abductive: a Voyageur record run requires five consecutive seasons, which only 1961 can supply, so the reasoning infers the shield from the remembered run rather than recalling the shield itself. It cannot serve as independent confirmation of the run it would create. 1961 remains marked unknown pending a read of the trophy.",
+      "sources": [
+        "src_oral_aronson_lv_balance_recollection"
+      ],
+      "confidence": "inferred",
+      "category": "traditions",
+      "entities": [
+        "L&V Games"
+      ],
+      "date_ref": "1961",
+      "conflicts_with": [],
+      "added_version": "v5.15",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_2015",
+      "claim": "Two components of the same operator recollection are independently confirmed by the transcribed winners roll: the Lumbermen hold slightly more wins overall (41-37), and the gap narrowed sharply during the operator's camper years -- between 1991 and 1998 the Voyageurs took six of eight seasons, cutting the Lumbermen's lead from +6 to +1, the sharpest sustained swing in the record.",
+      "sources": [
+        "src_oral_aronson_lv_balance_recollection"
+      ],
+      "confidence": "stated",
+      "category": "traditions",
+      "entities": [
+        "L&V Games"
+      ],
+      "date_ref": "1991-1998",
+      "conflicts_with": [],
+      "added_version": "v5.15",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_2016",
+      "claim": "The L&V series has swung considerably despite its near-even final tally. The Voyageurs led the all-time series only in its first two seasons (1947-1948). The Lumbermen built to a high-water mark of +7 by 1978, having won 19 of the first 31 seasons. The Voyageurs then took 11 of 17 seasons between 1979 and 1995, cutting the deficit to two and by 1998 to one. The series remained within one or two wins for two decades before the Lumbermen widened it back to +4 by 2026.",
+      "sources": [
+        "src_oral_aronson_lv_balance_recollection"
+      ],
+      "confidence": "inferred",
+      "category": "traditions",
+      "entities": [
+        "L&V Games"
+      ],
+      "date_ref": "1947-2026",
+      "conflicts_with": [],
+      "added_version": "v5.15",
       "added_by": "manual"
     }
   ]

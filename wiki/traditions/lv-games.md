@@ -1,6 +1,6 @@
 # The L&V Games
 
-*Status: E1-reviewed | Sources: 12*
+*Status: E1-reviewed | Sources: 13*
 *Last Updated: 2026-07-10*
 
 The L&V Games trace their origin to 1947, when the camp created "Lumberman-Voyageur Week" as a culminating event for the final week of summer. The entire camp was divided into two teams, Voyageurs and Lumbermen (known as "Bûcherons" in French), and the week was given over to inter-team competition. The concept drew on [[connections/related-camps/camp-pine-crest|Camp Pine Crest]] in Ontario, which had run its own Lumbermen-versus-Voyageurs competition since 1940, complete with the same team symbols: an axe for the Lumbermen and a paddle for the Voyageurs.
@@ -47,7 +47,7 @@ Years appear on the trophy as two digits; they are expanded here. The singular "
 | 1958 | Lumbermen | | 1985 | Voyageurs | | 2012 | Lumbermen |
 | 1959 | Voyageurs | | 1986 | Lumbermen | | 2013 | Voyageurs |
 | 1960 | Voyageurs | | 1987 | Lumbermen | | 2014 | Voyageurs |
-| **1961** | ***unknown*** | | 1988 | Voyageurs | | 2015 | Lumbermen |
+| **1961** | ***unknown*** — *see below* | | 1988 | Voyageurs | | 2015 | Lumbermen |
 | 1962 | Voyageurs | | 1989 | Voyageurs | | 2016 | Lumbermen |
 | 1963 | Voyageurs | | 1990 | Lumbermen | | 2017 | Voyageurs |
 | 1964 | Lumbermen | | 1991 | Lumbermen | | 2018 | Voyageurs |
@@ -65,7 +65,36 @@ Years appear on the trophy as two digits; they are expanded here. The singular "
 
 Four seasons is the longest run either side has managed, and it has happened four times — Lumbermen 1968–1971 and 1975–1978, Voyageurs 1979–1982 and 1992–1995. The 1975–1982 stretch is the most striking sequence on the trophy: four straight Lumberman years (the singular-spelled ones) answered immediately by four straight Voyageur years.
 
-There is a nice consequence of the one remaining gap. 1961 sits between Voyageur wins in 1959–1960 and 1962–1963. **If 1961 turns out to be a Voyageur year, it creates a five-season run, 1959–1963 — longer than anything else on the trophy.** If it went to the Lumbermen, it merely separates two ordinary pairs. The single unread shield is the one that decides whether the record run in the Games' history exists.
+### The balance of the series
+
+The near-even final tally conceals a series that has swung considerably. Tracking the Lumbermen's running lead season by season:
+
+| Point | Lumbermen lead |
+|---|---|
+| 1948 | −2 *(Voyageurs' largest lead ever)* |
+| 1963 | −2 |
+| 1971 | +4 |
+| **1978** | **+7 — the Lumbermen's high-water mark** |
+| 1982 | +3 |
+| 1991 | +6 |
+| 1995 | +2 |
+| 1998 | +1 |
+| 2002 | +1 |
+| 2009 | +4 |
+| 2020 | +1 |
+| 2026 | +4 |
+
+The Voyageurs have led the all-time series only in its first two seasons. From there the Lumbermen built steadily to a **+7 lead by 1978** — winning 19 of the first 31 seasons. What followed was the Voyageurs' great recovery: **between 1979 and 1995 they took 11 of 17 seasons**, cutting the deficit from seven to two, and by 1998 to a single win. The series then sat within one or two wins for two decades before the Lumbermen pulled clear again, winning three straight from 2022 and taking 2026 to restore a +4 margin.
+
+### The 1961 shield
+
+1961 sits between Voyageur wins in 1959–1960 and 1962–1963. If it was a Voyageur year it forms a **five-season run, 1959–1963 — longer than anything else on the trophy**. If it went to the Lumbermen, it merely separates two ordinary pairs.
+
+**Operator recollection points to the Voyageurs**, on the grounds that the Voyageurs are remembered as holding the longest unbroken run.^13 That is meaningful support, because a Voyageur record run *requires* five consecutive seasons — the Voyageurs' other best runs are four (1979–1982 and 1992–1995), which only tie the Lumbermen's two four-season runs (1968–1971, 1975–1978). A remembered Voyageur record is therefore only true if 1961 went to them.
+
+It remains **unconfirmed**, and the table above still marks it unknown. The reasoning is abductive — it infers the shield from the remembered run rather than recalling the shield itself — so it cannot serve as independent confirmation of the very run it would create. Only the trophy can settle it.
+
+Two other parts of the same recollection *are* independently confirmed by the roll, which lends it weight: that the Lumbermen hold slightly more wins overall (41–37), and that the gap narrowed markedly during the early-to-mid 1990s. In the 1991–1998 window the Voyageurs took six of eight seasons, pulling the series from +6 to +1 — the sharpest sustained swing anywhere in the record, and one witnessed first-hand. The trend has since reversed rather than continued: the margin has widened back to +4 in the years since.
 
 ### The remote 2020 Games, and the single missing season
 
@@ -102,6 +131,7 @@ The role of "Capitaine" — leader of the Voyageur team — is considered one of
 - Wikipedia / reporting on Leslie Paris (UBC) research, "Color war" [src_wikipedia_color_war].
 - YMCA Quebec, "Voyageurs" canoe-tripping program page [src_ymcaquebec_voyageurs_page].
 - Direct fetches, 2026-07-09: hayowentha.org/program/voyageurs/ and find.acacamps.org (Woodsmen program profile) [src_hayowentha_website, src_aca_hayowentha_programs].
+13. Operator recollection (Matt Aronson), 2026-08-14: the Voyageurs are remembered as holding the longest unbroken run, and the Lumbermen as holding slightly more wins overall with the gap having narrowed during his camper years [src_oral_aronson_lv_balance_recollection]. Basis for the unconfirmed 1961 attribution.
 12. Operator (Matt Aronson), 2026-08-14: winners for the four shields not legible in the photographs (1949 Lumbermen, 1952 Voyageurs, 1958 Lumbermen; 1961 still to be verified), and the 2026 result, decided that night [src_oral_aronson_lv_trophy_gaps_2026].
 11. Operator account (Matt Aronson), 2026-08-14: the 2020 L&V Games were played remotely by volunteer alumni and campers in socially-distanced "bubbles"; the 2021 Games were not held [src_oral_aronson_lv_2020_remote]. Resolves conflict c_021.
 10. Photographs of the Kanawana Annual Trophy for Lumbermen Voyageur Games (perpetual trophy, winners shields 1947-2025), supplied by the operator 2026-08-14 [src_photo_lv_annual_trophy]. Establishes the trophy's existence, form, and span; the shields themselves are not yet reliably transcribed.

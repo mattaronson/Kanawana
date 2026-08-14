@@ -10417,7 +10417,23 @@
       "extraction_version": "v5.14",
       "reliability": "primary",
       "notes": "Operator (Matt Aronson) supplied the winners for three of the four shields obscured behind the crossed paddle and axe in the trophy photographs -- 1949 Lumbermen, 1952 Voyageurs, 1958 Lumbermen -- and the 2026 result (Lumbermen), decided the night of 2026-08-14 and not yet added to the trophy. 1961 was explicitly left UNKNOWN, the operator noting it will have to be verified against the trophy itself; it is not guessed anywhere in this KB."
+    },
+    {
+      "source_id": "src_oral_aronson_lv_balance_recollection",
+      "type": "oral_history",
+      "title": "Operator recollection on the L&V series balance and the 1961 shield",
+      "date": "2026-08-14",
+      "date_precision": "exact",
+      "origin": "user_provided",
+      "origin_url": null,
+      "cache_path": null,
+      "char_count": 0,
+      "ingested_at": "2026-08-14T00:00:00Z",
+      "extracted": true,
+      "extraction_version": "v5.15",
+      "reliability": "secondary",
+      "notes": "Operator (Matt Aronson) recollection, 2026-08-14: that the Voyageurs held the longest unbroken run (inferring 1961 went to them), that the Lumbermen hold slightly more wins overall, and that the gap narrowed since his camper years in the 1990s. Reliability set to SECONDARY rather than primary: unlike the roster and gap-shield sources, this is remembered summary judgement about a pattern, not recall of a specific record, and the 1961 attribution is abductive -- reasoned FROM the remembered run rather than from the shield. Two components ARE independently confirmed by the transcribed roll (Lumbermen 41-37 ahead; a sharp 1991-1998 narrowing from +6 to +1), which lends the recollection weight without making it decisive on 1961."
     }
   ],
-  "source_count": 651
+  "source_count": 652
 }
