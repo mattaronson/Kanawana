@@ -2656,7 +2656,7 @@
     "traditions/order-of-owens"
    ],
    "file_id": null,
-   "word_count": 4754,
+   "word_count": 5000,
    "notes": "E1 REVIEW (2026-02-19): Fixed non-existent src_concordia_12B04 in header (removed; src_concordia_atom_12B04 already present). Fixed '131-year history' ambiguity to 'more than 130 years'. All claims cited, dates consistent, names cross-checked, tone encyclopedic. | 2026-08-14: cross-linked to the new traditions/order-of-owens.md. | 2026-08-14: NEW prose section on the Order of the Knights of Kanawana, giving the proclamation text and the six challenges for knighthood (previously the KB held the oath and the 1980-2009 roll but not the criteria). NOTE: this article is E1-reviewed and has received substantive new content; warrants a re-REVIEW pass. | 2026-08-14 (2nd pass): charter mined further -- A/B/C skill-grading system across named activities (f_2004), 'Kamp' spelling in challenge 5 corroborating the pre-2005 usage (f_2005), and the birchbark medium/composition (f_2006).",
    "tags": {
     "era": [
@@ -9066,7 +9066,7 @@
     "site/camp-otoreke"
    ],
    "file_id": null,
-   "word_count": 2559,
+   "word_count": 2596,
    "notes": "Created 2026-08-14 (p_256) from the 114-annual-report sweep. ~60 seasons of camper counts and camper-weeks, 1894-2023, with SIX internal inconsistencies carried as flags rather than resolved -- every one of them the association contradicting itself. Kept as a separate article so the contradictions travel with the numbers. No aggregate totals computed: too many missing years, the 1998-2001 rows count a different population, and the two documented lifetime totals (40,000 in 1964, 34,000 in 1984) contradict each other. Marked draft, not stub, because it is transcription of primary figures rather than synthesis; NOT yet VERIFY-passed -- figures should be spot-checked against the OCR before advancing."
   }
  ],

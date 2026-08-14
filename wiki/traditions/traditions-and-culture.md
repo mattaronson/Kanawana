@@ -1,6 +1,6 @@
 # Traditions and Culture at Kanawana
 
-*Status: E1-reviewed | Sources: 33*
+*Status: E1-reviewed | Sources: 34*
 *Last Updated: 2026-08-14*
 
 ## Overview
@@ -83,6 +83,23 @@ The 1922 brochure documented a 32-subject Honour System, with the Large K as the
 - **Altruism Badge**: The highest badge, awarded by Director/Leaders, could not be "tried for"
 - **KLS (Kanawana Life Saver)**: Based on the RLSS Award of Merit
 - **The Green Triangle**: Described as "the coveted Green Triangle" in a Reader's Digest account, this award was given to campers who accomplished a specified series of feats. Charles "Smillie" Buckland was the first recipient.^19
+
+### The M. E. Williams cups (1917–1922)
+
+A competition this wiki had no record of, with a winners roll thirty years older than the L&V trophy's. The *Gas Bag* "Extra, Vol. 13 No. 1" of 1923 asks "**Which branch will win the M. E. Williams cups?**" and prints a two-column table of winners for **Aquatics** and **Athletics**, 1917 through 1922.^25
+
+Crucially it was an **inter-branch** competition — North Branch, Central and Westmount contending against each other — not the intra-camp two-team format the [[traditions/lv-games|L&V Games]] adopted from 1947. Kanawana in this period drew from several YMCA branches, and the cups pitted them against one another at camp.
+
+| Year | Aquatics | Athletics |
+|---|---|---|
+| 1917 | North Branch | Westmount |
+| 1918 | *[ditto]* | Central |
+| 1919 | *[ditto]* | *[ditto]* |
+| 1920 | Central | *[ditto]* |
+| 1921 | Westmount | Westmount |
+| 1922 | *[ditto]* | *[ditto]* |
+
+**The ditto readings are an inference and are marked as such.** The OCR renders the repeat marks as garbage characters — "sf", "s", "ce", "ef", "es" — which is consistent with ditto marks but not proof of them. The *named* entries are certain; the repeats need a page image to confirm. Who M. E. Williams was, when the cups were first given, and when they lapsed are all undocumented.
 
 ### Two lost honours, recovered 2026-08-14
 
@@ -186,6 +203,7 @@ The order overlaps in membership with [[traditions/order-of-owens|the Order of O
 18. YMCA Quebec, "Carol Skinner Receives Camp YMCA Kanawana Pip Alumni Award" (2016). URL: https://www.ymcaquebec.org/en/news/als-advocate-carol-skinner-receives-camp-ymca-kanawana
 19. Reader's Digest, "Camp Shapes Lives." Charles "Smillie" Buckland account of the Green Triangle award.
 24. Kamp Kanawana season reports and newsletters in the Concordia-digitized YMCA of Montreal fonds: *The Green Triangle*, 29 July 1940 (Red Feather); the 1965 camp publication *The Chestnut* (Golden Arrow, Red Feather Revue); *Kanawana… A Place to Grow*, 1988 (founding dates for the Order of Owens, Knights of Kanawana and Walden Solos); *Kamp Kanawana Director's Report 1987* [src_ia_ymca_montreal_fonds_collection, src_ia_kanawana_place_to_grow_1988, src_ia_kanawana_report_1987].
+25. *The Gas Bag*, "Extra, Vol. 13 No. 1" (1923), Kamp Kanawana official paper (Internet Archive, Concordia-digitized fonds) [src_ia_ymca_montreal_fonds_collection].
 20. Leigh Evans blog, reflections on Camp Kanawana experience.
 21. Oral history, Matt Aronson (2026) [src_oral_aronson].
 22. YMCA Europe, "Relight the Fire: The Friendship Torch Story"; Camp Fuller Archive Project, "Camp Fuller During the Great Depression."

@@ -3114,7 +3114,9 @@
    "blocking": false,
    "assigned_weight": "P0",
    "created_at": "2026-08-14T00:00:00Z",
-   "status": "pending"
+   "status": "completed",
+   "completed_at": "2026-08-14T00:00:00Z",
+   "result": "Completed 2026-08-14 as a NULL on the main question, with three substantive finds from the two issues that DO exist. NULL: only two Gas Bag items are in the digitized fonds -- 1 September 1923 and the 'Extra, Vol. 13 No. 1' (1923). The numbering implies twelve earlier volumes, c.1911 onward, none digitized. They must be sought in Concordia's physical holdings. FINDS from the Extra: (1) THE M. E. WILLIAMS CUPS, a previously undocumented INTER-BRANCH aquatics and athletics competition at Kanawana with a printed winners roll 1917-1922 -- thirty years older than the L&V trophy, and a different format (branch-versus-branch, not two intra-camp teams); (2) the fee was $8.50/week in 1923, extending the documented fee series back four years and showing it unchanged across at least 1923-1929; (3) R. L. Charlton was still working on camp buildings in 1923, arranging a Senior Log Cabin -- placing him at camp between his 1894 committee membership and his 1943 manuscript."
   },
   {
    "priority_id": "p_247",
@@ -3279,6 +3281,17 @@
    "status": "completed",
    "completed_at": "2026-08-14T00:00:00Z",
    "result": "Completed 2026-08-14. ALL SIX flagged inconsistencies re-checked at source and ALL SIX are genuine -- the association contradicting itself, not OCR misreads or transcription errors on our side. Verifying quotations recorded in the KB. Spot-checks on ordinary figures (1894 '23 workers and boys', 1923 269, 1939 1477, 1949 '557 boys... 1,464 camper [weeks]', 1969 '622 boys and girls spent 1613 camper weeks') all pass; no transcription errors found. TWO BONUS FINDINGS from the pass: the 1931 report calls W. J. Holliday 'THE FIRST CAMP DIRECTOR' in the association's own words -- independent confirmation of the 1910 announcement from twenty-one years later; and a new name, Mr. Gnaedinger, former President of the Kanawana Committee. Also added a scope note: the pre-1921 rows count the BOYS' camp only, and the senior camp is reported separately and is often larger."
+  },
+  {
+   "priority_id": "p_261",
+   "rank": 261,
+   "type": "RESEARCH",
+   "description": "Who was M. E. Williams, and what was the full span of the M. E. Williams cups? A previously unknown Kanawana competition with a documented winners roll 1917-1922, inter-branch (North Branch / Central / Westmount) rather than the L&V two-team format. Unknown: who Williams was, when the cups were first given, when they lapsed, and whether they are an ancestor of the L&V Games or an unrelated tradition. ALSO: obtain a PAGE IMAGE of the 1923 Gas Bag Extra to confirm the ditto marks in the winners table -- the OCR renders them as garbage characters, so the repeat years are currently an inference. The annual reports for 1918-1923 are the obvious first place to look for Williams and for the cups' origin.",
+   "article_id": "traditions-and-culture",
+   "blocking": false,
+   "assigned_weight": "P1",
+   "created_at": "2026-08-14T00:00:00Z",
+   "status": "pending"
   }
  ]
 }

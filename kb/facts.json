@@ -1,8 +1,8 @@
 {
  "version": "v4.98",
- "kb_version": "v5.32",
+ "kb_version": "v5.33",
  "migrated_from": "3.3",
- "fact_count": 2124,
+ "fact_count": 2130,
  "facts": [
   {
    "fact_id": "f_0001",
@@ -36750,6 +36750,102 @@
    "date_ref": "1894-1920",
    "conflicts_with": [],
    "added_version": "v5.32",
+   "added_by": "ralph_loop"
+  },
+  {
+   "fact_id": "f_2163",
+   "claim": "THE M. E. WILLIAMS CUPS -- a previously undocumented Kanawana competition, with its own winners roll 1917-1922, thirty years before the L&V trophy. The Gas Bag \"Extra, Vol. 13 No. 1\" (1923) asks \"Which branch will win the M. E. Williams cups?\" and prints a two-column WINNERS table for Aquatics and Athletics. It was an INTER-BRANCH competition (North Branch, Central, Westmount), not the intra-camp two-team format the L&V Games later used.",
+   "sources": [
+    "src_ia_ymca_montreal_fonds_collection"
+   ],
+   "confidence": "stated",
+   "category": "traditions",
+   "entities": [
+    "M. E. Williams cups"
+   ],
+   "date_ref": "1917-1922",
+   "conflicts_with": [],
+   "added_version": "v5.33",
+   "added_by": "ralph_loop"
+  },
+  {
+   "fact_id": "f_2164",
+   "claim": "The M. E. Williams cups winners roll as printed in the 1923 Gas Bag Extra, with the ditto marks read as repeats -- AN INFERENCE, since the OCR renders them as garbage characters (\"sf\", \"s\", \"ce\", \"ef\", \"es\") rather than legible ditto marks. AQUATICS: 1917 North Branch, 1918 [ditto], 1919 [ditto], 1920 Central, 1921 Westmount, 1922 [ditto]. ATHLETICS: 1917 Westmount, 1918 Central, 1919 [ditto], 1920 [ditto], 1921 Westmount, 1922 [ditto]. The positions of the named entries are certain; the repeats are not, and a page image would settle them.",
+   "sources": [
+    "src_ia_ymca_montreal_fonds_collection"
+   ],
+   "confidence": "inferred",
+   "category": "traditions",
+   "entities": [
+    "M. E. Williams cups"
+   ],
+   "date_ref": "1917-1922",
+   "conflicts_with": [],
+   "added_version": "v5.33",
+   "added_by": "ralph_loop"
+  },
+  {
+   "fact_id": "f_2165",
+   "claim": "THE KANAWANA FEE WAS $8.50 PER WEEK IN 1923, extending the documented fee series back four years from the 1927-1929 figures. The 1923 Gas Bag Extra: \"The cost is $8.50 per week. This includes one return trip from Montreal to Camp.\" So the fee was UNCHANGED across at least 1923-1929, through a period when the annual reports repeatedly note it was deliberately below every other permanent camp \"to keep the cost within reach of the average home.\"",
+   "sources": [
+    "src_ia_ymca_montreal_fonds_collection"
+   ],
+   "confidence": "stated",
+   "category": "operations",
+   "entities": [
+    "Kamp Kanawana"
+   ],
+   "date_ref": "1923-1929",
+   "conflicts_with": [],
+   "added_version": "v5.33",
+   "added_by": "ralph_loop"
+  },
+  {
+   "fact_id": "f_2166",
+   "claim": "Visitor charges at Kanawana in 1923, from the Gas Bag Extra: 50 cents per night, 50 cents per meal, and $1.50 each way for the rig to Piedmont. The Camp Management \"prefers to know in advance if visitors are expected.\"",
+   "sources": [
+    "src_ia_ymca_montreal_fonds_collection"
+   ],
+   "confidence": "stated",
+   "category": "operations",
+   "entities": [
+    "Kamp Kanawana"
+   ],
+   "date_ref": "1923",
+   "conflicts_with": [],
+   "added_version": "v5.33",
+   "added_by": "ralph_loop"
+  },
+  {
+   "fact_id": "f_2167",
+   "claim": "R. L. CHARLTON WAS ACTIVE AT KANAWANA IN 1923, not only in the founding era and the 1943 manuscript: the 1923 Gas Bag Extra reports \"Mr. R. L. Charlton reports that he hopes to complete arrangements for a Senior Log Cabin. On rainy nights the Cabin, with a roaring fire throwing out its warmth and comfort, will be more than welcome.\" Charlton sat on the first Summer Camp committee in 1894 and wrote the \"Notes re Early Days\" manuscript in 1943 -- this places him still working on camp buildings nearly thirty years after the founding.",
+   "sources": [
+    "src_ia_ymca_montreal_fonds_collection"
+   ],
+   "confidence": "stated",
+   "category": "people",
+   "entities": [
+    "R. L. Charlton"
+   ],
+   "date_ref": "1923",
+   "conflicts_with": [],
+   "added_version": "v5.33",
+   "added_by": "ralph_loop"
+  },
+  {
+   "fact_id": "f_2168",
+   "claim": "NULL RESULT (p_246): only TWO Gas Bag items exist in the digitized YMCA of Montreal fonds -- the issue of 1 September 1923 and the \"Extra, Vol. 13 No. 1\" of 1923. The volume numbering (\"VOL. 13-No. I-1923\") implies twelve earlier volumes, i.e. roughly 1911 onward, and NONE of them is digitized in this collection. The earlier run would attack the residual 1902-1907, 1911-1912 and 1914 directorial holes and the earliest traditions; it must be sought outside this corpus, most likely in Concordia's physical holdings.",
+   "sources": [
+    "src_ia_ymca_montreal_fonds_collection"
+   ],
+   "confidence": "stated",
+   "category": "meta",
+   "entities": [
+    "Kamp Kanawana"
+   ],
+   "date_ref": "1911-1923",
+   "conflicts_with": [],
+   "added_version": "v5.33",
    "added_by": "ralph_loop"
   }
  ]

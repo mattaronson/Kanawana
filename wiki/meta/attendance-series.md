@@ -45,7 +45,7 @@ Two camps ran in parallel on one leased lake: the Junior Department's boys' camp
 | 1924 | 272 | 906 or 916 ⚠️ | |
 | 1925 | 275 | 833 | Wet season cut stays short |
 | 1926 | ~278 | 879 | First admission of boys aged 10–11 |
-| 1927 | 329 (+32 staff) | 977 paid | Fee **$8.50/week** |
+| 1927 | 329 (+32 staff) | 977 paid | Fee **$8.50/week** — unchanged since at least 1923 |
 | 1928 | 397 | 1,329 | Peak 268; applications refused for lack of space |
 | 1929 | 347 | 1,090 | |
 | 1930 | 447 | **1,512** ⚠️ | "Coming of Age" year |
@@ -139,7 +139,7 @@ Three things stand out and none of them is visible from any single article.
 2. [Important] What are the missing years? No figure has been located for 1900, 1902–03, 1905–08, 1911, 1914, 1920, 1950–51, 1960–62, 1970–71, 1973, 1975–79, 1981–87, 1989–93, 1995, 1997, 2002–04 or 2006–19. Many are recoverable — the annual reports carry a Kanawana line most years, and the 1970s–80s season reports survive.
 3. [Nice-to-have] Reconcile the 40,000 (1964) and 34,000 (1984) lifetime totals, or establish that both are institutional round numbers rather than counts.
 4. [Nice-to-have] The balance-sheet property valuations run in every annual report from 1925 ($17,876.39) through at least 1951 ($70,567.80). A book-value series across eighty years is extractable but the columnar OCR is badly damaged and each figure needs checking against the page image — queued as `p_259`.
-5. [Nice-to-have] Fee data is almost absent: $8.50/week is documented for 1927, 1928 and 1929 and nowhere else, each time with the note that it was deliberately below every other permanent camp "to keep the cost within reach of the average home."
+5. [Nice-to-have] Fee data is sparse but now spans seven years: **$8.50/week is documented for 1923** (the *Gas Bag* Extra: "The cost is $8.50 per week. This includes one return trip from Montreal to Camp") **and again for 1927, 1928 and 1929** — unchanged across at least that span, each time with the note that it was deliberately below every other permanent camp "to keep the cost within reach of the average home."
 
 ## Related Articles
 
