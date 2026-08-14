@@ -1,11 +1,11 @@
 # The Green Triangle
 
-*Status: draft | Sources: 8*
+*Status: draft | Sources: 9*
 *Last Updated: 2026-07-11*
 
 ## Overview
 
-The Green Triangle was Camp Kanawana's campers' newsletter, published from 1932 to at least 1940 and revived intermittently through 1982. Beyond the publication itself, "Green Triangle" also named a coveted camper achievement award and served more broadly as a symbolic identity marker for the camp, referenced even in the modern-era Kanawana marching cheer. A full digitized run of 38 issues spanning 1932–1982, held on Internet Archive, was discovered in 2026-07 research, correcting an earlier assumption that only a single 1938 issue survived online.
+The Green Triangle was Camp Kanawana's campers' newsletter, published from 1932 to at least 1940 and revived intermittently through 1982. Beyond the publication itself, "Green Triangle" also named a coveted camper achievement award and served more broadly as a symbolic identity marker for the camp, referenced even in the modern-era Kanawana marching cheer. 38 digitized issues spanning 1932–1982, held on Internet Archive, were discovered in 2026-07 research, correcting an earlier assumption that only a single 1938 issue survived online.
 
 ## The Newsletter (1932–1982)
 
@@ -15,9 +15,9 @@ A 2026-07 direct query of the Internet Archive's advanced-search API confirmed t
 
 ### Surviving Content
 
-Surviving issues document camp life in granular detail. The July 29, 1938 issue describes a fancy-dress ball tradition and brain-teaser contests, and reports that Benny Leshley had organized a choir at the outdoor chapel that summer, still recruiting members as of that issue.^5 A limerick in the same issue, about a staff member named Wallace who "found at Leke Becsies his solace," confirms [[site/camp-becsies|Camp Becsies]] was a known location to Kanawana staff by the 1930s.^5
+Surviving issues document camp life in granular detail. The July 29, 1938 issue describes a fancy-dress ball tradition and brain-teaser contests, and reports that Benny Leshley had organized a choir at the outdoor chapel that summer (the same source is transcribed as "Benny **Lashley**" in [[people/directors-index|the directors index]]; the KB carries both spellings unflagged and the 1938 issue needs re-reading to settle it), still recruiting members as of that issue.^5 A limerick in the same issue, about a staff member named Wallace who "found at Leke Becsies his solace," confirms [[site/camp-becsies|Camp Becsies]] was a known location to Kanawana staff by the 1930s.^5
 
-The July 8, 1933 issue — two years earlier than the previously-known earliest attestation — describes a full, staged "Haunted House" campfire tradition: a "reception... given by the ghosts of the haunted house to all Kanawana campers," with the Chief leading legends and a sing-song, staged "mock-knocking" sound effects, and a folkloric rule that "the spirits never appeared except when the wind blew from the east and when the moon and stars were invisible."^6 The same issue mentions passing "the deserted village" en route to the event — an unexplained, unexplored detail. The tradition recurs across at least four further issues: a July 1937 photo caption ("The picnic at the Haunted House"), a July 1939 mention of supper "at the falls near the haunted house," and a June 1940 mention of a "Haunted House treat... received at Tamaracouta" joined by the Juveniles.^4 None of the 38 issues checked mentions "Chopsy" or "Cropsy" by name, and none contain a specific explanation of the camp's own name. See [[traditions/myths-and-legends|Myths and Legends of Camp Kanawana]] for the fuller Chopsy and naming-origin discussion.
+The July 8, 1933 issue — two years earlier than the previously-known earliest attestation — describes a full, staged "Haunted House" campfire tradition: a "reception... given by the ghosts of the haunted house to all Kanawana campers," with the Chief leading legends and a sing-song, staged "mock-knocking" sound effects, and a folkloric rule that "the spirits never appeared except when the wind blew from the east and when the moon and stars were invisible."^6 The same issue mentions passing "the deserted village" en route to the event — an unexplained, unexplored detail. The tradition recurs across four further issues: the August 17, 1935 issue; a photo caption in the March 30, 1937 issue ("The picnic at the Haunted House," describing the previous summer's outing); a July 1939 mention of supper "at the falls near the haunted house"; and a June 1940 mention of a "Haunted House treat... received at Tamaracouta" joined by the Juveniles.^4 A full-text search of the 38-issue collection returns no hit for "Chopsy" or "Cropsy", and none of the six issues read in full contains a specific explanation of the camp's own name. See [[traditions/myths-and-legends|Myths and Legends of Camp Kanawana]] for the fuller Chopsy and naming-origin discussion.
 
 ## The Green Triangle Award
 
@@ -30,7 +30,7 @@ Beyond the publication and the award, "Green Triangle" functioned more broadly a
 ## Open Questions
 
 1. [Important] What did the Green Triangle award's "series of feats" actually consist of, beyond Buckland's single anecdotal account? No source itemizes the specific requirements.
-2. [Nice-to-have] Now that 38 digitized issues are known to exist (rather than one), a systematic issue-by-issue read of the full 1932–1982 run — beyond the three issues examined so far (1933, 1935 reference, 1938) — would likely surface further camp history not yet captured in this KB.
+2. [Nice-to-have] Now that 38 digitized issues are known to exist (rather than one), a systematic issue-by-issue read of the full 1932–1982 run — beyond the six issues read in full so far (1933-07-08, 1935-08-17, 1937-03-30, 1938-07-29, 1939-07-22, 1940-06-27) — would likely surface further camp history not yet captured in this KB.
 3. [Nice-to-have] What prompted the newsletter's 1976 and 1978–1982 revivals, and why did each end?
 
 ## Related Articles

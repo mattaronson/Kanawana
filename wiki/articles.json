@@ -722,7 +722,7 @@
         "a-ross-seaman"
       ],
       "file_id": "1vObPDCKcgzCi8HVCEMuBzQCMPd0jk2ua",
-      "word_count": 1567,
+      "word_count": 1576,
       "tags": {
         "era": [
           "1920s",
@@ -744,7 +744,8 @@
           "programs"
         ],
         "is_hub": false
-      }
+      },
+      "notes": "| 2026-08-14 p_226: applied the programs/places BLOCKING fixes from the p_218 audit."
     },
     {
       "article_id": "coeducation-gender",
@@ -6470,8 +6471,8 @@
         "lv-games"
       ],
       "file_id": null,
-      "word_count": 3056,
-      "notes": "2026-07-11: Workstream A Wave 1 prose-sediment REVIEW pass -- folded the former 'R3 Verification Notes'/'E1 Review Notes' H3 sub-headings into a proper '## Research Notes' section (HTML-comment process log), trimmed the header's dated parenthetical. This article's main body had no embedded prose sediment to begin with. No facts, citations, or open questions changed; status unchanged. | 2026-07-11 (Workstream B): added the \"Camps at a Glance\" summary table and an explanatory paragraph tying it to the places/-vs-context/ folder split, per the approved wiki-expansion plan -- this page now serves as the satellite/peer-camp hub. No new facts/sources; surfaced a new open question (#6, present-day status of several camps unconfirmed). | 2026-07-11: Linked \"Camp Pine Crest\" table row and prose bullet to the new standalone places/camp-pine-crest.md article.",
+      "word_count": 2863,
+      "notes": "2026-07-11: Workstream A Wave 1 prose-sediment REVIEW pass -- folded the former 'R3 Verification Notes'/'E1 Review Notes' H3 sub-headings into a proper '## Research Notes' section (HTML-comment process log), trimmed the header's dated parenthetical. This article's main body had no embedded prose sediment to begin with. No facts, citations, or open questions changed; status unchanged. | 2026-07-11 (Workstream B): added the \"Camps at a Glance\" summary table and an explanatory paragraph tying it to the places/-vs-context/ folder split, per the approved wiki-expansion plan -- this page now serves as the satellite/peer-camp hub. No new facts/sources; surfaced a new open question (#6, present-day status of several camps unconfirmed). | 2026-07-11: Linked \"Camp Pine Crest\" table row and prose bullet to the new standalone places/camp-pine-crest.md article. | 2026-08-14 p_226: L&V origin claim softened from 'direct origin/source' to the documented 'inspired by' (YMCA Quebec's own wording); duplicate Pine Crest blog source consolidated; quebec-camp-landscape's stale Hayo-Went-Ha reading, retracted in lv-games.md on 2026-07-09, corrected here too.",
       "tags": {
         "era": [
           "1910s",
@@ -8139,10 +8140,12 @@
         "src_ymca_canada_history",
         "src_ymcagta_pine_crest_games",
         "src_pine_crest_encyclopedia",
-        "src_ymca_gta_blog_games",
-        "src_ymcagta_pinecrest_games",
         "src_pine_crest_book",
-        "src_wikipedia_color_war"
+        "src_wikipedia_color_war",
+        "src_ymca_kanawana_history",
+        "src_leigh_evans_lv_blog",
+        "src_hayowentha_website",
+        "src_aca_hayowentha_programs"
       ],
       "open_questions": 2,
       "cross_links": [
@@ -8152,8 +8155,8 @@
         "traditions-and-culture"
       ],
       "file_id": null,
-      "word_count": 518,
-      "notes": "2026-07-11: Workstream C2 spawn -- the one genuine new-place candidate on the approved shortlist (Camp Stephens and Camp Dorval held/folded into the satellite hub per the plan). Synthesizes already-cited facts from lv-games.md and quebec-camp-landscape.md; no new research conducted.",
+      "word_count": 656,
+      "notes": "2026-07-11: Workstream C2 spawn -- the one genuine new-place candidate on the approved shortlist (Camp Stephens and Camp Dorval held/folded into the satellite hub per the plan). Synthesizes already-cited facts from lv-games.md and quebec-camp-landscape.md; no new research conducted. | 2026-08-14 p_226: L&V origin claim softened from 'direct origin/source' to the documented 'inspired by' (YMCA Quebec's own wording); duplicate Pine Crest blog source consolidated; quebec-camp-landscape's stale Hayo-Went-Ha reading, retracted in lv-games.md on 2026-07-09, corrected here too.",
       "tags": {
         "era": [
           "1900s",
@@ -8227,8 +8230,8 @@
         "traditions-and-culture"
       ],
       "file_id": null,
-      "word_count": 773,
-      "notes": "2026-07-11: Workstream C3 spawn -- newsletter/award/symbol synthesized into standalone article, cited as a source in 13+ articles but never its own subject. No new research conducted. Corrected two dangling source_id references (src_web_readers_digest_buckland -> src_readers_digest_buckland; src_ia_green_triangle_1938 -> src_green_triangle_1938) in kb/facts.json while preparing this article.",
+      "word_count": 892,
+      "notes": "2026-07-11: Workstream C3 spawn -- newsletter/award/symbol synthesized into standalone article, cited as a source in 13+ articles but never its own subject. No new research conducted. Corrected two dangling source_id references (src_web_readers_digest_buckland -> src_readers_digest_buckland; src_ia_green_triangle_1938 -> src_green_triangle_1938) in kb/facts.json while preparing this article. | 2026-08-14 p_226: applied the programs/places BLOCKING fixes from the p_218 audit.",
       "tags": {
         "era": [
           "1930s",
@@ -8295,8 +8298,8 @@
         "notable-alumni"
       ],
       "file_id": null,
-      "word_count": 573,
-      "notes": "2026-07-11: Workstream C3 spawn -- structured, decades-spanning program synthesized from 5 scattered articles into a standalone article. No new research conducted. Individual plaque-roster names deliberately not reproduced here (privacy carve-out for C5-listed names already collectively catalogued in directors-index.md).",
+      "word_count": 662,
+      "notes": "2026-07-11: Workstream C3 spawn -- structured, decades-spanning program synthesized from 5 scattered articles into a standalone article. No new research conducted. Individual plaque-roster names deliberately not reproduced here (privacy carve-out for C5-listed names already collectively catalogued in directors-index.md). | 2026-08-14 p_226: applied the programs/places BLOCKING fixes from the p_218 audit.",
       "tags": {
         "era": [
           "1960s",

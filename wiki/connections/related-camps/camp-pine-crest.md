@@ -5,7 +5,7 @@
 
 ## Overview
 
-YMCA Camp Pine Crest is a summer camp on Clear Lake in Torrance, in Ontario's Muskoka region, operated since 1910 by what is now the YMCA of Greater Toronto. It is one of Canada's earliest overnight camps, and it is the direct origin of Camp Kanawana's own Lumbermen-and-Voyageurs ("L&V") Games tradition, adopted at Kanawana in 1947 — roughly seven years after Pine Crest began its own version. No standalone article previously existed for Pine Crest despite its being cited as a source in 13 articles and dangling-referenced throughout Kanawana's own tradition documentation.
+YMCA Camp Pine Crest is a summer camp on Clear Lake in Torrance, in Ontario's Muskoka region, operated from 1910 by what is now the YMCA of Greater Toronto. It is one of Canada's earliest overnight camps, and Camp Kanawana's own Lumbermen-and-Voyageurs ("L&V") Games were **inspired by** Pine Crest's, per YMCA Quebec's own history — adopted at Kanawana in 1947, roughly seven years after Pine Crest began its version.^7
 
 ## Founding and Site
 
@@ -13,11 +13,11 @@ Pine Crest was founded in 1910 in Torrance, Ontario, on 650 acres of Muskoka wil
 
 ## The Pine Crest Games
 
-Since 1940, Pine Crest has run an annual two-day "Pine Crest Games" color-war competition on the last Tuesday and Wednesday of each summer, dividing the whole camp into two teams: the Lumbermen (symbol: an axe) and the Voyageurs (symbol: a paddle), competing in events including swimming, boating, and woodcraft.^4 ^5 ^6 This is one of the oldest continuous camp competition traditions in the YMCA system.^7
+From 1940, Pine Crest ran an annual two-day "Pine Crest Games" color-war competition on the last Tuesday and Wednesday of each summer, dividing the whole camp into two teams: the Lumbermen (symbol: an axe) and the Voyageurs (symbol: a paddle), competing in events including swimming, boating, and woodcraft.^3 ^4 This is one of the oldest continuous camp competition traditions in the YMCA system.^3
 
-Camp Kanawana adopted the same Lumbermen-versus-Voyageurs format in 1947 as its own "L&V Games" — see [[traditions/lv-games|The L&V Games]] for the full history of Kanawana's version, including how it diverged from Pine Crest's (Kanawana's runs three days rather than two). A commemorative book, *Lumbermen & Voyageurs: The YMCA Pine Crest Story*, covers a century of camping at Pine Crest.^8
+Camp Kanawana adopted the same Lumbermen-versus-Voyageurs format in 1947 as its own "L&V Games".^7 The two have not stayed identical — the modern Kanawana Games are described as running three days against Pine Crest's two — but the evidence for the current Kanawana format is thin, and [[traditions/lv-games|The L&V Games]] treats it as an open question rather than a settled divergence; Kanawana's own historical L&V ran a full week in the 1947-1958 period.^8 A commemorative book, *Lumbermen & Voyageurs: The YMCA Pine Crest Story*, covers a century of camping at Pine Crest.^5
 
-The broader team-competition-week genre, of which Pine Crest and Kanawana's Lumbermen-versus-Voyageurs tradition is a Canadian/YMCA/frontier-themed regional variant, is documented by historian Leslie Paris (University of British Columbia) as originating with "Red and Gray Week" in 1916 at Schroon Lake Camp, a Jewish boys' camp in the Adirondacks, becoming a widespread American camp staple known generically as "Color War" by the 1920s.^9 A similar naming pattern — "Woodsmen" and "Voyageurs" — appears at YMCA Hayo-Went-Ha Camps in Michigan (founded 1904), though there the names denote age-based program levels rather than a competing team pair.
+The broader team-competition-week genre, of which Pine Crest and Kanawana's Lumbermen-versus-Voyageurs tradition is a Canadian/YMCA/frontier-themed regional variant, is documented by historian Leslie Paris (University of British Columbia) as originating with "Red and Gray Week" in 1916 at Schroon Lake Camp, a Jewish boys' camp in the Adirondacks, becoming a widespread American camp staple known generically as "Color War" by the 1920s.^6 A similar naming pattern — "Woodsmen" and "Voyageurs" — appears at YMCA Hayo-Went-Ha Camps in Michigan (founded 1904), though direct fetches of both program pages show the names there denote age-based program levels rather than a competing team pair.^9
 
 ## Open Questions
 
@@ -35,13 +35,13 @@ The broader team-competition-week genre, of which Pine Crest and Kanawana's Lumb
 
 1. YMCA of Greater Toronto, Camp Pine Crest [src_ymca_gta_pine_crest].
 2. "Our History," YMCA Canada [src_ymca_canada_history].
-3. YMCA of Greater Toronto Blog, "Celebrating Tradition with the Pine Crest Games" [src_ymcagta_pine_crest_games].
+3. YMCA of Greater Toronto Blog, "Celebrating Tradition with the Pine Crest Games" [src_ymcagta_pine_crest_games]. NOTE: this single blog post was previously listed four times under three duplicate source ids (src_ymcagta_pine_crest_games, src_ymca_gta_blog_games, src_ymcagta_pinecrest_games); consolidated here. The duplicate records themselves are a KB-hygiene item, tracked in p_220.
 4. YMCA Camp Pine Crest (Encyclopedia Entry) [src_pine_crest_encyclopedia].
-5. YMCA of Greater Toronto Blog, "Celebrating tradition with the Pine Crest Games" [src_ymca_gta_blog_games].
-6. YMCA of Greater Toronto blog, "Celebrating Tradition with the Pine Crest Games" [src_ymcagta_pinecrest_games].
-7. YMCA of Greater Toronto Blog, "Celebrating Tradition with the Pine Crest Games," continuity claim [src_ymcagta_pine_crest_games].
-8. *Lumbermen & Voyageurs: The YMCA Pine Crest Story* [src_pine_crest_book].
-9. Wikipedia / reporting on Leslie Paris (UBC) research, "Color war" (summer camp tradition) [src_wikipedia_color_war].
+5. *Lumbermen & Voyageurs: The YMCA Pine Crest Story* [src_pine_crest_book].
+6. Wikipedia / reporting on Leslie Paris (UBC) research, "Color war" (summer camp tradition) [src_wikipedia_color_war].
+7. YMCA Quebec, "Summer Camp Kanawana: History" — states the L&V Games were "inspired by Pinecrest Camp" [src_ymca_kanawana_history].
+8. The L&V Games (this wiki) — the modern three-day format rests on weak leads and is an open question there; the 1947-1958 event ran a full week [src_leigh_evans_lv_blog].
+9. Direct fetches, 2026-07-09: hayowentha.org/program/voyageurs/ and find.acacamps.org (Woodsmen program profile) [src_hayowentha_website, src_aca_hayowentha_programs].
 
 ## Research Notes
 

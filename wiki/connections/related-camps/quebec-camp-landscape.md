@@ -27,7 +27,7 @@ This is also the wiki's answer to a question the folder structure alone doesn't 
 | Camp Massad Montreal | Montreal Va'ad Ha'ir | Regional peer (Jewish, Orthodox) | 1947– | Not confirmed in current sources | *(covered above, no standalone article)* |
 | Colonie de vacances Sainte-Jeanne-d'Arc | Independent (Catholic) | Regional peer (Catholic, girls) | 1926– | Not confirmed in current sources | *(covered above, no standalone article)* |
 | Big Cove YMCA Camp | YMCA (Nova Scotia) | National peer; Canada's oldest residential camp, 5 years older than Kanawana | 1889– | Not confirmed in current sources | *(covered above, no standalone article)* |
-| Camp Pine Crest | YMCA of Greater Toronto | Direct source of Kanawana's L&V Games tradition (adopted 1947) | 1910– | Not confirmed in current sources (Pine Crest Games described as an unbroken tradition since 1940) | [[connections/related-camps/camp-pine-crest\|Camp Pine Crest]] |
+| Camp Pine Crest | YMCA of Greater Toronto | Stated inspiration for Kanawana's L&V Games (adopted 1947), per YMCA Quebec | 1910– | Not confirmed in current sources (Pine Crest Games described as an unbroken tradition since 1940) | [[connections/related-camps/camp-pine-crest\|Camp Pine Crest]] |
 | Camp Kitchikewana | YMCA (Simcoe/Muskoka) | National peer; listed alongside Kanawana in OCA "Y camps" records | 1919– | Active (over 105 years of continuous operation, per source) | *(covered above, no standalone article)* |
 | Camp Wanakita | YMCA Hamilton-Burlington-Brantford | National peer | 1953– | Not confirmed in current sources | *(covered above, no standalone article)* |
 | John Island Camp | YMCA of Northeastern Ontario | National peer | 1954– | Not confirmed in current sources | *(covered above, no standalone article)* |
@@ -104,7 +104,7 @@ Several patterns emerge from the Quebec and Canadian camp landscape:
 
 **The Laurentian geography.** The concentration of camps in the Laurentians — Kanawana at Lac Kanawana, Otoreke at Lake Saint-Joseph, Tamaracouta at Mille-Isles, Pripstein at Saint-Adolphe-d'Howard, Weredale at Lac l'Achigan, Oolahwan at Lake Walfred — reflects the region's accessibility from Montreal by rail and later by road, and its abundance of suitable lake-and-forest terrain.
 
-**Parallel traditions.** The [[traditions/lv-games|Lumbermen-versus-Voyageurs]] team division appears at Pine Crest (since 1940), Kanawana (since 1947), and Hayo-Went-Ha in Michigan (as "Woodsmen vs Voyageurs"), suggesting a shared YMCA programming tradition rather than a single point of origin.^18
+**Parallel traditions.** The [[traditions/lv-games|Lumbermen-versus-Voyageurs]] team division appears at Pine Crest (from 1940) and Kanawana (from 1947), with YMCA Quebec's own history naming Pine Crest as the inspiration. A Hayo-Went-Ha (Michigan) parallel was previously cited here as evidence of a diffuse shared tradition rather than a single origin — that reading was **retracted on 2026-07-09** after direct fetches showed Hayo-Went-Ha's "Woodsmen" and "Voyageurs" are age-based program levels, not competing teams. The wider ancestor is the American "Color War" genre (Schroon Lake Camp, 1916), not a YMCA-specific lineage.^18
 
 **Religious and cultural diversity.** The Quebec camp landscape encompasses Protestant (YMCA/YWCA), Catholic (Sainte-Jeanne-d'Arc), Jewish (Massad, Pripstein), and secular traditions, each serving distinct communities but occupying the same regional geography.
 
