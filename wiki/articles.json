@@ -111,7 +111,9 @@
     "src_ia_autobiographical_sketch_1919",
     "src_ia_historical_sketch_1901",
     "src_ia_kanawana_history_1951",
+    "src_ia_sgw_annual_report_1894_1895",
     "src_ia_ymca_annual_1891_92",
+    "src_ia_ymca_montreal_annual_reports_collection",
     "src_rpcq_ymca_8364",
     "src_vss_familles_pionnieres"
    ],
@@ -138,7 +140,7 @@
     "timeline-overview"
    ],
    "file_id": "1h-vki1U2tjYj8-zZ5gzuyW6kQXelcUnB",
-   "word_count": 3113,
+   "word_count": 4053,
    "notes": "2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- replaced the bold-field header convention with the standardized two-line header, moved the embedded c_005 editorial-resolution paragraph into the existing Revision History section (merged the separate 'Research Notes'/'Revision History' H2 sections into one, per the wiki-wide convention). No facts, citations, or open questions dropped; status unchanged.",
    "tags": {
     "era": [
@@ -604,7 +606,9 @@
     "f_0948",
     "f_0949"
    ],
-   "sources_cited": [],
+   "sources_cited": [
+    "src_ia_ymca_montreal_annual_reports_collection"
+   ],
    "open_questions": 3,
    "cross_links": [
     "howie-langille",
@@ -616,7 +620,7 @@
     "timeline-overview"
    ],
    "file_id": "1FzPFWuQ3jBYZdPOSVC_xjANKsWr7RjSK",
-   "word_count": 1182,
+   "word_count": 1499,
    "tags": {
     "era": [
      "1910s",
@@ -1534,6 +1538,7 @@
     "src_ia_kanawana_report_1978",
     "src_ia_kanawana_report_1979",
     "src_ia_kanawana_report_1987",
+    "src_ia_sgw_annual_report_1910",
     "src_ia_sgw_annual_report_1967",
     "src_ia_the_lookout_1993",
     "src_ia_ymca_montreal_annual_reports_collection",
@@ -1577,7 +1582,7 @@
     "wartime-kanawana"
    ],
    "file_id": null,
-   "word_count": 14307,
+   "word_count": 14675,
    "notes": "v4.75: Peter Goddard confirmed (Peter Gilling Goddard 1953-2016, obituary condolence). Nelson McEwen tenure extended c.1927-1947. Derek Walsh exhausted. Gap periods updated. | 2026-07-07: applied operator's standing conflict-resolution policy (documented sources take precedence over oral history) to resolve c_004, c_015, c_016, c_017 -- Gary White's Kanawana tenure narrowed to FY2001-2002, Sean Day's start corrected to 2008, Nicolas Garcia's spelling/end-date corrected to March 2014, Rossy Foundation corrected to Tyndale St-Georges. | 2026-07-11: Workstream A Wave 1 prose-sediment REVIEW pass -- standardized header, moved dated correction narrative from table cells into a new visible Revision History section, corrected open_questions count (was stale at 7, actual count is and remains 14). No facts, citations, or open questions dropped; status unchanged. | 2026-07-11: Added wiki-links to Howie Langille and Ross Bannerman table rows and Related Articles, pointing to their new standalone Workstream C1 articles. | 2026-07-11: Added wiki-links to Bruce Netherwood (Camp Directors table, Pip Award table, Related Articles) pointing to the new standalone article. | 2026-07-11: Added wiki-links to Gary White, David Leduc, Kate Taylor, Marie-Pierre Lacasse table rows and Related Articles, pointing to new standalone institutional-role-director articles. | 2026-07-11: Added wiki-links to Greig Macdiarmid, Francois Dauphin, Nicolas Garcia, Morgan Carter, Arleen Boyer, Justin Caldwell (Two-Tier Era + Staff by Era tables) and Matt/Dan Aronson (Related Articles), per the operator's revised C5 policy.",
    "tags": {
     "era": [

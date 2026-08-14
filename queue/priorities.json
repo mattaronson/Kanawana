@@ -3182,7 +3182,9 @@
    "blocking": false,
    "assigned_weight": "P0",
    "created_at": "2026-08-14T00:00:00Z",
-   "status": "pending"
+   "status": "completed",
+   "completed_at": "2026-08-14T00:00:00Z",
+   "result": "Completed 2026-08-14 for the annual-report half. An agent swept all 114 sgw-ymca-annual-report files that mention Kanawana (1856-2009) for everything except directors. Headline results: the 1894 founding is documented contemporaneously in the 1894-95 report (\"our first Summer Camp... 23 workers and boys\"), with a clean negative in the preceding year; \"Camp Jubilee\" appears in NO pre-1921 report; Kanawana's first season is fixed at 1910 by a forward-tense announcement naming W. J. Holliday; nine names now fill most of the former 1902-1920 directorial gap; the association ran TWO anniversary clocks (1894 camping / 1910 site), which is why the 75th was celebrated twice and why 1993 and 1994 both announce a centennial; a 1940 scarlet fever quarantine of four weeks; the 1932 dry wells; and a full year-by-year attendance series 1894-2005. Null results: no fire, storm destruction or death at camp in any of the 114 reports; the 1969 drowning and 1976 meningitis appear only in the camp's own season reports; Camp Weredale and Camp Ouareau appear nowhere."
   },
   {
    "priority_id": "p_253",
@@ -3203,6 +3205,61 @@
    "article_id": null,
    "blocking": false,
    "assigned_weight": "P1",
+   "created_at": "2026-08-14T00:00:00Z",
+   "status": "pending"
+  },
+  {
+   "priority_id": "p_255",
+   "rank": 255,
+   "type": "REVIEW",
+   "description": "EDITORIAL DECISION FOR THE OPERATOR: this wiki calls the 1894-1909 camp \"Camp Jubilee\" across a dozen articles, as though it were the institution's own name. It is not -- every pre-1921 YMCA of Montreal annual report was searched and none uses it; \"Jubilee\" appears only in the movement's 1844-1894 golden-jubilee sense. The name may still be authentic to camp usage and comes from somewhere (QAHN, the 1951 in-house history, oral tradition). Decide whether to keep it with an attribution, qualify it, or replace it. Renaming a term used across a dozen articles is an editorial call, not a research finding.",
+   "article_id": "founding-1894",
+   "blocking": true,
+   "assigned_weight": "P0",
+   "created_at": "2026-08-14T00:00:00Z",
+   "status": "pending"
+  },
+  {
+   "priority_id": "p_256",
+   "rank": 256,
+   "type": "WRITE",
+   "description": "Build the year-by-year attendance series into the wiki. The annual-report sweep produced camper counts and boy-/camper-weeks for roughly 60 seasons between 1894 and 2005, plus fees ($8.50/week 1927-29), staff counts, swim-test totals and Sunday chapel attendances. This is the camp's size over 110 years and belongs in a table, probably in timeline-overview.md or a new meta article. SIX INTERNAL INCONSISTENCIES must be carried as flags, not smoothed: the 289-boy season is attributed to 1919, 1920 AND 1921 across three reports; 1924 boy-weeks 916 vs 906; 1934 boy-weeks 1,017 vs 972; 1932 campers 360 vs 385; 1965 camper-weeks 1,200 vs 1,182; and the 1930 \"increase of 432\" does not reconcile with its own series.",
+   "article_id": "timeline-overview",
+   "blocking": false,
+   "assigned_weight": "P0",
+   "created_at": "2026-08-14T00:00:00Z",
+   "status": "pending"
+  },
+  {
+   "priority_id": "p_257",
+   "rank": 257,
+   "type": "VERIFY",
+   "description": "Reconcile the scarlet-fever quarantine date. The wiki had 1941 from McMorris; the YMCA annual report describing it is the 1941 report, whose fiscal year ended 31 March, so on the report's own convention the season is 1940. Both are now recorded in wartime-kanawana.md. Reading McMorris's citation would settle it. NOTE THE GENERAL HAZARD: this is the same one-year offset that had the Council Ring rebuild at 1929 when the work was 1928. Every wiki date derived from a YMCA annual report should be checked against the fiscal convention -- year ending 30 April through the 1926 report, 31 March for 1927-1950, calendar year from 1951.",
+   "article_id": null,
+   "blocking": false,
+   "assigned_weight": "P0",
+   "created_at": "2026-08-14T00:00:00Z",
+   "status": "pending"
+  },
+  {
+   "priority_id": "p_258",
+   "rank": 258,
+   "type": "REVIEW",
+   "description": "Placement decisions confirmed by the annual reports, for the operator to action: Camp Otoreke, Camp Bec-scies and Camp Perrot are all the SAME INSTITUTION as Kanawana and belong in core site/ per CLAUDE.md's hub-and-spoke rule -- the 1965 report calls the Otoreke site \"the original location of Kamp Kanawana\", Bec-scies was built as Kanawana's overflow annex twenty minutes' walk away, and Perrot was bought by the Kamp Kanawana Committee itself in 1944 for $8,500. Camp Tamaracouta (Boy Scouts) is the genuine connections/related-camps candidate: the 1964 report records 120 acres acquired \"in cooperation with the Boy Scouts Association Camp Tamaracouta. This move now joins the two camp properties.\"",
+   "article_id": null,
+   "blocking": false,
+   "assigned_weight": "P1",
+   "created_at": "2026-08-14T00:00:00Z",
+   "status": "pending"
+  },
+  {
+   "priority_id": "p_259",
+   "rank": 259,
+   "type": "RESEARCH",
+   "description": "Unmined seams the annual-report sweep identified but did not attempt: (a) the Kanawana balance-sheet property valuations, present in every report from 1925 (e.g. $17,876.39 in 1925, $55,750.30 in 1949, $70,567.80 in 1951) -- a clean book-value series across eighty years, but the columnar OCR is heavily damaged and each figure needs verification against the page image; (b) the World/Foreign Service contribution tables, which carry a Kanawana line every year 1923-1964 from the campers' Sunday collections; (c) the French editions of the 1982-2009 reports, which were spot-checked as translations but not read independently.",
+   "article_id": null,
+   "blocking": false,
+   "assigned_weight": "P2",
    "created_at": "2026-08-14T00:00:00Z",
    "status": "pending"
   }

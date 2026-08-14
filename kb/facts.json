@@ -1,8 +1,8 @@
 {
  "version": "v4.98",
- "kb_version": "v5.29",
+ "kb_version": "v5.30",
  "migrated_from": "3.3",
- "fact_count": 2100,
+ "fact_count": 2114,
  "facts": [
   {
    "fact_id": "f_0001",
@@ -36338,6 +36338,252 @@
    "date_ref": "2020",
    "conflicts_with": [],
    "added_version": "v5.29",
+   "added_by": "ralph_loop"
+  },
+  {
+   "fact_id": "f_2139",
+   "claim": "THE 1894 FOUNDING IS DOCUMENTED CONTEMPORANEOUSLY. The YMCA of Montreal Annual Report for 1894-95 states in its Junior Department section: \"We are able to report the holding of our first Summer Camp, which was in every way a decided success, and will become an established item in our prospectus. This Camp was composed of 23 workers and boys.\" The statistical summary confirms \"Attendance at Summer Camp ... 23\". The preceding 1893-94 report contains NO mention of a lake, lease, fishing rights or Ste-Agathe -- a null result confirming 1894 as the first year.",
+   "sources": [
+    "src_ia_sgw_annual_report_1894_1895"
+   ],
+   "confidence": "stated",
+   "category": "history",
+   "entities": [
+    "Kamp Kanawana",
+    "Junior Department"
+   ],
+   "date_ref": "1894",
+   "conflicts_with": [],
+   "added_version": "v5.30",
+   "added_by": "ralph_loop"
+  },
+  {
+   "fact_id": "f_2140",
+   "claim": "CRITICAL NULL: the YMCA of Montreal annual reports NEVER call any camp \"Camp Jubilee.\" Every pre-1921 report was searched. \"Jubilee\" appears only in the YMCA-worldwide sense -- the 1893-94 report's \"This is the Jubilee Year in the history of the Young Men's Christian Association\" (the 1844-1894 golden jubilee) and the 1894-95 report's \"The World's Jubilee Convention, London, Eng., June 6-10, 1894.\" That the association's first boys' camp began in the YMCA's Jubilee Year is a real coincidence, but the association's own records do not make the connection or use the name. This wiki uses \"Camp Jubilee\" throughout and should attribute it to whichever source actually supplies it.",
+   "sources": [
+    "src_ia_sgw_annual_report_1894_1895",
+    "src_ia_ymca_montreal_annual_reports_collection"
+   ],
+   "confidence": "stated",
+   "category": "history",
+   "entities": [
+    "Camp Jubilee"
+   ],
+   "date_ref": "1894",
+   "conflicts_with": [],
+   "added_version": "v5.30",
+   "added_by": "ralph_loop"
+  },
+  {
+   "fact_id": "f_2141",
+   "claim": "The 1894 camp ran as TWO PARALLEL STREAMS on one leased lake. The 1894-95 report's Junior Department section reports the first boys' camp (23 workers and boys); its Physical Department section separately records \"The Association has leased land from the Government and the fishing rights of a lake near St. Agathe... Last year 53 members took advantage of this privilege\" -- adult/senior members. From 1896 the reports state the split explicitly (28 junior, 40 senior). INFERENCE, labelled: only the Junior line becomes Kanawana; the Senior line stays on Lac St. Joseph and becomes Camp Otoreke.",
+   "sources": [
+    "src_ia_sgw_annual_report_1894_1895",
+    "src_ia_ymca_montreal_annual_reports_collection"
+   ],
+   "confidence": "inferred",
+   "category": "history",
+   "entities": [
+    "Kamp Kanawana",
+    "Camp Otoreke"
+   ],
+   "date_ref": "1894-1896",
+   "conflicts_with": [],
+   "added_version": "v5.30",
+   "added_by": "ralph_loop"
+  },
+  {
+   "fact_id": "f_2142",
+   "claim": "The first Summer Camp committee, named in the 1894-95 annual report's officers list: \"Summer Camp. John W. Ross, Chairman. E. J. Coyle. R. L. Charlton.\" John W. Ross recurs as camp chairman for roughly thirty years and later becomes Association President and Honorary President. By 1896 a \"PERMANENT CAMP COMMITTEE\" exists: John W. Ross (chairman), Jas. Wilson, W. E. Cushing, R. B. Ross Jr. -- putting W. E. Cushing on the camp committee from 1896.",
+   "sources": [
+    "src_ia_sgw_annual_report_1894_1895",
+    "src_ia_ymca_montreal_annual_reports_collection"
+   ],
+   "confidence": "stated",
+   "category": "people",
+   "entities": [
+    "John W. Ross",
+    "E. J. Coyle",
+    "R. L. Charlton",
+    "W. E. Cushing"
+   ],
+   "date_ref": "1894-1896",
+   "conflicts_with": [],
+   "added_version": "v5.30",
+   "added_by": "ralph_loop"
+  },
+  {
+   "fact_id": "f_2143",
+   "claim": "KANAWANA'S FIRST SEASON IS SUMMER 1910, announced in the forward tense in the 1910 annual report: \"A new site has been secured for the Boys' Camp on Lake Kanawana, near Shawbridge, in the Laurentian Mountains... a summer vacation camp for boys, from July 1st to August 15th. They will have accommodation for 70 boys. This camp will be under the charge of Mr. W. J. Holliday, of the Central Branch. The Summer Camp at Lac St. Joseph will have renewed equipment, and will be given over entirely to the senior members.\" Two internal confirmations: the 1931 report says the camp \"HAS BEEN IN OPERATION FOR TWENTY-ONE YEARS IN ITS PRESENT LOCATION\" (of the 1930 season) and the 1939 report calls 1938 \"The twenty-ninth season at Camp Kanawana\" -- both giving 1910.",
+   "sources": [
+    "src_ia_sgw_annual_report_1910",
+    "src_ia_ymca_montreal_annual_reports_collection"
+   ],
+   "confidence": "stated",
+   "category": "history",
+   "entities": [
+    "Kamp Kanawana",
+    "W. J. Holliday"
+   ],
+   "date_ref": "1910",
+   "conflicts_with": [],
+   "added_version": "v5.30",
+   "added_by": "ralph_loop"
+  },
+  {
+   "fact_id": "f_2144",
+   "claim": "NAMES FILLING THE 1902-1920 DIRECTORIAL GAP, from the annual reports (season years): 1908 Junior Camp under W. J. Holliday; 1910 Kanawana opens under W. J. HOLLIDAY of Central Branch; 1913 \"in charge of Messrs. D. J. EVANS, HAROLD CROSS, and H. A. LORDLY for successive portions of the season\"; 1915 T. HICKS MILLER (Physical Director, Westmount) in July and JOHN McKINNON (Boys' Work Secretary, Central) in August; 1916 \"Mr. MacKinnon acted as Leader throughout\"; 1917 supervised by J. G. MacKINNON with Jos. DALLEY and John BRADFORD; 1918 John MacKinnon to 3 August, G. D. BRANDON relieving to 17 August; 1919 \"Mr. MacKinnon has been appointed Director for this season\". NOTE the 1913 entry: Harold Cross running part of the 1913 season predates by a decade the c.1925-1928 directorship the wiki records for him.",
+   "sources": [
+    "src_ia_ymca_montreal_annual_reports_collection"
+   ],
+   "confidence": "stated",
+   "category": "people",
+   "entities": [
+    "W. J. Holliday",
+    "D. J. Evans",
+    "Harold C. Cross",
+    "H. A. Lordly",
+    "T. Hicks Miller",
+    "J. G. MacKinnon",
+    "Jos. Dalley",
+    "John Bradford",
+    "G. D. Brandon"
+   ],
+   "date_ref": "1908-1919",
+   "conflicts_with": [],
+   "added_version": "v5.30",
+   "added_by": "ralph_loop"
+  },
+  {
+   "fact_id": "f_2145",
+   "claim": "THE ASSOCIATION RAN TWO COMPETING ANNIVERSARY CLOCKS, which explains two long-standing confusions in this wiki. A \"camping since 1894\" clock is used in the reports of 1946 (\"the 52nd for boys arranged by the Montreal Association\"), 1948 (54th), 1949 (55th), 1966-67 (73rd year), 1967 (74th), 1968 (75th anniversary), 1977-78 and 2005-06. A \"Kanawana site since 1910\" clock is used in 1931 (\"TWENTY-ONE YEARS IN ITS PRESENT LOCATION\"), 1939 (29th season), 1984 (\"its 75th year of service\") and 1985 (\"for the past 75 years\"). CONSEQUENCES: the 75th anniversary was celebrated TWICE, in 1968 and again in 1984; and the 1993 report announces the camp \"celebrating its 100th anniversary this year\" while the 1994 report says \"This was Kanawana's 100th year of operation\" -- two centennials, one from each clock.",
+   "sources": [
+    "src_ia_ymca_montreal_annual_reports_collection"
+   ],
+   "confidence": "stated",
+   "category": "history",
+   "entities": [
+    "Kamp Kanawana"
+   ],
+   "date_ref": "1931-2006",
+   "conflicts_with": [],
+   "added_version": "v5.30",
+   "added_by": "ralph_loop"
+  },
+  {
+   "fact_id": "f_2146",
+   "claim": "The earliest founding-date claims in the annual reports are UNRELIABLE and conflict with the contemporaneous record: the 1931 report says \"IN 1898, OR FORTY YEARS AGO, THE FIRST BOYS CAMP OF THE ASSOCIATION WAS OPENED AT LAC ST. JOSEPH\"; the 1932 and 1933 reports date Lac St. Joseph activity to 1891/92; the 1954 and 1955 reports say \"the site of the first Y.M.C.A. camp established in 1892\"; the 1953 and 1965 reports say 1893. All postdate the events by three to four decades and conflict with the 1894-95 report's own first-person \"our first Summer Camp\". The corpus also holds a document titled \"1900-12-10 seventh annual report of the current camp committee\" -- 7th annual in 1900 gives 1894.",
+   "sources": [
+    "src_ia_ymca_montreal_annual_reports_collection"
+   ],
+   "confidence": "stated",
+   "category": "history",
+   "entities": [
+    "Kamp Kanawana"
+   ],
+   "date_ref": "1891-1965",
+   "conflicts_with": [],
+   "added_version": "v5.30",
+   "added_by": "ralph_loop"
+  },
+  {
+   "fact_id": "f_2147",
+   "claim": "The scarlet fever outbreak that quarantined Kamp Kanawana for about four weeks is recorded in the YMCA of Montreal Annual Report for 1941: \"a mild case of scarlet fever developed, followed by two others, so that the camp had to be quarantined for about four weeks.\" DATE UNRESOLVED BY ONE YEAR: the wiki dated it 1941 from McMorris, but the association's fiscal year then ended 31 March, so the 1941 REPORT describes the summer of 1940. Three cases and four weeks match McMorris's \"full month\" closely enough to be the same event, but a different source-dating on her side, or two outbreaks in consecutive years, cannot be excluded without reading her citation. Same one-year offset class as the Council Ring rebuild (recorded 1929, actually 1928).",
+   "sources": [
+    "src_ia_ymca_montreal_annual_reports_collection"
+   ],
+   "confidence": "disputed",
+   "category": "history",
+   "entities": [
+    "Kamp Kanawana"
+   ],
+   "date_ref": "1940",
+   "conflicts_with": [],
+   "added_version": "v5.30",
+   "added_by": "ralph_loop"
+  },
+  {
+   "fact_id": "f_2148",
+   "claim": "CORRECTION TO THE POLIO RECORD: the 1947 annual report (1946 season) does NOT state that polio cases occurred at camp. It says \"The polio epidemic affected attendance for the last half of the season, although most doctors advised parents that conditions at camp were more favorable for children than were those in the city\" -- i.e. the city-wide Montreal epidemic as an attendance depressant. The six-case figure this project holds comes from the McMorris thesis, which remains its sole source. The annual report corroborates the YEAR and the ATTENDANCE EFFECT, not the case count.",
+   "sources": [
+    "src_ia_ymca_montreal_annual_reports_collection"
+   ],
+   "confidence": "stated",
+   "category": "history",
+   "entities": [
+    "Kamp Kanawana"
+   ],
+   "date_ref": "1946",
+   "conflicts_with": [],
+   "added_version": "v5.30",
+   "added_by": "ralph_loop"
+  },
+  {
+   "fact_id": "f_2149",
+   "claim": "The camp's water supply failed in 1932: \"PROBABLY THE MOST SERIOUS PROBLEM THE CAMP IS FACING AT THE PRESENT TIME IS THAT OF AN ADEQUATE WATER SUPPLY. THE FACT THAT BOTH WELLS PRESENTLY BEING USED WERE DRY DURING THE PAST SEASON LEADS ONE TO BELIEVE THAT IT IS SURFACE WATER WHICH IS BEING USED.\" Resolved the following year -- the 1934 report records \"two new wells were sunk.\"",
+   "sources": [
+    "src_ia_ymca_montreal_annual_reports_collection"
+   ],
+   "confidence": "stated",
+   "category": "site",
+   "entities": [
+    "Kamp Kanawana"
+   ],
+   "date_ref": "1932-1933",
+   "conflicts_with": [],
+   "added_version": "v5.30",
+   "added_by": "ralph_loop"
+  },
+  {
+   "fact_id": "f_2150",
+   "claim": "NULL RESULTS ACROSS ALL 114 ANNUAL REPORTS MENTIONING KANAWANA: no fire, no storm destruction, and no death at camp is reported in any of them. The 1969 camper drowning appears ONLY in the Kanawana season report, not the annual report (whose sole 1969 Kanawana passage is an attendance line, and which returns zero hits for regret/sorrow/died/death/accident/tragic/drown). The 1976 viral meningitis outbreak likewise appears only in the camp's own director's report. Two apparent hits are false positives: a 1938 \"two or three drownings\" line concerns a city branch waterfront, and a 1962 \"water pollution cancelled swimming\" line concerns the Ile Perrot day camp.",
+   "sources": [
+    "src_ia_ymca_montreal_annual_reports_collection"
+   ],
+   "confidence": "stated",
+   "category": "meta",
+   "entities": [
+    "Kamp Kanawana"
+   ],
+   "date_ref": "1856-2009",
+   "conflicts_with": [],
+   "added_version": "v5.30",
+   "added_by": "ralph_loop"
+  },
+  {
+   "fact_id": "f_2151",
+   "claim": "NULL: Camp Weredale and Camp Ouareau appear NOWHERE in any of the 114 YMCA of Montreal annual reports that mention Kanawana.",
+   "sources": [
+    "src_ia_ymca_montreal_annual_reports_collection"
+   ],
+   "confidence": "stated",
+   "category": "meta",
+   "entities": [
+    "Camp Weredale",
+    "Camp Ouareau"
+   ],
+   "date_ref": "1856-2009",
+   "conflicts_with": [],
+   "added_version": "v5.30",
+   "added_by": "ralph_loop"
+  },
+  {
+   "fact_id": "f_2152",
+   "claim": "Camp Otoreke is explicitly identified by the association as Kanawana's ORIGINAL SITE, not a separate camp: the 1965 annual report states \"The Otoreke site, near St. Adolphe d'Howard, has been owned by the YMCA since 1893 and is the original location of Kamp Kanawana.\" The 1910 split was a division of one institution -- boys to the new Lake Kanawana site, men remaining on Lac St. Joseph, which became Otoreke. Per CLAUDE.md's hub-and-spoke rule this makes Otoreke, and likewise Bec-scies and Perrot, core site/ rather than connections/related-camps/. Camp Tamaracouta (Boy Scouts) is the genuine related-camps candidate -- the 1964 report records 120 acres acquired \"in cooperation with the Boy Scouts Association Camp Tamaracouta. This move now joins the two camp properties.\"",
+   "sources": [
+    "src_ia_ymca_montreal_annual_reports_collection"
+   ],
+   "confidence": "stated",
+   "category": "site",
+   "entities": [
+    "Camp Otoreke",
+    "Camp Becsies",
+    "Camp Perrot",
+    "Camp Tamaracouta"
+   ],
+   "date_ref": "1910-1965",
+   "conflicts_with": [],
+   "added_version": "v5.30",
    "added_by": "ralph_loop"
   }
  ]

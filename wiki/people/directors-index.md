@@ -1,6 +1,6 @@
 # Directors and Staff of Camp Kanawana
 
-*Status: E1-reviewed | Sources: 29*
+*Status: E1-reviewed | Sources: 30*
 *Last Updated: 2026-08-14*
 
 ## Summary
@@ -15,7 +15,12 @@ The title "Director" was applied at more than one level: the **Camp Director** (
 |----------|-------|-------|--------|
 | Billy Ball | 1894 | Led first organized trip to Lake Saint-Joseph; full name and role title unknown | YMCA Quebec website; QAHN |
 | John Roy | 1901 | Earliest identified director by name; wrote letters from Camp Jubilee. Possibly (unconfirmed) the same person as "John W. Ross," credited as volunteer chairman of a mid-1890s Junior Department camp committee in the YMCA of Montreal's own annual reports -- see [[people/billy-ball|Billy Ball]] Open Question #8. | Concordia Archives 12L |
-| G.D. Brandon | 1921 | Named in 1921 brochure | 1921 brochure |
+| W. J. Holliday | 1908, **1910-1912?** | **Opened Kanawana.** The 1910 Annual Report announces the new site in the forward tense: "This camp will be under the charge of **Mr. W. J. Holliday, of the Central Branch**." He had run the Junior Camp at Lac St. Joseph in 1908. How far past 1910 he continued is not stated. | YMCA Montreal Annual Reports 1909, 1910^30 |
+| D. J. Evans, [[people/harold-cross\|Harold Cross]], H. A. Lordly | 1913 | The 1914 report: the camp "was open for July and August with 162 boys, apart from visitors, **in charge of Messrs. D. J. Evans, Harold Cross, and H. A. Lordly for successive portions of the season**." Three men splitting one summer. **Note the date:** Cross running part of the 1913 season predates by more than a decade the c.1925-1928 directorship recorded for him below. | YMCA Montreal Annual Report 1914^30 |
+| T. Hicks Miller; John McKinnon | 1915 | Split season: "**Mr. T. Hicks Miller**, Physical Director at Westmount, had charge during July, and **Mr. John McKinnon**, Boys' Work Secretary at Central, during August." | YMCA Montreal Annual Report 1916^30 |
+| J. G. MacKinnon | 1916, 1917, 1918 (part), **1919** | "Mr. MacKinnon acted as Leader throughout" (1916); supervised 1917 with Jos. Dalley and John Bradford; ran 1918 until 3 August; and for 1919 "**Mr. MacKinnon has been appointed Director for this season**" — the first use of the title *Director* in the camp's record. The 1919 season drew 289 boys and was badly overcrowded. | YMCA Montreal Annual Reports 1917-1920^30 |
+| G. D. Brandon | 1918 (part) | Relieved MacKinnon from 3 to 17 August 1918. | YMCA Montreal Annual Report 1919^30 |
+| G.D. Brandon | 1921 | Named in 1921 brochure. **Not his first season at the camp** — he relieved MacKinnon for a fortnight in August 1918. | 1921 brochure; YMCA Montreal Annual Report 1919^30 |
 | Lemuel P. Ereaux | 1922 (documented) | The 1922 brochure's "eleven summers" describes his cumulative prior camp experience (as camper/counsellor, back to roughly 1912), not eleven years as director -- the 1921 brochure separately and explicitly names G.D. Brandon as that year's director, with no mention of Ereaux. 1922 is his only documented directorship year; also served as Camp Doctor, 4th year McGill Medicine. A possible identity lead (unconfirmed): a "Lemuel Price Ereaux, MD" (1898-1967) memorialized in a 1968 *Archives of Dermatology* obituary -- age/timeline fit, but the full text is paywalled and no camp connection could be confirmed. | 1921/1922 brochures |
 | Philip G. Paterson | 1923 | Camp Chief; Boys' Work Secretary, Westmount YMCA; presided over "complete rebrand in tone" | 1923 brochure |
 | Harold C. Cross | ~1925-1928 | Added totem pole to Council Ring (1927); later wrote YMCA history (1951) | McMorris thesis |
@@ -204,7 +209,7 @@ Rewritten 2026-08-14. **The 1947–2003 gap, which framed this project's researc
 **No confirmed director:**
 
 - **1895-1900**: Between the 1894 founding and John Roy's 1901 letters
-- **1902-1920**: Between John Roy and G.D. Brandon
+- **1902-1907, 1909, 1911-1912, 1914**: What remains of the former "1902-1920" gap after the 2026-08-14 annual-report sweep, which named someone in charge for 1908, 1910, 1913, 1915, 1916, 1917, 1918 and 1919. The surviving holes are single or paired years, not a two-decade blank
 - **1924**: Between Paterson and Cross
 - **1929-1931**: Between Cross and Spearman's documented 1932 start. McEwen's extended tenure (c.1927-1947 as administrative overseer) may cover it; McMorris documents him on-site only in 1930-1931
 - **1940**: Between Macdiarmid's last documented season (1939) and Langille's 1941. Macdiarmid went overseas in December 1939, so 1940 had someone
@@ -337,6 +342,7 @@ Rewritten 2026-08-14. **The 1947–2003 gap, which framed this project's researc
 24. 2006 Camp YMCA Kanawana staff application form (Wayback, predecessor domain) [src_application_2006].
 25. 2005 Camp YMCA Kanawana Parent Handbook, English (Wayback, predecessor domain) — document-author metadata [src_ymcakanawana_2005_handbook].
 26. YMCA of Montreal Annual Reports, digitized run 1856-2009, and the digitized *Green Triangle* run (Internet Archive) [src_ia_ymca_montreal_annual_reports_collection].
+30. YMCA of Montreal Annual Reports 1909, 1910, 1914, 1916, 1917, 1918, 1919 and 1920, for the pre-1921 camp leadership (Internet Archive) [src_ia_ymca_montreal_annual_reports_collection, src_ia_sgw_annual_report_1910].
 27. Kamp Kanawana annual and director's reports, Internet Archive: 1964 [src_ia_kanawana_report_1964], 1965 [src_ia_kanawana_report_1965], 1966 [src_ia_kanawana_annual_report_1966], 1969 [src_ia_kanawana_report_1969], 1970 [src_ia_kanawana_report_1970], 1971 [src_ia_kanawana_report_1971], 1973 [src_ia_kanawana_report_1973], 1974 [src_ia_kanawana_report_1974], 1975 [src_ia_kanawana_report_1975], 1976 [src_ia_kanawana_directors_report_1976], 1977 [src_ia_kanawana_report_1977], 1978 [src_ia_kanawana_report_1978], 1979 [src_ia_kanawana_report_1979], 1987 [src_ia_kanawana_report_1987]. Association context from the 1967 annual report [src_ia_sgw_annual_report_1967], the news releases of 9 February 1970 [src_ia_ymca_news_release_1970_02] and January 1971 [src_ia_ymca_news_release_1971_01], and the Metropolitan Staff / Senior Management rosters 1984-2003 [src_ia_ymca_montreal_annual_reports_collection].
 28. *The Lookout*, Vol. 1 No. 3, Kanawana Alumni newsletter, autumn 1993 (Internet Archive) [src_ia_the_lookout_1993].
 29. "Kamp Kanawana History," presented at a Training Course, 6 June 1951 (Internet Archive) [src_ia_kanawana_history_1951].

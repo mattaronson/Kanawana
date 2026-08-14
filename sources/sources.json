@@ -10929,7 +10929,39 @@
    "extraction_version": "v5.24",
    "reliability": "primary",
    "notes": "Only issue of this alumni newsletter in the digitized corpus; the numbering implies at least two earlier issues and any 1994 centennial issues would be richer still. Carries: Richard \"Itche\" Kerr's FIRST-PERSON account of writing the camp song at the end of summer 1977; a list of past directors the alumni association was seeking addresses for (\"David Twynam (79-82), Tom Potts (part of 72), Jim Turner (?-71), Jeff Anderson (?)\") -- the only source for Tom Potts in 1972; the 1993 L&V result (Voyageurs, narrowly), twice, once as an eyewitness account of the closing banquet; Bruce Netherwood signing as Director; a memorial for song-leader Maureen McBride (d. 8 May 1993); and the phrase \"the ancient plaques that haunt the dining hall\"."
+  },
+  {
+   "source_id": "src_ia_sgw_annual_report_1894_1895",
+   "type": "report",
+   "title": "YMCA of Montreal Annual Report 1894-1895 (fiscal year ending 30 April 1895)",
+   "date": "1895",
+   "date_precision": "year",
+   "origin": "internet_archive",
+   "origin_url": "https://archive.org/details/sgw-ymca-annual-report-1894-1895",
+   "cache_path": null,
+   "char_count": 0,
+   "ingested_at": "2026-08-14T00:00:00Z",
+   "extracted": true,
+   "extraction_version": "v5.30",
+   "reliability": "primary",
+   "notes": "THE FOUNDING DOCUMENT. Junior Department report: \"We are able to report the holding of our first Summer Camp, which was in every way a decided success... This Camp was composed of 23 workers and boys.\" Statistical summary confirms \"Attendance at Summer Camp ... 23\". The Physical Department section of the SAME report separately records the leased land and fishing rights near Ste-Agathe used by 53 adult members -- two parallel streams, Junior and Senior, on one lake. Officers list carries the first Summer Camp committee: \"John W. Ross, Chairman. E. J. Coyle. R. L. Charlton.\" CRITICAL NULL: the word \"Jubilee\" appears in this report ONLY in the YMCA-worldwide golden-jubilee sense (1844-1894), never as a camp name."
+  },
+  {
+   "source_id": "src_ia_sgw_annual_report_1910",
+   "type": "report",
+   "title": "YMCA of Montreal Fifty-Ninth Annual Report, for the year ending 30 April 1910",
+   "date": "1910",
+   "date_precision": "year",
+   "origin": "internet_archive",
+   "origin_url": "https://archive.org/details/sgw-ymca-annual-report-1910",
+   "cache_path": null,
+   "char_count": 0,
+   "ingested_at": "2026-08-14T00:00:00Z",
+   "extracted": true,
+   "extraction_version": "v5.30",
+   "reliability": "primary",
+   "notes": "ANNOUNCES KANAWANA IN THE FORWARD TENSE, fixing its first season as summer 1910: \"A new site has been secured for the Boys Camp on Lake Kanawana, near Shawbridge... a summer vacation camp for boys, from July 1st to August 15th. They will have accommodation for 70 boys. This camp will be under the charge of Mr. W. J. Holliday, of the Central Branch. The Summer Camp at Lac St. Joseph will have renewed equipment, and will be given over entirely to the senior members.\" The masthead already lists them separately: \"Men's Summer Camp, - Lac St. Joseph / Boys' Summer Camp, - Lake Kanawana.\""
   }
  ],
- "source_count": 683
+ "source_count": 685
 }

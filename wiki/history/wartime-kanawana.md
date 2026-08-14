@@ -24,7 +24,15 @@ By 1942, [[people/rh-hanagan|R.H. Hanagan]] appears in the archival record as Mo
 
 ## Health Crises
 
-The war years were punctuated by disease outbreaks that tested camp leadership. In 1941, a scarlet fever case triggered a full month of quarantine.^mc In 1944, a mumps outbreak hit during weeks six and seven of the season.^mc Most seriously, in 1946, six campers contracted polio. The camp's medical advisor, [[people/cushing-family|Dr. Cushing]] (a pediatrician), visited the camp and recommended that trips be cancelled but the camp itself remain open.^mc Three of the six cases had been discharged by the end of the summer.^mc That decision, to keep a camp running through a polio scare rather than send potentially infected children home to their communities, reflects a confidence in the camp's medical infrastructure and isolation that would be difficult to imagine today.
+The war years were punctuated by disease outbreaks that tested camp leadership. In 1944, a mumps outbreak hit during weeks six and seven of the season.^mc Most seriously, in 1946, six campers contracted polio.^mc
+
+**The scarlet fever quarantine: 1940, probably, not 1941.** This article dated it to 1941 from McMorris. The YMCA of Montreal's own account is in its Annual Report for 1941: "Unfortunately, a mild case of **scarlet fever** developed, followed by **two others**, so that **the camp had to be quarantined for about four weeks**."^ar Three cases, four weeks — matching McMorris's "full month" closely enough to be the same event.
+
+But the association's annual reports in this period ran to a **fiscal year ending 31 March**, so the report titled 1941 describes the **summer of 1940**. On the report's own convention the quarantine belongs to the 1940 season. Both years are recorded here rather than one being silently chosen, because the alternative — that McMorris used a source with a different dating, or that these are two separate outbreaks in consecutive years — cannot be excluded without reading her citation. **This is the same one-year offset that had the Council Ring rebuild recorded as 1929 when the work was done in 1928**; it is a recurring hazard with this document series and worth checking wherever a wiki date derives from an annual report.
+
+For scale: the 1940 season ran 1,438 boy-weeks with 36 counsellors, so a four-week quarantine fell on a full camp, not a winding-down one.^ar
+
+**A note on the polio figure.** The six-case count comes from McMorris, and the annual report does **not** corroborate it. The 1947 report (1946 season) says only: "The polio epidemic affected attendance for the last half of the season, although most doctors advised parents that conditions at camp were more favorable for children than were those in the city."^ar That is the city-wide Montreal epidemic cited as an attendance depressant, with no claim that cases occurred at camp. The annual report corroborates the **year and the attendance effect**; McMorris remains the sole source for six cases at Kanawana. The camp's medical advisor, [[people/cushing-family|Dr. Cushing]] (a pediatrician), visited the camp and recommended that trips be cancelled but the camp itself remain open.^mc Three of the six cases had been discharged by the end of the summer.^mc That decision, to keep a camp running through a polio scare rather than send potentially infected children home to their communities, reflects a confidence in the camp's medical infrastructure and isolation that would be difficult to imagine today.
 
 McMorris also notes that wartime Kanawana attracted boys from beyond the British Isles: campers came from England, France, Scotland, and Poland during the war years.^mc
 
@@ -55,6 +63,8 @@ The Concordia University archives (YMCA of Montreal fonds, P145) contain wartime
 
 ## Sources
 
+
+- ^ar: YMCA of Montreal Annual Reports 1941 and 1947 (Concordia-digitized run, Internet Archive) [src_ia_ymca_montreal_annual_reports_collection]
 - CFCF Radio Broadcast Script, June 10, 1939. [Internet Archive](https://archive.org/details/1939-06-10-ymca-kamp-kanawana-broadcast-station-cfcf) (pre-war)
 - CFCF Radio Broadcast Script, June 26, 1941. [Internet Archive](https://archive.org/details/1941-06-26-ymca-kamp-kanawana-broadcast-station-cfcf)
 - The Green Triangle, July 29, 1938. [Internet Archive](https://archive.org/details/the-green-triangle-1938-07-29)

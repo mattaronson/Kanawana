@@ -9,6 +9,24 @@ The origins of Camp Kanawana involve two distinct sites and a founding sequence 
 
 Around 1910, seeking a larger site, the YMCA acquired land at Saint-Sauveur-des-Monts (near Piedmont) from the Page family. This became the permanent Camp Kanawana and has operated continuously since. A 1935 document describes Kanawana as being in its "twenty-sixth year of existence," counting from the 1910 site acquisition. A 1941 CFCF radio broadcast by Chief Howie Langille describes it as the camp's "48th season," counting from the 1894 founding. Both countings were used contemporaneously, which explains the ongoing ambiguity about whether the camp was "founded" in 1894 or 1910.
 
+## The 1894 founding, documented contemporaneously
+
+**The association reported its own first camp, in the year it happened.** The YMCA of Montreal's Annual Report for 1894-95 states in its Junior Department section:^ar
+
+> "We are able to report the holding of **our first Summer Camp**, which was in every way a decided success, and will become an established item in our prospectus. This Camp was composed of **23 workers and boys**."
+
+The same report's statistical summary confirms it — "Attendance at Summer Camp … 23" — and the **preceding 1893-94 report contains no mention of a lake, lease, fishing rights, or Ste-Agathe at all.** That is a contemporaneous first-person statement bracketed by a clean negative on either side, and it is the strongest evidence for 1894 this project has.
+
+**Two streams, one lake.** The same 1894-95 report records, in its *Physical Department* section rather than the Junior one: "The Association has leased land from the Government and the fishing rights of a lake near St. Agathe, and purpose using it as a summer camp for our members… Last year **53 members** took advantage of this privilege." From 1896 the reports state the split explicitly — "28 junior members and 40 senior members." So the boys' camp of 23 and an adult members' camp of 53 ran in parallel on the same leased water. *Inference, labelled:* only the Junior line becomes Kanawana; the Senior line stays on Lac St. Joseph and becomes [[site/camp-otoreke|Camp Otoreke]]. The association later says so itself — its 1965 report calls the Otoreke site "**the original location of Kamp Kanawana**."^ar
+
+**The first committee**, from the same report's officers list: "Summer Camp. **John W. Ross**, Chairman. **E. J. Coyle**. **R. L. Charlton**." By 1896 this is a standing "Permanent Camp Committee" of John W. Ross, Jas. Wilson, **W. E. Cushing** and R. B. Ross Jr.^ar
+
+### "Camp Jubilee" is not the association's name for it
+
+**Every pre-1921 annual report was searched. None of them calls any camp "Camp Jubilee."**^ar The word "Jubilee" appears only in its YMCA-worldwide sense — the 1893-94 report's "This is the Jubilee Year in the history of the Young Men's Christian Association," meaning the movement's 1844–1894 golden jubilee, and a reference to "The World's Jubilee Convention, London, Eng., June 6-10, 1894."
+
+That the association's first boys' camp opened in the YMCA's own Jubilee Year is a real and probably meaningful coincidence, and the name may well be authentic to camp usage. But **this wiki uses "Camp Jubilee" throughout as though it were the institution's own term, and the institution's own records do not use it.** Whichever source supplies the name — QAHN, the 1951 in-house history, oral tradition — should be the one it is attributed to. This is flagged rather than fixed here, because renaming a term used across a dozen articles is an editorial decision, not a research finding.
+
 ## Precursors: Cushing and the Lake St. Joseph Trips (1892-1893)
 
 According to the Quebec Anglophone Heritage Network (QAHN), Lemuel Cushing brought a group of boys to Lake Saint-Joseph in Saint-Adolphe-d'Howard in 1892. The Concordia archives (fonds P145, sub-series 12L) contain camper lists, financial records, and fishing rights documentation dating to 1893, confirming organized activity at the site a full year before the conventional 1894 founding. Separately, sub-series 12A holds a "Report — trip to St. Agathe" dated 1893/1895, described as the "Journal of the first Montreal YMCA venture to explore the country round about St. Agathe with the view of securing a lake on which to establish a Summer Camp." This document confirms the YMCA was actively scouting the Laurentian territory for a permanent camp site as early as 1893. Whether 1893 represents a continuation of Cushing's initiative or a separate test run by Ball is not established. What *is* now established is the planning body behind it: the 1951 "Kamp Kanawana History" records that in the fall of 1892 "a Committee of Messrs. J. W. Ross, W. E. Cushing, W. W. Wilson, T. Duncan Patton and W. H. Ball, was appointed," and that the origin lay in a fishing trip General Secretary D. A. Budge made to Lac Des Isles that summer with a Director of the Association — the train then running only as far as Ste-Jérôme, the rest by horse and cart.^h51
@@ -31,7 +49,28 @@ An 1898 photograph from the archives names four individuals at the camp: W. N. C
 
 **John Roy** served as camp director by at least 1901, as evidenced by his letters to a Mr. Budge preserved in the Concordia archives (sub-series 12L). Roy is the earliest identified director of the camp, filling a gap that had long puzzled the project: who ran Camp Jubilee between its founding and the emergence of named leaders in the 1920s? Roy's correspondence with Budge suggests a formal reporting relationship; Budge is now identified as [[people/da-budge|Daniel Andrew Budge (1851-1933)]], General Secretary of the Montreal YMCA from 1874 to 1913 — a tenure that brackets the entire Camp Jubilee era. No other directors between Roy and Philip Paterson (documented in 1923) have been identified, though Concordia's finding aid for sub-series 12L lists a specific, as-yet-unread "Director's report (1908)" (Box HA2312) — a dated record from the middle of this 22-year gap that would very likely name whoever was director that year if physically consulted.
 
-## Acquisition of the Saint-Sauveur Site (c.1910)
+## Acquisition of the Saint-Sauveur Site (1910)
+
+**The date is no longer "c." — the association announced Kanawana in the forward tense.** The Fifty-Ninth Annual Report, for the year ending 30 April 1910, states:^ar
+
+> "**Vacation Camps** — A new site has been secured for the Boys' Camp on **Lake Kanawana, near Shawbridge**, in the Laurentian Mountains. A complete camping equipment is now being purchased, and a Committee representing the three Branches is completing the plans for a summer vacation camp for boys, **from July 1st to August 15th**. They will have **accommodation for 70 boys**. This camp will be under the charge of **Mr. W. J. Holliday, of the Central Branch**. The Summer Camp at Lac St. Joseph will have renewed equipment, and will be **given over entirely to the senior members**."
+
+The masthead of that same report already lists them as two institutions: "Men's Summer Camp, - Lac St. Joseph / Boys' Summer Camp, - Lake Kanawana." Two later reports confirm the arithmetic independently — the 1931 report says the camp "has been in operation for twenty-one years in its present location" (of the 1930 season), and the 1939 report calls 1938 "the twenty-ninth season at Camp Kanawana." Both give 1910.
+
+### Why the camp has two ages
+
+This article notes above that "both countings were used contemporaneously." The annual reports show the association doing it systematically, and the consequences are visible in its own celebrations.^ar
+
+| Clock | Used in | Counts from |
+|---|---|---|
+| "Camping since 1894" | 1946 ("the 52nd for boys arranged by the Montreal Association"), 1948 (54th), 1949 (55th), 1966-67 (73rd), 1967 (74th), 1968 (75th), 1977-78, 2005-06 | The first Junior camp at Lac St. Joseph |
+| "Kanawana since 1910" | 1931 ("twenty-one years in its present location"), 1939 (29th season), 1984 ("its 75th year of service"), 1985 ("for the past 75 years") | The Saint-Sauveur site |
+
+**So the 75th anniversary was celebrated twice — in 1968 and again in 1984.** And the camp has two centennials in the record: the 1993 report says Kanawana is "celebrating its 100th anniversary this year," while the 1994 report says "This was Kanawana's 100th year of operation." Neither is an error; they are different clocks, and the 1993 one is running on yet a third date (1893). See [[history/centennial-1994|The 1994 Centennial]].
+
+A caution about the early claims. The association's own retrospective founding dates from the 1930s and 1950s are unreliable and mutually inconsistent — 1898 (per the 1931 report), 1891/92 (1932, 1933), 1892 (1954, 1955), 1893 (1953, 1965). All postdate the events by three to four decades and all conflict with the 1894-95 report's first-person "our first Summer Camp."^ar
+
+
 
 Seeking a larger site, the YMCA acquired land at Saint-Sauveur-des-Monts (near Piedmont) from the [[people/page-family|Page family]] around 1910. The camp was situated among trees on the high sloping shores of a lake that would become known as Lake Kanawana, approximately 45 miles from Montreal and 6 miles from the Piedmont train station. A second lake, Lake Wilson, was within the property, with a dam controlling water levels between the two. A third lake, Round Lake, was also part of the camp property.
 
@@ -105,6 +144,7 @@ The 1923 brochure and 1935 history together describe a camp that had grown into 
 - ^br: YMCA of Montreal 41st Annual Report (1892) and Historical Sketch of the YMCA of Montreal 1851-1901, both on Internet Archive; retrieved via operator browser research, June 2026 [src_ia_ymca_annual_1891_92, src_ia_historical_sketch_1901]
 - ^charron: Ville de Saint-Sauveur, "Les familles pionnières de Saint-Sauveur," citing Dagenais, Lorraine and Carmelle Huppé, *Saint-Sauveur: Son histoire, notre patrimoine* [src_vss_familles_pionnieres]
 - ^h51: "Kamp Kanawana History," presented at a Training Course, 6 June 1951 (Internet Archive) [src_ia_kanawana_history_1951]
+- ^ar: YMCA of Montreal Annual Reports 1893-94, 1894-95, 1895-96, 1896-97 and 1965, read directly from the Concordia-digitized run on Internet Archive [src_ia_sgw_annual_report_1894_1895, src_ia_ymca_montreal_annual_reports_collection]
 - ^m19: "Brief Autobiographical Sketch of Association Career," August 1919 — first-person memoir by an unnamed member of the founding syndicate, identifiable from internal evidence as the man who became the third General Secretary of the Winnipeg YMCA in June 1894 (Internet Archive) [src_ia_autobiographical_sketch_1919]
 - ^rpcq: Répertoire du patrimoine culturel du Québec, "Young Men's Christian Association" (id 8364) [src_rpcq_ymca_8364]
 
