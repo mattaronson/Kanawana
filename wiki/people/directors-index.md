@@ -166,7 +166,7 @@ The "Pip" Alumni Award, named after Philip "Pip" Caddell (1913-2004, camper 1928
 | Marina Sharpe | unknown | Refugee advocate | 2018 |
 | Dr. James Orbinski | 1980s-1990s | Humanitarian physician, MSF president | 2024 |
 
-**[[people/notable-alumni/rob-braide|Rob Braide]]** (camper for 9 summers, ending by 1967; President of Standard Broadcasting Corporation and Montreal radio stations CHOM, MIX 96, and CJAD) is a notable alumnus documented via a 2007 camp testimonial, though not (so far as documented) a Pip Award recipient.
+**[[people/notable-alumni/rob-braide|Rob Braide]]** (camper for 9 summers, ending by 1967; Vice President and General Manager of CJAD and CJFM-FM (Mix 96) from 1987 under Standard Broadcasting, earlier Program Director at CHOM-FM. (Corrected 2026-08-14: previously recorded here as "President of Standard Broadcasting Corporation", which he never was — that company was led by Allan Slaight, with Gary Slaight president of Standard Radio from 1987.)) is a notable alumnus documented via a 2007 camp testimonial, though not (so far as documented) a Pip Award recipient.
 
 ### Memorials and Endowments
 

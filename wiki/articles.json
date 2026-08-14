@@ -7117,12 +7117,14 @@
         "f_1825",
         "f_1950",
         "f_1951",
-        "f_1952"
+        "f_1952",
+        "f_2024"
       ],
       "sources_cited": [
         "src_reportage_vecu_2007",
         "src_broadcasting_history_braide",
-        "src_billboard_ca_braide"
+        "src_billboard_ca_braide",
+        "src_broadcasting_history_cjad"
       ],
       "open_questions": 4,
       "cross_links": [
@@ -7130,8 +7132,8 @@
         "directors-index"
       ],
       "file_id": null,
-      "word_count": 1099,
-      "notes": "2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- removed a duplicate old-style HTML-comment header. No facts, citations, or open questions dropped; status unchanged (draft). | 2026-08-12 (p_218 VERIFY): removed the \"Possible Family Connection\" section and its obituary source per CLAUDE.md Phase 2 privacy rule -- it published genealogy about private individuals who were minors, on a disputed-confidence inference, and concluded no link to the subject existed. f_1952 preserved in KB, no longer reproduced in prose. See article Research Notes.",
+      "word_count": 602,
+      "notes": "2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- removed a duplicate old-style HTML-comment header. No facts, citations, or open questions dropped; status unchanged (draft). | 2026-08-12 (p_218 VERIFY): removed the \"Possible Family Connection\" section and its obituary source per CLAUDE.md Phase 2 privacy rule -- it published genealogy about private individuals who were minors, on a disputed-confidence inference, and concluded no link to the subject existed. f_1952 preserved in KB, no longer reproduced in prose. See article Research Notes. | 2026-08-14 p_225 research: deep web research resolved three long-standing questions against PRIMARY sources (YMCA of Montreal news release 1970 + annual reports 1977-79 on Internet Archive; Camp Pascobac's own history page; broadcasting-history.ca).",
       "tags": {
         "era": [],
         "region": "not-applicable",
@@ -7358,12 +7360,21 @@
         "f_1336",
         "f_1362",
         "f_1378",
-        "f_1384"
+        "f_1384",
+        "f_2020",
+        "f_2021",
+        "f_2023",
+        "f_2025",
+        "f_2026"
       ],
       "sources_cited": [
         "src_camp_stephens_alumni_blog",
         "src_concordia_atom_12B01",
-        "src_concordia_atom_fonds"
+        "src_concordia_atom_fonds",
+        "src_ia_ymca_news_release_1970_11_27",
+        "src_ia_ymca_annual_report_1977_78",
+        "src_ia_ymca_annual_report_1978_79",
+        "src_camp_pascobac_history"
       ],
       "open_questions": 3,
       "cross_links": [
@@ -7373,8 +7384,8 @@
         "centennial-1967"
       ],
       "file_id": null,
-      "word_count": 572,
-      "notes": "2026-07-11: Workstream C1 spawn. Synthesizes existing facts from directors-index.md and nelson-mcewen.md -- no new research conducted. Corrected dangling source_id references (src_concordia_12B01 / src_concordia_ymca_fonds_12B01 -> src_concordia_atom_12B01) in kb/facts.json while preparing this article.",
+      "word_count": 832,
+      "notes": "2026-07-11: Workstream C1 spawn. Synthesizes existing facts from directors-index.md and nelson-mcewen.md -- no new research conducted. Corrected dangling source_id references (src_concordia_12B01 / src_concordia_ymca_fonds_12B01 -> src_concordia_atom_12B01) in kb/facts.json while preparing this article. | 2026-08-14 p_225 research: deep web research resolved three long-standing questions against PRIMARY sources (YMCA of Montreal news release 1970 + annual reports 1977-79 on Internet Archive; Camp Pascobac's own history page; broadcasting-history.ca).",
       "tags": {
         "era": [
           "1950s",
@@ -7654,13 +7665,16 @@
         "f_1090",
         "f_1091",
         "f_1127",
-        "f_1588"
+        "f_1588",
+        "f_2022"
       ],
       "sources_cited": [
         "src_patten_obituary",
         "src_ymca_quebec_pip_skinner",
         "src_flickr_kanawana_plaque_album",
-        "src_wikipedia_richard_patten"
+        "src_wikipedia_richard_patten",
+        "src_ia_ymca_annual_report_1977_78",
+        "src_ia_ymca_annual_report_1978_79"
       ],
       "open_questions": 2,
       "cross_links": [
@@ -7670,8 +7684,8 @@
         "directors-index"
       ],
       "file_id": null,
-      "word_count": 455,
-      "notes": "2026-07-11: Workstream C1 spawn, split from notable-alumni.md. No new research conducted. Corrected two dangling source_id references (src_patten_wikipedia -> src_wikipedia_richard_patten; src_hpmcgarry_patten_obituary -> src_patten_obituary) in kb/facts.json while preparing this article.",
+      "word_count": 594,
+      "notes": "2026-07-11: Workstream C1 spawn, split from notable-alumni.md. No new research conducted. Corrected two dangling source_id references (src_patten_wikipedia -> src_wikipedia_richard_patten; src_hpmcgarry_patten_obituary -> src_patten_obituary) in kb/facts.json while preparing this article. | 2026-08-14 p_225 research: deep web research resolved three long-standing questions against PRIMARY sources (YMCA of Montreal news release 1970 + annual reports 1977-79 on Internet Archive; Camp Pascobac's own history page; broadcasting-history.ca).",
       "tags": {
         "era": [
           "1960s",
@@ -8476,7 +8490,10 @@
         }
       ],
       "ralph_loops_completed": 1,
-      "kb_facts_used": [],
+      "kb_facts_used": [
+        "f_2022",
+        "f_2026"
+      ],
       "sources_cited": [
         "src_concordia_fonds",
         "src_ymca_kanawana_history",
@@ -8486,7 +8503,9 @@
         "src_goddard_obituary_condolence",
         "src_goddard_obituary",
         "src_oral_aronson",
-        "src_ymca_john_island_newsletter"
+        "src_ymca_john_island_newsletter",
+        "src_ia_ymca_annual_report_1977_78",
+        "src_ia_ymca_annual_report_1978_79"
       ],
       "open_questions": 4,
       "cross_links": [
@@ -8501,8 +8520,8 @@
         "timeline-overview"
       ],
       "file_id": null,
-      "word_count": 980,
-      "notes": "2026-07-11: Workstream C4 spawn (3 of 4). Connective-narrative synthesis, no new research conducted. | 2026-08-14 p_222: applied the chronology BLOCKING fixes from the p_218 VERIFY audit.",
+      "word_count": 1129,
+      "notes": "2026-07-11: Workstream C4 spawn (3 of 4). Connective-narrative synthesis, no new research conducted. | 2026-08-14 p_222: applied the chronology BLOCKING fixes from the p_218 VERIFY audit. | 2026-08-14 p_225 research: deep web research resolved three long-standing questions against PRIMARY sources (YMCA of Montreal news release 1970 + annual reports 1977-79 on Internet Archive; Camp Pascobac's own history page; broadcasting-history.ca).",
       "tags": {
         "era": [
           "1970s",

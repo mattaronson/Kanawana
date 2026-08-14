@@ -1,8 +1,8 @@
 {
   "version": "v4.98",
-  "kb_version": "v5.16",
+  "kb_version": "v5.17",
   "migrated_from": "3.3",
-  "fact_count": 1981,
+  "fact_count": 1988,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -34274,6 +34274,127 @@
       "date_ref": "1947-1967",
       "conflicts_with": [],
       "added_version": "v5.16",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_2020",
+      "claim": "D. Ross Bannerman was appointed General Secretary and Chief Executive Officer of the YMCA of Montreal effective December 1, 1970, succeeding Rix G. Rogers, and held the office until 1978, when Kerry W. Johnston succeeded him. He was 43 at appointment, implying a birth year of about 1927, and had been Assistant General Secretary immediately prior.",
+      "sources": [
+        "src_ia_ymca_news_release_1970_11_27",
+        "src_ia_ymca_annual_report_1977_78",
+        "src_ia_ymca_annual_report_1978_79"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "Ross Bannerman",
+        "YMCA of Montreal"
+      ],
+      "date_ref": "1970-1978",
+      "conflicts_with": [],
+      "added_version": "v5.17",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_2021",
+      "claim": "The claim that Ross Bannerman 'became CEO of the Montreal YMCA in the late 1970s' -- sourced to the Camp Stephens alumni blog -- is a misreading. His appointment was late 1970, not the late 1970s; by the late 1970s his tenure was ending.",
+      "sources": [
+        "src_ia_ymca_news_release_1970_11_27"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "Ross Bannerman"
+      ],
+      "date_ref": "1970",
+      "conflicts_with": [],
+      "added_version": "v5.17",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_2022",
+      "claim": "Richard Patten's 1976-1979 YMCA role in Montreal was Executive Director of the Centre-ville/Downtown BRANCH, not of the association. The YMCA of Montreal's 1977-78 and 1978-79 annual reports list him under 'Branch Chairmen and Executive Directors' while separately naming the association's General Secretary and CEO (Bannerman, then Johnston). Camping and Outdoor Education was a separate parallel branch with its own Executive Director (D. Walsh, then D. Twynam), so Patten held no line authority over Camp Kanawana.",
+      "sources": [
+        "src_ia_ymca_annual_report_1977_78",
+        "src_ia_ymca_annual_report_1978_79"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "Richard Patten",
+        "Camp Kanawana"
+      ],
+      "date_ref": "1976-1979",
+      "conflicts_with": [],
+      "added_version": "v5.17",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_2023",
+      "claim": "Camp Pascobac, which Ross Bannerman directed in 1951, is at Kars, New Brunswick, on Belleisle Bay in Kings County -- not in Manitoba. It was operated for 50 years by the Y's Men's Club of Saint John together with the YMCA, from a land purchase in May 1928 until its sale to the Province of New Brunswick in the late 1970s.",
+      "sources": [
+        "src_camp_pascobac_history"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "Camp Pascobac",
+        "Ross Bannerman"
+      ],
+      "date_ref": "1928-1979",
+      "conflicts_with": [],
+      "added_version": "v5.17",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_2024",
+      "claim": "Rob Braide became Vice President and General Manager of CJAD and CJFM-FM in 1987, having previously been Program Director at CHOM-FM. He was never President of Standard Broadcasting Corporation: that company was owned and led by Allan Slaight, with Gary Slaight president of Standard Radio from 1987 -- the man who hired Braide.",
+      "sources": [
+        "src_broadcasting_history_cjad"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "Rob Braide"
+      ],
+      "date_ref": "1987",
+      "conflicts_with": [],
+      "added_version": "v5.17",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_2025",
+      "claim": "The YMCA of Montreal's Metropolitan General Secretary / Chief Executive Officer succession across the 1970s and early 1980s was: Rix G. Rogers (to December 1970), D. Ross Bannerman (December 1970-1978), Kerry W. Johnston (1978-c.1980), S. Kasimer (interim 1980, then from 1981).",
+      "sources": [
+        "src_ia_ymca_annual_report_1977_78",
+        "src_ia_ymca_annual_report_1978_79"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "YMCA of Montreal"
+      ],
+      "date_ref": "1970-1982",
+      "conflicts_with": [],
+      "added_version": "v5.17",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_2026",
+      "claim": "Camp Kanawana director's and annual reports are digitized and full-text searchable on Internet Archive in the rma-concordia-publications collection -- annual reports 1964, 1965, 1966, 1969, 1970 and director's reports 1971, 1974-1979 and 1987, plus brochures and a run of the Ka-News staff newsletter (1977-1981). The 1976 and 1977 director's reports are signed 'Derek V. Walsh, Director of Camping'; the 1979 report is signed 'G. David Twynam / Director'.",
+      "sources": [
+        "src_ia_ymca_annual_report_1978_79"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "Camp Kanawana",
+        "Derek Walsh",
+        "Dave Twynam"
+      ],
+      "date_ref": "1964-1987",
+      "conflicts_with": [],
+      "added_version": "v5.17",
       "added_by": "manual"
     }
   ]

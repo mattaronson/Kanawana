@@ -1,6 +1,6 @@
 # Richard Patten
 
-*Status: draft | Sources: 4*
+*Status: draft | Sources: 8*
 *Last Updated: 2026-07-11*
 
 ## Overview
@@ -13,7 +13,7 @@ Patten is named on an "Advance Guard '63" plaque alongside Julien Tassé, Wally 
 
 ## YMCA Career
 
-Patten's YMCA career before politics was extensive: he trained YMCA staff in Guyana (1969–71), served as Director of International Programs at the Metropolitan YMCA in Montreal (1971–76), then as Executive Director of the YMCA in Montreal (1976–79) — placing him as the senior YMCA official overseeing Camp Kanawana during Dave Twynam's directorship around 1979 — and then as Director of International Programs for the Canadian National Council of YMCAs in Ottawa (1979–87).^6 ^7 He worked with Palestinian youth in refugee camps in Syria, Lebanon, Jordan, and Gaza under the UNRWA/World Alliance of YMCAs, and coordinated support for Ugandan Asian refugees expelled by Idi Amin.^6 His family rented a cottage at YMCA Geneva Park on Lake Couchiching every summer, reflecting a lifelong YMCA affiliation independent of his professional roles.^5
+Patten's YMCA career before politics was extensive: he trained YMCA staff in Guyana (1969–71), served as Director of International Programs at the Metropolitan YMCA in Montreal (1971–76), then as Executive Director of the YMCA's Centre-ville/Downtown **branch** in Montreal (1976–79), and then as Director of International Programs for the Canadian National Council of YMCAs in Ottawa (1979–87).^6 ^7 He worked with Palestinian youth in refugee camps in Syria, Lebanon, Jordan, and Gaza under the UNRWA/World Alliance of YMCAs, and coordinated support for Ugandan Asian refugees expelled by Idi Amin.^6 His family rented a cottage at YMCA Geneva Park on Lake Couchiching every summer, reflecting a lifelong YMCA affiliation independent of his professional roles.^5 The Canadian Parliamentary Guide's compressed "Exec. Dir., YMCA, Montreal, 1976-79" — the phrasing his Wikipedia entry and obituary inherit — omits the branch. The YMCA of Montreal's own 1977-78 and 1978-79 annual reports list him under "Branch Chairmen and Executive Directors" while separately naming the association's General Secretary and CEO (D. Ross Bannerman, then Kerry W. Johnston). Camping and Outdoor Education was a separate parallel branch under D. Walsh and then D. Twynam, so **Patten held no line authority over Camp Kanawana**.^8
 
 ## Political and Later Career
 
@@ -40,6 +40,7 @@ Patten served as a Liberal MPP for Ottawa Centre (1987–1990, 1995–2007), hol
 5. Wikipedia, "Richard Patten"; obituary (HP McGarry) [src_wikipedia_richard_patten].
 6. Wikipedia, "Richard Patten"; obituary (HP McGarry), international YMCA career [src_wikipedia_richard_patten].
 7. Wikipedia, "Richard Patten"; obituary (HP McGarry), Algonquin College bursary [src_wikipedia_richard_patten].
+8. YMCA of Montreal Annual Reports 1977-78 and 1978-79 (Internet Archive) — the "Branch Chairmen and Executive Directors" listing places Patten at the Centre-ville/Downtown branch, separately from the association's General Secretary and CEO [src_ia_ymca_annual_report_1977_78, src_ia_ymca_annual_report_1978_79].
 
 ## Research Notes
 

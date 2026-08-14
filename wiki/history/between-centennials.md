@@ -1,6 +1,6 @@
 # Between Centennials (1968–1993)
 
-*Status: draft | Sources: 9*
+*Status: draft | Sources: 11*
 *Last Updated: 2026-07-11*
 
 ## Overview
@@ -15,7 +15,7 @@ The change proved substantive rather than token: in 1972, just three years after
 
 ## The 1970s: A Thinning Record
 
-Kanawana's administrative record continues through the 1970s — Concordia's archives show "Camping and Outdoor Education Branch of Management minutes" for 1975–1978 replacing earlier committee structures — but the directorship itself grows harder to trace.^1 Stuart McLean, later the creator and host of CBC's *The Vinyl Cafe*, worked five summers at Kanawana beginning in 1969, rising from counsellor to assistant summer camp director for the 1974 and 1975 seasons; McMaster University's Stuart McLean fonds confirms he served under director Derek Walsh, whom McLean sublet his Montreal apartment to on leaving for Toronto.^5 See [[people/notable-alumni/stuart-mclean|Stuart McLean]] for his fuller biography. Richard Patten's tenure as Executive Director of YMCA Montreal (1976–1979) places him as the organizational head overseeing Kanawana during this period, though he was not the camp's on-site director himself^8 — see [[people/richard-patten|Richard Patten]]. G. David Twynam's directorship is documented from 1979, extending into at least the 1980 season per that year's *Ka-News* newsletter.^6 No director is confirmed for 1976–1978, between Walsh/McLean's departure and Twynam's arrival — see [[people/directors-index|Directors and Staff of Camp Kanawana]]'s Gap Periods section.
+Kanawana's administrative record continues through the 1970s — Concordia's archives show "Camping and Outdoor Education Branch of Management minutes" for 1975–1978 replacing earlier committee structures — but the directorship itself grows harder to trace.^1 Stuart McLean, later the creator and host of CBC's *The Vinyl Cafe*, worked five summers at Kanawana beginning in 1969, rising from counsellor to assistant summer camp director for the 1974 and 1975 seasons; McMaster University's Stuart McLean fonds confirms he served under director Derek Walsh, whom McLean sublet his Montreal apartment to on leaving for Toronto.^5 See [[people/notable-alumni/stuart-mclean|Stuart McLean]] for his fuller biography. Richard Patten's 1976–1979 YMCA role, previously described here as placing him at the organizational head overseeing Kanawana, was in fact Executive Director of the **Centre-ville/Downtown branch** — a different office from the association's, and one with no line authority over the camp. Camping and Outdoor Education was its own parallel branch. See [[people/richard-patten|Richard Patten]].^10 G. David Twynam's directorship is documented from 1979, extending into at least the 1980 season per that year's *Ka-News* newsletter.^6 The 1976–1978 gap is narrower than this article previously stated. Digitized Kamp Kanawana director's reports on Internet Archive show the **1976 and 1977 reports signed "Derek V. Walsh, Director of Camping"**, and the 1979 report signed "G. David Twynam / Director" — so Walsh remained in a camping leadership role at least two years beyond the 1975 season this article had as his last.^11 The caveat is that "Director of Camping" is the *branch* title, and whether Walsh was also running the camp on-site in those summers is not stated. 1978 remains genuinely unaccounted for. See [[people/directors-index|Directors and Staff of Camp Kanawana]]'s Gap Periods section.
 
 ## The 1980s: The Second Thin Decade
 
@@ -51,6 +51,8 @@ The 1980s are, after the 1947–1958 postwar gap, the thinnest-documented decade
 7. Peter Goddard obituary and condolence entries naming "Kamp Kanawana" [src_goddard_obituary_condolence, src_goddard_obituary]; oral history, Matt Aronson [src_oral_aronson].
 8. Directors and Staff of Camp Kanawana (this wiki) — Richard Patten's 1976–1979 YMCA Montreal executive directorship, and the Jay-to-Bruce Netherwood succession, both cited there to oral history and the 1990 annual report [src_oral_aronson].
 9. YMCA John Island Alumni Newsletter, 2005 [src_ymca_john_island_newsletter].
+10. YMCA of Montreal Annual Reports 1977-78 and 1978-79 (Internet Archive) — the Branch Chairmen and Executive Directors listing, distinguishing Patten's Downtown branch role from the association's General Secretary [src_ia_ymca_annual_report_1977_78, src_ia_ymca_annual_report_1978_79].
+11. Kamp Kanawana director's reports 1976, 1977 and 1979, digitized in Internet Archive's rma-concordia-publications collection [src_ia_ymca_annual_report_1978_79].
 
 ## Research Notes
 
