@@ -2,7 +2,7 @@
  "version": "v4.98",
  "kb_version": "v5.26",
  "migrated_from": "3.3",
- "fact_count": 2077,
+ "fact_count": 2086,
  "facts": [
   {
    "fact_id": "f_0001",
@@ -35937,6 +35937,167 @@
     "canoe-trips"
    ],
    "date_ref": null,
+   "conflicts_with": [],
+   "added_version": "v5.26",
+   "added_by": "ralph_loop"
+  },
+  {
+   "fact_id": "f_2116",
+   "claim": "THE LONG HOUSE was built and dedicated in mid-July 1952 and demolished in 1978. The 1952 Annual Report: \"Campers and staff will look back on 1952 as the year of the 'Long House'. Officially opened and dedicated in mid-July, this spacious waterfront recreation hall was a great asset, especially for rainy weather program, with its large stone fireplace and stage. It also provides winter storage space for the entire camp fleet of 50 boats and canoes, and quarters for the waterfront directors.\" The 1978 director's report records \"demolition of the old 'Longhouse' (32' x 70')\", giving both the year and the dimensions. SUPERSEDES the wiki's \"demolished c.1979 by controlled fire\" as to date.",
+   "sources": [
+    "src_ia_ymca_montreal_annual_reports_collection",
+    "src_ia_kanawana_report_1978"
+   ],
+   "confidence": "stated",
+   "category": "site",
+   "entities": [
+    "Long House"
+   ],
+   "date_ref": "1952-1978",
+   "conflicts_with": [],
+   "added_version": "v5.26",
+   "added_by": "ralph_loop"
+  },
+  {
+   "fact_id": "f_2117",
+   "claim": "Kanawana Council Ring construction chronology: first erected c.1917-1920 per the Green Triangle of 13 August 1932 (\"first erected some twelfe or 15 years ago\"), which conflicts with the wiki's 1922; enlarged and rebuilt to seat 325 in 1928 under KAROL PERRY (the 1929 Annual Report describes the 1928 season -- the wiki dated this 1929, a one-year offset from misreading the report year as the season year); COMPLETELY REBUILT with stronger foundations in 1932 under JIM CARNEGIE; razed and rebuilt in 1987 by a senior boys' tent under TOBY DESJARDINS. The 1988 facilities survey specifies a large fire bowl and seating for 300, in a wooded area removed from the camp core.",
+   "sources": [
+    "src_ia_ymca_montreal_fonds_collection",
+    "src_ia_ymca_montreal_annual_reports_collection",
+    "src_ia_kanawana_report_1987",
+    "src_ia_kanawana_place_to_grow_1988"
+   ],
+   "confidence": "stated",
+   "category": "site",
+   "entities": [
+    "Council Ring",
+    "Karol Perry",
+    "Jim Carnegie",
+    "Toby Desjardins"
+   ],
+   "date_ref": "1917-1987",
+   "conflicts_with": [],
+   "added_version": "v5.26",
+   "added_by": "ralph_loop"
+  },
+  {
+   "fact_id": "f_2118",
+   "claim": "UNRESOLVED: the 1954 Annual Report states \"The Y's Men's Club of Westmount provided Kanawana with an Indian Council Ring, which greatly enhanced the Indian Lore Program.\" Read literally this implies a NEW council ring in 1954, which is impossible -- a council ring is continuously documented from c.1918. Most likely a donated rebuild or a second ring for the junior sections. 1954 must NOT be presented as a founding date.",
+   "sources": [
+    "src_ia_ymca_montreal_annual_reports_collection"
+   ],
+   "confidence": "disputed",
+   "category": "site",
+   "entities": [
+    "Council Ring"
+   ],
+   "date_ref": "1954",
+   "conflicts_with": [],
+   "added_version": "v5.26",
+   "added_by": "ralph_loop"
+  },
+  {
+   "fact_id": "f_2119",
+   "claim": "The time-capsule tradition at Kanawana -- burying a record of the summer at the closing council ring and unearthing it at the next season's opening fire -- is DOCUMENTED FROM 1923, twelve years earlier than the wiki's \"believed to date to the 1920s or 1930s\". The Gas Bag camp diary of 1923 records at the closing council ring: \"Record of Camp's activities buried with avpropriate ceremony.\" The 1935 season chronicle closes with the other half: \"we are about to bury this short History, in order that it may be unearthed at the first all-camp fire next Season.\"",
+   "sources": [
+    "src_ia_ymca_montreal_fonds_collection",
+    "src_history_1935"
+   ],
+   "confidence": "stated",
+   "category": "traditions",
+   "entities": [
+    "Council Ring",
+    "time capsule"
+   ],
+   "date_ref": "1923-1935",
+   "conflicts_with": [],
+   "added_version": "v5.26",
+   "added_by": "ralph_loop"
+  },
+  {
+   "fact_id": "f_2120",
+   "claim": "Kanawana building chronology from the 1951 camp history: the lower pavilion on the lake front built early; the present dining hall and kitchen unit completed 1920; the lodge and museum built 1927; Bantam cabins 1936; water system and latrines 1938; showers 1939; Junior cabins and fourteen new tent platforms 1942, with seven open-sided Junior cabins that fall under Ross Wiggs, contracted to E. C. Page; and under Roy Locke from 1947 a new main wharf, a new Senior Section Director cabin, electrification, an automatic chlorinated water system and electric refrigeration. A new boat house to replace the lower pavilion was planned for September 1951.",
+   "sources": [
+    "src_ia_kanawana_history_1951"
+   ],
+   "confidence": "stated",
+   "category": "site",
+   "entities": [
+    "Kamp Kanawana",
+    "Roy D. Locke",
+    "E. C. Page",
+    "Ross Wiggs"
+   ],
+   "date_ref": "1920-1951",
+   "conflicts_with": [],
+   "added_version": "v5.26",
+   "added_by": "ralph_loop"
+  },
+  {
+   "fact_id": "f_2121",
+   "claim": "CONTRADICTION between two camp documents on two building dates. The 1988 facilities table gives dining hall [1919] and lodge [1880's]; the 1951 camp history gives dining hall 1920 and \"In 1927 the lodge and museum was built\". The dining-hall difference may be construction-start versus completion. The LODGE difference is harder: the Saint-Sauveur site was not purchased until 1910, so an 1880s lodge would have to be a pre-existing farm structure later converted. Both readings are defensible; neither is adopted.",
+   "sources": [
+    "src_ia_kanawana_place_to_grow_1988",
+    "src_ia_kanawana_history_1951"
+   ],
+   "confidence": "disputed",
+   "category": "site",
+   "entities": [
+    "Lodge",
+    "Dining Hall"
+   ],
+   "date_ref": "1880-1927",
+   "conflicts_with": [],
+   "added_version": "v5.26",
+   "added_by": "ralph_loop"
+  },
+  {
+   "fact_id": "f_2122",
+   "claim": "CATALOGUING DEFECT: the Kanawana orienteering map in the digitized fonds is catalogued as 1974 and cannot be. It shows KATIMAVIK (the 1978 director's report calls it \"the new recreation hall\"), the SAUNA (built summer 1974) and the GRAND PORTAGE (first named 1976). The map is c.1978-1982 at the earliest. Its 32-structure legend is the fullest building list the project has, and it reveals a compass-and-light naming scheme (North Wind, South Wind, Northern Light, Midi du Soleil, Lighthouse, Compass) confirmed live in the 1979 report.",
+   "sources": [
+    "src_ia_ymca_montreal_fonds_collection",
+    "src_ia_kanawana_report_1978"
+   ],
+   "confidence": "stated",
+   "category": "site",
+   "entities": [
+    "Kamp Kanawana"
+   ],
+   "date_ref": "1978-1982",
+   "conflicts_with": [],
+   "added_version": "v5.26",
+   "added_by": "ralph_loop"
+  },
+  {
+   "fact_id": "f_2123",
+   "claim": "\"The Ritz\" was a Kanawana BUILDING, not a hill, and is the likely origin of the toponym \"Mount Ritz\" (which returns zero hits corpus-wide). The Gas Bag Extra reports \"GREAT ENGINEERING FEAT / Removing the 'Ritz'. This building in its time has served as hospital, library, barber shop and directors' office. It will be moved to the brow of the hill between Tent A and Chute.\" A new Ritz opened in July 1933 as the Junior Director's cabin, \"situated just back of the monument\", the old one having \"outlived its usefulness\". INFERENCE, labelled: a building moved to the brow of a hill is a plausible source for a hill name.",
+   "sources": [
+    "src_ia_ymca_montreal_fonds_collection"
+   ],
+   "confidence": "inferred",
+   "category": "site",
+   "entities": [
+    "the Ritz",
+    "Mount Ritz"
+   ],
+   "date_ref": "1923-1933",
+   "conflicts_with": [],
+   "added_version": "v5.26",
+   "added_by": "ralph_loop"
+  },
+  {
+   "fact_id": "f_2124",
+   "claim": "\"The Suez\" is a Kanawana channel or narrows, bridged and re-bridged across 64 years: the 1923 Gas Bag records \"bridge over the Suez completed after much hard work\"; a 1937 Green Triangle recalls \"Paddling through the Suez at sunset\"; and the 1987 director's report records that \"The entire senior boys section spent the second and third session rotating their time in razing and re-building the bridge across the Suez canal. Thousands of man hours were used.\"",
+   "sources": [
+    "src_ia_ymca_montreal_fonds_collection",
+    "src_ia_kanawana_report_1987"
+   ],
+   "confidence": "stated",
+   "category": "site",
+   "entities": [
+    "the Suez"
+   ],
+   "date_ref": "1923-1987",
    "conflicts_with": [],
    "added_version": "v5.26",
    "added_by": "ralph_loop"

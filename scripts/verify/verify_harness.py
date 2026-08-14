@@ -11,6 +11,18 @@ Checks per article:
   E. every [[wiki-link]] resolves to a real file
   F. header status line == articles.json status
   G. header "Last Updated" present
+
+SCOPE NOTE (2026-08-14): checks A1/A2/B/C/D/E/F/G run over DRAFT articles only,
+because they encode the R3-verified bar. But check B (do citation markers
+resolve?) is a plain integrity property that every article should satisfy, and
+restricting it to drafts hid a real defect: canoe-trips.md, an E1-REVIEWED
+article, carried markers ^3-^7 against an unnumbered bullet source list, so
+none of them resolved. It had been that way for months.
+
+So a WHOLE-WIKI pass now runs check B over all articles regardless of status,
+reported separately at the end. Do not narrow it back to drafts. The lesson
+generalises: a checker scoped to the articles you are currently working on will
+not tell you about the articles you are not.
 """
 import json, os, re
 from collections import defaultdict
@@ -103,6 +115,28 @@ for a in sorted(DRAFTS, key=lambda x: x['article_id']):
 
     report[a['article_id']] = issues
 
+# ---------------------------------------------------------------------------
+# WHOLE-WIKI pass: citation markers must resolve, in EVERY article, any status.
+# Articles whose Sources section is a bullet list (no "N." entries) legitimately
+# use label-style markers (^mc, ^charron); those carry no digits and are skipped
+# by cite_re, so a bullet-list article only fails here if it mixes the two --
+# which is exactly the defect this pass exists to catch.
+# ---------------------------------------------------------------------------
+wide = {}
+for a in arts:
+    p = article_path(a)
+    if not os.path.exists(p):
+        continue
+    tx = open(p, encoding='utf-8').read()
+    pp = re.split(r'^## Sources\s*$', tx, flags=re.M)
+    if len(pp) < 2:
+        continue
+    numbered_ids = set(int(x) for x in srcline_re.findall(re.split(r'^## ', pp[1], flags=re.M)[0]))
+    used = set(int(x) for x in cite_re.findall(pp[0]))
+    missing = sorted(used - numbered_ids)
+    if missing:
+        wide[a['article_id']] = (a['status'], missing)
+
 clean = [k for k, v in report.items() if not v]
 dirty = {k: v for k, v in report.items() if v}
 
@@ -125,3 +159,12 @@ for v in dirty.values():
         klass[i.split(':')[0]] += 1
 print('\n' + '=' * 70)
 print('ISSUE COUNTS BY CLASS:', dict(sorted(klass.items())))
+
+print('\n' + '=' * 70)
+print('WHOLE-WIKI: unresolvable ^N citation markers (%d article(s), all statuses)' % len(wide))
+print('=' * 70)
+if not wide:
+    print('    none')
+for k in sorted(wide):
+    st, miss = wide[k]
+    print('    %-32s [%s] markers with no Sources entry: %s' % (k, st, miss))

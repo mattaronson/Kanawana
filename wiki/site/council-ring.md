@@ -1,11 +1,32 @@
 # The Council Ring
 
-*Status: E1 Reviewed | Sources: McMorris (2023) Ch2, KB council_ring, P145/12B01 Season Reports, 1935 History*
-*Last Updated: 2026-07-09 (Batch 5 research pass: McMorris thesis Fig. 2.1 identified as the source of the "1970s photograph" reference, with the caveat that it's uncertain whether it shows the same pole as 1927; a 1962 map in the same thesis (p.68) shows the "Indian Council Ring" name and totem-pole iconography still in use; a check of the camp's current facilities page found no mention of a Council Ring or totem pole, though this is inconclusive rather than evidence of removal)*
+*Status: E1-reviewed | Sources: 3 (bullet/label-style source list, not numbered — see below)*
+*Last Updated: 2026-08-14*
 
 The Council Ring was built by senior campers in 1922, sited between the cabins and the chapel. It served from the start as the camp's ceremonial gathering place, a tiered outdoor amphitheatre where the whole community could assemble for evening programs, campfires, and ritual events. The choice of the name "Council Ring" reflected the broader "playing Indian" aesthetic that shaped YMCA camping in this period, drawing on romanticized ideas about Indigenous governance and ceremony that were common across North American organized camping. The council-ring form itself is generally traced to landscape architect Jens Jensen and to Ernest Thompson Seton's Woodcraft Indians (Silver Bay camp, 1910), from which it spread through the camping movement — context for Kanawana's adoption of it in 1922.^cr
 
 Under Harold Cross's directorship in 1927, the site gained a totem pole and a teepee constructed from old canvas. These additions were part of Cross's expansion of what McMorris terms the camp's "Indian programming," a suite of activities and symbols that borrowed freely from Indigenous cultures. The totem pole in particular became a lasting visual landmark of the ring.
+
+## Construction chronology
+
+Four separate builds are documented, and the dates need care because the Montreal YMCA's annual reports are published the year *after* the season they describe.^10
+
+| Date | Event |
+|---|---|
+| **c. 1917–1920** | First erected. The *Green Triangle* of 13 August 1932 says the ring was "first erected some twelve or 15 years ago" — which points to 1917–1920, **not** the 1922 date this article gives above. See the note below |
+| **1928** | Enlarged and rebuilt under **Karol Perry**, to seat 325. The 1929 Annual Report, covering the 1928 season, records: "The Council Ring was rebuilt and enlarged to accommodate 325 people. It is now regarded as one of the finest in Canada" |
+| **1932** | **Completely rebuilt with stronger foundations** by camp leaders under **Jim Carnegie**, over about a month. The *Green Triangle* thanks "the Carnegie Construction Co." |
+| **1987** | Razed and rebuilt again by a senior boys' tent under **Toby Desjardins**, over one session. The director's report calls the new ring "better designed, larger and more aesthetic" |
+
+The camp's 1988 facilities survey specifies it as: "COUNCIL RING / Purpose: Special ceremonies; large outdoor meeting area / Location: Wooded area; removed from camp core / Requirements: Large fire bowl / **Seating for 300 people**."^10
+
+**Two dating problems, flagged rather than smoothed:**
+
+*The founding date.* This article says the ring was built by senior campers in 1922. The 1932 newsletter's "twelve or 15 years ago" points several years earlier. Both are camp sources; the 1932 one is a casual aside rather than a record, and "some twelve or 15" is exactly the phrasing of a man estimating. The 1922 date is not overturned here, but it is no longer the only reading.
+
+*The 1929-versus-1928 rebuild.* This article dates the 325-seat rebuild to 1929, from the annual report of that year. But the Montreal YMCA's annual reports describe the **preceding** season, and the 1932 newsletter independently attributes the enlargement to 1928 under Karol Perry. **The rebuild was 1928.** The same one-year offset affects several dates elsewhere in this wiki drawn from annual reports.
+
+*A third, unresolved.* The 1954 Annual Report states that "The Y's Men's Club of Westmount provided Kanawana with an Indian Council Ring, which greatly enhanced the Indian Lore Program." Read literally that implies a *new* ring in 1954 — impossible, since a council ring is continuously documented from c.1918. Most likely a donated rebuild, or a second ring for the junior sections. **1954 should not be presented as a founding date**, but what the Y's Men actually paid for is undocumented.
 
 The Council Ring was substantially rebuilt in 1929 to accommodate 325 seated spectators, a scale that reflects both the camp's growing enrollment and the increasing centrality of the ring to camp life. A gathering space for 325 people at a summer camp in the Laurentians in 1929 was not a casual investment. It signals that whatever happened at the Council Ring, whether campfire programs, tribal competitions, or ceremonial events, the camp leadership considered it important enough to seat everyone at once.
 
@@ -13,6 +34,8 @@ McMorris's analysis situates the Council Ring and its associated "Indian" tradit
 
 ## Sources
 
+
+^10: Kanawana material in the Concordia-digitized YMCA of Montreal fonds: *The Green Triangle*, 13 August 1932; the YMCA of Montreal Annual Reports for 1929 and 1954; *The Gas Bag*, 1 September 1923; *A History of Kamp Kanawana* (1935); the *Kamp Kanawana Director's Report 1987*; and *Kanawana… A Place to Grow* (1988) [src_ia_ymca_montreal_fonds_collection, src_ia_ymca_montreal_annual_reports_collection, src_ia_kanawana_report_1987, src_ia_kanawana_place_to_grow_1988].
 - McMorris, Grace. *An Experience That Lasts a Lifetime: Building Modernity, Man, and Nation at the YMCA of Montreal's Kamp Kanawana, 1894-1967*. MA thesis, Concordia University, 2023. Chapter 2. [Spectrum](https://spectrum.library.concordia.ca/id/eprint/992763/)
 - Concordia University Records Management and Archives, Fonds P145/12B01, Season Reports 1922, 1927.
 - Concordia University Records Management and Archives, Fonds P145/02D, Annual Reports 1925-1947.
@@ -40,7 +63,7 @@ A second pageant, the "Zuni Council" script (1931), was more elaborate: a multi-
 
 The Council Ring is located at the far west end of the camp, a ten- to fifteen-minute walk past the Senior Boys section.^6 It remains the primary ceremonial site. In the 2000s era, the ring hosts the Opening Campfire for each session, the opening campfire of the L&V Games, and the Closing Fire of the summer.^6
 
-A longstanding tradition at the Closing Fire involves burning a "time capsule" — a record of the summer's important people, events, and moments — and then digging it up to read aloud at the following year's Opening Fire.^6 This practice is believed to date to the 1920s or 1930s, and documentary evidence supports an early origin: the 1923 *Gas Bag* records that the season closing featured "a Council Ring ceremony where a record of activities was buried," followed by a Leaders Grand Feed.^7 The hundred-year continuity of this ritual — from the 1923 record-burying through to the present-day time capsule — makes it one of the camp's oldest documented traditions.
+A longstanding tradition at the Closing Fire involves burning a "time capsule" — a record of the summer's important people, events, and moments — and then digging it up to read aloud at the following year's Opening Fire.^6 **This practice is now documented from 1923, twelve years earlier than "believed."** The *Gas Bag* camp diary for 1923 records at the closing council ring: "Record of Camp's activities buried with appropriate ceremony." The 1935 season chronicle closes with the other half of the cycle: "we are about to bury this short History, in order that it may be unearthed at the first all-camp fire next Season."^10 Bury at the closing fire, unearth at the opening fire — the same two-part ritual described below, running continuously from at least 1923 to 1935 and still practised in the 2000s. This practice was previously believed to date to the 1920s or 1930s, and documentary evidence supports an early origin: the 1923 *Gas Bag* records that the season closing featured "a Council Ring ceremony where a record of activities was buried," followed by a Leaders Grand Feed.^7 The hundred-year continuity of this ritual — from the 1923 record-burying through to the present-day time capsule — makes it one of the camp's oldest documented traditions.
 
 The council ring's campfire tradition was confirmed active as recently as 2020, when the camp streamed an "Opening Campfire" as a Facebook Live video during the COVID-19 pandemic — an indication of the tradition's centrality to camp culture, maintained even under pandemic restrictions.^8 Whether the original totem poles survive has not been determined from online sources; the broader North American camping movement has been reconsidering non-authentic totem poles as part of reconciliation efforts, and the Tamaracouta Scout Reserve in nearby Mille-Isles had its 1947 Mungo Martin totem pole stolen after the reserve closed in 2018.
 
