@@ -1,7 +1,7 @@
 # Kanawana Myths and Legends
 
-*Status: E1-reviewed | Sources: 22*
-*Last Updated: 2026-07-11*
+*Status: E1-reviewed | Sources: 23*
+*Last Updated: 2026-08-14*
 
 ## Overview
 
@@ -59,7 +59,9 @@ Internet Archive holds 38 digitized issues of *The Green Triangle*, spanning 193
 
 ### Ghost Stories and Campfire Traditions
 
-A full read of all 38 digitized *Green Triangle* issues confirms the Haunted House tradition above (1933-1940) is genuine ghost-story-adjacent content (see Revision History), though none of the 38 issues mention "Chopsy" or "Cropsy" by name, and none contain a specific ghost-story *narrative* beyond the generic Haunted House framing. No Kanawana-specific ghost story with a full narrative (comparable to Chopsy, below) has been found in the *Gas Bag* (1923), camp brochures, or online alumni accounts. This is consistent with the nature of camp ghost stories, which are overwhelmingly transmitted as oral tradition. A 2019 Slate article noted that scary stories at summer camps have been declining, with about a third of camps prohibiting them, though the tradition remains strong at camps that maintain it.
+**A whole-corpus null result, 2026-08-14.** The 634 digitized text items of the Concordia YMCA of Montreal fonds — roughly 870 KB of Kanawana-specific material spanning 1921 to 1993, including every surviving season report, newsletter, brochure, map and broadcast transcript — were searched for "Chopsy". **Zero hits.** A search for "Chops" returned one nineteenth-century usage unrelated to camp. Searches for *ghost*, *haunt*, *legend*, *myth* and *spirit* across every Kanawana file return the Haunted House material below and nothing else. This is a far stronger negative than the earlier 38-issue read: it is the whole digitized documentary record of the camp, and Chopsy is not in it.
+
+That does not make the story late or invented, and one finding below cuts the other way. A full read of all 38 digitized *Green Triangle* issues confirms the Haunted House tradition above (1933-1940) is genuine ghost-story-adjacent content (see Revision History), though none of the 38 issues mention "Chopsy" or "Cropsy" by name, and none contain a specific ghost-story *narrative* beyond the generic Haunted House framing. No Kanawana-specific ghost story with a full narrative (comparable to Chopsy, below) has been found in the *Gas Bag* (1923), camp brochures, or online alumni accounts. This is consistent with the nature of camp ghost stories, which are overwhelmingly transmitted as oral tradition. A 2019 Slate article noted that scary stories at summer camps have been declining, with about a third of camps prohibiting them, though the tradition remains strong at camps that maintain it.
 
 ### The Cropsey Legend: The "Maniac in the Woods" Archetype
 
@@ -96,6 +98,10 @@ The Anson Minor legend is especially relevant to Kanawana because it demonstrate
 Over the following winter, strange occurrences were reported at the camp. The next spring, a group of boys on a hike found a makeshift cabin in the woods and, nearby, a car stolen from a local town, inexplicably wedged between trees so it could not be driven out. Over the summer, dead animals were found in the woods, apparently mauled. Near the end of summer, a solitary senior boy — withdrawn and prone to wandering despite warnings — disappeared. A search found nothing. A counsellor thought to check the car: the trunk, which had been open the last time anyone looked, was now locked. They broke it open and found the missing boy's body, killed with an axe. The body was still warm. Chopsy was never seen again, but for years afterward people claimed to hear the sound of someone chopping wood deep in the woods late at night [f_1186, f_1187].
 
 The full telling takes approximately an hour and contains considerably more detail than this summary [f_1188].
+
+**One detail inside the story checks out.** The narrative turns on axes stolen from "the Hike and Trip Department's equipment room, known as **the Cave**." The Cave is real, and it is exactly that. The *Kamp Kanawana Director's Report 1987* records: "The entire **cave** was stripped of all **hike and trip equipment**, scrubbed, painted and repaired… re-built new steps leading up to the cave."^23 An oral legend that no document mentions is nonetheless embedded in the camp's real working geography, using the right name for the right building with the right function. That is what a genuine camp legend looks like from the outside — it is not evidence the events happened, and not evidence of the story's age, but it is evidence the story was told by people who knew the place.
+
+**A question the corpus raises.** The Haunted House has thirteen years of contemporaneous documentation (1928–1940) including a ghost legend with its own rule about when the spirits appear. Chopsy has none. The two have never been connected in any source, and the operator's telling places Chopsy's origin in 1945 — after the Haunted House references stop. Whether Chopsy is a later name for the Haunted House ghost, a successor tradition, or wholly unrelated is worth asking directly rather than assuming; it is now Open Question 8.
 
 **Performance and Setting.** The story was traditionally told at the actual physical locations it describes: the wreckage of an old car in the woods (known as "**Chopsy's Car**") near an abandoned cabin (known as "**Chopsy's Cabin**," now destroyed). The car and cabin thus serve a dual function — they are both the narrative's climactic setting and the venue for its performance, collapsing the boundary between story and physical reality for the listener [f_1192]. This site-specific storytelling technique is a powerful variant of what folklorist Bill Ellis called "camp mock-ordeal theater": the audience is brought to the evidence before hearing the story, or arrives at it during the telling.
 
@@ -136,6 +142,8 @@ These Quebec folk traditions are strong candidates for Kanawana campfire storyte
 5. ~~[Nice-to-have] Does the McMorris thesis full text contain information about the meaning of "Kanawana" or the naming process?~~ [Resolved] Yes — McMorris examines the name in detail. The word does not exist in Kanien'kéha (Mohawk); the closest term is "kanà:wa" (swamp). McMorris notes the phonetic similarity to Kahnawá:ke.^3
 6. ~~[Nice-to-have] Does the Ralph Dawson 1933 history or the R.L. Charlton 1943 "Early Days" account contain the specific explanation of the name?~~ [Advanced 2026-07-10] Both remain confirmed undigitized (Concordia's own 12A finding-aid page lists them as description-only, Box HA2307; zero hits in an Internet Archive API search). However, a related, previously uncatalogued 1951 primary source was found instead — see Myth 2 above (R.L. Charlton personally proposed the name, per analogy to a Furness steamship).
 7. ~~[Nice-to-have] Do any camp myths appear in the *Green Triangle* newsletters or other camp publications?~~ [Resolved 2026-07-10] Yes — see the corrected Haunted House and Ghost Stories sections above. 38 issues (1932-1982) are actually digitized, not just one; five contain Haunted House content spanning 1933-1940.
+9. [**New 2026-08-14, Important — for the oral history instrument**] Is "Chopsy" connected to the Haunted House? The Haunted House is documented at camp from 1928 to 1940, with a real building on the maps, an annual cookout pilgrimage, and a ghost legend carrying its own rule (the spirits appear only when the wind is from the east and the moon and stars are invisible). Chopsy appears in **no** document at all, and its telling places its origin in 1945 — just after the Haunted House references stop. Successor tradition, renaming, or unrelated? This is a question for the operator, not for further searching: the documentary record has been exhausted on it.
+10. [**New 2026-08-14, Nice-to-have**] What is "the deserted village" the 1933 *Green Triangle* describes campers passing on the way to the Haunted House? Still unexplained, and it is the kind of detail that usually has a real local-history answer.
 8. [Nice-to-have, re-confirmed dead end 2026-07-10] Are there myths or legends shared with other YMCA camps (Pine Crest, John Island) or with the broader Canadian camping tradition? A 9-query sweep found no published, camp-specific ghost story matching Kanawana's for any comparable camp checked (Pine Crest, John Island, Weredale — independently reconfirmed as not a YMCA-of-Montreal camp, Ouareau). An American Camp Association message-board thread on camp ghost stories confirmed the same generic archetypes already documented here, with no Canadian or YMCA-specific references.
 
 ## Related Articles
@@ -173,6 +181,7 @@ These Quebec folk traditions are strong candidates for Kanawana campfire storyte
 20. "Kamp Kanawana History," presented at Training Course, June 6, 1951, Internet Archive [src_1951_kamp_kanawana_history]. Verified genuine via archive.org metadata API and direct OCR text fetch, 2026-07-10.
 21. *The Green Triangle*, full digitized run 1932-1982 (38 issues), Internet Archive [src_ia_green_triangle_collection]; July 8, 1933 issue specifically [src_green_triangle_1933_07_08]. Read in full 2026-07-10.
 22. Furness Line fleet list (GGA Archives); Furness Bermuda Line fleet roster; Wikipedia, "Furness Withy"; Lloyd's Register Foundation digitized collection (Internet Archive). Five-surface search, zero matches, 2026-07-11.
+23. *Kamp Kanawana Director's Report 1987* (Internet Archive), documenting "the cave" as the hike-and-trip equipment store [src_ia_kanawana_report_1987]; and the whole-corpus null search across the digitized YMCA of Montreal fonds [src_ia_ymca_montreal_fonds_collection].
 
 ## Research Notes
 

@@ -1,7 +1,7 @@
 # Coeducation and Gender at Kanawana
 
-*Status: E1-reviewed | Sources: 0*
-*Last Updated: 2026-07-10*
+*Status: E1-reviewed | Sources: 0 (bullet-style source list, not numbered — see below)*
+*Last Updated: 2026-08-14*
 
 ## Overview
 
@@ -37,7 +37,21 @@ There is a discrepancy in the available sources regarding when girls first atten
 
 The YMCA Quebec website's official history timeline states "1968" under the heading "Kanawana starts to welcome girl campers." McMorris's thesis confirms that the first girls admitted were aged 10 to 12, entering the youngest section of the camp.^mc The YMCA Kamp Kanawana Facts sheet, a separate institutional document, states that the camp "became coeducational" in 1969. The Concordia archives' Co-ed Camping Pilot Project records span 1967-1970. And the Pathfinder program summary from 1965 may push the timeline even earlier, depending on whether it refers to programming at Kanawana itself.
 
-These dates are not necessarily contradictory. It is plausible that a small number of girls attended as part of a pilot program in the summer of 1968, with full coeducational integration formalized in 1969. The pilot project documentation spanning 1967-1970 suggests a phased approach. The "Boys' Camping Committee" persisting through 1968-1969 further supports the interpretation that the transition was gradual rather than instantaneous. A 2005 YMCA John Island Alumni Newsletter describes someone visiting Kanawana in 1969 who was "hired as a counsellor in the senior boys section," implying gender-segregated sections still existed that year, consistent with a phased transition. This phased reading (1968 pilot, 1969 full integration) is adopted as the working resolution, treating both official sources as correct about a different milestone rather than one being an error — an editorial judgment, not new evidence (see Revision History); the Co-ed Camping Pilot Project reports at Concordia remain the only way to confirm it directly.
+**[Resolved 2026-08-14 — the date is 1968, and the Facts sheet is simply wrong.]** The camp's own 1988 report states it under Programme Highlights: "**1968 Kamp Kanawana admits female campers for the first time. 66 girls registered.**"^ia The camper-weeks statistics tables in the annual reports corroborate this independently and precisely — girl-camper figures first appear, bracketed, in the **1968** column — and the 1970 season report describes that summer as the camp's "**third year as a coeducational camp**," which counts back to 1968.^ia Three independent traces, one of them a hard enrolment figure.
+
+The undated Facts sheet's "1969" is an error, not a second milestone. The phased reading previously adopted here — 1968 pilot, 1969 formalization — was a reasonable editorial judgment on the evidence then available, and it is now superseded. The 2005 John Island newsletter's "senior boys section" in 1969 is not evidence against 1968: sections remained gender-segregated for years after coeducation began, which is a fact about section structure, not about the admission date.
+
+### The three-year delay
+
+The more interesting finding is that coeducation was **recommended in 1965 and declined**. The 1965 director's report argues for it at length and proposes a costed pilot — in the Woodsmen section, ten- and eleven-year-olds, four boys and four girls, with the only additional expense being "an adequate wash house with showers for the girls and this would not be an expense of more than $300."^ia The report notes an earlier constituency survey conducted under **Keith Farquharson** which found "a very large and positive response," and records that the Metropolitan Board declined to act.
+
+So the sequence is: surveyed and supported before 1965, recommended with costings in 1965, declined, implemented in 1968. **A three-year institutional delay against a documented internal recommendation is a different history from a gradual drift**, and this article should not flatten it.
+
+### What the camp said about it at the time
+
+The candour of the internal reports is worth recording directly, because the register changes sharply within a year. The 1969 report anticipates trouble: coeducation "creates some problems for a camp that has dealt with boys only for 3/4 of a century… Some of the specific problems that can be seen include establishing an identity, showing off, sex experimentation, loss of focus on the tent group."^ia The 1970 report, after two seasons, reverses that entirely and is genuinely thoughtful: "There were no 'mother or father' roles played (ie boys gathering wood while the girls cooked). Each person shared the responsibility and the dialogue around the fire at night took on extra significance. School, sex, the world, war, ecology, sing songs, etc., were all part of the campfires." The same report frames the whole enterprise as "**not 'coed' camping but a 'coeducational' experience**."^ia
+
+The first female waterfront staff were hired in **1969**.^ia
 
 ## After Coeducation
 
@@ -84,7 +98,8 @@ The Mountaineer program represents a conceptual shift from the 1968-1969 transit
 3. Were sections initially gender-segregated from the start of coeducation, or did gender-specific sections develop over time?
 4. Did coeducation affect enrollment numbers? Was there resistance from parents or alumni?
 5. What was the relationship between Kanawana's coeducation and the closure of Camp Otoreke (1982)?
-6. Are there oral histories from the first cohort of girl campers in 1968 or 1969?
+6. Are there oral histories from the first cohort of girl campers — the **66 girls who registered in 1968**?
+7. [New 2026-08-14] Who was **Keith Farquharson**, and what did the pre-1965 constituency survey on coeducation actually find beyond "a very large and positive response"? And on what grounds did the Metropolitan Board decline the 1965 recommendation? The answer would turn a three-year delay from a fact into an explanation.
 7. [Resolved as a documented non-answer, 2026-07-09] How did coeducation affect the L&V Games, which had been structured around masculine competition themes (Lumbermen and Voyageurs)? Grace McMorris's own thesis (re-mined via full-PDF extraction) explicitly declines to cover this: "A study of co-ed camps, or even of Kanawana's co-ed programming, is beyond the scope of my research," and her conclusion poses the identical question as her own unanswered future-research interest. This is a genuine, acknowledged gap in the existing academic literature, not merely unresearched by this project -- closing it would require the physical archive (Concordia P145/12B07 program-report folders, 1968-1980) or oral history.
 8. [Partially resolved 2026-07-09] What were the purposes and gender assignments of Camp Becsies (12D), Camp Dorval (12E), Camp Thunderbird (12I), and the Wilderness Survival Camp (12J) in the YMCA Montreal camp network? Direct fetches of all four Concordia finding-aid pages found no gender designation stated for any of the four. Dates were confirmed/corrected: Camp Dorval's 1926-1928 window is corroborated by specific finding-aid items (director's report 1926, season report 1928); **Camp Thunderbird is now dated to 1942-1943** (a finding-aid item titled "brochure, correspondence, reports, publicity — 1942-1943"), correcting this KB's prior "mid-1970s" inference; the Wilderness Survival Camp's window is sharpened to a precise 1973-1975 (several dated finding-aid items), well after coeducation was underway camp-wide, which at least weakly suggests (not confirms) it was not boys-only. Camp Becsies' Protestant Orphans' Home connection (see [[site/camp-becsies|Camp Becsies]]) doesn't establish a specific gender designation either, though the Home itself likely served both boys and girls.
 
@@ -97,6 +112,7 @@ The Mountaineer program represents a conceptual shift from the 1968-1969 transit
 - *The Gas Bag*, 1923 Re-union Number. [Internet Archive](https://archive.org/details/the-gas-bag-1923-09-01). Documents 1923 visit by girls from Marois.
 - YMCA John Island Alumni Newsletter, 2005 (documents 1969 "senior boys section" reference).
 - Concordia University Archives, YMCA of Montreal fonds, sub-series 12A. https://www.concordia.ca/offices/archives/ymca-fonds-sub-series-12A.html
+- ^ia: Kamp Kanawana season reports for 1965, 1969 and 1970, and the 1988 report *Kanawana… A Place to Grow*, all in the Concordia-digitized YMCA of Montreal fonds on Internet Archive [src_ia_kanawana_report_1965, src_ia_kanawana_report_1969, src_ia_kanawana_report_1970, src_ia_kanawana_place_to_grow_1988]
 - Concordia University Archives, YMCA of Montreal fonds, sub-sub-series 12B04. https://www.concordia.ca/offices/archives/ymca-fonds-sub-sub-series-12B04.html
 - Montreal Families, "Gender-Expansive Options at Summer Camp" (article discussing Kanawana's approach under Kate Taylor).
 - [fb] "Camp YMCA Kanawana Stands with Trans Campers," official Facebook video/post [src_facebook_trans_inclusion].

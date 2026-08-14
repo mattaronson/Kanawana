@@ -1,8 +1,8 @@
 {
  "version": "v4.98",
- "kb_version": "v5.24",
+ "kb_version": "v5.25",
  "migrated_from": "3.3",
- "fact_count": 2057,
+ "fact_count": 2069,
  "facts": [
   {
    "fact_id": "f_0001",
@@ -35597,6 +35597,213 @@
    "date_ref": "1970-11",
    "conflicts_with": [],
    "added_version": "v5.24",
+   "added_by": "ralph_loop"
+  },
+  {
+   "fact_id": "f_2096",
+   "claim": "WHOLE-CORPUS NULL: \"Chopsy\" appears ZERO times across the 634 digitized text items of the Concordia YMCA of Montreal fonds -- roughly 870KB of Kanawana-specific material spanning 1921-1993, including every surviving season report, newsletter, brochure, map and broadcast transcript. Searches for ghost/haunt/legend/myth/spirit across every Kanawana file return only the Haunted House material. This supersedes the earlier, narrower 38-issue Green Triangle null as the strongest negative available.",
+   "sources": [
+    "src_ia_ymca_montreal_fonds_collection"
+   ],
+   "confidence": "stated",
+   "category": "traditions",
+   "entities": [
+    "Chopsy"
+   ],
+   "date_ref": "1921-1993",
+   "conflicts_with": [],
+   "added_version": "v5.25",
+   "added_by": "ralph_loop"
+  },
+  {
+   "fact_id": "f_2097",
+   "claim": "A detail INSIDE the undocumented Chopsy legend is independently corroborated: the story turns on axes taken from the Hike and Trip Department equipment room \"known as the Cave\", and the Kamp Kanawana Director's Report 1987 records \"The entire cave was stripped of all hike and trip equipment, scrubbed, painted and repaired... re-built new steps leading up to the cave.\" The Cave is a real camp building with exactly that function. This is not evidence the events happened or that the story is old; it is evidence the story was composed by people who knew the site.",
+   "sources": [
+    "src_ia_kanawana_report_1987"
+   ],
+   "confidence": "stated",
+   "category": "traditions",
+   "entities": [
+    "Chopsy",
+    "the Cave"
+   ],
+   "date_ref": "1987",
+   "conflicts_with": [],
+   "added_version": "v5.25",
+   "added_by": "ralph_loop"
+  },
+  {
+   "fact_id": "f_2098",
+   "claim": "OPEN QUESTION FOR ORAL HISTORY: the Haunted House is documented at Kanawana 1928-1940 (mapped building, annual cookout pilgrimage, a ghost legend with its own rule that the spirits appear only when the wind is from the east and the moon and stars invisible). Chopsy appears in no document, and its oral telling dates its origin to 1945 -- just after the Haunted House references stop. Whether Chopsy is a successor tradition, a renaming, or unrelated is undetermined and cannot be settled from documents.",
+   "sources": [
+    "src_ia_ymca_montreal_fonds_collection"
+   ],
+   "confidence": "inferred",
+   "category": "traditions",
+   "entities": [
+    "Chopsy",
+    "Haunted House"
+   ],
+   "date_ref": "1928-1945",
+   "conflicts_with": [],
+   "added_version": "v5.25",
+   "added_by": "ralph_loop"
+  },
+  {
+   "fact_id": "f_2099",
+   "claim": "A CAMPER DROWNED at Kamp Kanawana in the summer of 1969. The Annual Report 1969 states under Health and Safety: \"The tragic drowing of one of our campers this Summer has forced us to look at our standards in the whole area of camping. We are convinced that, especially in terms of aquatics, hiking and tripping, both our training and standards are of the highest possible quality.\" The camper is not named anywhere in the digitized record; no date, location, or circumstance is given. This is the only known camper fatality in the camp's documented history and appeared nowhere in this wiki before 2026-08-14.",
+   "sources": [
+    "src_ia_kanawana_report_1969"
+   ],
+   "confidence": "stated",
+   "category": "history",
+   "entities": [
+    "Kamp Kanawana"
+   ],
+   "date_ref": "1969",
+   "conflicts_with": [],
+   "added_version": "v5.25",
+   "added_by": "ralph_loop"
+  },
+  {
+   "fact_id": "f_2100",
+   "claim": "A viral meningitis outbreak at Kanawana in summer 1976 affected at least 19 people including the camp director; three (two of them staff) were hospitalised for a minimum of six days. The 1976 infirmary statistics for the season: 115 sprains, 255 sore throats and colds, 45 earaches, 281 cuts and scrapes, 26 X-ray trips, 48 snake bites, 72 cases of gastritis, 7 fractures.",
+   "sources": [
+    "src_ia_kanawana_directors_report_1976"
+   ],
+   "confidence": "stated",
+   "category": "history",
+   "entities": [
+    "Kamp Kanawana"
+   ],
+   "date_ref": "1976",
+   "conflicts_with": [],
+   "added_version": "v5.25",
+   "added_by": "ralph_loop"
+  },
+  {
+   "fact_id": "f_2101",
+   "claim": "CORRECTED: Kanawana admitted female campers for the first time in 1968, not 1969. The 1988 report states \"1968 Kamp Kanawana admits female campers for the first time. 66 girls registered\"; the annual reports' camper-weeks tables first show bracketed girl figures in the 1968 column; and the 1970 season report calls that summer the camp's \"third year as a coeducational camp\", counting back to 1968. The undated YMCA Kamp Kanawana Facts sheet's \"1969\" is an error, not a second milestone. The first female waterfront staff were hired in 1969.",
+   "sources": [
+    "src_ia_kanawana_place_to_grow_1988",
+    "src_ia_kanawana_report_1970",
+    "src_ia_kanawana_report_1969"
+   ],
+   "confidence": "stated",
+   "category": "history",
+   "entities": [
+    "Kamp Kanawana"
+   ],
+   "date_ref": "1968",
+   "conflicts_with": [],
+   "added_version": "v5.25",
+   "added_by": "ralph_loop"
+  },
+  {
+   "fact_id": "f_2102",
+   "claim": "Coeducation at Kanawana was RECOMMENDED IN 1965 AND DECLINED, three years before it was implemented. The 1965 director's report argues for it and proposes a costed pilot in the Woodsmen section (ages 10-11, four boys and four girls), noting the only extra expense would be \"an adequate wash house with showers for the girls and this would not be an expense of more than $300.\" It records an earlier constituency survey under Keith Farquharson that found \"a very large and positive response\", and that the Metropolitan Board declined to act.",
+   "sources": [
+    "src_ia_kanawana_report_1965"
+   ],
+   "confidence": "stated",
+   "category": "history",
+   "entities": [
+    "Kamp Kanawana",
+    "Keith Farquharson"
+   ],
+   "date_ref": "1965",
+   "conflicts_with": [],
+   "added_version": "v5.25",
+   "added_by": "ralph_loop"
+  },
+  {
+   "fact_id": "f_2103",
+   "claim": "The 1969 and 1970 Kanawana season reports record sharply different registers on coeducation one year apart. 1969 anticipates trouble: it \"creates some problems for a camp that has dealt with boys only for 3/4 of a century... establishing an identity, showing off, sex experimentation, loss of focus on the tent group\". 1970, after two seasons, reverses it: \"There were no 'mother or father' roles played (ie boys gathering wood while the girls cooked). Each person shared the responsibility and the dialogue around the fire at night took on extra significance. School, sex, the world, war, ecology, sing songs, etc., were all part of the campfires\" -- and frames the whole thing as \"not 'coed' camping but a 'coeducational' experience\".",
+   "sources": [
+    "src_ia_kanawana_report_1969",
+    "src_ia_kanawana_report_1970"
+   ],
+   "confidence": "stated",
+   "category": "history",
+   "entities": [
+    "Kamp Kanawana"
+   ],
+   "date_ref": "1969-1970",
+   "conflicts_with": [],
+   "added_version": "v5.25",
+   "added_by": "ralph_loop"
+  },
+  {
+   "fact_id": "f_2104",
+   "claim": "Kanawana section extinction dates from the camper-weeks tables: RANGERS last carry campers in 1967; COUREURS DE BOIS and PIONEERS both last in 1972. From 1973 the tables run only Woodsmen (Junior) and Pathfinders (Senior). Since Pioneers and Coureurs de Bois are in use at the camp today, those names were REVIVED after a gap rather than carried continuously.",
+   "sources": [
+    "src_ia_kanawana_report_1971",
+    "src_ia_kanawana_report_1979"
+   ],
+   "confidence": "stated",
+   "category": "traditions",
+   "entities": [
+    "Pioneers",
+    "Coureurs de Bois",
+    "Rangers",
+    "Pathfinders",
+    "Woodsmen"
+   ],
+   "date_ref": "1967-1973",
+   "conflicts_with": [],
+   "added_version": "v5.25",
+   "added_by": "ralph_loop"
+  },
+  {
+   "fact_id": "f_2105",
+   "claim": "Kanawana section names were reassigned along gender lines IMMEDIATELY after coeducation, not in the 1970s. The 1969 organisation chart shows PIONEER (M), WOODSMEN (M), CdeB (M) and PATHFINDER (M) under the Camp Director, with WOODSMEN (G) and CdeB (G) under a separate \"Camp Director of Girls\". By 1970 the chart lists Pathfinder Boys, Woodsman Boys, Pathfinder Girls, Woodsmen Girls and Pioneer; by 1971 Coureur de Bois has gone.",
+   "sources": [
+    "src_ia_kanawana_report_1969",
+    "src_ia_kanawana_report_1970",
+    "src_ia_kanawana_report_1971"
+   ],
+   "confidence": "stated",
+   "category": "traditions",
+   "entities": [
+    "Kamp Kanawana"
+   ],
+   "date_ref": "1969-1971",
+   "conflicts_with": [],
+   "added_version": "v5.25",
+   "added_by": "ralph_loop"
+  },
+  {
+   "fact_id": "f_2106",
+   "claim": "NO document in the digitized corpus states that a 1959 Kanawana section renaming occurred, dates it, or credits A. Ross Seaman with it. The corpus gives only a bracket: 1958 is the last year \"Bantam\" is used, 1959 the first year \"Pathfinders\" appears. CAUTION: the ten-year camper-weeks tables in the 1964-66 reports apply the NEW five-section names retroactively to data back to 1955 -- a reporting convention, not evidence the names existed then, and easy to misread as pushing the renaming earlier.",
+   "sources": [
+    "src_ia_ymca_montreal_annual_reports_collection",
+    "src_ia_kanawana_report_1964"
+   ],
+   "confidence": "stated",
+   "category": "traditions",
+   "entities": [
+    "A. Ross Seaman"
+   ],
+   "date_ref": "1958-1959",
+   "conflicts_with": [],
+   "added_version": "v5.25",
+   "added_by": "ralph_loop"
+  },
+  {
+   "fact_id": "f_2107",
+   "claim": "\"Rover\" at Kanawana in the 1970s denotes a RELIEF-COUNSELLOR post, not a section: \"Senior Girls Rover-Counsellor\" (1977), \"Junior Boys Rover\" (1979). It should not be read as a Kanawana section name.",
+   "sources": [
+    "src_ia_kanawana_report_1977",
+    "src_ia_kanawana_report_1979"
+   ],
+   "confidence": "stated",
+   "category": "traditions",
+   "entities": [
+    "Kamp Kanawana"
+   ],
+   "date_ref": "1977-1979",
+   "conflicts_with": [],
+   "added_version": "v5.25",
    "added_by": "ralph_loop"
   }
  ]
