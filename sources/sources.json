@@ -10321,7 +10321,23 @@
       "extraction_version": null,
       "reliability": "primary",
       "notes": "Two additional live Dayforce postings found for this exact title (job IDs 1277, 2010, 3224) on Les YMCA du Quebec's own official recruiting platform, independent of the original Glassdoor find. Full posting text not extractable -- Dayforce candidate portal is JS-rendered and returns only header/footer/nav content to automated fetch, redirecting across multiple subdomains (can242/can261/www/jobs.dayforcehcm.com). Confirms the job title is real and actively used by the employer, corroborating src_glassdoor_outdoor_ed_director beyond a single search-result snippet."
+    },
+    {
+      "source_id": "src_oral_aronson_order_of_owens",
+      "type": "oral_history",
+      "title": "Order of Owens roster and award criteria, 1976-2026 (operator-supplied)",
+      "date": "2026-08-14",
+      "date_precision": "exact",
+      "origin": "user_provided",
+      "origin_url": null,
+      "cache_path": null,
+      "char_count": 0,
+      "ingested_at": "2026-08-14T00:00:00Z",
+      "extracted": true,
+      "extraction_version": "v5.10",
+      "reliability": "primary",
+      "notes": "Full 1976-2026 roster of the Order of Owens plus the award's stated criteria, supplied directly by the operator (Matt Aronson) in session on 2026-08-14. The Order of Owens had ZERO prior mentions anywhere in this project before this record. Internal precision (49 seasons, exact spellings, five dual-recipient years, a specific April 13 1976 date) suggests transcription from a plaque or camp record rather than recall -- if the operator confirms an underlying artifact, this record should be superseded by a source for that artifact and confidence upgraded from user_knowledge. Tracked as Open Question 3 in wiki/traditions/order-of-owens.md."
     }
   ],
-  "source_count": 645
+  "source_count": 646
 }

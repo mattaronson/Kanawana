@@ -327,10 +327,11 @@
         "lv-games",
         "programs-activities",
         "the-kanawana-site",
-        "a-ross-seaman"
+        "a-ross-seaman",
+        "traditions/order-of-owens"
       ],
       "file_id": "13MmwA1lO_3J3rJ7yEZjwsvT--vWooITy",
-      "word_count": 1343,
+      "word_count": 1354,
       "tags": {
         "era": [
           "1920s",
@@ -351,7 +352,8 @@
           "context"
         ],
         "is_hub": true
-      }
+      },
+      "notes": "2026-08-14: cross-linked to the new traditions/order-of-owens.md."
     },
     {
       "article_id": "council-ring",
@@ -2699,11 +2701,12 @@
         "programs-activities",
         "section-names",
         "stuart-mclean",
-        "the-kanawana-site"
+        "the-kanawana-site",
+        "traditions/order-of-owens"
       ],
       "file_id": null,
-      "word_count": 3625,
-      "notes": "E1 REVIEW (2026-02-19): Fixed non-existent src_concordia_12B04 in header (removed; src_concordia_atom_12B04 already present). Fixed '131-year history' ambiguity to 'more than 130 years'. All claims cited, dates consistent, names cross-checked, tone encyclopedic.",
+      "word_count": 3661,
+      "notes": "E1 REVIEW (2026-02-19): Fixed non-existent src_concordia_12B04 in header (removed; src_concordia_atom_12B04 already present). Fixed '131-year history' ambiguity to 'more than 130 years'. All claims cited, dates consistent, names cross-checked, tone encyclopedic. | 2026-08-14: cross-linked to the new traditions/order-of-owens.md.",
       "tags": {
         "era": [
           "1900s",
@@ -3357,11 +3360,12 @@
         "directors-index",
         "sources-index",
         "stuart-mclean",
-        "traditions-and-culture"
+        "traditions-and-culture",
+        "traditions/order-of-owens"
       ],
       "file_id": null,
-      "word_count": 2523,
-      "notes": "v4.75: Pip Caddell full genealogy (The Peerage). James Caddell biography expanded (CMAT memorial). Andrew Caddell career timeline. Tara Newell post-2005 career. Pip Award 2019-2023 exhausted. OQ3 resolved. | 2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- fixed the malformed Sources header (was listing raw source IDs). Body prose was already clean. No facts, citations, or open questions dropped; status unchanged.",
+      "word_count": 2317,
+      "notes": "v4.75: Pip Caddell full genealogy (The Peerage). James Caddell biography expanded (CMAT memorial). Andrew Caddell career timeline. Tara Newell post-2005 career. Pip Award 2019-2023 exhausted. OQ3 resolved. | 2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- fixed the malformed Sources header (was listing raw source IDs). Body prose was already clean. No facts, citations, or open questions dropped; status unchanged. | 2026-08-14: cross-linked to the new traditions/order-of-owens.md.",
       "tags": {
         "era": [
           "1920s",
@@ -8931,6 +8935,49 @@
         ],
         "is_hub": false
       }
+    },
+    {
+      "article_id": "order-of-owens",
+      "title": "The Order of Owens",
+      "wiki_folder": "traditions",
+      "status": "draft",
+      "status_history": [
+        {
+          "status": "draft",
+          "at": "2026-08-14T00:00:00Z",
+          "by": "auto",
+          "task": "WRITE"
+        }
+      ],
+      "ralph_loops_completed": 0,
+      "kb_facts_used": [
+        "f_1986",
+        "f_1987",
+        "f_1988",
+        "f_1989",
+        "f_1990",
+        "f_1991",
+        "f_1992"
+      ],
+      "sources_cited": [
+        "src_oral_aronson_order_of_owens"
+      ],
+      "open_questions": 6,
+      "cross_links": [
+        "traditions/canoe-trips",
+        "traditions/pip-alumni-award",
+        "traditions/traditions-and-culture",
+        "people/sean-day"
+      ],
+      "file_id": null,
+      "word_count": 984,
+      "tags": [
+        "awards",
+        "canoe-tripping",
+        "traditions",
+        "recognition"
+      ],
+      "notes": "Created 2026-08-14 from an operator-supplied roster (Matt Aronson). The Order of Owens had zero prior mentions anywhere in the project. Status set to draft, not E1: single source, confidence user_knowledge, and the namesake reading of the 'April 13, 1976 - Norrey Owens' entry is an explicit inference (Open Questions 1-3). Roster's 2020-2021 non-award independently corroborates the two-season COVID closure and is a second line of evidence for the p_222 fix to history/modern-era.md:16."
     }
   ]
 }

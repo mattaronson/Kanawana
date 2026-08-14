@@ -1,8 +1,8 @@
 {
   "version": "v4.98",
-  "kb_version": "v5.09",
+  "kb_version": "v5.10",
   "migrated_from": "3.3",
-  "fact_count": 1947,
+  "fact_count": 1954,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -33716,6 +33716,122 @@
       "conflicts_with": [],
       "added_version": "v5.09",
       "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_1986",
+      "claim": "The Order of Owens is an annual Camp Kanawana award presented to 'a Kanawanian who best exemplifies the leadership qualities and attitude of a canoe tripper at Camp Kanawana.'",
+      "sources": [
+        "src_oral_aronson_order_of_owens"
+      ],
+      "confidence": "user_knowledge",
+      "category": "awards",
+      "entities": [
+        "Order of Owens",
+        "Camp Kanawana"
+      ],
+      "date_ref": null,
+      "conflicts_with": [],
+      "added_version": "v5.10",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_1987",
+      "claim": "The Order of Owens has been awarded annually from 1976 through 2026, except in 2020 and 2021 when it was not awarded because of the COVID-19 pandemic -- 49 award seasons in total.",
+      "sources": [
+        "src_oral_aronson_order_of_owens"
+      ],
+      "confidence": "user_knowledge",
+      "category": "awards",
+      "entities": [
+        "Order of Owens"
+      ],
+      "date_ref": "1976-2026",
+      "conflicts_with": [],
+      "added_version": "v5.10",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_1988",
+      "claim": "The Order of Owens roster's first entry reads 'April 13, 1976 - Norrey Owens', carrying a full calendar date where all subsequent entries carry only a year, and bearing the name the award is called after. This wiki reads Norrey Owens as the award's namesake rather than its first recipient; the source does not state this and the reading is an inference.",
+      "sources": [
+        "src_oral_aronson_order_of_owens"
+      ],
+      "confidence": "inferred",
+      "category": "awards",
+      "entities": [
+        "Order of Owens",
+        "Norrey Owens"
+      ],
+      "date_ref": "1976-04-13",
+      "conflicts_with": [],
+      "added_version": "v5.10",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_1989",
+      "claim": "Order of Owens recipients 1976-1999: 1976 Doug Peets; 1977 Denys Lawrence; 1978 Graham Scammells; 1979 Noelle Buck; 1980 Amy Pearce; 1981 Veronique Marin; 1982 Jean Perron; 1983 Gill Watt; 1984 Miriam Schleifer and Eric Boghen; 1985 Gesa Mahnke; 1986 Eyal Artzy; 1987 Mike Zeltzer; 1988 Aaron Chase; 1989 Siobhan Wallace; 1990 Shawna Silver; 1991 Simon Beauchemin; 1992 Susan Owen; 1993 Ryan Harbinson; 1994 Charles Leduc; 1995 Louis Lessard; 1996 Catherine Lalonde and Veronique Fraser; 1997 Francois Goulet-Lessard; 1998 Matthew Wiviott and Randall Blom; 1999 Theo Lerikos.",
+      "sources": [
+        "src_oral_aronson_order_of_owens"
+      ],
+      "confidence": "user_knowledge",
+      "category": "awards",
+      "entities": [
+        "Order of Owens"
+      ],
+      "date_ref": "1976-1999",
+      "conflicts_with": [],
+      "added_version": "v5.10",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_1990",
+      "claim": "Order of Owens recipients 2000-2026: 2000 Mitchell McLarnon; 2001 Megan Robinson; 2002 Ian Braide; 2003 Julian Dobie; 2004 Alex Williams Zanis and Vienna Napier; 2005 Thomas Gilbert; 2006 Mike Romano; 2007 Meyland Gravel-Labelle; 2008 Oskar Newsam; 2009 Russel Donahue; 2010 Dylan Applebaum; 2011 Michael Sklivas; 2012 Emily Fleisler and Scott Bennet; 2013 Rosie Kaye; 2014 Pauline Morasse; 2015 Theo King; 2016 Owen Friesen; 2017 Louis Friedland-Yust; 2018 Ulysse Allard; 2019 Sophie Parent; 2020-2021 not awarded (COVID-19); 2022 Miriam Vandervort Charboneau; 2023 Simon MacLaren; 2024 Margot Simonian; 2025 Laurent Thuot; 2026 Charlie MacLaren.",
+      "sources": [
+        "src_oral_aronson_order_of_owens"
+      ],
+      "confidence": "user_knowledge",
+      "category": "awards",
+      "entities": [
+        "Order of Owens"
+      ],
+      "date_ref": "2000-2026",
+      "conflicts_with": [],
+      "added_version": "v5.10",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_1991",
+      "claim": "Five Order of Owens seasons had two recipients each (1984, 1996, 1998, 2004, 2012), giving 54 individual recipients across 49 award seasons.",
+      "sources": [
+        "src_oral_aronson_order_of_owens"
+      ],
+      "confidence": "user_knowledge",
+      "category": "awards",
+      "entities": [
+        "Order of Owens"
+      ],
+      "date_ref": "1976-2026",
+      "conflicts_with": [],
+      "added_version": "v5.10",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_1992",
+      "claim": "The Order of Owens was not awarded in either 2020 or 2021, independently corroborating from a camp-internal award record that Camp Kanawana's overnight camp was closed for both consecutive seasons -- consistent with Sean Day's documented 2021 decision to keep the overnight camp closed for a second season and pivot to 10 day camps.",
+      "sources": [
+        "src_oral_aronson_order_of_owens"
+      ],
+      "confidence": "user_knowledge",
+      "category": "awards",
+      "entities": [
+        "Order of Owens",
+        "Sean Day",
+        "COVID-19"
+      ],
+      "date_ref": "2020-2021",
+      "conflicts_with": [],
+      "added_version": "v5.10",
+      "added_by": "manual"
     }
   ]
 }

@@ -78,6 +78,7 @@ Samuel Karl Lazarus (1978–2004) was a Kanawana camper and staff member "for mo
 - [[people/notable-alumni/stuart-mclean|Stuart McLean]]
 - [[people/notable-alumni/terry-mosher|Terry Mosher (Aislin)]]
 - [[people/directors-index|Directors and Staff of Camp Kanawana]]
+- [[traditions/order-of-owens|The Order of Owens]] — the camp's canoe-tripping award, presented for conduct at camp rather than for later-life achievement
 - [[traditions/traditions-and-culture|Traditions and Culture at Kanawana]]
 
 ## Sources

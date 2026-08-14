@@ -26,6 +26,7 @@ Today, canoe tripping remains central to the Kanawana experience. The 2026 progr
 - [[connections/institutional-lineage/canadian-camping-movement|The Canadian Camping Movement]]
 - [[history/centennial-1967|Centennial Year (1967)]]
 - [[history/coeducation-gender|Coeducation and Gender at Kanawana]]
+- [[traditions/order-of-owens|The Order of Owens]]
 - [[traditions/lv-games|The L&V Games]]
 - [[traditions/programs-activities|Programs and Activities]]
 - [[site/the-kanawana-site|The Kanawana Site]]

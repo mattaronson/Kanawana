@@ -127,6 +127,7 @@ Known recipients include: Richard "Itche" Kerr (2007, composer of the camp song)
 - [[history/centennial-1967|The 1967 Centennial and Kanawana]]
 - [[traditions/camp-songs-cheers|Camp Songs, Cheers, and Musical Traditions]]
 - [[traditions/myths-and-legends|Kanawana Myths and Legends]]
+- [[traditions/order-of-owens|The Order of Owens]]
 
 ## Sources
 
