@@ -1,8 +1,8 @@
 {
  "version": "v4.98",
- "kb_version": "v5.30",
+ "kb_version": "v5.31",
  "migrated_from": "3.3",
- "fact_count": 2114,
+ "fact_count": 2119,
  "facts": [
   {
    "fact_id": "f_0001",
@@ -36584,6 +36584,89 @@
    "date_ref": "1910-1965",
    "conflicts_with": [],
    "added_version": "v5.30",
+   "added_by": "ralph_loop"
+  },
+  {
+   "fact_id": "f_2153",
+   "claim": "THE FISCAL CONVENTION OF THE YMCA OF MONTREAL ANNUAL REPORTS, needed to date anything drawn from them. Reports up to and including 1925 cover a year ending 30 APRIL. The 1926 report covers an ELEVEN-MONTH transitional period ending 31 March 1926 (its own table says 'BRANCHES, ELEVEN MONTHS PERIOD ENDING MARCH 31st, 1926'). Reports from 1926 through 1950 cover a year ending 31 MARCH. From 1951 the fiscal period is the CALENDAR YEAR, decided explicitly: 'It was decided ... that effective January 1st, 1951, the fiscal period should accord with the calendar year.' CONSEQUENCE: for every report up to 1950, report YYYY describes the summer of YYYY-1, and any month named in it falls in the twelve months BEFORE the March/April year end. NOTE the refinement: the April-to-March change happens at the 1926 report, not the 1927 report.",
+   "sources": [
+    "src_ia_ymca_montreal_annual_reports_collection"
+   ],
+   "confidence": "stated",
+   "category": "meta",
+   "entities": [
+    "YMCA of Montreal"
+   ],
+   "date_ref": "1856-2009",
+   "conflicts_with": [],
+   "added_version": "v5.31",
+   "added_by": "ralph_loop"
+  },
+  {
+   "fact_id": "f_2154",
+   "claim": "DATE CORRECTION: W. J. G. Macdiarmid was appointed to succeed J. G. MacKinnon temporarily as Executive Secretary on 15 SEPTEMBER 1927, not 1928. greig-macdiarmid.md carried 1928. The report recording it is the 1928 one, whose fiscal year ends 31 March 1928 -- it cannot contain a September 1928 event. Found by the p_257 fiscal-convention audit.",
+   "sources": [
+    "src_ia_ymca_montreal_annual_reports_collection"
+   ],
+   "confidence": "stated",
+   "category": "people",
+   "entities": [
+    "Greig Macdiarmid",
+    "J. G. MacKinnon"
+   ],
+   "date_ref": "1927-09-15",
+   "conflicts_with": [],
+   "added_version": "v5.31",
+   "added_by": "ralph_loop"
+  },
+  {
+   "fact_id": "f_2155",
+   "claim": "DATE CORRECTION: Macdiarmid 'entered the Secretaryship' during the eleven months from May 1925 to March 1926, not in '1926' flat. The 1926 report covers that transitional eleven-month period. Recorded as 1925-26.",
+   "sources": [
+    "src_ia_ymca_montreal_annual_reports_collection"
+   ],
+   "confidence": "stated",
+   "category": "people",
+   "entities": [
+    "Greig Macdiarmid",
+    "A. H. Reekie"
+   ],
+   "date_ref": "1925-1926",
+   "conflicts_with": [],
+   "added_version": "v5.31",
+   "added_by": "ralph_loop"
+  },
+  {
+   "fact_id": "f_2156",
+   "claim": "DATE PRECISION: the 1937 Annual Report covers the fiscal year ending 31 March 1937 and therefore describes the 1936 SEASON. greig-macdiarmid.md said its Protestant Orphans' Home passage documented 'that year's' arrangement, which read as 1937 and contradicted camp-becsies.md, which correctly assigns the 1937 report to the 1936 season. Both articles now agree.",
+   "sources": [
+    "src_ia_ymca_montreal_annual_reports_collection"
+   ],
+   "confidence": "stated",
+   "category": "meta",
+   "entities": [
+    "Greig Macdiarmid",
+    "Camp Becsies"
+   ],
+   "date_ref": "1936",
+   "conflicts_with": [],
+   "added_version": "v5.31",
+   "added_by": "ralph_loop"
+  },
+  {
+   "fact_id": "f_2157",
+   "claim": "AUDITED CLEAN by the p_257 fiscal-convention sweep: camp-becsies.md ('the 1934, 1935, 1936 and 1937 Annual Reports, covering the 1933, 1934, 1935 and 1936 seasons respectively'); council-ring.md's 1928 rebuild; the directors-index rows for 1913, 1915 and 1918; w-h-spearman.md's 1934/1933 and 1935/1934 pairings, its 1 September 1929 appointment, its 31 March 1949 promotion and its 31 May 1954 retirement. Two FORWARD-LOOKING exceptions are correct as written and must not be 'corrected': the 1910 report announcing Kanawana's first season for the coming summer of 1910, and the 1946 report announcing Macdiarmid's Toronto move as taking effect the following 1 September.",
+   "sources": [
+    "src_ia_ymca_montreal_annual_reports_collection"
+   ],
+   "confidence": "stated",
+   "category": "meta",
+   "entities": [
+    "YMCA of Montreal"
+   ],
+   "date_ref": "1856-2009",
+   "conflicts_with": [],
+   "added_version": "v5.31",
    "added_by": "ralph_loop"
   }
  ]

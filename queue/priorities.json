@@ -3239,7 +3239,9 @@
    "blocking": false,
    "assigned_weight": "P0",
    "created_at": "2026-08-14T00:00:00Z",
-   "status": "pending"
+   "status": "completed",
+   "completed_at": "2026-08-14T00:00:00Z",
+   "result": "Completed 2026-08-14. Audited every wiki claim citing a YMCA of Montreal annual report against the fiscal convention. THREE genuine offsets found and fixed, all in greig-macdiarmid.md: the MacKinnon succession dated 15 September 1928 is impossible (the 1928 report's fiscal year ends 31 March 1928) and is corrected to 1927; 'entered the Secretaryship 1926' is corrected to 1925-26; and the 1937 report's Protestant Orphans' Home passage described 'that year's' arrangement, reading as 1937, while camp-becsies.md correctly assigns that report to the 1936 season -- the two articles now agree. CONVENTION REFINED: the April-to-March change happens at the 1926 report, not 1927; the 1926 report covers an ELEVEN-MONTH transitional period. Audited clean: camp-becsies, council-ring, the directors-index pre-1921 rows, and all of w-h-spearman. Two forward-looking passages (the 1910 Kanawana announcement, the 1946 Macdiarmid Toronto move) are correct as written and are flagged so they are not 'corrected' later."
   },
   {
    "priority_id": "p_258",

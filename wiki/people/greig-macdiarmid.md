@@ -11,7 +11,7 @@ He appears in the archival record under both "Greig Macdiarmid" and the initiale
 
 ## Directorship (1935–1939)
 
-Macdiarmid was Camp Chief in 1935, per that year's season chronicle, which also names Senior Director Howie Langille, Junior Director Ernie Taylor, and Juvenile Director Lorne Hamilton under him, overseeing 35 counsellors.^2 The camp's own newsletter addresses him as "Chief MacDiarmid" across four separate summers — July 6 and August 4, 1935; August 1 and October 17, 1936; and July 29, 1938.^3 ^4 ^5 The Montreal YMCA's 1937 Annual Report names "W.J.G. Macdiarmid" as Kanawana Camp Director in the same passage documenting that year's Protestant Orphans' Home arrangement with [[site/camp-becsies|Camp Bec-scies]].^6 Kanawana's own November 1938 letterhead prints the camp's two officers side by side: **"O. N. H. OWENS, Chairman — W. J. G. MACDIARMID, Director."**^8
+Macdiarmid was Camp Chief in 1935, per that year's season chronicle, which also names Senior Director Howie Langille, Junior Director Ernie Taylor, and Juvenile Director Lorne Hamilton under him, overseeing 35 counsellors.^2 The camp's own newsletter addresses him as "Chief MacDiarmid" across four separate summers — July 6 and August 4, 1935; August 1 and October 17, 1936; and July 29, 1938.^3 ^4 ^5 The Montreal YMCA's 1937 Annual Report — which covers the fiscal year ending 31 March 1937, and so describes the **1936** season — names "W.J.G. Macdiarmid" as Kanawana Camp Director in the same passage documenting that season's Protestant Orphans' Home arrangement with [[site/camp-becsies|Camp Bec-scies]].^6 Kanawana's own November 1938 letterhead prints the camp's two officers side by side: **"O. N. H. OWENS, Chairman — W. J. G. MACDIARMID, Director."**^8
 
 **The tenure now extends a year further than this article previously recorded.** A CFCF radio broadcast of June 10, 1939 introduces "Mr. Macdiarmid, the director… of Kamp Kanawana," and later hands him the microphone as "Mr. Macdiarmid, chief of the camp," who closes the series by thanking the station.^9 1939 was his last season, and the reason is documented: the Montreal YMCA's 1946 report records him "on leave of absence with Y.M.C.A. War Services, **who went overseas in December 1939**."^7 That also explains the succession — [[people/howie-langille|Howie Langille]], his Senior Director in 1935, led the 48th season in 1941.
 
@@ -26,8 +26,8 @@ Macdiarmid was at Kanawana on staff before he ran it, overlapping with [[people/
 | Date | Position |
 |------|----------|
 | pre-1926 | Member of the Central Branch Boys' Division, Montreal |
-| 1926 | Entered the Secretaryship alongside A. H. Reekie; became assistant to J. G. MacKinnon at the Verdun and St. Paul work |
-| by 1928 | Associate Secretary; appointed to succeed MacKinnon temporarily as Executive Secretary on September 15, 1928 |
+| **1925-26** | Entered the Secretaryship alongside A. H. Reekie; became assistant to J. G. MacKinnon at the Verdun and St. Paul work. *(The 1926 report covers an eleven-month period ending 31 March 1926, so the event falls between May 1925 and March 1926 — not "1926" flat, as this table said until 2026-08-14.)* |
+| **15 September 1927** | Associate Secretary; appointed to succeed MacKinnon temporarily as Executive Secretary. *(Corrected from 1928. The report carrying this is the 1928 one, whose fiscal year ends **31 March 1928** — it cannot contain a September 1928 event. The September is 1927.)* |
 | 1929–1930 | Listed on the Verdun Branch staff |
 | 1933–1934 | Kanawana staff, under Camp Chief W. H. Spearman |
 | 1935–1939 | Camp Chief, Kamp Kanawana |

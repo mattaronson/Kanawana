@@ -2705,3 +2705,21 @@ THIS COMPLETES THE FULL OPERATOR-APPROVED PLAN (can-you-systematically-work-iter
   the 1969 drowning and 1976 meningitis appear only in the camp's own season
   reports; Weredale and Ouareau appear nowhere.
   Sources 683 -> 685. Facts 2100 -> 2114, KB v5.30.
+
+2026-08-14 | VERIFY | p_257: fiscal-convention date audit
+  Audited every wiki claim citing a YMCA of Montreal annual report.
+  THREE offsets found, all in greig-macdiarmid.md:
+  - "September 15, 1928" is IMPOSSIBLE. The 1928 report's fiscal year ends
+    31 March 1928. Corrected to 15 September 1927.
+  - "1926 entered the Secretaryship" -> 1925-26. The 1926 report covers an
+    ELEVEN-MONTH transitional period ending 31 March 1926.
+  - The 1937 report's Orphans' Home passage read as "that year's" (1937) while
+    camp-becsies.md correctly assigns that report to the 1936 season. The two
+    articles contradicted each other; they now agree.
+  CONVENTION REFINED against the agent's table: the April->March change happens
+  at the 1926 report, not 1927.
+  Audited clean: camp-becsies, council-ring, the directors-index pre-1921 rows,
+  all of w-h-spearman. Two FORWARD-LOOKING passages flagged so a later pass does
+  not "correct" them: the 1910 Kanawana announcement and the 1946 Macdiarmid
+  Toronto move.
+  Facts 2114 -> 2119, KB v5.31.
