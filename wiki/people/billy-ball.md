@@ -25,6 +25,8 @@ That same memoir also raises a genuine problem about *which* site. It continues:
 
 ## Camp Jubilee and Its Successors
 
+*"Camp Jubilee" is the archival name — Concordia's description of the fonds and QAHN both use it, but the association's own records of the period call the place simply "the Summer Camp at Lake St. Joseph." See [[history/founding-1894|The Founding of Camp Kanawana]].*
+
 Ball's Camp Jubilee operated on island(s) in Lake Saint-Joseph.^3 The initial enrollment was 20 campers.^2
 
 In 1909, Camp Jubilee was renamed **[[site/camp-otoreke|Camp Otoreke]]** (Iroquoian for "north").^3 Around this same period, the YMCA acquired a larger site in Saint-Sauveur-des-Monts from the Page family, establishing **Kamp Kanawana** as the main boys' camp. Camp Otoreke continued operating on the original Lake Saint-Joseph islands, transitioning to serve diverse populations: men 18+, women and men, married couples, and low-income families. Otoreke closed in 1982 after nearly a century of operation.^3

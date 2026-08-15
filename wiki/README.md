@@ -4,7 +4,7 @@
 
 ## What Kanawana Is
 
-Camp Kanawana is a YMCA of Montreal residential summer camp founded in 1894 (as Camp Jubilee, at Lake Saint-Joseph) and operating continuously since 1910 at its present 550-acre site in Saint-Sauveur, Quebec — making it the oldest residential summer camp in Quebec and among the oldest in Canada. Its motto, *Non Nobis Solum* ("Not For Ourselves Alone"), and its "four-fold" YMCA development philosophy (physical, intellectual, social, spiritual) have anchored a continuously evolving identity: from a boys' wilderness camp built on badges, section systems, and the Council Ring tradition, through coeducation in the late 1960s, to its present description by the YMCA as "Quebec's environmental education leader," offering year-round outdoor and environmental programming alongside its traditional summer season.
+Camp Kanawana is a YMCA of Montreal residential summer camp founded in 1894 (as Camp Jubilee, at Lake Saint-Joseph — an archival name rather than the association's own; [[history/founding-1894|see the note on it]]) and operating continuously since 1910 at its present 550-acre site in Saint-Sauveur, Quebec — making it the oldest residential summer camp in Quebec and among the oldest in Canada. Its motto, *Non Nobis Solum* ("Not For Ourselves Alone"), and its "four-fold" YMCA development philosophy (physical, intellectual, social, spiritual) have anchored a continuously evolving identity: from a boys' wilderness camp built on badges, section systems, and the Council Ring tradition, through coeducation in the late 1960s, to its present description by the YMCA as "Quebec's environmental education leader," offering year-round outdoor and environmental programming alongside its traditional summer season.
 
 ## Core — Kanawana Itself
 

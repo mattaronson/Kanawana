@@ -7,7 +7,7 @@
 
 Camp Kanawana has produced a remarkable number of alumni who achieved distinction in public life. Since 2007, the Pip Alumni Award has formally recognized some of these individuals, but the camp's alumni network extends well beyond award recipients. This article collects biographical notes on notable alumni not covered by standalone articles elsewhere in the wiki.
 
-For alumni who have standalone articles, see: [[people/notable-alumni/stuart-mclean|Stuart McLean]] (Pip Award 2009), [[people/notable-alumni/terry-mosher|Terry Mosher / Aislin]] (Pip Award 2015), [[people/dave-twynam|G. David Twynam]], [[people/edgar-smee|Edgar E. Smee]], [[people/sean-day|Sean Day]], [[people/notable-alumni/john-cleghorn|John Cleghorn]] (Pip Award 2012), [[people/notable-alumni/chris-adam|Chris Adam]] (Pip Award 2017), [[people/notable-alumni/james-orbinski|James Orbinski]] (Pip Award 2024), [[people/bruce-netherwood|Bruce Netherwood]] (Pip Award 2011), [[people/richard-patten|Richard Patten]] (Pip Award 2008), [[people/notable-alumni/carol-skinner|Carol Skinner]] (Pip Award 2016), [[people/notable-alumni/sam-lazarus|Sam Lazarus]] (Pip Award 2013, posthumous), [[people/rl-charlton|R.L. Charlton]]. For full details on the award itself and the Caddell family, see [[traditions/pip-alumni-award|The Pip Alumni Award]].
+For alumni who have standalone articles, see: [[people/notable-alumni/stuart-mclean|Stuart McLean]] (Pip Award 2009), [[people/notable-alumni/terry-mosher|Terry Mosher / Aislin]] (Pip Award 2015), [[people/dave-twynam|G. David Twynam]], [[people/edgar-smee|Edgar E. Smee]], [[people/sean-day|Sean Day]], [[people/notable-alumni/john-cleghorn|John Cleghorn]] (Pip Award 2012), [[people/notable-alumni/chris-adam|Chris Adam]] (Pip Award 2017), [[people/notable-alumni/james-orbinski|James Orbinski]] (Pip Award 2024), [[people/bruce-netherwood|Bruce Netherwood]] (Pip Award 2011), [[people/notable-alumni/richard-patten|Richard Patten]] (Pip Award 2008), [[people/notable-alumni/carol-skinner|Carol Skinner]] (Pip Award 2016), [[people/sam-lazarus|Sam Lazarus]] (Pip Award 2013, posthumous), [[people/rl-charlton|R.L. Charlton]]. For full details on the award itself and the Caddell family, see [[traditions/pip-alumni-award|The Pip Alumni Award]].
 
 ## Pip Award Recipients Without Standalone Articles
 
@@ -17,7 +17,7 @@ Richard Kerr, known by his camp nickname "Itche," was the inaugural Pip Award re
 
 ### Richard Patten (1942–2021) (Pip Award 2008)
 
-Liberal Ontario MPP for Ottawa Centre (1987–90, 1995–2007) with an extensive prior YMCA international career. See [[people/richard-patten|Richard Patten]] for full biography.
+Liberal Ontario MPP for Ottawa Centre (1987–90, 1995–2007) with an extensive prior YMCA international career. See [[people/notable-alumni/richard-patten|Richard Patten]] for full biography.
 
 ### Bruce Netherwood (Pip Award 2011)
 
@@ -29,7 +29,7 @@ Former Chairman and CEO of the Royal Bank of Canada (1994–2001), Kanawana camp
 
 ### Sam Lazarus (1978–2004) (Pip Award 2013, posthumous)
 
-Camper and staff member who died volunteering in Ghana at 25; the Sam Lazarus Fund, established by his family, continues to send children to Kanawana. See [[people/notable-alumni/sam-lazarus|Sam Lazarus]] for full biography. His mother, Janet Torge, is a Montreal-based writer and television documentary producer whose varied career has included radio talk-show host, traffic reporter, Montreal Gazette columnist, prenatal teacher and doula, construction site manager, and co-founder of Canada's first Rape Relief Centre (1973);^25 she published *Dear Sam: Grieving the Death of My Son* (iUniverse) and *I Can't Believe I'm Old: Essays on Aging* (Linda Leith Publishing),^26 ^27 founded Radical Resthomes, a co-living housing model for seniors, and serves on the CIHR Institute of Aging Older Adult Advisory Council.^25 Her documentary producer credits include *Harry Gulkin: Red Dawn on Main Street* (2004) and *The Gig Is Up* (2021).^28
+Camper and staff member who died volunteering in Ghana at 25; the Sam Lazarus Fund, established by his family, continues to send children to Kanawana. See [[people/sam-lazarus|Sam Lazarus]] for full biography. His mother, Janet Torge, is a Montreal-based writer and television documentary producer whose varied career has included radio talk-show host, traffic reporter, Montreal Gazette columnist, prenatal teacher and doula, construction site manager, and co-founder of Canada's first Rape Relief Centre (1973);^25 she published *Dear Sam: Grieving the Death of My Son* (iUniverse) and *I Can't Believe I'm Old: Essays on Aging* (Linda Leith Publishing),^26 ^27 founded Radical Resthomes, a co-living housing model for seniors, and serves on the CIHR Institute of Aging Older Adult Advisory Council.^25 Her documentary producer credits include *Harry Gulkin: Red Dawn on Main Street* (2004) and *The Gig Is Up* (2021).^28
 
 ### Jeniene Phillips Birks (Pip Award 2014)
 

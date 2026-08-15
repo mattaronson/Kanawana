@@ -49,6 +49,14 @@ Two YMCA institutional publications confirm — by their silence — that no per
 
 ## Camp Jubilee at Lake St. Joseph (1894-c.1910)
 
+### A note on the name
+
+**"Camp Jubilee" is the archival name for this camp, not the association's own.** The YMCA of Montreal never used it in the period the camp operated. Its records call the place descriptively: a standing committee titled simply **"Summer Camp"** — chaired by John W. Ross, one of the men in the founding syndicate — and then "the summer camp at Ste. Agathe" (1895-96), "the Summer Camp at Lake St. Joseph" (1897-98), "THE ASSOCIATION SUMMER CAMP, LAKE ST. JOSEPH" (1899), "SUMMER CAMP, ST. AGATHE" (1902).^ar Every occurrence of "Jubilee" in the annual reports of the period is the YMCA movement's own jubilee — the 1844-1894 World's Jubilee Convention, and Montreal's own 1851-1901 jubilee celebrated in June 1901.^ar
+
+The name nevertheless has real institutional standing, which is why this wiki keeps it: **Concordia's archival description of the YMCA of Montreal fonds uses it**, cataloguing the sub-series as "P0145/12L — Lac St-Joseph/Camp Jubilee" and a series as "Season reports of the Junior Camp (Camp Jubilee/Otoreke)."^cat QAHN uses it too.^q It is the name a researcher types into the finding aid to pull the boxes, and dropping it would cut this wiki off from the record it draws on. *(Operator decision, 2026-08-14: keep the name, with this explanation.)*^op
+
+Two cautions travel with it. The earliest attested proper name for the site is **[[site/camp-otoreke|Camp Otoreke]]**, which the association's own reports do use, from 1921-22 onward. And the 1988 retrospective that carries "Camp Jubilee" into the modern literature is **wrong in checkable detail** about 1894: it says three islands were *purchased* that year, where the 1894-95 report says the land and fishing rights were *leased* from the Government, and the 1902 report dates the island auction to 26 November 1901.^ar Neither of the camp's own in-house histories, 1935 or 1951, uses "Jubilee" at all.
+
 In the summer of 1894, Billy Ball of the Montreal YMCA took approximately 20 campers to Lake St. Joseph in the Township of Howard (now Saint-Adolphe-d'Howard), near Sainte-Agathe. The camp was situated on islands in the lake, with a landing area on the shore. Fifty-three members used the site that first summer.^mc The YMCA subsequently purchased the main island — part of a 33-acre property acquired in 1898 at a cost of one dollar per acre — along with two other islands for continued use.^mc
 
 The early camp was primitive: half a dozen sleeping tents, a dining marquee, and a small fleet of basic boats rented from local farmers.^mc Campers took the train to Sainte-Agathe, then endured a two-hour drive by horse and springless buckboard to reach the site.^mc By 1903, 210 campers attended, a fourfold increase from the first year.^mc
@@ -156,7 +164,9 @@ The 1923 brochure and 1935 history together describe a camp that had grown into 
 - ^h51: "Kamp Kanawana History," presented at a Training Course, 6 June 1951 (Internet Archive) [src_ia_kanawana_history_1951]
 - ^ar: YMCA of Montreal Annual Reports 1893-94, 1894-95, 1895-96, 1896-97 and 1965, read directly from the Concordia-digitized run on Internet Archive [src_ia_sgw_annual_report_1894_1895, src_ia_ymca_montreal_annual_reports_collection]
 - ^m19: "Brief Autobiographical Sketch of Association Career," August 1919 — first-person memoir by an unnamed member of the founding syndicate, identifiable from internal evidence as the man who became the third General Secretary of the Winnipeg YMCA in June 1894 (Internet Archive) [src_ia_autobiographical_sketch_1919]
-- ^op: Operator determination (Matt Aronson), 2026-08-14, resolving conflict `c_024`: "Lac La Croix was the first one they picked until Lake Saint-Joseph was found, which was a better option" — reading the 1919 memoir as a site-selection sequence rather than as a competing account of where the 1894 season was held [src_oral_aronson_c024_resolution]
+- ^cat: Concordia University Archives, descriptive record for the YMCA of Montreal fonds P145 — sub-series "P0145/12L — Lac St-Joseph/Camp Jubilee" and the series description "Season reports of the Junior Camp (Camp Jubilee/Otoreke)" [src_concordia_atom_kanawana]
+- ^q: Quebec Anglophone Heritage Network, "The YMCA Camp of Saint-Adolphe d'Howard": "That camp, called Camp Jubilee after the fiftieth anniversary of the YMCA…" [src_qahn_howard]
+- ^op: Operator determinations (Matt Aronson), 2026-08-14 — resolving conflict `c_024`: "Lac La Croix was the first one they picked until Lake Saint-Joseph was found, which was a better option" — reading the 1919 memoir as a site-selection sequence rather than as a competing account of where the 1894 season was held [src_oral_aronson_c024_resolution]; and resolving `p_255`: "I concur on keeping the Jubilee name with the explanation" [src_oral_aronson_p255_naming]
 - ^rpcq: Répertoire du patrimoine culturel du Québec, "Young Men's Christian Association" (id 8364) [src_rpcq_ymca_8364]
 
 ## Research Notes

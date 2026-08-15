@@ -37073,6 +37073,41 @@
    "conflicts_with": [],
    "added_version": "v5.34",
    "added_by": "ralph_loop"
+  },
+  {
+   "fact_id": "f_2182",
+   "claim": "EDITORIAL DECISION (p_255, operator, 2026-08-14): the wiki KEEPS the name 'Camp Jubilee' for the 1894-1909 camp, with a stated explanation that it is the archival name (Concordia's fonds description and QAHN) rather than the association's own, which called the place descriptively -- a committee titled 'Summer Camp', then 'the Summer Camp at Lake St. Joseph'. Rationale: it is the name a researcher uses against the Concordia finding aid, so dropping it would cut the wiki off from its own source record.",
+   "sources": [
+    "src_oral_aronson_p255_naming"
+   ],
+   "confidence": "stated",
+   "category": "naming",
+   "entities": [
+    "Camp Jubilee"
+   ],
+   "date_ref": "2026",
+   "conflicts_with": [],
+   "added_version": "v5.35",
+   "added_by": "manual"
+  },
+  {
+   "fact_id": "f_2183",
+   "claim": "EDITORIAL DECISION (p_230, operator, 2026-08-14): sam-lazarus moves from people/notable-alumni/ to core people/ (his enduring significance IS a Kanawana institution -- the Sam Lazarus Fund and Sam Jam); richard-patten moves from core people/ to people/notable-alumni/ (Ontario MPP, a career independent of the camp, and his 1976-79 YMCA branch role carried no authority over Kanawana); chris-adam STAYS in notable-alumni as genuinely ambiguous. Camp Tamaracouta is confirmed as the connections/related-camps candidate should an article ever be spawned; no article exists yet, so nothing moved.",
+   "sources": [
+    "src_oral_aronson_p255_naming"
+   ],
+   "confidence": "stated",
+   "category": "meta",
+   "entities": [
+    "Sam Lazarus",
+    "Richard Patten",
+    "Chris Adam",
+    "Camp Tamaracouta"
+   ],
+   "date_ref": "2026",
+   "conflicts_with": [],
+   "added_version": "v5.35",
+   "added_by": "manual"
   }
  ]
 }

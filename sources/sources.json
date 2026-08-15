@@ -10977,6 +10977,22 @@
    "extraction_version": "v5.34",
    "reliability": "primary",
    "notes": "Operator instruction resolving c_024: 'Read Ball's account again - Lac La Croix was the first one they picked until Lake Saint-Joseph was found, which was a better option.' Directs the 1919 memoir to be read as a site-selection sequence. Note this is an EDITORIAL/INTERPRETIVE determination about how to read a document, not a new factual source."
+  },
+  {
+   "source_id": "src_oral_aronson_p255_naming",
+   "type": "oral_history",
+   "title": "Operator decision on p_255 (Camp Jubilee naming) and p_230 (folder placement), Matt Aronson",
+   "date": "2026-08-14",
+   "date_precision": "exact",
+   "origin": "user_provided",
+   "origin_url": null,
+   "cache_path": null,
+   "char_count": 0,
+   "ingested_at": "2026-08-14T00:00:00Z",
+   "extracted": true,
+   "extraction_version": "v5.35",
+   "reliability": "primary",
+   "notes": "'I concur on keeping the Jubilee name with the explanation. And with your call on the folder placement.' Editorial determinations, not factual sources."
   }
  ],
  "source_count": 685
