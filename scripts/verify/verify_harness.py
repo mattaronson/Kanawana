@@ -23,6 +23,36 @@ So a WHOLE-WIKI pass now runs check B over all articles regardless of status,
 reported separately at the end. Do not narrow it back to drafts. The lesson
 generalises: a checker scoped to the articles you are currently working on will
 not tell you about the articles you are not.
+
+PROVENANCE CHECKS (2026-08-16, operator-requested). Everything above audits what
+the wiki SAYS. These three audit what the project has actually READ -- a
+different failure mode, and the one that caused every blocker cleared on
+2026-08-14. Three of those four were resolved by reading material already on
+disk: the c_024 passage was quoted in the conflict record itself, the 1966
+shield was legible in a photograph already supplied, and the Concordia
+catalogue was sitting in sources/cache/. The failure was not insufficient
+searching. It was stopping once a claim fit, and then writing the stop into the
+record as though it were a finding.
+
+  H. READ RECEIPTS. Every source should carry a read_state saying whether it was
+     actually opened, and on what basis. Without it, "read it, nothing there"
+     and "never opened" are the same null -- which is precisely how 594 of 638
+     corpus items sat unopened for five months while the wiki recorded confident
+     nulls against them. H also cross-checks: a source marked unopened that is
+     nevertheless cited by a fact is an inconsistency worth seeing.
+  I. DORMANCY. Sources cited by no fact AND named in no article. Not
+     necessarily a defect -- a genuine null result is dormant and should be --
+     but a dormant source with read_state 'unknown' is unexamined material the
+     project has forgotten it holds.
+  J. CONFLICT PASSAGES. Every position in a conflict record must carry the FULL
+     surrounding passage, not just the claim restated. c_024 was filed as an
+     unresolvable human-decision-point on the strength of a quoted span; the
+     sentence that dissolved it sat in the same paragraph, and the conflict
+     stood for a day because nobody re-read around the quote. A passage that is
+     no longer than its own claim is not a passage.
+
+These three are deliberately NON-BLOCKING and print as a separate section. They
+measure the project's reading discipline, not any article's correctness.
 """
 import json, os, re
 from collections import defaultdict
@@ -168,3 +198,130 @@ if not wide:
 for k in sorted(wide):
     st, miss = wide[k]
     print('    %-32s [%s] markers with no Sources entry: %s' % (k, st, miss))
+
+# ===========================================================================
+# PROVENANCE PASS -- checks H, I, J. Non-blocking; see the module docstring.
+# ===========================================================================
+facts = json.load(open(os.path.join(ROOT, 'kb/facts.json')))['facts']
+conflicts_raw = json.load(open(os.path.join(ROOT, 'kb/conflicts.json')))
+conflicts = conflicts_raw if isinstance(conflicts_raw, list) else conflicts_raw.get('conflicts', [])
+
+VALID_READ_STATES = {'extracted', 'skimmed', 'unopened', 'unavailable', 'unknown'}
+
+cited_by_fact = set()
+for f in facts:
+    cited_by_fact |= set(f.get('sources', []))
+
+all_wiki_text = ''
+for p in files.values():
+    all_wiki_text += open(p, encoding='utf-8').read()
+named_in_wiki = set(s['source_id'] for s in sources if s['source_id'] in all_wiki_text)
+
+# --- H: read receipts -------------------------------------------------------
+no_state, bad_state, contradictory = [], [], []
+state_counts = defaultdict(int)
+for s in sources:
+    st = s.get('read_state')
+    if st is None:
+        no_state.append(s['source_id'])
+        continue
+    state_counts[st] += 1
+    if st not in VALID_READ_STATES:
+        bad_state.append((s['source_id'], st))
+    if st == 'unopened' and s['source_id'] in cited_by_fact:
+        contradictory.append(s['source_id'])
+
+# H2: the legacy boolean `extracted` vs. the evidence. These are two independent
+# claims about the same thing and they disagree, so neither can be trusted alone.
+# extracted=False while facts cite it is the interesting direction: the flag was
+# simply never flipped when the source was used.
+flag_false_but_cited = [s['source_id'] for s in sources
+                        if not s.get('extracted') and s['source_id'] in cited_by_fact]
+flag_true_but_uncited = [s['source_id'] for s in sources
+                         if s.get('extracted') and s['source_id'] not in cited_by_fact]
+
+# --- I: dormancy ------------------------------------------------------------
+dormant = [s for s in sources
+           if s['source_id'] not in cited_by_fact and s['source_id'] not in named_in_wiki]
+
+# --- J: conflict passages ---------------------------------------------------
+# TWO SCHEMAS EXIST. c_023-c_025 use positions[{claim, source, facts}]; c_001-c_022
+# use an older shape with values[] / fact_ids[]. The first version of this check
+# only understood positions[] and so silently passed 22 of 25 conflicts -- the
+# very "checker scoped to what you happen to be working on" failure the module
+# docstring warns about, reproduced inside the check written to prevent it.
+# Conflicts whose shape is not recognised are now REPORTED, never skipped.
+thin_positions, unreadable = [], []
+for c in conflicts:
+    cid, st = c['conflict_id'], c.get('status', '?')
+    if c.get('positions'):
+        for i, pos in enumerate(c['positions']):
+            passage = (pos.get('passage') or '').strip()
+            claim = (pos.get('claim') or '').strip()
+            if not passage:
+                thin_positions.append((cid, st, 'position %d' % i, 'no passage field'))
+            elif len(passage) <= len(claim):
+                thin_positions.append((cid, st, 'position %d' % i,
+                                       'passage (%d ch) not longer than claim (%d ch)'
+                                       % (len(passage), len(claim))))
+    elif c.get('values'):
+        for i, v in enumerate(c['values'] if isinstance(c['values'], list) else [c['values']]):
+            txt = json.dumps(v) if not isinstance(v, str) else v
+            if 'passage' not in txt:
+                thin_positions.append((cid, st, 'value %d' % i, 'legacy schema, no passage'))
+    else:
+        unreadable.append((cid, st, sorted(c.keys())))
+
+print('\n' + '=' * 70)
+print('PROVENANCE PASS (non-blocking) -- what has actually been READ')
+print('=' * 70)
+
+print('\nH. READ RECEIPTS -- %d sources' % len(sources))
+if state_counts:
+    for k in sorted(state_counts):
+        print('     read_state=%-12s %4d' % (k, state_counts[k]))
+print('     %-21s %4d   <-- cannot tell "read, empty" from "never opened"' % ('NO read_state:', len(no_state)))
+if bad_state:
+    print('     INVALID read_state values (%d): %s' % (len(bad_state), bad_state[:10]))
+if contradictory:
+    print('     CONTRADICTORY (%d): marked unopened but cited by a fact: %s'
+          % (len(contradictory), contradictory[:10]))
+print('     legacy flag `extracted` vs. evidence:')
+print('       extracted=False yet cited by a fact: %4d  (flag never flipped; trust the citation)'
+      % len(flag_false_but_cited))
+print('       extracted=True  yet cited by nothing: %4d  (flag asserts a read the KB cannot show)'
+      % len(flag_true_but_uncited))
+
+print('\nI. DORMANT SOURCES -- %d of %d cited by no fact AND named in no article' % (len(dormant), len(sources)))
+if not dormant:
+    print('     none')
+for s in sorted(dormant, key=lambda x: (x.get('read_state') or 'zzz', x['source_id'])):
+    print('     %-46s [%s] %s' % (s['source_id'],
+                                  s.get('read_state') or 'NO read_state',
+                                  (s.get('title') or '')[:70]))
+
+print('\nJ. CONFLICT PASSAGES -- %d position(s) across %d conflict(s) without a full passage'
+      % (len(thin_positions), len(set(x[0] for x in thin_positions))))
+if not thin_positions:
+    print('     none')
+for cid, st, where, why in thin_positions:
+    print('     %-8s [%-21s] %-12s %s' % (cid, st, where, why))
+if unreadable:
+    print('     UNRECOGNISED SHAPE -- not inspected, do not read as passing (%d):' % len(unreadable))
+    for cid, st, keys in unreadable:
+        print('       %-8s [%-21s] keys=%s' % (cid, st, keys))
+
+# --- K: duplicate source ids (integrity) ------------------------------------
+id_counts = defaultdict(int)
+for s in sources:
+    id_counts[s['source_id']] += 1
+dup_ids = sorted(k for k, v in id_counts.items() if v > 1)
+print('\nK. DUPLICATE source_ids -- %d id(s) held by more than one record' % len(dup_ids))
+if not dup_ids:
+    print('     none')
+else:
+    print('     %d records / %d unique ids. A [src_x] citation pointing at a duplicated'
+          % (len(sources), len(id_counts)))
+    print('     id is ambiguous: it resolves to whichever record a reader happens to hit.')
+    for k in dup_ids:
+        print('     %-44s x%d' % (k, id_counts[k]))
