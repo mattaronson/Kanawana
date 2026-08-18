@@ -666,7 +666,7 @@
    "reliability": "primary",
    "notes": "Parent fonds P0145. Documents Montreal YMCA from founding Nov 1851 to late 20th century. Includes Harold C. Cross and Murray C. Ross research materials. 15 series. Donated to Concordia 2000-2005 from Norris Building. PDF finding aid available at concordia.accesstomemory.org/downloads/ymca-of-montreal-fonds-2.pdf. Series 12 covers all camping programs including 14 sub-series (12A-12N): Kanawana, Otoreke, Becsies, Dorval, Weredale, Perrot, Ski lodge, Thunderbird, Wilderness Survival, Voyageurs de la Vérendrye, Lac St-Joseph/Camp Jubilee, Day camp, Camping associations. [2026-08-18, p_263] ALIAS RECORD: same origin_url as src_concordia_atom_fonds, which the wiki already uses. Not unexamined material. Do not re-research; consolidate or leave, but never count as a research lead.",
    "read_state": "extracted",
-   "read_state_basis": "asserted:alias-of-src_concordia_atom_fonds"
+   "read_state_basis": "asserted:atom-js-blocked-read-via-concordia-static-mirror"
   },
   {
    "source_id": "src_concordia_atom_12B01",
@@ -989,8 +989,8 @@
    "extraction_version": null,
    "reliability": "primary",
    "notes": "BAnQ Advitam notice. Contains 'YMCA annual Drama festival & St Andrew's church postcard, 1937, c1980'. Relates to YMCA de Québec (Quebec City), not Montreal YMCA. Low priority for Kanawana research but documents YMCA presence in Quebec archives.",
-   "read_state": "unknown",
-   "read_state_basis": "derived:dormant"
+   "read_state": "unavailable",
+   "read_state_basis": "asserted:radware-captcha-never-seen"
   },
   {
    "source_id": "src_newspapers_gazette_1897",
@@ -2034,7 +2034,7 @@
    "reliability": "primary",
    "notes": "Immediately pre-camp-founding. HIGH PRIORITY — may document Cushing's 1892 Lake St. Joseph trip. WARNING: IA identifier uses '1991-1992' but actual content is the 1891-1892 annual report (metadata typo by Concordia uploader). [2026-08-18, p_263] ALIAS RECORD: same origin_url as src_ia_ymca_annual_1891_92, which the wiki already uses. Not unexamined material. Do not re-research; consolidate or leave, but never count as a research lead.",
    "read_state": "extracted",
-   "read_state_basis": "asserted:alias-of-src_ia_ymca_annual_1891_92"
+   "read_state_basis": "asserted:full-ocr-read-null-on-camping"
   },
   {
    "source_id": "src_ia_news_release_1965",
@@ -2159,8 +2159,8 @@
    "extraction_version": null,
    "reliability": "primary",
    "notes": "US-based YMCA archive holding 'YMCA in Canada records'. Pre-1912 Canadian YMCAs administered jointly by International Committee. May contain early Camp Jubilee/Kanawana material. [2026-08-18, p_263] ALIAS RECORD: same origin_url as src_umn_ymca_canada_records, which the wiki already uses. Not unexamined material. Do not re-research; consolidate or leave, but never count as a research lead.",
-   "read_state": "extracted",
-   "read_state_basis": "asserted:alias-of-src_umn_ymca_canada_records"
+   "read_state": "unavailable",
+   "read_state_basis": "asserted:aws-waf-403-and-absent-from-oai-feed"
   },
   {
    "source_id": "src_aca_dimock_bio",
@@ -3095,8 +3095,8 @@
    "extraction_version": null,
    "reliability": "secondary",
    "notes": "LoC collection of manuscripts and publications from Cooperative Recreation Service (Delaware, Ohio). Includes camp songbooks, American/international folk songs, rounds, spirituals. Contains Camp Newaygo Sings II (NCCS Camp Newaygo, Michigan, 2001). Relevant as context for the broader camp songbook tradition.",
-   "read_state": "unknown",
-   "read_state_basis": "derived:dormant"
+   "read_state": "skimmed",
+   "read_state_basis": "asserted:collection-record-only-container-list-403"
   },
   {
    "source_id": "src_waterloo_cscrp_2011",
@@ -3779,8 +3779,8 @@
    "extraction_version": "v4.21",
    "reliability": "primary",
    "notes": "Agency Liaison series lists Kanawana among Y camps alongside Wanakita, Wa-sa-ah-bun, Tapatoo, Tapawingo, Pinecrest, Camp Stephens.",
-   "read_state": "unknown",
-   "read_state_basis": "derived:dormant"
+   "read_state": "extracted",
+   "read_state_basis": "asserted:fetched-and-read"
   },
   {
    "source_id": "src_trent_qca_fonds_85_013",
@@ -3815,8 +3815,8 @@
    "extraction_version": "v4.21",
    "reliability": "primary",
    "notes": "Umbrella description for 9 accessions of CCA material. Constitution correspondence April 1940, Constitution and By-laws Jan 1946, revised Dec 3 1947, Letters Patent Nov 4 1949. 2008 additions from John Jorgenson.",
-   "read_state": "unknown",
-   "read_state_basis": "derived:dormant"
+   "read_state": "extracted",
+   "read_state_basis": "asserted:fetched-and-read"
   },
   {
    "source_id": "src_concordia_ymca_12A",
@@ -3869,8 +3869,8 @@
    "extraction_version": null,
    "reliability": "primary",
    "notes": "Full PDF finding aid for OCA fonds at Trent. May contain detailed file-level listing of Kanawana material. NOT YET FETCHED.",
-   "read_state": "unknown",
-   "read_state_basis": "derived:dormant"
+   "read_state": "extracted",
+   "read_state_basis": "asserted:145pp-pdf-read"
   },
   {
    "source_id": "src_mironline_reconciliation_camps",
@@ -3905,8 +3905,8 @@
    "extraction_version": null,
    "reliability": "primary",
    "notes": "Official publication of the CCA. Digitized. May contain Kanawana references. NOT YET FETCHED.",
-   "read_state": "unknown",
-   "read_state_basis": "derived:dormant"
+   "read_state": "extracted",
+   "read_state_basis": "asserted:full-ocr-read-null-on-kanawana"
   },
   {
    "source_id": "src_wikipedia_kirk_wipper",
@@ -8621,8 +8621,8 @@
    "extraction_version": null,
    "reliability": "primary",
    "notes": "Part of Daniel G. Hill papers. 403-blocked for fetch.",
-   "read_state": "unknown",
-   "read_state_basis": "derived:dormant"
+   "read_state": "unavailable",
+   "read_state_basis": "asserted:radware-bot-manager-never-seen"
   },
   {
    "source_id": "src_goddard_obituary",

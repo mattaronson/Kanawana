@@ -37894,6 +37894,227 @@
    "conflicts_with": [],
    "added_version": "v5.38",
    "added_by": "ralph_loop"
+  },
+  {
+   "fact_id": "f_2231",
+   "claim": "MAJOR FIND (p_263): Trent University Archives holds a KANAWANA CAMP BROCHURE DATED 1940 -- Ontario Camps Association fonds, accession 72-007, Series 1 (Camp Brochures and Photographs), Box 1, Folder 5, listed as 'Kanawana (1940)'. Access is explicitly unrestricted. This sits OUTSIDE the YMCA's own archive, so it is genuinely independent, and 1940 is a period this wiki has almost nothing on.",
+   "sources": [
+    "src_trent_oca_finding_aid_pdf"
+   ],
+   "confidence": "stated",
+   "category": "documents",
+   "entities": [
+    "Kamp Kanawana"
+   ],
+   "date_ref": "1940",
+   "conflicts_with": [],
+   "added_version": "v5.39",
+   "added_by": "ralph_loop"
+  },
+  {
+   "fact_id": "f_2232",
+   "claim": "Trent University Archives ALSO holds a Kanawana brochure from circa the 1970s -- Ontario Camping Association fonds, accession 78-006, Series F (Camp Literature and Brochures), Box 24, Folder 25, filed under 'Agency Camps' among \"'Y' camps: - Wanakita, Wa-sa-ah-bun, Tapatoo, Tapawingo, Pinecrest, Camp Stephens and Kanawana\". Note that the OCA's own filing grouped Kanawana with Pinecrest, the camp its Lumbermen-Voyageur Games were modelled on. A third relevant folder is accession 84-019 Box 1 Folder 10, titled simply 'YMCA - Montreal'.",
+   "sources": [
+    "src_trent_oca_fonds_78_006",
+    "src_trent_oca_finding_aid_pdf"
+   ],
+   "confidence": "stated",
+   "category": "documents",
+   "entities": [
+    "Kamp Kanawana",
+    "Camp Pine Crest"
+   ],
+   "date_ref": "1970s",
+   "conflicts_with": [],
+   "added_version": "v5.39",
+   "added_by": "ralph_loop"
+  },
+  {
+   "fact_id": "f_2233",
+   "claim": "INDEPENDENT NON-YMCA CONFIRMATION of the Dimock father-son link and of Dimock Jr's Kanawana role: the Ontario Camping Association's newsletter 'OCAsional News' No. 24, November 1966, states that 'DR. HEDLEY DIMOCK, Jr. of Montreal' is 'son of the well known Hedley S. Dimock', that he 'has served in many capacities in the Taylor Statten Camps and is presently consultant for the Montreal YMCA Camp, Kanawana', and that he was then 'Chairman of the Dept. of Applied Sciences at Sir George Williams University'. This ties Kanawana directly to the Concordia predecessor institution and is documentary rather than oral.",
+   "sources": [
+    "src_trent_cca_fonds_umbrella"
+   ],
+   "confidence": "stated",
+   "category": "people",
+   "entities": [
+    "Hedley Dimock"
+   ],
+   "date_ref": "1966-11",
+   "conflicts_with": [],
+   "added_version": "v5.39",
+   "added_by": "ralph_loop"
+  },
+  {
+   "fact_id": "f_2234",
+   "claim": "NEW RELATED-CAMP LEAD: 'Camp Lighthall, St. Sauveur, Quebec' appears in a Canadian Camping Association portrait series (Trent, 78-004, Box 5), representative Denise Lamer. A camp in Kanawana's OWN VILLAGE, entirely absent from this wiki. Under the CLAUDE.md placement rule it would be a connections/related-camps/ candidate if operated by a separate organisation.",
+   "sources": [
+    "src_trent_cca_fonds_umbrella"
+   ],
+   "confidence": "stated",
+   "category": "connections",
+   "entities": [
+    "Camp Lighthall"
+   ],
+   "date_ref": "1940-1974",
+   "conflicts_with": [],
+   "added_version": "v5.39",
+   "added_by": "ralph_loop"
+  },
+  {
+   "fact_id": "f_2235",
+   "claim": "CORROBORATION, NOT A NEW NAME (p_263): a research agent reported 'Derek Walsh, Kamp Kanawana, YMCA, Montreal, Quebec' from the Trent CCA portrait series as a new name for the people index. He is not new -- the directors index already records Derek Walsh as Camp Director 1974 to February 1979 and ALREADY CITES the Trent CCA fonds for him. The portrait is a distinct item within that fonds and corroborates his CCA involvement; it adds no name. Likewise R. H. Hanagan, reported as a name inside the directors gap, is already documented as Montreal YMCA camp director in 1942 and 1946.",
+   "sources": [
+    "src_trent_cca_fonds_umbrella",
+    "src_concordia_atom_fonds_p0145"
+   ],
+   "confidence": "stated",
+   "category": "people",
+   "entities": [
+    "Derek Walsh",
+    "R.H. Hanagan"
+   ],
+   "date_ref": "1946-1979",
+   "conflicts_with": [],
+   "added_version": "v5.39",
+   "added_by": "ralph_loop"
+  },
+  {
+   "fact_id": "f_2236",
+   "claim": "METHODOLOGICAL UNLOCK (p_263): Concordia's AtoM catalogue at concordia.accesstomemory.org serves a JavaScript challenge to automated clients and cannot be read. BUT Concordia publishes a STATIC HTML MIRROR of the same finding aid at www.concordia.ca/offices/archives/ymca-fonds-*.html which is unchallenged and complete -- e.g. ymca-fonds-sub-series-12A.html. The full series/sub-series/sub-sub-series tree can be walked this way. This reopens the project's single most important archival catalogue.",
+   "sources": [
+    "src_concordia_atom_fonds_p0145"
+   ],
+   "confidence": "stated",
+   "category": "meta",
+   "entities": [
+    "Concordia University Archives"
+   ],
+   "date_ref": "2026",
+   "conflicts_with": [],
+   "added_version": "v5.39",
+   "added_by": "ralph_loop"
+  },
+  {
+   "fact_id": "f_2237",
+   "claim": "From the Concordia finding aid (P145/12A), documents that physically exist and have never been read by this project: a 'Permanent Camp Committee' with minutes 1895-1896, correspondence and financial records 1899-1901, minutes 1908, a minute book 1911-1926; 'History of Kamp Kanawana, by Ralph Dawson, 1933'; 'Notes re Early Days of YMCA Camps at Lake St. Joseph and Kanawana, by R. L Charlton, 1943'; 'Historical sketches-Lake St. Joseph, by W. E. Cushing, 1943'; and -- in Box HA2166 -- promotional brochures for the 1897 and 1898 summer camp seasons pasted at pages 156 and 159 of a large scrapbook.",
+   "sources": [
+    "src_concordia_atom_fonds_p0145"
+   ],
+   "confidence": "stated",
+   "category": "documents",
+   "entities": [
+    "Ralph Dawson",
+    "R.L. Charlton",
+    "W.E. Cushing"
+   ],
+   "date_ref": "1895-1943",
+   "conflicts_with": [],
+   "added_version": "v5.39",
+   "added_by": "ralph_loop"
+  },
+  {
+   "fact_id": "f_2238",
+   "claim": "The Concordia finding aid records the institutional arc of the camp's later years: a 'Comparison of Two Boys Camps operated by Montreal YMCA' (Kamp Kanawana and Camp Perrot) from 1945 or 1946 and again 1953-1954; 'Reports on Co-ed Camping Pilot Project, 1967-1970'; a 'Proposed two-site operation-Kanawana and Weredale, 1977'; and a 1980 working document carrying 'Situation reports profiling Kamp Kanawana, Camp Otoreke and Camp Weredale' -- the three camps assessed together.",
+   "sources": [
+    "src_concordia_atom_fonds_p0145"
+   ],
+   "confidence": "stated",
+   "category": "history",
+   "entities": [
+    "Kamp Kanawana",
+    "Camp Otoreke",
+    "Camp Weredale"
+   ],
+   "date_ref": "1945-1982",
+   "conflicts_with": [],
+   "added_version": "v5.39",
+   "added_by": "ralph_loop"
+  },
+  {
+   "fact_id": "f_2239",
+   "claim": "CATALOGUING DEFECT in the Concordia finding aid itself: R. L. Charlton and R. H. Charlton appear as the author of the same 1943 'Early Days' text within the SAME sub-series, and Ralph Dawson is filed both as 'Ralph Dawson' and as 'R. H. Dawson'. Anyone matching these documents by author initial will miss one of each pair.",
+   "sources": [
+    "src_concordia_atom_fonds_p0145"
+   ],
+   "confidence": "stated",
+   "category": "sources",
+   "entities": [
+    "R.L. Charlton",
+    "Ralph Dawson"
+   ],
+   "date_ref": "1943",
+   "conflicts_with": [],
+   "added_version": "v5.39",
+   "added_by": "ralph_loop"
+  },
+  {
+   "fact_id": "f_2240",
+   "claim": "NULL RESULT (p_263), and a corroborative one: the YMCA of Montreal's 41st Annual Report, presented May 1892 and covering 1891-92, was read in full OCR and contains NO camping content of any kind -- no camp, lake, Ste-Agathe, tent, outing or excursion reference. The Association then ran a Junior Department but no camping program. This is consistent with the Concordia finding aid's record that the search for a camp lake began with a trip to St-Agathe journalled in 1893.",
+   "sources": [
+    "src_ia_annual_report_1891",
+    "src_concordia_atom_fonds_p0145"
+   ],
+   "confidence": "stated",
+   "category": "founding",
+   "entities": [
+    "YMCA of Montreal"
+   ],
+   "date_ref": "1892",
+   "conflicts_with": [],
+   "added_version": "v5.39",
+   "added_by": "ralph_loop"
+  },
+  {
+   "fact_id": "f_2241",
+   "claim": "NULL RESULT (p_263) with real adjacent content: Canadian Camping Magazine Vol 11 No 2 (February 1959) contains NO reference to Kanawana across 108KB of OCR. It does establish that the Canadian Camping Association's national office was then at 2233 Belgrave Avenue, Montreal, with a Montreal president (F. M. VanWagner) and Montreal office secretary, corresponding secretary and treasurer. It also records the CCA's own 1959 belief that 'the first Canadian Y.M.C.A. boys' camp... was organized by the Y.M.C.A. Committee of the Maritime Province and held at Chance Harbour, N.S., in the summer of 1889' -- five years before Kanawana, and stated as belief ('so far as we can discover'), not established fact.",
+   "sources": [
+    "src_archive_org_canadian_camping_1959"
+   ],
+   "confidence": "stated",
+   "category": "connections",
+   "entities": [
+    "Canadian Camping Association"
+   ],
+   "date_ref": "1959",
+   "conflicts_with": [],
+   "added_version": "v5.39",
+   "added_by": "ralph_loop"
+  },
+  {
+   "fact_id": "f_2242",
+   "claim": "HOST-LEVEL ACCESS BLOCKS, recorded once rather than rediscovered per item (p_263). NOT nulls: advitam.banq.qc.ca and archives.gov.on.ca both serve Radware Bot Manager CAPTCHAs; archives.lib.umn.edu serves an AWS WAF challenge and its resource 992 is absent from the OAI-PMH feed; findingaids.loc.gov returns 403 to everything; concordia.accesstomemory.org serves a JS challenge; and web.archive.org is blocked by this environment's egress policy while bare archive.org works normally. Four sources -- the BAnQ Advitam notice, the UMN Kautz finding aid, the Archives of Ontario Potter-to-Hill letter, and the LOC container list -- were therefore NEVER SEEN and nothing may be concluded about their contents.",
+   "sources": [
+    "src_banq_advitam_315906",
+    "src_umn_kautz_ymca",
+    "src_ontario_archives_potter_hill",
+    "src_loc_crs_collection"
+   ],
+   "confidence": "disputed",
+   "category": "meta",
+   "entities": [
+    "sources.json"
+   ],
+   "date_ref": "2026",
+   "conflicts_with": [],
+   "added_version": "v5.39",
+   "added_by": "ralph_loop"
+  },
+  {
+   "fact_id": "f_2243",
+   "claim": "SCOPE-LIMITED NULL (p_263): the Library of Congress Cooperative Recreation Service collection (AFC 2016/051, 1924-2011, donated by Bruce Greene) shows no Kanawana, Canada or YMCA content IN ITS COLLECTION-LEVEL ABSTRACT AND SUBJECT HEADINGS. The container and folder list lives in an EAD on findingaids.loc.gov, which returns 403, and was NOT read -- so the null does not reach folder level. This matters because CRS, under Lynn Rohrbough, was the standard supplier of North American camp songbooks in Kanawana's mid-century period, publishing titles such as 'Songs of the wigwam' (1955) and 'Work and sing' (1944).",
+   "sources": [
+    "src_loc_crs_collection"
+   ],
+   "confidence": "inferred",
+   "category": "traditions",
+   "entities": [
+    "Cooperative Recreation Service"
+   ],
+   "date_ref": "1924-2011",
+   "conflicts_with": [],
+   "added_version": "v5.39",
+   "added_by": "ralph_loop"
   }
  ]
 }

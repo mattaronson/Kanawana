@@ -3343,6 +3343,66 @@
    "created_at": "2026-08-18T00:00:00Z",
    "status": "pending",
    "notes": "Spawned by the p_263 dormant-source RALPH loop (hypothesize phase)."
+  },
+  {
+   "priority_id": "p_267",
+   "rank": 267,
+   "type": "RESEARCH",
+   "description": "OPERATOR ACTION: request three folders from Trent University Archives (archives@trentu.ca, 705-748-1011 x7413; access explicitly unrestricted). (1) OCA fonds 72-007, Series 1, Box 1, Folder 5 -- a KANAWANA BROCHURE DATED 1940. (2) OCA fonds 78-006, Series F, Box 24, Folder 25 -- a Kanawana brochure c.1970s, filed among 'Y' camps with Pine Crest. (3) 84-019, Box 1, Folder 10 -- 'YMCA - Montreal'. The 1940 brochure is the single highest-value unread document this project has ever located: it sits OUTSIDE the YMCA's own archive, so it is independent corroboration, and it covers a decade the wiki is thin on. A brochure typically carries fees, session dates, programme, section names and staff.",
+   "article_id": "documents",
+   "blocking": false,
+   "assigned_weight": "P0",
+   "created_at": "2026-08-18T00:00:00Z",
+   "status": "pending",
+   "notes": "Spawned by the p_263 dormant-source RALPH loop (hypothesize phase)."
+  },
+  {
+   "priority_id": "p_268",
+   "rank": 268,
+   "type": "RESEARCH",
+   "description": "Walk Concordia's STATIC HTML MIRROR of the YMCA fonds finding aid: www.concordia.ca/offices/archives/ymca-fonds-*.html (confirmed patterns include ymca-fonds-sub-series-12A.html and ymca-fonds-sub-sub-series-5E05.html). The AtoM catalogue itself serves a JS challenge and is unreadable to automated clients, which is why this finding aid has never been systematically harvested. The 12A page alone yielded Permanent Camp Committee minutes 1895-1926, Ralph Dawson's 1933 history, Charlton's and Cushing's 1943 accounts, the 1897 and 1898 camp brochures in scrapbook Box HA2166, and the 1977 Kanawana-Weredale two-site proposal. Enumerate the whole tree.",
+   "article_id": "documents",
+   "blocking": false,
+   "assigned_weight": "P0",
+   "created_at": "2026-08-18T00:00:00Z",
+   "status": "pending",
+   "notes": "Spawned by the p_263 dormant-source RALPH loop (hypothesize phase)."
+  },
+  {
+   "priority_id": "p_269",
+   "rank": 269,
+   "type": "RESEARCH",
+   "description": "Camp Lighthall, St. Sauveur, Quebec -- a camp in Kanawana's OWN VILLAGE, named in a Canadian Camping Association portrait series at Trent (78-004 Box 5, representative Denise Lamer) and entirely absent from this wiki. Establish operator, dates and any Kanawana relationship. If run by a separate organisation it is a connections/related-camps/ stub; if it turns out to be a YMCA site it is core site/.",
+   "article_id": "connections",
+   "blocking": false,
+   "assigned_weight": "P2",
+   "created_at": "2026-08-18T00:00:00Z",
+   "status": "pending",
+   "notes": "Spawned by the p_263 dormant-source RALPH loop (hypothesize phase)."
+  },
+  {
+   "priority_id": "p_270",
+   "rank": 270,
+   "type": "RESEARCH",
+   "description": "Run an Internet Archive COLLECTION-WIDE full-text search for Kanawana across collection:canadian-camping-association, rather than issue-by-issue. The Feb 1959 issue OCRs cleanly and the whole run is full-text searchable. Canadian Camping Magazine is the national trade journal of the period and would carry Kanawana programme notes, staff moves and conference reports. NOTE the Phase 2 trap: use the full-text endpoint, not advancedsearch.php, which indexes metadata only.",
+   "article_id": "meta",
+   "blocking": false,
+   "assigned_weight": "P1",
+   "created_at": "2026-08-18T00:00:00Z",
+   "status": "pending",
+   "notes": "Spawned by the p_263 dormant-source RALPH loop (hypothesize phase)."
+  },
+  {
+   "priority_id": "p_271",
+   "rank": 271,
+   "type": "VERIFY",
+   "description": "OPERATOR-ASSISTED FETCHES for four host-blocked sources, all of which are unread rather than empty: advitam.banq.qc.ca notice 315906 and archives.gov.on.ca (both Radware Bot Manager CAPTCHA); archives.lib.umn.edu resource 992 (AWS WAF, and absent from the OAI feed); findingaids.loc.gov (403 on everything). For the Archives of Ontario, fetch BOTH the Potter-to-Hill letter of 8 Aug 1963 AND Hill's reply of 11 Sept 1963 (big_039), which the original brief missed. Also record these host blocks in the source index so they are not rediscovered per item.",
+   "article_id": "sources",
+   "blocking": false,
+   "assigned_weight": "P2",
+   "created_at": "2026-08-18T00:00:00Z",
+   "status": "pending",
+   "notes": "Spawned by the p_263 dormant-source RALPH loop (hypothesize phase)."
   }
  ]
 }
