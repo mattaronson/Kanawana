@@ -37108,6 +37108,207 @@
    "conflicts_with": [],
    "added_version": "v5.35",
    "added_by": "manual"
+  },
+  {
+   "fact_id": "f_2184",
+   "claim": "ALIAS (p_263, 2026-08-18): source record src_ia_annual_report_1891 is the SAME DOCUMENT as src_ia_ymca_annual_1891_92 -- identical origin_url -- and the wiki already cites the twin. It was counted as a dormant, unexamined source only because it carries a second id. Eight of the 53 dormant sources are aliases of this kind, which means the genuinely unexamined set is 45, not 53.",
+   "sources": [
+    "src_ia_annual_report_1891",
+    "src_ia_ymca_annual_1891_92"
+   ],
+   "confidence": "stated",
+   "category": "meta",
+   "entities": [
+    "sources.json"
+   ],
+   "date_ref": "2026",
+   "conflicts_with": [],
+   "added_version": "v5.36",
+   "added_by": "ralph_loop"
+  },
+  {
+   "fact_id": "f_2185",
+   "claim": "ALIAS (p_263, 2026-08-18): source record src_umn_kautz_ymca is the SAME DOCUMENT as src_umn_ymca_canada_records -- identical origin_url -- and the wiki already cites the twin. It was counted as a dormant, unexamined source only because it carries a second id. Eight of the 53 dormant sources are aliases of this kind, which means the genuinely unexamined set is 45, not 53.",
+   "sources": [
+    "src_umn_kautz_ymca",
+    "src_umn_ymca_canada_records"
+   ],
+   "confidence": "stated",
+   "category": "meta",
+   "entities": [
+    "sources.json"
+   ],
+   "date_ref": "2026",
+   "conflicts_with": [],
+   "added_version": "v5.36",
+   "added_by": "ralph_loop"
+  },
+  {
+   "fact_id": "f_2186",
+   "claim": "ALIAS (p_263, 2026-08-18): source record src_cmat_caddell_obituary is the SAME DOCUMENT as src_cmat_caddell_memorial -- identical origin_url -- and the wiki already cites the twin. It was counted as a dormant, unexamined source only because it carries a second id. Eight of the 53 dormant sources are aliases of this kind, which means the genuinely unexamined set is 45, not 53.",
+   "sources": [
+    "src_cmat_caddell_obituary",
+    "src_cmat_caddell_memorial"
+   ],
+   "confidence": "stated",
+   "category": "meta",
+   "entities": [
+    "sources.json"
+   ],
+   "date_ref": "2026",
+   "conflicts_with": [],
+   "added_version": "v5.36",
+   "added_by": "ralph_loop"
+  },
+  {
+   "fact_id": "f_2187",
+   "claim": "ALIAS (p_263, 2026-08-18): source record src_concordia_atom_fonds_p0145 is the SAME DOCUMENT as src_concordia_atom_fonds -- identical origin_url -- and the wiki already cites the twin. It was counted as a dormant, unexamined source only because it carries a second id. Eight of the 53 dormant sources are aliases of this kind, which means the genuinely unexamined set is 45, not 53.",
+   "sources": [
+    "src_concordia_atom_fonds_p0145",
+    "src_concordia_atom_fonds"
+   ],
+   "confidence": "stated",
+   "category": "meta",
+   "entities": [
+    "sources.json"
+   ],
+   "date_ref": "2026",
+   "conflicts_with": [],
+   "added_version": "v5.36",
+   "added_by": "ralph_loop"
+  },
+  {
+   "fact_id": "f_2188",
+   "claim": "ALIAS (p_263, 2026-08-18): source record src_wp_mosher is the SAME DOCUMENT as src_wikipedia_mosher -- identical origin_url -- and the wiki already cites the twin. It was counted as a dormant, unexamined source only because it carries a second id. Eight of the 53 dormant sources are aliases of this kind, which means the genuinely unexamined set is 45, not 53.",
+   "sources": [
+    "src_wp_mosher",
+    "src_wikipedia_mosher"
+   ],
+   "confidence": "stated",
+   "category": "meta",
+   "entities": [
+    "sources.json"
+   ],
+   "date_ref": "2026",
+   "conflicts_with": [],
+   "added_version": "v5.36",
+   "added_by": "ralph_loop"
+  },
+  {
+   "fact_id": "f_2189",
+   "claim": "ALIAS (p_263, 2026-08-18): source record src_canadapost_mosher is the SAME DOCUMENT as src_canada_post_mosher_2021 -- identical origin_url -- and the wiki already cites the twin. It was counted as a dormant, unexamined source only because it carries a second id. Eight of the 53 dormant sources are aliases of this kind, which means the genuinely unexamined set is 45, not 53.",
+   "sources": [
+    "src_canadapost_mosher",
+    "src_canada_post_mosher_2021"
+   ],
+   "confidence": "stated",
+   "category": "meta",
+   "entities": [
+    "sources.json"
+   ],
+   "date_ref": "2026",
+   "conflicts_with": [],
+   "added_version": "v5.36",
+   "added_by": "ralph_loop"
+  },
+  {
+   "fact_id": "f_2190",
+   "claim": "ALIAS (p_263, 2026-08-18): source record src_instagram_ymcakanawana is the SAME DOCUMENT as src_instagram_kanawana -- identical origin_url -- and the wiki already cites the twin. It was counted as a dormant, unexamined source only because it carries a second id. Eight of the 53 dormant sources are aliases of this kind, which means the genuinely unexamined set is 45, not 53.",
+   "sources": [
+    "src_instagram_ymcakanawana",
+    "src_instagram_kanawana"
+   ],
+   "confidence": "stated",
+   "category": "meta",
+   "entities": [
+    "sources.json"
+   ],
+   "date_ref": "2026",
+   "conflicts_with": [],
+   "added_version": "v5.36",
+   "added_by": "ralph_loop"
+  },
+  {
+   "fact_id": "f_2191",
+   "claim": "ALIAS (p_263, 2026-08-18): source record src_cae_mosher is the SAME DOCUMENT as src_canadian_encyclopedia_mosher -- identical origin_url -- and the wiki already cites the twin. It was counted as a dormant, unexamined source only because it carries a second id. Eight of the 53 dormant sources are aliases of this kind, which means the genuinely unexamined set is 45, not 53.",
+   "sources": [
+    "src_cae_mosher",
+    "src_canadian_encyclopedia_mosher"
+   ],
+   "confidence": "stated",
+   "category": "meta",
+   "entities": [
+    "sources.json"
+   ],
+   "date_ref": "2026",
+   "conflicts_with": [],
+   "added_version": "v5.36",
+   "added_by": "ralph_loop"
+  },
+  {
+   "fact_id": "f_2192",
+   "claim": "NULL RESULT (p_263, 2026-08-18): The College Bulletin, Sir George Williams College, September 1932 -- 1,327 lines read in full from the local corpus copy. The word \"camp\" does not occur anywhere in the issue. Genuine null for Kanawana.",
+   "sources": [
+    "src_ia_college_bulletin_1932"
+   ],
+   "confidence": "stated",
+   "category": "meta",
+   "entities": [
+    "Kamp Kanawana"
+   ],
+   "date_ref": "1932-1980",
+   "conflicts_with": [],
+   "added_version": "v5.36",
+   "added_by": "ralph_loop"
+  },
+  {
+   "fact_id": "f_2193",
+   "claim": "NULL RESULT (p_263, 2026-08-18): YMCA of Montreal news release, 27 April 1965 (\"Y.M.C.A. Raises Largest Sum in Its History\") -- 76 lines read in full. All six occurrences of the string \"camp\" are the word \"Campaign\"; the release is about the 1965 fundraising campaign total and names no camp. Genuine null for Kanawana.",
+   "sources": [
+    "src_ia_news_release_1965"
+   ],
+   "confidence": "stated",
+   "category": "meta",
+   "entities": [
+    "Kamp Kanawana"
+   ],
+   "date_ref": "1932-1980",
+   "conflicts_with": [],
+   "added_version": "v5.36",
+   "added_by": "ralph_loop"
+  },
+  {
+   "fact_id": "f_2194",
+   "claim": "NULL RESULT (p_263, 2026-08-18): YMCA of Montreal news release, 17 March 1980 (\"The Montreal YMCA is back in Pointe St-Charles\") -- 52 lines read in full. No occurrence of \"camp\" at all; the release concerns the Pointe St-Charles Boys and Girls Club agreement. Genuine null for Kanawana.",
+   "sources": [
+    "src_ia_news_release_1980"
+   ],
+   "confidence": "stated",
+   "category": "meta",
+   "entities": [
+    "Kamp Kanawana"
+   ],
+   "date_ref": "1932-1980",
+   "conflicts_with": [],
+   "added_version": "v5.36",
+   "added_by": "ralph_loop"
+  },
+  {
+   "fact_id": "f_2195",
+   "claim": "METHOD (p_263): the 1891-92 YMCA of Montreal annual report is filed on Internet Archive under the identifier 'sgw-ymca-annual-report-1991-1992' -- misdated by a century -- and the project holds TWO source records for it. The passage 'The Out-door Work suffers from the disadvantage of not owning suitable grounds' is quoted in founding-1894.md and cushing-family.md under the twin id, so the document was never unread; only its second id looked unexamined.",
+   "sources": [
+    "src_ia_annual_report_1891",
+    "src_ia_ymca_annual_1891_92"
+   ],
+   "confidence": "stated",
+   "category": "meta",
+   "entities": [
+    "YMCA of Montreal"
+   ],
+   "date_ref": "1892",
+   "conflicts_with": [],
+   "added_version": "v5.36",
+   "added_by": "ralph_loop"
   }
  ]
 }

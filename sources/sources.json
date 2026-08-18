@@ -664,9 +664,9 @@
    "extracted": true,
    "extraction_version": "4.3",
    "reliability": "primary",
-   "notes": "Parent fonds P0145. Documents Montreal YMCA from founding Nov 1851 to late 20th century. Includes Harold C. Cross and Murray C. Ross research materials. 15 series. Donated to Concordia 2000-2005 from Norris Building. PDF finding aid available at concordia.accesstomemory.org/downloads/ymca-of-montreal-fonds-2.pdf. Series 12 covers all camping programs including 14 sub-series (12A-12N): Kanawana, Otoreke, Becsies, Dorval, Weredale, Perrot, Ski lodge, Thunderbird, Wilderness Survival, Voyageurs de la Vérendrye, Lac St-Joseph/Camp Jubilee, Day camp, Camping associations.",
-   "read_state": "unknown",
-   "read_state_basis": "derived:dormant"
+   "notes": "Parent fonds P0145. Documents Montreal YMCA from founding Nov 1851 to late 20th century. Includes Harold C. Cross and Murray C. Ross research materials. 15 series. Donated to Concordia 2000-2005 from Norris Building. PDF finding aid available at concordia.accesstomemory.org/downloads/ymca-of-montreal-fonds-2.pdf. Series 12 covers all camping programs including 14 sub-series (12A-12N): Kanawana, Otoreke, Becsies, Dorval, Weredale, Perrot, Ski lodge, Thunderbird, Wilderness Survival, Voyageurs de la Vérendrye, Lac St-Joseph/Camp Jubilee, Day camp, Camping associations. [2026-08-18, p_263] ALIAS RECORD: same origin_url as src_concordia_atom_fonds, which the wiki already uses. Not unexamined material. Do not re-research; consolidate or leave, but never count as a research lead.",
+   "read_state": "extracted",
+   "read_state_basis": "asserted:alias-of-src_concordia_atom_fonds"
   },
   {
    "source_id": "src_concordia_atom_12B01",
@@ -1456,9 +1456,9 @@
    "extracted": true,
    "extraction_version": "4.7",
    "reliability": "secondary",
-   "notes": "Globe and Mail obituary hosted on CMAT website. Full biography: birth, education, military, peacekeeping, death in Tupiza, Bolivia.",
-   "read_state": "unknown",
-   "read_state_basis": "derived:dormant"
+   "notes": "Globe and Mail obituary hosted on CMAT website. Full biography: birth, education, military, peacekeeping, death in Tupiza, Bolivia. [2026-08-18, p_263] ALIAS RECORD: same origin_url as src_cmat_caddell_memorial, which the wiki already uses. Not unexamined material. Do not re-research; consolidate or leave, but never count as a research lead.",
+   "read_state": "extracted",
+   "read_state_basis": "asserted:alias-of-src_cmat_caddell_memorial"
   },
   {
    "source_id": "src_mcgill_news_caddell",
@@ -1997,8 +1997,8 @@
    "extraction_version": "v4.99",
    "reliability": "primary",
    "notes": "SGW College (now Concordia) newsletter. May contain YMCA/camp references. 10.1M. Extracted 2026-07-08 (direct fetch): no mention of Camp/Kamp Kanawana or YMCA summer camping anywhere in this SGW College Bulletin issue -- genuine null result, nothing further to extract.",
-   "read_state": "unknown",
-   "read_state_basis": "derived:dormant"
+   "read_state": "extracted",
+   "read_state_basis": "asserted:read-in-full-null-result"
   },
   {
    "source_id": "src_ia_annual_report_1889",
@@ -2032,9 +2032,9 @@
    "extracted": false,
    "extraction_version": null,
    "reliability": "primary",
-   "notes": "Immediately pre-camp-founding. HIGH PRIORITY — may document Cushing's 1892 Lake St. Joseph trip. WARNING: IA identifier uses '1991-1992' but actual content is the 1891-1892 annual report (metadata typo by Concordia uploader).",
-   "read_state": "unknown",
-   "read_state_basis": "derived:dormant"
+   "notes": "Immediately pre-camp-founding. HIGH PRIORITY — may document Cushing's 1892 Lake St. Joseph trip. WARNING: IA identifier uses '1991-1992' but actual content is the 1891-1892 annual report (metadata typo by Concordia uploader). [2026-08-18, p_263] ALIAS RECORD: same origin_url as src_ia_ymca_annual_1891_92, which the wiki already uses. Not unexamined material. Do not re-research; consolidate or leave, but never count as a research lead.",
+   "read_state": "extracted",
+   "read_state_basis": "asserted:alias-of-src_ia_ymca_annual_1891_92"
   },
   {
    "source_id": "src_ia_news_release_1965",
@@ -2051,8 +2051,8 @@
    "extraction_version": "v4.99",
    "reliability": "primary",
    "notes": "YMCA Montreal 1965 campaign raised $283,674. May reference camp funding. Extracted 2026-07-08 (direct fetch): 1965 fundraising-campaign news release, no mention of Camp Kanawana or camping programs -- genuine null result.",
-   "read_state": "unknown",
-   "read_state_basis": "derived:dormant"
+   "read_state": "extracted",
+   "read_state_basis": "asserted:read-in-full-null-result"
   },
   {
    "source_id": "src_ia_news_release_1980",
@@ -2069,8 +2069,8 @@
    "extraction_version": "v4.99",
    "reliability": "primary",
    "notes": "YMCA institutional context. In ymca-montreal-fonds IA collection. Extracted 2026-07-08 (direct fetch): 1980 Pointe-Saint-Charles community-centre news release, no mention of Camp Kanawana or camping programs -- genuine null result.",
-   "read_state": "unknown",
-   "read_state_basis": "derived:dormant"
+   "read_state": "extracted",
+   "read_state_basis": "asserted:read-in-full-null-result"
   },
   {
    "source_id": "src_newspapers_gazette_1913",
@@ -2158,9 +2158,9 @@
    "extracted": false,
    "extraction_version": null,
    "reliability": "primary",
-   "notes": "US-based YMCA archive holding 'YMCA in Canada records'. Pre-1912 Canadian YMCAs administered jointly by International Committee. May contain early Camp Jubilee/Kanawana material.",
-   "read_state": "unknown",
-   "read_state_basis": "derived:dormant"
+   "notes": "US-based YMCA archive holding 'YMCA in Canada records'. Pre-1912 Canadian YMCAs administered jointly by International Committee. May contain early Camp Jubilee/Kanawana material. [2026-08-18, p_263] ALIAS RECORD: same origin_url as src_umn_ymca_canada_records, which the wiki already uses. Not unexamined material. Do not re-research; consolidate or leave, but never count as a research lead.",
+   "read_state": "extracted",
+   "read_state_basis": "asserted:alias-of-src_umn_ymca_canada_records"
   },
   {
    "source_id": "src_aca_dimock_bio",
@@ -2446,9 +2446,9 @@
    "extracted": false,
    "extraction_version": null,
    "reliability": "secondary",
-   "notes": "Official Instagram account. 571 posts, 1,824 followers. Showcases '125+ years of memories'. May contain historical photos in addition to contemporary content.",
-   "read_state": "unknown",
-   "read_state_basis": "derived:dormant"
+   "notes": "Official Instagram account. 571 posts, 1,824 followers. Showcases '125+ years of memories'. May contain historical photos in addition to contemporary content. [2026-08-18, p_263] ALIAS RECORD: same origin_url as src_instagram_kanawana, which the wiki already uses. Not unexamined material. Do not re-research; consolidate or leave, but never count as a research lead.",
+   "read_state": "extracted",
+   "read_state_basis": "asserted:alias-of-src_instagram_kanawana"
   },
   {
    "source_id": "src_cathy_reeves_documentary_1993",
@@ -4462,9 +4462,9 @@
    "extracted": true,
    "extraction_version": "ralph-mosher-r1-2026-03-15",
    "reliability": "secondary",
-   "notes": "Wikipedia biography. Cross-referenced against Canadian Encyclopedia, Canada Post profile, and Concordia citation.",
-   "read_state": "unknown",
-   "read_state_basis": "derived:dormant"
+   "notes": "Wikipedia biography. Cross-referenced against Canadian Encyclopedia, Canada Post profile, and Concordia citation. [2026-08-18, p_263] ALIAS RECORD: same origin_url as src_wikipedia_mosher, which the wiki already uses. Not unexamined material. Do not re-research; consolidate or leave, but never count as a research lead.",
+   "read_state": "extracted",
+   "read_state_basis": "asserted:alias-of-src_wikipedia_mosher"
   },
   {
    "source_id": "src_cae_mosher",
@@ -4480,9 +4480,9 @@
    "extracted": true,
    "extraction_version": "ralph-mosher-r1-2026-03-15",
    "reliability": "secondary",
-   "notes": "Canadian Encyclopedia entry. Peer-reviewed reference source.",
-   "read_state": "unknown",
-   "read_state_basis": "derived:dormant"
+   "notes": "Canadian Encyclopedia entry. Peer-reviewed reference source. [2026-08-18, p_263] ALIAS RECORD: same origin_url as src_canadian_encyclopedia_mosher, which the wiki already uses. Not unexamined material. Do not re-research; consolidate or leave, but never count as a research lead.",
+   "read_state": "extracted",
+   "read_state_basis": "asserted:alias-of-src_canadian_encyclopedia_mosher"
   },
   {
    "source_id": "src_canadapost_mosher",
@@ -4498,9 +4498,9 @@
    "extracted": true,
    "extraction_version": "ralph-mosher-r1-2026-03-15",
    "reliability": "primary",
-   "notes": "Canada Post profile for 2021 commemorative stamp. Childhood in Montreal, Rue du Trésor, Richard Riot witness.",
-   "read_state": "unknown",
-   "read_state_basis": "derived:dormant"
+   "notes": "Canada Post profile for 2021 commemorative stamp. Childhood in Montreal, Rue du Trésor, Richard Riot witness. [2026-08-18, p_263] ALIAS RECORD: same origin_url as src_canada_post_mosher_2021, which the wiki already uses. Not unexamined material. Do not re-research; consolidate or leave, but never count as a research lead.",
+   "read_state": "extracted",
+   "read_state_basis": "asserted:alias-of-src_canada_post_mosher_2021"
   },
   {
    "source_id": "src_concordia_mosher_2018",

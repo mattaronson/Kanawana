@@ -44,6 +44,15 @@ record as though it were a finding.
      necessarily a defect -- a genuine null result is dormant and should be --
      but a dormant source with read_state 'unknown' is unexamined material the
      project has forgotten it holds.
+  L. ALIAS RECORDS. Two source records with DIFFERENT ids but the SAME origin_url
+     are the same document registered twice. This is not the same defect as K
+     (one id held by several records) and K cannot see it. It matters because an
+     alias can be DORMANT while its twin is cited all over the wiki, which makes
+     the dormancy report (I) overstate how much material is genuinely unexamined:
+     8 of the 53 sources flagged dormant on 2026-08-18 turned out to be aliases
+     of live sources, including the 1891-92 annual report whose "Out-door Work
+     suffers from the disadvantage of not owning suitable grounds" is quoted in
+     two articles under the twin id.
   J. CONFLICT PASSAGES. Every position in a conflict record must carry the FULL
      surrounding passage, not just the claim restated. c_024 was filed as an
      unresolvable human-decision-point on the strength of a quoted span; the
@@ -299,6 +308,32 @@ for s in sorted(dormant, key=lambda x: (x.get('read_state') or 'zzz', x['source_
     print('     %-46s [%s] %s' % (s['source_id'],
                                   s.get('read_state') or 'NO read_state',
                                   (s.get('title') or '')[:70]))
+
+# --- L: alias records (same URL, different id) -------------------------------
+byurl = defaultdict(list)
+for s in sources:
+    u = (s.get('origin_url') or '').strip().rstrip('/')
+    if u:
+        byurl[u].append(s['source_id'])
+alias_groups = []
+for u, ids in sorted(byurl.items()):
+    uniq = sorted(set(ids))
+    if len(uniq) > 1:
+        live = lambda i: i in cited_by_fact or i in named_in_wiki
+        marks = [(i, 'live' if live(i) else 'DORMANT') for i in uniq]
+        shadowing = any(m == 'DORMANT' for _, m in marks) and any(m == 'live' for _, m in marks)
+        alias_groups.append((u, marks, shadowing))
+shadow_groups = [g for g in alias_groups if g[2]]
+
+print('\nL. ALIAS RECORDS -- %d URL(s) registered under more than one source_id' % len(alias_groups))
+print('     of those, %d have a DORMANT id shadowing a live one -- these are NOT' % len(shadow_groups))
+print('     unexamined material, they are the same document counted twice:')
+if not shadow_groups:
+    print('     none')
+for u, marks, _ in shadow_groups:
+    print('     %s' % u[:92])
+    for i, m in marks:
+        print('        %-8s %s' % (m, i))
 
 print('\nJ. CONFLICT PASSAGES -- %d position(s) across %d conflict(s) without a full passage'
       % (len(thin_positions), len(set(x[0] for x in thin_positions))))
