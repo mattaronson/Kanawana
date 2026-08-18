@@ -1043,8 +1043,8 @@
    "extraction_version": null,
    "reliability": "primary",
    "notes": "Second Gazette article from same 1918 summer season. Paywall prevents full extraction.",
-   "read_state": "unknown",
-   "read_state_basis": "derived:dormant"
+   "read_state": "extracted",
+   "read_state_basis": "asserted:newspapers-com-403-content-recovered-via-google-books"
   },
   {
    "source_id": "src_lapresse_ymca_2018",
@@ -2699,8 +2699,8 @@
    "extraction_version": null,
    "reliability": "primary",
    "notes": "Gazette article about summer camps including Kanawana. Behind newspapers.com paywall. Discovered via web search 2026-03-15.",
-   "read_state": "unknown",
-   "read_state_basis": "derived:dormant"
+   "read_state": "extracted",
+   "read_state_basis": "asserted:newspapers-com-403-content-recovered-via-google-books"
   },
   {
    "source_id": "src_gazette_covid_2021",
@@ -2735,8 +2735,8 @@
    "extraction_version": null,
    "reliability": "primary",
    "notes": "Montreal Gazette article mentioning Camp Kanawana, available via PressReader. Full content behind paywall. Discovered via web search 2026-03-15.",
-   "read_state": "unknown",
-   "read_state_basis": "derived:dormant"
+   "read_state": "unavailable",
+   "read_state_basis": "asserted:pressreader-js-only-and-paywalled-body-never-seen"
   },
   {
    "source_id": "src_montreal_families_gender_2022",
@@ -4085,8 +4085,8 @@
    "extraction_version": null,
    "reliability": "secondary",
    "notes": "La Presse article on FitSpirit event held at Camp Kanawana YMCA. Girls' wellness/physical activity program. French-language. Discovered via web search 2026-03-15.",
-   "read_state": "unknown",
-   "read_state_basis": "derived:dormant"
+   "read_state": "extracted",
+   "read_state_basis": "asserted:fetched-full-body-via-curl"
   },
   {
    "source_id": "src_lapresse_desjardins_2018",
@@ -7505,8 +7505,8 @@
    "extraction_version": null,
    "reliability": "primary",
    "notes": "BAnQ digitized. Le Petit Journal references Kanawana in 10 issues: 1937-06-27, 1942-07-12, 1945-12-23, 1949-10-02, 1961-06-18, 1963-03-31, 1963-09-29, 1965-02-14, 1967-04-30, 1999-11-30. Full text blocked by 403.",
-   "read_state": "unknown",
-   "read_state_basis": "derived:dormant"
+   "read_state": "extracted",
+   "read_state_basis": "asserted:single-issue-1937-06-27-ocr-verified-null"
   },
   {
    "source_id": "src_banq_huntingdon_gleaner",
@@ -7523,8 +7523,8 @@
    "extraction_version": null,
    "reliability": "primary",
    "notes": "BAnQ digitized. Huntingdon Gleaner references Kanawana on 1933-07-26 and 1949-07-20. Full text blocked by 403.",
-   "read_state": "unknown",
-   "read_state_basis": "derived:dormant"
+   "read_state": "extracted",
+   "read_state_basis": "asserted:single-issue-1933-07-26-ocr-verified-null"
   },
   {
    "source_id": "src_ia_ymca_annual_report_1966_67",

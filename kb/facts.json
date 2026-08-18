@@ -38115,6 +38115,138 @@
    "conflicts_with": [],
    "added_version": "v5.39",
    "added_by": "ralph_loop"
+  },
+  {
+   "fact_id": "f_2244",
+   "claim": "MAJOR CAPABILITY (p_263): THE ENTIRE MONTREAL GAZETTE, 1878 to 2006, IS FREE-TEXT SEARCHABLE VIA GOOGLE BOOKS / GOOGLE NEWS ARCHIVE (24,895 issues, nid=Fr8DH2VBP9sC). Issue volume ids resolve from news.google.com/newspapers?nid=Fr8DH2VBP9sC&dat=YYYYMMDD, and each is searchable at books.google.com/books?id=<volumeId>&q=Kanawana. Both Gazette clips that newspapers.com blocks behind Cloudflare were recovered in full this way. This directly attacks the Phase 2 open questions -- director names, Billy Ball, Harold C. Cross, W. E. Cushing, Ralph Dawson -- each now one query away.",
+   "sources": [
+    "src_newspapers_gazette_1918b",
+    "src_newspapers_gazette_1974"
+   ],
+   "confidence": "stated",
+   "category": "meta",
+   "entities": [
+    "The Gazette"
+   ],
+   "date_ref": "1878-2006",
+   "conflicts_with": [],
+   "added_version": "v5.40",
+   "added_by": "ralph_loop"
+  },
+  {
+   "fact_id": "f_2245",
+   "claim": "THE 1918 SEASON IN DETAIL, from the Gazette of 27 July 1918 (recovered via Google Books after newspapers.com blocked access): 'At the Y.M.C.A. boys' camp at Kanawana there are now about 90 boys whose ages range from 12 to 17 years.' The boys 'sleep under canvas' and are 'wakened at [6].30 a.m. by a bugle', a welcome summons because it means 'the morning dip, which is preceded by physical exercises'. 'Nearly all the boys can swim, and many become expert oarsmen -- twelve rowboats and six canoes are at their disposal.' Meals were 'served in the dining pavilion'.",
+   "sources": [
+    "src_newspapers_gazette_1918b"
+   ],
+   "confidence": "stated",
+   "category": "history",
+   "entities": [
+    "Kamp Kanawana"
+   ],
+   "date_ref": "1918-07-27",
+   "conflicts_with": [],
+   "added_version": "v5.40",
+   "added_by": "ralph_loop"
+  },
+  {
+   "fact_id": "f_2246",
+   "claim": "TWO NEW 1918 STAFF NAMES from the same Gazette report: 'the camp cook is Mr. Harry Smith, from the Montreal High School, and being well acquainted with boys' appetites, the campers never have to go short'; and 'Lessons in basketry and woodwork are given by Mr. Robert Spinney'. Woodcraft was 'one of the special features of this year's camp', with 'long rambles... giving the boys a chance to study nature'. Neither man is otherwise known to this project.",
+   "sources": [
+    "src_newspapers_gazette_1918b"
+   ],
+   "confidence": "stated",
+   "category": "people",
+   "entities": [
+    "Harry Smith",
+    "Robert Spinney"
+   ],
+   "date_ref": "1918",
+   "conflicts_with": [],
+   "added_version": "v5.40",
+   "added_by": "ralph_loop"
+  },
+  {
+   "fact_id": "f_2247",
+   "claim": "THE 1974 SEASON, from the Gazette summer-camp feature of 18 April 1974 (recovered via Google Books): Kanawana is listed under 'RESIDENTIAL CAMPS - CO-ED' and 'was billed as Quebec's oldest boys' camp until sister campers invaded four years ago'. That summer '90 boys and 90 girls' were expected. Facilities: 'canoes, sailboats, handicraft shop'. Location 'just outside St. Sauveur'. The stated rationale for coeducation, quoted from a YMCA public relations manager: 'We went co-ed in response to requests from parents who wanted their daughters to have the same opportunities as their sons.' And a striking demographic figure: 'French campers constitute 30 per cent of the Kanawana population.'",
+   "sources": [
+    "src_newspapers_gazette_1974"
+   ],
+   "confidence": "stated",
+   "category": "history",
+   "entities": [
+    "Kamp Kanawana"
+   ],
+   "date_ref": "1974-04-18",
+   "conflicts_with": [],
+   "added_version": "v5.40",
+   "added_by": "ralph_loop"
+  },
+  {
+   "fact_id": "f_2248",
+   "claim": "DOES NOT REOPEN THE COEDUCATION DATE. The 1974 Gazette's 'sister campers invaded four years ago' would put coeducation at about 1970, but the date is settled at 1968 on three independent traces: the camp's own 1988 report ('1968 Kamp Kanawana admits female campers for the first time. 66 girls registered'), the annual-report camper-weeks tables where bracketed girl-camper figures first appear in the 1968 column, and the 1970 season report calling that summer the camp's 'third year as a coeducational camp'. A newspaper feature's round 'four years ago' is loose journalism against a hard enrolment figure. Recorded so the settled question is not reopened by a later pass.",
+   "sources": [
+    "src_newspapers_gazette_1974",
+    "src_ia_kanawana_place_to_grow_1988"
+   ],
+   "confidence": "stated",
+   "category": "history",
+   "entities": [
+    "Kamp Kanawana"
+   ],
+   "date_ref": "1968-1974",
+   "conflicts_with": [],
+   "added_version": "v5.40",
+   "added_by": "ralph_loop"
+  },
+  {
+   "fact_id": "f_2249",
+   "claim": "FitSpirit (Fillactive) held a girls-only weekend at Camp Kanawana in September 2011, reported by La Presse on 14 October 2011: 'une cinquantaine d'adolescentes de 13 a 17 ans', divided into four groups rotating through 'du yoga, du canot, de l'hebertisme et de la randonnee', with 'aucune activite n'est competitive'. The weekend closed with 'un enorme gateau, un feu de camp et un party zumba a la belle etoile'. Cathy Wong is identified as 'agente de developpement jeunesse au YMCA'. Incidental site detail: the camp is signed from the road -- 'L'affiche du camp Kanawana surgit, eclairee par les phares du vehicule' -- and a bell is used to assemble participants.",
+   "sources": [
+    "src_lapresse_fitspirit_2011"
+   ],
+   "confidence": "stated",
+   "category": "history",
+   "entities": [
+    "Kamp Kanawana"
+   ],
+   "date_ref": "2011-09",
+   "conflicts_with": [],
+   "added_version": "v5.40",
+   "added_by": "ralph_loop"
+  },
+  {
+   "fact_id": "f_2250",
+   "claim": "SOURCE-RECORD DEFECT (p_263): two BAnQ source records are mis-described as multi-issue collections when their URLs resolve to SINGLE ISSUES. 'Le Petit Journal -- 10 issues referencing Kanawana (1937-1999)' resolves to one issue, 27 June 1937; 'The Huntingdon Gleaner -- 2 issues (1933, 1949)' resolves to one issue, 26 July 1933. Both single issues were fetched and their OCR verified to contain real text, and NEITHER contains 'Kanawana' -- genuine nulls FOR THOSE ISSUES ONLY. The claimed remaining issues have no recorded ark ids and were never located, because BAnQ's search interface is behind a Radware Bot Manager CAPTCHA that never yielded.",
+   "sources": [
+    "src_banq_le_petit_journal_collection",
+    "src_banq_huntingdon_gleaner"
+   ],
+   "confidence": "stated",
+   "category": "sources",
+   "entities": [
+    "BAnQ"
+   ],
+   "date_ref": "1933-1937",
+   "conflicts_with": [],
+   "added_version": "v5.40",
+   "added_by": "ralph_loop"
+  },
+  {
+   "fact_id": "f_2251",
+   "claim": "UNVERIFIED BAnQ LEADS (p_263) -- surfaced by web search as OCR hits on numerique.banq.qc.ca but NOT read, so none may enter the KB as fact: Le Droit, 25 June 1937 (ark 52327/4055258, an instructor arriving at 'camp de Kanawana' on 1 July for a first-aid course); The Westmount Examiner, 16 Nov 1962 (ark 4831871, a citizenship-training programme at 'Kamp Kanawana'); Le Soleil, 7 July 1971 (ark 3466714, 'Noosphere', an international development-education camp for 16-19s at camp Kanawana); The Westmount Examiner, 29 March 1935 (ark 4821420, a Mr. Buckley with years of camping experience at Kanawana); and Lovell's Montreal directory 1976 (ark 5291096, 'Kamp Kanawana, 1441 Drummond, Montreal, tel. 849-5331'). Each needs a verbatim fetch.",
+   "sources": [
+    "src_banq_le_petit_journal_collection"
+   ],
+   "confidence": "disputed",
+   "category": "sources",
+   "entities": [
+    "BAnQ"
+   ],
+   "date_ref": "1935-1976",
+   "conflicts_with": [],
+   "added_version": "v5.40",
+   "added_by": "ralph_loop"
   }
  ]
 }

@@ -3589,3 +3589,50 @@ The OCR is tesseract on mid-century typescript and is imperfect in a specific, l
 ### What this changes about method
 
 Phase 2's definition of "exhausted" — 8 queries across 3 surfaces — assumes the surfaces are searchable. This collection *is* full-text searchable and returned nothing for years, because the search endpoint everyone reached for indexes metadata only. **A negative result from a search tool is a fact about the tool, not about the archive.** Several questions closed in this project as dead ends were closed on exactly that mistake: the 1967 canoe-trip Open Question was marked a "confirmed dead end" after testing archive boxes 12B01 and 12B04, when the thesis's own footnotes place every Centennial document in 12B07.
+
+---
+
+## Campaign p_263 — RALPH over all 53 dormant sources (2026-08-18)
+
+**Trigger.** The provenance checks added on 2026-08-16 reported 53 sources cited by no fact and named in no article. The operator asked for a full RALPH loop over all of them.
+
+**Method.** Phase R began at the local cache, per the CLAUDE.md rule, then five read-only research agents covered the ~42 web-retrievable items in parallel: newspapers/press, archives and finding aids, YMCA and camp-organisation web, the alumni-biography cluster, and the reference/social tier. Every agent was briefed on one rule above all others — distinguish *fetched and empty* from *could not fetch*, and never let the second masquerade as the first.
+
+**Outcome: 53 → 2.** The two remaining are a duplicate id and one paywalled article that was never seen.
+
+### The dormancy figure was overstated
+
+Eight of the 53 were **alias records** — a second source id pointing at a URL the wiki already cites under a different id. The 1891-92 annual report is the clearest: its "Out-door Work suffers from the disadvantage of not owning suitable grounds" is quoted in two articles under the twin id. The genuinely unexamined set was 45, not 53. New harness **check L** catches this class; check K structurally cannot see it.
+
+### What was actually found
+
+- **A 1940 Kanawana brochure at Trent University Archives** (OCA fonds 72-007, Box 1, Folder 5), plus a c.1970s brochure (78-006, Box 24, Folder 25) and a "YMCA - Montreal" folder (84-019). Outside the YMCA's own archive, unrestricted access. Queued p_267.
+- **A static-HTML bypass for Concordia's finding aid** at `www.concordia.ca/offices/archives/ymca-fonds-*.html`. The AtoM catalogue serves a JS challenge and has been unreadable throughout this project. One page yielded Permanent Camp Committee minutes 1895-1926, Ralph Dawson's 1933 history, Charlton's and Cushing's 1943 accounts, and the 1897/1898 camp brochures. Queued p_268.
+- **The whole Montreal Gazette, 1878-2006, is free-text searchable through Google Books.** Both Gazette clips that newspapers.com blocks behind Cloudflare were recovered in full. This is the single most reusable capability the loop produced.
+- **The 1918 season in detail** — about 90 boys aged 12-17, sleeping under canvas, woken at 6.30 by bugle, twelve rowboats and six canoes, a dining pavilion, and two new staff names: cook **Harry Smith** of Montreal High School and **Robert Spinney**, teaching basketry and woodwork.
+- **The 1974 season** — 90 boys and 90 girls, canoes and sailboats, and "French campers constitute 30 per cent of the Kanawana population."
+- **Independent confirmation of the Dimock link** from the Ontario Camping Association's November 1966 newsletter: Hedley Dimock Jr. "is presently consultant for the Montreal YMCA Camp, Kanawana."
+- **The 1944 Otoreke postcard**, transcribed by QAHN: a new lodge, and a fifteen-mile paddle.
+- **Camp Lighthall, St-Sauveur** — a camp in Kanawana's own village, absent from this wiki (p_269).
+
+### Conflicts and corrections
+
+- **c_026 raised**: the Gazette of 1974 gives the site as **1,200 acres**; the YMCA in 2017 gives **550**. Two documented sources, 43 years apart, differing by more than a factor of two. Three readings are open and none is yet supported.
+- The 1974 Gazette's "sister campers invaded four years ago" does **not** reopen the coeducation date. 1968 is settled on three independent traces including a hard enrolment figure of 66 girls.
+- QAHN's "began operation in 1893" is **not** a new conflict — the wiki already documents 1893 precursor activity. Filing one would have manufactured a disagreement out of two statements about different things.
+- **Five agent findings were corrected against the wiki**, which the agents could not see: the Hamilton "Ed Smee" flagged as a probable name collision is the same man (the wiki documents his 1968 return to Hamilton and the Conserver Society); Mosher's 1952-53 camper years, Pip Caddell's 1928 season, Derek Walsh and R. H. Hanagan were all already documented.
+
+### Null results worth recording
+
+Read in full and empty: the September 1932 SGW *College Bulletin* (the word "camp" never occurs); the 1965 and 1980 news releases; the 41st Annual Report (1891-92), whose silence on camping *corroborates* the finding aid's dating of the search for a lake to 1893; *Canadian Camping Magazine* Feb 1959; the Camp Sloane and YWCA songbooks; the Saint-Adolphe-d'Howard Wikipedia articles in both languages; the whole six-source Terry Mosher cluster; and the 1967 pageant cluster, where the link to Kanawana's Voyageur naming is **purely thematic** and no article may present it otherwise.
+
+### Access failures — recorded as unavailable, never as null
+
+`web.archive.org` is **blocked by this environment's egress policy** (bare `archive.org` works), which cost the 2015 annual report, the predecessor-domain document cache, and the 2019 125th-anniversary post. Radware Bot Manager walls BAnQ Advitam and the Archives of Ontario; AWS WAF walls UMN Kautz; `findingaids.loc.gov` 403s everything; PressReader and newspapers.com are JS/Cloudflare. The LOC null is explicitly **scope-limited to the collection abstract** — the container list is behind the 403, and Cooperative Recreation Service was the standard supplier of camp songbooks in Kanawana's period.
+
+### Two false-null generators, worth more than any single fact
+
+1. **`ymcaquebec.org` returns HTTP 200 with a silent 302** to a section landing page for dead URLs instead of 404ing. A naive fetch reads as "page loaded, no Kanawana content". Three recorded URLs in one batch behaved this way.
+2. **Several hosts refuse the standard fetch tool but serve fully to a browser User-Agent.** Four sources in one batch would have been logged as nulls on first response — and the NFB serves a *complete page body alongside an HTTP 410*.
+
+Both are exactly the failure this branch has been correcting all week: a negative result from a tool is a fact about the tool, not about the world.

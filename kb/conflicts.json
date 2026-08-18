@@ -505,6 +505,30 @@
    "resolved_at": "2026-08-14T00:00:00Z",
    "resolution": "RESOLVED BY OPERATOR (Matt Aronson), 2026-08-14: '1966 is clearly Lumbermen (from the photo).' Settled by returning to the object - the 1966 shield is legible in the trophy photograph - rather than by weighing the two accounts. The wiki follows the TROPHY for 1966; standings are unchanged (Lumbermen 41, Voyageurs 37 on read shields) because the roll already carried the trophy's reading. The 1966 season report's text ('with the Voyageurs being victorious') is PRESERVED, not corrected away, per the no-silent-overwrite rule. STILL UNEXPLAINED: why the report differs. The most interesting unexplored reading is that the two sources record different things - the 1966 report lists sixteen all-camp program days, of which the L&V competition was one.",
    "notes": "HUMAN DECISION POINT: two documented sources, so the oral-history-yields-to-documents directive does not apply. Likeliest explanation is a TRANSCRIPTION error on this project's side -- the roll was read off photographs of a trophy whose shields are partly obscured by a crossed paddle and axe, and four shields already had to be supplied separately for that reason. One look at the physical trophy would settle it. Second possibility: engraving is done after the fact and can be ordered wrongly, while the season report was written by the man who ran the season. Third: they may record different things, since the 1966 report counts sixteen all-camp program days and the L&V format was unstable enough to be formally reviewed in winter 1976. IMPORTANT CONTEXT: three other seasons in the digitized reports -- 1977, 1978 and 1993 -- match the trophy exactly, and the 1978 report's 'Lumbermen won ... again' independently confirms 1977. The roll is not generally unreliable, which is why this single discordant entry deserves explanation rather than averaging. CONSEQUENCE IF THE REPORT IS RIGHT: standings become Lumbermen 40 / Voyageurs 38 rather than 41/37, and every derived figure -- running balance, longest runs, the levelling arithmetic -- shifts one in the Voyageurs' favour."
+  },
+  {
+   "conflict_id": "c_026",
+   "entity": "Camp Kanawana site",
+   "attribute": "acreage of the camp property",
+   "positions": [
+    {
+     "claim": "The camp comprises 1,200 acres of private land and lakes.",
+     "source": "The Gazette (Montreal), 18 April 1974, summer-camp feature",
+     "facts": [],
+     "passage": "RESIDENTIAL CAMPS - CO-ED. CAMP KANAWANA: Run by the YMCA, Kanawana was billed as Quebec's oldest boys' camp until sister campers invaded four years ago. This summer, 90 boys and 90 girls will share the 1,200 acres of private land and lakes, the canoes, sailboats, handicraft shop and other basic camp facilities just outside St. Sauveur."
+    },
+    {
+     "claim": "The camp comprises 550 acres.",
+     "source": "YMCA Quebec, February 2017, and the wiki's site article",
+     "facts": [],
+     "passage": "Founded over 120 years ago on 550 acres of wilderness north of Montreal, Camp YMCA Kanawana is Quebec's oldest summer camp. It's a microcosm of Canada, where English, French, rich, poor, recent immigrants and locals sing together around the camp fire."
+    }
+   ],
+   "status": "unresolved",
+   "raised_at": "2026-08-18T00:00:00Z",
+   "resolved_at": null,
+   "resolution": null,
+   "notes": "Raised by the p_263 dormant-source RALPH loop. Two documented sources, 43 years apart, differ by a factor of more than two on the size of the property, so this is a human decision point rather than an auto-resolvable case. THREE READINGS ARE OPEN and none is yet supported: (a) the camp genuinely sold or transferred land between 1974 and 2017 -- the Concordia finding aid records a 1977 'Proposed two-site operation-Kanawana and Weredale' and a 1980 working document profiling three camps together, so the period was one of active property review; (b) the 1974 newspaper figure is journalistic error or includes leased/adjacent Crown land and lakes rather than owned acreage -- note its wording is '1,200 acres of private land AND LAKES'; (c) the modern 550-acre figure is marketing copy that undercounts. RESOLUTION ROUTE: the camp's own property records, or the 1980 'Camping and The Montreal YMCA' working document at Concordia, which profiles Kanawana's situation directly."
   }
  ]
 }
