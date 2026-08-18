@@ -37309,6 +37309,168 @@
    "conflicts_with": [],
    "added_version": "v5.36",
    "added_by": "ralph_loop"
+  },
+  {
+   "fact_id": "f_2196",
+   "claim": "NULL RESULT (p_263): the Wikipedia articles on Saint-Adolphe-d'Howard, in both English and French, contain NO mention of the YMCA, Camp Otoreke, Camp Kanawana, Camp Jubilee or any summer camp. The municipality's own encyclopedia entry does not record that the province's first residential summer camp operated on its territory from 1894.",
+   "sources": [
+    "src_wikipedia_saint_adolphe"
+   ],
+   "confidence": "stated",
+   "category": "site",
+   "entities": [
+    "Saint-Adolphe-d'Howard"
+   ],
+   "date_ref": "1894-2026",
+   "conflicts_with": [],
+   "added_version": "v5.36",
+   "added_by": "ralph_loop"
+  },
+  {
+   "fact_id": "f_2197",
+   "claim": "Saint-Adolphe-d'Howard, the municipality containing the camp's ORIGINAL 1894-1909 site, is described as 'located on the shores of lake Saint-Joseph' and having 'nearly 70 lakes in its territory'. The Lac-Saint-Joseph Mission was founded in 1878, served by Adolphe Jodoin (1836-1891), parish priest of Saint-Sauveur-des-Monts -- the same parish that would later serve the camp's second home. NO SOURCE CONNECTS the mission or the priest to the camp, and Jodoin died three years before the first camp.",
+   "sources": [
+    "src_wikipedia_saint_adolphe"
+   ],
+   "confidence": "stated",
+   "category": "site",
+   "entities": [
+    "Saint-Adolphe-d'Howard",
+    "Lake Saint-Joseph"
+   ],
+   "date_ref": "1878-1891",
+   "conflicts_with": [],
+   "added_version": "v5.36",
+   "added_by": "ralph_loop"
+  },
+  {
+   "fact_id": "f_2198",
+   "claim": "Lac Kanawana is recorded at approximately 45.85 N, -74.20 to -74.19 W, in the MRC Les Pays-d'en-Haut, Quebec. A commercial nautical-chart aggregator gives an area of 57.97 acres (about 23.5 ha) and a shoreline of 1.96 miles (about 3.15 km) -- BUT the source itself asterisks both figures against a disclaimer that 'some Stats may include nearby/connecting waterbodies'. No depth or elevation figure is published there. Treat area and shoreline as approximate and uncorroborated; the Commission de toponymie du Quebec and the Quebec lake registry are the authoritative substitutes.",
+   "sources": [
+    "src_gpsnautical_lac_kanawana"
+   ],
+   "confidence": "inferred",
+   "category": "site",
+   "entities": [
+    "Lac Kanawana"
+   ],
+   "date_ref": "2026",
+   "conflicts_with": [],
+   "added_version": "v5.36",
+   "added_by": "ralph_loop"
+  },
+  {
+   "fact_id": "f_2199",
+   "claim": "ACCESS FAILURE, NOT A NULL (p_263): the eBay listing for a 'Valcartier YMCA Camp Quebec Canada Unused c1915 TH Davies Litho Postcard' could not be read -- eBay returned HTTP 403 anti-bot refusals at both .com and .ca, and mirrors returned nothing. Only the listing TITLE is confirmed, via search-engine index. The card's date, publisher and imagery are the seller's cataloguing claims, never verified against the object. SEPARATELY: Camp Valcartier is a First World War army training camp near Quebec City with a YMCA wartime presence, roughly 250 km from Saint-Sauveur and with no documented Montreal YMCA or boys'-camping connection -- this source is only weakly on-topic and should be reclassified.",
+   "sources": [
+    "src_ebay_valcartier_ymca_postcard"
+   ],
+   "confidence": "disputed",
+   "category": "sources",
+   "entities": [
+    "Camp Valcartier"
+   ],
+   "date_ref": "1915",
+   "conflicts_with": [],
+   "added_version": "v5.36",
+   "added_by": "ralph_loop"
+  },
+  {
+   "fact_id": "f_2200",
+   "claim": "NULL RESULT (p_263): the Camp Sloane YMCA Songbook (Lakeville, Connecticut) was downloaded and read in full -- 21,398 characters, 17 songs. It contains NO reference to Kanawana, Montreal, Quebec or Canada, and does NOT contain 'Alabama Jubilee'. Its repertoire is 14 generic North American novelty songs plus 3 site-specific pieces. A song in another camp's book is not evidence Kanawana sang it, and nothing from it enters this KB as a Kanawana song fact.",
+   "sources": [
+    "src_camp_sloane_songbook"
+   ],
+   "confidence": "stated",
+   "category": "traditions",
+   "entities": [
+    "Camp Sloane"
+   ],
+   "date_ref": "2010s",
+   "conflicts_with": [],
+   "added_version": "v5.36",
+   "added_by": "ralph_loop"
+  },
+  {
+   "fact_id": "f_2201",
+   "claim": "STRUCTURAL COMPARATOR (p_263): Camp Sloane's 'Alma Mater' follows a lake-and-campfire anthem form -- 'Just beside Wanapakok / With her waves of blue / Stands our noble Camp Sloane' -- naming the camp's adjacent lake. The site-specific/generic split in that book is 3 local songs to 14 imported novelty songs. This is a form to test Kanawana's own repertoire against, NOT evidence about Kanawana.",
+   "sources": [
+    "src_camp_sloane_songbook"
+   ],
+   "confidence": "inferred",
+   "category": "traditions",
+   "entities": [
+    "Camp Sloane"
+   ],
+   "date_ref": "2010s",
+   "conflicts_with": [],
+   "added_version": "v5.36",
+   "added_by": "ralph_loop"
+  },
+  {
+   "fact_id": "f_2202",
+   "claim": "NULL RESULT (p_263): 'The Song Book of the Y.W.C.A.', compiled by Imogene B. Ireland with the Music Committee of the National Board of the YWCA, 172 pages, was downloaded in full (170,791 bytes of OCR) and grepped. Zero hits for alabama, jubilee, kanawana, canada, canadian, montreal, quebec or ymca across 13,167 lines. It is a United States YWCA book with no Canadian and no YMCA content. Its title page reads 'Copyright 1926' while the Internet Archive catalogues it as 1923 -- the title page is the primary artifact and should be preferred.",
+   "sources": [
+    "src_ywca_songbook_ia"
+   ],
+   "confidence": "stated",
+   "category": "traditions",
+   "entities": [
+    "YWCA"
+   ],
+   "date_ref": "1926",
+   "conflicts_with": [],
+   "added_version": "v5.36",
+   "added_by": "ralph_loop"
+  },
+  {
+   "fact_id": "f_2203",
+   "claim": "The camp's official Instagram account @ymcakanawana ('Camp YMCA Kanawana') carries the public bio 'Founded in 1894 - over 125 years of memories!' -- the institution's own present-day position that it dates from 1894 rather than from the 1910 Kanawana site. As of 18 August 2026 the account showed 1,951 followers, 55 following and 579 posts. This is INSTITUTIONAL SELF-DESCRIPTION, not documentary evidence, and must not be cited as primary support for the 1894 founding; its value is as evidence of which of the camp's two anniversary clocks the institution runs on today.",
+   "sources": [
+    "src_instagram_ymcakanawana"
+   ],
+   "confidence": "stated",
+   "category": "meta",
+   "entities": [
+    "Kamp Kanawana"
+   ],
+   "date_ref": "2026-08-18",
+   "conflicts_with": [],
+   "added_version": "v5.36",
+   "added_by": "ralph_loop"
+  },
+  {
+   "fact_id": "f_2204",
+   "claim": "The camp operates an official TikTok account @campymcakanawana ('YMCA Camp Kanawana'), confirmed via TikTok's own oEmbed API: 292 followers, 87 following, 280 likes as of 18 August 2026. THE ACCOUNT'S CONTENT COULD NOT BE READ -- the video grid is JavaScript-rendered. Nothing is established about whether it carries historical material. Note also that the camp's display name differs across channels: 'YMCA Camp Kanawana' on TikTok versus 'Camp YMCA Kanawana' on Instagram.",
+   "sources": [
+    "src_tiktok_campymcakanawana"
+   ],
+   "confidence": "stated",
+   "category": "meta",
+   "entities": [
+    "Kamp Kanawana"
+   ],
+   "date_ref": "2026-08-18",
+   "conflicts_with": [],
+   "added_version": "v5.36",
+   "added_by": "ralph_loop"
+  },
+  {
+   "fact_id": "f_2205",
+   "claim": "NULL RESULT (p_263): 'The Journey to Reconciliation in North American Summer Camps' (Frances Parish, McGill International Review, 24 January 2024) does not mention Kanawana, Otoreke, the YMCA of Montreal, Montreal or Quebec. It is nonetheless a documented PRECEDENT for the naming question this wiki faces: YMCA Camp Wabanaki was renamed YMCA Camp Waabanaki ('a new dawn day'), while Camp Kummoniwannago -- 'a play on the phrase come on, I want to go' -- shows that invented pseudo-Indigenous camp names are equally common. Which pattern 'Kanawana' and 'Otoreke' belong to is undetermined.",
+   "sources": [
+    "src_mironline_reconciliation_camps"
+   ],
+   "confidence": "stated",
+   "category": "traditions",
+   "entities": [
+    "Camp Kanawana",
+    "Camp Otoreke"
+   ],
+   "date_ref": "2024",
+   "conflicts_with": [],
+   "added_version": "v5.36",
+   "added_by": "ralph_loop"
   }
  ]
 }

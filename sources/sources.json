@@ -1259,8 +1259,8 @@
    "extraction_version": "4.6",
    "reliability": "tertiary",
    "notes": "Municipality in Pays-d'en-Haut RCM, Laurentians, Quebec. Lake Saint-Joseph ~3km x 1km.",
-   "read_state": "unknown",
-   "read_state_basis": "derived:dormant"
+   "read_state": "extracted",
+   "read_state_basis": "asserted:fetched-and-read-null"
   },
   {
    "source_id": "src_ymca_pip_orbinski",
@@ -2448,7 +2448,7 @@
    "reliability": "secondary",
    "notes": "Official Instagram account. 571 posts, 1,824 followers. Showcases '125+ years of memories'. May contain historical photos in addition to contemporary content. [2026-08-18, p_263] ALIAS RECORD: same origin_url as src_instagram_kanawana, which the wiki already uses. Not unexamined material. Do not re-research; consolidate or leave, but never count as a research lead.",
    "read_state": "extracted",
-   "read_state_basis": "asserted:alias-of-src_instagram_kanawana"
+   "read_state_basis": "asserted:profile-read-feed-js-blocked"
   },
   {
    "source_id": "src_cathy_reeves_documentary_1993",
@@ -2573,8 +2573,8 @@
    "extraction_version": null,
    "reliability": "secondary",
    "notes": "TikTok account for Camp YMCA Kanawana. Discovered via hashtag search. Contemporary content.",
-   "read_state": "unknown",
-   "read_state_basis": "derived:dormant"
+   "read_state": "skimmed",
+   "read_state_basis": "asserted:profile-via-oembed-content-unreadable"
   },
   {
    "source_id": "src_geonames_camp_kanawana",
@@ -2609,8 +2609,8 @@
    "extraction_version": null,
    "reliability": "secondary",
    "notes": "Bathymetric/nautical chart for Lac Kanawana with HD depth contours. Coordinates approx 45°51'5\"N 74°11'31\"W, elevation ~319m. Complements CREL environmental data already in KB.",
-   "read_state": "unknown",
-   "read_state_basis": "derived:dormant"
+   "read_state": "extracted",
+   "read_state_basis": "asserted:fetched-partial-data-obtained"
   },
   {
    "source_id": "src_ebay_valcartier_ymca_postcard",
@@ -2627,8 +2627,8 @@
    "extraction_version": null,
    "reliability": "tertiary",
    "notes": "Not Camp Kanawana but relevant to YMCA camp visual culture in Quebec. Unused c1915 lithograph postcard of Valcartier YMCA Camp. TH Davies litho. Demonstrates YMCA camp postcard tradition existed in Quebec in early 20th century.",
-   "read_state": "unknown",
-   "read_state_basis": "derived:dormant"
+   "read_state": "unavailable",
+   "read_state_basis": "asserted:blocked-403-anti-bot-body-never-seen"
   },
   {
    "source_id": "src_ymca_pip_award_skinner",
@@ -2969,8 +2969,8 @@
    "extraction_version": null,
    "reliability": "secondary",
    "notes": "YMCA camp songbook from Camp Sloane. Contains songs like Purple Soup, Hippo Song, Princess Pat, Rattlin' Bog, Beaver Song. Context source for YMCA camp song traditions.",
-   "read_state": "unknown",
-   "read_state_basis": "derived:dormant"
+   "read_state": "extracted",
+   "read_state_basis": "asserted:fetched-and-read-in-full-null"
   },
   {
    "source_id": "src_ymca_service_songbook_ia",
@@ -3023,8 +3023,8 @@
    "extraction_version": null,
    "reliability": "secondary",
    "notes": "YWCA song book on Internet Archive. Context source for broader YM/YWCA singing tradition.",
-   "read_state": "unknown",
-   "read_state_basis": "derived:dormant"
+   "read_state": "extracted",
+   "read_state_basis": "asserted:fetched-and-read-in-full-null"
   },
   {
    "source_id": "src_ebay_ymca_camp_songs_1938",
@@ -3887,8 +3887,8 @@
    "extraction_version": "v4.21",
    "reliability": "secondary",
    "notes": "CCA survey on camp directors' awareness of cultural appropriation. Camps historically had 'playing Indian' traditions. Directors keen to establish connections with local Indigenous communities but no consensus on approach.",
-   "read_state": "unknown",
-   "read_state_basis": "derived:dormant"
+   "read_state": "extracted",
+   "read_state_basis": "asserted:fetched-and-read-null"
   },
   {
    "source_id": "src_archive_org_canadian_camping_1959",

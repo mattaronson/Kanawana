@@ -3307,6 +3307,42 @@
    "created_at": "2026-08-14T00:00:00Z",
    "status": "pending",
    "notes": "Spun off from p_243 at closure. Low priority; curiosity value rather than corrective value."
+  },
+  {
+   "priority_id": "p_264",
+   "rank": 264,
+   "type": "RESEARCH",
+   "description": "Commission de toponymie du Quebec: settle the lake name changes. The official toponymic record should give (a) the date and rationale of Lac Saint-Louis -> Lac Kanawana, (b) the same for Lac Desjardins -> Lac Wilson, and (c) whether 'Kanawana' has a documented Indigenous-language etymology or is an invented coinage. Surfaced by the p_263 RALPH loop as the highest-value UNFETCHED geographic source in the project. Made sharper by the MIR reconciliation article, which shows genuine Indigenous names and invented pseudo-Indigenous names are equally common in North American camping -- so the question is real, not rhetorical. Also try the Quebec lake registry / RSVL for real bathymetry, since the only area and shoreline figures currently held are from a commercial chart aggregator that disclaims them.",
+   "article_id": "site",
+   "blocking": false,
+   "assigned_weight": "P1",
+   "created_at": "2026-08-18T00:00:00Z",
+   "status": "pending",
+   "notes": "Spawned by the p_263 dormant-source RALPH loop (hypothesize phase)."
+  },
+  {
+   "priority_id": "p_265",
+   "rank": 265,
+   "type": "RESEARCH",
+   "description": "The camp's own Instagram feed (@ymcakanawana, 579 posts) is the largest untapped body of camp-published imagery found in the p_263 loop. The profile is readable via a crawler user-agent but the feed is JavaScript-rendered; individual post permalinks ARE readable one at a time by the same method. Highest-value targets: any 1994 Centennial and 2019 125th-anniversary posts, where a camp typically publishes its own historical timeline. INSTITUTIONAL CONTENT ONLY -- do not identify campers or staff, per the CLAUDE.md privacy rule.",
+   "article_id": "meta",
+   "blocking": false,
+   "assigned_weight": "P3",
+   "created_at": "2026-08-18T00:00:00Z",
+   "status": "pending",
+   "notes": "Spawned by the p_263 dormant-source RALPH loop (hypothesize phase)."
+  },
+  {
+   "priority_id": "p_266",
+   "rank": 266,
+   "type": "VERIFY",
+   "description": "Reclassify src_ebay_valcartier_ymca_postcard. It is filed as Kanawana-relevant material culture, but Camp Valcartier is a First World War ARMY training camp near Quebec City with a YMCA wartime presence -- about 250 km from Saint-Sauveur, with no documented Montreal YMCA or boys'-camping connection. It is weak on-topic evidence even if the listing were readable, and it is not: eBay returns HTTP 403 anti-bot refusals, so the listing body has never been seen. Library and Archives Canada and the Canadian War Museum hold the same subject matter in permanent citable form.",
+   "article_id": "sources",
+   "blocking": false,
+   "assigned_weight": "P4",
+   "created_at": "2026-08-18T00:00:00Z",
+   "status": "pending",
+   "notes": "Spawned by the p_263 dormant-source RALPH loop (hypothesize phase)."
   }
  ]
 }
