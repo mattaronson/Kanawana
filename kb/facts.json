@@ -37471,6 +37471,429 @@
    "conflicts_with": [],
    "added_version": "v5.36",
    "added_by": "ralph_loop"
+  },
+  {
+   "fact_id": "f_2206",
+   "claim": "The QAHN photograph 'Camp Otoreke (YMCA Camp), Saint-Adolphe-d'Howard, 1944' is an old photographic postcard whose verso, transcribed by QAHN, reads: 'Camp Otoreke. 3 August 44. I am having a grand time here. This is a picture of our new lodge. We eat upstairs, also have parties there. Downstairs are the shower and changing rooms. The weather so far has been perfect. We went on a 15 mile paddle yesterday for a swim in the falls and a picnic supper... Love Betty.' So by August 1944 Otoreke had a NEW LODGE with an upstairs dining and function room and downstairs showers and changing rooms, and its campers took fifteen-mile paddles.",
+   "sources": [
+    "src_qahn_otoreke_photo_1944"
+   ],
+   "confidence": "stated",
+   "category": "site",
+   "entities": [
+    "Camp Otoreke"
+   ],
+   "date_ref": "1944-08-03",
+   "conflicts_with": [],
+   "added_version": "v5.37",
+   "added_by": "ralph_loop"
+  },
+  {
+   "fact_id": "f_2207",
+   "claim": "QAHN's historical note on the Otoreke photograph, credited to the Concordia University Archives, records the site's post-1910 career: after the YMCA's main camping program moved to Kanawana in 1910, Otoreke 'operated variously as a camp for men over 18, for women and men over 18, for married couples, and for low-income families. It was sold in 1987.' It also describes the site as 'several islands plus a landing area on the mainland'.",
+   "sources": [
+    "src_qahn_otoreke_photo_1944"
+   ],
+   "confidence": "stated",
+   "category": "site",
+   "entities": [
+    "Camp Otoreke"
+   ],
+   "date_ref": "1910-1987",
+   "conflicts_with": [],
+   "added_version": "v5.37",
+   "added_by": "ralph_loop"
+  },
+  {
+   "fact_id": "f_2208",
+   "claim": "CORROBORATION, NOT A NEW CONFLICT (p_263): QAHN, citing the Concordia University Archives, says the original Montreal YMCA camp 'began operation in 1893'. This does NOT contradict the 1894 founding; it matches material this wiki already records -- Concordia fonds P145 sub-series 12L holds camper lists, financial records and fishing-rights documentation dated 1893, and sub-series 12A holds an 1893 report of a trip to St. Agathe to scout a lake. The wiki's own framing already treats 1893 as documented precursor activity and 1894 as the first camp proper, on the strength of the contemporaneous 1894-95 report's 'our first Summer Camp'. No conflict record is raised, because filing one would manufacture a disagreement out of two statements about different things.",
+   "sources": [
+    "src_qahn_otoreke_photo_1944",
+    "src_ia_ymca_montreal_annual_reports_collection"
+   ],
+   "confidence": "inferred",
+   "category": "founding",
+   "entities": [
+    "Camp Jubilee"
+   ],
+   "date_ref": "1893-1894",
+   "conflicts_with": [],
+   "added_version": "v5.37",
+   "added_by": "ralph_loop"
+  },
+  {
+   "fact_id": "f_2209",
+   "claim": "ACCESS FAILURE, NOT A NULL (p_263): the 2019 YMCA Quebec blog post on Kanawana's 125th anniversary could not be read. The recorded URL returns HTTP 200 but SILENTLY REDIRECTS to a section landing page, and the only other route -- the Wayback Machine -- is blocked by this environment's egress policy. The article's content is unassessed. A Facebook post indicates the 125th was marked by a 'Family, Alumni, And Friends Weekend'.",
+   "sources": [
+    "src_ymca_125th_2019"
+   ],
+   "confidence": "disputed",
+   "category": "meta",
+   "entities": [
+    "Kamp Kanawana"
+   ],
+   "date_ref": "2019",
+   "conflicts_with": [],
+   "added_version": "v5.37",
+   "added_by": "ralph_loop"
+  },
+  {
+   "fact_id": "f_2210",
+   "claim": "A THIRD ANNIVERSARY CLOCK, unexplained. YMCA Quebec's live Kanawana history page states for 2025: 'YMCA Kanawana celebrates 131 years of history and 148 years of the YMCA's commitment to residential camps'. 131 years from 2025 gives 1894, consistent with the camping-since-1894 clock. But 148 years gives 1877 -- a date this project has never encountered and which the page does not explain. It is not the 1851 founding of the Montreal YMCA, nor 1894, nor 1910.",
+   "sources": [
+    "src_ymcaquebec_kanawana_history"
+   ],
+   "confidence": "stated",
+   "category": "meta",
+   "entities": [
+    "YMCA of Montreal"
+   ],
+   "date_ref": "1877",
+   "conflicts_with": [],
+   "added_version": "v5.37",
+   "added_by": "ralph_loop"
+  },
+  {
+   "fact_id": "f_2211",
+   "claim": "Stuart McLean arrived at Camp Kanawana as a counsellor in the summer of 1969 'in the Senior Boys Section' and worked there 'for five summers in the late 60s and early 70s'. The YMCA quotes him: 'Camp Kanawana: this is where I grew up!' and, on that first summer, 'there were no parents here... before long I started to trust myself. And believe in my self. And most importantly, like myself'. He told the story on air on The Vinyl Cafe. The article is dated 16 February 2017 and reports his death 'yesterday', i.e. 15 February 2017.",
+   "sources": [
+    "src_ymca_mclean_fund"
+   ],
+   "confidence": "stated",
+   "category": "people",
+   "entities": [
+    "Stuart McLean"
+   ],
+   "date_ref": "1969-2017",
+   "conflicts_with": [],
+   "added_version": "v5.37",
+   "added_by": "ralph_loop"
+  },
+  {
+   "fact_id": "f_2212",
+   "claim": "Hard modern figures from the YMCA's February 2017 account of the Stuart McLean Fund: the camp sits on '550 acres of wilderness north of Montreal'; it welcomes 'over 800 campers aged 7 to 16 years' annually; it aims for 'a minimum of one in five campers... from a financially disadvantaged background'; and the YMCAs of Quebec 'offered over $150,000 in financial support to children and teens to attend Camp YMCA Kanawana in 2016 alone'. The article also uses the camp motto 'Non Nobis Solum (Not for ourselves alone)'.",
+   "sources": [
+    "src_ymca_mclean_fund"
+   ],
+   "confidence": "stated",
+   "category": "meta",
+   "entities": [
+    "Kamp Kanawana"
+   ],
+   "date_ref": "2016-2017",
+   "conflicts_with": [],
+   "added_version": "v5.37",
+   "added_by": "ralph_loop"
+  },
+  {
+   "fact_id": "f_2213",
+   "claim": "ACCESS FAILURE, NOT A NULL (p_263): the YMCA du Quebec Rapport d'activites 2015 and the ymcakanawana.com/.ca predecessor-domain document cache were BOTH unassessable. Every route to them runs through web.archive.org, which this environment blocks by egress policy (HTTP 403 'Blocked by egress policy'; TLS reset on https; the CDX endpoint is served only from that host). ZERO snapshots were enumerated for the predecessor domains -- the /FilesUpload/ path remains untested. Neither may be recorded as searched-and-empty.",
+   "sources": [
+    "src_ymcaquebec_annualreport_2015",
+    "src_ymcakanawana_predecessor_domain_cache"
+   ],
+   "confidence": "disputed",
+   "category": "meta",
+   "entities": [
+    "Kamp Kanawana"
+   ],
+   "date_ref": "2005-2015",
+   "conflicts_with": [],
+   "added_version": "v5.37",
+   "added_by": "ralph_loop"
+  },
+  {
+   "fact_id": "f_2214",
+   "claim": "Association des camps du Quebec listing figures for Camp YMCA Kanawana (2025): residential camp ages 7 to 17; overnight capacity 300 in tents and dormitories, bedding not included; stays from under a week to a month or more; off-season group capacity autumn 150, winter 20, spring 150, summer 0, with dormitory capacity 144; nature-class capacity 200; bus pickup at Ecole secondaire Pierre-Laporte, 1101 chemin Rockland, Montreal; address 673 montee Saint-Elmire, Saint-Sauveur. Programs are delivered in English with mostly bilingual staff. NOTE the age range has widened since 2017, when the YMCA gave it as 7 to 16.",
+   "sources": [
+    "src_acq_kanawana_listing"
+   ],
+   "confidence": "stated",
+   "category": "meta",
+   "entities": [
+    "Kamp Kanawana"
+   ],
+   "date_ref": "2025",
+   "conflicts_with": [],
+   "added_version": "v5.37",
+   "added_by": "ralph_loop"
+  },
+  {
+   "fact_id": "f_2215",
+   "claim": "SELF-ASSERTED, UNCORROBORATED: YMCA Quebec's own Kanawana page claims the camp is 'A founding member of the Association des camps du Quebec (ACQ)' and an 'ACQ- and YMCA Canada-certified camp'. The ACQ's own listing for Kanawana carries NO founding-member statement and no per-camp accreditation prose -- inclusion in the directory is itself the certification. The founding-member claim needs checking against the ACQ's own history before it is repeated as fact.",
+   "sources": [
+    "src_acq_kanawana_listing",
+    "src_ymcaquebec_kanawana_history"
+   ],
+   "confidence": "disputed",
+   "category": "connections",
+   "entities": [
+    "Association des camps du Quebec"
+   ],
+   "date_ref": "2025",
+   "conflicts_with": [],
+   "added_version": "v5.37",
+   "added_by": "ralph_loop"
+  },
+  {
+   "fact_id": "f_2216",
+   "claim": "The Association des camps du Quebec reported on 14 March 2023 that 18 new English-language songs would be added to its 'Repere culturel' repertoire in May 2023, for a total of 20, 'performed by Alyssia Morin of camp Amy Molson and Sean Day, former director of camp YMCA Kanawana'. TIMING NOTE: this wiki records Sean Day's directorship as running to April 2023, yet the ACQ called him a FORMER director on 14 March 2023 -- a small tension worth resolving rather than ignoring, since it may refine the end date.",
+   "sources": [
+    "src_acq_day"
+   ],
+   "confidence": "stated",
+   "category": "people",
+   "entities": [
+    "Sean Day",
+    "Association des camps du Quebec"
+   ],
+   "date_ref": "2023-03-14",
+   "conflicts_with": [],
+   "added_version": "v5.37",
+   "added_by": "ralph_loop"
+  },
+  {
+   "fact_id": "f_2217",
+   "claim": "Camp Weredale, a Montreal camp for children in care, was established in 1934 as a 'summer home away from home' for the orphaned or at-risk boys living at Weredale House, now part of Batshaw Youth and Family Centres. Its Executive Director Elizabeth Pusztai is quoted in May 2024: 'Since 1934, our camp has provided campers with exciting opportunities to learn'. It is on Lac L'Achigan in the Laurentians, owned and operated by the Weredale Foundation (president Duncan Campbell), and takes 'four cohorts of 85 campers from the end of June to mid-August', up to 340 children. IT IS NOT A YMCA CAMP -- a separate foundation runs it -- so it belongs in connections/related-camps/.",
+   "sources": [
+    "src_ciusss_weredale_90"
+   ],
+   "confidence": "stated",
+   "category": "connections",
+   "entities": [
+    "Camp Weredale"
+   ],
+   "date_ref": "1934-2024",
+   "conflicts_with": [],
+   "added_version": "v5.37",
+   "added_by": "ralph_loop"
+  },
+  {
+   "fact_id": "f_2218",
+   "claim": "METHOD WARNING (p_263), a false-null generator: ymcaquebec.org was rebuilt and its DEAD URLS RETURN HTTP 200 WITH A SILENT 302 to a section landing page rather than a 404. A naive fetch of a dead camp URL therefore reads as 'page loaded, no Kanawana content' -- a false null. Three recorded URLs in one batch behaved this way. campsquebec.com separately dropped its /en/ prefix and hard-404s the old paths. Any null previously recorded against a ymcaquebec.org /Find-a-Y/, /Blog/ or /About-Us/Newsroom/ URL, or a campsquebec.com /en/ URL, is suspect and should be re-tested against the live patterns /en/summer-camp-kanawana/* and /en/news/<lowercase-slug>.",
+   "sources": [
+    "src_ymca_mclean_fund",
+    "src_acq_kanawana_listing",
+    "src_ymca_125th_2019"
+   ],
+   "confidence": "stated",
+   "category": "meta",
+   "entities": [
+    "sources.json"
+   ],
+   "date_ref": "2026",
+   "conflicts_with": [],
+   "added_version": "v5.37",
+   "added_by": "ralph_loop"
+  },
+  {
+   "fact_id": "f_2219",
+   "claim": "NULL RESULT (p_263), the whole Terry Mosher cluster: six sources -- Wikipedia, The Canadian Encyclopedia, the Canada Post stamp feature, the Concordia honorary-degree citation, the Canadian Geographic Levesque-cartoon retrospective and the NFB catalogue page for 'Nothing Sacred' -- were fetched and read, and NOT ONE mentions Camp Kanawana, a summer camp or the YMCA. Keyword scans returned zero substantive hits; every 'camp' string was 'campus' or 'utm_campaign'. Mosher's camp connection is real but is documented only by the YMCA itself, never by his mainstream biography.",
+   "sources": [
+    "src_wp_mosher",
+    "src_cae_mosher",
+    "src_canadapost_mosher",
+    "src_concordia_mosher_2018",
+    "src_cangeographic_levesque",
+    "src_nfb_nothing_sacred"
+   ],
+   "confidence": "stated",
+   "category": "people",
+   "entities": [
+    "Terry Mosher"
+   ],
+   "date_ref": "1942-2024",
+   "conflicts_with": [],
+   "added_version": "v5.38",
+   "added_by": "ralph_loop"
+  },
+  {
+   "fact_id": "f_2220",
+   "claim": "CORRECTION TO A RESEARCH FLAG (p_263): a research agent, working without access to this wiki, flagged the Hamilton 'Ed Smee' of the Conserver Society as a PROBABLE NAME COLLISION with Kanawana's Edgar E. Smee and advised against linking them. That caution is WRONG and the wiki already disproves it: people/edgar-smee.md documents that Edgar E. Smee returned to his native Hamilton in 1968, founded Clear Hamilton of Pollution in 1969 and served as Founding Chair of the Conserver Society of Hamilton & District. The Hamilton Community Foundation page therefore CORROBORATES the same man rather than confusing a second one.",
+   "sources": [
+    "src_hamilton_community_foundation"
+   ],
+   "confidence": "stated",
+   "category": "people",
+   "entities": [
+    "Edgar E. Smee"
+   ],
+   "date_ref": "1968-1999",
+   "conflicts_with": [],
+   "added_version": "v5.38",
+   "added_by": "ralph_loop"
+  },
+  {
+   "fact_id": "f_2221",
+   "claim": "The Ed Smee Conserver Society Environmental Fund: the Conserver Society of Hamilton and District was established in 1983; its first Environmental Trust Fund was initiated in 1986 chaired by Ed Smee; and in 1999 it was renamed in his honour when transferred to the Hamilton Community Foundation. He is 'credited by his friends at the Conserver Society with helping to create the first action plan for Hamilton Harbour/Burlington Bay'. This confirms the 1999 date already held in the source record.",
+   "sources": [
+    "src_hamilton_community_foundation"
+   ],
+   "confidence": "stated",
+   "category": "people",
+   "entities": [
+    "Edgar E. Smee"
+   ],
+   "date_ref": "1983-1999",
+   "conflicts_with": [],
+   "added_version": "v5.38",
+   "added_by": "ralph_loop"
+  },
+  {
+   "fact_id": "f_2222",
+   "claim": "CITATION CORRECTED AND COMPLETED via Crossref (tandfonline itself refuses automated clients): Twynam, G. David; Farrell, Jocelyn M.; Johnston, Margaret E., 'Leisure and Volunteer Motivation at a Special Sporting Event', Leisure/Loisir vol. 27 issue 3-4 (2002), pp. 363-377, DOI 10.1080/14927713.2002.9651310. G. David Twynam is confirmed as FIRST AUTHOR. The article text was not read. Beware the near-miss DOI ending 9651309, which is a different article in the same issue.",
+   "sources": [
+    "src_leisure_twynam_2002"
+   ],
+   "confidence": "stated",
+   "category": "people",
+   "entities": [
+    "Dave Twynam"
+   ],
+   "date_ref": "2002",
+   "conflicts_with": [],
+   "added_version": "v5.38",
+   "added_by": "ralph_loop"
+  },
+  {
+   "fact_id": "f_2223",
+   "claim": "G. David Twynam's post-Kanawana academic career now has two fixed points: his 2002 co-authors place him at Lakehead University's School of Outdoor Recreation, Parks and Tourism, and a Thompson Rivers University release of 12 March 2008 names 'David Twynam, TRU Dean of Tourism'. Track: Kanawana director 1979-1982, then outdoor-recreation academic at Lakehead c.2002, then Dean of Tourism at TRU by 2008. A Lakehead or TRU faculty CV is the likeliest document to state his Kanawana dates in his own words.",
+   "sources": [
+    "src_leisure_twynam_2002",
+    "src_tru_newsroom_2008_skills"
+   ],
+   "confidence": "inferred",
+   "category": "people",
+   "entities": [
+    "Dave Twynam"
+   ],
+   "date_ref": "1979-2008",
+   "conflicts_with": [],
+   "added_version": "v5.38",
+   "added_by": "ralph_loop"
+  },
+  {
+   "fact_id": "f_2224",
+   "claim": "NULL RESULT (p_263), the 1967 Centennial Voyageur Canoe Pageant cluster: the Canadian History Ehx transcript, the Guysborough Journal feature, the Eric W. Morse Wikipedia article and the CBC Archives clip metadata were all read, and NONE mentions Kanawana, the Quebec YMCA or any camp. The link between the pageant and the camp's Voyageur team naming is PURELY THEMATIC and no article may present it as a documented connection. Two incidental notes: the Wikipedia article on Morse does not even mention the pageant, so that source is misfiled in this cluster; and Morse's own 1950s Ottawa paddling group was called 'The Voyageurs', which is coincidence, not lineage.",
+   "sources": [
+    "src_canada_ehx_pageant",
+    "src_guysborough_journal",
+    "src_wikipedia_morse",
+    "src_cbc_archives_pageant"
+   ],
+   "confidence": "stated",
+   "category": "traditions",
+   "entities": [
+    "Lumbermen-Voyageurs Games"
+   ],
+   "date_ref": "1967",
+   "conflicts_with": [],
+   "added_version": "v5.38",
+   "added_by": "ralph_loop"
+  },
+  {
+   "fact_id": "f_2225",
+   "claim": "The 1967 Centennial Voyageur Canoe Pageant ran from Rocky Mountain House, Alberta on 24 May 1967 to Montreal on 4 September 1967 -- 104 days, 5,283 km, ten teams, won by Manitoba in 507 hours 21 minutes 51 seconds. It was conceived by Gene Rheaume, Metis social worker and Progressive Conservative MP for the Northwest Territories. CBC aired the launch on a special titled 'Les Voyageurs'. The finish required running the Lachine Rapids, where the Yukon team swamped. CONFLICT IN THE SOURCES: the entry fee is given as $1,000 by Canadian History Ehx and $5,000 by the Guysborough Journal.",
+   "sources": [
+    "src_canada_ehx_pageant",
+    "src_guysborough_journal",
+    "src_cbc_archives_pageant"
+   ],
+   "confidence": "disputed",
+   "category": "connections",
+   "entities": [
+    "Centennial Voyageur Canoe Pageant"
+   ],
+   "date_ref": "1967",
+   "conflicts_with": [],
+   "added_version": "v5.38",
+   "added_by": "ralph_loop"
+  },
+  {
+   "fact_id": "f_2226",
+   "claim": "ACCESS FAILURES, NOT NULLS (p_263): the CMAT memorial page for James Caddell returns HTTP 404 -- the site was rebuilt and the memorial pages did not survive -- and Federation CJA's 2007-2008 annual report sits behind a Cloudflare interstitial returning HTTP 403 to every client tried. Neither page was ever seen. Wayback recovery was impossible because web.archive.org is blocked by this environment's egress policy. Nothing may be concluded about either source's contents.",
+   "sources": [
+    "src_cmat_caddell_obituary",
+    "src_cja_annual_2008"
+   ],
+   "confidence": "disputed",
+   "category": "sources",
+   "entities": [
+    "James Caddell"
+   ],
+   "date_ref": "2005-2008",
+   "conflicts_with": [],
+   "added_version": "v5.38",
+   "added_by": "ralph_loop"
+  },
+  {
+   "fact_id": "f_2227",
+   "claim": "James Caddell's own first-person account in McGill News (Fall 2004) confirms: BA McGill 1997 in political science and history; 'I was able to take a year off school in 1995 to serve a tour as a UN peacekeeper in Bosnia'; senior advisor in the Canada Student Loans Program at Human Resources Development Canada; and a round-the-world trek planned from autumn 2002 that ended with his death in Bolivia in 2005. Page 2 of the article is 404 and was not read.",
+   "sources": [
+    "src_mcgill_news_caddell"
+   ],
+   "confidence": "stated",
+   "category": "people",
+   "entities": [
+    "James Caddell"
+   ],
+   "date_ref": "1995-2004",
+   "conflicts_with": [],
+   "added_version": "v5.38",
+   "added_by": "ralph_loop"
+  },
+  {
+   "fact_id": "f_2228",
+   "claim": "The NFB documentary 'Nothing Sacred' (2003), a portrait of Aislin and Serge Chapleau, was directed by Garry Beitel and produced by Barry Lazar and Colette Loumede. Its NFB page now returns HTTP 410 and states 'This work is no longer available'. IMPORTANT SCOPE NOTE: the null recorded for this source covers the CATALOGUE PAGE ONLY. The 51-minute film interviews the cartoonists' friends, families and colleagues and could mention camp on screen; it has not been viewed and must not be recorded as a null on its content.",
+   "sources": [
+    "src_nfb_nothing_sacred"
+   ],
+   "confidence": "stated",
+   "category": "sources",
+   "entities": [
+    "Terry Mosher"
+   ],
+   "date_ref": "2003",
+   "conflicts_with": [],
+   "added_version": "v5.38",
+   "added_by": "ralph_loop"
+  },
+  {
+   "fact_id": "f_2229",
+   "claim": "TWO DOCUMENTED-VS-DOCUMENTED DISCREPANCIES in Terry Mosher's public record, noted for accuracy but NOT raised as conflict records because neither touches a Kanawana claim: (1) his appointment as Officer of the Order of Canada is dated 2002 by Wikipedia and 2003 by both The Canadian Encyclopedia and Concordia's honorary-degree citation; (2) the 1993 denunciation of his work in the House of Commons is attributed to MP Bob Layton by The Canadian Encyclopedia and to cabinet minister Barbara McDougall by Canada Post. If either detail is ever used in a Kanawana article it must be settled first -- against the Order of Canada register and Hansard respectively.",
+   "sources": [
+    "src_wp_mosher",
+    "src_cae_mosher",
+    "src_canadapost_mosher"
+   ],
+   "confidence": "disputed",
+   "category": "people",
+   "entities": [
+    "Terry Mosher"
+   ],
+   "date_ref": "1993-2003",
+   "conflicts_with": [],
+   "added_version": "v5.38",
+   "added_by": "ralph_loop"
+  },
+  {
+   "fact_id": "f_2230",
+   "claim": "METHOD WARNING (p_263), a second false-null generator: several hosts refuse the standard fetch tool but serve the full page to a request carrying a browser User-Agent. Four sources in one batch would have been logged as nulls had the first tool response been accepted -- The Canadian Encyclopedia (blank body, then 403, then fine), Canadian History Ehx (403, then fine), the Guysborough Journal (bot-verification interstitial, then fine) and the NFB (HTTP 410 status served ALONGSIDE a complete page body). Retry with a browser User-Agent before recording any null against a commercial or media host.",
+   "sources": [
+    "src_cae_mosher",
+    "src_canada_ehx_pageant",
+    "src_guysborough_journal",
+    "src_nfb_nothing_sacred"
+   ],
+   "confidence": "stated",
+   "category": "meta",
+   "entities": [
+    "sources.json"
+   ],
+   "date_ref": "2026",
+   "conflicts_with": [],
+   "added_version": "v5.38",
+   "added_by": "ralph_loop"
   }
  ]
 }

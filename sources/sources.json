@@ -485,8 +485,8 @@
    "extraction_version": "4.1",
    "reliability": "secondary",
    "notes": "Detailed popular history article on the 1967 Voyageur Canoe Pageant.",
-   "read_state": "unknown",
-   "read_state_basis": "derived:dormant"
+   "read_state": "extracted",
+   "read_state_basis": "asserted:fetched-browser-ua-required-null"
   },
   {
    "source_id": "src_dean_jcs",
@@ -1457,8 +1457,8 @@
    "extraction_version": "4.7",
    "reliability": "secondary",
    "notes": "Globe and Mail obituary hosted on CMAT website. Full biography: birth, education, military, peacekeeping, death in Tupiza, Bolivia. [2026-08-18, p_263] ALIAS RECORD: same origin_url as src_cmat_caddell_memorial, which the wiki already uses. Not unexamined material. Do not re-research; consolidate or leave, but never count as a research lead.",
-   "read_state": "extracted",
-   "read_state_basis": "asserted:alias-of-src_cmat_caddell_memorial"
+   "read_state": "unavailable",
+   "read_state_basis": "asserted:404-site-rebuilt-wayback-egress-blocked"
   },
   {
    "source_id": "src_mcgill_news_caddell",
@@ -1475,8 +1475,8 @@
    "extraction_version": null,
    "reliability": "secondary",
    "notes": "McGill News archive article about Caddell-Newell round-the-world trip.",
-   "read_state": "unknown",
-   "read_state_basis": "derived:dormant"
+   "read_state": "extracted",
+   "read_state_basis": "asserted:fetched-page1-page2-404"
   },
   {
    "source_id": "src_wikipedia_richard_patten",
@@ -2249,8 +2249,8 @@
    "extraction_version": null,
    "reliability": "primary",
    "notes": "Historical photograph of Camp Otoreke (YMCA Camp) at Saint-Adolphe-d'Howard.",
-   "read_state": "unknown",
-   "read_state_basis": "derived:dormant"
+   "read_state": "extracted",
+   "read_state_basis": "asserted:fetched-and-read-raw-html"
   },
   {
    "source_id": "src_ancestry_dimock",
@@ -3473,8 +3473,8 @@
    "extraction_version": "ralph-twynam-2026-03-15",
    "reliability": "primary",
    "notes": "Twynam, Farrell, Johnston (2002). Leisure/Loisir 27: 363-377. Developed Special Event Volunteer Motivation Scale (SEVMS). Twynam affiliated with Lakehead at time of publication.",
-   "read_state": "unknown",
-   "read_state_basis": "derived:dormant"
+   "read_state": "skimmed",
+   "read_state_basis": "asserted:citation-confirmed-via-crossref-text-unread"
   },
   {
    "source_id": "src_tru_newsroom_2008_skills",
@@ -3491,8 +3491,8 @@
    "extraction_version": "ralph-twynam-2026-03-15",
    "reliability": "primary",
    "notes": "Identifies 'David Twynam, TRU Dean of Tourism' in March 2008.",
-   "read_state": "unknown",
-   "read_state_basis": "derived:dormant"
+   "read_state": "extracted",
+   "read_state_basis": "asserted:fetched-and-read-null"
   },
   {
    "source_id": "src_heartofgold_ws",
@@ -3843,16 +3843,16 @@
    "date": "2026",
    "date_precision": "year",
    "origin": "web",
-   "origin_url": "https://campsquebec.com/en/camps/camp-ymca-kanawana",
+   "origin_url": "https://campsquebec.com/camps/camp-ymca-kanawana-2",
    "cache_path": null,
    "char_count": 0,
    "ingested_at": "2026-03-15T04:01:24.075548",
    "extracted": true,
    "extraction_version": "v4.21",
    "reliability": "secondary",
-   "notes": "Confirms Kanawana is ACQ-accredited camp. 550-acre site, 3 lakes, 10 min from Saint-Sauveur. ACQ supervision ratios apply.",
-   "read_state": "unknown",
-   "read_state_basis": "derived:dormant"
+   "notes": "Confirms Kanawana is ACQ-accredited camp. 550-acre site, 3 lakes, 10 min from Saint-Sauveur. ACQ supervision ratios apply. [2026-08-18 p_263] URL REPAIRED from https://campsquebec.com/en/camps/camp-ymca-kanawana to https://campsquebec.com/camps/camp-ymca-kanawana-2; the old path was dead.",
+   "read_state": "extracted",
+   "read_state_basis": "asserted:fetched-after-url-repair"
   },
   {
    "source_id": "src_trent_oca_finding_aid_pdf",
@@ -4005,16 +4005,16 @@
    "date": "2024",
    "date_precision": "year",
    "origin": "web",
-   "origin_url": null,
+   "origin_url": "https://www.ciusss-ouestmtl.gouv.qc.ca/en/news-and-events/single/a-safe-haven-for-90-years-now",
    "cache_path": null,
    "char_count": 0,
    "ingested_at": "2026-03-15T04:12:17.819844",
    "extracted": true,
    "extraction_version": "v4.22",
    "reliability": "secondary",
-   "notes": "90th anniversary announcement for Camp Weredale (founded 1934). Confirms founding date, location, current operations.",
-   "read_state": "unknown",
-   "read_state_basis": "derived:dormant"
+   "notes": "90th anniversary announcement for Camp Weredale (founded 1934). Confirms founding date, location, current operations. [2026-08-18 p_263] URL REPAIRED from None to https://www.ciusss-ouestmtl.gouv.qc.ca/en/news-and-events/single/a-safe-haven-for-90-years-now; the old path was dead.",
+   "read_state": "extracted",
+   "read_state_basis": "asserted:fetched-url-discovered"
   },
   {
    "source_id": "src_dawson_crlt",
@@ -4464,7 +4464,7 @@
    "reliability": "secondary",
    "notes": "Wikipedia biography. Cross-referenced against Canadian Encyclopedia, Canada Post profile, and Concordia citation. [2026-08-18, p_263] ALIAS RECORD: same origin_url as src_wikipedia_mosher, which the wiki already uses. Not unexamined material. Do not re-research; consolidate or leave, but never count as a research lead.",
    "read_state": "extracted",
-   "read_state_basis": "asserted:alias-of-src_wikipedia_mosher"
+   "read_state_basis": "asserted:fetched-and-read-null"
   },
   {
    "source_id": "src_cae_mosher",
@@ -4482,7 +4482,7 @@
    "reliability": "secondary",
    "notes": "Canadian Encyclopedia entry. Peer-reviewed reference source. [2026-08-18, p_263] ALIAS RECORD: same origin_url as src_canadian_encyclopedia_mosher, which the wiki already uses. Not unexamined material. Do not re-research; consolidate or leave, but never count as a research lead.",
    "read_state": "extracted",
-   "read_state_basis": "asserted:alias-of-src_canadian_encyclopedia_mosher"
+   "read_state_basis": "asserted:fetched-browser-ua-required-null"
   },
   {
    "source_id": "src_canadapost_mosher",
@@ -4500,7 +4500,7 @@
    "reliability": "primary",
    "notes": "Canada Post profile for 2021 commemorative stamp. Childhood in Montreal, Rue du Trésor, Richard Riot witness. [2026-08-18, p_263] ALIAS RECORD: same origin_url as src_canada_post_mosher_2021, which the wiki already uses. Not unexamined material. Do not re-research; consolidate or leave, but never count as a research lead.",
    "read_state": "extracted",
-   "read_state_basis": "asserted:alias-of-src_canada_post_mosher_2021"
+   "read_state_basis": "asserted:fetched-and-read-null"
   },
   {
    "source_id": "src_concordia_mosher_2018",
@@ -4517,8 +4517,8 @@
    "extraction_version": "ralph-mosher-r1-2026-03-15",
    "reliability": "primary",
    "notes": "Official Concordia honorary degree citation. Confirms June 2018 Doctor of Laws, joint with Serge Chapleau.",
-   "read_state": "unknown",
-   "read_state_basis": "derived:dormant"
+   "read_state": "extracted",
+   "read_state_basis": "asserted:fetched-and-read-null"
   },
   {
    "source_id": "src_montrealer_mosher_2016",
@@ -4553,8 +4553,8 @@
    "extraction_version": "ralph-mosher-r1-2026-03-15",
    "reliability": "secondary",
    "notes": "Feature on the iconic 1976 'OK Everybody Take a Valium' Lévesque cartoon.",
-   "read_state": "unknown",
-   "read_state_basis": "derived:dormant"
+   "read_state": "extracted",
+   "read_state_basis": "asserted:fetched-and-read-null"
   },
   {
    "source_id": "src_nfb_nothing_sacred",
@@ -4571,8 +4571,8 @@
    "extraction_version": "ralph-mosher-r1-2026-03-15",
    "reliability": "primary",
    "notes": "NFB documentary profiling Mosher and Chapleau.",
-   "read_state": "unknown",
-   "read_state_basis": "derived:dormant"
+   "read_state": "skimmed",
+   "read_state_basis": "asserted:catalogue-metadata-read-film-unviewable"
   },
   {
    "source_id": "src_canadian_encyclopedia_mosher",
@@ -4625,8 +4625,8 @@
    "extraction_version": "v4.27",
    "reliability": "primary",
    "notes": "Doctor of Laws, honoris causa. Convocation June 2018 at Salle Wilfrid-Pelletier.",
-   "read_state": "unknown",
-   "read_state_basis": "derived:dormant"
+   "read_state": "extracted",
+   "read_state_basis": "asserted:fetched-and-read-null"
   },
   {
    "source_id": "src_mccord_aislin_50",
@@ -4733,8 +4733,8 @@
    "extraction_version": "v4.27",
    "reliability": "secondary",
    "notes": "Popular history account.",
-   "read_state": "unknown",
-   "read_state_basis": "derived:dormant"
+   "read_state": "extracted",
+   "read_state_basis": "asserted:duplicate-of-src_canada_ehx_pageant"
   },
   {
    "source_id": "src_guinness_canoe_race",
@@ -4787,8 +4787,8 @@
    "extraction_version": "v4.27",
    "reliability": "tertiary",
    "notes": "Morse biography, Pageant route planning.",
-   "read_state": "unknown",
-   "read_state_basis": "derived:dormant"
+   "read_state": "extracted",
+   "read_state_basis": "asserted:fetched-and-read-null"
   },
   {
    "source_id": "src_guysborough_journal",
@@ -4805,8 +4805,8 @@
    "extraction_version": "v4.27",
    "reliability": "secondary",
    "notes": "Nova Scotia team background.",
-   "read_state": "unknown",
-   "read_state_basis": "derived:dormant"
+   "read_state": "extracted",
+   "read_state_basis": "asserted:fetched-browser-ua-required-null"
   },
   {
    "source_id": "src_cbc_archives_pageant",
@@ -4823,8 +4823,8 @@
    "extraction_version": "v4.27",
    "reliability": "primary",
    "notes": "Launch and finish footage. Also CBC Doc Project 'Paddle of the Century'.",
-   "read_state": "unknown",
-   "read_state_basis": "derived:dormant"
+   "read_state": "skimmed",
+   "read_state_basis": "asserted:clip-metadata-read-footage-unviewed"
   },
   {
    "source_id": "src_mediaterre_kanawana_2009",
@@ -4895,8 +4895,8 @@
    "extraction_version": "v4.27",
    "reliability": "secondary",
    "notes": "Day described as 'former director'.",
-   "read_state": "unknown",
-   "read_state_basis": "derived:dormant"
+   "read_state": "extracted",
+   "read_state_basis": "asserted:fetched-and-read"
   },
   {
    "source_id": "src_ymca_mclean_fund",
@@ -4905,16 +4905,16 @@
    "date": "2017",
    "date_precision": "year",
    "origin": "web",
-   "origin_url": "https://www.ymcaquebec.org/en/Blog/The-Stuart-McLean-Camp-Kanawana-Fund-providing-fi",
+   "origin_url": "https://www.ymcaquebec.org/en/news/the-stuart-mclean-camp-ymca-kanawana-fund-providing-financial-support-for-campers-in-need",
    "cache_path": null,
    "char_count": 0,
    "ingested_at": "2026-03-16T04:30:00Z",
    "extracted": true,
    "extraction_version": "v4.27",
    "reliability": "primary",
-   "notes": "Fund description and purpose.",
-   "read_state": "unknown",
-   "read_state_basis": "derived:dormant"
+   "notes": "Fund description and purpose. [2026-08-18 p_263] URL REPAIRED from https://www.ymcaquebec.org/en/Blog/The-Stuart-McLean-Camp-Kanawana-Fund-providing-fi to https://www.ymcaquebec.org/en/news/the-stuart-mclean-camp-ymca-kanawana-fund-providing-financial-support-for-campers-in-need; the old path was dead.",
+   "read_state": "extracted",
+   "read_state_basis": "asserted:fetched-after-url-repair"
   },
   {
    "source_id": "src_hamilton_community_foundation",
@@ -4931,8 +4931,8 @@
    "extraction_version": "v4.27",
    "reliability": "primary",
    "notes": "Ed Smee Conserver Society Environmental Fund.",
-   "read_state": "unknown",
-   "read_state_basis": "derived:dormant"
+   "read_state": "extracted",
+   "read_state_basis": "asserted:fetched-and-read"
   },
   {
    "source_id": "src_ymca_pip_orbinski_2024",
@@ -5435,8 +5435,8 @@
    "extraction_version": "v4.32",
    "reliability": "primary",
    "notes": "YMCA Quebec promotional page for Kanawana 125th anniversary celebration in summer 2019. Page returns 403 but URL and title confirm event.",
-   "read_state": "unknown",
-   "read_state_basis": "derived:dormant"
+   "read_state": "unavailable",
+   "read_state_basis": "asserted:url-dead-silent-302-and-wayback-egress-blocked"
   },
   {
    "source_id": "src_readers_digest_camp_shapes_lives",
@@ -5921,8 +5921,8 @@
    "extraction_version": null,
    "reliability": "secondary",
    "notes": "CJA Annual Report 2007-2008 mentions Camp Oolahwan. May contain programming or closure details.",
-   "read_state": "unknown",
-   "read_state_basis": "derived:dormant"
+   "read_state": "unavailable",
+   "read_state_basis": "asserted:cloudflare-403-never-seen"
   },
   {
    "source_id": "src_dawson_seaman_scholarship",
@@ -10061,8 +10061,8 @@
    "extraction_version": "v4.96",
    "reliability": "primary",
    "notes": "Only one passing Kanawana mention (a 20-youth group listing) -- checked and confirmed low-yield, not further mined.",
-   "read_state": "unknown",
-   "read_state_basis": "derived:dormant"
+   "read_state": "unavailable",
+   "read_state_basis": "asserted:wayback-egress-blocked-never-opened"
   },
   {
    "source_id": "src_ymcaquebec_annualreport_2019",
@@ -10439,8 +10439,8 @@
    "extraction_version": null,
    "reliability": "primary",
    "notes": "A Wayback CDX prefix scan of the camp's predecessor domains surfaced ~20 additional documents not yet deep-extracted: French/English parent guides for 2009 (already cached), 2010, 2011, 2012, 2014 (regular + expedition), an undated LIT guide, packing lists (2005, 2013), maps to camp (2005, 2012, 2014), payment/donation/registration forms (2005), and a 2015 sessions-and-rates sheet confirming the 'Fonds Sam Lazarus' name for unspent tuck-account donations. Downloaded copies retained in the session scratchpad. Flagged as a future extraction pass (see priorities.json) rather than fully mined this campaign, since their content substantially overlaps already-documented program/fee/policy facts from later years.",
-   "read_state": "unknown",
-   "read_state_basis": "derived:dormant"
+   "read_state": "unavailable",
+   "read_state_basis": "asserted:wayback-egress-blocked-zero-snapshots-enumerated"
   },
   {
    "source_id": "src_ia_ymca_annual_1890_91",
