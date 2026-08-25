@@ -1,6 +1,6 @@
 # James H. Turner
 
-*Status: stub | Sources: 3*
+*Status: draft | Sources: 3*
 *Last Updated: 2026-08-14*
 
 ## Overview
@@ -18,6 +18,31 @@ A Montreal YMCA news release of January 1970 introduces him in terms that make t
 The 1970 season report prints the organisation chart that goes with it — "Camp Executive Director / Director of Camping" above "Camp Director" and "Asst. Camp Director."^1 That structure closed by 1974, when Derek Walsh held the branch and signed the camp's own report simultaneously. The wiki dates its "Two-Tier Era" to 1995; Turner's years show the camp had tried the same shape twenty-five years earlier. See [[people/directors-index|Directors and Staff of Camp Kanawana]].
 
 The 1970 report is also where the camp records its erosion crisis in its own words — the main areas "do not look like a camp but a section of St. Catherine Street" — and documents its first season hosting campers with cystic fibrosis. See [[traditions/environmental-history|Environmental Education and Stewardship]].
+
+## Before Kanawana
+
+Three postings are documented in the four years before the camp, and they show a branch man moving
+steadily up the suburban side of the association. The 1967 annual report records the first:
+"**J. Turner, Youth Secretary, International Branch to Assistant Secretary, Lachine-Dorval
+Branch**."^4 By November 1968 he was running that branch — a staff newsletter describes a
+Youth-and-Industry pilot backed by "five major companies and Châteauguay school officials" as
+"conceived by **Jim Turner, the Branch's executive secretary**, who will also serve as
+co-ordinator," a programme designed "to give students an in-depth look at industry… tour plants, meet
+face-to-face with all levels of management and have opportunities to quiz executives about company
+philosophies, objectives, operating methods."^5 In September 1969 the West Island and Lachine-Dorval
+branches amalgamated, and he became "**associate executive, with special responsibility for staff
+supervision and North Shore area development**."^3
+
+The 1970 appointment was announced from that post, in a news release headed **"TURNER TO KANAWANA"**:
+"Jim Turner, associate executive of the amalgamated operations of West Island and Lachine-Dorval
+Branches, will be the **on-site director and head of program** at Kamp Kanawana this summer. An
+all-round youth worker, he is best known for his **innovative approach to activities for school-age
+youngsters**."^3 The French edition of the same release renders the appointment "directeur et chef des
+programmes" and adds that "il dialogue facilement avec eux grâce à son approche non-conformiste."
+
+**This settles the two-tier question for his tenure.** The association's own announcement calls him
+the *on-site* director in as many words, while [[people/roy-locke|Roy D. Locke]] held the Camping
+Branch above him — exactly the structure this article describes.
 
 ## The 1971 recommendation
 
@@ -49,6 +74,8 @@ The same report recommends discontinuing the camp's riding program, which does d
 1. *Kamp Kanawana Annual Report 1970* [src_ia_kanawana_report_1970] and *Director's Report 1971* [src_ia_kanawana_report_1971], YMCA of Montreal (Internet Archive).
 2. *Kanawana… A Place to Grow*, YMCA of Montreal report, 1988 — for the 1986 sale of the Lac Bec-scies property [src_ia_kanawana_place_to_grow_1988]; and the YMCA of Montreal Annual Reports 1967–1972 for his branch postings and the Camping Branch structure [src_ia_ymca_montreal_annual_reports_collection].
 3. Montreal YMCA news releases of 29 January 1970 ("TURNER TO KANAWANA") and 2 September 1969 (the West Island/Lachine-Dorval amalgamation), in the Concordia-digitized fonds [src_ia_ymca_montreal_fonds_collection]; *The Lookout* Vol. 1 No. 3, autumn 1993 [src_ia_the_lookout_1993].
+4. YMCA of Montreal Annual Report 1967, staff transfers [src_ia_ymca_montreal_annual_reports_collection].
+5. Montreal YMCA staff newsletter, 28 November 1968 [src_ia_ymca_montreal_fonds_collection].
 
 ## Research Notes
 

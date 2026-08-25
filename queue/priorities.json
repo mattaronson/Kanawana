@@ -633,8 +633,9 @@
    "blocking": false,
    "assigned_weight": "P1",
    "created_at": "2026-08-14T00:00:00Z",
-   "status": "pending",
-   "tier": "3-RALPH"
+   "status": "complete",
+   "tier": "3-RALPH",
+   "notes": "2026-08-25: all five advanced stub -> draft via a RALPH loop over three locally cached corpora (164 Canadian Camping issues, 634 YMCA documents, 38 Green Triangle issues). All four named sub-questions answered: (a) Locke's QCA standing dated 1949-1954 and his Manual of Operations bylined; (b) Shantz no longer rests on silence -- 1943 Training Fellowship, 1958 Boys' Camping Committee, 1993 alumni roll; (c) Robitaille ran 1973 hands-on, evidenced and labelled an inference, with a 1973-74 Potts handover found; (d) Anderson pushed back to a 1962 Sir George Williams / Lebanon World Service Fellowship lead. Verification to R3 tracked as p_287."
   },
   {
    "priority_id": "p_277",
@@ -3692,6 +3693,19 @@
    "created_at": "2026-08-25T00:00:00Z",
    "status": "pending",
    "notes": "Spawned on creation of the article."
+  },
+  {
+   "priority_id": "p_287",
+   "rank": 286,
+   "type": "VERIFY",
+   "article_id": "directors-index",
+   "tier": "3-RALPH",
+   "assigned_weight": "P2",
+   "description": "VERIFY the five director drafts (roy-locke, murray-shantz, geoff-anderson, james-h-turner, leo-robitaille) draft -> R3-verified. THREE ITEMS NEED PRIMARY RE-READING RATHER THAN MORE SEARCHING: (1) the 1962 annual report page naming Geoff Anderson -- the OCR is column-interleaved and the Lebanon/Sir George Williams reading must be checked against the scan before it is asserted (f_2303); (2) whether the Roy Locke who was Mayor of Montreal West in 1978 is the YMCA man -- Montreal West council records settle it in one query (f_2301); (3) the 1972-1974 Camping Branch sequence, where Tom Potts and Leo Robitaille are both named for the same post in 1973-74 and The Lookout separately places Potts at the camp for 'part of 72' (f_2305).",
+   "blocking": false,
+   "created_at": "2026-08-25T00:00:00Z",
+   "status": "pending",
+   "notes": "Spawned on completing p_254."
   }
  ],
  "queue_ordering": {

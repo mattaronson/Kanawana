@@ -4387,3 +4387,58 @@ association printed such notices when it chose to. Patton's memoir remains the o
 without an assertion, and a third aborted the whole write. Everything was re-applied with assertions
 on every match. Worth remembering: a silent no-op edit is indistinguishable from a successful one
 unless you check.
+
+---
+
+## 2026-08-25 — p_254: five director stubs advanced to draft
+
+A single RALPH loop over three corpora now cached locally — 164 *Canadian Camping* issues, 634 YMCA of
+Montreal documents, 38 *Green Triangle* issues — swept for all five names at once. No new fetching was
+needed; the material was already on disk from the last two days' work. **All four of p_254's named
+sub-questions are answered.**
+
+**(a) Roy D. Locke** — his standing in the national movement is now dated year by year: Vice-President
+of the Quebec Section (June 1949), **President** of the Quebec Association (February 1951 and April
+1952), Past President (April and June 1954). His "A Manual of Operations" is bylined "**Roy D. Locke,
+Executive Secretary: Boys' Camping, Montreal Y.M.C.A.**" and was still carried in the magazine's
+cumulative subject index a decade later. He appears at a February 1951 national committee alongside
+Mary Edgar of Camp Oolahwan and Agnes Mutchler of the Junior League Camp — two people this wiki now
+has articles on.
+
+A separate lead is recorded and **explicitly not asserted**: the 1978 director's report thanks "the
+Town of Montreal West and **Mayor Roy Locke** for the loan of water meters this summer." Name, place
+and period all fit a man who moved to the Westmount Branch in 1954 and was on Metropolitan Staff in
+1986 — but nothing links the mayor to the YMCA, and "Roy Locke" is not rare enough to carry it.
+Montreal West's council records would settle it in one query.
+
+**(b) Murray B. Shantz no longer rests on an argument from silence.** Both ends of his career are now
+documented: he entered the profession through a **Montreal Training Fellowship in 1943**, eleven years
+before the association appointed him to camping, and he sat on the **Boys' Camping Committee** in 1958
+alongside Hedley Dimock and O. N. H. Owens. He was still a known name to the camp in 1993, in *The
+Lookout*'s alumni roll. The 1959 report's "Murray G. Shantz" is a transcription slip.
+
+**(c) Leo J. Robitaille ran the 1973 season hands-on** — recorded as an inference from three
+documents, and labelled as one. His report is written in the first person of someone making
+operational decisions ("get a doctor… in the infirmary. **With Medicare this is quite feasible at no
+cost to us**") and names no on-site director above or below him; two months later a news release states
+that Kanawana's winter "**instructional courses will be directed by Leo Robitaille**," with
+registrations taken on a residential line under "Mrs. Elaine Robitaille." A handover is visible the
+next year: the 1973–74 report lists the branch executive as "**T. Potts/L. Robitaille**," both men
+named for the same post. And a disambiguation the sweep forced: **Georges Robitaille**, ACQ
+French-section president in 1976–77, appears repeatedly in *Canadian Camping* in these same years and
+is a different man.
+
+**(d) Geoff Anderson is pushed back seven years.** The 1962 annual report names him in a passage about
+a **World Service Fellowship student from Sir George Williams University** who "spent his summer" with
+a work camp "at the refugee camp in" **Lebanon**. **The OCR of that page is column-interleaved**, so
+the name's association with the fellowship is legible but the sentence structure is not. Recorded as a
+lead requiring a re-read from the scan, not as a finding.
+
+**Also settled: the two-tier question for Turner.** The association's own release of 29 January 1970,
+headed "TURNER TO KANAWANA," calls him "**the on-site director and head of program**" in as many
+words, with Roy Locke over the Camping Branch above him. His three prior postings are now documented
+too, including a 1968 Youth-and-Industry pilot he conceived as Lachine-Dorval's executive secretary.
+
+All five moved **stub → draft**. `p_254` closed; `p_287` opened for the R3 pass, naming the three
+items that need **primary re-reading rather than more searching**: the interleaved 1962 page, the
+Montreal West mayoralty, and the 1972–74 Potts/Robitaille sequence.

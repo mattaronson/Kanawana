@@ -1,6 +1,6 @@
 # Geoff Anderson
 
-*Status: stub | Sources: 3*
+*Status: draft | Sources: 3*
 *Last Updated: 2026-08-14*
 
 ## Overview
@@ -16,6 +16,21 @@ Anderson dates his own appointment, in the first person, in the season report he
 He signs that report "Geoff Anderson, Director," and a May 1969 Montreal YMCA news release independently calls him "**Geoff Anderson, Director of Kanawana**."^1 ^3
 
 The report itself is unusual in tone. Anderson opens by warning the reader what kind of document it is: "Any report which has as its major pre-occupation giving recommendations has, of necessity, to focus on items needing improvements. Thus a report may appear to be negative. This is not my objective, many positive things happened at camp and should not be forgotten."^1 It is also the report that records **a camper drowning that summer** — the only known camper fatality in the camp's documented history. See [[history/postwar-gap|The Postwar Gap]].
+
+## An Earlier Trace: Lebanon, c. 1962
+
+A corpus sweep on 2026-08-25 found him seven years before the West Island posting, in the *YMCA
+International* section of the 1962 annual report. The OCR of that page is badly scrambled — columns
+have been interleaved — so it is quoted here only as far as it can be trusted: it names "**Geoff
+Anderson**" in a passage about a **World Service Fellowship student** from **Sir George Williams
+University** who "**spent his summer**" with a work camp "**at the refugee camp in**" **Lebanon**,
+noting it was "the second year that a student from" the university had been so placed.^4
+
+The association of the name with the fellowship is legible; the exact sentence structure is not. On
+the most natural reading Anderson was that student — which would make him a Sir George Williams
+undergraduate placed at a Palestinian refugee camp in Lebanon in the summer of 1962, six years before
+he turns up running youth work in Pierrefonds. **This is a lead, not a finding**, and it is recorded
+that way: the page needs re-reading from the scan rather than the OCR before anything is asserted.
 
 ## Before and After
 
@@ -44,6 +59,7 @@ He left within the year. A French-language news release of **28 November 1969** 
 1. *Kamp Kanawana Annual Report 1969*, YMCA of Montreal (Internet Archive) — signed "Geoff Anderson, Director" [src_ia_kanawana_report_1969].
 2. YMCA of Montreal Annual Reports 1967 (appointment to West Island Branch) and 1968 (transfer to Director, Kamp Kanawana) [src_ia_ymca_montreal_annual_reports_collection].
 3. Montreal YMCA news releases of 13 May 1969 and 28 November 1969, and a 1968 branch newsletter, in the Concordia-digitized fonds [src_ia_ymca_montreal_fonds_collection]; the "Jeff Anderson" variant from *The Lookout* Vol. 1 No. 3, autumn 1993 [src_ia_the_lookout_1993].
+4. YMCA of Montreal Annual Report 1962, "YMCA International" section [src_ia_ymca_montreal_annual_reports_collection]. **OCR badly interleaved on this page**; see the caution in the text above.
 
 ## Research Notes
 

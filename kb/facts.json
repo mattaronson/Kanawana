@@ -1,8 +1,8 @@
 {
- "version": "5.54",
- "kb_version": "v5.54",
+ "version": "5.55",
+ "kb_version": "v5.55",
  "migrated_from": "3.3",
- "fact_count": 2262,
+ "fact_count": 2267,
  "facts": [
   {
    "fact_id": "f_0001",
@@ -39136,6 +39136,83 @@
    "date_ref": "1891",
    "conflicts_with": [],
    "added_version": "v5.54",
+   "added_by": "ralph_loop"
+  },
+  {
+   "fact_id": "f_2301",
+   "claim": "ROY D. LOCKE'S STANDING IN THE CANADIAN CAMPING MOVEMENT, dated from the complete Canadian Camping run: June 1949 'Kanawana, at present directed by Roy Locke, VICE-PRESIDENT of the Quebec Section'; February 1951 programme-committee chairman as 'Roy D. Locke, PRESIDENT of the Quebec Association'; April 1952 'Roy D. Locke director of Y.M.C. Kamp Kanawana is president of the Quebec Camping Association'; April 1954 listed as Quebec PAST PRESIDENT and 'Boys' Work Secretary, Metropolitan YMCA Montreal'; June 1954 'Past President of the Q.C.A.' giving a conference speech. He also sat on a February 1951 national committee alongside Mary Edgar (founder of Camp Oolahwan), Agnes Mutchler (Junior League Camp) and CCA president Kenneth Murray. His 1953 'A Manual of Operations' article is bylined 'Roy D. Locke, EXECUTIVE SECRETARY: BOYS' CAMPING, MONTREAL Y.M.C.A.' and was still carried in the magazine's cumulative subject index printed in December 1963. SEPARATE, UNVERIFIED LEAD: the 1978 Kamp Kanawana director's report thanks 'the Town of Montreal West and MAYOR ROY LOCKE for the loan of water meters this summer'. Locke moved to the Westmount Branch in September 1954 and was on Metropolitan Staff in 1986, so the name, place and period fit -- but no document links the mayor to the YMCA and the identification is NOT asserted.",
+   "sources": [
+    "src_ia_canadian_camping_collection",
+    "src_ia_ymca_montreal_fonds_collection"
+   ],
+   "confidence": "stated",
+   "category": "people",
+   "entities": [],
+   "date_ref": "1943-1978",
+   "conflicts_with": [],
+   "added_version": "v5.55",
+   "added_by": "ralph_loop"
+  },
+  {
+   "fact_id": "f_2302",
+   "claim": "MURRAY B. SHANTZ ENTERED THE YMCA PROFESSION AS A MONTREAL TRAINEE. The 1943 annual report records that 'Murray Shantz, George Barker, Gordon Patrick and Lloyd Welton complete their TRAINING FELLOWSHIPS' under the association's policy 'of providing Training Fellowships to young men looking to the Assn. secretaryship as a career' -- eleven years before Montreal appointed him to camping. He also sat on the association's Boys' Camping Committee: the 1958 Camp Perrot annual report lists 'Murray B. Shantz' alongside Hedley Dimock, George Clouston, O. N. H. Owens and Dr. Preston Robb, so his camping involvement extended beyond Kanawana. And he was still a known name to the camp in 1993, appearing as 'Murry Shantz' in the alumni roll printed in The Lookout. The 1959 report's 'Murray G. Shantz' is a transcription slip; every other appearance gives B.",
+   "sources": [
+    "src_ia_ymca_montreal_annual_reports_collection",
+    "src_ia_camp_perrot_collection",
+    "src_ia_the_lookout_1993"
+   ],
+   "confidence": "stated",
+   "category": "people",
+   "entities": [],
+   "date_ref": "1943-1978",
+   "conflicts_with": [],
+   "added_version": "v5.55",
+   "added_by": "ralph_loop"
+  },
+  {
+   "fact_id": "f_2303",
+   "claim": "GEOFF ANDERSON, EARLIER TRACE -- A LEAD, NOT A FINDING. The YMCA of Montreal's 1962 annual report names 'Geoff Anderson' in its 'YMCA International' section, in a passage about a WORLD SERVICE FELLOWSHIP student from SIR GEORGE WILLIAMS UNIVERSITY who 'spent his summer' with a work camp 'at the refugee camp in' LEBANON, noting it was 'the second year that a student from' the university had been placed. THE OCR OF THIS PAGE IS BADLY INTERLEAVED -- columns are scrambled -- so the association of the name with the fellowship is legible but the sentence structure is not. On the most natural reading Anderson was that student, which would place him at Sir George Williams and in Lebanon in summer 1962, six years before he appears running youth work at West Island's North Shore Centre in Pierrefonds. The page needs re-reading from the scan rather than the OCR before anything is asserted.",
+   "sources": [
+    "src_ia_ymca_montreal_annual_reports_collection"
+   ],
+   "confidence": "stated",
+   "category": "people",
+   "entities": [],
+   "date_ref": "1943-1978",
+   "conflicts_with": [],
+   "added_version": "v5.55",
+   "added_by": "ralph_loop"
+  },
+  {
+   "fact_id": "f_2304",
+   "claim": "JAMES H. TURNER'S PRE-KANAWANA POSTINGS, and confirmation that he was the ON-SITE director. 1967 annual report: 'J. Turner, Youth Secretary, International Branch to Assistant Secretary, Lachine-Dorval Branch'. November 1968 staff newsletter: a Youth-and-Industry pilot backed by 'five major companies and Chateauguay school officials' was 'conceived by JIM TURNER, THE BRANCH'S EXECUTIVE SECRETARY, who will also serve as co-ordinator' -- designed 'to give students an in-depth look at industry... tour plants, meet face-to-face with all levels of management'. September 1969: on the West Island / Lachine-Dorval amalgamation he became 'associate executive, with special responsibility for staff supervision and North Shore area development'. The news release of 29 January 1970, headed 'TURNER TO KANAWANA', then states he 'will be the ON-SITE DIRECTOR AND HEAD OF PROGRAM at Kamp Kanawana this summer... best known for his innovative approach to activities for school-age youngsters'; the French edition gives 'directeur et chef des programmes'. This settles the two-tier question for his tenure in the association's own words: Turner on site, Roy Locke over the Camping Branch above him.",
+   "sources": [
+    "src_ia_ymca_montreal_annual_reports_collection",
+    "src_ia_ymca_montreal_fonds_collection"
+   ],
+   "confidence": "stated",
+   "category": "people",
+   "entities": [],
+   "date_ref": "1943-1978",
+   "conflicts_with": [],
+   "added_version": "v5.55",
+   "added_by": "ralph_loop"
+  },
+  {
+   "fact_id": "f_2305",
+   "claim": "LEO J. ROBITAILLE RAN THE 1973 SEASON HANDS-ON -- an inference from three documents, stated as such. His Director's Report of 17 August 1973 is written in the first person of someone making operational decisions (recommendations to 'send at least two more people to the Canadian Canoe School', 'have less C.I.T.s in camp', and 'get a doctor... in the infirmary. With Medicare this is quite feasible at no cost to us') and names no on-site director above or below him. Two months later a news release of 26 October 1973 announcing Kanawana's winter season -- 'a lift, three downhill slopes, 20 miles of trails for cross-country skiing and snowshoeing, a club house and a baby-sitting service' -- states that 'INSTRUCTIONAL COURSES WILL BE DIRECTED BY LEO ROBITAILLE', and gives a residential contact number for 'Mrs. Elaine Robitaille'. A HANDOVER IS VISIBLE THE NEXT YEAR: the 1973-74 annual report lists the Camping and Outdoor Education Branch executive as 'T. Potts/L. Robitaille', both men named for the same post. DISAMBIGUATION: Georges Robitaille, president of the ACQ's French section in 1976-77 and a Recreation Canada consultant, appears repeatedly in Canadian Camping in these same years and is a DIFFERENT MAN.",
+   "sources": [
+    "src_ia_kanawana_report_1973",
+    "src_ia_ymca_montreal_annual_reports_collection",
+    "src_ia_ymca_montreal_fonds_collection",
+    "src_ia_canadian_camping_collection"
+   ],
+   "confidence": "stated",
+   "category": "people",
+   "entities": [],
+   "date_ref": "1943-1978",
+   "conflicts_with": [],
+   "added_version": "v5.55",
    "added_by": "ralph_loop"
   }
  ]

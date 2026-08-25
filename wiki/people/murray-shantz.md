@@ -1,11 +1,11 @@
 # Murray B. Shantz
 
-*Status: stub | Sources: 1*
+*Status: draft | Sources: 1*
 *Last Updated: 2026-08-14*
 
 ## Overview
 
-**Murray B. Shantz** was Director of Kamp Kanawana in the mid-1950s, bridging [[people/roy-locke|Roy D. Locke]] and [[people/a-ross-seaman|A. Ross Seaman]]. He is the thinnest-documented director in this index — one document names him in the role — and the article is kept short accordingly.
+**Murray B. Shantz** was Director of Kamp Kanawana in the mid-1950s, bridging [[people/roy-locke|Roy D. Locke]] and [[people/a-ross-seaman|A. Ross Seaman]]. One document names him in the role directly; a corpus sweep on 2026-08-25 added the two ends of his career and moved this article from stub to draft. He was a career YMCA secretary — entering the profession through a Montreal training fellowship in 1943, arriving at Kanawana by way of the Cornwall general secretaryship, and leaving Montreal for the national staff in 1959.
 
 ## Directorship (1955–1958)
 
@@ -13,7 +13,17 @@ The single naming source is the printed agenda of the Montreal YMCA's annual mee
 
 > "MURRAY B. SHANTZ, Assistant Metropolitan Program Secretary **and Director of Kamp Kanawana**."^1
 
-His arrival and departure are documented separately and bracket the tenure. He came from the **General Secretaryship of the Cornwall YMCA**, appointed Assistant Metropolitan Program Secretary on **15 September 1954** — filling the portfolio Roy Locke had vacated a fortnight earlier.^1 He left in 1959: "A. R. Seaman became Metropolitan Program Secretary, Secretary and Director of Boys' Camping, succeeding **Murray G. Shantz**, who joined the YMCA National Council staff."^1
+**He entered the profession as a Montreal trainee.** The 1943 annual report records that "**Murray Shantz**, George Barker, Gordon Patrick and Lloyd Welton complete their **Training Fellowships**" — the association's own scheme for "young men looking to the Assn. secretaryship as a career."^2 He is therefore a Montreal product, formed by the association eleven years before it appointed him to camping.
+
+His arrival and departure are documented separately and bracket the tenure. He came from the **General Secretaryship of the Cornwall YMCA**, appointed Assistant Metropolitan Program Secretary on **15 September 1954** — filling the portfolio Roy Locke had vacated a fortnight earlier.^1 He left in 1959: "A. R. Seaman became Metropolitan Program Secretary, Secretary and Director of Boys' Camping, succeeding **Murray G. Shantz**, who joined the YMCA National Council staff."^1 (The "G." is a transcription slip; every other appearance gives B.)
+
+## Beyond the Directorship
+
+He sat on the association's **Boys' Camping Committee** alongside Hedley Dimock, George Clouston, O. N. H. Owens and Dr. Preston Robb — the 1958 Camp Perrot annual report lists "**Murray B. Shantz**" among them, so his camping involvement extended past Kanawana to the association's other camp.^3
+
+The National Council move was not a departure from Montreal's orbit. The 1962 annual report records "visits to Montreal by members of the Council staff, H. Labatte, J. W. McVicar and **M. B. Shantz**" — he was back three years later in a national capacity.^1
+
+And he was still a known name to the camp thirty-five years on: "**Murry Shantz**" appears in the alumni roll printed in *The Lookout* in 1993.^4 The spelling is the newsletter's.
 
 That "Murray G." is an OCR or typographic slip for Murray B.; the 1962 report confirms an **M. B. Shantz** on the National Council staff.^1
 
@@ -41,3 +51,6 @@ That "Murray G." is an OCR or typographic slip for Murray B.; the 1962 report co
 <!-- Created 2026-08-14 (p_250) from f_2080, established by the director-gap campaign of the same day. No new research for this spawn.
      Kept deliberately short. One document names him in the role, and the temptation with a newly-recovered name is to pad it out with the association context that surrounds him. The 1955/1957/1958 seasons are the whole of the inference here and the article says plainly what kind of inference it is -- an argument from silence in the personnel-change lists, which shows only that no change was recorded.
      Status "stub" for the same reason as the other four p_250 spawns: no dedicated RALPH cycle, no VERIFY pass. Here it is also simply accurate -- one source. -->
+2. YMCA of Montreal Annual Report 1943, Training Fellowships [src_ia_ymca_montreal_annual_reports_collection].
+3. Camp Perrot Annual Report 1958, Boys' Camping Committee membership [src_ia_camp_perrot_collection].
+4. *The Lookout* Vol. 1 No. 3, autumn 1993, alumni roll [src_ia_the_lookout_1993].

@@ -1,6 +1,6 @@
 # Roy D. Locke
 
-*Status: stub | Sources: 3*
+*Status: draft | Sources: 3*
 *Last Updated: 2026-08-14*
 
 ## Overview
@@ -23,6 +23,25 @@ He returns to camping twice more. The Montreal YMCA's branch officers tables for
 
 By 1986 he is on the Metropolitan Staff roster as **Director, Funding Development**.^2
 
+## The Quebec Camping Association: a fuller record
+
+A sweep of the complete 164-issue *Canadian Camping* run on 2026-08-25 puts dates on his standing in
+the national movement, and they run earlier and longer than this article previously showed:
+
+| Date | Standing |
+|---|---|
+| June 1949 | "Kanawana, at present directed by Roy Locke, **Vice-President of the Quebec Section**"^8 |
+| February 1951 | Chairman of the programme committee for a joint conference, "**Roy D. Locke, president of the Quebec Association**"^9 |
+| April 1952 | "**Roy D. Locke** director of Y.M.C. Kamp Kanawana **is president of the Quebec Camping Association**"^5 |
+| April 1954 | "Quebec **Past President** — Mr. Roy Locke, **Boys' Work Secretary, Metropolitan YMCA Montreal**"^10 |
+| June 1954 | "Mr. Roy Locke, **Past President of the Q.C.A.**, gave an impressive speech"^11 |
+
+He also appears in February 1951 in a national committee meeting alongside Mary Edgar — founder of
+[[connections/related-camps/camp-oolahwan|Camp Oolahwan]] — Agnes Mutchler of the
+[[connections/related-camps/camp-lighthall|Junior League Camp]], and CCA president Kenneth Murray.^9
+The Montreal camping secretaryship carried real weight in the Canadian movement, and Locke is the
+clearest instance of it in this wiki.
+
 ## Beyond Kanawana: the Quebec Camping Association and the Manual
 
 Locke's standing in the wider camping movement is documented twice in *Canadian Camping*. In **April
@@ -44,9 +63,27 @@ Christian motivation"; sample menus for hikes and canoe trips; **"a seven page o
 staff member needs to know about Kanawana'"**; detailed duties for each staff position; and copies of
 the canoeing, rowing, sailing and swimming tests.
 
-**No copy of the manual is known to survive in this project's sources.** It would be among the most
-valuable single documents for the camp's 1950s operation, and it is a specific thing to ask Concordia
-for.
+**The article is signed and titled.** *Canadian Camping*'s own contents page for June 1953 lists "A
+Manual of Operations…… **Roy D. Locke** … 15," and the byline under the title reads "**Roy D. Locke,
+Executive Secretary: Boys' Camping, Montreal Y.M.C.A.**"^7 It was indexed nationally: the magazine's
+cumulative subject index, printed in December 1963, still carries "**A Manual of Operations — Roy D.
+Locke … June 1953**" a decade later.^12
+
+**No copy of the manual itself is known to survive in this project's sources.** It would be among the
+most valuable single documents for the camp's 1950s operation, and it is a specific thing to ask
+Concordia for — tracked as `p_285`.
+
+## A Possible Later Life
+
+The 1978 Kamp Kanawana director's report thanks, among its donors and lenders, "**the Town of Montreal
+West and Mayor Roy Locke** for the loan of water meters this summer."^13 A Roy Locke was therefore
+mayor of Montreal West in 1978, and Locke had moved to the Westmount Branch in September 1954 and was
+still on Metropolitan Staff in 1986 — a man of the same name, in the same small cluster of west-end
+municipalities, in the right years.
+
+**This is not asserted as the same person.** No document links the mayor to the YMCA, and "Roy Locke"
+is not a rare enough name to carry the identification on its own. It is recorded because it is a
+concrete, checkable lead: Montreal West's own council records would settle it in one query.
 
 ## Open Questions
 
@@ -71,6 +108,12 @@ for.
 5. *Canadian Camping* Vol. 4 No. 2, April 1952, p. 20 [src_ia_canadian_camping_1952_04].
 6. *Canadian Camping* Vol. 5 No. 4, December 1953 [src_ia_canadian_camping_1953_12].
 7. "Manual of Operations," *Canadian Camping* Vol. 5 No. 3, June 1953 [src_ia_canadian_camping_1953_06].
+8. *Canadian Camping* Vol. 1 No. 3, June 1949 [src_ia_canadian_camping_1949_06].
+9. *Canadian Camping* Vol. 3 No. 1, February 1951 [src_ia_canadian_camping_collection].
+10. *Canadian Camping* Vol. 6 No. 2, April 1954 — provincial officers listing [src_ia_canadian_camping_collection].
+11. *Canadian Camping* Vol. 6 No. 3, June 1954 [src_ia_canadian_camping_collection].
+12. *Canadian Camping* Vol. 16 No. 1, December 1963 — cumulative subject index [src_ia_canadian_camping_collection].
+13. *Kamp Kanawana Director's Report 1978*, acknowledgements [src_ia_ymca_montreal_fonds_collection].
 
 ## Research Notes
 
