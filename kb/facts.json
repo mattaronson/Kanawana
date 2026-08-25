@@ -1,8 +1,8 @@
 {
- "version": "5.52",
- "kb_version": "v5.52",
+ "version": "5.54",
+ "kb_version": "v5.54",
  "migrated_from": "3.3",
- "fact_count": 2258,
+ "fact_count": 2262,
  "facts": [
   {
    "fact_id": "f_0001",
@@ -39060,6 +39060,82 @@
    "date_ref": "1883-1919",
    "conflicts_with": [],
    "added_version": "v5.52",
+   "added_by": "ralph_loop"
+  },
+  {
+   "fact_id": "f_2297",
+   "claim": "CONFIRMED INDEPENDENTLY: T. Duncan Patton -- one of the five men on the fall-1892 committee appointed to plan Camp Jubilee -- was ONE OF THE TWO CAPTAINS IN THE FIRST GAME OF BASKETBALL EVER PLAYED, 21 December 1891 at the International YMCA Training School, Springfield, under James Naismith. His own 1919 memoir says 'I captained one side of the initial basket-ball game under the direction of Dr. James Naismith', and that self-report is corroborated by two sources independent of him: 'Thomas Duncan Patton' appears in the documented roster of the eighteen original players, and Library and Archives Canada describes him as 'originally from Montreal... one of the two team captains selected by Naismith for the first game', one of four Canadians in that class besides Naismith. TEXTUAL WRINKLE RECORDED, NOT SMOOTHED: the First Team account names the captains as 'T. B. Patten and C. B. Libby' against its own roster of 'Thomas Duncan Patton' and 'Eugene Samuel Libby' -- both captain names garbled the same way, with the memoir supplying the first-person tiebreaker. NOTE ALSO that a SECOND member of the 1892 committee, W. H. Ball, graduated Springfield in the class of 1891 alongside Naismith and Stagg -- two of the five camp planners were at Springfield in Naismith's orbit.",
+   "sources": [
+    "src_ia_1919_autobiographical_sketch",
+    "src_wikipedia_first_team",
+    "src_lac_first_basketball_game",
+    "src_omeka_first_basketball_players"
+   ],
+   "confidence": "stated",
+   "category": "people",
+   "entities": [
+    "Thomas Duncan Patton",
+    "James Naismith",
+    "W. H. Ball",
+    "Amos Alonzo Stagg"
+   ],
+   "date_ref": "1891-12-21",
+   "conflicts_with": [],
+   "added_version": "v5.53",
+   "added_by": "ralph_loop"
+  },
+  {
+   "fact_id": "f_2298",
+   "claim": "THOMAS DUNCAN PATTON: FULL NAME, DATES AND POST-1919 CAREER. Born 15 APRIL 1865 in DANVILLE, Estrie region, Quebec; died 1 APRIL 1944 in TORONTO, aged 78. The 'T.' is THOMAS. Graduated the International YMCA Training School (Springfield) in 1892. His career continued well past his 1919 memoir: National Territorial Secretary, Winnipeg 1920-22; Territorial Secretary, Toronto 1922-26; organizer for the Ontario Prohibition Union 1926-27; Executive Secretary of Dixon Hall, Toronto 1927-32; Treasurer of the Christian Social Council of Canada 1932-41. DATING CAUTION: the same source gives '1892-1894 Assistant Secretary, Montreal' and '1892-1901 General Secretary, Winnipeg', overlapping ranges that cannot both be right. Patton's own memoir is specific and internally consistent -- Assistant Secretary in Montreal from 1 September 1888, Dominion Square membership and finances after his 1892 graduation, Winnipeg from June 1894 succeeding Herbert Gill as third Secretary -- and is preferred for those dates.",
+   "sources": [
+    "src_omeka_first_basketball_players",
+    "src_ia_1919_autobiographical_sketch"
+   ],
+   "confidence": "stated",
+   "category": "people",
+   "entities": [
+    "Thomas Duncan Patton"
+   ],
+   "date_ref": "1865-1944",
+   "conflicts_with": [],
+   "added_version": "v5.53",
+   "added_by": "ralph_loop"
+  },
+  {
+   "fact_id": "f_2299",
+   "claim": "PATTON AND NAISMITH LEFT MONTREAL FOR SPRINGFIELD TOGETHER -- documented contemporaneously by the YMCA of Montreal's own annual report for 1889-90, in consecutive sentences: \"We have also to announce that MR. T. DUNCAN PATTON, who has been a faithful assistant during the past two years, LEAVES IN SEPTEMBER TO ENTER FOR A YEAR'S COURSE AT SPRINGFIELD. He will carry with him the best wishes of all the members for his future success. ... MR. JAMES NAISMITH, B.A., OF McGILL, ALSO EXPECTS TO GO TO SPRINGFIELD IN SEPTEMBER.\" This is an institutional record written at the time, a year before the first basketball game, and is the strongest corroboration of Patton's 1919 memoir. The same run of reports tracks him further: the 1892-93 staff list gives 'D. A. Budge, General Secretary; T. Duncan Patton, Assistant Secretary; ... W. H. Ball, Physical Director' -- Patton and Ball on the same staff two years before the first camp season; the 1893-94 report records that 'Mr. T. Duncan Patton, FOR SIX YEARS associated in the work here, has accepted the Secretaryship of the Winnipeg Association, and will enter upon his duties July 1st' -- 'six years' counting back to 1888 and confirming the memoir against the player-exhibit's '1892-1894'; and in 1897-98 Montreal resolved to telegraph him at Winnipeg congratulating him on their Building movement. ONE SMALL UNRESOLVED DETAIL: the report says July 1st, the memoir says June.",
+   "sources": [
+    "src_ia_ymca_montreal_annual_reports_collection",
+    "src_ia_1919_autobiographical_sketch"
+   ],
+   "confidence": "stated",
+   "category": "people",
+   "entities": [
+    "Thomas Duncan Patton",
+    "James Naismith",
+    "W. H. Ball",
+    "D. A. Budge"
+   ],
+   "date_ref": "1889-1898",
+   "conflicts_with": [],
+   "added_version": "v5.54",
+   "added_by": "ralph_loop"
+  },
+  {
+   "fact_id": "f_2300",
+   "claim": "NULL RESULT, checked 2026-08-25: David Louden's 1891 drowning at Jones' Island is NOT recorded in the YMCA of Montreal annual reports. A search across the 1889-1899 reports in this project's corpus for 'louden|lowden|loudon' returns only 'Lowden, J. R.', a subscriber, in the 1895-96, 1897-98 and 1899 donor lists -- a different person. Neither 'Jones' Island' nor the 1891 camp is mentioned anywhere in those reports. The association's only published account of the episode remains Patton's own 1919 memoir. Note the contrast with the 1893-94 report, which DOES list members who died that year including two drownings -- so the association did print such notices when it chose to. A Montreal newspaper of summer 1891 remains the route.",
+   "sources": [
+    "src_ia_ymca_montreal_annual_reports_collection"
+   ],
+   "confidence": "stated",
+   "category": "founding",
+   "entities": [
+    "David Louden",
+    "Jones' Island"
+   ],
+   "date_ref": "1891",
+   "conflicts_with": [],
+   "added_version": "v5.54",
    "added_by": "ralph_loop"
   }
  ]

@@ -9131,7 +9131,7 @@
   },
   {
    "article_id": "t-duncan-patton",
-   "title": "T. Duncan Patton",
+   "title": "Thomas Duncan Patton (1865–1944)",
    "wiki_folder": "people",
    "status": "draft",
    "status_history": [
@@ -9146,11 +9146,19 @@
    "kb_facts_used": [
     "f_2291",
     "f_2295",
-    "f_2296"
+    "f_2296",
+    "f_2297",
+    "f_2298",
+    "f_2299",
+    "f_2300"
    ],
    "sources_cited": [
     "src_ia_1919_autobiographical_sketch",
-    "src_ia_kanawana_history_1951"
+    "src_ia_kanawana_history_1951",
+    "src_ia_ymca_montreal_annual_reports_collection",
+    "src_lac_first_basketball_game",
+    "src_omeka_first_basketball_players",
+    "src_wikipedia_first_team"
    ],
    "open_questions": 5,
    "cross_links": [
@@ -9161,7 +9169,7 @@
     "camp-otoreke"
    ],
    "file_id": null,
-   "word_count": 1667
+   "word_count": 2624
   }
  ],
  "article_count": 93

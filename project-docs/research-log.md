@@ -4334,3 +4334,56 @@ Secretary at Calgary," and on the memoir's own wording is **not** W. H. Ball of 
 `p_236` closed. `p_286` opened to advance the article and settle three things the memoir does not give
 — the "T.", his dates, whether he appears in the documented roster of Naismith's first game, and where
 Jones' Island actually is.
+
+---
+
+## 2026-08-25 — Patton and the first basketball game: confirmed
+
+**Operator's question: was one of the five founding Kanawanians the captain of the literal first
+basketball team ever? Yes — and it is not resting on his own word.**
+
+Patton's memoir mentions it in one sentence, between the football team and the camp: *"In the Fall of
+1891 I was given the position of Right Guard on Stagg's famous Springfield football team. I captained
+one side of the initial basket-ball game under the direction of Dr. James Naismith."* A self-report
+written twenty-eight years after the fact deserves scepticism. It survived every check.
+
+1. **Thomas Duncan Patton is in the documented roster** of the eighteen men who played the first game
+   on 21 December 1891.
+2. **Library and Archives Canada**, writing on the game's 125th anniversary, calls him "originally
+   from Montreal… **one of the two team captains selected by Naismith for the first game**," and one of
+   four Canadians in that class besides Naismith.
+3. **And the Montreal YMCA's own 1889–90 annual report puts him on the road to Springfield in a
+   sentence written at the time** — the strongest corroboration of all, because it is contemporaneous
+   and institutional:
+
+   > "We have also to announce that **Mr. T. Duncan Patton**, who has been a faithful assistant during
+   > the past two years, **leaves in September to enter for a year's course at Springfield**… **Mr.
+   > James Naismith, B.A., of McGill, also expects to go to Springfield in September.**"
+
+   **They left Montreal for Springfield together**, announced in consecutive sentences of the same
+   report, a year before Naismith nailed up the peach baskets.
+
+**One wrinkle recorded rather than smoothed.** The *First Team* account names the captains as "T. B.
+Patten and C. B. Libby" against its own roster of "Thomas Duncan Patton" and "Eugene Samuel Libby" —
+both garbled the same way, with the memoir supplying the first-person tiebreaker.
+
+**Two of the five men who planned Camp Jubilee were at Springfield in Naismith's orbit.** W. H. Ball
+graduated in the class of 1891 alongside Naismith and Stagg; Patton graduated in 1892 and captained a
+side in the first game. The 1892 committee was not a group of amateurs improvising — it drew on men
+trained where modern physical education was being invented.
+
+**Also gained.** His full identity: **Thomas** Duncan Patton, born **15 April 1865 in Danville,
+Quebec**, died **1 April 1944 in Toronto**, aged 78. And his career past the memoir's 1919 endpoint —
+Territorial Secretary at Winnipeg then Toronto, the Ontario Prohibition Union, Dixon Hall, and the
+Christian Social Council of Canada to 1941. The Montreal reports also confirm the memoir against the
+player-exhibit's garbled dates: "for six years associated in the work here" counts back to 1888.
+
+**A null worth having.** David Louden's 1891 drowning is **not** recorded in the Montreal annual
+reports 1889–1899 — every "Louden" hit is "Lowden, J. R." in a subscriber list. The contrast matters:
+the 1893–94 report *does* print members who died that year, including two drownings, so the
+association printed such notices when it chose to. Patton's memoir remains the only known account.
+
+**A process note.** Two edits in this session's first pass failed silently because a `replace` ran
+without an assertion, and a third aborted the whole write. Everything was re-applied with assertions
+on every match. Worth remembering: a silent no-op edit is indistinguishable from a successful one
+unless you check.
