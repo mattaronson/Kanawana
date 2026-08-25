@@ -4279,3 +4279,58 @@ learned this week of Bill Bourne's drowning in Brome Lake, on Friday June 30th *
 save the life of his friend**. As a camp we cannot but feel sensitive of the loss of perhaps the
 finest leader we have ever known." He died away from camp, days before the season opened, in a rescue
 attempt. Not previously documented here.
+
+---
+
+## 2026-08-25 — p_236 answered: the memoir is T. Duncan Patton's
+
+**Operator's question: isn't the memoir's author William Ball?** No — and the memoir rules him out
+itself. The writer lists the 1892 syndicate as "**W. H. Ball**, John W. Ross, Will Wilson, **myself**
+and others," placing Ball beside him rather than as him. Ball also graduated Springfield in 1891 and
+was Montreal's Physical Director from September 1891 through 1902; the memoirist graduated in 1892 and
+left for Winnipeg in 1894.
+
+**But the second half of the question was the right one, and reading the whole memoir answered
+`p_236` in two lines.** The author names himself twice, in passing: *"Shortly before Christmas **Mrs.
+Patton** and I journeyed eastward"* (December 1901) and *"During all of our residence in India **Mrs.
+Patton** suffered much."* He also records that a Lake of the Woods island was named **"Patton."**
+
+The author is **T. Duncan Patton** — named in the 1951 "Kamp Kanawana History" as one of the five men
+on the fall-1892 committee appointed to plan the camp. Every remaining `p_236` constraint matches:
+Montreal YMCA from 1883, Assistant Secretary from 1 September 1888, graduated 1892, membership and
+finances at Dominion Square, third General Secretary at Winnipeg from June 1894 succeeding Herbert
+Gill after C. M. Copeland, Area Supervisor for Military District No. 10 from 1916.
+
+**This upgrades the memoir's standing.** It is not a distant compiler's account of the founding — it
+is a founding committee member writing in the first person about a camp he personally led. And the
+identification was sitting inside a document this project had already read and extracted the Lac la
+Croix passage from. Third instance this week of material overlooked *inside* a source recorded as
+read; the operator's instinct to read the whole thing was the correct correction to make.
+
+**New article: `people/t-duncan-patton.md`** (draft, 1,667 words), built from the memoir read end to
+end. Beyond the Kanawana material it establishes a career worth having:
+
+- Walked into the Victoria Square YMCA in 1883 "a gauky country lad… seeking for a boarding house,"
+  met by D. A. Budge, whose handshake "had more than a passing influence."
+- Distributed Gospel-meeting invitation cards "on the street corners and in the saloons."
+- **Enlisted with the Montreal Garrison Artillery for the Riel Rebellion in 1885.**
+- At Springfield in the fall of 1891, played **Right Guard on Amos Alonzo Stagg's football team** and
+  **"captained one side of the initial basket-ball game under the direction of Dr. James Naismith."**
+- Brought **D. L. Moody** to Winnipeg in 1897.
+- **Founded the camping programme at Camp Stephens**, Lake of the Woods — first visit July 1894, "and
+  from that date on camps were promoted and held annually." An island there is named for him. This
+  wiki already touched Camp Stephens through Nelson McEwen and Ross Bannerman; its camps were begun by
+  a Kanawana founder.
+- Calcutta 1902–05, Acting General Secretary, then an Asian tour of city Associations at John R.
+  Mott's request.
+- Ottawa 1905–10, where he ran **the first "whirlwind" fundraising campaign conducted in Canada** —
+  $200,000 in ten days, $66,000 short on the ninth evening, fully pledged by ten o'clock on the tenth.
+- Resigned Winnipeg in September 1915 "because of the attitude of some of the Directors"; wartime
+  Area Supervisor for Saskatchewan, raising $508,709 against a $175,000 allotment in 1918.
+
+One caution recorded in the article: a Lake of the Woods island named **"Ball"** honours "the one time
+Secretary at Calgary," and on the memoir's own wording is **not** W. H. Ball of Montreal.
+
+`p_236` closed. `p_286` opened to advance the article and settle three things the memoir does not give
+— the "T.", his dates, whether he appears in the documented roster of Naismith's first game, and where
+Jones' Island actually is.

@@ -1,8 +1,8 @@
 {
- "version": "5.51",
- "kb_version": "v5.51",
+ "version": "5.52",
+ "kb_version": "v5.52",
  "migrated_from": "3.3",
- "fact_count": 2256,
+ "fact_count": 2258,
  "facts": [
   {
    "fact_id": "f_0001",
@@ -39023,6 +39023,43 @@
    "date_ref": "1969",
    "conflicts_with": [],
    "added_version": "v5.51",
+   "added_by": "ralph_loop"
+  },
+  {
+   "fact_id": "f_2295",
+   "claim": "p_236 ANSWERED: the author of the August 1919 'Brief Autobiographical Sketch of Association Career' is T. DUNCAN PATTON, one of the five men on the fall-1892 committee appointed to plan Camp Jubilee. The signature is illegible in the OCR, but the memoir identifies itself twice in the body -- 'Shortly before Christmas MRS. PATTON and I journeyed eastward' (Dec 1901) and 'During all of our residence in India MRS. PATTON suffered much' -- and records that a Lake of the Woods island was named 'Patton'. It also rules out W. H. Ball as author: the writer lists 'W. H. Ball, John W. Ross, Will Wilson, MYSELF and others', placing Ball beside him. Every p_236 constraint matches: Montreal YMCA from 1883, Assistant Secretary from 1 Sept 1888 at $40/month, graduated 1892, membership and finances at Dominion Square, third General Secretary of the Winnipeg YMCA from June 1894 succeeding Herbert Gill (first was C. M. Copeland), Area Supervisor for Military District No. 10 1916-1918. The identification was available inside a document this project had already read and extracted from.",
+   "sources": [
+    "src_ia_1919_autobiographical_sketch"
+   ],
+   "confidence": "inferred",
+   "category": "founding",
+   "entities": [
+    "T. Duncan Patton",
+    "W. H. Ball"
+   ],
+   "date_ref": "1919",
+   "conflicts_with": [],
+   "added_version": "v5.52",
+   "added_by": "ralph_loop"
+  },
+  {
+   "fact_id": "f_2296",
+   "claim": "T. DUNCAN PATTON'S CAREER, from his own 1919 memoir, read in full. Montreal: walked into the YMCA on Victoria Square in 1883 'a gauky country lad... seeking for a boarding house', met by D. A. Budge; distributed Gospel-meeting invitation cards 'on the street corners and in the saloons'; helped originate the Sunday night Strangers' Tea; apprenticed to the machinist trade then worked at Drysdale & Co's Book Store; ENLISTED WITH THE MONTREAL GARRISON ARTILLERY FOR THE RIEL REBELLION IN 1885, three months' service reaching Long Lake, Sask. At Springfield in the fall of 1891 he PLAYED RIGHT GUARD ON AMOS ALONZO STAGG'S FOOTBALL TEAM AND 'CAPTAINED ONE SIDE OF THE INITIAL BASKET-BALL GAME UNDER THE DIRECTION OF DR. JAMES NAISMITH'. Winnipeg 1894-1901 (third General Secretary; brought D. L. Moody to the city in 1897; Portage Avenue building opened 1 Jan 1901 at $100,000). CAMP STEPHENS: first visited the Lake of the Woods islands July 1894, 'and from that date on camps were promoted and held annually'; five islands, ~27 acres, passed to the Winnipeg YMCA in 1907; one island named 'Patton' for him. Calcutta 1902-1905, Acting General Secretary ~18 months, toured Asian Associations at John R. Mott's request. Ottawa 1905-1910: ran THE FIRST 'WHIRLWIND' FUNDRAISING CAMPAIGN CONDUCTED IN CANADA (March 1906, $200,000 in ten days) and moved the Ottawa boys' camp to Lac d'Or beyond Renfrew. Winnipeg again from 1910; resigned September 1915 'because of the attitude of some of the Directors'; Military YMCA work from 1 October 1915; Area Supervisor for Military District No. 10 from May 1916; in the 1918 Dominion campaign raised $508,709 against a $175,000 allotment in Saskatchewan.",
+   "sources": [
+    "src_ia_1919_autobiographical_sketch"
+   ],
+   "confidence": "stated",
+   "category": "people",
+   "entities": [
+    "T. Duncan Patton",
+    "Camp Stephens",
+    "D. A. Budge",
+    "James Naismith",
+    "Amos Alonzo Stagg"
+   ],
+   "date_ref": "1883-1919",
+   "conflicts_with": [],
+   "added_version": "v5.52",
    "added_by": "ralph_loop"
   }
  ]

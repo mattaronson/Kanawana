@@ -31,7 +31,8 @@ That the association's first boys' camp opened in the YMCA's own Jubilee Year is
 
 The founding sequence has an earlier chapter than this article has carried, and it is a grim one. The
 same 1919 memoir this article quotes below for the Lac la Croix decision describes, a paragraph
-earlier, **a Montreal YMCA boys' camp three years before Camp Jubilee — and its immediate end**:^m19
+earlier, **a Montreal YMCA boys' camp three years before Camp Jubilee — and its immediate end**. Its
+author, [[people/t-duncan-patton|T. Duncan Patton]], led it himself:^m19
 
 > "During the vacation period of **1891** I returned to Montreal and took out to **Jones' Island,
 > about 40 miles north-west of Montreal in the Ottawa River, the first Montreal Boys' Camp**. A very
@@ -58,11 +59,11 @@ Montreal, was used once, for one day, in 1891, and abandoned. It is not Lake Sai
 Saint-Sauveur; it belongs to no site this wiki currently documents.
 
 *Note on the source: the memoir is an August 1919 "Brief Autobiographical Sketch of Association
-Career" whose author is unnamed in the surviving OCR — the signature is illegible. Identifying him is
-tracked as `p_236`. He was an Assistant Secretary in Montreal from September 1888, a Springfield
-student who played on Stagg's 1891 football team and captained one side of the first basketball game
-under James Naismith, and he graduated in 1892. He is therefore a first-hand witness, writing
-twenty-eight years later.*
+Career" whose signature is illegible in the surviving OCR, and which this wiki carried as anonymous
+until 2026-08-25. **The author is [[people/t-duncan-patton|T. Duncan Patton]]** — identified from
+inside the document ("Mrs. Patton and I") and confirmed against the 1892 committee roster, which names
+him. He is therefore not a distant compiler but **one of the five men appointed to plan the camp**,
+writing twenty-eight years later about a camp he himself led. See his article for the full career.*
 
 ## Precursors: Cushing and the Lake St. Joseph Trips (1892-1893)
 

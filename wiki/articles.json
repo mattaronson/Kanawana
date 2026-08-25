@@ -9128,6 +9128,40 @@
    ],
    "file_id": null,
    "word_count": 2048
+  },
+  {
+   "article_id": "t-duncan-patton",
+   "title": "T. Duncan Patton",
+   "wiki_folder": "people",
+   "status": "draft",
+   "status_history": [
+    {
+     "status": "draft",
+     "at": "2026-08-25T00:00:00Z",
+     "by": "auto",
+     "task": "WRITE"
+    }
+   ],
+   "ralph_loops_completed": 1,
+   "kb_facts_used": [
+    "f_2291",
+    "f_2295",
+    "f_2296"
+   ],
+   "sources_cited": [
+    "src_ia_1919_autobiographical_sketch",
+    "src_ia_kanawana_history_1951"
+   ],
+   "open_questions": 5,
+   "cross_links": [
+    "founding-1894",
+    "billy-ball",
+    "cushing-family",
+    "nelson-mcewen",
+    "camp-otoreke"
+   ],
+   "file_id": null,
+   "word_count": 1667
   }
  ],
  "article_count": 93
