@@ -3432,10 +3432,10 @@
    "priority_id": "p_274",
    "rank": 273,
    "type": "RESEARCH",
-   "description": "FETCH THE REMAINING 63 CONCORDIA MIRROR PAGES, listed exactly in project-docs/concordia-mirror-inventory.md. Series 12 and 13 are done; what remains is series 1, 2, 4, 5, 10, 11 and 14 -- including the 14-page 5E run, the 15-page 14D run, and the 9 unfetched 14x sub-series. Method is settled: curl with a browser UA (WebFetch is not needed), then the boilerplate-differencing extractor. Each page is ~105KB of chrome around ~1KB of finding aid, so extract before storing. Expect institutional rather than camping content, but 14D held 14D10, which the project already cited, so the series is not off-topic.",
+   "description": "SUPERSEDED IN PART BY THE PDF FINDING AID (f_2265). The remaining 63 mirror pages are still worth fetching for their file-level box lists, which the PDF's series-level descriptions do not always repeat -- but the mirror is now known to be a strict SUBSET of the 125-page PDF finding aid, which is cached in this repo. Read the PDF first and let it drive which of the 63 are worth the fetch. Method and full list unchanged: project-docs/concordia-mirror-inventory.md.",
    "article_id": "sources",
    "blocking": false,
-   "assigned_weight": "P1",
+   "assigned_weight": "P3",
    "created_at": "2026-08-25T00:00:00Z",
    "status": "pending",
    "notes": "Spawned by the p_268 Concordia static-mirror walk."
@@ -3475,6 +3475,54 @@
    "created_at": "2026-08-25T00:00:00Z",
    "status": "pending",
    "notes": "Spawned by the p_268 Concordia static-mirror walk."
+  },
+  {
+   "priority_id": "p_278",
+   "rank": 277,
+   "type": "RESEARCH",
+   "description": "MINE THE 125-PAGE P0145 FINDING AID (src_concordia_p0145_full_findingaid_pdf), cached at sources/cache/concordia-findingaid/. Only the camping-series structure and a handful of physical descriptions have been read so far. 78 archival units have no mirror page and have never been looked at from any surface -- series 06, 07, 08, 10 and 11 are entirely unexamined, including the ten-unit 10G run and the ten-unit 11B run. Read it end to end and extract.",
+   "article_id": "sources",
+   "blocking": false,
+   "assigned_weight": "P1",
+   "created_at": "2026-08-25T00:00:00Z",
+   "status": "pending",
+   "notes": "Spawned by the P0145 finding-aid discovery."
+  },
+  {
+   "priority_id": "p_279",
+   "rank": 278,
+   "type": "RESEARCH",
+   "description": "PURSUE P0145/12B06 'CAMPERS' AND 12B05 'STAFF, COUNSELLORS' -- two Kanawana sub-sub-series that have no mirror page and were unknown to this project until 2026-08-25 (f_2266). 12B06 is the camp's own records of its campers and is the likeliest single source for the undocumented director and staff spans, attendance detail, and named individuals. 12B02 Financial administration is the third. Requires archive access: archives@concordia.ca.",
+   "article_id": "kanawana-in-media",
+   "blocking": false,
+   "assigned_weight": "P1",
+   "created_at": "2026-08-25T00:00:00Z",
+   "status": "pending",
+   "notes": "Spawned by the P0145 finding-aid discovery."
+  },
+  {
+   "priority_id": "p_280",
+   "rank": 279,
+   "type": "RESEARCH",
+   "description": "THE ARCHIVE HOLDS KANAWANA'S MATERIAL CULTURE (f_2267). P0145/12B's physical description lists 'objects (t-shirts, badges, ribbons, pennants)', film reels, videocassettes and audiocassettes alongside 7.72 m of textual records. CLAUDE.md Phase 2 section 4 directs merchandise research to eBay, Etsy and WorthPoint; the camp's own badges and pennants are in the institutional archive. Request an object list from Concordia and reconcile it against the physical-archive scans already held (src_kanawana_physical_archive_scans_2026).",
+   "article_id": "documents",
+   "blocking": false,
+   "assigned_weight": "P2",
+   "created_at": "2026-08-25T00:00:00Z",
+   "status": "pending",
+   "notes": "Spawned by the P0145 finding-aid discovery."
+  },
+  {
+   "priority_id": "p_281",
+   "rank": 280,
+   "type": "VERIFY",
+   "description": "IDENTIFY THE 'Voyageurs (1963)' FILM (YouTube 95NB-6BE3mM) on Concordia Archives' channel. Very likely P0145/12K 'Les Voyageurs de la Verendrye', but its archival description could not be read -- YouTube returned HTTP 429 -- so it is an unverified lead (f_2269). Its sibling 'Canoe Trips' (cP_V1Fn2kUQ) resolved to P0145-09-0066 and IS Kanawana-relevant. Also sweep the rest of that channel: 30 videos were enumerated but the 1993 Kanawana documentary was not among them, so the listing is incomplete and more camp films may be posted.",
+   "article_id": "kanawana-in-media",
+   "blocking": false,
+   "assigned_weight": "P2",
+   "created_at": "2026-08-25T00:00:00Z",
+   "status": "pending",
+   "notes": "Spawned by the P0145 finding-aid discovery."
   }
  ]
 }

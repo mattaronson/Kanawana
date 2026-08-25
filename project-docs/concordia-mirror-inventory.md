@@ -1,5 +1,18 @@
 # Concordia static finding-aid mirror — full inventory
 
+> **CORRECTION, same day.** This page was written as though the 95 mirror pages were the finding
+> aid. They are not. The archive publishes its own **125-page PDF finding aid** at
+> `https://concordia.accesstomemory.org/downloads/ymca-of-montreal-fonds-2.pdf` (generated
+> 2023-11-24, now cached at `sources/cache/concordia-findingaid/`), describing **173** sub-series and
+> sub-sub-series units. The mirror is a strict subset: every mirror page maps to a unit in the PDF,
+> and **78 units have no mirror page at all**. The gaps confirmed below as "genuine 404s" are real
+> archival units — 12B02, 12B05, 12B06, 12C06, 14D01, 14D02, 14D11, and the parent sub-series 12B,
+> 12C, 12G, 12N, 14D. **The 404 was a fact about the mirror, not about the archive.** The inventory
+> below remains accurate as an inventory *of the mirror*, which is what it is for.
+>
+> Three of those unmirrored units are Kanawana's own: **12B02 Financial administration, 12B05 Staff
+> and counsellors, 12B06 Campers.**
+
 *Established 2026-08-25 by exhaustive HEAD enumeration (series 1–16 × letters A–Z, then
 stem expansion), with every gap re-probed individually and confirmed as a genuine 404.
 The pages are not crawlable: the archives' own fonds index renders its links in JavaScript.*

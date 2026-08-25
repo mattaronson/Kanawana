@@ -12763,6 +12763,24 @@
    "notes": "Static-HTML mirror page, fetched and extracted 2026-08-25 in the p_268 mirror walk. THIS IS A FINDING AID: it establishes that a file with a given title and date EXISTS in the archive. It does not establish the file's contents. Facts drawn from it must stay at that level unless the title itself asserts something.",
    "read_state": "extracted",
    "read_state_basis": "asserted:fetched-and-read-in-full"
+  },
+  {
+   "source_id": "src_concordia_p0145_full_findingaid_pdf",
+   "type": "report",
+   "title": "Concordia University Records Management and Archives, Finding Aid - YMCA of Montreal Fonds (P0145), generated 24 November 2023 (125pp PDF)",
+   "date": "2023-11-24",
+   "date_precision": "exact",
+   "origin": "concordia_archives",
+   "origin_url": "https://concordia.accesstomemory.org/downloads/ymca-of-montreal-fonds-2.pdf",
+   "cache_path": "sources/cache/concordia-findingaid/P0145-ymca-of-montreal-fonds-findingaid-2023-11-24.txt",
+   "char_count": 230971,
+   "ingested_at": "2026-08-25T00:00:00Z",
+   "extracted": true,
+   "extraction_version": "v5.44",
+   "reliability": "primary",
+   "notes": "THE AUTHORITATIVE FINDING AID, and a strict superset of the static-HTML mirror this project had been working from. 173 sub-series and sub-sub-series units against the mirror's 95; every mirror page corresponds to a unit here, and 78 units have no mirror page at all. Reached via the /downloads/ path, which is NOT behind the AtoM browser challenge that blocks concordia.accesstomemory.org itself. PDF and extracted text both cached. NOTE ON THE CACHE: the repo's .gitignore excludes *.pdf, so only the extracted .txt is committed. The PDF is re-fetchable at the origin_url with a plain curl -- no challenge, no auth.",
+   "read_state": "extracted",
+   "read_state_basis": "asserted:pdf-downloaded-and-text-extracted-in-full"
   }
  ],
  "source_count": 685

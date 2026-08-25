@@ -58,6 +58,25 @@ extracted** — it is the most current primary document the project holds and th
 
 ### Concordia University Archives (YMCA of Montreal Fonds P145)
 
+**Use the PDF finding aid, not the web pages.** Three different Concordia surfaces carry this fonds,
+and they are not equivalent:
+
+| Surface | What it is | Reachable? |
+|---|---|---|
+| **PDF finding aid** — `concordia.accesstomemory.org/downloads/ymca-of-montreal-fonds-2.pdf` | The authoritative document. 125 pages, generated 2023-11-24. **15 series, 173 sub-series and sub-sub-series units.** | **Yes** — `/downloads/` sits outside the browser challenge. Cached in this repo. |
+| **Static HTML mirror** — `concordia.ca/offices/archives/ymca-fonds-*.html` | A hand-made subset on the university CMS. **95 pages.** Every one maps to a unit in the PDF; **78 units have no page here.** | Yes, but not crawlable — the fonds index renders its links in JavaScript, so the pages must be enumerated by pattern. |
+| **AtoM catalogue** — `concordia.accesstomemory.org` | The live database. Holds item-level records and digital objects the other two do not, and is actively updated (films were posted in February 2026). | **No.** See below. |
+
+The AtoM catalogue serves every request — including its own OAI-PMH endpoint, which exists solely
+for machines — behind a JavaScript challenge that sets a cookie carrying `navigator.webdriver`. Its
+`robots.txt` is `User-agent: * / Crawl-delay: 60`, so the site's published policy permits automated
+access; the technical control contradicts the policy. This project's position is recorded plainly:
+the challenge can only be passed by asserting `webdriver=false`, and **an automated client will not
+forge that flag**. An honest declaration was tried and refused. AtoM therefore requires an
+operator-side fetch or a direct request to `archives@concordia.ca`.
+
+Note also that `archives.concordia.ca` is **not** the catalogue — it redirects to the CMS.
+
 | Sub-series | Title | Notes |
 |------------|-------|-------|
 | P145 (main) | YMCA of Montreal Fonds | Box HA1874. 14 camping sub-series (12A–12N). |

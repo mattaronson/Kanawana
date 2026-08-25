@@ -3835,3 +3835,74 @@ title and date exists. Not one records what is inside it, and each source record
 **New priorities:** `p_274` (fetch the remaining 63), `p_275` (read the 1936 evaluation — now the
 highest-value unread document known to the project), `p_276` (ACQ via 12N04), `p_277` (spawn Winter
 Programming).
+
+---
+
+## 2026-08-25 — The mirror was not the finding aid
+
+**Operator's question.** "What about Concordia's finding aid that has a static-HTML mirror that
+bypasses the JavaScript challenge?" — pointing at the fact that the mirror is a *bypass*, and a
+bypass is not necessarily complete. It was not.
+
+**Three surfaces, not one.**
+
+1. `archives.concordia.ca` is not the catalogue at all — it 302s to the university CMS. Source ids in
+   this project containing "atom" all point at mirror URLs, not at AtoM.
+2. The real catalogue is **`concordia.accesstomemory.org`**, found in the outbound links of the JS-
+   rendered `fonds-collections.html`.
+3. The **static mirror** on the CMS is a hand-made subset.
+
+**AtoM is gated, and the gate was not forced.** Every AtoM request — including its OAI-PMH endpoint,
+which exists only for machines — returns a page that stores the target URL and redirects to
+`/challenge`. The challenge sets `atom_js` and `atom_headless`, the latter carrying
+`base64("<value>:" + navigator.webdriver)`. A browser reports `false`; an automated client's honest
+answer is `true`. That was sent, correctly, cookies verified on the wire — and refused. Playwright
+was tried first and failed for an unrelated reason (Chromium cannot reach this environment's egress
+proxy; `example.com` failed identically, which isolates it as our constraint, not Concordia's).
+
+The site's own `robots.txt` is `User-agent: * / Crawl-delay: 60` — automated access is *permitted by
+policy* and *blocked by control*. The only way through is to assert `webdriver=false`, i.e. to lie to
+a control whose sole purpose is detecting automation. **That was declined and the block recorded**,
+rather than worked around. AtoM now needs an operator-side fetch or an email to the archives.
+
+**But the finding aid itself is published, and not behind the gate.** `/downloads/
+ymca-of-montreal-fonds-2.pdf` returns a **125-page PDF**, "Finding Aid — YMCA of Montreal Fonds
+(P0145)", generated 2023-11-24. Cached in-repo with its extracted text.
+
+**The comparison, normalised for zero-padding:**
+
+| | units |
+|---|---|
+| PDF finding aid | **173** sub-series and sub-sub-series, across 15 series |
+| Static mirror | 95 |
+| In both | 95 |
+| **In the PDF with no mirror page** | **78** |
+| On the mirror but not in the PDF | 0 |
+
+So the mirror is a *strict subset*, and this morning's inventory — which treated 95 as the whole —
+has been corrected in place rather than quietly rewritten. The gaps that walk confirmed as "genuine
+404s" are **real archival units that were never given a mirror page**: 12B02, 12B05, 12B06, 12C06,
+14D01, 14D02, 14D11, plus the parent sub-series 12B, 12C, 12G, 12N, 14D. Same lesson as everywhere
+else on this branch, one level up: *the 404 was a fact about the mirror, not about the archive.*
+
+**What that hid.**
+
+- **Three Kanawana sub-sub-series never seen from any surface**: 12B02 Financial administration,
+  12B05 Staff and counsellors, and **12B06 Campers** — the camp's own records of its campers, and the
+  likeliest single source for the undocumented director and staff spans.
+- **P0145/12B's physical description**: 7.72 m of textual records, plus *"objects (t-shirts, badges,
+  ribbons, pennants)"*, film reels, videocassettes, audiocassettes, maps and architectural drawings.
+  CLAUDE.md Phase 2 §4 sends merchandise research to eBay and WorthPoint; the camp's own pennants and
+  badges are in the institutional archive.
+- **P0145/12L is titled "Lake St-Joseph/Camp Jubilee"** in the archive's own catalogue, and 12K is
+  "Les Voyageurs de la Vérendrye".
+- **Concordia is actively digitizing.** "Canoe Trips" (P0145-09-0066, "Promotional video for the
+  canoe trips organized by the YMCA of Montreal… no sound") was posted to YouTube on **13 February
+  2026**. A sibling, "Voyageurs (1963)", is a strong lead recorded as unverified — YouTube returned
+  429 before its description could be read. Note both sit under P0145/**09**, not the camping series.
+  The 1993 documentary was checked against the wiki first and is already covered, so it is not
+  claimed as new.
+
+**New priorities:** `p_278` (mine the 125-page finding aid end to end — series 06, 07, 08, 10, 11 are
+entirely unexamined), `p_279` (12B06/12B05/12B02), `p_280` (material culture), `p_281` (the film
+channel). `p_274` downgraded to P3: the remaining mirror pages are now a supplement, not the target.

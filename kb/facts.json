@@ -1,8 +1,8 @@
 {
- "version": "5.43",
- "kb_version": "v5.43",
+ "version": "5.44",
+ "kb_version": "v5.44",
  "migrated_from": "3.3",
- "fact_count": 2226,
+ "fact_count": 2231,
  "facts": [
   {
    "fact_id": "f_0001",
@@ -38489,6 +38489,91 @@
    "date_ref": "1926-1987",
    "conflicts_with": [],
    "added_version": "v5.43",
+   "added_by": "ralph_loop"
+  },
+  {
+   "fact_id": "f_2265",
+   "claim": "CORRECTION TO f_2263. Concordia's static-HTML mirror is a strict SUBSET of the archive's own finding aid, not a substitute for it. The authoritative document -- 'Finding Aid - YMCA of Montreal Fonds (P0145)', 125 pages, generated 24 November 2023 -- describes 15 series and 173 sub-series/sub-sub-series units. The mirror carries 95. Every mirror page corresponds to a unit in the finding aid (no mirror page is absent from it), but 78 units have NO mirror page at all. The gaps the mirror walk confirmed as 'genuine 404s' -- 12B02, 12B05, 12B06, 12C06, 14D01, 14D02, 14D11, and the parent sub-series 12B, 12C, 12G, 12N, 14D -- are real archival units that simply were never given a mirror page. The 404 was a fact about the mirror, not about the archive.",
+   "sources": [
+    "src_concordia_p0145_full_findingaid_pdf"
+   ],
+   "confidence": "stated",
+   "category": "sources",
+   "entities": [
+    "Concordia University Archives"
+   ],
+   "date_ref": "2023-11-24",
+   "conflicts_with": [],
+   "added_version": "v5.44",
+   "added_by": "ralph_loop"
+  },
+  {
+   "fact_id": "f_2266",
+   "claim": "THREE KANAWANA SUB-SUB-SERIES HAVE NO MIRROR PAGE and had never been seen by this project: P0145/12B02 Financial administration; P0145/12B05 Staff, counsellors; and P0145/12B06 Campers. The last is the camp's own records of its campers. The full Kanawana sub-series is therefore 12B01 General administration, 12B02 Financial administration, 12B03 Land/facilities/equipment/supplies, 12B04 Communications, 12B05 Staff/counsellors, 12B06 Campers, 12B07 Program -- of which this project had only 12B01, 12B03, 12B04 and 12B07.",
+   "sources": [
+    "src_concordia_p0145_full_findingaid_pdf"
+   ],
+   "confidence": "stated",
+   "category": "sources",
+   "entities": [
+    "Kamp Kanawana",
+    "Concordia University Archives"
+   ],
+   "date_ref": "2023-11-24",
+   "conflicts_with": [],
+   "added_version": "v5.44",
+   "added_by": "ralph_loop"
+  },
+  {
+   "fact_id": "f_2267",
+   "claim": "The finding aid's physical description of P0145/12B (Kamp Kanawana) records what the archive physically holds for the camp: \"7.72 m of textual records / graphic materials (photographs, artwork) / OBJECTS (T-SHIRTS, BADGES, RIBBONS, PENNANTS) / cartographic records (maps) / architectural and technical drawings / sound recordings (audiocassettes) / MOVING IMAGES (FILM REELS, VIDEOCASSETTES) / other materials\". CLAUDE.md Phase 2 section 4 sets 'Merchandise and paraphernalia' as a research target to be pursued through eBay, Etsy and collectibles databases; the camp's own badges, ribbons, pennants and t-shirts are held in the institutional archive, along with film reels and audiocassettes.",
+   "sources": [
+    "src_concordia_p0145_full_findingaid_pdf"
+   ],
+   "confidence": "stated",
+   "category": "documents",
+   "entities": [
+    "Kamp Kanawana",
+    "Concordia University Archives"
+   ],
+   "date_ref": "2023-11-24",
+   "conflicts_with": [],
+   "added_version": "v5.44",
+   "added_by": "ralph_loop"
+  },
+  {
+   "fact_id": "f_2268",
+   "claim": "The finding aid gives the complete camping-series structure, including three sub-series with no mirror page: P0145/12G Camp Perrot, P0145/12B Kamp Kanawana and P0145/12C Camp Otoreke as parent units, plus P0145/12N Camping associations. It also confirms two names in the archive's own words: P0145/12K is \"Les Voyageurs de la Verendrye\" and P0145/12L is \"Lake St-Joseph/Camp Jubilee\" -- the institution's own catalogue pairing the original site with the Jubilee name. P0145/12N03 is titled \"Quebec Section, Canadian Camping Association\", distinct from 12N04 \"Quebec Camping Association/Association des camps du Quebec\".",
+   "sources": [
+    "src_concordia_p0145_full_findingaid_pdf"
+   ],
+   "confidence": "stated",
+   "category": "sources",
+   "entities": [
+    "Camp Perrot",
+    "Camp Jubilee",
+    "Les Voyageurs de la Verendrye"
+   ],
+   "date_ref": "2023-11-24",
+   "conflicts_with": [],
+   "added_version": "v5.44",
+   "added_by": "ralph_loop"
+  },
+  {
+   "fact_id": "f_2269",
+   "claim": "Concordia's archives have been posting digitized YMCA films to YouTube, and at least one Kanawana-relevant item is not yet in this wiki: \"Canoe Trips\" (YouTube cP_V1Fn2kUQ), whose archival description reads \"P0145-09-0066 : Promotional video for the canoe trips organized by the YMCA of Montreal. Date of production is unknown, no sound.\" It was uploaded on 13 February 2026 -- i.e. the digitization programme is active and the catalogue changes. A second candidate, \"Voyageurs (1963)\" (YouTube 95NB-6BE3mM), is very likely P0145/12K 'Les Voyageurs de la Verendrye' material but its archival description could NOT be read -- YouTube returned HTTP 429 on repeated attempts -- so it is recorded here as an unverified lead, not a fact. Note the reference code series: these films sit under P0145/09, not the camping series 12.",
+   "sources": [
+    "src_concordia_p0145_full_findingaid_pdf"
+   ],
+   "confidence": "disputed",
+   "category": "documents",
+   "entities": [
+    "Kamp Kanawana",
+    "Concordia University Archives"
+   ],
+   "date_ref": "2026-02-13",
+   "conflicts_with": [],
+   "added_version": "v5.44",
    "added_by": "ralph_loop"
   }
  ]
