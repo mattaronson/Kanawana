@@ -1,8 +1,8 @@
 {
- "version": "5.44",
- "kb_version": "v5.44",
+ "version": "5.45",
+ "kb_version": "v5.45",
  "migrated_from": "3.3",
- "fact_count": 2231,
+ "fact_count": 2233,
  "facts": [
   {
    "fact_id": "f_0001",
@@ -38574,6 +38574,40 @@
    "date_ref": "2026-02-13",
    "conflicts_with": [],
    "added_version": "v5.44",
+   "added_by": "ralph_loop"
+  },
+  {
+   "fact_id": "f_2270",
+   "claim": "ACCESS MECHANISM FOR THE ATOM CATALOGUE (researched 2026-08-25). The block is AtoM's built-in JavaScript Challenge, a standard feature of the software, not a Concordia-specific control. Its 'test_headless' setting is what refuses automated clients. It was introduced in response to administrators reporting AI bot traffic causing high CPU load on archival servers. The same software ships the remedy: 'endpoint_exceptions' (documented as 'useful for API endpoints that should not be challenged, such as AtoM's Rest API'), plus 'cidr_exceptions', 'network_user_agent_exceptions', 'asn_exceptions' and 'country_exceptions'. Separately, AtoM's REST API requires a key, and 'Only an administrator has the proper permissions to generate an API Key'. The named person at Concordia is JOHN RICHAN, Interim Director and University Archivist, who is also separately listed as Digital Archivist -- the only person holding both the archival authority and the systems role. Requests go to archives@concordia.ca, which targets a five-working-day response. Caveat: it is the Archives & Special Collections SHARED catalogue, jointly with Library Special Collections, so the sysadmin may sit with the Library.",
+   "sources": [
+    "src_concordia_atom_catalogue"
+   ],
+   "confidence": "stated",
+   "category": "sources",
+   "entities": [
+    "Concordia University Archives",
+    "John Richan"
+   ],
+   "date_ref": "2026-08-25",
+   "conflicts_with": [],
+   "added_version": "v5.45",
+   "added_by": "ralph_loop"
+  },
+  {
+   "fact_id": "f_2271",
+   "claim": "CONSTRAINT ON P0145/12B06 'CAMPERS'. Concordia RMA states on its Reading Room page that \"in compliance with the Act Respecting Documents Held by Public Bodies and the Protection of Personal Information, documents containing personal information cannot\" be released, and that \"requests may be refused if they contravene the Privacy Act\". Camper records are personal information about identifiable and frequently living individuals, so 12B06 should NOT be expected to be released; the realistic asks are aggregate or structural (enrolment totals, section organisation), plus 12B05 staff rosters and 12B02 financial records. This aligns with CLAUDE.md's own standing rule against extracting personal information about living private individuals. Reproduction fees for scholarly use are scanning-only: low-resolution scans $10.00/image for 0-50, $7.50 for 51-100, $5.00 for 101+; high-resolution $15.00/$11.50/$7.50; audiovisual $1.00/minute. Unflashed digital photography in the Reading Room is free -- for a Montreal-based researcher the cheapest route to bulk material. Appointment required; Mon-Thu 9:00-11:30 and 1:30-4:00, Faubourg Building FG A112, 1250 Guy.",
+   "sources": [
+    "src_concordia_atom_catalogue"
+   ],
+   "confidence": "stated",
+   "category": "sources",
+   "entities": [
+    "Concordia University Archives",
+    "Kamp Kanawana"
+   ],
+   "date_ref": "2026-08-25",
+   "conflicts_with": [],
+   "added_version": "v5.45",
    "added_by": "ralph_loop"
   }
  ]

@@ -3940,3 +3940,53 @@ and is already cached here. AtoM adds item-level records and digital objects on 
 `p_282` consolidates the four archive asks into a single letter to Concordia. That is now the
 recommended route, and it is a better one than the bypass would have been even if the bypass had
 worked.
+
+---
+
+## 2026-08-25 — What access to AtoM actually requires
+
+Operator asked what is needed to access the catalogue legitimately, and whether a specific person's
+permission is required. **Yes — and the mechanism is documented, on both sides.**
+
+**The block is standard software, not a Concordia wall.** It is AtoM's built-in JavaScript Challenge.
+Its `test_headless` setting is precisely what refuses us: a client detected as headless never gets
+the `visited` cookie and loops. Worth stating plainly, because it revises the premise we were working
+from — the feature was introduced after administrators on the `ica-atom-users` list reported **AI bot
+traffic causing high CPU load** on archival servers. The motivation is load, not malice, and AI
+research crawlers are exactly the traffic it sheds. That does not make this project illegitimate; it
+makes asking the substantive step, and it means the strongest ask is one that *reduces* their load.
+
+**The same software ships the remedy.** Nineteen configuration settings, five of them exemptions:
+`cidr_exceptions`, `network_user_agent_exceptions`, `asn_user_agent_exceptions`, `country_exceptions`
+and — the relevant one — `endpoint_exceptions`, which Artefactual's documentation describes as
+"useful for API endpoints that should not be challenged, such as AtoM's Rest API." Separately, the
+REST API needs a key, and "Only an administrator has the proper permissions to generate an API Key."
+
+**So the ask is: a REST API key, plus the REST API added to `endpoint_exceptions`.** That leaves the
+challenge fully in force for ordinary web traffic, routes us onto an interface cheaper for their
+server than the HTML we would otherwise fetch, and returns structured data. We would be asking them
+to configure their own software the way its documentation intends.
+
+*Not pursued, deliberately:* the docs warn that a default `salt` would let cookie contents be guessed
+and the challenge bypassed. That is a vulnerability disclosure, not an access route, and this project
+will not test it.
+
+**The person: John Richan**, Interim Director and University Archivist — and separately listed as
+Digital Archivist. The only named person holding both the authority and the systems role. Via
+`archives@concordia.ca`, five-working-day target. Flagged in the letter: it is the *shared* Archives
+& Special Collections catalogue, so the sysadmin may sit with Library Special Collections.
+
+**Two findings that change our expectations:**
+
+1. **12B06 "Campers" will probably be refused.** RMA states that under the *Act Respecting Documents
+   Held by Public Bodies*, "documents containing personal information cannot" be released. Camper
+   records are personal information about identifiable, often living people. `p_279` should ask for
+   aggregate and structural material instead — enrolment totals, section organisation, plus 12B05
+   staff rosters and 12B02 finances. This is the same line CLAUDE.md already draws.
+2. **Reproduction is priced.** Scholarly use pays scanning only: $10/$7.50/$5.00 per low-res image by
+   volume band, $15/$11.50/$7.50 high-res, AV $1.00/minute. But **unflashed digital photography in
+   the Reading Room is free**, which for a Montreal-based researcher is by far the cheapest route to
+   bulk material. Appointment required, Mon–Thu, Faubourg FG A112.
+
+Full plan, named contacts, fee tables and a ready-to-send draft: `project-docs/concordia-access-plan.md`.
+`p_282` is now **blocking on operator action** — everything researchable has been done.

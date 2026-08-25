@@ -3529,12 +3529,12 @@
    "rank": 281,
    "type": "RESEARCH",
    "article_id": "sources",
-   "description": "OPERATOR-SIDE OR EMAIL ACCESS TO THE ATOM CATALOGUE. Three attempts from this session failed (see src_concordia_atom_catalogue): Playwright blocked by our own egress proxy, honest webdriver=true declaration refused, and operator-authorized webdriver=false also refused -- the server checks more than that flag. Further reverse-engineering was deliberately stopped. TWO CLEAN ROUTES REMAIN. (1) Matt fetches from a normal browser: start with concordia.accesstomemory.org/informationobject/browse?query=kanawana and the item-level records under P0145/12B, and save the pages. (2) Email archives@concordia.ca -- and this is probably the better move regardless, because the same message can carry the p_275 request (the 1936 Otoreke mixed-camp evaluation), p_279 (12B02/12B05/12B06, which have no mirror page at all), and p_280 (the object list: t-shirts, badges, ribbons, pennants). One letter, four answers, and it opens a relationship with the archive rather than working around it.",
-   "blocking": false,
+   "description": "SEND THE CONCORDIA ACCESS LETTER. Researched and drafted 2026-08-25 -- the full plan, the named people, the four configuration options, the fee schedule and a ready-to-send draft are at project-docs/concordia-access-plan.md. ADDRESSEE: John Richan, Interim Director and University Archivist (also listed as Digital Archivist), via archives@concordia.ca; five-working-day response target. THE ASK IS FOUR THINGS IN ONE LETTER: (1) P0145/12C01 the 1936 Otoreke mixed-camp evaluation, Box HA2315; (2) 12B02, 12B05 and 12B06, the three Kanawana sub-sub-series with no public page; (3) an object list for 12B (t-shirts, badges, ribbons, pennants, film reels); (4) a REST API key plus the REST API added to endpoint_exceptions -- AtoM's own documented configuration for programmatic access, which leaves the JS challenge in force for ordinary traffic. NEEDS MATT: only he can send it.",
+   "blocking": true,
    "assigned_weight": "P1",
    "created_at": "2026-08-25T00:00:00Z",
    "status": "pending",
-   "notes": "Consolidates the archive asks. Supersedes further automated attempts on AtoM."
+   "notes": "BLOCKING on operator action. Everything researchable from here has been done; the letter is written and needs a human sender. Expect 12B06 to be refused under privacy law (f_2271) -- ask for aggregate/structural detail instead."
   }
  ]
 }
