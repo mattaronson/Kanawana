@@ -4042,3 +4042,64 @@ document rather than assumed. The camp material concentrates in series 09 (movin
 (audio), 12 (camping) and 15 (photographs).
 
 `p_278` complete. The AV request has been folded into the `p_282` letter so it stays send-ready.
+
+---
+
+## 2026-08-25 — Camp Lighthall written up; queue re-tiered
+
+### Camp Lighthall
+
+`wiki/connections/related-camps/camp-lighthall.md` created at **draft**. The camp is identified as
+the **Junior League of Montreal's** camp — founded **1921** by a Miss Lighthall on family property,
+subsidized, for girls from low-income Montreal families, renamed from "the Junior League Camp"
+between June 1967 and c. 1972, and operating until at least January 1976.
+
+**The agent's framing needed correcting, and this matters more than the article.** The dispatched
+agent reported the Junior League Camp as a discovery. It is not — `camp-oolahwan.md` has documented
+it through earlier research: the 1921 founding, the Griffintown Girls Club, the "fresh-air" character,
+the 1930–31 funding campaign, the McCord fonds, 300+ girls by the early 1960s, and the Camp Amy Molson
+mission-continuity tension, which was analysed and settled there. Agents run read-only and cannot see
+the wiki, so this is a structural limitation of dispatching them, not a failure of this one. What is
+genuinely new: the **identification** with "Camp Lighthall," the Miss Lighthall founding, the 1975/76
+CCA directory entries, the *Green Triangle* material, and the Seaman confirmation. The article says so
+explicitly, and does not reopen the Amy Molson question.
+
+**Three findings worth separating out:**
+
+1. **The identification is an inference.** No document says "Camp Lighthall, formerly the Junior
+   League Camp." It rests on convergence, and is labelled as such in the article, in `f_2277`
+   (`confidence: inferred`), and in the verification task `p_284`.
+2. **Eleven *Green Triangle* issues, 1932–1940.** This upgrades a one-line "visited on occasion" into
+   a documented decade. Two entries are operational rather than social: a **shared camp doctor** in
+   July 1938, over the director's own signature; and the June 1939 christening of two new buildings,
+   attended by three carloads of Kanawana staff, which names two Junior League officers.
+3. **Margaret Seaman is confirmed.** A June 1967 *Canadian Camping* profile — "Mrs. Seaman… has
+   directed Camp Perrot (girls' section), Camp Chapleau of the Old Brewery Mission and the Junior
+   League Camp of Montreal" — closes an identification `a-ross-seaman.md` had explicitly flagged as
+   unconfirmed, and gives her a camp-directing career of her own across three unrelated organizations.
+   The Kanawana–Junior League link ran through a person, not only through geography.
+
+Not pursued, per the privacy rule: anything about Denise Lamer beyond the one catalogue entry naming
+her as the camp's CCA representative.
+
+### Queue
+
+Re-ordered on operator direction into **yield → ingestion → RALPH**. 72 open items, split 24 / 25 / 23.
+Readable view at `project-docs/priority-queue.md`; `queue_ordering` in `priorities.json` records the
+scheme.
+
+**The re-ranking surfaced something the flat list had hidden: ten separate priorities were all asking
+Concordia RMA for something.** `p_275`, `p_279`, `p_280`, `p_276`, `p_206`, `p_209`, `p_211`, `p_213`,
+`p_215` and `p_176` are now folded into `p_282` — one letter, ten answers — which is why it is rank 1.
+They remain in the file with their own detail, marked `folded`, so nothing is lost.
+
+`p_247` and `p_270` rank immediately behind it because **the Lighthall work proved the method**:
+downloading a full periodical run and grepping it end to end produced an entire article from a surface
+the open web is silent on. *The Green Triangle* is the camp's own newspaper — 38 digitized issues
+exist, and six have been read.
+
+Blocked items were deliberately left in their tier rather than demoted. A blocked high-yield task is
+still the most valuable thing to unblock.
+
+Closed this session: `p_268` (mirror walk) and `p_269` (Lighthall research). Opened: `p_284`
+(verify the Lighthall draft).

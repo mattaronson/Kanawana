@@ -1,8 +1,8 @@
 {
- "version": "5.46",
- "kb_version": "v5.46",
+ "version": "5.47",
+ "kb_version": "v5.47",
  "migrated_from": "3.3",
- "fact_count": 2238,
+ "fact_count": 2241,
  "facts": [
   {
    "fact_id": "f_0001",
@@ -38692,6 +38692,64 @@
    "date_ref": "1900-2003",
    "conflicts_with": [],
    "added_version": "v5.46",
+   "added_by": "ralph_loop"
+  },
+  {
+   "fact_id": "f_2277",
+   "claim": "CAMP LIGHTHALL IS THE JUNIOR LEAGUE CAMP -- an INFERENCE, not a stated fact, and recorded as such. No document says so in terms. The convergence: the Junior League Camp was founded by 'Miss L[i]ght-hall of Montreal, on family property near St. Marguerites' (Agnes Knox Mutchler, its director, Canadian Camping June 1949); the Junior League of Montreal's own fonds description dates the camp's founding to 1921; the name 'Junior League Camp' last appears in Canadian Camping in June 1967; and in the January 1975 and January 1976 Quebec directories 'CAMP LIGHTHALL' -- organizational, girls, St-Sauveur-des-Monts, 150 girls aged 6-14, $75.00/12 days -- stands where it used to be. The rename is bounded to between June 1967 and c. 1972 (the Trent CCA portrait series). There is no Lighthall toponym in Quebec, so the name is the family's.",
+   "sources": [
+    "src_ia_canadian_camping_1949_06",
+    "src_ia_canadian_camping_1976_01",
+    "src_mccord_junior_league_p685",
+    "src_cgns_lighthall"
+   ],
+   "confidence": "inferred",
+   "category": "inter-camp",
+   "entities": [
+    "Camp Lighthall",
+    "Junior League of Montreal"
+   ],
+   "date_ref": "1921-1976",
+   "conflicts_with": [],
+   "added_version": "v5.47",
+   "added_by": "ralph_loop"
+  },
+  {
+   "fact_id": "f_2278",
+   "claim": "THE GREEN TRIANGLE MENTIONS THE JUNIOR LEAGUE CAMP IN AT LEAST ELEVEN ISSUES, 1932-1940, which upgrades this wiki's previous 'visited on occasion' to a sustained neighbourly relationship. Two entries are operational rather than social. 29 July 1938, over the signature 'Chief' (the camp director): 'Our camp doctor is dividing his time between Kanawana and the Junior League.' And 1 July 1939: 'Three carloads of Staff members drove to the Junior League Camp last Tuesday night, to visit the christening of two beautiful new buildings with Ginger Ale. They were welcomed by Mrs. Perrault, Chairman of the Building Committee, and Mrs. Bert Hough, the Camp Director...' -- which names two Junior League Camp officers for 1939 and dates two new buildings to June 1939. The remaining mentions are boys'-camp humour about hikes to the girls' camp, including a spoof advice column signed 'A Junior League Girl' (13 Aug 1932) and verse about 'Junior League land' (13 Aug 1936).",
+   "sources": [
+    "src_ia_green_triangle_collection"
+   ],
+   "confidence": "stated",
+   "category": "inter-camp",
+   "entities": [
+    "Camp Lighthall",
+    "Kamp Kanawana",
+    "Mrs. Bert Hough",
+    "Mrs. Perrault"
+   ],
+   "date_ref": "1932-1940",
+   "conflicts_with": [],
+   "added_version": "v5.47",
+   "added_by": "ralph_loop"
+  },
+  {
+   "fact_id": "f_2279",
+   "claim": "MARGARET SEAMAN'S IDENTITY AND CAREER CONFIRMED. Canadian Camping, June 1967, p. 125, profiling the Montreal YMCA's Director of Camping: 'Mrs. Seaman, also a keen camper, has directed Camp Perrot (girls' section), Camp Chapleau of the Old Brewery Mission and the Junior League Camp of Montreal.' This closes an identification a-ross-seaman.md had explicitly flagged as unconfirmed -- that the 'Margaret Seaman' who directed Camp Perrot's girls' section in 1952 was A. Ross Seaman's wife -- by attributing that directorship to Mrs. Seaman directly. It also establishes a camp-directing career of her own across three unrelated organizations (YMCA, Old Brewery Mission, Junior League of Montreal), and means the Kanawana-Junior League connection ran through a person as well as through geography.",
+   "sources": [
+    "src_ia_canadian_camping_1967_06"
+   ],
+   "confidence": "stated",
+   "category": "people",
+   "entities": [
+    "Margaret Seaman",
+    "A. Ross Seaman",
+    "Camp Perrot",
+    "Camp Lighthall"
+   ],
+   "date_ref": "1967",
+   "conflicts_with": [],
+   "added_version": "v5.47",
    "added_by": "ralph_loop"
   }
  ]

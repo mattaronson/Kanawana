@@ -9076,6 +9076,58 @@
    "file_id": null,
    "word_count": 2596,
    "notes": "Created 2026-08-14 (p_256) from the 114-annual-report sweep. ~60 seasons of camper counts and camper-weeks, 1894-2023, with SIX internal inconsistencies carried as flags rather than resolved -- every one of them the association contradicting itself. Kept as a separate article so the contradictions travel with the numbers. No aggregate totals computed: too many missing years, the 1998-2001 rows count a different population, and the two documented lifetime totals (40,000 in 1964, 34,000 in 1984) contradict each other. Marked draft, not stub, because it is transcription of primary figures rather than synthesis; NOT yet VERIFY-passed -- figures should be spot-checked against the OCR before advancing."
+  },
+  {
+   "article_id": "camp-lighthall",
+   "title": "Camp Lighthall",
+   "wiki_folder": "connections/related-camps",
+   "status": "draft",
+   "status_history": [
+    {
+     "status": "stub",
+     "at": "2026-08-25T00:00:00Z",
+     "by": "auto",
+     "task": "RESEARCH"
+    },
+    {
+     "status": "draft",
+     "at": "2026-08-25T00:00:00Z",
+     "by": "auto",
+     "task": "WRITE"
+    }
+   ],
+   "ralph_loops_completed": 1,
+   "kb_facts_used": [
+    "f_2234",
+    "f_2277",
+    "f_2278",
+    "f_2279"
+   ],
+   "sources_cited": [
+    "src_ia_canadian_camping_1949_06",
+    "src_ia_canadian_camping_1958_04",
+    "src_ia_canadian_camping_1961_12",
+    "src_ia_canadian_camping_1967_06",
+    "src_ia_canadian_camping_1975_01",
+    "src_ia_canadian_camping_1976_01",
+    "src_mccord_junior_league_p685",
+    "src_mcgill_lighthall_papers",
+    "src_cgns_lighthall",
+    "src_ia_green_triangle_collection",
+    "src_trent_cca_fonds_umbrella",
+    "src_mcmorris_thesis_spectrum"
+   ],
+   "open_questions": 6,
+   "cross_links": [
+    "quebec-camp-landscape",
+    "camp-oolahwan",
+    "coeducation-gender",
+    "green-triangle",
+    "a-ross-seaman",
+    "camp-perrot"
+   ],
+   "file_id": null,
+   "word_count": 2048
   }
  ],
  "article_count": 93

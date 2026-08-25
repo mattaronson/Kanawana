@@ -68,6 +68,15 @@ Camp B'nai Brith of Montreal was established in 1921 by the Mount Royal Lodge of
 
 Camp Massad is a Hebrew-speaking Jewish summer camp founded in 1947 on Lac Quenouille in Sainte-Agathe-des-Monts.^8 It is shomer Shabbat with a kosher kitchen under the Montreal Va'ad Ha'ir. Founded in modern Orthodox practice but welcoming children from all Jewish backgrounds, Camp Massad represents the religiously-affiliated camp tradition that developed alongside the secular YMCA model.^8
 
+### Camp Lighthall / the Junior League Camp (1921–at least 1976)
+
+A subsidized girls' camp in the Saint-Sauveur / Sainte-Marguerite area, founded 1921 by a Miss
+Lighthall on family property and sponsored by the Junior League of Montreal. Known as "the Junior
+League Camp" until some point between 1967 and 1972, then as Camp Lighthall. **Kanawana's nearest
+documented camp neighbour** — it appears in eleven issues of *The Green Triangle* between 1932 and
+1940, shared a camp doctor with Kanawana in 1938, and was directed at some point by Margaret Seaman,
+wife of Kanawana's own director. See [[connections/related-camps/camp-lighthall|Camp Lighthall]].
+
 ## Women's Camps and the YWCA
 
 The Montreal region produced some of Canada's earliest girls' and women's camps:
