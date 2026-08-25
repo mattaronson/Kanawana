@@ -3485,8 +3485,8 @@
    "blocking": false,
    "assigned_weight": "P1",
    "created_at": "2026-08-25T00:00:00Z",
-   "status": "pending",
-   "notes": "Spawned by the P0145 finding-aid discovery."
+   "status": "complete",
+   "notes": "Completed 2026-08-25. Structure extracted (15 series, 189 units); 611 item-level records parsed; 25 Kanawana/Otoreke/Jubilee items identified and written up. Key discovery: the PDF carries ITEM-LEVEL AV and photograph descriptions with reference codes, which the mirror does not -- including two dated oral recordings of campers and staff (1962, 1963). Series 06/07/08/10/11 were checked for camp content and are genuinely institutional; the camp material concentrates in 09 (moving images), 11 (audio), 12 and 15. Spawned p_283."
   },
   {
    "priority_id": "p_279",
@@ -3529,12 +3529,24 @@
    "rank": 281,
    "type": "RESEARCH",
    "article_id": "sources",
-   "description": "SEND THE CONCORDIA ACCESS LETTER. Researched and drafted 2026-08-25 -- the full plan, the named people, the four configuration options, the fee schedule and a ready-to-send draft are at project-docs/concordia-access-plan.md. ADDRESSEE: John Richan, Interim Director and University Archivist (also listed as Digital Archivist), via archives@concordia.ca; five-working-day response target. THE ASK IS FOUR THINGS IN ONE LETTER: (1) P0145/12C01 the 1936 Otoreke mixed-camp evaluation, Box HA2315; (2) 12B02, 12B05 and 12B06, the three Kanawana sub-sub-series with no public page; (3) an object list for 12B (t-shirts, badges, ribbons, pennants, film reels); (4) a REST API key plus the REST API added to endpoint_exceptions -- AtoM's own documented configuration for programmatic access, which leaves the JS challenge in force for ordinary traffic. NEEDS MATT: only he can send it.",
+   "description": "SEND THE CONCORDIA ACCESS LETTER. Researched and drafted 2026-08-25 -- the full plan, the named people, the four configuration options, the fee schedule and a ready-to-send draft are at project-docs/concordia-access-plan.md. ADDRESSEE: John Richan, Interim Director and University Archivist (also listed as Digital Archivist), via archives@concordia.ca; five-working-day response target. THE ASK IS FOUR THINGS IN ONE LETTER: (1) P0145/12C01 the 1936 Otoreke mixed-camp evaluation, Box HA2315; (2) 12B02, 12B05 and 12B06, the three Kanawana sub-sub-series with no public page; (3) an object list for 12B (t-shirts, badges, ribbons, pennants, film reels); (4) a REST API key plus the REST API added to endpoint_exceptions -- AtoM's own documented configuration for programmatic access, which leaves the JS challenge in force for ordinary traffic. NEEDS MATT: only he can send it. ADDENDUM 2026-08-25 (p_278): add the AV reproduction request to the same letter. Highest value, in order: P0145-11-0193 'Kamp Kanawana - Interview with Woodsman', 24 Aug 1962; P0145-11-0197 'What is God? / Interview of Kamp Kanawana campers and staff', 1963; P0145-11-0191 'Pathfinder evaluation' (bears on the coeducation open question). AV reproduction is $1.00/minute for scholarly use -- these are cheap.",
    "blocking": true,
    "assigned_weight": "P1",
    "created_at": "2026-08-25T00:00:00Z",
    "status": "pending",
    "notes": "BLOCKING on operator action. Everything researchable from here has been done; the letter is written and needs a human sender. Expect 12B06 to be refused under privacy law (f_2271) -- ask for aggregate/structural detail instead."
+  },
+  {
+   "priority_id": "p_283",
+   "rank": 282,
+   "type": "RESEARCH",
+   "article_id": "kanawana-in-media",
+   "description": "HEAR THE 1962 AND 1963 CAMPER RECORDINGS. P0145-11-0193 'Kamp Kanawana - Interview with Woodsman' (24 August 1962) and P0145-11-0197 'What is God? / Interview of Kamp Kanawana campers and staff' (1963) are dated oral recordings of campers and staff from a decade this wiki documents almost entirely through annual reports and brochures. They are the closest thing to oral history that exists for the period, and unlike the operator-interview instrument planned under CLAUDE.md's pending priority, they are CONTEMPORANEOUS rather than recalled. Reproduction is $1.00/minute for scholarly use. Also check whether RMA has already posted them to its YouTube channel, as it did with P0145-09-0066 'Canoe Trips' in February 2026. Folded into the p_282 letter; listed separately because its value is independent of the rest.",
+   "blocking": false,
+   "assigned_weight": "P1",
+   "created_at": "2026-08-25T00:00:00Z",
+   "status": "pending",
+   "notes": "Spawned by p_278. Contemporaneous camper voice, 1962-63."
   }
  ]
 }

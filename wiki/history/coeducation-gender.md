@@ -25,6 +25,13 @@ The 1965 Concordia archives listing includes "The Pathfinder program Summer Summ
 
 However, the name was later reassigned to the senior girls section when coeducation occurred, and today Pathfinders serves girls and non-binary campers aged 13-16. When this gender reassignment took place is not documented. It may have happened during the Co-ed Camping Pilot Project (1967-1970), or it may have been a later reorganization. The Concordia archives listing does not specify which camp the 1965 summary belongs to, so the question remains open.
 
+**An unheard recording may settle this.** Concordia's full finding aid lists a quarter-inch audio
+reel, **P0145-11-0191, titled simply "Pathfinder evaluation."**^pf It is undated; the immediately
+adjacent untitled item carries the dates 1969 and 1964, which places the neighbourhood but not the
+reel. If it evaluates the boys' section introduced in 1959, it settles the 1965 summary as boys'
+programming; if it evaluates a girls' programme, the timeline moves. Either way it is a more direct
+answer than further inference from the printed record, and it is one line in a reproduction request.
+
 The current section structure reflects a gendered parallel system in place since at least the early 1980s: Pathfinders (girls 13–15) and Pioneers (girls 7–12) serve girls, while Coureurs des Bois (boys 13–15) and Woodsmen (boys 7–12) serve boys. The Mountaineers section (est. 2022) provides a gender-neutral option for campers aged 13–15. Voyageurs is an all-gender long canoe trip program, Trailblazers are Leaders-in-Training (age 16), and Foresters specialize in canoe trip leadership. This suggests that when coeducation occurred, the camp created parallel gender-specific section tracks rather than integrating girls into the existing boys' sections. (See the section-names wiki article for fuller treatment.)
 
 ## The Co-ed Pilot (1967-1970)
@@ -128,6 +135,7 @@ The Mountaineer program represents a conceptual shift from the 1968-1969 transit
 - [fb] "Camp YMCA Kanawana Stands with Trans Campers," official Facebook video/post [src_facebook_trans_inclusion].
 - Concordia University Archives, YMCA of Montreal fonds, sub-series 12D (Camp Becsies), 12E (Camp Dorval), 12I (Camp Thunderbird), 12J (Wilderness Survival Camp) [src_concordia_12L].
 - [gz] *The Gazette* (Montreal), summer-camp feature, 18 April 1974 [src_newspapers_gazette_1974]. See [f_2248].
+- [pf] Concordia University Records Management and Archives, *Finding Aid — YMCA of Montreal Fonds (P0145)*, 24 November 2023, item-level audio listing [src_concordia_p0145_full_findingaid_pdf]. The reel has not been heard. See [f_2273].
 - [cm] Concordia University Archives static finding-aid mirror, YMCA of Montreal fonds P145 sub-series 12C01, 12D, 12E, 12I, 12J [src_concordia_mirror_12c01, src_concordia_mirror_12d, src_concordia_mirror_12e, src_concordia_mirror_12i, src_concordia_mirror_12j]. Fetched and extracted 2026-08-25 in the p_268 mirror walk. Finding aids: they establish that a file of a given title and date exists, not its contents. See [f_2258], [f_2264].
 
 ## Research Notes

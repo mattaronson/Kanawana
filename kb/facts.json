@@ -1,8 +1,8 @@
 {
- "version": "5.45",
- "kb_version": "v5.45",
+ "version": "5.46",
+ "kb_version": "v5.46",
  "migrated_from": "3.3",
- "fact_count": 2233,
+ "fact_count": 2238,
  "facts": [
   {
    "fact_id": "f_0001",
@@ -38608,6 +38608,90 @@
    "date_ref": "2026-08-25",
    "conflicts_with": [],
    "added_version": "v5.45",
+   "added_by": "ralph_loop"
+  },
+  {
+   "fact_id": "f_2272",
+   "claim": "THE FINDING AID CARRIES ITEM-LEVEL AV RECORDS -- 611 'Item' entries in all, and the Kanawana audio holdings are the single richest unexploited seam found to date. Quarter-inch audio reels in P0145/11: P0145-11-0180 'Kamp Kanawana'; P0145-11-0190 'Kanawana promotional tape'; P0145-11-0191 'Pathfinder evaluation'; P0145-11-0193 'Kamp Kanawana - Interview with Woodsman', dated 24 August 1962; P0145-11-0194 'Homesick tape'; and P0145-11-0197 'What is God? / Interview of Kamp Kanawana campers and staff', 1963. Also P0145-11-0002, 'On my way to Kanawana', a 4-minute CD from 2001, 'Words and music by Richard Itch Kerr and used for the YMCA Montreal 150 years'. Two of these are DATED ORAL RECORDINGS OF CAMPERS AND STAFF from 1962 and 1963 -- primary voice material from the period this wiki documents almost entirely through paper.",
+   "sources": [
+    "src_concordia_p0145_full_findingaid_pdf"
+   ],
+   "confidence": "stated",
+   "category": "documents",
+   "entities": [
+    "Kamp Kanawana",
+    "Richard Kerr"
+   ],
+   "date_ref": "1962-2001",
+   "conflicts_with": [],
+   "added_version": "v5.46",
+   "added_by": "ralph_loop"
+  },
+  {
+   "fact_id": "f_2273",
+   "claim": "P0145-11-0191 is an audio reel titled 'Pathfinder evaluation'. This bears directly on a standing open question in coeducation-gender.md: the 1965 'Pathfinder program Summer Summary' is ambiguous because 'Pathfinders' was introduced at Kanawana in 1959 as a BOYS' section name for ages 14-15, and was only later reassigned to the senior girls' section. An evaluation recording could settle which programme is meant. The item is undated in the finding aid; the immediately adjacent untitled item P0145-11-0192 carries the dates 1969 and 1964, which brackets the neighbourhood but does not date the reel itself.",
+   "sources": [
+    "src_concordia_p0145_full_findingaid_pdf"
+   ],
+   "confidence": "stated",
+   "category": "programs",
+   "entities": [
+    "Kamp Kanawana",
+    "Pathfinders"
+   ],
+   "date_ref": "1964-1969",
+   "conflicts_with": [],
+   "added_version": "v5.46",
+   "added_by": "ralph_loop"
+  },
+  {
+   "fact_id": "f_2274",
+   "claim": "Moving-image items for the camp, with reference codes: P0145-09-0012 'Camp Kanawana: Boating and Water Sports All Summer Long' (inter-titled silent footage, digitized 2003-01-16); P0145-09-0035 the 1993 Cathy Reeves documentary; P0145-09-0057 'News Documents and Kamp Kanawana'; P0145-09-0066 'Canoe Trips'; P0145-09-0088 'Kamp Kanawana' [ca. 196-], a 16 mm reel, no sound, 'Various scenes from Kamp Kanawana, including swimming and diving', access copy created 2003-01-30; P0145-09-0135 'Message d'interet public: - Kamp Kanawana', 6 December 1988, a French public-service announcement; and P0145-09-0136 'Kamp Kanawana', March 1987, noted as the English version. The 1987/1988 pair is a bilingual PSA campaign the wiki does not record at all.",
+   "sources": [
+    "src_concordia_p0145_full_findingaid_pdf"
+   ],
+   "confidence": "stated",
+   "category": "media",
+   "entities": [
+    "Kamp Kanawana"
+   ],
+   "date_ref": "1960-1993",
+   "conflicts_with": [],
+   "added_version": "v5.46",
+   "added_by": "ralph_loop"
+  },
+  {
+   "fact_id": "f_2275",
+   "claim": "Item-level photograph descriptions for the camp, all b&w prints unless noted: 'Several tents on camp site' and 'Seven swimmers with life saver' and 'Man getting ready to dive in lake' [193-?]; 'Entrance to site made of logs' [194-?]; 'Several people on waterfront or bathing with lifeguard' [195-?]; 'YMCA Kamp Kanawana Hospital -- Boy lying in bed with nurse by his side' [195-?]; 'Staff group photo' [196-?]; and two colour prints [198-?], 'Colorful cabin with totem in wood' and 'Two people pointing at a Kamp Kanawana map on exterior wall of a cabin'. For Otoreke: 'Cafeteria full of people eating' [194-?]; 'Group photo in stairs or balcony of the camp building' [195-?]; and a dated 1944 print, 'To Chapel Island, Kamp Otoreke -- Group of people on a log bridge on their way to Chapel Island'.",
+   "sources": [
+    "src_concordia_p0145_full_findingaid_pdf"
+   ],
+   "confidence": "stated",
+   "category": "documents",
+   "entities": [
+    "Kamp Kanawana",
+    "Camp Otoreke"
+   ],
+   "date_ref": "1930-1989",
+   "conflicts_with": [],
+   "added_version": "v5.46",
+   "added_by": "ralph_loop"
+  },
+  {
+   "fact_id": "f_2276",
+   "claim": "The finding aid's scope note for P0145/12B dates the Kanawana sub-series 'nd, [190-]-2003' -- beginning in the 1900s decade, before the 1910 purchase of the Saint-Sauveur site -- and lists its contents as 'directors' reports, annual reports, correspondence, CAMPER APPLICATIONS, blueprints, maps, photographs, publicity brochures and films, t-shirts, badges, ribbons, pennants, and other materials'. The presence of camper applications confirms why 12B06 'Campers' is likely restricted under privacy law (f_2271). The scope note also shows how the two Concordia surfaces relate: each sub-series entry carries a 'Finding aids: Box listings:' line pointing at the concordia.ca static mirror page, so the PDF supplies series descriptions and item-level AV records while the mirror supplies the file-and-box listings beneath them. They are complementary layers, not rival copies -- which is why both were needed.",
+   "sources": [
+    "src_concordia_p0145_full_findingaid_pdf"
+   ],
+   "confidence": "stated",
+   "category": "sources",
+   "entities": [
+    "Kamp Kanawana",
+    "Concordia University Archives"
+   ],
+   "date_ref": "1900-2003",
+   "conflicts_with": [],
+   "added_version": "v5.46",
    "added_by": "ralph_loop"
   }
  ]

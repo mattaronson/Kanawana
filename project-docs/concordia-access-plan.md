@@ -129,6 +129,19 @@ Faubourg Building FG A112, 1250 Guy.
 > the equivalent page loads. If this is a Library Special Collections decision rather than an RMA one,
 > given the shared catalogue, I would be grateful if you could point me to the right person.
 >
+> **5. Audiovisual reproduction.** Your finding aid lists several quarter-inch audio reels for the
+> camp. Three are of particular interest, and I would be glad to pay the scholarly reproduction rate:
+>
+> - **P0145-11-0193**, "Kamp Kanawana — Interview with Woodsman," 24 August 1962
+> - **P0145-11-0197**, "What is God? / Interview of Kamp Kanawana campers and staff," 1963
+> - **P0145-11-0191**, "Pathfinder evaluation" (undated)
+>
+> The first two appear to be recordings of campers and staff speaking in 1962 and 1963. Almost
+> everything known about the camp in that decade comes from annual reports and printed brochures, so
+> contemporaneous voices would be genuinely significant. I note that RMA posted P0145-09-0066 ("Canoe
+> Trips") to your YouTube channel in February 2026 — if any of these are already digitized, or are
+> candidates for it, I would be glad to know.
+>
 > I am in Montreal and can come to the Reading Room at your convenience.
 >
 > With thanks,

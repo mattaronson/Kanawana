@@ -3990,3 +3990,55 @@ Digital Archivist. The only named person holding both the authority and the syst
 
 Full plan, named contacts, fee tables and a ready-to-send draft: `project-docs/concordia-access-plan.md`.
 `p_282` is now **blocking on operator action** — everything researchable has been done.
+
+---
+
+## 2026-08-25 — p_278: mining the 125-page finding aid
+
+**The headline finding is structural.** The PDF is not merely a deeper version of the mirror — it is
+a *different layer*. Each sub-series entry in it carries a line reading `Finding aids: Box listings:
+http://www.concordia.ca/offices/archives/ymca-fonds-sub-series-12A.html`. So the PDF supplies series
+descriptions **and item-level records**, while the mirror supplies the file-and-box listings beneath
+them. They are complementary, not rival copies, which is why both were needed and why neither alone
+was enough.
+
+**611 item-level records** parsed out of the document; 25 are Kanawana, Otoreke or Jubilee. These are
+individual photographs, films and audio reels, each with a citable reference code — exactly the class
+of material assumed to live only in AtoM.
+
+**The most valuable thing found in this session.** Two dated audio reels:
+
+- **P0145-11-0193** — "Kamp Kanawana — Interview with Woodsman," **24 August 1962**
+- **P0145-11-0197** — "What is God? / Interview of Kamp Kanawana campers and staff," **1963**
+
+These are contemporaneous recordings of campers and staff speaking, from a decade this wiki documents
+almost entirely through annual reports and brochures. CLAUDE.md's pending oral-history priority plans
+to *recall* this period from an interview with the operator; these recordings *are* the period.
+Reproduction is $1.00/minute for scholarly use. Spawned as `p_283`.
+
+**A third reel bears on a live open question:** **P0145-11-0191, "Pathfinder evaluation."** The
+coeducation article has carried an unresolved ambiguity about whether the 1965 "Pathfinder program
+Summer Summary" refers to the boys' section introduced in 1959 or to girls' programming. The reel is
+undated — the adjacent untitled item carries 1969 and 1964, which places the neighbourhood only — but
+hearing it would answer the question more directly than any further inference from print.
+
+**Other material written up** into `documents/kanawana-in-media.md`: seven film and video items with
+reference codes, including a previously unrecorded **bilingual public-service-announcement campaign**
+(P0145-09-0136, English, March 1987; P0145-09-0135, French, 6 December 1988); and item-level
+photograph descriptions giving the camp a visual record from the 1930s on — tents on the camp site,
+the log entrance, a boy in the camp **hospital** with a nurse, a 1960s staff group photo, and two
+1980s colour prints. For Otoreke, one firmly dated 1944 print: "To Chapel Island… group of people on
+a log bridge."
+
+**Two smaller corrections to what we thought we knew.** The Kanawana sub-series is dated **"nd,
+[190-]-2003"** — it begins in the 1900s decade, *before* the 1910 purchase of the Saint-Sauveur site.
+And its scope note explicitly lists **"camper applications"**, which confirms why 12B06 is likely
+restricted under privacy law rather than merely unlisted.
+
+**Series 06, 07, 08, 10 and 11 were checked and are genuinely institutional** — financial
+administration, human resources, communications, programs and branches, with no camp content beyond
+what series 12 already holds. That is a real null, established by keyword sweep across the whole
+document rather than assumed. The camp material concentrates in series 09 (moving images), 11
+(audio), 12 (camping) and 15 (photographs).
+
+`p_278` complete. The AV request has been folded into the `p_282` letter so it stays send-ready.

@@ -13,6 +13,67 @@ Camp Kanawana has appeared in a range of media over its 130-year history, from p
 
 **1993 documentary.** *Kamp Kanawana: The Experience that Lasts a Lifetime* (9 minutes, colour) was produced by Laurentien Productions for the Montreal YMCA, directed by Cathy Reeves.^2 It describes Kanawana as the oldest camp in Quebec and second oldest in Canada. The film features "On My Way to Kanawana," a camp song composed and performed by Richard "Itch" Kerr (Pip Award 2007).^3 Originally released on VHS in 1996; a YouTube access copy exists.^3
 
+## The Archived Recordings
+
+Concordia's full finding aid for the YMCA of Montreal fonds carries item-level descriptions for the
+association's audiovisual holdings, and the Kanawana entries in it are the richest unexploited
+material this wiki has identified. **None of the following has been heard or viewed** — these are
+catalogue descriptions, and every one carries a reference code that can be quoted in a reproduction
+request.^20
+
+### Audio reels
+
+Quarter-inch reels in series P0145/11:
+
+| Reference | Title | Date |
+|---|---|---|
+| P0145-11-0193 | **Kamp Kanawana — Interview with Woodsman** | **24 August 1962** |
+| P0145-11-0197 | **What is God? / Interview of Kamp Kanawana campers and staff** | **1963** |
+| P0145-11-0191 | Pathfinder evaluation | undated |
+| P0145-11-0190 | Kanawana promotional tape | undated |
+| P0145-11-0180 | Kamp Kanawana | undated |
+| P0145-11-0194 | Homesick tape | undated |
+| P0145-11-0002 | *On my way to Kanawana* — CD, 4 min., "Words and music by Richard Itch Kerr and used for the YMCA Montreal 150 years" | 2001 |
+
+The first two matter out of proportion to their length. **They are dated recordings of campers and
+staff speaking, from 1962 and 1963** — a decade this wiki documents almost entirely through annual
+reports and printed brochures. "Interview with Woodsman" is a camper in the 12-and-under section
+talking on a specific August afternoon; "What is God?" is campers and staff on the spiritual leg of
+the four-fold philosophy, in their own words. Nothing else in the known record is like them.
+
+"Homesick tape" is unexplained by its own title and could be anything from a counsellor-training aid
+to recordings of homesick campers; it is listed here so it is not lost.
+
+### Film and video
+
+| Reference | Title | Note |
+|---|---|---|
+| P0145-09-0012 | *Camp Kanawana: Boating and Water Sports All Summer Long* | Inter-titled silent footage; digitized 16 January 2003 |
+| P0145-09-0088 | *Kamp Kanawana* [ca. 196-] | 16 mm reel, no sound — "Various scenes… including swimming and diving"; access copy 30 January 2003 |
+| P0145-09-0066 | *Canoe Trips* | "Promotional video for the canoe trips organized by the YMCA of Montreal… no sound." Access copy on the RMA YouTube channel |
+| P0145-09-0136 | *Kamp Kanawana* | **March 1987** — noted in the finding aid as "English version" |
+| P0145-09-0135 | *Message d'intérêt public : — Kamp Kanawana* | **6 December 1988** — the French counterpart |
+| P0145-09-0057 | *News Documents and Kamp Kanawana* | undated |
+| P0145-09-0035 | *Kamp Kanawana: The Experience that Lasts a Lifetime* | 1993 — the documentary described above |
+
+The 1987/1988 pair is a **bilingual public-service-announcement campaign** that this wiki did not
+previously record at all. That the English version precedes the French by twenty-one months is worth
+noting rather than assuming: it may reflect production sequence, cataloguing, or nothing.
+
+### Photographs
+
+The finding aid describes individual prints, giving the camp a visual record from the 1930s onward:
+"Several tents on camp site," "Seven swimmers with life saver" and "Man getting ready to dive in
+lake" (all [193-?]); "Entrance to site made of logs" ([194-?]); "Several people on waterfront or
+bathing with lifeguard" and, catalogued separately as **YMCA Kamp Kanawana Hospital**, "Boy lying in
+bed with nurse by his side" (both [195-?]); a "Staff group photo" ([196-?]); and two colour prints
+from the 1980s, "Colorful cabin with totem in wood" and "Two people pointing at a Kamp Kanawana map
+on exterior wall of a cabin."^20
+
+For [[site/camp-otoreke|Otoreke]] there is a "Cafeteria full of people eating" ([194-?]), a group
+photo on the camp building's stairs ([195-?]), and one firmly dated 1944 print: **"To Chapel Island,
+Kamp Otoreke — Group of people on a log bridge on their way to Chapel Island."**
+
 ## Literature
 
 ***Jane, le renard et moi*** **(2012).** The graphic novel *Jane, le renard et moi* (*Jane, the Fox and Me*) by Fanny Britt (text) and Isabelle Arsenault (illustration) is set partly at Camp Kanawana.^4 The protagonist, Hélène, dreads an English immersion class trip to Camp Kanawana (Lac Kanawana), where she faces social difficulties with her classmates. On the second-to-last evening, while sitting on the porch of her cabin, a fox approaches her — a pivotal encounter in the narrative. The book won the Governor General's Literary Award for Children's Illustration (French), the Joe Shuster Award (Writer and Artist), and was named a *New York Times* Best Illustrated Children's Book.^5 An English translation by Susan Ouriou was published by Groundwood Books in 2013. The camp's use as an English immersion destination in the novel reflects its real-world role hosting school groups.
@@ -109,6 +170,7 @@ Stuart McLean worked as a counsellor at Camp Kanawana for five summers beginning
 17. CFCF Radio Broadcast, June 26, 1941 — station history (Canada's first radio station, established 1919 from the Marconi Wireless experimental station XWA) [src_cfcf_1941].
 18. CFCF Radio Broadcast, June 26, 1941 — broadcast timing (8:50 PM Thursday) and announcer interview format [src_cfcf_1941].
 19. Concordia University Archives, YMCA of Montreal Fonds, sub-sub-series 12B04 (Communications) [src_concordia_atom_12B04].
+20. Concordia University Records Management and Archives, *Finding Aid — YMCA of Montreal Fonds (P0145)*, generated 24 November 2023, 125 pp. [src_concordia_p0145_full_findingaid_pdf]. Item-level descriptions; **nothing in this section has been heard, viewed, or otherwise consulted beyond the catalogue entry.** See [f_2272], [f_2273], [f_2274], [f_2275].
 
 ## Research Notes
 
