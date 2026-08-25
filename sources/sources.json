@@ -12367,6 +12367,42 @@
    "notes": "'I concur on keeping the Jubilee name with the explanation. And with your call on the folder placement.' Editorial determinations, not factual sources.",
    "read_state": "extracted",
    "read_state_basis": "derived:cited-by-fact"
+  },
+  {
+   "source_id": "src_cbc_wong_camps_2021",
+   "type": "periodical",
+   "title": "Jessica Wong, \"With camps, summer programs awaiting the go-ahead, what are kids in for this summer?\", CBC News",
+   "date": "2021-04-29",
+   "date_precision": "exact",
+   "origin": "web",
+   "origin_url": "https://www.cbc.ca/news/canada/summer-camps-programs-considerations-1.6002785",
+   "cache_path": null,
+   "char_count": 13451,
+   "ingested_at": "2026-08-25T00:00:00Z",
+   "extracted": true,
+   "extraction_version": "v5.42",
+   "reliability": "secondary",
+   "notes": "THE ACTUAL SOURCE of the Leontyne Hache and Gaetane Verna material. Both names were previously attributed to src_cbc_2021_kanawana (the two sleepaway-camp articles of April and May 2021); those two were re-fetched in full on 2026-08-25 and contain NEITHER name -- 'Kanawana', 'Sean Day' and 'YMCA' were present as controls, so the reads were genuine. This article, by a different reporter and never registered, is where the names are.",
+   "read_state": "extracted",
+   "read_state_basis": "asserted:fetched-full-body-via-curl-403-on-webfetch"
+  },
+  {
+   "source_id": "src_wikipedia_gaetane_verna",
+   "type": "web",
+   "title": "Wikipedia, \"Gaëtane Verna\"",
+   "date": "2026",
+   "date_precision": "year",
+   "origin": "web",
+   "origin_url": "https://en.wikipedia.org/wiki/Ga%C3%ABtane_Verna",
+   "cache_path": null,
+   "char_count": 0,
+   "ingested_at": "2026-08-25T00:00:00Z",
+   "extracted": true,
+   "extraction_version": "v5.42",
+   "reliability": "tertiary",
+   "notes": "Biography of the curator: born Kinshasa to Haitian parents, family moved to Canada when she was two, raised in Montreal; Foreman Gallery/Bishop's 1998-2006, Musee d'art de Joliette 2006-2012, The Power Plant Toronto 2012-2022, Wexner Center from Nov 2022; Concordia BComm. Held ONLY as the comparison biography for the identification question at f_2257. It makes no claim about Kanawana, the YMCA or summer camp, and must not be cited as if it did.",
+   "read_state": "extracted",
+   "read_state_basis": "asserted:fetched-and-read"
   }
  ],
  "source_count": 685

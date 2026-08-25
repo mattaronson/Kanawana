@@ -43,13 +43,23 @@ The YMCAs of Québec's annual impact and community reports give the camp's moder
 
 The 2022 and 2023 figures are the first hard residential-attendance numbers this wiki has for any year after the 1980s, and they bracket the recovery: two lost summers, then 655, then 780.
 
-**Two staff named in the pandemic coverage.** CBC's 2021 reporting on the closures names
-**Léontyne Haché**, who began attending Kanawana at age eight and became the camp's canoe and kayak
-program specialist in summer 2019, and **Gaëtane Verna**, who attended as camper, counsellor, and
-section leader.^14 Both are instances of the camper-to-staff progression the camp's leadership
-programmes are built to produce, and the 2019 specialist appointment is one of the few staffing
-details on record for the season immediately before the closures. (Whether this Gaëtane Verna is the
-curator of the same name is not established by the source and is not asserted here — see
+**Two former campers named in the pandemic coverage.** Jessica Wong's CBC feature of 29 April 2021
+names **Léontyne Haché**, who began attending Kanawana at age eight, joined the overnight camp's
+leadership training programme, and became its canoe and kayak program specialist in summer 2019; she
+was 19 when the piece ran.^14 The same article names **Gaëtane Verna**, who "growing up in Quebec…
+attended summer camps from the age of eight, eventually becoming a counsellor and section leader at
+Camp Kanawana… when she got older," and whose two daughters were by then campers themselves — one of
+them 15 in 2021.^14 Haché's 2019 appointment is one of the few staffing details on record for the
+season immediately before the closures.
+
+The article also dates the second cancellation precisely: "This week, the family learned Kanawana is
+pulling the plug on camp for a second consecutive summer."^14 That is the last week of April 2021 —
+a month *before* the 28 May CBC report that Quebec sleepaway camps had been given a greenlight too
+late to act on. Kanawana had already decided.
+
+(Note the wording on Verna: the source has her as a counsellor and section leader **at Kanawana**,
+but says only that she attended summer camps generally from age eight — it does not place her
+childhood camping here. Whether she is the curator of the same name is unresolved; see
 [[people/notable-alumni/notable-alumni|Notable Alumni]], Open Question 2.)
 
 ## Open Questions
@@ -87,7 +97,7 @@ curator of the same name is not established by the source and is not asserted he
 11. Médiaterre, "Le camp Y Kanawana poursuit sa revitalisation et son virage vert," March 3, 2009 [src_mediaterre_kanawana_2009].
 12. TELUS Community Board, 2010: $50,000 toward a three-season educational pavilion [src_telus_kanawana].
 13. YMCAs of Québec annual impact and community reports, 2020, 2021, 2022, 2023, 2024 and 2025 (Concordia-digitized fonds on Internet Archive) [src_ia_ymca_montreal_fonds_collection].
-14. CBC coverage of Camp Kanawana, 2021 [src_cbc_2021_kanawana]. See [f_0924].
+14. Wong, Jessica. "With camps, summer programs awaiting the go-ahead, what are kids in for this summer?" *CBC News*, 29 April 2021 [src_cbc_wong_camps_2021]. URL: https://www.cbc.ca/news/canada/summer-camps-programs-considerations-1.6002785 — **not** the two sleepaway-camp articles previously cited for this material, which were re-read in full on 2026-08-25 and contain neither name. See [f_0924], [f_2256].
 
 ## Research Notes
 

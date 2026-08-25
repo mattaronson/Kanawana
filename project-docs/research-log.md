@@ -3730,3 +3730,54 @@ June 2026 parent guide, cached and unextracted).
 until it was checked against the artefact itself. "727 orphans" and "111 unextracted" would both
 have been alarming things to report, and both were artefacts of how the count was taken. The number
 worth reporting was the one that survived hand-checking.
+
+---
+
+## 2026-08-25 — p_272: is the Kanawana Gaëtane Verna the curator?
+
+**Verdict: not confirmed and not ruled out — but the loop found something more consequential than
+the answer it went looking for.**
+
+**The citation was wrong.** `f_0924` attributed both Léontyne Haché and Gaëtane Verna to
+`src_cbc_2021_kanawana`, a record covering two CBC articles from April and May 2021. Both were
+re-fetched in full and **neither contains either name** — with "Kanawana," "Sean Day" and "YMCA"
+present as controls, so these were genuine reads, not blocked fetches. The names come from a *third*
+CBC article never registered in the source index: Jessica Wong, "With camps, summer programs awaiting
+the go-ahead, what are kids in for this summer?", 29 April 2021. Now registered as
+`src_cbc_wong_camps_2021`.
+
+**The claim was also wrong.** The KB said Verna "attended as a camper, counsellor, and section leader
+at Camp Kanawana." The article says she "attended summer camps from the age of eight, eventually
+becoming a counsellor and section leader at Camp Kanawana… when she got older" — it does not place
+her childhood camping at Kanawana. Both KB and article text corrected. This error was written into
+`modern-era.md` earlier the same day and is corrected in the same commit.
+
+**Two facts gained.** Haché was 19 in April 2021. And the article dates the second cancellation:
+"This week, the family learned Kanawana is pulling the plug on camp for a second consecutive summer"
+— the last week of April 2021, a month *before* the 28 May CBC report that Quebec camps were
+greenlit too late. Kanawana had already decided (`f_2256`).
+
+**The identification itself.** Four converging attributes, no linking source:
+
+| For | Against / unresolved |
+|---|---|
+| Rare name, exact match | No professional profile of the curator mentions camp, the YMCA, or Kanawana |
+| Curator raised in Montreal (family left Kinshasa when she was 2) vs CBC "growing up in Quebec" | — |
+| Curator directed The Power Plant, Toronto, across April 2021 vs CBC "now based in Toronto" | — |
+| Curator's BComm is from **Concordia** — the Sir George Williams YMCA lineage that supplied Kanawana staff | — |
+
+**Where it is blocked, precisely.** A Toronto Life feature is reported to give her daughters' ages as
+six and ten. Paired with the reported October 2015 date those ages would *not* match CBC's April 2021
+"elder daughter plus a 15-year-old"; paired with a 2012 date — her appointment year, and a likelier
+date for a new-director listicle — they would match exactly. Both the ages and the date come only
+from search-engine summaries, and the page itself could not be read: **WebFetch 403, curl 403,
+Wayback egress blocked from both shell and WebFetch, archive.today connection reset, r.jina.ai served
+a Cloudflare challenge.** So this evidence is unusable, not merely inconclusive — and the temptation
+to reason from the summary is exactly the failure that produced the "Dr. Amy Ornstein" error on the
+Pip Award page.
+
+`p_272` is therefore marked **blocked**, not exhausted, with a single named next action: one
+operator-side fetch of the Toronto Life page, reading for the date and the ages.
+
+**Verna is not listed in Notable Alumni.** She is recorded in `modern-era.md` as what the source
+establishes — a former counsellor and section leader, and a camp parent.

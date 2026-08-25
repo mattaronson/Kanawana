@@ -1,8 +1,8 @@
 {
- "version": "5.41",
- "kb_version": "v5.41",
+ "version": "5.42",
+ "kb_version": "v5.42",
  "migrated_from": "3.3",
- "fact_count": 2217,
+ "fact_count": 2219,
  "facts": [
   {
    "fact_id": "f_0001",
@@ -15089,9 +15089,9 @@
   },
   {
    "fact_id": "f_0924",
-   "claim": "Léontyne Haché began attending Camp Kanawana at age eight and eventually became its canoe and kayak program specialist in summer 2019. Gaëtane Verna attended as a camper, counsellor, and section leader at Camp Kanawana.",
+   "claim": "Leontyne Hache began attending Camp Kanawana at age eight, joined the overnight camp's leadership training programme, and in summer 2019 became its canoe and kayak program specialist; she was 19 in April 2021. Gaetane Verna, 'growing up in Quebec, attended summer camps from the age of eight, eventually becoming a counsellor and section leader at Camp Kanawana... when she got older' -- the source does NOT say she was a camper at Kanawana itself, only that she was a counsellor and section leader there. Verna was 'now based in Toronto' in April 2021 and has two daughters who attend the camp, one of them 15 that year.",
    "sources": [
-    "src_cbc_2021_kanawana"
+    "src_cbc_wong_camps_2021"
    ],
    "confidence": "stated",
    "category": "staff",
@@ -15102,8 +15102,9 @@
    ],
    "date_ref": "2019",
    "conflicts_with": [],
-   "added_version": "4.23",
-   "added_by": "ralph_loop"
+   "added_version": "v5.42",
+   "added_by": "ralph_loop",
+   "correction": "CITATION CORRECTED 2026-08-25. Previously cited src_cbc_2021_kanawana; that record's two CBC articles were re-read in full and contain neither name. Claim also corrected: 'attended as a camper... at Camp Kanawana' was not what the source says."
   },
   {
    "fact_id": "f_0925",
@@ -38326,6 +38327,40 @@
    "date_ref": "1964-1970",
    "conflicts_with": [],
    "added_version": "v5.41",
+   "added_by": "ralph_loop"
+  },
+  {
+   "fact_id": "f_2256",
+   "claim": "Camp Kanawana cancelled its residential season for a second consecutive summer in 2021, and the decision reached camp families in the last week of April 2021: 'This week, the family learned Kanawana is pulling the plug on camp for a second consecutive summer due to COVID-19.' The article is by Jessica Wong, CBC News, posted 29 April 2021 -- a month before the 28 May 2021 CBC report that Quebec sleepaway camps had been given a greenlight 'too late'.",
+   "sources": [
+    "src_cbc_wong_camps_2021"
+   ],
+   "confidence": "stated",
+   "category": "history",
+   "entities": [
+    "Kamp Kanawana"
+   ],
+   "date_ref": "2021-04-29",
+   "conflicts_with": [],
+   "added_version": "v5.42",
+   "added_by": "ralph_loop"
+  },
+  {
+   "fact_id": "f_2257",
+   "claim": "IDENTIFICATION NOT ESTABLISHED (2026-08-25 RALPH loop, p_272): whether the Gaetane Verna named as a former Kanawana counsellor and section leader is the internationally known curator of the same name is SUPPORTED BY FOUR CONVERGING ATTRIBUTES but confirmed by no source. FOR: (1) the name is rare and matches exactly; (2) CBC says she grew up in Quebec, and the curator was raised in Montreal after her family moved to Canada from Kinshasa when she was two; (3) CBC says she was 'now based in Toronto' in April 2021, and the curator directed The Power Plant in Toronto from 2012 until her 2022 move to the Wexner Center; (4) the curator holds a bachelor's degree in management and international business from Concordia University, Montreal -- the institution descended from the Sir George Williams YMCA, the same institutional lineage that supplied Kanawana staff. AGAINST: no source of any kind connects the curator to Kanawana, to the YMCA, or to summer camp; her professional profiles carry no such mention. UNRESOLVED AND UNREADABLE: a Toronto Life feature is reported by search engines to give her daughters' ages as six and ten, which if paired with the reported October 2015 publication date would NOT match CBC's April 2021 description (elder daughter plus a 15-year-old), but WOULD match it if the piece dates from her 2012 appointment. The article could not be read through any route tried -- WebFetch 403, curl 403, Wayback egress blocked, archive.today connection reset, text proxy served a Cloudflare challenge -- so neither the ages nor the date is established and this line of evidence is unusable, not merely inconclusive.",
+   "sources": [
+    "src_cbc_wong_camps_2021",
+    "src_wikipedia_gaetane_verna"
+   ],
+   "confidence": "disputed",
+   "category": "people",
+   "entities": [
+    "Gaetane Verna",
+    "Kamp Kanawana"
+   ],
+   "date_ref": "2021",
+   "conflicts_with": [],
+   "added_version": "v5.42",
    "added_by": "ralph_loop"
   }
  ]

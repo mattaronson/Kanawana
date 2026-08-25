@@ -113,7 +113,21 @@ Attended Camp Kanawana for six summers before becoming a camp counsellor and can
 ## Open Questions
 
 1. [Critical] What are the years that Richard "Itche" Kerr attended Camp Kanawana? Was he a camper, counsellor, or both?
-2. [Important, re-confirmed exhausted 2026-07-09] Which other notable individuals attended Camp Kanawana who are not Pip Award recipients? The camp has operated for 130+ years — there must be many more. (Harold H. Potter, pioneering Black Canadian sociologist, identified as 1930s counsellor.) A systematic 18-query, 7-surface sweep (Google web, LinkedIn, Facebook, Instagram, TikTok, Newspapers.com, Wikipedia, Google Books) found no previously undocumented, independently-notable/public alumni — every result was either already-documented or a generic camp/marketing page. The easily-discoverable public web is genuinely saturated for this topic; further progress likely requires oral history or physical archive access. **One lead now sits against that conclusion (2026-08-25):** CBC's 2021 coverage names **Gaëtane Verna** as a former camper, counsellor, and section leader at Kanawana.^41 A curator of that name is internationally prominent, but the CBC source does not make the identification and this wiki does not assert it. If the two are the same person she belongs on this page; if not, she is ordinary camp staff and belongs nowhere near it. **This is the single most tractable open lead on this page** — it needs one confirming source, not a sweep.
+2. [Important, re-confirmed exhausted 2026-07-09] Which other notable individuals attended Camp Kanawana who are not Pip Award recipients? The camp has operated for 130+ years — there must be many more. (Harold H. Potter, pioneering Black Canadian sociologist, identified as 1930s counsellor.) A systematic 18-query, 7-surface sweep (Google web, LinkedIn, Facebook, Instagram, TikTok, Newspapers.com, Wikipedia, Google Books) found no previously undocumented, independently-notable/public alumni — every result was either already-documented or a generic camp/marketing page. The easily-discoverable public web is genuinely saturated for this topic; further progress likely requires oral history or physical archive access. **One lead was tested against that conclusion on 2026-08-25 and remains unresolved.** Jessica
+Wong's CBC feature of 29 April 2021 names **Gaëtane Verna** as a former counsellor and section leader
+at Kanawana, then based in Toronto, with two daughters at the camp.^41 A curator of the same name is
+internationally prominent — Musée d'art de Joliette, then The Power Plant in Toronto, then the Wexner
+Center. A full research loop found **four converging attributes and no source that links them**: the
+name is rare and exact; the curator was raised in Montreal after her family moved from Kinshasa when
+she was two, matching CBC's "growing up in Quebec"; the curator directed The Power Plant in Toronto
+across April 2021, matching "now based in Toronto"; and her bachelor's degree is from **Concordia** —
+the institution descended from the Sir George Williams YMCA, the same lineage that supplied Kanawana
+staff.^42 Against that: not one of her professional profiles mentions camp, the YMCA, or Kanawana.
+A Toronto Life feature reportedly gives her daughters' ages, which would settle it either way, but
+that page could not be read through any available route — direct fetch, archive, and text proxy all
+refused — so the decisive evidence is *unread*, not *absent*. **Verna is therefore not listed on this
+page.** She is recorded in [[history/modern-era|The Modern Era]] as what the source actually
+establishes: a former counsellor and section leader, and a camp parent.
 3. ~~[Important] What is Bruce Netherwood's specific role history at Kanawana — was he a camp director? Pip Award describes him as "YMCA leader and author" — what did he author?~~ [Partially resolved] Director at Kanawana 1988–1994 per oral history (f_1212). No published books found via web search; "author" in Pip citation may refer to internal YMCA publications or reports. 30+ years in YMCA camping confirmed.
 4. ~~[Nice-to-have] What is Jeniene Phillips Birks's broadcasting career? Which network/station?~~ [Resolved] CBC Montreal television journalist; fill-in anchor circa 2009.^19
 5. [Nice-to-have] Can any notable alumni from the 1894–1930 era be identified?
@@ -163,7 +177,8 @@ Attended Camp Kanawana for six summers before becoming a camp counsellor and can
 
 39. Buckland, Smillie. "How Summer Camp Shapes Lives." *Reader's Digest Canada*. URL: https://www.readersdigest.ca/culture/how-summer-camp-shapes-lives/
 40. Prabook, "Charles Smillie Buckland." URL: https://prabook.com/web/charles_smillie.buckland/3371993
-41. CBC coverage of Camp Kanawana, 2021 [src_cbc_2021_kanawana]. Names Gaëtane Verna as camper, counsellor and section leader; makes no claim about any other career. See [f_0924].
+41. Wong, Jessica. "With camps, summer programs awaiting the go-ahead, what are kids in for this summer?" *CBC News*, 29 April 2021 [src_cbc_wong_camps_2021]. Names Verna as counsellor and section leader at Kanawana; makes no claim about any other career. See [f_0924].
+42. Wikipedia, "Gaëtane Verna" [src_wikipedia_gaetane_verna]; Wexner Center and OSU biographies. Held only as the comparison biography for the identification question — none of them mentions Kanawana, the YMCA, or summer camp. See [f_2257].
 
 ## Research Notes
 

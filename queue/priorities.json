@@ -3408,13 +3408,13 @@
    "priority_id": "p_272",
    "rank": 272,
    "type": "VERIFY",
-   "description": "IDENTIFY GAETANE VERNA. CBC's 2021 Kanawana coverage names Gaetane Verna as a former camper, counsellor and section leader (f_0924). A curator of that name is internationally prominent. The wiki asserts no identification. ONE confirming or disconfirming source settles whether she belongs in people/notable-alumni/ or nowhere. Try: the CBC piece's own byline/context, curator biographies and interviews for any Montreal-summer-camp mention, YMCA Quebec alumni coverage. Public-figure information only; if the two are different people, record that as the finding and close.",
+   "description": "IDENTIFY GAETANE VERNA -- BLOCKED ON ONE UNREADABLE PAGE. A full loop on 2026-08-25 established four converging attributes (rare exact name; raised in Montreal vs CBC's 'growing up in Quebec'; Toronto-based in April 2021 vs Power Plant directorship; Concordia BComm) and no linking source. THE ONE DECISIVE ITEM is the Toronto Life feature 'The List: 10 things Power Plant director Gaetane Verna can't live without', reported to give her daughters' ages -- which would match or refute CBC's April 2021 'elder daughter plus a 15-year-old' depending on the piece's date. Every route to it failed: WebFetch 403, curl 403, Wayback egress blocked (shell AND WebFetch), archive.today connection reset, r.jina.ai Cloudflare challenge. NEXT ACTION IS NOT MORE SEARCHING -- it is one operator-side fetch of https://torontolife.com/city/the-list-gaetane-verna/ , reading for (a) the publication date and (b) the daughters' ages. Everything else on this question is saturated.",
    "article_id": "notable-alumni",
    "blocking": false,
    "assigned_weight": "P2",
    "created_at": "2026-08-25T00:00:00Z",
-   "status": "pending",
-   "notes": "Spawned by the orphan-fact coverage sweep. Highest-yield-per-query item on the notable-alumni page."
+   "status": "blocked",
+   "notes": "Loop 2026-08-25: ~10 searches and ~14 direct fetches across CBC, Wikipedia, Toronto Life, Ocula, Wexner, OSU alumni magazine, Columbus Monthly (402 paywall), StyleDemocracy (read in full, no family detail), Black In Canada (503), Wayback, archive.today, r.jina.ai. Byproduct: found the real source of the Verna/Hache material, which had been miscited."
   },
   {
    "priority_id": "p_273",
