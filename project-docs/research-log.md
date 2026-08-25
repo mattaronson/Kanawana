@@ -4158,3 +4158,57 @@ Spirit"; **H. J. Cross described as "a former Kanawana Chief" in August 1935**; 
 `p_247` marked partially complete — the digitized run is exhausted; the undigitized 1941–1975 material
 is now part of the `p_282` letter. `p_048` (songs and cheers) is **partially unblocked without oral
 history**: the instrument can now be built to *test* documentary evidence rather than supply it.
+
+---
+
+## 2026-08-25 — p_270: the Canadian Camping run, swept
+
+All **164 issues** of *Canadian Camping* / *Canadian Camping Magazine* downloaded, verified, cached
+in-repo at `sources/cache/canadian-camping/` (13.9 MB), and swept. Control: 164/164 verified, zero HTML
+bodies, **zero duplicate bodies** — the check that caught the Green Triangle failure was run again here
+and came back clean. One issue failed on first attempt and was re-fetched successfully; it was a
+transient failure, not a missing file.
+
+**Kanawana: 17 hits across 11 issues, all read in context.** Corpus-wide nulls: **"Camp Jubilee,"
+"Becsies," and "D'Arcy McGee" appear nowhere in 164 issues.**
+
+**`p_239` is answered outright.** Macdiarmid's obituary (December 1962) — "In Memoriam: J. G. 'Greig'
+Macdiarmid, May 21st, 1962" — records that he rose from Executive Secretary of Toronto *Central* YMCA
+to **General Secretary of the Toronto YMCA**, died suddenly on **21 May 1962**, served as **Senior
+Officer Overseas of Canadian YMCA War Services**, and "was a key factor in the expansion of Camp Pine
+Crest, Norval, Wangoma and the development of twenty-three YMCA Day Camps in the Toronto area."
+
+That last clause is worth flagging carefully. This wiki records **Camp Pine Crest as the source of the
+Lumbermen-versus-Voyageurs competition Kanawana adopted in 1947** — and the man who expanded Pine Crest
+was Kanawana's own former Camp Chief. **No source connects the two**, and the fact is recorded as
+adjacent rather than causal. But it is now a specific, testable question rather than a coincidence
+nobody had noticed.
+
+**A. Ross Seaman gains a full biography** from his 1967 QCA presidential profile: B.A. Sir George
+Williams, **M.Ed. Springfield College**, and "he really began his career **at the age of 10** when he
+attended Camp Kanawana as a camper," working up from C.I.T. to Director; first YMCA post 1945 at Point
+St. Charles, then Lachine, then Metropolitan. It also names his wife — **Margaret Bradley** — and their
+three children with ages, which this wiki did not have.
+
+**Roy Locke gains three things**: his middle initial is settled as **D** ("Roy D. Locke," April 1952),
+he was **President of the Quebec Camping Association** in 1952, and he wrote the **Kanawana Manual of
+Operations** — described at length in June 1953 and reported as a book in progress that December. Its
+contents are itemised down to "a seven page outline 'Things a new staff member needs to know about
+Kanawana'." **No copy is known to survive here**, and it would be the best single document for 1950s
+camp operation. Spawned as `p_285` and added to the `p_282` letter.
+
+**Also recovered:** the 1975 and 1976 Quebec directory entries, giving the first per-gender enrolment
+and per-session fee figures this wiki holds for the 1970s (90/90 then 98/91 campers; $210 per two
+weeks), with Derek V. Walsh as director and Les Voyageurs merging into the Kanawana listing between the
+two years. A June 1950 wartime memoir in which a wounded soldier at Caserta, Italy recognises a fellow
+camper — *"Kamp Kanavana… 1934"* — and names **the Chute, Circus Day, the hike over to the dance at
+Marois, and Chef Watson**. Peter Goddard and the Kanawana staff mailing 6,500 National Camping Day
+posters across Canada in 1983. And **Jay Netherwood**, a name this wiki does not hold, writing on acid
+rain in French in 1988.
+
+**One thing recorded and deliberately not acted on.** The June 1949 "Quebec Camps" article states that
+a Montreal YMCA boys' camp "in **1893** and called Otoreke was among the earliest," and that "Kanawana…
+had a **mysterious birth** about this time." That is a neighbouring camp director's 1949 recollection,
+not a Montreal YMCA record, and it disagrees with the documented sequence. It is filed as evidence of
+what the movement *believed* in 1949 — including that Kanawana's origins were already thought obscure —
+and explicitly **does not reopen the founding date**.

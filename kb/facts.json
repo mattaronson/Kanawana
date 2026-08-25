@@ -1,8 +1,8 @@
 {
- "version": "5.48",
- "kb_version": "v5.48",
+ "version": "5.49",
+ "kb_version": "v5.49",
  "migrated_from": "3.3",
- "fact_count": 2245,
+ "fact_count": 2251,
  "facts": [
   {
    "fact_id": "f_0001",
@@ -38821,6 +38821,121 @@
    "date_ref": "1932-1940",
    "conflicts_with": [],
    "added_version": "v5.48",
+   "added_by": "ralph_loop"
+  },
+  {
+   "fact_id": "f_2284",
+   "claim": "GREIG MACDIARMID'S POST-MONTREAL CAREER AND DEATH, from his Canadian Camping obituary (Vol. 15 No. 1, December 1962, p. 17), headed \"In Memoriam: J. G. 'Greig' Macdiarmid, May 21st, 1962\": \"Camping, in Canada, lost a knowledgeable and ardent supporter with the sudden death, in May, of Greig Macdiarmid, GENERAL SECRETARY OF THE TORONTO YOUNG MEN'S CHRISTIAN ASSOCIATION. A former director of Camp Kanawana, he served the Y's in Montreal and Toronto and during World War II was SENIOR OFFICER OVERSEAS of Canadian YMCA War Services. His interest and enthusiasm was a key factor in the expansion of CAMP PINE CREST, NORVAL, WANGOMA and the development of TWENTY-THREE YMCA DAY CAMPS in the Toronto area. He set the stage for the Y's co-operation in the operation of Camp Illahee for medically handicapped children.\" He therefore rose from Executive Secretary of Toronto CENTRAL YMCA (1946) to General Secretary of the Toronto association, and died suddenly on 21 May 1962. NOTE THE PINE CREST ADJACENCY: this wiki records Camp Pine Crest as the source of the Lumbermen-versus-Voyageurs competition Kanawana adopted in 1947, and the man who expanded Pine Crest was Kanawana's own former Camp Chief. No source connects the two facts causally; they are recorded as adjacent, not as a chain.",
+   "sources": [
+    "src_ia_canadian_camping_1962_12"
+   ],
+   "confidence": "stated",
+   "category": "people",
+   "entities": [
+    "Greig Macdiarmid",
+    "Camp Pine Crest",
+    "Toronto YMCA"
+   ],
+   "date_ref": "1946-1962",
+   "conflicts_with": [],
+   "added_version": "v5.49",
+   "added_by": "ralph_loop"
+  },
+  {
+   "fact_id": "f_2285",
+   "claim": "A. ROSS SEAMAN, FULL BIOGRAPHY, from his Canadian Camping profile as President of the Quebec Camping Association (Vol. 19 No. 4, June 1967, p. 125): born and educated in Montreal; B.A. from Sir George Williams University; MASTER OF EDUCATION FROM SPRINGFIELD COLLEGE; \"he really began his career AT THE AGE OF 10 when he attended Camp Kanawana as a camper\", working up from C.I.T. to Director; first YMCA post 1945 as Community Secretary at the Point St. Charles Branch; then Executive Secretary of the Lachine Branch; then Metropolitan Programme Secretary and Director of Camping. In 1967 he directed both Kanawana and 'Les Voyageurs', described as \"a pioneer wilderness camp for teen agers\". HIS WIFE'S MAIDEN NAME IS BRADLEY: \"Mr. Seaman married Margaret Bradley and has three children, Derek, aged 16, Suzanne, aged 14 and Dawn aged 3.\" That dates the children's births to approximately 1951, 1953 and 1964.",
+   "sources": [
+    "src_ia_canadian_camping_1967_06"
+   ],
+   "confidence": "stated",
+   "category": "people",
+   "entities": [
+    "A. Ross Seaman",
+    "Margaret Seaman",
+    "Margaret Bradley"
+   ],
+   "date_ref": "1967",
+   "conflicts_with": [],
+   "added_version": "v5.49",
+   "added_by": "ralph_loop"
+  },
+  {
+   "fact_id": "f_2286",
+   "claim": "ROY LOCKE: MIDDLE INITIAL, QCA PRESIDENCY, AND THE KANAWANA MANUAL OF OPERATIONS. Canadian Camping, April 1952: \"Roy D. Locke director of Y.M.C. Kamp Kanawana is president of the Quebec Camping Association\" -- settling the middle initial as D and making the 1950 'Roy N. Locke' a transcription error. December 1953: \"Roy Locke in Montreal, who, in addition to the Metropolitan Boys Work job, takes over Camp Kanawana and the planning for Camp Perrot. Roy has something which is of interest to all camp people in Canada, and that is A BOOK HE IS DEVELOPING ON THE TOTAL CAMP OPERATION.\" June 1953 describes what is almost certainly that book -- the KANAWANA MANUAL OF OPERATIONS, written because \"a change in the camp director may lead to inefficiency and needless friction\": four sections (programme, administration, buildings and equipment, general) containing a statement of objectives \"such as emphasis on simple living in the out-of-doors, Christian motivation\", sample hike and canoe-trip menus, \"a seven page outline 'Things a new staff member needs to know about Kanawana'\", per-position staff duties, and the canoeing, rowing, sailing and swimming tests. NO COPY IS KNOWN TO SURVIVE in this project's sources.",
+   "sources": [
+    "src_ia_canadian_camping_1952_04",
+    "src_ia_canadian_camping_1953_06",
+    "src_ia_canadian_camping_1953_12"
+   ],
+   "confidence": "stated",
+   "category": "people",
+   "entities": [
+    "Roy D. Locke",
+    "Kamp Kanawana",
+    "Camp Perrot"
+   ],
+   "date_ref": "1952-1953",
+   "conflicts_with": [],
+   "added_version": "v5.49",
+   "added_by": "ralph_loop"
+  },
+  {
+   "fact_id": "f_2287",
+   "claim": "KANAWANA IN THE QUEBEC CAMP DIRECTORIES, 1975 AND 1976. Both list the camp as \"KANAWANA (1894) (YMCA)\" under ORGANIZATIONAL RESIDENTIAL -- CO-ED, director DEREK V. WALSH, address P.O. Box 310, St. Sauveur des Monts / 1441 Drummond St., Montreal. 1975: 90 boys and 90 girls aged 8-15; activities tripping, swimming, sailing, arts and crafts, C.I.T. programme. 1976: 98 boys and 91 girls aged 8-15; four two-week sessions from 28 June to 26 August; $210.00 for two weeks, $190 each additional two weeks; activities tripping, canoeing, ORIENTEERING, arts and crafts, sailing. 'Les Voyageurs de la Verendrye' is listed SEPARATELY in 1975 -- also under Walsh, c/o Kamp Kanawana, 15 boys and 5 girls aged 13-17, wilderness/canoe trips/fishing/campcraft -- and is merged into the Kanawana line by 1976 as \"KANAWANA (1894) -- Les Voyageurs de la Verendrye\". These are the first per-session fee and per-gender enrolment figures this wiki holds for the 1970s.",
+   "sources": [
+    "src_ia_canadian_camping_1975_01",
+    "src_ia_canadian_camping_1976_01"
+   ],
+   "confidence": "stated",
+   "category": "operations",
+   "entities": [
+    "Kamp Kanawana",
+    "Derek Walsh",
+    "Les Voyageurs de la Verendrye"
+   ],
+   "date_ref": "1975-1976",
+   "conflicts_with": [],
+   "added_version": "v5.49",
+   "added_by": "ralph_loop"
+  },
+  {
+   "fact_id": "f_2288",
+   "claim": "THREE FURTHER KANAWANA APPEARANCES IN CANADIAN CAMPING. (a) June 1950 carries a first-person wartime memoir: a wounded soldier in a Canadian Army Hospital at Caserta, Italy recognises the writer -- \"John Kidd... Kidd... I know now... Kamp Kanavana... 1934\" -- and the passage lists what the camp meant in memory: \"Cool blue waters, green hills, boats, THE CHUTE, CIRCUS DAY, campfires, the kid looking for a piece of shore-line, THE HIKE OVER TO THE DANCE AT MAROIS, CHEF WATSON grumbling with a twinkle in his eyes.\" The soldier says \"Kanawana helped me to straighten out my thinking about people, about life.\" (John Kidd also appears in the Green Triangle of 17 October 1936.) (b) Summer 1983: \"A special public thanks goes to PETER GODDARD and the staff of Kamp Kanawana in Montreal for accepting the tremendous task of mailing to every camp\" -- 6,500 National Camping Day posters distributed across Canada from Kanawana. (c) Winter 1988: a French-language article on acid rain, \"L'Etranger\", by JAY NETHERWOOD, Camp Kanawana -- a name this wiki does not hold, distinct from Bruce Netherwood, director 1988-1994.",
+   "sources": [
+    "src_ia_canadian_camping_1950_06",
+    "src_ia_canadian_camping_1983_summer",
+    "src_ia_canadian_camping_1988_winter"
+   ],
+   "confidence": "stated",
+   "category": "history",
+   "entities": [
+    "Kamp Kanawana",
+    "John Kidd",
+    "Peter Goddard",
+    "Jay Netherwood",
+    "Chef Watson"
+   ],
+   "date_ref": "1934-1988",
+   "conflicts_with": [],
+   "added_version": "v5.49",
+   "added_by": "ralph_loop"
+  },
+  {
+   "fact_id": "f_2289",
+   "claim": "THE 1949 ORIGINS PASSAGE, and a caution about it. Canadian Camping Vol. 1 No. 3 (June 1949), in Agnes Knox Mutchler's 'Quebec Camps': \"The date and origin of many of the early camps is even now clouded in antiquity. Certainly a boys' camp sponsored by the Y.M.C.A. of Montreal in 1893 and called OTOREKE was among the earliest. KANAWANA, at present directed by Roy Locke, Vice-President of the Quebec Section, HAD A MYSTERIOUS BIRTH about this time under the same sponsorship.\" This is a 1949 secondary account by a neighbouring camp's director, not a Montreal YMCA record, and it disagrees with this wiki's documented sequence (Camp Jubilee founded 1894 at Lake Saint-Joseph, renamed Otoreke in 1909, Kanawana established at Saint-Sauveur in 1910). It is recorded as evidence of what the camping movement BELIEVED in 1949 -- including that Kanawana's own origins were already considered obscure -- and NOT as a competing chronology. It does not reopen the founding date. Note also that 'Camp Jubilee' appears NOWHERE in the 164-issue run.",
+   "sources": [
+    "src_ia_canadian_camping_1949_06"
+   ],
+   "confidence": "disputed",
+   "category": "founding",
+   "entities": [
+    "Camp Otoreke",
+    "Kamp Kanawana",
+    "Camp Jubilee"
+   ],
+   "date_ref": "1949",
+   "conflicts_with": [],
+   "added_version": "v5.49",
    "added_by": "ralph_loop"
   }
  ]

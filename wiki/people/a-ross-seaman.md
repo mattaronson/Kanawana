@@ -9,6 +9,25 @@ A. Ross Seaman (died October 1987) was director of Kamp Kanawana from 1959 to 19
 
 ## Early Career and YMCA
 
+**A full biography appeared in *Canadian Camping* in June 1967**, when Seaman was President of the
+Quebec Camping Association, and it fills in most of what this article previously had to infer:^9
+
+> "Ross Seaman was born and educated in Montreal, receiving his B.A. degree from Sir George Williams
+> University and later his **Master of Education degree from Springfield College**. But he really began
+> his career **at the age of 10 when he attended Camp Kanawana as a camper**. From then on, he spent
+> his summers at camp working his way up from C.I.T. to Director. His first position was with the YMCA
+> **in 1945 as Community Secretary at the Point St. Charles Branch** in Montreal. Later he was
+> appointed **Executive Secretary of the Lachine Branch** of the YMCA and then to the Metropolitan
+> Staff in Montreal where he is the Metropolitan Programme Secretary and Director of Camping…
+> Presently, Mr. Seaman directs two camps, Camp Kanawana, a boy's camp located near St. Sauveur des
+> Monts in the Laurentians, 50 miles north of Montreal, and **'Les Voyageurs' a pioneer wilderness camp
+> for teen agers**."
+
+Two things follow. The camper-to-director progression is not a later reconstruction — it was how the
+camping movement itself described him in 1967, and it begins at **age ten**. And the profile names his
+wife: **"Mr. Seaman married Margaret Bradley and has three children, Derek, aged 16, Suzanne, aged 14
+and Dawn aged 3."**^9 Margaret Seaman's maiden name was **Bradley**, which this wiki did not have.
+
 After graduating from Sir George Williams University, Seaman entered community work and the camping movement through the YMCA.^2 ^3 At some point in his career, he offered a colleague a position at the Cornwall YMCA.^3 The chronology and extent of his YMCA roles before Kanawana are undocumented. A newly found lead (2026-07-10): Camp Perrot's 1952 annual report thanks Seaman as "Past Director of Camp Perrot," a YMCA service camp on Île Perrot, and a 1959 internal memo from that camp records him personally planting trees there "about 1950" — placing a Camp Perrot directorship before his Kanawana tenure.^7 A "Margaret Seaman" served as Camp Perrot's Girls' Camp Director in 1952, plausibly the same Margaret who was Seaman's wife (see Personal Life and Legacy, below). **[Confirmed 2026-08-25.]** A June 1967 profile of Seaman in *Canadian Camping* states of his wife: "Mrs. Seaman, also a keen camper, has directed Camp Perrot (girls' section), Camp Chapleau of the Old Brewery Mission and the Junior League Camp of Montreal."^8 That attributes the Camp Perrot girls'-section directorship to Mrs. Seaman directly, closing the identification, and establishes a camp-directing career of her own across three separate organizations — the YMCA, the Old Brewery Mission, and the Junior League of Montreal. See [[connections/related-camps/camp-lighthall|Camp Lighthall]], which is the Junior League camp under its later name. See [[site/camp-perrot|Camp Perrot]] for the primary-source detail.
 
 ## Camp Kanawana (1959–1967)
@@ -56,3 +75,4 @@ The A. Ross Seaman Memorial Leadership Development Fund was established in 1987 
 6. YMCA of Montreal, Annual Report 1966-67 (Internet Archive, digitized by Concordia RMA). Read directly 2026-07-08.
 8. *Canadian Camping* Vol. 19 No. 4 (June 1967), p. 125 [src_ia_canadian_camping_1967_06]. Profile of Seaman as Montreal YMCA Director of Camping; the passage on Mrs. Seaman is quoted above.
 7. Camp Perrot annual reports, 1952 [src_ia_camp_perrot_collection]; "A Fresh Look at Camp Perrot," 1959 memo [src_camp_perrot_1959_fresh_look]. Both verified genuine via archive.org metadata API, 2026-07-10.
+9. "A. Ross Seaman, President, Quebec Camping Association, Inc.," *Canadian Camping* Vol. 19 No. 4, June 1967, p. 125 [src_ia_canadian_camping_1967_06].
