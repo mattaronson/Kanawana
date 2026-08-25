@@ -7,6 +7,32 @@
 
 The Green Triangle was Camp Kanawana's campers' newsletter, published from 1932 to at least 1940 and revived intermittently through 1982. Beyond the publication itself, "Green Triangle" also named a coveted camper achievement award and served more broadly as a symbolic identity marker for the camp, referenced even in the modern-era Kanawana marching cheer. 38 digitized issues spanning 1932–1982, held on Internet Archive, were discovered in 2026-07 research, correcting an earlier assumption that only a single 1938 issue survived online.
 
+## The Full Run, Read (2026-08-25)
+
+All **38 digitized issues** have now been downloaded, verified and read in full — previously six had
+been. The run is dense across **1932–1940** (36 issues) and then stops: the only later issues digitized
+are **September 1976** and **15 November 1982**. The 36-year hole between August 1940 and September
+1976 is real, not an artefact of the search.^7
+
+A verification step is worth recording, because the first attempt at this failed silently. Internet
+Archive stores these under human-readable filenames ("The Green Triangle - 1939-07-22_djvu.txt"), not
+under the item identifier, so a conventional `<identifier>_djvu.txt` fetch returns a styled 404 page —
+and six of those came back **byte-identical at 137,595 bytes**, which is what exposed them. Every file
+in the final corpus was then checked for HTML at the head and for camp vocabulary in the body. A first
+version of that control demanded each issue's own year appear in its text and rejected twelve real
+issues, including 1938-07-29, whose masthead the OCR renders "Saturday, Juiy 83, 195". **The OCR of
+this 1930s mimeograph is heavily degraded, and any search across it should assume so.**
+
+Three results are now corpus-wide nulls rather than search misses, having been run against verified
+full text of all 38 issues:
+
+- **"Chopsy" (or "Cropsy") appears nowhere.** The legend is absent from the camp's own newspaper across
+  its entire 1932–1940 run.
+- **No explanation of the camp's name appears anywhere.**
+- **Neither "Non Nobis Solum" nor "Each for all and all for each" appears anywhere.** The motto is
+  absent from the camp's own paper throughout the 1930s — evidence bearing on when it was adopted, and
+  a stronger negative than this wiki previously had.
+
 ## The Newsletter (1932–1982)
 
 The Green Triangle campers' newsletter ran from 1932 to 1940, with issues held in the Concordia Archives.^1 By 1935 it was in its fourth volume.^2 The 1932–1940 run is held as a single undifferentiated entry in Concordia's sub-sub-series 12B04 finding aid, in Box HA1874 — individual issue dates are not itemized in the public finding aid.^3 The publication was revived under the names "Ka-News" and "Green Triangle" in 1976 and again from 1978 to 1982.^1
@@ -56,3 +82,5 @@ Beyond the publication and the award, "Green Triangle" functioned more broadly a
 ## Research Notes
 
 <!-- RALPH process log (informal, not reader-facing). This article synthesizes already-researched facts (f_0119, f_0142, f_0143, f_0333, f_0374, f_0410, f_0531, f_0550, f_0565, f_0571, f_0821, f_0837, f_1097, f_1098, f_1196, f_1197, f_1429, f_1935, f_1966, f_1967, f_1968), the product of prior RESEARCH passes including Batch 7's direct Internet Archive advanced-search API query that discovered the full 38-issue digitized run (f_1966) and read two additional issues (1933, plus corroborating 1937/1939/1940 fragments). No new web research was conducted specifically for this spawn -- this is a synthesis/WRITE task pulling an already-well-evidenced publication out from being merely a cited source (in 13+ articles) into its own standalone article, per the plan's C3 rationale. While preparing this article, two facts (f_0571, f_1098) were found citing non-existent source_ids ("src_web_readers_digest_buckland", "src_ia_green_triangle_1938") -- typo'd variants of the already-cached, already-verified "src_readers_digest_buckland" and "src_green_triangle_1938" records -- and have been remapped in kb/facts.json. No claim content was altered, only the broken source pointers. -->
+
+7. Internet Archive advancedsearch API enumeration and full-text download of all 38 issues, 2026-08-25 [src_ia_green_triangle_collection]. See [f_2282].

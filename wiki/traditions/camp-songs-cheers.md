@@ -106,6 +106,38 @@ The earliest documented Kanawana cheer predates the Marching Song and comes from
 
 The cheer is entirely nonsensical, concluding only with the camp name. This structure — using pseudo-foreign or deliberately absurd syllables as a rallying cry — was characteristic of early twentieth-century camp yells. The origin and meaning of "Yo Triumphy" have not been identified. The cheer does not appear in any other known camp's repertoire.
 
+### A second attestation, 1938 — and the date it fell out of use
+
+*The Green Triangle* of **9 July 1938** reprints the same cheer, sixteen years after the brochure, with
+a framing that answers a question this article had recorded as a dead end:^20
+
+> "The following is a **former** Kanawana yell, which is very effective when shouted
+> rapidly…—Let's all try to learn it:—
+>
+> Yo triumphy, yo triumphy, *(sung slowly)*
+> Hobben slobben rebeqca le-am,
+> De whoop, de whoop, de shol-de-vere,
+> De boom de rye, de hi-de-pock,
+> Hoonica heenica, whack-de-whack,
+> Hoh dob de bowl de barra,
+> Con slob de hol dobra,
+> KANAWANA…rah!"
+
+Three things follow. First, **by July 1938 the cheer was already "former"** and had to be taught back
+to the camp — so it went out of general use at some point between 1933, when campers were still
+singing it on the drive up, and 1938. That is the closest dating this article has been able to put on
+its disappearance, and it comes from the camp's own paper rather than from inference.
+
+Second, this is an **independent second witness to the text**. The two readings differ throughout —
+"Hoben Sloben Rebecca Leeammour" against "Hobben slobben rebeqca le-am," "de Shalla de Veer" against
+"de shol-de-vere" — which is what one expects of a spoken nonsense cheer written down twice by
+different hands, and confirms that neither version is authoritative. The 1938 text carries OCR damage
+of its own; both are recorded here so either can be checked against the originals.
+
+Third, the 1938 printing adds a **performance instruction absent from the brochure**: the opening line
+is marked *(sung slowly)* while the whole is "very effective when shouted rapidly." The cheer had a
+slow opening and an accelerating body.
+
 ## The 1938 broadcast set list
 
 A CBM radio broadcast of 10 November 1938, "The Voice of Youth," was performed by the boys of Kanawana and its script survives — giving a set list of what the camp actually sang:^19
@@ -217,7 +249,7 @@ The Color War tradition (known at Kanawana as the L&V Games) typically includes 
 3. ~~[Critical] What is the full text of the Kamp Kanawana Marching Song?~~ [Largely resolved] Full 2000s-era text recorded from oral history (f_1196).^14 Remaining: the rediscovered lost verses from Concordia (2006) for comparison against the modern version.
 4. ~~[Important] What are the words of Grace as said at Kanawana?~~ [Partially resolved] Rotating sung graces: Johnny Appleseed and Joy to the World ("Jeremiah was a Bullfrog") identified (f_1195).^14 Remaining: any other graces in the rotation, and when the rotation replaced a single fixed grace.
 5. [Important, re-confirmed dead end 2026-07-09] What songs are in the 1925/1927 song sheets and the 1941-1945 Kanawana song books? Box number now confirmed (HA2315, along with two previously undocumented adjacent items — "KK pageant scripts" 1931-32 and "Fire of Friendship, Kanawana show" 1939 — see [[traditions/traditions-and-culture|Traditions and Culture]]) but the finding aid is folder-level only; no song titles are itemized online.
-6. [Important, re-confirmed dead end 2026-07-09] When was the "Yo Triumphy" cheer replaced by the Marching Song? Did both coexist? A 12+ query sweep across web search, the Spirit of Kanawana blog, and general camp-yell-history sources found no trace of "Yo Triumphy" (under any spelling variant) anywhere outside this wiki's own 1922 brochure citation. Only physical Green Triangle/Ka-News issues (1932-1982, Concordia) can resolve this.
+6. [PARTIALLY ANSWERED 2026-08-25] When was the "Yo Triumphy" cheer replaced by the Marching Song? Did both coexist? **The cheer was already described as a "former Kanawana yell" in *The Green Triangle* of 9 July 1938, and reprinted so campers could learn it again** — so it fell out of general use between 1933 (when campers were still singing it) and 1938, and was the object of a deliberate revival attempt that year. Whether the Marching Song displaced it, and whether the two overlapped, remains open. The earlier note that "only physical Green Triangle/Ka-News issues (1932-1982, Concordia) can resolve this" was correct — this came from the digitized 1938 run. The 1941-1975 issues remain undigitized and would settle the rest.
 7. [Nice-to-have] What songs were commonly sung at campfire sing-songs across different eras?
 8. ~~[Nice-to-have] Did the camp song change over time, or has "On My Way to Kanawana" always been the primary camp song?~~ [Resolved] Yes — "Dear Old Kanawana" (to the Battle Hymn of the Republic) was the camp song during the pre-war and mid-century periods. "On My Way to Kanawana" by Richard Kerr is a later composition (date unknown).^13
 9. [Nice-to-have, re-confirmed dead end 2026-07-09] Who adapted "Alabama Jubilee" into the Kanawana Marching Song, and when? Independently re-searched this session (web, LinkedIn/Facebook, the primary blog source) — only the famous pop songwriter Richard Kerr (co-writer of "Mandy") surfaces, with no documented YMCA/camp connection; the Kanawana alumnus "Richard Itch Kerr" has no trace anywhere online outside the Concordia catalog entry and Pip Award recipient lists. This is now independently confirmed exhausted across two separate sessions.
@@ -261,3 +293,4 @@ The Color War tradition (known at Kanawana as the L&V Games) typically includes 
 
 - **2026-07-09** — Corrected an internal inconsistency: this article previously stated no section cheer had been recorded in any written source. The handwritten "Medley '81" cheer sheet (see Images) in fact records a Voyageurs sound-off chant and a girls'-section cheer verbatim (f_1566) — one section cheer is documented, not zero.
 
+20. *The Green Triangle*, 9 July 1938 [src_ia_green_triangle_collection]. Full-text read of the verified 38-issue corpus, 2026-08-25. See [f_2280].

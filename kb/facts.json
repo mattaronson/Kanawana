@@ -1,8 +1,8 @@
 {
- "version": "5.47",
- "kb_version": "v5.47",
+ "version": "5.48",
+ "kb_version": "v5.48",
  "migrated_from": "3.3",
- "fact_count": 2241,
+ "fact_count": 2245,
  "facts": [
   {
    "fact_id": "f_0001",
@@ -38750,6 +38750,77 @@
    "date_ref": "1967",
    "conflicts_with": [],
    "added_version": "v5.47",
+   "added_by": "ralph_loop"
+  },
+  {
+   "fact_id": "f_2280",
+   "claim": "THE 'YO TRIUMPHY' CHEER WAS ALREADY 'FORMER' BY JULY 1938. The Green Triangle of 9 July 1938 reprints it: \"The following is a FORMER Kanawana yell, which is very effective when shouted rapidly...-Let's all try to learn it:-- / Yo triumphy, yo triumphy, (sung slowly) / Hobben slobben rebeqca le-am, / De whoop, de whoop, de shol-de-vere, / De boom de rye, de hi-de-pock, / Hoonica heenica, whack-de-whack, / Hoh dob de bowl de barra, / Con slob de hol dobra, / KANAWANA...rah!\" This is an independent second witness to a text previously known only from the 1922 brochure, and the readings differ throughout, so neither is authoritative. It also dates the cheer's obsolescence: campers were still singing it in 1933 (f_0xxx, Green Triangle 29 July 1933) and by July 1938 it had to be taught back to them. The 1938 printing adds a performance instruction the brochure lacks -- the opening line is marked '(sung slowly)' while the whole is 'shouted rapidly'.",
+   "sources": [
+    "src_ia_green_triangle_collection"
+   ],
+   "confidence": "stated",
+   "category": "traditions",
+   "entities": [
+    "Kamp Kanawana"
+   ],
+   "date_ref": "1938-07-09",
+   "conflicts_with": [],
+   "added_version": "v5.48",
+   "added_by": "ralph_loop"
+  },
+  {
+   "fact_id": "f_2281",
+   "claim": "TWO CEREMONIES DESCRIBED IN PERFORMANCE, where the Concordia finding aid holds only catalogue titles. (1) Green Triangle, 2 June 1938: \"The Fire of Friendship in the centre of the council ring was kindled by the torches of campers representing the Spirits of Work, Play, Co-operation and the True Spirit of Kanawana in a very impressive ritual. The serious part of the programme was followed by several rollicking songs led by Chief and Norm Wallace. Following the singing of 'Abide With Me' the campers slowly wended their ways through the trail to their respective tents.\" Three of the four torch-bearing Spirits restate the YMCA developmental scheme, with the camp's own spirit added. (2) Green Triangle, 21 July 1940, on the firelighting: \"around the rocks, an Indian brave came into view; he prayed to WAKONDA to light the fire. Suddenly with a bright blue flash and a great hissing sound, the fire flared up.\" The same deity name closes the c.1925-27 Council Ring script, so the invocation persisted at least fifteen years; the blue flash and hissing indicate a chemical accelerant.",
+   "sources": [
+    "src_ia_green_triangle_collection"
+   ],
+   "confidence": "stated",
+   "category": "traditions",
+   "entities": [
+    "Kamp Kanawana",
+    "Council Ring",
+    "Wakonda"
+   ],
+   "date_ref": "1938-1940",
+   "conflicts_with": [],
+   "added_version": "v5.48",
+   "added_by": "ralph_loop"
+  },
+  {
+   "fact_id": "f_2282",
+   "claim": "THREE CORPUS-WIDE NULLS, established against verified full text of all 38 digitized Green Triangle issues (2026-08-25) rather than against a search index: (1) 'Chopsy' and 'Cropsy' appear NOWHERE in the camp's own newspaper across its entire 1932-1940 run; (2) no explanation of the name 'Kanawana' appears anywhere; (3) neither 'Non Nobis Solum' nor 'Each for all and all for each' appears anywhere -- the motto is absent from the camp's own paper throughout the 1930s, which bears on when it was adopted. METHOD NOTE, because the first attempt failed silently: Internet Archive stores these under human-readable filenames ('The Green Triangle - 1939-07-22_djvu.txt'), so a conventional <identifier>_djvu.txt fetch returns a styled 404 -- six of which came back byte-identical at 137,595 bytes, which is what exposed them. A first verification control then demanded each issue's own year appear in its text and falsely rejected twelve real issues, including 1938-07-29, whose masthead OCR reads 'Saturday, Juiy 83, 195'. The OCR of this 1930s mimeograph is heavily degraded and any search across it must assume so.",
+   "sources": [
+    "src_ia_green_triangle_collection"
+   ],
+   "confidence": "stated",
+   "category": "sources",
+   "entities": [
+    "Kamp Kanawana"
+   ],
+   "date_ref": "1932-1940",
+   "conflicts_with": [],
+   "added_version": "v5.48",
+   "added_by": "ralph_loop"
+  },
+  {
+   "fact_id": "f_2283",
+   "claim": "SMALLER FINDS FROM THE FULL GREEN TRIANGLE READ, 2026-08-25. (a) CAMPER SELF-GOVERNMENT: the 9 July 1938 issue reports 'OFFICERS OF CAMP COUNCIL ELECTED. At a meeting of the all camp council, the following were elected to office: President: Norm Wallace. Vice-President: Ken Smith. Secretary: Ian Fraser. Dater: Benny Leslie.' -- an elected all-camp council this wiki does not document. (b) The 23 July 1932 issue is THE FIRST ISSUE, opening with a signed editorial from the 'Chief' on 'Camp Spirit': 'It is the thing that welds us together... It grows around the Camp Fire as we sing our camp songs, as we swing along the roads on our hikes, shoulder to shoulder.' (c) 4 August 1935: 'Last Sunday morning Mr. H. J. Cross, a former Kanawana Chief, addressed the camp assembled in chapel' -- placing Harold Cross as a FORMER Chief by 1935. (d) 6 August 1932 carries a signed piece by 'Graig MacDermaid' (Greig Macdiarmid). (e) 21 July 1940 names 'The Kanawana Pump-House Boys, Bruce Johnson, George Blackburn, Ed Smee, and Fred Weiner' playing mouth-organ, and announces 'the Kanawana Circus'. (f) 13 August 1932 records hikers passing \"D'Arcy McGee Camp\" and giving 'the Kanawana Yell'; 30 July 1932 has Otoreke 'playing baseball against Camp Kinkora'. Neither neighbouring camp is documented in this wiki.",
+   "sources": [
+    "src_ia_green_triangle_collection"
+   ],
+   "confidence": "stated",
+   "category": "history",
+   "entities": [
+    "Kamp Kanawana",
+    "Harold C. Cross",
+    "Greig Macdiarmid",
+    "Edgar Smee",
+    "D'Arcy McGee Camp",
+    "Camp Kinkora"
+   ],
+   "date_ref": "1932-1940",
+   "conflicts_with": [],
+   "added_version": "v5.48",
    "added_by": "ralph_loop"
   }
  ]

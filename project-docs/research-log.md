@@ -4103,3 +4103,58 @@ still the most valuable thing to unblock.
 
 Closed this session: `p_268` (mirror walk) and `p_269` (Lighthall research). Opened: `p_284`
 (verify the Lighthall draft).
+
+---
+
+## 2026-08-25 — p_247: the full Green Triangle run
+
+All **38 digitized issues** downloaded, verified, read in full and cached at
+`sources/cache/green-triangle/`. Six had been read before. The run is dense across **1932–1940** (36
+issues), then stops — the only later digitized issues are September 1976 and 15 November 1982, so the
+**36-year hole is real, not a search artefact.**
+
+**Two tooling failures caught, both of which would have manufactured confident nulls.**
+
+1. Internet Archive stores these under human-readable filenames ("The Green Triangle -
+   1939-07-22_djvu.txt"), not under the item identifier. A conventional `<identifier>_djvu.txt` fetch
+   returns a *styled 404 page*, and six of those came back **byte-identical at 137,595 bytes** — which
+   is the only reason it was caught. Without the size check, thirty-eight error pages would have been
+   "read."
+2. The verification control written to prevent exactly that then **failed in the opposite
+   direction**: it required each issue's own year to appear in its text, and rejected twelve genuine
+   issues — including 1938-07-29, a known-good source with 21 facts already extracted, whose masthead
+   OCR reads *"Saturday, Juiy 83, 195"*. The OCR of this 1930s mimeograph is heavily degraded. The
+   control now tests for the publication, not for well-formed dates.
+
+**Three corpus-wide nulls**, now established against verified full text rather than a search index:
+**"Chopsy"/"Cropsy" appears nowhere**; **no explanation of the camp's name appears anywhere**; and
+**neither "Non Nobis Solum" nor "Each for all and all for each" appears anywhere** — the motto is
+absent from the camp's own paper throughout the 1930s, which is a stronger negative than this wiki
+previously held and bears on when the motto was adopted.
+
+**The best find answers a question marked "re-confirmed dead end."** The issue of **9 July 1938**
+reprints the Yo Triumphy cheer and calls it "a **former** Kanawana yell… Let's all try to learn it."
+So it fell out of use between 1933 — when campers were still singing it on the drive up — and 1938,
+and was the object of a deliberate revival. It is also an independent second witness to a text known
+only from the 1922 brochure; the two readings differ throughout, so neither is authoritative. And the
+1938 printing carries a performance instruction the brochure lacks: the first line *(sung slowly)*,
+the whole "shouted rapidly."
+
+**Two ceremonies now described in performance**, where Concordia holds only catalogue titles. The
+**Fire of Friendship** (2 June 1938) was "kindled by the torches of campers representing the Spirits
+of Work, Play, Co-operation and the True Spirit of Kanawana" — three of the four are the YMCA's
+developmental scheme in ritual form, with the camp's own spirit added as a fourth. And the
+**firelighting** (21 July 1940): "an Indian brave came into view; he prayed to **Wakonda** to light
+the fire. Suddenly with a bright blue flash and a great hissing sound, the fire flared up" — the same
+deity name that closes the c. 1925–27 Council Ring script, fifteen years on, and clear evidence of a
+chemical accelerant.
+
+**Smaller finds** (`f_2283`): an elected **all-camp council** with named officers (1938), which this
+wiki does not document; the **first issue** (23 July 1932) with the Chief's signed editorial on "Camp
+Spirit"; **H. J. Cross described as "a former Kanawana Chief" in August 1935**; a signed 1932 piece by
+"Graig MacDermaid"; Ed Smee in a 1940 mouth-organ quartet; and two undocumented neighbouring camps,
+**D'Arcy McGee Camp** and **Camp Kinkora**.
+
+`p_247` marked partially complete — the digitized run is exhausted; the undigitized 1941–1975 material
+is now part of the `p_282` letter. `p_048` (songs and cheers) is **partially unblocked without oral
+history**: the instrument can now be built to *test* documentary evidence rather than supply it.

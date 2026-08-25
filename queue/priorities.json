@@ -24,8 +24,9 @@
    "blocking": false,
    "assigned_weight": "P0",
    "created_at": "2026-08-14T00:00:00Z",
-   "status": "pending",
-   "tier": "1-YIELD"
+   "status": "partially_complete",
+   "tier": "1-YIELD",
+   "notes": "2026-08-25: all 38 DIGITIZED issues downloaded, verified, read in full and cached at sources/cache/green-triangle/. The 36-year hole is CONFIRMED REAL, not a search artefact: the run is dense 1932-1940 (36 issues), then only 1976-09 and 1982-11-15. What remains is the undigitized 1941-1975 material at Concordia -- which is now part of the p_282 letter rather than a separate web-research task."
   },
   {
    "priority_id": "p_270",
@@ -119,13 +120,13 @@
    "priority_id": "p_048",
    "rank": 10,
    "type": "RESEARCH",
-   "description": "Collect oral history on camp songs and cheers from Matt Aronson — L&V section cheers, dining hall Grace text, campfire song repertoire, Kerr song memories, Marching Song full lyrics",
+   "description": "Collect oral history on camp songs and cheers from Matt Aronson — L&V section cheers, dining hall Grace text, campfire song repertoire, Kerr song memories, Marching Song full lyrics PARTIALLY UNBLOCKED 2026-08-25 WITHOUT ORAL HISTORY: the full Green Triangle read produced a verbatim second attestation of the Yo Triumphy cheer (9 July 1938), dated its obsolescence to between 1933 and 1938, and added a performance instruction absent from the 1922 brochure. Songs and cheers now have documentary support the oral-history instrument can be built to TEST rather than to supply from scratch.",
    "article_id": "camp-songs-cheers",
    "blocking": true,
    "blocking_reason": "Requires oral history input from domain expert (src_oral_aronson). Key songs and cheers exist only in oral tradition and are not documented online.",
    "assigned_weight": "P2",
    "created_at": "2026-02-27T12:00:00Z",
-   "status": "blocked",
+   "status": "pending",
    "tier": "1-YIELD"
   },
   {

@@ -11476,15 +11476,15 @@
    "date_precision": "approximate",
    "origin": "internet_archive",
    "origin_url": "https://archive.org/search?query=%22green+triangle%22+kanawana",
-   "cache_path": null,
+   "cache_path": "sources/cache/green-triangle/",
    "char_count": 0,
    "ingested_at": "2026-07-10T00:00:00Z",
    "extracted": true,
    "extraction_version": "batch7",
    "reliability": "primary",
-   "notes": "CORRECTION: this wiki previously assumed only the single 1938-07-29 issue was digitized. A direct archive.org advancedsearch API query confirms 38 issues spanning 1932-1982 actually exist. Five issues (1933-07-08, 1935-08-17, 1937-03-30, 1939-07-22, 1940-06-27) were read in full for Haunted House ghost-story content; none of the 38 mention 'Chopsy'/'Cropsy' or contain an explicit name-meaning discussion beyond what's already known.",
+   "notes": "CORRECTION: this wiki previously assumed only the single 1938-07-29 issue was digitized. A direct archive.org advancedsearch API query confirms 38 issues spanning 1932-1982 actually exist. Five issues (1933-07-08, 1935-08-17, 1937-03-30, 1939-07-22, 1940-06-27) were read in full for Haunted House ghost-story content; none of the 38 mention 'Chopsy'/'Cropsy' or contain an explicit name-meaning discussion beyond what's already known. | 2026-08-25: ALL 38 ISSUES now downloaded, verified and read in full, and cached in-repo at sources/cache/green-triangle/. Run is dense 1932-1940 (36 issues); the only later digitized issues are 1976-09 and 1982-11-15. NOTE ON FETCHING: files are stored under human-readable names (\"The Green Triangle - 1939-07-22_djvu.txt\"), NOT under the item identifier -- query the metadata API for the DjVuTXT filename. OCR is heavily degraded 1930s mimeograph; do not assume dates or proper nouns survive it.",
    "read_state": "extracted",
-   "read_state_basis": "derived:cited-by-fact"
+   "read_state_basis": "asserted:all-38-issues-downloaded-verified-and-read-in-full"
   },
   {
    "source_id": "src_green_triangle_1933_07_08",
