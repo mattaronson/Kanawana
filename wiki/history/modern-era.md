@@ -43,6 +43,15 @@ The YMCAs of Québec's annual impact and community reports give the camp's moder
 
 The 2022 and 2023 figures are the first hard residential-attendance numbers this wiki has for any year after the 1980s, and they bracket the recovery: two lost summers, then 655, then 780.
 
+**Two staff named in the pandemic coverage.** CBC's 2021 reporting on the closures names
+**Léontyne Haché**, who began attending Kanawana at age eight and became the camp's canoe and kayak
+program specialist in summer 2019, and **Gaëtane Verna**, who attended as camper, counsellor, and
+section leader.^14 Both are instances of the camper-to-staff progression the camp's leadership
+programmes are built to produce, and the 2019 specialist appointment is one of the few staffing
+details on record for the season immediately before the closures. (Whether this Gaëtane Verna is the
+curator of the same name is not established by the source and is not asserted here — see
+[[people/notable-alumni/notable-alumni|Notable Alumni]], Open Question 2.)
+
 ## Open Questions
 
 1. [Important] How exactly did the annual reports' single "Director" listings track the Executive-versus-on-site split in years like 2001–2007, when the record shows apparent inconsistencies (e.g. François Dauphin's 2007 head-office title alongside Sean Day's on-site presence)? See [[people/directors-index|Directors and Staff of Camp Kanawana]]'s Open Questions for the full discussion.
@@ -78,6 +87,7 @@ The 2022 and 2023 figures are the first hard residential-attendance numbers this
 11. Médiaterre, "Le camp Y Kanawana poursuit sa revitalisation et son virage vert," March 3, 2009 [src_mediaterre_kanawana_2009].
 12. TELUS Community Board, 2010: $50,000 toward a three-season educational pavilion [src_telus_kanawana].
 13. YMCAs of Québec annual impact and community reports, 2020, 2021, 2022, 2023, 2024 and 2025 (Concordia-digitized fonds on Internet Archive) [src_ia_ymca_montreal_fonds_collection].
+14. CBC coverage of Camp Kanawana, 2021 [src_cbc_2021_kanawana]. See [f_0924].
 
 ## Research Notes
 

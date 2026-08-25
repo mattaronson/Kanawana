@@ -3679,3 +3679,54 @@ whether *sources* were read, and this source had been read and extracted. The un
 no facts while the KB holds facts on the same subject. Its first implementation scored zero when
 replayed against pre-resolution `c_026` — it would have passed the one case it was written for — and
 was rebuilt with token matching and an empirically-set threshold before being kept.
+
+---
+
+## 2026-08-25 — Coverage sweep: have the new sources actually been mined?
+
+**Question.** Operator: have all newly discovered sources been mined for facts and articles built
+around them?
+
+**Method and its two corrections.** Measured rather than asserted, and the first two measurements
+were both wrong in the alarming direction:
+
+1. *Sources.* 661 unique ids; 2 dormant (`src_gazette_pressreader_2020`,
+   `src_canadian_history_ehx_pageant`). A separate reading — "111 sources have `extracted: false`" —
+   is a stale flag, not a backlog: 109 of the 111 are cited by facts. The flag was never updated
+   when extraction happened.
+2. *Facts.* A first pass counted **727 orphan facts** (no fact-id and not all source-ids present in
+   any article). Spot-checking 10 at random showed all 10 had their substance in the wiki; the metric
+   was measuring citation bookkeeping, not coverage. Re-measured with rare-token matching (tokens
+   appearing in ≤4 of 96 wiki files): **25** candidates.
+3. Hand-checking those 25 killed 15 more — `f_1509` (Bûcherons), `f_0926` (Desjardins $1M),
+   `f_1459` (Pip skip year) and others were already written up; the rare-token heuristic had picked
+   tokens that were not the substance of the claim.
+
+**Genuine result: 10 facts of 2,217 had substance present nowhere in the wiki.** Eight were landed
+this session; two were marked `placement: kb_only` with a written reason rather than left to be
+re-flagged forever.
+
+| Fact | Landed in |
+|---|---|
+| f_2248 — the 1974 Gazette's "invaded four years ago" | `history/coeducation-gender.md`, recorded so it cannot reopen a settled date |
+| f_1463 — thesis supervisor Peter Gossage | `meta/sources-index.md` |
+| f_2249 — FitSpirit weekend, Sept 2011 | `traditions/programs-activities.md`, new "Site as a Venue" section |
+| f_1117 — Familles en nature, spring 2013 | same section |
+| f_0831 — Camp Wabanaki → Waabanaki renaming, 2023 | `site/indigenous-names-and-land.md`, new section |
+| f_2205 — McGill International Review reconciliation article | same section, explicitly as a precedent that mentions Kanawana nowhere |
+| f_0924 — Léontyne Haché, Gaëtane Verna | `history/modern-era.md`; Verna cross-flagged to notable-alumni OQ2 |
+| f_1828 — June 2026 parent guide supersession | `meta/sources-index.md` |
+| f_1453 — Karen Deterding obituary | **not landed** — private individual, privacy rule |
+| f_2068 — 12A vs 12L citation question | **not landed** — `rl-charlton.md` already discloses both readings |
+
+**One article-shaped gap remains: Camp Lighthall** (`f_2234`), a camp in Saint-Sauveur — Kanawana's
+own village — surfaced from a Canadian Camping Association portrait series at Trent and absent from
+this wiki entirely. Under active research.
+
+**New priorities.** `p_272` (identify Gaëtane Verna — one source settles it), `p_273` (extract the
+June 2026 parent guide, cached and unextracted).
+
+**Lesson, consistent with this branch's others.** Every coverage metric here overstated the problem
+until it was checked against the artefact itself. "727 orphans" and "111 unextracted" would both
+have been alarming things to report, and both were artefacts of how the count was taken. The number
+worth reporting was the one that survived hand-checking.

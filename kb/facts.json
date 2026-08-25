@@ -24436,7 +24436,9 @@
    "date_ref": "2014",
    "conflicts_with": [],
    "added_version": "v4.82",
-   "added_by": "ralph_loop"
+   "added_by": "ralph_loop",
+   "placement": "kb_only",
+   "placement_reason": "KB-ONLY BY DECISION (2026-08-25). Karen Deterding was a private individual; the whole of the record is one line in her obituary noting friends from Kamp Kanawana. Placing that in an article would be publishing a private person's death notice for no historical purpose, which the CLAUDE.md Phase 2 privacy rule forbids. Retained in the KB as evidence of the camp's alumni reach, not promoted to the wiki."
   },
   {
    "fact_id": "f_1454",
@@ -35126,7 +35128,9 @@
    "date_ref": null,
    "conflicts_with": [],
    "added_version": "v5.22",
-   "added_by": "manual"
+   "added_by": "manual",
+   "placement": "kb_only",
+   "placement_reason": "KB-ONLY BY DECISION (2026-08-25). This is bookkeeping about an unresolved citation (12A vs 12L for the Dawson/Charlton photographs), and rl-charlton.md already records both readings without asserting either. Landing it in an article would duplicate a disclosure the article already makes."
   },
   {
    "fact_id": "f_2069",

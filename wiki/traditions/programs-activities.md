@@ -83,6 +83,19 @@ Current job postings document a "Companion" staff role providing dedicated one-o
 
 An annual municipal event, "Journée plein air" (Outdoor Day), is hosted at Camp YMCA Kanawana as a partnership between the Ville de Saint-Sauveur and the Club Optimiste de la Vallée de Saint-Sauveur. The 2023 edition (Sunday, August 27, 2023) offered guided hiking, archery, fishing, free canoe/kayak/paddleboard use, rock climbing, and beach access, with a free shuttle from Mont-Habitant. The event historically focused on trout fishing and has expanded in scope since approximately 2022.^jpa
 
+### The Site as a Venue for Outside Programmes
+
+Kanawana is also used by organizations with no institutional tie to the YMCA, a pattern that predates
+the current rentals business and is documented from at least the early 2010s. In September 2011 the
+girls' physical-activity organization FitSpirit (Fillactive) held a weekend at the camp for "une
+cinquantaine d'adolescentes de 13 à 17 ans," divided into four groups rotating through "du yoga, du
+canot, de l'hébertisme et de la randonnée." *La Presse*, reporting on 14 October 2011, noted the
+organizers' governing principle — "aucune activité n'est compétitive" — and that the weekend closed
+with "un énorme gâteau, un feu de camp et un party zumba."^fs In spring 2013 a family outdoor-education
+programme, "Familles en nature: 4 saisons de plaisir," ran an activity at the camp pairing a forest
+hike on spring flora and fauna with canoeing and a campfire dinner.^fn Both fit the camp's
+environmental-education positioning without originating from it.
+
 ## Related Articles
 
 - [[traditions/lv-games|The L&V Games]]
@@ -143,6 +156,8 @@ An annual municipal event, "Journée plein air" (Outdoor Day), is hosted at Camp
 - [oed] "Director, Outdoor Education Centre Kanawana" job listing, Glassdoor [src_glassdoor_outdoor_ed_director].
 - [jpa] "La Ville invite les citoyennes et citoyens à son événement annuel Journée plein air au Camp YMCA Kanawana," Ville de Saint-Sauveur [src_vss_journee_plein_air].
 - [wl] Wikipedia, "Woodcraft League of America" [src_wikipedia_woodcraft_league].
+- [fs] *La Presse*, report on the FitSpirit (Fillactive) weekend at Camp Kanawana, 14 October 2011 [src_lapresse_fitspirit_2011]. See [f_2249].
+- [fn] "Familles en nature: 4 saisons de plaisir," Awesome Foundation project record [src_awesome_foundation_familles]. See [f_1117].
 - [oc] Concordia University Archives, YMCA of Montreal fonds, sub-sub-series 12B01, 12B03, 12B04, 12B07 [src_concordia_p0145_12b01_finding_aid, src_concordia_12B03, src_concordia_atom_12B04, src_concordia_atom_12B07].
 
 ## Research Notes

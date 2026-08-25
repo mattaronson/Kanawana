@@ -39,6 +39,18 @@ Concordia University's Records Management uploaded 25+ digitized items to Intern
 
 ### YMCA Official Documents
 
+**Parent preparation guides — a source that silently supersedes itself.** The camp publishes an
+annual parent preparation guide at ymcaquebec.org, and each year's edition replaces the previous one
+at a *new* URL while the old file stays reachable. Three editions have been cached (2025, January
+2026, and the current "Camp-Kanawana-GUIDE-Parent-EN_2026.pdf" / "-FR_2026.pdf" posted by 16 June
+2026), and the current one follows the same 43-page structure as the 2025 guide, with the canoe-trip
+complement embedded from page 29 rather than issued as a separate document.^pg These guides have
+already supplied staff rosters, the site map legend, and programme detail found nowhere else, so the
+supersession matters: a citation to "the preparation guide" without an edition year is ambiguous, and
+any claim drawn from one should name the year. The June 2026 edition is cached but **not yet fully
+extracted** — it is the most current primary document the project holds and the likeliest place for
+2026-season facts.
+
 | Source | Type | Notes |
 |--------|------|-------|
 | YMCA Kamp Kanawana Facts | Fact sheet | Official YMCA fact sheet. 644 chars. |
@@ -88,7 +100,7 @@ Concordia University's Records Management uploaded 25+ digitized items to Intern
 
 | Source | Date | Type | Notes |
 |--------|------|------|-------|
-| McMorris, Grace. "An Experience That Lasts a Lifetime." MA thesis, Concordia University. | 2023 | Thesis | Central secondary source. Ch1–3 + Conclusion extracted, 78+ facts. |
+| McMorris, Grace. "An Experience That Lasts a Lifetime." MA thesis, Concordia University. | 2023 | Thesis | Central secondary source. Ch1–3 + Conclusion extracted, 78+ facts. Supervised by Peter Gossage, Professor of History, Concordia. Full PDF open-access on Concordia Spectrum (eprint 992763); also indexed on CORE.ac.uk. |
 | Wall, Sharon. *The Nurture of Nature*. UBC Press. | 2009 | Monograph | Principal study of Ontario camping. Won 2010 Clio Prize. |
 | Dean, Misao. "The Centennial Voyageur Canoe Pageant." *JCS* 40:3. | n.d. | Journal article | Nationalist symbolism of 1967 canoe pageant. |
 | Ballantyne. *A Short History of the Canadian YMCA 1851–1944*. | 1944 | History | National YMCA history. 38,063 chars cached. Re-grepped in full 2026-07-10 for "camp," "Laurentian," "Saint-Sauveur," "St. Joseph," "Ball," "Cushing," "Kanawana" — zero Kanawana-specific mentions beyond one already-known national statistic. Confirmed dead end. |
@@ -169,3 +181,7 @@ John Wilson McConnell, Lemuel Cushing Jr., Centennial Voyageur Canoe Pageant, Br
 5. ~~[Nice-to-have] Can the Ballantyne 1944 history yield any Montreal YMCA camping context?~~ [Confirmed dead end 2026-07-10] No — see the Academic Works table above.
 6. [Nice-to-have, advanced 2026-07-10] Does BAnQ hold Quebec-specific camping records (provincial camping association, inspection records)? BAnQ numérique holds a digitized "Rapport annuel... Association des camps du Québec" entry (inaccessible due to the Radware block above). The more productive path turns out to be Concordia, not BAnQ: sub-series 12N holds the actual Quebec Section CCA/QCA correspondence, minutes, and constitutions (1929-1981) — see the fonds table above.
 7. ~~[Nice-to-have] BAnQ Advitam Notice 519920 references YMCA Montreal archives received 1985 — what is the relationship to Concordia fonds?~~ [Clarified] These are two separate archival deposits, not the same holding: the BAnQ Advitam notice (f_0443) documents a distinct 1985 transfer to BAnQ, while Concordia's P145 fonds is the primary Kanawana-relevant collection used throughout this KB. No evidence the BAnQ material duplicates or supersedes the Concordia fonds; it remains a separate, unexplored lead in its own right.
+
+---
+
+[pg] Camp Kanawana parent preparation guides, 2025 and 2026 editions [src_kk_prep_guide_2025, src_kk_prep_guide_2026]. See [f_1828].

@@ -39,6 +39,14 @@ The YMCA Quebec website's official history timeline states "1968" under the head
 
 **[Resolved 2026-08-14 — the date is 1968, and the Facts sheet is simply wrong.]** The camp's own 1988 report states it under Programme Highlights: "**1968 Kamp Kanawana admits female campers for the first time. 66 girls registered.**"^ia The camper-weeks statistics tables in the annual reports corroborate this independently and precisely — girl-camper figures first appear, bracketed, in the **1968** column — and the 1970 season report describes that summer as the camp's "**third year as a coeducational camp**," which counts back to 1968.^ia Three independent traces, one of them a hard enrolment figure.
 
+One further loose date is on the record and does **not** disturb this. *The Gazette*'s summer-camp
+feature of 18 April 1974 wrote that "Kanawana was billed as Quebec's oldest boys' camp until sister
+campers invaded four years ago," which would place coeducation around 1970.^gz A newspaper's casual
+"four years ago" is not weighed against a dated enrolment figure, a run of annual-report statistics
+tables, and the camp's own count of its "third year as a coeducational camp." It is recorded here so
+that a future reader who finds the line does not treat it as a fourth position in a dispute that has
+only ever had one well-evidenced answer.
+
 The undated Facts sheet's "1969" is an error, not a second milestone. The phased reading previously adopted here — 1968 pilot, 1969 formalization — was a reasonable editorial judgment on the evidence then available, and it is now superseded. The 2005 John Island newsletter's "senior boys section" in 1969 is not evidence against 1968: sections remained gender-segregated for years after coeducation began, which is a fact about section structure, not about the admission date.
 
 ### The three-year delay
@@ -117,6 +125,7 @@ The Mountaineer program represents a conceptual shift from the 1968-1969 transit
 - Montreal Families, "Gender-Expansive Options at Summer Camp" (article discussing Kanawana's approach under Kate Taylor).
 - [fb] "Camp YMCA Kanawana Stands with Trans Campers," official Facebook video/post [src_facebook_trans_inclusion].
 - Concordia University Archives, YMCA of Montreal fonds, sub-series 12D (Camp Becsies), 12E (Camp Dorval), 12I (Camp Thunderbird), 12J (Wilderness Survival Camp) [src_concordia_12L].
+- [gz] *The Gazette* (Montreal), summer-camp feature, 18 April 1974 [src_newspapers_gazette_1974]. See [f_2248].
 
 ## Research Notes
 

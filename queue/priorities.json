@@ -3403,6 +3403,30 @@
    "created_at": "2026-08-18T00:00:00Z",
    "status": "pending",
    "notes": "Spawned by the p_263 dormant-source RALPH loop (hypothesize phase)."
+  },
+  {
+   "priority_id": "p_272",
+   "rank": 272,
+   "type": "VERIFY",
+   "description": "IDENTIFY GAETANE VERNA. CBC's 2021 Kanawana coverage names Gaetane Verna as a former camper, counsellor and section leader (f_0924). A curator of that name is internationally prominent. The wiki asserts no identification. ONE confirming or disconfirming source settles whether she belongs in people/notable-alumni/ or nowhere. Try: the CBC piece's own byline/context, curator biographies and interviews for any Montreal-summer-camp mention, YMCA Quebec alumni coverage. Public-figure information only; if the two are different people, record that as the finding and close.",
+   "article_id": "notable-alumni",
+   "blocking": false,
+   "assigned_weight": "P2",
+   "created_at": "2026-08-25T00:00:00Z",
+   "status": "pending",
+   "notes": "Spawned by the orphan-fact coverage sweep. Highest-yield-per-query item on the notable-alumni page."
+  },
+  {
+   "priority_id": "p_273",
+   "rank": 273,
+   "type": "RESEARCH",
+   "description": "EXTRACT the June 2026 parent preparation guide (src_kk_prep_guide_2026). Cached, 43pp, canoe-trip complement embedded from p.29, and NOT yet extracted (f_1828). It is the most current primary document the project holds and the likeliest source of 2026-season staff, programme and site facts.",
+   "article_id": "programs-activities",
+   "blocking": false,
+   "assigned_weight": "P1",
+   "created_at": "2026-08-25T00:00:00Z",
+   "status": "pending",
+   "notes": "Spawned by the orphan-fact coverage sweep."
   }
  ]
 }

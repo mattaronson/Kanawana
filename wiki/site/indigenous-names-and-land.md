@@ -23,6 +23,25 @@ In 1909, Camp Jubilee (the YMCA's original camp at Lake Saint-Joseph) was rename
 
 The name of Camp Oolahwan (the YWCA camp at Lac des Seize Iles) may derive from the Lakota word *olówaŋ* meaning "song" or "to sing," though Lakota is not an indigenous language of the Laurentian region.^6
 
+## The Renaming Question, and What Other Camps Have Done
+
+Kanawana's name has never been reviewed, but the question it raises is live across North American
+camping, and two documented outcomes bracket the range. In early 2023 **YMCA Camp Wabanaki** became
+**YMCA Camp Waabanaki** on the recommendation of a local elder, as part of reconciliation work with
+the local Indigenous community; the corrected spelling means "a new dawn day."^13 At the other end,
+**Camp Kummoniwanna** — whose name is a settler pun rather than an Indigenous word at all — has been
+the subject of renaming pressure of a different kind. Both cases are set out in Frances Parish's "The
+Journey to Reconciliation in North American Summer Camps" (*McGill International Review*, 24 January
+2024).^14
+
+That article is worth flagging precisely for what it does **not** contain. It was read in full and
+mentions neither Kanawana, nor Otoreke, nor the YMCA of Montreal, nor Montreal or Quebec anywhere.^14
+It is a precedent for the question, not a source about this camp. The distinction matters here more
+than usual: the Waabanaki case shows a YMCA camp changing a name that was *already* Indigenous in
+origin, on Indigenous advice — a narrower and better-evidenced action than anything the record
+currently supports for a name whose source language, as the section above records, has never been
+identified in any known source.
+
 ## Indigenous Programming
 
 Under Harold Cross's directorship (c. 1925-1928), the camp expanded what McMorris terms "Indian programming": a totem pole was added to the Council Ring in 1927, and a teepee constructed from old canvas.^7 The "Council of Tribes" ceremony (c. 1925-1927) featured a Big Chief presiding over four Little Chiefs.^7 The "Zuni Council" script (1931) was a multi-part drama featuring settler-Indigenous conflict culminating in a Jesuit priest healing sick braves.^7
@@ -66,6 +85,8 @@ The Kanawana site sits in the municipality of Saint-Sauveur, in the Laurentian h
 10. McMorris thesis: land acquisition history.
 11. KB: Weskarini Algonquin (Petite-Nation) traditional territory; nearby Mohawk communities Kanesatake and Kahnawake.
 12. Phase 2 indigenous/land-history research (recovered June 2026): Weskarini dispersal (1653 Petit Lac Nominingue), Laurentian archaeology since 2015 (Lamothe, Taché, Tremblay), Rivière du Nord course.
+13. YMCA Camp Waabanaki renaming, 2023 [src_waaseyaa_camp_traditions_2023]. See [f_0831].
+14. Parish, Frances. "The Journey to Reconciliation in North American Summer Camps," *McGill International Review*, 24 January 2024 [src_mironline_reconciliation_camps]. Read in full; contains no mention of Kanawana, Otoreke, the YMCA of Montreal, Montreal or Quebec. See [f_2205].
 
 ## Research Notes
 
