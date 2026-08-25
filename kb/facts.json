@@ -1,8 +1,8 @@
 {
- "version": "5.49",
- "kb_version": "v5.49",
+ "version": "5.51",
+ "kb_version": "v5.51",
  "migrated_from": "3.3",
- "fact_count": 2251,
+ "fact_count": 2256,
  "facts": [
   {
    "fact_id": "f_0001",
@@ -38900,7 +38900,7 @@
   },
   {
    "fact_id": "f_2288",
-   "claim": "THREE FURTHER KANAWANA APPEARANCES IN CANADIAN CAMPING. (a) June 1950 carries a first-person wartime memoir: a wounded soldier in a Canadian Army Hospital at Caserta, Italy recognises the writer -- \"John Kidd... Kidd... I know now... Kamp Kanavana... 1934\" -- and the passage lists what the camp meant in memory: \"Cool blue waters, green hills, boats, THE CHUTE, CIRCUS DAY, campfires, the kid looking for a piece of shore-line, THE HIKE OVER TO THE DANCE AT MAROIS, CHEF WATSON grumbling with a twinkle in his eyes.\" The soldier says \"Kanawana helped me to straighten out my thinking about people, about life.\" (John Kidd also appears in the Green Triangle of 17 October 1936.) (b) Summer 1983: \"A special public thanks goes to PETER GODDARD and the staff of Kamp Kanawana in Montreal for accepting the tremendous task of mailing to every camp\" -- 6,500 National Camping Day posters distributed across Canada from Kanawana. (c) Winter 1988: a French-language article on acid rain, \"L'Etranger\", by JAY NETHERWOOD, Camp Kanawana -- a name this wiki does not hold, distinct from Bruce Netherwood, director 1988-1994.",
+   "claim": "THREE FURTHER KANAWANA APPEARANCES IN CANADIAN CAMPING. (a) June 1950 carries a first-person wartime memoir: a wounded soldier in a Canadian Army Hospital at Caserta, Italy recognises the writer -- \"John Kidd... Kidd... I know now... Kamp Kanavana... 1934\" -- and the passage lists what the camp meant in memory: \"Cool blue waters, green hills, boats, THE CHUTE, CIRCUS DAY, campfires, the kid looking for a piece of shore-line, THE HIKE OVER TO THE DANCE AT MAROIS, CHEF WATSON grumbling with a twinkle in his eyes.\" The soldier says \"Kanawana helped me to straighten out my thinking about people, about life.\" (John Kidd also appears in the Green Triangle of 17 October 1936.) (b) Summer 1983: \"A special public thanks goes to PETER GODDARD and the staff of Kamp Kanawana in Montreal for accepting the tremendous task of mailing to every camp\" -- 6,500 National Camping Day posters distributed across Canada from Kanawana. (c) Winter 1988: a French-language article on acid rain, \"L'Etranger\", by JAY NETHERWOOD, Camp Kanawana. CORRECTION 2026-08-25: an earlier version of this fact called Jay Netherwood 'a name this wiki does not hold'. That was wrong -- he is documented as Director 1986-1989 in the Montreal YMCA Metropolitan Staff rosters, authored the Kamp Kanawana Director's Report 1987, and continued as 'Supervisor, Kamp Kanawana' in 1990. The error came from a grep for 'Netherwood' that stopped at Bruce. What the 1988 article adds is not his existence but his authorship: a signed French-language piece on acid rain, published nationally while he was director -- the only known writing by him outside internal YMCA reports, and evidence for the camp's environmental turn a generation before the 2006 'green shift'.",
    "sources": [
     "src_ia_canadian_camping_1950_06",
     "src_ia_canadian_camping_1983_summer",
@@ -38918,7 +38918,8 @@
    "date_ref": "1934-1988",
    "conflicts_with": [],
    "added_version": "v5.49",
-   "added_by": "ralph_loop"
+   "added_by": "ralph_loop",
+   "correction": "Corrected 2026-08-25 on operator notice: Jay Netherwood was already documented (director 1986-1989)."
   },
   {
    "fact_id": "f_2289",
@@ -38936,6 +38937,92 @@
    "date_ref": "1949",
    "conflicts_with": [],
    "added_version": "v5.49",
+   "added_by": "ralph_loop"
+  },
+  {
+   "fact_id": "f_2290",
+   "claim": "ORAL HISTORY (M. Aronson, 2026-08-25): Jay Netherwood was Kanawana's director in 1985 AND 1986. This does not conflict with the documented record, it fills a hole in it. The Metropolitan Staff rosters document Netherwood as Director from FY1986 onward, and document Peter Goddard at both ends of his tenure (signing a newsletter as Director on 15 November 1982, and named Director in the FY1986 roster) -- but directors-index.md states plainly that '1983-1985 is bracketed between those two points, not stated'. The operator's 1985 therefore lands in a span NO DOCUMENT COVERS. Under the standing directive of 2026-07-07, oral history yields to documented sources only where the two directly conflict; an undocumented span is not resolved by that rule and remains open. Recorded as an unconfirmed oral-history datapoint narrowing the Goddard-to-Netherwood handover, NOT as a correction to Goddard's bracketed 1982-1986.",
+   "sources": [
+    "src_oral_aronson"
+   ],
+   "confidence": "user_knowledge",
+   "category": "directors",
+   "entities": [
+    "Jay Netherwood",
+    "Peter Goddard"
+   ],
+   "date_ref": "1985-1986",
+   "conflicts_with": [],
+   "added_version": "v5.50",
+   "added_by": "manual"
+  },
+  {
+   "fact_id": "f_2291",
+   "claim": "THE FIRST MONTREAL BOYS' CAMP, 1891, AND ITS IMMEDIATE END. From the August 1919 'Brief Autobiographical Sketch of Association Career' (author unidentified, p_236), a first-hand account: \"During the vacation period of 1891 I returned to Montreal and took out to JONES' ISLAND, about 40 miles north-west of Montreal in the Ottawa River, THE FIRST MONTREAL BOYS' CAMP. A very unfortunate circumstance occurred THE FIRST DAY we were under canvas. A lad named DAVID LOUDEN while out swimming got beyond his depth and was drowned. Louden came from one of the finest homes in Montreal. On the arrival of help the next day THE CAMP WAS BROKEN UP AND THE SITE WAS NEVER AGAIN USED FOR THIS PURPOSE.\" This is three years before Camp Jubilee and at a site this wiki does not otherwise document. It also reframes the 1892 planning committee (Ross, Cushing, Wilson, Patton, Ball) as a SECOND attempt: the memoirist moves straight from Louden's death to forming the syndicate that chose Lac la Croix and then Lac St-Joseph. NOTE ON PROVENANCE: this passage sits one paragraph ABOVE the Lac la Croix passage already quoted in founding-1894.md, in a document this project had already read and extracted from -- an overlooked passage in a known source, not a new source.",
+   "sources": [
+    "src_ia_1919_autobiographical_sketch"
+   ],
+   "confidence": "stated",
+   "category": "founding",
+   "entities": [
+    "Jones' Island",
+    "David Louden",
+    "W. H. Ball",
+    "YMCA of Montreal"
+   ],
+   "date_ref": "1891",
+   "conflicts_with": [],
+   "added_version": "v5.51",
+   "added_by": "ralph_loop"
+  },
+  {
+   "fact_id": "f_2292",
+   "claim": "BILL BOURNE, KANAWANA LEADER, DROWNED 30 JUNE 1933. The Green Triangle of 8 July 1933, in the Chief's own season-opening column: \"It was with great sadness that we learned this week of Bill Bourne's drowning in Brome Lake, on Friday June 30th while attempting to save the life of his friend. As a camp we cannot but feel sensitive of the loss of perhaps THE FINEST LEADER WE HAVE EVER KNOWN. Those boys who were fortunate enough to be in his tent last year and all others who came into contact with Bill will never forget his example.\" He died away from camp, at Brome Lake in the Eastern Townships, days before the 1933 season opened, and in a rescue attempt. Not previously documented in this wiki.",
+   "sources": [
+    "src_ia_green_triangle_collection"
+   ],
+   "confidence": "stated",
+   "category": "people",
+   "entities": [
+    "Bill Bourne",
+    "Kamp Kanawana"
+   ],
+   "date_ref": "1933-06-30",
+   "conflicts_with": [],
+   "added_version": "v5.51",
+   "added_by": "ralph_loop"
+  },
+  {
+   "fact_id": "f_2293",
+   "claim": "p_245 RESULT -- GENUINE NULL. Only ONE issue of 'The Lookout', the Kamp Kanawana Alumni Committee's newsletter, is digitized on Internet Archive: Vol. 1 No. 3 (1993), identifier the-lookout-vol-1-no-3, uploaded by archives@concordia.ca into the ymca-montreal-fonds collection under subject 'The Lookout'. Three independent queries (identifier wildcard, subject facet, and free text) all return exactly one item. Issues 1 and 2 and any 1994 centennial issue are NOT online and must be requested from Concordia. SEPARATELY, the enumeration established the shape of the parent collection: ymca-montreal-fonds holds 1,037 items, of which this project holds 634. The 403 not held are NOT unread documents -- a 12-item random sample returned mediatype 'image' with JPEG and no text layer in every case. They are digitized PHOTOGRAPHS. Only THREE mention Kanawana, all titled 'Team Building - Kamp Kanawana 1/2 - 2001': P0145-02-3264, P0145-02-3294 and P0145-02-3335. The remaining camp-tagged images are day-camp and generic-camp subjects from the 1980s and 2001.",
+   "sources": [
+    "src_ia_ymca_montreal_fonds_collection"
+   ],
+   "confidence": "stated",
+   "category": "sources",
+   "entities": [
+    "The Lookout",
+    "Kamp Kanawana"
+   ],
+   "date_ref": "2026-08-25",
+   "conflicts_with": [],
+   "added_version": "v5.51",
+   "added_by": "ralph_loop"
+  },
+  {
+   "fact_id": "f_2294",
+   "claim": "p_248 RESULT -- NOT ESTABLISHED, and the search is recorded rather than the answer. The 1969 camper drowning is attested ONLY by the Kamp Kanawana annual report 1969, under HEALTH AND SAFETY: \"The tragic drowing of one of our campers this Summer has forced us to look at our standards in the whole area of camping. We are convinced that, especially in terms of aquatics, hiking and tripping, both our training and standards are of the highest possible quality.\" No name, no date, no location within the season. A full-text search of all 634 documents in this project's YMCA of Montreal corpus for 'drow*' returns every other drowning in the association's records -- David Louden 1891, Bill Bourne 1933, the 1893-94 and 1905 member obituary lists, the 1938 waterfront note -- but NOTHING further on 1969. Open-web search returns nothing. The remaining routes are the Montreal Gazette and Montreal Star for summer 1969, Quebec coroner records, and Concordia's physical holdings. HANDLE WITH CARE: a child's death, with family very possibly living. Establish the facts before deciding anything about publication, and decide that with the operator.",
+   "sources": [
+    "src_ia_kanawana_report_1969"
+   ],
+   "confidence": "stated",
+   "category": "history",
+   "entities": [
+    "Kamp Kanawana"
+   ],
+   "date_ref": "1969",
+   "conflicts_with": [],
+   "added_version": "v5.51",
    "added_by": "ralph_loop"
   }
  ]

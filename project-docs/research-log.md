@@ -4212,3 +4212,70 @@ had a **mysterious birth** about this time." That is a neighbouring camp directo
 not a Montreal YMCA record, and it disagrees with the documented sequence. It is filed as evidence of
 what the movement *believed* in 1949 — including that Kanawana's origins were already thought obscure —
 and explicitly **does not reopen the founding date**.
+
+---
+
+## 2026-08-25 — p_245 and p_248; and a correction on Jay Netherwood
+
+**Correction first.** `f_2288` described Jay Netherwood as "a name this wiki does not hold." That was
+wrong — he is documented as Director **1986–1989** in the Montreal YMCA Metropolitan Staff rosters,
+authored the *Kamp Kanawana Director's Report 1987*, and stayed on as "Supervisor" in 1990. The error
+came from a grep for "Netherwood" that stopped at Bruce. Corrected in place. What the 1988 *Canadian
+Camping* article actually adds is his **authorship** — a signed French-language piece on acid rain,
+published nationally while he was director, and the only known writing by him outside internal YMCA
+reports.
+
+The operator also places him as director **in 1985** as well as 1986. That does not conflict with
+anything: the rosters begin naming him in FY1986, and Goddard's 1983–1985 is explicitly *bracketed
+rather than stated*, so 1985 sits in a span no document covers. Recorded as unconfirmed oral history
+(`f_2290`), per the standing rule that oral history yields to documents only where the two actually
+conflict.
+
+### p_245 — The Lookout: a genuine null, and a corrected picture of the collection
+
+**Only Vol. 1 No. 3 is digitized.** Three independent query forms — identifier wildcard, subject
+facet, and free text — all return exactly one item. Issues 1 and 2 and any centennial issue must come
+from Concordia; added to the `p_282` letter.
+
+The enumeration produced a byproduct worth stating carefully. The parent collection
+`ymca-montreal-fonds` holds **1,037 items**; this project holds **634**. That looks like a 403-item
+backlog and **is not one**: a twelve-item random sample came back `mediatype: image`, JPEG, with no
+text layer in every case. The 403 are **digitized photographs**, and the local corpus legitimately
+holds the text items. Only **three** mention Kanawana — P0145-02-3264, -3294 and -3335, all "Team
+Building — Kamp Kanawana 1/2 — 2001." Reporting "403 unread documents" would have been alarming and
+false, which is the third time this week a coverage gap has dissolved on inspection.
+
+### p_248 — the 1969 drowning: not established, and the search recorded instead
+
+The annual report line remains the only attestation: *"The tragic drowing of one of our campers this
+Summer has forced us to look at our standards in the whole area of camping."* No name, no date, no
+location within the season.
+
+A full-text sweep of all 634 corpus documents for `drow*` found **every other drowning in the
+association's record** — and nothing further on 1969. Open-web search returns nothing. Remaining
+routes: the *Gazette* and *Star* for summer 1969, Quebec coroner records, Concordia's physical
+holdings. Given this is a child's death with family very possibly living, **the operator should decide
+whether to pursue a named identification at all before more effort goes into it.**
+
+### What the sweep found instead — two deaths that reshape other articles
+
+**Jones' Island, 1891.** The same 1919 memoir this wiki already quotes for the Lac la Croix decision
+describes, *one paragraph earlier*, a Montreal YMCA boys' camp three years before Camp Jubilee and its
+immediate end: "the first Montreal Boys' Camp… A very unfortunate circumstance occurred **the first
+day we were under canvas**. A lad named **David Louden** while out swimming got beyond his depth and
+was drowned… the camp was broken up and the site was never again used for this purpose."
+
+This changes the founding narrative. The 1892 committee — Ross, Cushing, Wilson, Patton, Ball — was a
+**second attempt**, not a first: the memoirist moves straight from Louden's death to forming the
+syndicate that chose Lac la Croix and then Lac St-Joseph. It also gives the camp's long preoccupation
+with waterfront safety a starting point. Written into `founding-1894.md`.
+
+Note the provenance: **an overlooked passage in a source already read and extracted from** — the same
+failure mode this branch has now hit repeatedly, and the reason `p_236` (identifying that memoir's
+author) matters more than its priority weight suggests.
+
+**Bill Bourne, 30 June 1933.** The Chief's season-opening column: "It was with great sadness that we
+learned this week of Bill Bourne's drowning in Brome Lake, on Friday June 30th **while attempting to
+save the life of his friend**. As a camp we cannot but feel sensitive of the loss of perhaps the
+finest leader we have ever known." He died away from camp, days before the season opened, in a rescue
+attempt. Not previously documented here.

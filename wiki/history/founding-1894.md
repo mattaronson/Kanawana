@@ -27,6 +27,43 @@ The same report's statistical summary confirms it — "Attendance at Summer Camp
 
 That the association's first boys' camp opened in the YMCA's own Jubilee Year is a real and probably meaningful coincidence, and the name may well be authentic to camp usage. But **this wiki uses "Camp Jubilee" throughout as though it were the institution's own term, and the institution's own records do not use it.** Whichever source supplies the name — QAHN, the 1951 in-house history, oral tradition — should be the one it is attributed to. This is flagged rather than fixed here, because renaming a term used across a dozen articles is an editorial decision, not a research finding.
 
+## Before Everything: Jones' Island, 1891
+
+The founding sequence has an earlier chapter than this article has carried, and it is a grim one. The
+same 1919 memoir this article quotes below for the Lac la Croix decision describes, a paragraph
+earlier, **a Montreal YMCA boys' camp three years before Camp Jubilee — and its immediate end**:^m19
+
+> "During the vacation period of **1891** I returned to Montreal and took out to **Jones' Island,
+> about 40 miles north-west of Montreal in the Ottawa River, the first Montreal Boys' Camp**. A very
+> unfortunate circumstance occurred **the first day we were under canvas**. A lad named **David
+> Louden** while out swimming got beyond his depth and was drowned. Louden came from one of the finest
+> homes in Montreal. On the arrival of help the next day **the camp was broken up and the site was
+> never again used for this purpose**."
+
+Three things follow, and the first two change the shape of the story this article tells.
+
+**The 1892 committee was a second attempt, not a first.** The memoirist moves directly from Louden's
+death to the next paragraph — his 1892 graduation, the Dominion Square post, and the syndicate of
+"W. H. Ball, John W. Ross, Will Wilson, myself and others" formed "to investigate the possibilities of
+securing an opening for a young men's camp." The men who planned Camp Jubilee were not starting fresh.
+They had run a boys' camp the previous summer and buried a camper on its first day.
+
+**It explains an emphasis that otherwise looks like boilerplate.** Waterfront safety, life-saving
+instruction and swimming tests run through this camp's records from the earliest years — the 1938
+annual report notes with evident relief that it was "the first summer in many years" without "at least
+two or three drownings" across the association's waterfronts. That preoccupation has a starting point.
+
+**And the site is identifiable.** Jones' Island in the Ottawa River, roughly 40 miles north-west of
+Montreal, was used once, for one day, in 1891, and abandoned. It is not Lake Saint-Joseph and not
+Saint-Sauveur; it belongs to no site this wiki currently documents.
+
+*Note on the source: the memoir is an August 1919 "Brief Autobiographical Sketch of Association
+Career" whose author is unnamed in the surviving OCR — the signature is illegible. Identifying him is
+tracked as `p_236`. He was an Assistant Secretary in Montreal from September 1888, a Springfield
+student who played on Stagg's 1891 football team and captained one side of the first basketball game
+under James Naismith, and he graduated in 1892. He is therefore a first-hand witness, writing
+twenty-eight years later.*
+
 ## Precursors: Cushing and the Lake St. Joseph Trips (1892-1893)
 
 According to the Quebec Anglophone Heritage Network (QAHN), Lemuel Cushing brought a group of boys to Lake Saint-Joseph in Saint-Adolphe-d'Howard in 1892. The Concordia archives (fonds P145, sub-series 12L) contain camper lists, financial records, and fishing rights documentation dating to 1893, confirming organized activity at the site a full year before the conventional 1894 founding. Separately, sub-series 12A holds a "Report — trip to St. Agathe" dated 1893/1895, described as the "Journal of the first Montreal YMCA venture to explore the country round about St. Agathe with the view of securing a lake on which to establish a Summer Camp." This document confirms the YMCA was actively scouting the Laurentian territory for a permanent camp site as early as 1893. Whether 1893 represents a continuation of Cushing's initiative or a separate test run by Ball is not established. What *is* now established is the planning body behind it: the 1951 "Kamp Kanawana History" records that in the fall of 1892 "a Committee of Messrs. J. W. Ross, W. E. Cushing, W. W. Wilson, T. Duncan Patton and W. H. Ball, was appointed," and that the origin lay in a fishing trip General Secretary D. A. Budge made to Lac Des Isles that summer with a Director of the Association — the train then running only as far as Ste-Jérôme, the rest by horse and cart.^h51
