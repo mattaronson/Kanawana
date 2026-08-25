@@ -59,8 +59,24 @@ record as though it were a finding.
      sentence that dissolved it sat in the same paragraph, and the conflict
      stood for a day because nobody re-read around the quote. A passage that is
      no longer than its own claim is not a passage.
+  M. CONFLICTS THE KB ALREADY ANSWERS. [THRESHOLD: >=2 shared subject terms. Set
+     by replaying c_026, not guessed -- >=1 returned 177 facts (unreadable), >=2
+     returned 37 including f_2127 (the fact that dissolved it), >=3 returned 8
+     and lost f_2127, i.e. would have failed the case the check exists for.] A conflict record whose positions cite no
+     facts at all, while the KB holds facts on the same subject, was probably
+     raised without checking what was already known. c_026 is the case that
+     forced this check: it was filed on 2026-08-18 as a bare 1974-vs-2017
+     disagreement about acreage, with empty facts[] on both positions -- and
+     f_2127, added eight versions earlier, already recorded the whole acreage
+     series, the intervening 1964 purchase, and the report line ("no record
+     found that showed the Kanawana site has ever been surveyed") that explains
+     why the figures never agreed. Nothing in H-L could see this: those checks
+     ask whether SOURCES were read, and here the source had been read and
+     extracted. The unread thing was the KB itself. M is a weak signal by
+     construction -- empty facts[] is a proxy, and a genuinely novel conflict
+     can legitimately have one -- so it prints candidates, not defects.
 
-These three are deliberately NON-BLOCKING and print as a separate section. They
+These are deliberately NON-BLOCKING and print as a separate section. They
 measure the project's reading discipline, not any article's correctness.
 """
 import json, os, re
@@ -360,3 +376,92 @@ else:
     print('     id is ambiguous: it resolves to whichever record a reader happens to hit.')
     for k in dup_ids:
         print('     %-44s x%d' % (k, id_counts[k]))
+
+
+# --- M: conflicts the KB may already answer ---------------------------------
+# Proxy, not proof: a conflict whose positions cite NO facts, while facts on the
+# same entity exist in the KB. See the module docstring for why this check is
+# separate from H-L -- the unread thing here is kb/facts.json, not a source.
+facts_doc = json.load(open(os.path.join(ROOT, 'kb/facts.json')))['facts']
+conf_doc = json.load(open(os.path.join(ROOT, 'kb/conflicts.json')))
+conflicts = conf_doc if isinstance(conf_doc, list) else conf_doc['conflicts']
+
+def _cited_facts(c):
+    out = []
+    for pos in c.get('positions', []) or []:
+        out += pos.get('facts', []) or []
+    out += c.get('fact_ids', []) or []
+    return [f for f in out if f]
+
+# Matching had to be rebuilt after a self-test. The first version required the
+# entity string and an attribute word to appear VERBATIM in the fact, and scored
+# 0 hits when replayed against pre-resolution c_026 -- entity "Camp Kanawana
+# site" against a fact whose entity is "Kamp Kanawana", attribute "acreage"
+# against a fact that says "land area" and "acres". It would have passed the one
+# conflict it was written for. So: normalise Kamp/Camp, match entity by token,
+# and draw the subject vocabulary from the POSITION CLAIMS as well as the
+# attribute field -- the claims are where the shared word ("acres") actually is.
+_STOP = set('''about above across after against along among around because been
+before being below between both camp during each从 from have into more most only
+other over same since some such than that their them then there these they this
+those through under until were what when where which while with would'''.split())
+
+def _norm(t):
+    return re.sub(r'\bkamp\b', 'camp', (t or '').lower())
+
+def _subject_terms(c):
+    text = ' '.join([c.get('attribute') or ''] +
+                    [(p.get('claim') or '') for p in (c.get('positions') or [])])
+    toks = set()
+    for w in re.findall(r'[a-z]{5,}', _norm(text)):
+        if w not in _STOP:
+            toks.add(w[:4])          # crude stem: acreage/acres -> "acre"
+    return toks
+
+# Check J learned the hard way that a checker which only understands the schema
+# in front of it will silently pass everything written in the other one. M is
+# subject to the same trap: it keys on 'entity', which the c_001-c_022 shape does
+# not have. Those are reported as un-inspected rather than skipped in silence.
+candidates = []
+m_unreadable = []
+for c in conflicts:
+    if c.get('status') != 'unresolved':
+        continue
+    if _cited_facts(c):
+        continue
+    ent = (c.get('entity') or '').strip()
+    attr = (c.get('attribute') or '').strip()
+    if not ent:
+        m_unreadable.append((c.get('conflict_id', '?'), sorted(c.keys())))
+        continue
+    ent_toks = set(w for w in re.findall(r'[a-z]{4,}', _norm(ent)) if w not in _STOP)
+    terms = _subject_terms(c)
+    if not ent_toks or not terms:
+        m_unreadable.append((c.get('conflict_id', '?'), sorted(c.keys())))
+        continue
+    hits = []
+    for f in facts_doc:
+        blob = _norm(f['claim'] + ' ' + ' '.join(f.get('entities', []) or []))
+        if not any(re.search(r'\b' + re.escape(t), blob) for t in ent_toks):
+            continue
+        n = sum(1 for t in terms if re.search(r'\b' + re.escape(t), blob))
+        if n >= 2:                    # see THRESHOLD note in the module docstring
+            hits.append((n, f['fact_id']))
+    if hits:
+        hits.sort(reverse=True)
+        candidates.append((c['conflict_id'], ent, attr, hits))
+
+print('\nM. CONFLICTS THE KB MAY ALREADY ANSWER -- %d unresolved conflict(s) cite no' % len(candidates))
+print('     facts while the KB holds facts on the same subject. Read these before')
+print('     treating the conflict as open; empty facts[] is a proxy, not a defect:')
+if not candidates:
+    print('     none')
+for cid, ent, attr, hits in candidates:
+    print('     %-8s %s -- %s' % (cid, ent, attr))
+    print('        %d KB fact(s) share >=2 subject terms; strongest first:' % len(hits))
+    for n, fid in hits[:8]:
+        print('          %s  (%d terms)' % (fid, n))
+if m_unreadable:
+    print('     NO entity FIELD -- not inspected, do not read as passing (%d):' % len(m_unreadable))
+    for cid, keys in m_unreadable:
+        print('       %-8s keys=%s' % (cid, keys))

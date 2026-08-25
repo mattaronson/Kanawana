@@ -3636,3 +3636,46 @@ Read in full and empty: the September 1932 SGW *College Bulletin* (the word "cam
 2. **Several hosts refuse the standard fetch tool but serve fully to a browser User-Agent.** Four sources in one batch would have been logged as nulls on first response — and the NFB serves a *complete page body alongside an HTTP 410*.
 
 Both are exactly the failure this branch has been correcting all week: a negative result from a tool is a fact about the tool, not about the world.
+
+---
+
+## 2026-08-25 — c_026: the 1,200-acre figure
+
+**Trigger.** Operator challenge: *"I have no idea how you could get to 1200 unless you counted in
+Taramcouta to the south of Kanawana, which would be incorrect unless a general description of the
+undeveloped acreage in the whole area."*
+
+**Surfaces searched.** Local corpus only. No web search was needed — every document that settled
+this was already cached and, in one case, already extracted.
+
+**Queries.** `grep` over `scratchpad/ymcatext/*.txt` for `120 acres`, `455`, `537`, `Lac Rond`,
+`surveyed`, `1,000 acres`, `1,500 acres`, `new site`, `Purpose:`; then `grep` over `kb/facts.json`
+for `Tamaracouta`, `Royal.LePage`, `455 acres`, `Task Force`.
+
+**Findings.**
+1. `1988-kanawana-a-place-to-grow-report.txt:317` — the 1964 purchase of 120 acres south of Lac
+   Wilson "which connects Kamp Kanawana to Camp Tamaracouta," part resold to the Boy Scouts. The
+   operator's hypothesis, documented. → `f_2252`
+2. `:409-417` — the only itemised property breakdown in the record (455 + 60 + 17 + 5 = 537),
+   attributed to a 1989 Royal LePage report, alongside "There was no record found that showed the
+   Kanawana site has ever been surveyed." → `f_2253`
+3. `:1554` — "Between 1,000- 1,500 acres" is a **specification for a hypothetical replacement
+   site** under the Task Force's recommendation that the Board consider selling Kanawana, not a
+   description of Kanawana. Recorded explicitly as a trap. → `f_2254`
+4. Six statements across five cached documents, 1964–1970, give ~1,000 acres. The 1974 Gazette's
+   1,200 is the tail of that period, not an outlier. → `f_2255`
+
+**Outcome.** `c_026` resolved. Wikimapia's 455 acres is explained as the land-only line of the
+1989 breakdown, closing a discrepancy that had stood in `the-kanawana-site.md` since 2026-07-09.
+
+**Null results.** None — no search returned empty, which is itself the finding below.
+
+**Process failure recorded.** `f_2127`, added at v5.27, already held the acreage series, the 1964
+purchase, and the "never been surveyed" line. `c_026` was nonetheless raised on 2026-08-18 as a
+bare two-way disagreement with `facts: []` on both positions, because the KB was not searched for
+existing coverage before the conflict record was written. Checks H–L could not see this: they audit
+whether *sources* were read, and this source had been read and extracted. The unread thing was
+`kb/facts.json`. **Check M** was added to `verify_harness.py` to flag unresolved conflicts that cite
+no facts while the KB holds facts on the same subject. Its first implementation scored zero when
+replayed against pre-resolution `c_026` — it would have passed the one case it was written for — and
+was rebuilt with token matching and an empirically-set threshold before being kept.

@@ -514,21 +514,38 @@
     {
      "claim": "The camp comprises 1,200 acres of private land and lakes.",
      "source": "The Gazette (Montreal), 18 April 1974, summer-camp feature",
-     "facts": [],
+     "facts": [
+      "f_2255",
+      "f_2127"
+     ],
      "passage": "RESIDENTIAL CAMPS - CO-ED. CAMP KANAWANA: Run by the YMCA, Kanawana was billed as Quebec's oldest boys' camp until sister campers invaded four years ago. This summer, 90 boys and 90 girls will share the 1,200 acres of private land and lakes, the canoes, sailboats, handicraft shop and other basic camp facilities just outside St. Sauveur."
     },
     {
      "claim": "The camp comprises 550 acres.",
      "source": "YMCA Quebec, February 2017, and the wiki's site article",
-     "facts": [],
+     "facts": [
+      "f_2253"
+     ],
      "passage": "Founded over 120 years ago on 550 acres of wilderness north of Montreal, Camp YMCA Kanawana is Quebec's oldest summer camp. It's a microcosm of Canada, where English, French, rich, poor, recent immigrants and locals sing together around the camp fire."
+    },
+    {
+     "claim": "Both figures are correct reports of what was said at the time; neither was ever surveyed. The camp's own literature claimed ~1,000 acres from 1964 to at least 1970, and the 1974 newspaper figure sits at the tail of that period. The first figure derived from a property report -- 537 acres total, 455 of it land -- appears only in 1989.",
+     "source": "Kanawana... A Place to Grow, YMCA of Montreal / Kanawana Camping Task Force, 1988",
+     "facts": [
+      "f_2252",
+      "f_2253",
+      "f_2254",
+      "f_2255",
+      "f_2127"
+     ],
+     "passage": "Size: This information was taken from a report submitted to the Y from Royal/Lepage in 1989. There was no record found that showed the Kanawana site has ever been surveyed. / Land 455 acres / Lac Kanawana 60 acres / Lac Wilson 17 acres / Lac Rond 5 acres / TOTAL 537 acres"
     }
    ],
-   "status": "unresolved",
+   "status": "resolved",
    "raised_at": "2026-08-18T00:00:00Z",
-   "resolved_at": null,
-   "resolution": null,
-   "notes": "Raised by the p_263 dormant-source RALPH loop. Two documented sources, 43 years apart, differ by a factor of more than two on the size of the property, so this is a human decision point rather than an auto-resolvable case. THREE READINGS ARE OPEN and none is yet supported: (a) the camp genuinely sold or transferred land between 1974 and 2017 -- the Concordia finding aid records a 1977 'Proposed two-site operation-Kanawana and Weredale' and a 1980 working document profiling three camps together, so the period was one of active property review; (b) the 1974 newspaper figure is journalistic error or includes leased/adjacent Crown land and lakes rather than owned acreage -- note its wording is '1,200 acres of private land AND LAKES'; (c) the modern 550-acre figure is marketing copy that undercounts. RESOLUTION ROUTE: the camp's own property records, or the 1980 'Camping and The Montreal YMCA' working document at Concordia, which profiles Kanawana's situation directly."
+   "resolved_at": "2026-08-25T00:00:00Z",
+   "resolution": "Resolved on the operator's reading (2026-08-25), which the documents support. The 1974 Gazette's 1,200 acres is not a lone outlier and not a resolvable discrepancy about ownership: it is the tail of a period in which Kanawana's OWN literature claimed roughly 1,000 acres, stated in at least six separate documents between 1964 and 1970 (f_2255). The series begins in the same year the Y bought \"120 acres of land south of Lac Wilson which connects Kamp Kanawana to Camp Tamaracouta\" and sold a portion of it to the Boy Scouts of Canada (f_2252) -- i.e. exactly the southward, Tamaracouta-adjacent direction the operator identified, and exactly the moment the property stopped having a clear southern edge. The 1988 Task Force report then supplies the reason no reconciliation is possible from documents alone: \"There was no record found that showed the Kanawana site has ever been surveyed.\" The first figure traceable to a property report is Royal LePage's 1989 breakdown of 537 acres total / 455 land (f_2253), which corroborates the modern 550-acre figure closely and is the only figure in the whole series with a stated basis. READING (a) IS WITHDRAWN: no land sale between 1974 and 2017 is needed to explain the gap, and none is documented. READING (b) IS ADOPTED in the operator's form -- the pre-1989 figures describe undeveloped area in the vicinity rather than surveyed owned acreage, which is also why the 1974 wording is \"1,200 acres of private land AND LAKES\". READING (c) IS WITHDRAWN: 550 is close to the one surveyed-adjacent figure on record, not an undercount. A TRAP IS RECORDED SEPARATELY AT f_2254: the same 1988 report contains the line \"Between 1,000-1,500 acres\", which reads as corroboration of the 1,200 figure and is not -- it is the Task Force's specification for a hypothetical REPLACEMENT site under its recommendation that the Board consider selling Kanawana. That sale never happened. Anyone re-opening this conflict from a keyword search will hit that line first.",
+   "notes": "Raised by the p_263 dormant-source RALPH loop. Two documented sources, 43 years apart, differ by a factor of more than two on the size of the property, so this is a human decision point rather than an auto-resolvable case. THREE READINGS ARE OPEN and none is yet supported: (a) the camp genuinely sold or transferred land between 1974 and 2017 -- the Concordia finding aid records a 1977 'Proposed two-site operation-Kanawana and Weredale' and a 1980 working document profiling three camps together, so the period was one of active property review; (b) the 1974 newspaper figure is journalistic error or includes leased/adjacent Crown land and lakes rather than owned acreage -- note its wording is '1,200 acres of private land AND LAKES'; (c) the modern 550-acre figure is marketing copy that undercounts. RESOLUTION ROUTE: the camp's own property records, or the 1980 'Camping and The Montreal YMCA' working document at Concordia, which profiles Kanawana's situation directly.\n\nPOST-RESOLUTION NOTE ON HOW THIS CONFLICT WAS RAISED. c_026 should not have been raised in this form. Fact f_2127 -- added at v5.27, well before c_026 was raised on 2026-08-18 -- already recorded the full acreage series including the \"approximately 1,000 acres\" figures of 1964-1970 and the \"never been surveyed\" line. The conflict was framed as a bare two-way 1974-vs-2017 disagreement because the KB was not checked for existing coverage of the same entity+attribute before the record was written. The provenance pass in verify_harness.py could not catch this: checks H through L measure whether sources were read, not whether a new conflict duplicates knowledge the KB already holds. Check M was added to close that gap."
   }
  ]
 }

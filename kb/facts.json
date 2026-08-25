@@ -1,8 +1,8 @@
 {
- "version": "5.34",
- "kb_version": "v5.33",
+ "version": "5.41",
+ "kb_version": "v5.41",
  "migrated_from": "3.3",
- "fact_count": 2130,
+ "fact_count": 2217,
  "facts": [
   {
    "fact_id": "f_0001",
@@ -38246,6 +38246,82 @@
    "date_ref": "1935-1976",
    "conflicts_with": [],
    "added_version": "v5.40",
+   "added_by": "ralph_loop"
+  },
+  {
+   "fact_id": "f_2252",
+   "claim": "The 1988 Kanawana Camping Task Force chronology records, for 1964: \"The Y purchases 120 acres of land south of Lac Wilson which connects Kamp Kanawana to Camp Tamaracouta. A portion of this is sold to the Boy Scouts of Canada.\" The same chronology records a second 1964 purchase: \"The Y purchases the Page's property. This land is the entrance to Kanawana and contains the Farm house and the Block house.\" This is the first documented statement that Kanawana's property was made physically contiguous with Camp Tamaracouta, and that part of the acquired land passed to the Boy Scouts rather than remaining with the Y.",
+   "sources": [
+    "src_ia_kanawana_place_to_grow_1988"
+   ],
+   "confidence": "stated",
+   "category": "site",
+   "entities": [
+    "Kamp Kanawana",
+    "Camp Tamaracouta",
+    "Boy Scouts of Canada",
+    "Lac Wilson",
+    "Page's property"
+   ],
+   "date_ref": "1964",
+   "conflicts_with": [],
+   "added_version": "v5.41",
+   "added_by": "ralph_loop"
+  },
+  {
+   "fact_id": "f_2253",
+   "claim": "The 1988 Task Force report gives the only itemised property breakdown in the record, attributed to \"a report submitted to the Y from Royal/Lepage in 1989\": Land 455 acres; Lac Kanawana 60 acres; Lac Wilson 17 acres; Lac Rond 5 acres; TOTAL 537 acres. The report states in the same paragraph: \"There was no record found that showed the Kanawana site has ever been surveyed.\" The report adds that the property \"completely encompasses three lakes: Kanawana, Wilson, and Rond, and touches the tip of Lac Spring,\" and that the 455 acres are \"mostly hilly, rolling terrain\" with facilities on \"a thin strip of land north of Lac Kanawana.\"",
+   "sources": [
+    "src_ia_kanawana_place_to_grow_1988"
+   ],
+   "confidence": "stated",
+   "category": "site",
+   "entities": [
+    "Kamp Kanawana",
+    "Royal LePage",
+    "Lac Kanawana",
+    "Lac Wilson",
+    "Lac Rond",
+    "Lac Spring"
+   ],
+   "date_ref": "1988-1989",
+   "conflicts_with": [],
+   "added_version": "v5.41",
+   "added_by": "ralph_loop"
+  },
+  {
+   "fact_id": "f_2254",
+   "claim": "The figure \"Between 1,000-1,500 acres\" in the 1988 Task Force report is NOT a statement of Kanawana's size. It appears under a \"SITE / Size:\" heading in a specification for a hypothetical REPLACEMENT property, written in support of the Task Force's recommendations that the Board consider \"A) The sale of the Kanawana site; B) The purchase of a new site.\" The adjacent criteria are prospective, not descriptive -- \"Undeveloped, wooded area that contains 2-3 lakes\"; \"Adjacent to a national or provincial park\"; \"Preferably near downhill ski area\"; \"Facilities be developed on northern shore\" -- and the report's costing section budgets \"Land Cost 1,000 acres @ $1,000\" for the purchase. Neither the sale nor the new site took place. This passage is a documented trap: read out of context it would appear to corroborate the 1974 Gazette's 1,200-acre figure, and it does not.",
+   "sources": [
+    "src_ia_kanawana_place_to_grow_1988"
+   ],
+   "confidence": "stated",
+   "category": "site",
+   "entities": [
+    "Kamp Kanawana",
+    "Kanawana Camping Task Force"
+   ],
+   "date_ref": "1988",
+   "conflicts_with": [],
+   "added_version": "v5.41",
+   "added_by": "ralph_loop"
+  },
+  {
+   "fact_id": "f_2255",
+   "claim": "Six independently cached documents spanning 1964-1970 state Kanawana's size as roughly 1,000 acres, establishing that the large figure was the camp's own settled self-description for at least that period rather than a one-off error: the 1964 Kamp Kanawana annual report (\"over approximately 1,000 acres\"); the SGW YMCA annual report 1964 (\"1,000 acres\"); a YMCA news release of 13 May 1969 (\"it covers more than 1,000 acres\"); the 1969 Kamp Kanawana annual report (\"We occupy 1000 acres of valuable land\"); and the 1970 Kamp Kanawana annual report (\"a small area of our 1,000 acres\"). The series begins in the same year as the 120-acre purchase that connected the property to Camp Tamaracouta.",
+   "sources": [
+    "src_ia_kanawana_report_1964",
+    "src_ia_kanawana_report_1970",
+    "src_ia_kanawana_place_to_grow_1988"
+   ],
+   "confidence": "stated",
+   "category": "site",
+   "entities": [
+    "Kamp Kanawana"
+   ],
+   "date_ref": "1964-1970",
+   "conflicts_with": [],
+   "added_version": "v5.41",
    "added_by": "ralph_loop"
   }
  ]

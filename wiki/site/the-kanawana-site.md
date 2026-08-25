@@ -1,11 +1,11 @@
 # The Kanawana Site
 
-*Status: E1-reviewed | Sources: 34*
-*Last Updated: 2026-07-10*
+*Status: E1-reviewed | Sources: 40*
+*Last Updated: 2026-08-25*
 
 ## Overview
 
-Camp Kanawana occupies a 550-acre site in Saint-Sauveur, in the Laurentian Mountains approximately 90 km north of Montreal.^1 (Wikimapia's entry for the camp independently states 455 acres in near-identical promotional phrasing — an unresolved discrepancy that could reflect a stale scraped description rather than an independent figure; see Open Questions.)^30 The Laurentians lie within the traditional territory of the Anishinaabe (Algonquin) peoples; unlike much of Ontario and the Prairies, Algonquin territory in this region has never been covered by a land-sharing treaty.^25 The camp has three private lakes — Lake Kanawana, Lake Wilson, and Round Lake — connected by a dam between Lake Kanawana and Lake Wilson that is ceremonially opened at the end of each season.^2 Lac Kanawana is located at coordinates 45°51'6.01"N, 74°11'40.99"W, at an elevation of 319 metres above sea level.^3 The YMCA purchased the current site near Saint-Sauveur in 1910,^1 acquiring it from the Page family after Camp Jubilee had operated at Lake Saint-Joseph since 1894.
+Camp Kanawana occupies a 550-acre site in Saint-Sauveur, in the Laurentian Mountains approximately 90 km north of Montreal.^1 Figures given for the property have ranged from 150 to 1,200 acres over the past century; the reason is that, as the camp's own 1988 planning report put it, "[t]here was no record found that showed the Kanawana site has ever been surveyed."^35 ([[#how-big-is-the-site|See below]].) The Laurentians lie within the traditional territory of the Anishinaabe (Algonquin) peoples; unlike much of Ontario and the Prairies, Algonquin territory in this region has never been covered by a land-sharing treaty.^25 The camp has three private lakes — Lake Kanawana, Lake Wilson, and Round Lake — connected by a dam between Lake Kanawana and Lake Wilson that is ceremonially opened at the end of each season.^2 Lac Kanawana is located at coordinates 45°51'6.01"N, 74°11'40.99"W, at an elevation of 319 metres above sea level.^3 The YMCA purchased the current site near Saint-Sauveur in 1910,^1 acquiring it from the Page family after Camp Jubilee had operated at Lake Saint-Joseph since 1894.
 
 ## Location and Access
 
@@ -25,6 +25,51 @@ Described as "one of the most beautiful parts of the site," noted for its views,
 
 ### Round Lake
 The camp's third private lake. Limited documentation of its use beyond the geographic fact of its presence within the property.
+
+## How Big Is the Site?
+
+Kanawana's stated size varies by a factor of eight across the record, and the variation is
+documented rather than mysterious: the camp appears never to have been surveyed. The 1988
+planning report *Kanawana… A Place to Grow*, prepared by the Kanawana Camping Task Force,
+introduces its own figures with the flat admission that "[t]here was no record found that showed
+the Kanawana site has ever been surveyed."^35
+
+| Stated size | Source and date |
+|---|---|
+| 150 acres | CFCF radio broadcast, 1936^36 |
+| 600 acres | YMCA annual reports, 1949–1959^36 |
+| "a sixty acre site" | 1957 annual report — almost certainly a typo for 600^36 |
+| ~1,000 acres | Kamp Kanawana annual report 1964; SGW YMCA annual report 1964; YMCA news release 13 May 1969; Kamp Kanawana annual reports 1969 and 1970^37 |
+| 1,200 acres "of private land and lakes" | *The Gazette*, 18 April 1974^38 |
+| 455 acres land / 537 acres total | Royal LePage report to the YMCA, 1989, quoted in the 1988 Task Force report^35 |
+| 550 acres | YMCA Quebec, current^1 |
+
+The large mid-century figures begin in a specific year. The Task Force chronology records that in
+1964 "[t]he Y purchases 120 acres of land south of Lac Wilson which connects Kamp Kanawana to Camp
+Tamaracouta. A portion of this is sold to the Boy Scouts of Canada."^39 From that year onward the
+camp's own literature settles on roughly 1,000 acres and stays there for at least seven years, so
+*The Gazette*'s 1,200 acres in 1974 is not a journalistic outlier — it is the tail of a period in
+which Kanawana described itself that way. What the 1964 purchase also did was remove the property's
+clear southern edge, making it contiguous with Tamaracouta and with land that had passed to the
+Scouts. The most economical reading of the 1,000–1,200 figures is that they describe undeveloped
+land in the vicinity rather than surveyed holdings, which is also why the 1974 wording is "1,200
+acres of private land **and lakes**."
+
+Only one figure in the series has a stated basis. The 1989 Royal LePage report breaks the property
+down as Land 455 acres, Lac Kanawana 60, Lac Wilson 17, Lac Rond 5 — total 537.^35 This resolves
+the long-standing 455-vs-550 puzzle: Wikimapia's 455 acres^30 is not a competing measurement but the
+*land-only* line of that same breakdown, circulating without its three lake rows. 537 and the
+YMCA's present 550 are close enough to be the same property described a generation apart.
+
+One passage in the record actively misleads. The same 1988 report contains the line "Between
+1,000–1,500 acres," which reads as corroboration of the larger figures and is nothing of the kind:
+it sits under a "Size:" heading in a specification for a *hypothetical replacement property*,
+written to support the Task Force's recommendation that the Board consider "A) The sale of the
+Kanawana site; B) The purchase of a new site."^40 The neighbouring criteria are plainly prospective
+— "Undeveloped, wooded area that contains 2-3 lakes," "Preferably near downhill ski area,"
+"Facilities be developed on northern shore" — and the report's costing pages budget "Land Cost
+1,000 acres." Neither the sale nor the new site happened. ([[#proposed-two-site-operation|See
+below]] for the related two-site proposal of 1977.)
 
 ## Camp Layout
 
@@ -139,7 +184,7 @@ From 1977 to 1980, plans existed for a proposed two-site operation using Kanawan
 
 1. ~~[Important] The YMCA Kanawana Facts sheet dates the site purchase to 1910. Was the first season at Saint-Sauveur in 1910 or 1911?~~ [Resolved] McMorris confirms 1910 as the first season at the Saint-Sauveur site. The 1935 History's reference to the camp's "twenty-sixth year of existence" counts from 1910.^12
 2. ~~[Critical] Who was the Page family who sold/donated the land?~~ [Substantially resolved] The Pagé family were pioneer settlers of Saint-Sauveur: Magloire Pagé (1826–1901) owned lot 43, côte Saint-Elmire. His son Magloire fils married Olivine Desjardins (1875). Grandson Édouard became the village baker. See [[people/page-family|The Pagé Family]]. Remaining: which specific parcel(s) went to the YMCA and under what terms.
-3. [Important, re-confirmed dead end 2026-07-09] Has the camp acreage changed over time? A direct full-text read of the McMorris thesis confirms it contains exactly two acreage figures, neither for the Saint-Sauveur site itself (33 acres for the original Camp Jubilee/Lake St-Joseph property, 1898; a 25-acre lease at Lac Landron, 1950s) — the thesis's own passages on the 1928-1962 property growth give no acreage figure for either the Lake Becsies or Pagé-farm expansions. This is now confirmed as a genuine absence in the primary academic source, not an extraction gap. Separately, Wikimapia states 455 acres vs. the YMCA's own 550 — unresolved discrepancy, unconfirmed whether stale copy or genuine change.
+3. [ANSWERED 2026-08-25] Has the camp acreage changed over time? Largely no — the *reporting* changed, not the property. The 1988 Task Force report states that no record was ever found showing the site had been surveyed, which accounts for a range of 150 to 1,200 acres across the record; the only figure with a stated basis is the 1989 Royal LePage breakdown of 537 acres total / 455 land, and Wikimapia's 455 is that report's land-only line rather than an independent measurement. One documented acquisition does move the number: 120 acres south of Lac Wilson bought in 1964, part of it resold to the Boy Scouts. See "How Big Is the Site?" above. STILL OPEN, and now the only open part: whether a survey has been done since 1989, and what the YMCA's current 550-acre figure is actually derived from.
 4. [Important, re-confirmed dead end 2026-07-09] What was the specific reason the Kanawana–Weredale two-site plan was abandoned? Batshaw Centres' own Weredale/Youth Horizons institutional history pages (fetched directly) make zero mention of the YMCA or Kanawana at all — ruling out that source. Concordia's AtoM system is now bot-walled and blocks all automated access; only the item titles ("Proposed two-site operation," 1977; "Plans–Kanawana and Weredale," 1980) are known, with no scope/content notes. Resolvable only via physical archive access.
 5. [Nice-to-have] Are the 1928 and 1962 maps accessible in the Concordia Archives?
 6. [Nice-to-have, advanced 2026-07-09] Is there any ecological or conservation designation on the property? No formal registry designation confirmed, but two new leads found: the city's 2024 draft Plan d'urbanisme explicitly names Kanawana's environmental value (without conferring a designation), and Concordia's 12B01 finding aid references an unexamined "Proposed wildlife sanctuary, bird and game sanctuary" file (1847, 1954-1960) of undetermined relevance to the camp property.
@@ -193,6 +238,12 @@ From 1977 to 1980, plans existed for a proposed two-site operation using Kanawan
 32. Batshaw Centres History, Camp Weredale / Youth Horizons institutional history pages [src_batshaw_camp_weredale]. Direct fetch 2026-07-09.
 33. Concordia University Archives, finding aid for sub-sub-series 12B01 (Kamp Kanawana General Administration) [src_concordia_atom_12B01].
 34. Concordia University Archives, static finding-aid page for sub-series 12F (Camp Weredale) [src_concordia_atom_12F]. Direct fetch 2026-07-10: 1979 lease agreement, 1980-82 joint files.
+35. *Kanawana… A Place to Grow: A Proposal for the Future of Kanawana*, Kanawana Camping Task Force, YMCA of Montreal, 1988 [src_ia_kanawana_place_to_grow_1988], site-description section. The Royal LePage figures are the report's own attribution: "This information was taken from a report submitted to the Y from Royal/Lepage in 1989."
+36. Acreage series assembled at [f_2127] from the 1936 CFCF broadcast and the 1949–1959 annual reports.
+37. 1964 Kamp Kanawana annual report [src_ia_kanawana_report_1964] ("over approximately 1,000 acres"); SGW YMCA annual report 1964; YMCA news release, 13 May 1969 ("it covers more than 1,000 acres"); 1969 Kamp Kanawana annual report ("We occupy 1000 acres of valuable land"); 1970 Kamp Kanawana annual report [src_ia_kanawana_report_1970] ("a small area of our 1,000 acres"). Five documents, six statements — see [f_2255].
+38. *The Gazette* (Montreal), 18 April 1974, summer-camp feature. Full passage recorded at conflict [c_026].
+39. 1988 Task Force report, chronology entry for 1964 [f_2252].
+40. 1988 Task Force report, "SITE" specification and "RECOMMENDATIONS" sections [f_2254]. Recorded here specifically because the line reads as corroboration of the 1,200-acre figure and is not.
 
 ## Research Notes
 
