@@ -1,8 +1,8 @@
 {
- "version": "5.42",
- "kb_version": "v5.42",
+ "version": "5.43",
+ "kb_version": "v5.43",
  "migrated_from": "3.3",
- "fact_count": 2219,
+ "fact_count": 2226,
  "facts": [
   {
    "fact_id": "f_0001",
@@ -38361,6 +38361,134 @@
    "date_ref": "2021",
    "conflicts_with": [],
    "added_version": "v5.42",
+   "added_by": "ralph_loop"
+  },
+  {
+   "fact_id": "f_2258",
+   "claim": "Concordia's finding aid for P145/12C01 (Camp Otoreke general administration) lists a file titled \"Evaluation, recommendations re Camp Otoreke as a mixed [gender] camp. - 1936.\" The YMCA of Montreal was therefore formally evaluating mixed-gender camping at one of its own camps in 1936 -- twenty-nine years before the 1965 Kanawana director's report that recommended coeducation and was declined, and thirty-two years before Kanawana admitted girls in 1968. The file's CONTENTS are not established by the finding aid; what is established is that the evaluation existed and is dated 1936.",
+   "sources": [
+    "src_concordia_mirror_12c01"
+   ],
+   "confidence": "stated",
+   "category": "history",
+   "entities": [
+    "Camp Otoreke",
+    "YMCA of Montreal"
+   ],
+   "date_ref": "1936",
+   "conflicts_with": [],
+   "added_version": "v5.43",
+   "added_by": "ralph_loop"
+  },
+  {
+   "fact_id": "f_2259",
+   "claim": "P145/12H is a whole sub-series titled \"Ski lodge\" documenting YMCA of Montreal winter operations at the Otoreke site, 1929-1959: \"Ski lodge-H. C. Cross' file. - 1929-1946\"; \"Memorandum proposing ski club. - 1941\"; \"Correspondence, memoranda, reports on ski facilities. - 1946-1950\"; \"Purchase by YMCA of Christieville property. - 1948-1951\"; \"What the Otoreke Ski Lodge Committee wants in facilities at the Mainland Inn. - [195-]\"; \"Otoreke ski lodge-1954-1955 report\"; \"Ski lodge 1955-1956\"; \"Christieville ski lodge correspondence. - 1959\"; plus ski lodge photographs. This is documentary evidence for a sustained winter programme -- the 'Winter Programming (if evidence found)' article CLAUDE.md Phase 2 section 8 lists as conditional. It also gives Harold C. Cross a named archival file spanning 1929-1946.",
+   "sources": [
+    "src_concordia_mirror_12h"
+   ],
+   "confidence": "stated",
+   "category": "programs",
+   "entities": [
+    "Camp Otoreke",
+    "Harold C. Cross",
+    "Christieville",
+    "YMCA of Montreal"
+   ],
+   "date_ref": "1929-1959",
+   "conflicts_with": [],
+   "added_version": "v5.43",
+   "added_by": "ralph_loop"
+  },
+  {
+   "fact_id": "f_2260",
+   "claim": "P145/12B07 (Kamp Kanawana - Program) lists the camp's own culture files, several earlier than anything this wiki currently cites: \"Place mat or paper napkin with artwork and menu. Kanawana campers reunion. - 1913\" -- material culture from the camp's fourth year at Saint-Sauveur; \"Badges. 9 award ribbons glued on poster-size paper for display. - [192-] or [193-]\"; \"Song sheets, skits. - 1925, 1927\"; \"KK pageant scripts. - 1931-1932\"; \"Water safety training; drills; pageants. - 1931\"; \"Canoe care, water safety. - 1933\"; and \"Firelighting ceremony. - 1936\" -- a dated document for the Council Ring tradition.",
+   "sources": [
+    "src_concordia_mirror_12b07"
+   ],
+   "confidence": "stated",
+   "category": "traditions",
+   "entities": [
+    "Kamp Kanawana"
+   ],
+   "date_ref": "1913-1937",
+   "conflicts_with": [],
+   "added_version": "v5.43",
+   "added_by": "ralph_loop"
+  },
+  {
+   "fact_id": "f_2261",
+   "claim": "P145/13B (Anniversaries) holds a file group headed \"World Y 50th Jubilee, Montreal Y 50th\" containing \"Jubilees. - 1893, 1894, 1901\", alongside \"42nd anniversary-order of service. - 1894\" and \"Observance of 50th anniversary-YMCA of Montreal. - 1901\". This is the documentary context for the name Camp Jubilee: the camp was founded in 1894, in the same years the world YMCA movement and the Montreal association were marking jubilees. The finding aid does not connect the files to the camp, and no such connection is asserted here -- but this is the archival series in which a connection, if documented anywhere, would sit.",
+   "sources": [
+    "src_concordia_mirror_13b"
+   ],
+   "confidence": "stated",
+   "category": "history",
+   "entities": [
+    "Camp Jubilee",
+    "YMCA of Montreal"
+   ],
+   "date_ref": "1893-1901",
+   "conflicts_with": [],
+   "added_version": "v5.43",
+   "added_by": "ralph_loop"
+  },
+  {
+   "fact_id": "f_2262",
+   "claim": "P145/12N04 is a sub-sub-series for the Quebec Camping Association / Association des camps du Quebec, holding \"Constitution et reglements-Association des Camps du Quebec. - 1979\", \"Annuaire 1979, liste des membres. - 1979\", a \"Special general meeting. - October 25, 1979\", and 1978-1980 publications. This is the resolution route for the unverified claim at f_2215 that Kanawana was 'a founding member of the ACQ': a 1979 constitution and a 1979 membership list, held in the YMCA of Montreal's own fonds, would show whether the association dates from that year and whether the YMCA was in at the start. Sibling sub-sub-series cover the American Camping Association (12N01, records 1937-1959) and the Canadian Camping Association (12N02, records 1936-1951, including \"Meetings-notices, agendas, minutes, correspondence. - 1936-1939\" from the CCA's founding period).",
+   "sources": [
+    "src_concordia_mirror_12n04",
+    "src_concordia_mirror_12n01",
+    "src_concordia_mirror_12n02"
+   ],
+   "confidence": "stated",
+   "category": "connections",
+   "entities": [
+    "Association des camps du Quebec",
+    "Canadian Camping Association",
+    "American Camping Association"
+   ],
+   "date_ref": "1936-1980",
+   "conflicts_with": [],
+   "added_version": "v5.43",
+   "added_by": "ralph_loop"
+  },
+  {
+   "fact_id": "f_2263",
+   "claim": "MIRROR INVENTORY (p_268, 2026-08-25). Concordia's static-HTML finding-aid mirror at www.concordia.ca/offices/archives/ carries exactly 95 YMCA of Montreal fonds pages: 46 sub-series (ymca-fonds-sub-series-*.html) and 49 sub-sub-series. The set was established by exhaustive HEAD enumeration of series 1-16 x letters A-Z, then expansion of every stem that answered, with all gaps re-probed individually and confirmed as genuine 404s -- the pages are NOT crawlable, because the archives' own fonds index renders its links in JavaScript. Before this walk the project held 12 of the 95. The camping series 12 is the densest: sub-series 12A, 12D, 12E, 12F, 12H, 12I, 12J, 12K, 12L, 12M plus sub-sub-series under 12B (Kanawana), 12C (Otoreke) and 12N (camping associations).",
+   "sources": [
+    "src_concordia_mirror_12c01"
+   ],
+   "confidence": "stated",
+   "category": "sources",
+   "entities": [
+    "Concordia University Archives"
+   ],
+   "date_ref": "2026-08-25",
+   "conflicts_with": [],
+   "added_version": "v5.43",
+   "added_by": "ralph_loop"
+  },
+  {
+   "fact_id": "f_2264",
+   "claim": "Four more YMCA of Montreal camps get their own finding-aid sub-series, none previously fetched: P145/12D Camp Becsies (\"Lac Becsies-development of camping site. - 1929\"; \"Campers from Montreal Protestant Orphans' Home. - 1934, 1936\"; family camping brochure [1962?]; family camp administration 1960-1971); P145/12E Camp Dorval (director's report 1926; report on the 1928 season); P145/12I Camp Thunderbird (\"brochure, correspondence, reports, publicity. - 1942-1943\" -- a two-year wartime camp); and P145/12J Wilderness Survival Camp (director's report 1973; programme brochures 1973-1974; \"Program planning 1974-75. - Survival camp\"; 1975). P145/12M covers the Y's day camps, 1953-1987.",
+   "sources": [
+    "src_concordia_mirror_12d",
+    "src_concordia_mirror_12e",
+    "src_concordia_mirror_12i",
+    "src_concordia_mirror_12j",
+    "src_concordia_mirror_12m"
+   ],
+   "confidence": "stated",
+   "category": "inter-camp",
+   "entities": [
+    "Camp Becsies",
+    "Camp Dorval",
+    "Camp Thunderbird",
+    "Wilderness Survival Camp"
+   ],
+   "date_ref": "1926-1987",
+   "conflicts_with": [],
+   "added_version": "v5.43",
    "added_by": "ralph_loop"
   }
  ]

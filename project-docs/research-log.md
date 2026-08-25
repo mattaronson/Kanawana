@@ -3781,3 +3781,57 @@ operator-side fetch of the Toronto Life page, reading for the date and the ages.
 
 **Verna is not listed in Notable Alumni.** She is recorded in `modern-era.md` as what the source
 establishes — a former counsellor and section leader, and a camp parent.
+
+---
+
+## 2026-08-25 — p_268: walking Concordia's static finding-aid mirror
+
+**Question.** Operator: are the newly discovered Concordia static sources fully read and digested?
+
+**Answer: the ones we held were; but we held 12 of 95.**
+
+**Establishing the address space.** The mirror is not crawlable — the archives' own
+`fonds-collections.html` renders its links in JavaScript, and a known-good sub-series page carries no
+sibling links. So the set was enumerated: HEAD requests across series 1–16 × letters A–Z for
+`ymca-fonds-sub-series-*`, then the same grid for `sub-sub-series-*01` to find stems, then each stem
+expanded 01–20. **95 pages exist** — 46 sub-series, 49 sub-sub-series.
+
+A methodological trap was caught mid-sweep: the probe echoed a filename only on HTTP 200, which would
+have turned any timeout into a silent "page does not exist." Every gap in the result (12B02, 12B05,
+12B06, 12C06, 14D01, 14D02, 14D11, and the sub-series stems 12B, 12C, 12G, 12N, 14D, 3A) was
+re-probed individually with explicit status codes and confirmed as a genuine 404. Note also that this
+host serves **404s with a 107 KB styled body** — size is not a signal here, only the status code is.
+
+**Fetched and extracted this session: 20 pages**, all of the missing series 12 and 13. Each page is
+~105 KB of site chrome around ~1 KB of finding aid, so the extractor differences the boilerplate
+across pages and keeps only lines unique to each. Cached under `sources/cache/concordia-mirror/`.
+
+**Findings, in order of consequence.**
+
+1. **P145/12C01 holds a file titled "Evaluation, recommendations re Camp Otoreke as a mixed [gender]
+   camp. - 1936."** The Montreal Y was formally evaluating mixed-gender camping at one of its own
+   sites 29 years before the 1965 Kanawana recommendation it declined, and 32 years before girls were
+   admitted here. Written into `coeducation-gender.md` with the limit stated plainly: the finding aid
+   establishes that the evaluation existed and is dated, not what it concluded.
+2. **P145/12H is an entire sub-series on the Otoreke ski lodge, 1929–1959** — a standing Ski Lodge
+   Committee, annual reports, a 1941 ski-club proposal, and the YMCA's 1948–51 purchase of the
+   Christieville property. This satisfies the evidence condition CLAUDE.md Phase 2 §8 attaches to a
+   Winter Programming article. It also gives Harold C. Cross a named file spanning **1929–1946**, the
+   longest documented span for him anywhere.
+3. **P145/12B07** lists Kanawana's own culture files, several earlier than anything cited here: a
+   **1913 campers'-reunion place mat**, song sheets from 1925 and 1927, KK pageant scripts 1931–32,
+   and a **"Firelighting ceremony. - 1936"** — a dated document for the Council Ring.
+4. **P145/13B** holds "World Y 50th Jubilee, Montreal Y 50th / Jubilees. - 1893, 1894, 1901" — the
+   archival series in which the Camp Jubilee naming would sit, if it is documented anywhere.
+5. **P145/12N04** holds the ACQ's 1979 constitution and 1979 membership list — the resolution route
+   for `f_2215`, the self-asserted and uncorroborated "founding member of the ACQ" claim.
+6. **12D, 12E, 12I, 12J, 12M** date and describe four more Y camps plus the day camps, answering part
+   of a standing "purposes unknown" line in `coeducation-gender.md`.
+
+**Discipline held throughout:** these are finding aids. Every fact records that a file with a given
+title and date exists. Not one records what is inside it, and each source record carries that caveat.
+
+**Inventory** at `project-docs/concordia-mirror-inventory.md`, naming all 63 pages still unfetched.
+**New priorities:** `p_274` (fetch the remaining 63), `p_275` (read the 1936 evaluation — now the
+highest-value unread document known to the project), `p_276` (ACQ via 12N04), `p_277` (spawn Winter
+Programming).

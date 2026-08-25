@@ -3365,8 +3365,8 @@
    "blocking": false,
    "assigned_weight": "P0",
    "created_at": "2026-08-18T00:00:00Z",
-   "status": "pending",
-   "notes": "Spawned by the p_263 dormant-source RALPH loop (hypothesize phase)."
+   "status": "in_progress",
+   "notes": "2026-08-25: mirror address space enumerated exhaustively -- 95 pages exist, 12 were held, 20 fetched and extracted this session (all of series 12 and 13 that were missing), 63 remain. Full inventory at project-docs/concordia-mirror-inventory.md. Continues as p_274."
   },
   {
    "priority_id": "p_269",
@@ -3427,6 +3427,54 @@
    "created_at": "2026-08-25T00:00:00Z",
    "status": "pending",
    "notes": "Spawned by the orphan-fact coverage sweep."
+  },
+  {
+   "priority_id": "p_274",
+   "rank": 273,
+   "type": "RESEARCH",
+   "description": "FETCH THE REMAINING 63 CONCORDIA MIRROR PAGES, listed exactly in project-docs/concordia-mirror-inventory.md. Series 12 and 13 are done; what remains is series 1, 2, 4, 5, 10, 11 and 14 -- including the 14-page 5E run, the 15-page 14D run, and the 9 unfetched 14x sub-series. Method is settled: curl with a browser UA (WebFetch is not needed), then the boilerplate-differencing extractor. Each page is ~105KB of chrome around ~1KB of finding aid, so extract before storing. Expect institutional rather than camping content, but 14D held 14D10, which the project already cited, so the series is not off-topic.",
+   "article_id": "sources",
+   "blocking": false,
+   "assigned_weight": "P1",
+   "created_at": "2026-08-25T00:00:00Z",
+   "status": "pending",
+   "notes": "Spawned by the p_268 Concordia static-mirror walk."
+  },
+  {
+   "priority_id": "p_275",
+   "rank": 274,
+   "type": "VERIFY",
+   "description": "READ P145/12C01, the file titled 'Evaluation, recommendations re Camp Otoreke as a mixed [gender] camp. - 1936.' This is now the highest-value unread document known to the project. It sits 29 years before the 1965 coeducation recommendation that the Metropolitan Board declined and 32 years before girls were admitted to Kanawana, and its contents would establish whether the Y considered and rejected mixed camping in the 1930s or merely described an existing practice at an adult camp. REQUIRES PHYSICAL OR MEDIATED ARCHIVE ACCESS: Concordia Records Management and Archives, archives@concordia.ca. Box HA2315.",
+   "article_id": "coeducation-gender",
+   "blocking": false,
+   "assigned_weight": "P1",
+   "created_at": "2026-08-25T00:00:00Z",
+   "status": "pending",
+   "notes": "Spawned by the p_268 Concordia static-mirror walk."
+  },
+  {
+   "priority_id": "p_276",
+   "rank": 275,
+   "type": "VERIFY",
+   "description": "RESOLVE THE ACQ FOUNDING-MEMBER CLAIM (f_2215) using P145/12N04, which holds 'Constitution et reglements-Association des Camps du Quebec. - 1979' and 'Annuaire 1979, liste des membres. - 1979' in the YMCA of Montreal's own fonds. YMCA Quebec's website calls Kanawana 'a founding member of the ACQ' and the ACQ's own listing carries no such statement. A 1979 constitution plus a 1979 membership list would settle both whether the association dates from 1979 and whether the Y was in at the start. Same access route as p_275; Box HA1888.",
+   "article_id": "connections",
+   "blocking": false,
+   "assigned_weight": "P2",
+   "created_at": "2026-08-25T00:00:00Z",
+   "status": "pending",
+   "notes": "Spawned by the p_268 Concordia static-mirror walk."
+  },
+  {
+   "priority_id": "p_277",
+   "rank": 276,
+   "type": "WRITE",
+   "description": "SPAWN THE WINTER PROGRAMMING ARTICLE. CLAUDE.md Phase 2 section 8 makes this conditional on evidence being found; f_2259 finds it. P145/12H is a whole sub-series on the Otoreke ski lodge, 1929-1959, with a standing Ski Lodge Committee, annual reports, a 1941 proposal for a ski club, and the YMCA's 1948-1951 purchase of the Christieville property. CAVEAT THE ARTICLE MUST HOLD: this is winter operation at OTOREKE, not at Kanawana. Before drafting, check the Kanawana Outing Club material already in programs-activities.md and establish whether the two threads connect.",
+   "article_id": "winter-programming",
+   "blocking": false,
+   "assigned_weight": "P2",
+   "created_at": "2026-08-25T00:00:00Z",
+   "status": "pending",
+   "notes": "Spawned by the p_268 Concordia static-mirror walk."
   }
  ]
 }
