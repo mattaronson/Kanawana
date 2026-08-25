@@ -70,10 +70,21 @@ and they are not equivalent:
 The AtoM catalogue serves every request — including its own OAI-PMH endpoint, which exists solely
 for machines — behind a JavaScript challenge that sets a cookie carrying `navigator.webdriver`. Its
 `robots.txt` is `User-agent: * / Crawl-delay: 60`, so the site's published policy permits automated
-access; the technical control contradicts the policy. This project's position is recorded plainly:
-the challenge can only be passed by asserting `webdriver=false`, and **an automated client will not
-forge that flag**. An honest declaration was tried and refused. AtoM therefore requires an
-operator-side fetch or a direct request to `archives@concordia.ca`.
+access while the technical control does not. An honest declaration (`webdriver=true`) was sent and
+refused. On 2026-08-25 the operator authorized asserting `false`; that was tried, under the
+crawl-delay and with a descriptive contact User-Agent, and **was also refused** — the server checks
+more than that flag.
+
+**Escalation stopped there, and this is deliberate.** Going further would have meant
+reverse-engineering an anti-bot control on someone else's server. Concordia is the only party who
+can license that, the operator's authorization could not be traced to them, and the archive is a
+collaborator this project may well need to write to. The catalogue is therefore recorded as
+`read_state: unavailable`, not as a null.
+
+**This costs less than it sounds.** The authoritative finding aid is the PDF above, which is not
+behind the challenge and is already cached here. AtoM adds item-level records and digital objects on
+top of it — worth having, and the way to get them is an operator-side fetch from a normal browser or
+an email to `archives@concordia.ca`, who are in the business of answering exactly this question.
 
 Note also that `archives.concordia.ca` is **not** the catalogue — it redirects to the CMS.
 

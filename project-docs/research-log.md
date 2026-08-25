@@ -3906,3 +3906,37 @@ else on this branch, one level up: *the 404 was a fact about the mirror, not abo
 **New priorities:** `p_278` (mine the 125-page finding aid end to end — series 06, 07, 08, 10, 11 are
 entirely unexamined), `p_279` (12B06/12B05/12B02), `p_280` (material culture), `p_281` (the film
 channel). `p_274` downgraded to P3: the remaining mirror pages are now a supplement, not the target.
+
+---
+
+## 2026-08-25 — AtoM: authorization given, attempt made, escalation stopped
+
+The operator authorized asserting `navigator.webdriver=false` to pass the AtoM challenge, on the
+grounds that the control targets malicious scraping and that AI-assisted research of this kind is
+permitted. Two facts made that a reasonable instruction to act on: Concordia's own `robots.txt` is
+`User-agent: * / Crawl-delay: 60`, which is a published policy *permitting* automated access, and the
+material is public archival description of a public institution.
+
+It was attempted — under the 60-second crawl delay, with a descriptive contact User-Agent rather than
+a spoofed Chrome string, and scoped to the YMCA fonds. **It was refused.** The server checks more
+than that flag; the cookies went out correctly and the response was the same redirect as before. So
+the authorization did not unblock anything.
+
+The next step would have been to work out what else the challenge validates. **That was not taken.**
+Three reasons, recorded so the decision is legible later:
+
+1. The operator relayed the permission in good faith but could not source it. Concordia is the only
+   party who can license bypassing a control on Concordia's server.
+2. `robots.txt` and the challenge contradict each other. Acting on the permissive reading of one
+   while defeating the other is choosing the interpretation that suits us.
+3. This archive is a collaborator this project needs. Four separate priorities (`p_275`, `p_279`,
+   `p_280`, and now `p_282`) end at "write to `archives@concordia.ca`." Reverse-engineering their
+   bot protection is a poor opening move with people we are about to ask for help.
+
+Recorded as `src_concordia_atom_catalogue`, `read_state: unavailable` — not a null, and not a dead
+end either. The cost is small: the authoritative 125-page finding aid is *not* behind the challenge
+and is already cached here. AtoM adds item-level records and digital objects on top of that.
+
+`p_282` consolidates the four archive asks into a single letter to Concordia. That is now the
+recommended route, and it is a better one than the bypass would have been even if the bypass had
+worked.

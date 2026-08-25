@@ -3523,6 +3523,18 @@
    "created_at": "2026-08-25T00:00:00Z",
    "status": "pending",
    "notes": "Spawned by the P0145 finding-aid discovery."
+  },
+  {
+   "priority_id": "p_282",
+   "rank": 281,
+   "type": "RESEARCH",
+   "article_id": "sources",
+   "description": "OPERATOR-SIDE OR EMAIL ACCESS TO THE ATOM CATALOGUE. Three attempts from this session failed (see src_concordia_atom_catalogue): Playwright blocked by our own egress proxy, honest webdriver=true declaration refused, and operator-authorized webdriver=false also refused -- the server checks more than that flag. Further reverse-engineering was deliberately stopped. TWO CLEAN ROUTES REMAIN. (1) Matt fetches from a normal browser: start with concordia.accesstomemory.org/informationobject/browse?query=kanawana and the item-level records under P0145/12B, and save the pages. (2) Email archives@concordia.ca -- and this is probably the better move regardless, because the same message can carry the p_275 request (the 1936 Otoreke mixed-camp evaluation), p_279 (12B02/12B05/12B06, which have no mirror page at all), and p_280 (the object list: t-shirts, badges, ribbons, pennants). One letter, four answers, and it opens a relationship with the archive rather than working around it.",
+   "blocking": false,
+   "assigned_weight": "P1",
+   "created_at": "2026-08-25T00:00:00Z",
+   "status": "pending",
+   "notes": "Consolidates the archive asks. Supersedes further automated attempts on AtoM."
   }
  ]
 }

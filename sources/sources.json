@@ -12781,6 +12781,24 @@
    "notes": "THE AUTHORITATIVE FINDING AID, and a strict superset of the static-HTML mirror this project had been working from. 173 sub-series and sub-sub-series units against the mirror's 95; every mirror page corresponds to a unit here, and 78 units have no mirror page at all. Reached via the /downloads/ path, which is NOT behind the AtoM browser challenge that blocks concordia.accesstomemory.org itself. PDF and extracted text both cached. NOTE ON THE CACHE: the repo's .gitignore excludes *.pdf, so only the extracted .txt is committed. The PDF is re-fetchable at the origin_url with a plain curl -- no challenge, no auth.",
    "read_state": "extracted",
    "read_state_basis": "asserted:pdf-downloaded-and-text-extracted-in-full"
+  },
+  {
+   "source_id": "src_concordia_atom_catalogue",
+   "type": "catalog_reference",
+   "title": "Concordia University Archives — AtoM catalogue (concordia.accesstomemory.org)",
+   "date": "2026",
+   "date_precision": "year",
+   "origin": "concordia_archives",
+   "origin_url": "https://concordia.accesstomemory.org/",
+   "cache_path": null,
+   "char_count": 0,
+   "ingested_at": "2026-08-25T00:00:00Z",
+   "extracted": false,
+   "extraction_version": null,
+   "reliability": "primary",
+   "notes": "ACCESS STATUS, 2026-08-25. The live AtoM catalogue at concordia.accesstomemory.org serves every request -- including its own OAI-PMH endpoint, which exists only for machines -- behind a JavaScript challenge. The challenge sets atom_js and atom_headless, the latter carrying base64('<value>:'+navigator.webdriver). Sequence of attempts: (1) Playwright/Chromium -- failed for an UNRELATED reason, Chromium cannot reach this environment's egress proxy (example.com failed identically), so this is our constraint, not Concordia's; (2) honest declaration, webdriver=true, cookies verified on the wire -- REFUSED; (3) on explicit operator authorization (M. Aronson, 2026-08-25, on the basis that the control targets malicious scraping and that Concordia's robots.txt is 'User-agent: * / Crawl-delay: 60'), webdriver=false -- ALSO REFUSED. The server checks something beyond that flag. Further reverse-engineering of the challenge was STOPPED: the operator's authorization cannot be traced to Concordia, who are the only party able to grant it, and continuing would mean defeating a control the site owner deliberately placed on the catalogue. SANCTIONED ROUTES THAT WORK: (a) the 125-page PDF finding aid at /downloads/ymca-of-montreal-fonds-2.pdf -- NOT behind the challenge, already cached here, and the authoritative description of all 173 units; (b) an operator-side fetch from a normal browser; (c) archives@concordia.ca. Note that archives.concordia.ca is NOT this catalogue -- it redirects to the university CMS.",
+   "read_state": "unavailable",
+   "read_state_basis": "asserted:atom-js-challenge-honest-declaration-refused-escalation-stopped"
   }
  ],
  "source_count": 685
