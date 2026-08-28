@@ -1,8 +1,8 @@
 {
- "version": "5.58",
- "kb_version": "v5.58",
+ "version": "5.60",
+ "kb_version": "v5.60",
  "migrated_from": "3.3",
- "fact_count": 2275,
+ "fact_count": 2285,
  "facts": [
   {
    "fact_id": "f_0001",
@@ -39349,6 +39349,167 @@
    "date_ref": "2026-08-25",
    "conflicts_with": [],
    "added_version": "v5.58",
+   "added_by": "ralph_loop"
+  },
+  {
+   "fact_id": "f_2314",
+   "claim": "THE MONTREAL BUS PICK-UP POINT MOVED FOR 2026, from Town of Mount Royal to Westmount. The 2025 guide gives it as 'Ecole secondaire Pierre-Laporte : 1101 Rockland Road | Mont-Royal | Quebec | H3P 2X8'. The 2026 guide replaces it: 'Due to circumstances beyond our control, we would like to inform you that the bus meeting point will now be WESTMOUNT HIGH SCHOOL : 4350 Sainte-Catherine Street | Westmount | Quebec | H3Z 1R1. The entrance to the parking lot is on Hillside Lane, and the exit is on Hallowell Avenue.' 'Rockland' appears nowhere in the 2026 guide. Buses leave around 8:30-9:00 a.m. with campers asked to arrive an hour early; a $25 charge applies to any transportation change made 72 hours or less before the first day of a session.",
+   "sources": [
+    "src_kk_prep_guide_2026",
+    "src_kk_prep_guide_2025"
+   ],
+   "confidence": "stated",
+   "category": "ops",
+   "entities": [
+    "Kamp Kanawana"
+   ],
+   "date_ref": "2026",
+   "conflicts_with": [],
+   "added_version": "v5.59",
+   "added_by": "ralph_loop"
+  },
+  {
+   "fact_id": "f_2315",
+   "claim": "2026 SEASON STRUCTURE AND DATES from the parent guide: four sessions running 22 June to 14 August 2026, with departures and returns at 22 June, 27/28 June, 3 July, 6 July, 17 July, 20 July, 31 July, 3 August and 14 August. OPEN HOUSE: Sunday 14 June 2026, 10:00 a.m. to 4:00 p.m. Airport transfer by a camp driver costs $96 plus tax each way, $192 return, and camper flights must arrive no earlier than 22 June and depart no later than 14 August -- 'There will be no campers on site prior to June 22nd nor after August 14th.'",
+   "sources": [
+    "src_kk_prep_guide_2026"
+   ],
+   "confidence": "stated",
+   "category": "operations",
+   "entities": [
+    "Kamp Kanawana"
+   ],
+   "date_ref": "2026",
+   "conflicts_with": [],
+   "added_version": "v5.59",
+   "added_by": "ralph_loop"
+  },
+  {
+   "fact_id": "f_2316",
+   "claim": "TUCK, MERCHANDISE AND A CAMPERSHIP MECHANISM, 2026. 'Every camper at Camp YMCA Kanawana will receive a REUSABLE WATER BOTTLE on their first day at camp, and will be sent home with a T-SHIRT from this season.' Tuck fees are added automatically at registration and cover both items; 'A CANOE PADDLE is included in the Tuck items for campers registered to any Voyageur programs.' Unspent tuck over $10 is refundable only on written request, issued in September -- and, notably, 'All remaining tuck money remains within the YMCA, and goes towards providing services to families with lower incomes, INCLUDING SENDING CAMPERS TO KANAWANA.' Unspent tuck therefore funds camperships. Group photos are taken at the start of each session by a camp photographer and distributed by download link afterwards.",
+   "sources": [
+    "src_kk_prep_guide_2026"
+   ],
+   "confidence": "stated",
+   "category": "traditions",
+   "entities": [
+    "Kamp Kanawana"
+   ],
+   "date_ref": "2026",
+   "conflicts_with": [],
+   "added_version": "v5.59",
+   "added_by": "ralph_loop"
+  },
+  {
+   "fact_id": "f_2317",
+   "claim": "THE 2026 LEADERSHIP TEAM, with one new post. Executive Camp Director MARIE-PIERRE LACASSE (ext. 7); Summer Camp Director JUSTIN CALDWELL (ext. 4); Summer Camp Assistant Director QUINN DURAND (ext. 5); Assistant to the Directors AMY THOMSON (ext. 6) -- all four also in the 2025 guide. NEW IN 2026: a 'TRIP AND RENTAL COORDINATOR', ELOISE HEBERT-IMBEAULT (ext. 3), a name and a post this wiki does not hold. The pairing of trips with rentals in one coordinator role is itself notable given the camp's year-round rentals business. A 'Hike and Trip Director' is also referenced separately in the canoe-trip evacuation protocol, unnamed.",
+   "sources": [
+    "src_kk_prep_guide_2026"
+   ],
+   "confidence": "stated",
+   "category": "directors",
+   "entities": [
+    "Kamp Kanawana"
+   ],
+   "date_ref": "2026",
+   "conflicts_with": [],
+   "added_version": "v5.59",
+   "added_by": "ralph_loop"
+  },
+  {
+   "fact_id": "f_2318",
+   "claim": "CANOE-TRIP PROGRAMME DETAIL, 2026, from the trip complement embedded in the same PDF. Trip staff 'are all aged 18 years old and up and have extensive canoe tripping' experience; participants 'have to demonstrate that they can swim 150 METRES WITHOUT A PFD'. Preparation includes practising packing dry bags and 'a boat trip to Lake Wilson to practice paddling'. Equipment is verified before departure by trip leaders AND campers jointly. 'All our wilderness medicine protocols are reviewed and certified by a doctor to allow our staff to practice wilderness responder treatments.' First-aid kits carry acetaminophen, ibuprofen and a salbutamol inhaler. Transport is by 15-passenger vehicle with a camp-owned trailer for canoes, with a planned stop en route. Trip menus are largely vegetarian: 'Thai coconut curry, chili, Mexican wrap, bean salad, red dhal, pesto pasta, LAZY PIEROGIS, barley soup, vegetarian sloppy joes, General Tao tofu, teriyaki bowl'; trail snacks include 's'mores, cinnamon buns, magic squares, TRIPBROWNIES, caramelized pears/peaches, trip pie, apple crumble'. A programme named 'VOYAGEUR EXTREME' appears.",
+   "sources": [
+    "src_kk_prep_guide_2026"
+   ],
+   "confidence": "stated",
+   "category": "programs",
+   "entities": [
+    "Kamp Kanawana"
+   ],
+   "date_ref": "2026",
+   "conflicts_with": [],
+   "added_version": "v5.59",
+   "added_by": "ralph_loop"
+  },
+  {
+   "fact_id": "f_2319",
+   "claim": "A PRODUCTION ARTIFACT LEFT IN THE PUBLISHED 2026 GUIDE. Between the staff-contact page and the canoe-trip section, the PDF carries an unremoved French-language instruction to a designer: 'Pourriez-vous creer un bouton << Virtual >> << Virtuel >> dans les tons de bleus pour mettre a droite des cours dans le calendrier? (comme le bouton deferred)'. It concerns a web calendar and has nothing to do with the camp. Recorded because anyone doing full-text search on this PDF will hit it, and because it is evidence the guide is assembled from shared YMCA-wide design assets rather than produced standalone.",
+   "sources": [
+    "src_kk_prep_guide_2026"
+   ],
+   "confidence": "stated",
+   "category": "sources",
+   "entities": [
+    "Kamp Kanawana"
+   ],
+   "date_ref": "2026",
+   "conflicts_with": [],
+   "added_version": "v5.59",
+   "added_by": "ralph_loop"
+  },
+  {
+   "fact_id": "f_2320",
+   "claim": "THE WORKING CORPUS WAS NOT IN THE REPOSITORY. Discovered 2026-08-25 while running p_231: the 634-document YMCA of Montreal text corpus that this week's work rests on -- the Patton memoir identification, the Owens sweep, the five director drafts, the 1969-drowning sweep -- existed ONLY in the session's ephemeral scratchpad. Just 39 of its 634 files had counterparts anywhere in the repository, and the container is reclaimed after inactivity. The corpus is now copied to sources/cache/ymca-montreal-fonds/ (16 MB, 634 files) and verified after the copy by control terms: 257 files contain 'Kanawana', 73 'Otoreke', 28 'Patton', 24 'Owens' -- matching the pre-copy counts. This was a durability failure, not a research one, and it was invisible to every check the project had: the verify harness audits what the wiki says and what sources record, not whether the underlying text still exists anywhere permanent.",
+   "sources": [
+    "src_ia_ymca_montreal_fonds_collection"
+   ],
+   "confidence": "stated",
+   "category": "sources",
+   "entities": [
+    "Kamp Kanawana"
+   ],
+   "date_ref": "2026-08-25",
+   "conflicts_with": [],
+   "added_version": "v5.60",
+   "added_by": "ralph_loop"
+  },
+  {
+   "fact_id": "f_2321",
+   "claim": "p_231 EXECUTED, AND ITS PREMISE CORRECTED. 566 held corpus items were registered individually in sources.json, taking it from 68 registered of 634 held to all 634. Total source records 1,300 (1,274 unique ids). CRUCIAL DISTINCTION PRESERVED: the 565 newly registered items with text carry read_state 'SKIMMED', not 'extracted', with basis 'full-text-cached-and-keyword-swept-not-read-closely'. The text is held and has been keyword-swept repeatedly, but these items have not been read closely and no fact has been extracted from them individually. Marking them 'extracted' would have inflated the project's read receipts by 565 and defeated the purpose of the field. Dormancy consequently rises to 572 of 1,300 -- an honest number, not a regression.",
+   "sources": [
+    "src_ia_ymca_montreal_fonds_collection"
+   ],
+   "confidence": "stated",
+   "category": "sources",
+   "entities": [
+    "Kamp Kanawana"
+   ],
+   "date_ref": "2026-08-25",
+   "conflicts_with": [],
+   "added_version": "v5.60",
+   "added_by": "ralph_loop"
+  },
+  {
+   "fact_id": "f_2322",
+   "claim": "A FOUNDING-ERA DOCUMENT THAT CANNOT BE READ. 'Seventh Annual Report of the Current Camp Committee', dated 10 December 1900, is digitized in the ymca-montreal-fonds collection (8 pages) but has NO OCR TEXT LAYER -- it is an image-only scan, which is why its cached file is 0 bytes. pdftotext and pdfminer both return nothing and no OCR binary is available in this environment. THE TITLE IS THE FINDING: a SEVENTH annual report in December 1900 counts the series back to 1894, the founding year, meaning the Camp Committee produced annual reports from the beginning. Only two camp-committee reports are digitized at all, both from 1900; the other six are not online. This is a specific, high-value ask -- either an OCR pass on the existing scan or the originals from Concordia.",
+   "sources": [
+    "src_ia_ymca_montreal_fonds_collection"
+   ],
+   "confidence": "stated",
+   "category": "founding",
+   "entities": [
+    "Kamp Kanawana"
+   ],
+   "date_ref": "1900",
+   "conflicts_with": [],
+   "added_version": "v5.60",
+   "added_by": "ralph_loop"
+  },
+  {
+   "fact_id": "f_2323",
+   "claim": "THE 1900 JUNIOR CAMP REPORT, read in full -- the earliest camp season this project can read at first hand. 'The Junior Camp was held this year from Thursday June 28th to Saturday July 14th. It was a record Camp in point of numbers': 45 BOYS, 6 LEADERS, 17 VISITORS, with 'Mr. Calhoun and Mr. Brown in charge'. Six tents were used 'and some of the boys slept in the house'; tent leaders were 'Messrs. A. Peden, H. Beall, D. McGavin, G. Shaw, W. K. L. Greig and Mr. Brown'. The weather was brutal -- '11 days out of 16 being wet, and consequently it was very hard to keep the boys amused and in control'. Religious observance was heavy: morning and evening prayers daily, three Friday night meetings, and on Sundays 'three services, Bible class and evening song service'. Finances closed at a balance of $5.05, with tea, coffee and spices donated by Mr. Marotte of Marotte Leblanc and Co. The cook 'was only fairly satisfactory and was DISGUSTINGLY DIRTY in his work -- though some excuse is found in the fact that the kitchen is too small'. Eight suggestions went to the PERMANENT CAMP COMMITTEE, including a mail box and a mail bag for the teamster, fixing a smoking chimney, 'more butter plates and salt cellars', 'a rainbarrel or pump beside the kitchen IN ORDER THAT THE COOK MAY HAVE NO EXCUSE FOR NOT WASHING THE DISHES PROPERLY', a boathouse with rope painters and anchors, rubber sheets for the tents, and 'That an athletic field be procured as soon as possible.' The existence of a standing 'Permanent Camp Committee' in 1900 corroborates the Concordia holding sought under p_209.",
+   "sources": [
+    "src_ymf_1900_11_30_report_of_the_junior_camp_committee"
+   ],
+   "confidence": "stated",
+   "category": "founding",
+   "entities": [
+    "Kamp Kanawana"
+   ],
+   "date_ref": "1900",
+   "conflicts_with": [],
+   "added_version": "v5.60",
    "added_by": "ralph_loop"
   }
  ]

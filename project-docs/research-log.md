@@ -4511,3 +4511,61 @@ Kanawana.
 *Saint-Sauveur: Son histoire, notre patrimoine*, by **Lorraine Dagenais with Carmelle Huppé**, SHGPH,
 **2019**, since reprinted and sold locally. No digitized copy. Folded into `p_208`, which already
 targets the same organisation — one approach, two asks — and `p_208` reweighted to P1.
+
+---
+
+## 2026-08-25 — p_273 and p_231, and a durability failure found by accident
+
+### p_273 — the guide was not cached, contrary to its own priority
+
+The priority described the June 2026 parent guide as "cached, 43pp." It was not: `cache_path` was
+null and no file existed on disk. Downloaded the English (8.77 MB) and French (8.80 MB) 2026 editions
+plus the 2025 guide, extracted all three, cached them in-repo, and diffed 2026 against 2025 — 106
+changed lines. Six facts, `f_2314`–`f_2319`. Highlights:
+
+- **The Montreal bus pick-up moved**, from "École secondaire Pierre-Laporte, 1101 Rockland Road,
+  Mont-Royal" to "**Westmount High School, 4350 Sainte-Catherine Street**," announced as "due to
+  circumstances beyond our control." "Rockland" appears nowhere in the 2026 guide.
+- **Unspent tuck money funds camperships**: "All remaining tuck money remains within the YMCA, and
+  goes towards providing services to families with lower incomes, **including sending campers to
+  Kanawana**." Every camper now gets a reusable water bottle on arrival and a T-shirt on departure,
+  and a canoe paddle is included for Voyageur registrants.
+- **One new post in 2026**: a **Trip and Rental Coordinator**, Eloise Hebert-Imbeault — a name and a
+  role this wiki did not hold. Pairing trips with rentals in one job is itself telling.
+- Canoe trippers must "**swim 150 metres without a PFD**"; wilderness medicine protocols are
+  "reviewed and certified by a doctor"; trip menus are largely vegetarian, down to *lazy pierogis* and
+  *tripbrownies*.
+- The published PDF still carries **an unremoved French instruction to a web designer** about a
+  calendar button — evidence the guide is assembled from shared YMCA-wide design assets.
+
+The French edition is 94,612 characters against the English 74,071 and has **not** been diffed. Worth
+a look for content the English omits.
+
+### p_231 — the task was real, but it found something larger than itself
+
+**The working corpus was not in the repository.** The 634-document YMCA of Montreal text corpus that
+this week's work rests on — the Patton identification, the Owens sweep, the five director drafts, the
+drowning sweep — existed **only in the session's ephemeral scratchpad**. Thirty-nine of its 634 files
+had counterparts anywhere in the repo, and this container is reclaimed after inactivity. It is now at
+`sources/cache/ymca-montreal-fonds/` (16 MB, 634 files), verified after copying by control terms: 257
+files contain "Kanawana", 73 "Otoreke", 28 "Patton", 24 "Owens" — matching the pre-copy counts.
+
+**No check the project had could have caught this.** The verify harness audits what the wiki says and
+what the sources record; nothing audited whether the underlying text still existed anywhere permanent.
+
+Then the actual task: all 566 unregistered items registered individually. **68-of-634 becomes
+634-of-634**, 1,300 source records in total.
+
+**One deliberate restraint.** The newly registered items carry `read_state: skimmed`, not `extracted`,
+with basis `full-text-cached-and-keyword-swept-not-read-closely`. The text is held and has been swept
+repeatedly, but these items have not been read closely and no fact has been extracted from them
+individually. Marking them "extracted" would have inflated the project's read receipts by 565 at a
+stroke and defeated the purpose of the field. Dormancy rises to 572 of 1,300 as a result — an honest
+number, not a regression.
+
+**Two byproducts.** A 0-byte file turned out to be *Seventh Annual Report of the Current Camp
+Committee*, 10 December 1900 — digitized, 8 pages, **no OCR layer**, unreadable here. Its title dates
+the camp-committee report series to **1894**. And its readable sibling, the *Report of the Junior Camp
+Committee, 1900*, has now been read in full and written into `founding-1894.md`: 45 boys, six tents,
+eleven wet days out of sixteen, a balance of $5.05, and a cook who was "disgustingly dirty in his
+work." `p_288` opened; both added to the `p_282` letter.

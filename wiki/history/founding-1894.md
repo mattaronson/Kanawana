@@ -65,6 +65,39 @@ inside the document ("Mrs. Patton and I") and confirmed against the 1892 committ
 him. He is therefore not a distant compiler but **one of the five men appointed to plan the camp**,
 writing twenty-eight years later about a camp he himself led. See his article for the full career.*
 
+## A Season Read at First Hand: the Junior Camp, 1900
+
+The earliest camp season this project can read from a camp document of its own is **1900**, six years
+after the founding, from the *Report of the Junior Camp Committee, 1900*.^jc It is worth quoting at
+length because nothing else in this wiki gives the texture of the Lake St. Joseph camp so directly.
+
+> "The Junior Camp was held this year from **Thursday June 28th to Saturday July 14th**. It was **a
+> record Camp in point of numbers**… **45 Boys, 6 Leaders, 17 Visitors**, & Mr. Calhoun and Mr. Brown
+> in charge… **Six tents** were used for sleeping in and some of the boys slept in the house."
+
+The tent leaders are named — "Messrs. **A. Peden, H. Beall, D. McGavin, G. Shaw, W. K. L. Greig** and
+Mr. Brown" — and the season was miserable: "**11 days out of 16 being wet**, and consequently it was
+very hard to keep the boys amused and in control."
+
+Religious observance was heavy and daily: morning and evening prayers, three Friday night meetings,
+and on Sundays "three services, Bible class and evening song service." The books closed at a balance
+of **$5.05**, with tea, coffee and spices donated by a Mr. Marotte of Marotte Leblanc and Co.
+
+The report is also candid in a way institutional records rarely are. The cook "was only fairly
+satisfactory and was **disgustingly dirty in his work** — though some excuse is found in the fact that
+the kitchen is too small to prepare food in for such a number." Eight recommendations follow, to a
+standing **Permanent Camp Committee**: a mail box and a mail bag for the teamster, a chimney that
+smokes, "**more butter plates and salt cellars**," a boathouse with rope painters and anchors, rubber
+sheets for the tents, "**That an athletic field be procured as soon as possible**," and — returning to
+the cook — "that a rainbarrel or pump be installed beside the kitchen **in order that the cook may have
+no excuse for not washing the dishes properly**."
+
+**A companion document exists and cannot be read.** The *Seventh Annual Report of the Current Camp
+Committee*, dated **10 December 1900**, is digitized but is an image-only scan with no OCR layer.^jc
+Its title is itself evidence: a *seventh* annual report in 1900 counts the series back to **1894**, so
+the Camp Committee reported annually from the founding year. Only two of those reports are digitized,
+both from 1900; the other six are not online. Getting them read is tracked as `p_288`.
+
 ## Precursors: Cushing and the Lake St. Joseph Trips (1892-1893)
 
 According to the Quebec Anglophone Heritage Network (QAHN), Lemuel Cushing brought a group of boys to Lake Saint-Joseph in Saint-Adolphe-d'Howard in 1892. The Concordia archives (fonds P145, sub-series 12L) contain camper lists, financial records, and fishing rights documentation dating to 1893, confirming organized activity at the site a full year before the conventional 1894 founding. Separately, sub-series 12A holds a "Report — trip to St. Agathe" dated 1893/1895, described as the "Journal of the first Montreal YMCA venture to explore the country round about St. Agathe with the view of securing a lake on which to establish a Summer Camp." This document confirms the YMCA was actively scouting the Laurentian territory for a permanent camp site as early as 1893. Whether 1893 represents a continuation of Cushing's initiative or a separate test run by Ball is not established. What *is* now established is the planning body behind it: the 1951 "Kamp Kanawana History" records that in the fall of 1892 "a Committee of Messrs. J. W. Ross, W. E. Cushing, W. W. Wilson, T. Duncan Patton and W. H. Ball, was appointed," and that the origin lay in a fishing trip General Secretary D. A. Budge made to Lac Des Isles that summer with a Director of the Association — the train then running only as far as Ste-Jérôme, the rest by horse and cart.^h51
@@ -215,3 +248,5 @@ The 1923 brochure and 1935 history together describe a camp that had grown into 
 - **2026-02-05** (v3, E1 review) — Qualified the scrapbook date range claim (1880 start date likely reflects general YMCA history, not camp-specific). Expanded John Roy section with analysis of the Budge correspondence and its implications. Added Budge as an open question. Tightened prose in Physical Plant section. Promoted 1893 evidence significance in Precursors section.
 - **2026-02-05** (v2, R3 verification) — Corrected a critical geographic error: the article previously implied Camp Jubilee was near the current Saint-Sauveur site. In fact, Camp Jubilee operated at Lake St. Joseph in Saint-Adolphe-d'Howard (near Sainte-Agathe), a completely different location roughly 40km north of the current Kanawana site; the move to Saint-Sauveur occurred around 1910. This revision also added Lemuel Cushing as a 1892 precursor figure, John Roy as earliest known director (1901), clarified the island-based nature of the original Camp Jubilee site, and removed an unverified 85-camper claim (the same claim later reconsidered, with sourcing, as conflict c_005 above).
 - **2026-02-05** (v1) — Initial draft from KB synthesis.
+
+[jc] *Report of the Junior Camp Committee, 1900* [src_ymf_1900_11_30_report_of_the_junior_camp_committee], read in full 2026-08-25; and *Seventh Annual Report of the Current Camp Committee*, 10 December 1900, digitized without an OCR layer and therefore unread. See [f_2322], [f_2323].
