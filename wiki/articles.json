@@ -8248,7 +8248,10 @@
         "f_2324",
         "f_2325",
         "f_2326",
-        "f_1614"
+        "f_1614",
+        "f_1705",
+        "f_2327",
+        "f_2328"
       ],
       "sources_cited": [
         "src_clivus_multrum_projects",
@@ -8286,7 +8289,7 @@
         "timeline-overview"
       ],
       "file_id": null,
-      "word_count": 2461,
+      "word_count": 2453,
       "notes": "2026-07-11: Workstream C4 spawn (4 of 4, final). Connective-narrative synthesis, no new research conducted. Ties together this session's institutional-role-director spawns into continuous narrative history. This completes Workstream C4 and the full operator-approved plan. | 2026-08-14 p_222: applied the chronology BLOCKING fixes from the p_218 VERIFY audit.",
       "tags": {
         "era": [
@@ -8389,24 +8392,34 @@
       "article_id": "dan-aronson",
       "title": "Dan Aronson",
       "wiki_folder": "people",
-      "status": "stub",
+      "status": "draft",
       "status_history": [
         {
           "status": "stub",
           "at": "2026-07-11T00:00:00Z",
           "by": "auto",
           "task": "WRITE"
+        },
+        {
+          "status": "draft",
+          "at": "2026-08-28T00:00:00Z",
+          "by": "auto",
+          "task": "RESEARCH"
         }
       ],
       "ralph_loops_completed": 1,
       "kb_facts_used": [
         "f_1614",
         "f_1707",
-        "f_2326"
+        "f_2326",
+        "f_1705",
+        "f_2327",
+        "f_2328"
       ],
       "sources_cited": [
         "src_flickr_kanawana_plaque_album",
-        "src_oral_aronson_cit_1995"
+        "src_oral_aronson_cit_1995",
+        "src_oral_aronson_erin_correction"
       ],
       "open_questions": 2,
       "cross_links": [
@@ -8414,7 +8427,7 @@
         "directors-index"
       ],
       "file_id": null,
-      "word_count": 473,
+      "word_count": 722,
       "notes": "2026-07-11: Spawned per operator's direct authorization revising the C5 privacy policy. Only 2 bare plaque-transcription facts exist; per operator's explicit choice, no invented tenure/roles/biography beyond what the plaques show. No new research conducted.",
       "tags": {
         "era": [

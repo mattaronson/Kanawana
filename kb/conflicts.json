@@ -555,9 +555,11 @@
         "f_1614",
         "f_2326"
       ],
-      "status": "unresolved",
+      "status": "resolved",
       "flagged_at": "2026-08-28",
-      "notes": "The 2026-07-07 oral-history-yields-to-documents directive does NOT automatically resolve this. It applies where the two sources conflict on the same claim; here it is not established that they refer to the same person, which is precisely the question. If they are the same person the directive settles it in the plaque's favour immediately. Cheap for the operator to answer directly and worth asking before any outward search. Both names preserved; neither merged into the other, and no article states there was only one Erin."
+      "notes": "The 2026-07-07 oral-history-yields-to-documents directive does NOT automatically resolve this. It applies where the two sources conflict on the same claim; here it is not established that they refer to the same person, which is precisely the question. If they are the same person the directive settles it in the plaque's favour immediately. Cheap for the operator to answer directly and worth asking before any outward search. Both names preserved; neither merged into the other, and no article states there was only one Erin.",
+      "resolved_at": "2026-08-28",
+      "resolution": "ONE ERIN. Erin McKenzie, as the plaque has it. The operator withdrew the recalled surname himself on being shown the plaque transcription ('It was Erin McKenzie, I misremembered the surname', src_oral_aronson_erin_correction) -- option (a) of the two the conflict laid out. 'Erin MacIntyre' is preserved in f_2326 as a withdrawn recollection and appears in no article as a person. Worth noting how this resolved: the operator corrected himself AGAINST the document. The 2026-07-07 oral-history-yields directive was never invoked, because it never needed to be."
     }
   ]
 }

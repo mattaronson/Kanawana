@@ -88,11 +88,10 @@ This is an operator account of events in which the operator was himself a partic
 document held by this project records any part of it — the guide's own wording is the only written
 trace, and it was written precisely to say nothing. It is kept here for what it shows rather than
 for the logistics: a routine seasonal problem solved in two moves through the camp's alumni network,
-one alumnus calling another, three decades after both had left staff. Manitt appears nowhere in the
-camp's own surviving records — not in this wiki, the knowledge base, or the 634-document YMCA of
-Montreal fonds corpus — but the operator places him as a **Counsellor-in-Training in 1995**, the same
-summer the operator himself was a Packer.^17 That is the whole documented distance between the two
-men: one shared season, thirty-one years earlier.
+one alumnus calling another, three decades after both had left staff. Manitt was a
+**Counsellor-in-Training in 1995** — the same summer the operator was a Packer — and was still on
+staff in 1997; both plaques name him.^17 That is the documented distance between the two men: shared
+seasons in the mid-1990s, thirty-one years before the phone call.
 
 ## Open Questions
 
@@ -132,7 +131,7 @@ men: one shared season, thirty-one years earlier.
 14. Wong, Jessica. "With camps, summer programs awaiting the go-ahead, what are kids in for this summer?" *CBC News*, 29 April 2021 [src_cbc_wong_camps_2021]. URL: https://www.cbc.ca/news/canada/summer-camps-programs-considerations-1.6002785 — **not** the two sleepaway-camp articles previously cited for this material, which were re-read in full on 2026-08-25 and contain neither name. See [f_0924], [f_2256].
 15. Kamp Kanawana parent preparation guides, 2025 and 2026 [src_kk_prep_guide_2026], [src_kk_prep_guide_2025]. See [f_2314].
 16. Oral history, Matt Aronson, 28 August 2026 [src_oral_aronson_westmount_bus_2026]. See [f_2324], [f_2325]. Uncorroborated by any document; the operator is a participant in the account.
-17. Oral history, Matt Aronson, 28 August 2026 [src_oral_aronson_cit_1995]; "CITS 95" plaque, Kanawana Flickr "Plaque" album [src_flickr_kanawana_plaque_album]. See [f_2326], [f_1614].
+17. "CITS 95" and "Kanawana Staff 97" plaques, Kanawana Flickr "Plaque" album [src_flickr_kanawana_plaque_album]; oral history, Matt Aronson, 28 August 2026 [src_oral_aronson_cit_1995]. See [f_2326], [f_2327], [f_1614], [f_1705].
 
 ## Research Notes
 

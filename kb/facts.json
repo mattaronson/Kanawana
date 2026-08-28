@@ -1,8 +1,8 @@
 {
-  "version": "5.62",
-  "kb_version": "v5.62",
+  "version": "5.63",
+  "kb_version": "v5.63",
   "migrated_from": "3.3",
-  "fact_count": 2288,
+  "fact_count": 2290,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -26437,7 +26437,7 @@
     },
     {
       "fact_id": "f_1568",
-      "claim": "A dining-hall plaque titled 'C.I.T.'s of '93' names Sophie Caisse and Simon Heller as the two 'directors' of the 1993 CIT program, with 32 CITs listed by name including Matt Aronson (the wiki project's operator, who confirms his own attendance as a CIT that summer). Other legible names: Monique Ah-Sue, Kosyo Bradbury, Chris Gayton, Ali Liebich, Aimee Castle, Sam Grossman, Toby Lyle, Tracey Azeff, Lisa Cecchini, Ryan Harbinson, Katie Musgrave, Marisa Bacchiochi, Kippie Clark, Katie Havercroft, Andrea Pahl, Adrian di Giovanni, Andrew Heathcote, Adam Perritt, Talia Dorsey, Andrew Henle, Maurice Presser, Dave Drury, Steph Hurlburt, Rob Starke, Susan Gamberg, Alison Leduc, Mara Welch. Several first names in the leftmost column are illegible in the photograph (handwriting/lighting) and are omitted here pending a clearer image or operator confirmation.",
+      "claim": "A dining-hall plaque titled 'C.I.T.'s of '93' names Sophie Caisse and Simon Heller as 'directors' and lists 32 CITs in four columns of eight, alphabetical by surname read down then across. Col 1: Monique Ah-Sue, Matt Aronson (this wiki's operator, who confirms his own attendance), Tracey Azeff, Marisa Bacchiochi, [?] Bacon, Alisa Barratt, Simon Bergman, Alex B[?]. Col 2: Kosyo Bradbury, Aimee Castle, Lisa Cecchini, Kippie Clark, Adrian diGiovanni, Talia Dorsey, Dave Drury, Susan Gamberg. Col 3: Chris Gayton, Sam Grossman, Ryan Harbinson, Katie Havercroft, Andrew Heathcote, Andrew Henle, Steph Hurlburt, Alison Leduc. Col 4: Ali Liebich, Toby Lyle, Katie Musgrave, Andrea Pahl, Adam Perritt, Maurice Presser, Rob Starke, Mara Welch. TRANSCRIPTION EXTENDED 2026-08-28 on re-reading the image: the four faint names at the foot of column 1, previously recorded only as 'several first names illegible', are now partly readable as Bacon, Barratt, Bergman and a fourth beginning 'B'. The alphabetical ordering constrains that fourth surname to fall between BERGMAN and BRADBURY, which rules OUT reading it as 'Ballhorn' despite the visual resemblance and despite a Tiff Bollhorn appearing in the 1995 cohort -- the slot will not take it. The name is left unread rather than guessed.",
       "sources": [
         "src_flickr_kanawana_plaque_album",
         "src_oral_aronson"
@@ -26453,7 +26453,7 @@
       ],
       "date_ref": "1993",
       "conflicts_with": [],
-      "added_version": "v4.9x",
+      "added_version": "v5.63",
       "added_by": "manual"
     },
     {
@@ -27321,22 +27321,25 @@
     },
     {
       "fact_id": "f_1614",
-      "claim": "A 'CITS 95' plaque credits Directors Simon Heller, Paula Cussen, and Wendy, and names CITs Sarah A. Frankel, Avigail Aronoff, Dan Aronson, Rick Badger, Laura Davis, Marc Dunn, Lindsay McDougall (matching the CIT credited on the 1995 Bella plaque), Erin McKenzie, Jon Mee, Marina Sharpe, and Tom Watt.",
+      "claim": "A 'CITS 95' plaque credits 'Directors: Simon Heller, Paula Cussen' and names the CIT cohort in four near-alphabetical blocks: SARAH A-FRANKEL (the 'A-' resolved as Addleman by the Staff '97 plaque, f_2327), AVIGAIL ARONOFF, DAN ARONSON, ALEX AYLETT, RICK BADGER, TIFF BOLLHORN; NINA CHECCINI, ASH CLARK, LAURA DAVIS, M.C. DIONNE, MARC DUNN, ADRIANA GREENBLATT, PAT HONNOR, EM LECKER, CHRIS MANITT; LINDSAY MCDOUGALL, ERIN MCKENZIE, JON MEE, NICK MUSZYNSKI, MELISSA PALLET, ANDRE PREECE; MARINA SHARPE, HEATHER SINCLAIR, CHARLIE SHULMAN, J.M. (JEFF) SOTIRON, BEN LEVINE, EM WATT, TOM WATT, FABIEN W-BARR -- 29 names -- followed by '& WENDY', which sits between the name column and the Directors block and may belong to either. TRANSCRIPTION CORRECTED 2026-08-28: this fact previously listed only 11 of the 29 names (Sarah A. Frankel, Avigail Aronoff, Dan Aronson, Rick Badger, Laura Davis, Marc Dunn, Lindsay McDougall, Erin McKenzie, Jon Mee, Marina Sharpe, Tom Watt) and was cited across this project as though it were the roster. The image was re-read in full after operator recall named two CITs the transcription did not have; both -- Chris Manitt and Tiff Bollhorn -- are plainly on the plaque. Surnames are ordered alphabetically down each block, which is itself usable evidence for constraining any name later found illegible.",
       "sources": [
         "src_flickr_kanawana_plaque_album"
       ],
       "confidence": "stated",
       "category": "directors",
       "entities": [
-        "Simon Heller",
-        "Paula Cussen",
+        "Kamp Kanawana",
+        "Chris Manitt",
+        "Tiff Bollhorn",
+        "Dan Aronson",
+        "Marina Sharpe",
         "Avigail Aronoff",
-        "Lindsay McDougall",
-        "CIT"
+        "Erin McKenzie",
+        "Sarah Addleman Frankel"
       ],
       "date_ref": "1995",
       "conflicts_with": [],
-      "added_version": "v4.90",
+      "added_version": "v5.63",
       "added_by": "auto_extraction"
     },
     {
@@ -28923,7 +28926,7 @@
     },
     {
       "fact_id": "f_1705",
-      "claim": "A carved 'Kanawana Staff 97' plaque (bark-edged, with a partly worn dedication reading approximately 'Dedicated to the staff of '97... you never know when you're making a memory') lists roughly 75 names across four columns, including Rick Cordi, Louis Lessard, and Hilary Thomson.",
+      "claim": "A carved 'Kanawana Staff 97' plaque (bark-edged, with a partly worn dedication reading approximately 'Dedicated to the staff of '97... you never know when you're making a memory') lists roughly 100 names across four columns. Named on it, among others: Rick Cordi, Louis Lessard, Hilary Thomson, Sarah Addleman Frankel, Avigail Aronoff, Tiff Bollhorn, Laura Davis, Marc Dunn, Adriana Greenblatt, Emily Lecker, Chris Manitt, Jonathan Mee, Nicolas Muszynski, Marina Sharpe, and Charles Shulman. TRANSCRIPTION EXTENDED 2026-08-28: this fact previously named only three of the roughly 100.",
       "sources": [
         "src_flickr_kanawana_plaque_album"
       ],
@@ -28936,7 +28939,7 @@
       ],
       "date_ref": "1997",
       "conflicts_with": [],
-      "added_version": "v4.90",
+      "added_version": "v5.63",
       "added_by": "auto_extraction"
     },
     {
@@ -39534,7 +39537,7 @@
     },
     {
       "fact_id": "f_2325",
-      "claim": "CHRIS MANITT -- a former Camp Kanawana staff member who chairs the governing board of Westmount High School. When this was first recorded the name appeared nowhere else in this KB, this wiki, or the 634-document YMCA of Montreal fonds corpus, and his Kanawana years were unknown; f_2326 (operator recall, same day) places him as a CIT in 1995. Any later staff seasons remain undocumented. He is recorded here solely for the institutional role through which he acted in the 2026 bus-point move (f_2324).",
+      "claim": "CHRIS MANITT -- a former Camp Kanawana staff member who chairs the governing board of Westmount High School. When this was first recorded the name appeared nowhere else in this KB, this wiki, or the 634-document YMCA of Montreal fonds corpus, and his Kanawana years were unknown; f_2326 (operator recall, same day) places him as a CIT in 1995. He is since documented on the Staff '97 plaque as well (f_2327), which substantiates 'former staff member'. He is recorded here solely for the institutional role through which he acted in the 2026 bus-point move (f_2324).",
       "sources": [
         "src_oral_aronson_westmount_bus_2026"
       ],
@@ -39552,11 +39555,13 @@
     },
     {
       "fact_id": "f_2326",
-      "claim": "CHRIS MANITT WAS A CIT AT KANAWANA IN 1995. The operator names him among that year's Counsellor-in-Training cohort together with Dan Aronson, Marina Sharpe, Avigail Aronoff, Erin MacIntyre and Tiffany Ballhorn, stating explicitly that there were more CITs whose names he could not recall -- so this is offered as a partial list, not a roster. Three of the six (Dan Aronson, Marina Sharpe, Avigail Aronoff) are independently corroborated by the 'CITS 95' dining-hall plaque (f_1614), which does NOT name Manitt or Ballhorn and names an ERIN MCKENZIE rather than an Erin MacIntyre. The plaque is not established as a complete roster, so absence from it is not evidence against Manitt or Ballhorn; the two Erins are recorded as an open question, not merged (c_027).",
+      "claim": "CHRIS MANITT WAS A CIT AT KANAWANA IN 1995. The operator names him among that year's Counsellor-in-Training cohort together with Dan Aronson, Marina Sharpe, Avigail Aronoff, Erin MacIntyre and Tiffany Ballhorn, stating explicitly that there were more CITs whose names he could not recall -- so this is offered as a partial list, not a roster. Three of the six (Dan Aronson, Marina Sharpe, Avigail Aronoff) are independently corroborated by the 'CITS 95' dining-hall plaque (f_1614), which does NOT name Manitt or Ballhorn and names an ERIN MCKENZIE rather than an Erin MacIntyre. RESOLVED 2026-08-28: the operator withdrew 'MacIntyre' on being shown the plaque -- it is Erin McKenzie, one person, and the recalled surname was a slip (c_027 resolved). FULLY CORROBORATED 2026-08-28: the plaque image was re-read end to end and BOTH Manitt and Bollhorn are on it -- the earlier transcription had captured only 11 of 29 names. Every one of the six names the operator recalled is on the plaque; his only error was Erin's surname, which he caught himself. See f_2327.",
       "sources": [
-        "src_oral_aronson_cit_1995"
+        "src_oral_aronson_cit_1995",
+        "src_oral_aronson_erin_correction",
+        "src_flickr_kanawana_plaque_album"
       ],
-      "confidence": "user_knowledge",
+      "confidence": "stated",
       "category": "people",
       "entities": [
         "Chris Manitt",
@@ -39564,14 +39569,49 @@
         "Dan Aronson",
         "Marina Sharpe",
         "Avigail Aronoff",
-        "Erin MacIntyre",
-        "Tiffany Ballhorn"
+        "Tiffany Ballhorn",
+        "Erin McKenzie"
       ],
       "date_ref": "1995",
-      "conflicts_with": [
-        "f_1614"
-      ],
+      "conflicts_with": [],
       "added_version": "v5.62",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_2327",
+      "claim": "CHRIS MANITT AND TIFF BOLLHORN ARE DOCUMENTED AT KANAWANA -- CITs in 1995, staff in 1997. Both are named on the 'CITS 95' plaque (f_1614) and again on the 'Kanawana Staff 97' plaque (f_1705). This confirms by document what had been recorded only as operator recall (f_2326), and it substantiates the description of Manitt as a 'former Camp Kanawana staff member' in the 2026 bus-point account (f_2324) -- a CIT year alone would not have. The operator gave the surname as 'Ballhorn'; both plaques paint it BOLLHORN, and the plaques govern. The 1995 plaque's 'SARAH A-FRANKEL' is also resolved here: the Staff '97 plaque writes her out as Sarah Addleman Frankel.",
+      "sources": [
+        "src_flickr_kanawana_plaque_album"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "Chris Manitt",
+        "Tiff Bollhorn",
+        "Kamp Kanawana",
+        "Sarah Addleman Frankel",
+        "Westmount High School"
+      ],
+      "date_ref": "1995-1997",
+      "conflicts_with": [],
+      "added_version": "v5.63",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_2328",
+      "claim": "THE CIT-TO-STAFF PIPELINE, VISIBLE AS A COHORT. At least twelve of the 29 CITs named on the 'CITS 95' plaque (f_1614) reappear two years later on the 'Kanawana Staff 97' plaque (f_1705): Sarah Addleman Frankel, Avigail Aronoff, Tiff Bollhorn, Laura Davis, Marc Dunn, Adriana Greenblatt, Emily Lecker, Chris Manitt, Jonathan Mee, Nicolas Muszynski, Marina Sharpe and Charles Shulman. This wiki has previously documented the CIT-to-staff progression only as individual careers (Reiko Webster 1986 CIT to 1992 CIT director; David Leduc 2002 LIT director to 2004 Camp Director; Matt Hamerman 2002 LIT to 2006 Section Director). The two plaques read together show it operating on a whole cohort at once -- roughly two in five of one CIT year still on the payroll two summers on.",
+      "sources": [
+        "src_flickr_kanawana_plaque_album"
+      ],
+      "confidence": "stated",
+      "category": "programs",
+      "entities": [
+        "Kamp Kanawana",
+        "CIT program"
+      ],
+      "date_ref": "1995-1997",
+      "conflicts_with": [],
+      "added_version": "v5.63",
       "added_by": "manual"
     }
   ]

@@ -23437,6 +23437,24 @@
       "notes": "Operator (Matt Aronson) recall, 2026-08-28, naming six of the 1995 CITs and stating explicitly that there were more he could not recall -- so this is a PARTIAL list offered as partial, not a roster. Supplied to place Chris Manitt at camp (p_289). Three of the six (Dan Aronson, Marina Sharpe, Avigail Aronoff) are independently corroborated by the documented 'CITS 95' plaque (f_1614); one (Chris Manitt) and one (Tiffany Ballhorn) are absent from it; one (Erin MacIntyre) shares a first name with the plaque's Erin McKenzie and may or may not be the same person -- see conflict c_027. The operator was himself a Junior Counsellor in 1994 and a Packer in 1995-96, so he was on site the season he is recalling.",
       "read_state": "extracted",
       "read_state_basis": "derived:cited-by-fact"
+    },
+    {
+      "source_id": "src_oral_aronson_erin_correction",
+      "type": "oral_history",
+      "title": "Operator correction: the 1995 CIT was Erin McKenzie, not Erin MacIntyre",
+      "date": "2026-08-28",
+      "date_precision": "exact",
+      "origin": "user_provided",
+      "origin_url": null,
+      "cache_path": null,
+      "char_count": 0,
+      "ingested_at": "2026-08-28T00:00:00Z",
+      "extracted": true,
+      "extraction_version": "v5.63",
+      "reliability": "primary",
+      "notes": "Operator (Matt Aronson) withdrew his own recalled surname on being shown the 'CITS 95' plaque transcription: 'It was Erin McKenzie, I misremembered the surname.' Resolves c_027 to one person, not two, in the documented source's favour. Note the direction of the correction -- the operator corrected himself against the document rather than the reverse; the 2026-07-07 directive was never invoked.",
+      "read_state": "extracted",
+      "read_state_basis": "derived:cited-by-fact"
     }
   ],
   "source_count": 685
