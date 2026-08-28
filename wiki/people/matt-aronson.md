@@ -1,7 +1,7 @@
 # Matt Aronson
 
-*Status: draft | Sources: 4*
-*Last Updated: 2026-07-11*
+*Status: draft | Sources: 5*
+*Last Updated: 2026-08-28*
 
 ## Overview
 
@@ -22,6 +22,8 @@ Aronson created the "Spirit of Kanawana" blog (kanawana.blogspot.com) after a di
 ## Public and Professional Role
 
 Aronson is a McGill University Faculty of Law graduate and an attorney at Adessky Attorneys, practising primarily as an immigration lawyer.^4 He serves as a City Councillor for Westmount's District 7, and is a member of the YMCA Kanawana Alumni Awards committee.^4
+
+Those two roles — Westmount councillor and Kanawana alumnus — met in the spring of 2026, when the camp lost its Montreal bus point. École secondaire Pierre-Laporte notified Kanawana that its parking lot would be unavailable for the summer because of late-scheduled renovations, and Executive Camp Director Marie-Pierre Lacasse asked Aronson to help secure the Westmount Library lot in its place. Judging that lot far too small for a full session's pick-up and drop-off, he instead proposed approaching **Chris Manitt**, a former Camp Kanawana staff member who chairs the governing board of Westmount High School; Manitt secured the principal's permission, and Aronson coordinated with Westmount Public Safety on traffic and parking. The 2026 parent guide records the outcome as a bare address change "due to circumstances beyond our control." See [[history/modern-era|The Modern Era]], "A Bus Stop Moved (2026)."^5
 
 ## Open Questions
 
@@ -44,6 +46,7 @@ Aronson is a McGill University Faculty of Law graduate and an attorney at Adessk
 2. Kanawana Flickr "Plaque" album, "C.I.T.'s of '93" [src_flickr_kanawana_plaque_album].
 3. Les YMCA du Québec, Rapport Annuel 2009, Kamp Kanawana local advisory committee listing [src_ymcaquebec_annualreport_2009].
 4. Spirit of Kanawana blog (kanawana.blogspot.com) [src_spirit_kanawana_blog].
+5. Oral history, Matt Aronson, 28 August 2026 [src_oral_aronson_westmount_bus_2026]; Kamp Kanawana parent preparation guide 2026 [src_kk_prep_guide_2026]. The operator is a participant in the account he supplied; it is uncorroborated by any document held here.
 
 ## Research Notes
 

@@ -1,7 +1,7 @@
 # The Modern Era: The Two-Tier Era (1995–Present)
 
-*Status: draft | Sources: 13*
-*Last Updated: 2026-08-14*
+*Status: draft | Sources: 16*
+*Last Updated: 2026-08-28*
 
 ## Overview
 
@@ -62,6 +62,36 @@ but says only that she attended summer camps generally from age eight — it doe
 childhood camping here. Whether she is the curator of the same name is unresolved; see
 [[people/notable-alumni/notable-alumni|Notable Alumni]], Open Question 2.)
 
+## A Bus Stop Moved (2026)
+
+The camp's own 2026 parent guide records a change to the Montreal pick-up and drop-off point, and
+declines to explain it. Where the 2025 guide gave the meeting point as "École secondaire
+Pierre-Laporte : 1101 Rockland Road | Mont-Royal," the 2026 guide replaces it: "**Due to
+circumstances beyond our control**, we would like to inform you that the bus meeting point will now
+be **WESTMOUNT HIGH SCHOOL** : 4350 Sainte-Catherine Street | Westmount." The word *Rockland*
+appears nowhere in the 2026 guide.^15
+
+What that institutional phrase conceals is a specific chain of people, and one of them was a former
+Kanawana staff member. In late spring 2026, Pierre-Laporte notified the camp that its parking lot
+would be unavailable for the coming summer because of renovations scheduled late. Executive Camp
+Director [[people/marie-pierre-lacasse|Marie-Pierre Lacasse]] asked
+[[people/matt-aronson|Matt Aronson]] — alumnus, former Program Director, and by then a Westmount
+city councillor — to help secure the Westmount Library parking lot instead. Aronson judged that lot
+far too small to absorb an entire session's worth of campers arriving at once, and proposed a
+different approach: **Chris Manitt**, a former Camp Kanawana staff member, chairs the governing board
+of Westmount High School. Manitt obtained the local principal's permission for the school lot to be
+used, and Aronson coordinated with Westmount Public Safety so that a bus loading of that size would
+not produce unexpected traffic or parking problems on the surrounding streets. As of the end of
+summer 2026, the arrangement had satisfied all parties.^16
+
+This is an operator account of events in which the operator was himself a participant, and no
+document held by this project records any part of it — the guide's own wording is the only written
+trace, and it was written precisely to say nothing. It is kept here for what it shows rather than
+for the logistics: a routine seasonal problem solved in two moves through the camp's alumni network,
+one alumnus calling another, three decades after both had left staff. Manitt appears nowhere else in
+this wiki, in the knowledge base, or in the 634-document YMCA of Montreal fonds corpus; his own
+Kanawana years are unknown.^16
+
 ## Open Questions
 
 1. [Important] How exactly did the annual reports' single "Director" listings track the Executive-versus-on-site split in years like 2001–2007, when the record shows apparent inconsistencies (e.g. François Dauphin's 2007 head-office title alongside Sean Day's on-site presence)? See [[people/directors-index|Directors and Staff of Camp Kanawana]]'s Open Questions for the full discussion.
@@ -98,6 +128,8 @@ childhood camping here. Whether she is the curator of the same name is unresolve
 12. TELUS Community Board, 2010: $50,000 toward a three-season educational pavilion [src_telus_kanawana].
 13. YMCAs of Québec annual impact and community reports, 2020, 2021, 2022, 2023, 2024 and 2025 (Concordia-digitized fonds on Internet Archive) [src_ia_ymca_montreal_fonds_collection].
 14. Wong, Jessica. "With camps, summer programs awaiting the go-ahead, what are kids in for this summer?" *CBC News*, 29 April 2021 [src_cbc_wong_camps_2021]. URL: https://www.cbc.ca/news/canada/summer-camps-programs-considerations-1.6002785 — **not** the two sleepaway-camp articles previously cited for this material, which were re-read in full on 2026-08-25 and contain neither name. See [f_0924], [f_2256].
+15. Kamp Kanawana parent preparation guides, 2025 and 2026 [src_kk_prep_guide_2026], [src_kk_prep_guide_2025]. See [f_2314].
+16. Oral history, Matt Aronson, 28 August 2026 [src_oral_aronson_westmount_bus_2026]. See [f_2324], [f_2325]. Uncorroborated by any document; the operator is a participant in the account.
 
 ## Research Notes
 
