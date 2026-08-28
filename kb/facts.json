@@ -1,8 +1,8 @@
 {
- "version": "5.55",
- "kb_version": "v5.55",
+ "version": "5.58",
+ "kb_version": "v5.58",
  "migrated_from": "3.3",
- "fact_count": 2267,
+ "fact_count": 2275,
  "facts": [
   {
    "fact_id": "f_0001",
@@ -39213,6 +39213,142 @@
    "date_ref": "1943-1978",
    "conflicts_with": [],
    "added_version": "v5.55",
+   "added_by": "ralph_loop"
+  },
+  {
+   "fact_id": "f_2306",
+   "claim": "THE 1953 KANAWANA MANUAL OF OPERATIONS, fully itemised from Roy D. Locke's own article (Canadian Camping, June 1953, p.15). Four sections. PROGRAM: 'a simple statement of our camp objectives such as emphasis on simple living in the out-of-doors, Christian motivation'; sample menus for hikes and canoe trips; 'a seven page outline \"Things a new staff member needs to know about Kanawana\". This is very valuable. It eases the orientation period'; detailed duties for each staff person; copies of the canoeing, rowing, sailing and swimming tests. ADMINISTRATION: staff and counsellor remuneration, pre-camp training and evaluation with outlines of existing training courses; a purchasing list naming each company, address, phone and contact; duties for the CITY CAMP OFFICE covering promotion, registration, bills, TRAIN ARRANGEMENTS, refunds, parent contacts and lost-and-found; the camp business office covering food control, inventories, campers' monies and tuck shop; a typical two-week menu; emergency procedures and the operation of the CAMP HOSPITAL. GENERAL: samples of every form -- counsellor contracts, application forms, confidential forms, clothing lists, medical sheets. Locke's framing: 'At the present time in Canada there is no school for Camp Directors... directors of camps develop skill the hard way -- by making mistakes and profiting from them.'",
+   "sources": [
+    "src_ia_canadian_camping_1953_06"
+   ],
+   "confidence": "stated",
+   "category": "documents",
+   "entities": [
+    "Kamp Kanawana",
+    "Roy D. Locke"
+   ],
+   "date_ref": "1953",
+   "conflicts_with": [],
+   "added_version": "v5.56",
+   "added_by": "ralph_loop"
+  },
+  {
+   "fact_id": "f_2307",
+   "claim": "A 1953 KANAWANA BUILDING SURVEY, described by Roy D. Locke: 'A wide variety of buildings and equipment had been erected without a carefully considered plan of development. We had a log cabin painted with whitewash, cabins with painted clapboard, cabins with log slab siding, some with brown stain, some with the bark still on. To bring order to this situation we NUMBERED EACH BUILDING and developed a listing of the material in footing, walls, roof, their colour and their condition. The buildings were divided into three groups, poor condition, good condition, excellent condition. Each building was examined and a detailed recommendation was made as to necessary repairs and changes.' Also recorded: 'THE THIRTY-TWO DIFFERENT LOCKS were changed to a Yale master key system' -- a proxy for the number of lockable structures on site c.1953 -- plus standards for the repair and painting of 'our fleet of boats, canoes, and dinghies', and procedures for fire drill, extinguishers, pumps, refrigeration and the truck. A NUMBERED BUILDING INVENTORY WITH CONDITION GRADES EXISTED IN 1953; no copy is known to survive.",
+   "sources": [
+    "src_ia_canadian_camping_1953_06"
+   ],
+   "confidence": "stated",
+   "category": "site",
+   "entities": [
+    "Kamp Kanawana",
+    "Roy D. Locke"
+   ],
+   "date_ref": "1953",
+   "conflicts_with": [],
+   "added_version": "v5.56",
+   "added_by": "ralph_loop"
+  },
+  {
+   "fact_id": "f_2308",
+   "claim": "'OUR PROPERTY WAS SURVEYED' -- 1953, and it bears on conflict c_026. Roy D. Locke writes: 'Our property was surveyed and an expert forester employed to give a careful report on our 360 ACRES OF FOREST for purposes of \"thinning out\" dead trees and replanting areas where necessary.' TWO THINGS FOLLOW. (1) A new figure enters the acreage series: 360 acres OF FOREST in 1953 -- forest cover, not total property, so it is not directly comparable to the 455 land / 537 total of 1989, and it sits sensibly below them. (2) It does NOT contradict the 1988 report's 'There was no record found that showed the Kanawana site has ever been surveyed'. That was a statement about records FOUND IN 1988, not about whether a survey ever happened. Read together they say a survey was done around 1953 and its record was lost within thirty-five years -- which STRENGTHENS the c_026 resolution rather than reopening it, by showing documentary loss was occurring. c_026 stays resolved; this is added as corroborating context. Locke also states plainly, in the same article: 'Our boys' camp was established in 1894. It has been on its present site since 1910.'",
+   "sources": [
+    "src_ia_canadian_camping_1953_06"
+   ],
+   "confidence": "stated",
+   "category": "site",
+   "entities": [
+    "Kamp Kanawana",
+    "Roy D. Locke"
+   ],
+   "date_ref": "1953",
+   "conflicts_with": [],
+   "added_version": "v5.56",
+   "added_by": "ralph_loop"
+  },
+  {
+   "fact_id": "f_2309",
+   "claim": "NORREY OWENS IS O. N. H. OWENS -- established 2026-08-25 by an office, not a name. The complete Canadian Camping run shows both forms holding the same post in the same association: June 1954, 'THE QUEBEC CAMPING ASSOCIATION... President -- Mr. O. N. H. OWENS' (with Agnes Mutchler as VP and A. Ross Seaman as Conference Chairman); January 1976, the QCA membership roll lists 'Owens, Mr. O.N.H. -- Quebec Camping Association', i.e. a current member in the year the Order of Owens was founded; and March 1977, a conference report naming 'an impressive list of past presidents of Q.C.A. in attendance, namely; NORREY OWENS, Zave Ettinger, Ross Seaman, Bob Jlazanick, Peter van Wagner, Bill McCarthy and Val Willis.' The same-named-son alternative collapses: a son would not appear on the roll of the association's past presidents. His documented service therefore runs 1929-1977, FORTY-EIGHT YEARS, and the 1977 conference is the latest confirmed sighting. STILL UNPROVEN: whether he is the 'OWENS, OWEN NORREYS HARRINGTON' of the LAC First World War file, and his birth and death dates. Also newly recorded: the 1937 annual report credits his Kanawana Committee chairmanship with a season of 310 boys for 1,092 camper-weeks, against 259 boys for 917 weeks the previous year.",
+   "sources": [
+    "src_ia_canadian_camping_1954_06",
+    "src_ia_canadian_camping_1976_01",
+    "src_ia_canadian_camping_1977_03",
+    "src_ia_ymca_montreal_annual_reports_collection"
+   ],
+   "confidence": "inferred",
+   "category": "people",
+   "entities": [
+    "O. N. H. Owens",
+    "Norrey Owens",
+    "Quebec Camping Association"
+   ],
+   "date_ref": "1929-1977",
+   "conflicts_with": [],
+   "added_version": "v5.57",
+   "added_by": "ralph_loop"
+  },
+  {
+   "fact_id": "f_2310",
+   "claim": "p_283 RESULT -- THE 1962/1963 AUDIO REELS ARE NOT ON CONCORDIA RMA's YOUTUBE CHANNEL. The channel (@concordiauniversityrecords5540) was enumerated by video id and every title resolved via oembed, then searched directly for 'kanawana', 'kamp kanawana', 'otoreke', 'interview', 'what is god' and 'woodsman'. Camp items found, ALL of them moving images: ZrUuQ1SU7q8 'YMCA: Kamp Kanawana (no sound)', _bznoSFg3MU the 1993 Cathy Reeves documentary, cP_V1Fn2kUQ 'Canoe Trips' (P0145-09-0066), and 95NB-6BE3mM 'Voyageurs (1963)'. Also on the channel but not camp-specific: 'YMCA Montreal: 150 ans de devouement - 150 Years of Caring' and 'Video Construction YMCA Montreal (2001)'. The pattern is consistent with the reference codes: the channel carries the P0145/09 MOVING IMAGE series, while the interview recordings are P0145/11 AUDIO REELS. P0145-11-0193 and P0145-11-0197 therefore remain unheard and must be requested from the archive.",
+   "sources": [
+    "src_ia_ymca_montreal_fonds_collection"
+   ],
+   "confidence": "stated",
+   "category": "documents",
+   "entities": [
+    "Kamp Kanawana"
+   ],
+   "date_ref": "2026-08-25",
+   "conflicts_with": [],
+   "added_version": "v5.58",
+   "added_by": "ralph_loop"
+  },
+  {
+   "fact_id": "f_2311",
+   "claim": "p_202 RESULT -- THE KANAWANA FLICKR ACCOUNT CANNOT HOLD THE EARLIEST L&V PHOTOGRAPH, and its catalogue is now recorded. The account's album list was extracted from the JSON model embedded in its own page (the rendered page is JavaScript-only). 25 albums, 3,926 photographs, spanning 2009 to 2013 only: Sessions 3 and 4 of 2009; Sessions 1-4, Advance Guard and Open House of 2010-2013; Staff Pics 2011; Staff Hockey Cards 2012; 'Kanawana 2013 Group Photos'. EXACTLY ONE ALBUM IS L&V-LABELLED -- 'L & V 2012', 204 photographs (album id 72157631162302448). Since the account begins in 2009, it cannot contain an L&V photograph earlier than that, so p_202's premise is refuted: Flickr is not where the earliest surviving L&V image will be found. The Concordia photograph series (P0145/02) and the physical archive are the remaining routes.",
+   "sources": [
+    "src_ia_ymca_montreal_fonds_collection"
+   ],
+   "confidence": "stated",
+   "category": "documents",
+   "entities": [
+    "Kamp Kanawana"
+   ],
+   "date_ref": "2026-08-25",
+   "conflicts_with": [],
+   "added_version": "v5.58",
+   "added_by": "ralph_loop"
+  },
+  {
+   "fact_id": "f_2312",
+   "claim": "p_207 RESULT -- THE PINE CREST BLOCK WAS TRANSIENT, AND THE PAGE IS NOT WORTH MORE ATTEMPTS. 'Lumbermen & Voyageurs: The YMCA Pine Crest Story' had been recorded twice as HTTP 429 rate-limited and treated as blocked. On 2026-08-25 the shop page returned HTTP 200 and was read in full. It contains ONLY marketing copy -- 'covers 100 years of camping magic... written to commemorate the 100 year anniversary of Camp Pine Crest' -- with no table of contents, no excerpt, no cheer text and no origin story. The book is $25.00 and purchasable. So the 429 was a rate limit, not a wall, and the real obstacle was never the fetch: the contents are simply not published online. Acquisition (purchase or interlibrary loan) is the only route, and it matters more since 2026-08-25, when Greig Macdiarmid -- Kanawana's Camp Chief 1935-1939 -- was found to have driven Camp Pine Crest's expansion as General Secretary of the Toronto YMCA before his death in 1962 (f_2284).",
+   "sources": [
+    "src_ia_ymca_montreal_fonds_collection"
+   ],
+   "confidence": "stated",
+   "category": "sources",
+   "entities": [
+    "Kamp Kanawana"
+   ],
+   "date_ref": "2026-08-25",
+   "conflicts_with": [],
+   "added_version": "v5.58",
+   "added_by": "ralph_loop"
+  },
+  {
+   "fact_id": "f_2313",
+   "claim": "p_196 RESULT -- THE BOOK IS IDENTIFIED BUT NOT DIGITIZED. 'Saint-Sauveur: Son histoire, notre patrimoine' is by LORRAINE DAGENAIS in collaboration with CARMELLE HUPPE, published by the Societe d'histoire et de genealogie des Pays-d'en-Haut in 2019 and since reprinted. It is sold locally in Saint-Sauveur (a RONA Dagenais notice advertises it). No digitized copy or BAnQ online edition was found. It is the cited source for the Olivier Charron pre-camp landowner detail (f_1815) and may carry further pre-camp land history. Acquisition is physical and local -- and the SHGPH is already the target of p_208 (the 'Hommage a Telesphore Page' request), so the two should be one approach to one organisation.",
+   "sources": [
+    "src_ia_ymca_montreal_fonds_collection"
+   ],
+   "confidence": "stated",
+   "category": "sources",
+   "entities": [
+    "Kamp Kanawana"
+   ],
+   "date_ref": "2026-08-25",
+   "conflicts_with": [],
+   "added_version": "v5.58",
    "added_by": "ralph_loop"
   }
  ]

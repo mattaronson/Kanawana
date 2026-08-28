@@ -13159,6 +13159,42 @@
    "notes": "Born 15 April 1865, Danville, Estrie, Quebec; died 1 April 1944, Toronto. Springfield 1892. Full YMCA career to 1941. NOTE: its Montreal (1892-94) and Winnipeg (1892-1901) ranges overlap and cannot both be right; Patton's own memoir is preferred for those dates.",
    "read_state": "extracted",
    "read_state_basis": "asserted:fetched-and-read"
+  },
+  {
+   "source_id": "src_ia_canadian_camping_1954_06",
+   "type": "periodical",
+   "title": "Canadian Camping Vol. 6 No. 3, June 1954 — QCA new executive",
+   "date": "1954",
+   "date_precision": "exact",
+   "origin": "internet_archive",
+   "origin_url": "https://archive.org/details/canadiancampingmagazine_vol6no3_1954June",
+   "cache_path": "sources/cache/canadian-camping/",
+   "char_count": 0,
+   "ingested_at": "2026-08-25T00:00:00Z",
+   "extracted": true,
+   "extraction_version": "v5.57",
+   "reliability": "secondary",
+   "notes": "Individual issue from the cached 164-issue run.",
+   "read_state": "extracted",
+   "read_state_basis": "asserted:read-in-full-from-cached-corpus"
+  },
+  {
+   "source_id": "src_ia_canadian_camping_1977_03",
+   "type": "periodical",
+   "title": "Canadian Camping Magazine Vol. 29 No. 2, March 1977 — QCA past presidents",
+   "date": "1977",
+   "date_precision": "exact",
+   "origin": "internet_archive",
+   "origin_url": "https://archive.org/details/canadiancampingmagazine_vol29_no2_1977march",
+   "cache_path": "sources/cache/canadian-camping/",
+   "char_count": 0,
+   "ingested_at": "2026-08-25T00:00:00Z",
+   "extracted": true,
+   "extraction_version": "v5.57",
+   "reliability": "secondary",
+   "notes": "Individual issue from the cached 164-issue run.",
+   "read_state": "extracted",
+   "read_state_basis": "asserted:read-in-full-from-cached-corpus"
   }
  ],
  "source_count": 685

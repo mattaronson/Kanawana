@@ -64,7 +64,7 @@
    "assigned_weight": "P1",
    "created_at": "2026-08-25T00:00:00Z",
    "status": "pending",
-   "notes": "Spawned by p_278. Contemporaneous camper voice, 1962-63.",
+   "notes": "2026-08-25: CONFIRMED NOT ON THE RMA YOUTUBE CHANNEL (f_2310). Channel enumerated and searched; every camp item found is a P0145/09 MOVING IMAGE, while these are P0145/11 AUDIO REELS. Remains an archive request inside the p_282 letter -- but the 'check YouTube first' step of this task is now done and should not be repeated.",
    "tier": "1-YIELD"
   },
   {
@@ -138,10 +138,11 @@
    "description": "Confirm or refute the O. N. H. Owens identification behind the Order of Owens. He is documented in Montreal YMCA camping service 1929-1964 -- Chairman of the Kanawana Committee in 1937-38 (named on the camp's own letterhead beside Director W. J. G. Macdiarmid), Chairman of Camp Perrot's Board of Management through the 1940s-50s. A Library and Archives Canada First World War file exists for \"OWENS, OWEN NORREYS HARRINGTON\" -- initials match, \"Norrey\" is the natural short form of Norreys -- but the LAC record returns Cloudflare 403 to automated fetch and needs a human or an authenticated route. Also still unknown: what April 13, 1976 commemorates.",
    "article_id": null,
    "blocking": false,
-   "assigned_weight": "P0",
+   "assigned_weight": "P2",
    "created_at": "2026-08-14T00:00:00Z",
-   "status": "pending",
-   "tier": "1-YIELD"
+   "status": "partially_complete",
+   "tier": "1-YIELD",
+   "notes": "2026-08-25: THE INTERNAL IDENTIFICATION IS MADE. Norrey Owens = O. N. H. Owens, established by the Quebec Camping Association presidency which both forms of the name hold (QCA President June 1954; O.N.H. Owens on the January 1976 membership roll; 'Norrey Owens' listed among QCA past presidents March 1977). Service span extended 1929-1977. STILL OPEN and now the whole of the task: (a) the LAC First World War file for 'OWENS, OWEN NORREYS HARRINGTON' -- Cloudflare 403 to automated fetch, needs a human or authenticated route; (b) birth and death dates; (c) what 13 April 1976 commemorates -- the corpus sweep found nothing, and the article already establishes it is NOT a death date since Owens presented the award in person that August."
   },
   {
    "priority_id": "p_145",
@@ -173,11 +174,11 @@
    "priority_id": "p_208",
    "rank": 14,
    "type": "RESEARCH",
-   "description": "Contact SHGPH directly (info@shgph.org, 450-744-0182) to request 'Hommage à Télesphore Pagé,' La Mémoire de la Vallée de Saint-Sauveur, bulletin no. 81, hiver 1999 -- now identified by exact title/issue, a much more targeted request than a general inquiry, and likely to confirm whether Télesphore Pagé (d. 1961) was the seller of the 1960 'Pagé farm.'",
+   "description": "Contact SHGPH directly (info@shgph.org, 450-744-0182) to request 'Hommage à Télesphore Pagé,' La Mémoire de la Vallée de Saint-Sauveur, bulletin no. 81, hiver 1999 -- now identified by exact title/issue, a much more targeted request than a general inquiry, and likely to confirm whether Télesphore Pagé (d. 1961) was the seller of the 1960 'Pagé farm.' | ADDENDUM 2026-08-25 (p_196): the same request should also ask about 'Saint-Sauveur: Son histoire, notre patrimoine' by Lorraine Dagenais with Carmelle Huppe (SHGPH, 2019, reprinted) -- the cited source for the Olivier Charron pre-camp landowner detail (f_1815) and a likely source of further pre-camp land history. Not digitized; sold locally.",
    "article_id": "page-family",
    "blocking": true,
    "blocking_reason": "Requires an operator-initiated direct contact with SHGPH; not resolvable via automated web search.",
-   "assigned_weight": "P2",
+   "assigned_weight": "P1",
    "created_at": "2026-07-09T22:00:00Z",
    "status": "pending",
    "tier": "1-YIELD"
@@ -231,8 +232,9 @@
    "blocking": false,
    "assigned_weight": "P3",
    "created_at": "2026-07-09T06:00:00Z",
-   "status": "pending",
-   "tier": "1-YIELD"
+   "status": "folded",
+   "tier": "1-YIELD",
+   "notes": "2026-08-25: book identified -- Lorraine Dagenais with Carmelle Huppe, SHGPH, 2019, reprinted; sold locally in Saint-Sauveur; NOT digitized (f_2313). FOLDED INTO p_208, which already targets the same organisation (SHGPH, info@shgph.org, 450-744-0182). One approach, two asks."
   },
   {
    "priority_id": "p_202",
@@ -241,10 +243,11 @@
    "description": "Manually browse the Kanawana Flickr account (~4,416 photos) and/or Facebook photo archive to find and date the earliest surviving L&V Games photograph -- not resolvable via text search/WebFetch, requires visual browsing.",
    "article_id": "lv-games",
    "blocking": false,
-   "assigned_weight": "P3",
+   "assigned_weight": "P4",
    "created_at": "2026-07-09T11:00:00Z",
-   "status": "pending",
-   "tier": "1-YIELD"
+   "status": "partially_complete",
+   "tier": "1-YIELD",
+   "notes": "2026-08-25: PREMISE REFUTED (f_2311). The account's albums were extracted from the JSON embedded in its own page: 25 albums, 3,926 photos, 2009-2013 ONLY, with exactly one L&V-labelled album ('L & V 2012', 204 photos, id 72157631162302448). Because the account starts in 2009 it cannot hold an earlier L&V photograph. Downgraded to P4. The earliest surviving L&V image, if one exists, will be in the Concordia P0145/02 photograph series or the physical archive."
   },
   {
    "priority_id": "p_207",
@@ -256,7 +259,8 @@
    "assigned_weight": "P3",
    "created_at": "2026-07-09T22:00:00Z",
    "status": "pending",
-   "tier": "1-YIELD"
+   "tier": "1-YIELD",
+   "notes": "2026-08-25: the twice-recorded HTTP 429 was TRANSIENT -- the shop page returned 200 and was read in full. It carries only marketing copy: no contents, no excerpt, no cheer text (f_2312). The obstacle was never the fetch. $25, purchasable; acquisition or ILL is the only route, and it matters more now that Macdiarmid is documented as having driven Pine Crest's expansion (f_2284)."
   },
   {
    "priority_id": "p_178",
@@ -3682,8 +3686,8 @@
    "blocking": false,
    "assigned_weight": "P1",
    "created_at": "2026-08-25T00:00:00Z",
-   "status": "pending",
-   "notes": "Spawned by the p_270 sweep."
+   "status": "partially_complete",
+   "notes": "2026-08-25: the MANUAL ITSELF is still not found, but the June 1953 article that describes it has now been read IN FULL from the cached corpus and is a substantial digest -- every section itemised (f_2306), plus two findings that stand on their own: a 1953 numbered building inventory with condition grades and a thirty-two-lock master-key conversion (f_2307), and Locke's statement that 'our property WAS surveyed' with a forester's report on '360 acres of forest' (f_2308), which contextualises rather than reopens c_026. The physical manual remains an ask in the p_282 letter."
   },
   {
    "priority_id": "p_286",

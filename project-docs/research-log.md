@@ -4442,3 +4442,72 @@ too, including a 1968 Youth-and-Industry pilot he conceived as Lachine-Dorval's 
 All five moved **stub → draft**. `p_254` closed; `p_287` opened for the R3 pass, naming the three
 items that need **primary re-reading rather than more searching**: the interleaved 1962 page, the
 Montreal West mayoralty, and the 1972–74 Potts/Robitaille sequence.
+
+---
+
+## 2026-08-25 — Tier 1 self-serve batch: p_283, p_237, p_285, p_196, p_202, p_207
+
+Six items, all worked. Two produced substantive findings, three produced clean nulls that narrow
+future effort, and one turned out to have been mis-blocked all along.
+
+### p_237 — Norrey Owens is O. N. H. Owens. Identified by an office, not a name.
+
+The article had this as a "strong lead, not an identification," unable to exclude a same-named son
+across the 1938-to-1976 gap. The complete *Canadian Camping* run closes it: both forms of the name
+hold **the same post in the same association**. June 1954, "The Quebec Camping Association…
+**President — Mr. O. N. H. Owens**." January 1976, the QCA membership roll: "**Owens, Mr. O.N.H.**" —
+a current member in the year the award was founded. March 1977, a conference report listing "past
+presidents of Q.C.A. in attendance, namely; **Norrey Owens**, Zave Ettinger, Ross Seaman…"
+
+A son would not appear on the roll of the association's past presidents. His documented service now
+runs **1929–1977, forty-eight years**. Still open, and now the whole of the task: the LAC First World
+War file (Cloudflare 403), his dates, and what 13 April 1976 commemorates — the corpus sweep found
+nothing on that, and the article already establishes it is not a death date.
+
+### p_285 — the manual is still lost, but its description is a document in its own right
+
+The June 1953 article was read in full from the cached corpus rather than in the snippet form used
+earlier, and it yields three things beyond the manual's contents:
+
+- **A 1953 building survey.** "We had a log cabin painted with whitewash, cabins with painted
+  clapboard, cabins with log slab siding, some with brown stain, some with the bark still on. To bring
+  order to this situation we **numbered each building**" — with material, colour and condition
+  recorded, graded poor/good/excellent, each with repair recommendations. Also: "**the thirty-two
+  different locks** were changed to a Yale master key system," a usable proxy for the built plant's
+  size.
+- **"Our property was surveyed."** Locke reports "an expert forester employed to give a careful report
+  on our **360 acres of forest**." This does **not** reopen `c_026`. The 1988 report said no record was
+  *found in 1988* showing a survey — not that none happened. Read together they say a survey was done
+  around 1953 and its record was lost within thirty-five years, which strengthens the resolution by
+  demonstrating the documentary loss.
+- Locke states plainly: "Our boys' camp was established in 1894. It has been on its present site since
+  1910."
+
+### p_283 — the recordings are not on YouTube, and the reason is systematic
+
+The RMA channel was enumerated and searched. Every camp item on it is a **P0145/09 moving image**;
+the two interview recordings are **P0145/11 audio reels**. The channel carries film, not tape. That
+step of the task is now done and should not be repeated — the reels remain an archive request.
+
+### p_202 — premise refuted
+
+The Flickr account's albums were extracted from the JSON embedded in its own page. **25 albums, 3,926
+photographs, 2009–2013 only**, with exactly one L&V-labelled album: "**L & V 2012**," 204 photographs.
+Because the account begins in 2009 it *cannot* hold an earlier L&V photograph. Flickr is not where the
+earliest surviving L&V image will be found; the Concordia P0145/02 photograph series is. Downgraded to
+P4.
+
+### p_207 — mis-blocked
+
+The Pine Crest shop page had been recorded twice as HTTP 429 and treated as blocked. It returned 200
+today and was read in full: **only marketing copy**, no contents, no excerpt, no cheer text. So the
+429 was a rate limit rather than a wall, **and the fetch was never the obstacle** — the contents
+simply are not published online. The book is $25 and purchasable, and it matters more than it did
+last week, now that Macdiarmid is documented as having driven Pine Crest's expansion after leaving
+Kanawana.
+
+### p_196 — identified, not digitized, and folded
+
+*Saint-Sauveur: Son histoire, notre patrimoine*, by **Lorraine Dagenais with Carmelle Huppé**, SHGPH,
+**2019**, since reprinted and sold locally. No digitized copy. Folded into `p_208`, which already
+targets the same organisation — one approach, two asks — and `p_208` reweighted to P1.

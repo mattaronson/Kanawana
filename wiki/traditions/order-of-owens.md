@@ -29,7 +29,27 @@ The criteria have also survived nearly intact. The 1976 wording — "best exempl
 
 A single figure in the Montreal YMCA's records fits, though the identification is **not confirmed**. An **O. N. H. Owens** appears across thirty-five years of Montreal YMCA camping service: listed as "N. H. Owens" in 1929; captioned "O.N.H. Owens, Chairman, Kanawana Com." in a 1937 photograph; printed on 1938 Kanawana letterhead as "O. N. H. OWENS, Chairman" beside "W. J. G. MACDIARMID, Director"; Chairman of the Board of Management of Camp Perrot through the 1940s and 1950s; and in 1964, heading a special YMCA committee.^5 A man who chaired the Kanawana Committee in the late 1930s is exactly the sort of person who would endow a Kanawana canoe-tripping award in 1976.
 
-The name link is suggestive but unproven. A Library and Archives Canada First World War personnel file exists for **"OWENS, OWEN NORREYS HARRINGTON"** — initials matching O.N.H. exactly, with "Norrey" a natural short form of *Norreys*, and the 1929 listing as "N. H. Owens" independently suggesting a man who dropped his leading given name.^5 Against it: the LAC record could not be opened, no document in the digitized corpus spells his given names out, and thirty-eight years separate the 1938 chairmanship from the 1976 presentation — the 1964 reference narrows that to twelve and makes the same-man reading comfortable, but a same-named son cannot be excluded. Recorded here as a strong lead, not an identification.
+**The identification is now made, on 2026-08-25, by an office rather than a name.** A sweep of the
+complete *Canadian Camping* run found the two forms of the name holding **the same post in the same
+association**:
+
+- **June 1954** — "THE QUEBEC CAMPING ASSOCIATION … **President — Mr. O. N. H. Owens**," with Agnes
+  Mutchler as Vice-President and A. Ross Seaman as Conference Chairman.^6
+- **January 1976** — the QCA membership roll lists "**Owens, Mr. O.N.H. — Quebec Camping
+  Association**." He is a current member in the very year the award was founded.^7
+- **March 1977** — a conference report names "an impressive list of past presidents of Q.C.A. in
+  attendance, namely; **Norrey Owens**, Zave Ettinger, **Ross Seaman**, Bob Jlazanick, Peter van
+  Wagner, Bill McCarthy and Val Willis."^8
+
+**"O. N. H. Owens" was QCA president; "Norrey Owens" is listed as a QCA past president.** Same office,
+same small provincial association, same surname, seven months either side of the award's founding.
+The same-named-son reading, which the earlier version of this section could not exclude, collapses
+here: a son would not appear on the roll of the association's past presidents. **This article now
+treats Norrey Owens and O. N. H. Owens as one man**, and his documented service runs **1929 to 1977 —
+forty-eight years**, longer than the thirty-five previously recorded.
+
+What is still *not* confirmed is the further step to the Library and Archives Canada file. The name
+link there remains suggestive but unproven. A Library and Archives Canada First World War personnel file exists for **"OWENS, OWEN NORREYS HARRINGTON"** — initials matching O.N.H. exactly, with "Norrey" a natural short form of *Norreys*, and the 1929 listing as "N. H. Owens" independently suggesting a man who dropped his leading given name.^5 Against it: the LAC record could not be opened, no document in the digitized corpus spells his given names out, and thirty-eight years separate the 1938 chairmanship from the 1976 presentation — the 1964 reference narrows that to twelve and makes the same-man reading comfortable, but a same-named son cannot be excluded. Recorded here as a strong lead, not an identification.
 
 ## Recipients
 
@@ -119,7 +139,12 @@ The award resumed in 2022 and has run annually since.
 
 ## Open Questions
 
-1. [Important, **substantially advanced** 2026-08-14] Who was Norrey Owens? He is now documented as the award's donor and presenter in 1976. The strong lead is **O. N. H. Owens**, Chairman of the Kanawana Committee in the late 1930s and of Camp Perrot's Board through the 1940s–50s, plausibly the "Owen Norreys Harrington Owens" of a Library and Archives Canada First World War file. Confirming this needs a surface that was blocked to this project: the LAC personnel record itself (Cloudflare 403), a Montreal death notice, or any document spelling his given names in full. Birth and death dates remain unknown.
+1. [**RESOLVED IN PART 2026-08-25.**] Who was Norrey Owens? **He is O. N. H. Owens** — established by
+   the Quebec Camping Association presidency, which both forms of the name hold (see above). What
+   remains open is only his full given names and his dates: whether he is the "OWENS, OWEN NORREYS
+   HARRINGTON" of the LAC First World War file is still unproven, and birth and death dates are
+   unknown. The 1977 conference attendance is the latest confirmed sighting. *Superseded detail from
+   2026-08-14:* He is now documented as the award's donor and presenter in 1976. The strong lead is **O. N. H. Owens**, Chairman of the Kanawana Committee in the late 1930s and of Camp Perrot's Board through the 1940s–50s, plausibly the "Owen Norreys Harrington Owens" of a Library and Archives Canada First World War file. Confirming this needs a surface that was blocked to this project: the LAC personnel record itself (Cloudflare 403), a Montreal death notice, or any document spelling his given names in full. Birth and death dates remain unknown.
 2. ~~[Important] What does the date April 13, 1976 mark — Norrey Owens's death, the award's dedication, or its founding? And is the "namesake, not first recipient" reading above correct?~~ **[Half resolved, half open, 2026-08-14]** The namesake reading is **confirmed** by the 1976 Director's Report: Owens presented the award, Doug Peets received it. April 13, 1976 is **not** a death date — Owens was alive and at camp that August. What the date does mark is still undocumented; establishment or donation is the natural reading, but nothing states it.
 3. ~~[Important] What is the underlying source of this roster?~~ **[Resolved 2026-08-14]** The roster is kept on carved wooden award paddles at camp, two of which have now been photographed — see "The award paddles" above. The roster is therefore a transcription of a physical artifact, not recall, and `src_photo_order_of_owens_paddles` is recorded at `primary` reliability. Note that this resolves the *provenance* question only: the paddles begin at 2005, so the 1976–2004 portion of the roster still rests on the operator's account plus whatever earlier artifact it was drawn from (see Open Question 8).
 4. [Nice-to-have] Why did five seasons (1984, 1996, 1998, 2004, 2012) have two recipients? Was this a tie, a deliberate co-award, or a change in criteria?
@@ -143,6 +168,9 @@ The award resumed in 2022 and has run annually since.
 2. Photographs of the two carved Order of Owens award paddles at camp (blackletter, 2005–2012; cursive, 2005–2022), supplied by the operator, 2026-08-14 [src_photo_order_of_owens_paddles].
 4. *Kamp Kanawana Director's Report 1976*, YMCA of Montreal, section "Program Areas — Hike & Trip" (Internet Archive, `1976-kamp-kanawana-directors-report`) [src_ia_kanawana_directors_report_1976].
 5. *Kanawana… A Place to Grow* report, 1988, "Programme Highlights" (Internet Archive, `1988-kanawana-a-place-to-grow-report`); and the O. N. H. Owens references across the digitized YMCA of Montreal fonds, 1929–1964 [src_ia_kanawana_place_to_grow_1988, src_ia_ymca_montreal_fonds_collection].
+6. *Canadian Camping* Vol. 6 No. 3, June 1954 — "Welcome to a New Executive: The Quebec Camping Association" [src_ia_canadian_camping_1954_06].
+7. *Canadian Camping Magazine* Vol. 28 No. 2, January 1976 — QCA membership roll [src_ia_canadian_camping_1976_01].
+8. *Canadian Camping Magazine* Vol. 29 No. 2, March 1977 — conference report naming QCA past presidents [src_ia_canadian_camping_1977_03].
 
 ## Research Notes
 
