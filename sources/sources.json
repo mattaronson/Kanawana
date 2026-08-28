@@ -23419,6 +23419,24 @@
       "notes": "Operator (Matt Aronson) account, supplied 2026-08-28, giving the specific chain of events behind the change the 2026 parent guide attributes only to 'circumstances beyond our control' (f_2314). The operator is a participant in the account he is supplying -- he is one of the actors in it -- which is noted wherever it is cited. Uncorroborated by any document held here; it does not conflict with any documented source, it fills a gap the documents deliberately leave blank. The named third party, Chris Manitt, is recorded by institutional role only (former Kanawana staff member; chairman of the governing board at Westmount High School) per the standing Phase 2 privacy rule; the Westmount High School principal, whom the operator did not name, is left unnamed.",
       "read_state": "extracted",
       "read_state_basis": "derived:cited-by-fact"
+    },
+    {
+      "source_id": "src_oral_aronson_cit_1995",
+      "type": "oral_history",
+      "title": "Recall of the 1995 Counsellor-in-Training cohort (operator-supplied)",
+      "date": "2026-08-28",
+      "date_precision": "exact",
+      "origin": "user_provided",
+      "origin_url": null,
+      "cache_path": null,
+      "char_count": 0,
+      "ingested_at": "2026-08-28T00:00:00Z",
+      "extracted": true,
+      "extraction_version": "v5.62",
+      "reliability": "primary",
+      "notes": "Operator (Matt Aronson) recall, 2026-08-28, naming six of the 1995 CITs and stating explicitly that there were more he could not recall -- so this is a PARTIAL list offered as partial, not a roster. Supplied to place Chris Manitt at camp (p_289). Three of the six (Dan Aronson, Marina Sharpe, Avigail Aronoff) are independently corroborated by the documented 'CITS 95' plaque (f_1614); one (Chris Manitt) and one (Tiffany Ballhorn) are absent from it; one (Erin MacIntyre) shares a first name with the plaque's Erin McKenzie and may or may not be the same person -- see conflict c_027. The operator was himself a Junior Counsellor in 1994 and a Packer in 1995-96, so he was on site the season he is recalling.",
+      "read_state": "extracted",
+      "read_state_basis": "derived:cited-by-fact"
     }
   ],
   "source_count": 685

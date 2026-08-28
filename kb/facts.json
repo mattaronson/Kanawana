@@ -1,8 +1,8 @@
 {
-  "version": "5.61",
-  "kb_version": "v5.61",
+  "version": "5.62",
+  "kb_version": "v5.62",
   "migrated_from": "3.3",
-  "fact_count": 2287,
+  "fact_count": 2288,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -39534,7 +39534,7 @@
     },
     {
       "fact_id": "f_2325",
-      "claim": "CHRIS MANITT -- a former Camp Kanawana staff member who chairs the governing board of Westmount High School. The name appears nowhere else in this KB, this wiki, or the 634-document YMCA of Montreal fonds corpus; his Kanawana years, role, and section are all unknown. He is recorded here solely for the institutional role through which he acted in the 2026 bus-point move (f_2324).",
+      "claim": "CHRIS MANITT -- a former Camp Kanawana staff member who chairs the governing board of Westmount High School. When this was first recorded the name appeared nowhere else in this KB, this wiki, or the 634-document YMCA of Montreal fonds corpus, and his Kanawana years were unknown; f_2326 (operator recall, same day) places him as a CIT in 1995. Any later staff seasons remain undocumented. He is recorded here solely for the institutional role through which he acted in the 2026 bus-point move (f_2324).",
       "sources": [
         "src_oral_aronson_westmount_bus_2026"
       ],
@@ -39547,7 +39547,31 @@
       ],
       "date_ref": "2026",
       "conflicts_with": [],
-      "added_version": "v5.61",
+      "added_version": "v5.62",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_2326",
+      "claim": "CHRIS MANITT WAS A CIT AT KANAWANA IN 1995. The operator names him among that year's Counsellor-in-Training cohort together with Dan Aronson, Marina Sharpe, Avigail Aronoff, Erin MacIntyre and Tiffany Ballhorn, stating explicitly that there were more CITs whose names he could not recall -- so this is offered as a partial list, not a roster. Three of the six (Dan Aronson, Marina Sharpe, Avigail Aronoff) are independently corroborated by the 'CITS 95' dining-hall plaque (f_1614), which does NOT name Manitt or Ballhorn and names an ERIN MCKENZIE rather than an Erin MacIntyre. The plaque is not established as a complete roster, so absence from it is not evidence against Manitt or Ballhorn; the two Erins are recorded as an open question, not merged (c_027).",
+      "sources": [
+        "src_oral_aronson_cit_1995"
+      ],
+      "confidence": "user_knowledge",
+      "category": "people",
+      "entities": [
+        "Chris Manitt",
+        "Kamp Kanawana",
+        "Dan Aronson",
+        "Marina Sharpe",
+        "Avigail Aronoff",
+        "Erin MacIntyre",
+        "Tiffany Ballhorn"
+      ],
+      "date_ref": "1995",
+      "conflicts_with": [
+        "f_1614"
+      ],
+      "added_version": "v5.62",
       "added_by": "manual"
     }
   ]

@@ -3739,8 +3739,21 @@
       "description": "Place Chris Manitt at Kanawana. He is recorded (f_2325) only as a former staff member and current chair of the Westmount High School governing board; his camp years, role and section are unknown. Sweep the staff rosters already held -- the YMCA of Montreal fonds corpus, the Metropolitan Staff listings, the annual reports, the Flickr plaque album -- for the surname before any outward search. Institutional/role facts only, per the standing Phase 2 privacy rule.",
       "blocking": false,
       "created_at": "2026-08-28",
+      "status": "completed",
+      "notes": "Spawned from the operator's 2026 bus-point account. 'Manitt' returned zero hits across wiki/, kb/facts.json and the 634-document corpus when the account was recorded -- that null is the starting point, not a result. RESOLVED 2026-08-28 by operator recall, not by search: Manitt was a CIT in 1995 (f_2326). Three of the six recalled cohort names are independently corroborated by the 'CITS 95' plaque (f_1614), which does not name Manitt -- the plaque is not a complete roster. Any later staff seasons remain undocumented; that residue is p_290."
+    },
+    {
+      "priority_id": "p_290",
+      "rank": 289,
+      "type": "RESEARCH",
+      "article_id": null,
+      "tier": 3,
+      "assigned_weight": "low",
+      "description": "Chris Manitt's later Kanawana seasons. f_2326 places him as a 1995 CIT; the 2026 account describes him as a former STAFF member, which a CIT year alone does not make him. Check the 'Staff 02' and other staff plaques in the Flickr album, and any 1996-2002 rosters held, for the surname. Institutional/role facts only.",
+      "blocking": false,
+      "created_at": "2026-08-28",
       "status": "pending",
-      "notes": "Spawned from the operator's 2026 bus-point account. 'Manitt' returned zero hits across wiki/, kb/facts.json and the 634-document corpus when the account was recorded -- that null is the starting point, not a result."
+      "notes": "Spawned from p_289's partial answer."
     }
   ],
   "queue_ordering": {

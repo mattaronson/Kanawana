@@ -8246,7 +8246,9 @@
       "ralph_loops_completed": 1,
       "kb_facts_used": [
         "f_2324",
-        "f_2325"
+        "f_2325",
+        "f_2326",
+        "f_1614"
       ],
       "sources_cited": [
         "src_clivus_multrum_projects",
@@ -8265,7 +8267,9 @@
         "src_oral_aronson_westmount_bus_2026",
         "src_cbc_wong_camps_2021",
         "src_kk_prep_guide_2025",
-        "src_kk_prep_guide_2026"
+        "src_kk_prep_guide_2026",
+        "src_oral_aronson_cit_1995",
+        "src_flickr_kanawana_plaque_album"
       ],
       "open_questions": 3,
       "cross_links": [
@@ -8282,7 +8286,7 @@
         "timeline-overview"
       ],
       "file_id": null,
-      "word_count": 2406,
+      "word_count": 2461,
       "notes": "2026-07-11: Workstream C4 spawn (4 of 4, final). Connective-narrative synthesis, no new research conducted. Ties together this session's institutional-role-director spawns into continuous narrative history. This completes Workstream C4 and the full operator-approved plan. | 2026-08-14 p_222: applied the chronology BLOCKING fixes from the p_218 VERIFY audit.",
       "tags": {
         "era": [
@@ -8397,10 +8401,12 @@
       "ralph_loops_completed": 1,
       "kb_facts_used": [
         "f_1614",
-        "f_1707"
+        "f_1707",
+        "f_2326"
       ],
       "sources_cited": [
-        "src_flickr_kanawana_plaque_album"
+        "src_flickr_kanawana_plaque_album",
+        "src_oral_aronson_cit_1995"
       ],
       "open_questions": 2,
       "cross_links": [
@@ -8408,7 +8414,7 @@
         "directors-index"
       ],
       "file_id": null,
-      "word_count": 286,
+      "word_count": 473,
       "notes": "2026-07-11: Spawned per operator's direct authorization revising the C5 privacy policy. Only 2 bare plaque-transcription facts exist; per operator's explicit choice, no invented tenure/roles/biography beyond what the plaques show. No new research conducted.",
       "tags": {
         "era": [
