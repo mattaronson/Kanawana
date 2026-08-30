@@ -23473,6 +23473,24 @@
       "notes": "Operator (Matt Aronson) supplied the fourth faint name at the foot of column 1 on the 'C.I.T.'s of '93' plaque: Alex Ballhorn. The operator is himself named on that plaque as a 1993 CIT, so this is recall of his own cohort. It OVERTURNS an inference recorded hours earlier in f_1568, which had used the plaque's alphabetical ordering to argue the slot could not take 'Ballhorn'. On being told the name, the faint glyphs read as 'Alex Ballhorn' without strain. No conflict record: the plaque is ILLEGIBLE at that point, not contradictory -- oral history filling an unreadable span is exactly the case the 2026-07-07 directive leaves to oral history.",
       "read_state": "extracted",
       "read_state_basis": "derived:cited-by-fact"
+    },
+    {
+      "source_id": "src_oral_aronson_bollhorn_siblings",
+      "type": "oral_history",
+      "title": "Operator confirmation: Alex and Tiff Bollhorn were siblings; the surname is spelled Bollhorn",
+      "date": "2026-08-28",
+      "date_precision": "exact",
+      "origin": "user_provided",
+      "origin_url": null,
+      "cache_path": null,
+      "char_count": 0,
+      "ingested_at": "2026-08-28T00:00:00Z",
+      "extracted": true,
+      "extraction_version": "v5.65",
+      "reliability": "primary",
+      "notes": "Operator (Matt Aronson) confirms the sibling relationship between the 1993 and 1995 CITs and settles the family spelling as BOLLHORN. This also dissolves a 'spelling divergence' this KB had recorded between the plaques: see f_2329 -- the agent read the faint 1993 name as 'Ballhorn' only AFTER the operator had supplied that spelling, so the reading was primed and is not independent evidence of what the plaque paints. The apparent divergence was most likely manufactured by that priming rather than observed.",
+      "read_state": "extracted",
+      "read_state_basis": "derived:cited-by-fact"
     }
   ],
   "source_count": 685
