@@ -1,8 +1,8 @@
 {
-  "version": "5.63",
-  "kb_version": "v5.63",
+  "version": "5.64",
+  "kb_version": "v5.64",
   "migrated_from": "3.3",
-  "fact_count": 2290,
+  "fact_count": 2291,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -26437,10 +26437,11 @@
     },
     {
       "fact_id": "f_1568",
-      "claim": "A dining-hall plaque titled 'C.I.T.'s of '93' names Sophie Caisse and Simon Heller as 'directors' and lists 32 CITs in four columns of eight, alphabetical by surname read down then across. Col 1: Monique Ah-Sue, Matt Aronson (this wiki's operator, who confirms his own attendance), Tracey Azeff, Marisa Bacchiochi, [?] Bacon, Alisa Barratt, Simon Bergman, Alex B[?]. Col 2: Kosyo Bradbury, Aimee Castle, Lisa Cecchini, Kippie Clark, Adrian diGiovanni, Talia Dorsey, Dave Drury, Susan Gamberg. Col 3: Chris Gayton, Sam Grossman, Ryan Harbinson, Katie Havercroft, Andrew Heathcote, Andrew Henle, Steph Hurlburt, Alison Leduc. Col 4: Ali Liebich, Toby Lyle, Katie Musgrave, Andrea Pahl, Adam Perritt, Maurice Presser, Rob Starke, Mara Welch. TRANSCRIPTION EXTENDED 2026-08-28 on re-reading the image: the four faint names at the foot of column 1, previously recorded only as 'several first names illegible', are now partly readable as Bacon, Barratt, Bergman and a fourth beginning 'B'. The alphabetical ordering constrains that fourth surname to fall between BERGMAN and BRADBURY, which rules OUT reading it as 'Ballhorn' despite the visual resemblance and despite a Tiff Bollhorn appearing in the 1995 cohort -- the slot will not take it. The name is left unread rather than guessed.",
+      "claim": "A dining-hall plaque titled 'C.I.T.'s of '93' names Sophie Caisse and Simon Heller as 'directors' and lists 32 CITs in four columns of eight, alphabetical by surname read down then across. Col 1: Monique Ah-Sue, Matt Aronson (this wiki's operator, who confirms his own attendance), Tracey Azeff, Marisa Bacchiochi, [?] Bacon, Alisa Barratt, Simon Bergman, ALEX BALLHORN. Col 2: Kosyo Bradbury, Aimee Castle, Lisa Cecchini, Kippie Clark, Adrian diGiovanni, Talia Dorsey, Dave Drury, Susan Gamberg. Col 3: Chris Gayton, Sam Grossman, Ryan Harbinson, Katie Havercroft, Andrew Heathcote, Andrew Henle, Steph Hurlburt, Alison Leduc. Col 4: Ali Liebich, Toby Lyle, Katie Musgrave, Andrea Pahl, Adam Perritt, Maurice Presser, Rob Starke, Mara Welch. TRANSCRIPTION EXTENDED 2026-08-28 on re-reading the image: the four faint names at the foot of column 1, previously recorded only as 'several first names illegible', read as Bacon, Barratt, Bergman and Alex Ballhorn. INFERENCE RETRACTED, same day: this fact briefly argued that the plaque's alphabetical ordering ruled OUT reading the fourth name as 'Ballhorn', because the slot falls between BERGMAN and BRADBURY. The operator -- himself a named CIT on this plaque -- identified it as Alex Ballhorn, and on re-inspection the faint glyphs read that way without strain (src_oral_aronson_alex_ballhorn). The retracted argument treated a TENDENCY as a CONSTRAINT. These plaques are ordered alphabetically as a rule but take late additions appended out of sequence at the foot of a column -- the very same session had already observed exactly that on the 1995 plaque, where BEN LEVINE sits after SOTIRON and SARAH A-FRANKEL sits above ARONOFF under an apparent correction mark. Ordering may SUGGEST a reading here; it may not exclude one.",
       "sources": [
         "src_flickr_kanawana_plaque_album",
-        "src_oral_aronson"
+        "src_oral_aronson",
+        "src_oral_aronson_alex_ballhorn"
       ],
       "confidence": "stated",
       "category": "people",
@@ -26453,7 +26454,7 @@
       ],
       "date_ref": "1993",
       "conflicts_with": [],
-      "added_version": "v5.63",
+      "added_version": "v5.64",
       "added_by": "manual"
     },
     {
@@ -39612,6 +39613,25 @@
       "date_ref": "1995-1997",
       "conflicts_with": [],
       "added_version": "v5.63",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_2329",
+      "claim": "ALEX BALLHORN WAS A CIT IN 1993, named at the foot of column 1 on the 'C.I.T.'s of '93' plaque in the same cohort as Matt Aronson (f_1568). The painted name is too faint to read unaided and was recovered from the operator's recall of his own cohort, then confirmed against the image. NOTE THE SPELLING, which is not harmonised here: the 1993 plaque and the operator both give BALLHORN, while the 1995 CIT plaque and the 1997 staff plaque both clearly paint TIFF BOLLHORN (f_1614, f_1705). The two may well be siblings -- a Ballhorn in the 1993 cohort and a Bollhorn in the 1995 one, at a camp where siblings were common -- but NO SOURCE STATES ANY RELATIONSHIP between them and none is asserted here. The variant spellings are recorded as they appear rather than merged into one surname.",
+      "sources": [
+        "src_oral_aronson_alex_ballhorn",
+        "src_flickr_kanawana_plaque_album"
+      ],
+      "confidence": "user_knowledge",
+      "category": "people",
+      "entities": [
+        "Alex Ballhorn",
+        "Kamp Kanawana",
+        "Matt Aronson"
+      ],
+      "date_ref": "1993",
+      "conflicts_with": [],
+      "added_version": "v5.64",
       "added_by": "manual"
     }
   ]

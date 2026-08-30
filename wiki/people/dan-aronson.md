@@ -15,7 +15,11 @@ The "CITS 95" dining-hall plaque credits "Directors: Simon Heller, Paula Cussen"
 
 Until August 2026 this wiki recorded only eleven of those twenty-nine names, and cited the shortened list as though it were the cohort. The full reading was prompted by memory, not by any archival discovery. Asked to place a former staff member at camp, Matt Aronson named the 1995 CITs from recall as Chris Manitt, Dan Aronson, Marina Sharpe, Avigail Aronoff, Erin MacIntyre and Tiffany Ballhorn.^2 Three matched the transcription; three did not. Two of the three misses — Manitt and Ballhorn — turned out to be on the plaque all along, in a portion of the image nobody had transcribed. The third was a genuine slip, and the operator withdrew it himself when shown the plaque: the CIT was **Erin McKenzie**, not MacIntyre (conflict c_027, resolved).^3
 
-So the recollection was right five times out of six, and its two apparent errors were errors in this project's own reading of the source. The plaque spells the surname **Bollhorn**, and the plaque governs.
+So the recollection was right five times out of six, and its two apparent errors were errors in this project's own reading of the source. The plaque spells the surname **Bollhorn**, and for 1995 the plaque governs.
+
+The same pattern repeated immediately, on the neighbouring plaque and against this project's own reasoning. Re-reading "C.I.T.'s of '93" recovered three of the four worn names at the foot of its first column but left a fourth unread — and this wiki briefly argued that the plaque's alphabetical ordering *excluded* reading it as "Ballhorn," since the slot falls between Bergman and Bradbury. The operator, who is named on that plaque himself, supplied the name: **Alex Ballhorn**. The argument was wrong, and wrong in an instructive way. These plaques are alphabetical as a habit, not a rule; late additions get appended at the foot of a column, which is precisely where this name sits — and the 1995 plaque examined minutes earlier shows the same thing, with Ben Levine painted after Sotiron. Ordering can suggest a reading. It cannot rule one out.
+
+Note that the spellings are left as found: **Ballhorn** on the 1993 plaque, **Bollhorn** on both 1995 and 1997. Siblings at Kanawana were common and the inference is tempting, but no source states any relationship between them and none is asserted here.
 
 Both Manitt and Bollhorn appear again two years later on the "Kanawana Staff 97" plaque, alongside at least ten more of the 1995 cohort — Sarah Addleman Frankel (whose surname on the 1995 plaque is compressed to "A-Frankel"), Avigail Aronoff, Laura Davis, Marc Dunn, Adriana Greenblatt, Emily Lecker, Jonathan Mee, Nicolas Muszynski, Marina Sharpe and Charles Shulman.^1 Roughly two in five of one CIT year were still on staff two summers later — the CIT-to-staff pipeline this wiki had documented only as individual careers, visible for once as a whole cohort.
 
@@ -35,7 +39,7 @@ Both Manitt and Bollhorn appear again two years later on the "Kanawana Staff 97"
 
 1. Kanawana Flickr "Plaque" album, "CITS 95" and "Staff 02" plaques [src_flickr_kanawana_plaque_album].
 2. Oral history, Matt Aronson, 28 August 2026 [src_oral_aronson_cit_1995]. Partial recall, offered as partial; five of six names since confirmed on the plaque itself.
-3. Oral history, Matt Aronson, 28 August 2026, correcting his own recalled surname [src_oral_aronson_erin_correction]. See [f_1614], [f_1705], [f_2326], [f_2327], [f_2328].
+3. Oral history, Matt Aronson, 28 August 2026, correcting his own recalled surname [src_oral_aronson_erin_correction]; identifying the illegible 1993 name [src_oral_aronson_alex_ballhorn]. See [f_1614], [f_1568], [f_1705], [f_2326], [f_2327], [f_2328], [f_2329].
 
 ## Research Notes
 

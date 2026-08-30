@@ -23455,6 +23455,24 @@
       "notes": "Operator (Matt Aronson) withdrew his own recalled surname on being shown the 'CITS 95' plaque transcription: 'It was Erin McKenzie, I misremembered the surname.' Resolves c_027 to one person, not two, in the documented source's favour. Note the direction of the correction -- the operator corrected himself against the document rather than the reverse; the 2026-07-07 directive was never invoked.",
       "read_state": "extracted",
       "read_state_basis": "derived:cited-by-fact"
+    },
+    {
+      "source_id": "src_oral_aronson_alex_ballhorn",
+      "type": "oral_history",
+      "title": "Operator identification of the illegible 1993 CIT plaque name: Alex Ballhorn",
+      "date": "2026-08-28",
+      "date_precision": "exact",
+      "origin": "user_provided",
+      "origin_url": null,
+      "cache_path": null,
+      "char_count": 0,
+      "ingested_at": "2026-08-28T00:00:00Z",
+      "extracted": true,
+      "extraction_version": "v5.64",
+      "reliability": "primary",
+      "notes": "Operator (Matt Aronson) supplied the fourth faint name at the foot of column 1 on the 'C.I.T.'s of '93' plaque: Alex Ballhorn. The operator is himself named on that plaque as a 1993 CIT, so this is recall of his own cohort. It OVERTURNS an inference recorded hours earlier in f_1568, which had used the plaque's alphabetical ordering to argue the slot could not take 'Ballhorn'. On being told the name, the faint glyphs read as 'Alex Ballhorn' without strain. No conflict record: the plaque is ILLEGIBLE at that point, not contradictory -- oral history filling an unreadable span is exactly the case the 2026-07-07 directive leaves to oral history.",
+      "read_state": "extracted",
+      "read_state_basis": "derived:cited-by-fact"
     }
   ],
   "source_count": 685

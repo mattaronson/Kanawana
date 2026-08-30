@@ -3762,11 +3762,11 @@
       "article_id": null,
       "tier": 1,
       "assigned_weight": "high",
-      "description": "AUDIT THE PLAQUE TRANSCRIPTIONS. Two of them were found partial on 2026-08-28 while answering an unrelated question: the 'CITS 95' plaque holds 29 names where f_1614 recorded 11, and 'Kanawana Staff 97' holds ~100 where f_1705 recorded 3. Both were cited elsewhere as if complete. Re-read every plaque image in assets/images/plaques/ (151 files) against its fact and record, per fact, whether the transcription is COMPLETE, PARTIAL, or UNREAD. Use the alphabetical-ordering property demonstrated on the 1993 and 1995 plaques to constrain faint names rather than guessing them.",
+      "description": "AUDIT THE PLAQUE TRANSCRIPTIONS. Two of them were found partial on 2026-08-28 while answering an unrelated question: the 'CITS 95' plaque holds 29 names where f_1614 recorded 11, and 'Kanawana Staff 97' holds ~100 where f_1705 recorded 3. Both were cited elsewhere as if complete. Re-read every plaque image in assets/images/plaques/ (151 files) against its fact and record, per fact, whether the transcription is COMPLETE, PARTIAL, or UNREAD. On ordering: these plaques are alphabetical AS A TENDENCY, not as a rule -- late additions get appended out of sequence at the foot of a column (Alex Ballhorn on the 1993 plaque, Ben Levine on the 1995 one). Ordering may SUGGEST a reading for a faint name; it must NOT be used to exclude one. An earlier version of this task said the opposite and was wrong; see f_1568.",
       "blocking": false,
       "created_at": "2026-08-28",
       "status": "pending",
-      "notes": "This is a read-receipt problem, not a research problem -- the images have been on disk the whole time. Note also the album has CIT plaques for 1960, 1970, 1975, 1979, 1982, 1983, 1984, 1985, 1986, 1992, 1993, 1995, 1996, 1997, 1998, 1999, 2000, 2001 and NO 1994; that gap is real, not an artifact of this audit."
+      "notes": "This is a read-receipt problem, not a research problem -- the images have been on disk the whole time. Note also the album has CIT plaques for 1960, 1970, 1975, 1979, 1982, 1983, 1984, 1985, 1986, 1992, 1993, 1995, 1996, 1997, 1998, 1999, 2000, 2001 and NO 1994; that gap is real, not an artifact of this audit. Guidance corrected 2026-08-28 after the alphabetical-exclusion argument was retracted."
     }
   ],
   "queue_ordering": {
