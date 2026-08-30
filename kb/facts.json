@@ -1,6 +1,6 @@
 {
-  "version": "5.65",
-  "kb_version": "v5.65",
+  "version": "5.66",
+  "kb_version": "v5.66",
   "migrated_from": "3.3",
   "fact_count": 2291,
   "facts": [
@@ -26437,7 +26437,7 @@
     },
     {
       "fact_id": "f_1568",
-      "claim": "A dining-hall plaque titled 'C.I.T.'s of '93' names Sophie Caisse and Simon Heller as 'directors' and lists 32 CITs in four columns of eight, alphabetical by surname read down then across. Col 1: Monique Ah-Sue, Matt Aronson (this wiki's operator, who confirms his own attendance), Tracey Azeff, Marisa Bacchiochi, [?] Bacon, Alisa Barratt, Simon Bergman, ALEX BOLLHORN (surname per the operator, who confirms the family spelling; the plaque's own vowel is not legible -- see f_2329). Col 2: Kosyo Bradbury, Aimee Castle, Lisa Cecchini, Kippie Clark, Adrian diGiovanni, Talia Dorsey, Dave Drury, Susan Gamberg. Col 3: Chris Gayton, Sam Grossman, Ryan Harbinson, Katie Havercroft, Andrew Heathcote, Andrew Henle, Steph Hurlburt, Alison Leduc. Col 4: Ali Liebich, Toby Lyle, Katie Musgrave, Andrea Pahl, Adam Perritt, Maurice Presser, Rob Starke, Mara Welch. TRANSCRIPTION EXTENDED 2026-08-28 on re-reading the image: the four faint names at the foot of column 1, previously recorded only as 'several first names illegible', read as Bacon, Barratt, Bergman and Alex Bollhorn. INFERENCE RETRACTED, same day: this fact briefly argued that the plaque's alphabetical ordering ruled OUT reading the fourth name as a Bollhorn/Ballhorn, because the slot falls between BERGMAN and BRADBURY. The operator -- himself a named CIT on this plaque -- identified it as Alex Bollhorn, and on re-inspection the faint glyphs read that way without strain (src_oral_aronson_alex_ballhorn). The retracted argument treated a TENDENCY as a CONSTRAINT. These plaques are ordered alphabetically as a rule but take late additions appended out of sequence at the foot of a column -- the very same session had already observed exactly that on the 1995 plaque, where BEN LEVINE sits after SOTIRON and SARAH A-FRANKEL sits above ARONOFF under an apparent correction mark. Ordering may SUGGEST a reading here; it may not exclude one.",
+      "claim": "A dining-hall plaque titled 'C.I.T.'s of '93' names Sophie Caisse and Simon Heller as 'directors' and lists 32 CITs in four columns of eight, alphabetical by surname read down then across. Col 1: Monique Ah-Sue, Matt Aronson (this wiki's operator, who confirms his own attendance), Tracey Azeff, Marisa Bacchiochi, [?] Bacon, Alisa Barratt, Simon Bergman, ALEX BOLLHORN -- so spelled by the operator, his sister's surname on two legible plaques; this plaque's own faint paint reads BALLHORN, an apparent hand-lettering misspelling, see f_2329. Col 2: Kosyo Bradbury, Aimee Castle, Lisa Cecchini, Kippie Clark, Adrian diGiovanni, Talia Dorsey, Dave Drury, Susan Gamberg. Col 3: Chris Gayton, Sam Grossman, Ryan Harbinson, Katie Havercroft, Andrew Heathcote, Andrew Henle, Steph Hurlburt, Alison Leduc. Col 4: Ali Liebich, Toby Lyle, Katie Musgrave, Andrea Pahl, Adam Perritt, Maurice Presser, Rob Starke, Mara Welch. TRANSCRIPTION EXTENDED 2026-08-28 on re-reading the image: the four faint names at the foot of column 1, previously recorded only as 'several first names illegible', read as Bacon, Barratt, Bergman and Alex Bollhorn. INFERENCE RETRACTED, same day: this fact briefly argued that the plaque's alphabetical ordering ruled OUT reading the fourth name as a Bollhorn/Ballhorn, because the slot falls between BERGMAN and BRADBURY. The operator -- himself a named CIT on this plaque -- identified it as Alex Bollhorn, and on re-inspection the faint glyphs read that way without strain (src_oral_aronson_alex_ballhorn). The retracted argument treated a TENDENCY as a CONSTRAINT. These plaques are ordered alphabetically as a rule but take late additions appended out of sequence at the foot of a column -- the very same session had already observed exactly that on the 1995 plaque, where BEN LEVINE sits after SOTIRON and SARAH A-FRANKEL sits above ARONOFF under an apparent correction mark. Ordering may SUGGEST a reading here; it may not exclude one.",
       "sources": [
         "src_flickr_kanawana_plaque_album",
         "src_oral_aronson",
@@ -39619,7 +39619,7 @@
     },
     {
       "fact_id": "f_2329",
-      "claim": "ALEX BOLLHORN WAS A CIT IN 1993, named at the foot of column 1 on the 'C.I.T.'s of '93' plaque in the same cohort as Matt Aronson (f_1568). He was the SIBLING of Tiff Bollhorn, a CIT in 1995 and staff in 1997 (f_1614, f_1705); the operator confirms both the relationship and the family spelling, BOLLHORN. A CLAIMED SPELLING DIVERGENCE IS WITHDRAWN HERE. This fact previously recorded 'Ballhorn' on the 1993 plaque against 'Bollhorn' on the 1995 and 1997 plaques, and preserved the two as variant spellings found in the sources. That was an error of method, not of transcription: the 1993 name is worn nearly to the board and was unreadable until the operator supplied it, so the agent's subsequent reading of the vowel was PRIMED by having been told 'Ballhorn' and is not independent evidence of what the plaque paints. The honest state of the document is that the 1993 plaque is legible as to the name and ILLEGIBLE AS TO THE VOWEL. The surname is recorded as Bollhorn throughout on the operator's authority and on the two plaques that are plainly legible.",
+      "claim": "ALEX BOLLHORN WAS A CIT IN 1993, named at the foot of column 1 on the 'C.I.T.'s of '93' plaque in the same cohort as Matt Aronson (f_1568). He was the SIBLING of Tiff Bollhorn, a CIT in 1995 and staff in 1997 (f_1614, f_1705); the operator confirms both the relationship and the family spelling, BOLLHORN. THE 1993 PLAQUE APPEARS TO PAINT IT 'BALLHORN' -- an ordinary misspelling on a hand-lettered plaque. That divergence is recorded as a genuine observation, on the following basis. This fact twice got the epistemics wrong before settling: it first recorded the divergence, then WITHDREW it on the reasoning that the agent's reading of the faint vowel had been primed by the operator having said 'Ballhorn' -- and that withdrawal was itself false. Checked against the session transcript: the agent read and reported 'Alex Ballhorn' off the plaque at 2026-08-28T14:35:26Z, BEFORE the operator named Alex at all (2026-08-30T02:08:02Z). The reading was independent; no priming occurred. The operator himself supplied the correction ('No, it was my memory, you were right'), locating the wrong spelling in his own recall of his sister's name rather than in the agent's reading. STANDING: family spelling BOLLHORN, on the operator's authority and the two clearly legible plaques; the 1993 plaque's paint reads BALLHORN, faintly but independently. Both recorded, neither merged.",
       "sources": [
         "src_oral_aronson_alex_ballhorn",
         "src_flickr_kanawana_plaque_album",
@@ -39635,7 +39635,7 @@
       ],
       "date_ref": "1993",
       "conflicts_with": [],
-      "added_version": "v5.65",
+      "added_version": "v5.66",
       "added_by": "manual"
     }
   ]
