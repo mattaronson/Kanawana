@@ -17,6 +17,8 @@ Cleghorn served as Chairman and CEO of the Royal Bank of Canada from 1994 to 200
 
 ## Open Questions
 
+0. [New 2026-08-28, Nice-to-have] Is the **"Ian Cleghorn"** named on Kanawana's "Sailing Staff of 85" plaque (f_1685, nicknamed "Mau-Mau") a son of John Cleghorn? This article records that he "took his own children on canoe trips there every summer," and a child of a man born in 1941 would be about staffing age in 1985. The surname is uncommon but not unique and no source names his children, so this is a lead only. Resolvable by any source naming Cleghorn's children.
+
 1. [Nice-to-have, partly answered 2026-08-28] Which years did Cleghorn attend Kanawana? **1956 is now documented** — he is named on that year's Rangers plaque (f_1670). The surrounding years remain unknown; the album holds Rangers plaques for 1955, 1959, 1960, 1961, 1962, 1963 and 1964, and he is on none of them, which is weak evidence he attended only briefly but is not conclusive, since not every year's board survives.
 2. [Nice-to-have] What prompted Cleghorn's continued canoe-tripping tradition at Kanawana with his own children, and over what span of years did it occur?
 
