@@ -7158,13 +7158,15 @@
         "f_0163",
         "f_1069",
         "f_1093",
-        "f_1126"
+        "f_1126",
+        "f_1670"
       ],
       "sources_cited": [
         "src_canadian_encyclopedia_cleghorn",
         "src_oral_aronson",
         "src_wikipedia_john_cleghorn",
-        "src_ymca_quebec_pip_skinner"
+        "src_ymca_quebec_pip_skinner",
+        "src_flickr_kanawana_plaque_album"
       ],
       "open_questions": 2,
       "cross_links": [
@@ -7173,7 +7175,7 @@
         "james-orbinski"
       ],
       "file_id": null,
-      "word_count": 496,
+      "word_count": 611,
       "notes": "2026-07-11: Workstream C1 spawn, split from notable-alumni.md. Combines oral history (src_oral_aronson) with documented sources (Wikipedia, Canadian Encyclopedia); no conflict exists between them so no resolution needed. Corrected dangling source_id reference (src_cleghorn_wikipedia -> src_wikipedia_john_cleghorn) in kb/facts.json while preparing this article.",
       "tags": {
         "era": [
