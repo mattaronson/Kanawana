@@ -1,6 +1,6 @@
 # What the Plaques Say Besides Names
 
-*Status: draft | Sources: 1*
+*Status: draft | Sources: 2*
 *Last Updated: 2026-08-28*
 
 ## Overview
@@ -60,7 +60,9 @@ Alongside these the **all-camp game** was named and commemorated each session: a
 
 That 1995 board reads **"We saved Raku and the red-day tuck!"** — which on its own is a private joke. But the board is cut in the shape of a **bone**, with a **paw print** painted beside the lettering.^1
 
-Raku was a dog. The knowledge base records no camp animals at all, and a plaque's shape turns out to carry the whole meaning of a sentence that is otherwise unreadable.
+Raku was a dog — and specifically he was **Camp Director Joanna A.A. Hoad's** dog.^2 A plaque's shape carried the whole meaning of a sentence that is otherwise a private joke, and the date fits exactly: Hoad's on-site directorship ran from 1995 to 2000, so an all-camp game built around rescuing Raku falls in her **first season**. The new director's dog, made the object of the whole camp's game.
+
+He remains the only camp animal recorded anywhere in this project.
 
 ## A cabin gets its name
 
@@ -76,7 +78,7 @@ The boards draw on two visual vocabularies that do not mix:^1
 
 ## Open Questions
 
-1. [Important] Who was Raku, and were there other camp animals? A dog important enough to build an all-camp game around leaves no other trace in this project.
+1. [Nice-to-have, answered 2026-08-28] ~~Who was Raku?~~ Director Joanna A.A. Hoad's dog.^2 Whether there were other camp animals is still open — he is the only one on record.
 2. [Important] Was Kanawoodstock an annual event with three surviving objects, or an occasional one? The gaps between 1993/95, 2000 and 2009 are the whole question.
 3. [Important] What did the camp's use of Indigenous-derived imagery look like over time, and did it change? Three dated objects exist; nothing in the knowledge base discusses them.
 4. [Nice-to-have] The Wizard of Oz board's year and winning team could not be read even after contrast enhancement. Does anyone recall a Wizard of Oz Day?
@@ -92,6 +94,7 @@ The boards draw on two visual vocabularies that do not mix:^1
 ## Sources
 
 1. Kanawana Flickr "Plaque" album, all 151 images transcribed in the p_291 audit [src_flickr_kanawana_plaque_album]. Per-image records in `kb/plaque-audit/audit.jsonl`; the 1987 Arthurian day is separately from *Kamp Kanawana Director's Report 1987* [src_ia_kanawana_report_1987].
+2. Oral history, Matt Aronson, 28 August 2026 [src_oral_aronson_sanctum_suez_raku]. See [f_2353].
 
 ## Research Notes
 

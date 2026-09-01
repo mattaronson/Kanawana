@@ -1,6 +1,6 @@
 # Named Places and Camp Vocabulary
 
-*Status: draft | Sources: 4*
+*Status: draft | Sources: 5*
 *Last Updated: 2026-08-28*
 
 ## Overview
@@ -11,9 +11,15 @@ This article collects them. Several are single attestations and are flagged as s
 
 ## Places on the site, unrecorded
 
-**The Sanctum.** A 2007 Senior Boys board is headed "Senior Boys SANCTUM 2KK7" with the roster lettered inside the strokes of the word, and beneath it, in yellow: **"May the Sanctum R.I.P."**^1 That is an epitaph. Some named structure or tent — the boys' own, judging by the board — ended in 2007, and [[site/the-kanawana-site|the site article]] has no account of a Sanctum at all. What it was, and whether it was demolished, renamed or simply retired, is undocumented.
+**The Sanctum** was the Senior Boys section cabin, in use from the mid-1990s until it was demolished in 2007.^5 A 2007 Senior Boys board is headed "Senior Boys SANCTUM 2KK7" with the roster lettered inside the strokes of the word, and beneath it, in yellow: **"May the Sanctum R.I.P."**^1 The boys were commemorating the demolition of their own cabin, in the season it came down, on the board that names them.
 
-**The Suez Bridge.** A 1987 board reads "The Suez Bridge — Senior Boys '87" and carries nothing else; the paint is worn to the grain.^1 A bridge on the property, named after the canal. The Knights of Kanawana charter's fifth challenge asks a candidate to "contribute something of permanence to camp — a substantial part of a totem pole, **or a bridge**," which suggests bridges were built by campers as a matter of course and would plausibly acquire names.^2 See [[traditions/knights-of-kanawana|The Order of the Knights of Kanawana]].
+It is also an architectural exception. This wiki records the Senior sections — Coureurs de Bois and Pathfinders — as housed in **platform tents**, and the Junior sections in cabins; a Senior Boys *cabin* ran against that pattern for about a decade. The demolition falls inside the camp's documented [[history/modern-era|green shift]] of 2006–2012, though nothing states it was part of that program.
+
+**The Suez Bridge** crosses the narrow channel joining Lake Kanawana and Lake Wilson.^5 A 1987 board reads "The Suez Bridge — Senior Boys '87" and carries nothing else, the paint worn to the grain.^1
+
+The location matters, because that channel is already in this wiki from the other side: [[site/the-kanawana-site|the site article]] records the two lakes as "connected by a **dam** between Lake Kanawana and Lake Wilson that is ceremonially opened at the end of each season." The bridge, the dam and one of the camp's surviving seasonal rituals all sit at the same point on the property — and the 1998 five-kilometre swim, running Wilson Falls to Frogs Bog, passed through it. The name is a joke on the Suez Canal.
+
+The Knights of Kanawana charter's fifth challenge asks a candidate to "contribute something of permanence to camp — a substantial part of a totem pole, **or a bridge**," so camper-built bridges were an expected thing here; whether the Suez Bridge was one is not recorded.^2 See [[traditions/knights-of-kanawana|The Order of the Knights of Kanawana]].
 
 **Frogs Bog.** The 1998 five-kilometre swim board maps its route as "Wilson Falls to Frogs Bog," glossing the two ends as Lake Wilson and Lake Kanawana.^1 The swim ran between the camp's two lakes; Frogs Bog is the camp's name for a feature at the Lake Kanawana end.
 
@@ -47,8 +53,8 @@ None of this dates the practice, and the Pathfinder paddle carries no year at al
 
 ## Open Questions
 
-1. [Important] What was the Sanctum, and what happened to it in 2007? A single board records both its name and its end.
-2. [Important] Where was the Suez Bridge, and does it survive? A camper-built bridge is exactly the kind of structure the Knights charter describes as a "contribution of permanence."
+1. [Nice-to-have, answered 2026-08-28] ~~What was the Sanctum?~~ The Senior Boys section cabin, mid-1990s to its demolition in 2007.^5 What remains open is *why* it was demolished, and whether the green shift was the reason.
+2. [Nice-to-have, answered 2026-08-28] ~~Where was the Suez Bridge?~~ Over the channel between the two lakes.^5 Whether it still stands, and whether campers built it, are still open.
 3. [Nice-to-have] The Pathfinder paddle's six origins are undated. Which era of the camp do they belong to, and was there a formal international exchange arrangement or simply individual campers from abroad?
 4. [Nice-to-have] Are there other section codes in use on the boards beyond SB, JG, B and SGC?
 
@@ -65,6 +71,7 @@ None of this dates the practice, and the Pathfinder paddle carries no year at al
 2. Photograph of the Knights of Kanawana charter [src_photo_knights_charter_challenges].
 3. Oral history, Matt Aronson, 28 August 2026: the program lineage [src_oral_aronson_rangers_wolf_lineage]. See [f_2343], [f_2344].
 4. Oral history, Matt Aronson, 28 August 2026: Wolf as a rank comparable to CIT or LIT [src_oral_aronson_wolf_rank]. Recorded at secondary reliability — the operator hedges it ("I think"). See [f_2345].
+5. Oral history, Matt Aronson, 28 August 2026: the Sanctum, the Suez Bridge and Raku [src_oral_aronson_sanctum_suez_raku]. See [f_2351], [f_2352], [f_2353].
 
 ## Research Notes
 

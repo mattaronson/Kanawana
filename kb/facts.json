@@ -1,8 +1,8 @@
 {
-  "version": "5.71",
-  "kb_version": "v5.71",
+  "version": "5.72",
+  "kb_version": "v5.72",
   "migrated_from": "3.3",
-  "fact_count": 2312,
+  "fact_count": 2315,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -40012,6 +40012,64 @@
       "date_ref": "1959-1983",
       "conflicts_with": [],
       "added_version": "v5.70",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_2351",
+      "claim": "THE SANCTUM WAS THE SENIOR BOYS SECTION CABIN, IN USE FROM THE MID-1990s UNTIL IT WAS DEMOLISHED IN 2007. This answers the epitaph painted on the 2007 Senior Boys board -- 'May the Sanctum R.I.P.' (f_1688) -- which the plaque audit found and no document held here could explain: the boys were commemorating the demolition of their own cabin in the same season it came down, on the board that names them. IT IS ALSO AN ARCHITECTURAL EXCEPTION. This KB records the camp's Senior sections (Coureurs de Bois, Pathfinders) as housed in PLATFORM TENTS and its Junior sections (Woodsmen, Pioneers) in cabins (f_0452, f_0587, section-names.md). A Senior Boys CABIN therefore ran against the standing accommodation pattern for roughly a decade. The 2007 demolition falls inside the camp's documented 'green shift' revitalisation of 2006-2012; whether it was part of that programme is NOT stated by the operator and is not asserted here.",
+      "sources": [
+        "src_oral_aronson_sanctum_suez_raku",
+        "src_flickr_kanawana_plaque_album"
+      ],
+      "confidence": "user_knowledge",
+      "category": "site",
+      "entities": [
+        "Kamp Kanawana",
+        "The Sanctum",
+        "Senior Boys"
+      ],
+      "date_ref": "1995-2007",
+      "conflicts_with": [],
+      "added_version": "v5.72",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_2352",
+      "claim": "THE SUEZ BRIDGE CROSSES THE NARROW CHANNEL BETWEEN LAKE KANAWANA AND LAKE WILSON. Named on a 1987 Senior Boys board (f_1687) and otherwise undocumented, it is now located: the operator places it over the narrow canal joining the camp's two main lakes. THAT CHANNEL IS ALREADY IN THIS KB FROM THE OTHER SIDE -- the site article records the two lakes as 'connected by a dam between Lake Kanawana and Lake Wilson that is ceremonially opened at the end of each season', so the bridge, the dam and one of the camp's surviving seasonal rituals all sit at the same point on the property. The 1998 five-kilometre swim ran 'Wilson Falls to Frogs Bog', Lake Wilson to Lake Kanawana (f_1586), which is to say it passed through this channel. The name is a joke on the Suez Canal. Note the Knights of Kanawana charter's fifth challenge asks candidates to contribute 'something of permanence to camp -- a substantial part of a totem pole, or a bridge', so camper-built bridges were an expected thing at Kanawana; whether the Suez Bridge was one is not stated.",
+      "sources": [
+        "src_oral_aronson_sanctum_suez_raku",
+        "src_flickr_kanawana_plaque_album"
+      ],
+      "confidence": "user_knowledge",
+      "category": "site",
+      "entities": [
+        "Kamp Kanawana",
+        "Suez Bridge",
+        "Lake Kanawana",
+        "Lake Wilson"
+      ],
+      "date_ref": "1987",
+      "conflicts_with": [],
+      "added_version": "v5.72",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_2353",
+      "claim": "RAKU WAS THE DOG OF CAMP DIRECTOR JOANNA A.A. HOAD. This CONFIRMS an inference the plaque audit drew from an object's shape rather than its text: the 3rd-session 1995 all-camp board reads 'We saved Raku and the red-day tuck!', which is opaque on its own, but the board is cut in the shape of a BONE and painted with a PAW PRINT, from which f_2349 concluded Raku was a dog. He was, and he belonged to the on-site Director. THE DATE FITS PRECISELY: Hoad's on-site Directorship ran 1995 to 2000 (f_1730), so the 1995 all-camp game built around rescuing Raku falls in her FIRST season -- the new director's dog, made the object of the whole camp's game. This is the only camp animal recorded anywhere in this project. (The operator gives the surname as 'Hode', which is the spelling this wiki carried before correcting it against Lower Canada College's archived staff records; the corrected form Joanna A.A. Hoad is used here.)",
+      "sources": [
+        "src_oral_aronson_sanctum_suez_raku",
+        "src_flickr_kanawana_plaque_album"
+      ],
+      "confidence": "user_knowledge",
+      "category": "traditions",
+      "entities": [
+        "Raku",
+        "Joanna A.A. Hoad",
+        "Kamp Kanawana"
+      ],
+      "date_ref": "1995",
+      "conflicts_with": [],
+      "added_version": "v5.72",
       "added_by": "manual"
     }
   ]
