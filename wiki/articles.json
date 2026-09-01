@@ -9254,6 +9254,81 @@
       ],
       "file_id": null,
       "word_count": 2624
+    },
+    {
+      "article_id": "multi-year-index",
+      "title": "Named People Across Multiple Years",
+      "wiki_folder": "people",
+      "status": "draft",
+      "status_history": [
+        {
+          "status": "stub",
+          "at": "2026-08-28T00:00:00Z",
+          "by": "auto",
+          "task": "RESEARCH"
+        },
+        {
+          "status": "draft",
+          "at": "2026-08-28T00:00:00Z",
+          "by": "auto",
+          "task": "WRITE"
+        }
+      ],
+      "ralph_loops_completed": 1,
+      "kb_facts_used": [
+        "f_2335",
+        "f_2336",
+        "f_2337",
+        "f_2338",
+        "f_2339",
+        "f_2340",
+        "f_2341"
+      ],
+      "sources_cited": [
+        "src_flickr_kanawana_plaque_album"
+      ],
+      "open_questions": 3,
+      "cross_links": [
+        "people/directors-index",
+        "traditions/cit-lit-program",
+        "meta/plaque-audit"
+      ],
+      "file_id": null,
+      "word_count": 3076
+    },
+    {
+      "article_id": "plaque-audit",
+      "title": "The Plaque Audit",
+      "wiki_folder": "meta",
+      "status": "draft",
+      "status_history": [
+        {
+          "status": "draft",
+          "at": "2026-08-28T00:00:00Z",
+          "by": "auto",
+          "task": "WRITE"
+        }
+      ],
+      "ralph_loops_completed": 1,
+      "kb_facts_used": [
+        "f_2330",
+        "f_2331",
+        "f_2332",
+        "f_2333",
+        "f_2334",
+        "f_2335"
+      ],
+      "sources_cited": [
+        "src_flickr_kanawana_plaque_album"
+      ],
+      "open_questions": 3,
+      "cross_links": [
+        "people/multi-year-index",
+        "people/directors-index",
+        "traditions/traditions-and-culture"
+      ],
+      "file_id": null,
+      "word_count": 1111
     }
   ],
   "article_count": 93

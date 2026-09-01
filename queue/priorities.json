@@ -3778,8 +3778,8 @@
       "description": "Fold the plaque audit into the KB. 1,825 transcribed names sit in kb/plaque-audit/audit.jsonl and almost none are in facts.json. Rewrite the 83 PARTIAL facts from their audit rows, create facts for the 5 objects that have none, and fix the three wrong attributions (f_1629 country column, f_1627 dsc-0559, f_1667/f_1681 two faces of one birdhouse). Apply the name and role corrections listed in FINDINGS.md.",
       "blocking": false,
       "created_at": "2026-08-28",
-      "status": "pending",
-      "notes": "Spawned by the p_291 plaque audit."
+      "status": "completed",
+      "notes": "Spawned by the p_291 plaque audit. COMPLETED 2026-08-28: 126 facts enriched with full rosters (non-destructively -- original claim text preserved, roster appended under a marker), 5 facts created for objects that had none (f_2330-f_2334), 3 attribution errors corrected, 12 name/role corrections applied, 7 analytic facts added (f_2335-f_2341) from cross-referencing the boards against each other. Person index built at kb/plaque-audit/person-index.json by scripts/plaque/build_index.py."
     },
     {
       "priority_id": "p_293",
@@ -3845,6 +3845,32 @@
       "created_at": "2026-08-28",
       "status": "pending",
       "notes": "Spawned by the p_291 plaque audit."
+    },
+    {
+      "priority_id": "p_298",
+      "rank": 297,
+      "type": "VERIFY",
+      "article_id": "multi-year-index",
+      "tier": 2,
+      "assigned_weight": "medium",
+      "description": "Audit the 150-row multi-year index for hidden duplicates and hidden pairs. The merge rules are deliberately conservative: identical normalised forms plus a curated alias list only. That will have SPLIT some people in two (spelling drift across boards) and may have MERGED two people who share a common name. Check the rows with common given-plus-surname combinations first, and check anyone whose trajectory shows an implausible jump.",
+      "blocking": false,
+      "created_at": "2026-08-28",
+      "status": "pending",
+      "notes": "Spawned by p_292. The risk runs both ways and neither direction is safe to assume away."
+    },
+    {
+      "priority_id": "p_299",
+      "rank": 298,
+      "type": "RESEARCH",
+      "article_id": null,
+      "tier": 3,
+      "assigned_weight": "low",
+      "description": "Confirm or rule out the fourteen sibling-shaped pairs recorded as observations in f_2341 (Rotman, Bracken, Anders, Brzezinski, Azofra, Shatani, Lerikos, Braide, Gillett, Fincham, Burman, Snabl and others). Only the Bollhorns and Pungartniks are confirmed. Operator or alumni knowledge is the realistic route; do not assert a family relationship from a shared surname.",
+      "blocking": false,
+      "created_at": "2026-08-28",
+      "status": "pending",
+      "notes": "Spawned by p_292."
     }
   ],
   "queue_ordering": {
