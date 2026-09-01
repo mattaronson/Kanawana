@@ -7,9 +7,9 @@
 
 Kanawana's dining hall carries about 151 surviving plaques, and until August 2026 this project had transcribed only a fraction of the names on them. The [[meta/plaque-audit|plaque audit]] (p_291) read every board and recovered roughly 1,825 names.^1 Cross-referencing those boards against each other produces something no single plaque holds: **1,493 distinct named individuals, of whom 150 appear in more than one year.**
 
-That number is the point. A camp plaque is a snapshot of one tent, one section, one summer. Read together, they become a record of who kept coming back — and **45 people can be traced from a junior position to a staff-grade title on a later board**. The camper-to-staff progression that this wiki has described through three individual careers turns out to be the ordinary path.
+That number is the point. A camp plaque is a snapshot of one tent, one section, one summer. Read together, they become a record of who kept coming back — and **44 people can be traced from a junior position to a staff-grade title on a later board**. The camper-to-staff progression that this wiki has described through three individual careers turns out to be the ordinary path.
 
-**How to read this table.** Each row is one person as their name is painted, the years they appear, the span between first and last, and their trajectory. **★** marks anyone who held a staff-grade title (Counsellor, Tripper, Master, Capitaine, Director, Section Director, or the 2009 "Wolf") in at least one year.
+**How to read this table.** Each row is one person as their name is painted, the years they appear, the span between first and last, and their trajectory. **★** marks anyone who held a staff-grade title (Counsellor, Tripper, Master, Capitaine, Director or Section Director) in at least one year. The 2009 "Wolf" credit is **not** counted as staff: it marks membership of a leadership programme, not a job — see [[traditions/programs-activities|Programs and Activities]].
 
 **What this table is not.** Two names merge only where their normalised forms are identical, or where the pairing was individually justified during the audit — Hamerman/Hammerman, Wiviott/Iviott, Bollhorn/Ballhorn and about thirty others. **Nothing merges on similarity alone.** Entries given only as a first name plus an initial ("Katie A-F.", "Mark C.C.") are excluded entirely, because an initial is not a name. Common given names may still hide two different people, and the table should be read as a starting point for identification, not as an identification.
 
@@ -170,7 +170,7 @@ That number is the point. A camp plaque is a snapshot of one tent, one section, 
 
 ## What the table shows
 
-**The ladder is real and it is ordinary.** Forty-five documented junior-to-staff progressions is not a handful of exceptional careers; it is how the camp staffed itself. See [[people/directors-index|Directors and Staff of Camp Kanawana]] for the leadership those careers ended in.
+**The ladder is real and it is ordinary.** Forty-four documented junior-to-staff progressions is not a handful of exceptional careers; it is how the camp staffed itself. See [[people/directors-index|Directors and Staff of Camp Kanawana]] for the leadership those careers ended in.
 
 **Two CIT directors were on staff before they directed.** Sophie Caisse (CIT director 1993) and Paula Cussen (CIT director 1995) are both on the Staff of 1990 plaque. Neither article recorded it, because that plaque's fact carried 5 names out of about 102 until the audit.
 

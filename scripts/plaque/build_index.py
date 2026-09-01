@@ -1,5 +1,13 @@
 """Build a person index from the p_291 plaque audit.
 
+NOTE ON 'WOLF': the 2009 boards credit a "Wolf" beneath Counsellor and
+Tripper. An earlier version of this script classed that as a STAFF title.
+It is not: the operator identifies WOLF as a leadership PROGRAMME -- the
+Rangers programme revived in 2001 and renamed Wolf later that decade -- so
+a "Wolf" on a trip board is a programme participant attached to the trip,
+exactly as "L.I.T. Daphne Pungartnik" and "Lit Amy D." are on other boards.
+It is counted as a leadership-track position, never as staff.
+
 Conservative by design. Two names merge only if their NORMALISED forms are
 identical, or if the pair appears in ALIASES -- a hand-curated list, every
 entry of which was justified in the audit record. Nothing merges on
@@ -17,7 +25,7 @@ ROLE_KEYS = {
  'masters':'Master','capitaine':'Capitaine','counsellor':'Counsellor',
  'counsellors':'Counsellor','cit':'CIT','cits':'CIT','lit':'LIT','lits':'LIT',
  'jc':'JC','jcs':'JC','jcgs':'JC','tripper':'Tripper','trippers':'Tripper',
- 'wolf':'Wolf','therapist':'Therapist(joke)','guest':'Guest','crew':'Maintenance',
+ 'wolf':'Wolf programme','therapist':'Therapist(joke)','guest':'Guest','crew':'Maintenance',
  'staff':'Staff','swimmers':'Swimmer','recipients':'Award recipient',
  'namers':'Cabin namer','signatories':'Signatory','signed':'Signatory',
  'participants':'Participant','members':'Member','campers':'Camper',

@@ -23491,6 +23491,24 @@
       "notes": "Operator (Matt Aronson) confirms the sibling relationship between the 1993 and 1995 CITs and settles the FAMILY spelling as BOLLHORN. He then corrected this agent's handling of it -- 'No, it was my memory, you were right' -- identifying the wrong spelling as originating in his own recall ('Tiffany Ballhorn'), not in the agent's reading of the 1993 plaque. Verified against the session transcript and upheld: the agent read 'Alex Ballhorn' off the plaque at 2026-08-28T14:35:26Z, BEFORE the operator named Alex at all (2026-08-30T02:08:02Z). The reading was independent. See f_2329, which now records a real divergence between the family spelling and the 1993 plaque's paint.",
       "read_state": "extracted",
       "read_state_basis": "derived:cited-by-fact"
+    },
+    {
+      "source_id": "src_oral_aronson_rangers_wolf_lineage",
+      "type": "oral_history",
+      "title": "Operator account of the Rangers / Wolf / Trailblazers / Foresters programme lineage",
+      "date": "2026-08-28",
+      "date_precision": "exact",
+      "origin": "user_provided",
+      "origin_url": null,
+      "cache_path": null,
+      "char_count": 0,
+      "ingested_at": "2026-08-28T00:00:00Z",
+      "extracted": true,
+      "extraction_version": "v5.69",
+      "reliability": "primary",
+      "notes": "Operator (Matt Aronson) supplied the lineage of Kanawana's leadership programmes, unprompted, on being shown the plaque audit's 'Wolf' finding. It CORRECTS an inference of mine -- I had read the 2009 boards' 'WOLF' credit as a third staff title; it is a PROGRAMME name. It also dates two programmes the wiki records as 'entirely undated' (Trailblazers, Foresters) and closes a 34-year gap in the Rangers record.",
+      "read_state": "extracted",
+      "read_state_basis": "derived:cited-by-fact"
     }
   ],
   "source_count": 685

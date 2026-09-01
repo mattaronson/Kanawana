@@ -1,8 +1,8 @@
 {
-  "version": "5.68",
-  "kb_version": "v5.68",
+  "version": "5.69",
+  "kb_version": "v5.69",
   "migrated_from": "3.3",
-  "fact_count": 2304,
+  "fact_count": 2307,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -39726,7 +39726,7 @@
     },
     {
       "fact_id": "f_2335",
-      "claim": "THE CAMP'S OWN CAREER LADDER, MEASURED. Cross-referencing all 151 transcribed plaques (p_291) against each other yields 1,493 distinct named individuals, of whom 150 appear on boards in MORE THAN ONE YEAR and 45 can be traced from a junior position (camper, CIT, LIT, JC, Ranger, Voyageur) to a staff-grade title (Counsellor, Tripper, Master, Capitaine, Section Director, Director) on a later board. This wiki has previously described the camper-to-staff progression only through individual careers -- Reiko Webster, David Leduc, Matt Hamerman. It is not anecdotal: it is the ordinary path, documented forty-five times over on the camp's own walls, and it is the strongest available evidence that Kanawana's leadership was grown internally rather than recruited.",
+      "claim": "THE CAMP'S OWN CAREER LADDER, MEASURED. Cross-referencing all 151 transcribed plaques (p_291) against each other yields 1,493 distinct named individuals, of whom 150 appear on boards in MORE THAN ONE YEAR and 44 can be traced from a junior position (camper, CIT, LIT, JC, Ranger, Voyageur) to a staff-grade title (Counsellor, Tripper, Master, Capitaine, Section Director, Director) on a later board. This wiki has previously described the camper-to-staff progression only through individual careers -- Reiko Webster, David Leduc, Matt Hamerman. It is not anecdotal: it is the ordinary path, documented forty-four times over on the camp's own walls, and it is the strongest available evidence that Kanawana's leadership was grown internally rather than recruited. || COUNT CORRECTED (p_296, 2026-08-28): this fact first said 45. One of those 45, Jeff Ware, qualified only because the index classed the 2009 'WOLF' credit as a staff title. It is not one -- the operator identifies WOLF as a leadership PROGRAMME, the Rangers programme revived in 2001 and renamed later that decade (f_2343) -- so a Wolf on a trip board is a programme participant, like an LIT. Reclassified as leadership-track, and the count is 44.",
       "sources": [
         "src_flickr_kanawana_plaque_album"
       ],
@@ -39869,6 +39869,65 @@
       "date_ref": "1980-2009",
       "conflicts_with": [],
       "added_version": "v5.68",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_2343",
+      "claim": "THE RANGERS PROGRAMME RAN, LAPSED, WAS REVIVED, WAS RENAMED WOLF, AND LAPSED AGAIN. The operator gives the sequence: the Rangers programme was REVIVED IN 2001, ran under that name, BECAME THE WOLF PROGRAMME later in the 2000s, and then lapsed a second time. The plaque record fits this exactly and could not have been read this way without it -- Rangers boards run 1955 to 1964 (f_1669-f_1676), the camper-weeks tables show Rangers last carrying campers in 1967 (f_1949 and section-names.md), then NOTHING for thirty-four years, then Rangers boards again for 2002, 2003, 2004 and 2005 (f_1677-f_1680), and then in 2009 two trip boards credit a 'WOLF' -- Phil Simon on the Yak Trip (f_1691) and Jeff Ware on Talahassee (f_1711). RANGERS TODAY IS THE ONE-MONTH LIT PROGRAMME, ages 15-16 with DAFA certification from the Conseil quebecois du loisir (f_0465), i.e. the name has returned a second time and now denotes something different again.",
+      "sources": [
+        "src_oral_aronson_rangers_wolf_lineage",
+        "src_flickr_kanawana_plaque_album"
+      ],
+      "confidence": "user_knowledge",
+      "category": "programs",
+      "entities": [
+        "Kamp Kanawana",
+        "Rangers",
+        "Wolf programme"
+      ],
+      "date_ref": "1955-2026",
+      "conflicts_with": [],
+      "added_version": "v5.69",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_2344",
+      "claim": "TRAILBLAZERS IS THE CIT PROGRAMME RENAMED, AND ITS LINEAGE RUNS BACK TO THAT PROGRAMME'S INCEPTION. The operator states that the traditional full-summer LIT programme IS the CIT programme, continuous from its inception, and is now called TRAILBLAZERS; that the RANGERS name now denotes the separate one-month LIT programme; and that the FORESTER programme, a tripper-training stream for the same cohort, was added only in the past few years. This DATES TWO PROGRAMMES THE WIKI RECORDS AS UNDATED: section-names.md states plainly that 'Trailblazers and Foresters remain entirely undated: neither appears in the McMorris thesis or any pre-1980s primary source checked, only in current (2026) YMCA program pages.' Trailblazers is not undated -- it is the CIT programme under a later name, so its history is the CIT history this project already holds, running from the 1960 CIT plaque (f_1544) forward. Foresters IS genuinely recent. The wiki has been treating one continuous programme as two unrelated ones, an artifact of a name change.",
+      "sources": [
+        "src_oral_aronson_rangers_wolf_lineage"
+      ],
+      "confidence": "user_knowledge",
+      "category": "programs",
+      "entities": [
+        "Kamp Kanawana",
+        "Trailblazers",
+        "Foresters",
+        "CIT program",
+        "LIT program"
+      ],
+      "date_ref": "1960-2026",
+      "conflicts_with": [],
+      "added_version": "v5.69",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_2345",
+      "claim": "'WOLF' ON THE 2009 TRIP BOARDS IS A PROGRAMME, NOT A JOB -- AN INFERENCE OF MINE, CORRECTED. The p_291 plaque audit found two 2009 boards crediting a 'WOLF' on its own line beneath Counsellor and Tripper (Phil Simon, Yak Trip, f_1691; Jeff Ware, Talahassee, f_1711) and recorded this as 'a third staff role in the 2009 staffing structure'. THAT READING WAS WRONG. The operator identifies Wolf as the Rangers leadership programme under its later name (f_2343), so a Wolf named on a trip board is a PROGRAMME PARTICIPANT attached to that trip -- exactly parallel to 'L.I.T. Daphne Pungartnik' on the Swazi 2007 board (f_1709) and 'Lit Amy D.' on the Basin 2007 board (f_1597), both of which the same audit had already transcribed without drawing the connection. The evidence for the correct reading was in the audit's own records. CONSEQUENCE: the count of documented junior-to-staff progressions in f_2335 falls from 45 to 44, because Jeff Ware qualified only through this misclassification.",
+      "sources": [
+        "src_oral_aronson_rangers_wolf_lineage",
+        "src_flickr_kanawana_plaque_album"
+      ],
+      "confidence": "stated",
+      "category": "programs",
+      "entities": [
+        "Kamp Kanawana",
+        "Wolf programme",
+        "Phil Simon",
+        "Jeff Ware"
+      ],
+      "date_ref": "2009",
+      "conflicts_with": [],
+      "added_version": "v5.69",
       "added_by": "manual"
     }
   ]

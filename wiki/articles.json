@@ -687,7 +687,10 @@
         "f_0830",
         "f_1221",
         "f_1948",
-        "f_1949"
+        "f_1949",
+        "f_2343",
+        "f_2344",
+        "f_2345"
       ],
       "sources_cited": [
         "src_gazette_1974_summer_camps_clipping",
@@ -695,7 +698,8 @@
         "src_ia_kanawana_report_1969",
         "src_ia_kanawana_report_1970",
         "src_ia_kanawana_report_1971",
-        "src_ia_ymca_montreal_annual_reports_collection"
+        "src_ia_ymca_montreal_annual_reports_collection",
+        "src_oral_aronson_rangers_wolf_lineage"
       ],
       "open_questions": 3,
       "cross_links": [
@@ -705,7 +709,7 @@
         "a-ross-seaman"
       ],
       "file_id": "1vObPDCKcgzCi8HVCEMuBzQCMPd0jk2ua",
-      "word_count": 2091,
+      "word_count": 2317,
       "tags": {
         "era": [
           "1920s",
@@ -9367,6 +9371,41 @@
       ],
       "file_id": null,
       "word_count": 1407
+    },
+    {
+      "article_id": "named-places-and-camp-vocabulary",
+      "title": "Named Places and Camp Vocabulary",
+      "wiki_folder": "site",
+      "status": "draft",
+      "status_history": [
+        {
+          "status": "draft",
+          "at": "2026-08-28T00:00:00Z",
+          "by": "auto",
+          "task": "WRITE"
+        }
+      ],
+      "ralph_loops_completed": 1,
+      "kb_facts_used": [
+        "f_2343",
+        "f_2344",
+        "f_2345"
+      ],
+      "sources_cited": [
+        "src_flickr_kanawana_plaque_album",
+        "src_photo_knights_charter_challenges",
+        "src_oral_aronson_rangers_wolf_lineage"
+      ],
+      "open_questions": 4,
+      "cross_links": [
+        "site/the-kanawana-site",
+        "traditions/section-names",
+        "traditions/knights-of-kanawana",
+        "meta/plaque-audit",
+        "people/multi-year-index"
+      ],
+      "file_id": null,
+      "word_count": 1123
     }
   ],
   "article_count": 93
