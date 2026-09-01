@@ -9406,6 +9406,50 @@
       ],
       "file_id": null,
       "word_count": 1123
+    },
+    {
+      "article_id": "plaque-culture",
+      "title": "What the Plaques Say Besides Names",
+      "wiki_folder": "traditions",
+      "status": "draft",
+      "status_history": [
+        {
+          "status": "draft",
+          "at": "2026-08-28T00:00:00Z",
+          "by": "auto",
+          "task": "WRITE"
+        }
+      ],
+      "ralph_loops_completed": 1,
+      "kb_facts_used": [
+        "f_1593",
+        "f_1611",
+        "f_1607",
+        "f_1610",
+        "f_1694",
+        "f_1643",
+        "f_1644",
+        "f_1645",
+        "f_1714",
+        "f_1724",
+        "f_1806",
+        "f_1726",
+        "f_1697"
+      ],
+      "sources_cited": [
+        "src_flickr_kanawana_plaque_album",
+        "src_ia_kanawana_report_1987"
+      ],
+      "open_questions": 5,
+      "cross_links": [
+        "traditions/traditions-and-culture",
+        "traditions/camp-songs-cheers",
+        "site/indigenous-names-and-land",
+        "meta/plaque-audit",
+        "site/the-kanawana-site"
+      ],
+      "file_id": null,
+      "word_count": 1342
     }
   ],
   "article_count": 93

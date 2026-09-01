@@ -3817,8 +3817,8 @@
       "description": "Camp culture recovered from plaques and absent from traditions/: the 1984 Robert Frost epigraph, the thirteen 1985 catchphrases, the 2006 setlist of pop covers, Kanawoodstock across 1993/95-2000-2009, the themed-day series (Western 1968, Viking 1972 with SWEDEN, Wizard of Oz), the Zodiac cabin-naming of 2000, and Raku the camp dog.",
       "blocking": false,
       "created_at": "2026-08-28",
-      "status": "pending",
-      "notes": "Spawned by the p_291 plaque audit."
+      "status": "completed",
+      "notes": "Spawned by the p_291 plaque audit. COMPLETED 2026-08-28: wiki/traditions/plaque-culture.md + f_2346-f_2350."
     },
     {
       "priority_id": "p_296",
@@ -3830,8 +3830,8 @@
       "description": "Unrecorded camp vocabulary and places from the plaques: the WOLF staff role (two 2009 boards), the SANCTUM structure whose 2007 epitaph is painted on the Senior Boys board, THE SUEZ BRIDGE, the section codes SB/JG/B/SGC from the 1998 swim board, and the international staffing evidenced by the Pathfinder paddle and the 2009 International Tent.",
       "blocking": false,
       "created_at": "2026-08-28",
-      "status": "pending",
-      "notes": "Spawned by the p_291 plaque audit."
+      "status": "completed",
+      "notes": "Spawned by the p_291 plaque audit. COMPLETED 2026-08-28: wiki/site/named-places-and-camp-vocabulary.md + f_2343-f_2345. The WOLF finding was CORRECTED, not confirmed -- it is a programme name, not a staff role; operator-supplied. section-names.md's 'Trailblazers entirely undated' claim also corrected."
     },
     {
       "priority_id": "p_297",
@@ -3871,6 +3871,19 @@
       "created_at": "2026-08-28",
       "status": "pending",
       "notes": "Spawned by p_292."
+    },
+    {
+      "priority_id": "p_300",
+      "rank": 299,
+      "type": "RESEARCH",
+      "article_id": null,
+      "tier": 3,
+      "assigned_weight": "low",
+      "description": "Two site questions raised by the plaque vocabulary and answerable only by someone who was there: (1) What was THE SANCTUM, and what happened to it in 2007? A single Senior Boys board records both its name and its epitaph, 'May the Sanctum R.I.P.' (2) Where was THE SUEZ BRIDGE, named on a 1987 board, and does it survive? The Knights charter's fifth challenge asks candidates to contribute 'a substantial part of a totem pole, or a bridge', so camper-built named bridges are plausible. Also: who was RAKU (f_2349), and were there other camp animals?",
+      "blocking": false,
+      "created_at": "2026-08-28",
+      "status": "pending",
+      "notes": "Spawned by p_295/p_296. Operator or alumni knowledge; no documentary route identified."
     }
   ],
   "queue_ordering": {

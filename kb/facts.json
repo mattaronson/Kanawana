@@ -1,8 +1,8 @@
 {
-  "version": "5.69",
-  "kb_version": "v5.69",
+  "version": "5.70",
+  "kb_version": "v5.70",
   "migrated_from": "3.3",
-  "fact_count": 2307,
+  "fact_count": 2312,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -39928,6 +39928,89 @@
       "date_ref": "2009",
       "conflicts_with": [],
       "added_version": "v5.69",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_2346",
+      "claim": "THE PLAQUES CARRY CAMP CULTURE, NOT ONLY ROSTERS, AND THE EXTRACTION PASS THAT PRODUCED THIS KB'S PLAQUE FACTS RECORDED ONLY THE NAMES. Recovered by the p_291 audit: a ROBERT FROST epigraph on the 1984 CIT board ('We have promises to keep / and miles to go before we sleep -- R.F.'), the only literary quotation in the collection; THIRTEEN CATCHPHRASES filling the centre of the 1985 CIT board ('Somethin' fierce!', 'Woah Bess!', 'Where do you find us? Under C.', 'Dude Monger' and nine more), the richest surviving sample of 1980s camp slang held anywhere in this project; the 1975 CIT board's motto 'WHY CAN'T WE BE FRIENDS?', the title of a War single released that same summer, plus a line naming that cohort's MASCOTS; and a DATED SETLIST on the 2006 Senior Girls board of which 'Tainted Love' and 'Proud Mary' are clearly legible -- pop covers rather than traditional camp songs, and the only documented dated setlist this project holds against a songs article built almost entirely on oral history.",
+      "sources": [
+        "src_flickr_kanawana_plaque_album"
+      ],
+      "confidence": "stated",
+      "category": "traditions",
+      "entities": [
+        "Kamp Kanawana"
+      ],
+      "date_ref": "1975-2006",
+      "conflicts_with": [],
+      "added_version": "v5.70",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_2347",
+      "claim": "KANAWOODSTOCK WAS A RECURRING MUSIC EVENT, EVIDENCED BY THREE OBJECTS ACROSS ROUGHLY SIXTEEN YEARS: a wooden GUITAR (year painted ambiguously, 1993 or 1995, title and year only), a GUITAR PICK for 2000 naming Justin Francis, Matt Busbridge, Gareth Potter and Alex Bonebakker under a KISS lyric ('I want to rock & roll all nite'), and a real DRUM HEAD still in its hoop for 2009 titled 'Anarchy in the KK' with the A drawn as an anarchy symbol, signed by seven. Each generation named the event with the music of its own moment; the 2009 object is a piece of the festival's own equipment rather than a plaque. Nothing in traditions/ treats Kanawoodstock as a named event.",
+      "sources": [
+        "src_flickr_kanawana_plaque_album"
+      ],
+      "confidence": "stated",
+      "category": "traditions",
+      "entities": [
+        "Kamp Kanawana",
+        "Kanawoodstock"
+      ],
+      "date_ref": "1993-2009",
+      "conflicts_with": [],
+      "added_version": "v5.70",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_2348",
+      "claim": "A THEMED-DAY COMPETITION FORMAT RAN AT KANAWANA AND IS NOT NAMED AS A TRADITION IN THIS WIKI. Four instances: WESTERN DAY 1968 (a shield naming the winning team, the Cowboys); VIKING DAY 1972 (an arrow-shaped board with a longship reading SWEDEN in heavy black across the middle -- a NATIONAL assignment, implying the camp was divided into country teams rather than staging a Viking pageant); a WIZARD OF OZ DAY on a deeply carved, badly weathered board whose year and winning team cannot be read (f_1806); and an Arthurian all-camp day, 'Sir Kay, or Arthur's Lost Knight', run in 1987 and rated by the director as 'slightly less than mediocre'. Separately, the ALL-CAMP GAME was named and commemorated per session: 'Treasure Island KK' for 1st session 1996 on a ship-shaped board, and the 3rd session of 1995 on a bone-shaped board.",
+      "sources": [
+        "src_flickr_kanawana_plaque_album",
+        "src_ia_kanawana_report_1987"
+      ],
+      "confidence": "stated",
+      "category": "traditions",
+      "entities": [
+        "Kamp Kanawana"
+      ],
+      "date_ref": "1968-1996",
+      "conflicts_with": [],
+      "added_version": "v5.70",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_2349",
+      "claim": "RAKU WAS ALMOST CERTAINLY A CAMP DOG. The 3rd-session 1995 all-camp board reads 'We saved Raku and the red-day tuck!' -- opaque on its own -- and the board is CUT IN THE SHAPE OF A BONE, with a red K at one end, a green K at the other, and a PAW PRINT painted beside the lettering (f_1593). The object's form carries the meaning of a sentence that is otherwise a private joke. This KB records no camp animals of any kind, and an animal important enough to build an all-camp game around leaves no other trace in the project.",
+      "sources": [
+        "src_flickr_kanawana_plaque_album"
+      ],
+      "confidence": "inferred",
+      "category": "traditions",
+      "entities": [
+        "Kamp Kanawana",
+        "Raku"
+      ],
+      "date_ref": "1995",
+      "conflicts_with": [],
+      "added_version": "v5.70",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_2350",
+      "claim": "TWO DECORATIVE TRADITIONS RUN SIDE BY SIDE ON THE PLAQUE WALL, AND NEITHER IS RECORDED IN THIS KB. (1) INDIGENOUS-DERIVED IMAGERY: a 1982 Senior Girls Staff wood slice painted with a large THUNDERBIRD in Pacific-Northwest formline style (ovoids, split-U wing feathers, red-black-white palette, f_1697); the Montreal-to-New-York paddle's stylised mask and sunburst medallion in the same idiom (f_1662); and the 1959 La Verendrye board painted directly onto a MOOSE ANTLER, naming a section 'The Cawasachouanes' (f_1648). wiki/site/indigenous-names-and-land.md exists but holds no fact about the camp's use of such imagery on its own objects -- these are dated, material instances. (2) EUROPEAN FOLK CARVING: against that, a shield-shaped board carries only chip-carved rosettes, scrolled triangular banding and dotted borders in a Scandinavian or Slavic decorative vocabulary (f_1702), and the 1983 Senior Girls Staff pennant is a hand-drawn SIERPINSKI GASKET three or four levels deep (f_1698). The two vocabularies do not mix on any single object.",
+      "sources": [
+        "src_flickr_kanawana_plaque_album"
+      ],
+      "confidence": "stated",
+      "category": "traditions",
+      "entities": [
+        "Kamp Kanawana"
+      ],
+      "date_ref": "1959-1983",
+      "conflicts_with": [],
+      "added_version": "v5.70",
       "added_by": "manual"
     }
   ]
