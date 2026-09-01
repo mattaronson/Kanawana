@@ -1,6 +1,6 @@
 {
-  "version": "5.72",
-  "kb_version": "v5.72",
+  "version": "5.73",
+  "kb_version": "v5.73",
   "migrated_from": "3.3",
   "fact_count": 2315,
   "facts": [
@@ -39726,7 +39726,7 @@
     },
     {
       "fact_id": "f_2335",
-      "claim": "THE CAMP'S OWN CAREER LADDER, MEASURED. Cross-referencing all 151 transcribed plaques (p_291) against each other yields 1,493 distinct named individuals, of whom 150 appear on boards in MORE THAN ONE YEAR and 44 can be traced from a junior position (camper, CIT, LIT, JC, Ranger, Voyageur) to a staff-grade title (Counsellor, Tripper, Master, Capitaine, Section Director, Director) on a later board. This wiki has previously described the camper-to-staff progression only through individual careers -- Reiko Webster, David Leduc, Matt Hamerman. It is not anecdotal: it is the ordinary path, documented forty-four times over on the camp's own walls, and it is the strongest available evidence that Kanawana's leadership was grown internally rather than recruited. || COUNT CORRECTED (p_296, 2026-08-28): this fact first said 45. One of those 45, Jeff Ware, qualified only because the index classed the 2009 'WOLF' credit as a staff title. It is not one -- the operator identifies WOLF as a leadership PROGRAMME, the Rangers programme revived in 2001 and renamed later that decade (f_2343) -- so a Wolf on a trip board is a programme participant, like an LIT. Reclassified as leadership-track, and the count is 44.",
+      "claim": "THE CAMP'S OWN CAREER LADDER, MEASURED. Cross-referencing all 151 transcribed plaques (p_291) against each other yields 1,493 distinct named individuals, of whom 149 appear on boards in MORE THAN ONE YEAR and 43 can be traced from a junior position (camper, CIT, LIT, JC, Ranger, Voyageur) to a staff-grade title (Counsellor, Tripper, Master, Capitaine, Section Director, Director) on a later board. This wiki has previously described the camper-to-staff progression only through individual careers -- Reiko Webster, David Leduc, Matt Hamerman. It is not anecdotal: it is the ordinary path, documented forty-three times over on the camp's own walls, and it is the strongest available evidence that Kanawana's leadership was grown internally rather than recruited. || COUNT CORRECTED (p_296, 2026-08-28): this fact first said 45. One of those 45, Jeff Ware, qualified only because the index classed the 2009 'WOLF' credit as a staff title. It is not one -- the operator identifies WOLF as a leadership PROGRAMME, the Rangers programme revived in 2001 and renamed later that decade (f_2343) -- so a Wolf on a trip board is a programme participant, like an LIT. Reclassified as leadership-track, and the count is 44. || COUNT CORRECTED AGAIN (2026-08-28): 150/44 became 149/43 when ARIEL MCGEARY and ARIEL MCGEARY HALL were found to be one person split across two rows by a surname variant. That is the hidden-SPLIT failure p_298 anticipates, found on the first close reading of the output rather than by the audit that queued it. Two display errors were fixed in the same pass -- 'Sally Waff' for the confirmed Sally Watt, 'Matt Iviott' for Matt Wiviott. Three errors in one screen of output is the honest measure of what the remaining rows hold, and the conservative merge rules mean the residual risk runs toward SPLITTING one person into two rather than merging two into one: the true traced count is likely a little below 149 and the true progression count a little above 43.",
       "sources": [
         "src_flickr_kanawana_plaque_album"
       ],
@@ -39739,7 +39739,7 @@
       ],
       "date_ref": "1955-2010",
       "conflicts_with": [],
-      "added_version": "v5.67",
+      "added_version": "v5.73",
       "added_by": "manual"
     },
     {

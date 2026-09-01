@@ -69,7 +69,6 @@ ALIASES = {  # justified in the audit record; nothing here is a guess
  'lindsay mcdougall':'lindsay mcdougall','lindsay macdougall':'lindsay mcdougall',
  'helena longpre':'helena longpre','heléna longpré':'helena longpre',
  'scott macleod':'scott macleod','scott mcleod':'scott macleod',
- 'sally waff':'sally watt','sally watt':'sally watt',
  'j.m. sotiran':'jm sotiron','j.m. (jeff) sotiron':'jm sotiron',
  'sam trowbridge':'sam trowbridge',"sam 'sassim' trowbridge":'sam trowbridge',
  "sam 'saddam' trowbridge":'sam trowbridge',
@@ -97,6 +96,26 @@ ALIASES = {  # justified in the audit record; nothing here is a guess
  'jenny kaufman':'jennifer kaufman','jen kauf[man]':'jennifer kaufman',
  'dylan o brian':'dylan obrien','dylan o brien':'dylan obrien',
  'mike zeltzer':'michael zeitzer','micheal zeitzer':'michael zeitzer',
+ 'ariel mcgeary':'ariel mcgeary hall','ariel mcgeary hall':'ariel mcgeary hall',
+ 'sally waff':'sally watt','sally watt':'sally watt',
+}
+
+# Display name where the plaques disagree and one reading is settled. Each
+# entry was resolved against a specific board during the p_291 audit, not
+# chosen for looking tidier.
+PREFERRED = {
+ 'sally watt':'Sally Watt',                 # confirmed from the 1983 paddle in senior-boys-1987.jpg
+ 'matt wiviott':'Matt Wiviott',             # 'Iviott' loses the W against the paddle grain
+ 'reiko webster':'Reiko Webster',
+ 'jm sotiron':'J.M. (Jeff) Sotiron',
+ 'sam trowbridge':"Sam 'Saddam' Trowbridge",# confirmed from voyageurs-1998.jpg
+ 'ariel mcgeary hall':'Ariel McGeary Hall',
+ 'tiff bollhorn':'Tiff Bollhorn',
+ 'alex bollhorn':'Alex Bollhorn',
+ 'sarah addleman frankel':'Sarah Addleman Frankel',
+ 'helena longpre':'Helena Longpre',
+ 'jennifer kaufman':'Jennifer Kaufman',
+ 'dan shemie':'Dan Shemie',
 }
 
 def strip_nick(s):
@@ -177,7 +196,8 @@ os.makedirs('kb/plaque-audit', exist_ok=True)
 out = {}
 for n, apps in index.items():
     yrs = sorted({a['year'] for a in apps if a['year']})
-    out[n] = {'forms': sorted(raw_forms[n]), 'appearances': apps,
+    disp = PREFERRED.get(n) or sorted(raw_forms[n], key=lambda x:(-len(x), x))[0]
+    out[n] = {'display': disp, 'forms': sorted(raw_forms[n], key=lambda x:(-len(x), x)), 'appearances': apps,
               'years': yrs, 'span': (yrs[-1]-yrs[0]) if len(yrs) > 1 else 0,
               'initial_only': is_initial_only(n)}
 json.dump(out, open('kb/plaque-audit/person-index.json','w'), indent=1, ensure_ascii=False)

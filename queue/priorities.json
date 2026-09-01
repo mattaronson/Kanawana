@@ -3857,7 +3857,7 @@
       "blocking": false,
       "created_at": "2026-08-28",
       "status": "pending",
-      "notes": "Spawned by p_292. The risk runs both ways and neither direction is safe to assume away."
+      "notes": "Spawned by p_292. The risk runs both ways and neither direction is safe to assume away. STARTED 2026-08-28: three errors already found on the first close reading of the index output -- Ariel McGeary / Ariel McGeary Hall were one person split across two rows (counts fell 150->149 traced, 44->43 progressions), and 'Sally Waff' / 'Matt Iviott' were displaying plaque misreadings this project had already resolved elsewhere. A PREFERRED display map was added to build_index.py for cases where the plaques disagree and one reading is settled. THE REMAINING RISK RUNS TOWARD SPLITTING, not merging: the rules are conservative, so the true traced count is likely a little below 149 and the true progression count a little above 43."
     },
     {
       "priority_id": "p_299",
