@@ -1,8 +1,8 @@
 {
-  "version": "5.67",
-  "kb_version": "v5.67",
+  "version": "5.68",
+  "kb_version": "v5.68",
   "migrated_from": "3.3",
-  "fact_count": 2303,
+  "fact_count": 2304,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -26388,7 +26388,7 @@
     },
     {
       "fact_id": "f_1565",
-      "claim": "A dining-hall roll plaque for 'The Order of the Knights of Kanawana' ('an honour bestowed upon a select few campers who have excelled in mastering important skills and who reflect the spirit that is Kanawana', crest motto 'Non Nobis') lists knighted campers by year from 1980 to 2009, including Sir Denys Lawrence and Lady Lindsay Hertland (1980) through Sir Dylan Applebaum (2009). || FULL ROSTER AS TRANSCRIBED FROM THE IMAGE (p_292, 2026-08-28, from knights-of-kanawana.jpg): roll: Sir Denys Lawrence (1980); Lady Lindsay Kertland (1980); Sir Elias Furdon (1980); Lady Avril Chaplain (1980); Sir Mark Gillett (1981); Sir Jonathan Shrier (1981); Sir Ian Davis (1981); Sir Craig Gillett (1982); Sir Dave Paltiel (1982); Sir Eyal Artzy (1987); Sir Micheal Zeitzer (1987); Sir Misha Artzy (1988); Sir Adrian Di Giovanni (1992); Lady Susan Gamberg (1992); Sir Andrew Henle (1992); Sir Ryan Harbinson (1992); Sir Matthew Chown (1993); Lady Lauren Katz (1993); Sir Alexander Aylett (1994); Sir Daniel Sokoloff (1994); Sir Christian Eichler (1994); Sir Josh Usheroff (1998); Sir Conor Ohiel (1999); Lady Ali Olshefsky (2002); Sir Ian Braide (2002); Lady Caroline Noble (2002); Sir Scott Harman-Heath (2008); Sir Dylan Applebaum (2009); Sir Dylan O'Brien (2009) | citation: The Order of the Knights of Kanawana is an honour bestowed upon a select few campers who have excelled in mastering important skills and who reflect the spirit that is Kanawana | crest motto: NON NOBIS SOLUM. This fact previously carried 3 of the 29 names on the object. READINGS HELD AT REDUCED CONFIDENCE: Sir Elias Furdon (may be Purdon); Sir Conor Ohiel (very likely CONNOR O'NEIL, who is a CIT in 2000); Lady Caroline Noble and Sir Dylan O'Brien -- both painted in a lighter hand and faded. The text before this marker is the original record and is preserved unchanged. || NAME CORRECTED: 'Lady Lindsay Hertland' is LADY LINDSAY KERTLAND -- and a Lindsay Kertland is a CIT in 1985 (f_1611) and on the 1983 canoe-staff paddle (f_1646), so the misreading was concealing a person this KB already held. (p_292, 2026-08-28.)",
+      "claim": "A dining-hall roll plaque for 'The Order of the Knights of Kanawana' ('an honour bestowed upon a select few campers who have excelled in mastering important skills and who reflect the spirit that is Kanawana', crest motto 'Non Nobis') lists knighted campers by year from 1980 to 2009, including Sir Denys Lawrence and Lady Lindsay Hertland (1980) through Sir Dylan Applebaum (2009). || FULL ROSTER AS TRANSCRIBED FROM THE IMAGE (p_292, 2026-08-28, from knights-of-kanawana.jpg): roll: Sir Denys Lawrence (1980); Lady Lindsay Kertland (1980); Sir Elias Furdon (1980); Lady Avril Chaplain (1980); Sir Mark Gillett (1981); Sir Jonathan Shrier (1981); Sir Ian Davis (1981); Sir Craig Gillett (1982); Sir Dave Paltiel (1982); Sir Eyal Artzy (1987); Sir Micheal Zeitzer (1987); Sir Misha Artzy (1988); Sir Adrian Di Giovanni (1992); Lady Susan Gamberg (1992); Sir Andrew Henle (1992); Sir Ryan Harbinson (1992); Sir Matthew Chown (1993); Lady Lauren Katz (1993); Sir Alexander Aylett (1994); Sir Daniel Sokoloff (1994); Sir Christian Eichler (1994); Sir Josh Usheroff (1998); Sir Conor Ohiel (1999); Lady Ali Olshefsky (2002); Sir Ian Braide (2002); Lady Caroline Noble (2002); Sir Scott Harman-Heath (2008); Sir Dylan Applebaum (2009); Sir Dylan O'Brien (2009) | citation: The Order of the Knights of Kanawana is an honour bestowed upon a select few campers who have excelled in mastering important skills and who reflect the spirit that is Kanawana | crest motto: NON NOBIS SOLUM. This fact previously carried 3 of the 29 names on the object. READINGS HELD AT REDUCED CONFIDENCE: Sir Elias Furdon (may be Purdon); Sir Conor Ohiel (very likely CONNOR O'NEIL, who is a CIT in 2000); Lady Caroline Noble and Sir Dylan O'Brien -- both painted in a lighter hand and faded. The text before this marker is the original record and is preserved unchanged. || NAME CORRECTED: 'Lady Lindsay Hertland' is LADY LINDSAY KERTLAND -- and a Lindsay Kertland is a CIT in 1985 (f_1611) and on the 1983 canoe-staff paddle (f_1646), so the misreading was concealing a person this KB already held. (p_292, 2026-08-28.) || CORRECTION TO THE p_291 AUDIT NOTE (p_293, 2026-08-28): that note claimed the Knights of Kanawana appeared in this wiki 'nowhere except passing mentions'. THAT WAS WRONG. traditions-and-culture.md already carried a substantial treatment -- the charter text, the oath, the six challenges, the birchbark medium, and the 1979-versus-1980 founding question (f_2110). What was genuinely missing was only the ROLL: 26 of its 29 names. The erroneous claim was made from a grep for the word 'Knights' rather than from reading the section it hit, which is the same failure of method the audit exists to correct.",
       "sources": [
         "src_flickr_kanawana_plaque_album"
       ],
@@ -39851,6 +39851,24 @@
       "date_ref": "1956-2010",
       "conflicts_with": [],
       "added_version": "v5.67",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_2342",
+      "claim": "THE KNIGHTS OF KANAWANA ROLL, READ AS A WHOLE. The dining-hall roll board records 29 investitures across 13 distinct years between 1980 and 2009 -- an average of about one a year against a camp of several hundred campers a season, which bears out the charter's claim to 'a select group'. SIX OF THE 29 ARE LADIES, two of them among the four inaugural knights of 1980 (Lindsay Kertland, Avril Chaplain); the charter's language is gender-inclusive from the outset and the order appears never to have had a men-only phase, roughly a decade into coeducation. THE ROLL IS ALSO FULL OF GAPS -- nothing for 1983-86, 1989-91, 1995-97, 2000-01 or 2003-07 -- and the board cannot distinguish between three readings: that the order ran continuously and no one met its six challenges in those years, that it lapsed and was revived, or that the board is an incomplete record. The camp's 1988 report stating that all listed programmes including the Knights were 'still in effect' (f_2110) sits against a roll silent from 1989 to 1991, which makes that stretch the sharpest test case. FINALLY, the order honoured CAMPERS and a striking number of them returned as staff -- Denys Lawrence, Lindsay Kertland, the four CITs of 1992-93, Josh Usheroff, Ian Braide -- so the roll functions as an early rung on the camp's documented career ladder (f_2335) rather than as a terminal honour.",
+      "sources": [
+        "src_flickr_kanawana_plaque_album",
+        "src_ia_kanawana_place_to_grow_1988"
+      ],
+      "confidence": "stated",
+      "category": "traditions",
+      "entities": [
+        "Kamp Kanawana",
+        "Knights of Kanawana"
+      ],
+      "date_ref": "1980-2009",
+      "conflicts_with": [],
+      "added_version": "v5.68",
       "added_by": "manual"
     }
   ]

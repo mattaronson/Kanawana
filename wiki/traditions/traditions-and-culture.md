@@ -144,6 +144,8 @@ The charter is a **birchbark sheet**, not paper: a painted black lake-and-island
 
 The order overlaps in membership with [[traditions/order-of-owens|the Order of Owens]]: Denys Lawrence was an Owens recipient in 1977 and among the first knights in 1980, and Dylan Applebaum was knighted in 2009 and received the Owens in 2010. Whether the two honours are formally related is undocumented.
 
+**The roll itself.** Twenty-nine people were invested between 1980 and 2009, each named on a dining-hall board with their year and the title Sir or Lady. This wiki recorded three of them until the [[meta/plaque-audit|plaque audit]] of August 2026 recovered the full list. The roll, the cross-references it opens up, and what its considerable gaps might mean are set out in **[[traditions/knights-of-kanawana|The Order of the Knights of Kanawana]]**.
+
 ## Images
 
 ![The Order of the Knights of Kanawana, 1981](../../assets/images/art/knights-of-kanawana-charter.jpg)

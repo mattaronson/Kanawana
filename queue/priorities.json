@@ -3791,8 +3791,8 @@
       "description": "Article: The Knights of Kanawana. A complete 29-person honour roll 1980-2009 with citation and crest, recovered in full (f_1565). The Order of Owens has an article on weaker evidence; this has a photograph of the roll itself. Nine of the 29 are already KB people.",
       "blocking": false,
       "created_at": "2026-08-28",
-      "status": "pending",
-      "notes": "Spawned by the p_291 plaque audit."
+      "status": "completed",
+      "notes": "Spawned by the p_291 plaque audit. COMPLETED 2026-08-28, WITH A CORRECTION TO ITS OWN PREMISE: this task was queued on my p_291 note claiming the Knights appeared 'nowhere except passing mentions'. That was wrong -- traditions-and-culture.md already carried the charter, the oath, the six challenges and the founding-date question. Only the ROLL was missing. Article created as a split from that section (hub keeps the charter, article carries the roll and analysis, the same pattern used for Order of Owens), not as a duplicate. f_2342 added; f_1565 carries the correction."
     },
     {
       "priority_id": "p_294",
