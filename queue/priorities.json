@@ -3765,8 +3765,86 @@
       "description": "AUDIT THE PLAQUE TRANSCRIPTIONS. Two of them were found partial on 2026-08-28 while answering an unrelated question: the 'CITS 95' plaque holds 29 names where f_1614 recorded 11, and 'Kanawana Staff 97' holds ~100 where f_1705 recorded 3. Both were cited elsewhere as if complete. Re-read every plaque image in assets/images/plaques/ (151 files) against its fact and record, per fact, whether the transcription is COMPLETE, PARTIAL, or UNREAD. On ordering: these plaques are alphabetical AS A TENDENCY, not as a rule -- late additions get appended out of sequence at the foot of a column (Alex Ballhorn on the 1993 plaque, Ben Levine on the 1995 one). Ordering may SUGGEST a reading for a faint name; it must NOT be used to exclude one. An earlier version of this task said the opposite and was wrong; see f_1568.",
       "blocking": false,
       "created_at": "2026-08-28",
+      "status": "completed",
+      "notes": "This is a read-receipt problem, not a research problem -- the images have been on disk the whole time. Note also the album has CIT plaques for 1960, 1970, 1975, 1979, 1982, 1983, 1984, 1985, 1986, 1992, 1993, 1995, 1996, 1997, 1998, 1999, 2000, 2001 and NO 1994; that gap is real, not an artifact of this audit. Guidance corrected 2026-08-28 after the alphabetical-exclusion argument was retracted. COMPLETED 2026-08-28: all 151 images read. 83 PARTIAL, 37 COMPLETE, 13 NO-NAMES, 8 ILLEGIBLE, 6 TRANSCRIBED, 4 UNREAD; 1,825 names transcribed. Records in kb/plaque-audit/audit.jsonl, account in kb/plaque-audit/FINDINGS.md."
+    },
+    {
+      "priority_id": "p_292",
+      "rank": 291,
+      "type": "WRITE",
+      "article_id": null,
+      "tier": 1,
+      "assigned_weight": "high",
+      "description": "Fold the plaque audit into the KB. 1,825 transcribed names sit in kb/plaque-audit/audit.jsonl and almost none are in facts.json. Rewrite the 83 PARTIAL facts from their audit rows, create facts for the 5 objects that have none, and fix the three wrong attributions (f_1629 country column, f_1627 dsc-0559, f_1667/f_1681 two faces of one birdhouse). Apply the name and role corrections listed in FINDINGS.md.",
+      "blocking": false,
+      "created_at": "2026-08-28",
       "status": "pending",
-      "notes": "This is a read-receipt problem, not a research problem -- the images have been on disk the whole time. Note also the album has CIT plaques for 1960, 1970, 1975, 1979, 1982, 1983, 1984, 1985, 1986, 1992, 1993, 1995, 1996, 1997, 1998, 1999, 2000, 2001 and NO 1994; that gap is real, not an artifact of this audit. Guidance corrected 2026-08-28 after the alphabetical-exclusion argument was retracted."
+      "notes": "Spawned by the p_291 plaque audit."
+    },
+    {
+      "priority_id": "p_293",
+      "rank": 292,
+      "type": "WRITE",
+      "article_id": null,
+      "tier": 1,
+      "assigned_weight": "high",
+      "description": "Article: The Knights of Kanawana. A complete 29-person honour roll 1980-2009 with citation and crest, recovered in full (f_1565). The Order of Owens has an article on weaker evidence; this has a photograph of the roll itself. Nine of the 29 are already KB people.",
+      "blocking": false,
+      "created_at": "2026-08-28",
+      "status": "pending",
+      "notes": "Spawned by the p_291 plaque audit."
+    },
+    {
+      "priority_id": "p_294",
+      "rank": 293,
+      "type": "RESEARCH",
+      "article_id": null,
+      "tier": 2,
+      "assigned_weight": "medium",
+      "description": "Re-photograph five boards, in priority order: nature-trip-1994 (the only surviving 1994 roster, ~15 effaced lines -- raking light), staff-2000 (~60-70 names), cit-1999 (uncatalogued), malibu-trip-2001 (blocked by electrical conduit, not wear), dsc-0684. Operator-dependent: requires someone at camp.",
+      "blocking": false,
+      "created_at": "2026-08-28",
+      "status": "pending",
+      "notes": "Spawned by the p_291 plaque audit."
+    },
+    {
+      "priority_id": "p_295",
+      "rank": 294,
+      "type": "WRITE",
+      "article_id": null,
+      "tier": 2,
+      "assigned_weight": "medium",
+      "description": "Camp culture recovered from plaques and absent from traditions/: the 1984 Robert Frost epigraph, the thirteen 1985 catchphrases, the 2006 setlist of pop covers, Kanawoodstock across 1993/95-2000-2009, the themed-day series (Western 1968, Viking 1972 with SWEDEN, Wizard of Oz), the Zodiac cabin-naming of 2000, and Raku the camp dog.",
+      "blocking": false,
+      "created_at": "2026-08-28",
+      "status": "pending",
+      "notes": "Spawned by the p_291 plaque audit."
+    },
+    {
+      "priority_id": "p_296",
+      "rank": 295,
+      "type": "VERIFY",
+      "article_id": null,
+      "tier": 2,
+      "assigned_weight": "medium",
+      "description": "Unrecorded camp vocabulary and places from the plaques: the WOLF staff role (two 2009 boards), the SANCTUM structure whose 2007 epitaph is painted on the Senior Boys board, THE SUEZ BRIDGE, the section codes SB/JG/B/SGC from the 1998 swim board, and the international staffing evidenced by the Pathfinder paddle and the 2009 International Tent.",
+      "blocking": false,
+      "created_at": "2026-08-28",
+      "status": "pending",
+      "notes": "Spawned by the p_291 plaque audit."
+    },
+    {
+      "priority_id": "p_297",
+      "rank": 296,
+      "type": "WRITE",
+      "article_id": null,
+      "tier": 3,
+      "assigned_weight": "medium",
+      "description": "Cohort continuity as a documented pattern: >=12 of 29 CITs of 1995 on the 1997 staff plaque, 7 of the 2008 LITs as 2009 JCs, all 8 girls of the 2000 shower tent still at camp years later, the Tasses across 1963-1990, Lindsay Kertland across 1980-1985. The wiki treats the CIT-to-staff pipeline only as individual careers.",
+      "blocking": false,
+      "created_at": "2026-08-28",
+      "status": "pending",
+      "notes": "Spawned by the p_291 plaque audit."
     }
   ],
   "queue_ordering": {
