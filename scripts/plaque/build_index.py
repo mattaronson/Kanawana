@@ -3,10 +3,11 @@
 NOTE ON 'WOLF': the 2009 boards credit a "Wolf" beneath Counsellor and
 Tripper. An earlier version of this script classed that as a STAFF title.
 It is not: the operator identifies WOLF as a leadership PROGRAMME -- the
-Rangers programme revived in 2001 and renamed Wolf later that decade -- so
-a "Wolf" on a trip board is a programme participant attached to the trip,
-exactly as "L.I.T. Daphne Pungartnik" and "Lit Amy D." are on other boards.
-It is counted as a leadership-track position, never as staff.
+Rangers programme revived in 2001 and renamed Wolf later that decade -- so a "Wolf" on a trip board holds that rank, exactly as "L.I.T. Daphne
+Pungartnik" and "Lit Amy D." do on other boards. Like CIT and LIT it names
+both a programme and a standing within it, so it IS a designation attached
+to a person -- but a trainee one. It is counted as leadership-track, never
+as staff.
 
 Conservative by design. Two names merge only if their NORMALISED forms are
 identical, or if the pair appears in ALIASES -- a hand-curated list, every

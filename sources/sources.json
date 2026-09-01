@@ -23509,6 +23509,24 @@
       "notes": "Operator (Matt Aronson) supplied the lineage of Kanawana's leadership programmes, unprompted, on being shown the plaque audit's 'Wolf' finding. It CORRECTS an inference of mine -- I had read the 2009 boards' 'WOLF' credit as a third staff title; it is a PROGRAMME name. It also dates two programmes the wiki records as 'entirely undated' (Trailblazers, Foresters) and closes a 34-year gap in the Rangers record.",
       "read_state": "extracted",
       "read_state_basis": "derived:cited-by-fact"
+    },
+    {
+      "source_id": "src_oral_aronson_wolf_rank",
+      "type": "oral_history",
+      "title": "Operator refinement: WOLF beside a name was a rank, like CIT or LIT",
+      "date": "2026-08-28",
+      "date_precision": "exact",
+      "origin": "user_provided",
+      "origin_url": null,
+      "cache_path": null,
+      "char_count": 0,
+      "ingested_at": "2026-08-28T00:00:00Z",
+      "extracted": true,
+      "extraction_version": "v5.71",
+      "reliability": "secondary",
+      "notes": "Operator (Matt Aronson): 'I think that WOLF when written next to a name was a rank/role - like a CIT or LIT.' RELIABILITY SET TO SECONDARY, not primary, because the operator hedges it ('I think') -- unlike his flat statements about the programme lineage in src_oral_aronson_rangers_wolf_lineage, which are recorded as primary. This refines rather than overturns f_2345: it does not restore the discarded 'third staff role' reading, and the junior-to-staff progression count stays at 44.",
+      "read_state": "extracted",
+      "read_state_basis": "derived:cited-by-fact"
     }
   ],
   "source_count": 685

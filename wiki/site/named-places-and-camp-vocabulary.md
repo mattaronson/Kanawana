@@ -1,6 +1,6 @@
 # Named Places and Camp Vocabulary
 
-*Status: draft | Sources: 3*
+*Status: draft | Sources: 4*
 *Last Updated: 2026-08-28*
 
 ## Overview
@@ -27,7 +27,11 @@ The 1998 swim board tags each swimmer with a section code — **SB, JG, B, SGC**
 
 Two 2009 trip boards credit a **"WOLF"** on its own line beneath Counsellor and Tripper: Phil Simon on the Yak Trip, Jeff Ware on Talahassee.^1 The plaque audit recorded this as a third staff role — a job title unknown to this project.
 
-**That reading was wrong.** Wolf is a *program*, not a post: the Rangers leadership program, revived in 2001, was renamed Wolf later in the decade before lapsing again.^3 A Wolf named on a trip board is a program participant attached to that trip, in exactly the way the same audit had already transcribed "L.I.T. Daphne Pungartnik" on a 2007 board and "Lit Amy D." on another. The evidence for the correct reading was sitting in the audit's own records; the pattern went unnoticed because the word was unfamiliar and "Counsellor / Tripper / Wolf" read as a list of ranks.
+**That reading was wrong, though not in the way first recorded here.** Wolf is a **rank** — of the same kind as CIT or LIT, and like those it names both a program and a person's standing within it.^3 ^4 The Rangers leadership program was revived in 2001, renamed Wolf later in the decade, and lapsed again; a Wolf credited on a trip board is someone holding that rank, attached to that trip, exactly as the same audit had already transcribed "L.I.T. Daphne Pungartnik" on a 2007 board and "Lit Amy D." on another.
+
+So a Wolf credit *is* a designation attached to a person — an earlier version of this section said Wolf was "a program, not a post," which drew the distinction far too sharply, since CIT and LIT are plainly both. What the evidence does not support is the original audit reading: that Wolf was a **staff** post, a job alongside Counsellor and Tripper. It sits with the trainee ranks, not the paid ones.
+
+The pattern went unnoticed at first because the word was unfamiliar and "Counsellor / Tripper / Wolf" read as a list of jobs. The evidence for the better reading was sitting in the audit's own records.
 
 The consequence is small but worth stating: one person, Jeff Ware, had been counted among the documented junior-to-staff progressions in [[people/multi-year-index|the multi-year index]] solely on the strength of this misreading. The count is 44, not 45. See [[traditions/section-names|Section Names]] for the full Rangers lineage.
 
@@ -59,7 +63,8 @@ None of this dates the practice, and the Pathfinder paddle carries no year at al
 
 1. Kanawana Flickr "Plaque" album, all 151 images transcribed in the p_291 audit [src_flickr_kanawana_plaque_album]. See [f_2345], and the per-image records in `kb/plaque-audit/audit.jsonl`.
 2. Photograph of the Knights of Kanawana charter [src_photo_knights_charter_challenges].
-3. Oral history, Matt Aronson, 28 August 2026 [src_oral_aronson_rangers_wolf_lineage]. See [f_2343], [f_2344].
+3. Oral history, Matt Aronson, 28 August 2026: the program lineage [src_oral_aronson_rangers_wolf_lineage]. See [f_2343], [f_2344].
+4. Oral history, Matt Aronson, 28 August 2026: Wolf as a rank comparable to CIT or LIT [src_oral_aronson_wolf_rank]. Recorded at secondary reliability — the operator hedges it ("I think"). See [f_2345].
 
 ## Research Notes
 

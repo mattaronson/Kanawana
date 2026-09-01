@@ -9394,7 +9394,8 @@
       "sources_cited": [
         "src_flickr_kanawana_plaque_album",
         "src_photo_knights_charter_challenges",
-        "src_oral_aronson_rangers_wolf_lineage"
+        "src_oral_aronson_rangers_wolf_lineage",
+        "src_oral_aronson_wolf_rank"
       ],
       "open_questions": 4,
       "cross_links": [
@@ -9405,7 +9406,7 @@
         "people/multi-year-index"
       ],
       "file_id": null,
-      "word_count": 1123
+      "word_count": 1260
     },
     {
       "article_id": "plaque-culture",

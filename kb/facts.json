@@ -1,6 +1,6 @@
 {
-  "version": "5.70",
-  "kb_version": "v5.70",
+  "version": "5.71",
+  "kb_version": "v5.71",
   "migrated_from": "3.3",
   "fact_count": 2312,
   "facts": [
@@ -39912,10 +39912,11 @@
     },
     {
       "fact_id": "f_2345",
-      "claim": "'WOLF' ON THE 2009 TRIP BOARDS IS A PROGRAMME, NOT A JOB -- AN INFERENCE OF MINE, CORRECTED. The p_291 plaque audit found two 2009 boards crediting a 'WOLF' on its own line beneath Counsellor and Tripper (Phil Simon, Yak Trip, f_1691; Jeff Ware, Talahassee, f_1711) and recorded this as 'a third staff role in the 2009 staffing structure'. THAT READING WAS WRONG. The operator identifies Wolf as the Rangers leadership programme under its later name (f_2343), so a Wolf named on a trip board is a PROGRAMME PARTICIPANT attached to that trip -- exactly parallel to 'L.I.T. Daphne Pungartnik' on the Swazi 2007 board (f_1709) and 'Lit Amy D.' on the Basin 2007 board (f_1597), both of which the same audit had already transcribed without drawing the connection. The evidence for the correct reading was in the audit's own records. CONSEQUENCE: the count of documented junior-to-staff progressions in f_2335 falls from 45 to 44, because Jeff Ware qualified only through this misclassification.",
+      "claim": "'WOLF' ON THE 2009 TRIP BOARDS IS A PROGRAMME, NOT A JOB -- AN INFERENCE OF MINE, CORRECTED. The p_291 plaque audit found two 2009 boards crediting a 'WOLF' on its own line beneath Counsellor and Tripper (Phil Simon, Yak Trip, f_1691; Jeff Ware, Talahassee, f_1711) and recorded this as 'a third staff role in the 2009 staffing structure'. THAT READING WAS WRONG. The operator identifies Wolf as the Rangers leadership programme under its later name (f_2343), so a Wolf named on a trip board is a PROGRAMME PARTICIPANT attached to that trip -- exactly parallel to 'L.I.T. Daphne Pungartnik' on the Swazi 2007 board (f_1709) and 'Lit Amy D.' on the Basin 2007 board (f_1597), both of which the same audit had already transcribed without drawing the connection. The evidence for the correct reading was in the audit's own records. CONSEQUENCE: the count of documented junior-to-staff progressions in f_2335 falls from 45 to 44, because Jeff Ware qualified only through this misclassification. || PHRASING REFINED (2026-08-28, same day): this fact said Wolf was 'a programme, not a job'. That was too sharp a dichotomy and the operator corrected it -- 'I think that WOLF when written next to a name was a rank/role, like a CIT or LIT'. He is right, and CIT and LIT show why: each names BOTH a programme and the standing a person holds within it, and each appears beside a name on these boards exactly as WOLF does. So a Wolf credit IS a designation attached to a person; what it is not is a STAFF post, which is the reading actually being discarded here. NOTHING ELSE CHANGES: Wolf remains classed as a leadership-track rank alongside CIT, LIT and JC rather than as staff, and the count of documented junior-to-staff progressions in f_2335 stays at 44. Note the operator hedges this one ('I think'), unlike his flat statements on the programme lineage in f_2343, and it is recorded at secondary reliability accordingly.",
       "sources": [
         "src_oral_aronson_rangers_wolf_lineage",
-        "src_flickr_kanawana_plaque_album"
+        "src_flickr_kanawana_plaque_album",
+        "src_oral_aronson_wolf_rank"
       ],
       "confidence": "stated",
       "category": "programs",
