@@ -57,6 +57,10 @@ GENERIC = {'left','right','col1','col2','col3','col4','upper','lower','house_1',
  '3rd_cabin','Talahassee_2nd_session','Swazi_4th_session','Talahassee_3rd_session',
  'Basin_Breezers_3rd_session','acrostic_B_A_S_I_N','others','readable','ring_tokens'}
 
+GROUP_ROLE = {'Staff':'Staff','CIT':'CIT','LIT':'LIT','JC':'JC','Rangers':'Ranger',
+ 'Voyageurs':'Voyageur','Knights':'Knight','Maintenance':'Maintenance','Swim':'Swimmer',
+ 'Advance Guard':'Member','Canoe Staff':'Staff','Sailing Staff':'Staff'}
+
 ALIASES = {  # justified in the audit record; nothing here is a guess
  'matt hamerman':'matt hamerman','matthew hammerman':'matt hamerman',
  'matt wiviott':'matt wiviott','matthew wiviott':'matt wiviott','matt iviott':'matt wiviott',
@@ -176,8 +180,15 @@ for r in rows:
     yr, grp = year_of(r), group_of(r)
     for key, val in r['names'].items():
         if key in SKIP_KEYS and key not in GENERIC: continue
-        role = ROLE_KEYS.get(key, 'Member' if key in GENERIC else None)
-        if role is None: continue
+        role = ROLE_KEYS.get(key)
+        if role is None:
+            if key not in GENERIC: continue
+            # A generic column key ("col1", "left", "1st_session") says nothing
+            # about the role -- but the BOARD does. Names in the columns of a
+            # Staff plaque are staff; names in the columns of a CIT plaque are
+            # CITs. Reading the key and ignoring the board silently demoted
+            # every name on the 1979, 1990 and 2002 staff plaques to "Member".
+            role = GROUP_ROLE.get(grp, 'Member')
         items = val if isinstance(val, list) else [val]
         for it in items:
             if isinstance(it, list) and len(it) == 2 and isinstance(it[1], int):
