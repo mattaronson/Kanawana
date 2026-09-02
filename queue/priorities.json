@@ -3935,7 +3935,7 @@
       "blocking": false,
       "created_at": "2026-09-02",
       "status": "pending",
-      "notes": "See f_2376. The verify harness's provenance pass (check H) already counts read_state values -- it can produce the worklist. Note that 724 sources currently read 'extracted'; the subset with basis 'derived:cited-by-fact' AND no cache_path is the priority. | MEASURED 2026-09-02: 616 of 1,310 source records -- 47% -- are marked read only because a fact cites them and hold no cached text. That is the size of the exposure, not an estimate."
+      "notes": "See f_2376. The verify harness's provenance pass (check H) already counts read_state values -- it can produce the worklist. Note that 724 sources currently read 'extracted'; the subset with basis 'derived:cited-by-fact' AND no cache_path is the priority. | MEASURED 2026-09-02: 616 of 1,310 source records -- 47% -- are marked read only because a fact cites them and hold no cached text. That is the size of the exposure, not an estimate. | RESCOPED 2026-09-02 after measuring the cache. No fresh OCR is needed for most of the corpus: 40.3 MB of OCR'd text was already on disk. But 300 of 904 cached files belonged to NO source record -- 25.8 MB, ~6.5M tokens, including 164 issues of Canadian Camping Magazine 1949-1988 against 18 records for the run. 251 non-duplicate files are now catalogued with read_state 'unread' (scripts/reread/catalog_orphans.py). The queue is 1,447 documents: 857 with cached text, 537 URL-only, 53 with neither. See f_2382, f_2383."
     },
     {
       "priority_id": "p_305",

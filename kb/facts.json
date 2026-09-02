@@ -1,8 +1,8 @@
 {
-  "version": "5.85",
-  "kb_version": "5.85",
+  "version": "5.86",
+  "kb_version": "5.86",
   "migrated_from": "3.3",
-  "fact_count": 2343,
+  "fact_count": 2346,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -40571,6 +40571,60 @@
       "date_ref": "1951",
       "conflicts_with": [],
       "added_version": "5.85",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_2382",
+      "claim": "THE SOURCES ARE ALREADY OCR'd. NOBODY WIRED A QUARTER OF THEM UP. Measured 2026-09-02 in answer to the operator's question about whether re-reading would require fresh OCR: sources/cache held 904 non-empty text files, 40.3 MB, roughly 10 million tokens of already-extracted text. Only 604 of those files were pointed at by a source record. THREE HUNDRED FILES -- 25.8 MB, about 6.5 million tokens -- belonged to no record at all, so no step of this pipeline could see them, cite them, or count them as unread. The largest block by far is CANADIAN CAMPING MAGAZINE: 164 issues spanning 1949 to 1988, fully OCR'd on disk, against 18 source records for the entire run and only 10 of those carrying a cache_path. Next: 57 files in the YMCA of Montreal fonds folder including the 1921, 1922 and 1923 camp brochures, the 1939 and 1941 CFCF radio broadcasts, Kanawana annual and director's reports for 1964-66 and 1969-79, twenty-four SGW YMCA annual reports from 1889 to 1996, the 1901 historical sketch and the 1873 YMCA history. Then 29 web-page caches including a 4.9 MB YMCA newsletter run and Gazette newspaper captures of 533 KB (1897) and 754 KB (1918). All 251 non-duplicate files are now catalogued with read_state 'unread'.",
+      "sources": [],
+      "confidence": "stated",
+      "category": "methodology",
+      "entities": [
+        "sources.json",
+        "Canadian Camping Magazine"
+      ],
+      "date_ref": "2026-09-02",
+      "conflicts_with": [],
+      "added_version": "5.86",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_2383",
+      "claim": "THE GREEN TRIANGLE CORPUS IS CACHED TWICE, byte for byte, under sources/cache/green-triangle/ and sources/cache/ymca-montreal-fonds/. Thirty-eight issues appear in both folders with identical checksums; sources.json points at the fonds copies, so the other 38 looked like uncatalogued material and are not. Forty-nine such byte-identical duplicates were skipped when the orphan files were catalogued. This is why the orphan count is 251 new records and not 300 files -- a raw file count would have overstated the backlog by a fifth.",
+      "sources": [],
+      "confidence": "stated",
+      "category": "methodology",
+      "entities": [
+        "Green Triangle",
+        "sources.json"
+      ],
+      "date_ref": "2026-09-02",
+      "conflicts_with": [],
+      "added_version": "5.86",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_2384",
+      "claim": "THE FIRST SAMPLE FROM AN UNMINED SOURCE SUPPORTS THE OPERATOR'S PREDICTION, against the earlier calibration from two well-picked-over documents (f_2378). The first 1,200 characters of one Green Triangle issue -- 30 July 1932 -- name fifteen people: an editorial staff of Harvey Marshall, Jack Millar, Herb Furness, Bill Bourne, Preston Robb, Keith Bowen, Hugh R[?]key, Rob Gibson and Geo. Brugman; a poem signed Max Ford, 1932; departing staff Mr. Buckley (Junior Director for July), Dr. Courville, and leaders Alex Ross and Scotty Kiell; and arriving staff Mr. McDermit and Dr. Colb[?]azer. ELEVEN OF THE THIRTEEN CHECKED APPEAR NOWHERE in this knowledge base or wiki. Note also that 'Mr. Buckley, Junior Director for the month of July' in 1932 is very probably the 'Wilf Buckley' the 1935 chronicle records arriving as Junior Director three years later -- a person visible only because two documents were read closely.",
+      "sources": [
+        "src_ia_green_triangle_collection"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "Harvey Marshall",
+        "Jack Millar",
+        "Herb Furness",
+        "Keith Bowen",
+        "Rob Gibson",
+        "Max Ford",
+        "Alex Ross",
+        "Scotty Kiell",
+        "Wilf Buckley"
+      ],
+      "date_ref": "1932",
+      "conflicts_with": [],
+      "added_version": "5.86",
       "added_by": "manual"
     }
   ]
