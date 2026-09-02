@@ -1,8 +1,8 @@
 {
-  "version": "5.74",
-  "kb_version": "v5.74",
+  "version": "5.75",
+  "kb_version": "v5.75",
   "migrated_from": "3.3",
-  "fact_count": 2315,
+  "fact_count": 2317,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -39726,7 +39726,7 @@
     },
     {
       "fact_id": "f_2335",
-      "claim": "THE CAMP'S OWN CAREER LADDER, MEASURED. Cross-referencing all 151 transcribed plaques (p_291) against each other yields 1,493 distinct named individuals, of whom 149 appear on boards in MORE THAN ONE YEAR and 43 can be traced from a junior position (camper, CIT, LIT, JC, Ranger, Voyageur) to a staff-grade title (Counsellor, Tripper, Master, Capitaine, Section Director, Director) on a later board. This wiki has previously described the camper-to-staff progression only through individual careers -- Reiko Webster, David Leduc, Matt Hamerman. It is not anecdotal: it is the ordinary path, documented forty-three times over on the camp's own walls, and it is the strongest available evidence that Kanawana's leadership was grown internally rather than recruited. || COUNT CORRECTED (p_296, 2026-08-28): this fact first said 45. One of those 45, Jeff Ware, qualified only because the index classed the 2009 'WOLF' credit as a staff title. It is not one -- the operator identifies WOLF as a leadership PROGRAMME, the Rangers programme revived in 2001 and renamed later that decade (f_2343) -- so a Wolf on a trip board is a programme participant, like an LIT. Reclassified as leadership-track, and the count is 44. || COUNT CORRECTED AGAIN (2026-08-28): 150/44 became 149/43 when ARIEL MCGEARY and ARIEL MCGEARY HALL were found to be one person split across two rows by a surname variant. That is the hidden-SPLIT failure p_298 anticipates, found on the first close reading of the output rather than by the audit that queued it. Two display errors were fixed in the same pass -- 'Sally Waff' for the confirmed Sally Watt, 'Matt Iviott' for Matt Wiviott. Three errors in one screen of output is the honest measure of what the remaining rows hold, and the conservative merge rules mean the residual risk runs toward SPLITTING one person into two rather than merging two into one: the true traced count is likely a little below 149 and the true progression count a little above 43. || SYSTEMATIC BUG FOUND AND FIXED (2026-08-28): the progression count was 43 and is now 69. The operator noticed his own absence -- Matt Aronson is on the 1993 CIT plaque AND the 2002 staff plaque, an obvious progression that the index did not show. Cause: on the large staff boards the names are recorded under generic column keys (col1..col4), and the index derived a person's role from the KEY rather than from the BOARD, so every name on the Staff of '79, Staff of 1990 and Staff 02 plaques was tagged 'Member' instead of 'Staff'. Roughly 255 staff appearances were silently demoted and any career whose staff rung fell on one of those three boards became invisible. NEWLY VISIBLE AS A RESULT: Julien Tasse (1963 Advance Guard leader to 1990 staff, 27 years), Phil Kaufman (CIT 1992 to staff 2002), Matt Aronson and Steph Hurlburt (CITs 1993 to staff 2002), Dan Aronson (CIT 1995 to staff 2002), Bruce Netherwood (1984 CIT director to 1990 staff), Toby Desjardins, Eric Boghen, Peter Lopata, John Kennedy (CIT 1975 to staff 1979), four of the 1988 Voyageurs on the 1990 staff board, and eleven CITs of 1998-2001 on the Staff 02 board. THE PRIOR CAVEAT WAS TOO SOFT: this fact estimated the true count as 'a little above 43'. It was 38% higher. A classifier that reads structure instead of meaning fails silently and in bulk, and it took a person who knew he belonged on the list to catch it.",
+      "claim": "THE CAMP'S OWN CAREER LADDER, MEASURED. Cross-referencing all 151 transcribed plaques (p_291) against each other yields 1,493 distinct named individuals, of whom 149 appear on boards in MORE THAN ONE YEAR and 43 can be traced from a junior position (camper, CIT, LIT, JC, Ranger, Voyageur) to a staff-grade title (Counsellor, Tripper, Master, Capitaine, Section Director, Director) on a later board. This wiki has previously described the camper-to-staff progression only through individual careers -- Reiko Webster, David Leduc, Matt Hamerman. It is not anecdotal: it is the ordinary path, documented forty-three times over on the camp's own walls, and it is the strongest available evidence that Kanawana's leadership was grown internally rather than recruited. || COUNT CORRECTED (p_296, 2026-08-28): this fact first said 45. One of those 45, Jeff Ware, qualified only because the index classed the 2009 'WOLF' credit as a staff title. It is not one -- the operator identifies WOLF as a leadership PROGRAMME, the Rangers programme revived in 2001 and renamed later that decade (f_2343) -- so a Wolf on a trip board is a programme participant, like an LIT. Reclassified as leadership-track, and the count is 44. || COUNT CORRECTED AGAIN (2026-08-28): 150/44 became 149/43 when ARIEL MCGEARY and ARIEL MCGEARY HALL were found to be one person split across two rows by a surname variant. That is the hidden-SPLIT failure p_298 anticipates, found on the first close reading of the output rather than by the audit that queued it. Two display errors were fixed in the same pass -- 'Sally Waff' for the confirmed Sally Watt, 'Matt Iviott' for Matt Wiviott. Three errors in one screen of output is the honest measure of what the remaining rows hold, and the conservative merge rules mean the residual risk runs toward SPLITTING one person into two rather than merging two into one: the true traced count is likely a little below 149 and the true progression count a little above 43. || SYSTEMATIC BUG FOUND AND FIXED (2026-08-28): the progression count was 43 and is now 69. The operator noticed his own absence -- Matt Aronson is on the 1993 CIT plaque AND the 2002 staff plaque, an obvious progression that the index did not show. Cause: on the large staff boards the names are recorded under generic column keys (col1..col4), and the index derived a person's role from the KEY rather than from the BOARD, so every name on the Staff of '79, Staff of 1990 and Staff 02 plaques was tagged 'Member' instead of 'Staff'. Roughly 255 staff appearances were silently demoted and any career whose staff rung fell on one of those three boards became invisible. NEWLY VISIBLE AS A RESULT: Julien Tasse (1963 Advance Guard leader to 1990 staff, 27 years), Phil Kaufman (CIT 1992 to staff 2002), Matt Aronson and Steph Hurlburt (CITs 1993 to staff 2002), Dan Aronson (CIT 1995 to staff 2002), Bruce Netherwood (1984 CIT director to 1990 staff), Toby Desjardins, Eric Boghen, Peter Lopata, John Kennedy (CIT 1975 to staff 1979), four of the 1988 Voyageurs on the 1990 staff board, and eleven CITs of 1998-2001 on the Staff 02 board. THE PRIOR CAVEAT WAS TOO SOFT: this fact estimated the true count as 'a little above 43'. It was 38% higher. A classifier that reads structure instead of meaning fails silently and in bulk, and it took a person who knew he belonged on the list to catch it. || FURTHER CORRECTION (2026-08-28): a second systematic split was found when clustering by surname -- the Knights roll's 'Sir'/'Lady' titles were never stripped, so every knight who also appears on another board was indexed as two people. Fixed: traced people 149 -> 155, progressions 69 -> 71. See f_2355.",
       "sources": [
         "src_flickr_kanawana_plaque_album"
       ],
@@ -40070,6 +40070,38 @@
       "date_ref": "1995",
       "conflicts_with": [],
       "added_version": "v5.72",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_2354",
+      "claim": "FAMILY GROUPS ON THE PLAQUE WALL, TIERED BY EVIDENCE. Clustering all 1,483 indexed names by surname yields 166 surnames held by more than one person. THREE ARE CONFIRMED: Alex and Tiff BOLLHORN (CITs 1993 and 1995, operator-confirmed siblings); Daphne and Bianca PUNGARTNIK, both LITs in 2007, whose relationship is stated by Bianca's own painted nickname 'i'm not daphne'; and Matt and Dan ARONSON (CITs 1993 and 1995, both on Staff 02), operator-confirmed brothers. TWENTY-SEVEN MORE ARE STRONG -- an uncommon surname shared by people appearing on THE SAME BOARD or in the SAME YEAR, which is what siblings at camp together look like: the three GOUGEONS (Danny, Eric, Jerome, all on Staff '97); Katie and Anna ROTMAN on the same 2005 Swazi trip; Thomas and Michael BRACKEN in the same 1995 cabin; Maria, Sofia and Sole PARDO in 2008; Roma and Joy KOZLOV on the 1972 first all-female canoe trip; Mani and Tony ALONSO, Liliane and Pierre GRAS, and Desmond and Robert PERKINS on the Staff of '79; Doug and Heidi LOERICK and Jubal and Mitch GRAHAM on the Staff of 1990; Ben and Naomi GOLOFF, Keith and Sarah SIMMONS, Robert and Sylvain TESSIER, and Ali and Dave LEDUC on Staff 02; Michael and Stephen COOKSON on Staff '97; Eyal and Misha ARTZY knighted in consecutive years; Mark and Craig GILLETT likewise; Julien and Yves TASSE. SIXTY-THREE ARE PLAUSIBLE (uncommon shared surname, overlapping or nearby years) and SEVENTY-THREE ARE WEAK (distant years, or a surname common enough to be coincidence). NO RELATIONSHIP BEYOND THE THREE CONFIRMED IS ASSERTED ANYWHERE IN THIS WIKI; a shared surname is a lead, not a fact.",
+      "sources": [
+        "src_flickr_kanawana_plaque_album"
+      ],
+      "confidence": "inferred",
+      "category": "people",
+      "entities": [
+        "Kamp Kanawana"
+      ],
+      "date_ref": "1955-2010",
+      "conflicts_with": [],
+      "added_version": "v5.75",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_2355",
+      "claim": "TWO MORE INDEX BUGS FOUND BY SURNAME CLUSTERING, BOTH THE SAME CLASS AS THE STAFF-COLUMN BUG (f_2335). (1) THE KNIGHTS' TITLES WERE NEVER STRIPPED: the roll paints every entry 'Sir X' or 'Lady X', so 'Sir Denys Lawrence' indexed as a different person from the Denys Lawrence on the Staff of '79 board. Every knight appearing anywhere else was held twice and their career split in half. Fixed; traced people 149 -> 155, junior-to-staff progressions 69 -> 71. (2) THIRTY PAIRS REMAIN THAT ARE PROBABLY ONE PERSON UNDER TWO SPELLINGS -- Walter/Wally Betz, Nandy/Nancy Fletcher, Barb/Barbara Goddard, Jessica/Jess Dicesare, Daniel/Danny Van Gelder, Bradley/Brad Tagieff, Steve/Stephen Reizes, Kaya/Kayla Sabourin among them. They are CANDIDATES FOR HUMAN JUDGEMENT, NOT A MERGE LIST, and two show why: the matcher paired 'David Paltiel' (CIT 1975) with 'Sir Dave Paltiel' (knighted 1982), a merge this project had ALREADY DECLINED on reasoning -- the order honoured campers, so a 1975 CIT knighted seven years later does not fit and a younger sibling is at least as likely -- and it collapsed Elissa Sukosd (2003) with Melissa and Mel Sukosd (2007-08), who are far more likely sisters than one person. An automated similarity test can see neither objection, which is why the pairs are recorded rather than applied.",
+      "sources": [
+        "src_flickr_kanawana_plaque_album"
+      ],
+      "confidence": "stated",
+      "category": "meta",
+      "entities": [
+        "Kamp Kanawana"
+      ],
+      "date_ref": "2026",
+      "conflicts_with": [],
+      "added_version": "v5.75",
       "added_by": "manual"
     }
   ]
