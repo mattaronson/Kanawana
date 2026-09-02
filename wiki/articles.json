@@ -9268,7 +9268,7 @@
       "article_id": "multi-year-index",
       "title": "Named People Across Multiple Years",
       "wiki_folder": "people",
-      "status": "draft",
+      "status": "R3-verified",
       "status_history": [
         {
           "status": "stub",
@@ -9281,6 +9281,12 @@
           "at": "2026-08-28T00:00:00Z",
           "by": "auto",
           "task": "WRITE"
+        },
+        {
+          "status": "R3-verified",
+          "at": "2026-09-02T11:46:42Z",
+          "by": "auto",
+          "task": "VERIFY"
         }
       ],
       "ralph_loops_completed": 1,
@@ -9308,19 +9314,25 @@
         "meta/plaque-audit"
       ],
       "file_id": null,
-      "word_count": 3459
+      "word_count": 3911
     },
     {
       "article_id": "plaque-audit",
       "title": "The Plaque Audit",
       "wiki_folder": "meta",
-      "status": "draft",
+      "status": "R3-verified",
       "status_history": [
         {
           "status": "draft",
           "at": "2026-08-28T00:00:00Z",
           "by": "auto",
           "task": "WRITE"
+        },
+        {
+          "status": "R3-verified",
+          "at": "2026-09-02T11:46:42Z",
+          "by": "auto",
+          "task": "VERIFY"
         }
       ],
       "ralph_loops_completed": 1,
@@ -9342,19 +9354,25 @@
         "traditions/traditions-and-culture"
       ],
       "file_id": null,
-      "word_count": 1111
+      "word_count": 1172
     },
     {
       "article_id": "knights-of-kanawana",
       "title": "The Order of the Knights of Kanawana",
       "wiki_folder": "traditions",
-      "status": "draft",
+      "status": "R3-verified",
       "status_history": [
         {
           "status": "draft",
           "at": "2026-08-28T00:00:00Z",
           "by": "auto",
           "task": "WRITE"
+        },
+        {
+          "status": "R3-verified",
+          "at": "2026-09-02T11:46:42Z",
+          "by": "auto",
+          "task": "VERIFY"
         }
       ],
       "ralph_loops_completed": 1,
@@ -9379,19 +9397,25 @@
         "history/coeducation-gender"
       ],
       "file_id": null,
-      "word_count": 1407
+      "word_count": 1512
     },
     {
       "article_id": "named-places-and-camp-vocabulary",
       "title": "Named Places and Camp Vocabulary",
       "wiki_folder": "site",
-      "status": "draft",
+      "status": "R3-verified",
       "status_history": [
         {
           "status": "draft",
           "at": "2026-08-28T00:00:00Z",
           "by": "auto",
           "task": "WRITE"
+        },
+        {
+          "status": "R3-verified",
+          "at": "2026-09-02T11:46:42Z",
+          "by": "auto",
+          "task": "VERIFY"
         }
       ],
       "ralph_loops_completed": 1,
@@ -9408,7 +9432,8 @@
         "src_photo_knights_charter_challenges",
         "src_oral_aronson_rangers_wolf_lineage",
         "src_oral_aronson_wolf_rank",
-        "src_oral_aronson_sanctum_suez_raku"
+        "src_oral_aronson_sanctum_suez_raku",
+        "src_postmedia_nature_deficit_2026"
       ],
       "open_questions": 4,
       "cross_links": [
@@ -9419,19 +9444,25 @@
         "people/multi-year-index"
       ],
       "file_id": null,
-      "word_count": 1433
+      "word_count": 1497
     },
     {
       "article_id": "plaque-culture",
       "title": "What the Plaques Say Besides Names",
       "wiki_folder": "traditions",
-      "status": "draft",
+      "status": "R3-verified",
       "status_history": [
         {
           "status": "draft",
           "at": "2026-08-28T00:00:00Z",
           "by": "auto",
           "task": "WRITE"
+        },
+        {
+          "status": "R3-verified",
+          "at": "2026-09-02T11:46:42Z",
+          "by": "auto",
+          "task": "VERIFY"
         }
       ],
       "ralph_loops_completed": 1,
@@ -9467,19 +9498,25 @@
         "site/the-kanawana-site"
       ],
       "file_id": null,
-      "word_count": 1403
+      "word_count": 1559
     },
     {
       "article_id": "julien-tasse",
       "title": "Julien Tassé",
       "wiki_folder": "people",
-      "status": "draft",
+      "status": "R3-verified",
       "status_history": [
         {
           "status": "draft",
           "at": "2026-08-28T00:00:00Z",
           "by": "auto",
           "task": "WRITE"
+        },
+        {
+          "status": "R3-verified",
+          "at": "2026-09-02T11:46:42Z",
+          "by": "auto",
+          "task": "VERIFY"
         }
       ],
       "ralph_loops_completed": 1,
@@ -9506,7 +9543,7 @@
         "people/directors-index"
       ],
       "file_id": null,
-      "word_count": 954
+      "word_count": 1003
     }
   ],
   "article_count": 93

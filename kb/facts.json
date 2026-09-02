@@ -1,8 +1,8 @@
 {
-  "version": "5.78",
-  "kb_version": "v5.78",
+  "version": "5.79",
+  "kb_version": "5.79",
   "migrated_from": "3.3",
-  "fact_count": 2321,
+  "fact_count": 2327,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -40174,6 +40174,117 @@
       "date_ref": "2026",
       "conflicts_with": [],
       "added_version": "v5.78",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_2360",
+      "claim": "THE VERIFY PASS ON THE SIX PLAQUE-AUDIT ARTICLES (2026-09-02, p_291-p_296 output, draft -> R3-verified) FOUND ITS LARGEST DEFECT CLASS TO BE STATED COUNTS DISAGREEING WITH THE DATA BEHIND THEM, NOT UNCITED CLAIMS. multi-year-index.md said '1,493 distinct named individuals, of whom 149 appear in more than one year' where person-index.json holds 1,483 and 155; it said 70 progressions where the index, once the progression test was written down, yields 66; and its table listed 149 rows against a body claiming 155. named-places-and-camp-vocabulary.md carried a progression count of 44. Every one of these numbers was CORRECT WHEN WRITTEN and went stale because a later fix moved the index without moving the article. The mechanical verify harness passed all six articles clean both before and after these corrections, because it checks citation integrity and not whether an article agrees with its own data.",
+      "sources": [
+        "src_flickr_kanawana_plaque_album"
+      ],
+      "confidence": "stated",
+      "category": "methodology",
+      "entities": [
+        "multi-year-index",
+        "named-places-and-camp-vocabulary",
+        "verify_harness"
+      ],
+      "date_ref": "2026-09-02",
+      "conflicts_with": [],
+      "added_version": "5.79",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_2361",
+      "claim": "THE DOCUMENTED JUNIOR-TO-STAFF PROGRESSION COUNT FROM THE PLAQUE INDEX IS 66, not the 70 previously published. The figure fell when the test was written down as code (scripts/plaque/build_table.py) instead of applied by eye. Two criteria had been loose. (1) A knighthood was being read as junior standing: Josh Usheroff (Knight 1998, Staff 2002) and Lindsay Kertland (Knight 1980, Staff 1983) were counted on that basis, but Knight, Signatory, Award recipient and Guest are honours or neutral labels that establish nothing about rank. (2) Order was not required: Alex Zannis (Counsellor 2006, Voyageur 2008) and Kertland again (CIT 1985, after her 1983 staff credit) were counted although the staff credit came FIRST. The count of people traced across more than one year is unaffected at 155, and distinct named individuals at 1,483.",
+      "sources": [
+        "src_flickr_kanawana_plaque_album"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "Josh Usheroff",
+        "Lindsay Kertland",
+        "Alex Zannis"
+      ],
+      "date_ref": "2026-09-02",
+      "conflicts_with": [],
+      "added_version": "5.79",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_2362",
+      "claim": "EIGHT PEOPLE IN THE PLAQUE INDEX CARRY A STAFF-GRADE ROLE ON AN EARLIER BOARD THAN A JUNIOR ONE: Bruce Netherwood (Director 1984, Member 1986, Staff 1990), Bruce Weihs (Counsellor 1985, Voyageur 1988, Staff 1990), Erin Savage (CIT 2001, Staff 2002, Member 2003), Roxanne Sayegh (CIT 1998, Staff 2002, Member 2003), Jeff Muss (CIT 1982, Staff 1983, Member 1986, Voyageur 1988), Lindsay Kertland (Knight 1980, Staff 1983, CIT 1985), Alex Zannis (Counsellor 2006, Voyageur 2008) and Rob Shackell (Member 2001, Tripper 2005, Voyageur 2008, Tripper 2010). The likeliest explanation for most is that 'Voyageur' and 'Member' are GROUP labels on trip and section boards which list staff alongside campers, so a tripper reads as a camper years after his first tripper credit -- Rob Shackell is the clearest case. The residue after that explanation is where two different people may share a name. Tracked under p_298.",
+      "sources": [
+        "src_flickr_kanawana_plaque_album"
+      ],
+      "confidence": "inferred",
+      "category": "people",
+      "entities": [
+        "Bruce Netherwood",
+        "Bruce Weihs",
+        "Erin Savage",
+        "Roxanne Sayegh",
+        "Jeff Muss",
+        "Lindsay Kertland",
+        "Alex Zannis",
+        "Rob Shackell"
+      ],
+      "date_ref": "2026-09-02",
+      "conflicts_with": [],
+      "added_version": "5.79",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_2363",
+      "claim": "THE 1995 RAKU BOARD IS THE FIRST MATERIAL EVIDENCE OF ANY KIND TOUCHING JOANNA A.A. HOAD'S KANAWANA DATES. Her 1995-2000 on-site directorship is the one span in the directors index that no document has ever corroborated (two full research passes, nine or more surfaces, both spellings). The bone-shaped all-camp-game board for the third session of 1995 reads 'We saved Raku and the red-day tuck!' and Raku is independently identified by the operator as Hoad's dog. This is not proof of her appointment: it is a dated physical object consistent with her being at camp that summer, reached by a different route than the memory it agrees with.",
+      "sources": [
+        "src_flickr_kanawana_plaque_album",
+        "src_oral_aronson_sanctum_suez_raku"
+      ],
+      "confidence": "inferred",
+      "category": "people",
+      "entities": [
+        "Joanna A.A. Hoad",
+        "Raku"
+      ],
+      "date_ref": "1995",
+      "conflicts_with": [],
+      "added_version": "5.79",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_2364",
+      "claim": "THE 1984 CIT BOARD'S ROBERT FROST EPIGRAPH IS ALTERED, NOT QUOTED. It reads 'We have promises to keep / and miles to go before we sleep -- R.F.'; Frost's 'Stopping by Woods on a Snowy Evening' reads 'But I have promises to keep, / And miles to go before I sleep.' Both lines are moved into the first person PLURAL. It is the only literary quotation found on any of the 151 Kanawana plaques.",
+      "sources": [
+        "src_flickr_kanawana_plaque_album"
+      ],
+      "confidence": "stated",
+      "category": "traditions",
+      "entities": [
+        "CIT 1984",
+        "Robert Frost"
+      ],
+      "date_ref": "1984",
+      "conflicts_with": [],
+      "added_version": "5.79",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_2365",
+      "claim": "THE KANAWANA SITE ARTICLE CARRIED TWO SOURCE ENTRIES NUMBERED 36 (found 2026-09-02, in an article at E1-reviewed status). The Julien Tasse oral-history entry had been appended with the number of the existing acreage-series entry, making the ^36 marker on the dining-hall line ambiguous between them. Renumbered to 41; the article's Sources header, which read 40, was wrong by one before the fix and is now 42. The mechanical verify harness did not catch it because the harness inspects DRAFT articles only, and this article is E1-reviewed -- the same blind spot f_2359 records from the other direction.",
+      "sources": [
+        "src_flickr_kanawana_plaque_album"
+      ],
+      "confidence": "stated",
+      "category": "methodology",
+      "entities": [
+        "the-kanawana-site",
+        "verify_harness"
+      ],
+      "date_ref": "2026-09-02",
+      "conflicts_with": [],
+      "added_version": "5.79",
       "added_by": "manual"
     }
   ]

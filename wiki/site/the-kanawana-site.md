@@ -1,6 +1,6 @@
 # The Kanawana Site
 
-*Status: E1-reviewed | Sources: 40*
+*Status: E1-reviewed | Sources: 42*
 *Last Updated: 2026-08-25*
 
 ## Overview
@@ -110,10 +110,12 @@ Facilities documented from the 1920s through the 1970s include:^5 ^11
 
 - **The Lookout**: A pre-existing structure on the site before Kanawana was founded — the oldest structure on the property^23
 - Two pavilions (a Dining Pavilion and a lakeside Pavilion, both new as of 1922)
-- **Dining Hall** (1911) — technically **Salle Julien Tassé**, renamed after the camp's caretaker of thirty-odd years following his death c. 1992–95. The name never entered ordinary use; everyone went on calling it the dining hall.^36 It is also the room where Kanawana's plaque wall hangs: all 151 surviving boards are mounted inside it. See [[people/julien-tasse|Julien Tassé]] and [[meta/plaque-audit|The Plaque Audit]].
+- **Dining Hall** (1911) — technically **Salle Julien Tassé**, renamed after the camp's caretaker of thirty-odd years following his death c. 1992–95. The name never entered ordinary use; everyone went on calling it the dining hall.^41 It is also the room where Kanawana's plaque wall hangs: all 151 surviving boards are mounted inside it. See [[people/julien-tasse|Julien Tassé]] and [[meta/plaque-audit|The Plaque Audit]].
 - **Infirmary** (1920s?)^23
 - **Grand Portage**: One of the oldest cabins, built after the Lookout, Dining Hall, and Infirmary. Located just north of the Senior Parking Lot, west of the Dining Hall. Served as CIT director's cabin in the 1980s-90s. According to oral history, the end of WWII was heard on the radio here. Demolished c. 2006 for the green shift washroom buildings, which now bear its name.^23
 - **The Longhouse**: A large 2-3 story pavilion/boathouse on the Boating Waterfront (due south of the Dining Hall), right at the shoreline. Used for large group gatherings and dances; the Boating Director ("the Admiral") had living quarters in it. Demolished by controlled fire c. 1979 due to irreparable condition.^23
+- **The Sanctum**: The Senior Boys section cabin, in use from the mid-1990s until it was demolished in 2007.^42 It is the only cabin recorded for a section that otherwise sleeps in prospector tents. The 2007 Senior Boys plaque is headed "Senior Boys SANCTUM 2KK7" and carries the line "May the Sanctum R.I.P." beneath the roster — the boys commemorating the demolition of their own cabin in the season it came down.^42 Whether the green shift was the reason is unestablished; the timing matches Grand Portage's demolition c. 2006. See [[site/named-places-and-camp-vocabulary|Named Places and Camp Vocabulary]].
+- **The Suez Bridge**: The crossing over the narrow channel between Lake Kanawana and Lake Wilson.^42 The same point carries the dam that was opened ceremonially and lies on the route of the 1998 five-kilometre swim.
 - Hospital (new as of 1922)
 - Fenced swimming pool (1922)
 - Boats and canoes
@@ -239,12 +241,13 @@ From 1977 to 1980, plans existed for a proposed two-site operation using Kanawan
 33. Concordia University Archives, finding aid for sub-sub-series 12B01 (Kamp Kanawana General Administration) [src_concordia_atom_12B01].
 34. Concordia University Archives, static finding-aid page for sub-series 12F (Camp Weredale) [src_concordia_atom_12F]. Direct fetch 2026-07-10: 1979 lease agreement, 1980-82 joint files.
 35. *Kanawana… A Place to Grow: A Proposal for the Future of Kanawana*, Kanawana Camping Task Force, YMCA of Montreal, 1988 [src_ia_kanawana_place_to_grow_1988], site-description section. The Royal LePage figures are the report's own attribution: "This information was taken from a report submitted to the Y from Royal/Lepage in 1989."
-36. Oral history, Matt Aronson, 28 August 2026 [src_oral_aronson_julien_tasse_caretaker]. See [f_2357], [f_2358].
 36. Acreage series assembled at [f_2127] from the 1936 CFCF broadcast and the 1949–1959 annual reports.
 37. 1964 Kamp Kanawana annual report [src_ia_kanawana_report_1964] ("over approximately 1,000 acres"); SGW YMCA annual report 1964; YMCA news release, 13 May 1969 ("it covers more than 1,000 acres"); 1969 Kamp Kanawana annual report ("We occupy 1000 acres of valuable land"); 1970 Kamp Kanawana annual report [src_ia_kanawana_report_1970] ("a small area of our 1,000 acres"). Five documents, six statements — see [f_2255].
 38. *The Gazette* (Montreal), 18 April 1974, summer-camp feature. Full passage recorded at conflict [c_026].
 39. 1988 Task Force report, chronology entry for 1964 [f_2252].
 40. 1988 Task Force report, "SITE" specification and "RECOMMENDATIONS" sections [f_2254]. Recorded here specifically because the line reads as corroboration of the 1,200-acre figure and is not.
+41. Oral history, Matt Aronson, 28 August 2026: Tassé as caretaker, his death c. 1992–95, and the dining-hall renaming [src_oral_aronson_julien_tasse_caretaker]. See [f_2357], [f_2358].
+42. Kanawana Flickr "Plaque" album, `senior-boys-staff-2007.jpg` [src_flickr_kanawana_plaque_album], read in the p_291 audit — see [f_1688]; and oral history, Matt Aronson, 28 August 2026: the Sanctum and the Suez Bridge [src_oral_aronson_sanctum_suez_raku], see [f_2351], [f_2352].
 
 ## Research Notes
 

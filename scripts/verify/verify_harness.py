@@ -177,7 +177,16 @@ for a in sorted(DRAFTS, key=lambda x: x['article_id']):
 # by cite_re, so a bullet-list article only fails here if it mixes the two --
 # which is exactly the defect this pass exists to catch.
 # ---------------------------------------------------------------------------
+# Checks A1 and G run wide too, for the same reason. the-kanawana-site.md, at
+# E1-REVIEWED, carried TWO source entries numbered 36 -- an oral-history entry
+# appended with the number of the existing acreage entry -- so its ^36 marker
+# resolved to whichever a reader hit first, and its header undercounted by one.
+# A1 would have caught it on day one if A1 had been allowed to look. Restricting
+# a check to drafts does not make the defect rarer, only invisible: an article
+# is MOST likely to accumulate appended sources AFTER it stops being a draft.
 wide = {}
+wide_a1 = {}
+wide_g = {}
 for a in arts:
     p = article_path(a)
     if not os.path.exists(p):
@@ -186,11 +195,26 @@ for a in arts:
     pp = re.split(r'^## Sources\s*$', tx, flags=re.M)
     if len(pp) < 2:
         continue
-    numbered_ids = set(int(x) for x in srcline_re.findall(re.split(r'^## ', pp[1], flags=re.M)[0]))
+    srcsec_w = re.split(r'^## ', pp[1], flags=re.M)[0]
+    numbered_list = [int(x) for x in srcline_re.findall(srcsec_w)]
+    numbered_ids = set(numbered_list)
     used = set(int(x) for x in cite_re.findall(pp[0]))
     missing = sorted(used - numbered_ids)
     if missing:
         wide[a['article_id']] = (a['status'], missing)
+
+    # G: a source NUMBER used twice, or the sequence broken. Either way a ^N
+    # marker stops being a unique address, which is the whole point of it.
+    if numbered_list:
+        dupes = sorted({n for n in numbered_list if numbered_list.count(n) > 1})
+        gaps = [n for n in range(1, max(numbered_list) + 1) if n not in numbered_ids]
+        if dupes or gaps:
+            wide_g[a['article_id']] = (a['status'], dupes, gaps)
+
+    # A1 wide: header count against the entries actually present.
+    mh = hdr_src_re.search(tx)
+    if mh and int(mh.group(2)) != len(numbered_list) and numbered_list:
+        wide_a1[a['article_id']] = (a['status'], int(mh.group(2)), len(numbered_list))
 
 clean = [k for k, v in report.items() if not v]
 dirty = {k: v for k, v in report.items() if v}
@@ -223,6 +247,27 @@ if not wide:
 for k in sorted(wide):
     st, miss = wide[k]
     print('    %-32s [%s] markers with no Sources entry: %s' % (k, st, miss))
+
+print('\n' + '=' * 70)
+print('WHOLE-WIKI: header "Sources: N" != numbered entries (%d article(s), all statuses)' % len(wide_a1))
+print('=' * 70)
+if not wide_a1:
+    print('    none')
+for k in sorted(wide_a1):
+    st, hdr, n = wide_a1[k]
+    print('    %-32s [%s] header says %d, %d entries present' % (k, st, hdr, n))
+
+print('\n' + '=' * 70)
+print('WHOLE-WIKI: duplicate or missing source NUMBERS (%d article(s), all statuses)' % len(wide_g))
+print('=' * 70)
+if not wide_g:
+    print('    none')
+for k in sorted(wide_g):
+    st, dupes, gaps = wide_g[k]
+    bits = []
+    if dupes: bits.append('numbers used twice: %s' % dupes)
+    if gaps:  bits.append('numbers skipped: %s' % gaps)
+    print('    %-32s [%s] %s' % (k, st, '; '.join(bits)))
 
 # ===========================================================================
 # PROVENANCE PASS -- checks H, I, J. Non-blocking; see the module docstring.

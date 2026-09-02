@@ -1,7 +1,7 @@
 # The Plaque Audit
 
-*Status: draft | Sources: 1*
-*Last Updated: 2026-08-28*
+*Status: R3-verified | Sources: 1*
+*Last Updated: 2026-09-02*
 
 ## Overview
 
@@ -32,7 +32,7 @@ The worst ratios were on the largest boards, where the loss is greatest: the Sta
 
 **A correct fact can still fail.** The Rangers 1956 plaque was transcribed completely and correctly. It names **John Cleghorn** — and [[people/notable-alumni/john-cleghorn|his article]] carried an open question asking which years he attended camp, answered only as "approximately the 1950s." Nothing had ever carried the fact to the article that needed it. An audit that only counted names would have marked that row clean and moved on.
 
-**Things the camp recorded that this wiki did not know existed.** A "Wolf" staff role, on two separate 2009 boards. An epitaph — "May the Sanctum R.I.P." — for a camp structure that ended in 2007 and appears nowhere in [[site/the-kanawana-site|the site article]]. A place called the Suez Bridge. A column of six national origins on the Pathfinder paddle — Australia, England, Holland, Cape Breton, France, Virginia — and a 2009 board that calls itself the "International Tent," together the only documentation this project has of international staffing.
+**Things the camp recorded that this wiki did not know existed.** A "Wolf" credit beneath Counsellor and Tripper on two separate 2009 boards — read during the audit as a third *staff* role, and corrected afterwards to a rank on the leadership track, of the same kind as CIT and LIT. See [[site/named-places-and-camp-vocabulary|Named Places and Camp Vocabulary]]. An epitaph — "May the Sanctum R.I.P." — for a camp structure that ended in 2007 and appeared nowhere in [[site/the-kanawana-site|the site article]] until this audit put it there. A place called the Suez Bridge — since identified by the operator as the crossing over the channel between Lake Kanawana and Lake Wilson. A column of six national origins on the Pathfinder paddle — Australia, England, Holland, Cape Breton, France, Virginia — and a 2009 board that calls itself the "International Tent," together the only documentation this project has of international staffing.
 
 **Coeducation in the campers' own handwriting.** "The 1st Ladies of the Barracks" (2007). "To the women that filled the Lookout with love and friendship" (2008). And an all-female Voyageur crew in 2010 whose board does not remark on it at all — thirty-eight years after the first all-female canoe trip was worth painting a plaque about. See [[history/coeducation-gender|Coeducation and Gender at Kanawana]].
 

@@ -1,7 +1,7 @@
 # What the Plaques Say Besides Names
 
-*Status: draft | Sources: 2*
-*Last Updated: 2026-08-28*
+*Status: R3-verified | Sources: 2*
+*Last Updated: 2026-09-02*
 
 ## Overview
 
@@ -15,7 +15,7 @@ The 1984 CIT board carries, painted in red above a canoeist:
 
 > *We have promises to keep / and miles to go before we sleep* — **R.F.**
 
-Robert Frost, "Stopping by Woods on a Snowy Evening," initialled rather than attributed. It is the only literary quotation found on any Kanawana plaque, and the fact recording that board — which had twelve of its eighteen names — did not mention it.^1
+Robert Frost, "Stopping by Woods on a Snowy Evening," initialled rather than attributed — and altered. Frost wrote *"But I have promises to keep, / And miles to go before I sleep"*; the board puts both lines in the first person **plural**, which for a graduating CIT cohort painting its own name-board is either a slip or the whole point. It is the only literary quotation found on any Kanawana plaque, and the fact recording that board — which had twelve of its eighteen names — did not mention it.^1
 
 ## Thirteen catchphrases from the summer of 1985
 
@@ -60,7 +60,9 @@ Alongside these the **all-camp game** was named and commemorated each session: a
 
 That 1995 board reads **"We saved Raku and the red-day tuck!"** — which on its own is a private joke. But the board is cut in the shape of a **bone**, with a **paw print** painted beside the lettering.^1
 
-Raku was a dog — and specifically he was **Camp Director Joanna A.A. Hoad's** dog.^2 A plaque's shape carried the whole meaning of a sentence that is otherwise a private joke, and the date fits exactly: Hoad's on-site directorship ran from 1995 to 2000, so an all-camp game built around rescuing Raku falls in her **first season**. The new director's dog, made the object of the whole camp's game.
+Raku was a dog — and specifically he was **Camp Director Joanna A.A. Hoad's** dog.^2 A plaque's shape carried the whole meaning of a sentence that is otherwise a private joke, and the date fits exactly: Hoad's on-site directorship is recorded as running from 1995 to 2000, so an all-camp game built around rescuing Raku falls in her **first season**. The new director's dog, made the object of the whole camp's game.
+
+That is worth one further note. Hoad's Kanawana tenure is the one span in [[people/directors-index|the directors index]] that no document has ever corroborated — two full research passes across nine or more surfaces found nothing, and the 1995–2000 dates rest on oral history alone.^2 A bone-shaped board dated to the third session of 1995, naming a dog the operator independently identifies as hers, is not proof of her appointment; it is a dated physical object consistent with her being at camp that summer, produced by a different route than the memory it agrees with. That is the first material evidence of any kind touching those dates.
 
 He remains the only camp animal recorded anywhere in this project.
 

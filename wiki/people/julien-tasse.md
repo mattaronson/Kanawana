@@ -1,7 +1,7 @@
 # Julien Tassé
 
-*Status: draft | Sources: 3*
-*Last Updated: 2026-08-28*
+*Status: R3-verified | Sources: 3*
+*Last Updated: 2026-09-02*
 
 ## Overview
 
@@ -11,13 +11,13 @@ His is the longest documented service by any individual anywhere in this wiki. H
 
 ## Thirty years, seen sideways
 
-Tassé appears on four surviving boards, and the pattern only makes sense once you know what he did:^2
+Four surviving boards name Tassé outright and a fifth thanks his family, and the pattern only makes sense once you know what he did:^2
 
 | Board | Year | How he appears |
 |---|---|---|
 | Advance Guard | 1963 | Set apart above the others, between painted arrows |
 | Advance Guard | 1964 | The same position |
-| Staff of '79 | 1979 | Thanked collectively, in the plural: **"The Tassé's"** |
+| Staff of '79 | 1979 | Thanked collectively, in the plural: **"The Tassé's"** — the only one of the five that does not give a first name |
 | Advance Guard | 1986 | Named with the section, alongside **Yves Tassé** |
 | The Staff of 1990 | 1990 | In the roster, again with Yves |
 
@@ -62,4 +62,4 @@ Naming it after him was fitting and, apparently, futile. The failure of the name
 
 ## Research Notes
 
-<!-- Spawned 2026-08-28. The whole article rests on four plaques and one operator statement; the "What the record does not have" section says so in the body rather than hiding it here, because the imbalance is the point -- this project holds detailed articles on directors who served four years and had nothing at all on a man who served thirty. Two earlier readings of these same boards were wrong and are corrected in f_2356: that Julien might have been a boy on the 1963-64 plaques, and that he represented a camper-to-staff progression. He was staff throughout, which is why the progression count in the multi-year index fell from 71 to 70. -->
+<!-- Spawned 2026-08-28. The whole article rests on four plaques and one operator statement; the "What the record does not have" section says so in the body rather than hiding it here, because the imbalance is the point -- this project holds detailed articles on directors who served four years and had nothing at all on a man who served thirty. Two earlier readings of these same boards were wrong and are corrected in f_2356: that Julien might have been a boy on the 1963-64 plaques, and that he represented a camper-to-staff progression. He was staff throughout, which is why the progression count in the multi-year index fell from 71 to 70. That count later fell again, to 66, when the progression test was written down as code rather than applied by eye -- see the corrections section of that article. -->

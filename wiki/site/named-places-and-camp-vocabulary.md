@@ -1,7 +1,7 @@
 # Named Places and Camp Vocabulary
 
-*Status: draft | Sources: 5*
-*Last Updated: 2026-08-28*
+*Status: R3-verified | Sources: 6*
+*Last Updated: 2026-09-02*
 
 ## Overview
 
@@ -13,7 +13,7 @@ This article collects them. Several are single attestations and are flagged as s
 
 **The Sanctum** was the Senior Boys section cabin, in use from the mid-1990s until it was demolished in 2007.^5 A 2007 Senior Boys board is headed "Senior Boys SANCTUM 2KK7" with the roster lettered inside the strokes of the word, and beneath it, in yellow: **"May the Sanctum R.I.P."**^1 The boys were commemorating the demolition of their own cabin, in the season it came down, on the board that names them.
 
-It is also an architectural exception. This wiki records the Senior sections — Coureurs de Bois and Pathfinders — as housed in **platform tents**, and the Junior sections in cabins; a Senior Boys *cabin* ran against that pattern for about a decade. The demolition falls inside the camp's documented [[history/modern-era|green shift]] of 2006–2012, though nothing states it was part of that program.
+It is also an architectural exception. This wiki records the Senior sections — Coureurs de Bois and Pathfinders — as housed in **prospector tents**, and the Junior sections in cabins; a Senior Boys *cabin* ran against that pattern for about a decade. The demolition falls inside the camp's documented [[history/modern-era|green shift]] of 2006–2012, though nothing states it was part of that program.
 
 **The Suez Bridge** crosses the narrow channel joining Lake Kanawana and Lake Wilson.^5 A 1987 board reads "The Suez Bridge — Senior Boys '87" and carries nothing else, the paint worn to the grain.^1
 
@@ -39,11 +39,11 @@ So a Wolf credit *is* a designation attached to a person — an earlier version 
 
 The pattern went unnoticed at first because the word was unfamiliar and "Counsellor / Tripper / Wolf" read as a list of jobs. The evidence for the better reading was sitting in the audit's own records.
 
-The consequence is small but worth stating: one person, Jeff Ware, had been counted among the documented junior-to-staff progressions in [[people/multi-year-index|the multi-year index]] solely on the strength of this misreading. The count is 44, not 45. See [[traditions/section-names|Section Names]] for the full Rangers lineage.
+The consequence is small but worth stating: one person, Jeff Ware, had been counted among the documented junior-to-staff progressions in [[people/multi-year-index|the multi-year index]] solely on the strength of this misreading. That removed one row from the progression count, which stood at 45 before the correction and 44 after; later fixes to the index itself have since taken it to 66. See [[traditions/section-names|Section Names]] for the full Rangers lineage.
 
 ## International campers and staff, documented
 
-The camp describes itself today as actively recruiting international campers, but the historical evidence for this has been thin.^2 Three plaques supply some:
+The camp describes itself today as actively recruiting international campers, with airport transfer services offered, but the historical evidence for this has been thin.^6 Three plaques supply some:
 
 - The **Pathfinder Section** paddle carries, beside its roster, a column of **origins**: Australia, England, Holland, Cape Breton, France, Virginia. The names themselves are abraded past reading; the origins are perfectly legible.^1
 - A 2009 Talahassee board calls itself, in so many words, the **"International Tent,"** and its roster — de Roquefeuil, Naudin, Gagné, Casado, Gloor, Fabre — is French, Spanish and German.^1
@@ -72,6 +72,7 @@ None of this dates the practice, and the Pathfinder paddle carries no year at al
 3. Oral history, Matt Aronson, 28 August 2026: the program lineage [src_oral_aronson_rangers_wolf_lineage]. See [f_2343], [f_2344].
 4. Oral history, Matt Aronson, 28 August 2026: Wolf as a rank comparable to CIT or LIT [src_oral_aronson_wolf_rank]. Recorded at secondary reliability — the operator hedges it ("I think"). See [f_2345].
 5. Oral history, Matt Aronson, 28 August 2026: the Sanctum, the Suez Bridge and Raku [src_oral_aronson_sanctum_suez_raku]. See [f_2351], [f_2352], [f_2353].
+6. Leonowicz, Ursula. "Rewilding childhood: How one summer camp is tackling nature-deficit disorder among Montreal youth." Postmedia Content Works (on behalf of YMCAs of Québec), 4 March 2026 [src_postmedia_nature_deficit_2026], as summarised in [[traditions/programs-activities|Programs and Activities]].
 
 ## Research Notes
 

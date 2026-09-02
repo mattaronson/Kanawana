@@ -1,7 +1,7 @@
 # The Order of the Knights of Kanawana
 
-*Status: draft | Sources: 4*
-*Last Updated: 2026-08-28*
+*Status: R3-verified | Sources: 4*
+*Last Updated: 2026-09-02*
 
 ## Overview
 
@@ -53,7 +53,7 @@ Each entry is given as the board paints it. The right-hand column records where 
 
 **Women were knighted from the first year.** Two of the four inaugural 1980 knights are Ladies — Lindsay Kertland and Avril Chaplain — and six of the twenty-nine overall. The charter's language is gender-inclusive from the outset ("Ladies and Knights of the Land"), and unlike some of the camp's other honours this one appears never to have had a men-only phase. Coeducation had been camp policy for about a decade by then; see [[history/coeducation-gender|Coeducation and Gender at Kanawana]].
 
-**Knighthood sat early on the camp's career ladder, not at the end of it.** The order honoured *campers*, and a striking number of those campers came back as staff. Denys Lawrence is on the Staff of '79 board the year before his investiture; Lindsay Kertland appears on the 1983 canoe-staff paddle and the 1985 CIT board; four of the 1992–93 knights are CITs on the 1993 plaque; Josh Usheroff is on the Staff 02 plaque; Ian Braide runs from the 2002 Rangers to the 2007 Senior Boys. Read against [[people/multi-year-index|the multi-year index]], the Knights roll looks less like a hall of fame than like an early rung on the same progression that produced the camp's counsellors and directors.
+**Knighthood sat early on the camp's career ladder, not at the end of it — with one clear exception.** Eight of the twenty-nine knights appear on some other board, and the order of their credits is the evidence. Susan Gamberg, Andrew Henle and Ryan Harbinson were all knighted in 1992 and are CITs on the 1993 plaque; Dylan O'Brien is on a 2008 section board and knighted in 2009; Josh Usheroff was knighted in 1998 and is on the Staff 02 plaque. Five of the eight were knighted *before* the credit that follows, which is what an early rung looks like. The exception is **Denys Lawrence**, on the Staff of '79 board the year before his 1980 investiture — knighted as staff, not as a camper. **Lindsay Kertland** and **Ian Braide** fit neither pattern cleanly: Kertland's credits run Knight 1980, canoe-staff paddle 1983, CIT 1985, and Braide's run Rangers 2002 to Senior Boys 2007, both of which put a junior credit *after* a senior one. Those two are flagged in [[people/multi-year-index|the multi-year index]] as cases where the board labels may be misleading or where two people share a name. So the roll is consistent with an early rung for most of the knights it can be checked against — eight is a small sample, and one of the eight points the other way.
 
 **The roll has large gaps, and they are ambiguous.** Investitures are recorded in thirteen distinct years only: 1980–82, 1987–88, 1992–94, 1998–99, 2002, 2008–09. Nothing appears for 1983–86, 1989–91, 1995–97, 2000–01, or 2003–07. Two readings are possible and the board cannot distinguish them. Either **the order ran continuously and simply produced no one worthy in those years** — entirely consistent with six challenges that include two five-day canoe trips and a two-mile swim — or **the order lapsed and was revived**. The camp's own 1988 report states that all its listed programmes, the Knights included, were "still in effect" that year — which sits against a roll that is then silent from 1989 to 1991.^2 A third possibility, that the board is simply an incomplete record, cannot be excluded either.
 
