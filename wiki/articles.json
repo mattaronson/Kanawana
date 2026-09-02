@@ -6588,6 +6588,12 @@
           "at": "2026-07-09T11:00:00Z",
           "by": "auto",
           "task": "RESEARCH"
+        },
+        {
+          "status": "R3-verified",
+          "at": "2026-09-02T00:00:00Z",
+          "by": "auto",
+          "task": "VERIFY"
         }
       ],
       "ralph_loops_completed": 1,
@@ -6615,7 +6621,8 @@
       "sources_cited": [
         "src_ia_ymca_annual_1971_72",
         "src_ia_ymca_annual_1972_73",
-        "src_ia_ymca_annual_1996"
+        "src_ia_ymca_annual_1996",
+        "src_concordia_atom_12B07"
       ],
       "open_questions": 4,
       "cross_links": [

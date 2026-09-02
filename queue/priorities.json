@@ -3936,6 +3936,19 @@
       "created_at": "2026-09-02",
       "status": "pending",
       "notes": "See f_2376. The verify harness's provenance pass (check H) already counts read_state values -- it can produce the worklist. Note that 724 sources currently read 'extracted'; the subset with basis 'derived:cited-by-fact' AND no cache_path is the priority. | MEASURED 2026-09-02: 616 of 1,310 source records -- 47% -- are marked read only because a fact cites them and hold no cached text. That is the size of the exposure, not an estimate."
+    },
+    {
+      "priority_id": "p_305",
+      "rank": 304,
+      "type": "RESEARCH",
+      "article_id": null,
+      "tier": "1-YIELD",
+      "assigned_weight": "P1",
+      "description": "OPERATOR ACTION, Concordia Archives -- three item requests surfaced by the re-read, in priority order. (1) 'Kamp Kanawana: Report of First Year of Camp, 1910' (P0145/12B01): the camp's own report on its first season at Saint-Sauveur. (2) The SIX MICROFICHES 'Junior Camp Opening Roster, 1924-1939' (P0145/12B01): sixteen consecutive years of camper names, by far the largest body of named people in the archive and the obvious complement to the plaque index, which holds almost nothing before 1956. (3) 'Winter ski camp records, 1945-1947' (P0145/12B07), which contradict this wiki's 'summer-only until the 1970s' framing -- see f_2379. Fold into the existing Concordia access letter (p_282) rather than sending separately.",
+      "blocking": false,
+      "created_at": "2026-09-02",
+      "status": "pending",
+      "notes": "From the first hours of the p_304 full re-read. All three are item TITLES the finding aid gives plainly; none had ever been recorded here. See f_2380."
     }
   ],
   "queue_ordering": {

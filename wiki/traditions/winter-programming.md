@@ -1,11 +1,11 @@
 # Winter and Year-Round Programming
 
-*Status: R3-verified | Sources: 9*
+*Status: R3-verified | Sources: 10*
 *Last Updated: 2026-07-09 (open-questions research pass: annual reports precisely date Winter Outdoor Family Camping to 1972-73, one year after an initial 1971-72 ski tow; the Kanawana Outing Club's wind-down after 1979 confirmed as a dead end; the 1996 "first non-summer-camper group" fact reconciled as a distinct, in-season milestone from the year-round-residential claim)*
 
 ## Overview
 
-Camp Kanawana was a summer-only operation for most of its history, but beginning in the 1970s it expanded into winter programming, and by 1996 it offered year-round residential operations. The camp's "green shift" (2006-2009) repositioned it as a three-season environmental education facility, and the YMCA claims the transformation enabled it to serve "four times more young people" than before.^1
+Camp Kanawana's winter activity is usually described — including by earlier versions of this article — as beginning in the 1970s. That is where the *narrative* evidence starts, and the 1971-72 ski tow below is still the earliest step this project can describe. But the Concordia finding aid lists **"Winter ski camp records — 1945-1947"** inside Kanawana's own Program sub-sub-series (P0145/12B07), twenty-five years earlier, and a **"Kanawana [Winter] Outing Club"** file running to 1979 beside it.^10 A finding-aid title proves the records exist and are filed as Kanawana programme material; it does not prove where the skiing happened, and the files themselves have not been read. So the framing here has changed: winter use is documented from the 1940s and *described* from the 1970s, and the gap between those two statements is a reading task, not a fact. and by 1996 it offered year-round residential operations. The camp's "green shift" (2006-2009) repositioned it as a three-season environmental education facility, and the YMCA claims the transformation enabled it to serve "four times more young people" than before.^1
 
 ## Winterized Facilities
 
@@ -66,6 +66,7 @@ David Leduc managed Camp Kanawana's summer and winter programs, including recrui
 7. YMCA Quebec, Camp Kanawana winter experience package (2026).
 8. David Leduc LinkedIn profile.
 9. YMCA of Montreal Annual Reports, 1971-72, 1972-73, 1996 [src_ia_ymca_annual_1971_72, src_ia_ymca_annual_1972_73, src_ia_ymca_annual_1996].
+10. Concordia University Records Management and Archives, YMCA of Montreal fonds, Kamp Kanawana Program sub-sub-series P0145/12B07 [src_concordia_atom_12B07], as recorded in the cached full finding aid `sources/cache/web-pages/concordia-atom-kanawana-full.txt`. See [f_2379], [f_2380].
 
 ## Research Notes
 

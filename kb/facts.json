@@ -1,8 +1,8 @@
 {
-  "version": "5.83",
-  "kb_version": "5.83",
+  "version": "5.85",
+  "kb_version": "5.85",
   "migrated_from": "3.3",
-  "fact_count": 2338,
+  "fact_count": 2343,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -2212,7 +2212,7 @@
     },
     {
       "fact_id": "f_0131",
-      "claim": "The Annual Circus raised $5 in proceeds at Kanawana in 1935",
+      "claim": "The Annual Circus raised $55 in proceeds at Kanawana in 1935 || CORRECTION 2026-09-02, re-read pass: this fact read '$5'. The 1935 chronicle says 'the annual Circus was held, of which the $55. proceeds were' -- fifty-five dollars, an order of magnitude out.",
       "sources": [
         "src_history_1935"
       ],
@@ -2325,7 +2325,7 @@
     },
     {
       "fact_id": "f_0138",
-      "claim": "Best camper shields were awarded at Kanawana in 1935",
+      "claim": "Best camper shields were awarded at Kanawana in 1935 || COMPLETED 2026-09-02, re-read pass: this fact recorded that shields were awarded and dropped every name. The 1935 chronicle names them -- see f_2377.",
       "sources": [
         "src_history_1935"
       ],
@@ -40481,6 +40481,96 @@
       "date_ref": "2026-09-02",
       "conflicts_with": [],
       "added_version": "5.83",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_2377",
+      "claim": "SIX CAMPERS AND ONE STAFF MEMBER NAMED IN THE 1935 CHRONICLE, none previously in this knowledge base. JULY BEST-CAMPER SHIELDS: 'Bob Bennet, Senior, John [surname illegible in the OCR], and Bryce Chatam, Juniors, and Junior Taylor, Juvenile, were awarded shields as the best Campers in their section for the month of July.' ALL-CAMP REGATTA AGGREGATE WINNERS: 'Bob Bennet was Senior aggregate man, Bryce Chatam Junior, and Harold Meyer Juvenile.' Bennet and Chatam therefore each won twice. BOATING CARNIVAL: 'a House of Parliament was removed from the hill and DOUG MACDONALD felt much better' -- an outhouse prank, the chronicle declining to say more ('the matter is far too delicate'). STAFF CHANGE, last week of July: the camp lost its Junior Director 'in exchange for WILF BUCKLEY'. The August shield winners are in the document but their names are lost to the scan ('with receiving the Senior shield, the Junior, and the Juvenile' -- three names dropped out of the OCR).",
+      "sources": [
+        "src_history_1935"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "Bob Bennet",
+        "Bryce Chatam",
+        "Harold Meyer",
+        "Doug Macdonald",
+        "Wilf Buckley",
+        "Junior Taylor"
+      ],
+      "date_ref": "1935",
+      "conflicts_with": [],
+      "added_version": "5.84",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_2378",
+      "claim": "FIRST CALIBRATION OF THE FULL RE-READ (p_304). The 1935 'History of Kamp Kanawana' -- 4,928 characters, 38 facts already citing it -- turns out to have been mined THOROUGHLY: almost every event, visitor and date in it was already extracted. So the failure is NOT that sources went unread across the board. Two things were missed, and they are the same two things: NAMES and NUMBERS. Six named individuals (f_2377) were dropped while the events around them were kept -- 'Best camper shields were awarded at Kanawana in 1935' recorded the ritual and discarded the people, which is exactly the failure the plaque audit found on painted boards. And a dollar figure was recorded as $5 where the document says $55. THE RE-READ SHOULD THEREFORE HUNT NAMES, NUMBERS AND EXACT QUOTED WORDING, not events -- the events are largely in.",
+      "sources": [
+        "src_history_1935"
+      ],
+      "confidence": "stated",
+      "category": "methodology",
+      "entities": [
+        "src_history_1935"
+      ],
+      "date_ref": "2026-09-02",
+      "conflicts_with": [],
+      "added_version": "5.84",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_2379",
+      "claim": "THE CONCORDIA FINDING AID LISTS 'WINTER SKI CAMP RECORDS -- 1945-1947' UNDER KAMP KANAWANA'S OWN PROGRAM SUB-SUB-SERIES (P0145/12B07). This is twenty-five years earlier than anything in winter-programming.md, which states the camp 'was a summer-only operation for most of its history, but beginning in the 1970s it expanded into winter programming' and dates the earliest documented step to a 1971-72 ski tow. A finding-aid title proves the RECORDS exist and are filed as Kanawana program material; it does not by itself prove the programme ran on the Kanawana site, and the records themselves have not been read. But 'summer-only until the 1970s' cannot stand as written while a 1945-1947 winter ski camp file sits in the camp's own program series.",
+      "sources": [
+        "src_concordia_atom_12B07"
+      ],
+      "confidence": "stated",
+      "category": "programs",
+      "entities": [
+        "winter-programming",
+        "P0145/12B07"
+      ],
+      "date_ref": "1945-1947",
+      "conflicts_with": [],
+      "added_version": "5.85",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_2380",
+      "claim": "THREE ARCHIVE ITEMS NAMED IN THE CONCORDIA FINDING AID AND NOWHERE IN THIS PROJECT. (1) 'Kamp Kanawana: Report of First Year of Camp -- 1910' (P0145/12B01) -- the camp's own report on its first season at the Saint-Sauveur site, the single most direct document on the founding of the present camp. (2) \"Certain Experiences in Attempting to Accomplish Democratic Program Building\" -- 1927 (P0145/12B07), a programme-philosophy document from the Harold Cross era. (3) 'Kanawana [Winter] Outing Club -- [197-]-1979', filed alongside 'Winter ski camp records -- 1945-1947'. Also worth restating because it is the largest single body of camper names in the archive: SIX MICROFICHES, 'Junior Camp Opening Roster', 1924-1939 -- sixteen consecutive years of rosters, filed in 12B01.",
+      "sources": [
+        "src_concordia_atom_12B01",
+        "src_concordia_atom_12B07"
+      ],
+      "confidence": "stated",
+      "category": "sources",
+      "entities": [
+        "P0145/12B01",
+        "P0145/12B07"
+      ],
+      "date_ref": "1910-1979",
+      "conflicts_with": [],
+      "added_version": "5.85",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_2381",
+      "claim": "'CAMP BECSIES' IS A REAL YMCA OF MONTREAL CAMP, with its own sub-series P0145/12D in the Concordia fonds, alongside Otoreke (12C), Dorval (12E), Weredale (12F), Perrot (12G), Thunderbird (12I) and the Wilderness Survival Camp (12J). This settles an OCR uncertainty in the 1951 camp history, which gives the camp's extent as 'all of Lakes Kanawana, Wilson, and Round Lake, plus a sizeable part of the shoreline on Lake [Becsiee]' -- the scan's 'Becsiee' is Becsies. Kanawana's property therefore touched a lake that gave its name to another YMCA camp. This project has no article on Camp Becsies and one passing mention.",
+      "sources": [
+        "src_concordia_atom_fonds_p0145",
+        "src_ia_kanawana_history_1951"
+      ],
+      "confidence": "stated",
+      "category": "connections",
+      "entities": [
+        "Camp Becsies",
+        "Lake Becsies"
+      ],
+      "date_ref": "1951",
+      "conflicts_with": [],
+      "added_version": "5.85",
       "added_by": "manual"
     }
   ]
