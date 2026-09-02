@@ -11458,15 +11458,15 @@
       "date_precision": "exact",
       "origin": "internet_archive",
       "origin_url": "https://archive.org/details/1951-kamp-kanawana-history",
-      "cache_path": null,
-      "char_count": 0,
+      "cache_path": "sources/cache/src_ia_kanawana_history_1951.txt",
+      "char_count": 6476,
       "ingested_at": "2026-07-10T00:00:00Z",
       "extracted": true,
       "extraction_version": "batch7",
       "reliability": "primary",
-      "notes": "Verified genuine via archive.org metadata API and direct OCR text fetch (quote independently confirmed verbatim: 'Mr. Charlton suggested Kanawana which was like the name of a Furness Steamer', 'lots to eat'). A primary-source camp history distinct from the 1933 Dawson and 1935 chronicle documents, previously uncatalogued in this KB.",
+      "notes": "Verified genuine via archive.org metadata API and direct OCR text fetch (quote independently confirmed verbatim: 'Mr. Charlton suggested Kanawana which was like the name of a Furness Steamer', 'lots to eat'). A primary-source camp history distinct from the 1933 Dawson and 1935 chronicle documents, previously uncatalogued in this KB. | 2026-09-02: FULL TEXT CACHED AND READ END TO END for the first time (6,476 chars, five pages). It was previously \"extracted\" on the strength of quoted passages only. Reading the whole thing found three things the quotations had missed -- the Lake Wilson naming, Lake Kanawana's former name, and the 1900 attendance -- and one transcription error in the KB. NOTE: this document is held under TWO source_ids (src_ia_kanawana_history_1951 and src_1951_kamp_kanawana_history); see p_303.",
       "read_state": "extracted",
-      "read_state_basis": "derived:cited-by-fact"
+      "read_state_basis": "direct:full-text cached 2026-09-02 from the IA DjVuTXT derivative"
     },
     {
       "source_id": "src_ia_green_triangle_collection",
@@ -12250,15 +12250,15 @@
       "date_precision": "exact",
       "origin": "internet_archive",
       "origin_url": "https://archive.org/details/1951-kamp-kanawana-history",
-      "cache_path": null,
-      "char_count": 0,
+      "cache_path": "sources/cache/src_ia_kanawana_history_1951.txt",
+      "char_count": 6476,
       "ingested_at": "2026-08-14T00:00:00Z",
       "extracted": true,
       "extraction_version": "v5.23",
       "reliability": "primary",
-      "notes": "Institutional founding narrative delivered in-house in 1951. Dates the origin to 1892 (D. A. Budge's fishing trip to Lac Des Isles with a Mr. Ross, a Director of the Association) and names the founding committee appointed in the fall of 1892: \"a Committee of Messrs. J. W. Ross, W. E. Cushing, W. W. Wilson, T. Duncan Patton and W. H. Ball, was appointed.\" This is the document naming W. H. Ball on the founding committee, and the same document that carries the R. L. Charlton camp-naming story. OCR note: the scan renders periods as \"e\", so \"WeHe Ball\" = \"W. H. Ball\".",
+      "notes": "Institutional founding narrative delivered in-house in 1951. Dates the origin to 1892 (D. A. Budge's fishing trip to Lac Des Isles with a Mr. Ross, a Director of the Association) and names the founding committee appointed in the fall of 1892: \"a Committee of Messrs. J. W. Ross, W. E. Cushing, W. W. Wilson, T. Duncan Patton and W. H. Ball, was appointed.\" This is the document naming W. H. Ball on the founding committee, and the same document that carries the R. L. Charlton camp-naming story. OCR note: the scan renders periods as \"e\", so \"WeHe Ball\" = \"W. H. Ball\". | 2026-09-02: FULL TEXT CACHED AND READ END TO END for the first time (6,476 chars, five pages). It was previously \"extracted\" on the strength of quoted passages only. Reading the whole thing found three things the quotations had missed -- the Lake Wilson naming, Lake Kanawana's former name, and the 1900 attendance -- and one transcription error in the KB. NOTE: this document is held under TWO source_ids (src_ia_kanawana_history_1951 and src_1951_kamp_kanawana_history); see p_303.",
       "read_state": "extracted",
-      "read_state_basis": "derived:cited-by-fact"
+      "read_state_basis": "direct:full-text cached 2026-09-02 from the IA DjVuTXT derivative"
     },
     {
       "source_id": "src_ia_autobiographical_sketch_1919",

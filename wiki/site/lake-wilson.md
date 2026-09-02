@@ -1,7 +1,7 @@
 # Lake Wilson
 
-*Status: E1-reviewed | Sources: 10*
-*Last Updated: 2026-07-09*
+*Status: E1-reviewed | Sources: 12*
+*Last Updated: 2026-09-02*
 
 ## Overview
 
@@ -25,18 +25,21 @@ Lake Wilson serves as a destination for overnight camping excursions. Two-week c
 
 ## Naming Origin
 
-The origin of the name "Lake Wilson" is unknown. The claim that the lake is named for Wilson Griffith McConnell (1908–1966), eldest son of YMCA benefactor J.W. McConnell, is plausible but unverified. See [[people/j-w-mcconnell|J.W. McConnell]] for a full discussion of this question.
+**The camp answered this itself in 1951, and this project had the document.** "Kamp Kanawana History," read to a staff training course on 6 June 1951, states it in one sentence:^11
 
-Oral history provides an additional lead: the lake was originally called "Lac Desjardins" before being renamed after it was bought and donated to the camp, reportedly by J.W. McConnell.^7 If correct, this would explain why no "Lac Desjardins" appears in current toponymy records — the name was replaced. This claim has not been independently verified.
+> "A short time later Mr. J. W. McConnell purchased the land around Lake Desjardins. This he presented to the Y.M.C.A., and the lake was renamed 'Lake Wilson' after Mr. McConnell's son."
 
-Alternative possibilities for the "Wilson" name include:
-- A pre-existing geographic name from a local settler family named Wilson (consistent with other Quebec "Lac Wilson" naming patterns)
-- A reference to J.W. McConnell's own middle name "Wilson" (his mother's maiden name)
-- An unrelated Wilson associated with the YMCA or the local area
+That is a primary in-house document, and it confirms both halves of what this article had held as unverified. The lake **was** formerly Lac Desjardins; it **was** bought and given to the YMCA by J.W. McConnell; and it **was** named for his son — Wilson Griffith McConnell (1908–1966), on the identification argued at [[people/j-w-mcconnell|J.W. McConnell]]. The oral history recorded here was right, and a document independently reached the same account.
 
-The Commission de toponymie du Québec has no entry for this specific Lac Wilson. A full-text extraction of the complete McMorris thesis (129 pages) found zero mentions of "McConnell" and exactly two trivial mentions of "Wilson" (both simply listing "Lake Kanawana and Lake Wilson" as the camp's two lakes, with no naming discussion) — the thesis is not a source for this question and can be marked exhausted. Dawson's 1933 history and Charlton's 1943 "Early Days" account remain the most likely sources, but only their box locations (Concordia Archives Box HA2307 and HA1881 respectively) are confirmed online — no secondary source anywhere reproduces or summarizes their content regarding the lake name; physical archive access is required.
+Two things about how this was missed are worth keeping. The source has been in the knowledge base since July 2026 marked as read; what "read" meant was that a previous pass had quoted the passages it went looking for. And this section previously named the 1933 Dawson history and the 1943 Charlton account as "the most likely sources, but confirmed archive-only" — treating the answer as out of reach while it sat in a cached document nobody had read through.^12
 
-Additional supporting (not conclusive) pattern evidence was also found: three more official Quebec "Lac Wilson" toponymy entries beyond Sainte-Lucie-des-Laurentides — Brownsburg-Chatham (fiche 451695, named for a landowning family who also built a dam to create the lake, directly parallel to this lake's own dam), Saint-Théophile (fiche 67250, named for a man named Wilson who built a fishing camp), and Grenville-sur-la-Rouge (fiche 67246, undetermined). 3 of 4 documented Quebec "Lac Wilson" toponyms are named for a landowner/settler named Wilson — mildly favouring the pre-existing-settler-family hypothesis over the McConnell-son hypothesis, though not proving it for this specific lake.
+### What the alternatives were, and why they now fall away
+
+The alternatives previously canvassed here were a pre-existing settler-family name, J.W. McConnell's own middle name ("Wilson," his mother's maiden name), and an unrelated YMCA Wilson. The pattern evidence that favoured a settler origin is real and is retained below, because it explains why the *other* Quebec Lac Wilsons are named as they are — it simply does not govern this one, which has a documented naming of its own.
+
+The Commission de toponymie du Québec has no entry for this specific Lac Wilson, which is consistent with the 1951 account: a private lake renamed by its owner has no reason to enter the official register under either name. A full-text extraction of the complete McMorris thesis (129 pages) found zero mentions of "McConnell" and exactly two trivial mentions of "Wilson" — the thesis is not a source for this question.
+
+Pattern evidence on comparable toponyms, retained: three further official Quebec "Lac Wilson" entries beyond Sainte-Lucie-des-Laurentides — Brownsburg-Chatham (fiche 451695, named for a landowning family who also built a dam to create the lake), Saint-Théophile (fiche 67250, named for a man named Wilson who built a fishing camp there) and others — all favour settler-family origins in the general case.
 
 ## The Dam
 
@@ -55,7 +58,7 @@ The dam between Lake Kanawana and Lake Wilson is a longstanding camp feature.^3 
 
 ## Open Questions
 
-1. [Critical] What is the naming origin of Lake Wilson? The 1933 Dawson history and 1943 Charlton account remain the most likely sources, but are confirmed archive-only (content inaccessible online) — see above. 3 of 4 comparable Quebec "Lac Wilson" toponyms favour a settler-family origin over the McConnell hypothesis.
+1. ~~[Critical] What is the naming origin of Lake Wilson?~~ **[Resolved 2026-09-02]** The 1951 "Kamp Kanawana History" states it: J.W. McConnell bought the land around Lac Desjardins, gave it to the YMCA, and the lake was renamed for his son.^11 What remains open is narrower and worth separating — whether "Mr. McConnell's son" is specifically Wilson Griffith McConnell (the identification rests on the name and the dates, not on this document), and exactly when the purchase and renaming happened; the 1951 text places it only "a short time later" than the 1910 site purchase. The 1933 Dawson history and 1943 Charlton account may still add detail and remain archive-only. 3 of 4 comparable Quebec "Lac Wilson" toponyms favour a settler-family origin over the McConnell hypothesis.
 2. [Important, confirmed dead end 2026-07-09] When was the dam between Lake Kanawana and Lake Wilson constructed? Not found in any online source; Quebec's CEHQ Répertoire des barrages does not list this dam at all.
 3. [Important, confirmed dead end 2026-07-09] What is the surface area and depth of Lake Wilson? Does not appear in any public lake/GIS database (checked GPS Nautical Charts, which does list neighbouring Lac Kanawana at 57.97 acres) — likely because it is a small, private, unofficial-toponymy lake.
 4. ~~[Important] Does the McMorris thesis discuss Lake Wilson's history or naming?~~ [Resolved 2026-07-09] No — full-text search found only two trivial mentions (see above).
@@ -81,6 +84,8 @@ The dam between Lake Kanawana and Lake Wilson is a longstanding camp feature.^3 
 8. McMorris, Grace (2023). "An Experience That Lasts a Lifetime." MA thesis, Concordia University — full-text search, 2026-07-09 [src_mcmorris_thesis].
 9. Additional Commission de toponymie du Québec "Lac Wilson" fiches: Brownsburg-Chatham (451695), Saint-Théophile (67250), Grenville-sur-la-Rouge (67246) [src_toponymie_lac_wilson_additional].
 10. Concordia University Archives, YMCA of Montreal fonds sub-series 12A/12L (Dawson 1933, Charlton 1943 box locations) [src_concordia_12L].
+11. "Kamp Kanawana History," presented at a staff Training Course, 6 June 1951 [src_ia_kanawana_history_1951]. Internet Archive, `1951-kamp-kanawana-history`; full text cached 2026-09-02 at `sources/cache/src_ia_kanawana_history_1951.txt`. See [f_2371].
+12. The reading history of that document is itself recorded at [f_2376]: it carried read_state "extracted" on the strength of quoted passages, with no cached text, from July 2026 until it was read end to end on 2026-09-02.
 
 ## Research Notes
 

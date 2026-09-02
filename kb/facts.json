@@ -1,8 +1,8 @@
 {
-  "version": "5.82",
-  "kb_version": "5.82",
+  "version": "5.83",
+  "kb_version": "5.83",
   "migrated_from": "3.3",
-  "fact_count": 2332,
+  "fact_count": 2338,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -37050,7 +37050,7 @@
     },
     {
       "fact_id": "f_2180",
-      "claim": "The camp's two in-house histories do NOT use the name 'Camp Jubilee' either. The 1935 'A History of Kamp Kanawana' does not contain the word; the 1951 'Kamp Kanawana History' says only that 'After much searching a site was chosen on Lac St. Joseph at Ste [Agathe]' -- wording which is itself consistent with the Lac la Croix site-selection sequence recorded in the 1919 memoir.",
+      "claim": "The camp's two in-house histories do NOT use the name 'Camp Jubilee' either. The 1935 'A History of Kamp Kanawana' does not contain the word; the 1951 'Kamp Kanawana History' says only that 'After much searching a site was chosen on Lac St. Joseph at Ste Adolphe de Howard' -- wording which is itself consistent with the Lac la Croix site-selection sequence recorded in the 1919 memoir. || CORRECTION 2026-09-02: this fact previously rendered the 1951 quotation as 'at Ste [Agathe]', with Agathe supplied in brackets. The document does not say Agathe. It says 'Ste Adolphe de Howard' -- Saint-Adolphe-d'Howard -- and mentions Sainte-Agathe separately and earlier, as the REGION toured in spring 1893 before a site was picked. The bracket inverted the document's own distinction between where they looked and where they landed, and it pointed away from Saint-Adolphe-d'Howard, which is exactly where QAHN places Camp Jubilee. Found on the first end-to-end read of the full cached text.",
       "sources": [
         "src_ia_kanawana_history_1951",
         "src_history_1935"
@@ -40375,6 +40375,112 @@
       "date_ref": "2026-09-02",
       "conflicts_with": [],
       "added_version": "5.82",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_2371",
+      "claim": "THE 1951 KAMP KANAWANA HISTORY STATES THE ORIGIN OF THE NAME 'LAKE WILSON' OUTRIGHT: \"A short time later Mr. J. W. McConnell purchased the land around Lake Desjardins. This he presented to the Y.M.C.A., and the lake was renamed 'Lake Wilson' after Mr. McConnell's son.\" (OCR reads 'ren-owned' for 'renamed' and 'sone' for 'son'; the scan renders terminal periods as 'e'.) This is a primary in-house camp document, and it confirms BOTH halves of what the wiki held as unverified: the oral-history claim that the lake was formerly Lac Desjardins and was renamed after McConnell bought and donated it, AND the McConnell-son hypothesis that lake-wilson.md called 'plausible but unverified'. The article's Open Question 1 was rated CRITICAL and named the 1933 Dawson history and 1943 Charlton account as 'the most likely sources, but confirmed archive-only', while this document sat in the KB marked extracted.",
+      "sources": [
+        "src_ia_kanawana_history_1951"
+      ],
+      "confidence": "stated",
+      "category": "site",
+      "entities": [
+        "Lake Wilson",
+        "J.W. McConnell",
+        "Lac Desjardins"
+      ],
+      "date_ref": "1910s",
+      "conflicts_with": [],
+      "added_version": "5.83",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_2372",
+      "claim": "LAKE KANAWANA WAS FORMERLY LAKE ST. LOUIS. The 1951 camp history says the 1910 site-search committee 'explored the country and Lake St. Louis, the present site, was located', and then, after the naming decision: 'The name of the lake was also [changed] from Ste Louis to Lake Kanawana.' The lake took the camp's name, not the reverse. This appears nowhere else in this project -- the strings 'St. Louis' and 'Saint-Louis' occur in no wiki article.",
+      "sources": [
+        "src_ia_kanawana_history_1951"
+      ],
+      "confidence": "stated",
+      "category": "site",
+      "entities": [
+        "Lake Kanawana",
+        "Lake St. Louis"
+      ],
+      "date_ref": "1910",
+      "conflicts_with": [],
+      "added_version": "5.83",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_2373",
+      "claim": "THE 1910 SITE SEARCH, AS THE CAMP TOLD IT IN 1951: 'Early in 1910 a Committee under the Chairmanship of Mr. R. L. Charlton was constituted to look for a new site for the boys' camp' -- constituted because 'it was recognized by Association leaders that one camp could not house both boys and young men.' The committee was Charlton with 'Messrs. R. B. Ross Jr., and L. Cushing'. 'During the late winter months of 1910' they went to the Laurentians, 'arrived at St. Sauveur and commenced to walk at night over the hills to Lac Marois. Running into a rain and snow storm the Committee lost its way and stayed overnight at a farmhouse. The next day the country was explored and Lake St. Louis, the present site, was located.' The document credits them with 'great foresight' for 'suggesting the purchase of all the shore line on the lake'. NOTE FOR THE CUSHING DISAMBIGUATION: this document names TWO different Cushings in two different decades -- 'W. E. Cushing' on the 1892 founding committee and 'L. Cushing' on the 1910 site committee.",
+      "sources": [
+        "src_ia_kanawana_history_1951"
+      ],
+      "confidence": "stated",
+      "category": "history",
+      "entities": [
+        "R.L. Charlton",
+        "R.B. Ross Jr.",
+        "L. Cushing",
+        "W.E. Cushing",
+        "Lac Marois",
+        "Saint-Sauveur"
+      ],
+      "date_ref": "1910",
+      "conflicts_with": [],
+      "added_version": "5.83",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_2374",
+      "claim": "CAMP ATTENDANCE IN 1900, from the 1951 camp history: 'During the summer of 1900 the attendance was thirty-seven boys and seventy-two young men. The dining marquee had been replaced by a log cabin and kitchen at a cost of $700.00.' Young men outnumbered boys nearly two to one -- which is the stated reason a separate boys' camp was sought a decade later ('one camp could not house both boys and young men'). Neither figure appears anywhere else in this project.",
+      "sources": [
+        "src_ia_kanawana_history_1951"
+      ],
+      "confidence": "stated",
+      "category": "attendance",
+      "entities": [
+        "Camp Jubilee"
+      ],
+      "date_ref": "1900",
+      "conflicts_with": [],
+      "added_version": "5.83",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_2375",
+      "claim": "THE FIRST CAMP'S EQUIPMENT, 1894, per the 1951 history: 'The equipment consisted of six tents - a marquee for a dining tent - all cooking was done over an open fire.' The same document describes the 1893 reconnaissance party as '\"Gentlemen Adventurers\" [who] toured the country over \"Corduroy\" roads in buckboards and thoroughly investigated the lakes and islands by boat', and gives the property extent as of 1951: 'all of Lakes Kanawana, Wilson, and Round Lake, plus a sizeable part of the shoreline on Lake [Becsiee -- OCR uncertain, possibly Becasse].'",
+      "sources": [
+        "src_ia_kanawana_history_1951"
+      ],
+      "confidence": "stated",
+      "category": "site",
+      "entities": [
+        "Camp Jubilee",
+        "Round Lake"
+      ],
+      "date_ref": "1893-1951",
+      "conflicts_with": [],
+      "added_version": "5.83",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_2376",
+      "claim": "A SOURCE MARKED 'extracted' HAD NEVER BEEN READ END TO END. The 1951 'Kamp Kanawana History' carried read_state 'extracted' with basis 'derived:cited-by-fact' and no cache_path: nine facts quoted passages from it, and on that basis it counted as read. Reading the whole 6,476-character text on 2026-09-02 -- prompted by the operator asking what it says -- produced four new facts (f_2371 to f_2375) and one correction (f_2180). One of the new facts answers an Open Question that lake-wilson.md rated CRITICAL and described as depending on two archive-only documents. THE PATTERN: 'extracted' means somebody took what they went looking for. It does not mean anybody read the document. read_state_basis 'derived:cited-by-fact' should be treated as UNREAD for any question the extracting pass was not asking.",
+      "sources": [
+        "src_ia_kanawana_history_1951"
+      ],
+      "confidence": "stated",
+      "category": "methodology",
+      "entities": [
+        "src_ia_kanawana_history_1951",
+        "lake-wilson"
+      ],
+      "date_ref": "2026-09-02",
+      "conflicts_with": [],
+      "added_version": "5.83",
       "added_by": "manual"
     }
   ]

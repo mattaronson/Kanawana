@@ -3496,7 +3496,8 @@
       "sources_cited": [
         "src_concordia_12L",
         "src_mcmorris_thesis",
-        "src_toponymie_lac_wilson_additional"
+        "src_toponymie_lac_wilson_additional",
+        "src_ia_kanawana_history_1951"
       ],
       "open_questions": 6,
       "cross_links": [
@@ -3506,7 +3507,7 @@
         "traditions-and-culture"
       ],
       "file_id": null,
-      "word_count": 1229,
+      "word_count": 1430,
       "notes": "RALPH R1 (2026-02-26): Two parallel research agents. First reference 1923 (Gas Bag). Dam ceremony since 1935. Two separate Lac Wilsons in region (camp vs Saint-Adolphe-d'Howard). Naming origin UNKNOWN. Added Lac Desjardins oral history (f_1206) 2026-06-20. | 2026-07-11: Workstream A Wave 2 prose-sediment REVIEW pass -- fixed the malformed Sources header, removed a minor dated-label sediment marker from prose. No facts, citations, or open questions dropped; status unchanged.",
       "tags": {
         "era": [

@@ -3923,6 +3923,19 @@
       "created_at": "2026-09-02",
       "status": "pending",
       "notes": "Spawned by p_302. The QAHN case was found only because a FOURTH id, src_qahn_kanawana, was cited by an article and existed nowhere -- check D caught the phantom and the triple turned up while resolving it."
+    },
+    {
+      "priority_id": "p_304",
+      "rank": 303,
+      "type": "RESEARCH",
+      "article_id": null,
+      "tier": 1,
+      "assigned_weight": "critical",
+      "description": "RE-READ EVERY SOURCE WHOSE read_state_basis IS 'derived:cited-by-fact'. The 1951 Kamp Kanawana History was marked extracted on that basis, with no cached text, and nine facts quoted it. Reading it end to end on 2026-09-02 produced four new facts, one correction, and the answer to an Open Question rated CRITICAL in lake-wilson.md -- an article that named two archive-only documents as 'the most likely sources' while the answer sat in this one. 'Extracted' means somebody took what they went looking for; it does not mean anyone read the document. Work the list in order of how many articles depend on the source, cache the full text every time, and record read_state_basis 'direct'.",
+      "blocking": false,
+      "created_at": "2026-09-02",
+      "status": "pending",
+      "notes": "See f_2376. The verify harness's provenance pass (check H) already counts read_state values -- it can produce the worklist. Note that 724 sources currently read 'extracted'; the subset with basis 'derived:cited-by-fact' AND no cache_path is the priority. | MEASURED 2026-09-02: 616 of 1,310 source records -- 47% -- are marked read only because a fact cites them and hold no cached text. That is the size of the exposure, not an estimate."
     }
   ],
   "queue_ordering": {
