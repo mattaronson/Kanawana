@@ -1,6 +1,6 @@
 # The Order of Owens
 
-*Status: draft | Sources: 5*
+*Status: draft | Sources: 8*
 *Last Updated: 2026-08-14*
 
 ## Overview
@@ -164,8 +164,8 @@ The award resumed in 2022 and has run annually since.
 ## Sources
 
 1. Order of Owens roster and award criteria, 1976–2026, provided directly by the operator (Matt Aronson), 2026-08-14 [src_oral_aronson_order_of_owens].
-3. Operator account (Matt Aronson), 2026-08-14: the 2020 L&V Games were played remotely; the 2021 Games were not held [src_oral_aronson_lv_2020_remote].
 2. Photographs of the two carved Order of Owens award paddles at camp (blackletter, 2005–2012; cursive, 2005–2022), supplied by the operator, 2026-08-14 [src_photo_order_of_owens_paddles].
+3. Operator account (Matt Aronson), 2026-08-14: the 2020 L&V Games were played remotely; the 2021 Games were not held [src_oral_aronson_lv_2020_remote].
 4. *Kamp Kanawana Director's Report 1976*, YMCA of Montreal, section "Program Areas — Hike & Trip" (Internet Archive, `1976-kamp-kanawana-directors-report`) [src_ia_kanawana_directors_report_1976].
 5. *Kanawana… A Place to Grow* report, 1988, "Programme Highlights" (Internet Archive, `1988-kanawana-a-place-to-grow-report`); and the O. N. H. Owens references across the digitized YMCA of Montreal fonds, 1929–1964 [src_ia_kanawana_place_to_grow_1988, src_ia_ymca_montreal_fonds_collection].
 6. *Canadian Camping* Vol. 6 No. 3, June 1954 — "Welcome to a New Executive: The Quebec Camping Association" [src_ia_canadian_camping_1954_06].

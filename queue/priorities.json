@@ -3908,8 +3908,21 @@
       "description": "Clear the backlog the widened harness checks just exposed. Twelve articles have a '*Sources: N*' header that disagrees with the number of entries beneath it, SEVEN of them at E1-reviewed or R3-verified: a-ross-seaman (7 vs 9), camp-otoreke (16 vs 18), indigenous-names-and-land (12 vs 14), kanawana-in-media (19 vs 20), lv-games (9 vs 10), notable-alumni (40 vs 42), plus the drafts geoff-anderson, james-h-turner, leo-robitaille, order-of-owens, roy-locke and t-duncan-patton (whose header is HIGHER than its entry count, a different and worse shape). Four more skip source numbers entirely: council-ring and lv-games have Sources sections that mix a bullet list with numbered entries starting at 8, da-budge starts at 5, billy-ball skips 8. Fix the numbering, then the headers, then re-run.",
       "blocking": false,
       "created_at": "2026-09-02",
+      "status": "completed",
+      "notes": "Every one of these predates 2026-09-02 and none was visible while checks A1 and G ran on drafts only. The direction of the error is the tell: eleven of twelve headers are LOW, i.e. sources were appended to finished articles and the header was never touched -- which is exactly the life-cycle stage the draft-only scope could not see. See f_2365. | COMPLETED 2026-09-02. All sixteen articles fixed; every whole-wiki check now reports zero. Four shapes, recorded at f_2366 -- header drift, entries stranded below the '## Research Notes' heading, bullets mixed with numbers, and orphan label markers. Tool written: scripts/verify/renumber_sources.py (dry-run by default)."
+    },
+    {
+      "priority_id": "p_303",
+      "rank": 302,
+      "type": "VERIFY",
+      "article_id": null,
+      "tier": 3,
+      "assigned_weight": "medium",
+      "description": "Merge the duplicate SOURCE RECORDS in sources.json. One QAHN article on the YMCA camp at Saint-Adolphe-d'Howard is held under three ids (src_qahn_howard, src_qahn_ymca_camp, src_qahn_ymca_camp_saint_adolphe) -- see f_2367. Check K separately reports twenty source_ids each held by more than one RECORD, including src_flickr_kanawana x6 and src_cca_history x3. Both directions break the same thing: a [src_] citation stops naming one object. Pick a canonical id per source, repoint facts and articles, and delete the rest.",
+      "blocking": false,
+      "created_at": "2026-09-02",
       "status": "pending",
-      "notes": "Every one of these predates 2026-09-02 and none was visible while checks A1 and G ran on drafts only. The direction of the error is the tell: eleven of twelve headers are LOW, i.e. sources were appended to finished articles and the header was never touched -- which is exactly the life-cycle stage the draft-only scope could not see. See f_2365."
+      "notes": "Spawned by p_302. The QAHN case was found only because a FOURTH id, src_qahn_kanawana, was cited by an article and existed nowhere -- check D caught the phantom and the triple turned up while resolving it."
     }
   ],
   "queue_ordering": {

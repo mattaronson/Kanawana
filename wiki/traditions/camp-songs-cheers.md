@@ -1,6 +1,6 @@
 # Camp Songs, Cheers, and Musical Traditions
 
-*Status: E1-reviewed | Sources: 19*
+*Status: E1-reviewed | Sources: 20*
 *Last Updated: 2026-08-14*
 
 ## Overview
@@ -286,6 +286,7 @@ The Color War tradition (known at Kanawana as the L&V Games) typically includes 
 18. Concordia University Archives, sub-sub-series 12B07 (Program) [src_concordia_atom_12B07]. Direct fetch 2026-07-09: Box HA2315 (song sheets, song books, pageant scripts).
 
 19. Kanawana material in the Concordia-digitized YMCA of Montreal fonds: *The Lookout* Vol. 1 No. 3, autumn 1993 (Richard "Itche" Kerr's first-person account of writing the camp song) [src_ia_the_lookout_1993]; the CBM "Voice of Youth" broadcast script, 10 November 1938; the CFCF broadcast of 1936; *The Green Triangle* of 29 July 1933 and 13 August 1932; the 1965 camp publication *The Chestnut*, for the Pathfinder yell; and the *Kamp Kanawana Annual Report 1970* [src_ia_ymca_montreal_fonds_collection, src_ia_kanawana_report_1970]. *OCR note: the Pathfinder yell survives only as damaged uppercase OCR ("TENTS, FRAILS, TREES AND TRACKS, / PATHS, PADOLES, PETS AND. PACKS, / LERE THE 30YS 1TH THE STRONGEST RACKS / SE'RE THE 30S SHO S"ING THE AXE..."). The reading given above is a reconstruction; the raw text is recorded here so the reconstruction can be checked.*
+20. *The Green Triangle*, 9 July 1938 [src_ia_green_triangle_collection]. Full-text read of the verified 38-issue corpus, 2026-08-25. See [f_2280].
 
 ## Research Notes
 
@@ -293,4 +294,3 @@ The Color War tradition (known at Kanawana as the L&V Games) typically includes 
 
 - **2026-07-09** — Corrected an internal inconsistency: this article previously stated no section cheer had been recorded in any written source. The handwritten "Medley '81" cheer sheet (see Images) in fact records a Voyageurs sound-off chant and a girls'-section cheer verbatim (f_1566) — one section cheer is documented, not zero.
 
-20. *The Green Triangle*, 9 July 1938 [src_ia_green_triangle_collection]. Full-text read of the verified 38-issue corpus, 2026-08-25. See [f_2280].

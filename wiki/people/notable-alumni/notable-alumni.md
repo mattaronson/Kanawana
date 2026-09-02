@@ -1,6 +1,6 @@
 # Notable Alumni of Camp Kanawana
 
-*Status: E1-reviewed | Sources: 40*
+*Status: E1-reviewed | Sources: 42*
 *Last Updated: 2026-07-11*
 
 ## Overview

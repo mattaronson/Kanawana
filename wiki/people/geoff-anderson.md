@@ -1,6 +1,6 @@
 # Geoff Anderson
 
-*Status: draft | Sources: 3*
+*Status: draft | Sources: 4*
 *Last Updated: 2026-08-14*
 
 ## Overview

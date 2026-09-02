@@ -1,6 +1,6 @@
 # A. Ross Seaman
 
-*Status: E1-reviewed | Sources: 7*
+*Status: E1-reviewed | Sources: 9*
 *Last Updated: 2026-07-10*
 
 ## Overview
@@ -73,6 +73,6 @@ The A. Ross Seaman Memorial Leadership Development Fund was established in 1987 
 4. Concordia Thursday Report, April 2001: Seaman Awards ceremony.
 5. Concordia University Archives: YMCA of Montreal fonds, P0145/12K — La Vérendrye canoe trip records (1958–1982), including exploratory trip logs and Lac Landron lease.
 6. YMCA of Montreal, Annual Report 1966-67 (Internet Archive, digitized by Concordia RMA). Read directly 2026-07-08.
-8. *Canadian Camping* Vol. 19 No. 4 (June 1967), p. 125 [src_ia_canadian_camping_1967_06]. Profile of Seaman as Montreal YMCA Director of Camping; the passage on Mrs. Seaman is quoted above.
 7. Camp Perrot annual reports, 1952 [src_ia_camp_perrot_collection]; "A Fresh Look at Camp Perrot," 1959 memo [src_camp_perrot_1959_fresh_look]. Both verified genuine via archive.org metadata API, 2026-07-10.
+8. *Canadian Camping* Vol. 19 No. 4 (June 1967), p. 125 [src_ia_canadian_camping_1967_06]. Profile of Seaman as Montreal YMCA Director of Camping; the passage on Mrs. Seaman is quoted above.
 9. "A. Ross Seaman, President, Quebec Camping Association, Inc.," *Canadian Camping* Vol. 19 No. 4, June 1967, p. 125 [src_ia_canadian_camping_1967_06].

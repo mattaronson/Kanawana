@@ -1,6 +1,6 @@
 # Daniel Andrew Budge (1851-1933)
 
-*Status: E1-reviewed | Sources: 2*
+*Status: E1-reviewed | Sources: 7*
 *Last Updated: 2026-07-09*
 
 ## Summary
@@ -28,7 +28,7 @@ Budge is noted in YMCA history for his influence on James Naismith. While studyi
 
 Budge authored "The Early Beginning of the Young Men's Christian Association in Montreal, Canada," a document preserved in the Concordia archives (sub-series 1B) and dated to approximately the 1910s. A related letter from C. K. Calhoun to J. H. Crocker accompanies it. This makes Budge himself one of the early historians of the Montreal YMCA, predating Harold Cross's centennial history by decades.
 
-Budge also authored a "Memorandum of the Early Beginnings of the YMCA Work on the Canadian Pacific Railway" (1890s) and a "Study of Possible Extension of YMCAs of Grand Trunk Railway" (1896), both held in the Concordia Archives.^5 These documents reflect the Montreal YMCA's ambition to extend its influence along the railway corridors connecting Montreal to the rest of Canada during the period when the camping program was also taking shape.
+Budge also authored a "Memorandum of the Early Beginnings of the YMCA Work on the Canadian Pacific Railway" (1890s) and a "Study of Possible Extension of YMCAs of Grand Trunk Railway" (1896), both held in the Concordia Archives.^6 These documents reflect the Montreal YMCA's ambition to extend its influence along the railway corridors connecting Montreal to the rest of Canada during the period when the camping program was also taking shape.
 
 ## Archival References
 
@@ -54,13 +54,13 @@ Budge also authored a "Memorandum of the Early Beginnings of the YMCA Work on th
 
 ## Sources
 
-- McGill University Archival Collections Catalogue, Budge biographical entry (https://archivalcollections.library.mcgill.ca/index.php/budge-d-a)
-- World YMCA, "Basketball: A YMCA Invention" (https://www.ymca.int/who-we-are/the-worldwide-ymca-movement/the-ymca-history/basketball-a-ymca-invention/)
-- Naismith Basketball Foundation, "Dr. James Naismith's Life" (https://naismithbasketballfoundation.com/james-naismith-life/)
-- Concordia University Archives, YMCA of Montreal fonds P145, sub-series 1B (https://www.concordia.ca/offices/archives/ymca-fonds-sub-series-1B.html)
-- Concordia University Archives, YMCA of Montreal fonds P145, sub-series 12L
-5. Concordia University Archives, YMCA of Montreal fonds P0145 finding aid — railway memoranda.
-6. Concordia University Archives, YMCA of Montreal fonds P0145, sub-series 13D (Joyce Oliver "Book of Remembrance and History" project, 1939-40) [src_concordia_13D_joyce_oliver].
+1. McGill University Archival Collections Catalogue, Budge biographical entry (https://archivalcollections.library.mcgill.ca/index.php/budge-d-a)
+2. World YMCA, "Basketball: A YMCA Invention" (https://www.ymca.int/who-we-are/the-worldwide-ymca-movement/the-ymca-history/basketball-a-ymca-invention/)
+3. Naismith Basketball Foundation, "Dr. James Naismith's Life" (https://naismithbasketballfoundation.com/james-naismith-life/)
+4. Concordia University Archives, YMCA of Montreal fonds P145, sub-series 1B (https://www.concordia.ca/offices/archives/ymca-fonds-sub-series-1B.html)
+5. Concordia University Archives, YMCA of Montreal fonds P145, sub-series 12L
+6. Concordia University Archives, YMCA of Montreal fonds P0145 finding aid — railway memoranda.
+7. Concordia University Archives, YMCA of Montreal fonds P0145, sub-series 13D (Joyce Oliver "Book of Remembrance and History" project, 1939-40) [src_concordia_13D_joyce_oliver].
 
 ## Research Notes
 

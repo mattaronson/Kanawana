@@ -1,6 +1,6 @@
 # Camp Otoreke
 
-*Status: E1-reviewed | Sources: 16*
+*Status: E1-reviewed | Sources: 18*
 *Last Updated: 2026-07-09*
 
 ## Overview

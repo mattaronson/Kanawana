@@ -1,6 +1,6 @@
 # Indigenous Place Names and Land History
 
-*Status: R3-verified | Sources: 12*
+*Status: R3-verified | Sources: 14*
 *Last Updated: 2026-06-26*
 
 ## Overview

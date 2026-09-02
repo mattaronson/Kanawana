@@ -1,8 +1,8 @@
 {
-  "version": "5.79",
-  "kb_version": "5.79",
+  "version": "5.80",
+  "kb_version": "5.80",
   "migrated_from": "3.3",
-  "fact_count": 2327,
+  "fact_count": 2329,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -40285,6 +40285,43 @@
       "date_ref": "2026-09-02",
       "conflicts_with": [],
       "added_version": "5.79",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_2366",
+      "claim": "THE SOURCE-NUMBERING BACKLOG (p_302, cleared 2026-09-02) HAD FOUR DISTINCT SHAPES, and only one of them was a typo. (1) HEADER DRIFT, nine articles: sources appended, '*Sources: N*' never updated -- eleven of twelve headers were LOW, which is the signature of appending to a finished article. (2) ENTRIES STRANDED BELOW THE SECTION, three articles: camp-songs-cheers (entry 20), murray-shantz (2-4) and t-duncan-patton (6-9) each had source entries appended AFTER the '## Research Notes' heading, so they were outside the Sources section, invisible to a counter and unreachable by their own ^N markers. (3) BULLETS MIXED WITH NUMBERS, four articles: council-ring, da-budge, lv-games and billy-ball had Sources sections where some entries were bullets and some were numbered, so a printed number no longer matched its position in the list -- council-ring's header even documented the mess ('bullet/label-style source list, not numbered') instead of fixing it, and said 3 where the article had 11. (4) ORPHAN LABELS: ^mc in lv-games and ^cr in council-ring were label markers with no definition or a definition inside a bullet. Every one predates 2026-09-02 and none was visible while checks A1 and G ran on drafts only.",
+      "sources": [],
+      "confidence": "stated",
+      "category": "methodology",
+      "entities": [
+        "verify_harness",
+        "council-ring",
+        "lv-games",
+        "da-budge",
+        "billy-ball",
+        "camp-songs-cheers",
+        "murray-shantz",
+        "t-duncan-patton"
+      ],
+      "date_ref": "2026-09-02",
+      "conflicts_with": [],
+      "added_version": "5.80",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_2367",
+      "claim": "ONE QAHN ARTICLE ON THE YMCA CAMP AT SAINT-ADOLPHE-D'HOWARD IS HELD IN sources.json UNDER THREE SEPARATE IDS: src_qahn_howard (12 facts, 1 wiki article), src_qahn_ymca_camp (3 facts) and src_qahn_ymca_camp_saint_adolphe (1 fact). All three records describe the same piece -- Camp Jubilee and Camp Otoreke at Saint-Adolphe-d'Howard. A fourth id, src_qahn_kanawana, was cited in t-duncan-patton.md and exists in no record at all; it has been repointed to src_qahn_howard, the id with the most use. This is the same defect as check K's twenty duplicated source_ids but reached from the other direction: there the ID is shared by different records, here different IDs are shared by one source.",
+      "sources": [],
+      "confidence": "stated",
+      "category": "methodology",
+      "entities": [
+        "src_qahn_howard",
+        "src_qahn_ymca_camp",
+        "src_qahn_ymca_camp_saint_adolphe"
+      ],
+      "date_ref": "2026-09-02",
+      "conflicts_with": [],
+      "added_version": "5.80",
       "added_by": "manual"
     }
   ]

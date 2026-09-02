@@ -1,6 +1,6 @@
 # Murray B. Shantz
 
-*Status: draft | Sources: 1*
+*Status: draft | Sources: 4*
 *Last Updated: 2026-08-14*
 
 ## Overview
@@ -45,12 +45,12 @@ That "Murray G." is an OCR or typographic slip for Murray B.; the 1962 report co
 ## Sources
 
 1. YMCA of Montreal Annual Reports — 1954 (appointment from Cornwall, 15 September), 1955 (the 16 April 1956 annual-meeting agenda naming him Director of Kamp Kanawana), 1956 and 1957 (employed-officer change lists recording no Kanawana change), 1959 (departure to the National Council, succeeded by Seaman) and 1962 (M. B. Shantz on National Council staff) [src_ia_ymca_montreal_annual_reports_collection].
+2. YMCA of Montreal Annual Report 1943, Training Fellowships [src_ia_ymca_montreal_annual_reports_collection].
+3. Camp Perrot Annual Report 1958, Boys' Camping Committee membership [src_ia_camp_perrot_collection].
+4. *The Lookout* Vol. 1 No. 3, autumn 1993, alumni roll [src_ia_the_lookout_1993].
 
 ## Research Notes
 
 <!-- Created 2026-08-14 (p_250) from f_2080, established by the director-gap campaign of the same day. No new research for this spawn.
      Kept deliberately short. One document names him in the role, and the temptation with a newly-recovered name is to pad it out with the association context that surrounds him. The 1955/1957/1958 seasons are the whole of the inference here and the article says plainly what kind of inference it is -- an argument from silence in the personnel-change lists, which shows only that no change was recorded.
      Status "stub" for the same reason as the other four p_250 spawns: no dedicated RALPH cycle, no VERIFY pass. Here it is also simply accurate -- one source. -->
-2. YMCA of Montreal Annual Report 1943, Training Fellowships [src_ia_ymca_montreal_annual_reports_collection].
-3. Camp Perrot Annual Report 1958, Boys' Camping Committee membership [src_ia_camp_perrot_collection].
-4. *The Lookout* Vol. 1 No. 3, autumn 1993, alumni roll [src_ia_the_lookout_1993].

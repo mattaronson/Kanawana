@@ -1,6 +1,6 @@
 # James H. Turner
 
-*Status: draft | Sources: 3*
+*Status: draft | Sources: 5*
 *Last Updated: 2026-08-14*
 
 ## Overview

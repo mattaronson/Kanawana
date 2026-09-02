@@ -1,6 +1,6 @@
 # Thomas Duncan Patton (1865–1944)
 
-*Status: draft | Sources: 8*
+*Status: draft | Sources: 9*
 *Last Updated: 2026-08-25*
 
 ## Overview
@@ -212,11 +212,15 @@ neither is obviously wrong.
 
 ## Sources
 
-1. "Brief Autobiographical Sketch of Association Career," August 1919 [src_ia_1919_autobiographical_sketch]. Read in full 2026-08-25. Signature illegible in the OCR; authorship established from internal evidence as set out above.
+1. "Brief Autobiographical Sketch of Association Career," August 1919 [src_ia_autobiographical_sketch_1919]. Read in full 2026-08-25. Signature illegible in the OCR; authorship established from internal evidence as set out above.
 2. "Kamp Kanawana History," 1951 [src_ia_kanawana_history_1951], naming the fall-1892 committee.
 3. YMCA of Montreal Annual Reports [src_ia_ymca_montreal_annual_reports_collection].
 4. Camp Stephens Alumni Blog [src_camp_stephens_alumni_blog], for the Winnipeg camp's later history.
-5. Quebec Anglophone Heritage Network [src_qahn_kanawana], for the Lake St. Joseph founding context.
+5. Quebec Anglophone Heritage Network [src_qahn_howard], for the Lake St. Joseph founding context.
+6. "The First Team," Wikipedia [src_wikipedia_first_team]. Roster of the eighteen original players, including "Thomas Duncan Patton"; names the captains as "T. B. Patten and C. B. Libby," a garbling discussed above.
+7. Library and Archives Canada, "125 years ago today: the invention of basketball and the Canadian participants in the first ever basketball game," 21 December 2016 [src_lac_first_basketball_game]. "Originally from Montreal… one of the two team captains selected by Naismith for the first game."
+8. "Thomas D. Patton," *The First Basket Ball Players* exhibit [src_omeka_first_basketball_players]. Birth 15 April 1865, Danville, Quebec; death 1 April 1944, Toronto; full YMCA career 1892–1941.
+9. YMCA of Montreal Annual Reports, 1889–90, 1892–93, 1893–94, 1895–96, 1897–98 and 1899 [src_ia_ymca_montreal_annual_reports_collection]. Read 2026-08-25. See [f_2299], [f_2300].
 
 ## Research Notes
 
@@ -227,8 +231,3 @@ and the acreage figures: material overlooked inside a source recorded as read. T
 been read end to end and is the spine of this article.
 The Jones' Island passage and the Camp Stephens material were both new to this wiki. Nothing here is
 asserted about the "T." or about birth/death dates, which the memoir does not give. -->
-
-6. "The First Team," Wikipedia [src_wikipedia_first_team]. Roster of the eighteen original players, including "Thomas Duncan Patton"; names the captains as "T. B. Patten and C. B. Libby," a garbling discussed above.
-7. Library and Archives Canada, "125 years ago today: the invention of basketball and the Canadian participants in the first ever basketball game," 21 December 2016 [src_lac_first_basketball_game]. "Originally from Montreal… one of the two team captains selected by Naismith for the first game."
-8. "Thomas D. Patton," *The First Basket Ball Players* exhibit [src_omeka_first_basketball_players]. Birth 15 April 1865, Danville, Quebec; death 1 April 1944, Toronto; full YMCA career 1892–1941.
-9. YMCA of Montreal Annual Reports, 1889–90, 1892–93, 1893–94, 1895–96, 1897–98 and 1899 [src_ia_ymca_montreal_annual_reports_collection]. Read 2026-08-25. See [f_2299], [f_2300].

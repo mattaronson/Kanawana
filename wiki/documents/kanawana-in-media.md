@@ -1,6 +1,6 @@
 # Kanawana in Media and Culture
 
-*Status: E1-reviewed | Sources: 19*
+*Status: E1-reviewed | Sources: 20*
 *Last Updated: 2026-07-11*
 
 ## Overview

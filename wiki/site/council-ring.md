@@ -1,15 +1,15 @@
 # The Council Ring
 
-*Status: E1-reviewed | Sources: 3 (bullet/label-style source list, not numbered — see below)*
+*Status: E1-reviewed | Sources: 11*
 *Last Updated: 2026-08-14*
 
-The Council Ring was built by senior campers in 1922, sited between the cabins and the chapel. It served from the start as the camp's ceremonial gathering place, a tiered outdoor amphitheatre where the whole community could assemble for evening programs, campfires, and ritual events. The choice of the name "Council Ring" reflected the broader "playing Indian" aesthetic that shaped YMCA camping in this period, drawing on romanticized ideas about Indigenous governance and ceremony that were common across North American organized camping. The council-ring form itself is generally traced to landscape architect Jens Jensen and to Ernest Thompson Seton's Woodcraft Indians (Silver Bay camp, 1910), from which it spread through the camping movement — context for Kanawana's adoption of it in 1922.^cr
+The Council Ring was built by senior campers in 1922, sited between the cabins and the chapel. It served from the start as the camp's ceremonial gathering place, a tiered outdoor amphitheatre where the whole community could assemble for evening programs, campfires, and ritual events. The choice of the name "Council Ring" reflected the broader "playing Indian" aesthetic that shaped YMCA camping in this period, drawing on romanticized ideas about Indigenous governance and ceremony that were common across North American organized camping. The council-ring form itself is generally traced to landscape architect Jens Jensen and to Ernest Thompson Seton's Woodcraft Indians (Silver Bay camp, 1910), from which it spread through the camping movement — context for Kanawana's adoption of it in 1922.^11
 
 Under Harold Cross's directorship in 1927, the site gained a totem pole and a teepee constructed from old canvas. These additions were part of Cross's expansion of what McMorris terms the camp's "Indian programming," a suite of activities and symbols that borrowed freely from Indigenous cultures. The totem pole in particular became a lasting visual landmark of the ring.
 
 ## Construction chronology
 
-Four separate builds are documented, and the dates need care because the Montreal YMCA's annual reports are published the year *after* the season they describe.^10
+Four separate builds are documented, and the dates need care because the Montreal YMCA's annual reports are published the year *after* the season they describe.^1
 
 | Date | Event |
 |---|---|
@@ -18,7 +18,7 @@ Four separate builds are documented, and the dates need care because the Montrea
 | **1932** | **Completely rebuilt with stronger foundations** by camp leaders under **Jim Carnegie**, over about a month. The *Green Triangle* thanks "the Carnegie Construction Co." |
 | **1987** | Razed and rebuilt again by a senior boys' tent under **Toby Desjardins**, over one session. The director's report calls the new ring "better designed, larger and more aesthetic" |
 
-The camp's 1988 facilities survey specifies it as: "COUNCIL RING / Purpose: Special ceremonies; large outdoor meeting area / Location: Wooded area; removed from camp core / Requirements: Large fire bowl / **Seating for 300 people**."^10
+The camp's 1988 facilities survey specifies it as: "COUNCIL RING / Purpose: Special ceremonies; large outdoor meeting area / Location: Wooded area; removed from camp core / Requirements: Large fire bowl / **Seating for 300 people**."^1
 
 **Two dating problems, flagged rather than smoothed:**
 
@@ -35,17 +35,17 @@ McMorris's analysis situates the Council Ring and its associated "Indian" tradit
 ## Sources
 
 
-^10: Kanawana material in the Concordia-digitized YMCA of Montreal fonds: *The Green Triangle*, 13 August 1932; the YMCA of Montreal Annual Reports for 1929 and 1954; *The Gas Bag*, 1 September 1923; *A History of Kamp Kanawana* (1935); the *Kamp Kanawana Director's Report 1987*; and *Kanawana… A Place to Grow* (1988) [src_ia_ymca_montreal_fonds_collection, src_ia_ymca_montreal_annual_reports_collection, src_ia_kanawana_report_1987, src_ia_kanawana_place_to_grow_1988].
-- McMorris, Grace. *An Experience That Lasts a Lifetime: Building Modernity, Man, and Nation at the YMCA of Montreal's Kamp Kanawana, 1894-1967*. MA thesis, Concordia University, 2023. Chapter 2. [Spectrum](https://spectrum.library.concordia.ca/id/eprint/992763/)
-- Concordia University Records Management and Archives, Fonds P145/12B01, Season Reports 1922, 1927.
-- Concordia University Records Management and Archives, Fonds P145/02D, Annual Reports 1925-1947.
-- *A History of Kamp Kanawana* (1935). Internet Archive. Lists "Council Ring" as facility and "Council of Tribes" as tradition, confirming both existed by 1935.
-- Oral history, Matt Aronson (2026).
-- *The Gas Bag*, 1923 Re-union Number. Internet Archive.
+1. Kanawana material in the Concordia-digitized YMCA of Montreal fonds: *The Green Triangle*, 13 August 1932; the YMCA of Montreal Annual Reports for 1929 and 1954; *The Gas Bag*, 1 September 1923; *A History of Kamp Kanawana* (1935); the *Kamp Kanawana Director's Report 1987*; and *Kanawana… A Place to Grow* (1988) [src_ia_ymca_montreal_fonds_collection, src_ia_ymca_montreal_annual_reports_collection, src_ia_kanawana_report_1987, src_ia_kanawana_place_to_grow_1988].
+2. McMorris, Grace. *An Experience That Lasts a Lifetime: Building Modernity, Man, and Nation at the YMCA of Montreal's Kamp Kanawana, 1894-1967*. MA thesis, Concordia University, 2023. Chapter 2. [Spectrum](https://spectrum.library.concordia.ca/id/eprint/992763/)
+3. Concordia University Records Management and Archives, Fonds P145/12B01, Season Reports 1922, 1927.
+4. Concordia University Records Management and Archives, Fonds P145/02D, Annual Reports 1925-1947.
+5. *A History of Kamp Kanawana* (1935). Internet Archive. Lists "Council Ring" as facility and "Council of Tribes" as tradition, confirming both existed by 1935.
+6. Oral history, Matt Aronson (2026).
+7. *The Gas Bag*, 1923 Re-union Number. Internet Archive.
 8. Facebook, YKanawana, "Opening Campfire 2020" (Facebook Live video). URL: https://www.facebook.com/YKanawana/videos/opening-campfire-2020/1432885173577431/
 9. McMorris, Grace (2023), Figure 2.1 (1970s totem pole photograph) and p. 68 (1962 site map, "Indian Council Ring" label and totem-pole iconography). Read directly 2026-07-09.
 10. Camp Kanawana current facilities webpage (2026-07-09 check): describes "fire bowls," no mention of "Council Ring" or totem pole by name.
-- ^cr Phase 2 research (recovered June 2026): council-ring form traced to Jens Jensen and E.T. Seton's Woodcraft Indians (Silver Bay, 1910).
+11. Phase 2 research (recovered June 2026): council-ring form traced to Jens Jensen and E.T. Seton's Woodcraft Indians (Silver Bay, 1910).
 
 ### R3 Verification Notes
 
