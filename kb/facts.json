@@ -1,8 +1,8 @@
 {
-  "version": "5.80",
-  "kb_version": "5.80",
+  "version": "5.81",
+  "kb_version": "5.81",
   "migrated_from": "3.3",
-  "fact_count": 2329,
+  "fact_count": 2330,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -40322,6 +40322,23 @@
       "date_ref": "2026-09-02",
       "conflicts_with": [],
       "added_version": "5.80",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_2368",
+      "claim": "THE INTERNAL-CONSISTENCY CHECK (p_301, built 2026-09-02, scripts/verify/consistency.py) HAS TWO HALVES BECAUSE THE DEFECT HAS TWO SHAPES. DERIVED: a number in prose against a value computed from a data file -- these need a hand-written registry, since no parser can know that 'distinct named individuals' means len(person-index.json); the registry also reports when a guarded sentence is REWORDED, because a rule that silently stops matching leaves the number unchecked. TABLE: a stated count against the rows of a table in the same file -- general, no registry needed, and the shape of three of the four live defects p_227 found (f_2359). The check reproduces both classes on demand: reverting multi-year-index.md to its stale 1,493/149 and pip-alumni-award.md to '11 documented recipients' makes it fail, restoring them makes it pass. ITS FIRST THREE HITS WERE ALL FALSE POSITIVES, which is how a check gets switched off, so it now discounts placeholder table rows (pip-alumni-award's 2010 'No documented recipient' row means thirteen rows document twelve recipients), rejects ratio phrasings ('three names OF roughly one hundred'), and permits a deliberate mismatch only through a '<!-- count-ok: reason -->' comment, which forces the reason to be written down.",
+      "sources": [],
+      "confidence": "stated",
+      "category": "methodology",
+      "entities": [
+        "consistency.py",
+        "verify_harness",
+        "multi-year-index",
+        "pip-alumni-award"
+      ],
+      "date_ref": "2026-09-02",
+      "conflicts_with": [],
+      "added_version": "5.81",
       "added_by": "manual"
     }
   ]

@@ -11,6 +11,7 @@ His is the longest documented service by any individual anywhere in this wiki. H
 
 ## Thirty years, seen sideways
 
+<!-- count-ok: the table has five rows because the sentence counts four boards that NAME him plus one that thanks the family in the plural; the mismatch is the point being made. -->
 Four surviving boards name Tassé outright and a fifth thanks his family, and the pattern only makes sense once you know what he did:^2
 
 | Board | Year | How he appears |

@@ -24,6 +24,18 @@ reported separately at the end. Do not narrow it back to drafts. The lesson
 generalises: a checker scoped to the articles you are currently working on will
 not tell you about the articles you are not.
 
+SCOPE NOTE (2026-09-02): checks A1 and G were widened the same way, for the same
+reason, and immediately found sixteen articles with broken source numbering --
+including the-kanawana-site.md, at E1-reviewed, carrying TWO entries numbered 36.
+Eleven of twelve wrong headers were too LOW, i.e. sources appended after the
+article stopped being a draft, which is exactly the life-cycle stage a draft-only
+scope cannot reach. See f_2365, f_2366 and scripts/verify/renumber_sources.py.
+
+WHAT THIS HARNESS STILL CANNOT SEE: an article that disagrees with its own data.
+It passed all six plaque-audit articles clean while one of them stated three
+counts that its own index contradicted. That is scripts/verify/consistency.py
+(p_301); run BOTH.
+
 PROVENANCE CHECKS (2026-08-16, operator-requested). Everything above audits what
 the wiki SAYS. These three audit what the project has actually READ -- a
 different failure mode, and the one that caused every blocker cleared on

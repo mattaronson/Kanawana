@@ -53,6 +53,14 @@ Four rules came out of this pass, each of them learned by getting it wrong first
 3. **Check whether a central device is a divider or a spine.** One board splits given names to the left and surnames to the right; read as two lists it is nonsense.
 4. **"No names" and "names unreadable" are different claims.** The first closes a question. The second keeps it open — which matters most on the 1994 Nature Trip board, recorded as carrying no names, which in fact carries about fifteen effaced lines. 1994 is the one year with no CIT plaque, making those wings the only surviving roster from that season.
 
+## What this audit changed about how the project checks itself
+
+Two tools came out of the verify pass on the articles above, and both exist because the existing harness passed those articles clean while they were wrong.
+
+**`scripts/verify/consistency.py`** checks numbers asserted in prose against the data they are drawn from. The plaque articles stated a name count, a traced-people count and a progression count that the index behind them contradicted — every one of the three correct when written, every one stale because a later fix moved the index and nobody walked back through the sentences. A citation checker cannot catch this: both halves are properly sourced, they simply disagree. The check has two halves of its own — a registry of *derived* numbers (this phrase in this article should equal this expression over this data file) and a general *table* check that compares a stated count against the rows beside it. Its first three hits were all false positives, which is how a check gets switched off, so it now discounts placeholder rows, ignores ratio phrasings like "three names of roughly one hundred", and lets an author silence a line only by writing down the reason.
+
+**`scripts/verify/renumber_sources.py`** repairs source lists whose numbering has drifted. Widening two existing checks past draft status found sixteen articles with broken numbering, including two carrying the same source number twice — an ambiguity that makes a citation marker point at whichever entry a reader hits first. The lesson is the one this whole audit keeps producing: **restricting a check to the work in front of you tells you nothing about the work behind you**, and a source list is most likely to break *after* an article is finished, when things get appended to it.
+
 ## Open Questions
 
 1. [Important] Can the 1994 Nature Trip board be re-photographed under raking light? It is the highest-value object in the collection and its names are the only ones from that season.
