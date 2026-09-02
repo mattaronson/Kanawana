@@ -9287,10 +9287,12 @@
         "f_2338",
         "f_2339",
         "f_2340",
-        "f_2341"
+        "f_2341",
+        "f_2356"
       ],
       "sources_cited": [
-        "src_flickr_kanawana_plaque_album"
+        "src_flickr_kanawana_plaque_album",
+        "src_oral_aronson_tasse_family"
       ],
       "open_questions": 3,
       "cross_links": [
@@ -9299,7 +9301,7 @@
         "meta/plaque-audit"
       ],
       "file_id": null,
-      "word_count": 3336
+      "word_count": 3434
     },
     {
       "article_id": "plaque-audit",

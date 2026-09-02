@@ -1,6 +1,6 @@
 # Named People Across Multiple Years
 
-*Status: draft | Sources: 1*
+*Status: draft | Sources: 2*
 *Last Updated: 2026-08-28*
 
 ## Overview
@@ -183,11 +183,11 @@ The direction of the remaining risk still runs toward **splitting** one person i
 
 **Andrea Pahl closes an eight-year loop** — a CIT on the 1993 board, director of the 2001 CIT programme. The same shape as Reiko Webster's 1986-to-1992 path, and the audit adds a middle rung to Webster's as well: she is on the Staff of 1990 plaque between the two.
 
-**The Tassés span twenty-seven years**, 1963 to 1990 — the longest association visible anywhere in the collection. Whether the Julien Tassé of 1963 and the Julien Tassé of 1986 are one man or father and son, the plaques cannot say, and this wiki does not guess.
+**The Tassés span twenty-seven years**, 1963 to 1990 — the longest association visible anywhere in the collection, and the one the plaques could not resolve on their own. They are **father and son**.^2 Which is which is inference rather than testimony: the chronology puts Julien as the father, a boy on the Advance Guard boards of 1963 and 1964 and back as staff by 1986 and 1990, with Yves alongside him from 1986. On that reading Julien's own association runs the full twenty-seven years and is the longest single-person span in the collection. The 1979 staff board thanks "The Tassé's" in the plural, which fits a family already at camp that year.
 
 ## Open Questions
 
-1. [Important] Are the 1963 and 1986 Julien Tassé the same person or two generations? The plaques cannot settle it and an alumnus could.
+1. [Nice-to-have, answered 2026-08-28] ~~One Julien Tassé or two?~~ One. Julien and Yves are father and son.^2 What is still inferred rather than known is which of them is the father; the chronology is the only argument, and a family member could settle it outright.
 2. [Important] How many of the 150 are hidden duplicates or hidden pairs? Common given names with common surnames are the risk; the merge rules here are deliberately conservative and will have split some people in two.
 3. [Nice-to-have] Fourteen sibling-shaped pairs are noted in [f_2341] on the strength of shared surnames across nearby years. Only the Bollhorns and the Pungartniks are confirmed. The rest need a person who knows.
 
@@ -199,7 +199,8 @@ The direction of the remaining risk still runs toward **splitting** one person i
 
 ## Sources
 
-1. Kanawana Flickr "Plaque" album, all 151 images, transcribed in full [src_flickr_kanawana_plaque_album]. Per-image records in `kb/plaque-audit/audit.jsonl`; index in `kb/plaque-audit/person-index.json`. See [f_2335], [f_2336], [f_2337], [f_2338], [f_2339], [f_2340], [f_2341].
+1. Kanawana Flickr "Plaque" album, all 151 images, transcribed in full [src_flickr_kanawana_plaque_album].
+2. Oral history, Matt Aronson, 28 August 2026 [src_oral_aronson_tasse_family]. See [f_2356]. Per-image records in `kb/plaque-audit/audit.jsonl`; index in `kb/plaque-audit/person-index.json`. See [f_2335], [f_2336], [f_2337], [f_2338], [f_2339], [f_2340], [f_2341].
 
 ## Research Notes
 

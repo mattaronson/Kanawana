@@ -23545,6 +23545,24 @@
       "notes": "Operator (Matt Aronson) answering the three questions queued as p_300, all of which the plaque audit had raised and no document held here could settle. Stated flatly, without hedging. NOTE ON SPELLING: the operator writes 'Joanna Hode', which is the exact misspelling this wiki carried before correcting it to Joanna A.A. Hoad against Lower Canada College's archived staff records (f_1730, f_1755) -- almost certainly the origin of the original error, since that entry also came from his oral history. The corrected spelling is used throughout; the recurrence is noted because it shows the error was in the source, not in the transcription.",
       "read_state": "extracted",
       "read_state_basis": "derived:cited-by-fact"
+    },
+    {
+      "source_id": "src_oral_aronson_tasse_family",
+      "type": "oral_history",
+      "title": "Operator: Julien and Yves Tasse are father and son",
+      "date": "2026-08-28",
+      "date_precision": "exact",
+      "origin": "user_provided",
+      "origin_url": null,
+      "cache_path": null,
+      "char_count": 0,
+      "ingested_at": "2026-08-28T00:00:00Z",
+      "extracted": true,
+      "extraction_version": "v5.76",
+      "reliability": "primary",
+      "notes": "Operator (Matt Aronson) first said brothers, then corrected himself unprompted within the same exchange to FATHER AND SON. The correction is the operative statement and is what is recorded; the initial answer is noted here only because a self-correction made that quickly is a signal about the care of the source, not a conflict to resolve. He did NOT say which is the father -- that is inferred below from the plaque chronology and is flagged as an inference wherever it appears.",
+      "read_state": "extracted",
+      "read_state_basis": "derived:cited-by-fact"
     }
   ],
   "source_count": 685
