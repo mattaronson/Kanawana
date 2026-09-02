@@ -1,13 +1,13 @@
 # Named People Across Multiple Years
 
-*Status: draft | Sources: 2*
+*Status: draft | Sources: 3*
 *Last Updated: 2026-08-28*
 
 ## Overview
 
 Kanawana's dining hall carries about 151 surviving plaques, and until August 2026 this project had transcribed only a fraction of the names on them. The [[meta/plaque-audit|plaque audit]] (p_291) read every board and recovered roughly 1,825 names.^1 Cross-referencing those boards against each other produces something no single plaque holds: **1,493 distinct named individuals, of whom 149 appear in more than one year.**
 
-That number is the point. A camp plaque is a snapshot of one tent, one section, one summer. Read together, they become a record of who kept coming back — and **69 people can be traced from a junior position to a staff-grade title on a later board**. The camper-to-staff progression that this wiki has described through three individual careers turns out to be the ordinary path.
+That number is the point. A camp plaque is a snapshot of one tent, one section, one summer. Read together, they become a record of who kept coming back — and **70 people can be traced from a junior position to a staff-grade title on a later board**. The camper-to-staff progression that this wiki has described through three individual careers turns out to be the ordinary path.
 
 **How to read this table.** Each row is one person as their name is painted, the years they appear, the span between first and last, and their trajectory. **★** marks anyone with a documented junior-to-staff progression; the trajectory column shows where each rung comes from. A staff-grade title means (Counsellor, Tripper, Master, Capitaine, Director or Section Director) in at least one year. The 2009 "Wolf" credit is **not** counted as staff: it marks membership of a leadership programme, not a job — see [[traditions/programs-activities|Programs and Activities]].
 
@@ -177,17 +177,17 @@ The direction of the remaining risk still runs toward **splitting** one person i
 
 ## What the table shows
 
-**The ladder is real and it is ordinary.** Sixty-nine documented junior-to-staff progressions is not a handful of exceptional careers; it is how the camp staffed itself. See [[people/directors-index|Directors and Staff of Camp Kanawana]] for the leadership those careers ended in.
+**The ladder is real and it is ordinary.** Seventy documented junior-to-staff progressions is not a handful of exceptional careers; it is how the camp staffed itself. See [[people/directors-index|Directors and Staff of Camp Kanawana]] for the leadership those careers ended in.
 
 **Two CIT directors were on staff before they directed.** Sophie Caisse (CIT director 1993) and Paula Cussen (CIT director 1995) are both on the Staff of 1990 plaque. Neither article recorded it, because that plaque's fact carried 5 names out of about 102 until the audit.
 
 **Andrea Pahl closes an eight-year loop** — a CIT on the 1993 board, director of the 2001 CIT programme. The same shape as Reiko Webster's 1986-to-1992 path, and the audit adds a middle rung to Webster's as well: she is on the Staff of 1990 plaque between the two.
 
-**The Tassés span twenty-seven years**, 1963 to 1990 — the longest association visible anywhere in the collection, and the one the plaques could not resolve on their own. They are **father and son**.^2 Which is which is inference rather than testimony: the chronology puts Julien as the father, a boy on the Advance Guard boards of 1963 and 1964 and back as staff by 1986 and 1990, with Yves alongside him from 1986. On that reading Julien's own association runs the full twenty-seven years and is the longest single-person span in the collection. The 1979 staff board thanks "The Tassé's" in the plural, which fits a family already at camp that year.
+**The Tassés span twenty-seven years**, 1963 to 1990 — and the reason turns out to be the plainest one available. **Julien Tassé was Kanawana's caretaker for more than thirty years**, until his death around 1992–95; his son **Yves** appears alongside him from 1986.^2 ^3 He is not on those boards because he kept coming back. He is on them because he lived there. The camp renamed its dining hall **Salle Julien Tassé** after he died, though the name never stuck — which means every board in this table hangs in a room named after a man whose own name is on four of them. See [[people/julien-tasse|Julien Tassé]].
 
 ## Open Questions
 
-1. [Nice-to-have, answered 2026-08-28] ~~One Julien Tassé or two?~~ One. Julien and Yves are father and son.^2 What is still inferred rather than known is which of them is the father; the chronology is the only argument, and a family member could settle it outright.
+1. [Answered 2026-08-28] ~~One Julien Tassé or two?~~ One, and the father: he was the camp's caretaker for thirty-odd years.^2 ^3 That also removes him from the progression count — he never progressed into a staff role, he held one throughout — which is why this page says 70 where earlier versions said 71.
 2. [Important] How many of the 150 are hidden duplicates or hidden pairs? Common given names with common surnames are the risk; the merge rules here are deliberately conservative and will have split some people in two.
 3. [Nice-to-have] Fourteen sibling-shaped pairs are noted in [f_2341] on the strength of shared surnames across nearby years. Only the Bollhorns and the Pungartniks are confirmed. The rest need a person who knows.
 
@@ -200,7 +200,8 @@ The direction of the remaining risk still runs toward **splitting** one person i
 ## Sources
 
 1. Kanawana Flickr "Plaque" album, all 151 images, transcribed in full [src_flickr_kanawana_plaque_album].
-2. Oral history, Matt Aronson, 28 August 2026 [src_oral_aronson_tasse_family]. See [f_2356]. Per-image records in `kb/plaque-audit/audit.jsonl`; index in `kb/plaque-audit/person-index.json`. See [f_2335], [f_2336], [f_2337], [f_2338], [f_2339], [f_2340], [f_2341].
+2. Oral history, Matt Aronson, 28 August 2026 [src_oral_aronson_tasse_family]. See [f_2356].
+3. Oral history, Matt Aronson, 28 August 2026: Julien Tassé as caretaker, and the dining hall renaming [src_oral_aronson_julien_tasse_caretaker]. See [f_2357], [f_2358]. Per-image records in `kb/plaque-audit/audit.jsonl`; index in `kb/plaque-audit/person-index.json`. See [f_2335], [f_2336], [f_2337], [f_2338], [f_2339], [f_2340], [f_2341].
 
 ## Research Notes
 

@@ -1,8 +1,8 @@
 {
-  "version": "5.76",
-  "kb_version": "v5.76",
+  "version": "5.77",
+  "kb_version": "v5.77",
   "migrated_from": "3.3",
-  "fact_count": 2318,
+  "fact_count": 2320,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -39726,7 +39726,7 @@
     },
     {
       "fact_id": "f_2335",
-      "claim": "THE CAMP'S OWN CAREER LADDER, MEASURED. Cross-referencing all 151 transcribed plaques (p_291) against each other yields 1,493 distinct named individuals, of whom 149 appear on boards in MORE THAN ONE YEAR and 43 can be traced from a junior position (camper, CIT, LIT, JC, Ranger, Voyageur) to a staff-grade title (Counsellor, Tripper, Master, Capitaine, Section Director, Director) on a later board. This wiki has previously described the camper-to-staff progression only through individual careers -- Reiko Webster, David Leduc, Matt Hamerman. It is not anecdotal: it is the ordinary path, documented forty-three times over on the camp's own walls, and it is the strongest available evidence that Kanawana's leadership was grown internally rather than recruited. || COUNT CORRECTED (p_296, 2026-08-28): this fact first said 45. One of those 45, Jeff Ware, qualified only because the index classed the 2009 'WOLF' credit as a staff title. It is not one -- the operator identifies WOLF as a leadership PROGRAMME, the Rangers programme revived in 2001 and renamed later that decade (f_2343) -- so a Wolf on a trip board is a programme participant, like an LIT. Reclassified as leadership-track, and the count is 44. || COUNT CORRECTED AGAIN (2026-08-28): 150/44 became 149/43 when ARIEL MCGEARY and ARIEL MCGEARY HALL were found to be one person split across two rows by a surname variant. That is the hidden-SPLIT failure p_298 anticipates, found on the first close reading of the output rather than by the audit that queued it. Two display errors were fixed in the same pass -- 'Sally Waff' for the confirmed Sally Watt, 'Matt Iviott' for Matt Wiviott. Three errors in one screen of output is the honest measure of what the remaining rows hold, and the conservative merge rules mean the residual risk runs toward SPLITTING one person into two rather than merging two into one: the true traced count is likely a little below 149 and the true progression count a little above 43. || SYSTEMATIC BUG FOUND AND FIXED (2026-08-28): the progression count was 43 and is now 69. The operator noticed his own absence -- Matt Aronson is on the 1993 CIT plaque AND the 2002 staff plaque, an obvious progression that the index did not show. Cause: on the large staff boards the names are recorded under generic column keys (col1..col4), and the index derived a person's role from the KEY rather than from the BOARD, so every name on the Staff of '79, Staff of 1990 and Staff 02 plaques was tagged 'Member' instead of 'Staff'. Roughly 255 staff appearances were silently demoted and any career whose staff rung fell on one of those three boards became invisible. NEWLY VISIBLE AS A RESULT: Julien Tasse (1963 Advance Guard leader to 1990 staff, 27 years), Phil Kaufman (CIT 1992 to staff 2002), Matt Aronson and Steph Hurlburt (CITs 1993 to staff 2002), Dan Aronson (CIT 1995 to staff 2002), Bruce Netherwood (1984 CIT director to 1990 staff), Toby Desjardins, Eric Boghen, Peter Lopata, John Kennedy (CIT 1975 to staff 1979), four of the 1988 Voyageurs on the 1990 staff board, and eleven CITs of 1998-2001 on the Staff 02 board. THE PRIOR CAVEAT WAS TOO SOFT: this fact estimated the true count as 'a little above 43'. It was 38% higher. A classifier that reads structure instead of meaning fails silently and in bulk, and it took a person who knew he belonged on the list to catch it. || FURTHER CORRECTION (2026-08-28): a second systematic split was found when clustering by surname -- the Knights roll's 'Sir'/'Lady' titles were never stripped, so every knight who also appears on another board was indexed as two people. Fixed: traced people 149 -> 155, progressions 69 -> 71. See f_2355.",
+      "claim": "THE CAMP'S OWN CAREER LADDER, MEASURED. Cross-referencing all 151 transcribed plaques (p_291) against each other yields 1,493 distinct named individuals, of whom 149 appear on boards in MORE THAN ONE YEAR and 43 can be traced from a junior position (camper, CIT, LIT, JC, Ranger, Voyageur) to a staff-grade title (Counsellor, Tripper, Master, Capitaine, Section Director, Director) on a later board. This wiki has previously described the camper-to-staff progression only through individual careers -- Reiko Webster, David Leduc, Matt Hamerman. It is not anecdotal: it is the ordinary path, documented forty-three times over on the camp's own walls, and it is the strongest available evidence that Kanawana's leadership was grown internally rather than recruited. || COUNT CORRECTED (p_296, 2026-08-28): this fact first said 45. One of those 45, Jeff Ware, qualified only because the index classed the 2009 'WOLF' credit as a staff title. It is not one -- the operator identifies WOLF as a leadership PROGRAMME, the Rangers programme revived in 2001 and renamed later that decade (f_2343) -- so a Wolf on a trip board is a programme participant, like an LIT. Reclassified as leadership-track, and the count is 44. || COUNT CORRECTED AGAIN (2026-08-28): 150/44 became 149/43 when ARIEL MCGEARY and ARIEL MCGEARY HALL were found to be one person split across two rows by a surname variant. That is the hidden-SPLIT failure p_298 anticipates, found on the first close reading of the output rather than by the audit that queued it. Two display errors were fixed in the same pass -- 'Sally Waff' for the confirmed Sally Watt, 'Matt Iviott' for Matt Wiviott. Three errors in one screen of output is the honest measure of what the remaining rows hold, and the conservative merge rules mean the residual risk runs toward SPLITTING one person into two rather than merging two into one: the true traced count is likely a little below 149 and the true progression count a little above 43. || SYSTEMATIC BUG FOUND AND FIXED (2026-08-28): the progression count was 43 and is now 69. The operator noticed his own absence -- Matt Aronson is on the 1993 CIT plaque AND the 2002 staff plaque, an obvious progression that the index did not show. Cause: on the large staff boards the names are recorded under generic column keys (col1..col4), and the index derived a person's role from the KEY rather than from the BOARD, so every name on the Staff of '79, Staff of 1990 and Staff 02 plaques was tagged 'Member' instead of 'Staff'. Roughly 255 staff appearances were silently demoted and any career whose staff rung fell on one of those three boards became invisible. NEWLY VISIBLE AS A RESULT: Julien Tasse (1963 Advance Guard leader to 1990 staff, 27 years), Phil Kaufman (CIT 1992 to staff 2002), Matt Aronson and Steph Hurlburt (CITs 1993 to staff 2002), Dan Aronson (CIT 1995 to staff 2002), Bruce Netherwood (1984 CIT director to 1990 staff), Toby Desjardins, Eric Boghen, Peter Lopata, John Kennedy (CIT 1975 to staff 1979), four of the 1988 Voyageurs on the 1990 staff board, and eleven CITs of 1998-2001 on the Staff 02 board. THE PRIOR CAVEAT WAS TOO SOFT: this fact estimated the true count as 'a little above 43'. It was 38% higher. A classifier that reads structure instead of meaning fails silently and in bulk, and it took a person who knew he belonged on the list to catch it. || FURTHER CORRECTION (2026-08-28): a second systematic split was found when clustering by surname -- the Knights roll's 'Sir'/'Lady' titles were never stripped, so every knight who also appears on another board was indexed as two people. Fixed: traced people 149 -> 155, progressions 69 -> 71. See f_2355. || COUNT NOW 70 (2026-08-28): Julien Tasse was removed after the operator identified him as the camp's caretaker throughout (f_2357) -- he held a staff role on every board he appears on and never progressed into one.",
       "sources": [
         "src_flickr_kanawana_plaque_album"
       ],
@@ -39744,7 +39744,7 @@
     },
     {
       "fact_id": "f_2336",
-      "claim": "THE FOUR LONGEST DOCUMENTED ASSOCIATIONS ON THE PLAQUE WALL. (1) JULIEN TASSE spans 27 years: named apart between painted arrows as leader on the Advance Guard boards of 1963 and 1964, again on Advance Guard 1986, on the Staff of 1990 plaque, and thanked collectively as 'The Tasse's' on the Staff of '79 board; Yves Tasse appears in 1986 and 1990 beside him. RESOLVED 2026-08-28 (f_2356): the operator states Julien and Yves are FATHER AND SON. Which is which is inferred from the chronology rather than stated -- Julien as the father, a boy on the 1963-64 boards and back as staff by 1986-90, with Yves his son -- and on that reading Julien's own association runs the full 27 years. (2) CHRIS ADAM heads column one of BOTH the Staff of '79 and the Staff of 1990 plaques, an 11-year span his article does not record. (3) PHIL KAUFMAN: CIT 1992, Staff 02 -- 10 years. (4) MATT ARONSON and STEPH HURLBURT are both CITs on the 1993 board and both on the Staff 02 plaque, 9 years apart.",
+      "claim": "THE FOUR LONGEST DOCUMENTED ASSOCIATIONS ON THE PLAQUE WALL. (1) JULIEN TASSE spans 27 years: named apart between painted arrows as leader on the Advance Guard boards of 1963 and 1964, again on Advance Guard 1986, on the Staff of 1990 plaque, and thanked collectively as 'The Tasse's' on the Staff of '79 board; Yves Tasse appears in 1986 and 1990 beside him. RESOLVED 2026-08-28 (f_2356): the operator states Julien and Yves are FATHER AND SON. Which is which is inferred from the chronology rather than stated -- Julien as the father, a boy on the 1963-64 boards and back as staff by 1986-90, with Yves his son -- and on that reading Julien's own association runs the full 27 years. (2) CHRIS ADAM heads column one of BOTH the Staff of '79 and the Staff of 1990 plaques, an 11-year span his article does not record. (3) PHIL KAUFMAN: CIT 1992, Staff 02 -- 10 years. (4) MATT ARONSON and STEPH HURLBURT are both CITs on the 1993 board and both on the Staff 02 plaque, 9 years apart. || AMPLIFIED (2026-08-28): Julien Tasse's 27 years are explained -- he was the camp's CARETAKER for thirty-odd years and died c.1992-95 (f_2357). His span is continuous employment, not a camper's return, and he is therefore NOT a junior-to-staff progression.",
       "sources": [
         "src_flickr_kanawana_plaque_album",
         "src_oral_aronson_tasse_family"
@@ -40107,7 +40107,7 @@
     },
     {
       "fact_id": "f_2356",
-      "claim": "JULIEN AND YVES TASSE ARE FATHER AND SON, AND THIS RESOLVES THE LONGEST OPEN QUESTION IN THE PLAQUE INDEX. The name Tasse spans 27 years of camp boards -- Julien Tasse set apart between painted arrows as leader on the Advance Guard plaques of 1963 and 1964 (f_1588, f_1589), 'The Tasse's' thanked collectively on the Staff of '79 board (f_1703), Yves and Julien Tasse both named on Advance Guard 1986 (f_1590), and both again on the Staff of 1990 plaque (f_1704). This project had recorded the two possible readings and declined to choose: one man returning across three decades, or two generations sharing a name. THE OPERATOR SETTLES IT AS FATHER AND SON. WHICH IS WHICH IS AN INFERENCE, NOT HIS STATEMENT: the chronology makes Julien the father -- a boy on the 1963 and 1964 Advance Guard boards, back as an adult on staff by 1986 and 1990, with his son Yves appearing alongside him from 1986 -- and on that reading JULIEN TASSE'S OWN CAMP ASSOCIATION RUNS 1963 TO 1990, twenty-seven years, the longest single-person span documented anywhere in this collection. The alternative, that Yves is the father and simply appears on no surviving board before 1986, cannot be excluded from the plaques alone, since absence from a board is never evidence here. The plural in 'The Tasse's' on the 1979 plaque is consistent with a family already at camp in that year.",
+      "claim": "JULIEN AND YVES TASSE ARE FATHER AND SON, AND THIS RESOLVES THE LONGEST OPEN QUESTION IN THE PLAQUE INDEX. The name Tasse spans 27 years of camp boards -- Julien Tasse set apart between painted arrows as leader on the Advance Guard plaques of 1963 and 1964 (f_1588, f_1589), 'The Tasse's' thanked collectively on the Staff of '79 board (f_1703), Yves and Julien Tasse both named on Advance Guard 1986 (f_1590), and both again on the Staff of 1990 plaque (f_1704). This project had recorded the two possible readings and declined to choose: one man returning across three decades, or two generations sharing a name. THE OPERATOR SETTLES IT AS FATHER AND SON. WHICH IS WHICH IS AN INFERENCE, NOT HIS STATEMENT: the chronology makes Julien the father, and JULIEN TASSE'S OWN CAMP ASSOCIATION RUNS 1963 TO 1990 -- twenty-seven years, the longest single-person span documented anywhere in this collection. The plural in 'The Tasse's' on the 1979 plaque is consistent with a family already at camp in that year. || INFERENCE CORRECTED (2026-08-28, within the hour): this fact first reasoned that Julien was 'a boy on the 1963 and 1964 Advance Guard boards' who returned as an adult. HE WAS NEVER A CAMPER ON THOSE BOARDS. The operator states he was Kanawana's CARETAKER for thirty-odd years (f_2357), so he was already the adult on site in 1963, set apart between painted arrows on the Advance Guard boards because he was leading the section, not because he was its most senior boy. TWO CONSEQUENCES. First, the alternative reading this fact carried -- that Yves might be the father -- is now closed: a caretaker of thirty years present in 1963 is the father. Second, JULIEN TASSE MUST BE REMOVED FROM THE JUNIOR-TO-STAFF PROGRESSION COUNT, since he held a staff role throughout and never progressed into one; that count falls from 71 to 70. The 27-year span stands and is stronger, but it is a span of EMPLOYMENT, not of a camper's return.",
       "sources": [
         "src_oral_aronson_tasse_family",
         "src_flickr_kanawana_plaque_album"
@@ -40122,6 +40122,44 @@
       "date_ref": "1963-1990",
       "conflicts_with": [],
       "added_version": "v5.76",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_2357",
+      "claim": "JULIEN TASSE WAS KANAWANA'S CARETAKER FOR MORE THAN THIRTY YEARS. He died circa 1992-1995 -- the operator gives a range and it is preserved as a range. This is the single longest documented service by any individual in this project, and it explains a pattern the plaques could show but not account for: Tasse's name appears on camp boards across 27 years (Advance Guard 1963 and 1964, 'The Tasse's' on the Staff of '79, Advance Guard 1986, and the Staff of 1990) not because he was a camper who returned, but because HE LIVED AND WORKED THERE THROUGHOUT. His last surviving plaque appearance, the Staff of 1990, falls within a few years of his death. He is the father of Yves Tasse, who appears on the 1986 and 1990 boards (f_2356).",
+      "sources": [
+        "src_oral_aronson_julien_tasse_caretaker",
+        "src_flickr_kanawana_plaque_album"
+      ],
+      "confidence": "user_knowledge",
+      "category": "people",
+      "entities": [
+        "Julien Tasse",
+        "Yves Tasse",
+        "Kamp Kanawana"
+      ],
+      "date_ref": "c.1960-1995",
+      "conflicts_with": [],
+      "added_version": "v5.77",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_2358",
+      "claim": "THE DINING HALL IS TECHNICALLY NAMED SALLE JULIEN TASSE, AND THE NAME NEVER STUCK. After Julien Tasse's death circa 1992-95 the camp formally renamed its dining hall (built 1911) after its caretaker of thirty-odd years; in practice everyone continued to call it the dining hall and the new name did not enter ordinary use. The operator, on site as camper and staff from 1985 to 2002, records both the renaming and its failure to take. THE IRONY IS WORTH STATING PLAINLY: the dining hall is the room where Kanawana's plaque wall hangs. Every one of the 151 boards transcribed in the p_291 audit is mounted inside a room named for a man whose own name appears on four of them, and this project read all 151 without knowing whose room it was. The site article records the Dining Hall's construction date and its capacity of over 300, but held no name for it.",
+      "sources": [
+        "src_oral_aronson_julien_tasse_caretaker"
+      ],
+      "confidence": "user_knowledge",
+      "category": "site",
+      "entities": [
+        "Kamp Kanawana",
+        "Julien Tasse",
+        "Dining Hall",
+        "Salle Julien Tasse"
+      ],
+      "date_ref": "c.1992-1995",
+      "conflicts_with": [],
+      "added_version": "v5.77",
       "added_by": "manual"
     }
   ]

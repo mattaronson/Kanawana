@@ -2834,7 +2834,8 @@
         "src_oral_aronson",
         "src_vss_plan_urbanisme_2024",
         "src_vss_reglement_zonage_222_2008",
-        "src_wikimapia_kanawana"
+        "src_wikimapia_kanawana",
+        "src_oral_aronson_julien_tasse_caretaker"
       ],
       "open_questions": 6,
       "cross_links": [
@@ -2849,7 +2850,7 @@
         "places-and-locations"
       ],
       "file_id": null,
-      "word_count": 3720,
+      "word_count": 3789,
       "notes": "E1 REVIEW (2026-02-19): Added ^4 citation for 1921 brochure (railway route). Fixed 'gorgeous views' promotional language. Standardized 'Harold C. Cross'. Added camp-otoreke cross-link. Removed KB fact IDs from Sources section. All claims cited, tone neutral. 2026-06-20: Added Indigenous territory context (f_1315) and Mille-Isles regional history (f_1314). 2026-06-21: Added 1976 Lovell's directory listing (f_1331) and 2023 superintendent's house fire (f_1333). | 2026-07-11: Workstream A Wave 1 prose-sediment REVIEW pass -- fixed a malformed header (the 'Sources:' field was listing raw source IDs instead of a count), moved the embedded 'Correction (2026-07-10)' paragraph about the Weredale lease into a new Research Notes > Revision History section (this article previously had no Research Notes section at all). No facts, citations, or open questions dropped; status unchanged.",
       "tags": {
         "era": [
@@ -9288,11 +9289,14 @@
         "f_2339",
         "f_2340",
         "f_2341",
-        "f_2356"
+        "f_2356",
+        "f_2357",
+        "f_2358"
       ],
       "sources_cited": [
         "src_flickr_kanawana_plaque_album",
-        "src_oral_aronson_tasse_family"
+        "src_oral_aronson_tasse_family",
+        "src_oral_aronson_julien_tasse_caretaker"
       ],
       "open_questions": 3,
       "cross_links": [
@@ -9301,7 +9305,7 @@
         "meta/plaque-audit"
       ],
       "file_id": null,
-      "word_count": 3434
+      "word_count": 3459
     },
     {
       "article_id": "plaque-audit",
@@ -9461,6 +9465,45 @@
       ],
       "file_id": null,
       "word_count": 1403
+    },
+    {
+      "article_id": "julien-tasse",
+      "title": "Julien Tassé",
+      "wiki_folder": "people",
+      "status": "draft",
+      "status_history": [
+        {
+          "status": "draft",
+          "at": "2026-08-28T00:00:00Z",
+          "by": "auto",
+          "task": "WRITE"
+        }
+      ],
+      "ralph_loops_completed": 1,
+      "kb_facts_used": [
+        "f_2356",
+        "f_2357",
+        "f_2358",
+        "f_1588",
+        "f_1589",
+        "f_1590",
+        "f_1703",
+        "f_1704"
+      ],
+      "sources_cited": [
+        "src_oral_aronson_julien_tasse_caretaker",
+        "src_flickr_kanawana_plaque_album",
+        "src_oral_aronson_tasse_family"
+      ],
+      "open_questions": 5,
+      "cross_links": [
+        "site/the-kanawana-site",
+        "people/multi-year-index",
+        "meta/plaque-audit",
+        "people/directors-index"
+      ],
+      "file_id": null,
+      "word_count": 954
     }
   ],
   "article_count": 93

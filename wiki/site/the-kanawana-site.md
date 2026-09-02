@@ -110,7 +110,7 @@ Facilities documented from the 1920s through the 1970s include:^5 ^11
 
 - **The Lookout**: A pre-existing structure on the site before Kanawana was founded — the oldest structure on the property^23
 - Two pavilions (a Dining Pavilion and a lakeside Pavilion, both new as of 1922)
-- **Dining Hall** (1911)^23
+- **Dining Hall** (1911) — technically **Salle Julien Tassé**, renamed after the camp's caretaker of thirty-odd years following his death c. 1992–95. The name never entered ordinary use; everyone went on calling it the dining hall.^36 It is also the room where Kanawana's plaque wall hangs: all 151 surviving boards are mounted inside it. See [[people/julien-tasse|Julien Tassé]] and [[meta/plaque-audit|The Plaque Audit]].
 - **Infirmary** (1920s?)^23
 - **Grand Portage**: One of the oldest cabins, built after the Lookout, Dining Hall, and Infirmary. Located just north of the Senior Parking Lot, west of the Dining Hall. Served as CIT director's cabin in the 1980s-90s. According to oral history, the end of WWII was heard on the radio here. Demolished c. 2006 for the green shift washroom buildings, which now bear its name.^23
 - **The Longhouse**: A large 2-3 story pavilion/boathouse on the Boating Waterfront (due south of the Dining Hall), right at the shoreline. Used for large group gatherings and dances; the Boating Director ("the Admiral") had living quarters in it. Demolished by controlled fire c. 1979 due to irreparable condition.^23
@@ -239,6 +239,7 @@ From 1977 to 1980, plans existed for a proposed two-site operation using Kanawan
 33. Concordia University Archives, finding aid for sub-sub-series 12B01 (Kamp Kanawana General Administration) [src_concordia_atom_12B01].
 34. Concordia University Archives, static finding-aid page for sub-series 12F (Camp Weredale) [src_concordia_atom_12F]. Direct fetch 2026-07-10: 1979 lease agreement, 1980-82 joint files.
 35. *Kanawana… A Place to Grow: A Proposal for the Future of Kanawana*, Kanawana Camping Task Force, YMCA of Montreal, 1988 [src_ia_kanawana_place_to_grow_1988], site-description section. The Royal LePage figures are the report's own attribution: "This information was taken from a report submitted to the Y from Royal/Lepage in 1989."
+36. Oral history, Matt Aronson, 28 August 2026 [src_oral_aronson_julien_tasse_caretaker]. See [f_2357], [f_2358].
 36. Acreage series assembled at [f_2127] from the 1936 CFCF broadcast and the 1949–1959 annual reports.
 37. 1964 Kamp Kanawana annual report [src_ia_kanawana_report_1964] ("over approximately 1,000 acres"); SGW YMCA annual report 1964; YMCA news release, 13 May 1969 ("it covers more than 1,000 acres"); 1969 Kamp Kanawana annual report ("We occupy 1000 acres of valuable land"); 1970 Kamp Kanawana annual report [src_ia_kanawana_report_1970] ("a small area of our 1,000 acres"). Five documents, six statements — see [f_2255].
 38. *The Gazette* (Montreal), 18 April 1974, summer-camp feature. Full passage recorded at conflict [c_026].

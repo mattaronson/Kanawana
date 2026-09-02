@@ -1,5 +1,12 @@
 """Build a person index from the p_291 plaque audit.
 
+NOTE ON 'Section leader' (the Advance Guard boards' led_by): on the 1963 and
+1964 boards this is Julien Tasse, set apart between painted arrows -- and he
+was the camp's CARETAKER of thirty-odd years, not the section's senior boy.
+He is therefore staff on those boards. The role is left in the JUNIOR set for
+any other board that uses it, but Tasse is pinned as staff below, because a
+label cannot tell you which of the two situations it is describing.
+
 NOTE ON 'WOLF': the 2009 boards credit a "Wolf" beneath Counsellor and
 Tripper. An earlier version of this script classed that as a STAFF title.
 It is not: the operator identifies WOLF as a leadership PROGRAMME -- the
@@ -205,7 +212,15 @@ for r in rows:
             n = norm(nm)
             if not n or len(n) < 3: continue
             raw_forms[n].add(nm.strip())
-            index[n].append({'year': y2, 'group': grp, 'role': role,
+            r2 = role
+            # Julien Tasse was the camp's CARETAKER for thirty-odd years and died
+            # c.1992-95. Every board he is on -- Advance Guard 1963, 1964 and 1986,
+            # Staff 1990 -- catches him at work, not progressing through the ranks,
+            # so he is pinned to staff throughout. Without this he reads as a
+            # 1986-camper-to-1990-staff progression, which is exactly backwards.
+            if n == 'julien tasse':
+                r2 = 'Staff'
+            index[n].append({'year': y2, 'group': grp, 'role': r2,
                              'image': r['image'], 'as_written': nm.strip()})
 
 os.makedirs('kb/plaque-audit', exist_ok=True)

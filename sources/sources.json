@@ -23563,6 +23563,24 @@
       "notes": "Operator (Matt Aronson) first said brothers, then corrected himself unprompted within the same exchange to FATHER AND SON. The correction is the operative statement and is what is recorded; the initial answer is noted here only because a self-correction made that quickly is a signal about the care of the source, not a conflict to resolve. He did NOT say which is the father -- that is inferred below from the plaque chronology and is flagged as an inference wherever it appears.",
       "read_state": "extracted",
       "read_state_basis": "derived:cited-by-fact"
+    },
+    {
+      "source_id": "src_oral_aronson_julien_tasse_caretaker",
+      "type": "oral_history",
+      "title": "Operator: Julien Tasse, camp caretaker 30+ years; the dining hall renamed Salle Julien Tasse",
+      "date": "2026-08-28",
+      "date_precision": "exact",
+      "origin": "user_provided",
+      "origin_url": null,
+      "cache_path": null,
+      "char_count": 0,
+      "ingested_at": "2026-08-28T00:00:00Z",
+      "extracted": true,
+      "extraction_version": "v5.77",
+      "reliability": "primary",
+      "notes": "Operator (Matt Aronson): Julien Tasse was the camp's caretaker for 30+ years, died c.1992-95, and the DINING HALL was technically renamed SALLE JULIEN TASSE after his death, though the name never stuck in use. This OVERTURNS an inference recorded minutes earlier in f_2356 -- that Julien was a boy on the 1963-64 Advance Guard boards -- and it removes him from the junior-to-staff progression count, since he was staff throughout. Note the operator was a camper and staff member 1985-2002, i.e. present at the camp during the renaming and well placed on it; his death date is given as a range, which is preserved rather than narrowed.",
+      "read_state": "extracted",
+      "read_state_basis": "derived:cited-by-fact"
     }
   ],
   "source_count": 685
