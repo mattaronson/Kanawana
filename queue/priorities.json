@@ -859,8 +859,8 @@
       "blocking": false,
       "assigned_weight": "P1",
       "created_at": "2026-08-12T00:00:00Z",
-      "status": "pending",
-      "notes": "Raises a process question worth putting to the operator: E1-reviewed articles are not being re-verified when downstream work contradicts them. Consider a standing rule that a VERIFY finding against a reference article re-opens that article's status.",
+      "status": "completed",
+      "notes": "Raises a process question worth putting to the operator: E1-reviewed articles are not being re-verified when downstream work contradicts them. Consider a standing rule that a VERIFY finding against a reference article re-opens that article's status. COMPLETED 2026-08-28. Of the ten defects listed, SIX had already been fixed in the interval (the W.H. Spearman row now exists; quebec-camp-landscape carries the L&V retraction explicitly; centennial-1967's Open Question 1 is reopened and supersedes the 'confirmed dead end'; pip-alumni-award now dates its Sam Jam totals; the Gary White and Netherwood-title items read as resolved) -- the queue entry's line numbers were stale and each had to be re-located by content rather than trusted. FOUR WERE STILL OPEN AND ARE FIXED: the 1963-1973 era summary contradicting its own table on 1968; McEwen's two incompatible 1951 titles, now conflict c_028 rather than a silent pick; pip-alumni-award's '12 documented recipients' against a table listing 11, corrected WITHOUT breaking the arithmetic that followed it, which was right for a reason the paragraph never stated; and section-names' stale Trailblazers age. See f_2359.",
       "tier": "3-RALPH"
     },
     {
@@ -3884,6 +3884,19 @@
       "created_at": "2026-08-28",
       "status": "completed",
       "notes": "Spawned by p_295/p_296. Operator or alumni knowledge; no documentary route identified. RESOLVED 2026-08-28 by operator, all three: THE SANCTUM was the Senior Boys section cabin, mid-1990s to its 2007 demolition -- which explains the epitaph on the board that names its last occupants, and is an architectural exception since Senior sections are otherwise platform tents. THE SUEZ BRIDGE crosses the narrow channel between Lake Kanawana and Lake Wilson, the same point as the dam that is ceremonially opened each season and the route of the 1998 5 km swim. RAKU was Director Joanna A.A. Hoad dog, which CONFIRMS the inference drawn from the boards bone shape and paw print (f_2349) and dates to her first season as on-site Director."
+    },
+    {
+      "priority_id": "p_301",
+      "rank": 300,
+      "type": "VERIFY",
+      "article_id": null,
+      "tier": 2,
+      "assigned_weight": "high",
+      "description": "Add an INTERNAL-CONSISTENCY check to scripts/verify/verify_harness.py. Three of the four live defects found by p_227 were a claim in prose disagreeing with a table in the SAME FILE -- a year listed as open in a summary that the article's own table fills, a count asserted in text that the rows beneath it do not support, a title given twice with different values. A citation checker cannot catch these because both halves are properly cited. Start with the two mechanical cases: (a) a stated count against the number of table rows it refers to, (b) a year or year-range asserted as a gap that a table row in the same file covers.",
+      "blocking": false,
+      "created_at": "2026-08-28",
+      "status": "pending",
+      "notes": "Spawned by p_227. This is the gap that let ten defects sit inside top-status articles until draft articles inherited them."
     }
   ],
   "queue_ordering": {

@@ -1,8 +1,8 @@
 {
-  "version": "5.77",
-  "kb_version": "v5.77",
+  "version": "5.78",
+  "kb_version": "v5.78",
   "migrated_from": "3.3",
-  "fact_count": 2320,
+  "fact_count": 2321,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -40160,6 +40160,20 @@
       "date_ref": "c.1992-1995",
       "conflicts_with": [],
       "added_version": "v5.77",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_2359",
+      "claim": "E1-REVIEWED IS NOT A RELIABLE STATUS, MEASURED. The p_218 sweep found ten defects in articles already carrying this project's TOP pipeline status, and the p_227 pass that fixed them (2026-08-28) found that SIX HAD ALREADY BEEN QUIETLY FIXED in the interval and FOUR WERE STILL OPEN. The four: directors-index.md's era summary listed 1968 as an open year while its own table gave Seaman as director 1959-1968; the same article carried two incompatible 1951 titles for Nelson McEwen (now conflict c_028); pip-alumni-award.md asserted '12 documented recipients through 2018' where its own table names 11; and section-names.md's research note gave the Trailblazers age as 16 against the camp's own 16-17. THREE OF THE FOUR ARE SELF-CONTRADICTIONS WITHIN A SINGLE FILE -- a claim in prose disagreeing with a table a few lines above it -- which is the class of error a citation check cannot catch, because both halves are properly cited. The lesson is not that these articles were badly made; it is that a status label records when an article was last reviewed, not whether it is currently true, and that the wiki has no mechanism to detect a fact drifting out from under an article that already passed.",
+      "sources": [],
+      "confidence": "stated",
+      "category": "meta",
+      "entities": [
+        "Kamp Kanawana"
+      ],
+      "date_ref": "2026",
+      "conflicts_with": [],
+      "added_version": "v5.78",
       "added_by": "manual"
     }
   ]
