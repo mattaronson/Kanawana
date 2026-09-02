@@ -1,0 +1,864 @@
+[
+ {
+  "a": "'Conductor' Brad Tagieff",
+  "b": "Bradley Tagieff",
+  "why": "same surname; one given name is a prefix of the other",
+  "low_conf_hint": "",
+  "attested_hint": "",
+  "a_years": [
+   1985
+  ],
+  "b_years": [
+   1985
+  ],
+  "a_boards": [
+   "sailing-staff-1985.jpg"
+  ],
+  "b_boards": [
+   "cit-1985.jpg"
+  ],
+  "shared_boards": [],
+  "verdict": "open",
+  "reason": "no board carries both spellings; nothing here decides it"
+ },
+ {
+  "a": "'Mouth' Chris Clark",
+  "b": "Chris Clarke",
+  "why": "same given name; surnames differ by one letter",
+  "low_conf_hint": "",
+  "attested_hint": "",
+  "a_years": [
+   1962
+  ],
+  "b_years": [
+   1983
+  ],
+  "a_boards": [
+   "rangers-1962.jpg"
+  ],
+  "b_boards": [
+   "male-cit-1983.jpg"
+  ],
+  "shared_boards": [],
+  "verdict": "open",
+  "reason": "no board carries both spellings; nothing here decides it"
+ },
+ {
+  "a": "Albie Smith",
+  "b": "Allie Smith",
+  "why": "same surname; given names differ by one letter",
+  "low_conf_hint": "",
+  "attested_hint": "",
+  "a_years": [
+   2002
+  ],
+  "b_years": [
+   2000
+  ],
+  "a_boards": [
+   "staff-2002.jpg"
+  ],
+  "b_boards": [
+   "cit-2000.jpg",
+   "dsc-0587.jpg"
+  ],
+  "shared_boards": [],
+  "verdict": "open",
+  "reason": "no board carries both spellings; nothing here decides it"
+ },
+ {
+  "a": "Alex Aylett",
+  "b": "Sir Alexander Aylett",
+  "why": "same surname; given names are the same name",
+  "low_conf_hint": "",
+  "attested_hint": "",
+  "a_years": [
+   1995
+  ],
+  "b_years": [
+   1994
+  ],
+  "a_boards": [
+   "cit-1995.jpg"
+  ],
+  "b_boards": [
+   "knights-of-kanawana.jpg"
+  ],
+  "shared_boards": [],
+  "verdict": "open",
+  "reason": "no board carries both spellings; nothing here decides it"
+ },
+ {
+  "a": "Alex Bonebakker",
+  "b": "Alexander Bonebakker",
+  "why": "same surname; given names are the same name",
+  "low_conf_hint": "",
+  "attested_hint": "",
+  "a_years": [
+   1998,
+   2000
+  ],
+  "b_years": [
+   1998
+  ],
+  "a_boards": [
+   "cit-1998.jpg",
+   "kanawoodstock-2000.jpg"
+  ],
+  "b_boards": [
+   "voyageurs-1998-2.jpg"
+  ],
+  "shared_boards": [],
+  "verdict": "open",
+  "reason": "no board carries both spellings; nothing here decides it"
+ },
+ {
+  "a": "Alex Zanis",
+  "b": "Alex Zannis",
+  "why": "same given name; surnames differ by one letter",
+  "low_conf_hint": "",
+  "attested_hint": "",
+  "a_years": [],
+  "b_years": [
+   2006,
+   2008
+  ],
+  "a_boards": [
+   "dsc-0587.jpg"
+  ],
+  "b_boards": [
+   "c-de-bs-staff-2006.jpg",
+   "voyageurs-21-days-2008.jpg"
+  ],
+  "shared_boards": [],
+  "verdict": "open",
+  "reason": "no board carries both spellings; nothing here decides it"
+ },
+ {
+  "a": "Ali Leduc",
+  "b": "Alison Leduc",
+  "why": "same surname; given names are the same name",
+  "low_conf_hint": "",
+  "attested_hint": "",
+  "a_years": [
+   2002
+  ],
+  "b_years": [
+   1993
+  ],
+  "a_boards": [
+   "staff-2002.jpg"
+  ],
+  "b_boards": [
+   "cit-1993.jpg"
+  ],
+  "shared_boards": [],
+  "verdict": "open",
+  "reason": "no board carries both spellings; nothing here decides it"
+ },
+ {
+  "a": "Barb Goddard",
+  "b": "Barbara Goddard",
+  "why": "same surname; one given name is a prefix of the other",
+  "low_conf_hint": "",
+  "attested_hint": "",
+  "a_years": [
+   1986
+  ],
+  "b_years": [
+   1990
+  ],
+  "a_boards": [
+   "cit-1986.jpg"
+  ],
+  "b_boards": [
+   "staff-1990.jpg"
+  ],
+  "shared_boards": [],
+  "verdict": "open",
+  "reason": "no board carries both spellings; nothing here decides it"
+ },
+ {
+  "a": "Ben Beland",
+  "b": "Ben Seland",
+  "why": "same given name; surnames differ by one letter",
+  "low_conf_hint": "",
+  "attested_hint": "",
+  "a_years": [
+   2009
+  ],
+  "b_years": [
+   2008
+  ],
+  "a_boards": [
+   "junior-counsellors-2009.jpg"
+  ],
+  "b_boards": [
+   "lit-2008.jpg"
+  ],
+  "shared_boards": [],
+  "verdict": "open",
+  "reason": "no board carries both spellings; nothing here decides it"
+ },
+ {
+  "a": "Bumpy Warren",
+  "b": "Buppy Warren",
+  "why": "same surname; given names differ by one letter",
+  "low_conf_hint": "",
+  "attested_hint": "\"Buppy Warren\" is attested 2 time(s) elsewhere in the KB or wiki; \"Bumpy Warren\" appears nowhere else",
+  "a_years": [
+   1964
+  ],
+  "b_years": [
+   1963
+  ],
+  "a_boards": [
+   "advance-guard-1964.jpg"
+  ],
+  "b_boards": [
+   "advance-guard-1963.jpg"
+  ],
+  "shared_boards": [],
+  "verdict": "open",
+  "reason": "no board carries both spellings; nothing here decides it"
+ },
+ {
+  "a": "Chris Ware",
+  "b": "Christopher Ware",
+  "why": "same surname; given names are the same name",
+  "low_conf_hint": "",
+  "attested_hint": "",
+  "a_years": [
+   2007
+  ],
+  "b_years": [
+   2008
+  ],
+  "a_boards": [
+   "senior-boys-trip-2007.jpg"
+  ],
+  "b_boards": [
+   "adventurer-boys-2008.jpg"
+  ],
+  "shared_boards": [],
+  "verdict": "open",
+  "reason": "no board carries both spellings; nothing here decides it"
+ },
+ {
+  "a": "Dan Dixon",
+  "b": "Daniel Dixon",
+  "why": "same surname; given names are the same name",
+  "low_conf_hint": "",
+  "attested_hint": "",
+  "a_years": [
+   2007
+  ],
+  "b_years": [
+   2008
+  ],
+  "a_boards": [
+   "basin-2007-2.jpg"
+  ],
+  "b_boards": [
+   "lit-2008.jpg"
+  ],
+  "shared_boards": [],
+  "verdict": "open",
+  "reason": "no board carries both spellings; nothing here decides it"
+ },
+ {
+  "a": "Daniel Van Gelder",
+  "b": "Danny Van Gelder",
+  "why": "same surname; given names are the same name",
+  "low_conf_hint": "",
+  "attested_hint": "",
+  "a_years": [
+   1997
+  ],
+  "b_years": [
+   2002
+  ],
+  "a_boards": [
+   "staff-1997.jpg"
+  ],
+  "b_boards": [
+   "staff-2002.jpg"
+  ],
+  "shared_boards": [],
+  "verdict": "open",
+  "reason": "no board carries both spellings; nothing here decides it"
+ },
+ {
+  "a": "Dave Leduc",
+  "b": "David Leduc",
+  "why": "same surname; given names are the same name",
+  "low_conf_hint": "",
+  "attested_hint": "",
+  "a_years": [
+   2002
+  ],
+  "b_years": [
+   2002
+  ],
+  "a_boards": [
+   "staff-2002.jpg"
+  ],
+  "b_boards": [
+   "lit-2002.jpg"
+  ],
+  "shared_boards": [],
+  "verdict": "open",
+  "reason": "no board carries both spellings; nothing here decides it"
+ },
+ {
+  "a": "Elissa Sukosd",
+  "b": "Melissa Sukosd",
+  "why": "same surname; given names differ by one letter",
+  "low_conf_hint": "",
+  "attested_hint": "",
+  "a_years": [
+   2003
+  ],
+  "b_years": [
+   2007
+  ],
+  "a_boards": [
+   "nature-trip-2003.jpg"
+  ],
+  "b_boards": [
+   "jc-girls-2007.jpg"
+  ],
+  "shared_boards": [],
+  "verdict": "open",
+  "reason": "no board carries both spellings; nothing here decides it"
+ },
+ {
+  "a": "Emanuelle LeBlanc",
+  "b": "Emmanuelle LeBlanc",
+  "why": "same surname; given names differ by one letter",
+  "low_conf_hint": "",
+  "attested_hint": "",
+  "a_years": [
+   2007
+  ],
+  "b_years": [
+   2008
+  ],
+  "a_boards": [
+   "the-roosties-2007.jpg"
+  ],
+  "b_boards": [
+   "explorer-girls-2008.jpg"
+  ],
+  "shared_boards": [],
+  "verdict": "open",
+  "reason": "no board carries both spellings; nothing here decides it"
+ },
+ {
+  "a": "Evelyn Smith",
+  "b": "Evelyne Smith",
+  "why": "same surname; given names differ by one letter",
+  "low_conf_hint": "",
+  "attested_hint": "",
+  "a_years": [
+   2001
+  ],
+  "b_years": [
+   2000
+  ],
+  "a_boards": [
+   "malibu-trip-2001.jpg"
+  ],
+  "b_boards": [
+   "zodiac-2000.jpg"
+  ],
+  "shared_boards": [],
+  "verdict": "open",
+  "reason": "no board carries both spellings; nothing here decides it"
+ },
+ {
+  "a": "Jacques Hodson",
+  "b": "Jacques Hosson",
+  "why": "same given name; surnames differ by one letter",
+  "low_conf_hint": "",
+  "attested_hint": "",
+  "a_years": [
+   2002
+  ],
+  "b_years": [],
+  "a_boards": [
+   "staff-2002.jpg"
+  ],
+  "b_boards": [
+   "dsc-0554.jpg"
+  ],
+  "shared_boards": [],
+  "verdict": "open",
+  "reason": "no board carries both spellings; nothing here decides it"
+ },
+ {
+  "a": "Jacques Hodson",
+  "b": "Jacques Hudson",
+  "why": "same given name; surnames differ by one letter",
+  "low_conf_hint": "",
+  "attested_hint": "",
+  "a_years": [
+   2002
+  ],
+  "b_years": [
+   1997
+  ],
+  "a_boards": [
+   "staff-2002.jpg"
+  ],
+  "b_boards": [
+   "maintenance-1997.jpg"
+  ],
+  "shared_boards": [],
+  "verdict": "open",
+  "reason": "no board carries both spellings; nothing here decides it"
+ },
+ {
+  "a": "Jess Dicesare",
+  "b": "Jessica Dicesare",
+  "why": "same surname; one given name is a prefix of the other",
+  "low_conf_hint": "",
+  "attested_hint": "",
+  "a_years": [
+   2002
+  ],
+  "b_years": [
+   2001
+  ],
+  "a_boards": [
+   "staff-2002.jpg"
+  ],
+  "b_boards": [
+   "cit-2001.jpg"
+  ],
+  "shared_boards": [],
+  "verdict": "open",
+  "reason": "no board carries both spellings; nothing here decides it"
+ },
+ {
+  "a": "Kaya Sabourin",
+  "b": "Kayla Sabourin",
+  "why": "same surname; given names differ by one letter",
+  "low_conf_hint": "",
+  "attested_hint": "",
+  "a_years": [
+   2007
+  ],
+  "b_years": [
+   2008
+  ],
+  "a_boards": [
+   "swaziland-tent-2007.jpg"
+  ],
+  "b_boards": [
+   "adventurer-girls-2008.jpg",
+   "basin-i-bridge-t-bridge-2008.jpg"
+  ],
+  "shared_boards": [],
+  "verdict": "open",
+  "reason": "no board carries both spellings; nothing here decides it"
+ },
+ {
+  "a": "Kirk Shannon",
+  "b": "Kurk Shannon",
+  "why": "same surname; given names differ by one letter",
+  "low_conf_hint": "",
+  "attested_hint": "",
+  "a_years": [
+   1996
+  ],
+  "b_years": [
+   1997
+  ],
+  "a_boards": [
+   "cit-1996-2.jpg"
+  ],
+  "b_boards": [
+   "staff-1997.jpg"
+  ],
+  "shared_boards": [],
+  "verdict": "open",
+  "reason": "no board carries both spellings; nothing here decides it"
+ },
+ {
+  "a": "Laurence Peticlerc",
+  "b": "Laurence Petitclerc",
+  "why": "same given name; surnames differ by one letter",
+  "low_conf_hint": "",
+  "attested_hint": "",
+  "a_years": [
+   2003
+  ],
+  "b_years": [],
+  "a_boards": [
+   "rangers-2003.jpg"
+  ],
+  "b_boards": [
+   "dsc-0559.jpg"
+  ],
+  "shared_boards": [],
+  "verdict": "open",
+  "reason": "no board carries both spellings; nothing here decides it"
+ },
+ {
+  "a": "Matt Held",
+  "b": "Matthew Held",
+  "why": "same surname; given names are the same name",
+  "low_conf_hint": "",
+  "attested_hint": "",
+  "a_years": [
+   2004,
+   2006
+  ],
+  "b_years": [
+   2002
+  ],
+  "a_boards": [
+   "c-de-bs-staff-2006.jpg",
+   "co-jokers-2004.jpg"
+  ],
+  "b_boards": [
+   "rangers-2002.jpg"
+  ],
+  "shared_boards": [],
+  "verdict": "open",
+  "reason": "no board carries both spellings; nothing here decides it"
+ },
+ {
+  "a": "Mel Sukosd",
+  "b": "Melissa Sukosd",
+  "why": "same surname; one given name is a prefix of the other",
+  "low_conf_hint": "",
+  "attested_hint": "",
+  "a_years": [
+   2008
+  ],
+  "b_years": [
+   2007
+  ],
+  "a_boards": [
+   "senior-girl-staff-2008.jpg"
+  ],
+  "b_boards": [
+   "jc-girls-2007.jpg"
+  ],
+  "shared_boards": [],
+  "verdict": "open",
+  "reason": "no board carries both spellings; nothing here decides it"
+ },
+ {
+  "a": "Mel Taylor",
+  "b": "Melanie Taylor",
+  "why": "same surname; one given name is a prefix of the other",
+  "low_conf_hint": "",
+  "attested_hint": "",
+  "a_years": [
+   1997
+  ],
+  "b_years": [
+   1996
+  ],
+  "a_boards": [
+   "staff-1997.jpg"
+  ],
+  "b_boards": [
+   "cit-1996-2.jpg"
+  ],
+  "shared_boards": [],
+  "verdict": "open",
+  "reason": "no board carries both spellings; nothing here decides it"
+ },
+ {
+  "a": "Mike Johnson",
+  "b": "Mike Johnston",
+  "why": "same given name; surnames differ by one letter",
+  "low_conf_hint": "",
+  "attested_hint": "",
+  "a_years": [
+   1998
+  ],
+  "b_years": [
+   1997
+  ],
+  "a_boards": [
+   "cit-1998.jpg"
+  ],
+  "b_boards": [
+   "cit-1997.jpg"
+  ],
+  "shared_boards": [],
+  "verdict": "open",
+  "reason": "no board carries both spellings; nothing here decides it"
+ },
+ {
+  "a": "Misha Artsy",
+  "b": "Sir Misha Artzy",
+  "why": "same given name; surnames differ by one letter",
+  "low_conf_hint": "",
+  "attested_hint": "",
+  "a_years": [
+   1990
+  ],
+  "b_years": [
+   1988
+  ],
+  "a_boards": [
+   "staff-1990.jpg"
+  ],
+  "b_boards": [
+   "knights-of-kanawana.jpg"
+  ],
+  "shared_boards": [],
+  "verdict": "open",
+  "reason": "no board carries both spellings; nothing here decides it"
+ },
+ {
+  "a": "Niki Bohbot",
+  "b": "Nikki Bohbot",
+  "why": "same surname; given names differ by one letter",
+  "low_conf_hint": "the audit flagged \"Nikki Bohbot\" as an uncertain reading and did not flag \"Niki Bohbot\"",
+  "attested_hint": "",
+  "a_years": [
+   2007,
+   2008
+  ],
+  "b_years": [
+   2007
+  ],
+  "a_boards": [
+   "adventurer-girls-2008.jpg",
+   "basin-i-bridge-t-bridge-2008.jpg",
+   "swaziland-tent-2007.jpg"
+  ],
+  "b_boards": [
+   "basin-2007-2.jpg"
+  ],
+  "shared_boards": [],
+  "verdict": "open",
+  "reason": "no board carries both spellings; nothing here decides it"
+ },
+ {
+  "a": "Razz Fraficelli",
+  "b": "Razz Fraticelli",
+  "why": "same surname; given names differ by one letter",
+  "low_conf_hint": "",
+  "attested_hint": "",
+  "a_years": [
+   2007
+  ],
+  "b_years": [
+   2007
+  ],
+  "a_boards": [
+   "jc-girls-2007.jpg"
+  ],
+  "b_boards": [
+   "swaziland-tent-2007.jpg"
+  ],
+  "shared_boards": [],
+  "verdict": "open",
+  "reason": "no board carries both spellings; nothing here decides it"
+ },
+ {
+  "a": "Robin Wiviot",
+  "b": "Robin Wiviott",
+  "why": "same given name; surnames differ by one letter",
+  "low_conf_hint": "",
+  "attested_hint": "",
+  "a_years": [
+   2000
+  ],
+  "b_years": [
+   2002
+  ],
+  "a_boards": [
+   "cit-2000-2.jpg"
+  ],
+  "b_boards": [
+   "cabin.jpg",
+   "staff-2002.jpg"
+  ],
+  "shared_boards": [],
+  "verdict": "open",
+  "reason": "no board carries both spellings; nothing here decides it"
+ },
+ {
+  "a": "Ross O'Lachlainn",
+  "b": "Ross O'Lochlainn",
+  "why": "same given name; surnames differ by one letter",
+  "low_conf_hint": "",
+  "attested_hint": "",
+  "a_years": [
+   2002
+  ],
+  "b_years": [
+   2001
+  ],
+  "a_boards": [
+   "staff-2002.jpg"
+  ],
+  "b_boards": [
+   "cit-2001.jpg"
+  ],
+  "shared_boards": [],
+  "verdict": "open",
+  "reason": "no board carries both spellings; nothing here decides it"
+ },
+ {
+  "a": "Sarah Knoll",
+  "b": "Sarah Kroll",
+  "why": "same given name; surnames differ by one letter",
+  "low_conf_hint": "",
+  "attested_hint": "",
+  "a_years": [],
+  "b_years": [
+   1997
+  ],
+  "a_boards": [
+   "dsc-0679.jpg"
+  ],
+  "b_boards": [
+   "staff-1997.jpg"
+  ],
+  "shared_boards": [],
+  "verdict": "open",
+  "reason": "no board carries both spellings; nothing here decides it"
+ },
+ {
+  "a": "Shaun Leggett",
+  "b": "Shawn Leggett",
+  "why": "same surname; given names differ by one letter",
+  "low_conf_hint": "",
+  "attested_hint": "\"Shaun Leggett\" is attested 1 time(s) elsewhere in the KB or wiki; \"Shawn Leggett\" appears nowhere else",
+  "a_years": [
+   1984
+  ],
+  "b_years": [
+   1990
+  ],
+  "a_boards": [
+   "cit-1984.jpg"
+  ],
+  "b_boards": [
+   "staff-1990.jpg"
+  ],
+  "shared_boards": [],
+  "verdict": "open",
+  "reason": "no board carries both spellings; nothing here decides it"
+ },
+ {
+  "a": "Simon Heller",
+  "b": "Simon Hiller",
+  "why": "same given name; surnames differ by one letter",
+  "low_conf_hint": "the audit flagged \"Simon Hiller\" as an uncertain reading and did not flag \"Simon Heller\"",
+  "attested_hint": "\"Simon Heller\" is attested 8 time(s) elsewhere in the KB or wiki; \"Simon Hiller\" appears nowhere else",
+  "a_years": [
+   1993,
+   1995
+  ],
+  "b_years": [
+   1990
+  ],
+  "a_boards": [
+   "cit-1993.jpg",
+   "cit-1995.jpg"
+  ],
+  "b_boards": [
+   "staff-1990.jpg"
+  ],
+  "shared_boards": [],
+  "verdict": "open",
+  "reason": "no board carries both spellings; nothing here decides it"
+ },
+ {
+  "a": "Sir Adrian Di Giovanni",
+  "b": "Adrian diGiovanni",
+  "why": "same given name; surnames differ by one letter",
+  "low_conf_hint": "",
+  "attested_hint": "\"Sir Adrian Di Giovanni\" is attested 1 time(s) elsewhere in the KB or wiki; \"Adrian diGiovanni\" appears nowhere else",
+  "a_years": [
+   1992
+  ],
+  "b_years": [
+   1993
+  ],
+  "a_boards": [
+   "knights-of-kanawana.jpg"
+  ],
+  "b_boards": [
+   "cit-1993.jpg"
+  ],
+  "shared_boards": [],
+  "verdict": "open",
+  "reason": "no board carries both spellings; nothing here decides it"
+ },
+ {
+  "a": "Sir Dave Paltiel",
+  "b": "David Paltiel",
+  "why": "same surname; given names are the same name",
+  "low_conf_hint": "",
+  "attested_hint": "",
+  "a_years": [
+   1982
+  ],
+  "b_years": [
+   1975
+  ],
+  "a_boards": [
+   "knights-of-kanawana.jpg"
+  ],
+  "b_boards": [
+   "cit-1975.jpg"
+  ],
+  "shared_boards": [],
+  "verdict": "open",
+  "reason": "no board carries both spellings; nothing here decides it"
+ },
+ {
+  "a": "Stephen Cookson",
+  "b": "Steve Cookson",
+  "why": "same surname; given names differ by one letter",
+  "low_conf_hint": "",
+  "attested_hint": "",
+  "a_years": [
+   1997
+  ],
+  "b_years": [],
+  "a_boards": [
+   "staff-1997.jpg"
+  ],
+  "b_boards": [
+   "seven-days-in-lav.jpg"
+  ],
+  "shared_boards": [],
+  "verdict": "open",
+  "reason": "no board carries both spellings; nothing here decides it"
+ },
+ {
+  "a": "Stephen Reizes",
+  "b": "Steve Reizes",
+  "why": "same surname; given names differ by one letter",
+  "low_conf_hint": "",
+  "attested_hint": "",
+  "a_years": [
+   1975
+  ],
+  "b_years": [
+   1973
+  ],
+  "a_boards": [
+   "senior-boys-1975.jpg"
+  ],
+  "b_boards": [
+   "senior-girls-1973.jpg"
+  ],
+  "shared_boards": [],
+  "verdict": "open",
+  "reason": "no board carries both spellings; nothing here decides it"
+ }
+]

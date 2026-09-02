@@ -39,7 +39,7 @@ So a Wolf credit *is* a designation attached to a person — an earlier version 
 
 The pattern went unnoticed at first because the word was unfamiliar and "Counsellor / Tripper / Wolf" read as a list of jobs. The evidence for the better reading was sitting in the audit's own records.
 
-The consequence is small but worth stating: one person, Jeff Ware, had been counted among the documented junior-to-staff progressions in [[people/multi-year-index|the multi-year index]] solely on the strength of this misreading. That removed one row from the progression count, which stood at 45 before the correction and 44 after; later fixes to the index itself have since taken it to 66. See [[traditions/section-names|Section Names]] for the full Rangers lineage.
+The consequence is small but worth stating: one person, Jeff Ware, had been counted among the documented junior-to-staff progressions in [[people/multi-year-index|the multi-year index]] solely on the strength of this misreading. That removed one row from the progression count, which stood at 45 before the correction and 44 after; later fixes to the index itself have since taken it to 69. See [[traditions/section-names|Section Names]] for the full Rangers lineage.
 
 ## International campers and staff, documented
 

@@ -623,9 +623,10 @@
   "span": 0,
   "initial_only": false
  },
- "andrew elridge": {
-  "display": "Andrew 'Hippo' Elridge",
+ "andrew eldridge": {
+  "display": "Andrew 'Hippo' Eldridge",
   "forms": [
+   "Andrew 'Hippo' Eldridge",
    "Andrew 'Hippo' Elridge"
   ],
   "appearances": [
@@ -635,12 +636,20 @@
     "role": "Staff",
     "image": "staff-1990.jpg",
     "as_written": "Andrew 'Hippo' Elridge"
+   },
+   {
+    "year": 1982,
+    "group": "CIT",
+    "role": "CIT",
+    "image": "cit-1982.jpg",
+    "as_written": "Andrew 'Hippo' Eldridge"
    }
   ],
   "years": [
+   1982,
    1990
   ],
-  "span": 0,
+  "span": 8,
   "initial_only": false
  },
  "zosia enriquez": {
@@ -3181,6 +3190,7 @@
   "display": "Jennifer Kaufman",
   "forms": [
    "Jennifer Kaufman",
+   "Jen Kauf[man]",
    "Jenny Kaufman",
    "Jen Kaufman"
   ],
@@ -3205,13 +3215,21 @@
     "role": "Award recipient",
     "image": "7000-km-expedition.jpg",
     "as_written": "Jennifer Kaufman"
+   },
+   {
+    "year": 2001,
+    "group": "Voyageurs",
+    "role": "Tripper",
+    "image": "voyaugeurs-2001.jpg",
+    "as_written": "Jen Kauf[man]"
    }
   ],
   "years": [
+   2001,
    2002,
    2004
   ],
-  "span": 2,
+  "span": 3,
   "initial_only": false
  },
  "phil kaufman": {
@@ -3437,8 +3455,9 @@
   "initial_only": false
  },
  "louis lessard": {
-  "display": "Louis Lessard",
+  "display": "Louis Less[ard]",
   "forms": [
+   "Louis Less[ard]",
    "Louis Lessard"
   ],
   "appearances": [
@@ -3476,10 +3495,18 @@
     "role": "Award recipient",
     "image": "7000-km-expedition.jpg",
     "as_written": "Louis Lessard"
+   },
+   {
+    "year": 2001,
+    "group": "Voyageurs",
+    "role": "Tripper",
+    "image": "voyaugeurs-2001.jpg",
+    "as_written": "Louis Less[ard]"
    }
   ],
   "years": [
    1997,
+   2001,
    2002
   ],
   "span": 5,
@@ -7803,26 +7830,6 @@
   "span": 0,
   "initial_only": false
  },
- "andrew eldridge": {
-  "display": "Andrew 'Hippo' Eldridge",
-  "forms": [
-   "Andrew 'Hippo' Eldridge"
-  ],
-  "appearances": [
-   {
-    "year": 1982,
-    "group": "CIT",
-    "role": "CIT",
-    "image": "cit-1982.jpg",
-    "as_written": "Andrew 'Hippo' Eldridge"
-   }
-  ],
-  "years": [
-   1982
-  ],
-  "span": 0,
-  "initial_only": false
- },
  "geney charette": {
   "display": "Geney 'Moni' Charette",
   "forms": [
@@ -7981,10 +7988,11 @@
   "span": 0,
   "initial_only": false
  },
- "nandy fletcher": {
+ "nancy fletcher": {
   "display": "Nandy 'Fletch' Fletcher",
   "forms": [
-   "Nandy 'Fletch' Fletcher"
+   "Nandy 'Fletch' Fletcher",
+   "Nancy Fletcher"
   ],
   "appearances": [
    {
@@ -7993,12 +8001,20 @@
     "role": "CIT",
     "image": "cit-1982.jpg",
     "as_written": "Nandy 'Fletch' Fletcher"
+   },
+   {
+    "year": 1983,
+    "group": "Staff",
+    "role": "Staff",
+    "image": "kanoing-krew-1983.jpg",
+    "as_written": "Nancy Fletcher"
    }
   ],
   "years": [
-   1982
+   1982,
+   1983
   ],
-  "span": 0,
+  "span": 1,
   "initial_only": false
  },
  "simon leonard": {
@@ -14358,8 +14374,9 @@
   "initial_only": false
  },
  "meyland g-labelle": {
-  "display": "Meyland G-Labelle",
+  "display": "Myland 'Dr. Pepper' G-L.",
   "forms": [
+   "Myland 'Dr. Pepper' G-L.",
    "Meyland G-Labelle"
   ],
   "appearances": [
@@ -14369,12 +14386,20 @@
     "role": "Voyageur",
     "image": "voyageurs-21-days-2008.jpg",
     "as_written": "Meyland G-Labelle"
+   },
+   {
+    "year": 2007,
+    "group": null,
+    "role": "Member",
+    "image": "new-deck-trip-2007.jpg",
+    "as_written": "Myland 'Dr. Pepper' G-L."
    }
   ],
   "years": [
+   2007,
    2008
   ],
-  "span": 0,
+  "span": 1,
   "initial_only": false
  },
  "pedri aran": {
@@ -16030,10 +16055,11 @@
   "span": 2,
   "initial_only": false
  },
- "sarah a -frankel": {
-  "display": "Sarah A[ddleman]-Frankel",
+ "sarah addleman frankel": {
+  "display": "Sarah Addleman Frankel",
   "forms": [
-   "Sarah A[ddleman]-Frankel"
+   "Sarah A[ddleman]-Frankel",
+   "Sarah Addleman Frankel"
   ],
   "appearances": [
    {
@@ -16042,12 +16068,20 @@
     "role": "CIT",
     "image": "cit-1995.jpg",
     "as_written": "Sarah A[ddleman]-Frankel"
+   },
+   {
+    "year": 1997,
+    "group": "Staff",
+    "role": "Staff",
+    "image": "staff-1997.jpg",
+    "as_written": "Sarah Addleman Frankel"
    }
   ],
   "years": [
-   1995
+   1995,
+   1997
   ],
-  "span": 0,
+  "span": 2,
   "initial_only": false
  },
  "alex aylett": {
@@ -16540,10 +16574,11 @@
   "span": 2,
   "initial_only": false
  },
- "j m sotiron": {
+ "jm sotiron": {
   "display": "J.M. (Jeff) Sotiron",
   "forms": [
-   "J.M. (Jeff) Sotiron"
+   "J.M. (Jeff) Sotiron",
+   "J.M. Sotiran"
   ],
   "appearances": [
    {
@@ -16552,6 +16587,13 @@
     "role": "CIT",
     "image": "cit-1995.jpg",
     "as_written": "J.M. (Jeff) Sotiron"
+   },
+   {
+    "year": 1995,
+    "group": "LIT",
+    "role": "CIT",
+    "image": "junior-boys-cabin-7-1995.jpg",
+    "as_written": "J.M. Sotiran"
    }
   ],
   "years": [
@@ -17187,26 +17229,6 @@
     "role": "Counsellor",
     "image": "malibu-tent-1997.jpg",
     "as_written": "Hilary Thomson (marked with a star)"
-   }
-  ],
-  "years": [
-   1997
-  ],
-  "span": 0,
-  "initial_only": false
- },
- "sarah addleman frankel": {
-  "display": "Sarah Addleman Frankel",
-  "forms": [
-   "Sarah Addleman Frankel"
-  ],
-  "appearances": [
-   {
-    "year": 1997,
-    "group": "Staff",
-    "role": "Staff",
-    "image": "staff-1997.jpg",
-    "as_written": "Sarah Addleman Frankel"
    }
   ],
   "years": [
@@ -18728,26 +18750,6 @@
     "role": "Staff",
     "image": "kanoing-krew-1983.jpg",
     "as_written": "Shig Shimura"
-   }
-  ],
-  "years": [
-   1983
-  ],
-  "span": 0,
-  "initial_only": false
- },
- "nancy fletcher": {
-  "display": "Nancy Fletcher",
-  "forms": [
-   "Nancy Fletcher"
-  ],
-  "appearances": [
-   {
-    "year": 1983,
-    "group": "Staff",
-    "role": "Staff",
-    "image": "kanoing-krew-1983.jpg",
-    "as_written": "Nancy Fletcher"
    }
   ],
   "years": [
@@ -20871,26 +20873,6 @@
     "role": "Camper",
     "image": "bella-1995-2.jpg",
     "as_written": "Katie Kaufman"
-   }
-  ],
-  "years": [
-   1995
-  ],
-  "span": 0,
-  "initial_only": false
- },
- "j m sotiran": {
-  "display": "J.M. Sotiran",
-  "forms": [
-   "J.M. Sotiran"
-  ],
-  "appearances": [
-   {
-    "year": 1995,
-    "group": "LIT",
-    "role": "CIT",
-    "image": "junior-boys-cabin-7-1995.jpg",
-    "as_written": "J.M. Sotiran"
    }
   ],
   "years": [
@@ -28180,26 +28162,6 @@
   "span": 0,
   "initial_only": true
  },
- "myland g-l": {
-  "display": "Myland 'Dr. Pepper' G-L.",
-  "forms": [
-   "Myland 'Dr. Pepper' G-L."
-  ],
-  "appearances": [
-   {
-    "year": 2007,
-    "group": null,
-    "role": "Member",
-    "image": "new-deck-trip-2007.jpg",
-    "as_written": "Myland 'Dr. Pepper' G-L."
-   }
-  ],
-  "years": [
-   2007
-  ],
-  "span": 0,
-  "initial_only": false
- },
  "ian b": {
   "display": "Ian B.",
   "forms": [
@@ -30623,46 +30585,6 @@
     "role": "Member",
     "image": "voyaugeurs-2001.jpg",
     "as_written": "Pierre Larouche"
-   }
-  ],
-  "years": [
-   2001
-  ],
-  "span": 0,
-  "initial_only": false
- },
- "louis less": {
-  "display": "Louis Less[ard]",
-  "forms": [
-   "Louis Less[ard]"
-  ],
-  "appearances": [
-   {
-    "year": 2001,
-    "group": "Voyageurs",
-    "role": "Tripper",
-    "image": "voyaugeurs-2001.jpg",
-    "as_written": "Louis Less[ard]"
-   }
-  ],
-  "years": [
-   2001
-  ],
-  "span": 0,
-  "initial_only": false
- },
- "jen kauf": {
-  "display": "Jen Kauf[man]",
-  "forms": [
-   "Jen Kauf[man]"
-  ],
-  "appearances": [
-   {
-    "year": 2001,
-    "group": "Voyageurs",
-    "role": "Tripper",
-    "image": "voyaugeurs-2001.jpg",
-    "as_written": "Jen Kauf[man]"
    }
   ],
   "years": [

@@ -1,8 +1,8 @@
 {
-  "version": "5.81",
-  "kb_version": "5.81",
+  "version": "5.82",
+  "kb_version": "5.82",
   "migrated_from": "3.3",
-  "fact_count": 2330,
+  "fact_count": 2332,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -40339,6 +40339,42 @@
       "date_ref": "2026-09-02",
       "conflicts_with": [],
       "added_version": "5.81",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_2369",
+      "claim": "SIXTEEN OF THE SEVENTY-EIGHT ENTRIES IN THE PLAQUE INDEX'S CURATED ALIAS LIST COULD NEVER MATCH ANYTHING (found 2026-09-02, p_298). The list records deliberate 'these two spellings are one person' decisions, but its keys are written the way a person writes names -- 'j.m. sotiran', \"andrew 'hippo' elridge\", 'julien tasse' with the accent, 'jen kauf[man]' -- while norm() stripped periods, accents, quoted nicknames and bracketed completions BEFORE performing the lookup. One entry in five was silently doing nothing. Three of the near-miss pairs the project was holding for human judgement (J.M. Sotiran/Sotiron, Nandy/Nancy Fletcher, Andrew Eldridge/Elridge) had therefore already been decided and the decision had never taken effect. Fixed by shaping the alias keys through the same normaliser as the names they are matched against, with a collision check. Seven names merged; distinct names 1,483 -> 1,476, traced people 155 -> 159, progressions 66 -> 69. The traced count went UP because some merges joined two single-year people into one person with two years.",
+      "sources": [],
+      "confidence": "stated",
+      "category": "methodology",
+      "entities": [
+        "build_index.py",
+        "J.M. Sotiron",
+        "Nancy Fletcher",
+        "Andrew Eldridge"
+      ],
+      "date_ref": "2026-09-02",
+      "conflicts_with": [],
+      "added_version": "5.82",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_2370",
+      "claim": "THE NEAR-MISS NAME PAIRS IN THE PLAQUE INDEX ARE NOW GENERATED AND EVIDENCED RATHER THAN LISTED (scripts/plaque/candidate_pairs.py, kb/plaque-audit/candidate-pairs.json). 39 pairs. Three mechanical tests are applied. CO-OCCURRENCE -- both spellings on the same board would mean two people, since a roster does not list one person twice -- rules out NONE of them: every near-miss pair sits on different boards, including the four that share a year. ATTESTED ELSEWHERE separates four: 'Buppy Warren', 'Shaun Leggett', 'Simon Heller' and 'Sir Adrian Di Giovanni' each appear in the KB or wiki from non-plaque sources while their counterpart appears nowhere else. LOW-CONFIDENCE READING separates two: the audit itself flagged 'Nikki Bohbot' and 'Simon Hiller' as uncertain while not flagging their counterparts. SIMON HELLER / SIMON HILLER CARRIES BOTH SIGNALS and would give Staff 1990 -> CIT Director 1993 -> CIT Director 1995. The remaining 33 have no mechanical evidence either way. NOTE ON THE ATTESTATION TEST: its first version counted the whole of facts.json and found nothing, because p_292 folded the plaque transcriptions into the fact claims -- a test whose corpus contains the thing it is testing always passes.",
+      "sources": [],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "Simon Heller",
+        "Simon Hiller",
+        "Buppy Warren",
+        "Shaun Leggett",
+        "Adrian Di Giovanni",
+        "Nikki Bohbot"
+      ],
+      "date_ref": "2026-09-02",
+      "conflicts_with": [],
+      "added_version": "5.82",
       "added_by": "manual"
     }
   ]

@@ -136,7 +136,8 @@ def strip_nick(s):
     s = re.sub(r'\[[^\]]*\]', ' ', s)
     return s
 
-def norm(s):
+def shape(s):
+    """Everything norm() does EXCEPT the alias lookup."""
     s = strip_nick(s)
     s = unicodedata.normalize('NFKD', s).encode('ascii','ignore').decode()
     s = s.lower().replace('.', ' ').replace('&',' ')
@@ -147,7 +148,25 @@ def norm(s):
     # on the Staff of '79 board -- so every knight who appears anywhere else was
     # being stored twice and their progression split in half.
     s = re.sub(r'^(sir|lady) ', '', s)
-    return ALIASES.get(s, s)
+    return s
+
+# The alias table is written the way a person writes names -- "j.m. sotiran",
+# "andrew 'hippo' elridge", "julien tasse" with the accent. norm() strips
+# periods, quoted nicknames and accents BEFORE it looked the name up, so any
+# such key could never match: 16 of the 78 curated entries, one in five, were
+# silently doing nothing, and three of the "candidate pairs" p_298 was holding
+# for human judgement had ALREADY been decided by this list. Keys are therefore
+# put through the same shaping as the names they are matched against.
+_ALIAS = {}
+for _k, _v in ALIASES.items():
+    _sk = shape(_k)
+    if _sk in _ALIAS and _ALIAS[_sk] != _v:
+        raise SystemExit('alias collision: %r shapes to %r, wanted by both %r and %r'
+                         % (_k, _sk, _ALIAS[_sk], _v))
+    _ALIAS[_sk] = _v
+
+def norm(s):
+    return _ALIAS.get(shape(s), shape(s))
 
 def is_initial_only(n):
     toks = n.split()

@@ -5,9 +5,9 @@
 
 ## Overview
 
-Kanawana's dining hall carries about 151 surviving plaques, and until August 2026 this project had transcribed only a fraction of the names on them. The [[meta/plaque-audit|plaque audit]] (p_291) read every board and recovered roughly 1,825 names.^1 Cross-referencing those boards against each other produces something no single plaque holds: **1,483 distinct named individuals, of whom 155 appear in more than one year.**
+Kanawana's dining hall carries about 151 surviving plaques, and until August 2026 this project had transcribed only a fraction of the names on them. The [[meta/plaque-audit|plaque audit]] (p_291) read every board and recovered roughly 1,825 names.^1 Cross-referencing those boards against each other produces something no single plaque holds: **1,476 distinct named individuals, of whom 159 appear in more than one year.**
 
-That number is the point. A camp plaque is a snapshot of one tent, one section, one summer. Read together, they become a record of who kept coming back — and **66 people can be traced from a junior position to a staff-grade title on a later board**. The camper-to-staff progression that this wiki has described through three individual careers turns out to be the ordinary path.
+That number is the point. A camp plaque is a snapshot of one tent, one section, one summer. Read together, they become a record of who kept coming back — and **69 people can be traced from a junior position to a staff-grade title on a later board**. The camper-to-staff progression that this wiki has described through three individual careers turns out to be the ordinary path.
 
 **How to read this table.** Each row is one person as their name is painted, the years they appear, the span between first and last, and their trajectory. **★** marks anyone with a documented junior-to-staff progression; the trajectory column shows where each rung comes from. A staff-grade title means (Counsellor, Tripper, Master, Capitaine, Director or Section Director) in at least one year. The 2009 "Wolf" credit is **not** counted as staff: it marks membership of a leadership programme, not a job — see [[traditions/programs-activities|Programs and Activities]].
 
@@ -24,6 +24,7 @@ That number is the point. A camp plaque is a snapshot of one tent, one section, 
 | Rob Shackell | 2001–2010 | 9 | 2001 Member → 2005 Tripper → 2008 Voyageur → 2010 Tripper ★ |
 | Steph Hurlburt | 1993–2002 | 9 | 1993 CIT → 2002 Staff ★ |
 | Andrea Pahl | 1993–2001 | 8 | 1993 CIT → 2001 Director ★ |
+| Andrew 'Hippo' Eldridge | 1982–1990 | 8 | 1982 CIT → 1990 Staff ★ |
 | 'S. Beauty' Steve Henle | 1983–1990 | 7 | 1983 CIT → 1985 Staff → 1990 Staff ★ |
 | Avigail Aronoff | 1995–2002 | 7 | 1995 CIT → 1997 Staff → 2002 Staff ★ |
 | Dan Aronson | 1995–2002 | 7 | 1995 CIT → 2002 Staff ★ |
@@ -49,7 +50,7 @@ That number is the point. A camp plaque is a snapshot of one tent, one section, 
 | Eric Boghen | 1985–1990 | 5 | 1985 CIT → 1990 Staff ★ |
 | Keith Lewis | 1955–1960 | 5 | 1955 Ranger → 1960 Ranger |
 | Lady Lindsay Kertland | 1980–1985 | 5 | 1980 Knight → 1983 Staff → 1985 CIT |
-| Louis Lessard | 1997–2002 | 5 | 1997 Staff → 2002 Staff |
+| Louis Less[ard] | 1997–2002 | 5 | 1997 Staff → 2001 Tripper → 2002 Staff |
 | Paula Cussen | 1990–1995 | 5 | 1990 Staff → 1995 Director |
 | Rick Cordi | 1997–2002 | 5 | 1997 Staff → 2002 Staff |
 | Roxanne Sayegh | 1998–2003 | 5 | 1998 CIT → 2002 Staff → 2003 Member ★ |
@@ -66,6 +67,7 @@ That number is the point. A camp plaque is a snapshot of one tent, one section, 
 | Arielle 'keeps singing' Sholzberg | 2007–2010 | 3 | 2007 Camper → 2010 LIT |
 | Christina 'jellybean' Kaminski | 2007–2010 | 3 | 2007 Camper → 2008 Member → 2010 Camper |
 | Jason 'Hands in his pants' Bond | 1997–2000 | 3 | 1997 CIT → 2000 Participant |
+| Jennifer Kaufman | 2001–2004 | 3 | 2001 Tripper → 2002 Staff → 2004 Master |
 | Julian Cooper | 2005–2008 | 3 | 2005 Ranger → 2008 Voyageur |
 | Justin Francis | 1997–2000 | 3 | 1997 CIT → 2000 Member |
 | Kendra Hughes | 2000–2003 | 3 | 2000 Swimmer → 2003 Member |
@@ -96,7 +98,6 @@ That number is the point. A camp plaque is a snapshot of one tent, one section, 
 | Erin Savage | 2001–2003 | 2 | 2001 CIT → 2002 Staff → 2003 Member ★ |
 | Heather Jenkins | 2000–2002 | 2 | 2000 CIT → 2002 Staff ★ |
 | James Caddell | 1988–1990 | 2 | 1988 Voyageur → 1990 Staff ★ |
-| Jennifer Kaufman | 2002–2004 | 2 | 2002 Staff → 2004 Master |
 | Jonathan Nagles | 2005–2007 | 2 | 2005 Ranger → 2007 Member |
 | Katie Smith | 2000–2002 | 2 | 2000 Camper → 2002 Ranger |
 | Laura Davis | 1995–1997 | 2 | 1995 CIT → 1997 Staff ★ |
@@ -111,6 +112,7 @@ That number is the point. A camp plaque is a snapshot of one tent, one section, 
 | Rachel Bond | 2000–2002 | 2 | 2000 CIT → 2002 Staff ★ |
 | Randa Kachef | 2000–2002 | 2 | 2000 CIT → 2002 Staff ★ |
 | Sam 'Saddam' Trowbridge | 2005–2007 | 2 | 2005 Ranger → 2007 Member |
+| Sarah Addleman Frankel | 1995–1997 | 2 | 1995 CIT → 1997 Staff ★ |
 | Sarah Carsley | 2000–2002 | 2 | 2000 Camper → 2001 CIT → 2002 Staff ★ |
 | Sarah Harries | 1988–1990 | 2 | 1988 Voyageur → 1990 Staff ★ |
 | Simon Heller | 1993–1995 | 2 | 1993 Director → 1995 Director |
@@ -154,6 +156,8 @@ That number is the point. A camp plaque is a snapshot of one tent, one section, 
 | Marc Raymond | 2001–2002 | 1 | 2001 CIT → 2002 Staff ★ |
 | Matthew Thomson | 1996–1997 | 1 | 1996 CIT → 1997 Staff ★ |
 | Megan Robinson | 2001–2002 | 1 | 2001 CIT → 2002 Staff ★ |
+| Myland 'Dr. Pepper' G-L. | 2007–2008 | 1 | 2007 Member → 2008 Voyageur |
+| Nandy 'Fletch' Fletcher | 1982–1983 | 1 | 1982 CIT → 1983 Staff ★ |
 | Niki Bohbot | 2007–2008 | 1 | 2007 Camper → 2008 Signatory |
 | Pat 'The Glorious' Lazarus | 2000–2001 | 1 | 2000 Participant → 2001 Member |
 | Patrick Raymond | 2007–2008 | 1 | 2007 Camper → 2008 Signatory |
@@ -187,7 +191,9 @@ Every number on this page has moved at least once since the table was first gene
 
 **The last correction came from writing the rule down.** Until this pass the table was assembled by hand and the star was applied by eye, so every fix to the index moved the index without moving the article. Regenerating the table from the index (`scripts/plaque/build_table.py`) forced the progression test to be stated explicitly, and stating it removed four people: **Josh Usheroff** (Knight 1998, Staff 2002) and **Lindsay Kertland** (Knight 1980, Staff 1983) had been counted on the strength of a knighthood, which is an honour and says nothing about junior standing; **Alex Zannis** (Counsellor 2006, Voyageur 2008) and Kertland again (CIT 1985, after her 1983 staff credit) had been counted although their staff year came *first*. Progressions therefore stand at **66**, and the number is now a function of the index rather than a claim about it.
 
-Two of these five — the staff-column bug and the honorific bug — were classifier faults, not transcription faults, and neither produced a wrong-looking row. That is the pattern worth carrying forward: **a classifier that reads structure instead of meaning fails silently and in bulk**, and in the largest case it took a person who knew he belonged on the list to notice. The direction of the remaining risk still runs toward **splitting** one person into two rather than merging two into one, so 155 is a floor rather than a ceiling. Tracked as p_298.
+**And a sixth, found by the check built to catch the fifth.** One in five entries of the hand-curated alias list — the list of "these two spellings are one person" decisions, every one of them made deliberately — could never match anything. The table is written the way a person writes names, with periods, accents and quoted nicknames ("j.m. sotiran", "andrew 'hippo' elridge", "julien tassé"), and the normaliser stripped all of those *before* looking the name up, so 16 of 78 entries were silently doing nothing. Three of the pairs this project was holding for human judgement had in fact already been judged, years of index output ago. Fixing the lookup merged seven names, and because some of those merges joined two single-year people into one two-year person, the traced count went *up*: 1,483 distinct names to **1,476**, 155 traced people to **159**, 66 progressions to **69**.
+
+Two of these six — the staff-column bug and the honorific bug — were classifier faults, not transcription faults, and neither produced a wrong-looking row. That is the pattern worth carrying forward: **a classifier that reads structure instead of meaning fails silently and in bulk**, and in the largest case it took a person who knew he belonged on the list to notice. The direction of the remaining risk still runs toward **splitting** one person into two rather than merging two into one, so 159 is a floor rather than a ceiling. Tracked as p_298.
 
 ## What the table shows
 
@@ -202,7 +208,7 @@ Two of these five — the staff-column bug and the honorific bug — were classi
 ## Open Questions
 
 1. [Answered 2026-08-28] ~~One Julien Tassé or two?~~ One, and the father: he was the camp's caretaker for thirty-odd years.^2 ^3 That also removes him from the progression count — he never progressed into a staff role, he held one throughout.
-2. [Important] How many of the 155 are hidden duplicates or hidden pairs? Common given names with common surnames are the risk; the merge rules here are deliberately conservative and will have split some people in two.
+2. [Important] How many of the 159 are hidden duplicates or hidden pairs? `scripts/plaque/candidate_pairs.py` now generates the list: 39 near-miss pairs, of which four have one spelling attested outside the plaque album and one attested nowhere, and two have a reading the audit itself flagged as uncertain on exactly one side. **Simon Heller / Simon Hiller** carries both signals. The rest have no mechanical evidence either way and need someone who knows. Nothing is merged automatically — the matcher has twice proposed merges this project had already declined on reasoning.
 3. [Important] Eight people carry a staff-grade role on an *earlier* board than a junior one: Bruce Netherwood, Bruce Weihs, Erin Savage, Roxanne Sayegh, Jeff Muss, Lindsay Kertland, Alex Zannis and Rob Shackell. Most look like the same artefact — "Voyageur" and "Member" are group labels on trip and section boards, and staff are listed on those boards alongside the campers, so a tripper reads as a camper four years after his first tripper credit. Rob Shackell (Tripper 2005 → Voyageur 2008 → Tripper 2010) is the clearest example. The residue after that explanation is where two different people may share a name.
 4. [Nice-to-have] Fourteen sibling-shaped pairs are noted in [f_2341] on the strength of shared surnames across nearby years. Only the Bollhorns and the Pungartniks are confirmed. The rest need a person who knows.
 
