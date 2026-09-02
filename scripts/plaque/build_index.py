@@ -135,6 +135,11 @@ def norm(s):
     s = s.lower().replace('.', ' ').replace('&',' ')
     s = re.sub(r'[^a-z0-9\- ]', ' ', s)
     s = re.sub(r'\s+', ' ', s).strip()
+    # The Knights of Kanawana roll paints every entry with its title. Left in,
+    # "Sir Denys Lawrence" indexes as a different person from the Denys Lawrence
+    # on the Staff of '79 board -- so every knight who appears anywhere else was
+    # being stored twice and their progression split in half.
+    s = re.sub(r'^(sir|lady) ', '', s)
     return ALIASES.get(s, s)
 
 def is_initial_only(n):
