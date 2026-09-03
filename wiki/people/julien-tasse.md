@@ -1,6 +1,6 @@
 # Julien Tassé
 
-*Status: R3-verified | Sources: 4*
+*Status: R3-verified | Sources: 5*
 *Last Updated: 2026-09-03*
 
 ## Overview
@@ -24,7 +24,7 @@ Four surviving boards name Tassé outright and a fifth thanks his family, and th
 
 Read as a camper's record this looks impossible — a boy in 1963 who is still turning up in 1990. Read correctly it is unremarkable: he was the man who lived there. The 1963 and 1964 boards set his name apart because he was the adult leading the Advance Guard, not because he was its most senior boy. The plural on the 1979 staff board — "The Tassé's" rather than a name — is a family being thanked, seven years before Yves is first named on his own.
 
-**Yves Tassé is his son.**^3 They are one of only four family relationships confirmed anywhere in this project, and the only one across generations rather than between siblings.
+**Yves Tassé is his son.**^3 They are one of only four family relationships confirmed anywhere in this project, and the only one across generations rather than between siblings — and the 1976 staff list has them on the payroll together, father as Maintenance Supervisor and son as Maintenance.^5
 
 His last surviving plaque appearance, the Staff of 1990, falls within a few years of his death.
 
@@ -38,9 +38,22 @@ And it describes his household. The camp had been trying for two years to enlarg
 
 So Yves, first named on a board in 1986, was one of four children living on the property in 1964.
 
+## The 1976 staff list
+
+The Director's Report for 1976 prints a full camp staff list with roles. Two lines of it settle two things at once:^5
+
+> **Jullen Tassé** — Maintenance Supervisor
+> **Yves Tassé** — Maintenance
+
+So the camp's own title for him was **Maintenance Supervisor**, not "caretaker" — which is what everyone called the job, and what the operator called it fifty years later. And **Yves was on the payroll in 1976**, ten years before the 1986 Advance Guard board on which this project first found him, and a year before he would have turned up in any plaque this wiki holds.
+
+He appears in every Kanawana director's report read so far — 1964, 1965, 1970, 1971, 1973, 1974, 1975, 1976 — usually in the same register. In 1970 he "once again did a fantastic job holding the camp together with chewing gum, etc." In 1971 the stables "were placed in excellent condition due to the work of Julien Tasse during pre-camp." In 1973: "Julien Tasse and his crew did their usual tremendous job of keeping our ageing facilities in top shape... How he ever manages to satisfy them all in addition to the regular work load and still keep smiling will always be a mystery to me." Two successive directors, in 1974 and 1975, close their annual reports by naming him and the office secretary Olga Hall as the two people they could not have done without.
+
 ## What the record does not have
 
-The paragraph that stood here until 2026-09-03 said that no document from the camp or the YMCA of Montreal named Tassé at all, and that everything known of him rested on four painted boards and one person's memory. That was wrong, and it was wrong in an instructive way: the 1964 annual report had been in this project's source list since before this article was written, and nobody had read it. The re-read that found it is recorded at [[meta/plaque-audit|the plaque audit]] and tracked as p_304.
+
+
+The paragraph that stood here until 2026-09-03 said that no document from the camp or the YMCA of Montreal named Tassé at all, and that everything known of him rested on four painted boards and one person's memory. That was wrong, and the scale of the error is now clear: he is named in **eight** Kanawana annual and director's reports, all of which had been in this project's source list, none of which had been read. The re-read that found them is tracked as p_304.
 
 What is still missing is most of a working life. No start or end date for his employment beyond "thirty-odd years." No photograph identified as him. No death record. No first-hand account of the man rather than the work. The four boards and the operator's memory are still the only sources for the shape of his tenure; what the 1964 report adds is one year of it, in detail, and proof that the documentary record was never as empty as this article claimed.
 
@@ -73,6 +86,7 @@ Naming it after him was fitting and, apparently, futile. The failure of the name
 2. Kanawana Flickr "Plaque" album: Advance Guard 1963, 1964 and 1986; the Staff of '79; the Staff of 1990 [src_flickr_kanawana_plaque_album]. See [f_1588], [f_1589], [f_1590], [f_1703], [f_1704].
 3. Oral history, Matt Aronson, 28 August 2026: Julien and Yves Tassé are father and son [src_oral_aronson_tasse_family]. See [f_2356].
 4. *Kamp Kanawana Annual Report 1964*, YMCA of Montreal [src_ia_kanawana_report_1964], sections "Flush Toilets", "Junior Waterfront" and "Caretaker's House". Full text cached at `sources/cache/ymca-montreal-fonds/1964-kamp-kanawana-annual-report.txt`. See [f_2387], [f_2393].
+5. *Kamp Kanawana Director's Report 1976* [src_ia_kanawana_directors_report_1976], staff list. See [f_2439]. Further appearances: the annual reports for 1965 [src_ia_kanawana_report_1965], 1970 [src_ia_kanawana_report_1970] and 1971 [src_ia_kanawana_report_1971], and the director's reports for 1973 [src_ia_kanawana_report_1973], 1974 [src_ia_kanawana_report_1974] and 1975 [src_ia_kanawana_report_1975].
 
 ## Research Notes
 

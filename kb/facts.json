@@ -1,8 +1,8 @@
 {
-  "version": "5.92",
-  "kb_version": "5.92",
+  "version": "5.96",
+  "kb_version": "5.96",
   "migrated_from": "3.3",
-  "fact_count": 2385,
+  "fact_count": 2404,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -41301,6 +41301,392 @@
       "date_ref": "1971",
       "conflicts_with": [],
       "added_version": "5.92",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_2424",
+      "claim": "DEREK WALSH'S FIRST SEASON ON THE KANAWANA STAFF WAS 1973, THE YEAR BEFORE HIS DIRECTORSHIP, and he had been a camper there long before. Leo J. Robitaille's 1973 report: 'The design and co-ordination of program was excellently handled by DEREK WALSH as was his supervision and operation of the camp in my absence. Derek had been a camper at Kanawana many years ago but was a newcomer on staff. In spite of this, his many years of experience in other camps in many capacities from camper, through C.I.T. to camp director plus his open personality made him well accepted by even the most senior of our staff.' Robitaille also records that Walsh put in 'many weeks of his own time... at the office and at home prior to camp'. This makes Walsh a camper-to-director progression across a gap of many years and several other camps, and dates his arrival on staff one year earlier than the directors index has it.",
+      "sources": [
+        "src_ia_kanawana_report_1973"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "Derek Walsh",
+        "Leo J. Robitaille"
+      ],
+      "date_ref": "1973",
+      "conflicts_with": [],
+      "added_version": "5.93",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_2425",
+      "claim": "THE 1973 KANAWANA STAFF, NAMED BY DEPARTMENT in Robitaille's report -- almost none of them previously in this knowledge base. SECTION DIRECTORS: four that year in place of two plus four head counsellors, 'a much better system'; the junior camp's were EVA MENZAK and BOB FYFE. HIKE AND TRIP: PERRY OLSHANSKY in his third year (senior counsellor, then section director, now Hike and Trip director), sent to the CANADIAN CANOE SCHOOL before camp where he took his Instructor's Certificate; Robitaille credits him with having 'pulled Kanawana back up to being one of the top camps in the country in terms of tripping, canoeing and camp craft'. AQUATICS: WENDELL WHITE (senior) and JANE BANNERMAN, both certified nationally in life-saving and swim instruction; White ran two Bronze courses for CITs and staff and a Royal Life Saving Society examiner came in to test them. SAILING: DAVE BENNET relating solely to sailing, with ERIC SMART of the Board of Management preparing the equipment and spending two weeks of his own vacation at camp training staff. ARTS AND CRAFTS: JAN CHARTRAND, with MOEZ SHABUDIN named for his artistry. BUSINESS OFFICE: CATHY BANNERMAN, who also co-ordinated the CITs. INFIRMARY: the hired nurse withdrew before the season, and the post was covered by a fourth-year medical student to 1 July, then KATHY MacLELLAN (the previous year's nursing assistant), then MRS. LESLIE BLISS, R.N., who had been Associate Business Manager the year before. OFFICE: MRS. OLGA HALL, whose 'continued loyalty over the years' had by then spanned 'four different Camp Directors'.",
+      "sources": [
+        "src_ia_kanawana_report_1973"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "Eva Menzak",
+        "Bob Fyfe",
+        "Perry Olshansky",
+        "Wendell White",
+        "Jane Bannerman",
+        "Dave Bennet",
+        "Eric Smart",
+        "Jan Chartrand",
+        "Cathy Bannerman",
+        "Olga Hall",
+        "Leslie Bliss",
+        "Kathy MacLellan"
+      ],
+      "date_ref": "1973",
+      "conflicts_with": [],
+      "added_version": "5.93",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_2426",
+      "claim": "KANAWANA HAD A FOURTEEN-BOAT SAILING FLEET BY 1973: seven 'Snarks', two 'Cadets', four two-man 'Arrows' new that year, and a 'Szabo' donated by Eric Smart of the Board of Management -- 'there were days this summer when almost all were out on the lake'. The masts of the new Arrows kept bending and the dealer replaced them, blaming badly tempered originals. The same season PERRY OLSHANSKY led an EXPLORATORY CANOE TRIP 'down Thirty-one Mile Lake through to Lake Pensichangan via some other small lakes... south of Maniwaki and east of the Gatineau', from which 'have been developed a number of alternative routes for a variety of age and skill groups' with easier drop-offs and pick-ups than the camp's traditional routes. This is a documented expansion of Kanawana's tripping geography that the wiki's canoe-trip coverage does not hold.",
+      "sources": [
+        "src_ia_kanawana_report_1973"
+      ],
+      "confidence": "stated",
+      "category": "programs",
+      "entities": [
+        "Eric Smart",
+        "Perry Olshansky",
+        "Thirty-one Mile Lake",
+        "Lake Pensichangan"
+      ],
+      "date_ref": "1973",
+      "conflicts_with": [],
+      "added_version": "5.93",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_2427",
+      "claim": "THE CIT PROGRAMME WAS RESTRUCTURED AGAIN IN 1973, its third design in five years: 'Instead of being a separate section, they were integrated and trained on-the-job in all areas of camp.' Robitaille reports it 'quite successful in its first year' and contrasts it bluntly with the previous summer, when CITs 'were considered parasites who were only evident in the staff lounge and who consumed everything in sight at staff snack (summer of 72)'. His recommendation for 1974 is nonetheless to 'have less C.I.T.s in camp'. Taken with 1969 (co-ed, work-learning dropped) and 1971 (CIT and Junior Counsellor titles merged), this is a programme redesigned three times in five years -- against a wiki treatment of the CIT line as continuous from its inception.",
+      "sources": [
+        "src_ia_kanawana_report_1973"
+      ],
+      "confidence": "stated",
+      "category": "programs",
+      "entities": [
+        "CIT programme"
+      ],
+      "date_ref": "1973",
+      "conflicts_with": [],
+      "added_version": "5.93",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_2428",
+      "claim": "KANAWANA'S CATERER CHANGED HANDS IN 1973 AND THE FOOD GOT WORSE. Robitaille: 'the meals were not nearly as consistently good as in previous years with INDUSTRIAL CATERERS. The firm changed names this year having been bought out by J. A. HUBERT AND SONS and they may have occasioned a change in policies.' The chef's supervisor, MR. TIMMINS, had previously visited weekly and came twice all season; the chef was absent more often; and the kitchen boys were hired by the chef in COWANSVILLE while being carried on the camp's payroll, which Robitaille believes diluted responsibility for supervising them. His recommendations: hire the kitchen boys from the Montreal office at the same time as the rest of the staff so they share the orientation, and 'spell out more clearly the chef's responsibility in the contract with whichever catering firm is dealt with'. Also from 1973: PRE-PRE-CAMP sessions were held in town on organisation, programme, first aid, psychology and naturelore, with BARRY BURROUGHS of St. John Ambulance, DR. GEORGE MAGER, a psychologist specialising in children and youth, and LES BORZORMENY, a biology teacher at Lindsay Place High School; Burroughs and Mager came free of charge. ROSS BANNERMAN gave a talk remembered as 'a high point of training camp'. The one consistently negative response was to a simulation game called 'STAR POWER' run by the YMCA's International Program Department, which staff found 'totally irrelevant... and only served to disrupt the unity which was forming amongst the staff'. JULIEN TASSE and his crew are credited for a fifth consecutive report.",
+      "sources": [
+        "src_ia_kanawana_report_1973"
+      ],
+      "confidence": "stated",
+      "category": "institutional",
+      "entities": [
+        "Industrial Caterers",
+        "J. A. Hubert and Sons",
+        "Barry Burroughs",
+        "George Mager",
+        "Les Borzormeny",
+        "Ross Bannerman",
+        "Julien Tasse"
+      ],
+      "date_ref": "1973",
+      "conflicts_with": [],
+      "added_version": "5.93",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_2429",
+      "claim": "KANAWANA'S 1974 REGISTRATION, BROKEN OUT BY SECTION AND SESSION -- the most granular attendance table this project holds for the 1970s. Camper weeks: JUNIOR GIRLS 44/72/48/64 = 228; JUNIOR BOYS 70/102/98/102 = 372; SENIOR GIRLS 72/94/80/70 = 316; SENIOR BOYS 68/94/92/94 = 348. Session totals 254, 362, 318, 330; grand total 1,264 camper weeks. Girls were 544 of 1,264 camper weeks, about 43%, up from 40% in 1971. A ten-year survey completed that year showed 1974 had the HIGHEST PERCENTAGE OF RETURNING CAMPERS IN A DECADE at 45.2% and the HIGHEST AVERAGE STAY at 2.9 weeks. Staff returnees were 72%. The report calls 1974 'the eighty-first year of Kamp Kanawana', again counting from 1894.",
+      "sources": [
+        "src_ia_kanawana_report_1974"
+      ],
+      "confidence": "stated",
+      "category": "attendance",
+      "entities": [
+        "Kamp Kanawana"
+      ],
+      "date_ref": "1974",
+      "conflicts_with": [],
+      "added_version": "5.94",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_2430",
+      "claim": "STUART McLEAN WAS A KANAWANA SECTION DIRECTOR IN 1971 AND ON STAFF FOR SEVERAL YEARS BEFORE THAT, per the 1974 director's report: 'The program was expertly handled by Stuart McLean. He was a Section Director in 71 and had been on staff for several years before that.' McLean was Assistant Kamp Director in 1974 and the director hoped he would return in 1975. This pushes the start of McLean's Kanawana staff career earlier than the 1969 date this wiki carries, and documents a section-director year the wiki does not record. The same report names the FOUR 1974 SECTION DIRECTORS -- EVA MENZAK, KERRY FINUCAN, KATHY MACLEAN and BOB FYFE -- and PAT MORROW of the Westmount Y's leader corps as head of the CIT programme, whose cohort took a bronze lifesaving course (all but two passing), a six-day canoe trip with Perry Olshansky, and a four-day theory session in which 'they planned Camp C.I.T. in detail'.",
+      "sources": [
+        "src_ia_kanawana_report_1974"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "Stuart McLean",
+        "Eva Menzak",
+        "Kerry Finucan",
+        "Kathy Maclean",
+        "Bob Fyfe",
+        "Pat Morrow"
+      ],
+      "date_ref": "1971-1974",
+      "conflicts_with": [],
+      "added_version": "5.94",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_2431",
+      "claim": "SENIOR CAMPERS BUILT AN OUTDOOR SAUNA ACROSS THE LAKE AT KANAWANA IN 1974, and repainted the Lodge. The director's report: 'We saw a group of senior kampers design and repaint the Lodge as well as the oldest senior boys building a terrific outdoor sauna across the lake. My thanks to the two staff involved JON GRIER and BILL FLASCHNER respectively for their enthusiasm and encouragement of these two projects.' Neither the sauna nor the practice of campers taking on camp improvements as programme appears in this project's site record. The same season ran 'each and every one of the 100 plus trips', including 'our first hike along the Aderandack Trail' -- the Adirondack Trail, apparently new to the camp that year -- under Hike and Trip Director PERRY OLSHANSKY in his second year in the post.",
+      "sources": [
+        "src_ia_kanawana_report_1974"
+      ],
+      "confidence": "stated",
+      "category": "site",
+      "entities": [
+        "Jon Grier",
+        "Bill Flaschner",
+        "Perry Olshansky",
+        "sauna",
+        "Adirondack Trail"
+      ],
+      "date_ref": "1974",
+      "conflicts_with": [],
+      "added_version": "5.94",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_2432",
+      "claim": "KANAWANA WAS ACCREDITED BY THE QUEBEC CAMPING ASSOCIATION AND INSPECTED ANNUALLY. The 1974 report: 'The Quebec Camping Association's representative, DR. ROBERT WILKINSON, again visited us this summer for their annual visit. Implementing most of the recommendations from last year's Q.C.A. visit, the kamp was in excellent order and should be, in my opinion, reaccredited with the Q.C.A.' Q.C.A. standards are also cited in the 1970 report as the benchmark Kanawana's tent spacing failed. Separately, Kanawana was ONE OF SIX CAMPS whose food service was studied in summer 1974 by three registered public-health nurses for a course at Loyola College, and 'the study indicated that we rated very high as compared to these other camps'. The head chef that year was MRS. MADELEINE WUNDELE; ED NEAL of the Downtown Y handled menus; the business office was run by KATHY MOFFAT; four different registered nurses passed through the infirmary, held together by assistant nurse PAM REYNOLDS.",
+      "sources": [
+        "src_ia_kanawana_report_1974"
+      ],
+      "confidence": "stated",
+      "category": "institutional",
+      "entities": [
+        "Quebec Camping Association",
+        "Robert Wilkinson",
+        "Madeleine Wundele",
+        "Ed Neal",
+        "Kathy Moffat",
+        "Pam Reynolds",
+        "Loyola College"
+      ],
+      "date_ref": "1974",
+      "conflicts_with": [],
+      "added_version": "5.94",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_2433",
+      "claim": "LES VOYAGEURS DE LA VERENDRYE, 1974: three trips -- 2-16 July with 18 participants, 22 July to 5 August with 8, and 22 July to 12 August with 11 -- directed by PAUL MONGRAW, 'again... after a year's absence'. The programme used new GRUMMAN aluminium canoes, 'excellent from every aspect', with the director asking for two more to bring the park fleet to eight. A separate 'WILDERNESS CAMP' also ran in 1974 with fewer campers than the year before, and the director doubts its viability: 'the income generated and the number of participants does not make it very feasible to continue but some study will be required in order to clarify its merits.' Staff were sent that year to the Q.C.A., the Canadian Canoe School and a VERMONT ECOLOGY COURSE, all judged worthwhile. The director closes by naming the two people from his twenty months with the YMCA he 'shall never forget': OLGA HALL and JULIEN TASSE, 'two of the most dedicated and honest people that I have ever worked with' -- Tasse's sixth consecutive appearance in these reports.",
+      "sources": [
+        "src_ia_kanawana_report_1974"
+      ],
+      "confidence": "stated",
+      "category": "programs",
+      "entities": [
+        "Les Voyageurs de la Verendrye",
+        "Paul Mongraw",
+        "Wilderness Camp",
+        "Olga Hall",
+        "Julien Tasse"
+      ],
+      "date_ref": "1974",
+      "conflicts_with": [],
+      "added_version": "5.94",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_2434",
+      "claim": "KANAWANA TOOK CHILDREN FROM AN ORPHANAGE AND FROM WEREDALE HOUSE IN 1975, and sponsored about twenty-five more. The director's report: 'This summer, we worked with 475 different children. The kampers came from many parts of Canada, the U.S., Europe and even a country that I've never heard of (Abu Dhabi). KANAWANA ACCEPTED CHILDREN FROM AN ORPHANAGE, WEREDALE HOUSE AND ALSO SPONSORED APPROXIMATELY 25 UNDERPRIVILEGED CHILDREN.' This is a direct operational link between Kanawana and Weredale House -- the Montreal boys' home whose own camp, Camp Weredale, this project treats as a separate institution connected to Kanawana only through the 1977-1982 two-site proposal and lease. Registration reached 1,356 camper weeks against a budget of 1,225, up from 1,264 in 1974 and 1,276 in 1973, with the camper returnee rate rising again to 46.8%. Programme staff average age rose to 21.25 from 19; the staff returnee rate was deliberately cut from 72% to 52%, with most new staff hired into senior posts.",
+      "sources": [
+        "src_ia_kanawana_report_1975"
+      ],
+      "confidence": "stated",
+      "category": "attendance",
+      "entities": [
+        "Weredale House",
+        "Kamp Kanawana"
+      ],
+      "date_ref": "1975",
+      "conflicts_with": [],
+      "added_version": "5.95",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_2435",
+      "claim": "KANAWANA'S 1975 INTEREST GROUPS, several of them new and none recorded here before. JAZZ DANCING, 'a new Interest group and was well received thanks to its Instructor, SONIA BARNES'. ORIENTEERING, attempted since 1973 and grown 'very rapidly' under GABY DUGUAY using maps from the MONTREAL ORIENTEERING ASSOCIATION -- 'over 150 different kampers participated and received certificates of participation'. DRAMA, created that year on demand, with about 30 campers preparing and presenting THREE ONE-ACT PLAYS. FOLK GUITAR, popular with a small number. Arts and Crafts under JAN CHARTRAND for a third year. NATURE LORE, of which the director writes: 'Once again, we failed miserably. I am convinced that a very experienced and skilled person is required.' Junior Waterfront ran for a second year under KATIE SHEAHAN. The CIT programme was directed by LYNNE ROBINSON, covering group work, THE HISTORY OF KANAWANA AND THE YMCA, on-the-job experience, a canoe trip and skills. Pre-camp training included a two-day session at the MONT ST. HILAIRE NATURE CONSERVATION CENTRE which 'clearly made an impression on our staff and generated a real concern and awareness for our natural environment'.",
+      "sources": [
+        "src_ia_kanawana_report_1975"
+      ],
+      "confidence": "stated",
+      "category": "programs",
+      "entities": [
+        "Sonia Barnes",
+        "Gaby Duguay",
+        "Jan Chartrand",
+        "Katie Sheahan",
+        "Lynne Robinson",
+        "Montreal Orienteering Association",
+        "Mont St. Hilaire"
+      ],
+      "date_ref": "1975",
+      "conflicts_with": [],
+      "added_version": "5.95",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_2436",
+      "claim": "KANAWANA WON EXCLUSIVE CANOE-TRIP ACCESS TO PARC JOLIETTE IN 1975. Hike and Trip Director DICK MISCHOOK, recruited that year and bringing route knowledge from POWTER'S CAMP, used Kanawana's own past trip logs with his own to cut the trucking distance needed to reach wilderness, and 'obtained exclusive permission for Kanawana to send canoe trips to Parc Joliette'. The camp's 1975 section directors were JUDY HARPER, SHEILA HAUGHTON, DENIS BASQUILL and JOHN PROCTOR; STUART McLEAN served his second year as Assistant Kamp Director. The Senior Waterfront Director was asked to leave during the fourth session after repeated attempts by the director and McLean to improve his working relationships failed -- recorded here as an institutional fact about the season without the individual's name.",
+      "sources": [
+        "src_ia_kanawana_report_1975"
+      ],
+      "confidence": "stated",
+      "category": "programs",
+      "entities": [
+        "Dick Mischook",
+        "Parc Joliette",
+        "Powter's Camp",
+        "Judy Harper",
+        "Sheila Haughton",
+        "Denis Basquill",
+        "John Proctor",
+        "Stuart McLean"
+      ],
+      "date_ref": "1975",
+      "conflicts_with": [],
+      "added_version": "5.95",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_2437",
+      "claim": "THE GREEN TRIANGLE WAS RUNNING AS KANAWANA'S BI-MONTHLY NEWSPAPER IN 1975, with FOUR ISSUES that year -- a period this project's Green Triangle corpus does not cover, holding issues from 1932-1940 plus 1976 and 1982. The 1975 promotion programme also included: a new brochure covering Kanawana, Les Voyageurs and the CIT programme, 7,000 printed and 3,200 distributed; Kanawana decals with every registered camper's information booklet; Kanawana postcards inserted in one Green Triangle issue; the cartoon camp map 'resurrected'; Christmas cards to former campers of the last three years; A KAMP KANAWANA REUNION IN MARCH ATTENDED BY OVER 200 KANAWANIANS; brochures distributed at Eaton's through the YMCA public relations department; advertisements in the Gazette, the Star and local papers; and a CBC radio interview with the Kanawana director given on behalf of the Quebec Camping Association.",
+      "sources": [
+        "src_ia_kanawana_report_1975"
+      ],
+      "confidence": "stated",
+      "category": "media",
+      "entities": [
+        "The Green Triangle",
+        "Eaton's",
+        "Quebec Camping Association"
+      ],
+      "date_ref": "1975",
+      "conflicts_with": [],
+      "added_version": "5.95",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_2438",
+      "claim": "'MEETING THE CHIEF' WAS A CHANGE-OVER RITUAL AT KANAWANA, named in the 1975 director's recommendations: 'Meeting the Chief is very boring for stay-over kampers (and staff). This could be done at the FARMHOUSE next year during our regular change-over procedure.' The same list proposes a TWO-YEAR CIT OR LEADER-IN-TRAINING PROGRAMME 'along the lines of the Hamilton Y's Camp Wanakita', because of 'the difficulty we and other camps have in relevant programming with 15 year olds' -- the earliest documented proposal for the two-tier CIT/LIT structure this wiki treats as long-standing. OTHER 1975 SITE FACTS: the Junior Waterfront, the wash areas and the 'carwash' system were replaced, the walk-in fridge rebuilt, and the lodge and staff lounge refinished and painted; the girls' section septic field was flagged as urgent. Exceptionally warm weather dropped the lake about a foot and raised its temperature some five degrees Fahrenheit, driving up the bacteria count and causing 'many colds, sore throats and ear aches'; the nurse was MRS. DIANE GRAY. The head chef was again MRS. MADELINE WUNDELE under ED NEAL of the Downtown Branch. JULIEN TASSE and OLGA HALL are thanked once more -- Tasse's seventh consecutive report.",
+      "sources": [
+        "src_ia_kanawana_report_1975"
+      ],
+      "confidence": "stated",
+      "category": "traditions",
+      "entities": [
+        "Meeting the Chief",
+        "Farmhouse",
+        "Camp Wanakita",
+        "Diane Gray",
+        "Julien Tasse",
+        "Olga Hall"
+      ],
+      "date_ref": "1975",
+      "conflicts_with": [],
+      "added_version": "5.95",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_2439",
+      "claim": "THE 1976 DIRECTOR'S REPORT CARRIES A COMPLETE KAMP KANAWANA STAFF LIST WITH ROLES -- about eighty-two people, the only full documented staff roster in this knowledge base for any year before the plaque era. The second half of the list survives the OCR with its role column intact and aligned, thirty-seven names to thirty-seven roles: Norman Lipplatt = Kitchen; Kathryn Livingstone = Senior Waterfront Director; Linda Long = Kitchen; Arlen Macfarlane = Truck Driver; Kathryn Maclean = Nurse; Gord MacPherson = Chef; Peter Meadows = Senior Boys Counsellor; Adele McKay = Junior Girls Counsellor; Dick Mischook = Hike & Trip Director; Russell Morley = Kitchen; Gary O'Brien = Truck Driver; David O'Donnell = Sailing Director; Wendy O'Donnel l = Business Office Assistant; Dave Ouellet = Senior Boys Counsellor; David Paltiel = Rover/Counsellor; Catharine Pelletier = Senior Girls Counsellor; Peter Porteous = Rover/Counsellor; Wendy Prince = Arts & Crafts Assistant; Stephen Reizes = Tripping Counsellor; Jeff Roberts = Les Voyageurs Director; Eric Sandmark = Kitchen; Peter Sandmark = Kitchen; Stewart Sandmark = Arts & Crafts Director; Nancy Sawyer = Tripper; Cheryl Scaife = Kitchen; Glenn Shevchenko = Tripper; Robin Siegerman = Senior Girls Counsellor; Abby Simons = Assistant Nurse; Kel th Stuart = Waterfront Auxiliary; Jullen Tassé = Maintenance Supervisor; Yves Tasse = Maintenance; Lisa Taylor = Rover/Counsellor; Diana Townson = Junior Girls Counsellor; Claire Turcot = Senior Girls Counsellor; Barry Vaux = Senior Boys Counsellor; Robert Wiltshire = Senior Boys Section Director; Robert Woodhouse = Les Voyageurs Tripper. The first half of the list preserves the names but its role column is broken across lines by the scan and cannot be aligned safely; those names are: Brian Arbuthnot, Jane Bannerman, John Bannerman, Dents Basqui!|, Steve Bauman, Daniel Beaudette, Seymour Blum, Claude Boucher, Helen Caravolas, Philip Ching, Leonard Chodat, Robert Darker, Stephen Davies, Susan Dean, Karin Deterding, Robert Dewar, Glen Dorey, Jeffrey Dubney, Andy Ellfot, Jenny England, David Erdely, Sandy Farr, Christine Faulkner, Marc Favreau, Kevin Forster, Nancy Fulford, Francine Gagne, Olga Hall, Reed Harris, David Hart, Cathy Hay, Kevin Holgate, Itche Kerr, Jory Kraus, Jacques Labelle, Burke Lawrence, Nancy Lester, Juntor, Juntfor, Juntor, Juntor, Juntor, Juntor, Senlor, Senlor. TWO ENTRIES SETTLE A LONG-RUNNING QUESTION: 'Jullen Tassé -- Maintenance Supervisor' and 'Yves Tasse -- Maintenance'. This is Julien Tasse's JOB TITLE in the camp's own words, and it puts YVES TASSE ON THE PAYROLL IN 1976, ten years before the 1986 Advance Guard board on which this project first found him.",
+      "sources": [
+        "src_ia_kanawana_directors_report_1976"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "Julien Tasse",
+        "Yves Tasse",
+        "Dick Mischook",
+        "David Paltiel",
+        "Stephen Reizes",
+        "Olga Hall",
+        "Itche Kerr"
+      ],
+      "date_ref": "1976",
+      "conflicts_with": [],
+      "added_version": "5.96",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_2440",
+      "claim": "KANAWANA'S 1976 TRIPPING SEASON RANGED FROM THE CAMP PROPERTY TO OTTAWA. The director's report: 'After over 14,000 miles on the Kamp van in 7 weeks, over 85 trips were sent out. These included the local trips on Kamp property to extensive canoe trips in such areas as PAPINEAU-LABELLE PARK, MANEWAN INDIAN RESERVATION, KEMPT LAKE, 31 MILE LAKE, back packing trips to MONT MARCY in Vermont and WAR CANOE TRIPS FROM MONT LAURIER TO OTTAWA and then OTTAWA TO MONTREAL.' The programme was strengthened by canoes and other equipment transferred from the WILDERNESS SURVIVAL CAMP, whose viability the 1974 report had already doubted. DICK MISCHOOK directed Hike and Trip for a second year.",
+      "sources": [
+        "src_ia_kanawana_directors_report_1976"
+      ],
+      "confidence": "stated",
+      "category": "programs",
+      "entities": [
+        "Dick Mischook",
+        "Papineau-Labelle",
+        "Manawan",
+        "Kempt Lake",
+        "Mont Laurier",
+        "Wilderness Survival Camp"
+      ],
+      "date_ref": "1976",
+      "conflicts_with": [],
+      "added_version": "5.96",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_2441",
+      "claim": "KANAWANA'S SWIM TEAM WON THE 1976 CAMP PEMBINA SWIM MEET against four other camps, coached by assistant director ANDY ELLIOT. The same report notes the season's one disappointment in that department: 'not one of our C.I.T.s completed the Bronze Lifesaving course' -- against 28 of 51 programme staff holding a Royal Life Saving Society bronze medallion or better. NEW INTEREST GROUPS IN 1976: JUDO, led by JEFF DUBNEY, the Westmount Y judo instructor, well received by a small number and needing sixteen mats rather than six to continue; and FOLK DANCING under CLAUDE BOUCHER and FRANCINE GAGNE, in which 'many kampers, particularly the girls, enjoyed learning many old French Canadian dances'. Orienteering continued under ROB DARKER with awards through the summer; drama under STEVE DAVIES and ROBIN SIEGERMAN; archery under KEVIN HOLGATE; naturelore 'improved greatly' under ADELE \\'MISTY\\' McKAY after years the reports call failures; arts and crafts under STEWART SANDMARK with WENDY PRINCE, covering paddle-making, bird and game carving, furniture, sketching, string art and macrame. Sailing under DAVE O'DONNELL added three more Snarks; canoeing under ROB DEWAR. Staff were sent to the Woodsmanship School and Canoe Tripper's School in Toronto and the Vermont Ecology School.",
+      "sources": [
+        "src_ia_kanawana_directors_report_1976"
+      ],
+      "confidence": "stated",
+      "category": "programs",
+      "entities": [
+        "Andy Elliot",
+        "Camp Pembina",
+        "Jeff Dubney",
+        "Claude Boucher",
+        "Francine Gagne",
+        "Rob Darker",
+        "Adele McKay",
+        "Stewart Sandmark",
+        "Dave O'Donnell",
+        "Rob Dewar"
+      ],
+      "date_ref": "1976",
+      "conflicts_with": [],
+      "added_version": "5.96",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_2442",
+      "claim": "THE KANAWANA DIRECTOR QUESTIONED THE LUMBERMEN-VOYAGEUR GAMES IN 1976: 'I and some other staff have doubts about the validity of the Lumbermen-Voyageur program. It is a very different style (i.e. ultra competition) of program as compared to the regular Kamp Kanawana programs. It also interfers with the best of the tripping season. Its continuing should be thoroughly discussed and decided this winter.' The same set of reflections asks for 'a group of staff' to make recommendations on how much co-educational programming the camp should run, records that staff struggled with eight-week campers and floats limiting stays to four weeks, and notes that after 'many years of experience with running Kanawana... we have not yet managed to develop a proper file of program resources and ideas.' Registration that year was 1,358 camper weeks against a budget of 1,250, with 480 different children from six provinces and seven countries and more than thirty underprivileged children sponsored by the YMCA; the camper returnee rate slipped to 44.8%, while programme staff averaged 21.6 years with a 63% returnee rate.",
+      "sources": [
+        "src_ia_kanawana_directors_report_1976"
+      ],
+      "confidence": "stated",
+      "category": "traditions",
+      "entities": [
+        "L&V Games",
+        "Kamp Kanawana"
+      ],
+      "date_ref": "1976",
+      "conflicts_with": [],
+      "added_version": "5.96",
       "added_by": "manual"
     }
   ]

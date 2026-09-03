@@ -9549,7 +9549,14 @@
         "src_oral_aronson_julien_tasse_caretaker",
         "src_flickr_kanawana_plaque_album",
         "src_oral_aronson_tasse_family",
-        "src_ia_kanawana_report_1964"
+        "src_ia_kanawana_report_1964",
+        "src_ia_kanawana_directors_report_1976",
+        "src_ia_kanawana_report_1965",
+        "src_ia_kanawana_report_1970",
+        "src_ia_kanawana_report_1971",
+        "src_ia_kanawana_report_1973",
+        "src_ia_kanawana_report_1974",
+        "src_ia_kanawana_report_1975"
       ],
       "open_questions": 5,
       "cross_links": [
@@ -9559,7 +9566,7 @@
         "people/directors-index"
       ],
       "file_id": null,
-      "word_count": 1480
+      "word_count": 1776
     }
   ],
   "article_count": 93
