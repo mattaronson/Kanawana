@@ -1,6 +1,6 @@
 # Named Places and Camp Vocabulary
 
-*Status: R3-verified | Sources: 7*
+*Status: R3-verified | Sources: 8*
 *Last Updated: 2026-09-02*
 
 ## Overview
@@ -19,7 +19,7 @@ It is also an architectural exception. This wiki records the Senior sections —
 
 The location matters, because that channel is already in this wiki from the other side: [[site/the-kanawana-site|the site article]] records the two lakes as "connected by a **dam** between Lake Kanawana and Lake Wilson that is ceremonially opened at the end of each season." The bridge, the dam and one of the camp's surviving seasonal rituals all sit at the same point on the property — and the 1998 five-kilometre swim, running Wilson Falls to Frogs Bog, passed through it. The name is a joke on the Suez Canal.
 
-The Knights of Kanawana charter's fifth challenge asks a candidate to "contribute something of permanence to camp — a substantial part of a totem pole, **or a bridge**," so camper-built bridges were an expected thing here; whether the Suez Bridge was one is not recorded.^2 See [[traditions/knights-of-kanawana|The Order of the Knights of Kanawana]].
+The Knights of Kanawana charter's fifth challenge asks a candidate to "contribute something of permanence to camp — a substantial part of a totem pole, **or a bridge**," so camper-built bridges were an expected thing here.^2 **And the campers did build this one.** The 1987 Director's Report records that "the entire senior boys section spent the second and third session rotating their time in razing and re-building the bridge across the Suez canal. Thousands of man hours were used in re-constructing the bridge."^8 The 1987 board reading "The Suez Bridge — Senior Boys '87" is therefore the roster of the section that rebuilt it. See [[traditions/knights-of-kanawana|The Order of the Knights of Kanawana]].
 
 **Frogs Bog.** The 1998 five-kilometre swim board maps its route as "Wilson Falls to Frogs Bog," glossing the two ends as Lake Wilson and Lake Kanawana.^1 The swim ran between the camp's two lakes; Frogs Bog is the camp's name for a feature at the Lake Kanawana end.
 
@@ -54,7 +54,7 @@ None of this dates the practice, and the Pathfinder paddle carries no year at al
 ## Open Questions
 
 1. [Nice-to-have, answered 2026-08-28] ~~What was the Sanctum?~~ The Senior Boys section cabin, mid-1990s to its demolition in 2007.^5 What remains open is *why* it was demolished, and whether the green shift was the reason.
-2. [Nice-to-have, answered 2026-08-28] ~~Where was the Suez Bridge?~~ Over the channel between the two lakes.^5 Whether it still stands, and whether campers built it, are still open.
+2. [Nice-to-have, answered 2026-08-28] ~~Where was the Suez Bridge?~~ Over the channel between the two lakes.^5 Campers built it — or at least rebuilt it — in 1987.^8 Whether it still stands is still open, as is what stood there before 1987.
 3. [Nice-to-have, largely answered 2026-09-03] ~~The Pathfinder paddle's six origins are undated.~~ 1964, on the match with that season's annual report.^7 The narrower question stands: was there a formal exchange arrangement? The report describes three English university students arriving "on a student chartered plane" for nine weeks, which sounds like an organised scheme rather than six unconnected hires, but does not name one.
 4. [Nice-to-have] Are there other section codes in use on the boards beyond SB, JG, B and SGC?
 
@@ -74,6 +74,7 @@ None of this dates the practice, and the Pathfinder paddle carries no year at al
 5. Oral history, Matt Aronson, 28 August 2026: the Sanctum, the Suez Bridge and Raku [src_oral_aronson_sanctum_suez_raku]. See [f_2351], [f_2352], [f_2353].
 6. Leonowicz, Ursula. "Rewilding childhood: How one summer camp is tackling nature-deficit disorder among Montreal youth." Postmedia Content Works (on behalf of YMCAs of Québec), 4 March 2026 [src_postmedia_nature_deficit_2026], as summarised in [[traditions/programs-activities|Programs and Activities]].
 7. *Kamp Kanawana Annual Report 1964*, YMCA of Montreal [src_ia_kanawana_report_1964], "Staff" section. See [f_2388], [f_2385].
+8. *Kamp Kanawana Director's Report 1987*, Jay Netherwood [src_ia_kanawana_report_1987], "Special Projects — Suez Bridge". See [f_2454].
 
 ## Research Notes
 

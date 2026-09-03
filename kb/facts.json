@@ -1,8 +1,8 @@
 {
-  "version": "5.99",
-  "kb_version": "5.99",
+  "version": "6.00",
+  "kb_version": "6.00",
   "migrated_from": "3.3",
-  "fact_count": 2414,
+  "fact_count": 2422,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -41865,6 +41865,151 @@
       "date_ref": "1979",
       "conflicts_with": [],
       "added_version": "5.99",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_2453",
+      "claim": "THE COUNCIL RING WAS RAZED AND REBUILT IN 1987, answering an open question council-ring.md has carried unanswered ('Does the Council Ring still exist in its 1929 form, or has it been rebuilt since?'). Jay Netherwood's 1987 director's report, under Special Projects: 'A senior boys tent lead by TOBY DESJARDINS spent a week during the fourth session razing and rebuilding a rotting council ring. The new council ring is better designed, larger and more aesthetic.' Toby Desjardins is on the 1984 CIT plaque, so this is a documented camper-to-senior-camper progression as well. The ring standing today is therefore a 1987 structure on the 1922 site, not the 1929 fabric.",
+      "sources": [
+        "src_ia_kanawana_report_1987"
+      ],
+      "confidence": "stated",
+      "category": "site",
+      "entities": [
+        "Council Ring",
+        "Toby Desjardins"
+      ],
+      "date_ref": "1987",
+      "conflicts_with": [],
+      "added_version": "6.00",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_2454",
+      "claim": "CAMPERS REBUILT THE SUEZ BRIDGE IN 1987, answering the open question in named-places-and-camp-vocabulary.md about whether the Suez Bridge was camper-built. The 1987 report: 'The entire senior boys section spent the second and third session rotating their time in RAZING AND RE-BUILDING THE BRIDGE ACROSS THE SUEZ CANAL. Thousands of man hours were used in re-constructing the bridge.' The Knights of Kanawana charter's fifth challenge asks a candidate to contribute 'something of permanence to camp - a substantial part of a totem pole, or a bridge'; here an entire section does it as a work project. The bridge photographed on the 1987 Senior Boys plaque -- 'The Suez Bridge - Senior Boys 87' -- is therefore the board of the section that built it, not merely a section that liked the spot.",
+      "sources": [
+        "src_ia_kanawana_report_1987",
+        "src_flickr_kanawana_plaque_album"
+      ],
+      "confidence": "stated",
+      "category": "site",
+      "entities": [
+        "Suez Bridge",
+        "Senior Boys"
+      ],
+      "date_ref": "1987",
+      "conflicts_with": [],
+      "added_version": "6.00",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_2455",
+      "claim": "KANAWANA'S ENVIRONMENTAL PROGRAMME BEGAN IN 1987, TWO DECADES BEFORE THE GREEN SHIFT. 'For the first time Kanawana hired a nature specialist, CHRIS ADAM, to introduce and develop an environmental program. The results were spectacular... it is socially imperative that we assist in the promotion of environmental literacy.' The nature room held 'at any given time, 75 different species of wildlife found at Kamp Kanawana from ants to meadow voles, from Jaws (our glutinous bullfrog) to Lee (our pet catfish)', and on visitors' days campers took their parents there first 'and they would teach their parents about our fragile world'. The same season the Junior Boys cordoned off a wood thrush nest and replanted an eroded area with a hundred seedlings under rock and leaf litter; the CITs relocated spruce and fir to a depleted part of the Junior Boys section and built a set of stairs and a retaining wall to stop topsoil loss; and Adam closed unnecessary paths that were 'acting as gullies during rainstorms'. CHRIS ADAM IS THE SAME PERSON who appears on the 1979 staff list and who received the Pip Alumni Award in 2017 as Director of the Sustainability Office at Dawson College -- a documented Kanawana career from 1979 counsellor to 1987 first naturalist to a life in environmental education.",
+      "sources": [
+        "src_ia_kanawana_report_1987"
+      ],
+      "confidence": "stated",
+      "category": "programs",
+      "entities": [
+        "Chris Adam",
+        "environmental education"
+      ],
+      "date_ref": "1987",
+      "conflicts_with": [],
+      "added_version": "6.00",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_2456",
+      "claim": "KANAWANA KEPT FARM ANIMALS IN 1987 AND JUDGED THE EXPERIMENT A FAILURE. 'Horses, sheep, goats, rabbits and chickens shared their summer with our campers for the first time at Kamp Kanawana.' The purpose was pedagogical: to build responsibility in junior campers by having them care for the animals, and to reduce homesickness, since 'animals are often easier to communicate to than are humans'. It failed for want of a staff member to run it -- 'while the kids visited the animals, the C.I.T.s took care of them' -- and the director recommends scrapping it and instead 'raising grouse for the summer... and release them on the last day of camp'. He credits the nature programme rather than the farm with easing homesickness.",
+      "sources": [
+        "src_ia_kanawana_report_1987"
+      ],
+      "confidence": "stated",
+      "category": "programs",
+      "entities": [
+        "farm program"
+      ],
+      "date_ref": "1987",
+      "conflicts_with": [],
+      "added_version": "6.00",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_2457",
+      "claim": "KANAWOODSTOCK WAS RUNNING IN 1987, six years before the earliest surviving object. plaque-culture.md holds three Kanawoodstock objects -- a wooden guitar dated 1993 or 1995, a guitar pick from 2000 and a drum head from 2009 -- and asks whether it was annual or occasional. The 1987 director's report lists it among the season's successes: 'The following are special events or themes that went exceptionally well: GLISSADE D'EAU, KANAWOODSTOCK, SECRET FRIENDS, GREEN TRIANGLE, THE LEGEND OF THE TIPI, KABARETS and THE CHICAGO COFFEE HOUSE.' The same passage records the camp's routine mini-programmes, almost none of which this project holds: 'Pony Express, Monk Meals, Letter Meals, Sneakouts, Twin Meals, Color Meals, Backward Meals, Tacky Meals, Mud Fights, Soap Fights, Record Breaking Day, Killer, Coffee Houses, Kanapyramid and countless other theme and mini-programs... carried out almost daily.' The all-camp days that year were Lumbermen and Voyageur, GREASE DAY, OLYMPIC DAY and 'Sir Kay, or Arthur's Lost Knight' -- of which the director writes 'slightly less than mediocre. Oh well, three out of four aren't bad.' NOTE: 'The Legend of the Tipi' is a named camp legend this project has never recorded.",
+      "sources": [
+        "src_ia_kanawana_report_1987"
+      ],
+      "confidence": "stated",
+      "category": "traditions",
+      "entities": [
+        "Kanawoodstock",
+        "Legend of the Tipi",
+        "Grease Day",
+        "Olympic Day"
+      ],
+      "date_ref": "1987",
+      "conflicts_with": [],
+      "added_version": "6.00",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_2458",
+      "claim": "KANAWANA RECRUITED BRITISH AND IRISH COUNSELLORS THROUGH BUNAC FROM 1987. 'The services of British Universities North American Club (BUNAC) were used for the first time last summer. This non-profit organization interviews 45,000 British university students, then selects 4,000 of the best for North American camps. This year four counsellors - 2 from England, 1 from Wales and 1 from Ireland - were hired. They were fabulous... While it involves hours of paperwork at Immigration and costs more than it does to hire a Canadian, I strongly recommend that this be done again.' This is a formal international recruitment channel, and it materially strengthens the thin evidence base that named-places-and-camp-vocabulary.md records for international staffing -- alongside the 1964 report's six-country section and the Pathfinder paddle it dates.",
+      "sources": [
+        "src_ia_kanawana_report_1987"
+      ],
+      "confidence": "stated",
+      "category": "institutional",
+      "entities": [
+        "BUNAC"
+      ],
+      "date_ref": "1987",
+      "conflicts_with": [],
+      "added_version": "6.00",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_2459",
+      "claim": "ACID RAIN WAS KILLING KANAWANA'S MAPLES BY 1987. The director's report, under Repair and Replacement: 'Many of our large maples are dead or dying and the Tasses must cut more down each year. At this rate, in 5-7 years there will be no large trees left and much of the woodsy feeling experienced at Kamp Kanawana will become one replaced by a feeling of camping in a field. While new trees are being planted, this must escalate. Trees which are resistant to acid rain should be identified and planted before next summer. This is essential to any long range thoughts of maintaining a residential camp.' OTHER 1987 SITE AND OPERATIONS FACTS: the Cave, the Hike and Trip equipment room, was stripped, scrubbed, painted and repaired in pre-camp, with new steps built by the packer PETER LOPATA. A new tent platform went up in the girls' section to end the 'nomadic lives' of the female junior counsellors; a road was extended from the Junior parking lot to the canoe dock slip; a removable hanging wall was built behind the workshop. Canvas tents were to be fire-proofed at $40 each across 25 tents. After five years with CLAUDE AND RICHARD CATERERS the food contract moved to the cafeteria service of the Centre-ville Y. 'As per usual JULIEN AND YVES held the camp together' -- both Tasses still on site in 1987, twenty-four years after Julien's first documented board.",
+      "sources": [
+        "src_ia_kanawana_report_1987"
+      ],
+      "confidence": "stated",
+      "category": "site",
+      "entities": [
+        "acid rain",
+        "Julien Tasse",
+        "Yves Tasse",
+        "Peter Lopata",
+        "The Cave"
+      ],
+      "date_ref": "1987",
+      "conflicts_with": [],
+      "added_version": "6.00",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_2460",
+      "claim": "THE 1987 REPORT'S SPECIAL THANKS LIST GATHERS FOUR DECADES OF KANAWANA IN ONE PLACE, and several of the names answer questions open elsewhere in this project. It thanks, for donated time or services: CHRIS ADAM; Avenue Video St-Sauveur; Canadian Crossroads International; Paul Capelli; Cap Espace; Roger Cloutier of Metropolitan Tire; KEITH FARQUHARSON -- who chaired the constituency survey on camping for girls recorded in the 1965 report; Ian Greg; Andre Herard; LINDSAY KERTLAND -- Lady Lindsay Kertland of the 1980 Knights roll; Claude Nault of Caterpillar; DAVE PALTIEL -- one of the two candidate identities behind 'Sir Dave Paltiel' on the Knights roll and 'David Paltiel' on the 1975 board and 1976 staff list; ROSS SEAMAN -- camp director 1959-1968; Vivian Turley; DEREK WALSH -- camp director 1974 to February 1979; and the West Island Association for the Handicapped. The director separately thanks CLAUDETTE GRENIER alongside Julien and Yves Tasse. Former directors, former knights and a 1965 committee chair were all still giving time to the camp in 1987.",
+      "sources": [
+        "src_ia_kanawana_report_1987"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "Keith Farquharson",
+        "Lindsay Kertland",
+        "Dave Paltiel",
+        "Ross Seaman",
+        "Derek Walsh",
+        "Claudette Grenier",
+        "Chris Adam"
+      ],
+      "date_ref": "1987",
+      "conflicts_with": [],
+      "added_version": "6.00",
       "added_by": "manual"
     }
   ]

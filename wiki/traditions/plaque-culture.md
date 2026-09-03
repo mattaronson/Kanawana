@@ -1,6 +1,6 @@
 # What the Plaques Say Besides Names
 
-*Status: R3-verified | Sources: 2*
+*Status: R3-verified | Sources: 3*
 *Last Updated: 2026-09-02*
 
 ## Overview
@@ -81,7 +81,7 @@ The boards draw on two visual vocabularies that do not mix:^1
 ## Open Questions
 
 1. [Nice-to-have, answered 2026-08-28] ~~Who was Raku?~~ Director Joanna A.A. Hoad's dog.^2 Whether there were other camp animals is still open — he is the only one on record.
-2. [Important] Was Kanawoodstock an annual event with three surviving objects, or an occasional one? The gaps between 1993/95, 2000 and 2009 are the whole question.
+2. [Important, advanced 2026-09-03] Was Kanawoodstock an annual event with three surviving objects, or an occasional one? **It was running in 1987**, six years before the earliest object — the Director's Report for that year lists it among the special events that "went exceptionally well," beside Glissade d'Eau, Secret Friends, the Green Triangle, The Legend of the Tipi, Kabarets and the Chicago Coffee House.^3 So the objects are a sample of a longer run, not the run itself. The gaps between 1987, 1993/95, 2000 and 2009 are gaps in what survived.
 3. [Important] What did the camp's use of Indigenous-derived imagery look like over time, and did it change? Three dated objects exist; nothing in the knowledge base discusses them.
 4. [Nice-to-have] The Wizard of Oz board's year and winning team could not be read even after contrast enhancement. Does anyone recall a Wizard of Oz Day?
 5. [Nice-to-have] How were cabins normally named? The Zodiac board suggests campers did it themselves, in a recorded act.
@@ -97,6 +97,7 @@ The boards draw on two visual vocabularies that do not mix:^1
 
 1. Kanawana Flickr "Plaque" album, all 151 images transcribed in the p_291 audit [src_flickr_kanawana_plaque_album]. Per-image records in `kb/plaque-audit/audit.jsonl`; the 1987 Arthurian day is separately from *Kamp Kanawana Director's Report 1987* [src_ia_kanawana_report_1987].
 2. Oral history, Matt Aronson, 28 August 2026 [src_oral_aronson_sanctum_suez_raku]. See [f_2353].
+3. *Kamp Kanawana Director's Report 1987*, Jay Netherwood [src_ia_kanawana_report_1987], "Programs — Mini Programs". See [f_2457].
 
 ## Research Notes
 
