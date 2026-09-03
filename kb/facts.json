@@ -1,8 +1,8 @@
 {
-  "version": "5.91",
-  "kb_version": "5.91",
+  "version": "5.92",
+  "kb_version": "5.92",
   "migrated_from": "3.3",
-  "fact_count": 2380,
+  "fact_count": 2385,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -41212,6 +41212,95 @@
       "date_ref": "1970",
       "conflicts_with": [],
       "added_version": "5.91",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_2419",
+      "claim": "KANAWANA'S DIRECTOR PROPOSED IN 1971 THAT THE CAMP LEAVE SAINT-SAUVEUR. His report's 'major recommendations' are four: (1) 'Kanawana program should focus specifically on hikes and canoe trips', cutting all other programme staff and equipment and cooking every meal out; (2) 'KANAWANA SHOULD MOVE THIS ASPECT OF ITS OPERATION 50-100 MILES FURTHER NORTH TO A SMALLER BASE CAMP SITE - buildings and program areas are no longer needed. The hiking areas around St. Sauveur are rapidly disappearing and our canoe trips are venturing this far north at the present moment'; (3) raise the minimum camper age to at least ten, leaving younger children to linked day camps; (4) keep 'Kanawana's present property... for experimental programs or rentals', with the budget surplus coming from rentals rather than the camp, and time freed for 'major renovations (i.e. rebuilding, winterizing, etc.)'. He adds that the Becsies property 'is over-run by locals and wandering youth. It should become a hostel in the north, or better, to sell it now and use the proceeds to equip our hikes and trips' -- and repeats the sale recommendation twice more. His premise: 'We began as a tripping camp and since then have continued to add to it. We are now at the extreme where we must concentrate on all the other program areas to the decline of our tripping quality... we have the experience, knowledge and understanding to operate the best tripping camp in Quebec if not in Canada.' Nothing in this wiki records that the camp's own director once proposed relocating it.",
+      "sources": [
+        "src_ia_kanawana_report_1971"
+      ],
+      "confidence": "stated",
+      "category": "history",
+      "entities": [
+        "Kamp Kanawana",
+        "Becsies",
+        "Saint-Sauveur"
+      ],
+      "date_ref": "1971",
+      "conflicts_with": [],
+      "added_version": "5.92",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_2420",
+      "claim": "KANAWANA'S 1971 REGISTRATION, SPLIT BY SEX -- the earliest such split in this knowledge base. BOYS: 743 camper weeks, 284 campers. GIRLS: 504 camper weeks, 197 campers. Girls were therefore about 41% of campers in the camp's fourth co-educational season, and stayed slightly less long on average (2.56 weeks against 2.62). The same report records that the riding programme was recommended for DISCONTINUATION as 'too expensive... for Kanawana at the present time', despite going 'extremely well' with trail rides, lunch rides and overnight trips for which 'special stalls were built at two locations on camp property'; and that Les Voyageurs de la Verendrye had its FIRST PERIOD CANCELLED that year, freeing its Park trippers to strengthen the camp's own hike and trip department.",
+      "sources": [
+        "src_ia_kanawana_report_1971"
+      ],
+      "confidence": "stated",
+      "category": "attendance",
+      "entities": [
+        "Les Voyageurs de la Verendrye",
+        "riding programme"
+      ],
+      "date_ref": "1971",
+      "conflicts_with": [],
+      "added_version": "5.92",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_2421",
+      "claim": "THE KANAWANA TRAINING CAMP WAS RESTRUCTURED IN 1971 TO ABOLISH THE CIT / JUNIOR COUNSELLOR DISTINCTION: 'Basically we did away with the Counsellor-in-Training and Junior Counsellor concept and called all those involved Junior Counsellors.' The programme was opened to enquirers who 'seemed like good prospects' for a one-month term, with a two-month term offered to known or outstanding candidates. The first month ran five days of skill sessions, five on a canoe trip or hike, four free, one working in section and one preparing with section staff, then a fortnight working in sections 'with same status as counsellors (except no swimming on hikes unless another counsellor was on hand)'; the second month reversed the emphasis. The director recommends the Training Camp 'pay full fees' and asks whether it should stay part of Kanawana at all or run as a separate leadership training programme for day-camp and resident-camp staff. This is a documented interruption in the CIT line that section-names.md and cit-lit-program.md treat as continuous from its inception.",
+      "sources": [
+        "src_ia_kanawana_report_1971"
+      ],
+      "confidence": "stated",
+      "category": "programs",
+      "entities": [
+        "CIT programme",
+        "Junior Counsellors",
+        "Training Camp"
+      ],
+      "date_ref": "1971",
+      "conflicts_with": [],
+      "added_version": "5.92",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_2422",
+      "claim": "KANAWANA'S 1971 PROMOTION AND THE FIRST PROPOSAL FOR AN ALUMNI ASSOCIATION. Promotion began the previous December with Christmas cards to all campers. 'Drench mailings' totalling 17,881 brochures and application forms went to named West Island and South Shore communities with counts per area -- Beaconsfield and Beaurepaire 4,547; Candiac 1,059; Brossard 2,810; Lachine West 2,741; Montreal West, N.D.G. 2,537; Hudson, Hudson Heights and R.R. #1 2,050; Como, Ste Anne de Bellevue, Senneville, Ste Marie Road, Baie d'Urfe 2,137 -- with a further 2,292 to YMCA branches, the Business Men's Club, 1969 and 1970 campers, Downtown Boys, Metro Board members and 'Northeastern U.S. Ys', and West Island Branch mailings to Cedar Park Heights, Lakeside Heights, Valois, Central Pointe Claire and Lakeside. A camper and staff reunion at the Westmount Branch on Sunday 16 May drew about 100 campers. TED PARKS, who edited the Montreal Star's 'Travelogue' section, gave Kanawana 'a very good write-up' on 1 May. THE REPORT RECOMMENDS 'the development of a double K double A group (KAMP KANAWANA ALUMNI ASSOCIATION)' for public relations and financial support -- the earliest proposal for an alumni body in this knowledge base, two decades before The Lookout alumni newsletter of 1993-94.",
+      "sources": [
+        "src_ia_kanawana_report_1971"
+      ],
+      "confidence": "stated",
+      "category": "media",
+      "entities": [
+        "Ted Parks",
+        "Kamp Kanawana Alumni Association",
+        "Montreal Star"
+      ],
+      "date_ref": "1971",
+      "conflicts_with": [],
+      "added_version": "5.92",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_2423",
+      "claim": "CONDITIONS AT KANAWANA IN 1971, from the director's report. NO DOCTOR IN RESIDENCE that year -- the nurse carried the load, and sick campers, 'sometimes 8 at one time', had to be driven to the doctor in St. Sauveur, with the standing decision of whether to wait for consulting hours there or drive on to St. Jerome or Montreal. 'After many futile attempts to secure permission to install a washing machine at camp we finally placed a second-hand wringer machine for the benefit of the staff. Until that time the staff had to travel to St. Sauveur to do their laundry.' The ball fields were 'still very dangerous with unlevel ground and large boulders protruding at irregular intervals', and staff levelled some of them by hand in their free time during pre-camp. JULIEN TASSE is named for the fourth consecutive report: the stables 'were placed in excellent condition due to the work of Julien Tasse during pre-camp'. Camper projects that summer included building bridges, clearing new and old trails, SOUNDING THE LAKE, survival hikes and candle-making. Pre-camp sent the two senior sections, male and female, separately on the PRESTON-SIMON TRIP. McGill University donated dehydrated food to the tripping programme. Staff reported feeling 'intrusion' from visiting lay resource people and the director warns of 'a growing split between the lay and staff groups'.",
+      "sources": [
+        "src_ia_kanawana_report_1971"
+      ],
+      "confidence": "stated",
+      "category": "site",
+      "entities": [
+        "Julien Tasse",
+        "Preston-Simon trip",
+        "McGill University"
+      ],
+      "date_ref": "1971",
+      "conflicts_with": [],
+      "added_version": "5.92",
       "added_by": "manual"
     }
   ]
