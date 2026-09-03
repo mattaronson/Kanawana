@@ -1,8 +1,8 @@
 {
-  "version": "5.86",
-  "kb_version": "5.86",
+  "version": "5.87",
+  "kb_version": "5.87",
   "migrated_from": "3.3",
-  "fact_count": 2346,
+  "fact_count": 2356,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -40625,6 +40625,182 @@
       "date_ref": "1932",
       "conflicts_with": [],
       "added_version": "5.86",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_2385",
+      "claim": "THE FOUR SECTION DIRECTORS OF 1964, none previously in this knowledge base, all school teachers by profession: STANLEY WASILEWSKI, Pathfinder section, completing his FIFTH year as a section director at Kanawana (so from 1960); KENNETH FELLOWS, Coureurs de Bois, second year; DAVE CADDELL, Woodsmen, first year; BOB DRUMMOND, Pioneer, first year. The report also names the camp's four sections in 1964 as Pathfinder, Coureurs de Bois, Woodsmen and Pioneer, and describes the camp's governing body as 'the Council (section directors, the assistant director and the director)', which met regularly to train, assess and plan.",
+      "sources": [
+        "src_ia_kanawana_report_1964"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "Stanley Wasilewski",
+        "Kenneth Fellows",
+        "Dave Caddell",
+        "Bob Drummond"
+      ],
+      "date_ref": "1964",
+      "conflicts_with": [],
+      "added_version": "5.87",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_2386",
+      "claim": "BEN T. HANNAN WAS ASSISTANT CAMP DIRECTOR OF KANAWANA IN 1964, his fifth year in that post and his FIFTEENTH on the Kanawana staff -- so continuously from about 1949. The 1964 report devotes a full paragraph to him: 'a unique and outstanding contribution... a warm outgoing personality and an ability to help that has endeared him to all... A school teacher by vocation, a Kanawanian by avocation.' He also gave the commentary at the camp's parent meetings. NOTE ON SPELLING AND IDENTITY: the Concordia finding aid lists 'Kanawana Reminiscence (of 1948), by Ben T. Hannah -- 1989', one letter different, and consistent with a staff career beginning in the late 1940s. This project also holds an article at people/rh-hanagan.md; whether these are one person, two, or three has not been tested.",
+      "sources": [
+        "src_ia_kanawana_report_1964"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "Ben T. Hannan",
+        "Ben T. Hannah"
+      ],
+      "date_ref": "1949-1964",
+      "conflicts_with": [],
+      "added_version": "5.87",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_2387",
+      "claim": "JULIEN TASSE IS NAMED THREE TIMES IN THE 1964 KANAWANA ANNUAL REPORT AS THE CAMP'S CARETAKER, doing the work himself: he installed the flush systems in the Pioneer Section and Staff toilets ('The actual installation was done by the camp caretaker, Julien Tasse'), and he rebuilt the Junior Wharf, which had been raised on the ice that winter, its main supports separated and beams rotted ('This was a major job, but the cost was minimum, Julien Tasse doing the work'). THE REPORT ALSO DOCUMENTS HIS FAMILY AND HIS HOUSING: 'As the Tasse family has increased, there are four children as well as Mr. & Mrs. Tasse the present home is completely inadequate.' An addition of a 20 x 20 kitchen and another bedroom plus an adequate furnace was costed at about $3,800, to be built by 'Julien and his assistant'. THIS DISPROVES A CENTRAL CLAIM OF people/julien-tasse.md, which stated that no document from the camp or the YMCA of Montreal named him at all and that everything known rested on four painted boards and one person's memory.",
+      "sources": [
+        "src_ia_kanawana_report_1964"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "Julien Tasse",
+        "Yves Tasse"
+      ],
+      "date_ref": "1964",
+      "conflicts_with": [],
+      "added_version": "5.87",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_2388",
+      "claim": "THE UNDATED PATHFINDER SECTION PADDLE IS ALMOST CERTAINLY FROM 1964. The plaque audit recorded a Pathfinder paddle carrying, beside its roster, a column of six ORIGINS -- Australia, England, Holland, Cape Breton, France, Virginia -- with the names themselves abraded past reading, and named-places-and-camp-vocabulary.md carries it as an open question ('undated... which era of the camp do they belong to?'). The 1964 annual report describes exactly this: 'In one section alone six different countries were represented on the staff, one from Holland, one from Poland, three from England, one from France, one from Australia and of course from Canada', and separately that staff came 'from as far east in Canada as Cape Breton Island to Toronto in the west and as far south as Virginia in the United States.' Australia, England, Holland, France, Cape Breton and Virginia are the paddle's six. Stanley Wasilewski was Pathfinder section director in 1964. The report adds that three of the English staff 'came to Canada on a student chartered plane and stayed nine weeks in camp before making a tour of parts of Canada and the United States.'",
+      "sources": [
+        "src_ia_kanawana_report_1964",
+        "src_flickr_kanawana_plaque_album"
+      ],
+      "confidence": "inferred",
+      "category": "site",
+      "entities": [
+        "Pathfinder Section",
+        "Stanley Wasilewski"
+      ],
+      "date_ref": "1964",
+      "conflicts_with": [],
+      "added_version": "5.87",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_2389",
+      "claim": "KANAWANA'S 1964 SEASON IN NUMBERS, from its own annual report -- the seventy-first season, the camp dating itself from 1894. 535 boys attended. About two thirds stayed two weeks, 131 stayed four weeks, 12 stayed six weeks and 20 stayed the entire season. Camp population at peak was about 390 people, with roughly 300 fed daily. Thirty-one counsellors, average age 19.8 years, up 1.2 years on 1962; eighteen (60%) were university students and three were graduates; average salary $173 against a range of $100 to $280, with six over $200; nine had been Kanawana counsellors before. The camp missed its budget of 1,530 camper weeks and ran a deficit; about 50% of campers returned each year, so roughly 250 new campers had to be recruited annually to make budget.",
+      "sources": [
+        "src_ia_kanawana_report_1964"
+      ],
+      "confidence": "stated",
+      "category": "attendance",
+      "entities": [
+        "Kamp Kanawana"
+      ],
+      "date_ref": "1964",
+      "conflicts_with": [],
+      "added_version": "5.87",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_2390",
+      "claim": "KANAWANA BOUGHT ABOUT 120 ACRES AT THE SOUTH END OF LAKE WILSON IN 1964, AND ONE LOT JOINTLY WITH THE BOY SCOUTS. The annual report: part of lot 215 and lots 216 and 217, Parish of St. Sauveur, 'acquired to protect Lake Wilson'. LOT 215 WAS PURCHASED IN CO-OPERATION WITH THE BOY SCOUT ASSOCIATION, CAMP TAMARACOUTA, and 'the acquisition of this lot joins the property of the two camps'. Lots 216 and 217 were bought outright to stop a proposed summer colony of some 200 lots, whose developer held enough land at the outlet of Lake Wilson to offer water rights on the lake to purchasers; two lots of 100 x 50 feet had already been sold and the camp was trying to buy those back. After the purchase 'the Kanawana property now extends over approximately 1,000 acres.'",
+      "sources": [
+        "src_ia_kanawana_report_1964"
+      ],
+      "confidence": "stated",
+      "category": "site",
+      "entities": [
+        "Lake Wilson",
+        "Camp Tamaracouta",
+        "Boy Scout Association"
+      ],
+      "date_ref": "1964",
+      "conflicts_with": [],
+      "added_version": "5.87",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_2391",
+      "claim": "CAMPER ORIGINS AT KANAWANA IN 1964, from the annual report: campers came from the Bahamas and the U.S.A.; two boys from Japan whose fathers were posted to Montreal with I.C.A.O. (the International Civil Aviation Organization); and one from Haiti 'his father being the commander of the army of that country'. The Japanese boys' counsellor was from Malaysia and spoke four eastern languages, none of them Japanese. The report notes an increasing number of French campers 'many of whom are sent to Kanawana to learn English', and 'many new Canadian boys at the camp from such countries as Hungary, Holland, Germany, France and Italy.' It also records, as an institutional observation, that the opening of a new YMHA camp had made no difference to the number of Jewish boys attending.",
+      "sources": [
+        "src_ia_kanawana_report_1964"
+      ],
+      "confidence": "stated",
+      "category": "attendance",
+      "entities": [
+        "Kamp Kanawana"
+      ],
+      "date_ref": "1964",
+      "conflicts_with": [],
+      "added_version": "5.87",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_2392",
+      "claim": "KANAWANA'S 1964 PROMOTION PROGRAMME, in detail the wiki has for no other year. A new folder covering Kanawana, Les Voyageurs, Training Camp and Family Camp plus brief information on Otoreke and the Branch Day Camps; 6,500 distributed by mail and through YMCA branches. Information notebooks for each branch office secretary. A write-up and advertisement in the Montreal Star's camping supplement in late May. Advertisements in eight local papers: the Westmount Examiner, Verdun Guardian, NDG Monitor, Montreal West News, Cote St. Luc News, Lachine Messenger, Lakeshore News and Town of Mount Royal Post. DONALD MCKAY worked on promotion through the branches for about six weeks. A television interview on CFCF's 'Like Young' programme gave two Voyageurs about three minutes on air. Radio station CJAD carried spot announcements worth $1,360 as a community service, and the Director gave two half-hour interviews with DORIS CLARK on her CJAD afternoon show, on the value of camping rather than on Kanawana itself. Crests and a cartoon map of the camp property were sent to each camper on registration. A camp reunion was held in January. Five parent meetings ran monthly from February to June, with slides and a commentary by Ben Hannan; three visiting days drew about 150 visitors.",
+      "sources": [
+        "src_ia_kanawana_report_1964"
+      ],
+      "confidence": "stated",
+      "category": "media",
+      "entities": [
+        "Donald McKay",
+        "Doris Clark",
+        "CJAD",
+        "CFCF",
+        "Montreal Star"
+      ],
+      "date_ref": "1964",
+      "conflicts_with": [],
+      "added_version": "5.87",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_2393",
+      "claim": "KANAWANA PLANT AND INFRASTRUCTURE IN 1964, from the annual report. All camp toilets became flush that year, the last two units costing about $1,000. A new compressor replaced a fridge unit installed some fifteen years earlier, and there was no food spoilage that season. Ice had undermined the cement deck at the west end of the senior swimming wharf to the point where the high dive was in danger of collapsing; holes were punched in the decking and six tons of concrete poured. The filtration plant, installed about fifteen years earlier and never overhauled, was passing sand by the closing weeks. A new electric chlorinator was installed. Both 200-gallon galvanized hot-water storage tanks were failing. Tents were upgraded from 12 x 14 wall tents to 16 x 14, requiring larger platforms at negligible extra cost. FRANK NOBBS drew the plan for the proposed addition to the Caretaker's House. A wash house with propane instant heaters was recommended for the Pioneer and Woodsmen sections at about $1,000, because the camp's only showers drew hot water from the kitchen supply and could be used just at certain hours.",
+      "sources": [
+        "src_ia_kanawana_report_1964"
+      ],
+      "confidence": "stated",
+      "category": "site",
+      "entities": [
+        "Frank Nobbs",
+        "Julien Tasse"
+      ],
+      "date_ref": "1964",
+      "conflicts_with": [],
+      "added_version": "5.87",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_2394",
+      "claim": "KANAWANA'S GOVERNANCE AND MONEY IN 1964: seven members of the Camp Committee visited during the summer; ROY LOCKE and DON DEWAR made a two-day visit and spoke with staff. AL DICKINSON was Financial Secretary of the Montreal YMCA and had met the camp about its finances that year; the report recommends the camp committee take the question to the Metropolitan Property & Finance Committee 'in order that the camps may embark upon a realistic policy for financing the operations.' The report recommends a permanent business manager covering three operations -- Kamp Kanawana, Family Camp and Les Voyageurs -- after two years of unsatisfactory seasonal appointments, and a $5.00 per week fee increase for 1965. The National Employment Service told the camp it could not find a second cook willing to work for $30 a week and that $50 to $70 would be needed.",
+      "sources": [
+        "src_ia_kanawana_report_1964"
+      ],
+      "confidence": "stated",
+      "category": "institutional",
+      "entities": [
+        "Roy Locke",
+        "Don Dewar",
+        "Al Dickinson"
+      ],
+      "date_ref": "1964",
+      "conflicts_with": [],
+      "added_version": "5.87",
       "added_by": "manual"
     }
   ]

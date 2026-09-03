@@ -9447,7 +9447,8 @@
         "src_oral_aronson_rangers_wolf_lineage",
         "src_oral_aronson_wolf_rank",
         "src_oral_aronson_sanctum_suez_raku",
-        "src_postmedia_nature_deficit_2026"
+        "src_postmedia_nature_deficit_2026",
+        "src_ia_kanawana_report_1964"
       ],
       "open_questions": 4,
       "cross_links": [
@@ -9458,7 +9459,7 @@
         "people/multi-year-index"
       ],
       "file_id": null,
-      "word_count": 1497
+      "word_count": 1656
     },
     {
       "article_id": "plaque-culture",
@@ -9547,7 +9548,8 @@
       "sources_cited": [
         "src_oral_aronson_julien_tasse_caretaker",
         "src_flickr_kanawana_plaque_album",
-        "src_oral_aronson_tasse_family"
+        "src_oral_aronson_tasse_family",
+        "src_ia_kanawana_report_1964"
       ],
       "open_questions": 5,
       "cross_links": [
@@ -9557,7 +9559,7 @@
         "people/directors-index"
       ],
       "file_id": null,
-      "word_count": 1049
+      "word_count": 1480
     }
   ],
   "article_count": 93

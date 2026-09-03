@@ -1,7 +1,7 @@
 # Julien Tassé
 
-*Status: R3-verified | Sources: 3*
-*Last Updated: 2026-09-02*
+*Status: R3-verified | Sources: 4*
+*Last Updated: 2026-09-03*
 
 ## Overview
 
@@ -28,11 +28,23 @@ Read as a camper's record this looks impossible — a boy in 1963 who is still t
 
 His last surviving plaque appearance, the Staff of 1990, falls within a few years of his death.
 
+## The 1964 annual report
+
+The camp's own annual report for 1964 names him three times, and it names him doing the work.^4
+
+When the last two blocks of flush toilets went in that year — completing the conversion of every toilet at camp — the report records that "the actual installation was done by the camp caretaker, **Julien Tasse**." When the Junior Wharf was lifted by winter ice, its main supports separated and its beams rotted, the rebuild was "a major job, but the cost was minimum, **Julien Tasse** doing the work."
+
+And it describes his household. The camp had been trying for two years to enlarge the Caretaker's House, and the reason is given plainly: "As the **Tasse family** has increased, there are **four children as well as Mr. & Mrs. Tasse**, the present home is completely inadequate." **Frank Nobbs** drew a plan adding a 20-by-20 kitchen and another bedroom; with an adequate furnace it was costed at about $3,800, and "Julien and his assistant would do the actual construction." The report calls it "an essential addition." Whether it was ever built is not recorded here.
+
+So Yves, first named on a board in 1986, was one of four children living on the property in 1964.
+
 ## What the record does not have
 
-Almost everything. No first-hand account of his work survives here, no dates for the start or end of his employment beyond "thirty-odd years," no photograph identified as him, and no document from the camp or the YMCA of Montreal naming him at all. Everything above rests on four painted boards and one person's memory.
+The paragraph that stood here until 2026-09-03 said that no document from the camp or the YMCA of Montreal named Tassé at all, and that everything known of him rested on four painted boards and one person's memory. That was wrong, and it was wrong in an instructive way: the 1964 annual report had been in this project's source list since before this article was written, and nobody had read it. The re-read that found it is recorded at [[meta/plaque-audit|the plaque audit]] and tracked as p_304.
 
-That gap is worth stating rather than smoothing over. A caretaker is the person who is present when nobody else is — through the winters, between the seasons, across the directors who came and went in four-to-six-year stretches. The camp's own records preserve the directors in detail and the man who kept the place standing not at all.
+What is still missing is most of a working life. No start or end date for his employment beyond "thirty-odd years." No photograph identified as him. No death record. No first-hand account of the man rather than the work. The four boards and the operator's memory are still the only sources for the shape of his tenure; what the 1964 report adds is one year of it, in detail, and proof that the documentary record was never as empty as this article claimed.
+
+That gap is still worth stating rather than smoothing over. A caretaker is the person who is present when nobody else is — through the winters, between the seasons, across the directors who came and went in four-to-six-year stretches. The camp's own records preserve the directors in narrative and the man who kept the place standing in the maintenance line items.
 
 ## The dining hall
 
@@ -42,11 +54,11 @@ Naming it after him was fitting and, apparently, futile. The failure of the name
 
 ## Open Questions
 
-1. [Important] When did Tassé start and finish as caretaker? "More than thirty years" and a death around 1992–95 imply a start in the early 1960s, consistent with the 1963 Advance Guard board — but this is arithmetic, not evidence.
-2. [Important] Is there any documentary trace of him? The YMCA of Montreal fonds at Concordia hold staffing records for parts of this period; a caretaker may appear in payroll, property or maintenance files rather than in programme records, which is where searches have so far looked.
+1. [Important] When did Tassé start and finish as caretaker? "More than thirty years" and a death around 1992–95 imply a start in the early 1960s, consistent with the 1963 Advance Guard board — but this is arithmetic, not evidence. The Kanawana annual and director's reports for 1965, 1966, 1969, 1970, 1971 and 1973–79 are all cached and unread; each is likely to name the caretaker in its maintenance sections, and read together they would give the tenure directly rather than by inference.
+2. ~~[Important] Is there any documentary trace of him?~~ **[Answered 2026-09-03]** Yes — the 1964 annual report, above. The remaining question is narrower: The YMCA of Montreal fonds at Concordia hold staffing records for parts of this period; a caretaker may appear in payroll, property or maintenance files rather than in programme records, which is where searches have so far looked.
 3. [Important] Was the renaming of the dining hall formal — a board resolution, a plaque, a dedication? If a physical dedication plaque exists it would be the only object in the camp naming him outright, and it is not among the 151 photographed.
 4. [Nice-to-have] Exact death date. The range 1992–95 is as given.
-5. [Nice-to-have] Did other family members work at camp? "The Tassé's" is plural in 1979, seven years before Yves is first named.
+5. [Important] Who were the other three children? The 1964 report puts four Tassé children on the property; only Yves is named on any board. "The Tassé's" is plural on the 1979 staff board, seven years before Yves is first named on his own.
 
 ## Related Articles
 
@@ -60,6 +72,7 @@ Naming it after him was fitting and, apparently, futile. The failure of the name
 1. Oral history, Matt Aronson, 28 August 2026: Tassé as caretaker, his death c. 1992–95, and the dining-hall renaming [src_oral_aronson_julien_tasse_caretaker]. See [f_2357], [f_2358].
 2. Kanawana Flickr "Plaque" album: Advance Guard 1963, 1964 and 1986; the Staff of '79; the Staff of 1990 [src_flickr_kanawana_plaque_album]. See [f_1588], [f_1589], [f_1590], [f_1703], [f_1704].
 3. Oral history, Matt Aronson, 28 August 2026: Julien and Yves Tassé are father and son [src_oral_aronson_tasse_family]. See [f_2356].
+4. *Kamp Kanawana Annual Report 1964*, YMCA of Montreal [src_ia_kanawana_report_1964], sections "Flush Toilets", "Junior Waterfront" and "Caretaker's House". Full text cached at `sources/cache/ymca-montreal-fonds/1964-kamp-kanawana-annual-report.txt`. See [f_2387], [f_2393].
 
 ## Research Notes
 
