@@ -69,6 +69,37 @@ GROUP_ROLE = {'Staff':'Staff','CIT':'CIT','LIT':'LIT','JC':'JC','Rangers':'Range
  'Advance Guard':'Member','Canoe Staff':'Staff','Sailing Staff':'Staff'}
 
 ALIASES = {  # justified in the audit record; nothing here is a guess
+ # --- Staff of '79: the plaque read against the camp's own typed staff list ---
+ # The 1979 Director's Report prints the season's full staff roster. Set beside
+ # the staff-1979 plaque transcription it resolves twenty-odd painted names that
+ # the audit had read phonetically. Every pair below is one person on one board,
+ # confirmed by a second document, not a similarity guess.
+ 'allan iundall':'allan gandall','allan gandall':'allan gandall',
+ 'ann jourdeau':'ann gourdeau','ann gourdeau':'ann gourdeau',
+ 'aylene tickeawin':'aylene mckeown','aylene mckeown':'aylene mckeown',
+ 'bob bierman':'bob bluman','bob bluman':'bob bluman',
+ 'carola hayrey':'carola haney','carola haney':'carola haney',
+ 'cheryl scoff':'cheryl scaife','cheryl scaife':'cheryl scaife','chery scaife':'cheryl scaife',
+ 'johanna gallir':'johanna galler','johanna galler':'johanna galler',
+ 'john pisrosaro':'john pierosara','john pierosara':'john pierosara',
+ 'josie denis':'josee denis','josee denis':'josee denis',
+ 'jurnette penwarn':'jeannette penwarn','jeannette penwarn':'jeannette penwarn',
+ 'karin reichel':'karen reichel','karen reichel':'karen reichel',
+ 'kevin fowler':'kevin forster','kevin forster':'kevin forster',
+ 'kevin mcilrath':'kevin mcgrath','kevin mcgrath':'kevin mcgrath',
+ 'larry lacy':'larry lacey','larry lacey':'larry lacey',
+ 'paul schneiderist':'paul schneidereit','paul schneidereit':'paul schneidereit',
+ 'pippa hobbs':'pippa hobbes','pippa hobbes':'pippa hobbes',
+ 'renu cosgrove':'renee cosgrove','renee cosgrove':'renee cosgrove',
+ 'robyn chalmers':'robyn chaloner','robyn chaloner':'robyn chaloner',
+ 'steve weeks':'stephen wells','stephen wells':'stephen wells',
+ 'therese maxim':'therese marin','therese marin':'therese marin',
+ 'yizhi cagalino':'isabella casalino','isabella casalino':'isabella casalino',
+ 'jeff lorette':'jeff surette','jeff surette':'jeff surette',
+ 'dave bennett':'david bennet','david bennet':'david bennet',
+ 'carole bell':'carol bell','carol bell':'carol bell',
+ 'jim pelton':'james pelton','james pelton':'james pelton',
+ 'julian tasse':'julien tasse',
  'matt hamerman':'matt hamerman','matthew hammerman':'matt hamerman',
  'matt wiviott':'matt wiviott','matthew wiviott':'matt wiviott','matt iviott':'matt wiviott',
  'evan frankel':'evan frankel','evan frenkel':'evan frankel',
@@ -115,6 +146,20 @@ ALIASES = {  # justified in the audit record; nothing here is a guess
 # entry was resolved against a specific board during the p_291 audit, not
 # chosen for looking tidier.
 PREFERRED = {
+ # Staff of '79, corrected against the camp's own typed roster in the 1979
+ # Director's Report. The plaque readings were phonetic; these are the names.
+ 'allan gandall':'Allan Gandall','ann gourdeau':'Ann Gourdeau',
+ 'aylene mckeown':'Aylene McKeown','bob bluman':'Bob Bluman',
+ 'carola haney':'Carola Haney','cheryl scaife':'Cheryl Scaife',
+ 'johanna galler':'Johanna Galler','john pierosara':'John Pierosara',
+ 'josee denis':'Josee Denis','jeannette penwarn':'Jeannette Penwarn',
+ 'karen reichel':'Karen Reichel','kevin forster':'Kevin Forster',
+ 'kevin mcgrath':'Kevin McGrath','larry lacey':'Larry Lacey',
+ 'paul schneidereit':'Paul Schneidereit','pippa hobbes':'Pippa Hobbes',
+ 'renee cosgrove':'Renee Cosgrove','robyn chaloner':'Robyn Chaloner',
+ 'stephen wells':'Stephen Wells','therese marin':'Therese Marin',
+ 'isabella casalino':'Isabella Casalino','jeff surette':'Jeff Surette',
+ 'david bennet':'David Bennet','carol bell':'Carol Bell','james pelton':'James Pelton',
  'sally watt':'Sally Watt',                 # confirmed from the 1983 paddle in senior-boys-1987.jpg
  'matt wiviott':'Matt Wiviott',             # 'Iviott' loses the W against the paddle grain
  'reiko webster':'Reiko Webster',

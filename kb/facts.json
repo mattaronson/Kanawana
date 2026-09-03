@@ -1,8 +1,8 @@
 {
-  "version": "5.96",
-  "kb_version": "5.96",
+  "version": "5.99",
+  "kb_version": "5.99",
   "migrated_from": "3.3",
-  "fact_count": 2404,
+  "fact_count": 2414,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -41687,6 +41687,184 @@
       "date_ref": "1976",
       "conflicts_with": [],
       "added_version": "5.96",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_2443",
+      "claim": "KANAWANA BEGAN AN $850,000 TWO-SITE RECONSTRUCTION OF ITSELF IN 1977-78, and this project has no record of it. The 1977 director's report opens: 'This year is a turning point for dear old Kanawana. THE BULLDOZERS HAVE STARTED WORK FOR THE NEW YEAR ROUND SITE. As this is the last year of K.K. as we've known it...' The plan, refined that year by the Branch Building Committee: '1978 will initiate a TWO SITE OPERATION. The present site will have 98 senior kampers while the NEW YEAR ROUND SITE, AT THE WEST END OF LAKE KANAWANA BEYOND FAREWELL ROCK, will house 98 juniors.' Work under way in 1977: 'renovation of block house and farm house; enclosing and renovating the dining hall; relocating tent platforms in the new and old sites; erecting a new shower building in the senior section', with further buildings 'relocated or demolished' over the winter. 'By June 1978 the new site will be in operation with FOUR DOUBLE SELF-CONTAINED LIVING UNITS, SIX TENT PLATFORMS AND A LARGE MULTI-PURPOSE DINING-RECREATION HALL. The project will cost approximately $850,000. We have hired three additional fulltime maintenance people to assist in carrying out of the above work.' A group of staff visited three YMCA year-round camps in the United States that summer 'from an architectual, engineering and program standpoint'. NOTE: this is a DIFFERENT two-site plan from the 1977-1980 Kanawana-Weredale proposal this wiki documents; the two run in the same years and should not be conflated.",
+      "sources": [
+        "src_ia_kanawana_report_1977"
+      ],
+      "confidence": "stated",
+      "category": "site",
+      "entities": [
+        "Farewell Rock",
+        "Blockhouse",
+        "Farmhouse",
+        "Branch Building Committee"
+      ],
+      "date_ref": "1977-1978",
+      "conflicts_with": [],
+      "added_version": "5.97",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_2444",
+      "claim": "THE FARMHOUSE AND BLOCKHOUSE WERE RENOVATED AS PART OF THE 1977-78 YEAR-ROUND PROJECT. the-kanawana-site.md describes them only as they are today -- 'winterized facilities with fully equipped kitchens, living space, bathrooms, showers, and electricity' in Front Camp -- with no date or origin. The 1977 director's report lists 'renovation of block house and farm house' as work in progress that autumn, alongside enclosing the dining hall, and states that the winterised year-round site would be operating by June 1978. The camp's winterised buildings therefore date, at least in their current form, from a deliberate 1977-78 conversion to year-round operation, which is also the earliest concrete step toward the year-round use that the 1969 director had argued for and that this wiki otherwise treats as a 1990s and green-shift development.",
+      "sources": [
+        "src_ia_kanawana_report_1977"
+      ],
+      "confidence": "inferred",
+      "category": "site",
+      "entities": [
+        "Farmhouse",
+        "Blockhouse",
+        "Front Camp"
+      ],
+      "date_ref": "1977-1978",
+      "conflicts_with": [],
+      "added_version": "5.97",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_2445",
+      "claim": "THE KANAWANA CAMP DIRECTOR WAS PRESIDENT OF THE QUEBEC CAMPING ASSOCIATION IN 1977. The director's report, thanking camp secretary Olga Hall: 'The extra work related to the building and renovations of K.K. as well as THE CAMP DIRECTOR BEING PRESIDENT OF THE Q.C.A. substantially increased her work load.' The Kanawana director in 1977 was Derek Walsh, per this wiki's directors index (1974 to February 1979). The camp's relationship with the Q.C.A. is documented elsewhere in these reports as annual accreditation inspections; that its own director held the association's presidency is new here, and makes Kanawana a leading rather than merely a member camp in the provincial body.",
+      "sources": [
+        "src_ia_kanawana_report_1977"
+      ],
+      "confidence": "stated",
+      "category": "institutional",
+      "entities": [
+        "Derek Walsh",
+        "Quebec Camping Association",
+        "Olga Hall"
+      ],
+      "date_ref": "1977",
+      "conflicts_with": [],
+      "added_version": "5.97",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_2446",
+      "claim": "KANAWANA'S 1977 SEASON: 1,174 camper weeks, a significant decrease the director attributes to a general fall in summer-camp registration that year, but with 414 different children and THE HIGHEST CAMPER RETURNEE RATE IN AT LEAST TEN YEARS at 54.8%, against the previous high of 46.8% in 1975. Programme staff averaged 20.7 years with 66% former Kanawanians; two staff were dismissed during the summer for behavioural reasons. KERRY FINUCAN, a 1974 section director, was Assistant Kamp Director and introduced 'a more flexible and relevant system of interest groups'. Three operational changes are recorded as successes to repeat: buses rented from the Laurentians rather than Montreal, which was cheaper and gave the camp a three-hour break between groups; REVISED POLICIES ON CIGARETTES IN CAMP for both staff and campers, set out in the staff manual and 'well accepted by parents and Kanawanians alike'; and the introduction of HEALTH FOOD AND FRUIT JUICES in the Business Office tuck shop. A Hebertism course was constructed that year. The report also prints a full 1977 staff list of roughly seventy names.",
+      "sources": [
+        "src_ia_kanawana_report_1977"
+      ],
+      "confidence": "stated",
+      "category": "attendance",
+      "entities": [
+        "Kerry Finucan",
+        "Kamp Kanawana"
+      ],
+      "date_ref": "1977",
+      "conflicts_with": [],
+      "added_version": "5.97",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_2447",
+      "claim": "THE 1978 KANAWANA DIRECTOR'S REPORT OPENS WITH A GREETING FROM THE PRIME MINISTER OF CANADA. Printed above the director's own text, in English and French over the signature 'Pierre Elliott Trudeau, Prime Minister - Premier Ministre': 'I am happy to send my greetings to all Kampers and staff of Kamp Kanawana. Kamp Kanawana provides an opportunity for many young people across Canada to learn about each other's culture in a natural and healthy environment. La dimension internationale qui s'est ajoutee cette annee rehaussera surement l'esprit d'entraide et de cooperation afin de cultiver une jeunesse saine et vigoureuse.' The French half refers to an international dimension 'added this year'. Nothing in this project records a Prime Ministerial greeting to Kanawana, or what the 1978 international dimension was.",
+      "sources": [
+        "src_ia_kanawana_report_1978"
+      ],
+      "confidence": "stated",
+      "category": "media",
+      "entities": [
+        "Pierre Elliott Trudeau",
+        "Kamp Kanawana"
+      ],
+      "date_ref": "1978",
+      "conflicts_with": [],
+      "added_version": "5.98",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_2448",
+      "claim": "WHO CAME TO KANAWANA IN 1978, in the camp's own demographic breakdown -- the most detailed social profile of a Kanawana camper body in this knowledge base. 442 different children made up 1,227 camper weeks, up 9% on 1977 and slightly over the 1,200 budgeted, in what the report calls 'the 85th season'. 'FRENCH POPULATION WAS 27%'. 'Slightly over 33% OF THE KAMPERS WERE FROM SINGLE PARENT HOMES'. 'Almost 5% of our kamper population was from the Laurentian area (St. Jovite, Ste Adele, St. Sauveur, St. Jerome, etc.)' -- local children at a camp founded for Montreal boys. 60% of 1977's campers returned. Campers came from Montreal, Ottawa, Toronto, Chateauguay, Quebec City, Three Rivers, Hudson, POLAND, New York, Charlottetown, New Jersey, Virginia, North Carolina, Saskatoon, Otterburn, the West Island, the Laurentians, St. Hubert, St. Lazare, Ste Foy, Franklin Centre, TRINIDAD, Valleyfield and Indiana. On discipline: 'seven kampers were sent home during the summer. Four of these were because of drugs, two for cigarette and one due to an injury.'",
+      "sources": [
+        "src_ia_kanawana_report_1978"
+      ],
+      "confidence": "stated",
+      "category": "attendance",
+      "entities": [
+        "Kamp Kanawana"
+      ],
+      "date_ref": "1978",
+      "conflicts_with": [],
+      "added_version": "5.98",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_2449",
+      "claim": "KANAWANA RAN A CIT EXCHANGE WITH CAMP CONISTON, NEW HAMPSHIRE, IN 1978 -- 'a C.I.T. exchange with the New Hampshire YMCA's Camp Coniston' listed among that programme's highlights, alongside a one-day session with three Mont St. Hilaire naturalists and life-saving courses in which three CITs took Bronze Medallions, seven Life Saving II and two Life Saving I. This is the first inter-camp exchange documented in this project. THE 1978 GROUP-USAGE LIST for the Kanawana site names, under YMCA BRANCHES: International (5 groups), St. Laurent (4), West Island (5) and Operations Management; under SCHOOLS: St. Eustache Elementary, St. Paul's, Victoria, St. Patrick's, LaSalle College, Macdonald High, College de l'Assomption and Vanier College; and under OTHER: Cadets, Mary Queen of Peace Cubs and Scouts, and Resurrection Cubs and Scouts. School use of the site, which this wiki treats as a modern outdoor-education development, was running at eight schools a season by 1978.",
+      "sources": [
+        "src_ia_kanawana_report_1978"
+      ],
+      "confidence": "stated",
+      "category": "institutional",
+      "entities": [
+        "Camp Coniston",
+        "Vanier College",
+        "Macdonald High"
+      ],
+      "date_ref": "1978",
+      "conflicts_with": [],
+      "added_version": "5.98",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_2450",
+      "claim": "THE 1979 DIRECTOR'S REPORT PRINTS THE SAME ROSTER AS THE 'STAFF OF 79' PLAQUE, AND CORRECTS TWENTY-FIVE OF ITS PAINTED NAMES. Setting the typed staff list beside the p_291 transcription of staff-1979.jpg resolves readings the audit could only take phonetically: Allan Iundall is ALLAN GANDALL; Ann Jourdeau is ANN GOURDEAU; Aylene Tickeawin is AYLENE McKEOWN; Bob Bierman is BOB BLUMAN; Carola Hayrey is CAROLA HANEY; Cheryl Scoff is CHERYL SCAIFE; Johanna Gallir is JOHANNA GALLER; John Pisrosaro is JOHN PIEROSARA; Josie Denis is JOSEE DENIS; Jurnette Penwarn is JEANNETTE PENWARN; Karin Reichel is KAREN REICHEL; Kevin Fowler is KEVIN FORSTER; Kevin McIlrath is KEVIN McGRATH; Larry Lacy is LARRY LACEY; Paul Schneiderist is PAUL SCHNEIDEREIT; Pippa Hobbs is PIPPA HOBBES; Renu Cosgrove is RENEE COSGROVE; Robyn Chalmers is ROBYN CHALONER; Steve Weeks is STEPHEN WELLS; Therese Maxim is THERESE MARIN; Yizhi Cagalino is ISABELLA CASALINO; Jeff Lorette is JEFF SURETTE; plus Dave Bennett / David Bennet, Carole Bell / Carol Bell and Jim Pelton / James Pelton. Fifteen names matched outright across the two documents, confirming they describe the same body of people. THIS IS THE FIRST TIME IN THIS PROJECT THAT A PAINTED BOARD HAS BEEN CHECKED AGAINST AN INDEPENDENT WRITTEN ROSTER OF THE SAME YEAR, and it puts a floor under the plaque audit's accuracy: the board's names were readable and the audit read them, but roughly a third came out phonetically wrong, and only a document could say so.",
+      "sources": [
+        "src_ia_kanawana_report_1979",
+        "src_flickr_kanawana_plaque_album"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "Staff of 1979"
+      ],
+      "date_ref": "1979",
+      "conflicts_with": [],
+      "added_version": "5.99",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_2451",
+      "claim": "JULIEN TASSE'S JOB TITLE IN 1979 WAS SITE MANAGER, per the staff list in that year's director's report: 'Julian Tasse -- Site Manager'. In 1976 the same list called him Maintenance Supervisor. The 'Staff of 79' plaque records the family collectively as 'The Tasses' with no first name, which is why this project had a plural credit and no post; the typed roster resolves it. Note also the spelling: the camp's own 1979 typist wrote 'Julian', the 1976 typist 'Jullen', the plaques 'Julien'.",
+      "sources": [
+        "src_ia_kanawana_report_1979"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "Julien Tasse"
+      ],
+      "date_ref": "1979",
+      "conflicts_with": [],
+      "added_version": "5.99",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_2452",
+      "claim": "KANAWANA'S 1979 SEASON AND THE CHILDREN IT TOOK IN. '441 different kampers and 18 C.I.T.s', 1,375 camper weeks including 132 for the CITs, a returnee rate of 48.80% -- down 7.31 points on 1978. 'KANAWANA ACCEPTED CHILDREN FROM YOUTH HORIZONS, CHILDREN'S MOUNTAIN COTTAGE AND SOME SPONSORED BY THE ROTARY CLUB OF WESTMOUNT' -- continuing the pattern of 1975 (an orphanage and Weredale House) and 1969 (Westmount Rotary and the St. Nicholas Men's Club). The season survived 'two severe rainstorms, a problem with our septic system, problems with our van and trailer and A 10% RETURNEE STAFF' -- staff hiring was still going on six days into pre-camp. KEVIN FORSTER was Assistant Kamp Director. The staff list includes CHRIS ADAM, DENYS LAWRENCE -- knighted into the Order of the Knights of Kanawana the following year -- and DOUG PEETS, the first recipient of the Order of Owens in 1976, now on staff.",
+      "sources": [
+        "src_ia_kanawana_report_1979"
+      ],
+      "confidence": "stated",
+      "category": "attendance",
+      "entities": [
+        "Youth Horizons",
+        "Children's Mountain Cottage",
+        "Rotary Club of Westmount",
+        "Kevin Forster",
+        "Chris Adam",
+        "Denys Lawrence",
+        "Doug Peets"
+      ],
+      "date_ref": "1979",
+      "conflicts_with": [],
+      "added_version": "5.99",
       "added_by": "manual"
     }
   ]
