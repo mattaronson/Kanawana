@@ -447,28 +447,35 @@ Search public content only:
 Do not extract personal information about living private individuals. Extract only institutional
 facts, historical information, and information about public figures.
 
-**Amendment, 2026-09-03 — withhold, but record the withholding.** The rule above was being
+**Amendment, 2026-09-03 — hold it, mark it, and gate the wiki.** The rule above was being
 followed by simply not writing the material down, which loses it: a later pass has no way to
 know something was passed over, or why, and re-reads the same document to the same dead end.
-From now on, when a source carries material that should not be published, do three things:
 
-1. **Keep it out of the published layer** — `kb/facts.json` and `wiki/`. That layer is the
-   indexed, searchable one, and indexing is the actual harm. A supervisor's 1973 judgement of a
-   nineteen-year-old, sitting in a scanned report, is public but unfindable; the same sentence
-   under that person's name in a wiki article is the first thing a search returns for the rest
-   of their life.
-2. **Register it** in `kb/restricted/register.jsonl` — that the material exists, which document
-   and line range it sits in, what kind it is, why it was withheld, and when to look again.
-   **Never the material itself, and never the names.** See `kb/restricted/README.md`.
-3. **Publish what survives the removal.** The institutional fact usually does. "A departmental
-   director was asked to leave mid-season after repeated attempts to resolve his working
-   relationships" is the historically useful claim; the name adds nothing to it.
+**The boundary is the published wiki, not the repository.** The source archive is public
+already, and the OCR corpus in `sources/cache/` is fine where it is (operator decision,
+2026-09-03). What is questionable is pushing named personal material into `wiki/` when the wiki
+goes up. So:
 
-Note that this repository is **public**. There is no confidential file here — anything committed
-is published, and git history is permanent. The register is content-free by design for that
-reason, and the guard `scripts/verify/restricted_guard.py` enforces it: it derives the restricted
-names from the source at runtime, checks they do not appear in the published layer, and stores
-nothing.
+1. **Extract it.** Sensitive material goes into `kb/facts.json` like any other fact, carrying a
+   `publication` block: `{"status": "restricted", "register_id": "r_NNNN", "review_on":
+   "YYYY-MM-DD", "basis": "...", "why": "..."}`. Nothing is lost.
+2. **Register it** in `kb/restricted/register.jsonl` — the human-readable index of what is held
+   back, in which document, what kind, why, and when to look again. See
+   `kb/restricted/README.md`.
+3. **Keep it out of `wiki/`, and publish what survives the removal.** The institutional fact
+   usually does. "A departmental director was asked to leave mid-season after repeated attempts
+   to resolve his working relationships" is the historically useful claim; the name adds nothing
+   to it.
+
+The harm being guarded against is **indexing, not existence**. A supervisor's 1973 judgement of
+a nineteen-year-old, sitting in a scanned report, is public but unfindable by anyone searching
+that person's name. The same sentence in a wiki article under their name is the first result for
+the rest of their life.
+
+`scripts/verify/restricted_guard.py` is the publication gate: it fails if a restricted fact is
+unregistered or undated, or if a name appearing only in restricted facts reaches `wiki/`. **Run
+it before any publication step**, and wire it into `scripts/build-content.ts` when that is
+pointed at the wiki.
 
 The default embargo for personal assessments of identifiable private individuals is the later of
 record date + 75 years and estimated birth + 100, released earlier only on consent or confirmed

@@ -1,8 +1,8 @@
 {
-  "version": "6.02",
-  "kb_version": "6.02",
+  "version": "6.03",
+  "kb_version": "6.03",
   "migrated_from": "3.3",
-  "fact_count": 2427,
+  "fact_count": 2429,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -42088,7 +42088,7 @@
     },
     {
       "fact_id": "f_2465",
-      "claim": "THE PROJECT NOW HAS A RESTRICTED REGISTER (kb/restricted/, created 2026-09-03 at the operator's request). It records that material was withheld -- which document, which lines, what kind, why, and when to look again -- and never the material. This is forced by a fact worth stating plainly: github.com/mattaronson/Kanawana is a PUBLIC repository, so there is no confidential file in it; anything committed is published and git history is permanent. The protection the register actually provides is against INDEXING, not existence. A supervisor's 1973 assessment of a nineteen-year-old counsellor, sitting in a scanned report in an archive, is public but unfindable by anyone searching that person's name; the same sentence in a wiki article under their name is the first result for the rest of their life. Keeping it out of kb/facts.json and wiki/ is therefore the whole of the protection, and it is worth having. scripts/verify/restricted_guard.py enforces the boundary by deriving the restricted names from the source at runtime and checking they do not appear in the published layer -- storing nothing, which is what lets the register itself be public. Default embargo: the later of record date + 75 years and estimated birth + 100, released earlier only on consent or confirmed death. FIRST ENTRY r_0001: the 1973 director's report's Recommendations section, five subjects, review 2055.",
+      "claim": "THE PROJECT HOLDS RESTRICTED MATERIAL IN THE KNOWLEDGE BASE AND GATES IT AT THE WIKI (kb/restricted/, built 2026-09-03 at the operator's request). The boundary is the operator's: the source archive is public already and the OCR corpus in this repository is fine where it is; what is questionable is pushing named personal material into the published wiki. So sensitive material is EXTRACTED into kb/facts.json carrying a publication block -- status restricted, a register id, a review date and a stated basis -- and indexed in kb/restricted/register.jsonl. Nothing is lost, which was the defect in the previous rule: 'do not extract' meant a later pass could not tell that anything had been passed over. The harm guarded against is INDEXING, NOT EXISTENCE: a supervisor's 1973 judgement of a nineteen-year-old sitting in a scanned report is public but unfindable by anyone searching that name; the same sentence in a wiki article is the first result for the rest of their life. scripts/verify/restricted_guard.py is the gate. It checks every restricted fact is registered and dated, and that no name appearing ONLY in restricted facts reaches wiki/ -- a name that also appears in an unrestricted fact is ignored, since a person can be in the wiki for their job and restricted for an assessment of it. TWO BUGS IN THE GATE WERE FOUND BY ITS OWN REGRESSION TEST, BOTH FAILING OPEN: the name extractor matched only title case, so names written in capitals for emphasis passed straight through; and a debugging session put two of the protected surnames into the stopword list, excusing them from every check. First entries: r_0001, the 1973 report's staff recommendations, five subjects; r_0002, an identification-by-inference risk in the 1975 report. Both review 2055.",
       "sources": [],
       "confidence": "stated",
       "category": "methodology",
@@ -42098,8 +42098,50 @@
       ],
       "date_ref": "2026-09-03",
       "conflicts_with": [],
-      "added_version": "6.02",
+      "added_version": "6.03",
       "added_by": "manual"
+    },
+    {
+      "fact_id": "f_2466",
+      "claim": "Restricted: not for the published wiki. The 1973 Kanawana director's report ends with named staff recommendations. Leo J. Robitaille writes: 'All 73 staff could be re-hired unconditionally with the following exceptions:' and brackets three names against the note 'Do not re-hire' -- Brenda Tooby, Pierre Parizeau and Pierre Audette. No reason is given for any of the three. He then assesses two others individually. Of Al Mongraw: 'does not work well without supervision and does not supervise people well himself. However, he does have good skills at repairing program equipment (canoes, etc.) and could be specifically given this responsibility and supervised. He tends to put his own needs and pleasure ahead of the camp's interests. Considers himself a power figure amongst the staff and is a great rationalizer.' Of Rick Deterding: 'has good skills but poor attitude when asked to do something he doesn't like such as being a counsellor for junior boys.' Context for a later reader: these are one supervisor's end-of-season judgements of people in their late teens and early twenties, written in an internal document for a hiring committee and never meant to be read outside it. Robitaille's report is otherwise warm about the 1973 staff, and he was himself leaving the Association. Two of the five surnames appear elsewhere in the camp's records in neutral or positive terms: a Deterding is on the 1976 staff list, and a Mongraw -- Paul Mongraw -- directed Les Voyageurs de la Verendrye in 1974 after a year's absence, though whether that is the same person as Al Mongraw is not established.",
+      "sources": [
+        "src_ia_kanawana_report_1973"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [],
+      "date_ref": "1973",
+      "conflicts_with": [],
+      "added_version": "6.03",
+      "added_by": "manual",
+      "publication": {
+        "status": "restricted",
+        "register_id": "r_0001",
+        "review_on": "2055-01-01",
+        "basis": "later of record date + 75 (1973+75=2048) and estimated birth + 100 (staff aged ~18-22 in 1973); release earlier only on the individual's consent or confirmed death",
+        "why": "Named personal assessments of seasonal staff who were young private individuals at the time. Preserved in the knowledge base; must not reach the published wiki."
+      }
+    },
+    {
+      "fact_id": "f_2467",
+      "claim": "Restricted: not for the published wiki. The 1975 Kanawana director's report records a mid-season dismissal without giving the person's name. Of the Senior Waterfront Director the report says he 'was most ineffective in his methods of working with most other staff. The instructions went on but in a very uncomfortable atmosphere. After repeated attemps on my and Stuart's part, we were unable to initiate any improvement and consequently, the Senior Waterfront Director was asked to leave during the fourth session of kamp.' THE NAME IS NOT HELD HERE AND HAS NOT BEEN ESTABLISHED: the 1975 report carries no staff list, unlike 1976, 1977 and 1979, so the post holder would have to be identified from another document. This record exists to mark that the identification is possible and should not be made in the wiki: publishing the passage beside a 1975 staff roster would name him by inference even though neither document does. The institutional fact is published at f_2436 without the name.",
+      "sources": [
+        "src_ia_kanawana_report_1975"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [],
+      "date_ref": "1975",
+      "conflicts_with": [],
+      "added_version": "6.03",
+      "added_by": "manual",
+      "publication": {
+        "status": "restricted",
+        "register_id": "r_0002",
+        "review_on": "2055-01-01",
+        "basis": "later of record date + 75 (1975+75=2050) and estimated birth + 100 (a departmental director, likely early-to-mid twenties in 1975)",
+        "why": "Named personal assessments of seasonal staff who were young private individuals at the time. Preserved in the knowledge base; must not reach the published wiki."
+      }
     }
   ]
 }

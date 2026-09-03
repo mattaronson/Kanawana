@@ -1,22 +1,20 @@
 # The restricted register
 
-**This directory holds a register of information deliberately WITHHELD from the
-knowledge base and the wiki. It does not hold that information.**
+**The knowledge base holds restricted material. The published wiki must not.
+This directory is the index of what is held back and why.**
 
-## Why the distinction matters here
+## Where the line is, and why it is there
 
-`github.com/mattaronson/Kanawana` is a **public** repository. Every commit is
-published the moment it is pushed, and git history is permanent — deleting a
-file later leaves it in the log. There is therefore no such thing as a
-"confidential file" in this repo. Anything written here is on the open web.
+The operator's decision, 2026-09-03: the source archive is public already, and
+the OCR corpus committed to this repository is fine where it is. What is
+questionable is pushing named personal material into the **published wiki**.
 
-So the register records that a piece of information exists, where it is, why it
-is withheld, and when it may be reconsidered. The information itself stays in
-the source document and is retrieved from there when the embargo lifts.
-
-This is ordinary archival practice, not a workaround. A finding aid says a
-personnel file exists and is restricted until a given year; it does not
-reproduce the file's contents in the finding aid.
+So the boundary is the wiki, not the repository. Restricted material lives in
+`kb/facts.json` like any other fact, carrying a `publication` block that marks
+it restricted, names its register entry, and gives a review date. It is not
+lost, which was the whole problem with the previous rule — "do not extract"
+meant a later pass had no way to know something had been passed over, and would
+read the same document to the same dead end.
 
 ## What this protects against, and what it does not
 
@@ -27,18 +25,15 @@ nobody searching that person's name will reach it. The same sentence in a wiki
 article, under their name, with a heading and a citation, is the first thing a
 search returns for the rest of their life.
 
-Keeping it out of `kb/facts.json` and `wiki/` is therefore the whole of the
-protection, and it is worth having. It does not make the underlying document
-private, and this register does not pretend otherwise.
+Keeping it out of `wiki/` is therefore the whole of the protection. It does not
+make the underlying document private, and nothing here pretends otherwise.
 
-## What must never be written into this directory
+## What the register is for
 
-- The withheld text itself, quoted or paraphrased closely enough to reconstruct.
-- The names of the people it concerns.
-- Anything that would let a reader assemble the two.
-
-A register entry that fails this is worse than no entry, because it publishes
-the material under a heading announcing that it is sensitive.
+The register is the human-readable index: what is held, in which document, what
+kind, why, and when to look again. It points at fact ids and does not reproduce
+their content — not because reproduction would be dangerous here, but because a
+register that restates everything it indexes is no longer an index.
 
 ## The embargo rule
 
@@ -59,6 +54,7 @@ confirmation of death. Release should never be automatic on the date alone —
 | field | meaning |
 |---|---|
 | `id` | `r_NNNN` |
+| `fact_ids` | the restricted facts in `kb/facts.json` this entry covers |
 | `source_id` | the source record the material sits in |
 | `locator` | file and line range — enough to find it, nothing more |
 | `category` | what kind of information (e.g. `personnel_assessment`) |
@@ -71,8 +67,23 @@ confirmation of death. Release should never be automatic on the date alone —
 
 ## Checking
 
-`scripts/verify/restricted_guard.py` enforces the boundary. It reads the span
-named in each `locator`, extracts the personal names in it **at runtime**, and
-fails if any of them appear in `kb/facts.json` or `wiki/`. The names are never
-written down — the guard derives them from the source each time it runs, which
-is why this register can itself be public.
+`scripts/verify/restricted_guard.py` is the publication gate. It checks that
+every restricted fact is registered and carries a review date and a stated
+basis, and that no personal name appearing **only** in restricted facts occurs
+anywhere under `wiki/`. A name that also appears in an unrestricted fact is
+ignored, because a person can be in the wiki for their job and restricted for
+an assessment of it — Paul Mongraw directed Les Voyageurs in 1974, and that
+belongs in the wiki.
+
+Violations name the fact and the register entry, never the person.
+
+**Wire this into the publication step before the wiki goes up.**
+`scripts/build-content.ts` is still boilerplate; when it is pointed at `wiki/`,
+this gate should run first and a non-zero exit should stop the build.
+
+Two bugs found by its own regression test, both of which made it pass when it
+should have failed, and both worth remembering: the name extractor originally
+matched only title case, so names written in capitals for emphasis slid past it;
+and a debugging session briefly put two of the protected surnames into the
+stopword list, excusing them from every check. A guard that fails open is worse
+than no guard, because it is trusted.

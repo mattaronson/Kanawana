@@ -3960,8 +3960,8 @@
       "description": "OPERATOR DECISION: the repository is PUBLIC, and sources/cache/ is committed to it. That corpus includes the raw OCR of internal camp documents -- among them the 1973 director's report whose Recommendations section names five seasonal staff with negative personal assessments (registered as r_0001). This was committed in an earlier session, not by the p_304 re-read, and it is in git history, so removal means rewriting history and force-pushing, not a delete commit. THREE OPTIONS, all the operator's call: (a) leave it -- the same documents are already public on Internet Archive and the indexed layer is clean, which is where the harm would be; (b) remove sources/cache/ from the repo and history, keeping it locally and in Drive, which costs the reproducibility of every cached citation; (c) make the repository private, which protects the corpus but also takes the wiki off the open web. Recommend (a) plus a note in the repo README explaining what sources/cache/ is, unless the wiki is intended to be a published site, in which case revisit.",
       "blocking": false,
       "created_at": "2026-09-03",
-      "status": "pending",
-      "notes": "Raised while building the restricted register at the operator's request. The register itself is content-free and safe to publish; this priority is about the raw corpus underneath it, which predates the register."
+      "status": "resolved",
+      "notes": "Raised while building the restricted register at the operator's request. The register itself is content-free and safe to publish; this priority is about the raw corpus underneath it, which predates the register. | RESOLVED 2026-09-03 by operator decision: option (a), leave it. 'The archive itself is publicly accessible, having the names in a public git is fine. It's pushing them to an unrestricted section of the wiki when the wiki goes up that is questionable.' The design was rebuilt around this: restricted material is now HELD in kb/facts.json with a publication block and gated at the wiki boundary, rather than kept out of the KB altogether."
     },
     {
       "priority_id": "p_307",
@@ -3975,6 +3975,19 @@
       "created_at": "2026-09-03",
       "status": "pending",
       "notes": "The point of the register is that a later pass can see what an earlier one decided not to write down. Entries created retrospectively are worth less than entries created at the time, but they are worth more than nothing."
+    },
+    {
+      "priority_id": "p_308",
+      "rank": 307,
+      "type": "VERIFY",
+      "article_id": null,
+      "tier": 2,
+      "assigned_weight": "high",
+      "description": "Wire scripts/verify/restricted_guard.py into the publication step before the wiki goes up. scripts/build-content.ts is still the boilerplate scaffold it shipped as -- example.com, 'My Project' -- and is not pointed at wiki/. When it is, the gate must run first and a non-zero exit must stop the build. Until then the gate is only run by hand, which is the weakest form of a control that exists to catch what a person forgot.",
+      "blocking": false,
+      "created_at": "2026-09-03",
+      "status": "pending",
+      "notes": "The gate itself is tested and working: it fires on a planted name, exits 1, and prints no names. What is missing is the hook."
     }
   ],
   "queue_ordering": {
