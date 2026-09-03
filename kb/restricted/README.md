@@ -1,89 +1,102 @@
-# The restricted register
+# Embargo register
 
-**The knowledge base holds restricted material. The published wiki must not.
-This directory is the index of what is held back and why.**
+**The record comes first. Embargo is metadata, not deletion.**
 
-## Where the line is, and why it is there
+Operator decision, 2026-09-03:
 
-The operator's decision, 2026-09-03: the source archive is public already, and
-the OCR corpus committed to this repository is fine where it is. What is
-questionable is pushing named personal material into the **published wiki**.
+> "We're better off having the whole record and selecting from it now than
+> deleting material that ought to just be embargoed and potentially creating
+> holes in the record for future scholarly work that may come to rely on this
+> research."
 
-So the boundary is the wiki, not the repository. Restricted material lives in
-`kb/facts.json` like any other fact, carrying a `publication` block that marks
-it restricted, names its register entry, and gives a review date. It is not
-lost, which was the whole problem with the previous rule — "do not extract"
-meant a later pass had no way to know something had been passed over, and would
-read the same document to the same dead end.
+And on where the decision belongs:
 
-## What this protects against, and what it does not
+> "We need to make surface publication policy decisions at the wiki UI design
+> level, not here. For the purpose of collecting the data and writing the
+> articles, the repo and wiki are fine."
 
-The realistic harm is **indexing**, not existence. A negative assessment of a
-nineteen-year-old counsellor, written in 1973 by their supervisor and now
-sitting in a scanned report in an archive, is public but effectively unfindable:
-nobody searching that person's name will reach it. The same sentence in a wiki
-article, under their name, with a heading and a citation, is the first thing a
-search returns for the rest of their life.
+So nothing is withheld from `kb/facts.json` or from `wiki/`. Both are working
+surfaces and both should be complete. What this directory does is **label**
+material whose publication needs a decision, so that the decision can be made
+once, later, at the layer that actually publishes — and so that it can be made
+by someone looking at a list rather than by someone remembering.
 
-Keeping it out of `wiki/` is therefore the whole of the protection. It does not
-make the underlying document private, and nothing here pretends otherwise.
+## Why not just leave it out
 
-## What the register is for
+Because omission is invisible and permanent. A later researcher reading a
+Kanawana article cannot tell the difference between "the source says nothing
+about this" and "someone decided not to write it down," and neither can a later
+pass of this project — which is how the same document gets read three times to
+the same dead end. A hole in the record looks exactly like an absence of
+evidence, and in scholarship that is a serious thing to manufacture.
 
-The register is the human-readable index: what is held, in which document, what
-kind, why, and when to look again. It points at fact ids and does not reproduce
-their content — not because reproduction would be dangerous here, but because a
-register that restates everything it indexes is no longer an index.
+An embargo says: this exists, here is where, here is why it needs a decision,
+here is when to look again.
 
-## The embargo rule
+## How it works
 
-Personal assessments of identifiable private individuals are held until the
-**later** of:
+**In the knowledge base.** An embargoed fact is an ordinary fact carrying a
+`publication` block:
 
-- **record date + 75 years** — the common archival term for restricted
-  personnel material; and
-- **estimated year of birth + 100** — where an age can be inferred from the
-  record (a "counsellor", typically 18-22, in a given season).
+```json
+"publication": {
+  "status": "embargoed",
+  "register_id": "r_0001",
+  "review_on": "2055-01-01",
+  "basis": "later of record date + 75 and estimated birth + 100",
+  "why": "..."
+}
+```
 
-Release may come earlier on either of two grounds: the subject's own consent, or
-confirmation of death. Release should never be automatic on the date alone —
-`review_on` is a date to look again, not a date to publish.
+**In an article.** The passage is written where it belongs historically, wrapped
+so a machine can find it:
 
-## Fields
+```markdown
+<!-- embargo:r_0001 -->
+...the passage, with a one-line note saying what it is and when it reviews...
+<!-- /embargo:r_0001 -->
+```
 
-| field | meaning |
-|---|---|
-| `id` | `r_NNNN` |
-| `fact_ids` | the restricted facts in `kb/facts.json` this entry covers |
-| `source_id` | the source record the material sits in |
-| `locator` | file and line range — enough to find it, nothing more |
-| `category` | what kind of information (e.g. `personnel_assessment`) |
-| `subjects` | how many people, never who |
-| `reason` | why it is withheld |
-| `withheld_by` / `withheld_at` | who made the call and when |
-| `embargo_basis` | the rule applied |
-| `review_on` | earliest date to reconsider |
-| `release_conditions` | what would justify earlier release |
+**In this register.** One record per embargo: which facts, which document and
+lines, what kind, why, the basis, the review date, and what would justify
+earlier release. The register indexes; it does not restate.
 
-## Checking
+## The embargo term
 
-`scripts/verify/restricted_guard.py` is the publication gate. It checks that
-every restricted fact is registered and carries a review date and a stated
-basis, and that no personal name appearing **only** in restricted facts occurs
-anywhere under `wiki/`. A name that also appears in an unrestricted fact is
-ignored, because a person can be in the wiki for their job and restricted for
-an assessment of it — Paul Mongraw directed Les Voyageurs in 1974, and that
-belongs in the wiki.
+Default for personal assessments of identifiable private individuals: the
+**later** of record date + 75 years (the common archival term for restricted
+personnel material) and estimated year of birth + 100. Earlier release on the
+subject's consent or on confirmation of death.
 
-Violations name the fact and the register entry, never the person.
+`review_on` is a date to look again. It is never a date to publish
+automatically.
 
-**Wire this into the publication step before the wiki goes up.**
-`scripts/build-content.ts` is still boilerplate; when it is pointed at `wiki/`,
-this gate should run first and a non-zero exit should stop the build.
+## The check
 
-Two bugs found by its own regression test, both of which made it pass when it
-should have failed, and both worth remembering: the name extractor originally
-matched only title case, so names written in capitals for emphasis slid past it;
-and a debugging session briefly put two of the protected surnames into the
-stopword list, excusing them from every check. A guard that fails open is worse
-than no guard, because it is trusted.
+`scripts/verify/restricted_guard.py` verifies that every embargoed fact is
+registered, dated and reasoned; that every register entry resolves to real facts
+and a readable source; that every embargo marker in `wiki/` is paired and names
+a real entry; and that no name occurring only in embargoed facts appears in an
+article **outside** a block. Unlabelled is the failure — not present.
+
+It names the fact, the article and the register entry. Never the person.
+
+### Three bugs it has had, all failing open
+
+Worth recording, because a check that passes wrongly is worse than no check:
+
+1. The name extractor matched only title case, so names written in capitals for
+   emphasis — the ones it exists to find — went straight past it.
+2. A debugging session put two of the protected surnames into the stopword list,
+   excusing them from every check.
+3. It asked whether a name appeared *inside* an embargo block, rather than
+   whether every occurrence was inside one. A name both properly blocked and
+   loose in the prose passed.
+
+All three were caught by planting a name and watching, not by reading the code.
+Any change to this script should be tested the same way.
+
+## Still to do
+
+Publication policy itself — redact, gate, placeholder, or show — is a **wiki UI
+design decision** and is deliberately not made here. Tracked as p_308.

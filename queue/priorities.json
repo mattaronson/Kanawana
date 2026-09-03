@@ -3979,15 +3979,15 @@
     {
       "priority_id": "p_308",
       "rank": 307,
-      "type": "VERIFY",
+      "type": "WRITE",
       "article_id": null,
       "tier": 2,
-      "assigned_weight": "high",
-      "description": "Wire scripts/verify/restricted_guard.py into the publication step before the wiki goes up. scripts/build-content.ts is still the boilerplate scaffold it shipped as -- example.com, 'My Project' -- and is not pointed at wiki/. When it is, the gate must run first and a non-zero exit must stop the build. Until then the gate is only run by hand, which is the weakest form of a control that exists to catch what a person forgot.",
+      "assigned_weight": "medium",
+      "description": "WIKI UI: decide how embargoed passages are surfaced. The data layer is settled -- embargoed material is held in full in kb/facts.json and written into articles inside <!-- embargo:r_NNNN --> blocks, with kb/restricted/register.jsonl giving the kind, basis and review date for each. What is NOT decided, and should be decided once at the UI layer rather than repeatedly at the collection layer, is what a published edition does with a block: redact the names and keep the passage, replace it with a placeholder naming the register entry and review date, gate it behind a login for researchers, or publish it because the embargo has lapsed. Whichever is chosen, the builder should read the register rather than hard-code dates, so that an embargo lapsing changes the site without changing the articles.",
       "blocking": false,
       "created_at": "2026-09-03",
       "status": "pending",
-      "notes": "The gate itself is tested and working: it fires on a planted name, exits 1, and prints no names. What is missing is the hook."
+      "notes": "Reframed 2026-09-03 from a build hook to a design decision, per the operator: 'We need to make surface publication policy decisions at the wiki UI design level, not here.' scripts/build-content.ts is still the boilerplate scaffold it shipped as and is not pointed at wiki/; whatever policy is chosen gets implemented there."
     }
   ],
   "queue_ordering": {

@@ -35,6 +35,22 @@ Branch executive since at least 1969, and *The Lookout* separately places a "Tom
 for "part of 72."^4 The sequence around 1972–74 is therefore busier than a single name per year, and
 this article does not try to resolve it.
 
+## How he ended the report
+
+Robitaille closed his final report with staff recommendations, and they are unusually direct for a document of this kind. Most Kanawana directors of this period refer such judgements to a confidential personnel file — the 1974 report says exactly that, and the 1977 one does too. Robitaille wrote his into the report.
+
+<!-- embargo:r_0001 -->
+> *The passage below is embargoed for review in 2055 — see `kb/restricted/register.jsonl`, entry `r_0001`. It names private individuals who were in their late teens and early twenties in 1973. It is recorded here because the record should be whole; how it is surfaced in any published edition is a decision for that edition, not for this file.*
+
+"All '73 staff could be re-hired unconditionally with the following exceptions," he writes, and brackets three names against the note **"Do not re-hire"** — **Brenda Tooby**, **Pierre Parizeau** and **Pierre Audette**. No reason is given for any of the three.^1
+
+Two others he assesses individually. Of **Al Mongraw**: "does not work well without supervision and does not supervise people well himself. However, he does have good skills at repairing program equipment (canoes, etc.) and could be specifically given this responsibility and supervised. He tends to put his own needs and pleasure ahead of the camp's interests. Considers himself a power figure amongst the staff and is a great rationalizer." Of **Rick Deterding**: "has good skills but poor attitude when asked to do something he doesn't like such as being a counsellor for junior boys."^1
+<!-- /embargo:r_0001 -->
+
+Two things are worth saying about that passage rather than leaving it to speak for itself. The first is that it sits at the end of a report which is otherwise warm about the 1973 staff — Robitaille calls the season "the best one, in the three years I was involved," praises Perry Olshansky, Derek Walsh, Eva Menzak and Bob Fyfe by name, and thanks Olga Hall for carrying four different camp directors. The second is that these were seasonal employees in their late teens and early twenties, judged by a supervisor who was himself leaving, in a document written for a hiring committee and never meant to be read outside it.
+
+It also tells you something about how the camp actually hired. The recommendation is not a dismissal; it is advice to a committee that would reconvene in December, and it assumes the committee knew these people. A camp that rehired half its staff every year ran on exactly this kind of institutional memory, and this is what it looked like written down.
+
 **Not to be confused with Georges Robitaille**, president of the Association des camps du Québec's
 French section in 1976–77 and a Recreation Canada consultant on camping and outdoor education. He
 appears repeatedly in *Canadian Camping* in exactly the years Leo J. Robitaille was running Montreal's

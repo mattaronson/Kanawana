@@ -447,35 +447,34 @@ Search public content only:
 Do not extract personal information about living private individuals. Extract only institutional
 facts, historical information, and information about public figures.
 
-**Amendment, 2026-09-03 — hold it, mark it, and gate the wiki.** The rule above was being
-followed by simply not writing the material down, which loses it: a later pass has no way to
-know something was passed over, or why, and re-reads the same document to the same dead end.
+**Amendment, 2026-09-03 — record everything; embargo is metadata.** The rule above was being
+followed by not writing the material down, which loses it: a later pass cannot tell the
+difference between "the source says nothing" and "someone decided not to write it down," and
+reads the same document to the same dead end. A hole in the record looks exactly like an absence
+of evidence, which is a serious thing to manufacture for anyone who later relies on this
+research.
 
-**The boundary is the published wiki, not the repository.** The source archive is public
-already, and the OCR corpus in `sources/cache/` is fine where it is (operator decision,
-2026-09-03). What is questionable is pushing named personal material into `wiki/` when the wiki
-goes up. So:
+**Publication policy belongs to the wiki's UI layer, not to collection.** For collecting data and
+writing articles, the repo and the wiki are both fine and both should be COMPLETE. So:
 
 1. **Extract it.** Sensitive material goes into `kb/facts.json` like any other fact, carrying a
-   `publication` block: `{"status": "restricted", "register_id": "r_NNNN", "review_on":
-   "YYYY-MM-DD", "basis": "...", "why": "..."}`. Nothing is lost.
-2. **Register it** in `kb/restricted/register.jsonl` — the human-readable index of what is held
-   back, in which document, what kind, why, and when to look again. See
-   `kb/restricted/README.md`.
-3. **Keep it out of `wiki/`, and publish what survives the removal.** The institutional fact
-   usually does. "A departmental director was asked to leave mid-season after repeated attempts
-   to resolve his working relationships" is the historically useful claim; the name adds nothing
-   to it.
+   `publication` block: `{"status": "embargoed", "register_id": "r_NNNN", "review_on":
+   "YYYY-MM-DD", "basis": "...", "why": "..."}`.
+2. **Write it where it belongs** in the article, wrapped in `<!-- embargo:r_NNNN -->` …
+   `<!-- /embargo:r_NNNN -->`, with a one-line note saying what it is and when it reviews.
+3. **Register it** in `kb/restricted/register.jsonl` — which facts, which document and lines,
+   what kind, why, the basis, the review date. See `kb/restricted/README.md`.
+4. **Say something about it.** Material like this usually needs context a reader fifty years on
+   will not have — who was judging whom, at what age, in what kind of document. Supply it
+   outside the block.
 
-The harm being guarded against is **indexing, not existence**. A supervisor's 1973 judgement of
-a nineteen-year-old, sitting in a scanned report, is public but unfindable by anyone searching
-that person's name. The same sentence in a wiki article under their name is the first result for
-the rest of their life.
+Default embargo for personal assessments of identifiable private individuals: the later of
+record date + 75 years and estimated birth + 100, released earlier on consent or confirmed
+death. `review_on` is a date to look again, never a date to publish automatically.
 
-`scripts/verify/restricted_guard.py` is the publication gate: it fails if a restricted fact is
-unregistered or undated, or if a name appearing only in restricted facts reaches `wiki/`. **Run
-it before any publication step**, and wire it into `scripts/build-content.ts` when that is
-pointed at the wiki.
+`scripts/verify/restricted_guard.py` checks the labelling, not the content: every embargoed fact
+registered and dated, every marker paired, and no name occurring only in embargoed facts
+appearing in an article outside a block. **Unlabelled is the failure, not present.**
 
 The default embargo for personal assessments of identifiable private individuals is the later of
 record date + 75 years and estimated birth + 100, released earlier only on consent or confirmed
