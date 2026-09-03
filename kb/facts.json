@@ -1,8 +1,8 @@
 {
-  "version": "6.01",
-  "kb_version": "6.01",
+  "version": "6.02",
+  "kb_version": "6.02",
   "migrated_from": "3.3",
-  "fact_count": 2426,
+  "fact_count": 2427,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -42084,6 +42084,21 @@
       "date_ref": "1939",
       "conflicts_with": [],
       "added_version": "6.01",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_2465",
+      "claim": "THE PROJECT NOW HAS A RESTRICTED REGISTER (kb/restricted/, created 2026-09-03 at the operator's request). It records that material was withheld -- which document, which lines, what kind, why, and when to look again -- and never the material. This is forced by a fact worth stating plainly: github.com/mattaronson/Kanawana is a PUBLIC repository, so there is no confidential file in it; anything committed is published and git history is permanent. The protection the register actually provides is against INDEXING, not existence. A supervisor's 1973 assessment of a nineteen-year-old counsellor, sitting in a scanned report in an archive, is public but unfindable by anyone searching that person's name; the same sentence in a wiki article under their name is the first result for the rest of their life. Keeping it out of kb/facts.json and wiki/ is therefore the whole of the protection, and it is worth having. scripts/verify/restricted_guard.py enforces the boundary by deriving the restricted names from the source at runtime and checking they do not appear in the published layer -- storing nothing, which is what lets the register itself be public. Default embargo: the later of record date + 75 years and estimated birth + 100, released earlier only on consent or confirmed death. FIRST ENTRY r_0001: the 1973 director's report's Recommendations section, five subjects, review 2055.",
+      "sources": [],
+      "confidence": "stated",
+      "category": "methodology",
+      "entities": [
+        "kb/restricted",
+        "restricted_guard.py"
+      ],
+      "date_ref": "2026-09-03",
+      "conflicts_with": [],
+      "added_version": "6.02",
       "added_by": "manual"
     }
   ]

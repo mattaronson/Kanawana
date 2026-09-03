@@ -3949,6 +3949,32 @@
       "created_at": "2026-09-02",
       "status": "pending",
       "notes": "From the first hours of the p_304 full re-read. All three are item TITLES the finding aid gives plainly; none had ever been recorded here. See f_2380."
+    },
+    {
+      "priority_id": "p_306",
+      "rank": 305,
+      "type": "VERIFY",
+      "article_id": null,
+      "tier": "1-YIELD",
+      "assigned_weight": "P1",
+      "description": "OPERATOR DECISION: the repository is PUBLIC, and sources/cache/ is committed to it. That corpus includes the raw OCR of internal camp documents -- among them the 1973 director's report whose Recommendations section names five seasonal staff with negative personal assessments (registered as r_0001). This was committed in an earlier session, not by the p_304 re-read, and it is in git history, so removal means rewriting history and force-pushing, not a delete commit. THREE OPTIONS, all the operator's call: (a) leave it -- the same documents are already public on Internet Archive and the indexed layer is clean, which is where the harm would be; (b) remove sources/cache/ from the repo and history, keeping it locally and in Drive, which costs the reproducibility of every cached citation; (c) make the repository private, which protects the corpus but also takes the wiki off the open web. Recommend (a) plus a note in the repo README explaining what sources/cache/ is, unless the wiki is intended to be a published site, in which case revisit.",
+      "blocking": false,
+      "created_at": "2026-09-03",
+      "status": "pending",
+      "notes": "Raised while building the restricted register at the operator's request. The register itself is content-free and safe to publish; this priority is about the raw corpus underneath it, which predates the register."
+    },
+    {
+      "priority_id": "p_307",
+      "rank": 306,
+      "type": "VERIFY",
+      "article_id": null,
+      "tier": 2,
+      "assigned_weight": "medium",
+      "description": "Retrospective sweep for material withheld before the register existed. The p_304 re-read passed over sensitive passages in at least one document before kb/restricted/register.jsonl was created, and the earlier plaque audit and Phase 2 research passes almost certainly did the same without recording it. Re-check the reading ledger (kb/reread/ledger.jsonl) and the research log for anything marked withheld, omitted or 'not extracted', and register each one. Going forward every withholding gets a register entry at the moment it is made.",
+      "blocking": false,
+      "created_at": "2026-09-03",
+      "status": "pending",
+      "notes": "The point of the register is that a later pass can see what an earlier one decided not to write down. Entries created retrospectively are worth less than entries created at the time, but they are worth more than nothing."
     }
   ],
   "queue_ordering": {

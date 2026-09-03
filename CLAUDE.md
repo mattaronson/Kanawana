@@ -447,6 +447,33 @@ Search public content only:
 Do not extract personal information about living private individuals. Extract only institutional
 facts, historical information, and information about public figures.
 
+**Amendment, 2026-09-03 — withhold, but record the withholding.** The rule above was being
+followed by simply not writing the material down, which loses it: a later pass has no way to
+know something was passed over, or why, and re-reads the same document to the same dead end.
+From now on, when a source carries material that should not be published, do three things:
+
+1. **Keep it out of the published layer** — `kb/facts.json` and `wiki/`. That layer is the
+   indexed, searchable one, and indexing is the actual harm. A supervisor's 1973 judgement of a
+   nineteen-year-old, sitting in a scanned report, is public but unfindable; the same sentence
+   under that person's name in a wiki article is the first thing a search returns for the rest
+   of their life.
+2. **Register it** in `kb/restricted/register.jsonl` — that the material exists, which document
+   and line range it sits in, what kind it is, why it was withheld, and when to look again.
+   **Never the material itself, and never the names.** See `kb/restricted/README.md`.
+3. **Publish what survives the removal.** The institutional fact usually does. "A departmental
+   director was asked to leave mid-season after repeated attempts to resolve his working
+   relationships" is the historically useful claim; the name adds nothing to it.
+
+Note that this repository is **public**. There is no confidential file here — anything committed
+is published, and git history is permanent. The register is content-free by design for that
+reason, and the guard `scripts/verify/restricted_guard.py` enforces it: it derives the restricted
+names from the source at runtime, checks they do not appear in the published layer, and stores
+nothing.
+
+The default embargo for personal assessments of identifiable private individuals is the later of
+record date + 75 years and estimated birth + 100, released earlier only on consent or confirmed
+death. `review_on` is a date to look again, never a date to publish automatically.
+
 ### 8. Autonomous Article Spawning
 
 Spawn new article stubs for any of the following once ≥5 facts exist:
