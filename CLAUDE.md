@@ -476,10 +476,6 @@ death. `review_on` is a date to look again, never a date to publish automaticall
 registered and dated, every marker paired, and no name occurring only in embargoed facts
 appearing in an article outside a block. **Unlabelled is the failure, not present.**
 
-The default embargo for personal assessments of identifiable private individuals is the later of
-record date + 75 years and estimated birth + 100, released earlier only on consent or confirmed
-death. `review_on` is a date to look again, never a date to publish automatically.
-
 ### 8. Autonomous Article Spawning
 
 Spawn new article stubs for any of the following once ≥5 facts exist:
