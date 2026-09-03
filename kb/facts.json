@@ -1,8 +1,8 @@
 {
-  "version": "6.00",
-  "kb_version": "6.00",
+  "version": "6.01",
+  "kb_version": "6.01",
   "migrated_from": "3.3",
-  "fact_count": 2422,
+  "fact_count": 2426,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -42010,6 +42010,80 @@
       "date_ref": "1987",
       "conflicts_with": [],
       "added_version": "6.00",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_2461",
+      "claim": "COUNSELLORS IN TRAINING EXISTED AT KANAWANA BY 1941, NOT THE 1960s. cit-lit-program.md states flatly that 'the Counsellor-in-Training program was introduced at Kanawana in the 1960s' and asks who introduced it. The CFCF radio broadcast of 26 June 1941 has the camp's Chief, HOWIE LANGILLE, describing it as an established category: 'Our youngest group to receive leadership training are known as COUNSELLORS IN TRAINING, and are selected from our most experienced campers. Of course it is the hope and ambition of each of these to become a counsellor after several years of experience and training.' The same passage sets out the whole ladder: 58 counsellors took the training course that year, of whom the Personnel Committee -- chaired by MR. J. W. PERKS, Assistant Superintendent of the Protestant School Board -- selected 45, with a further number taken as Assistant Counsellors, and CITs drawn from the most experienced campers below them. The programme this wiki dates to the 1960s was running at least twenty years earlier.",
+      "sources": [
+        "src_ia_kanawana_broadcast_cfcf_1941"
+      ],
+      "confidence": "stated",
+      "category": "programs",
+      "entities": [
+        "CIT programme",
+        "Howie Langille",
+        "J. W. Perks"
+      ],
+      "date_ref": "1941",
+      "conflicts_with": [],
+      "added_version": "6.01",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_2462",
+      "claim": "KANAWANA HOSTED THIRTY OR MORE WARTIME EVACUEE CHILDREN IN 1941. The Chief, on air: 'It is Kamp Kanawana's privilege this year to have THIRTY OR MORE EVACUEES IN CAMP; BOYS FROM ENGLAND, SCOTLAND AND EUROPEAN COUNTRIES. Kanawana has frequently been referred to as an international boy's camp. The contribution to camp life made by other than Canadian boys at Kanawana has indeed been important throughout the history of the camp.' Nothing in this project records the camp's part in the wartime evacuation of British and European children to Canada. The claim that Kanawana was 'frequently referred to as an international boy's camp' also bears directly on named-places-and-camp-vocabulary.md, which records the documentary evidence for international presence as thin.",
+      "sources": [
+        "src_ia_kanawana_broadcast_cfcf_1941"
+      ],
+      "confidence": "stated",
+      "category": "history",
+      "entities": [
+        "evacuees",
+        "Second World War"
+      ],
+      "date_ref": "1941",
+      "conflicts_with": [],
+      "added_version": "6.01",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_2463",
+      "claim": "KANAWANA'S 1941 SEASON, FROM ITS OWN RADIO BROADCAST OF 26 JUNE. 'The 48TH SEASON of Kamp Kanawana... opens Saturday June 28th' and continued to 23 August -- 1941 minus 47 gives 1894 as season one, matching the 1964, 1966, 1974 and 1978 reports. A staff of 68 was hired; an ADVANCE PARTY OF FOURTEEN COUNSELLORS joined carpenters who had been at work for two months; about a hundred campers arrived in the first group; registrations stood 30% above the same date the previous year and were deliberately restricted 'to prevent overcrowding'. FROM THE 1940 SEASON, cited on air: ninety life-saving awards were won, Royal Life Saving Society and YMCA, including RLSS Silver Medallions and YMCA Senior awards; of 103 non-swimmers, 55 passed swimming tests and FOUR COMPLETED THE 'CROSS THE LAKE SWIM'. Every counsellor was required to hold a life-saving certificate or be able to pass the test, and TEN QUALIFIED LEADERS PATROLLED general swims. The broadcast quotes in full a farewell letter written by two junior counsellors of 1940, signed 'Dave & Don': 'Tomorrow we are leaving dear old Kanawana, leaving behind fond faces, but taking back with us memories that will be cherished... the whispering trees and lapping water ever aid the strengthening of spirit, mind and body, the theme of Kanawana life.'",
+      "sources": [
+        "src_ia_kanawana_broadcast_cfcf_1941"
+      ],
+      "confidence": "stated",
+      "category": "chronology",
+      "entities": [
+        "Howie Langille",
+        "Kamp Kanawana"
+      ],
+      "date_ref": "1940-1941",
+      "conflicts_with": [],
+      "added_version": "6.01",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_2464",
+      "claim": "THE 10 JUNE 1939 CFCF BROADCAST WAS THE THIRD OF A SERIES OF THREE, and it put a camper, a leader and a parent on the air. The two earlier Saturday-evening programmes had featured 'MR. MACDIARMID, the director, and DR. MITCHELL, the medical advisor of Kamp Kanawana'. The third brought in JUNIOR TAYLOR, fourteen, 'a camper for the past four years' -- who says 'I went to camp first in 1935', and who is almost certainly the 'Junior Taylor, Juvenile' awarded a best-camper shield in the 1935 season chronicle; BASIL BURGESS, a third-year McGill student, camper from 1930 and leader for three years, returning for his tenth year; and J. F. CARTIER of the Camp Board, father of a camper named Jimmie. Greig Macdiarmid closed the series as 'chief of the camp'. DETAILS GIVEN ON AIR: the camp opened 24 June 1939 and ran ten weeks to 2 September, for boys aged ten to eighteen; information was available at 'any of the FOURTEEN YMCA BRANCHES in the city' -- double the seven listed in the 1921 brochure -- or by telephoning MArquette 8331. Cartier describes 'a BOARD OF MANAGEMENT OF TWENTY-TWO prominent Montreal Business and Professional men' and announces that 'this year... we have added A NURSE to the staff as a further health measure. The nurse will work closely with the Doctor.' Junior Taylor names the chef: 'CHEF McHARDY did a great job last year, and we're all glad he's coming back again.' Burgess describes the pre-war counsellor training course, which covered 'such things as Understanding Boy Nature and How to lead Hikes': 'If a fellow doesn't take in the training course he has small chance of being accepted.' The camp is twice called 'the Boy's Paradise in the Laurentians'.",
+      "sources": [
+        "src_ia_kanawana_broadcast_cfcf_1939"
+      ],
+      "confidence": "stated",
+      "category": "media",
+      "entities": [
+        "Greig Macdiarmid",
+        "Junior Taylor",
+        "Basil Burgess",
+        "J. F. Cartier",
+        "Dr. Mitchell",
+        "Chef McHardy",
+        "CFCF"
+      ],
+      "date_ref": "1939",
+      "conflicts_with": [],
+      "added_version": "6.01",
       "added_by": "manual"
     }
   ]

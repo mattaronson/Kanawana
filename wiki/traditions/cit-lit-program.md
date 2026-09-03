@@ -1,6 +1,6 @@
 # The CIT/LIT Program
 
-*Status: draft | Sources: 6*
+*Status: draft | Sources: 7*
 *Last Updated: 2026-07-11*
 
 ## Overview
@@ -9,7 +9,7 @@ Camp Kanawana's Counsellor-in-Training (CIT) and Leader-in-Training (LIT) progra
 
 ## Origins and Early Decades
 
-The Counsellor-in-Training program was introduced at Kanawana in the 1960s.^1 A. Ross Seaman's directorship (1959–1967) — which also oversaw the 1959 section renaming and the La Vérendrye canoe-tripping expansion — provides the most likely institutional context for the CIT program's creation, though no source directly credits Seaman with introducing it specifically. The earliest documented CIT cohort is captured on a 1960 dining-hall plaque naming Ron McCallum simply as "Director" — most likely of the CIT/leadership program specifically rather than of the camp, since A. Ross Seaman is documented as overall director that year, though this remains conflict **c_013**, not settled.^2 Grand Portage served as the CIT director's cabin through the 1980s and 1990s.^3
+**The Counsellor-in-Training programme was running at Kanawana by 1941 at the latest.** This article previously dated its introduction to the 1960s; that was wrong by at least twenty years, and the correction comes from the camp's own radio broadcast. On CFCF on 26 June 1941, Chief Howie Langille set out the whole leadership ladder on air: fifty-eight counsellors took that year's training course, the Personnel Committee under J. W. Perks of the Protestant School Board selected forty-five, others were taken as Assistant Counsellors, and below them "our youngest group to receive leadership training are known as **Counsellors in Training**, and are selected from our most experienced campers. Of course it is the hope and ambition of each of these to become a counsellor after several years of experience and training."^7 A leadership pipeline from experienced camper to counsellor was therefore formal, named and publicly described before the Second World War.^1 A. Ross Seaman's directorship (1959–1967) — which also oversaw the 1959 section renaming and the La Vérendrye canoe-tripping expansion — provides the most likely institutional context for the CIT program's creation, though no source directly credits Seaman with introducing it specifically. The earliest documented CIT cohort is captured on a 1960 dining-hall plaque naming Ron McCallum simply as "Director" — most likely of the CIT/leadership program specifically rather than of the camp, since A. Ross Seaman is documented as overall director that year, though this remains conflict **c_013**, not settled.^2 Grand Portage served as the CIT director's cabin through the 1980s and 1990s.^3
 
 From 1975 onward — the earliest post-1960 CIT record, a plaque naming Lynne Robinson as "Directress" — and regularly through the 1980s, 1990s and into the early 2000s, the program appears on surviving dining-hall and canoe-board plaques, naming successive cohorts and their program directors year over year.^2 This — a continuity record that, taken together with the 1960 plaque, spans at least three and a half decades before the program's most recent documented form. Individual CITs and program directors named on these plaques are already catalogued collectively in [[people/directors-index|Directors and Staff of Camp Kanawana]]'s Section and Program Directors table, consistent with this wiki's policy of treating undocumented recent staff as collective reference-table entries rather than standalone biographical subjects.
 
@@ -23,7 +23,7 @@ As of 2026, the CIT program is branded "Trailblazers": a 48-day program (four se
 
 ## Open Questions
 
-1. [Important] Who introduced the CIT program in the 1960s, and was it connected to A. Ross Seaman's broader program reforms during his 1959–1967 directorship? No source directly credits him.
+1. [Important, reframed 2026-09-03] ~~Who introduced the CIT program in the 1960s~~ — the programme predates that by two decades (1941 at the latest).^7 The question is now **when it began and what Seaman changed**: a CIT category existed in 1941, and the 1960s reforms were a redesign of something already there, not a founding. The Kanawana annual and director's reports for 1964-1979 document at least three further redesigns — co-ed and released from table-waiting in 1969, the CIT and Junior Counsellor titles merged in 1971, integrated into the sections rather than run separately in 1973 — so this is a programme repeatedly rebuilt, not a continuous line? No source directly credits him.
 2. [Nice-to-have] What is the precise relationship between the "CIT" and "LIT" designations at Kanawana — are they sequential stages, parallel tracks, or the same program under different names at different points in the camp's history?
 3. [Nice-to-have] When did the program adopt the "Trailblazers" branding specifically?
 
@@ -43,6 +43,7 @@ As of 2026, the CIT program is branded "Trailblazers": a 48-day program (four se
 4. Leigh Evans, "Camp" page on WordPress blog [src_leigh_evans_blog].
 5. YMCA Quebec, "Trailblazers CIT (Ages 16-17) – 48 days" [src_ymcaq_trailblazers_2026].
 6. YMCA Quebec, "Leaders in Training Information Guide Summer 2026" [src_ymcaq_lit_guide_2026].
+7. *Kamp Kanawana* broadcast script, station CFCF, 26 June 1941 [src_ia_kanawana_broadcast_cfcf_1941]. Full text cached at `sources/cache/ymca-montreal-fonds/1941-06-26-ymca-kamp-kanawana-broadcast-station-cfcf.txt`; read end to end 2026-09-03 under p_304. See [f_2461].
 
 ## Research Notes
 
