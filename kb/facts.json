@@ -1,8 +1,8 @@
 {
-  "version": "5.87",
-  "kb_version": "5.87",
+  "version": "5.88",
+  "kb_version": "5.88",
   "migrated_from": "3.3",
-  "fact_count": 2356,
+  "fact_count": 2365,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -40801,6 +40801,163 @@
       "date_ref": "1964",
       "conflicts_with": [],
       "added_version": "5.87",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_2395",
+      "claim": "KANAWANA PROPOSED CO-EDUCATIONAL CAMPING IN ITS 1965 ANNUAL REPORT, two years before the pilot this wiki dates to 1967-1970. The report recommends 'that the Camp Committee give consideration to the setting-up of a pilot project in co-ed camping at Kanawana for the 1966 season', and specifies it: run it in the WOODSMEN SECTION (ten and eleven year olds), add one unit (possibly a tent) to make eight units, four of boys and four of girls; staff accommodation is already adequate; the toilet building needs only 'a partition and a doorway'; and a wash house with showers for the girls would cost no more than $300 or $400. It also records the earlier step: under the chairmanship of KEITH FARQUHARSON a committee had surveyed the YMCA constituency on interest in camping for girls and got 'a very large and positive response', and recommended a girls' camp to the Metropolitan Board of Directors, which agreed there was interest but said it 'could not be contemplated at that time because of other items that had to take priority'. The report's argument: 'Children today, in practically all instances, take part in co-ed activities in the Montreal YMCA and camping need not be an exception.'",
+      "sources": [
+        "src_ia_kanawana_report_1965"
+      ],
+      "confidence": "stated",
+      "category": "history",
+      "entities": [
+        "Keith Farquharson",
+        "Woodsmen Section",
+        "coeducation"
+      ],
+      "date_ref": "1965",
+      "conflicts_with": [],
+      "added_version": "5.88",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_2396",
+      "claim": "KANAWANA RAN A FIVE-AND-A-HALF-DAY T-GROUP LABORATORY TRAINING PROGRAMME FOR ITS STAFF IN 1965, the first year it did so, lengthening pre-camp training from one week to two and starting on 13 June. Two days of general orientation, then the laboratory week, then a second week of camping skills. FOUR SENIOR MONTREAL YMCA STAFF SERVED AS TRAINERS: TED LOWE, Public Relations Secretary; BRUCE McFARLANE, Executive Director of the Verdun-LaSalle Branch; RAY ROUSE, Executive Secretary of the Northmount Branch; and RIX ROGERS, Co-ordinator of Staff Development. The director calls the impact 'startling' and frames the season as the start of 'a whole new era of camping both in concept and in program'. This sits directly alongside Hedley Dimock's counsellor-attitude studies conducted at Kanawana in 1960-61 and held in the Concordia fonds, and is the same human-relations training tradition.",
+      "sources": [
+        "src_ia_kanawana_report_1965"
+      ],
+      "confidence": "stated",
+      "category": "programs",
+      "entities": [
+        "Ted Lowe",
+        "Bruce McFarlane",
+        "Ray Rouse",
+        "Rix Rogers",
+        "Hedley Dimock"
+      ],
+      "date_ref": "1965",
+      "conflicts_with": [],
+      "added_version": "5.88",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_2397",
+      "claim": "THE KANAWANA-TAMARACOUTA TRAIL WAS OPENED IN THE SEVENTH WEEK OF THE 1965 SEASON, a year after the two camps jointly bought the lot that joined their properties. The 1965 annual report: the trail 'was officially opened by the \"Factor\" of Tamaracouta and the \"Chief\" of Kanawana with campers and staff from both camps in attendance', followed by a day in which both camps 'met at the end of Lake Wilson, pitched camp and for a day joined in a program together'. Both camps recommended it become an annual feature. Neither the trail nor the joint programme appears anywhere else in this project.",
+      "sources": [
+        "src_ia_kanawana_report_1965"
+      ],
+      "confidence": "stated",
+      "category": "site",
+      "entities": [
+        "Camp Tamaracouta",
+        "Lake Wilson",
+        "Kanawana-Tamaracouta Trail"
+      ],
+      "date_ref": "1965",
+      "conflicts_with": [],
+      "added_version": "5.88",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_2398",
+      "claim": "THE KANAWANA CAMP BELL WAS CRACKED IN 1965. A camper went missing briefly and the camp followed its practice of tolling the bell continuously as a directional signal for both the boy and the search party; to make the job easier the staff member responsible struck the bell repeatedly with a hatchet instead of using the clapper. The child was never more than fifteen or twenty feet from his cabin. Director A. Ross Seaman treats the crack as an omen in the report: 'This bell which has signalled camp time for many, many years was damaged in the performance of its duty... the era that was signalled for so long by this old bell may well have drawn to a close.' The practice of tolling the bell for a lost camper is itself recorded nowhere else in this project.",
+      "sources": [
+        "src_ia_kanawana_report_1965"
+      ],
+      "confidence": "stated",
+      "category": "traditions",
+      "entities": [
+        "camp bell",
+        "A. Ross Seaman"
+      ],
+      "date_ref": "1965",
+      "conflicts_with": [],
+      "added_version": "5.88",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_2399",
+      "claim": "MRS. TASSE WAS PAID CAMP STAFF ALONGSIDE HER HUSBAND. The 1965 annual report, crediting the caretaker for the plant's condition -- '22,000 board feet of lumber was cut at camp last winter, as well as approximately 100 cords of firewood, which would tell any Camp Committee member that Julien Tasse was hard at work last winter' -- continues: 'He was assisted by Mrs. Tasse who does the camp laundry during the summer, as well as taking care of the feeding of the advance party for the period of six weeks before camp opens.' The same report repeats 1964's recommendation in stronger terms: 'More adequate housing for the camp caretaker and his family is imperative and pressing and should receive immediate attention.'",
+      "sources": [
+        "src_ia_kanawana_report_1965"
+      ],
+      "confidence": "stated",
+      "category": "people",
+      "entities": [
+        "Julien Tasse",
+        "Mrs. Tasse"
+      ],
+      "date_ref": "1965",
+      "conflicts_with": [],
+      "added_version": "5.88",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_2400",
+      "claim": "KANAWANA'S 1965 SEASON WAS ITS WORST REGISTRATION IN MANY YEARS: about 1,200 camper weeks against a budget of 1,500. The annual report lists six causes without ranking them: three consecutive poor summers, especially in August, felt by many camps in the area; the fee increase; the growth of family camping; summer school taking boys who had done poorly in the school year, cancelling 'a fair number of applications'; the average length of stay shortening year on year; and, stated plainly, 'that Kamp Kanawana is not seen as a status camp and with the fee being charged today - by paying a very little more the youngster can be sent to one of the status private camps.' MOREY CROSS led the Camp Committee's promotion effort and GAVIN TURLEY, a YMCA Fellowship Student, was hired part-time as promotion officer and Business Manager on a minimum two-year basis. Seven Fellowship Students were on the 1965 staff, most in senior roles.",
+      "sources": [
+        "src_ia_kanawana_report_1965"
+      ],
+      "confidence": "stated",
+      "category": "attendance",
+      "entities": [
+        "Morey Cross",
+        "Gavin Turley"
+      ],
+      "date_ref": "1965",
+      "conflicts_with": [],
+      "added_version": "5.88",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_2401",
+      "claim": "RANGERS WAS A CAMPER SECTION AT KANAWANA IN THE 1950s AND 60s, carrying its own line in the camp's ten-year statistical summary. The 1965 annual report's 'Camper Weeks by Sections' table runs Pioneer, Woodsmen, Coureurs de Bois, Pathfinders and RANGERS, with Rangers far smaller than the others -- on the order of 16 camper weeks in 1955, about 130 in 1957 and 118 in 1958 (figures partly OCR-damaged) against roughly 380-400 each for the four main sections. Rangers is absent from the 1964 report's four-section structure. CORRECTION TO MY OWN FIRST DRAFT OF THIS FACT: I recorded this as new. It is not. section-names.md already carries camper-week tables giving Rangers from at least 1955 to a last cohort in 1967, drawn from other annual reports. What the 1965 report adds is a second independent attestation, the per-section magnitudes for 1955-58, and the fact that Rangers had already dropped out of the section structure the 1964 director described.",
+      "sources": [
+        "src_ia_kanawana_report_1965"
+      ],
+      "confidence": "stated",
+      "category": "programs",
+      "entities": [
+        "Rangers"
+      ],
+      "date_ref": "1955-1965",
+      "conflicts_with": [],
+      "added_version": "5.88",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_2402",
+      "claim": "THE GOLDEN ARROW'S FIRST RECIPIENT, 1965. The award was instituted that summer, given 'at the discretion of the staff to any boy in camp who shows extraordinary personal achievement during his stay... not a popularity poll but an award that is given on recommendation only.' The 1965 annual report presents it to a camper it names only as Gordon, a foster child who was almost totally blind, with some vision in one eye and able to read a little through very thick lenses. At camp he learned to go off the high dive -- 'a real achievement when you can't see where the water is' -- and earned his 'C' canoeist, the report noting that 'nobody made the test any easier for Gordon. He had to measure up to the standard of fully sighted boys.' The report also records the swimming programme's first stage as marked by a 'red disc'.",
+      "sources": [
+        "src_ia_kanawana_report_1965"
+      ],
+      "confidence": "stated",
+      "category": "traditions",
+      "entities": [
+        "Golden Arrow"
+      ],
+      "date_ref": "1965",
+      "conflicts_with": [],
+      "added_version": "5.88",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_2403",
+      "claim": "KANAWANA OFFICE AND PLANT NOTES, 1965. MRS. OLGA HALL joined as Office Secretary in the spring, succeeding MRS. DUFFY who left to have a family; during that year's mail strike she telephoned every parent whose son had written, so letters could be collected by hand and replies carried up to camp. Two skilled chefs worked together for the first time in many years after the Camp Committee raised the assistant's pay, and new white plastic dishes with a blue border from the Cyanamid Company of Canada replaced the worn set. Five new tents were bought and platforms enlarged from 12 x 14 to 14 x 16 in the Coureurs de Bois and Pathfinder sections. A CAMP PLANT MANUAL was being developed with photographs, building dimensions, fixed contents and per-building maintenance charts, to be kept current by the Business Manager. The report thanks the N.D.G. Y's Men's Club, the Westmount Branch YMCA, the Westmount Police Department, Mr. Romeo Lafleur and the Montreal YMCA staff. Signed by A. Ross Seaman, Director.",
+      "sources": [
+        "src_ia_kanawana_report_1965"
+      ],
+      "confidence": "stated",
+      "category": "institutional",
+      "entities": [
+        "Olga Hall",
+        "Romeo Lafleur",
+        "A. Ross Seaman"
+      ],
+      "date_ref": "1965",
+      "conflicts_with": [],
+      "added_version": "5.88",
       "added_by": "manual"
     }
   ]

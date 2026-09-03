@@ -34,7 +34,17 @@ answer than further inference from the printed record, and it is one line in a r
 
 The current section structure reflects a gendered parallel system in place since at least the early 1980s: Pathfinders (girls 13–15) and Pioneers (girls 7–12) serve girls, while Coureurs des Bois (boys 13–15) and Woodsmen (boys 7–12) serve boys. The Mountaineers section (est. 2022) provides a gender-neutral option for campers aged 13–15. Voyageurs is an all-gender long canoe trip program, Trailblazers are Leaders-in-Training (age 16), and Foresters specialize in canoe trip leadership. This suggests that when coeducation occurred, the camp created parallel gender-specific section tracks rather than integrating girls into the existing boys' sections. (See the section-names wiki article for fuller treatment.)
 
-## The Co-ed Pilot (1967-1970)
+## The Proposal (1965) and the Pilot (1967-1970)
+
+**The camp asked for it in writing in 1965, and named a design.** Kanawana's annual report for that season recommends "that the Camp Committee give consideration to the setting-up of a pilot project in co-ed camping at Kanawana for the 1966 season," and specifies exactly how: run it in the **Woodsmen Section**, the ten- and eleven-year-olds, because "this section lends itself to such a project"; add one unit, possibly a tent, to make eight, "four of which would be boys and four would be girls"; staff accommodation was already adequate; the toilet building needed "only a partition and a doorway"; and a wash house with showers for the girls "would not be an expense of more than $300 or $400."^k65
+
+The argument is one sentence: "Children today, in practically all instances, take part in co-ed activities in the Montreal YMCA and camping need not be an exception."^k65
+
+**It was not the first attempt either.** The same report records that a committee chaired by **Keith Farquharson** had already surveyed the YMCA constituency on interest in camping for girls and received "a very large and positive response," and had recommended to the Metropolitan Board of Directors that a girls' camp be established. The Board agreed there was "a good deal of interest in such a project" but said "it could not be contemplated at that time because of other items that had to take priority."^k65
+
+So the sequence runs: a constituency survey and a girls'-camp recommendation deferred by the Board; a costed co-ed pilot proposed from inside the camp for 1966; and then the archival record group below, 1967-1970. What happened in 1966 is not established here — the proposal is in the 1965 report and the pilot files begin in 1967, and nothing yet read closes that gap.
+
+### The archival record (1967-1970)
 
 The Concordia University archives (sub-series 12A, YMCA of Montreal fonds) list "Reports on Co-ed Camping Pilot Project. - 1967-1970" as a distinct archival record group. This is significant: coeducation at Kanawana was not simply a decision made and implemented in a single season, but a multi-year pilot that generated enough documentation to constitute its own archival series.
 
@@ -129,6 +139,7 @@ The Mountaineer program represents a conceptual shift from the 1968-1969 transit
 - *The Gas Bag*, 1923 Re-union Number. [Internet Archive](https://archive.org/details/the-gas-bag-1923-09-01). Documents 1923 visit by girls from Marois.
 - YMCA John Island Alumni Newsletter, 2005 (documents 1969 "senior boys section" reference).
 - Concordia University Archives, YMCA of Montreal fonds, sub-series 12A. https://www.concordia.ca/offices/archives/ymca-fonds-sub-series-12A.html
+- ^k65: *Kamp Kanawana Annual Report 1965*, YMCA of Montreal [src_ia_kanawana_report_1965], "Co-ed Camping" section. Full text cached at `sources/cache/ymca-montreal-fonds/1965-kamp-kanawana-annual-report.txt`; read end to end 2026-09-03 under p_304. See [f_2395].
 - ^ia: Kamp Kanawana season reports for 1965, 1969 and 1970, and the 1988 report *Kanawana… A Place to Grow*, all in the Concordia-digitized YMCA of Montreal fonds on Internet Archive [src_ia_kanawana_report_1965, src_ia_kanawana_report_1969, src_ia_kanawana_report_1970, src_ia_kanawana_place_to_grow_1988]
 - Concordia University Archives, YMCA of Montreal fonds, sub-sub-series 12B04. https://www.concordia.ca/offices/archives/ymca-fonds-sub-sub-series-12B04.html
 - Montreal Families, "Gender-Expansive Options at Summer Camp" (article discussing Kanawana's approach under Kate Taylor).
