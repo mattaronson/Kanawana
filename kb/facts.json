@@ -1,8 +1,8 @@
 {
-  "version": "5.88",
-  "kb_version": "5.88",
+  "version": "5.91",
+  "kb_version": "5.91",
   "migrated_from": "3.3",
-  "fact_count": 2365,
+  "fact_count": 2380,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -40958,6 +40958,260 @@
       "date_ref": "1965",
       "conflicts_with": [],
       "added_version": "5.88",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_2404",
+      "claim": "THE 1966 KANAWANA ANNUAL REPORT IS WRITTEN ALMOST ENTIRELY IN STATISTICS, and this project had extracted two facts from it. PRE-SEASON: 916 staff man-hours on promotion plus unrecorded branch hours; 3,855 phone conversations between camp staff and parents; 9,000 folders and flyers distributed; 608 parent-hours at information meetings; 16 committee members giving 137 man-hours; 335 hours interviewing prospective staff and 195 pieces of recruiting correspondence; sixty staff hired by 1 June; 4,848 man-hours preparing the camp; $14,319 spent on supplies by 1 June; $2,195 for the advance guard's food and wages; income at 1 June of $34,990; a $5,000 opening food order. Staff training totalled 6,150 man-hours and concluded 24 June, of which professional YMCA staff contributed 173 hours of HUMAN RELATIONS TRAINING -- the T-Group method introduced in 1965, continuing. On 25 June six buses and trucks travelled 720 miles to bring 134 campers to opening day.",
+      "sources": [
+        "src_ia_kanawana_annual_report_1966"
+      ],
+      "confidence": "stated",
+      "category": "institutional",
+      "entities": [
+        "Kamp Kanawana"
+      ],
+      "date_ref": "1966",
+      "conflicts_with": [],
+      "added_version": "5.89",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_2405",
+      "claim": "WHAT A KANAWANA SEASON CONSUMED AND PRODUCED, 1966, from the annual report. FOOD: 43,908 meals eaten in camp and 5,678 more prepared, cooked and eaten on the trail; 10,000 quarts of milk; 5,610 pounds of meat; 3,485 loaves of bread; 131,724 dishes washed with 280 pounds of detergent; 40 cords of hardwood burned by the hot water boiler. PROGRAMME HOURS: 723 on the archery range; 13,040 in the craft shop and on the nature trails; 4,410 of swim instruction; 6,920 in canoe instruction and trips; 631 waterfront tests passed; 23 canoe trips of two to five days; 918 camper-days on hikes; 2,174 counsellor-hours of lifeguard duty; 4,832 training hours in the Training Camp. The camp truck drove 14,237 miles, an average of 237 a day. Campers and staff between them lost only 62 hospitalized days, 'without doubt the best record in the past eight years'. The tuck shop sold 256 paddles and, as 'an innovation', 480 gallons -- 7,680 cups -- of orange and grape drink. The business office handled 12,632 pieces of mail.",
+      "sources": [
+        "src_ia_kanawana_annual_report_1966"
+      ],
+      "confidence": "stated",
+      "category": "programs",
+      "entities": [
+        "Kamp Kanawana"
+      ],
+      "date_ref": "1966",
+      "conflicts_with": [],
+      "added_version": "5.89",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_2406",
+      "claim": "KANAWANA STAFF WERE PAID 27.1 CENTS AN HOUR IN 1966, and the report says so itself, with an exclamation mark and a question mark: '51 program and administrative staff members worked a total of 65,382 hours this past Summer for a total payroll of $17,660, providing an average hourly wage of 27.1 cents per hour?!' Ten senior supervisory staff gave 704 hours of intensive supervision; senior policy and training meetings took 380 man-hours; committee members spent 153 man-hours at camp. The whole season came to 111,614 man-hours against a budget of $65,000. Quebec had no general minimum wage covering this work at the time; the figure is recorded here as the camp's own accounting, not as a legal comparison.",
+      "sources": [
+        "src_ia_kanawana_annual_report_1966"
+      ],
+      "confidence": "stated",
+      "category": "institutional",
+      "entities": [
+        "Kamp Kanawana"
+      ],
+      "date_ref": "1966",
+      "conflicts_with": [],
+      "added_version": "5.89",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_2407",
+      "claim": "THE 1966 REPORT CARRIES A TEN-YEAR STATISTICAL SUMMARY, 1956-1966, that this project has never used: camper weeks by section (Pioneer, Woodsmen, Coureurs de Bois, Pathfinders, Rangers) year by year; campers by single year of age from 7 to 17; length of stay by bracket; NUMBER OF CAMPERS BY RELIGION with columns for Protestant, Roman Catholic, Jewish, Buddhist, Hindu and not reported (1956: 1,134 Protestant, 170 Roman Catholic, 320 Jewish; 1958: 1,203 / 184 / 236; 1960: 1,079 / 258 / 248; 1961: 963 / 266 / 280 -- a Protestant share falling steadily while Roman Catholic and Jewish shares rise); counsellor ages by single year; numbers of programme and non-programme staff, junior counsellors and counsellors-in-training; and the percentage of counsellors who were college men. It also carries a GEOGRAPHICAL DISTRIBUTION OF CAMPERS for 1965 and 1966 by Montreal district and suburb -- Ile Perrot, Senneville, Baie d'Urfe, Beaurepaire, Beaconsfield, Pointe Claire, Valois, Dorval, Lachine, Ville St. Pierre, St. Laurent, Ahuntsic and Cartierville, N.D.G./Montreal West/Hampstead, Cote St. Luc, Westmount, Snowdon, Central, Outremont, North End, Rosemount, T.M.R., Rosemere, Roxboro, Dollard des Ormeaux, Pierrefonds, South Shore, Verdun-LaSalle, Hudson, Sherbrooke, Chomedey, Fabreville, Montreal East, Ville d'Anjou, Arvida -- plus Ontario, New Brunswick, and 'others from small towns in Quebec and U.S.A. (Campership Fund)'. The OCR of the tables is damaged and individual figures need checking against the scan, but the structure and many values are legible.",
+      "sources": [
+        "src_ia_kanawana_annual_report_1966"
+      ],
+      "confidence": "stated",
+      "category": "attendance",
+      "entities": [
+        "Kamp Kanawana"
+      ],
+      "date_ref": "1956-1966",
+      "conflicts_with": [],
+      "added_version": "5.89",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_2408",
+      "claim": "KANAWANA'S 1966 REPORT NAMES ITS OWN PLANT AS OBSOLETE, in a line set apart on the page: 'All this and much, much more - with a plant designed and constructed to 1940 specifications - for youth designed and educated for the space-plus age.' The same report records that LAURENTIAN LANDSCAPE built the first phase of a new camp playing field that year, and that 'time just ran out before the rifle range could be built this year'. Thirty loads of sand and gravel went into the road and beaches. The camp 'assisted the local municipality and school board to the tune of $3,037.08' -- a payment in lieu or a direct contribution, the report does not say which.",
+      "sources": [
+        "src_ia_kanawana_annual_report_1966"
+      ],
+      "confidence": "stated",
+      "category": "site",
+      "entities": [
+        "Laurentian Landscape",
+        "Kamp Kanawana"
+      ],
+      "date_ref": "1966",
+      "conflicts_with": [],
+      "added_version": "5.89",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_2409",
+      "claim": "THE 1966 REPORT CALLS THE SEASON 'THE SEVENTY-THIRD YEAR OF CONTINUOUS OPERATION' and, separately, 'the Seventy-third year of Y.M.C.A. camping for boys in Montreal'. Counting back from 1966 that puts year one at 1894, matching the 1964 report's 'seventy-first season... established in 1894'. Both are explicit institutional claims of unbroken operation from 1894, made by the camp about itself, and they should be weighed against this wiki's treatment of the postwar and interwar gaps in its own records: an absence of surviving documents is not the same as an interruption in operation, and the camp did not think it had been interrupted. The report also credits SHAUN ERB and HARLEY SMITH by name for their contribution to the season, thanks the Westmount Branch YMCA for the use of its building as 'the Montreal Terminal for camper transportation', and thanks the Westmount Police Department for co-operation on change-over days. Signed A. Ross Seaman, Director.",
+      "sources": [
+        "src_ia_kanawana_annual_report_1966"
+      ],
+      "confidence": "stated",
+      "category": "chronology",
+      "entities": [
+        "Shaun Erb",
+        "Harley Smith",
+        "A. Ross Seaman"
+      ],
+      "date_ref": "1966",
+      "conflicts_with": [],
+      "added_version": "5.89",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_2410",
+      "claim": "THE KANAWANA CIT PROGRAMME WENT CO-ED IN 1969 AND STOPPED BEING WORK-LEARNING IN THE SAME YEAR -- 'two major innovations' by the director's own account. There were TWELVE MALE AND FOUR FEMALE CITs, with a male AND a female CIT director; most were sixteen. The programme 'was freed of its traditional work-learning aspect and was given the freedom to spend its time learning the various skills required to be a camp staff person. This meant that they no longer were involved in such tasks as waiting on tables.' The cohort SET UP THEIR OWN CAMP ON LAKE WILSON and 'built a small model camp from scratch... an Adirondack shelter for sleeping, a shelter for dining, fireplace, etc, and did a tremendous job.' Five problems are recorded frankly, including that 'the abilities, physical strength and interests of males and females are different and this led to conflict between the groups', that the CIT 'sits in a difficult position - neither staff nor camper', and that the traditional shortage of Junior Counsellor places meant the camp would struggle to place all its qualified CITs the following year.",
+      "sources": [
+        "src_ia_kanawana_report_1969"
+      ],
+      "confidence": "stated",
+      "category": "programs",
+      "entities": [
+        "CIT programme",
+        "Lake Wilson"
+      ],
+      "date_ref": "1969",
+      "conflicts_with": [],
+      "added_version": "5.90",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_2411",
+      "claim": "OUTSIDE GROUPS AND CAMPERSHIPS AT KANAWANA IN 1969, from the director's report. Groups using the property that year included 'the Rhodes students from England, a Kairos group, several troops of Scouts and Cubs and a variety of YMCA groups', plus overnight use of the campsites by the Westmount and N.D.G. day camps. On camperships: 'Westmount Rotary and the St. Nicholas Men's Club both sponsored large groups of campers. Altogether Kamp Kanawana provided 125 WEEKS OF CAMPERSHIPS at no cost to the agency or group.' This is the earliest itemised account of third-party use of the Kanawana site in this knowledge base, and it predates by decades the wiki's framing of outside-group use as a green-shift-era development.",
+      "sources": [
+        "src_ia_kanawana_report_1969"
+      ],
+      "confidence": "stated",
+      "category": "institutional",
+      "entities": [
+        "Westmount Rotary",
+        "St. Nicholas Men's Club",
+        "Kairos"
+      ],
+      "date_ref": "1969",
+      "conflicts_with": [],
+      "added_version": "5.90",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_2412",
+      "claim": "KANAWANA HAD A HORSEBACK RIDING PROGRAMME AND STABLES BY 1969, two years earlier than the Concordia finding aid's 'Horseback riding program - 1971'. The 1969 director's report: 'The horseback riding again this year was one of the most popular programs we offered' -- 'again' placing it in 1968 at the latest. The instructor was a woman ('The instructor did all she could to make sure that each camper got an opportunity to spend time around and on the horses'), and 'several of our senior campers took it as their special program to spend as much of their time as possible helping around the stables.' The director recommends it 'deserves a major emphasis in our future planning'. The same report records that A BUS WAS ADDED TO THE CAMP that year, giving 'a high degree of flexibility in planning the out-of-camp trips', with groups travelling up to 130 miles.",
+      "sources": [
+        "src_ia_kanawana_report_1969"
+      ],
+      "confidence": "stated",
+      "category": "programs",
+      "entities": [
+        "horseback riding",
+        "stables"
+      ],
+      "date_ref": "1969",
+      "conflicts_with": [],
+      "added_version": "5.90",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_2413",
+      "claim": "KANAWANA'S 1969 DIRECTOR ARGUED THE CAMP WAS WASTING ITS OWN LAND. Geoff Anderson: 'We occupy 1000 acres of valuable land which will be under increasing pressure as the surge of population continues. We use only a very small portion of this land and it is a luxury that we will soon not be able to justify either on social or economic grounds... Basically, Kamp Kanawana is in use only 1/6th of the year. We must make plans to develop a much greater use of our property year round.' He also names the plant problems: 'an old and inadequate dining hall and kitchen, lack of program space and facilities, lack of storage'. The 1966 report had already called the plant '1940 specifications... for youth designed and educated for the space-plus age'. Year-round use of the site, which this wiki treats as a 1990s and green-shift development, was being argued for inside the camp in 1969. The report also records the season's programme vocabulary: individual activities, cabin group activities, WIDE GAMES ('capture the flag, Indians and Settlers') and total camp activities ('Lumbermen and Voyageurs, Viking Funeral').",
+      "sources": [
+        "src_ia_kanawana_report_1969"
+      ],
+      "confidence": "stated",
+      "category": "site",
+      "entities": [
+        "Geoff Anderson",
+        "Kamp Kanawana"
+      ],
+      "date_ref": "1969",
+      "conflicts_with": [],
+      "added_version": "5.90",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_2414",
+      "claim": "1970 WAS KANAWANA'S FIRST SEASON HOSTING CHILDREN WITH CYSTIC FIBROSIS. The annual report devotes a section to it: 'This was our first experience with C.F. campers at our Camp... There were seven in total (3 girls and 4 boys) and although only three stayed for the whole month - and cried because they had to go home - the other four were normal campers but two weeks was long enough for them.' Two went on overnight trips, one returning to camp before bedtime for his therapy; another, aged ten, 'swam two miles for his double black cord'. JOHN HARRIES and the camp nurse briefed the staff on what C.F. was and how to work with the campers, and the nurse 'worked extra duty because of her interest in the campers and her concern for our Cystic Fibrosis campers'. The report is critical of the C.F. Association itself -- 'no clearing house... everyone did pretty well what they wanted when they wanted' -- and asks that the arrangement be fully subsidised in future. Two camp doctors served that summer.",
+      "sources": [
+        "src_ia_kanawana_report_1970"
+      ],
+      "confidence": "stated",
+      "category": "programs",
+      "entities": [
+        "John Harries",
+        "Cystic Fibrosis Association"
+      ],
+      "date_ref": "1970",
+      "conflicts_with": [],
+      "added_version": "5.91",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_2415",
+      "claim": "THE 1970 REPORT IS THE FULLEST ACCOUNT OF EARLY COEDUCATION AT KANAWANA IN THIS PROJECT, and it calls 1970 'Kamp Kanawana's third year as a coeducational camp' -- putting the first at 1968, consistent with the 1988 report. The director distinguishes the words: 'The key to a successful operation this year was not coed camping but a coeducational experience. Our goal was the education and development of a better understanding and acceptance of the opposite sex.' Roughly 40% of the overall programme was co-ed and most of it fell in the 13-16 age range; the two sections were physically separated but 'seemed to act and react as one section most of the time (ie Pathfinder yell in the dining hall)'. The most striking passage is about canoe trips: 'Here the campers became individuals and worked together to help each other... There were no mother or father roles played (ie boys gathering wood while the girls cooked). Each person shared the responsibility and the dialogue around the fire at night took on extra significance. School, sex, the world, war, ecology, sing songs, etc., were all part of the campfires.' The report also records, without alarm, that 'some campers had feelings of attraction to others and walking her home after an evening program was common.'",
+      "sources": [
+        "src_ia_kanawana_report_1970"
+      ],
+      "confidence": "stated",
+      "category": "history",
+      "entities": [
+        "coeducation"
+      ],
+      "date_ref": "1970",
+      "conflicts_with": [],
+      "added_version": "5.91",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_2416",
+      "claim": "BECSIES AND PAGE'S ARE AREAS OF THE KANAWANA PROPERTY, not only the name of another camp. The 1970 report, discussing rentals: 'There should be a special area (ie Becsies or Page's) with its own eating, etc., facilities.' And, on unauthorised visitors: young people aged sixteen to thirty 'appear at camp - at various parts of the camp - looking for a place to swim, crash, or just get away from it! This group frequented Becsies this Summer. At the point of writing a young couple are located at Wilson. Today there are many young people on the move and in most cases with nowhere to go. We should consider opening Becsies for use by these youth.' A YMCA camp in 1970 proposing to open part of its property to transient young people is a piece of social history this project has nothing else on, and it also gives Becsies a location on Kanawana land rather than only a sub-series in an archive.",
+      "sources": [
+        "src_ia_kanawana_report_1970"
+      ],
+      "confidence": "stated",
+      "category": "site",
+      "entities": [
+        "Becsies",
+        "Page's",
+        "Lake Wilson"
+      ],
+      "date_ref": "1970",
+      "conflicts_with": [],
+      "added_version": "5.91",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_2417",
+      "claim": "FOURTEEN GROUPS RENTED OR USED KAMP KANAWANA IN 1970, listed in the annual report: the Downtown YMCA Aquadyne Club; Mary Queen of Peace Cubs; St. Barnabas Cubs and Scouts; Sunnybrook Cubs; Beaconsfield High School; Outreach Services for Downtown (Metro), Verdun-LaSalle and Westmount; the Westmount and N.D.G. day camps; the W. H. RHODES CANADA EDUCATIONAL TRUSTS; the Boys Brigade of Montreal; the Westmount Project; the N.D.G. Community Services Project; the Integrated Media Workshop; and University Settlement. The director wants rentals put on a proper footing -- 'better facilities, a list of conditions for rentals, and a full-time employee on site to relate to the groups', plus 'a true costing of what it costs to have groups use our facilities'. Together with the 1969 list this makes third-party use of the site a documented feature of the camp from the late 1960s, decades before the wiki's green-shift framing of it.",
+      "sources": [
+        "src_ia_kanawana_report_1970"
+      ],
+      "confidence": "stated",
+      "category": "institutional",
+      "entities": [
+        "W. H. Rhodes Canada Educational Trusts",
+        "Boys Brigade of Montreal",
+        "University Settlement"
+      ],
+      "date_ref": "1970",
+      "conflicts_with": [],
+      "added_version": "5.91",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_2418",
+      "claim": "KANAWANA'S KITCHEN WAS CATERED OUT FOR THE FIRST TIME IN 1970, to a firm the report calls Industrial Caterers: 'The food services at camp this year were catered for the first time. The food, service and rapport with the kitchen was excellent this year. Our chef not only prepared top quality meals but personally got involved in our program - a Western style cook-out, received a pie in the face.' OTHER 1970 OPERATING FACTS: only 26 of the previous year's 60 staff returned, and just one to the same senior post; registration reached 1,442 camper weeks after a slow start; the new brochure went to over 30,000 homes with 'drench mailings' in eight communities; pre-camp training ran two weeks with sensitivity training threaded through rather than timetabled, supported by five YMCA staff and one person from C.I.P.; the Training Camp ran co-ed all summer with twelve males and four females, a female Junior Counsellor Director and a male CIT Director. The camp's washing machines broke for nearly three weeks, and staff and parents complained of a 'smell' -- 'our facilities (ie septic tanks and kitchen sewage disposal area) are inadequate for the size and type (coed) of camp we operate. Most parts of our facilities are too small (Q.C.A. standards for tent space), unsafe (rocks in the ball field), or unhealthy.' JULIEN TASSE is named again: he 'once again did a fantastic job holding the camp together with chewing gum, etc.'",
+      "sources": [
+        "src_ia_kanawana_report_1970"
+      ],
+      "confidence": "stated",
+      "category": "institutional",
+      "entities": [
+        "Julien Tasse",
+        "Industrial Caterers"
+      ],
+      "date_ref": "1970",
+      "conflicts_with": [],
+      "added_version": "5.91",
       "added_by": "manual"
     }
   ]
