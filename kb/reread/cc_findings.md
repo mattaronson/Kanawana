@@ -22148,3 +22148,130 @@ conference "salutes the **International Year of the Child**". And a full-page ad
 argues its case partly on environmental grounds — "manufactured from a renewable resource… molded of
 natural wood fibres that burn readily with little smoke" — which is a nice period marker of how
 disposability and environmentalism were reconciled in 1979.
+
+---
+
+## 124 — Vol. 31 No. 2, March 1979
+
+Twelve pages. Every item accounted for: C.C.A. Committees, Projects and Task Forces (continued from
+December, with the full chairman list); The Counsellor's Page — Motivating Senior Campers (Bob
+Slingerland); No Trace Camping (Kevin Redmond); Book Reviews (K. Grant Kerr); Basic Needs for Mental
+Health from Childhood to Old Age (a Canadian Mental Health Association chart); Maintenance — Tent
+Frames and Platforms; Coming Events; the Royal Chinet advertisement. **Kanawana is not named, but its
+director chairs a national committee.** New masthead address: **Suite 2, 1806 Avenue Road, Toronto
+M5M 3Z1, (416) 781-4717.**
+
+**★★★★ "NO TRACE CAMPING" — leave-no-trace ethics reach Canadian camping, dated to March 1979.**
+Kevin Redmond's article is the ethical counterpart to the safety framework rebuilt in these same
+years, and it aims squarely at camp tripping practice. Its target is the camping tradition itself:
+"**Beware of the traditions — axes, saws, elaborate latrines, garbage pits and material shelters, all
+of which can be found in camping texts.**" Its creed:
+
+> "I believe that man can travel through the wilderness and leave no trace. **I will keep my groups
+> small. I will not cut down trees or branches. I will not build fires or if I do I will keep them
+> small and scatter their remains**… **I will LEAVE NO TRACE.**"
+
+Its test: "**Will the next traveller, be he a couple of hours or years away, know that you have been
+there?**" — which disqualifies powered travel of every kind, outboards on canoes and snowmobiles
+included, leaving foot and hand-paddled canoe travel, with skis and snowshoes in winter. And its
+specifics, which are what would actually have changed practice at a camp like Kanawana:
+
+- **Group size** — "**Large groups do not belong in the wilderness. The organization of trips with
+  more than 20 people is bound to leave its mark on the ecology**… it is difficult to imagine how
+  more than 10 people could spend a night in an undeveloped spot and leave no trace."
+- **Fires** — never on the forest floor; find mineral dirt or rock, or lift the thin forest floor and
+  save it for replacement; keep the fire small enough that "any wood small enough to break with your
+  hands will be suitable"; and, because "**charcoal is pure carbon and will last forever, wood ashes
+  on the other hand will dissolve in the soil with the next rain**," stop adding wood and scrape the
+  embers together to burn out, then wet and scatter them.
+- **Human waste** — fifty feet from water, a hole 8" × 10" and "**not more than 6" to 8" deep, to
+  stay within the biological disposer layer of soil**."
+- **And a campaign method** — pick up what others left, and "ask those we meet on the way in, if they
+  have any garbage we can carry out. **This is a subtle hint.**"
+
+**Written into `traditions/environmental-history.md` as a new section (sources 33 → 34)**, placed
+before the 1970 erosion crisis so the chronology reads properly, with the point that between 1975 and
+1979 a Quebec camp running wilderness trips was told by federal regulation, by its association's
+editorials and now by its association's ethics to change how it travelled — and that Kanawana's later
+environmental commitments arrive in a movement where this argument had already been made in print.
+
+**★★★★ DEREK WALSH CHAIRS THE PR COMMITTEE FOR A SECOND YEAR — and the full 1978-79 slate is
+printed.** Fifteen chairmen of committees, projects and task forces:
+
+| | |
+|---|---|
+| Archives | **Helen Stewart** — succeeding Adele Ebbs |
+| Federal Government Relationships | Jack Pearse |
+| French Language | Rosaire Corbin |
+| **Immigration** | **Barry Lowes** — a task force created for the exemption fight |
+| Leadership Training | Jean Funk |
+| Liaison with National Agencies | Larry Bagnell |
+| **Membership Promotion** | **Eileen Mayotte** — back on a committee three months after resigning the executive |
+| National and International Conferences | John Latimer |
+| Newsletter | Brian Blackstock |
+| **Oral History** | **Jay Haddad** |
+| Professional Development | **Linda Arnold** — succeeding Lorne Bowering |
+| Publications | Fred Okada |
+| **Public Relations and Promotion** | **DEREK WALSH** |
+| Skill Schools | Jim Winter |
+| Woodsmanship | Kirk Wipper |
+
+`people/derek-walsh.md` updated: the chairmanship now reads **1977-79**, from the association's own
+lists for two consecutive years, and he remains the only Quebec name on the slate. With the 1980
+committee list and the 1983 award citation the article already carried, his tenure in that office is
+now continuous from 1977 to at least 1983. **`p_319` gains confirmation too: Oral History is still a
+live project under Haddad a year on, and Archives has passed from Adele Ebbs to Helen Stewart** —
+whom this run also knows as the author of *Cookery for Kids, Kamp 'n' Kicks*. A second name to ask
+Trent about.
+
+**★★ The association describes its own programme apparatus**, which is worth recording as a map of
+what records may exist. The **Canoe Instructors' Schools** existed "to qualify canoe instructors in a
+set of **national standards for canoeing**"; the **Woodsmanship Leaders' School** "has been operating
+for four years" — so from about 1975 — funded by Fitness and Amateur Sport, and was publishing an
+**Instructor's Manual in both French and English**; the **Skill School Project** planned instructors'
+schools in "**Social Recreation (songleading, storytelling, campfire program, games leadership),
+Pioneer and Native Crafts, Fitness at Camp, Camp Administration, Program Planning and Nature
+Awareness**", with the stated aim "**to decentralize all the schools, once competent leaders have
+been trained to a national set of standards**." A national songleading school was planned in 1979 —
+one for `p_311`. And: "**Sometimes other Committees have linked up with the Conference Committees**…
+such as the **French Language Camping Conference (1976)** and the **Outdoor Education Conference
+(1974)**. **The content of each Conference is gathered together and each of these reports may be
+obtained through the Publications Committee at the National Office.**" **Two named conference reports,
+one of them the first French-language camping conference in Canada, existed as purchasable documents
+in 1979** — add both to the Trent enquiry (`p_312`).
+
+**★★ Bob Slingerland on senior campers** — the man whose Geneva Park session was "Will Staff Return"
+(issue 119) writes the counsellors' page, and it is the most practical thing in the run on the
+problem Granek's survey identified as universal (issue 121). His characterisation: senior campers
+"feel that with maturity they should be getting more privileges and responsibilities as well as free
+time and opportunities **to be lazy and to be alone to think**… they appreciate privacy and the value
+of a few close friends, and are sensitive to criticism." His three levers: **atmosphere** ("if you as
+a staff enjoy one anothers' company… it will rub off"); **a programme set a week in advance**, with a
+worked example — his section avoided swimming and canoeing until the counsellors decided to swim in
+the class themselves, after which "swimming became rather popular even in August… **possibly because
+the campers got a chance to show up their counsellors**"; and an **optional evening programme**
+followed by a campfire, where non-participants "would have to make other arrangements to
+constructively use their time" and 75-80% joined anyway. Plus **a canoe rally at the start of each
+month** designed so "the kids had to work together," and time set aside for seniors to design a
+programme for younger campers — "**it is really amazing to watch these kids go to work when they feel
+that they are regarded as responsible.**" Directly comparable material for reading Kanawana's own
+senior sections and its CIT programme.
+
+**★ Grant Kerr reviews two books worth noting**: *God, Man, Land* (Paul Paetkau, Faith and Life
+Press, 1978), a Mennonite camp resource integrating Bible study, nature lessons and camp activities
+into seventeen five-day programmes by age band; and **Alice Bullwinkle and Howard Galloway, *Finding
+Summer Staff* (1979)**, which "**for the first time… Canadian listings are included**" and carries
+"specimen forms for use in staff selection… a job application form, an interest and training-need
+inventory form, **a form for obtaining useful information from persons listed as references**, and
+staff employment agreement." Another instrument in the staff-records cycle this read has been
+assembling (issues 115, 116, 123).
+
+**Minor.** The Canadian Mental Health Association's chart, "Basic Needs for Mental Health from
+Childhood to Old Age," prepared for the Ontario Teachers Federation, is reproduced in full — a period
+document of what Canadian institutions thought children needed at each age, with **camp named
+explicitly in the 6-13 band**: "Group games; church, club, **camp life**; learn to lead and follow
+leadership." Tent frame and platform construction advice comes from **Camp Onondaga, Ontario** —
+construction-grade spruce, preservative applied before assembly, platforms raised on cement blocks or
+rocks so air circulates and rot is deterred, and "consider prevailing winds before setting up your
+site." The Quebec calendar repeats February's, with **ACQ-QCA Semaine des camps 1-9 March** and the
+**Séminaire des directeurs on "La communication," 27-29 April**.

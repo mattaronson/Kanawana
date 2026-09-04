@@ -5991,6 +5991,13 @@
           "at": "2026-07-11T00:00:00Z",
           "by": "auto",
           "task": "REVIEW"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-09-04",
+          "by": "auto",
+          "task": "RESEARCH",
+          "note": "Word-for-word read of Canadian Camping, issue 124 (Vol. 31 No. 2, March 1979): new section '\"Leave no trace\" reaches Canadian camping, 1979' -- Kevin Redmond's No Trace Camping, its Wilderness Travellers Creed, and its specifics on group size (never more than 20, ideally under 10), fire technique on mineral soil with ashes scattered rather than charcoal left, and waste buried within the biological disposer layer. Circulated to every accredited Canadian camp; explicitly not a Kanawana document. Sources 33 -> 34."
         }
       ],
       "ralph_loops_completed": 4,
@@ -6036,7 +6043,8 @@
         "src_ia_ymca_montreal_annual_reports_collection",
         "src_ia_ymca_montreal_fonds_collection",
         "src_mediaterre_kanawana_2009",
-        "src_parkslopeparents_2023"
+        "src_parkslopeparents_2023",
+        "src_ia_canadian_camping_collection"
       ],
       "open_questions": 5,
       "cross_links": [
@@ -9912,6 +9920,13 @@
           "by": "auto",
           "task": "RESEARCH",
           "note": "Word-for-word read of Canadian Camping, issue 121: the October 1978 provincial association contact list gives Dr. Ken R. Willis as QCA president, closing Walsh's two-year term at roughly spring 1976 - spring 1978. New table row; source 8 extended."
+        },
+        {
+          "status": "stub",
+          "at": "2026-09-04",
+          "by": "auto",
+          "task": "RESEARCH",
+          "note": "Word-for-word read of Canadian Camping, issue 124: the association's list of committee chairmen for 1978-79 again names Walsh as chairman of Public Relations and Promotion, so the table row now reads 1977-79 from two consecutive published slates, and he remains the only Quebec name among fifteen committees, projects and task forces. Source 8 extended."
         }
       ],
       "ralph_loops_completed": 0,

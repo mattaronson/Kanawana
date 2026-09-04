@@ -1,7 +1,7 @@
 # Environmental Education and Stewardship at Kanawana
 
-*Status: E1-reviewed | Sources: 33*
-*Last Updated: 2026-08-14*
+*Status: E1-reviewed | Sources: 34*
+*Last Updated: 2026-09-04*
 
 ## Overview
 
@@ -72,6 +72,16 @@ In 2018, Desjardins donated $1 million to the YMCA for renovations at Camp Kanaw
 The camp's engagement with nature is not entirely modern. The 1918 summer season offered instruction in "nature study" alongside first aid, basket-making, and camp sanitation.^13 By 1922, the camp held a chartered tribe in the Woodcraft League of America, whose nature study and outdoor skills programming embedded ecological awareness in the badge system.^17b The broader Woodcraft and nature study traditions of the early camping movement provided the philosophical groundwork for contemporary environmental education.
 
 A dedicated Nature Awareness program was created by Chris Adam (listed as "Chris Adams" in the 1980 *Ka-News*; from Vanier) in 1980, alongside new orienteering methods with a nature trail.^12 A Nature Nook / Nature Interpretation Area remains on the current site.^4 The 1980 initiatives mark the earliest identifiable moment when environmental education became a distinct programming stream rather than a diffuse element of outdoor camping.
+
+### "Leave no trace" reaches Canadian camping, 1979
+
+Nine years after Kanawana's own erosion confession, the association it belonged to printed a full statement of what would later be called leave-no-trace ethics — and aimed it squarely at camp tripping practice.^34 Kevin Redmond's "No Trace Camping" (March 1979) treats the received camping tradition itself as the problem: "**Beware of the traditions — axes, saws, elaborate latrines, garbage pits and material shelters, all of which can be found in camping texts.** Beware of the modern technological influence on camping — disposable lighters, aluminum foil, plastic sheeting… they are considered disposable by too many campers."
+
+He sets out a **Wilderness Travellers Creed**: "I believe that man can travel through the wilderness and leave no trace. I will keep my groups small. I will not cut down trees or branches. I will not build fires or if I do I will keep them small and scatter their remains… **I will LEAVE NO TRACE.**" And a test — "**Will the next traveller, be he a couple of hours or years away, know that you have been there?**" — from which he rules out powered travel of every kind, including outboards on canoes and snowmobiles, leaving "foot travel and hand paddled canoe travel", with skis and snowshoes in winter.
+
+The specifics are the part that would have changed practice at a camp like Kanawana. **Group size**: "Large groups do not belong in the wilderness. **The organization of trips with more than 20 people is bound to leave its mark on the ecology**… it is difficult to imagine how more than 10 people could spend a night in an undeveloped spot and leave no trace." **Fires**: never on the forest floor — find mineral dirt or rock, or lift and save the thin forest floor for replacement; keep the fire small enough that "any wood small enough to break with your hands" will do; and, because "**charcoal is pure carbon and will last forever, wood ashes on the other hand will dissolve in the soil with the next rain**," stop adding wood and scrape the embers together to burn out, then wet and scatter the ashes. **Human waste**: fifty feet from water, a hole eight by ten inches and "**not more than 6" to 8" deep, to stay within the biological disposer layer of soil**."
+
+This is the ethical counterpart to the safety framework rebuilt in the same years (see [[traditions/canoe-trips|Canoe Trips at Kanawana]]): between 1975 and 1979 a Quebec camp running wilderness trips was told, by federal regulation, by its own association's editorials, and now by its own association's ethics, to change how it travelled. Kanawana's later environmental commitments — the 1980 Nature Awareness programme, and the Green Shift a generation on — arrive in a movement where this argument had already been made in print.
 
 ### The 1970 erosion crisis
 
@@ -184,6 +194,7 @@ The Canadian Summer Camp Research Project (CSCRP, 2006–2011), conducted by the
 31. Direct GBIF and iNaturalist API queries for the Lac Kanawana area, 2026-07-10 — geotagged observations at "Ch du Lac-Kanawana, St-Sauveur."
 32. Park Slope Parents, Camp YMCA Kanawana review, November 12, 2023 [src_parkslopeparents_2023]. Retrieved successfully 2026-07-10 after two earlier timeout attempts.
 33. Kamp Kanawana season reports in the Concordia-digitized YMCA of Montreal fonds: *Annual Report 1964* [src_ia_kanawana_report_1964], *1969* [src_ia_kanawana_report_1969], *1970* [src_ia_kanawana_report_1970], *Director's Report 1987* [src_ia_kanawana_report_1987], and *Kanawana… A Place to Grow*, 1988 [src_ia_kanawana_place_to_grow_1988]; earlier acreage figures from the YMCA of Montreal annual reports and the 1936 CFCF broadcast [src_ia_ymca_montreal_annual_reports_collection, src_ia_ymca_montreal_fonds_collection].
+34. Kevin Redmond, "No Trace Camping," *Canadian Camping* Vol. 31 No. 2 (March 1979), pp. 6-7, 12 [src_ia_canadian_camping_collection]. Found by the full word-for-word read of the run (`kb/reread/cc_findings.md`, issue 124). A statement of wilderness ethics circulated to every accredited Canadian camp, not a Kanawana document.
 
 ## Research Notes
 
