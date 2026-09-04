@@ -14465,7 +14465,7 @@ later start than Ebbs's "more than 70 years" at issue 84 and than Kanawana's own
 both; they are estimates by different men, not conflicting evidence.
 
 **★ And it confirms, from a third source, that Ethel Statten's camp name was Tonakela** — used
-throughout the tribute as her name. Issue 16 of this read already noted "his wife's camp name
+throughout the tribute as her name. Issue 2 of this read already noted "his wife's camp name
 'Tonakela' appears," and issue 38 records that **Wallace Forgie's Camp Tonakela near Madras**
 was **"opened officially by Mr. and Mrs. Taylor Statten"** and that "Tonakela, in Ojibway as
 well as in a South Indian dialect, means 'you first'." Forgie was Adele Ebbs's uncle by
