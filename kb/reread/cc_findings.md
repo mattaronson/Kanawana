@@ -20703,3 +20703,160 @@ Saskatchewan) seeking a director who "must be a committed Christian, preferably 
 philosophy, sociology and psychology, twelve-month employment, salary negotiable; and **Boulderwood
 Camp**, Baysville, Ontario, available for lease for summer 1977 — running for the second consecutive
 issue.
+
+---
+
+## 113 — Vol. 29 No. 3, May 1977
+
+Twelve pages. Every item accounted for: News and Views from Across Canada (the new logo, the Awards
+of Honour, the Squamish annual meeting, the foreign-staff ruling, the Task Force report, the Geneva
+Park conference); New Brochures (Charles W. Tisdall); a classified advertisement; the list of
+Provincial Camping Associations with addresses; Your Waterfront Program — Lifejackets and Personal
+Flotation Devices (Jocelyn Palm); Camping Publications (the full CCA catalogue with prices); Food for
+Thought; Some Ideas on Song-Leading (Boy Scouts of Canada, Greater Toronto Region); an advertisement
+for Hamessley's *Handbook for Camp Nurses*; A Woodcraft Idea; Ripped Canvas?; the Cash's Name Tapes
+advertisement. **Kanawana is not named.**
+
+**★★★★ A DATED FEDERAL REGULATION THAT CHANGED WHAT EVERY CANOE TRIP CARRIED — and evidence that a
+quarter of Canadian camps did not know about it.** Jocelyn Palm's article, with the boxed note beside
+it, gives both the law and the reception:
+
+> "Legislation under **Small Vessels Regulations** now requires a Ministry of Transport approved
+> lifejacket or Personal Flotation Device for each person in any vessel at all times. **Canoes and
+> rowboats were previously exempted but are now included.**"
+>
+> "The survey was initiated as a result of the Regulation instituted in **November 1975**, requiring
+> the presence in EVERY craft of a lifejacket or P.F.D. for EACH person in the craft. … Almost 50% of
+> the camps responding required the presence of the lifejacket or P.F.D. prior to the regulation. …
+> **18% of the camps were unaware of the regulation until they read about it in the June 'Canadian
+> Camping' magazine, and another 10% of camps were unaware of the regulation prior to receiving the
+> questionnaire** which sought their opinions."
+
+**More than a quarter of accredited Canadian camps were operating boats in breach of a federal
+regulation they had not heard of** — and the magazine this project is reading was the instrument that
+told 18% of them. That is a direct, measurable statement of what this publication did in the field,
+and it belongs in the deferred `meta/sources-index.md` section on the run.
+
+**Written into `traditions/canoe-trips.md` as a new subsection, "November 1975: every paddler in a
+lifejacket, by federal law" (source 13)**, with Palm's recommended syllabus recorded: the distinction
+between a lifejacket (**29 lb buoyancy, with a righting movement**) and a PFD (**15 lb, less bulky,
+"designed to encourage Canadians to wear the devices"**); that the regulation requires the device to
+be **carried, not worn**; donning on land, in the craft, and while immersed; entering the water from
+a low dock to see what position the body takes; **HELP — heat escape lessening posture — for water
+below 60°F**; and helping an injured partner into a device in the water. Palm is Executive Director
+of the Royal Life Saving Society and President of the OCA. **The finding gives Kanawana a hard date:
+every La Vérendrye trip from summer 1976 carried approved flotation for every paddler because federal
+law required it, and any 1975-76 bulk purchase of flotation devices in the camp's records is explained
+by this rather than by a change of camp policy.**
+
+**★★★ CHARLES W. TISDALL'S REVIEW OF FIFTY CAMP BROCHURES — a professional reading aid for every
+Kanawana brochure this project will ever find.** Tisdall, managing partner of Tisdall Clark Lesly &
+Partners, "one of Canada's largest public relations consulting firms," reviewed **some 50 camp
+brochures** with his graphics staff in preparation for a talk to the 1977 OCA annual meeting. The
+article is the only detailed contemporary account in the run of what camp brochures of this period
+actually contained, and it is worth keeping in full because the project holds and seeks brochures —
+the OCA's "Kanawana (1940)" file at Trent, the 1923 brochure already cited in the wiki, and the two
+copies of every member camp's brochure the CCA solicited in 1972 (`p_312`).
+
+What he found, and therefore what a mid-1970s camp brochure typically looked like: staff group
+photographs "sitting and standing row after row, clean and neat in their Sunday best," **never with
+names**; collages; poor-quality under- or over-exposed pictures; inconsistent writing, "good basic
+English on one page, and then, an informal and 'slang' English on the next"; trite phrases — "our
+camp is a melting pot," "we are one big happy family"; **logos "tucked away in corners… as if camps
+were ashamed of them"**; loose inserted fee schedules; and, damningly, "the fifty brochures reviewed,
+submitted from Ontario camps, **all said pretty much the same thing**." His prescribed contents list
+is effectively a checklist against which any surviving Kanawana brochure can be read: management
+qualifications, activities, senior staff backgrounds, **safety precautions including water safety,
+supervision, doctors and nurses, first aid and emergency measures**, fee schedule, contact
+telephone and address, **a short history of the camp**, directions, the arrangements for eating,
+sleeping, clothing and washing, a statement of what kind of camp it is, a return envelope, and
+"**Display your accreditation logo clearly, and large enough to be seen — the Canadian Camping
+Association — your Provincial Association. Be proud of it.**" Two incidental pictures he criticises
+are period detail in themselves: one brochure showed **two campers standing up in a canoe**, another
+an unmowed golf course.
+
+**★★ THE CCA'S ANNUAL MEETING AT SQUAMISH, AND THE AWARDS OF HONOUR.** Held "during the latter part
+of April at the beautiful Easter Seal Camp in Squamish, B.C.," concurrently with the Canadian
+Recreational Canoeing Association's own annual meeting — "**Musical Chairs was played by Ron
+Johnstone, who became Past-President of the C.C.A., and the new President of C.R.C.A. John Latimer
+became Past-President of the C.R.C.A.**" Next annual meeting: **Winnipeg, April 1978**. **Awards of
+Honour** went to **MAY BROWN, ADELE EBBS, BRYAN GRAHAM, RON JOHNSTONE, CLIFF LABBETT, BARRY LOWES,
+GRANT McKEEN, BILL SWIFT and BARBARA TAYLOR** — Adele Ebbs honoured the year after she moved the
+national archive to Trent (issue 109), and May Brown the year she closed Camp Deka (issue 111).
+Certificates of Thanks went to **Recreation Canada, Fitness and Amateur Sport Branch** — received by
+"our new consultant **Karl Benne**" — "in appreciation for their tremendous financial support," and
+to the CRCA, received by **John Eberhard**. Federal money is again named as the association's
+financial base.
+
+**★★ THE TASK FORCE REPORT, ACCEPTED.** Created "with the support of Recreation Canada," the Task
+Force reported after "several meetings with hundreds of Canadian Camping leaders." Its five published
+highlights: camps continue to join the CCA **only through their provincial associations**; many
+committee tasks "could be done more effectively by members of some of the Provincial Associations";
+the CCA should keep organising **national conferences of the Geneva Park type** and help provinces
+run their own training; the national board should keep meeting **in conjunction with provincial
+workshops**; and "**A National Publications Service should be a strong priority**," covering new
+books, reports, theses and speeches, with the CCA also "locating and even producing material on the
+'HOW TO DO IT' aspects of camping." Committee: **John Latimer (Chairman), Paul Belanger, Barry Lowes,
+Jack Pearse, Jay Haddad, George Robitaille**, with **Ron Johnstone** as consultant/researcher —
+Robitaille being the ACQ French-section president already distinguished in `people/leo-robitaille.md`
+from Kanawana's Leo Robitaille, here spelled "George" rather than "Georges". **The full report "along
+with all of the background material is available in every Provincial Association office"** — so a
+1977 CCA Task Force report and its background papers were deposited in the Quebec office, which is
+another item for the Trent enquiry (`p_312`).
+
+**★★ The 1978 Geneva Park national conference, 19–22 January 1978**, with a charter committee that
+includes **Rosaire Corbin of the Association des Camps du Québec** — the Quebec training officer named
+in February (issue 111) — alongside Virginia Fraser (Etobicoke Parks and Recreation, day camping),
+Bruce Harris (Camp Kawabi, independent), **Wayne Perkins (Camp Wanakita, YMCA)**, Mardi Tindal
+(United Church camping), Barry Lowes (Camp Timberlane) and **Dorothy Walters (Government Liaison)** —
+a standing government-liaison post on a conference committee.
+
+**★★ The foreign-staff ruling, narrowed and confirmed.** Following February's announcement (issue
+111): "Each Provincial Association office has details of the exemption regarding foreigners gaining
+access to Canada to work as Counsellors in Canadian Camps… **The ruling about foreign staff applies
+only to those young men and women who will be instructing and counselling … and only in Accredited
+Camps.**" Directors were urged to notify the point of entry of names and addresses in advance. The
+accreditation condition is stated twice in two issues, which removes any doubt that this was a
+benefit of accreditation specifically.
+
+**★ The new CCA logo**, chosen from a competition, designed by **Mrs. Daphne Kaye of Camp Voyageur,
+Ontario**, with "a cut of the Logo… made available to Camp Directors so that our National symbol can
+be part of all publicity and correspondence sent out from every accredited Camp in Canada." Any
+Kanawana letterhead or brochure of 1977 or later may carry it, which is a dating aid for undated
+printed material.
+
+**★ The provincial association addresses, in one place**, useful for archive enquiries: **Quebec
+Camping Association, Inc. (Eng.), 2233 Belgrave Avenue, Montreal H4A 2L9** — the address the
+`derek-walsh` article already carries from the October 1976 masthead — and **Association des Camps du
+Québec, Inc. (Fr.), 1415 est, rue Jarry, Montreal H2E 2L9**. The other seven are recorded in the issue.
+
+**★ The complete CCA publications catalogue with prices**, an expansion of the five best-sellers at
+issue 111. Canadian titles are asterisked: ***Camp Counsellor's Handbook*, Blackstock and Latimer**
+(hardcover $7.95, paper $4.95); ***The Camp Counsellor's Book*, Northway and Lowes** ($1.95);
+***Cookery for Kids, Kamp 'n Kicks*, Helen Stewart**; ***Once There Was a Camper*, poems by Mary S.
+Edgar** ($1.75); and ***Log of Canada's Centenary Journey*, CCA** ($3.00) — the last being the
+Centennial voyageur-pageant record, which connects directly to
+`connections/institutional-lineage/voyageur-canoe-pageant.md` and is a purchasable 1977 publication
+worth hunting for. Non-Canadian titles: Ott, Ledlie and Holbein, Hammett, ACA job descriptions,
+Ensign, Nessmuk, McNair, Malo, Tolbitt, Price, Waterman, Holm, Van Matre ×2, Thomas.
+
+**★ Publication details for the deferred sources-index section.** The masthead box states plainly:
+"**CANADIAN CAMPING is published 6 times a year by the Canadian Camping Association … Subscription
+rates 1 year $5.00, 3 years $12.00. Advertising rates on request.**" The editor is named for the
+first time in the newsletter era: **Mr. Brian Blackstock, Editor** — the same Blackstock who
+co-authored the *Camp Counsellor's Handbook* the association was selling. And a printing error worth
+recording so a later reader does not take it for a fact: the masthead's French line reads
+"**Publication Officielle L'Association des Camps du Québec**" where every other issue reads *du
+Canada*.
+
+**Minor.** Song-leading advice from the **Boy Scouts of Canada, Greater Toronto Region** Training
+Resource Library — fifteen points, of which the songbook item is the interesting one ("Consider the
+songbook as a teaching aid. Use the books when you need them; put them aside when you don't"), plus
+"**Keep a File or List** — Start now to accumulate songs that your group likes to sing," which is
+exactly the practice that would have produced a camp songbook had anyone at Kanawana followed it
+(`p_311`, `traditions/camp-songs-cheers.md`). A canvas-canoe repair method using **factory cotton and
+Ambroid glue**. A sensory nature trail with "TOUCH ME", "SMELL ME", "TASTE ME" signs. Kitchen hints,
+including buttering toast with a paint brush. A 24-foot steel pontoon barge "formerly used to
+transport children" for sale at Earlscourt Children's Home, Peterborough. And Mary Lou Hamessley's
+*Handbook for Camp Nurses and Other Camp Health Workers* (224 pp., 1977, $6.90) advertised from New
+York — a full contents list of what a camp health centre was expected to handle in 1977.

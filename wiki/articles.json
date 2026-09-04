@@ -266,6 +266,13 @@
           "at": "2026-09-04",
           "by": "auto",
           "task": "RESEARCH"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-09-04",
+          "by": "auto",
+          "task": "RESEARCH",
+          "note": "Word-for-word read of Canadian Camping, issue 113 (Vol. 29 No. 3, May 1977): new subsection 'November 1975: every paddler in a lifejacket, by federal law' -- the Small Vessels Regulations amendment that ended the canoe and rowboat exemption, Jocelyn Palm's CCA survey (nearly half of camps already required flotation; 18% did not learn of the regulation until they read it in this magazine and a further 10% not until the questionnaire arrived), and her recommended waterfront syllabus. Gives a hard date for flotation equipment on every La Verendrye trip from summer 1976. Source 13."
         }
       ],
       "ralph_loops_completed": 2,
@@ -309,7 +316,8 @@
         "src_mcmorris_thesis",
         "src_radiocanada_sepaq_laverendrye_2022",
         "src_reserve_laverendrye_history",
-        "src_wikipedia_lac_landron"
+        "src_wikipedia_lac_landron",
+        "src_ia_canadian_camping_collection"
       ],
       "open_questions": 5,
       "cross_links": [
