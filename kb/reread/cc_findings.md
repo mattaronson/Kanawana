@@ -11613,3 +11613,279 @@ Nothing in this issue names Kanawana. Its value is very high: the Oolahwan direc
 Seaman's dated CCA post, the Ottawa River leg described by the man running the project,
 the 9 August 1967 campfire and the rendezvous-token idea, and the provincial-log chain
 that leads to a Kanawana trip report.
+
+## 73
+
+`canadiancampingmagazine_vol19_no2_1967feb.txt` — Vol. 19 No. 2, February 1967.
+
+Contents page (checked against this block): The Summer Camp, an Educational
+Institution (W. Jack Eastaugh) · Contribution of Wilderness (Doug Sadler) · Sermons
+Under the Sun — Pioneers (Elizabeth W. Raymer) · Remembering — C. T. Sharpe ·
+Confessions of a Camp Director (Margaret Govan) · 1967 — Centennial Year · Among
+Ourselves (Leone Wellwood, Robert Douglas) · To Think About · More Than 3 R's (John
+R. Latimer) · Leadership — Keystone to Camping (W. D. Smith) · A Camp Director's
+Diary · From the Provinces · Nature in Day Camping (Doreen Barwick) · Editor's Mail
+Box. All fourteen covered. Cover: Camp GayVenture, Haliburton Highlands.
+
+**★ THE CENTENARY JOURNEY: the National Campfire is now fully specified, and Mary
+Edgar wrote a poem for it.** Quoted from the OCA's "OCAsional News", December 1966:
+
+> "The biggest of these activities is **the National Campfire to be held Wednesday,
+> August 9, 1967**. On this night **each camp will be provided with ideas for suitable
+> programmes, centering around the Voyageur theme**. It is hoped that **a common
+> opening and closing can be written including a poem for the occasion by Miss Mary
+> Edgar**. At the pre-set time every camp across the country will light its campfire!
+> Imagine a line of campfires lit simultaneously from St. John's to Vancouver Island.
+> **There may even be a programme on a coast to coast radio network to coincide with
+> the lighting of the campfires.**"
+
+Three things follow for `wiki/history/centennial-1967.md` and
+`voyageur-canoe-pageant.md`. (1) The date is confirmed a third time and now given a
+weekday — **Wednesday 9 August 1967**. (2) **A Mary S. Edgar poem was commissioned for
+the national campfire.** Edgar founded and first edited this magazine (issue 71) and
+wrote "God Who Touchest Earth With Beauty"; a poem written for a single simultaneous
+national campfire is a findable text, and if Kanawana lit a campfire that night its
+campers heard it. Her *A Christmas Wreath of Verse* (1965) and *Once There Was a
+Camper* (1970) are the obvious places to look, along with her fonds at Trent and
+Queen's. (3) **Camps were sent a prepared programme packet** — another distributable
+document. Add all three to the archival leads.
+
+**Two more 1967 items with Montreal in them.** A **"Canadian Symposium of Recreation,
+June 10 to 16, [1967] in the new Place Bonaventure"**, Montreal, with **110
+organizations from across Canada** participating and **Bob Lazanik — immediate past
+president of the QCA — as the CCA's representative to it**; the programme was
+published as *Imagination Unlimited*, from the Secretariat at 2050 rue Amherst,
+Montreal 24. And a paid advertisement for **Green Acres**, "a country day camp just 12
+miles outside of Montreal," offering "complete Olympic size pool and recreational
+facilities **for organized camp groups wishing to visit EXPO**," with transportation
+and lodging — evidence that camps outside Montreal were being sold Expo day-trip
+packages in 1967, which is exactly the kind of arrangement Kanawana might have used.
+Its directors were Eddy Bogomolny (Toronto) and Leon Hochglaube (Côte St-Luc).
+
+**★ A song book being compiled, with an open call — directly on `p_048`.** From the
+provinces: "A project is being worked on in the **Nova Scotia Camping Association to
+compile a song book**, suitable to be used for conferences, camps, outing groups. If
+you have some suggestions of suitable material, write to **Box 1622, Halifax, N.S.**
+**Songs should include the music, if possible, and the source.** If you have compiled a
+song book or song sheets, **especially if they include any rare species**, send them
+in. Rounds, chorus songs, funny songs, spirituals are welcome and they need not be
+restricted to children's camp songs." Two consequences: a **published NSCA camp song
+book** of about 1967–68 is a specific thing to look for, and it may print songs
+Kanawana sang; and this shows that **camps were sending in their own song sheets**, so
+a Kanawana sheet may survive in the NSCA's papers. Also mentioned this issue, from
+Saskatchewan, **"the Centennial Song Book"** — a second songbook of the year.
+
+**"Remembering — C. T. Sharpe."** A short death notice: "we learn with sadness of the
+death of **C. T. Sharpe**, a man well-known and loved not only in camping circles but
+**in the YMCA**, the teaching profession and other groups. He had an immense and rare
+capacity for friendship and an unfailing ability to 'keep in touch' with so many people
+in so many parts of the world." A YMCA camping figure who dies in early 1967, absent
+from the KB. Name to track.
+
+**Margaret Govan, "Confessions of a Camp Director" — the most self-implicating piece
+in this run, and worth quoting in any account of what camps thought of their
+campers.** She opens with a dream of a perfect season, then lists, "like the Lord High
+Executioner in the Mikado," the eleven camper types she "could so easily do without":
+the out-and-out egotist; "the leading lady type well equipped with artistic
+temperament"; "The practical joker (save us all!)"; "Laziness personified… often called
+the bed-sitter"; "the bundle of needs who hasn't the vaguest idea of how to go about
+satisfying those needs"; "the counsellor-clinger"; "**The creative camper… because,
+although he can be an asset, he is more likely to create trouble**"; the
+aggressive-fighter; the brilliant and erratic; "The unwanted one… and really, could
+anybody be blamed for not wanting him?"; and "the overly capable… a threat to the
+staff, and worse still to ME." Then the turn, which is the point of the piece: "If they
+all went to some other camp, what a Utopia my camp would be!… They require judicial
+pruning and grooming and moulding. Kindness and firmness will go a long way; **also
+some emotional exploitation which a knowledgeable adult can exert. (Ye Gods, I didn't
+mean to mention that: that's one's secret weapon.)**… I can help a number of campers to
+adjust (conform), let a few move on their paths towards the psychiatric wards… and
+discourage a few more from even wanting to attend camp again. So what?" And, in
+daylight: "**What in the name of all the campers in the world, was I up to? Trying to
+manufacture organizational campers? It looked very much like that.**" She then argues
+that the children have changed because the country has — "Your cottage had coal oil
+lamps, didn't it?… is it little wonder that we have bred the comfort lovers… **We may
+be nostalgic for the simpler, rugged life of the out-of-doors, but they have never
+known it**" — and ends by asking whether her camp has "Too many rules?… Too many
+aspirations for campers who should have their own aspirations?" A director in 1967
+naming, in print, the coercive edge of camp practice.
+
+**"1967 — Centennial Year": a camp's Confederation pageant, described in full** — the
+best surviving example of what a Centennial camp programme actually looked like, and a
+template for what Kanawana may have done. Each cabin decorated a rowboat or canoe as an
+episode from Canadian history, checked for duplicates by the MC; a procession of boats
+circled in front of the dock before Queen Victoria and Sir John A. Macdonald with
+escort. The chosen episodes, in the order printed: the youngest cabin as **ladies at the
+Confederation Ball of 1867** ("evening gowns… worn over life jackets"); an explorers'
+canoe; **"an Indian one requesting that Canada be returned to the original owners"**;
+**the hanging of Louis Riel**; the Selkirk settlers "with quints who must have been born
+on the voyage out"; the signing of the BNA Act; the last spike; the new Canadian flag;
+and the launching of **Alouette**. Supper was "typical Canadian food… French pea soup to
+start with," followed by Canadian folk songs and "the pièce de résistance… **the R.C.M.P.
+musical ride. Four counsellors were horses, and four riders**," who finished "with
+bruised, scratched and blistered hands and knees." The Indigenous-land episode and the
+Riel hanging, chosen by campers in 1967 and printed without comment, are worth recording
+precisely — they sit oddly against the celebratory frame, and they are the campers' own
+choice.
+
+Related, from Saskatchewan: **Camp Monahan (Regina YWCA)** closed its season with a
+"**Pageant of Confederation in Saskatchewan**. Ethnic and family groups who helped to
+settle the province played parts and **our two Indian guest campers spoke for the
+original inhabitants**; it finished with two songs… from the Centennial Song Book."
+Doris Grassie adds: "**The Indian Guests and our Indian Counsellor-in-Training taught
+the Rain Dance** and costumes were improvised amid much laughter… The Rain Dance must
+have been authentic, and luckily it was almost the last item, for as it ended, rain
+drops began to patter." A second instance (after issue 70) of Indigenous campers
+teaching dance to white campers rather than the reverse — the distinction this read has
+been tracking, now documented at the same camp two years running.
+
+**W. Jack Eastaugh (Principal, Humbergrove Vocational School; Assistant Director, Camp
+Ahmek), "The Summer Camp, an Educational Institution."** Eastaugh is the "Teamwork and
+Staff Relations" author of April 1964 (issue 62). His argument is an hours calculation
+worth keeping: a school year is "roughly five hours per day for two hundred days, or a
+total of one thousand hours," while "In camp the child is involved in a
+sleeping-activity day of twenty-four hours. Multiply this by 56 and you arrive at a
+total of **thirteen hundred and forty-four hours**." On responsibility: "**the
+consequences of action or inaction are often immediate**… Failure to close a tent fly
+before it rains results in a wet bed. Leaving the food pack on a portage can mean no
+supper." On peer pressure, with its danger stated: "The camper who is dishonest, who
+cheats, who steals… is found out and subjected to the most devastating of pressure —
+that of his peers. **Of course, there is a danger in this. If the group approves of such
+conduct, the pressure may result in the camper adopting undesirable behaviour.**" And a
+dated statement bearing directly on coeducation: "**Co-educational camps were 'shocking'
+in the nineteen twenties — now they are an accepted part of camping**" — matching
+Plewman's "co-educational camps by 1933" (issue 64) from the other end. He also notes
+that "**the headmasters of four of Canada's most renowned private schools were on the
+staff of a well-known camp early in their careers**", that the Ontario Department of
+Education "for several years now has sponsored a leadership training centre at **Bark
+Lake**", and that "One high school at the Lakehead selects a staff on the basis of their
+ability to engage in an '**Outward Bound**' programme."
+
+**John R. Latimer (Camp Kilcoo), "More Than 3 R's" — the Atikokan "Outers", the
+clearest Canadian antecedent of outdoor education in a school.** Told as a story: two
+men flying into a cabin near the Manitoba border for solitude are woken at five in the
+morning by "nearly forty young people aged about 16 and 17 out on a snowshoe hike…
+miles from nowhere," who turn out to be high-school students from **Atikokan**, 120
+miles west of Port Arthur and Fort William, on a year-long optional course run two
+afternoons a week and every Saturday, entered by **a signed contract obliging
+participation for the whole school year (and no smoking)**. Its founding rationale, from
+the staff: that the curriculum was "largely divorced from the natural physical
+environment… so cloistered and stereotyped and so unrelated to their native soil that
+**it could have been transplanted to Ethiopia or Hyderabad without very much
+alteration**." Objectives listed with their reasoning: physical conditioning ("The
+essence was not physical toughness"); teamwork in twelve-man brigades where "**No
+leaders are selected at first, but group discussions are held about the qualities of
+leadership before the students choose their own leaders**"; "grace under pressure" —
+"**The thin veneer of civilization peels**"; confidence; constant support ("He is
+encouraged to tolerate failure, and expected to try again"); self-reliance through **a
+solo experience**; prudence ("The course does not want 'white-water hot-rods'"); and
+initiative ("a model of a survival shelter is shown. Then they must improvise their
+own"). On the girls, whose participation was doubted: "**the so-called weaker sex
+responds even more enthusiastically to the challenges of the programme than the boys**,"
+and boys and girls together completed "a **23-mile trek through unbroken wilderness**…
+for twelve hours." In spring the students **built their own canoes in the school's
+technical shops** — "a modified version of the old **North Canoe — twenty-two feet in
+length and capable of accommodating up to eight paddlers**" — and Latimer was given the
+stern of one "in grey suit, blue tie and white shirt." His conclusion is an invitation
+camps should note: "**Now we have competition, and in this case, all one can say is
+'three cheers'**… In Atikokan there are students who can, because of their experience
+and training, be of value in our Camps."
+
+**W. D. Smith, "Leadership — Keystone to Camping"** (delivered 11 March 1965 at the BC
+seminar; printed two years later). A synthesis of three leadership frameworks —
+Malcolm and Hulda Knowles's *How to Develop Better Leaders*, E. J. Tyler of Brandon
+College, and **Murray G. Ross and "Chick" Hendry** of the University of Toronto School
+of Social Work, *New Understandings of Leadership* (Hendry being the C. E. Hendry of
+this read's earlier issues). Ross and Hendry's three needs: **factual information**
+about "the history, philosophy and administration of the camp"; **understanding
+people**; and **leadership skills**. Two points of substance. First, on transmitting a
+camp's own history: "if we believe that our own camp has a distinct philosophy and
+history of its own, **how do we pass this information on to our leaders?**… with the
+extensive turn-over of counsellors annually… it becomes a difficult task." That is the
+mechanism by which camp traditions get lost, stated by a past national president, and
+it belongs in any account of why Kanawana's own record is patchy. Second, the
+"**teachable moment**" — "the counsellor's few minutes before lights out, or the camp
+director at the campfire when he talks about cooperation." He also quotes at length
+**Pierre Berton's "My Love Affair with the Scout Movement"** from the *Toronto Daily
+Star*: "I cannot hear the old song 'Till We Meet Again' without my memory going back
+to… the campfire before lights out… the scent of hot chocolate… and the mingled
+feelings of mystery and of friendship, and of approaching adulthood stirring within me
+like the night wind in the pines." A quotable Canadian testimony to camp memory, from a
+famous byline, dated to the mid-sixties.
+
+**Doug Sadler (President, Federation of Ontario Naturalists), "Contribution of
+Wilderness"** — opens with a gendered observation this project should record: offered
+the choice between taking a boat to fetch groceries and leading a nature hike, every
+sixteen-year-old boy picks the boat, because "**there is an aura of manliness about
+running a machine**… Conversely, **the study of the natural world still tends to be
+regarded as a somewhat girlish thing**… a fictitious carry-over from pioneer times."
+The article's substance is the **Buckhorn Wilderness Centre** near Peterborough, then
+newly formed: nearly a thousand acres beside 30,000 acres of undeveloped Crown land,
+provincially chartered, offering week-long school stays, university research areas,
+"weekend and longer courses for youth leaders and camp counsellors," and a planned
+Nature Interpretation Centre — "**A project on such a scale with such objectives is new,
+not only in Ontario but North America**," per a National Audubon survey team. Funded by
+selling notional "acres" at **$15 each**. Sadler's diagnosis of why camps struggle with
+nature programming — "**More would like to be doing a better job but are handicapped by
+lack of time and perhaps by a lack of understanding in themselves. Finding leaders and
+counsellors who can carry out such a programme is not easy**" — is the honest version of
+what the wildlife syllabi in issue 71 assume.
+
+**Doreen Barwick (Bayview Glen Junior Schools Day Camp), "Nature in Day Camping"** —
+"Camping is the wedding of Nature and Human Nature." A day camp for children aged two
+and a half to ten with a permanent **Animal Farm** (hamsters, white rats, guinea pigs,
+rabbits, chickens, ducks, pheasants, goats, sheep, turtles, lizards, a canary, a budgie)
+plus wild "Summer Residents" — a raccoon, groundhog, squirrel, chipmunk, "a delightful
+crow called Joe," snakes and a pig — kept deliberately "**both male and female, so that
+we could watch their babies being born**." Also a nature hut with a microscope, shelves
+for collections, plastic collecting bags, and a fossil bed and clay pit on site. The
+governing principle is stated against the schedule: "**while programme schedules are
+important, some things are more important, and it would have certainly been almost
+criminal, to have made the children hurry off to swim while the snake shed its skin**."
+And a five-year-old rewarded "for his patience of some twenty-five minutes by catching
+the largest [spider] anyone had yet found." A skunk that fell into a garbage can was
+chloroformed and added to the collection, which is worth recording as period practice
+alongside the conservation talk elsewhere in the issue.
+
+**Elizabeth W. Raymer (Camp Tanamakoon), "Sermons Under the Sun — Pioneers"** — her
+fourth appearance in this run. Opens with a visiting mother: "**Was it like this when I
+was a camper here? Was it as beautiful as this? Oh how blind I must have been, I never
+realized**" — a small, useful piece of evidence about how camp memory works. Then the
+vanishing-wilderness theme ("Lakes measured off in slices, so that each has a little
+portion of shoreline") and an argument that each person is a pioneer because each is
+several people at once, quoting the descriptions of Dickens as "not one man, but a mob"
+and of another as "not a man, but a civil war."
+
+**Among Ourselves — two provincial presidents profiled.** **Leone Wellwood** (Alberta):
+born in London, Ontario; Queen's, honours psychology; postgraduate work at Saskatchewan
+and Toronto; a year as a lay minister in Saskatchewan; Red Cross field organiser; with
+the YWCA since 1954 in Kingston and Moose Jaw, Executive Director at Saskatoon (1959)
+then Calgary (1963); four months at the World YWCA on Ecumenical Studies in 1966; a
+special interest in the Calgary YWCA residence camp at Sylvan Lake; breeds and shows
+American spaniels. **R. O. "Bob" Douglas** (Manitoba): from Minnedosa; president of the
+Manitoba Conference United Church Young People in 1953; joined the Manitoba Federation
+of Agriculture in 1956 as Director of Youth Programmes; Executive-Secretary of the
+Manitoba Farm Bureau from February 1965 and Secretary-Manager of the Riding Mountain
+Conference Centre, where **Camp Wannakumbac** runs and where "Bob has started an
+**inter-cultural teen camp**" and family camp weekends. The editor's note is worth
+keeping as a caution on this whole run: "Since annual meetings frequently bring changes
+in personnel these profiles of Provincial Presidents may sometimes become 'out of date'
+shortly after publication."
+
+**Notices of record.** **Dr. Lorne Brown** — husband of the national president —
+elected to the **Vancouver Parks Board** at the elections of 14 December 1966, and
+booked as banquet speaker at the Canadian Camping Conference, 2–4 March 1967. **Ron
+Johnstone** chairs that conference; Friday 3 March "will feature Canadian Camping,"
+with **John Fisher** hoped for as feature speaker — the Centennial Commissioner
+`facts.json` already records greeting the Kanawana paddlers in Ottawa on 29 August 1967
+— plus the "Fraser River" slides and tape from the 1965 McGill party (issue 72). Two
+new free NFB-style films, "Winter in Ontario" and "Pioneer Village," from the Film
+Library at 185 Bloor Street East. And a book note of practical importance: **R. H.
+Perry's *The Canoe and You*, out of print for two years, has been reissued by
+Association Press as *Canoeing for Beginners*** at $1.10 — described as "**the standby
+and guideline for our canoeing standards programme**," which identifies the manual
+behind the canoe tests Kanawana's waterfront ran.
+
+Nothing in this issue names Kanawana. Its value is the fully specified National
+Campfire with an Edgar poem, the Nova Scotia song book call, the Montreal recreation
+symposium and the Expo day-camp offer, the Confederation pageants, and Govan's
+confession.
