@@ -3144,3 +3144,156 @@ training courses" — another link in the chain by which camps acquired their In
 material from named intermediaries.
 
 **Kanawana itself: not named in this issue.**
+
+## 34 — Vol. 9 No. 3, April 1957
+
+★★ **MONTREAL TAKES OVER THE NATIONAL ASSOCIATION.** The masthead changes this issue:
+**President — F. M. Van Wagner, Montreal**; **Treasurer — W. J. C. Hewetson, Montreal**;
+Vice-Presidents Mrs. J. H. McDonald (Winnipeg), John Hoyle (Toronto), Gertrude Moore
+(Victoria). Irwin Haladner drops to Past President.
+
+Both new Montreal officers are already in this read. **Van Wagner co-founded Camp Nominingue
+with Hay Finlay in 1925 and was first president of the Quebec Branch of the CCA** (issue 21),
+and the KB records **Hay Finlay as Kanawana's Senior Section director in 1922**. **Hewetson
+is "W. J. C. Hewetson," the man listed in June 1954 as the Quebec Camping Association's
+**Song Book chairman**, "of the Boy Scouts Association" (issue 23). So the man who would have
+collected any Kanawana song submission for the national songbook became national treasurer
+of the CCA three years later — which makes him a far more findable figure, and makes his
+papers, if any survive, a live target for `p_048`.
+
+★ **Taylor Statten, M.D. — "Homesickness: A Symptom Complex Related to Separation from
+Home"** — and this is a real study: **75 cases of campers in 15 camps**, classified by their
+directors as homesick, analysed by the Director of Child Psychiatry at the Montreal
+Children's Hospital. Part 1 of 2. **A named, dated, Canadian, Montreal-based clinical study
+of camp homesickness in the 1950s**, and nothing like it appears in the KB.
+
+Findings as stated: the commonest symptoms were **crying, loneliness and despondency, in
+three-quarters of cases**; about half showed **the desire to go home, poor appetite and
+inactivity**; about a fifth showed poor sleep, abdominal pain, headaches, constipation or
+diarrhoea, or vomiting; a further fifth to a quarter showed **"feelings of being prosecuted,"
+that "everybody is against him" and "that nothing is the way it should be."** He classifies
+homesickness into three groups — a natural symptom of growing up; a response to an inadequate
+environment; and one rooted in faulty parent-child relationships — and works through the
+defence mechanisms (projection, repression, denial, displacement, greed). Two passages are
+worth quoting into any Kanawana article on homesickness:
+
+- **The insistence that a doctor see every case first**: "It is a wise administrator who
+  insists that all children considered to be homesick be checked by the doctor… I cannot
+  caution you too much on this point. Children do develop illness on the way to camp, some
+  incubate infectious diseases during the first few days."
+- **A psychiatric position against camping for the youngest children**: "most psychiatrists
+  would not support camping for this age group unless it was felt that the parent-child
+  relationships were unsatisfactory," and a warning that an apparently perfect adjustment in
+  a very small child may be a **"precocious social phase"** that "the untrained eye may
+  interpret as a wonderful and successful adjustment to camp," but which is denial and "a
+  very dangerous stage of adjustment in which to remain."
+- And, against the apple-juice-and-isolation cure printed a year earlier (issue 31): he
+  recommends **"Talking of home, letters, snap-shots and gifts from home and visits from
+  parents"** precisely to prevent the child repressing the image of his mother. **The
+  magazine printed the two treatments ten months apart without reconciling them.**
+
+He also notes what surprised him: "We were unable to obtain the age incidence of homesickness
+from our material but **the large number of children of the pubescent period was
+unexpected**."
+
+★ **Charters T. Sharpe profiled** (John Halcrow, London YM-YWCA) — and the fact worth
+extracting is that he was, **for three years to his retirement in 1951, "the Government's
+first full-time Director of Camping for Ontario,"** in which post "he probably visited more
+Camps in any one season than any man in Canada." His earlier career: Givens Street School and
+West End YMCA Toronto as a boy; **first Boys' Secretary of the Orillia YMCA in 1909**, "one
+of the early pioneers in organized Boys' Work"; **Toronto West End YMCA 1912–1915**, where
+his boys included **the future Premier of Ontario, Leslie Frost**; **YMCA War Services from
+1915 with the rank of Captain, serving the Canadian Railway Troops in England, France and
+Belgium**, and staying on after the armistice for a clean-up job; then twenty years teaching
+at Toronto Normal Model School and seven at University of Toronto Schools; **President of
+Toronto West End YMCA in 1944, the YMCA's centennial year**, without having previously held
+office; twenty-five years associated with two Ontario private boys' camps. Halcrow's
+anecdotes — the annual Pancake Tuesday when Sharpe hurled a giant coin-filled pancake over a
+rope for the boys to scramble for, and the torn two-dollar bill given in halves to boys who
+agreed not to smoke before eighteen — are the kind of concrete camp/school ritual detail this
+run keeps turning up.
+
+★ **A complete Staff Member's Agreement, printed as a form** (Ted Yard's "Whoduzit") — the
+closest thing in the run to the contract a Kanawana counsellor would have signed. Terms:
+board and lodging plus honorarium; transportation the staff member's responsibility unless
+specified; **one day off each week, from after breakfast until midnight in July and until
+1 a.m. in August**, with relief during general swims, rest period and after lights out; and
+**"If my conduct is considered by the Camp Director to be detrimental to the achievement of
+the camp objectives, I agree to withdraw from camp upon request."** The reverse sets out
+General Responsibilities, including: participate in chapel, evening programmes, camp
+improvement projects and camp clean-up; **"Staff members are expected to remain on camp
+property unless on day off, or having made specific clearance"**; **"Staff members who smoke
+are asked to refrain from doing so in the presence of campers"**; **"Private cars are not
+brought to camp except by written permission of Camp Committee"**; and personal liability for
+wilful damage. Yard prefaces it with **Hedley S. Dimock's definition of the camp staff** —
+"The Spiritual Center… the Value Center… the Center for Determining the 'Educational
+Destiny' of the Camp… the Chief Center for satisfaction or frustration… the Morale Center."
+
+★ **Mrs. Ralph Raymer's counsellor's-job lecture printed in full** — the U of T extension
+course lecture from issue 33, reprinted "by many requests." It is the best single account in
+the run of what was expected of a Canadian camp counsellor, and it contains one passage that
+belongs directly in the Kanawana wiki:
+
+> "**Don't fall into the habit of speaking of the children in derogatory terms. If you call
+> them 'little monsters' often enough, you may begin to think of them as little monsters…
+> This is applicable too to derogatory nicknames. People going through life with a nickname
+> such as 'Ape', 'Monkey-face', 'Hippo', 'Carrot-top', are being saddled with a burden which
+> may colour their attitudes toward life.**"
+
+Kanawana's own records are full of camp nicknames — the 1982 CIT plaque alone carries
+"Travolta," "Apple Crisp," "Hippo," "Melvin." This is a 1957 statement from inside the
+Canadian camping profession that the practice was already being argued about, and it is the
+right context for presenting such nicknames rather than treating them as innocent local
+colour. Raymer also opens with the structural fact directors lived with: **"there is no
+source of trained counsellors… He must run concurrently, a camp for children and a training
+school for their leaders."** And she names the specific signs a director reads in a week — a
+glum cabin group, everything in the lost and found belonging to one cabin, lights blazing
+after Taps, children shivering at the dock waiting for a counsellor who is late, no raincoats
+on a rainy day.
+
+★ **J. H. Ebbs's complete medical supply list for a fifty-camper infirmary**, itemised —
+enamelware, glassware (including "6 Thermometers — stubby"), rubber goods, instruments,
+bandages, dressings, antiseptics, tablets and ointments, with quantities. This is exactly
+what a camp infirmary of the period held, down to the 200 aspirin and the two ounces of
+toothache drops. Immediately usable for any reconstruction of Kanawana's infirmary. A
+companion note recommends adding two new questions to camp medical forms in 1957: **"Has
+your child received Polio Vaccine? If so, how many shots?"** and whether the child is
+allergic to penicillin, sulpha or tetanus anti-toxin — the Salk vaccine had just reached
+Canadian schoolchildren.
+
+**A fifth "Duel": should counsellors sleep in the same room as their campers?** The case
+against a counsellor's own room is argued on the ground that "**Program is everything that
+happens during a camper's stay at camp**… the camper is moulded more by what occurs during
+these many other hours of the day," and that a partition makes the counsellor "an undeclared
+'outsider'" whose "visits are confined to disciplinary sortees." The case for it rests on
+privacy and record-keeping. A live 1957 argument about cabin architecture and its
+consequences — relevant to any description of Kanawana's cabins.
+
+**Mary Porter's canoe history, part 2** — Champlain conceding the canoe was better suited
+than the long-boat he took to the Lachine Rapids; the Nor'Wester route by the Ottawa,
+Nipissing and French Rivers to Georgian Bay and on to the Kaministiquia; the batteau, the
+York Boat, the Durham Boat and the Schenectady Boat displacing it; **Sir George Simpson's
+1860 voyageur canoe pageant for the Prince of Wales**, said to have led him to become
+Commodore of the Royal Canoe Club; and the sentence a Kanawana article on land history could
+use: **"Even the Indians, formerly a migratory people, were now confined to reserves without
+excuse for travel."** Birch bark gave way to cedar strip in Ontario, chestnut in the
+Maritimes and canvas in the far north, with **Peterborough and Fredericton the new
+building centres**. The three articles were to be reprinted and sold at 25¢ a set through
+the OCA office.
+
+Also: **Barry Lowes launches a "Wild Life Corner" column** with two activities worth
+recording — an insect trap made from a white sheet and a light with a carbon-tetrachloride
+killing bottle, and **"Staking Your Claim,"** in which each camper digs and sifts one square
+foot of earth and counts what lives in it. A **bird chart** recording each species' first
+sighting by camper and date, with 75 to 100 species common in a season. **W. J. Stinson's
+ten axe-safety rules** from Ontario Lands and Forests, and ten more on choosing and
+maintaining an axe. **Mrs. R. J. Rowe on the Regina YWCA's new camp at Glen Harbour**, leased
+in 1956 from the Regina Kiwanis Club who had run it for underprivileged children — with
+thirteen sponsored girls among the campers and a $25 two-week fee. **Four more Mary Edgar
+comic verses** written for early issues of this magazine and never collected — "The Camper
+and the Birthday Suit," "Lifesaving," "The Camper and the Soap Flakes," "Table Talk" — camp
+humour of the period in the voice of a camp director. And a Montreal advertiser new to this
+run: **Walter J. Cross, footwear for children, 4930 Sherbrooke Street West, Montreal**,
+selling camp footwear nationally.
+
+**Kanawana itself: not named in this issue.**
