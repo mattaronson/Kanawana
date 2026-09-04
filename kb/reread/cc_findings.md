@@ -18690,3 +18690,205 @@ Beaudreau**; the Editorial Committee held a brainstorming weekend at **Camp Trai
 September; and the CCA's fee income "has for several years been around the $3000.00 figure, but it
 is now quite unrealistic." Cover photo courtesy Camp Ponacka. No Kanawana and no YMCA of Montreal
 reference in this issue.
+
+## 101 — Vol. 26 No. 2, Winter/Spring 1974
+
+Contents page checked. All items read: Have You Heard? Do You Know?; A Message from the President;
+A Case for "Participative" Camping (Al Knox); The Ermine Owl (Larry R. Johnston — actually on the
+snowy owl); Your Job as a Counsellor Starts Now! (Viiu Kanep); "Despenses" (the contents-page title
+is garbled; the piece is Clarence Ferguson's "A Strange Happening"); Earth Day (Arnold R. Cohen);
+Wide Games (Neil Graham); From Quebec and From New Brunswick; Classified Ads; Outdoor Cookery; From
+Kitchen Waste to Fresh Food (Sam G. Hambly). Also a two-page CCA Publications catalogue and an OCA
+Buyer's Guide supplement.
+
+**★★★★ HEDLEY G. DIMOCK'S 1967 CCA KEYNOTE, NAMED — and it launched "participative camping."**
+Al Knox, former Director of **Camp Wanakita**, closes his article: "If you want to pursue the concept
+of participative camping further I recommend that you read **Hedley G. Dimock's address to the
+Canadian Camping Association meeting (March 2-4, 1967), 'Canadian Camping — Its Resistance to
+Change'**. Hedley discusses these concepts in depth from the perspectives of 1) camper development
+and 2) the function and influence of the camp director."
+
+**This read then confirmed it twice from the project's own cache**, in issues already held but never
+searched for this:
+- *Canadian Camping*, April 1967, conference report: "the delegates were in a position to hear
+  **Dr. Hedley Dimock's keynote address on the Individual**. From 'Springboard No. 1' Dr. Dimock
+  lectured to camp directors **urging them to change from repressive to participative methods of
+  programming**. In the 'Feedback' sessions the directors 'participated' by getting back at him."
+- *Canadian Camping*, Autumn 1967, a Manitoba camp director: "**Heavily impressed by Hedley Dimock
+  at the Canadian Camping Association Conference we are introducing some measure of participatory
+  camping at the camp this year.**"
+
+So the man who spent 1960–61 studying counsellor effectiveness **at Kanawana** gave the address that
+put "participative camping" into the working vocabulary of Canadian camp directors, and camps were
+still citing it by name seven years later. **Patched into `wiki/people/hedley-dimock.md` as a new
+section (20 → 23 sources), with the address itself flagged as not yet located** — the OCA Conference
+Digests for 1966–68 and the CCA archive destined for Waterloo (issue 99) are where to look. This is
+also a good illustration of the principle behind this whole read: the 1967 issues were in the cache
+the entire time, and nobody had reason to grep them for "Dimock" until a 1974 footnote said to.
+
+**★★ Al Knox's article itself is the fullest period statement of participative camping.** He
+distinguishes "a more traditional style in which the benefits of good camp program are stressed" from
+"a more 'participative' style in which program is seen as a tool to help the participant learn more
+about himself" — the difference being "the extent to which program is seen as a goal or as a tool."
+The questions he puts are the ones a camp evaluating itself would have to answer: "**How many of our
+camps or programs are evaluated on the extent (or the effort made) to which such growth has been
+achieved versus evaluation based on number of participants, degree of fun (alone)?** For that matter,
+do criteria exist in our evaluation processes to measure such personal development?" And the
+premise: "**If we understand that we cannot change people, that they must change themselves**, then
+we must encourage them to become involved in a process that will help them discover a need for
+change." Three named mechanisms tried at Wanakita — **camper councils** open to any interested
+camper ("Don't sell the junior campers short. You will find that they have the creative ideas — not
+being hindered by tradition"); **a three-phase system** in the junior section moving from
+counsellor-planned programme, to campers and counsellors planning together, to campers planning as a
+group with the counsellor "assuming a truly advisory role"; and **decentralised cabin-centred
+seniors** where "counsellors are challenged to be 'advisors' vs. leaders." Two maxims: "**There are
+no such things as problems, only opportunities for learning**", and "**If you're not making mistakes,
+you're not doing anything.**"
+
+**★★ "From Quebec" — Madelene Allen, Director of Camp Ouareau, on using the provincial standards as
+a teaching tool.** Ouareau is Ferna Halliday's camp (see `camp-oolahwan.md`), and Allen serves on
+the **QCA Standards Committee**. Her opening is the best description in this run of what the Quebec
+standards document *felt like* to a camp being inspected: "We, in Quebec, are familiar with our
+provincial standards. We view this tome in different lights depending on the time of year … Even
+though we know we have done our best, **we view it with slight trepidation as we leaf through its
+pages the night before the visitor is expected.**" She then gave the standards **and the marking
+scheme** to her five CITs at the six-week point of their training, in pairs, a week each on different
+sections. What they did: interviewed the director with pencil and notebook; shadowed senior staff;
+were given the records of programmes and staff lists; **inspected the waterfront, examined the
+canoes, counted the toilets, and checked the outlets of the septic tanks after a heavy rain**. "I
+almost expected to see one of them coming out of a garbage container!" Then a night in her cabin
+over coffee going through the findings. **This is what a Quebec standards visitation covered in
+1974, described from inside an accredited Quebec camp** — directly applicable to Kanawana, and
+confirming there was a written **marking scheme** as well as a standards document.
+
+**★ "From New Brunswick" — Rev. Philip A. Giberson, Saint John Valley Bible Camp, "Is It Worth
+It?"** On selling camping to "a committee, council or congregation", and a concrete result: one New
+Brunswick camp acted on the National Camping Day Committee's suggestion to invite guests, and among
+them were "**the local weekly newspaper editor and his wife**" — the tour produced "a front page
+editorial, in bold type, which editorial found its way into 5000 homes." His summary of twenty-five
+years watching camping change is worth keeping against all the crisis rhetoric of the preceding
+issues: "**I have watched the changes in camping patterns in the past 25 years and see little change
+in the actual camper. They still want camping and not glorified entertainment.**"
+
+**★★ Neil Graham (Pioneer Ranch Camp), "Wide Games"** — the first instalment of a promised series,
+and directly comparable to Kanawana's L&V Games. Defines a wide game as "**a game involving large
+teams of people over a large area of land**," credits **Joe Curry** as "the basic 'brain' behind many
+of these games", and sets out **Capture the Flag** in full: two teams, territories with a clearly
+marked boundary, flags placed in a circle of flour or toilet paper and visible from a stated
+distance; attackers "killed" by having an article seized — "a crepe paper arm band, a piece of
+adhesive off the forehead, a hat"; a prisoner's base freed by a comrade touching a prisoner without
+being caught; freed prisoners re-armed with fresh arm bands. Note the co-ed rule and its reception:
+"**In Co-ed games we sometimes make a rule that only girls can attack other girls, but often the
+girls want to be 'liberated' from the role!**" — a 1974 datapoint on co-ed camp game conventions.
+Ten design principles follow, several of which read as hard-won: make sure everyone can play to the
+end and that "people are 'recycled'"; make boundaries unmistakable, using roads, string, toilet
+paper or fires; "**try to design your games so there is a role for the quieter, non-athletic
+campers**"; make the scores high ("Instead of one point for a prisoner, make it 1,000 or 10,000 …
+It sounds much more impressive"); check the ground beforehand and "get rid of barbed wire, open
+wells, dangerous holes"; "**Night games in the bush are dangerous. Emphasize skulking at night
+rather than running. You've got to be sneaky, not fast**"; and the honour principle — "if you are
+shot — you're dead … Heavily penalize teams that cheat." The last is the most useful for
+understanding how an L&V-type event is actually staged: "**get the whole camp excited about the game
+ahead of time, by having some kind of confrontation between the teams before the game — even just a
+put-on fight or verbal attack between the leaders will help to polarize feeling in the camp.**"
+Games were "generally given some added meaning by involving a theme taken from past or contemporary
+history" — which is exactly the Lumbermen-and-Voyageurs device.
+
+**★ Arnold R. Cohen, "Earth Day" at the Y.M.H.A.–B'nai B'rith camp, Lake of the Woods.** A fully
+described 1973 environmental programme at a camp of **120 boys and girls aged 9 to 16 in three
+two-week sessions**. Staged: campers woken at **11 p.m.** for a mass assembly and a fifteen-minute
+film, *The Rise and Fall of the Great Lakes*; **an oil drum hung in effigy** and a scroll unrolled
+proclaiming Earth Day; then at breakfast, staff reading out world news bulletins every two or three
+minutes (forest fires, ocean oil slicks, raw sewage, Tokyo air so bad that "masks had to be worn and
+oxygen stations set up"); then swimming and canoeing instructors presenting **what Lake of the Woods
+would be like in 1980** — too polluted to swim or paddle in, the air requiring evacuation. Then the
+whole camp was taken by canoe and chartered boat to a littered public island and cleaned it. The
+boat owner in Kenora "became so excited by the program that he gave us the boat at no charge", and
+the **Department of Natural Resources offered two men for the day plus equipment**. The argument put
+to the campers is stated in full and is unusually sharp for a camp programme: "**it really does not
+matter if we personally litter … The result affects us.**" Directly usable in an
+environmental-and-ecological-history article as a dated comparator.
+
+**★ Sam G. Hambly (Camp Allsaw), "From Kitchen Waste to Fresh Food."** A complete, buildable
+specification for a **year-round camp composting unit** — quarter-inch aspenite panels 2 ft × 4 ft
+in 2×2 frames bolted into a square, two squares making a two-storey unit; a plywood lid and a
+plastic lid ("The plastic lid conserves moisture and keeps out flies in summer weather. **It also
+enables the facility to be used as a hotbed for growing seedlings in the spring**"); a 4-to-1 mix of
+leaves, straw, hay, grass clippings and other organic waste to farm manure; **a bottomless plastic
+garbage pail set in the centre to funnel fresh waste to the bottom of the mass** so that "bacteria,
+fungi, earthworms, springtails, sow bugs, etc., will feed from beneath"; and a full winter
+conversion using styrofoam panels and a vapour barrier "to conserve the natural 40°F. temperature of
+the earth and the chemical heat generated by the composting mass." His framing is the part to quote:
+"**If Youth as citizens, electors and legislators are to solve environmental problems on which
+survival depends, it seems logical that practical experience be provided at an early age** … Camp is
+a good place for this experience." A 1974 camp composting design, for the environmental article.
+
+**★ Viiu Kanep (Camp Wapomeo), "Your Job as a Counsellor Starts Now!"** Written mid-winter to
+counsellors already contracted. Against amateur psychology: "**So often, inexperienced counsellors
+feel they should carry out psychological experiments with their cabin group, or use each camper as a
+case study for a sociological report** … In my opinion this is not summer camp counselling." A
+self-audit under six headings — **enthusiasm, facial expressions** ("Are you a natural frowner? …
+Are you able to cover up emotional concerns so that your cabin group will not be burdened by your
+problems?"), **self discipline** ("you find it hard to get going in the morning, but is this a fair
+reason to have your campers miss out on an early morning paddle in the mist?"), **discipline** ("no
+matter what your philosophy is, you must have the ability to say 'NO'. **Saying 'YES' to everything
+does not automatically make you a good counsellor**"), and **communication**. Then what to prepare in
+advance: a stock of bedtime and rainy-day stories from the public library; a long list of songs,
+because "**a singing camp is a happy camp**"; group games for every size and energy level; knowledge
+of the camp's own surroundings, "points of interest and areas of historical importance"; local
+natural history; the weather ("where does rain come from? what is a rainbow?"); and the night sky.
+Her reading list, printed by the editor, is the fourth version of the canonical Canadian camp
+bibliography this read has met, and adds **Mary L. Northway's *Laughter in the Front Hall*** and
+**H. Jean Berger's *Inspirational Poetry for Camp and Youth Groups*** to the standard Northway &
+Lowes / Webb / Pohndorf / Hammet / Hamilton / **Dimock and Statten** set.
+
+**★ Quebec news, from a new correspondent.** **Paul Bélanger** begins reporting the Quebec scene in
+French. **Yves Beauregard**, "directeur exécutif permanent de l'A.C.Q.-Q.C.A. depuis plusieurs
+années" — so the joint Quebec association had a **permanent paid executive director** — has just
+been appointed **Directeur du Camp des Enfants Infirmes (Société des Enfants Infirmes du Québec)**.
+From January 1974 the ACQ-QCA is running **several training courses for camp monitors, basic and
+specialist, in both Quebec City and Montreal**, "en grande partie subventionnés par le
+**Haut-Commissariat à la Jeunesse, aux Loisirs et aux Sports du Gouvernement du Québec**" — a
+provincially subsidised camp-staff training system in Kanawana's own province, in the year the
+project's Quebec record is thinnest. And the theme of the **28–30 March 1974 ACQ-QCA congress at the
+Reine Elisabeth, Montreal**, is "**Une Dynamique du Changement**." The editor asks openly for French
+material, admitting she can proof-read but not edit French.
+
+**★ Honours and canoe schools.** **Jocelyn Palm** received the **Commonwealth Award, the Service
+Cross**, from Lieutenant-Governor Ross Macdonald at Queen's Park in December for service to the Royal
+Life Saving Society. **Kirk Wipper** received an Ontario Government plaque for his contribution
+during the Queen's visit: the **International Museum of Canoes and Kayaks** provided a **Canot du
+Maître, "known as the Montreal canoe" — 36 feet long, entirely birch bark and natural material, no
+nails**, with paddles and sail — for the pageant at **Old Fort William**, and "the Royal Couple were
+so intrigued … that they engaged in conversation with the paddlers." The museum is "**located
+adjacent to Camp Kandalore in Dorset**." Canoe school dates and directors for 1974: Atlantic at
+Camp Wapomeo, Yarmouth N.S., 10–19 June, **Susan Cousineau** director; English Eastern at the
+University of Ottawa camp, **Gracefield, Quebec**, 30 May–8 June, **Doug Wipper**; French Eastern at
+the same site 10–19 June, **Gaston Lemire**; Mid-West at **Camp B'nai B'rith, Kenora**, 1–10 June,
+Jim King; Western at **Camp Chief Hector, Banff**, 19–28 June, Claude Cousineau and Kirk Wipper.
+
+**★ Latimer's president's message is a sustained complaint, and worth having whole for the sector's
+mood in early 1974.** "Madame Editor — this is my mad month! … **I'm frustrated, discouraged and just
+plain mad!**" Against "a 'gimme, gimme' philosophy"; against "**phony make-work programs of certain
+Governments — programmes which allow some incompetent teenagers to operate Camps on their own, at
+salaries which Camps are unable to afford**"; against "the bungling, broke, befuddled Unemployment
+Insurance Commission"; and — the substantive one — against the camping movement having let outdoor
+education be taken from it: "**Since the beginning of the Century, Camps have been in the field of
+Outdoor Education. Now some outsiders have found a label** … School Boards and teachers see the
+benefit of an educational experience in the out-of-doors, and now who's taking the back seat?
+That's right, the Camp Directors and Staff! **And that's our fault! We let Camps sit idle, complain
+about high costs, and watch School Boards build elaborate, beautiful Outdoor Education Centres.**"
+Also against volunteers who say "I'll do it" and don't, against the Canadian habit of criticising
+whoever leads, and against committees. He ends wanting to go back to camp.
+
+**Other items.** **A new inspirational column** begins with Clarence Ferguson's retelling of the
+**stone soup** story, framed as "like a day in camp." The CCA Publications catalogue reappears with
+prices raised and **Canadian titles now marked with an asterisk**; *The Camp Counsellor's Book* has
+dropped from $3.50 to $1.95. A note that **reprints of Northway's Mary Edgar memorial are for sale
+from the CCA office at 50¢**. **The Girl Guides of Canada plan to recognise National Camping Day**
+despite the CCA abandoning it. **Philip Giberson** obtained a Secretary of State travel grant that
+took 21 teenagers by bus for five days in Ottawa and a day and night in Montreal, "camping" in
+homes. The classified ads now include a Haliburton girls' camp for sale at $69,700 and **Bert Danson
+listed as a vacation-property specialist with Young & Biggin Real Estate** — the same Danson who
+wrote the tuck-shop article and advertised as a consultant, now selling camps. Cover courtesy
+**Camp Kipawa Wilderness Adventures**. No Kanawana and no YMCA of Montreal reference in this issue.
