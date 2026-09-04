@@ -20860,3 +20860,134 @@ including buttering toast with a paint brush. A 24-foot steel pontoon barge "for
 transport children" for sale at Earlscourt Children's Home, Peterborough. And Mary Lou Hamessley's
 *Handbook for Camp Nurses and Other Camp Health Workers* (224 pp., 1977, $6.90) advertised from New
 York — a full contents list of what a camp health centre was expected to handle in 1977.
+
+---
+
+## 114 — Vol. 29 No. 4, June 1977
+
+Twelve pages. Every item accounted for: Our New Logo; Cross Canada Checkup (Quebec, New Brunswick,
+Saskatchewan, British Columbia, In Brief); C.C.A.'s New Executive; American Camping Association
+notices and the Elmer Ott memorial; Editorial; Foodsavers; The Importance of the Unimportant (Bruno
+Morawetz); Special Report on John Bosco Camp; For the Counsellors — On Being a Leader (D.R. Offord,
+M.D.); Maintenance; Tripping Tips; the Cash's Name Tapes advertisement. **Kanawana is not named, but
+its director is.**
+
+**★★★★ DEREK WALSH'S QCA PRESIDENCY IS A TWO-YEAR TERM, AND HE IS EX OFFICIO A VICE-PRESIDENT OF THE
+PROVINCIAL BOARD.** The Quebec paragraph:
+
+> "**Abbé Robert Maisonneuve is the new President of the A.C.Q. – Q.C.A. Provincial Board. The
+> Vice-Presidents are the Presidents of the English and French Sections, respectively. Mr. Derek
+> Walsh begins the second year of a two year term**, while **Abbé Paul Belanger** will combine the
+> Presidency of the French Section with his position as Vice-President of the C.C.A. **M. Rosaire
+> Corbin** is the Chairman of the French language Camping Committee."
+
+This converts a floor into a term. The `derek-walsh` article previously dated the presidency only as
+"by Oct 1976," from the association masthead. It is now **a two-year term whose second year begins in
+June 1977 — so roughly spring 1976 to spring 1978**, overlapping his Kanawana directorship entirely
+(1974 – February 1979). And the structural point matters as much: because the Provincial Board's
+vice-presidents *are* the two section presidents, Walsh held provincial office in the joint
+English-French body at the same time, under Maisonneuve. **Written into `people/derek-walsh.md` as
+two new table rows with a new source 8**, together with the March 1977 anniversary conference he
+presided over (issue 112). At the same moment he was a Vice-President of the CCA nationally. A camp
+director running a 180-child camp while holding office at three levels of the association
+simultaneously.
+
+The Quebec succession is also now continuous: **W. McCarthy** headed the joint Provincial Board in
+October 1976 (issue 109) with **Robert Maisonneuve** at the ACQ; by June 1977 **Maisonneuve has moved
+up to the Provincial Board presidency** and **Abbé Paul Belanger** has the French Section — the same
+Belanger who is CCA Vice-President and sat on the national Task Force. Rosaire Corbin, the
+provincially funded training officer of February 1977, now chairs the French language Camping
+Committee.
+
+**★★★ EILEEN MAYOTTE IS SECRETARY OF THE CANADIAN CAMPING ASSOCIATION.** The new national executive
+is printed in full: **President Jack Pearse; Past-President Ron Johnstone; Vice-President Paul
+Belanger; Secretary Eileen Mayotte; Treasurer George Simonett.** Mayotte has appeared through this
+read as a Saskatchewan writer — the "Responsibility" essay reprinted at issue 111 — and is now a
+national officer. That settles the case for a stub: a woman who wrote the clearest statement of
+camper agency in the run and then became secretary of the national association. **Add to the stub
+list with Plewman, Van Wagner, Adele Ebbs, Frances Kelly and the rest.** Note also that **two of the
+five national officers are Quebec men** in this year — Belanger as Vice-President, with Walsh a
+Vice-President too by his own article's record — which is the strongest Quebec presence in the
+national body the run has shown.
+
+**★★ BRUNO MORAWETZ, "THE IMPORTANCE OF THE UNIMPORTANT"** — the fullest statement of camp
+philosophy in the newsletter era, from the director of Camp Ponacka, who has already appeared in this
+read as the source of the "Indian Burial ground" reading (`site/indigenous-names-and-land.md`). The
+argument is that a camp's real work is done in "**thousands of small incidents, each of them
+seemingly unimportant**," and that a director should therefore **delegate the "important" things —
+routines, maintenance, buying — to keep himself free for the unimportant ones**, "such as being free
+to talk to a camper on the path or tell a bedtime story to one little group." Several passages are
+quotable for any account of what camp directors of this period believed:
+
+> "A camp is the expression of the individual who runs it. **Woe to the camp which yearly changes its
+> directors!**"
+
+— a sentence worth holding beside Kanawana's own record of four directors in three years around
+1972–74 (`people/leo-robitaille.md`), and beside Olga Hall "carrying four different camp directors."
+
+> "**I am always suspicious when a staff application is accompanied by a long resume listing dozens of
+> qualifications, courses taken, tests passed.** In many cases such a person has done all the right
+> things, he has earned his Bronze, his St John's First Aid badge, his Bushman's thong, but perhaps he
+> has never taken the time to sit quietly by a brook."
+
+— a direct counter-voice to the entire certification apparatus this run has been documenting
+(canoe-instructor schools, standards, director certification), from a director writing in the
+association's own newsletter.
+
+> "**A highly developed campsite may prove to be a real handicap.** When our camp was young, the
+> campers derived great satisfaction from creating a new path or cutting trees for a new tent. Now
+> it's all done."
+
+And, on keeping camp unlike the city: "**We do our best to shun concrete and steel, arborite and wall
+board, plumbing and electricity, radios are completely outlawed.**" Contextual rather than
+Kanawana-specific, but it is the best single articulation in the run of the antimodernist argument
+Sharon Wall's scholarship analyses, written by a working director in 1977 rather than reconstructed
+later.
+
+**★★ D.R. Offord, M.D., "On Being a Leader"** — a counsellor address of unusual quality, and worth
+noting because it is a *psychiatrist's* account of the counsellor's job. Its distinctive claims: that
+there are two groups of campers, those "who feel 'good in their own skins'" and a smaller group
+arriving "with some needs that really should have been looked after long before they got to camp,"
+and that "**the more I like him, the worse I'll behave, maybe**"; that "**some cabins where the kids
+are the best behaved are the cabins where very little of any lasting learning has gone on**"; that a
+counsellor need not feel equal affection for every camper and should examine what "bugs" him for what
+it says about himself; that it is worth telling campers "when you feel you've been a poor counsellor";
+and that counsellors should **insist** on a part in programme planning and on their experience being
+"different and richer each summer" if they return. On discipline: "**Anyone of your campers has a
+right to be angry but he doesn't have the right to hit someone every time he feels that way.**" A
+useful comparator for reading Kanawana's own staff-training material of the period.
+
+**★ The new logo, credited and pictured** — **Daphne Kaye of Camp Voyageur, South River, Ontario**,
+photographed with it, "**Look for the logo on letterhead, brochures and badges right across the
+country as our Public Relations and Promotion Committee goes into action**" — the committee Derek
+Walsh would chair. Again a dating aid for undated Kanawana printed material: the CCA logo on a
+letterhead or badge means 1977 or later.
+
+**★ The John Bosco Camp fire, in figures** — the Saskatchewan camp reported lost in the spring forest
+fires (issue 112's classified had advertised for its director) turns out to have been damaged rather
+than destroyed, and the Special Report gives an unusually complete financial picture of a small
+Canadian camp in 1977: eighteen years on ZN Lake in Nipawin Provincial Park; **5,176 campers served
+in the ten years since 1967**; **820 campers and 81 staff in 1976**; the camping budget "**trippled
+in the last five years**"; **camper fees of $7.50 per day in 1977 covering only the cost of feeding
+them**, with the rest relying on community support; fire loss of **$62,177.48**, of which
+**$32,210.00 was insured**, leaving **$29,967.48** uncovered. Read beside W. Grant Kerr's insurance
+article (issue 110), this is what under-insurance looked like in practice — roughly half the loss
+carried by the camp. **256 man-hours**, 48 of them by air, were spent searching 1,000 square miles
+for a relocation site without success; the camp reopened on a relocated tenting ground at Ispuchaw
+Lake with help from the Department of Northern Saskatchewan, and planted over 3,000 trees.
+
+**Minor.** The CCA Board meets at **Moncton, 4–5 November 1977**, hosted by New Brunswick with its
+fall workshop; **Robert Cameron** is the new NBCA president and continues to chair the CCA's Outdoor
+Education Committee. **Lorne Bowering** chairs the **newly formed Professional Development Committee,
+formerly Standards** — a national committee renamed away from "Standards" in 1977, which is worth
+noting for anyone searching CCA records by committee name. **John Hasell** is BCCA president, **Grant
+McKeen** its representative to the CCA; **Barbara Taylor** re-elected in Newfoundland, **George
+Matthews** continuing in Nova Scotia, **Gary Luthy** in his first term in Alberta. **Punch Jackson**
+announces a **new illustrated catalogue of CCA Publications**, available from Box 241, Winnipeg — a
+second 1977 publications document to seek alongside Sharon Brown's bibliography (`p_312`). Manitoba's
+10th Annual Counsellor Conference drew **over 500 delegates from 65 agencies and camps** to 27
+sessions. **Elmer Ott**, author of *So You Want to Be a Camp Counsellor* — one of the titles in the
+CCA catalogue — died 7 May 1977. Maintenance and tripping tips: wood ashes for privies, "Wescodyne"
+as tamed chlorine, barn board left unstained, cedar "seconds"; billy pails made from 105-oz kitchen
+tins with coat-hanger handles, green garbage bags inside packs to keep sleeping bags dry, and gunny
+sacks sewn from factory cotton.
