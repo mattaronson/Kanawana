@@ -11889,3 +11889,271 @@ Nothing in this issue names Kanawana. Its value is the fully specified National
 Campfire with an Edgar poem, the Nova Scotia song book call, the Montreal recreation
 symposium and the Expo day-camp offer, the Confederation pageants, and Govan's
 confession.
+
+## 74
+
+`canadiancampingmagazine_vol19_no3_1967april.txt` — Vol. 19 No. 3, April 1967.
+
+Contents page (checked against this block): Honey Bees at Camp (Sam G. Hambly) ·
+Intercultural Camping (H. K. Roessingh) · On Choosing a Sailboat (Norm McKee) · A
+Prayer for Leaders (Mary S. Edgar) · Sermons Under the Sun — Church Service at
+Wabanaki · Tidbits from the Canadian Camping Conference (Bruno Morawetz) · Among
+Ourselves (Adele Ebbs and David Hartry) · Archery in the Camp Programme (Madge K.
+Mitchele) · Drama in Camp (Marni Jackson) · Camp Manitou (Doug McEwen) · A Camp for
+Problem Campers (Skip Lumley) · Your Library Shelf · A Camp Director's Diary. All
+thirteen covered, plus Catherine Van Wagner's poem "White Birches." Cover: Camp
+GayVenture, Haliburton Highlands.
+
+**★ A family link this project does not have: Wallace Forgie was Adele Ebbs's uncle,
+and therefore Taylor Statten's brother-in-law.** From Mary L. Northway's profile of
+Adele Ebbs: "**Couchie was a pioneer in canoe tripping. Her uncle, Wallace Forgie,
+took her on her first big canoe trip through Temagami when she was ten years old.**"
+Adele Ebbs is Taylor Statten's daughter — the profile establishes that too, at length —
+so Forgie married into or was born into the Statten/Page family. `taylor-statten.md`
+records Statten's siblings (Bolina "Bay," b. 1884; Waldemar; Lincoln) and his wife
+Ethel; Forgie is therefore either Ethel's brother or Bay's husband, and the article
+should say so once that is settled. **This matters because Forgie is now one of the
+most connected figures in this whole read**: photographer of C. F. Plewman at the
+Lake Couchiching YMCA camp in 1903 (issue 64); the man who moved the Ottawa YMCA camp
+to Golden Lake in 1908; an Alberta YMCA post to 1927; nine years of YMCA work in South
+India and Ceylon; founder of **Camp Tonakela** near Madras in 1937 (issue 69); and now
+Taylor Statten's brother-in-law and the man who took the future president of the OCA
+on her first canoe trip. He is overdue a stub, and this issue supplies the connective
+tissue.
+
+**The Adele Ebbs profile (by Mary L. Northway) — a compact family history of Canadian
+camping.** Her father, "**the late Taylor Statten who was Director of the Y.M.C.A. camp
+on Lake Couchiching**," took her to camp "when she was a few weeks old. **Hence the
+nickname, 'Couchie'**." "In 1921 he started **Ahmek**, a private camp for boys in
+Algonquin Park. **Couchie was the only girl camper.** In 1924 Taylor Statten opened a
+sister camp, **Wapomeo**, for girls. Rumour has it that his primary purpose was to
+provide an appropriate camping environment for Couchie!" She has since been at Wapomeo
+"as camper, counsellor, assistant director to her mother, and now as director." A
+datable first: "**in 1926 she and a party of Wapomeo campers visited Glen Bernard**
+outside the northwest boundary of the Park and paddled the long, difficult route back to
+Canoe Lake. **This was probably the first inter-camp visit by canoe — at least for
+girls.**" Education: Brown School, then Bishop Strachan School (hockey, lacrosse,
+basketball, gymnastics, alto in the choir, school captain), then Toronto for a B.A. and
+physical education, then teaching at Oakwood Collegiate. Married **Dr. J. Harry Ebbs**
+in 1935 — "an Ahmek old boy and also coach of the Varsity Women's hockey team" — four
+years in Birmingham, England, with Adele returning each summer to Wapomeo; settled in
+Toronto 1938, where Dr. Ebbs was at the Hospital for Sick Children and "for ten years
+was Director of the School of Physical and Health Education at the University of
+Toronto." Three children and a granddaughter, **Cindy, "the first to represent the
+fourth generation at the Taylor Statten camps.**" And: "**Last year they visited Camp
+Tonekela in India, organized by her uncle, Wallace Forgie**" — a second, independent
+statement of the relationship in the same profile.
+
+**David Hartry profiled** (President, Nova Scotia CA; a CCA vice-president): born
+Halifax, Nova Scotia College of Art and the **Montreal Museum of Fine Arts**, B.F.A.
+and a diploma in art education; full-time Hi-Y and Boys' Club work at the **Halifax
+YMCA**; camper at Camp Sunshine, then CIT, counsellor and Craft Director at **Big Cove
+Camp (Halifax YMCA)**; first directed a camp at Grimshaw, Alberta, in 1961 for the
+Anglican Church's Missionary Department; director of the Anglican Youth Camp, Halifax
+County, 1962–64; ordained deacon; now director of St. Anne's Anglican Youth Camp. Aged
+29, "**in the camping business one way or another for more than half of his 29 years**."
+
+**Sermons Under the Sun — a YMCA camp's Sunday service printed as a script, dated.**
+"**Church Service — Wabanaki Boys' Camp — July 17, 1966**," the camp Don Groff's
+Kitchener-Waterloo YMCA runs (issue 68). It is a **walking service**: the camp
+assembles silently at the flagpole "summoned by troubadour," and processes to four
+stations behind a boy singing "Lonesome Valley" — the back beach (Matt. 3:13–17, the
+baptism), Fisherman's Rock with the leader stepping "into a boat anchored off shore"
+(Luke 5:1–10, fishers of men), the high rock behind the chapel (the Beatitudes, read
+from above the seated group), and finally "our camp **Garden of Gethsemane** — the
+chapel" (Matt. 26:36–39), ending in silent prayer. Named participants are all campers:
+Paul Abbott (troubadour), Allan Kaufman, Andrea Binkle, Mike Woeller, Dave Martin,
+Murray Wiegand, Dick Lawrence. The leader's meditation at the baptism station turns the
+gospel onto camp hierarchy: "**Do we as staff members use our positions for our own
+self-importance?… Who is willing to trade places with the kitchen or General Service
+staffs for a day and to clean up our garbage and the kybos?**" And at the second: "**In
+camp we do this by living as Christ-like a life as possible. Whether we are Catholic or
+Protestant or Jew: whether we are uncertain and doubtful about our religious feelings,
+we can still strive to live the kind of life He taught.**" This is the closest documented
+analogue in the run to what a YMCA camp chapel service actually was, station by station,
+and it should be read beside `wiki/site/council-ring.md` and any account of Kanawana's
+Sunday practice.
+
+**Mary S. Edgar, "A Prayer for Leaders"** — printed in full; a second Edgar poem in two
+issues, and worth keeping since a poem of hers was commissioned for the National
+Campfire (issue 73). "Lord of all learning and leaders, / At best we blunder along…
+'**Tis not our task to furnish the mind / But to fan a flame in the soul, / Sending them
+forth with a will and a dream / To their high and potential goal.**"
+
+**Bruno Morawetz, "Tidbits from the Canadian Camping Conference" — the March 1967
+conference at the Inn on the Park, in a satirical register.** Structure of the week:
+the CCA Board met all Wednesday, with the Annual Meeting that night and a free-flowing
+"After Taps" session; Thursday afternoon **Dr. Hedley Dimock gave the keynote address
+on the Individual**, from "Springboard No. 1," "urging [camp directors] to change from
+repressive to participative methods of programming. **In the 'Feedback' sessions the
+directors 'participated' by getting back at him.**" Thursday and Friday sessions:
+"Adventure Camping, the Camp Doctor, Decentralized Camping, Day Camping, Religious
+Oriented Camping, the 'Different' Child, Staff Training, the Art of Interviewing,
+Inspirational Thoughts, Budgeting, Eating from Paper." **Saturday was Counsellors' Day**,
+with sessions run twice for orange and blue name-tag audiences: "nature, puppetry,
+archery, swimming, tripping, riding, dramatics, singing, inspiration, leadership,
+programme planning, special and evening programmes," with orienteering and crafts as
+all-day sessions. Two things to record. First, **the conference proceedings were
+published**: "those who will wisely invest three dollars in **that encyclopedia of
+camping appropriately known as the 'Digest'**" — a **1967 Canadian Camping Conference
+Digest** is a specific, purchasable document to hunt for, and it is the fullest single
+record of Canadian camping thinking in the Centennial year. Second, Morawetz's aside on
+how far the associations had come: "**Gone are the creaky stairs leading to the dusty
+institutional green walls of the downtown YWCA and YMCA where in the post war years the
+OCA was fortunate to obtain shelter for its conferences.**"
+
+**H. K. Roessingh, "Intercultural Camping" — the intercultural strand reaches Quebec
+directly.** At Silvercreek Ranch, Water Valley, Alberta — "**the only private camp in
+the Alberta Camping Association**" — two 1966 pilot camps, both as Centennial projects.
+The first, sponsored by the Soroptimist Club of Calgary for ten- to twelve-year-olds,
+brought "**a group of 14 Eskimos, Metis Indians and white children from Aklavik and
+Inuvik in the N.W.T.**" together with children from Alberta reserves and others: "On
+arrival they crawl on the street to inspect the pavement that they never have seen
+before… They can laugh with the others at themselves when one of them answers the
+question: 'Do you speak Eskimo language?' with the shy response: '**I don't speak any
+foreign languages**.'" Roessingh is honest about the limits: "if I were asked whether we
+achieved a lasting effect in intercultural relations, I would honestly have to say that
+I really don't know. **The children were so eager to please us, that they answered any
+questions with the answers they thought we would like to have.**" The second was an
+**Intercultural Band Camp** joining "English speaking children from Alberta and the
+N.W.T. and **French speaking youngsters from Quebec**," with five hours of band practice
+a day and a programme "which included both French and Western pieces" — and the sequel
+matters for Quebec camping history: the Quebec delegates "have invited a similar group
+from Western Canada to participate in **a band camp at Asbestos, Quebec, which… will be
+the first resident band camp for both boys and girls in Quebec**." A datable first for a
+Quebec camp type. Roessingh himself: born in Holland, geology in Holland and Sweden, six
+years with an oil company in Sumatra "where he got his first experience in round the
+year camping," to Canada in 1954, **Honorary Vice Consul for the Netherlands in Calgary**
+since 1960; his wife a former president of the Alberta Camping Association.
+
+**Masthead — the CCA moves again, to Winnipeg, and Quebec keeps its seat.** **Doug
+McEwen (Winnipeg) is now President**, with Gordon Stewart 1st VP, Sally Shwetz 2nd VP,
+Marion Searles (Girl Guide House) secretary and Phyllis Trotter (Winnipeg YWCA)
+treasurer; May Brown moves to Past Presidents. **A. Ross Seaman continues as
+vice-president for Quebec** — a second dated sighting after issue 72, worth carrying to
+`wiki/people/a-ross-seaman.md`. New on the Editorial Committee: **Jack Pearse** (already
+in `facts.json`) and Ann Prewitt.
+
+**Doug McEwen, "Camp Manitou" — a resident camp converted to a day-camp centre, with
+the numbers.** Owned since the late 1930s by six Winnipeg service clubs (Rotary,
+Kiwanis, Lions, Kinsmen, Optimist, Cosmopolitan) and the YMCA of Greater Winnipeg
+jointly. "**By 1962 the need for a resident camp for underprivileged boys had rapidly
+diminished**" as referring agencies built their own camps, and the owners considered
+selling before converting the site — fourteen miles from central Winnipeg on the
+Assiniboine — to day camping in 1963. The effect: **use jumped from 123 children in
+1961 to 646 in 1963**, plus 808 other users that year and "an estimated 1600 people…
+in 1966," with day camping alone "**over 7000 camper days**." And on subsidised places:
+"**In 1960, during the life of resident camping, camperships had been given to 79 boys
+but in the years since the day camping programme began, there have always been more
+than 200 boys and girls assisted**." A $30,000 facility development followed, with a
+$300,000 year-round conference centre under consideration. Directly relevant to any
+account of a YMCA camp's changing use — the same pressures Kanawana faced, with figures.
+
+**Skip Lumley, "A Camp for Problem Campers" — Frontier Forest Camp, and an unusually
+frank account of therapeutic camping.** On Bulpit Lake, a mile from Hermon, Ontario,
+near Bancroft; two two-week August camps for twenty boys each, **staff-camper ratio one
+to one**; five bell tents, an infirmary, a lodge and craft house, "the Plaza Villa Red
+Shacks (staff quarters)," a canoe, three rowboats, a pony, a mule and "a dying five ton
+truck called 'Supersquash'." Boys referred by Metro Toronto Juvenile Court and agencies,
+and by **Glen Brubacker, a probation officer and the founder and part time director**.
+The method is "structure and control": five closely supervised programme areas, and "the
+absolute refusal of the staff member to accept any form of inappropriate behaviour…
+**if Freddy refuses to wash, Freddie can't come to breakfast**… Obviously, this may
+involve a physical struggle." **Every staff member writes a daily log on every boy**,
+sent with senior comments to the referring agent — and Lumley notes deliberately that
+"not all staff are trained; if they were there might be an undesirable preponderance of
+brain power over 'daily living power'." His judgement of the boys' backgrounds is stated
+flatly: "**apart from such physical disorders as brain damage, all disturbed children
+come from openly chaotic or subtly destructive homes**… They come to Frontier because
+they were born into this home and not into that one." And the best-observed line in it:
+a twelve-year-old said "It's kind of boring here," and asked whether he liked being
+bored, said "Well…" and smiled — "**I think he meant that he would rather be bored than
+continually anxious.**" **For the embargo thread (`p_307`): this is a documented camp
+where a written daily log on each named child was produced and sent to an outside
+agency.** Any surviving Frontier records are exactly the class of material the register
+exists for; noted here so a later pass recognises the type.
+
+**Marni Jackson, "Drama in Camp"** — written at twenty, by a University of Toronto
+English student who had spent five years at Camp Wabanaki; later a well-known Canadian
+writer, which makes this an early byline worth noting. Substance: don't "resurrect
+dismal skits from the **1938 Campfire Book**"; don't arrive "with visions of staging
+Richard II"; don't confine drama to one end-of-season production. Her alternatives are
+the useful part — "**church service and morning watch can be brought to life by putting
+the message into a dialogue performed by campers**"; campfire skits drawn from camp
+incidents, "a fashion show featuring What the Well-Heeled Staff Member is Wearing… a
+gripping re-enactment of the night when Cabin Five was terrorized by three grizzlies
+(i.e. one raccoon)." Her own production, "**The Diary of a Camper** ('A Funny Thing
+Happened on the Way to the Back Dock')," used a talking diary as narrator and "took songs
+popular with the cast and changed the lyrics to suit the situations" — **camp
+song-parody as documented practice**, relevant to `p_048`. Staging on nothing: costumes
+from a camp scavenger hunt, tab-on cut-outs of cabins and sailboats slotted into one
+backdrop, the boat spotlight shone from the side of the audience, lines taped inside a
+comic book, and the out-trip director holding the ripping set up by his fingers through
+the last scene. Her instruction on casting is quotable: "**Even if it means chopping up
+speeches, distribute the lines throughout the cast**… when I assigned even one line to a
+camper, the small responsibility improved his performance throughout the whole play."
+
+**Madge K. Mitchele, "Archery in the Camp Programme"** — by the sales manager of
+Archery Craft Co. Ltd., Toronto, and an Ontario/Canadian/international champion. A
+complete specification: junior bows (5–10 years) 54″ fibreglass at 15–20 lb;
+intermediate (11–15) 60″ at 20–30 lb; 16-and-over 64″ at 28–40 lb; arrows in 26″ and 28″
+lengths, with the warning that "**Too short an arrow is dangerous, as the archer may
+'over draw' wedging the point behind the bow**"; a shaded shooting line but open targets,
+and a target house close by. Her diagnosis of what goes wrong is the useful part: the
+instructor "**must not be the Counsellor left over after every other sport and activity
+at camp has been taken care of**"; the range must not be "the stubble field, away from
+water, trees and other human beings… known as '**Sahara**'"; "the greatest pitfall… is
+**Monotony**"; and "**More instructors spoil their whole summer's work by starting the
+campers at too great a distance, than any other way**… If necessary, stand the new archer
+at only 5 yards." Also a note worth keeping: "Often the camper who seems to be
+disinterested in most activities, **can find his niche as curator and repairman for the
+Archery Equipment**." Kanawana ran archery; this gives the equipment, the ages and the
+prices of the period.
+
+**Sam G. Hambly (Camp Allsaw, founded 1962), "Honey Bees at Camp"** — an observation
+beehive with glass sides moved from a Toronto school window to camp each June, with a
+local apiarist, **Victor Peel**, setting up a four-colony apiary and coming every two
+weeks to extract honey in the craft shop or dining hall while campers assist and eat
+"small paper cups [of] hot fresh honey cappings"; pound bottles "labelled with the Camp
+Allsaw Apiary label and stored for souvenirs for departing campers." Two things worth
+recording: a **camp souvenir with a printed camp label** — the sort of ephemera worth
+looking for from any camp; and Hambly's account of sending Haliburton honey to Dr.
+Maurice Smith, who passed it to Dr. Louveaux in France, who identified the plant species
+from its pollen traces. The safety note is unambiguous: "**Some campers are fatally
+allergic to bee sting.**" Beekeeping training: a one-week course at Guelph for $25.
+
+**Norm McKee (Aquatic Director, University of Waterloo; Director, Kitchener Lions Youth
+Camp), "On Choosing a Sailboat for Camp"** — priced: "the average price for a good
+'class' sailboat will be approximately **$70 per foot for a 16 ft sailboat; for every
+foot less deduct $5**." Capacity by length (8–10 ft: one adult or two small campers;
+14–16 ft: three adults or one adult and four campers), a maintenance specification
+(fibreglass hull, aluminium mast and boom, stainless or nylon rigging, dacron sails,
+stainless hardware), and the advice to buy three boats of one class "as this way you can
+teach effective racing techniques."
+
+**Other items of record.** **Catherine Van Wagner's poem "White Birches," 1966** — a
+fourth Van Wagner appearance (Camp Nominingue, Quebec) and her first as a poet.
+**"Your Library Shelf"** reviews the new **Camp and Trail Pocket Library** at $1.10 each,
+including LaRue Thurston's *Good Times Around the Campfire*, Edgren and Peterson's *Fun
+in Winter Camping*, John A. Ledlie's *Handbook of Trail and Wilderness Camping* — pitched
+explicitly at Centenary Journey camps — and **Oscar E. Norbeck's *Indian Crafts for
+Campers***, introduced with a Centennial framing worth recording verbatim as period
+voice: "**Maybe because it is Centennial Year, it seems as if interest in our first
+Canadians has increasingly expanded. After all, our fellow Canadians, the Indians, were
+the very first campers in this country.**" Also advertised, **Chapbook 2**, "a revision
+of The Chapbook… **Includes hymns, fun songs (with music), and worship resources**," 65¢
+— a named camp songbook in print in 1967, and a candidate for songs Kanawana sang. And
+*The Camp Counselor's Book* is now advertised with Barry Lowes styled "**Chairman, Metro
+Toronto Board of Education**."
+
+**A request from the editor, which is itself a finding about this source.** "**WANTED —
+To complete the Editorial Committee file of 'Canadian Camping' — all issues covering the
+years 1949-1960. Also April and June 1964; February 1965.**" In 1967 the magazine's own
+editorial committee could not assemble a complete run of its first twelve years. The
+cached corpus this read is working through is therefore, quite possibly, more complete
+than the publisher's own file was — worth stating plainly in `wiki/meta/sources-index.md`
+when this pass is written up.
+
+Nothing in this issue names Kanawana. Its value is the Forgie–Statten family link, the
+Wabanaki service script, the 1967 conference "Digest", the Quebec band camp at Asbestos,
+and Camp Manitou's conversion figures.
