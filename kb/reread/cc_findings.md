@@ -9192,3 +9192,273 @@ worth checking whether Kanawana's own trip programme or library holds any of the
 
 Nothing in this issue names Kanawana or the YMCA of Montreal directly beyond
 Powter's continuing place on the masthead.
+
+## 64
+
+`canadiancampingmagazine_vol17no1_1964dec.txt` — Vol. 17 No. 1, December 1964.
+
+Contents page (checked against this block): Leisure — Its Meaning and Implication
+(Charles K. Brightbill) · The C.I.T. Training Programme (Hart M. Devenney) ·
+Pioneer Days of Camping (C. F. Plewman) · Catalogue of Articles from December 1963
+to June 1964 · Your Camp Director's Calendar (W. E. Yard) · Camps — and The Ontario
+Human Rights Code (Dorene E. Jacobs) · L'Amie de ma Tente (Joyce Bertram) · An
+Indian Version of the Twenty-Third Psalm · Cross Canada Centenary Canoe Journey ·
+Paint, Stain or Varnish? (David Palter). All ten covered below. Cover cut:
+Canadian Girl Guides, courtesy the Toronto *Globe and Mail*.
+
+**Masthead — the CCA's Montreal weight, one issue after the move to Calgary.** Head
+office is now 4322 – 4a Street S.W., Calgary; Mrs. Jean Boettger is Executive
+Secretary. **Miss Mary Edgar is Honorary President** (the post Taylor Statten held
+until his death — see issue 55). Past Presidents, in the order printed: Taylor
+Statten (Toronto), **Dais L. Gass (Montreal)**, **Anne I. Vail (Montreal)**, W. E.
+(Ted) Yard (Toronto), Irwin Haladner (Toronto), **F. M. VanWagner (Montreal)**,
+**Kenneth H. Murray (Montreal)** — four of seven living past presidents are
+Montrealers. President Dr. Don Smith (Edmonton); Senior Vice-President Jack F. Way
+(Vancouver); Vice-Presidents Marilyn Fane (Vancouver), Lois Pinfold (Winnipeg),
+Clifford Labbett (Toronto), **Mrs. Alta Kahn (Montreal)**, Betty Campbell (Halifax),
+Eleanor Logan (Edmonton, also Secretary); Treasurer Rev. Don Mayne; Publisher Fred
+Haiblen; Editor Mrs. Dorothy M. Douglas. Editorial Committee: Don Groff, Barry
+Lowes, Margaret Govan, Katherine Anson, Kirk Wipper, W. E. Yard, Eanswythe Flynn,
+Joyce Bertram. **Neil B. Powter has dropped off the executive** — the first issue
+in this run without a Powter, so Montreal's representation is now Alta Kahn plus
+the past presidents. Four new Montreal names for the KB: Gass, Vail, Kahn, and a
+second dated sighting of Murray and VanWagner.
+
+**C. F. Plewman, "Pioneer Days of Camping" — a fourth voice on the Ottawa origins
+conflict, and the best-placed one yet.** Plewman is described as "Formerly YMCA
+camp director, Founder of Camp Kilcoo," and he directed for the Ottawa YMCA
+himself, so this is a participant's account rather than a compiler's. He writes:
+**"When the Ottawa YMCA in 1893, and Camp Temagami in 1900, began taking older boys
+to camp, they were really breaking new ground."** This corroborates the 1893 date
+against the 1884 claim printed in February 1955 (recorded at line ~2071 above) and
+against the Ottawa YWCA minute of 1893 with Golden Lake dated to 1908 (December
+1954). The 1884 claim now stands alone against three independent 1893 sightings,
+one of them from a man who ran the camp. **Two documented sources still conflict**,
+so this remains a human decision point rather than something this pass resolves —
+but the weight has shifted decisively and the conflict record should say so.
+
+Plewman's other datable statements, all first-person:
+- **1903** — his own first camp, "at the YMCA camp on Lake Couchiching"; he still
+  keeps "a picture of myself taken by **Wallie Forgie**." This is the same Wallace
+  Forgie who moved the Ottawa camp to Golden Lake in 1908 (line ~1961 above) —
+  placing Forgie at a YMCA camp with a camera five years before that, and giving
+  the Forgie stub a second dated appearance.
+- **1913** — Plewman directs "my first organized camp for the Ottawa YMCA at Golden
+  Lake, near Pembroke." Note this predates the 1908/1913 Golden Lake material
+  already in the file and is consistent with it. "It was strictly a he-man affair
+  for teen-aged boys with 'nary a skirt' of any kind in sight, not even in the
+  kitchen." He was "camp director, doctor, nurse, business manager and programme
+  director all rolled up in one"; nearest doctor twelve miles away, no car, no
+  telephone; average camper age fourteen and a half; a day's programme of walking
+  seven miles round Golden Lake, playing hardball against Killaloe, and walking ten
+  miles back, 9 a.m. to 10.30 p.m.
+- **Nineteenth-century resistance:** "camps were anything but popular during the
+  latter part of the nineteenth century… had to combat the prevailing opinion that
+  night air was bad. In those days people didn't open their windows on retiring,
+  they closed them." A useful piece of context for why Kanawana's own 1894 founding
+  was unusual.
+- **Girls' camping:** the first Canadian camps for girls he knows of ran **1922–25**;
+  the Girl Guides began camping **1911**; the Dominion Council YWCA held a camp at
+  Geneva Park, Lake Couchiching, in **1910**. "It took almost twenty-five years for
+  parents to come round to considering camping appropriate for girls."
+- **Coeducation — directly relevant to Kanawana's own coeducation article.**
+  Statten opened Wapomeo in **1924** on the same lake as his boys' camp with
+  inter-camp activities in mind; a director tried to dissuade him — "Taylor, it's a
+  mistake, it won't work." Plewman: "It was the thin edge of the wedge in breaking
+  down the segregation of the sexes and **the developing of co-educational camps by
+  1933**." A dated national benchmark against which Kanawana's own path to
+  coeducation can be measured.
+- **The OCA's founding, named.** "It was about **1930 to 1932** when Taylor Statten
+  invited me to join a small group of private camp directors who met occasionally in
+  each other's homes. This was the group which was to bring the Ontario Camping
+  Association into being." They debated whether it should be private-camp-only or
+  all-inclusive and chose all-inclusive — the decision that made a YMCA camp like
+  Kanawana eligible for the associations that followed. The group: **A. L. Cochrane,
+  Mr. and Mrs. Taylor Statten, Ernest Chapman, Mary Edgar, Mary Hamilton, Ferna
+  Halliday**, plus "Mr. and Mrs. Danson (who were soon to found Camp Winnebagoe)."
+  Also: "Camps had been operating in Ontario for about thirty years before the
+  Ontario Camping Association… For some years previous to that time **Canada was a
+  section of the American Camping Association**." Ernest Chapman and the Dansons are
+  new names; Cochrane, Edgar, Hamilton and Halliday are already in the KB.
+- **On what changed:** "In those days no license was required, there was no
+  government inspection, and… no codified set of health and safety regulations. As
+  for minimum standards of camping, they didn't exist." And "In the early days camps
+  were more programme-centered, today they are far more child-centered," with the
+  old-style director as a "stunt artist."
+
+**Dorene E. Jacobs (Education Officer, Ontario Human Rights Commission), "Camps and
+the Ontario Human Rights Code" — commissioned by the magazine, and the first
+anti-discrimination material in this run.** The Code covers employment, public
+accommodation and multiple housing on grounds of race, creed, colour, nationality,
+ancestry or place of origin. Applied to camps: it binds **camps operated for private
+profit** that advertise to the public — they may not restrict admission on those
+grounds, nor ask about race, religion or nationality on camper application forms.
+On the common defence that a camp asks a camper's religion so it can point parents
+at nearby services, the Commission's answer is to list all services available
+instead. In hiring: no specification in advertising, no questions on forms or in
+interview. **Exempt** are "exclusively religious, philanthropic, educational,
+fraternal or social organizations that are not operated for private profit" and
+non-profits "operated primarily to foster the welfare of particular religious or
+ethnic groups," plus employers with fewer than five staff — **which is the category
+Kanawana sits in.** Jacobs presses those camps toward voluntary compliance, notes
+approvingly that "many Jewish and Christian camps are already following a policy of
+hiring on the basis of ability," and asks camps to run human-rights education as
+part of programme, to instruct counsellors to stop using "words such as 'nigger,'
+'kike,' 'wop,' 'dago,' 'Jap'", to report discrimination against their campers to the
+Commission, and to hang the Commission's framed bilingual scroll of the Code. She
+closes by noting that in other provinces anti-discrimination legislation generally
+sits with the provincial Department of Labour — the pointer a Quebec camp would
+have followed. **Research lead:** whether the YMCA of Montreal or the QCA took any
+comparable position, and what Quebec's equivalent instrument was in 1964 (the
+Quebec Charter of Human Rights and Freedoms is a decade away, 1975).
+
+**Hart M. Devenney (Director, Ontario Camp Leadership Centre), "The C.I.T. Training
+Programme — Home Grown Counsellors"** (from the OCA Conference, March 1963). This is
+the fullest CIT curriculum this read has found, and Kanawana ran a CIT programme.
+Devenney's history of the CIT idea: wartime and immediate-postwar staffing pressure
+forced a "do-it-yourself plan"; older campers could earn "more than attractive
+remuneration" in summer jobs, so the programme had to offer "a continuity of
+experience, growth, status, responsibility and recognition… weighed against the
+fleeting attractiveness of commercial financial success"; then "bridging the gap
+from camper to counsellor" became a separate, identifiable part of programme. Five
+planning areas: **A. Selection** — criteria beyond "age and longevity," drawn from
+the camper's record, readiness, leadership potential, "known place of acceptance in
+his community," and intellectual capacity; with a warning that "'In-breeding' can be
+dangerous" and outsiders should be invited in. **B. Pre-training** novitiate.
+**C. Two summers** (citing Eugene A. Turner, Jr.): year one, peer experience in a
+CIT cabin, broadened skills, rotated work experience, self-appraisal, leadership
+theory and a reading programme; year two, continued self-appraisal, deeper reading,
+cabin leadership as junior assistant, and programme leadership under supervision.
+**D. Outcomes**, framed "in terms of acceptable minimums and not… completed
+expectations": skills in swimming, diving, canoeing, sailing, crafts, campcraft and
+nature; techniques of first aid, life saving, story telling, song leading,
+dramatics, out-tripping, **council fire leadership** and camp games; and education in
+"understanding yourself, understanding the camper, development of a personal belief."
+**E. Evaluation** — and this belongs with the staff-evaluation thread (`p_307`): the
+trainee is assessed on a form at regular intervals by a supervisor, keeps his own
+evaluative log, and is told his progress through periodic interviews; but the
+trainee's evaluation *of the camp* "should be done anonymously; that is, the C.I.T.
+should not be required to sign the evaluation." A fifth contemporary voice on
+evaluation ethics — and the first to separate signing (required of the supervisor's
+record, per Gold 1959 and Lowes 1962) from anonymity (granted to the trainee's
+upward feedback).
+
+**"Catalogue of Articles appearing in Canadian Camping, Volume 16: December 1963 –
+June 1964"** — the continuation of the cumulative index transcribed at
+`kb/reread/cc_catalogue_1949_1963.md`, printed here because the 1949–63 catalogue
+"is available separately as a reprint at 25¢ per copy." Confirms the sixteen-topic
+scheme and gives a checkable list for issues 61–63, every entry of which this read
+has covered. Two entries name articles worth flagging: **"Leadership — A Major
+Dimension in Camp Effectiveness — Hedley G. Dimock, April 1964"** (issue 62, already
+written up) and **"A Tripping Fitness Programme — J. H. Ebbs, M.D., Feb. 1964"**
+(issue 61). The catalogue also confirms the June 1964 Voyageurs' Highway
+bibliography was filed as a real item under UNCLASSIFIED, not a filler page.
+
+**W. E. Yard, "Your Camp Director's Calendar"** — a month-by-month checklist of the
+camp director's administrative year, January–June and September–December, with an
+editor's note that the order "may vary somewhat between private and other camps."
+This is the closest thing this run has produced to a job description for the post
+Kanawana's directors held, and it dates the annual rhythm: January folder mailing,
+home visits to campers, reunion dates, year-end reports; February maintenance
+schedule, hiring, counsellor-training plans, insurance review, "Attend your Camping
+Conference"; March "Suggestions to Parents" letter, fire equipment, menus with a
+dietician, **job analyses for staff**; April spring equipment check and specific
+orders (fuel, kitchen equipment, staples, expendables, programme and waterfront
+equipment, medical and first aid, "Articles for resale — uniforms, crests, etc.",
+mattresses); May finalising staff, transportation, a doctor "on call", and initial
+milk/bread/vegetable/meat deliveries; June opening, "Pre-camp staff conference — not
+a 'work party'", staff committees, the season's special-events calendar, detailed
+first-day plans, and arranging a photographer; September staff list circulated,
+**"Send reports on campers to parents when request same"**, thank-you letters,
+inventories in eight categories, first draft of next year's orders, closing and
+battening, "Write account of interesting project for Canadian Camping Magazine",
+plumbing disconnected; October father-son or mother-daughter weekend, repairs
+schedule, folder pictures, newsletter, fee adjustment, "How about a holiday now?";
+November long-range plan, folder to printers; December Christmas rallies, "Camping
+Association activities — do your part!", senior staff meeting.
+
+**Joyce Bertram, Camp Ouareau, "L'Amie de ma Tente"** — a third dated Bertram piece
+(after issues 55 and 63), and the only sustained treatment of **bilingualism at a
+Quebec camp** this read has found. Ouareau tried alternating language days —
+"mardi, jeudi et samedi nous parlerions français," English Monday, Wednesday,
+Friday — after most of the monitrices "having fortunately learned their French en
+Suisse" volunteered. A camp vocabulary had to be built from scratch because school
+French did not cover "ant, as opposed to la tante, snake, spider, thunderstorm,
+sailboat and 'summer complaint'", plus a counsellor committee's thirty idiomatic
+expressions "sans lesquelles la vie est insupportable." The campers, "qui vivent
+tout le temps en Québec," were far ahead of the staff — "It is a humbling thing for
+a Director to have to admit that la plupart de ses campeurs can do something more
+mieux than she can." A rule "pas de mains pour parler" was needed at table. The
+punchline is a mimeograph misregistration that slid the French and English columns
+out of line. She notes campers reaching for dictionaries "depending on whether elles
+demeurent à Outremont ou Westmount" — a Montreal class-and-language marker worth
+recording. Written in the Bertram voice already documented; the underlying fact is
+that a Laurentian girls' camp was consciously working the language question in
+1964, the same years and the same hills as Kanawana.
+
+**"Cross Canada Centenary Journey" (unsigned progress report)** — a third dated
+stage in the Centenary Journey story after the 1964 proposal (issue 62) and the
+1966 prospectus cited in `wiki/history/centennial-1967.md`. Status as of December
+1964: **Nova Scotia** has mapped a provincial canoe route with help from its Museum
+staff; **Ontario** has had **nine camps participate in Phase One** of its section
+plan; **Saskatchewan**, which has no association, has formed its own committee.
+**Miss Margaret Govan** chairs the Cross-Canada Centenary Journey Committee — the
+name to pursue for the committee papers already flagged as an archival lead. Also
+printed: **"Our Centenary Journey Game"**, an unnamed camp's rainy-day province-by-
+province circuit (Newfoundland/fishing → the card game Fish; Nova Scotia → a Scottish
+dance; New Brunswick/lumbering → Blockhead; PEI → potato races; Quebec → ground
+hockey; Ontario → touch football; Manitoba → Jack Straws; Saskatchewan → a walk to
+the nearest grain field; Alberta → a broomstick hobby-horse rodeo; BC → build a fire
+and burn a string), preceded by campfire readings from "the Jesuit Fathers'
+Recollections" — i.e. the *Relations*.
+
+**"An Indian Version of the Twenty-Third Psalm"** (unsigned, with editor's note) —
+printed as devotional material, with the note that it "originated many years ago
+with Arizona Indians who translated it into a universal sign language… A white
+missionary then retranslated it into literal English — Indian style." Recorded here
+because it is a further instance of the pattern this read has been tracking: the
+"Indian" register in camp devotional and ceremonial practice is, on the magazine's
+own account of its provenance, a white retranslation. Set against E. F. Johnston's
+Indian Day at issue 63, the two items in consecutive issues make the contrast
+legible without editorialising.
+
+**David Palter (Director, Camp Kawagama), "Paint, Stain or Varnish?"** — a
+maintenance article that is unexpectedly useful as evidence of camp material
+practice. Paint vs stain vs varnish compared in a three-column table; the advice to
+buy "the cheapest quality made by a reputable paint manufacturer" and to order in
+50-gallon commercial quantities to a special formula; **canoes painted every year
+outside** ("a distinguishing colour, a trade mark of the camp") with cheap enamel
+cut 50/50 with thinner to stop an "alligator skin" build-up, and varnished inside
+with spar varnish every second or third year; floors sealed with three or four coats
+and rescrubbed with soap and lye annually — a regime that "has preserved a dining
+room floor for 18 years." A specimen spring paint order **for about forty camp
+buildings** is itemised (50 gal stain preservative, 25 gal floor sealer, 4 gal boat
+enamel, 2 gal spar varnish, 4 gal thinners, 3 gal porch enamel, 4 gal white enamel,
+2 gal exterior enamel, 6–8 gal assorted for crafts). Directly usable when
+`wiki/site/` articles describe how Kanawana's buildings and canoes were actually
+kept up.
+
+**Charles K. Brightbill (Head of the Department of Recreation and Municipal Park
+Administration, University of Illinois), "Leisure — Its Meaning and Implication"** —
+reprinted from *Recreation*, January 1964, digesting a paper to the 45th National
+Recreation Congress. The argument is that automation is producing enforced leisure
+("Automation will eliminate twenty-four million jobs in this decade"; 168,000 fewer
+auto workers than ten years ago, 670,000 fewer railroad workers than in 1947) and
+that camping's claim on the future rests on preparing people to use it. Quotes
+Aristotle ("A society unprepared for leisure will degenerate in prosperous times"),
+Harold Wilensky, Sebastian de Grazia, Steinbeck, Toynbee and Shaw ("A perpetual
+holiday is a good working definition of hell"). Context for the "camping and the
+leisure society" rhetoric that runs through YMCA programme writing of the later
+sixties.
+
+**Administrative note.** The CCA Executive Committee, meeting **9 October 1964**,
+approved a new fee structure effective **1 January 1965**: provincial branches remit
+to the national body $5.00 per camp membership, $2.50 individual, $1.00 student,
+$5.00 commercial. Also advertised: the Ontario Association for Retarded Children
+seeking directors and counsellors (18, CITs at 16–17), coordinated by Mrs. June
+Braaten — presumably connected to Erik Braaten of issue 63.
+
+Nothing in this issue names Kanawana directly. Its value is the Montreal executive
+roster, Plewman's participant testimony on the 1893 Ottawa date and on coeducation
+by 1933, Devenney's CIT curriculum, and the first anti-discrimination material in
+the run.
