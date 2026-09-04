@@ -19045,3 +19045,246 @@ Newfoundland — the first woman president named in that province in this run. C
 of Toronto, and an "Experienced ex-Camp Director (female)" seeking a four-to-six-week administrative
 post. Cover designed by **Violet A. Catlin**, the magazine's typesetter. No other Kanawana or YMCA
 of Montreal reference in this issue.
+
+## 103 — Vol. 27 No. 2, January 1975 — THE DIRECTORY ISSUE
+
+Contents page checked. Editorial content read in full: Viewpoint (John R. Latimer); National Code
+of Ethics (Val Willis); If I Were to Send My Child to Camp (Jack Pearse); Winter Camping Skills
+(Mors Kochanski); Foodtactics (Joan Fielden); The Outdoorsman (Larry R. Johnston); Standards for
+Camps (John Hasell); Des Penses. The remainder — parts p04 through p16 — is the national directory
+of accredited member camps, province by province. **All Quebec content sits in p12–p14 and has been
+read closely; the other provinces' sections are camp-listing tables, read through, containing no
+Montreal, Quebec or Kanawana content** (verified: zero occurrences of "Montreal" outside p00 and
+p12–p14).
+
+**★★★★★ KANAWANA, IN THE NATIONAL DIRECTORY. The first direct Kanawana appearance in the entire
+1970s stretch of this read.** The entry, transcribed as printed:
+
+> **KANAWANA (1894) (YMCA)**
+> Director **Derek V. Walsh**
+> Summer: **P.O. Box 310, St. Sauveur des Monts, Que. (514-227-2414)**
+> Winter office: **1441 Drummond St., Montreal, H3G 1W5 (514-849-5331)**
+> Activities: **Tripping, Swimming, Sailing, Arts & Crafts, C.I.T. Program**
+> Accommodation: **90 boys 8–15 / 90 girls 8–15**
+
+Filed in the Quebec grouped index under **"Organizational Residential — Co-ed."**
+
+What this establishes, from the provincial association's own accredited-camp listing:
+- **The founding year 1894 as the association held it** — the camp's own claim, printed in a
+  national directory that went to 20,000 copies.
+- **Derek V. Walsh, with the middle initial**, as director in the 1975 season, corroborating the
+  `derek-walsh` stub's "1974 to February 1979" from an independent source.
+- **Coeducation with exactly equal capacity — 90 boys and 90 girls, both aged 8 to 15.** Not "co-ed
+  by then" as an inference but the camp's own registered capacity, classified by the association as
+  co-ed.
+- **A C.I.T. programme listed as one of five headline activities**, alongside tripping, swimming,
+  sailing and arts and crafts.
+- The two addresses and both telephone numbers — the **1441 Drummond Street** winter office being
+  the YMCA of Montreal's, and a specific address to search archives and directories against.
+
+**★★★★ AND A SECOND KANAWANA ENTRY, LISTED AS ITS OWN CAMP:**
+
+> **LES VOYAGEURS DE LA VERENDRYE (YMCA)**
+> Director **Derek V. Walsh**
+> **c/o Kamp Kanawana, P.O. Box 310, St. Sauveur des Monts, Quebec (514-227-2414)**
+> Winter: 1441 Drummond St., Montreal H3G 1W5 (514-849-5331)
+> Activities: **Wilderness, Canoe Trips, Fishing, Campcraft**
+> Accommodation: **15 boys 13–17 / 5 girls 13–17**
+
+**The La Vérendrye canoe trip programme was a separately accredited camp in the national directory,
+with its own listing, its own capacity and its own age band.** Fifteen boys and five girls, 13 to
+17. That is a real fact about the programme's scale and its gender composition in 1975 — the girls'
+places existed but were a quarter of the boys' — and it is the first time this project has had a
+number for it. The programme this article has treated as a Kanawana trip section was, in the eyes of
+the Quebec Camping Association, a distinct wilderness camp operating out of the Kanawana site.
+`wiki/traditions/canoe-trips.md` and the `voyageur` material should carry this.
+
+**A caution on the fees.** The table carries a **SEASON/FEES** column, but the OCR interleaves it as
+a floating block of dates and prices detached from their rows. Kanawana's season and fee are
+therefore **present in the printed page and not safely attributable from the OCR** — recoverable
+only from the scanned images. Do not guess at them.
+
+**★★★ THE QUEBEC ASSOCIATION'S OWN CORPORATE HISTORY, in one paragraph printed in both languages.**
+"The QUEBEC CAMPING ASSOCIATION INC. — L'ASSOCIATION DES CAMPS DU QUEBEC INC. is a bilingual
+non-profit organization **incorporated under Quebec law, January 23rd, 1961**. **The English Section
+was started in 1937, and was incorporated by Federal Charter in 1949.** It is affiliated with the
+CANADIAN CAMPING ASSOCIATION."
+
+Three dates, one of them new:
+- **23 January 1961** — the exact date of the provincial incorporation Alta Kahn was credited with
+  securing (issue 100, which gave only the year). Checkable in Quebec's register of enterprises.
+- **1937** — the English Section's start, now corroborated a third time (Concordia holdings; Kahn's
+  1958 "coming-of-age" conference; this).
+- **1949, a Federal Charter for the English Section** — **previously unrecorded anywhere in this
+  project.** Two separate incorporations, twelve years apart, federal then provincial. That is a
+  distinct corporate record to search for, and it explains how a body founded in 1937 could describe
+  itself as newly chartered in 1961 without contradiction.
+
+**★★★ ABBÉ RAOUL CLOUTIER IS A PAST PRESIDENT OF THE QUEBEC ASSOCIATION — the ambiguity flagged at
+issue 79 is resolved.** The joint association's officer list gives **Past Presidents: M. Lionel
+Perras, M. Tony Shorgan, Mme N.D. Demetelin, Mme Alta R. Kahn, H. Capt. Abbé Raoul Cloutier**, and
+lists him separately as an **Honorary Member** alongside Jules Leavitt, Q.C.
+
+Block 79 flagged "first president of the Quebec Association" as ambiguous between the 1937 English
+QCA and the 1958 French section; block 79 was then patched at issue 82 to favour the French reading
+on the strength of Cousineau's account of Cloutier as a wartime officer who founded Camp-École
+Trois-Saumons about 1948. **This confirms the substance**: he was a past president of the Quebec
+association, and the rank **"H. Capt." — Honorary Captain**, a military chaplaincy title he still
+carried in 1975 — independently corroborates the wartime service Cousineau described. The founder of
+hébertisme in Quebec presided over the province's camping association and was still an honorary
+member of it in the year Kanawana was accredited by it.
+
+**★★★ "QUEBEC HAS DEVELOPED ITS PROGRAMME TO THE POINT WHERE EVERY CAMP IS RE-ACCREDITED
+ANNUALLY."** John Hasell, Chairman of the National Standards Committee, on re-accreditation
+intervals: "**with some provinces requiring a visit every two or three years, but Quebec has
+developed its programme to the point where every camp is re-accredited annually**" — repeated in the
+French: "*quelques-uns sont raccrédités tous les deux ou tous les trois années tandis qu'au Québec
+chaque camp est raccrédité chaque année.*"
+
+**This transforms the accreditation lead.** Kanawana was an accredited Quebec camp. If Quebec
+re-accredited annually, then **a written visitation report on Kanawana exists for every year of its
+accreditation**, not one every two or three years — a series, not a document. Combined with Alta
+Kahn's dating of Quebec accreditation to the pioneer years of **1959–60** (issue 100) and Madelene
+Allen's description of what a visitation actually covered, down to septic tank outlets and a written
+marking scheme (issue 101), the shape of the missing record is now clear: **an annual, itemised,
+externally-written assessment of Kanawana's administration, personnel practices, site, programme,
+health and safety, running from about 1960.** Where those reports went is the question; the QCA's
+own Archives committee (below) is the first place to ask.
+
+Hasell's article also specifies what a visitation covered: written and implemented objectives;
+"sound financial control … through the use of budgets, financial statements and properly maintained
+accounts, records and inventories"; insurance including comprehensive liability, motor vehicle, fire
+and theft, passenger hazard, health and workmen's compensation; **"the visitation or accreditation
+team will make certain that the camp publicity is accurate and not misleading"**; programme;
+facilities, site, equipment and transportation; diet and feeding; and staff — "**The visitors will
+almost certainly include at least one experienced camp director who will be able to assess the
+effectiveness and competence of the staff**," beyond qualifications and staff-to-camper ratios. His
+framing is worth keeping: visitations are "regarded not so much as an inspection as a consultative
+service," and "**Standards do not mean standardization**."
+
+**★★★ TWO KANAWANA DIRECTORS SIT ON THE SAME PROVINCIAL EXECUTIVE.** The QCA English Section's 1975
+officer list gives, among the committee chairmen, "**Mr. Derek Walsh — Publicity and Public
+Relations**," and among the Honorary Members "**Mr. A.R. Seaman**." Kanawana's serving director and
+its director of 1959–67 are both on the Quebec Camping Association English Section in January 1975.
+**This also dates Walsh's QCA role precisely**: in January 1975 he chaired Publicity and Public
+Relations, not yet president — the `derek-walsh` stub has him as President "by Oct 1976," and this
+fills the intervening slot and shows the presidency followed a committee chairmanship in the same
+portfolio he would later hold nationally.
+
+The full English Section list is worth having, because it is a roll-call of anglophone Quebec
+camping in 1975:
+- **Honorary President: Mrs. Alta R. Kahn** (confirming issue 100).
+- **Honorary Members: Mr. & Mrs. Neil B. Powter; Mr. A.R. Seaman; Mr. T. Shorgan; Miss A.I. Vail;
+  Mr. F.M. Van Wagner.** **Anne I. Vail** — the Montreal CCA past president unasterisked in the 1972
+  list (issue 94) — alive and honoured in 1975.
+- **President Mrs. Val Willis**, who wrote the National Code of Ethics printed in this same issue;
+  Vice-Presidents Mrs. Barbara Patterson and Mr. Wilfred Jackson; Treasurer Mrs. D. Jacques Reeves;
+  Secretary Mr. Joseph A. Friedman; Past President Mr. Zave Ettinger.
+- Committee chairmen: **Mrs. J. Robin Allen and Mr. Doug Anakin — Staff Training** (Anakin was an
+  Olympic bobsleigh gold medallist, 1964); **Mrs. Nicholas D. Demetelin — Directory of Membership**;
+  Mr. Leon Hochglaube — Day Camps; **Mr. Joseph A. Hood — Archives**; **Mr. Isaac Katofsky — Senior
+  Citizens**; **Miss Frances M. Kelly — Staff Placement Bureau**, who is also the Section's Executive
+  Secretary at 2233 Belgrave Avenue; Mr. Robert Lazanik — Association of Leisure Time Services of
+  Quebec; Rev. J.W. McCarthy — Program; **Mr. Walter Mingie — Outdoor Education** (the hébertisme
+  author of issue 94); Mr. Sidney Sundborg — Conference; **Mr. Peter Van Wagner — Standards**; Dr.
+  Kenneth R. Willis — Constitution and By-Laws; Mrs. Kenneth R. Willis — Ethics.
+
+**Two of those portfolios are archival leads in their own right.** **An Archives chairman** —
+Joseph A. Hood — means the QCA English Section was actively keeping records in 1975, which is where
+annual Kanawana accreditation reports would most naturally sit. And **a Staff Placement Bureau**
+under the Executive Secretary means there was a central Quebec clearing-house for camp staff,
+which would have generated its own records of who worked where.
+
+**★★★ A NATIONAL YMCA CAMP DIRECTORY WAS IN PREPARATION.** On the back page, an advertisement:
+"**DIRECTORY OF YMCA/YM-YWCA/YWCA RESIDENCE CAMPS IN CANADA — to be available soon at all Y's**",
+from the **National Council, YMCA of Canada, 2160 Yonge Street, Toronto M4S 2A9** and the **YWCA of
+Canada, 571 Jarvis Street, Toronto M4Y 2J1**. A national directory of YMCA residence camps,
+published about 1975, in which Kanawana would necessarily appear — a separate publication from this
+one and a distinct target. Alongside it, an advertisement for **P.G. Gilbert, M.R.A.I.C., Architect,
+"Planning and Building Consultant to Camps"**, Professor at Ryerson — the same **Peter Gilbert** who
+chaired this Directory Issue. A camp architect practising in Canada in the mid-1970s, worth
+remembering against Kanawana's **$850,000 two-site reconstruction of 1977**.
+
+**★★ Camp Perrot, in the same directory.** "**PERROT DAY CAMP (1948) (Y.M.C.A.)**", director
+**Mr. Paul Cappelli**, 2467 Île Perrot Blvd. (514-453-3348), office 170 St. Louis Ave., Pointe
+Claire; activities swimming, gymnastics, archery, games, arts and crafts; **410 boys and 291 girls,
+ages 4 to 12** — seven hundred children, by far the largest camp in the Quebec listing. Founded
+1948. Directly usable in `wiki/site/camp-perrot.md`, which currently has Ross Seaman as a past
+director of the resident camp; this is the day camp's own directory entry a quarter-century on.
+
+**★ The Quebec accredited camp list, in full, is a map of the province's camping in 1975.** The
+French section's boys' camps: Beauséjour, Bel Air, Boisjoly, Colonie de Vacances Plein Champ, Keno,
+Le Manoir, Les Gais Lurons, Les Sommets, Mariste, Oasis Notre-Dame, Olier, St-Donat, St-Michel,
+Savio, Val Heureux. The English grouped index runs **Private Residential — Co-ed** (Kennebec, Maro
+Mac, Mère M.L. Clarac, Pembina, Pine Valley, Robinson, Sans Souci Riding Centre, Wilvaken);
+**Organizational Residential — Boys** (Boy Scouts of Canada, Camp Lewis, Quebec Lodge, Trail's End);
+**Organizational Residential — Girls** (Marian, **Lighthall**, **Oolahwan**, Quebec Lodge,
+Wa-Thik-Ane (GGOC)); **Organizational Residential — Co-ed** (Amy Molson, B'nai B'rith, Frontier
+Lodge, **Kanawana**, **Les Voyageurs de la Vérendrye**, Massad, Pinerose, Wooden Acres, YM-YWHA
+Country Camp); **Day Camps** (Cherokee Country Day Camp, Green Acres, North/Am Hockey School,
+**Perrot**, Shalom, YM-YWHA); and **Family Camps** (Chapleau …). **Camp Oolahwan and Camp Lighthall
+are both still accredited and operating in 1975**, listed as girls' camps — both have articles here,
+and both are confirmed live at a date this project had not fixed.
+
+Also in the Quebec listing: **JEWISH LAURENTIAN FRESH AIR CAMP (1927) (Golden Age Association)**,
+St. Hippolyte, **35 men and 35 women aged 60+** — one of the three Jewish Community Camps Alta Kahn
+ran as Executive Secretary from 1946 to 1949 (issue 100), now a seniors' camp under a different
+sponsor. **Wooden Acres**, another of her three, is also still listed.
+
+**★★ Val Willis, "National Code of Ethics" — the document promised at issue 99, printed in full.**
+Nine principles, of which the ones that bear on how a camp of the period was expected to behave:
+"We will familiarize ourselves with and comply with all government laws and regulations governing
+the operation of camps"; "We will strive to maintain and improve upon the standards for camping
+developed by the Association"; "**We shall concern ourselves with the welfare of our natural
+environment and encourage others to do likewise**"; "**Our advertising and publicity shall avoid
+misleading statements and superlatives**"; and "We shall refer to the Executive Committee any
+unethical practices which could be detrimental to the integrity and dignity of the Association."
+Printed in both languages, over Willis's name as Chairman of the National Ethics Committee — the
+same Val Willis who is President of the QCA English Section that accredited Kanawana.
+
+**★★ Jack Pearse, "If I Were to Send My Child to Camp" — the parent's checklist, drawn from the OCA
+directory's "In Choosing your Child's Camp Be Sure."** The most useful single article for
+reconstructing what a 1975 parent was told to look for. Facilities: cabins or tents, single units or
+dormitory, "beds or bunks — springs and mattresses, canvas cots or spruce boughs", indoor, outdoor
+or no plumbing. His diagnostic reading of a camp's equipment is quotable: "**if there are a dozen
+power boats, six dozen pairs of water skis and one leaky canoe, that should tell you something about
+the waterfront program. If the horseback riding stables are in better shape than the camper cabins,
+that ought to tell you something.**" On programme he quotes **John Ledlie, *Managing the Y.M.C.A.
+Camp*** at length — a YMCA text on what camp programme is — and a director's line, "**We don't teach
+the reef knot, we teach the camper**." On health and safety: menus checked by a qualified dietitian,
+milk from a quality-inspected dairy, drinking and swimming water tested, the camp inspected by
+provincial health authorities and adhering to provincial association minimums "in leadership,
+program, facilities and equipment, health and safety, transportation, food service, accommodation,
+campsite layout, business practice"; **every staff member able to administer artificial respiration
+and every camper instructed in it**; and a letter from the medical staff to parents "when their
+child is confined to the Health Centre overnight." On staffing: "**As a good rule of thumb, a camp
+should have one staff for every three campers.**" And the phrase he takes from a parent for what a
+good programme feels like: "**organized freedom**."
+
+**★ Latimer's Viewpoint** gives the national figure again — "**parents of close to 400,000 children
+from throughout the world**" — and an argument about what makes camp different: "nowhere else in the
+world do children leave their parents for an extended period of time to live in the out-of-doors
+under the guidance of Counsellors and Leaders." His list of what a counsellor must be — well
+trained, sympathetic, understanding, capable of giving and receiving "respect, friendship and love"
+— is elaborated at length, including "**There is no sympathy in a Counsellor if a tear can't well up
+in his eyes when he knows a child must return to a home filled with conflict, pain and hatred.**"
+Translated by **Abbé Paul Bélanger**, the Quebec correspondent.
+
+**Mors Kochanski's second article, "Winter Camping Skills"**, continues the previous piece with
+match-and-twig fire lighting in full (bundle bound with grass, "virtually impossible to put out once
+it is well lit, a point that can be demonstrated by whirling the bundle at arm's length"), the flint
+and steel method, and a warning about torches: "as long as it is only used when there is snow on the
+ground **or a trail of forest fires will follow you everywhere you go**." **Joan Fielden's
+"Foodtactics"** is a long nutrition piece addressed to parents and operators, built on the four food
+groups, arguing that camp food is different because home recipes say "serve at once" and camp
+quantity feeding cannot; recommends **two-day emergency menus written in advance for power failures
+or late supplies**; and notes that children complain about repetition rather than quality — "whether
+at camp, at school, in hospital, every type of quantity feeding where a person is confined and can't
+make a choice." **Larry Johnston's "Tracking"** is a memoir of learning to track rabbits behind his
+house in Niagara Falls. **Des Penses** closes with **C.R. "Blackie" Blackstock's "Wearers of the
+Magic Moccasins"**, a campfire meditation that runs Hiawatha and Jesus together in consecutive
+sentences — the same unexamined blend Eastaugh had defended two years earlier (issue 98), still in
+place.
+
+Provincial presidents now include **Margaret Pezderic** (Saskatchewan) and **Barbara Taylor**
+(Newfoundland). Cover designed by **Violet A. Catlin**.

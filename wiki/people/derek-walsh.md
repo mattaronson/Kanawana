@@ -1,6 +1,6 @@
 # Derek Walsh
 
-*Status: stub | Sources: 5*
+*Status: stub | Sources: 6*
 *Last Updated: 2026-09-04*
 
 ## Overview
@@ -14,6 +14,16 @@ This article is a **stub**. It exists because the material outgrew the directors
 **1973 — first season on staff.** Leo J. Robitaille's report for that year: "The design and co-ordination of program was excellently handled by Derek Walsh as was his supervision and operation of the camp in my absence. **Derek had been a camper at Kanawana many years ago but was a newcomer on staff.** In spite of this, his many years of experience in other camps in many capacities from camper, through C.I.T. to camp director plus his open personality made him well accepted by even the most senior of our staff."^4
 
 **1974–February 1979 — director.**^1 The 1974 report is his; it records registration by section and session, the highest camper returnee rate and longest average stay in a decade, and senior campers building an outdoor sauna across the lake.^5 The 1977 report is the one that matters most: it opens with bulldozers arriving for an $850,000 two-site reconstruction — "**this is the last year of K.K. as we've known it**" — and notes in passing that the extra work fell on the camp secretary partly because of "**the Camp Director being President of the Q.C.A.**"^5
+
+**1975 — the national directory, and the QCA slot before the presidency.** The Canadian Camping Association's January 1975 Directory Issue — a 20,000-copy national listing of every accredited member camp — carries Kanawana's entry over his name, and it is the only source found so far that puts him and the camp on the same page:
+
+> **KANAWANA (1894) (YMCA)** — Director **Derek V. Walsh** — P.O. Box 310, St. Sauveur des Monts, Que. (514-227-2414); winter office 1441 Drummond St., Montreal H3G 1W5 (514-849-5331). Activities: Tripping, Swimming, Sailing, Arts & Crafts, C.I.T. Program. **90 boys 8–15 / 90 girls 8–15.**^6
+
+The same directory lists a second camp under his name — **Les Voyageurs de la Vérendrye (YMCA)**, "c/o Kamp Kanawana", 15 boys and 5 girls aged 13–17, for wilderness canoe tripping — so in 1975 he was the accredited director of two listed camps at once.^6
+
+The directory also fills a gap in the table above. The Quebec Camping Association English Section's officer list for January 1975 gives "**Mr. Derek Walsh — Publicity and Public Relations**" among its committee chairmen, under President Mrs. Val Willis.^6 So the presidency recorded here as held "by Oct 1976" followed a committee chairmanship in exactly the portfolio he would later chair nationally for the CCA — the same subject, three times over, from provincial committee to provincial presidency to national chairman, ending in the 1981 pamphlet *How to Promote Your Camp*.
+
+One other name on that list is worth noting: **A. Ross Seaman**, Kanawana's director from 1959 to 1967, sits as an Honorary Member of the same section in the same year.^6 Two Kanawana directors, a generation apart, on one provincial executive.
 
 ## The national career
 
@@ -56,6 +66,7 @@ A camp director whose own 1977 report worried about promotion was, in the same y
 3. *Kamp Kanawana Director's Report 1977* [src_ia_kanawana_report_1977]. See [f_2445].
 4. *Kamp Kanawana Director's Report 1973*, Leo J. Robitaille [src_ia_kanawana_report_1973]. See [f_2424].
 5. *Kamp Kanawana Director's Report 1974* [src_ia_kanawana_report_1974] and *1977* [src_ia_kanawana_report_1977]. See [f_2429], [f_2431], [f_2443].
+6. *Canadian Camping* Vol. 27 No. 2 (January 1975), the Canadian Camping Association Directory Issue — Quebec Camping Association accredited member camps listing and English Section officer list. Found by the full word-for-word read of the run (`kb/reread/cc_findings.md`, issue 103).
 
 ## Research Notes
 

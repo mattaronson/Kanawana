@@ -4053,6 +4053,45 @@
       "status": "pending",
       "tier": "nice-to-have",
       "notes": "Source: Canadian Camping Vol. 25 No. 1 (Fall 1972), 'Have You Heard? Do You Know?', p. 13."
+    },
+    {
+      "priority_id": "p_314",
+      "rank": 313,
+      "type": "RESEARCH",
+      "description": "THE ANNUAL QUEBEC ACCREDITATION REPORTS ON KANAWANA. John Hasell, chairman of the CCA National Standards Committee, states in the January 1975 Directory Issue that 'some provinces requir[e] a visit every two or three years, but Quebec has developed its programme to the point where every camp is re-accredited annually' -- printed in both languages. Kanawana was an accredited Quebec camp; Alta Kahn dates Quebec accreditation to the pioneer years of 1959-60. So what is missing is not one report but A SERIES: an annual, itemised, externally written assessment of Kanawana's administration, personnel practices, site, programme, health and safety, running from about 1960. Hasell lists what each visitation examined; Madelene Allen of Camp Ouareau (issue 101) describes a visitation in practice, including a written MARKING SCHEME. WHERE TO ASK, in order: (1) the QCA English Section's own Archives -- the same directory names Mr. Joseph A. Hood as Archives committee chairman in 1975; (2) the successor body, the Association des camps du Quebec, at its Montreal office; (3) Concordia's YMCA of Montreal fonds, since the camp would have kept its own copies; (4) BAnQ, for a body incorporated under Quebec law.",
+      "article_id": "canadian-camping-movement",
+      "blocking": false,
+      "assigned_weight": 9,
+      "created_at": "2026-09-04",
+      "status": "pending",
+      "tier": "critical",
+      "notes": "Sources: Canadian Camping Vol. 27 No. 2 (January 1975), Hasell 'Standards for Camps' pp. 20-21 and QCA English Section officer list; Vol. 26 No. 1 (Fall 1973) for Kahn; Vol. 26 No. 2 (Winter/Spring 1974) for Allen. Word-for-word read, issues 100, 101, 103."
+    },
+    {
+      "priority_id": "p_315",
+      "rank": 314,
+      "type": "RESEARCH",
+      "description": "THE NATIONAL YMCA CAMP DIRECTORY, c.1975. The back page of the January 1975 Canadian Camping Directory Issue advertises a 'DIRECTORY OF YMCA/YM-YWCA/YWCA RESIDENCE CAMPS IN CANADA -- to be available soon at all Y's', from the National Council, YMCA of Canada, 2160 Yonge Street, Toronto M4S 2A9, and the YWCA of Canada, 571 Jarvis Street, Toronto M4Y 2J1. A national directory of YMCA residence camps, published about 1975, in which Kanawana would necessarily appear -- a separate publication from the CCA's. ACTIONS: search Library and Archives Canada, the YMCA Canada national archives, University of Minnesota's Kautz Family YMCA Archives (which holds Canadian material), WorldCat and the Internet Archive for a mid-1970s YMCA of Canada camp directory. A YMCA-published entry would give the camp's own description of itself rather than the association's summary.",
+      "article_id": "sources",
+      "blocking": false,
+      "assigned_weight": 7,
+      "created_at": "2026-09-04",
+      "status": "pending",
+      "tier": "important",
+      "notes": "Source: Canadian Camping Vol. 27 No. 2 (January 1975), back page advertisement. Word-for-word read, issue 103."
+    },
+    {
+      "priority_id": "p_316",
+      "rank": 315,
+      "type": "VERIFY",
+      "description": "KANAWANA'S 1975 SEASON AND FEES, recoverable from the page image. The Quebec table in the January 1975 Directory Issue carries a SEASON/FEES column, but the cached OCR renders it as a floating block of dates and prices detached from their rows, so Kanawana's season dates and fee CANNOT be safely attributed from the text. They are on the printed page. ACTION: fetch the page images for this issue from the Internet Archive item and read the Kanawana row directly. The same fetch would settle the three single-character column codes ('X X C') whose headers the OCR mangles, and recover the fee for Les Voyageurs de la Verendrye. Low effort, high certainty.",
+      "article_id": "modern-era",
+      "blocking": false,
+      "assigned_weight": 6,
+      "created_at": "2026-09-04",
+      "status": "pending",
+      "tier": "nice-to-have",
+      "notes": "Source: Canadian Camping Vol. 27 No. 2 (January 1975), Quebec accredited member camps table. Word-for-word read, issue 103."
     }
   ],
   "queue_ordering": {
