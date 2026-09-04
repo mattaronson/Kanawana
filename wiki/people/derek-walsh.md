@@ -35,6 +35,7 @@ Almost none of this is visible from Kanawana's own records. It comes from *Canad
 | **by Oct 1976** | President, Quebec Camping Association Inc. (English section), 2233 Belgrave Avenue, Montreal^2 |
 | **c. 1976–1978** | The presidency is **a two-year term**, and in June 1977 he "begins the second year"; as English-section president he is also **ex officio a Vice-President of the joint ACQ-QCA Provincial Board**, under President Abbé Robert Maisonneuve^8 |
 | **25–27 Mar 1977** | Presides over the English section's **40th anniversary conference**, receiving telegrams "from several spots around the world"^8 |
+| **1977–78** | **Chairman, CCA Public Relations Committee** — the earliest date the chairmanship can now be given, from the association's own list of committee chairmen for 1977-78, where he is the only Quebec name among eight committees^8 |
 | **1979** | Installed as CCA Vice-President under President Clifford Labbett^2 |
 | **1980** | CCA committees: Legislation; Public Relations and Promotion^2 |
 | **Dec 1980** | Agrees "to stay on as the representative of Quebec and Ontario until May, 1981"^2 |
@@ -72,7 +73,7 @@ A camp director whose own 1977 report worried about promotion was, in the same y
 5. *Kamp Kanawana Director's Report 1974* [src_ia_kanawana_report_1974] and *1977* [src_ia_kanawana_report_1977]. See [f_2429], [f_2431], [f_2443].
 6. *Canadian Camping* Vol. 27 No. 2 (January 1975), the Canadian Camping Association Directory Issue — Quebec Camping Association accredited member camps listing and English Section officer list. Found by the full word-for-word read of the run (`kb/reread/cc_findings.md`, issue 103).
 7. John Latimer (Director, Kilcoo Camp), "A Summary of Points Related to Promotion and Public Relations," from a talk given to the Ontario Camping Association, printed in *Canadian Camping* Vol. 29 No. 1 (February 1977), pp. 3-4, 11 [src_ia_canadian_camping_collection]. Found by the same read (issue 111).
-8. "News and Views from Across Canada," *Canadian Camping* Vol. 29 No. 2 (March 1977), p. 1, and "Cross Canada Checkup" (Quebec), Vol. 29 No. 4 (June 1977), p. 1 [src_ia_canadian_camping_collection]. Found by the same read (issues 112 and 114).
+8. "News and Views from Across Canada," *Canadian Camping* Vol. 29 No. 2 (March 1977), p. 1; "Cross Canada Checkup" (Quebec), Vol. 29 No. 4 (June 1977), p. 1; and the list of "C.C.A. Committees and Projects for 1977-78," Vol. 29 No. 6 (December 1977), p. 10 [src_ia_canadian_camping_collection]. Found by the same read (issues 112, 114 and 116).
 
 ## Research Notes
 

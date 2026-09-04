@@ -21110,3 +21110,173 @@ designed by Violet Catlin, Graphics, 4 Canzone Dr., Toronto, into the front page
 previous six newsletters.**" So the newsletter's masthead is a salvage of the dead magazine's last
 cover design, and the designer of that cover (January 1975 – June 1976) is named. The publication
 statement is repeated: six issues a year, $5.00 for one year, $12.00 for three.
+
+---
+
+## 116 — Vol. 29 No. 6, December 1977
+
+Twelve pages. Every item accounted for: Wow! What a Great Place to Camp! (Jack Pearse); A Director's
+Checklist — January and February (Eanswythe Flynn); Do You Always Say What You Mean?; Hiring Your
+Staff, with the Staff Interview Evaluation chart; a Camp Stephens job advertisement; a Royal Life
+Saving Society notice; Calendar of Events 1978 (bilingual); Happy Trails Père Paul, and Rosaire
+Poussard's French tribute to Paul Belanger; Cross Canada Checkup, with the CCA committee and project
+chairmen for 1977-78; Publications; Maintenance. **Kanawana is not named — but its director is
+listed as a national committee chairman.**
+
+**★★★★★ DEREK WALSH CHAIRS THE CCA'S PUBLIC RELATIONS COMMITTEE FROM 1977-78 — three years earlier
+than the wiki had it.** The list of "C.C.A. Committees and Projects for 1977-78" prints eight
+committees and five projects with their chairmen:
+
+| Committee | Chairman | Province |
+|---|---|---|
+| Archives | **Adele Ebbs** | Ontario |
+| French Language | **Rosaire Corbin** | Quebec |
+| Leadership Training | Jean Funk | Alberta |
+| Liaison with National Agencies | Clare Magee | Ontario |
+| Outdoor Education | Bob Cameron | New Brunswick |
+| Professional Development | Lorne Bowering | B.C. |
+| Publications | Punch Jackson | Manitoba |
+| **Public Relations** | **DEREK WALSH** | **Quebec** |
+
+| Project | Chairman | Province |
+|---|---|---|
+| National and International Conferences | John Latimer | Ontario |
+| Newsletter | **Brian Blackstock** | Ontario |
+| **Oral History** | **Jay Haddad** | Ontario |
+| Skill Schools | Jim Winter | Nfld & Lab. |
+| Woodsmanship | Kirk Wipper | Ontario |
+
+`people/derek-walsh.md` dated the Public Relations chairmanship from the 1980 committee list and the
+1983 award citation. **It begins in 1977-78**, while he was still Kanawana's director and while
+holding the Quebec English-section presidency and a national vice-presidency — and he is **the only
+Quebec name among the eight committee chairmen**. **New table row added, source 8 extended.** The
+line from here to the 1981 pamphlet *How to Promote Your Camp* is now four years long and
+continuous, and Latimer's February 1977 talk (issue 111) sits at the head of it.
+
+**★★★★ `p_319` HAS A CHAIRMAN: ORAL HISTORY IS A STANDING CCA PROJECT UNDER JAY HADDAD.** The
+taping of camp pioneers agreed at the Quebec board meeting in spring 1976 (issue 109) was, by the
+winter of 1977-78, a named national project with a named chairman — **Jay Haddad, Ontario**, who also
+sat on the Task Force that reported in April 1977. **`p_319` updated**: ask Trent for Haddad's oral
+history project files, correspondence and tape list alongside the CCA fonds, and search for Haddad
+himself for a personal deposit or an obituary naming the project. This is the single most promising
+lead the read has produced for reaching actual recorded voices of Canadian camping in the 1970s —
+and Quebec was one of the participating associations.
+
+**★★★★ HOW THE CCA BECAME BILINGUAL, DATED TO ONE MEETING.** From the tribute on Paul Belanger's
+departure for Rome:
+
+> "**When the C.C.A. Board was struggling with the revision of our constitution at a meeting in
+> Regina in 1971, it was Paul Belanger who convinced us in his delicately kind and inimitable way
+> that we ought to give warm recognition to our two languages in the C.C.A.** We became convinced,
+> committed and constituted and, out of the Regina meeting, emerged **Le Comité des Camps Français**
+> and a new constitution with this stated purpose — '**To promote the development of Camping in
+> Canada with the highest ideals and traditions of both language groups consistent with the national
+> heritage of Canada.**'"
+
+With the rest of his record: **founded Camp-École Keno in 1964**, sixty miles northwest of Quebec
+City; Provincial Board member; **President of the Association des Camps du Québec**; **first
+President of the CCA's French Language Camping Committee**; ACQ delegate to the **Fédération de
+canot-camping**; **chairman of the first Canadian Conference on French Language Camping at the
+Montmorency Forest, April 1976**; CCA Vice-President; called to Rome as Assistant General of the
+Marists with responsibility for Quebec, New England and France; honoured at an ACQ-QCA dinner in
+Quebec City on **24 November 1977**. **Written into
+`connections/institutional-lineage/canadian-camping-movement.md` with new sub-source 8ac**, with the
+structural point for Kanawana: the association that accredited it was a single English body until
+1971 and formally bilingual afterwards, and its Quebec section supplied a vice-president from each
+language to the joint Provincial Board — Walsh for English, Belanger for French.
+
+Poussard's French tribute is printed beside the English one — itself an artefact of the bilingualism
+Belanger argued for — and closes with Belanger's own words: "**Continuez à écrire l'histoire
+merveilleuse des Camps de mon pays, en chantant ALOUETTESKI.**"
+
+**★★★ "HIRING YOUR STAFF" — the interview instrument, and the culture around not rehiring.** The
+article prints an actual **STAFF INTERVIEW EVALUATION** chart with seven headings to be rated one to
+ten: **Appearance, Composure, Maturity, Self-Confidence, Frankness, Leadership Potential, Experience
+with Children**, with a note to add "patience, fairness, sense of humour, honesty, imagination,
+reliability, enthusiasm and a high set of personal standards." Directors are told to keep the ratings
+and "**look at the ratings during the summer and compare your rating then to the initial
+interview**," and to "**be sure to keep the autobiographies of those you hire as they are often
+useful for reference during the summer.**" With Lowes on end-of-season evaluation (issue 115), the
+full documentary cycle of a 1970s camp staff record is now described in the association's own pages:
+interview rating sheet → autobiography on file → first-week sit-down → mid-summer self-evaluation →
+end-of-summer written evaluation → the director's collated rehire list. **That is the paper trail
+`kb/restricted/register.jsonl` r_0001 sits at the end of.**
+
+Its test for hiring is memorable and worth quoting in any account of camp staffing: "**How would I
+feel about letting this person take a group of my campers on a trip?**" — with suggested interview
+questions, "What would you do if one of your campers was missing when you woke up in the morning?"
+and "Suppose you broke your leg on a trip fifty miles from camp." On personality: "a Camp can handle
+a limited number of 'characters'… they are like the paint on the paddle. **The blade, however, is
+what does the work.**" On references: "**Some of those 'saints in script' you may read of in letters
+of reference don't turn out that way on the job. PHONE one of the referees if you want more
+information in confidence.**"
+
+And the facing page, "**Do You Always Say What You Mean?**", is a joke column pairing polite
+formulas with what the director actually means — the last pair being: "You have learned a great deal
+from your summer with us, I am sure. Perhaps another year you might find it challenging to try a (a)
+larger, (b) smaller, (c) different, (d) American camp." = "**Thank heavens you won't be back!**"
+Published as humour in the association's own newsletter, it is evidence that the not-rehire decision
+was an ordinary, even jokable, part of camp directing culture — useful context for the embargoed
+Kanawana passage, and recorded here rather than in the article because it is atmosphere, not a fact
+about Kanawana.
+
+**★★ The 1978 calendar, bilingual — and Quebec's own year, month by month.** The Quebec entries are
+the most detailed provincial programme the run has printed, and they show a working association:
+**16 January**, mailing on sport-federation and association training courses; **17 January**,
+Section française executive and conseil d'administration; **18 January**, Provincial Executive and
+Provincial Council; **19 January**, souper-causerie, Quebec region; **30 January**, souper-causerie,
+Montreal region, theme "**Plein air — publicité, dépliants**"; **3-5 and 12-14 February**, ACQ stages
+de plein air; **17 February**, ACQ-QCA Provincial Council; **22-23 February**, council and
+souper-causerie on "**Recrutement — mode de sélection**"; **26-28 February**, another stage de plein
+air; **2-9 March 1978, ACQ-QCA semaine de Camps**; **15-16 March**, council and souper-causerie on
+"**formulaires — Mécanismes de contrôle**"; **7-9 April**, séminaire des directeurs de camps; **1 May**
+subscription deadline; **10 May**, assemblée générale annuelle of the Section française. Two things
+follow. **"Semaine de Camps" recurs in 1978, 2-9 March** — so Camp Week was an annual campaign, not a
+one-off, which broadens `p_320` from one week in 1977 to an annual March fixture. And **the Montreal
+souper-causerie series has published themes**: publicity and brochures in January, recruitment and
+selection methods in February, forms and control mechanisms in March. A Kanawana director who was
+also the English-section president was in those rooms.
+
+**★★ Executive changes.** With Belanger's departure, **Eileen Mayotte of Saskatchewan becomes CCA
+Vice-President** and **Jane McCutcheon of Ontario replaces her as Secretary** — Mayotte's second
+promotion in six months (issue 114), and McCutcheon being the woman who succeeds Derek Walsh as
+Central Region Vice-President in May 1981 (already in `people/derek-walsh.md`). **M. René Rousseau,
+Director of Camp Edphy, 14e avenue, Val-Morin, Quebec, is the new President of the Association des
+Camps du Québec** — a Laurentian camp director heading the French section. **Jocelyn Palm, President
+of the OCA, is the new owner and director of Camp Glen Bernard.** BC has a new field co-ordinator,
+**Miss Nancy Greig**.
+
+**★ Jack Pearse's presidential travelogue**, "Wow! What a Great Place to Camp!", is thin on fact but
+carries four dates worth keeping: he **directed Holland Cove Camp on the south shore of Prince Edward
+Island in the summer of 1949**; he was at **Burry Heights Camp, Newfoundland, in 1969, the year the
+Newfoundland and Labrador Camping Association "had just been born"**; the **CCA Annual Meeting of
+late winter 1976 was at the Montmorency Forest outside Quebec City, joined to Canada's first French
+Language Camping Conference** — which independently corroborates issue 108's account of the Quebec
+City board meeting that killed the magazine; and in **June 1967 he opened Bird's Hill Park north of
+Winnipeg and sang camp songs with twenty-four thousand Guides, Brownies, Scouts and Cubs**. Also
+noted: **over 1,000 delegates** at the Christian Camping International conference at the Banff
+Springs Hotel.
+
+**★ Eanswythe Flynn's January and February checklist** completes the off-season year begun at issue
+115. January: income tax forms and reports; revised camp folders; **order crests, pennants, camp
+T-shirts, postcards**; mail folders as they come from the printer; camp reunion invitations three
+weeks ahead; a progress letter to campers with news of campers and staff; "**Engage staff, nurse and
+doctor for the summer as soon as possible. Have contracts signed and sealed**"; **get last year's
+staff together for suggestions — "new canoe routes or out-trip hikes to new sites"**; meet the cook;
+arrange out-of-town interviews. February: send staff to provincial conferences; check school closing
+dates and set camp dates accordingly; consult the **Counsellor Placement Service**; "**Review and
+prepare rules for counsellors, regarding duties, responsibilities, time off, behavior in camp and out
+of camp, supervision of campers and cabins, and discuss them with staff during interviews**"; plan
+in-town counsellor training; order food early and arrange greengrocer, milk and bakery deliveries;
+brief maintenance on repairs and "any additional tent floors or cabins necessary for summer use."
+
+**Minor.** The Royal Life Saving Society Canada convened a **national symposium, "Alcohol &
+Aquatics"**, and published the proceedings at $3.50 — a 1977 Canadian document on drinking and
+drowning, findable. Camp Stephens (Winnipeg YMCA) advertises for a **Wilderness Program Director**,
+1 May – 30 September 1978, through **Jim Leggat**, Department of Camping and Outdoor Education. The
+publications page is now illustrated with descriptions and page counts. Winter maintenance advice
+repeats and extends the closing-up lists: mothballs on mattresses, screens taken off ("they will last
+about three times longer"), wax paper over stove grills, the walk-in refrigerator left **open**
+because it is "a great place to grow MOLD", **canoes stored on benches or rafters so both gunwales
+carry the weight rather than flat on the floor**, and mattresses left in their own cabins rather than
+piled — "also combustion hazard."
