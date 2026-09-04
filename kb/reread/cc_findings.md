@@ -18225,6 +18225,19 @@ the OCA deposit at Trent (October 1970, issue 88) and from the Mary S. Edgar fon
 **Priority `p_312` updated with the answer and a narrowed next action: query the University of
 Waterloo Library's Special Collections & Archives for a Canadian Camping Association fonds.**
 
+> **Patched in place 2026-09-04, after reading issue 109 (October 1976).** The Waterloo
+> destination recorded above is what the Summer 1973 issue says, and it stands as an accurate
+> record of the 1973 *plan* — but it is not where the collection ended up. Adele Ebbs, writing as
+> chairman of the CCA Archives Committee in October 1976, states that "**We have been fortunate in
+> finding a home for our Canadian Camping Archives at Trent University in Peterborough**," names
+> the archivist and the address, and reports that the founding deposit was F.M. Van Wagner's own
+> papers. Three years separate the two statements and the destination changed in between. My
+> conclusion in this block that the CCA archive is "a different institution from the OCA deposit
+> at Trent" is therefore **wrong as to the final destination**: the CCA material joined the OCA
+> material at Trent. See block 109 for the full quotation. `p_312` has been rewritten accordingly;
+> Waterloo survives in it only as a single residual check, in case a first tranche went there in
+> 1973–75 and stayed.
+
 **★★ Mary L. Northway, "Camp Counsellors Should Be Camp Counsellors" — the counter-voice on camp
 ghost stories, from the highest possible authority.** Northway (Brora Centre, Toronto) is the
 co-author of *The Camp Counsellor's Book*, the standard Canadian text, recommended in the same run
@@ -20035,3 +20048,174 @@ McCarthy** heads the joint ACQ-QCA with **Georges Robitaille** for the section f
 Hasell** now leads the BCCA. Cash's Name Tapes has moved its Canadian address to **Box 70, Station S,
 Montreal**. The **Green Acres Country Day Camp Olympic-accommodation advertisement runs again** — the
 Montreal Games opened six weeks after this issue. No Kanawana reference in this issue.
+
+## 109 — Vol. 28 No. 4, October 1976 — THE NEW FORMAT, AND THE ARCHIVES ANSWERED
+
+**The format change predicted at issue 108 is confirmed on page one**: a typewritten, mimeographed
+newsletter of eight pages, about a quarter the size of the magazine it replaced, with its own note:
+"**The format might be different… but the intent is still the same** … Costs have forced us to look
+carefully at ourselves (probably a very good thing from time to time)." OCR quality drops sharply
+with the typescript. Read in full: News and Views Across Canada; Hints and Suggestions for "Closing
+Up" Your Camp (Eanswythe Flynn); Reg Blackstock on Don Smith; Kanawa International Museum of Canoes,
+Kayaks and Rowing Craft; To-day's Records are To-morrow's Archives (Adele Ebbs); The Woodsmanship
+Instructor School; The National Canoe Instructor Schools; A Wilderness Dilemma.
+
+**★★★★★ `p_312` IS ANSWERED — AND MY EARLIER NOTE WAS WRONG. THE CANADIAN CAMPING ARCHIVES ARE AT
+TRENT, NOT WATERLOO.**
+
+Adele Ebbs — "Couchie", Taylor Statten's daughter, J. Harry Ebbs's wife and director of Camp Wapomeo
+(issue 107) — writes the piece, and it is the most consequential single item this read has produced
+for the project's archival strategy:
+
+> "In **1967** official collecting and sorting of camping records was started by a small group, all
+> of whom are still involved, and now there are concerned people in every provincial association.
+> **We have been fortunate in finding a home for our Canadian Camping Archives at Trent University
+> in Peterborough. Their Department of Canadian Studies is very supportive of our efforts** …
+> Since the **Canadian Camping Archives Committee was established in 1975**, made up of
+> representatives from each province, the biggest thrust has come from the first Geneva Park
+> Conference … **The Archives at Trent are National** … **Such national papers belong at Trent.**
+> We'll pay the cost of delivery, and I hope that each provincial archivist will help by locating
+> all pertinent papers and sending them on to **Mr Kenneth Johnson, Archivist, Trent University,
+> Peterborough, Ontario K9J 7B8**."
+
+**Correction to block 99 and to `p_312`.** At issue 99 (Summer 1973) the CCA board resolved that a
+new Archives committee would gather material "**to be housed at the University of Waterloo**". By
+1976 the collection is at **Trent**. Either the plan changed or the 1973 report was wrong; **the 1976
+statement is the later, more specific and more authoritative one** — it names the university, the
+department, the archivist and the postal code, and describes a committee already two years old with
+material already deposited. **Trent is the destination to pursue.** Waterloo remains worth a single
+check in case a first tranche went there, but it should no longer be treated as the answer.
+
+**★★★★ AND F.M. VAN WAGNER'S OWN PAPERS ARE THERE.** "**The first and very valuable contribution of
+papers came from F.M. Van Wagner who was C.C.A. President 1958-60.** From these papers we have many
+records of the early days of our Association."
+
+This converges with everything issues 103 and 104 established. Van Wagner **founded the Quebec
+Camping Association in 1937 and was its first president**; **wrote the 1955 Manual of Standards for
+children's summer camps in the Province of Quebec** — the document Kanawana was accredited against
+(`p_317`); and was **CCA president with the national office in Montreal from 1958 to 1961**. His
+papers were the founding deposit of the national camping archive at Trent. **The 1955 Manual, and
+early QCA records generally, are more likely to be in the Van Wagner papers at Trent than anywhere
+else this project has considered.** `p_317` and `p_314` both sharpen accordingly.
+
+Trent already holds the **Ontario Camping Association deposit of October 1970** (issue 88), with its
+taped interviews of camp personalities, and the **Mary S. Edgar fonds** (`camp-oolahwan.md`). Three
+separate camping deposits at one institution, and the national one among them.
+
+**★★★ A NATIONAL CAMP ORAL HISTORY PROJECT WAS AGREED IN SPRING 1976 — with Quebec in it.**
+"**At the Quebec Board meeting last spring a long list of camp pioneers was drawn up and agreement
+was reached by the Provincial Presidents that their associations would start taping oral biographies
+of those people.** It is an arduous and costly task, but well worth the effort, and **it must be
+done NOW!** The Trent Archivist will make a copy and return the original."
+
+So at the CCA board meeting in Quebec City in spring 1976 — the same meeting that killed the
+magazine (issue 108) — the provincial presidents agreed to tape oral biographies of a drawn-up list
+of camp pioneers, with copies to Trent. **The Quebec Camping Association was party to that
+agreement**, and Kanawana's own director sat on its English Section executive. Whether any Quebec
+tapes were made, and whether the list survives, are both worth asking of Trent and of the ACQ. This
+is also a direct precedent for this project's own `DRAFT_ORAL_HISTORY_INSTRUMENT` priority: the
+Canadian camping movement ran exactly this exercise fifty years ago, and the results may exist.
+
+**★★ Don Smith, died 1976 — CCA President 1963–65.** Tribute by Reg Blackstock. Active in the
+Alberta Camping Association and through it the national body; "**He was one of the first people to
+establish courses in camping at the university level**", and pressed for resident outdoor education
+during the school year, which "led to the establishment of university courses for teachers-in-training
+which included practical experiences in tripping and winter camping." He helped set up the outdoor
+education committees in the provincial associations and the CCA. On his philosophy: "he knew that
+camping provides vivid learning experiences; that **the risk-laden adventure is a strong motivator
+to sharpen skills**; and that stressful activities enhance self-knowledge and self confidence." He
+is the "Don Smith, Edmonton" of the CCA past-presidents list (issue 94). **Third camping death
+reported in two issues**, after Lorne Brown and Alex Peepre.
+
+**★★ The Kanawa International Museum of Canoes, Kayaks and Rowing Craft — a major acquisition.**
+"Following extensive negotiation with this institution and the **Museum of the American Indian–Heye
+Foundation**, **ten kayaks, twelve dug-outs, eleven bark canoes and eleven miscellaneous canoes**
+were made available to the Kanawa Foundation, on the understanding that special care would be taken
+to preserve, restore and display the collection. **This has expanded the Kanawa collection to three
+hundred or more**", requiring an extension to the log display house — built by a **Log Construction
+School under Alan Mackie of Prince George and Paul McNab of Ignace**. Kirk Wipper's museum, adjacent
+to Camp Kandalore. Its 1976 public events: "**a journey to the Olympics in Voyageur costume in the
+36 ft. Montreal Canoe**"; the same canoe sent to the French Festival at Detroit for the U.S.
+Bicentennial; and a historic canoe and kayak display at the Barrie–Orillia–Kempenfeldt Bay Festival.
+"The Kanawa Museum is the only one of its kind in the world." (This collection is the ancestor of
+the present Canadian Canoe Museum.) A voyageur-costumed Montreal canoe at the **Montreal Olympics**
+in the summer Kanawana was running four sessions forty miles north of the city.
+
+**★★ The Woodsmanship Instructor School — a new national programme, first run in 1976.** "Perhaps
+more properly the title should be '**land pursuits leadership school**'." Grew out of the National
+Canoe Instructor Schools, from the realisation that "**it becomes the responsibility of wilderness
+travellers to be fully aware of the consequences of such encounters for the natural environment**",
+with "a strong '**ethic of the land**' theme … so that the principle of '**wise use without abuse**'
+could be honestly respected." Two experimental Ontario schools preceded the first national one, whose
+purpose was "to inspire a group of leaders who would conduct such programmes in their own areas" —
+and Newfoundland's association is reported elsewhere in the issue as building a meeting around the
+leaders who attended it. A dated origin for wilderness-ethics training in Canadian camping.
+
+**★ The National Canoe Instructor Schools in 1976.** A summer school added at the University of
+Ottawa for candidates who could not attend in June. Demand is uneven — "**In Ontario there are never
+enough places for the number of applications submitted, while in Western Canada the situation reveals
+a balance**". Proposals under consideration: precourse skill workshops so candidates can concentrate
+on teaching rather than paddling; **weekend sections of the course, so teachers who cannot be
+released for twelve days can qualify**, with credit for each of five sections and a route from
+assistant to full instructor. And a note that content will change "with the introduction of the new
+levels of achievement currently being proposed through the **Canadian Recreational Canoeing
+Association**".
+
+**★★ "A Wilderness Dilemma" — a death, and a call for regulation.** From the September OCA board
+meeting, "concern was voiced regarding the number of accidents occurring in adventurous outdoor
+activities; this, because participants are not properly prepared by those who offer such programmes."
+The case: "**A young man of twenty-five recently perished on a western river when his canoe
+capsized. The Package Tour in which he invested included a flight to the West and a run down a
+river to a rendezvous spot. He was given a helmet and a water-ski belt and sent on his way by canoe
+with a friend, but no second canoe to accompany the pair in strange country.**" And the conclusion:
+"the further tragedy is that this is not a single or isolated occurrence … **mismanagement at this
+crucial stage of development may lead to unfortunate negative results, if such wilderness treks and
+trips are not controlled intelligently in the very near future.**" With Jocelyn Palm's "Adventure
+versus Risk" (issue 107) and Don Dickie's timed drowning (issue 105), the third piece in three
+issues arguing that the outdoor movement was outrunning its own safety practice.
+
+**★ Quebec news.** **Raymond Hade replaces Gil Cardinal as Executive Director of the ACQ-QCA** — the
+third executive director in three years, after Beauregard and Cardinal. **"The High Commission of
+Leisure and Sports has provided funds to ACQ-QCA so that a full time person may be hired to set up
+provincial training programmes in camping"** — a provincially funded, full-time camp training post
+in Quebec from 1976. And **Derek Walsh is now listed as President, Quebec Camping Association Inc.
+(English)**, at 2233 Belgrave Avenue — confirming from the association's own masthead the presidency
+the `derek-walsh` stub dates to "by Oct 1976"; this is that October issue. **Robert Maisonneuve**
+heads the ACQ and **W. McCarthy** the joint Provincial Board.
+
+**★ New Brunswick on hébertisme** — one line that matters for `p_318`: "**Hebertisme continues to
+grow in many camps… due to the tremendous influence of Claude Cousineau's book on the subject.**" The
+booklet advertised in issue 106 was having measurable effect within a year, in a province two
+provinces away from where hébertisme started. Reinforces the case for finding it.
+
+**Eanswythe Flynn's closing-up list** is reprinted in expanded form from issue 95, with new entries
+worth noting: **HOLES** — "look for the tiniest crack or hole in woodwork, walls or floors. Fill with
+putty or plaster of paris **mixed with cayenne pepper or mustard (powdered)**"; **PIT TOILETS** —
+"spread fire place ashes to a thickness of one or two inches on the 'mass'. This does a great job
+breaking down and eliminating odour"; **MEDICAL SUPPLIES** — now "all drugs should be carefully
+examined to determine whether or not there is an **expiry date** … **Throw out all drugs whose dates
+have expired**", which was not in the 1972 version and reflects a change in pharmaceutical labelling;
+**HONEY** — "will also survive low temperatures for years"; and the piano advice reversed — where
+1972 said leave it uncovered, 1976 adds "**It is surprising to find that they survive severe cold**"
+and "the secret is **never cover a piano**."
+
+Other conferences: an **OCA-organised conference at Sault Ste. Marie, 19–23 January**; the CCA board
+meeting in **Saskatoon, 5–6 November**, with a Saskatchewan conference whose programme includes
+"**Techniques for evaluating camp programme; Motivating staff; … Staff communication skills; …
+Interview techniques**". The **University of Calgary** now offers an outdoor education specialisation
+in its Faculty of Physical Education (contact **Dr. George Kinnear**) — the third Canadian university
+programme named in this run. And the **BCCA has hired its first full-time field co-ordinator, Allan
+Whidden**, on a foundation grant, his first task being to work with provincial health authorities on
+**revising the Health Act to include year-round and family camping**. No Kanawana reference in this
+issue beyond Walsh's provincial presidency.
+
+**Queue actions taken from this issue.** `p_312` rewritten: destination is Trent University,
+Department of Canadian Studies, archivist Mr Kenneth Johnson, Peterborough K9J 7B8; committee
+established 1975 with a representative from each province, collecting begun 1967; Waterloo demoted
+to a single residual check. `p_317` sharpened: the 1955 *Manual of Standards* is most likely inside
+the Van Wagner papers at Trent, which were the archive's founding deposit, so `p_312` and `p_317`
+should be pursued in one enquiry. **New priority `p_319`**: trace the spring-1976 national
+oral-biography project — the pioneer list drawn up at the Quebec board meeting, the Quebec
+association's own tapes, and any CCA interview guidance that survives with them, which is also a
+direct precedent for this project's pending `DRAFT_ORAL_HISTORY_INSTRUMENT`. **Block 99 patched in
+place** to record that its Waterloo destination was superseded here.

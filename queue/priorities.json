@@ -4032,14 +4032,14 @@
       "priority_id": "p_312",
       "rank": 311,
       "type": "RESEARCH",
-      "description": "[PARTLY ANSWERED 2026-09-04 -- destination now named] Locate the C.C.A. Archives. The Fall 1972 notice asked every camp director to send the CCA office 'two copies of your camp brochure -- they are needed for the C.C.A. Archives and for display at the February Conference at Geneva Park.' The Summer 1973 issue then reports from the CCA Board of Directors meeting in Vancouver: 'A new Committee, ARCHIVES, is to be established to gather material and documents to be housed at THE UNIVERSITY OF WATERLOO and made available to anyone in Canada and the world.' So the destination is Waterloo, not Trent -- a different institution from the OCA deposit (Trent, 22 October 1970) and the Mary S. Edgar fonds (also Trent). NEXT ACTION: query the University of Waterloo Library's Special Collections & Archives for a Canadian Camping Association fonds, and for camp brochures collected from member camps in the 1970s; a Kanawana brochure of the early 1970s is exactly the kind of item this collection was designed to hold. If Waterloo holds nothing, ask where the committee's material went -- the collection may never have been transferred.",
+      "description": "[ANSWERED 2026-09-04 -- destination confirmed as TRENT, superseding the earlier Waterloo note] Locate the C.C.A. Archives. The Fall 1972 notice asked every camp director to send the CCA office 'two copies of your camp brochure -- they are needed for the C.C.A. Archives and for display at the February Conference at Geneva Park.' The Summer 1973 issue reported that a new ARCHIVES committee was to gather material 'to be housed at THE UNIVERSITY OF WATERLOO' -- but that was the 1973 plan, not the outcome. Adele Ebbs, chairman of the CCA Archives Committee, writing in October 1976: 'In 1967 official collecting and sorting of camping records was started by a small group... We have been fortunate in finding a home for our Canadian Camping Archives at Trent University in Peterborough. Their Department of Canadian Studies is very supportive of our efforts... Such national papers belong at Trent.' Material was to be sent to 'Mr Kenneth Johnson, Archivist, Trent University, Peterborough, Ontario K9J 7B8', with the CCA paying delivery costs. The founding deposit was F.M. Van Wagner's own papers ('The first and very valuable contribution of papers came from F.M. Van Wagner who was C.C.A. President 1958-60'). The Archives Committee was constituted with a representative from each provincial association. NEXT ACTION: query Trent University Archives for the Canadian Camping Association fonds and for camp brochures collected from member camps in the 1970s -- a Kanawana brochure of the early 1970s is exactly the kind of item the 1972 solicitation was designed to collect. Trent already holds the OCA deposit (22 October 1970) and the Mary S. Edgar fonds, so one enquiry covers three collections. RESIDUAL CHECK ONLY: ask Waterloo Special Collections whether a first tranche was deposited there in 1973-75 and never transferred.",
       "article_id": "sources",
       "blocking": false,
-      "assigned_weight": 9,
+      "assigned_weight": 10,
       "created_at": "2026-09-04",
       "status": "pending",
       "tier": "important",
-      "notes": "Sources: Canadian Camping Vol. 25 No. 1 (Fall 1972), p. 3; Vol. 25 No. 4 (Summer 1973), p. 2 ('Have You Heard? Do You Know?', reporting the Vancouver board meeting). Found by the word-for-word read, issues 96 and 99."
+      "notes": "Sources: Canadian Camping Vol. 25 No. 1 (Fall 1972), p. 3; Vol. 25 No. 4 (Summer 1973), p. 2; Adele Ebbs, 'Canadian Camping Archives', Canadian Camping Vol. 28 No. 4 (October 1976). Found by the word-for-word read, issues 96, 99 and 109. The Waterloo destination recorded at issue 99 was superseded by the Trent statement at issue 109; block 99 of cc_findings.md has been patched in place to say so."
     },
     {
       "priority_id": "p_313",
@@ -4097,14 +4097,14 @@
       "priority_id": "p_317",
       "rank": 316,
       "type": "RESEARCH",
-      "description": "FIND VAN WAGNER'S 1955 MANUAL OF STANDARDS. The April 1975 tribute to F.M. Van Wagner states that 'In 1955 he formulated and first introduced a Manual of Standards for children's summer camps in the Province of Quebec.' That is the origin document of the standards Kanawana was accredited against, with an author and a year. The sequence is now continuous: manual 1955 -> accreditation 'in the pioneer stage' 1959-60 under Alta Kahn -> provincial incorporation 23 January 1961 -> annual re-accreditation of every Quebec camp by 1975. WHERE TO LOOK: the QCA/ACQ successor body; the Camp Nominingue archive (Van Wagner founded and ran it 1925 onward, and Nominingue is still operating); BAnQ; Concordia's YMCA of Montreal fonds, since an accredited camp would hold a copy; and Trent, alongside the OCA deposit. Note also that Van Wagner was CCA president 'with Office in Montreal from 1958 to 1961' -- the national office was in Montreal for three years, and its records of that period are a separate target.",
+      "description": "FIND VAN WAGNER'S 1955 MANUAL OF STANDARDS. The April 1975 tribute to F.M. Van Wagner states that 'In 1955 he formulated and first introduced a Manual of Standards for children's summer camps in the Province of Quebec.' That is the origin document of the standards Kanawana was accredited against, with an author and a year. The sequence is now continuous: manual 1955 -> accreditation 'in the pioneer stage' 1959-60 under Alta Kahn -> provincial incorporation 23 January 1961 -> annual re-accreditation of every Quebec camp by 1975. WHERE TO LOOK -- FIRST: the F.M. VAN WAGNER PAPERS AT TRENT. Adele Ebbs (October 1976) reports that Van Wagner's own papers were the founding deposit of the Canadian Camping Archives at Trent University, Department of Canadian Studies -- 'from these papers we have many records of the early days of our Association.' A manual he authored is precisely the kind of document that would travel with his papers, and this is now the single most likely location. THEN: the QCA/ACQ successor body; the Camp Nominingue archive (Van Wagner founded and ran it 1925 onward, and Nominingue is still operating); BAnQ; Concordia's YMCA of Montreal fonds, since an accredited camp would hold a copy; and Trent, alongside the OCA deposit. Note also that Van Wagner was CCA president 'with Office in Montreal from 1958 to 1961' -- the national office was in Montreal for three years, and its records of that period are a separate target.",
       "article_id": "canadian-camping-movement",
       "blocking": false,
-      "assigned_weight": 8,
+      "assigned_weight": 9,
       "created_at": "2026-09-04",
       "status": "pending",
       "tier": "important",
-      "notes": "Source: Frances M. Kelly, 'A Tribute to Q.C.A.'s Mr. Van', Canadian Camping Vol. 27 No. 3 (April 1975), p. 11-12. Word-for-word read, issue 104. Feeds p_314."
+      "notes": "Source: Frances M. Kelly, 'A Tribute to Q.C.A.'s Mr. Van', Canadian Camping Vol. 27 No. 3 (April 1975), p. 11-12. Word-for-word read, issue 104. Feeds p_314. Sharpened 2026-09-04 at issue 109: Van Wagner's papers are the founding deposit of the CCA archive at Trent, so p_317 and p_312 should be pursued in the same enquiry."
     },
     {
       "priority_id": "p_318",
@@ -4118,6 +4118,19 @@
       "status": "pending",
       "tier": "nice-to-have",
       "notes": "Source: Canadian Camping Vol. 28 No. 1 (November 1975), p. 4 notice. Word-for-word read, issue 106."
+    },
+    {
+      "priority_id": "p_319",
+      "rank": 318,
+      "type": "RESEARCH",
+      "description": "TRACE THE 1976 NATIONAL ORAL-BIOGRAPHY PROJECT -- and check whether a Quebec tape covers Kanawana. Adele Ebbs, October 1976: 'At the Quebec Board meeting last spring a long list of camp pioneers was drawn up and agreement was reached by the Provincial Presidents that their associations would start taping oral biographies of those people.' Tapes were to go to Trent, where 'The Trent Archivist will make a copy and return the original.' This means (a) a list of Canadian camp pioneers was compiled at a CCA board meeting held in Quebec in spring 1976, and (b) the Quebec Camping Association undertook to tape its own pioneers. Anyone who ran or shaped Kanawana before 1976 -- and F.M. Van Wagner, who wrote Quebec's standards -- is a candidate to be on that list or on a tape. NEXT ACTION: ask Trent Archives for the CCA oral history tapes, the pioneer list itself, and any accession from the Quebec/ACQ association; ask the QCA successor body whether its tapes survive locally, since only copies went to Trent. A recording of a Quebec camp pioneer speaking in 1976-77 would be the earliest oral-history material this project could reach. SECONDARY VALUE: this is a direct 1976 precedent for the project's own pending DRAFT_ORAL_HISTORY_INSTRUMENT -- if the CCA's interview guidance survives with the tapes, it is worth reading before drafting ours.",
+      "article_id": "sources",
+      "blocking": false,
+      "assigned_weight": 8,
+      "created_at": "2026-09-04",
+      "status": "pending",
+      "tier": "important",
+      "notes": "Source: Adele Ebbs, 'Canadian Camping Archives', Canadian Camping Vol. 28 No. 4 (October 1976). Word-for-word read, issue 109. Pursue in the same enquiry as p_312 and p_317."
     }
   ],
   "queue_ordering": {
