@@ -16809,3 +16809,273 @@ first-hand dating of the CCA's formation to 1946 at the Château Laurier, now pa
 `canadian-camping-movement.md`; Labbett's Society history with its 12-May-versus-21-May discrepancy
 and its roll of Honorary Fellows; the canoe school dated to 1967 and located in Quebec; and
 Plewman's printed reply to ed la Pierre.
+
+---
+
+## 93. Vol. 24 No. 2, Winter 1972 — `canadiancampingmagazine_vol24_no2_1972winter.txt`
+
+*Contents page*: Newsletter from the President (John R. Latimer); Reflections on the Passing of
+Tom Thomson (Charles F. Plewman); Exceptional Children / Enfants Inadaptés (Dr. Elsie Palter);
+Drifting Down the Yukon (Margaret Govan); White Water (David Hodgetts); Camping on the Avon
+(Joyce Bertram); Kitchen Waste for the Environment (Sam G. Hambly); Classified Advertisements;
+Outdoor Cookery (Helen E. Stewart); Visiting Parents (Helen Stewart); A Tribute to Eric Russell
+(Bob LeMessurier); Letters to the Editor. All thirteen checked against the read; all covered
+below. **The magazine now sells at $1.00 a single copy** and prints its subscription rates on the
+masthead for the first time.
+
+**★★★ CHARLES PLEWMAN, "Reflections on the Passing of Tom Thomson" — an eyewitness account of
+Tom Thomson's funeral, published fifty-five years later by one of his pallbearers.** This is not
+a Kanawana finding and it is not a camping finding, but it is a document of national significance
+sitting in the middle of a camping trade magazine, and the read has to record it. Plewman's
+standing is stated in the article's own biographical note, which is itself the best Plewman
+source yet: **eight years Boys' Work Secretary for the YMCA in Ottawa and Winnipeg; eleven years
+Secretary for the Ontario Boys' Work Board; founded Kilcoo Camp for boys in Haliburton in 1932;
+later assisted in the formation of the OCA, of which he is past president and Honorary member;
+Honorary member of the Society of Camp Directors; during the Second World War Secretary for the
+Toronto Branch of the Canadian Red Cross, a staff of 65 and 40,000 volunteers, where he
+instituted the Toronto Mobile Blood Donor Service; "although in his 83rd year… still active in
+Rotary and Camp circles."** **Note the YMCA Boys' Work Secretaryship** — the same office Roy
+Locke and Nelson McEwen held at Montreal, and the standard route into camp directing that this
+project has been tracing.
+
+His account, in outline: he arrived at **Mowat Lodge, Algonquin Park, in July 1917** for a
+two-month stay after his health broke down — **"Taylor Statten, who was interested in my welfare,
+arranged for me to go to Mowat Lodge"** — and found Thomson's body had just been recovered. He
+acted as **a pallbearer**, one of a group of "something like 12 or 13" at the graveside, in rain,
+with **no minister, no family member, and none of the painters** present; "**The Stattens, whose
+cabin was nearby were absent**." **Mark Robinson, the Park Ranger** — whose diary Ottelyn Addison
+drew on for the book reviewed at issue 86 — "appeared to be in charge." He records **Winnie
+Trainor** demanding to see the remains and insisting on foul play; **Shannon Fraser**, who ran
+Mowat Lodge, confiding afterwards that Thomson was engaged to Trainor, that she was coming for a
+showdown, and that "Tom was a shy and sensitive person and… he just could not face the music" —
+Fraser's clear implication being suicide, an opinion Plewman says Fraser also gave to George
+Thomson. Plewman sets out all three theories with the evidence for each, including the physical
+signs the foul-play case rests on (**"the wound on his forehead, the tackle wound 16 times around
+one of his legs, the paddle tied to the thwarts of the canoe in a fashion different from what Tom
+would have done, and the delay in reporting the sighting of the canoe"**), and declines to choose:
+"**Actually the truth regarding what happened to Tom may never be known with certainty.**" On the
+1956 skeleton: "I am strongly of the opinion that it was that of an Indian… **I am told that an
+Indian was buried in this cemetery around 1894**," and "we buried Thomson inside the area enclosed
+by a small fence. The skeleton that was unearthed was found outside." His reason for speaking now:
+**"At 82 I now feel that I should say what I know. It is quite possible that I am the only person
+living who participated in Tom Thomson's burial in Algonquin Park and to whom, at that time,
+Shannon Fraser talked about the nature of his passing."** Marked **"© Copyright, Canadian
+Camping."**
+
+Two smaller things worth keeping. On how little Thomson meant at the time: **"When I arrived back
+at the Lodge I was still quite oblivious to the fact that we had just buried a man who is now
+recognized as one of Canada's foremost artists… he might as well have been Algonquin Park's
+'Unknown Man'… I was back at Canoe Lake in 1921, four years later, but no one up there was talking
+about Tom Thomson. He seemed 'forgotten'."** And the rueful one: **"Mowat Lodge was full of 8½″ ×
+10½″ sketches that Tom had painted. I could have had them for about a dime a dozen… the few people
+who bought his pictures would only pay ten or fifteen dollars for a Tom Thomson original."** The
+cover of this issue is a detail from Thomson's *Algonquin Park*, courtesy of the Art Gallery of
+Ontario.
+
+**★★ DR. ELSIE PALTER, "Exceptional Children" / "Enfants inadaptés" — printed in both languages,
+and the most complete statement in the run of who was actually turning up at Canadian camps.** A
+founding director of the Society of Camp Directors (issues 84, 92), writing across the whole
+range. Substance worth recording, with its period terminology intact and dated:
+
+- **Gifted children**: "a bonus at camp… a source of motivation for others."
+- **Slow learners**, distinguished carefully from the "retarded": "**Sickness, emotional
+  disturbance, poverty, may have held a child below his age level**… These children are often
+  sensitive, the butt of jokes… wander by themselves at camp, unless someone is aware of their
+  deficiency and has helped that child to find some area in which he can be made to feel
+  competent."
+- **Physical disability**: her test is the camp's programme, not the child's condition — "**If a
+  camp is geared to an athletic type programme… then a child with a physical handicap does not
+  belong there. However, in camps where the programme offers a choice of activities… then a camp
+  experience with normal children should be planned for him.**" On the blind, "a counselor who can
+  devote himself to this camper"; **"The deaf can fit into a regular camp with very little trouble,
+  and should not be excluded for this reason"**; cerebral palsy possible "if the geography is so
+  structured that undue physical strain is not imposed"; heart cases only after a full medical
+  report, hinging on "how well the child has learned to exercise self discipline."
+- **Diabetes and allergies**: "Every camp director is required to obtain a medical report of all
+  campers, and this should include a list of allergies… **The most common food allergy is fish,
+  but nuts, chocolate, chicken, etc. occur quite often.**"
+- **★ Perceptual handicap** — the newest category, "fifteen years ago… a term seldom heard,"
+  and her statistic is the striking one: **"Many of our campers have some perceptual deficiency,
+  statistically 10-15%… They need extra help, in order to keep up with their fellow campers, but
+  they do belong with other 'normal children'."** Practical notes: the trampoline is beneficial
+  because it "involves visual and motor perception"; **"the simple act of walking up an inclined
+  plank comes easily to most children, but to the perceptually handicapped it is an insurmountable
+  task"**; skills must be broken into small parts.
+- **Emotional disturbance**: fears (a camper who "became hysterical" being shown how to get on a
+  teeter-totter); aggression — **"A child who has suffered physical abuse in his home often resorts
+  to aggressive behaviour"**; withdrawal — "**A child who is excessively timid… who internalizes
+  all his feelings, is just as ill mentally as the overly aggressive youngster**"; lying and
+  stealing, echoing her own issue-86 article ("the possession of the stolen object is secondary,
+  usually given away to win affection"); and enuresis, with the observation that "sometimes the
+  child who is enuretic at home has a dry bed throughout his stay at camp."
+- **★ "Culturally Enriched or Culturally Deprived"** — the passage that matters most for reading
+  an agency camp like Kanawana. Private-camp children arrive with "books, music, art, conversation
+  and travel… an extensive vocabulary." At the other extreme, children whose "communication is
+  often physical, and their language, limited as it is, coloured with obscenity. **Social behaviour
+  and personal hygiene do not fit middle class standards.** Agency camp staff are more familiar
+  with these children" — and what camp offers them, itemised without sentiment: **"He is assured
+  three good meals, seated in a dining room, a clean bed of his own, facilities for washing and
+  bathing… away from the city slums… and is exposed to adults who care about him."**
+- **★ And a category this project has not seen named before: foster children.** "They often come
+  from culturally deprived settings, have been rejected by their parents, and are **as they call
+  themselves the 'Aid' or 'Children's Aid'**… they may have been in several different foster homes,
+  sometimes returned to their natural parents and then placed again… **They have witnessed
+  desertion, alcoholism, promiscuity and neglect in their homes**… Camp is often the most meaningful
+  experience in their lives." Children placed by Children's Aid Societies were part of the agency
+  camp population, and this is the period's own account of it. **Directly relevant to any reading
+  of Kanawana's camper record**, and to the `p_307` thread: the children a camp's files describe
+  were not all of one kind, and some had case histories attached before they arrived.
+
+**★ CCA business, from Latimer's newsletter.** **The Board meeting is at the Queen Elizabeth
+Hotel, Montreal, 19–20 April, the Annual Meeting the night of 20 April, and the QCA-ACQ Conference
+20–22 April, same hotel** — the Montreal event flagged at issue 92, now firmly dated and located.
+**A second Quebec date: the Quebec Camping Association annual meeting, 24 May.** Other items:
+**the Girl Guides Association of Canada welcomed as the CCA's first Affiliate**; **the Constitution
+Task Force** met in Vancouver under **Stan Wild**, recommendations circulating for ratification;
+**membership certificates in French** and **annual seals for member camps** to be issued; **National
+Camping Day, Wednesday 19 July 1972**, Doug Dent again; **Bob Lazanik and David Hartry working on a
+committee to establish an Award for significant contribution to camping in Canada** — the origin of
+the CCA award scheme this project has cited for Derek Walsh's 1983 Award of Excellence; **a new
+Committee on Outdoor Education**, first meeting 1 January with Brian Blackstock, David Brown,
+Margaret Govan, Sam Hambly, Marjorie Howard (Girl Guides) and Flo Woods (National Council of the
+YWCA); and **a committee to counteract press coverage "which give a completely misleading picture
+of camping in Canada."** He also met **Dr. John Kirk, president of the American Camping
+Association** (the outdoor-education keynote speaker of issue 81), and ACA executive director
+**Ernie Schmidt**, in New York. **David Hartry is leaving for a new post in Nassau in early
+March.** And in Newfoundland he found **"Camping Sunday," introduced into the Anglican churches in
+spring 1971 and to be extended in April 1972 to the United Church and the Salvation Army** —
+special services across the province conducted largely by campers and young staff, "highlighting
+the importance and value of camping." **A named, dated, church-based camp promotion, and the kind
+of thing to look for in any Montreal denominational record.**
+
+**★ THE HORSES ARGUMENT CONTINUES — and it is the second time in two issues that a printed piece
+has drawn a rebuttal.** **Max Campbell, Director, Arrowhead Ranch**, writes objecting to Hank
+Roessingh's "Horses for Sale" (issue 92): "**Is this article supposed to be humorous? If so, it
+should have been clearly labelled as such**," notes that Roessingh is the CCA's National Standards
+Chairman "and as such presumably knowledgeable on his subject," and asks for a printed statement
+that the piece "was not intended to be taken seriously or… did not necessarily bear the
+endorsement of… the Canadian Camping Association." His substantive complaint is worth recording
+because it is a structural criticism of the movement: **"Both the Ontario Camping Association and
+the Canadian Camping Association have on occasion conveyed the impression of being unquestionably
+waterfront camp-oriented with an inherent lack of interest in the merits of any other type of Camp
+Program. Question — would the Executive of the Canadian Camping Association have permitted the
+publication of a similar article on canoeing — even if it had been written in jest? I doubt it."**
+Roessingh replies with the caricature analogy — "some of the features 'way out of proportion, but
+with a basis in reality" — and the diagnosis that "**for too many of us being dedicated to camping
+is synonymous with being deadly serious about it at all times**." He then makes the real case for
+riding: "**Working with horses is like working with other living creatures, including campers, and
+that is the great educational value of a riding program**… After all, a canoe is a dead thing; what
+kind of a meaningful relation can a camper ever develop with a piece of wood or aluminum?" And:
+"**oh, incidentally, I withdraw that offer to sell or trade my horses.**"
+
+**★ Sam G. Hambly (Director, Camp Allsaw, "A Natural Science Camp"), "Kitchen Waste for the
+Environment" — a complete, buildable camp composting system, and the most practical
+environmental item in the run.** The design: a **12-foot circle of snow fence**, staked or set
+inside a ring of spaced removable cement blocks; an **18-inch layer of dry organic material** (hay,
+straw, or duff from the forest floor) laid inside it; **a 45-gallon steel drum with top and bottom
+removed set in the centre as a funnel** for kitchen waste, its top fitted with **a tight screen to
+exclude flies**; dry material packed between drum and fence well above the drum's base; and the
+drum **rocked and raised** as the pile fills. Operating notes that show it was actually run:
+**re-piling to admit air "will produce offensive odours and for this reason should be avoided
+during the camp period"** — do it at the end; sprinkle mature compost from a previous year over the
+new heap to stimulate the culture; and by the second season the first year's pile is ready for
+shredding, which "is good sport for the campers." Uses: **earthworm culture so "the campers
+propagate bait for fishing trips"**; examination under the camp microscope; mulching the camp
+garden; and seed-starting, "most effective for use in a fluorescent light plant growth chamber."
+His argument connects it to the waterfront in a way worth quoting: garden soil made "open and
+porous… absorbs the rain and melting snow water. Underground reservoirs are filled up. Hence, the
+water emerges to provide crystal clear water for swimming and canoeing… **campers who like to have
+quality conditions on the waterfront have a responsibility for the conservation practices of the
+watershed.**" And the honest closing: "Camp personnel should not be misled by thinking that the
+disposal of kitchen garbage by composting is easy."
+
+**★ David Hodgetts (Director, Hurontario Wilderness Camp), "White Water" — a whitewater teaching
+document with diagrams, and a dated statement of when camps let campers run rapids.** His
+threshold: **"I think not for campers under twelve… I think not if the staff members are
+inexperienced or if your equipment is not suited to running rapids."** Three hard rules: **wear
+lifejackets; always carry a spare paddle in each canoe; never underestimate the power of running
+water, especially if it is cold.** Equipment: sturdy straight-grain paddles; **"Your canoe should
+be a Grumman if you can afford it. If not, use a 16′ canoe with two thwarts, and a depth of at
+least 12″."** The terminology he teaches — **"V" (dark blue, safe water), standing waves (runnable
+if not over 2½ feet), rock, boil, back eddies** — and the two-man division of labour, the **critical
+man** (nearest where the current first hits, responsible for turning) and the **power man**. His
+running sequence is a script of shouted commands: "Yell **'Ferry Left!'**… Shoot the 'V'… Yell
+**'Ferry Right'**… Yell **'Eddy turn Left'** — Bowman draws left, the sternman sweeps right and
+**leans downstream**." And the key safety point, stated twice: **"always have the canoe tilted
+downstream on a turn"** — because eddy turns "cause about 80% of all turn-overs in rapids." On
+standing waves: "If they are huge — portage. If between 2 and 3 feet hit them right dead centre…
+**If you hit them sideways you'll probably have to build a drying fire that evening.**"
+
+**★ Margaret Govan, "Drifting Down the Yukon"** — reprinted from *The Liberal*, Richmond Hill, 7
+October 1971. The former Camp Onawa director, in her seventies, on a **200-mile inflatable-raft
+float down the Teslin and Yukon rivers with Wilderness Unlimited (John and Mickey Lammers)**,
+sponsored by the Federation of Ontario Naturalists — six adventurers from Ontario, four days on
+each river with two lay-off days, eight campsites, ending at Carmacks. The practical detail is
+good camping history: **flat rubber boats with fitted floor boards, foot-pumped pontoons and keel,
+carrying 2,000 lb, lashed together in pairs "because… the current was apt to swing us out of the
+main stream when we turned a bend"**; a small outboard for emergencies and landing only, since
+"the noise frightened the wild life, and after all that was what we had come to see"; two-person
+tents on aluminum frames "that we could put up in ten minutes… and take down in five"; a Coleman
+stove and mostly freeze-dried food. Her naturalist's inventory is worth keeping: silt cliffs "as
+high as 400 feet… wind sculptured into strange, modernistic forms, always different"; the Teslin
+running four miles an hour and the Yukon six, widening to 1,500 feet; berries, "many, many fungi
+which may or may not have been edible but none of us were sufficiently familiar with them to risk
+it"; **"I've never slept in a bed of roses before"**; eagles "both bald and golden… there to eat
+the salmon which having spawned and fulfilled their function, died on the shores"; dall sheep,
+brown bear, otter, mink, beaver; and **the set piece — a crossbreed fox hunted by two lynx across
+the cliff opposite their camp, which ends with the fox slipping into his den, no confrontation.**
+Her warning from the guide — **"'Not out of earshot,' John warned. It was rutting season"** — and
+her closing exhortation: "**it behooves Canadians to visit the north. The Americans are there in
+droves. What about you?**"
+
+**★ Helen Stewart (Director, Camp Wahcahmie), "Visiting Parents" — a Mother and Daughter Weekend,
+described in enough detail to be copied.** Held **the second weekend in June**, "so that Camp will
+be ready for parental inspection and we have a 'breather' of a few weeks before Pre-camp begins,"
+and offered explicitly as a **homesickness preventive** — "Do you usually have a spell of
+homesickness at Camp? Then, why not adopt our cure-all." Terms: **expenses (food and a cook)
+divided equally; dish-washing shared by the group, not provided**; staff present with their own
+mothers are **NOT on duty**, "in the invitation, this fact has been made very clear"; mothers and
+daughters "cautioned to keep an eye on each other"; and **all participants must abide by the
+camp's waterfront and safety rules** — "we cannot afford to have any accidents marring this happy
+occasion." The benefits she claims are the orientation ones: new campers see camp and meet staff
+with their mothers beforehand, and mothers gain "a greater understanding… of Camp policies and
+objectives, the menu, programme procedures." Headed by four lines of **Mary Edgar**: "*You have
+known the peace of silent hills… Though paths of life turn east or west / Camp friends can ne'er
+divide.*"
+
+**Joyce Bertram (Camp Ouareau), "Camping on the Avon"** — a comic essay arguing from quotation that
+Shakespeare was a camp director, with a full key to the sources appended. Light, but it is a
+period inventory of a director's grievances, each hung on a quotation: the bank ("I can get no
+remedy for this consumption of the purse"), the health inspector ("a friendly eye would never see
+such faults"), staff ("you blocks, you stones, you worse than senseless things" and "**how has he
+the leisure to be sick in such a justling time?**"), senior staff ("it is the disease of not
+listening"), Parents' Day and the queue of cars ("**What, will this line stretch out to the crack
+of doom?**" and "it's a wise father who knows his own child"), duty counsellors ("Remuneration? Oh,
+that's the Latin word for three farthings"), the weather, the night rounds, and the maintenance man
+at dawn with "the rankest compound of villanous smell that ever offended the nostrils." Ends "Exit
+— pursued by a bear."
+
+**Bob LeMessurier, "A Tribute to Eric Russell"** — the Newfoundland association's founder and
+president (issue 92 announced his death), "a sincere and tireless worker for several causes, not
+the least of which was the promotion of camping and outdoorsmanship," and a longtime Boy Scout:
+"in the words of the old Scout Law, Eric was truly 'a friend to all and a brother to every
+Scout'."
+
+**Smaller items.** Officers: **Levi Mehaney succeeds Elizabeth Mouland** as Newfoundland president,
+Mouland having gone "to head up a training programme for the Girl Guide Ranger programme"
+nationally; **Marion Rosborough** is Nova Scotia president; **Robert Lazanik** is now listed as
+president of the merged Quebec association in the provincial offices block, confirming issue 91.
+The Publications Committee gains five members including **Huguette Dagenais** — the Quebec
+representative now on the committee proper. Classifieds worth noting: a **Day Camp Director wanted
+by the Borough of Etobicoke**, minimum 21 with camping and administrative experience; and a **Camp
+Director wanted for the Ontario Camp Leadership Centre, Bark Lake**, by the Department of
+Education's Youth and Recreation Branch — the leadership centre where Carolyn Ann Bennett trained
+(issue 84). Helen Stewart's outdoor cookery gives **Bannock** as a basic recipe with cinnamon-roll
+and pinwheel variations.
+
+Nothing in this issue names Kanawana. Its value is Elsie Palter's account of who was actually at
+Canadian camps — including foster children placed by Children's Aid, a population this project had
+not seen named; the Montreal dates for April 1972; Plewman's biography, which places him in the
+YMCA Boys' Work Secretaryship that this project keeps meeting; Hambly's buildable composting
+system; and, as a document of a quite different kind, Plewman's eyewitness account of Tom
+Thomson's burial.
