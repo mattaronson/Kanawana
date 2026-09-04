@@ -5678,3 +5678,133 @@ little fellow did not survive the anaesthetic." Mary Edgar's "A Camp Recipe"
 back in town") is printed alongside her poem "I Have a Mountain".
 
 Kanawana itself: not named in this issue.
+
+## 49 — Vol. 13 No. 2, February 1961 ★★
+
+McIntyre's editorial on the camp "triad"; **Mary Edgar on the art of story
+telling**; Wilbur Howard on first things; an Ontario Health water bulletin;
+**Mary Northway on counsellors**; a sailing programme guide; Helmsley on park
+interpretation; the 1961 conference programme; a doctor's open letter to
+parents; the book page; Devenney on the Bark Lake workshop.
+
+**Mary Edgar on story telling (pp. 51–52, 70) — the run's fullest statement on
+camp storytelling, from the woman who founded this magazine.** Directly relevant
+to `p_045` and `myths-and-legends.md`, and it complements Margaret Govan's
+"Stop Me If You've Heard This One" (issue 37) by describing the *practice* rather
+than the sourcing. She opens with a scene: eighteen-year-old counsellors-in-
+training by her cabin fire on a rainy night, her lecture notes mislaid, begging
+"Just tell us stories instead!" — and:
+
+> "They had probably heard most of the stories before, for **the tales have been
+> told and retold to each succeeding group of campers for many summers**, but
+> there was the same eager response — the thrill of expectancy — the shining
+> eyes and the clamor for 'just one more'."
+
+Her method: "choose a story you like. Memorize it, or at least familiarize
+yourself with the sequence of events. In imagination, see things happen in
+technicolor as you describe them… **You need not apologize for telling the same
+story over and over again. If it is worth telling once, it is worth repeating.**"
+Her programme recommendation is concrete and is the mechanism by which a camp
+legend would actually propagate: "**It is an excellent custom in a junior camp to
+have stories told in each cabin for about twenty minutes after the children are
+tucked into bed.** There is a tendency to settle down more quickly and **it
+provides insurance against homesickness**." And her institutional advice —
+directors should supply counsellors with suitable stories, teach them how to
+prepare one, and give them a graduated audience: "perhaps at first a cabin group
+or a camping trip group, then a larger audience such as a section, and later
+possibly the entire camp group at a campfire or chapel service."
+
+Her historical framing is the argument for taking camp stories seriously as a
+survival: "**If there is any place, however, where the art of story telling should
+be properly revived, it is in the summer camp**, where every year increasing
+numbers of boys and girls gather around the campfire, just as the primitive folk
+and the Indians and Pioneers did in the long ago. Away from the many competitive,
+commercial attractions of the city, **the story teller regains his prestige**."
+Taken with Govan and McClelland, the run has now produced three senior figures
+describing camp lore as deliberately cultivated, repeated verbatim across
+seasons, and taught to counsellors as a skill. **A camp legend like Chopsy is
+therefore best understood as a transmitted performance, not an event** — and the
+right question for oral history is who told it, at what point in the evening, and
+to which age group.
+
+**Mary Northway against the superman counsellor (pp. 56–57, 76).** From the
+Institute of Child Study, and the sharpest counter to the professionalising
+literature this run has been full of: "**The modern camp counsellor apparently
+should be a mixture of Superman and an archangel.** It has been suggested that he
+be trained, presumably at the graduate level in sociology, psychotherapy, group
+dynamics and perhaps even nuclear physics… In time, perhaps, the human species
+will evolve such creatures; meanwhile, camp directors who want a staff must
+choose ordinary human beings." Her reduction: a counsellor needs two things,
+**the ability to camp and the ability to counsel**. On the first — "**One has to
+be clever to live simply**" — and on camps themselves, a fine aside: "some camps
+look like camps, but within the species there is as much variety to be found as
+amongst different breeds of dogs." On the second, the failure mode she names is
+the undergraduate who "resolves to get these guys toughened up into athletes and
+turned into miniature replicas of himself… Through the use of **badges, prizes,
+marks** or the persuasion of his own dynamic personality, he inculcates
+'interests', but they are **his** interests." And the line that indicts the whole
+apparatus: "**So often at camp there is no time left to stop and smell wood smoke
+or touch the softness of sphagnum… 'Program' is often so full there is no time
+left for living.** … we are so busy with recreation we have no time for play. We
+take so long being educated, we never get around to living."
+
+The conference biography of her adds two facts worth recording: she was **"For
+many years on the staff of Glen Bernard Camp"** — Mary Edgar's camp — and
+"became an expert in the field of sociometry, **the first study of which was done
+in a summer camp setting**"; she was by 1961 "President of the Northway Company"
+and author of over 100 publications. The KB has three Northway facts; this places
+her firmly inside the Canadian camping world rather than merely adjacent to it.
+
+**Wilbur Howard on "the paper curtain" (pp. 53–54, 70).** Boys' Work Secretary of
+the Ontario Religious Education Council, later the banquet speaker. His opening
+is a catalogue of the era's contradictions, and it lands on the paperwork: some
+say camping is "simple living in the outdoors", others that it is "the adjustment
+of the individual in a highly complex community which involves the adaptive
+social function of anxiety, the professional services of such experts as
+psychologists, psychiatrists, group workers, case workers, dietitians, doctors,
+nurses, **and counsellors who can fill in form 249D8**." His practical
+recommendation is the one to keep: "If the counsellor is expected to keep neat
+and accurate records, he must be given adequate facilities to do so efficiently.
+Help in regard to records is indicated if the records take so much time that the
+counsellor is forced to be away from his cabin group when the group needs him.
+**This paper curtain between counsellor and cabin group must be done away
+with.**" And on references, a line that speaks directly to the evaluation
+question this project keeps meeting: "It will mean the follow-up of written
+references with personal conversation. **It is surprising the things that people
+know that they would never think of writing down.**"
+
+**Also noted.** J. Archibald McIntyre (Sociology, Western) argues that camp is a
+**triad** of parent, child and staff with three different and often unstated sets
+of expectations — the parent for whom "the essential image is that of a nurse
+maid or child-sitter", the parent who wants "an important learning experience for
+the child (by which is usually meant a correction of some patterns of behaviour
+in the child which the parent has been unable to correct himself)", and the child
+who may see camp "as some kind of penalty, a deprivation." **Dr Joy M. Ballard,
+camp doctor at Camp Waseosa**, writes a model open letter to parents — medical
+appointments booked in February or March "since doctors are burdened with such
+appointments just before camp opens"; sunburn lotion "in tubes or plastic bottles"
+because "Glass bottles break and could cause dangerous cuts"; a spare pair of
+glasses or the prescription; **no Band-Aids or headache pills sent with the
+child**, since a headache "may be a symptom of… overexposure to sun, overfatigue
+or the onset of some illness"; and the hospitalization policy number on the
+medical form. An editorial footnote records the 1961 Ontario position: "**there
+is no quarantine for contacts of persons having Chicken Pox, Mumps, Measles or
+German Measles**." The letter is offered as a reprint from **"Town Talk About
+Camps"**, published by the magazine's own editor Mrs G. W. Flynn from 23 Dunbar
+Road, Toronto, at 15¢ a copy or $10 per hundred — **a second, separate Canadian
+camping publication, not previously noted in this read**, and a source worth
+looking for. The 1961 conference programme (22–24 March, King Edward Hotel)
+brings **Paul Provencher** back as guest speaker, screens a film of "The Direct
+Method" of artificial respiration, and features **Catherine Hammett, past
+president of the ACA**, and **Gunnar Peterson** of George Williams College.
+Alan Helmsley's account of Ontario's park interpretation service gives 1960
+attendance figures — 283,000 at park museums, 47,000 on nature trails, 7,000 on
+conducted hikes, 24,000 at illustrated talks — notes that the service began in
+**Algonquin in 1944**, and records that park naturalists used to visit the
+**seven children's camps in Algonquin Provincial Park** until staff demands
+forced cancellation, after which "counsellors were urged to attend a special
+course for nature counsellors so that they, in turn, could carry on a naturalist
+program in their camps." And the OCA's pamphlet list is reprinted with prices
+unchanged, now with *It's Wise to Supervise* at $1.00 added to it.
+
+Kanawana itself: not named in this issue.
