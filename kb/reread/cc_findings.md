@@ -16248,3 +16248,275 @@ patched into `camp-oolahwan.md`; Plewman's founder's history of the first sevent
 including a named 1923 objection to founding Wapomeo; the Trois-Saumons 25th anniversary dating
 its founding to 1946 against Cousineau's ~1948; Perras on day camping; and Hartry's plain account
 of why the CCA's Ottawa office closed.
+
+---
+
+## 91. Vol. 23 No. 4, Summer 1971 — `canadiancampingmagazine_vol23_no4_1971summer.txt`
+
+*Contents page*: A Letter from the President (John Latimer); Thank You, Halifax! (Margaret
+Govan); Fire-Safe Camping (Chief Bryan N. Mitchell); The Youth Culture and Camping (Doug
+Caldwell, Bob Osborne, ed la Pierre); Tennis May Be Dear, Sphairee Is Not (Bruno Morawetz); Le
+camp de jour et son transport / The Day Camp and Transportation (Huguette L. Dagenais);
+Homesickness (M. C. MacCulloch); Special Offer to Camp Staff; Visitors at Camp?; Outdoor
+Cookery (Helen E. Stewart); It's for the Birds (Eanswythe Flynn); A Foot Trail Across Canada
+(Ann Prewitt). All twelve checked against the read; all covered below, plus "Nouvelles du
+Québec" (not on the contents page).
+
+**★★ ROBERT LAZANIK BECOMES PRESIDENT OF THE MERGED QUEBEC ASSOCIATION.** Huguette Dagenais's
+"Nouvelles du Québec": at the annual meeting, **"Au nouveau président; M. Robert Lazanik,
+meilleurs voeux de succès. À M. Lionel Perras, Président sortant et récipiendaire de l'insigne
+A.C.Q.-Q.C.A. Bravo et merci pour votre magnifique travail."** So the succession over the merged
+body runs **Perras → Lazanik**, and Perras received the association's insignia on leaving. Lazanik
+is simultaneously **CCA Vice-President for the Quebec Region**. This is the clearest Quebec
+leadership record the read has produced and should go with issue 89's structure note into
+`canadian-camping-movement.md` when the Quebec section is next revised.
+
+**★ And a named Quebec seminar on the two subjects a camp's internal records turn on.** "Récemment
+l'A.C.Q.-Q.C.A. tenait un séminaire à l'intention des directeurs de camp et de leurs principaux
+collaborateurs. **115 personnes ont participé**… ces personnes ont discuté de **politiques de
+personnel et des questions de financement dans les camps.**" Held bilingually **without simultaneous
+translation** — "anglais et français ont échangé en s'exprimant dans leur propre langue; des
+animateurs bilingues faisaient le lien" — which Dagenais reports as having produced "un climat chaud
+et amical." She argues the province should issue **a certificate accrediting those who complete
+it**. A weekend seminar of 115 Quebec camp directors on **staff policy and camp financing** in 1971
+is precisely the forum a Kanawana director would have attended, and its papers, if they survive,
+would bear on the `p_307` thread. **Thirteen people represented Quebec at the CCA congress in
+Halifax.**
+
+**★★ C. B. POWTER WRITES — and it is the same Powter's Camp.** "Visitors at Camp?" carries a
+policy statement signed **C. B. Powter** for **"Powter's Camp for Boys, St. Donat de Montcalm,
+Quebec."** *Cross-reference*: **issue 53 of this read (Vol. 14 No. 2, February 1962) contains N. B.
+Powter's "Sixty Years Ago,"** which gives his father's founding of the camp near Lac St. Joseph,
+Ste-Agathe-des-Monts, in **1893** — a date this project treated as significant because it is a
+first-hand family account rather than a retrospective institutional claim, and because it bears on
+what "first" meant in Quebec camping relative to Kanawana's 1894. **Here the family is still
+running the camp in 1971**, now at St-Donat-de-Montcalm, and the run therefore documents the Powter
+camp across at least 1893–1971. His visiting policy: parents **every Sunday except the first Sunday
+of each month, 10 a.m. to 5 p.m.**, permitted to take boys out for lunch or picnic on camp property;
+**staff may have Sunday visitors but only in non-scheduled time, with no meals or accommodation
+provided at counsellor level** — "although permission is sometimes granted to members of the Senior
+Staff." A small but genuine piece of Quebec camp practice, from a named Quebec director.
+
+**★ THE CCA RESTRUCTURES INTO REGIONS — the end of the rotating provincial executive.** John
+Latimer's first president's letter: **"since the Association was founded, the Executive moved from
+province to province every two years. Now there are five Vice-Presidents on the Executive of C.C.A.
+who represent various regions in Canada"** — **Tom Creighton (Atlantic), Bob Lazanik (Quebec), Jack
+Pearse (Ontario), Eileen Mayotte (Prairie), Tanya Krisman (B.C.)**, with **Brian Graham** treasurer
+and **Rick Bendera** secretary, both Toronto. "The Board of C.C.A. is now made up of the Executive,
+the Provincial Association Presidents and the Committee Chairmen." **This explains the officer
+churn this read has been tracking since issue 80** — Winnipeg, then Halifax, then Toronto — and
+dates its end to 1971.
+
+Also from his letter: a **CCA workshop to be held no later than 31 January 1972**, funds requested
+from **Cor Westland** at Fitness and Amateur Sport, who "looks very favourably upon the request"; a
+resolution that **"all provinces have minimum standards prepared so that they can be used in the
+study of provincial standards development and the development of national standards"** — the
+national standards project beginning; and **National Camping Day, Wednesday 21 July 1971**,
+chairman **Doug Dent of Victoria**. And: **"Kirk Wipper and his committee are very pleased with the
+response to the Centenary Journey Journal. Copies are now available through the C.C.A. office"** —
+confirming the *Journal*'s distribution a second time (issue 90).
+
+**★★ "THE YOUTH CULTURE AND CAMPING" — and the Publications Committee's own admission that it
+could not agree to print it.** Don Groff's foreword is the finding, not the articles: the magazine
+solicited "expressions of life-views from a variety of representatives of the youth culture," and
+then — **"The problem of communication became very evident within our Publications Committee as we
+reviewed the articles and attempted to decide upon their suitability for printing, and necessity,
+if any, for editorial revision. Concerns about language forms and philosophies expressed or implied
+in some of the articles caused sufficient apprehension for some committee members (camp operators
+and directors) that we could not reach a consensus as we usually do for our editorial decisions.
+As a result, these articles appear by a majority but not unanimous decision."** One of the three is
+marked **"(This article is unedited.)"** — a flag the magazine has not used before. **A national
+professional body publishing over the objection of its own senior members, and saying so in
+print**, is a better index of where camp leadership stood in 1971 than any of the arguments
+themselves.
+
+The three pieces:
+- **Doug Caldwell**, the most careful. Warns against the phrase itself: "**The very phrase 'youth
+  culture' all too often conjures up visions of a long-haired, drug-oriented, morally deficient,
+  radical counter-culture**… we must recognize a set of people as diversified in their beliefs as
+  any other given age group." His figure: **"Our Canadian camps are involved with over
+  four-hundred thousand campers every summer"** — a national camper count for 1971, twice
+  Latimer's Ontario figure of 200,000 at issue 83. Then the three questions the movement was
+  actually facing, stated plainly: **"Is there any moral significance in a male staff member with
+  long hair? Should we be discriminatory towards staff members who have used drugs? How far should
+  we go towards hiring staff members who do not have ideas in keeping with the philosophies of the
+  established order?"** — leaving the answer to each camp. His own position: "I can not help but
+  think of fellow staff members in our camps who have taken drugs… I feel that their character and
+  high moral integrity are such that it would be inconsistent with our goals to terminate their
+  presence in our camps," coupled with the principle that "it should never be necessary to impose
+  on campers the personal life-styles (political, social, or religious) of individual staff
+  members." **This is a documented 1971 statement of staff-hiring policy questions at Canadian
+  camps** and belongs with the `p_307` thread.
+- **Bob Osborne (Trent University)**, arguing that camp is the natural home of the new naturalism —
+  "This type of philosophy is by no means new to one who has studied Thoreau. The youth of today
+  however are aware of the pressing urgency of their task **while ecologists predict the complete
+  breakdown of life by the year 2000**." His programme proposals: arts and crafts on "creative
+  design rather than simple picture making or assemblage of kits," using natural materials; and
+  music and dance "expanded from note singing of old camp songs to include chanting, hand clapping,
+  screaming and free-form dancing," with a passage that has to be recorded as written and dated —
+  **"A lesson can be learned from the satisfaction that the so called 'primitive' savages obtain
+  from their frenzied dancing around a flickering fire."** Also his observation that camps'
+  own success has produced "the increasing number of transient youths that appear each summer on
+  our roads… the direct application of woodcraft and camping skills."
+- **★ ed la Pierre (Dalhousie; formerly CIT Director at YMCA Big Cove Camp, Nova Scotia)** — the
+  unedited one, and the most confrontational thing in the entire run so far. His diagnosis of why
+  teenagers stop coming: "their needs are no longer being satisfied." His description of what camp
+  is against what the road is: "Camping means to most campers — going to one specific place for a
+  definite amount of time. Being limited to certain boundaries… **Most Canadian camps are
+  unisexual. Most camp administrators and supervisors look upon their authority as replacing that
+  of the parent. Sex is worried about and it is hoped that no accident happens which would put
+  Camp Director Short Pants in the embarrassing situation of relaying the news to dear mother.
+  Control is assured by authority rather than individual responsibility. Most camp directors and
+  senior staff are flagrantly ignorant about drugs.**" His proposals: **"Resident camps should be
+  controlled by the campers themselves. They should become a commune"**; university students with
+  specialised skills hired and **"paid adequate salaries"**; directors appointed for **two-year
+  terms with an M.A. and "varied experiences on the road," evaluated by the campers, staff and
+  supervisors**; and camps near towns becoming **year-round hostels supported by fees and
+  provincial or federal subsidies**. Note that his "evaluated by (a) the campers (b) Staff (c)
+  Supervisors" is the mirror image of the staff-evaluation practice the `p_307` thread has been
+  tracking — a proposal that directors be evaluated by those they direct. Recorded whole because a
+  professional magazine printing it unedited over its committee's objection is itself the fact.
+
+**★ M. C. MacCulloch, "Homesickness: Diagnosis and Preventive Measures."** His third contribution
+(discipline at 83, the dining room at 89), and the most systematic treatment of homesickness in the
+run — set beside the two young counsellors' first-person accounts at issue 85 to see the
+professional and the personal versions of the same problem. **Fourteen causes**, including several
+that are really about class and difference and are worth having on record: "**Inadequate spending
+money, or personal effects in comparison with more fortunate campers**"; "physical handicaps or
+peculiarities, such as stammering, limping, cross-eyes"; "**lack of privacy in the camp cabins**";
+bed-wetting and constipation; being "sent to camp against his will"; and "**No one on staff has
+shown any real concern for him; due to numbers and opening day programming.**" His diagnostic note
+is good: the camper who **withdraws** "does not get the attention of the staff which he deserves,
+by virtue of his being such a 'quiet' camper," and older campers "ashamed of their feelings, will
+disguise homesickness and present their counsellor with what appears to be a distinctly different
+behavioural problem." Twelve preventive measures, several of them concrete camp practice worth
+recording: cabin name evident and decorated with **camper names on bunks and lockers** before
+arrival; a **personal letter from the counsellor** in small camps; camper lists drawn up in advance
+so the counsellor knows the names — **"Nothing makes you feel more insignificant than to watch your
+leader grope for your name on a list"** (with the aside that the same applies to senior staff on
+the first night of pre-camp); a **welcoming committee** for cars and buses, watching for
+"stragglers who arrive early or late"; **cabin name cards above the dining room tables**; and
+**"Nicknames should always be respected. If the camper prefers 'Skip' there is no reason to call
+him 'Wardell' just because your list says so."** On hysteria: "as long as the leader's sanity is
+intact, it should be ignored. Hysteria must have an audience." And his conclusion, which is a
+policy: **"To send the camper home the first day is to cheat him."**
+
+**★ Huguette Dagenais, "Le camp de jour et son transport" — printed in French and in English
+translation by the Administration Centre for Sports and Recreation, Ottawa.** A complete
+procurement procedure for camp bus transport, and unusually specific. On owning versus hiring: if
+staff drive their own cars they must be **21 or older** and must not live at camp, "ce qui rend
+l'évaluation et le réajustement de la programmation difficiles"; if the camp owns buses "le coût
+d'opération est trop élevé… à moins que les autobus ne servent 12 mois." **Tender procedure**: go
+by tender but **"ne pas nécessairement arrêter son choix sur le coût le plus bas"**; specify
+numbers, exact dates and hours, a preliminary route for distance calculation; require commercial
+permits and a copy of the insurance policy for each bus; and — the warning that reads like
+hard-won experience — **"il arrive que les compagnies peu consciencieuses transportent les licences
+et les assurances d'un autobus à l'autre,"** so the director must personally verify that policy,
+permit and serial number all match the same vehicle. She recommends the camp carry **additional
+"non-owner" liability insurance**, and that the whole operation be done **at least four months
+before opening**. During camp: **a monitor on every bus so the driver is not responsible for the
+children**; a named person holding the director's delegated authority for transport, with the camp
+phone number given to drivers; camp rules for drivers supplied in writing; a first aid kit and
+**plastic bags in case children are sick** in every bus; **one driver a mechanic if there are
+several buses**; and drivers "qui aiment et respectent les enfants." Her closing: **"Le succès d'un
+camp de jour repose en grande partie sur son transport."**
+
+**★ "Visitors at Camp?" — four camps' visiting policies, printed together at the editor's
+invitation** ("Let us hear from camps that have a 'No Visitors' policy"). **Camp Ponacka**
+(Morawetz): "**If it were possible, every day should be visitors' day**… In this way the camp
+would run normally and this is what parents should witness"; in practice, three weekends with the
+first discouraged, a changing hut and picnic tables at the beach so families are "independent of
+the camp during meals and swims," and **the programme not changed on visiting days**. **Camp
+Brigadoon** (Flynn): thirty campers and twelve staff, so every day is possible after a two-week
+breaking-in period — with a clear-eyed note on why this doesn't scale: "a camp of two hundred or
+more could not possibly cope with daily hordes of parents, friends, relatives, dogs, Siamese cats,
+budgies and white mice." **Powter's Camp** as above. A useful cluster for any account of Kanawana's
+own visiting-day practice.
+
+**Bruno Morawetz, "Tennis May Be Dear, Sphairee Is Not."** A complete specification for a cheap
+camp racquet game, worth recording because it is the sort of activity that appears in a camp
+programme list without explanation. **Sphairee** (sfy-ree), from Greek *sphaira*, invented about
+1961 by **Frederick Beck of Sydney University**, brought to Peterborough by **John Lucas** of
+Canadian General Electric after two years in Australia. Court **20′ × 9′** on concrete or asphalt,
+net **18″ high**, bats of five-ply wood faced with cork or pimple rubber, ball perforated heavy-gauge
+plastic 2½″ ("In Canada, balls similar to these can be purchased in most sporting goods stores
+under the name, **'Fun ball'**"). Tennis rules with three exceptions — one serve, underhand from
+below the hips, and in singles the server must let the return bounce. Cost: **"To equip one court
+with four bats, three balls and a net, will probably cost less than $15.00,"** no fencing required.
+Camp Ponacka built two courts and was planning a third. Equipment from **Mrs. Kay Lucas, RR #4,
+Peterborough**.
+
+**★ Ann Prewitt, "A Foot Trail Across Canada" — the founding meeting of what became the
+Trans Canada Trail idea.** The cross-Canada hiking trail was originated by **Mr. L. Doug Campbell of
+the Chinook Trail Association, Calgary**, and its **organizational meeting was held at the Toronto
+YMCA on 29 April 1971**, with Prewitt attending **as the CCA's official representative, appointed by
+the Board at Halifax**. Organisations present: Boy Scouts, Girl Guides, **YM-YWCAs**, National and
+Provincial Parks Associations, Department of National Health and Welfare, Waskahegan Trail
+Association (Alberta), **Bruce Trail Association**, Canadian Audubon Society, Federation of Ontario
+Naturalists. Six stated objectives, the first being "**to preserve places of natural and historical
+value**." Coordination through **W. H. Carrick, 387 Kortright Road, Guelph**, of the Canadian
+Audubon Society, collecting maps of existing trails. And a small circulation fact: **copies of the
+Centenary *Journal* were sent to the trail's organisational leaders** — so the 1971 book went out
+beyond the camping movement.
+
+**★ Deputy Chief Bryan N. Mitchell (Etobicoke Fire Department), "Fire-Safe Camping"** — the fullest
+fire-safety document in the run, and physical-plant source material of the same order as Flynn's
+seasonal checklists (issues 80, 81). Site selection: camp **on the north or west side of a clearing**
+so prevailing westerlies carry smoke and sparks away from tents. Fire site: a **large flat rock
+settled flush to the ground** for preference, otherwise a scraped circle **four feet minimum, ten
+preferred**, with **tree roots under the topsoil chopped off "to prevent your campfire from
+tunnelling underground and starting another fire"** — a hazard rarely written down. **A fire permit
+from a ranger or the Department of Lands and Forests.** Never use gasoline, kerosene, alcohol or
+barbecue lighter to start a fire. On leaving: soak until "cool enough to stir with your hands," and
+**"remember to leave a supply of dry firewood for the next camper."** On the new appliances: store
+flammable liquids in **metal containers with a safety vent or spring-loaded lid, painted red and
+labelled — never in glass bottles or plastic water jugs**; L.P. gas is **heavier than air** so leaks
+travel along the ground, with an odourant "similar to that of a skunk or rotten cabbage"; oil the
+leather plunger of a gasoline pump or risk "severe burns to the arms and/or face"; **always fill
+when cool**, never inside a tent, always with a funnel — because **"a gallon of gasoline, when
+completely vapourized, has the explosive power of eighty sticks of dynamite."** Use a flashlight or
+electric light inside a tent, not a gasoline lantern. **Never use a stove as a tent heater** —
+"in an air-tight tent [it] will soon devour the oxygen from the air and cause the sleeping
+occupants to suffocate." The **fire triangle** (fuel, air, heat) with the corresponding
+extinguishing methods, including **baking soda but "never salt, flour or baking powder"** on a
+grease fire. Sidebars: extinguishers hung in convenient locations **with staff instructed in their
+use**; **garden hose with an adjustable nozzle** if pressurised water is available, since "a
+2½-gallon water extinguisher lasts about one minute but a garden hose will last until the well runs
+dry"; annual servicing of all cooking, refrigeration and heating equipment by a qualified
+serviceman; and **lightning safety** — a list of popular fallacies ("lightning follows drafts,"
+"under the bed or in a dark closet is the safest place") and a shelter-preference order ending "keep
+away from small sheds in an exposed location, isolated trees, wire fences, hill tops and wide open
+spaces."
+
+**Margaret Govan, "Thank You, Halifax!"** — the conference of issue 88's announcement, reported.
+**Seventy-five people from across Canada; every province represented except P.E.I.; "we missed…
+the campers from the Territories"; New Brunswick present for the first time.** The delegates were
+made members of **"L'Ordre de Bon-Temps," founded 1606, "the oldest social club in Canada,"** by
+the deputy minister of education. A piper piped the head table in. And the travel, which is its own
+period detail: western delegates came on **"the 'milk plane', an all-night journey with a stop-over
+at almost all the capital cities"**, and other planes were diverted to Moncton with a bus onward,
+"so more than half of us were very sleepy."
+
+**Smaller items.** A **special subscription offer to camp staff at $2.00 a year, "below cost,"**
+enrolled through camp directors — the magazine deliberately broadening its readership from
+directors to staff and campers, and a fact about who was reading it. **Eanswythe Flynn, "It's for
+the Birds"** — planting a camp for birds, with a species-by-species list (buckwheat for Hungarian
+partridge; sumac fruit that "endure the winter to feed Kinglets, Chickadees, Nuthatches, Winter
+Finches, Grosbeaks and Cardinals"; cedars for cedar waxwings, "colour co-ordinated with the trees";
+**pincherry, "known to attract as many as twenty-five kinds of birds at one time"**; mulberry
+planted away from paving "as the berries 'dribble' a deep purple"), a flower list, and the advice
+to save all flower seeds for winter feeding. Recommends **John K. Terres, *Songbirds In Your
+Garden***. Helen Stewart's outdoor cookery continues with Campfire Stew, **Texas Tommies**, the Hot
+Dinner Package, Energy Bars, **Pocket Stew** (the same foil recipe recorded at issue 78, here with
+full quantities and the instruction "no more than 2 layers of tinfoil… Cook in coals — 10 minutes
+on each side"), Skillet Dinner, **S'mores**, and barbecued spiced bananas. A camp for sale
+accommodating **300 campers and staff** on "a private island and mainland acreage in a large
+Haliburton Lake." New advertisers: the **Doctor Brook "life-saving" Airway** for mouth-to-mouth
+resuscitation at $7.95, and **Insect-o-Strip** resin insecticide strips, "12 weeks insect control
+with a single strip in an average 1,000 cu. ft. room."
+
+Nothing in this issue names Kanawana. Its value is Robert Lazanik's election as president of the
+merged Quebec association; the 115-person Quebec seminar on staff policy and camp financing; C. B.
+Powter writing from his own Quebec camp, closing a loop with issue 53's account of its 1893
+founding; the CCA's restructuring into regions; the Publications Committee's printed admission that
+it could not agree to publish the youth-culture articles; and Mitchell's fire-safety document.
