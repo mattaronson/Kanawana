@@ -9462,3 +9462,219 @@ Nothing in this issue names Kanawana directly. Its value is the Montreal executi
 roster, Plewman's participant testimony on the 1893 Ottawa date and on coeducation
 by 1933, Devenney's CIT curriculum, and the first anti-discrimination material in
 the run.
+
+## 65
+
+`canadiancampingmagazine_vol17no2_1965feb.txt` — Vol. 17 No. 2, February 1965.
+
+Contents page (checked against this block): Accreditation — Boon or Bugaboo?
+(W. E. Yard) · Our Cabana (Louise Casselman) · Second Thoughts of a Parent (Lloyd
+Minshall) · Rocks in The Head (Eanswythe Flynn) · Sermons Under the Sun (Elizabeth
+Raymer) · Tales of a Nature Cabin (Catharine Van Wagner) · A Book in Hand ·
+Provincial Reports · Cross Canada Centenary Canoe Journey. All nine covered, plus
+two unlisted departmental items (the accreditation editorial-policy motion, and the
+editorial-committee changes). Cover cut courtesy the Ontario Society for Crippled
+Children.
+
+**Masthead** unchanged from issue 64 (Calgary; Mary Edgar Honorary President; four
+Montreal past presidents; Alta Kahn the Montreal vice-president), **except that the
+Editorial Committee is now chaired by Don Groff**: "After six years of able
+leadership, Mr. Barry Lowes has given up the position as Chairman of the Editorial
+Committee… In his place as Chairman, we welcome Mr. Don Groff of the Kitchener
+YMCA." That dates Lowes's chairmanship to roughly 1959–early 1965 and puts a second
+YMCA man at the head of the national magazine. Also printed: **"Editors to the
+Rescue"** — the June 1964 and February 1965 issues were produced by two former
+editors, **Mrs. G. W. Flynn (Eanswythe Flynn) and Miss Joyce Bertram**, standing in
+during editor Dorothy Douglas's two hospitalisations. Useful provenance: the
+unsigned editorial matter in issues 63 and 65 is Flynn's or Bertram's work, not
+Douglas's.
+
+**W. E. Yard, "Accreditation — Boon or Bugaboo?" — the standards thread reaches its
+public argument.** This read has documented the appraisal instruments in stages: the
+1922 Ontario and Quebec Boys' Work Committee point-scored gradings, the YMCA Camp
+Appraisal Form in use from 1953, the QCA's 1961 all-camp appraisal returns with a
+confidential marking scheme. Here the CCA's own past president argues **against**
+turning any of it into accreditation. His case: the association "is still a
+voluntary association of people and organizations who come together ostensibly for
+the improvement of camping practices," and pressure to make it "a legislative
+organization" reflects "the tendency of one segment of the membership to… favour a
+sort of modern-day 'craft guild'." He grants that self-evaluation followed by a
+director's visit is "a sound educational procedure" and notes that "**some years ago
+the Ontario Camping Association required that… new members must agree to participate
+in a programme of 'self-evaluation'**" — but denies it can support recognition,
+because a four- or five-hour visit to a camp "spread over hundreds of acres" can
+check the garbage pit and the window screens yet cannot "assess the really vital
+factors of 'leadership motivation' and 'character development potential' about which
+every parent is concerned." On the American precedent: "'They accredit camps in the
+States' is another frequent argument… but surely, in this field above all others we
+in Canada do not have to follow someone else's lead." He quotes Edwin Markham ("He
+drew a circle and left me out… We drew a circle and took him in") and concludes that
+"the most important criteria of any camp is the philosophy and motivation of the
+person who directs it," proposing that if anyone is ever accredited it should be
+**directors**, through a separate "professional society of directors" kept distinct
+from the Camping Association. Directly relevant to how a YMCA camp like Kanawana was
+positioned against the private camps, and to what any surviving appraisal return
+actually meant.
+
+**The magazine's controversy policy, minuted.** Printed immediately after Minshall's
+piece: the Editorial Committee asked the CCA Executive for guidance and the Executive
+passed — "That the Editorial Committee of CANADIAN CAMPING be encouraged to accept
+controversial material for publication. If necessary, a clause may be included
+indicating that the views of the author do not necessarily reflect the views of the
+C.C.A." Worth recording as a fact about the source itself: from early 1965 the
+magazine is on record as deliberately printing dissent, which bears on how later
+articles in this run should be read.
+
+**Lloyd Minshall, "Second Thoughts of a Parent"** — written after the 1964 OCA
+Conference parents' panel, at which, the introduction says, the parents "presented a
+rosy picture of the whole field of organized camping, with little or no criticism."
+Minshall's list of what should have been asked is a checklist of mid-sixties camp
+anxieties, several of which apply directly to Kanawana: **land tenure** — "The fight
+for land use in Ontario is just starting. How many actually hold the deed to a
+buffer strip around the area now used? How many own that favourite spot for
+outtrips? Maybe next year it will be privately owned"; **conservation**, which
+"should be taught by someone trained in the subject" and "did not seem to be featured
+at your conference"; photography and what parents actually see of the programme;
+**family camping** ("this does not mean packing a lunch for Father and sending him off
+fishing while Mother keeps fit in the recreation hall and Junior is herded off on a
+hike"); **international camps**; academic summer school in a camp setting; cultural
+programmes on the model of the national youth orchestra; **access** — "is enough
+effort being made to bring the camping experience within reach of all who would like
+it? Is it fair to assume welfare agencies and service clubs should carry this out?";
+a warning against "the glossy, the posh and the sophisticated"; a proposal for an OCA
+brainstorming session on camping's future; and on staffing, "many short-term camps
+are staffed with leadership that is found too casually, too late to be adequately
+trained and too poorly rewarded to really care."
+
+**Provincial Reports — three items of direct value.**
+- **Quebec, in one sentence:** "A recent letter from the Quebec Camping Association
+  states that the membership has decided against a Camping Conference until the end
+  of February, 1966." So **there was no QCA conference in 1965** — an explicit
+  negative that saves a later pass from hunting for its proceedings, and a possible
+  sign of the reorganisation following the 1961 charter.
+- **The CCA Annual Meeting for 1965**: 10–13 March, Island Hall Hotel, Parksville,
+  Vancouver Island, run as a seminar on administration and programming — sessions on
+  financing, food efficiency, building and maintenance, **legal aspects**, staff
+  relationships and delegation, separate streams for "full-time paid staff" and
+  "part-time volunteer staff", **"a session on evaluating your own camp programme"**,
+  and an address on "Leadership — the Keystone to Camping"; outtrips to Cathedral
+  Grove. $40 room and board, $10 registration.
+- **Ontario's conference**: 25–27 February 1965 at the Inn On The Park, headlined by
+  **the Hon. William Davis, Minister of Education for Ontario** — the same minister
+  whose department was then building the school-camping apparatus.
+- Also printed in full: the **Manitoba** CA executive elected October 1964 (R.
+  Douglas, president, YMCA camp; Gordon Stewart, Pioneer Camp; Mrs. M. Shwetz, Camp
+  Kinnaird YWCA; Dr. Ed File, standards, United Church Fresh Air Camp; John Tyler,
+  Boy Scouts) and the **Nova Scotia** 1964–5 executive (Honorary President the Hon.
+  R. A. Donahoe, Minister of Health and Welfare; President Mrs. J. Wesley Campbell;
+  **Centenary Journey, Miss Freda Wales**).
+
+**Cross Canada Centenary Journey — national scale figures, and a fourth dated
+stage.** Mrs. J. Wesley Campbell's statement for Nova Scotia gives numbers this
+project has nowhere else: "There are, in Canada today, a total of **approximately
+sixteen hundred camps in operation, annually serving approximately 500,000 young
+Canadians**. Some of these camps have been in operation since the late nineteenth
+century, and **the Canadian Camping Association itself was incorporated in 1949**."
+The 1949 incorporation independently corroborates the first-hand report in issue 1
+(February 1949) that a new CCA constitution had just been accepted by the Secretary
+of State — and it sits alongside, not against, `facts.json`'s "founded in 1936 with
+Taylor Statten as its first president." **Both dates should be stated in
+`canadian-camping-movement.md`, distinguished as founding and incorporation, rather
+than either replacing the other.** The 500,000-campers figure gives Kanawana's own
+enrolment a national denominator for the mid-sixties.
+
+She also sets out the project's three formal aspects: (1) map and mark the
+transcontinental system of water routes "which formed the famous Water Highways of
+exploration and commerce during the seventeenth and eighteenth centuries"; (2)
+coordinate a programme of canoe trips along the whole system during 1967; (3) publicity
+to make Canadians "aware of these historic water routes, and encourage continued use
+of them," fostering "physical fitness, sportsmanship, wilderness conservation and
+recreation." This is the clearest statement of purpose behind the trip Kanawana's
+crew paddled, and it predates the June 1966 prospectus `centennial-1967.md` cites.
+
+Printed alongside it: **Father Brébeuf's instructions to Jesuit travellers, from the
+Carlton Library edition of the *Jesuit Relations***, framed as the seventeenth-century
+version of a trip leader's briefing — "you must be careful never to make them wait
+for you in embarking"; carry a tinder box "to furnish them fire in the daytime to
+light their pipes"; "You should try to eat their sagamite or salmagundi in the way
+they prepare it, although it may be dirty, half-cooked and very tasteless"; "Each one
+will try, at the portages, to carry some little thing, according to his strength."
+The magazine reprints the seventeenth-century text's "Savages" and "Barbarians"
+without comment. Note this as the reading the Centenary Journey camps were doing —
+issue 64 records a camp reading "the Jesuit Fathers' Recollections" aloud at campfire
+before its Centenary Journey game.
+
+**Eanswythe Flynn (Camp Brigadoon for Girls), "So You Have Rocks in the Head?"** — a
+full geology programme for camps, built out of a maintenance man ("our gem of a
+George") who had been a mine worker during the uranium rush and led the first trips
+to abandoned trenchings for fluorite and apatite. Method: introduce it "casually and
+slowly, if not slyly," name every find against reference books the same day, let a
+counsellor visibly chip and sort specimens outside the craft shop until passers-by
+ask. Brigadoon built a **9′ × 12′ cabin** with two rows of shelving for forty-plus
+labelled samples and a stone tumbler for polishing pendants and cuff links. Safety
+is unusually specific and worth keeping as a period record of what camps knew was
+dangerous: goggles (ski or underwater will do) whenever rock is struck; ten to twelve
+carrying containers per trip so no camper is overloaded; small groups only, because
+abandoned workings are "strewn with caves," small shored caves can collapse under
+"noise vibration, chipping, hammering, tramping feet overhead," crater edges give way,
+"many craters are filled with water, and are bottomless," and old shafts have rotted
+timber and protruding rusty spikes — "There should be as much alert supervision on
+field trips as there is on the waterfront." Books recommended: Pough's *Field Guide to
+Rocks and Minerals*, and English and Jensen's *Getting Acquainted with Rocks and
+Minerals*.
+
+**Catherine Van Wagner (Camp Nominingue), "Tales of a Nature Cabin"** — a Quebec
+Laurentian camp's nature programme in close detail, and a third VanWagner sighting
+after issue 57 (the Nominingue founding) and the catalogue's "Baby Stinkers!" (April
+1964). Nominingue served as **"Assistant Researchers" in the Monarch Butterfly
+banding project run by the University of Toronto Zoology Department** — a citizen-
+science link worth checking against Kanawana's own nature programme and
+`wiki/traditions/environmental-history.md`. The cabin holds monarch caterpillars on
+milkweed in screened cages, dragonfly nymph shells, cicada shells, tadpoles ("only
+three to a jar, please!"), toads, snakes, white mice, rabbits and baby turtles;
+morning walks turn up a wolf spider carrying her egg sac, a vireo's nest low enough
+to pull down, garter snakes hatching; hot Labrador tea and cold sumac lemonade are
+served. The ethic is explicit: "It is good for children to look on these small
+harmless creatures with interest. Too often the 'kill it' instinct is uppermost" —
+illustrated by four campers who caught a baby squirrel, argued, and put it back. On
+staffing: the programme depends on a permanent staff member, "Some knowledge of
+Nature Lore is very helpful, but enthusiasm is the keynote"; senior boys of 14–15
+"seem to have a built-in prejudice about nature being for girls, or the very young,"
+which two senior staff taking it up fixed; and for three years former campers have
+been recruited as nature counsellors and given a pre-camp refresher aimed at "How do
+we arouse and hold the interest of campers and make it fun?" **Conservation is
+stressed** throughout — the same word Minshall says the OCA conference neglected.
+
+**Elizabeth Raymer (Camp Tanamakoon), "Sermons Under the Sun"** — a meditation on
+hands, quoting Waterman, Swinburne, Oxenham and Isaac Watts, moving through hands as
+symbols (the Golden Hand of Guides and Brownies, the clasped hands of agreement, the
+armed fist) to the hands of Jesus and "Father, into Thy hands I commend My spirit."
+Raymer is the same author whose 1963 piece criticised evaluation forms for inviting
+"hypercritical observations" (staff-evaluation thread, `p_307`); this is a second
+dated sighting.
+
+**Louise Casselman, "Our Cabana — An International Experience in Mexico"** — the
+World Association of Girl Guides and Girl Scouts' international centre at Cuernavaca,
+Morelos, forty-seven miles from Mexico City, open since 1957, its gatherings named
+for Juliette Low. Forty participants from fourteen countries; "we returned with some
+knowledge of five races, ten creeds, thirteen nations and, most important of all,
+thirty-nine new friendships." Recorded because internationalism in camping is one of
+Minshall's questions in the same issue and because it dates the WAGGGS centre.
+
+**"A Book in Hand" (reviews)** — Robert A. Mustard's revised *Fundamentals of First
+Aid*, issued by **Porcupine Publications Limited of Montreal** by arrangement with St
+John Ambulance Canada, "discards some traditional practices which are either
+unnecessary, ineffective or impractical, and introduces some new subjects such as
+oral resuscitation, external heart massage," at $1.00 — i.e. **mouth-to-mouth and
+CPR reach Canadian camp first-aid doctrine in 1965**, a datable change in what
+Kanawana's waterfront staff would have been taught. Also Lorell Coffman Burns's
+*Instant Fun*, Margaret Waring Buck's *Along the Seashore*, and Sigurd F. Olson's
+*Runes of the North*. And under **Films**: the National Film Board's three-part
+**"Ages and Stages"** used in a camp's pre-camp staff training — section heads
+previewed it, staff were briefed on what to watch for, then broke into discussion
+groups by camper age. "Even although the films were at least ten years old they were
+full of good situations." A concrete, datable staff-training method and a further
+archival lead (the NFB series is still catalogued).
+
+Nothing in this issue names Kanawana or the YMCA of Montreal directly; the Quebec
+content is the QCA's cancelled 1965 conference and Nominingue's nature cabin.
