@@ -17079,3 +17079,226 @@ not seen named; the Montreal dates for April 1972; Plewman's biography, which pl
 YMCA Boys' Work Secretaryship that this project keeps meeting; Hambly's buildable composting
 system; and, as a document of a quite different kind, Plewman's eyewitness account of Tom
 Thomson's burial.
+
+## 94 — Vol. 24 No. 3, Spring 1972
+
+Contents page checked. All eleven items read: Bulletin du Président; Haida Voyage (Kirk A. W.
+Wipper); Pre-Camp Training, The Critical Period (Walter Greenway); National Camping Day 1972
+(Doug Dent); Chester Lake — Wilderness Encounter (John E. Hanlin); A Hébertisme Course For
+Your Camp? (Walter Mingie); Éducation de la conscience sociale (Michel Corbeil); "Camp Hoax
+Costs Director $25,000 In Legal Damages" (Bob Attfield); Tips (Helen E. Stewart); Camp
+Correspondence — Something Different (Al Goodman and A. Webber); Unemployment Insurance
+Changes (John Latimer).
+
+**★★★ The hoax triangle closes — and the headline was itself the hoax.** I flagged this article
+from the contents page as a damages award and a legal counterweight to Hartry's snark hunt
+(issue 89). **It is not.** Attfield's first paragraph: *"Did you believe the headline of this
+article? If you did, you have just been successfully hoaxed into reading about the value and fun
+of the camp hoax."* There is no lawsuit, no director, no $25,000. The correction matters twice
+over: the contents-page title alone would have put a false legal fact into this record, and the
+article that results is *better* evidence than a damages award would have been — a
+practitioner's how-to, printed in the national magazine, arguing the camp hoax is a thing a camp
+should deliberately do.
+
+Attfield's definition: *"A camp hoax is a dirty, underhanded, ingenious, demonic and dastardly
+plot that will have your entire camp believing that Mrs. Trudeau has just arrived, or that last
+night's explosion was a crashed space-ship, or that the scrap of curved white plaster unearthed
+by the campcraft people is a section of prehistoric GLABERGOOF egg."* Two worked examples at
+"Camp BUMP-ON-A-LOG" (*"The names have been changed to protect the innocent"*): a staged
+spaceship crash on **a balmy night in late July 1968** — campers found a melted automobile
+distributor cap in the wreckage and believed it anyway, and *"a few days later, two R.C.M.P. in
+plain clothes arrive to investigate the explosion"*; and a fake newspaper flash announcing a
+visit from **Mrs. Trudeau**, who duly arrived in a cottager's Cadillac with a uniformed chauffeur
+and stayed for dinner. Named openly, not disguised: **Camp Ponacka's "George the Leprechaun"** —
+green footprints on clothing, walls and foreheads at night, paddles gift-wrapped in toilet tissue
+in the dining hall — which *because* it was non-frightening grew a whole programme around it,
+"an Irish Day, an Irish Pub evening, shamrock cookies, and even a race to the end of the
+rainbow." A photograph is captioned **"Rare Glabergoof egg. Length, 3 feet. Weight, 59 pounds."**
+
+The craft notes are the part that bears on Chopsy. On starting one: *"a whispering campaign may
+provide the answer,"* with a sample aside to "a talkative camper" about yellowish rocks from the
+campcraft booth being part of a gold vein. On seniors: *"If your plan is especially sophisticated,
+you can baffle the sharpest of your seniors. If not, for goodness sake let them in on the action,
+or they will destroy the whole show"* — the mechanism by which a camp's older campers become
+co-custodians of a legend rather than its debunkers. And a stated limit, with a parody camper
+letter home to make the point: *"The best camp hoaxes always seem to combine the greatest amount
+of imagination with the least amount of scare … It's great for kids who can take it, but a
+pretty poor idea if the goal is to scare the life out of them."*
+
+**★★ Greenway, "Pre-Camp Training, The Critical Period" — a hoax named as a camp tradition
+formally taught to staff.** Walter Greenway is also of **Camp Ponacka**, so this issue carries
+two Ponacka staff on the same practice. Nine objectives for pre-camp; objective 3 is *"To pass
+on traditions and established practices"*: *"one of the camp's most precious possessions, its
+traditions, should be explained and discussed with the staff. Whether it is celebrating birthdays
+with the Saturday morning throw-in, **a hoax**, or an Indian Programme, the staff must be ready
+to participate actively to make them a success."* That is the transmission mechanism stated
+outright — a hoax is not an outbreak, it is curriculum, handed over deliberately at pre-camp to
+each year's new staff so it survives them. Taken with Hartry's snark hunt (issue 89, invented
+1968 and still running when he wrote it up three years later) and Attfield here, three items
+across two issues describe the same practice from three sides: how one is built, how one is
+taught, and how one persists. **Directly actionable for `p_045` (Chopsy).**
+
+The rest of Greenway is a full week-long pre-camp timetable reproduced as a grid, Friday staff
+arrival to Friday campers arrive at 5:00 p.m. Substance worth keeping: work gangs deliberately
+mixing old and new staff (*"they should not be regarded simply as a source of cheap labour"*);
+an "ice breaker" first session at which every staff member brings a cabin game — "Pat and Mike",
+"blowball", "Who is the leader"; a heading **"Beware of Fatigue"** prescribing a night off and
+transport to town before campers arrive, followed by a late breakfast; **all staff including
+kitchen and maintenance** attending sessions ("bridge building"); the warning that *"too often a
+discussion can be a 'pooling of ignorance'"*; and the director's role as active but *"extremely
+careful not to overpower his staff so that the sessions become nothing more than monologues."*
+A continuation page lists free pre-camp training material by supplier — Canadian Mental Health
+Association, Canadian Water Ski Association, Department of Transport ("Safety Afloat"), Ontario
+Safety League, the Royal Bank of Canada Monthly Letter on leadership and management, Canadian
+Red Cross Water Safety Division — plus OCA reprints and Conference Digests sold at cost, and
+the University of Ottawa Department of Recreology canoeing instructor's course.
+
+**★★ Wipper, "Haida Voyage."** The commissioning, carving and launching of a **Haida dugout in
+1971**, marking both British Columbia's centenary and **Camp Kandalore's twenty-fifth anniversary
+— which dates Kandalore's founding to 1946**. Named: **Victor Adams** and **Adam Bell**, of whom
+Wipper writes that *"out of the 1800 surviving Haidas only [they] had any idea of how to build
+this ancient craft"*; Adams's daughter retouched the art work and "has resolved to attend art
+college"; arrangements made through **Harold and Marion Penny**, reinforced by **Claude and Susan
+Cousineau**; an air lift to Masset in mid-August with Cousineau and Jean-Pierre Faubert. Sources
+quoted: **Fraser Symington, *The Canadian Indian***, and **Archdeacon W. N. Collison, *In the
+Wake of the War Canoe***, for a Haida fleet of forty canoes under sail.
+
+Two passages to record as written and dated, for `indigenous-place-names-and-land-history`. At
+the launching Wipper observes: *"the children became passengers in their native craft, but the
+art of paddling is lost for them. This fact is regrettable."* And at Skidegate the party found
+**an old unfinished Haida canoe abandoned in the forest, its builders "silenced by the smallpox
+epidemic"** — *"mute evidence of an occurrence that had nearly destroyed the Haidas and their
+culture forever."* The voyage narrative concludes at Tow Head, the paddlers landing at a small
+river with sea otters, salt-water loons and bald eagles; a ceremony the next day at Prince Rupert
+marked *"the transfer of the canoe from Haida to Algonquin territory"*, and the canoe then
+travelled east — **Chief Kitpou of British Columbia** managing the voyage as far as Thunder Bay,
+the rest by Hill Security, a winter on display in Toronto at the **Ontario Institute for Studies
+in Education**, and a final leg in spring to Wipper's **North American Primitive Craft Museum**.
+Wipper also records Haida canoe conventions: landing stern first signified peaceful purpose, bow
+first meant disembarkation for battle; paddlers chanted in unison, three thrusts and a pause. A
+1971 non-Indigenous account of an Indigenous craft revival, to be used as period voice with its
+frame stated, not as neutral description.
+
+**★★ The CCA constitution revision — and a correction to my note in the last block.** The
+constitution project appears as the **"Bulletin du Président"**, in French only, and it is
+**signed John Latimer as President**, who gives over his regular column to **Stan Wild, "le
+responsable du projet."** (My working note had Wild signing in Latimer's slot; it is Latimer's
+column, ceded to Wild, over Latimer's signature.) The board met **at Halifax in April** to study
+the constitution. What the revision proposes: the Association's name becomes **"THE CANADIAN
+CAMPING ASSOCIATION — L'ASSOCIATION DES CAMPS DU CANADA"**; publication of documents and
+training courses **in both official languages**; a board member representing **"les colonies de
+vacances d'expression françaises du Canada"**; the five regional vice-presidents replaced by one
+board member per provincial or territorial association plus a **single** vice-president; two
+voting systems — one vote per board member for administrative decisions, **postal voting weighted
+by membership** for national ones; the CCA redefined as **"une fédération nationale, reflétant les
+deux langues officielles, composée des associations provinciales et territoriales des camps au
+Canada"**; seven membership categories; and affiliation invited from the Guides, Scouts and
+YM-YWCAs. Target: adopted and in force by the end of 1972.
+
+**★ The 1972 officer roster, with two asterisks that matter.** Honorary President **Miss Mary S.
+Edgar**; President **John Latimer**; Past President **Rev. David Hartry**, Halifax; vice-presidents
+Tom Creighton (Atlantic), **Robert Lazanik, 5165 Sherbrooke West, Montreal** (Quebec), Jack Pearse
+(Ontario), **Mrs Eileen Mayotte**, Regina (Prairie), Mrs Tanya Krisman (B.C.); Treasurer Brian
+Graham; Secretary Rick Bendera; Publications Committee chaired by Don Groff with Joyce Bertram,
+Eanswythe Flynn, Margaret Govan, Jean Darrach, Jocelyn Palm, Bruno Morawetz, Kirk Wipper, Helen
+Stewart, Huguette Dagenais, Brian Blackstock, Paul Rushton, Bob Attfield, Wm. Henderson. Past
+presidents are listed with asterisks on **\*Taylor Statten, Toronto; \*Dais L. Gass, Montreal** —
+both dead by Spring 1972, which dates Gass's death to before this issue and is the first bound on
+it this read has produced. The unasterisked Montreal past presidents are **Anne I. Vail, F. M.
+Van Wagner** and **Kenneth H. Murray**, all three living in 1972. National office: Suite 203, 102
+Eglinton Ave. East, Toronto 315.
+
+**★ Mingie, "A Hébertisme Course For Your Camp?" — a second and conflicting origin story.**
+Walter Mingie, Director of **Camp Carowanis**, writing from three summers' experience. His account
+of Hébert: he *"was charged with the responsibility of training or conditioning the men of
+France's navy **during World War I** … giving the men three week's training on an obstacle course
+in the forests of France."* **This conflicts with Cousineau at issue 82**, whose account is of a
+pre-war *méthode naturelle* demonstrated in 1913 and carried to Quebec after the Second World War
+by Cloutier and Gauvreau. Both recorded; neither resolved. A third fact from Mingie is
+independently useful: **"The Quebec Department of Education has recently recommended in their
+norms that provision be made for a hébertisme area when land for a school is obtained."**
+
+Practice detail, all of it directly comparable to camp rope courses: a course of about three
+acres, *"nearby camps have courses covering up to five acres"*; all apparatus natural or built
+from trees, logs and branches with only rope, wire and nails supplied; one senior staff member in
+charge who must approve every apparatus; supervision of axes, rope-tying and bolting; the course
+rebuilt each season as campcraft projects for tent groups in the first week; and **a flagpole and
+flag at the course entrance, "similar to the waterfront, in order to indicate when the course is
+open."** A nineteen-item apparatus table is printed with construction specifications and intended
+use for each — Tarzan, tire jump, spider web, balance beam, log wall, tunnel, stump walk, Z-bar,
+horizontal ladder, monkey bars, rope ladder, vertical climbing rope, horizontal rope, chin-up bar,
+tire tunnel, boulder climb, monkey bridge, téléférique, elevator. On racing: *"the fun derived
+from becoming good on a particular apparatus is motivation in itself, races are not really
+necessary. Indeed, some apparatus is not suitable for races and it would be dangerous to try and
+race on them."*
+
+**★ Dent, "National Camping Day 1972."** **Wednesday 19 July 1972**, all camps celebrating
+**simultaneously at 9 p.m. Pacific** — midnight Eastern, 1:30 a.m. Newfoundland — climaxing at a
+special campfire by **shooting a flaming arrow toward the north**, then "Taps", then the flag
+lowered to **"My Country is my Cathedral"**. Five stated objectives, all publicity-facing.
+
+**Corbeil, "Éducation de la conscience sociale — l'expérience du camp familial Bleu et Blanc"**
+(reprinted from *RELATIONS*, October 1971). Four Montreal family agencies began work in
+**September 1970** to build a family camp conceived as social-conscience animation, drawing
+families from **Saint-Henri, Pointe-Saint-Charles, Lafontaine and Verdun**. From **25 June to 21
+August 1971** the camp, at **La Conception north of Saint-Jovite**, received **64 families**,
+sixteen at a time for fifteen days, grouped by home district. Prepared by an executive of twelve
+couples, three representatives from each district; supported by the Haut Commissariat aux loisirs
+et aux sports, the ministère des Affaires sociales and Perspectives-Jeunesse. Corbeil's argument
+is that a leisure civilisation reads as utopia to people still working sixty-hour weeks, and that
+the camp's point is *"éduquer la conscience sociale"* — *"il faut libérer la personne exploitante
+aussi bien que l'exploité."* What he claims worked: the family unit kept intact, so adolescents
+argued about schooling, available leisure and drugs *in front of their parents*, who "pour la
+première fois, constataient la pertinence des questions de leurs enfants"; children rediscovering
+a father "habituellement absent à cause de son travail"; families continuing to meet back in the
+city. What he concedes: *"Certaines familles plus aliénées, plus écrasées, prennent du temps à
+passer de la consommation passive à une certaine forme de participation. D'autres demeureront
+dépendantes malgré les efforts de leur entourage."* A 1971 Montreal social-agency camp with an
+explicit class politics, worth holding beside the YMCA's own fresh-air and subsidised-camper
+tradition.
+
+**Hanlin, "Chester Lake — Wilderness Encounter."** John E. Hanlin, President of the Alberta
+Camping Association: a first-year two-week alpine climbing and hiking school for 14–17-year-old
+scouts, July 1971, with a day-by-day log, a six-part skills list (camp skills; survival, including
+"the wilderness supermarket" and "warding off emotional stress"; nature study; tracking;
+orienteering; rock climbing), three campers' verbatim evaluations, and the closing note that
+*"the peer group chose the various routes… This approach requires a high degree of trust and
+faith in our youth! BUT IT WORKS."*
+
+**Goodman and Webber, "Camp Correspondence — Something Different."** Al Goodman, Director of Camp
+New Moon, prints three poems a Toronto grandfather, **Allan A. Webber**, wrote to his
+granddaughters Tami and Karen at camp. The first sets them a nature-lore challenge — twenty-five
+trees and birds named for a prize — and Goodman reports the cabin took it up and it "gave a great
+lift to our nature program." The second is the historically useful one: Webber writes that he was
+himself a camp counsellor and swimming instructor *"many years ago"* at a camp **near Orillia on
+Lake Couchiching** which *"didn't cost a penny / For it was just for boys / Whose parents had no
+money"* — an undated first-person recollection of a charity fresh-air camp, including the
+scrubbing-down of arriving campers, the deliberate feeding to "fatten them a bit", and the
+closing couplet *"And now and then I chance upon / Some man at an affair / Who came to camp a
+poor boy / And is now a millionaire."* Period voice on the fresh-air camp's own self-image, and a
+useful comparator for the YMCA's subsidised-camper material.
+
+**Stewart, "Tips."** Three methods of lighting steel wool on the trail (two flashlight batteries;
+a magnesium match struck with the back of a knife or hatchet; flint and steel), with steel wool
+to be carried in a plastic bag for bad weather. Then wasp-nest removal advice from **Mr. J. G.
+Kurys, Ontario Department of Pesticide Control** — bagging the nest, and *"A humane way to
+dispose of wasps is to place the plastic bag in a refrigerator,"* which induces dormancy so they
+can be released away from the campsite; or lifting a nest on a long stick on a dewy night, the
+wasps' wings being too damp to fly. Also, unattributed: *"A Leader in this day and age must
+listen in order to lead."*
+
+**★ Latimer, "Unemployment Insurance Changes."** A camp-employment fact of the kind that dates
+staff records: from 1972 counsellors and instructors in summer camps are **in insurable
+employment**, premiums payable by employee and camp; **citizens of other countries working in
+summer camps are not exempt**; **there is no minimum age exemption**; camps operated by a
+charitable institution get a reduced rate for **1972, 1973 and 1974**; and **camp personnel
+otherwise employed as teachers and nurses are no longer exempt**. This is the year staff at a
+YMCA camp start generating federal employment records, which is a real archival lead: after 1972
+there is a paper trail on summer staff that does not exist before it.
+
+Advertising: **Tremblay Canoes** now list *"Ontario Provincial Police, the Ontario Dept. of Lands
+& Forests and the Dept. of Mines also the Quebec Dept. of Natural Resources"* among Verolite
+users. **Chestnut Canoe Co., Fredericton** — "over 70 years of service to Canadian campers", over
+45 models. A CNA Assurance back-cover advertisement for **"Camp-Guard"** camp insurance, written
+as a camper's letter home about a dentist's bill after a tent-peg accident. No Kanawana, no YMCA
+of Montreal reference in this issue.
