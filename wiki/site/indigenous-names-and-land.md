@@ -1,7 +1,7 @@
 # Indigenous Place Names and Land History
 
-*Status: R3-verified | Sources: 14*
-*Last Updated: 2026-06-26*
+*Status: R3-verified | Sources: 15*
+*Last Updated: 2026-09-04*
 
 ## Overview
 
@@ -46,6 +46,14 @@ identified in any known source.
 
 Under Harold Cross's directorship (c. 1925-1928), the camp expanded what McMorris terms "Indian programming": a totem pole was added to the Council Ring in 1927, and a teepee constructed from old canvas.^7 The "Council of Tribes" ceremony (c. 1925-1927) featured a Big Chief presiding over four Little Chiefs.^7 The "Zuni Council" script (1931) was a multi-part drama featuring settler-Indigenous conflict culminating in a Jesuit priest healing sick braves.^7
 
+**Where the practice came from, in a founder's own words.** Kanawana's totem pole, Council Ring and Council of Tribes were not local inventions; they were the Canadian branch of a programme idea that arrived from American camping through the YWCA and YMCA training systems in the 1910s. The clearest first-hand account of that route was given by **Mary S. Edgar** — founder of Glen Bernard Camp, first vice-president of the Canadian Camping Association, honorary president of the CCA by 1972, and, immediately before all of that, **director of Camp Oolahwan, the YWCA of Montreal's Laurentian camp**. Speaking in the Glen Bernard chapel on 15 August 1971 at the camp's fiftieth anniversary, she answered the question she said she was often asked, "How did you get the idea of the Indian theme?"^15
+
+Her answer names three moments. About 1899, when she was ten, the Mohawk poet **Pauline Johnson** performed in Sundridge, Ontario, and stayed as a guest in the Edgar family home. In the summer of 1900 her father's launch failed in a storm on Lake Nipissing and the party was rescued by "two Indian friends of my father from the Dokis Reserve," who brought them in two canoes to Sturgeon Falls: "We felt that we owed our lives to them. We had a debt to pay." And during her **YWCA training course in New York, 1914–15**, she met **Ruby M. Jolliffe**, Superintendent of State Camps for New York and New Jersey, and at Jolliffe's Bear Mountain cabin met a storyteller Jolliffe "often engaged … for Council Ring programs"; the two of them, Edgar writes, "gave me a great deal of information on Indian traditions and customs."^15
+
+That is a documented pipeline — American state-camp practice, taught through a national training school, carried by a newly trained director into a Montreal camp and then into her own. Edgar directed Oolahwan from about 1915 to 1919, in the same decade and the same mountains as Kanawana, and Kanawana's own council-ring material dates from the following decade. The talk does not mention Kanawana and is not evidence about it. What it establishes is that when a Laurentian camp of this period adopted a Council Ring, it was adopting something with a known and traceable provenance in the professional camping movement, rather than responding to anything local.
+
+Edgar's talk is also worth reading whole for how unresolved it is. She tells her campers that "this country which we proudly call 'This land of Ours', once belonged to the Indians"; she calls the July 1971 *Life* magazine survey of Indigenous North America "a story to make one blush with shame"; the camp's fiftieth-year project was a fund to bring Indigenous girls to camp, still unrealised at the time of the talk because "it takes time to work out worth-while arrangements." In the same talk she describes fifty years of campers being made members of tribes, a totem pole carved by campers, and her own camp name conferred on her by a visiting Ojibway chief. Debt, admiration and appropriation sit together in one document without the speaker appearing to feel a tension between them. For understanding what a camp of Kanawana's generation thought it was doing, that is more useful than either a defence or a condemnation would be.^15
+
 An "Indian Grave" marking existed on the Kanawana camp map, though no documentation has been found explaining whether this referred to an actual burial site, a naturalistic feature, or a campfire-story location.^8
 
 ## Pre-Colonial and Land History
@@ -87,6 +95,7 @@ The Kanawana site sits in the municipality of Saint-Sauveur, in the Laurentian h
 12. Phase 2 indigenous/land-history research (recovered June 2026): Weskarini dispersal (1653 Petit Lac Nominingue), Laurentian archaeology since 2015 (Lamothe, Taché, Tremblay), Rivière du Nord course.
 13. YMCA Camp Waabanaki renaming, 2023 [src_waaseyaa_camp_traditions_2023]. See [f_0831].
 14. Parish, Frances. "The Journey to Reconciliation in North American Summer Camps," *McGill International Review*, 24 January 2024 [src_mironline_reconciliation_camps]. Read in full; contains no mention of Kanawana, Otoreke, the YMCA of Montreal, Montreal or Quebec. See [f_2205].
+15. Mary S. Edgar, "Our Indebtedness to Our Indian Friends," a talk given in the Glen Bernard Camp chapel, 15 August 1971, printed in *Canadian Camping* Vol. 24 No. 4 (Summer 1972), pp. 13-14, 20. Read in full during the word-for-word pass over the cached 1949-1988 run [src_ia_canadian_camping_collection].
 
 ## Research Notes
 

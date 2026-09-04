@@ -17302,3 +17302,217 @@ users. **Chestnut Canoe Co., Fredericton** — "over 70 years of service to Cana
 45 models. A CNA Assurance back-cover advertisement for **"Camp-Guard"** camp insurance, written
 as a camper's letter home about a dentist's bill after a tent-peg accident. No Kanawana, no YMCA
 of Montreal reference in this issue.
+
+## 95 — Vol. 24 No. 4, Summer 1972
+
+Contents page checked (the page itself is misprinted "Vol. 24 No. 3"; the file and the cover are
+Summer 1972). All items read: National Camping Day 1972 (Doug Dent); The Summer Camp Experience —
+One Mother's Viewpoint (Dorothy Sims Attfield); Aquatic Danger: Spinal Injuries (Jocelyn Palm);
+Flash! Re: Unemployment Insurance; Our Indebtedness to Our Indian Friends (Mary S. Edgar); Age
+Group Characteristics in Camp (Brian Blackstock); What's With Your Storage (Eanswythe Flynn);
+Enjoyment of Mutual Aid Holidays / Plaisirs de l'entraide et des vacances; In Tribute — George
+Sharpe, Tanya Krisman, James C. Moore. Plus a Prime Minister's message printed in facsimile.
+
+**★★★ MARY S. EDGAR, "Our Indebtedness to Our Indian Friends" — the founding generation of
+Canadian camping explaining, in her own words, where camp "Indian programming" came from.** A talk
+given in the Glen Bernard Camp chapel on **Sunday 15 August 1971**, as part of the camp's
+fiftieth-anniversary ceremonies, reprinted here. This is the single most useful document this read
+has produced for `wiki/site/indigenous-names-and-land.md`, and it is useful for an unexpected
+reason: it is a first-person account of the *channel*, not the practice.
+
+**★★ It also settles a Kanawana-adjacent fact directly.** Edgar states plainly: *"When I was
+director of Camp Oolahwan in the Laurentians, (the Montreal Y.W.C.A. camp), it was difficult to
+have a council ring ceremony, for our campers changed practically every week."* Three things at
+once — her own confirmation that she directed Oolahwan; **her spelling, "Oolahwan"**, which is the
+one this wiki uses and which corroborates it against the "Oolawhan" of the Halliday tribute at
+issue 90; and a real programmatic fact about the camp, that its intake **turned over roughly
+weekly**, which is why the council-ring form could not take root there. It is also the stated
+reason she wanted a camp of her own.
+
+Her account of how the "Indian theme" reached her camp, given because she is *"often asked, 'How
+did you get the idea of the Indian theme?'"*:
+- Aged ten (so about 1899), **Pauline Johnson, "the Mohawk Princess,"** performed her dramatic
+  poems in Sundridge and **stayed as a guest in the Edgar family home**. *"I was fascinated, and
+  wished I were related to her."*
+- **Summer 1900**, on a fishing trip with her father on Lake Nipissing, their launch failed in a
+  storm and they were rescued in two canoes by **two friends of her father from the Dokis
+  Reserve**, who brought the party safely to Sturgeon Falls. *"We felt that we owed our lives to
+  them. We had a debt to pay."* The debt figure governs the whole talk.
+- **YWCA training course in New York, 1914–15**, specialising in club and camp work, where she met
+  **Miss Ruby M. Jolliffe, Superintendent of State Camps for New York and New Jersey**, a lifelong
+  friend, and at Jolliffe's Bear Mountain cabin met **"Princess Ti-ata" from a southern tribe**, a
+  storyteller Jolliffe "often engaged … for Council Ring programs." *"They gave me a great deal of
+  information on Indian traditions and customs."*
+
+That is the transmission route stated outright: American state-camp practice, via the YWCA
+national training school, into a Canadian camp director's programme — arriving in Montreal at the
+YWCA's own Laurentian camp before going on to Glen Bernard. Kanawana's totem pole (1927), Council
+Ring and "Council of Tribes" belong to the same period and the same movement, and this is the
+clearest contemporaneous statement of the pipeline the wiki has.
+
+Also from the talk, all datable and checkable:
+- **The founding sequence for Glen Bernard.** *"In July 1921 when I returned with my parents from
+  a trip around the world, I was eager to get to work on my dream — 'a camp of my own'. On the
+  first trip to my new property on Lake Bernard I discovered the Glen, a perfect amphitheatre for
+  a Council ring. It seemed quite natural then to name the new camp Glen Bernard."* The wiki has
+  the property purchased in **1920** (Trent finding aid) and the camp opening in **1922**. Edgar's
+  own account is compatible and explains the gap — bought 1920 while she was abroad (the
+  four-month YWCA posting in Japan, then the world trip), **first seen July 1921**, opened 1922 —
+  and it makes the Council Ring the reason for the site and the name, not a later addition.
+- **The old totem pole at the entrance to the Glen was carved by campers**; by 1971 "Time and the
+  woodpeckers" had damaged it "probably beyond Repair," and a taller replacement was being carved
+  for the fiftieth anniversary by **Mr. Tom Bowie of the Ontario College of Art**.
+- **Every camper made a member of a tribe**, with council ring "practically every Saturday evening
+  for fifty summers."
+- **Three named Indigenous guests over fifty years**, with dates. **Dawendine**, daughter of a
+  Mohawk chief from the Six Nations Reserve, invited in **1934** after Edgar read a newspaper item
+  about a talk she gave in Brantford; she came to the Camp Banquet at the Granite Club, then to
+  camp, where a cabin was named for her; she returned the following summer, walking the four and a
+  half miles from the station before dawn with a suitcase and a paddle, and gave Edgar a paddle her
+  father had cut and shaped, decorated by Dawendine with the totems of the six tribes. Edgar used
+  it on every canoe trip thereafter and **gave it back to Dawendine when she returned to camp in
+  1969**. Edgar quotes her poem in tribute to her father, **Chief Sahrenhowane of the Mohawks**.
+  **Chief Mudjeekwis of the Ojibways, from the Rice Lake reservation**, whose visit is told in
+  verse in Edgar's *Woodfire and Candlelight*; he told a legend of an Ojibway chief's daughter who
+  asked for a camp-site of her own to teach the children of the tribe — a founding-myth-shaped
+  story for the summer camp itself — and then named Edgar **"Ogimagua, Children's friend"**, which
+  is how she acquired her camp name. **"Nanaki" of the Blackfeet**, met by **Helen Stewart**, a
+  former camper-counsellor, on the ship home from the **coronation of Queen Elizabeth**, which
+  Nanaki had been chosen to attend representing Canada; she came to the Council Ring in the beaded
+  white doeskin costume made for the coronation. **Nanaki's English name is given as Norah
+  Gladstone, daughter of the late Senator Gladstone, "the only Indian who has ever been chosen to
+  sit in the Senate of our country."** (That is **James Gladstone**, Canada's first Indigenous
+  senator; Edgar writes "the late" and "He retired last spring" in the same paragraph, which
+  cannot both be as printed — a reprint artefact to note, not to resolve here.) Edgar's successor
+  **Barbara Gilchrist**, sixteen summers at the Council Ring, was named by Dawendine
+  **"Yeh-jenh-hi-yos-tah", "One who keeps the fire burning."**
+- **The period voice, recorded as written.** *"We need often to remind ourselves that this country
+  which we proudly call 'This land of Ours', once belonged to the Indians."* And, on the July 1971
+  *Life* magazine special edition on the Indian in North America: *"It is a sad story. It is a
+  story to make one blush with shame. They have not had a fair deal."* Then: *"we hope the Indians
+  will treasure their old legends, customs and traditions and that the white race will learn to
+  appreciate those things that are unique and precious in their culture."* The fiftieth-year
+  project of the old campers was **a fund to bring Indigenous girls to camp**, which had not yet
+  happened — *"we found it takes time to work out worth-while arrangements"* — deferred to the
+  following year. A 1971 statement of debt, sympathy and appropriation held together in one talk
+  by a woman who had been doing this since 1921, and useful precisely because it does not resolve.
+
+**★ The Quebec association's structure, printed as an address block.** The provincial-offices list
+gives, in one entry: *"L'association des camps du Québec, and Quebec Camping Association — 952
+Cherrier St., Montreal, Quebec. **Robert Lazanik, pres.** English section: 2233 Belgrave, Montreal
+261 (**Peter Van Wagner**, Pres.) section française 952 rue Cherrier, Montreal (**Rosaire Corbin**,
+Pres.)"* — one association, two sections, three named presidents, exactly the structure Lazanik
+described historically at issue 83. Note **Peter Van Wagner** heading the English section while
+**F. M. Van Wagner of Montreal** stands in the CCA's past-presidents list; a family relationship is
+likely but is not stated and is not being asserted here.
+
+**★ Three obituaries, all dated.** **Tanya Krisman**, B.C. vice-president of the CCA, **killed in a
+motor accident on 28 April [1972]** — she is on the masthead in the Spring issue and gone from it
+here. An active YWCA Vancouver worker, she had envisioned a year-round outdoor centre on **Salt
+Spring Island** and would have been director of the new **Camp YaWaCa** that summer; she left a
+husband and two young daughters. **George Sharpe**, "Mr. Gibbons Foods," died **the previous
+June**; he had become president of the firm on the death of his father-in-law, who founded it.
+**James C. Moore ("J.C.")**, died **Saturday 10 July 1971**, Boy Scouts of Canada, involved with
+the **Haliburton Scout Reserve from its founding in 1947** ("a few experimental Camps") to 1970,
+when it was running about **350 campers per week**; OCA board member representing the Boy Scouts,
+Greater Toronto Region. Eulogy by Ian E. Jones quoted at length.
+
+**★ National Camping Day — the prior history, which corrects the picture from issue 94.** Dent, as
+committee chairman, gives the sequence: **1957 and '58 (he believes) Canadian Camp Week**, dropped
+on that committee's own recommendation; **1967 the biggest attempt**, for Centennial; **1968
+curtailed by the postal strike**; **nothing in 1969**; the committee re-created **in 1971**, with
+the day climaxing in the simultaneous singing of "Taps" by time zone. So 1972 is a revival of a
+revival, not a new thing. The 1972 sequence is printed step by step, with the exact zone times
+(9 p.m. DST Pacific through 1:30 a.m. Newfoundland), and — memorably — **half a column of safety
+instructions for the flaming arrow**: bind a 3-inch by 10-inch burlap swath to a good arrow with
+fine wire, soak the binding in coal oil or kerosene *"for a few hours before use (not 60 seconds
+ahead of time in gasoline!)"*, fire toward water if possible, and *"pick an archer who will fulfill
+that responsibility as is required — possibly an award to a senior camper."* Generators to be shut
+off so as not to detract from the setting.
+
+**★ Two camp song texts printed in full**, for the songs-and-cheers thread (`p_048`): **"Taps"**
+("Day is done / Gone the Sun / From the lakes, from the hills, from the sky / All is well safely
+rest / God is nigh") and all four stanzas of **"My Country is My Cathedral"** ("Side by side and
+step by step / Our fathers were marching along … My country is my Cathedral. / The northern sky
+its dome. / They all call it Canada / But I call it home"). The music was held by provincial
+co-ordinators, not printed. A national camp song circulated top-down through the CCA in 1972 — a
+different transmission path from the ones this project has traced so far, and one that would
+explain a song turning up at Kanawana without any local origin.
+
+**★ Trudeau's message, printed in facsimile in both languages**, over a photograph captioned "John
+Latimer and Prime Minister Pierre Elliott Trudeau." He quotes himself on wilderness — *"Denied an
+opportunity to breathe the brisk freshness of an Atlantic gale, to view the unbelievable glory of
+a prairie sunset, to feel the overwhelming silence of a northern lake, we would no longer be
+Canadians"* — and gives the CCA's participation figure as **"almost half a million young Canadians
+who participate in organized camping activities each year."** The Prime Minister was to proclaim
+National Camping Day.
+
+**Jocelyn Palm, "Aquatic Danger: Spinal Injuries."** Written as Executive Secretary, Ontario
+Branch, Royal Life Saving Society Canada. A full clinical and rescue protocol with diagrams —
+three in-water traction carries, the spineboard knifed in beside the victim and floated up
+underneath, head braced with rolled wet towels or sand bags, no hyperextension of the neck for
+artificial respiration, a minimum of three and preferably five rescuers. The statistic is the
+citable part: **"In one hospital in Toronto 523 cases of paralysis from the neck down have been
+treated prior to 1972; 109 of these cases were a result of diving accidents,"** sourced to Megan
+Wynne-Jones, M.D., of **Lyndhurst Lodge Hospital**. Prevention standards given as minimum depths —
+**9 feet for a one-metre board, 12 feet for five metres, 15 feet for ten** — plus marking of
+underwater hazards (cribs, rocks, shoals) and the diver's flag at 100 feet. Bibliography of five
+medical papers. Directly relevant to any waterfront-safety article, and to dating when these norms
+became standard expectations at accredited camps.
+
+**★ Brian Blackstock, "Age Group Characteristics in Camp."** Director of **Camp Mazinaw**;
+findings from a study he made at the camp, financed by **The Neathern Trust** and presented
+earlier to **The Society of Camp Directors** (the body whose inaugural dinner date is one of this
+read's open conflicts). Written expressly "to assist Camp Leaders in their staff training
+programs." Six age bands — 8–9, 9–11, 11–12, 12–13, 13–14, 15–16 — each a list of characteristics
+and the counsellor's changing role, from "very dependent on counsellor for direction and support"
+at 8–9 to "counsellors should be very observant but in the background" and *"'silent lessons' — by
+example are most effective"* at 15–16. His framing sentence is the quotable one: children in a
+natural environment "will discern that the 'GAP' in our society is not one of 'GENERATION' but one
+of 'VALUES'." A staff-training document of exactly the kind Kanawana would have used, from the
+same years and the same professional body.
+
+**Dorothy Sims Attfield, "The Summer Camp Experience — One Mother's Viewpoint."** Four sons, all
+campers, one a counsellor. Argues self-confidence is the real gain, via an anecdote from **the
+late Dr. Hincks, founder and then head of the Toronto Mental Health Association** — the shy boy
+who rode his bicycle slowly at recess because he had nothing else to do, for whom a teacher
+invented a slow bicycle race on sports day, and who turns out at the end of the story to be Hincks
+himself. Her recommendations: choose counsellors "as much for their perceptual skills,
+understanding and kindness as for the more obvious qualities of leadership and physical skills";
+look under surface behaviour for feelings of inadequacy; give the bully or the "chronic beefer"
+*more* responsibility, not less; and hold campfire **"talkathons"** alongside singsongs.
+
+**★ Eanswythe Flynn, "What's With Your Storage."** A four-page winterising checklist for a camp
+that closes down — piano left in place uncovered with the keyboard exposed and a cup of powdered
+camphor inside against mice; mattresses left on the beds with naphtha flakes and cedar fronds and
+**never stacked, on Fire Department advice**; envelopes left over winter self-seal "beyond all
+hope of using"; oily rags to the dump and never the camp incinerator; temporary log studs between
+floor and beams under long spans against snow load, "quickly knocked out in the spring"; windows
+covered because grouse and partridge fly through clear glass; canoes stored keel up, supported at
+bow and stern thwarts. Read as evidence rather than advice, this is a detailed inventory of what a
+Canadian summer camp of 1972 physically contained, and of the seasonal labour cycle that governed
+its plant — directly useful for a physical-plant or environmental article.
+
+**"Enjoyment of Mutual Aid Holidays" / "Plaisirs de l'entraide et des vacances."** Printed twice,
+in Jean Darrach's English translation and the French original (from *RELATIONS*, November 1971), by
+Mme Nicol, Mme Grenier, M. Boisvert, Guy Duchesne and Lucille Verreault. **Twelve families of the
+Saint-Jean-Baptiste quarter of Montreal at Lac-des-Plages, 26 June to 10 July [1971]** — the second
+Montreal working-class family camp this read has found in two issues (compare Corbeil's Bleu et
+Blanc, issue 94). Financed by the ministère des Affaires sociales and the **Club Richelieu**;
+leaders trained under **Perspectives-Jeunesse**; families met from April to June to plan it
+themselves and paid their own food bills; each family had a cabin and cooked for itself. The
+closing passage is the argument: two weeks *"où chacun est accepté comme il est … où il ne se sent
+pas à part parce qu'il a moins d'argent, parce qu'il est handicapé, parce qu'il est séparé, parce
+que ses enfants sont turbulents."* Five new families had joined for the following year.
+
+**Flash! Re: Unemployment Insurance.** Follows up issue 94: after further CCA discussions with the
+Commission, a counsellor whose services consist mainly of teaching or instructing is in a
+**"teaching class"** and gets the reduced premium rate for **1972/73/74**. And the threshold is
+stated: **anyone receiving a minimum salary including room and board of $30.00 a week or more must
+pay, "no matter what age — no matter what nationality."**
+
+Masthead changes from Spring: **Hartry's address is now Nassau, N.P., Bahamas**; Tanya Krisman is
+gone from the vice-presidents; the Publications Committee is now chaired by **Wm. Henderson** in
+place of Don Groff. Editor and publisher **Ann Prewitt**. Cover courtesy of **Helen E. Stewart**,
+**Camp Wahcahmie**. Subscription $3 a year, $8 for three, $1 a single copy, free to members. No
+Kanawana and no YMCA of Montreal reference in this issue.

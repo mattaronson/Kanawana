@@ -1,6 +1,6 @@
 # Camp Oolahwan
 
-*Status: E1-reviewed | Sources: 22*
+*Status: E1-reviewed | Sources: 23*
 *Last Updated: 2026-09-04*
 
 ## Overview
@@ -14,6 +14,10 @@ The property comprised 345 acres with a private lake (Lake Walfred), at coordina
 ## Founding and Direction
 
 Mary Susanna Edgar (born May 23, 1889, Sundridge, Ontario; daughter of Joseph Edgar and Mary Little) was educated at Sundridge Public School, Barrie High School, Havergal Ladies College (Toronto), University of Chicago extension courses, and Teachers College, Columbia University, before graduating from the YWCA National Training School in New York City in 1915.^3 ^4 ^17 She had already held a YWCA "First National Girls' Work" role from 1912 to 1914, predating her 1915-1919 Montreal/Oolahwan directorship.^17 After leaving Oolahwan in 1919, she undertook a four-month YWCA volunteer posting in Japan in 1920, and that same year purchased the Lake Bernard property -- two years before Glen Bernard Camp opened in 1922 with 38 initial campers.^17 She served as first vice-president of the Canadian Camping Association (1936).^3 She wrote four books, not one as previously recorded here: *Wood-fire and Candlelight* (1945), *Under Open Skies* (1956), *The Christmas Wreath of Verse* (1967), and *Once There Was a Camper* (1970), and won first prize in the ACA hymn competition in 1925 for "God Who Touchest Earth with Beauty" (published 1926).^3 She collaborated with Canadian Girls in Training, Girl Guides of Canada, the CCA, and the OCA.^17 She died September 17, 1973 in Toronto. Her fonds (donated by her nephew John Gilchrist and his wife, funded via the Ebbs Archives Fund) is held at Trent University as photocopies (1920-1970); the originals remain at Queen's University Archives.^4 ^17
+
+**Edgar's own account of the camp, fifty years later.** Speaking at Glen Bernard's fiftieth anniversary in August 1971, Edgar confirmed the directorship in her own words and gave, in passing, the only description of Oolahwan's programme this project has from her: "When I was director of Camp Oolahwan in the Laurentians, (the Montreal Y.W.C.A. camp), it was difficult to have a council ring ceremony, for our campers changed practically every week."^23 Two things follow. First, **Oolahwan's intake turned over roughly weekly** in her period — a short-stay camp rather than a full-season one, which is a real constraint on what its programme could be and a plausible reflection of the YWCA's aim of reaching as many working girls as possible. Second, that constraint is what she names as the reason she wanted "a camp of my own": the council-ring form she had learned in New York needed campers who stayed. She also spells the camp **"Oolahwan"**, which is the spelling used here and which corroborates it against the "Oolawhan" of Labbett's tribute and the "Oolawahn" of Ecclestone's 1966 profile.^20 ^22
+
+The same talk slightly refines the sequence after she left. Edgar says: "In July 1921 when I returned with my parents from a trip around the world, I was eager to get to work on my dream … On the first trip to my new property on Lake Bernard I discovered the Glen, a perfect amphitheatre for a Council ring."^23 That is consistent with the Trent finding aid's 1920 purchase — she was in Japan and then travelling — and dates her **first sight of the Glen Bernard property to July 1921**, a year after buying it and a year before the camp opened. It also makes the council ring the reason for the site and for the name, rather than something added later.
 
 Ferna G. Halliday, a Queen's University graduate, served as Secretary of YWCA Montreal from 1918 to 1921 and was responsible for girls at Camp Oolahwan during that period.^5 Halliday went on to co-found Camp Ouareau (1922) and Camp Oconto in Tichborne, Ontario (1924, directed until 1949), and was a founding member of the Ontario Camping Association in 1933.^5 Camp Oconto's original dining hall is named "Halliday Hall" in her honour, and the traditions she brought from YWCA work — candlelight ceremonies, classical music, poetry, and tableaux vivants — may have originated at Oolahwan.^5
 
@@ -111,6 +115,7 @@ The name "Oolahwan" may derive from the Lakota word *olówaŋ* meaning "song" or
 20. Faye Ecclestone, "Among Ourselves" (profile of Mrs. Lorne E. Brown), *Canadian Camping* Vol. 19 No. 1, December 1966, p. 15 [src_canadian_camping_v19n1_1966dec]. States that May Brown "went east to Montreal where she joined the staff of the Y.W.C.A. in that city. Her responsibilities included directing Camp Oolawahn and she also took the opportunity of completing her B.Sc. in Physical Education at McGill University."
 21. *Canadian Camping* mastheads, December 1965 – December 1966 [src_canadian_camping_1965_1966], listing Mrs. May Brown as President of the Canadian Camping Association.
 22. June Labbett, "Ferna Graham Halliday," *Canadian Camping* Vol. 23 No. 3, Spring 1971, p. 20. A memorial tribute published shortly after her death. Found by the full word-for-word read of the run (`kb/reread/cc_findings.md`, issue 90).
+23. Mary S. Edgar, "Our Indebtedness to Our Indian Friends," a talk given in the Glen Bernard Camp chapel, 15 August 1971, printed in *Canadian Camping* Vol. 24 No. 4 (Summer 1972), pp. 13-14, 20. Found by the full word-for-word read of the run (`kb/reread/cc_findings.md`, issue 95).
 
 ## Research Notes
 
