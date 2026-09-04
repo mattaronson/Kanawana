@@ -940,6 +940,13 @@
           "at": "2026-07-11T00:00:00Z",
           "by": "auto",
           "task": "REVIEW"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-09-04T00:00:00Z",
+          "by": "auto",
+          "task": "RESEARCH",
+          "note": "Hebertisme origin added from Canadian Camping Vol. 21 No. 3 (Spring 1969), found by the full word-for-word read (kb/reread/cc_findings.md, issue 82). Source [cc82] added."
         }
       ],
       "ralph_loops_completed": 2,
