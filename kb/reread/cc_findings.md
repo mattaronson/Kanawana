@@ -3297,3 +3297,150 @@ run: **Walter J. Cross, footwear for children, 4930 Sherbrooke Street West, Mont
 selling camp footwear nationally.
 
 **Kanawana itself: not named in this issue.**
+
+## 35 — Vol. 9 No. 4, June 1957
+
+★★ **A COMPLETE CAMP SWIM-TEST AND IDENTIFICATION SYSTEM, PRINTED IN FULL** (Ted Yard,
+"Whoduzit"). This is the closest comparator this run has yet produced for the swim-test
+levels a camp like Kanawana ran, and it ties the tests directly to what a camper is allowed
+to do on the water:
+
+- **Non-swimmers wear red bandanas.**
+- **"D" (Beginner's) Test** — jump in feet first in deep water, swim 50 feet; swim 25 feet,
+  turn, swim 25 feet back. Earns a **red disk** and the use of punts in the shallow enclosed
+  area.
+- **"C" Test** — swim 40 yards any style. Earns a **white disk**; rowboat, or canoe with a
+  counsellor.
+- **"B" Test** — swim 200 yards any style. Earns a **blue disk**; eligible for canoe
+  instruction and may go out in a canoe alone.
+- **"A" Test** — dive or jump in fully dressed, remove shoes, tread water 30 seconds using
+  hands and feet, remove all clothing, tread water 30 seconds with hands out of the water,
+  then **swim 440 yards without stopping**. **Can go on canoe trips.** A boy passing "A"
+  wears no disk.
+
+The disks are small plastic disks or poker chips, drilled a dozen at a time, corded,
+numbered with indelible marker and varnished; each camper wears his number round his neck at
+all times and **hangs it on the appropriate hook on the "Buddy Board" during swim periods**.
+Two standing rules are printed in capitals: any test outside the enclosed swim area must be
+accompanied by a canoe or rowboat with **two** staff aboard, and **no test may be attempted
+before the medical examinations are made**. Kanawana's canoe-trip eligibility was likewise
+gated on swimming; this is the era's model for how that gate was built.
+
+★ **Taylor Statten, M.D., "Homesickness," Part II — treatment and management**, drawn from
+**a questionnaire circulated to camp directors**. This half is more usable than the first,
+because it describes what camps actually did and argues about it:
+
+- The aim is **not to shut the feelings off**: "we should not cause these feelings to be
+  turned off too abruptly… allow the child to work through them, talk them out."
+- **The camp director should personally take the anger.** "Since the camper feels that the
+  camp director is often the closest person to his parents the child may feel a real need to
+  try and express his hostile feelings towards him first. The acceptance of this hostility is
+  often accompanied by a tremendous relief in symptoms."
+- **The assigned person** — general practice was to attach one staff member to a homesick
+  child, sometimes for almost all waking hours, and the camper should choose if he can.
+  Assigning **another camper** to help is recorded as a practice that "does backfire on some
+  occasions."
+- **The jobs given to homesick children**: "being a messenger for the camp director, a clerk
+  in the dispensary or the important person who **rings the bell which calls the whole camp
+  to assemble for dinner**."
+- **When it happens**: "children tend to express their homesick feelings more during meals,
+  rest periods, bed time and when they have leisure periods. **Sunday is often a difficult
+  day.**"
+- **Letting the child decide, at the last moment**: "we have seen a child make the decision
+  to remain at camp at the point of loading his trunk into the transportation which is ready
+  to take him away."
+- **The counsellors' own homesickness**: "It comes as a great surprise to a camp leader when
+  he finds after careful examination that some of his staff are struggling with this problem
+  in themselves."
+- And an admissions policy stated plainly: the camps "hesitate to accept for a second season
+  a child who has shown a lot of difficulty in his adjustment, if the family has not sought
+  help for that child during the winter," because to do so "would only be supporting the
+  denial of the problem which the family has developed."
+
+He also identifies the physical plant as a cause: "**If the plant is run down, if important
+pieces of equipment are not in working order, or if some activity about which the child is
+enthusiastic is not offered, feelings of homesickness will be exaggerated.**" A camp's
+maintenance record and its homesickness record are, on this account, the same record.
+
+★ **W. Jack Eastaugh profiles William O. Bell** — Eastaugh being the author of the 1952
+council-ring script found in issue 20. Bell, a Yarmouth, Nova Scotia man, came to Ontario in
+1930 and built the **Danforth YMCA** out of "any office where the rent was low, a part-time
+stenographer, and a reconditioned typewriter," using school gymnasia, church basements and
+lodge halls, at an annual fee of **25¢** — "the forerunner of the community 'Y's of to-day."
+**Sunfish Camp** began "on a sandy waste near Ward's Island," with **a corrugated airplane
+hangar for a dining hall** and scrub willows standing in for "the traditional 'pine scented
+woods and leafy dells'," at **six dollars a week, and less if that was a hardship**; it moved
+to Lake Simcoe near Stroud in 1935 and was sold about 1956.
+
+Eastaugh's account of how its programme was made is the valuable part, and it is a first-hand
+description of camp culture being manufactured in a Friday-night Hi-Y club:
+
+> "Those were wonderful meetings. Starting about 4:30 they carried on until 10 p.m. or later.
+> **We developed songs suitable for camp; and song leaders emerged from necessity.** We
+> developed crafts from every conceivable scrap material. **Our Indian Lore programme never
+> lacked colour, for these Friday night gatherings were used to assemble headdresses from
+> turkey feathers begged from the St. Lawrence market.**"
+
+Read beside issue 31's Tanamakoon totem pole and issue 32's Oconto naming, that is a third
+independent, dated, first-person account of a Canadian camp's "Indian" material being made
+by teenagers out of whatever was to hand. It belongs in `indigenous-names-and-land.md`.
+Bell went on to Camp Douglas in Algonquin Park; over two hundred ex-Sunfish leaders came to
+his farewell dinner.
+
+★ **J. H. Ebbs, "Health and Safety in Camp"** (address to the OCA, February 1957) — the
+period's camp epidemiology, with dates:
+- **Poliomyelitis**: the vaccine "will gradually eliminate, to a large degree, this disease,"
+  but "it has by no means had universal application as yet"; staff immunisation should also
+  be checked. **A camp's polio anxiety was still live in 1957.**
+- **"Summer flu"** distinguished into food poisoning (unrefrigerated custards, soups, pie
+  fillings, meat and milk — everyone ill at once) and water- or food-borne dysentery (cases
+  spread over time).
+- **"Pink Eye" identified as A.P.C. virus**, research at the **Banting Institute, Toronto**;
+  spread through swimming areas, hence "swimming bath conjunctivitis"; resistant to
+  antibiotics; a US Army vaccine in prospect. Management: isolate, **decentralise group
+  swimming**, open enclosed swimming areas or stop using them.
+- **Lightning kills eight to twenty people a year in Canada**; trip leaders should avoid
+  exposed water, land or isolated trees in electrical storms.
+- **Water skiing** treated as a new and dangerous camp activity, with the rule that the boat
+  driver must not be responsible for the skier — a **second person must always be in the
+  boat** controlling the tow-rope — and that the skier must have passed swimming tests and
+  wear an approved life jacket.
+- **Drowning is the second leading cause of accidental death in Canadian children**, after
+  road transport and suffocation: **350 child drownings**, of which **only two in 1954
+  occurred in places of recreation** — which Ebbs reads as speaking well for organised camps.
+  Mavis Berridge adds elsewhere in the issue: **"Last year 416 people were drowned in
+  Ontario."**
+
+**Mavis Berridge (Waterfront Adviser, Ontario Council Girl Guides; RLSS Public Relations
+Committee) sets out the full external award ladder** — Red Cross tests for all ages, then
+RLSS Elementary (under 12), Intermediate (12+), **Bronze Medallion (14)**, Bronze Cross (15),
+Award of Merit (16), Distinction Award (17), Scholar Instructor (15) and Instructor (16), and
+the Red Cross Instructor's Course at 18 — "available for 11 consecutive years, enough to keep
+any child busy for the whole of his camping life." Her argument for using them is exactly the
+argument for reading camp records sceptically: **"Most camps have a series of tests… but
+these tests pertain only to the camp in which they were gained."**
+
+**Two more "Duel" pieces on parent visiting** — open visiting versus a single planned
+Visitors' Day. The open-visiting camp asks parents not to come for the first two weeks and to
+check first that the child is not on a trip; the planned-day camp argues that unscheduled
+visits disrupt programme, withdraw the counsellor from the group, and leave children "feeling
+rejected when their parents do not come as often as they seem to feel other parents visit."
+
+Also: **Barry Lowes contributes four "Ideas" columns** — small-mammal pitfall traps ("No bait
+is necessary. The animal simply falls into it while prowling around at night without a
+flashlight. (A good moral for campers!)"), insect zoos, a full **tabloid meet** system with
+single- and double-standard scoring and specimen judges' and master score cards, and (with
+Nancy Porter) **a rainy-day activity table of thirty-odd entries** run at the 1957 OCA
+conference. **Two worship services printed in full** from *Morning Watch* (1948), one built
+on a bird's feather and one on the scales of a butterfly's wing seen under a microscope,
+both closing on Mary Edgar's "God who touchest earth with beauty" — the hymn again, now in
+its liturgical use. **"The Magic of Moonlight"** describes the moonlight walk as a deliberate
+programme element, to be prepared for and kept solemn. **Mary Porter's canoe history part 3**
+records the **Canadian Canoe Association founded in 1900** at Grindstone Island, canoeing's
+**first Olympic appearance in 1936** at Berlin, and the four modern canoe types. **Ed Devitt
+(Camp Comak) on building on a budget** — Gilmour Hall was made from two donated Muskoka barns
+dismantled and moved by local crews, the donor being the father of two campers. And a page of
+**third-meal menus contributed by camp directors** — a rare direct record of what Canadian
+camps actually served at supper in 1957.
+
+**Kanawana itself: not named in this issue.**
