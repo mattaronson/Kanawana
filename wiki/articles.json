@@ -2206,6 +2206,13 @@
           "by": "auto",
           "task": "RESEARCH",
           "note": "Word-for-word read of Canadian Camping, issue 117: new paragraph recording that the QCA executive met monthly at the Montreal YMCA through 1978 -- the provincial body that accredited Kanawana, presided over by Kanawana's own director, meeting in the building of the institution that owned the camp -- together with the section's public programme for the year. Sub-source 8ad; header count unchanged at 13."
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-09-04",
+          "by": "auto",
+          "task": "RESEARCH",
+          "note": "Word-for-word read of Canadian Camping, issue 119: extended the foreign-counsellor paragraph with the 1978 change -- the revised Immigration Act of 10 April 1978, the Ministry of Employment and Immigration's letter to the CCA president retaining the Manpower Certification exemption for the 1978 season only 'with the change likely coming this fall', and the new pre-arrival employment authorization procedure (Form Imm. 1102, a camp letter establishing CCA membership in good standing, and a social insurance number). The exemption was therefore a narrow two-season window. Sub-source 8ae."
         }
       ],
       "ralph_loops_completed": 1,
@@ -8050,6 +8057,13 @@
           "at": "2026-07-11T00:00:00Z",
           "by": "auto",
           "task": "WRITE"
+        },
+        {
+          "status": "draft",
+          "at": "2026-09-04",
+          "by": "auto",
+          "task": "RESEARCH",
+          "note": "Word-for-word read of Canadian Camping, issue 119 (Vol. 30 No. 3, May 1978): C. R. Blackstock, one of the run's most frequent contributors and National Director of Red Cross Water Safety, is named as a former director of Camp Pine Crest, with fifty years in camping. Since the Pine Crest Games began in 1940 and Kanawana adopted the format in 1947, dating his tenure could identify the route by which the format travelled. Distinguished from Brian Blackstock, the newsletter's editor. Sources 9 -> 10."
         }
       ],
       "ralph_loops_completed": 1,
@@ -8081,7 +8095,8 @@
         "src_ymca_canada_history",
         "src_ymca_gta_pine_crest",
         "src_ymca_kanawana_history",
-        "src_ymcagta_pine_crest_games"
+        "src_ymcagta_pine_crest_games",
+        "src_ia_canadian_camping_collection"
       ],
       "open_questions": 2,
       "cross_links": [

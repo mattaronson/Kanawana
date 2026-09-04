@@ -1,7 +1,7 @@
 # Camp Pine Crest
 
-*Status: draft | Sources: 9*
-*Last Updated: 2026-07-11*
+*Status: draft | Sources: 10*
+*Last Updated: 2026-09-04*
 
 ## Overview
 
@@ -10,6 +10,8 @@ YMCA Camp Pine Crest is a summer camp on Clear Lake in Torrance, in Ontario's Mu
 ## Founding and Site
 
 Pine Crest was founded in 1910 in Torrance, Ontario, on 650 acres of Muskoka wilderness spanning three lakes.^1 ^2 Its camping lineage traces back further still: it grew out of the Broadview Boys' Institute camping tradition dating to 1896; the Institute, based in Toronto, amalgamated with the Toronto YMCA in 1910 to become the Broadview YMCA, which opened Pine Crest that same year.^3 It is today part of the YMCA of Greater Toronto.^2
+
+**A director who links Pine Crest to the national camping literature.** *Canadian Camping* names **C. R. Blackstock** as a former director of Pine Crest in May 1978, in a biographical note appended to his own survey of Canadian camping's past and future: "Mr. Blackstock has been involved with camping for **50 years**. He has directed **Bolton Fresh Air Camp, Camp Pinecrest and Mazinaw**. He is a Consultant with the **National Sport and Recreation Centre in Ottawa**."^10 Blackstock is one of the most frequent contributors in the magazine's whole run — writing on the axe, on river pointers, on calculated risk, and as National Director of Red Cross Water Safety — and his Pine Crest directorship is not dated here. Since the Pine Crest Games began in 1940 and Kanawana adopted the format in 1947, when he ran the camp is worth establishing: if his tenure overlaps either date he is a candidate for the person through whom the format travelled. (He is not to be confused with **Brian Blackstock**, the newsletter's editor in the same years and co-author of the *Camp Counsellor's Handbook*; the relationship, if any, is not stated in any source seen here.)
 
 ## The Pine Crest Games
 
@@ -42,6 +44,7 @@ The broader team-competition-week genre, of which Pine Crest and Kanawana's Lumb
 7. YMCA Quebec, "Summer Camp Kanawana: History" — states the L&V Games were "inspired by Pinecrest Camp" [src_ymca_kanawana_history].
 8. The L&V Games (this wiki) — the modern three-day format rests on weak leads and is an open question there; the 1947-1958 event ran a full week [src_leigh_evans_lv_blog].
 9. Direct fetches, 2026-07-09: hayowentha.org/program/voyageurs/ and find.acacamps.org (Woodsmen program profile) [src_hayowentha_website, src_aca_hayowentha_programs].
+10. C. R. Blackstock, "Camping… Our Past, Present and Future," *Canadian Camping* Vol. 30 No. 3 (May 1978), pp. 1, 3, 12, with the author note on p. 12 [src_ia_canadian_camping_collection]. Found by the full word-for-word read of the run (`kb/reread/cc_findings.md`, issue 119).
 
 ## Research Notes
 

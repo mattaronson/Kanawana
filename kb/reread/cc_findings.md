@@ -21576,3 +21576,146 @@ the kids." A **Labrador Christian Youth Camp** advertises for a director at **$1
 campers and twenty staff near Happy Valley/Goose Bay. The BCCA held a **Hypothermia Symposium** at
 the North Vancouver Centennial Theatre in April 1978 — a fifth consecutive year of water-safety
 alarm in this run.
+
+---
+
+## 119 — Vol. 30 No. 3, May 1978
+
+Twelve pages. Every item accounted for: Camping… Our Past, Present and Future (C. R. Blackstock); A
+Director's Checklist — June, the last of the series (Eanswythe Flynn); Report — Liaison with National
+Agencies Committee; Editorial ("Miracles"); Kitchen Waste for the Environment (Sam G. Hambly);
+Health — Asthma at Camp (Dr S. M. L. Kirkpatrick); Program Ideas for Counsellors; Hiring Staff? —
+Immigration Regulations, with the full consular address list; the National Conference Audio Cassette
+order form. **Kanawana is not named.**
+
+**★★★★ THE FOREIGN-COUNSELLOR EXEMPTION HAD A KNOWN END DATE.** A letter from **Duncan R. Campbell,
+Executive Director, Labour Market Policy, Ministry of Employment and Immigration**, to CCA President
+Jack Pearse, printed in full:
+
+> "**While it was agreed that job offers made to foreign camp counsellors were not to be exempt from
+> Manpower validation in 1978**, our further review of the situation indicates that a change now, to
+> take place for this summer, would pose difficulties… **it has been decided that the present
+> exemption from Manpower Certification will be retained for the 1978 summer season, with the change
+> likely coming this fall.**"
+
+And the new mechanics under the **revised Immigration Act and Regulations implemented 10 April
+1978**: a non-immigrant must obtain **employment authorization before arriving at a port of entry**;
+the camp sends "a detailed offer of employment… **The letters should clearly establish that the
+employer is a member in good standing of the Canadian Camping Association**"; the counsellor takes it
+to a Canadian embassy or consulate for **Employment Authorization Form Imm. 1102**; both are
+presented at the border; and **a social insurance number is required**. Consulate addresses are
+printed for Britain (London, Belfast, Birmingham, Glasgow), France (Paris, Bordeaux, Marseille,
+Strasbourg), Israel (Tel Aviv) and fifteen American cities — which is itself a map of where Canadian
+camps recruited.
+
+**Written into `connections/institutional-lineage/canadian-camping-movement.md` (sub-source 8ae)**,
+extending the paragraph added at issue 111. The point for Kanawana: **the labour-market-test
+exemption its staffing benefited from covers the seasons of 1977 and 1978 and was expected to end
+that autumn** — a narrow, datable window, and a reason any foreign staff member appearing in
+Kanawana's records for those two summers arrived under a different regime from those before or
+after.
+
+**★★★ C. R. BLACKSTOCK DIRECTED CAMP PINE CREST — which matters for the L&V Games.** The author note:
+"Mr. Blackstock has been involved with camping for **50 years**. He has directed **Bolton Fresh Air
+Camp, Camp Pinecrest and Mazinaw**. He is a Consultant with the **National Sport and Recreation
+Centre in Ottawa**." Blackstock is among the most frequent contributors in the whole run — the axe,
+the river pointer, "Live Dangerously! But Calculate the Risk," Red Cross water safety — and this read
+has met him repeatedly as "C. R. Blackstock, Camp Mazinaw." **His Pine Crest directorship is new
+here**, and it is not idle: the Pine Crest Games began in 1940 and **Kanawana adopted the
+Lumbermen-versus-Voyageurs format in 1947**, so if his tenure overlaps either date he is a candidate
+for the person through whom the format travelled. **Written into
+`connections/related-camps/camp-pine-crest.md` (sources 9 → 10)** with the dating question stated as
+a question. Also flagged there: he is **not** the **Brian Blackstock** who edits this newsletter and
+co-wrote the *Camp Counsellor's Handbook*; no source seen states a relationship. Note too that
+Blackstock now consults for the **National Sport and Recreation Centre — the federal body that
+designs and prints this newsletter** (issue 112).
+
+His essay itself is a useful potted history from someone who lived it: **L. B. Sharp**, director of
+the Life Magazine Camps out of New York, "**came to Toronto in 1940, and told us it was time to give
+camping back to the campers**," arguing for stated purposes and camper-chosen programme in groups of
+eight with two leaders. Then the decades: the pioneers were "**YMCA and YWCA leaders, educators and
+church leaders**" with CSET (CGIT, Trail Rangers, Tuxis) built to develop a "four square" person;
+the thirties brought the "**tests and measurements**" wave, after which "**camping became
+self-conscious and began measuring the effects of the experience… Soon we had all kinds of standards
+established against which camps could be given performance ratings. The Camping Associations
+'policed' their members and made conforming to the standards a necessary condition for
+membership**" — an insider's account of where the accreditation regime came from, and the clearest
+statement in the run of *why* it exists; the forties brought school camping (**Gordon Young, a
+Canadian, set up the first school camps in New South Wales**, with Canadian attempts late in the
+decade); the fifties moved social studies, geography, history, science and conservation onto the
+site; the sixties and seventies answered a demand for year-round outdoor recreation and produced
+specialist sports camps. His conclusion is a generational one: "**Most of the pioneers have gone. The
+generation which took over from them are on their way out too.**"
+
+**★★★ A SECOND 1978 TAPE SERIES, ITEMISED — `p_319` UPDATED.** The National Conference audio cassette
+order form lists **eighteen sessions from Geneva Park, 19-22 January 1978**, at $3.50 each (or $3.00
+for ten or more), ordered from **M. Lee, R.R. No. 1, Port Sydney, Ontario**:
+
+| | |
+|---|---|
+| 1-1 to 1-6 | Selecting a Site (Ruth Mowat) · Finance and Legislation (Ron Johnstone) · Effective Administration (Ken Willis) · Conserve Society (Craig Copeland) · **Maintenance and Building (Wilf Jackson**, of Catholic Community Services Montreal) · There's More to P.R. (Punch Jackson) |
+| 2-1 to 2-6 | Help a Child Grow (Gordon Jasper) · **Expectations (Bruno Morawetz)** · To Whom Directors Answer (Shanley Parkinson) · Human Climate in Camp (Jean Funk) · **Will Staff Return (Bob Slingerland)** · Needs of Children (Patterson and Owen) |
+| 3-1 to 3-6 | **High A.Q. Programs (Mayotte and Delainey)** · Program Models (Elaine King) · Developing a Nature Program (Bob Cameron) · Developing Programme Goals (Lorne Bowering) · Year Around Programme Ideals (Ted Yard) · New Program Ideas (Austin Matthews) |
+
+This is a **dated, itemised recording of Canadian camp directors talking about their work in 1978** —
+distinct from the pioneer oral biographies `p_319` was created for, and worth asking Trent for by
+conference name. `p_319` updated with the full list.
+
+**★★ The Liaison with National Agencies Committee's contact list** — a map of who Canadian organised
+camping considered its peers in 1978, from an exploratory letter sent to **over 40 national agencies**.
+Tier A: Boys and Girls Clubs of Canada, Boy Scouts of Canada, Canadian Recreational Association,
+**Canadian Red Cross Society**, Canadian Yachting Association, **Royal Life Saving Society of
+Canada**, the Salvation Army, **the National Council of YMCAs of Canada**, Girl Guides of Canada,
+National Interchurch Camp Committee, Christian Camping International. Tier B: Canadian Association
+for Health and Physical Education, Canadian Parks and Recreation Association, National and Provincial
+Parks Association of Canada, Synchro Swim Canada, St. John Ambulance. Tier C: Canadian Association of
+Rehabilitation Personnel, **Canadian Bar Association**, CNIB, Canadian Rehabilitation Council for the
+Disabled, Canada Safety Council, Canadian Ski Association, Muscular Dystrophy Association of Canada,
+National Institute on Mental Retardation. The National Council of YMCAs sitting in the top tier is
+the institutional line back to Kanawana; the Canadian Bar Association appearing at all is a sign of
+where the liability worry of these years was heading.
+
+**★★ Asthma at camp** — a summary of a talk to the **Society of Camp Directors** by **Dr S. M. L.
+Kirkpatrick**, and a rare glimpse of camp medical procedure for a chronic condition: a question about
+medical problems on the initial application form, a fuller form sent to parents weeks ahead so the
+dispensary can be stocked and the child placed "in an environment as free of allergens as possible";
+**all medications held and dispensed by medical staff**, with counsellors briefed before out-trips;
+breathing exercises first, medication next, transport to a local facility if the attack fails to
+respond. And a specific safety warning: "**There have been two recent deaths from anaphylactic
+reaction following an allergy injection in a doctor's office. We advise that campers not be given
+their allergy injection in the camp setting.**" With Ebbs's supply list (issue 117) and Casey's nurse
+handbook (issue 118), the camp-health picture for 1977-78 is now well documented.
+
+**★ Sam G. Hambly on composting kitchen waste** — Director of **Camp Allsaw, a Natural Science Camp
+in Haliburton**, gives a complete method: a twelve-foot circle of snow fence, an eighteen-inch bed of
+hay, straw or forest duff, a **45-gallon steel drum with the top and bottom removed** set in the
+centre as a funnel with a tight screen over it against flies, dry material banked above the drum's
+base, repiling after camp closes "**This step will produce offensive odours and for this reason
+should be avoided during the camp period**", shredding in the second season, then use for earthworm
+culture, camp-garden mulch and seedlings. His argument connects composting to the waterfront:
+mulching makes the garden soil porous, which fills underground reservoirs, which keeps the swimming
+water clear — "**campers who like to have quality conditions on the waterfront have a responsibility
+for the conservation practices of the watershed.**" Contextual for
+`traditions/environmental-history.md` on what camp environmentalism meant operationally in 1978.
+
+**★ Flynn's June checklist closes the series** with items that name camp records: "**check to see that
+you have this year's Test Sheets for canoeing and swimming awards**"; "**Your Staff Manual should be
+distributed to all your staff members by the end of the first week of June at the latest**"; continue
+water samples to the provincial health department; **check with Lands and Forests or Natural
+Resources "about canoe routes and hiking areas, and the cost, if any, of sending groups over
+Government owned property"** — a fee regime that would have applied to Kanawana's La Vérendrye trips;
+staff contracts received and signed; **"Set up the Infirmary. Check supplies (see page 7 of
+February's Canadian Camping)"** — the Ebbs list at issue 117 being used as an operational
+instruction, which is evidence the magazine functioned as a working manual; "**Are campers' Health
+Forms and their Doctors' Certificates coming in? Have you enough file cards for your records?**";
+kitchen staff trained in provincial health regulations; grounds checked "for loose nails and broken
+glass, boards or logs out of place."
+
+**Minor.** The editorial, "Miracles," is a piece of period rhetoric with one line that dates it
+precisely — camp as a place for visionaries, "**in Quebec dreaming of a way to say in French and
+English those words all Canadians are waiting to hear**", written in the spring after the Parti
+Québécois's first year in office. Rainy-day programme ideas for counsellors: a percussion band from
+washtubs and pot lids, fire-lighting competitions in the rain rewarded with hot chocolate, "The Wet
+Look" photo series, a "Who Am I?" game using only camp personalities, **sleeping in canoe shelters
+built that afternoon**, and a cabin-run bingo night with prizes negotiated from senior staff in
+exchange for a camp work project.
