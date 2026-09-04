@@ -3444,3 +3444,146 @@ dismantled and moved by local crews, the donor being the father of two campers. 
 camps actually served at supper in 1957.
 
 **Kanawana itself: not named in this issue.**
+
+## 36 — Vol. 10 No. 1, December 1957
+
+★★ **THE 1958 NATIONAL CONFERENCE IS COMING TO MONTREAL.** A full-page notice:
+**"ADVANCE NOTICE! JOINT CONFERENCE of the CANADIAN CAMPING ASSOCIATION and QUEBEC CAMPING
+ASSOCIATION — April 11th & 12th, 1958 — WINDSOR HOTEL, MONTREAL, QUE."**
+
+This is the first CCA national conference held in Quebec in this run, hosted jointly with
+the QCA, in Montreal, with a Montreal president (Van Wagner) and a Montreal treasurer
+(Hewetson) in the chair. **Kanawana's director was a QCA member camp director in the host
+city.** The June and December 1958 issues will carry the conference report, and that report
+is the single most likely place in this magazine's whole run for Kanawana or its staff to be
+named. **Flagged as the highest-priority target of the remaining read.**
+
+★ **C. T. Sharpe's editorial — fifty years of camping, two hundred and fifty camps, and a
+blunt verdict.** Asked to name, instantly and in three sentences, what had impressed him
+most and least across a career, Ontario's first Director of Camping answered: most, "the
+good times the campers have, and… the memories they accumulate for the whole of life"; and
+least —
+
+> "the far too casual attitude of **too many camps** (the CAMPS, rather than the campers)
+> towards even the simplest and most elementary precautions with respect to water-safety;
+> particularly with regard to '**free-swim**' time, and watercraft supervision."
+
+He then itemises what he saw: camps that never marked the swim-area limits, "to say nothing
+of joined markers (float-lines)"; camps that **"had good, usable equipment for this purpose,
+but didn't use it!!!"**; camps with **"no idea of how many are in the water at one time —
+how many have to be accounted for"**, and no in-and-out check system; camps where "the
+persons supposed to be exercising such swim supervision as there was, were **in swimming
+along with the campers**"; and camps claiming a buddy system whose checks were "so
+infrequently and so loosely made that there is little or no respect for the system." His
+generalisation is the one to carry: **"Camps that are lax with respect to the safety of life
+are very likely to be still more lax with respect to other matters."**
+
+This is essential context for reading *any* Canadian camp's own safety record in the 1950s,
+Kanawana's included — the movement's most experienced inspector, writing in the movement's
+own magazine, says the printed standards were widely not being kept. He balances it with the
+best waterfront he had seen in years: designed, laid out and administered by **an
+eighteen-year-old girl**, built by campers "entirely from scrap material and left-over
+paints."
+
+★ **A second colour-coded swimming/canoeing identification system**, from the **Girl Guides'
+Centenary World Camp** (Mavis Berridge, Waterfront Director) — and it is a variant worth
+setting beside issue 35's disks. Girls arrived with **bathing caps matching their ability:
+red for Beginners, blue for Intermediates, white for Seniors**. A White Cap who could swim
+100 yards in good style and tread water ten minutes was given **a strip of white plastic
+which she wove into a bracelet herself** — her passport to the beginners' canoe class; a
+**yellow** strand was added for competence in the bow, a **green** strand for strong stern
+paddling. All entered on large check sheets, one per sub-camp, in patrol order, so trip lists
+could be verified daily. Instruction throughout used **"Major Hoyle's Canoe Standards."**
+
+★ **The World Camp's Indian theme, in the organisers' own words.** Doe Lake, Sprucedale,
+Ontario, **9–19 August 1957**, 1,600 people from 41 countries, for Baden-Powell's centenary.
+"It was decided that **our camp theme should be Canadian in general and Indian in
+particular**," and the camp was divided into four sub-camps named **Mic-Mac, Iroquois, Cree
+and Bella Coola** — the cover photograph is captioned by those names. The reasoning printed
+is: "**Now, canoeing is an Indian activity; tripping is a Guide activity; so it seemed
+natural to include Canoe Tripping among our camp activities.**" A fourth dated instance in
+this run of Canadian camping consciously building a programme theme out of Indigenous names
+and attributions, and this one at national scale with international visitors. Notable also:
+**sixteen private camps lent canoes at the peak of their own season** — eighteen canoes in
+all, nine collected from the Huntsville district by one director who also lent his trailer.
+
+★ **Van Wagner's presidential column is a Nominingue staffing history** — and it is the
+nearest thing in this run to a Quebec Laurentian camp describing its own labour problem.
+"Until the beginning of the second World War, an adequate supply of college students was
+available for counsellors. **In our case, during that period, a third of our counsellors were
+medical students** who had completed at least four years of college. In those days
+counsellors commonly returned for **from four to eight years**." By 1957 it was "very
+difficult, and for most camps impossible, to secure a complete counsellor staff of college
+students… especially true of boys' camps," so **many camps were using high-school students
+in posts that had been junior-counsellor or CIT roles**. His answer was a larger permanent
+senior staff, "principally school teachers who have families," each provided with **a
+completely equipped four-room cabin and board**. Directly comparable to Kanawana's own
+staffing and to the postwar-gap article.
+
+★ **Bruno Morawetz (Camp Ponacka), "Standards, Get Thee Behind Me!"** — the most substantial
+dissent printed in this run, and by a director who is also a philosopher. He began by
+helping revise canoeing standards, noticed that requirements had to differ camp by camp
+(a camp starting at six against one starting at eight; shallow water; natural shelter), and
+concluded that **"the standards will be only as good as the people interpreting the meaning
+of the various requirements."** From there he argues that standardisation and the "**mania
+for efficiency**" submerge individuality — "**The most efficient camp is not necessarily the
+best camp**" — and asks: "**Would it be so bad if Ponacka campers paddled differently from
+Ahmek campers?**" He is candid that he could not object to the minimum standards earlier
+because his own camp fell short of them in small respects and "had I spoken up it might have
+appeared as if I tried to get away with inferior means of camping." And his closing warning
+is the one worth having: in raising standards **"we are forced to place all the emphasis on
+the visible and tangible features of camp life… I wonder if the more intangible features of
+camping are not pushed into the background as we become more and more preoccupied with
+pipes, valves, drainage, age limits, staff relations."** A necessary counterweight to the
+run's steady accumulation of standards documents.
+
+★ **A third "first camp" claim.** Gertrude Moore profiles **Bishop Arthur Henry Sovereign**,
+whose camp of 40 boys from Christ Church, Vancouver, at **Snug Cove, Bowen Island, in July
+1906** was, "as far as is known… **the first organized camp in B.C.** as we now know
+organized camping." It awarded an **"Efficiency Bronze Medal"** which "anticipated Taylor
+Statten's Canadian Standard Efficiency Training, on which Bishop Sovereign later worked with
+Mr. Statten." From 1909 **St. Mark's Camp** on a hundred acres at Lion's Beach, Howe Sound,
+ran twenty-one years for a hundred campers in two-week periods — Senior and Junior Boys,
+Senior and Junior Girls, and a period for the church choir boys. In 1931 as Bishop of
+Athabasca he founded **the first camps in the Peace River Country** — Bear Lake, Willow River
+and Lake Baptiste — all on church-owned property, cabins housing nine campers and a leader.
+Moore adds the network detail: **Mary Edgar and Ellen Sovereign had been school friends at
+Havergal**, and it was Bishop Sovereign who helped Moore decide to found Moorecroft, "the
+first privately owned organized camp in the Canadian West." Two Sovereign daughters graduated
+from the **Margaret Eaton School**. The Margaret Eaton / Glen Bernard / Havergal network keeps
+turning out to be the connective tissue of Canadian camping, and Quebec's women camp leaders
+sat inside it.
+
+**Wilbur Howard, "Camping in Depth"** (OCA annual meeting, 2 April 1957) — on the spiritual
+dimension, and unusually specific about what makes an outdoor service different: smell
+("the pleasing pungency of the incense of the evergreens"), the distant look, sounds from
+afar, feel, and **"the natural togetherness of people you live with and like. The leader who
+taught you how to swim reads the Scripture."** He lists the "meaningful moments" a camp has —
+outdoor church service, Morning Watch, grace, vespers, hymns, campfire, and unplanned moments,
+with a fine description of the overnight-trip campfire as an irrecoverable opening. And on
+objectives he asks the question that should be asked of any camp's stated purposes:
+**"What's your hidden agenda? What's the objective behind the written objective that appears
+in your publicity folder?"** He names three things that stop individuals deciding for
+themselves — **conformity, tradition** ("we are moulded when we get into a set of
+circumstances that have been formed over the years and that's the way things are done"), and
+social pressure.
+
+**Two more "Duel" pieces on water skiing** — against, on the ground that "three members of
+one's waterfront staff are engaged in giving a thrill to one camper at a time" and it becomes
+"almost a parasitic activity"; for, from a camp that had run it **since 1951** with "no
+accidents either major or minor in seven years." **David Palter on winter maintenance** — a
+practical list including the detail that ice swept clean each morning in December and January
+"will last twice as long in July," that January is the ideal month to build if the camp is
+reached only by water because trucks can come over the ice, and that **floating docks should
+be built on the ice exactly where they are wanted, so that when it melts they sink into
+place**. **Allen Wootton on nature trails and camp museums**, with specimen label wording
+written in the voice of the specimen. **The Manitoba Camping Association held its 1957
+training institute at the Girl Guide camp at Caddy Lake** — the same Caddy Lake where the
+Tajar was found in issue 21 — with Ted Yard brought from Ontario as leader.
+
+**The OCA's publication list now includes Statten's *Homesickness* at 35¢** and Mary Porter's
+*Canoeing, A Canadian Heritage* at 25¢, both reprinted from this magazine — so both are
+findable as offprints. The CCA office moved to **93 Yorkville Avenue, Toronto**; the 1958 OCA
+conference was set for the **King Edward Hotel, 7–8 March**.
+
+**Kanawana itself: not named in this issue.**
