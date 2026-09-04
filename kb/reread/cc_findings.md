@@ -17516,3 +17516,210 @@ gone from the vice-presidents; the Publications Committee is now chaired by **Wm
 place of Don Groff. Editor and publisher **Ann Prewitt**. Cover courtesy of **Helen E. Stewart**,
 **Camp Wahcahmie**. Subscription $3 a year, $8 for three, $1 a single copy, free to members. No
 Kanawana and no YMCA of Montreal reference in this issue.
+
+## 96 — Vol. 25 No. 1, Fall 1972
+
+Contents page checked. All items read: A Message from the Editor; A Letter from the President; 40
+Promotional Techniques; Do It Now!; Have a "Wigwas Teiman" in Your Camp; Money in the Bank; Nature
+is Fun; Outdoor Cookery; Tips; Have You Heard? Do You Know?; In Memoriam — Mary G. Hamilton; An
+Indian Version of the Twenty-Third Psalm; The Counsellor in the Public Eye; Guidelines for Job
+Negotiation; Approaching Camp Rentals.
+
+A changeover issue: **Helen E. Stewart becomes editor** and **Bill Henderson chairman**, replacing
+Ann Prewitt and Don Groff. Stewart's first editorial says she "inherited no statement of editorial
+policy," asks for one to be formulated, and states the intended readership plainly — "not only …
+camp directors old and new, but … counsellors, senior staff and anyone involved in camping" — and
+that it does not matter "whether the article is written by a camp director, a counsellor or a
+maintenance man." She also announces the CCA has asked the president for **a list of the types of
+camps in every province and the number in each category**, a national camp census that would name
+Kanawana if it survives.
+
+**★★★ Two archival leads on the same page, both first-order for this project.**
+
+*The songbook.* A boxed notice: **"We need your assistance — We want to compile a songbook and
+make it available to all camps in Canada. You must have a popular camp song. Would you please send
+in to the magazine the words and list the tune of your camp song so that it can be shared across
+Canada."** This is a national call, in 1972, for every camp in Canada to submit its camp song with
+the tune identified. If Kanawana answered it, the words and tune of a Kanawana camp song exist in
+the CCA's papers or in a published CCA songbook. **Directly actionable for `p_048`** — and the
+question to chase is whether the songbook was ever published, which later issues of this run should
+answer.
+
+*The archives.* The same page asks all camp directors to send the CCA office **"Two copies of your
+camp brochure — they are needed for the C.C.A. Archives and for display at the February Conference
+at Geneva Park."** So there was a **C.C.A. Archives** actively collecting camp brochures in 1972,
+separate from the OCA archives deposited at Trent in October 1970 (issue 88). A Kanawana brochure
+of the early 1970s may sit in it. Where the CCA's own archive went is now a question worth an
+explicit search.
+
+**★★ A third: a national camping history project begins.** In the news column: **"Jack Pearse is
+working on the establishment of a committee to investigate ways and means of gathering together
+material which can be compiled into a master document on the history of the camping movement in
+Canada."** Whatever that committee produced — or failed to produce — is the natural place for a
+national account in which Kanawana, as one of the oldest camps in the country, would appear.
+Pearse is the CCA's Ontario vice-president. Track this forward through the run.
+
+**★ Claude Cousineau, "Have a 'Wigwas Teiman' in Your Camp," printed in English and French.**
+*Wigwas teiman* is glossed as "birch bark canoe in the algonkin language." **William Commanda,
+Traditional Chief of the Algonkin Nation of North America**, was building birch bark canoes on the
+**Maniwaki Reserve, about 90 miles north of Ottawa**, and **"This past summer, a few camps had the
+opportunity to acquire a Commanda birch bark canoe."** Materials given exactly: white cedar frame,
+birch bark covering, ash thwarts, black spruce roots for lashing, spruce gum mixed with animal fat
+for pitch. Cousineau reports the canoes used "on ceremonial occasions and for pleasure paddling by
+the more advanced canoeists," alongside screenings of the new NFB film **"Cesar and his birch bark
+canoe" / "César et son canot d'écorce"** — a real, datable 1972 practice for camps wanting an
+Indigenous component to a canoeing programme that was neither costume nor legend. Photographs show
+Commanda teaching **Gaston Lemire, instructor at the C.C.A. Canoeing School**, and an Algonquin
+model built July 1972 at the University of Ottawa camp. The opening line is Cousineau quoting
+Commanda: *"Claude, I think that you are more Indian than me with the paddle"* — offered as a
+compliment received, and worth recording as a period text rather than repeating as a judgement.
+
+**Set that beside "An Indian Version of the Twenty-Third Psalm," printed two pages from Mary
+Hamilton's obituary,** with an editor's note that it "originated many years ago with Arizona
+Indians who translated it into a universal sign language … A white missionary then retranslated it
+into literal English — Indian style — which is as you see it here." The text ("The Great Father
+above a shepherd Chief is … afterwards I will go to live in the Big Tepee and sit down with the
+SHEPHERD CHIEF forever") is a missionary composition presented as an Indigenous one. In a single
+issue the magazine prints a genuine transmission of Algonquin craft knowledge from a named living
+chief and a pseudo-Indigenous devotional pastiche of unstated origin, without appearing to notice
+any difference between them. That juxtaposition is the most economical illustration this read has
+found of what "Indian programming" meant in Canadian camps in the 1970s, and belongs in
+`wiki/site/indigenous-names-and-land.md` alongside Edgar's testimony from issue 95.
+
+**★★ In Memoriam — Miss Mary G. Hamilton, died July 1972.** Tribute by **Elizabeth Raymer**. "A
+pioneer in two fields: physical education and camping." **Principal of The Margaret Eaton School
+from 1926 through 1934**, and **founder and director of Camp Tanamakoon from 1925 until 1953**.
+Known as "Hammy", "Mary G" or "Merrigee." Her book **"The Call of Algonquin" (Ryerson Press, 1958)**
+records her years at Tanamakoon. The tribute's institutional claim is the useful one: Margaret Eaton
+School graduates "taught in every YWCA and in almost every private school for girls in Canada …
+Many of them eventually became camp directors." That is a second named training pipeline into
+Canadian camp directorships, parallel to the YWCA National Training School route Mary Edgar
+describes at issue 95, and a place to look for the women who ran girls' camps in Quebec.
+
+**★ "Money in the Bank — Budget, or else…" by C. Labbett, Director, Camp Oconto.** (Camp Oconto is
+Ferna Halliday's camp; June Labbett wrote the Halliday tribute at issue 90 — the family is now
+running it.) A full budget template for a 1972 Canadian camp, and the closest thing this read has
+produced to the economics of camp operation in the period. The expenditure headings are given as a
+list — Food; Salaries and Wages (counsellors, kitchen, maintenance); Supplies; Insurance (fire,
+auto, burglary, business interruption); Repairs and Maintenance; Telephone & Telegraph; Fees and
+Donations; Printing; Office Supplies; Office Rent; **Red Cross and Royal Life Saving Society
+examination fees**; Travelling; Publicity and Advertising; Light, Heat and Power; Tuck Purchases;
+Vehicle; Boat; Freight and cartage; Taxes, Mortgage or Loan Interest; Bank Charges; Unemployment
+Insurance, Canada Pension Plan and Workmen's Compensation; General. Hard figures: **raw food cost
+"anywhere from $1.00 to $1.75 per day"** per camper; **the employer's unemployment insurance
+contribution "is now 1.4 times that of the employee — not equal to his"** since the rules changed
+**1 January 1972**; CPP matched by the employer; and in Ontario **sales tax applies where the fee
+exceeds $66.50 per week and the camper stays less than 30 days**, with a suggested method of 2% of
+the total fee. Also that the Unemployment Insurance Commission and the Ontario Workmen's
+Compensation Board "maintain auditors who may examine your salary and wage records at any time" —
+a second reason, after the 1972 insurability change (issue 94), to expect surviving payroll records
+for camp staff from 1972 onward.
+
+**★ Bruno Morawetz, "The Counsellor in the Public Eye."** Director of Camp Ponacka, writing on
+counsellor conduct off the camp site — a normative document of exactly the kind that governed the
+staff whose evaluations sit behind the `p_307` thread, and useful because it says what was expected
+rather than who failed. The counsellor is framed as a member of "the teaching fraternity, with the
+obligation of observing their code of professional ethics," who "probably spends almost as much
+time with them in one month as their classroom teacher does in one year" and "is more of an idol
+than the teacher." The specific prohibitions: the **"swelled head" syndrome** and the night-off
+invasion of the nearest town — "it is hardly fit for them to take over a whole lunch counter in a
+restaurant or to talk loudly or overbearingly in public places … above the stores, late at night,
+people may be trying to sleep"; **trespass**, including on abandoned barns and cabins, since "even
+abandoned buildings belong to someone"; the collecting of **"trophies"** such as highway and
+cottagers' signs; nuisance-making at country stores; leaving a camp site better than found, with a
+woodpile for the next party; and, within camp, avoiding "gossip, 'borrowing' or running people
+down." Two passages worth keeping for their own sake: the local maintenance man "could teach the
+counsellors a great deal of what they cannot pick up at college," and "being a camp director can be
+a very lonely position."
+
+**★ "Guidelines for Job Negotiation," reprinted by permission from the Ontario Camping
+Association.** The hiring ethics of the period, stated as rules: an oral offer and oral acceptance
+**bind both parties**, the contract merely formalising it; once agreed, "it is unethical for you to
+apply or continue negotiations elsewhere," and other directors must be notified; breaking a
+contract to negotiate elsewhere is unethical, though a director "will usually offer a solution or
+release you from your obligation" on changed circumstances. And the **stated grounds on which an
+application may be rejected**: "age, school grade, lack of experience, previous performance at
+another job, references, your personal interview, no suitable openings available, or your
+unreasonable salary requirement in view of age and/or experience." Applicants are told to establish
+at interview "all Camp policies e.g. bed hours, days off, camp dress, smoking" and which benefits
+are taxable. This is the fourth period document this read has found setting out camp hiring
+practice, after Moon (79), the CIT study (83) and Caldwell (91); together they are enough to
+describe what a staff file of the era was for.
+
+**★ "Have You Heard? Do You Know?" — a new personnel news column, and the Quebec entries matter.**
+**Don Beauregard appointed Executive Director of the Quebec Camping Association**, and **Zave
+Ettinger elected President of the English Section of the QCA** (he replaces Peter Van Wagner
+between the Summer and Fall issues; the section française is headed by **Rev. Père Rosaire
+Corbin**). **Don Pringle "recently retired from the Y.M.C.A. in Regina and has been appointed
+Director of Camp Pine Crest, Toronto Y.M.C.A."** — with the bracketed joke that "Saskatchewan people
+are now complaining that they train all the good people and then Ontario grabs them off," which is
+also a statement about how YMCA camp directorships were filled nationally. **Jan James** is acting
+president of the Alberta Camping Association, replacing **Joe La Fortune**, appointed to a pastoral
+post in Michigan; the ACA gained **5 new accredited members, bringing the total to 18 accredited
+camps**. **John Hasell, Director of Outward Bound, Vancouver**, completes Tanya Krisman's term;
+**Jay Haddad** of Windsor is the new secretary; **Tom Creighton** resigned as Atlantic
+vice-president; **Bob Cameron** has left the YMCA for Moncton's Recreation and Parks Department.
+Saskatchewan is described as **the only provincial association to have dealt with environmental
+protection in its standards programme**, and the only one to have presented briefs — five of them,
+on the Qu'Appelle Basin, Churchill River and Peitahigan — to its provincial government.
+
+**★ Dates set, and one title worth remembering.** CCA Constitutional Task Force in Regina 1–2
+November 1972; CCA Executive 3 November; Saskatchewan Camp Directors Conference 3–4 November;
+**Geneva Park, Ontario, 1–4 February 1973** — CCA Executive, National Standards Committee Workshop,
+and a **National Camp Directors Workshop titled "The Threat to Camping — What does Camping have to
+do to survive?"**; Ontario Camping Conference in Toronto 8–10 March 1973; CCA Canoe Instructors
+School, **French section 1–10 June and English section 14–23 June, both in Ottawa**. Latimer's
+president's letter is on the same theme and should be read with that workshop title: "Camping is
+having difficulties … Government legislation and 'red tape'; increased operational and land costs;
+more competition; more alternatives for parents and children; less public awareness; higher
+standards … We are being threatened and we must do something about it!" **The sense of crisis in
+Canadian camping is now firmly dated to the 1972–73 season**, which is the frame any account of
+Kanawana's own difficulties in the 1970s should be written in.
+
+Latimer also reports the CCA lobbying Ottawa over the **Opportunities for Youth / Perspectives-
+Jeunesse** programme — "deep concern over some of the projects relating to children and camping
+which were submitted to the Government" — and wanting a closer liaison so the CCA could help select
+"only those leaders who are qualified and experienced," plus a complaint that **national
+organisations are not permitted to submit project proposals** to the Secretary of State. The two
+Montreal family camps found at issues 94 and 95 were both Perspectives-Jeunesse-staffed; this is
+the professional camping establishment's view of that programme, and the two should be read
+together.
+
+**Eanswythe Flynn, "Do It Now! A Camp Director's Check List"** (Camp Brigadoon), the first of a
+promised quarterly series: month-by-month duties for November, December, January and February.
+Notable for the shape of the year it implies — staff engaged and **"contracts signed and sealed"**
+in January, out-of-town interviews arranged then, counsellor rules on "duties, responsibilities,
+time off, behaviour in camp and out of camp, supervision of campers and cabins" reviewed and
+discussed at February interviews, and agency camps advised in December to ask for **surplus
+commodities**, including "clearance of fire-damaged goods which can be used in arts and crafts."
+
+**David Keast (Camp Ponacka), "Nature is Fun."** A camp naturalist's working method — scout the
+site first, read everything, then teach by question rather than statement, and "never be afraid to
+say 'I don't know', but be sure to add 'Let's look it up and find out'." Argues for stocking the
+nature hut mainly with **domesticated** animals (ducks, turkeys, chickens, pheasants, mice, white
+rats, gerbils, guinea pigs, rabbits, a goat) because campers want to handle animals and wild ones
+sicken in cages and carry rabies risk; wild animals kept only a few days and released. Ratio given
+as ideally 6–8 campers per instructor. Recommends **200 Outdoor Science Activities** (Ontario
+Teachers' Federation) and **Playground Activities Nature Study** (Federation of Ontario
+Naturalists). Directly usable in an environmental-and-ecological-history article as evidence of
+what camp nature programming actually consisted of in 1972.
+
+**Theron Kramer (Camp Edgewood), "Approaching Camp Rentals."** The off-season rental question,
+argued as policy rather than revenue: non-profit camps turning to rentals to cover fixed costs
+"incurred both before and after the fee-paying campers are there to cover them," but with an
+obligation to know what programmes the renting groups run and to offer "professional consultation"
+over and above food and accommodation. His examples of who rented a camp in 1972 — drum and bugle
+corps, a police detachment training school patrols, youth groups, senior citizens, boy scouts,
+church councils. Relevant to any account of how Kanawana used its site outside July and August.
+
+Also: **"40 Promotion Techniques to Aid Camp Public Relations,"** adapted with permission from the
+ACA's *Camping Magazine* — a four-column list (campers, parents, alumni, home community) which
+includes "Gifts to new babies" and "Contacts in college years" under alumni, and is a compact
+statement of how a camp of the period was expected to keep hold of its people. **Outdoor Cookery**:
+frankfurter kabobs and a marshmallow fruit grill. **Tips**: used motor oil as a dock preservative
+applied in autumn with a cloth-covered rake; chloride of lime on cabin floors against mice, with a
+burn warning; capping stove pipes and chimneys against bats and birds; testing propane lines in
+spring with soapy water and "don't use a match!"; and an argument for turning a staff's request to
+return in the fall into **a paid-in-goodwill work weekend** — "No flies; no mosquitoes; no campers
+underfoot." Cover courtesy of **Dr. & Mrs. J. Harry Ebbs, Taylor Statten Camps**. No Kanawana and
+no YMCA of Montreal reference in this issue.

@@ -4014,6 +4014,45 @@
       "created_at": "2026-09-04",
       "status": "pending",
       "notes": "This is the honest complement to a method that traded completeness for tractability, and it is what makes that trade checkable rather than merely asserted."
+    },
+    {
+      "priority_id": "p_311",
+      "rank": 310,
+      "type": "RESEARCH",
+      "description": "The 1972 CCA national songbook. In Fall 1972 Canadian Camping asked every camp in Canada to send in 'the words and list the tune of your camp song so that it can be shared across Canada' for a songbook to be made available to all camps (issue 96 of the word-for-word read). Kanawana was an accredited Quebec camp and a member camp; if it replied, the words AND the tune of a Kanawana camp song were recorded in 1972 -- in the window between the 1941-1945 song books and the modern Marching Song, and the only likely source outside Concordia for a tune attribution. TWO ACTIONS: (1) read forward through the 1973-1976 issues of this run for any announcement, contents list or advertisement for the songbook, and note it in the findings file when found; (2) search externally for a published Canadian Camping Association songbook of the 1970s (Internet Archive, Library and Archives Canada, WorldCat, AbeBooks, Trent University Archives).",
+      "article_id": "camp-songs-cheers",
+      "blocking": false,
+      "assigned_weight": 8,
+      "created_at": "2026-09-04",
+      "status": "pending",
+      "tier": "important",
+      "notes": "Feeds p_045-adjacent song threads and p_048 directly. Source: Canadian Camping Vol. 25 No. 1 (Fall 1972), p. 3."
+    },
+    {
+      "priority_id": "p_312",
+      "rank": 311,
+      "type": "RESEARCH",
+      "description": "Locate the C.C.A. Archives. The same Fall 1972 notice asked every camp director to send the CCA office 'two copies of your camp brochure -- they are needed for the C.C.A. Archives and for display at the February Conference at Geneva Park.' So a Canadian Camping Association archive was actively collecting camp brochures in 1972, separate from the Ontario Camping Association archives deposited at Trent University on 22 October 1970 (issue 88). A Kanawana brochure of the early 1970s may sit in it. Establish where the CCA's own archive went -- Trent is the first place to ask, since it already holds the OCA deposit and the Mary S. Edgar fonds; the Canadian Camping Association's successor body is the second.",
+      "article_id": "sources",
+      "blocking": false,
+      "assigned_weight": 7,
+      "created_at": "2026-09-04",
+      "status": "pending",
+      "tier": "important",
+      "notes": "Source: Canadian Camping Vol. 25 No. 1 (Fall 1972), p. 3."
+    },
+    {
+      "priority_id": "p_313",
+      "rank": 312,
+      "type": "RESEARCH",
+      "description": "Jack Pearse's national camping history committee, 1972. Canadian Camping Fall 1972 reports that 'Jack Pearse is working on the establishment of a committee to investigate ways and means of gathering together material which can be compiled into a master document on the history of the camping movement in Canada.' Whatever that committee produced -- or failed to produce -- is the natural place for a national account in which Kanawana, as one of the oldest camps in Canada, would appear. Track it forward through the run, then search externally for any resulting publication.",
+      "article_id": "canadian-camping-movement",
+      "blocking": false,
+      "assigned_weight": 6,
+      "created_at": "2026-09-04",
+      "status": "pending",
+      "tier": "nice-to-have",
+      "notes": "Source: Canadian Camping Vol. 25 No. 1 (Fall 1972), 'Have You Heard? Do You Know?', p. 13."
     }
   ],
   "queue_ordering": {
