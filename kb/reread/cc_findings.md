@@ -14439,7 +14439,11 @@ McKeen. ★ "LA BELLE PROVINCE'S PRES. L. PERRAS with BOB LAZANIK and CY BEKOFF.
 represented at the 1970 national dinner by **Father Lionel Perras** as president, with Lazanik
 and **Cy Bekoff** — a new name — the merged association's public face one year after the
 affiliation announced at issue 83. **Mary Edgar "delights with her poetry"** at the same
-dinner. Also new on the masthead: a system of **Provincial Representatives** to the editorial
+dinner. *[Corrected 2026-09-04 at issue 86: the next issue prints "Sorry the names were mixed
+on the cover of the last issue!" and reprints three of the captions. The names and the offices
+above are the magazine's own and are real, but **which name went with which face — and so some
+of the name-to-province pairings — is not something this reading can confirm.** Treat the
+pairings as provisional pending a second source.]* Also new on the masthead: a system of **Provincial Representatives** to the editorial
 committee, Quebec's being **Huguette Dagenais** — a francophone name on the national magazine's
 committee for the first time in this run.
 
@@ -14738,3 +14742,314 @@ confirming Ethel Statten as "Tonakela," Loewen's complete winterization and off-
 model, Ebbs's four medical notes including a dated lightning standard for canoe trips, Hatcher's
 YMCA "sloosh" board, Kronick on integrating disabled campers, and — rarest of all — two
 twelve-year-olds telling a conference of counsellors what a good counsellor is.
+
+---
+
+## 86. Vol. 22 No. 3, April 1970 — `canadiancampingmagazine_vol22_no3_1970april.txt`
+
+*Contents page*: Editorial (Prime Minister Pierre Elliott Trudeau); News from the Provinces /
+Nouvelles des provinces; Unique Outdoor Education (William J. Babcock); Spacemen Are We! (Kirk
+A. W. Wipper); "L'Accréditation Des Camps, Tremplin Vers l'Excellence" (Lionel Perras); Books
+for Camp; Land of the Algonquin, poem (Lela Shepley); Relationships of Camping to Education
+(Sister Mary Nolasco Mulcahy); When Stealing Occurs at Camp / Le Vol au Camp (Elsie Palter);
+Laurence Taylor in Practice (Mary Leggatt). All eleven checked against the read; all covered
+below.
+
+**★ THE MAGAZINE GOES BILINGUAL.** The cover reads **"APRIL 1970 AVRIL"**, the masthead is set
+in both languages throughout ("Présidente honoraire," "Secrétaire exécutif," "Comité de
+rédaction," "ANCIENS PRÉSIDENTS," "BUREAUX PROVINCIAUX"), Trudeau's editorial runs in both,
+Elsie Palter's article is printed twice — English and a French translation by **Janina Klee** —
+and **Lionel Perras contributes a full-length article in French only**. This is the visible
+consequence of the 1969 merger recorded at issue 83, thirteen months later, and it is a fact
+about the source itself: **from April 1970 this run carries French-language content that an
+English-only search would never surface.** The provincial offices now list **both** bodies
+separately: *Quebec Camping Association — 2233 Belgrave Ave., Montreal 261* **and**
+*L'Association des camps de Québec — 952 Cherrier Ave., Montreal*. Two addresses, one movement.
+
+**★ Officers.** **John Latimer is President-Elect** (160 Eglinton Ave. E., Toronto), succeeding
+Hartry; and **Bob Lazanik is 3rd Vice-President** of the CCA — the first Quebec officer of the
+national body since the merger, and the man who announced it. Quebec's provincial
+representative to the magazine is **Huguette Dagenais**; Manitoba's is now **Lynn Ryan**. The
+editor prints a correction: "**Sorry the names were mixed on the cover of the last issue!**" and
+reprints three captions (Saskatchewan's Eileen Mayotte, Newfoundland's Eric Russell, Nova
+Scotia's Mrs. Campbell and Tom Creighton). *Noted against block 85*: the March 1970 cover
+captions I transcribed there are the magazine's own, and the magazine says some of them were
+misassigned. **The pairing of name to province in block 85 should therefore be treated as
+provisional** — the names are real and the offices are real, but which face went with which
+caption is not something this reading can confirm. Correcting block 85 in place accordingly.
+
+**★ Prime Minister Pierre Elliott Trudeau writes the editorial** — in both languages, from
+Ottawa, 1970. English: "Canoeing down a fast moving stream, the smell of a smoking campfire,
+the fresh air of early morning in the woods. These are some of the happy and nourishing
+experiences that many of us have shared. Nature provides us with an opportunity for enjoyment,
+solitude and self-renewal. How fortunate we are to live in a country so abundantly blessed with
+unspoiled streams, forests and mountains!" The French is not a translation but a separate
+composition — "Un canot qui bondit au milieu des rapides, l'odeur inoubliable d'un feu de bois
+et la griserie d'un réveil matinal au creux d'une clairière: ce sont là des moments privilégiés
+que plusieurs d'entre nous ont vécus." **A sitting Prime Minister writing for the camping
+movement's magazine**, and a dated instance of Trudeau's well-known canoeing identity being put
+to institutional use. Worth having on record for
+`connections/institutional-lineage/canadian-camping-movement.md`.
+
+**★★ LIONEL PERRAS, "L'Accréditation Des Camps, Tremplin Vers l'Excellence" — the fullest
+statement anywhere in this run of what camp accreditation in Quebec actually required, written
+by the president of the ACQ.** This is the apparatus Kanawana was inspected under, set out by
+the man running it, and it is the most directly useful Quebec finding since issue 70's
+McFarlane round. Substance:
+
+- *Definition*: "**LA RECONNAISSANCE OFFICIELLE, par un organisme compétent et reconnu, du
+  sérieux des objectifs que s'est fixés une institution et de la valeur des moyens qu'elle
+  utilise pour atteindre ces objectifs**."
+- *★ Chronology and provenance of the standards*: accreditation "fut l'une des premières
+  préoccupations des fondateurs de l'ACQ **en 1958**… il suffit de relire **les procès-verbaux
+  des assemblées**" — a direct pointer to surviving ACQ minutes. Past work drew on "les
+  dirigeants de l'ACQ et à l'American Camping Association." And the key sentence: **"L'Association
+  fournit aux camps avec le texte des normes actuelles dernièrement traduites de la QCA"** — *the
+  ACQ's current standards are a recent translation of the Quebec Camping Association's.* **This
+  matters archivally: if the English QCA standards Kanawana was measured against are lost, the
+  French ACQ text is a translation of them and recovers their content.** He also refers to
+  "**des camps visités au cours de l'été 1966**" — a 1966 visiting round, one year after the
+  McFarlane round of issue 70, and further evidence that Quebec camps were being systematically
+  visited and written up in exactly the period Kanawana's records are thin.
+- *★ The eleven characteristics assessed* — effectively the inspection checklist: staff whose
+  training meets qualification and age norms and who are numerous enough to form a stable team;
+  an efficient and creative administration where the director holds full responsibility for the
+  camp's general running; a programme with long-term forecasting aimed at the camp's maturity;
+  premises whose plans and equipment serve the education being given; a sense of the camp's own
+  identity and prestige, hard to achieve "si on n'oeuvre pas dans des locaux fonctionnels,
+  appropriés et convenables"; a programme respecting physiological and psychological norms in
+  theory and practice; **conditions of employment ensuring recruitment and staff stability,
+  which "supposent des salaires et rétributions conformes aux usages des camps"**; **statutes
+  approved by the camp's board defining the organigramme and each person's functions and
+  responsibilities, codifying terms and conditions of employment**; an admissions policy and a
+  policy of relations with parents; financial administration norms (budget, accounting,
+  financial reporting, purchasing) letting other administrators stay informed and exercise
+  control; and administrators who understand and accept their responsibilities and are "les
+  interprètes les plus enthousiastes et les mieux informés" to the public.
+- *★ The two stages*, both self-directed: **defining the camp's objectives** and **a
+  self-critique**. On the first, his advice is a research method in itself: study the camp's
+  **charte civile** if incorporated — "**c'est le document qui renseigne le mieux sur les buts
+  que se proposaient les fondateurs du camp**" — and if not incorporated, find the documents or
+  the people who know why the camp was founded; the inventory "racontera qu'il y a eu des
+  amendements qui ont orienté le camp et l'ont fait évoluer autrement." **That is exactly the
+  reading of a founding charter this project has been doing on Kanawana's 1922 Woodcraft
+  charter.**
+- *★ The self-critique's six headings*, each a set of questions — and each a template for what a
+  camp's own accreditation file would contain: **administration** (is the structure fit to make
+  the camp progress? is it outdated? are enough people present at the camp council? is the line
+  of authority respected in the organigramme? **"Y a-t-il un Coutumier du camp?"** — a book of
+  the camp's own customs, which is a striking thing to find as an accreditation requirement and
+  is directly relevant to `traditions/`); **programme**; **resources**; **la vie des campeurs**
+  (do the young accept the activities willingly? what climate reigns among the campers? are
+  changes needed to answer their legitimate wishes? are counsellors involved in campers' lives?
+  has the camp provided means of watching over their physical and moral health? **"La vie
+  spirituelle du camp est-elle intégrée dans l'oeuvre ou fait-elle partie d'activités qui
+  s'ajoutent sans lien avec le reste?"**); **finances** (where does the money come from? is there
+  a long-term development plan?); and **hygiene, health and safety** (analysis of drinking water
+  and of the beach, milk, refrigeration, cleanliness of premises, and the bathing place, craft
+  and those in charge of them).
+- *Cycle*: once accredited, the ACQ Standards Committee follows the camp closely and **"tous les
+  2 ou 3 ans environ, un contrôle des résultats et une réévaluation de ses progrès sera
+  reprise"** — a two-to-three-year re-inspection cycle.
+- *Advantages*, listed for camps, society, parents and campers, and counsellors — including,
+  for camps, **"l'aide financière des gouvernements et des compagnies que les camps pourraient
+  recevoir,"** and for society, "une protection contre les camps qui n'ont aucune valeur et qui
+  prétendent avoir le droit d'ouvrir leurs portes."
+- His refrain, repeated three times and once in italics at the end: **"Ce sont les camps qui
+  feront leur propre accréditation, le visiteur va seulement la constater officiellement."**
+
+He closes by noting the standards are wanted by all "depuis que les camps de langue française
+**sur le modèle de ceux de langue anglaise** ont décidé de se grouper en association" — the
+French section describing itself as modelled on the English one, which is another datum for the
+QCA/ACQ sequence corrected at issue 83.
+
+**★ Kirk Wipper, "Spacemen Are We!"** — excerpts from a paper to the **Society of Camp
+Directors**, dated by its opening to just after the **Apollo XIII splashdown (April 1970)**. His
+scheme: **outer space** (the Apollo adventure), **middle space** (the natural environment), and
+**inner space** ("that which lies within each of us"), with the argument that outer space gets
+the attention because "this planet's wilderness has been explored and charted… even the undersea
+regions have been investigated," while "the middle and inner spaces are the immediate and real
+concerns." Substance worth keeping:
+
+- **The Conservation Council of Ontario, "in which our O.C.A. participates,"** reported **500 to
+  600 chemical poisons in use in the United States**, with **"roughly 70 million pounds of those
+  poisons used each year"** in Canada, against "so little experience or information regarding
+  the long-range effects." **"The recent recall of D.D.T. is an example of a major admitted
+  error."**
+- *★ His passage on Indigenous land relations*, recorded as written and as a 1970 non-Indigenous
+  camping leader's framing: "The Indian for centuries tended to approach his natural
+  surroundings as a friend… never really depleting his living environment… **Maka-ina, mother
+  earth, and the four winds received his salutes around the council campfires.**" Against this he
+  sets "the white man [who] looked upon the wilderness as an enemy to be subdued… Hacking,
+  gouging, blasting, burning, scraping, digging, burying, flooding, cutting, draining,
+  stripping, hunting and trapping." **This is directly relevant to the `indigenous-place-names-
+  and-land-history` thread**: the same council-ring vocabulary this project has traced through
+  Kanawana's own ceremonial, here doing argumentative work in an environmental essay. It should
+  be recorded and dated, not adopted.
+- Named contemporary controversies: **"We blunder along over Spadina Expressway issues, waste
+  disposal, highways, mines and quarries, energy plants, subdivisions, huge public campsites in
+  parks and industrial developments."** Cites **Doxiadis** on present trends leading to disaster,
+  **Milton Eisenhower** in the *Globe and Mail* on urban crisis, **Churchill** ("We shape our
+  cities and then they shape our way of life"), and **Tennyson** on "self-reverence,
+  self-knowledge, self-control."
+- **★ A named research citation for camping's effects**: **Jerome Beker, Teachers' College,
+  Columbia University, "The Influence of School Camping on the Self-Concepts and Social
+  Relationships of Sixth Grade School Children"** — finding that **five days of camping "can have
+  a marked positive impact on children's self-concepts and to a slightly lesser degree on their
+  social relationships,"** though "the precise nature and depth of this influence and its
+  specific determinants… remain obscure." A findable study, and the kind of evidence Ebbs's new
+  Society was calling for at issue 84.
+- His five questions on self-concept — "How can a person feel liked unless somebody likes him?…
+  How can a person feel important unless he is important to someone?" — and his closing
+  pollution chain in the "House that Jack Built" form the magazine had printed at issue 84:
+  "This is the trailer truck that polluted the air which polluted the clouds which polluted the
+  rain that fell to earth and polluted the land which polluted the plants and the water… and
+  poisoned man."
+
+**★ William J. Babcock (Camp Richildaca), "Unique Outdoor Education" — a camp's complete
+twelve-year record of school use, and the best single answer in this run to what "year-round
+use" meant in practice.** The list of programmes run at one camp: canoe trips; canoe-skills
+training; water safety; a **resident art camp**; biology and natural science; **work-study with
+four-year technical students**; a geography regional study; leadership training with vocational
+students; **"La Maison Française" — a resident French language camp**; junior high camping and
+geography; senior elementary interdisciplinary days; grades 2–5 day experiences; and preschool
+half-days. Detail worth keeping:
+
+- Two schools trained students in swimming, canoeing, campcraft and water safety at the camp
+  **and used the test results as a selection criterion for who went on canoe trips**; **Richmond
+  Hill High School** has an **"Outfitters Club"** providing information, maps and routes, and has
+  sent out trips **since 1958**.
+- **Work-study**: four- and five-year technical boys from **Cedarbrae Collegiate** and
+  **Thornlea Secondary** built **eight tent floors, a bridge, a sauna bath, forestry work and
+  fence building** — school labour as camp capital works, which is a specific thing to look for
+  in any camp's construction record.
+- **La Maison Française**: forty students for a week, all agreeing to **speak only French**, with
+  plans to enlarge it and add a German camp; "the students involved in the French camp have
+  generally improved in this subject in subsequent terms at school."
+- **★ A full winter outdoor-education day programme** — twelve activities of which eight must be
+  completed: melting snow to find the snow-to-water ratio; measuring snow depth to compute
+  precipitation; **temperature readings at different depths of the pond**; bud formations;
+  **impressions of bark taken in cobbler's wax** for later identification; winter damage to trees
+  including rodent damage; animal tracks; **construction of a shelter for two**; winter first-aid
+  problem solving; language arts descriptions **in French and English** plus lab reports;
+  orienteering on snowshoes or skis; and cooking their own lunch over an outdoor fire. Snowshoes
+  provided. **Woodland Senior Elementary ran eight such days in January and February.**
+- His advice to camps wanting this business: contact local teachers of science, physical
+  education, geography, art and languages, invite them to the camp, and write to the Director of
+  Education; and note that **the Ontario Teachers' Federation "will soon publish a Handbook on
+  Outdoor Education in which will be listed camps which have shown an interest"** — a findable
+  document that would name the participating camps.
+
+**★ Elsie Palter, "When Stealing Occurs at Camp" / "Le Vol au Camp"** — one of the five founding
+directors of the Society (issue 84), printed in both languages. Her taxonomy of causes: lack of
+a sense of property rights (uncommon); **the desire to please rather than to possess** — "very
+often the child steals things he does not need and gives them away to ingratiate himself with
+his fellow campers… When money is stolen, this, too, is often used to 'buy' acceptance";
+vengeful feelings against authority, "in order to annoy the parent or counselor… By this means
+the child asserts himself and rids himself of the feeling of being treated unfairly"; and,
+commonest in the school-age child, **"a need to overcome a sense of inferiority or a feeling of
+being different from the group due to perhaps a physical handicap, shabby clothes, overweight,
+and even being too well dressed,"** expressed as bribery or **"splurge stealing."** Her
+observation about camp as an environment: **"At camp, there is very little privacy and all
+behaviour is exposed, so that stealing is quickly detected and usually the culprit is readily
+identified."** Her recommended procedure is worth recording in full because it is a documented
+1970 camp disciplinary method and a genuinely uncomfortable one: call a meeting of the small
+group; have the children say in turn what they expect of each other regarding personal property,
+**with no accusations**, reaching a consensus; then **"Each child could be asked to write the
+name of the person whom they believe has been guilty of stealing and this information must be
+treated confidentially,"** after which the child is helped privately and, when ready, "express
+his mistake at a later meeting." She is clear about the aim — "We must find ways in which he is
+important… we must be very direct and honest with him about his behaviour without making him
+feel 'bad', 'undesirable', and 'unwanted'" — but the written ballot naming a suspect is the sort
+of period practice that needs its context supplied rather than being quoted bare. Her aside on
+class is also of its time and should be dated, not repeated: "in slum areas of large cities,
+stealing by children is quite acceptable and condoned, but getting caught is the offence."
+
+**Sister Mary Nolasco Mulcahy, RSM, Ph.D. (Principal, St. Bride's College, St. John's),
+"Relationships of Camping to Education,"** to the Newfoundland and Labrador association's annual
+conference, **26 April 1969**. A philosophy-of-education framing: "Education is the total
+development of a human being in his total environment," worked through physical, intellectual,
+social/moral and — "in a Christian context" — spiritual development. She quotes **Sir Richard
+Livingstone**, *The Future in Education* (1945), p. 2 — the same authority Margaret Govan
+invoked twice at issue 84, from a different tradition: "**We drift into and through education in
+a mechanical, automatic, unthinking way, instead of clearly defining to our minds what we wish
+education to do for us.**" Her challenge to camps is Perras's in another idiom: "Are there
+clear-cut aims and objectives set down? Is there a philosophy of camping with guidelines in
+evidence?" Notable for its inclusion of "a respect for one's body **including one's sexual
+endowment**" among the aims of physical education, in a 1969 address by a religious-order
+principal to a camping conference.
+
+**Mary Leggatt (Camp Onawaw), "Laurence Taylor in Practice"** — the Hillsdale small-group method
+(issues 80, 84) actually implemented at a camp, and the most concrete pre-camp training record in
+this run. **An eight-day pre-camp for counsellors plus two extra days for department and section
+heads.** Her preparation as leader: find the warmest spot with a suitable table and chairs, paper
+and pencils for everybody, an ash tray, **brown paper pinned to the wall for writing major
+decisions "since we have no easel or chalk board,"** arrive early to greet each person, coffee
+available — "**The right atmosphere is so important.**" Ground rules: introduce yourself by name
+"**and our camp names if we had them**" plus what you did during the year, one minute each with
+an appointed timekeeper; then three minutes' thinking on the question; a volunteer speaks first
+and the group follows clockwise; one minute each; **you may speak to the question, comment on a
+previous answer, pass and take your time later, or "ask for silence for her time so that everyone
+could do some more thinking."** Questions used: "What do you expect to get out of pre-camp?",
+"What do you think the counsellors want to get out of pre-camp?", and for the full staff (divided
+into four groups with equal numbers of new staff in each) the same, then "What do you think the
+campers want to get out of camp?" — each group reporting its three most important ideas. She
+separates the three roles she had combined: **leader** (prepares background, secures timekeeper
+and first speaker, knows the ground rules), **secretary** (records all ideas), **host** (prepares
+the facilities, welcomes counsellors, takes them to their group). Her honest finding: "**Actually
+the program was not very different from what we might have planned**… The big difference compared
+to former was the much greater participation, and enthusiasm." Also: "We used a tape recorder
+which **I felt inhibited some of the staff**," and the warning, "Like all techniques it must not
+be over-worked."
+
+**News from the Provinces**, now a proper column. **British Columbia**: camp visitation toward
+accreditation "progressing slowly with ten camps visited to date"; an exhibit at the Pacific
+Outdoor and Sports Show; a **"Nature Discovery Weekend"** on the discovery approach; and a burst
+of school camping — **West Vancouver School Board's full-time "Science Camp" for Grade 7** at the
+Salvation Army's Camp Sunrise (Ed Jackson coordinating, Janna Taylor on-site programme director);
+**Vancouver School Board's 31-week experimental programme at Camp Capilano**, directed by **Jack
+F. Way, now the camp's full-time director**, with volunteer counsellors and cooking staff drawn
+from Grade 12; and North Vancouver's "Outdoor Schools" at the United Church's Camp Fircom on
+Gambier Island. A new **B.C. Camping Outdoors Association** convened by Mrs. Dick Ramsay, joining
+UBC, Simon Fraser, the BC Teachers' Federation, the BCCA, the BC Wildlife Federation, the
+Canadian Wildlife Service, school boards, Canadian Youth Hostels, University of Victoria, Boy
+Scouts, Vancouver Parks Board and the YMCA. **Grant McKeen**, formerly of Edmonton, is now in
+Vancouver with Youth Resources Inc. "and is operating his own camp in the Okanagan for
+emotionally disturbed boys." **Manitoba**: the MCA offered the province **300 university student
+jobs and camping for over 3,000 "core area" children**, and got no reply — "on the contrary,
+indications are that our government is planning its own program at almost twice the cost to the
+Manitoba tax payers as it would cost to operate a program in co-operation with existing camps";
+a second brief asks the premier for a **campership fund**. Manitoba is also writing **Desirable
+Practices and Standards for Day Camps**, with day camps to be visited and offered accreditation
+that summer. A **Canoeing Instructor School comes west** — Cousineau, Wipper and **Gerry
+Fassett** at **YMCA Camp Stevens, 2–9 June 1970**, sponsored jointly by the CCA, the University
+of Ottawa and the Fitness and Amateur Sport Branch. **Brigade '70**: two Manitoba Centennial
+Corporation canoe brigades, from Kenora and from Grand Forks, both ending in Winnipeg on **14
+July**. **Ontario**: the **Counsellors' Conference at York University on 9 May drew 1,200
+delegates** — the conference at which the two twelve-year-olds spoke the year before (issue 85);
+**Stanley Burke**, "the ex-voice of the National News," and **Pollution Probe** at the OCA annual
+meeting of 29 April, introducing "an exciting programme which will bring Ontario Camps into the
+fight against pollution"; the **Society of Camp Directors** met in April with papers by **Don
+Groff on Intercultural Camping** and **Bruno Morawetz on Drugs**, enquiries to **Stan Wild**, who
+has returned as OCA executive secretary; and **Ron Johnstone, National Chairman of Standards**,
+with co-chairman **Al Goodman**, implementing **"a new set of Mandatory Standards — Over 20 items
+are mandatory for a Camp to be an accredited member."** So **1970 is the year mandatory standards
+arrive nationally**, in both languages and both sections.
+
+**Smaller items.** Lela Shepley — the seventeen-year-old first-year counsellor who wrote on
+homesickness at issue 85 — contributes a poem, **"Land of the Algonquin"**, in alliterative
+triplets ("Silver pools, silent paddles / Rainbow rapids reckless riding"). Book notes:
+**Ottelyn Addison with Elizabeth Harwood, *Tom Thomson: The Algonquin Years*** (Ryerson, $4.95),
+drawing on her father **Mark Robinson's diary**, "an intimate friend of Tom Thomson's";
+**J. F. Lansdowne and John A. Livingston, *Birds of the Northern Forest*** ($20); and Paul
+Elvstrøm on the 1969 yacht racing rules. The magazine appeals: "**WE NEED PHOTOGRAPHS! OR
+SKETCHES**." A new advertiser worth noting for camp safety equipment: the **S.O.S. Oxygen
+Inhalator**, twenty pounds, "an automatic flow of six litres of oxygen per minute," with a manual
+bag resuscitator "for restoration of the breathing cycle in case of drowning."
+
+Nothing in this issue names Kanawana. Its value is very high nonetheless: Perras's accreditation
+paper is the Quebec inspection regime described from the inside by the man who ran it, including
+the fact that the ACQ standards are a translation of the QCA's — a route to the text Kanawana was
+measured against — and a pointer to the ACQ's own minutes from 1958; plus the magazine's turn to
+bilingual publication, Trudeau's editorial, Babcock's twelve-year school-use record, and the
+arrival of mandatory national standards in 1970.
