@@ -1,7 +1,7 @@
 # Leo J. Robitaille
 
-*Status: draft | Sources: 5*
-*Last Updated: 2026-08-14*
+*Status: draft | Sources: 6*
+*Last Updated: 2026-09-04*
 
 ## Overview
 
@@ -49,6 +49,8 @@ Two others he assesses individually. Of **Al Mongraw**: "does not work well with
 
 Two things are worth saying about that passage rather than leaving it to speak for itself. The first is that it sits at the end of a report which is otherwise warm about the 1973 staff — Robitaille calls the season "the best one, in the three years I was involved," praises Perry Olshansky, Derek Walsh, Eva Menzak and Bob Fyfe by name, and thanks Olga Hall for carrying four different camp directors. The second is that these were seasonal employees in their late teens and early twenties, judged by a supervisor who was himself leaving, in a document written for a hiring committee and never meant to be read outside it.
 
+Written end-of-season assessment was, in any case, normal practice in the association Kanawana belonged to. In February 1977 the Canadian Camping Association circulated John Latimer's summary of camp promotion and public relations, which recommends that "**at the end of the summer, a letter of assessment from the Director**" be sent to each camper's parents, and notes that this "will mean that there must be a very accurate method of receiving a full report from each counsellor."^6 Latimer is describing assessments of campers rather than of staff, so this is not the same document type as Robitaille's; what it establishes is that a director sitting down in August to write down judgements of the people who had passed through his camp that summer was doing what the national association told directors to do. The paper trail that produced the passage above was a professional norm, not an idiosyncrasy.
+
 It also tells you something about how the camp actually hired. The recommendation is not a dismissal; it is advice to a committee that would reconvene in December, and it assumes the committee knew these people. A camp that rehired half its staff every year ran on exactly this kind of institutional memory, and this is what it looked like written down.
 
 **Not to be confused with Georges Robitaille**, president of the Association des camps du Québec's
@@ -93,6 +95,7 @@ Source: the Montreal YMCA annual reports and news releases.^2 ^3
 3. Montreal YMCA news releases of 28 November 1969 and 26 October 1973, a 1968 branch newsletter, and a 1976 recreational-activities brochure, in the Concordia-digitized fonds [src_ia_ymca_montreal_fonds_collection].
 4. *The Lookout* Vol. 1 No. 3, autumn 1993 — the "past directors" appeal listing "Tom Potts (part of 72)" [src_ia_the_lookout_1993].
 5. *Canadian Camping Magazine*, Vol. 28 No. 2 (January 1976), Vol. 28 No. 3 (June 1976) and Vol. 29 No. 3 (May 1977) [src_ia_canadian_camping_collection] — Georges Robitaille, ACQ French-section president. A different person.
+6. John Latimer (Director, Kilcoo Camp), "A Summary of Points Related to Promotion and Public Relations," from a talk given to the Ontario Camping Association, printed in *Canadian Camping* Vol. 29 No. 1 (February 1977), pp. 3-4, 11 [src_ia_canadian_camping_collection]. Found by the full word-for-word read of the run (`kb/reread/cc_findings.md`, issue 111).
 
 ## Research Notes
 

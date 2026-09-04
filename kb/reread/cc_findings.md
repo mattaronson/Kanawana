@@ -20387,3 +20387,171 @@ the ACA Mid-America Convention in Dearborn, 8–12 March 1977: **Grant McKeen** 
 "Camping as Therapy" and **John Gullick** of Toronto on "Camping for Children with Special Needs";
 the ACA Mid-Atlantic Regional is at Buffalo, 15–18 February 1977. A classified ad shows the labour
 market: a camp director with seven years' experience advertising for a full-time position.
+
+---
+
+## 111 — Vol. 29 No. 1, February 1977
+
+Twelve pages, typewritten newsletter. Every item accounted for: News and Views from Across Canada
+(BC, Alberta, Saskatchewan, Manitoba, Ontario, Quebec, New Brunswick, Nova Scotia, Newfoundland and
+Labrador); A Summary of Points Related to Promotion and Public Relations (John Latimer); Responsibility
+(Eileen Mayotte, reprinted from the Saskatchewan Camping Association Newsletter, October 1976); Old
+Canoes; Nature's Thermometer; Foreign Counsellors; To Hart M. Devenney (Kirk Wipper); Something of
+Value (Charles Plewman); a Cash's Name Tapes advertisement; the logo-contest deadline; Task Force;
+Publications; Weather Forces Postponement; C.R.C.A. Canoe Instructors Schools 1977; Craft Idea;
+Woodsmanship Schools; Woodland Centerpieces; Civilization (Kenneth Clark). **No Kanawana reference —
+the null recorded explicitly.**
+
+**★★★★ QUEBEC IN 1977: $300,000, A PROMOTION WEEK, AND A FORTIETH BIRTHDAY.** The Quebec column is
+the densest paragraph on this province the run has produced:
+
+> "**Support from the Provincial Government is still very evident in this Province, and a close
+> liaison exists when it comes to new legislation. $300,000 is being given to the Association for
+> their spring Training Programme.** … Some of the upcoming events in Quebec include **'Camp Week'
+> (March 5-11)** … promotional spots on radio and television; advertisements and public service
+> announcements in every newspaper; buttons, posters, badges etc. will all be used to make everyone
+> in Quebec more aware of camping opportunities … We are pleased to see the name of **Rosaire
+> Corbin** back on the roster of personnel with the A.C.Q.-Q.C.A. Rosaire is responsible for all of
+> the upcoming training programmes. **Highlight of the spring will no doubt be the 40th Anniversary
+> Banquet of the English section on March 26th.**"
+
+Three findings in one paragraph. **(a) $300,000** — set beside Nova Scotia's $3,600 recreation grant
+in the previous issue, this is the scale of Quebec's investment, and it is for *staff training*, the
+function the association had performed on its own since 1937. Whatever training Kanawana's 1977 staff
+received through the QCA was paid for by the province. **(b) "Camp Week," 5–11 March 1977** — a
+provincial advertising campaign on behalf of every accredited camp in Quebec, which means Kanawana's
+1977 recruitment happened inside a government-funded marketing push; a search of Montreal newspapers
+and broadcast listings for that week is a specific, dated target. **(c) The 40th Anniversary Banquet
+on 26 March 1977** dates the English Section's founding to **1937 for the fourth independent time** —
+after the Concordia holdings, Alta Kahn's 1958 "coming-of-age" conference (issue 100), and Van
+Wagner's tribute (issue 104). Four sources of three different kinds. **All three written into
+`connections/institutional-lineage/canadian-camping-movement.md` under new sub-source 8aa.**
+
+**★★★★ WHAT ACCREDITATION ACTUALLY BOUGHT: FOREIGN COUNSELLORS WITHOUT A LABOUR-MARKET TEST.** A
+full item, and the most concrete statement in the run of what membership was worth to a camp:
+
+> "**The Employment Visa Certification Waiver has been amended to permit non-immigrants to work as
+> camp counsellors, or in similar leadership roles, (not as kitchen staff or maintenance workers) in
+> camps operated by the Canadian Camping Association. They do not need Canada Manpower certification
+> that residents of Canada are unavailable for such employment.**"
+
+The mechanism is spelled out: a letter from the camp director naming the occupation, location and
+duration "and particularly, that the employer is a member of the Canadian Camping Association,"
+presented with a passport or birth certificate (not a driver's licence) at the point of entry; and
+provincial associations were told to send their member-camp directories to every port of entry in
+their province, "explaining that **membership in the Provincial Association automatically means
+membership in the Canadian Camping Association**." So accreditation was a standards regime, a
+condition of government grants (issue 110) *and* a hiring instrument. **Any foreign staff member in
+Kanawana's records from 1977 onward entered Canada on this waiver.** Written into
+`canadian-camping-movement.md`.^8aa
+
+**★★★ CHARLES PLEWMAN'S HONORARY-MEMBERSHIP ADDRESS, AT 87 — a founder on the CCA's founding.**
+Printed here with the note "Mr. Plewman passed along these thoughts on the occasion of being made an
+Honourary Member of the Canadian Camping Association. Mr. Plewman founded Kilcoo Camp. He is 87."
+
+> "**When the Canadian Camping Association was formed back in 1936, it was an act of faith, pure and
+> simple. It was only a dream … because after all there were only two provinces in the whole of
+> Canada that even had Camp Associations. In the thirty-eight years that have elapsed since that
+> time, we have made that dream come true.**"
+
+**This is a founder, speaking in his own person, dating the CCA to 1936** — evidence for the open
+1936/1946/1949 founding conflict, and it should go into that conflict record when the conflicts are
+opened after the read. Note the internal arithmetic: 1936 + 38 = **1974**, so the address was
+delivered at the October 1974 annual meeting in Montreal (issue 104), not in 1977; the newsletter is
+reprinting it. And **87 in February 1977 puts Plewman's birth at about 1889–90**, which is the first
+birth estimate this project has for him. He also gives a national figure — organized camping reaching
+"**some 500,000 of our Canadian youth**" — and complains that "the Federal Government had not begun
+to appreciate" it. The address is a set piece of camping's self-understanding: a warning against
+situational ethics, a roll-call of founders ("**Taylor Statten and Mary Edgar, just to mention two**"),
+and the conviction that "**the Golden Age of Camping still lies ahead**." Worth keeping whole for a
+`charles-plewman` stub, which the read has now justified three times over (issues 92, 104, 111).
+
+**★★ JOHN LATIMER ON PROMOTION — the CCA's public-relations doctrine, four years before Walsh's
+pamphlet.** Latimer (Director, Kilcoo Camp — Plewman's successor) gives a practical summary from a
+talk to the OCA. The advice is uniformly personal and small-scale: the primary source of campers is
+old campers, so leave room on the application for names of friends and relatives; cub, scout and
+guide groups will sometimes allow a mailing; most school principals will not let a single director
+show slides but may allow a mixed group; "**be wary about advertising in large urban newspapers**"
+— suburban weeklies, school yearbooks and home-and-school publications reach the right homes more
+cheaply; brochures should last three or four years with only the application reprinted annually and
+should answer the parent's questions about safety and supervision while showing the child "fun,
+laughter, security"; then a home visit at which "**the first item to be 'sold' is of course — the
+Director**"; then birthday cards, Christmas cards, calendars, two or three newsletters a year, and
+separate reunions for new campers because "'in' slides bring gales of laughter from old campers but
+to the potential new camper there might be only confusion." Chase every unreturned application,
+"**because those with the criticisms … are those who are the most reluctant to let you know what went
+wrong the previous year**." The summary word is "**PERSONAL**."
+
+Two uses made of this. **First, `people/derek-walsh.md`**: Walsh was Quebec English-Section president
+and a CCA vice-president this same winter, and four years later his Public Relations and Promotion
+Committee issued the association's promotion advice as the bilingual pamphlet *How to Promote Your
+Camp* — Latimer's talk is what that pamphlet formalised, and the article now says so.^7 **Second,
+`people/leo-robitaille.md`**: Latimer tells directors that "**at the end of the summer, a letter of
+assessment from the Director**" should go to each camper's parents, and that this "will mean that
+there must be a very accurate method of receiving a full report from each counsellor." That is
+assessment *of campers*, not of staff, so it is not Robitaille's document type — but it establishes
+that a director writing down judgements of the people who passed through his camp in August was
+following national practice, which is exactly the kind of context the embargo policy asks for around
+`r_0001`. Added outside the embargo block, with the distinction stated.
+
+**★★ The CCA's five best-selling books of 1976, with prices** — the clearest picture yet of what was
+actually on Canadian camp bookshelves: *Camp Counsellor's Handbook* by **Blackstock and Latimer**
+($4.95); *Acclimatization* ($5.25) and *Acclimatizing* ($5.95) by **Steve Van Matre**; *The Camp
+Counsellor's Book* edited by **Northway and Lowes** ($1.95); and **Nessmuk's** *Woodcraft and Camping*
+($1.75). Two Canadian titles, two American environmental-education titles and one nineteenth-century
+classic. **Punch Jackson** of Winnipeg was building a book service for directors through the CCA, and
+**Sharon Brown** "a complete bibliography of all books, catalogues, papers, magazines etc. which
+would be of any interest to anyone in the camping and related fields," due mid-April 1977. **That
+bibliography, if it survives, is a finding aid for this entire field** — add it to the Trent enquiry
+(`p_312`), since a 1977 CCA publication would be exactly what the archive collected.
+
+**★ The 1977 canoe schools, and the Quebec pattern changes.** Six C.R.C.A. schools with dates,
+places and managers: **Atlantic** 19–28 August at Camp Kadimah, N.S. (Harold Brown); **French** 20–30
+June at the University of Ottawa Camp near **Gracefield, Quebec** (Jacques Grenier, Physical Education
+Dept.); **Central** 22–31 August at Camp Kandalore (Jack MacGregor); **Ontario** 11–20 June at Camp
+White Pine, Haliburton; **Manitoba** 4–13 June at White Shell near Kenora (Punch Jackson); **Alberta**
+14–23 June at Camp Chief Hector, Seebe (Gary Luthy). **The English-language Gracefield session of 1976
+is gone** — after 1976 the only Quebec school is the French one, and English-speaking Quebec
+candidates would have had to travel to Ontario. Three **Woodsmanship Instructors Schools** are
+promised for 1977 but conditionally: "**If Government funds are available to be used by the C.C.A. for
+certain projects in 1977**" — federal money as the precondition for national training.
+
+**★ Hart M. Devenney, obituary by Kirk Wipper.** Springfield College B.Sc., **McGill M.A.**, a year
+at Yale Divinity; married Rena Bickerton 1929; **Director of Urban Youth Centres, Manitoba, 1939**;
+RCAF auxiliary services in England, the Middle East, North Africa and Italy; **Director of Physical
+Education and Recreation for Manitoba** for a decade from 1945; inspector then consultant in Physical
+Education and Camping for Ontario from **1955**; managing editor and assistant director of C.A.H.P.E.R.
+for thirteen years; then business administrator for Kandalore Camps. President of the Manitoba
+Physical Education Association 1951, **President of C.A.H.P.E.R. 1952–54**, and from **1957 Director
+of the Ontario Camp Leadership Centre at Bark Lake**. The McGill M.A. is the only Montreal thread and
+is not developed here.
+
+**★ Eileen Mayotte, "Responsibility"** — reprinted from the Saskatchewan newsletter, and the clearest
+statement of the camper-agency argument in the run. Working from Haim Ginott's *Parent-Child*, she
+argues that "**the selecting belongs to the administration… the choosing should be the right of the
+camper**," that "an activity chosen by a camper will be participated in with enthusiasm," and that
+"**a camper who lives with criticism does not learn responsibility. He learns to condemn himself,
+doubt his ability, find fault, and distrust others.**" Against the fear that camper autonomy
+diminishes the counsellor, she answers that it makes the role harder: "**This is the reason we need
+mature and experienced people as counsellors, those who can stand back and let things happen.**"
+Mayotte is already a stub candidate from earlier in this read; this strengthens the case.
+
+**Minor.** **May Brown closes Camp Deka** in British Columbia — "truly one of the finest independent
+camps in this country… An era has come to an end!!!" — her husband **Lorne Brown** having predeceased
+her; she moves on to Vancouver municipal politics. BC publishes the **Camp Directors' Certification**
+outline (available from the BCCA, 633 West 8th Street, Vancouver) and plans a five-year audit of
+everyone in the province who has attended national courses — "**What are these people doing now?**" —
+which the editor commends to other provinces as "a wise move, both financial and moral." Alberta's
+**Gary Luthy** reports a membership drive and the imminent *Director's Guide for Counsellor Training*.
+Saskatchewan proposes a national **marketing centre** for camp products; its spring conference is at
+Waskesiu, 13–15 May. Ontario's **Past-Presidents' Council** takes shape under Kirk Wipper, with a
+re-vitalised finance committee, **Bob Christensen** on Standards and **John McRuer** chairing
+Wilderness Travel; **Russ Dennison** organised the Sault Ste. Marie "Campference." New Brunswick has
+a **first draft of provincial Standards** ready for its membership. Nova Scotia has applied to the
+province for funds to hire a part-time executive director. Newfoundland's association is meeting with
+the University and Teachers' College in St. John's, and its members are increasingly asked onto
+provincial boards. The **Task Force on the CCA's future**, chaired by **John Latimer**, completes its
+consultations with every provincial association and will report at the Squamish annual meeting; the
+logo contest closes 15 March. The ACA Mid-America convention at Buffalo is postponed by weather from
+15–18 February to 29 March–1 April. **Cash's Name Tapes** advertises from **Box 70, Station S,
+Montreal** — a Montreal supplier to the national camp market, six dozen printed tapes for $3.20.

@@ -1,6 +1,6 @@
 # Derek Walsh
 
-*Status: stub | Sources: 6*
+*Status: stub | Sources: 7*
 *Last Updated: 2026-09-04*
 
 ## Overview
@@ -41,6 +41,8 @@ Almost none of this is visible from Kanawana's own records. It comes from *Canad
 | **1982** | Carries out the CCA's feasibility study on publishing a Canadian camping magazine^2 |
 | **29 Jan 1983** | Awarded the **CCA Certificate of Appreciation**^2 |
 
+What the association meant by public relations in these years is on record, and it is worth knowing before reading Walsh's 1981 pamphlet. In February 1977 — the winter Walsh was president of the Quebec English Section and a national vice-president — the CCA printed John Latimer's "A Summary of Points Related to Promotion and Public Relations," from a talk to the Ontario Camping Association.^7 Its advice is entirely personal and small-scale: the best source of campers is old campers, so leave space on the application for names of friends; be wary of large urban newspapers and use suburban weeklies, school yearbooks and home-and-school publications; send a personal, *not* mimeographed letter with the brochure; arrange a home visit at which "the first item to be 'sold' is of course — the Director"; keep contact through birthday cards, Christmas cards, calendars and two or three newsletters a year; chase every unreturned application, "because those with the criticisms… are those who are the most reluctant to let you know what went wrong the previous year." Latimer's summary word is "**PERSONAL**", and his conclusion is that "all of the best gimmicks in promotion and public relations are useless if the campers themselves do not have a good time." Four years later the committee Walsh chaired issued the association's promotion advice as a printed bilingual pamphlet sold for seventy-five cents — the same subject, formalised.
+
 The citation for that award is the fullest single summary of him anywhere: it thanks him "as a Past President of the former English Section - Quebec Camping Association, in addition to his work as Chairman of the CCA Public Relations and Promotion Committee and Vice President of the national association from 1974-1981."^2
 
 A camp director whose own 1977 report worried about promotion was, in the same years, the national association's authority on it.
@@ -67,6 +69,7 @@ A camp director whose own 1977 report worried about promotion was, in the same y
 4. *Kamp Kanawana Director's Report 1973*, Leo J. Robitaille [src_ia_kanawana_report_1973]. See [f_2424].
 5. *Kamp Kanawana Director's Report 1974* [src_ia_kanawana_report_1974] and *1977* [src_ia_kanawana_report_1977]. See [f_2429], [f_2431], [f_2443].
 6. *Canadian Camping* Vol. 27 No. 2 (January 1975), the Canadian Camping Association Directory Issue — Quebec Camping Association accredited member camps listing and English Section officer list. Found by the full word-for-word read of the run (`kb/reread/cc_findings.md`, issue 103).
+7. John Latimer (Director, Kilcoo Camp), "A Summary of Points Related to Promotion and Public Relations," from a talk given to the Ontario Camping Association, printed in *Canadian Camping* Vol. 29 No. 1 (February 1977), pp. 3-4, 11 [src_ia_canadian_camping_collection]. Found by the same read (issue 111).
 
 ## Research Notes
 
