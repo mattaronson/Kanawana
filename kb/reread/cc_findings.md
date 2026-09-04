@@ -18892,3 +18892,156 @@ homes. The classified ads now include a Haliburton girls' camp for sale at $69,7
 listed as a vacation-property specialist with Young & Biggin Real Estate** — the same Danson who
 wrote the tuck-shop article and advertised as a consultant, now selling camps. Cover courtesy
 **Camp Kipawa Wilderness Adventures**. No Kanawana and no YMCA of Montreal reference in this issue.
+
+## 102 — Vol. 27 No. 1, November 1974
+
+Contents page checked. All items read: Viewpoint (Jocelyn Palm); Camping for the Handicapped … the
+Normal Way (Roger Coles); Classified Advertising; Along the Bookshelf; Tips; Church Camping
+Futuribles (Rev. Morley G. Clarke); Des Penses; An Astronomical Adventure (J.A. Craig); Things Go
+Better With … Good Public Relations (Robert P. Attfield); The Outdoorsman (Larry R. Johnston);
+Outdoor Cookery. Plus a reprinted Legion Magazine piece, "Canada — the World's Park."
+
+**★★★ THE MAGAZINE WAS SUSPENDED. This is the publication-history fact the eventual sources-index
+section needs.** Jocelyn Palm, writing as the new Managing Director: "In the last three years, the
+magazine was financially sliding downhill to the extent that an unrealistic portion of the CCA
+budget was consumed to keep *Canadian Camping* coming off the press. As a result of this situation,
+**the Board of Directors temporarily suspended publication of future magazines effective in
+February 1974.**" A Task Force was appointed at once and reported to the **April 1974** board
+meeting. So **the run is not continuous**: Vol. 26 No. 2 is a combined "Winter/Spring 1974" issue,
+then nothing until this one, **Vol. 27 No. 1, November 1974**. Any gap in the cached run across 1974
+is a real gap in publication, not a hole in the project's holdings. The Task Force's six findings
+are printed and are worth keeping as a statement of what the magazine was *for*: direct mail to
+members essential; a newspaper format rejected because it "would not serve as an effective reference
+tool for schools and camp staffs nor would it be as appealing to advertisers"; the magazine format
+retained "because of the public relations values"; content to "inform and educate in order to
+upgrade camp directors and staffs in all provinces"; "**the information should be as bilingual as
+possible**"; and the magazine to be self-supporting "and be set up on a more professional basis."
+New masthead: **Managing Director Jocelyn Palm; Editor Helen Stewart; Circulation Manager Mary Pat
+Bradbury; Advertising Manager Doug Dent; Directory Issue Peter Gilbert.** Subscription now $5 a
+year, $1.50 a copy.
+
+**★★★★ AND THE NEXT ISSUE IS A DIRECTORY OF EVERY MEMBER CAMP IN CANADA.** "It was suggested that
+**the January Issue of the magazine should be a 'Directory Issue' and contain a complete listing of
+all CCA Member Camps in each province** along with the full editorial content … **The Directory
+Issue has been accepted by all provinces and over 20,000 copies will be issued as the next
+magazine.**"
+
+**That issue is `canadiancampingmagazine_vol27_no2_1975january.txt`, issue 103 of this read, and it
+is in the cache.** A targeted check confirms **Kanawana is in it** — the directory line reads
+"**KANAWANA (1894) (YMCA)**", with St. Sauveur des Monts and a "c/o Kamp Kanawana" address nearby.
+**This is the first direct Kanawana appearance anywhere in the 1970s stretch of this read**, and it
+arrives because the read reached the issue that explains what the next issue is. Issue 103 is to be
+read next and with particular care: a national directory entry should give the camp's founding date,
+sponsor, location, ages, capacity, season, fees and director's name as the association held them in
+1974–75 — a period for which this project's Kanawana record is thin.
+
+**★★ Robert P. Attfield, "Things Go Better With … Good Public Relations."** A long practical
+article in two sections, for counsellors and for directors, and useful here in three distinct ways.
+
+*First, a brochure specification.* Attfield lists what a parent should find in a camp brochure —
+director's qualifications; camp philosophy; camp location and physical structure; number and sex of
+campers accommodated; religious or other ties; number and qualifications of staff; fee scale;
+activities offered; length of camping periods; transportation routes and arrangements; information
+on communications; nearby lodging and visitors' day; description of meals and camp policies; a guide
+to clothing and weather conditions. **That is a checklist for reading any surviving Kanawana
+brochure of the period, and for knowing what is missing from one.**
+
+*Second, a dismissal anecdote that belongs with the `p_307` material.* Under Staff Relations:
+"**If it becomes necessary to dismiss a staff member, how is the situation handled? Not too long ago
+in one camp a counsellor was told over the loudspeaker system to leave the premises within an
+hour!**" Printed as a cautionary example, which tells us both that summary dismissal happened and
+that the profession regarded that particular handling as a public-relations failure rather than an
+ethical one.
+
+*Third, counsellor conduct off site, again.* The day-off passage is unusually specific: camp
+T-shirts worn to town, and the hitch-hiking trick of one counsellor thumbing while "the rest of you
+duck behind a handy bush" and then pile in — "Deduct two points … You may get a ride to town, but
+you'll never see the son or daughter of the driver in your camp." Also: dress the group properly
+leaving camp because "**Campers fitted out like hobos for a canoe excursion won't feel like
+voyageurs, and may give the impression that they come from a shoddy camp**"; the local store owner
+"acts as a barometer of good or bad will"; ask permission to cross private land; telephone ahead
+before visiting a neighbouring camp. And for directors: invite local residents to camp shows via "a
+notice in the general store or some mimeographed invitations delivered to nearby cottagers"; join
+the area cottagers' association; buy food and supplies locally "if it is financially feasible"; tell
+neighbours what camp facilities they may use in an emergency — "A telephone? Doctor? Nurse?"; and
+keep photographs of cabin groups hung "in a suitable area for permanent display" as "a good
+historical camp record." One camp in the United States is cited as having raised **$7,500 toward a
+new municipal hospital**.
+
+**★★ Roger Coles, "Camping for the Handicapped … the Normal Way."** Former Director of **Camp
+Belwood**, Belwood, Ontario — "**the first camp in Ontario operated by the Ontario Association for
+the Mentally Retarded**," founded **1956**. Five objectives are set out (adjusting to community
+life; adjusting to family life; social growth; physical growth; worthy use of leisure time), with
+the observation that "**the poor physical condition of the retarded is primarily due to the lack of
+opportunities for adequate exercise and recreation**" and that most "can develop physically far
+beyond the expectations of their parents and teachers." The substantive new thing is the adult
+programme: **for five weeks each summer Camp Belwood becomes "Belwood Lodge"**, for retarded adults
+who "like other adults … get time off from jobs" and come "as full persons — persons with the need
+of self-worth, the need to feel useful, the need of responsibility"; **counsellors become "resource
+staff and friends"**, choice of activity is "paramount", and the operation runs under **a Lodge
+Council elected at the start of each session**. Activities and clubs are listed at length, including
+trips to Stratford for a Shakespeare play and hikes on the Bruce Trail. Recorded in the period's own
+vocabulary; the terminology is of 1974 and is not this project's.
+
+**★ Jocelyn Palm's *Alert: Aquatic Supervision in Action*** is reviewed — "**the textbook of The
+National Lifeguard Service**," published by the Royal Life Saving Society Canada at $5.95, with a
+French edition due December 1974. Its chapter list is a complete statement of what aquatic
+supervision was expected to cover by 1974, including "**Liability for Swimming Accidents and
+Drownings**" and "**Regulations, Legislation and Good Sense**." Palm is by now Executive Director of
+the Canadian National Branch of the RLSS *and* Managing Director of this magazine. Also reviewed:
+Wolf Ruck's *Canoeing and Kayaking*, and Hans Brunner's *Cross Country Skiing*, adapted by Ruck —
+Kirk Wipper's review noting "a time when camping is giving leadership to outdoor experiences during
+the winter season."
+
+**★ Mary S. Edgar posthumously.** The inspirational column prints her poem **"A Camper's Rest
+Hour"** ("This is your hour — a time to rest / 'Neath roof, or tree, or sky … So take your hour and
+value it; / For one short space be still") alongside Virna Sheard's "The Temple Beautiful." Fourteen
+months after her death her verse is still the magazine's devotional stock.
+
+**★ Rev. Morley G. Clarke, "Church Camping Futuribles."** Sixteen future scenarios written on cards
+for a "learning game" played at a Presbyterian camping consultation in February 1974, and printed so
+readers can make their own set. Several are worth having as a statement of what the sector thought
+was coming, from inside 1974:
+- **No. 4, the pessimistic one:** "**Legislation may force some camps to close down because of
+  exorbitant costs** — e.g., full taxation; **minimum wage requirements for all leaders, including
+  Counsellors**; unattainable accommodation requirements; unattainable acreage standards; **school
+  boards may buy up some of our Church Camps to use for outdoor education programs; Churches may
+  rent them back as needed.**"
+- **No. 5:** high-adventure camping — wilderness survival, long-distance youth-hostelling, camps
+  modelled on Outward Bound, and "**'Language immersion camps' in Quebec and/or foreign
+  countries**."
+- **No. 8:** cooperation among church, agency and private camps — joint counsellor training, use of
+  each other's facilities for out-tripping overnights, exchange of campers and counsellors, joint
+  purchasing, and "**consolidation of less effective camps (facility and program) into a larger,
+  more successful operation.**"
+- **No. 10:** year-round sites — winterisation, "**employment of year-round full-time Camp
+  Director**", winter camping with skidooing and cross-country skiing, and winterised facilities let
+  for retreats and conferences.
+- **No. 11, "Camping without camps":** campers gather at a church hall, units move out by canoe,
+  cycle, bus or back-pack using conservation areas and provincial parks, and return to the church
+  to share and evaluate.
+- **No. 16:** a family vacation model for low-income families, using "not only its own grounds but
+  also nearby parks, towns, farms, recreational centres, historic sites" — with, oddly, "the
+  **Swedish idea of 'exercise course'** around the campsite" as a valuable addition, which is
+  hébertisme under another name (compare issues 82, 94, 97).
+
+**★ J.A. Craig (Boy Scouts of Canada), "An Astronomical Adventure."** A full camp astronomy
+programme — star charts for the summer and winter skies looking north and south, six games
+(**Constellation Relay, Star Flash, Styrofoam Sky, Constellation Pantomime**), buildable gadgets (a
+"starscope" made from a bleach bottle with pricked cards, an **umbrella sky** with the North Star at
+the handle, rotated counter-clockwise to show star movement), and "interest arousers" including the
+Arab eyesight test using Mizar and Alcor in the Big Dipper. Reprinted from *The Canadian Leader*.
+Its reference lists are the useful part: **observatories in Canada** (including "Centres of the
+Royal Astronomical Society; **Montreal, Que.**") and **planetariums**, which for Montreal is the
+**Dow Planetarium, 1000 St. James Street West** — a datable Montreal resource a Laurentian camp
+could use, and a lead for camp astronomy programming generally.
+
+**Provincial changes.** **Val Willis is now President of the QCA English Section** (she had been
+given the National Code of Ethics to write, issue 99); **Abbé Rosaire Corbin** heads the joint
+association and **Abbé Robert Maisonneuve** the section française. New presidents in five other
+provinces, including **Rev. Philip Giberson** in New Brunswick and **Barbara Taylor** in
+Newfoundland — the first woman president named in that province in this run. Classified ads include
+**Sacred Heart Children's Village, Scarborough**, seeking to rent a lodge for 20–25 within 100 miles
+of Toronto, and an "Experienced ex-Camp Director (female)" seeking a four-to-six-week administrative
+post. Cover designed by **Violet A. Catlin**, the magazine's typesetter. No other Kanawana or YMCA
+of Montreal reference in this issue.
