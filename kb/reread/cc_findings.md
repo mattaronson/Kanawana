@@ -13917,3 +13917,264 @@ Nothing in this issue names Kanawana. Its value is the CCA past-presidents list 
 names, two of them still unstubbed), the national office's move to Ottawa with a paid executive
 secretary, Cousineau's account of hébertisme's Quebec origin — now written into
 `programs-activities.md` — and the corroboration it supplies for the issue 79 Cloutier question.
+
+---
+
+## 83. Vol. 21 No. 4, Summer 1969 — `canadiancampingmagazine_vol21_no4_1969summer.txt`
+
+*Contents page*: Where the Action Is; The Counsellor's Apprentice (P. G. Gilbert, T. Fry);
+Evening and Sunday Afternoon Programmes (Ray Ward); Cooking Contest, Group Games (Lynne
+Brooks, Bob Slingerland); Closing Comments (John Latimer); Discipline (M. C. MacCulloch); Day
+Camp Overnights (Tony Lea); Why Archives? (J. D. P. Martin). All eight checked against the
+read; all covered below, plus two obituaries and a legal notice not listed on the contents
+page.
+
+**★ THE QUEBEC MERGER, IN THE ASSOCIATIONS' OWN WORDS — and the correction it forces on
+`canadian-camping-movement.md`.** At the CCA annual meeting, International Inn, Winnipeg, **28
+February 1969**, **Bob Lazanik and Father Lionel Perras** announced that *l'Association des
+Camps du Québec, Inc.* had joined with the English Section to become part of the CCA:
+"Camping in Quebec will now have one voice representing all camps in the province." Lazanik's
+own French statement, printed in full, gives the sequence this project did not have:
+
+> "L'A.C.Q. fondée en 1958 s'était jointe à la Q.C.A. — appelée section anglaise — en 1961.
+> Un Conseil Provincial formé de représentants des deux sections coordonnait les activités des
+> deux sections et représentait les camps auprès du gouvernement du Québec. L'affiliation de
+> la section française à la C.C.A.-C.C. place maintenant le Conseil Provincial au niveau
+> national et marque une nouvelle étape pour la Q.C.-A-C.Q."
+
+And on how long it took: "Après quelque six années d'études, de discussions, d'évaluation et
+de recherches… C'est en 1963, à l'assemblée annuelle de la C.C.A. tenue à Banff, qu'il fut
+question pour la 1ère fois de penser à une formule d'affiliation pratique et acceptable pour
+tous." He closes with the committee putting itself out of work: "Avec ce rapport prend fin le
+travail du comité, lequel est maintenant 'en chômage'." President of the French Section: **M.
+Lionel Perras, p.s.s.**
+
+**The article said "The modern successor to the QCA is the Association des camps du Québec
+(ACQ)." That is wrong as a description of the relationship**, and it is now corrected in
+place: the ACQ was a separate body **founded 1958**, twenty-one years after the QCA, which
+**joined the QCA in 1961** as a parallel section under a **Conseil Provincial**, with the two
+sections merging into the CCA in 1969. The ACQ was never the QCA renamed. This is the finding
+Shorgan's account at issue 66 pointed toward; Lazanik's is the association's own statement of
+it and settles the point. Source `[8s]` added. *When* the ACQ became the province's single
+association remains unestablished and must not be inferred from 1969.
+
+**★ CCA leadership and the National Office, dated precisely.** **The Rev. David R. Hartry**,
+past president of the Nova Scotia association, **elected CCA president for a two-year term** at
+the same 28 February 1969 meeting, succeeding Doug McEwen — whose own report closes: "The past
+two years have been a busy and remarkable period… A new age has begun if we mean to meet the
+needs of camping now and in the 1970's." This **corroborates `canadian-camping-movement.md`'s
+"Doug McEwen… CCA President from 1967 to 1969"** from a contemporary source. And the office:
+**"Through a grant from the Fitness and Amateur Sports Branch of the Department of National
+Health and Welfare, CCA is now able to maintain its own National Office in Ottawa, plus the
+services of an Executive Secretary in the person of Mr. Barry Bryant"** — Box 2773 Station D,
+**(613) 236-7901**, with extra secretarial services through the **Downtown Branch, Ottawa
+YM-YWCA**. So the CCA's first permanent staffed office was federally funded, in 1969. Hartry's
+profile also records that he works with "the Hippies-gone-wrong… the Run-aways, the so-young
+no-goods who frequent his Cathedral area in downtown Halifax," and edits the NSCA newsletter;
+*Among Ourselves*, April 1967, carries his fuller biography — a specific back-issue pointer.
+
+**★ Two obituaries, both institutionally significant.**
+
+- **Josephine Edith Harshaw**, "Jo," **editor of this magazine**, died in office. Her career
+  before it: **forty-two years with the YWCA of Canada as National Publications Secretary and
+  Editor of *The Journal***, travelling for that association through most of Canada and the
+  United States; on retirement she was **commissioned to write a history of the YWCA,
+  published 1966 as *When Women Work Together*** — a title she chose, "a fascinating and
+  little-known account of the part these dedicated women played in Canadian History." She took
+  the *Canadian Camping* editorship "three years ago," i.e. about 1966, as a **second career**.
+  This is directly useful twice over: it dates the editorship change the run shows around
+  1966–67, and it identifies a **published YWCA of Canada history by a named author** that is
+  a live lead for the Camp Oolahwan and YWCA threads in this project.
+- **H. Arnold Ward**, former president of the Ontario Camping Association, "actively engaged in
+  camping in many parts of Canada," **Acting General Secretary of the Halifax YMCA after
+  retiring from the YMCA National Council in 1967**. The tribute is by **Les Vipond, National
+  YMCA General Secretary**: Ward "made his first mark in the adult education field in the
+  Ottawa Branch, and became a great pioneer in **Young Adult Camping in Canada, especially at
+  Red Pine Camp**," did community work in West Toronto in the early 1940s, spent a brief
+  period with what is now the Toronto Social Planning Council, then joined the National Staff,
+  where "Young Adult Work, World Service, Industrial Management Clubs, Personnel Services,
+  Field Services were all raised to new levels." **A named YMCA National Council figure and a
+  named national YMCA general secretary**, both worth holding against the Montreal YMCA
+  record.
+
+**★ J. D. P. Martin, Librarian at Trent University, "Why Archives?"** — written at the request
+of the **OCA Archives Committee**, and the origin document for the Trent holdings this project
+already cites. Its opening is the argument this whole re-read rests on: **"A historian said
+recently that a community which does not know its own history is like a man who has lost his
+memory. The same is true of an institution organization or association which has failed to
+preserve the documents that record its traditions and achievements."** His list of what should
+be collected is effectively a checklist of what to look for in the Concordia and Trent
+holdings: **legal documents; minute books of the association and all its committees with
+supporting reports and letters; official correspondence; accounting records; annual reports;
+camp records; drawings and plans; personnel records; personal papers of people active in the
+camping movement (diaries, journals, correspondence); photographs; and miscellaneous papers
+(essays, lectures) which can throw light on the association or the movement.** And his closing
+claim: an association's archives "is more than simply a record of its own historic past. It is
+also a repository of material relating to an important aspect of social history." The
+magazine's editorial note — "It should inspire other Associations which are considering the
+setting up of Archives Collections — **before it is too late**" — dates the moment the OCA
+began collecting, which is worth knowing when reading any Trent finding aid: **material
+predating 1969 was gathered retrospectively**, and gaps in it are as likely to be collection
+artefacts as absences of record.
+
+**★ "The Counsellor's Apprentice" (P. G. Gilbert, Camp Nominingue; Tony Fry, Camp Pinecrest) —
+a two-year, eleven-camp study of CIT training across Ontario and Quebec**, and the single best
+source in this run for what a CIT programme contained. Method worth noting: "an informal group
+representing eleven camps in Ontario and Quebec has been meeting regularly… Anyone who wishes
+can do this sort of thing. Just get five or six people together, and start talking." Their
+definition problem is exactly the one this project meets in Kanawana's own records: a CIT
+"ranges in age from fourteen to eighteen, in status from special camper to full staff, in
+financial terms from **full fee to token salary**," with courses "as short as ten days, or
+extend[ing] over three seasons." The **compiled content list from five participating camps** —
+useful as a template against which to read Kanawana's Trailblazers/CIT record:
+*administrative* — camp regulations and policies, CIT duties and privileges, what each expects
+of the other, public relations with the surrounding community, record keeping, required
+reading; *formal skills* — all camp skills, devotions, handling equipment, safety and first
+aid, all phases of tripping, section and cabin programme planning; *theory* — philosophy and
+aims of camping, the camp's own history and philosophy, counselling and business
+administration, health and sanitation, teaching methods, age characteristics, growth and
+development, discipline and self-discipline, motivation, homesickness, behaviour patterns, how
+groups work, **"the counsellor as a parent substitute,"** winning respect, and **"personal
+development, a free discussion of morality, religion, drugs, sex, alcohol, nicotine"**;
+*apprentice training* — assisting instruction, canoe trips and cook-outs, life saving drill
+and patrol, responsibility for evening programmes, grace at meals, camper council, banquet
+plans, fire drill, song leading, cabin clean-up, and **"take over a cabin for a short time to
+observe how campers act, how counsellor responds, how the section director responds"**;
+*special forms* — **weekly interviews and evaluation with the CIT director, a written
+examination**, a CIT major canoe trip, human relations training; and *menial tasks* — kitchen
+duty, waiting tables, camp clean-up, telephone duty, host for visitors, helping campers with
+luggage on first and last days, cabin inspection, building fires for special events. The
+**weekly interview-and-evaluation** item is another thread for `p_307`: CIT evaluation was a
+formal, documented practice by 1969.
+
+**★ M. C. MacCulloch (Section Director, Bolton Camp), "Discipline: A Matter of Human
+Relations" — the period's fullest written camp discipline policy, and directly relevant to the
+corporal-punishment question Poole's insurance article raised at issue 80.** Its position is
+unambiguous: **"In no instance may justice at camp take the form of physical punishment. We are
+not parents and these are not our children."** Also: "Discipline is never: (1) retaliation, (2)
+retribution, (3) punishment for punishment's sake, (4) or group punishment. The innocent are
+justifiably resentful," and "Punishment is always the last resort." The etymological framing —
+*discipulus*, follower; *discere*, to learn; the same root as *disciple* — is used to argue that
+camp discipline "connotes not misdemeanours and crude physical punishments, but rather
+teaching, training, guidance and mutual trust," aimed at "the development of the child's inner
+controls." Practice worth recording: look first to yourself, your attitude, your programme,
+and only then to the camper, because "the behaviour of children is usually a symptom"; "reject
+the misbehaviour without rejecting the camper"; name the feeling before any other technique
+("You're disappointed — you were counting on this and now we can't do it and that makes you
+mad"); **don't ask "Why?" — "usually a child doesn't know 'Why?'"**; "the average leader talks
+too much"; **"See everything and notice little."** The ten named control techniques — signal
+interference, proximity control, direct appeal, planful ignoring, transition, reasoning, code
+of conduct, **social control** (a tribunal of the camper's peers, with an explicit warning that
+"children, if the culprit is unpopular, might democratically decree an unjust punishment"),
+deprivation, and K.V. duty — with two absolute limits: **never make threats** ("You either have
+to back such statements up which may be injudicious, or back down which is suicidal"), and
+**never deprive of food**: *"The one exception is food. Meals at all camps are a RIGHT not a
+privilege. This is as true of dessert as it is of main course."* Justice must be "tempered
+with compassion, never sarcasm or belittlement… Never punish him so that he is teased,
+embarrassed, or ridiculed — even when it appears harmless and the camper appears to be taking
+it in good spirit." **Held alongside issue 80, the picture is coherent: by 1969 the movement's
+published standard forbade corporal punishment outright, while the insurance industry still
+drafted for camps where it happened.** Both should be recorded, and neither used to make a
+claim about any particular camp.
+
+**John Latimer (President, OCA), "Closing Comments," OCA conference banquet, Toronto, 8 March
+1969.** The number worth keeping: **"about 200,000 young children who will be going to camps in
+our province this summer."** The rest is a director's statement of the trust relationship,
+built on a Niagara Falls image and on his own three sons — "I take my most cherished
+possessions, my own flesh and blood, and I give them to another person… I trust you. Yes, I
+trust you." He is deliberate that this is class-blind: "whether I can afford to send these boys
+to a small ten-day **Agency Camp** or a large expensive two-month camp has nothing to do with
+the fact that I want for my children something which will make their lives richer." His
+description of the counsellor he wants — "who isn't afraid to put his arm around a young boy,
+who isn't afraid to shed a tear, and above all one who is willing to listen, and to extend to a
+child a hand in guidance, and not carry him over all the hurdles" — and his closing, "every
+handicapped youngster who is placed in our hands this summer will return to his ghetto, or his
+large home, a better person," are the period's language recorded as written.
+
+**Ray W. Ward (Camp Ponacka), "Evening and Sunday Afternoon Programmes,"** condensed from an
+OCA address. A programme-planning method (tentative selections on the monthly timetable,
+finalised on the Sunday weekly plan with weather alternatives, **publicity confined to the day
+of the programme** for maximum enthusiasm) and two long lists of special programmes taken from
+**Lewis C. Reimann, *The Successful Camp*** — including flotilla, snipe hunt, counsellor hunt,
+international night, campcraft dinners, camper and counsellor wrestling or boxing, and for
+Sunday afternoons regatta, gold rush, circus, old settlers, horse show, rodeo, **Indian day,
+Gypsy day**, pirates and sailors, smugglers' day, backwoodsmen, frontier day, storybook day,
+space day. Recorded as the period's standard theme repertoire — the "Indian day" and "Gypsy
+day" entries are exactly the sort of item a later article on camp theme programming will need
+to have on record rather than discover. His own camp's best events were "modifications of old
+events suggested by campers and counsellors": war canoes big enough to put the whole camp on
+the water for Capture the Flag, and a raft-building marathon inspired by the film *The Great
+Race*.
+
+**Lynne Brooks (West End YWCA, Toronto), "Camp Cooking Contest."** A judged inter-group
+cook-out competition — campers plan and prepare with counsellors only guiding, campers collect
+fuel, judges visit each site from first preparations to taste test, points for teamwork,
+originality, appropriateness for outdoor cooking, cleaning up and putting out fires. The
+recipes are a genuine period record: **Curried Pine Burgers** (curried beef patties with cheese
+and pineapple, foil-baked in buns), **Hot Banana Split** (unpeeled banana slit lengthwise,
+marshmallows and chocolate inside, foil-baked), chocolate-marshmallow graham sandwiches dipped
+in melted chocolate, **Instant Fruit Pies** (buttered crustless white bread and sliced raw
+fruit in a long-handled metal press over the fire), and "spaghetti served on pancakes."
+
+**Bob Slingerland (Section Director, Camp Kilcoo), "Group Games."** On what a counsellor does in
+the unprogrammed gaps — between reveille and breakfast, between going to bed and going to sleep
+— which he argues is the part campers actually remember: "to them it is the programme that they
+create on their own with the help of their Counsellor which makes the summer an experience they
+will cherish." Examples: an outdoor aquarium-terrarium project that spread through the section
+"like a contagious disease," nature trails, towers, forts and signs, a scale **model of the camp
+built from moss, rocks, flowers and twigs**, a raft poled down the river, land games adapted to
+water, compass and map-reading scavenger hunts.
+
+**Tony Lea (Section Head, Bayview Glen Day Camp), "Day Camp Overnights."** A complete operating
+procedure for day-camp overnights, and a useful comparison for any Kanawana day-camp record.
+Overnights **from age four and a half**, two a month from five and a half, with half the senior
+section doing a "week long" in the third week of each month; a campcraft specialty programme
+preparing groups, headquartered in a prefab garage nicknamed **"The Hub"**; capacity ten groups
+a night over eleven nights a month, though six or fewer of similar age is preferred. Procedure:
+schedule at the start of the month; menus planned by counsellors in advance against age,
+previous experience and what is planned for lunch; permission letters home a week ahead with
+equipment lists; the Section Head submits bus cancellations on the day; assemble at four
+o'clock away from the bus departure point; quartermasters fetch **two bushel baskets** per group
+from the kitchen, breakfast baskets stored animal-proof in the Hub; cooking in soaped pots over
+metal grates on open fires, with groups urged to build different fire types **and to build
+themselves a table**; free swim with swim staff presiding, cancelled only for cold or rain;
+wide-game, then campfire with hot chocolate and marshmallows "so that after Taps there is an
+added incentive for them to visit the outdoor Johnny-on-the-Spots, to wash, and to brush their
+teeth"; **"no ghost stories permitted"**; one counsellor with the children at all times, nobody
+off camp property, parents and visitors discouraged, no curfew for staff; a first aid kit in
+the Hub with children's medical records, a car and a phone on hand. And the observation at the
+end: "It is usually noticed in the morning how much closer a group is — and how much more they
+appreciate their counsellor."
+
+**★ *Le Guide du moniteur* — Northway and Lowes in French translation.** "For the first time in
+the history of camping, an established book for Camp directors and staff, originally written in
+English, has been translated into French," and the magazine notes the timing "just at the time
+when the French and English Sections of the Quebec Camping Association have amalgamated."
+**Preface by Mme Nicolas Demetelin**, then QCA president; **foreword by Father Lionel Perras**
+of l'ACQ ("Pour être éducateur, il faut de plus être soi-même un modèle"). Sold **through the
+Quebec Camping Association, 2233 Belgrave Ave., Montreal 261, for $2.95**. Added to the wiki
+alongside the merger.
+
+**★ New Ontario law, both items worth recording for camp practice.** The **Forest Fires
+Prevention Act passed in 1968** is now enforced because "careless smokers burn about 50,000
+acres of forest annually in Ontario": **no person may smoke while walking or working in a
+forest or woodland during the fire season**, maximum fine **$1,000** — the magazine notes it
+catches "parents [who] come into camp, continue smoking as they walk down the paths." And
+hitch-hiking: **none whatever on Highways 400 and 401**, none on the travelled part of any
+Ontario highway, fine **$50** — with advice to check with the RCMP before letting campers hike
+on a highway. Read against Latimer's hitch-hiking anecdote at issue 82, this dates the moment
+staff hitch-hiking stopped being a public-relations question and became a legal one.
+
+**Smaller items.** Provincial-office postal codes change (OCA to Toronto 200, QCA to Montreal
+261). **Chestnut Canoe Co., Fredericton**, advertises "over 70 years of service to Canadian
+campers" and 45 models — dating the firm to about 1899 and naming the Pal and Kruger models.
+**Jiffy Products Inc. of Montreal** advertises a "Camper's Repair Centre" display with a priced
+item list (multi-use repair kit $4.25, grommet patch kit $1.49, snap installation kit $2.49).
+An **Everpure water purification kit** advertised at "less than $100," claiming removal of
+amoebic cysts per Johns Hopkins. Anonymous verse, "The Life You've Lived Today."
+
+Nothing in this issue names Kanawana. Its value is very high all the same: the QCA/ACQ merger
+in the associations' own words — now corrected into `canadian-camping-movement.md` — the CCA's
+first federally funded national office, the Harshaw and Ward obituaries, the eleven-camp CIT
+study, MacCulloch's discipline policy with its explicit ban on physical punishment, and
+Martin's founding statement for the OCA archives that this project's Trent citations depend on.

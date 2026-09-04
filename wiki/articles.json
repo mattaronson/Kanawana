@@ -2119,6 +2119,13 @@
           "at": "2026-07-11T00:00:00Z",
           "by": "auto",
           "task": "REVIEW"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-09-04T00:00:00Z",
+          "by": "auto",
+          "task": "VERIFY",
+          "note": "Corrected the QCA/ACQ relationship: the article called the ACQ the QCA's 'modern successor'. Lazanik's announcement in Canadian Camping Vol. 21 No. 4 (Summer 1969) shows the ACQ was founded 1958, joined the QCA in 1961 as a parallel section under a Conseil Provincial, and merged into the CCA in 1969. Source [8s] added. Found by the full word-for-word read (kb/reread/cc_findings.md, issue 83)."
         }
       ],
       "ralph_loops_completed": 1,

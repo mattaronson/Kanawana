@@ -1,7 +1,7 @@
 # The Canadian Camping Movement
 
 *Status: E1-reviewed | Sources: 13*
-*Last Updated: 2026-07-10*
+*Last Updated: 2026-09-04*
 
 ## Summary
 
@@ -36,7 +36,16 @@ The founding of the Ontario Camping Association marked the transition from infor
 
 In 1936, the Canadian Camping Association was founded at the Central Y.M.C.A. in Toronto on May 20, with Statten as first president, Mary Edgar as first vice-president, Dr. George S. Patterson as secretary, and Mary C. Donaldson as treasurer.^8 Nelson McEwen, who directed Camp Kanawana as Boys' Work Secretary of the Montreal YMCA from c. 1927 to 1947, co-founded the CCA with Statten, serving as Secretary. McEwen's involvement is documented in Camp Stephens Alumni blog sources, which state McEwen "founded the Canadian Camping Association in 1946" with Statten; since the CCA was formally founded in 1936, McEwen's role may relate to a 1946 reorganization or national assembly.^8n Doug McEwen, possibly Nelson's son, later served as CCA President from 1967 to 1969.^8o Statten also served as president of the American Camp Association in 1942, the only Canadian to hold both offices.^8b The CCA's stated objective was to "further the interests and welfare of children, youths and adults through camping as an educative, recreative, and character developing experience."^8c Its constitution was formally incorporated by Letters Patent on November 4, 1949.^8c
 
-The Quebec Camping Association (QCA) was formed in 1937 as a chartered unit of the CCA.^8d Concordia Archives hold correspondence regarding the founding of the CCA Quebec Section (1936–1937), a QCA constitution from 1937, and executive/members meeting records from 1937 to 1942.^8e A camping school affiliated with the QCA was held at McGill University from 1937 to 1940, representing one of the earliest formal training programs for camp leaders in Canada.^8f The modern successor to the QCA is the Association des camps du Québec (ACQ), of which Camp YMCA Kanawana is an accredited member today.^8g
+The Quebec Camping Association (QCA) was formed in 1937 as a chartered unit of the CCA.^8d Concordia Archives hold correspondence regarding the founding of the CCA Quebec Section (1936–1937), a QCA constitution from 1937, and executive/members meeting records from 1937 to 1942.^8e A camping school affiliated with the QCA was held at McGill University from 1937 to 1940, representing one of the earliest formal training programs for camp leaders in Canada.^8f The relationship between the QCA and the Association des camps du Québec (ACQ) — of which Camp YMCA Kanawana is an accredited member today — is not one of simple succession, and an earlier version of this article described the ACQ as the QCA's "modern successor." The Canadian Camping Association's own announcement of the two bodies' merger, made by **Bob Lazanik** at the CCA annual meeting in Winnipeg on 28 February 1969 and printed in French in the magazine, gives a different sequence:^8s
+
+- **L'A.C.Q. was founded in 1958** as a separate francophone association — twenty-one years after the QCA — and **joined the QCA in 1961**, the QCA thereafter being known as *la section anglaise*.^8s
+- From 1961 a **Conseil Provincial** made up of representatives of both sections coordinated their activities and represented Quebec's camps to the provincial government.^8s
+- The question of a workable affiliation formula was **first raised at the CCA's 1963 annual meeting at Banff**, and took "quelque six années d'études, de discussions, d'évaluation et de recherches" to settle.^8s
+- The French section's affiliation to the CCA was announced in **February 1969**, placing the Conseil Provincial "au niveau national" so that Quebec's camps had "une voix les représentant tous." The president of the French section was **M. Lionel Perras, p.s.s.**^8s
+
+So the ACQ and the QCA existed as parallel sections of one provincial structure for at least eight years, and the ACQ was never simply the QCA renamed. When the ACQ became the province's single association is not established by any source yet consulted, and should not be inferred from the 1969 merger alone.
+
+A related datum on the two sections' convergence: *Le Guide du moniteur*, Mary L. Northway and Barry Lowes's counsellor handbook, was published in French translation in 1969 — "for the first time in the history of camping, an established book for Camp directors and staff, originally written in English, has been translated into French" — with a preface by **Mme Nicolas Demetelin**, then QCA president, and a foreword by Father Lionel Perras, sold through the QCA at 2233 Belgrave Avenue for $2.95.^8s
 
 ## Women in the Camping Movement
 
@@ -106,6 +115,8 @@ The CCA published *Canadian Camping* magazine from 1949 to 1988; digitized issue
 8p. Research campaign 2026-06-22 (McGill Camping School). Concordia Archives P0145/12N03. McGill PE alumni testimonials (KPE alumni page). Arthur S. Lamb biography (McGill archives). Camp Nominingue "Camp School" alumni recollections.
 8q. Research campaign 2026-06-22 (Woodcraft League). *Montreal Gazette*, July 11, 1918 (via Newspapers.com/newspage/419701340). histclo.com Woodcraft League article. Woodcraft Manual for Boys (1917 Birch Bark Roll). Philip D. Fagans as ACA president (acacamps.org/history/presidents).
 8r. Trent University Archives, OCA fonds 72-007 finding aid, direct page fetch, 2026-07-09 [src_trent_oca_fonds_72_007]. Concordia University Archives, P0145/12B05 (Staff and Counsellors) [src_concordia_atom_12B05].
+
+8s. "Where the Action Is" and "Bienvenue Quebec — Section Française" (announcement by R. Lazanik, printed in French), *Canadian Camping*, Vol. 21 No. 4, Summer 1969, pp. 88-89; and "Reading… In French: Le Guide du moniteur," same issue, p. 109. Found by the full word-for-word read of the run (`kb/reread/cc_findings.md`, issue 83); an earlier pass had taken the QCA's 1937 founding from Concordia holdings and never reached the association's own account of what followed.
 
 ## Research Notes
 

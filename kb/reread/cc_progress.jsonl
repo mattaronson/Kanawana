@@ -80,7 +80,7 @@
 {"n": 80, "file": "canadiancampingmagazine_vol21_no1_1968fall.txt", "bytes": 60860, "status": "read", "read_at": "2026-09-04"}
 {"n": 81, "file": "canadiancampingmagazine_vol21_no2_1969winter.txt", "bytes": 65192, "status": "read", "read_at": "2026-09-04"}
 {"n": 82, "file": "canadiancampingmagazine_vol21_no3_1969spring.txt", "bytes": 70519, "status": "read", "read_at": "2026-09-04"}
-{"n": 83, "file": "canadiancampingmagazine_vol21_no4_1969summer.txt", "bytes": 74582, "status": "pending"}
+{"n": 83, "file": "canadiancampingmagazine_vol21_no4_1969summer.txt", "bytes": 74582, "status": "read", "read_at": "2026-09-04"}
 {"n": 84, "file": "canadiancampingmagazine_vol22_no1_1969dec.txt", "bytes": 80497, "status": "pending"}
 {"n": 85, "file": "canadiancampingmagazine_vol22_no2_1970march.txt", "bytes": 84274, "status": "pending"}
 {"n": 86, "file": "canadiancampingmagazine_vol22_no3_1970april.txt", "bytes": 83024, "status": "pending"}
