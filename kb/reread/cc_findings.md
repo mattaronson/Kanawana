@@ -14414,3 +14414,327 @@ Camp Directors with Ebbs's roll of the movement's founders, the magazine's own t
 production history, Wipper's dated life-jacket standard and the RLSS award revision of 1
 January 1970, Govan on camp religious programming, and the announcement that further Mary Edgar
 texts from her out-of-print first book will appear in later issues.
+
+---
+
+## 85. Vol. 22 No. 2, March 1970 — `canadiancampingmagazine_vol22_no2_1970march.txt`
+
+*Contents page*: Editorial (Ann Prewitt); "What I Like to See in My Counsellor" (Ian Fleming
+and Neil MacLean); Winter Camping (David Loewen); How I Cope With a Homesick Camper (Donna
+Richardson); The Miserable Homesick Camper (Lela Shepley); Safety in the Riding Programme
+(Jaye Hickey); In Memoriam: Mrs. Taylor Statten (Charles Plewman); Recent Studies on the
+Effects of Nicotine and Smoking (Dr. J. H. Ebbs); Now at My Camp (Joyce Bertram); How We Run
+Our Daily Program (Colin Hatcher); A Daily Programme Résumé (Mary June Sanderson); Making
+Exceptional Children a Part of the Summer Camp Scene (Doreen Kronick). All twelve checked
+against the read; all covered below, plus four unsigned or initialled notes.
+
+**★ A COMPLETE ROLL OF PROVINCIAL PRESIDENTS, February 1970**, from the cover montage of the
+CCA annual dinner — the fullest single snapshot of who ran Canadian camping at the turn of the
+decade. **CCA: David Hartry, with secretary Barry Bryant and treasurer Robert Gregory.
+Manitoba: Arnie Cohen and president David Loewen. Nova Scotia: Mrs. Campbell and Tom
+Creighton. Saskatchewan: president Eileen Mayotte** (the QCA secretary of the 1940s profiled
+at issue 79 — her prairie presidency now dated). **Newfoundland: president Eric Russell.
+Ontario: president Ivan Robinson, with Ron Johnstone. British Columbia: president Grant
+McKeen. ★ "LA BELLE PROVINCE'S PRES. L. PERRAS with BOB LAZANIK and CY BEKOFF."** So Quebec is
+represented at the 1970 national dinner by **Father Lionel Perras** as president, with Lazanik
+and **Cy Bekoff** — a new name — the merged association's public face one year after the
+affiliation announced at issue 83. **Mary Edgar "delights with her poetry"** at the same
+dinner. Also new on the masthead: a system of **Provincial Representatives** to the editorial
+committee, Quebec's being **Huguette Dagenais** — a francophone name on the national magazine's
+committee for the first time in this run.
+
+**★ Ann Prewitt becomes Editor** (Box 1107, Huntsville), succeeding the late Josephine Harshaw;
+Don Groff stays as Publications Committee chairman. Her first editorial announces the
+provincial-representative scheme, apologises that provincial news is held over ("with special
+apologies to **Jack Way** of B.C. who would have been the only contributor" — the corrected name
+from issue 79 in use), and asks for **"more articles from across Canada including some in the
+French language."** Wanted: "'How We do It' articles, Letters to the Editor, Camper's Corner,
+Photographs, Cartoons, Administration policies, Songs, Poems, Short term Church Camps."
+
+**★ Charles F. Plewman, "In Memoriam: A Tribute to Mrs. Taylor Statten."** Ethel Statten has
+died — "the surviving partner of one of the most remarkable teams in Canadian Camping."
+**Plewman is one of the three founders' names Ebbs listed at issue 84 that this project had no
+trace of; here he is writing.** The tribute's substance: "**it was Taylor who decided to launch
+a camp for girls, a girls' camp that would be different in that it would mesh activities with
+the boys at Ahmek, but it was left to Tonakela to make a dream come true**"; "If Taylor Statten
+by nature and temperament was destined to work in the limelight, Tonakela, by the same token,
+was ordained to labour behind the scenes"; and the claim, "**Certainly no married couple
+throughout the first fifty-five years of organized camping in Canada contributed as much**" —
+which incidentally dates organized camping in Canada from about 1915 by Plewman's reckoning, a
+later start than Ebbs's "more than 70 years" at issue 84 and than Kanawana's own 1894. Record
+both; they are estimates by different men, not conflicting evidence.
+
+**★ And it confirms, from a third source, that Ethel Statten's camp name was Tonakela** — used
+throughout the tribute as her name. Issue 16 of this read already noted "his wife's camp name
+'Tonakela' appears," and issue 38 records that **Wallace Forgie's Camp Tonakela near Madras**
+was **"opened officially by Mr. and Mrs. Taylor Statten"** and that "Tonakela, in Ojibway as
+well as in a South Indian dialect, means 'you first'." Forgie was Adele Ebbs's uncle by
+marriage and so connected to the Statten family (issues 74, 77). **The natural reading is that
+Forgie named his Indian camp after his sister-in-law's camp name, with the Ojibway/Tamil
+double meaning as the justification — but that is inference, not a claim any source makes**,
+and it should go into the conflict/notes record as such rather than into an article. It does
+not affect the open Tonakela founding-date question (1935 / 1937 / January 1938), which stands
+with none of the three superseded.
+
+**★ Dr. J. H. Ebbs's three medical notes** — the Society's founding president now supplying the
+magazine with research digests, three in one issue, all initialled J.H.E.:
+
+- **"Recent Studies on the Effects of Nicotine and Smoking."** EEG evidence that nicotine
+  activates the brain and, in excess, causes convulsions in experimental animals; that it
+  "prolongs the transient state between alertness and sleep"; that tobacco smoke has **two
+  active agents, nicotine and muscarinic drugs**, the mild excitatory action due to both and
+  the later inhibitory action entirely to muscarine; radio-active nicotine in mice
+  concentrating in the brain and clearing in 30–60 minutes; nicotine stimulating respiration,
+  raising blood pressure, inhibiting knee reflexes and accelerating cerebral blood flow.
+  Driving tests showed "no difference in ability or alertness in smokers and non-smokers, but
+  when smokers are deprived of smoking, they show more 'tracking' and produce more errors in
+  vigilance." And the line that dates the era: "in experiments with monkeys… when they become
+  addicted to smoking, they much prefer the pipe." **Context worth holding**: smoking by camp
+  staff and visitors is treated as ordinary in this run (the Ontario forest-fire law at issue
+  83, the stable NO SMOKING sign in this one), and this is the movement's medical officer
+  starting to build the case against it.
+- **"Lightning and Electrocution."** An average of **11 deaths a year from lightning and 82
+  from electrocution** in recent years, with the operational advice: during severe electrical
+  storms individuals should not be "on open bodies of water in metal canoes, on heights of
+  land, or in open spaces." **A dated safety standard for canoe tripping**, and one to hold
+  against any camp's storm procedure.
+- **"Campers' Injuries."** From a children's camp health department: **July has more injuries
+  than August** in some summers — fewer abrasions, blisters, sunburn, concussions, cuts,
+  foreign bodies, insect bites, sprains and stubbed toes as the season goes on, suggesting
+  campers become "more seasoned"; **the younger age group suffers three times as many minor
+  injuries as older campers and staff, and nearly twice as many infections.** A rare piece of
+  quantitative camp-health data.
+- **"The Art of Teaching Nonswimmers"** (also J.H.E.), reporting **Cressy A. McCatty**, School
+  of Physical and Health Education, University of Toronto, in *Research Quarterly*: "The
+  Effects of the Use of a Flotation Device in Teaching Nonswimmers." **No evidence that a
+  flotation device accelerates learning** — but "a statistically significant difference between
+  the scores of pupils taught by two different instructors." The conclusion, in his words:
+  "it did not matter if a flotation was used or not, the significant thing was the quality of
+  the instruction." A named, findable piece of Canadian camp research.
+
+**★ David Loewen (Director, Camp Arnes, Manitoba), "Winter Camping" — the practical manual for
+exactly the year-round conversion Morawetz predicted at issue 81, and directly relevant to
+`programs-activities.md`'s Open Question 6** about what winterization actually involved. Arnes
+is "in its third year of winter camting now. The demand for rental facilities is so great… we
+have opened a second site for winter use." Substance:
+
+- *Who rents*: "predominately high school and university students, church youth groups, clubs
+  of various natures, private and public schools, and adult conference groups," but **"the
+  initial selling job must be done by you."**
+- *Own programmes too*: winter retreats for the camp's own teen campers, families and couples,
+  because "our summer campers… like nothing better than to see and enjoy 'their camp' in its
+  winter splendor," and staff "look forward to a week-end back at their camp in winter."
+  Retreats for ten- to twelve-year-olds are possible "but this requires more and better trained
+  staff."
+- *Programme*: toboggan/tube/ski slopes are an attraction but **ski tows are not worth the
+  cost — bus to an existing tow**; **invest in snowshoes**, "quickly learned and opens up
+  otherwise impassable hiking areas"; ice fishing, skating, **broom ball** ("Visit the curling
+  rinks for their discarded brooms — they're ideal for broomball, and free"), snow sculpturing,
+  survival stalking, campcraft and cooking over an open fire in the snow. And a firm rule:
+  **groups that expect no planned programme "we do not permit to rent our camp,"** because
+  "where there is no program there usually is a high degree of misuse of camp facilities as
+  well as more opportunity for accidents."
+- *★ Facilities — the winterization answer in detail*: "**Any well-built cabin is probably worth
+  winterizing.**" **Propane heat over electric** because it gives instant warmth, or cheap oil
+  space heaters "very quickly installed into a building." **Cabins work as well as dorms.** And
+  the water decision, which is the crux: **Arnes runs no running water in winter** — "the
+  campers like it that way" — because "if you have running water, you will have to heat your
+  building all winter, or drain the pipes each week-end. One is costly, the other time
+  consuming." They have a year-round artesian well but "campers are quite ready to melt snow."
+  One large building with a good fireplace, washrooms and food service is essential; the
+  **walk-in cooler is run in reverse in winter** with a small thermostatically controlled
+  electric heater inside, "and that solves all our food storage problems"; summer washrooms are
+  used with stalls blocked off in BP board, small electric space heaters, and flushing by
+  **dipper of water from a bucket**. Camper clothing and footwear requirements are spelled out
+  in advance, because "if campers are not dressed for the out-of-doors, they won't enjoy it and
+  consequently not book a retreat with your camp next year."
+- *★ Charging*: renting groups **carry all the water, sweep and tidy, wash dishes, set tables,
+  serve at meals, and provide their own nurse**, so the camp employs only a custodian and a
+  cook and passes the saving on. **A minimum fee to open camp** covers fixed costs — staff,
+  travel, heating, wear and tear — and food costs are then divided per head, "the larger the
+  group, the lower the rate per person." That is a complete off-season rental business model,
+  from 1970.
+
+**★ Ian Fleming and Neil MacLean, both twelve, "What I Like to See in My Counsellor" — the
+keynote address at the Camp Counsellors' Conference, York University, 10 May 1969, given by two
+campers.** The rarest voice in this entire run: not a director, not a CIT, but children
+addressing a conference of staff. Neil on what he likes: a counsellor who participates ("in
+this way the cabin will always do things together and become a good group"); one with humour —
+"That doesn't mean that he should be as funny as Bill Cosby, but he should be able to
+appreciate the humour of the campers"; **"A really serious counsellor TAKES THE FUN OUT OF
+CAMPING"**; "strict but manages to control the cabin, without us knowing it"; the one who
+appointed a **"DIRECTOR OF FLOORS"** and "A SUPERINTENDENT" so that "cleaning the cabin was
+always fun and we didn't mind doing a rotten job… besides we usually won the 'CLEANEST CABIN'
+award"; one who takes an interest "EVERY DAY… how we are doing in our crest work"; and one
+active beyond his own cabin — "HE makes the cabin proud that HE is THEIR leader." Ian on what
+he dislikes: the counsellor who doesn't associate with the cabin, so "THEY never become a close
+cabin group"; **the one who "used to sit down every time we had a race, and watch us run all
+over the place… and NEVER help us at all"**; the too-strict one, because "everything has to be
+done HIS WAY and sometimes the campers, who have some pretty good ideas, can't say anything";
+and the lazy one — "If he sleeps in, so will his campers… they miss out on a lot of things that
+other kids get to do." His closing is worth quoting whole: "**This has been pretty hard to talk
+about because MOST of my counsellors have been good, and, if you have a good counsellor you
+will do anything for him.**" On programme: free-choice interest groups in the morning at three
+levels with crest work as the incentive ("The crest work was up to us… Most campers do it
+because it is a good challenge. It also made us better trippers because we learned axemanship
+and how to pitch camp really well"); competitive games, "capture the flag… or hunt the staff";
+all-camp cook-outs every two weeks ("you get as much to eat as you want, and, you cook it
+yourself. If you don't go on a cookout at your camp you should try to get one"); campfires
+"always better if you can participate" — Pat and Mike, Indian wrestling — rather than "just sit
+around and sing songs"; and **hoax programmes**, described in detail: the **PACKASORUS**, "a
+mysterious [creature] wandering around… identified by the pack on his back and by the fact that
+he ate paper," tracked by paper trails all over camp until "we finally caught him. It was our
+Director sitting in a tree with a pack on his back… It was a great program, and besides… we got
+all the papers picked up around camp." **A dated, named camp hoax with its mechanics — exactly
+the sort of thing the Chopsy legend thread (`p_045`) needs comparators for.**
+
+**★ Two counsellors on homesickness, printed together, one of them writing from experience of
+it.** **Donna Richardson (11-year-old counsellor — as printed; more likely an eleventh-year or
+a typo for her age, and recorded here as it appears — at Camp Ouareau, Quebec)**: homesickness
+peaks at mealtimes, "the gnawing realization that she is alone in the midst of a great many
+strangers"; stay with the child as long as needed "even if we are missing lunch"; stay cheerful,
+"not wishing to increase her unhappiness by looking depressed myself"; and **touch — "I am not
+afraid to put my arm around those quivering shoulders… It is comforting to a child to have the
+hair which may be clinging to her flushed face brushed away."** Her diagnosis is always the
+same: "she has not made friends with the other girls." Her method is to invoke the parents'
+hopes as an obligation ("she has an obligation to like camp"), then to do "some behind-the-
+scenes manipulating" to find the child a friend and alert other counsellors. **Lela Shepley (17,
+first-year counsellor at Camp Northway)** writes as a former sufferer: "I spent the first two
+and a half weeks of summer camp wishing to Heaven that I wasn't there… I'm thankful that I had
+the experience of being homesick. It gave me an insight to all of the frightened and miserable
+campers I have encountered." Her list of what not to say is the sharper document: not "You're
+too old to be homesick"— "**A person is never too old to be homesick. Whether you're five or
+fifty**"; not "Give this place a chance," because "that automatically makes the camper hate it
+even more. No one likes to admit it's her own fault"; not "EVERYONE loves it here, why don't
+you?" because "that only makes the camper feel even more out of place and that she must be
+'weird'"; and never "I'm too busy, I'll talk to you later" — "**What a confidence destroyer!**"
+Her method is disclosure: "TELL her how much agony you suffered… In this way, she'll know you
+care." Both are worth having as the period's actual pastoral practice, and Shepley's especially
+as a young staff member's own account of being a camper in difficulty.
+
+**★ Doreen Kronick (Director, Integra Foundation, Toronto; sponsor of Camp Towhee), "Making
+Exceptional Children a Part of the Summer Camp Scene"** — reprinted from the *Journal of Health,
+Physical Education, Recreation*, May 1969. **The earliest full statement in this run of
+integrating disabled children into a mainstream camp**, and directly relevant to Kanawana's
+later inclusion record (the "Companion" one-to-one support role in `programs-activities.md`,
+and the West Island Association for the Handicapped thanked in the 1987 report). Her argument:
+many such children "have spent their lives being sheltered and overprotected at home, attend
+'special' classes and therapy groups with other 'special' children. **They experience their
+first real opportunity to learn to live with their normal peers at camp**"; and for the other
+campers, "just as sleeping beside a youngster of different race or nationality can help a child
+appreciate his sameness and humanity, so can a special child teach an invaluable lesson." Her
+procedure: request a detailed report from the sending agency (abilities, disabilities,
+handling methods, extent of special training, social ability, readiness); **furnish a report
+back at the close of summer "so that they can maintain a twelve-month picture of the child's
+progress"**; an extended family interview covering medical services, physical facilities, meals,
+demands made of campers, staff qualifications and programme, plus "a detailed description of the
+trip to camp, from the time he leaves home until he is settled into his cabin"; and an
+eight-point intake list including how the child feels about the handicap and what assistance is
+needed in dressing, toileting, bed-making, eating and movement. Her operational findings:
+**facilities meeting ACA standards for non-disabled children are sufficient "provided leniency
+and extra time to move from place to place are allowed"**; suitability depends "not… upon
+program orientation as upon maturity of staff and flexibility of programing"; a group-centred
+camp suits integration because of close supervision and minimised competition; **always provide
+an alternative activity when the disabled child cannot join in, so cabinmates are not held back
+and do not resent it**; and give the counsellor only "the specifics wherein his handling of the
+camper will differ," not "technical terminology or extensive material on the etiology." Her
+warning at the end is the structural one: because so few directors will take such campers, the
+willing ones "become overwhelmed with applications… Their camps threaten to adopt the
+characteristics of a 'special' setting which negates the original purposes." **Record the
+period's vocabulary as written** — "exceptional," "handicapped," "normal camp," "educable
+mentally retarded" — and read it as of 1969-70.
+
+**Three daily-programme accounts, printed together as a comparison.**
+
+- **★ Joyce Bertram (Camp Ouareau), "Now at My Camp"** — the best-written of them and the
+  frankest. Her fear: a child saying "'Oh nah, it's just like school'… some camp programs made
+  up ALREADY, and some Program Directors know NOW just what Bunks 4, 5 and 6 will be doing on
+  Wednesday, July 15th." Her account of an experiment that failed: Ouareau spent years letting
+  campers choose every period of every day, and abandoned it — **"when a different child showed
+  up for the activity each day of the week the staff had no feeling of accomplishment, no
+  feeling of continuity and no reason to make out a lesson plan"**, and the campers "often went
+  home with a lopsided basket and a half-ass copper bracelet when what they really wanted was
+  their Senior Red Cross and their Skipper." Her conclusion: "**THEY LIKE RULES AND REGULATIONS
+  AND LIMITS**. Partly because they like to be able to fight against them: there is no fun in
+  fighting a cream puff. But partly it is because they want to feel that someone is interested
+  enough in them to INSIST that they make the most of their God-given talents… **We offer a lot
+  of choice but that choice is between a number of things. It is never between something and
+  nothing.** Give a kid a chance and he'll choose nothing every time!" The resulting structure:
+  two chosen concentration activities plus an instruction swim in the mornings, changed weekly;
+  free-choice afternoons adding diving, synchronized swimming, dramatics, photography, modern
+  dance, music, poetry and nature lore; section programmes two or three evenings; two all-camp
+  nights; **Monday Cabin Nite, Saturday dramatics, Sunday "a special quiet time with music and
+  poetry and story telling around the fire in the Lodge."** On self-reliance, her arrangement is
+  distinctive and worth recording: **campers live four to a tent or cabin, with their counsellor
+  living nearby among her own contemporaries — "close enough for supervision and safety but not
+  close enough to mediate every quarrel or referee every fight."** Her camper council plans the
+  big programmes, cabin nights, campfires and stunts, writes plays, puts out a newspaper and
+  writes "their own ghastly folksongs which they sing with their own equally ghastly guitar
+  accompaniment." And her Sunday chapel story, which became a camp talisman: her father's rabbit
+  that climbed a tree to escape the dogs — "But Daddy, rabbits don't climb trees." "**THIS
+  rabbit had to!**" — adopted at Ouareau "for every youngster faced with something difficult —
+  whether it was a Red Cross test, a first night on the stage or sitting at a new table in the
+  dining room." A documented instance of a camp saying entering use in a single season.
+- **★ Colin Hatcher (Director, Camp Keewaydhin, YMCA of Edmonton), "How We Run Our Daily
+  Program" — a YMCA camp's scheduling mechanism, described with its board reproduced.** Four
+  "givens": scheduled meals unless a group eats out or is on an out-trip; a morning camp and
+  cabin clean-up; an afternoon rest hour; and **sleep quotas — 9–10 hours for juniors, at least
+  8 hours for seniors aged 11–13**. The mechanism is the **"sloosh" board**: after supper a
+  section director clears the chips, and each counsellor **bids for his group's time by placing
+  chips on the board** against activity and period. Activities listed on the reproduced board:
+  archery, axemanship, boating, canoeing, crafts, nature lore, orienteering, riflery, swim
+  instruction. **Two one-hour periods each morning, three each afternoon, one early evening**;
+  counsellors accompany their campers and act as resource person; groups collect and return
+  their own equipment. "Bidding… is tight when all groups are in camp. However, as groups leave
+  for out-trips, it is not unusual to have one of the remaining groups take two consecutive
+  periods." **This is the closest thing in the run to a YMCA camp's own scheduling system set
+  out in full, and a direct comparator for Kanawana's "Interest Groups."**
+- **Mary Jane Sanderson (Camp Wahcahmie)** — 48 girls; three morning periods rotating canoeing,
+  wilderness survival (campcraft plus orienteering) and swimming, with sailing, waterskiing and
+  aquaplaning running alongside; the whole camp at swimming in the last morning period working
+  toward Red Cross or RLSS awards, or **a camp award "so that everyone is involved in some
+  Swimming award"**; afternoons of instructional swim then free-choice interest groups, an
+  activity held Monday-Tuesday then changed Thursday-Friday, Wednesday open with a cabin
+  cook-out supper; a weekly special day (Sail Past, Olympic Day, Gold Rush Day). Her junior
+  programme example is the best detail: a hike to the beaver pond returning "laden with 22
+  varieties of mushrooms, plant life, mosquito larvae, swamp gas," then hours spent labelling
+  specimens from nature books into a display — "**A wonderful example of education out of the
+  classroom!**"
+
+**Jaye Hickey (Instructress, Camp Ponacka), "Safety in the Riding Programme."** A full riding
+safety standard, useful as physical-plant and programme source. Aim: "It is unrealistic to hope
+that two weeks, even a month, can produce polished equestrians. Therefore, camp riding should
+aim for the more functional and desirable end — that of basic safety." Teach the horse's
+psychology, not just rules — a horse learns voice intonation, is a creature of habit, and
+**work a strange horse from the near side**. The point about fear is well observed: "a
+frightened child is instantly relieved, forgives, and at times feels a great sympathy for a
+horse who has just tossed him when he is told that the animal shied because he was frightened."
+Practice: **schooling helmets with chin straps worn at all times, even unmounted**, against
+bumped heads in the stall; quick-release knots and properly adjusted shanks; **cross-tie in
+aisle or box stall for grooming**; inspect all tack before horses leave the barn if campers
+tacked up; check every saddle before the season for pinched withers, overdue restuffing,
+decayed stitching; stable tools hung high; a restricted, well-stocked medicine cabinet, since
+"a carelessly applied bandage can cause permanent damage to a tendon"; **a NO SMOKING sign in
+the stable area**, because "a careless stableboy (word option: 'counsellor') or a forgetful
+visitor are enough reason"; **a red ribbon braided into a kicker's tail** as a visual warning.
+In the ring: warm-up exercises to shift the nervous child's attention off the horse, one horse
+length between riders at a walk, and **never "Everyone canter"** — riders go one at a time from
+the back of the ride, which "negates the possibility of 'races', fighting, bucking." Artificial
+aids (whips, crops, spurs) kept from the inexperienced. On the trail: check girths, stirrup
+length ("one shorter than schooling length, two shorter than dressage length"), hats and red
+ribbons; a martingale or neck strap for the young; and remind riders about crying wolf, with a
+vegetation quiz or a song to occupy them.
+
+**Smaller items.** An unsigned note initialled **B.M.** (Bruno Morawetz), **"Parklands For The
+Future"**: provincial governments wanting park land are "hampered by inflated prices as soon as
+it becomes known that the government wishes to buy," and readers who know of land available
+reasonably should "write a discreet letter to your M.L.A. and your Minister of Lands and
+Forests." A camping-movement land-conservation appeal, 1970. Cash's name tapes have risen from
+6 doz./$1.50 to 6 doz./$1.75 since Winter 1969. Saskatchewan moves to Box 823, Regina.
+
+Nothing in this issue names Kanawana. Its value is the February 1970 roll of provincial
+presidents with Perras, Lazanik and Bekoff for the merged Quebec association, Plewman's tribute
+confirming Ethel Statten as "Tonakela," Loewen's complete winterization and off-season rental
+model, Ebbs's four medical notes including a dated lightning standard for canoe trips, Hatcher's
+YMCA "sloosh" board, Kronick on integrating disabled campers, and — rarest of all — two
+twelve-year-olds telling a conference of counsellors what a good counsellor is.
