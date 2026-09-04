@@ -19288,3 +19288,207 @@ place.
 
 Provincial presidents now include **Margaret Pezderic** (Saskatchewan) and **Barbara Taylor**
 (Newfoundland). Cover designed by **Violet A. Catlin**.
+
+## 104 — Vol. 27 No. 3, April 1975
+
+Contents page checked. All items read: Viewpoint (Paul Bélanger); The Outdoorsman (Larry R.
+Johnston); Tips; Group Initiative Tasks (Stan Talesnick); Organizing a Sailing Program (Catherine
+Thomas); A Tribute To (F.M. Van Wagner and Charles Plewman); On the Buses (Kenneth Robinson);
+Classified Ads; Letters to the Editor; Environmental Awareness at Camp (Dr. John J. Kirk); Camping
+in B.C. (Grant McKeen); Changes in Infectious Disease Immunization (J. Harry Ebbs). Plus an OCA
+Buyer's Guide supplement and the CCA publications catalogue.
+
+**★★★★★ F.M. VAN WAGNER — THE MAN WHO FOUNDED THE QUEBEC CAMPING ASSOCIATION AND WROTE ITS FIRST
+STANDARDS MANUAL.** A tribute by **Frances M. Kelly**, the QCA English Section's Executive Secretary,
+on his being made an Honorary Member of the CCA. This is the single most consequential biography
+this read has produced for the institution that accredited Kanawana, and every date in it is new to
+this project:
+
+- Born in **Hyde Park, N.Y.**; a farm childhood; a career in physical education. **Aged 80 in 1975**,
+  so born about 1894–95.
+- **Founded Camp Nominingue in 1925** on Petit Lac Nominingue in the Laurentians; "**In 1974, the
+  camp celebrated its 50th season.**" (This bears on the **Camp Nominingue 1924/1925 conflict** in
+  this project's list: the founder's own tribute says **1925**, and the fiftieth-season arithmetic
+  agrees. Recorded, not unilaterally resolved.)
+- **"As early as 1937, as promoter and charter member of the C.C.A., Mr. 'Van' organized the Quebec
+  Camping Association, English Section, to improve the camping methods and to raise the standard of
+  the camps throughout the Province of Quebec. He was also the first President of the Q.C.A."**
+  **The QCA's founder and first president is now named**, and the 1937 date is corroborated a fourth
+  time.
+- **★★ "In 1955 he formulated and first introduced a Manual of Standards for children's summer camps
+  in the Province of Quebec."** **This is the origin of Quebec camp standards, and it is a document
+  with a name.** The chain is now: **Manual of Standards, Van Wagner, 1955** → accreditation practice
+  "in the pioneer stage" under Alta Kahn, **1959–60** (issue 100) → the QCA's provincial
+  incorporation, **23 January 1961** (issue 103) → annual re-accreditation of every Quebec camp by
+  1975 (issue 103). Kanawana was measured against a document written by a named man in a named year.
+- **"He was President of the Canadian Camping Association with Office in Montreal from 1958 to
+  1961."** **The national association's office was in Montreal for three years**, under a Montreal
+  president — a period in which national camping records were being kept in Kanawana's own city.
+- **Centennial Medal, 1967**, "in recognition of valuable service to camping and the nation";
+  **an Award of Merit from the Provincial Board of the QCA, English and French Sections, in 1968**;
+  and **Honorary Member of the CCA at the Annual Meeting in October 1974**.
+- Ski-touring since the mid-1930s: "next to the famous **'Jackrabbit' Johannsen**, 'Van' has probably
+  travelled more ski-miles in the Laurentians than anyone and, at the age of 80, is still an active
+  skier."
+
+He appears in this read repeatedly and it was never clear who he was: an unasterisked Montreal past
+president of the CCA in the 1972 list (issue 94), an Honorary Member of the QCA English Section in
+1975 (issue 103), and the probable relation of **Peter Van Wagner**, who headed the English Section
+and then chaired its Standards Committee (issues 95, 103). **The relationship between F.M. and Peter
+Van Wagner is still not stated in any source and is not being asserted here.**
+
+**★★★ AND THE CCA ANNUAL MEETING OF OCTOBER 1974 WAS HELD IN MONTREAL.** Stated twice, in both
+tributes: Charles Plewman was made an Honorary Member "at its Annual Meeting in October 1974, **in
+Montreal**." A national camping association annual meeting in Kanawana's city, in a year for which
+this project's Quebec record is thin — and one whose minutes would name the Quebec camps and people
+present.
+
+**★★ Charles Plewman's career, dated.** The founder whose first-hand account of the CCA's 1946
+formation was found at issue 92 now gets a full chronology: **first attended camp as a camper in
+1903**; **1909** ran his first short-term camp; **Director of Camp On-Da-Da-Waks 1913–1916**; then
+three years directing **Camp Stephens** (the YMCA camp that appears alongside Kanawana in the OCA's
+"Y camps" list); Inter-Church camps thereafter; **opened his own boys' camp, Kilcoo, in 1932, and
+owned it until 1955**; helped found the Ontario Camping Association and was **its President in
+1945**. And once more on the magazine's origins: "**He and some of his associates began publishing a
+'Camp Bulletin' … the forerunner of 'Canadian Camping'.**" That is now three accounts of the
+magazine's parentage — Plewman's own (issue 92), Northway's on Mary Edgar (issue 100), and this —
+and they can be held together rather than reconciled: an Ontario "Camp Bulletin" begun by Plewman
+and associates, with Edgar as its first editor, becoming the national *Canadian Camping Bulletin*
+whose first printed issue was February 1949. Latimer notes the editor hoped to print Plewman's reply
+to the award in a future issue — **watch for it**.
+
+**★★ Abbé Paul Bélanger's Viewpoint — a documented Quebec camp integrating blind campers since
+1971.** Bélanger is Director of **Camp École Keno**, the magazine's Quebec correspondent and its
+translator. He opens with the practice he is arguing against: "due to our selection processes, we
+have taken the habit of accepting in our camps normal children only, refusing systematically
+children with behaviour problems or with physical handicaps. **These children were grouped in
+specialized camps, sheltered from the 'dangers of the outdoors', where they could not contaminate
+'good children' or run the risk of being ridiculed by them.**"
+
+The case study is **François**, blind from birth, twelve at his first summer, integrated fully into
+a normal cabin group at Keno. Details worth keeping: two of his teachers were on staff that year and
+it was deliberately decided **neither would be his counsellor**, and they "insisted that nothing be
+changed in the camp program because of François." He did everything — swimming; **hébertisme**, once
+he had learned the course and the obstacles; **archery, using a small bell pinned to the centre of
+the target, sounded by a rope he touched with his foot when ready to aim**; canoeing, passing all
+the safety tests; canoe trips, where he paddled but could not steer, and once familiar with a site
+helped pitch the tent and cook. And the moment Bélanger reports as the one that startled him: walking
+the beach, François stayed exactly at the water line without getting wet, and when asked how, said
+"**I can smell the water!**"
+
+**The programme has run since 1971**: "with the help of people responsible for the education of blind
+and half-blind children, we have continued each summer to take as campers **8 to 10 of these
+children and integrated them in groups of 10 campers, one handicapped child to a group**." Four
+stated conditions: **do not water down the programme**; aim at true integration and avoid treating
+the child as "a second-class camper"; keep one or two staff who know the children and their
+particular problems as **resource persons, not necessarily as their counsellors**; and **never more
+than one such camper per cabin**. A dated, specific, Quebec integration programme running from 1971,
+described by its director — set beside the segregated-camp model Roger Coles described from Ontario
+in the previous issue (102), the two together bracket the period's whole argument.
+
+**★★ Stan Talesnick (Camp Tawingo Outdoor Centre), "Group Initiative Tasks for Camps" — the ropes
+course as staff training, with its sources named.** Used in **Staff Orientation Week**: staff split
+into twelve groups of ten, deliberately mixed for "ages, experiences, camp responsibilities,
+leadership abilities and personalities", rotating through ten of twelve fifteen-minute tasks over
+two and a half hours. **The tasks are credited: "Most of the tasks are collected from the Colorado
+Outward Bound School, via Bob Woodburn of York University, or from the Canadian Outward Bound
+School."** The twelve are given in full and are the recognisable ancestors of every modern
+team-building course — **the Beam** (a 6-inch log lashed 8 feet up between two trees; everyone over,
+including the last person, who cannot be helped from below); **Pole and Tire**; **Electric Fence**;
+setting up a tent **with no talking, optionally blindfolded**; **blindfold walks** led non-verbally;
+**first aid situations** simulated with red dye; measuring tree heights without instruments;
+**Diverging Bridge**; **Tea in a Tree**; getting the whole group onto a rock or stump; **loading a
+canoe anchored five feet out without touching the water**; and a **rope maze** crawled out of
+blindfolded. Then the debrief questions, which are the point: "Did one or two people repeatedly
+assume leadership, or was the role passed around? Was everyone listened to? **Did any group members
+behave 'out of character'? If so, how?**" Counsellors afterwards adapted them as cabin activities —
+"the counsellor merely explained the problem, then observed, intervening only when some possibility
+of injury became imminent." **Directly relevant to the hébertisme and rope-course thread** (issues
+82, 94, 97) and to how Kanawana's own pre-camp and challenge programming would have been built.
+
+**★★ Dr. John J. Kirk, "Environmental Awareness at Camp" — the sharpest critique of camping in this
+run.** Kirk directs the New Jersey School of Conservation. He dates organized camping's origin to
+**1861 at Milford-on-the-Sound, Connecticut, under Fred Gunn**, headmaster of the Gunnery School,
+who moved his whole student body to a camp site for two weeks in response to students asking "to be
+given the opportunity to live like soldiers"; and gives **about ten million children in Canadian and
+American camps in the summer of 1975**. His argument is that camping has abandoned its own
+distinguishing feature: "**Many children attend organized camps today, and in the four-, six-, or
+eight-week experience may never have the thrill of cooking a meal over an open fire, may never have
+the challenge of pitching a tent or the enjoyment of sleeping under the stars**"; camps now use the
+natural environment "as a theatrical backdrop"; every skill they teach "can all be taught, perhaps
+in even a more proficient manner, in a setting other than a camp setting." He is equally hard on the
+old nature study: campers "were required to learn the names of ten trees, fifteen flowers, six birds
+and three animals; and for this monumental achievement they would receive the '**looney bird
+award**'" — taxonomy in place of ecology. And the closing image, which is the most quotable sentence
+of the entire read so far: "**Camping people will sit around the campfires, sing their quaint little
+songs and toast their marshmallows while the world collapses around them.** This unrealistic
+approach, if allowed to continue, may well cause the camping movement to become an endangered species
+and ultimately to become extinct." For an environmental-and-ecological-history article this is the
+period's own indictment, from inside.
+
+**★ Grant McKeen, "Camping in B.C." — the only province-wide survey of camp economics in this run.**
+The BCCA surveyed its camps in 1974; **43 camps returned material**: "**Over 20,000 children were
+registered in these camps — 2,100 staff were employed — $400,000 was spent on salaries — $275,000
+was spent on food.**" Registration: **22 camps increasing, 17 constant, only 4 decreasing** — which
+is the first hard evidence behind Latimer's claim that camping was not in trouble. And a governance
+change worth noting against Quebec's practice: from the start of 1974, **only accredited camps could
+join the BCCA**.
+
+**★ J. Harry Ebbs, "Changes in Infectious Disease Immunization."** The immunisation schedule
+recommended by the Canadian Paediatric Society in 1975, and two changes that would show in camp
+paperwork: **"The camp Health form for both campers and staff should have smallpox deleted from the
+list of vaccinations"** — so camp health forms before about 1975 asked for smallpox vaccination and
+after it did not, which dates a form; and tetanus toxoid now known effective for at least ten years.
+Where primary smallpox vaccination is still given, "it should not be done in the month prior to
+going to camp."
+
+**★ Catherine Thomas (Camp Northway), "Organizing a Sailing Program"** — part one of two, continued
+in June. Practical throughout: minimum recommended age **nine**; sessions of at least two weeks and
+preferably three or four; a waterfront needing "a traffic-free area on the water … It is unnerving
+for the novice sailor to have to negotiate his way through the canoeing program"; sailboat draft of
+three to four feet with the centreboard down, so submerged rocks and deadheads must be marked with
+plastic floats. Twelve rules for choosing a boat, of which the memorable ones: **"be sure the boat
+you choose is CAMPER PROOF"**; don't buy the racing model, "too light and … equipped with too many
+lines and gadgets which, besides requiring constant repair, totally confuse the novice sailor";
+stick to one class; and consider **prams**, which "can be built of plywood at a great saving by your
+camp carpenter." Notes the **Canadian Yachting Association administers a loan fund** for boats bought
+for junior training, open to camps holding CYA membership. Sailing was one of the five headline
+activities in Kanawana's own directory entry the previous issue.
+
+**★ Seven letters on the January 1975 Geneva Park national conference**, whose keynote was **Dr. Don
+Ehat** — named by five of the seven writers as the reason it worked. **Wilfred A. Jackson (Quebec)**
+reports that "**the Keynote Speaker, Dr. Don Ehat, has been secured for the Q.C.A. Director and
+Senior Staff Seminar to be held March 14–16 in Montreal**" — a Quebec directors' seminar in Montreal
+in March 1975, which Kanawana's director, then on the QCA English Section executive, would have
+attended. **Doug McEwen (Ontario)**, **Arnie Cohen (Manitoba)**, **Murray Wickwire (Nova Scotia)**,
+**Philip Giberson (New Brunswick)**, **Shanley Parkinson (Manitoba)** and **Don Vosburgh (Alberta)**
+also write; Vosburgh notes the 1976 CCA Annual Meeting will be at **Banff**. The CCA publications
+catalogue then lists **seventeen cassette tapes of that conference at $4.00 each**, including seven
+Ehat sessions ("Mazlow's Hierarchy", "Johari Window and Firo B", "Force Field Analysis") and ten
+Canadian ones — **"Recruiting, Hiring, Interviewing" (Bruce Harris), "Evaluating Your Camp" (Barry
+Lowes), "Staff Training" (John Boutin), "Staff Supervision" (Brian Law), "Develop Staff From Within
+Your Camp" (Al Knox)**, budget (Ron Johnstone), recruiting and PR (Doug McEwan), camp philosophy
+(Arnie Cohen), working with committees (Tony Fry). **A recorded 1975 seminar on camp staff
+supervision and evaluation, sold on tape** — another `p_307`-relevant artefact, and one that may
+survive.
+
+The catalogue also announces a new Canadian title: **"CAMP COUNSELLOR'S HANDBOOK. Blackstock &
+Latimer. — 1975 publication. New, up-to-date! 128 p. $4.95"** — the CCA president and the
+publications chairman co-writing the national counsellor manual — and **"Counsellor's Guide to Camp
+Singing" by Tolbitt, 44 p.**, which is the nearest thing to the songbook `p_311` is chasing and
+should be checked against it.
+
+**"On the Buses,"** a new day-camping column from the OCA Day Camping Committee via Kenneth Robinson,
+reports the **February 1974 National Standards Workshop at Camp Richildaca, Kettleby**, whose theme
+was Canadian day camping. Its definition: "**Day Camping was defined as an experience in group living
+in a natural environment. It is a sustained experience carried on during the daytime under the
+supervision of trained leadership.**" And a governance note: "**In response to concern for a low
+standard of supervision in some government-funded day camps, letters were sent to government project
+officers requesting them to consult with the Standards Committees of provincial camping associations
+before approving outdoor recreation projects**" — the camping establishment lobbying against the
+Opportunities for Youth camps, in writing.
+
+Classified ads of note: an above-grade **OXIGEST sewage treatment plant** for sale from the **Mackay
+Centre for Deaf and Crippled Children, Montreal**; and a request for information for **a book on
+treehouses**. The Quebec joint association has moved to **1415 est rue Jarry, Montreal H2E 1A7**. No
+Kanawana reference in this issue.
