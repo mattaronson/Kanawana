@@ -13110,6 +13110,15 @@ first president of the QCA" into the wiki** until which association is meant is 
 Record it as: the 1968 QCA honoured Cloutier as first president of "the Quebec
 Association," referent ambiguous between the 1937 English body and the 1958 French section.
 
+*[Updated 2026-09-04 at issue 82.]* Cousineau's "Hebertisme" article (Spring 1969) makes the
+French-section reading much the stronger: Cloutier was a serving **Canadian Army officer in
+France during the Second World War**, and he and Georges Gauvreau did not found Camp-École
+Trois-Saumons until **about 1948**. He is therefore very unlikely to have been the first
+president of a body constituted in 1937. Not proof — he could have led the 1937 body later,
+and "first president" could be loosely meant — but the reading that would have contradicted
+`canadian-camping-movement.md` is now the weak one. The wiki caution above stands unchanged
+until a source names which association.
+
 **Five hundred delegates** attended the conference. **Jean-Marie Morin, MPP for Lévis**,
 told them "youth of both French communities on both sides of the Atlantic will be brought
 together in the exchange of summer camp staff" — a Quebec–France staff exchange, on the
@@ -13666,3 +13675,245 @@ outdoor education (including the winterization prediction), Govan on why small c
 being squeezed out, Ebbs on camp bird-borne disease, the BC accreditation procedure as a model
 for the Quebec report this project is looking for, and the two seasonal checklists as
 physical-plant source material.
+
+---
+
+## 82. Vol. 21 No. 3, Spring 1969 — `canadiancampingmagazine_vol21_no3_1969spring.txt`
+
+*Contents page*: Day Camping Aims (Gordon C. Hutchinson); Hebertisme (Claude Cousineau); Live
+Dangerously (C. R. Blackstock); Public Relations (John Latimer); Kitchen Organization (Ruth
+Carruthers); Sermons Under The Sun. All six checked against the read; all covered below.
+
+**★ THE CCA HAS MOVED AGAIN, AND CHANGED PRESIDENT MID-YEAR.** National office is now **Box
+2773, Station "D", Ottawa 4** — one issue after Winnipeg — with a paid **Executive Secretary,
+Barry Bryant**, in Ottawa. **President is now the Rev. David Hartry** of Halifax, with 1st VP
+Betty Campbell, 2nd VP Tom Creighton, Treasurer Robert Gregory and Secretary Mrs. Gregory
+Robert, **all of Halifax**. So Douglas McEwen's presidency (issues 80–81, Winnipeg) hands to a
+Nova Scotia executive within one issue, and the national office separates from the president's
+city for the first time. This is the CCA professionalising — a standing office in the capital
+rather than the president's home address, which is what the March 1968 annual meeting had
+recommended (issue 79).
+
+**★ THE COMPLETE CCA PAST-PRESIDENTS LIST, printed for the first time in this run.** In order:
+**\*Taylor Statten, Toronto; \*Dais L. Gass, Montreal; Anne I. Vail, Montreal; W. E. (Ted)
+Yard, Toronto; Irwin Haladner, Toronto; F. M. Van Wagner, Montreal; Kenneth H. Murray,
+Montreal; Don Smith, Edmonton; Mrs. May Brown, Vancouver; Douglas McEwen, Winnipeg** (asterisks
+presumably marking the deceased — Statten and Gass). Several things follow:
+
+- **Four of the ten are Montreal**: Gass, Vail, Van Wagner, Murray. The national association's
+  centre of gravity was substantially Montreal for its first decades, which is the institutional
+  world Kanawana's own directors moved in.
+- **It confirms May Brown as a CCA past president**, independently of the issue 72 profile —
+  corroborating the citation already carried in `camp-oolahwan.md`.
+- **Dais L. Gass and Anne I. Vail, both Montreal, both still without a KB fact or a wiki
+  mention** despite appearing repeatedly in this read (11 and 12 prior mentions in this file).
+  Both are overdue stubs; Gass especially, being marked deceased by 1969 and standing second
+  in the national succession after Taylor Statten.
+- The order gives a rough national chronology to check other datings against.
+
+Also new: an **Alberta Camping Association Northern Branch** (Edmonton) is listed separately,
+and the Newfoundland & Labrador association has a St. John's address. Quebec unchanged at 2233
+Belgrave.
+
+**★ CLAUDE COUSINEAU, "Hebertisme" — the origin of an activity Kanawana's site still hosts.**
+Cousineau (Department of Recreology, University of Ottawa; the canoe-course director of issues
+79 and 82) had worked at Camp Trois-Saumons and spent part of three summers' vacation visiting
+"the most renowned *pistes d'hébertisme*" in French-language Quebec camps. Substance:
+
+- **Georges Hébert**, born Paris **1875**, French naval officer **1895–1903**, a fine acrobat
+  who performed for the Monlier Circus, whose travels across Europe, Asia, Africa and America
+  let him observe "the natural movements of the natives"; later responsible for the physical
+  training of the French Navy; demonstrated his method at the **French Physical Education
+  Congress, 1913**. Opposed to "analytical exercises and controlled movements which he
+  considered were artificial and purposeless" — "it seemed irrational to build gymnasia and
+  apparatus when nature offered so many excuses for physical movements." Influenced by
+  **Rousseau's *l'éducation dans la nature***. His ten fundamental movements: **walking,
+  running, quadrupedy, crawling, climbing, jumping, balancing, throwing, lifting and
+  carrying**, with swimming and self-defence secondary. Set in the context of the European
+  "war of methods" — Amoros, Jahn, l'École de Joinville, the Swedish method, Ling's
+  gymnastics, Demeny.
+- **★ Who brought it to Canada: "Credit must go to Father Raoul Cloutier and Georges
+  Gauvreau."** Both were **Canadian Army officers in the Second World War, stationed in
+  France**, where they became enthusiasts of French physical education; Gauvreau stayed on
+  after the war to study *la méthode naturelle*. **"Some 21 years ago" — i.e. about 1948 —
+  Captain Cloutier and Gauvreau founded Camp-École Trois-Saumons, 70 miles east of Quebec
+  City**, and hébertisme was among its first activities: "To our knowledge it was the first
+  *piste d'hébertisme* to be introduced in America."
+- **Scale by 1969: "over fifty such set-ups are founded across the province"**, mostly at camps
+  but some at schools and playgrounds with a ravine or bush area; **"Not being as yet
+  introduced in American camps and Canadian camps outside of Quebec"**; and Quebec directors
+  "would consider it the main activity after the waterfront programme."
+- Site practice, which is also conservation practice: two to three acres of uneven terrain
+  around a 10,000 sq ft plateau, hardwood preferred (trees hold apparatus, give shade, prevent
+  erosion, and carry fewer insects than conifers), laid out for supervision from one vantage
+  point, master-planned long-term, and **"every decade some camps remove all the equipment to
+  another site, in order to allow the area to be rejuvenated"**; guy wires padded with rubber
+  tires to protect bark, **nails substituted with lashing**.
+- The apparatus list is worth keeping whole as a description of what such a course contained:
+  *balancing* — low guy wire, split-level, zig-zag and inclined balance beams, stepping-stone
+  course on four-inch pegs, log rolling, barrel rolling, stilts, bongo board; *jumping* —
+  vaulting box, hurdles, graded deep-jump platforms, obstacle high jumps, broad jump over a
+  stream or ditch, pole jumps, jumping off a swinging rope; *climbing* — trees with and
+  without branches, chinning pole, climbing wall, climbing fence, vertical/inclined/horizontal
+  rope, suspended rope ladder, peg ladder, large rock, ship net; *suspension* —
+  interchangeable peg board, horizontal rope/ladder/beam, swinging rope; *crawling* — low
+  beams, tunnels large, small, zig-zag and uphill; *lifting, carrying, throwing* — logs of
+  various sizes; *quadrupedy* — tunnel on all fours, beam, inverted hanging; *running* —
+  checkerboard, slalom, hills, with a load, balance run, labyrinth; *others* — **tree house**
+  and **the teleferic, or chair-lift**.
+- Cost: "For a few hundred dollars and a lot of imagination"; main purchases ropes and planks;
+  new apparatus added yearly by campers as group projects.
+- Safety: rules like "out of bounds after sundown," "only one at a time on the rope bridge,"
+  no swinging rope without a counsellor; some camps **lock the teleferic**; sawdust as shock
+  absorber; wooden apparatus slippery when wet; an award system doubling as a safety gate —
+  the **"shaky house" reserved to those who have passed their senior in hébertisme**, and the
+  **Tarzan Cable**, "which carries the individual as high as fifty feet in the air and as far
+  as one hundred feet along the ground," restricted to the proven. And the director's verdict
+  worth quoting: **"there are more accidents in front of the dining hall than on the
+  hebertisme site,"** with most accidents on the first day of camp, on parents' day, and at
+  the end of a regular camp day.
+- Programme: not compulsory; instruction in cabin groups, not over an hour a day, about fifteen
+  campers per group; free-time access; a specialist instructor in larger camps, otherwise
+  physical-education students. His closing line is the humane one: hébertisme is "an occasion
+  for fun, thrill and challenge, or quite often, just a place to go and perch in the treehouse
+  to read a letter from home."
+
+**`programs-activities.md` patched accordingly** — the article already recorded a 2011
+FitSpirit weekend at Kanawana whose rotation included "de l'hébertisme," with no explanation of
+what that was or where it came from. The origin is now written in, explicitly *without*
+claiming the camp's present rope courses descend from it, since no source says so. Source
+`[cc82]` added.
+
+**★ AND THIS BEARS ON THE ISSUE 79 QUESTION.** Issue 79 recorded the QCA honouring **Rev.
+Raoul Cloutier** as "the first president" of "the Quebec Association," and I flagged the
+referent as ambiguous between the 1937 English QCA and the 1958 French section. **This issue
+makes the French-section reading much the stronger**: Cloutier was a serving Canadian Army
+officer in France during the Second World War and did not found his own camp until about 1948,
+so he cannot plausibly have been the first president of a body constituted in 1937. That is
+not proof — he could have presided over the 1937 body later, and "first president" could be
+loose — but it removes the only reading that would have contradicted
+`canadian-camping-movement.md`. **Block 79 patched in place to record this.** The wiki still
+should not say "Cloutier was first president of the QCA" without a source that names which
+association.
+
+**Gordon C. Hutchinson (Director of Recreation, Township of North York), "Aims and Objectives
+in Day Camping."** A polemic about definition: "The term Day Camping has been abused and
+misused so badly that the general public is totally confused." His list of what is *not* a day
+camp — athletic fitness camps, church Bible schools, summer fun clubs, playgrounds, park
+activities, "building centered programmes with an occasional weiner roast or hike" — is a
+useful test to apply to any historical claim that an organisation "ran a day camp." **Minimum
+standards had been established by the YMCA and the Social Planning Council and were available
+in printed form** — a named, findable document, and one the Montreal YMCA would have worked
+under. His twelve reasons for day camping include "Canadian Heritage — Indian Life, Pioneers"
+and, tellingly, avoiding the homesickness that "could destroy all camping values in a resident
+situation"; he insists day camps are **"not a training ground or a preparation for resident
+camping"** but stand on their own. Blunt about parents: "Let's not kid ourselves, many parents
+want baby-sitting — because they work." And blunt about the field, in a passage that answers
+Northway and Lowes's line in the *Camp Counsellor's Book* about Canadian camping blowing "like
+a fresh, clear breeze… to all places in the world": **"many a fresh clear breeze which should
+be blowing from Canadian camps has become sadly polluted and is a dust-filled smog of
+half-hearted efforts and sheer indifference… We have become fat and lazy because our camps are
+full, not because of quality programming, but because of the quantity of potential campers
+wishing to attend."** His programme checklist includes a line to note for
+`indigenous-place-names-and-land-history`: **"when we use Indian names — do we capitalize on
+the history and habits of Indians as part of learning?"** — the period's own framing of
+Indian-themed camp naming as pedagogy, recorded as written. On cook-outs: "why use hotdogs,
+hamburgers, bar-b-cues, canned beans… these they can do at home!" — recommending one-pot
+meals, foil cooking, hot rock cooking, reflector ovens, tin can ovens.
+
+**C. R. Blackstock (Director, Camp Mazinaw), "Live Dangerously! But Calculate the Risk."** The
+period's philosophical defence of risk in camp programming, and the counterweight to Poole's
+insurance article at issue 80 in the same run. "Risk is a part of every exploration of the
+unknown… it is the sauce that adds the savour to the adventure." Cites **Jay B. Nash** on the
+need "to adrenalize to overcome the lethargy induced by the 'safe' situation." Argues against
+blanket prohibition: "General prohibitions and inhibitions, such as don't and preventative
+rules for safety alone, dampen or slow learning," and rules "should relate specifically to the
+situation or the activity" and "draw the attention of the individual to the risks involved."
+And the formulation that reconciles the two: **"All education is safety education… Because it
+rolls back the pressing edge of ignorance."** Closes on a quatrain — "Oh! unattempted
+loveliness / Oh! crown of glory never won."
+
+**John Latimer (Director, Kilcoo Camp), "Public Relations."** Opens by listing what a director
+now contends with beyond programme: "Federal Pension Plans, Vacation Pay accounts, Insurance,
+Unemployment Insurance, pumps, and chlorinating systems, and Public Relations" — Govan's
+complaint at issue 81 from the other side. Most of it concerns staff and camper conduct
+**outside** camp: teenagers blocking a sidewalk, noise in a restaurant or theatre, "crude songs
+and remarks echoing across a lake from a campfire or canoes," asking permission to cross or
+camp on private property, leaving campsites clean "no matter how filthy the condition on their
+arrival," courtesy when hitch-hiking — "how wonderful for the Camp when a single hitchhiker,
+wearing a Camp crest on his jacket, is offered a ride and six of his associates jump from the
+woods and climb into the car!!!" — and never criticising another camp while visiting it. In
+camp: someone in the office must know where every camper is, "How discouraging to a parent to
+suddenly arrive and feel that his daughter can't be found"; campers and staff are **HOSTS**
+and should greet any stranger; campers and staff should be taught "the art of shaking hands,
+meeting strangers, introductions, 'small talk'." In the community: participate in local
+celebrations and fund drives, hold an **open house for cottagers**, **buy locally** ("when a
+motor breaks down, the local repairman will be more likely to assist you… if he were the one
+from whom you made your purchase"), and meet the Reeve, Fire Chief, newspaper editor, doctor,
+health officials, hotel keeper and Lands and Forests representative — with a suggestion to
+invite the **local Red Cross to hold its final swimming tests at your camp**. This is a
+practical model of what a camp's relations with its municipality looked like, and a useful lens
+for Kanawana's own relations with Saint-Sauveur.
+
+**Ruth Carruthers (Director of Food Services, Family Services Association), "Kitchen
+Organization — Personnel Management."** A staffing formula worth keeping, quoted from Cornell
+University's Food Administration Department: **"In addition to the dietitian and cook, you will
+probably need two helpers and a handy man to prepare simple meals for 100 campers,"** plus a
+dining room supervisor if campers or counsellors wait table and wash up, and a full-time
+dishwasher if they do not. Practice: appoint the **kitchen manager before hiring the cook**,
+and give that person authority to hire, plan menus and order; written job descriptions with
+duties, approximate hours and time off, used in interviews; **at the interview, state what
+deductions will be made and what taxable benefits (board and room) apply**; on-the-job training
+by the manager, "not last year's staff"; staff reporting a day or two before campers; a daily
+work sheet given to the cook the day before with recipes adjusted for numbers, followed
+"explicitly so that you may have a standard product." On treatment: correct mistakes "privately
+and all at one time, thus avoiding continual nagging," and provide decent accommodation and
+time-off activities for kitchen staff. Her list of what the employer may expect includes a
+**certificate of good health**. Reference: *Food Service in Institutions* by West and Wood.
+
+**"Sermons Under The Sun."** The magazine begins a devotional-readings feature "for meditation,
+for Morning Watch, Flag Raising or Taps." Two texts printed: **An Irish Blessing** from the
+Gaelic ("May the blessing of LIGHT be on you… And may it rest easy over you when at last you
+lie down under it"), and **★ "This Fair Land, Our Canada — A Centennial Hymn… by Mary S.
+Edgar"**, printed in full, sung to *Saints' Days and Other Holy Days* and **"Accepted by the
+Canadian Interfaith Committee for the Centennial collection."** *Note a source problem*: the
+hymn is bylined "By: D. W. Dearle (Anglican Hymn Book)" at the head and signed "—Mary S. Edgar"
+at the foot. Most likely Dearle is the tune's composer and Edgar the author, but as printed it
+is ambiguous, and this is a **second Edgar Centennial hymn** distinct from "Canada's Our
+Country" recorded at issue 75 in `centennial-1967.md`. Recorded here rather than added to the
+article until the byline is resolved.
+
+**★ "Look Back To Look Forward" — the editor complains that readers do not re-read the run.**
+"It would surprise our readers to know how often we are asked for articles on topics which have
+appeared in this magazine within the short span of two years. How often do YOU re-read your
+back issues?" She then indexes her own recent numbers: Insurance Coverage (Fall 1968, "one of
+the most complete articles we have had on the topic"), Moon's interview technique (Spring and
+Summer 1968), the two generation-gap reports (Winter 1967-68 and Spring 1968), and **"Ted
+Yard's series of WhoDuzIt articles"** in the 1960s on camp directing, management and
+maintenance. Worth recording because it is the magazine's own statement that its accumulated
+practical content was going unread by the people it was written for — the same failure mode
+this whole re-read exists to correct, stated in 1969.
+
+**Smaller items.** The **third annual University of Ottawa canoeing instructor course**, 17–24
+June 1969, 70 miles north of Ottawa, Wipper guest instructor, Cousineau director, $75, **with
+CCA certificates issued to successful candidates** — so the CCA was by now certifying canoe
+instructors nationally. An **Alberta Provincial Camp Leadership Course**, Pioneer Lodge,
+Sundre, 5–15 July 1969, $100 fully residential, run by **Pioneer Camps of Inter-Varsity
+Christian Fellowship** and **approved by the Alberta Camping Association** — required courses
+Campcraft I and II, orienteering, first aid, **initiative tests**, out-tripping and large group
+activities; electives including western horsemanship, white-water canoeing, group dynamics and
+Bible discussion leadership. **Nova Scotia** runs an eight-week counsellor training course
+(twenty-five registered, two-hour weekly sessions, taught by president Tom Creighton and past
+president Rev. Dave Hartry) and a May conference at the **YMCA's Big Cove Camp, 16–19 May**,
+with Jack Pearse as resource leader. A free booklet, **"Camping Clues,"** to help parents
+select camps, available in quantity to non-profit camps. Camps for sale: **"Campus In The
+Woods"** on Fairview Island, Lake of Bays, 19 acres, replacement value $99,000, asking $90,000;
+**Lake Placid (formerly Hurricane Lake)** near Haliburton, 82 acres; **The Hastings Club** near
+Madoc, ~6,000 acres backing on 70,000 acres of Crown land at $50/acre; and Camp Kasawamak
+again at $47,000. Book notes include **Hedley S. Dimock, *Administration of the Modern Camp***
+still in print at $6.00 — a live catalogue entry for the Dimock thread.
+
+Nothing in this issue names Kanawana. Its value is the CCA past-presidents list (four Montreal
+names, two of them still unstubbed), the national office's move to Ottawa with a paid executive
+secretary, Cousineau's account of hébertisme's Quebec origin — now written into
+`programs-activities.md` — and the corroboration it supplies for the issue 79 Cloutier question.
