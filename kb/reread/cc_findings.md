@@ -18464,3 +18464,229 @@ old this spring**, so founded 1967. Editorial committee gains **Barbara Currie**
 Graham**. Printers named for the first time: **Surrey Offset Printers Limited, Scarborough**. Cover
 courtesy Ontario Ministry of Industry & Tourism. No Kanawana and no YMCA of Montreal reference in
 this issue.
+
+## 100 — Vol. 26 No. 1, Fall 1973
+
+Contents page checked. All items read: A Message from the President; Mary S. Edgar (Mary L.
+Northway); What Is a (Good) Counsellor?; Winter Wilderness Survival (Mors Kochanski); Classified
+Ads; Alta R. Kahn; Letters to the Editor; Outdoor Cookery; Chief Dan George; Extend Your Season by
+Winterizing; Along the Bookshelf; Tips; Have You Heard? Do You Know?
+
+**★★★ ALTA R. KAHN — the Quebec Camping Association's own chronology, from the tribute read when it
+made her Honorary President.** Promised in the previous issue and delivered here. **23 May 1973**,
+the QCA English Section made her **the first Honorary President in the Association's history**. The
+tribute is the fullest internal history of the Quebec association this read has found, and it gives
+dates the Concordia holdings do not:
+
+- **Began with the QCA in 1946.**
+- **1958**: chaired the joint QCA/CCA conference, and "courageously suggested that the Quebec
+  Camping Association celebrate its **'coming-of-age' party** by holding, for the first time, its
+  Conference in a hotel." A twenty-first birthday in 1958 puts the founding at **1937** —
+  independent corroboration of the date the wiki holds from archival sources.
+- **1959–60**: Co-Chairman of the QCA Standards Committee, "**when inspection of camps and
+  accreditation were in the pioneer stage**." **This pushes Quebec camp accreditation back to
+  1959–60**, several years before the 1965 round (McFarlane, issue 70) this read had as the earliest
+  documented. Kanawana was an accredited Quebec camp; the machinery existed earlier than assumed.
+- **1960–62**: President of the QCA English Section and simultaneously a CCA executive member.
+- "A major contributor to the realization of the founding of the **Provincial Board** (co-ordinating
+  body of the English and French Sections), and served as the Board's **second President from 1963
+  to 1965**."
+- **"It was through Mrs. Kahn's efforts that the Quebec Camping Association finally secured its
+  Provincial Charter in 1961."** A checkable corporate fact — Quebec's register of enterprises
+  should hold the incorporation.
+- In 1973 still Chairman of the English Section's Standards Committee, Co-Chairman of the joint
+  QCA-ACQ Provincial Board Standards Committee, and on the CCA's **National Standards Committee**;
+  credited with having "assisted greatly in the establishing of Standards in the French-speaking
+  Camps."
+
+Her prior career, all dated: **1908, the first Jewish teacher to graduate from Macdonald College**,
+then five years teaching; 1909 active in Zionist work and the first campaign of the Federation of
+Jewish Charities; **1918 a founder of Montreal Hadassah**, writing a pamphlet on its origins in
+1924; **1920 organised the first Junior Hadassah chapter in Canada**; 1921 a senior chapter in St.
+John's, Newfoundland; 1924 a university chapter; 1928–30 vice-president of the Eastern Division of
+Canadian Hadassah; 1931–33 its Chairman of Education; **1936–45 Executive Director of the Young
+Women's Hebrew Association**; and **1946–49 Executive Secretary of the Jewish Community Camps
+(B'nai B'rith, Jewish Laurentian Fresh Air, and Wooden Acres)**, during which she "instituted many
+new projects, including **the first Pre-Camp Training Programs for Staff**." An octogenarian in
+1973. **Patched into `wiki/connections/institutional-lineage/canadian-camping-movement.md` as source
+8u** — a Montreal woman whose working life ran from Jewish community camping in the Laurentians
+straight into the committee that wrote the standards Kanawana was measured against.
+
+**★★★ MARY S. EDGAR DIED 17 SEPTEMBER 1973.** Mary L. Northway's memorial is the fullest account of
+her in the run, and it opens with the moment the Glen Bernard programme was invented. Northway, aged
+about eleven in April 1922, was taken to tea to meet the woman starting a girls' camp, having
+announced "I'll only stay five minutes because I'm not going to her silly camp." She told Edgar
+about the Knights' club she had founded, her secret love of poetry and her Boston Bull. Edgar
+replied: "**Well, we won't have Knights at camp but we will have Indians. Perhaps you would help me
+organize the tribes.**" She offered Northway the chance to write poetry "for the Scroll which would
+be read out in Council Ring," and invited the dog to be a camper too.
+
+New biographical facts, all patched into `camp-oolahwan.md` (23 → 25 sources): parents **Joseph and
+Mary Edgar settled Sundridge 1885, before the railway**, running the general store; **her father
+went into lumbering and later became M.P.P. for the District of Parry Sound**; sisters **Margaret
+(Gilchrist), Anne and Betty (McTavish)**; **nephew John Gilchrist and his wife Barb took over Glen
+Bernard in 1955** (which explains the route by which her fonds reached Trent); **Honorary Reeve of
+Strong, Joly Township and Sundridge, 1967**; and as a centennial project she bought the "High Rock"
+property and made it a park for the village "**because the cottagers have taken all the lakeshore
+and the village people have no campsite of their own**." Buried at Sundridge. Northway records a
+near-complete manuscript on the family's early days under the working title **"Turn of the Century
+for Suzanne Marie"**, unpublished, and calls its publication "**a challenge to the Canadian Camping
+Association**" — a findable lost document.
+
+**★ And an editorial claim that needs holding beside Plewman's.** Northway writes that Edgar was
+"the right person to initiate and become **first editor of the Canadian Camping Bulletin (February
+1949**, and remained such **until April 1953**. The Bulletin has evolved into this Magazine.)"
+Plewman at issue 92 credits Edgar as first editor of the earlier *Ontario* bulletin, financed by the
+T. Eaton Company, and dates the **first printed** national magazine to February 1949. The two are
+reconcilable — an Ontario bulletin in the 1930s, the national Bulletin from its first printed number
+— but they are separate claims from separate witnesses and **neither is being used to settle the
+other**. Recorded as such in the article. Northway also states Edgar had recently **established a
+trust fund for publications of the Canadian Camping Association**, and was made **Honorary President
+of the CCA in April 1960**. Note without merging: this issue's masthead page reads "**The Canadian
+Camping Association is indebted to The NEATHERN Trust** for its support of 'Canadian Camping'
+through a substantial donation to assist in the publication of this issue," and Blackstock's
+age-group study (issue 95) was financed by the same Neathern Trust. Whether the Neathern Trust
+*is* Edgar's publications fund is **not stated anywhere and is not being assumed**.
+
+Northway's list of what she has left out is itself a research agenda: Edgar as writer (*Woodsmoke
+and Candlelight*, *Under Open Skies*, and the Canadian Authors Association), as "superb story
+teller", her four months in Japan in 1920, "**her friendship with Indians — Pauline Johnson was her
+great idol — she brought the best of their traditions into her camp and used them with respect**"
+(recorded as the period's own assessment, not as a finding), her honorary trusteeship of Havergal,
+her painting in oils "in which, on occasion, she substituted shoe polish when the white paint ran
+out", and the eightieth-birthday party John and Barb Gilchrist gave her. Her last public address was
+**at the National Camp Directors and Camping Standards Workshop at Geneva Park in February 1973**:
+"I don't know whether you realize how fortunate you are in just having the Canadian Camping
+Association" — followed by three of her own poems, her favourite quotation ("**To the worker who can
+dream and the dreamer who can work, life surrenders all things**"), and a standing ovation. The
+**Glen Bernard camp hymn she wrote in 1924** was sung at her funeral, and Northway closes the
+obituary with the words of "Taps": "All is well / Safely rest / God is nigh."
+
+**★★ National Camping Day is dead, with the numbers.** The president's message says flatly:
+"**National Camping Day will not be held again until 1976.**" The news column gives the evaluation
+that killed it: "**The Committee mailed out approximately 600 evaluation forms to member camps
+across Canada and received 48 replies indicating that 24 camps participated, 24 did not.**" So of
+roughly 600 member camps, twenty-four are known to have taken part. **The absence of any Kanawana
+observance in the record is not evidence of anything** — most camps ignored it, and the CCA
+abandoned it. The editor dissents in print, arguing the day "is valid and can be a definite plus
+for organized camping in dealing with the public and, therefore, the government."
+
+**★ The new constitution passed.** Stan Wild reports "sufficient votes were received by the deadline
+date, **Nov. 20th**, to approve the new Constitution," to be instituted by the April 1974 annual
+meeting, with a National Vice-President to be elected by 31 January 1974. And a Quebec credit worth
+recording: "**It is completely bilingual, accomplished by our friends in Quebec, Yves Beauregard in
+particular.**"
+
+**★ Government relations, named.** Dialogue continuing with **the Secretary of State, Hon. Hugh
+Faulkner**, on OFY grants and camping programmes; Latimer in communication with **Hon. Robert
+Andras, Manpower and Immigration, concerning foreign students**, with no indication yet whether
+"another year's exemption will be granted" — a live employment-law issue for camps hiring foreign
+staff in 1974. Continuing financial support from **Recreation Canada** (thanks to Cor Westland and
+Shirl Willette). **A "Central Information Bureau" under Brian Blackstock**, to be built from
+provincial reports, documents, research papers and books solicited by the president — a second
+national collecting effort alongside the Waterloo archive (issue 99), and worth tracking as a
+possible destination for the same material.
+
+**★ Conference dates for 1974, including one in Montreal.** ACA Conference at Banff 24–27 January;
+CCA Executive in Winnipeg 31 January–1 February; MCA Camp Directors' Workshop in Winnipeg 2–3
+February; American Camping Association Conference in Atlanta 19–23 February; **National Workshop at
+Camp Richildaca near Toronto, 26–28 February, with emphasis on day camping standards**; OCA
+Conference at Ryerson 1–3 March; **QCA-ACQ Conference at the Queen Elizabeth Hotel in Montreal,
+28–30 March**; **Society of Camp Directors Annual Meeting in Toronto, 10 April**; CCA Board and
+Annual Meeting in St. John's 25–26 April; SCA 2–4 May; NSCA at Tatamagouche 3–5 May; Outdoor
+Education Conference in Winnipeg 9–12 May. **The Montreal QCA-ACQ conference of March 1974 is the
+one to watch for in the next issues** — a joint English-and-French provincial conference in
+Kanawana's own city.
+
+**★ Helen Stewart, "Chief Dan George."** The editor met him at the **Toronto Camping Show**, where
+his voice over a loon's cry had been used in the radio advertising: "**To set up camp beside a lake
+or stream, to know the freedom of the winds, the dancing of the sun on the water, it makes my heart
+soar like an eagle.**" She told him "about the many campers across Canada and our keen interest in
+Indian Lore," and **"To all campers of Canada" was how he inscribed his photograph.** The note gives
+him as Honorary Chief of the Squamish and Shuswap, Academy Award nominee for Old Lodge Skins in
+*Little Big Man*, twenty-seven years a longshoreman before a near-fatal injury took him into show
+business, and recently awarded the **Human Relations Award by the Canadian Council of Christians and
+Jews** for his work on behalf of Indigenous people. Set beside Eastaugh's defence of Indian Lore two
+issues earlier (98) and Cousineau's birch-bark canoes (96), this is the third distinct 1972–73
+attempt in this magazine to put a living Indigenous person into a frame the camping movement had
+built without them.
+
+**★★ Mors Kochanski, "Winter Wilderness Survival"** — six pages, the most technically substantial
+article of the run so far, by a freelance instructor in survival and wilderness living. (Kochanski
+later became the standard authority on northern bushcraft; this is an early published piece.)
+Governing formulation: "**a person of average health can last four days without water and ten times
+longer with unlimited drinking water. It is the cold that makes the difference because, in general,
+the cold may allow an hour of survival for each day of survival in the summer.**" Prepared means
+"carrying matches and **an axe with a handle at least 28 inches long and a head at least 3 lbs.**"
+Content includes: fire-making from thin dead twigs squeezed into a compact bundle and lit inside a
+coat if necessary; tinder from old man's beard, birch bark, the inner papery bark of dead black
+poplar, or **red-tinged pine needles**, which can be shaken dry when soaking; fuzz-sticks stacked on
+a log rather than in a teepee, "as it is not very stable and it does not provide as much protection
+for the match flame"; a full specification for a **log reflector wall** built parallel to the wind
+and its logs sized by the cold; wood selection — **willow best, white poplar next, black spruce
+avoided** for acrid smoke and sparks thrown ten feet; an eight-point site-selection checklist;
+lean-to and bough-bed construction with boughs laid herringbone, undersides up, "**the same way they
+came off the tree**"; winter foods (rose hips, silver willow berries, low bush cranberry, bearberry,
+bog cranberry, and reindeer mosses and lemon lichen boiled with **three changes of water, otherwise
+strongly purgative**); and rabbit snaring in full, including the noose measured against a hatband
+and set four and a half inches across, "**the diameter of a half pound tobacco tin**", with the note
+that "**snares should never be left unattended or abandoned.**" The psychology section is the part
+worth quoting: "**Their greatest asset at that moment was time and the situation could best be
+handled by 'hibernating' rather than frenzied activity** … Once you lose your will to live, the
+inevitable will happen." And "**it takes an average of five days for a search to get underway when
+someone realizes that you are missing**"; three of anything signals distress, one of anything is the
+answer; "**As the bush is neutral, neither for nor against you, it will be up to you what you get
+out of it.**"
+
+**★ Brian Blackstock, "Extend Your Season by Winterizing."** How a camp of the period converted a
+summer cabin for off-season school and community use: choose a building close to a water source
+("the lake would be very suitable because running water is not as important a feature to these
+groups as would be imagined"), preferably with sleeping quarters separate from living and dining;
+work done by "former staff or friends who would like to 'get away from it all and do something'";
+**electric heating**, "not as expensive as we were warned it would be"; and the wall build-up —
+stapled insulation, a plastic moisture barrier, tar paper stapled horizontally, then unfinished pine
+boards nailed a quarter to half an inch apart so the tar paper shows. "**We used untreated pine and
+after three years it is still yellowing well.**" Directly comparable to whatever Kanawana did to
+extend its own season.
+
+**★ "What Is a (Good) Counsellor?" (anonymous).** A set-piece prose-poem widely reprinted in camp
+literature, worth having in full for its period voice: the counsellor as "an underpaid babysitter
+with neither television nor refrigerator … a strict disciplinarian with a twinkle in his eye, a
+minister to all faiths with questions about his own … an idol with his head in a cloud of woodsmoke
+and his feet in the mud … a teacher of the out-of-doors, knee-deep in poison ivy." And the sharp
+part: "**He is expected to repair 10 years of damage to Tommy in 10 days** … to teach indigenous
+activities … when he can't even spell the word; to guide youngsters in social adjustment … **when he
+hasn't even reached legal age**." Printed alongside the "If a child lives with criticism, he learns
+to condemn" verse and **a grace by John G. Edwards of Youth Resources, Vancouver** ("To the Creator
+of the earth, the sea and the sky, who looked upon all that was made and pronounced it good"), a
+second national grace text after Jack Pearse's Edelweiss grace at issue 97.
+
+**★ Along the Bookshelf, and a conference proceedings worth chasing.** Bill Babcock reviews *Camp
+Administration* by Lynn S. Rodney and Phyllis M. Ford (Ronald Press, 402 pp., $8.75), noting its
+appendix holds "a multitude of the usual camp forms such as medical, staff applications, **staff
+reference**, contracts, camper registration and job descriptions." **Kirk Wipper** reviews
+**"Outdoor Education — 'Without Boundaries', Proceedings of the International Conference in Outdoor
+Education held at Camp Kandalore and the Forest Technical School, 28 September – 1 October 1972**,"
+conducted "for nearly six hundred persons", available from Wipper at the University of Toronto for
+$3.00 plus 50¢ postage. Its contents include "a summary of at least two of the special conference
+events, namely, the Chapel Service and **an Indian Council night**", and a full list of speakers and
+delegates. (Ron Johnstone at issue 98 placed the same October gathering of 600 outdoor-education
+leaders **at Dorset**; the two locations are both in the Haliburton area and this is recorded as a
+minor discrepancy, not resolved.)
+
+**Classified ads worth noting**, because two are YMCA jobs and one dates a market. **Tony Fry, YMCA
+of Metropolitan Toronto Camping Service**, advertising for a **Director of an Ontario co-ed resident
+camp, one hundred six-to-ten-year-olds and thirty staff, minimum twenty-five years of age** — a
+YMCA co-ed camp directorship spec from 1973, useful against Kanawana's own coeducation history. The
+**Ontario Society for Crippled Children** advertising directors, nurses and senior staff for **five
+resident camps**. And Camp Boadicea seeking a site. **Tips** (Bruno Morawetz): logs spiked to a dock
+so wind-driven ice "rises up and over the dock"; a "Camp Improvement Day" with each cabin group
+choosing a "man size" project; and finding a cook by writing to the local church.
+
+Masthead and business notes: **subscription up from $3 to $4 a year and single copies from $1 to
+$1.25**; **Doug Dent becomes National Advertising Chairman**; the editorial committee "with the
+exception of two people … is Ontario-oriented" by the editor's own admission and gains **Maurice
+Beaudreau**; the Editorial Committee held a brainstorming weekend at **Camp Trailfinder** in
+September; and the CCA's fee income "has for several years been around the $3000.00 figure, but it
+is now quite unrealistic." Cover photo courtesy Camp Ponacka. No Kanawana and no YMCA of Montreal
+reference in this issue.
