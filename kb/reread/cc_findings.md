@@ -26324,3 +26324,145 @@ deadlines by season — useful for the deferred `meta/sources-index.md` section.
 Year logo contest** for 1985 invites campers and staff to submit designs, bilingual wording required, by
 15 September 1983. And the mailing label on this copy reads **MR. T. STATTEN, BLACKSTOCK, ON** — a
 Statten, a fifth deposit hand in the Internet Archive run.
+
+## 148 — Vol. 35 No. 3, Autumn 1983
+
+Sixteen pages. Contents page checked; every item read: four Letters to the Editor; the bilingual
+Editorial, "Cults + Camps = ✝︎ ✝︎" / "Cultes + camps… une équation qui peut signifier la mort!"; the
+masthead; The Camping Advisor (four questions); "The Cult Crisis!" by the Council on Mind Abuse; Ian
+Fowler on NBCA spring events; Walter Tose, "Summer Camp: An Opportunity for Personal Growth"; Richard
+Thomas Wright's review of June Fleming's *Staying Found*; John A. Vissers, "Christian and Church Camping
+in Perspective"; Dave Adair on the B.C. Leadership Camp; Jack Pearse's tribute "We Salute You — Mary
+Roy!"; John Oxenham's poem "The Sacrament of Fire"; Bruno Morawetz's "Archives Update"; Marnie Ellis on
+National Camping Day 1984; the hasti-notes gift notice; a Help Wanted advertisement; the Ontario Milk
+Marketing Board menu feature; the Royal Chinet advertisement; and the 1984 Publications Catalogue
+notice. **No mention of Kanawana, Quebec camps, or the ACQ anywhere in the issue** — recorded as an
+explicit null; the Quebec-facing content of this run stops dead after the Summer 1983 annual report.
+
+**★★★★ THE ASSOCIATION DATED ITS OWN FOUNDING TO 1936, IN WRITING, IN 1983.** Bruno Morawetz's Archives
+Update: "**Cliff Labbett, Immediate Past President, is currently canvassing all the CCA Past Presidents
+for ideas to celebrate CCA's 50th Anniversary in 1986.**"
+
+**This bears directly on `c_029` and on the competing founding dates, and it is the association's own
+arithmetic rather than a historian's.** In the autumn of 1983 the CCA's immediate past president and
+its archives chairman were jointly planning a fiftieth anniversary for **1986**, which places the
+founding in **1936** and not in 1946 or 1949. That is the association speaking about itself, through
+the two officers most likely to have checked, in the same year its archivist was appointed at Trent.
+**It does not touch the Ottawa/Toronto question at all** — Plewman said Ottawa, the archival holdings
+say the Central Y.M.C.A. in Toronto, and both agree on 1936 — so `c_029` remains open on the city. But
+of the three competing *dates* this project has tracked (1936 founding, the Camp Stephens claim of
+"founded the CCA in 1946," and the Letters Patent at Ottawa of 5 November 1949), **1936 is the one the
+association itself acted on**, and the two-stage hypothesis recorded in `c_029` — a 1936 founding
+followed by national incorporation in the later 1940s — now has the association's own conduct behind
+its first stage. **Added to `c_029`'s notes and to `canadian-camping-movement.md`.**
+
+**★★★ THE NATIONAL OFFICE'S OWN HISTORY, 1975-1983 — Jack Pearse's tribute to Mary Roy.** She has
+appeared once before in this read, as "Office Administrator" beside Marjorie Booth; this is her whole
+tenure, written by a past president as she left:
+
+> "Mary came to the CCA at the **tail-end of John Latimer's presidency in the spring of 1975** and she
+> served the camping community with great commitment and quality supporting John's successors in
+> office — **Ron Johnstone, Jack Pearse, Cliff Labbett and Jocelyn Palm**… With **Fred Okada's**
+> leadership, the Publications Department just grew and grew and grew. Mary assembled and published
+> comprehensive catalogues of CCA books. She **negotiated a super arrangement with the American Camping
+> Association for the distribution of their books throughout Canada** — not only to camping folk but to
+> libraries, schools and university courses. She was meticulous in co-ordinating Canada's participation
+> and involvement in the **first international conference on camping which was jointly sponsored by CCA
+> and ACA at Minneapolis, Minnesota in 1979**. With **Brian Blackstock's** leadership, **Mary designed
+> the format, layout and distributions of the new Canadian Camping Newsletter, beginning in the fall of
+> 1976** and through her good friend, **Ken Smith, the Director of the Non-Residents Branch of the
+> National Sport & Recreation Centre**, **Mary Roy and Cliff Labbett arranged for the nationwide
+> distribution of Canadian Camping**."
+
+**Five things this settles for the deferred `meta/sources-index.md` section on the magazine**, which is
+the reason to record it. **(1) The *Canadian Camping Newsletter* — the second serial this project has to
+account for alongside the magazine — began in the autumn of 1976**, its format and layout designed by
+Mary Roy under editor Brian Blackstock, whose editorship this read has dated to 1977-1981; so the
+newsletter starts a few months before his named editorship of the magazine. **(2) How the magazine got
+to every camp in Canada is now documented**: Roy and Cliff Labbett arranged national distribution
+through **Ken Smith at the Non-Residents Branch of the National Sport and Recreation Centre in Ottawa**,
+the same body this read has already identified as the magazine's printer. **(3) The CCA book
+catalogues** this read has used as sources (the 1981 and 1982-83 editions) were assembled by her under
+Fred Okada's committee. **(4) The CCA was the Canadian distributor of American Camping Association
+books**, by a negotiated arrangement, into libraries, schools and university courses — which is why ACA
+titles fill the Canadian catalogue and why an ACA book in a Canadian camp library in this period is not
+evidence of an American connection. **(5) The presidential sequence Latimer → Ron Johnstone → Jack
+Pearse → Cliff Labbett → Jocelyn Palm is stated in one place**, covering spring 1975 to 1983 without a
+gap, which corroborates the officer lists assembled piecemeal across issues 130-147.
+
+Her own two remarks are worth keeping for what they say about how the national office worked: "I am
+going to miss **organizing people to attend meetings and conferences hither and yon**," and "Nothing has
+suited my life more than to have been associated, in this way, with CCA." Pearse also credits her with
+"**preparing grant submissions to the Federal Government and… the reconciliation of the financial
+statements for each project that was federally funded**" — the mechanism behind every Fitness Canada
+line item this read has traced — and with encouraging provincial associations to exchange "**Provincial
+Newsletters, Board Minutes and Conference Reports**" with the National Office, which means Quebec
+material may sit in the national office's files and thence at Trent.
+
+**★★★ THE TRENT ARCHIVIST IS NAMED, WITH AN ADDRESS.** Morawetz: "**We have a new archivist working on
+our collection at Trent University. Congratulations to Mrs. Bernadine Dodge on her recent appointment at
+Trent. Interested members may contact Bernadine Dodge at: Bata Library, Trent University, Peterborough,
+Ontario K9L 7B8.**" **This is the single most actionable line in the issue for `p_319`.** Bernadine
+Dodge was named in the January 1983 Archives Room report; she is now identified as **the professional
+archivist appointed to work on the CCA collection at Trent, based in the Bata Library** — so the CCA
+fonds had a named custodian from 1983, the finding aid this project needs was made under her, and she
+is a person whose own later career at Trent is traceable. Morawetz also repeats the deposit
+instruction in a narrower form: "**as many of you head into a new season of workshops, conferences and
+training events, now is the time to send copies of last year's conference programs to the CCA Archives
+c/o the National Office**" — **so provincial and camp conference programmes, including any Quebec ones,
+were actively solicited into the fonds in 1983-84.** Both added to `p_319`.
+
+**★★ National Camping Day 1984 was fixed, and the reasoning is recorded.** Marnie Ellis: the second
+annual event will be **21 March 1984, the first day of spring**, the date chosen by the Pre-Congress
+Workshop on Promotion on the argument of **Dennis McLelland (formerly of Nova Scotia)** that "the first
+day of Spring is one that everyone knows but **no other group «has» as their official day**." The theme:
+"**Don't Wait for Summer — Think Camping Now!**", stressing the choice of the right camp for each child.
+The mechanics matter for tracing Kanawana's part: **posters went to the provincial offices in early
+November 1983** for distribution at pre-Christmas meetings or in seasonal mailings to member camps, each
+with a letter to the Director and an **inquiry form**, and "**each province should have a list of all its
+member camps ready to send out to those filling in the inquiry form**." So the 1984 mailing did *not*
+route through Kanawana as the 1983 one did, and the ACQ was to hold a ready list of Quebec member camps
+in the winter of 1983-84 — another form of the Quebec camp directory `p_326` is chasing. Participation
+by the **Minister of Fitness and Amateur Sport** was being arranged, with cross-country newspaper and
+radio stories. **Added to `canadian-camping-movement.md` and `p_326`.**
+
+**★★ A movement-wide reckoning with a camper beaten to death, one issue after the Camping Advisor's
+statement on corporal punishment.** The whole front of the issue — a bilingual editorial, the Camping
+Advisor's lead question, a four-page Council on Mind Abuse feature and a commissioned reply from a
+Presbyterian minister — is given to the death of **twelve-year-old John Yarbough** over the weekend of
+**3 July 1983** at the **House of Judah** camp, "his neck and wrists… locked into the camp's stocks and,
+hunched over, he was beaten thirty times on his behind with a stick the size of a broom handle," an
+autopsy finding at least one blow to the spine; sixty-six other children removed by court order and a
+manslaughter charge laid. The director, William Lewis, called himself a prophet and cited Deuteronomy
+21:18-21. **Recorded here for context rather than for any article**: it is the event that produced the
+Summer 1983 Camping Advisor's unequivocal "if you strike anyone — camper or Staff — you are committing
+the crime of ASSAULT," and it dates precisely when the Canadian camping movement's public position on
+striking children hardened. John Vissers's reply — a Presbyterian minister, former director of Glen Mhor
+Camp, former vice-president of Christian Camping International Canada — is the movement's most careful
+statement on religion in camping in this run, arguing that "**a neutral position of a 'no belief system'
+under the name of secularism or humanism is a myth**" and that the test is not the content of a camp's
+beliefs but the method of communicating them. Kanawana was a YMCA camp whose religious character this
+project has traced from explicit Protestant devotion to none; Vissers's frame is the contemporary
+vocabulary for that change, written by someone inside it.
+
+**★ Minor, and one explicit null.** The B.C. Leadership Development Camp (second annual, over fifty
+counsellors from about twenty-five camps, from the Queen Charlottes to the lower mainland) had **Jack
+Pearse as its special guest for two and a half hours on song-leading technique**, gave every participant
+a copy of his ***Lead on… Counsellor***, and ended with Pearse leading "**Let There Always Be a Song**,
+that great new song by **Mark Baldwin** that everyone who was at the International Camping Congress will
+remember" — a datable 1983 camp song, by a composer this read has already met, spreading by exactly the
+mechanism (a national figure teaching at a provincial leadership camp) that carries songs between camps.
+Ian Fowler reports the NBCA Counsellor/Director Conference of **27-29 May 1983** at Rotary Camp near
+Fredericton, seventy participants, keynote "Hear The Children When They Call" by **Jane McCutcheon**, and
+a first NBCA canoe school at **Camp Glenburn, 10-12 June 1983**, twenty-four participants on Bellisle
+Bay, led by Owen Fraser. The letters column carries an editorial reply promising that acid rain "we'll
+try to cover it all" in the next issue — a forward lead for `traditions/environmental-history.md`. **The
+explicit null worth recording**: one Camping Advisor question is signed "**D.C. and M.B., Montreal,
+Québec**" — "we are female counsellors in a co-ed camp; some of us have fallen in love at camp… our camp
+doesn't have a policy stating that counsellors can't or shouldn't date" — and the answer recommends "a
+lot of talk in pre-camp from the director with regard to expectations, commitment, campers, first
+orientation, **staff dating policy**." Kanawana was a co-educational camp in Montreal in 1983 and the
+initials fit nothing this project holds. **It cannot be attributed and is not being attributed**; it is
+recorded because a later pass finding two Montreal co-ed camp counsellors writing about staff dating in
+1983 should know it has already been seen and rejected as unattributable. The mailing label on this copy
+reads **HUGH BABCOCK, KETTLEBY, ONT.** — a sixth deposit hand in the Internet Archive run.
