@@ -25075,3 +25075,287 @@ Brunswick Girl Guides, stuffed apples "called Walking Salad because it can be ea
 without comment. And the mailing label on this copy is **Ms. Jane McCutcheon, C.C.A. Vice President,
 Camp Tawingo, Huntsville** — a fourth deposit hand in the Internet Archive run, and this time the
 association's own Central Vice-President.
+
+---
+
+## 143 — Vol. 34 No. 3, Autumn 1982
+
+Fourteen pages. Contents page checked; every item read: Letters to the Editor (one letter and the
+editor's long reply); the bilingual Editorial, "Beer in the Ballparks — Camps are Next!" / "On permet
+bien la bière aux stades de baseball — Pourquoi pas aux camps!"; a Camp Aquatics Program Workshop
+notice; The Camping Advisor (five questions); Interview: John Latimer by Jay Haddad; an International
+Camping Congress update; Pre-Congress Events by Marilee Tisdall; the "Catch Up With Your Past" notice;
+a statistics-questionnaire correction; President's Perspective by Jocelyn Palm; the Winning
+Photograph and Menu Feature; the Group Dynamics Exercise; Ian Fowler on the New Brunswick Counsellor
+Workshop; the poem "The Dumbest Person In The World"; Karen Crawford on the Saskatchewan Spring
+Conference; and a subscription offer. **Kanawana is not named. Quebec appears in the Camping Advisor,
+in a photo credit and at the Saskatchewan conference.** The issue is again **printed by the National
+Sport and Recreation Centre, Ottawa**.
+
+**★★★★★ "CATCH UP WITH YOUR PAST" — THE ASSOCIATION ASKS ITS MEMBERS TO FIND THE FIRST CAMP IN
+CANADA.** A boxed notice over the Trent archivist's name:
+
+> "**Children's camping is older than most of us realize.** In time for the coming International
+> Camping Congress and for our own information, **we need to know who opened the first camp in
+> Canada. As well, we would like to co-ordinate a list of camps in Canada which were opened prior to
+> 1900, 1910, and 1920.** Please dig into provincial government departments (education, health, land
+> titles/surveys) as well as those of **Church, YWCA, YMCA, Boy Scouts, Girl Guides, CGIT, and private
+> records. **This kind of information has never been researched in detail** — we may be surprised at
+> the number of early camps established in Canada. **Help us know our heritage!**" — Contact **Mr. Ken
+> Johnson, Archivist, Thomas J. Bata Library, Trent University**.
+
+This matters to this project three ways and is **written into `p_319` and into
+`canadian-camping-movement.md`**. **Kanawana dates itself from 1894 and would belong on the
+"prior to 1900" list** — so if any Quebec camp answered, Kanawana is a candidate to appear, and its
+entry would be the earliest independent statement of its founding date this project could find outside
+the YMCA's own papers. **Whatever answers came back went to Trent**, and they were being gathered "in
+time for the coming International Camping Congress", so the compilation would date to late 1982 or
+January 1983 and would sit in the CCA/ACC fonds beside the Congress papers. And the notice's own
+admission — "this kind of information has never been researched in detail" — is the national
+association saying in 1982 that the early history of Canadian camping was unwritten, which is a fair
+description of the gap this project still works in. The specific institutions it names to search are
+also a good checklist for Kanawana's own pre-1900 record: **provincial education, health and land
+titles departments**, alongside the Y and church records.
+
+**★★★★ JOHN LATIMER ON THE FRENCH-ENGLISH RELATIONSHIP — a past president saying it was unresolved
+and that he had made enemies over it.** Interviewed at his Toronto home on **4 August 1982**, in his
+first summer away from Kilcoo since 1938, Latimer is asked about the volatile issues of his CCA
+presidency (**1971-75**) and answers on three. On the association's name: "I remember wanting the name
+changed because **we were and still are assumed by the public to be 'that group in charge of trailer
+camping throughout Canada'**… we never did change our name." On standards: "**When we talked of
+National Standards, people feared 'regulations' or 'imposed standards' but our intention was always an
+initiative of education and information — sharing only. This issue still isn't resolved — there are no
+national standards** and I think it would be very difficult to implement the same standards to all
+camps across the country." And on language:
+
+> "**I personally felt uncomfortable about the relationship between French camps and camps in
+> English-speaking Canada. This, unfortunately, is an ongoing concern even today, wrought with
+> political overtones — I know I've made enemies over this issue** but I keep thinking we're
+> forgetting the campers and their collective interests which aren't being served by our politics."
+
+**Written into `canadian-camping-movement.md`.** This project has traced the bilingual constitution of
+1971, Belanger's French Language Committee, the ACQ's growth and the English Section's disappearance
+from the printed list — all from the association's own upbeat copy. This is the first time anyone in
+the run says plainly that the relationship was a problem, and it is said by the man who was national
+president in the years the constitution changed. It is his view and is recorded as that. It also sets
+the frame for what the Quebec English Section's fade meant institutionally: Kanawana belonged to an
+English-language provincial section inside a country where, on a past president's account, the
+language question in camping was "wrought with political overtones" and unresolved in 1982.
+
+The rest of the interview is the fullest account of Kilcoo's succession and of the Congress's origin.
+**The Congress began as a conversation in New York**: "The idea of an International Congress started
+several years ago when I was President of the C.C.A. and I was down in New York City at an A.C.A.
+meeting. **John Kirk was their President and a man by the name of Commander Kohli from India was
+President of the Indian Camping Association.** We went out one evening and began to fantasize a little
+about the possibility of a **World Association in Camping**." A joint congress with the Americans was
+explored "but unfortunately, that didn't work out because the financial restrictions presented too many
+complications", so the CCA went alone; he notes that "**Christian Camping International have had
+international ventures before but this is really the first sponsored by the C.C.A.**"
+
+**On Plewman, and on how Kilcoo changed hands.** Latimer first went to Kilcoo in **1938** through a
+friend up the street; his first memory of Plewman is "**leading songs**", and the second is the war:
+"so many of his Staff were away fighting and Charlie was very close to them. Some, of course, were
+killed; I remember being very moved when he announced to the camp in the dining hall that **last year's
+swimming instructor was killed or the counsellor of a certain tent had been taken prisoner**. **Every
+Sunday night during these war years, Charles Plewman would assemble the entire camp in the dining hall
+and at one end he had huge maps and he would go through where the allies were**, and where the Germans,
+Italians, Japanese were advancing." A dated description of how the Second World War was present inside
+a Canadian camp — worth having beside anything Kanawana's own wartime record shows. He told Plewman at
+about **nine years old** that he would own the camp; the chance came in **1955**, and "**wasn't there a
+slight problem in that you couldn't match the offer of another group**… And then a mystery offer came
+to you and your bid matched the other group and the camp was sold to you?" — "Yes, and **when I later
+found out that the donor of the mystery offer was none other than Charles Plewman, I cried!**"
+Plewman took him to his first OCA meeting at the Park Plaza Hotel in the autumn of 1955 and introduced
+him to **Taylor Statten, Ernie Chapman and A. L. Cochrane**. His successor at Kilcoo is **Hal
+Hannaford**, a former camper and counsellor, and the interviewer explicitly ties this to Plewman's
+promote-from-within rule quoted in issue 140.
+
+**Two dating points to flag.** Latimer says "**My first vivid C.C.A. recollection was 1967 when I was
+asked to Chair the Centenary Journey, an idea formulated by Kirk Wipper**" — which credits the *idea*
+to Wipper, where `history/centennial-1967.md` records Bruce W. Hodgins of Trent as the primary
+organiser and Latimer as coordinator. Not a contradiction (originator, organiser and coordinator can
+be three people) but a third name for the origin, **added to that article**. And he says "**My first
+meeting with the then President of C.C.A., David Hartry was in the basement of a synagogue in Halifax
+— the year was 1965**", where May Brown says she became president at the 1965 annual meeting at
+Parkesville, B.C. (issue 142). Both may be right if the handover fell mid-1965, but the two statements
+sit awkwardly and **are recorded here as a minor unresolved discrepancy in the presidential sequence**,
+not opened as a conflict record since neither bears on Kanawana.
+
+**★★★★ A LETTER OBJECTS TO A PHOTOGRAPH, AND THE EDITOR ANSWERS AT LENGTH.** **Darrel Hoeppner** of
+Edmonton wrote objecting to a photo credited "Courtesy of Camp Gay Venture" in the Spring issue: "**It
+disturbs me that a magazine of this caliber would give homosexuality this kind of exposure**", setting
+it against the "One Solitary Life" poem printed beside it, and arguing that "the foundation of today's
+camping experience was piloted by men and women of **high moral fabric (eg: Young Men's Christian
+Association)** and we can give no less to our generation."
+
+**Jay Haddad's printed reply is one of the more remarkable documents in the whole run**, and it is
+recorded here in full detail because it is a dated, published statement of what the Canadian camping
+establishment's own editor was willing to say in 1982. He first corrects the factual error: **Camp Gay
+Venture** is "one of Canada's premiere girls' camps for over 30 years… with **Directors Hoyle,
+Patterson and currently Adamson**" — the same Janet Adamson who was then President of the Ontario
+Camping Association — and "'**Gay' means 'light and fun' and Gay Venture was the name of a horse back
+in the 1940's which prompted the camp name**", with the camp having considered and rejected a name
+change. He then answers the substance: "approximately **one person in ten is homosexual**; whether it's
+good or bad is not the point — it's just a fact of life. **There is obviously a sizeable number of
+campers and staff in ALL our camps who must deal with this reality; to make them feel unduly shameful,
+anxious or guilty seems very wrong** as well as in opposition to the creed 'Love thy neighbour as
+thyself'." He cites **Dr John Money of Johns Hopkins** and a 1982 conference address by **Dr William
+Masters**, and closes on the letter's own terms: "Your letter talks of the camping movement 'piloted by
+men and women of high moral fabric'. I assume you mean heterosexual, but I'm not sure; **you see, one's
+sexual orientation has little to do with morality. There are surgeons, presidents, lawyers, camp
+directors, etc. who are homosexual AND are of high moral fabric.**"
+
+**Recorded in the findings and not written into any article**, because it names no Kanawana person and
+no Quebec camp, and because the fifth Camping Advisor question in the same issue is a personnel matter
+about identifiable individuals — see below. But it is the clearest surviving evidence of how sexuality
+was discussed in Canadian camping's own press in 1982, and it belongs in any account of the period's
+staff culture. **No embargo applies: no private individual is identified in the letter or the reply.**
+
+**★★★ "THE CAMPING ADVISOR" LAUNCHES — and one of its five questions is from Montreal.** The new
+column promised in issue 142. Its questions are a cross-section of what camps were actually asking. On
+canoes, quoting Michael Hatton's *Lightweight Camping*, it prints the 1982 comparison directly useful
+to `traditions/canoe-trips.md`: **wood and canvas** (16 ft, ~75 lb) "quiet, good performers and high
+aesthetic value but allergic to rocks, can become waterlogged and high maintenance"; **aluminum** (17
+ft, ~75 lb) "very strong but noisy, conducts cold temperatures"; **fibreglass** (16 ft, ~65 lb) "light,
+easy to repair and inexpensive but not as strong"; **Kevlar-49** (16 ft, ~48 lb) "high tear resistance,
+very light but very expensive"; **Royalex** (16 ft, ~75 lb) "very strong but will deform under high
+stress and have poor hull designs" — with the advice that "**few serious canoeists would purchase a
+hull less than 16 feet in length, and in fact, there is a growing move to 17 and 18 foot models**".
+Read against the 1980 survey finding that two-thirds of Canadian camps were still paddling canvas
+(issue 132), this is the moment the fleet was changing, and it dates the materials a Kanawana canoe
+photograph might show. **Added to `traditions/canoe-trips.md`.**
+
+**The second question is signed "D.C., Montreal, Quebec"** and asks about jogging and depression — a
+Montreal camp person writing to the national magazine in 1982. The initials are not enough to identify
+anyone and no identification is attempted. Others: film refrigeration (W.N., Huntsville); ankle sprains
+and the **RICE** protocol against a camp nurse's hot-salt-water treatment (B.B., Vancouver) — a useful
+marker of what camp first aid was and was not in 1982.
+
+**The fifth question is a personnel matter about identifiable people and is handled accordingly.**
+Signed "Name and city withheld by request", it describes a camp director not rehired after an
+acknowledged relationship with a counsellor, and asks whether that was discrimination. **The camp, the
+province, the board and both individuals are unnamed in the source**, so there is nothing here that
+could identify a private person, and no embargo record is needed. What is recorded is the **editor's
+published position**, which is a statement of professional standards of the period: "**The question is
+not one of homosexuality — it is a question of BEHAVIOUR unbecoming of a camp director! It would have
+been equally wrong if the camp director was male and the affair was with a female staff member**… Your
+camp director was not guilty of her sexual orientation, but rather of her unwise and untimely
+expression of it!" **This is the only statement in the run of a rule about relationships between camp
+directors and their staff**, and it belongs on the record of what a camp director of these years was
+expected to observe.
+
+**★★★ THE EDITORIAL ARGUES CAMPS SHOULD LET STAFF DRINK — printed in both languages.** "Beer in the
+Ballparks — Camps are Next!" opens on the problem: "**Industrious, sensible, committed staff members,
+who care for our campers all week long with enormous responsibility, become drunken, reckless,
+irresponsible, immature 'adolescents' on their days off**… at its worst, we witness violent automobile
+accidents causing severe bodily injury and even death!" Its diagnosis is that the no-drinking rule
+displaces the drinking off-site: "It's like the Ontario Government's policy of '**no beer in the
+ballparks**' which never did stop people from drinking **but it did stop stadium officials from
+effectively controlling it**." Its middle section is the fullest description in the run of **what a
+camp counsellor's day actually consisted of** — wake-up bell, washing and teeth, breakfast, activity
+periods, control of the noon meal, rest period, afternoon activities, supper, an evening challenge or
+campfire, bed, a story and lights out, "**and all this assuming no discipline problems arise… or a
+camper gets sick in the middle of the night and the counsellor sits with him/her for an hour or two in
+the infirmary. It's a pressure-cooker of a job but we don't always admit it!**" And its argument from
+comparison: "**we entrust a 19 or 20 year-old counsellor with human life… more vital responsibility, I
+might add, than most 40 or 50 year-olds have with their city occupations. On a canoe trip, the
+leader's responsibility is magnified tenfold and yet these same 'adults' are reduced to mere children
+themselves because we refuse to believe they could responsibly have a beer in camp.**"
+
+The editor reports both regimes from experience — a no-drinking camp where "every night was like
+sitting on a powder keg", and a camp with alcohol available in a designated staff cabin where
+"**several 'unwritten' rules evolved: no one drank to excess, drinking was usually limited to beer or
+wine, drinking seemed to be regulated to a couple of times a week**", with two consequences he counts
+as gains: staff rarely left camp on time off, producing "a wonderful sense of cohesion", and "**the
+campers were exposed to role models who actually drank AND walked a straight line**." He recommends
+each camp open "**a dialogue on drinking**" with its staff through a committee of staff, senior staff,
+parents and the director. **Recorded in the findings, not written into an article**, since nothing
+connects it to Kanawana — but it is directly relevant background to how any Kanawana staff-conduct
+rule or dismissal of the period should be read, and it establishes that in 1982 **most camps had a
+"NO DRINKING IN CAMP" policy** and that the national editor thought that a mistake. Set beside the
+1980 tripping survey's finding that alcohol was "overwhelmingly rejected for staff on trips" (issue
+132), the picture is a movement whose written rules were abstinent and whose editor said the practice
+was not.
+
+**★★ The Congress, at three months out.** Registration forms and programmes **mailed to all members**;
+bargain rates until **17 December 1982**; **SASKSPORT granted $5,000** for Saskatchewan delegates;
+**Eastern Provincial Airways** quoted a super-saver fare for Atlantic delegates; **Jack Zoubie** at
+External Affairs publicised it in **over 30 countries**; **the Director of Camping in Bermuda will
+bring 5 delegates**; **Jack Murdock** liaised through the ACA's Bradford Woods headquarters; and "the
+**Ontario March of Dimes** deserves our gratitude for enabling **Kirsty Griffiths** to co-ordinate the
+entire Congress program" — a seconded programme co-ordinator, named. Jocelyn Palm adds that "**the name
+of each Congress Donor will be printed on the banquet program**", and that contributions were now
+charitable donations with tax receipts — the charity registration of issue 142 in use. She also notes
+that **the United Nations declared 1984 the International Year of Youth** and frames the Congress as
+positioning for it.
+
+**Pre-Congress events are printed in full, and they include a YMCA meeting.** The CCA Board met **24-25
+January**; the **Promotions (Marnie Ellis, Quebec), Standards (Brian Law) and Education (Dorothy
+Walter) Workshops** each ran **25-26 January**, with **four representatives per provincial association
+whose travel was paid by the CCA and Fitness Canada** — so the ACQ sent four people to Toronto in
+January 1983 at national expense, and their names would be in the CCA's records. The **Canadian
+Recreational Canoeing Association** held six committee meetings on 28-29 January, including a joint
+executive meeting with the American Canoe Association. And six **Kindred Groups** met beforehand, among
+them **YMCA**, coordinated by **Rob Fleming, c/o Camp Wanakita, Hamilton YMCA, 25 January 9 a.m. to 26
+January noon** — **a YMCA camping meeting at the Congress, which is the most likely single occasion for
+a Kanawana or YMCA of Montreal representative to have been present**, and worth asking about by name.
+Also **Claude Cousineau of the Department of Recreology, University of Ottawa**, convening "Career
+Preparation for University Students in the Outdoor Field"; Christian Camping International; Brethren
+Assemblies Camps; Private Christian Science Camps; and Day Camp under **Larry Bell**. **`p_325` updated
+with all of this.**
+
+**★★ Claire Menard of the ACQ taught in Saskatchewan, with Michel Charron.** Karen Crawford's report on
+the SCA Spring Conference at the Kelsey Institute, Saskatoon, **1 May 1982**, about ninety attending,
+lists the Counsellor stream: "'**Parachute Play to Music**', a very popular session, was given by
+**Claire Menard and Michel Charron**, proving that there is **no language division where fun and
+laughter are concerned**." So the ACQ's own officer — the author of the Quebec annual report in issue
+142 — travelled to Saskatchewan to teach in 1982, with a second new Quebec name, **Michel Charron**.
+**Both added to the stub assessment and to `canadian-camping-movement.md`.** The rest of the programme
+is a useful list of who the movement's teachers were in 1982: Jocelyn Palm on "Will camp make me a
+winner?", emergency procedures and waterfront safety; Dinny Biggs on initiative tasks and CIT
+programmes; Jane McCutcheon and Ian Fowler on evening programmes; Janet Adamson on staff supervision;
+Terry Burkhalter on church camping and camping with special populations; Rick Ryan on "**Financial
+Planning For Non-Profit Camps**"; Jan James on "Camper's Needs: Back to the Basics or New Wave?";
+Dorothy Walter on "The Counsellor as a Person"; and Marjorie Booth on rainy days.
+
+**★★ An Indian Council Ceremony taught as a portable programme, 1982.** Ian Fowler's report on the
+**3rd Annual New Brunswick Counsellor Conference at Camp Glenburn, 28-30 May 1982** — 82 counsellors
+from 18 camps, resource staff of 10 — records that the Saturday evening session was "devoted to the
+**development of an Indian Program at camp**", led by **John Jorgenson of Camp Tawingo** as the
+CCA-funded Consultant/Advisor. "The program began with a **slide presentation on a typical Indian
+Council Ceremony**… Following this the group had the opportunity to view first hand **many costumes and
+props all transported by Jorgi from Tawingo**. The highlight of the evening was just beginning, however,
+as everyone paraded to the beach for an **Indian Council Ceremony**. This provided the opportunity for
+all to participate in **Indian songs, dances and games**… **To many of the delegates this was their
+first experience with Indian Programs.**"
+
+**Noted for `site/indigenous-names-and-land.md` and `site/council-ring.md`.** This project has traced
+the council ring from Seton through Statten into Kanawana's own script of c. 1925-27, and has been
+asking how such practices propagated. Here is the mechanism, dated 1982 and federally funded: **an
+Ontario camp's director drove his camp's costumes and props to New Brunswick and taught a provincial
+counsellor conference to run the ceremony, for most of them for the first time**. Not a Kanawana
+document, and nothing is claimed about Kanawana from it — but it shows the practice being actively
+propagated by the national association in the same decade, four years after the Seton creed reprint and
+one year after the white-canoe legend.
+
+**★ Minor.** The **Camp Aquatics Program Workshop**, Columbus, Ohio, 11-14 November 1982, with **Betty
+van der Smissen on "Liability & Risk Management in Camp Aquatics"** and **Jocelyn Palm** on training
+aquatics and whole-camp staff — the American liability discourse and the Canadian president in the same
+room. A **statistics questionnaire correction**: "the CCA/ACC questionnaire was sent with **the wrong
+year typed in the Camper Data Section**", with camps asked to send 1982 totals — a small warning that
+the national statistics series has a known data-entry fault in this year. A **subscription offer** to
+camp directors: two subscriptions at $6.00 and any further at **$4.00 a year**, aimed squarely at
+signing up camp staff — Derek Walsh's first recommendation (issue 142) in action within a quarter. The
+Group Dynamics Exercise is the **Alligator River** story, supplied by **Jude de Guerre of Wolfville,
+Nova Scotia** and first seen by the editor at Camp Hillis, Paradise, N.S. in June 1982, with the
+warning that "**very volatile feelings will erupt with regard to issues like honesty, morality,
+fidelity, proper parenting, friendship, love and emotions**" and that a time limit is needed — a
+second complete, datable 1982 staff-training instrument, after "Lost At Sea". Two Quebec photo credits
+appear: **Camp Papillon** and **Camp Tartamakoon**, the first a Quebec camp for disabled children not
+previously recorded by this read. The winning photograph is by **Janice De Long, Anglican Youth Camp,
+N.S.** — the first Photo Contest winner, so the contest ran. The poem is "The Dumbest Person In The
+World", **reprinted from the *Wall Street Journal* by United Technologies Corporation** — an American
+corporate advertisement printed as a Canadian patriotic poem. Latimer, retired from Kilcoo, was
+"currently working as a consultant with the **Ministry of Tourism** in the Ontario Government,
+overseeing the government-sponsored attractions in the Province", and hoped one day to run a private
+school "from perhaps grade 9 on". The mailing label is **Miss Marion Babcock, Newmarket**.

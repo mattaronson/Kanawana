@@ -1,6 +1,6 @@
 # Indigenous Place Names and Land History
 
-*Status: R3-verified | Sources: 22*
+*Status: R3-verified | Sources: 23*
 *Last Updated: 2026-09-04*
 
 ## Overview
@@ -78,6 +78,10 @@ And the same volume cuts the other way too, which is the honest shape of it. **F
 
 A third strand runs alongside: the association also **sold** the material. Its 1981 publications catalogue offers, under Miscellaneous, "***Thirty Indian Legends of Canada* — M. Bemister, 153p, J.J. Douglas, 1973 — Mythology of Canada's Indians, a rich source of story and legend**", a reset edition of a collection first published in 1912.^22 Whatever legends were told at Canadian camp council rings in these years, one supply line for them was commercial and ran through the national association's own bookstore.
 
+**And a second supply line was the association's own training circuit.** How a practice like Kanawana's council ring propagated from camp to camp is usually invisible; one instance is documented, and it is late. At the **3rd Annual New Brunswick Counsellor Conference, Camp Glenburn, 28-30 May 1982** — 82 counsellors from 18 camps — the Saturday evening session was "devoted to the **development of an Indian Program at camp**", led by **John Jorgenson of Camp Tawingo** in Ontario, serving as the CCA's federally funded Consultant/Advisor.^23 He showed "a **slide presentation on a typical Indian Council Ceremony**"; the delegates then examined "**many costumes and props all transported by Jorgi from Tawingo**"; and the evening ended with the whole conference paraded to the beach for an **Indian Council Ceremony** with "Indian songs, dances and games", cabin groups making presentations to the council. The reporter adds: "**To many of the delegates this was their first experience with Indian Programs.**"
+
+Nothing in this concerns Kanawana, and no claim about Kanawana is made from it. It is recorded because it shows the mechanism. In 1982 — four years after the association reprinted Seton's creed and one year after the white-canoe legend — an Ontario camp director drove his camp's ceremonial costumes to another province and taught a provincial counsellor conference to perform the ceremony, most of them for the first time, with the national association's money. The framework this article traces from Seton through Statten into Kanawana's own script of c. 1925-27 was not a survival by 1982; it was being actively taught.
+
 ## Pre-Colonial and Land History
 
 The Weskarini Algonquin were dispersed by Iroquois warfare in the 1650s; a major massacre occurred in 1653 near Petit Lac Nominingue, northwest of Arundel — roughly 70-80 km north of the Camp Kanawana site, but within the same territorial zone.^12 Archaeological fieldwork in the Laurentians since 2015 (researchers Francis Lamothe, Karine Taché, and Roland Tremblay) has shown that the Laurentian landscape was integrated within Indigenous interaction networks spanning several regions of the greater Northeast — evidence of land use long predating European settlement.^12 The camp's watershed, the Rivière du Nord, flows approximately 125-137 km from Sainte-Agathe-des-Monts through Val-David, Sainte-Adèle, Saint-Sauveur, Prévost, and Saint-Jérôme before reaching the Ottawa River at the Lake of Two Mountains.^12
@@ -125,6 +129,7 @@ The Kanawana site sits in the municipality of Saint-Sauveur, in the Laurentian h
 20. "Great Spirit Make Me," headed "Translated from the Sioux," with the accompanying editorial note, *Canadian Camping* Vol. 33 No. 2 (April 1981), p. 5 [src_ia_canadian_camping_collection]. Found by the same read (issue 136). Chief Dan George's "And My Heart Soars" appears in Adele and J. Harry Ebbs, "In Memoriam — 'Blackie'," Vol. 31 No. 3 (May 1979), p. 7 (issue 125).
 21. "legend of the white canoe," unattributed back-cover item, *Canadian Camping* Vol. 33 No. 4 (June 1981), back cover [src_ia_canadian_camping_collection]. Found by the same read (issue 138).
 22. "Preservation of Wildlife and its Habitat: just one aspect of Stewardship," a fact sheet prepared by and reprinted with the permission of the National Survival Institute, 229 College St., Toronto, in *Canadian Camping* Vol. 33 No. 5 (October 1981), pp. 3-4, 15, 21-24; with the C.C.A. publications catalogue in the same issue, catalogue p. 5 (Miscellaneous) [src_ia_canadian_camping_collection]. Found by the same read (issue 139).
+23. Ian Fowler, "New Brunswick holds Annual Counsellor Workshop," *Canadian Camping* Vol. 34 No. 3 (Autumn 1982), p. 13 [src_ia_canadian_camping_collection]. Found by the same read (issue 143).
 
 ## Research Notes
 
