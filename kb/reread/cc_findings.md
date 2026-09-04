@@ -23060,7 +23060,13 @@ project's own research questions printed on its back cover.
 **★★★ A THIRD CAMP SONGBOOK — and this one has music.** "**The long awaited 'Sing with Jack' book is
 hot off the press**… the first 'Camp Tawingo Publication', contains **the words and music to 37
 favorite camp songs, plus notes for 'actions' by the leader**", $4.00 through the CCA Publications
-Service. By **Jack Pearse**, immediate past president of the CCA and director of Camp Tawingo. Two
+Service.
+
+> **Patched in place 2026-09-04, on reading issue 134.** The announcement's "37" is a slip, or my
+> reading of it is: the CCA's own catalogue two issues later gives "***Sing with Jack Pearse* — J.
+> Pearse, **37p**, Camp Tawingo Publications, 1980 — **31 songs with music**, delightfully
+> illustrated, many actions included." So **37 pages, 31 songs**. Cite the catalogue, not the
+> announcement. By **Jack Pearse**, immediate past president of the CCA and director of Camp Tawingo. Two
 sequels announced: "**Campfire Programs with Jack Pearse**" and "**Sing (One More Time) with Jack
 Pearse**". **`p_311` updated**: unlike the Nova Scotia collection (issue 123) this one carries the
 tunes, which makes it the better comparator for identifying which Kanawana songs are house
@@ -23313,3 +23319,113 @@ deferred `meta/sources-index.md` section, and a reason the Trent deposit copies 
 hundred: ham à la king, beef stroganoff from 25 lb of stewing beef. The publications service offers,
 "for the first time", a **Canadian Nature 1981 calendar** and a **Canadian Wildflowers 1981
 appointment book in English and, also for the first time, in French**.
+
+---
+
+## 134 — Vol. 32 No. 6, December 1980
+
+Eighteen pages, ten of them the CCA's first full bilingual publications catalogue. Every item
+accounted for: programme ideas and guessing games; a Camp Allsaw job advertisement; C.C.A. President
+(Cliff Labbett); The Counsellor's Page — Camper Care Package (Camp Howdy, reprinted from the BCCA
+newsletter); the Publications catalogue with title index and bilingual order forms; the ACA Houston
+convention notice; C.C.A. Executive Director (Marjorie Booth); Only God Can Make A Tree; a Camp Amy
+Molson advertisement; Thought for Food. **Kanawana is not named.**
+
+**★★★★ THE NOVA SCOTIA SONGBOOK HAS A TITLE — and 583 songs.** From the catalogue's Music section:
+"***Come On … Let's Sing* — Nova Scotia Camping Association, 156p, 1979, $3.75. Words to **583
+favorite camp songs** compiled by the N.S.C.A.**" (indexed as "Nova Scotia C.A. Song Book"). At issue
+123 this was "a provincial song book with more than five hundred songs" and no title; **it now has a
+title, publisher, year, page count, price and an exact count, and is searchable in library
+catalogues.** `p_311` updated and raised to weight 9.
+
+The same entry corrects my own write-up at issue 131 — "***Sing with Jack Pearse* — J. Pearse, 37p,
+Camp Tawingo Publications, 1980 — **31 songs with music**, delightfully illustrated, many actions
+included**". The May announcement's "37" was pages, not songs. **Block 131 patched in place.** The
+full Music section is the printed repertoire a Canadian camp could buy in 1980, and therefore the
+comparison set for deciding which Kanawana songs are house compositions: *Come On… Let's Sing* (583
+songs, words only); *Sing!* (ACA/World Around Songs, revised 1978, words and music); *Tent and Trail
+Songs* (116 songs, 1966); *Sing with Jack Pearse* (31 songs with music); Tobitt's *A Counselor's
+Guide to Camp Singing*; with *Sing (One More Time) with Jack Pearse* due early 1981.
+
+**★★★ THE QUEBEC ASSOCIATION SET AGE AND EXPERIENCE REQUIREMENTS FOR DIRECTORS THEMSELVES.** From
+Camp Amy Molson's advertisement for an executive director — the Montreal charity whose free
+leadership course for teenage girls appeared at issue 125 — the requirements include "formal training
+in a child related profession… **working knowledge of French and fluency in English; meet age and
+experience requirements of A.C.Q.**" **Written into `canadian-camping-movement.md` (sub-source
+8am).** By 1980 the ACQ set minimum standards **for the director's post**, not only for the camp's
+facilities and programme, and a Montreal camp advertised compliance as a condition of employment.
+One more component of the regime Kanawana operated under, and one more thing `p_314`'s standards
+documents would specify. The post itself is worth noting: responsible for a residential camp for
+**five- to eight-year-olds**, a year-round Montreal office with two or three staff, camper
+recruitment and registration, and "preparation and funding proposals."
+
+**★★★ A SECOND ROUTE BY WHICH CAMP SONGS LEFT THE SITE IN WRITING.** YMCA **Camp Howdy** near
+Vancouver packed a "**Camper Care Package**" into every camper's luggage on the last day, not to be
+opened until the child was home. Its eight contents: a "What is a C.C.P." letter signed by the camp
+mascot; "**the words for some of the more popular camp songs, announcements, graces, etc.**"; a poem
+about camp; age-banded craft and game activities (7-8, 9-11, 12-14); an age-banded "meaningful
+(value-oriented) story"; **a list of January-to-June camp and local YMCA programmes with addresses**;
+"**an evaluation form for parent(s) and child to complete together and return to our camp office**";
+and a family activity. Remade every year "so that returning campers have something new to look
+forward to."
+
+**Written into `traditions/camp-songs-cheers.md`** beside the transmission mechanism from issue 133,
+with the point that matters archivally: **where a camp did this, its repertoire left the site in
+writing, in a child's suitcase** — which is one route by which a camp song sheet can survive in a
+family's papers when nothing survives in the camp's. Note also the parent-and-child evaluation form
+going home in the package: a further record class, and one held by families rather than by the camp.
+
+**★★ WALTER MINGIE WROTE A CCA PUBLICATION.** In the Camp Administration section: "***Outdoor
+Education — Guidelines for Camp* — W. Mingie, 17p, CCA, revised 1981. Information for Camp Directors
+on campsite use for school programs.**" Mingie appears in this read as the Quebec association's
+Outdoor Education chairman in the hébertisme context; here he is the author of a national CCA
+guideline, revised for 1981. **A short, findable Canadian publication by a Quebec camping figure** —
+add to the Trent enquiry (`p_312`) and to `p_318`.
+
+**★★ The Alberta counsellor-training guide is dated 1976, not 1978.** "***Director's Guide for
+Counsellor Training* — Alberta Camping Assoc., 41p, 1976. **Reprinted in 1980 by C.C.A.**" — which
+corrects the impression left by the 1976-77 announcements (issues 110, 111) that it was then being
+written; it existed by 1976 and the CCA reprinted it four years later. A 41-page Canadian counsellor
+training design, findable.
+
+**★★ Institutional changes.** The constitution now provides **three regional vice-presidents**:
+**Derek Walsh of Montreal** "has agreed to stay on as the representative of **Quebec and Ontario**
+until May, 1981"; **George Matthews** for the Atlantic provinces until May 1983; **Gary Luthy**
+appointed for the West until May 1981. *(The Walsh sentence is already in `people/derek-walsh.md`
+from the earlier pass; recorded here as confirmation, no change made — and note that "of Montreal"
+is the datum that contradicts the Camp Thunderbird entry in that article's Open Question 1.)* The
+**1983 International Congress loses its American partner**: "Finances proved to be too big an
+obstacle so that regretfully the joint effort of C.C.A./O.C.A. and A.C.A. has been dropped. However,
+**C.C.A. and O.C.A. have agreed to jointly sponsor the International Congress in Toronto in March of
+'83**." A **Leadership Resources Workshop at Camp Wanakita, 16-18 October 1980**, facilitated by Jan
+James and Lou Lanier, produced "**a three to five year plan for the C.C.A.**" — a strategic plan
+document, and another item for the Trent enquiry. **Wayne Perkins** moves to the Rocky Mountain Branch
+of the Calgary YMCA; **Kevin Moore** succeeds in Newfoundland.
+
+**★ The catalogue itself is a map of Canadian camping's reading in 1980**, in eleven categories with
+a bilingual order form, "financially supported by the contributions program of… Fitness and Amateur
+Sport." Worth recording for the deferred `meta/sources-index.md` section: the CCA "**is the sole
+distributor in Canada for books published by the American Camping Association**". Canadian titles are
+asterisked, and there are only about fifteen of them among more than a hundred entries — which is
+itself the finding. The ACA's ***Camp Standards with Interpretations for Accreditation of Organized
+Camps*** (77p, revised 1980, $8.00) is the American standards text sold to Canadian camps; **ACA
+health forms are listed individually at 5¢ each** with the note "**These forms are not to be
+reproduced by any other agency**" — Accident Report Form, Health Record Card, Camp Health Record
+Form, **Girl's Health Examination Card, Boy's Health Examination Card**, Camp Health Examination Form,
+Camp Staff Application — which complements the Ontario forms kit of issue 130 and adds two more names
+to `p_323`. And the **Project Reach** series from the University of Kentucky, funded by the US
+Department of Health, Education and Welfare, supplies six counsellor-training modules and four
+job-specific manuals including ***Camp Food Service Supervisor***, ***Camp Maintenance Supervisor***,
+***Camp Nurse*** and ***Camp Secretary*** — the first published treatments this read has seen of the
+camp jobs that leave no trace in camp records.
+
+**Minor.** A "zodiac lunch" to fill ten minutes when the meal is late — campers sit at their sign's
+table and read each other's horoscopes. Sensory guessing games: tree silhouettes cut from black
+paper, and blindfolded games of touch, smell and taste with "mint, evergreen, wintergreen, balsam,
+skunk cabbage, onion, parsnip, turnip, cedar, apple, orange, mould, cucumber". **Sam G. Hambly** —
+the composting author of issue 119 — advertises for a director for **Camp Allsaw**, qualifications
+"O.C.A. Standards, Camp Allsaw Philosophy". "Only God Can Make A Tree", said to have been posted in
+Portuguese forest reserves "for over one thousand years", with the editor's aside: "**Ecologists
+please note: 'Everything old is new again.'**" And Marjorie Booth's year-end note, in both languages,
+recording the year's achievements as W.O.S.S.I., the Wanakita planning meeting, and "**la liste des
+membres mis dans l'ordinateur enfin!**" — the membership list computerised at last.
