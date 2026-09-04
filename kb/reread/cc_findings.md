@@ -10467,3 +10467,252 @@ Nothing in this issue names Kanawana. Its value is the CCA's own membership numb
 and first federal grant, the staff-manual specification, a sixth voice on evaluation
 ethics, the NFB "Camping How-To Kit" in both languages, and the exact date and venue
 of the 1966 Quebec conference.
+
+## 69
+
+`canadiancampingmagazine_vol18no2_1966feb.txt` — Vol. 18 No. 2, February 1966.
+
+Contents page (checked against this block): A Seed is Sown (John Berges) · O.C.A.
+Brief (Bruno Morawetz) · Among Ourselves (Kirk Wipper) · Sermons Under the Sun
+(Dr. G. MacGregor Grant) · Why I Direct a Camp (Eanswythe Flynn) · Camp Tonakela
+Visited (Adele Ebbs). All six covered, plus the CCA meeting notices. Cover: "Flag
+Raising at first Children's International Summer Village at Lions' Youth Camp, Lake
+Belwood, Fergus, Ont."
+
+**A new editor is named: Mrs. A. E. Harshaw**, 35 Thorncliffe Park Drive, Toronto 17
+— filling the vacancy left by Dorothy Maybee Douglas's death in May 1965. Katherine
+Anson and Eugene Kates drop off the Editorial Committee. Ted Yard's entry now reads
+"Sault Ste. Marie" rather than Toronto.
+
+**Adele Ebbs, "Tonakela Visited" — this resolves the Camp Tonakela founding-date
+conflict this read has been carrying since issue 38.** Ebbs writes as **Canadian
+Chairman of the Camp Tonakela Association** after visiting the camp, twelve miles
+from Madras, and states: "**Camp Tonakela has been a demonstration of an overseas
+fellowship of campers and camping people since 1937.**" Set against the three earlier
+dates in this same magazine — 1935 (issue ~53's report), Taylor Statten's official
+opening in January 1938 with the *Madras Mail* of 17 January 1938, and the
+twenty-first birthday celebrated on 21 February 1958 (which implies 21 February 1937)
+— **the 1937 date now has two independent documented supports and is the one to
+prefer.** The reconciliation that fits every source is that the camp began operating
+in February 1937 and was formally opened by Mr. and Mrs. Taylor Statten a year later,
+in January 1938; the outlier is the single 1935 mention. Recommend the conflict record
+be resolved in favour of **founded 1937, officially opened January 1938**, with the
+1935 statement preserved and marked superseded. Ebbs also names **"Mr. Wallace Forgie,
+the Canadian founder"** — which ties the Tonakela story to the Forgie already
+documented in this read as the man who photographed C. F. Plewman at a YMCA camp in
+1903 (issue 64) and moved the Ottawa camp to Golden Lake in 1908. Forgie's stub now
+has a founding, a photograph, an Ottawa camp move and an Alberta YMCA post to build on.
+
+Tonakela's 1965 operating figures, all new: **3,150 different boys and girls** camped
+on the fifteen-acre site; a different group most weekends; a swimming pool that is
+"the only one in the countryside"; **five permanent local staff** under director
+**Perumal Naidu**, who lives in Reddypalayam Village; a convalescent section taking
+children discharged from Madras hospitals for up to two or three months, in which
+"**33 girls and 91 boys gained in weight from 5 to 9 pounds**"; a new Boys'
+Convalescent Centre with fifty beds, intended to extend the service as far as Vellore
+Hospital; a rebuilt treatment centre with separate cubicles treating **about 10,000
+villagers annually**; and a daily complementary meal of kanji for children from
+surrounding villages. Ebbs records, without comment, that "in all phases of camping
+there is more response from boys' groups because parents are reluctant to let girls
+leave home for any length of time." Named Madras committee members: **Sri N. A.
+Parankusum**, who attended the **YMCA World Gathering of Older Boys in 1931**, and
+secretary **Sri T. P. Santanakrishna Naidu**, a former officer in the Ministry of
+Education, whose statement in the *Indian Council of Child Welfare* (Madras State
+Branch) newsletter is quoted at length on what camp does for village children.
+
+**Bruno Morawetz (Camp Ponacka), "The Ontario Camping Community Speaks To Its
+Government" — the OCA's brief to Ontario's Select Committee on Youth**, chaired by
+"the well-known hockey player **Syl Apps**" with thirteen other members of the
+Legislature. The most useful thing in the article is the numbers and the
+recommendations, both printed in full.
+
+*Numbers:* "**Instead of the hundred and forty thousand youngsters who now go to camp,
+the Ontario Camping Association points out that there is a potential of one and a half
+million youngsters**." Set beside Lazanik's 70,000 Quebec campers (issue 67) and the
+CCA's 180,000 member-camp campers (issue 68), this gives the project a three-way
+provincial and national comparison for the mid-sixties.
+
+*Argument:* the brief distinguishes present-day camping from "the 'fresh air' type
+which removed youth from the city streets to the more beneficial environment of the
+country" during the Depression — "This image still persists in the minds of some" —
+and claims instead that camping is "a very special type of education." The central
+sentence is worth quoting whole in any article on what a camp claimed to be: "**No
+other agency is in a position to provide a Living Experience in a controlled
+environment, twenty-four hours a day over an extended period of time under leaders
+whose aims are directed to the growth of the individual youth as a whole person.**"
+Also "**Camp reveals a person's true self with the veneer stripped away**"; "camp is a
+diminutive city" where the camper "can learn in a controlled setting the role he will
+have to play when he reaches adulthood"; a conservation passage — "Youth also learns
+that the wondrously delicate balance of nature is only unbalanced by the meddling hand
+of man. If camping taught no other lesson than this, it would justify its role in the
+scheme of things"; and, on staff aged seventeen to twenty-five, "**We of the Ontario
+Camping Association know that many of our best citizens of the future will be those who
+come up through the ranks of our camps.**" It notes that "many camps have found it
+possible to encourage inter-cultural contacts by inviting counsellors from various
+ethnic groups and even from other countries."
+
+*The five recommendations, reprinted in full in the magazine:* (1) **recognition of
+children's summer camps as educational institutions**, "placed in a separate category
+and not grouped with tourist camps, motels and general resorts with reference to
+licensing" — the licensing category question a Quebec camp faced too; (2) financial
+help to implement the OCA's accreditation programme, which the brief calls "**a
+program of 'Desirable Camping Practices' as a condition of membership**" — note that
+this is a year after Yard's public argument against accreditation (issue 65), and the
+association has gone ahead; (3) staff training — duplicate **the Ontario Camp
+Leadership Centre at Bark Lake** elsewhere in the province, use Bark Lake and the
+Ontario Athletic Training Centre each June for advanced training of counsellors aged
+eighteen to twenty-five, subsidise winter courses, establish travelling lectureships
+to visit camps in summer, and give specific training grants; (4) **camp-sites** —
+provincial camps for short-period groups, "**acquisition of camp-sites for canoe
+tripping throughout the Province**," and "preservation of existing portages, public
+camp-sites, parks and wild life areas"; (5) an official OCA representative on any
+continuing body. **Bark Lake and the Ontario Camp Leadership Centre are Hart M.
+Devenney's institution** (issue 64) and appear nowhere in this project.
+
+**John Berges, "A Seed is Sown" — Children's International Summer Villages in
+Canada.** CISV "began in 1951 as a psychological experiment in international living,"
+grew from Cincinnati to thirty-five member nations and membership in UNESCO, and
+"**In 1957, CISV came to Canada**," with chapters in Waterloo County, Ottawa and
+Vancouver Island. Berges, a Kitchener high-school English teacher and chairman of the
+Waterloo County chapter, directed Canada's first two villages: **August 1964 at Camp
+Belwood near Fergus, Ontario, and July–August 1965 at Shawnigan Lake on Vancouver
+Island**, each of eleven-year-olds from Denmark, Norway, Sweden, France, Japan,
+Mexico, Guatemala, the Philippines, India, Holland, the United States and Canada.
+Method: national competition deliberately avoided on Olympic Day, "active
+participation was the only requirement"; a weekly **parliament session** in which the
+children debated "the purpose of this camp… cabin partners, tidiness, work projects,
+and general program," with recommendations acted on where possible; National Days on
+which each country's flag, anthem, customs, menu and culture were observed. Camper
+quotations are recorded verbatim, including "The big thing I've learned here is that we
+don't look alike outside but we all are inside," "I don't think we should tease Kiyoshi
+because he wears a 'belly-warmer'," and "I think we should change cabin partners every
+few days and also sit in a different place at every meal." Berges's aside on the
+Canadian National Day is the sharpest thing in it: "**Poor Canadians! Are apple pie and
+cheese, or bacon and sausages really Canadian? Does singing 'The Maple Leaf Forever' or
+performing a skit really constitute our culture? Well, we tried!**" This is the fourth
+international-exchange scheme documented in six issues, alongside the OCA/CUSO Jamaican
+programme, the CGIT 1967 Centennial Camper Exchange and the CCA's intercultural camping
+projects — a movement worth a paragraph wherever the wiki treats Kanawana's own
+exchanges.
+
+**Kirk Wipper, "Among Ourselves" — a full biography of Cecil Irwin, with substantial
+Quebec content.** Irwin is the "Irwin" whose "Canoe Trips" pamphlet the OCA printed
+for staff manuals (issue 68) and the "C. H. Irwin" of the Frog Derby (issue 63); this
+gives him a life. Born **24 June 1898** into a strict Methodist family, schooled in
+central Toronto "most regularly because his father was the first truant officer for
+the city." Boyhood detail worth keeping as Toronto social history: rowing "from the
+foot of Cherry Street to a camp on a beautiful sand bar on Ashbridge's Bay," driving
+cows across Danforth and Broadview to pasture on the Don flats "beneath the present
+Bloor viaduct which did not exist at that time," and in 1905 seeing "a ten inch catfish
+flop out of a hydrant in front of what is now Central Technical School." Logging near
+Norland just before the First World War; **enlisted 1916 as a naval wireless operator**;
+graduated from the School of Forestry **1922**, wrestling at 118 lb; summer forest
+reconnaissance at Petawawa 1919, Abitibi 1920, **Algonquin Park 1921 — "at which time
+he first came in contact with a canoe trip from an organized camp"** — Chapleau 1922,
+Hornepayne 1923.
+
+**The Quebec decade, 1924–34**, told by the Quebec land surveyor **Dermot I.
+O'Gallagher**: Irwin came to Quebec about 1924 "to take charge of the inventory of
+**Donnacona Paper Company** limits, some four hundred square miles in the **Laurentide
+National Park** — one of the most rugged areas in Canada east of the Rockies, and
+another large limit at **Sault-au-Mouton** on the North Shore." He "knew only
+school-room French, had never worn snowshoes… and lacked the stature one usually
+associates with 'Rugged Woodsmen'," so his men "dubbed him '**The Kid**' (after Jackie
+Coogan)"; O'Gallagher's crew "refused to give him even one man who understood English."
+Anecdotes: an uprooted toenail dressed with "birch bark sleeves, reinforced by adhesive
+tape — called them 'napkin rings'"; a late-autumn descent of the **Jacques Cartier
+River** with ice forming round the rocks "threatening to tear our canvas canoe"; and a
+January morning at 35 below when his men hoped work would be called off — "Cecil came
+out, put on his snowshoes and again scanned the thermometer… '**Hurrah, boys, only 33
+below — a little warmer — let's go!**'" He married **Jean Macdonald in 1928**, who had
+come from Nova Scotia to be **General Secretary of the Quebec City YWCA** — a named
+Quebec YWCA officer of the twenties. From **1929** he served four years as general
+inspector for the **Laurentian Forest Protective Association**, representing
+twenty-eight companies across twelve thousand square miles of North Shore limits as far
+as Shelter Bay and northwest of Lac St-Jean — a region that included the limits of the
+Quebec North Shore Paper Company, employer of "a young forest engineer, **Paul
+Provencher**." He belonged to the **Corporation of Forest Engineers of the Province of
+Quebec** and kept a **Quebec Log Scaler's licence**. O'Gallagher's verdict: "Their
+judgment of him is '**Il est parmi les meilleurs**'."
+
+**Sherwood Forest Camp**: the central forty acres selected in spring 1922 as a family
+vacation spot, the camp **opened 1934** and **closed at the end of the 1964 season
+after thirty-one years**, with Cecil and Jean Irwin living on site throughout and
+"almost all development and construction… carried out with materials from the camp
+grounds." The camp hosted University of Toronto forestry practice camps and Department
+of Lands and Forests courses for **log scalers and forest rangers from 1935 to 1955**,
+and "**Sherwood Forest Camp was, in fact, the forerunner of the present Ontario Forest
+Rangers School near Dorset**." Other detail: a Model T with block and tackle used to
+clear the playing field and wrench roots; **Harry Gauthier**, "an excellent artistic
+craftsman," who made "camp fittings such as the totem pole, or the boys' prayer
+inscription"; **Len Chellew**, sports then programme director; a **Sherwood Forest
+Christmas Camp** with horses and sleighs, skis, snowshoes and skates, ending in a New
+Year's Day dinner; a pet crow with a splinted wing that stole ping-pong balls and
+dive-bombed campers; five pet skunks one summer; and Irwin's conservation work on
+**loons**, whose nesting he found wrecked by man-made water-level fluctuation and by
+motorboat wake washing "the precious eggs into the water." His own passage on the loon
+is printed at length and ends: "**It is hoped that the form of a loon adorning a
+comparatively recent Canadian postage stamp will not prove to be an inadvertent
+memorial to this rapidly vanishing native of our land of many waters.**" Wipper's
+closing sentence is a call to action worth recording as camping's own conservation
+turn: "No more fitting tribute could be made to Cecil Irwin than to launch a serious
+programme of conservation, wild life and woodsmanship education in all our camps."
+
+**Eanswythe Flynn, "Why I Direct a Camp" (Camp Brigadoon)** — a girls' camp for
+teenagers, twelve staff, run with **Dr. Ballard** (compare "Joy M. Ballard, M.D." in
+the 1964 article catalogue). Programme built on Royal Life Saving, canoeing and Red
+Cross awards, "not for the prize itself, but for the satisfaction of accomplishment";
+tripping measured by what is seen rather than "numbers of miles covered or total hours
+paddled at one stretch"; the rock collection housed in "**Cairngorm**" and the nature
+collection in the "**Nature Nook**", with meals at "**Haggis Hall**" — more camp
+building names, like Wahcahmie's Piglet's Pub and Pooh Corner (issue 67). Two passages
+are unusual in this run and worth keeping for any account of camp health practice:
+"**Aspirin are not easily come by in our Infirmary. We want to know what is causing
+the pain or ache before it becomes dulled beyond recognition**," leading straight into
+talk of "the evils and dangers of pill taking, and, believe us, this kind of
+conversation today offers revelations beyond all imagination" — a 1966 camp director
+on teenage drug use. And the closing, on whether any of it works: "**Perhaps another
+generation will pass before we are sure that we have had any measure of success. At
+this moment… we can only watch and hope and wait for the years to tell.**"
+
+**Dr. G. MacGregor Grant (Minister, Rosedale United Church, Toronto), "Sermons Under
+the Sun"** — his annual "Holiday Reflections" sermon, printed in full at Kirk Wipper's
+suggestion so directors could draw shorter talks from it. Its documentary value is the
+first-hand description of **Camp Kandalore's Sunday worship**: "I attended Sunday
+morning services at the **Kandalore Chapel on an island in Lake Kabaka**… I was much
+impressed by the reverent atmosphere of these services and the obvious effect which
+they had on the boys. One of their favorite hymns which seemed particularly appropriate
+in that setting was **Mary Edgar's hymn: 'God who touchest earth with beauty, make me
+lovely too.'**" That is an outside observer confirming the hymn in actual camp use —
+useful wherever the project treats camp hymnody, since Edgar is both its author and
+this magazine's founder. Also a description of Wipper leading wildlife hikes (the
+butterfly's coiled proboscis, the dandelion parachute, the mosquito larva's snorkel,
+the cicada killer wasp as hypodermic), the minister's own hobby of collecting and
+mounting wild flowers — "**This summer I found 72 I had not found before**" — and the
+antithesis he draws between the newspaper (a strike, a rock through a Bayview Avenue
+window, "a gang of teen-age hoodlums", and "in Viet Nam, a horrible war had reached new
+levels of ferocity and slaughter") and the ordered life of Lake Kushog.
+
+**Notices and advertisements of record.** The CCA Board of Directors met 9 February
+1966 in the Education Building, University of British Columbia, and the **Annual
+Meeting was 7:30 p.m., 10 February 1966, Stanley Park Pavilion, Vancouver**. Bedding
+advertisements list exhibitor booths at both the **Ontario Camping Association
+Conference, 17–19 March 1966, Inn on the Park** and the **Quebec Camping Association
+Conference, 24–27 February 1966, Queen Elizabeth Hotel, Montreal** — the Quebec dates
+now given as 24–27 (issue 68 said 24–26), so use the range with that caveat. A YWCA
+advertisement seeks camp directors for **Winnipeg YWCA Camp Kinnaird** (near Kenora,
+Lake of the Woods; 1 May – 31 August 1966; **$1,000 to $1,500** according to
+qualifications) and for Calgary and Saskatoon YWCA camps — a rare printed **camp
+director's salary** for the mid-sixties, useful for anything the project says about
+what Kanawana's directors were paid. The ACA publication list now includes "**A Code
+of Ethics for Camp Directors**… available on green, parchment-like stock suitable for
+framing" and "**Camp Administrative Forms and Suggested Procedures in the Area of
+Personnel**… sample job descriptions, staff contracts, **staff appraisal**, and the
+A.C.A. Camp Staff Application Form" — two more named instruments for the
+staff-evaluation thread. Also advertised: Kenneth B. Webb, ed., ***Light from a
+Thousand Campfires*** (Burgess), an anthology of ninety-five articles screened by more
+than two hundred camp leaders — a likely place for further Canadian camp material.
+
+Nothing in this issue names Kanawana. Its value is the Tonakela date resolution, the
+OCA's brief with Ontario's 140,000 campers, Cecil Irwin's Quebec decade, and an outside
+witness to camp chapel practice.
