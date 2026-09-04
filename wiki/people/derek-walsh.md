@@ -1,6 +1,6 @@
 # Derek Walsh
 
-*Status: stub | Sources: 8*
+*Status: stub | Sources: 9*
 *Last Updated: 2026-09-04*
 
 ## Overview
@@ -37,7 +37,7 @@ Almost none of this is visible from Kanawana's own records. It comes from *Canad
 | **25–27 Mar 1977** | Presides over the English section's **40th anniversary conference**, receiving telegrams "from several spots around the world"^8 |
 | **1977–79** | **Chairman, CCA Public Relations and Promotion Committee** — the earliest date the chairmanship can now be given, from the association's own lists of committee chairmen for **1977-78** and again for **1978-79**, where he is the only Quebec name among fifteen committees, projects and task forces^8 |
 | **by Oct 1978** | Succeeded as QCA president by **Dr. Ken R. Willis**, which closes the two-year term at roughly spring 1976 – spring 1978; **Miss Frances Kelly** continues as the section's secretary^8 |
-| **1979** | Installed as CCA Vice-President under President Clifford Labbett^2 |
+| **25 May 1979** | Installed as **CCA Vice-President** under President Clifford Labbett, at the association's annual meeting at **Acadia University, Wolfville, Nova Scotia**, for the 1979-81 term; the same meeting heard Dr Ken Willis, his successor as QCA president, invite the association to hold its next annual meeting **in Quebec in the spring of 1980**^2 ^9 |
 | **1980** | CCA committees: Legislation; Public Relations and Promotion^2 |
 | **Dec 1980** | Agrees "to stay on as the representative of Quebec and Ontario until May, 1981"^2 |
 | **1981** | Author, *How to Promote Your Camp* / *Comment promouvoir votre camp vacances*, CCA/ACC, 4 pp., $0.75 — still catalogued in 1985^2 |
@@ -75,6 +75,7 @@ A camp director whose own 1977 report worried about promotion was, in the same y
 6. *Canadian Camping* Vol. 27 No. 2 (January 1975), the Canadian Camping Association Directory Issue — Quebec Camping Association accredited member camps listing and English Section officer list. Found by the full word-for-word read of the run (`kb/reread/cc_findings.md`, issue 103).
 7. John Latimer (Director, Kilcoo Camp), "A Summary of Points Related to Promotion and Public Relations," from a talk given to the Ontario Camping Association, printed in *Canadian Camping* Vol. 29 No. 1 (February 1977), pp. 3-4, 11 [src_ia_canadian_camping_collection]. Found by the same read (issue 111).
 8. "News and Views from Across Canada," *Canadian Camping* Vol. 29 No. 2 (March 1977), p. 1; "Cross Canada Checkup" (Quebec), Vol. 29 No. 4 (June 1977), p. 1; the list of "C.C.A. Committees and Projects for 1977-78," Vol. 29 No. 6 (December 1977), p. 10; the provincial association contact list, Vol. 30 No. 5 (October 1978), p. 11; and the list of C.C.A. Committees, Projects and Task Forces, Vol. 31 No. 2 (March 1979), p. 3 [src_ia_canadian_camping_collection]. Found by the same read (issues 112, 114, 116, 121 and 124).
+9. "C.C.A. Annual Meeting," *Canadian Camping* Vol. 31 No. 4 (June 1979), p. 2 [src_ia_canadian_camping_collection]. Found by the same read (issue 126).
 
 ## Research Notes
 

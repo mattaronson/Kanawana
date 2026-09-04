@@ -1,6 +1,6 @@
 # Environmental Education and Stewardship at Kanawana
 
-*Status: E1-reviewed | Sources: 34*
+*Status: E1-reviewed | Sources: 35*
 *Last Updated: 2026-09-04*
 
 ## Overview
@@ -82,6 +82,25 @@ He sets out a **Wilderness Travellers Creed**: "I believe that man can travel th
 The specifics are the part that would have changed practice at a camp like Kanawana. **Group size**: "Large groups do not belong in the wilderness. **The organization of trips with more than 20 people is bound to leave its mark on the ecology**… it is difficult to imagine how more than 10 people could spend a night in an undeveloped spot and leave no trace." **Fires**: never on the forest floor — find mineral dirt or rock, or lift and save the thin forest floor for replacement; keep the fire small enough that "any wood small enough to break with your hands" will do; and, because "**charcoal is pure carbon and will last forever, wood ashes on the other hand will dissolve in the soil with the next rain**," stop adding wood and scrape the embers together to burn out, then wet and scatter the ashes. **Human waste**: fifty feet from water, a hole eight by ten inches and "**not more than 6" to 8" deep, to stay within the biological disposer layer of soil**."
 
 This is the ethical counterpart to the safety framework rebuilt in the same years (see [[traditions/canoe-trips|Canoe Trips at Kanawana]]): between 1975 and 1979 a Quebec camp running wilderness trips was told, by federal regulation, by its own association's editorials, and now by its own association's ethics, to change how it travelled. Kanawana's later environmental commitments — the 1980 Nature Awareness programme, and the Green Shift a generation on — arrive in a movement where this argument had already been made in print.
+
+### Twenty environmental maintenance standards, June 1979
+
+Three months after "No Trace Camping," the association printed a numbered code of **Environmental Maintenance Standards** for camp sites, taken from a Conference of Canadian Interpreters and reprinted from the Alberta association's newsletter.^35 It is the most systematic statement in the run of what environmental responsibility meant for a camp's own property, as against its wilderness trips, and its opening premise is one Kanawana's 1970 erosion confession illustrates exactly: "**Most of our camps have occupied the same site for many years, and will stay on the same site for many more years. Since large investments in buildings have been made on those sites, the protection of the environment of our camps must therefore be a major concern.**"
+
+Several of the twenty are worth recording for what they show about 1979 practice:
+
+- **Composting** of food and organic waste, and "developing a 'waste' awareness among all camp personnel."
+- **Recycling** — "save tins, paper, aluminum, plastics, metal — store and arrange transport to recycling depots if practical" — and purchasing policies to match: "**can the use of paper dishes be justified**"; single-space administrative paper and use both sides; buy in bulk.
+- **Privies over flush toilets.** "Privies and outhouses to be considered **one of the best ways of disposing of body wastes — superior to the flush toilet**. Decentralize urinals and 'educate' campers and staff to have different attitudes toward the disposal of body wastes."
+- **Water as "a usable, but finite resource"** — leaky taps repaired, showers and baths "used with discretion."
+- **Motor boats questioned outright**: "Question the use of motor boats in the camp program."
+- **Campfires** — "plan alternatives to burning wood where it is scarce — avoid cutting living trees — use up and clear snags and dead wood."
+- **"'Camping without a trace' may be a slogan that could be used more and more. Question the idea of permanent out-trip sites that tend to become over-used and very destructive to the environment."**
+- **Trails as a system**, with provision "to 'rest' trails and paths when serious over-use occurs," alternative routes, and surfacing with sawdust, gravel and turf to let land recover.
+- **Erosion**, treated as programme as well as problem: "**Erosion areas become a fine program area for campers to see the results of poor land management.**"
+- **Reforestation** done "as part of the N.A. [nature awareness] program"; natural crafts practised without "using living trees and plants"; **noise pollution** reduced, with "**silent hikes and canoe trips**" proposed; natural areas on the property preserved with access planned so they stay natural; and off-season visits, because "seeing camp during all seasons will help develop a greater appreciation."
+
+Read against Kanawana's own record, the code names, in 1979, several things the camp would come to in its own time — the erosion problem it had confessed in 1970, the trail resting and reforestation of the 1980 Nature Awareness programme, and the composting and waste separation of the Green Shift a generation later.
 
 ### The 1970 erosion crisis
 
@@ -195,6 +214,7 @@ The Canadian Summer Camp Research Project (CSCRP, 2006–2011), conducted by the
 32. Park Slope Parents, Camp YMCA Kanawana review, November 12, 2023 [src_parkslopeparents_2023]. Retrieved successfully 2026-07-10 after two earlier timeout attempts.
 33. Kamp Kanawana season reports in the Concordia-digitized YMCA of Montreal fonds: *Annual Report 1964* [src_ia_kanawana_report_1964], *1969* [src_ia_kanawana_report_1969], *1970* [src_ia_kanawana_report_1970], *Director's Report 1987* [src_ia_kanawana_report_1987], and *Kanawana… A Place to Grow*, 1988 [src_ia_kanawana_place_to_grow_1988]; earlier acreage figures from the YMCA of Montreal annual reports and the 1936 CFCF broadcast [src_ia_ymca_montreal_annual_reports_collection, src_ia_ymca_montreal_fonds_collection].
 34. Kevin Redmond, "No Trace Camping," *Canadian Camping* Vol. 31 No. 2 (March 1979), pp. 6-7, 12 [src_ia_canadian_camping_collection]. Found by the full word-for-word read of the run (`kb/reread/cc_findings.md`, issue 124). A statement of wilderness ethics circulated to every accredited Canadian camp, not a Kanawana document.
+35. "Your Camp and Its Environment," *Canadian Camping* Vol. 31 No. 4 (June 1979), pp. 3, 12 [src_ia_canadian_camping_collection] — twenty Environmental Maintenance Standards developed at a Conference of Canadian Interpreters, reprinted from the Alberta Camping Association *Newsletter*, May 1979. Found by the same read (issue 126). A national code circulated to accredited camps, not a Kanawana document.
 
 ## Research Notes
 

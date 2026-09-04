@@ -22408,3 +22408,108 @@ loaf, pork or chicken fried rice, southwestern sloppy joes, macaroni and cheese 
 of macaroni, 6 lb of cheese), and no-cook oatmeal squares. A canoe "in and out" race for regattas in
 which paddlers must jump out and re-enter without dumping when the whistle blows, "for staff and
 senior campers as it demands a lot of strength as well as skill."
+
+---
+
+## 126 — Vol. 31 No. 4, June 1979
+
+Twelve pages. Every item accounted for: C.C.A. Annual Meeting; Your Camp and Its Environment (twenty
+Environmental Maintenance Standards, concluded on p. 12); The Counsellor's Page — Anyday Ideas; the
+Closeup Checklist over four removable pages; Thought for Food; Coming Events; Sanitation and Health;
+the Royal Chinet advertisement. **Kanawana is not named, but its former director is installed as a
+national vice-president.**
+
+**★★★★ DEREK WALSH'S VICE-PRESIDENCY, DATED AND PLACED.** The CCA's annual meeting was held at
+**Acadia University, Wolfville, Nova Scotia, on Friday 25 May 1979**, and the report records "the
+Installation of the new President, **Clifford Labbett**, and Vice-President, **Derek Walsh**." The
+wiki already had "1979 — Installed as CCA Vice-President under President Clifford Labbett"; **the read
+adds the day, the place and the occasion**, and `people/derek-walsh.md` has been updated (sources 8 →
+9). The full 1979-81 executive: **President Emeritus F. M. Van Wagner; President Clifford Labbett;
+Immediate Past President Jack Pearse; Vice-President Derek Walsh; Secretary Elizabeth Greenway;
+Treasurer Wayne Perkins.**
+
+And a Quebec item to watch for: "**Kenneth Willis extended an invitation to hold the [next] Annual
+Meeting in Quebec in the Spring of 1980.**" (The text as printed says "the 1979 Annual Meeting", which
+is a slip for the next one.) **A CCA annual meeting in Quebec in spring 1980 would be the first
+national meeting on Kanawana's home ground since 1976, and its records would be a target** — watch
+for the report of it as the read continues.
+
+**Awards of Honour** went to **David Boston** (a past president of the CCA), **Gary Luthy**, **Nestor
+Kelba** (also a past president), **Lorne Bowering** and **Jack Pearse** on retiring from the
+presidency.
+
+**★★★ A ONE-YEAR DISCREPANCY ON CANADA'S FIRST CAMP, FROM THE CCA'S OWN PRESIDENT.** Opening the
+meeting, Jack Pearse "**emphasized the fact that organized children's camping began in Nova Scotia in
+1890**." `canadian-camping-movement.md` states 1889 for Big Cove YMCA Camp, sourced to an
+encyclopaedic entry. Pearse, speaking to the Nova Scotia association on its own ground, said **1890**.
+**Flagged in the article rather than resolved** (new sub-source 8ah), with the note that neither date
+is documented there from a primary record, that a single year may be the difference between founding
+and first full season, and that Kanawana's position as Canada's second-oldest camp is unaffected
+either way.
+
+**★★★ TWENTY ENVIRONMENTAL MAINTENANCE STANDARDS — the site-side counterpart to "No Trace Camping".**
+Developed at a **Conference of Canadian Interpreters** and reprinted from the **Alberta Camping
+Association Newsletter, May 1979**. The premise is exactly Kanawana's 1970 problem: "**Most of our
+camps have occupied the same site for many years… Since large investments in buildings have been made
+on those sites, the protection of the environment of our camps must therefore be a major concern.**"
+**Written into `traditions/environmental-history.md` as a new section (sources 34 → 35)**, placed
+before the 1970 erosion crisis.
+
+The standards worth quoting: composting and "**developing a 'waste' awareness among all camp
+personnel**"; recycling with transport arranged to depots; purchasing policy — "**can the use of
+paper dishes be justified**" (printed three pages from a full-page advertisement for disposable
+plates, which is its own comment); "**Privies and outhouses to be considered one of the best ways of
+disposing of body wastes — superior to the flush toilet**"; water treated as "**a usable, but finite
+resource**"; "**Question the use of motor boats in the camp program**"; campfire wood taken from snags
+and dead wood, never living trees; "**'Camping without a trace' may be a slogan that could be used
+more and more. Question the idea of permanent out-trip sites that tend to become over-used**";
+**trails rested and re-surfaced when over-used**; erosion turned into programme — "**erosion areas
+become a fine program area for campers to see the results of poor land management**"; reforestation
+run through the nature awareness programme; **noise pollution reduced, with "silent hikes and canoe
+trips"**; natural areas preserved with access planned to keep them natural; and off-season visits
+"during all seasons."
+
+**★★ THE CLOSEUP CHECKLIST — four pages designed to be torn out, and a record-keeping instruction
+that matters.** "These four pages may be easily removed from *Canadian Camping* and used as your
+individual check list", and the framing sentence names the problem this project keeps meeting: "**It
+could be very useful in camps where continuity of leadership is not always easy.**"
+
+Its detail is the fullest closing-up procedure in the run, and several items are **inventory
+instructions with two copies and two named holders** — food inventory, dishes, cutlery, pots and pans,
+each with "____ has one copy / ____ has the other". **That is a camp record class with a known form**,
+and worth asking Concordia for by name alongside the per-building files (issue 118). The rest:
+freezers left open with a screen over the top "**to prevent animals from being trapped inside**";
+mattresses on their sides; screens removed and **labelled on the edge**; tents dried, rolled and
+labelled; **tent platforms lifted to an angle so water drains**; packs scrubbed and hung upside down;
+**paddles and oars hung up or laid flat to prevent warping**; maps checked for dryness and rolled;
+fire extinguishers checked and containers emptied and stored upside down; wiring checked for worn
+areas; **piano lids left open to prevent the wires rusting**; chimneys covered; ashes down the
+privies; boats painted in the fall so the coat hardens and the spring is not rushed; brooms laid flat
+or hung "so the ends do not bend out of shape"; and mothballs collected after use and stored sealed
+for the following year.
+
+**★ Sanitation, with a national push behind it.** "**Departments of health are now suggesting with
+increased urgency that camps have sufficient 'ablution tables' (handwashing areas)**", illustrated
+with an outdoor structure from **Camp Onondaga near Huntsville** — solid roof, cement pad, access from
+two sides. A dated instance of provincial health departments pressing camps on a specific fixture, and
+a small addition to the regulatory picture `p_314` is assembling.
+
+**★ "Anyday Ideas" for counsellors** — a period list of what filled unstructured time at a Canadian
+camp in 1979, and useful comparative material for reading Kanawana's programme records: "**Leave
+Something Behind**" (build new steps, a pathway, a railing, or split wood for the fireplace); a Games
+Day with "**a waterboiling contest, cutting seats in a log, caber toss, three legged race, fire
+fighting contest, egg throwing contest and log sawing**"; a natural-object scavenger hunt; a **night
+walk with no flashlights** allowed, "stopping just to listen"; indoor "TV TIME" games — Name That
+Tune, Password, Twenty Questions; **campers making Christmas cards for each other in the summer for
+the counsellor to post in December**; "**'Battleship' — a camp classic — ask about it!**"; gymnastics
+on mattresses moved to the floor; a camp newspaper or gossip column read at a meal; treeforts; and
+**raft-building** — "camp may provide them with the only opportunity they will ever have to try this
+activity."
+
+**Minor.** Recipes for fifty — chili simmered uncovered for three hours, Hungarian goulash from 15 lb
+of stewing beef, sweet and sour chicken or pork. Coming Events for 1979-80: CCA Fall Board Meeting
+**Saskatoon, 1-2 November 1979**; OCA Director's Weekend at **Bolton, 9-11 November**; Alberta
+conference and CCA Executive at **Vancouver, 24-25 January 1980**; BCCA conference the same days; the
+**ACA's "Widening Worlds of Camping" at Boston, 11-16 February 1980**; OCA annual conference
+**Toronto, 6-8 March 1980**. The editor, **Brian Blackstock**, asks readers to send maintenance hints
+for the October issue.

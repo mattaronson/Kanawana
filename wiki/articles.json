@@ -2242,6 +2242,13 @@
           "by": "auto",
           "task": "VERIFY",
           "note": "Word-for-word read of Canadian Camping, issue 123 (Vol. 31 No. 1, February 1979): flagged a date discrepancy between the article's own sources -- source 8c gives the CCA's Letters Patent as 4 November 1949, the association's 1976 Directory Issue (8y) gives 5 November 1949. Not resolved; neither date treated as settled. Added the association's February 1979 self-description, 'It began in 1936 and became incorporated in 1949', as the day-free version, plus its statement of purposes, its automatic-membership rule and its dependence on Fitness and Amateur Sport funding. Sub-source 8ag."
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-09-04",
+          "by": "auto",
+          "task": "RESEARCH",
+          "note": "Word-for-word read of Canadian Camping, issue 126: flagged a one-year discrepancy on Canada's first camp -- the article gives Big Cove as 1889 from an encyclopaedic entry, while CCA president Jack Pearse told the association's annual meeting in Nova Scotia on 25 May 1979 that organized children's camping in Canada 'began in Nova Scotia in 1890'. Recorded, not resolved; Kanawana's position as second-oldest is unaffected. Sub-source 8ah."
         }
       ],
       "ralph_loops_completed": 1,
@@ -6006,6 +6013,13 @@
           "by": "auto",
           "task": "RESEARCH",
           "note": "Word-for-word read of Canadian Camping, issue 124 (Vol. 31 No. 2, March 1979): new section '\"Leave no trace\" reaches Canadian camping, 1979' -- Kevin Redmond's No Trace Camping, its Wilderness Travellers Creed, and its specifics on group size (never more than 20, ideally under 10), fire technique on mineral soil with ashes scattered rather than charcoal left, and waste buried within the biological disposer layer. Circulated to every accredited Canadian camp; explicitly not a Kanawana document. Sources 33 -> 34."
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-09-04",
+          "by": "auto",
+          "task": "RESEARCH",
+          "note": "Word-for-word read of Canadian Camping, issue 126: new section on the twenty Environmental Maintenance Standards printed in June 1979 -- composting, recycling, purchasing policy, privies rated above flush toilets, water as a finite resource, motor boats questioned, campfire wood from snags only, 'camping without a trace', trails rested and resurfaced, erosion used as programme, reforestation, silent hikes and canoe trips. A national code circulated to accredited camps, not a Kanawana document. Sources 34 -> 35."
         }
       ],
       "ralph_loops_completed": 4,
@@ -9942,6 +9956,13 @@
           "by": "auto",
           "task": "RESEARCH",
           "note": "Word-for-word read of Canadian Camping, issue 124: the association's list of committee chairmen for 1978-79 again names Walsh as chairman of Public Relations and Promotion, so the table row now reads 1977-79 from two consecutive published slates, and he remains the only Quebec name among fifteen committees, projects and task forces. Source 8 extended."
+        },
+        {
+          "status": "stub",
+          "at": "2026-09-04",
+          "by": "auto",
+          "task": "RESEARCH",
+          "note": "Word-for-word read of Canadian Camping, issue 126 (Vol. 31 No. 4, June 1979): the CCA vice-presidency dated and placed -- installed at the annual meeting at Acadia University, Wolfville, on 25 May 1979, under President Clifford Labbett, for the 1979-81 term; the same meeting heard Ken Willis invite the association to meet in Quebec in spring 1980. Sources 8 -> 9."
         }
       ],
       "ralph_loops_completed": 0,

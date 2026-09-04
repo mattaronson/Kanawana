@@ -16,6 +16,8 @@ The earliest known Canadian camps:
 | Year | Camp | Location | Type |
 |------|------|----------|------|
 | 1889 | Big Cove YMCA Camp | Merigomish, Nova Scotia | YMCA residential |
+
+**A one-year discrepancy on that first date, flagged 2026-09-04.** Opening the Canadian Camping Association's annual meeting at Acadia University on 25 May 1979, its president Jack Pearse "**emphasized the fact that organized children's camping began in Nova Scotia in 1890**."^8ah The 1889 date used above comes from Big Cove's own encyclopaedic entry;^1 Pearse, speaking to the Nova Scotia association on its own ground, said 1890. Neither is documented here from a primary record, the gap is a single year, and it may be the difference between a camp's founding and its first full season. It is recorded rather than resolved, and Kanawana's position as Canada's second-oldest camp is unaffected either way.
 | 1893 | Keewaydin Camp | Founded in Maine by A.S. Gregg Clarke; moved to Temagami, Ontario (~1902) | Private canoe camp |
 | 1894 | Camp Jubilee (Kanawana) | Lake Saint-Joseph, Quebec | YMCA boys' camp |
 | 1900 | A.L. Cochrane's camp | Ontario | First private camp in Ontario |
@@ -214,6 +216,7 @@ The CCA published *Canadian Camping* magazine from 1949 to 1988; digitized issue
 8ae. "Hiring Staff? Immigration Regulations Concerning Camp Staff from Foreign Countries," *Canadian Camping* Vol. 30 No. 3 (May 1978), p. 10, quoting a letter from Duncan R. Campbell, Executive Director, Labour Market Policy, Ministry of Employment and Immigration, to Jack Pearse, President of the CCA. Found by the same read (issue 119).
 8af. "President Emeritus" (the appointment of F. M. Van Wagner, with his reply reproduced in facsimile); Jack Pearse, "Go East… Old Man"; and Alan F. Klein, "For a Happy Camper," an address to a CCA conference in Montreal in 1960 — all in *Canadian Camping* Vol. 30 No. 6 (December 1978), pp. 2, 4-5, 10, 1, 8-9, 11. Found by the same read (issue 122).
 8ag. "Canadian Camping Association — What Is It? Why Is It?", *Canadian Camping* Vol. 31 No. 1 (February 1979), pp. 2, 12 — the association's own statement of its origin, purposes, membership rule and funding. Found by the same read (issue 123).
+8ah. "C.C.A. Annual Meeting," *Canadian Camping* Vol. 31 No. 4 (June 1979), p. 2 — the report of the annual meeting at Acadia University, Wolfville, 25 May 1979. Found by the same read (issue 126).
 
 ## Research Notes
 
