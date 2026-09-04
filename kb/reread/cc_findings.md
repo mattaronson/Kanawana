@@ -16520,3 +16520,292 @@ merged Quebec association; the 115-person Quebec seminar on staff policy and cam
 Powter writing from his own Quebec camp, closing a loop with issue 53's account of its 1893
 founding; the CCA's restructuring into regions; the Publications Committee's printed admission that
 it could not agree to publish the youth-culture articles; and Mitchell's fire-safety document.
+
+---
+
+## 92. Vol. 24 No. 1, Fall 1971 — `canadiancampingmagazine_vol24_no1_1971fall.txt`
+
+*Contents page*: A Letter from the President (John Latimer); C.C.A. Canoeing Instructors School
+(Andrea Dillon); Relations moniteurs-campeurs / Camper-Counsellor Relations (Bruno Roy); Horses
+for Sale (Hendrick Roessingh); As Camp Closes (M. C. MacCulloch); Unique Aspects of Waterfronts
+in Ocean Environments (Tom Creighton); The Canadian Camping Magazine and How We Came By It
+(Charles F. Plewman); The Society of Camp Directors (Clifford Labbett); Letters to the Editor;
+Books for Camp; Post-Camp (Jody Ashenhurst). All twelve checked against the read; all covered
+below, plus the bilingual canoe-school report by Susan Cousineau.
+
+**★★ CHARLES PLEWMAN, "The Canadian Camping Magazine and How We Came By It" — the magazine's own
+founding history, by the man who founded it, and it changes the CCA's founding question.** This
+is the single most important document the read has found for `meta/sources-index.md`, and it
+belongs there in full when that section is written. The chronology as he gives it:
+
+- **Autumn 1944.** Plewman, "one of the 'old guard' who had still managed to evade office (I was
+  secretary of the Toronto Red Cross and had Kilcoo Camp on my hands), **I was literally drafted
+  into the presidency**" of the OCA — formed "eleven years before," i.e. **1933**. His diagnosis:
+  **"Ninety percent of all the camps in Ontario emanated from Toronto and all of the O.C.A.
+  officers came from the same place. We were an Ontario Camping Association but in name only."**
+  War had reduced camp conferences to sporadic events, so "the answer was clear, we needed a
+  magazine or bulletin of some kind to draw us closer together."
+- **★ He approached the T. Eaton Company, which financed the first edition** — "As an association
+  we were poor and just didn't have the money." **"Next I asked the one and only Mary Edgar to act
+  as Editor and she agreed."**
+- **★ "Before very long, I think it was in 1946, the Canadian Camping Association was formed at a
+  meeting held in the Chateau Laurier in Ottawa."** With the qualification that "**while it was
+  called the Canadian Camping Association, in reality, nearly all of its members were
+  representatives from the Ontario and Quebec Associations. To the best of my knowledge no other
+  Province had a camping association**," and that "**for the moment it had no corporate
+  existence**."
+- **1947**: "To the credit of the Ontario Camping Association, and its vision of the Canada of
+  to-morrow, **it closed out the Ontario Bulletin in 1947 and threw its entire resources behind
+  'Canadian Camping', a mimeographed bulletin published quarterly and edited as before by Mary
+  Edgar**… It was not by accident that we called it the Canadian Camping 'bulletin'. One could
+  not call a mimeographed affair a magazine."
+- **★ "The first real Canadian Camping 'magazine' was published in February of 1949 when for the
+  first time it appeared in print."** — **which is exactly where this project's 164-issue run
+  begins.** So the run is complete from the magazine's first printed issue, and the mimeographed
+  1947–48 *bulletin* that preceded it is a separate, earlier body of material that this project
+  does not hold.
+- Funding again: "owing to lack of funds, this important development would not have been possible
+  had not **Mr. Fred Haiblen of Toronto** stepped in and assumed the financial responsibility."
+- **Editors**: "Miss Mary Edgar gave continuity to the magazine by acting as its editor for **five
+  more years** and was succeeded by **Mrs. G. W. Flynn**."
+- **★ And the first editorial**, by **"Miss Dais L. Gass, president of the C.C.A. in 1946"** —
+  quoted: *"Now it starts in its humble way — may it grow like the acorn and the oak, but most of
+  all may it prove a tie between all of us in Canada. We can learn much from each other. May
+  Canadian Camping weave a bond of understanding, of mutual helpfulness and good will from sea to
+  sea, and from the rivers to the end of the earth."* **Dais L. Gass — the Montreal name second on
+  the CCA past-presidents roll, marked deceased, and still without a KB fact or wiki mention
+  (issue 82) — is here identified as CCA president in 1946 and author of the magazine's founding
+  editorial.** That is now enough for a stub on its own.
+
+**★★ And the consequence for `canadian-camping-movement.md`.** The article records the CCA founded
+**1936** at the Central Y.M.C.A., Toronto, and flags a Camp Stephens source claiming McEwen
+"founded the Canadian Camping Association in 1946," reasoning that this "may relate to a 1946
+reorganization." **Plewman is a second, independent, first-hand source for 1946 — and he supplies
+a venue, the Château Laurier in Ottawa.** He hedges only the year ("I think it was in 1946"), not
+the event. This does not overturn 1936, which is documented and which Plewman, writing
+twenty-five years later, may simply have passed over; but it makes the reorganisation reading
+substantially more likely than an error, and it turns a vague suspicion into a checkable
+question: **what happened at the Château Laurier in 1946.** The CCA's own minutes, in the OCA
+archives deposited at Trent in 1970 (issue 88), are where to look. **Article patched, source `8t`
+added**, together with his statement that the 1946 membership was effectively Ontario and Quebec
+only.
+
+**★ CLIFFORD LABBETT (Director, Camp Oconto; President, Society of Camp Directors), "The Society
+of Camp Directors" — the Society's own account, and it contradicts issue 84 on one date.**
+Labbett gives the inaugural dinner as **"held at the Rosedale Golf & Country Club, Toronto, on
+May 12, 1969," with fifty-seven members attending**. **Issue 84 printed Ebbs's founding address
+as delivered at "the Founding Banquet held at the Rosedale Golf Club, Toronto on May 21st,
+1969."** Same venue, same event, **12 May against 21 May** — a nine-day discrepancy between the
+magazine's own two accounts two years apart. **Record both; resolve neither.** New detail from
+Labbett:
+
+- Origin: **"The Society is the brain child of Dr. Harry Ebbs of Taylor Statten Camps,"** the
+  first seeds being a **questionnaire sent to OCA members in 1968** and reported back at the OCA
+  spring conference that year.
+- **Purpose**: "to establish and maintain professional practices in the directing of childrens'
+  camps and to ensure qualified directorship in such camps."
+- **Structure**: a board of five, three-year terms, electing its own officers; three membership
+  classes — **Fellows** (senior camping practitioners and those in allied disciplines),
+  **Honorary Fellows**, **Emeritus Fellows** (retired for age, health or long service).
+- **★ Honorary Fellows elected at the inaugural dinner: Mary Edgar, Ferna Halliday, Mary
+  Hamilton, Charles Plewman, Mrs. Taylor Statten.** Four of the five had died or would die within
+  four years (Halliday 1970, Ethel Statten 1970, Edgar 1973) — the roll is effectively the
+  movement's surviving founders honoured at the last moment.
+- **First board**: Ebbs, Ron Johnstone, Clifford Labbett, Bruno Morawetz, **Dr. Elsie Palter**
+  (note the doctorate, not given at issue 84); Ebbs elected first president.
+- **Meetings twice a year, second Thursday of November and April.** Papers to date by **Donald
+  Groff, Joseph Kronick, Bruno Morawetz, Mary Northway, David Palter, Jack Pearse, Elizabeth
+  Raymer, Stanley Wild, Kirk Wipper** — "many of these papers have been reproduced in Canadian
+  Camping and American publications," which is why so many have surfaced in this read.
+- **★ Two current projects**: a **$500 Research Fund for any undergraduate wishing to research
+  some aspect of children's camping**; and, with the OCA, **"a joint proposal to have stricter
+  licensing of childrens' camps in Ontario and to have the O.C.A. made the governing body in
+  Ontario"** — the licensing campaign David Palter argued for at issue 88, now formally under way.
+- Fee **$25 a year**, covering two dinner meetings and copies of the papers. Secretary: **David
+  Palter, 80 Old Colony Rd., Willowdale**.
+
+**★★ PLEWMAN ANSWERS ED LA PIERRE — a direct generational exchange in print, one issue later.**
+Issue 91 printed la Pierre's unedited piece over the Publications Committee's objection; here
+Plewman replies at length, and the two together are the best single record of the argument
+Canadian camp leadership was having in 1971. His seven points, in his own words:
+
+- "the writer appears to be somewhat belligerent and evidently is **another one of the angry
+  young men who thinks all people over 35 should be cremated**." He offers his own family as
+  counter-evidence: "there are many closely knit families which have never experienced a
+  generation gap that has resulted in hostility."
+- On la Pierre's addressing only adults: "**Nothing needs saying about the younger generation for
+  with them everything is hunky dory.**"
+- On camper control: "I am willing to concede that adults should have done a better job in
+  sharing with the campers on the decision making level, **but to say that we should abdicate and
+  turn everything over to inexperienced youngsters to run is sheer unadulterated nonsense**… The
+  program and the ongoing life of camp should be the results of two age groups sharing and not of
+  any one age group dominating." And the safety argument: "Can anyone imagine the increase that
+  would take place in the number of campers injured… and the loss of life by drowning."
+- **On authority as parental substitute** — the exchange's real crux: la Pierre wrote that "most
+  camp administrators and supervisors look upon their authority as replacing that of the parent";
+  Plewman answers, **"What is wrong with that? I would say that it is to the credit of Camp
+  Directors that they have personally felt a real responsibility for everything that had to do
+  with the welfare and happiness of those entrusted to their care. Organized camping has
+  flourished in Canada because of the confidence that parents have come to feel about those who
+  operate them."**
+- **On age**: "a good deal of what he says would have some application to youth of from 17 on,
+  but when he applies the same philosophy to an age group of 7 to 16 he just misses the boat.
+  **What have the communes he refers to got to do with this age group?**"
+- **On whether camps were losing children**: "I have just passed through a camp of 200 boys. I
+  don't know where you could find a happier gang of kids… **camps are just as popular as ever
+  with the 8 to 14 year olds and as for those older, it never has had too great an appeal.**" A
+  useful corrective, from an eighty-year-old, to the period's own crisis talk.
+- On drugs and sex: "What, speaking positively, does Ed want? Free love! Drug usage! License! His
+  real hang-up however seems to be authority… **let him remove the police from any city for two
+  weeks and he will get his answer in big capital letters.**"
+
+And then, having spent seven points defending his generation, he ends by turning on it:
+**"Personally, I have to admit that I believe that a good group of 35-year-olds, if sitting in the
+seats of the mighty, would do a better job of solving the world's problems than the present tired
+outfit schooled in the out moded practices of the past, but that's an entirely different story."**
+
+**★ THE CANOEING INSTRUCTORS SCHOOL, dated and located.** Andrea Dillon: **"The Canoeing
+Instructor's School was first started in 1967 with a small group of enthusiastic canoeists under
+the direction and guidance of Claude Cousineau and Professor Kirk Wipper. The canoe school has
+just finished its fifth year."** That is consistent with issue 79's "second… course, 22–29 June
+1968" and issue 82's "third year… 1969". After four years the single course split into **two
+eight-day sessions, one French and one English** — "much of the course's time was taken up in
+translating material due to the two languages." Susan Cousineau's bilingual report gives 1971 in
+full: **held at the University of Ottawa Camp near Gracefield, Quebec; French session 8–15 June,
+English 16–24 June; a second-year grant from the Fitness & Amateur Sport Division covering travel
+for candidates from outside Quebec and Ontario and reducing the fee to $30.00 for eight days;
+administered by the Department of Recreology, University of Ottawa; about seventy candidates from
+almost every province, of whom 34 received the "Instructor" mention** — all 34 named. Staff:
+Cousineau (director), **Wipper as guest professor**, Gerry Fassett, Daniel Gauvreau, Réjean Vachon,
+Jean-Pierre Faubert, Howard Rosenthal, Doug Wipper, Suzanne St-Pierre, Susan Cousineau, Andrea
+Dillon. New that year: **a three-day canoe trip within the session and the use of a video-tape
+machine** ("L'introduction du ruban magnétoscopique facilita l'apprentissage de certaines
+manoeuvres en canot"). The course's shift is worth noting: from "a canoe instructor skilled in the
+techniques of strokes and dock teaching" toward **tripping programme organisation — budgeting,
+equipment, food, pre-trip training** — because "many canoe programs are now increasing the
+performance of tripping." *Note the discrepancy*: Dillon says the canoe trip is two days, Cousineau
+says three; the French text says the expedition "fut allongée d'une journée," which reconciles
+them. **A Quebec-located, federally funded national school certifying canoe instructors from 1967
+— the certification behind any "CCA canoe instructor" appearing in a camp's staff record.**
+
+**★ Bruno Roy (Camp St-Arsène), "Relations moniteurs-campeurs" / "Camper-Counsellor Relations"** —
+printed in both languages, translated by the Canadian Amateur Sports Federation, and the most
+theoretically serious treatment of the counsellor's role in the run. He works through **three
+leadership types**: *autocracy* (fixed rules, arbitrary decisions, "tout est 'sécurisation' pour
+une apparente harmonie," producing "une sorte de résignation plus ou moins consciente manifestée
+par une soumission collective"); *anarchy* ("c'est le règne de la 'loi du plus fort'… la dictature
+du 'leader' improvisé," where "les plus faibles sont négligés"); and *democracy*, which he
+endorses. On discipline, three positions worth recording: **"la discipline est avant tout une
+attitude de coopération. Cette attitude élimine le pesant problème de l'autorité"**; **"moins on a
+d'autorité réelle plus les marques extérieures se font importantes et répétées"** — the less real
+authority you have, the louder its outward signs; and the prohibition, which is now the fourth
+such statement in this run, **"Dans l'obligation d'une sanction à imposer, elle ne sera ni
+collective ni corporelle"** — neither collective nor corporal — with the addition **"Il doit
+éviter également d'humilier un campeur en public."** On fairness: **"La ségrégation réside souvent
+dans la tête du moniteur"**, and "justice ne veut pas dire 'rasage' (tout le monde au même
+niveau)… **Chaque campeur a un droit strict d'être éduqué pour lui-même.**" On affection, the most
+unusual passage: a warning that young counsellors are "joué des tours avec leurs sentiments" and
+must not seek gratitude — quoting a teacher friend, **"Il n'y a pas de plus riche amour que la
+dépossession… Ce sont mes élèves et non pas 'mes' élèves 'à moi'. Ils s'appartiennent."** And the
+plain statement that **"Le campeur a besoin que la tendresse lui soit révélée."** A francophone
+Quebec camp director writing on counsellor-camper emotional relations in 1971, published nationally
+in both languages — directly relevant to the `p_307` thread as the period's own ethical framing.
+
+**★ Hank Roessingh (Silvercreek Ranch, Calgary; National Standards Chairman, CCA), "Horses for
+Sale."** A deadpan twelve-year verdict against camp riding programmes, and genuinely useful
+practical history. **"After twelve years of operating a camp with a horseback riding program as
+one of the main features, my wife and I have come to the firm conclusion that it isn't worth it…
+We are going to trade in our horses for canoes, flood part of our campsite, and have a waterfront
+program."** His reasons: staffing — "**just because we were ill advised enough to call our camp a
+Ranch, we attract applications from youngsters all over the continent who claim to know at least
+what a horse looks like… Any counsellors with skills like crafts, singing, campcrafts, nature
+study… send their applications elsewhere**"; the horses themselves ("they forget everything you
+have taught them in months of training as soon as a camp kid gets on them, but remember such
+stupid things as which side should be curried first"); the year-round cost ("horses are an
+all-year worry and an all-year expense," against canoes which you "come back in spring to give
+them a coat of paint"); and buying — "**No seller will ever admit to selling a horse more than
+eight years old**," prairie horses that "have never seen a tree… walk under branches that scrape
+the kids off their backs," and neighbours for whom "there is a year-around open season on city
+slickers." His last line: "**A canoe is a canoe; no favorites, just stick the kids in and shove
+them off. What a relief. Anybody want to buy my horses? Or trade them for canoes?**" Set beside
+Jaye Hickey's riding-safety article at issue 85, this is the other side of the same programme
+decision — and a reminder that a camp's activity list is an economic document.
+
+**★ M. C. MacCulloch, "As Camp Closes" — four letters between a director and a departing
+counsellor, and the best thing in this run on why staff return.** His fourth contribution
+(discipline 83, dining room 89, homesickness 91). It opens on the empty camp: "the rustlings,
+scratchings and murmurings announced the camp's repossession by squirrels, chipmunks, and field
+mice. **A collective sigh of Nature's relief seemed to waft through the trees**… Raccoons,
+groundhogs and rabbits have taken up the business of living undisturbed and unhampered by us, the
+aliens." Stan, now at university, writes that he will not return: **"There is a magic about camp —
+but prolonged magic is unreal… Camp is for the kids — and if I went back for the purpose of having
+a good time or recapturing memories rather than for the kids, I would be a hypocrite."** Clare's
+reply is the argument: **"Camp doesn't drain into your system any 'X' amount of happiness,
+fulfilment, reward or experience and then stop, measuring your portion as complete"**; "Emotions do
+not change, only the method, and the setting of the telling varies. **Don't expect to find a new
+theme away from camp**"; "**the magic is not childlike. It is not prolonged for adults. Every new
+camper, every new counsellor, every new day starts it all over again**"; and, on why an adult
+should be there for himself as well as the children, "My students ask me why we must study poetry.
+Does that mean I should stop?… **One child per summer makes it worthwhile and an excellent
+record.**" Also quoted from what the director reads to staff each year — camp text worth having:
+**"All is a tremendous responsibility here but also a tremendous opportunity for all of us. And so
+I believe in children, and so I believe in good camps, and so I believe in this camp and I know
+why. What do you believe in and why?"** and "**there is a magic about this camp. It gets into your
+blood and once there you cannot get it out.**" Stan's final letter turns, quoting Phil Ochs —
+"There but for fortune may go you or I" — and ends: "**P.S. Would you please send me an application
+form. You have a job I wish to apply for!**"
+
+**★ Tom Creighton (Director, YMCA Big Cove Camp; former president, NSCA), "Unique Aspects of
+Waterfronts in Ocean Environments."** The only saltwater-camp article in the run, and specific
+enough to be useful. **Big Cove is the camp this project has recorded as founded 1889, predating
+Kanawana** — here its director writes about running it. The romance first ("the aroma of low tide
+on the beach… the sight of the yellow sea weed waving in the waves"), then: **"the practical camp
+director… says that the sea is a pain in the neck when running a camp."** The technical content:
+**camps in the Bay of Fundy "must realistically develop swimming pools rather than utilize the
+ocean as the costs and difficulties of dealing with 24-foot tidal variations are staggering"**; a
+tidal waterfront "may only be one third usable at low tide," needing a much longer dock; **raking
+the beach becomes a regular maintenance chore**, with shells "the bane of the band-aid dispensers";
+three regional dock designs (BC's permanent creosoted pilings to a ramp and float; the east's
+rock-filled cribs, or portable styrofoam-supported docks removed in the fall for ice); **currents
+from changing tides "especially in constricted waters"** as a supervision problem; and the
+maintenance reality — **"A piece of wood left in warm salt water will be reduced to a sponge-like
+consistency within a summer,"** barnacles and boring animals requiring "a continuous cycle of
+scraping, treating, and replacing," copper-base paint to retard it, and **"aluminum construction is
+impossible as electrolysis develops."** Programme effects: children adjusting to salt taste, "the
+dry sticky feeling," jellyfish — "**One summer when the presence of jellyfish… were particularly
+virulent we had an alarming drop in swimming participation**" — and canoeing limited by rough water
+and no adjacent inland routes. And pollution: "**Our beautiful cove now has phosphate enriched eel
+grass growing abundantly, its shell fish are now condemned because of the effluent from nearby
+communities.**" A named, dated instance of a Canadian camp's own waterfront being polluted out of
+use.
+
+**Smaller items.** **Eric Russell of St. John's has died** — "responsible for founding the
+Newfoundland and Labrador Camping Association and was its president when the association became a
+member of C.C.A." (issues 84, 87). **A "FRENCH-ENGLISH CAMPER EXCHANGE"** is advertised for summer
+1972, camps to send brochures to the editor: "CANADIAN CAMPING is interested in promoting
+bi-lingualism and friendship among our Canadian Campers" — the exchange idea from Bermuda (issue
+89) turned inward. Latimer's letter announces the **National Standards Workshop, 20–23 January
+[1972] at Banff**, tied to the Alberta association's annual meeting, two representatives per
+provincial association "perhaps your President and Standards Chairman"; **Claude Cousineau to chair
+a National Canoe School committee**; a **Constitutional Task Force** meeting in Vancouver 11–13
+November after a first round of provincial consultation, because "the constitution of C.C.A. has
+many inadequacies"; **Julian Smith**, "one of North America's leading experts in the field of
+outdoor education," as guest at the Manitoba outdoor education conference; and — **a date for this
+project to watch** — **"the Board and Annual Meeting… will be held in Montreal in conjunction with
+the Quebec Camping Association Conference and the dates will be April 18, 19, and 20"** [1972]. A
+national camping meeting in Montreal is the most likely single occasion for Kanawana to appear by
+name in the issues ahead. **A new "QUESTION BOX" service** is announced. **Jody Ashenhurst (Camp
+Northway Lodge), "Post-Camp"** — a poem on the closed camp, pairing with MacCulloch's letters:
+"Gone are the docks — they are huddled together in the bay, grimly awaiting the wind and snow…
+**And so the woods, with open arms, reach out to reclaim our summer home.**" A full-page thank-you
+lists **forty-six advertisers**, with the note **"CANADIAN CAMPING is a 100% Canadian magazine and
+is not subsidized in any way. It is supported solely by advertisements"** — a fact about the
+source worth keeping for `meta/sources-index.md`.
+
+Nothing in this issue names Kanawana. Its value is exceptional for the project's own source work:
+Plewman's founding history of the magazine, which dates the run's first printed issue to February
+1949 and identifies Dais L. Gass as CCA president in 1946 and author of its first editorial; his
+first-hand dating of the CCA's formation to 1946 at the Château Laurier, now patched into
+`canadian-camping-movement.md`; Labbett's Society history with its 12-May-versus-21-May discrepancy
+and its roll of Honorary Fellows; the canoe school dated to 1967 and located in Quebec; and
+Plewman's printed reply to ed la Pierre.
