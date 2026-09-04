@@ -1,7 +1,7 @@
 # Camp Oolahwan
 
-*Status: E1-reviewed | Sources: 19*
-*Last Updated: 2026-07-10*
+*Status: E1-reviewed | Sources: 21*
+*Last Updated: 2026-09-04*
 
 ## Overview
 
