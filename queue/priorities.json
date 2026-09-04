@@ -4170,6 +4170,19 @@
       "status": "pending",
       "tier": "critical",
       "notes": "Source: editorial, Canadian Camping Vol. 30 No. 6 (December 1978), p. 3. Word-for-word read, issue 122. Watch the 1979 issues for the follow-up as the read continues."
+    },
+    {
+      "priority_id": "p_323",
+      "rank": 322,
+      "type": "RESEARCH",
+      "description": "ASK FOR KANAWANA'S RECORDS BY THE NINE STANDARD FORM NAMES. The Ontario Camping Association sold a kit of 'Suggested Camp Forms' at $3.30 a set in March 1980, printed on 8.5x11 paper and explicitly designed to be copied or adapted by any camp. The nine forms are: CAMPER APPLICATION FORM; CAMP STAFF APPLICATION FORM; STAFF HEALTH CERTIFICATE; CAMPER'S HEALTH CERTIFICATE; STAFF CONTRACT LETTER; STAFF REFERENCE FORM; COUNSELLOR EVALUATION FORM; CAMPER EVALUATION REPORT FORM; ACCIDENT REPORT FORM. Every document class this project has been reconstructing piecemeal from the camping press turns out to have existed as a standardised purchasable set. ACTION: when next writing to Concordia (YMCA of Montreal fonds P0145) and to Trent, ask for Kanawana material under these exact names rather than in general terms, and ask the Ontario Camping Association's successor body whether a copy of the 1980 kit survives, since it would show what a camp's blank forms looked like even where the completed ones are lost. ALSO ASK the ACQ successor body for the Quebec equivalents -- the ACQ's own 'feuille A.C.Q.' interview sheet is named in its 1976 director education programme (p_314). NOTE for the embargo register: the Counsellor Evaluation Form and Staff Reference Form are the instruments behind r_0001-type material, and the Camper's Health Certificate carries medical and, for girls, menarche information -- any such Kanawana documents that surface are sensitive on their face and should be registered before extraction.",
+      "article_id": "canadian-camping-movement",
+      "blocking": false,
+      "assigned_weight": 9,
+      "created_at": "2026-09-04",
+      "status": "pending",
+      "tier": "critical",
+      "notes": "Source: 'Suggested Camp Forms', Canadian Camping Vol. 32 No. 2 (March 1980), p. 6, with the Camper's Health Certificate reproduced in full. Word-for-word read, issue 130. Feeds p_312, p_314 and the retrospective embargo sweep p_307."
     }
   ],
   "queue_ordering": {

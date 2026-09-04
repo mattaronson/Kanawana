@@ -22857,3 +22857,114 @@ with a job description worth noting for comparison with Kanawana's: "direct summ
 year round camping programs; co-ordinate and supervise winter camp; publicity and promotion; budget
 planning and control; staff hiring and volunteer recruitment." The **Lachute former boys' camp**
 advertisement runs for a third issue.
+
+---
+
+## 130 — Vol. 32 No. 2, March 1980
+
+Twelve pages. Every item accounted for: Formateur Multiplicateur, part 2 (the ACQ programme
+continued from February); Our Executive Director Reports; Thought for Food; You Want A Good Staff?
+INTERVIEW! (Peter Moon), continued to p. 10 with "Interview Signs Related to Personality Factors";
+Suggested Camp Forms, with the Camper's Health Certificate reproduced; Staff Motivators, part 2
+(Bruce Harris); The Counsellor's Page — a page of quotations; Classified; an Identifab name-tape
+advertisement; the Royal Chinet advertisement. **Kanawana is not named.**
+
+**★★★★★ THE NINE STANDARD CAMP FORMS, NAMED AND PRICED — the most actionable archival lead of the
+whole read.** The Ontario Camping Association advertised a kit of "**Suggested Camp Forms**" at
+"**$3.30 per set**", 8½ × 11, from the same Avenue Road office the CCA shared, and listed its
+contents:
+
+> **Camper Application Form · Camp Staff Application Form · Staff Health Certificate · Camper's
+> Health Certificate · Staff Contract Letter · Staff Reference Form · Counsellor Evaluation Form ·
+> Camper Evaluation Report Form · Accident Report Form**
+
+with the note "**These forms may be copied or you may add or delete anything that may be desirable or
+undesirable for your own special situation.**"
+
+**Every document class this read has been reconstructing piecemeal turns out to have existed as a
+standardised, purchasable set** — Lowes's counsellor evaluation (issue 115), the reference-checking
+form in *Finding Summer Staff* (issue 124), Ebbs's "illness and accident record forms" (issue 117),
+the staff contract Flynn told directors to have "signed and sealed" (issue 116). **Written into
+`canadian-camping-movement.md` (sub-source 8ak)** with the instruction that anyone searching
+Kanawana's records should ask for these nine documents **by these names**, and **new priority `p_323`
+(weight 9, critical)** to do exactly that at Concordia, Trent and the OCA's successor body, and to ask
+the ACQ successor for the Quebec equivalents alongside the "feuille A.C.Q." interview sheet
+(`p_314`). `p_323` also flags the embargo consequence: **the Counsellor Evaluation Form and Staff
+Reference Form are the instruments behind r_0001-type material, and the Camper's Health Certificate
+carries medical and, for girls, menarche information** — any such Kanawana documents that surface are
+sensitive on their face and should be registered before extraction.
+
+**★★★★ THE CAMPER'S HEALTH CERTIFICATE, REPRODUCED IN FULL** — the shape of the record a Canadian
+camp kept on each child in 1980, and written into the article. The parent's checklist: chicken pox,
+asthma, hepatitis, red and german measles, frequent colds, hernia, hay fever, rheumatic fever,
+fainting spells "of any kind", heart condition, sinus trouble, severe stomach aches, diabetes, mumps,
+recent whooping cough, sleep walking, bed wetting — and, for girls, "**Has girl menstruated?
+Yes/No. If not, has she been told about menstruation? Yes/No**." The physician certifies immunisation
+against **poliomyelitis, tetanus, pertussis, diphtheria and smallpox** with booster dates, records
+allergies to **penicillin, horse serum, other drugs, foods, animals and bee sting**, and states "any
+physical or **emotional** abnormalities." The parent grants advance surgical consent "to the
+physician selected by the Camp Director… to hospitalize, secure proper treatment for and to order
+injections, anaesthesia or surgery." And the foot of the form is headed "**FOR CAMP USE ONLY**" with
+columns for date admitted and discharged, diagnosis, treatment, and "**admissions as bed patients**"
+— so the same sheet served as the infirmary's own log.
+
+**★★★ THE ACQ PROGRAMME, PART 2 — integration and orientation.** Three levels are prescribed.
+**Integration into the world of camps**: anyone working in a camp must understand "la dimension et la
+particularité du phénomène loisir et camp de vacances", and the questions to answer are "**Le loisir
+au Québec, comment est-il organisé? Les camps de vacances se sont regroupés en association,
+pourquoi?**" — a provincial association teaching new staff why it exists. **Integration into the
+specific camp**, under three headings: "**milieu physique, milieu administratif, milieu humain**".
+**Integration into the specific task**, with the staff categories named: "**les cuisiniers, le
+personnel de soutien, les animateurs, les moniteurs, les spécialistes**" — note that **cooks and
+support staff are listed first**, which is the opposite of every English-language treatment in this
+run and worth remembering beside the Ouareau chef (issue 127). And the closing reflection on the
+director's job: "**Il incombe au directeur de camp de rassembler un groupe d'individus, de les aider
+à parvenir à un degré de compétence pour la tâche à exercer, mais en même temps de constituer avec
+ces individus une ÉQUIPE dynamique**… c'est la tâche à laquelle le directeur de camp doit consacrer
+la très grande partie de ses énergies."
+
+**★★ Peter Moon's "INTERVIEW!" — a consulting psychologist's method, reprinted "from an early edition
+of *Canadian Camping*".** With the December 1977 rating chart (issue 116) and the ACQ's French
+guidance (issue 129), this is the third and fullest interview instrument the read has produced. Its
+useful parts: "**you can judge the quality of the interview by the ratio of talk between the
+interviewer and interviewee. The poorer the interviewer, the more he talks**"; read the application
+itself as evidence — "**Is it neat or careless in format?**… What is his skill with language?"; on
+family and personal life, "require a maximum of sensitivity and tact if you are to avoid annoying,
+offending or invading the person's privacy"; and on medical matters, "**leave medical questions to
+the physician**."
+
+Its second half is a taxonomy — "**Interview Signs Related to Personality Factors**" — listing
+observable indicators under **emotional maturity** ("blames others for his own mistakes… gives up
+trying after first failure… unable to compromise"), **dependability**, **self-confidence**,
+**objectivity**, **values** (accomplishment, recognition, power, security, money, knowledge,
+independence, helping others, being liked — each with a note on when it becomes a problem),
+**attitudes** toward people and responsibility, and **social intelligence**. It is worth recording
+in full here because **this is the vocabulary in which a camp director of the period would have
+written down a judgement of a young staff member**, and it is therefore the register to read
+r_0001-type material in.
+
+**★★ Bruce Harris, part 2 — and a clear statement on pay.** Principles 9 to 11: learn each staff
+member's strengths, because "each staff member has more strengths than may be seen at first
+meeting"; **be fair, and be seen to be fair** — "most camps are like a family"; and lead by example.
+On salary he is unusually direct: "**no matter what the salary, it must be the same for everyone who
+is doing the same job with the same experience**… I sincerely believe that salary has absolutely no
+bearing on how well a person does their job." And a passage that explains the turnover every camp in
+this run complains about: "**most camps, because of their financial limitations, cannot realistically
+provide the necessary monetary needs over an infinite amount of time. Staff must move into permanent
+jobs… and they must move on from the camp family to allow younger staff the opportunity to grow.**"
+
+**★ Marjorie Booth's tour**, which dates her visits: British Columbia, Alberta (where she praises the
+Wilderness Travel Program), Manitoba, New Brunswick and Newfoundland in two months, with **Ontario,
+Quebec and Nova Scotia** in the month ahead — so the CCA's Executive Director attended the Quebec
+association's 1980 congress. Newfoundland is already making suggestions about "**the International
+Camping Congress in 1983**."
+
+**Minor.** A Quebec supplier replaces the Montreal one in the advertisements: **Identifab Labels
+Reg'd, P.O. Box 2308, Dorval, Quebec**, colour-fast name tapes in red, black and blue, 50 for $4.00.
+Kitchen economies: pre-packaged dressing sachets so undressed salad keeps and portions are fixed;
+bread bags saved for the trip department; and **York peanut butter in plastic jars — "One case will
+provide you with about $25.00 worth of jars and you get the peanut butter as an extra!"** The
+counsellors' page is a page of quotations, of which one is the same Amos Bronson Alcott passage the
+December 1978 leadership page used: "**The good counsellor defends his campers against his own
+personal influence. He inspires self-distrust… He will have no disciple.**" The **Lachute former
+boys' camp** advertisement runs for a fourth issue.
