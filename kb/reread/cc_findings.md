@@ -12455,3 +12455,206 @@ Manitoba's Centenary Journey Committee.
 Nothing else in this issue names Kanawana. Its value is the complete National Campfire
 ceremony with Edgar's song, the QCA sugaring-off party, the CCA's 1966 membership and
 finances, the third CCA founding date, and Nelson McEwen named as co-founder.
+
+## 76
+
+`canadiancampingmagazine_vol20_no1_1967autumn.txt` — Vol. 20 No. 1, Autumn 1967.
+Cover: "CENTENARY / VOYAGE DU CENTENAIRE, 1867–1967."
+
+Contents page (checked against this block): C.C.A. Comes of Age (Douglas G. McEwen) ·
+Building Self-Confidence (Bruno Morawetz) · Experiment, An Educational Camp (Austin
+Matthews) · Among Ourselves (Rev. Don Atkinson) · Canada's Second Century (Ann
+Prewitt) · Paddles in the Spring (Kirk Wipper) · Sermons Under the Sun (Elaine
+Decker) · Catherine Van Wagner — a Tribute (Ross Paul). All eight covered, plus News
+from Quebec.
+
+**The magazine changes hands.** From this issue *Canadian Camping* is "published four
+times a year by **Town Talk Publications**" rather than by the Canadian Camping
+Magazine Co., and the publisher is **Mrs. G. W. Flynn** — Eanswythe Flynn, the former
+editor who has appeared throughout this run as a contributor and stand-in editor. Price
+to non-members rises to 85¢ a copy. The issue is also the first dated by season
+("Autumn") rather than by month. Record this in `wiki/meta/sources-index.md`: the
+source's provenance changes here, and the frequency and dating convention with it.
+
+**★ Catherine Van Wagner died 5 June 1967 — a Quebec camping figure this read has
+followed through five issues.** Ross Paul's tribute: "**For the first time since Camp
+Nominingue was founded in 1925**, Catherine Van Wagner, affectionately known by camper
+and staff member alike as **Mrs. Van**, had missed a camping season." (Note the date
+against issue 57, where G. H. Merrill's profile has VanWagner and **Hay Finlay**
+founding Nominingue in **autumn 1924** — almost certainly founding versus first season,
+but record both.) Her work was the **nature programme**: "She could usually be found
+near the Nature Cabin… It was never just facts that she passed on, but a love, an
+awareness and a quiet feeling of pride in our natural resources." The editor's note
+adds the institutional detail: "**Until two years ago, she was Editorial Representative
+for the Quebec Camping Association**, motivating and encouraging her camping associates
+to write for us" — which explains why so much Quebec material reached this magazine in
+the early sixties and is a useful fact about the source itself.
+
+And a **second eyewitness to Mary Edgar's hymn in actual camp use, this time at a
+Quebec camp**: "The most peaceful and meaningful moments of the 1967 season were spent
+in the camp's simple outdoor chapel when, nestled among the birches and overlooking the
+lake, **we sang the familiar words of Mary Edgar's hymn**… 'God who touchest earth with
+beauty / Make me lovely too.'" With the Kandalore sighting at issue 69, that is the same
+hymn documented in outdoor chapel at two camps in two provinces — good evidence for
+whatever the wiki eventually says about camp hymnody at Kanawana.
+
+**★ QUEBEC — the 1968 conference, and a first.** Frances M. Kelly, Executive Secretary
+of the QCA, sends advance word: the conference will be **14–16 March 1968 at the Windsor
+Hotel, Montreal**, "held **jointly by the English and French sections** of the
+Association and will be **bilingual with simultaneous translation throughout the entire
+programme**." Chairmen: **Robert Lazanik** (English Section) and **Rev. Père Lionel
+Perras** (French Section) — a new name for the French section's leadership. Simultaneous
+translation throughout is a landmark in the story Shorgan began at issue 66, and the
+proceedings of that conference are a specific archival target.
+
+Set against it, from McEwen's presidential address, a fact that qualifies the whole
+story: "**the French section of the Quebec Camping Association are still not members of
+the Canadian Association**." So as of autumn 1967 the French section belonged to the
+QCA but not to the CCA — nine years after its formation and two years after the CCA
+approved a national French section in principle. That belongs in
+`canadian-camping-movement.md` beside the ACQ correction already flagged at issue 66.
+
+**Douglas G. McEwen, "C.C.A. Comes of Age" — the president's programme, with figures.**
+Three areas: services, internal organisation, relationships. On services he wants
+"**Regular visitation of all camps through their Provincial Associations**" (the QCA
+was already doing this — issue 70), and "**the development of a certification system by
+the C.C.A. of camp directors should be begun immediately**" — the question Yard argued
+against in 1965 (issue 65) and the Aurora retreat raised in 1966 (issue 72), now
+national policy. On internal organisation: "For the first 20 years of its life the
+Canadian Camping Association's strength has lain in strong provincial associations"; he
+wants a **full-time Executive Secretary** and admits a structural problem plainly —
+"the entire National Executive resides in Manitoba… **Information as to decisions about
+to be taken is shared with Provincial Associations but frequently no response from
+Provincial Associations is taken as assent**."
+
+**Money, and a revised Centenary Journey total**: "The Centenary Journey project, now in
+its final stages, **received a grant of $12,000.00 from the National Centennial
+Commission**." That is double the $6,000 in the 1966 accounts (issue 75) — evidently the
+two-year total. Also: travel grants from Fitness and Amateur Sport, "**a sizeable grant…
+for the conduct of five regional training events**," and an invitation to join "a
+technical sub-committee to the Advisory Council of Fitness and Amateur Sport." His
+closing line on the federal relationship: "**We are an organization worthy of support,
+funds are available, and it is now time for us to state clearly where we are going.**"
+
+A related observation worth keeping, from the same address, about the **Canadian
+Symposium of Recreation in Montreal** (June 1967, issues 73–75): "**among a group of 25
+people concerned with the use of leisure, the major issues raised by Kirk Wipper were
+not discussed because of an involved discussion that developed as to what was meant by
+the word, camping.**"
+
+**Kirk Wipper, "Paddles in the Spring — Prelude to the Centenary Journey"** — the first
+party on the national route, and a good piece of writing. **8–10 May 1967**, his fourth-
+year class from the University of Toronto School of Physical and Health Education, ten
+canoes, on **the Mattawa** — the voyageur route. Conditions: snow on the branches on the
+way to North Bay, twenty-degree nights with "**Woollen blankets… placed inside the
+sleeping robes**," snow all the way to Mattawa town, the river in flood, and "at one
+point before the **Talon chutes** every canoe arrived at the foot of the rapids with at
+least six inches of water in it." They stopped to build bonfires and dry "socks and
+mitts and toques" — "to grip the paddles under such weather conditions, it was necessary
+to wear socks or mitts to keep our hands from capitulating." The close: "On the final
+evening as we reached the historic junction of the Mattawa and Ottawa Rivers, **the
+Church bells beside the river tolled**… it is inspiring to know that they were **the
+first to be on the route of the Voyageurs, the National Centenary Route in 1967**. The
+natives along the way perhaps regarded the project as a rather puzzling venture under
+such conditions." Directly comparable to Kanawana's own Ottawa River leg three months
+later, and a reminder that the route was being run in May as well as August.
+
+**Ann Prewitt, "Canada's Second Century" — the land question, with a named source.**
+She interviewed **William Hueston, Superintendent of Algonquin Park and Regional
+Forester** for Ontario Lands and Forests, and reports policy this project has nowhere
+else: "**Now 25% of the shore line of all lakes must be retained by the crown**… even
+though many desirable sections, such as the whole Muskoka Lakes area, are already gone."
+And a new category: "the Department of Lands and Forests is setting up a number of
+'**Wild River Parks**' — designated sections of rivers along whose shores no more Crown
+Land will be sold. Maps will be supplied and camping spots indicated. **Also the rivers
+will be graded**… other fiercer rapids will be labeled '**for experts only**'." Her
+forecast for camps is the sharp part: "**Within the next twenty-five years established
+camps will be surrounded by cottages, perhaps villages or cities**," and a camp can
+score highest on a Standards visitation while "**the vital necessity of living close to
+nature has almost disappeared. Out-trips are the only answer for such a camp. But where
+to go?**" She also quotes **Fannie L. Case, who started Camp Northway Lodge in 1906**,
+on why she left teaching — "unhampered by tradition, we were ripe for a break in the
+usual physical circumstances also accompanying education — **close air, hard seats
+nailed down in rows, the clock ticking away our precious time and the bell cutting in
+just as an absorbed interest was reaching a climax**." (Note the 1906 date: the
+carried-forward Northway Lodge 1905-vs-1917 conflict now has a third figure, from Case's
+own camp.)
+
+**Austin Matthews (General Secretary, Midland YMCA; Director, Camp Kitchikewana),
+"Experiment — An Educational Camp"** — a fully documented school-camp week, and the
+clearest model in this run of the arrangement that later became Kanawana's own
+outdoor-education work with schools. **All the grade-four children of the Midland public
+school system — 170 children — went to the YMCA resident camp in three groups of five
+days each during June**, Sunday noon to Friday noon, two teachers per group, high-school
+volunteers as counsellors, volunteer nurses, university students supervising recreation.
+Teachers designed the educational half around "nature lore, camp craft, marine life,
+water safety, sketching, natural history, geography and archaeology," using outside
+resource people including "**a full-blooded Ojibway Indian**, a representative of the
+Department of Lands and Forests, the Warden of the National Park." Financing: "**this
+school camp was totally sponsored by Midland Public School Board and, therefore, no fees
+were charged the individual camper**" — which reached children who "would never be able
+to attend a regular camp." Benefits to the camp: off-season use, longer staff employment,
+press coverage, and "**we were able to observe in a practical counselling situation many
+high school students**," aiding future selection. Practical machinery: a planning
+committee including school officials, early written communication to parents, a
+mimeographed "camper's kit," and a parents' night. `facts.json` already records eight
+schools using the Kanawana site by 1978; this is the Ontario prototype, dated 1967.
+
+**Bruno Morawetz, "Building Self-Confidence"** — the practical detail is what to keep.
+Before camp: "**The director can make the camper aware of his worth by writing him a
+personal letter upon registration and asking him to let the director know what he would
+like to do and accomplish at camp. This makes him feel that he is not a parcel which is
+being wrapped up and sent away.**" On arrival: "**it is a great mistake to have the bus
+disgorge its cargo all at once**. It is much better… to have each camper alight singly
+and to introduce him to his counsellor who is waiting and ready for him." On the
+counsellor: "One of the essentials is that he be '**always there**'… Even if he reads or
+writes in his cabin he is spreading a re-assuring glow over his campers." On teaching,
+the teaching-machine principle of steps small enough to succeed — "In archery he moves
+close enough to the target to succeed in hitting it" — and one specific piece of tact
+worth recording: "**as soon as [the instructor] sees that the child could not possibly
+pass the [first-day swimming] test he urges him not even to try his test**, but promises
+to assess his ability at a later time. The camper has thus not 'failed' his deep water
+test." On competition: "It is bad when campers of varied abilities are pitted against
+each other involuntarily and indiscriminately. The kind of competition which builds
+self-confidence is the one where a camper strives to reach a certain level of excellence.
+**Failure to meet this standard is seldom public and never final.**"
+
+**Sermons Under the Sun** — "The Fourth Wise Man" (the Artaban legend), by **Elaine
+Decker**, and taken from a named publication: "**'Sermons from a Summer Chapel'…
+Produced by the Kitchener-Waterloo YMCA Camping Department, 'it records and preserves
+some of the original creative efforts of Camp Wabanaki campers and staff as they have
+expressed their religious feelings and thoughts'**." The editor adds: "**Undoubtedly
+'Sermons from a Summer Chapel' is the kind of publication that other camps across the
+country would find both stimulating and useful.**" A named, camp-produced anthology of
+campers' own writing — exactly the class of document `p_048` and `p_045` are looking
+for, and proof that YMCA camps in this period were printing such collections. **Archival
+lead:** *Sermons from a Summer Chapel*, Kitchener-Waterloo YMCA Camping Department,
+c. 1967.
+
+**Rev. Don Atkinson profiled** (President, Manitoba CA), in his own words and unusually
+candid: Toronto-born 1933, Victoria and Emmanuel College; a year "interning" out of
+Woodgreen Neighbourhood Houses in east Toronto; four years at United Mission in Sydney,
+N.S., where he "developed the art of keeping in just the right amount of trouble with
+Credit Unions, Co-ops, Labour Unions, the Political Party" and tried "to develop a local
+chapter of the **N.A.A.C.P.** in the Negro ghetto in which the Mission is placed"; from
+1 January 1966 with Robertson Church and the **United Church Fresh Air Camps** in
+Winnipeg, offering "**a 20-bed hospital for convalescents, a facility for mothers and
+children camping and a camp for 80 children co-educationally**." And: "**Heavily
+impressed by Hedley Dimock at the Canadian Camping Association Conference we are
+introducing some measure of participatory camping at the camp this year**" — direct
+evidence that Dimock's March 1967 keynote changed practice at a named camp, which is
+worth having in `wiki/people/hedley-dimock.md`.
+
+**A Montreal advertisement of record.** The **Federation of Catholic Charities**, "planning
+organization for the English-speaking Catholic community of Montreal," seeks a **Director
+of Catholic Youth Services of Montreal**, responsible for "recreation and leisure time
+services, **comprehensive day and residence camping services**, and community extension
+services," at **$10,500–$13,000**, with "**Bilingualism and familiarity with social
+research programming**" as assets. A senior Montreal camping salary of 1967 — set against
+the $1,000–$1,500 seasonal camp directorships advertised in 1966 (issue 69) — and evidence
+of a third Montreal denominational camping network alongside the YMCA and YWCA.
+
+Nothing in this issue names Kanawana. Its value is Van Wagner's death and Quebec role,
+the 1968 bilingual conference with simultaneous translation, the French section's
+non-membership in the CCA, the $12,000 Centennial grant, the Midland school-camp model,
+and *Sermons from a Summer Chapel*.
