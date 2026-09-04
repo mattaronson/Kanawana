@@ -1,6 +1,6 @@
 # Camp Songs, Cheers, and Musical Traditions
 
-*Status: E1-reviewed | Sources: 22*
+*Status: E1-reviewed | Sources: 23*
 *Last Updated: 2026-09-04*
 
 ## Overview
@@ -251,6 +251,8 @@ Two things follow for this article. Kanawana was an accredited Quebec camp and a
 
 Campfire singing is a foundational tradition across YMCA camps in North America. The American Camp Association traces the modern campfire song tradition to the late 19th century, coinciding with the rise of organized camping.^9 The Canadian YMCA had specific connections to this tradition: Gary Schofield, Boys' Work secretary at the Ottawa Canada YMCA, directed Camp On-Da-Da-Waks and was active in the Canadian Fellowship of YMCA Retirees.^9 The iconic camp song "Kum Bah Yah" was introduced at a YMCA National Conference at Green Lake, Wisconsin in the early 1950s.^9
 
+**A national grace, and its borrowed tune.** The Alabama Jubilee finding above is not an isolated case of a camp song turning out to be a popular tune with new words; the practice was general and the association printed an instance of it. In spring 1983 the CCA's Executive Director noted that "**Thank You Lord**" "**has been sung for years as a chapel hymn or grace in many Canadian camps**", used it as the grace at the closing banquet of the International Camping Congress, and printed both verses — attributed **Anonymous**, with the tune given as "**Sung to the tune: Edelweiss**".^23 A grace in the general Canadian camp repertoire by 1983, set to a 1959 Broadway melody, and circulated further by the national office. It is not attested at Kanawana and no claim is made that it was sung there; it is recorded because it dates and names one more song of exactly the Marching Song's type, and because if "Thank You Lord" turns up on a Kanawana song sheet its tune and its route into the repertoire are already known.
+
 The Color War tradition (known at Kanawana as the L&V Games) typically includes team cheers, fight songs, marches, and Alma Maters as central components, presented during a culminating event called "Sing."^9 Songs are commonly rewrites of popular tunes with team-specific lyrics. This provides the likely framework for L&V section cheers at Kanawana.
 
 ## Images
@@ -306,6 +308,7 @@ The Color War tradition (known at Kanawana as the L&V Games) typically includes 
 20. *The Green Triangle*, 9 July 1938 [src_ia_green_triangle_collection]. Full-text read of the verified 38-issue corpus, 2026-08-25. See [f_2280].
 21. "Attention! All Camp Directors" (boxed notice), *Canadian Camping* Vol. 25 No. 1 (Fall 1972), p. 3. Found by the full word-for-word read of the run (`kb/reread/cc_findings.md`, issue 96).
 22. Christine Nixon (Camp Oconto), "Music for Young Campers," *Canadian Camping* Vol. 32 No. 5 (October 1980), pp. 6, 12 [src_ia_canadian_camping_collection]. Found by the full word-for-word read of the run (`kb/reread/cc_findings.md`, issue 133). Written about camps generally, not about Kanawana. The thunderstorm advice quoted alongside it is from "Storms Ahead," *Canadian Camping* Vol. 30 No. 4 (June 1978), pp. 4-5 (issue 120). The Camp Howdy "Camper Care Package," from the B.C.C.A. Newsletter of October/November 1980, is reprinted in *Canadian Camping* Vol. 32 No. 6 (December 1980), p. 4 (issue 134).
+23. Marjorie Booth, "Camp Music Idea," *Canadian Camping* Vol. 35 No. 1 (Spring 1983), p. 13 [src_ia_canadian_camping_collection]. Found by the same read (issue 146).
 
 ## Research Notes
 

@@ -1,6 +1,6 @@
 # Camp Pine Crest
 
-*Status: draft | Sources: 11*
+*Status: draft | Sources: 12*
 *Last Updated: 2026-09-04*
 
 ## Overview
@@ -22,6 +22,12 @@ That does not make him the Games' author, and no source says he was. What it est
 From 1940, Pine Crest ran an annual two-day "Pine Crest Games" color-war competition on the last Tuesday and Wednesday of each summer, dividing the whole camp into two teams: the Lumbermen (symbol: an axe) and the Voyageurs (symbol: a paddle), competing in events including swimming, boating, and woodcraft.^3 ^4 This is one of the oldest continuous camp competition traditions in the YMCA system.^3
 
 Camp Kanawana adopted the same Lumbermen-versus-Voyageurs format in 1947 as its own "L&V Games".^7 The two have not stayed identical — the modern Kanawana Games are described as running three days against Pine Crest's two — but the evidence for the current Kanawana format is thin, and [[traditions/lv-games|The L&V Games]] treats it as an open question rather than a settled divergence; Kanawana's own historical L&V ran a full week in the 1947-1958 period.^8 A commemorative book, *Lumbermen & Voyageurs: The YMCA Pine Crest Story*, covers a century of camping at Pine Crest.^5
+
+**And it was a ceremony, not only a competition.** The camp's own director in the 1950s and early 1960s, **W. E. "Ted" Yard** — President of the Ontario Camping Association 1949-51 and of the Canadian Camping Association 1953-55, a YMCA man from 1942 and later owner of Camp Hollyburn — wrote an account of Pine Crest's observances that the national magazine reprinted as a tribute after his death on 3 January 1983.^12 It preserves the **Voyageur-Lumberman ceremony**'s spoken text and staging: a spokesman opening with "Let us pause for a moment, and viewing the truly beautiful shades of our Muskoka evening, **let us this day drink deep of the beauty in lake and sky and stately pine**"; then the **Lumberman**, "clad in high boots, mackinaw shirt, and peak cap. With an axe on his capable shoulders he strode quietly along the shoreline to take his place against a giant pine… silhouetted in the sunset" — "**It is the Lumberman… craftsman, pioneer, conservationist… he is a living symbol of Canada's great forest lands**"; then a canoe skimming into silhouette and the **Voyageur** "in buckskin coat and tasselled toque" taking his place opposite — "**It is the Voyageur… explorer, adventurer, master of his craft, he looks to new horizons… for he, too, is Canada.**"
+
+That is the fullest description of the tradition from inside the camp that this project holds, and it changes its character: at Pine Crest the two figures were **staged, costumed and given speeches**, with the games surrounding a liturgy rather than the other way round. The article is undated and Yard directed the camp after Kanawana's 1947 borrowing, so it cannot show what Kanawana took; see [[traditions/lv-games|The L&V Games]], where the same passage is set out with that caution.
+
+Yard's article also records three other Pine Crest ceremonies — a sunset sharing circle in which campers rose one by one to say "**I remember…**"; a campfire induction accepting the **Pine** as a symbol of Strength and Fortitude, Personal Growth and Purity; and a widening-circles ceremony in which campers named their homelands, Poland, Holland, Greece, Estonia, Scotland and Australia — the last a postwar YMCA camp turning its immigrant intake into programme.^12
 
 The broader team-competition-week genre, of which Pine Crest and Kanawana's Lumbermen-versus-Voyageurs tradition is a Canadian/YMCA/frontier-themed regional variant, is documented by historian Leslie Paris (University of British Columbia) as originating with "Red and Gray Week" in 1916 at Schroon Lake Camp, a Jewish boys' camp in the Adirondacks, becoming a widespread American camp staple known generically as "Color War" by the 1920s.^6 A similar naming pattern — "Woodsmen" and "Voyageurs" — appears at YMCA Hayo-Went-Ha Camps in Michigan (founded 1904), though direct fetches of both program pages show the names there denote age-based program levels rather than a competing team pair.^9
 
@@ -50,6 +56,7 @@ The broader team-competition-week genre, of which Pine Crest and Kanawana's Lumb
 9. Direct fetches, 2026-07-09: hayowentha.org/program/voyageurs/ and find.acacamps.org (Woodsmen program profile) [src_hayowentha_website, src_aca_hayowentha_programs].
 10. C. R. Blackstock, "Camping… Our Past, Present and Future," *Canadian Camping* Vol. 30 No. 3 (May 1978), pp. 1, 3, 12, with the author note on p. 12 [src_ia_canadian_camping_collection]. Found by the full word-for-word read of the run (`kb/reread/cc_findings.md`, issue 119).
 11. Adele and J. Harry Ebbs, "In Memoriam — 'Blackie'," *Canadian Camping* Vol. 31 No. 3 (May 1979), pp. 6-7 [src_ia_canadian_camping_collection]. Found by the same read (issue 125).
+12. W. E. (Ted) Yard, "Memorable Experiences Leading Towards Spiritual Growth," reprinted with his obituary notice, *Canadian Camping* Vol. 35 No. 1 (Spring 1983), pp. 8-9 [src_ia_canadian_camping_collection]. Found by the same read (issue 146). The obituary gives Yard as born in Vancouver in 1919, B.A. (UBC), M.S. (George Williams College, Chicago), in the YMCA from 1942, Director of Camp Pine Crest in the 1950s and early 1960s, owner of Camp Hollyburn from 1967, OCA President 1949-51 and CCA President 1953-55; he died 3 January 1983.
 
 ## Research Notes
 

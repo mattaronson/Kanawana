@@ -25767,3 +25767,249 @@ New Zealand, Australia and the People's Republic of China. "**Use the Metric Way
 Commission Canada**. A "**Geneva Park… Remember?**" photo page — the site of the association's national
 leadership conferences and of its oral history taping. And a **Cheddar Granola Cookies** recipe from
 **Christopher Lake[?], N.S.**
+
+---
+
+## 146 — Vol. 35 No. 1, Spring 1983
+
+Eighteen pages. Contents page checked; every item read: Letters to the Editor (one, from Hal
+Hannaford of Kilcoo, with a long comic reply); the bilingual Editorial, "Beauty… At What Price?" /
+"Être belle mais… à quel prix?"; the masthead; Interview: Leo Buscaglia; The Camping Advisor (five
+questions); Awards and Certificates Presented; President's Perspective; W. E. (Ted) Yard's obituary
+with his reprinted article "Memorable Experiences Leading Towards Spiritual Growth"; Brenda Carr,
+"Creativity Through Crafts at Camp"; the National Camping Day announcement and Marnie Ellis's article;
+the poem "A Man for Every Woman"; a CIT Manual advertisement; Joan Scott, "Thanks for the Memories";
+Mary Casey, "Spring Cleaning Time"; Marjorie Booth, "Camp Music Idea"; the Group Dynamics Exercise;
+Marnie Ellis's review of *Legacy to a Camper*; Publications; the Congress Photo Competition results;
+a Menu Feature; the Winning Photo; a Northern Illinois notice; and the Audio Archives cassette list.
+**Kanawana is not named. Quebec appears three times: a Camping Advisor letter from a Montreal
+director, a craft article by a Camp Ouareau counsellor, and a McGill professor on the Congress
+programme.**
+
+**★★★★★ THE PINE CREST VOYAGEUR-LUMBERMAN CEREMONY, IN ITS OWN WORDS — by the man who directed the
+camp.** This is the most important find of the issue for this project, and it arrives through an
+obituary. **W. E. (Ted) Yard** died on **3 January 1983**; the notice gives him as born in Vancouver in
+**1919**, B.A. from UBC, M.S. from **George Williams College, Chicago**, in the YMCA from **1942** in
+Vancouver, Toronto and Sault Ste. Marie until he bought **Camp Hollyburn** in 1967 — and, critically,
+"**particularly during his tenure as Director of Toronto's Camp Pinecrest in the '50s and early '60s**",
+**President of the Ontario Camping Association 1949-51 and of the Canadian Camping Association
+1953-55**. As a tribute the magazine reprints an article of his from years earlier, and it contains a
+first-hand description of **Camp Pine Crest's Voyageur-Lumberman ceremony**, including the spoken
+text:
+
+> "You heard the spokesman at the **Voyageur-Lumberman ceremony** saying: '**Let us pause for a moment,
+> and viewing the truly beautiful shades of our Muskoka evening, let us this day drink deep of the
+> beauty in lake and sky and stately pine. Let us cherish the deep friendships discovered at this
+> spot; may they give deeper meaning to lives already dedicated to helpful, purposeful ends.**'
+>
+> There was a pause, and then you saw the **lumberman… clad in high boots, mackinaw shirt, and peak
+> cap. With an axe on his capable shoulders he strode quietly along the shoreline to take his place
+> against a giant pine… silhouetted in the sunset.** '**It is the Lumberman… craftsman, pioneer,
+> conservationist… he is a living symbol of Canada's great forest lands. He is, too, an integral part
+> of the lore and tradition of this place we call our camp.**'
+>
+> Another pause, and then **a canoe skimmed into silhouette. The paddler in buckskin coat and
+> tasselled toque, skillfully set his craft ashore, and took his place opposite the Lumberman.** '**It
+> is the Voyageur… explorer, adventurer, master of his craft, he looks to new horizons… for he, too,
+> is Canada… and in this beautiful setting he travels with the greatest Sternsman of all time.**'"
+
+**Written into `traditions/lv-games.md` and `connections/related-camps/camp-pine-crest.md`.** This
+wiki records that Kanawana's Lumbermen-and-Voyageurs, created in 1947, "drew on Camp Pine Crest… which
+had run its own Lumbermen-versus-Voyageurs competition since 1940, complete with the same team
+symbols: an axe for the Lumbermen and a paddle for the Voyageurs" — a statement sourced to a Pine
+Crest commemorative book and a YMCA blog. **Here is the parent tradition described from inside, by its
+own director, with the axe and the canoe staged as tableau at sunset and the two figures given
+speeches.** Two things follow and are stated carefully in the articles. It shows that at Pine Crest
+the Lumbermen and Voyageurs were not only competition teams but a **ceremony with a liturgy**, which is
+a different kind of thing from a week of races; and it gives, for the first time, **words that a
+Kanawana ceremony of the same name might be compared against** if any script or programme survives.
+**No claim is made that Kanawana used this text or anything like it** — nothing in this article
+mentions Kanawana, the date of the ceremony described is not given, and Yard directed Pine Crest in
+the 1950s, after Kanawana's 1947 borrowing.
+
+The same article describes three further Pine Crest observances worth recording as comparators for
+Kanawana's own: a **sunset sharing circle** where "over a hundred children" watched the sun go down and
+rose one by one to say "**I remember…**"; a **campfire induction ceremony** in which inductees accept
+the Pine as a symbol of **Strength and Fortitude** ("as the Pine roots cling to the crevices of solid
+Muskoka rock to hold firm in all weather, so will we hold firm to the principles of good living"),
+of **Personal Growth** ("as the Pine strives ever upward toward a clear, fresh sky"), and of **Purity**
+("clean speech, clean sportsmanship, and clear minds"); and a **widening-circles ceremony** in which a
+boy dropped a stone in the lake and campers rose in turn — "**Our widening friendship circles take us
+to Poland, my homeland**" — followed by boys from Holland, Greece, Estonia, Scotland and Australia,
+which dates a postwar YMCA camp's immigrant intake as a programme element. And a **canoe-trip stone**
+presented at a Sunday service: "We brought this stone from Blackstone Lake, the destination on our
+canoe trip. The word we have painted on the stone is **TEAM-WORK**."
+
+**★★★★ THE INTERNATIONAL CAMPING CONGRESS HAPPENED, AND EVERY SESSION WAS RECORDED AND SOLD.** Joan
+Scott of the United Church Camps, Saskatchewan, reports it: **26-29 January 1983**, Sheraton Centre,
+Toronto, "**over 1000 delegates from around the world — Japan, England, New Zealand, United States,
+Australia, Norway and Canada — participated in over 90 sessions**", **1,100 at the closing banquet**,
+and "**it was four years in the planning stages**." Sir Edmund Hillary opened it on the Wednesday
+evening with "**Camping is for Everyone**"; Dave Broadfoot entertained on the Thursday; Dr Alec Dickson
+spoke on the Friday on "**Camping and Caring: Crossing New Frontiers**"; and Leo Buscaglia closed on
+"**Coming Together in Love from 'I' and 'Me' to 'Us' and 'We'**" after a slide presentation, "**The
+Universal Child**", by **Jay Haddad and Doug Caldwell**. **The next congress was planned for 1987 in
+Washington, D.C.**
+
+**And the whole thing is on tape.** The back page advertises "**Audio Cassettes Available — Recorded
+live at the International Camping Congress**", sold by **AUDIO ARCHIVES OF CANADA, 1140 Victoria Park
+Avenue, Markham, Ontario L3R 1B2, at $9 a cassette** (a six-cassette binder free with every order of
+six), and **prints the full session list with codes and speakers**. That is a findable commercial
+artefact set and a direct route to what was actually said. **`p_325` updated with the vendor, the
+price and the session list.** The sessions, decoded from the reversed page: "Camping Is For Everyone";
+"Camp Leadership — The State of the Art"; "Outdoor Education in South Australia"; "Director & the Camp
+Board: A Creative Partnership"; "Legal Liability of Organized Camps & Youth Organizations" (two
+parts); "Imperatives for Youth Work in the 80's"; "The Visual Environment"; "Third World Camping";
+"Camping & Caring: Crossing New Frontiers"; "Camping with Persons with a Disability"; "The
+Underprivileged: from Camp to Group Home"; "Good Grief!"; "Tapping Your Greatest Natural Resource:
+Your Staff!" (two parts); "Your Staff Deserve Good Supervision" (two parts); "Non-Threatening
+Evaluation — Almost"; "Wilderness Medicine"; "**Camper Safety and the Law**"; "**Cults: A Threat to
+Campers and Staff**"; "Power & Perspectives — Programming for Generic Skills"; "Adventure & Challenge
+Programming"; "The Nature & Nurture of Camp Community Building"; "Ecological Activities for Your Camp
+Program"; "Staff Training for Short Term Volunteer Staff"; "Environmental & Outdoor Education in the
+UK"; "Camper Initiated Programs"; "**Safe Whitewater Canoeing at Camp**"; "Who Are We? Leadership
+Training in the Sugar Bush"; and the Buscaglia banquet address.
+
+**★★★★ A McGILL PROFESSOR TAUGHT CAMP LAW AT THE CONGRESS.** Joan Scott's fourth session was "**Camper
+Safety and the Law**, dwelling on legal responsibility for camper injury, common areas of litigation
+and appropriate preventative measures, and run by **Dr. Robert E. Wilkinson, from McGill University,
+Montreal**. This was super as well." He is on the cassette speaker list as well. **Written into
+`canadian-camping-movement.md`.** This read established Wilkinson at issue 137 as the author of the
+movement's textbook and a member of the Quebec association through Camp Nominingue; **here he is
+delivering a session on legal liability to an international audience in January 1983** — so the
+Montreal presence at the Congress is confirmed as delivered, not merely announced. *(Raye Kass is
+again absent from a list of Congress speakers — a third null for `p_325`, recorded as that and no
+more, since these lists are partial.)* Other sessions Scott attended: "Insurance: Protect Your
+Assets"; **Betty van der Smissen** on legal liability; **John Saynor**, "a former camp director who is
+now an undertaker in Toronto", on "**Good Grief**" — dealing with a death at camp, whether at home or
+at camp; "Communicating Christian Values in Camp"; Van Matre on Sunship Earth; and **Bill March of
+Calgary, leader of the Canadian Everest team**, on the ascent.
+
+**★★★ NATIONAL CAMPING DAY WAS 14 APRIL 1983 — and this corrects my reading of the previous issue.**
+Both Jocelyn Palm and Marnie Ellis give the date plainly: "**Thursday, April 14th. This is National
+Camping Day**", and "**National Camping Day was chosen as April 14 by the Board of CCA at its meeting
+last May in Saskatoon.**" **My decode of the rotated Winter 1983 issue rendered Marjorie Booth's
+statement as "April 1st"** (issue 145). **That was a decoding error and is corrected here and in
+`canadian-camping-movement.md`** — a useful demonstration of exactly the unreliability the decoder
+warning was written for.
+
+The rest is new. Ellis's account: the project came out of "the CCA Task Force and the original
+five-year plan", worked on for eighteen months; the pre-Congress workshop of **25-26 January 1983** had
+**18 delegates** from the nine member provinces, of whom the second day was devoted to National Camping
+Day; the date was chosen for the gap after the workshop and because it was "still early enough that
+the publicity would benefit the majority of camps doing their registration"; and the long-term goal was
+"to educate the public about camps in Canada, and to spotlight ourselves enough to get a fund-raising
+commitment so that CCA can expand its services." Palm adds a history: "**National Camping Day is not a
+new idea. Conceived in the 1960's**… **The B.C. Camping Association spawned the t-shirt day** and for
+several years B.C. campers have worn their camp t-shirts on that special day. **The idea was endorsed
+by all provinces at a Halifax meeting in 1981.**" Campers were urged "to wear their camp shirts, hats
+or jackets, or some identification of their camp on this special day". **Added to
+`canadian-camping-movement.md` and `p_326`**: a dated national publicity day, run through a Quebec
+chairman, on which every member camp's campers were asked to wear camp clothing.
+
+**★★★ DEREK WALSH'S CERTIFICATE, PLACED AND DATED — and Brian Blackstock's editorship dated.** "**Derek
+Walsh was awarded the CCA Certificate of Appreciation at the reception prior to the Congress Banquet
+last January 29th.**" The citation is the one already in `people/derek-walsh.md`, with one addition:
+"**Most recently Derek completed a feasibility study on a proposed magazine.**" **The article's date is
+confirmed and the occasion supplied.** At the same Congress, **Brian Blackstock received the CCA's
+Award of Honour**, "a long-time member of the Ontario Camping Association and **Owner/Director of Camp
+Mazinaw**", the award "bestowed as a tribute to Brian's consistent efforts as **Editor of *Canadian
+Camping* from 1977 to 1981**", and noting he is a Board Member and **Past President of the Society of
+Camp Directors**. **That dates his editorship exactly**, which the deferred `meta/sources-index.md`
+section needs, and separates him clearly from **C. R. "Blackie" Blackstock**, who died in 1979 (issue
+125). Also honoured: **John Eberhard**, past president of the Canadian Recreational Canoeing
+Association, who "**contributed his time as a lawyer to pursue the CCA's application for charitable
+status through the national Department of Revenue**" — which names who did the work behind the charity
+registration reported at issue 142.
+
+**★★★ *LEGACY TO A CAMPER* IS PUBLISHED — and it is a biography after all.** Marnie Ellis reviews it,
+and the advertisement gives the particulars: ***Legacy to a Camper: The Story of Mary S. Edgar***, by
+**Jocelyn Palm**, CCA, © 1982, first edition 1983, **$7.95**, "the biography of Mary S. Edgar who was a
+pioneer in children's camping and a faithful supporter of the Canadian and Ontario Camping
+Associations; the YWCA, CGIT and the Girl Guides of Canada", with **38 of her verses** and "a variety
+of themes and inspiration for campfires, quiet times and chapel programs", covering **Glen Bernard
+Camp, which she founded in 1922 at Sundridge, Ontario**. **All proceeds went to the CCA.** So the
+project this read watched change shape twice — "a brief biography", then "a book of program ideas and
+poems" — came out as both. **`connections/related-camps/camp-oolahwan.md` updated**, since it carries
+Edgar and her lost memoir.
+
+Ellis's review adds the sources: Palm "**worked at Glen Bernard from 1959 until 1965 and knew Miss
+Edgar well**", with "input from campers **Dr. Mary Northway and Maria McCollum Wilson**; and former
+owner/directors **Barbara and John Gilchrist**"; the book covers **Glen Bernard from 1922 to 1973**
+with "photographs spanning fifty-two years"; and it claims for Edgar that she "**created the first
+Canadian private camp for girls**". *(That claim sits against `connections/related-camps/camp-ouareau.md`,
+which records Camp Ouareau as founded in the same year, 1922, and as "one of the two oldest summer
+camps exclusively for young girls still in operation in Canada". Both were founded in 1922 and this
+read has now seen both anniversaries announced in the same sentence (issue 141). Recorded as a
+priority-claim to be careful with, not opened as a conflict — "first" and "oldest still operating" are
+different claims and the sources are both promotional.)*
+
+**★★ A camp medication cupboard, specified — by the author of the camp nursing manual.** **Mary Casey,
+R.N.**, whose *The Nurse and the Health Program at Camp* this read has followed through three editions,
+writes "Spring Cleaning Time" and it is the most practical document on a camp infirmary in the run. The
+oral medications a camp needs, in five categories: "**analgesics for pain; antihistamines for allergic
+reactions; antitussives for coughs; decongestants for colds; laxatives for constipation**" — "the old
+motto, '**Keep it Simple**'". Her household-remedy preferences: salt-water gargles and **hard candy**
+for sore throats rather than lozenges, because some lozenges contain an anaesthetic "with a name ending
+with the letters 'caine'" that "may cause future reaction to novocaine used by the dentist or the
+surgeon"; a dry cracker and a little milk for upset stomachs, since "the problem… can often be traced
+to tension"; and "one remedy" cough syrups to avoid overdosing. And a dated medical position: quoting
+**Dr James C. Fallis, Director of Emergency Medical Services at Toronto's Hospital for Sick Children
+and a long-time camp physician**, "**current knowledge suggests that acetaminophen is probably the
+antipyretic of choice for stocking a camp infirmary**", because of the emerging **Reye's Syndrome**
+association with aspirin — with aspirin still recommended for headache, earache, toothache and
+menstrual pain "where there is no fever". **Contextual for `site/the-kanawana-site.md`**, which carries
+J. Harry Ebbs's infirmary inventory: this is what was on the shelf, why, and the year the advice
+changed.
+
+**★★ A camp grace, with its tune — and it is *Edelweiss*.** Marjorie Booth's "Camp Music Idea" prints
+"**Thank You Lord**", noting it "**has been sung for years as a chapel hymn or grace in many Canadian
+camps**" and was used as the grace at the Congress closing banquet; it was also the youth hymn at the
+Scout-Guide church service for **Thinking Day, 22 February**. Both verses are printed, attributed
+**Anonymous**, and the tune is given: "**Sung to the tune: Edelweiss**". **Noted for
+`traditions/camp-songs-cheers.md`** — a grace in the Canadian camp repertoire in 1983, set to a 1959
+Broadway tune, which is the same kind of borrowing this project documented for "Alabama Jubilee". If
+"Thank You Lord" turns up in any Kanawana song sheet, this dates and places it.
+
+**★★ The Camping Advisor, and a Quebec director's problem.** The first question is from "**M.C.,
+Montreal, Quebec**", a director asking how to run pre-camp training when returning staff — "some have
+[heard it] for 5 or 6 years" — have a "here we go again" attitude, and whether experienced staff might
+simply arrive later. The reply is a list of what camps actually did: mixed old-and-new teams; emergency
+procedures sprung **at 4:00 a.m.** with the staff unaware; "**a lot of Ontario camps 'switch' Directors
+for an entire day in pre-camp in order to hear leadership sessions and philosophy from different, and
+sometimes neighbouring, Directors**"; free sessions from government-funded summer arts groups; and a
+**buddy system** pairing each new staff member with a returning one before pre-camp. It advises
+strongly against the later-arrival idea: "this could prove quite divisive as the morale you are trying
+to achieve in pre-camp far transcends skills and safety training and moves into the arena of '**camp
+spirit**'." **A Montreal camp director's operational problem and the movement's answer, in 1983** —
+directly useful background for reading any Kanawana pre-camp schedule, and recorded without any attempt
+to identify M.C.
+
+Also in the column: **the member camp certificate system**, which is the physical artefact of
+accreditation — "**there is one for camps accredited by the provincial standards committee and another
+for member camps who are not accredited. Once the camp receives the member camp certificate, the
+CCA/ACC forwards the 'year stickers' to all the provincial presidents. These are sent to each camp to
+keep the certificate up to date.**" **Added to `canadian-camping-movement.md` and `p_323`: a Kanawana
+CCA/ACC member camp certificate with year stickers is a specific, describable object to ask about** —
+it would have hung in the office, and its stickers would date the camp's membership year by year. And a
+question on **directors playing favourites**, answered "it is undoubtedly natural and 'human'… to have
+favourites. **To play favourites, though, is unprofessional!**", with examples — the favourite who "gets
+to use camp vehicles when others cannot or is allowed to come back to camp later from time off without
+recourse" — and the observation that a director "needs a confidante, a friend, someone to 'blow off
+steam' with or have a drink with."
+
+**★ Minor.** The Editorial is on **Karen Carpenter's death from anorexia at 32**, printed in both
+languages, quoting Buscaglia's closing line at the Congress — "**you will never be beautiful until you
+believe you are**" — and Erich Fromm on advertising operating "primarily on fear… the fear of not being
+loved", with Arthur Miller's *After the Fall* at length. **Brenda Carr of Camp Ouareau** writes on
+crafts, with five rules — arouse curiosity, provide a good work area, guide but don't push, be generous
+with praise, have a goal for each project — a Quebec camp voice in the national magazine. A **CIT
+Manual** "published by Canadian Camping Association" was **available 1 May 1983** — the manual begun by
+Jean Funk's committee and redrafted (issue 142), now in print, and another title for `p_323`. **Hal
+Hannaford of Kilcoo** writes to ask why the magazine no longer has punch holes for binding, and the
+editor's reply runs to a full column of joke. The **Congress Photo Competition** results are printed,
+including **Sharon Hodgins (Camp Wanapitei)**, **David Latimer (Camp Mazinaw)** and **David Godwin (John
+Bosco Camp)** — so a set of prize-winning Canadian camp photographs from 1983 exists and was held by
+the association. The poem is "**A Man for Every Woman**", anonymous, a feminist call-and-response
+printed without comment in a camping magazine in 1983. **Physical Activity Week, 15-23 May 1983.** And
+the mailing label is **Camp Richildaca**.
