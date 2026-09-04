@@ -15053,3 +15053,285 @@ the fact that the ACQ standards are a translation of the QCA's — a route to th
 measured against — and a pointer to the ACQ's own minutes from 1958; plus the magazine's turn to
 bilingual publication, Trudeau's editorial, Babcock's twelve-year school-use record, and the
 arrival of mandatory national standards in 1970.
+
+---
+
+## 87. Vol. 22 No. 4, June 1970 — `canadiancampingmagazine_vol22_no4_1970june.txt`
+
+*Contents page*: For a Greater Awareness (Charles Plewman); Waterfront Activities (Jocelyn
+Palm); L'Amie de ma Tente (Joyce Bertram); Song Leading (Jack Pearse); From Roots and Rawhide
+(Kirk A. W. Wipper); Cabin Counselling (John Latimer); Grand Frère? Grande Soeur? Maman?
+Moniteur! (John Latimer); The Duke of Edinburgh's Award Scheme (Eanswythe Flynn); News from
+the Provinces; Do's and Don'ts for Counsellors (W. Bertram Danson). All ten checked against
+the read; all covered below. The masthead now carries the association's French name —
+**"L'ASSOCIATION DES CAMPS DU CANADA"** — beside the English on the cover.
+
+**★ Officers, June 1970.** The provincial list now names each president: **BC Grant McKeen;
+Alberta Colin Hatcher, Northern Alberta Branch J. E. Hanlin; Saskatchewan Eileen Mayotte;
+Manitoba David Loewen; Ontario Ivan Robinson; ★ Quebec Camping Association — Cy Bekoff,
+Pres.; ★ L'Association des camps de Québec — Lionel Perras, prés.; Nova Scotia Tom Creighton;
+Newfoundland & Labrador Elizabeth Mouland.** This is a **cleaner source than the March cover
+captions** (whose pairings this read flagged as provisional at issue 86) and it settles the
+Quebec line: **as of June 1970 the two Quebec sections still have separate presidents and
+separate addresses**, Bekoff at 2233 Belgrave and Perras at 952 Cherrier. **Bob Lazanik is CCA
+3rd Vice-President, c/o 2233 Belgrave Ave.** — so he sits on the national executive from the
+English section's address.
+
+**★ CHARLES PLEWMAN, "For a Greater Awareness" — biography and a founder's voice.** The
+editorial note supplies what this project lacked: **"Mr. Charles Plewman, former Owner and
+Director of Kilcoo Camp, and former President of O.C.A.,"** appointed **an Honorary Member at
+the Society of Camp Directors' Founders' Meeting**, speaking at the Society's **Fall Dinner
+Meeting, Hart House, University of Toronto, 26 November 1969**. And his own dating: **"I think
+it was in 1909 I took my first group camping."** So the Plewman whom Ebbs named among the
+founders of boys' camping (issue 84), and who wrote Ethel Statten's obituary (issue 85), is
+**Kilcoo's owner-director and an OCA past president active from 1909** — enough for a stub.
+
+His address is also the sharpest period document in this run on why the movement thought it
+mattered. On professionalism, from a founder to the new profession: **"I must confess in all
+honesty that I have never considered myself to be much of a professional. I entered boys' work
+and camping because I loved it. I was an amateur who did something because it made him
+happy."** His caution: **"What we do not need is a lot of efficient technocrats… no amount of
+knowledge and no amount of skill is going to suffice if a man lacks a sympathetic understanding
+of youth on one hand, or hasn't got his heart in the right place on the other,"** with an
+attack on academic credentialism in teaching. Then the state of the world, recorded as written
+and dated to November 1969: a third of people with too much and a third starving; the last war
+that "killed thirty-five million people; six million just because they happened to be Jews";
+ICBMs "zeroed in on seventy-five to one hundred cities"; "**We can send a man to the moon, but
+we don't know how to make a brother of the man who lives next door**"; and his complaint about
+moral relativism — "In my younger days we had a name for that thing: we called it 'anarchy'.
+Today we call it **situation ethics**!" And the drug passage, which is the period's anxiety in
+one anecdote: his fifteen-year-old granddaughter telling him **"Grandad, 50% of the kids in
+Grades 9 and 10 in our school use drugs,"** and his own careful gloss — "**Now let's say that's
+an exaggeration, but it's significant that the kids think that**." A creditable piece of
+skepticism in a genre not much given to it, and worth keeping as such rather than as a
+statistic.
+
+**★★ JACK PEARSE (Director, Camp Tawingo), "Song Leading" — the single most useful item in
+this run for the songs-and-cheers thread (`p_048`), and the first systematic account of camp
+song practice the read has produced.** It is a complete method, and the song titles are a
+period repertoire list of exactly the kind that lets a remembered camp song be placed.
+
+- *The song leader*, six attributes: be friendly; **be original** ("It's fun, too, to make up
+  songs, particularly for the group you are leading… Always have some new wrinkle to give an
+  old song some life"); practise; be enthusiastic ("Laugh at your mistakes"); be poised and
+  relaxed; and **have a philosophy** — "You must convince yourself that this is the most
+  important thing you can be doing at that particular time."
+- *Leading*: keep introductions to a minimum; **"Make the start of each song clear. Sound the
+  first note or simply say — 'sing'"**; sing yourself, "not as a boss, but as a helper."
+- *Teaching a new song*: learn it thoroughly first; **if there is a climax at the end, teach
+  the ending first**; a few lines at a time; and, if an accompanist is available, **have them
+  play while you *say* the words — "It is more easily taught by saying rather than singing."**
+- *Hands*: "**Let facial expressions lead more than your hands**"; the "outlining" system of
+  tracing the scale with the hand; **fist for strength, a cradling motion or hand to the lips
+  for quiet**; whole body, not just arms; keep the pulse, "some leaders use the figure 8"; and
+  **a definite stop signal — "hands to the side, closed fist or tie a bow with your fingers."**
+- *★ The five categories, and the structure of a sing-song*:
+  1. **Novelty numbers** — "the backbone of the sing song," and the place to begin, with a
+     familiar song: *One Flea Fly; Hole in the Bottom of the Sea; Tipperary; Pack up Your
+     Troubles; Long, Long Trail; She'll Be Coming Round the Mountain; Bingo; My Bonnie; Beans
+     in my Ears; Old MacDonald.*
+  2. **Action songs** — "**Whereas the novelty number makes the sing song successful, action
+     songs make the song leader successful**… Invariably, the songs remembered from a sing song
+     are the action songs" — but a programme of nothing but action songs "just doesn't work":
+     *My Hat it Has Three Corners; The Old Mill Stream; Deep and Wide; Under the Spreading
+     Chestnut Tree; Heads and Shoulders, Knees and Toes; This Old Man; Little Cabin in the
+     Wood; One Finger, One Thumb, Keep Moving; Grand Old Duke of York.*
+  3. **Rounds**, for change of pace, mild inter-group competition, and "**another dimension —
+     harmony, without any effort on the part of the singers**," with an eight-step teaching
+     procedure. Classified: *rousers* — Little Tommy Tinker, Row Row Row Your Boat; *fun* —
+     Kookaburra, Three Blind Mice; *quiet* — **Fire's Burning**, Oh How Lovely is the Evening,
+     **Rosen Fra Fjun**, Hey Ho.
+  4. **Spirituals and folk songs**, grouped "because they are used for the same reasons… a
+     change of rhythm, mood and atmosphere." *Spirituals*: Swing Low, Steal Away, He's Got the
+     Whole World, All Night All Day, Ezekiel Saw a Wheel, Jacob's Ladder, O Mary Don't You
+     Weep, I Got a Robe, Do Lord, Michael Row the Boat. *Folk*: Blue Tail Fly, Green Grow the
+     Rushes Ho, **Alouette**, Matilda, If I Had a Hammer, Workin' On the Railroad, Loch Lomond,
+     On Top of Old Smokey, Home on the Range, When I'm on My Journey. He credits the folk
+     revival to "the Weavers, Pete Seeger, Woody Guthrie, Harry Belafonte, Bob Dylan, Joan
+     Baez… as well as **Canada's Oscar Brand, the Journeymen, Ottawa's Couriers**," adding Deep
+     Blue Sea, Where Have All the Flowers Gone, This Land is Your Land, **We Shall Overcome**,
+     I'm On My Way — and complains that "some commercial folk singing groups have spoiled for
+     us some excellent spirituals and folk songs," naming *Kum Ba Yah*, *Go Tell It On The
+     Mountain*, *Down By the Riverside*.
+  5. **Quiet songs** — and the rule in capitals: **"ALL SING SONGS SHOULD END WITH QUIET
+     SINGING."** *Stephen Foster songs; Harvest Moon; Moonlight Bay; Tell Me Why.* His note on
+     the change: "We have passed through the era when the louder and more boisterous was the
+     singing, the more successful was the sing song."
+- A worked five-item programme closes it: My Bonnie / If You're Happy → **Junior Birdsmen** /
+  Chester → Frère Jacques, Three Blind Mice, Row Row / **TomBay** → Good News / **Peter's
+  Fountain** → **Amen**.
+
+**This is a template against which Kanawana's own song record should be read**: it dates the
+repertoire, gives the taxonomy the period used, and — in *Alouette*, *Junior Birdsmen*,
+*Chester*, *Fire's Burning* and the rest — supplies the common stock from which any camp's
+"own" songs would have been distinguished. It also confirms that **making up songs for one's
+own group was standard advised practice**, which is directly relevant to how camp-specific
+songs arose.
+
+**★★ KIRK WIPPER, "From Roots and Rawhide: A unique Heritage Project for Historic Original
+Watercraft" — the founding account of what became the Canadian Canoe Museum.** As of June 1970:
+**"For more than twenty years the search has been under way"** (so from about 1950), and
+**"currently, a building of pine logs two storeys high and sixty-six feet square is being
+constructed to house the collection,"** at **Camp Kandalore, twenty-two miles north of Minden**,
+with visitors welcome. Holdings described: bark canoes "ranging from a chief's single canoe to
+a freighter from Labrador," the latter "unique because it is constructed from one immense piece
+of birch bark"; dugouts from a Seminole model to "a magnificent basswood craft made in the
+Lakefield area," with a **Sooke salmon fishing canoe, an ocean-going Haida and one used for
+decades on the Miramichi** about to be added; kayaks "ranging from an original sealskin model
+to a butternut kayak made by the **Lakefield Canoe Company** long before the turn of the
+century"; a racing shell "still usable even though it was constructed more than 100 years ago";
+and a **flush batten canoe** with interior inlaid seam strips, used for racing. A photograph
+caption identifies **"the canoe of a chief from near Ft. Coulonge, Quebec."** His historical
+argument names **Simon Fraser's 28 May – 1 July 1808 descent**, and — a detail worth keeping —
+**"In 1844, four grey nuns undertook to travel in canoes from Montreal to the Red River
+Settlement."** He closes with **George T. Marsh's "The Old Canoe"** printed in full, its
+place-names a Canadian canoe geography in themselves: Timagami, James Bay, the Montreal river,
+the Lady Evelyn, Timiskaming, Rupert House, the Saguenay, the Nipigon. **Directly relevant to
+`voyageur-canoe-pageant.md` and to any Kanawana canoe-programme article**, and a specific
+archival lead: a collection assembled from 1950, appealing to readers to "keep a watchful eye
+for old canoes."
+
+**★ Jocelyn Palm (Executive Secretary, RLSS Ontario), "Waterfront Activities — What Can Be
+Accomplished At Camps With 8-12 Day Periods."** The most detailed waterfront-teaching document
+in the run, and unusually well matched to Kanawana's own session lengths. Principles: teach to
+**national standards** even where the award cannot be completed, "in order that the campers may
+either progress from one summer to the next or continue their programs on their return to the
+city"; **if a national award needs four strokes, teach two** — one resting stroke and the front
+crawl — with individual correction; stress **treading water, drownproofing, finning or sculling
+and legs-only**; use a **written check list shown to the camper** so improvement is visible;
+**one organised lesson a day is sufficient**, with skills applied in free swim through water
+polo, water volleyball, dodge ball, water tag and relays. A demonstration to the whole camp on
+the first day of each period, using skilled campers, teaches reaching and throwing assists, the
+**Direct Method of artificial respiration**, and the camp's own waterfront rules. Achievable
+awards in a short period: **Beginner Red Cross, Elementary and Junior Resuscitation Awards of
+the RLSS.** On boating: **non-swimmers not permitted in canoes at all, and in rowboats only
+wearing lifejackets**; a deliberately **heterogeneous canoe class** pairing a bow-stroke learner
+with a stern learner; **practice in open water rather than at a dock**; skip teaching the parts
+of a canoe and paddle "describing these only as they are necessary to the understanding of a
+stroke"; and **a slalom course of plastic bottle markers**, with a race as "the best
+self-measurement for the person learning to paddle because he is forced to realize that the
+shortest distance between two points is a straight line." Sailboats reserved for advanced
+swimmers; skin diving offered cheaply to accomplished swimmers, half the group on mask and
+snorkel while the other half work on fins. The article closes with **full teaching progressions
+for swimming, canoeing, boating, sailing and skin diving** — the canoeing one running
+introduction → bow strokes → launching, docking, beaching → **capsize procedure** → stern
+strokes → landing → a specified course → solo → **jump out and in** → **canoe-over-canoe
+rescue** → portaging → **Direct Method artificial respiration using the canoe as a buoyant
+aid** → **gunwale bobbing and other stunts** — and the note that "camp awards might be given
+upon completion of a certain number of skills."
+
+**★ John Latimer (Camp Kilcoo), "Cabin Counselling: How to Stay on Your Toes From 'Wake-up' to
+'Flake-out'" — printed in English and, as "Grand Frère? Grande Soeur? Maman? Moniteur!!", in a
+French translation by Anne Thompson of Camp Ouareau.** The most complete counsellor job
+description in the run. Before camp: learn age-group characteristics, arrange the cabin to be
+"as 'homey' as possible… this will set the mood and atmosphere for the following weeks," and
+learn each camper's name, home town and any particular problems. On arrival: **"Counsellors
+should resolve not to make snap judgements… especially about those children who are not good
+looking… those who start complaining as soon as they get off the bus… those who are loud and
+noisy. The first day is an unnatural one, because each child is in his own peculiar, individual
+way trying to find his level."** The first meal "determines what kind of a leader you will be…
+The pattern for the summer is set at that meal." The first night: **the counsellor stays with
+the group the whole evening — "no staff feed."** And his central claim: **"Bed time, in my view,
+is just about the most important time of day in working with children,"** the moment for
+discussion of "religion, space, history, drugs, sex," with the counsellor **"adding information
+and accurate knowledge… not necessarily his own prejudices and biases,"** drawing out the shy
+and seeing "that the noisy, talkative camper does not get all the limelight." On punishment:
+**"the punishment should fit the crime"** — misbehave at table, leave the table; push someone
+off the dock, leave the swimming area; keep the cabin awake, take a longer rest hour "even if it
+does mean losing his tuck" — and **"a good Counsellor will not hesitate to consult with his unit
+head or Director… Asking for advice is not a sign of weakness."** His rainy-day list: walk in
+the rain, swamp hike, **dumping canoes**, forts in cabins, **mud slide**, indoor carnival,
+miniature track meet, cabin games. And the passage worth quoting whole, because it is the best
+statement in this run of what camp memory is made of: **"Wake the group up at night to see the
+Northern Lights; if the Camp rules permit it take the group out in the lake on a starry night,
+lash the canoes together and drift; dress them properly to watch a good storm coming across the
+lake… or if it's warm enough and not dangerous let them get soaked in a good storm. These are
+some of the things which a youngster will remember for the rest of his life."** Closing: "A good
+Counsellor is not a baby-sitter… A Camper needs a good Counsellor… and in truth, a good
+Counsellor needs his Campers."
+
+**★ Joyce Bertram (Camp Ouareau), "L'Amie de ma Tente" — a comic account of a Quebec camp going
+bilingual, and a genuine record of how it was done.** *Note: the piece is marked "Reprint,
+Canadian Camping, Dec. 1964," so it describes a 1964 experiment, reprinted in 1970 as the
+magazine itself turns bilingual.* Method: **a camp vocabulary list compiled of words that "do
+not appear, d'ordinaire, in an Easy French Grammar for Grade Nine; such words as ant, as opposed
+to la tante, snake, spider, thunderstorm, sailboat and 'summer complaint'"**, plus a second list
+of **about thirty idiomatic expressions "sans lesquelles la vie est insupportable"**; **French
+on Tuesday, Thursday and Saturday, English on Monday, Wednesday and Friday** ("And what about
+Sunday? I knew you would ask that. Tout le monde demande cela"); a rule of **"pas de mains pour
+parler"** — no hands while speaking — "to give the rest of us a chance," which she says saved
+them. The phrases the anglophone staff found most useful: *"il faut que vous me parliez très
+lentement," "au secours, au secours, venez quelqu'un!", "je ne comprends pas"* and the favourite,
+*"comment dit-on en français?"* The joke is that the stencil slipped a line, so the bilingual
+list printed as non-sequiturs — "*Mon Dieu, la cloche, déjà?* / Who took my other sock?" and
+"*Qui va faire le 'tent-hopping' avec moi ce soir?* / Anybody got a clean blouse I can wear to
+supper?" — and they kept several copies "pour le collector's items." Beyond the comedy this is
+a **documented bilingual-immersion practice at a Quebec camp in 1964**, and a distinctly
+Montreal detail: campers "huddled in corners with English-French dictionaries, au contraire
+French-English ditto **depending on whether elles demeurent à Outremont ou Westmount**."
+
+**★ Eanswythe Flynn, "The Duke of Edinburgh's Award Scheme"** — the scheme **"introduced to
+Canada in 1963"**, with Prince Philip as chairman of the English committee and **Lord John
+Hunt** as national coordinator in Britain, set out in full: **two schemes, one for girls and one
+for boys**, each with **four sections and three levels (Bronze, Silver, Gold)**, non-competitive,
+all four sections required. *Girls*: **Design for Living** (topics including "Art of Make-up and
+Hairstyles," "Entertaining," "Food and Your Health," "What to Wear and When To Wear It"),
+**Adventure** (a day's journey in a group of three to six, six miles on foot or ten by bicycle,
+**each girl keeping her own log**), **Interests**, **Service**. *Boys*: **Service**, **The
+Expedition** (24 hours, at least 15 miles on foot, two hot meals prepared, all food and equipment
+carried), **Hobbies and Projects**, **Physical Fitness** (pass three of five: running/walking,
+jumping, throwing, swimming, physical efficiency). Interests/Hobbies must be pursued **six months
+at Bronze and Silver, twelve at Gold**. Age bands differ by sex — girls Bronze 14–21, boys Bronze
+14–17. Canadian office: **Commander George Manson, Suite 810, 135 James Street South, Hamilton**.
+Recorded here because the **Design for Living section is a period document in itself** — the
+girls' scheme is domestic where the boys' is physical — and because it names a specific external
+award structure a camp could adopt, worth checking against Kanawana's own badge and crest record.
+
+**★ W. Bertram Danson (Camp Winnebagoe), "Do's and Don'ts for Counsellors."** Danson is the third
+of the three founders' names Ebbs listed at issue 84 that this project had no trace of, and here
+he is writing, from Camp Winnebagoe. His list is short and blunt, and several items bear on the
+`p_307` thread as the period's stated norms of staff conduct. **Do's**: humour; a smile "even
+when things appear to be going wrong"; "always maintain a mild degree of dignity"; patience with
+"the slow learning child or one who is poorly co-ordinated"; anticipate danger; **"refrain from
+becoming emotional about any situation, that might bring a reaction from the campers"**; respect
+your campers; be flexible; rise promptly yourself. **Don'ts**: don't be loud; don't be a
+"yeller"; **"Don't use profanity or slang — never tell your campers to 'shut-up'!"**; **"Don't
+embarrass a child in front of others"**; don't pick on a child who irritates you; **★ "Don't
+resort to physical punishment, or other off-beat methods that might have been used on you when
+you were a camper"** — a second explicit prohibition of corporal punishment in this run, after
+MacCulloch at issue 83, and this one framed as breaking a generational chain; **"Don't use
+'docking' as a punishment"**; don't be a dictator; **"Don't brow-beat, frustrate, threaten, nag,
+be sarcastic or belittle"**; **"Don't let your campers call you by your last name only. It is a
+mark of disrespect"**; and **"Don't take food from your cabin tuck larder, other than when it is
+being shared by everyone. This causes more ill-will than almost any other cabin problem."**
+
+**News from the Provinces.** **Newfoundland and Labrador** annual meeting and conference, **17–18
+April**, keynote by CCA president **David Hartry**, special speaker **Dr. Richard Warner, Director
+of the Centre for Environmental Biology, Memorial University**, on the theme **Pollution**. New
+executive: past president Eric Russell, **president Elizabeth Mouland**, VP Rev. Levi Mehaney,
+secretary Marjorie Pike, treasurer Captain Linda Hussey, directors Rev. Bain Peever and Major A.
+Browning; standing committees — membership Terry Healey, **training Jane Pawlett** (who has just
+run **nine weeks of counsellor training sessions**), **standards Eric Russell**. Mouland, "also a
+Ranger Captain, will be in charge of a Canadian Delegation of Rangers to a **World Ranger meet in
+Korea** this summer." **Manitoba** has again approached "the New Democratic government under
+Premier Ed Sch[r]eyer" for **a substantial campership fund**; its training committee has run
+meetings between camp directors and agency workers on "types of camps, what each offers to
+campers, skill level needed, age groups, fee structure, information required on referrals, and
+**placing of children with special needs**"; **Manitoba's Centennial summer is the second summer
+of resident-camp visitation by its Standards Committee**, with day-camp standards being drafted;
+and, with student summer employment "at the critical point," the MCA circulates a **Staff
+Placement List** and sends enquirers a complete list of camps and contact persons.
+
+**Smaller items.** A new advertiser of the physical-plant kind: **Rural Toilet Specialty Co.**,
+"Well Equipped Camps Have Inside Toilets," offering the "Suburban Water Saver" toilet, large
+septic tanks taking six or more toilets, and gasoline pumps and pressurised tanks "for camps with
+no hydro facilities" — a marker of when inside plumbing became a selling point to camps. The
+magazine prints a **subscription coupon** ($3.00 a year, $8.00 for three) asking for camp
+affiliation, position, and whether the subscriber is an undergraduate or graduate student.
+
+Nothing in this issue names Kanawana. Its value is Pearse's song-leading method with its full
+period repertoire — the best `p_048` source the read has found — Wipper's founding account of the
+canoe collection, Plewman identified as Kilcoo's owner-director and dated to 1909, Danson writing
+from Camp Winnebagoe with a second explicit ban on physical punishment, Palm's waterfront
+progressions matched to short camp periods, and Bertram's 1964 record of bilingual practice at a
+Quebec camp.
