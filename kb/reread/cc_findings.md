@@ -9964,3 +9964,267 @@ an adult decision."
 Nothing in this issue names Kanawana. Its value is very high anyway: Shorgan's dated
 founding narrative of the ACQ, which corrects the wiki; new Dimock material; the
 MacKay Centre camp; and Mary Edgar named as the magazine's founder.
+
+## 67
+
+`canadiancampingmagazine_vol17no4_1965june.txt` — Vol. 17 No. 4, June 1965.
+
+Contents page (checked against this block): The Future Look (W. D. Smith) · Give
+Your Heart to Children (Shirley Hall) · Programme Pot-Pourri (Gordon MacNab) ·
+Sermons Under the Sun (Eanswythe Flynn) · News from the Provinces · Pre-Camp
+Training, concluded (Helen Stewart) · Special Waterfront Programmes (Ron Mayeda) ·
+With Pack and Paddle (John Scott) · Crafts Anyone? (Mary Paton). All nine covered,
+plus the editor's death notice, a Souster poem, and the "Wilderness Corner" note.
+
+**The CCA's head office moves again — Calgary to Vancouver**, 3845 West 14th Avenue,
+following the 12 March 1965 annual meeting at Parksville. New executive, elected for
+two years: **President Mrs. Lorne (May) Brown, Vancouver** — the first woman president
+in this run; Vice-President Gordon McNab (Vancouver); Secretary Rev. Ernie T. Loreen;
+Treasurer Richard Caswell (New Westminster YM/YWCA); Executive Secretary Mrs. Charles
+(Peggy) Etchell. **Adele Ebbs joins the vice-presidents**, R. Lazanik continues for
+Montreal, and **W. Donald Smith is added to the Past Presidents list** — which
+**settles the identity question flagged at issue 66**: the masthead's "Dr. Don Smith,
+Edmonton," the author bylined "W. D. Smith" on Camp Safety (issue 63), and "Dr. W. D.
+Smith, President, Canadian Camping Association" in the Northway/Lowes book
+advertisement are all **W. Donald Smith, Ed.D., of Edmonton**. Editorial Committee
+adds **Bruno Morawetz and Eugene Kates**.
+
+**Death of the editor.** Printed in a black-ruled box: "The entire camping community
+will be shocked and saddened to learn of the sudden passing of our Editor, **DOROTHY
+MAYBEE DOUGLAS**, on **Thursday, May 20, 1965**, after a long illness." This is the
+illness Flynn and Bertram covered for (issue 65). Provenance point: from here the
+magazine is between editors, so unsigned material in the next issues should be
+attributed with care.
+
+**QUEBEC — the most consequential item in this issue, and entirely new to the
+project.** Under "News from the Provinces," the magazine reprints an attack and the
+Quebec reply. **Nathan Cohen**, writing in March "in one of Canada's largest daily
+newspapers" (and who "has since acknowledged [his observations] must have been based
+on misleading information"), claimed:
+
+> "A major crisis has developed in the Canadian Camping Association… As its 1967
+> centennial project… the C.C.A. plans to have boys and girls travel by canoe along
+> the coast-to-coast routes taken by the early explorers, and mark these routes. By
+> virtue of its history and size, Quebec has the longest routes to be travelled and
+> marked. But Quebec has a small summer camp population. Its summer camp industry
+> can't possibly handle its share of the project… If Quebec tries to go it alone, the
+> project has to fail. If the other provinces insist on helping… Quebec will
+> withdraw — either way the Canadian Camping Association is wrecked."
+
+**Robert Lazanik, President of the Quebec Camping Association**, replies with figures
+this project has nowhere else:
+
+> "there is not at the present time, nor has there ever been a 'major crisis' in our
+> Canadian Camping Association… our [Quebec] committee [is] set up and already
+> participating in the plans for this canoe trip, [and] we already have our route
+> marked and have begun to line up member camps who will be taking part in the trip.
+> You state that Quebec has a small summer camp population. You might be interested
+> to know that **in the summer of 1964 over 70,000 children attended summer camp in
+> the Province of Quebec**. Further, we have a very active camping association here,
+> with **over 150 member camps, and two sections**, one serving English-speaking and
+> one serving French-speaking camps. **In 1964 we held the largest conference ever in
+> our history**… Plans are already under way for an even larger conference in 1966."
+
+And on the Vancouver meeting: "You would have seen individual differences put aside as
+we worked together for **a new constitution of C.C.A. and for the creation of a
+national French section**."
+
+Three things to carry forward. (1) **70,000 Quebec campers in 1964 and 150+ QCA member
+camps** give Kanawana a provincial denominator for the first time — set beside the
+national 1,600 camps / 500,000 campers repeated in this same issue, Quebec was running
+roughly 14% of Canadian camp attendance. (2) **Kanawana's Centenary Journey leg was
+part of a route the QCA had already marked by March 1965**, and member camps were being
+lined up then — two years before the paddle and a year before the prospectus
+`centennial-1967.md` cites. Chase the QCA's Centenary Journey committee records. (3)
+The **national French section created at the 1965 annual meeting** is the sequel to
+Shorgan's provincial French section (issue 66) — the Quebec initiative going national
+in seven years. Lazanik should be spawned as a stub; he is the QCA president through
+whom Kanawana's association business ran in these years.
+
+**W. D. Smith, Ed.D. (Immediate Past President), "The Future Look"** — the CCA's own
+forecast, and a checklist against which Kanawana's actual sixties can be measured. He
+repeats the national figures ("over 1,600 camps in Canada today servicing at least
+500,000 campers") and cites three sources by name: William E. Brattain in *Camping
+Magazine* Nov–Dec 1964, Kirk Wipper's "Leadership — the Key to Camping" at the Nova
+Scotia Camp Directors' Seminar 1964, and his own "Leadership in Camping" at the 1963
+Manitoba Institute. Brattain's seven agreed trends: programmes more flexible with less
+formal class scheduling; trip and travel camping "on the upgrade"; better-trained,
+more mature counsellors with group leadership skills; a growing need for professional
+requirements for directors; concern with both facility and programme development;
+awareness of standards; and increased governmental control, "especially in regard to
+legal controls and health and safety requirements." Wipper's facility trends: plastic
+pipe for water lines, fibreglass for screening and boat repair, and "a new and modern,
+contemporary architecture of camp buildings designed by specialists." Wipper's two
+questions — **"Why do the majority of children start camping at the age of nine and
+stop at the age of thirteen? Why is there such a large segment of boys and girls in
+this country who have no camping experiences open to them?"** — are exactly the
+questions Kanawana's own enrolment records could answer.
+
+Smith's forecasts, several of which the wiki can test against what Kanawana did:
+higher fees and wages; graded standards by provincial associations and national
+leadership schools; objective measurement of "changes in campers"; emphasis on
+"inter-cultural understanding"; greater use of public lands and leases adjoining
+parkland; new outpost camping programmes distinguished from decentralised camping;
+study of the teenage "in-betweeners"; church camps lengthening to a two-week minimum
+with volunteers replaced by paid administrators; a revised CCA constitution "with
+greater emphasis on bi-cultural and bi-lingual understanding"; foreign students placed
+in camps under the government's External Aid Program; and an annual directory of
+Canadian camps. And one sentence that reads as an instruction to this project:
+**"Individual camps will look back long enough to record a history of their
+development and a more precise outline of their own particular philosophy. Camp
+folders and brochures of the future will be more individualistic and stress their own
+camp philosophy and history."**
+
+**Gordon MacNab (Vice-President, CCA), "Programme Pot-Pourri" — the fullest campfire
+and programme manual in this run, and the closest published analogue to Kanawana's
+council-ring practice.** Campfire mechanics: "fire should be blazing (not smoking)";
+appoint fire-tenders; if there is a fire ban, "place the cabin lanterns around the dry
+campfire." **Four special openings**, of which two are pyrotechnic — a hidden candle
+tripped by a wire onto chemical powders, and a bundle of rags lit in a tree and sent
+down a wire into a kerosene-soaked fire — and one is ceremonial: "**A Medicine Man or
+Witch Doctor could enter and point in the various directions of the compass**"; and
+one is the torch-lighting in which each cabin brings a torch and "the camp chief could
+call on each group to place their torch into the fire." **Coloured flames**, by
+recipe: strontium nitrate red, calcium nitrate yellow, borax green, potassium chloride
+purple, over a base of chlorine salts, coarse salt, bluestone and paraffin wax.
+
+His **song-leading doctrine** is directly comparable to what Kanawana's song tradition
+would have been taught: "a happy camp is a singing camp"; programme written in advance
+and stuck to; **"do not use song sheets during campfire"** (learn them at rest period);
+a small group in the campfire circle, a large one in a horseshoe "to get control";
+"stop programme on time — always stop when activity is still in high interest"; **one
+new song per campfire**, taught by telling its background first, singing it through
+once, then line by line, and not repeating it too soon; "campers and new staff should
+be trained to lead at least half of each programme"; campfire under an hour, or
+seventy-five minutes with refreshments. And a **ten-part campfire order**: hello songs
+· action songs · follow-the-leader · rounds · special songs · contests, games, skits,
+action stories · slowing-down songs · spirituals · story or legend · closing "with one
+or two of your camp's special songs or your traditional closing — quiet, lifting to the
+spirit."
+
+He then prints the repertoire itself: icebreakers with their words (the "Royal Order of
+Siam" and "Chinese Prayer" gags, Frog Pond, "I am a Monkey", Community Sneeze), yells
+with their actions (Very Good, Guillotine, Watermelon, Ginger Beer, Mosquito), and long
+lists of outdoor, waterfront, indoor and rainy-day events. Several bear directly on the
+Indian-lore thread: "**Pioneers and Indians — capturing scalps**"; "**Indian dances**"
+among the games; "**Indian Day** — or it might be Neptune Day"; and "**Sweat Lodge —
+find out how to build. Great fun sweating in steam, then jump in the lake.**" The KB
+already records that Seton created "the Indian Council Ring, 'traditional' dances,
+sweat lodges, and Indian crafts programs"; **this is the CCA vice-president printing
+the sweat lodge as a camp stunt in 1965**, which is the concrete downstream evidence
+for that claim and should be cited where the wiki discusses appropriated ceremony.
+Also here: Camper Day (campers take the counsellors' roles), Monks Meal, Mock Trial,
+Capture the Flag, Sardines, Kick the Can, Operation Marathon, the Murder Room with its
+peeled-grape eye and wet-macaroni veins, and a full aquatic-meet list (log rolling,
+gunwaling, jousting, sinkum-sunkum).
+
+**Helen Stewart (Camp Wahcahmie), "Pre-Camp Training in the Small Camp," concluded.**
+The second half completes the training agenda begun in issue 66 and adds, under the
+director's discussions: "**Cabin groups and confidential reports from parents — special
+needs**"; mid-term and cabin reports; "**Staff evaluation sheets**"; parent letters;
+and "**Junior and Senior C.I.T. programme — training involved — staff involved and
+their contribution — evaluation forms**." Staff-led sessions include "**Council Ring
+and Chapel organization**", singing and campfires, choir practice, outdoor theatre with
+the play read at pre-camp, three prepared rainy-day programmes, duty lists (campers,
+prayers, Sunday, patrol, snack), and "Regattas, Backwoodsman's Day, Marathon". Named
+camp buildings, incidentally charming and useful as evidence that camps named their
+structures whimsically: "**Piglet's Pub, Pooh Corner, Windsor Castle**, and showerhouse
+in readiness!" The **post-camp two-day session** is equally systematic: reports and
+evaluation forms completed; inventories; equipment washed, packed with moth crystals
+and stored "in same neat order as found at pre-camp"; and a structured critique — was
+the Staff Manual adequate, what did pre-camp lack, "trouble staff had through ignorance
+— ie. not covered at pre-camp", and which senior campers to invite back as junior CITs
+and which junior CITs merit senior training. For the staff-evaluation thread (`p_307`),
+note that this camp used **evaluation forms in both directions and at three points** —
+CIT evaluation forms, staff evaluation sheets, and staff critique of the training.
+
+**Ron Mayeda (Camp Kandalore), "Special Waterfront Programmes"** — an OCA session
+outline printed whole, and the most detailed waterfront-operations document in the run.
+Regatta doctrine: "**Maximum activity and maximum participation**"; balanced teams and
+captains chosen in advance, with team names, cheers, songs and banners; "**Recognize
+team effort not individuals**"; "make sure that even the poor swimmers have an event";
+"use only competitive events (no novelty races)"; a suggested two-hour programme with
+senior and junior docks running swimming (50 free, 50 back, 200 free, relays) and
+canoeing (doubles, fours, kayak, **war canoe race**) in parallel; five official roles.
+**Safety rules**: one lifeguard per team plus waterfront staff, a rowboat guarding the
+canoe races, "stress no dumping during canoe races (especially staff)", decks restricted
+to officials, "**the waterfront director should be assigned no specific job. He is the
+trouble shooter**", and "do not use safety equipment for event." Also night campfires
+on the water — a staff member in each canoe, a motorboat with a light, flashlights,
+stem and bow ropes to hold the circle, non-swimmers in war canoes or rowboats, and "if
+there are not enough boats put the campfire out in the lake and leave your campers on
+shore." And a closing hierarchy worth quoting: "**ALL WATERFRONT ACTIVITIES SHOULD HAVE
+THE FOLLOWING PRIORITY: SAFETY · FUN · SKILL.**" He advises against inter-camp
+competition outright: "often good-will between camps is destroyed. What is gained?"
+
+**John Scott (Camp Wanapitei), "With Pack and Paddle" — written for camps taking part
+in the Centenary Journey, and therefore written for the trip Kanawana's crew made.**
+Scott is identified as **the new Chairman of the Ontario section of the Cross-Canada
+Centenary Canoe Journey**. He addresses a counsellor suddenly asked to lead a twelve-
+to fourteen-day expedition having never led more than six days. Practical content:
+build the itinerary from large-scale maps, asking whether staples like bread can be
+bought en route, whether campsites exist, and whether the party will run rapids going
+down or portage going up — "(Perhaps your director forbids running white water — best
+check with him to be sure.)" On selection: "There is no place for petty jealousies, or
+the slacker who does not pull his load." On staffing, and unusually frank about the
+strain: "To be continually responsible for the campers, twenty-four hours a day, builds
+up tension and is a strain on the nervous system. It seems advisable that there be at
+least two staff on any trip for this reason alone." Packing: divide food and gear into
+roughly equal loads, "You need as many packs as there are persons on the trip, less the
+number of canoes." Two pieces of period logistics worth keeping: **"Lumber companies by
+federal law, must provide transportation round such obstacles when it is necessary to
+block a navigable waterway"** — so a party meeting a log drive could demand a lift
+around it, provided the Woods Supervisor knew they were coming; and pay rail tickets and
+excess baggage on the canoes **before leaving camp**, "to avoid carrying large sums of
+camp money." Communication: report progress to the director en route, and hang a large
+route map in the dining room with pins moved as news arrives — a practice
+`centennial-1967.md` may be able to confirm at Kanawana. Closing line: "**don't forget
+that your Provincial Centennial Committee wants a detailed log of your encounters en
+route!**" — **which means a Kanawana trip log was expected to exist and to have been
+submitted to the QCA.** That is a specific, findable document, and the strongest
+archival lead in this issue.
+
+**Shirley Hall, "Give Your Heart to the Children… Whether in Day or Resident Camp"** —
+a full day-camp method for "pavement-bound" children, built as a sequence of questions
+put to the campers rather than instructions: choose a campsite ("why this gully could
+be unsuitable in damp weather"), decide what a fire is for, learn turfing and fire
+safety, build trench and tee-pee and log-cabin fires, hold a water-boiling contest,
+discover why a sooted pot is easier to clean if soaped first, build tripods, lash
+shelters, then cook a real meal with each camper bringing an item from home. Also the
+overnight sleep-out as the programme's highlight, judged unsuitable "for children under
+nine years of age… either emotionally or in the realm of skills." Nature crafts run to
+"lapel pins, or necklaces for their **Indian costumes**" and "an **Indian tomahawk**",
+and the evening ends with "**Indian stories or star legends**" — the same repertoire,
+in a day camp. Her instruction to counsellors, twice in the run now (compare Taschereau
+at issue 66): "have the courage to say, 'I don't know, but let's find out together'."
+
+**Eanswythe Flynn (Camp Brigadoon), "Sermons Under the Sun"** — this time a full order
+of service rather than a homily, which makes it directly comparable to whatever
+Kanawana did on Sundays: a service "simple, short, musical and cheerful, sincere and
+free of theatricals"; a musical prelude of hymn tunes; the director standing to read
+scriptural sentences (four given); first hymn, campers standing; a short psalm read
+responsively; a collect; second hymn or choir anthem; collection and address; last
+hymn, closing prayer, blessing. **"IT MUST BE SHORT; no longer than ten minutes; in
+fact, the entire service should last no longer than half an hour."** The suggested
+blessing is chosen as "appropriate to every denomination, creed or race."
+
+**Mary Paton (Camp Onawaw), "Crafts, Anyone?"** — working recipes for lino-cuts, leaf
+printing, cardboard printing, collages, paper mosaics, **batik** (paraffin, RIT dye,
+wooden frame, wax removed with carbon tetrachloride or a warm iron), crayon drip,
+nature plaques, bean-and-seed jewellery, and glass mosaics, with sources (macaroni from
+Italian grocers, seeds from feed stores) and a book list including Catharine Hammett and
+Carol Horrocks's *Creative Crafts for Campers* and a Golden Book on **Indian Crafts and
+Lore**. A concrete inventory of what a camp craft shop of the mid-sixties actually made.
+
+**Also.** A **Raymond Souster** poem, "At Split Rock Falls," printed in full. An
+editorial note that a "**Wilderness Corner**" department is planned, prompted by Bruce
+West's *Globe and Mail* column, quoted at length on the value of doing without
+push-button comfort. And a note thanking conference speakers who sent in their notes
+and outlines — **which explains the character of this whole stretch of the magazine:
+much of what this read is collecting is conference material solicited by the editorial
+committee**, so the OCA, NSCA, MCA and QCA conference files are the upstream source for
+a great deal of it.
+
+Nothing in this issue names Kanawana. Its value is Lazanik's Quebec figures and the
+national French section, the Centenary Journey trip-log requirement, MacNab's campfire
+manual, and the resolution of the W. D. Smith identity.
