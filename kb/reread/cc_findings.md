@@ -1985,3 +1985,334 @@ warning directors to sound the warning to students — the political weather cam
 hiring took place in.
 
 **Kanawana itself: not named in this issue.**
+
+## 25 — Vol. 7 No. 1, February 1955
+
+★★ **A CONFLICTING DATE FOR THE FIRST CAMP IN CANADA — and it conflicts with the same
+magazine two issues earlier.** In "A Survey of Junior Camping in Ontario," conducted by the
+Toronto Nursery Education Association, chaired by **Flora Morrison** and prepared with the
+advice of **Dr. Mary L. Northway**, the historical preamble states:
+
+> "In Canada in **1884, the Ottawa Y went camping at Golden Lake** and in all probability
+> established the **first Canadian camp**."
+
+Set this against **issue 24's** Personality profile of Ace Milks (December 1954, Arnold
+Fraser), which says the earliest trace of that same Ottawa camp is an **Ottawa YWCA board
+minute recording a camp held in 1893** on the Ottawa River across from Quyon, that the camp
+was at **Marshall's Bay in 1907**, and that it moved to **Golden Lake only in 1908** because
+of sawdust in the water. Two accounts in the same magazine, three months apart, place the
+Ottawa Y at Golden Lake twenty-four years apart, and one of them asserts a Canadian first.
+
+**This matters directly to Kanawana.** The KB holds that Big Cove (1889) is Canada's oldest
+residential camp and Kanawana (as Camp Jubilee, 1894) the second, with Kanawana first in
+Quebec; the camp's own 1982 advertisement claims "the first boys camp in Canada." An 1884
+Ottawa claim, if it stood, would displace all of that. **It should not simply be believed** —
+Fraser's account is the more circumstantial and cites a document, while Morrison's is a
+one-line preamble to a nursery-education survey. But it is now on the record from a
+national association's own magazine and needs a conflict record rather than silence. Flagged
+here as a **conflict to raise, not resolve**: two documented sources disagreeing with each
+other is a human decision point under the standing directive. *(Noted also: neither of these
+Ottawa accounts nor the 1884 date appears anywhere in `facts.json`.)*
+
+★ **The Ontario Camping Association Minimum Standards for Organized Children's Camps,
+adopted 5 November 1953, printed in full** — health and sanitation, waterfront safety,
+leadership. These are the actual clauses: camp licensed under the Public Health Act;
+drinking water approved before opening and tested every two weeks; all milk pasteurized;
+a hot bath or shower at least weekly; a resident doctor or registered nurse in any camp of
+more than two weeks with more than 30 campers; health examinations for every camper and
+every staff member; a mid-day rest of not less than one hour; **one lifeguard for every ten
+persons in the water, free of all other duties**; written and posted swimming rules applying
+to staff and visitors as well as campers, and no one ever to swim alone; swim tests on
+arrival; **a counsellor must be at least seventeen**; **not less than one cabin counsellor
+for every eight campers**; **no staff member engaged until the director has contacted at
+least one referee, and where the applicant has worked at another camp, a report from that
+camp on character and suitability**; at least one half-day a week entirely free for every
+staff member. Explicitly **not mandatory for OCA membership**.
+
+This is the benchmark. Kanawana was a QCA, not OCA, member, so these did not bind it — but
+they are the published Canadian minimum of the period, and every ratio, age floor and
+reference-checking rule here is a measure against which the camp's own documented practice
+can be read. The KB has nothing under "Code of Ethics" or these standards. The reference
+clause is also the professional counterpart to the OCA Business Principles found in
+issue 22, and together they explain why staff references circulated between camps at all.
+
+★ **The 1955 Quebec Camping Conference: University Settlement, 3553 St. Urbain Street,
+Montreal, 11–12 March 1955**, contact Ken Murray. A dated, located Quebec camping event —
+the annual gathering Kanawana's director would have attended, in a specific building.
+
+**"Ruby Smith, Joyce Bertram and Mary Kirkwood arrived from Montreal"** over the holidays to
+visit the national office — Ruby Smith again, in a third consecutive issue, and a new
+Montreal name, **Mary Kirkwood**. **C. A. Buckley, Director of Big Cove YMCA Camp out of
+Halifax, is named CCA representative in the Maritimes** and is working to build a camping
+group there — Big Cove being the camp the KB records as Canada's oldest, so its director is
+now a documented CCA officer. **Jack Pearse** was developing the Ottawa area, where "some
+fifteen or more camps" were outside the association.
+
+**Haladner's presidential message** reprints the CCA charter objectives and the ten goals
+set at the Ottawa board meeting of November 1949 — including goal 8, "to explore the
+possibilities of having the Dominion government build camps for children in national parks
+and these camps available on a rental basis to agencies," and goal 10, promoting
+international awareness through Canadian and National Citizenship. He also concedes the
+association's structural weakness plainly: "Most decisions are made by a few officers in the
+locality of the President," and standing committees "have rarely had the thinking and action
+from broad representation across the country." Useful for the institutional-lineage article
+on the CCA — this is the national body describing itself as Toronto-centred in 1955.
+
+**Canadian canoe standards begin.** John Hoyle, National Chairman on Standards, "is now
+calling together a committee to work on the nucleus of a set of standards based on those in
+Mr. Ron Perry's book, *The Canoe and You*." Requests had been "overwhelming." This is the
+origin point of national canoe-tripping standards in Canada, from a named book — directly
+relevant to the canoe-trips article.
+
+**The Counsellor Placement Bureau described in operating detail** — applicants' cards on
+file at national office; Toronto-area directors pay $1 to register, out-of-town directors
+free; $1 per counsellor actually engaged; lists mailed periodically. A documented mechanism
+by which staff moved between Canadian camps in the 1950s.
+
+**Fowke and Johnston's *Folk Songs of Canada* is reviewed at length** with an explicit
+programme for camps: "Camp songs should be, to a great extent, Canadian in our camps… If our
+campers were to learn even one of these songs for each week spent in camp, theirs would be a
+rich heritage." The nationalist argument for the camp repertoire, stated outright.
+
+**Arnold Fraser (now World Alliance of YMCAs, Geneva) on YMCA camping in Belgium** — two
+tent camps, Nieuport-Bains and Han-sur-Lesse, built up over eight postwar seasons from
+campers "huddled together in empty, badly damaged bunkers left over from Hitler's… Atlantic
+Wall"; **"all the camps are on a co-educational basis"**; almost a hundred children of
+American armed-services personnel camped with Belgian children in 1954. A YMCA camping
+system running fully coeducational a decade before Kanawana's coeducation question — worth
+having in the coeducation article as evidence that the movement's own international wing had
+already settled the point.
+
+**Ted Yard's second "Whoduzit?" analysis: the Waterfront Director**, in full — instruction
+programme, water-safety promotion, equipment maintenance, regattas, general swims, the
+assistant's role, daily recording of tests passed, buddy system with written rules for
+conduct, guards' position and uniform, swimming boundaries and boating precautions,
+end-of-season summary and equipment inventory.
+
+Also: the **1954 OCA Directors' Seminar reports are listed as free publications** — six
+titles by Haladner, Hoyle, R. D. McDonald, R. W. Bundy, Barry Lowes and Mrs. J. H. Ebbs.
+A findable set of documents on Canadian camp-director training in the year Kanawana was
+running under Locke's *Manual of Operations*. And **Vernon McAdam's Weredale book appears
+again** in the free-publications list, confirming the Boys' Clubs of Canada address at
+6 Weredale Park, Montreal 6.
+
+**Kanawana itself: not named in this issue.**
+
+## 26 — Vol. 7 No. 2 [masthead misprints "Vol. 8"], April 1955
+
+★★ **A SECOND "FIRST" CONFLICT, and this one is squarely against a claim the KB already
+carries.** Joyce Plumptre Tyrrell's obituary of **Fannie L. Case** (died 23 January 1955,
+aged 87; formerly Miss Tyrrell was Assistant Director of the camp) states that Case, from
+her 1905 camping trips into Algonquin Park with her Rochester students, **"founded Northway
+Lodge as the first girls' camp in Canada."**
+
+`facts.json` records instead that **Mary Susannah Edgar** "is credited with founding the
+first girls' summer camp in Canada" (Camp Oolahwan, YWCA, Lake Walfred, Quebec, 1917).
+February 1955's junior-camping survey also dated Case's first trip to "the early nineteen
+hundreds." **Northway Lodge, 1905, predates Oolahwan by twelve years, and neither "Fannie"
+nor "Northway Lodge" appears anywhere in `facts.json` or `wiki/`.** Together with issue 25's
+1884 Ottawa claim, that is now two chronological priority claims in consecutive issues, both
+absent from a KB that carries competing claims of its own. Flagged for a conflict record.
+
+The obituary is worth having whole regardless. Case: daughter of a Methodist minister;
+Teachers' College, Columbia; fifteen years teaching in Rochester high schools; lectured in
+the psychology of industrial education at Rochester Institute of Technology; a founder of
+the Rochester chapter of the Girl Scouts. **Northway had no set rules, no boundaries, no
+whistles, bells or bugles, and no set religious teaching**; after nearly fifty years on one
+site there were still **no large buildings — only log and shingle structures built by the
+campers, everyone in tents strung along the wooded shore**; the programme was a **morning
+work hour** (clearing trails, burning slash, repairing boats and structures) and **canoe
+trips through the park as the central feature**, everything else improvised by campers.
+Survived by her twin brother Charles and her sister Emma. Her pastor was Dr. William
+Hudnutt. This is the fullest documented statement in this run of the "pioneer camping"
+philosophy — the anti-institutional pole of the movement Kanawana's own building programme
+was moving away from.
+
+★ **Mary Edgar's "Wood-fire and Candle-light" — four texts printed in full**, including
+**"The Camp Hymn": "God who touchest earth with beauty / Make my heart anew…"** all five
+stanzas; plus "The Sand Man," "The Magic Store," and "For an Outdoor Chapel." The hymn and
+the 1945 book of that title are already in `wiki/connections/related-camps/camp-oolahwan.md`
+(1925 ACA hymn competition first prize, published 1926) — **so this is corroboration, not
+discovery**, but it is the printed text as Canadian camps received it, in the magazine of
+their own association, from the author, "presented for your use through the courtesy of
+Miss Edgar." The other three poems are not in the repo. Directly usable in
+`traditions/camp-songs-cheers.md`: the single most widely sung Canadian camp hymn of the
+period was written by a woman who had run a camp in Quebec.
+
+★ **Keith Cleverdon, "A Challenge to All" — the full documentary history of Canadian camp
+standards.** The OCA standards committee **met 1947–1950 under John Hoyle**; proposals were
+circulated to the membership, discussed at several open meetings, and voted on at **two
+annual meetings**; the standards were **revised in 1953** and altered again in 1955. The
+committee then had **thirteen members representing the YMCA, YWCA, Boy Scouts, Girl Guides,
+church camping, the Crippled Children's Society and Kiwanis**. **A voluntary accreditation
+scheme in which 44 camps took part** had just been analysed, and the 1953 annual meeting had
+charged the committee with **developing a system of accrediting member camps**. The two
+amendments approved by the OCA executive are given verbatim — the counsellor ratio is
+restated as **programme staff (excluding kitchen, maintenance and secretarial) at one to
+every eight campers**, each at least 17, with younger juniors permitted above that ratio.
+Cleverdon also records where directors pushed back: showers, water testing, emergency
+transport and isolation of sick children in the Health section; **counsellor age and ratio**
+in Leadership, because "many camps use a system of staffing in which a number of mature
+senior members are employed along with younger assistants" — which is exactly the CIT/junior
+counsellor structure Kanawana ran.
+
+**CCA finances, printed in full** — 1954 revenue $627.90 (membership fees), expenses
+$863.60, deficit $235.70; net worth at 31 December 1954, $974.83. The national association
+of Canadian camping was running on under a thousand dollars. Worth quoting in the
+institutional-lineage article: whatever authority the CCA had over camps like Kanawana, it
+was not financial.
+
+**Cornelia Goldsmith's OCA convention address, 4 March 1955** ("Camp Parents: A Problem or
+a Challenge?") — Chief of the Division of Day Care and Foster Homes, New York City
+Department of Health. Sets out the pre-camp home conference as accepted practice, with
+preliminary data gathered from school, physician and parents; end-of-season written reports
+on each child; and an explicit warning against "heavy and dramatic advertising, glamorized
+brochures" and "high-powered salesmanship," because "children are not commodities."
+Recommends **John Bowlby's *Maternal Care and Child Health*** to any director taking
+children under six or seven. The professional standard of camp–parent relations in the year
+Kanawana was operating under Locke's manual.
+
+**Margaret Govan (Director, Camp Onawaw), "The Dutiful Bogey-Man"** — a complete campfire
+story printed with **stage directions for localisation built into the text**: "(USE TOWN
+NAMES WHICH THE CAMPERS COME.)" and "(USE THE NAME OF A POPULAR SENIOR.)" This is a
+documented instance of exactly the mechanism by which a camp ghost story becomes local
+property — a published story explicitly designed to be renamed to the camp telling it. It
+does not prove anything about Chopsy, but it is the best evidence yet in this run of **how**
+a legend like Chopsy could acquire camp-specific names and places while descending from
+printed matter. Directly relevant to `p_045`.
+
+**Betty Taylor (Camp Tanamakoon) on organising an archery programme** — range siting,
+backdrop, bow weights 10–24 lb, eleven-point form checklist, William Tell shoot with a
+ketchup bag behind the tomato, tests from Rounseville's *Archery Simplified* with a tassel
+awarded for each. Kanawana ran archery; this is the era's method.
+
+**News: G. Hamilton Gosse**, formerly General Secretary of Niagara Falls YMCA, appointed
+Executive Secretary of the **Canadian YMCA's summer conference and training centre at
+Geneva Park** (chairman Bruce MacDougall); D. D. Hills, manager of Geneva Park 1951–55,
+became General Secretary of the Saint John YMCA. Geneva Park is where the national YMCA
+trained; the succession is dated here. **Canadian Camp Week: 1–8 May 1955.** New OCA
+publication: *It's Wise to Supervise*, on staff supervision in summer camps, by **Alan Klein
+(Professor, School of Social Work, University of Toronto) and Irwin Haladner**, 75c.
+
+**Kanawana itself: not named in this issue.**
+
+## 27 — Vol. 7 No. 3, June 1955
+
+★ **Camp B'Nai B'Rith, Montreal, appears — and is absent from the KB.** Elliott Larman is
+bylined "Nature Lore Counsellor, Camp B'Nai B'Rith, Montreal" for a full intermediate-level
+nature programme (the Star Gazer shoebox constellation viewer with pricked-paper slides of
+the five circumpolar constellations; bean-plant tropism experiments; a four-foot terrarium
+whose campers named theirs "Cibbibba Jungle"). **Neither "B'Nai B'Rith" nor "Larman"
+returns a hit in `facts.json` or `wiki/`.** A Montreal camp of Kanawana's own city and era,
+running a nature programme detailed enough to compare against Kanawana's — and a candidate
+for `connections/related-camps/`.
+
+★ **Mrs. A. H. Stoddard, Divisional Commissioner, Province of Quebec, Canadian Girl Guides
+Association**, writes "Nature's Craft Shop" — a full illustrated nature-craft method (maple
+seeds for beaks, spruce cones for bodies, milkweed pods for swans, oak apples for heads,
+melon seeds for ears; tools: penknife, scissors, awl, pins, Seccotine glue). Another
+Quebec-based contributor absent from the KB, and the era's documented craft-shop method for
+a camp using what the woods provided.
+
+★ **Dorothy M. Douglas — the CCA Song Book Chairman — signs an article at last**: **"Sing a
+Song of Canada,"** a working method for getting Fowke and Johnston's *Folk Songs of Canada*
+into a camp's actual repertoire. She names the songs she expects camps to take up:
+*Bonhomme, Bonhomme*, *Alouette*, *The Day Columbus Landed Here*, *The Farmer's Curst Wife*,
+*Unfortunate Miss Bailey*, *The Morning Dew*, *The Blooming Bright Star of Belle Isle*,
+*The False Young Man*, **and — "here in print for the first time" — Ontario's "nostalgic and
+lovely" *Land of the Silver Birch***; then *Jack Was Every Inch a Sailor*, *Bonavist'
+Harbour*, *Youpe Youpe*, *Lukey's Boat*, *I'se the B'y*, *Red River Valley*, *We'll Rant and
+We'll Roar*, *The Chesapeake and the Shannon*, *Squid Jiggin' Ground*, *Donkey Riding*,
+*En roulant ma boule*, *C'est l'aviron*, *The Raftsmen*, *Lumber Camp Song*, *Ye Maidens of
+Ontario*, *Strawberry Roan*, *Old Grandma*, *Bury Me Out on the Lone Prairie*.
+
+Two things are useful here beyond the list. First, **her transmission method**: gather the
+campers and counsellors who like singing into an informal group of "pioneers," teach them
+the song first, then have them sing the verses while the whole camp learns the chorus — a
+documented mechanism for how a new song entered a camp's repertoire, and one that predicts
+exactly the pattern of a camp "having always sung" something introduced deliberately in a
+given year. Second, **the 1955 dating of *Land of the Silver Birch* as first in print**:
+`wiki/connections/related-camps/camp-oolahwan.md` records it as sung at Oolahwan; if
+Fowke and Johnston (1954) is genuinely its first printing, the oral tradition in camps
+preceded the printed source, which is worth stating carefully rather than citing the
+songbook as origin.
+
+★ **Taylor Statten's Golden Anniversary profile, by J. H. Ebbs, M.D.** — the fullest
+account of Statten in this run, and the KB already carries much of him. New or sharpened
+here: he became **Boys' Work Secretary of Central YMCA Toronto in 1905** and ran his first
+boys' camp at Lake Couchiching that year; later Provincial and Canadian Boys' Work
+Secretary; **Secretary to the National Boys' Work Board from 1921**; **"responsible for at
+least 52 camps conducted by the YMCA"**; originated the **Canadian Standard Efficiency
+Training programme for Tuxis boys and Trail Rangers in 1914**; leadership training camp for
+Tuxis leaders at Canoe Lake 1920; **Camp Ahmek 1921 with 30 boys**, grown to five separate
+age-group camps; **Camp Wapomeo for girls 1924 under Mrs. Statten, "in spite of warnings
+that co-educational camping would ruin his original camping venture"** — he built instead a
+**"brother and sister type camp."** **George Chubb (business manager) and Pete Sauve (head
+chef) had been with the Statten camps since 1921.** He was **director of character education
+at Pickering College from 1927**, then **president of the Metropolitan Board of the YMCA
+from 1940** and later its secretary through the war. Ernest Thompson Seton "introduced much
+of his Indian lore and wild-life legends to Canoe Lake," with a nature museum then being
+built in the original Seton cabin. Early leaders credited: **Charles Hendry, Joseph McCulley,
+Hedley Dimock, Alex Edmison, Ronald Perry.** *Camping and Character* "had its origin in
+Taylor Statten's camp."
+
+The coeducation sentence is the one to lift: **a documented 1924 warning inside the Canadian
+camping establishment that coeducational camping would ruin a boys' camp, and a documented
+result that it did not** — forty years before Kanawana faced the same question.
+"Chubb" returns zero hits in the repo; "Wapomeo" four facts.
+
+**Alan F. Klein (Associate Professor, School of Social Work, University of Toronto), "Some
+Suggested Training Techniques"** — and this one argues against the grain. Klein states that
+where the association has tried to evaluate pre-camp counsellor training, **"the demonstrated
+results… have been disappointing, to say the least, and yet we persist in relying upon it
+almost wholly."** He attacks the **unit/section-head system** directly: decentralisation is
+administratively sound but "supervision is not one of [its advantages] because most of us
+can not obtain unit heads who are qualified to supervise, either because we can not afford
+them or because they do not exist." He would employ **one senior supervisor charged with
+staff training** and use a senior counsellor merely as unit co-ordinator. He then sets out
+four methods — **role playing, case study, the incident method** (with a camp example: "When
+the cabin group left for the council ring Joel refused to go, saying that he was tired"),
+and **the observation method**, describing **Dick McDonald's research project with four
+counsellors** who agreed the qualities a counsellor should have, built an observation form,
+observed each other, revised the form, and observed the trainer. This is the contemporary
+professional critique of exactly the section-director structure Ted Yard's "Whoduzit" series
+was codifying in the same magazine — the two sit four pages apart. Worth having in any
+article on Kanawana's own section system and CIT training.
+
+**Rev. Wilbur Howard (United Church) at the 1955 Ontario Camping Conference** proposes a
+four-stage periodisation of Canadian camping — **"the Wild and Woolly Stage"** (throw 'em in
+the drink, morning jerks, blow that whistle, sleeping on grass blade and ground sheet),
+**"the Lean Towards Hygiene,"** **"Throw Back or Go Back"** (back to nature, native
+ingenuity and a hatchet), and a proposed next phase, "Relax and Think." He argues for
+**married couples as cabin leaders**, at least one grandparent on staff, and explicitly for
+**"two or three different races"** on staff: "If we're really serious about establishing
+better relationships with people of other nationalities and races, then we should be
+practical about it and get other races and nationalities into our camps." And he warns
+against all-**"home-grown"** staff — "then your leadership tends to be in-grown. You need
+some imports." A dated 1955 statement of racial integration as camp staffing policy from
+inside the Canadian movement.
+
+**Ted Yard's fourth "Whoduzit": the Medical Staff**, in full — arrival, mid-period and
+departure check-ups; daily health forms from cabin counsellors and morning sick parade;
+daily water testing, weekly screening check, daily out-house, sanitation, kitchen and
+dishwashing checks, regular laundry check; end-of-season summary of treatments and medical
+inventory. Also **Nancy Fairley (Waterfront Director, Camp Tanamakoon)** on making the
+waterfront fun, which names the era's motivational apparatus: Red Cross Junior-to-Senior
+Swimmer progression, RLSS Bronze Medallion and Award of Merit, Red Cross Leader's Course for
+16- and 17-year-olds, **"taxi rides" for beginners given by counsellors and CITs**, canoe
+parades and paddle-pasts with the Director taking the salute, "sailing lunches," "Vagabond
+Days," a camper-run Yacht Club, and comic regatta events (pyjama, newspaper, candle, potato
+and balloon swims; obstacle, crab, wash-basin and broom canoe races). Kanawana ran regattas;
+this is the standard menu they were drawn from.
+
+**Mary Edgar's "Taps"** printed in full, credited in advance to *Under Open Skies*,
+"to be published by Clarke Irwin & Co. Ltd. in the autumn of 1955" — the wiki records that
+book at 1956, so this is a dated announcement of it a year earlier and a small correction
+worth carrying.
+
+**Fire-hazard checklist** reprinted from the ACA's 1955 Buying Guide. **1956 convention
+booked for the Royal York Hotel, Toronto, 1–3 March.** The basic camp-library list names
+**Hedley S. Dimock's *Administration of the Modern Camp*** and **Dimock & Statten's *Talks
+to Counselors***, both already relevant to the KB's Dimock material.
+
+**Kanawana itself: not named in this issue.**
