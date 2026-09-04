@@ -10716,3 +10716,298 @@ than two hundred camp leaders — a likely place for further Canadian camp mater
 Nothing in this issue names Kanawana. Its value is the Tonakela date resolution, the
 OCA's brief with Ontario's 140,000 campers, Cecil Irwin's Quebec decade, and an outside
 witness to camp chapel practice.
+
+## 70
+
+`canadiancampingmagazine_vol18no3_1966april.txt` — Vol. 18 No. 3, April 1966.
+
+Contents page (checked against this block): Sermons Under the Sun (Dr. MacGregor
+Grant) · Camping in Canada's North / Scouting in Arctic Canada (B. H. Mortlock) ·
+Camp Re-Unions — God Bless Them (Joyce Bertram) · Camping Fire Safety · How Do You
+Score in Fire Safety · Where is It? (Josephine Harshaw) · Crafts at Serpent River
+(Eileen Muff) · From a Camp Director's Diary · Hootenanies (Mary Paton) · My Feet ·
+Saskatchewan's Adventure (Doris M. Grassie) · From the Provinces · Canada is Great
+for Camping (Adele Ebbs) · Society of Squares (Wm. Fayter) · Random Reflections. All
+fifteen covered, plus the In Memoriam notice. Cover: the Scout troop at Resolute Bay
+in hats of their own design.
+
+**QUEBEC — the single most important paragraph in this issue, buried in "From the
+Provinces."** Verbatim:
+
+> "**Quebec's concern for standards resulted in their securing the services of Mr.
+> Murray McFarlane who visited twenty-seven camps during the summer months, and
+> completed an exhaustive report on each camp. The camps were charged $25.00 for the
+> visit, said visit to be made one every three years. A detailed report was submitted
+> to the Standards Committee, and letters of accreditation were then forwarded to
+> twenty-five camps which passed. Notices went to the two who did not meet the
+> standards.**"
+
+This is the **QCA's first documented accreditation round, summer 1965**: a paid
+inspector, twenty-seven camps visited, an exhaustive individual report on each, a
+$25 fee, a three-year cycle, twenty-five accredited and two failed. **Kanawana was
+almost certainly one of the twenty-seven** — it is a QCA member camp of exactly this
+size and type — which means a written 1965 inspection report on Kanawana was produced
+and filed with the QCA Standards Committee. That is the most specific and most
+promising archival lead this read has produced for the wiki's own subject. It also
+completes the appraisal thread stretching back through the QCA's 1961 all-camp
+returns, the YMCA Camp Appraisal Form of 1953, and the 1922 Ontario and Quebec Boys'
+Work Committee gradings — and it lands one year after Yard's public argument that
+accreditation should not exist (issue 65) and in the same season as the OCA's
+"Desirable Camping Practices" (issue 69). **The inspector is very likely the P. M.
+McFarlane who wrote the Montreal MacKay Centre camp article at issue 66** (a former
+camp director, therefore qualified to inspect), but the given names differ in the two
+notices — record both and do not merge without a third source.
+
+**In Memoriam — Dais Gass.** "The entire camping fraternity will be saddened to hear
+of the passing of **Miss Dais Gass, February 14th** [1966]. **One of the original
+founders of the Canadian Camping Association, Director of Camp Memphamagog in Quebec,
+and active in C.G.I.T. work for many years previous to that.**" The masthead now
+marks both Taylor Statten and Dais L. Gass "*Deceased." Gass has appeared on every
+masthead in this run as a Montreal past president with no other information; this
+gives her a death date, a camp (**Camp Memphremagog**, new to the project), a CGIT
+background, and founder status in the CCA. She is one of very few women among the
+association's founders and a **strong candidate for a `people/` or
+`connections/related-camps/` stub**.
+
+**Other provincial notes in the same department.** British Columbia ran a **ten-week
+"Cooking for Camps" course** with the Vancouver School Board night schools at $10.
+Alberta held a Camp Directors' Seminar at Banff on "The Future of Camping." Manitoba
+was setting up a central office to match directors and counsellors. **Ontario will
+host the C.C.A. Centennial Conference, 2–4 March 1967** — a datable event in the
+Centennial year Kanawana's own Centenary Journey belongs to. And **Nova Scotia's
+annual five-day Camp Directors' Seminar and Camp Leadership Course had as its special
+lecturer "Dr. Hedley G. Dimock, Director of the Centre for Human Relations and
+Community Studies, Sir George Williams University, Montreal"** — a **new and precise
+institutional title for Dimock**, and confirmation that by spring 1966 he was
+directing that Centre. `wiki/people/hedley-dimock.md` should carry it.
+
+**"Random Reflections" — the OCA's 1966 conference, and Barry Lowes's indictment.**
+Inn on the Park, 17–19 March 1966, chaired by Ron Johnstone under President Adele
+Ebbs, with **"1036 registrations — the largest assembly of camping people ever held
+in this country."** Lowes's banquet address is quoted at length and is the sharpest
+self-criticism in this run:
+
+> "**Camping in Canada is at the crossroads; we cannot continue as we have been
+> doing… what we do is so much less than what we say we do. What do we give our space
+> age children — are our programmes stimulating enough to attract their interest. We
+> are not recognizing the individuality of each child nor encouraging them to choose
+> — to participate freely in discussion… Camps are places where we can and must give
+> a new awareness of God, where spiritual values are caught, not taught… We can't
+> stand still; we must make good on all our claims or else stand aside.**"
+
+Also quoted, **Dr. John Rich**: "We're always comparing ourselves with experts — a
+good way to create frustration… We've got to stop thinking that every discussion has
+to end in understanding and to cease thinking we must have competition in every
+undertaking." And on the Friday evening, **Mr. and Mrs. Eric Morse** showed
+photographs of their canoe journeys "through the Canadian Barrens" — the Morses being
+the northern canoeists whose trips fed directly into the Centenary Journey idea.
+
+**B. H. Mortlock (Secretary, National Arctic and Northern Committee on Scouting),
+"Scouting in Arctic Canada"** — printed because "**At the Annual Meeting of the
+Canadian Camping Association, held recently in Vancouver, the newest branch — that of
+the North West Territories — was welcomed into membership**," which the magazine
+marks as "a significant milestone in our movement's history" and the occasion for a
+series on northern youth activities. Substance: Canada's most northerly troop at
+**Grise Fiord**, southern Ellesmere Island, "a dozen Eskimo lads under the leadership
+of an RCMP constable"; Scouting on the tundra "for more than 25 years," first taken
+there by Anglican and Roman Catholic missionaries; **nearly 2,200 Cubs and Scouts** in
+the Mackenzie, Keewatin and Franklin districts, the Yukon, Labrador and **Arctic
+Quebec**; leadership largely white (missionaries, police, HBC managers, teachers,
+Northern Service Officers) with "the Boy Scouts of Canada anticipates the day when all
+or most of its leadership in the north will be drawn from indigenous races"; and
+**specially devised tests and badges — hunting, skinning, igloo building, carving,
+lamp making, fur trapping, dog driving — "intended primarily to encourage Eskimo boys
+to retain the crafts for which their culture is noted," many of them designed by
+Eskimo Scouts themselves in a competition.**
+
+Two Quebec details matter. **"Montreal's Camp Tamaracouta has conducted a program of
+such visits for a number of years"** — i.e. Eskimo Scouts coming south to camp in the
+Laurentians, at a camp `quebec-camp-landscape.md`, `council-ring.md` and
+`the-kanawana-site.md` already treat as Kanawana's neighbour. And **in 1965 twenty
+Eskimo Scouts from Igloolik, Frobisher Bay and Great Whale River in Ungava attended
+the Quebec Provincial Jamboree at Drummondville.** Planned for 1968: an **Arctic
+Jamboree at Pine Lake, Wood Buffalo National Park**, forty miles from Fort Smith,
+bringing 350 northern Scouts together with 350 from southern Canada "in mixed
+patrols." This whole item is the counterweight, in the same run, to the costume-and-
+ceremony Indian lore — Indigenous young people present as participants, with the
+programme adapted to them rather than borrowed from them.
+
+**Eileen Muff (Crafts Adviser, Community Programs Division, Ontario Department of
+Education), "Crafts at Serpent River" — the best-observed piece in this issue, and the
+sharpest available contrast to camp "Indian lore."** Muff goes to the **Serpent River
+Reserve** near Blind River to *learn* black ash basket weaving from **Mrs. Agnes
+Meawasige**, arranged through **Jane Bartlett** of the Indian Affairs Branch, who told
+her "the old techniques were disappearing so quickly that it was difficult to find
+anyone willing and able to teach them." The account is unusual because Muff is the
+incompetent one in it: she assumed the ash would be prepared, and instead the party
+set off into the bush to find a straight black ash — "**Later I realized that I should
+never have really understood the craft if they had not been wise enough to arrange
+this trip for me**." Their guide **Jim Jacobs** "lapsed into his native Ojibway as soon
+as we started into the bush," having told her "**that English was good enough for
+everyday, and French was best for profanity, but only an Indian language was suitable
+for the bush**," and did not speak English again until they returned. Bannock cooked in
+skillets over a fire, bacon on twig forks, and — when Muff turned out to have brought
+no cup — a birch-bark cup folded watertight in a few minutes. She could not swing the
+axe hard enough to spring the strips from the log; Jacobs's parting remark in Ojibway,
+which the women hesitated to translate, was "**White woman no good, leave her in the
+bush**." The group then formed the **Chitamo Craft Club of the Serpent River Reserve**
+— "'Chitamo' is the Ojibway name for the busy, chattering squirrels of the north
+woods. It was also the Indian name of our instructor, Agnes Meawasige" — and Muff
+returned in the autumn with box looms; three years on the club was still meeting and
+teaching other groups, at Garden River, Mikwemikong on Manitoulin, and Naughton. Her
+conclusion: "**this exchange, in which I received more than I gave, represents a
+pattern that might be used in many places.**"
+
+**Doris M. Grassie (Camp Director, YWCA Regina; chair of the Guest Camper Program
+sub-committee), "Saskatchewan's Adventure in International Camping 1965"** — a
+provincial government-funded intercultural camping scheme, told with its difficulties
+intact. The Saskatchewan Diamond Jubilee and Centennial Corporation was asked for
+$4,000 in January 1965 and the proposal met opposition — "'it won't work', 'it can't
+work', '**it will drag out prejudices**', even 'it's impossible'" — and the objection
+"do young people want to be recognized as from another origin, or do they want to
+identify as Canadians", to which the committee replied "**What is a Canadian?**" Public
+Works minister Mr. Gardiner steered the pilot toward **Indian and Métis** campers, and
+the grant was made; **$30 per guest camper**, plus "a set of booklets on Indian lore,
+Saskatchewan songs and other information." Roughly **200 guest campers** were placed
+across Anglican, Roman Catholic, United Church, Apostolic, Baptist, Lutheran, Church
+of Christ, YWCA, YMCA, Girl Guide, Boy Scout, Ukrainian Youth Association, 4-H and
+Camp Easter Seal camps; the $4,000 ran out and a further $2,000 was granted. Grassie
+records the failures alongside the successes: directors who "interviewed, outfitted"
+children only to find, on collection day, "the entire family had vanished into the
+bush." At her own camp five girls "swam like Otters… were naturals in canoeing and
+**taught the primary area to do Indian dances and some fairly creditable chanting**,"
+and one "gave a moving portrayal of **Louis Riel** in a play which her cabin group
+wrote and produced." **Each director filed a written evaluation**; one reported that
+its guests "**integrated without a ripple**", which Grassie notes "could have meant
+many things" — a rare instance of a contemporary catching the euphemism. Note for the
+wiki: the Indian dancing at these camps in 1965 was taught by Indigenous campers to
+white ones, which is the inverse of the Indian-lore transmission documented elsewhere
+in this run, and the two should be distinguished carefully wherever the project treats
+the subject.
+
+**Mary Paton (St. Christopher House, Toronto), "Hootenanies" — directly useful for the
+songs-and-music thread (`p_048`).** "Now-a-days hootenannies are part of every camp
+program… It is a little difficult for camp directors, who belong to another
+generation, to be knowledgeable about these instruments." She then supplies a complete
+mid-sixties camp music inventory with **prices**: ukuleles in four types (standard
+$10–15, tenor $20–30, baritone about $30, dixie banjo about $35), banjos $55–200,
+guitars $16.50–500 with the note that "$75.00–$85.00 should provide a good tone" and
+that "the nylon stringed classic guitar is favoured by most amateur folk singers";
+bongos $4.95–23.50, congo drums $21–30, maracas, castanets, claves; kazoos 30¢, the
+hum-a-zoo 20¢, "or a piece of paper over a comb"; song flutes, tonettes and
+flutophones $1.50; the **Hohner Melodica** $9.95–27.50 with extra mouthpieces at 25¢
+"so that a number of campers [can] use the same instrument"; **autoharps** $39–51.50.
+Practical points worth keeping: keep the camp piano tuned, "an excellent pianist makes
+a great difference to a sing-song"; "**For a chapel service in the woods where there is
+no pump organ, a guitar, accordion, or autoharp can be used to provide music for the
+hymns**"; leave instruments out with written instructions beside them, because "some
+will just want to experiment"; and demonstrate care (a melodica must be blown out
+after use). This is the concrete answer to what music at a Canadian camp physically
+consisted of in 1966, and a checklist for identifying instruments in Kanawana
+photographs.
+
+**Joyce Bertram (Camp Ouareau), "Camp Reunions — God Bless Them"** — a comic verse
+inventory of everything wrong with a camp in the off-season, and therefore an honest
+list of what a Laurentian camp's plant looked like after a winter: "The roofs all sag,
+the floors look warped, the windows rife with cracks… **Tent platforms have alarming
+lists to one side or the other** / The boathouse roof is just the thing our insurance
+does not cover! / The ancient sailboats have to go: they're always simply soaking. /
+The tennis courts have horrid holes where groundhogs have been poking. / **The Nature
+Trail has caven in**: the bridge of course is rotten… The applications stopped last
+week, for no apparent reason. / It's obvious, at once, that WE'LL BE IN THE RED THIS
+SEASON! / Our Senior Staff's to Europe off, just when we really need them." The turn is
+the reunion itself: "**We sang old songs, revived old jokes, and brought the summer
+nearer**… What mattered most was kids themselves, with all their maddening habits."
+Bertram's fifth appearance in this run, and evidence that **camp reunions were an
+established off-season institution at a Quebec camp** — worth asking of Kanawana.
+
+**Josephine Harshaw (the new editor), "Where is It?" — Champlain's astrolabe.** A
+research puzzle set for camps, and a piece of usable Ottawa River history for any camp
+paddling that route (as Kanawana's Centenary Journey crew would in 1967). Champlain
+carried an astrolabe — "a thick, brass, circular disc… 5⅞″ in diameter and weighed
+about three pounds," manufacture discontinued about 1611 — and lost it in late May or
+early June 1613 on the portage between **Lake Allumette and Muskrat Lake**, discovering
+the loss near the future site of Pembroke when his latitude calculation went wrong. In
+**1867** a farmer named Overman, ploughing on the banks of the Ottawa in the township
+of Ross near Renfrew, turned up a brass disc dated 1603; it passed to Captain Overman,
+then to **Richard S. Cassells** of the Ottawa Forwarding Company, and on **10 September
+1901** his son Walter Gibson Cassells sold it to an American collector, **Samuel V.
+Hodman of Paul Smiths, N.Y.** A second astrolabe, dated 1595, was found on Christian
+Island in Georgian Bay in 1925. Harshaw cites the *Toronto Daily Star* of **28 November
+1927**, "Where is Champlain's Astrolabe?", and ends: "**Would any Camp Directors or
+their campers like to find out where Champlain's astrolabe is now and let us know?**"
+Recorded as a period document; the astrolabe is today at the Canadian Museum of
+History, but the point of interest here is that in 1966 the camping community did not
+know where it was.
+
+**Dr. MacGregor Grant, "God's Earth and Man's Responsibility" — Rachel Carson reaches
+Canadian camping.** A second Grant sermon printed in full (compare issue 69). Its value
+is as a dated marker: "**This sermon really sprang out of a book I have been reading,
+Rachel Carson's much discussed *Silent Spring*.**" He retells the East Lansing DDT
+story — 1954 spraying against elm bark beetle, mosquitoes and gypsy moth; **Professor
+George Wallace** of the University of Michigan collecting "over a thousand dead robins"
+and ninety other species at the **Cranbrook Institute of Science**, all with DDT in
+their tissues — and applies it to Ontario, where "spraying is now standard procedure,"
+lumber companies spray from the air, "**rural municipalities spray the roadsides and
+the Ontario Hydro Corporation sprays its power lines**." He watched a Hydro crew in
+Haliburton reduce "a lovely stretch of woodland… into a veritable wilderness," and
+draws the agricultural consequence: without pollinating insects "the productive
+capacity of Ontario agriculture is reduced by just that much." On water: "**There is
+not a river in Southern Ontario that is not polluted**" (D. B. Watkinshaw, Metro
+Conservation Authority); Duffin's Creek clear at Claremont and "positively filthy" at
+Pickering; the Don "turned into a smelly ditch"; Lake Erie's tributaries dried by
+timber cutting, docks stranded "as much as 200 feet from the nearest water," an algal
+mat "covering an area of 2,500 square miles," the fishing fleets gone and "beaches once
+gleaming with white sand… covered with green slime." Also: "Last week, in **Western
+Quebec**, a party of picnickers started a fire which laid waste 30,000 acres of
+valuable timber." His thesis — "**conservation is more than an economic necessity. It
+is a religious duty as binding as the Ten Commandments**" — makes this, with Wipper's
+tribute to Cecil Irwin (issue 69) and Minshall's complaint (issue 65), the third piece
+in six months pushing conservation to the centre of camping's self-description.
+`wiki/traditions/environmental-history.md` can date the shift precisely from these.
+
+**Fire safety, in two parts.** A Department of Public Works Fire Prevention Branch
+(Ottawa) article on the Triangle of Fire and Class A/B/C fires, with improvised
+extinguishing methods (a broom for grass, a wetted blanket, sand or earth, a pot lid,
+bicarbonate or salt on grease, "a full thermos of drinking water"), and the warnings
+that empty bottles start fires by magnifying the sun and that "'earth' on the surface
+in forested areas is mostly powdered dead leaves, and will burn and smoulder for
+hours." Then a **24-question camp fire-safety self-audit** (part one of two; "more in
+June Issue") covering housekeeping, flammable liquids and construction — spark-screens
+over chimneys, oily rags in closed metal containers, ashes in covered hole-free metal
+containers, "**Do you use only safety matches in camp?**", fuel oil in underground
+tanks away from buildings, non-combustible roofs, galvanized iron or brick under
+stoves, and no stovepipes through closets. A concrete checklist against which a
+surviving Kanawana inspection or insurance record could be read.
+
+**Departments and advertisements of record.** A new column, "**From a Camp Director's
+Diary**," is launched, inviting overheard camp remarks — its first entries come from
+the newsletter of **Camp Tawasi (Regina YWCA)** and from a Haliburton camp debating a
+float for the Rotary Club's "Monster Parade" ("But won't our camp look terribly silly
+with campers in the parade when everybody else has Monsters?"). **W. Fayter** (Principal,
+Cherook Park Elementary School, Calgary) contributes "Society of Squares," a defence of
+the word *square* against its new meaning — "a slob who still gets all choked up when
+the band plays 'O! Canada'" — and a complaint that "laughter today is stored in cans
+down in Hollywood… and the laugh track tips us off when things are funny." **Adele
+Ebbs**, "Canada is Great for Camping," on the Vancouver annual meeting: "**It doesn't
+matter how long ago a camp was founded. It is the present and the future that
+counts**" — and on the Centenary Journey, "**the co-operative planning is already
+crossing provincial boundaries**," with John Latimer promised for the June issue. **"My
+Feet"** gives a full foot-conditioning and hiking regime, including the two-sock
+system (fine-knit wool-and-cotton next to the skin under a coarse all-wool cushion) and
+the instruction that "**Blisters should not be given any 'do it yourself' treatment**…
+do consult the camp doctor immediately." A citation worth chasing: **Melba Woelfle,
+"Hitting the Trail in Canada,"** *Community Recreation*, November 1965, reporting that
+"**in 1964 some sixty-one thousand walkers took to the nature trails in Ontario's
+provincial parks — an increase of a thousand percent in a five year period**." And the
+ACA's forms list now itemises the whole documentary apparatus of a camp: **Accident
+Report Forms** ("all camps should keep accurate and detailed records of all accidents
+which occur in camp, both major and minor"), the Camp Staff Application, and separate
+**Health Examination Forms for boys, girls, adult campers and camp employees**, plus a
+Camp Health Record — the record types to ask for in any camp archive, Kanawana's
+included.
+
+Nothing in this issue names Kanawana. Its value is very high anyway: the QCA's 1965
+accreditation round and its twenty-seven inspection reports; Dais Gass's death and
+identification; Dimock's new title at Sir George Williams; Lowes's "we cannot continue
+as we have been doing"; and the camp music inventory.
