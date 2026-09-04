@@ -315,6 +315,73 @@ the fifteen-minute talk were available from the CCA in Montreal**. Ontario's
 Department of Education announced that minimum standards would become a
 **condition of licence from 1951**.
 
+**[Added 2026-09-04, from the catalogue check at issue 60.** This block missed an
+article on the contents page — **Charles E. Hendry, School of Social Work,
+University of Toronto, "By Emberglow" (pp. 12–15)** — and it is one of the more
+consequential items in the early run, because it describes a **sociometric peer
+rating of named campers** thirteen years before Hedley Gardner Dimock's
+counsellor research at Kanawana.
+
+The frame is a story: after taps, at a camp on the **Jumping Pound** ("the
+occasional howl of a prairie coyote", so an Alberta camp), a fourteen-year-old
+called "Gabby" Dixon comes to the writer's tent in tears because his tentmates
+have formed a secret club, excluded him, and mean to petition for his removal.
+They walk to the council ring, build the fire back up, and Hendry tells him about
+a study:
+
+> "Last summer a friend of mine made a study in a large boys' camp to see if he
+> could discover what it is that makes some boys very popular and other boys very
+> unpopular. There were about **one hundred and twenty boys in this camp divided
+> into twenty cabins of six campers each** ... each camper was given a slip of
+> paper. On it appeared the names of all six boys in his cabin. **Each camper was
+> asked to rate each other boy in order of preference** ... putting the figure '1'
+> before the name of the camper he liked best ... and so on, placing a '5' before
+> the name of the boy he ranked lowest."
+
+An **acceptability score** was then computed — five points per first-place
+ranking, to a maximum of 25 and a minimum of 5 — and **the thirty lowest and
+thirty highest scorers were compared**, after "nearly two months" together "in
+camp and on canoe trips and hikes." The findings, as Hendry reports them:
+
+- Intelligence, good looks, being an old camper, skill "in swimming, sailing,
+  handicraft, riding or canoeing", age, and coming from "a better-to-do family"
+  made no noticeable difference. "The boy who was an expert canoeist or who was
+  very good looking was found as frequently among the unpopular as among the
+  popular group."
+- **"By far the most important thing ... was the boy's attitudes and behaviour
+  toward the other campers."** Least liked: "campers who showed off, boasted,
+  bluffed and sought the limelight." Then uncooperativeness; then "lack of
+  consideration for others, selfish with food and belongings, bullying,
+  quarrelsomeness and sneaky behaviour"; then "thinking one is picked on, losing
+  one's temper, carrying grudges and making excuses."
+
+The story then turns on Gabby recognising himself, tracing his behaviour to being
+the less-favoured of two brothers at home ("Somehow no one expected much of Gabby
+except mischief and Gabby did his best not to disappoint them"), and resolving to
+change; the closing motto, credited to another camper quoting Galsworthy, is
+**"Be kind, and keep your end up."** Hendry also marks a change in his own
+practice: "Five years ago my advice would have told him to go back into camp and
+do something better than anyone else in his cabin even if it were merely to
+wiggle his ears better than any of the other boys ... Fortunately for Gabby's sake
+I knew better."
+
+**Three reasons this matters here.** (1) It is a dated (study conducted summer
+**1949**), described-in-method account of children being ranked against each
+other by name at a Canadian camp, published in the national magazine — the same
+family of document as the staff and camper assessments at issue in `p_307` and
+`p_308`, and evidence that the practice was well established a decade before
+Kanawana's own research episode. (2) The camp is unnamed and the researcher is
+only "a friend of mine"; **Hendry was at the University of Toronto School of
+Social Work, where Mary L. Northway was the country's leading sociometrist**, so
+the study is findable, and its identification would matter. (3) It sets the
+methodological ancestry for Hedley Gardner Dimock's 1960–61 counsellor-effectiveness
+work at Kanawana: this is what camp social research looked like in Canada
+immediately before it.
+
+The same issue also confirms, in Mary S. Edgar's byline, that she is **Director of
+Glen Bernard Camp** — which bears on the identification of the unnamed first-year
+camp in Northway's issue-60 memoir.**]**
+
 ## 7 — Vol. 2 No. 3, June 1950  ★ Kanawana named
 
 This is the issue with the Caserta hospital reminiscence, already in the KB as
