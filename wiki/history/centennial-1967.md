@@ -1,7 +1,7 @@
 # The 1967 Centennial and Kanawana
 
-*Status: E1-reviewed | Sources: 21*
-*Last Updated: 2026-08-14*
+*Status: E1-reviewed | Sources: 22*
+*Last Updated: 2026-09-04*
 
 ## Summary
 
@@ -49,6 +49,63 @@ Derek Walsh represented "Kamp Kanawana, YMCA, Montreal, Quebec" in CCA Centenary
 Upon the paddlers' arrival at Britannia Beach, a busload of Kanawana campers greeted them, singing the Kanawana camp song.^1 The *Ottawa Journal* covered the arrival on August 10, 1967 (Figure 3.5 in the McMorris thesis shows the campers arriving).^1 ^15
 
 A published account of the full journey, *A Log of Canada's Centenary Journey* (1971), likely contains participant rosters by section, but appears out of print and not digitized.^16
+
+## The National Campfire, 9 August 1967
+
+The Centenary Journey had a second half that reached every camp in the country, not only
+the ones that paddled. The CCA asked every camp in Canada to light a campfire at the same
+moment on the night of **Wednesday, 9 August 1967** — "at varying times from 7 p.m. in the
+Yukon to 12:30 a.m. in Newfoundland," which places a Quebec camp's fire at about 11 p.m.
+Eastern Daylight Time.^22 The plan was announced in December 1966 and the finished script
+was distributed by John Latimer at the CCA annual meeting on 1 March 1967, then printed in
+full in the June 1967 issue of *Canadian Camping* so that any camp could use it.^22 It was
+explicitly for everyone: "designed for campfires in every campsite across Canada — whether
+it be at the home base, on the Centenary Journey Route, or any canoe trip or hike."^22
+
+**Kanawana's crew reached Britannia Beach on 9 August**, the same day. Whether they lit the
+national campfire on the water, at the finish, or whether the campers at Saint-Sauveur lit
+one at home — or both — is not documented here, and is worth asking of any surviving 1967
+camp log or Seaman correspondence.
+
+The ceremony ran as follows.^22 The camp assembles in a circle round an unlit fire and the
+person in charge calls, "O Fire-lighter, we await your arrival! Come forth now, into this
+circle! We bid you kindle for us this National Campfire for our Centennial Year!" The
+Fire-lighter enters "(in costume if desired)" and lights the fire in silence; the camp sings
+"O Canada," then hears an oration whose theme is that the voyageurs were campers — "We
+Campers of 1967 are thrilled with the realization that we belong to an illustrious line of
+Campers who helped to create our Country's colourful story… They ventured forth as
+explorers, coureurs de bois, voyageurs, fur-traders and priests, assisted by the earliest
+campers of all — their Indian guides." A prayer follows, headed "an Indian prayer from the
+Centennial Anthology of Prayer" (the anthology, not any named nation, is the only source
+given for it).
+
+The opening closes with a hymn written for the occasion by **Mary S. Edgar** — founder and
+first editor of *Canadian Camping*, founder of Glen Bernard Camp, and the CCA's honorary
+president — titled "**Canada's Our Country**," set to the hymn tune *Hermas*.^22 It was sung
+by a Toronto boys' choir at the March annual meeting.^22 Its first verse and chorus:
+
+> From the western Mountains / To the eastern seas / O'er the boundless prairies / Lakes and
+> land of trees: / From our Arctic tundras / To the southernland, / Canada's our Country. /
+> Pledge we heart and hand.
+>
+> *Chorus:* Proudly we proclaim it / Over land and sea, / Canada's our Country! / May we
+> worthier be.
+
+The middle of the campfire was left to each camp, with suggestions including a "Council Ring
+ceremony with challenges," pageants, tableaux and dramatized historical incidents. The
+suggested songs are a useful record of what a Canadian camp was expected to be able to sing
+in 1967: "My Paddles Keen and Bright," "The Canadian Boat Song," "Alouette," "Squid Jigging
+Ground," "Blow The Man Down," "Red River Valley," "Old Man Great Chief," "Bonhomme!
+Bonhomme!," "Land of the Silver Birch," "À la Claire Fontaine," "Vive La Canadienne," "Vive
+L'Amour" and "Hiawatha"; closing with Bobby Gimby's "Canada," "Some Call it Canada But I Call
+it Home," "This Land Belongs to You and Me," "One Hundred Years Ago" and "God Save the
+Queen."^22 The ceremony ends with "a torch-light circle or procession, followed by the singing
+or playing of TAPS," and a suggested birthday cake — "fun to bake on a canoe trip or with
+reflector ovens."^22
+
+The Centennial Commission did fund the project: the CCA's 1966 accounts record **$6,000 from
+the Centennial Commission for the Centenary Journey**, alongside $2,490 in membership fees and
+Fitness and Amateur Sport administrative grants of $976 and $1,676.^22
 
 ## The Centennial in Broader Context
 
@@ -103,6 +160,7 @@ The McMorris thesis devotes its third chapter — "The National(ist) Vehicle" �
 19. Concordia University Archives finding aid, sub-series 13E (direct fetch, 2026-07-09), confirming the "Expo 67-canoe tripping program" item [src_concordia_13E_expo67]; sub-sub-series 12B01/12B04 (confirming these do NOT hold the missing 1967 material) [src_concordia_p0145_12a_finding_aid].
 20. "Letter to Parents, 1 August 1967, from A. Ross Seaman, Camp Director," YMCA of Montreal fonds, Kanawana Program, P145/12B07, Canadian Centennial Canoe Trip, CURMA — cited as footnotes 54–55 of the McMorris thesis and the origin of the six-boys/two-counsellors account [src_seaman_letter_parents_1967].
 21. Latimer, John. "Our Centenary Journey," *Canadian Camping*, June 1966, in the digitized 1949–1988 run [src_ia_canadian_camping_magazine].
+22. "Across the Land" (the National Campfire ceremony, printed in full, including Mary S. Edgar's "Canada's Our Country"), and May Brown, "Annual Meeting 1967," *Canadian Camping* Vol. 19 No. 4, June 1967, pp. 122–123, 130–133, in the digitized 1949–1988 run [src_ia_canadian_camping_magazine]. Found by the full word-for-word read of the run (`kb/reread/cc_findings.md`, issue 75); an earlier pass took the A. Ross Seaman profile from this same issue and left the ceremony untouched.
 
 ## Research Notes
 

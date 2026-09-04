@@ -12157,3 +12157,301 @@ when this pass is written up.
 Nothing in this issue names Kanawana. Its value is the Forgie–Statten family link, the
 Wabanaki service script, the 1967 conference "Digest", the Quebec band camp at Asbestos,
 and Camp Manitou's conversion figures.
+
+## 75
+
+`canadiancampingmagazine_vol19_no4_1967june.txt` — Vol. 19 No. 4, June 1967. Cover:
+"PLAYBOATS at CAMP KANDELORE."
+
+Contents (this issue prints no contents page; the running order is): Two Points of
+View — sex education, by Dr. R. A. H. Kinch and Eanswythe Flynn · Across the Land
+(the National Campfire ceremony) · Among Ourselves — Douglas G. McEwen and A. Ross
+Seaman · Send Them Home Alive (Margaret Ann Glover) · Canada's Our Country (Mary S.
+Edgar) · Annual Meeting 1967 (May Brown) · From the Provinces · Rabies Must Be
+Considered (Ian K. Barker) · Magic is Slipping (Joyce Bertram) · Camping and the
+University (Bruno Morawetz) · Camping in the Caribbean (Hugh Cuthbertson) · burns,
+lightning and survival notes.
+
+**★ Note on prior use, and what it demonstrates.** The **A. Ross Seaman profile in
+this issue has already been mined** — `wiki/people/a-ross-seaman.md` quotes it at
+length as its footnote 9, correctly. **The National Campfire ceremony script in the
+same issue has not been touched**: "Canada's Our Country," the Fire-lighter call, the
+oration, the Centennial Anthology prayer and the song list appear nowhere in `wiki/`
+or `kb/facts.json`. That is this read's premise in one issue — somebody went to this
+document looking for Seaman, found him, and stopped. Patched into
+`wiki/history/centennial-1967.md` in the same commit as this block.
+
+**★ THE NATIONAL CAMPFIRE CEREMONY, PRINTED IN FULL — and Mary Edgar's commissioned
+song with it.** Announced at issue 73 as a poem "hoped for"; here is the finished
+article, distributed to every camp in Canada.
+
+**Timing.** "August 9, 1967 is an eagerly anticipated date for on that night **at
+varying times from 7 p.m. in the Yukon to 12:30 a.m. in Newfoundland**, fires will be
+lighted in camps all across Canada. You know the standard time in your community and
+**if your camp is operating on Daylight time, remember to make the necessary
+allowance**." A single simultaneous moment across six time zones — in Quebec, Eastern
+Standard, which places Kanawana's fire at about **11 p.m. EDT on Wednesday 9 August
+1967**.
+
+**The script.** The camp assembles in a circle round an unlit fire and the director,
+"Chief or Counsellor in charge" calls: "**O Fire-lighter, we await your arrival! Come
+forth now, into this circle! We bid you kindle for us this National Campfire for our
+Centennial Year!**" The Fire-lighter enters, "(in costume if desired)"; the fire is lit
+in silence — "**Silently we stand in our circle for the first blue wisps of smoke to
+curl upward and the tongues of flame to catch and soar**" — then "O Canada," then "Be
+Seated!" and the oration, whose text is given in full and whose central passage is:
+
+> "On this night, across our land **the flames of a thousand Campfires will ascend**.
+> We who have gathered around this fire at (name of Camp) are **a part of a great chain
+> of campfires**… **We Campers of 1967 are thrilled with the realization that we belong
+> to an illustrious line of Campers** who helped to create our Country's colourful
+> story. For **it was indeed Campers**, with daring and faith, who blazed the first
+> trails… They ventured forth as explorers, coureurs de bois, voyageurs, fur-traders
+> and priests, **assisted by the earliest campers of all — their Indian guides**."
+
+Then a **prayer "from the Centennial Anthology of Prayer,"** introduced as "an Indian
+prayer," and printed complete: "O Father, Great Spirit, whose voice we hear in the wind
+and whose breath gives life to all living things, we are small and weak and we need Thy
+strength and wisdom… **We seek not strength in order to be superior to our brothers, but
+strength to fight the greatest of all enemies — ourselves.**" (Recorded with the same
+care as the rest of the Indian-lore material in this run: a prayer of this kind, printed
+without attribution to any nation and headed simply "an Indian prayer," is a
+white-authored composition in the Indian register, and the **Centennial Anthology of
+Prayer** is a findable book that would settle its provenance.)
+
+**Then the song — the Edgar text this read has been chasing since issue 73**, printed
+under the heading "CANADA'S OUR COUNTRY / Words — Miss Mary S. Edgar / Tune Hermas… First
+line of the hymn to this tune: 'On our way rejoicing'." Three verses and a chorus, in
+full:
+
+> From the western Mountains / To the eastern seas / O'er the boundless prairies /
+> Lakes and land of trees: / From our Arctic tundras / To the southernland, / Canada's
+> our Country. / Pledge we heart and hand.
+> *Chorus:* Proudly we proclaim it / Over land and sea, / Canada's our Country! / May
+> we worthier be.
+> Many are the races / Who have brought to thee / All their thought and labour / All
+> their artistry. / **Eskimo and Indian, / Folk from all the earth, / Every gift
+> enriching / Thine uncounted worth.**
+> May we catch the vision, — / Land which is to be! / Strong within thy borders /
+> Blest with Unity: / Leader 'mong the nations / In the cause of peace / Dreaming,
+> daring, striving; / Till Earth's wars shall cease.
+
+May Brown's report of the annual meeting confirms both the distribution and a
+performance: Latimer "**distributed the script for the Ceremonial Opening of the
+programme which had been written by Miss Edgar and we listened to her Centennial Hymn
+sung by a Toronto boy's choir**." So the words are Edgar's, the tune is the standard
+hymn tune Hermas, and the hymn was performed publicly at the Inn on the Park on 1 March
+1967.
+
+**The song list** camps were given for the middle of the campfire — the single most
+useful list in this run for the songs thread (`p_048`), because these are the songs a
+Canadian camp was expected to know in 1967: "My Paddles Keen and Bright · The Canadian
+Boat Song · Alouette · Squid Jigging Ground · Blow The Man Down · Remember the Red River
+Valley · **Old Man Great Chief** · Bonhomme! Bonhomme! · **Land of the Silver Birch** ·
+A la Claire Fontaine · Vive La Canadienne · Vive L'Amour · Hiawatha." Closing songs:
+"**Canada** by Robert Gimby" (i.e. Bobby Gimby's "Ca-na-da"), "Some Call it Canada But
+I Call it Home," "This Land Belongs to You and Me," "One Hundred Years Ago," "This is
+Canada (eleven songs — Gordon Thompson Co.)," and "God Save the Queen." **"Land of the
+Silver Birch" is already recorded in `camp-oolahwan.md` as sung at that camp**; this
+places it in a nationally distributed 1967 programme.
+
+**The middle and close.** Camper participation is left to each camp, with suggestions:
+"**Council Ring ceremony with challenges** · Skits, plays or Pageant · Stories and songs
+· Historical Tableau or charades · Amusing historical incidents dramatized." The closing
+"may be in charge of senior campers, **tribal chiefs** or Counsellors-in-Training," and
+its oration asks campers to "put aside all petty differences between race and creed" and
+to hold "a heritage of clean air, pure water and green forests… in trust." Then "a
+torch-light circle or procession, followed by the singing or playing of **TAPS**," and —
+"If refreshments are to be served, we would suggest a **Birthday Cake**. (Such a cake
+would be fun to bake on a canoe trip or with reflector ovens)." The instruction is
+explicit that this was for every camp, not only journey participants: "designed for
+campfires in every campsite across Canada — whether it be at the home base, on the
+Centenary Journey Route, or any canoe trip or hike."
+
+**★ QUEBEC — a joint French/English social event, dated.** From the Provinces, reported
+by Sophia Demetelin: the **Quebec Camping Association's English and French Sections held
+a Sugaring Off Party on Saturday 9 April 1967 at the Cabane Chez Michel, St-Esprit,
+County Montcalm**. "It was so gratifying to see the French and English sections together
+thoroughly enjoying themselves. Camp Directors came out with their families and the
+children had a ball!… much of the success of this gay and happy affair was due to **Bob
+Lazanik who brought his accordion and soon had everyone singing English and French songs,
+dancing square dances**." A specific, dated occasion at which Kanawana's director — then
+president of the QCA English Section — would have been present.
+
+**★ CCA institutional figures for 1966, in full.** Membership (Peggy Etchell's report):
+**720 total, up 119 on 1965 — 342 camps, 268 individuals, 110 students**. Sponsorship of
+member camps: **organizations and agencies 40%, private 32%, churches 23%, others 5%** —
+which puts Kanawana in the largest bloc and is the clearest statement in this run of the
+sector's shape. Finances: **$2,490 in membership fees; $2,000 from the Citizenship Branch
+for the Intercultural Camping Project; $6,000 from the Centennial Commission for the
+Centenary Journey; and Fitness and Amateur Sport administrative grants of $976 (1965) and
+$1,676 (1966)**, against disbursements "slightly over $10,000." **The Centennial
+Commission did fund the Journey after all** — $6,000 — which qualifies Latimer's
+complaint at issue 71 that Ottawa "is not convinced that we deserve their support."
+
+Also from the annual meeting (1 March 1967, Inn on the Park): it "marked the **27th
+Anniversary of the national association**," which implies a **1940** founding — a
+**third** date against `facts.json`'s "founded in 1936 with Taylor Statten as its first
+president" and the twice-documented 1949 incorporation. **Open this as a conflict
+record**: 1936, 1940 and 1949 are all attested, the last two in this magazine. The
+resolution may be that 1936 is the Quebec/Ontario section origin, 1940 a national
+organizing meeting, and 1949 the incorporation — but that is a hypothesis, not a
+finding. Related, and important: Doug McEwen's own profile states that "**it was Mr.
+Nelson McEwen who, in conjunction with the late Mr. Taylor Statten, founded the Canadian
+Camping Association. He served as its first Secretary when he was the National Boys' Work
+Secretary of the YMCA**" — and Doug McEwen, the new CCA president, is **F. Nelson
+McEwen's son**. `wiki/people/nelson-mcewen.md` exists and should carry both the
+co-founder claim and the son.
+
+Further business of record: the Board **approved a set of "Desirable Practices for
+Resident Camps,"** with implementation left to the provinces (the national counterpart of
+the OCA's "Desirable Camping Practices," issue 69); **the CCA hoped to mount displays on
+camping in the Youth Pavilion at Expo '67, early in September**, with provincial
+associations asked for materials and personnel; **Bob Lazanik** is the CCA representative
+to the **Canadian Symposium on Recreation, Montreal, 11–16 June 1967**; an
+**Intercultural Camping Workshop** for western directors at Harrison, B.C., funded again
+by the **Canadian Citizenship Branch**; **Bruno Morawetz** to chair a new **Outdoor
+Education Committee** surveying university courses; the CCA has written to the federal
+government about the new National Park Policy; and **Kirk Wipper reported progress on
+Life Jacket Specifications** and a **canoeing course at the University of Ottawa in June
+1967** — the sequel to the Department of Transport fight of issue 59. The national office
+moves to 301 Vaughan St., Winnipeg. Don Groff announced the Board "was working out
+arrangements with a **new Publisher**" — a change to watch for in the next issues, since
+it may alter what this source contains.
+
+**"Two Points of View" — sex education in camps, argued by a doctor and a director.**
+Unusual enough to record carefully as evidence of what camps were dealing with in 1967.
+**Dr. R. A. H. Kinch** (Professor and Chairman of Obstetrics and Gynaecology, University
+of Western Ontario) describes lectures given to London secondary-school girls, built
+"**on typical questions actually asked by girls between 15 and 16 years**." His argument:
+"A lowering of the age of puberty is a natural consequence of improved health and modern
+nutrition," but emotional and economic maturity lag; "**Reluctant educators have allowed
+the popular press, the advertisers, radio and television to usurp their function**"; and,
+citing Michael Schofield, "the problem is that boys and girls may engage in intercourse
+not because they want to but **because conformity to the group standards demands it**." He
+rejects scare teaching — "It is clumsy and immoral, and quite ineffective, to use a
+frightening 'truth and consequence' method" — and rejects leaving it to parents: "if
+parents have not instructed the child by the age of 12 or 13 years, it is unlikely that
+they will ever do it." He notes that contraception was excluded from the syllabus by the
+London Board of Education but "with the understanding approval of the Board, we explain
+the principles during the question period." And: "**I am continually impressed by the
+maturity of the teenage patient, compared with the extremely immature attitude displayed
+by her scandalized parents.**"
+
+**Eanswythe Flynn (Camp Brigadoon)** answers from the camp side, and her answer is the
+practical one for this project: a camp cannot teach sex education in two weeks, "**BUT
+ONLY IF, AS AND WHEN CAMPERS THEMSELVES BRING THEM UP**" should the subject be taken up
+— "There is most certainly no need, nor is there time, to deliberately create a 'now we
+are going to learn about sex' class during camp, **but we must be prepared with answers
+when the occasion arises**." She describes what the older girls actually ask: "They are
+afraid that if they are Going Steady and do not submit to intercourse, they will be on
+the shelf… They are afraid to say No and equally afraid to say Yes… **It's fear, fear,
+fear, all the way**." Her instruction to directors is concrete and dates the practice:
+"**It's up to directors to set aside time in pre-camp training to discuss this whole
+aspect with staff**, and prepare them for the part they can play." Both pieces recommend
+Evelyn Millis Duvall's *Love and the Facts of Life*. This belongs in any account of what
+counsellors at a 1967 camp were being prepared for, and it is institutional material
+about camp practice, not personal information about any individual.
+
+**Margaret Ann Glover, "Send Them Home Alive" — a waterfront search procedure, written
+with unusual bluntness.** Opens: "one camper is missing!… is the camper on the bottom of
+the lake?!… **Can you find this child soon enough to return all your campers home in the
+same living condition in which you received them or is this child going home before camp
+end in a box?**" Preconditions for a safe waterfront: staff who "know every inch of the
+bottom of each pool," can "retrieve a body from the bottom without endangering their
+lives," practise underwater swims daily and artificial respiration weekly, hold unannounced
+drills, and keep posted by the telephone the numbers for doctor, health department, fire,
+hospital, police **and hydro-electric**. Her list of why a camper goes missing is a
+counsellor-conduct audit: "Was the guard ignorant of the number in her pool?… Was the
+guard on cloud 9?… Was she burning both ends of the candle and really too tired to work?
+Had she been guarding too long without a break?… **The waterfront is the last place in
+camp for dead wood!**" Then the search itself, in two halves — land (alarm, a beach
+station with blankets, first aid and artificial respiration, someone for the telephone,
+a party to sweep the camp) and water (expert swimmers in criss-cross pattern over the
+deep area with face masks and flippers and a rescue boat outside them; the intermediate
+area walked or swum, "if the area is only shoulder depth… they can link hands"; shallows
+walked by non-swimmers with linked hands), with **artificial respiration begun in the
+water** where depth allows, and drills practised with a weighted dummy. Set beside the
+Supreme Court of Quebec drowning judgment (issue 54) and Wipper's canoe standard (issue
+63), this completes the period's water-safety picture.
+
+**Joyce Bertram (Camp Ouareau), "Magic is Slipping" — her sixth appearance, and the best
+thing she has written in this run.** "Think back to the last Camping Convention you
+attended… **My guess is that it was held in the poshest hotel in town** with piped-in
+music for every conference room, broadloom (albeit green) on every floor… **Did you sit
+around an open fire watching blueberry muffins cooking in a reflector oven?** My guess is
+that you sat back in an upholstered chair listening to an 'expert' tell you how to put
+camp back into camping!" Her charge is that camping, in shedding "the '**retarded boy
+scout**' image," has bought a worse one: "**Are we not perhaps exchanging our retarded boy
+scout image for that of a grey flannel suited executive with pine panelled administration
+offices and all the latest data on P.R. and motivational research?**" And that the
+convention exhibits give the game away — "all our out-trip food was the 'add water and
+stir' variety… all our crafts were pre-cut, pre-punched and pre-digested… **Perhaps we
+wouldn't need exhibitors if we didn't rent the most expensive hotel in town**." On
+programme: "we have to confess that most if not all of these things can be taught just as
+effectively in the city… **We are not providing more — we are providing more of the
+same.**" Her answer, and the sentence to quote: "**Magic is the word I would like to
+suggest**… Camp should help a child to sense the miracle of growing things, the spectacle
+of dusk and the evening star… It should provide him with the raw materials to form his
+own cushion against the world, **his own wide margins of peace and serenity**." And, on
+the word holiday: "let us not be too quick to discard the original spelling of '**holy
+days**'."
+
+**Bruno Morawetz, "Camping and the University" — a national survey of extension courses,
+with Quebec content.** "**Limiting ourselves to the English Universities in Quebec, McGill
+seems to be the only institution which offers in its extension programme a short course
+in the out-of-doors**. During the Spring and Fall Terms, three Field Trips are arranged
+on succeeding weekends, the last of which is overnight. It bears the appropriate title:
+'**Week-end Explorers**'. McGill also offers a course for Food Service Supervisors… Its
+agricultural sister institution, **Macdonald College**, features a series of very
+practical courses in leather-craft, weaving, woodworking, ceramics, fine arts and child
+development." Two named Montreal-area training routes for camp staff, both checkable
+against Kanawana's own staff. Elsewhere: Alberta's ten-day "Group Process Institute,"
+Saskatchewan's seminars on leadership and "The Needs of Children and Youth," Toronto's
+"Sing in Harmony" and "The Underwater World," Western's course on "Interviewing."
+
+**Ian K. Barker (third-year veterinary student, Ontario Veterinary College; former
+naturalist at Camp Ponacka), "Rabies Must Be Considered"** — the practical counterpart to
+all the live-animal collecting documented at issues 65, 68 and 73. "**most cases in both
+wild and domestic animals are centered in Ontario and adjoining Quebec, where the disease
+is maintained in the fox and skunk population**." Rules: "**DO NOT HANDLE ANIMALS WHICH
+APPEAR STRANGELY FRIENDLY OR UNAFRAID OF HUMANS**"; do not reach into burrows or under
+logs; vaccinate camp dogs and cats annually; report every bite and scratch; wash with soap
+or detergent and do not stitch; capture the animal alive if possible and, "**if the animal
+is killed, the head must not be crushed or mutilated**," so it can be tested. This is why
+Wipper's senior wildlife syllabus (issue 71) says "**Live trap one wild living specimen
+(not wild animals because of rabies)**" — the two documents explain each other.
+
+**Hugh Cuthbertson, "Camping in the Caribbean"** — a Canadian YMCA volunteer's account of
+running camps in Jamaica and Trinidad in 1966, and the counterpart to the OCA/CUSO
+Jamaican programme cancelled at issue 66. Circumstantial and unvarnished: a camp fifteen
+miles from Kingston on donated sugar-plantation land, salty tap water and a thousand-gallon
+tank trucked in, a swimming area with "**Weeds, rocks, a current and a herd of Brahma
+bulls**"; and in Trinidad, a camp in a girls' government school where he arrived to find
+the director gone and himself in charge with four leaders, **fifty-five straw-filled
+mattresses borrowed from the police barracks**, a donated stove whose oven did not work,
+and a bugler obtained by arrangement with "**the boys training school (reformatory)**" —
+a boy brought to camp free in exchange for playing, who "became a star attraction during
+rest periods and camp fires." On discipline he is candid to the point of discomfort:
+"**What do you do when a boy stares you in the eyes and says, 'lick me'**"; he attributes
+it to the boys' Port Royal background "of beatings, swearing and drinking." Recorded as
+what a Canadian YMCA camping export actually looked like in 1966, against the warmer
+accounts of exchange elsewhere in this run.
+
+**Safety notes** worth keeping as dated first-aid doctrine: on burns, "**cool water as
+the best possible first aid**… more sensible than oil, butter or other greasy lotions,"
+immersion for fifteen minutes or the whole body in the lake for a large burn; on
+lightning, that "lightning never strikes twice" is "a fallacy," and the rules — stay
+inside, lie flat if caught in the open, "**NEVER seek shelter under a tree**," and on the
+water "Head for shore at the least sign… Get out and get off… On The Double!"
+
+**Douglas G. McEwen profiled**: aged 27, Director of Camping for the YMCA of Greater
+Winnipeg — "**the Association in which his late father, F. Nelson McEwen, was at one time
+the General Secretary**"; born in Toronto, four years in Saint John, N.B., Winnipeg from
+1951; B.A. in psychology and sociology at United College; certified as a YMCA Secretary
+in January 1965; Programme Director of the St. James Family YMCA 1961–65; chairman of
+Manitoba's Centenary Journey Committee.
+
+Nothing else in this issue names Kanawana. Its value is the complete National Campfire
+ceremony with Edgar's song, the QCA sugaring-off party, the CCA's 1966 membership and
+finances, the third CCA founding date, and Nelson McEwen named as co-founder.
