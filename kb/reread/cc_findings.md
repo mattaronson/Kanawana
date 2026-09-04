@@ -15659,3 +15659,296 @@ the Society; Northway's account of the Trent deposit with its taped interviews a
 "collect everything" policy; Gertrude Moore's obituary dating the BC association to 1939 and the
 provincial licensing of camps to standards she wrote; a third Mary Edgar hymn, this one on
 conservation, plus a new Edgar book; and Morawetz's copyrighted position paper on drugs.
+
+---
+
+## 89. Vol. 23 No. 2, Winter 1971 — `canadiancampingmagazine_vol23_no2_1971winter.txt`
+
+*Contents page*: Handicapped Camping in Alberta (J. D. Walker); The Youth 'Revolution' — How
+It Can Save Our Camps (John R. Latimer); Quelques notions générales sur le repos et le sommeil
+(Charles A. Ceglar); Snark Hunting (David Hartry); The Campers — They Are Yours to Motivate
+(Adele Ebbs); Bermudians Camping in Canada (Bruno Morawetz); Camping in Bermuda (Richard
+Kinch); The Camper in the Dining Room (M. C. MacCulloch); Letters to the Editor. All nine
+checked against the read; all covered below.
+
+**★★ THE QUEBEC STRUCTURE, PRINTED CLEARLY FOR THE FIRST TIME.** The provincial offices entry
+now reads: **"L'association des camps du Québec, and Quebec Camping Association — 952 Cherrier
+Ave., Montreal, P.Q. (Lionel Perras, prés.) English Section: 2233 Belgrave Ave., Montreal 261
+(Peter Van Wagner, Pres.) Section française: 952 Cherrier Ave., Montreal. (Rosaire Corbin,
+prés.)"** So as of Winter 1971 the merged body has **one president over two sections, each with
+its own president and address**: **Perras president of the whole, Van Wagner for the English
+section, and a new name — Rosaire Corbin — for the French.** This is the clearest statement in
+the run of what the 1969 merger actually produced, and it should go into
+`canadian-camping-movement.md` alongside the correction made at issue 83: **the two sections
+persisted inside one association**, which is why the ACQ was never simply the QCA renamed.
+
+Also new: **a New Brunswick Camping Association**, Moncton YMCA, **Robert Cameron** president —
+the ninth provincial body, and the last Atlantic province to organise. **Robert Lazanik's CCA
+address changes from 2233 Belgrave to 5465 Queen Mary Rd., Suite 460, Montreal 29** — his own
+office rather than the QCA's. Halifax officers change: **Richard W. Lowery, C.A.** treasurer,
+**Mrs. Merrily Walker** secretary. The CCA's own address is now **Suite 203, 102 Eglinton Ave.
+East, Toronto** — i.e. **the CCA has accepted Ontario's offer to share office space** (issue 88),
+so the national office has left Ottawa after less than two years.
+
+**★★ DAVID HARTRY, "Snark Hunting" — a complete, dated camp legend with its full mechanics, and
+the best comparator this read has produced for the Chopsy thread (`p_045`).** The CCA president
+describing his own camp's hoax programme at **the Anglican Youth Camp, twenty miles outside
+Halifax**; **"the first official snark hunt was held in the year 1968… on the shores of Mason's
+Point."** Everything a camp legend needs is here, and set out plainly:
+
+- *The creature*: "a cross between a fish, an animal and a human being. It goes on land; it goes
+  on water, but it cannot go too far on land or too far in the water… sometimes eighty feet long,
+  sometimes only ten. Many bumps protrude from his back. He has antennae and his eyes usually
+  shine in the dark. He seems to float and yet he seems not to float."
+- *The conditions*: **"Snarks can only be caught at 3 in the morning on a foggy night on the
+  Atlantic coast. But not too thick a fog — one must be able to see the moon coming through."**
+- *The instrument*: **a WHOMPHUM STICK** — "a very large stick with a huge bump on the end…
+  (actually a whomphum stick is just a stick with a large infection mound on it)."
+- *Who may hunt*: "only certain kinds of people… usually camp directors or waterfront directors
+  and some senior campers. The others have to cheer the brave souls on."
+- *★ The staging, described without embarrassment*: **the staff set the campers' watches ahead
+  and woke them soon after they fell asleep**; the story was "talked up" in advance; and — the
+  detail that makes the whole thing work — **"much to our surprise at one time, we found, in the
+  library a book actually called 'Snark Hunting'… we showed this to the children and this made
+  our fictitious story even more convincing!"** The snark itself was **built by campers who knew
+  the secret from the previous year**, from green garbage bags stuffed with styrofoam and tied in
+  a row, with **bicycle reflectors for eyes and coat-hanger antennae**, floated off the wharf; the
+  waterfront director lay hidden on the wharf **blowing through a long cylinder to make gurgling
+  sounds**, and once used **a hand-pressure fire extinguisher** for the spout. Only the director's
+  "extra important X-ray beam lights" could find it. He waded in to the knees, bent at 45 degrees,
+  and struck three times shouting **"WHOMPHUM! WHOMPHUM! WHOMPHUM!"** — after which "everyone
+  gives the camp yell or sings the camp song."
+- *★ His own caution*: "One has to be careful that the children don't become frightened by the
+  darkness and the whomphum stick and the enthusiasm of the staff. **I found that I got so
+  excited one time that it was almost dangerous in the sense that some child might panic and get
+  really scared.**"
+- *★ And the transmission mechanism, in one line*: "it is quite amusing each year as we are
+  asked, **'When will the snark hunt be?'**" — plus a camper's letter already elaborating the
+  vocabulary: "**The bump on the snark stick is called sarcophagus and the part you hold onto is
+  called the handle. The part above the bump is called the framis.**" A child inventing lore for a
+  hoax the staff invented, within three years.
+- And the joke's institutional afterlife: "it was decided that all Presidents of the CCA would be
+  International Vice-Chancellors of the **International Snark Hunting Association**," Hartry the
+  first and John Latimer next.
+
+**Why this matters for Kanawana.** The Chopsy question has been treated as a puzzle about
+origins. This is a *documented* instance, from three years after its invention, of exactly how
+such a legend is made, staged, elaborated by campers, given a spurious documentary pedigree, and
+then expected annually — with the inventor writing it all down while the participants were still
+children. It does not tell us anything about Chopsy. **It does tell us what kind of thing Chopsy
+probably is, and what evidence would and would not survive**: the staging is remembered, the
+invention is not, and the "old book in the library" is the sort of corroboration that turns out
+to be part of the hoax. Any future oral-history instrument on Chopsy (`DRAFT_ORAL_HISTORY_
+INSTRUMENT`) should ask about staging and about who knew the secret, not only about the story.
+
+**★ ADELE EBBS (Camp Wapomeo), "The Campers — They Are Yours to Motivate."** Taylor and Ethel
+Statten's daughter, wife of J. Harry Ebbs, and the first chair of the OCA archives committee
+(issue 88), writing on motivation. Her best material is anecdotal and worth keeping whole: **the
+boy who could not be motivated into any activity, found at last fishing on a log by the river,
+who after an hour raised a homemade pole with a string and no hook** — "his explanation was that
+this was the happiest time he had had at camp because no one had bothered him all morning. He had
+finally found a solution to his problem, and it was self-motivated." And the senior "old campers"
+sunning on the dock, who agreed to record their activities for a week and found "at first they
+had to make a conscious effort to ensure even one daily entry," then set their own programme. Her
+framing: **"Today young people are saying, let me alone, let me do my thing, in other words 'let
+me grow'."**
+
+On awards she puts the question rather than answering it, quoting **"A. J. Neil of Summerhill
+school in England"** (i.e. A. S. Neill) — "**To offer a prize for doing a deed is tantamount to
+declaring that the deed is not worth doing for its own sake**" — and drawing a distinction worth
+recording: **"Award and reward are not synonymous."** Progressing a level in life saving "is
+reward for achievement with little thought for the actual badge"; but reward tied to fear of
+consequences, or unrelated (money for high marks), means "there is never satisfaction in the
+simple act of achievement." She cites *Talks to Counsellors*: "The use of presents, rewards and
+other material objects reduces the establishment of good relations between the camper and the
+counsellor to a merely commercial basis." And the observation that settles the argument
+empirically: **one camp surveyed its campers and 97% favoured the competitive programme; the
+following year the camp eliminated competition and "the final consensus of opinion was that the
+summer had been more fun."** Her four motivating techniques: positive suggestion rather than
+negative command; co-operation rather than bossing; **faith** ("To know that someone believes in
+you and expects you to try your best, exerts great power"); and **commendation** — "Could this be
+reward enough?"
+
+**★ The badges argument continues into the letters column, and the editor concedes.** **Mrs. Gail
+Brown** (Assistant Director, Nepean Parks and Recreation; Director, Knotty Knoll Day Camp) objects
+that titling the two essays "A Positive Viewpoint" and "A Negative Viewpoint" prejudges them —
+"Perhaps a better title might have been 'Badges and Awards: two viewpoints'" — and asks whether
+Jocelyn Palm's view, she being on the Publications Committee, is the Association's. **The editor
+replies: "I agree with you. The articles on Badges and Awards were incorrectly titled…** Her
+'Viewpoint' was her own as was John Walker's. **There is no official Association viewpoint.**"
+Worth recording because it establishes that **the CCA had no policy on badges and awards in
+1971** — so a camp's badge scheme in this period was its own choice, not a national requirement,
+which bears directly on how to read Kanawana's crest and Knights material.
+
+**★ John R. Latimer, "The Youth 'Revolution' — How It Can Save Our Camps"** (OCA conference, 7
+March 1970), by the president-elect. Its argument runs against Morawetz's at issue 88 in an
+instructive way — both take the young seriously, but Latimer's is about staffing. He quotes
+**Barry Lowes**: "**this is the first generation in history in which our young people have not
+been needed. There's no depression — There is not a world war — They aren't needed.**" On the
+mutual misreading: "They look at us as phonies, because they don't see us acting along the same
+lines we taught them so effectively… **We seem to care more about what is on our heads than in
+them.**" His hope is institutional: "when 'my camp' becomes 'our camp', then something wonderful
+can happen."
+
+**★ And his experiment, which is the most useful thing in the piece**: he gave the six oldest
+campers, the "Super Senior Cabin," **no counsellor** — safety rules and camp relations set, but
+programme, bedtimes and discipline their own. "For two weeks they operated on their own. However,
+near the middle of the third week, they came and asked me if they could please have a
+Counsellor." His reading of what they were saying: **"We want someone to put a few hurdles on the
+track for us. We want someone who has the guts to knock us down when we deserve it. We want
+someone who loves us enough to say 'NO'."** A dated, specific experiment in camper self-government
+and its outcome — worth having when reading any camp's claims about camper democracy.
+
+The long central passage is a director's meditation on seeing campers as people rather than a
+list — "**up until the day camp opens and the busses arrive, we generally look at the list of
+campers as just that… NAMES. But then the busses arrive. The doors open, and out come human
+beings**" — and on walking into a cabin after lights-out: "**My God, it's a human being… and I'm
+responsible for him**… What did I do today to make that child's life happier?… **Is sleep to this
+child a form of anaesthesia… his only time of release from loneliness, terror or rejection?**" He
+extends the same questions to counsellors: "Did I give him a chance to know the thrill of
+accomplishment or did I just expect him to follow orders?… **Did I yell at that person today? Did
+I lose my temper?**" His closing sets **"Up with People"** against "Down with Everything," and his
+image of what a camp should teach — "**black can hold the hand of white, rich can hold the hand
+of poor, and young can hold the hand of old**" — is the period's language, recorded as written.
+
+**★★ THE FIRST BERMUDA–CANADA CAMPER EXCHANGE, told from both ends** — two articles, one by the
+Canadian director and one by a Canadian camper, and together an unusually complete record of a
+1970 international camp exchange.
+
+**Bruno Morawetz, "Bermudians Camping in Canada."** He and his wife spent two weeks in Bermuda,
+were introduced to **Mr. Reginald Ming, Director of Youth**, and toured **Camp Wahoo on Port's
+Island**, government-owned and rented to youth groups who bring their own cook and leaders. He
+proposed exchanging twelve campers; **"with very little red tape, a date was set for August,
+1970."** Twelve young Bermudians and their leader **Sammy Wilson** flew to Toronto — "to speed at
+70 m.p.h. along the 401, in the back of the camp truck. **In Bermuda the top speed limit is 20
+m.p.h. and the greatest distance, 18 miles.**" What he records about the adjustment is the
+substance: they found it hard to split into different tent groups, "because as members of the
+**Pembroke Youth Club**, they had been accustomed always to do things together"; Ontario lakes
+were much colder; **"several of them could not swim at all and most of the others had never
+developed a clearly definable stroke. The waves around Bermuda do encourage bathing, but not
+swimming"**; they wanted above all "to see a waterfall and white water"; and all were "fascinated
+with the friendly chipmunks." **★ And the passage that has to be recorded exactly as written,
+with its date**: "**The revelation that white people are not ogres came as quite a surprise to
+some of them. One boy said that he had never shaken hands with a white person and most of them
+had had no previous contact with white people.**" Morawetz's own framing of Bermudians earlier in
+the piece — "polite, clean, well-spoken, well-mannered and well-dressed" — is a white Canadian
+camp director writing about Black children in 1970, and should be read and dated as such, not
+quoted approvingly. His conclusion is nonetheless the practical one: **"exchanges could be worked
+with Central America, Mexico, even Europe… the only large expense is the air fare."**
+
+**Richard Kinch (Camp Ponacka), "Camping in Bermuda"** — the Canadian campers' half. Selection:
+"the most senior boys, preferably long-time Ponackians," chosen for "potential cohesion." They
+were met at the airport by **television cameras and newsmen** and made a presentation to **the
+Hon. Lancelot Swan, Member of Parliament for Youth**, with **Lloyd James** as their government
+guide. Plans to stay at Camp Wahoo fell through and they were housed instead in **the former
+British officers' headquarters at Somerset**, remodelled as a youth centre but struggling "owing
+to the location and the lack of the necessary qualified staff." His observations on **Camp
+Wahoo**: capacity close to 100 boys; leather crafts, nature, sports fundamentals and swimming;
+**"it is amazing how many Bermudians cannot swim"**; church clubs and scout troops book about a
+week; **"as a government owned camp, it provides only the physical layout. The campers themselves
+do most of their own work, housekeeping, assisting in main meal preparation"** — and his
+conclusion, which is the reason to keep the piece: **"We couldn't help wondering if this camp with
+its limited facilities didn't offer a great deal more than our modern multi-programmed set-ups in
+Ontario. It really helped point out the importance of the human side of camping."** After being
+beaten at soccer and three straight games of volleyball, "it was not difficult to see which group
+needed the conditioning." And on Bermudian time: "If the fishing trip was to begin at 9:00 a.m.
+we knew enough to relax and, sure enough, at 12:00 appeared Lloyd's smiling face: 'What's keeping
+you boys?'"
+
+**★ M. C. MacCulloch (Director, Bolton Summer Camp — Rotary Unit), "The Camper in the Dining
+Room."** The author of the discipline policy at issue 83, here on food, and the piece ends with
+the same absolute. Nine causes of poor appetite at camp: over-strenuous activity just before a
+meal (hence **"schedule open periods for free time before meals"** and a quiet, orderly entrance
+by cabin group); emotional upset; unfamiliar dining-room procedure; **noise** — hence "hold off
+section cheers, and camp songs, until after the meal is completed, or at least towards the end of
+dessert"; over-tiredness — "the counselling staff must be periodically reminded that not all
+children share their energy"; **★ and, twice, poverty at home** — "at some homes, the family diet
+which the child is accustomed to is inadequate from a dietetic point of view and the foods
+provided at camp will appear unnecessary and too much… **Some children from the metropolitan areas
+make their own meals due to family circumstances and three courses at a meal is out of proportion
+to a jam and peanut butter sandwich for lunch**… Limited budgets at home which provide spaghetti
+and bread as fillers will cause the child's perspectives re his own needs to be shaded." That is a
+camp director in 1971 describing hungry children arriving at camp, and it belongs with any account
+of who agency camps served. Also: the child who discovers "that by not eating he will have the
+undivided attention of his unit leader."
+
+On dislikes: "**Some people do not like eggs. They have never liked eggs. They will never like
+eggs**"; guard against one camper's dislike becoming a cabin fad — "it is not necessary nor polite
+to discuss what is left on one's plate"; and the counsellor should "try a little bit of
+everything." On manners: **"just because Daddy slurps his soup, is no reason to let it go
+unnoticed… it is important for his education that he realizes it is not acceptable behaviour in
+all circles"** — a class-conscious formulation stated plainly. Seven table-service instructions,
+including **no seconds on dessert until every camper has had a first** ("this will cut down on
+'gobbling'"), rationed sugar and jam because on a tight budget they "can become the most expensive
+food items when used indiscreetly," small helpings first, and **milk not poured until dessert is
+served** so campers "will not chew their food properly, but will wash it down." And the closing
+rule, the third such statement in this run after issues 83 and 87: **"eating is a right, not a
+privilege. For that reason, meals, nor any part of them should ever be denied the camper. Coaxing,
+rewarding, punishments or ridicule at the dining room table are wasted. Desserts are never denied
+the camper. It is an unfair and unnecessary punishment."**
+
+**★ J. D. Walker (Provincial Supervisor, Camping and Recreation, Alberta Rehabilitation Council
+for the Disabled), "Handicapped Camping in Alberta: A Five-Year Projection 1970-1975."** A
+government planning document printed whole, and the institutional counterpart to Kronick's
+integration argument at issue 85 — here the case for *specialised* camps. It opens with the
+objection it had to answer: five years earlier, an observer noted that for the money proposed,
+**"two hundred youngsters could be flown to Hawaii every summer for five years."** Alberta built
+two camps instead. Substance worth keeping: a **four-way grouping of potential campers** (a shared
+specific handicap; similar problems from different causes; small numbers with specific problems;
+and "undetermined numbers of adults with problems not clearly defined or recognized as handicaps,
+i.e., the aged, the alcoholics, unwed mothers, the socially handicapped"); a **seasonal calendar
+driven by staff availability** — children's camps must fall in July and August, adult camps needing
+full staff in June, partial staff in May or September; the admission that **"maximum occupancy has
+been the goal, and very, very few applications have been refused"**, with the result that "some
+children with multiple handicaps and behaviour problems, which are beyond the competence of the
+staff to deal with, have been accepted"; and a proposal to structure camp periods **"on the basis
+of level of activity, area of interest or intellectual capacity rather than an arbitrary age or
+disability structure."** On staff, the figures are useful generally: **a maximum twelve-week
+season, staff drawn from university and senior high school students available for about four
+summers, at least 25% turnover a year, age range 17–21 with a median of 19**; senior staff
+encouraged to commit to three consecutive seasons with stipends set accordingly; intermediate
+staff drawn from student nurses, physio and occupational therapists and special-education students;
+**a three-day May seminar plus an on-site orientation weekend immediately before opening**; and the
+warning that training must not be "curtailed in the belief that it is a free weekend for the
+staff." Two forward proposals: **a pilot project letting a disabled camper be accompanied by a
+non-disabled sibling or friend**, and **family group camps**; plus the eventual expectation that
+**disabled campers themselves apply for staff positions** and "receive the same opportunity as any
+other." Terminology is of 1971 throughout and recorded as written.
+
+**Charles A. Ceglar, sdb (Camp Savio), "Quelques notions générales sur le repos et le sommeil."**
+A physiological essay on sleep for camp staff, in French, citing **Dr. L. Boisvert**, Grolier, the
+**Encyclopédie Larousse pour la jeunesse**, **Paul Chauchard**, C. T. Morgan, Brown-Séquard on
+inhibition, and **Kleitman (1949)** on the sleep cycle and the siesta. Content of practical use:
+sleep as "un processus d'inhibition," not a passive state — "**Nous ne dormons pas parce que nous
+sommes intoxiqués, mais pour ne pas être intoxiqués**"; the physiological results (slower heart,
+lower blood pressure and body temperature, slower deeper breathing, digestion continuing) and the
+consequence that **"la calorification est moins énergique, aussi l'homme a-t-il besoin d'être plus
+chaudement couvert durant le sommeil"** — a plain reason for extra blankets at camp; that **"on ne
+dort jamais 'comme une pierre'"**, with a small movement about every quarter hour; that adult sleep
+runs six to nine hours and **"le sommeil est plus long et plus nécessaire dans la jeunesse"**; and
+that **intensity peaks about an hour in and then declines, but "il n'y a pas de lien direct entre
+l'intensité du sommeil et sa valeur récupératrice; les dernières heures sont aussi importantes"**
+— which argues against cutting the morning end of a camper's night. Two hypnogram types are
+described, morning people and evening people. **A francophone Salesian priest supplying the
+physiology behind camp bedtimes** — and, incidentally, a camp named **Camp Savio** for the index.
+
+**Smaller items.** A classified: **"Wanted, a summer camp for approximately 60 to 80 children and
+staff in the vicinity of 200 to 250 miles from Toronto, lake frontage preferred."** **Camp Nagiwa**
+advertises its complete camping equipment and supplies for sale through the **Guelph YM-YWCA** — a
+camp closing. A letter from "V.C., Halifax" asks whether a camper's poems would be printed; the
+editor sets out the submission rules (three typewritten copies, up to 2,500 words, the twelve-member
+committee deciding). **Tremblay Canoes of St-Félicien, Québec** takes a full page — "60 years
+experience," cedar with **"Verolite," a plastic-coated canvas** in use six years by "more than 60
+Boys' and Girls' camps and by various police units and several governmental departments in Ontario
+and Quebec," 38 sizes and models, No. 1 Eastern Canada cedar, solid brass nails and screws, white
+birch decks and thwarts. **A Quebec canoe manufacturer supplying Canadian camps** — worth checking
+against Kanawana's own canoe record. And Continental Casualty's ad has changed its pitch to the new
+public system: Camp-Guard now covers "the extra medical expenses **not covered by Government Health
+Insurance Plans**."
+
+Nothing in this issue names Kanawana. Its value is the Quebec association's structure printed
+plainly — one president over two sections, with Rosaire Corbin newly named for the French — the
+CCA's move into the OCA's Toronto office, Hartry's fully documented snark hunt as a model of how a
+camp legend is made and transmitted, the editor's statement that the CCA had no policy on badges
+and awards, MacCulloch's third statement in the run that food is never a punishment, and the
+Bermuda exchange recorded from both ends.
