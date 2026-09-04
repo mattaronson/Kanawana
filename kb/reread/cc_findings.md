@@ -19492,3 +19492,165 @@ Classified ads of note: an above-grade **OXIGEST sewage treatment plant** for sa
 Centre for Deaf and Crippled Children, Montreal**; and a request for information for **a book on
 treehouses**. The Quebec joint association has moved to **1415 est rue Jarry, Montreal H2E 1A7**. No
 Kanawana reference in this issue.
+
+## 105 — Vol. 27 No. 4, June 1975
+
+Contents page checked. All items read: The Importance of the Unimportant (Bruno Morawetz); Water
+Search and Rescue Procedures (Don Dickie); The Successful Singsong (Bob Attfield); Pensées
+(adaptation by Brian Blackstock); Organizing a Sailing Programme Part II (Catherine Thomas);
+L'Expédition Bostochouane (Camp Richelieu Quatre-Saisons); The Outdoorsman (Larry Johnston);
+Outdoor Cookery; Tips; Along the Bookshelf.
+
+**New CCA executive**: President **Ron Johnstone**, Vice-President **Jack Pearse**, Secretary Jay
+Haddad, Treasurer **Bill Swift**. Latimer is gone from the masthead after four years.
+
+**★★★ "OUR ANNUAL HOAX (INDIAN BURIAL GROUND, UNIDENTIFIED FLYING OBJECT, GLABERGOOF EGG, ETC.)"**
+Bruno Morawetz, Director of **Camp Ponacka**, arguing that a camp director should build "an element
+of mystery and make-believe" into the programme: "**The one thing which occupies a large part of our
+time is our annual Hoax (Indian Burial ground, unidentified flying object, glabergoof egg, etc.).
+With the bombardment from noise and the mass media, the imagination is frequently overlaid and
+buried. Camp is a good place to re-awaken it.**"
+
+Three things follow, and the third is a direct hit on an open question.
+
+*One.* **The hoax is annual and institutional.** Not an anecdote but a fixture — "our annual Hoax",
+capitalised, occupying "a large part of our time", named by the camp's director in the national
+magazine as a programme element on a level with the rest. This is the fourth Ponacka voice on hoaxes
+in this run (Attfield's how-to and Greenway's pre-camp objective at issue 94, and now Morawetz twice
+over) and it settles that the practice at that camp was continuous, deliberate and directed from the
+top. **The glabergoof egg**, invented in Attfield's 1972 article, is here three years later as a
+past year's hoax — so Attfield's "Camp BUMP-ON-A-LOG (the names have been changed)" was Ponacka, as
+the shared authorship already implied.
+
+*Two.* It confirms the transmission model the `myths-and-legends` article now carries: a camp hoax
+run yearly by the director, taught to staff at pre-camp, and remembered by campers as tradition.
+
+*Three, and the actionable one.* **One of the three named hoaxes is an "Indian Burial ground."**
+`wiki/site/indigenous-names-and-land.md` records that "An 'Indian Grave' marking existed on the
+Kanawana camp map, though no documentation has been found explaining whether this referred to an
+actual burial site, a naturalistic feature, or a campfire-story location." **A staged Indian burial
+ground is now documented as a recognised camp-hoax type of the period, named by a camp director in
+the trade press.** That does not show Kanawana's marking was one — it is a fourth possibility, not
+an answer — but it is a real, dated, named alternative that the article should carry alongside the
+other three, and it is the first evidence of any kind bearing on that question. **Patched.**
+
+The rest of Morawetz's essay is the best statement of camp philosophy in this run and is worth
+keeping whole. His argument is that a camper's "fourteen hour day consists of hundreds of minute
+incidents" and that these are what "make or break his camping experience", so the director should
+**delegate the "important" things — daily routines, maintenance, buying — and keep himself free for
+the "unimportant" ones**, "being free to talk to a camper on the path or tell a bedtime story to one
+little group." He cites **Martin Buber's "hallowing of daily life"** and **William James** on doing
+first each morning the thing you must force yourself to do. Two passages cut against the run's usual
+grain: on staff qualifications — "**I am always suspicious when a staff application is accompanied by
+a long resume listing dozens of qualifications, courses taken, tests passed** … perhaps he has never
+taken the time to sit quietly by a brook to listen to the gay laughter of its ripples. A good
+counsellor needs ears tuned to the ripples of a child. **He needs more the ability to listen than
+the skill to teach**"; and on facilities — "**A highly developed campsite may prove to be a real
+handicap. When our camp was young, the campers derived great satisfaction from creating a new path
+or cutting trees for a new tent. Now it's all done.**" He also opens with a defence of discipline —
+a camper is a geranium needing pruning — noting that "for years we have heard it said that punishing
+a child is self-defeating and **now we hear calls for the return of the noose and the strap**",
+declining to take a side. His camp "does its best to shun concrete and steel, arborite and wall
+boards, plumbing and electricity; **radios are completely outlawed**."
+
+**★★ Don Dickie, "Water Search and Rescue Procedures" — a drowning reconstructed second by second.**
+Dickie is a Royal Life Saving Society summer field representative. He prints a **timed search
+procedure** in which everything is done correctly and the camper dies: buddy check at 0 seconds,
+missing camper discovered at 10, emergency signal 15, waterfront cleared 20, counsellors report 40,
+attendance taken at 1 minute, search groups formed at 1:10, **full water search begins at 1:30**,
+one sweep concluded at 3:00, body found at the margin of the buoy lines **within five feet of where
+the camper was last seen** at 3:05, artificial respiration commenced at 3:30. "**The camper has been
+without oxygen for a minimum of 3 min. & 30 sec.** … Brain damage may have set in after 3 min."
+The fault he identifies is not in the execution but in the design: **"It took 1 min. & 15 sec. from
+the time the camper was discovered missing until the water search was initiated. It was in these
+wasted seconds that the chance of reviving the subject was lost.**"
+
+The rest is clinical and directly usable for any waterfront-safety account: the signs of a
+non-swimmer in difficulty (**vertical body position; no supporting kick; eyes wide open; no call for
+help — "priority is breathing"**), and that a drowning non-swimmer usually stays conscious about
+forty seconds after his last breath; how a body behaves after unconsciousness (buoyant on retained
+lung air, **usually within eight feet of the surface**, semi-vertical because the centre of buoyancy
+is in the chest, with women floating higher than men); and search priorities — danger areas first,
+then deep water working shallow, then outward from the last-seen point; never search below ten feet;
+searchers in pairs because **"lifeguards can drown."** On practice: brief and frequent rather than
+long and irregular, 25–35 minutes two or three times a week, in lifeguard teams of three or four,
+using rescue drills, skin diving, synchronised swimming and water polo rather than stroke practice
+because "stroke practice is time consuming, tiring and often boring." And the procedure must be
+"**written up and posted**", taught to each new intake of campers, and **tried at least once a
+season with no advance warning** — "Many procedures that look adequate on paper and in controlled
+trials, may not work in practice."
+
+A boxed **SPECIAL NOTE** dates a regulation change: "**Legislation under Small Vessels Regulations
+now requires a Ministry of Transport approved lifejacket or Personal Flotation Device for each
+person in any vessel at all times. Canoes and rowboats were previously exempted but are now
+included.**" This is the outcome of the life-jacket policy committee Claude Cousineau was appointed
+CCA liaison to in 1973 (issue 99) — the whole arc from lobbying to law is in this run, and 1975 is
+the year canoes came under it. Directly relevant to canoe tripping at Kanawana.
+
+**★★ Bob Attfield, "The Successful Singsong" — a method, and a song list.** Built as a mock formula:
+good timing + appropriate length, times (rhythm + movement + competition + variety over suitable
+accompaniment), times five times enthusiasm. Substance for `p_048`:
+- **Start the day with a quick singsong right after breakfast**; "You'll know you have really been
+  successful if you hear the voyageur group whistling one of your morning tunes during cabin
+  cleanup."
+- **Three or four songs is enough**, and "it is better to cut a song period short than to let it
+  drag on."
+- **"Some of our best song leaders seldom, if ever, use any song books"** — because distributing
+  books and flipping pages "detracts from the spontaneity", and "If song words can be taught without
+  the use of books, so much the better." **A direct explanation of why camp song repertoires are so
+  poorly documented**: the good practice of the period was deliberately not to use printed books.
+- Warm-up songs chosen for clapping and stamping: **"The Grand Old Duke of York", "When the Saints
+  Go Marching In", "The Junior Birdsmen"**. Competition songs: **"The Quarter Master's Store"**, "old
+  and hackneyed as it is … great for inducing each cabin group to produce an original rhyme".
+  Rounds: **"Frère Jacques", "Row, Row, Row Your Boat", "Good News"**. And the daily bookends —
+  "How rewarding for a camper to be able to begin the day with **'Alouette'** and retire with an
+  appropriately soothing melody like **'Land of the Silverbirch'**."
+- A named anecdote: senior counsellor **Richard Kinch**, after five hours of rain at Lookout Point
+  with morale at zero, "broke into an exuberant chorus of **'I'm Henery the Eighth I Am'**" and
+  turned the trip around.
+
+**★ "L'Expédition Bostochouane" — a Quebec camp's 150-mile canoe expedition, planned by the campers
+from January.** Camp Richelieu Quatre-Saisons, Ste-Thérèse. Eight people: **Jean-Pierre** as
+animateur (his fourth such expedition), **Denis** as co-animateur, and **six boys aged 14 to 17**.
+Preparation began in January with fortnightly meetings, each boy taking a portfolio — **Alain
+cartographer, Michel F. treasurer, André minutes and correspondence, Pierre canoe repair, Michel B.
+menu and food, Daniel individual and collective equipment**. Financed at about **$100 a head** by
+member contributions, **a sale of kites the team built themselves**, circular distribution, and
+grounds-clearing work in May. They consulted topographic maps and river surveys with the **Fédération
+québécoise de canot-kayak**, the parks service and canoe clubs, and took a whitewater course. Route:
+**departed 15 August** from Lac Montagnais in the Parc des Laurentides, down the Métascouac to the
+Métabetchouane, then Grand lac Bostonnais and the Bostonnais river to La Tuque — about 150 miles.
+The hard section was **"les Neuf milles de rapides"**, which they were advised to run **without
+baggage** in open canoes; one canoe was swamped in a class 3 rapid hidden in a sharp bend, the
+occupants saved by life jackets and companions with only leg grazes, the canoe patched with strong
+adhesive tape for the rest of the trip. **A precise, dated, camper-planned Quebec wilderness
+expedition of exactly the kind Les Voyageurs de la Vérendrye was running in the same years**, and
+the best available comparator for what such a trip involved administratively as well as on the water.
+
+**★ Catherine Thomas, sailing part two.** Mandatory equipment in all sailboats — an approved life
+preserver per person **and they are to be worn**, two paddles and a bailer, secured so they will not
+float away in a capsize. Teaching notes: get sailors on the water fast, "It is easy to turn a camper
+off sailing when too much initial land work is demanded"; alleviate the fear of capsizing at the
+first session; three in a sloop and two in a cat boat for maximum involvement, "**Always remember how
+boring it can be to have nothing to do in a boat**." Notes that **the CYA Standards were new** —
+"Until recently there was no standardized criteria available for the evaluation of sailing ability
+from one program to another" — and recommends camps add their own swimming requirements at the
+higher sailing levels, since the Standards do not. Regatta ideas, rainy-day land programmes, and a
+full equipment and library list. Read against Kanawana's directory entry (issue 103), which lists
+sailing among its five headline activities, this is what that activity was expected to look like in
+1975.
+
+**Pensées**: Brian Blackstock's adaptation of a summary from **Clarence G. Moser, *Understanding
+Boys*** (Association Press) — sixteen conditions under which "children grow best", printed in both
+languages. Several read as a corrective to the discipline argument opening the issue: children grow
+best when "**they are permitted to make mistakes, and permitted to live with adults who do not
+themselves pretend to be perfect**"; when "those about them **help them to succeed when they need
+help, but let them struggle when they are winning**"; and when "**their performance expectancy is
+related to themselves and not to others**."
+
+Also: **Blackstock and Latimer's *Camp Counsellor's Handbook*** now advertised by Gage Publishing at
+$7.95 cloth / $4.95 paper — the CCA president and publications chairman's national counsellor manual,
+published 1975. Larry Johnston's Outdoorsman is a history of the northern pike's reputation in
+Canada, noting that Canadians "still considered pike fishing a waste of time" until biologists
+established in 1938–48 that predator abundance governs the size of other fish. No Kanawana reference
+in this issue.

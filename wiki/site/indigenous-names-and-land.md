@@ -1,6 +1,6 @@
 # Indigenous Place Names and Land History
 
-*Status: R3-verified | Sources: 16*
+*Status: R3-verified | Sources: 18*
 *Last Updated: 2026-09-04*
 
 ## Overview
@@ -60,6 +60,10 @@ Eastaugh's article is worth reading beside Edgar's talk, because it is the same 
 
 An "Indian Grave" marking existed on the Kanawana camp map, though no documentation has been found explaining whether this referred to an actual burial site, a naturalistic feature, or a campfire-story location.^8
 
+**A fourth possibility, now documented.** In June 1975 Bruno Morawetz, Director of Camp Ponacka, wrote in *Canadian Camping* that "the one thing which occupies a large part of our time is **our annual Hoax (Indian Burial ground, unidentified flying object, glabergoof egg, etc.)**."^17 A staged Indian burial ground was, in other words, a recognised camp-hoax type of the period — named by a camp director in the national trade press as one of his camp's rotating annual productions, alongside the fabricated spaceship crash and the prehistoric "glabergoof egg" that the same camp's Bob Attfield had described in the same magazine three years earlier.^18
+
+This is not evidence about Kanawana's marking. It is a fourth candidate explanation to set beside the three above — a real burial site, a naturalistic feature, a campfire-story location, or **a deliberately staged hoax site of a kind camps of this period are documented as building**. Kanawana's own hoax tradition is discussed at [[traditions/myths-and-legends|Myths and Legends]]. What would distinguish the possibilities is the marking's date and its persistence: a hoax site is typically built for one season, while the map marking suggests something treated as a fixed feature.
+
 ## Pre-Colonial and Land History
 
 The Weskarini Algonquin were dispersed by Iroquois warfare in the 1650s; a major massacre occurred in 1653 near Petit Lac Nominingue, northwest of Arundel — roughly 70-80 km north of the Camp Kanawana site, but within the same territorial zone.^12 Archaeological fieldwork in the Laurentians since 2015 (researchers Francis Lamothe, Karine Taché, and Roland Tremblay) has shown that the Laurentian landscape was integrated within Indigenous interaction networks spanning several regions of the greater Northeast — evidence of land use long predating European settlement.^12 The camp's watershed, the Rivière du Nord, flows approximately 125-137 km from Sainte-Agathe-des-Monts through Val-David, Sainte-Adèle, Saint-Sauveur, Prévost, and Saint-Jérôme before reaching the Ottawa River at the Lake of Two Mountains.^12
@@ -101,6 +105,8 @@ The Kanawana site sits in the municipality of Saint-Sauveur, in the Laurentian h
 14. Parish, Frances. "The Journey to Reconciliation in North American Summer Camps," *McGill International Review*, 24 January 2024 [src_mironline_reconciliation_camps]. Read in full; contains no mention of Kanawana, Otoreke, the YMCA of Montreal, Montreal or Quebec. See [f_2205].
 15. Mary S. Edgar, "Our Indebtedness to Our Indian Friends," a talk given in the Glen Bernard Camp chapel, 15 August 1971, printed in *Canadian Camping* Vol. 24 No. 4 (Summer 1972), pp. 13-14, 20. Read in full during the word-for-word pass over the cached 1949-1988 run [src_ia_canadian_camping_collection].
 16. Jack Eastaugh (Assistant to the Director, Taylor Statten Camps), "Our Friends — The Indians," *Canadian Camping* Vol. 25 No. 3 (Spring 1973), pp. 5-6. Found by the full word-for-word read of the run (`kb/reread/cc_findings.md`, issue 98).
+17. Bruno Morawetz (Director, Camp Ponacka), "The Importance of the Unimportant," *Canadian Camping* Vol. 27 No. 4 (June 1975), pp. 3-4. Found by the full word-for-word read of the run (`kb/reread/cc_findings.md`, issue 105).
+18. Bob Attfield (Camp Ponacka), "Camp Hoax Costs Director $25,000 in Legal Damages," *Canadian Camping* Vol. 24 No. 3 (Spring 1972), pp. 18-19. Found by the same read (issue 94).
 
 ## Research Notes
 
