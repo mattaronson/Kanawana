@@ -21719,3 +21719,67 @@ washtubs and pot lids, fire-lighting competitions in the rain rewarded with hot 
 Look" photo series, a "Who Am I?" game using only camp personalities, **sleeping in canoe shelters
 built that afternoon**, and a cabin-run bingo night with prizes negotiated from senior staff in
 exchange for a camp work project.
+
+---
+
+## 120 — Vol. 30 No. 4, June 1978
+
+Twelve pages. Every item accounted for: Leadership (a page of quotations); food-cost tips (Dave
+Darker) and "…And More Tips"; Storms Ahead; Hiking… My Feet!; On the Buses (April Andrews, Pioneer
+Day Camp); Coming Events; Using Nature as Your Compass (Mark Healy, reprinted from the ACA's
+*Camping Magazine*, June 1978); Camping Publications with the order blank; Docks.
+
+**Nothing on Kanawana, nothing on Quebec, and no new Canadian institutional fact. This is the first
+issue in this stretch with no finding of substance, and it is recorded as such rather than left
+implied** — the whole point of the ledger being that a later pass can tell a read issue from an
+unread one. The issue is a summer number aimed at counsellors: a quotation page, safety and comfort
+articles, one reprinted ACA piece on wilderness navigation, and the catalogue.
+
+**★ Two small things worth keeping.**
+
+**The Alberta guide was published.** The publications list now carries "**DIRECTOR'S GUIDE FOR
+COUNSELLOR TRAINING — Alberta Camping Association — $3.00**", asterisked as a Canadian book. It was
+announced as forthcoming in December 1976 and February 1977 (issues 110 and 111) and is now in
+print — so it exists, was sold nationally through the CCA, and is findable. Note for `p_318`: the
+Alberta **"Practical Guide to Hebertism"** announced in the same breath is **not** in this
+catalogue, so as of June 1978 it had not appeared, and searches should not assume a 1977 imprint.
+Mary Casey's *The Nurse and the Health Program at Camp* is now listed too, confirming publication.
+
+**"From time to time, upsetting fatal accidents have taken place in camping situations."** The
+lightning article says so plainly, and adds that "**loss of young lives could have been avoided in
+each case with serious training and forethought**." It is the sixth consecutive issue carrying a
+safety warning of some kind, and the phrasing — an unnamed plural of fatal accidents at Canadian
+camps, treated as known to the readership — is worth recording for anyone later trying to establish
+whether a Kanawana incident sits among them.
+
+The lightning advice itself is a period document of camp practice: everyone indoors as soon as a
+storm breaks; **outdoors, lie flat on the ground and "forget the soaking," never shelter under a
+tree**; on the water, "**Get out and get off… On The Double!**"; indoors, go low, close windows,
+avoid the telephone, lamps, taps, and stop all dishwashing and showers; in a vehicle, pull over but
+not on a hilltop, "a car is the safest place in a storm." For electrocution: mouth-to-mouth
+immediately and continued "whether or not there are signs of life." And on the pastoral problem, a
+sentence that is a small piece of camp-culture evidence: with young campers awake at night, "**get
+them singing songs… the louder the better to out-sound the storm. They like the excitement of
+sitting in a circle on the cabin floor.**"
+
+**★ Coming Events, for dating.** CCA Board meetings: **St. John's, 26-28 October 1978**; **Banff,
+24-28 January 1979**; **Saskatoon, 1-3 November 1979**. CCA Annual Meeting **Nova Scotia, 10-13 May
+1979**. ACA International Conference **Minneapolis, 19-24 February 1979**. OCA Annual Conference
+**Toronto, 1-3 March 1979**. The editor asks provincial associations to send their dates "so that we
+can expand 'Coming Events' in the next issue… to include announcements of happenings in all the
+provincial associations" — so the Quebec calendar that has been so useful (issues 116, 117, 118) may
+resume rather than having stopped.
+
+**Minor.** Dave Darker's food-cost notes give kitchen economics at working level: a two-choice
+cafeteria menu saves about 1% above 120 campers; **hot cereal about 2.4¢ a serving against bulk corn
+flakes dearer and individual boxes dearer still**; "**the truck drivers tell me the camps are more
+lax than the resorts, so who do you think gets short deliveries? The ones who seldom check**"; weigh
+the meat before signing the delivery sheet; **locks on the walk-in refrigerator door**; spot-check
+milk jugs against the milkman's delivery. Foot care for hikers, in detail, including the two-sock
+system (fine knit wool-and-cotton next to the skin, coarse all-wool over it) and "**blisters should
+not be given any 'do it yourself' treatment**". April Andrews on running a programme on a day-camp
+bus — crayons rather than pencils because "in a moving vehicle the potential for injury from sharp
+objects is multiplied," games that work for children boarding at the last stop as well as the first,
+and "**a bus clean-up squad is a must**". Dock maintenance: sand sprinkled on wet paint for grip,
+staining preferred to painting because "paint tends to trap water and increase the rate of
+deterioration," and **nails driven in at an angle** to hold longer and spare campers' feet.
