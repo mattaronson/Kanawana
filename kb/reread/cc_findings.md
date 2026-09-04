@@ -15335,3 +15335,327 @@ canoe collection, Plewman identified as Kilcoo's owner-director and dated to 190
 from Camp Winnebagoe with a second explicit ban on physical punishment, Palm's waterfront
 progressions matched to short camp periods, and Bertram's 1964 record of bilingual practice at a
 Quebec camp.
+
+---
+
+## 88. Vol. 23 No. 1, November 1970 — `canadiancampingmagazine_vol23_no1_1970nov.txt`
+
+*Contents page*: A Letter from the President (David Hartry); News from the Provinces;
+Standards in Camping (David Palter); Mandatory Standards (Ron Johnstone); A Page of Poems
+(Mary S. Edgar); Besoins Spirituels dans les Camps (Pierre Côté, S.J.); Badges and Awards —
+A Positive Viewpoint (Jocelyn Palm) and A Negative Viewpoint (John Walker); A Place in History
+for Ontario Camping (Mary L. Northway); Youth and Drugs (Bruno Morawetz); To Whom Tribute Is
+Due: Gertrude Evelyn Moore (Eanswythe Flynn); Everybody Talks About It (Harry Brown). All
+twelve checked against the read; all covered below. **A dense and unusually important issue.**
+
+**★★ SEVENTY-FIVE QUEBEC CAMPS INSPECTED IN SUMMER 1970 — the strongest accreditation lead
+yet, and it is in French.** Huguette Dagenais's "Nouvelles du Québec": **"Le programme
+d'accréditation de l'A.C.Q.C.A. s'est poursuivi durant tout l'été '70. ENVIRON 75 CAMPS DANS
+LA SECTION ANGLAISE ET LA SECTION FRANÇAISE ONT ÉTÉ VISITÉS PAR TROIS ÉQUIPES
+D'INSPECTEURS."** Seventy-five camps, both sections, three inspection teams, one summer.
+Kanawana was an accredited Quebec camp; the odds it was among them are very high. **Held with
+Perras's account of the procedure (issue 86) and McFarlane's 1965 round (issue 70), this is now
+three documented Quebec inspection rounds — 1965, 1966 and 1970 — each producing a written
+report per camp filed with a standards committee.** The written record of Kanawana's
+accreditation almost certainly exists; the question is only where it is held.
+
+Also from Quebec in this issue: **the ACQ received a letter of intent for renewal of a
+$30,000 grant for its provincial secretariat**, after long representations to **the new
+minister, the Hon. Jean-Paul L'Allier, responsible for the Haut-Commissariat à la Jeunesse,
+aux Loisirs et aux Sports** — so the association's funding, and the ministry it answered to, are
+now dated. A **regroupement of accommodation organisations** — ACQ, the youth hostels, the
+Bases de Plein Air and others — is proposed "dans le but d'offrir à la population des normes de
+sécurité et d'hygiène améliorées tout en laissant à chaque organisme son autonomie." And a
+**commission d'études sur les vacances familiales à prix modique** was formed in late August
+1970 — ACQ, the Confédération des Loisirs du Québec, the Touring Club du Québec, the Coopérative
+de vacances familiales, the Conseil des Oeuvres de Bienêtre de Québec and the Unions de familles
+— reporting **6 November 1970**. A findable report, and directly relevant to any account of
+low-cost family camping in Quebec.
+
+**★ THE QCA (ENGLISH SECTION) EXECUTIVE, ELECTED 2 JUNE 1970 FOR 1970-72** — printed as a
+slate, and the cleanest Quebec officer record in the run: **Past President Cy ("Sy") Bekoff;
+President Peter Van Wagner; Vice-Presidents Mrs. Nicholas D. Demetelin and Zave Ettinger;
+Secretary Mrs. Kenneth R. Willis; Treasurer Mrs. D. Jacques Reeves.** So **Peter Van Wagner —
+F. M. Van Wagner's son, who ran Camp Nominingue until 2015 per the KB — is QCA president from
+1970**, and Sophia Demetelin is a vice-president. Dagenais's French note dates his election to
+"mai dernier"; the English slate says the annual meeting was 2 June. Record both.
+
+**★★ THE O.C.A. MANDATORY STANDARDS, PRINTED IN FULL — the actual accreditation instrument.**
+Ron Johnstone (Director, Camp White Bear; **Chairman of Standards, Canadian Camping
+Association**) introduces them: approved at the OCA's **November 1969 board meeting**, after a
+standards programme **"going on for over twenty-five years"** — so from about 1945. His framing
+matters: the standards are **"MINIMUM standards for safe camping… no more than a minimum
+guarantee, to the camping public of our Province, that their children will be safe both
+physically and mentally"**; "Desirable Camping Practices" remains the basis for accreditation
+alongside them; and the third purpose is **liability protection** — "The liability we face is
+equated on what is the 'accepted common practice' within our profession. The adherence to the
+Camping Standards as outlined by your Association is YOUR protection that you are indeed
+following the accepted common practice." Camps must **certify** compliance and visitors must
+**verify** it.
+
+The **resident-camp checklist** as printed (23 items), which is what an accredited camp in 1970
+had to satisfy — and therefore the frame in which to read any Kanawana inspection record:
+staff lists tabulated; **a current Ontario Department of Health licence** (required by Public
+Health Act O. Reg. 518-1960); **a medical history form for every camper and staff person**,
+signed by parent or guardian; toilets to Health Department minimums (**one seat per 8-10
+people**; boys one per 15 if urinals are also provided); **water supply tested before camp and
+re-tested weekly**; **the camp director 25 or older** with **at least two years' staff
+leadership experience** in an organised camp; sufficient staff continuity for stability, with a
+**minimum of one third of counsellor staff being new**; **facilities enabling staff to have
+privacy from campers at off-duty times**; watercraft practices complying with federal
+Department of Transport regulations; **emergency numbers posted by the telephone** (fire,
+police, hospital, physician on call, rescue squad); staff familiar with emergency procedures,
+with **drills carried out during staff training**; **the director personally carrying out safety
+inspections**, hazards listed, orders given, and **re-checked within 24 hours**; a **minimum of
+one staff member per five campers on all trips away from camp, never fewer than two**; the
+person in charge of an out-of-camp trip **at least 18**, familiar with the territory and aware
+where help can be got, the assistant **at least 17**; a registration form per camper with
+written parental consent; drivers holding current chauffeur's licences; road equipment safe;
+passengers not exceeding seating capacity; water transport meeting DOT requirements; the
+director knowing and following **the OCA's Ethics and Business Practices**; and — the one that
+is really a consumer-protection clause — **"Does the Camp adequately provide all facilities and
+activities listed in its brochure and advertising material?"**
+
+The **day-camp standards** are printed too, with the differences worth noting: director **21 or
+older** (against 25 for resident camps) with **two seasons'** experience; **one trained person
+per ten campers** on trips away, never fewer than two; trip leader **18** and assistant **16**;
+**at least one supervisory person in each vehicle other than the driver**; **an accessible
+telephone or other means of immediate communication with a source of aid**; and **a registered
+nurse or a qualified first aid person holding a St. John Ambulance or Red Cross certificate in
+attendance**. The camper health form must carry parents' home and business numbers, other
+emergency numbers, **the doctor's name and number, and the OHSIP number**.
+
+**★★ DAVID PALTER, "Standards in Camping" — a first-hand history of Canadian camp accreditation
+by the man who started it**, delivered to the Society of Camp Directors on **26 November 1969**
+(the same meeting as Plewman's address at issue 87). *Identity caution: this is **David Palter,
+B.Sc., P.Eng., Camp Consultant**, and the run also carries **Elsie Palter** (a founding director
+of the Society, issue 84). The KB separately holds **"Dave Paltiel" / "David Paltiel"** as a
+Kanawana name — on the Knights of Kanawana roll, the 1975 board and the 1976 staff list.
+**Palter and Paltiel are different names and must not be merged**; there is no evidence linking
+them, and this note exists so a later pass does not make the connection carelessly.*
+
+His account, drawn from the OCA's own archives:
+- Researching "back to the early 1950's": **"As early as 1952, the Board of O.C.A. adopted
+  accreditation of children's camps in principle."** The first attempt, **"Minimum Standards"**,
+  failed — "there is no minimum when it comes to the physical property, because **some of the
+  best camping can be practised with an axe and ingenuity in building a basic shelter**." A
+  **1954 self-evaluation questionnaire brought 44 responses**, and "O.C.A. was not going to
+  cancel 80 memberships because they would not reply." The Standards Chairman "reported to the
+  board… that he was very discouraged."
+- **★ He quotes the OCA archives directly** — a minuted meeting of the **Legislative Committee,
+  Park Plaza Hotel, noon, Thursday 7 March 1957**, present **Lloyd Perry, Dr. J. Harry Ebbs,
+  Irwin Haladner, W. E. Yard, Mrs. Ralph Raymer, W. B. Danson, Mrs. G. W. Flynn** — recommending
+  "that the Ontario Camping Association endorse and encourage the formation of **an association
+  of professional camp directors**… to provide a government-recognized organization through which
+  the public will be protected against the operation of children's camps by undesirable and
+  untrained directors." Approved in principle in 1957. **So the Society founded in May 1969
+  (issue 84) was twelve and a half years in the making, and the archives Northway deposited at
+  Trent contain the minute that started it.**
+- **He was appointed Standards Committee chairman on 29 April 1957** and charged with initiating
+  accreditation. Visiting began "on a friendly, voluntary basis"; visitors were chosen from
+  directors with **at least five years' administrative experience**; the programme has run "a
+  little more than 10 years."
+- **★ His warning, now that visiting is mandatory in the OCA, other provincial associations and
+  the ACA**: "there is a great danger that the visit could become an inspection. If it becomes a
+  mechanical routine chore that a camp must submit to, in order to receive the blessing of the
+  Association and in order to show the emblem to the public, **all value of the program is
+  lost**." His memory of what it replaced is the vivid part: "**I am sure you can recall the day
+  when it was unheard of to go to see your competitor**… Directors met at arms length — fully
+  extended — at association meetings."
+- Two case studies arguing for licensing: a 22-year-old with family money who wanted to buy a
+  camp and was advised to go back as head counsellor first ("as far as I can judge, at the
+  moment he is not ready"); and **a young director who bought a lakeside property and made
+  irreversible siting mistakes** — "hemmed in on all sides by cottages so that there is no room
+  for expansion… **the road to his neighbours cuts right through the camp property**… the
+  waterfront is very small, too small for a boating program adjacent to a swim area" — whose
+  backers were withdrawing. His conclusion: **"In other professions the law requires a licence
+  before hanging out a shingle — so it should be in camping."**
+- On education: **Conestoga College, Kitchener**, has started **a ten-session camping clinic for
+  adults**, instituted by **Don Groff**, repeating for ten weeks from February 1971; and **more
+  than twenty years ago the State Teachers' College of Brockport, New York, operated a
+  children's camp in the Catskills** giving students credit toward an education degree — the
+  model he wants for Ontario.
+
+**★★ MARY L. NORTHWAY, "A Place in History for Ontario Camping" — the deposit of the OCA
+archives at Trent, dated exactly.** The ceremony was **22 October [1970]** at Trent University,
+Peterborough: **past president John Latimer presented the OCA archives to Dr. T. H. B. Symons**,
+president of the University, some thirty OCA members "motored to Trent through the first autumn
+snowstorm," with lunch in the Great Hall, a French play by the students, and tea afterwards at
+**Bruno Morawetz's farm up the Otonabee**. The provenance she gives is what matters for anyone
+using the Trent holdings:
+
+- **Six years of work by the OCA archives committee under three successive chairs — Mrs. Adele
+  Ebbs, Miss Margaret Govan, and Dr. Mary Northway** — with records "collected, stored and
+  catalogued at the O.C.A. office by **Mrs. Shirley Hall**."
+- Contents: **"early brochures, photographs, programmes and schedules, films, financial
+  accounts, diaries, and taped interviews of prominent camp personalities."** The **taped
+  interviews** are the item to chase.
+- **A duplicate file is kept at the camping office; the originals went to Trent.**
+- Her collecting policy, which is the useful part for reading any gap in the collection: asked
+  **"what to collect?"**, the answer was **"everything. Let the archivist decide what is not
+  important"** — and material "should not be sorted by amateurs, but stored in its original
+  packages and catalogued from these."
+- Funding: **the authors of *The Camp Counsellor's Book* turned over the royalties to the
+  Association** for the archive, "the manuscript of which is now part of the Trent archives."
+- She reprints **J. D. P. Martin's "Why Archives?"** in full — the piece already recorded at
+  issue 83 — confirming it was written for this project, and closes: "**archives are to groups,
+  as memory is to the individual**… The record of today, becomes the archive of tomorrow."
+
+**★ MARY S. EDGAR, "A Page of Poems"** — the promised continuation (issue 84) of texts from her
+out-of-print work. Four:
+- ***"A Director's Meditation"*** — a director alone after lights-out: "Beneath the stars I take
+  an inventory; / In solitude I ask, / 'What assets lie within the soul of me? / What wisdom for
+  the task?'… **Yet if one camper there should chance to be / Who has some hidden need, / If
+  all-expectant he should turn to me / Grant I may truly lead.**" It ends, disarmingly, "Now I
+  must go to bed and get some sleep."
+- ***★ "Hymn for the Space-Age"* (Tune: Forest Green)** — a **third Edgar hymn** found in this
+  read, after "Canada's Our Country" (issue 75, now in `centennial-1967.md`) and "This Fair
+  Land, Our Canada" (issue 82, held back over an ambiguous byline). This one is explicitly
+  environmental: "**Keeping our skies and waters clean / Our forests freshly green / Thus through
+  the ever-circling years / True gratitude is seen**," with "Inheritors, our debt is paid / By
+  passing beauty on" and a closing verse on giving "To those who poorly fare." **A conservation
+  hymn by the CCA's honorary president, c. 1970** — a genuine find for both the Edgar thread and
+  `environmental-and-ecological-history`.
+- ***"Postpone the Verdict"*** — on generational complaint: "Victorian critics muttered / As they
+  sniffed a pinch of snuff: / 'This country's going to the dogs! / Youth's gone quite far
+  enough!' / **Postpone the guilty verdict**… / Youth is pressing forward; / Those dogs will have
+  to wait."
+- ***"Outdoor Beauty Clinic"*** — "If to the rain you lift your face / Just as the flowers do /
+  You'll get it very nicely washed."
+
+**★ And a new Edgar book, just published**: ***Once There Was a Camper* — Rhymes and Drawings by
+Mary S. Edgar**, "a little book of 23 delightful rhymes on kids at camp," line drawings by the
+author, from G. R. Welch, Toronto. **A findable 1970 publication by the CCA's honorary
+president**, and the source of the "Once there was a Camper" verse printed at issue 84.
+
+**★ BRUNO MORAWETZ, "Youth and Drugs"** — to the Society of Camp Directors, **9 April 1970**,
+copyright the Society and Morawetz, with reproduction permission from Box 173, Station S,
+Toronto. A long and remarkable document: a camp director arguing his colleagues out of panic
+about drug use, and one of the most striking period pieces in the whole run. Its substance is
+not fact about camping but **evidence of what camp leadership believed and said in 1970**, and
+it should be recorded and dated, not endorsed. Key passages: his own admission that "**the
+spectre of a drug using youth haunted me terribly a few years ago. I remember the panic which
+came over me when I imagined my counsellors or campers stealthily smoking pot behind the craft
+area**"; the distinction he reports young users making between "the mild psychedelic drugs like
+Marijuana and LSD" and "the dangerous drugs like heroin and speed"; his catalogue of the world
+as a seventeen-year-old sees it (war on every living species, "a lethal carpet of concrete and
+metal," polluted air and water, "a world in which human beings are no longer needed"); his
+reading of the counterculture as **"a spiritual revolution"** happening "in every industrialized
+society"; **Woodstock** named, and "what may take place in Ontario this summer"; a lecture at
+Trent by **Prof. Bagnani of Classics** on beard and hair styles through the centuries, used to
+ask "**Does our revulsion against hair styles, fashions and sexual freedom betray a tinge of
+jealousy…?**"; a long exposition of **Huxley's *The Doors of Perception*, Alan Watts and Timothy
+Leary**, including Leary's seven levels of energy consciousness; and the prediction, "**when this
+Society meets again in 1990 the smells of marijuana cigarettes may well waft through this
+room.**" Two things make it worth keeping beyond period colour: it is **a named, dated, formally
+copyrighted position paper of the professional body of Canadian camp directors on drugs**, which
+is exactly the kind of document a camp's own 1970s drug policy would descend from; and it sits
+directly against Ebbs's nicotine note at issue 85 and Latimer's list of bedtime discussion
+topics at issue 87 ("religion, space, history, drugs, sex"). The movement was arguing this out
+in public in 1970.
+
+**★ The badges-and-awards debate, printed as two facing essays** — a genuinely useful pairing.
+**Jocelyn Palm (RLSS), for**: awards let a camper "proceed at his own rate and be at a variety
+of stages in the total program"; **skill development is "a very subtle process"**, especially in
+swimming, and "through the attainment of a badge, the mastery of some skill is confirmed to
+him"; awards let a camper explain to parents what he has learned, since "many disciplines
+learned at camp are only practised at camp"; and — the hard institutional argument — **recorded
+skill levels are what a director hires on**: "A prospective staff member may claim to have all
+the required safety skills in riflery and aquatics, but without credentials to prove his
+capabilities the camp director should be reluctant to hire such an individual. **The legal
+implications in hiring staff without current qualifications are of the utmost significance.**
+Most camps obtain their senior personnel through the ranks of their own organization. Then, is
+it not fair to provide the opportunity for campers to achieve recognized awards while they are
+campers?" **That is the mechanism by which a camp's badge scheme and its staff pipeline are the
+same system** — worth holding against Kanawana's crest and Knights material.
+**John H. Walker (Springfield College and Kilcoo Camp), against**: "Camp should be a place where
+there is no system of badges and awards… **The achievement of a badge or award overshadows the
+amount of learning which takes place**"; "an individual could attain all the badges and awards
+in the world yet he might not have learned as much as the person next to him at the canoe dock";
+and the sharpest line, **"It is often the weak instructor who relies on tests to accomplish what
+he himself can not do."** His concession is honest: "badges and awards do serve a purpose for
+those who feel insecure enough in the learning process to warrant a conditioned response."
+
+**★ Pierre Côté, S.J., "Besoins spirituels dans les camps"** — a paper to the **ACQ congress, 21
+February 1970**, and the French-Catholic counterpart to Margaret Govan's Protestant statement at
+issue 84. His argument is more careful than hers on one point that matters: he defines the
+"dimension spirituelle" **without requiring religious practice or Catholic faith** — "Par
+dimension spirituelle faut-il entendre une pratique religieuse intense? Non. Faut-il entendre
+une foi en l'Église Catholique? Non" — and lists the forms an "Absolu" may take, from "le
+premier principe, le créateur de la nature" through "une valeur dont il faut vivre à tout prix,
+comme la paix, la fraternité, l'amitié" to "Quelqu'un." His demand on staff is graduated by their
+own belief: **if you believe nothing, you must still "respecter une option différente de la
+vôtre, sans la mépriser… sans en rire et sans la ridiculiser"**; if a little, help the camper
+discover the dimension; if much, share it. And on imposing observance — "**Est-ce que cela
+voudra dire qu'il faut imposer la messe quotidienne ou hebdomadaire? Peut-être que oui,
+peut-être que non**" — he comes down against external framework and for attentiveness: integrate
+it "non pas d'abord en imposant un cadre de l'extérieur… mais davantage par une attention à
+l'évolution des personnes qui vivent au camp." The controlling principle throughout is **respect
+for the camper's home milieu**: a director must not impose "un horaire et une façon de vivre
+contraire à l'option du milieu dont ils sont issus." **For a YMCA camp with a Protestant
+institutional frame and a mixed camper population, this is precisely the live question**, and it
+is here answered by a Jesuit to a francophone Catholic association in 1970.
+
+**★ Eanswythe Flynn, "To Whom Tribute Is Due: Gertrude Evelyn Moore"** — an obituary that carries
+a founding chronology. **"Dinty" Moore**, born and educated in Toronto, **a graduate of the
+Margaret Eaton School of Physical Education**; **waterfront director at Glen Bernard Camp**
+(Mary Edgar's camp); **Director of Physical Education at the Vancouver YWCA**; **Director of
+Women's Physical Education at UBC**; **opened her own girls' camp near Nanoose Bay in 1934, "the
+first private camp for girls in the West,"** and on retirement sold the seventy-five-acre site
+to the United Church, which still runs it as **Moorecroft**. **★ "Dinty" was the founder of the
+B.C. Camping Association in 1939 and its first president**, honorary president at her death; and
+during her ten years in executive office the most important advance was **"the drawing up of
+standards for camping in that province in co-operation with the provincial government. Later
+this research and study was used as a basis for Government licensing of summer camps in B.C."**
+So **British Columbia licensed summer camps on standards a camp director wrote** — the outcome
+David Palter is arguing for in the same issue, achieved a generation earlier in another
+province. A dated, checkable claim and a strong lead.
+
+**Other officers and news.** **David Hartry's president's letter** names the camps he visited —
+**B'nai Brith Camp in Ste. Agathe du Mont, "with over 800 people in camp at one time," Zave
+Ettinger directing; Bob Lazanik at Pine Valley** with "hundreds of people in Pine Valley's
+week-long grey cup games"; **John Latimer's Kilcoo; Tony Fry at Pine Crest YMCA Camp
+(Toronto)** — and lists as "prominent Camp Directors in Canada" **John Latimer, Robert Lazanik,
+Sophia Demetelin, Zave Ettinger, Tony Fry, Ivan Robinson, Tom Creighton and Peter Harris**.
+Three of the eight are Quebec. **Ontario**: the OCA moves 1 November to 102 Eglinton Avenue East,
+Suite 203; **Stan Wild is promoted to Executive Director**; and **★ joint CCA/ACA standards
+visits began this summer** at two Ontario camps, saving the camps two visits in one year, under
+a new ACA rule that **a camp outside the USA must first be a member of its own national camping
+association before the ACA will accredit it**. All accredited camps must now **sign an
+undertaking to abide by the mandatory standards before membership renewal and directory listing
+are approved**. **Saskatchewan**: new president **Jack MacKenzie**, Supervisor of Physical
+Education for the Regina Board of Education for thirteen years, profiled by Eileen Mayotte — a
+Manitoban with degrees from Manitoba, Toronto (BPHE and BA) and Michigan State, whose camping
+included **"canoe trips on the Churchill River for boys, including inter-cultural trips (Indian
+boys and white boys)"** and who **chaired the Saskatchewan section of the CCA Centenary Cross
+Canada Canoe Journey** — the 1967 project traced at issues 70–75.
+
+**★ A date to watch for**: the **CCA National Conference on Camping Standards and Research,
+Halifax, 22–23 February 1971**, one delegate per member camp, with the board meeting 20–21
+February and the annual meeting the evening of the 21st. Delegates are asked to propose topics
+under **standards and accreditation, health and safety, leadership development, pollution and
+conservation**. If Kanawana sent a delegate, this is where it would appear.
+
+**Harry Brown (Camp Tawingo), "Everybody Talks About It"** — a short conservation piece. "**Nature
+is the prime reason for having or going to camp**… when the site is destroyed so too, is any
+camp." Practical suggestions: measure the pollution around your camp and identify its sources;
+a camper-oriented **Nature Centre** with live animals; **build your own weather station and make
+local forecasts**; and **tree planting** — "as they grow up through the camp, so too will the
+trees they planted. Why not have your campers plant a tree on your camp grounds instead of a gum
+wrapper?"
+
+**Smaller items.** The magazine's editor is now **Editor and Publisher**, moved to Downsview, and
+appeals again for photographs. A new advertiser of note for physical plant: **Septo Clean**, "the
+non-pollution product… approved by Soil and Science Dept. of Ontario" for septic tanks, cesspools
+and outhouses — pollution language reaching the advertising pages. **Langford Canoes** (canvas
+covered cedar strip) advertises 1970 prices held for spring 1971 delivery. A photograph is
+captioned **"Camp Northway Lodge; Circa 1910"** — an image caption independently placing Northway
+Lodge in existence by about 1910, consistent with the 1906 *Camp Chats* datum at issue 80.
+
+Nothing in this issue names Kanawana. Its value is exceptional all the same: 75 Quebec camps
+inspected in summer 1970 by three teams; the full text of the mandatory standards a Canadian camp
+had to meet; Palter's first-hand history of accreditation quoting the 1957 OCA minute that led to
+the Society; Northway's account of the Trent deposit with its taped interviews and its
+"collect everything" policy; Gertrude Moore's obituary dating the BC association to 1939 and the
+provincial licensing of camps to standards she wrote; a third Mary Edgar hymn, this one on
+conservation, plus a new Edgar book; and Morawetz's copyrighted position paper on drugs.
