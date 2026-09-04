@@ -8523,3 +8523,200 @@ a named Canadian camp.
 
 Kanawana itself: not named in this issue — but the man who studied its counsellors is, as
 the national association's 1964 speaker on leadership training.
+
+## 61 — Vol. 16 No. 2, February 1964 ★★
+
+A single-theme issue — **Woodcraft and Outdoor Living** — and the best one in the run for
+award systems, tripping preparation and nature programming. Two items bear on Montreal.
+
+**Mary S. Edgar, "Among Ourselves: Anne Vail" (pp. 54, 65).** The Honorary President of
+the CCA, writing as **"Founder of Glen Bernard Camp"** — which independently confirms the
+byline that supports the Northway identification in issue 60 — profiles the Montreal woman
+who was the association's second president. New facts, none in the repo:
+
+- **"It was an historic gathering when the Canadian Camping Association, no longer a
+  section of the American Camping Association, held its first conference in Ottawa in May
+  of 1947 ... in the conference room of the Château Laurier."** A founding date and place
+  for the CCA as an independent body, from someone who was in the room. (The wiki's
+  `canadian-camping-movement.md` uses 1936 for the founding; this is about the separation
+  from the ACA, which is a different event and should be recorded as such.)
+- **Anne Vail of Montreal was elected CCA Secretary there, under President Dais Gass**, and
+  **CCA President in the autumn of 1949**.
+- Within months of 1947 she toured the newly formed western associations — Vancouver,
+  Calgary, Edmonton, Saskatoon, Winnipeg — with Edgar, "answered questions, interpreted
+  C.C.A. and showed **the film 'Canadians are Campers', a record in technicolor of our
+  first National Camp held at Camp Ahmek**." **A 1947-era Canadian camping film in colour
+  is a moving-image lead of exactly the kind the Phase 2 mandate asks for**, and it is
+  named.
+- Biography: born in New Brunswick; St. Stephen's High School; **Normal School of
+  Fredericton**; taught two years; a diploma course in Religious Education in Toronto;
+  **graduated from the McGill School of Social Work**; then **executive-secretary of the
+  Iverley Community Centre**, a large Montreal settlement house, which carried with it the
+  directorship of **Camp Chapleau in the Laurentians, "one of the largest agency camps in
+  Canada", where "every summer hundreds of mothers and children went in ever-changing
+  groups"**.
+- **1948: invited to Britain by the National Council of Social Service** for an informal
+  survey of youth work and recreation — eight months in England, Scotland, Wales, France
+  and Holland, and **represented Canada at the Conference of the International Federation
+  of Settlements in Paris**.
+- Retired 1960, left Montreal for her native New Brunswick village, took a teaching post,
+  became chairman of the school board and president of St Stephen's Presbyterial of the
+  United Church, and **in 1962 went to Camp Wilbaken on Lake Memphremagog as director of
+  counsellor education**, returning for a month in 1963.
+
+`kb/facts.json` contains none of Iverley, Wilbaken, the 1947 Ottawa conference, or the
+film. Camp Chapleau is in the KB (through Mrs Seaman's directorship of it), and this adds
+scale — hundreds of mothers and children a summer, one of the largest agency camps in the
+country, run out of a Montreal settlement house.
+
+**W. E. Yard, "The Pinecrest Woodcraft Programme" (pp. 59, 68–69).** The most complete
+description of a camp award system in the run, and the right comparator for Kanawana's own
+badge and order traditions. It grew out of a question asked in the camp's **Fall Programme
+Evaluation sessions "year after year"** — "Do we really lead our campers to a thorough and
+genuine appreciation for the out-of-doors?" — and out of working meetings running from
+October 1961 through spring 1963. The syllabus, printed in full: building shelters; axe and
+knife; knot tying; safety in the woods; conservation; canoeing and portaging; tent pitching;
+weather; identification of birds, mammals, insects and reptiles; campfire programming;
+building, extinguishing and fighting fires; map and compass; splicing and lashing;
+wilderness first aid; survival swimming; hiking, trail blazing and marking; camp cooking;
+stars and constellations; trees and wildflowers.
+
+**Three levels, with a card the camper carries and instructors initial:**
+
+- **OUTDOORSMAN** — preliminary. Award: **a blue woodsman's scarf, "cut and sewn by
+  enthusiastic staff wives"**.
+- **WOODSMAN** — greater knowledge and experience. Award: **a Mora knife, "a small Swedish
+  steel sheath knife with a wooden handle on which a distinctive emblem was cut and
+  burned"**.
+- **SOURDOUGH** — "Few people, even among staff achieved this level." Award: **a
+  hand-crafted sheath cover for the knife**.
+
+Yard credits three things for its success: a highly skilled leader with personal enthusiasm
+— **"Sass" Peepre**, the Estonian-Canadian who is a major figure in Canadian wilderness
+canoeing and appears nowhere in this repo; a long preparation "involving many people who
+would have a share in implementing the eventual recommendations"; and a refusal of "the
+superficial and irrelevant". Staff took the woodcraft skills during a **six-day pre-camp
+orientation course**, and "by the end of this course, many of the staff were wearing the
+knife." An old building was moved into the woods, campers helped clear and level it, it was
+"decorated with a pair of moose horns and dedicated as **'Moose Lodge'**", and at the
+dedication "every cabin group brought something in the line of a nature lore discovery, or a
+project related to the advancement of the woodcraft idea." He closes by acknowledging **the
+writings of Ernest Thompson Seton**, of whom the camp has built "a considerable library".
+
+**J. H. Ebbs, M.D., and assistants, "A Tripping Fitness Programme" (pp. 56–58) — a second
+camp research study on named children, at Camp Wapomeo, summer 1962.** **Sixty-seven senior
+girls aged 14 to 16** were tested on arrival for "organic endurance, and strength of hand,
+arm, shoulder and leg", then **assigned by cabin into control and experimental groups**. The
+experimental group did five exercises for about ten minutes after breakfast (toe-touching
+with side-bending, sit-ups, back extension, chin-ups from horizontal, running on the spot)
+plus ten minutes a day on **a mock portage built in camp — uphill and downhill grades, flat
+ground, stepping stones, a low beam to stoop under, a fallen tree to walk along** — where
+they were taught to flip packs and use a tumpline, "the aim being to increase the number of
+circuits completed in the time limit ... every girl competed with herself." Both groups then
+took five- or six-day trips and were retested. Conclusions: **canoe tripping itself produced
+marked fitness gains in both groups** (lower post-trip pulse rates, higher back and leg
+strength), but **the conditioning gave no measurable advantage** — the week was too short —
+though the experimental group "did not suffer from muscle stiffness on the first day." The
+authors also judged the formal calisthenics "too formal for the camp situation" and
+recommended endurance swimming, canoe sprinting and long hikes with packs instead. The
+camper reaction is recorded too: "there was much good natured kidding about being a weakling
+or a '**Miss Atlas**'", and "many who hoped to lose weight or slim down felt that these work
+outs would help." Recorded here beside Hendry's 1949 sociometric study (issue 6) and
+Dimock's 1960–61 Kanawana work as the third instance in this read of measurement being done
+on identifiable camp children — the practice was routine.
+
+**P. M. Taschereau, Naturalist, Woodland Boys' Camp, Quebec, and Nova Scotia Museum of
+Science (pp. 48–49, 75–77).** From the Nova Scotia CA's 1963 directors' seminar, and the
+fullest nature-programme method in the run. Structure: a small library and a space for
+specimens as the first step; a camp museum with a curator (a counsellor or interested
+camper); a nature bulletin board near the dining hall with "**pictures of poison ivy, or
+the plant itself behind a plastic sheet**"; the naturalist outlining the camp boundaries,
+waterfront, **history and expected wildlife on the first day**; extra inspection points for
+cabins that landscape with transplanted wild material; a bracket-fungus hunt with an art
+competition; a table-beautifying contest that started when one head table appeared with
+ferns and clubmosses in a tinfoil-covered tin plate. On answering questions: "'What is it?'
+... will become familiar ... as will the reply '**I don't know**' to which should be added
+'**Let's see if we can find out**'", quoting Herb Groh — "The mark of a leader is not as one
+young genius put it, that 'he knows everything', but he should have some facility in, and
+have facilities for, finding out."
+
+His observations on children are worth keeping, including the uncomfortable ones: boys of
+9–13 "enthusiastic about all aspects of nature"; older campers taking to service projects,
+live-trapping small mammals (released), "living off the land and working for nature badges",
+and to questions "of a deeper philosophic nature dealing with the infinity of space ('What
+is behind the stars?'), God, evolution, the Bible"; **"Some boys appear to enjoy killing
+living things (notably snakes, frogs, even squirrels). Many others will take an active part
+in defending living creatures from harm, some objecting to the idea of killing an insect for
+a collection"** — the naturalist's job being "to instil the right spirit of reverence for
+life, with a distaste for purposeless killing and yet a balanced attitude"; and girls
+interested in wildflowers, rocks and minerals ("breaking open rocks often reveals sparkling,
+unweathered surfaces"), nature art, "and — when properly introduced — in small salamanders,
+turtles and even snakes and mice." Taschereau was booked to appear at the OCA conference,
+27–29 February 1964.
+
+**Other content.** **C. R. Blackstock on the axe** — a full teaching method (grip, stance,
+pick-up, swing, bite, wrist snap), with the recommended camp tool **"the 27" handle with a
+head of a pound-and-a-quarter to a pound-and-a-half ... ideal for teaching campers of eight
+years of age and up"**, a preference for teaching the two-handed axe before the hatchet
+("He learns to respect both the better"), and the splitting rule "**There should always be
+wood between the axe head and the axeman**." The editor appends a conservation caution
+about practising only on dead, fallen or properly condemned wood. **Barry Lowes, "Making
+Campcraft Palatable"** — against the tradition that "on a trip campers eat anything. A
+camper who made a face at burned oatmeal, the ashes, dirt, grass or flies in his stew was a
+'softy'." Timberlane made **every pre-camp lunch a two-hour cook-out**, bought **a dozen
+reflector ovens**, and had every staff member bake; counsellors were put in cooking groups
+of eight and reshuffled daily "so that everyone had a chance to cook with everyone else" —
+which turned out to integrate new and old staff faster than anything they had tried. **Jack
+F. Way on procuring a campsite** through the Alberta Department of Lands and Forests — a
+free temporary permit first, three seasons to learn the ground, then **a fifteen-year lease
+on twenty-odd acres for a ten-dollar annual fee**, with the department's maps and airphotos,
+and the advantages of a restricted area patrolled by a forest ranger off-season. **Dick
+Caswell of Camp Garibaldi (New Westminster YMCA-YWCA)** on building a whole programme around
+hiking because the camp has only a man-made pool — points of interest pinpointed by distance
+*and elevation*, hikes graded by section, Buffalo Falls dropped as hazardous, the Golden Ears
+(5,596 ft, twelve miles, a three-day trip via a base camp) attempted repeatedly and
+succeeded once — and a clear statement of the **"calculated risk"** doctrine: "we have felt
+that an element of risk is desirable as long as it doesn't endanger the participants
+needlessly." **Walter Wright of Camp Wabanaki on wilderness tripping** for fourteen- to
+sixteen-year-olds, with a progression from overnight hike to overnight water hike to extended
+water-and-land hike before the ten-day wilderness trip, prerequisites in "tracking, survival
+cookery with natural sources, first aid, mapping and astronomical navigation", careful
+screening of applicants ("**One sullen or dissatisfied member is enough to ruin the party**"),
+and a firm line on authority: the guide "has the right to expect obedience and respect ...
+the express moment of shooting a rapids is not the time at which the bowsman should suddenly
+get the desire for independent action." **Mary Paton of Camp Onawaw** on worship with eight-
+and nine-year-olds — a deliberately unhurried, dawdling walk to the lake's edge because "an
+essential ingredient of worship is the ability to wonder"; ten minutes; a shared litany of
+thank-yous ("One day, though, I was startled to hear, '**Thank you, God, for Klondike
+Day**'"); beavers, dragonflies emerging, two baby raccoons; and "**Camp staff has to be
+trained to appreciate the importance of wondering. Sometimes scheduled activities must be
+postponed.**" **Mrs Wayne Brush of Rolling Acres Ranch** on why she directs — the first
+entry in the series by a woman running a ranch camp with her husband, campers calling them
+Mom and Dad, and the formulation "**we find very few problem campers, but rather a camper
+with a problem**." A **Camp Caper** from Chuck Griffith of the Nova Scotia CA about Camp
+Breton Dean, Mira, Cape Breton, where a boy told the director he would be banking another
+dime tomorrow because he had put his tooth under his bunk — "the good fairy dressed in blue
+jeans, a sweat shirt and over-sized fairy boots visited cabin No. 4 on August 13, 1963."
+A bottle barometer made from a jar, a balloon and a soda straw, reprinted from *The Young
+Naturalist*. And **two book pages** — Flynn and Govan on Allan Macfarlan's *Treasury of
+Memory-Making Campfires* ("An expert in authentic Indian lore of the Northwest Coast
+Indians ... campfire and council ring etiquette, challenges, plays, costume designs and
+regalia information ... the authentic art of ceremonial face-painting, description of the
+dances and magic of the Medicine Men, original campfire stories, and true totem pole
+designs"; **notable for being "the only book to our knowledge" that includes girls'
+activities and costumes**), and Flynn with Taschereau on a full nature-library list, mostly
+Queen's Printer titles, including Herbert Groh's *Natural History for Young Campers*, whose
+author "draws from his years of experience with **Y.M.C.A. and youth camps**".
+
+**Montreal notes**: a name-tape supplier at **408 St. Gabriel St., Montreal**; K & N Travel
+Service with a Montreal office; and the Continental Casualty Montreal office still at 2100
+Drummond.
+
+**New names**: P. M. Taschereau, "Sass" Peepre, Dick Caswell, Walter Wright, Mary Paton,
+Mrs Wayne Brush, Chuck Griffith, Florence Hare, Herb Groh. **New leads**: **the film
+"Canadians are Campers" (colour, c. 1947, of the first National Camp at Camp Ahmek)**; the
+Iverley Community Centre's records and Camp Chapleau's operating scale; the CCA's first
+independent conference, Château Laurier, May 1947; and Pine Crest's Woodcraft cards, whose
+three-level structure is the closest documented analogue to a Kanawana badge ladder.
+
+Kanawana itself: not named in this issue.
