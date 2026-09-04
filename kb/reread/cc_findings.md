@@ -19907,3 +19907,131 @@ formally accrediting specialised camps by 1976. **Kinkora (1926)**, directed by 
 Jackson** (QCA English Section vice-president), is listed with **470 campers and families**. Bert
 Danson's advertisement now prices Ontario camps for sale at "**$100,000 to $350,000**". No other
 Kanawana or YMCA of Montreal reference in this issue.
+
+## 108 — Vol. 28 No. 3, June 1976 — "THIS ISSUE OF CANADIAN CAMPING IS ITS LAST"
+
+Contents page checked. All items read: Editorial (Helen E. Stewart); Viewpoint (Eileen Mayotte);
+Children and the Outdoors — Nature Trails (John Pratt); The Garden of Eatin' (Paul Rushton); In
+Memoriam — Lorne Brown (C.R. "Blackie" Blackstock); In Memoriam — Alex Peepre (Colin C. Kelly);
+Comment se préparer à une expédition en canot (Jacques Grenier, Ph.D.); A Place of Quiet (W.E. "Ted"
+Yard); The Outdoorsman; Pensées; Just What Do You Do All Day? (Liz Greenway); Have You Heard? Do You
+Know?
+
+**★★★ THE MAGAZINE WAS DISCONTINUED — and this is the second publication-history fact the sources
+index needs.** Stewart's editorial opens: "**This issue of *Canadian Camping* is its last. The
+decision was made by the CCA Board at the recent meetings in Quebec City and was one based wholely
+on financial considerations.**" She adds that "no decision has been reached if or when anything else
+will be devised to take the place of *Canadian Camping*", that "the April and June issues were
+planned when word reached me that there would be but one more issue … which meant that some articles
+could not be used," and closes: "**And so we have come to the end of an era.**"
+
+**But the run does not stop here, and that is the useful part.** The next cached issue is **Vol. 28
+No. 4, October 1976**, and from there the frequency rises to **five or six numbers a year** through
+1977 and 1978 — where the magazine had been quarterly. So what happened was not a cessation but a
+**replacement**: the expensive quarterly magazine was killed at the Quebec City board meeting in
+spring 1976 and something cheaper and more frequent took its place from October 1976. Stewart's own
+French text says so plainly — "*il y aura peut-être une publication moins coûteuse pour remplacer
+Canadian Camping*". **Anyone reading this run should expect the format, and probably the depth, to
+change sharply at issue 109.** Together with the February–November 1974 suspension (issue 102) and
+the 1975 postal-strike newsletter (issue 106), that is three structural breaks in three years, all
+now dated.
+
+Stewart's thanks name the people behind the run since Fall 1972: **Mary Jane Sanderson**, responsible
+for all the unsigned sketches, and **Paul Bélanger** for the translations — a reminder that the
+French half of every bilingual article in the last four years is one Marist priest's work.
+
+**★★ Alex Peepre, died 1976 aged 58 — and a plausible route by which orienteering reached YMCA camp
+programmes.** The tribute, by Colin C. Kelly: **champion of Estonia and the Baltic countries**, whose
+hope of skiing the combined event at the **1936 Garmisch-Partenkirchen Winter Olympics** "was dashed
+at the last minute"; a second career in Sweden ending as **Sports Director for the city of
+Stockholm**, "somehow always contriving to be free for summer camps for children"; **arrived in
+Canada in 1950**, where he began as "probably the most distinguished dishwasher **Camp Pinecrest**
+ever had" — the Toronto YMCA camp — then ran its waterfront, then **five years as Director of Camp
+Nagiwa, which he developed for the Guelph YMCA**, then **Camp Beausoleil and Camp On-Da-Da-Waks**,
+then seven more years at Pinecrest while joining the faculty of what became the **University of
+Guelph**. Ontario Veteran Champion. And the claim that matters: "**He fathered [orienteering] in
+North America and proudly nursed it to its current state of popularity.**"
+
+**Kanawana's 1976 directory entry lists orienteering as one of its five headline activities, where
+the 1975 entry did not** (issues 103, 107). Peepre's whole Canadian career ran through YMCA camps
+and he is credited with introducing orienteering to the continent through exactly that channel. That
+is a plausible transmission route, **recorded as context and not as causation** — no source connects
+him to Kanawana, and orienteering was spreading through several channels by the mid-1970s (John
+Pratt's adventure trails, the CCA's own programme lists). But it is worth having beside the
+programme change.
+
+**★★ Lorne Brown, died 1976.** Tribute by Blackstock. A physical educator who taught "in the YMCA
+and its camps; the elementary schools, the teacher training college and later in the faculty of
+education — **U.B.C.**, in his own private camp and through being an elected member of the
+**Vancouver Parks and Recreation Board**." **President of the Canadian Association for Health,
+Physical Education and Recreation, 1955–57**, whose cross-country tour before the 1957 CAHPER
+convention in Halifax "set the pattern for CAHPER's coming of age." He is the Lorne Brown asked in
+1973 to investigate a national programme for instructors in Nature Lore, Campcraft and Survival
+(issue 99) and to chair the 1974 outdoor-education conference (issue 100). Two deaths in one issue,
+both of men who moved between the YMCA, the universities and the camps.
+
+**★★ Jacques Grenier, Ph.D., "Comment se préparer à une expédition en canot" — northern canoe
+expedition planning, in French with an English summary.** Written against a rising toll: "**more and
+more people are travelling by canoe in the northern parts of our country and more and more tragedies
+occur because of a lack of preparation.**" Three planning horizons:
+- **Long term, from as much as eighteen months out**: selecting participants and routes; information
+  on canoe and paddle types, meteorological conditions, transport costs; food; safety equipment;
+  **"obtain a written governmental permit to travel north of the 52nd or the 60th parallel"**; open
+  a bank account; choose the season; build a fitness programme for each participant.
+- **Short term, two to six months out**: gathering equipment, maps and compasses, then **testing all
+  of it in a mini-expedition of two to four days, eight to ten weeks before departure** — which also
+  lets the party find its own weaknesses in time to take a course.
+- **Immediate, days before**: notify the **RCMP, local police and the air and seaplane bases that
+  overfly the region** of the route, the names of participants and the expected timing; arrange for
+  friends or family to raise a search if no word comes by a set date; **and report success on
+  arrival.**
+
+His pacing rules are as specific: **never paddle or portage past 17:00**; eat properly at every
+meal; **eight to ten hours' sleep**; **a full rest day every four or five days**; and fifteen-minute
+breaks at regular intervals. "**Une malchance ou un incident dans un environnement urbain peut
+s'avérer fatal dans le grand nord canadien où les secours sont lents et difficiles à obtenir.**"
+Directly comparable to what Les Voyageurs de la Vérendrye was running, and the most complete
+statement of northern trip planning in this run.
+
+**★ Liz Greenway, "Just What Do You Do All Day?" — a section head's supervision routine.** Relevant
+to `p_307` because it describes the ordinary, non-disciplinary machinery of staff supervision:
+"**I found it best to make a specific effort to speak to each counsellor alone every week or so, to
+talk over any problems and to get some feedback. You don't need to tell the counsellor that she's
+scheduled for an interview since that can sound rather formidable but you should make an interview
+schedule for yourself.**" And on campers, a technique she calls **'cruising'** — walking the section
+at the start of each activity period, especially in the first fortnight, and noticing who is alone in
+a tent: "if it's the same girl three periods in a row then perhaps there is some problem. She may
+need some friendly interest (**which is not the same thing as prying**)." Also: when taking a day
+off, appoint a counsellor responsible for the section — "**they'll appreciate the responsibility and
+maybe they'll even understand your job a little better. However, when you get back don't ask them
+what they did all day. You'll probably get thrown in the lake!**"
+
+**★ Eileen Mayotte's Viewpoint** builds on **Haim G. Ginott's *Parent-Child*** — "Responsibility is
+fostered by allowing the campers a voice, a choice in matters that affect them" — and draws the line
+this way: "**the selecting belongs to the administration — the choosing should be the right of the
+camper.**" And, quoting Ginott, that values "cannot be taught directly. They are absorbed, and become
+part of the child only through his identification with, and emulation of persons who gain his love
+and respect. **A camper who lives with criticism does not learn responsibility.**"
+
+**★ Paul Rushton, "The Garden of Eatin'" — a camp vegetable garden built on an old horse corral**,
+the years of hooves having left "a reasonably flat surface" over enriched soil, tilled nine inches
+deep with an inherited cultivator. Argues for **organic gardening** over inorganic fertilizer,
+"brought about not only by skyrocketing cost of inorganic fertilizers but by the startling results
+that farmers and gardeners alike are deriving" — naming milorganite, compost, rock phosphate, bone
+meal, colloidal phosphate, potash rock (Hybro-Tite), ground limestone and dolomite. Recommends a
+**free soil test from the local government agricultural representative**. Site selection: southern
+exposure best, northern worst; sandy loam, light to medium clay or turfy loam; **avoid low wet
+ground** whatever you do to it. With Hambly's composting unit (issue 101) and Cohen's Earth Day
+(issue 101), the third dated piece of camp environmental practice in two years.
+
+**★ W.E. (Ted) Yard (Camp Hollyburn), "A Place of Quiet"** — an hour spent watching two beavers play
+"double-dare" in a bay at the west end of his lake, ending when the second beaver circled the point,
+surfaced behind them and slapped its tail: "**a resounding crack lifted us right off our rock
+seat!**" Yard is the W. E. "Ted" Yard of the CCA past-presidents list and of the Rosseau Lake School
+fire (issue 98). **John Pratt's "Nature Trails"** continues the outdoor-education column.
+
+Officer changes: **Kirk Wipper is now President of the Ontario Camping Association**; **Bill
+McCarthy** heads the joint ACQ-QCA with **Georges Robitaille** for the section française; **John
+Hasell** now leads the BCCA. Cash's Name Tapes has moved its Canadian address to **Box 70, Station S,
+Montreal**. The **Green Acres Country Day Camp Olympic-accommodation advertisement runs again** — the
+Montreal Games opened six weeks after this issue. No Kanawana reference in this issue.
