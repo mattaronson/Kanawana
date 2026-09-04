@@ -23429,3 +23429,115 @@ Portuguese forest reserves "for over one thousand years", with the editor's asid
 please note: 'Everything old is new again.'**" And Marjorie Booth's year-end note, in both languages,
 recording the year's achievements as W.O.S.S.I., the Wanakita planning meeting, and "**la liste des
 membres mis dans l'ordinateur enfin!**" — the membership list computerised at last.
+
+---
+
+## 135 — Vol. 33 No. 1, February 1981 — THE CAMP STAFF ISSUE
+
+Sixteen pages, headed "CAMP STAFF ISSUE". Every item accounted for: Editorial — The Lessons of
+History; Nature Hikes: Some New Approaches (Nancy Weeks); Staff Are People Too! (Ron Johnstone,
+concluded p. 16); two employment advertisements; Hiking from Day Camps (W. J. Babcock, Camp
+Richildaca); Publications — three books not carried by the CCA; A Tribute — Ralph H. Raymer (J. Harry
+Ebbs); The Counsellor's Page — The Role of a Staff Member; **The Camp Staff Manual**, over three
+pages; Classified Ads. **Kanawana is not named.**
+
+**★★★★★ THE CAMP STAFF MANUAL, SPECIFIED IN FULL — the document I went looking for two issues ago.**
+At issue 133 the training outline recommended a camp manual and I noted in
+`traditions/cit-lit-program.md` that a Kanawana one would be worth finding. Here is what one
+contained. "A **STAFF MANUAL** is a booklet prepared by the camp for the purpose of informing its
+future staff about the camp and their role in it", and the article sets out seven parts.
+
+Part **II, Facts About Camp**, is the part that matters to this project. *Locale*: a directional map,
+"a sketch of site showing trails, program areas, buildings", a description of the setting's special
+features, and "**special problems which site gives rise to**". *Traditions, Philosophy*: statements
+interpreting them; a statement relating the camp's objectives to the camping movement; "**a brief
+historical sketch of the camp**"; and "**explanation of role that camping plays in the total program
+of the sponsoring organization**" — for Kanawana, the YMCA of Montreal. *Procedures and Regulations*,
+including "**for inter-camp relationships (e.g. canoe tripping)**". *Organizational Structure*, with
+"channels of communication, supervisory relationships… future staff opportunities". *Personnel
+Policies*: "sickness allowance; **employment and dismissal procedures**; salary scales and payment
+procedures; travel to and from camp, charges for laundry."
+
+Part **IV, Sample Forms Used At Camp**: "**test sheets (swimming, canoeing, camp crafts, etc.);
+tripping reports, what to take, hints for safety; parent reports, reports to section heads, etc.;
+counsellor evaluation.**" Part **V, Job Analyses**: programme director, section head, specialist and
+assistant, activity counsellor and assistant, cabin counsellor, CIT programme. Part **VI**, reference
+material — games, rules, first aid. Part **VII, hints for preparing it**: "**bind in a stiff
+loose-leaf cover**… do not overcrowd pages… use simple language… **use different coloured pages for
+different sections (compulsory material, reference material, basis for pre-camp training)**", closing
+"**the tone of the Manual sets the tone of the future counsellor.**"
+
+**Written into `canadian-camping-movement.md` (sub-source 8an) and `p_323`.** The point is that a
+single surviving Kanawana staff manual would carry, in one binder, the camp's own historical sketch,
+a site map with its problems named, its dismissal procedures, its salary scales, its blank forms and
+its job descriptions. And the specification retrospectively explains a document this project already
+holds: **the "Kamp Kanawana History" presented at a staff training course in 1951 is exactly the
+"brief historical sketch of the camp" this list prescribes** — which means it was probably extracted
+from, or written for, a manual of this kind, and that others may exist.
+
+Part III's counsellor curriculum is also worth recording as the period's own account of the job:
+under **Discipline**, "meaning of discipline; **what kinds of punishment, if any**; factors in group
+discipline; building of esprit de corps"; under **The Cabin Counsellor**, the routines named are
+"rising, ablutions, meals, clean-up, rest-hour, **parent letters, parcels, prayers**"; under
+**Counsellor Duties**, "night patrol; life guard; evening snacks; **records and reports**"; under
+**Privileges**, "evening snacks; laundry facilities; tuck shop; recreation areas; programme
+(swimming, crafts, riding, skiing, boats, canoes); **time-off (days, nights, daily period); staff
+car, if any**"; and under **Public Relations**, "**deportment on days off; consideration for
+cottagers, neighbors, nearby communities**".
+
+**★★ RON JOHNSTONE ON WHY STAFF COME BACK — the best answer in the run to the question every camp
+in it asks.** Writing as Executive Administrator of Camp Tawingo, he asked a senior staff member to
+canvass the rest on why they returned, and reports the answer nearly verbatim: an atmosphere where
+"**I can express myself… in many different ways… through developing programme with our campers…
+through experimentation with my own philosophy… through accepting the challenge of discussion and the
+give and take with the rest of the staff**", with "a feeling of being able to express creativity
+**without threat — without ridicule**". His questions to directors are sharper than the answer:
+"**Do we as Camp Directors really appreciate and encourage initiative? Or do we as Camp
+Administrators see initiative as a threat? Do we hire staff because of their personality and then say
+to them… 'this is the way I want you to do it'? Do we let our staff make mistakes?… What a terrific
+way to teach! Do we as experienced Camp people suppress the personality of our staff with our own
+METHODS?**" And a reframing that belongs beside every staff-evaluation document this read has found:
+"**Our staff are people with the same basic needs and desires as our campers.**" He notes staff are
+"**most… in the 17 to 21 age group**", and asks whether training should be thought of "in terms of
+weeks or days… **or better still in terms of years?**"
+
+**★★ The counsellors' page on homesickness**, which is the most practically useful thing in the
+issue: "**All homesick campers do not act the same way. There is not always tears and stomach aches.
+Some homesick campers become very reserved, withdrawn, and even very temperamental, angry and
+resentful. Be sensitive to this very real 'sickness'.**" With "**be cautious with ghost stories**"
+under knowing when campers are scared — a line that belongs beside `traditions/myths-and-legends.md`
+and Mary L. Northway's 1973 objection recorded there — and, on discipline, "**Don't use 'archaic'
+physical punishment or 'torture and endurance' tests. Make the punishment fit the crime.**"
+
+**★ Ralph H. Raymer, obituary by J. Harry Ebbs.** Died 20 November 1980 at Beaver, Pennsylvania. With
+his late wife Elizabeth, **co-director of Camp Tanamakoon 1953-1974**; **founding members of the
+Society of Camp Directors** and Honorary Life Associates of the OCA; chairman of the OCA's Finance
+Committee, where "he organized the books and recording methods", and **chairman of its Standards
+Committee in 1965-66**. Another Society of Camp Directors founder dated, after Blackstock (issue
+125).
+
+**★ Two books worth noting.** ***Voyage, fantaisies et aventures en plein air*, by Paul Pichard**,
+212 pp., Distributions Reliv inc., Isle-Verte, Quebec, $9.95 — "**published in French only**", and
+the only francophone outdoor title the CCA has drawn attention to in this run; its argument is
+domestic rather than expeditionary — "nul n'est besoin d'escalader de hauts sommets… avec un peu
+d'originalité et de fantaisie, de nombreuses aventures peuvent se dérouler à proximité de votre cour
+ou de votre chalet." And **John J. Murray's *Facility Maintenance Systems*** (Girl Scouts of the USA,
+96 pp., $7.00), on "cost-effective maintenance planning, **recordkeeping**, scheduling and budgeting"
+— the maintenance-records counterpart to the staff manual, and the book behind the eleven-hour
+session at the ACA's 1981 convention (issue 134).
+
+**★ Nature hike methods**, by Nancy Weeks, including two that would leave no trace in any record but
+are worth having as period practice: "**Blaze a Scent Trail** — use wintergreen or clove oil and
+blaze a trail for a short distance. How well can the group follow their noses?"; and "**Change Your
+Point of View** — climb up for a squirrel's view of the world, kneel down for an ant's. Lie on your
+back to look at a tree. Look through a closed fist 'microscope'." Plus a structural note for
+leaders: "**Periodically but discreetly vary the order of the people following you.**"
+
+**★ Hiking from day camps**, by **W. J. Babcock, owner-director of Camp Richildaca, Kettleby** — the
+camp whose mailing label appears on several of these Trent deposit copies. His pre-planning list
+names another record: "**Get permission from the director. Draw a sketch of the route of the hike. A
+list of all those going on the hike should be attached to it along with the proposed time of
+departure and return. Keep this all on file.**" A camp hike file, with routes and names, is a further
+record class. And the road rules of the period: "**Two counsellors go on each hike, with one at the
+head of the group and one at the rear. When on the road, walk at the left side, single file, facing
+the traffic.**"
