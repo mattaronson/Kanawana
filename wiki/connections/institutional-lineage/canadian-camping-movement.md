@@ -179,7 +179,7 @@ The CCA published *Canadian Camping* magazine from 1949 to 1988; digitized issue
 10. Wall, Sharon. *The Nurture of Nature: Childhood, Antimodernism, and Ontario Summer Camps, 1920-55.* UBC Press, 2009.
 11. McMorris, Grace (2023). "An Experience That Lasts a Lifetime." MA thesis, Concordia University.
 8b. Taylor Statten Camps, "History"; ACA records.
-8c. CCA Constitution, Letters Patent (November 4, 1949).
+8c. CCA Constitution, Letters Patent (November 4, 1949). **Date discrepancy, flagged 2026-09-04:** the association's own January 1976 Directory Issue gives the Letters Patent as granted at Ottawa on **November 5, 1949**, one day later than the date recorded here.^8y The difference is small and may be a transcription slip on either side, but it is not resolved and neither date should be treated as settled. The association's February 1979 self-description states the sequence without a day: "**It began in 1936 and became incorporated in 1949**."^8ag
 8d. Concordia University Archives, P0145/12N03: CCA/QCA founding records.
 8e. Concordia University Archives, P0145/12A: CCA Quebec Section correspondence (1936–1937).
 8f. Concordia University Archives, P0145/12N03: Camping school at McGill University (1937–1940).
@@ -213,6 +213,7 @@ The CCA published *Canadian Camping* magazine from 1949 to 1988; digitized issue
 8ad. "Coming Events," *Canadian Camping* Vol. 30 No. 1 (February 1978), p. 10 — the bilingual calendar of Quebec, Ontario and national camping events for 1978. Found by the same read (issue 117).
 8ae. "Hiring Staff? Immigration Regulations Concerning Camp Staff from Foreign Countries," *Canadian Camping* Vol. 30 No. 3 (May 1978), p. 10, quoting a letter from Duncan R. Campbell, Executive Director, Labour Market Policy, Ministry of Employment and Immigration, to Jack Pearse, President of the CCA. Found by the same read (issue 119).
 8af. "President Emeritus" (the appointment of F. M. Van Wagner, with his reply reproduced in facsimile); Jack Pearse, "Go East… Old Man"; and Alan F. Klein, "For a Happy Camper," an address to a CCA conference in Montreal in 1960 — all in *Canadian Camping* Vol. 30 No. 6 (December 1978), pp. 2, 4-5, 10, 1, 8-9, 11. Found by the same read (issue 122).
+8ag. "Canadian Camping Association — What Is It? Why Is It?", *Canadian Camping* Vol. 31 No. 1 (February 1979), pp. 2, 12 — the association's own statement of its origin, purposes, membership rule and funding. Found by the same read (issue 123).
 
 ## Research Notes
 

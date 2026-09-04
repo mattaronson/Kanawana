@@ -22031,3 +22031,120 @@ Ontario" for organising singsongs, accompanying on piano, planning skit nights a
 piano tops open**, clean eavestroughs against ice damage, leave fridge doors open, and change 100-watt
 bulbs for 60-watt. The Cash's Name Tapes price has risen from $3.20 to **$4.00** for six dozen — a
 25% increase in a year, which is the inflation of these issues made concrete.
+
+---
+
+## 123 — Vol. 31 No. 1, February 1979
+
+Twelve pages. Every item accounted for: Canadian Camping Association — What Is It? Why Is It?
+(continued on p. 12 with Federal Support and Why Join?); The Counsellor's Page — Applying for a Job;
+Church Camps — Why Do Children Attend? (John H. Jones, reprinted from the ACA's *Camping Magazine*);
+Nova Scotia Reports on a Summer Project (Paul Potter); Coming Events; Book Review — *The New Games
+Book*; A Camper's Plea; the OCA conference notice and an editor's note establishing a counsellors'
+page; the Play Leadership Training Kit order form, in both languages; a Royal Chinet advertisement.
+**Kanawana is not named.** Cover: the waterfront at Camp Tawingo.
+
+**★★★★ A REAL CANADIAN CAMP SONGBOOK, DATED, PRICED AND ADDRESSED — `p_311` now has an object to
+find.** From Paul Potter's report on the Nova Scotia association's 1978 summer project:
+
+> "May and June also saw the development of a song book. Although some camps had been working on
+> their own song book, none was large enough to hold all of the songs from every camp. Therefore a
+> **provincial song book with more than five hundred songs** was published. Since its publication,
+> the book has been in constant demand and may soon require a second printing. **The cost is $3.00
+> and it is available from: Nova Scotia Camping Association, Box 696, Halifax, Nova Scotia B3J
+> 3H5.**"
+
+Five hundred songs, compiled from the repertoires of every camp in a province, published by a CCA
+member association in 1978, and reported in December 1978 as about to be "put to music" (issue 122).
+It is Nova Scotian rather than Quebec, but **the Canadian camp song repertoire is largely shared, and
+a 500-song collection is the best available comparator for deciding which Kanawana songs are house
+compositions and which are movement-wide** — which is exactly the question
+`traditions/camp-songs-cheers.md` cannot currently answer. **`p_311` updated and raised to weight 8**,
+with the NSCA successor body, Nova Scotian libraries, LAC and Trent as the places to ask.
+
+**★★★ THE ASSOCIATION DESCRIBES ITSELF — and a date discrepancy in our own sources surfaces.** "**It
+began in 1936 and became incorporated in 1949.** At present, there are member associations in all
+provinces except Prince Edward Island." That is the CCA's own formulation of the pair this project
+has treated as a conflict, and it reads them as **founding and incorporation rather than rival
+founding dates** — the same reading arrived at from the 1976 directory (issue 107).
+
+Checking it against `canadian-camping-movement.md` turned up something else: the article's source 8c
+gives the Letters Patent as **4 November 1949**, while the association's own 1976 directory (source
+8y) gives **5 November 1949**. A one-day difference, small, probably a transcription slip on one side
+or the other, and **not resolved**. **Flagged in the article at source 8c** rather than silently
+harmonised, with the 1979 self-description quoted as the day-free version. New sub-source 8ag.
+
+The full statement of purposes is worth having recorded, since it is the constitution's objects in
+plain form: to further camping "as an educative, character building and constructive recreational
+experience"; to liaise between provincial associations and act for them internationally; **"to speak
+for organized camping on a national level and to represent their collective interests with the
+Government of Canada"**; to encourage high standards "and the implementation and maintenance thereof
+**through the provincial and territorial camping associations**" — the accreditation chain stated as
+constitutional design; to study, interpret and disseminate; to run national training and conferences;
+to publish; **"to further research into camping and to publish the results of such research"** (which
+is what Granek's survey was, issue 121); and to encourage audio-visual material.
+
+And the membership rule, which is why Kanawana is a CCA member without ever having applied to be one:
+"**Any camp or individual members in good standing of a federated Provincial and/or Territorial
+Camping Association are automatically members of the Canadian Camping Association.**" With the
+funding note on the facing page — "**All C.C.A. program and projects are made possible by financial
+contributions from the Fitness and Amateur Sport Branch of the Ministry of National Health and
+Welfare**" — the association's structure and its dependence are both stated in its own words in one
+issue.
+
+**★★ WHAT A PROVINCIAL ASSOCIATION ACTUALLY DID IN A SUMMER, in detail.** Potter's Nova Scotia report
+is the fullest account in the run of provincial association work at ground level, funded by a
+**Secretary of State grant**, three staff from 8 May 1978. They turned the provincial standards for
+resident youth camps **into a checklist format "to make them more useful during the actual
+visitations"**; ran the annual training programme for fifty counsellors and directors with John
+Latimer and Jane McCutcheon as keynote speakers; ran the **first Provincial Woodsmanship School** in
+June for thirty people over two weekends, based on the national programme, "aimed at training camp
+leaders in hiking, back packing and canoe tripping"; produced the songbook; and **visited forty-six
+camps between 6 July and the end of summer**, not counting Guide and Scout camps.
+
+The sentence worth keeping is about how the visits were received: "**In most cases, the visitors were
+met with hesitation, mainly because they were felt to be inspectors. After some time talking and
+sharing ideas, the camps showed great interest in the project and the N.S.C.A. They left most camps
+wishing that more time was available.**" That is a direct description of what a standards visitation
+felt like from the camp's side — useful for `p_314`, which is hunting the Quebec equivalents, and a
+reminder that the visitor was experienced as an inspector whatever the association intended.
+
+**★★ The Quebec calendar for 1979**, continuing the series: **6-8 February and 9-11 March, ACQ
+Formateur multiplicateur (II-C and II-B)** — a train-the-trainer programme running in modules;
+**1-9 March, ACQ-QCA Semaine des camps** — Camp Week again, now nine days, a **third consecutive
+year** (1977, 1978, 1979), which further strengthens `p_320`; **22 March and 27 April, ACQ-QCA
+Exécutif provincial**; **27-29 April, ACQ Séminaire des directeurs, theme "La communication"**; **9
+May, ACQ Rencontre — Région de Québec**; **10 May, ACQ-QCA Assemblée Annuelle**; **25-26 May, ACQ
+Session destinée aux moniteurs**. The QCA English Section's own monthly executive meetings have
+dropped out of the printed calendar this year; only joint and French-section items appear, which is a
+change worth noting rather than reading as a lapse.
+
+**★ Fred Okada is now chairman of the CCA Publications Committee**, succeeding Punch Jackson, and
+reviews *The New Games Book* (Fluegelman, 1976, $6.25) — the motto "**Play hard, play fair, nobody
+hurt**" and the three strands Okada credits to Stewart Brand ("soft war"), George Leonard ("creative
+play") and Pat Farrington ("soft touch"). New Games arriving in Canadian camping is datable to
+1978-79 from this notice, which is worth having if the concept ever surfaces in Kanawana's programme
+records.
+
+**★ The counsellors' page begins**, with an editor's note inviting articles and letters — "Beginning
+with this issue, we hope to have at least one page devoted to the particular interests of Camp
+Counsellors." Its first piece, on applying for a job, is a period document of camp hiring from the
+applicant's side: a **separate letter for each camp** because "camp directors are not often
+interested in reading a form letter with their name typed in the appropriate place"; name, age,
+birthdate, home and school addresses, phone, grade and programme in one block; tests and awards
+listed (**"Red Cross, Bronze, 'Y'"**); special skills and hobbies; **"a recent photograph of yourself
+makes the contact more personal"**; three or four references with addresses and telephone numbers.
+Read beside the "Hiring Your Staff" interview chart (issue 116), this completes the picture of the
+camp hiring process from both ends.
+
+**Minor.** "A Camper's Plea" is printed unattributed; it is a lightly adapted version of the widely
+circulated poem "Please Hear What I'm Not Saying," and should not be cited as an original camping
+text. The **Canadian Council on Children and Youth's Play Leadership Training Kit**, from its
+National Task Force on Children's Play, is advertised in both languages — a Canadian 1979 training
+resource on "the principles of play leadership and child development in the play setting," produced
+because a national survey "revealed a lack of available material" on exactly that. The OCA's 1979
+conference "salutes the **International Year of the Child**". And a full-page advertisement for
+**Royal Chinet disposable plates**, from the Canadian Keyes Fibre Company of Hantsport, Nova Scotia,
+argues its case partly on environmental grounds — "manufactured from a renewable resource… molded of
+natural wood fibres that burn readily with little smoke" — which is a nice period marker of how
+disposability and environmentalism were reconciled in 1979.
