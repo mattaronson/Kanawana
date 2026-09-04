@@ -21443,3 +21443,136 @@ announce a Program Manual approved by Recreation Canada and the Secretary of Sta
 chapters contracted out — Doug Soo on resident camping, Peter Claghorn and Ralph Hembruff on
 wilderness camping, Brian Donnelly on "low-cost non-facility camping" — offered for sale to other
 organisations, and printed here in both languages.
+
+---
+
+## 118 — Vol. 30 No. 2, April 1978
+
+Twelve pages. Every item accounted for: Keys to Success (John Latimer, his opening address to the
+Geneva Park conference); A Director's Checklist — April and May (Eanswythe Flynn); CCA Woodsmanship
+Schools; CRCA Canoe Schools 1978; Thought for Food; Planning Your Years — A Maintenance Program
+(Wilfred A. Jackson); Coming Events; Trampolines; an advertisement for Mary I. Casey's *The Nurse and
+the Health Program at Camp*; two job advertisements. **Kanawana is not named.**
+
+**★★★★ THE BIGGEST FINDING IN THIS ISSUE IS NOT IN THE ISSUE — IT IS IN OUR OWN SOURCE LIST.**
+Checking whether Pripstein's Camp was already covered took me to
+`connections/related-camps/quebec-camp-landscape.md`, whose source 23 reads: "**Trent University
+Archives, Quebec Camping Association fonds (85-013, 1948-1982)**." The project has known about a QCA
+fonds at Trent, covering the whole accreditation era, and **has never queried it for accreditation
+records** — while `p_314` (weight 9, critical) has been asking where the annual Quebec accreditation
+reports on Kanawana might be, and listing the QCA's own archives fourth among places to try.
+
+The read has meanwhile established exactly what that fonds ought to contain. The 1978 calendar
+(issue 117) shows the QCA English Section executive meeting monthly **at the Montreal YMCA**, holding
+general meetings, an annual conference, a Counsellor Conference and a **Standards Meeting on 7 June
+1978**, with the joint ACQ-QCA Provincial Council meeting separately. Adele Ebbs confirms Trent as
+where the national and provincial camping papers were being gathered (issue 109). **`p_314` updated
+and raised to weight 10: ask Trent first, and ask specifically for QCA Standards Committee minutes.**
+This is a good illustration of why the full read is worth doing — the decisive fact was a
+cross-reference nobody had followed, and it surfaced only because a minor name in a 1978 newsletter
+sent me to check an article I would not otherwise have opened.
+
+A second, independent corroboration for `p_314` sits in Flynn's May checklist: "**Find out from your
+provincial camping association whether or not this is your year for a Standards Visitation.**"
+Written for a mainly Ontario readership, it assumes a multi-year cycle — which confirms from the
+other side that Quebec's **annual** re-accreditation (Hasell, 1975) was exceptional rather than
+standard, and therefore that the Kanawana series `p_314` seeks should be a thick one.
+
+**★★ TWO QUEBEC CAMPING INSTITUTIONS NAMED.** "**Mr. Braverman of Pripstein's Camp, a Q.C.A.
+member**, sends us the following information that came in response to his letter to the American
+Medical Association, regarding the possible use of a trampoline at a children's camp." So the
+independent Jewish camp at Saint-Adolphe-d'Howard — the same municipality as Kanawana's predecessor
+Camp Jubilee — was a member of the same accrediting association as Kanawana. And **Wilfred A.
+Jackson**, who chaired the QCA English Section's 40th anniversary conference in March 1977 (issue
+112), is identified here as "**Director of Camps and Conference Centre of the Catholic Community
+Services, Inc., Montreal**" — a Montreal Catholic camp operator large enough to employ a full-time
+director of camps, and senior enough in the provincial association to run its fortieth anniversary.
+**Both written into `connections/related-camps/quebec-camp-landscape.md` (sources 23 → 24)**, since
+that article is the register of who actually sat around the Quebec association's table with
+Kanawana's director.
+
+**★★ Jackson's maintenance article is a specification for records this project keeps looking for.**
+Writing as a Montreal camp administrator, he prescribes: a **masterplan** showing all buildings
+present and future; a **Maintenance Manual**, loose-leaf, with check lists and directions, "a
+schedule arranged by seasons, including specific details on opening and closing procedures"; and
+"**A record of each building should be kept showing floor plans, type of construction, history,
+inventory, and required repairs**", supplemented by plans of water, electrical and sewage systems and
+manufacturers' instructions on file. His suggestions list adds a large master map, a portfolio of
+buildings with photographs and floor plans, a **log of improvements**, a listing of local suppliers
+kept in the maintenance building, a seasonal calendar, tagged keys with spares held by the
+maintenance head, and weekly site tours. **If Kanawana kept any of this, `site/the-kanawana-site.md`
+and `meta/plaque-audit.md` have an unexploited source class — a per-building file with floor plans
+and repair history.** Worth asking Concordia for by these names.
+
+He also states a norm about tenure: "**As continuity is very important, a director should be
+challenged to stay with the camp for at least five years**" — the same argument as Morawetz's "woe to
+the camp which yearly changes its directors" (issue 114, and note the reprint correction recorded
+there), from a Montreal administrator rather than an Ontario private-camp director. Kanawana had four
+directors in three years around 1972-74.
+
+**★★ John Latimer's Geneva Park keynote, "Keys to Success."** Delivered 19 January 1978 as the opening
+of the National Leadership Development Conference; Latimer chairs the CCA's National and
+International Conferences Committee and is a past president of both the OCA and the CCA. The argument
+turns on anonymity — he had been struck by a Toronto billboard campaign reading "**CURE ANONYMITY**"
+— and its claim is a strong one about what a camp is for: "**camp is just about the only place in
+today's society where everyone can be treated as a somebody… and it starts with the director.**" On
+lineage he is explicit and useful: "**I grew up in camping under the influence of the greats in this
+country… Charles Plewman, Taylor Statten, Mary Edgar and A.L. Cochrane. I followed in their footsteps
+up to a point, but… footsteps should only be a guide.**" Two other passages worth keeping. On boards:
+"**One of the greatest crimes which a board can commit is to hire a Director… and then start to make
+him into something which the committee feels he should be, taking away all vestiges of his own
+personality.**" And on staff retention, which bears on every camp's rehire problem: "**If our
+counsellors aren't growing and if they aren't challenged and recognized they'll go somewhere else.
+They'll go somewhere else where they'll be a somebody… where they won't be anonymous.**" He closes by
+naming the funder: "**Through Recreation Canada, an investment in our future has been made in each
+one of us.**" **Audio cassettes of the conference sessions were made and were to be advertised in the
+next issue** — a 1978 tape series of Canadian camp directors talking, and another item for the Trent
+enquiry.
+
+**★ The 1978 schools.** **Three National Woodsmanship Leaders Schools** — Atlantic at St. John's,
+Central at Camp Kandalore, Western at Saskatoon, about a week each in late May or early June, the
+Central one registering through **Professor Kirk Wipper** at the University of Toronto. **Nine CRCA
+Canoeing Instructor Schools**, now ten days each, with a published application form asking for
+swimming qualification, canoeing experience and a recommendation from "a Camp Director or Canoe
+Instructor": Newfoundland 1-10 July (Walter Crotty); Nova Scotia 1-8 July (David Horne, Canadian
+Hostelling); New Brunswick (Richard Faulkner); Central 11-20 June at Camp White Pine and Ontario
+19-28 August at Camp Kandalore (both Jack MacGregor); Midwest 22-31 May (Jim Leggett, Winnipeg YMCA);
+Alberta (Neil Usher); Pacific 20-30 August (BC Recreational Canoeing Association). **No Quebec
+school is listed** — consistent with February's note (issue 117) that Quebec would run its own
+public programme instead, and a change worth marking: from 1978 the national canoe-instructor
+schools no longer ran in Quebec.
+
+**★ Mary I. Casey, *The Nurse and the Health Program at Camp*, CCA Publication Services, $2.00** —
+chapters on the camp nurse, organisation of the health programme, health counselling and teaching,
+emergencies, **recording and reporting**, camp sanitation, **standing orders**, supplies and
+equipment, and health information for counsellors. With Ebbs's supply list (issue 117) this is the
+second half of a Canadian camp-health documentation set, and "standing orders" and "recording and
+reporting" name two more record classes to ask Concordia for. **A findable Canadian publication.**
+
+**★ The trampoline ban.** The American Academy of Pediatrics policy statement, obtained by a Quebec
+camp director and printed here: "**Trampoline accidents have resulted in a significant number of
+cases of quadriplegia**… between 1973-1975 spinal cord injuries with permanent paralysis resulted
+more frequently from trampolines than any other gymnastic sport. **Next to football, trampolines were
+found to be the highest cause of permanent paralysis**," with the recommendation that trampolines be
+banned from school physical education and abolished as a competitive sport. A dated safety position
+circulated to Canadian camps in April 1978.
+
+**★ Flynn's April and May checklist** completes the year and contains several items that name camp
+records or practices: reassess **insurance** with the agent in April; decide whether a commercial
+dishwasher is economical "otherwise the three-sink method"; find local farmers for eggs, vegetables
+and fruit; check fuel suppliers for oil or propane; order mattresses no later than April. May: a
+camper-parent-staff get-together, "**this is the time to help parents understand what camp is all
+about, how they should handle the child, the kind of letters they should write… and not write**";
+first in-town staff training; a meeting with the camp doctor; "**Send water samples (both drinking
+and swimming) regularly to Provincial Health Department**" — a routine that would have generated a
+paper trail on Lake Kanawana's water quality with the Quebec health authorities; and the standards
+visitation line quoted above.
+
+**Minor.** Kitchen advice: serve dressing on the side so leftover salad keeps; popsicles as a cheap
+light dessert after a heavy meal; roast overnight at 200-225°F to cut shrinkage, "delegate someone
+who will be up at that time to turn them on"; and an argument for new potatoes over old — no peeling,
+less waste, less rot, mash them with the skins on and tell the staff why so "they will explain it to
+the kids." A **Labrador Christian Youth Camp** advertises for a director at **$1,800** for forty
+campers and twenty staff near Happy Valley/Goose Bay. The BCCA held a **Hypothermia Symposium** at
+the North Vancouver Centennial Theatre in April 1978 — a fifth consecutive year of water-safety
+alarm in this run.

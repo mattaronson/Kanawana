@@ -6327,6 +6327,13 @@
           "at": "2026-07-11T01:00:00Z",
           "by": "auto",
           "task": "WRITE"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-09-04",
+          "by": "auto",
+          "task": "RESEARCH",
+          "note": "Word-for-word read of Canadian Camping, issue 118 (Vol. 30 No. 2, April 1978): new paragraph naming two Quebec camping institutions the article had not recorded -- Pripstein's Camp identified as a QCA member, and Wilfred A. Jackson, chairman of the QCA English Section's 40th anniversary conference, as Director of Camps and Conference Centre of the Catholic Community Services, Inc., Montreal. Sources 23 -> 24."
         }
       ],
       "ralph_loops_completed": 2,
@@ -6362,7 +6369,8 @@
       "sources_cited": [
         "src_camp_dorval_1928",
         "src_concordia_12N_camping_associations",
-        "src_trent_qca_fonds"
+        "src_trent_qca_fonds",
+        "src_ia_canadian_camping_collection"
       ],
       "open_questions": 6,
       "cross_links": [

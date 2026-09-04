@@ -1,7 +1,7 @@
 # The Quebec Camping Landscape
 
-*Status: E1-reviewed | Sources: 23*
-*Last Updated: 2026-07-10*
+*Status: E1-reviewed | Sources: 24*
+*Last Updated: 2026-09-04*
 
 ## Overview
 
@@ -117,6 +117,8 @@ Several patterns emerge from the Quebec and Canadian camp landscape:
 
 **Religious and cultural diversity.** The Quebec camp landscape encompasses Protestant (YMCA/YWCA), Catholic (Sainte-Jeanne-d'Arc), Jewish (Massad, Pripstein), and secular traditions, each serving distinct communities but occupying the same regional geography.
 
+**Who else was in the association.** Two Quebec camping institutions appear in the Canadian Camping Association's April 1978 newsletter that this article had not recorded.^24 **Pripstein's Camp** is identified there as "a Q.C.A. member" — so the independent Jewish camp at Saint-Adolphe-d'Howard described above belonged to the same accrediting association as Kanawana, and its director, a Mr. Braverman, was writing to the American Medical Association about whether a trampoline was safe at a children's camp. And **Wilfred A. Jackson**, who chaired the Quebec Camping Association English Section's 40th anniversary conference in March 1977, is identified as "**Director of Camps and Conference Centre of the Catholic Community Services, Inc., Montreal**."^24 Catholic Community Services was therefore a Montreal camp operator substantial enough to employ a full-time director of camps, and that person was senior enough in the provincial association to run its fortieth-anniversary conference. Both belong in any account of who actually sat around the Quebec association's table with Kanawana's director.
+
 ## Open Questions
 
 1. ~~What was Camp Perrot's location and when did it operate?~~ [Resolved 2026-07-10] South shore of Île Perrot, founded 1944; closure genuinely contested between two internal sources. See [[site/camp-perrot|Camp Perrot]] for the full detail.
@@ -151,6 +153,7 @@ Several patterns emerge from the Quebec and Canadian camp landscape:
 21. "Report on Camp Dorval - Season 1928," Internet Archive [src_camp_dorval_1928]. Verified genuine via archive.org metadata API and direct OCR text fetch, 2026-07-10.
 22. Concordia University Archives, sub-series 12N (Camping associations), sub-sub-series 12N01-12N04 [src_concordia_12N_camping_associations].
 23. Trent University Archives, Quebec Camping Association fonds (85-013, 1948-1982) [src_trent_qca_fonds].
+24. Wilfred A. Jackson, "Planning Your Years — A Maintenance Program," and "Trampolines," *Canadian Camping* Vol. 30 No. 2 (April 1978), pp. 8-9, 11-12 [src_ia_canadian_camping_collection]. Found by the full word-for-word read of the run (`kb/reread/cc_findings.md`, issue 118); Jackson's role at the QCA's 40th anniversary conference is from Vol. 29 No. 2 (March 1977), p. 1 (issue 112).
 
 ## Research Notes
 
