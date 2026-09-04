@@ -7918,3 +7918,282 @@ journals and lecture; and Kanawana's own swimming classification system, now wit
 Ontario YMCA benchmark to compare against.
 
 Kanawana itself: not named in this issue.
+
+## 59 — Vol. 15 No. 4, June 1963 ★★★
+
+A heavy issue: a national regulatory fight over life jackets that Canadian camping won,
+the fullest treatment of staff supervision in the run, and a third contemporary voice on
+the ethics of written evaluations.
+
+**"New Regulations Concerning Life Jackets", by Barry G. Lowes (pp. 140–142) — the OCA's
+brief and the Minister's reply, printed in full.** In September 1962 an Order in Council
+amended the Canada Shipping Act's Small Vessel Regulations so that "every vessel propelled
+solely by oars or paddles shall carry in the case of a vessel not over 18 feet in length,
+one bailer and one approved small vessel life jacket or approved life saving cushion for
+each person on board" — **"without any prior consultation with camping or boating people
+who would be directly affected,"** and camps only learned of it from "a small, back-page
+article in the Toronto Telegram" in February 1963. "Had the chance article not appeared ...
+camping people would have been caught by surprise as they unwittingly broke the law this
+summer."
+
+The delegation to the Deputy Minister of Transport, Ottawa, **5 April 1963**: **Barry
+Lowes, President of the OCA**; **Kirk Wipper, Chairman of Canoeing Standards**; Jack Pearse
+and Gary Schofield of the **Ottawa YMCA**; Mrs Holt for the Canadian Girl Guides;
+C. R. Blackstock for the Canadian Red Cross; and **Dr Don Smith, President of the CCA,
+flown in from Edmonton**. The brief's substance, which is a compact statement of what
+organized camps taught about water safety in 1963:
+
+- "**We are basically education organizations and should not be categorized with resorts.**
+  The Ontario Camping Association is teaching and has been teaching for **over thirty
+  years** safety principles and skills to all campers and staff."
+- No camper or staff member uses any watercraft before passing a basic swimming test;
+  those below the level may go in a rowboat with a counsellor "but MUST WEAR A LIFE
+  JACKET."
+- No one goes on a canoe trip without additional canoeing tests (an Appendix A of standard
+  canoeing tests and awards is referenced but not printed here). **"90% of time in canoes is
+  during teaching classes."**
+- All campers "learn respect for limitations and capabilities of the canoe including the
+  simulation of emergency situations, wherein they **must dump their canoes while clothed,
+  right the canoe, climb into it, and paddle it to shore with or without paddles**. They
+  also learn to rescue one canoe with another canoe."
+- **"For thirty-two years campers have been taught TO HANG ON TO THEIR CANOE and never
+  swim for shore ... We know that a canoe full of water will support seven people."** That
+  dates the doctrine to about **1931** and gives a figure.
+- The objection: "You cannot paddle all day while wearing a bulky life-jacket.
+  Realistically, we know that trained campers will not wear them. Should a canoe dump, the
+  cushion or jacket will spill out and the canoe will begin to drift. Now, does the camper
+  swim to retrieve the cushion or does he hang on to the canoe as he has been drilled?
+  **The uncertainty could be fatal.**" And a longer worry: "children will come to depend
+  upon the life-jacket as a crutch, lulling them into a false sense of security."
+- **"Camp directors have the legal responsibility for the safety and welfare of their
+  campers ... They are in fact 'in loco parentis' both morally and legally."** Noted also:
+  "in those camps where waterskiing is an activity, all skiers are required to wear life
+  jackets. In this instance, camp directors are ahead of existing legislation."
+
+Opposed by "The National and Provincial Safety Associations, the large boating
+organizations, the R.C.M.P., the Harbour Police, and the Tourist Associations". The
+outcome, printed verbatim over the signature of **Leon Balcer, Minister of Transport**:
+
+> "I have to advise you that the Board of Steamship Inspection has ruled, in the light of
+> representations made at a meeting held on April 5th, that **canoes and rowboats used in
+> camps such as yours for the training of children shall be exempted from the requirement
+> of this Regulation.**"
+
+Lowes's closing warning is worth keeping too: "while we have won this round, heavy pressure
+from safety groups and boating associations will continue ... Within a year or two, at
+most, the camping associations will have to present a plan whereby the regulations can be
+enforced for the general public while still exempting organized camps."
+
+This is a **federal regulation, a national exemption, and a dated statement of the canoe
+safety doctrine every Canadian camp including Kanawana operated under** — and it is
+findable in the Canada Gazette and Transport files. It belongs in
+`traditions/canoe-trips.md` and gives the La Vérendrye programme its legal frame.
+
+**Elizabeth Raymer, Camp Tanamakoon, "Counselling the Counsellors" (pp. 132–134, 156–162)
+— from the March 1963 OCA conference.** The longest article in the run, and the most
+important for the staff-evaluation thread. Her method: keep "a large notebook" through the
+off-season for "those flashes of infinite wisdom"; assess the staff group as a group ("Is
+it so full of loyalty and honour and reverence for dear old camp Gitchee Gamee, that every
+whim of the director ... will be regarded as sacred?"); read a group by walking into it —
+"who is present? and more important, **who is absent?** ... Is our arrival heralded by
+'Psst here he comes!' or by 'Oh good, here comes the director!'". Build the group by
+thinking together, problem-solving from small problems upward ("We form the habit of
+thinking of ourselves as *we*"), working together on one early all-staff project "in which
+opportunity for solo star roles is practically non-existent", evaluating ("part of this
+evaluation must always be discerning praise ... No director or supervisor should confine
+his words to the type of criticism which tears apart and does not build up"), and playing
+together. Her machinery: a staff manual, section and activity handbooks, a camp library,
+a series of talks "spread out over the entire summer and delivered at the most opportune
+moment", bulletin boards, and general staff meetings that are "frequent, brief,
+businesslike".
+
+**The five-minute counsellor-training topics she lists for those meetings are, verbatim:**
+"What is leadership. What to do about 'mush mags' and comic books. Why we teach children
+to be courteous—or tidy, etc. Open your eyes to nature. Vandalism. **Homosexuality.**
+Discipline." Recorded exactly as printed, without gloss. It is a dated, published fact
+that a leading Canadian camp director in 1963 named this as a standing supervisory subject
+in the national magazine, and any later reading of camp staff records — including the
+Kanawana material at issue in `p_307` — needs that context: the assessments in those files
+were written by people trained to watch for it. Nothing here says what was said in those
+sessions, and this pass should not guess.
+
+**And then the passage that speaks directly to the embargo question (p. 160):**
+
+> "**A word of caution to the Director: only God Himself could have sufficient insight into
+> human nature and character to fill out some of the evaluation forms that come to one's
+> notice.** It has been my experience as a director, that by informing these supervisors as
+> to what material is useful and what is not can avoid setting up a system which **invites
+> the supervisor to hypercritical observations, and delving into personalities almost to
+> the extent of psychoanalysis**. What we need to know really is—is the job being done
+> well? If not why not? What are the best areas of job performance? How can we help the
+> staff? The Director must always bear in mind that these supervisors are human, there may
+> be personality clashes which colour the true picture ... Always one must strive for
+> detached and objective observations. **In any area of human relationships subjective
+> discussion of personalities is a trouble breeder.**"
+
+That is now three independent contemporary voices on the ethics of written staff
+assessment — Martin Gold in 1959 ("an evaluation should not be filed unless it bears the
+counsellor's signature ... an ethical must"), Barry Lowes in 1962 (the trainee reads,
+annotates and signs), and Raymer here in 1963, arguing that the forms themselves overreach
+and that supervisors should be told what not to write. The era criticised these documents
+in print, at the time, in its own professional press. Whatever the wiki decides about
+publishing such material (`p_308`), it can now say that the people who created it did not
+regard it as neutral or authoritative.
+
+Her list of predictable staff problems is also usable as a picture of camp life:
+"dissension, lack of cooperation, care of equipment, **the mid-season slump**; cliques,
+inequalities of labor, hours, privileges; the third successive day of rain; insufficient
+sleep and rest; use of time off; relationships with other groups outside the camp; **the
+camp director himself**; conflict with the kitchen staff." And a Montreal aside: a director
+"can learn a great deal about current university thought ... by asking staff members to
+'tell all of us what the **Psychology Dept. at McGill** teaches on this matter'."
+
+**The Camp Counselor's Book — the full contributor list with camps (p. 128).** The
+advertisement names them: Dr Mary L. Northway, Director of Research, Institute of Child
+Study; **Barry G. Lowes, President, Ontario Camping Association, and Director, Camp
+Timberlane**; **Joyce Bertram, Director, Camp Ouareau**; **Margaret Govan, Director, Camp
+Onawa**; **Flora Morrison, Director, Camp Windy Pine Point**; **David and Elsie Palter,
+Directors, Camp Kawagama**; **Elizabeth Raymer, Director, Camp Tanamakoon**; **Kirk Wipper,
+Director, Camp Kandalore**. Endorsed by Dr W. D. Smith as CCA President. Reviewed here by
+**Catherine T. Hammett**, "a distinguished American camp director", who says it is
+"designed to replace the out-of-print *Charting the Counselor's Course* which she still uses
+in camp training." Two things follow: the KB's "Mrs David Palter" is **Elsie Palter of Camp
+Kawagama**, which makes her a locatable person rather than a name on a CCA return; and
+**Joyce Bertram — four issues' editor of this magazine and the source of two Camp Ouareau
+items in this read — is the director of Camp Ouareau**, which `connections/related-camps/camp-ouareau.md`
+should have.
+
+**Margaret Govan, "Sermons Under the Sun: A Suggested List of Service Material"
+(pp. 135, 153).** Compiled by the editorial committee. The list: the Bible; church hymn and
+prayer books; **The Canadian Youth Hymnal**; Mattoon and Bragdon's *Services for the Open*
+(noted as **out of print**); Daily Vacation Bible School material; the Boys' Clubs *Book of
+Devotions*; the Boy Scouts' *Meeting the Religious Needs of Scouts in Camp* plus three
+mimeographed series of interdenominational sermons; the Girl Guides' *Prayer and Worship
+Through Guiding* with prayer cards **for Catholics, Jews and Protestants**; Clarice Bowman's
+*Worship Ways for Camp* and *Resources for Worship*; Winnifred Wygal's *How to Plan Informal
+Worship*; A. A. Bays's graded worship programmes; YWCA prayers and *Meditations on the
+Lord's Prayer*; Peter Howard's *Young People's Prayers*; *Prayers of Peter Marshall*;
+*Lo, God Is Here*; "and of course there is **UNDER OPEN SKIES by our own Mary Edgar**." Her
+conclusion is the point: "the sermons will be preached by: **Every staff member in camp** —
+his behaviour ... **The philosophy of your camp and its relationship to its practice;
+(particularly as it bears out the verbal and printed advertising!)** ... The words — even
+the idle words — of the director, section director, waterfront counsellor, etc. which take
+on an importance far out of proportion to their merit, for they are the utterances of
+heroes." Directly usable for any account of Kanawana's chapel and Sunday practice.
+
+**A. Farrell, Fire Engineering Department, Government of Ontario, "Fire Protection of Camp
+Sites" (pp. 131, 154–155).** The regulatory counterpart to Irwin's practical woodlot
+articles, and the most complete camp fire code in the run — a gasoline fire pump at the
+lake with 1½" hose or buried polyethylene mains with valved risers at each building;
+**fire points at outlying campsites, each with a 45-gallon water drum and at least four
+flat-bottomed pails**; an electrically operated klaxon, siren or bell with a coded signal
+to indicate location and more than one operating point; a designated assembly area and a
+**roll call**; and — squarely against Irwin's "older campers could lend a helping hand" —
+"**no camper should be expected to take part in this activity.**" Twelve prevention rules
+follow, including regulated smoking; CSA/ULC/CGA-listed heating equipment; oil lamps
+fastened clear of combustibles, filled outdoors, and **never used in buildings where
+concerts, plays or sing-songs are held**; an incinerator with spark arrester for garbage;
+non-flammable weed killers only; flammable liquids stored **at least 50 feet** from other
+buildings with top and bottom ventilation and no artificial lighting; **"Campers should not
+be permitted to carry matches, and other personnel should carry safety matches only" —
+except campers on survival training**; camp concerts on the ground floor only, with
+flame-proofed scenery, **no real flame under any circumstances**, two exits at least 4'6"
+wide opening outwards away from the stage, 3'6" aisles, chairs fastened in units of four to
+twelve, two exits from the stage itself; fire equipment kept in a boat where a camp is
+reached by water; water extinguishers for cabins, dry chemical and fire blankets for
+kitchens, dry chemical outside paint shops and flammable stores; and propane cylinders
+outdoors on a firm foundation. This is the standard against which anything the wiki says
+about Kanawana's fire safety and its Lodge concerts should be read.
+
+**Lucille Irvine, "How To Help The New Camper" (pp. 136–137, 145)** — homesickness renamed:
+"Today, psychology has a new name for it. We call it **separation anxiety**, and we know
+that its roots go very deep ... All youngsters who go to camp for the first time suffer from
+it. And this is true, no matter how eagerly they have been looking forward to the
+experience." She traces it to infant dependency, notes that "we say, 'he has gone' of
+someone who has just died", and adds the realistic fears: "Sometimes he feels that his being
+sent to camp is a rejection; **and he may be quite right. He may have heard his mother say,
+'I'll be so glad when I can get him off my hands!'**" Practical advice: accept the feelings
+as natural, say most campers feel like that at first, spend a few concentrated minutes alone
+with the child, and at bedtime "act like a good parent and give him some affectionate
+babying." And to the counsellor: "**They can be brats. And it is normal for you to be fed up
+with them sometimes and to get angry.** If you can admit these feelings to yourself and
+accept them as natural, you'll be much more relaxed and efficient than if you try to be
+perfect ... For we teach most by what we are — very little by what we say."
+
+**Two internationalism items.** **C. S. Lennox of Friendly Relations with Overseas Students,
+"Overseas Students — Potential Counsellors" (pp. 143–144)**, with numbers: **"at McGill
+there are nearly 1500, and at Toronto some 950, from outside Canada. Not counting those
+from Great Britain or the U.S.A., there are well over 4000 people with student visas in
+Canada"** — up nearly ten per cent on the previous year, itself up twelve; the West Indies
+contributing most, then Hong Kong, then India with Pakistan and Ceylon, then Africa (just
+over 400). Contacts given: Mrs E. Fowke, National Secretary, FROS, 22 Willcocks St.,
+Toronto; Mrs M. Birtch, African Students Foundation, 85 Lombard St. The article's framing
+is of its moment, and mixed — genuine advocacy alongside generalisation ("especially in the
+case of Africans for example, they are generally from large families and used to children,
+are accustomed to an outdoor life"). And **"A Counselling Opportunity for Students from
+Jamaica"**: **six young men and four young women from Jamaica, aged 18–25, screened by the
+Standing Conference of Youth Organizations in Jamaica, arriving by air about 22 June 1963
+to work in ten Ontario camps** — the project growing out of one Jamaican who spent 1962 at
+**Camp Mazinaw**, run with Guy Arnold of the Canadian Voluntary Commonwealth Service. "We,
+in Canadian camping, can begin to move the mountain of ignorance, misunderstanding and
+prejudice that exists in the world, by first carrying away these ten stones." A follow-up
+report was promised for the autumn issue — worth watching for.
+
+**Other content.** **Don Smith's first President's Page** — the CCA's problem is
+communication, each province asked to pledge two articles a year, and the editorial
+committee's wanted list is a good inventory of what camps of the day worried about:
+"emergency drill at the waterfront, water safety on canoe trips, tripping, trip shelters,
+woodcraft and outdoor cooking, short-term swim programme, music at camp, poetry, crafts,
+riflery, boomerangs-kites-rafts, tennis courts, riding - trail and ring, kitchen layout and
+equipment, garbage disposal, **log canoe rack, paddle box, erosion at camp**, staff
+recruiting and supervision, discussion leading, **reports to parents**, check list for
+campers—first day, last day, small camp operation, and day camping." **S. L. Roberts of the
+National Parks Branch** on camping in the seventeen National Parks: **6,500 tent or trailer
+sites**, campers doubled since 1959, each site used by about a hundred campers over a
+92-day season, capacity expected to double again by 1967; three campground grades (serviced
+at 50¢ a day or $2.00 a week, semi-serviced, and primitive); **no permanent youth-camp
+occupation of park land permitted**; group reservations at places like Point Pelee; and a
+firm requirement that parties camping in remote areas **register with the wardens and check
+out on completion**. **Kirk Wipper on kayaks** — five types (touring, sailing, sports,
+racing, slaloming), the sports-touring hull best for campers, "it can be expected that a
+single Kayak paddler will pass a doubles canoe"; honest that "the Kayak is simply not so
+useful as a canoe would be for out-trips ... not readily portaged along with equipment and
+packs." **Alan Helmsley of the Ontario Department of Lands and Forests, "Conservation and
+Canoe Tripping"** — recreation as a crop with a **carrying capacity**, and hard numbers:
+canoe-trippers in Algonquin and Quetico **more than doubled in three years to at least
+58,000**. His indictment of camp practice is the sharpest thing in the issue: "We have seen
+live trees destroyed to make all sorts of towel racks, cooking 'gimmicks', shelters, useless
+tables and **even a bridge on dry land to serve only as a project**. We have seen live trees
+felled for 'something to do' and trees used as targets for axe-throwing contests. Let us
+recognize that the natural environment will no longer support pioneer methods used by large
+numbers of people ... Let us emphasize less the muscle and marathon aspects of the trip and
+stress the real values of understanding, appreciating and enjoying." Then ten trip rules —
+carry a folding spade; dig garbage pits and latrines back from the site and away from water;
+cut both ends from cans and burn everything; flatten cans, wash glass, bury the cold
+residue, or sink it deep in the lake where rock prevents digging; build fires on rock or
+bare mineral soil and drown them; **"Leave tent poles standing against a tree so that the
+next camper will find them"; "Leave some sheltered dry firewood for the next camper"**; do
+not encroach on an occupied site "even when invited"; and "ask yourself if you would like to
+be the next one to use the site." This is the best single source yet for
+`traditions/environmental-history.md` and for the ethics side of `canoe-trips.md`. A review
+of the **C.G.I.T. *Camp Manual*** (Department of Christian Education, Canadian Council of
+Churches, $1.50), praised for "a refreshing absence of technical language and professional
+gobbledegook."
+
+**An editor's note worth recording** (p. 162): "Your Editor wishes to express her
+appreciation for the kind and willing assistance she has received when serious illness
+struck at home. Special thanks go to Miss Bertram and Mrs. Flynn who have made these last
+two issues possible." So the April and June 1963 issues were largely made by Joyce Bertram
+and Eanswythe Flynn under Dorothy Douglas's name — useful if anyone ever attributes
+editorial decisions in these two numbers.
+
+**New names**: A. Farrell, Lucille Irvine, S. L. Roberts, C. S. Lennox, Alan Helmsley,
+Catherine T. Hammett, Leon Balcer, Jack Pearse, Gary Schofield, Guy Arnold, E. Fowke,
+M. Birtch. **New leads**: the September 1962 Order in Council amending the Small Vessel
+Regulations and the Board of Steamship Inspection's April 1963 camp exemption (Canada
+Gazette / Department of Transport); **"Appendix A — the Standard Canoeing test and awards
+used by camps"**, referenced in the brief but not printed, which would be the era's national
+canoe-test standard; the promised autumn 1963 report on the ten Jamaican counsellors; and
+*The Camp Counselor's Book*, whose contributor list now gives each contributor's camp.
+
+Kanawana itself: not named in this issue.
