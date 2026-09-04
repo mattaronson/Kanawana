@@ -1,6 +1,6 @@
 # Indigenous Place Names and Land History
 
-*Status: R3-verified | Sources: 15*
+*Status: R3-verified | Sources: 16*
 *Last Updated: 2026-09-04*
 
 ## Overview
@@ -54,6 +54,10 @@ That is a documented pipeline — American state-camp practice, taught through a
 
 Edgar's talk is also worth reading whole for how unresolved it is. She tells her campers that "this country which we proudly call 'This land of Ours', once belonged to the Indians"; she calls the July 1971 *Life* magazine survey of Indigenous North America "a story to make one blush with shame"; the camp's fiftieth-year project was a fund to bring Indigenous girls to camp, still unrealised at the time of the talk because "it takes time to work out worth-while arrangements." In the same talk she describes fifty years of campers being made members of tribes, a totem pole carved by campers, and her own camp name conferred on her by a visiting Ojibway chief. Debt, admiration and appropriation sit together in one document without the speaker appearing to feel a tension between them. For understanding what a camp of Kanawana's generation thought it was doing, that is more useful than either a defence or a condemnation would be.^15
 
+**And the ceremony itself has a named author.** In Spring 1973 Jack Eastaugh of the Taylor Statten Camps stated the Council Ring's origin outright: the ceremony was "devised by **Ernest Thompson Seton** in the years following the first great war and refined by **Taylor Statten** who taught the ceremonies to camp leaders in the 20's."^16 Kanawana's own Council Ring script dates from c. 1925-1927 and its totem pole from 1927 — the years Statten was teaching it. Eastaugh also translates the chant that closes Kanawana's script: "Wakonda dhe dhu" is rendered "Father a needy one stands before thee; I who sing am he."^16 The full argument and the comparison it invites are set out at [[site/council-ring|The Council Ring]].
+
+Eastaugh's article is worth reading beside Edgar's talk, because it is the same tradition defending itself twenty months later and conceding more. He compares camp Indian Lore to the minstrel show in order to deny the parallel, then grants the substance of the charge: "Indian Lore in the summer camp is guilty of ignoring cultural facts … **We have stolen the tepee from the people of the plains, the grotesque and marvellously hideous masks of the Iroquois, the birch bark crafts of the Hurons and the rich and colourful designs of the West Coast Indians.**" His remedy is attribution rather than discontinuation. He also records that "the Y.M.C.A. camps in Eastern and Western Canada for years have welcomed the participation of, and appreciated the contribution of local Indians in their programs," naming Golden Lake, Couchiching, Georgian Bay, Brantford and Moosonee — which, for a YMCA camp, is a claim about Kanawana's own movement that no Kanawana source has yet confirmed or denied.^16
+
 An "Indian Grave" marking existed on the Kanawana camp map, though no documentation has been found explaining whether this referred to an actual burial site, a naturalistic feature, or a campfire-story location.^8
 
 ## Pre-Colonial and Land History
@@ -96,6 +100,7 @@ The Kanawana site sits in the municipality of Saint-Sauveur, in the Laurentian h
 13. YMCA Camp Waabanaki renaming, 2023 [src_waaseyaa_camp_traditions_2023]. See [f_0831].
 14. Parish, Frances. "The Journey to Reconciliation in North American Summer Camps," *McGill International Review*, 24 January 2024 [src_mironline_reconciliation_camps]. Read in full; contains no mention of Kanawana, Otoreke, the YMCA of Montreal, Montreal or Quebec. See [f_2205].
 15. Mary S. Edgar, "Our Indebtedness to Our Indian Friends," a talk given in the Glen Bernard Camp chapel, 15 August 1971, printed in *Canadian Camping* Vol. 24 No. 4 (Summer 1972), pp. 13-14, 20. Read in full during the word-for-word pass over the cached 1949-1988 run [src_ia_canadian_camping_collection].
+16. Jack Eastaugh (Assistant to the Director, Taylor Statten Camps), "Our Friends — The Indians," *Canadian Camping* Vol. 25 No. 3 (Spring 1973), pp. 5-6. Found by the full word-for-word read of the run (`kb/reread/cc_findings.md`, issue 98).
 
 ## Research Notes
 

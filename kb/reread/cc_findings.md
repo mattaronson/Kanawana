@@ -17986,3 +17986,219 @@ is a 100% Canadian Magazine and is not subsidized in any way. It is supported so
 advertisements,"** followed by a full list of 45 advertiser companies — a usable index of the camp
 supply trade in Canada in 1973. Cover courtesy of **Paul Rushton, Camp Trailfinder**. No Kanawana
 and no YMCA of Montreal reference in this issue.
+
+## 98 — Vol. 25 No. 3, Spring 1973
+
+Contents page checked. All items read: A Message from the President; Have You Heard? Do You Know?;
+Our Friends — The Indians; National Camping Day; Watch Those Pocket Rockets!; Outdoor Cookery; Do
+It Now!; Classified Ads; The Challenge in Camping with Youth; Tips; Camping Publications; Medical
+Supplies for the Camp Infirmary; Campers Should Be Permitted to "Shop" in the Tuck Shop.
+
+**★★★★ JACK EASTAUGH, "Our Friends — The Indians" — the origin of Kanawana's Council Ring, named
+and dated, and its closing chant translated.** Eastaugh is **Assistant to the Director, Taylor
+Statten Camps**. The sentence that matters: "The Indian Council Ring Ceremony, **devised by Ernest
+Thompson Seton in the years following the first great war and refined by Taylor Statten who taught
+the ceremonies to camp leaders in the 20's**, needs no apology and is still viable today."
+
+That resolves something this project has carried as unattributed. Kanawana's "Tribes of Kanawana in
+Council" script is dated **c. 1925–1927** and its totem pole went up in **1927** — precisely when
+Statten was teaching the ceremony to camp leaders. Eastaugh's list of the ceremony's standard parts
+— "**the Fire Lighting, Peace Pipe Ceremony, Indian Games, Dances or Departure of Hiawatha**" — is
+item for item what Kanawana's own scripts and *The Green Triangle* describe.
+
+And the chant. Eastaugh writes that campers remembered "a spine-tingling sensation at the close of
+the council ring when the entire group rose to sing **'Wakonda dhe dhu' — 'Father a needy one
+stands before thee; I who sing am he.'**" **Kanawana's c. 1925–27 script closes with "Wakonda,
+dhe-dhu, wapdhin atonhe"**, and the same deity name recurs in the staged chemical-flash firelighting
+of 21 July 1940. So the words Kanawana campers chanted for at least fifteen years are part of the
+same Seton–Statten text and are **a prayer of supplication**, not atmospheric noise. Recorded as
+Eastaugh's 1973 rendering, not as an independent translation. **Patched into
+`wiki/site/council-ring.md` (12 → 13 sources) and `wiki/site/indigenous-names-and-land.md` (15 →
+16), with a new open question: compare Seton's published ceremony against the Concordia script line
+by line.** Eastaugh offers "a complete and detailed description of the rituals, ceremonies, games
+and organization" on request from the Taylor Statten Camps — a live lead for the version Kanawana's
+leaders would have been taught.
+
+The article's argument is worth having whole, because it is the tradition defending itself at the
+moment it began to be questioned. Eastaugh opens with an extended comparison to **the minstrel
+show** — Mr. Interlocutor, the burnt-cork chorus, whites emerging "rich, clean, handsome, wise and
+condescending" — and then asks: "**Have we a parallel in the way we conduct Indian Lore in the
+summer camp? I think not.**" He blames movies and television for "a basic misunderstanding of the
+North American Indian" and states that "**there is documented evidence to prove that the whites who
+encountered the Indians in the great move west were the real scoundrels.**" He records that
+"**the Y.M.C.A. camps in Eastern and Western Canada for years have welcomed the participation of,
+and appreciated the contribution of local Indians in their programs**," naming people from **Golden
+Lake, Couchiching, Georgian Bay, Brantford and Moosonee** reserves working in Ontario camps — a
+claim about Kanawana's own movement that no Kanawana source has yet confirmed or denied, and worth
+testing.
+
+Then the concession, which is the most useful paragraph: "**Candor is also required in levelling
+with the purist who can quite legitimately claim that Indian Lore in the summer camp is guilty of
+ignoring cultural facts. We have not limited ourselves to archaeological truths. We have stolen the
+tepee from the people of the plains, the grotesque and marvellously hideous masks of the Iroquois,
+the birch bark crafts of the Hurons and the rich and colourful designs of the West Coast
+Indians.**" His remedy is disclosure, not discontinuation — "there is nothing wrong with this
+practice as long as we recognize the source of our material and make the facts known to our
+campers." He recommends debates on "the Indian in to-day's Society" as "a natural and valuable
+offshoot of the Indian Lore program." And he is frank that the ceremony works as religion: "why not
+admit that much of the appeal of the Indian Council Ring Ceremony is dependent upon the observance
+of primitive ceremonies and a reliance upon the mystery of the wild?" — noting that "the lighting
+of the fire and the Peace Pipe Ceremony are certainly prayers" and that reliance on **Wakonda, "the
+one great knowing spirit of the universe," "has its counterpart in white society religion."**
+
+One operational point bears on how Kanawana's ring must have run: a council ring "**must be a
+total, all-camp program**," because "**distractions of any kind are 'killers'**" and a few scoffers
+can "conspire to interrupt or interfere with the make believe atmosphere." At Ahmek the camp was
+split — eleven-and-under at one sitting, twelve-and-up at another — after early years of
+interference. Attendance was compulsory where theatre, chapel, musicales and movies were voluntary.
+
+**★★ The CCA Publications Service catalogue, two full pages — and the Centenary Journey confirmed
+as a book with a price.** Listed under Library Service: "**CANADA'S CENTENARY JOURNEY — the
+Centennial project of C.C.A. — a collectors' item — cross-Canada by canoe. 145 p. $2.00.**" That is
+the fourth sighting of this publication in the run (issues 90, 91, 92, 97) and the first with a page
+count. **145 pages, $2.00, sold by mail from the CCA office in 1973** — enough to search a library
+catalogue with. Also listed: **"ONCE THERE WAS A CAMPER — Mary Edgar's popular book of poems …
+48 p. $1.75"**; the **1972 Ontario Conference Digest, "CAMP IS GROWING UP", 104 p. $4.50**; and
+**"COOKERY FOR KIDS, KAMP 'N KICKS" by Stewart, 81 p. $3.50** — the editor's own camp cookbook,
+from which this issue's recipes are drawn. The leadership-training shelf: Northway & Lowes's *The
+Camp Counsellor's Book* ($3.50), Elmer F. Ott's *So You Want to Be a Camp Counsellor*, Doherty's
+**Solving Camp Behavior Problems** ("helping the counsellor understand the causes of behavior
+problems", 62 p. $1.25), Ledlie and Holbein's *Camp Counsellor's Manual*, Hammett's *A Camp Director
+Trains His Own Staff* and the ACA's **Camp Job Descriptions** ($0.50). Plus church camping,
+campcraft, nature lore (*Acclimatization*, "one of the biggest sellers in the American Camping
+Association this past year"), canoeing, cooking, health and safety (*The Camp Physician's Manual*,
+$8.50), riding, sailing and swimming. **CCA member discount 10%.** A complete picture of what a
+Canadian camp's professional library was expected to contain in 1973.
+
+**★★ J. Harry Ebbs, M.D., F.R.C.P., "Medical Supplies for the Camp Infirmary."** A full itemised
+list "suggested for a residential summer camp for children with an enrolment of about fifty to one
+hundred campers" — enamelware, glassware, rubber goods, instruments, bandages, dressings,
+antiseptics, tablets, ointments — down to quantities. Of direct use to any account of camp health
+provision, and startling in places: **500 ASA tablets, 100 ASA-and-codeine, 100 Phenobarbital
+(½ grain), 100 Pyribenzamine, 100 Penicillin 250,000 units, 100 Triple Sulpha, 100 Achromycin
+capsules, 25 disposable hypodermic syringes and 25 needles**, a folding stretcher, an electric
+steriliser, crutches, two bed pans (adult and child), a locked metal cabinet and a small
+refrigerator. Ebbs notes the attending doctor would additionally provide scalpel, suturing material,
+rubber gloves, local anaesthetic and **narcotic drugs**, and would order tetanus toxoid and rabies
+information; a **snake bite kit** where indicated. His closing sentence is the administratively
+useful one: "**The director in consultation with the doctor should have suitable and adequate
+illness and accident record forms.**" So dated illness-and-accident records were a professional
+expectation at camps of Kanawana's size in 1973 — another record class to ask Concordia about. Ebbs
+is the same J. Harry Ebbs whose fund endowed the Mary S. Edgar deposit at Trent (see
+`camp-oolahwan.md`), and whose photograph supplied the previous issue's cover.
+
+**★ W. Bertram Danson, Director Emeritus, Camp Winnebagoe, on the tuck shop.** The economics and
+the politics of camp tuck, in detail, from a director who had run one for decades. "**The only
+activity that was NOT included in our fee! Always an 'extra'.**" Policy: as many non-candy treats as
+possible (potato chips, popcorn) because "anything containing sugar is not good for the teeth of a
+growing child"; **never sell gum**, both for the sugar and because "gum always ends up on the
+underside of the tables, benches, bed rails or on the floors." Camp T-shirts: "**It has been our
+experience that it NEVER pays**" — stock carried over, mice nesting in it, minimal margin; better to
+place the line with a town outfitter who takes the inventory and the losses, "because parents always
+purchased other camp necessities at his store." Paddles sold through the tuck shop **"on which he
+can paint the OCA canoeing awards he has secured"** — a documented practice of recording awards on a
+camper's own paddle, worth comparing against Kanawana's award culture. The two supply models
+described are cabin-group order lists filled by administrative staff versus an actual shop the
+campers walk into, and Danson argues firmly for the second, with attendance by cabin group and a
+counsellor present. **The tuck card system, described exactly**: a serial-numbered card about
+3" × 5¾", worth $5, with the camper's name and cabin number and little boxes around the edge in 5¢,
+10¢ and 25¢ denominations punched out with a ticket punch as purchases are made; a $5, $10 or $15
+tuck deposit billed with the spring camp fees; unspent money returned in an envelope as the camper
+boards the bus home. "**True, we cannot account for how he spent his tuck money … If we have 1% of
+our families requesting an accounting of tuck shop expenditures, that is a lot.**"
+
+**★ Ron Johnstone, President of the OCA and Director of Camp White Bear, "The Challenge in Camping
+with Youth."** Opens with a fact worth its own note: "**I have on my Camp Staff today the man who
+was my Camp Director when I was an eight year old … He is 76 years old.**" Named as **C.T. Sharpe**,
+who used to tell of "sitting at the benches and eating off the tables when the day was good — and
+sitting under the tables and eating off the benches when the days were rainy." Johnstone's argument
+against the "ideal counsellor" model: "if we continue to say to our staff 'this is the ideal
+counsellor' and expect the 'clean cut youth' to operate in a framework that is completely foreign to
+him, then we will have nothing but failure." He denies there is a new morality — "**today's youth
+can no longer stomach the double standard that society seems bent on expressing**" — and lists the
+double standards by name (speeding, rolling stops, little-league winning, the parent's relaxing
+drink). Cites **Dr. John Rich** at an OCA conference: "**you can teach a camper how to paddle a
+canoe, but you cannot teach him how to spend time in a canoe — only the calm, peace, beauty and
+serenity of the country can do that.**" Reports **600 leaders in outdoor education gathered at
+Dorset in October [1972]**, whose finding was that the experience should be "in small groups, in
+depth with trained leadership" — on which Johnstone remarks, "**Camp directors of fifty years ago
+could have told us this!**" And records having "viewed our wilderness with **the Chief of the
+Ojibway Bear Island Band**", who described his "mother earth" so that "my only response could be
+silence."
+
+**★ Latimer's president's message completes the swing.** Fall 1972 booked "The Threat to Camping";
+Winter 1973 said the movement is "NOT in trouble"; here, after Geneva Park, he is optimistic and
+explicit about why: "**While it is true that some camps are closing and many are facing registration
+difficulties, we see in Canada that many new camps are opening … and that more children are going to
+camp.**" The list of pressures is the same as before — more alternatives than ten years ago, higher
+costs, staff who "can travel and hitch-hike much more easily," media that "still do not fully
+appreciate the unique value of an organized camping experience," even an advertiser depicting the
+camp counsellor "with what I consider to be the old-fashioned cap and whistle." His remedy: "**if we
+face camping with a 1973 attitude … and not a 1963 attitude, we are going to win!**" And a personal
+passage worth keeping — that as a young director he thought he "must be as strong as the proverbial
+Oak … I had the misguided thought that, if I changed, I would be considered weak and ineffective,"
+before concluding "I could still be a good Director by being flexible … more like the willow — able
+to bend!" He then applies it to hiring, arguing against screening out young staff who are "still
+experiencing frustration, confusion and bewilderment." **Three consecutive presidential messages on
+whether Canadian camping was in crisis, each contradicting the last** — the record of the sector's
+mood in 1972–73, and the frame for reading Kanawana's own decade.
+
+**★ The news column, and its Quebec content.** From the **Geneva Park National Workshop** (1–4
+February 1973): "We can't by-pass the spontaneity and enthusiasm of the members from **QCA** and
+SCA," with Quebec's delegation promoting the **Carnaval de Québec** — posters, and **Bob Lazanik
+presenting the editor with a replica Bonhomme** — and "our warmest experience was the rousing
+singsong with **Bob at the piano** on the last evening." The editor then prints a paragraph on the
+Carnaval learned from that conversation: Bonhomme "the symbol of good times, good fellowship and
+community living," the ice palace in Centre Square built from blocks hauled from the river, and the
+canoe race across the St. Lawrence sponsored by *Québec le Soleil*. **The Quebec Camping Association
+delegation at a national workshop in 1973, led by its president, presenting Quebec winter culture to
+the rest of Canada** — the liveliest Quebec-camping material this read has found, and the man doing
+it is the CCA vice-president for Quebec, Kanawana's own provincial association head.
+
+Other items: **the CCA Board and Annual Meeting set for 11–13 April 1973 at Parksville, near
+Nanaimo, B.C.**, with a BCCA conference; the CCA Executive met **4 February at Jack Pearse's Camp
+Tawingo, Huntsville**; the MCA presented "a very valuable brief concerning the **Opportunities for
+Youth Programme**", to be discussed when the president met the **Secretary of State on 20 February**;
+presentations to **Recreation Canada** for another Standards Workshop and an Outdoor Education
+Conference. **The Toronto Camping Show** (a consumer event with no OCA connection) would send **10
+underprivileged children from Toronto** to OCA-accredited camps for two weeks. **The YWCA and YMCA
+held separate national meetings in Toronto on 4 February in conjunction with the CCA Workshop** —
+so there was a national YMCA camping meeting that week, and its minutes, if they survive, are a
+place Kanawana could appear. Canoeing school dates fixed: Western at Lake of the Woods 2–11 June;
+Ottawa French 1–10 June; Ottawa English 14–23 June; **Eastern at Yarmouth, N.S., 9–18 June**.
+**Ron Perry**, author of *The Canoe and You*, is Headmaster of **Rosseau Lake School**, formerly
+housed in **Lady Eaton's old summer house "Kawandag"**, which had just been **completely demolished
+by fire**; the school reopened a week later in seven 50-foot trailers, helped by "the village of
+Rosseau and people like **Shirley and Ted Yard**" (W. E. "Ted" Yard being a CCA past president).
+**Eileen Mayotte** at a **Winter Wilderness Camp at Candle Lake, Sask.** in late February —
+temperatures from 40° above to 40° below in one week, 47 students and 13 staff, a full-credit
+one-week course in the Recreation Technology programme at the **Saskatchewan Institute of Applied
+Arts and Sciences**, covering chain-saw work for shack-tents, cross-country skiing, snowshoeing,
+orienteering, back-packing, animal tracking and **snow ecology**, with six snowmobiles held as
+emergency equipment.
+
+**Paul Rushton, "Watch Those Pocket Rockets!"** — **some camps ran model rocketry programmes**, now
+governed by **Amendment No. 13 of the Air Regulations and Aeronautics Act of Canada**, quoted in
+full: no model rocket launch within **10 miles of any airport, control zone or aerodrome traffic
+zone**, none into cloud, and none "**unless a firing supervisor approved by the Royal Canadian
+Flying Clubs Association is present**." An unexpected and precisely datable regulatory constraint on
+camp programming.
+
+**Eanswythe Flynn's "Do It Now!"** closes the series with June. Two items of record interest:
+"**Your Staff Manual should be distributed to all your staff members by the first week of June at
+the latest**", and "Set up the infirmary … **Are campers' Health Forms and their Doctors'
+Certificates coming in? Have you enough file cards for your records?**" — camper health records as a
+routine annual paper class. Plus continued drinking- and swimming-water samples to provincial Health
+Departments, and a check "with Departments of Lands and Forests or Ministries of Natural Resources
+about canoe routes and hiking areas, and **the cost, if any, of sending groups over
+Government-owned waters and property**."
+
+**Tips**: **millfelt** (dryer felt, bought as cast-off from any pulp and paper company, 3¢ a square
+foot in 1971) as the best non-skid dock surfacing, better than sand-in-paint or coco matting; and a
+**Mother-and-Daughter (or Father-and-Son) weekend on the second weekend of June** as "a surefire
+remedy for preventing homesickness," run with the summer menu so parents and new campers see the
+camp before the season. Classified ads include a camp for sale on 119 acres and a 7-acre island 125
+miles north of Toronto, a partner wanted for a Haliburton Highlands camp, and a position wanted by
+an experienced male camp director — the small ads of a contracting sector. The CCA's Toronto address
+has acquired a postal code, **M4P 1E1**. Photographs courtesy of **Jay Haddad**. No Kanawana and no
+YMCA of Montreal reference in this issue.

@@ -359,6 +359,12 @@
           "at": "2026-07-09T18:00:00Z",
           "by": "auto",
           "task": "RESEARCH"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-09-04",
+          "by": "auto",
+          "task": "RESEARCH"
         }
       ],
       "ralph_loops_completed": 2,
@@ -6739,6 +6745,12 @@
           "at": "2026-06-26T00:00:00Z",
           "by": "auto",
           "task": "VERIFY"
+        },
+        {
+          "status": "R3-verified",
+          "at": "2026-09-04",
+          "by": "auto",
+          "task": "RESEARCH"
         },
         {
           "status": "R3-verified",
