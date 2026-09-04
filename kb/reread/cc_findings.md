@@ -4995,3 +4995,172 @@ find any left-handed ones?"). And Master Canvas Craft now specifies the **"Bark
 Lake" out-trip tent as 5 ft by 7½ ft, no poles required**.
 
 Kanawana itself: not named in this issue.
+
+## 45 — Vol. 12 No. 2, February 1960 ★★★
+
+Carlson's editorial on camping's future; Ted Yard on young counsellors; Kirk
+Wipper on survival foods; Ron Scott on a caravan camp; Barry Lowes on being
+lost in the bush; **member news from Manitoba, Nova Scotia and Quebec**; a fire
+safety checklist; Joyce Bertram's book page; a choral chant; Blackstock on Red
+Cross water safety; **the full 1960 OCA conference programme**.
+
+**The complete organising committee of the April 1960 Montreal conference
+(p. 73) — effectively a roster of the Quebec camping establishment.** This is
+the single densest concentration of Quebec camping names the run has produced,
+and almost none of it is in the repo:
+
+- **Ken H. Murray, president, Quebec Camping Association** — also CCA
+  corresponding secretary and a CCA vice-president, of 46 Surrey Drive,
+  Montreal 16. The QCA presidency is the post Roy D. Locke of Kanawana held in
+  February 1951 and Agnes Mutchler held in 1958.
+- **Tony Shorgan, president, French section, Quebec Camping Association**, ex
+  officio — the section founded 11 April 1958 now has a president, and it is its
+  founding chairman.
+- **Anne (Nan) Vail**, conference chairman; **Lillian Poltrick**, deputy chairman
+  — the Boy Scouts staff member who ran the diabetic children's camp at Camp
+  Jackson Dodds in 1958; **René St-Onge**, chairman of the French section
+  [committee]; **Mrs A. Weisbord**, secretary.
+- Committees — **Accommodation**: E. O. Freedman. **Programme**: Mrs Agnes
+  Mutchler, Mrs F. M. Van Wagner, **Miss Ruby Smith**. **Booths**: Bob Lazanik,
+  Mrs Alta Kahn, Joe Freidman. **Publicity**: Neil Powter, **W. J. C. Hewetson**.
+  **Registration**: Gordon Pollock, Jack Dalton. **Hospitality**: Mrs T. Horn.
+
+**Ruby Smith** was flagged earlier in this read as a name needing follow-up; here
+she is on the programme committee of a national conference in Montreal. Every one
+of Shorgan, St-Onge, Weisbord, Freedman, Lazanik, Kahn, Freidman, Powter, Horn,
+Ruby Smith and Ken Murray returns zero relevant hits in `facts.json` and `wiki/`.
+This list, with the 1954 QCA executive already used in `order-of-owens.md`, gives
+`quebec-camp-landscape.md` a spine of named officeholders across six years.
+
+The conference itself: **8–9 April 1960, Sheraton-Mount Royal Hotel, Montreal**,
+theme **"A Good Camp is a Happy Camp"**, "applicable to both rural and urban
+camps for any age group and for either normal or special campers." Alan Klein
+speaks twice; **Mrs F. M. Van Wagner** on "Treasures to be found on and off
+camps" and **René Bélisle** on "Treasures in and near the city"; a Red Cross and
+RLSS panel on waterfront standards; **Marion Taylor of the CBC Children's
+Programme Department** on theatre; panels on maintenance and on food (an
+industrial caterer and a dietitian — cf. Bertram's Ouareau caterer); sessions on
+**Desirable Practices** run by Mrs Ethel Bebb, Miss Margaret Caesar and the
+standards chairmen of both associations; a dance; and Margaret Nix at the closing
+dinner. Directors were asked to send camp pictures and two copies of their camp
+folders to the office secretary — **so brochures from Quebec camps, possibly
+including Kanawana's, were physically collected at 2233 Belgrave Avenue in early
+1960.** Another reason to find out where the CCA's Montreal office records went.
+
+**The OCA's pamphlet list, with authors and prices (p. 89).** The association was
+by 1960 selling the run's own best articles as offprints, "known to be of worth to
+you, your section heads, activity heads and all members of your staff", at 2 for
+15¢:
+
+- **HOMESICKNESS — Dr. Taylor Statten**, "A Symptom Complex Related to
+  Separation from Home" (the two-part 75-case study read earlier in this run)
+- **FATIGUE — J. H. Ebbs, M.D.**, "A Major Health Problem in Camps" (issue 41)
+- **THE COUNSELLOR'S JOB AT CAMP — Mrs Ralph Raymer** (Tanamakoon)
+- **CANOEING — Mary Porter**, "A Canadian Heritage", in three parts: "It's
+  Romantic Origin", "It's History and Development", "It's Modern Aspects"
+- **SOME THOUGHTS ON CANOE TRIP CAMPING — Douglas Lloyd** (issue 39)
+- Free: **MASTER-PLAN YOUR CAMP — Bradford G. Sears**, Assistant Professor of
+  Landscape Engineering, New York State College of Forestry
+
+This is a concrete inventory of what sat on a Canadian camp director's shelf in
+1960, each item findable. Mary Porter's three-part canoeing history has not yet
+surfaced in this read and should be watched for. The full **1960 OCA conference
+programme** (pp. 80–81, 88) names the session leaders for a comparable list of
+subjects — Jack Pearse of **Camp On-Da-Da-Waks** on rainy-day programme (a fifth
+trace of that Ottawa YMCA camp), Kirk Wipper on canoeing standards and nature
+lore, Mrs Ralph Raymer on CIT training, **Mrs J. B. P. Moffatt of the Taylor
+Statten Camps on kitchen management**, R. N. McGregor on song leading "as a
+result of tremendous interest", Hart Devenney on Bark Lake, Garth Kay of Camp
+Voyageur on canoe tripping, and Mrs G. Brigden on first-aid nursing.
+
+**Ted Yard on why young counsellors misbehave (pp. 59–60, 87–88).** Yard —
+CCA and OCA past president, newly returned with an M.Sc. in Group Work
+Administration from **George Williams College, Chicago** — applies **R. J.
+Havighurst's developmental tasks** to the camp counsellor problem, and it is the
+most sympathetic writing about camp staff in the run. From **interviews with
+first-year counsellors in 1958**, he lists their stated reasons for coming, in
+order of popularity: an attractive summer job; a mark of success after years as a
+camper; a desire to move along with friends; a healthy summer away from home;
+new responsibility; interest in learning skills for working with people. His
+reading: these are adolescent tasks, not young-adult ones — "a young man vitally
+concerned with… selecting a mate, learning to live with a marriage partner,
+starting a family… will not likely apply for two months work in a north-woods
+boys' camp." Hence the central irony he names: the eighteen-year-old who came to
+camp "really and unconsciously working at the task of **emotional emancipation
+from parents and other adults** — and then he discovers that the camp, by its
+very essential 'controlled setting', **substitutes other adult control figures
+for the parents and for the teachers!**" And the boy who half-way through the
+summer needs "mature relationships with age mates of the other sex" and so
+"will slip away from his responsibilities for the safety of campers, and after a
+long hike and paddle he will furtively sip a milk shake with a young waitress in
+the village some miles away!"
+
+His verdict is a rebuke to the whole apparatus of counsellor evaluation this run
+has documented: "**age has long since been proven a poor criteria for individual
+integrity**… **When shall we stop demanding that these leaders of cabin groups
+of six or eight children be super men?**" His remedies are practical and worth
+recording as period detail: facilities for active physical recreation, "an
+evening 'snack' and a chance to play the most recent records on the 'jazz
+stack'", staff wives running a "learn to dance class", **staff parties with young
+partners "imported" from other camps and lodges**, real discussion of life
+problems with competent resource people, and a genuine counsellor role in
+programme planning. This is the fairest thing said in the run about the young
+people whose written evaluations this project has had to embargo, and it should
+be cited in whatever `p_308` policy is eventually written: the era's own most
+thoughtful practitioner regarded their lapses as developmentally normal and the
+camp's structure as partly the cause.
+
+**Barry Lowes on being lost (pp. 64–65, 91).** A complete survival protocol —
+SIT DOWN, don't run, don't walk; stay put because "without a compass, you will
+invariably wander in giant circles"; a clearing facing south beside water; fires
+kept going twenty-four hours, **three fires in a triangle being the international
+distress signal**; a lean-to built facing a large rock six to ten feet away so
+the fire reflects; ten inches of evergreen boughs curved side up for a bed;
+empty your pockets — "Shoe laces for snares; keys for fish lures or sinkers; a
+pin for a hook; a belt can be cut into long thongs… **a watch as a compass**;
+anything shiny as a heliograph"; **three of anything means HELP**; HELP scratched
+large on a beach; berries, cat-tail shoots, young ferns, porcupines clubbed,
+rabbits and squirrels snared, partridge stoned, fish baked in leaves under coals.
+"Remember, too, that no animal in our northern woods will attack a person. **Fear
+no animal; only panic can hurt you.**" He then lists the contents of his own
+hunting-jacket survival kit — compass, topographical map, fishing line and hooks,
+steel wire, waterproof matches, spare pocket knife, carborundum, six feet of ¼"
+nylon rope, extra bullets, whistle, signalling mirror, hard candy, two sterile
+bandages — "All together they weigh about a pound." **Kirk Wipper of Camp
+Kandalore** runs a companion series on survival foods: rock tripe washed, roasted
+crisp and boiled to "a thick gelatinous soup… tapioca with licorice flavoring",
+on which "Richardson and Franklin virtually lived for months"; reindeer moss;
+Iceland moss; dormant ants in hollow trees, "although they do have a rather
+unpleasant acid taste"; **rawhide or leather boiled for several hours** — "Extra
+boots or other leather articles may prove useful and should not be discarded";
+the green inner bark and buds of aspen and basswood.
+
+**Also noted.** A. L. Cochrane's name has gone from the masthead, confirming his
+death between the June and December 1959 issues. **Ron Scott of Winnipeg Central
+YMCA describes a caravan camp** — twenty-seven boys, two staff, a driver and a
+chartered Greyhound named "Maud", ten days and **two thousand miles through four
+provinces** in August 1959, prompted by "the low number of thirteen- to
+fifteen-year-olds in our resident camps"; a hundred people came to the reunion
+night to see five hundred slides. The **Manitoba** note is an unintentionally
+sharp record of how fast camp leadership turned over: six named executive members
+gone in a year, to Victoria, Saint John, Vancouver, **Egypt** (Shirley Pearce, to
+do YWCA leadership training), Tulane and Toronto — "We have had trouble getting
+people to handle Executive jobs." **Nova Scotia** reports a new NSCA president,
+Abol Ziai, Recreation Director for the City of Halifax, previously a camp
+director at **Camp Hersey in Quebec**; forty-five percent growth in camp members
+in two years; a new **Family Camping Club in Halifax**; and a ten-page
+mimeographed newsletter. Reynold Carlson's editorial projects that camps "will
+need to expand by thirty or forty per cent during the next eighteen years",
+notes that camps then served "eleven or twelve per cent of our child population
+between the ages of eight and fourteen", warns that campsites will get scarcer
+and that "camps anticipating expansion should secure land as soon as possible",
+and records that **about twenty-eight [U.S.] states now have regulations
+governing summer camps**. C. R. Blackstock sets out the Red Cross Water Safety
+Service's four-level pupil programme and its leadership ladder (Leader at 16,
+Instructor, Examiner, Supervisor), with **the name and address of every
+provincial Water Safety director** — for Quebec, **Mr Charles Burroughs, 2170
+Dorchester Street West, Montreal**, the man Kanawana's waterfront would have
+dealt with. And a two-part **fire safety checklist** for camps runs 24 questions,
+continued in the April issue.
+
+Kanawana itself: not named in this issue.
