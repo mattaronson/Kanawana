@@ -23632,3 +23632,106 @@ of Pediatrics' recommendation that trampolines be banned from school programmes 
 either an irony or a market. The mailing label on this copy again reads **Camp Richildaca, Mr & Mrs
 W. J. Babcock, Kettleby** rather than Trent, which is a reminder that the Internet Archive run is
 assembled from more than one deposit.
+
+---
+
+## 137 — Vol. 33 No. 3, May 1981
+
+Twelve pages. Every item accounted for: President's Report (Cliff Labbett); Special Effects for
+Special Days (Ann Stevenson, Camp Wannakumbac); a publisher's announcement and a book review of
+Wilkinson's *Camps, Their Planning and Management*; Thought for Food — menu planning ideas (continued
+p. 12); The Counsellor's Page — Great Expectations (John Latimer); a position-wanted notice; a Memo
+on accreditation wording; a Cookout Manual notice. **Kanawana is not named.**
+
+**★★★★★ THE MOVEMENT'S TEXTBOOK IS WRITTEN BY A MONTREAL PROFESSOR AND AN ACQ MEMBER — and it
+contains specimen forms.** *Camps, Their Planning and Management*, by **Robert E. Wilkinson, Ph.D.,
+Professor, Department of Physical Education, McGill University, Montreal**, C.V. Mosby, Toronto,
+1981, 291 pp., $19.95, sold through the CCA's own publications service. The publisher's own
+description of the author is the finding: "**Member of Canadian Camping Association through the
+Association des Camps du Québec**", and Flynn's review adds "**and Camp Nominingue**" — F. M. Van
+Wagner's camp.
+
+Two things in the notices matter beyond the authorship. The publisher lists among its key features
+"**Includes national code of ethics for Canadian Camping Association**" — so the CCA's code of ethics
+is printed in full in a findable book. And **Eanswythe Flynn's review** says what it contains:
+"**Not since Dimock and Hendry's *Camping and Character* (1929) has a Canadian textbook of this size
+and depth been so all embracing**… scores of charts, sketches, plans and **specimens of every kind of
+business form any camp records would require**", with fifty-two sketches and charts by Mrs Wilkinson.
+
+**Written into `canadian-camping-movement.md` (sub-source 8ao) and `p_323`.** A book with specimens
+of every camp business form, by a member of Kanawana's own provincial association, published in the
+year the camp's own record is thinnest, is a direct aid to reading whatever Kanawana papers survive —
+a second route, after the Ontario forms kit (issue 130), to knowing what the blanks looked like, and
+this one from the Quebec side. It is a widely held academic title and should be tried at McGill,
+Concordia, BAnQ and by interlibrary loan before any archive. It is also the fourth McGill connection
+this project has recorded in Canadian camping, after Arthur S. Lamb, the McGill camping school of
+1937-40, and Blackstock's B.Sc.
+
+**★★★ "ACCREDITED BY C.C.A." IS WRONG, AND THE ASSOCIATION SAID SO TWICE.** A memo: "Remember, camps
+are only accredited by Provincial Associations NOT by the C.C.A… **It has come to our attention that
+some camps are still using the wording 'accredited by C.C.A.' on their literature. This is incorrect
+and should be changed.**" **Added to the accreditation paragraph in `canadian-camping-movement.md`**,
+with the consequence for this project: **any Kanawana printed material claiming accreditation by the
+national body is using wording the association was actively trying to stamp out, and should not be
+read as evidence of a second accreditation.** A small point, but exactly the kind that produces a
+false fact fifty years later.
+
+**★★ The federal review, and what Ottawa was worried about.** The executive went to Ottawa on **7
+April 1981** to meet the Fitness and Amateur Sport Directorate "concerning a review of our work and
+the funds we receive from the Federal Government", with **Jay Haddad** — the former Oral History
+chairman — giving a slide presentation with music and commentary. Labbett reports the department's
+concern: "**Ottawa is concerned with the continuing accidents resulting from poorly-equipped and
+ill-trained (or untrained) persons who go on camping trips, canoe trips, mountain climbing and
+wilderness travel.**" So three years after the 1978 tragedy the federal funder was still pressing the
+point, and the association's answer was its "**HOW TO**" series of monographs, for which it was
+soliciting authors. Another publication series to look for.
+
+**★★ Elections.** **Jocelyn Palm** elected CCA President for two years; **Jane McCutcheon succeeds
+Derek Walsh as Vice-President of the Central Region**; Gary Luthy elected for the West; George
+Matthews continues for the Atlantic. *(The McCutcheon sentence is already in `people/derek-walsh.md`
+from the earlier pass — recorded here as confirmation, no change made.)* Labbett's closing line is a
+period judgement worth keeping: "**C.C.A. has made tremendous strides forward in the past ten
+years.**"
+
+**★★ John Latimer's list of what parents expect of a counsellor** — twenty-one items, and it is the
+frankest statement in the run of what a camp was actually being asked to do. The first six are
+custodial: a counsellor who "constantly watches out to see the child is healthy and **CLEAN including
+TEETH**"; who checks "that toilet habits are regular"; who "**will not let sunstroke strike**";
+"helps to assure that the children will eat properly"; "is aware of the whereabouts of their child at
+all times"; and "sees to it that P.F.D's (life jackets) are properly used". The last are
+developmental: a good listener and "**a sounding board for their child's values, ideals, dreams and
+perceptions of the world**"; "has a sense of humour ALL summer"; "**does not expend too much time
+with friends on staff and ignore the children in consequence**"; "senses when a camper is homesick or
+lonely and will quietly move to relieve this feeling"; and "will pass along the very important
+quality of learning to do things for others". One in the middle — "**supports established values such
+as religious beliefs**" — is worth noting in a 1981 document.
+
+His account of **visiting day** is the only survey of the practice in the run: "Some camps have it
+any time and some camps **do not allow the parents to visit the camps at all**. Other camps, probably
+the majority, will have one day or period put aside." The argument against is disruption, difficulty
+for the counsellor, and that "**it is often very difficult for those children whose parents do not
+attend**". The argument for is that "it is a very rewarding experience for a parent to meet their
+child's counsellor, **probably the most significant person in the child's life at camp**". And a
+practical instruction: "**Counsellors should be given some training before visiting times**… If the
+counsellor has a problem camper and is feeling uncomfortable about presenting the situation to the
+parent, the Director should certainly be willing to take over."
+
+**★ Special-effects programme ideas from Camp Wannakumbac**, Clear Lake, Manitoba, a camp "sponsored
+by the Manitoba Farm Bureau — and a rare description of camp photography as a programme: contact
+prints made from a roll of 120 film, sixteen pictures 1⅜ inch square on one sheet, toned with
+photographic dyes and cut out as souvenirs. The special days are worth listing for comparison with
+Kanawana's own: **International Day** with cultural pavilions and "haggis hurling"; **Roaring
+Twenties Day** with an "Old-Time Photo Shoppe" using hooded camera and "exploding" flash powder;
+**International Spy Day**, built on the staged kidnapping of the cook's helper, with "spy books"
+containing "mug shots" of camp staff; and **Klondike Day**, where campers published a newspaper
+covering "the election of mayor, the grand opening of a new saloon and the hold-up of the town's only
+bank". Nothing about Kanawana, but a useful sense of what a themed camp day was in 1981.
+
+**Minor.** A **Cookout Manual** by **Sue Whitney, Day Camp Director, Borough of Etobicoke**, 24 pages
+and 35 recipes grouped by Canada's Food Guide, $3.00 through the CCA, opening with a recipe for a
+cookout: "1 enthusiastic counsellor, 6-12 small and medium sized campers, 1 fire pit, 100-150 pieces
+of various sizes of dry wood, 1 package matches, 1 well planned menu, 1 large pot, **1 pinch of
+patience, 1 dab of understanding, 14 cups of enthusiasm**." And four pages of menu planning — the
+fullest single list in the run of what Canadian camps actually served, useful for reading any
+Kanawana food budget, with a costing note beside the cereals: "**check prices and weights for value —
+the bigger the box the lower the unit price**."
