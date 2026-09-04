@@ -1,6 +1,6 @@
 # Camp Oolahwan
 
-*Status: E1-reviewed | Sources: 21*
+*Status: E1-reviewed | Sources: 22*
 *Last Updated: 2026-09-04*
 
 ## Overview
@@ -16,6 +16,25 @@ The property comprised 345 acres with a private lake (Lake Walfred), at coordina
 Mary Susanna Edgar (born May 23, 1889, Sundridge, Ontario; daughter of Joseph Edgar and Mary Little) was educated at Sundridge Public School, Barrie High School, Havergal Ladies College (Toronto), University of Chicago extension courses, and Teachers College, Columbia University, before graduating from the YWCA National Training School in New York City in 1915.^3 ^4 ^17 She had already held a YWCA "First National Girls' Work" role from 1912 to 1914, predating her 1915-1919 Montreal/Oolahwan directorship.^17 After leaving Oolahwan in 1919, she undertook a four-month YWCA volunteer posting in Japan in 1920, and that same year purchased the Lake Bernard property -- two years before Glen Bernard Camp opened in 1922 with 38 initial campers.^17 She served as first vice-president of the Canadian Camping Association (1936).^3 She wrote four books, not one as previously recorded here: *Wood-fire and Candlelight* (1945), *Under Open Skies* (1956), *The Christmas Wreath of Verse* (1967), and *Once There Was a Camper* (1970), and won first prize in the ACA hymn competition in 1925 for "God Who Touchest Earth with Beauty" (published 1926).^3 She collaborated with Canadian Girls in Training, Girl Guides of Canada, the CCA, and the OCA.^17 She died September 17, 1973 in Toronto. Her fonds (donated by her nephew John Gilchrist and his wife, funded via the Ebbs Archives Fund) is held at Trent University as photocopies (1920-1970); the originals remain at Queen's University Archives.^4 ^17
 
 Ferna G. Halliday, a Queen's University graduate, served as Secretary of YWCA Montreal from 1918 to 1921 and was responsible for girls at Camp Oolahwan during that period.^5 Halliday went on to co-found Camp Ouareau (1922) and Camp Oconto in Tichborne, Ontario (1924, directed until 1949), and was a founding member of the Ontario Camping Association in 1933.^5 Camp Oconto's original dining hall is named "Halliday Hall" in her honour, and the traditions she brought from YWCA work — candlelight ceremonies, classical music, poetry, and tableaux vivants — may have originated at Oolahwan.^5
+
+A memorial tribute published in *Canadian Camping* in spring 1971, written by June Labbett,
+adds contemporary detail and one correction.^22 Halliday was **born in Chesley, Ontario**, and
+after graduating from Queen's **in 1917** went to New York to study social work, and from there
+to Montreal and the YWCA — and the tribute is explicit that Oolahwan was where her camping
+career began: *"It was here that she received her first real camping experience at 'Oolawhan,'
+the 'Y' Camp north of Montreal. **This whetted her appetite for camping** and in 1922 she and
+Miss Mabel Jamieson started Camp Ouareau in the Laurentians."*^22 That makes Oolahwan the
+origin point for two subsequent Canadian girls' camps rather than merely a post held. She chose
+the Eagle Lake property north of Kingston deliberately, wanting a site "approximately half-way
+between Toronto and Montreal" so as to draw campers from both cities; **the tribute dates
+Oconto's first summer to 1925, not 1924 as recorded above**, and her directorship as 1925 to
+1949 — a one-year discrepancy left standing here rather than resolved, since the two sources
+disagree and neither is decisive.^5 ^22 It also records that Oconto "virtually doubled its size
+in a few years" during the Second World War, when "many young British war guests were amongst
+the campers." She was a lifelong friend of **Charlotte Whitton**, was later active on the board
+of the Julia Greenshields Home in Toronto, raised her niece and nephew Barbara and Jack Halliday
+after their father's early death, retired to Kincardine in 1949, and **died in October 1970**.^22
+The OCA archives, the tribute notes, refer to her as **"Halliday the colourful."**^22
 
 **May Brown** (Mrs. Lorne E. Brown) directed Camp Oolahwan during her period on the staff of the YWCA in Montreal, where she also completed a B.Sc. in Physical Education at McGill University.^20 She had grown up and been educated in British Columbia and taught briefly before going east; after graduating she returned to teach health and physical education at the University of British Columbia and to coach its women's field hockey teams, took an M.P.E. there in 1961, and about 1961 opened Camp Deka in the Cariboo with her husband.^20 She went on to serve on the National Advisory Council on Fitness and Amateur Sport and as **President of the Canadian Camping Association**, holding that office at least from 1964 to 1967.^20 ^21 Her Oolahwan directorship is therefore most plausibly placed in the 1940s, before her marriage and return to British Columbia, but the source gives no years and the dating here is inference from the rest of the profile; it should be confirmed against the Montreal YWCA fonds before being stated as fact. The source spells the camp "Oolawahn."
 
@@ -91,6 +110,7 @@ The name "Oolahwan" may derive from the Lakota word *olówaŋ* meaning "song" or
 19. Library and Archives Canada, "Montreal Young Women's Christian Association fonds" [src_lac_ywca_montreal_fonds]. Not yet accessed/extracted — flagged as a priority lead.
 20. Faye Ecclestone, "Among Ourselves" (profile of Mrs. Lorne E. Brown), *Canadian Camping* Vol. 19 No. 1, December 1966, p. 15 [src_canadian_camping_v19n1_1966dec]. States that May Brown "went east to Montreal where she joined the staff of the Y.W.C.A. in that city. Her responsibilities included directing Camp Oolawahn and she also took the opportunity of completing her B.Sc. in Physical Education at McGill University."
 21. *Canadian Camping* mastheads, December 1965 – December 1966 [src_canadian_camping_1965_1966], listing Mrs. May Brown as President of the Canadian Camping Association.
+22. June Labbett, "Ferna Graham Halliday," *Canadian Camping* Vol. 23 No. 3, Spring 1971, p. 20. A memorial tribute published shortly after her death. Found by the full word-for-word read of the run (`kb/reread/cc_findings.md`, issue 90).
 
 ## Research Notes
 

@@ -4904,6 +4904,13 @@
           "at": "2026-09-04T00:00:00Z",
           "by": "auto",
           "task": "RESEARCH"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-09-04T00:00:00Z",
+          "by": "auto",
+          "task": "RESEARCH",
+          "note": "Ferna Halliday's 1971 memorial tribute added (source 22): Oolahwan named as where her camping career began, birth in Chesley, death October 1970, and a 1924-vs-1925 discrepancy on Camp Oconto's founding left standing. Found by the full word-for-word read (kb/reread/cc_findings.md, issue 90)."
         }
       ],
       "ralph_loops_completed": 2,

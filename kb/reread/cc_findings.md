@@ -15952,3 +15952,299 @@ CCA's move into the OCA's Toronto office, Hartry's fully documented snark hunt a
 camp legend is made and transmitted, the editor's statement that the CCA had no policy on badges
 and awards, MacCulloch's third statement in the run that food is never a punishment, and the
 Bermuda exchange recorded from both ends.
+
+---
+
+## 90. Vol. 23 No. 3, Spring 1971 — `canadiancampingmagazine_vol23no3_1971spring.txt`
+
+*Contents page*: Planning a Purposeful Canoeing Clinic (Paul Chamberlain); "Si c'était vrai" ou
+"Paix mes agneaux" (R. Favreau); The Most Valuable Aspect of My Camp (Charles Cook); Live Well —
+And Please Live Free (Rob McKinnon); Nouvelles du Québec (Huguette Dagenais); Variations sur le
+camp de jour (Lionel Perras); Mount Peskett, Alberta; The Quest for Zest (Kirk Wipper); For Your
+Bookshelf; Outdoor Cookery (Helen Stewart); Ferna Graham Halliday (June Labbett); Our First
+Seventy-Five Years of Camping (Charles Plewman); Three Camps for the Handicapped in Nova Scotia
+(Allison Hagen, Carolyn Jack, Ginny Baker); C.C.A. — New National Office (David Hartry). All
+fifteen checked against the read; all covered below.
+
+**★★ THE CENTENARY JOURNEY "JOURNAL" IS PUBLISHED AND ORDERABLE — the endpoint of the record
+chain traced at issues 70–75.** "For Your Bookshelf": **"The Centenary Journey Committee of the
+Canadian Camping Association is pleased to announce that the 'Journal' which tells the story of
+the project is now available. It includes 'their story' which relates the historical significance
+of each segment of the journey and 'our story' of the experiences of Young Canadians in 1967.
+Maps are provided to show the route taken… available at the special price of $1.50 plus 25c…
+from Canadian Camping Association, 102 Eglinton St. East, Suite 203, Toronto."** This project
+established that each camp's log fed a provincial log which fed a national book; **the national
+book now has a publication date (1971), a publisher, a price and a structure.** It is a findable
+volume, and if Kanawana's crew (which reached Britannia Beach on 9 August 1967, per
+`centennial-1967.md`) contributed a log, this is where its account would be. **A first-order
+archival lead.**
+
+**★★ FERNA GRAHAM HALLIDAY DIES — and the tribute makes Oolahwan the origin of her whole
+camping career.** June Labbett's memorial, the fullest account of Halliday this project has
+seen. The sentence that matters: **"Upon graduation in 1917 Miss Halliday went on to New York to
+study social work and from there to Montreal and a job with the Y.W.C.A. It was here that she
+received her first real camping experience at 'Oolawhan,' the 'Y' Camp north of Montreal. This
+whetted her appetite for camping and in 1922 she and Miss Mabel Jamieson started Camp Ouareau in
+the Laurentians."** So Camp Oolahwan is not merely a post she held; it is where two subsequent
+Canadian girls' camps came from. Further detail: **born in Chesley, Ontario**; Queen's, where
+she was "involved in many of the extra-curricular activities" and kept lifelong ties to the
+alumnae, including **the controversial Charlotte Whitton of Ottawa** ("when these two ladies
+visited each other the conversation went on far into the night"); she chose the **Eagle Lake
+property north of Kingston** deliberately, wanting a site "approximately half-way between Toronto
+and Montreal" so as to draw campers from both; **"in 1925 Oconto opened for its first summer,"
+and she is called "its Director from 1925 to 1949"** — *against `camp-oolahwan.md`'s "Camp Oconto
+in Tichborne, Ontario (1924)", a one-year discrepancy now recorded in the article rather than
+resolved*; Oconto "virtually doubled its size in a few years" during the war, when **"many young
+British war guests were amongst the campers"**; on retirement in 1949 she bought a cottage at
+Kincardine, sat on the board of the **Julia Greenshields Home** in Toronto, and **raised her
+niece and nephew Barbara and Jack Halliday** after their father's early death; **she died in
+October 1970** after a severe heart attack earlier that year. And the opening-day story worth
+keeping: at Ouareau's first day the beds, ordered weeks ahead, had not arrived — **"Undaunted,
+Miss Halliday announced she had a wonderful surprise for them — they were all going to sleep on
+the floor! The children loved this."** The OCA archives, Labbett notes, refer to her as
+**"Halliday the colourful."**
+
+**`camp-oolahwan.md` patched accordingly**, source `22` added, header 21 → 22. The Oconto date
+discrepancy is stated in the article, not silently resolved.
+
+**★ CHARLES PLEWMAN, "Our First Seventy-Five Years of Camping" — a founder's own history, and a
+correction to his own dating.** At issue 87 he said "I think it was in 1909 I took my first
+group camping"; here he writes **"That was my experience as a boy of thirteen when I went to camp
+in 1903,"** and "All of the boys that I took camping from 1910 to 1920 had also taken the
+initiative themselves." **Both statements can stand — 1903 as a camper, 1909-10 as a leader** —
+and together they date him: born about 1890, a camper from 1903. The article's substance:
+
+- **"Older boys had been going to camp for twenty-five years before it had become the accepted
+  thing for girls."** On why: "a carry over from the Victorian era when it was considered a
+  greater asset for a fragile girl to be able to swoon at the right moment than to stand on her
+  own two feet… **As a teen-age boy I would never have dreamed of my sisters going to camp.**"
+- **On age**: "camping today was limited to teen-age boys… that was exactly the case during the
+  first twenty-five years of organized camping in Canada. **'Cradle snatching!' is the
+  exclamation that would have been made if you had taken a ten year old boy to an organized camp
+  in the year 1910.**" Early camps were "very much a rough and ready he-man affair with nary a
+  skirt in sight… **minus buildings, doctors, or women in any capacity**."
+- **★ On who initiated**: "Today in most instances it is the parents who persuade the boy to go
+  to camp; not so in 1915. Then, **in nine out of ten cases, it was the boy who persuaded his
+  parents to let him go camping.**" A structural claim about early camp recruitment worth testing
+  against Kanawana's own early record.
+- **On co-education**: "I can still remember **Holt Guerney telling Taylor Statten back in 1923
+  that it would be a big mistake to start a girl's camp on the same lake as Camp Ahmek for
+  boys**, particularly because he contemplated having some joint activities." A named, dated
+  objection to the founding of Wapomeo — directly useful for any coeducation article.
+- **★ On the director's role**: "Early camps had **'a star system'**, in which the camp director
+  was the dominant figure in all activities… many early camps actually were built around the
+  personality of the director! He was not adverse to playing to the gallery and **in some extreme
+  cases he became a stunt artist with a bag full of tricks**." Held against May Brown at issue 80
+  ("building around the director certain kinds of ceremonial activities"), this is the same
+  phenomenon named critically by an older man.
+- His reservation about modern camps: "he wonders whether we have not lost the romance of living
+  under a star-lit sky… **Some camps seem to have gone 'indoors' when they have get-togethers.**"
+- **"Even as late as 1923 you could count the number of Travel Camps in Ontario on the fingers of
+  one hand."** And "**it took over twenty-five years of organized camping to convince the general
+  public of its value.**"
+
+**Note the title**: "Our First Seventy-Five Years of Camping," published 1971, dates organized
+Canadian camping from about **1896** in Plewman's reckoning — a third estimate to set beside
+Ebbs's "more than 70 years" (issue 84) and Plewman's own "first fifty-five years" (issue 85).
+None is evidence against Kanawana's 1894; all three are round-number recollections.
+
+**★★ TWO QUEBEC FINDINGS IN HUGUETTE DAGENAIS'S "NOUVELLES DU QUÉBEC," both short and both
+important.**
+1. **"Félicitations au Camp École Trois Saumons qui fête cette année son 25e anniversaire. Bravo
+   à M. l'abbé Raoul Cloutier son fondateur et à Mlle Lucie Samson et l'abbé Patrice Turcotte les
+   deux co-directeurs actuels."** A 25th anniversary in 1971 dates the camp's founding to
+   **1946** — **against Cousineau's "some 21 years ago" at issue 82, which points to about
+   1948.** A two-year discrepancy on the founding of the camp that introduced hébertisme to
+   America, in the same magazine two years apart. **Record both; resolve neither.** Note that the
+   1946 date makes Cloutier's post-war camp founding even earlier relative to the QCA question at
+   issues 79 and 82, without changing the conclusion there. It also names his successors.
+2. **"M. Yves Beauregard, le directeur-exécutif de l'A.C.Q.-Q.C.A. a quitté le 1er février
+   dernier"** — the merged Quebec association had a paid executive director, now departed, and he
+   is named. And the grant: "**La deuxième tranche de l'octroi du Haut-Commissariat nous est enfin
+   parvenu fin février. Et la troisième?**" — the $30,000 provincial grant (issue 88) arriving in
+   instalments, late, with visible impatience.
+
+**★ Lionel Perras, "Variations sur le camp de jour."** The ACQ president on day camps, and the
+useful facts are the dating and the economics. **"Elle est née aux États-Unis en 1922"** — day
+camping dated to 1922 and to the United States. His definition contrasts the resident camp's
+"internat de Plein Air" with the day camp's **"externat de Plein Air pour une durée de 7 à 10
+heures par jour."** Origins: "au début, certaines organisations ont utilisé les parcs de la
+périphérie des villes, depuis la tendance s'est accentuée vers des sites de camp." The three
+shared objectives: develop a taste for the outdoors and the skills to live there; socially adapt
+the child through group experience; and provide creative experience. His **advantages**: more
+children at once because there is no food, kitchen equipment, or accommodation cost; an
+initiation for children "qui ne sont pas prêts psychologiquement à quitter le milieu familial";
+and homesickness much reduced. His **disadvantages**, which are the honest part: **transport
+costs more when the camp bears it**; the child's return home each evening "diminue l'influence du
+camp et contribue à replonger les enfants dans les problèmes familiaux"; attendance is less
+regular because children come voluntarily; and **"les enfants manquent des avantages des
+soirées."** His conclusion names the constituency: the formula matters "spécialement chez celles
+qui sont de milieux économiquement faibles." **A direct comparator for the YMCA of Montreal's own
+day-camp programme**, from the president of the Quebec association.
+
+**★ Kirk Wipper, "The Quest for Zest" — his most original argument in the run, and it is about
+drugs.** He opens with a list of vertigo experiences (a child whirling, a boy rolling downhill, a
+girl on a rope swing, a toboggan, a skier, "a paddler takes a deep breath and holds his paddle
+firmly as his canoe sweeps to that dark arrow of water before it breaks into foaming white"),
+extends it to animals (the chamois sliding down a glacier for no reason, the otter down a muddy
+bank, "a woodcock spirals high into the air at sundown"), and to ritual (**the Mexican
+voladores**, "natives whirl like ecstatic dervishes"). Then the argument: the **quest for
+vertigo** is universal and will not be suppressed, so the question is which form it takes. He
+plots a continuum — **skiing, shooting rapids, mountain climbing** (external, requiring
+resourcefulness, "temporary and fleeting, has definite terminal point") → **snowmobiling, auto
+racing, power boating** → **carnivals, midways, fairs** (passive, predetermined) → **drugs,
+alcohol, glue** (internal, passive, "may consume and enslave individual"). His conclusion: **"a
+significant rise in zestful experience of the positive form, could very well waylay, arrest,
+replace or impede the less desirable patterns."** And the by-product he cares about most: almost
+all the positive forms "involve the natural environment… The joy of daring, the extension of
+willingness to risk threshold, leaves the individual with a unique kind of respect for, and
+understanding of, the environment… **When people care there is hope for the survival of both man
+and the planet.**" Set beside Morawetz on drugs (issue 88) and Blackstock on calculated risk
+(issue 82), this completes a three-way argument the movement was having with itself in 1970–71:
+**risk as pedagogy, drugs as spiritual search, and risk as drug substitute.** He also notes that
+positive zest "is not readily available to large numbers of people, especially youth. For
+economic reasons, lack of accessible facilities, or through lack of enlightened leadership."
+
+**★ David Hartry, "C.C.A. — New National Office," dated 14 December 1970 — why the Ottawa office
+lasted less than two years.** After meetings with **Fitness and Amateur Sport consultant Mr. Cor
+Westland**, the OCA executive, and the head of the Ottawa Administrative Centre, "**it was felt
+strongly that the establishment of a National Office in Ottawa would be of no benefit to
+C.C.A.**" The OCA's terms are printed in full: **desk and filing space in the OCA office at
+$45.00 per month**; use of typewriter, duplicating machine, collator, folding and addressing
+equipment; use of the board room for executive, committee or editorial meetings; office supplies
+at cost. **John Latimer as incoming president "would be able to keep a close check on the office
+each day and pick up mail"** and hire a typist hourly. The Administrative Centre in Ottawa is
+retained only for **translation services** and consultation on legislation. And the money reason,
+stated plainly: **"Project Grants are still available to C.C.A. but little is available for
+administrative Grant to operate office anywhere… With the offer of O.C.A., C.C.A. will be able to
+operate from its own income."** So the federally funded national office of issue 83 was a project
+grant that did not renew for administration, and the national body moved in with Ontario. Worth
+recording because it is the concrete institutional history behind the address changes this read
+has been tracking.
+
+**★ Paul Chamberlain (Chairman, Watercraft Committee), "Planning a Purposeful Canoeing
+Clinic."** A complete costed model for running a camp-staff training clinic, useful as a
+comparator for any Kanawana pre-camp training record. Funded for three years from **Ontario
+Department of Education annual physical fitness grants** to the OCA. The distinction he draws
+matters: **the Ottawa Canoeing Instructors' Course is national, a full week, and confers
+Instructor and Assistant Instructor standing; the clinic is provincial, two or three days, and
+confers no award.** Four goals, then the economics: **minimum enrolment fifty**; a canoeing and
+tripping clinic run together to spread cost; **sixty-four counsellors at each of the last two
+clinics, yielding a small profit**; **$17 per person for Friday afternoon to Sunday afternoon**
+plus a **$6 return bus fee**, covering two dinners, two breakfasts, two lunches for seventy-two
+including staff, and housing thirty-three men and thirty-one women. Requirements: **at least
+forty canoes**, extra paddles, indoor space for two concurrent sessions, and waterfront for
+several separate small groups. Staffing: from two leaders for thirty canoeists in the first year
+to **seven staff with the two programmes deliberately run "out of phase"** so that up to five
+worked with twenty-eight canoeists at peak; staff volunteer, with transport reimbursed and a
+small honorarium. Publicity timing: a bulletin mention **by March** and a one-page mailing **late
+April or early May**, then reminders and personal letters to camps that supported previous
+clinics — "try to strike a median between obscurity and high pressure selling." And an
+often-forgotten practical point: **"in planning transportation it is important that one checks
+what modes of travel the Association's insurance policies cover."** Evaluation session by session
+by both counsellors and staff, because "the basis of your clinic of 1971 hinges upon a meaningful
+evaluation of the clinic of 1970."
+
+**Three camps for the handicapped in Nova Scotia**, three first-hand reports — the practical
+counterpart to Walker's Alberta projection at issue 89.
+- **Camp Atlantic** (Nova Scotia Diabetic Camp, Pictou County), by counsellor Allison Hagen: the
+  purpose "to help teach the kids to become independent"; **"by the end of camp all the campers
+  could inject their own insulin and knew how to care for the equipment"**; the programming
+  problem was "the planning of the program around snack times and meals," with activities
+  shortened accordingly; **"Women's Liberation Day"** is recorded as a camp event, at which "the
+  girls tried to prove their superiority… but the boys only handed them some of the hard work."
+  Named staff: **Dr. Phil Bagnell**, nurse **Ann Johnson**, dietician **Valerie Aylward**.
+- **Camp Tidnish**, by 1970 director Carolyn Jack: **the Amherst Rotary Club has sponsored camps
+  there for thirty-three summers, since 1937**, now "considered to be a $100,000 investment";
+  **178 campers in 1970, 100 physically disabled and 78 "mentally retarded," in two-week
+  sessions**; five buildings, a paved area "used by the wheelchair campers"; and the line that is
+  the whole difference from an ordinary camp — **"The normal child can adjust to a camp schedule
+  easily. At Tidnish, the schedule must be adjusted to the campers."** A **"Special Olympics"**
+  with wheelchair races, javelin, shot put and Indian wrestling, points for participation as well
+  as winning. Its five stated purposes include one rarely written down: **"to support family
+  relationships by providing a program outside the home which will permit the parent some freedom
+  from the daily care of the child."**
+- **Westmount Day Camp** (Halifax Recreation and Playground Commission), by 1970 director Ginny
+  Baker: **twelfth season**; two camps, one for "the trainable retarded" and one for the
+  physically disabled, about 45 and 30 children; **staff included three junior leaders who
+  attended Ardmore School, two high school volunteers and six paid staff "one of whom was
+  handicapped"**; and, because of where they were sited, **"we were integrated with
+  non-handicapped children on the playground… It was a new experience for both."** Also worth
+  noting: **"We were very fortunate in having some feedback from the campers in last year's
+  program who criticized it because it did not meet the needs and interests of the older
+  children"** — camper evaluation actually changing a programme.
+
+**Charles Cook (Camp Sharbot), "The Most Valuable Aspect of My Camp."** An argument against
+specialisation, in a period when specialised camps were multiplying: "We have music camps, riding
+camps, French camps, drama camps, hockey camps… **I think we have gone too far already. As the
+concrete spreads across southern Ontario, the need for summer camps to offer an all-round outdoor
+experience increases, not decreases.**" His case: "Children, especially boys, jerk through life
+from enthusiasm to enthusiasm and to commit them for six or eight weeks to a limited activity on
+the basis of one of these bursts is a mistake. **Let them flit from flower to flower and, when
+they eventually settle, they will at least know what the whole garden looks like.**" And his
+answer to measurement, which is the period's standing reply to the researchers: "How do you
+measure the impact of camp on a child? I suggest you watch his face as he lands a 2-lb. bass…
+**You can't measure them, but they are real.**"
+
+**Rob McKinnon (22, Camp Kilcoo), "Live Well — And Please Live Free."** A counsellor's chapel
+talk to his own eight campers, printed as given. Its argument is about freedom and limits: "**All
+of us are born with total physical freedom… And then… we get spanked. This is the first real
+infringement on our freedom**"; politics, religion, education and society as walls; and the
+resolution — "**I'm happy because I know where my walls are, and I can live comfortably within
+them. For if I haven't those walls… then my freedom becomes meaningless… If I'm not content…
+then I have to learn to push back a wall.**" His list — "**Freedom is getting up at 2 a.m. to
+watch a lightning storm… Freedom is skipping swim instruction on a cold day… Freedom is being
+happy to say 'thank-you' to your parents for your summer at Camp… Freedom is riding on your
+Counsellor's shoulders**" — and the poem "To My Campers Sleeping" that follows it are the same
+lights-out material as Latimer's at issue 89, here from the counsellor's side and from a
+twenty-two-year-old. Also a plain statement of the period's gender policing, quoted as written:
+"This Society has taught me… **don't be warm and feeling (That's not masculine)… don't cry
+(That's feminine).**"
+
+**R. Favreau, "Si c'était vrai" ou "Paix mes agneaux."** A free-verse polemic in French against
+founding camps carelessly — "On fonde un camp sans se préparer sérieusement / Vite on se lance à
+l'aventure en apprenti-berger / sans savoir où l'on va" — with the central image of **"une navire
+fantomatique en y faisant montrer une cargaison humaine… des enfants, par une mer houleuse et
+inconnue sans but ni boussole."** Its target is the visionary founder "imbu de rêves éthérés" who
+conceives "de vagues projets mythiques 'sentimentiques et poétaux'" while the money comes in. The
+same argument as David Palter's two case studies at issue 88, in verse and in French.
+
+**Two further Edgar items.** **Mary Edgar's *Once There Was a Camper*** is reviewed twice, at
+$1.75, and the review supplies a fact worth recording: **"she has donated all royalties from the
+sale of the book to the Canadian Camping Association."** Margaret Govan's notice adds that the
+rhymes "are exactly right for camp-fire programmes… **they could be changed from the feminine to
+the masculine gender!**" and that "throughout the book, you are much aware that all campers,
+stupid, innocent, capable or clever are beloved by Mary Edgar." *Note*: `camp-oolahwan.md`
+already lists *Once There Was a Camper* (1970) among Edgar's four books; the royalties gift to
+the CCA is new.
+
+**★ Mount Peskett, Alberta.** "**For the first time in the history of camping, a Canadian
+mountain peak has been named in honour of a camp director**" — **Reverend Louis "Lou" Peskett**,
+founder of **Frontier Lodge**, just off the David Thompson Highway midway between Banff and Red
+Deer, **who was struck by a falling rock on a mountain climbing expedition near the camp and died
+a few days later**. The camp was "an outgrowth of Rev. Peskett's parish work with troubled
+youths," built with their help "cutting through virgin forest." Signed E.F. (Eanswythe Flynn).
+
+**Smaller items.** **Helen Stewart's "Outdoor Cookery"** supplies eight recipes from *Cookery for
+Kids, Kamp 'n' Kicks* — **Frank Canoes** (hot dogs slit and stuffed, foil-wrapped, 6–8 minutes,
+"do not turn"), Bar-B-Q Beans and Franks, **Spoon Cakes in Chocolate Sauce**, California Settler's
+Stew, **"Squaw Corn"** (bacon, canned corn and eggs; the name recorded as printed and dated),
+Beach Boy Bread, hot gingerbread with apple sauce, and Toasted Jamwiches. Two book reviews on
+**encounter groups and sensitivity training** — Jane Howard's *Please Touch* and Arthur Burton's
+*Encounter* — with a warning that reads across to camp staff training: "**Too many people who
+have no qualifications are attempting group leadership**… The individual who is already under
+stress, or the creative individualistic person who is not group-oriented may find the group
+experience meaningless or even damaging." A note that **a Langford canoe made in Muskoka went to
+the Ontario Pavilion at Osaka**, was donated by Mr. Treadwell to the Muskoka Division of the Boy
+Scouts, and was in turn donated by them to the **Boy Scouts of Japan**, "and as far as we know,
+there the canoe remains." **KOA (Kampgrounds of America) Canada** advertises for the first time —
+franchise family campgrounds, a different industry arriving in the magazine's pages. Officers
+change: **Ron Johnstone is OCA president**, **Arnold Cohen** Manitoba president, **John Latimer**
+now CCA president with Hartry past president.
+
+Nothing in this issue names Kanawana. Its value is the Centenary Journey *Journal* now published,
+priced and orderable; Halliday's obituary making Oolahwan the origin of her camping career, now
+patched into `camp-oolahwan.md`; Plewman's founder's history of the first seventy-five years,
+including a named 1923 objection to founding Wapomeo; the Trois-Saumons 25th anniversary dating
+its founding to 1946 against Cousineau's ~1948; Perras on day camping; and Hartry's plain account
+of why the CCA's Ottawa office closed.
