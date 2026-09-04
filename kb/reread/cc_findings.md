@@ -22739,3 +22739,121 @@ teepees, braves, tomahawks, the peace pipe — which is one more datum on how du
 publications list, which shows where the movement's reading had moved: *The Cooperative Sports and
 Games Book*, *Everyone's Guide to Home Composting*, *Concise Book of Winter Camping*, *Complete Guide
 to Orienteering in North America*.
+
+---
+
+## 129 — Vol. 32 No. 1, February 1980
+
+Twelve pages, and the worst OCR of the run so far — the text is heavily interleaved and several
+passages are unreadable. Every item accounted for: date changes and an American Canoe Association
+centenary notice; the CCA committee, project and task force chairmen for 1980; Classified; Staff
+Motivators (Bruce Harris); Executive Director's column (Marjorie Booth); FORMATION — extracts from
+the Quebec Camping Association's Director Education Program, in French; Coming Events; The
+Counsellor's Page — A Counsellor's Commitment (Barry Lowes); a book notice for *Sunship Earth*; a
+job advertisement; the Royal Chinet advertisement. **Kanawana is not named.**
+
+**★★★★ THE QUEBEC ASSOCIATION'S OWN STAFF-TRAINING CURRICULUM, DATED FEBRUARY 1976.** The newsletter
+begins serialising "**the Quebec Camping Association's Director Education Program**" — printed in
+French as "**Formateurs-multiplicateurs**", and dated in the accompanying note: "Ce programme… **était
+préparé par l'Association des Camps du Québec en février 1976**." This is the only Quebec camp
+training document this project has seen in full, and it covers exactly the period of Kanawana's
+thinnest records. **Written into `canadian-camping-movement.md` as a new section (sub-source 8aj)**,
+and `p_314` extended.
+
+Recruitment sources: "**le personnel actuel, les anciens du camp, le milieu scolaire, collégial,
+universitaire**", specialised faculties — "**récréologie, éducation physique, psychologie**" — the
+**centre de main-d'œuvre**, and "**le service offert par l'A.C.Q.**", so the association ran its own
+placement service. Selection is by interview, prepared with a form: "**un formulaire est nécessaire
+pour obtenir les renseignements utiles… (cf. feuille A.C.Q.)**" — **the association issued a standard
+interview sheet to member camps**, a specific document now added to the enquiry list.
+
+The advice is better than the English-language equivalent of the period. "**Le style de l'entrevue
+détermine le style de leadership d'un camp.**" Questions must draw out ideas and feelings, not yes or
+no, and must not be confined to the camp but be "une occasion de se connaître mutuellement" — the
+four samples printed include "**Qu'est-ce que tu respectes chez les autres?**" and "**Quel genre de
+musique préfères-tu écouter lorsque tu es joyeux?**" Do not cut off an interesting discussion by
+pleading time. Senior camp staff may sit in. End with a summary and a clear statement of the next
+steps and of your intentions. And then evaluate yourself: "Avez-vous écouté ou avez-vous trop parlé?…
+**Avez-vous vraiment écouté ou si vous étiez impatient d'entendre la réponse que vous désiriez?**
+Avez-vous trop insisté sur vos propres valeurs plutôt que de laisser le candidat s'exprimer?" **Next
+month's instalment is on integrating and orienting staff — watch for it.**
+
+**★★★ ORAL HISTORY IS FOLDED INTO ARCHIVES — `p_319` refined.** The 1980 committee list reads
+"**Archives and Oral History — Miss Helen Stewart**". The separate project under Jay Haddad (issues
+116, 124) has been merged into the Archives committee under one chairman. **That simplifies the
+search**: the tapes and the 1976 pioneer list should be wherever the Archives committee's material
+went, which Adele Ebbs says was Trent. `p_319` updated to ask Trent for the Archives committee's
+accessions of 1976-1980 as a single body, under Ebbs, Stewart and Haddad's names together, rather
+than for an "oral history collection" by that name.
+
+**★★★ DEREK WALSH NOW CHAIRS TWO COMMITTEES — confirming what the wiki has for 1980.** The 1980
+slate: **Public Relations and Promotion — Mr. Derek Walsh, Vice-Pres.** and **Legislation — Mr. Derek
+Walsh, Vice-Pres.** `people/derek-walsh.md` already records "1980 | CCA committees: Legislation;
+Public Relations and Promotion", from the earlier pass; **the read confirms it rather than adding to
+it, and no change was made.** The rest of the slate, for the record: Education — Linda Arnold;
+Finance — Wayne Perkins; Leadership Development — Jean Funk; Constitutional Review and Nominations —
+Jack Pearse; Concerns — Murray Wickwire; French Language — **Abbé** Rosaire Corbin (given his title
+for the first time in this run); Liaison — Larry Bagnell; Publications — Fred Okada; Skill Schools —
+LaVerne Jantz. Projects: Conferences — John Latimer; Woodsmanship — Kirk Wipper; Newsletter — Brian
+Blackstock. Task forces: Immigration — Barry Lowes; Membership — Shanley Parkinson; Recreation Canada
+— Ron Johnstone; **Standards — Mr. Peter Van Wagner** — the younger Van Wagner (issue 104) chairing
+the national standards task force in the year his namesake was President Emeritus.
+
+**★★ A NATIONAL EXECUTIVE MEETING IN MONTREAL.** "The C.C.A. has changed the place of its next
+Executive Meeting from **Halifax on February 17** to **Montreal on March 13-14**" — and the ACQ's
+Semaine des Camps was moved to **12-18 March 1980**, so the national executive met in Montreal during
+Quebec's camp week. Another dated Montreal occasion whose minutes would name Quebec camps.
+
+**★★ Bruce Harris on staff motivation**, from his Geneva Park session "Staff Hiring and How to Keep
+Good Staff", with thirty-five experienced camp people from across Canada. He asked each to say why
+they returned for a second summer: "**Out of 35 responses, salary was only mentioned once, and as a
+secondary reason.**" They returned "because it was a satisfying experience, they felt needed, they
+enjoyed the atmosphere, the feelings of responsibility." His eight principles are the fullest
+statement of camp staff management in the run, and several bear directly on how a camp's records
+should be read:
+
+- "**The first efforts of a staff member must be simple enough to insure success**… Frustration at
+  the outset is death to the efforts of a staff member."
+- Every job must be visibly connected to the whole — "**the mundane task of checking a camper's
+  personal health goes unrecognized… until suddenly that little cough produces a fever**."
+- "**It is difficult to lose a cook in the middle of a summer. But what about a person doing dishes?
+  It could take only one set of dishes done poorly to lead to an outbreak of disease, serious
+  sickness, possible loss of health license and closing of camp.**" — printed four issues after
+  Madelene Allen's tribute to her chef (issue 127), and the same argument.
+- On burnout: "**Can your head of sailing be effective four summers in a row? Where is the
+  challenge?**"
+- And a thought experiment worth quoting whole: begin pre-camp by announcing "**As of this moment we
+  have no camp policies regarding days-off, curfew, drugs, alcohol, use of the camp kitchen after
+  regular hours, staff lounge**… in fact no major policies at all", and ask the staff to write them.
+  That list is itself a record of what a Canadian camp in 1980 had policies about.
+- On what to do afterwards: "**Take time to write a personal letter of thanks soon after camp. Such a
+  letter is a lasting reminder of your appreciation.**"
+
+**★ Barry Lowes to counsellors**, in the same register: "You are going to camp for fun, friends and a
+vacation. They're important. **However, when you take on the responsibility for a group of campers,
+you are making a commitment, because you, more than anyone else at camp, will determine the success
+of your campers' summer.**" With two lines worth keeping — "**remember it is a child's vacation, not
+military school**" and "**campers did not choose you, but you are the key to their summer**" — and,
+among the commitments to the camp, "don't debunk, i.e. '**at my last camp we did it better**'", "see
+the job through, don't quit after two weeks", and "conduct yourself in town to reflect favourably on
+camp."
+
+**★ Marjorie Booth's first column as Executive Director**, written in both languages, and a request
+that matters for this project's understanding of the newsletter: "**Many times I've come across great
+articles in provincial newsletters. If each province can continue (or begin?) to include C.C.A. on
+their mailing list for a few copies of newsletters, conference programs, etc., 'Canadian Camping' will
+be able to carry articles from all parts of the country.**" **Much of what this run prints from 1980
+onward is therefore reprinted from provincial newsletters** — which means the provincial newsletters
+are a parallel body of material this project has never touched, and the Quebec one is the one to
+want.
+
+**Minor.** The **American Canoe Association's centenary** in 1980, with a canoe festival at Clayton,
+N.Y., and **Sugar Island out from Gananoque, Ontario, 9-14 August**, including "gatherings of antique
+canoes." Steve Van Matre's *Sunship Earth* (ACA, 1979, 259 pp., $9.95) is advertised with its
+sun-ship conceit — "all of us are passengers on a small, self contained vessel travelling through the
+immensity of space." **Camp Glenburn**, "a 22 acre residential camp owned and operated by the **Saint
+John Y.W.C.A.**", advertises for a full-time director — the same YWCA Marjorie Booth had come from —
+with a job description worth noting for comparison with Kanawana's: "direct summer camps; develop
+year round camping programs; co-ordinate and supervise winter camp; publicity and promotion; budget
+planning and control; staff hiring and volunteer recruitment." The **Lachute former boys' camp**
+advertisement runs for a third issue.
