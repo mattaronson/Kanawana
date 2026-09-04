@@ -18202,3 +18202,265 @@ miles north of Toronto, a partner wanted for a Haliburton Highlands camp, and a 
 an experienced male camp director — the small ads of a contracting sector. The CCA's Toronto address
 has acquired a postal code, **M4P 1E1**. Photographs courtesy of **Jay Haddad**. No Kanawana and no
 YMCA of Montreal reference in this issue.
+
+## 99 — Vol. 25 No. 4, Summer 1973
+
+Contents page checked. All items read: Have You Heard? Do You Know?; A Message from the President;
+The Water Cure; Poems (Mary S. Edgar); National Camping Day; Letters to the Editor; Make Your Own
+Paddles; A Programme Idea; Tips; Campcraft Can Be Fun; Along the Bookshelf; Classified Ads; Camp —
+An Oasis; Camp Counsellors Should Be Camp Counsellors; Look for the Hidden Dimension; You and Your
+Kitchen. (The Outdoor Cookery column is absent, with an editor's note saying it returns in the
+Fall.)
+
+**★★★★ `p_312` IS ANSWERED IN ONE SENTENCE.** From the Vancouver Board of Directors meeting,
+reported in the news column: "**A new Committee, ARCHIVES, is to be established to gather material
+and documents to be housed at the University of Waterloo and made available to anyone in Canada and
+the world.**"
+
+So the Canadian Camping Association's archive — the one soliciting two copies of every camp's
+brochure in Fall 1972 (issue 96) — was to be deposited at **the University of Waterloo**, not
+Trent. That is a specific, checkable destination for a collection that by design would contain
+material from every member camp in Canada, Kanawana included. It is a different institution from
+the OCA deposit at Trent (October 1970, issue 88) and from the Mary S. Edgar fonds, also at Trent.
+**Priority `p_312` updated with the answer and a narrowed next action: query the University of
+Waterloo Library's Special Collections & Archives for a Canadian Camping Association fonds.**
+
+**★★ Mary L. Northway, "Camp Counsellors Should Be Camp Counsellors" — the counter-voice on camp
+ghost stories, from the highest possible authority.** Northway (Brora Centre, Toronto) is the
+co-author of *The Camp Counsellor's Book*, the standard Canadian text, recommended in the same run
+by the CCA's own publications service and in the OCA staff-manual outline. In this essay she
+writes:
+
+> "One of the strange beliefs of our society is that it is wrong to be afraid. A counsellor who
+> ridicules or condemns a child's fears may succeed only in having the child repress, rather than
+> express them, and such repression is the source of many later mental health evils … **Supernatural
+> fears from spooky stories and myths about malicious ghosts have no place in the young camper's
+> life, nor have unnecessary fears of night raids or hazing. There are enough things to be afraid
+> of in the civilized, atomic world, that there is no need to produce artificial terrors.**"
+
+**This is the argument on the other side of the camp-hoax material at issues 89, 94 and 97**, and
+it belongs in `wiki/traditions/myths-and-legends.md` beside them. Within eighteen months the same
+magazine printed a how-to for the camp hoax, a director naming "a hoax" among the traditions taught
+at pre-camp, and the country's leading authority on camp counselling saying ghost stories have no
+place in a young camper's life. Hartry and Attfield both volunteered the same caution about
+frightening children; Northway states it as a rule. **A camp running a Chopsy in the 1970s was
+doing something the profession was actively arguing about**, which is a more interesting and better
+documented fact than either approval or disapproval alone.
+
+The rest of the essay is the best short statement of the period's counselling philosophy this read
+has found, and it is caustic. On the job description: "**The modern camp counsellor apparently
+should be a mixture of Superman and an archangel** … trained, presumably at the graduate level in
+sociology, psychotherapy, group dynamics and perhaps even nuclear physics … In time, perhaps, the
+human species will evolve such creatures; meanwhile, camp directors who want a staff must choose
+ordinary human beings." She reduces the requirement to two things — **the ability to camp and the
+ability to counsel**. On the first: "One has to be clever to live simply"; camping skills are
+"important, not as ends, but means"; and the counsellor "should know the value of time spent in
+doing nothing but watching … **'Program' is often so full there is no time left for living.**" On
+the second: being "**more interested in children than in himself**," against the undergraduate who
+"resolves to get these guys toughened up into athletes and turned into miniature replicas of
+himself." And on the unglamorous part — supervising hand-washing, planning toilet time, buttons
+sewn on, shorts patched, laundry sent — "as soon as these are forgotten, the camper's life and the
+camp's life become a drastic muddle." Her line on camp variety is worth keeping: a four-year-old
+seeing a St. Bernard says "some dogs look like dogs" — "so some camps look like camps, but within
+the species there is as much variety to be found as amongst different breeds of dogs."
+
+**★★ The CCA's finances, stated plainly, and what they say about the sector.** From the Vancouver
+board meeting: "**The C.C.A. is having financial difficulties … Fees to C.C.A. have not increased
+for over 15 years**," and the provincial associations are being asked to help cover "**a deficit
+budget of over $2500 for the coming year.**" The magazine is named as one of the problems: each
+provincial president has undertaken to find an advertising agent to produce **one page of
+advertising per issue**, "since the advertisements must pay for the printing of the magazine," and
+"**all the advertisements appearing in the last three issues have been tracked down by Paul
+Rushton**" alone. Also given: the CCA has "**about 600 Member Camps serving some 400,000
+campers**" — a national scale figure, against Trudeau's "almost half a million" the previous
+summer.
+
+**★ Other business from the same meeting.** **Claude Cousineau appointed CCA liaison with the
+Ministry of Transport on the policy-forming committee regarding life jackets**, with every province
+asked to send him its views — a datable moment in how camp waterfront regulation was made.
+**Lorne Brown** asked to investigate a programme for instructors in **Nature Lore, Campcraft and
+Survival**. **Stan Wild** reported the revised constitution circulating **in both official
+languages**, with the final vote due **no later than 30 October [1973]**. **Val Willis has accepted
+the responsibility of putting together a National Code of Ethics** — another normative document to
+track. **P.E.I. is rumoured to be considering joining.** Officer changes: **Ron Johnstone** becomes
+regional vice-president as **Jack Pearse** moves to the board as the new **president of the OCA**;
+**Gordon Stewart** (Manitoba), **Michael Pezderic** (Saskatchewan) and **Rev. Père Rosaire Corbin**
+(l'Association des camps du Québec and QCA) join as new provincial presidents. Latimer read
+telegrams of good wishes at the annual meeting **from Mary S. Edgar and Pierre Trudeau**.
+
+**★ A Quebec name to watch.** "A belated but gentle tip of our hat to another gracious lady who
+has, for many years, been a firm supporter of the Q.C.A. — **Mrs. Alta Kahn**. A richly deserved
+honour will be bestowed on her by Q.C.A. in May and **our fall edition will feature an article
+about her**." A long-serving Quebec Camping Association figure with a profile promised in the next
+issue (100). **Read issue 100 with this in mind.**
+
+**★★ Six letters on the Geneva Park National Workshop, one per province — the fullest account of a
+national camping gathering in this run, and Quebec appears in it twice.** **Yves Beauregard,
+Quebec**, writes the only French letter: the workshop was "un pôle important des professionnels que
+nous sommes … **Après tout, les camps … c'est nous!**" Two English letters single out the Quebec
+delegation for the singsong: **Bob Lazanik at the piano** (John Hanlin, Alberta) and "the warm
+fellowship of our French Canadian delegates and their beautiful songs" (Blanche Potter, Nova
+Scotia). The workshop's structure is recoverable from the letters: **camp directors chose three
+from eight workshops**; sessions named are **"Recruiting Campers" led by Bruno Morawetz**,
+**"Funding" led by Ross Seaman** — "left us the most to grapple with in terms of new information"
+(Morley Lee, Manitoba) — a session on **recruiting and training camp staff** covering "various
+approaches to interviewing prospective counsellors and also the content that should be in the
+application form," a workshop on **meeting the changes of society**, and a **Standards Workshop**
+that John Hasell of B.C. found frustrating. Opening and closing were an **audio-visual presentation
+by John Latimer and Jay Haddad** and a final session featuring **Mary Edgar and Ron Johnstone**.
+Joy Rennick (New Brunswick) records the formulation that came out of it: "**Camping today is not
+one of physical survival but of psychological survival.**" Doug Dent notes "**all sessions were
+recorded to allow for a written résumé for all who attended**" — so a written record of the February
+1973 national workshop was produced and circulated, and is a findable document. Ross Seaman's
+funding session was already recorded in `wiki/people/a-ross-seaman.md`; this issue is where that
+came from, and the surrounding letters confirm it.
+
+**★ Jack Pearse, "Camp — An Oasis" (subtitled "an oasis which is apart from, rather than a part of,
+society").** Director of Camp Tawingo and incoming OCA president. Opens with a first-person account
+of returning in spring 1973 to the camp where he first swam, first tripped, first held staff
+position and first led a singsong, unvisited since 1953 — and finding almost nothing: the boathouse
+he lived in burned down and replaced by an outdoor theatre; **the Tent Alley gone**, with its
+"roughly-hewn archway" bearing the camp motto in logs, "**I'm third**" — God first, the other
+fellow second — replaced by cabins; and "a post that was once a corner of the stage was all that
+remained of the Council Ring," a bigger one built elsewhere. "**I didn't know a single person I met
+in my stroll around my camp.**" Then: a rock with "**J.P. 1946**" painted on it from a day spent
+painting canoes, and a noon-hour singsong from **song sheets he had put together in 1941**,
+including **a song composed by his father in 1934** — "And I knew those songs as well as anyone in
+the dining hall." His conclusion, which Latimer quotes as the issue's keynote: "**it is not a
+generation gap but a lack of common experience that creates a gap between people.**" Anyone writing
+about what continuity means at a hundred-year-old camp should have this piece; it is a camp
+director's own account of finding his camp physically gone and its songs intact.
+
+He also quotes Ruben Nelson, keynote speaker at the 1972 OCA conference, on a culture with "little
+direction or destination, only speed of movement": the ship's captain who tells the crew the bad
+news — "**We are utterly and hopelessly lost. Our maps are burned, our compass is broken**" — and
+then the good news, "**We are 3 days ahead of schedule.**" And he cites *Fiddler on the Roof* for
+the defence of tradition ("**Without our tradition, we are as shaky as a fiddler on the roof**"),
+qualified: "**If it is a good tradition, then it is worth keeping**" — set directly against
+Latimer's "certain traditions must be maintained — but they must make sense." Two consecutive
+issues arguing over which camp traditions deserve to survive, in 1973, is the frame for any account
+of what Kanawana kept and dropped in the same decade. He also quotes **Ellen Bilgore, "What Makes a
+Good Camp?", *Saturday Review of Education*, April 1973**, on a successful American camp: "an
+environment in which the agonies of the world are carefully siphoned out. **No drugs, no sex, and
+apparently no interest in either.**"
+
+**★ "It's Wise to Supervise" — an OCA publication on staff supervision, advertised at $1.25.**
+"An authoritative discussion on Staff Supervision in Summer Camps," endorsed by the Ontario Camping
+Association, ordered from the OCA office. **A published, purchasable statement of what camp staff
+supervision was supposed to be in 1973** — the fifth period document on camp staff practice this
+read has found, after Moon (79), the CIT study (83), the OCA job-negotiation guidelines (96) and
+Blackstock's contract and manual outline (97). Directly relevant to `p_307`; worth searching for.
+
+**★ Mary S. Edgar's poems, composed for the Geneva Park conference.** Three printed — "An Everyday
+'Thank-You'", **"A Camp Vesper Prayer"** and **"The Bumble Bee"** — with an editor's note that Edgar
+"has provided extra copies of these poems for distribution" on request. Dent's National Camping Day
+programme then recommends "A Camp Vesper Prayer" as "a fitting part of the evening," so an
+eighty-four-year-old founder was still writing the movement's liturgy and it was being circulated
+nationally for use on a set date. "The Bumble Bee" is the notable one: "**'The bumble bee should
+never try to fly!' This is a scientific fact, they say … The bumble bee has never heard of this,
+the law of gravity he still defies.**"
+
+**★★ Doug Dent's National Camping Day, and its 1972 verdict.** The 1973 date is **Wednesday 18
+July**, culminating at **9:30 p.m. Daylight Saving in each time zone** — a change from 1972, when
+all camps observed one simultaneous instant; the reason given is that "some camps prefer not to be
+restricted and some may not be so physically located." The suggested programme is a torchlight
+parade to a **floating campfire**, then "Taps" or the camp's own song. Five objectives restated, now
+including "to make the public and media aware of the **beneficial use of land and environment** made
+by such camping operations." **A song list is printed** — "This Land is Your Land", "It's a Long
+Road to Freedom", "Get Together", "My Country is My Cathedral", "Four Strong Winds", "Sounds of
+Silence", "As I Open the Door", "Happy Wanderer", "Jacob's Ladder", "Something to Sing About, This
+Land of Ours" — **a 1973 national camp-song repertoire, circulated from the CCA office to every
+member camp**, which is a real transmission path for songs turning up at Kanawana with no local
+origin (compare the songbook appeal, `p_311`, repeated again in this issue). But the editor's note
+on 1972 is blunt: "**the response last summer was rather disheartening … the bulk of the response
+coming from the Girl Guides and Ontario.**" So National Camping Day was largely ignored outside
+Ontario, and the absence of any Kanawana observance in the record is unsurprising rather than
+significant.
+
+**★ Jack Pearse on pre-camp staff orientation themes.** At Camp Tawingo the whole pre-camp week ran
+under one theme, "**A happy Camper is …**", each session leader prefacing his presentation with it —
+"A happy camper is a healthy camper" from the health director, "a singing camper" from the music
+director. Staff were given a **"MATCHED" button**, the letters standing for **Make A Tawingo Camper
+Happy Every Day**. He also prints a chorus and his own third verse of "**Talk About Peace**" by
+**Joe Lawrence of The Travellers**, and the theme under consideration for the coming year: "**I know
+where I'm going … and I know who's going with me.**" A named, dated pre-camp orientation method, of
+exactly the kind Greenway described at issue 94.
+
+**★ Bruno Morawetz, "Make Your Own Paddles."** Demonstrated at the OCA conference **by one of his
+campers**. Materials: clear basswood free from knots, a rough 1" × 6" board six feet long; wood
+vise, saw, sharp drawknife, steel rasp, sandpaper. Method given step by step — trace an existing
+paddle, saw relief cuts about 6" apart, rough out with drawknife or chisel, shave to the pencil line
+before rounding anything, then mark a line ½" from the edge to set the ultimate edges of blade, grip
+and shaft; **shape blade and grip first, leaving the shaft completely square** until they are
+finished. Warnings against thinning the indenture under the grip or the throat. Finish with linseed
+oil, several coats, "**stay away from varnish altogether**." Also made at Ponacka from **maple and
+black cherry** — "much harder to work in, but they make lasting paddles." Take with Danson's note
+(issue 98) that campers painted their OCA canoeing awards on their own paddles: a camper could make
+his paddle and then record his awards on it.
+
+**★ Dr. Bruce Bocking (Camp Ponacka), "Campcraft Can Be Fun."** Opens with an accusation directors
+would recognise: they "search diligently for months looking for a super qualified instructor to head
+their swimming programme … but then turn around and, **at the last minute, quickly hire one or two
+counsellors who are relatively inexperienced to instruct in campcraft**." Argues campcraft should be
+compulsory for anyone tripping, and that skills be demonstrated briefly and then practised — "the
+finer points of axemanship … can be pointed out far more effectively by a skilled instructor to a
+camper who is wielding an axe." Programme ideas by age: fire-lighting, a pot of beans and "a simple
+trail of rice through dense woods" for the young; for older campers, an axe competition to chop
+through a 12" log, tree felling "so that the camp can be rid of a few dangerous dead trees", a
+canoe **orienteering race over a 10–12 mile course**, and pioneering projects — an "A" frame at the
+water's edge with a rope for a tarzan swing, log rafts raced, rope bridges, and **a lashed tower
+using a standing birch or ironwood as one leg**, with a ½" rope run from its top to an anchor 30
+feet out and a pulley to slide down into the water. And the **survival hike**: the most experienced
+campers dropped in pairs at isolated sites for **48 to 72 hours** with "only the clothes on their
+back, a survival kit and an axe", campers "unable to cope in foreign situations" screened out. A
+1973 statement of what a camp thought it could ask of a teenager, useful against Kanawana's own
+tripping and campcraft record.
+
+**★ "Diplomacy Day" (Camp Ponacka), a programme idea.** A replacement for "traditional Sunday
+afternoon programs such as Gold rush Day and Olympic Day": the camp divided into countries of about
+fifteen campers and two counsellors, each given a disproportionate share of raw materials (nails,
+wood, twine, sugar, cups, noodles, cloth) and **100 "Ponax"**; a Central Trade Board manned by
+counsellors; counsellors as ship captains and truck drivers to prevent border-hopping, with a fog
+horn blown at each port. Visitors act as tourists buying products "representative of the country".
+And **each country is given five bombs (painted sticks)**, each dropped costing the victim 5 Ponax,
+with losing nations forming alliances to pool bombs against the leader. A camp wide-game modelling
+international trade and bombing, in 1973 — worth setting beside Kanawana's own L&V Games and
+pageant tradition.
+
+**John H. Wilkinson (Keswick Youth Camp), "Look for the Hidden Dimension."** An argument, drawn from
+Edward Hall's proxemics without naming him, that "people reared in different cultures live in
+different sensory worlds" and that camps design programmes "in the light of our own culture (camp
+administrators)" without considering campers' backgrounds. Illustrated by his failure to see the
+cheese his cook could see on the second shelf of the cooler. Asks whether camps are "overlooking the
+influences of the forms of our cabin, tent, chalet, dorm, dining hall, chapel … on the behaviour of
+the people in them", and names "the results of overcrowding on the Canadian Indian" among the things
+his readers overlook. An early statement of cultural difference as a camp-programming problem,
+dated 1973 and recorded in the period's own terms.
+
+**R.M. Semple, Director of Dietetics, Humber Memorial Hospital, "You and Your Kitchen."** Blunt cost
+control: "**if I were to ask you the actual food cost per camper per day, doubtless no one would
+know**." Recommends standardised recipes "followed to the last pinch of salt", avoiding all spices
+"except salt and a little pepper", checking the garbage cans with the cook to see what campers throw
+out, keeping non-kitchen staff out of the kitchen, and making the **camp nurse responsible for daily
+kitchen sanitation inspection**. Two harder passages: "**Most camps are over-staffed and over-paid.
+If you hire students on an ego trip, that's all you will get**"; and "**Look at the possibility of
+hiring some of your campers to do some of the kitchen duties, e.g., floors and dishes. You could pay
+them at student rates or make allowances on the price of the vacation**" — camper labour offset
+against fees, recommended in print in 1973. He also notes caterers "have now moved into the camping
+field". And a heretical aside for the previous issue's tuck-shop enthusiast: "**Forget a tuck shop
+and sell from the kitchen.**"
+
+**Along the Bookshelf** (a new column, by Eanswythe Flynn): Barbara Froom's *Snakes of Canada*
+($6.95); Don Ian Smith's *Wild Rivers and Mountain Trails*, recommended to "take the drudgery out of
+'preparing the sermon'" for Sunday talks; and *A Teen-Age Guide to Healthy Skin and Hair* by Dr.
+Irwin Lubowe and Barbara Huss, recommended for "the library shelf or the counsellors' lodge",
+including "a chapter on the effects of drugs". Classified ads: **W. Bertram Danson advertising
+himself as a camping consultant** — "Director with over 25 years experience in all phases of
+camping, able to come to your assistance!" — and a 22-acre island camp for sale in Parry Sound
+District, owner retiring. An anonymous poem, **"The Water Cure"**, on the indispensable man: "Take a
+bucket and fill it with water — put your hand in it up to the wrist … the hole that's remaining is a
+measure of how you'll be missed." Also noted: the **Saskatchewan Camping Association is six years
+old this spring**, so founded 1967. Editorial committee gains **Barbara Currie** and **Bryan
+Graham**. Printers named for the first time: **Surrey Offset Printers Limited, Scarborough**. Cover
+courtesy Ontario Ministry of Industry & Tourism. No Kanawana and no YMCA of Montreal reference in
+this issue.
