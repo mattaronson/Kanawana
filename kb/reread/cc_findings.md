@@ -10498,6 +10498,23 @@ in February 1937 and was formally opened by Mr. and Mrs. Taylor Statten a year l
 in January 1938; the outlier is the single 1935 mention. Recommend the conflict record
 be resolved in favour of **founded 1937, officially opened January 1938**, with the
 1935 statement preserved and marked superseded. Ebbs also names **"Mr. Wallace Forgie,
+
+**[Corrected from issue 77, read 2026-09-04 — this recommendation was too confident and
+does not stand.]** Wallace Forgie's signed obituary, by **J. H. Ebbs, M.D.** — Adele
+Ebbs's husband, and so Forgie's nephew by marriage — states plainly: "**In 1935 he built
+Camp Tonakela near Madras, which was officially opened by Mr. and Mrs. Taylor
+Statten**," and credits him with "**thirty-two years of voluntary service**", which from
+his death on 1 December 1967 counts back exactly to 1935. So **1935 now has two
+independent documented supports as well**, one of them a signed memorial by a close
+relative. The honest position is that this magazine carries two well-attested dates —
+1935 (built) and 1937 (the twenty-first birthday of 21 February 1958, and Adele Ebbs's
+"since 1937") — with the Statten opening of January 1938 fixed by the *Madras Mail*. The
+likeliest reconciliation is **built 1935, camping from 1937, officially opened January
+1938**, but that reconciles the sources rather than reporting any of them. Two
+documented sources disagreeing with each other is a human decision point under the
+operator directive of 2026-07-07, so this one stays open: **open the conflict record
+with all three dates and their sources, and mark none of them superseded.**
+
 the Canadian founder"** — which ties the Tonakela story to the Forgie already
 documented in this read as the man who photographed C. F. Plewman at a YMCA camp in
 1903 (issue 64) and moved the Ottawa camp to Golden Lake in 1908. Forgie's stub now
@@ -12658,3 +12675,199 @@ Nothing in this issue names Kanawana. Its value is Van Wagner's death and Quebec
 the 1968 bilingual conference with simultaneous translation, the French section's
 non-membership in the CCA, the $12,000 Centennial grant, the Midland school-camp model,
 and *Sermons from a Summer Chapel*.
+
+## 77
+
+`canadiancampingmagazine_vol20_no2_1968winter.txt` — Vol. 20 No. 2, Winter 1968.
+
+Contents page (checked against this block): The Gap Is Getting Wider (unsigned) ·
+International Camping Day (Sophia Demetelin) · Charcoal, Fire, Wood (from *The
+Canadian Guide*) · Boys Camp! (Muriel Leeson) · Among Ourselves (C. F. Plewman on
+John R. Latimer) · Camping and Leisure (Kirk Wipper) · The Atlantic Provinces ·
+Creative Behaviour (Jean Darrach) · Wallace Forgie (J. Harry Ebbs) · Canadian
+Symposium on Recreation (Kirk Wipper) · Sermons Under the Sun (Nairn Waterman). All
+eleven covered.
+
+**★ WALLACE FORGIE, 1883 – 1 DECEMBER 1967 — the obituary, and a correction to my own
+issue-69 conclusion.** Signed by **J. H. Ebbs, M.D., F.R.C.P.(C)** — Adele Ebbs's
+husband, and so Forgie's nephew by marriage, which makes this a family memorial as well
+as a professional one. It gives Forgie the life this read has been assembling piecemeal
+since issue 38:
+
+- **Born 1883; died 1 December 1967.**
+- "He was known as '**Commodore**' by the many young leaders who came under his
+  influence **in Canada from 1908 until 1927**" — which brackets exactly the Canadian
+  span this read had already dated from both ends (the Golden Lake move in 1908, the
+  Alberta YMCA post he left in 1927).
+- "Many men knew him when he **served five years overseas in the First World War with
+  the Y.M.C.A.**"
+- "**Boys work in Western Canada** then occupied a number of years during which he
+  conducted **many canoe trips into the north-west**."
+- "**He was an associate of the late Dr. Hedley Dimock who was succeeded by Professor
+  Charles E. Hendry**" — which places Forgie inside the Dimock–Hendry line this project
+  already tracks, and gives `wiki/people/hedley-dimock.md` a colleague it does not have.
+- "**In 1935 he built Camp Tonakela near Madras, which was officially opened by Mr. and
+  Mrs. Taylor Statten. He then began thirty-two years of voluntary service**" —
+  1935 + 32 = 1967, internally consistent.
+- Known as "**Tah-Tah**" by the Indian children; the head of the **Child Health
+  Institute of Madras** said "**Wallace Forgie will be remembered in this part of the
+  world as an Albert Schweitzer**."
+- The camp's work as Ebbs describes it: built around a well that watered trees, filled a
+  swimming pool and supplied the surrounding villages; free first aid "to thousands of
+  local people" because the camp was fourteen miles from the nearest medical help in
+  Madras; convalescent care for children "discharged from hospital with no home"; and
+  emergency one-meal-a-day feeding during droughts that "has finally developed into a
+  routine vitamin and mineral enriched daily meal."
+
+**The correction.** At issue 69 I recommended resolving the Tonakela founding conflict
+"in favour of founded 1937… with the 1935 statement preserved and marked superseded."
+This obituary makes that untenable, and I have patched the issue-69 block in place to
+say so. **1935 now has two independent documented supports**, one of them a signed
+memorial by a relative with the arithmetic to match; 1937 has two as well. Two
+documented sources disagreeing is a human decision point under the operator directive,
+so the conflict record should be opened with all three dates — 1935 built, 1937 camping,
+January 1938 officially opened — and none marked superseded. **Forgie should now be
+spawned as a stub**: he has birth and death dates, a Canadian span, a war record, a
+family relationship to Taylor Statten, a named professional association with Dimock and
+Hendry, and a camp he founded and ran for thirty-two years.
+
+**★ QUEBEC — International Camping Day at Expo 67, and a new QCA president.** Reported
+by **Sophia Demetelin**, writing as **President, Quebec Camping Association Inc.**:
+"**Saturday, September 23, 1967** was an exciting day for the Quebec Camping Association
+Inc. – Association des Camps du Québec Inc. for that was the date set for the long
+anticipated **International Camping Day at Expo**. The theme was '**The Camper and His
+World – Terre des Jeunes**'." The luncheon speaker was **Howard G. Gibbs** — the Boys'
+Clubs of America man this read first met at issue 63 and who became ACA president-elect
+at issue 66 — who argued that "present day society is robbing children of their
+childhood because 'we want them to be adults'," and blamed the "**sputnik syndrome**"
+for school drop-outs and "hippies."
+
+The photograph caption and the report together give **the QCA's new Provincial Board,
+elected at Expo on 23 September 1967**: "**Mrs. Nicholas D. Demetelin, president;
+Robert Lazanik, A. Ross Seaman and Reverend Lionel Perras, vice-presidents; Paul
+Moreau, secretary; and Tony Shorgan, past president.**" Three things follow. **Sophia
+Demetelin becomes president of the Quebec Camping Association** — on the evidence of
+this run, its first woman president, and a name already in `facts.json` and
+`wiki/people/a-ross-seaman.md` only as a publicity officer. **Tony Shorgan**, who
+founded the French section in 1958 (issue 66), had been QCA president. And **A. Ross
+Seaman — Kanawana's director — steps down from the presidency to a vice-presidency**,
+which dates his QCA presidency to roughly 1966–September 1967 and should go into
+`wiki/people/a-ross-seaman.md` alongside the CCA vice-presidency for Quebec he holds
+simultaneously.
+
+**★ Seaman again, teaching evaluation in the Maritimes.** From the Atlantic Provinces
+report by Tom Creighton: "**Ross Seaman, immediate past president of the English Section
+of the Quebec Camping Association, was the resource person**" for the **first Atlantic
+Provinces Regional Camp Directors' and Administrators' Seminar, Moncton, N.B., 17–19
+November 1967**, eighteen delegates from Newfoundland to Halifax representing the
+Anglican, Baptist and United churches, YMCAs, Guides, Scouts, Boys' Clubs, and "a camp
+run by the Co-op Services, the 4H Clubs, and the Zionist Organization." Theme: "**the
+Human Relations Aspect in Camping**," with sessions on "the Role of Leadership, Selection
+of Leadership, **Methods of Measurement in Camping**, Group Function, and **Methods of
+Evaluation**." So Kanawana's own director was, in late 1967, the person the Maritimes
+brought in to teach camp measurement and evaluation — directly relevant to the
+staff-appraisal thread (`p_307`) and to what evaluation practice at Kanawana itself is
+likely to have looked like. A second dated Seaman engagement, and a strong argument that
+any Kanawana staff-assessment material from this period reflects a considered method
+rather than casual note-taking.
+
+**"The Gap Is Getting Wider" (unsigned, "For the Sake of Argument") — the most
+substantial account in this run of the generational break in camp staffing, and useful
+to any history of a camp's late-sixties staff.** Its picture of the 1968 counsellor: "Not
+having grown up in a depression he or she has very little idea of the real value of
+money"; senior staff are "second-year college students, worried about the pressure of
+courses, troubled by the new morality and their own lapses, **in revolt against their
+parents and the authority of The Establishment**… scornful of religion." On competence:
+"A counsellor, who on a bitterly windy cold morning arrives to breakfast wearing two
+sweaters, wool slacks and ski mitts **accompanied by her campers in shorts and
+sleeveless blouses**, is too young to be in charge of children." On promotion pressure,
+which is a real structural finding: "Counsellors used to stay with one Camp for three or
+four summers as a general counsellor then finally assume a position of importance…
+**Now, in order to keep these young people, we must advance them both money-wise and
+position-wise every year whether they are really old enough or not. If we don't, some
+other camp will**" — a mechanism that would show in any camp's staff lists as rapid
+turnover and young section heads.
+
+Two passages bear directly on this project's subject. On **transmitting camp
+traditions**: "Perhaps at your camp you have some traditions, passed down from year to
+year, basically unchanged since the camp was started. **They may be a little bit corny —
+but corny or not they call forth a tremendous upsurge of loyalty** from campers and
+former staff members. How do we get these across to new staff — people who have come to
+us from other camps who already have a loyalty to other traditions… **Schools and
+colleges have so much longer. Camps have two or four or eight weeks.**" That is the
+transmission problem W. D. Smith named at issue 73, stated from the tradition's side,
+and it is the best short answer in this run to why a camp's own customs go undocumented.
+And the author is fair to the young: "**When I was young and thoughtless, I didn't get
+all worked up about the Negro, the under-privileged, the war in Viet Nam**… Not for me
+the protest marches, the money drives, the sit-in strikes. **They have a feeling for
+humanity these young people, that you and I lacked.**" The conclusion: "young counsellors
+still feel much the same. **They want some standards, they want boundaries, they want to
+feel that someone cares whether or not they come up to expectations.**" Also listed, as
+things camps were actually trying: "One camp has a **Counsellor Council which decides
+matters of curfew, drinking, smoking, time-off and staff recreation**"; another holds
+year-round senior staff meetings; "Some camps **hire a psychiatrist and psychologist for
+counsellors as well as campers**"; another "pays a system of dividends after a successful
+(financial only) summer."
+
+**C. F. Plewman on John R. Latimer** — Plewman's second appearance (see issue 64 for his
+own memoir), now as past president of the OCA writing about the man who chaired the
+Centenary Journey. Latimer, born Toronto 1930, educated at Lawrence Park Collegiate,
+Victoria College and **Lorne Greene's Academy of Radio Arts**; President of the OCA and
+for twelve years Director of **Kilcoo Camp**, where he had **seventeen seasons** as
+camper, CIT, counsellor, waterfront director, section director and director. Plewman
+remembers him at seven or eight: "Turning to me he said, '**You know, Chief, someday I'm
+going to be a C.I.T. and a Counsellor at this Camp**', and not many years later he was
+saying, '**someday I'm going to own this Camp!**'" A second camper-to-director
+progression in the run, alongside Seaman's from age ten at Kanawana.
+
+**Kirk Wipper's summary of the Canadian Symposium on Recreation** — the Montreal event
+this read has been tracking since issue 73, now with its details. **10–16 June 1967, the
+Convention Hotel in Place Bonaventure, Montreal**; the founding members adopted the title
+"**Man and his Leisure / L'Homme au Loisir**" in recognition of the Expo theme; the
+founding group was the Parks and Recreation Association of Canada, the **Association
+Canadienne des Centres de Loisirs**, and the **Recreation Division of the Parks
+Department, City of Montreal**. "The Symposium succeeded in drawing together **the largest
+gathering of its kind ever assembled in Canada**." Speakers quoted include **Allan J.
+MacEachen**, Minister of National Health and Welfare ("The quality of a society is
+determined by what it does with its leisure"); **Dr. Celeste Ulrich** ("We are moving away
+from the puritan ethic in North America that insists work is worth but play is passion
+and therefore shameful"); and **Dr. Wilder Penfield** — the Montreal neurosurgeon — "In
+our great democracy all men are free to discover, each for himself, an impelling purpose
+in life… when purpose comes, idleness is changed to opportunity." A named Montreal
+gathering with a published record worth pursuing.
+
+**"Charcoal, Fire, Food," reprinted from *The Canadian Guide*, February 1966** — kept
+because it dates a change in camp cooking: "**most of us need practice in charcoal
+cooking**… (and most of it is done with charcoal now)." Methods given for making
+firelighters from waxed milk cartons, "**Firebugs**" (rolled newspaper tied every two
+inches, cut and dipped in paraffin) and "**Buddy Burners**" (corrugated cardboard coiled
+in a salmon can with a wick and paraffin), a collar improvised from a juice can, and the
+instruction to "**dunk partly-burnt charcoal in water and save it for next time**." Also a
+reference to Guide "**Heritage Camps**" held across Canada — the same series as the Doe
+Lake Heritage Camp of issue 72.
+
+**Muriel Leeson, "Boys Camp!"** — a comic mother's-eye account of sending a son to camp,
+worth one note for the archival record: on the application form's Personal Information
+section, "**No mother worth her salt does much about that. A boy will have enough trouble
+in life without mother running ahead like a herald, telling what she knows about him.**"
+A period observation on why camp records of a camper's background may be thin. Also the
+squirrel joke about weekly clothing checks: a mother who "inserted on her list, **TWO
+PAIRS OF DINOSAURS. They came back checked.**"
+
+**Jean Darrach on Sidney J. Parnes's *Creative Behaviour Guidebook*** — printed as an
+article rather than a review, and containing one quotable line from a Toronto
+conference: "**Professor Alan Klein told his audience they paid only lip service to
+creativity; the truth was they 'really hated creative kids' who made them uncomfortable
+and disrupted all their planning. The response of the group suggested that he had flicked
+a tender spot.**" Set beside Margaret Govan's list of campers she could do without (issue
+73), where "the creative camper" appears at number seven, this is the same admission made
+twice in a year.
+
+**Conference calendar of record**: Ontario, Inn-on-the-Park, **7–9 March 1968**; a
+Directors' Seminar in **Ottawa, 8–11 February**; **Quebec, Windsor Hotel, Montreal, 14–16
+March 1968**; and the American National Camping Association at the Sheraton Boston, 12–16
+March.
+
+Nothing in this issue names Kanawana. Its value is the Forgie obituary and the correction
+it forces, the Expo International Camping Day with the QCA's new board, Seaman teaching
+evaluation in Moncton, and the staff-generation essay.
