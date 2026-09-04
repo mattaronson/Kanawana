@@ -13227,3 +13227,212 @@ Nothing in this issue names Kanawana. Its value is the QCA's own account of its 
 of who introduced Quebec camp standards, Eileen Mayotte as a named 1940s QCA secretary, the
 Red Cross/RLSS merger dating the waterfront award scheme, and the Northway citation for
 Edgar.
+
+---
+
+## 80. Vol. 21 No. 1, Fall 1968 — `canadiancampingmagazine_vol21_no1_1968fall.txt`
+
+*Contents page*: Insurance Coverage (Ron Poole); Have You Stored This One (E. Flynn);
+Muskrat With A Mission (Ross Cumming); How Do I Budget My Time (May Brown); Reports (Kirk
+Wipper); Communication is the Key (Bruno Morawetz); Communication Within a Camp (Ann
+Prewitt). All seven checked against the read; all covered below.
+
+**Officers, Fall 1968.** CCA now at **301 Vaughan Street, Winnipeg** — the national office
+has moved west. **Honorary President Mary S. Edgar; President Douglas McEwen** (301 Vaughan
+St.); 1st VP Gordon Stewart; 2nd VP Mrs. Sally Schwetz; Secretary Marion Searles; Executive
+Secretary Mrs. Nancy McGregor; Treasurer Phyllis Trotter (c/o Winnipeg YWCA). Publisher
+Mrs. G. W. Flynn, Editor Mrs. A. E. Harshaw, both Toronto. **This dates Doug McEwen's CCA
+presidency to Fall 1968** — he is Nelson McEwen's son (issue 74), and `nelson-mcewen.md`
+should carry it. **Quebec Camping Association still 2233 Belgrave Ave., Montreal 28.**
+Saskatchewan has moved to c/o YWCA, Lorne St., Regina; the **Eastern Ontario Camping
+Conference** is again listed separately from the OCA.
+
+**★ RON POOLE (Tomenson Saunders Ltd.), "Insurance Coverage" — the fullest account of camp
+risk and insurance practice this run has produced, and directly applicable to reading
+Kanawana's own reports.** It is long and technical; the substance worth keeping:
+
+- *Fire and site.* Camps "are usually in an area which is not accessible to public
+  protection," so fire fighting must be self-contained: foam extinguishers at key points,
+  sand buckets, water pails, hand pumps, spades. The **kitchen hood and vent system** is the
+  common hazard, needing an automatic CO₂ system — "not only is the dining lodge and kitchen
+  frequently the most expensive structure on the building schedule, but its loss at the
+  beginning of the season could cause a serious shutdown." **Separation of buildings** should
+  be planned against fire spread and prevailing winds, not only convenience. Brush and grass
+  kept short; **"the most dangerous season for brush and grass fires is in early May."**
+  Underwriters "feel that a silent camp is a better risk than an operating camp" but require
+  year-round supervision.
+- *Valuation.* Operators routinely omit **hydro and telephone poles, yard lamps, fencing and
+  bridges** from schedules of value; square-footage indices are unreliable because remoteness
+  raises construction cost; keep contractors' estimates and invoices filed as proof of loss.
+  **Under-insurance is prevalent** and, with co-insurance clauses, cuts recovery on partial
+  losses too.
+- *Piecemeal policies.* Camps that grow building by building accumulate one policy per
+  building, with non-concurrent terms and unlimited scope for non-coverage. One blanket
+  document covering all property, with automatic pick-up of new structures, costs about **10%
+  more** and is "demonstrably better value."
+- *Crime.* "We have yet to experience any form of loss for a camp operator caused by an
+  employee." Recommends at least **$5,000 burglary** cover, since silent off-season camps
+  tempt itinerants, and notes break-in damage often exceeds the value taken. Off-season
+  supervisory visits should be **on a staggered schedule, not the same time each day**.
+- *Liability.* Camp limits are "almost uniformly inadequate"; **$500,000 inclusive** is the
+  floor, and going to $1,000,000 costs only 15–25% more. Risks named: **botulism in the
+  kitchen**, destruction of valuable timber rights through negligence.
+- *★ Workmen's Compensation and counsellors.* The passage most worth quoting: "when is a
+  counsellor covered by Workman's Compensation? If he breaks his leg getting out of bed in
+  the morning? If he suffers concussion during a game of volleyball with other counsellors?
+  As he is walking across the camp grounds to his first supervisory task of the day?" A
+  residential camp job has no clean boundary between work and life, and the insurance
+  industry knew it in 1968. Employers' Liability endorsement recommended to catch what the
+  Act does not.
+- *★ Employees as additional named insureds.* A counsellor supervising an activity that
+  injures a guest would likely be **named personally in the suit**, and "would not likely
+  have any personal insurance which would respond," having to fund his own defence. Adding
+  employees to the named insured costs no extra premium.
+- *★ The corporal-punishment exclusion.* The standard policy excludes bodily injury "caused
+  intentionally by, or at the direction of the Insured." Poole advises deleting it, as school
+  programmes do, "since there can be some concern about **physical punishment meted out to
+  young guests, whether it be authorized or unauthorized** by the senior executive of a
+  school or a camp's management… One conjectures that at least some camp operations are
+  directed towards corrective conditions for child behaviour." He explicitly declines to say
+  whether physical punishment is enlightened or not. **This is a documented 1968 statement
+  that corporal punishment at Canadian camps was live enough to be an insurance-drafting
+  question** — context that belongs in any later account of camp discipline, and which should
+  be handled with the care the `p_307` thread sets out: it is a statement about the industry,
+  not about any named person or camp.
+- *Vehicles.* Two policies needed, owned and non-owned. The owned policy's **passenger-fare
+  exclusion** must be struck, since a camp station wagon carrying children could be construed
+  as carrying fare-paying passengers via the camp fee, leaving no operative cover. Recommends
+  $500,000 third party and $10,000 per passenger seat.
+- *Accident policy.* Pays without proof of negligence — "the situation in which the camp
+  management feel morally liable, even if they may not be legally liable." **$5,000 accidental
+  death and dismemberment** is the popular limit.
+
+The Continental Casualty back-cover ad adds the scale: **"Since 1954 campers have been paid
+over one quarter of a million dollars from this plan."**
+
+**★ EANSWYTHE FLYNN, "Have You Stored This One?" — a complete off-season shutdown procedure
+for a Canadian camp, item by item.** This is the closest thing in the run to a physical-plant
+operations manual, and it is exactly the kind of material a `physical-plant` article needs.
+Piano: keep in an evenly warm room, or leave it **open with keyboard exposed and NOT covered**
+— a tarp "holds dampness inside to rust strings and damage the felts." Medical supplies back
+to the city and replenished each spring, since drugs deteriorate and "ASA and other tablets
+crumble" and "adhesives can perish." Batteries out of flashlights. Hot water bottles hung
+upside down, stoppers removed and tied to the bottle. Mattresses **left on beds under naphtha
+flakes and cedar boughs** — and, separately, "should not be stacked; in this way we are told
+they form another fire hazard." Paints and craft paints warm; craft paper flat and weighted
+against curling; wax and oils fine cold. Rugs off the floor because "mice tear them apart…
+threads and tufts make perfect lining for nests." Envelopes not left, or they gum together.
+**Windows covered or camouflaged, because "grouse or partridge, in particular, will fly
+through clear glass."** Saddles and leather saddle-soaped; **removable docks sheltered "in
+the lee o' the land" until after ice break-up**; diving boards stored flat and oiled against
+drying. Vinegar survives if bottles are two-thirds full; juices and soft drinks do not; canned
+goods never used after freezing. Dry staples may stay in sealed tins or heavy plastic pails —
+**"but not powdered egg for trips."** Coal oil stays; gas stays in Fire-Marshal-approved
+containers in a separate building; boat motors drained and then **run until they run dry**;
+propane taps shut at the outdoor tanks; water lines drained by a maintenance man who knows
+how; washing machine pump hose drained downward. Oily rags removed as "one of the greatest
+fire hazards." Directors' hints: heat the walk-in refrigerator with an enclosed unit and use
+it as winter storage; build a cedar-lined room **also lined with tin or fine door screening**
+for mattresses, blankets, tents, sails and pillows, "without benefit of mice."
+
+**Ross Cumming, "Muskrat With A Mission"** (reprinted from *The United Church Observer*, **1
+August 1968**). A parable: a muskrat swims up a manse's sewage tile into the basement toilet
+and delivers an environmental sermon — "You New World people are a filthy bunch… You were
+given the largest body of fresh water in the world. And you have used it as a cheap, handy
+cesspool… Dirty air is a mass murderer… Clear water is life; defiled water is death" — then
+turns on the church itself: "Why is the manse one of the last homes in your town to have its
+plumbing up to the mark? Why wasn't it the first? Why are you lagging instead of leading?"
+It closes on Genesis: "the Lord God took man and put him in the garden to dress it and to keep
+it. That is your job: what are you doing about it?" Paired with Morawetz at issue 79, this is
+**the camping press turning to environmental argument in 1968, in explicitly religious
+terms** — a documented datum for an `environmental-and-ecological-history` article about the
+period when a YMCA camp's conservation language would have been formed.
+
+**May Brown (Camp Deka), "How Do I Budget My Time?"** — a camp director's job description
+from the woman this project identified at issue 72 as Camp Oolahwan's lost director;
+`camp-oolahwan.md` already records her Camp Deka years, so nothing new to patch, but this is
+a second dated sighting (Fall 1968) and her own voice. Her argument: the ideal director is
+"sitting on a log chatting with a 'loner', or inviting the boy showing first signs of
+homesickness to paddle in a canoe," and a director who does not budget for it "really [is]
+not fulfilling our role." Three prescriptions: frequent general staff meetings where policy
+(not programme detail) is agreed; **a part of each day set aside for camper contact** — "What
+a highlight it is for a camper to have the 'Big Chief' take the time"; and **taking charge of
+one major assembly daily** (chapel, morning assembly, after lunch, or evening campfire),
+because "most camps reflect the personal philosophy of the director." She adds that the
+director should deliberately build **"certain kinds of ceremonial activities"** around
+himself. That is a direct statement of *why* camp ceremonial exists and who it is for — useful
+framing for `traditions/`. Everything organisational — registration, hiring, PR, inventory,
+repairs, purchasing, food — belongs before the season: "Let us not in camp make the same error
+found in schools and many recreational agencies whereby the head of the institution finds
+himself shut off from the people involved."
+
+**Kirk Wipper, "Reports."** Two items. (1) **The Glengarry canoe race**: descendants of the
+Nor'Wester voyageurs, under **Hugh MacMillan**, challenged two **Camp Kandalore** crews to a
+seven-mile race up the **Raisin River from Lancaster to Williamstown**, at the site of the
+1783 North West Company recruiting ground where the Glengarry Historical Society had set up a
+museum; a portage with two sixteen-foot canoes "through a hornet's nest"; Glengarry Pipe Band
+in attendance; Kandalore gave **pemmican from Northern Manitoba** to the museum and received a
+**Nor'Wester pennant and plaque**. This is the voyageur-revival current continuing past the
+1967 pageant — relevant to `voyageur-canoe-pageant.md`. (2) **Council on Outdoor Education**
+executive meeting, Kellogg Centre, East Lansing, **13–14 September 1968**: formal liaison
+between the American and Canadian councils via the two national chairmen and corresponding
+members on three committees — **Outdoor Education for the Inner City Schools**, Professional
+Preparation, and Research and Evaluation — plus a proposed **International Council for Outdoor
+Education**, with interest expressed by Congo, Australia, Chile, England, Germany, Ghana,
+Israel, Japan, Korea, Netherlands, Peru, Philippines, Thailand, Venezuela, Argentina, Canada
+and the United States. Outdoor education "was regarded as an important medium by which
+International understanding and world brotherhood might be promoted."
+
+**Bruno Morawetz (Director, Camp Ponacka), "Communication is the Key."** A named 1968
+staff-meeting technique, taught to some thirty Ontario directors at a weekend at the **Aurora
+Conference Centre** by **Prof. Laurence Taylor, Vice-President for Leadership Development at
+Hillsdale College, Michigan**: break into groups of six, each with chairman and recording
+secretary; the leader poses a question ("what would be the best way to improve the morale in
+the camp?"); **each person gets one minute**, so six minutes gives every staff member a turn;
+the group takes one further minute to choose what to report back; then a second round on
+implementation. "The timid ones are not afraid to speak to an intimate group of six persons;
+the vocal and verbose ones are given the same one minute." Hillsdale published newsletters
+titled *"For Those Who Must Lead…"*. Worth recording because staff-meeting method is the sort
+of practice that arrives at a camp like Kanawana through exactly this channel — a director's
+weekend, then a magazine article.
+
+**Ann Prewitt (Director, Camp Northway Lodge), "Communication Within a Camp."** A sixty-girl
+camp described from inside. **★ "Northway Camp Chats date back to 1906"** — a fourth data
+point in the carried-forward **Northway Lodge founding conflict (1905 / 1906 / 1917)**, and
+the strongest kind, since a camp magazine cannot predate the camp: it puts the camp's
+existence at 1906 or earlier and is independent of Fannie Case's own recollection. Add to the
+conflict record. Practice worth keeping: the **TRIPPING programme**, in which "anyone who has
+passed any part of it is qualified to teach, and pass, another — provided safety is not
+involved," so an eleven-year-old teaches thirteen- and fifteen-year-olds to find Labrador tea
+for Hudson's Bay tea "the way the Voyageurs did"; a dining room where anyone may sit anywhere
+but **"no one may save a place for another"** — "this in itself creates new friendships and
+dissolves cliques"; anyone may stand and make an announcement; **three campers and one
+counsellor per tent**, with the three deliberately split across three different morning
+**"Workshift"** groups of twenty so that each shift draws one camper from every tent, and each
+shift chooses its own constructive job for the whole camp (canvassing a canoe, repairing a
+picnic-site fireplace). Delicate matters — "such as a death in the family" — are handled
+through tent groups rather than a general announcement, counsellors coaching campers on how
+to behave toward the bereaved. Sunday night **'Talks'** with topics chosen in Council and "no
+subject barred": **in summer 1968 the camp discussed Drugs and Hippies.** Beyond a
+mimeographed philosophy, rules and job analysis, "there is little or no need for written or
+printed communication." Her staffing principle: "She will flounder if she feels that someone
+is always watching over her shoulder. I, myself, would never accept a job unless I was also
+given the authority and responsibility to do that job." And: "Only when safety is involved
+does the Director rear her ugly head."
+
+**Smaller items.** "Sounds of Summer": an intermediate girls' section given a free-choice
+period chose dress-up drama, a baseball game "never on the regular programme," **live frog
+races**, a speed "Jacks" tournament — "but the most fun of all came for those who spent the
+total period rolling from top to bottom of a nearby hill"; and a church camp's twelve-year-old
+tent caught at "elementary strip poker," the instigator being the minister's daughter. **Camp
+Kasawamak for sale**, 60 miles north-west of Kingston, ~20 acres, 1,200 feet of shoreline, 16
+buildings, hydro and telephone — **$47,000**, a rare price for a whole Ontario camp property
+in 1968. A Hobart AM-7 dishwasher for sale at **Camp Oconto**, contact **C. Labbett** — the
+Clifford Labbett who becomes CCA president under whom Derek Walsh was installed as
+vice-president in 1979. A director advertises himself for 1969, "preferably in a co-ed camp."
+Book note: Margaret Waring Buck, *Where They Go In Winter* (August 1968, $1.95).
+
+Nothing in this issue names Kanawana. Its value is Poole on insurance — including the
+Workmen's Compensation, named-insured-counsellor and corporal-punishment-exclusion passages —
+Flynn's off-season shutdown procedure, Doug McEwen dated as CCA president, and the 1906
+Northway *Camp Chats* datum for the founding conflict.
