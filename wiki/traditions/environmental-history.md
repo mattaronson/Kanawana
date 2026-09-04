@@ -1,6 +1,6 @@
 # Environmental Education and Stewardship at Kanawana
 
-*Status: E1-reviewed | Sources: 35*
+*Status: E1-reviewed | Sources: 37*
 *Last Updated: 2026-09-04*
 
 ## Overview
@@ -81,6 +81,8 @@ He sets out a **Wilderness Travellers Creed**: "I believe that man can travel th
 
 The specifics are the part that would have changed practice at a camp like Kanawana. **Group size**: "Large groups do not belong in the wilderness. **The organization of trips with more than 20 people is bound to leave its mark on the ecology**… it is difficult to imagine how more than 10 people could spend a night in an undeveloped spot and leave no trace." **Fires**: never on the forest floor — find mineral dirt or rock, or lift and save the thin forest floor for replacement; keep the fire small enough that "any wood small enough to break with your hands" will do; and, because "**charcoal is pure carbon and will last forever, wood ashes on the other hand will dissolve in the soil with the next rain**," stop adding wood and scrape the embers together to burn out, then wet and scatter the ashes. **Human waste**: fifty feet from water, a hole eight by ten inches and "**not more than 6" to 8" deep, to stay within the biological disposer layer of soil**."
 
+Seven months later three trippers — Karl Hartwick, John Jorgenson and Jim Gear — extended the argument specifically to canoe trips, under the title "Canoe Tripping in the Twentieth Century."^36 Their code is more particular than Redmond's: carry out everything you carry in "**and a little of what others have left**"; consider small stoves, or a metal fire container; let the fire "**burn to ash, leaving no charcoal**", remove foil from the ashes, and "**if you find several fire pits at your site, clean up the best one or two and eliminate the others**"; **gather firewood by canoe at a point distant from the campsite even when wood is available on it**; "**do not blight the campsite for your own comfort (e.g. trenches, bough beds, tables, natural shelters, garbage pits)**" — that is, abandon four techniques standard in camping manuals; rinse dishes without soap or use a biodegradable one sparingly, and empty dishwater away from the shore; burn toilet tissue and bury waste under three or four inches of soil replaced afterwards. Their framing is worth keeping: "**The irony of canoe tripping is that it has the potential of destroying the very environment the tripper seeks out to enjoy**", and the users will not decline voluntarily, "therefore the answer must lie in lessening their impact."
+
 This is the ethical counterpart to the safety framework rebuilt in the same years (see [[traditions/canoe-trips|Canoe Trips at Kanawana]]): between 1975 and 1979 a Quebec camp running wilderness trips was told, by federal regulation, by its own association's editorials, and now by its own association's ethics, to change how it travelled. Kanawana's later environmental commitments — the 1980 Nature Awareness programme, and the Green Shift a generation on — arrive in a movement where this argument had already been made in print.
 
 ### Twenty environmental maintenance standards, June 1979
@@ -101,6 +103,14 @@ Several of the twenty are worth recording for what they show about 1979 practice
 - **Reforestation** done "as part of the N.A. [nature awareness] program"; natural crafts practised without "using living trees and plants"; **noise pollution** reduced, with "**silent hikes and canoe trips**" proposed; natural areas on the property preserved with access planned so they stay natural; and off-season visits, because "seeing camp during all seasons will help develop a greater appreciation."
 
 Read against Kanawana's own record, the code names, in 1979, several things the camp would come to in its own time — the erosion problem it had confessed in 1970, the trail resting and reforestation of the 1980 Nature Awareness programme, and the composting and waste separation of the Green Shift a generation later.
+
+### Acid rain reaches the camping press, 1979
+
+In October 1979 the association reprinted a long article from *The Probe Post* on acid rain, addressed explicitly to "those of us who are concerned with children living near 'living lakes'."^37 It is the first environmental threat in this run that a camp could do nothing about from inside its own fence, and Quebec is named among the places receiving it: Ontario "emits large quantities of acids that cause acid rains in the province and **in Quebec, Eastern Canada and Northeastern U.S.**"
+
+The figures given are those of the period: uncontaminated rain has a pH of about 5.6, while the mean pH of precipitation in south-central Ontario was between **3.95 and 4.38**, with one snowfall measured at **2.97 — "over 400 times the acidity of normal precipitation"**; of 209 lakes tested near Sudbury, **20 per cent were "dead" and another 50 per cent threatened**; Inco's 1,250-foot stack emitted "an average of **3,600 tons of sulphur dioxide daily**", more than any other single source in North America, and in July 1979 Ontario had just revised its 1970 control order to let that rate continue. The article also notes a second effect beyond fish kills — "**there seems to be a connection between relatively small rises in lake acidity and significant increases in mercury levels in fish**."
+
+Nothing here is about Kanawana, and no measurement of its own lakes from this period is known to this project. What the article establishes is that by 1979 the acidification of Canadian Shield lakes was being put to camp directors as their problem, in their own trade press, with Quebec named as downwind of Ontario's emissions — which is the context for any later water-quality record from Lake Kanawana, Lake Wilson or Round Lake, and a reason to look for one from these years (see [[site/lake-wilson|Lake Wilson]]).
 
 ### The 1970 erosion crisis
 
@@ -215,6 +225,8 @@ The Canadian Summer Camp Research Project (CSCRP, 2006–2011), conducted by the
 33. Kamp Kanawana season reports in the Concordia-digitized YMCA of Montreal fonds: *Annual Report 1964* [src_ia_kanawana_report_1964], *1969* [src_ia_kanawana_report_1969], *1970* [src_ia_kanawana_report_1970], *Director's Report 1987* [src_ia_kanawana_report_1987], and *Kanawana… A Place to Grow*, 1988 [src_ia_kanawana_place_to_grow_1988]; earlier acreage figures from the YMCA of Montreal annual reports and the 1936 CFCF broadcast [src_ia_ymca_montreal_annual_reports_collection, src_ia_ymca_montreal_fonds_collection].
 34. Kevin Redmond, "No Trace Camping," *Canadian Camping* Vol. 31 No. 2 (March 1979), pp. 6-7, 12 [src_ia_canadian_camping_collection]. Found by the full word-for-word read of the run (`kb/reread/cc_findings.md`, issue 124). A statement of wilderness ethics circulated to every accredited Canadian camp, not a Kanawana document.
 35. "Your Camp and Its Environment," *Canadian Camping* Vol. 31 No. 4 (June 1979), pp. 3, 12 [src_ia_canadian_camping_collection] — twenty Environmental Maintenance Standards developed at a Conference of Canadian Interpreters, reprinted from the Alberta Camping Association *Newsletter*, May 1979. Found by the same read (issue 126). A national code circulated to accredited camps, not a Kanawana document.
+36. Karl Hartwick, John Jorgenson and Jim Gear, "Canoe Tripping in the Twentieth Century," *Canadian Camping* Vol. 31 No. 5 (October 1979), pp. 4-5 [src_ia_canadian_camping_collection]. Found by the same read (issue 127).
+37. "Acid Rain," reprinted from *The Probe Post* (Probe, 43 Queen's Park Crescent E., Toronto), in *Canadian Camping* Vol. 31 No. 5 (October 1979), pp. 3, 9-10 [src_ia_canadian_camping_collection]. Found by the same read (issue 127).
 
 ## Research Notes
 

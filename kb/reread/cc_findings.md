@@ -22513,3 +22513,115 @@ conference and CCA Executive at **Vancouver, 24-25 January 1980**; BCCA conferen
 **ACA's "Widening Worlds of Camping" at Boston, 11-16 February 1980**; OCA annual conference
 **Toronto, 6-8 March 1980**. The editor, **Brian Blackstock**, asks readers to send maintenance hints
 for the October issue.
+
+---
+
+## 127 — Vol. 31 No. 5, October 1979
+
+Twelve pages. Every item accounted for: a Lin Yutang epigraph on the cover; The Counsellor's Page —
+keeping in touch after the season; Acid Rain (reprinted from *The Probe Post*, concluded pp. 9-10);
+Canoe Tripping in the Twentieth Century (Karl Hartwick, John Jorgenson, Jim Gear); Publications, with
+two book notices; A Tribute (Madelene Allen); a sewing-kit advertisement; the ACA Boston convention
+notice; Classified; Coming Events; the Royal Chinet advertisement. **Kanawana is not named.**
+
+**★★★★ EDGAR BLAIS, CHEF AT CAMP OUAREAU — the only piece about a camp cook in the entire run.**
+Madelene Allen's tribute, and it is a genuinely unusual document:
+
+> "Last week we lost our chef who had been with us for seven years. No famous man whose death would
+> make headlines, but a simple man who did so much for camping by making campers happy with what came
+> from the kitchen. **No executive post on the association, no articles written, just work at a hot
+> stove for long hours.** … spare a thought for an unknown to you, **Edgar Blais**."
+
+The verse gives his hiring and his death: "**To our door he came, out of work, dejected. Sent to
+camp's winter door by Manpower. 'Can you cook? Do you like children?' 'Mais oui.'…** Edgar is gone,
+not by choice… **But a notice in a small town paper was the final severance: 'est décédé
+accidentellement M. Edgar Blais.'**" Seven years at Ouareau, so from about 1972; hired through Canada
+Manpower; an English camp with a francophone cook — "Je t'aime Madame."
+
+**Written into `connections/related-camps/camp-ouareau.md` as a new section (sources 9 → 10)**, for
+two reasons stated there. It is dated fact about a named Ouareau employee. And it is the closest
+thing this project has to evidence about a whole category of camp worker: **at Kanawana as at
+Ouareau, kitchen staff appear in no plaque, no directory and no accreditation report, and this
+tribute is a reminder that the absence is a property of the records rather than of the camps.** The
+spelling variance is settled in passing — "Madelene" here and in 1974, "Madeleine" in the 1977
+survey, the same person.
+
+**★★★★ ACID RAIN PUT TO CAMP DIRECTORS AS THEIR PROBLEM — with Quebec named downwind.** A long
+reprint from *The Probe Post*, introduced as "a topic which should interest every citizen,
+particularly those of us who are concerned with **children living near 'living lakes'**." The figures:
+uncontaminated rain pH about 5.6, against a mean of **3.95 to 4.38** in south-central Ontario and one
+snowfall at **2.97, "over 400 times the acidity of normal precipitation"**; of 209 lakes tested near
+Sudbury, **20% "dead" and 50% threatened**; Muskoka-Haliburton acidity "**now as bad or worse than
+that in Scandinavia**"; **Inco's 1,250-foot super-stack emitting "an average of 3,600 tons of sulphur
+dioxide daily"**, more than any other single source in North America, with the province having
+**retreated in July 1979** from its 1970 control order six months before the deadline. And a second
+effect beyond fish kills: "**there seems to be a connection between relatively small rises in lake
+acidity and significant increases in mercury levels in fish**."
+
+The sentence that matters here is the geography: Ontario "emits large quantities of acids that cause
+acid rains in the province and **in Quebec, Eastern Canada and Northeastern U.S.**" **Written into
+`traditions/environmental-history.md` as a new section (sources 35 → 37)**, saying plainly that
+nothing in it is about Kanawana and that no measurement of its own lakes from this period is known —
+but that this is the context for any later water-quality record from Lake Kanawana, Lake Wilson or
+Round Lake, and a reason to look for one from these years. **The first environmental threat in this
+run that a camp could do nothing about from inside its own fence.**
+
+**★★★ "CANOE TRIPPING IN THE TWENTIETH CENTURY" — the no-trace code applied to trips, in detail.**
+Hartwick, Jorgenson and Gear, opening from an environmental ethic issued by a Ministry of the
+Environment advisory council, and stating the problem better than anything else in the run: "**The
+irony of canoe tripping is that it has the potential of destroying the very environment the tripper
+seeks out to enjoy**… It is unlikely that the number of users will decline voluntarily, therefore the
+answer must lie in lessening their impact." Their rules, added to the leave-no-trace section of
+`environmental-history.md` (source 36): carry out everything "**and a little of what others have
+left**"; small stoves, or a metal fire container; **let the fire burn to ash "leaving no charcoal"**,
+remove foil, and "**if you find several fire pits at your site, clean up the best one or two and
+eliminate the others**"; **gather firewood by canoe at a distance even when wood is available on the
+site**; "**do not blight the campsite for your own comfort (e.g. trenches, bough beds, tables,
+natural shelters, garbage pits)**" — four techniques standard in camping manuals, abandoned; rinse
+without soap or use biodegradable sparingly and empty dishwater away from the shore; burn toilet
+tissue, bury waste under three or four inches of replaced soil. Third statement of this ethic in
+seven months (issues 124, 126, 127), which is itself the finding: **the movement was rebuilding its
+tripping ethic in 1979 at speed.**
+
+**★★ KIRK WIPPER'S *WOODSMANSHIP LEADERS' GUIDE* IS PUBLISHED — CCA, 1979, 155 pp., $6.00.** In
+preparation at issue 122, in print here, "in 3 ring loose-leaf form, to allow for easy up-dating,"
+with three components — "**an exploration of the land ethic; a compendium of ideas on the theme of
+leadership; and… a set of practical materials on land pursuits**" — covering Trail Skills, Survival,
+Program Planning, Navigation, Food and Menu Planning, **Human Waste Disposal** and Basic Ecology,
+with an extensive bibliography. **A findable Canadian camping manual with a named author, publisher,
+year and page count**, and one that was being translated into French by Rosaire Corbin (issue 122).
+Add to the Trent enquiry (`p_312`).
+
+Also announced: **all ACA-published books become available to Canadians through the CCA's Publication
+Service at American catalogue prices payable in Canadian funds**, with the CCA paying postage — which
+dates the moment the American camping literature became cheap and easy for Canadian camps to buy.
+And *Basic Camp Management* by Armand and Beverly Ball (ACA, 1979, $7.50), whose chapter list is
+another map of what a camp was expected to administer: staff recruitment and organisation, camper
+recruitment, preparation of the camper, site preparation, staff orientation, pre-camp training,
+programme services, health and food service, finances, transportation and maintenance, **evaluation
+and reporting**, and the volunteer structure.
+
+**★ A former boys' camp near Lachute, for rent.** From the classifieds: "Property for rent — to clubs,
+community, religious, company or other groups for adult, children, or family camping; **75 acres, 3
+lakes, large wharf, diving board and tower, playing field, buildings, electricity, central water
+system, former boys' camp**; weekly, monthly or season: **70 miles from Montreal near Lachute,
+Quebec**." An unnamed Laurentian boys' camp that had closed by 1979 and was letting its site — the
+kind of item that could be matched against `connections/related-camps/quebec-camp-landscape.md` if
+the property can be identified. **Not identified here**; the advertisement gives only a Montreal
+telephone number.
+
+**★ Coming Events confirms the Quebec meeting.** "**Canadian Camping Association — Annual Meeting —
+P.Q. — May [1980]**", following Ken Willis's invitation at Wolfville (issue 126). Also: the
+**Outdoor Sport Skills Institute (Woodsmanship Leaders' School) at Camp Tawingo, 8-13 November
+1979**; CCA executive meetings at **Vancouver, 24-25 January 1980** and **Halifax, 17 February
+1980**; the ACA convention at Boston, 11-16 February 1980, at **$130 full registration** with
+"**free registration for children**" and half rates for spouses.
+
+**★ The counsellors' page on staying in touch** is slight but records a practice: a cabin **New Year's
+card**; a spring **cabin newsletter** made from campers' contributions; and a **camp song written
+collectively by post** — "Make up a CAMP SONG using the tune from a popular camp song. **Each camper
+could send one verse to you and then you could return a copy of the completed song to each of
+them.** Follow this up by singing it to the new camp when it assembles next spring." That is a
+documented method by which camp songs were composed and transmitted in this period, and worth having
+for `traditions/camp-songs-cheers.md` and `p_311`: some camp songs were written in the winter, by
+mail, by children.

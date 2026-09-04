@@ -1,6 +1,6 @@
 # Camp Ouareau and Its Connections to Kanawana
 
-*Status: E1-reviewed | Sources: 9*
+*Status: E1-reviewed | Sources: 10*
 *Last Updated: 2026-09-04*
 
 ## Overview
@@ -53,6 +53,16 @@ Two further findings are worth recording. On language, Allen states that "**Ouar
 
 Allen closes with a caution this project can borrow: "Research was defined as the satisfying of curiosity… **a great number of children attend a certain camp because of a friend, or because of good advertising, or because a parent may just think it is a good idea.** I don't think for a moment that very many parents have all the criteria which I have listed in their minds when they make the decision to send a child to camp." Part 2 was promised but has not yet been reached in the read.
 
+## Edgar Blais, the camp's chef
+
+Camp records rarely name kitchen staff, and almost never remember them. Camp Ouareau's director wrote a tribute to hers in October 1979, and it is the only piece in the whole 1949-1988 run of *Canadian Camping* about a camp cook.^10
+
+> "Last week we lost our chef who had been with us for seven years. No famous man whose death would make headlines, but a simple man who did so much for camping by making campers happy with what came from the kitchen. **No executive post on the association, no articles written, just work at a hot stove for long hours.** Contributions to camping vary and I would like to ask you to spare a thought for an unknown to you, **Edgar Blais**, and to stop for a moment and appreciate your own chefs."
+
+The verse that follows records how he was hired and how he died: "**To our door he came, out of work, dejected. Sent to camp's winter door by Manpower. 'Can you cook? Do you like children?' 'Mais oui.' 'Can you take long hours and little help?' 'Mais oui.'**" — and, at the end, "**Edgar is gone, not by choice… But a notice in a small town paper was the final severance: 'est décédé accidentellement M. Edgar Blais.'**" He had been at Ouareau seven years, so from about 1972, and the tribute is bilingual in the way the camp was not: an English camp, a francophone cook, "Je t'aime Madame."
+
+It is worth recording here for two reasons. It is a dated fact about Camp Ouareau — a named employee, his years, his hiring through Canada Manpower, his accidental death in 1979. And it is the closest thing this project has to evidence about a category of camp worker who appears in no plaque, no directory and no accreditation report: at Kanawana as at Ouareau, the kitchen staff are almost entirely absent from the record, and this tribute is a reminder that the absence is a property of the records rather than of the camps.
+
 ## Open Questions
 
 1. [Critical, confirmed dead end 2026-07-09] Was Mabel Jamieson actually secretary general of the YMCA (not YWCA) of Montreal? Concordia's own P0145 finding aid does not name Jamieson at all; Trent University's Ontario Camps Association finding aid contains only one incidental photo caption naming her among OCA social circles, with no title given. No source anywhere independently corroborates or refutes the "secretary general" claim beyond Camp Ouareau's own self-reported history page (which, as of 2026-07-09, no longer even states a title on its current site — just "school teacher"). Genuinely exhausted for online sources.
@@ -81,6 +91,7 @@ Allen closes with a caution this project can borrow: "Research was defined as th
 7. YWCA Camp Oolahwan centennial reunion announcement (dates disputed — see conflicts.json).
 8. Camp Ouareau 2014 team name change announcement (campouareau.com).
 9. Madeleine Allen, "Parental Motivation Affecting the Attendance of Children at Summer Camp, Part 1: Information collected from data from Camp Ouareau, a summer camp for girls," *Canadian Camping* Vol. 29 No. 2 (March 1977), pp. 4-7 [src_ia_canadian_camping_collection]. Found by the full word-for-word read of the run (`kb/reread/cc_findings.md`, issue 112). Her surname is spelled "Madelene" in the 1974 issue cited elsewhere in this wiki and "Madeleine" here; both are the director of Camp Ouareau.
+10. Madelene Allen, "A Tribute," *Canadian Camping* Vol. 31 No. 5 (October 1979), p. 7 [src_ia_canadian_camping_collection]. Found by the same read (issue 127). Her surname is spelled "Madelene" here and in 1974, "Madeleine" in the March 1977 survey; the same person.
 
 ## Research Notes
 
