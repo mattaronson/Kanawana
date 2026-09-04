@@ -1,6 +1,6 @@
 # Leo J. Robitaille
 
-*Status: draft | Sources: 6*
+*Status: draft | Sources: 7*
 *Last Updated: 2026-09-04*
 
 ## Overview
@@ -51,6 +51,12 @@ Two things are worth saying about that passage rather than leaving it to speak f
 
 Written end-of-season assessment was, in any case, normal practice in the association Kanawana belonged to. In February 1977 the Canadian Camping Association circulated John Latimer's summary of camp promotion and public relations, which recommends that "**at the end of the summer, a letter of assessment from the Director**" be sent to each camper's parents, and notes that this "will mean that there must be a very accurate method of receiving a full report from each counsellor."^6 Latimer is describing assessments of campers rather than of staff, so this is not the same document type as Robitaille's; what it establishes is that a director sitting down in August to write down judgements of the people who had passed through his camp that summer was doing what the national association told directors to do. The paper trail that produced the passage above was a professional norm, not an idiosyncrasy.
 
+Two months later the association printed something closer still. Barry Lowes — a CCA Award of Honour recipient that same year and a member of the Task Force on the association's future — set out in October 1977 what a camp's end-of-season evaluation should consist of, and the sequence he describes is Robitaille's document in general form.^7 Section heads "do evaluations on all staff"; each counsellor completes a self-evaluation at mid-summer on the same form the unit head will use in August; "at the end of the summer each counsellor has a final evaluation to learn how others have viewed his summer"; and the director then **"collate[s] all of these reports"** and from them develops "lists of repairs, items to be purchased, **staff to be rehired**, programs to change." A director writing a rehire list in August 1973 was performing the last step of a nationally recommended procedure.
+
+Lowes is equally clear about what should surround such a list, which is the part worth holding against the passage above. Counsellors' written reports on campers are "brief, **confidential** and must be written candidly to be of value." Of the evaluation record generally: "**You must be sure to let staff know who will have access to the evaluations. Confidentiality is vital!**" And of the people being judged — he is describing counsellors-in-training, but the principle he states is general — "**they have, like all staff, a right to know how they are doing** during the season and a final evaluation of how they did overall at the end of the summer… The C.I.T. has a right to discuss the report with the person doing them. **It is a basic human right and also a sound evaluation technique.**"
+
+So the profession's own standard in these years was candour *and* confidentiality together, with the subject entitled to see and discuss what was written about them. Nothing in Robitaille's report shows whether the five people named in it were ever told; the report was written for a hiring committee, and the norm Lowes describes is what its author would have understood himself to be doing. This is the context in which the embargoed passage should be read — not as an unusual act, but as the ordinary end of an ordinary process whose author expected a small, defined readership.
+
 It also tells you something about how the camp actually hired. The recommendation is not a dismissal; it is advice to a committee that would reconvene in December, and it assumes the committee knew these people. A camp that rehired half its staff every year ran on exactly this kind of institutional memory, and this is what it looked like written down.
 
 **Not to be confused with Georges Robitaille**, president of the Association des camps du Québec's
@@ -96,6 +102,7 @@ Source: the Montreal YMCA annual reports and news releases.^2 ^3
 4. *The Lookout* Vol. 1 No. 3, autumn 1993 — the "past directors" appeal listing "Tom Potts (part of 72)" [src_ia_the_lookout_1993].
 5. *Canadian Camping Magazine*, Vol. 28 No. 2 (January 1976), Vol. 28 No. 3 (June 1976) and Vol. 29 No. 3 (May 1977) [src_ia_canadian_camping_collection] — Georges Robitaille, ACQ French-section president. A different person.
 6. John Latimer (Director, Kilcoo Camp), "A Summary of Points Related to Promotion and Public Relations," from a talk given to the Ontario Camping Association, printed in *Canadian Camping* Vol. 29 No. 1 (February 1977), pp. 3-4, 11 [src_ia_canadian_camping_collection]. Found by the full word-for-word read of the run (`kb/reread/cc_findings.md`, issue 111).
+7. Barry Lowes, "And How Was Your Summer? — Evaluating Your Camp," *Canadian Camping* Vol. 29 No. 5 (October 1977), pp. 1, 4-7, 12 [src_ia_canadian_camping_collection]. Adapted from an earlier presentation by Lowes, who was director of Camp Timberlane, a member of the CCA Task Force, and a recipient of the association's Award of Honour in 1977. Found by the same read (issue 115).
 
 ## Research Notes
 

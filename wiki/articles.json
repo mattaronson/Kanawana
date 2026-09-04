@@ -8157,6 +8157,13 @@
           "at": "2026-07-11T00:00:00Z",
           "by": "auto",
           "task": "WRITE"
+        },
+        {
+          "status": "draft",
+          "at": "2026-09-04",
+          "by": "auto",
+          "task": "RESEARCH",
+          "note": "Word-for-word read of Canadian Camping, issue 115 (Vol. 29 No. 5, October 1977): new section 'What a CIT Was Owed, Nationally, in 1977' -- Barry Lowes's statement of the evaluation obligations a camp took on toward its counsellors-in-training, including the CIT's right to read and discuss what was written about them. Sources 7 -> 8."
         }
       ],
       "ralph_loops_completed": 1,
@@ -8184,7 +8191,8 @@
         "src_oral_aronson",
         "src_ymcaq_lit_guide_2026",
         "src_ymcaq_trailblazers_2026",
-        "src_ia_kanawana_broadcast_cfcf_1941"
+        "src_ia_kanawana_broadcast_cfcf_1941",
+        "src_ia_canadian_camping_collection"
       ],
       "open_questions": 3,
       "cross_links": [
@@ -9312,6 +9320,13 @@
           "by": "auto",
           "task": "RESEARCH",
           "note": "Word-for-word read of Canadian Camping, issue 111: added a paragraph of context outside the embargo block, establishing that a director's written end-of-season assessment was recommended national practice -- John Latimer's February 1977 CCA promotion summary tells directors to send parents 'a letter of assessment from the Director' and to collect 'a full report from each counsellor'. Latimer is describing assessments of campers, not staff, and the article says so. Sources 5 -> 6."
+        },
+        {
+          "status": "draft",
+          "at": "2026-09-04",
+          "by": "auto",
+          "task": "RESEARCH",
+          "note": "Word-for-word read of Canadian Camping, issue 115: strengthened the context around the r_0001 embargo block with Barry Lowes's October 1977 account of end-of-season evaluation -- section heads evaluating all staff, mid-summer self-evaluations on the same form, and the director collating the reports into lists that include 'staff to be rehired'. Robitaille's rehire list is the last step of a nationally recommended procedure. Lowes also states the profession's standard of candour with confidentiality and the subject's right to see the report; the article notes that nothing shows whether the five named people were told. Sources 6 -> 7."
         }
       ],
       "ralph_loops_completed": 1,

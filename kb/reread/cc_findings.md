@@ -20991,3 +20991,122 @@ CCA catalogue — died 7 May 1977. Maintenance and tripping tips: wood ashes for
 as tamed chlorine, barn board left unstained, cedar "seconds"; billy pails made from 105-oz kitchen
 tins with coat-hanger handles, green garbage bags inside packs to keep sleeping bags dry, and gunny
 sacks sewn from factory cotton.
+
+---
+
+## 115 — Vol. 29 No. 5, October 1977
+
+Twelve pages. Every item accounted for: And How Was Your Summer? — Evaluating Your Camp (Barry
+Lowes); A Director's Checklist (Eanswythe Flynn, reprint of the first column, November and December
+entries); the masthead and cover note; Food and Finance; Can Good P.R. Sell Your Camp? (Rona
+Wasserman, reprinted from the ACA's *Camping Magazine*, November/December 1971); C.C.A. National
+Conference, Geneva Park, 19–22 January 1978. **Kanawana is not named.**
+
+**★★★★★ BARRY LOWES ON EVALUATION — THE DOCUMENT THAT EXPLAINS THE r_0001 EMBARGO.** This is the
+single most useful article the newsletter era has produced for this project, because it describes in
+detail the process that generated Kanawana's own staff-assessment records — the ones held under
+embargo in `people/leo-robitaille.md`. Lowes is director of Camp Timberlane, a member of the CCA Task
+Force, and a recipient of the association's Award of Honour earlier the same year (issue 113), so
+this is the profession's own standard, not one director's habit.
+
+The sequence he prescribes:
+
+> "**The Unit or Section Heads** — **They do evaluations on all staff.** We do formal brief,
+> sit-down evaluations of staff at the end of the first few days… **We have each counsellor do a
+> self-evaluation at the mid-point in the summer. They fill out the same form that the unit head will
+> use at the end of the summer.** … At the end of the summer each counsellor has a final evaluation
+> to learn how others have viewed his summer."
+>
+> "**The Directors** — **Collate all of these reports. From them develop lists of repairs, items to
+> be purchased, staff to be rehired, programs to change, etc.**"
+
+**Robitaille's "All '73 staff could be re-hired unconditionally with the following exceptions" is the
+last step of a nationally recommended procedure**, written four years before Lowes set it out in
+print but describing the same practice. And Lowes states the safeguards that were supposed to come
+with it: counsellors' reports on campers are "brief, **confidential** and must be written candidly to
+be of value"; "**You must be sure to let staff know who will have access to the evaluations.
+Confidentiality is vital!**"; and, of counsellors-in-training but stated as a general principle,
+"**they have, like all staff, a right to know how they are doing** during the season and a final
+evaluation of how they did overall at the end of the summer… **The C.I.T. has a right to discuss the
+report with the person doing them. It is a basic human right and also a sound evaluation
+technique.**"
+
+**Written into `people/leo-robitaille.md` (sources 6 → 7)**, replacing the thinner Latimer parallel
+as the primary context for the embargoed passage: the profession's standard was candour *and*
+confidentiality together, with the subject entitled to see and argue with what was written; nothing
+in Robitaille's report shows whether the five people named were ever told. **Also written into
+`traditions/cit-lit-program.md` as a new section, "What a CIT Was Owed, Nationally, in 1977"
+(sources 7 → 8)** — the first statement this project has of what a Kanawana CIT could expect from the
+camp in return for a summer's work.
+
+The rest of the article is the fullest account in the run of how a Canadian camp was supposed to
+examine itself, and is worth keeping for any future article on camp administration. Campers evaluate
+anonymously ("**Handwriting will enable you to determine roughly the age group**"); counsellors
+evaluate the camp anonymously, and are asked specifically about supervision — "Too little, too heavy,
+helpful, hindrance?"; specialists inventory their equipment under "Item, Quantity, Good Condition,
+Need Repairs, Discard, Quantity to Purchase Next Year, **Where is it Stored?**" — the last "so
+important, if you aren't to spend frustrating hours and days next spring with a new staff member
+trying to guess where last year's specialist stored something away"; kitchen staff are consulted
+because theirs is "the biggest, most costly and to many campers the most important department in
+camp"; and parents who simply stop sending their child get an anonymous questionnaire asking why.
+Lowes's method: a large loose-leaf notebook divided by department, so that "**year by year you will
+build up a valuable historical pattern of evaluations, recommendations and results**" — which is
+precisely the kind of record this project keeps looking for and rarely finds. His closing test: "**How
+many of your campers and staff want to return to camp this summer? Turnover is your barometer of
+success.**" And, against the objection that a change must wait for next year: "**It angers me to hear
+someone say 'it's too late to change this year'. The devil it is! We have made major changes on the
+second last day of camp in order to see some idea in action.**"
+
+**★★ Eanswythe Flynn's "Do it Now! A Camp Director's Check List," reprinted by request** — the
+November and December entries, complementing her closing-up list already recorded at issues 95 and
+109. November: check cabins for mice nests and broken windows; check for tree cutting once leaves are
+down; **reprint the camp folder "using new photographs and copy if necessary," with an explicit
+cross-reference to the Tisdall brochure article in the May 1977 issue** (issue 113); check letterhead,
+statement forms, **staff contract forms and invoices**; plan a Christmas-holiday camp reunion
+including parents; review activities for new ideas. December: Christmas cards; winter maintenance —
+snow load on roofs, fallen trees, water supply in winterized buildings, sagging hydro wires; and a
+line specifically for agency camps like Kanawana: "**Agency camps should investigate the availability
+of surplus commodities and supplies. These can be available for the asking, but requests should be
+in early**", including arts-and-crafts scraps, linoleum and carpet ends, and "clearance of
+fire-damaged goods." An off-season calendar for a Canadian camp, month by month, in the camp's own
+professional press.
+
+**★ Food and finance in an inflationary year**, reprinted from the ACA: buy Standard rather than
+Fancy grade ("**costs less and has just the same nutritive value**"); judge a case of canned goods by
+usable yield, not by can count; eliminate menu items "that historically end up in the garbage can";
+check thermostats; increase initial orders and storage capacity to buy pre-season. The scale of the
+problem is given: "**sugar, for example, increased over 400% in a two year period**." Read with the
+1976 Kanawana fee of $210 per two weeks (issue 108) and John Bosco's $7.50 a day covering only food
+(issue 114), this is the cost pressure every camp budget of the period was answering.
+
+**★ Rona Wasserman's public-relations programme, month by month** — a second PR document after
+Latimer's (issue 111), and more concrete: a September questionnaire to every departing camper; a
+**November Yearbook** mailed to campers, counsellors and prospects, deliberately amateur — "It is
+imperfect, photo-offset, obviously written by children. The pictures are not professional. But the
+Yearbook gives the feeling of the camp much better than the slick brochure we used 18 years ago" —
+and it sells about half their prospects; December enrolment with an "early sign-up appreciation
+souvenir"; personal notes on each enrolment, with different souvenirs by year of return —
+"**pennants, banners, camp nightshirts**"; a January newsletter naming new campers and their
+hometowns and carrying "messages from our foreign counsellors"; clothing lists in February; and
+photograph albums rather than slides for home visits. Two period details worth keeping: the
+questionnaire answer "**DEFINITELY NOT. NO NEVER.**" from a girl who had otherwise praised
+everything, and the staff bargain at an American camp in 1977 — "**They honour our requests for
+cleanliness, sobriety and no pot-smoking, and we don't ask them to give up their long hair and
+beards.**"
+
+**★ The third National Conference, Geneva Park, 19–22 January 1978**, "through the co-operation of
+Recreation Canada and the Canadian Camping Association." Theme "**Keys to Success**." Friday on time
+management, led by **David Bratten, Employee Relations Manager, Gescan Division, Canadian General
+Electric**; Friday evening and Saturday on staff, campers and site; Sunday organised **by province**.
+**Cost $75.00 per delegate, with economy return air fare to Toronto covered for delegates from
+outside Ontario**, plus room, board and administration — federal money paying for a national camp
+conference. **Delegates were selected by each provincial association**, not by application, which
+means the Quebec association chose who went; a Quebec delegate list for January 1978 would be a
+short, checkable document, and Kanawana's director was that association's English-section president.
+
+**★ Publication history, for the deferred `meta/sources-index.md` section.** The cover note states:
+"**We have incorporated the cover of the 'Canadian Camping' Magazine, Vol. 27 No. 1 to Vol. 28 No. 3,
+designed by Violet Catlin, Graphics, 4 Canzone Dr., Toronto, into the front page of this and the
+previous six newsletters.**" So the newsletter's masthead is a salvage of the dead magazine's last
+cover design, and the designer of that cover (January 1975 – June 1976) is named. The publication
+statement is repeated: six issues a year, $5.00 for one year, $12.00 for three.

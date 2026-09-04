@@ -1,7 +1,7 @@
 # The CIT/LIT Program
 
-*Status: draft | Sources: 7*
-*Last Updated: 2026-07-11*
+*Status: draft | Sources: 8*
+*Last Updated: 2026-09-04*
 
 ## Overview
 
@@ -16,6 +16,14 @@ From 1975 onward — the earliest post-1960 CIT record, a plaque naming Lynne Ro
 ## The LIT Track and Notable Participants
 
 A parallel or overlapping "Leader-in-Training" (LIT) designation is also documented: [[people/notable-alumni/notable-alumni|notable alumnus]] Leigh Evans attended Kanawana for six summers — one as a camper, one as a Leader-in-Training, and four as staff — before being named Capitaine of the Voyageur team in the 2012 L&V Games.^4
+
+## What a CIT Was Owed, Nationally, in 1977
+
+Kanawana's own records do not say what a CIT could expect from the camp in return for a summer's unpaid or low-paid work. The Canadian Camping Association's did. Writing in October 1977, Barry Lowes set out the evaluation obligations a camp took on toward its counsellors-in-training:^8
+
+> "They should evaluate their own program, verbally through discussions and also in writing. In turn **they have, like all staff, a right to know how they are doing during the season and a final evaluation of how they did overall at the end of the summer**. These should be both written and oral, carried out by the staff who have had the best opportunity to observe the C.I.T. first-hand. **The C.I.T. has a right to discuss the report with the person doing them. It is a basic human right and also a sound evaluation technique.**"
+
+Three obligations, then, in the association Kanawana belonged to and was accredited by: the CIT evaluates the programme, in writing; the camp evaluates the CIT, in writing and in conversation, both during and after the season; and the CIT is entitled to read and argue with what was written. Whether Kanawana met them is not documented — but this is the standard against which its CIT programme of the later 1970s should be read, and any surviving CIT evaluation form or written report in the camp's records is evidence of the practice rather than an anomaly.
 
 ## Current Structure: Trailblazers
 
@@ -44,6 +52,7 @@ As of 2026, the CIT program is branded "Trailblazers": a 48-day program (four se
 5. YMCA Quebec, "Trailblazers CIT (Ages 16-17) – 48 days" [src_ymcaq_trailblazers_2026].
 6. YMCA Quebec, "Leaders in Training Information Guide Summer 2026" [src_ymcaq_lit_guide_2026].
 7. *Kamp Kanawana* broadcast script, station CFCF, 26 June 1941 [src_ia_kanawana_broadcast_cfcf_1941]. Full text cached at `sources/cache/ymca-montreal-fonds/1941-06-26-ymca-kamp-kanawana-broadcast-station-cfcf.txt`; read end to end 2026-09-03 under p_304. See [f_2461].
+8. Barry Lowes, "And How Was Your Summer? — Evaluating Your Camp," *Canadian Camping* Vol. 29 No. 5 (October 1977), p. 4 [src_ia_canadian_camping_collection]. Found by the full word-for-word read of the run (`kb/reread/cc_findings.md`, issue 115).
 
 ## Research Notes
 
