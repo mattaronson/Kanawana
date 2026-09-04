@@ -6136,12 +6136,76 @@ shared towels, laxatives discouraged, first-aid instruction before canoe trips; 
 Tapawingo** on flag-raising devotions ("God has created a new day, / All silver and green
 and gold"). Judith Sule of the **Scarborough Y.W.C.A.** on day-camp programme planning
 ("Each child should be caught, not taught, by the wonder of life"; "Delight seems to be
-the missing ingredient in most camp programme"). A continuation page (from p. 158) on
-counsellor practice that reads directly on the embargo thread: **"A camper's confidences
-are confidential, whether they are shared naturally or in a sudden moment of intimacy, or
-through a diary which has been left open, or a letter lying on a bed. They are not for
-public edification which goes by another name, gossip, and is anything but
-professional."** Two camps advertised for sale: an unnamed boys' camp 40 miles from
+the missing ingredient in most camp programme").
+
+**[Added on re-check from issue 57.** Two attributions this block left open are now
+closed, and one article it missed is restored. The "Sermons Under The Sun" devotional
+from Y.W.C.A. Camp Tapawingo is by **Mary Purdy**, per this issue's own contents page and
+her own reuse of it in February 1963. And the unattributed "continuation page (from
+p. 158) on counsellor practice" quoted below is the tail of **Margaret Govan's "The Happy
+Camper" (Camp Onawaw, pp. 156–158, 182)** — an article on the contents page that this
+block did not record at all. It is worth having in full, because a 1963 article quotes it
+back and because it is the era's clearest statement of what a camp owed a child.
+
+Govan's argument: most campers are neither happy nor unhappy — "Interested, yes;
+co-operative yes, but not bubbling over with happiness." The naturally happy child "will
+be happy as a king in most of our camps," but many are not, and could not be: "They have
+a strange nursery ... a world of tension, fear, trouble and struggle; a man-made,
+materialistic world where even the child consumer is being battered on every side, to
+consume more, and so become less self-sufficient and self-reliant all the time; a world of
+values which cut across other values; a world of change and upset, quite unpredictable
+from day to day; **a world without roots!** And our children reflect the world. So children
+bring to camp what **Fritz Redl** called '**shadows from home**' — worries, tensions,
+fears, aggressiveness, hostility, prejudice, and values which are anti-social, unethical,
+even immoral."
+
+Her areas of need: health and safety ("any camp director who takes a chance in this area,
+cannot be truly concerned about the welfare of his campers"); food ("the foundation stone
+of good public relations. Enough said"); equipment ("a tool, not to be confused with
+leadership"); the composition of the cabin group, quoting Redl again — "there should be
+enough differences to make life interesting; enough similarities to make a working group.
+And what is enough? So much, said Professor Redl, and I am still trying to find the
+answer!"; programme; and human relationships. On achievement she lists the legitimate
+occasions to show off — "a water regatta, building a fire for the campfire, helping to
+prepare a meal, the opportunity to get out into a canoe as soon as the requirements have
+been learned, skipping a sail boat, steming on a trip, exhibiting a piece of
+craftsmanship." On belonging: "As a camper learns the names of his neighbours, trees, and
+birds and beasts, they no longer have power over him. **Magic? Yes, but white magic.**"
+And, unusually, on the need to be anonymous: "especially in the teens, he must also
+experience the sense of being lost within the community. This can happen in a sing-song,
+at chapel, in the dining-room, through large competitive games when all camp is involved.
+Thus he has little responsibility but is united with all the others."
+
+Then the passage that bears on `p_307` and `p_308`. On limits: "The counsellor must urge
+each camper to do his best, and never to be satisfied with less. **The counsellor must
+accept that best even if it be very poor.** We can make a camper wretched in either
+direction ... it is so difficult to make a well-coordinated swimming teacher understand
+that no matter how hard Bobbie tries, he will never achieve a rhythmic crawl." On
+privacy: "A camper's privacy must be respected, his day dreams, his reticences, his
+modesty ... even if it be a false one (or does this apply only to girls?) Jean may object
+to undressing 'in public'. The counsellor may say: So what! But this has meaning for
+Jean, and her feelings must be respected until her attitude changes, if it does." On
+fears — thunderstorms, bugs, "spiders especially", hypodermic needles, the water, strange
+noises, "or even of the little man who isn't there" — "Deal with these fears we must, but
+a head on clash is not going to get us anywhere." And then:
+
+> **"A camper's confidences are confidential, whether they are shared naturally or in a
+> sudden moment of intimacy, or through a diary which has been left open, or a letter
+> lying on a bed. They are not for public edification which goes by another name, gossip,
+> and is anything but professional."**
+
+Also: "under no circumstances may a camper be the means of meeting the counsellor's need
+for affection, admiration, throwing his weight around. I think you all know what I mean,
+even though we call it camp spirit or religion or something else. **Nor dare we exploit
+emotions. Sometimes a camp seems ripe for exploitation; this is the temptation of our
+calling.**"
+
+That is a camp director stating, in print in 1961, that a child's confidences — including
+ones acquired by reading a diary left open — are not the camp's to circulate. It belongs
+beside Martin Gold's 1959 "ethical must" and Barry Lowes's countersigned reports (issue
+54) in whatever the wiki eventually says about publishing this material.**]**
+
+Two camps advertised for sale: an unnamed boys' camp 40 miles from
 Huntsville sleeping 204, and **Camp Wabi-Kon** at $100,000, accommodating 300. The
 American Camping Association advertises its 24-page *Camper Guidance — A Basic Handbook
 for Counsellors*, 6,000 reprints sold in three weeks.
@@ -7357,3 +7421,244 @@ initials.
 
 Kanawana itself: **named**, in Macdiarmid's obituary — "A former director of Camp
 Kanawana."
+
+## 57 — Vol. 15 No. 2, February 1963 ★★★
+
+Two findings here connect directly to Kanawana's own staff record, and one of them closes
+a link the wiki has never made.
+
+**G. H. Merrill, "Among Ourselves: Mr. and Mrs. 'Van'" (pp. 50–51, 69) — and Hay Finlay.**
+A profile of F. M. Van Wagner and his wife Catherine, written by the man now titled
+Director of Camp Nominingue while Van Wagner remains Owner-Director. The biography:
+
+- **Met at McGill in 1921 — "interestingly enough, she as the student and he as the
+  teacher"** — and married shortly after.
+- **"Van took his degree in Physical Education at Springfield University in 1917 and
+  received his diploma at McGill in 1925."**
+- **"He was Director of the Y.M.C.A. camp from 1920 until 1924."** Unqualified, no camp
+  named — in a Montreal-facing profile of a McGill man. Kanawana's own directors index has
+  G. D. Brandon (1921), Lemuel P. Ereaux (1922) and Philip G. Paterson / R. E. G. Davis
+  (1923) documented from the brochures, so Van Wagner cannot be Kanawana's director for
+  those three years. **1920 and 1924 are both blank in that index.** This is a question,
+  not a claim: which YMCA camp did Van Wagner direct 1920–1924, and does the 1920 or 1924
+  end of it touch Kanawana? The sentence is loose enough that "the Y.M.C.A. camp" may mean
+  a camp elsewhere entirely, and it may also be Merrill compressing a longer involvement
+  into round numbers. Worth resolving before it is either asserted or dismissed.
+- **"In the fall of 1924, Van and a McGill associate of his, Hay Finlay, decided that they
+  would operate their own camp."** — **Hay Finlay is in Kanawana's own directors index**:
+  Senior Section Director at Kanawana in 1922, "ex-Central YMCA Boys' Physical Director,
+  then at McGill Physical Education," from the 1922 brochure. The two records fit exactly —
+  same man, same institution, same years. **So a documented 1922 Kanawana section director
+  co-founded Camp Nominingue.** That is a direct, dated staff link between Kanawana and the
+  Laurentian private camp that dominates this magazine's Quebec coverage, and it is not in
+  the repo. It also strengthens the case that Van Wagner's own 1920–1924 YMCA camp
+  directorship is worth chasing: his co-founder came out of Kanawana.
+- **"They were assisted by the C.P.R. in locating a site"** — the railway placing a camp,
+  the same kind of fact as Kanawana's own Ste-Agathe rail dependence.
+- **First season summer 1925 with twelve campers; 270 boys in summer 1962.**
+- Catherine is **curator of the Nature Cabin**, "a lover of and authority on natural
+  things"; they spend every weekend from spring to December at their Laurentian home.
+- Van Wagner "has just completed a highly successful term of office as President of the
+  Canadian Camping Association."
+
+**Walter D. Mingie, B.Sc., "The Quebec Camp for Diabetic Children" (pp. 47, 63).** The
+Walter Mingie who ran canoe trips and the intermediate section at Nominingue in 1961
+(issue 51) is now Camp Director of **Camp Carowanis**, and this is the fullest description
+of a Quebec special-needs camp in the run. It appears nowhere in the repo.
+
+- Run by **the Quebec Camp for Diabetic Children Inc.**, financed by donations from
+  individuals and local benevolent organisations.
+- **Sixty miles north-east of Montreal, three miles from Ste-Agathe** — the same
+  Laurentian corridor as Kanawana, Nominingue, Powter's and Camp Jubilee's original Lac
+  St-Joseph site. "We are fortunate in having an isolated site whose closest neighbour is
+  half a mile down the lake and hidden from view."
+- **Two three-week periods in summer 1962, sixty boys and girls each, aged eight to
+  fifteen**, roughly equal numbers French and English speaking. Girls in cabins, boys in
+  tents. Instructional talks on diabetes by doctors and dietitians **in both French and
+  English**.
+- Six stated differences from an ordinary camp: every camper to the infirmary before
+  breakfast, where counsellors, two doctors and two nurses supervise and teach them **to
+  give their own insulin**, each getting a glass of fruit juice; **no seconds, "even in
+  bread and butter"**, each camper's diet on a card and served individually by two
+  dietitians with names marked at each place; mid-morning, mid-afternoon and evening
+  snacks (cheese and crackers brought to tents and cabins after lights out); an afternoon
+  programme starting ten minutes after lunch with the quiet hour moved to mid-afternoon;
+  **bottles of coke syrup at strategic points around camp** with counsellors trained to spot
+  reactions — "Many of our counsellors themselves are diabetics, and they are invaluable in
+  encouraging the campers to participate"; and urine testing before every meal and at
+  bedtime, at stations with running water.
+- "We try to de-emphasize the special routines and to accentuate the normal camping
+  activities" — softball, soccer, volleyball, regattas, treasure hunts, campfires, picnics,
+  canoe trips, square dancing, Saturday night plays, handicrafts, canoeing. Favourite
+  indoor activity: dancing — "mixers, reels, squares and the 'twist'"; outdoors,
+  "counsellor hunts."
+
+Read with the CNIB centre (issue 53), Braaten on retarded children (issue 54) and
+Shorgan's crippled children's camp (issue 47), this is a fourth documented Canadian
+special-needs camp in eleven issues, and the second in Quebec. It is also a bilingual
+Quebec camp operating as a single community, which is a useful counterpoint to the QCA's
+two-section structure.
+
+**Masthead — the executive elected at Banff, and a Powter at the CCA.** President Kenneth
+H. Murray continues; A. Ross Seaman continues as Secretary; Hewetson as Treasurer; Frances
+Kelly as Executive Secretary at 2233 Belgrave Avenue. The Vice-Presidents are new:
+L. W. Collins (Halifax), **Neil B. Powter (Montreal)**, Barry Lowes (Toronto), Rev. R. S.
+Harper (Winnipeg), Jack Way (Calgary), Leo Marcus (Vancouver). By the convention Murray
+set out in the December nomination notice — "Provincial Presidents have been named as the
+Vice-Presidents of the Canadian Camping Association" — **N. B. Powter of Powter's Camp,
+who wrote "Sixty Years Ago" in issue 53, is president of the Quebec Camping Association in
+1963.** (Marked as an inference from the stated convention, not from a printed QCA title.)
+Alta Kahn is off the list. New **Editor: Mrs Dorothy M. Douglas**, 26 Park Ave., Oakville —
+Joyce Bertram moves onto the editorial committee after four issues in the chair.
+
+**Norm McKee, "The Duke of Edinburgh Award — A Preliminary Report" (pp. 52, 61–63).** The
+scheme's arrival in Canada, dated: "Following a visit of His Royal Highness in **1962**, a
+group of Canadian Youth leaders met about the possibilities of introducing the scheme to
+Canada. To this end **the Y.M.C.A. in Canada was asked to conduct a trial run**." The five
+trial associations: **Halifax, Toronto, Vancouver, Chatham, and Kitchener-Waterloo** — no
+Montreal. The OCA was asked to consider its role. Four sections (Rescue and Public Service
+Training; Expeditions; Pursuits and Projects; Fitness), with the expedition requirements
+printed in full: Bronze — foot only, one night out, 15 miles in normal country, with map
+reading, personal hygiene, Junior St. John's Ambulance first aid, "rules and courtesies of
+cross-country travel (i.e. trespass laws, fire regulations)", campsite planning including
+latrine plan and refuse disposal, and cooking a simple meal with **all food carried, none
+bought en route**; Silver — foot, canoe, sailing or horseback, two nights at different
+sites, 30 miles; Gold — 50 miles, three nights at different sites, **in wild country**, plus
+weather recognition and knowledge of "communications centres, rescue posts, ranger
+stations". Parties of three minimum in normal country, four in wild, maximum six. Relevant
+to Kanawana's own award culture and to `traditions/canoe-trips.md`: this is the external
+standard against which camp tripping awards were about to be measured, and a YMCA-run trial
+at that.
+
+**Margaret Govan writes twice, and both pieces are usable.**
+
+"**The Tragic Demise of Esmeralda**" (Camp Capers, p. 57) is the best-documented camp
+legend in the run and a working model of how one is made. Esmeralda is a life-size puppet
+built one rainy day by a cabin group, who "dropped papers when nobody was about, stuck
+tired-out chewing gum here and there, and left other people's belongings in the oddest
+places" — a tidiness-enforcement device with a personality, who "reappeared each year when
+it seemed necessary to point the moral," and whose "career began when she was given a
+vitamin pill." Last summer she was found **strung up on the flagpole**; the head of
+swimming and the nurse were excused from breakfast to attempt mouth-to-mouth and first
+aid; she was carried to the infirmary "a sorry bundle of clothes and Kapoc." A senior cabin
+group ran the murder trial — four innocent counsellors arraigned (the real culprit, a
+visiting ex-counsellor, had left), the counsellors defending themselves, "a perfect spate
+of French from a French-Canadian camper — all nonsense as was found out too late", an
+affidavit from the nurse "overflowing with medical terms", the juniors objecting from the
+floor, the defence reciting "The quality of mercy is not strained", a hanging jury, and a
+sentence of "hard labour picking up papers!" Days later a letter arrived from Esmeralda's
+ghost, refusing to return: "any papers found round and about would be the campers' own
+responsibility, so there!" For `traditions/myths-and-legends.md` and the Chopsy question
+(`p_045`), this is a dated, first-hand account of an invented camp figure with a recurring
+annual appearance, a moral function, a death, a trial and an afterlife — exactly the shape
+a camp legend takes, told by the director who watched it happen.
+
+"**Story Telling**" (pp. 58, 70) is a practitioner's method: "It takes time to tell a story
+well, and even more time to find a story worth telling ... the story teller belongs among
+the artists of this world." Sources include the *Saturday Evening Post*, the classics,
+"an enlargement on your own experiences", local history, and plays (Barrie's *Mary Rose*
+"is an excellent ghost story"). Method: read it slowly several times, walk the sequence,
+"try to see it in my mind, like a movie", often write it out, "I tell it to the bedpost."
+Delivery: simply, no over-dramatisation, few characters, no recapitulation, "keep yourself
+out of it as much as possible." Her tried list — **fairy stories; Indian stories and
+legends; animal stories, especially about horses; Greek myths; Bible stories; King Arthur
+and Howard Pyle's Robin Hood; Tajar Tales; Uncle Remus; Paul Bunyan; missionary and
+explorer stories; Farjeon; Kipling's *Jungle Books* and parts of *Kim*; Paul Gallico;
+David Walker's *Geordie*** — plus read-aloud titles (*The Crock of Gold*, George
+MacDonald, *Mary Poppins*, *Stuart Little*, *Charlotte's Web*) and *The Incredible Journey*,
+newly published, which she is looking forward to. That list is the era's campfire canon and
+belongs in any account of Kanawana's storytelling.
+
+**Hugh MacLennan, "On Living With the Winter in the Country" (pp. 54–56)**, reprinted in
+part from *Saturday Night*. The novelist — then teaching at McGill — recounts that **"in
+the summer of my twelfth year I went to a boys' camp in Nova Scotia where we slept on the
+bare ground under canvas"**, came home to Halifax in August heat, could not sleep indoors,
+pitched his father's old fishing tent in the back yard, and **slept outdoors year-round
+from age eleven to twenty-one**: "between the ages of eleven and twenty-one, the only time I
+ever slept inside four walls was a week when I was sick." Details worth keeping: army
+blankets, army socks, two pairs of flannel pyjamas, a red beret and a hot water bottle; a
+fire-gong rigged on twenty yards of cord through a hole bored in the kitchen window frame,
+jerked by the family's Newfoundland maid each morning and used by at least one neighbour
+instead of an alarm clock; sixteen below zero in a Halifax January, fruit-tree fibres
+cracking "like rifle shots"; and his breath condensing into "a delicate snow-mist which
+descended and settled lightly on the top blanket ... for a few moments it was like lying
+under a rainbow." He stayed in the tent "until the day before I sailed from Halifax to take
+up a Rhodes Scholarship in Oxford," and credits it with the weather's role in his novels:
+"in most of my novels the weather is apt to develop into a character as important as the
+people." A Canadian novelist of the first rank tracing his own sensibility to a Nova Scotia
+boys' camp, printed in the national camping magazine — a good item for
+`connections/institutional-lineage/canadian-camping-movement.md`, and a third winter-camping
+piece in six issues.
+
+**S. C. Cowan, Environmental Sanitation Branch, Ontario Department of Health, "Toilets for
+Use in Summer Camps" (pp. 48–49, 65–66).** The companion to the December 1961 lagoon article
+(which it cites by page), and the most practical sanitation document in the run: "Each camp
+therefore must be considered as a small but complete municipality." Universal criteria —
+separate facilities for each sex and for staff, urinals in boys' camps, hand-washing,
+fly screening, privacy, illumination, daily inspection, **seats scrubbed with detergent at
+least once a day**. Then the options: full water carriage to septic tank and tile bed, with
+the warning that "**sewage is not purified in the septic tank. The liquid effluent leaving
+the tank is as highly polluted as the wastes entering**"; the **modified automatic-flush**
+system using about a quart a water per flush, tile bed sized at one gallon per person per
+day and never under 40 feet; the **pail-a-day** system; and the privies — earth pit
+(requiring seven feet of earth above water table, rock or clay; pit five feet deep with two
+and preferably four feet of clearance above the water table; **at least 100 feet from any
+well and downgradient of it; 50 to 150 feet downwind of camp buildings; 100 feet from the
+kitchen; 100 feet from a lake or stream**; raised impervious floor, earth mounded and sloped
+away, self-closing door and seat lid, all knot holes filled or screened, kerosene against
+mosquitoes if water gets in), pail type, and concrete vault. In Ontario the local Medical
+Officer of Health must approve any subsurface system before installation. This is the
+regulatory and engineering baseline for anything `site/` says about Kanawana's sanitation in
+this era.
+
+**Other content.** Mary Purdy of **Toronto YWCA Camp Tapawingo** on spiritual values — from
+her 1962 OCA conference talk, quoting Schweitzer and, at length, **Margaret Govan's "The
+Happy Camper" (*Canadian Camping*, June 1961)**: children "bring to camp what **Fritz Redl**
+calls 'shadows from home' — worries, tensions, fears, aggressiveness, hostility, prejudice,
+and values which are anti-social, unethical, even immoral." Her own position is a clean
+statement of the non-denominational camp's line: "**Religion, to my mind, is the business
+of the church. My job as a camp director is to try to put the church's teachings into
+action in a camp setting.**" (Her flag-raising passage repeats verbatim the "Sermons Under
+The Sun" piece printed unattributed in issue 51 — so that anonymous YWCA Tapawingo
+devotional was Purdy's, and she says so here.) **Grant McKeen** opens a new "Vice-Presidents'
+Page" on challenge: "There are young people today who are willing to settle for low success
+rather than risk high failure." **Ken MacKeracher**, formerly Director of Halifax YMCA Big
+Cove Camp and now at Toronto High Park YMCA, on why he directs: a shy high-school student
+"with fear and trembling, a speech impediment, and lack of confidence" who came back from
+counselling "with self-confidence, maturity and knowledge, and without his former
+difficulty" — "The individual was myself." **George Williams College, Chicago** announces
+North America's first **Master of Science in camping and outdoor education**, a third group
+work / a third camp administration / a third nature-recreation, with field work in museums,
+forest preserves and community centres — the professionalisation of the job, in the same
+issue as a Duke of Edinburgh scheme and a provincial sanitation code. F. Westman's
+"A Warbler's Appetite", reprinted from the Federation of Ontario Naturalists Bulletin —
+**517 dead birds and 23 injured of 30 species collected at the Barrie, Ontario TV tower on
+13 September 1961**, the dead sent to the Royal Ontario Museum, and one chestnut-sided
+warbler hand-fed for two days (day two: six grasshoppers, 12 spiders, a female walking stick
+full of eggs, 43 oak worms, 34 crickets, two sulphur butterflies, a bee-like fly, two
+caterpillars, two centipedes). An Ontario Lands and Forests advertisement: **"Neglected camp
+fires caused 637 forest fires in Ontario in 1962"** — up from 289 the year before (issue 54).
+A Montreal supplier new to the run: **Emergency First Aid Service Ltd., 1447 Bleury St.,
+Montreal, "Serving Industry & Camps since 1935."**
+
+**OCA conference, King Edward Hotel, 22–23 March 1963**: Sam Kadison again (this time on
+"Camping in a Time of World Crisis — A Professional Inventory"), Dr Alan Nathans of Camp
+WoodCrest, Rabbi David Powell of Buffalo on spiritual guidance, and **Dr Mary L. Northway
+with Professor Dorothy Millichamp** of the Institute of Child Study on "Understanding Your
+Campers" and "How Children Learn" — Northway on the platform three months after "Faster
+Faster". Sessions include **firefighting and fire-drill**, discipline and behaviour problems,
+and panels on swimming and on transporting campers.
+
+**New names**: G. H. Merrill (Director, Camp Nominingue), Neil B. Powter (CCA
+Vice-President, Montreal), Norm McKee, Ken MacKeracher, Mary Purdy, Dorothy M. Douglas,
+S. C. Cowan, Dorothy Millichamp, Alan Nathans, David Powell, Leo Marcus, Jack Way,
+John Latimer, F. Westman, Richard E. Hamlin. **New leads**: **which YMCA camp F. M. Van
+Wagner directed 1920–1924**, and whether it touches Kanawana's blank 1920 and 1924 seasons;
+**Hay Finlay** — a Kanawana section director who co-founded Nominingue, worth a stub and
+worth tracing at Central YMCA and McGill; Camp Carowanis and the Quebec Camp for Diabetic
+Children Inc.'s records; the YMCA of Canada's 1962–63 Duke of Edinburgh trial files; and
+Govan's "The Happy Camper", *Canadian Camping* June 1961 — an issue already read in this
+pass, whose block should be checked against Purdy's quotation.
+
+Kanawana itself: not named in this issue — but its 1922 Senior Section Director is, as the
+co-founder of Camp Nominingue.
