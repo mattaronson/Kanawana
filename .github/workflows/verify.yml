@@ -1,0 +1,50 @@
+name: verify
+
+# The project's real checks are four Python scripts that, until now, only ran
+# when someone remembered to run them. Nothing enforced them on a push, and a
+# regression made in a session that forgot would have landed silently. That is
+# the same failure this whole branch has been chasing in the sources: a check
+# nobody runs is indistinguishable from no check.
+#
+# Everything here is Python standard library. No install step, no lockfile, no
+# network.
+
+on:
+  push:
+    branches: ['**']
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Data integrity
+        # JSON parses, ids unique and well formed, and the generated plaque
+        # index and multi-year table match what their builders produce.
+        run: python scripts/verify/data_integrity.py
+
+      - name: Citation and link integrity
+        # Blocking: A1, A2, B, D, E, F, G on drafts, plus the three whole-wiki
+        # passes. Advisory: C, and the provenance passes H-M.
+        run: python scripts/verify/verify_harness.py
+
+      - name: Internal consistency
+        # Numbers asserted in prose against the data behind them. Both halves:
+        # the derived-value registry and the general table check.
+        run: python scripts/verify/consistency.py
+
+      - name: Embargo labelling
+        # Every embargoed fact registered and dated, every marker paired, and
+        # no embargoed-only name loose in an article. Unlabelled is the
+        # failure, not present.
+        run: python scripts/verify/restricted_guard.py

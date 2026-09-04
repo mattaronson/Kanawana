@@ -94,7 +94,10 @@ measure the project's reading discipline, not any article's correctness.
 import json, os, re
 from collections import defaultdict
 
-ROOT = '/home/user/Kanawana'
+# Derived, not hardcoded: this runs on a CI runner as well as in the session
+# container, and the old absolute path existed only in the latter.
+import os, sys
+ROOT = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 WIKI = os.path.join(ROOT, 'wiki')
 
 arts = json.load(open(os.path.join(ROOT, 'wiki/articles.json')))['articles']
@@ -522,3 +525,37 @@ if m_unreadable:
     print('     NO entity FIELD -- not inspected, do not read as passing (%d):' % len(m_unreadable))
     for cid, keys in m_unreadable:
         print('       %-8s keys=%s' % (cid, keys))
+
+# ===========================================================================
+# EXIT CODE. Added 2026-09-03, when this harness was wired into CI and turned
+# out to have no sys.exit at all: it reported everything and always exited 0,
+# so nothing it found could ever fail a build.
+#
+# BLOCKING: A1, A2, B, D, E, F, G on drafts, and all three whole-wiki passes.
+# These are integrity failures -- a marker that resolves nowhere, a source id
+# that is not a source, a header that miscounts its own list.
+#
+# ADVISORY: C (a Sources entry no marker cites). A listed-but-uncited source is
+# often deliberate -- a null result recorded so the ground is not re-covered --
+# and failing a build on it would train people to ignore the build.
+#
+# The provenance passes H-M are advisory by design; see the docstring.
+# ===========================================================================
+BLOCKING_CLASSES = {'A1', 'A2', 'B', 'D', 'E', 'F', 'G'}
+_blocking = sorted({k for v in dirty.values() for i in v
+                    if (k := i.split(':')[0]) in BLOCKING_CLASSES})
+_wide = len(wide) + len(wide_a1) + len(wide_g)
+
+print('\n' + '=' * 70)
+if _blocking or _wide:
+    print('FAIL -- blocking issue classes present: %s' % (_blocking or 'none'))
+    if _wide:
+        print('       plus %d whole-wiki finding(s): %d unresolvable marker(s), '
+              '%d header mismatch(es), %d numbering break(s)'
+              % (_wide, len(wide), len(wide_a1), len(wide_g)))
+    print('=' * 70)
+    sys.exit(1)
+print('PASS -- no blocking issue class, no whole-wiki finding')
+print('       (advisory findings above, if any, do not fail the build)')
+print('=' * 70)
+sys.exit(0)
