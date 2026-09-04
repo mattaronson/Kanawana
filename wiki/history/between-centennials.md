@@ -1,7 +1,7 @@
 # Between Centennials (1968–1993)
 
-*Status: draft | Sources: 12*
-*Last Updated: 2026-08-14*
+*Status: draft | Sources: 14*
+*Last Updated: 2026-09-04*
 
 ## Overview
 
@@ -16,6 +16,24 @@ The change proved substantive rather than token: in 1972, just three years after
 ## The 1970s: A Thinning Record
 
 Kanawana's administrative record continues through the 1970s — Concordia's archives show "Camping and Outdoor Education Branch of Management minutes" for 1975–1978 replacing earlier committee structures — but the directorship itself grows harder to trace.^1 Stuart McLean, later the creator and host of CBC's *The Vinyl Cafe*, worked five summers at Kanawana beginning in 1969, rising from counsellor to assistant summer camp director for the 1974 and 1975 seasons; McMaster University's Stuart McLean fonds confirms he served under director Derek Walsh, whom McLean sublet his Montreal apartment to on leaving for Toronto.^5 See [[people/notable-alumni/stuart-mclean|Stuart McLean]] for his fuller biography. Richard Patten's 1976–1979 YMCA role, previously described here as placing him at the organizational head overseeing Kanawana, was in fact Executive Director of the **Centre-ville/Downtown branch** — a different office from the association's, and one with no line authority over the camp. Camping and Outdoor Education was its own parallel branch. See [[people/notable-alumni/richard-patten|Richard Patten]].^10 G. David Twynam's directorship is documented from 1979, extending into at least the 1980 season per that year's *Ka-News* newsletter.^6 The 1976–1978 gap is narrower than this article previously stated. Digitized Kamp Kanawana director's reports on Internet Archive show the **1976, 1977 and 1978 reports all signed "Derek V. Walsh, Director of Camping"**, and the 1979 report signed "G. David Twynam / Director" — so Walsh remained in a camping leadership role for four years beyond the 1975 season this article had as his last.^11 ^12 **1978 is no longer unaccounted for**, as this article stated until 2026-08-14; the 1978 report survives, is signed by Walsh, and names Kerry Finucan as Assistant Camp Director. The caveat that does survive is the title: "Director of Camping" is the *branch* title, and whether Walsh was also running the camp on-site in those summers is not stated by any document read so far. See [[people/directors-index|Directors and Staff of Camp Kanawana]]'s Gap Periods section.
+
+### The record is thinner than it needed to be: two national directory entries
+
+Two entries in the Canadian Camping Association's national Directory Issues give Kanawana's own registered particulars for 1975 and 1976 — capacity by sex and age, headline activities, both addresses, session dates and fees. They were printed for a national readership of 20,000 and have sat unread in the cached run of *Canadian Camping* throughout.^13 ^14
+
+**1975.** "**KANAWANA (1894) (YMCA)**", director **Derek V. Walsh**; P.O. Box 310, St. Sauveur des Monts (514-227-2414); winter office 1441 Drummond Street, Montreal H3G 1W5 (514-849-5331). Activities: **Tripping, Swimming, Sailing, Arts & Crafts, C.I.T. Program**. Accommodation: **90 boys 8–15 / 90 girls 8–15**. Filed under "Organizational Residential — **Co-ed**". A second, separate entry lists **Les Voyageurs de la Vérendrye (YMCA)**, same director, "c/o Kamp Kanawana", **15 boys 13–17 / 5 girls 13–17**, for wilderness canoe tripping — so the tripping programme was separately accredited as a camp in its own right.^13
+
+**1976.** The two are now listed together as "**KANAWANA (1894) — Les Voyageurs de la Vérendrye**", director Derek V. Walsh, same addresses. Activities: **Tripping, Canoeing, Orienteering, Arts & Crafts, Sailing**. Accommodation: **98 boys 8–15 / 91 girls 8–15**. And the operating particulars the 1975 entry's column did not survive OCR:^14
+
+| | |
+|---|---|
+| **Sessions** | June 28 – July 12; July 12 – July 26; July 29 – August 12; August 12 – August 26 |
+| **Structure** | four two-week sessions |
+| **Fee** | **$210.00 per two weeks; each additional two weeks $190.00** |
+
+Several things follow for this decade. **Coeducation is registered as near-parity, not as a policy in progress**: ninety and ninety in 1975, ninety-eight and ninety-one in 1976, the same age band for both. **The camp's own headline description of itself changed between the two years** — swimming and the C.I.T. programme drop out of the five listed activities and canoeing and orienteering come in, which is a small but real signal about where the emphasis was moving. **Total registered capacity rose from 180 to 189.** And the 1976 fee gives a figure this article has never had: $210 for the standard two-week session, with a marginal rate of $190 for each further fortnight — a deliberate discount for longer stays.
+
+The **1976 season also ran straight through the Montreal Olympics** (17 July – 1 August), which fell across the end of the second session and the start of the third; camps nearer the city were advertising group accommodation to Olympic visitors in the same issue.^14 Whether that affected Kanawana's registration or programme is not recorded anywhere read so far, and is worth asking of the 1976 director's report.
 
 ## The 1980s: The Second Thin Decade
 
@@ -54,6 +72,8 @@ The 1980s are, after the 1947–1958 postwar gap, the thinnest-documented decade
 10. YMCA of Montreal Annual Reports 1977-78 and 1978-79 (Internet Archive) — the Branch Chairmen and Executive Directors listing, distinguishing Patten's Downtown branch role from the association's General Secretary [src_ia_ymca_annual_report_1977_78, src_ia_ymca_annual_report_1978_79].
 11. Kamp Kanawana director's reports 1976, 1977 and 1979, digitized in Internet Archive's rma-concordia-publications collection [src_ia_ymca_annual_report_1978_79].
 12. *Kamp Kanawana Director's Report 1978* [src_ia_kanawana_report_1978] and *1977* [src_ia_kanawana_report_1977], Internet Archive.
+13. *Canadian Camping* Vol. 27 No. 2 (January 1975), the Canadian Camping Association Directory Issue, Quebec Camping Association accredited member camps listing [src_ia_canadian_camping_collection]. Found by the full word-for-word read of the run (`kb/reread/cc_findings.md`, issue 103).
+14. *Canadian Camping* Vol. 28 No. 2 (January 1976), the same annual Directory Issue [src_ia_canadian_camping_collection]. Found by the same read (issue 107).
 
 ## Research Notes
 

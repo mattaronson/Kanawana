@@ -19729,3 +19729,181 @@ editor's note announces that from now on **an outdoor education article will app
 starting in the National Directory Issue** — which is the next number and which contains Kanawana.
 
 No Kanawana reference in this issue.
+
+## 107 — Vol. 28 No. 2, January 1976 — THE SECOND DIRECTORY ISSUE
+
+Contents page checked. Editorial content read in full: Viewpoint (Ron Johnstone); Adventure versus
+Risk (Jocelyn Palm); The Day of the Wolf (Ann Prewitt); The Business of Camping (Doug Dent); In
+Memoriam — Frank Jennings (Barbara Taylor); Children and the Outdoors (John Pratt); Outdoor Cookery;
+Tips; The Outdoorsman; The Wilderness Steam Bath (Mors Kochanski); Canoeing Along the Churchill; J.
+Harry Ebbs (Bruce W. Hodgins); Lunch on the Ski Trail (F.M. Van Wagner); Camp Is (Madelene Allen);
+Classified Ads. The rest is the national directory; the Quebec section has been read closely.
+First issue to carry an **ISSN (008-3119)**.
+
+**★★★★★ THE 1976 KANAWANA ENTRY — with sessions and fees.** Better than the 1975 one, because the
+season-and-fee column survives the OCR intact:
+
+> **KANAWANA (1894) — Les Voyageurs de la Vérendrye**
+> Director **Derek V. Walsh**
+> P.O. Box 310, St. Sauveur des Monts, Que. (514-227-2414); 1441 Drummond St., Montreal H3G 1W5
+> (514-849-5331)
+> Activities: **Tripping, Canoeing, Orienteering, Arts & Crafts, Sailing**
+> **98 boys 8–15 / 91 girls 8–15**
+> **June 28 – July 12; July 12 – July 26; July 29 – Aug. 12; Aug. 12 – Aug. 26**
+> **$210.00 / 2 weeks. Add. 2 weeks / $190.**
+
+Set against 1975 (issue 103) this yields a two-year operational series:
+- **The two camps are now one listing.** In 1975 Kanawana and Les Voyageurs de la Vérendrye were
+  separately accredited entries; in 1976 they are combined under one heading.
+- **Capacity 180 → 189**, and near-parity both years: 90/90, then 98/91, same age band.
+- **The headline activity list changed**: swimming and the C.I.T. programme out, canoeing and
+  orienteering in. A small but genuine signal about programme emphasis.
+- **Four two-week sessions**, with a three-day break between the second and third.
+- **$210 for two weeks, $190 for each additional two weeks** — a deliberate marginal discount for
+  longer stays, and the first Kanawana fee figure this project has for the decade.
+- **The 1976 season ran through the Montreal Olympics** (17 July – 1 August), which fell across the
+  end of session two and the start of session three. Camps nearer the city were advertising group
+  accommodation to Olympic visitors in this very issue (Green Acres Country Day Camp, "Olympic size
+  pool"). Whether it affected Kanawana is unrecorded — a question for the 1976 director's report.
+
+**Both entries patched into `wiki/history/between-centennials.md` (12 → 14 sources)**, into the
+section titled "The 1970s: A Thinning Record" — which is exactly the gap they fill.
+
+**★★★★ THE CCA WAS INCORPORATED BY LETTERS PATENT AT OTTAWA ON 5 NOVEMBER 1949.** From the
+Newfoundland & Labrador Camping Association's entry: "The Newfoundland & Labrador Camping Association
+is a Provincial Section of the Canadian Camping Association (**which was incorporated by Letters
+Patent at Ottawa November 5, 1949**)."
+
+**This is a documentary date where the project has had only recollections**, and it fits Plewman's
+own qualification precisely. Plewman (issue 92) put the founding meeting at the Château Laurier in
+1946 and added that "for the moment **it had no corporate existence**." The corporate existence
+began 5 November 1949. So the 1936-versus-1946 dispute may not be a dispute at all but three stages
+of one process: **organising activity from 1936–37** (the Concordia holdings, and Van Wagner
+describing himself as "promoter and charter member" in 1937), **a founding meeting at the Château
+Laurier in 1946**, and **incorporation at Ottawa in November 1949**. Note also that the QCA English
+Section took its own **Federal Charter in 1949** (issue 103) — the same year, suggesting one round
+of formalisation. **Patched into `canadian-camping-movement.md` as 8y**, without collapsing the
+conflict record: the dates are now placed in a sequence, not resolved by fiat.
+
+**★★★ F.M. VAN WAGNER WRITING IN HIS OWN VOICE — and a precise directorship.** His byline reads
+"**Director, Camp Nominingue 1925–1967**" — **a forty-two-year directorship, exactly dated**,
+extending the previous issue's tribute (issue 104). The piece, "Lunch on the Ski Trail", is a
+twelve-point method for kindling a fire on snow and making lunch on a Laurentian ski trail, from a
+man who says he has done it "some hundreds of times, along Laurentian ski trails, **during the past
+forty winters**" — so from about 1935. The technique is specific: lay several layers of two-foot
+logs on the snow as a base "to keep the snow from melting away quickly, forming a hole under the
+fire"; standing dead wood is drier in winter than summer; pack the tea pail with snow and add chunks
+rather than powder; **one fire for every four to six skiers**; skis running-surface-down make a
+seat; "stop for lunch as soon as the first member of the party feels hungry"; and put on the extra
+sweater the moment you stop. Winter Laurentian practice from the founder of the QCA, at 80.
+
+**★★★ J. HARRY EBBS — the Trent honorary-degree citation, read by Bruce W. Hodgins, 6 June 1975.**
+The fullest biography of Ebbs anywhere in this run, and it names something this read has been
+circling. Born in England, arrived in Peterborough as a child in 1912; King George School and
+Peterborough Collegiate, where he was head boy; **graduated in medicine, University of Toronto,
+1931**; joined the **Hospital for Sick Children in 1938** and was its **Senior Staff Physician from
+1946 to 1968**; **Director of the University of Toronto's School of Physical and Health Education
+from 1952 until his retirement in 1973**; author of more than sixty scientific papers on nutrition,
+child growth, coeliac disease and **physical recreation for mentally retarded children**. His
+Depression-era nutritional study of economically deprived expectant mothers in Toronto produced
+dietary programmes whose "startling conclusions and recommendations were adopted by Britain's Chief
+Medical Officer, so that, despite the hardships of war, **that country's infant mortality rate was
+reduced by fifty per cent**"; a pre-war study of nutritional and medical needs in the far North,
+"both Innuit and European", whose findings were used in **42 million food packages sent to Allied
+prisoners of war**; service on the National Food and Nutrition Advisory Board and as a **Captain in
+the 48th Highlanders**.
+
+And the camping side: "**Founding President of the Society of Professional Camp Directors**" — which
+names the body that has appeared throughout this read as "the Society of Camp Directors" (its
+inaugural dinner date, 12 versus 21 May 1969, is one of this project's open conflicts) and gives it
+a founder. Also **President of the Brora Research Centre for Children** — Mary L. Northway's Brora
+Centre (issue 99). Over fifty years earlier, "through the efforts of **Alex Edmison**", he became a
+counsellor and canoe instructor at the Taylor Statten Camps, "**There he fell in love with Adele or
+'Couchie', the Director's daughter, whom he married. Since 1938 he has been the Chief Medical
+Advisor for these camps, while his wife has directed Taylor Statten's Camp Wapomeo.**" So the camp
+physician who wrote this magazine's infirmary inventory (issue 98) and immunisation schedule (issue
+104) was Taylor Statten's son-in-law, the Statten camps' medical advisor for thirty-seven years, and
+the man whose fund endowed the Mary S. Edgar deposit at Trent.
+
+**★★ Doug Dent, "The Business of Camping: Aquatics, Water Safety & Watercraft" — and a YMCA
+programme change.** "**First of all, the YMCA lifesaving program was revamped, and in its place the
+RLSS program (Bronze Medallion and upwards) has been adopted.**" So by 1976 the YMCA had **dropped
+its own lifesaving programme** in favour of the Royal Life Saving Society's — a dated change in how
+a YMCA camp's waterfront awards worked. He prints a three-column **equivalence chart between the
+YMCA, Red Cross and RLSS levels**: YMCA Pre-Beginner / Beginner / **Star I–VI** against Red Cross
+Pre-Beginner, Beginner, Junior, Intermediate, Senior and RLSS Survival and Life Saving I, II, III.
+The RLSS had also just replaced its Elementary and Intermediate levels with **Life Saving Levels I,
+II and III**. Directly relevant to Kanawana's waterfront and to reading any award record from the
+period: **the YMCA "Star" levels are the system a Kanawana swimmer of this era would have been
+graded on.**
+
+**★★ Jocelyn Palm, "Adventure versus Risk"** — her paper to the National Outdoor and Environmental
+Education Conference, 4 October 1975, and the most rigorous safety-thinking document in this run.
+Defines risk as "the exposure of the participant to injury as a result of the adventure" and notes
+that "**many of the things the pioneers did in order to survive, we are now doing for 'kicks'.**"
+Nine preparation factors — physical ability, knowledge of the activity, psychological preparation,
+staff training, rules and legislation, medical approval, equipment and facility, communication,
+awareness of limitations — set against a rotating paper wheel of nine severity segments, each with
+its physical, mental (M) and social (S) consequences, so a leader can work each possible accident
+against each preparation factor. The passages worth keeping: on psychological preparation, that
+rescuers "had the skills and the theories but **they were not ready for the unpleasantness of pushy
+uncontrollable crowds, of violent regurgitation of victims while rescuers performed A.R., of sobbing
+relatives and friends close by**"; on peer pressure, that leaders must recognise "**an individual's
+desire to do an activity may not be desire at all, but pressure from peers**"; on legislation,
+"**Teachers have been embroiled in law suits and have lost their cases in court resulting in a
+public suspicious rather than enthusiastic for outdoor adventure**"; and a call for "more adequate
+investigation of the accidents which occur (**not just the deaths but the total injury picture**)."
+Her worked example is a camper fracturing an ankle forty miles from civilisation on a canoe trip,
+and her conclusion that the leader should have portaged that section.
+
+**★★ John Pratt, "The Adventure Trail" — hébertisme under a fourth name.** "Many camps and outdoor
+centres today have, or are planning to have, an adventure trail … It is an obstacle course or a
+combination of an obstacle course and nature trail … **Adventure trails are very common in some
+Western European countries.**" With a full materials list (free: cedar poles, old telephone poles
+with cross-pieces, used tires, tractor tires; bought: 5/8-inch threaded steel rods, steel strapping,
+wire, plywood for signs, three 36-inch concrete tiles, paint, creosote, sand) and stencilled
+plywood signs "**12" × 16", black figuring on white**", modelled on European stations, at each
+apparatus. **This is the fourth name in this run for the same thing** — *piste d'hébertisme*
+(Cousineau and Mingie, issues 82 and 94), the "Swedish idea of 'exercise course'" (Clarke, issue
+102), group initiative tasks (Talesnick, issue 104), and now the adventure trail — which is worth
+recording in `programs-activities.md` as a caution: a camp's rope or obstacle course of this period
+may appear in its records under any of them.
+
+**★ In Memoriam — Frank Jennings, died September 1975.** Commissioned a Salvation Army officer in
+**1944**, Youth Officer at Corner Brook, married **Eva Lundrigan in 1954**, served in Saskatchewan
+and Manitoba and latterly as **Salvation Army Sub-Director for Canada**, retired through ill health
+in **1967**. As NLCA Standards Chairman he produced **a Camp Standards Book for Newfoundland**; as
+president he started a newsletter, initiated the camp visitation and accreditation programme,
+published **the Newfoundland Camp Directory for the first time**, and revised the constitution, and
+brought the CCA annual meeting to Newfoundland in **May 1975**. Received the CCA's Award of Merit.
+An unusually clear picture of how a provincial camping association was built from nothing in under
+a decade.
+
+**★ Madelene Allen, "Camp Is" — forty-odd lines written by campers at Camp Ouareau in summer 1975**,
+collected for a Sunday evening programme. Worth having as the campers' own vocabulary of the period:
+"Having your rainy day program spoiled by the sun"; "Hearing a chipmunk run past your tent in the
+night"; "**Tent hopping**"; "Making '**Heavy Dew Days**' into sunshine days"; "Hearing the counsellor
+say… 'Flashlights OUT!'"; "Learning to be '**copesetic**'"; "**Bymph**"; "Making do with what you've
+got"; "Getting more than one letter at mail call"; "Living out of a suitcase"; "A junior's loving
+hug"; "**Feeling safe as the fire plane drones overhead**"; "Most of all, never wanting it to end as
+you see the days whiz by." Two of those — "Heavy Dew Days" and "Bymph" — are camp vocabulary the
+campers plainly understood and the reader does not, which is exactly the kind of thing
+`named-places-and-camp-vocabulary.md` exists to collect.
+
+**★ Ann Prewitt, "The Day of the Wolf."** The magazine's former editor, at sixty, walking in alone
+to her camp on **Cache Lake, Algonquin Park**, before ice break-up, and seeing three wolves on the
+ice a hundred yards off. Records that **Russ Rutter, naturalist and wolf authority**, had come to her
+camp and talked to the girls about wolves with tape recordings of their howls, and "had impressed us
+all that there was no reason for humans to fear wolves" — a dated instance of wolf education at a
+Canadian camp. Also an aside on solo travel: Rutter had declined to write her a piece on "Venturing
+Into the Woods Alone" because "an uncle of his had gone berry picking alone and had fallen and
+broken his leg. **They didn't find him for two years.**"
+
+Also: the Quebec grouped index now carries a new heading, **SPECIALIZED CAMPS**, listing **Carowanis
+(diabetic children)**, the Centre de Vacances de l'Association de Paralysie Cérébrale, **Centre de
+Plein Air La Calèche (socially-emotionally disturbed)**, **Centre Marronniers (mentally retarded
+adults)** and others — a category that did not exist in the 1975 index, and evidence that Quebec was
+formally accrediting specialised camps by 1976. **Kinkora (1926)**, directed by **Mr. Wilfred
+Jackson** (QCA English Section vice-president), is listed with **470 campers and families**. Bert
+Danson's advertisement now prices Ontario camps for sale at "**$100,000 to $350,000**". No other
+Kanawana or YMCA of Montreal reference in this issue.

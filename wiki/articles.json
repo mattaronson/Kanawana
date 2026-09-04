@@ -8321,6 +8321,12 @@
           "at": "2026-08-14T00:00:00Z",
           "by": "auto",
           "task": "VERIFY"
+        },
+        {
+          "status": "draft",
+          "at": "2026-09-04",
+          "by": "auto",
+          "task": "RESEARCH"
         }
       ],
       "ralph_loops_completed": 1,
@@ -8341,7 +8347,8 @@
         "src_mcmaster_mclean_fonds",
         "src_oral_aronson",
         "src_ymca_john_island_newsletter",
-        "src_ymca_kanawana_history"
+        "src_ymca_kanawana_history",
+        "src_ia_canadian_camping_collection"
       ],
       "open_questions": 4,
       "cross_links": [

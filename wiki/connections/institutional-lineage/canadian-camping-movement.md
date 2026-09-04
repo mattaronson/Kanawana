@@ -36,6 +36,10 @@ The founding of the Ontario Camping Association marked the transition from infor
 
 In 1936, the Canadian Camping Association was founded at the Central Y.M.C.A. in Toronto on May 20, with Statten as first president, Mary Edgar as first vice-president, Dr. George S. Patterson as secretary, and Mary C. Donaldson as treasurer.^8 Nelson McEwen, who directed Camp Kanawana as Boys' Work Secretary of the Montreal YMCA from c. 1927 to 1947, co-founded the CCA with Statten, serving as Secretary. McEwen's involvement is documented in Camp Stephens Alumni blog sources, which state McEwen "founded the Canadian Camping Association in 1946" with Statten; since the CCA was formally founded in 1936, McEwen's role may relate to a 1946 reorganization or national assembly.^8n Doug McEwen, possibly Nelson's son, later served as CCA President from 1967 to 1969.^8o
 
+**And a third date, which is documentary rather than remembered.** The Newfoundland & Labrador Camping Association's entry in the CCA's January 1976 national directory opens: "The Newfoundland & Labrador Camping Association is a Provincial Section of the Canadian Camping Association (**which was incorporated by Letters Patent at Ottawa November 5, 1949**)."^8y
+
+That is not a recollection but a corporate record, and it fits Plewman's own qualification exactly. Plewman dated the Château Laurier meeting to 1946 and added that "for the moment it had no corporate existence"; the corporate existence began on **5 November 1949**. So the competing dates need not compete: organising activity from 1936-37 (which is what the Concordia holdings record, and which is when F. M. Van Wagner describes himself as a "promoter and charter member"), a founding meeting at the Château Laurier in 1946, and incorporation by Letters Patent at Ottawa in November 1949 — three stages of one process rather than three claims about one event. The 1949 date also sits alongside the QCA English Section's own Federal Charter of 1949, which suggests the two incorporations were part of the same round of formalisation.^8v ^8x
+
 **A founder's own account, and what it does to the 1936-vs-1946 question.** Charles F. Plewman
 — a founding member of the OCA, its president from the autumn of 1944, and owner-director of
 Kilcoo Camp — published a history of the movement's magazine in 1971 in which he dates the
@@ -173,6 +177,7 @@ The CCA published *Canadian Camping* magazine from 1949 to 1988; digitized issue
 8v. *Canadian Camping* Vol. 27 No. 2 (January 1975), the Canadian Camping Association Directory Issue — Quebec Camping Association preamble and officer lists, and John Hasell, "Standards for Camps," pp. 20-21. Found by the full word-for-word read of the run (`kb/reread/cc_findings.md`, issue 103).
 8w. Madelene Allen (Director, Camp Ouareau), "A C.I.T. Programme Idea," *Canadian Camping* Vol. 26 No. 2 (Winter/Spring 1974), p. 19. Found by the same read (issue 101).
 8x. Frances M. Kelly, "A Tribute to Q.C.A.'s Mr. 'Van'," and John R. Latimer, "A Tribute to O.C.A.'s Charles Plewman," *Canadian Camping* Vol. 27 No. 3 (April 1975), pp. 11-12. Found by the full word-for-word read of the run (`kb/reread/cc_findings.md`, issue 104).
+8y. Newfoundland & Labrador Camping Association, "Objectives of the Association," in the Canadian Camping Association Directory Issue, *Canadian Camping* Vol. 28 No. 2 (January 1976). Found by the full word-for-word read of the run (`kb/reread/cc_findings.md`, issue 107).
 
 ## Research Notes
 
