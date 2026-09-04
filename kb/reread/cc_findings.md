@@ -6599,3 +6599,265 @@ mastheads.
 
 Kanawana itself: not named in this issue — but its predecessor camp at Lac St. Joseph is,
 and its serving director is on the masthead.
+
+## 54 — Vol. 14 No. 3, April 1962 ★★
+
+Season-opening number, heavy with practical articles. No Kanawana, but four items bear
+on standing threads: a Quebec drowning-liability judgment, the fullest CIT programme
+description in the run, a working method for writing a camp's own history, and the
+Indian-lore argument continuing on both sides.
+
+**"To Defend The Insured", by Clifford Labbett, Camp Oconto (pp. 118–119) — a Quebec
+camp lost a drowning suit.** The opening paragraph:
+
+> "The Supreme Court of Quebec recently handed down a **4 to 1 decision against a
+> children's summer camp** when a suit for damages was brought against the camp because
+> **a boy drowned last summer**. The boy disobeyed a camp rule but the camp was still
+> held responsible. Rules are a part of camp life and we couldn't operate without them.
+> But some rules do not make sense to an eight year old, or he may not have been
+> listening when the counsellor spoke about it."
+
+The camp is not named, and neither is the boy. A drowning at a Quebec children's camp in
+the summer of 1961, litigated to the province's highest court and decided by early 1962,
+is a findable event — Montreal newspapers, the Quebec law reports, and BAnQ should all
+carry it — and the judgment set the liability standard every Quebec camp, Kanawana
+included, then operated under: **a camp is liable even where the child broke a camp
+rule.** This is a new and specific research target, and it also gives context to
+Kanawana's own 1969 drowning (attested only in the camp's own season report, per `p_248`)
+— by then a camp in Quebec had eight years' notice that rule-breaking by the camper was
+no defence. Labbett, already in the KB as co-owner of Camp Oconto from 1949 with June
+Kennedy Labbett, writes as an insurance man would: check whether the policy covers
+non-owned automobile liability (a counsellor driving a camper into town), passenger
+hazard on camp trucks ("Insurance policies usually exclude coverage for any passengers
+carried in a truck" — and he describes exactly the trucks-with-canoes-trailing scene),
+joint liability with a chartered bus company, employers' liability and Workmen's
+Compensation registration (mandatory for Ontario camps operated for profit), forest-fire
+suppression costs charged back to the camp, and food poisoning — "usually cover this
+while in camp but **not on out-trips** — check the wording of your policy!" On water
+skiing he sets out the federal rule: two responsible people per boat, one driving and one
+watching the skier, both qualified in water rescue.
+
+**Barry G. Lowes, Camp Timberlane, "Hang On To Your Teen-Agers (A Two-year C.I.T.
+Programme)" (pp. 90–93, 120–121).** The most detailed leader-training description in the
+read, and the closest documented analogue to Kanawana's own CIT/LIT structure
+(`traditions/cit-lit-program.md`), from the man who chaired this magazine's editorial
+committee. Structure:
+
+- **Pre-C.I.T. year at 15.** One cabin group (eight or nine) invited back from the
+  14-year-old campers "on the basis of interest expressed, ability demonstrated and
+  potential ability as determined by staff observations, reports and conferences." They
+  **pay the full camp fee**. "Don't laugh, the title is important. This places them on a
+  level above the other campers. They are not staff, they are not C.I.T.'s, but at least
+  they are not campers, and to them this distinction is all important."
+- **A winter interview** with the candidate *and the parents* to discuss the two-year
+  programme, repeated the following winter to review the past summer. "Too often we
+  forget that few parents were ever campers."
+- **Activity specialisation**: one or two activities, chosen for "recreational carry-over
+  value into adult life such as swimming, sailing, tennis, riding, arts and crafts,
+  canoeing and tripping" — explicitly *not* baseball, basketball, football, hockey or
+  track, which "are seldom pursued beyond graduation from school. Many young people
+  graduate as **recreational illiterates**." Two full days a week on each, with a
+  self-set goal at least one level above last year's performance, working alongside the
+  specialist, reading the cabin library, teaching two beginners to their first award.
+- **Fifteen-year-olds hold the presidency and vice-presidency of the campers' council**
+  (one boy, one girl), spearhead Carnival Day, Campers' Day and the Olympiad, captain
+  camp-wide mass games, take the major roles in the Senior Show and conduct one Sabbath
+  service. The C.I.T.s are deliberately kept out of these, being "too busy and who also
+  have enough status and privileges of their own."
+- **C.I.T. year at 16**, at a reduced fee, and only for those who "sincerely hope to go
+  on to become a counsellor" — "The heavy investment of staff time and camp money could
+  not be justified for boys and girls who were just passing a summer." Eight weeks: one
+  week in each of junior, intermediate and senior units; a fourth week off for the annual
+  **C.I.T. show**; a fifth-week **C.I.T. canoe trip** on which "Each C.I.T. takes charge
+  of the trip for a day"; then three more unit weeks. They come to **pre-camp training
+  with the staff** and are assigned in advance to the unit they will open with. Staff are
+  briefed in pre-camp that "a C.I.T. is not the counsellor's 'gopher'".
+- In the cabin the C.I.T. observes first — "He is encouraged to question the counsellor's
+  methods **but never in front of the group**" — eats with the group two days a week
+  covering counsellors' days off, and puts the campers to bed one evening under
+  supervision.
+- Bed hour 10:15 p.m., 11:00 on Saturdays and one staff recreation night. One free day a
+  week, plus a single "day-off" the C.I.T.s "spend weeks deciding" how to use — "all it
+  amounts to is going to town as a group with their counsellor in the late afternoon,
+  window shopping, having dinner out and going to the local movie (**seating capacity
+  56**). We might smile but it is their day."
+- Result claimed: "Out of **83 counsellors this year, only four will be new ones**."
+
+**And the evaluation machinery, which belongs to the `p_307` thread.** Both the
+specialisation year and the C.I.T. year end each unit week with a **written report on a
+standard form** by the senior counsellor, discussed in an evaluation conference with the
+unit head, and then:
+
+> "At the conclusion of this evaluation conference the C.I.T. may append any comments
+> that he wishes to his report. **When he is satisfied that it is a fair record of his
+> week in that cabin, he signs the report.**"
+
+The activity specialist's end-of-season report is handled the same way — written,
+discussed, the camper's notes appended, "finally signed by him, indicating that this is a
+fair appraisal of his summer in that particular activity." The director then meets each
+C.I.T. formally at the end of weeks one, two, four, six and eight, reading the
+independently written reports for patterns: "We find that few have insight into
+themselves and many comments from their supervisors are rude awakeners."
+
+This is the second independent statement of the era's own ethic on written assessments of
+young people — Martin Gold's 1959 "an evaluation should not be filed unless it bears the
+counsellor's signature ... an ethical must", and now Lowes's practice of the same rule at
+his own camp. Two sources, three years apart, agreeing that the subject reads and signs.
+That is worth carrying into the wiki's publication-policy note (`p_308`): the documents
+this project is deciding how to publish were, by their own authors' standard, meant to be
+seen and countersigned by the person judged.
+
+**Margaret Govan, Camp Onawaw, "Use Your Camp History" (pp. 98–99).** A short piece that
+is, unexpectedly, a methodology for this project. She sets out the layers a camp's own
+history has:
+
+- The campers' "olden days" means "the time 'before I was here'", and after thirty years
+  she can supply it — "censoring a few stories which might add flavour but would be a
+  little too stimulating to imaginations which are sufficiently active!" (An editorial
+  instinct worth noting alongside the embargo thread — the same impulse, undocumented.)
+- Then geological history — "why the rocks are up-ended; how the huge boulder got on top
+  of our 'mountain', why our rivers always enter the lake at a point, rather than into a
+  bay."
+- Then Indigenous history: "peace-loving Ojibways", who "since there was no flint and
+  they had not learned to fire pottery ... left little to be dug up by archeologists and
+  their known history is only a few paragraphs in the government book." **"The oldest
+  inhabitant remembers a war canoe sweeping down the lake, but for what purpose he does
+  not know."** Bears on `history/indigenous-names-and-land`-type work: an oral memory of
+  Indigenous presence collected from a local resident in the 1930s–50s, and a frank
+  statement of how thin the written record was.
+- Then trappers ("The Royal Ontario Museum gives credit to the beaver for opening up
+  Ontario"), then lumbermen ("ruined dams on the rivers, remains of corduroy roads,
+  gigantic staples in the rocks which anchored logging chains at one time, dead-heads,
+  stumps of mighty trees far larger than the second growth"), then settlers who "believed
+  that land capable of growing such trees would produce gigantic crops. They built fine
+  brick houses out of the proceeds of their first crop, trees, which often proved to be
+  their last", then the railway to Gravenhurst and the tourists, then the deserted
+  villages the railway's chosen route left behind — "Campers wander through the houses,
+  stare at the forsaken grave yards, and weave their own stories which are passed onto
+  other campers and **in no time become legends!**"
+- Sources named: "the hired men, the permanent residents and books"; and she recommends
+  *The Algonquin Story* for background.
+
+Her closing question — "The history and geography of your area is a storehouse rich in
+programme ideas. Do you use them?" — plus the legend-formation observation, is directly
+useful to `traditions/myths-and-legends.md` and to the Chopsy question (`p_045`): a
+contemporary camp director describing, in 1962, exactly the mechanism by which a camp
+legend forms out of local landscape.
+
+**The Indian-lore argument, both sides again.** B. M. Taylor of Vancouver opens a series,
+"Indians — A Way Of Life", with a defence pitched against the movies: the Indian "was not
+the wild man of the celluloid world or the television screen, but a human being with
+emotions, needs, likes, dislikes"; his alliances are "illustrations of full democracy ...
+hard to surpass"; "The question in the Indian's mind was not — how much goods or
+possessions have I but how much service have I done for my people?" — and a warning that
+"Indian lore becomes rather meaningless to the camp programme if depth of understanding is
+not reached. It becomes a meaningless jumble of misrepresented and mistaken ideas." He
+then supplies a **complete costume-and-craft manual** for camp use: head bands with
+feathers "awarded for special service or accomplishment"; loin cloths of burlap, felt or
+canvas two to two and a half yards by sixteen inches, with rabbit skins from a local
+furrier; dancing bells and, failing those, turtle-shell rattles; anklets of eight bells
+each on leather straps; **tom-toms from a nail keg, cheese box or hollow log** with a
+rawhide head soaked twelve to twenty-four hours and re-tightened at the fire; a **peace
+pipe — "a necessary part of the council ring equipment"** — with a baked-clay or green
+birch bowl and an ash or sumac stem bored by a red-hot clothes hanger; rattles; beadwork;
+a war bonnet from Ben Hunt's *Golden Book of Indian Lore*, "Each camp should strive to
+construct a bonnet for use in ceremonies and pageants"; and war clubs made from an
+uprooted sapling's root system. Suppliers given: "various Indian Trading Companies located
+in New York City and Vancouver", specifically Bradford on Seymour, 578 Seymour Street,
+Vancouver. Taken with Eastaugh's mail-order council-ring script (issue 42), Anne Parke's
+props (42), Braaten's Indian Day (50), Mingie's tribal games (51) and Keith's council ring
+(53), the read now has six separate dated blueprints for this practice against Devenney's
+one printed rejection — and **Devenney turns up in this issue too**, twice: as the theme
+speaker at the fifth annual Alberta Camp Directors' Seminar at the Banff School of Fine
+Arts, 17–20 January 1962 (he is "Mr. Hart Devenney from the Ontario Department of
+Education"), and as the one man on David Litwiller's winter expedition with a proper
+insulated sleeping-bag liner.
+
+**Winter camping, second instance.** David Litwiller on a three-day Christmas trip at
+**Bark Lake** — the Ontario Department of Education's camp, made available to boys' camp
+staff each autumn "through the courtesy of Mr. Gordon Wright". Fourteen volunteered in
+August, seven went in December. Improvised sleeping-bag liners from wool blankets; packs
+lashed to a toboggan with "three 'huskies' in the harness"; **six-inch spikes driven into
+frozen ground in place of tent pegs**; three Bark Lake tents pitched peaks-together in a
+fan; condensation freezing discarded clothes to the tent floor by morning; a Coleman stove
+and lamps; grocery-store food that arrived frozen by accident; water chopped through eight
+to ten inches of ice because melting snow "made very poor coffee and took too much time".
+Lessons: "a swamp never freezes as solidly as a lake"; leave early enough to pitch camp in
+daylight; bring tarps for windbreaks; "and don't carry a thermometer, it's too
+discouraging." Read with Searles's Winnipeg Air Rangers weekend (issue 52), that is two
+winter-camping articles in three issues — the practice is arriving in Canadian organized
+camping right at the start of the 1960s, which dates the floor for anything
+`traditions/winter-programming.md` says about Kanawana.
+
+**June Braaten — now Director of Recreation Services, Ontario Association for Retarded
+Children** (she ran Indian Day at Camp Belwood in issue 50) — writes "The Philosophy of
+Camping for the Mentally Retarded Child" (pp. 105–106, 124–125). Recorded here for the
+period's own language and figures, not endorsed: **twelve camp programmes for retarded
+children ran in Canada in 1961**; the recommended counsellor ratios are one to two for
+ages 8–10, one to three for 11–15, one to four for 16–18, one to five over 18; children
+below 50 IQ at Canadian Association for Retarded Children schools need separate
+programmes "not because it is unsafe to include them ... or that we should keep them away
+from the public eye, but rather that ... they are frustrated in trying to 'keep up'";
+goals listed are self-care, recognising safety signs, communication, counting money,
+fitness, independence, leisure skills, social graces and "simple work activities, so that
+they will be able to assist at home and be able to work in **sheltered conditions** when
+they become adults"; competition de-emphasised, immediate tangible awards recommended.
+Two other camps in the disability field appear this quarter alongside the CNIB centre of
+issue 53 and Tony Shorgan's crippled-children's camp at St-Alphonse (issue 47) — the
+early-1960s specialised-camp movement is well enough documented in this run to support an
+article if Kanawana ever hosted such a group.
+
+**"Why I Direct A Camp", second in the series — C. H. Irwin, Sherwood Forest Camp.**
+Founded in the Depression when the lumber and pulp-and-paper collapse ended his forestry
+work; his wife brought "her experience with church and 'Y' camps". A boys' camp that also
+ran a Christmas vacation camp for boys and girls for twelve years, hosted **University of
+Toronto forestry students from 1935**, **Ontario Government log-scaler courses from
+1937**, and **a forest ranger course from 1943**, some continuing to 1955. "Practically
+all construction has been carried out with material from camp property, so that one has
+become familiar with almost every tree." Twenty-eight years on, his first registered
+camper knocked on the door. Irwin also contributes **"Camp Woodlands And How To Look
+After Them"** (pp. 107–108, to be continued) — fire protection first ("the telephone rates
+high on the equipment list"; fires are likeliest "in the dry early spring before the
+leaves come out, or in Autumn"), a trail network at not over a hundred yards' spacing on
+flat ground doubling as firebreaks and log-extraction routes, mixed hardwood-and-evergreen
+stands as insurance against both fire and insect infestation, and a warning about heavy
+thinning causing **sun scald** — "It is amazing the heat which can build up under the thin
+bark of trees on hot days, thus killing the inner growth-producing layer." The best
+woodlot-management guidance the read has produced, and directly applicable to
+`traditions/environmental-history.md`.
+
+**Other content.** C. R. Blackstock of Camp Mazinaw preaching "Imprints" at the end of a
+six-week season — "You know some of the handprints of God: the rings of a freshly cut
+tree, the colour He stamps on the back of a garter snake ... the smell of the pitch of the
+pine that has lasted maybe 100 or 150 years", closing "They will know that you have been
+pressed in the bush, between the leaves of the nights and the days." An anonymous "Rain,
+Rain Go Away!" on running a camp in wet weather — homesickness doubles, ground sheets make
+raincoats, move groups through leaders' cabins, craft halls "even the hospital (if it's
+not occupied)", let them sleep in but warn the cook, cocoa at bedtime because it "takes an
+uneasy tummy into the land of dreams more quickly than that often-asked-for drink of cold
+water." Quantity recipes for 100 servings (Ham à la King, Italian Spaghetti, Beef
+Stroganoff). Nature-board pieces on the beaver and the porcupine ("Porcupines love salt
+more than most mammals do. They will gnaw paddles and such objects to get the salt that has
+been left there by sweaty hands"). A weather explainer, "Story of a Storm", reprinted from
+*The Junior Leader*. Lowes's archery tip: a 10 × 20 ft wooden backstop of one-inch
+sheathing behind the straw mats saves more arrows than it breaks. An Ontario Department of
+Lands and Forests advertisement: **"the campers who caused 289 forest fires in Ontario last
+year by forgetting to put out their camp fires"**. Four pages of McKague sanitary chemicals
+— with a Montreal arm, **McKague Chemicals (Eastern) Ltd., 421 Courtemanche Avenue,
+Montreal East** — listing exactly what a camp of this era used: Roccal, McKem-Chlor,
+chloride of lime, "McKemco Special Lye — a special caustic for use in chemical toilets and
+outhouses", H.T.H. 15 for de-staining and deodorising garbage cans, and a swimming-pool
+chlorination range. The OCA has moved from 93 Yorkville Avenue to **513 Jarvis Street**
+between the December and April printings of the *It's Wise to Supervise* coupon.
+
+**New names**: Clifford Labbett (Camp Oconto — already in the KB), B. M. Taylor,
+David Litwiller, Gordon Wright (Bark Lake / Ontario Dept of Education), C. H. Irwin
+(Sherwood Forest), C. R. Blackstock (Camp Mazinaw), Margaret Govan (Camp Onawaw).
+**New leads**: **the Supreme Court of Quebec's 1961/62 drowning judgment against a
+children's camp** — name the camp, the boy, and the citation; Bark Lake's records as an
+Ontario Department of Education staff-training centre; the Alberta Camp Directors'
+Seminar series at the Banff School of Fine Arts (fifth annual, 1962); Ben Hunt's *Golden
+Book of Indian Lore* and the Vancouver/New York "Indian Trading Companies" as the supply
+chain behind camp Indian lore.
+
+Kanawana itself: not named in this issue.
