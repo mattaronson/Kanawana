@@ -4412,3 +4412,225 @@ Camp, 4792 Victoria Ave., Montreal**" — a Montreal-run Laurentian camp, not to
 confused with the Pembina *River* on Kanawana's own canoe routes (`canoe-trips.md`).
 
 Kanawana itself: not named in this issue — confirming `f_2241`.
+
+## 42 — Vol. 11 No. 3, April 1959 ★★★
+
+R. H. Perry's "Fourth Term" editorial; VanWagner on the shorter camp term;
+D. E. Allan on Camp Manitou, Winnipeg; **Martin Gold's conference address on
+finding and evaluating leaders**; Anne Parke on handcraft; **Jack Eastaugh's
+complete Indian Council programme**; Scouting for retarded boys; VanWagner's
+"Spring Vistas"; **C. E. Hendry's report from Camp Tonakela, Madras**;
+Carruthers's food bibliography; Toner's column; John E. Dean on septic tanks;
+Dorothy Douglas's book page; a low-cost swimming pool.
+
+**Eastaugh's Council Ring, printed in full (pp. 123–24, 153–54).** The
+mail-order booklet reviewed in issue 38 is here reprinted as an article "in
+response to the many requests for Mr. Jack Eastaugh's material", with the
+booklet's price and address appended. This is the complete method, and it is the
+single most important council-ring document the run has produced. Its own
+framing first:
+
+> "It is my conviction that anyone who can work successfully with children, can
+> achieve success with an Indian Lore programme… **It requires that you dress
+> for the part and it asks that you become enchanted.** It takes time and
+> experience to feel at home in any make-believe activity."
+
+And on stage management: "The presence of spectators can be a bit unnerving at
+first. **It is much more comfortable when everyone at the council ring is an
+'Indian'.** So for the first two or three councils that you conduct, perhaps you
+could arrange for spectators to be otherwise occupied."
+
+The specifications:
+
+- **Site**: "reasonably remote from any buildings", a path cleared of
+  obstructions "as it will often be quite dark when your campers return", **a
+  flat space some fifty feet in diameter surrounded by trees**, roots and stones
+  removed for games and dances. "**Find another spot for the ordinary camp fires
+  and weiner roasts.** Let nothing interfere with the magic of the peace pipe,
+  the council fire and the Indian challenges."
+- **Materials**: "Feathers are difficult to locate except at Thanksgiving and
+  Christmas when arrangements can be made with turkey raisers. Select the round
+  ended wing feathers as they are best for headdresses." Plus "scraps of coloured
+  felt, pieces of fur, **old fedora hats and cow horns from the local abattoir**";
+  a tom tom from a cheese box; old drum heads from music stores; "**Snipped
+  fringes sewn to a pair of khaki slacks, and down the sleeves of a khaki shirt,
+  worn with the tail out, makes an adequate and picturesque costume**"; bushel
+  hamper lids covered in canvas and painted as totems. The chief gets a war
+  bonnet, the medicine man "a headdress made of horns, fur feathers and streamers."
+- **The camp director is the logical chief**, and Eastaugh flags the politics:
+  "There is considerable prestige in being the Chief, and it is sometimes a
+  problem for senior staff to feel comfortable under the leadership of someone
+  else."
+- **A one-hour timetable**: (1) Fire lighting and peace pipe, 5 min; (2) Indian
+  games, 15; (3) Pageant or stunt, 5; (4) Rangers' Reports, 15; (5) Closing —
+  Hiawatha's Departure and the Omaha Tribal Prayer, 20. "The time to stop is when
+  the campers want more."
+- **Preparation in the cabins**: campers "adjust headbands, apply war paint (a
+  water colour paint) and prepare tribal yells"; "When the tom tom starts to
+  beat, they leave their cabins and proceed in single file to the Council Ring…
+  in complete silence."
+- **The games are given invented origins**: "each should be introduced by giving
+  it an Indian origin. Even such characters as **Pat and Mike become Indian
+  braves** scouting in the woods, each intent on scalping the other."
+- **Rangers' Reports** — campers report what they observed around camp or on the
+  trail, the chief prompting for detail; Eastaugh notes it can be turned into "a
+  fascinating period on nature lore."
+- **The closing**, verbatim in outline: Hiawatha departs into the darkness
+  singing; the chief asks for a successor; "Several young whelps respond and fail
+  the test of walking on fire"; one succeeds and is sent out with a hunting knife
+  to keep an all-night solitary vigil, warned that "Wild eyes will surround his
+  small campfire and he will be tempted to grab his hunting knife… That is when
+  he must stand alone and sing the song which we shall teach him." The camp sings
+  the **Omaha Tribal Prayer**; a fire appears at the top of the cliff, and a boy
+  standing with hands overhead sings words translated as "**Father a Needy One
+  Stands Before Thee, I Who Pray am He**"; the chief says "Know we that our
+  Council is ended" and the ring empties in single file.
+- "The Indian Council Ring can be developed slowly and surely over the years…
+  it can be built up over the years until it becomes an **established
+  tradition** in any camp."
+
+Read against `council-ring.md`, `myths-and-legends.md` and
+`indigenous-names-and-land.md`, this is the recipe. Any Canadian camp with a
+1950s council ring, a chief, a peace pipe, painted totems, tribal yells, a
+solitary-vigil ordeal or a closing prayer sung from a height can now be measured
+against a single dated, purchasable template — and a tradition "established over
+the years" is, on its own author's account, a designed one. **Anne Parke's
+handcraft article in the same issue (pp. 121–22, 157) supplies the props from the
+other end**: papier-mâché Indian masks timed to be dry and painted "by the time
+you have **Indian Day** at camp (prearranged)"; tom-toms from ice-cream cartons;
+headpieces from 1½-inch corrugated cardboard strips whose flutes "will hold
+feathers found around camp, or previously donated from a nearby farmer" — or,
+failing that, construction-paper feathers; **teepees sewn from potato sacking
+begged from bedding companies**, with "Indian Signs" painted on. This is now the
+third and fourth first-person account in the run of camp "Indian" material being
+manufactured from scratch, after the 1955 Tanamakoon totem pole and the Sunfish
+Camp turkey-feather headdresses.
+
+**Hedley S. Dimock's memorial is in India (pp. 129, 132).** Charles E. Hendry —
+the Hendry the KB already carries with nine facts, and the man who succeeded
+Forgie in the Alberta YMCA post in 1927 — reports from Camp Tonakela, near
+Madras, on **the opening and dedication of a Girls' Convalescent Pavilion "in
+memory of the late Dr. Hedley S. Dimock."** Dimock died 4 October 1958 in
+Burlingame, California (`hedley-dimock.md`); within roughly six months a building
+was named for him at a camp in South India, unveiled by **the Chief Minister of
+Madras State, the Honourable Sri K. Kamaraj**, before "several hundred campers
+and villagers" in the camp's large earthen Council Ring. Hendry calls Dimock
+"one of camping's most respected leaders and one of Camp Tonakela's staunchest
+friends." Nothing in the repo records this. It is a concrete measure of Dimock's
+international standing at his death, in the year before his namesake began the
+Kanawana counsellor research.
+
+Hendry writes the piece "on the porch of **Wallace Forgie's cabin**" — closing
+the loop with issue 38 and confirming Forgie was resident at Tonakela in 1959.
+The camp's figures: **some 30,000 boys and girls camped over the years**; 6,000
+visits to the free Minor Treatment Centre clinic in the previous year;
+accommodation now for **forty convalescents at a time**, some six hundred boys
+already served; forty village children fed a free breakfast each morning; a
+16-foot-diameter well "the best in the area"; a swimming pool "(a rarity
+indeed)"; campers in tents; hundreds of trees planted over twelve years.
+Participating groups: girls from **Avvai Home**, an orphanage; boys from the
+**Rainbow Club Free Night School, Perambur**; two groups from the **Poonamallee
+School for the Blind** — Hendry meets the first girl admitted to the convalescent
+unit, recovered from typhoid, blind, "about ready to begin her university
+studies." **Sri W. R. Gopal Ratnam** chairs the Camp Tonakela Committee, Madras;
+**N. Perumal Naidu** is director; greetings came from the Overseas Fellowship of
+Campers and from **'Ted' Cavins** for the ACA and the North American Committee.
+And a five-year-old orphan, the camp's mascot and permanent resident, whose
+mother died while he was in hospital and whose family name is unknown, is called
+**Jararaj Tonakela**. The morning prayer, sung in Tamil, is translated in full.
+
+**John P. Kidd, a third time — and still absent from this project (p. 151).**
+Dorothy Douglas prints a letter from "our kind friend, **Mr. John P. Kidd,
+Executive Director of the Canadian Citizenship Council, Ottawa**," proposing that
+camps would have "both as staff and as campers a number of recently or relatively
+recently arrived immigrants," and enclosing his council's **New Roots in Canadian
+Soil** (50¢, 180 Bay Street, Ottawa) as help for camp leaders. This is his third
+signed appearance in the run after the issue-21 byline and the April 1956
+"Camping and Citizenship" editorial. He is the man `f_2288` records as a
+Kanawana leader in 1934, and **"John P. Kidd" still returns zero hits in
+`facts.json` and `wiki/`.** A Kanawana man of the 1930s who by the late 1950s was
+running a national citizenship body and writing repeatedly into the camping
+press, on immigration and citizenship, for a Montreal-run association. The
+article-spawning case is now made three times over.
+
+**Martin Gold on counsellor evaluations — directly relevant to the embargo
+question (pp. 118–20, 135–41).** Gold, of the Research Center for Group Dynamics
+at Michigan and the New Jersey YM-YWHA camps, addressed the OCA annual banquet
+at the King Edward Hotel on 7 March 1959. Most of it is a careful demolition of
+the Great Man theory ("studies of the personalities of leaders have failed to
+find any consistent pattern of traits which characterize leaders" — Gibb) in
+favour of situational hiring: "**about 80% of the people who apply for camping
+jobs are good risks**", the question being "Where in my camp would this fellow
+fit?" rather than "Is he the type I want?" He distinguishes **headship** (granted
+from outside the group) from **leadership** (granted by the group): "A director
+appoints a counsellor to leadership; **the campers will or will not make him
+leader.**"
+
+But the last third is about the written counsellor evaluation, and it is the
+1959 professional position on exactly the documents this project embargoed:
+
+> "It seems to me camp directors owe it to each other to be as honest and
+> complete as possible in exchanging letters of recommendation… We can improve
+> our exchange of information if we keep a **file of counsellor evaluations**…
+> filled out by the counsellor's immediate camp supervisor and checked by his
+> director. Now, we should have no compunction about sharing these evaluations
+> with our colleagues."
+
+And then the safeguard: "This evaluation should be a **shared thing**. The
+counsellor should discuss it while it is being filled out. He should have the
+opportunity to comment upon it, adding to it if he wishes. **Ideally, an
+evaluation should not be filed unless it bears the counsellor's signature**…
+If we are to share evaluations with other camp directors, a counsellor's
+knowledge of it and chance to rectify it is an **ethical must**."
+
+That is the era's own stated ethic, from a research psychologist addressing
+Canadian camp directors: evaluations were meant to circulate between camps, but
+only with the subject's knowledge and countersignature. It bears directly on
+`p_307` and `p_308` — the register and the wiki's publication policy — because it
+establishes what the people who wrote such documents believed about who was
+entitled to see them and on what terms. Worth citing when that policy is drafted.
+
+**The eight-week camp season ends (p. 116).** VanWagner, writing as director of
+Camp Nominingue: "**Twenty-five to thirty years ago, at least 80% of the campers
+attending our boys' private camps, were enrolled for the full eight-week term…
+It is now the exception rather than the rule… A half season, or four weeks, has
+become accepted as the normal camping period.**" He gives parents' reason (a
+share of the summer with the family, especially during the father's vacation),
+concedes it, and names the resulting problem: more applications for the first
+half than the second, "this uneconomic situation", partly offset by counsellors
+who leave at mid-season or when exam results arrive. Then a striking admission
+about what the eight-week term had cost: "In past years we found that, while
+many boys enjoyed the full eight weeks at camp, **there were others who tired of
+camp before the end of the season**… **No more do we find a need for special
+events to promote enthusiasm, raise morale and off-set the effects of
+monotony.**" A first-hand explanation, dated 1959, of *why* camp session lengths
+halved across the private and agency camps of this era — and of what the
+elaborate mid-season special events of the long-term era had actually been for.
+Essential context for reading Kanawana's own session structure and special-event
+calendar.
+
+**Also noted.** R. H. Perry of Camp Kawabi opens by quoting "the Camping twins,
+Messrs. Dimock and Hendry, authors of *Camping and Character*" on the shift from
+recreational to educational function, and argues camp should be recognised as a
+"Fourth Term" of the school year — a fifth citation of *Camping and Character* in
+this run, and the two men are in the same issue, one being memorialised and the
+other writing. D. E. Allan traces **Camp Manitou** (Winnipeg) from a 1930 Rotary
+Club decision through 1931's first camp — twenty boys, two weeks, **$5.00 per
+boy** — to boys housed in **railway boxcars converted into cabins**, seven service
+clubs involved by 1939, incorporation by letters patent that year with shares
+held by the clubs, thirty-four acres and twenty-three buildings by 1959, an
+**88,000-gallon swimming pool** built when the Assiniboine proved unswimmable,
+and a $13,000 annual budget one-third covered by fees. A Perth Presbytery camp
+publishes the cost of a home-made 25 × 60 ft pool with a gravel-and-sand cistern
+filter: **approximately $1,600**, left full over winter to keep frost out of the
+walls, eight winters without damage. The Boy Scouts report **31 Scout groups for
+handicapped boys across Canada at the end of 1957**, Scout troops in nine mental
+institutions, and a full troop from the Ontario Hospital at Smiths Falls camping
+at Ottawa's Opemikon site, where their 1958 "Good Turn" was clearing a hundred
+yards of waterfront brush. And Daisy Manufacturing of Rogers, Arkansas
+advertises a **complete camp air-rifle range** — four rifles, 12,800 rounds, NRA
+targets, portable backstops — for $34.95 plus duty, with free annual gun
+inspection, "**Range Guaranteed to Satisfy You and Your Campers or Return It for
+Prompt Refund by Sept. 7, 1959!**"
+
+Kanawana itself: not named in this issue.
