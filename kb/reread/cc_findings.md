@@ -4068,3 +4068,184 @@ McIlwraith of the University of Toronto and Dr. V. B. Meen of the ROM, and
 interpreted as shelters of people crossing from Asia 8,000–10,000 years ago.
 
 Kanawana itself: not named in this issue.
+
+## 40 — Vol. 11 No. 1, December 1958 ★★
+
+VanWagner's editorial; Reynold Carlson's conservation address from the April
+Montreal conference; Archdeacon Russel Brown's profile of Archbishop Philip
+Carrington; Charles Stafford's "Art of Outdoor Living", also from the Montreal
+conference; Don Cowan's "And Around We Go"; Margaret Govan's "Because I
+Believe"; **the Carstensens on bilingualism in camp**; member news; Hart
+Devenney's review of Mary Hamilton's *The Call of Algonquin*; Ruth Carruthers's
+meat-buying and cold-storage charts; Jean Shilton's "Mother Went Camping";
+Dorothy Douglas's book page; the Browns on family camping; a Barry Lowes
+sermonette; Toner's column. Cover: a totem erected in Algonquin Park in memory
+of Tom Thomson.
+
+**"Bilingualism in Camp" (pp. 20, 36–37) — the most directly transferable
+article the run has produced for a Quebec camp.** By **Ellen and Axel
+Carstensen, Directors, Camp Edgehill House, Brome Lake, Foster, Quebec** —
+Danish immigrants of thirty years who raised their own children in three
+languages ("They spoke Danish to us at home, French to the maid, and English to
+their playmates") and who founded the camp about 1953 with bilingualism built
+into the programme. Zero hits for "Carstensen" or "Edgehill" in the repo. Their
+method, stated exactly:
+
+- **Sing-songs after every meal, half English and half French.** "After four
+  weeks of camp, the English-speaking children know by heart **over thirty
+  French songs**, including verses and the meaning; the French-speaking children
+  have learned even more English songs."
+- **Meals cafeteria style, and each child must ask for everything in the second
+  language** — new campers exempted for a few days. A senior camper on turkey
+  Sunday has to specify white or dark meat, two kinds of stuffing, skin, bone,
+  gravy, peas, carrots, mashed potatoes and a flavour of ice cream, all in the
+  other language.
+- **Table conversation French one day, English the next**, with campers seated
+  deliberately mixed.
+- Riding and crafts instruction available in the second language on request;
+  **"on the waterfront, due to the danger involved, each camper is instructed in
+  his own language."**
+
+They report what failed as well: a fifteen- to thirty-minute conversation class
+"tasted too much like school" and only the seniors would take it — so the French
+instructor, who "turned out to be very handy with carpenter tools," went and
+helped the younger boys build their annual clubhouse and a lean-to and a
+fieldstone fireplace, in French. "So what? … if you had to ask how to place the
+next stone or the next branch in French or English!" And the errors are recorded
+with affection: the camper who asked for the whole turkey, the one who asked for
+*poison* instead of *poisson*, the French counsellor who asked for "lover"
+instead of "liver" "and still gets teased about it."
+
+The KB carries nine "bilingual" facts, scattered across `traditions-and-culture`,
+`programs-activities`, `camp-ouareau` and elsewhere. This is a complete,
+first-person, dated statement of how one Quebec camp actually operated in two
+languages in 1958 — and it identifies the **sing-song as the primary teaching
+instrument**, which is a direct argument for `p_048`: at a camp working this way,
+the song repertoire *is* the language programme, and thirty songs is the
+measurable output of a season. Whatever Kanawana did or did not do, this is the
+comparator.
+
+**The Quebec Anglican camping empire, told by an Archdeacon (pp. 12–13, 31–32).**
+Russel F. Brown, Archdeacon of Quebec, on **Philip Carrington** — a genuinely
+substantial Quebec camping history with nothing on it in the repo:
+
+- **1929**, Bishop's University, Lennoxville: Carrington, newly arrived from New
+  Zealand (1927) as Dean of Divinity, put about twenty-five divinity students
+  aged eighteen to forty into Boy Scout uniforms — "bare knees and all" — as a
+  Rover Crew, for weekly stalking games, tent-pitching, campfires and
+  bannock-making. Brown was one of them. Carrington demonstrated **Maori dances
+  and cries**, and "once, suitably undressed, a performance was given that
+  rather stunned a polite audience."
+- Carrington's background: Scoutmaster at St Michael's, Christchurch, while a
+  student at Canterbury College; then St Paul's Troop, Cambridge; his camping
+  experiments published as **"Boy Scouts' Camp Book"** with a preface by the
+  Chief Scout, sixth edition 1947; Provincial Commissioner for Canterbury and
+  Commissioner for Training Scout Officers in New Zealand; first experimented
+  with a student Rover Crew as Warden of St Barnabas College, Adelaide.
+- Seventh Bishop of Quebec after eight years at Lennoxville; **1944** Archbishop
+  of Quebec and Metropolitan.
+- **Anglican Boys' Camp ("A.B.C.") at Leeds, Que.** — the old stone rectory
+  "built by the Royal Engineers in the early years of the last century" as the
+  instruction centre, tents and sports on the grounds, the church nearby for
+  worship, the little Osgood River for the swimming hole.
+- **Quebec Lodge**: seven acres on Lake Massawippi at North Hatley, asking
+  $12,000, **sold for $5,000 once the owner learned Carrington wanted it**, paid
+  for by friends. Ran as a girls' and young people's camp concurrently with
+  A.B.C. As it grew it acquired "a 'nuisance value'"; a neighbouring cottager
+  offered **$30,000 cash**, and the camp bought a **145-acre farm on the other
+  side of the lake for $15,000**, opening there in **1954** — chapel created in
+  the loft of the stable, a large recreation hall added since. **Over 400 campers
+  a season** by 1958.
+- **Fort Haldimand**, near Gaspé, salt-water swimming, serving the coast and the
+  Magdalen Islands, largely built by local clergy and laity — "a number of the
+  former got their first taste and lasting enthusiasm for camping from the
+  Rovering days under Dean Carrington at Lennoxville."
+- **1950**: Carrington received the Silver Wolf from Governor-General Vincent
+  Massey as Chief Scout for Canada.
+
+The Diocese of Quebec is given as 280,000 square miles. For
+`quebec-camp-landscape.md` and the related-camps folder: this is a second,
+denominational camping network operating in the same province and the same
+decade as Kanawana, with dated property transactions and camper numbers.
+
+**Margaret Govan answers *Maclean's* (pp. 18–19).** The headnote: "MARGARET
+GOVAN, after reading the controversial article in MacLean's Magazine, sat down to
+assess camping values which she felt were almost entirely lacking in the article
+… and this is the result." Her reply is fourteen paragraphs each opening
+"Because I believe…". **A critical article about summer camps ran in *Maclean's*
+in or shortly before late 1958 and provoked a printed defence from the president
+of the Ontario Camping Association.** The KB has nine *Maclean's* facts already;
+this one is unidentified and findable, and a national-magazine attack on camping
+is exactly the kind of context a Kanawana article on the period needs. **New
+lead: identify the 1958 *Maclean's* camping article.**
+
+**Charles Stafford, Boy Scouts Association, "The Art of Outdoor Living"
+(pp. 14–16, 43, 46)** — the third Montreal conference address printed. His
+central complaint, in 1958: "Far too often, children going to camp are simply
+transferred from one mass to another, where far too much is done for them; life
+is organized twenty-four hours a day, and adventure is sterile. … Children tend
+to pass through them rather like any other product on an assembly belt — **they
+go in white and come out uniformly tanned, two pounds heavier, and decorated
+with craft strip.** I have seen many children who would [have] been a lot better
+off losing two pounds at camp, but what would Mum have said?; and what a blot on
+camp statistics!" He wants groups of **not more than six** and explicitly rejects
+togetherness as a camp aim: "I do not agree that one of the purposes of camping
+is to teach children togetherness. Most of them are always together, they are
+rammed down each other's throats every day in the city … Camp is the place to
+teach them the harder lesson, to live with a few, to do things alone and stand on
+their own feet."
+
+**Don Cowan on the swinging pendulum (p. 17)** — General Secretary of the New
+Westminster YMCA and an ex-camp director, describing twelve years of his
+association's camp going "the full circle": the director who banned bats and
+balls and "exalt[ed] the hatchet and knife"; the Phys. Ed. man who stripped the
+city gym of portable equipment for camp; the case worker under whom "every boy
+was carefully tested, investigated, recorded, reported, documented and
+segmented, and all this material went into a fat dossier"; "We have also had our
+jags of being Cowboys, of being Indians, of being Trappers." His conclusion, from
+watching those campers grow up: "there was no indication that any specific
+programme philosophy or director topped the other. They loved 'em all!" The
+best short account in the run of how much a camp's character depends on who
+happens to be running it — and, in passing, a plain statement that the "Indian"
+period at a YMCA camp was a *jag*, one phase among several.
+
+**Jean Shilton, "Mother Went Camping" (p. 27),** reprinted from *The United
+Church Observer*. A Depression-era **C.G.I.T.** camp remembered by a mother now
+inspecting camps for her own five children: a cookhouse "minus all conveniences",
+tents, "the butter melted in the saucers on the tables, and the dust blew into
+the dining tent and swam in the melted butter", "so much starch in the diet that
+several girls had hives and a few had swollen eyelids", washing and
+tooth-cleaning in the lake — "We would laugh scornfully at the idea of a
+wash-house. After all, we were Campers, rugged ones." And every evening on the
+hill, **"Day is Dying in the West"** — "The cynics call it sun worship and they
+may be right." She sings the songs to her children now. A rare camper's-eye
+account of 1930s girls' camping conditions, and a second appearance of "Day is
+Dying in the West" in this run (Bishop Sovereign quoted it in April).
+
+**Also noted.** Reynold Carlson (Indiana) sets out four fields of camp
+conservation responsibility — daily habits, understanding of natural processes,
+craft use of native materials, and appreciation — in the address given to the QCA
+in April 1958. Hart Devenney, Director of the **Bark Lake Ontario Camp
+Leadership Centre**, reviews Mary Hamilton's *The Call of Algonquin* (Ryerson,
+$4) and reads it as "a history of the camping movement in the Province of
+Ontario"; the wiki already cites this book once, in
+`canadian-camping-movement.md`, and Devenney's review adds the detail that the
+Tanamakoon Counsellor's Guide was "a co-operative effort of the Counsellors …
+It grew as we grew … revised each year." Ruth Carruthers's University of Toronto
+extension lecture supplies two charts a camp kitchen would have pinned up:
+per-100-servings meat purchase amounts and a **cold-storage day-limit chart**
+(ground beef 2 days, standing rib 5–8, cooked poultry 4–5, dry sausage uncut
+2–3 weeks). Lorne and May Brown of the British Columbia Camping Association
+describe **family camping as a new trend**, classified into car, trailer, trail
+and marine camping — 64 provincial camping locations in B.C. at the end of 1957,
+one million visitations at Miracle Beach in 1956, 4,400 sites in the U.S.
+National Forests. W. E. (Ted) Yard won the Inter-Provincial YMCA Ladies'
+Auxiliary Scholarship for postgraduate study at **George Williams College,
+Chicago** — the institution that trained a good part of the YMCA camping
+profession — and will lecture there on camp organization. Mary Barker writes from
+Ingonish, Nova Scotia, with a grace learned from a Newfoundland friend: "I fold
+my hands, and bow my head, and pray, / May all the children in the world be fed
+today." And Master Canvas Craft of Weston advertises **"THE 'BARK LAKE'
+OUT-TRIP TENT"** — a named, commercially produced Canadian trip tent.
+
+Kanawana itself: not named in this issue.
