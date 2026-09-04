@@ -1591,3 +1591,397 @@ two-week average, staff mostly **unpaid counsellors** aged 15-35 with CITs from
 facilities and lent free to any camp director. That film, if it survives, shows
 Canadian YWCA camp buildings in 1953.
 
+## 21 — Vol. 6 No. 1, February 1954
+
+**Kanawana not named.** One large biographical find and two smaller items.
+
+**★★ Anne Vail's profile of F. M. Van Wagner, "Among Ourselves," fills in the
+founding of the Quebec Camping Association and of Camp Nominingue** — and adds
+several facts the KB does not hold (`facts.json` has only his founding of
+Nominingue in 1925, his death in 1989, the camp's 10 campers and 5 staff, Peter
+Van Wagner running it to 2015, and McGill PE students attending a "Camp School"
+there).
+
+- **Floyd M. Van Wagner**, born Hyde Park, N.Y., raised on a farm. **Springfield
+  College 1920** — captain of the track team, Eastern Colleges quarter-mile
+  champion — "when **Dr. A. S. Lamb secured him for McGill University**."
+- At McGill: **coach of the track and basketball teams for more than 25 years**;
+  graduate study at Harvard and McGill; later gave his time to the School of
+  Physical Education and the direction of recreational activities. **His McGill
+  career closed with the 1953-54 season.**
+- Wife **Catherine**, a **McGill graduate in Physical Education**.
+- **★ "He was co-founder of this Camp with HAY FINLAY in 1925."** Hay Finlay is
+  the CCA Secretary-Treasurer of 1949, at 475 Pine Avenue West — McGill's Sir
+  Arthur Currie Gymnasium — and the KB already has him as **"Senior Section
+  director in 1922 (ex Central YMCA Boys Physical Director, then McGill Phys
+  Ed)"**, i.e. **a Kanawana section director**. So the man who ran Kanawana's
+  senior section in 1922 co-founded Camp Nominingue three years later with
+  McGill's track coach, and both were still running Canadian camping's national
+  and provincial bodies a quarter-century on. **This is a documented link between
+  Kanawana's own staff and the founding of the Laurentian private-camp world.**
+- **Camp Nominingue, on Little Lake Nominingue, 180 acres**, surrounded by large
+  tracts of Crown land "where parties are free to travel." **Campers "have
+  visited over 400 lakes."**
+- **★ "He was a promoter of the Canadian Camping Association, the FIRST
+  PRESIDENT OF THE QUEBEC BRANCH"** — which names the founding president of the
+  QCA, an office Roy Locke of Kanawana held two decades later. Also Past
+  President of the Quebec Association for Health, Physical Education and
+  Recreation and of the McGill Faculty Club; Montreal Rotary Club since 1935.
+- **Faculty adviser to the McGill Outing Club from 1940**, and a developer of the
+  **McGill Ski School, held each January in the Laurentians**, followed by
+  camping courses for men students with canoe trips and ski touring as practical
+  application.
+- **Director of Canoe Trips at Nominingue for 25 years**, handing that to son
+  **Charles**, a Montreal engineer; son **Peter** was ski instructor at Banff;
+  twin daughters **May and Rachel**. Portrait by **Nakash** (the Montreal studio).
+
+The Nominingue brochure prose Vail quotes is a good specimen of how Laurentian
+camps sold canoe tripping in the 1950s: "suggestive as it is of the restless
+Indian or the adventurous explorer … lakes, set like gems amidst the forest
+green … a well-earned rest on fragrant balsam boughs."
+
+**★ The Canadian Camp Song Book got its own conference workshop.** The CCA/OCA
+conference programme for **25-27 February 1954**, Central YMCA Toronto, lists for
+Saturday morning: "(3) **Canadian Camp Song Book. Chairman: Mrs. Dorothy
+Douglas**." So the collection begun in August 1953 was still live and being
+worked in committee in early 1954 — watch subsequent issues for whether it was
+published. Other conference notes: kindred-group luncheons split by camp type
+(Private, Girl Guides, Boy Scouts, Church, YMCA, YWCA, Kiwanis, Day, Agency,
+Salvation Army — and on Saturday separately Boys' Private, Girls' Private and
+**Co-educational Private**); **Anne Vail chairing the Friday dinner**; a closing
+"Information Please" panel with a question box in the YMCA rotunda; and the
+Saturday dinner address on "Spiritual Values in Camping" by Rev. Richard Jones,
+Director of the Canadian Council of Christians and Jews.
+
+**National Camp Week, 1-8 May 1954**, was declared by the CCA in December 1953 —
+and Charles F. Plewman notes that "**The British Columbia, Manitoba and Quebec
+Camping Associations have been successfully promoting a Camp Week for some years
+back**," so a Quebec Camp Week predates the national one. Its five stated
+purposes are printed in full, including "**To encourage parents to urge their
+boys and girls of seventeen and eighteen to join the camp counselling movement,
+and to teach them that health, character-building and preparation for leadership
+are of far greater value than large salaries at that point in their lives.**"
+
+The counsellor shortage dominates the issue — an OCA open meeting of 43 members
+chaired by Reg Bundy of Bolton Camp, and Lotta Dempsey's "Person to Person"
+column in the **Toronto Globe and Mail, 12 January 1954**, reprinted in full,
+which gives the public framing: "**Time was when university undergraduates,
+young teachers and senior high school students of mature stature flocked to
+boys' and girls' camps for summer work. Latterly, the lure of big wages in a
+variety of jobs, and the kudos attached to work in industry during holiday times
+… has taken many former counsellors away from the camps.**" She also reports
+that once Ontario's school-building programme eased, "definite steps may be
+taken to develop camp life as a part of the educational programme — as it is done
+to a high degree in Michigan, through a series of state-owned, winterized camps."
+
+Dr. J. Harry Ebbs's "Fatigue — A Major Health Problem in Camps" gives the
+period's recommended **minimum hours of sleep**, which is a usable benchmark:
+6-8 years, 11 hours; 9-11, 10½; 12-14, 10; 15-17, 9; staff, at least 8. And a
+warning worth noting for the polio era: "**Severe physical fatigue often precedes
+paralytic polio.**"
+
+Camp Tonakela's 1953 numbers: **3,004 campers in forty-six groupings** — "we
+have arrived at the point of optimum usage" — of whom only 278 were girls;
+**468 girls from Madras orphanage hostels** camped as guests of North American
+camps; emergency feeding of 100-125 village children daily through the year;
+gifts of Multi-Purpose Food from the Meals for Millions Foundation, rice, wheat
+and milk powder from the South India Famine Relief Committee, and 20,000
+multi-vitamin pills and ten sacks of beans from Church World Service, **cutting
+camp cost per meal to four and a half cents**. Directed by a Canadian since its
+inception **in 1936**; two-thirds of annual cost and all capital cost met in
+Canada.
+
+A Quebec classified worth noting: **Mrs. J. C. C. Gandier, 10 Rosemount Ave.,
+Apt 101, Westmount**, selling four 11-foot utility sailing prams with gaff-rigged
+Egyptian cotton sails, "used 2 summers for Junior Sailing Program," original
+price $350 each, offered to camps at $175. A Montreal-area junior sailing
+programme changing over to a class boat in 1954.
+
+
+## 22 — Vol. 6 No. 2, April 1954
+
+★ **QCA executive for 1954, printed in full.** Past President — **Mr. Roy Locke, Boys'
+Work Secretary, Metropolitan YMCA, Montreal**. President — **Miss Ruby Smith, 501
+Claremont Avenue, Montreal**. Vice-President — **Mrs. A. Mutchler, 1445 Crescent Street,
+Montreal 25**. Secretary-Treasurer — **Mr. Ken Murray, 112 Dunrae Avenue, Montreal 16**.
+Social Convener — Miss Norma Hall. Membership — **Miss Jean Brown, 5056 Western Avenue,
+Montreal**.
+
+This dates the end of Locke's QCA presidency to the 1953–54 turnover and confirms his
+YMCA title in that year as Boys' Work Secretary of the *Metropolitan* YMCA — the KB has
+the title but this is an independent 1954 attestation of it. **Ruby Smith is new to the
+KB** and matters: issue 21's obituary of Nora Bailey named a Ruby Smith as co-founder of
+Camp Macaza, the coeducational Laurentian camp founded 1949. The same name now appears
+as the woman who succeeded Kanawana's own director in the chair of the Quebec Camping
+Association. Neither "Ruby Smith" nor "Macaza" occurs anywhere in `facts.json` or `wiki/`.
+Mrs. A. Mutchler is already in the KB (4 facts, via Camp Lighthall and the Locke article);
+this gives her street address and her QCA office. Ken Murray, Norma Hall and Jean Brown
+are all new names in Quebec camping administration in Locke's immediate circle.
+
+★ **The Ontario Camping Association "Business Principles" (Code of Ethics) printed in
+full**, alongside John Hoyle's article "Camping Ethics" — Hoyle was CCA/OCA President.
+Seven clauses: no soliciting of campers enrolled at another member camp; no engaging of
+staff already under contract elsewhere; no secret price-cutting or special rates to
+parents; scholarships to be bona fide and openly stated; references to be given honestly
+and in confidence; no advertising of activities the camp cannot staff or equip; no
+misrepresentation of facilities. Nothing on this is in the KB — "Code of Ethics" returns
+zero hits in `facts.json`. This is the professional code Kanawana's director was bound by
+as a QCA/CCA member camp in the 1950s, and it bears directly on how camps in the Quebec
+association competed for staff and campers.
+
+★ **A. L. Cochrane's memoir of Ernest Arthur Chapman** ("Among Ourselves"), a full
+obituary-biography of an early Canadian camping figure: born Hamilton c. 1885; physical
+instructor at the old Highfield School; physical director of St Andrew's College from 1905
+for thirty years; married Leila Kirkbride 1909; founded **Camp Kagawong** on Balsam Lake
+"more than forty years ago" (i.e. c. 1912); charter member of the Ontario Branch of the
+Royal Life Saving Society 1908, its secretary-treasurer five years and president 1928–34;
+past president of the OCA; Amateur Canadian Champion in boxing and wrestling at his
+weight; the Chapman Cup named for him. Not Kanawana, but this is the comparative
+generation — the men who built the private-camp world Kanawana's directors sat beside on
+association boards. The KB has four "Chapman" hits; none is this man.
+
+**Catherine Scholes, "School Camping in Canada"** — states that as of 1953 **only four
+Ontario schools had pioneered school camping, and no other province in Canada had school
+camps at all**: Pickering College, Forest Hill Junior High (which "established
+co-educational camping"), King George School Guelph, and York Memorial Collegiate. A
+useful denominator for the coeducation article: Forest Hill's school camp is a documented
+Canadian coeducational camping precedent from the early 1950s, more than a decade before
+Kanawana's own coeducation question. Julian W. Smith (Michigan State) runs the companion
+piece on school camping in the United States.
+
+**Ivan Eaton, Adult Programme Secretary, Ottawa YMCA — "Day Camp is Big Business."** A
+full day-camp counsellor-training curriculum from inside the Y movement: background,
+administration, health and safety, programme. Notes more than thirty day camps in Toronto
+alone, over 4,000 children, six to eight weeks, more than $40,000 a year. Includes "what
+about a big totem pole for the council ring?" as a craft suggestion — the council-ring
+idiom again, in a YMCA writer, two years after Eastaugh's script.
+
+**Elizabeth Wardley Raymer** (formerly Margaret Eaton School) on the pre-camp conference,
+including the instruction to "Review words, and songs which are part of regular camp
+rituals, so that the new members may learn them" — evidence that transmitting camp song
+repertoire to new staff before camp opened was standard practice in the association's
+recommended training, not a Kanawana idiosyncrasy.
+
+**Keith Cleverdon, "Suggestions on Camp Development"** — a bibliography of the campsite
+literature camps were being pointed at in 1954, incl. John Ledlie, *Layout, Building
+Designs & Equipment for YMCA Camps* (Association Press). If Kanawana's postwar building
+programme followed anything, that title is the likely template.
+
+**"We Went to New York"** — 62 Canadians at the ACA National Conference at the Statler
+Hotel, ~2,000 delegates. CCA/ACA reciprocity agreed: mutual national mailing lists,
+monthly magazine exchange, cross-attendance at each other's regional and national meetings
+at member rates, each provincial association urged to join its nearest ACA Section, a
+joint camping recruitment film discussed, and each body to describe itself as "Affiliated
+with" the other. Named in the negotiation: Hugh Ransom, Catherine Hammett, Cliff Labbett,
+Ted Yard, Irv Haladner.
+
+Montreal suppliers advertising to camps this issue: Borden's (407 McGill St), Foodcraft
+Laboratories (6276 Des Écores St), McKague Chemicals (Eastern) Ltd (421 Courtemanche Ave,
+Montreal East), Ingram & Bell.
+
+**Kanawana itself: not named in this issue.**
+
+## 23 — Vol. 6 No. 3, June 1954
+
+★ **The new QCA executive, "Welcome to a New Executive" (p. 38).** This is the listing
+already cited in `wiki/traditions/order-of-owens.md` as footnote 6 — the June 1954
+"President — Mr. O. N. H. Owens" that, with the 1976 membership roll and the 1977 past-
+presidents list, identified Norrey Owens. **Confirmed present and correctly used; the
+earlier pass got this one.** But the term sweep took the Owens line and left the rest of
+the page, and the rest is the whole administrative circle Kanawana's director worked in:
+
+| Office | Holder |
+|---|---|
+| Past President | Miss Ruby Smith |
+| President | Mr. O. N. H. Owens |
+| Vice-President | Mrs. Agnes Mutchler |
+| Secretary-Treasurer | K. H. Murray |
+| Conference Chairman | A. Ross Seaman |
+| Programme | Ann Vail |
+| Membership | Mrs. S. Corden |
+| Publicity | Mr. Tony Shorgan |
+| Social | Mrs. S. Keator |
+| Counsellor Training | Miss Ruby Smith |
+| Camp Standards | F. M. Van Wagner |
+| **Song Book** | **Mr. William Hewetson (of the Boy Scouts Association)** |
+| Day Camping | Mr. A. E. Cotton |
+| Camp Directory | Miss Dais Gass |
+| Nominating Committee | Mrs. D. Judah |
+
+★ **The Song Book lead advances materially.** Quebec appointed its *own* Song Book chairman
+to feed the national committee — **William Hewetson of the Boy Scouts Association** — and
+the editorial on p. 7 makes the national ask explicit: "If every camp director in our
+membership would submit even one original song or original verses to an old one, **Mrs.
+Dorothy Douglas, our Song Book Chairman**, would be well away to a completed venture."
+Between the August 1953 circular to every member camp (issue 21) and this, there were two
+separate solicitations of camp song material with a named Quebec collector in between.
+Kanawana was a QCA member camp. **If Kanawana submitted anything, it went to Hewetson.**
+That is a specific archival target for `p_048`: Boy Scouts of Canada Quebec provincial
+records, and the CCA Song Book Committee papers. "Hewetson" returns zero hits in the repo.
+
+★ **Ruby Smith moves from President to Past President and takes Counsellor Training** —
+a one-year QCA presidency, 1953–54, between Roy Locke's and Owens's. Still absent from the
+KB (see issue 22). **A. Ross Seaman is here as Conference Chairman**, which sits directly
+beside `f_2471`'s record of his QCA offices. **F. M. Van Wagner** holds Camp Standards
+provincially *and* is elected a CCA national Vice-President at Kingston this year (masthead
+p. 5) — the Nominingue co-founder now setting the standards Quebec camps were measured by.
+**Dais Gass and Anne I. Vail, both of Montreal, are listed on the national masthead as CCA
+Past Presidents** — two Montreal women who had already led the national association, and
+neither name is anywhere in `facts.json` or `wiki/`.
+
+**The QCA's own annual report (Provincial Reports, p. 19–20).** The 1953 conference ran
+**27–28 March 1953** with Bob Rourke opening; other leaders **Irwin Haladner, Ron Perry,
+Dr. H. Caplan, John Venters, Walter Meyer, Dr. A. MacLeod, Roy Locke, Nathan Markus**;
+**about three hundred people attended**. Mary Edgar was the year's most successful guest
+speaker. The 1954 annual meeting, 7 May, had **Dr. Taylor Statten** speaking on "The
+Camper, What is She/He Like?" (a repeat of his New York address), **Dr. Mary Winspear** at
+dinner, and square dancing for the younger members. The report also notes the QCA ran
+**separate informal gatherings for private-camp people** alongside its regular meetings —
+a documented agency/private split inside the Quebec association. Walter Meyer appears again
+as a QCA conference leader, consistent with the song-leader engagements found in issue 21.
+
+**A. Milks ("Ace," W. A. Milks), Camp On-Da-Da-Waks — a full Personality profile** by
+Arnold Fraser, Executive Secretary of High Park YMCA. Born Eardley, Quebec; attended the
+**Ottawa YMCA camp at Marshall's Bay on the Ottawa River in 1907**; the camp moved to
+Golden Lake, Ontario in 1908 "because there was too much sawdust in the water"; counsellor
+1915, Assistant Director 1916 under **Charlie Plewman**; **directed On-Da-Da-Waks every
+summer 1916–1950 inclusive, 34 years**; over 300 boys in 1950. The name means "Men of the
+Woods." Fraser also records that the earliest trace of the camp is a minute of an **Ottawa
+YWCA Board meeting recording a camp held in 1893 on the Ottawa River across from Quyon,
+Quebec** — one year before Kanawana. This is a directly comparable Canadian YMCA boys' camp
+of Kanawana's own generation and province-adjacent geography, and one of the very few
+documented 34-year single-director tenures in the movement. "Milks" and "Plewman" are
+absent from `facts.json`.
+
+**Provincial membership, 1953–54: British Columbia — 18 camps, 3 agencies, 23 individuals,
+20 students.** The **Alberta Camping Association was formally constituted 13 February 1954**
+(minutes printed in full, executive listed) — so the CCA's provincial structure was still
+being completed in the mid-fifties, with Quebec and Ontario long established.
+
+**Keith Cleverdon, "Some Thoughts on Camp Fire Safety"** — the first attempt at a Canadian
+camp fire-safety standard, written because "so far we have done little to set a standard
+for the protection of our campers... against damage or destruction from fire." Frame
+buildings 20–40 ft apart; two-storey frame sleeping quarters declared undesirable by fire
+authorities; 30 sq ft per person sleeping, 10 sq ft dining; two exits opening outward; fire
+drill once each camp period. Directly relevant background for the site article: this is the
+external standard against which Kanawana's wooden buildings would have been judged in the
+1950s, and the era's fear about them.
+
+**Kirk Wipper, "How Does Your Waterfront Rate?"** — Director, Ontario Camp Leadership
+Centre, Bark Lake. A full waterfront audit checklist with the era's depth standards
+(beginner 3–3½ ft, intermediate 3½–7 ft, senior over 7 ft; 9 ft under a 1 m board, 12 ft
+under a 3 m board). **Mary M. Porter** (formerly Waterfront Director, YWCA Camp Davern,
+Ottawa) sets out a drowning-search drill developed with Don Purdy of the Ottawa Red Cross —
+the four-minute standard, the shallow-water wading line, the surface-dive line, grappling
+irons. Useful context for any camp drowning in this period.
+
+**Dr. H. W. Curran (Queen's) on Education for Conservation**, from the Kingston annual
+meeting — the conservation-education argument as the camping movement received it in 1954,
+relevant to the environmental-education article.
+
+**"Little Canada in England"** — Lt.-Cdr. Frank Hunt RN, of Churchill's Map Room staff,
+touring Canada to gather donated logs for a year-round Canadian-style camp in Surrey for
+sickly children, cabins to be named after Canadian provinces and cities; CCA hosting him
+and offering camp visits. Also **"Tonakela," Wally Forgie's camp outside Madras, India** —
+the same Wallace Forgie who moved the Ottawa camp to Golden Lake in 1908.
+
+**Kanawana itself: not named in this issue.**
+
+## 24 — Vol. 6 No. 4, December 1954
+
+★ **The first National YMCA Camp Training Seminar** (Ted Yard, "Testing Our Training
+Theories at the YMCA Camp Directors Seminar"). Held **at Toronto YMCA's Camp Pine Crest,
+23 August – 2 September 1954**, during the ninth week of Pine Crest's boys' camp season.
+**Ten men and two women, from camps between Saskatoon and Kingston.** Ron Perry came from
+Ottawa as discussion leader. Two days' orientation then seven days and nights working
+through every phase of camp work, testing each discussion immediately against a real cabin
+group, interest group, waterfront period or overnight — on one night all ten men went out
+with ten different overnight groups and it rained all night. Jointly sponsored by the Camp
+Pine Crest Committee of Toronto Central YMCA **and the National YMCA Camping and Personnel
+Committee**. Personal evaluation interviews with each participant were conducted by **Mr.
+Stan Symington, Boys' Work Secretary for the National Council of YMCAs**.
+
+Two things make this matter for Kanawana. First, it is the founding event of national
+YMCA camp-director training in Canada, and Kanawana's director was a Boys' Work Secretary
+in exactly the stream this seminar was built to upgrade. Second, **"Symington" returns zero
+hits in `facts.json`** — the national Boys' Work Secretary of the period is not in the KB
+under that name at all. The twelve participants are not named in the article; a delegate
+list, if one survives in the National Council's records, would be worth having, because
+Kanawana's own director is a plausible candidate for one of the twelve.
+
+★ **Camp Weredale surfaces from an unexpected direction.** In the book pages: *Twenty
+Twenty-Minute Talks to Boys* by **Vernon F. McAdam**, who "for the past thirty years… has
+talked to boys. Boys' clubs, Boy Scout Groups, Boys' Brigade, High School, Sunday School,
+**and Camp Weredale** have been his interests. Each Sunday found him conducting an
+undenominational chapel service in which his talk formed the focal point." The book is
+**free on request from Boys' Clubs of Canada, 6 Weredale Park, Montreal 6, Quebec.** The KB
+already holds 87 Weredale facts and 15 wiki files mention it, but **McAdam is not among
+them** — this is a named Weredale chapel speaker of thirty years' standing and a published
+text of what boys at a Montreal camp of Kanawana's own city were told on Sunday mornings in
+the early 1950s. A copy is a findable object.
+
+★ **Camp Ouareau changes hands.** "Miss Joyce Bertram, [CCA's] former Executive Secretary…
+Director and Owner of Camp Ouareau, in the Laurentians, **to succeed Miss Dorothy
+Percival**." The KB has 93 Ouareau facts and holds both Bertram (2) and Percival (5), so the
+succession may already be recorded; the specific point this adds is that Bertram came to
+Ouareau **straight from the national office of the CCA**, which is why the Tajar and "Maude"
+stories found in issue 21 came from a person who then ran a Laurentian girls' camp.
+
+**Barbara Cass-Beggs, "Sunday Programmes at Camp"** — Director of Music at Camp
+Gay Venture, writing from Wales where her husband was on the staff of University College
+Swansea. A detailed reconstruction of five Sunday-evening camp programmes and, more useful,
+**a named repertoire**: "Summer Is A-Coming In"; the Canadian evening built around a Hudson
+Bay trading post with fishermen, lumberjacks, "Eskimos and Indians," an old Indian
+storyteller telling a Gitchi-Manitou legend, and closing on "The Huron Carol," with
+"I'se the B'y That Builds the Boat," "Donkey Riding," "Eskimo Lullaby," "The Indian Birch
+Bark Canoe," "Les Raftsmen" and "À la claire fontaine"; an "America Sings" evening; a
+Highland Ceilidh opening with the cutting of the sod for the turf fire and closing with the
+smooring of the fire. Her cited source books: *Fireside Book of Folk Songs*, *Fireside Book
+of American Songs*, *Oxford Carol Book*, Kennedy-Fraser's *Songs of the Hebrides*, **Fowke
+and Johnston's *Folk Songs of Canada***, *Sing Along the Way*, *Lift Your Voices*.
+Cass-Beggs returns **zero hits in `facts.json`** despite appearing repeatedly in this run.
+This is the documented common repertoire of Canadian camps in the year Kanawana's own
+songbook tradition was forming — the pool any Kanawana song of the period was drawn from
+or reacted against.
+
+**Kay McClelland (Section Head, Camp Oconto), "With the Tens and Elevens"** — names a
+second block of the common repertoire for that age: "The Squid Jiggin' Ground," "The
+Canadian Boat Song," "Why Can't My Goose," "Little Tommy Tinker," "Indians Are High-Minded,"
+"Peace I Ask of Thee, O River," "Land of the Silver Birch," "As the Shadows," "Taps." She
+also describes the **camp song-writing competition** — each cabin writes a song about its
+own group or section within a week, presented at a special evening — which is one
+documented mechanism by which camp-original songs came into being. And on Indian Lore, she
+records the ten-to-eleven-year-old pow-wow as *the* age at which it took hold, with campers
+choosing chiefs and witch doctors and hunting up legends. Consistent with Eastaugh's
+council-ring script (issue 20) and against Blatz's objection (issue 21).
+
+**A. L. Cochrane's masthead survives; Dais L. Gass and Anne I. Vail of Montreal remain
+listed as CCA Past Presidents.** The national office moved to Room 407, 170 Bloor Street
+West (the Park Plaza) this quarter. The 1955 OCA conference moved to 3–5 March to let ACA
+members attend and let Canadians reach the ACA New York Regional at Atlantic City on
+25–27 February.
+
+**Gertrude Evelyn "Dinty" Moore** — Personality profile by Lorne E. Brown. Margaret Eaton
+School graduate; **the idea for her camp came from Mary Edgar of Glen Bernard on an evening
+walk**; opened **Moorecroft, the first private girls' camp in British Columbia, 1934**, on
+75 acres on Vancouver Island; first President of the BC Camping Association, 1939, and
+principal author of the BC camping standards later used by the province for licensing. A
+clean documented instance of the Glen Bernard/Margaret Eaton School lineage seeding a camp
+three thousand miles away — the same network Quebec's women camp leaders belonged to.
+
+**Ted Yard's "Whoduzit?" job-analysis series begins**, with the **Section Director** post
+set out in full: staff training, programme planning, cabin allotments, health check-up,
+laundry and days-off and night-watch schedules, counsellor appraisal sheets, counsellor
+letters to parents, daily reports, and the principle that "the Section Director is in effect
+the Director of a small camp unit." Kanawana ran a section system (Juniors, Intermediates,
+Seniors) and this is the era's standard written definition of what its section heads did.
+
+Also noted: **the Ontario Society for Crippled Children ran five camps**, Blue Mountain
+alone taking about 275 children a year (Delwin McLennan); **Canada had exactly two diabetic
+camps** — Illahee Lodge at Cobourg (Kinsmen) and Kiwanis Camp Banting on the Ottawa River
+at $25/week — against twenty-five in the United States. The editor's preamble carries a
+**Cold War caution** against the 1955 Warsaw youth rally and the Youth Friendship League,
+warning directors to sound the warning to students — the political weather camp staff
+hiring took place in.
+
+**Kanawana itself: not named in this issue.**
