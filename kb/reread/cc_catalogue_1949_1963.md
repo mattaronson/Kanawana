@@ -535,3 +535,53 @@ The Unknown Gentleman—^Bruno Morawetz .June 1956
 The River Pointer—C. R. Blackstock .Feb, 1956 
 We Tried It This Year—Mr. and Mrs. R. Raymer.Feb. 1956 
 We Inherited a Horse—H. Canzano .Dec. 1955 
+
+---
+
+## Cross-check status (2026-09-04)
+
+`scripts/reread/catalogue_check.py` compares this catalogue against
+`kb/reread/cc_findings.md` and prints entries whose distinctive words are largely
+absent from the findings — a worklist, not a proof of omission.
+
+**First run: 323 entries parsed, 20 candidates.** Two were real and have been patched
+in place:
+
+- **"By Emberglow" — Charles E. Hendry, Apr. 1950** → issue 6 block. A 1949 sociometric
+  study in which 120 boys ranked their cabin-mates by preference.
+- **"Who Dozit? Evaluation" — W. E. Yard, Dec. 1956** → issue 32 block. Missed because
+  the OCR renders the series title "WHODUZIT". Names the **Y.M.C.A. Camp Appraisal
+  Form** among the instruments in use.
+
+**Still to review** (17 remaining after those patches). Several are near-certainly
+already covered under a paraphrase and will clear on inspection; the ones that look
+worth actually opening are marked:
+
+    1950 Apr | Lasting Legacies — Mary S. Edgar
+    1954 Dec | With The Tens and Elevens — Kay McLelland
+    1955 Dec | Jamboree of New Horizons — Syd Young
+    1955 Feb | Pelee Paradise — David Law
+  * 1956 Jun | Who Dozit? Camp Program — W. E. Yard
+    1957 Apr | The Grass Grows Greener — J. B. Lidell
+    1957 Dec | Recreational Therapy — C. Allan Roeher
+    1957 Feb | Are You Adequately Insured? — W. Bertram Danson
+    1957 Feb | Duel Issues (Tuckshop) — Mary Barker
+  * 1957 Jun | Who Dozit? Swim Test and Recognition — W. E. Yard
+    1958 Dec | Mother Went Camping — Jean Shelton
+    1959 Dec | From The Nurse's Viewpoint — Mrs G. Brigden
+    1959 Feb | Winter Wonderland — F. M. Van Wagner
+    1959 Jun | Campfire Time — Kay McLelland
+    1960 Apr | Nurture From Nature — Kirk A. W. Wipper
+    1960 Jun | Tasty Suppers — Elizabeth Steen
+  * 1961 Feb | In Quest of Answers — H. M. Devenney
+
+**A series worth reading as a set, whether or not the individual blocks caught it.**
+W. E. Yard's **"Who Dozit?"** ran through the mid-1950s as a set of camp job
+descriptions, and the catalogue lists at least nine: Section Director (Dec 1954),
+Business Manager (Jun 1955), Waterfront Director (Jun 1955), Out-Trip Director (Jun
+1955), Medical Staff (Jun 1955), Camp Program (Jun 1956), Evaluation (Dec 1956),
+Counsellors' Responsibilities (Apr 1957), Swim Test and Recognition (Jun 1957).
+Together they are the era's fullest statement of what each role in a Canadian camp
+was actually for — the best available frame for reading Kanawana's own staff lists,
+where the wiki has titles but often no duties. Worth collecting into one place at
+conversion time.
