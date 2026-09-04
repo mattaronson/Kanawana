@@ -1,6 +1,6 @@
 # Environmental Education and Stewardship at Kanawana
 
-*Status: E1-reviewed | Sources: 37*
+*Status: E1-reviewed | Sources: 38*
 *Last Updated: 2026-09-04*
 
 ## Overview
@@ -111,6 +111,10 @@ In October 1979 the association reprinted a long article from *The Probe Post* o
 The figures given are those of the period: uncontaminated rain has a pH of about 5.6, while the mean pH of precipitation in south-central Ontario was between **3.95 and 4.38**, with one snowfall measured at **2.97 — "over 400 times the acidity of normal precipitation"**; of 209 lakes tested near Sudbury, **20 per cent were "dead" and another 50 per cent threatened**; Inco's 1,250-foot stack emitted "an average of **3,600 tons of sulphur dioxide daily**", more than any other single source in North America, and in July 1979 Ontario had just revised its 1970 control order to let that rate continue. The article also notes a second effect beyond fish kills — "**there seems to be a connection between relatively small rises in lake acidity and significant increases in mercury levels in fish**."
 
 Nothing here is about Kanawana, and no measurement of its own lakes from this period is known to this project. What the article establishes is that by 1979 the acidification of Canadian Shield lakes was being put to camp directors as their problem, in their own trade press, with Quebec named as downwind of Ontario's emissions — which is the context for any later water-quality record from Lake Kanawana, Lake Wilson or Round Lake, and a reason to look for one from these years (see [[site/lake-wilson|Lake Wilson]]).
+
+**Two years later the projection had hardened into a number.** In October 1981 the association gave six of its pages to a National Survival Institute fact sheet, "Preservation of Wildlife and its Habitat: just one aspect of Stewardship," whose acid-rain line is a single sentence: "**in Ontario alone some 200 lakes are already 'dead' and 48,000 may be lost by the turn of the century**."^38 Against the 1979 article's count of 209 lakes tested near Sudbury with a fifth dead, that is a claim about the whole province and about a horizon nineteen years out. The rest of the sheet moves the subject beyond acidification to the things a camp's own naturalist could not see from the waterfront: mercury dumped into the English-Wabigoon River by Dryden Chemicals between 1962 and 1970, "making its fish — the staple diet of the Indian villages of White Dog and Grassy Narrows — unsafe to eat"; the 1979 federal regulation allowing molybdenum tailings to be dumped into Alice Arm at "concentrations 16,000 times higher than allowed by the Fisheries Act"; the Dempster Highway across the range of the Porcupine caribou herd; the George River herd endangered "because of excessive hunting in **Northern Quebec**"; and, as counterweight, the Berger Inquiry's proposed sanctuaries and peregrine falcons "being bred at centres in Alberta, Saskatchewan and **Quebec**" and released to the wild. Its closing list of what a reader can do is aimed squarely at a camp: walk a nature trail, join a wildlife association, write to your elected representative, borrow a wildlife film from the National Film Board, start a children's wildlife club, put up a bird feeder — and subscribe children to *Chickadee* and *Owl*.
+
+Neither piece is a Kanawana document, and neither names the camp. Together they date what the environmental content of a Canadian camp's own nature programme was being fed from the outside between 1979 and 1981: not general conservation sentiment, but named companies, named rivers, named herds and a projected count of dead lakes.
 
 ### The 1970 erosion crisis
 
@@ -227,6 +231,7 @@ The Canadian Summer Camp Research Project (CSCRP, 2006–2011), conducted by the
 35. "Your Camp and Its Environment," *Canadian Camping* Vol. 31 No. 4 (June 1979), pp. 3, 12 [src_ia_canadian_camping_collection] — twenty Environmental Maintenance Standards developed at a Conference of Canadian Interpreters, reprinted from the Alberta Camping Association *Newsletter*, May 1979. Found by the same read (issue 126). A national code circulated to accredited camps, not a Kanawana document.
 36. Karl Hartwick, John Jorgenson and Jim Gear, "Canoe Tripping in the Twentieth Century," *Canadian Camping* Vol. 31 No. 5 (October 1979), pp. 4-5 [src_ia_canadian_camping_collection]. Found by the same read (issue 127).
 37. "Acid Rain," reprinted from *The Probe Post* (Probe, 43 Queen's Park Crescent E., Toronto), in *Canadian Camping* Vol. 31 No. 5 (October 1979), pp. 3, 9-10 [src_ia_canadian_camping_collection]. Found by the same read (issue 127).
+38. "Preservation of Wildlife and its Habitat: just one aspect of Stewardship," a fact sheet prepared by and reprinted with the permission of the National Survival Institute, 229 College St., Toronto, in *Canadian Camping* Vol. 33 No. 5 (October 1981), pp. 3-4, 15, 21-24 [src_ia_canadian_camping_collection]. Found by the same read (issue 139).
 
 ## Research Notes
 

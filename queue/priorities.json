@@ -4183,6 +4183,17 @@
       "status": "pending",
       "tier": "critical",
       "notes": "Source: 'Suggested Camp Forms', Canadian Camping Vol. 32 No. 2 (March 1980), p. 6, with the Camper's Health Certificate reproduced in full. Word-for-word read, issue 130. Feeds p_312, p_314 and the retrospective embargo sweep p_307."
+    },
+    {
+      "priority_id": "p_324",
+      "rank": 323,
+      "type": "RESEARCH",
+      "description": "RECOVER THE COLUMN HEADINGS OF THE 1980-81 NATIONAL CAMPING STATISTICS TABLE. Canadian Camping Vol. 33 No. 5 (October 1981), p. 23, prints a table of figures for 1980-81 for all nine provinces beneath Rosaire Corbin's special report. The numbers are clean in the Internet Archive scan; THE COLUMN HEADINGS ARE SET IN ROTATED TYPE AND ARE COMPLETELY ILLEGIBLE. Quebec's row is 125 / 63,243 / 5,694 / 40; the national totals are 574 / 313,953 / 37,690 / 228. Columns 2 and 3 are almost certainly campers and staff, since their totals track the association's own 1976 projections of 260,000 campers and 32,000 staff, and column 1 reads as the number of camps -- but that is inference, and column 4 (all round numbers, summing to 228) is not identifiable at all. ACTION: obtain a clean copy of that single page -- try the Internet Archive item's page images at higher resolution or a different derivative, Trent University Archives (which holds the CCA fonds and whose deposit copies are the source of much of this run), and the ACQ successor body, which printed the French original. Do not label the columns in any wiki article until the headings are read. NOTE ALSO, from the same catalogue: Mary I. Casey's The Nurse and the Health Program at Camp is described in October 1981 as 'a revised and expanded edition of the 1979 manual' and attributed to Camp Tawingo Publications, while this project holds a CCA-published item of the same title at $2.00 by 1977 -- three dates and two publishers, possibly two different books. Resolve when a copy of either is seen.",
+      "weight": 6,
+      "status": "pending",
+      "created": "2026-09-04",
+      "source": "word-for-word read of Canadian Camping, issue 139",
+      "blocked_on": null
     }
   ],
   "queue_ordering": {

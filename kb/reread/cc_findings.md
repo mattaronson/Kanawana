@@ -23950,3 +23950,166 @@ own small record of what stopped selling: *Beyond Competition*, ***Eskimo Inuit 
 Earth*, *Snow Sculpture and Ice Carving*, *Summer Camping, a Parent's Guide*. The mailing label on
 this copy reads **Miss Marion Babcock, Newmarket** — a third deposit hand in the Internet Archive run,
 after Trent and Camp Richildaca.
+
+---
+
+## 139 — Vol. 33 No. 5, October 1981 — THE 1981 PUBLICATIONS CATALOGUE
+
+Twenty-four pages, eighteen of them the CCA's **1981 bilingual publications catalogue**, its own
+pagination running 1-18 inside the issue. **No contents page is printed** — recorded explicitly.
+Items accounted for by sweep: the Royal Chinet advertisement; "Preservation of Wildlife and its
+Habitat: just one aspect of Stewardship", a National Survival Institute fact sheet running across
+pages 3-4, 15 and 21-24; the publications catalogue entire (New Books; the classified list in eleven
+categories; the Project Reach series; the HOW TO / SERIE COMMENT FAIRE pages; the title index; two
+bilingual order forms); the ACA's 1982 New York convention programme; Rosaire Corbin's "Rapport
+spécial"; the 1980-81 statistics table; a classified advertisement; and the mailing label.
+**Kanawana is not named. Quebec appears in the statistics table and in Corbin's report.**
+
+**★★★★ NATIONAL CAMPING STATISTICS BY PROVINCE, 1980-81 — and Quebec had 125 camps.** Printed
+without commentary beneath Rosaire Corbin's plea for members to return their questionnaires, the
+table gives four columns for each of nine provinces. **The column headings are set in rotated type
+and have not survived the OCR at all** — they are illegible in the scan, and that is recorded as a
+defect of this copy, not as an absence in the source. The figures themselves are clean:
+
+| | col. 1 | col. 2 | col. 3 | col. 4 |
+|---|---|---|---|---|
+| NFLD | 29 | 12,974 | 353 | 10 |
+| NS | 37 | 7,704 | 1,078 | 18 |
+| NB | 21 | 35,764 | 4,497 | 15 |
+| **QUE** | **125** | **63,243** | **5,694** | **40** |
+| ONT | 197 | 91,281 | 13,339 | 60 |
+| MAN | 33 | 10,047 | 2,228 | 15 |
+| SASK | 19 | 3,677 | 422 | 20 |
+| ALTA | 62 | 60,804 | 8,356 | 40 |
+| BC | 51 | 19,459 | 1,723 | 10 |
+| **TOTAL** | **574** | **313,953** | **37,690** | **228** |
+
+What can be said about the columns without guessing: the totals for columns 2 and 3 — **313,953** and
+**37,690** — sit directly in line with the association's own projected national figures for 1976,
+which were **260,000 campers** and **32,000 staff** (issue 112), so campers and staff is the natural
+reading and the growth over five years is about 21% and 18% respectively. That is an inference from
+the totals, not a heading, and it is flagged as such; **a clean copy of this page should be obtained
+before the columns are labelled in any article.** Column 1 reads as the number of camps (574
+nationally, against Quebec's 125), and column 4 — whose values are all round numbers summing to 228 —
+is not identifiable at all.
+
+Corbin's text explains why the table exists and is the frankest statement in the run of what the
+associations did *not* know about their own members: "**Quoi de plus difficile d'entamer une
+discussion ou une négociation lorsqu'aux premières questions posées: 'qui représentez-vous?, combien
+d'enfants accueillez-vous dans vos camps? combien de personnes engagez-vous?' il faut faire précéder
+les réponses des mots 'à peu près'**" — the solidity of the argument automatically weakened. He notes
+the figures "ont la valeur objective de savants calculs d'extrapolation effectués afin de remédier aux
+45% des non-répondants": **these are extrapolations covering a 45% non-response rate**, which is the
+single most important qualification on the table and must travel with any number taken from it.
+
+**Written into `canadian-camping-movement.md` (sub-source 8aq)** with all three cautions attached.
+For this project the useful figure is the denominator: **Quebec had about 125 organized camps in
+1980-81 and Kanawana was one of them**, in a national field of about 574.
+
+**★★★ THE CATALOGUE NAMES THE AUTHORS OF THE "HOW TO" MONOGRAPHS.** Under HOW TO SERIES: "***'How to
+Promote Your Camp' — D. Walsh, CCA/ACC, 1981***", and under (LA) SERIE COMMENT FAIRE, "***'Comment
+promouvir votre camp vacances' — D. Walsh, CCA/ACC, 1981***", each asterisked as a Canadian book, at
+75¢, with "Both titles and a C.C.A. three ring binder — 4.00". The companion is "***'Composting for
+Pleasure and Profit' — S. Hambly***" / "***'(Le) compostage pour le plaisir et le gain' — S.
+Hambly***". **This is the first place in the run where Walsh's authorship is stated as authorship
+rather than inferred from the committee he chaired**, and it confirms the June 1981 announcement
+(issue 138). **Sam G. Hambly** is already identified by this read as the composting author of issue
+119 and the Camp Allsaw advertiser of issue 134; he appears again in this issue's classified column,
+advertising from 9 Calais Avenue, Downsview for an "Upper level Business Manager for well established
+camp, responsible for promotion and accounts". **`people/derek-walsh.md` updated.** The catalogue
+adds "**Watch the Publications page in 'Canadian Camping' for additional titles, soon to be
+published**", so the series was meant to grow beyond two.
+
+**★★★ THE MAGAZINE PRINTS GRASSY NARROWS, ALICE ARM AND THE PORCUPINE HERD — five months after the
+white canoe.** "Preservation of Wildlife and its Habitat", a fact sheet prepared by and reprinted with
+the permission of the **National Survival Institute**, 229 College St., Toronto, opens on the epigraph
+"**We don't inherit the earth from our grandparents; we borrow it from our children**" and states
+plainly that "**we are destroying wildlife, and this deprives native people of their traditional way
+of life**". Its cases are specific, current and Canadian:
+
+- **Acid rain**: "in Ontario alone some **200 lakes are already 'dead' and 48,000 may be lost by the
+  turn of the century**."
+- **Grassy Narrows and White Dog**: "Between 1962 and 1970 **Dryden Chemicals Ltd. dumped nearly
+  10,000 kilograms (20,000 lbs) of mercury into the English-Wabigoon River system** in North-western
+  Ontario, making its fish — **the staple diet of the Indian villages of White Dog and Grassy
+  Narrows** — unsafe to eat."
+- **Alice Arm**: the 1979 federal regulation allowing Amax of Canada to dump molybdenum tailings at
+  "concentrations 16,000 times higher than allowed by the Fisheries Act", containing arsenic, lead,
+  mercury, cadmium and Radium 226, into "**the traditional fishing ground of the Nishga Indians**",
+  with seven major Canadian churches, the B.C. Federation of Labour and United Steelworkers members
+  in opposition and the Anglican Church buying Amax shares to move a shareholders' resolution.
+- **The Dempster Highway**, opened 1978, bisecting the range of the Porcupine caribou herd, with
+  hunters "shooting the animals from their cars", gravel dug from denning areas, and the observation
+  that "no one knows whether an oil spill in Arctic waters could be contained".
+- **The George River herd**, "said to be the largest free-ranging herd in the world, may be endangered
+  because of excessive hunting in **Northern Quebec**."
+- And the **Berger Inquiry** as a gleam of hope, with peregrine falcons "being bred at centres in
+  Alberta, Saskatchewan and **Quebec**".
+
+**Written into both `traditions/environmental-history.md` and `site/indigenous-names-and-land.md`.**
+The first because it extends the acid-rain thread this read dated to October 1979 and puts a number on
+it. The second because of what it sits beside: **the same magazine that filled its June 1981 back
+cover with an invented Victorian legend of an Indian maiden sacrificed at Niagara printed, five months
+later, an account of mercury poisoning at Grassy Narrows and tailings dumped on Nishga fishing
+grounds.** Both registers were live in the same volume, addressed to the same readership of camp
+directors. That is the honest shape of the thing, and it is more useful to this article than either
+half on its own.
+
+**★★ Another Quebec name on the CCA's own list of authors.** Among Camp Administration titles:
+"***Outdoor Education — Guidelines for Camps* — W. Mingie, 17p, CCA, revised 1981, $1.00**.
+Information for camp directors on campsite use for school programs." **Walter Mingie** is recorded by
+this read at issue 51 (June 1961) as "Director, Canoe Trips and Intermediate Section, **Camp
+Nominingue**" — F. M.
+Van Wagner's camp, and Robert Wilkinson's. So of the CCA's small list of asterisked Canadian titles,
+three now have Quebec authorship: Wilkinson's textbook, Walsh's pamphlet and Mingie's guidelines.
+**Added to `canadian-camping-movement.md`** beside the Wilkinson paragraph, because the association
+whose publications list looks overwhelmingly American (about fifteen Canadian titles among a hundred
+and more) was drawing more of its own writing from Quebec than the run's Ontario centre of gravity
+suggests. Also on the list: **K. Wipper, *Woodsmanship Leaders' Guide*, 155p, CCA, 1979, $6.00**, "an
+outgrowth of the C.C.A. National Woodsmanship Leaders' Schools" — the guide this read watched being
+written and **translated by Rosaire Corbin** (issue 129), now published and priced.
+
+**★★ Rosaire Corbin, "directeur général — A.C.Q.", dated.** He appears in the QCA directory listings
+of 1975 and 1978 as the French section's contact at 952 rue Cherrier, Montreal; here he writes as the
+Association des Camps du Québec's **directeur général**, over a signed special report. That gives the
+ACQ a named chief executive in October 1981 — the office and the man — for the officer tables, and he
+is the same Corbin who translated Wipper's woodsmanship guide.
+
+**★ The catalogue against the December 1980 one — what changed in ten months.** The full list was read
+at issue 134; this is its revision, and the deltas are the finding. **ACA health forms have doubled in
+price, 5¢ to 10¢ each**, still with "these forms are not to be reproduced by any other agency", and
+the list is unchanged: Accident Report Form; Health Record Card; Camp Health Record Form; Girl's
+Health Examination Card; Boy's Health Examination Card; Camp Health Examination Form for Children,
+Youth & Adults; Camp Staff Application Form — with the ACA **Health Record Log**, "a stitched log book
+with numbered pages (8½ × 11), space for 25 entries per", at $3.25. Wilkinson's textbook is listed at
+**$23.50, "special price of $19.95 until December 31, 1981"** — so a copy inscribed or invoiced at
+$19.95 is from 1981. Casey's nursing manual is now attributed to **Camp Tawingo Publications** and
+described as "a revised and expanded edition of **the 1979 manual**", which adds a third date to the
+sequence this read has for that book (CCA, $2.00, by 1977; a 1979 manual; revised 1981, 101 pp.,
+$6.50) and means the $2.00 CCA item and the Tawingo book may not be the same publication at all —
+**flagged, not resolved.** New Canadian titles: **Jack Pearse, *Sing (One More Time) with Jack
+Pearse*, Camp Tawingo, 1981 — "53 great 'singing songs' with music"** (announced as forthcoming at
+issue 134, now published, and a companion to the 31 songs of the 1980 volume); **Jack Pearse, *Clouds
+on the Clothesline and Other Games*, 225p, Tawingo, 1981, 201 games**; **Laurie Macintosh, *The
+Kitchen Makes the Camp Go 'Round*, 88p, 1981 — "lots of good recipes in quantities to serve 50
+campers, by a camp cook"**; and *When the Wilderness Beckons* now attributed to the **Highway Book
+Shop**, Cobalt.
+
+**★ And a title that belongs in the Indigenous-material record.** Under MISCELLANEOUS, sold by the
+association to camp directors: "***Thirty Indian Legends of Canada* — M. Bemister, 153p, J.J. Douglas,
+1973, $5.95. Mythology of Canada's Indians, a rich source of story and legend**", described in the New
+Books section as "a reset, handsomely illustrated edition of Ms Bemister's collection". Margaret
+Bemister's collection was first published in 1912. **Noted in `site/indigenous-names-and-land.md`**:
+the campfire-story supply line was a commercial one, and it ran through the association's own
+bookstore.
+
+**Minor.** The **ACA's 1982 national convention** is set for the **New York Statler, 1-6 March 1982**,
+full advance registration $155 for members and $195 for non-members — and "**Members of the Canadian
+Camping Association and Christian Camping International will be entitled to member registration
+fees**", a reciprocal arrangement that made the American convention affordable to any accredited
+Canadian camp's director. The catalogue's front matter restates the association's founding year as
+**1936** in both languages ("The C.C.A. was founded in 1936 as a non-profit organization" / "créée en
+1936"), a further printing of the date against the competing 1946 and 1949 claims. Terms of business
+worth a line for anyone reading a camp's invoices: third-class shipping unless otherwise asked, **1½%
+per month on overdue accounts**, no returns except for error or damage. The mailing label is again
+**Miss Marion Babcock, Newmarket**.
