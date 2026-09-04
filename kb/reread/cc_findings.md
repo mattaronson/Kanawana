@@ -5808,3 +5808,169 @@ program in their camps." And the OCA's pamphlet list is reprinted with prices
 unchanged, now with *It's Wise to Supervise* at $1.00 added to it.
 
 Kanawana itself: not named in this issue.
+
+## 50 — Vol. 13 No. 3, April 1961 ★★★
+
+Wilkinson's editorial on what a camper expects; **Wipper on the Nor'Westers**;
+Gleeson and Blank on survival swimming/drownproofing; a letter to CITs;
+Devenney on the calculated risk; Johnstone on staff recreation; Raymer on
+details; **June Braaten's Indian Day at Camp Belwood**; Reesor on day camping;
+Wipper on survival camping and on the kayak; RLSS news.
+
+**THE NOR'WESTERS EXPLAINED — six years before they paddled Lake Superior
+(pp. 102–03).** `centennial-1967.md` records that in the 1967 Centenary Journey
+relay "Kirk Wipper (Camp Kandalore) volunteered his camp for the dangerous Lake
+Superior section when no youth camp stepped forward, using **Nor'wester alumni
+staff** paddling two 25-foot Chestnut wood-canvas canoes." The phrase has stood
+in the wiki without explanation. **This article is what they were**, written by
+Wipper himself in 1961:
+
+> "This group of young men, **all camp staff members**, are proficient in skills
+> of tripping, exploration, orienteering, canoeing, campcraft, woodlore, wildlife
+> and creative crafts using natural materials. Their purpose is to promote,
+> practice, and teach other campers these skills… based on their belief that
+> **the essence of real camping must be in a deliberate and conscientious
+> identification with their surroundings.**"
+
+Structure and practice:
+
+- Members hold the camp's activity headships — tripping staff, canoe head,
+  campcraft specialists, wildlife director, arts and crafts director, section
+  directors, senior counsellors. "**Their influence on the direction and purpose
+  of the camp is powerful indeed.**"
+- They **meet through the off-season as well as the camping season**, and the
+  active membership includes **men who have graduated from the camp staff** —
+  "This contact is invaluable." (That is precisely the alumni body that crewed
+  Lake Superior in 1967.)
+- Cross-activity projects — "it is not unusual for arts and crafts, campcraft and
+  wildlife specialists to work together in **the construction of a genuine Huron
+  shelter**".
+- Demonstration campfires: wintergreen tea, planking and roasting fresh fish,
+  **boiling water in a birch bark container**, fire without matches.
+- Their own expeditions through Haliburton, Algonquin and Temagami; and **two
+  members lived seven days in a remote location on foraged food, with fires
+  started without matches**.
+- **Membership is by invitation**, after a candidate has shown particular skill
+  and willingness to serve the group's purpose.
+- Motto: "**In the strengths of our forefathers we go / Not in their footsteps /
+  It is their stars we follow / Not their dead campfires.**"
+
+For this project the structural point is the comparison: an invitation-only
+order of skilled staff, holding the camp's key posts, surviving into an alumni
+body, with its own motto and ceremonies. That is the same species of institution
+as Kanawana's **Order of Owens**, and `order-of-owens.md` now has a dated,
+fully described Canadian contemporary to be read against. Add to
+`centennial-1967.md` as the explanation of who the Nor'wester alumni were.
+
+**"An Indianized version of 'Cumbiah Lord'" — a dated Canadian Kumbaya
+(pp. 124–27).** June Braaten's minute-by-minute account of Indian Day at **Camp
+Belwood** — the Ontario Association for Retarded Children's camp on a site loaned
+by the Guelph Kiwanis Club (the camp reported as a pilot project in issue 38),
+now subsidised by the **Ontario Lodges and Chapters, Loyal Order of Moose**, with
+sixty seriously retarded boys aged eight to eighteen for three weeks, cabins of
+two counsellors and six campers.
+
+`camp-songs-cheers.md` currently says "The iconic camp song 'Kum Bah Yah' was
+introduced at a YMCA National Conference at Green Lake, Wisconsin in the early
+1950s." **Here is a dated Canadian attestation eight years later, and the form is
+the notable part**: "Soon all the tribes are gathered at the dining hall door.
+**They chant an Indianized version of 'Cumbiah Lord'.** It was learned in
+sing-song period, first very slowly and bit by bit, but in the end even seriously
+retarded children know the words and sing, not all in tune, but in time." A
+Gullah spiritual, adopted by the YMCA camping movement, and by 1961 being
+performed at an Ontario camp as pseudo-Indian chanting. That transformation is
+exactly the kind of thing `camp-songs-cheers.md` and `indigenous-names-and-land.md`
+need to record, and it is the first hard date this read has produced for the song
+in Canada.
+
+The rest of the account is the most complete description in the run of how a
+camp "Indian" event was actually manufactured, and its parentheses are the tell:
+
+- Costumes made by campers in craft periods; **make-up of "lard and gaudily
+  coloured tempera"** for the older braves, plain tempera for the younger.
+- **Tribal signs painted on heavy craft paper** for the outside of each cabin;
+  **lean-tos of heavy craft paper painted with Indian signs, laced between a
+  frame of branches**, standing behind each tribal fireplace around the main
+  ceremonial fire; **plaster of paris circular moulds painted with tribal signs**
+  to be presented to all the braves.
+- The Great Chief (the Programme Director) leads senior and kitchen staff in
+  costume in single file to the flagpole; the whole camp dances slowly round it;
+  the Chief "turns, faces the great totem and exclaims, '**O Great Manitou, bless
+  us in our Indian games**'… 'Go, braves. Let the Belwood games begin.'"
+- The feast menu, with its own annotations: "**Roast Potatoes (baked in oven, but
+  now thrown into ashes for effect)** / Corn-on-the-Cob (pre-cooked but still in
+  105 oz. cans…) / **Venison (hunks of Kam to be roasted on sticks)** / **Fire
+  Water (fruit drink in bottle jugs)** / Bananas (real bananas)".
+- And the pedagogy underneath it, stated plainly for this camp's population:
+  "a very simple version had been practiced and practiced in the dramatics period
+  — **repetition being an important principle in a retarded child's learning**";
+  "the retarded child must see to understand"; "routine is the foundation on
+  which the retarded child's learning is built".
+
+"Belwood" and "Braaten" return zero hits in the repo. Read against Eastaugh's
+council-ring script (issue 42) and Anne Parke's papier-mâché masks (same issue),
+this completes the picture: by 1961 the whole apparatus was standardised,
+purchasable, teachable, and — in the words of its own practitioners — done "for
+effect."
+
+**And the counter-voice, in the same issue (pp. 109–10).** Hart Devenney,
+director of the Ontario Camp Leadership Centre at Bark Lake, arguing that camps
+should build real adventure through "calculated risk" rather than substitutes:
+
+> "To offset this kind of situation some camps have tried to satisfy the
+> adventurous soul by providing what ought to be called **artificial
+> opportunities. And so we see a plethora of Indian Tepees and Tomahawks,
+> blunted but nevertheless weapons, wampum belts and so on ad infinitum. This is
+> play acting. This is not learning of a real kind.**"
+
+That is a senior Canadian camping educator dismissing the Indian apparatus in
+print, in the same issue that prints an admiring account of an Indian Day. The
+two together are the argument this project needs for
+`indigenous-names-and-land.md`: the practice was not unquestioned at the time.
+Devenney's other examples are worth keeping too — the camp that erects "picket
+fences, literally or figuratively, around those areas of camp experience which
+have elements… likely to involve calculated risk"; the two-day rain that turns
+"damp spirits" into fights and "the 'barracking' of the counsellor"; and the
+recommendation that campers be prepared for their first night with "pictures,
+slides or movies of the insects or birds or mammals who make the night watches
+their mode of life. **There are record albums of these voices in the night now on
+the market.**"
+
+**Drownproofing arrives (pp. 104–07).** Two articles, and the cover line is
+"DROWN PROOF YOUR CAMPERS!" Rodd Gleeson (Regina YMCA) and a Reader's Digest
+reprint set out Fred R. Lanoue's method — developed at Georgia Tech from the
+1930s, taught to the U.S. Navy in the war, "20,000 people of all ages" trained —
+with the full seven-step Stay-Afloat and Travel strokes printed. The physiology
+given: "**muscle and bone sink; fat and air float**… with lungs fully inflated,
+98 out of 100 men and practically all women will float against the surface of the
+water **if they don't try to hold their heads up**"; average human density .97,
+"approximately five pounds of his body out of the water." Gleeson's argument for
+camps is pointed: "**Survival swimming should be a requirement for boys
+participating in an out trip program at camp. It is not known if any camp insists
+upon this at the present time.**" He notes the 1956 revision of the YMCA
+swimming manual admitted drownproofing as an *alternate* third-star requirement —
+one minute of it, against thirty seconds of treading water — and that most
+candidates chose the alternative. "Drownproof" returns zero hits in the repo; this
+dates the technique's arrival in Canadian camping to 1960–61 and gives a marker
+for reading any later Kanawana waterfront record.
+
+**Also noted.** Robert E. Wilkinson — **Assistant Professor of Physical Education
+at McGill and Director of the Junior Camp at Camp Nominingue**, a second McGill
+tie to that camp after VanWagner's outing-club role — argues the camp programme
+should be "essentially unique, it should complement, not duplicate, activities
+already learned before coming to camp", and should be redirected "toward such
+skills as swimming, canoeing, archery, orienteering and axemanship, rather than
+the promotion of school and playground activities like football, baseball and
+basketball." He names the children's models: "Hiawatha, Paul Bunyan, Davey
+Crockett, Daniel Boone and **Radisson**". His caution about growth is worth
+recording for any large camp: "Large, successful camps must recognize the danger
+of jeopardizing this personal fellowship between staff member and camper by
+organizing and regimenting many routines which used to be much more leisurely and
+personal." An unsigned letter "To A Group of Counsellors-In-Training" notes a
+terminology change: "At the first camp I attended, **the leaders were called
+'officers'**. That word suggests discipline (and no nonsense!), with a military
+flavor… But the modern word, 'counsellor', suggests the friendly relationship of
+comrade as well as leader." And the Ontario Department of Lands and Forests
+reports that **campers caused 265 forest fires in Ontario in 1960**.
+
+Kanawana itself: not named in this issue.
