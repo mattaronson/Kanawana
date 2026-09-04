@@ -4249,3 +4249,166 @@ today." And Master Canvas Craft of Weston advertises **"THE 'BARK LAKE'
 OUT-TRIP TENT"** — a named, commercially produced Canadian trip tent.
 
 Kanawana itself: not named in this issue.
+
+## 41 — Vol. 11 No. 2, February 1959 ★★
+
+**Already recorded as a null result.** `f_2241` logs this issue as containing no
+reference to Kanawana across 108 KB of OCR, and correctly captured two things
+from it: the CCA's Montreal office and officers, and the "Chance Harbour, N.S.,
+1889" claim about the first Canadian YMCA boys' camp. Both confirmed. The full
+read adds provenance to the second and a good deal else.
+
+**The Chance Harbour claim: who actually said it, and when.** `f_2241` attributes
+the statement to "the CCA's own 1959 belief". It is not that. The "Among
+Ourselves" column (pp. 66–67) prints it as a found document, with this headnote:
+
+> "From the depths of a file of O.C.A. research material, we came upon the
+> following writing of the beloved late **'Ace' Milks**, former director of
+> **Camp On-Da-Da-Waks at Golden Lake, out of Ottawa Y.M.C.A.**"
+
+So the passage is (a) by a named, deceased Ottawa YMCA camp director, (b)
+retrieved from an *Ontario* Camping Association research file, and (c) internally
+datable: Milks writes "In eighty-seven years" from the 1861 founding of Gunn's
+Connecticut camp, which puts the essay at about **1948**, eleven years before it
+was printed. Its full chronology:
+
+- First boys' camp on record: **Frederick William Gunn, Connecticut, 1861.**
+- First YMCA boys' camp: **Sumner F. Dudley, 1885, seven boys, Orange Lake near
+  Newburgh, N.Y.**; moved to Lake Champlain 1891; "still flourishes under the
+  name of Camp Dudley after its founder."
+- **"The first Canadian Y.M.C.A. boys' camp, so far as we can discover, was
+  organized by the Y.M.C.A. Committee of the Maritime Province and held at Chance
+  Harbour, N.S., in the summer of 1889."**
+
+That last is hedged ("so far as we can discover") by a man writing from an Ottawa
+YMCA vantage a decade before publication — which is a materially weaker claim
+than a 1959 association position, and it should be recorded that way. Note too
+that Chance Harbour is in **New Brunswick**, not Nova Scotia, and Big Cove — the
+1889 camp the KB already carries with seven facts — is also in New Brunswick.
+This may be one camp under two descriptions, or two. Either way it is a fourth
+distinct printed claim about Canadian camping's origin point in this run, after
+the Ottawa Y at Golden Lake in 1884 (Feb 1955), the Ottawa YWCA minute of 1893
+with Golden Lake dated to 1908 (Dec 1954), and Fannie Case's Northway Lodge
+1905 (Apr 1955). **These should be gathered into a single conflict record rather
+than resolved piecemeal.**
+
+**Milks also closes a small circle.** "Camp On-Da-Da-Waks at Golden Lake, out of
+Ottawa Y.M.C.A." is the camp that **Wallace Forgie "built the foundations for"**
+(issue 38, Adele Statten Ebbs's profile), and it is the camp `t-duncan-patton.md`
+already describes T. Duncan Patton moving "from a cramped, mosquito-ridden site
+at Marshall's Bay to 'a beautiful, high, pine treed location' on Lac d'Or (Golden
+Lake) beyond Renfrew." `camp-songs-cheers.md` knows it a third way, through Gary
+Schofield. Four independent traces of the same Ottawa YMCA camp now converge,
+and "Ace" Milks — zero hits in the repo — is a fourth name attached to it.
+On the same page Milks credits **Ernest Thompson Seton** with giving boyhood
+"the virtues of the race of red men" and calls playing Indian "a game every
+normal boy has experienced" — a plain statement of the ideology behind the
+council-ring material Eastaugh was selling by mail order.
+
+**Camp Ouareau hired a Montreal caterer, and the director published the numbers
+(pp. 65, 98).** By **Joyce Bertram, Director, Camp Ouareau** — the KB already
+carries two Bertram facts and 93 Ouareau facts. This is a full operating account:
+
+- Budget rule of thumb: "If you plan on spending X dollars for your food for the
+  summer, count on **10% of that for the caterers' fee**," plus kitchen staff
+  wages, which the camp pays at rates the caterer sets.
+- **"dish washers this summer cost me $35.00 a week each. In previous years they
+  cost $16.00."** More than double — "But these women did the job and many
+  others, while the high school girls employed previously did almost nothing."
+- Menus set before camp on a **two-week cycle**, "so that a child coming for four
+  weeks has the same thing only twice"; hot dogs and ice cream exempted, "or you
+  wouldn't have any campers the following year!"
+- Season length: from the counsellors' first meal "until the last weeping child
+  was waved out of the camp gates **some eight and a half weeks later**."
+- The caterers supplied equipment and staff; the only purchase asked of the camp
+  was a potato peeler. "It is by no means a modern kitchen. I have no dish washer
+  or electric stove."
+- And a cook with her own authority: when beef prices rose, "She simply stated
+  that I 'couldn't afford beef for that there crowd and that she'd ordered veal'!"
+
+A directly comparable Quebec girls' camp's kitchen economics, dated 1958, in the
+director's own voice. Add to `camp-ouareau.md`.
+
+**A camp for diabetic children in the Laurentians, 18–28 August 1958
+(pp. 70–71, 94).** Organised by a Medical Advisory Committee drawn from
+Montreal's English-speaking hospitals, sponsored by **The Montreal Children's
+Hospital**, held at **Camp Jackson Dodds, St-Alphonse-de-Rodriguez**, on Boy
+Scouts Association property and with Scout personnel (**Miss Lillian Poltrick**
+and staff). Twenty children aged eight to twelve plus four older
+counsellors-in-training; financed by parents' contributions and private
+donations; a paediatrician, camp nurse **Miss Dorothy Ainger**, and dietitian
+**Miss Lorna Roach** in attendance. "the first one of its kind" in Quebec. The
+estimate given: "in Montreal alone we might expect some **twelve hundred
+Diabetics under the age of fifteen**." Programme: swimming, boating, hiking,
+crafts, campfire, square dancing, skits. On the last night each child invited
+their own doctor to a banquet; the doctors square-danced and then "climbed the
+hill with the children for the last campfire and its nostalgic songs." All but
+two children were injecting their own insulin by the end. Applications to
+**Dr. Mimi M. Belmonte, The Montreal Children's Hospital, 2300 Tupper St.,
+Room 478**. Zero hits for Jackson Dodds, Rodriguez, Poltrick or Belmonte in the
+repo. A specialised-camp movement operating in the same Laurentian hills as
+Kanawana, in the same summer, with named institutions.
+
+**J. Harry Ebbs on fatigue (pp. 62–64)** — the third substantial Ebbs medical
+piece in the run, and the one with the most operational content. He distinguishes
+physical, mental and **emotional** fatigue, the last "seen in moody campers, or
+associated with periods of anger, frustration and jealousy… those who have fears,
+are unhappy, or who **secretly are homesick**. These children look unhappy, pale,
+and often have dark circled eyes, with signs of tiredness **more marked in the
+morning**, when they would be expected to be refreshed." His minimum sleep table,
+stated as hours of sleep and not time in bed: **6–8 years, 11 hours; 9–11, 10½;
+12–14, 10; 15–17, 9; staff, at least 8.** He recommends "patrols for early wakers"
+and evening programmes that "taper off", longer rest periods before and after
+special events and in humid weather, and warns that fatigue's safety cost is
+"loss of attention, diminished skill, carelessness and a lack of keenness in
+appreciating danger." Note that this sits in the same run as his infirmary
+supply list and — indirectly — as Taylor Statten M.D.'s homesickness study.
+
+**"How's Your Coverage?" (pp. 76, 79, 97) — the OCA's first standards visitation,
+with results.** Clifford Labbett of Camp Oconto reports that the OCA ran "a pilot
+visitation programme to many of its member camps" in summer 1958, "a first step
+in the effort to implement **Desirable Practices for Camps in Ontario**", and
+publishes the insurance findings from **28 camps visited**: Workmen's
+Compensation 25/3; Comprehensive Public Liability 28/0; Automobile 25/3;
+Non-owned Auto Liability 22/3; **Fire 24/4**; Health & Accident on campers 18/8.
+He is candid that four camps carrying no fire insurance "was indeed a surprise",
+and suspects the three claiming "no cars" simply misunderstand non-owned auto
+liability. Ontario rates given: Workmen's Compensation at **65¢ per $100 of wages
+plus room and board valued at $1.50/day**, mandatory only for camps operated for
+profit. The Ontario Hospital Insurance Plan took effect 1 January 1959 and camps
+are advised to collect parents' contract numbers on health forms. Labbett already
+has five facts in the KB via `derek-walsh.md`; this is a much earlier appearance,
+and the visitation programme is the mechanism by which the printed standards
+finally began to be checked — the answer to C. T. Sharpe's December 1957
+complaint that they were not being kept.
+
+**Also noted.** VanWagner's editorial is a lost-in-the-woods drill — no
+individual leaves the party; always carry map, compass, matches, axe or knife and
+emergency rations; blaze any route off the trail; and if lost, **"stop at once
+and sit down… Do not try to find your way home under any circumstances"** — plus
+a companion piece on winter fire-building on snow along Laurentian ski trails,
+"some hundreds of times… during the past twenty-five winters": stand the gathered
+wood on end in the snow, tramp a platform, lay two-foot base logs so the fire
+does not melt itself into a hole, one fire per four to six skiers, tea in five
+minutes more than in summer. Hart Devenney describes the **Ontario Camp
+Leadership Centre at Bark Lake**, near Irondale — an Ontario Department of
+Education project running since 1947, three-week courses, "nearly 1,500 girls and
+1,000 boys" trained, staff drawn from the teaching profession, instruction, meals
+and accommodation provided by the province: a publicly funded camp-leadership
+school with no Quebec equivalent recorded here. Lois Emmond describes Manitoba's
+six 4-H camps, ~525 members a summer, one award per member for life, with a
+candle-lighting ceremony on the meaning of 4-H. Ruth Carruthers prints a
+**self-inspection check-list for camp food service** — hand-dishwashing at 120 °F
+with a 170 °F two-minute sanitising immersion, machine wash 130 °F and rinse
+180 °F, refrigeration at or below 50 °F, "No tobacco used", "Conspicuous
+handwashing notice posted". Irwin Haladner, CCA past-president and director of
+Camp Wabi-Kon, has become **president of O'Day Associates of Canada Ltd.**,
+selling fibreglass sailboats out of 170 Bloor Street West — the magazine's own
+publishing address — with publisher Fred Haiblen as secretary-treasurer; the
+same page advertises Klein and Haladner's booklet *It's Wise to Supervise*, $1,
+distributed by the OCA. And a classified seeks "Cabin Counsellors, Specialists,
+Dietitian, Second Cook… for private camp in Laurentians. Apply to **Lake Pembina
+Camp, 4792 Victoria Ave., Montreal**" — a Montreal-run Laurentian camp, not to be
+confused with the Pembina *River* on Kanawana's own canoe routes (`canoe-trips.md`).
+
+Kanawana itself: not named in this issue — confirming `f_2241`.
