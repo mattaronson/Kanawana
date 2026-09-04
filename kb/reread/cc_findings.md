@@ -21895,3 +21895,139 @@ Latimer (the notice does not say which). The illustrations to Blackstock's artic
 Avenue, Toronto. Coming Events repeats the 1978-79 meeting calendar with one correction — the Banff
 board meeting is now **26-28 January 1979** rather than 24-28 — and the editor again asks provincial
 associations to send dates.
+
+---
+
+## 122 — Vol. 30 No. 6, December 1978
+
+Twelve pages. Every item accounted for: For a Happy Camper (Alan F. Klein); President Emeritus (the
+appointment of F. M. Van Wagner, with his handwritten reply reproduced); Editorial; Go East… Old Man
+(Jack Pearse); the ACA/CCA International Convention preliminary programme over two pages; A Knowledge
+of Nature (a note on an enclosed Royal Bank Monthly Letter); Winter Leadership School; Maintenance —
+Wintertime Tips; a musician-wanted advertisement. **Kanawana is not named, but its former director is
+named twice and the whole Quebec section appears at work.**
+
+**★★★★★ A FATAL WILDERNESS CANOE TRIP IN QUEBEC IN 1978, AND THE ASSOCIATION'S RECKONING WITH IT.**
+The editorial:
+
+> "**The tragedy at the beginning of the wilderness trip attempted recently in Quebec brought camping
+> people up short. We have become somewhat complacent during the past ten or twelve years assuming
+> our performance standards are satisfactory** and well known to all camp people to the point where
+> they will protect all of us. **A review of this incident indicates this is not so. Even government
+> regulations are not broadly known nor publicized well enough.**"
+
+No camp, party, date or water is named. **I have not identified it and the wiki does not identify
+it.** What the editorial establishes is the association's own judgement, in print, that a decade or
+more of confidence in Canadian camp tripping standards had been misplaced, and its proposal that the
+CCA "identify the risks in adventure tripping" so it "could use this information to set standards and
+Governments could base their travel regulations on them." It also gives the precedent the association
+reached for: "**In the 1920s a camp in Southern Ontario had a similar experience at Balsam Lake. Out
+of that came the slogan 'Hang on to the canoe — for three days and three nights'. It was also the
+spur to camp people to establish standard strokes.**" That is a dated 1920s origin for two things any
+Kanawana tripper would recognise.
+
+**Written into `traditions/canoe-trips.md` as a new subsection (source 14)**, beside the November
+1975 flotation regulation, with the point that the second half of the 1970s is when the safety
+framework around Kanawana's canoe trips was rebuilt — and that neither change originated at the camp.
+**New priority `p_322` (weight 9, critical)** to identify the incident, explicitly warning against
+assuming it is the Lake Temiskaming drowning of 11 June 1978 (St. John's School of Ontario, twelve
+boys and a master) merely because Temiskaming straddles the Ontario-Quebec boundary — that is a
+hypothesis to test, not an identification — and to find both the review the editorial calls for and
+the 1920s Balsam Lake incident. **The following issues should report what the association actually
+did; watch for it as the read continues.**
+
+**★★★★ F. M. VAN WAGNER MADE PRESIDENT EMERITUS — with his handwritten letter reproduced.** The
+notice restates his record in the association's own words and settles one thing this project had by
+inference: "**He shared in the founding of the C.C.A. in 1936 and is one of its Charter Members. The
+next year he organized the Quebec Camping Association, English Section, and became its first
+President.**" Also: CCA President **1958 to 1961**; honorary member **1974**; born Hyde Park, New
+York; **Camp Nominingue founded 1925** on Petit Lac Nominingue; the **Award of Merit from the ACQ-QCA
+Provincial Board** and the **Centennial Medal**. **Written into `canadian-camping-movement.md`
+(sub-source 8af)**, with the note that this is a **second charter member dating the CCA's founding to
+1936 in the association's own pages**, after Plewman at issue 111 — which bears on the competing 1946
+date the article already carries in its sources. **The facsimile letter is itself an artefact worth
+noting: a handwritten letter from the founder of Quebec camp standards, reproduced in the December
+1978 issue, and therefore reachable in the cached scan.**
+
+**★★★ THE QUEBEC SECTION AT WORK, OCTOBER 1978 — and a panel on exactly the subject Kanawana's
+records are full of.** From Pearse's travel report: in Montreal, "the afternoon was spent
+participating on a panel concerning **staff recruitment, training and supervision** with **BARB
+PATTERSON, RON BRAVERMAN and BOB LAZANIK** organized by **KEN WILLIS, HERB FINKELBERG and the English
+Section of Q.C.A.**" Then "**BOB MAISONNEUVE chaired a superb dinner meeting of A.C.Q.-Q.C.A. en deux
+langues**" at which Pearse and John Latimer received woodcarvings by René Rousseau. Pearse was met by
+**Rosaire Corbin**, visited "old friends **Tony Shorgan and Yves Beauregard at the Society for
+Crippled Children**", lunched with **Maisonneuve, Raymond Hade and Lucille Cardinal**, was driven by
+past-president **Zave Ettinger** to the **Lazaniks'** — "a wonderful visit with **LEE, BOB and their
+two boys**" — and stayed the night. Braverman is Pripstein's (issue 118); Lazanik and Ettinger are
+QCA past presidents (issue 112). **Written into `canadian-camping-movement.md` with 8af**: the
+subject of that panel is the subject of every Kanawana director's report of the period.
+
+**★★ DEREK WALSH IS STILL RUNNING NATIONAL PROMOTION.** From the board agenda at St. John's: "a
+nation wide request for all Camps to submit statistics for our use with the Immigration Department,
+**for the national promotion of Camping by DEREK WALSH and the P.R. Committee**, and for a C.C.A.
+National Directory which will be assembled by GEORGE MATTHEWS and the N.S.C.A." So Walsh's PR
+chairmanship, first dated to 1977-78 at issue 116, is still running in late 1978 — the year he ceased
+to be QCA president and his last full year at Kanawana. Note also the **statistics request tied to
+the Immigration Department**, which is the association marshalling evidence to defend the foreign-
+counsellor exemption due to lapse that autumn (issue 119); Pearse spent a day in Ottawa "with **CAL
+STOTIN and LOUIS RACINE**, the Immigration Department."
+
+**★★ EILEEN MAYOTTE RESIGNS FROM THE CCA EXECUTIVE**, to work full-time in the Regina schools'
+counselling department. Pearse: "**In the 10 years she has been involved in the National Camping
+scene, no one has given greater service or dedication to Canada's campers. She has truly been our
+'First Lady'.**" That dates her national involvement from about **1968** and closes the arc this read
+has followed since issue 111 — Saskatchewan writer, CCA Secretary (April 1977), Vice-President
+(November 1977), gone by December 1978. **A former Secretary of the Quebec Camping Association (issue
+117) called the First Lady of Canadian camping: the stub case is complete.**
+
+**★★ Alan F. Klein's "For a Happy Camper" — an address to a CCA conference in Montreal in 1960**,
+reprinted eighteen years later as still current. Klein was Professor of Social Group Work at the
+University of Pittsburgh, and the piece is the most theoretically explicit thing in the newsletter
+era: an application of **Maslow's hierarchy** to camp admissions — "if we have certain kinds of
+facilities and staff, the level of needs evidenced in a camper may clearly indicate that we have no
+business accepting him" — and of Bettelheim's *Love Is Not Enough*: "**Love them and limit them. A
+child who is not limited is a deprived child, a frustrated child, a rejected child and hence an
+unhappy child.**" His central analogy is worth keeping: camps engage a dietitian because "a trained
+dietitian knows which foods in what combinations produce a balanced diet… Then they hire a programme
+director. **His or her skill in devising a programme menu should be as precise as the dietitian's.**"
+And his test of a camp's honesty about its own purposes: "**If you do not screen the youngster
+intake, group them by plan and programme for the purpose, I can only conclude that you are fooling
+yourself in thinking that you are clear and comfortable about your purpose. If you employ callow
+young staff and give them a once over lightly pre camp session, I must conclude also that you do not
+mean your purpose.**" **The conference itself is the finding for this project**: a national CCA
+conference held in Montreal in 1960, during the three years the CCA's national office was there under
+Van Wagner — another occasion whose records would name Quebec camps.
+
+**★ Institutional detail.** The **CCA national office moves before 31 March 1979 to 1806 Avenue Road,
+Toronto**, still sharing with the OCA — a change of address for anyone tracing correspondence. The
+board's submission to the federal government for 1979-80 **"totals more than $86,000.00"** from
+Fitness and Amateur Sport, which is the scale of the association's dependence on Ottawa. **Doug
+McEwen is revising the constitution**, last done by **Stan Wild in 1971** — corroborating the Regina
+constitutional revision Belanger drove (issue 116) and naming its draftsman. **Kirk Wipper's
+Woodsmanship Leaders' Guide** is nearly complete and **being translated by Rosaire Corbin**; the
+association is "at long last… printing certificates for successful candidates from our Woodsmanship
+Schools." **Jean Funk's Leadership Training Committee expects to complete a model for C.I.T. and
+Counsellor Training in January 1979** "which could be used by Provincial Associations and individual
+camps" — a national CIT training model, dated, and directly relevant to
+`traditions/cit-lit-program.md`; worth watching for in the next issues. The **Nova Scotia association
+has produced a camp song book** which they plan to "put to music" — a Canadian camp songbook of 1978,
+one for `p_311`.
+
+**★ The Winter Woodsmanship Pilot School**, Camp Kandalore, **7-12 February 1979**: winter trail
+skills, non-mechanized travel, winter ecology and safety, cooking, clothing, skiing, snowshoeing,
+snow studies, wildlife and first aid, with "**the underlying theme… the principle of living in
+harmony with the environment**". **Twenty candidates from across Canada, each provincial association
+allotted places, travel and board paid by Fitness and Amateur Sport.** Quebec had places. Contextual
+for `traditions/winter-programming.md`.
+
+**Minor.** The ACA/CCA International Convention at Minneapolis, 19-24 February 1979, is set out in
+full — $100 registration, $26 single rooms, kindred-group meetings including a **YMCA** bloc, and a
+programme list that is a snapshot of what North American camping thought worth a session in 1979:
+values clarification, self-esteem, cross-age camping, earth-covered camp buildings, peer counsellor
+training, grantsmanship, and "**Meeting the Needs of Inner City Campers**". John Latimer is to give
+the closing banquet address. A **musician** is wanted by "a small, traditional, private boys' camp in
+Ontario" for organising singsongs, accompanying on piano, planning skit nights and Sunday
+"musicales". Wintertime maintenance: fill the natural gas tank now against a price rise, **leave
+piano tops open**, clean eavestroughs against ice damage, leave fridge doors open, and change 100-watt
+bulbs for 60-watt. The Cash's Name Tapes price has risen from $3.20 to **$4.00** for six dozen — a
+25% increase in a year, which is the inflation of these issues made concrete.

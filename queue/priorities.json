@@ -4157,6 +4157,19 @@
       "status": "pending",
       "tier": "important",
       "notes": "Source: Marvin Granek, 'Report on the Findings of a Survey of Camp Directors', Canadian Camping Vol. 30 No. 5 (October 1978), pp. 6-10. Word-for-word read, issue 121. Feeds between-centennials.md and the coeducation/enrolment thread."
+    },
+    {
+      "priority_id": "p_322",
+      "rank": 321,
+      "type": "RESEARCH",
+      "description": "IDENTIFY THE 1978 QUEBEC WILDERNESS-TRIP TRAGEDY, AND WHAT THE QUEBEC ASSOCIATION DID ABOUT IT. The Canadian Camping Association's December 1978 editorial: 'The tragedy at the beginning of the wilderness trip attempted recently in Quebec brought camping people up short. We have become somewhat complacent during the past ten or twelve years assuming our performance standards are satisfactory... A review of this incident indicates this is not so. Even government regulations are not broadly known nor publicized well enough.' No camp, party, date or water is named. DO NOT ASSUME AN IDENTIFICATION. One candidate to test, and only to test, is the Lake Temiskaming drowning of 11 June 1978, in which twelve boys and one master of St. John's School of Ontario died -- Lake Temiskaming lies on the Ontario-Quebec boundary, which could account for 'in Quebec', but the party was Ontarian and the editorial's phrase 'at the beginning of the wilderness trip attempted recently in Quebec' may equally describe a separate, smaller and less remembered incident. Establish which before citing anything. WHERE TO LOOK: Montreal Gazette, Montreal Star, La Presse and Le Devoir for summer 1978; Quebec coroner's inquest records; the CCA and QCA records at Trent (p_312, p_314) for the review the editorial calls for; and the following issues of this newsletter, which should report what the association actually did. WHY IT MATTERS FOR KANAWANA: Les Voyageurs de la Verendrye was a separately accredited Quebec wilderness tripping camp operating in exactly these years under exactly this association, so any provincial tightening of tripping standards in 1979 applied to it. ALSO WORTH ESTABLISHING: the 1920s Balsam Lake incident the editorial cites as precedent, credited with producing both the slogan 'Hang on to the canoe -- for three days and three nights' and the standardisation of canoe strokes in Canadian camping.",
+      "article_id": "canoe-trips",
+      "blocking": false,
+      "assigned_weight": 9,
+      "created_at": "2026-09-04",
+      "status": "pending",
+      "tier": "critical",
+      "notes": "Source: editorial, Canadian Camping Vol. 30 No. 6 (December 1978), p. 3. Word-for-word read, issue 122. Watch the 1979 issues for the follow-up as the read continues."
     }
   ],
   "queue_ordering": {
