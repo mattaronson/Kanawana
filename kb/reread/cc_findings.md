@@ -11347,3 +11347,269 @@ Nothing in this issue names Kanawana. Its value is the Gass biography, the canoe
 announcement, the National Centenary Campfire plan and the instruction to get local
 press coverage of departing trips, Lowes's and Groff's addresses in full, and Tuttle's
 song-leading method.
+
+## 72
+
+`canadiancampingmagazine_vol19no1_1966dec.txt` — Vol. 19 No. 1, December 1966.
+
+Contents page (checked against this block): The Directors' Retreat (Bruno Morawetz) ·
+A Two Way Affair (May Brown) · Your Bookshelf · We're Having a Birthday (John
+Latimer) · A Camp Director's Diary · The Editor's Mailbox · Among Ourselves (Faye
+Ecclestone) · Church Camping (A. Barbara Steven) · From the Provinces · To Whom
+Tribute is Due · Sermons Under the Sun. All eleven covered, plus Morawetz's short
+"Finding Staff" note.
+
+**★ THE FIND: this issue answers an open question `wiki/connections/related-camps/
+camp-oolahwan.md` records as a confirmed dead end.** That article's Open Question 8
+reads: "Who directed Camp Oolahwan after Edgar left in 1919 and before the final
+season? **Confirmed dead end across Trent, McCord, and LAC catalog descriptions — no
+successor-director name found online.**" Faye Ecclestone's profile of the CCA's
+national president, in the new "Among Ourselves" column, supplies a name:
+
+> "May grew up and received her early education in British Columbia. Then, after a
+> brief period of teaching, she went east to Montreal where she joined the staff of
+> the Y.W.C.A. in that city. **Her responsibilities included directing Camp
+> Oolawahn** and she also took the opportunity of completing her **B.Sc. in Physical
+> Education at McGill University**."
+
+So **Mrs. Lorne E. (May) Brown — President of the Canadian Camping Association
+1964–67 — directed Camp Oolahwan** during her time on the Montreal YWCA staff. Dating
+from the rest of the profile: she returned to teach health and physical education at
+UBC and coach women's field hockey after graduating; married Dr. Lorne E. Brown; her
+children were Gregory (16) and Barbara (11) in 1966, so born about 1950 and 1955; she
+took an M.P.E. at UBC in **1961**; and "**Five years ago May and her husband opened
+their own camp for boys**," **Camp Deka** in the Cariboo — i.e. about 1961. That
+places her Montreal/Oolahwan directorship in the **1940s**, most plausibly the later
+1940s, before her marriage and her return west. She also served the Vancouver YWCA
+board, chaired a National YWCA work group in Calgary, was an executive member and
+judge of the Amateur Synchronized Swimming Association of Canada, and sat on the
+**National Advisory Council on Fitness and Amateur Sport** (issue 71). Her hobby:
+"collecting early British Columbia bits and pieces, hoping that in time this will be
+the basis of **a small camp museum**." **Camp Deka is already named in
+`voyageur-canoe-pageant.md`** as a confirmed Centenary Journey participant — so the
+national president's own camp paddled the journey Kanawana paddled. Update
+`camp-oolahwan.md` with the name, the McGill degree, and the caveat that the exact
+years of her directorship still need a second source (the LAC series "Camp Oolahwan
+committee minutes, reports and training programmes, 1916–1974" that article already
+flags should settle it).
+
+**Masthead — Quebec's CCA vice-presidency changes hands again.** Robert Lazanik is
+replaced by **Mr. A. Ross Seaman, Que.** — who already has an article,
+`wiki/people/a-ross-seaman.md`, and whose CCA/QCA offices that article has had trouble
+pinning down (this read corrected a QCA-vs-CCA secretaryship at issue 53). **This is a
+firm, dated attribution: Seaman is the CCA's vice-president for Quebec as of December
+1966.** Also new: Larry Goble (Vancouver YMCA, former director of Camp Howdy) as 1st
+Vice-President, finishing Gordon McNab's term while McNab spends a year at Western
+Washington College; Faye Ecclestone as 2nd Vice-President; **Jack Way** (Vancouver
+Board of Parks and Public Recreation, director of Camp Capilano) as Treasurer; Leone
+Wellwood for Alberta.
+
+**John Latimer, "We're Having a Birthday — So What?" — the operational plan for the
+Centenary Journey, and the sharpest single sentence in this run about Kanawana's own
+leg.** On Quebec:
+
+> "**Naturally campers from Quebec are not too keen on travelling on the open sewage
+> ditch more commonly called the Ottawa River from Lachine to Ottawa. Nevertheless,
+> this will be done**, but to make their involvement more interesting **Peter Van
+> Wagner reports that some of the French-speaking and English-speaking campers will
+> be travelling and reporting on more northerly routes** which, although not directly
+> related to the route of the Voyageurs, have definite historical significance to
+> Quebec."
+
+That is the national chairman describing, in December 1966, the exact leg
+`facts.json` records Kanawana paddling — **"150 miles from Montreal to Ottawa via the
+Ottawa River"** — and it names the river's condition as the reason Quebec camps were
+reluctant. It also establishes that **the Quebec section was designed as bilingual**,
+with French- and English-speaking crews on parallel northern routes. Both belong in
+`centennial-1967.md`, which currently cites only the June 1966 article.
+
+Further operational detail, all new:
+- **The National Campfire is now dated**: "The Campfire will have a standard and
+  nationally-adopted opening and closing, and **will probably be held on the night of
+  August 9, 1967**" — matching the 9 August 1967 date `voyageur-canoe-pageant.md`
+  records, and confirming that camps whose sessions fell elsewhere could hold "a
+  similar campfire and programme in two-week and ten-day periods."
+- **Rendezvous Points**: camps arrange their own within each province "and hopefully
+  at each border," and Latimer proposes that "**items or symbols might be exchanged
+  between all campers at their Rendezvous Points… Such items might be signed by
+  participating campers, exchanged and displayed in Camp dining halls for
+  posterity**," in imitation of the voyageur rendezvous. **If Kanawana's crew
+  exchanged such an object, it may still hang in a Kanawana building or in whichever
+  camp they met.** A concrete, findable artifact.
+- A **flag or pennant** was under consideration for every canoe, hiking trip and
+  sailboat.
+- **Every participating camp is asked again to contact its local news media.**
+- **Logs**: "Provincial committees will be responsible for editing all logs and
+  reports from each participating group. These will be collated into a **Provincial
+  Log**. In turn, the Provincial logs will be re-edited and collated by the National
+  Committee to complete the final publication." So a **Kanawana trip log fed a Quebec
+  provincial log which fed the national book** — and `voyageur-canoe-pageant.md`
+  already records that book: *A Log of Canada's Centenary Journey* (1971). **The
+  Quebec provincial log is the intermediate document to hunt for.**
+- On safety and liability, unusually frank: "**the press will be quick to pick up any
+  stories involving accidents to unqualified campers and the Provincial Camping
+  Association may then be held morally responsible.**"
+- "Campers involved do not necessarily have to be Canadian… just in attendance at
+  Canadian Camp."
+
+Provincial progress reports: **Nova Scotia** (Ron Iles with Freda Wales) has covered
+its section and filed a twenty-five-page report, with a provincial grant; Newfoundland,
+P.E.I. and New Brunswick doubt they can paddle for "lack of canoes and experienced
+canoeists" but will submit historical reports; **Ontario** has covered every portion
+except Lake Superior, for which "one Camp Director" has committed his ex-staff (that is
+Wipper, per `centennial-1967.md` footnote 16), and will let a boys' and a girls' camp
+run the same route with "separate reports… differences, if any… noted in the master
+log"; **Manitoba** (Doug McEwen) is stuck on Lake Winnipeg; **Saskatchewan** (Jack
+MacKenzie with Gord Mundle) is well advanced, and **"In 1966 Jack led a group of 5
+Indian and 5 white boys in paddling part of the JOURNEY route in the area of the
+Churchill River"**; **Alberta** has lost its chairman (Don Smith resigned) and "still
+stumps the National Committee"; **British Columbia** (Ecclestone and Hicklenton, with
+May Brown, Lorne Bowering of the Vancouver YMCA and Ken Hansom of the Vancouver Boys'
+Clubs) has broken the province into more than twenty sections and will use canoe, raft,
+horse and hiking, aided by the B.C. Kayak and Canoe Association. One striking item:
+**"In 1965 five students from McGill University travelled the Fraser River and, in
+fact, topped Simon Fraser's record since they made no portages"** — a Montreal
+university party whose slides and recordings Latimer hoped to show at the March 1967
+annual meeting.
+
+**Bruno Morawetz, "The Directors' Retreat" — the sequel to Lowes's address (issue 71),
+and evidence that it produced action.** After the March 1966 banquet, "The Education
+Committee of the Ontario Camping Association set to work and organized a Retreat for
+Directors to consider Barry Lowes' challenges in depth." **On 30 September 1966 about
+two dozen directors met for two days at the Aurora Conference Centre**, Larkin Hall,
+King Township — "in camp clothes, camp style… helped by the complete absence of any
+outsiders." Two working groups formed on the two questions: how to make camping justify
+its educational claim, and how to demonstrate that value publicly. Points recorded:
+great variation in staff training methods (winter meetings, letters, Easter staff
+sessions); a proposal for **"a three-day post-camp training session… devoted to a full
+evaluation of the summer, mixed with periods of fun and recreation"**; "a great deal of
+discussion on the amount of freedom campers should be given, whether to allow them to
+climb trees, make sling-shots and crossbows"; "the problem of '**cabin sitters**'"; and,
+above all, **certification of directors** — "It was felt that the camping movement
+should take a hard look at the possible certification of Directors **rather than have
+someone else dictate terms to it**." Recommendations went to the OCA board for public
+information work, winter staff training, and research projects on "stages in child
+development, techniques for interviewing and hiring." A separate note, "Finding Staff,"
+observes that "many American students are most anxious to spend a summer in Canada" and
+that university summer placement bureaux are busiest in January and February — a
+recruitment channel worth checking against Kanawana's American staff.
+
+**May Brown, "A Two Way Affair" — the CCA president on conservation**, the fourth
+conservation piece in three issues and the one that states the association's position.
+"Is it enough for us as camping people to assume that living in the out-of-doors is a
+good thing both for the camper **and the out-of-doors**?… **it is suggested that a
+programme of this kind should be an integral part of every camp**." Her catalogue of
+what she actually sees: "an almost wanton destruction of living things… over use…
+[so] that all life is removed and erosion takes place… removing trees, plants and soil
+to make room for our modern conveniences — parking lots and hard top areas… leaving our
+waste and refuse behind." Her diagnosis is historical: a settler heritage in which
+killing, felling and clearing were necessary, followed by urbanization into "an almost
+entirely artificial environment. Here, use and waste was essential to the economy…
+**use it, get rid of it and get something new** — [an] attitude [that] would, of course,
+carry over when people moved from this unnatural environment to the camp." The
+distinction she draws is usable: "At present we are having **quantity use** of our
+natural spaces… What we must have is **quality use**." Set with Wipper (issue 71),
+Lowes (issue 71) and Grant (issue 70), this dates the CCA's turn to conservation as a
+stated institutional priority to 1966 — the year before the Centennial, and directly
+relevant to `wiki/traditions/environmental-history.md`.
+
+**"To Whom Tribute is Due" — Gertrude E. Moore, and a second confirmation of Mary
+Edgar's founding role.** The BC Camping Association established **the Gertrude E. Moore
+Lecture** at its February 1966 annual meeting. The profile (reprinted from Dr. Lorne E.
+Brown's December 1954 piece in this same magazine) records: **Moorecroft Camp, founded
+1934 and operated until 1956**, "**the first private camp for girls in British
+Columbia**," and its origin — "born one summer evening nearly four decades ago when
+**Mary S. Edgar, Director of Camp Glen Bernard in Sundridge, Ontario, asked one of her
+counsellors to go for an evening stroll**… a quiet chat between **the First Lady of
+Canadian Camping** and a young enthusiastic counsellor." Moore ("Dinty") was born and
+educated in Toronto, trained at the **Margaret Eaton School** (Mathilda Rogers
+Scholarship twice; Dorothy Scott Raff Optima Prize), taught ten years at Central
+Technical High School, began camping as sports counsellor at **Camp Couchiching for the
+National YWCA**, went to the Vancouver YWCA as Physical Education Director in **1927**,
+returned to Toronto as **Director of Recreation for Women at the T. Eaton Co.** and
+directed **their camp for business girls at Shadow Lake** — a corporate camp type new to
+this project, and the same employer where Dais Gass did personnel work. Moorecroft
+opened in 1934 on seventy-five acres on the east coast of Vancouver Island. **"Gertrude
+Moore was instrumental in organizing the British Camping Association in 1939 and was its
+first President"** [i.e. the British Columbia Camping Association], and over ten years
+in executive office her most important achievement was "**the drawing up of standards
+for camping in that province requested by the provincial government and later used as a
+basis for licensing summer camps in B.C.**" — the earliest instance in this run of camp
+standards becoming the basis of provincial licensing, and the model the QCA's own
+accreditation work (issue 70) was moving toward.
+
+**From the Provinces.**
+- **National and provincial parks policy.** Both Manitoba and Ontario are alarmed by
+  "the policy of the National Parks **to exclude private dwellings and commercial
+  ventures from national parks in the future**," with Manitoba's president writing to
+  the Minister (the Hon. Arthur Laing) and Ontario's president Adele Ebbs writing to
+  Lands and Forests, because "such a policy may in time extend to Provincial Parks."
+  A live land-tenure issue for camps in 1966, and the sort of thing that shaped where
+  camps could operate.
+- **Conference dates fixed**: the CCA Annual Meeting **1 March 1967**, and the
+  **Canadian Camping Conference 2–4 March 1967**, both at the Inn-on-the-Park,
+  Toronto, "with plans to use leadership from all across Canada."
+- **The Doe Lake Heritage Camp, August 1966** — "every Canadian province was
+  represented — a total of 90 campers. **The theme was 'Our Indian Heritage.'**" And
+  at the Provincial International Camp in July, **two Eskimo girls, Rhoda Akkiterk and
+  Martha Omik, came from Igloolik, "travelling by dog sled to reach the plane which
+  brought them to Montreal,"** then by car through Ottawa and Algonquin Park to Doe
+  Lake; aged thirteen and fifteen, "neither of them had ever seen a car or farm
+  animals before." Both Girl Guides. Their route ran through Montreal.
+- **Nova Scotia's Camp Leadership Conference**, May 1966, at the **YMCA Big Cove Camp**
+  in Pictou County, with Miss Edith Klein of the University of Georgia; the
+  **Conference Proceedings** are described as printing the talks "in full" — a
+  specific findable document, with sessions on rainy-day programme, health and
+  nutrition, child drama and natural history.
+- **The federal grant landed**: the Hon. **Allan J. MacEachen**, Minister of National
+  Health and Welfare, announced an administrative grant of **$1,676** to the CCA through
+  the Fitness and Amateur Sport Programme — the money the July 1965 brief (issue 68)
+  asked for, to cover office costs and one delegate's travel per branch.
+- **Northwest Territories**: camps at Prelude Lake and elsewhere run by the Young
+  Campers Association, with Richard Caswell and Marnie McKee training camp leaders.
+- **The Canadian Youth Hostels Association's Centennial project**: nine hostels in
+  Ontario, "roughly every 200 miles on the Trans-Canada Highway between the Quebec and
+  the Manitoba borders."
+- **Mrs. Carl Birchard ("Char")** stands down after fifteen years directing **Camp
+  Mohawk** (Kingston YMCA-YWCA and Kiwanis, in the Thousand Islands), with a farewell
+  written "after midnight on the last night of Camp — 1966… by the flickering light of
+  a candle." She prints **the full text of the camp song, credited "Char and Frigga,
+  1960"**: "Island lyin' lazy 'neath a clear blue sky, / Silent rocks and pines along
+  the shore; / Old St. Lawrence river beats a steady song / Sayin' you will love it
+  evermore… **Mohawk, island dear to all, / Your fires are a token / Of friendships
+  never broken**." A dated, attributed camp song with its authors named — the exact
+  kind of record the songs thread (`p_048`) needs for Kanawana, and evidence that such
+  authorship was sometimes printed.
+
+**A. Barbara Steven, B.Sc., "Church Camping"** — an argument about who pays for camp
+that applies directly to a YMCA camp. "**Historically, the Church is inclined to believe
+that a service, such as Camp leadership, should either be free or cheap**," and she
+presses the point hard: "Is it possible that a high school student who should be earning
+money for his education, or a lay person working all year and donating his short holiday
+to your camp **are the ones who are really paying for your child's camping
+experience**?… Is there any reason why people should not be paid what they would receive
+at any other job? **Sometimes we act as though God was both poor and stingy!**" She
+proposes that camp committees co-operate "to provide a full summer for well trained
+students in various camps," and that some leaders be paid to take training courses. Also
+a caution about property: "It is easy for a committee to feel that its own area is the
+most important; or an individual can be a '**castle builder**'… the part has become more
+important than the whole." Useful context for any account of how a sponsored camp's
+labour was priced.
+
+**Sermons Under the Sun** — a told story rather than a homily, used by **Howard Glaze**:
+the German schoolmaster who promises a carved angel to whoever brings "the most beautiful
+thing in the world," and gives it to the boy who arrives late carrying a pigeon the other
+boys had been stoning, which dies in his arms — "It is the tear dropped in sympathy for
+another." Recorded because it is the kind of campfire story that circulated by print and
+may turn up in a Kanawana context. **Reviews** cover John Craig's *By the Sound of Her
+Whistle* (reviewed by Gwen Morawetz), Alan Blackshaw's *Mountaineering* (reviewed by E. I.
+Zinkan of Rocky Mountain Boys' Camp), the National Audubon Society's seventy Nature
+Bulletins at $10 the set, and the U.S. Forest Service's *Backpacking in the National
+Forest Wilderness*. **Salaries of record**, from the classifieds: a camp director for an
+eight-week children's camp on Lake Simcoe, "**Salary up to $2,000**"; and Camp Mohawk
+advertising Char Birchard's vacancy.
+
+Nothing in this issue names Kanawana. Its value is very high: the Oolahwan directorship,
+Seaman's dated CCA post, the Ottawa River leg described by the man running the project,
+the 9 August 1967 campfire and the rendezvous-token idea, and the provincial-log chain
+that leads to a Kanawana trip report.

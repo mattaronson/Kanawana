@@ -4878,6 +4878,12 @@
           "at": "2026-07-11T00:00:00Z",
           "by": "auto",
           "task": "REVIEW"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-09-04T00:00:00Z",
+          "by": "auto",
+          "task": "RESEARCH"
         }
       ],
       "ralph_loops_completed": 2,
@@ -4934,7 +4940,7 @@
         "src_mccord_junior_league_fonds",
         "src_trent_mary_edgar_finding_aid"
       ],
-      "open_questions": 8,
+      "open_questions": 7,
       "cross_links": [
         "camp-ouareau",
         "canadian-camping-movement",
