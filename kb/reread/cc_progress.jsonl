@@ -34,8 +34,8 @@
 {"n": 34, "file": "canadiancampingmagazine_vol9_no3_1957april.txt", "bytes": 146071, "status": "read", "read_at": "2026-09-04"}
 {"n": 35, "file": "canadiancampingmagazine_vol9_no4_1957june.txt", "bytes": 114020, "status": "read", "read_at": "2026-09-04"}
 {"n": 36, "file": "canadiancampingmagazine_vol10_no1_1957dec.txt", "bytes": 101207, "status": "read", "read_at": "2026-09-04"}
-{"n": 37, "file": "canadiancampingmagazine_vol10_no2_1958feb.txt", "bytes": 112481, "status": "pending"}
-{"n": 38, "file": "canadiancampingmagazine_vol10_no3_1958april.txt", "bytes": 134162, "status": "pending"}
+{"n": 37, "file": "canadiancampingmagazine_vol10_no2_1958feb.txt", "bytes": 112481, "status": "read", "read_at": "2026-09-04"}
+{"n": 38, "file": "canadiancampingmagazine_vol10_no3_1958april.txt", "bytes": 134162, "status": "read", "read_at": "2026-09-04"}
 {"n": 39, "file": "canadiancampingmagazine_vol10_no4_1958june.txt", "bytes": 128341, "status": "pending"}
 {"n": 40, "file": "canadiancampingmagazine_vol11_no1_1958dec.txt", "bytes": 113983, "status": "pending"}
 {"n": 41, "file": "canadiancampingmagazine_vol11_no2_1959feb.txt", "bytes": 108034, "status": "pending"}

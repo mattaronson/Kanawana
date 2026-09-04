@@ -3587,3 +3587,318 @@ findable as offprints. The CCA office moved to **93 Yorkville Avenue, Toronto**;
 conference was set for the **King Edward Hotel, 7–8 March**.
 
 **Kanawana itself: not named in this issue.**
+
+## 37 — Vol. 10 No. 2, February 1958 ★
+
+Cover photo courtesy Camp Kilcoo. Masthead, editorial by Oscar L. Pearson
+("Accent on Safety"), Mary Hamilton on the future of camping, A. J. Herridge on
+the Michipicoten fur-trade route, Haladner and Klein on pre-camp staff letters,
+VanWagner's president's column, Wootton on nature crafts, Toner's natural-history
+column, Reimann on camp brochures, a two-sided "Duel Issues" on movies at camp,
+Margaret Govan on camp story-telling, the OCA conference programme, the revised
+OCA canoeing awards, a Ponacka sermonette, Dorothy Douglas's book page, and the
+U of T extension course outline.
+
+**The Montreal conference, confirmed and dated (p. 72).** A full-page notice:
+"Make Plans TO ATTEND THE JOINT CONFERENCE of the CANADIAN CAMPING ASSOCIATION
+and QUEBEC CAMPING ASSOCIATION / April 11th & 12th 1958 / WINDSOR HOTEL,
+MONTREAL, QUE." This is the second announcement (first seen in issue 36,
+Dec 1957) and fixes the dates. No programme is printed here — the programme
+printed in this issue is the *Ontario* CA's own conference, King Edward Hotel,
+Toronto, 7–8 March 1958. So the Montreal programme, if it was printed at all,
+belongs to the April or a later 1958 issue. Still the top target of the read.
+
+**Montreal has taken the CCA (masthead, p. 53).** President F. M. VanWagner
+(Montreal); Treasurer W. J. C. Hewetson (Montreal); and of the five listed Past
+Presidents — Taylor Statten (Toronto), Dais L. Gass (Montreal), Anne I. Vail
+(Montreal), W. E. (Ted) Yard (Toronto), Irwin Haladner (Toronto) — two are
+Montrealers. Three of the association's last six presidencies were held from
+Montreal. "Gass", "Vail" and "Hewetson" all return zero hits in `facts.json` and
+`wiki/`; the QCA-side people who would have known Kanawana's directors as peers
+are almost entirely absent from the KB. Hewetson remains the strongest single
+lead for `p_048` (he chaired the QCA Song Book committee in June 1954 and is now
+CCA treasurer).
+
+**VanWagner in his own voice (p. 64), bylined "Director, Camp Nominingue."**
+His president's column argues that "social adjustment through group living" is
+a *by-product* of the primary business of teaching outdoor recreational skills —
+"we are primarily engaged with teaching recreational skills such as swimming,
+canoeing, campcraft" — and warns against "drifting away from our primary
+objectives, of simple out-of-doors." He closes with a first-person autumn at
+camp (birds gathering, maples, tamaracks, the first snow, the snowshoe rabbit
+turning white) and recommends Sigurd Olson's *The Singing Wilderness*. He is
+also Lecture 7 of the U of T extension course for directors, on "The Mark of
+Good Camping" (p. 89). The KB has seven Van Wagner facts (`f_0186`–`f_0189` and
+others) but nothing in his own words; this is the fullest statement of his
+camping philosophy the run has yet produced, from the man running the national
+association out of a Laurentian camp two valleys from Kanawana.
+
+**Margaret Govan, "Stop Me If You've Heard This One" (pp. 73–74, cont. 90).**
+Govan is President of the OCA and Director of Camp Onawaw — the same writer
+whose "The Dutiful Bogey-Man" appeared earlier in the run. This is a printed
+method for manufacturing camp tradition, and it belongs with `p_045` (Chopsy):
+
+- "The average camper who adopts a camp as his second home, is very curious
+  about what happened before 'I came along'."
+- "Stories about the 'old days' do far more than fill in an empty space of time;
+  they strengthen the ties which bind the camper to camp; they give a sense of
+  continuity; and build a camp tradition."
+- "So a camp director begins to collect such stories, either to tell himself or
+  to pass on to the camp story teller. He uses his own memories, and those of
+  other staff members. Canoe trippers bring in tales of adventure, and 'old
+  campers' make their contribution. (In some cases these last stories may prove
+  enlightening, if not startling to the director, and may require some
+  censoring!)"
+
+Taken with Kay McClelland's June 1956 advice to "set a background whether true
+or fictitious" when introducing a new song, this is a second senior figure in
+the same magazine describing camp lore as something a director actively curates
+— collected from campers, edited by the director, and repeated because of what
+it does for the camper's attachment, not because it happened. Govan then walks
+through the local material a camp should mine for stories (corduroy roads, a
+log cabin, a fire tower, a mine, caves, a lumber camp, a Hudson's Bay post),
+recommends the Royal Ontario Museum for "authentic" Indian information, and
+supplies her own examples: a local Paul Bunyan who walked half a mile
+underwater rather than lose 200-pound boom chains, a canoe paddled by a doe
+with a fawn in the bow, a pony in the kitchen, two raccoons in the detergent
+barrel. The genre is explicit: tall tale, told as true, repeated until it is
+the camp's.
+
+**OCA Canoeing Awards, revised November 1957 (pp. 79–81).** Complete text of a
+five-level scheme — Beginner, Junior, Intermediate, Senior, Master, plus
+Instructor — each with prerequisites (a matching Red Cross swimming award at
+every level), "Be able to" / "Know" lists, and privileges. The privileges are
+the interesting part, because they are the same gating logic as the swim-disk
+system captured earlier in the run:
+
+- Beginner: paddle only with an experienced canoeist inside a marked enclosure
+  "not over shoulder depth."
+- Junior: canoe alone under supervision in a restricted area; **"Be allowed to
+  paint one chevron on paddle"**; allowed on an organized canoe trip.
+- Intermediate: second chevron.
+- Senior (13th birthday; 20 cumulative miles): third chevron; may stern on a
+  trip under supervision.
+- Master (15th birthday, test not before the 16th — "the equivalent of two
+  seasons"): must teach six people to their own award, run a regatta or pageant,
+  paddle five miles solo, paddle Indian style a quarter mile; privileges
+  "Unlimited"; "entitled to paint three one-inch chevrons and a maple leaf on
+  his paddle. Much will be expected of anyone with this distinctive insignia."
+
+A camper's paddle was a worn public record of rank. "Chevron" returns zero hits
+in `facts.json` and `wiki/`; if Kanawana paddles carry painted marks in any
+photograph, this is what they mean. Note also the gendered concessions written
+into the standard: at Master level a girl may have two people to shake out a
+canoe and "may have assistance to break air seal" in the canoe-over-canoe
+rescue — relevant to `coeducation-gender.md`.
+
+**Pearson's safety editorial (pp. 55–56)** is the practical counterpart to
+Sharpe's December 1957 complaint that the standards were not being kept.
+Pearson, a professional recreation consultant, opens by describing a directors'
+argument about shooting white water and then says: "I hope no director will ever
+have the experience of searching for the body of a drowned boy in a river with
+swiftly-flowing rapids, and of notifying parents that their only son has been
+lost in this tragic way. I have had this experience on two different occasions."
+His checklist names shepherd's crooks, grappling irons, flare pistols,
+ring-buoys, life jackets with cartridge flares for overnight trips, and notes
+that a government committee was then studying life-jacket buoyancy and
+materials, with new jackets "on the market shortly."
+
+**Haladner and Klein, "Pre-Treat Your Staff for Receptivity" (pp. 62–63, 82).**
+An unnamed large Ontario camp, unable to convene staff in the city, sent ten
+weekly orientation letters; the ten subjects are listed in order, and long
+extracts are printed on the counsellor's job, understanding the camper,
+discipline, and the specialty counsellor. The discipline passage names four
+failure modes by type — the counsellor who "loses control" and resorts to
+threats and physical force; the one who "drips love and sweetness … This is
+sheer blackmail"; hostile competition, "a dog race"; and the group-pride climate
+where "our cabin must be best", which the writers call "a form of nationalism
+where loyalty to the state is supreme." A dated statement of what a 1958
+Canadian camp thought bad counselling looked like.
+
+**Also noted.** Mary Hamilton's essay is an excerpt from her forthcoming book
+*Recall of Algonquin*, written at twenty-eight years' distance from founding
+Tanamakoon. A Mary S. Edgar poem, "The Upward Road", is printed on p. 72 — a
+fourth Edgar item in the run. The Rev. Peter Slater's "Patches of Sunshine",
+delivered at Camp Ponacka, is the second entry in the "Sermons Under the Sun"
+series soliciting sermonettes from directors. The U of T / OCA extension course
+for directors and senior staff ran eight Thursday evenings, 6 Feb – 3 Apr 1958,
+$10, with a week omitted for the conference. Advertisers include Foodcraft
+Laboratories and Continental Casualty with Montreal addresses, and Gibbons
+Quickset selling "CAMP-RITE" four-man waterproof dehydrated trip rations —
+"Add water and your meal is prepared."
+
+Kanawana itself: not named in this issue.
+
+## 38 — Vol. 10 No. 3, April 1958 ★★
+
+Bishop Sovereign's editorial on the spiritual aspects of camping; Marilyn Ward
+on play-making at the Junior League Camp; Adele Statten Ebbs's "Among
+Ourselves" profile of Wallace Forgie; VanWagner's president's column and a
+second signed piece on tree farming; Elizabeth Wardley Raymer on a fouled
+campsite; Ed Devitt's letter to parents; F. Wm. Halliday on mountain climbing at
+Camp Chief Hector; Alan Klein on staff training methods; Dorothy Douglas's book
+page; Barry Lowes on plant succession; Toner's column; John Haddad on the first
+Canadian camp for seriously retarded children; and a sermonette from Camp
+Mazinaw.
+
+**The Canadian Camping Association's national office moves to Montreal, and the
+move can now be dated to within eight weeks.** The February 1958 masthead
+(issue 37) gives the CCA address as **93 Yorkville Avenue, Toronto 5**. This
+April 1958 masthead gives it as **2233 Belgrave Avenue, Montreal 28, Quebec,
+HU. 9-1541**, with a newly listed **Office Secretary, Miss Frances Kelly**, at
+that address, and a **Corresponding Secretary, Mr. K. H. Murray, 112 Dunrae
+Avenue, Montreal**. The editor, Mrs. G. W. Flynn, now carries the Yorkville
+address; the publisher stays at 170 Bloor Street West. `f_2241` already records
+the Belgrave address from the February 1959 issue as an adjacent finding to a
+null result; this pushes it back a full year and, more usefully, brackets the
+move between February and April 1958. For roughly the period Roy D. Locke's
+successors were running Kanawana, the national association was administered from
+an office in Montreal by a paid secretary — a records-creating body a few miles
+from the YMCA of Montreal, whose files, if they survive, would be the single
+richest untapped source for this project. New lead: **where did the CCA's
+Montreal office records go?**
+
+**The joint CCA/QCA conference is not reported here.** This issue is dated April
+1958 and the conference ran 11–12 April; there is no advance programme and no
+report, and the only conference notice printed is the OCA's own save-the-date
+for 6–7 March 1959. The Montreal conference report, if the magazine ran one, is
+in the next issue. That remains the top target.
+
+**Wallace Forgie (pp. 114–15), profiled by Adele Statten Ebbs — a complete YMCA
+camping career, and it does not appear anywhere in this project.** "Forgie"
+returns zero hits in `facts.json` and `wiki/`. Ebbs's dates:
+
+- Born Ottawa, moved to Toronto as a child; came under YMCA influence there.
+- **1899**: joined the Leaders' Corps and went to his first camp at **Lake
+  Scugog**, with **Howard Crocker** as director.
+- **1905**: tent leader when **Camp Couchiching**, the YMCA camp, opened —
+  "Here Mr. Forgie had his first association with Taylor Statten."
+- Built the foundations of **On-da-da-waks** camp in Ottawa, "which has become
+  one of the most vital Y.M.C.A. camps in the country."
+- **1914**: Toronto Boys' Work Secretary; volunteered the day war was declared;
+  five years overseas with the YMCA.
+- **1920**: Calgary, secretary of the newly formed Boys' Work Board — and Ebbs
+  notes in the same breath that **Dr. Hedley S. Dimock had the comparable job in
+  Saskatchewan at this time, and Professor Charles E. Hendry took over the
+  Alberta job when Forgie left in 1927.**
+- **1927–36**: YMCA work in South India and Ceylon.
+- **Camp Tonakela**, near Madras, opened officially by **Mr. and Mrs. Taylor
+  Statten in 1938**, who travelled to Madras "to officially open the camp and
+  extend greetings from the Canadian Camping Association." Ebbs quotes *The
+  Madras Mail*, 17 January 1938: "The camp, site and equipment is the gift of an
+  overseas fellowship of girl and boy campers in Canada and the United States."
+  Tonakela turned 21 on 21 February 1958. Its 1957 figures: 2,764 children and
+  young adults in 37 camp groups; convalescent care for 101; minor medical
+  treatment for 3,910; 12,133 meals. Forgie's successor as director is
+  **N. Perumal Naidu**, who toured Canada and the United States with Forgie in
+  1956. "Tonakela, in Ojibway, as well as in a South Indian dialect, means 'you
+  first'."
+
+The Dimock/Hendry/Forgie triangle is the important part. The KB has 146 Dimock
+facts and nine Hendry facts, and a `hedley-dimock.md` article; this is a dated,
+first-hand statement that the three of them held the *same* provincial YMCA
+boys'-work post in three adjacent prairie provinces in the early 1920s. That is
+the network that produced the men who later ran and advised camps like
+Kanawana, described from inside it by Taylor Statten's daughter.
+
+**Jack Eastaugh's *Indian Council Ring* (p. 133), reviewed.** A 44-page booklet,
+$2, sold by mail by the author from 5 Beatty Avenue, Brampton, Ontario — "The
+supply of books is quite limited … until such time as it is practical to go into
+print." The reviewer's summary is the point: "charts make clear the council
+ring, illustrations show details of accessories and give instructions on how to
+make them, simply and economically. Articles of clothing can be made, simply by
+studying the drawings; an effective headband appears on one page, various parts
+of an Indian costume on others; **tribe names are explained**; totems suitable
+for cabin groups are illustrated, and a number of ceremonies outlined. One page
+in particular will be enjoyed by campers … **it tells how to make scalps!**"
+Eastaugh, "recognized as a leading authority on Indian Lore", also taught the
+Indian Lore session at the OCA conference a month earlier (issue 37). "Eastaugh"
+returns zero hits in the repo. This is the clearest thing the run has yet
+produced on how the council-ring apparatus was actually transmitted between
+Canadian camps in the 1950s: not inherited, not researched, but bought by mail
+order for two dollars from a man in Brampton, complete with instructions for
+inventing tribe names and manufacturing scalps. It belongs in `council-ring.md`
+and `indigenous-names-and-land.md` alongside the Tanamakoon totem pole and the
+Oconto naming already recorded. The same page reviews Ressler's *Treasury of
+American Indian Tales* — 44 tales collected by a YMCA worker and Boy Scout
+leader as a "life-long hobby" — and the "Sermons Under the Sun" entry on p. 148
+is G. R. Blackstock of Camp Mazinaw's "Wearers of the Magic Moccasins", printed
+as "an Indian legend whose charm and philosophy are transposed to our own way of
+living" and ending "even as Jesus did, long ago."
+
+**The Junior League Camp of Montreal, described from the inside (pp. 111–13).**
+Marilyn Ward was Plays and Music Counsellor there in 1957; the foreword is by
+**Agnes Mutchler, Director**. The KB already carries Mutchler (`f_2277`,
+`f_2289`, `f_2309`) and the inference that Camp Lighthall *is* the Junior League
+Camp. This piece adds hard operating detail: "subsidized by the Junior League of
+Montreal", **over one hundred girls, three-week terms, three times each
+summer**; play-making one of four scheduled activities and **the only compulsory
+activity is swimming**; playmaking has been part of the daily routine for
+**eight years** (so from about 1949); ages 8–16 in Junior, Intermediate and
+Senior divisions; Sunday is Theatre Night *and* visitors' day, with the plays
+deliberately scheduled to catch girls "feeling a little homesick after seeing
+their parents — and those, too, who are feeling lonely because their parents did
+not arrive at all"; costumes worn to supper; a building called **Chataqua** used
+for costumes and make-up. The three terms' complete play lists are printed —
+thirty-one titles, mostly folk and fairy tales, with a "Cinderella (Musical)"
+and one original-sounding Senior piece, "A Teen Age Crush". Ward's stated reason
+for banning camper play-writing is worth recording: "With thousands of stories
+to choose from it seems best to avoid the possibility that the play-writes will
+tell more of their personal affairs than they intend."
+
+**Kimberly-Clark's free menstruation film (p. 131).** A coupon advertisement
+offering camps the free loan of the ten-minute Disney film *The Story of
+Menstruation* (© 1946), **"English version / French version"**, plus free
+booklets *Very Personally Yours* (girls 12 and over) and *You're a Young Lady
+Now* (girls 9 to 12), a Teaching Guide and a Physiology Chart, each in English
+or French. "An entire program of menstrual education available without charge."
+Zero hits for "menstruation" in the repo. A dated, concrete record of what
+puberty education at a Canadian summer camp consisted of in 1958, available to
+any camp that clipped a coupon — and bilingual, which matters for a Quebec
+camp. For `coeducation-gender.md`.
+
+**Elizabeth Wardley Raymer, Director of Camp Tanamakoon, "How Can We Help?"
+(pp. 117, 154).** She returns to a canoe-trip campsite she knew as a tripping
+counsellor in the 1930s and finds "three mountains of rusting tin cans within
+fifty feet of the fireplace", no latrine dug "for a long, long time", broken
+glass, hatchet-scarred logs, food scraps in the shallows. She turns it into an
+indictment of camp supervision: "Are our campers under such restraint that they
+literally blow their tops when they are out of sight?" — and, on the pent-up
+adults who "scatter refuse, they yell, they are profane, they roar out ribald
+songs" once off the beaten path, "Could we conceivably be conditioning our
+campers for that sort of adulthood?" Note the succession at Tanamakoon: Mary
+Hamilton wrote the February issue's founder essay; Raymer signs this one as
+Director.
+
+**Also noted.** VanWagner writes twice: the president's column arguing that most
+camps are failing at "real camping" and that "the responsibility for the
+situation rests with us directors" — with the concrete recommendation that a
+director who has never been on a camping trip should hire someone who has — and
+"Try A Tree Farm" (p. 125), a detailed report on Camp Nominingue's reforestation:
+75–100 acres of cleared sandy soil, **twenty thousand trees planted over eight
+years** at seven-foot spacing (~900/acre), species red/jack/Scotch pine, white
+and Norway spruce, European larch, a few red oak, white cedar in wetter ground,
+planted by counsellors and senior campers on the first weekend of May, 95%+
+survival, with the **Quebec Department of Lands and Forests supplying the stock
+free** (camp pays packing and express only) and sending a representative to
+inspect annually. A directly comparable Laurentian YMCA-adjacent camp's
+conservation programme, dated 1950–58, for `environmental-history` work.
+Ed Devitt's "Dear Parents" declares two eras over in the same breath: "By general
+consent, the 'rough-tough' period of camping is over" and "the 'horse-play',
+'practical joke' phase of camping is also over. Campers do not have fun at the
+expense of other campers." F. Wm. Halliday describes Camp Chief Hector (Calgary
+YMCA) replacing canoe tripping with mountaineering for its Pioneer Section,
+including a "Rock School", five peaks assaulted, two summited, and "what is
+believed to have been a 'first assault' on Mount Faulkner, and the ceremony by
+which it was named in honor of a former director of the camp." John Haddad
+reports the Guelph Kiwanis Camp at Lake Belwood as the first Canadian camp for
+seriously retarded children, founded by the Rev. Walter McLeary and taken over
+by the Ontario Association for Retarded Children — 100 campers, 1:3 counsellor
+ratio, three-week terms, with the finding that gains were highest in the third
+week. The Alberta Camping Association held a 28-person workshop in Calgary,
+28 Feb – 2 Mar 1958, directed by W. E. (Ted) Yard of Toronto. And the American
+Camping Association advertises its **new ACA song book**, compiled from
+questionnaires returned by "thousands of camping people", 35¢ a copy — another
+songbook thread for `p_048`, alongside the QCA's own.
+
+Kanawana itself: not named in this issue.
