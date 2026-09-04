@@ -14178,3 +14178,239 @@ in the associations' own words — now corrected into `canadian-camping-movement
 first federally funded national office, the Harshaw and Ward obituaries, the eleven-camp CIT
 study, MacCulloch's discipline policy with its explicit ban on physical punishment, and
 Martin's founding statement for the OCA archives that this project's Trent citations depend on.
+
+---
+
+## 84. Vol. 22 No. 1, December 1969 — `canadiancampingmagazine_vol22_no1_1969dec.txt`
+
+*Contents page*: Editorial (Don Groff); News from the Provinces; The Society of Camp
+Directors; The House that Jack Built; In The Cause of Good Leadership (Laurence J. Taylor);
+Rocketry at Camp Tawingo (Harry Brown); They Camp in Greece Too (Ann Russe Prewitt); Woodfire
+and Candlelight (Mary S. Edgar); Royal Life Saving Society of Canada (Jocelyn Palm); My
+Relationship With God (Margaret Govan); Point of View on Life Jackets (Kirk A. W. Wipper);
+C.I.T. Speaking (Carolyn Ann Bennett). All twelve checked against the read; all covered below.
+
+**★ THE MAGAZINE CHANGES FORMAT — and gives its own production history in one sentence.** Don
+Groff's editorial introduces the "new look" on the recommendation of the CCA Board: **"From
+mimeograph to letterpress to offset; from stationery size to fold-over booklet, to display
+size; so has the history of our magazine developed alongside the growth of our camping
+movement."** That is a three-stage production history for the run this project is reading, and
+it belongs in `meta/sources-index.md` alongside the 1967 change of publisher and dating
+convention already recorded there. Publisher also changes with this issue: **Broydon Printers
+Ltd., 164 Sherbrooke St., Peterborough**, replacing Town Talk Publications; the masthead no
+longer lists a named Editor, only the Publications Committee — Josephine Harshaw having died
+(issue 83), and the committee running the magazine in the interim.
+
+**★ THE SOCIETY OF PROFESSIONAL CAMP DIRECTORS IS FOUNDED — "the first in North America."**
+The full founding address by **Dr. J. Harry Ebbs** at the **Founding Banquet, Rosedale Golf
+Club, Toronto, 21 May 1969**, is reprinted. Chronology: for years directors had wanted "a
+camping body outside the Ontario Camping Association"; an earlier attempt failed because "the
+Camping Associations were involved in organizational problems at that time and feared that a
+special group might cause a division within the ranks," and the same in the American Camping
+Association; **at a special session during the 1968 OCA conference a packed audience heard
+Ebbs present a survey of the experience and qualifications of serving camp directors**; the
+first five **Directors elected in spring 1969 were Dr. Harry Ebbs (Founding President), Mrs.
+Elsie Palter, Ron Johnstone, Clifford Labbett and Bruno Morawetz**; address **P.O. Box 173,
+Station "S", Toronto 20**. Membership is mostly central Canada but includes other provinces
+and the United States. This is Ebbs's third appearance in three issues — Forgie's obituarist
+(77), the bird-disease authority (81), now founding a profession — and he should carry a stub.
+
+Substance of the address worth keeping: his argument that "properly qualified and experienced
+camp directors can be classed with teachers, zoologists, foresters, minerologists, geologists,
+engineers, psychologists, sociologists, physicians"; his distinction between the **"art" of
+camping** that the founders built by trial and error and the **body of tested knowledge** a
+profession requires ("you have an hypothesis with possible true facts which have to be tested…
+if enough theories about camping are found to be true, then you have a body of knowledge"),
+citing a paper by **Mendryk of the University of Alberta**; and his claim on outdoor education
+— **"school camping is an off-shoot of outdoor education which has always been practised in
+summer camps. I think that camping is still the backbone of outdoor education"** — which is
+the camping movement answering the school boards Morawetz described at issues 79 and 81.
+
+**★ And a founders' roll, from Ebbs's own mouth**: "in this part of the world, **Cochrane,
+Statten, Chapman, Plewman, Danson**, and others in boys' camping and **Mary Edgar, Mary
+Hamilton, Fanny Case, and Ferna Halliday and Ethel Statten** among others, started girls'
+camping." Cochrane, Statten, Edgar, Hamilton, Case, Halliday and Ethel Statten are all in this
+project already; **Chapman, Plewman and Danson are not**, and this is the first sighting of
+those three names in the run. Ebbs also dates the movement: "this camping movement which has
+been going on for more than 70 years" — i.e. from about 1899 or earlier, consistent with
+Kanawana's own 1894.
+
+**★ Mary S. Edgar, "Woodfire and Candlelight" — poems from her first book, then out of
+print.** The magazine's note is itself a finding: **"Not many camp directors are fortunate
+enough to own a copy of Miss Edgar's first book, now out of print. However, *Canadian Camping*
+will print, from time to time, a collection which may be clipped to form a book of reference
+for Morning Watch, Sunday service or discussion group quotations."** So **later issues in this
+run will contain further Edgar texts** — something to watch for deliberately from here on, and
+a partial reconstruction of an out-of-print book by the CCA's honorary president and the
+author of hymns already traced into `centennial-1967.md`. Four printed here:
+
+- ***"To An Old Camper"*** — six-line stanzas on what stays with a camper: "You may think, my
+  dear, when you grow quite old / You have left camp days behind; / But I know the scent of
+  wood-smoke / Will always call to mind / Little fires at twilight / And trails you used to
+  find." Closing: **"For once you have been a camper, / Something has come to stay / Deep in
+  your heart forever, / Which nothing can take away; / And Heaven can only be Heaven / With a
+  camp in which to play."**
+- ***"I Have a Mountain"*** — "I have a mountain in my soul / For pilgrimage and far-off goal."
+- ***"A Camp Recipe"*** — camp as a recipe: "A lake-bowl of water, hill-rimmed and blue /
+  Sprinkle with sunshine… Season with crafts, with sailing and trips, / With riding and
+  tennis, canoeing and dips. / Toast by a fire, or bake in the sun / Until every camper is
+  perfectly done. / **Keep them in safety eight weeks, or till brown: / Then they are ready to
+  serve back in town.**"
+- ***"In Lighter Vein"*** — the campcraft expert who "burned the morning toast!"
+
+**★ Margaret Govan (Director, Camp Onawaw), "My Relationship With God" — the fullest statement
+in this run of what a camp's religious programme was for**, and a direct comparator for
+Kanawana's own Morning Watch and chapel record. Her position: "I cannot direct a camp where
+God is left out… I do not expect to give any camper my religion. Each camper is unique; her
+religion, if she have one, is also unique. But I do plan to give her time, opportunity, and
+stimulation to find God and learn more about Him for herself." She invokes **Sir Richard
+Livingstone** twice on democracy having to be lived and discussed, not taught. On staff: "they
+must be the kind of people that are worthy of imitation… **They must come from varied
+backgrounds and experiences, so that horizons are broadened. Above all they must be real
+people.**" On services: "Not too much time: there is no room for boredom but time enough to
+gain perspective for the day," with **a named topic list** — wonder at "a special sunset, a
+rainbow, northern lights, a starry night"; **conservation, "with emphasis on preserving the
+beauty and natural surroundings for others to enjoy"**; self-respect; cabin relationships;
+thankfulness; sympathy; courage; "inner security based on a philosophy of life"; and "the
+cardinal sins of campers: selfishness, quarrelling, lying, stealing and borrowing without
+responsibility; lack of self-discipline, teasing to the point of hurting." Her insistence that
+those leading services "must have as much know-how and belief in what they are doing, as the
+staff appointed to teach swimming or riding or crafts! It is not something that you just pick
+out of the air" is a specific professional claim. Note also the conservation topic: **camp
+chapel as a vehicle for environmental teaching, 1969** — another datum for
+`environmental-and-ecological-history`. And note that she is now at **Camp Onawaw**, having
+written from an unnamed small camp at issue 81; her closing line, printed in capitals: "IN THE
+KIND OF WORLD IN WHICH WE [LIVE] THE SPIRIT MUST NOT BE ALLOWED TO DIE OF STARVATION."
+
+**★ Kirk Wipper, "Point of View on Life Jackets" — a dated, quotable safety standard.** He
+notes the question "has vacillated to and fro: from the use of life jackets on canoe trips to
+the stand that proper canoe education programs are available and therefore that life jackets
+are unnecessary encumbrances," and proposes the compromise: **carried on every canoe trip, one
+per paddler, readily accessible, and *worn* under seven named conditions** — fatigue from
+extended effort or heat; illness; injury; unusually cool weather; unknown rivers or
+dam-controlled fluctuating levels; dangerous but navigable fast water with difficult landings
+or obstructed portages; and impending sudden storms or changeable winds while en route to
+shore. The recommended jacket is the **small sealed air pocket type, "currently manufactured in
+Canada"** — the design Jack Watson had demonstrated as not yet D.O.T.-approved at issue 79, so
+**between summer 1968 and December 1969 it went from under review to recommended**. He also
+requires that **every sternsman hold a current Bronze Medallion (R.L.S.S.) or full
+equivalent**. His closing is Blackstock's argument from issue 82 in operational form: appraise
+whether a trip "will produce worthy results or is it an exercise in foolhardiness," then make
+"some realistic calculation… of the risks involved," counterbalanced "by precautions which
+will not detract unduly from the adventure."
+
+**Jocelyn Palm, Executive Secretary, Royal Life Saving Society (Canada) — the award scheme
+revised effective 1 January 1970.** The water rescue progression as of that date: **Elementary
+Award, Intermediate Award, Bronze Medallion, Bronze Cross, Award of Merit, Distinction Award,
+Diploma**, plus **Junior and Senior Resuscitation Awards** requiring no aquatic facilities.
+Revisions "place an emphasis on realism in the rescue items"; examination forms changed from 1
+January 1970. **This is the concrete follow-through on the Red Cross/RLSS integration announced
+at issue 80**, and together the two give a dated key for reading waterfront awards in any camp
+record: an award named before 1970 and one named after may not mean the same test.
+
+**Harry Brown (Assistant Camp Director, Administration, Camp Tawingo), "Rocketry at Camp
+Tawingo."** A 1969 camp programme built on model rocketry, opening with the camp's own launch
+script ("Master Armourer, insert the key"… "All systems are go"). Worth recording for its
+regulatory detail: the camp obtained **a licence from the Canadian Rocketry Society**, which
+"in conjunction with the federal government controls the launching of model rockets" —
+regulating rocket and fuel-package weight, requiring **electrical ignition** and **no person
+within 25 feet**. Campers built the rockets, a wooden bunker, a flag pole and a cleared
+recovery area; launch teams were drawn from those who helped. Cost: **under $100 for four camp
+periods**, needing a launch panel with controlled ignition, a car battery, kits and engines.
+His rationale is the one that recurs through this decade: "rocketry… is a program which cannot
+easily be duplicated in the city."
+
+**Ann Prewitt (Director, Northway Lodge), "They Camp in Greece Too."** A first-hand account of
+Greek children's camping in 1969, guided by **George Stathos, Head of the Foreign Press
+Division of the Prime Minister's Office**. Figures: **out of 8 million people, about 400,000
+children go to camp each summer for three weeks or longer — "probably the highest percentage
+of any country."** Structure: employers run camps for employees' children (the National Bank
+runs a free mountain camp funded by an automatic payroll deduction), as do lawyers,
+accountants, Athens shop owners and other trade and professional groups; plus private, Scout
+and YM/YWCA camps; the Municipality of Athens; and, largest of all, camps run by the
+**Departments of Education and Social Welfare**, to which **classroom teachers select campers,
+"favoring those who particularly need camp from the health point of view."** **St. Andrew's
+Camp** on the plain of Marathon takes **3,000 children at a time**, in sections of forty, each
+with one professional teacher and four high-school assistants, **all unpaid volunteers**; open
+unscreened kitchen and dining areas, 2,000 calories a day with fish twice and meat four times
+a week; heavy emphasis on crafts and plays, "they carry on the long strong tradition of the
+Greek theatre." **Athens YMCA** has a modern camp on **Salamis** for over 200 boys a period;
+the **YWCA** has closed its camp and is building a new one at **Rethymnon, Crete**, on a
+government loan, programme director **Ellie Popatheophilon** planning to teach English and
+mathematics alongside camp activities. The detail that stops the reader, recorded exactly as
+written and dated to the Greek military dictatorship: **"Like most Greek camps, Kinderland is
+completely fenced with high cyclone wire fencing, topped with barbed wire. There are guards
+all night and all day. On the drive down to Sounion with Mr. Stathos we looked into camp after
+camp, all securely fenced."** Prewitt reports it without comment; the government press officer
+was her host. It is worth having on record as an instance of what the movement's own
+international reporting looked like.
+
+**Laurence J. Taylor (Hillsdale College), "17 Ways To Block Communication"** — reprinted from
+the **Hillsdale College Leadership Letter, Vol. III No. 7, December 1964**, the source Morawetz
+had recommended after the Aurora directors' weekend at issue 80. A two-column management text
+(the action, then the predicted reaction) covering: misreading one's own authority ("His people
+will give him what he seems to want by screening their words and actions to match his
+expectations. Good news and happy thoughts will be given to him at once. Bad news and conflicts
+will be withheld"); failing to keep people informed (**"strip a man of information that he
+needs for successful operation and you have robbed him of his dignity"**); hostility to change;
+valuing performance over people; suppressing feeling ("a person has not communicated unless he
+has stirred the emotions"); **disciplining in front of others** ("Cause a man to lose face
+before others and you may lose him… A man is much more concerned for the opinions and feelings
+of his peers than he is of his superiors"); visible hurry; never admitting a mistake; reacting
+badly to mistakes (**"The leader who concentrates on 'Who did this?' as against 'What caused
+this and how do we avoid it?' will find a blank wall against him"**); not securing attention;
+being unprepared; jumping to conclusions and favouritism; distorting facts; tone of voice
+("Your tone of voice gives you away, no matter what you say"); forgetting what inexperience
+feels like; not respecting the power of one's people (quoting Plato, "a slave is one who gets
+his purposes from someone else"); and communicating by what one is. Also cites **Dr. J. Clayton
+Lafferty**'s three questions after a mistake — "What did you say?" "How did you look?" "What
+did you do?" This is the management theory the movement was importing, and it belongs with the
+Moon interview methodology (issue 79) and the CIT evaluation practice (issue 83) in the
+`p_307` thread: these are the professional frameworks under which staff were being observed and
+assessed.
+
+**Carolyn Ann Bennett, "C.I.T. Speaking"** — an essay written in **November 1967** after
+leadership training at the **Ontario Camp Leadership Centre (Bark Lake)**, Sarrow Lake Camp and
+Camp Shawanga, printed two years later. Rare in this run for being **a trainee's own voice**
+rather than a director's. She quotes the *Camp Counsellor's Manual* foreword — that the cabin
+counsellor is "the focal point of success or failure in morale, camp spirit, harmony,
+co-operation, true education, and character growth" — and calls it "frightening to the
+first-year counsellor." Her observations: that "often the skill experts are not the best
+teachers," since "an instructor who herself has had difficulty mastering a skill will be more
+alert to the problems experienced by the learners" ("Some of the best diving coaches in the
+world cannot themselves perform the dives they teach"); that counselling is "a twenty-four hour
+a day job" including being "prepared to awaken at three or four in the morning to talk
+intelligently to a homesick or frightened camper"; the working rule **"If in doubt — don't"**;
+and that the quality campers actually remember is **"emotional maturity"** — "As a camper one
+could never find a name for it, but it was just that she knew how to handle every situation;
+make the fairest decision; was patient and always had a sense of humor." **Note the term**:
+"emotional maturity" is the first heading on Moon's interview-assessment checklist at issue 79,
+here reported from the other side of the desk by someone being assessed by it. Her Norman
+Rockwell image of the ideal counsellor "clutching paddle, bow, fishing rod, mask, snorkel and
+fins, guitar, tennis racquet and knapsack" is the period's self-portrait.
+
+**R. York Edwards, "The Waste That Jack Built"** (sketches by J. E. Underhill), reprinted from
+*Canadian Audubon*, adapted from a display in the **Manning Park, B.C., Nature House**. A
+cumulative-verse environmental parable — "This is the soil eroded and worn / That filled the
+stream / That dried the well / That killed the town / That lay in the waste that Jack built" —
+ending on "This is Jack, a sower of corn." Offered as a classroom or camp project, with the
+suggestion to invert it locally as **"This is the Waste that Jack Stopped."** Third
+environmental item in three issues (Morawetz 79/81, Cumming 80), and further evidence for how
+firmly conservation had entered camp programming by the end of 1969.
+
+**Smaller items.** **Newfoundland and Labrador Camping Association 1969-70 executive**: Past
+President Major A. Browning, President **Eric Russell**, VP Terry Healey, Secretary-Treasurer
+**Elizabeth Mouland**, members at large Bob LeMessurier and Levi Mehaney. **Manitoba**: Nancy
+McGregor takes over as executive secretary from Helene deWit, association moving to 444 River
+Avenue, Winnipeg. **Dates to keep**: **Quebec Camping Association Convention, 19–21 February
+1970, Queen Elizabeth Hotel, Montreal** — a Montreal event in the period Kanawana's directors
+would have attended, and a specific thing to look for in the 1970 issues and in the Montreal
+press; ACA convention St. Louis 25–28 February; OCA conference Skyline Hotel, Toronto, 5–7
+March 1970. Jiffy Products of Montreal expands its camper repair-kit line for 1970 with prices
+raised on two items since Summer 1969.
+
+Nothing in this issue names Kanawana. Its value is the founding of the Society of Professional
+Camp Directors with Ebbs's roll of the movement's founders, the magazine's own three-stage
+production history, Wipper's dated life-jacket standard and the RLSS award revision of 1
+January 1970, Govan on camp religious programming, and the announcement that further Mary Edgar
+texts from her out-of-print first book will appear in later issues.
