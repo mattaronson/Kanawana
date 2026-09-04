@@ -23568,6 +23568,14 @@ white naturalist's composite creed presented as ethnography to attributed and tr
 texts presented as prayer — **the framework of borrowing is unchanged; the sources it draws on are
 not.**
 
+> **PATCHED IN PLACE, after reading issue 138 (June 1981).** The second half of that reading is too
+> clean and has been qualified both here and in the article. Two issues later the **back cover of the
+> June 1981 issue prints "legend of the white canoe"** — the Victorian Niagara human-sacrifice
+> invention — unattributed and uncommented. So the shift toward attributed Indigenous sources is real
+> for the material the editors chose to *foreground*, and not for the magazine as a whole: the older
+> invented-legend register was still running in the same volume, in the filler space nobody edits.
+> The sourcing had been **supplemented, not replaced**. See block 138.
+
 **★★★ "SECURITY AND DISASTER AT CAMP" — a 1981 article telling camp directors to plan for murder.**
 Professor F. M. Chapman, teaching the Camp Administration course at the University of Minnesota and
 formerly the director of a day camp and two resident camps, opens by setting a camp brochure titled
@@ -23625,6 +23633,15 @@ bibbs; **backpack water pumps by the door of every large tent**; and a written c
 smoking, fuel storage, refuelling and "prohibition of fires, heaters, lanterns, liquid fuel stoves or
 other flame sources in or near tents." Two record classes follow — the written fire emergency plan
 and the weekly safety inspection — and both would sit in a camp's own files.
+
+**★ A bibliographic detail I did not record on the first pass, added here after issue 138.**
+Chapman's reference list cites "**Wilkinson, Robert E., *Camps, Their Planning and Management*, C.V.
+Mosby Co., St. Louis, Missouri, 1978**" — alongside Ball and Ball's *Basic Camp Management* (ACA,
+1979) — and footnotes it twice to pages 167-173 and 168. **The May 1981 review and the June 1981
+publication notice both give the book as 1981, C.V. Mosby, Toronto, 291 pp.** Either an earlier
+edition exists or Chapman cited from proof or a forthcoming date. Recorded because it bears on
+`p_323`: a 1978 edition's specimen business forms would date from the decade of Kanawana's thinnest
+surviving record rather than after it, and the book should be asked for under both years.
 
 **Minor.** A **Nissen trampoline** is offered for sale at half price by the head of physical
 education at Peterborough Collegiate — three years after the association printed the American Academy
@@ -23735,3 +23752,201 @@ patience, 1 dab of understanding, 14 cups of enthusiasm**." And four pages of me
 fullest single list in the run of what Canadian camps actually served, useful for reading any
 Kanawana food budget, with a costing note beside the cereals: "**check prices and weights for value —
 the bigger the box the lower the unit price**."
+
+---
+
+## 138 — Vol. 33 No. 4, June 1981
+
+Twelve pages. **No contents page is printed in this issue** — recorded explicitly, since the
+contents-page check cannot be run here. Every item is instead accounted for by sweep: cover
+("INTRODUCING CCA the 'HOW TO' series / AAC la serie 'COMMENT FAIRE'"); Royal Chinet advertisement;
+Jocelyn Palm's biography and the C.C.A. President notice with the 1981-83 Executive; the C.R.C.A.
+revised Standards Manual price list; masthead and subscription rates; the Fitness and Amateur Sport
+acknowledgement; Resident Camping in the Yukon (E. J. Dinsley); Publications; Wilderness Travel
+Leadership Course (Andrew Sinclair); White Water Canoeing (Larry Bagnell); the A.E.E. Experience '81
+conference advertisement; A Dream Come True (Ingrid Froese); back cover, mailing label and "legend of
+the white canoe". **Kanawana is not named. Quebec appears exactly once in the whole issue** — as one
+of seven provinces sending a participant to the National Wilderness Travel Leadership School — and
+that single word is the issue's only link to this project's subject.
+
+**★★★★ WHAT WHITE WATER WAS SUPPOSED TO REQUIRE, SET OUT IN 1981 — and Kanawana runs white-water
+trips today.** "White Water Canoeing — Should Camps Offer White Water Canoeing?", a summary of a
+session given by **Larry Bagnell at an O.C.A. Conference**, Bagnell then "Director of Algonquin
+Experience, a program for disadvantaged youth conducted by the **Toronto YMCA and the Ontario
+Ministry of Natural Resources**". He is the same Larry Bagnell who appears through these years as the
+CCA's Liaison with National Agencies and its representative to the American National Camp Executives
+Group (issues 128, 130, 133) — so this is the movement's own national-liaison man laying down
+white-water doctrine.
+
+The frame first: "**The decision one makes regarding what high risk activities and styles he adopts
+for himself are entirely different from those he makes for someone else's children under his
+guardianship.**" Then the **five precautions taken at the National School** "where some of the best
+canoeists in the country are taught to be instructors": a day of specialised-stroke practice on the
+lake; capsize and rescue drill in safe slow-moving water; "**proper life jackets and helmets… worn at
+all times**"; long bow and stern painters on every canoe; and rescue personnel with throwing lines on
+both banks with rescue canoes and crews above and below the rapids. "**Camps should not attempt white
+water instruction with any less than the above.**"
+
+And the argument that makes it a whole-camp matter rather than a specialist one: "**It does no good
+if a camper from a capsized canoe is drifting or swimming toward a strainer or souse hole if the
+guide is the only one who knows what a strainer or souse hole is.**" All staff and campers on any
+trip **encountering** white water — "whether planning to shoot or not" — were to be trained to detect
+and avoid **fourteen named dangers**: (1) the **foot-trap**, a foot lodged between rocks by "an
+unwarned novice attempting to stand in moving water", which with strainers he calls "**the greatest
+killers**"; (2) **strainers**, obstacles that pass water but not bodies, i.e. fallen trees; (3) the
+**souse-hole or backwash**, whose form below ledges and dams is "exceptionally dangerous since there
+is no escape hatch at the ends because they stretch across the entire width of the river"; (4) the
+pressure of a swamped canoe, "several tons… on anyone caught between it and a stationary object";
+(5) **drowning due to head wound** — "unaware novices not wearing helmets have drowned by being
+knocked unconscious"; (6) **swollen rivers**; (7) **hypothermia**, cross-referenced by the editor to
+the April 1981 cold-water article (issue 136); (8) lightning on the lake; (9) attempting to rescue
+people trapped in a backwash; (10) undercut bank or wave; (11) surfacing under a log boom; (12) stuck
+under a thwart or tangled in line or straps; (13) falling into rapids from the shore, "especially when
+wearing boots"; (14) whirlpools.
+
+His closing image is the best-written passage on risk in the whole run: "**A wild river is like a
+wild animal — indecipherable unless one knows it and what to look for**… The largest standing waves
+in the world (15-20 feet high in the Ottawa River) could be harmless, while **a tiny, one foot dam on
+the Humber River can be a killer, constantly taking lives**… **A river alone cannot create a
+tragedy… but tragedy may await the laughing, naive and unaware campers and staff innocently floating
+along**." **Written into `traditions/canoe-trips.md`** as the 1981 close of the 1978-81 reckoning
+already traced there, and because the camp's present-day Adventurers Pathfinders and Voyageurs
+Ultimate programmes run white-water rivers: this is the standard the movement set for the activity
+Kanawana now offers, and any surviving Kanawana trip record from these years can be read against its
+five precautions.
+
+**★★★ THE BACK COVER PRINTS "LEGEND OF THE WHITE CANOE" — and it qualifies what I wrote two issues
+ago.** Filling the back page beneath the mailing label, unattributed and uncommented, is the Victorian
+Niagara tourist legend of the Maid of the Mist: "In the days of old, long before the deep solitudes of
+the West were disturbed by the white men, it was the custom of the Indian warrior of the forest to
+assemble at the Great Cataract and offer a human sacrifice to the Spirit of the Falls… **paddled over
+the terrible cliff by the fairest girl of the tribe who had just arrived at the age of womanhood**",
+ending with the Seneca chief's canoe overtaking his daughter's and the two plunging "together over the
+thundering cataract into eternity."
+
+This is not an Indigenous source and does not claim to be; it is a nineteenth-century white
+invention, long since documented as such, of a human-sacrifice custom no Haudenosaunee nation
+practised. **It appears two months after the "Great Spirit Make Me" prayer "translated from the
+Sioux" that I read in the April issue** (issue 136) as evidence that the movement's Indigenous-themed
+material was moving toward attributed and translated Indigenous texts. **Block 136 has been patched
+in place**: the direction I described there is real for the material the editors chose to *foreground*
+— editorial page, obituary — but the older invented-legend register was still running in the same
+volume, in the space nobody edits. The framework of borrowing is unchanged, which is what block 136
+said; but the sourcing had not been replaced, only supplemented. **Written into
+`site/indigenous-names-and-land.md`** as the qualification to that section, because the article was
+about to carry a cleaner story than the evidence supports.
+
+**★★ Jocelyn Palm installed, dated, and her whole camping record printed.** "**Jocelyn Palm was
+installed as the new C.C.A./A.C.C. President at the Annual Meeting. This year's Annual Meeting and
+Spring Board Meeting were held in Moncton, New Brunswick, May 21-24 in conjunction with the New
+Brunswick Camping Association Conference.**" *(The election itself is already in block 137 from the
+May issue; this dates and places the installation.)* Her biography: a staff member at **Camp
+Memphremagog** — a Quebec camp — **Glen Bernard Camp** and the **Ontario Camp Leadership Centre**,
+now owner-director of Glen Bernard; **President of the O.C.A. 1977-1979** and thereby on the CCA
+Board; **"Managing Director of 'Canadian Camping' Magazine from 1974 to 1977"**; and Executive
+Director of the Royal Life Saving Society of Canada. **That dates the masthead change this read
+recorded at issue 102 (November 1974), where she wrote her first column as Managing Director, and
+closes the term at 1977** — an independent confirmation of a date derived from the mastheads
+themselves.
+
+The **1981-1983 Executive** in full: Cliff Labbett, Past President; George Matthews, Eastern
+Vice-President; **Jane McCutcheon, Central Vice-President** (the office Derek Walsh had held);
+Gary Luthy, Western Vice-President; **Jan James, Secretary; George Ross, Treasurer**. They were to
+"implement the **Action Plan adopted by the C.C.A./A.C.C. Board last January**" — a January 1981
+national planning document, named here and nowhere else in the run so far, worth asking for.
+
+**★★ A five-level national canoeing award scheme, in French and English, priced.** The **Canadian
+Recreational Canoeing Association** announces the revision of its Standards Manual: *Revised
+Standards Tests of Achievement in Canoeing* including binder **$10.00** (insert only $7.00);
+**checklists** at 50 for 10¢ each down to 500 for 5¢ each; **Award Cards, Levels 1, 2, 3, 4, 5, each
+5¢**; "**All Standards, Checklists and Awards are available in both French and English.**" Ordering
+from C.R.C.A., Box 54, Hyde Park, Ontario. **Contextual for `traditions/canoe-trips.md`**, whose 1980
+survey section records that camps' canoeing qualifications were mostly "Camp Test" with CRCA I-IV
+appearing only occasionally: this is the scheme those Roman numerals refer to, it was sold in French,
+and a Quebec camp could therefore have issued CRCA award cards. Any Kanawana canoeing certificate or
+award card of this period should be checked against these five levels before being read as a
+camp-invented award.
+
+**★★ The "HOW TO" series launches, and Derek Walsh's pamphlet is dated to its publication.** "The
+first in the series of C.C.A. 'How To' monographs — available in both French and English": **"How To
+Promote Your Camp" / "Comment promouvir votre camp vacances"** and **"Composting for Pleasure and
+Profit" / "Le compostage pour le plaisir et la gain"**. "**Each monograph is sold for 75¢ alone or
+one may purchase both titles in either French or English with a C.C.A. three ring binder for
+$4.00.**" This project already had Walsh's pamphlet from the 1985 catalogue at $0.75; **this issue
+shows it was one of the two titles that opened the series, published by June 1981**, and the May
+issue (137) shows the series was still soliciting authors in April — so the pamphlet was written and
+printed inside about two months, by the man who had just finished four years as the association's
+national Public Relations chairman. **Added to `people/derek-walsh.md`.** *(The French title is
+printed "promouvir", missing an o; the 1985 catalogue has "promouvoir". Recorded so the variant is
+not mistaken for two pamphlets.)*
+
+**★★ The camp nursing manual is rewritten — and the price tells you how much.** "**The Nurse and the
+Health Program at Camp** by **Mary I. Casey, B.Sc.N.** A new, revised and expanded edition of her
+successful manual for camp nursing. **101 pp. $6.50**." This read first met the book at issue 113 as
+a CCA publication at **$2.00**; at fifty-one pages more and three times the price it is a different
+book, and **the 1981 edition is the one to seek** for any account of what a camp infirmary was
+expected to keep and record. Also just off the press: ***When the Wilderness Beckons — A Canoe
+Tripping Handbook*, by Catherine Ross, Deborah Hutton and Pamela Dunbar, 105 pp. $6.95** (full review
+promised for October), and *Canoe Routes of Ontario*, Ontario Ministry of Natural Resources with
+McClelland and Stewart, 110 pp. $9.95.
+
+**★ A citation trap in the same notice.** The list of "other new books since the C.C.A. Catalogue was
+published in December 1980" gives "*Camps, Their Planning and Management* $19.95 (**reviewed in April
+"Canadian Camping"**)". **The review is in the May issue, not April** — I read both, and April
+carries only Chapman's footnote citation of the book. Anyone following this notice to the April issue
+will find no review and may conclude the run is incomplete. Recorded so that trap is disarmed.
+
+**★ And a real bibliographic question the same two issues raise.** Chapman's reference list in April
+1981 cites "**Wilkinson, Robert E., *Camps, Their Planning and Management*, C.V. Mosby Co., St.
+Louis, Missouri, 1978**", while the May review and this June notice give **1981, C.V. Mosby, Toronto,
+291 pp., $19.95**. Either an earlier edition exists or Chapman cited from proof or from a
+forthcoming-book date. This matters for `p_323`: if a 1978 edition exists, its specimen forms are
+from the decade of Kanawana's thinnest surviving record rather than after it, and it should be asked
+for by both dates. **Block 136 has been patched in place** to carry the 1978 citation, which I did
+not record when I read it.
+
+**★ Resident camping in the Yukon, surveyed by letter.** Condensed from **Rev. E. J. Dinsley**'s
+letter to **Marjorie Booth, C.C.A. Executive Director** — Dinsley "a long-time member of the British
+Columbia Camping Association" and its Membership Chairman, reporting a trip north. His findings:
+"**I understood that there was some evidence of a Yukon Camping Association several years ago and
+that C.C.A. records of 1972 mentioned a Mr. W.A. Farley of Yellowknife, N.W.T. in connection with a
+Territorial Youth Camping Association. Both of these are now defunct.**" The camps he found: an
+inter-denominational church camp at **Braeburn Lake** outside Whitehorse, thirteen years old, promoted
+by a council of denominations (Rev. Donald G. Lewis, United Church); a resident camp at **Marsh Lake**
+operated by Bethany Tabernacle (Pastor Ted Bonk); a Christian camp at **Watson Lake** (Ian Passmore,
+Pentecostal Tabernacle); and an interest at Northern Evangelical Fellowship. His own caveat is the
+honest part: "**I would suggest that the above list would include one half or two-thirds of the
+resident camps in the Yukon.**" Nothing to do with Kanawana, but it is the only description of
+organised camping in the territories in the run, and it shows what the CCA's national coverage
+actually amounted to at the edges — a letter from a volunteer on holiday.
+
+**★ The 1981 National Wilderness Travel Leadership School, with a Quebec participant.** Andrew
+Sinclair's report to the Camping Association of Nova Scotia. Held at **Yamnuska Centre, "the Calgary
+YMCA's outdoor recreation headquarters"**, about a two-hour drive from Calgary — the same Yamnuska
+Centre this read first met at issue 106 (November 1975) as "the new YMCA training camp about 25 miles
+from Banff", now the national school's site five years on. **Twelve participants from Manitoba, Saskatchewan,
+Ontario, Quebec, New Brunswick, Newfoundland and Nova Scotia.** The programme: a Japanese silent
+sharing ceremony; a discovery hike; triangulation and mountain navigation, emergency response and "the
+**generic leadership model** that provided the basis for the whole course"; an ascent of Mount
+Yamnuska; input sessions on tripping nutrition, thermal balance and menu planning; formal one-to-one
+instructor-participant meetings; then a **four-day hike** with participants taking turns leading and
+one-to-one evaluation of each day leader, including **simulated accidents** staged to test emergency
+response. A river rose four inches in twenty minutes and separated the groups, who resolved it by
+throwing blueberry cheesecake ingredients one way and amaretto the other. **Contextual for
+`traditions/canoe-trips.md`**: a YMCA site, a national school, and a Quebec place at it — one
+plausible route by which a Kanawana tripping staff member of this period was trained, and a thing to
+ask former staff about by name.
+
+**Minor.** The **A.E.E.** — Association for Experiential Education — held **Experience '81 at
+Harbourfront, Toronto, 30 September to 3 October 1981**, with pre-conference programmes across
+Ontario from 27 September, registration through the Ontario Teachers' Federation; the American
+association's conference came to Canada. **"A Dream Come True"** by Ingrid Froese, of the Charleswood
+Mennonite Church: a March 1981 Florida trip for five mentally handicapped adults aged 22 to 71, in the
+International Year of Disabled Persons, organised by **Terry Burkhalter, Executive Director of "Camps
+with Meaning" for the Conference of Mennonites in Manitoba and President of the Manitoba Camping
+Association** — a dated provincial president for the officer tables. The **A.C.A. price increase**:
+25¢ on all ACA books under $6.00 and 10% above it. And the **discontinued titles**, which are their
+own small record of what stopped selling: *Beyond Competition*, ***Eskimo Inuit Games***, *Save the
+Earth*, *Snow Sculpture and Ice Carving*, *Summer Camping, a Parent's Guide*. The mailing label on
+this copy reads **Miss Marion Babcock, Newmarket** — a third deposit hand in the Internet Archive run,
+after Trent and Camp Richildaca.
