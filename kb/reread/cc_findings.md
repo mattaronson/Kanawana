@@ -8720,3 +8720,304 @@ independent conference, Château Laurier, May 1947; and Pine Crest's Woodcraft c
 three-level structure is the closest documented analogue to a Kanawana badge ladder.
 
 Kanawana itself: not named in this issue.
+
+## 62 — Vol. 16 No. 3, April 1964 ★★★
+
+A leadership-themed issue, and the most directly Kanawana-relevant of the 1964 run:
+**Hedley G. Dimock publishes the findings of the counsellor research he did at Kanawana**,
+and the CCA prints its **original Centenary Journey proposal**, two years earlier than the
+document the wiki currently cites.
+
+**Hedley G. Dimock, "Leadership — A Major Dimension in Camp Effectiveness" (pp. 94–95,
+126–129).** Bylined **"Centre for Human Relations and Community Studies, Sir George
+Williams University, Montreal"**, from his five lectures at the 7th Annual Camp Directors'
+Seminar, Alberta Camping Association, 5–8 February 1964. `hedley-dimock.md` records that
+he "conducted camp counsellor effectiveness research at Camp Kanawana in 1960–1961" but
+does not say what he found. **This says what he found**, in his own words:
+
+> "In the past few years my colleagues and I have done considerable research in
+> identifying characteristics of successful camp and agency leaders (to improve selection),
+> using these characteristics as the focus of training programmes, and then measuring
+> change toward these characteristics. **Out of some fifteen areas of attitude or behaviour
+> we found four that correlated significantly with success on the job. These were
+> group-centered leadership attitudes, non-authoritarian beliefs, flexible as opposed to
+> rigid attitudes, and a friendly or accepting orientation to others. Counsellors who
+> ranked high on these qualities tended to be identified most frequently by senior staff as
+> the best counsellors.** Training programmes in camp, in **Sir George Williams University
+> classes**, and in training laboratories have been conducted focusing on these attitudes
+> and behaviours as training goals. Most of these programmes have significantly modified or
+> developed these characteristics in the desired direction."
+
+Two things to note carefully. **He does not name Kanawana here** — "camp and agency
+leaders", "training programmes in camp" — so this is his summary of a research programme
+of which the Kanawana work was part, not a report on Kanawana specifically. And the
+method is now legible: **fifteen measured attitude/behaviour dimensions per counsellor,
+correlated against senior staff's identification of "the best counsellors"** — which is to
+say, against ranked judgements of named young people by their supervisors. That is the
+third distinct instrument this read has documented (after Hendry's 1949 peer sociometry
+and Ebbs's 1962 fitness testing), and it is the one that ran at Kanawana. Anyone who later
+opens the Kanawana counsellor files now knows what the numbers in them are likely to be.
+
+The rest of the article is his theory, and it is worth having because it is the framework
+the Kanawana counsellors were measured against:
+
+- Against trait theory: "**The 'leaders are born' theory of leadership has been abandoned
+  because of lack of scientific support**" — leadership is "a function of the situation as
+  it interacts with the personalities of the members, and their needs or tasks." So the
+  old camp practice of hiring "campus or athletic leaders ... with the expectation that
+  they would be successful staff" is unsound: "The campus athlete may be scared of the
+  woods or find it hard to be patient with rowdy ten-year-olds."
+- Leadership defined as "**doing something that helps solve a problem or accomplish an
+  objective**", split into task and group-building functions; "**Any member who helps the
+  group achieve its goals, or influences the behaviour of the group, is a 'leader'.**"
+- Correlates he reports from the literature: in youth groups physical size relates to
+  leadership (not in adults); more energy, tidier and more attractive appearance; slightly
+  greater intelligence, insight, fluency, initiative, ambition, judgment and originality;
+  **Fiedler's finding that leaders of effective groups keep "a certain social distance"**
+  — "a 'leader' who is too close to his followers finds it hard to reach decisions without
+  being influenced by his feelings"; the ability to differentiate among group members ("The
+  best basketball captain can describe a comprehensive set of weaknesses and strengths for
+  each team player"); **"Sociometric methods for determining acceptance have been rather
+  accurate in predicting degree of leadership"**; Stogdill's (1957) four factors, with
+  **consideration accounting for fifty per cent of the leadership dimensions**; and
+  Bavelas's (1960) demonstration that shifting communication channels shifts who leads.
+- **Ten criteria for choosing camp counsellors**, printed as a list: normal or above
+  intelligence; emotional and social maturity; ability to observe and discriminate among
+  people; competence in personal relationships; empathy; open communication; ability to
+  share leadership with campers; ability to help campers make their own decisions and plan
+  their own programme; ability to use systematic group work methods and benefit from
+  supervision in them; and — "I have left it 'till last" — **"compatible with camp life and
+  technically competent in camping skills."**
+- On style: group-centred versus dominant, with the finding that group-centred counsellors
+  produce campers who are "more self-reliant and responsible, showing initiative and
+  creativity in new situations", and the warning that **"Group-centered leadership cannot
+  flourish in a dominating climate established by the senior staff."**
+
+Set against A. Ross Seaman's description of Kanawana as a "participatory democracy" in the
+1966–67 YMCA annual report, this is the theory Seaman's camp was running on, published by
+the researcher who had been measuring its counsellors five years earlier and who by then
+chaired the department at the university the YMCA of Montreal had founded.
+
+**"Canadian Centenary Journey" (pp. 98, 124–125, 130) — the original proposal.** Headed in
+both languages ("Rétrospectives sur la Centenaire — Voyageurs de Passé"). The chronology
+the wiki does not have: **the Canadian Citizens' Centenary Committee asked the CCA to form
+a committee; it reported to the 1963 annual meeting and was told to keep studying; and this
+proposal "was enthusiastically endorsed" at the 1964 annual meeting**, with provincial
+associations then forming their own committees. `centennial-1967.md` currently dates the
+organisers' side from **John Latimer's June 1966 prospectus** — this is the founding
+document, **two years earlier**, and it should be cited as the origin.
+
+Three elements: mapping the historic fur-trade routes "in their entirety in every
+province"; a co-ordinated relay in which "organized groups of Association members would
+paddle and portage along these routes, **each group within its own province**"; and a
+publicity campaign. **The route: "From the St. Lawrence the route would be the historic one
+used by Indians, voyageurs and traders alike: beginning at Lachine, ascending the Ottawa
+and Mattawa rivers, crossing Lake Nipissing, descending the French River, traversing the
+northern waters of Lakes Huron and Superior"** to Grand Portage and the International
+Boundary — which is exactly the Ottawa River leg Kanawana's six boys and two counsellors
+would paddle in 1967, specified here in 1964. Eric Morse's "The Routes of the Voyageurs"
+(*Canadian Geographic Magazine*) is named as the reference work. Also specified: no
+outboard engines, "particularly on large open stretches of water (e.g. Lake Superior)" — a
+line worth reading beside Wipper's later volunteering for that very section; a distinctive
+national symbol "on each route marker; on all pamphlets, newsletters or other publications;
+perhaps available as **crests and lapel pins**"; a possible **National Film Board
+documentary**, or a sponsored film by a private Canadian company, with **every route team
+"equipped to bring back both still and motion pictures"**; and a master route log compiled
+during the centenary year and afterwards issued to campers as a "kit". The rationale
+paragraph is of its moment: the project would show "that Canada is a nation built of many
+parts, each one of which has made its own significant contribution to our common weal —
+**beginning with the Indian and Eskimo and leading to the New Canadian of to-day**", and
+**"Wherever there are Indian settlements, Indians should be encouraged to participate,
+especially younger Indians and those who may spend a great part of their lives in cities
+because of their training and occupations."**
+
+**W. J. Eastaugh, Assistant Director, Camp Ahmek, "Teamwork and Staff Relations"
+(pp. 96–97, 114–119)** — the Eastaugh of the mail-order Indian Council Ring script (issue
+42), here writing the most detailed account of camp staff management in the run, and much
+of it bears on `p_307`. On **supervisory observation**, the practice that generated the
+records at issue:
+
+> "Before the supervisor can engage the cabin leader or activity instructor in a meaningful
+> discussion of his work, he should plan to make a '**supervisory observation**'. **A good
+> beginning is the staff application file and then camper records.** Try to see a wide range
+> of activity. Note such factors as the physical setting ... Try to observe inter-personal
+> relationships — the way group members get along or relate one to the other and what the
+> counsellor does about it. Note his techniques of leadership ... and when you are satisfied
+> you have really seen this person at work, talk with him about his feelings and your
+> observations."
+
+He then lists eight values of the practice, including that the supervisor "sees conditions
+as they really are — not as reported", that "**the 'stuff' of observations assists in
+evaluating the effectiveness of the camp**", that such data sets the agenda for staff
+meetings — and, immediately, the caution: "**Great care must be taken to avoid embarrassment
+to staff by pinpointing weaknesses in such sessions.**" Five reasons for scheduling
+supervisory conferences with every staff member at least twice a summer, the fifth being
+"**Provide an opportunity for commendation. (A time for reprimand is usually always found —
+not so for commendation.)**" A fourth contemporary voice, then, on the ethics of these
+records — and the one that says most plainly what went into them.
+
+The rest is a portrait of camp employment in 1964 that the wiki has no equivalent of:
+
+- **On pay and openness**: "Might it not serve as a means of establishing a basis for
+  frankness if the camp books were to be opened for inspection? ... Most private camp
+  owners might be pleasantly surprised at the added rapport that would develop when his
+  staff realized that their estimate of profit (**for they do calculate**) was far in excess
+  of reality." And: "**The camp director who believes he can prevent his staff from
+  discussing salaries is unrealistic.**" Staff "have a right to question the fairness of
+  paying more for the services of a person whose experience, duties, age and skills are the
+  same as one who is paid less."
+- **On promoting campers to staff**: "To deny this opportunity, or to neglect to encourage
+  young campers to aspire to staff status, is tantamount to condemning the quality of the
+  camp programme."
+- **On returning ex-staff**: re-engage them "in some capacity other than their original
+  jobs if they are already being filled."
+- **On contracts**: "Vague promises and 'understandings' have a way of losing any original
+  meaning as the summer develops ... **Any attempt to avoid income tax by 'special
+  arrangements' places the camp and the staff at a disadvantage.** Conscientious effort and
+  positive criticism find it difficult to flourish in an atmosphere of dishonesty ...
+  minor altercations ... are much more difficult to resolve if it is possible for either
+  party to resort to subtle blackmail."
+- **On liquor, smoking and cars**: no compromise on liquor in camp, but "**To forbid its
+  use when staff are away from camp on a day off ... conflicts with our concept of personal
+  freedom**" — the enforceable rule being no return to camp under the influence, "since
+  their co-operation might be required in an emergency", with dismissal if proved. On
+  smoking, "with our enlightened knowledge about the harmful effects", a camp might help
+  addicts quit; "What to do about staff smoking on canoe trips is a real problem."
+  On cars: "The legal driving age of sixteen is considered too low by many camps."
+- **On fatigue**: "the most difficult matters to convey to young staff members. Few camps
+  succeed in solving the problem, either with authoritarian rules or laissez faire appeals
+  to reason." The standard he reports: **"at least one-half to one day a week free from
+  responsibility and at least two hours every day free from camp duties. This should hold
+  true for the director too."**
+- **On snacks**: "Denied access to evening snacks, staffs have been known to pilfer, hoard
+  or leave camp for the nearest store."
+- A title change worth dating: "**The use of the term Director of Programme is becoming
+  obsolete in many camps, and in its place is a much more functional title, Programme
+  Co-ordinator.**"
+- And the closing: "It is generally accepted that no one ever really owns a cat. The same
+  is true of a camp ... **As long as our camp directors understand they are proprietors of a
+  trust rather than owners of camps**, Canadian parents will continue to entrust their
+  children to their care."
+
+**Elsie K. Palter, Camp Kawagama, "Counsellors Can Help Their Campers" (pp. 99–100,
+107–109)** — the "Mrs David Palter" of the CCA history-of-camping returns, from her OCA
+conference presentation on **"Behaviour Problems at Camp"**, March 1963. She works from
+**A. H. Maslow's hierarchy**, printed in full and explicitly credited — probably the
+earliest appearance of Maslow in Canadian camping literature — and applies it: "A child who
+is hungry, insecure, or unloved, whose confidence has been undermined by failures, or who
+feels disapproved would not be expected to reach this fifth level." Her framing of what
+children bring: "In addition to these possessions, our campers bring with them other things
+which are not so obvious ... Some come laden down with **parental expectations** — they have
+been told they must learn to swim, to play the games ... These burdens can make them anxious
+and worried if they do not succeed. **These are burdens for us too.**" Her limits are
+explicit and matter for the evaluation thread: "**Problem campers need professional help and
+it is unwise for a counsellor to attempt to be an amateur psychologist**"; "One cannot
+diagnose the cause of a behaviour problem or a personality problem from the symptom alone";
+"the same misbehaviour does not always have the same cause." Her ten discipline rules, from
+an article she does not name, include "**Punishment should not be humiliating. Once
+administered it should be forgotten**", "Don't 'horse trade'", "**Don't threaten to withdraw
+affection. This is as cruel as it is dangerous**", and "Set behaviour goals at a level the
+child can reach." And her closing test of a counsellor: "A real love of working with
+children, not just with the pretty, appealing little girl or the all-round athlete, but with
+**the clumsy, poorly co-ordinated child and the slow child**."
+
+**Joy M. Ballard, B.A.–M.D., Camp Brigadoon, "Are You Training Your Staff With Health and
+Safety in Mind?" (pp. 101, 109–111, 120).** The clearest statement of camp medical practice
+in the run, and useful for reading any Kanawana health record: counsellors trained to watch
+for "fatigue, rashes, pallor, loss of appetite, coughs, sneezes and sniffles, lassitude,
+irritability, depression, drowsiness or insomnia"; a complete health history including
+allergies, immunisations, "emotional problems or difficulties in adjustments"; **all
+medicines from campers' trunks surrendered to the infirmary and locked up**, counsellors
+forbidden to dispense anything, treat cuts or blisters, remove slivers or foreign bodies —
+"**Even the common aspirin can be fatal in large enough doses**"; a first aid kit on top of
+one named pack on every out-trip, returned to the infirmary at once; **"Thongs are forbidden
+for camp use at any time"**; campers to sleep in socks and a sweater over pyjamas in cold or
+damp, with hot water bottles on suggested-item lists; a **portable roll-up stretcher kept at
+the waterfront** with a drill; and pre-camp discussion topics — Halazone tablets and
+chlorination kits, food storage against contaminated sandwich fillings and creamed
+left-overs on out-trips, dishwashing, garbage, handwashing. On staff: a pre-camp medical
+and dental check-up with immunisation, and a full personal kit, since "many of these items
+are borrowed without permission from the campers." And on example: the rules "apply to every
+person who is in camp, whether maintenance staff, camp members or visiting relatives and
+friends; **and this includes the Director**."
+
+**Margaret Govan, "On Leading Worship" (p. 104), plus a worked plan (p. 105).** Her
+complaint: "Now-a-days everybody must be trained, with certificates and badges to prove that
+they are capable of being counsellors or instructors or secretaries or cooks. But what about
+leadership in worship? **O, anybody can do that!** Choose a prayer: there are lots of books.
+Read a pretty poem. Tell a story with a moral. **And we dare call that worship!**" Her
+remedy: employ a properly trained person with other duties as well ("It would be very sad if
+campers were to think that religion is separated from other life experiences") — and, on
+where to find one, "**What about church camp staff? And in order to be ethical, let's trade.
+Most of them would be more than grateful for waterfront men!**" Printed alongside is a
+**complete worship-service plan grid** — occasion, objectives, theme, duration, feature, and
+five atmosphere rows (seating, worship centre, music, lighting, other) against equipment,
+then a minute-by-minute programme. Its content is directly usable: the opening service of a
+season, theme Dedication, thirty minutes, seated informally in a grove, worship centre "a
+clump of small trees", **music "Bless This Camp"**, staff representatives in white blouses,
+T-shirts and shorts seated facing the assembly; then the poem "When As Trees" read by the
+chaplain, **the song "Kum ba yah" led by the music counsellor**, the reading "My Life Shall
+Touch" by a previous-season camper, a fifteen-minute chat by the director on
+interdependence, the St Francis prayer, and a recessional **Camp Hymn** led by the chaplain.
+**A second dated Canadian "Kum ba yah"**, after the 1961 Camp Belwood instance in issue 50 —
+`camp-songs-cheers.md` traces the song to Green Lake, Wisconsin in the early 1950s, and this
+is it printed in a Canadian order of service in 1964. The accompanying "How to Plan
+Devotions" is adapted from the **National Council of YMCAs of Canada "Hi-Y Devotions
+Booklet" (Toronto, 1960)** — a YMCA source, and therefore one Kanawana would plausibly have
+used.
+
+**Catherine VanWagner, Camp Nominingue, "Baby Stinkers!" (pp. 106–107)** — a sixth
+Nominingue byline, on keeping two descented baby skunks, Miss Muffet and Brother Tuffy, for
+a season and then releasing them. Opens with the rule: "It is fun to experiment with keeping
+animals at camp but only if it is fully understood that it is just for a matter of a few days
+or weeks. **There should never be any question of taking them back to the city.**" The
+release is described as a genuine deliberation ("much heart-searching on the part of all of
+us") about whether descented half-grown skunks could survive; skunk tracks were seen on the
+beach and roads into November, and at the entrance to an old woodchuck hole.
+
+**Other content.** **Joyce Bertram, Camp Ouareau, "Any Zanies Today?"** — five camp stories,
+including the Halo shampoo poured into the water cooler and hailed as root beer; a
+twelve-year-old who left a hunting knife open in her bed and needed eight stitches; juniors
+washing a toad with soap and borrowed washcloths "to wash off the mud, so he'll come green
+again"; a handicrafts counsellor walking a snapping turtle on a dog lead in two feet of
+water, after which "**'Turtling' instantly took its place in the camp programme**"; and — at
+"a camp in Quebec" that planted **500 Scotch pine in a rainy week in August**, juniors armed
+with large spoons from the trip shed — the discovery that the junior in charge of the
+arboretum, "deciding that 100 trees was simply not enough, had deployed several of her
+lieutenants to sneak over to Intermediate and Senior camps and pull up every second tree
+which the older campers had carefully planted." (Bertram directs Camp Ouareau; the Quebec
+camp is very likely her own.) **Lorne Bowering's Vice-President's Page on British Columbia**
+— "**While one hundred camps are licensed each year by the Provincial Government, only
+forty-two of these are listed in the most recent Camp Directory**": six privately owned,
+twenty-two church-related, the rest with national youth organisations or local institutions;
+fees of five, ten, twenty and twenty-five dollars a week; minimum standards expected before
+the next season; and the frank admission that "attendance is still considered a luxury, one
+which is readily sacrificed when economic conditions fluctuate." **The CCA annual meeting**,
+Banff, 7 February 1964, all provinces represented, about eighty present for Dimock's five
+lectures; the OCA's Jamaican leadership visits reported "most satisfactory"; and "**One of
+the matters of concern is the present constitution of C.C.A. which has not proved
+workable**." A **home-study course in camp direction** announced by Galloway. Book reviews
+by Eanswythe Flynn — Florence B. Murray's *Muskoka and Haliburton* (University of Toronto
+Press), and the *Nunny Bag 2* / *Rubaboo 2* story collections, with the glosses "**Rubaboo
+is a stew made from pemmican, flour, water, potatoes, wild onions, savoury herbs and
+vegetables**" and "A Nunny Bag is a draw-string bag which could hold anything" — plus Norm
+McKee on Fred Lanoue's *Drownproofing!*, then being adopted by Canadian swimming
+organisations. And two advertisements worth noting: **Kimberly-Clark offering camps Walt
+Disney's "The Story of Menstruation"** on free loan with booklets "You're a Young Lady Now"
+(girls 9–11) and "Very Personally Yours" (12 and over) — a dated instance of what girls'
+camps of the period were given to work with; and **the Elizabeth F. Brown Memorial Camp
+(Warrendale) for emotionally disturbed boys and girls aged 4 to 17**, Haliburton, "short-term,
+intensive individual and group treatment and diagnostic assessment", **$1,200 for the
+season**, director John L. Brown with a psychiatric consultant.
+
+**Montreal notes**: the name-tape supplier at 408 St. Gabriel St. again; the catalogue of
+1949–63 articles now offered at 25¢ and back numbers at 50¢.
+
+**New names**: Joy M. Ballard, Lorne Bowering, John L. Brown, Martin A. Fischer, Florence B.
+Murray, Stanley A. Grant. **New leads**: **the CCA's 1963–64 Centenary Journey committee
+papers**, which predate Latimer's 1966 prospectus and would name the original committee;
+Dimock's underlying research reports on the fifteen measured dimensions; and the National
+Council of YMCAs of Canada's *Hi-Y Devotions Booklet* (1960).
+
+Kanawana itself: not named in this issue — but the research done on its counsellors is
+reported, and the canoe route its 1967 crew would paddle is specified.
