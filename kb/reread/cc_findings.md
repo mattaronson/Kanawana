@@ -25359,3 +25359,128 @@ corporate advertisement printed as a Canadian patriotic poem. Latimer, retired f
 "currently working as a consultant with the **Ministry of Tourism** in the Ontario Government,
 overseeing the government-sponsored attractions in the Province", and hoped one day to run a private
 school "from perhaps grade 9 on". The mailing label is **Miss Marion Babcock, Newmarket**.
+
+---
+
+## 144 — Vol. 34 No. 3 insert, 1982 — THE 1982-83 PUBLICATIONS CATALOGUE
+
+Twenty-four pages, bound as a separate insert to the Autumn 1982 issue and cached as its own file.
+**No contents page; a title index instead**, which was checked item by item against the body. Sections:
+front matter in both languages; New Books; the HOW TO series; the full classified catalogue in
+fourteen categories; Project REACH; (La) Série Comment Faire; the title index; four order forms in
+both languages; a Congress advertisement; and an ACA convention advertisement. Production credits are
+printed: **Graphics Beth Moon; Layout Judy Richards and Wendy Wren; Typesetting I&T Type Shoppe** —
+the Publications Committee volunteers named in the annual report (issue 142) doing the work
+themselves. **Kanawana is not named.** This is the third full catalogue this read has covered (issues
+134 and 139 were the others), so **only the deltas are recorded**; the standing description of the
+list, its American weighting and its Project REACH series stands from issue 134.
+
+**★★★★ THE "HOW TO" SERIES, COMPLETE, WITH AUTHORS AND BOTH TITLES.** Six monographs, "**4 or 6 page
+monographs**", each listed under English and French title with its author:
+
+| English | French | Author | Year | Price |
+|---|---|---|---|---|
+| "Composting for Pleasure and Profit" | "(Le) Compostage pour le plaisir et le gain" | **Sam Hambly** | 1981 | $0.75 |
+| "How to Promote Your Camp" | "Comment promouvir votre camp vacances" | **Derek Walsh** | 1981 | $0.75 |
+| "Fun and Fitness at Camp" | "Au camp: les plaisirs de la forme" | **Marjorie Booth** | 1982 | $1.00 |
+| "Maximum Participation at the Waterfront" | "Vers l'utilisation maximale du plan d'eau du camp par l'évaluation des installations et des activités" | **Jocelyn Palm** | 1982 | $1.00 |
+| "Organizing a Sailing Program" | "Comment organiser un programme de voile" | **Catherine Thomas** | 1982 | $1.00 |
+| "Winter Camping Skills" | "Techniques de camping d'hiver" | **Mors Kochanski** | 1982 | $1.00 |
+
+The binder is "**a good quality, dark green plastic binder**" at $4.00 including any two monographs,
+not sold separately. **`people/derek-walsh.md` updated**: his pamphlet is confirmed at 4 or 6 pages,
+1981, $0.75, and the series it opened had reached six titles within eighteen months, written by the
+association's own executive director and its president among others. The waterfront and sailing
+monographs were the two the French Language Committee reported translating (issue 142), and the French
+title of Palm's is a full sentence where the English is four words — a small artefact of translation
+by committee.
+
+**★★★ A CCA NATIONAL CONFERENCE WAS HELD IN QUEBEC IN 1974.** The entry for *Outdoor Education —
+Guidelines for Camps* is fuller than in the two earlier catalogues: the guidelines "were developed by
+a committee **chaired by Walter D. Mingie** at an **Outdoor Education Conference sponsored by the
+CCA/ACC at La Caleche, Quebec in 1974**", and cover "the administrative, staffing and camp resources
+necessary for such programs" for camps letting outside groups use the site in the off-season.
+**Added to `canadian-camping-movement.md`.** A national conference held in Quebec in 1974, chaired by
+a Camp Nominingue man, on a subject — off-season outdoor-education use of a camp site — that bears
+directly on what a Quebec camp could do with its buildings outside July and August. The place name is
+almost certainly **La Calèche**; it has not been located and no identification is attempted here.
+Whether Kanawana sent anyone is unknown; the conference is another item for the Trent enquiry.
+
+**★★★ MARY S. EDGAR IS DATED AS THE ASSOCIATION'S HONORARY PRESIDENT — and the Edgar book has changed
+shape.** A full page prints her poem "**Legacy to a Camper**" ("If I had the power to make this will, /
+I would bequeath to you / **The child-like sense of wonder** / To last the long year through…"), signed
+"**Mary S. Edgar, Honourary President, Canadian Camping Association 1960-1973**". That is a dated
+thirteen-year national office for the founder of Camp Oolahwan, which this project did not have.
+**Added to `connections/related-camps/camp-oolahwan.md`.**
+
+The note beneath it also corrects issue 142: "This poem and many more will appear in our newest
+publication, ***Legacy to a Camper*, by Jocelyn Palm**. This book of program ideas and poems for quiet
+times at camp will be available in **Spring 1983**." In the Summer 1982 annual report the Publications
+Committee described the project as "**a brief biography of Mary S. Edgar and her contribution to
+camping**", available July 1982. **By the autumn it is a book of Edgar's poems and programme ideas
+compiled by the association's president, and the date has moved to Spring 1983** — so anyone looking
+for a CCA life of Mary Edgar should expect to find an anthology instead. **Patched into the findings
+record for issue 142 by this note; the article carries the corrected description.**
+
+**★★ Blackstock and Latimer's counsellor handbook was being rewritten.** Under Leadership Development,
+priced "To be determined": "***Camp Counsellor's Handbook*** — **Brian Blackstock and John Latimer's
+1975 practical guide** for prospective and practicing counsellors **is being revised. Publication is
+expected in the spring of 1983.** Gage Publishing Company." Blackstock died in 1979 (issue 125), so a
+1983 revision is posthumous for one author and was being prepared by the other in the same months he
+was chairing the Congress. A second edition would be a different document from the 1975 one and should
+be sought as such.
+
+**★★ The French edition of the woodsmanship manual is listed, and the Woodsman's Code counted.**
+"***(Le) Manuel du Coureur des Bois*, le Professeur Kirk A. Wipper**… L'Association des Camps du
+Canada, 155 p., 1979" — the French edition of the *Woodsmanship Leaders' Guide*, whose translation
+this read watched **Rosaire Corbin** carry out (issue 129), now in print at $6.00 with the same
+pagination as the English. Its French description names the doctrine plainly — "le mouvement '**impact
+minimum**' en camping" — and the English entry counts the code: "**the Woodsman's Code, a list of
+thirty-three points** anyone using the wilderness should obey in order to make a minimum impact
+there." **Contextual for `traditions/environmental-history.md`**, which carries the twenty
+Environmental Maintenance Standards of 1979 and the leave-no-trace material: this is a second,
+longer national code of the same year, published in both languages with federal money.
+
+**★★ Four Indigenous-themed titles sold together, and the catalogue's own descriptions.** Under Crafts
+and Miscellaneous: **W. Ben Hunt, *The Complete How To Book of Indian Crafts*** ("actual techniques and
+designs developed and perfected by the Indians… a remarkably interesting source of information about
+the first Americans"); **Bernard S. Mason, *Drums, Tom-Toms and Rattles*** ("emphasis is on American
+Indian techniques and instruments"); **Arthur C. Parker (Gawaso Wanneh), *The Indian How Book*** —
+"Elementary level; **sound anthropologically**" — Parker being himself Seneca, and the only Indigenous
+author on the list; and **Margaret Bemister, *Thirty Indian Legends of Canada***, described here at
+more length than in 1981 as "**a moving introduction to the heritage of Canada's native peoples,
+Ojibway and Iroquois, Cree and Okanagan showing their sense of identity with the land and its natural
+wonders**". **Noted for `site/indigenous-names-and-land.md`**, which already records the Bemister
+title: the association's bookstore carried four such titles at once in 1982, three by white authors
+teaching craft technique and one by a Seneca author, and its own descriptions run from "the first
+Americans" to "Canada's native peoples" in the same catalogue.
+
+**★ Minor.** **ACA health forms have doubled again**, from 10¢ (1981) to **25¢ each**, with the same
+list and the same "not to be reproduced by any other agency" rule — so `p_323`'s form names carry
+across all three catalogues. **Wilkinson's textbook is now $24.95**, its author described as "of
+**McGill University's Physical Education Department and Camp Nominingue, Quebec**" — the association's
+own catalogue putting the Quebec attribution beyond doubt. **Johanna Koeslag's *Conservation
+Activities*** (Camp Allsaw, 40 pp., 1977) is described for the first time in full: recycling and
+organic gardening at a camp, "a complete description of the procedures from composting through to
+harvesting… as well as a chapter on **bee keeping and honey extraction**" — which is where Sam
+Hambly's composting monograph came from. **Carol Hodgins's *Wanapitei Canoe Trippers' Cookbook***
+(Highway Book Shop, 1982) is new, by the Trip Stores Director of Camp Wanapitei — Bruce Hodgins's
+camp, the Centenary Journey organiser's. **Terms have tightened**: payment within 30 days, **2% a
+month** on overdue accounts, and shipping now $2.00 prepaid under $20.00.
+
+**★ The Congress advertisement carries the fullest speaker list yet — and Dimock is on it again.**
+Three keynote speakers are now named with countries: **Sir Edmund Hillary (New Zealand), Dr. Alec
+Dickson (Great Britain), Dr. Leo Buscaglia (United States)**. Featured speakers: **Charles Kujawa
+(U.S.A.), Kirk Wipper (Canada), Bud Weiner (U.S.A.), Ron Johnstone (Canada), Bill Mason (Canada),
+Steve Van Matre (U.S.A.), John Pearson (U.S.A.), "Medley Dimock" (Canada) — i.e. Hedley Dimock —
+Bruno Morawetz (Canada), Prof. Shinshiro Ebashi (Japan), Dr. Betty van der Smissen (U.S.A.), Jocelyn
+Palm (Canada), Nelson Wieters (U.S.A.), Jack Pearse (Canada) and the Boys' Camp Band, Capt. Kohli
+(India), Peter Bentley (Jamaica), John Wilkinson (Canada), Bruce Werber (U.S.A.), Clifford Knapp
+(U.S.A.), Ken Low (Canada), Jan James (Canada)** — Kohli being the Indian Camping Association
+president with whom Latimer first imagined the Congress in New York (issue 143). **Raye Kass is still
+not listed**, on the third list this read has seen, which is worth recording as a repeated null result
+for `p_325` without concluding she was absent — these are advertisements, not programmes. Registration
+is now given as **$124 (Cdn.) full, $160 late after 20 December 1982**, with a hotel rate of **$85 a
+day for single through quadruple occupancy**. The kindred groups list confirms **"YMCA Camps"** as one
+of the eight. And the ACA's own 1983 convention was set for **Cincinnati, 28 February to 5 March
+1983** — the year after New York.

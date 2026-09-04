@@ -1,6 +1,6 @@
 # Camp Oolahwan
 
-*Status: E1-reviewed | Sources: 28*
+*Status: E1-reviewed | Sources: 29*
 *Last Updated: 2026-09-04*
 
 ## Overview
@@ -28,6 +28,8 @@ On her editorship: Northway writes that Edgar's range of contacts "made her the 
 On the Indigenous material: Northway's own first meeting with Edgar, at tea in April 1922 as a reluctant prospective camper, produced the line that founded Glen Bernard's programme — *"Well, we won't have Knights at camp but we will have Indians. Perhaps you would help me organize the tribes."* Northway's summary of that side of her work is written as praise and should be recorded as the period's own assessment rather than as a finding: "Her friendship with Indians — **Pauline Johnson was her great idol** — she brought the best of their traditions into her camp and used them with respect."
 
 And a lost manuscript worth noting as a lead: in her last years Edgar completed, or nearly completed, a memoir of the family's early days in Sundridge under the working title **"Turn of the Century for Suzanne Marie"**, which Northway says "is hoped that it still may be published" — and which Northway frames as "**a challenge to the Canadian Camping Association**." Whether it survives, and where, is unresolved; the Trent and Queen's holdings are the places to ask.
+
+**Mary Edgar's national office, dated.** The camp's founder held a title in the Canadian Camping Association for thirteen years, and the association's own 1982-83 catalogue dates it: her poem "Legacy to a Camper" is printed there over the signature "**Mary S. Edgar, Honourary President, Canadian Camping Association 1960-1973**".^29 The same page announces that the poem "and many more will appear in our newest publication, ***Legacy to a Camper*, by Jocelyn Palm** — a book of program ideas and poems for quiet times at camp", due Spring 1983. That publication had been described five months earlier as "a brief biography of Mary S. Edgar and her contribution to camping", due July 1982; by the autumn it had become an anthology of her poems compiled by the association's president.^29 Anyone seeking a CCA life of Mary Edgar should expect to find the anthology instead.
 
 **A named director for the mid-1940s: May Brown.** The camp's own directors are thinly recorded, and one is now fixed from her own account. **May Brown** — later President of the Canadian Camping Association, 1965-67 — told an interviewer in 1976: "**In 1945 I went back to Montreal to go to University and began to work for the YWCA at Camp Oolahwan as programme director and then as Director after a few summers.**"^28 She had grown up in Surrey, British Columbia, coming to organised camping through the YWCA in Vancouver and a teenage staff group at Bone Island; she took her degree at McGill; and she left Montreal "in the fall of 1947" for the faculty of UBC, so her Oolahwan years run roughly **1945 to 1947**, programme director first and director after.
 
@@ -145,6 +147,7 @@ The name "Oolahwan" may derive from the Lakota word *olówaŋ* meaning "song" or
 26. "Executive Director" and Cliff Labbett, "Our New President," *Canadian Camping* Vol. 31 No. 6 (December 1979), pp. 2-3 [src_ia_canadian_camping_collection]. Found by the full word-for-word read of the run (`kb/reread/cc_findings.md`, issue 128).
 27. "Interview: June Labbett," Jay Haddad's interview of 8 March 1980 at the Royal York Hotel, *Canadian Camping* Vol. 34 No. 1 (Spring 1982), pp. 4-5 [src_ia_canadian_camping_collection]. Found by the same read (issue 141). June Labbett is also the author of the 1971 Halliday tribute cited at 22, so the two are one witness, not two.
 28. "Interview: May Brown," Jay Haddad's interview at Vancouver, 25 November 1976, *Canadian Camping* Vol. 34 No. 2 (Summer 1982), pp. 4-5 [src_ia_canadian_camping_collection]. Found by the same read (issue 142). One of the CCA/ACC oral history tapes, printed as excerpts.
+29. CCA/ACC *Publications 1982-83* catalogue, bound as an insert to *Canadian Camping* Vol. 34 No. 3 (Autumn 1982), p. 6, with Beth Moon's Publications Committee report in Vol. 34 No. 2 (Summer 1982), p. 12 [src_ia_canadian_camping_collection]. Found by the same read (issues 142 and 144).
 
 ## Research Notes
 
