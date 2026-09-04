@@ -9,11 +9,20 @@ name: verify
 # Everything here is Python standard library. No install step, no lockfile, no
 # network.
 
+# Triggers: push to the default branch, and every pull request. The first
+# version fired on push to ALL branches AND on pull_request, so every push to a
+# PR branch ran the job twice for the same commit.
 on:
   push:
-    branches: ['**']
+    branches: [main]
   pull_request:
   workflow_dispatch:
+
+# One run per ref. A rapid series of pushes supersedes itself instead of
+# queueing four runs of a job whose answer only matters for the head commit.
+concurrency:
+  group: verify-${{ github.ref }}
+  cancel-in-progress: true
 
 permissions:
   contents: read
