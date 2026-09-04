@@ -6339,3 +6339,263 @@ Haladner, *It's Wise to Supervise* (OCA, 1961); the Junior League of Montreal's 
 subsidy records, now dated to Mutchler's 1948 appointment and 1956 executive directorship.
 
 Kanawana itself: not named in this issue.
+
+## 53 — Vol. 14 No. 2, February 1962 ★★★
+
+Convention number. Two findings here bear directly on Kanawana, and one of them is the
+most consequential single sentence the read has turned up so far.
+
+**N. B. Powter, "Sixty Years Ago" (pp. 54–57, 67) — the founding date, from outside the
+YMCA.** Powter, "Owner and General Manager, Powter's Camp", writes his father's history
+for the camp's sixtieth season. Two sentences matter:
+
+> "In June 1902 a group of 50 boys from the Montreal area under the leadership of the
+> late C. B. Powter arrived on the shores of Lac St. Joseph near Ste. Agathe des Monts,
+> some 60 miles north of Montreal. Here they established Camp 'Sans Egal' ('Without
+> Equal') the first private camp in Quebec and one of the first in Canada."
+
+> "In the early 1890's he decided on a career of physical education and took a course at
+> the Y.M.C.A. College at Springfield, Mass. On his return to Montreal he joined the 'Y'
+> staff and became captain of the first basketball team to play in Canada. **He also
+> directed the Y.M.C.A. camp at Lac St. Joseph which had been founded in 1893** but 'Y'
+> work and particularly their style of camping were not to his liking and he became
+> Instructor of Physical Training at the High School of Montreal."
+
+This is the first source found in the read that dates Kanawana's predecessor camp from
+**outside** the YMCA's own paperwork, and it is written by the son of a man who ran that
+camp. `founding-1894.md` already sets out the 1892/1893/1894 problem carefully — the
+Cushing trips of 1892, the Concordia camper lists and fishing rights of 1893, the 1893
+"Report — trip to St. Agathe" journal, against the 1894-95 annual report's
+contemporaneous first-person "our first Summer Camp" — and concludes that the
+association's own retrospective dates (1898, 1891/92, 1892, 1893) are unreliable because
+they all postdate the events by decades. **Powter's 1893 is different in kind.** It is
+not a YMCA retrospective; it is a private competitor's family history, and its author's
+father was on the Montreal Y staff at the time and personally directed the Lac St. Joseph
+camp. It is still a recollection published seventy years after the fact, and the son was
+"only seven months old at the time" of 1902, so this passage is inherited rather than
+witnessed — but it is independent, and it should be recorded as such against the 1894
+claim rather than folded into the existing pile of YMCA retrospectives.
+
+The rest of the article is the most detailed picture of Laurentian boys' camping in
+Kanawana's own first decades that this read has produced, and Sans Egal was operating on
+the same lake as the YMCA camp:
+
+- **C. B. Powter**: Springfield-trained; Montreal Y staff; **captain of the first
+  basketball team to play in Canada**; then Instructor of Physical Training at the **High
+  School of Montreal**; ten years' boyhood residence in the Red Hills of Jamaica; founded
+  Sans Egal 1902, moved it to the Lac Archambault region 26 miles north of Ste-Agathe,
+  and **chose the present site in 1905** ("the sandbank still stands just as it did in
+  1905 when C.B. first saw it").
+- **Fees $1.00 a day including transportation.** Below the level of one or two paid
+  Assistants, "everyone paid the regular camp fee" — including the boy Leaders.
+- **The tent-group system**: six to an "A" tent, 9 × 12 ft with three-foot walls, mixed
+  ages; the senior boy is the **Leader**, fully responsible for his tent, and picks his
+  second through sixth man in descending age down to a minimum of nine; balance of age and
+  aptitude struck deliberately so inter-tent competition works; no staff instructors, so
+  the Leader taught the skills or his tent lost. Boys slept on fine-cut balsam and spruce
+  boughs separated by a six- or seven-inch board; the Leader took the bunk farthest from
+  the opening and "poor number six had the flap bunk."
+- **Inspection** daily at 9 a.m. and weekly on Sunday, with points counting in
+  competition: dry change laid out in the order "stockings, pants, shirt and pyjamas",
+  toilet articles in the order "toothbrush, toothpaste, soap, brush, comb and knife", dry
+  shoes flanking a sharp, nick-free axe or hatchet. "All present tent 3" answered by "All
+  present and accounted for Sir" — "This system stemmed from the military."
+- **Officer of the Day**, drawn from the Leaders and Seconds: called "Swim" at 11 a.m.
+  and 4 p.m., kept a patrol boat and rescue crew in position, checked every boat and
+  canoe, sat on the clubhouse gallery with binoculars and megaphone, and kept a written
+  record of who had left camp, in what.
+- **Safety by permission rather than prohibition**: "you didn't keep a knife from a boy
+  in case he cut himself but rather you showed him how to use it properly." Non-swimmers
+  were limited to rowboats and to canoes "up to one-half-paddle-depth"; a hundred-yard
+  swim plus demonstrated proficiency opened everything.
+- **Tripping and mapping.** The country north of camp was unmapped; "civilization ceased
+  four miles north of camp." Trips followed watercourses and lumber roads, then
+  exploratory side trips up warm streams (warm water meant a lake upstream) and mountain
+  climbs to spot new lakes from treetops. **Six years of triangulation from mountain
+  peaks produced the first camp map in 1915, two miles to the inch**, with a three-blaze
+  trail signal; when an **aerial survey was made in 1927** "there were very few lakes to
+  be added", and in 1962 "that original map plus a few modifications is still the most
+  accurate and most helpful for trippers. Practically every camp in the area uses it for
+  their out trips and Fire Rangers are using the trails cut so many years ago by the
+  campers from Powter's."
+- **The Honour Roll**: by 1912 campers had visited 106 lakes; to be inscribed you needed
+  senior athletic points and to have visited at least half the known lakes, and seeing a
+  lake from a ridge did not count — "you had to be close enough to 'spit-in-it.'" The
+  total by 1962 was "close to the 300 mark."
+- **Trip kit**: a blanket roll or "horse-collar" per boy doubling as a portage neck pad;
+  two tumpline packs per ten boys carrying the fly and the food — bread, porridge, rice,
+  raisins, bacon or salt pork, cornmeal, molasses, corned beef, beans, butter, sugar,
+  coffee, tea, condensed milk; food cached on the outward leg and picked up on return,
+  two canoes running a circuit from opposite ends leaving caches for each other; trout in
+  most lakes, pike in the Devils River drainage. Everyone carried an axe, hatchet or
+  **Jamaican cutlass** — "larger, lighter and slightly curved" than a modern machete,
+  which C.B. had learned to use as a boy in Jamaica.
+- Terrain figures for the Laurentians: rounded hills and ridges "up to 3200 feet above
+  sea level with the lower areas at least 1000 feet."
+- The camp is in its **third generation of management** in 1962: the writer's son, "also
+  a Charles Barrett", becomes director for the sixtieth season.
+
+`kb/facts.json` contains the string "Powter's Camp" only as a bare name in a camp list;
+nothing of this is in the KB or the wiki, and **Camp Sans Egal appears nowhere in the
+repo at all**. Powter meets the stub threshold several times over.
+
+**A. Ross Seaman is Secretary of the Canadian Camping Association — and the wiki has this
+role wrong.** The masthead reads, under the heading "CANADIAN CAMPING ASSOCIATION, 2233
+Belgrave Avenue, Montreal 28, Quebec": "Secretary — Mr. A. Ross Seaman, 4140 Jean Renou,
+Lachine, Que." He replaces Mrs Agnes Mutchler, who held the post as Corresponding
+Secretary in the December issue. `a-ross-seaman.md` currently says "He is QCA Secretary
+again in the 1962 and 1963 officer lists" and separately that he sat on the CCA national
+board 1966–68. This masthead says the 1962 secretaryship was **national, not provincial**
+— so either the article has conflated the two bodies or he held both. Worth resolving
+before the next revision of that article, and either way it is a new fact: **the serving
+director of Kamp Kanawana was national secretary of the Canadian Camping Association in
+1962**, working out of a home address in Lachine while the CCA's office was on Belgrave
+Avenue.
+
+Other masthead changes since December: Vice-Presidents now Broome (Vancouver), Harper
+(Winnipeg), **Kahn (Montreal)**, McKeen (Edmonton), **Barry Lowes (Toronto)** and
+**L. W. Collins (Halifax)** — Govan and Zisi off. Taylor Statten has moved from Honorary
+President to the head of the Past Presidents list; Mary Edgar is sole Honorary President.
+Editorial committee loses John Gates and Reg Blackstock, gains **Don Groff**. The
+contents page again misprints the volume as 13.
+
+**The 1962 CCA/QCA convention — Montreal (p. 53).** Worth recording in full, since the
+QCA's newly chartered bilingual form is on display:
+
+> "CANADIAN CAMPING ASSOCIATION AND QUEBEC CAMPING ASSOCIATION / **ASSOCIATION DES CAMPS
+> DU QUEBEC** CONVENTION. March 22, 23, 24 — Sheraton Mount Royal Hotel — Montreal, Que.
+> The theme this year is 'CAMP — SUMMER EDUCATION'."
+
+Guest speaker **Sam Kadison**, Director of Camp Modin, Canaan, Maine, and camp consultant
+for the Jewish Welfare Board of the United States. Sessions: Staff Training;
+Professional Ethics in recruiting staff; Day Camps; Music in Camp; Camp as an Educational
+Environment; What Camps Expect of Parents; What Parents Expect of Camp. **The Annual
+Meeting of the Canadian Camping Association was held in Montreal, 22 March 1962 at
+6:00 p.m.** at the Mount Royal Hotel — Alta Kahn's invitation from the 1961 meeting,
+honoured. This is the second CCA annual meeting held in Montreal in the Belgrave Avenue
+era, and its minutes, if they survive, are a QCA-era target.
+
+The **French title "Association des Camps du Québec"** printed alongside the English is
+the charter of March 1961 (issue 51) taking visible effect.
+
+The **OCA's own convention** ran 23–24 March at the King Edward, Toronto — overlapping
+the Montreal dates — with Fay Welch (State University College of Forestry, Syracuse;
+Director of Tanager Lodge) on "Conserving Our Natural and Human Resources", and Professor
+**Charles Hendry** of the University of Toronto School of Social Work giving **the first
+of the Taylor Statten Memorial Lectures**, "Toward a New Understanding of Leadership".
+Hendry is described as "associated with Taylor Statten for many years" and author of
+*Camping and Character*, *A New Understanding of Leadership* and *A Professional Approach
+to Group Education*. The Statten Memorial Lecture series begins here; Statten's death is
+therefore between the December 1961 masthead (which lists him as Honorary President) and
+this one (which lists him among Past Presidents).
+
+**J. J. Keith, "Indian Council Programme" (pp. 70–72) — Assistant Director, Junior Camp,
+Camp Nominingue, Que.** A second Nominingue article in three issues, and the most
+detailed prescription for a council ring the read has found. Directly relevant to
+`site/council-ring.md`:
+
+- The framing: "Most camps take pride in associating themselves in some small way with
+  their 'Indian Forefathers' through tribal divisions, forms of Indian lore and many
+  other activities. The one item that the majority do use in their regular programme
+  cycle is that which is popularly known as Indian Council Ring." Weekly in many camps.
+- **The Chief Scribe** reads "tribal narrations" — humorous camp-centred pieces and
+  camp gossip, with an explicit caution: "At no time during these amusing readings should
+  the writer and reader descend to ridiculing, or running the risk of hurting a camper by
+  causing others to laugh at him." Then an **editorial** on a serious camping topic —
+  water safety, canoe trip habits, conservation, "characteristics of the good camper".
+- **Canoe trip reports** delivered at the ring, with a warning against chronological
+  narration ("we paddled across Lake Abenakis in ten minutes and then portaged to the next
+  lake in about fifteen minutes ... nothing more than a monotonous and unimaginative
+  speech") in favour of two or three vivid highlights, framed frankly as "both amusement
+  and propaganda for the canoe trip programme". Reference is made in ring to "those
+  chiefs and braves camping by other lakes."
+- **Challenges**: humorous (cracker eating, penny finding, bread and jam eating, bucket
+  racing, fast talking) and skill/strength (Indian arm wrestle, leg wrestle, paddle
+  holding; chopping, fire building, tent pitching), used as a vehicle for demonstrating
+  axe care and campcraft to a captive audience.
+- **Siting and conduct**: "place the ring in a remote, wooded area of camp, away from the
+  usual activity areas. Thus the 'sacredness' and importance of the Council Ring becomes
+  more emphasized by the infrequent visits to this place." Long approach paths; silence on
+  the path and in the ring, justified as emulating "one of the prime characteristics of
+  the Indian ... his ability to keep silent in the forest"; laughter permitted, cheering
+  and talking discouraged; acknowledgement given "with a vigorous 'how, how'."
+
+Together with Mingie's tribal games (issue 51), this makes Camp Nominingue the
+best-documented Quebec exponent of camp Indian lore in the run — and Nominingue is the
+camp already tied to the KB through VanWagner (`f_0186`–`f_0189`).
+
+**In Memoriam — Miss Wilda Watson, B.A.** Named in issue 51 as the magazine's
+proof-reader; she died between June 1961 and February 1962. "Joined the staff of Camp
+Onawaw fifteen years ago ... became an active member of the Ontario Camping Association,
+a visitor for the Standards Committee and also proof read the Canadian Camping Magazine.
+She was a member of the staff of Lambton Kingsway School for twenty-seven years."
+
+**Other content.** Paul C. O'Neill on the **CNIB Adjustment Training and Holiday Centre**
+at Lake Joseph, 125 miles north of Toronto (the cover) — an eighteen-acre site opened
+21 July 1961, 300 blind campers and escorts in a part-season, capital fund of $400,000
+raised without a campaign ($50,000 Ontario government grant, $350,000 pledged over three
+to five years by the Lions Club of District A, $20,000 from individuals), eight residence
+units for 114 a day, guide rails on the hundred-foot dock and through the woods, water
+markers for blind swimmers, touch-type swimming instruction, blind instructors teaching
+crafts; the summer house dedicated as Kenwood Point to the late H. Kenneth Wood. It
+succeeded twelve years of two ten-day CNIB periods at the **Lions Club Camp at Ancaster,
+Ontario**, which served over 2,000 blind people on a site "not designed for the blind"
+with "numerous hazards". "The first centre of its kind in Canada."
+
+Don Groff (Director of Youth and Camping, **Kitchener-Waterloo YMCA**, and Director of
+Camp Wabanaki) on a two-year YMCA leadership pipeline: a **Junior Leader** year (ten to
+fourteen first- or second-year high school students, registered as **full paying
+campers** in a special section on a rigid training schedule) followed by a
+**Counsellor-in-Training** year as apprentice staff. Curriculum in four categories —
+leadership skills (Junior St. John's Ambulance first aid, Junior YMCA life-saving or
+better, storytelling, song leading, dramatics, out-trip leadership); leadership
+techniques (cabin leadership, teaching methods, **council fire and campfire planning**,
+cabin devotions and church services, games leadership); camp programme skills; and
+leadership fundamentals ("understanding oneself ... developing a personal belief and
+philosophy of life"). A counsellor-of-the-day rotation within the candidates' own cabin;
+a three-man training team per camp with one training director as cross-camp supervisor;
+a **mandatory three-day annual staff training course at Easter**. Running ten years at
+the Ki-Wa-Y site and six at Wabanaki on Beausoleil Island. This is the closest analogue
+found so far to Kanawana's own CIT/LIT structure, from a sister YMCA, and dates the
+model: the Ki-Wa-Y course began about 1952.
+
+Bruno Morawetz (Director, **Camp Ponacka**) on "The Scrub Club" — campers doing their own
+laundry, "Unlike most camps, Ponacka was never properly established, it just grew", the
+club driven back from the lakeshore into the woods "as the vigilance of the Department of
+Health increased", the campers' sheets abandoned to a commercial laundry after "our
+public relations with exasperated mothers" suffered, and the defence of the practice on
+the ground that "Philosophers have drawn a fruitful distinction between work and labour.
+Work is creative, labour repetitive. A mother's life is highly repetitive and it will not
+hurt a boy's appreciation if he experiences that aspect of her daily life."
+
+Robert McKnight, Wilderness Trip Leader at Camp Pine Crest, preaching to older boys on
+youth, with a period snapshot ("Fabian, Rock and Roll, portable radios, go-karts,
+hula-hoops, Disneyland, pizza and Huckleberry Hound"; the Toronto number one being "Who
+Put the Bomp"). Elmer F. Ott of **YMCA Camp Manito-wish**, Boulder Junction, Wisconsin,
+opening a series, "Why I Direct a Camp". A Royal Bank letter on **water pollution**,
+which is more useful than it looks: **Dr Gustave Prevost, head of the biological bureau
+of the Quebec Fish and Game Department**, is quoted ("People have become so used to living
+with polluted water that they have become indifferent to the problem"), and the article
+records that in 1961 Quebec had **about forty sewage treatment plants, only three or four
+of which treated sewage completely**, against 350 in Ontario; that in May 1961 the Quebec
+government created a permanent water purification board with investigating and regulatory
+power plus a one-sixth municipal subsidy, **with Prevost appointed chairman in June**; and
+that Ottawa voted $100 million in March 1961 toward municipal treatment works. Read with
+issue 52's lagoon article, that is the regulatory environment Kanawana's own sanitation
+sat inside. A Nova Scotia CA newsletter is announced (C. A. Griffith, P.O. Box 578,
+Halifax). Classified: a Metropolitan Toronto day camp seeking a director — "Athletic and
+scholastic background required. **Religion irrelevant.**"
+
+**New names**: N. B. Powter, **C. B. Powter** (Montreal YMCA staff, first Canadian
+basketball captain, director of the Lac St. Joseph YMCA camp, founder of Camp Sans Egal),
+Charles Barrett Powter III, J. J. Keith (Nominingue), Don Groff, Bruno Morawetz, Paul C.
+O'Neill, Robert McKnight, Elmer F. Ott, Wilda Watson (d. 1961/62), L. W. Collins,
+C. A. Griffith, Sam Kadison, Fay Welch, Charles Hendry, Gustave Prevost.
+**New leads**: Powter's Camp records and its 1915 camp map (still in use in 1962);
+Camp Sans Egal, 1902–, Lac St. Joseph then Lac Archambault; the minutes of the CCA annual
+meeting, Mount Royal Hotel, 22 March 1962; the first Taylor Statten Memorial Lecture
+(Hendry, 1962); Taylor Statten's death date, bracketed to Dec 1961 – Feb 1962 by these two
+mastheads.
+
+Kanawana itself: not named in this issue — but its predecessor camp at Lac St. Joseph is,
+and its serving director is on the masthead.
