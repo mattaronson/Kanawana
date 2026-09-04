@@ -2997,3 +2997,150 @@ Westmount, Quebec."** An unnamed Montreal-area welfare camp advertising for a di
 December 1956 — a lead for the Quebec camp landscape article.
 
 **Kanawana itself: not named in this issue.**
+
+## 33 — Vol. 9 No. 2, February 1957
+
+★ **Charles F. Plewman profiled in full** (John Latimer, Camp Kilcoo) — the man who appears
+in issue 23 as the Ottawa camp director Ace Milks assisted in 1916, and who writes this
+issue's editorial. His career: **first "investment in the youth of Canada at Lake Couchiching
+in 1904"**; directed a small camp at **Rosebank near Pickering in 1911**; **director of Camp
+On-Da-Da-Waks at Golden Lake 1913–1917**; then **Camp Stephens on the Lake of the Woods**
+for the Winnipeg YMCA; **Secretary of the Ontario Boys Work Board 1921–1934**; instrumental
+in organising **some thirty-five camps**, notably the training camp at **Beausoleil Island,
+Georgian Bay, with 125 volunteer workers from across the province**; **organised and drew up
+the constitution for the first Older Boys' Parliament**; founded **Kilcoo Camp on Gull Lake,
+Haliburton, at the height of the Depression**; **Secretary of the Toronto Red Cross from
+early in the Second World War until 1949**; **President of the OCA from 1945**, in which term
+he found the association permanent quarters, **obtained its first annual grant from the
+Ontario Government**, got a greatly increased budget adopted, saw **the first full-time
+secretary appointed**, and started **the stencilled news bulletin that was "the forerunner
+of the present periodical"** — i.e. of *Canadian Camping* itself. He retired from Kilcoo in
+1955; Latimer records the last flag-lowering and Plewman's whisper, "Well, John, I fear this
+is my swan song."
+
+Latimer also names the informal founding circle of the OCA: **"Such stalwarts as Cochrane,
+Statten, Chapman, Miss Edgar, Miss Hamilton, and Miss Halliday shared together their
+experiences"** — every one of whom this read has now met in a signed profile. And Statten's
+introduction of Plewman at Beausoleil is quoted: "a man with a tenacious spirit which drives
+him to fight even harder when the chips are down." **"Boys Work Board" returns zero hits in
+the repo**, though the Ontario Boys' Work Board is the body Kanawana's YMCA world ran through
+on the Ontario side.
+
+Plewman's own editorial adds a first-hand memory of how much had changed: **"I can remember
+the time when girls' camps were practically unheard of, when boys under age thirteen were
+not allowed to attend camp, when night air had been thought to be unhealthy; in a word, a
+time when only the more venturesome of parents would even consider sending their boy to a
+camp. As for a girl, why, that was just out of the question."** For a wiki tracking
+Kanawana's own age ranges and its coeducation question, that is a usable dated statement of
+the starting position.
+
+★ **The Red Cross answers the buddy-system complaint**, at length — a two-page reply from
+the Water Safety Service, Ontario Division, to "Hank Smith" in issue 32. It concedes nothing
+on principle ("The Buddy System will always work, but it depends on you") and then sets out
+the full operating procedure: **one narrow roped entrance to the waterfront that everyone
+must use**; a staff member counting buddies in and another on the check-board or tag system;
+the buddy whistle blown by **one** person insisting on complete silence, with **both** members
+of any pair not together sent out; the swimming area **divided into patrol sections**, and
+"a patrol never takes his eyes from his particular section. He speaks to no one and no one
+speaks to him"; buddies counted and reported per section and reconciled against the entry
+count; a check at ten-minute intervals after initial training; and at the end, buddy whistle,
+count, all-out, count again, check out. Its closing line answers the substance of the
+complaint honestly: **"You say that it is possible for a person to drown in five minutes or
+less, and so it is. The Buddy System merely aids the normal patrol system."** Between issues
+32 and 33 the association printed both the failure and the fix — a rare thing, and the best
+available account of what a Canadian camp waterfront was actually supposed to look like in
+operation.
+
+★ **John Hoyle on ethics, reprinting the OCA Business Principles again** (they also appeared
+in issue 22) — but with the practising director's gloss, which is the new part. He is
+explicit that "there is keen competition for both staff members and campers," and that "the
+writer knows from experience how very easy it is, with the pressures under which we live, to
+take some slight advantage which, when reviewed in the light of day, may not be absolutely
+above board." He raises **"bidding up on honoraria"** as "another cause of misery, trouble
+and heartache" and hopes for common standards; the non-observance of verbal contracts; and
+**"questions of extras at camps… not always made sufficiently clear to parents, in advance."**
+He notes the article "has been submitted to several camp directors for approval before
+publishing," and asks that disputes go to a committee of the association "to be settled
+privately and without publicity."
+
+**The OCA Minimum Standards reprinted with their full amendment history** — "adopted by the
+annual meeting… in **1949**, and amended by revisions on **November 5, 1953, February 25,
+1955, and April 12, 1956**." Changes since issue 25's text: chlorination testing spelled out
+(water tested fortnightly from a protected well or mechanical chlorinator, **weekly from any
+other source**, with the ortho-tolidin test carried out in camp **at least three times
+weekly**); **transportation available at all times in case of emergency, and "if possible,
+the camp should have access to a telephone"**; **suitable quarters to separate an ill
+camper**; the counsellor ratio restated as programme staff excluding kitchen, maintenance
+and secretarial; and the waterfront supervisor's qualifications now including **the Senior
+YMCA Lifesaving Certificate** alongside Red Cross and RLSS, with **"the term 'waterfront
+director' shall apply to persons of at least 21 years of age."** A dated sequence of
+standards revisions to check any Kanawana practice against.
+
+★ **A coeducational private camp in the Laurentians advertising in 1957** — classified:
+**"Specialists, unit leaders and general counsellors wanted for co-ed private camp in
+Laurentians. Reply to Pembina Camp, 4792 Victoria Ave., Montreal."** The KB holds three
+Pembina facts; this dates a coed Laurentian camp recruiting in 1957. With Camp Macaza
+(coeducational, 1949, issue 21) and the Belgian YMCA's fully coeducational camps (1955,
+issue 25), that is now three documented coeducational precedents in or adjacent to Quebec
+before Kanawana's own coeducation question — worth carrying into `history/coeducation-gender.md`.
+
+★ **Two Montreal names at the 1957 conference.** **Mrs. Alice Turnham, Director of the
+Redpath Museum, McGill University**, ran sessions and gave the closing banquet address —
+a Montreal natural-history figure teaching Canadian camp directors, absent from the repo.
+And **"Dr. Taylor Statten, Director of Child Psychiatry, Montreal Children's Hospital and
+director of Camp Ahmek"** — Taylor Statten's son held a Montreal hospital appointment while
+running Ahmek. That puts the Statten family inside Montreal's professional world in the
+1950s, which is a nearer connection to Kanawana's own city than the Algonquin Park
+geography suggests.
+
+**The first university extension course for camp counsellors** — University of Toronto,
+Department of University Extension, **"An Orientation Course for Camp Counsellors," eight
+Thursday evenings, 7 February – 28 March 1957, $10**, chaired by Lloyd W. Perry. The full
+syllabus is printed: Ted Yard on the appeal of camp counselling; H. O. Steer (Psychology,
+U of T) on what children are like; Wilbur Howard on fundamentals of leadership; Dorothy
+Jackson (School of Physical and Health Education) on fundamentals of teaching; Mrs. Ralph
+Raymer (Tanamakoon) on your job at camp; **Dr. J. Harry Ebbs** on health and safety;
+**John A. Hall (School of Architecture, U of T, and Director of Arts and Crafts, Taylor
+Statten Camps)** on "At Home in the Woods"; Lloyd Perry on the challenge of counselling.
+Directors anywhere in Canada were urged to sponsor Toronto-based staff to attend.
+
+**W. Bertram Danson (Camp Winnebagoe) on camp insurance**, in unusual detail — fire and
+co-insurance clauses; business interruption; general liability ("probably your most important
+coverage") with the warning that **the standard policy does not cover death or injury to a
+camper riding in the director's car, the camp truck or a staff member's car**, and the
+recommendation to raise limits from $50,000/$100,000 to $100,000/$200,000; non-owned auto;
+hold-up; burglary; safe burglary; camera floater; motor boat; boiler. And a significant
+regulatory fact: **"For some years now, Children's Camps have come under the Workmen's
+Compensation Act… it is compulsory for all camps to be covered,"** with back assessment plus
+interest for any camp found not complying. **Campers' health and accident insurance cost
+35¢ to 60¢ per camper per week.**
+
+**Mary Porter, "Canoeing — A Canadian Heritage," part 1 of 3** — a camp-readable history of
+the canoe written expressly for directors to read to campers. Names the **chasse-galerie**
+(the flying canoe paddled by homesick lumbermen who bargained with the Devil to see their
+families at New Year, permitted if they wore no sacred emblem, hit no steeple and returned
+before midnight); the stone canoe in the legends of tribes "from the Micmacs of Nova Scotia
+to the Chippewas"; **Nanabozho** as the reputed inventor of the birch canoe on Manitoulin
+Island; four native types (cedar dugout, elm-bark, birch-bark, kayak/oomiak); three principal
+building centres, **Three Rivers, Cedar Lake and Nootka**; and the observation that in the
+east **Indian women made the canoes while Pacific coast taboos excluded them**. Closes on
+Pauline Johnson's "The Song My Paddle Sings." Directly usable in `traditions/canoe-trips.md`
+as the story a Canadian camp of the period told its campers about the canoe.
+
+Also: **Mrs. A. H. Stoddard is now datelined Sherbrooke, Quebec** (issue 27 gave her as
+Quebec Divisional Commissioner of the Girl Guides), with a second nature-craft piece. **A
+"Foiled Again!" feature on aluminium foil cooking** records a real change in tripping
+practice, with the reason stated: on cook-outs meals "must, of necessity, be cooked in the
+community pan… campers can only watch rather than experience the techniques of outdoor
+cooking. With foil cooking, each camper can learn to make his own utensils." **A fourth
+"Duel": tuck shop versus no tuck shop** — again argued on class, the case against being that
+a tuck shop "tends to emphasize the financial status of the individual camper," with the
+camper who has two dollars for three weeks feeling inferior to those with ten. The pro side
+describes a **banking system with no cash, each camper credited with a sum and holding a
+card**, candy limited to five cents a day, no biscuits, soft drinks or potato chips.
+**Robert Hofsinde's *Indian Sign Language*** is reviewed, its author "made a blood brother"
+of the Chippewas, teaching Indian Lore "in summer camps, boys' clubs and at camp counsellors'
+training courses" — another link in the chain by which camps acquired their Indian-lore
+material from named intermediaries.
+
+**Kanawana itself: not named in this issue.**
