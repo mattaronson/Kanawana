@@ -4144,6 +4144,19 @@
       "status": "pending",
       "tier": "important",
       "notes": "Source: 'News and Views from Across Canada' (Quebec), Canadian Camping Vol. 29 No. 1 (February 1977), p. 2. Word-for-word read, issue 111. Extended at issue 116 (Canadian Camping Vol. 29 No. 6, December 1977, p. 8)."
+    },
+    {
+      "priority_id": "p_321",
+      "rank": 320,
+      "type": "RESEARCH",
+      "description": "FIND MARVIN GRANEK'S THESIS AND ITS RAW DATA. 'An Investigation Into the Attitudes of Resident Camp Administration Towards Critical Problems in Resident Camping', MA in Recreation, University of Waterloo, c. 1977-78, summarised by the author in Canadian Camping Vol. 30 No. 5 (October 1978). It surveyed Canadian resident-camp administrators on 33 attitude statements across eight areas and analysed the results by thirteen background characteristics including camp type and REGION, reporting Quebec results separately: Quebec camps were having more difficulty filling their camper quota than any other region, were (with agency camps) most in favour of CCA research investment, and resident camping in Quebec and Ontario 'may have peaked'. Kanawana was an accredited Quebec agency camp of exactly the kind surveyed, and its director was the province's English-section president in the survey period, so it is a strong candidate to be among the respondents. WHERE TO LOOK: the University of Waterloo's institutional repository UWSpace and its library catalogue; Theses Canada / Library and Archives Canada; ProQuest Dissertations; and the CCA archive at Trent (p_312), since the association printed the findings and Granek invited correspondence care of the CCA office. WHAT TO EXTRACT: the regional breakdown for Quebec in full, the questionnaire instrument itself, and any list of responding camps or administrators. The study is a partial replication of an American Camping Association-sponsored study, which should also be identified.",
+      "article_id": "between-centennials",
+      "blocking": false,
+      "assigned_weight": 8,
+      "created_at": "2026-09-04",
+      "status": "pending",
+      "tier": "important",
+      "notes": "Source: Marvin Granek, 'Report on the Findings of a Survey of Camp Directors', Canadian Camping Vol. 30 No. 5 (October 1978), pp. 6-10. Word-for-word read, issue 121. Feeds between-centennials.md and the coeducation/enrolment thread."
     }
   ],
   "queue_ordering": {

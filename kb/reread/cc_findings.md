@@ -21783,3 +21783,115 @@ objects is multiplied," games that work for children boarding at the last stop a
 and "**a bus clean-up squad is a must**". Dock maintenance: sand sprinkled on wet paint for grip,
 staining preferred to painting because "paint tends to trap water and increase the rate of
 deterioration," and **nails driven in at an angle** to hold longer and spare campers' feet.
+
+---
+
+## 121 — Vol. 30 No. 5, October 1978
+
+Twelve pages. Every item accounted for: Camping… Our Past, Present and Future, part 2 (C. R.
+Blackstock); A Sense of Loss (Tom Turriff, Elizabeth Brown Memorial Camp); In Memoriam, Mrs R. C.
+Latimer; A Camp That Builds In Some Privacy (Gabrielle C. Winkel, reprinted from *The Christian
+Science Monitor*); Report on the Findings of a Survey of Camp Directors (Marvin Granek), over four
+pages; Coming Events; the full list of Provincial Camping Associations with officers and telephone
+numbers; a humour page (badly OCR'd, printed inverted). **Kanawana is not named.**
+
+**★★★★★ QUEBEC CAMPS WERE LOSING CAMPERS IN 1978, AND A UNIVERSITY STUDY SAYS SO.** Marvin Granek
+summarises his master's thesis in Recreation at the **University of Waterloo** — "**An Investigation
+Into the Attitudes of Resident Camp Administration Towards Critical Problems in Resident Camping**",
+a partial replication of an American Camping Association-sponsored study, surveying Canadian camp
+administrators on 33 attitude statements across eight areas, analysed against thirteen background
+characteristics. Two findings are reported **by region**:
+
+> "Generally speaking, all camps are having some difficulty filling their quota of campers, although
+> church camps less so than others. **Quebec camps are having more difficulty getting campers than
+> are camps in other regions.** This may tie in to the fact that Quebec camps are most in favour of
+> applied research, **perhaps with an eye to alleviating the problem of declining enrolment**."
+>
+> "Historically the tradition of resident camping has been centred mainly in Ontario and Quebec. As a
+> result, **the popularity of resident camping in these two regions may have peaked**… **Demographic
+> changes in the population, however, have also contributed to a diminishing supply of campers**."
+
+**This is the first external, dated, quantitatively grounded statement this project has of the market
+Kanawana was operating in during its thinnest documented decade.** It is regional, not about Kanawana,
+and has been written into `history/between-centennials.md` (sources 14 → 15) saying so — but it
+changes how the thin later-1970s record should be read: a Quebec residential camp in 1978 was working
+against a peaked and demographically shrinking pool, in the province where that pressure was
+sharpest. **New priority `p_321`** to find the thesis itself at Waterloo (UWSpace, Theses Canada,
+ProQuest) and at Trent, and to extract the full Quebec breakdown, the questionnaire instrument, and
+any list of responding camps — Kanawana being an accredited Quebec agency camp of exactly the type
+surveyed, whose director was the province's English-section president in the survey period.
+
+Other findings worth recording: **all administrators agree there is a problem holding the interest of
+older campers** — echoing Madeleine Allen's Ouareau survey the previous year (issue 112) — with
+private camps and boys-only camps finding it easier; **agency camps** (Kanawana's type) are "more
+positive to change, especially in the area of professional development," which Granek attributes to
+"a kind of spillover effect from the practices of the agencies themselves, which tend to be involved
+in in-service training and program evaluation on a regular basis"; **private camps "enjoy the luxury
+of being accountable only to themselves"** and "give indications of being least likely to challenge
+the status quo"; administrators were **unanimous that resident camping should be provided for more
+children who cannot afford it**; and they agreed in principle with integrating campers with
+disabilities into mainstream camps while naming the obstacles, with Granek noting drily that "part of
+the willingness to integrate their camps may be attributed to a very practical concern, namely the
+declining enrolment of campers in general." **Camps in eastern Canada are least worried about losing
+staff to other employers**, which he attributes to higher regional unemployment.
+
+His three recommendations to the CCA: a higher public profile; **a feasibility study for a camp
+director certification programme** — which British Columbia had already drafted (issues 110-111); and
+**short-term staff exchanges between camps in different provinces or of different types**.
+
+**★★★ DEREK WALSH'S QCA PRESIDENCY HAS AN END DATE.** The provincial association contact list gives
+"**Quebec Camping Association, Inc. — Dr. Ken R. Willis, President — 2233 Belgrave Ave., Montreal —
+Secretary: Miss Frances Kelly**." Walsh was in the second year of a two-year term in June 1977
+(issue 114), so the term ran roughly **spring 1976 to spring 1978** and Willis succeeded him. Willis
+is the man who gave "Effective Administration" at Geneva Park in January 1978 (issue 119). **Written
+into `people/derek-walsh.md` as a new table row.** Frances Kelly is still the section's secretary,
+extending her run in that office to at least twenty-five years (issues 30, 112).
+
+The rest of the list is a directory worth keeping for archive enquiries: **ACQ — M. René Rousseau,
+Camp Edphy, Val-Morin**; **ACQ-QCA Provincial Board — Abbé Robert Maisonneuve, 1415 est rue Jarry,
+Montreal, Executive Director M. Raymond Hade**; BC — **Dr. Don Arnold**, co-ordinator Nancy Greig;
+Alberta — **Lou Lanier** (Gary Luthy's successor within a year); Saskatchewan — **Laverne Jantz**;
+Manitoba — **Shanley Parkinson**; Ontario — **Jocelyn Palm**, secretary Mrs F. R. Robinson; New
+Brunswick — **Robert Cameron**, at Moncton Recreation and Parks; Nova Scotia — **George Matthews**;
+Newfoundland — **Elizabeth Wegenast** (succeeding Barbara Taylor); national office — **Jack Pearse**,
+office manager Mrs R. M. Roy.
+
+**★★ Blackstock's part 2** completes the historical survey begun in May. On origins: "**Ernest
+Thompson Seton through his writings and the programs he developed for his Pioneers put the emphasis
+on learning the skills and knowledge of the Indian culture, and those that the explorer, trapper and
+pioneer used to survive in the wilderness**" — Seton again, from a man with fifty years in the
+business, one issue after the association reprinted his creed entire (issue 117). On why early camp
+programmes looked as they did: "**The schedules used in camping were patterned after the school
+timetables which was only natural as most camp directors were school teachers**… the same teaching
+methods were applied to camp activities and **took much of the risk and fun out of them**. The
+classes were too formal and often too large — to the point where the individual got lost." Then "the
+educators, the psychologist and the health and safety specialist got into the act. **They put back
+more of the risk and chance to explore the unknown**" — a reading of the standards movement as
+liberating rather than constraining, from one of its architects. His forward proposal, credited to
+**Lorne Brown, former director of Camp Deka**: inter-provincial **exchanges of camper groups**, so
+that "in the course of three summers a camper" might have experiences "down by the sea, in the plains
+country and in the mountains" — the same idea Granek recommends for staff in the same issue.
+
+**★ "A Camp That Builds In Some Privacy."** Camp Newfound's "cubies" — 6' × 6' private dressing rooms,
+one per camper and counsellor, in a long building in front of every two sleeping cabins, founded with
+the camp in **1914 by Elizabeth Horton** "who felt that it was the right of every girl to have a
+certain amount of privacy no matter where she was." Campers decorate them with six yards of fabric
+bought from the outfitter's list; **a senior staff member inspects each cubie daily and writes a
+score out of ten on a calendar on the door**, a perfect summer earning an ice-cream sundae;
+counsellors' cubies have "private lights, rocking chairs and NO inspection." A striking contrast with
+the open-cabin norm every other camp in this run assumes, and worth noting for any account of
+Kanawana's own sleeping arrangements: privacy was a design choice some camps made deliberately, in
+1914.
+
+**★ Tom Turriff's "A Sense of Loss"** is the best piece of camp writing in the newsletter era and
+belongs in any anthology of the genre: "Everyone is gone now. Even the leaves are saying goodbyes to
+the trees… **The young children's scrapes and cuts are still felt in the infirmary, even though the
+children have left**… The deer's head still overlooks the lodge… He's witnessed the laughter, the
+crying, the arrivals and departures. **What has taken place at this camp? Ask the deer: he knows.**"
+
+**Minor.** In Memoriam for **Mrs R. C. Latimer**, died 27 May 1978, mother or wife of John R.
+Latimer (the notice does not say which). The illustrations to Blackstock's article are credited to
+**Keith Scott**, reprinted from the brochure of **Algonquin Waterways Wilderness**, 271 Danforth
+Avenue, Toronto. Coming Events repeats the 1978-79 meeting calendar with one correction — the Banff
+board meeting is now **26-28 January 1979** rather than 24-28 — and the editor again asks provincial
+associations to send dates.

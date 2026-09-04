@@ -1,6 +1,6 @@
 # Between Centennials (1968–1993)
 
-*Status: draft | Sources: 14*
+*Status: draft | Sources: 15*
 *Last Updated: 2026-09-04*
 
 ## Overview
@@ -34,6 +34,18 @@ Two entries in the Canadian Camping Association's national Directory Issues give
 Several things follow for this decade. **Coeducation is registered as near-parity, not as a policy in progress**: ninety and ninety in 1975, ninety-eight and ninety-one in 1976, the same age band for both. **The camp's own headline description of itself changed between the two years** — swimming and the C.I.T. programme drop out of the five listed activities and canoeing and orienteering come in, which is a small but real signal about where the emphasis was moving. **Total registered capacity rose from 180 to 189.** And the 1976 fee gives a figure this article has never had: $210 for the standard two-week session, with a marginal rate of $190 for each further fortnight — a deliberate discount for longer stays.
 
 The **1976 season also ran straight through the Montreal Olympics** (17 July – 1 August), which fell across the end of the second session and the start of the third; camps nearer the city were advertising group accommodation to Olympic visitors in the same issue.^14 Whether that affected Kanawana's registration or programme is not recorded anywhere read so far, and is worth asking of the 1976 director's report.
+
+### Quebec camps were losing campers, and said so in 1978
+
+Kanawana's own enrolment through the 1970s is thinly documented, but the wider Quebec position is not. In October 1978 the Canadian Camping Association published the findings of **Marvin Granek's master's thesis in Recreation at the University of Waterloo**, a survey of Canadian resident-camp administrators' attitudes to what they regarded as their critical problems.^15 Two of its regional findings bear directly on this decade at Kanawana:
+
+> "Generally speaking, all camps are having some difficulty filling their quota of campers, although church camps less so than others. **Quebec camps are having more difficulty getting campers than are camps in other regions.**"
+>
+> "Historically the tradition of resident camping has been centred mainly in Ontario and Quebec. As a result, **the popularity of resident camping in these two regions may have peaked.** Indeed Quebec and Ontario seem to be having more difficulty filling their quota of campers than are camps in eastern and western Canada. **Demographic changes in the population, however, have also contributed to a diminishing supply of campers.**"
+
+Granek also found that Quebec camps, with agency camps, were the group most in favour of the association investing in research — "**perhaps with an eye to alleviating the problem of declining enrolment**" — and that all administrators agreed on "a problem in holding the interest of older campers," a finding that echoes Madeleine Allen's Camp Ouareau survey of the previous year (see [[connections/related-camps/camp-ouareau|Camp Ouareau]]).^15
+
+This is external, dated and regional rather than about Kanawana specifically, and it should not be read as a statement about Kanawana's own numbers. What it establishes is the market Kanawana was operating in: by 1978 a Quebec residential camp was working against a peaked and demographically shrinking pool of campers, in the province where that pressure was sharpest. It is the background against which the camp's registered figures of 180 in 1975 and 189 in 1976 should be read, and a reason to expect that the thin later-1970s record may reflect institutional strain rather than only lost paperwork.
 
 ## The 1980s: The Second Thin Decade
 
@@ -74,6 +86,7 @@ The 1980s are, after the 1947–1958 postwar gap, the thinnest-documented decade
 12. *Kamp Kanawana Director's Report 1978* [src_ia_kanawana_report_1978] and *1977* [src_ia_kanawana_report_1977], Internet Archive.
 13. *Canadian Camping* Vol. 27 No. 2 (January 1975), the Canadian Camping Association Directory Issue, Quebec Camping Association accredited member camps listing [src_ia_canadian_camping_collection]. Found by the full word-for-word read of the run (`kb/reread/cc_findings.md`, issue 103).
 14. *Canadian Camping* Vol. 28 No. 2 (January 1976), the same annual Directory Issue [src_ia_canadian_camping_collection]. Found by the same read (issue 107).
+15. Marvin Granek, "Report on the Findings of a Survey of Camp Directors," *Canadian Camping* Vol. 30 No. 5 (October 1978), pp. 6-10 [src_ia_canadian_camping_collection] — a summary of his master's thesis, "An Investigation Into the Attitudes of Resident Camp Administration Towards Critical Problems in Resident Camping," University of Waterloo, itself a partial replication of an American Camping Association-sponsored study. Found by the same read (issue 121).
 
 ## Research Notes
 
