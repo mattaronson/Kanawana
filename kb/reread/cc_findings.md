@@ -17723,3 +17723,266 @@ spring with soapy water and "don't use a match!"; and an argument for turning a 
 return in the fall into **a paid-in-goodwill work weekend** — "No flies; no mosquitoes; no campers
 underfoot." Cover courtesy of **Dr. & Mrs. J. Harry Ebbs, Taylor Statten Camps**. No Kanawana and
 no YMCA of Montreal reference in this issue.
+
+## 97 — Vol. 25 No. 2, Winter 1973
+
+Contents page checked. All items read: A Message from the President; A Case for the "Canadian
+Stroke"; A Staff Contract — Do You Have One?; Do It Now!; Drama Games for Listening & Moving; Two
+Approaches to Camp Staff Manuals; A Counsellor's Manual; In Memoriam — Mrs. Teddy Hoyle; A Singing
+Grace; YaWaCa Comes Home; Tips; A Counsellor Writes; A Camper Says; Camping for the Unmarried
+Mother; Outdoor Cookery; Have You Heard? Do You Know?
+
+**★★★ The staff document issue.** Three items in one number — a model staff contract, a staff
+manual outline, and a counsellor's manual essay — together reconstruct the paper apparatus that
+governed a camp counsellor's employment in 1973. This is the best answer this read has produced to
+the question behind `p_307`: not what any particular evaluation said, but **what kind of document
+an evaluation was, what it sat inside, and what it was for**.
+
+*The contract.* **Brian Blackstock, Director of Camp Mazinaw**, prints a model staff contract
+described as "a compilation of forms from a number of Camps," thanking the directors of **Camps
+Oconto, Pinecrest, Ponacka, Timberlane, Wahcahmie and Wapomeo**. (Pinecrest is a Toronto YMCA camp
+— so at least one YMCA camp's contract is in this composite.) Its terms, verbatim where they
+matter:
+- Board and lodging valued at a stated weekly sum; Workmen's Compensation coverage; the employee
+  responsible for CPP and Unemployment Insurance contributions, and optionally for "(bedding)
+  (laundry expense) (tuck charges) (telephone charges) (transportation) **(for damage due to your
+  negligence) (for loss or theft of your belongings)**."
+- Clause 2, the one that reaches conduct: staff must be "aware of the role you must play in
+  maintaining good Public Relations in Camp and wherever you come in contact with the public.
+  **Conduct on your part which would reflect unfavourably on the Camp's reputation could be
+  considered a breach of this contract.**"
+- Clause 3: staff to assist "with any and all duties … that may arise," and — bracketed as
+  optional — "**Should you be unable to satisfactorily handle all of your responsibilities and, as
+  a result, have some of them handled by another party, your salary may be adjusted accordingly.**"
+- Clause 4: "**'Drugs' have no place in Children's Camps and are not permitted**," with smoking
+  permitted only in specified areas and only when campers are not present, and alcohol not
+  permitted in camp — all three bracketed as optional clauses, which is itself informative.
+- And the termination clause: "**The Camp retains the right to terminate this agreement at any
+  time without notice if, in our opinion, there is sufficient cause**," with pro rata pay;
+  resignation requires two weeks' notice; illness or accident preventing duty may reduce salary
+  pro rata. Ten days to sign and return; a medical certificate a stated number of weeks before
+  arrival; the form asks for Social Insurance Number and date and year of birth.
+
+*The manual.* **"Two Approaches to Camp Staff Manuals,"** revised from an OCA conference session
+by **Bruno Morawetz (Camp Ponacka), Fred Dier (Camp Wakana) and Don Groff (ex-Director of Camping,
+Kitchener-Waterloo YMCA)** — a second YMCA voice. A full eight-part outline of what a staff manual
+contained. Two entries in it matter directly here. Under **Sample forms used at camp**, alongside
+test sheets and tripping reports and parent reports, is "**counsellor evaluation**" — so a written
+counsellor evaluation was a standard, expected, template-driven part of camp administration in
+1973, not an exceptional act. And under **Discipline** the manual is to state "**meaning of
+discipline — what kinds of punishment, if any — factors in group discipline — building of esprit de
+corps — do's and don'ts of discipline**." The phrase "**what kinds of punishment, if any**" is the
+period's own formulation, and belongs in the record beside MacCulloch's, Danson's and Bruno Roy's
+prohibitions of physical punishment (issues 83, 87, 92).
+
+The outline also names what a camp was expected to write down about itself: "**a brief historical
+sketch of the camp**", statements of "traditions, philosophy", and "**explanation of role that
+camping plays in the total program of the sponsoring organization, where such exists**" — which is
+precisely a Kanawana staff manual's YMCA-of-Montreal section. Personnel policies to cover "sickness
+allowance — **employment and dismissal procedures** — salary scales and payment procedure." And its
+bibliography is a reading list for the whole profession: **"Talks to Counsellors" — Dimock and
+Statten (Association Press)**; "The Camp Program Book" — Catherine Hammet; **"The Call of
+Algonquin" — Mary G. Hamilton** (whose obituary ran in the previous issue); "The Camp Counsellor's
+Book" — Northway & Lowes; "Summer Magic" and "Lights from a Thousand Campfires" — Kenneth Webb;
+"Camp Waterfront Programs and Management" — Pohndorf; plus OCA Conference Digests for 1966, 1967
+and 1968 and Reports for 1971 and 1972. **The Dimock and Statten title is a direct hit on the
+`hedley-dimock` article** and should be added to it. Closing hint, worth quoting: "**the tone of
+the Manual sets the tone of the future counsellor.**"
+
+*The essay.* **Ed. H. Devitt, former Director of Camp Comak**, "A Counsellor's Manual," argues the
+manual should be mimeographed and loose-leaf rather than printed, because "**a printed page is too
+final and discourages revision**," and that it should never be finished but always evolving,
+compiled with contributions from campers, counsellors, senior staff and the director alike — "there
+is no reason to bring it down from on high, engraved on stone tablets." A working reason why so few
+camp staff manuals survive in fixed, datable form.
+
+**★★ "A Camper Says" — a girls' camp Saturday council ring described from inside, in 1973.** Judy
+Richards of **Camp Wahcahmie**, writing for a Grade 7 public speaking contest. Her account: "Every
+Saturday night is Indian council ring which means a tribal gathering on council rock. We parade
+single file dressed in colourful blankets and Indian headdress to greet the Big Chief who then
+lights the council fire. **We have three tribes.** Each challenges the other to a feat of physical
+or mental skill." Then Sunday: white shorts and white shirts, outdoor chapel "under the arch of
+birch," the director standing "before a wooden altar with the choir beside her," and the camp
+leaving chapel singing "**the camp hymn, 'God who touchest earth with beauty'**." She closes by
+quoting a verse of **Mary S. Edgar**'s poetry. So in the same run of issues we have Edgar
+explaining in 1971 where she got the council-ring idea (issue 95), and in 1973 a twelve-year-old at
+another camp describing that inheritance still running weekly — **with Edgar's own 1925 prize hymn
+as the camp hymn**. Kanawana's Big Chief and four Little Chiefs (c. 1925–27) and its Council of
+Tribes are the same form; this is what it looked like from the campers' side, fifty years on.
+Other program detail worth keeping: cabin groups of six; a **"Blue Moon Night"** where campers are
+woken on a full moon with "Arise and come away with me" and paddle across the lake for a fire and
+marshmallows; a breakfast hunt with oranges hung in the pines and cereal boxes under the boughs;
+Sunday regatta, cabin picnics and a sauna; and the canoe-trip send-off sung to "So Long We'll See
+You Again."
+
+**★ "A Singing Grace," courtesy Jack Pearse, Camp Tawingo — tune: Edelweiss.** Full text printed
+("Thank you, Lord, on this day, / For Your many great blessings … Glory to God. / May You hear our
+prayer"). Directly comparable to the Kanawana grace rotation, which sets words to Johnny Appleseed
+and to "Jeremiah was a Bullfrog." The mechanism is identical — a devotional text fitted to a
+familiar popular tune — and the magazine circulating one nationally in 1973 is a plausible route by
+which such graces travelled between camps.
+
+**★ Blackstock's contract source list also confirms a nationally circulating template.** Between
+the songbook appeal (issue 96), this contract, the staff manual outline, the OCA job-negotiation
+guidelines (issue 96) and the standards documents (issues 86, 88), the picture is of a Canadian
+camp of the early 1970s running on **shared, published forms** rather than purely local practice.
+That is directly useful for reconstructing Kanawana's own administration in the absence of its
+paperwork: where the paperwork is missing, the template it would have been built from is not.
+
+**★★ "YaWaCa Comes Home," and the Krisman memorial.** Patricia M. Russell, of the YaWaCa Outdoor
+Centre Board, Vancouver YWCA. A complete, dated institutional history of a YWCA camp: **in 1962 the
+Vancouver YWCA studied the need and found a shortage of resident camping for girls in B.C.; Camp
+YaWaCa began the following summer** on rented premises at a seaside site on **Howe Sound**, moved
+repeatedly, and by its ninth year was two hundred miles inland on **Okanagan Lake**. In **1969** a
+task force began scouting for a permanent property; the **old Bulman Farm on Salt Spring Island**
+was found and leased from **McMillan Bloedel Ltd.** — the farm only, surrounded by some **twelve
+hundred acres of forest reserve**. Untenanted for twenty years; farmhouse and barn renovated, the
+barn loft "a natural stage for dramatics," new modular buildings with cedar siding and shingled
+mansard roofs, a 60' × 48' kitchen-dining hall, **capacity forty-eight campers plus staff**, all
+buildings winterised for year-round use by YWCA groups, other organisations, schools and Salt
+Spring residents. **Tanya Krisman was camp director from 1967 to 1972**; **Mrs. Sally Schwetz**
+arrived in June 1972 to take over. On National Camping Day the farmhouse was named **"Skipper's
+Shack"** in Krisman's memory, chosen by her daughter Pat; the news column adds that the BCCA
+dedicated a memorial fund for it, that the renovation cost **$5,000**, and — bluntly — "**The fund
+is not going well and Camp YaWaCa needs the help of camping folk across Canada.**"
+
+**One programme detail there corrects an earlier note.** YaWaCa's 1972 activity list includes
+**"Hebertisme"** — on Salt Spring Island, British Columbia. Cousineau's account at issue 82 had
+over fifty *pistes d'hébertisme* in Quebec by 1969 and **none elsewhere in Canada**. By the summer
+of 1972 a BC YWCA camp is running one. Whatever the 1969 figure was worth, the practice had crossed
+the country within three years — worth recording as a dated spread rather than treating the earlier
+claim as standing.
+
+**★ "Camping for the Unmarried Mother."** Mrs. Sandy Hyman, M.S.W., Camp Co-ordinator, **The
+Children's Aid Society of Winnipeg**. Institutional facts, all stated: **during 1971 the Society
+helped 862 unmarried mothers, of whom 54% kept their babies.** Two camp programmes are described as
+far as the author knows unique. *For mothers who kept their children* ("keepers"): begun July 1970
+with eight girls and their children placed into an existing session of **Mothers' Camp at the
+United Church Fresh Air Camp** at **Gimli, 60 miles from Winnipeg**; **twenty-eight girls and
+thirty-three children in 1971**, **twenty-two and twenty-six in 1972**. Babysitters in the morning
+so mothers could do cabin clean-up and laundry and rest; mothers responsible for children at
+meals; evening group activities including "discussions about baby care and birth control." In 1972
+babysitting was cut to mornings only and the mothers took turns. *For pregnant girls*: **Lifeline
+Camp**, sponsored by Greater Winnipeg Youth for Christ, on an island in the Lake of the Woods, whose
+general purpose was work with "disadvantaged teens who are involved with delinquencies" — **ten
+girls in 1971, eleven in 1972**, none beyond the end of the seventh month. The stated reason for a
+closed camp is worth recording: "Many pregnant girls cannot enjoy recreation out-of-doors in the
+summer as clothing does not hide pregnancy as well as winter garb does." The article's summary of
+the arrangement — "a partnership between a social agency and two camps … we have the people and the
+camps have the facilities" — is the same structure as the Children's Aid foster placements Elsie
+Palter described at issue 93, and belongs with the social-agency camping thread generally. **No
+identifiable individuals; institutional and statistical throughout, so nothing here needs an
+embargo.**
+
+**★ In Memoriam — Mrs. Teddy Hoyle**, died in the fall of 1972; tribute by **Peggy Latimer**. Born
+**on a riverboat in Kashmir**; came to Canada in **1929**; about thirteen years after marrying
+**John Hoyle** — "The Major" — the couple **founded Camp Gay Venture, Haliburton, Ontario, in
+1946**. After his death she continued at the camp, then "at 60 and without advising or consulting
+her family, she bought a farm north of Toronto and began boarding and raising horses," running a
+mile a day, "and if high snowbanks prevented her from running along a road, she did her mile
+running around a tree." Described as "one of the last of a generation — a generation of proud,
+gallant, 'gutsy', independent women."
+
+**★ Claude Cousineau, "A Case for the 'Canadian Stroke'," printed in English and French side by
+side.** From the CCA Canoeing School, Ottawa, 1972, translated by Caroline Boucher and Susanne
+St-Pierre. Five stern strokes described and compared with a four-phase diagram — the **"goon"**
+stroke (French: *le coup du "touriste"*), the **"J"**, the **"Indian"**, the **"pitch"** and the
+**"Canadian."** Substantive for the canoe-tripping article, and two passages beyond technique:
+
+On the "Indian" stroke — "**The origin of the term 'Indian' stroke is not clear.** Some writers
+describe the Indians using this stroke to sneak up behind their enemies or to stalk prey. **It is
+very doubtful that the Indians used it for long distances** as it requires more energy to use the
+shoulder muscles as a fulcrum rather than the gunwale of the canoe." Cousineau then keeps the term
+"for a lack of a better term." A named practitioner sceptically examining a piece of camp "Indian"
+nomenclature in 1973 and finding no basis for it — the same instinct as his birch-bark canoe piece
+in the previous issue, and a useful counterpoint to the unexamined material printed alongside it.
+
+On the "Indian" stroke's silence he also records a camp custom: "**In some camps the contact of the
+paddle with the gunwale is considered a very bad practice. The object is not a quiet and efficient
+stroke but rather to protect the canoe from wear and tear.**" And on the name itself: "**It would
+appear that we Canadians are often better described by others; in France, for example, our style of
+canoeing is referred to as 'le canoë canadien', while our neighbours from the south make a
+distinction between a 'J' stroke and a 'Canadian' stroke.**" Sources cited: Rutstrum (1958, 1964),
+Handle *Canoe Camping* (1953), Riviere *Pole, Paddle and Portage* (1969), Malo (1969).
+
+**★ The president's report on the November 1972 CCA Executive at Regina**, item by item. National
+Camping Day set for **18 July 1973**. A **new Maritimes canoe instructors' school** added to the
+existing English and French schools at Ottawa and the western school at **Lake of the Woods**,
+organised by **Bill Palmer**. **An Awards Committee established under the chairmanship of Bob
+Lazanik** "for the purpose of recognizing those individuals who have strongly contributed to
+camping in Canada" — the Quebec vice-president chairing the national awards body, and a place any
+Kanawana director might appear in later issues. **"Additional copies of the Centenary Journey Log
+are now available through the Canadian Camping Association Office"** — the 1967 centenary
+publication is still in print and orderable in 1973, which strengthens the lead recorded at issues
+90–92. A federal approach planned for funds for a **National Workshop on Outdoor Education**.
+Blackstock studying the American Camping Association's publications programme. The **new
+constitution "on the threshold"**, going to each provincial executive for ratification. Latimer
+**re-elected for a second term**, a vice-president/president-elect to be chosen at the April annual
+meeting. And approval in principle to investigate **an International Camping Workshop in Ottawa in
+1975**, with invitations to camping associations worldwide.
+
+Note the reversal from the previous issue. Fall 1972 booked a workshop called "The Threat to
+Camping"; here Latimer ends "**The Camping movement is NOT 'in trouble'**." Both are the same man
+in successive issues. Record the swing rather than picking a side.
+
+**Personnel news.** **Jocelyn Palm** promoted from Executive Secretary of the Ontario Branch of the
+Royal Life Saving Society to **Associate Executive Director of the Canadian National Branch**.
+**John Walker of Cornwall**, studying for a master's at York, was **the recipient of the first
+Research Award of the Society of Camp Directors**, reporting to its fall gathering on
+"**professionalism and the training of Camp Directors**" — a research award and a thesis on exactly
+the question this project keeps meeting; worth chasing. **Tony Fry** appointed **Director of Camping
+Services for the Toronto Y.M.C.A.** **Tim Easley** (Forestry, University of Fredericton) elected
+president of the New Brunswick association with **Dave Goss** as vice-president; **Rick Gilbert and
+Debbie Rose of the Halifax Y.M.C.A.** new on the Nova Scotia scene. **Hank Roessingh**, the CCA's
+standards chairman, has taken a job as **Applications Editor for the Canadian Arctic Gas Study**,
+the 25-company consortium preparing to seek permission "sometime in 1973" for a gas pipeline from
+Alaska through Canada — the standards chairman of the national camping association working on the
+Mackenzie Valley pipeline application, which is a genuinely odd and datable intersection.
+
+And an editorial complaint worth recording as evidence about the magazine itself: "**for this
+Winter Edition, we have one article from B.C., one from Manitoba and the rest are from Ontario.
+Isn't it time to make this magazine a true Canadian one?**" A useful caution on how to read the
+whole run — Ontario is over-represented by the editors' own admission, so the near-absence of
+Quebec English-camp material is partly an artefact of submission patterns, not evidence about
+Quebec.
+
+**Eanswythe Flynn's "Do It Now!"** continues with March, April and May. New items of substance:
+March — "**Perhaps your job analyses are not expressed as well as they should be. Review these as
+well as the staff manual**"; May — "**Find out from your provincial camping association whether or
+not this is your year for a Standards Visitation**", confirming the two-to-three-year inspection
+cycle described by Perras at issue 86; and May — "**Send water samples (both drinking and swimming)
+regularly to Provincial Health Department**", a routine that would have generated a dated
+provincial paper trail for Lake Wilson.
+
+**Lorna Wilson (Faculty of Education, Queen's University), "Drama Games for Listening and
+Moving."** A full set of sound-and-movement exercises built entirely from the camp's own
+environment — listening walks in pairs with one partner's eyes closed; story-telling built up from
+three heard sounds, pairs merging into fours and eights; rhythm-band instruments made from sticks,
+rocks, pebbles in a shell, a blade of grass, with a day when campers may communicate only through
+them; tableaux on themes like "trouble on a portage" and "rescue on the water"; and "metaphor
+machines" — "a flag raising machine, a dining hall machine, a rainy day machine, **a counsellor
+machine**." Framed explicitly against the Skit Night and the Musical, and for "everyone at camp …
+not just the 'good performers' or 'extroverts'." A dated alternative model of camp drama, useful
+against Kanawana's own pageant and camp-show tradition.
+
+**Ken Lockwood (Camp Mazinaw), "A Counsellor Writes"** — a letter to his director printed, the
+editor notes, "as the camp director received it because it has a ring of authenticity." On tripping:
+"On trips the kids were put into an environment where they couldn't easily get out. **There was no
+place for them to run should they want to cop out.** I realise that for certain kids at that age,
+this could quite easily be a bad experience." And on the tension every counsellor at an old camp
+faces — fitting "into the general philosophical ideas and ideals of the Camp as well as its long
+'tradition', but at the same time remaining as individuals and bringing new ideas … the counsellor's
+willingness to compromise." A first-person counsellor's voice from 1972, and rare.
+
+**Tips**: chemical recipes for coloured campfire flames (barium nitrate blue, copper chloride green,
+sodium chloride orange, strontium nitrate red, calcium nitrate yellow, potassium chloride purple,
+1 lb to a gallon of water); finding a canoe leak by supporting the hull on three logs and filling it;
+adhesive tape and Ozonol over a canvas tear on an out-trip; and **a warning against using
+camper-made glazed pottery for food**, since "the toxic metals in the glaze could be lethal." Also
+Camp Mazinaw's toilet-lid solution: "Print on the under side 'Please put me down!'"
+
+Back matter: a New Year message to advertisers, and the reprinted statement that **"CANADIAN CAMPING
+is a 100% Canadian Magazine and is not subsidized in any way. It is supported solely by
+advertisements,"** followed by a full list of 45 advertiser companies — a usable index of the camp
+supply trade in Canada in 1973. Cover courtesy of **Paul Rushton, Camp Trailfinder**. No Kanawana
+and no YMCA of Montreal reference in this issue.
