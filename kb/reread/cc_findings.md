@@ -11011,3 +11011,339 @@ Nothing in this issue names Kanawana. Its value is very high anyway: the QCA's 1
 accreditation round and its twenty-seven inspection reports; Dais Gass's death and
 identification; Dimock's new title at Sir George Williams; Lowes's "we cannot continue
 as we have been doing"; and the camp music inventory.
+
+## 71
+
+`canadiancampingmagazine_vol18no4_1966june.txt` — Vol. 18 No. 4, June 1966.
+
+Contents page (checked against this block): Conversation in Conservation (Kirk
+Wipper) · Challenge in Camping (Barry Lowes) · To Live — Tributes to Dais L. Gass ·
+From the Provinces · The Camper Oh the Camper (Don Groff) · Now for the Centenary
+(Kirk Wipper) · What's Cooking Tonight (Margaret Govan) · Our Centenary Journey
+(John Latimer) · Gem Making (Bruno Morawetz) · Camp Director's Diary · An Aid for
+Wildlife (Kirk Wipper) · There's a Song (Helen Tuttle). All twelve covered.
+
+**Note on prior use.** `wiki/history/centennial-1967.md` already cites Latimer's
+"Our Centenary Journey" from this issue (its footnote 21, for Peter Van Wagner and
+Father Guy Allard as Quebec co-chairs). So this issue has been partly mined before —
+but only that one article. Everything else below is new to the project, including a
+second Centenary item by Wipper in the same issue.
+
+**"To Live" — five tributes to Dais L. Gass, which together give the project a
+complete biography of a Montreal past president it has had only a name for.** Compiled
+after her death on 14 February 1966 (issue 70). She was "Past-President of the
+Canadian Camping Association, Past-President of the Quebec Camping Association, and
+former owner and director of **Memphremagog Camp for Girls in the Eastern Townships of
+Quebec**."
+
+From **Mary S. Edgar** (Honorary President, CCA): born in **Nova Scotia**, a graduate
+of **Mount Allison University**; went to Montreal as a teacher at **Trafalgar Girls'
+School**; later **personnel worker for the T. Eaton Company**; led a CGIT group in her
+church and did club and camp work as a YWCA volunteer. "**Dais organized her own Camp
+Memphramagog in 1946** with a small group of girls to whom she was affectionately known
+as '**Kolali**', interpreted '**Friend**'." "**She was the second President of the
+Canadian Camping Association from 1946–49, succeeding our first outstanding President,
+Taylor Statten.**" "**In 1959 Camp Memphramagog was sold to the United Church and is
+now run as a boys' camp.**" (Edgar also writes "During her twenty-three years as
+Director," which does not square with 1946–59 — record the discrepancy rather than
+resolving it; the twenty-three years may count her whole camping career.) Edgar quotes
+one of Gass's editorials in the early CCA *Bulletins*: "**We, who are in this camping
+movement in Canada, are in it of our own choice… These children from the Atlantic to
+the Pacific, rich and poor alike, have a claim upon us. That claim is that they deserve
+the best we can give them in effort, leadership and progressive methods. We sink or
+swim together! Let us swim!**"
+
+From **Frances M. Kelly, Executive Secretary of the Quebec Camping Association** — a
+**named QCA officer new to this project** — a tribute quoting Gass's creed in full ("I
+believe in the wonder of the out-of-doors, in the inspiration of the stars… that to
+laugh and to sing, to swim and to walk, to study and to play, to eat and to be happy,
+to be kind and free to grow strong and good, is my right").
+
+From **Kenneth H. Murray, Past President of the Quebec Camping Association** — that
+Gass "spen[t] practically full time on the affairs of the C.C.A. for at least a year"
+during the organising years, so much so "that many people worried about her own camp,"
+and that in this period "**a camping association of our own in Quebec province had been
+organized, with the necessary roots in most of our other Canadian provinces**." He also
+records, plainly, that "her health had been very poor during the last few years" and
+that he arranged her move from the **Montreal Convalescent Home to the Griffith
+McConnell Home**.
+
+From **Nan Vail** (Past President, CCA): "the years when she was President of C.C.A.
+are the most vivid. **They were difficult times because the Executive was determined to
+have our Association become a National body separated from the American Camping
+Association.**" And a scene at the camp: "several times I sat in her living room at
+Camp Memphramagog while campers came in one after another to talk over a problem with
+their beloved 'Kolah'."
+
+From **W. E. (Ted) Yard**: he first met Gass at a CCA executive meeting "**early in
+1949**," when she had "a great vision that this Association would gain support from
+National firms and from governmental sources if we could become identifiable as a truly
+Canadian Association." **She chaired the meetings that worked out "the first official
+charter of the Canadian Camping Association,"** held in **Montreal, Toronto and
+Kingston**. And a fact this read has been circling for seventy issues: "I remember
+vividly travelling to Kingston with **Mary S. Edgar, the first editor of our Canadian
+Camping Magazine**" — which, with Edgar's own byline at issue 66 as "Founder of
+Canadian Camping Magazine," settles the provenance of this source: **Mary S. Edgar
+founded and first edited the magazine; Dais Gass chaired the incorporation.**
+
+**Gass should now be spawned as a stub** — she has well over the five-fact threshold,
+she is a woman among the movement's founders, she directed a Quebec girls' camp, and
+she is a Montreal figure the project has been listing on mastheads without knowing
+anything about. Camp Memphremagog (1946–1959, then United Church, then a boys' camp)
+is a candidate for `connections/related-camps/`.
+
+**Kirk Wipper, "Now for the Centenary" — the founding announcement of what became the
+Canadian Canoe Museum, in the camping press, dated.** `centennial-1967.md` already
+calls Wipper "founder of the Canadian Canoe Museum"; here is the primary notice. He
+lists Centennial projects a camp might undertake — an arboretum; "**a cairn, built of
+one hundred field stones from your campsite**"; ten different evergreens planted; a
+hundred-tree reforestation; "a fine nature trail with one hundred points of special
+interest"; a centenary symbol in natural materials; or arranging with Lands and Forests
+to have the campsite made a wildlife sanctuary — then gives his own: "**one project
+which will receive special attention in 1967 is the official opening of a canoe museum
+at a camp near Dorset.**" The rationale: "**the canoe was an instrument of history, a
+conveyor for exploration, a means of defense, a tool for commerce and an object for
+unique modern recreational pursuits**," and "**The project has been continuing for more
+than ten years**" — which dates the collection's start to about **1956**. He appeals
+for canoes because "generally the canoes of the frontier have been discarded as
+derelicts on some lonely shore, or filled with soil for a cottage garden." The 1966
+holdings, listed in full: **a Klondike or freight canoe, a 16-foot birch bark
+(recent), a dugout, a lapstrake, a Rice Lake, a 16-foot cedar soil [sic — cedar
+strip], a 16-foot flush batten, a 20-foot special racing shell, a butternut kayak, a
+12-foot trapper, an "Indian Maid", and a Temiskaming pointer.** Worth citing wherever
+the wiki mentions the Canoe Museum, and worth checking whether any Kanawana canoe ever
+went to it.
+
+**John Latimer (Chairman, CCA Centenary Journey Committee), "Our Centenary Journey" —
+already cited in the wiki for the Quebec co-chairs; three further findings the wiki
+does not use.**
+
+1. **The National Centenary Campfire.** "Can you visualize a 'National Campfire'? …
+   **hundreds and hundreds of Campfires, lit at exactly the same time, on the same day
+   in the summer of 1967 … with the same opening and closing used by everyone who
+   participates**." Held "in every camp in Canada… also lit on every canoe trip…
+   whether or not the trip is part of the official Centenary Journey," probably early
+   August 1967, as the climax of two- or three-day in-camp programmes on Canada's
+   history. `voyageur-canoe-pageant.md` records that a National Campfire was held on
+   **9 August 1967**; this is the plan behind it, a year earlier, and it means
+   **Kanawana almost certainly lit one**, with a prescribed opening and closing whose
+   text is a specific thing to look for.
+2. **The March 1966 Toronto conference of all ten provincial chairmen** — "For the
+   first time, the ten leaders were able to sit down together"; there "the final and
+   official routes were mapped… a suggested 'guideline' for the final publication was
+   formulated… **safety standards were developed… Rendezvous Points were
+   established**." A specific meeting whose minutes would fix Kanawana's leg exactly.
+3. **The Centennial Commission's reluctance, stated plainly by the man running the
+   project**: "**it is my feeling that the administration in Ottawa is not convinced
+   that we deserve their support. We are not stressing speed! … We are not stressing
+   material awards!**" — and a request that every director contact local radio, TV and
+   newspaper editors when a trip leaves camp. **That is a direct instruction to
+   generate local press coverage of departing Centenary Journey trips**, which makes
+   the Saint-Sauveur and Montreal papers of summer 1967 a much better bet for a
+   Kanawana notice than the project has assumed.
+
+Provincial chairmen named in full, several new: **Ron Iles** (Nova Scotia), **Faye
+Eccleston and Malcolm Hicklenton** (British Columbia — "parts of their route will be
+covered by not only canoe and raft, but also horse and mule"), **Peter Van Wagner and
+Father Guy Allard** (Quebec, "planning many side trips beyond the Ottawa River"),
+**Jim Stahr** (P.E.I.), **John Murrant**, Department of Youth and Welfare (New
+Brunswick), **John Scott** (Ontario), **Doug Eaton**, Memorial University
+(Newfoundland), **Don Smith** (Alberta), **Norman MacKenzie**, Regina (Saskatchewan),
+**Doug McEwen** (Manitoba). And a figure worth keeping: Ontario campers and camps
+"**during 1964 and 1965 spent close to $15,000 from their own pocket-books**" on
+exploratory trips.
+
+**Barry Lowes, "Challenge in Camping" — the full text of the banquet address quoted
+in fragments at issue 70, and the most substantial single piece of camping
+self-criticism in this read.** Lowes is identified as Chairman of the Toronto Board of
+Education, Director of Camp Timberlane, past OCA chairman. Opens: "**When the late A.
+L. Cochrane first went into Temagami, the Wright brothers hadn't even gotten off the
+ground at Kitty Hawk. Yet, on any clear night at camp last summer, one could look up
+and see a man-made satellite moving across the sky.**" His argument, in his headings:
+*Is Camping Obsolete?* — "**Those people who believe that camping can continue in its
+present form constitute one of the greatest threats to the camping movement**"; the
+pressures are shorter work weeks, more cars and boats, a booming cottage market ("south
+of North Bay, the lands and lakes are being gobbled up at an accelerating rate"),
+teenagers going to Europe instead, and "**the sprawling amoeba of government**."
+*Standards* — "Naively, [parents] assume that membership in O.C.A. is some guarantee of
+excellence. **But it isn't really**… If we do not constantly improve our own houses,
+others will want to do it for us"; the OCA has just appointed its **first executive
+secretary, Mr. Stan Wild**, with the warning that "the strength of O.C.A. has been its
+voluntary nature." On the profit/non-profit split: "**To me, these terms are
+anathema**… A camp is a camp, and a child is a child… **we are both in the same canoe,
+shooting the same rapids**." *Camping vs. Education* — summer schools, voluntary summer
+schools with over forty free subjects, and the real possibility of a longer school year
+("**We may have to consider operating our camps at other times of the year for shorter
+camping periods**"). *Real Values* — "**the claims have been mostly shadows without
+substance; they could not stand up to close scrutiny in a cold, unflattering light.**"
+
+Then the specific charges, which read as a checklist any camp history could be tested
+against: permitting unqualified people to direct camps; "**placing more emphasis on
+building and equipment than on staff**"; groups too large; counsellors too young, who
+"baby-sit or boss but hardly ever really counsel"; campers left on their own while
+their counsellor teaches an activity; no supervisory help for young staff; "**not
+allowing campers time to be free, to choose, to daydream**"; directors sunk "into the
+quicksand of administration." On child development, with a proposal: counsellors "expect
+the trigonometry of social behaviour from… 10-year-olds," and "**O.C.A. should set up a
+committee to prepare a booklet on patterns and stages of development in boys and girls
+as they relate to camp**." On camp routine — "**Let's abolish bells, bugles and sirens
+that shatter the air at most camps. Why must the camper be answering signals all day?…
+Must his tent or cabin look like a R.M.C. barracks room?… Too often we forget that it
+is the child's holiday.**" On conservation, the sharpest passage in the run: "**Oh, how
+piously we camping people talk of conservation!… when did you last plant any trees at
+your camp? What are you doing to check erosion? Are you wantonly spraying with
+insecticides?… Is your lake cleaner or dirtier since your camp was established? You can
+preach conservation, but the children aren't listening. They are watching your example.
+The truth is, you know, many camp directors do not like nature or outdoor living.**" On
+religion: "The word is out that God is dead! Rubbish!… **Spiritual values cannot be
+taught; certainly not by young students who have been spiritually emasculated by
+first-year philosophy. Such knowledge is caught.**" And on social relevance, three
+proposals: take campers "to work with our impoverished Indians or into our downtown
+slum areas"; exchange "masses of children back and forth across this country" —
+"**If the 3½ millions of dollars that have been poured down the drain on the Bilingual
+and Bicultural Commission had been spent instead to exchange young people**…"; and
+"maybe our campers should go without food for one day each week… The money saved could
+be sent to CARE or UNICEF." Closing: "**All that is required, and it sounds too simple,
+is to actually succeed in doing what we have always claimed to be doing… We must either
+make good on our old claims about values or step aside.**"
+
+**Don Groff (Associate General Secretary and Director of Camping, Kitchener-Waterloo
+YMCA), "The Camper — Oh! the Camper"** — his address to the CCA annual meeting, and a
+YMCA man's version of the same argument. He opens by noting that the conference has
+"analyzed his personality and behaviour; directed his world; determined his programme…
+**The wonder of it is that we did it all without him.**" Six questions follow, of which
+three matter for the wiki. **Calculated risk**: "We have become so concerned about
+safety… that we sometimes create rules and regulations for their own sake," and he
+describes his own camp's steep rocky shoreline, where the choice was between rigid rules
+and a **continuous daytime shore patrol** — "no child coming to camp should be deprived
+of watching waves break on the shore; or of casting a fishing line off a dock." **Honest
+doubt**: "Do our children and staff feel comfortable in expressing the questions and
+doubts about their religious beliefs?", with a leader-in-training who said camp "**was
+the first time she felt she could give expression to these thoughts and feel respect for
+them**" — and a sharp line on conflict: "**If cabin groups are 'running smoothly'
+however then nothing is happening between people. When you take nothing (0) from
+smoother — you get smother!**" **Dehydrated food**: "It took me several seasons to
+realize that with the heavy use of dehydrated foods for our tripping program, the only
+thing we were teaching our campers about living in the outdoors was '**to add water and
+heat**'." He also notes that "**Our Kitchener-Waterloo YMCA Camps operate a two year
+resident C.I.T. training programme**." The address closes with his own verse, "The
+Camper — Oh! the Camper."
+
+**Helen Tuttle, "There's a Song" — the fullest treatment of camp singing in this read,
+and directly on the songs-and-cheers thread (`p_048`).** "**Where there's a camp there's
+a song… Girls and boys who sing nowhere else will learn to sing at camp.**" She
+distinguishes "community singing" from what she calls **group singing**, possible only
+"when a group is living and working together for a period of days," and gives the
+planning rules: always more songs than you can use; a new list each session mixing new
+and familiar; **classify songs — "folk songs, rousing songs, rounds, action songs, quiet
+songs, spirituals, hymns"**; a different order for meal-time than for campfire; and "**a
+Committee of campers to work with the leader**." Song-leadership rules: know words and
+tunes thoroughly; "**A jumpy, fast-beating time will only detract from the song. Be as
+inconspicuous as possible**"; make favourable comments first; "do not confuse campers by
+singing harmony parts yourself"; "**Accept theirs and they'll take yours**"; "It's
+better to suggest than to demand." And a four-step method for teaching a new song
+(blackboard; listen to the piano once, then leader and piano, then lah-lah together;
+those who know it sing it through while the rest "imagine themselves singing"; everybody
+sings once, "then drop until the next session"). This is the technique behind whatever
+song repertoire a camp of this period accumulated, and the classification scheme is a
+usable frame for organising Kanawana's own songs when they are collected.
+
+**Margaret Govan, "What's Cooking To-night?"** — an exhaustive catalogue of evening
+programmes at three scales, which is effectively an index of what a camp evening
+consisted of in 1966. **Cabin-group:** walks with a goal (berry picking, exploring a
+river in old sneakers, a farm by prior arrangement, a waterfall, "a 'haunted house'",
+the fire ranger's tower), always with flashlights, a first aid kit "and ten cents for a
+telephone call in case of need"; boating and gunwale bobbing; a bedtime cook-out, which
+"allows more time for experimentation since the campers are not so impatient about the
+eating"; taffy pulls and corn popping; and cabin campfires where "**older campers like
+to talk about dating, parents, rules, vocations, religion, current events**." **Section:**
+progressive games, improvised table games (balancing matches on an uncapped pop bottle,
+beans transferred saucer to saucer by drinking straw), play-party games, roasts —
+"**A roast at a distance where participants have to paddle or walk home under the stars,
+and come into camp quietly — so as not to waken the others — adds excitement**" — a
+floating picnic, paddling to music, treasure and scavenger and counsellor hunts, paper
+chases run with wool "it's tidier," and masquerades. **All-camp:** talent night, wide
+games ("**settlers and Indians**, capture the flag, run-sheep-run, flash-light tag,
+sardines"), a Christmas or Hallowe'en party where "**No present can cost anything; it
+must be made**," slides and movies ("don't take city movies to the camp setting"), a
+formal campfire "possibly with some ritual", **antiphonal singing with half the camp in
+boats and half on land, a song leader with each group**, and the elaborate ones — Find
+Your Supper, All Nations Night, Country Fair, Sunday School Picnic, We Go Western,
+**Pageant of local history**, mock trial, "Pirate day," and party themes including
+"cavemen; **Indians**; Noah's ark; hoboes; beatnicks." The antiphonal boats-and-shore
+singing is the kind of specific practice worth asking whether Kanawana had.
+
+**Kirk Wipper, "An Aid for Wildlife" — a complete four-level camp naturalist syllabus**,
+printed as a standard other camps might adopt: **Junior** (identify 5 deciduous and 5
+coniferous trees, 3 shrubs, 6 flowering plants, 4 natural foods, 2 ferns, 2 mosses, 3
+insects, 4 birds by song or sight, a snake, a salamander, a frog or toad, 3 animals),
+with the note "**Please do not, under any circumstances, damage, injure, or destroy any
+natural things**"; **Intermediate** (adds constellations, the difference between grasses,
+rushes, reeds and sedges, dry succession and its stages, planting one evergreen, and
+drawing a map of a natural community); **Senior** (12 edible plants "and properly prepare
+one of them", 3 medicinal plants, 3 edible and 2 poisonous mushrooms, the invertebrate
+phyla by example, insect-eating plants, glacial scratches and erratics, "**Describe how
+your camp can practise conservation**", and live-trapping a specimen "not wild animals
+because of rabies"); and **Naturalist** (a permanent display, leading a full wildlife
+period for each age group covering habitat, "dynamic aspect of natural world",
+interdependence and conservation, "a brief essay on the significance of wildlife in
+today's world", and "**Lead wildlife during a canoe trip of not less than 3 days**").
+The best available answer to what a camp naturalist's programme was expected to contain,
+against which `wiki/traditions/environmental-history.md` can be measured.
+
+**Kirk Wipper, "Conversation in Conservation"** — the argument behind the syllabus, and
+a third conservation piece in two issues. "Camping is education in the out-of-doors, for
+the out-of-doors and by the out-of-doors — **its continued existence depends very
+directly on current attitudes and practices in the natural surroundings**." A neat
+internal criticism: if wildlife study teaches "the significance of young saplings in
+maintaining forest growth, we ought not to ruthlessly and indiscriminately gather these
+for making up gadgets or circus booths" — i.e. camp programme working against camp
+teaching. And on leisure: "**An extraordinary amount of leisure is an imminent fact…
+Work will, in a sense, become a diversion**," so "**if the camping movement is to receive
+the respect of history, it must be in a large measure due to camping's particular
+contribution in the broad implications of conservation.**"
+
+**Bruno Morawetz (Camp Ponacka), "Gem Making"** — lapidary as a camp activity, opening
+with a defence against critics who "have laid the charge that camps are departing from
+the original purpose of camping" by admitting riflery, archery, crafts and drama —
+"There is some truth in what the critics say but they forget that some children will
+never be wild on wilderness living." Practical detail: tumbling versus a **gem-maker**
+with a diamond blade (about **$100** plus a quarter-horsepower motor, "three or four
+persons can work on the gem-maker at one time"), grinding on cast-iron lap and silicon
+carbide wheels, polishing on felt, the stone cemented to a **dop stick** and sized
+against a plastic **template** to fit the metal **findings**. Also that "**our most
+successful experience came when we managed to hire a taxidermist as the camp
+naturalist**," and that the **Bancroft "Gemboree"** was drawing visitors from across
+Canada and the United States. Sources listed: Shell Oil's "Let's Collect Rocks," the
+Ontario Department of Mines' Map 2103 and Geological Circular 13, and a Pen-Reid
+quarterly from Campbellford.
+
+**From the Provinces.** National President **May Brown** was appointed to the **National
+Advisory Council on Fitness and Amateur Sport**, and asked to extend her term — a
+federal appointment for the CCA president, and the sequel to the association's first
+grant application (issue 68). **The OCA is setting up archives: "Margaret Govan is
+Chairman of the Committee and, come September, Mrs. Shirley Hall will act as part time
+secretary. Members are asked to send in material of an historical nature about their
+camps."** That is the founding of the Ontario Camping Association archive, dated to
+1966 — a repository that may hold Quebec-adjacent material and is worth querying. The
+OCA also ran a contest for a crest insignia, and its annual meeting was 21 April 1966 at
+the Constellation Hotel. **Quebec:** the editor visited Montreal on **25–26 March 1966**
+and met "**the President, Bob Lazanik, Frances M. Kelly, Executive Secretary and Mrs. N.
+D. Demetelin, Public Relations**" — three named QCA officers, of whom Demetelin already
+appears in `facts.json` and `wiki/people/a-ross-seaman.md`. The occasion was the
+**Carling Quebec Conservation Trophy**, created in 1956 by the **Quebec Wildlife
+Federation** "to honour the individual who… has contributed most to the conservation of
+forest, field and stream in the Province of Quebec," presented on 26 March 1966 at the
+Montreal Show Mart during the **22nd annual Sportsman's Show** to **J. Oscar Houde**, a
+public relations officer at Hydro-Québec. **Newfoundland and Labrador** has formed an
+association (Hon. G. A. Frecker honorary president; Major D. W. Rea, Salvation Army,
+acting president; Marjorie Ball, YWCA, secretary-treasurer) not yet affiliated to the
+CCA. And the Ebbses showed slides of **Camp Tonakela at Avadi, Madras** on 9 May 1966,
+with the note that Tonakela "**is a year-round centre for Girls and Boys for camping and
+convalescence**" — a small correction to the seasonal picture at issue 69, and the place
+name **Avadi**, new.
+
+Nothing in this issue names Kanawana. Its value is the Gass biography, the canoe museum
+announcement, the National Centenary Campfire plan and the instruction to get local
+press coverage of departing trips, Lowes's and Groff's addresses in full, and Tuttle's
+song-leading method.
