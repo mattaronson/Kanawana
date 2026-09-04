@@ -20219,3 +20219,171 @@ oral-biography project — the pioneer list drawn up at the Quebec board meeting
 association's own tapes, and any CCA interview guidance that survives with them, which is also a
 direct precedent for this project's pending `DRAFT_ORAL_HISTORY_INSTRUMENT`. **Block 99 patched in
 place** to record that its Waterloo destination was superseded here.
+
+---
+
+## 110 — Vol. 28 No. 5, December 1976
+
+Contents checked against the issue itself (the newsletter has no contents page; every item on the
+eight pages is accounted for). Read in full: News and Views from Across Canada (Ontario, New
+Brunswick, Quebec, Nova Scotia, Newfoundland and Labrador, continued on p. 4 with Manitoba,
+Saskatchewan, British Columbia, Alberta); A Christmas Message (Ron Johnstone, President); Taylor
+Statten Memorial Fellowship; American Camping Association conference notices; Canoe Schools (Cliff
+Labbett); a Jeanne Simons passage submitted by Stan Wild; Camp Insurance — How Well Are You
+Covered? (W. Grant Kerr); Time for a Change (logo contest); Classified Ads; Hints on Winter Camping
+(John Beedell). **No Kanawana reference anywhere in this issue** — the null recorded explicitly.
+
+**★★★ QUEBEC: A GOVERNMENT DEPARTMENT PROPOSES ITS OWN CAMP RULE.** The Quebec paragraph is three
+sentences and both of them matter: "**A somewhat scary proposal is now being made by the Department
+of Labour…Waterfronts in camps may not be deeper than six feet!!!** Another highlight in Quebec is
+that they have formed a very active **Day Camp Standards Committee**."
+
+Read beside the October issue's note that "**The High Commission of Leisure and Sports has provided
+funds to ACQ-QCA so that a full time person may be hired to set up provincial training programmes in
+camping**" (issue 109), this is the moment the Quebec government appears on both sides of the ledger
+at once — funding the accrediting association's staff and simultaneously drafting rules of its own.
+The three exclamation marks are the association's, and they record how a body that had written and
+applied Quebec camp standards since Van Wagner's 1955 *Manual* received a labour ministry proposing
+to legislate one. **A six-foot depth limit is not a rule a camp on a natural lake can comply with by
+adjusting anything**; whether it was ever enacted is not stated here and is a checkable question in
+Quebec's statutory record. **Written into
+`connections/institutional-lineage/canadian-camping-movement.md` as a new paragraph, "The government
+arrives alongside the association, 1976," with lettered sub-source 8z covering both newsletters.**
+It also sharpens `p_314`: if a ministry was regulating camp waterfronts from 1976-77, there may be a
+governmental inspection file on Kanawana distinct from the association's annual accreditation
+reports.
+
+The same pattern is visible across the country in this one column, which is why the paragraph
+generalises it: **New Brunswick** — "The government has been very helpful in giving grants to camps
+— but such grants are only given if a camp is a member of the N.B.C.A."; **Saskatchewan** —
+"Government grants are not given to camps which are not accredited by the S.C.A."; **Manitoba** — a
+$46,000 government student-employment grant to MCA camps, the province paying the salary of a
+standards visitor (Jim Legitt), and the government having "purchased six camps" while giving "new
+lands to old camps" through the Land Acquisition Branch; **British Columbia** — "**The B.C.
+Association has been asked to operate an in-service training programme for those inspectors hired by
+the Department of Health who will be visiting camps**," plus a Camp Director Certification Programme
+to be offered through regional colleges and universities. Voluntary accreditation had become the
+gatekeeper for public money, and in BC the association was training the government's own inspectors.
+
+**★★★ THE TAYLOR STATTEN MEMORIAL FELLOWSHIP, in its mature form.** Announced in full: **annual
+value $1,000**, open to applicants from **any Canadian university** and tenable at any university
+considered appropriate, "**to assist post-baccalaureate study in any professional field or career
+related to youth services, such as, but not restricted to, physical and health education,
+psychology, teaching, the ministry, and social work**." Applications by **1 March**, transcript plus
+**three letters of recommendation**, at least two from university teachers; **"Only candidates under
+the age of 25 will be considered"**; selection by the Taylor Statten Memorial Fund Committee; forms
+from the Office of Student Awards, Room 107, Simcoe Hall, University of Toronto.
+
+This closes a twenty-year arc the read has now documented at three points: Edmison's 1962 memorial
+launching the **Taylor Statten Memorial Fund** at the University of Toronto with **over $20,000 from
+400 contributors** and a first grant that year (issue 62); the **first Taylor Statten Memorial
+Lecture**, Charles Hendry in the Great Hall at Hart House, **24 March 1962** (issues 62–63); and the
+fellowship here. **Written into `connections/institutional-lineage/taylor-statten.md` as a new
+section, "The Memorial: Fund, Lecture, Fellowship" (sources 8 → 10).** The point worth stating is
+the shape of the memorial itself: the tribute to the central figure of Canadian camping was not a
+camping prize but a graduate award in youth services generally, held at a university rather than by
+the association.
+
+**★★ THE CANOE INSTRUCTOR SCHOOLS CHANGE HANDS — and the 1967 founding is corroborated
+independently.** Cliff Labbett: "**In 1976, the Canadian Recreational Canoeing Association took over
+the operation of the Canoe Instructors Schools which were founded in 1967 by Professors Kirk Wipper
+of the University of Toronto, and Claude Cousineau of the University of Ottawa. This modest
+beginning at the University of Ottawa's camp site near Gracefield, Quebec has now blossomed into six
+schools across Canada.**"
+
+The 1967 founding date and the two founders match Andrea Dillon's 1972 account exactly (issue 87),
+from a different writer five years later — **two independent attestations of the same origin**. New
+here: the schools ran under the CCA "during the years 1967 to 1975" and passed to the **C.R.C.A. in
+1976**, and the 1976 results are given school by school: **Atlantic** at Camp Kadimah near
+Bridgewater, N.S., 11–20 June, director Walter Crotty of St. John's, 25 students → 10 instructors,
+14 assistants, 1 letter; **French-language Gracefield**, 41 students → 28 instructors, 11 assistants,
+2 letters; **English Gracefield**, early August, 30 students → 13 instructors, 11 assistants, 5
+letters, 1 not completed; **Ontario at Camp Kandalore**, "overwhelmed with applications," 44 students
+→ 12 instructors, 27 assistants, 6 letters; **Mid-West near Kenora**, 24 students → 9, 11, 4;
+**Western near Calgary**, 25 students → 12, 10, 8, 1 not completed. **189 candidates in one summer,
+84 of them certified as instructors** — the national scale of the certification behind any "canoe
+instructor" in a Quebec camp's staff list, and two of the six schools held in Quebec. Labbett's
+candid assessment is worth keeping: the course "goes beyond what some of the students expected, and
+a few were not as technically advanced as they should have been."
+
+**★ Alberta's hébertisme guide — a second document for `p_318`.** "Also available in the future will
+be a '**Practical Guide to Hebertism**', for through the Department of Recreation and Parks, **three
+camps were given funds in 1976 to set up Hebertism courses**, the Guide results from their
+experiences." With New Brunswick's report in the October issue that hébertisme was spreading "due to
+the tremendous influence of Claude Cousineau's book on the subject," this is the method reaching
+Alberta with provincial funding within a year of the booklet. `p_318` now has two publications to
+look for, not one, and the Alberta guide — being a government-funded provincial product — may be the
+easier of the two to locate.
+
+**★ The publication itself, for the deferred `meta/sources-index.md` section.** Printed in this
+issue: "**Canadian Camping is published 6 times a year. Subscription Rates: $5.00 — 1 year; $12.00 —
+3 years. C.C.A. membership includes subscription.**" That confirms from the masthead the cadence
+predicted at issue 108 and stated at 109 — five or six issues a year in the newsletter era, against
+four in the magazine era — and gives the subscription price at the changeover. Address unchanged:
+102 Eglinton Avenue E., Suite 203, Toronto M4P 1E1.
+
+**★ Ron Johnstone is CCA President**, signing the Christmas message, and reports that "**Your Task
+Force on the goals of the C.C.A. is looking to the past to plan for the future**," inviting members
+to write in with views on trends and directions. A goals review running at the same moment the
+association had just killed its own magazine on cost (issue 108) and moved its archive to Trent
+(issue 109). Johnstone has appeared in this run since the mid-1960s — Director of Camp White Bear,
+Temagami, writing on staff-in-training in 1965, and conference chairman under President Adele Ebbs
+in 1966.
+
+**★ The canoe-safety thread continues, now naming a cause.** From the Newfoundland paragraph,
+generalised to the whole association: concern about "the number of drownings in canoe accidents…
+due, not only to inexperienced people; cold weather and water; **but above all, to the poor quality
+of canoes sold extensively in super markets**", together with "a great concern about the quality of
+some of the approved P.F.Ds. as well as the fact that there is not a wide variety of such approved
+P.F.Ds. **The C.C.A. is giving these concerns a great deal of consideration.**" That is the fourth
+consecutive issue carrying a water-safety alarm (Palm at 107, Dickie at 105, the wilderness dilemma
+at 109), and the first to locate the problem in retail equipment rather than in training.
+
+**★ Camp insurance, in enough detail to price a camp's exposure.** W. Grant Kerr's article,
+reprinted with permission from the United Church publication *Church Camping* (Spring 1976), is the
+fullest treatment of camp finance the run has carried. Recommended minimum liability cover in 1976:
+"**not less than $200,000 for bodily injury and $20,000 for property damage**", better $500,000, with
+some camps carrying a million; **automobile liability a minimum of $100,000 up to $5,000,000** on
+the ACA's recommendation. Liability is scheduled "**in the per-camper per day charges**", with
+rowboats, canoes, power-driven boats, motors, sailboats, malpractice, products coverage and horses
+scheduled separately. Fire cover: companies "somewhat apprehensive about writing fire insurance on
+camps" because of remoteness; rates reduced by a **full-time caretaker on the property**,
+fire-resistant roofing, distance between structures, extinguishers in all buildings; **90%
+co-insurance** typical, so a camp under-insured against actual value becomes its own co-insurer.
+Re-appraise every three years. **Useful context for reading any Kanawana budget line for insurance,
+and for understanding why a full-time winter caretaker was an economic as well as a practical
+decision.** Also a legal note matching the hoax correction at issue 94: non-profit and church camps
+"were looked upon as having immunity from lawsuits… However, our neighbors in the United States can
+testify that large amounts of money have been awarded" — the American litigation climate as
+perceived from Canada in 1976.
+
+**★ Winter camping, in practical detail** — John Beedell of the **Bark Lake Camp Leadership Centre**
+gives a full equipment-and-technique article: sleeping bags at $100–$150 (or a summer down bag inside
+a Black Icelandic Special or Woods Mount Whitney) with closed-cell foam beneath; layered clothing;
+moccasins with rubber bottoms or oversized boots with snowmobile liners; chopping a three-foot ice
+hole for water; snow shelters entered below floor level so cold air cannot pour in; toboggans fitted
+with a wooden box; and the governing rule that "**the biggest fear is sweating**." Not a Kanawana
+document, but the best contemporary statement in the run of what winter camping required in
+equipment and money, and therefore context for
+`traditions/winter-programming.md` on what any Quebec camp would have had to buy before running a
+winter programme.
+
+**Minor.** The OCA launches a membership drive using individuals to "woo" non-member camps and forms
+a **Past Presidents' council**; its 1977 calendar is Executive Development Workshop 10 January,
+Annual Conference 3–6 March, Annual Meeting 5 April, Counsellor's Conference 14 May. Nova Scotia
+receives a $3,600 provincial recreation grant and is combining forces with the Youth Hostel
+Association and Canoe Nova Scotia to hire a joint programme development director; **George
+Matthews** reports Cape Breton becoming more involved. Newfoundland's growth comes from "the
+Y.M.-Y.W.C.A., the Salvation Army and the Pentacostal Church," and its executive meetings move out
+of **Barbara Taylor's kitchen** into larger quarters now that all meetings are open to the
+membership. Manitoba loses past president **Marvin Wall** to Edmonton, **Jim King** to Alberta after
+an Outward Bound course, and **Larry Austman** to the directorship of **Camp Chief Hector**; **Brian
+Law** reports that integrating children with intellectual disabilities into mainstream camps "is
+extremely successful," on a contract with the Canadian Association for the Mentally Retarded. The
+CCA runs a **new-logo contest** — $50 and expenses to the annual meeting at **Squamish, B.C.**, in
+April 1977, closing 15 March, open to anyone who has been a camper, C.I.T. or staff member at an
+accredited camp, professional artists and art teachers excluded. Two CCA members lead sessions at
+the ACA Mid-America Convention in Dearborn, 8–12 March 1977: **Grant McKeen** of Vancouver on
+"Camping as Therapy" and **John Gullick** of Toronto on "Camping for Children with Special Needs";
+the ACA Mid-Atlantic Regional is at Buffalo, 15–18 February 1977. A classified ad shows the labour
+market: a camp director with seven years' experience advertising for a full-time position.

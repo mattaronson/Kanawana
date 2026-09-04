@@ -1,7 +1,7 @@
 # Taylor Statten and the Canadian Camping Movement
 
-*Status: E1-reviewed | Sources: 8*
-*Last Updated: 2026-07-10*
+*Status: E1-reviewed | Sources: 10*
+*Last Updated: 2026-09-04*
 
 ## Overview
 
@@ -39,6 +39,16 @@ Rather than picking one source as correct and discarding the others, the three a
 
 On May 20, 1936, the Canadian Camping Association was founded at the Central Y.M.C.A. in Toronto, with Statten as first president and Mary Edgar as first vice-president.^6 Statten was also elected president of the American Camp Association in 1942 but resigned due to illness; Vice-President Wes Klusmann assumed responsibilities.^7
 
+## The Memorial: Fund, Lecture, Fellowship
+
+Statten's death on 1 November 1956 was followed by a memorial apparatus that outlived him by decades and that the camping press documents at three separate points. J. Alex Edmison's memorial essay, written to launch the **Taylor Statten Memorial Fund at the University of Toronto**, reports that the fund had raised **over $20,000 from 400 contributors** in Canada and the United States, made its **first grant in 1962** to students entering "the human service professions", and was intended to extend later to lectureships and research grants, awarded "without respect to race, religion or nationality."^9
+
+The lectureship came first. The **first Taylor Statten Memorial Lecture** was delivered on **24 March 1962** in the Great Hall at Hart House, at the closing banquet of the Ontario Camping Association's conference, by **Professor Charles Hendry** of the University of Toronto School of Social Work — Statten's collaborator on *Camping and Character* — under the title "Toward a New Understanding of Leadership." Joseph McCully, Warden of Hart House, hosted for the Fund, and the committee undertook to print the text and make it available to *Canadian Camping* members that autumn.^9
+
+By 1976 the fund had matured into a named award. The **Taylor Statten Memorial Fellowship**, announced in the association's December 1976 newsletter, carried an **annual value of $1,000**, was open to applicants from any Canadian university and tenable at any university thought appropriate, and supported **post-baccalaureate study in any professional field related to youth services** — "such as, but not restricted to, physical and health education, psychology, teaching, the ministry, and social work." Applications closed on 1 March, required a transcript and three letters of recommendation, and **only candidates under the age of 25 were considered**; selection was by the Taylor Statten Memorial Fund Committee, with forms issued by the Office of Student Awards at Simcoe Hall.^10
+
+The fellowship's terms are worth noting for what they say about how Canadian camping understood itself twenty years after Statten's death: the memorial to the movement's central figure was not a camping prize but a graduate award in youth services generally, administered by a university rather than by the association.
+
 ## Connection to Kanawana
 
 Statten's influence on Kanawana was primarily indirect: through the CSET program adopted by YMCA camps nationally, the Indian Lore programming model, and the CCA organizational framework. Concordia University Archives contain Taylor Statten weekly letters from 1915, suggesting an early connection to the Montreal YMCA network that has not yet been explored.^2
@@ -74,6 +84,8 @@ Taylor Statten Camps first sent groups to Quetico in 1965 as part of the OCA Cen
 6. Canadian Camping Association, "History," https://www.ccamping.org/history
 7. ACA Presidents History, https://www.acacamps.org/about/history/presidents — Statten elected 1942, resigned due to illness; Esther Waldo of the YWCA held the separate 1941 term. (Direct re-fetch 2026-07-08 corrected an earlier misreading of this same page that had placed Statten under 1941 — conflict c_003 resolved.)
 8. Burry, Donald. *A History of the Taylor Statten Camps.* MA thesis, University of Saskatchewan, 1985 — read in full 2026-07-09 [src_burry_thesis_1985].
+9. J. Alex Edmison, "Taylor Statten," and "An Historic Occasion," *Canadian Camping* Vol. 14 No. 4 (June 1962), pp. 163-165 [src_ia_canadian_camping_collection]. Found by the full word-for-word read of the run (`kb/reread/cc_findings.md`, issues 62-63).
+10. "Taylor Statten Memorial Fellowship," *Canadian Camping* Vol. 28 No. 5 (December 1976), p. 2 [src_ia_canadian_camping_collection]. Found by the same read (issue 110).
 
 ## Research Notes
 

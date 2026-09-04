@@ -2163,6 +2163,13 @@
           "at": "2026-09-04",
           "by": "auto",
           "task": "RESEARCH"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-09-04",
+          "by": "auto",
+          "task": "RESEARCH",
+          "note": "Word-for-word read of Canadian Camping, issues 109-110: new paragraph 'The government arrives alongside the association, 1976' -- the High Commission of Leisure and Sports funding a full-time provincial camp-training post inside the ACQ-QCA (October 1976), the Quebec Department of Labour's proposed six-foot limit on camp waterfront depth and the new Day Camp Standards Committee (December 1976), and the parallel pattern of government grants conditional on accreditation in New Brunswick, Saskatchewan and Manitoba. Lettered sub-source 8z added; header count unchanged at 13."
         }
       ],
       "ralph_loops_completed": 1,
@@ -4561,6 +4568,13 @@
           "at": "2026-07-11T00:00:00Z",
           "by": "auto",
           "task": "REVIEW"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-09-04",
+          "by": "auto",
+          "task": "RESEARCH",
+          "note": "Word-for-word read of Canadian Camping, issues 62-63 and 110: new section 'The Memorial: Fund, Lecture, Fellowship' -- the Taylor Statten Memorial Fund at the University of Toronto (over $20,000 from 400 contributors, first grant 1962), the first Memorial Lecture by Charles Hendry at Hart House on 24 March 1962, and the mature Taylor Statten Memorial Fellowship of December 1976 ($1,000 annual, post-baccalaureate youth-services study, under 25). Sources 8 -> 10."
         }
       ],
       "ralph_loops_completed": 3,
@@ -4590,7 +4604,8 @@
         "f_1919"
       ],
       "sources_cited": [
-        "src_burry_thesis_1985"
+        "src_burry_thesis_1985",
+        "src_ia_canadian_camping_collection"
       ],
       "open_questions": 5,
       "cross_links": [
