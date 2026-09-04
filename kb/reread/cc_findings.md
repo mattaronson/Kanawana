@@ -13436,3 +13436,233 @@ Nothing in this issue names Kanawana. Its value is Poole on insurance — includ
 Workmen's Compensation, named-insured-counsellor and corporal-punishment-exclusion passages —
 Flynn's off-season shutdown procedure, Doug McEwen dated as CCA president, and the 1906
 Northway *Camp Chats* datum for the founding conflict.
+
+---
+
+## 81. Vol. 21 No. 2, Winter 1969 — `canadiancampingmagazine_vol21_no2_1969winter.txt`
+
+*Contents page*: New and Old (Al Browning); Birds a Health Problem at Camp (J. H. Ebbs,
+M.D.); Camping Goes to School(S) (Bruno Morawetz); Then and Now (Margaret Govan); Up and At
+It! (Morawetz and Eanswythe Flynn); New Directions (Elizabeth Lowry); Camping in the North
+(Jean-Paul Patinaude). All seven checked against the read; all covered below.
+
+**Officers unchanged** from Fall 1968 (McEwen president, Edgar honorary president, Winnipeg
+office). Two changes worth noting: **Mary L. Northway is added to the editorial committee**,
+and the cover carries provincial-association crests including a **Newfoundland and Labrador
+Camping Association** one. Quebec still 2233 Belgrave Ave.
+
+**Albert D. Browning, "New and Old" — a founding account of the Newfoundland and Labrador
+Camping Association**, useful as a comparison case for how a provincial association forms.
+Resident camping in Newfoundland "has a history of just over 20 years," the first camp
+established at **Lewisporte in 1946 by the United Church of Canada**, later moved to Loon
+Bay; the United Church added **Fair Haven** (west coast) and **Burry Heights** (east); the
+Anglican Church runs **Killdevil** (Bonne Bay) and **Mint Brook** (Gambo); the Salvation Army
+runs **Northern Arm** (near Botwood) and **Camp of the Silver Birches** (Deer Lake). YMCA and
+YWCA operated **day camps only**. Association chronology: exploratory meeting sponsored by
+the Physical Fitness Division of the Department of Provincial Affairs, **30 March 1965**;
+organization, officers and constitution **31 January 1966**; first conference for directors
+and committee members, St. John's, **29–30 January 1967**, main resource person **Gerald
+Schofield, YMCA, Ottawa**; second conference at Memorial University, January 1968; leadership
+training weekends 1967 and 1968, resource leaders **Barbara Murphy** (National Day Camp
+Leadership Training Director) and **Jack Pearse** (Waterloo); **received as affiliate members
+of the CCA in September 1968**. Candour about the difficulty: "in 1966, our first year of
+existence, we had no less than three Presidents!… Due to so few having camping experience it
+has not been easy to enlist an executive." Executive: Hon. Chairman **Dr. G. A. Frecker**;
+Past President **Dr. Douglas Eaton**; President **Major Al Browning**; VP **Rev. A. B.
+LeGrow**; Secretary-Treasurer **Marjorie Ball**, "the only charter executive member";
+government adviser **Graham Snow**. The detail that lands: for outport campers, camp meant
+"going to Camp to see your first train, an opportunity to see an overseas ship." And a
+regulation peculiar to the province — a campfire "must always be located three feet from a
+body of water during the summer months in Newfoundland."
+
+**★ J. H. Ebbs, M.D., "Birds a Health Problem at Camp."** The same Ebbs who signed Wallace
+Forgie's obituary at issue 77 (Forgie's nephew by marriage, hence Taylor Statten's
+connection). Here he is writing as the movement's medical authority. Content: *Aspergillus*
+fungus from bird droppings inhaled from cage and hut dust, producing asthma-like attacks with
+fever and cough lasting 24–36 hours; **"Bird Breeders' Lung"**, from repeated pigeon-house
+contact, "recognized recently," with severe asthmatic breathing, weight loss, and chest X-ray
+showing mild-pneumonia-like reaction and later fine lung scarring; bird-borne **viral
+encephalitis** via droppings or mosquito bite; **psittacosis** from parrots and pigeons, 1–2
+weeks of fever and cough, "often thought to be a case of bronchitis"; **Salmonella** in eggs,
+traced to dried eggs used in pastry mixes, causing minor epidemics; **avian tuberculosis**,
+rare; waterfowl infecting stagnant water; and fleas or lice leaving abandoned nestling nests
+to invade a tent or cabin and feed on humans, "bright red, itchy spots." His conclusion:
+**"The keeping of pet birds in camp should be considered seriously since the risk of
+infection cannot be ignored"**; campers with allergies kept from cages; wild birds dead or
+alive and their nests left alone; "it is much safer to observe birds in their natural state."
+This is a **camp-medicine and camp-health-policy source**, and a data point on when camp
+nature programmes stopped keeping live specimens.
+
+**★ Bruno Morawetz, "Camping Goes to School(S)"** — the direct sequel to his issue 79 piece,
+and the single best account in this run of the moment when organized camping's educational
+claim passed to the school system. From the **second Ontario College of Education outdoor
+education conference, Geneva Park, Lake Couchiching, weekend of 15 November 1968**, which he
+attended as CCA Outdoor Education Committee chairman. Substance:
+
+- The definitional problem: "there is a great divergence of opinion even among those engaged
+  in outdoor education." His own framing — outdoor education "is not one subject among
+  others… it is a method of teaching any subject in the out-of-doors" (measuring board feet
+  in a log, the velocity of a stream; social studies sparked by an abandoned settlement, an
+  old cemetery, an old mill).
+- **Dr. John Kirk**, Director of the **New Jersey State School of Conservation**, keynote,
+  with the definition worth quoting whole: *"Outdoor Education is the method which utilizes
+  the out-of-doors to cultivate a reverence for life through an ecological exploration of the
+  interdependence of all living things, one on the other, and to form a land ethic
+  illustrating man's temporary stewardship of the land."*
+- **Bill Peruniak**, Associate Dean of the new **McArthur College of Education at Queen's**,
+  the man behind the **Atikokan High School Outers' Program** — Grade 11 students on an
+  extensive spring canoe trip and winter snowshoe hike with year-round preparation, modelled
+  on Outward Bound and inspired by **Bob Pieh** of the Wisconsin Outward Bound school, now on
+  the McArthur staff. This is the fuller account of the Atikokan programme he mentioned in
+  passing at issue 79.
+- Scale figures: **London Teachers' College sends a hundred students a day** to an outdoor
+  field centre; **North York sends five hundred pupils every day** to a leased property that
+  is "in effect, a summer camp, a privately operated day camp."
+- **Dr. Emerson**, Anthropology, University of Toronto, "receives daily calls from eager
+  teachers who would like to take their classes on a 'dig'", and is training people to lead
+  them; **"In all parts of our country Indian sites are being discovered."** Worth flagging
+  as a period attitude, not endorsed: school archaeology on Indigenous sites, described in
+  1969 without any mention of consultation or permission.
+- His observation about who was in the room: **"most educators riding on the outdoor
+  education bandwagon received their initial impetus through organized camping. Most of them
+  were former campers, counsellors, section heads or directors."**
+- The consequences he foresees for camps: teachers spending vacation time in camps to learn
+  informal handling of children, possibly for credit; **school boards seeking camps for daily
+  or weekly use**; and **"camps may find it advisable to winterize so that their facilities
+  could be used during the entire year by the nearby school boards."** Held against
+  Kanawana's own record, this is the national context for any later winterization or
+  school-group use at the camp, and a specific thing to look for in the annual reports of the
+  1970s.
+- **A World Council for outdoor education is being formed and thirty-five nations have
+  expressed a definite interest** — the count has risen from the sixteen named at issue 80.
+- His closing note on equity: until now camping "has been reserved for the few well-to-do, or
+  those fortunate enough to be sponsored by agency camps." Kanawana was one of the agency
+  camps he means.
+
+**★ Margaret Govan, "Then and Now" — the small camp's economics, told against itself.** The
+first half is memoir: taking the oldest cabin on a day trip, "seated on a cushion in the
+centre of a canoe with a back-rest, if you please," eight campers in white bathing caps all
+wanting to swim underwater until "my nerves were slightly frayed," girl talk about "dates and
+vocations, parents and hair-do's," gunwale bobbing, a moonlight paddle back; the "appalling"
+youngest seniors who turned out only to need "a younger programme, and less expected of
+them"; and a dragonfly watched out of its chrysalis and then eaten by a frog — "That took
+some explaining… quite inadequate. So we all went in for an un-scheduled skinny." The second
+half is the argument. **A counsellor's cost above and beyond salary: "$167.00 per summer,"**
+from a director with a mathematical mind — a rare hard overhead figure for 1969. Then the
+administrative load on a small camp: a land-use questionnaire and a reporter over breakfast;
+a Department of Agriculture man asking whether garbage was fed to pigs (it must be pasteurized
+"in a very particular fashion"); **five health inspectors in one day "because we have a
+lagoon"**, on top of the ordinary inspection; a post office inspector, because the camp has a
+post office; a water authority wanting daily forms, over which "my senior hired man was all
+for resigning on the spot"; wet-day visitors; and "all the financial inspectors… pensions,
+deductions at the source, workmen's compensation, and unemployment insurance," whom she must
+see personally because "I am the responsible person" and a year-round accountant "would also
+cost more than my total profit." Her conclusion is the structural one: **"So I must have a
+larger camp. Large camps have a vital place in children's lives, but so do small ones. I think
+some children are going to lose out."** That is the regulatory-cost explanation for camp
+consolidation, stated by a small operator in 1969 — directly relevant to how an
+institutionally-backed camp like Kanawana survived a period that closed private ones.
+
+**★ Morawetz and Flynn, "Up and At It!" — a pre-season preparation checklist**, the spring
+counterpart to Flynn's autumn shutdown list at issue 80, and the same order of
+physical-plant source. It cites an earlier one: **"Check your Conference Digests… One in
+particular, in the 1967 issue, is written by Mr. Bill Swift of Camp Pathfinder; a
+month-by-month checklist"** — a named lead worth chasing. Their own headings: **Health
+Department** — apply for the camp licence, carry out last summer's inspector's
+recommendations, order water-testing kits, chlorinating supplies, window screen, jon vents.
+**Public relations** — first newsletter to parents and campers, brochures and applications,
+slides and films prepared for parent showings, year's supply of booklets, letterhead and
+envelopes, participation in the local camping association, leadership seminars.
+**Transportation** — bus-line arrangements and a list of counsellors to chaperone.
+**Government requirements** — T4 forms and "all other necessary forms for income tax and
+Canada Pension Plan purposes, including application form for gasoline tax refund."
+**Maintenance** — buildings, repairs, additions, "condition of docks after winter wear,"
+chimneys, fire extinguishers refilled or replaced, fences, gates, **jons shored up, repaired
+and painted**, water lines, taps and T's checked for leaks. **Kitchen** — new menus, food
+ordered early to be first on the delivery list, kitchen staff settled early with **TB tests
+and medical check-ups**, stoves, propane, wood stoves and fireplaces checked, hydro asked to
+turn on the hot water tank. **Staff** — advertise, prepare job descriptions, mail
+applications, health forms and contracts, require pre-camp health examination, **"Invite
+C.I.T.'s to return."** **Programme** — games supplies, tennis nets, court surfaces, diving
+board, flutter boards, reaching poles, plus "jot down ideas for Sunday talks; write outline of
+talks if possible" and "one or two themes in mind to suggest for closing banquets." **General
+supplies** — lumber, paint, nails, sand, gravel, cement kept under cover, and mattresses
+ordered "for best value rather than lowest price."
+
+**Elizabeth Lowry, "New Directions in Education."** A long account of the four-year-old
+**Ontario Institute for Studies in Education** — 550 staff on eleven floors at 102 Bloor
+Street West, director **Dr. R. W. B. Jackson** — written for camp counsellors on the premise
+that "the adolescent's traditional restlessness appears heightened, his attitude toward school
+turned into hostility." Covers **Dr. Carl Bereiter's** intensive pre-Grade-1 programme for
+five-year-olds from low-income downtown Toronto homes (ten hours a week of academic work
+alongside kindergarten, tested in eleven classrooms), a parallel class for fifteen children of
+immigrant parents, motivation research seeking "psychological benchmarks" of readiness, group
+counselling for underperforming students, sociology of drop-out and retention, the Educational
+Clinic's work on reading, emotional and sensory disabilities using videotape, adult education
+and the new Community Colleges of Applied Arts and Technology, and research on **school
+district size versus educational quality**. Its interest here is contextual rather than
+factual: it is the vocabulary — "culturally deprived," "disadvantaged," "inner cities" — in
+which the camping movement's own social mission was being restated at the end of the 1960s,
+and it should be read that way when the same language appears in a camp's own reports.
+
+**★ Jean-Paul Patinaude, "Camping in the North" — organized camping in the Northwest
+Territories, from its beginning.** "It all started in **1965** when a local member of the
+clergy from **Yellowknife** decided to take a group of 'toughies' into the bush for a couple
+of weeks." **Fort Resolution** followed the same year; **Hay River**, "Hub o' the North," sent
+representatives to the leaders' workshop and the Yellowknife camp. **Clergy promoted the
+camps but they were run non-denominationally.** By **1966** the town people took it up and the
+**N.W.T. Camping Association** "really became a community endeavour," with committees, money
+raised, and support "mostly from the N.W.T. Department of Recreation." As of Winter 1969 two
+associations exist — **Young Campers Association (Yellowknife)** and **Centennial Campers
+Association (Hay River)** — and **Fort Resolution has abandoned its camps "for special
+reasons."** Programme is set by terrain: no horses, water too cold for sailing, lakes too
+small for surfing — so hiking, canoeing, archery, swimming, riflery, bush games, campfires,
+outdoor cooking, with **hikers and canoeists trading places at a rendezvous after a night
+out**. Yellowknife camp is 21 road miles out; Hay River's Sandy Creek camp is reached across
+Great Slave Lake or four miles on foot. Near-total daylight in May and June makes night games
+impossible. Fresh fish, ducks, and — that summer — bear meat, three bears having come around
+camp under "strict orders to kill them on sight." **"Approximately one-half of the camping
+personnel is Indian: no segregation here,"** with local staff "very gifted in nature
+activities such as hiking and canoeing for the boys and games and leather handicraft (beadwork
+and moccasins) for the girls," students sent to Banff or Edmonton for canoeing, swimming and
+orienteering training. Counsellors are "always on duty during the whole period of the camp.
+There is a day off in between camps only!" He names the tensions frankly — "certain 'racial
+problems' which might arise during the camp since we have a mixture of Indian, metis and
+white, all coming from different milieux" — and, in the same piece, writes that "many Indian
+children do not necessarily live in the best of conditions in their homes. This is a fact, and
+we must face it." **Record it as written and read it as of its date**: this is a 1969
+non-Indigenous camp organizer's account of Indigenous children and staff, valuable as evidence
+of how the movement talked about the North and about Indigenous participation, and not as a
+description to be repeated in this project's own voice. It belongs in the same file as the
+`indigenous-place-names-and-land-history` work.
+
+**★ British Columbia's accreditation machinery, described — the closest parallel to the
+Quebec round Kanawana was almost certainly in.** "News From The Provinces," quoting **Mrs. W.
+L. Russell** of the BCCA executive: **visitation teams went to fourteen camps** in the past
+season; **teams of two or three used a questionnaire supplemented by a written report**; the
+reports "are now to be turned over to a **Review Committee of three**." Her difficulty is
+telling: "It was quite difficult to find people for this who are knowledgeable about the
+camping field and yet not directly connected with the camps that were visited." The editor
+asks for the Review Committee's findings for a later issue — **a specific thing to watch for
+in the 1969–70 issues.** This is procedurally identical to Murray McFarlane's 27-camp Quebec
+round (issue 70): questionnaire, written report per camp, filed with a standards committee.
+It strengthens the case that **a written QCA report on Kanawana exists** and describes what it
+would look like.
+
+**Smaller items.** Two camps advertised for sale — one of 200 acres with a private lake,
+dining hall seating 70 and sleeping accommodation for 36 (D. H. Coombes, Weston). A named
+insurance schedule for comparison with Poole at issue 80: **Canada Health & Accident's "Camp
+Care Plan No. 4" at 50¢** — $3,000 accidental death, $3,000 sickness, $3,000 dread disease,
+$200 accidental dental, $50 ambulance, covering "7 days at camp PLUS 2 days of travel," the
+rate applying "where there is a resident physician on the camp staff." **J. H. Beattie** of
+Toronto advertises as outfitter to **Camp Tawingo, Manitou-Wabing Camp of Fine Arts, and
+Kilcoo Camp**. **Gibbons Foods** now sells **"Camp-Rite" ready-to-go food units "packed in 4
+man water-proof packages"** — trip rations as a commercial product — and **Freeze-Dry Foods
+Ltd.** of Oakville advertises freeze-dried trip food "thoroughly tested in the Canadian
+North."
+
+Nothing in this issue names Kanawana. Its value is Morawetz on the schools taking over
+outdoor education (including the winterization prediction), Govan on why small camps were
+being squeezed out, Ebbs on camp bird-borne disease, the BC accreditation procedure as a model
+for the Quebec report this project is looking for, and the two seasonal checklists as
+physical-plant source material.
