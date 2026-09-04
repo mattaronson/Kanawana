@@ -1,6 +1,6 @@
 # Environmental Education and Stewardship at Kanawana
 
-*Status: E1-reviewed | Sources: 39*
+*Status: E1-reviewed | Sources: 40*
 *Last Updated: 2026-09-04*
 
 ## Overview
@@ -122,7 +122,7 @@ Three months later the association turned the subject into something a camp coul
 
 This is the only item in the run that is neither a policy, an article nor a standard but a **physical teaching package addressed to camps**. Kanawana was a member camp of the association and was therefore eligible; **whether it ordered a kit is not known and is not claimed here.** Two things follow. A list of participating camps, with camper counts, once existed at the National Survival Institute — worth asking for. And a colouring poster and a North American acid-rain map are the kind of object that survives in a craft cupboard, a scrapbook or a cabin wall long after the paperwork is gone, so they are worth asking former staff and campers about by name.
 
-The same issue records the committee's own next step. **Peter Rasberry**, its chairman, reported that "**the first task of the committee is to prepare an Environmental Ethic — a statement of our values and concerns for our natural world. This ethic will become the basis for a set of principles and practices (personal and institutional) to guide us in continued enjoyment, appreciation, and sensible interaction with Nature**", and asked provincial environmental committees to send representatives, since the working core was "necessarily formed by folks living somewhat close to each other — in this case — Southern Ontario".^39 That is the stage after the twenty Environmental Maintenance Standards of 1979 described above: a national statement of environmental ethics under drafting in 1982, which if completed would have gone to every accredited camp. Whether it was finished is not known to this project and is worth pursuing in the CCA fonds at Trent.
+The same issue records the committee's own next step. **Peter Rasberry**, its chairman, reported that "**the first task of the committee is to prepare an Environmental Ethic — a statement of our values and concerns for our natural world. This ethic will become the basis for a set of principles and practices (personal and institutional) to guide us in continued enjoyment, appreciation, and sensible interaction with Nature**", and asked provincial environmental committees to send representatives, since the working core was "necessarily formed by folks living somewhat close to each other — in this case — Southern Ontario".^39 That is the stage after the twenty Environmental Maintenance Standards of 1979 described above: a national statement of environmental ethics under drafting in 1982, which if completed would have gone to every accredited camp. Whether it was finished is not known to this project, but it slipped: three months later the committee reported that the ethic "**initially… was to be completed by March 1982, as per the CCA/ACC Action Plan, but this date has now been extended to September 1982**", with drafting help from **Jim Hopkins, Tom Knowlton, Grant Linney, Diane Bertling and Susan Erskine**, joined by Kevin Moore of Newfoundland, Rob McIntosh of Alberta and John Jorgenson of Ontario.^40 September 1982 is therefore the date from which to look for a finished text, in the CCA fonds at Trent or in the association's own newsletter. The same report records the committee's other two subjects that spring — circulating the National Survival Institute's Acid Rain Education Kit to member camps, and "the potential for input by our association to the development of **skills programs in Canada's National Parks**" — both driven by the executive director, Marjorie Booth.^40
 
 ### The 1970 erosion crisis
 
@@ -241,6 +241,7 @@ The Canadian Summer Camp Research Project (CSCRP, 2006–2011), conducted by the
 37. "Acid Rain," reprinted from *The Probe Post* (Probe, 43 Queen's Park Crescent E., Toronto), in *Canadian Camping* Vol. 31 No. 5 (October 1979), pp. 3, 9-10 [src_ia_canadian_camping_collection]. Found by the same read (issue 127).
 38. "Preservation of Wildlife and its Habitat: just one aspect of Stewardship," a fact sheet prepared by and reprinted with the permission of the National Survival Institute, 229 College St., Toronto, in *Canadian Camping* Vol. 33 No. 5 (October 1981), pp. 3-4, 15, 21-24 [src_ia_canadian_camping_collection]. Found by the same read (issue 139).
 39. "Announcing: Acid Rain Awareness Twinning Project" and Peter Rasberry, "From the Environment Committee," *Canadian Camping* Vol. 33 No. 6 (Winter 1982), pp. 14-15 [src_ia_canadian_camping_collection]. Found by the same read (issue 140).
+40. Peter Rasberry, "Environment Committee," in the CCA/ACC Annual Report 1981, *Canadian Camping* Vol. 34 No. 2 (Summer 1982), pp. 9-10 [src_ia_canadian_camping_collection]. Found by the same read (issue 142).
 
 ## Research Notes
 
