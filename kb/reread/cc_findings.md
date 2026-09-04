@@ -23100,3 +23100,103 @@ of bread at lunch; iced water offered alongside milk to cut beverage costs; panc
 because they save the kitchen a second item. And a **position-wanted advertisement placed through a
 CCA box number** — "Service Agency Director/Camp Director… **The above applicant is available now**"
 — the association running a blind hiring channel for its members.
+
+---
+
+## 132 — Vol. 32 No. 4, June 1980
+
+Twelve pages, nine of them one document. Every item accounted for: Concerns About Canoe Tripping —
+the full report of the Society of Camp Directors' survey by Michael Hoyer, with Tables I to V;
+Provincial Offices; the Identifab and Royal Chinet advertisements; Classified; Publications.
+**Kanawana is not named.**
+
+**★★★★★ THE WHOLE SURVEY, WITH ITS TABLES — the only quantitative picture of Canadian camp tripping
+practice this project has.** Written up by **Michael Hoyer, assistant camp director of Camp Oconto**,
+with thanks to **Mary Northway and the Neathern Trust** for "moral and financial support". Its first
+paragraph explains the entire 1979-80 exercise this read has been following since issue 122:
+
+> "**Following a number of tragic canoeing and tripping accidents in Canada, the Society of Camp
+> Directors became alarmed to hear of the number of organizations and associations which initiated
+> plans to establish yet more sets of standards and rules** which many felt should then be imposed on
+> camps… There seemed to be little direction or concerted purpose in these deliberations. **The
+> Society felt that perhaps our greatest contribution to wilderness travel safety in this country
+> would be to gather information as to the practices which presently exist in Canadian Camps.**"
+
+Note "**a number of tragic canoeing and tripping accidents**", plural — which slightly enlarges the
+picture from the single 1978 Quebec incident the editorial named (issue 122), and is worth carrying
+into `p_322`.
+
+**Method**: about **120 questionnaires** to resident, agency, church, private and outdoor-education
+camps and tripping businesses; **about 60 responses**; mostly resident camps offering mixed
+activities; majority Ontario members but **eight provinces represented**. Trips classified as
+**short** (1-2 nights), **moderate** (3-5), **long** (6-9), **extended** (10+).
+
+**Written into `traditions/canoe-trips.md` as a new section, "What a Canadian camp canoe trip looked
+like in 1980" (source 16)**, because it gives the national norms against which Kanawana's La
+Vérendrye programme can be read. The substance:
+
+- **Leaders**: minimum age **18** on short and moderate trips, **19-21 on extended**; **Bronze
+  Medallion** the usual swimming qualification throughout; canoeing qualification usually "experience
+  or a test set by the camp", with Senior OCA or CRCA III/IV only on longer trips; one to two years'
+  experience minimum, two to four on extended. **Assistants 17**, or 18 on extended.
+- **Ratios** about **1:5**, tightening to **1:3** on long trips.
+- **Campers** from **eight on short trips (average ten)**, ten on moderate, **fourteen on long and
+  extended**; qualifications almost entirely the camp's own tests.
+- **Equipment** in ranked order: **first aid boxes, water purifiers, towing ropes, stern lines,
+  bailers, swede saw, spades, long handled axe, wanigans and hatchets** — with "**many camp directors
+  expressed the concern away from the use of hatchets or axes, stating that there is usually enough
+  brush available**", which is the leave-no-trace argument reaching the kit list. Bailers were cans,
+  cups, **Javex bottles**, sponges, billy cans, pots and buckets.
+- **Hulls**: "**Two thirds of the camps still use the canvas canoe; half, the aluminum or fibreglass.
+  Few are using the newer plastic models**" — **in 1980 the canvas canoe was still the Canadian
+  camp's normal boat**, which bears on how any undated photograph of Kanawana's fleet is read.
+  Standard **16 or 17 feet**, a few "**war canoe**" types; half required a spare paddle per canoe;
+  **three to a canoe** most favoured; trips of six minimum, nine or twelve average.
+- **Flotation, and this is the sharp finding**: five years after the November 1975 regulation,
+  "**about a third of the camps maintain a standard that makes wearing a lifejacket mandatory on
+  trips. Others just expect it in rough weather, when the leader deems it**". The law required a
+  device to be **carried**; two-thirds of camps had not gone on to require it be **worn**.
+- **Practice**: a rest day about one in five on longer trips; night tripping not favoured; existing
+  campsites preferred; garbage "burned and carried out"; town visits discouraged; **campers not
+  allowed to smoke, staff smoking divided, alcohol "overwhelmingly rejected for staff on trips"**;
+  campers "quite involved in route and menu planning, packing and the program"; the trip group met
+  the director before departure in two-thirds of camps.
+- **Records**: "**Logs are kept for future occasions, evaluations of campers for post camp
+  evaluations, staff evaluations for future reference, are all carried on in some form or other**" —
+  **a fourth record class to seek in Kanawana's papers**, alongside the nine standard forms of issue
+  130: trip logs, and camper and staff evaluations written from trips.
+- **Only 15 camps** treated white water canoeing as integral; the skills taught where it was: river
+  reading, position in white water after upset, scouting the shore, high and low braces, lining and
+  tracking, rescue procedures, eddy turns.
+- **Accident prevention**: directors preferred **discussion** over instruction, on physical
+  accidents, first aid, inclement weather, hypothermia, missing camper, loss of canoe, fire, animal
+  hazards, navigation, loss of food packs, missing staff, intruders, emergency use of private
+  property, evacuation and search. And one honest admission: on **emotional stress** in campers,
+  "there were two opinions. One was that directors did not really cover this aspect in pre-camp, and
+  expected their staff to be on top of this. The other group did discuss it but **suggested that
+  probably they did not do it justice**."
+- **Values sought**: for younger campers, "coping with the new experience, enjoyment, instruction in
+  basic camp craft and canoeing, cooperation, environmental awareness"; for older, "**small group
+  association with challenge**, cooperation, ecological concern, appreciation for outdoor living,
+  friendship."
+
+Hoyer's closing note — "**the questionnaire and the tabulated responses can be obtained from the
+C.C.A. office**" — means a full data set once existed on paper. **`p_322` updated** to ask Trent for
+it by that description, and to try the **Neathern Trust** and **Mary Northway's own papers** as
+alternative routes, since a funder's file may hold an instrument the association's does not. Still
+open: neither the report nor the free-text answers names the 1978 Quebec incident.
+
+**★ The Quebec entry is again ACQ only.** The provincial offices list carries "**Association des
+Camps du Québec — M. Raymond Bonneau, President — 1415 est, rue Jarry**" and no English section, a
+second consecutive listing (issue 128), which slightly strengthens — without proving — the reading
+recorded in `canadian-camping-movement.md`. New presidents elsewhere: **Rick Ryan** (BC, at the Boys
+and Girls Clubs address), **Jean Funk** (Alberta), **Mike Walters** (Saskatchewan), **Terry
+Burkhalter** (Manitoba, interim), **Debbie Cooper** (New Brunswick, at the Saint John YWCA — Marjorie
+Booth's old office).
+
+**★ "Campfire Programs with Jack Pearse" is out**, $4.00, the second Camp Tawingo publication, with
+*Sing with Jack Pearse* still at $4.00 — both for `p_311`. New titles on the CCA list include *Save
+the Earth, an Ecology Handbook for Kids*, *Beyond Competition*, and, on order, **Karl Rohnke's
+*Cowstails and Cobras***, **Terry Orlick's *Winning Through Cooperation***, ***Inuit Games***, and
+the ACA's ***Fifty Years of Resident Outdoor Education*** — the co-operative-games and
+outdoor-education literature arriving in Canadian camping together, and datable to 1980.
