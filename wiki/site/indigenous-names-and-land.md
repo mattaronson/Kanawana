@@ -1,6 +1,6 @@
 # Indigenous Place Names and Land History
 
-*Status: R3-verified | Sources: 19*
+*Status: R3-verified | Sources: 20*
 *Last Updated: 2026-09-04*
 
 ## Overview
@@ -70,6 +70,8 @@ Whatever the Indian theme meant to the people who ran Canadian camps, its centra
 
 Two things are worth saying about it. The first is what it is: a white naturalist's idealised composite, framed in the past tense and in the singular — "the Indian" — presented to camp directors as a model of character for their campers. The second is when: this was reprinted without comment or context in **1978**, eight years after the Red Power movement, five years after Wounded Knee, and in the same run of the same publication that had by then carried Mary S. Edgar's and Jack Eastaugh's more self-conscious pieces on the same subject.^15 ^16 The framework this article traces from Seton through Statten into Kanawana's council ring (see [[site/council-ring|The Council Ring]]) had not been retired by the camping establishment; it was still being handed on as it stood.
 
+**What changed after that, and what did not.** The same publication printed two further Indigenous-themed texts in the next three years, and the sequence is worth recording because it shows the shift under way. In May 1979 the obituary of C. R. Blackstock closed with **Chief Dan George's "And My Heart Soars" printed in full** — a living Tsleil-Waututh writer's poem, given as the summary of a camping life.^20 In April 1981 the editorial page carried "**Great Spirit Make Me**", headed "**Translated from the Sioux**", with the editors' hope that campers that summer "will be helped to be more aware of the earth and how we may all get along with one another."^20 So within three years the movement's Indigenous-themed material moves from a white naturalist's composite creed, presented as ethnography, to attributed and translated Indigenous texts, presented as prayer. The framework itself — the borrowing, the use of Indigenous voice as camp devotional material — is unchanged; the sources it draws on are not.
+
 ## Pre-Colonial and Land History
 
 The Weskarini Algonquin were dispersed by Iroquois warfare in the 1650s; a major massacre occurred in 1653 near Petit Lac Nominingue, northwest of Arundel — roughly 70-80 km north of the Camp Kanawana site, but within the same territorial zone.^12 Archaeological fieldwork in the Laurentians since 2015 (researchers Francis Lamothe, Karine Taché, and Roland Tremblay) has shown that the Laurentian landscape was integrated within Indigenous interaction networks spanning several regions of the greater Northeast — evidence of land use long predating European settlement.^12 The camp's watershed, the Rivière du Nord, flows approximately 125-137 km from Sainte-Agathe-des-Monts through Val-David, Sainte-Adèle, Saint-Sauveur, Prévost, and Saint-Jérôme before reaching the Ottawa River at the Lake of Two Mountains.^12
@@ -114,6 +116,7 @@ The Kanawana site sits in the municipality of Saint-Sauveur, in the Laurentian h
 17. Bruno Morawetz (Director, Camp Ponacka), "The Importance of the Unimportant," *Canadian Camping* Vol. 27 No. 4 (June 1975), pp. 3-4. Found by the full word-for-word read of the run (`kb/reread/cc_findings.md`, issue 105).
 18. Bob Attfield (Camp Ponacka), "Camp Hoax Costs Director $25,000 in Legal Damages," *Canadian Camping* Vol. 24 No. 3 (Spring 1972), pp. 18-19. Found by the same read (issue 94).
 19. "The Indian's Creed," reprinted from Ernest Thompson Seton, *The Book of Woodcraft and Indian Lore* (Doubleday, New York), in *Canadian Camping* Vol. 30 No. 1 (February 1978), p. 6 [src_ia_canadian_camping_collection]. Found by the same read (issue 117).
+20. "Great Spirit Make Me," headed "Translated from the Sioux," with the accompanying editorial note, *Canadian Camping* Vol. 33 No. 2 (April 1981), p. 5 [src_ia_canadian_camping_collection]. Found by the same read (issue 136). Chief Dan George's "And My Heart Soars" appears in Adele and J. Harry Ebbs, "In Memoriam — 'Blackie'," Vol. 31 No. 3 (May 1979), p. 7 (issue 125).
 
 ## Research Notes
 

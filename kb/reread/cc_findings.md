@@ -23541,3 +23541,94 @@ departure and return. Keep this all on file.**" A camp hike file, with routes an
 record class. And the road rules of the period: "**Two counsellors go on each hike, with one at the
 head of the group and one at the rear. When on the road, walk at the left side, single file, facing
 the traffic.**"
+
+---
+
+## 136 — Vol. 33 No. 2, April 1981
+
+Eighteen pages, almost all of it reprinted American safety material. Every item accounted for: Fire
+Safety (reprinted from the U.S. Department of Health, Education and Welfare, Public Health Service,
+Center for Disease Control, continued pp. 10-11); Great Spirit Make Me; Cold Water Survival
+(reprinted from *All About Boating*, autumn 1975); Security and Disaster at Camp (Professor F. M.
+Chapman, continued p. 12); Classified Ads. **Kanawana is not named, and there is no Canadian
+institutional news in this issue at all** — recorded explicitly.
+
+**★★★ THE INDIGENOUS-THEMED MATERIAL SHIFTS — and the trajectory is now datable.** The editorial page
+carries "**Great Spirit Make Me**", headed "**Translated from the Sioux**", with the editors' hope
+that campers that summer "will be helped to be more aware of the earth and how we may all get along
+with one another so that it is a more pleasant place on which to live."
+
+Set beside the two earlier instances this read has recorded, that makes a sequence: **February 1978,
+Seton's "The Indian's Creed" printed entire and unattributed to any Indigenous source** (issue 117);
+**May 1979, Chief Dan George's "And My Heart Soars" printed in full** in Blackstock's obituary (issue
+125); **April 1981, a Sioux prayer in translation** (this issue). **Written into
+`site/indigenous-names-and-land.md` as an extension of the Seton section (sources 19 → 20)**, with
+the reading stated there: within three years the movement's Indigenous-themed material moves from a
+white naturalist's composite creed presented as ethnography to attributed and translated Indigenous
+texts presented as prayer — **the framework of borrowing is unchanged; the sources it draws on are
+not.**
+
+**★★★ "SECURITY AND DISASTER AT CAMP" — a 1981 article telling camp directors to plan for murder.**
+Professor F. M. Chapman, teaching the Camp Administration course at the University of Minnesota and
+formerly the director of a day camp and two resident camps, opens by setting a camp brochure titled
+"Treasured Memories" against two newspaper headlines — "Clues Sought in Murder of Three Girls" and
+"Parents Await Second Call for Kidnapped Girl" — and names **nine catastrophic camp occurrences**:
+"**Accidents · Asphyxiation · Bombs · Drowning · Epidemics · Murder · Rape · Storms · Theft**", with
+footnotes to actual American incidents including a 1962 bomb at a Wisconsin Scout camp and the 1977
+Oklahoma Girl Scout murders.
+
+"**There is no longer room for naivety nor carelessness when it comes to securely guiding the camp
+community. The camp director's traditional areas of preparation have routinely included such topics
+as business, personnel, program and philosophy. The term 'security' now presents itself as a fact of
+life.**" His measures are period-specific and physical: **walkie-talkies, CB radio or telephones**
+for groups sleeping in tents; extension telephones on a code number that rings at every set; "**a
+hand crank siren from an old fire engine**" whose "high volume wailing… is frequently enough to scare
+off many intruders"; rented automatic street lamps; dead bolts, alarms, control of keys and police
+liaison; a tornado shelter; and rented insured school buses rather than staff cars for transport. And
+a line about the profession's frame of mind: "**Some camp directors rebel at the thought that such
+catastrophic events as rape, murder or abduction would ever occur… Today's camp director can no
+longer assume that disaster happens only at the other camp.**"
+
+**Recorded here rather than in an article** — it is American in evidence and general in application,
+and nothing connects it to Kanawana. But it is the clearest single statement in the run of how the
+liability and security anxiety of these years felt from inside, and it belongs in any account of why
+camp record-keeping tightened between 1975 and 1981.
+
+**★★ COLD WATER SURVIVAL — where HELP came from, and who found it.** The article opens: "**When is a
+life jacket not a life jacket? When the person wearing it dies.**" The research is Canadian and
+dated: in **1971 a team at the University of Victoria — Dr John Hayward, Dr Martin Collis and Dr John
+Eckerson** — began studying the body's response to long-term immersion, monitoring subjects "much
+like the astronauts at the Houston control centre" and using thermography to map heat loss, over
+**more than 500 immersions in water from 4°C to 15°C**.
+
+Their findings, which explain the syllabus Jocelyn Palm was teaching camps in 1977 (issue 113):
+holding still rather than swimming increases survival time by a third; in 10°C water an average
+person can swim "a little less than a mile before being completely incapacitated by cold";
+**drownproofing, then widely taught, cools 35% faster than treading water** because of heat loss from
+the head, and someone holding still with the head clear survives nearly twice as long; and the
+**HELP** posture for individuals and the **Huddle** for groups roughly double a swimmer's survival
+time, to nearly four hours in 10°C water. Their conclusion is the one that matters for equipment
+policy: "**A P.F.D. is not really a life jacket unless it provides a measure of thermal protection,
+so if you are going to buy something to keep you afloat, why not invest in a garment that also keeps
+you warm?**" **Contextual for `traditions/canoe-trips.md`**, which already carries the 1975 flotation
+regulation and the 1980 finding that only a third of camps required flotation to be worn; this is
+where the science behind that argument was done, and it was done in Canada.
+
+**★ Fire safety, in a form a camp would have had to act on.** The guidelines require a named
+**safety officer** responsible for a written **fire emergency plan** distributed to every staff
+member, with evacuation routes posted; **fire drills within the first 24 hours of each camping
+session**; **fire watches in all buildings sleeping more than 12 persons** where no detection system
+exists; a posted roster of fire departments, physicians, hospitals, police and ambulance at every
+telephone; weekly checks of alarms and extinguishers; smoke detectors in all separate sleeping
+cabins; 100 feet of hose with an adjustable nozzle as a minimum, each building reachable from two
+bibbs; **backpack water pumps by the door of every large tent**; and a written camp policy on
+smoking, fuel storage, refuelling and "prohibition of fires, heaters, lanterns, liquid fuel stoves or
+other flame sources in or near tents." Two record classes follow — the written fire emergency plan
+and the weekly safety inspection — and both would sit in a camp's own files.
+
+**Minor.** A **Nissen trampoline** is offered for sale at half price by the head of physical
+education at Peterborough Collegiate — three years after the association printed the American Academy
+of Pediatrics' recommendation that trampolines be banned from school programmes (issue 118), which is
+either an irony or a market. The mailing label on this copy again reads **Camp Richildaca, Mr & Mrs
+W. J. Babcock, Kettleby** rather than Trent, which is a reminder that the Internet Archive run is
+assembled from more than one deposit.
