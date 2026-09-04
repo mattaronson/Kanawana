@@ -22968,3 +22968,135 @@ counsellors' page is a page of quotations, of which one is the same Amos Bronson
 December 1978 leadership page used: "**The good counsellor defends his campers against his own
 personal influence. He inspires self-distrust… He will have no disciple.**" The **Lachute former
 boys' camp** advertisement runs for a fourth issue.
+
+---
+
+## 131 — Vol. 32 No. 3, May 1980
+
+Sixteen pages, the largest issue of the newsletter era. Every item accounted for: Concerns About
+Canoe Tripping (responses to the Society of Camp Directors' questionnaire, over four pages);
+Classified and the Identifab advertisement; The Counsellor's Page — characteristics of a good
+counsellor; Executive Director (Marjorie Booth) with "Blessed Is the Leader"; a position-wanted
+notice; Emergency Procedures over three pages, concluded on p. 12; National Camp Executives Group
+(Larry Bagnell's report from New York) with the full contact list; "Its problems follow the child to
+camp" (Ruth Wortman, reprinted from the ACA); Publications; Foodsavers; the Royal Chinet
+advertisement. **Kanawana is not named.**
+
+**★★★★★ `p_322` IS ANSWERED IN PART: THE SOCIETY OF CAMP DIRECTORS' TRIPPING QUESTIONNAIRE.** At
+issue 125 Blackstock's obituary said he had given evidence to "the current research being done by the
+Society of Camp Directors" on canoe tripping. Here is that research. The free-text answers to
+**question 139** — "**Do you have any thoughts or concerns on the matter of canoe tripping in
+camps?**" — are printed unattributed and unedited, about fifty of them, and they are **the closest
+thing this project has to Canadian camp directors arguing among themselves about how their trips
+should be run.** So the questionnaire ran to at least 139 questions and its results were tabulated;
+**`p_322` updated to hunt the full instrument at Trent and the OCA successor**, while noting that
+none of these answers names the 1978 incident, so the identification question stays open.
+
+They do not agree, and the disagreement is the finding. For regulation: "**standardization is
+necessary**"; "prerequisites and guidelines must be established for leaders taking a group tripping";
+"**In our province, canoe tripping is carried on by too many inexperienced or unqualified
+leaders**"; "lenient tripping requirements of C.R.C.A. canoeing standards". Against: "**we need
+standards, but let's beware of setting standards so rigid or impractical that we cannot function
+properly**"; "let's not regulate it so much that it becomes impossible"; and a four-head case against
+certification — "**a) who sets criteria b) dogmatism in tripping c) bureaucratization and government
+regulation d) inappropriateness of tests to area/culture**". The recurring objection is that
+certificates measure the wrong thing: "**proliferation and dependence upon qualification — the
+majority of which assess skill but not either experience of leadership or judgement**", and "**the
+key attribute of any trip leader must be good judgement. This cannot be taught, but comes with
+experience.**"
+
+On liability, the line the whole exercise turns on: "**nothing can be done when an accident occurs on
+a safe well-planned trip, but something can and should be done when the accident is clearly the
+result of criminal negligence.**" On ethics: "**the pioneer ethic is out of date and replaced by the
+wilderness ethic and minimal impact technique. Don't push the trip.**" On conduct, more sharply than
+any signed article in the run: "**I sincerely feel that many camps in our area abuse campsites, the
+garbage left is terrible… the axe should be illegal.**" On access: "**over-publicizing of many
+waterways lets inexperienced or inadequately prepared people into the wilderness creating high risk
+situations.**" And two on purpose: "**tripping allows children a chance to 'shine' who ordinarily
+would not in camp living**", and "**trip leaders, once they sever their group from the relative
+safety of base camp, have their responsibilities and concerns multiplied tenfold.**"
+
+**★★★★★ A WRITTEN EMERGENCY PROCEDURE, AND A REPORTING RULE WITH A DEADLINE.** The Ontario Camping
+Association printed the emergency procedures it had distributed to all member camps, plus a policy
+"**adopted as policy of the O.C.A. effective February, 1980**". The fifteen-step procedure for a
+serious accident or death on camp property is legal as much as medical: confirm care is under way and
+"if death has occurred, cover body and keep others away"; "**begin to log each action; both the time
+and procedure, including all phone calls**"; call legal counsel, and in the case of death the police,
+who "**MUST be called**"; inform staff, then campers, then the parents named on the camper
+application; **written statements from everyone involved, each writing their own**, plus a record of
+conditions before the accident and photographs "if at all possible"; a lawyer's advice on any letter
+to parents and any press release; "**only the Camp Director or his designate speaks to the press**";
+and a fourteen-point review afterwards covering how staff and campers had been warned of the hazard,
+when safety devices were last checked, the date of the last emergency drill, the time between
+incident and treatment, and "**compare written statements. Any inconsistencies?**"
+
+The off-property procedure is the one that matters for a camp like Kanawana: the trip leader
+delegates first aid, sends a message by the fastest route with someone kept at the telephone, logs
+every call in and out, and **the senior person on the trip must recommend "concerning the remainder
+of the trip, that is, to be continued, aborted, altered"**. It closes: "**The Camp stands behind its
+staff members and expects each member to perform to the best of his/her capabilities and
+training.**"
+
+The reporting policy required a member camp to telephone the president **within 24 hours** and file a
+written report **within 20 days** naming the person injured or deceased with date, time and place;
+and set out what the association would then decide, including "**the position to be taken by the
+O.C.A. at the inquest**", who would appear as its witness, and "methods by which the learning gained
+as a result of the incident might be usefully shared with the membership." **Written into
+`traditions/canoe-trips.md` as a new section, "What the movement decided, 1980" (source 15)**, with
+the caveat stated there: this is Ontario policy, there is no evidence here of what Quebec adopted,
+but by February 1980 the reporting of a camp death to a provincial association was a written rule
+with a deadline — **another reason to expect that Quebec's file on Kanawana holds more than annual
+inspection reports.**
+
+**★★★★ THE SCANS THIS PROJECT IS READING CAME FROM TRENT.** The mailing label on the back page reads:
+"**Trent University, Archives Dept., Peterborough, Attention: K. Johnson**." That is the archivist
+Adele Ebbs named in October 1976 (issue 109). **The Internet Archive run of *Canadian Camping* is
+Trent's own deposit copy**, addressed to the man who received the Canadian Camping Archives — which
+both corroborates the Trent story and means the association's other publications very likely went to
+the same address by the same route. **`p_312` updated with the provenance note.** It is also a small
+vindication of the whole exercise: the physical object being read has the answer to one of the
+project's own research questions printed on its back cover.
+
+**★★★ A THIRD CAMP SONGBOOK — and this one has music.** "**The long awaited 'Sing with Jack' book is
+hot off the press**… the first 'Camp Tawingo Publication', contains **the words and music to 37
+favorite camp songs, plus notes for 'actions' by the leader**", $4.00 through the CCA Publications
+Service. By **Jack Pearse**, immediate past president of the CCA and director of Camp Tawingo. Two
+sequels announced: "**Campfire Programs with Jack Pearse**" and "**Sing (One More Time) with Jack
+Pearse**". **`p_311` updated**: unlike the Nova Scotia collection (issue 123) this one carries the
+tunes, which makes it the better comparator for identifying which Kanawana songs are house
+compositions; and **Camp Tawingo still operates**, so its own publications office is the first place
+to ask.
+
+**★★ The National Camp Executives Group, and a Canadian-American link dated.** Larry Bagnell reports
+flying to New York on **19 March 1980** to join the American national agency group, and dates the
+Canadian one: "**that historic, first meeting of the C.C.A. National Agency Group which met for the
+first time in the Board Room of the National Council of Y.M.C.A.'s on February 7, 1979.**" The full
+contact list is printed — twenty organisations, of which the Canadian entry is "**Larry Bagnell,
+C.C.A. Liaison w/National Agencies, Y.M.C.A. Camping Service, 36 College Street, Toronto**" — the
+YMCA's own camping service acting as the CCA's liaison arm. Also discussed: **Canadian agencies
+hosting international kindred-group meetings around the 1983 Toronto congress**.
+
+**★★ Ruth Wortman on children of separated parents** — reprinted from the ACA, and the first
+treatment in this run of a subject that would have applied to Kanawana's campers as much as anyone's.
+Its practical parts are camp administration: at the interview, establish who pays and get both
+natural parents' signatures where possible, since "the camp is not bound by the parent's own
+agreement"; ask directly about visiting — "**an inquiry regarding 'more than one visiting day' is
+often a clue to separation of parents**" — and request a copy of any court order, because "**if there
+is no court order, the camp cannot stop a parent from seeing a child**"; provide **alternative
+visiting days** so estranged parents can come separately, and brief the counsellor on which parent to
+expect; and on letter-writing day, "**write the mother on one writing day and the father the next,
+rather than requiring two letters each time**." On staff, it warns that counsellors "from certain
+backgrounds might tend to pass moral judgments on divorce" and that some "may have experienced
+divorce in their own lives and may find it difficult to be objective." **A dated 1980 statement of
+how camps were told to handle it, and useful whenever Kanawana's own camper records of this period
+are read.**
+
+**Minor.** The counsellors' page on patience, fairness, self-control, reliability, imagination,
+honesty, idealism and enthusiasm, with one line worth keeping — "**Set high standards from the first
+day: it is easy to 'let up' but very difficult to effectively 'crack down'**" — and another, "**Be
+careful that your standards for their behavior is no lower than your own.**" Marjorie Booth's
+seasonal message and the anonymous "Blessed Is the Leader". Kitchen economies: popcorn served instead
+of bread at lunch; iced water offered alongside milk to cut beverage costs; pancakes and French toast
+because they save the kitchen a second item. And a **position-wanted advertisement placed through a
+CCA box number** — "Service Agency Director/Camp Director… **The above applicant is available now**"
+— the association running a blind hiring channel for its members.
