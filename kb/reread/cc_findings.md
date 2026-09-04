@@ -26013,3 +26013,314 @@ Bosco Camp)** — so a set of prize-winning Canadian camp photographs from 1983 
 the association. The poem is "**A Man for Every Woman**", anonymous, a feminist call-and-response
 printed without comment in a camping magazine in 1983. **Physical Activity Week, 15-23 May 1983.** And
 the mailing label is **Camp Richildaca**.
+
+---
+
+## 147 — Vol. 35 No. 2, Summer 1983 — ★★★★★ KANAWANA IS NAMED
+
+Eighteen pages plus a special insert, the **1982 Annual Report**. Contents page checked; every item
+read: Letters to the Editor (two); the bilingual Editorial, "How Can You Buy or Sell the Sky?" /
+"Comment pouvez-vous acheter ou vendre le ciel?"; the masthead; National Camping Day results; The
+Camping Advisor (four questions); the Group Dynamics Exercise on stereotyping; a prayer by Tom
+Whitecloud; Diane Blair, "Camper Motivation"; "AEC: A Major Qualification for Aquatic Emergencies";
+Ian Fowler on the New Brunswick winter workshop; Pam Robbins, "Loons"; the Winning Photo; the 1982
+Annual Report entire (President, Executive Director, nine provinces, thirteen committee and task force
+reports, the national and provincial statistics, and two federal immigration tables); a "For Every
+Child a Tree" notice; the advertising rate card; the provincial office list; the International Youth
+Year logo contest; and the subscription offer.
+
+**★★★★★ KAMP KANAWANA MAILED NATIONAL CAMPING DAY TO EVERY CAMP IN CANADA — and Peter Goddard is
+named.** In Marnie Ellis's Publicity and Public Relations report for 1982-83, describing the launch of
+the first National Camping Day:
+
+> "**6,500 posters have been distributed across the country to member camps.** Delay in the
+> distribution was unfortunate, and I apologize, but one learns from all experiences and the 1984
+> posters will be out by January 1. **A special public thanks goes to Peter Goddard and the staff of
+> Kamp Kanawana in Montreal for accepting the tremendous task of mailing to every camp.**"
+
+**This is the first time in 147 issues that Kanawana appears as an actor in the national association's
+own work rather than as a name in a directory**, and it matters twice over.
+
+**First, for the directorship record.** `people/directors-index.md` documents Peter Gilling Goddard
+signing a Kanawana newsletter as Director on **15 November 1982** and again on the YMCA of Montreal's
+**FY1986** staff roster, and states plainly that "**1983-1985 is bracketed between those two points,
+not stated**"; `history/between-centennials.md` carries it as Open Question 2, "**What are Peter
+Goddard's exact directorship years within the 1981-1985 span?**" **He is now documented at Kanawana in
+the late winter or early spring of 1983** — Ellis's report was written before 14 April 1983 and
+describes work already done. **The bracket is narrowed at its near end from inference to record.**
+Stated carefully: the source names him **"Peter Goddard and the staff of Kamp Kanawana"** and **does
+not give his title**; that he is named ahead of "the staff" reads as the person in charge, and the
+November 1982 newsletter signature settles what that role was, but the 1983 item on its own attests
+presence and responsibility, not the office. **Written into `people/directors-index.md` and
+`history/between-centennials.md` on exactly those terms.**
+
+**Second, for what the camp actually did.** Kanawana took on the **national mailing of 6,500 posters
+to every member camp in Canada** for the association's largest-ever promotional project. That is a
+concrete, dated act of national service by the camp, performed from Montreal, and it means **a mailing
+list of every CCA member camp in Canada passed through Kanawana's office in the winter of 1983** —
+worth knowing when asking what paper the camp generated in a year for which no season report survives.
+
+**★★★★★ THE LABELLED PROVINCIAL STATISTICS TABLE — this is what `p_324` has been chasing.** The annual
+report prints "**CCA/ACC STATISTICS 1982 - SUMMER**" broken down by province with every heading legible,
+alongside a three-year national series for 1980-81, 1981-82 and 1982-83. **Quebec's column in full:**
+
+| Item | Quebec | National total |
+|---|---|---|
+| Member Camps — Total | **129** | 618 |
+| Member Camps — **Accredited** | **129** | 500 |
+| Member Camps — Non-Accredited | **—** | 118 |
+| Day Camps | 10 | 69 |
+| Resident Camps | **117** | 543 |
+| "Other" Camps | 2 | 6 |
+| 4 Season | 49 | 118 |
+| 3 Season | 22 | 72 |
+| Camper/Beds | **15,791** | 71,182 |
+| Individual Campers | **52,977** | 293,941 |
+| Camper/Days | **820,812** | 6,103,253 |
+| Foreign Campers | 432 | 4,904 |
+| Foreign Camper/Days | 14,458 | 119,158 |
+| Volunteer Staff | 790 | 15,038 |
+| Paid Staff | **4,618** | 20,080 |
+| Staff/Days | 321,841 | 1,293,264 |
+| Foreign Staff | 33 | 1,163 |
+| Staff — Students | 3,975 | 18,211 |
+| $ Food (thousands) | **3,208** | 12,923 |
+| $ Wages (thousands) | **5,371** | 21,153 |
+| $ Foreign Staff Wages | 14,187 | 415,897 |
+| $ Foreign Camper Fees | 145,938 | 2,853,965 |
+| **% Return / Province** | **48%** | — |
+
+**Three findings sit in that column, and all are written into `canadian-camping-movement.md`.**
+
+**(1) Every Quebec member camp was an accredited member camp.** 129 total, 129 accredited, none
+non-accredited — the only province in the table where the two numbers are identical. That is Marjorie
+Booth's statement about the Ontario and Quebec gate (issue 145) confirmed in the association's own
+arithmetic, and it settles how this wiki should speak about Kanawana: **in Quebec there was no such
+thing as an unaccredited member camp, so "member of the ACQ" and "accredited by the ACQ" name one
+status, not two.**
+
+**(2) The response-rate row is the caveat this project has needed.** "% Return/Province" gives
+**Quebec 48%**, against Alberta's 75%, Saskatchewan 68%, Manitoba 54%, Nova Scotia 56%, Ontario 51.5%,
+B.C. 49%, Newfoundland 24% and New Brunswick 16%. **So Quebec's figures rest on returns from about
+half its member camps** — the extrapolation Rosaire Corbin warned about in October 1981 (issue 139),
+now quantified per province and printed beside the numbers.
+
+**(3) Quebec was the paid-staff province.** 4,618 paid staff against 790 volunteers — a ratio of nearly
+six to one, where Alberta reports 1,232 paid against 5,000 volunteers and British Columbia 726 against
+2,884. Booth's account of Quebec and Ontario as the long-session, non-denominational, higher-fee end of
+Canadian camping (issue 145) is visible here as a labour fact: **Quebec camping ran on wages, prairie
+and western camping largely on volunteers.** Quebec's wage bill of $5.37 million against 52,977
+individual campers is about **$101 of wages per camper**; its food bill of $3.21 million is about $61 a
+camper.
+
+**`p_324` is substantially answered by this table for the *categories*, and partly for the illegible
+1981 one.** The 1982 headings are the same family as the four unreadable columns of October 1981, and
+the identification made at issue 142 — camps, campers, total staff — is consistent with them. **Column
+4 of the 1981 table (10, 18, 15, 40, 60, 15, 20, 40, 10) is still unidentified**, and none of the 1982
+rows matches it, so that part of `p_324` stands.
+
+**★★★★ THE ACQ'S ACCREDITATION PROGRAMME WAS REBUILT IN 1982-83 — in its own words.** The Quebec
+annual report, in French, signed **Claire Menard**:
+
+> "**Le programme d'accréditation de l'Association des camps du Québec a fait l'objet d'un
+> renouvellement important. Ce programme est orienté vers une auto-évaluation des membres, le respect
+> des normes universelles et du code d'éthique.**
+>
+> **Une étude de marché a été réalisée cette année et démontre le haut taux de satisfaction de la
+> clientèle. Un guide d'évaluation des services est actuellement en phase de réalisation.** Tous ces
+> projets se veulent des éléments essentiels aux gestionnaires.
+>
+> **La Semaine des camps, activité importante et connue au Québec depuis plus de cinq ans.** Salons
+> d'expositions, centres commerciaux, émissions de radio et de télévision, articles de journaux et
+> revues permettent à l'ACQ de faire connaître ses membres et sa propre existence. Plusieurs sessions
+> de formation ont été réalisées dont une sur le '**marketing**' qui a suscité un grand intérêt. Au
+> printemps, un **colloque pour les directeurs, le personnel-cadre et les moniteurs se tiendra les
+> 13-14-15 mai 1983**."
+
+**Four things for `canadian-camping-movement.md` and `p_326`.** The accreditation programme Kanawana
+was subject to was **substantially rewritten in 1982-83**, reoriented toward **member self-evaluation**
+against **universal standards** and a **code of ethics** — so a Kanawana accreditation file from before
+and after that change would be different documents. **An ACQ market study of Quebec camp clientele was
+carried out in 1982-83**, and **a guide d'évaluation des services was in preparation** — two named
+Quebec documents about camp customers and camp service quality, neither previously known to this
+project. **La Semaine des camps had been running "depuis plus de cinq ans" by 1983**, i.e. from about
+1977, through mall and exhibition displays, radio and television, and newspaper and magazine articles —
+**a five-year run of Quebec press coverage of camping, with Kanawana a member camp throughout.** And a
+**directors', senior staff and counsellors' colloquium at 13-15 May 1983**.
+
+**★★★★ THE EDITORIAL PRINTS "CHIEF SEATTLE'S SPEECH" IN BOTH LANGUAGES — and what it actually is
+matters.** The editorial for Summer 1983 is given over entirely to a text headed "**This is a speech
+made in 1851 by Seattle, Chief of the Suquamish, in response to a treaty proposal under which the
+Indians would sell two million acres of land for $150,000**", printed in full in English and in a full
+French translation, and introduced with Buckminster Fuller's judgement that it is "**one of the most
+beautiful and profound environmental statements ever made**". The source is given as **Fuller's
+*Critical Path* (St. Martin's Press, 1981)**, by way of Dr Glenn T. Olds at the Alaska's Future
+Frontiers Conference of 1979.
+
+**The version printed is not an 1851 speech, and this is not a matter of opinion.** The text contains
+"**I have seen a thousand rotting buffaloes on the prairie, left by the white man who shot them from a
+passing train**", "**talking wires**", "**the end of living and the beginning of survival**" and the
+whole ecological frame — **wording written by Ted Perry, a screenwriter, for the 1972 film
+*Home*, and circulated thereafter as though it were Seattle's.** What Chief Seattle said in 1851 or
+1854 survives, if at all, only in Henry A. Smith's much later and much shorter newspaper reconstruction
+of 1887, which contains none of this. The magazine printed the Perry text as an 1851 transcript, in
+good faith, on the authority of Buckminster Fuller.
+
+**Written into `site/indigenous-names-and-land.md`**, and it is the fourth and most consequential item
+in the sequence that article traces. Seton's composite creed presented as ethnography (1978); Chief Dan
+George printed in full (1979); a Sioux prayer in translation (April 1981); the invented white-canoe
+legend on a back cover (June 1981); and now, in 1983, **a white screenwriter's text presented in two
+languages as the words of a named historical Indigenous leader, given the whole editorial page, and
+offered to every member camp as the movement's environmental creed.** The trajectory is not from
+invention to authenticity. It is a movement that could not reliably tell the difference, and whose
+best-intentioned material was as likely to be manufactured as its worst.
+
+**The same issue also prints a genuinely attributed prayer**, and the contrast is the point: "**A
+Prayer**… *O Father, whose voice I hear in the winds, and whose breath gives life to all the world,
+hear me, I am a child before You… I seek strength, Father — not to be superior to my brothers, but to
+be able to fight my greatest enemy, myself*", attributed to **Tom Whitecloud** and described as a
+"**prayer inscribed on monument at St. Regis Reservation — Akwesane Mohawk**". **That names Akwesasne**,
+a Mohawk community, in a magazine going to every Canadian member camp, and `site/indigenous-names-and-land.md`
+discusses Mohawk territory directly. Its own attribution is complicated — the text circulates widely as
+a Lakota or Sioux prayer and Tom Whitecloud was a Chippewa writer — but the magazine states a specific
+physical monument at a specific named community, which is checkable. **Recorded with that caution.**
+
+**★★★ THE ARCHIVES COMMITTEE, NOW CHAIRED BY BRUNO MORAWETZ — and what was in the Archives Room.**
+His report, signed "Bruno Morawetz, Ph.D.", is the fullest account of the CCA's archival practice this
+read has found:
+
+> "Prior to this event, requests went to the Provincial Associations for **slide trays depicting camp
+> scenes representative of that province**. The following Provincial Associations brought slide
+> carousels and slides which were shown in the Archives Room: **Newfoundland, Manitoba, New Brunswick,
+> Ontario, Saskatchewan and Nova Scotia.** Due to the efforts of a large number of people, but notably
+> **Helen Stewart, Bernadine Dodge and Ken Johnston** [Johnson], the Archives Room contained a splendid
+> display of archival material enriched by **exhibits from the Kanawa Museum provided by Professor Kirk
+> Wipper** and assisted by **Eanswythe Flynn**. In addition to the many pictorial displays, **a
+> photographic record of all former CCA Presidents was prepared consisting of two frames with empty
+> spaces for the next five CCA Presidents.**… the Chairman made a strong plea… that the records of
+> today are the archives of tomorrow. He urged them to **send all materials relating to the business of
+> the Provincial Association to the CCA office for deposit at Trent University.**"
+
+**`p_319` updated with all of it.** Four things follow. **Quebec is not in the list of provinces that
+sent slides** — six did, and neither Quebec nor Alberta nor British Columbia is named, which is a small
+negative fact worth having. **A photographic record of all former CCA presidents was assembled in
+January 1983** and should be in the Trent fonds. **Bernadine Dodge** is a new name to add to the Trent
+enquiry alongside Ken Johnson and Helen Stewart. And the deposit instruction is explicit: provincial
+association business records were to go **through the CCA office to Trent** — so **anything the Quebec
+association sent is at Trent, not in Quebec**, which changes where to look first.
+
+**★★★ THE STANDARDS WORKSHOP DECIDED THE ASSOCIATION SHOULD NOT ACCREDIT.** Brian Law's report on the
+National Standards Workshop of **25-26 January 1983**: its two objectives were to "**update the existing
+comparative analysis of provincial standards for organized camping**" and to "**review and document
+extensively the visitation process**" — and delegates prepared their provincial comparisons in advance,
+**so a written comparative analysis of provincial standards, including Quebec's, exists**. Its
+conclusion:
+
+> "**The Workshop has proposed that CCA/ACC should not accredit camps but should promote good camping
+> practices through education of camp directors.** This, of course, has important implications for our
+> future action plan and for provincial camping associations."
+
+with the Task Force extended eighteen months and another workshop set for 1985. **Added to
+`canadian-camping-movement.md` and `p_323`.** Taken with the 1982 certification debate, this is the
+movement settling the question twice in a year: **no national certification of directors, and no
+national accreditation of camps.** Accreditation stayed provincial, which is why Kanawana's status was
+always an ACQ matter.
+
+**★★★ NATIONAL CAMPING DAY HAPPENED, AND QUEBEC TIED ITS CAMP WEEK TO IT.** The results page:
+
+> "**Quebec coordinated their annual 'Semaine des camps' or camp week to coincide with April 14th and
+> featured a media blitz**… **Senator Ray Perrault** greeted CCA/ACC representatives and two camp
+> counsellors presented him with a Special T-Shirt… **Calgary Herald** did a feature article on Youth
+> Camping… Winnipeg radio stations used a radio message prepared by Terry Burkhalter as a public
+> service… **Kitchener-Waterloo Record** gave full page coverage… **Over 600 weekly papers** received
+> information on National Camping Day and sample articles… **New Brunswick Premier Richard Hatfield
+> declared Camp Week** for the province… **Nova Scotia's Minister, Fisher Hudson, declared April 14 as
+> Camp Counsellor Acknowledgement Day**… One girls' school planned a 'grub day' so students could wear
+> their Camp T-Shirts… **The next NATIONAL CAMPING DAY is March 21st, 1984!**"
+
+**Added to `canadian-camping-movement.md` and `p_326`.** The Quebec line is the actionable one: **the
+ACQ's Semaine des camps was moved to coincide with 14 April 1983 and run with a media blitz** — so
+Quebec press coverage of camping in the week of 14 April 1983 is findable, and Kanawana was a member
+camp that had just mailed the national posters.
+
+**★★ A Quebec vice-president of the national association.** The Nominations Committee reports the
+1983-85 executive elected by acclamation: **President Jocelyn Palm (Ontario); Eastern Vice-President
+George Matthews (Nova Scotia); Central Vice-President Louis Jean (Quebec); Western Vice-President Terry
+Burkhalter (Manitoba)** — taking office at the annual meeting of **6 May 1983**. **Louis Jean is a new
+name and the first Quebec regional vice-president since Derek Walsh**, succeeding Jane McCutcheon of
+Ontario. Also new: **Pauline Rondeau** confirmed as Chairman of the French Language Committee in **March
+1983**, after the post "was vacant for several months this year" — the report itself signed by **Jane
+McCutcheon**, covering the vacancy. **Hugh Phillips** takes a new Task Force on the **1985 International
+Year of Youth**. **Added to `canadian-camping-movement.md`.**
+
+**★★ What the French Language Committee actually delivered at the Congress.** McCutcheon's report:
+"the provision of **simultaneous interpretation of all key-note speakers** at the Congress, in addition
+to **three French sessions** offered to francophone delegates. The bilingual text provided in the
+promotional literature and program of the Congress also reflected the effort to include both language
+groups." **Eight French sessions were planned (issue 142); three were delivered.** Recorded as a
+delta, not as a criticism — but it is the measurable outcome of the bilingualism this article has
+traced from 1971, and it belongs beside John Latimer's remark that the relationship was "wrought with
+political overtones" (issue 143).
+
+**★★ The Congress's own summary, from its chairman.** John Latimer: "over 1,000 delegates… speakers and
+delegates from **Canada, U.S.A., Norway, Japan, Great Britain, Jamaica, Mexico, Australia and New
+Zealand**. After **four years** of hard work… Special thanks should go to all the **60 volunteers** who
+worked on the organizing committees, all the provincial presidents… the **hundreds of donors** and to
+the OCA and CCA/ACC staff, to Fitness Canada and the Government of Ontario." Provincial delegations:
+**Alberta 45** ("the largest delegation outside of Ontario"), **Nova Scotia over 30**, **Saskatchewan
+15-16** on a $5,000 SASKSPORT grant, **B.C. 12**. **No Quebec delegation figure is given anywhere in the
+annual report** — recorded as an explicit null.
+
+**★★ The Ontario association turned fifty, and published its history.** Janet Adamson: "**1983 is OCA's
+50th anniversary** and plans are under way for a birthday celebration on **April 25th** at our annual
+meeting. **The Archives Committee is publishing a booklet of the OCA's history to commemorate this
+anniversary. This will be available in the Autumn.**" **A 1983 booklet history of the Ontario Camping
+Association exists** — the association whose 1930-33 founding this project has three competing dates
+for, writing its own history at fifty. **Added to `p_319`.** She also reports **forty-nine Standards
+visits** in the summer of 1982 and a "**last minute placement camper service**" matching parents to camp
+vacancies by telephone.
+
+**★★ Two provinces confirm Booth's 10-12% membership figure from the ground.** **Nova Scotia**: "our
+staff… visited all the camps to carry the message of the Association… Interestingly enough, and maybe
+not so, but **some of the Directors operating camps had never heard of the Association!** Apparently,
+our message and material is not filtering down to the camp level." **Saskatchewan**: "**We speak for
+about twenty camps but there are probably more than one hundred other camps out there** who may or may
+not know we exist to speak for them." **Added to `canadian-camping-movement.md`** beside the membership
+figure: two provincial associations saying independently, in their own annual reports, that the great
+majority of camps in their provinces were outside them and often unaware of them.
+
+**★★ British Columbia's accreditation system had broken down and was rebuilt by consultants.** Lorne
+Bowering: "**Despite careful monitoring in previous years, our system of visits and subsequent
+accreditation had broken down.** As a result of this summer project the records were updated and visits
+were completed"; government funding retained **Dr. Don Arnold & Associates**; a major meeting in
+November considered accreditation "**Myth or Mandate**"; and "**regular meetings of the B.C. Camping
+Association were not held during the winter of 1982-83**" for want of participation. A candid provincial
+report worth having beside the Quebec one, which claims a full renewal in the same year.
+
+**★ Minor.** The Camping Advisor answers a director who argued at the Congress for **spanking campers**
+— "several of us felt that children grow up with too much leniency today and that a good spanking is
+often a way of letting a child know you care about him" — with an unequivocal answer: "**if you strike
+anyone — camper or Staff — you are committing the crime of ASSAULT**… If a leader in a camp situation
+strikes a child, we are of the position of siding with the child, **IRRESPECTIVE OF CIRCUMSTANCES.**"
+The clearest statement in the run of the movement's position on corporal punishment, and directly
+relevant background to any Kanawana discipline record of the period. Another answers a counsellor on
+**pornography brought into camp**, objecting most to the double standard of confiscating magazines to
+the staff quarters "where the Staff ogle and make crude comments… and the campers KNOW this is going
+on", and arguing for discussion rather than destruction. **Diane Blair of Camp Gay Venture** writes on
+camper motivation via a Chicago lawyer's five "avenues for generating tension" — challenge, competition,
+reward, fantasy and deception. **Pam Robbins of the Taylor Statten Camps** contributes a natural history
+of the **loon**, whose closing paragraph joins the acid rain thread: "in the next few years many lakes
+in the eastern part of the continent may lose their ability to neutralize acid rain… **Unless something
+is done, a painful silence may descend on our cherished lakes.**" Her photograph won first prize in the
+Canadian Nature category at the Congress. The **Royal Life Saving Society's Aquatic Emergency Care
+(AEC)** programme is described — introduced **1978**, growing 50% a year, **over 2,300 staff certified in
+1982**, about twenty hours for a Bronze Medallion holder, endorsed by St. John Ambulance, with a
+syllabus including near-drowning physiology, spinal injuries, hypothermia and CPR — "**municipalities and
+camps most often use AEC as the core of their pre-season or in-service training**", so an AEC card is a
+1980s camp waterfront qualification to look for. The **Consultant/Advisor project** table gives every
+visit, participant count and cost for 1982-83, and records that **Fitness Canada did not approve funding
+to continue it for 1983-84**. The **advertising rate card** is printed — a full page $500, and copy
+deadlines by season — useful for the deferred `meta/sources-index.md` section. An **International Youth
+Year logo contest** for 1985 invites campers and staff to submit designs, bilingual wording required, by
+15 September 1983. And the mailing label on this copy reads **MR. T. STATTEN, BLACKSTOCK, ON** — a
+Statten, a fifth deposit hand in the Internet Archive run.

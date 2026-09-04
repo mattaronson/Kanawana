@@ -1,6 +1,6 @@
 # Between Centennials (1968–1993)
 
-*Status: draft | Sources: 15*
+*Status: draft | Sources: 16*
 *Last Updated: 2026-09-04*
 
 ## Overview
@@ -49,12 +49,12 @@ This is external, dated and regional rather than about Kanawana specifically, an
 
 ## The 1980s: The Second Thin Decade
 
-The 1980s are, after the 1947–1958 postwar gap, the thinnest-documented decade in Kanawana's directorial record. Twynam's tenure is last confirmed in 1980. Peter Gilling Goddard (1953–2016) is understood to have served as director for some or all of the 1981–1985 span, but his Kanawana connection is confirmed only via an obituary condolence mentioning "Kamp Kanawana," not by any camp record giving exact dates.^7 Jay Netherwood directed the camp in 1986 and 1987, succeeded in 1988 by his brother Bruce Netherwood, whose own directorship would carry through to the camp's 1994 Centennial.^8 Concordia's archives record "Situation reports profiling Kamp Kanawana, Camp Otoreke and Camp Weredale" from 1980, suggesting the three camps were being assessed together as a portfolio around this time — a rare institutional record from an otherwise sparse decade.^1 See [[people/directors-index|Directors and Staff of Camp Kanawana]] and [[people/bruce-netherwood|Bruce Netherwood]] for full detail on this transition.
+The 1980s are, after the 1947–1958 postwar gap, the thinnest-documented decade in Kanawana's directorial record. Twynam's tenure is last confirmed in 1980. Peter Gilling Goddard (1953–2016) is understood to have served as director for some or all of the 1981–1985 span. His connection was for a long time confirmed only by an obituary condolence mentioning "Kamp Kanawana," but two documents now place him there: he signs a Kanawana newsletter of **15 November 1982** "Peter G. Goddard, Director," and the Canadian Camping Association's Publicity and Public Relations report for **1982-83** thanks "**Peter Goddard and the staff of Kamp Kanawana in Montreal** for accepting the tremendous task of mailing to every camp" the 6,500 posters for the first National Camping Day of 14 April 1983 — work completed before that date, and the only known instance of Kanawana acting on behalf of the national camping association. That second item does not state his title, so it attests presence and responsibility in early 1983 rather than the office; the 1982 signature supplies the office. Between the two, the near end of the 1983–1985 bracket is documented rather than inferred.^7 ^16 Jay Netherwood directed the camp in 1986 and 1987, succeeded in 1988 by his brother Bruce Netherwood, whose own directorship would carry through to the camp's 1994 Centennial.^8 Concordia's archives record "Situation reports profiling Kamp Kanawana, Camp Otoreke and Camp Weredale" from 1980, suggesting the three camps were being assessed together as a portfolio around this time — a rare institutional record from an otherwise sparse decade.^1 See [[people/directors-index|Directors and Staff of Camp Kanawana]] and [[people/bruce-netherwood|Bruce Netherwood]] for full detail on this transition.
 
 ## Open Questions
 
 1. [Important] Who directed Kanawana between 1976 and 1978, between Derek Walsh/Stuart McLean's departure and Dave Twynam's 1979 arrival?
-2. [Important] What are Peter Goddard's exact directorship years within the 1981–1985 span? Only his obituary condolence, not a camp record, currently confirms his Kanawana connection at all.
+2. [Important] What are Peter Goddard's exact directorship years within the 1981–1985 span? He is now documented at Kanawana as Director in November 1982 and again, without a stated title, in the CCA's 1982-83 annual report; the start of his tenure and the 1984–1985 end of it remain unstated. The YMCA of Montreal annual reports for 1983 and 1984 carry no Kanawana staff roster, so the next places to look are the ACQ's own membership and accreditation files for those years and the Canadian Camping directory issues.
 3. [Nice-to-have] What prompted the 1980 "situation reports" assessing Kanawana, Camp Otoreke, and Camp Weredale together — was a consolidation or divestment being considered?
 4. [Nice-to-have] Beyond the 1972 all-female Voyageur trip, how quickly did other Kanawana programs (beyond section structure) integrate coeducationally through the 1970s and 1980s?
 
@@ -87,6 +87,7 @@ The 1980s are, after the 1947–1958 postwar gap, the thinnest-documented decade
 13. *Canadian Camping* Vol. 27 No. 2 (January 1975), the Canadian Camping Association Directory Issue, Quebec Camping Association accredited member camps listing [src_ia_canadian_camping_collection]. Found by the full word-for-word read of the run (`kb/reread/cc_findings.md`, issue 103).
 14. *Canadian Camping* Vol. 28 No. 2 (January 1976), the same annual Directory Issue [src_ia_canadian_camping_collection]. Found by the same read (issue 107).
 15. Marvin Granek, "Report on the Findings of a Survey of Camp Directors," *Canadian Camping* Vol. 30 No. 5 (October 1978), pp. 6-10 [src_ia_canadian_camping_collection] — a summary of his master's thesis, "An Investigation Into the Attitudes of Resident Camp Administration Towards Critical Problems in Resident Camping," University of Waterloo, itself a partial replication of an American Camping Association-sponsored study. Found by the same read (issue 121).
+16. *Canadian Camping* Vol. 35 No. 2, Summer 1983 — 1982 Annual Report insert, Publicity and Public Relations report by Marnie Ellis [src_ia_canadian_camping_collection]. Found by the word-for-word re-read of the digitized run (issue 147); the November 1982 newsletter signature is [src_oral_aronson] via [[people/directors-index|Directors and Staff of Camp Kanawana]].
 
 ## Research Notes
 
