@@ -4634,3 +4634,211 @@ inspection, "**Range Guaranteed to Satisfy You and Your Campers or Return It for
 Prompt Refund by Sept. 7, 1959!**"
 
 Kanawana itself: not named in this issue.
+
+## 43 — Vol. 11 No. 4, June 1959 ★★★
+
+Mary S. Edgar's tribute to A. L. Cochrane; Ebbs on mouth-to-mouth resuscitation;
+Joyce Bertram's "My Child Was Robbed!"; C. H. Irwin on tripping; Govan's closing
+address; **Tony Shorgan on the French camps**; rabies; the OCA accreditation
+programme; age-level characteristics; VanWagner on camping's needs; John Hoyle
+on ethics; the book page; Nova Scotia; Carruthers's recipes; **Camp Tonakela**.
+
+**The French section's first year, reported by its chairman (pp. 181–82).**
+Tony Shorgan, now **Vice-President of the Quebec Camping Association**, writes
+the follow-up to issue 39, under a headnote that states the significance plainly:
+"**For the first [time] in the history of the Canadian Camping Association, a
+group of French-speaking camp directors have joined our camping movement.**"
+It names the whole committee of five elected on 12 April 1958 — **Tony Shorgan
+(chairman), Mr René St-Onge, Reverend Brother Henri, e.c., Reverend Father Aimé
+Côté, s.s.s., and Miss Pauline Jodoin** — and gives Father Dubé's talk its
+English title, "The Right Team Spirit in the Summer Camp". VanWagner's stated
+reason for wanting the group formed: "he felt both French and English Camps would
+benefit from the experiences of one another." The agreed strategy: eventual
+merger into the existing association, but "for the first year or two… concentrate
+its efforts towards properly organizing their own groups on solid ground."
+
+Then what the group actually did in its first year:
+
+1. **A directors' meeting at Shorgan's own camp** — the **Crippled Children's
+   Summer Camp at St-Alphonse-de-Joliette**. Invitations went to "representatives
+   from all the camps in the Province of Quebec — **approximately one hundred in
+   number**"; twenty French directors came, **"some… travelled some three hundred
+   miles to attend."** Shorgan walked them through the camp "from basement to
+   attic", and each director explained his own methods. They resolved to meet
+   annually right after camp closing, "while people were still in the camp mood."
+2. **A convention in Montreal on 15 November [1958], in the gymnasium of
+   Mont-St-Louis College**, publicised by radio, television and the newspapers.
+   Morning: directors of **nine different types of camp** showed slides — "camps
+   for very young children, private camps, welfare camps, camps for the
+   handicapped, camps for delinquents… from every corner of the Province" —
+   chaired by René St-Onge. Then **Father Ernest Carrier, Director of Camp des
+   Lutins**, chairing **Father Raoul Cloutier, Director of Camp École
+   Trois-Saumons, Quebec City**, on camp administration. Afternoon: a panel of
+   **Father Jean-Paul Fraser, Miss Jacqueline Lavoie R.N., and Miss Lucie
+   Samson** on recruiting and selecting counsellors — with ping-pong, bowling and
+   billiards in the free hours between.
+3. Proposals recorded for the future: a joint spring convention; "**a bilingual
+   magazine, or at least one or more articles in French in the Canadian Camping
+   Magazine**"; a French publication in February; and Father Côté's suggestion of
+   a French news bulletin.
+
+The candid line about why merger was deferred is worth keeping: "**The feeling
+was that some of the Camp Directors might be handicapped because they did not
+understand the English language.**" Nothing in the repo carries any of this. With
+issue 39, this is a two-part origin story for francophone Quebec camping's own
+organisation, dated, named, and with a working denominator — **about one hundred
+camps in the province in 1958–59** — that `quebec-camp-landscape.md` currently
+lacks.
+
+**A. L. Cochrane's obituary, written by Mary S. Edgar (pp. 173, 197).** Two
+findings, one about each of them.
+
+Edgar is bylined "**Founder of Camp Glen Bernard, Founder and Former Editor of
+Canadian Camping Magazine**." The KB carries Edgar in seventy-one facts —
+Oolahwan 1917, first CCA vice-president 1936, the 1925 ACA hymn prize, four books
+— but **nothing recording that she founded and edited this magazine**, the very
+source this read is working through. That is a substantial addition to her
+record and to `meta/sources-index.md`: the run beginning February 1949 was her
+creation.
+
+Cochrane, the CCA's "first and only Honorary President", died **at the age of
+eighty-nine**, and this is the issue in which his name finally drops from the
+masthead's living roll. Edgar's account: an English boy who "read eagerly tales
+of the Voyageurs"; **instructor in Physical Education at Upper Canada College**;
+"more than half a century ago" led schoolboys **across the Champlain Trail from
+North Bay to Mattawa, up the Ottawa to Lake Temiskaming, then down the
+Matabichewan River to Lake Temagami**, where he saw "a great bark canoe paddled
+by eight Ojibways on the way to the Hudson's Bay post at Bear Island". He found
+**five pine-studded islands** in Lake Temagami and directed his boys' camp there
+**for more than fifty summers**. He **founded the first Canadian branch of the
+Royal Life Saving Society**, and was **appointed honorary associate of the Order
+of St John of Jerusalem by King Edward VII in 1908** for it; he was later given a
+plaque by the Ontario Department of Education and life membership in the Canadian
+Red Cross. `canadian-camping-movement.md` currently carries him as one line in a
+table — "1900 | A.L. Cochrane's camp | Ontario | First private camp in Ontario" —
+and as an OCA founding member. This is his life.
+
+**A DATED CONFLICT ON HEDLEY S. DIMOCK'S DEATH (p. 205).** The unsigned Camp
+Tonakela report states: "**Dr. Hedley S. Dimock passed away at his home in San
+Francisco, on October 10th, 1958**, and a tablet to his memory has been unveiled
+at the camp." `hedley-dimock.md` states he "died **October 4, 1958** in
+**Burlingame, San Mateo, California**", citing an Oakland Tribune obituary of the
+following day. San Francisco vs Burlingame is loose usage; **4 October vs 10
+October is a six-day discrepancy between two documented sources**, one a
+contemporary newspaper obituary and one a memorial notice written by an
+organisation he had chaired. **Open a conflict record.** The wiki's date, resting
+on a next-day obituary, is the stronger source and should stand pending
+resolution, but the discrepancy must be recorded rather than silently ignored.
+
+The same report adds facts about Dimock nowhere in the repo: he was a **former
+chairman of the Camp Tonakela Association**, "a close friend, a hard working
+colleague", and the pavilion Hendry saw dedicated in issue 42 is the memorial.
+It also **dates Camp Tonakela's inception to 1935** — against issue 38's account
+of Taylor Statten opening it in **1938** and its twenty-first birthday falling on
+**21 February 1958** (implying 1937). Three dates in the same magazine within
+fifteen months; a second conflict, minor for this project but worth flagging.
+Further Tonakela detail: Forgie had just returned from six months in North
+America; Perumal Naidu ran the camp alone and "was carrying the load"; the
+convalescent centre for girls opened to its **first group in November [1958]**;
+the Minor Treatment Centre sees "an average attendance of twenty… the majority
+are mothers with infants"; user groups include **St Christopher's Teachers
+Training School** (ten-day rentals, students paying their own expenses and
+throwing a party for village children) and **The City Children's Club** in "a
+dozen slum areas", whose children come as "Aided Campers".
+
+**"My Child Was Robbed!" — a Quebec camp director's satire on over-organised
+camping (pp. 176–77, 206).** Joyce Bertram of Camp Ouareau writes as an
+aggrieved father, and it is the sharpest piece of writing the run has produced.
+The boy went to camp meaning to fish with bent pins, whittle a birdhouse, build
+a raft and a tree house, run a secret club, cook in a billy can, sleep on a rock,
+be Robin Hood and scalp half the camp in its sleep. What he got:
+
+- **Archery**: "there was this counsellor see who was in charge of archery and he
+  said we always had to be very careful when we were shooting, so **we did it all
+  to numbers**." A tournament, lists on the bulletin board, a counsellor
+  demonstration — and a row when the boy went fishing instead. "He said we
+  weren't co-operating."
+- **Crafts**: "they had a dandy craft shop with a whole lot of power tools.
+  Course they were pretty dangerous **so the counsellors used them**. When we
+  wanted something cut we took it to the guy in charge of crafts and he did it
+  for us." Leather kits with "the pictures already on the stuff, you just had to
+  trace them." Bows "just had to be assembled and then we were allowed to paint
+  our names on them."
+- **Tripping**: rained out on the second day, retrieved by truck; the fish he
+  caught forbidden in favour of "the **Jiffy-pack** stuff you just added water
+  to. I kept mine for awhile but it started to stink so I threw it out."
+- **Swim tests**: "Skinny couldn't dive so good but they passed him too 'cause he
+  wanted to go on the trip and he couldn't without his swimming test. **Kinda
+  corney eh, after I'd worked so hard on mine?**"
+- **The raft**: impossible, "cause the swim area was all roped off and that was
+  the only safe place to have it."
+- **The tree house**: "The counsellor did all the hard parts like the roof and
+  around the windows but we carried the boards… It was fun, I guess, but **we
+  didn't play in it much for some reason**."
+- **Wildlife**: tracks not followed because the bunk was due at canoeing; a deer
+  passed because they were due at flag-raising and a fourth lateness would have
+  cost them Saturday's movies. "Westerns and stuff like that there. They were
+  keen. We had 'em every Saturday and whenever it rained."
+- **The eroded bank**: the boys threw rocks into the holes in their bathing suits
+  and had a good time, "but of course we could only do the rock part." Men from
+  the village resodded, planted and cemented; deck chairs for parents watching
+  next year's regatta. "**I'd sure like to plant some trees sometime, but of
+  course you gotta know how like these forester guys.**"
+
+The one success is riding, and precisely because the boy was given real work —
+turning horses out, mucking stables, cleaning tack, learning the twenty-two parts
+of a bridle, taking notes, coming second in a quiz — though he wasn't good enough
+to ride in the show. It ends with him asking to go to a ranch instead: "I think
+you might really get to learn something."
+
+Every safety rule, roped area, test and schedule Bertram is complaining about is
+one this same magazine has been printing for a decade — the OCA canoeing awards,
+the water-safety standards, Pearson's checklist, Lloyd's tripping discipline.
+This is a camp director, in the association's own journal, naming the cost.
+It belongs in any Kanawana article about programme structure, and it should be
+read directly against `programs-activities.md` and `canoe-trips.md`.
+
+**Ebbs introduces mouth-to-mouth resuscitation (pp. 174–75, 209).** A complete
+twelve-step protocol, with the comparative evidence: untrained people given only
+an explanation "can efficiently oxygenate an unconscious victim in at least 90%
+of cases whereas even trained personnel doing the chest-pressure arm-lift methods
+rarely attain better than 50–70% success", because the older methods leave both
+hands occupied and cannot clear an obstructed airway. He anticipates the
+objection — "The objection expressed by some people to the thought of having
+physical contact with the mouth of an unconscious person is easily overcome in an
+emergency" — and recommends the Holger-Nielsen method continue to be taught
+alongside. "Mouth-to-mouth" returns zero hits in `facts.json` and `wiki/`. This
+dates the arrival of the modern technique in Canadian camping to 1959, and gives
+a hard marker for reading any Kanawana waterfront or first-aid record before or
+after it.
+
+**Also noted.** The OCA's Standards Committee reports its move **"Towards
+Accreditation"**: the Self-Evaluation Questionnaire on *minimum* standards used
+1955–57 abandoned in 1958 for "A Study of Camping Practices" and a "Green Form",
+with visits requested camp by camp — "**At the present time, the O.C.A. does not
+have camp accreditation**, but it is hoped that… it will become mandatory for
+Camp Membership… at some future time." Only one question is mandatory: a
+Department of Health licence, without which "you may not operate a children's
+camp in Ontario." **John Hoyle of Camp Gay Venture reprints the OCA Business
+Principles** with commentary, naming the two live problems as poaching — "Persons
+known to have been at another camp the previous year should never be approached"
+— and "**Bidding up on honoraria… another cause of misery, trouble and
+heartache**", with a wish for common honorarium standards; he asks that disputes
+go to a committee "to be settled privately and without publicity." The **Nova
+Scotia** report counts **fifty-eight permanent camp sites** in the province,
+sixty percent on salt water — some with the whole daily schedule, meals included,
+revolving around the tides — **thirty-six of them run by churches or religious
+organizations**, 2,180 Scouts and about 1,000 Guides and Brownies camping each
+summer, the province's first camp for crippled children opened in 1958, and only
+four private camps, three of them owned by Americans. A long **age-level
+characteristics** table reprinted from Lois Goodrich's *Decentralized Camping*
+sets out what to expect at 8–9, 10–12 and 13–16 — "Expect bed-wetting from many";
+"They want to be older than they are"; "Never be shocked by them" — and prefaces
+it with advice that counsellors' written reports on campers "should be a part of
+the camp only to the extent that they are found valuable, and they should be
+under constant evaluation", another data point for the `p_307`/`p_308` file.
+And a dietitian's potato experiment: a 75-lb sack weighed **54¼ lb after machine
+peeling and just under 45 lb once the eyes were out** — a third of the crop lost
+in preparation.
+
+Kanawana itself: not named in this issue.
