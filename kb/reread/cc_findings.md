@@ -24113,3 +24113,303 @@ Canadian camp's director. The catalogue's front matter restates the association'
 worth a line for anyone reading a camp's invoices: third-class shipping unless otherwise asked, **1½%
 per month on overdue accounts**, no returns except for error or damage. The mailing label is again
 **Miss Marion Babcock, Newmarket**.
+
+---
+
+## 140 — Vol. 33 No. 6, Winter 1982 — THE MAGAZINE IS REDESIGNED, AND PLEWMAN SPEAKS
+
+Sixteen pages, and **the publication changes shape**. For the first time in this run the issue opens
+with an "IN THIS ISSUE" cover panel and carries a full **CONTENTS** page with page numbers and
+bylines, a signed **Editorial** under a stated **Editorial Policy** ("The ideas expressed in the
+Editorial are those of the Editorial Committee and not necessarily those of the Canadian Camping
+Association… We invite you to respond in 'Letters to the Editor' which we hope will be a regular
+feature"), a **Letters to the Editor** column, a photo credit line, and a designed two-column layout.
+After six years in which the publication was a typewritten newsletter or a plain-set bulletin (the
+break was dated at issues 106, 108 and 112), it is a magazine again. **Recorded as a structural break
+for the deferred `meta/sources-index.md` section.**
+
+Contents page checked; every item read: Editorial (camp director certification); Letters to the
+Editor; the provincial association address list; Interview: Charles Plewman by Jay Haddad; Regional
+News from George Matthews, Jane McCutcheon and Gary Luthy; Bruce Elkin, "A Place To Start: Running
+Creeks, Mountaineering and Personal Power"; the poem "I Am Camp"; Jay Haddad's Group Dynamics
+Exercise; Dinny Biggs's Planning Workshop Report; Energy Tips; the International Camping Congress
+notice; Mike Budd, "The Risk Factor in Outdoor Pursuits"; Book Reviews and Publication News; the Acid
+Rain Awareness Twinning Project; Action taken by the CCA/ACC Board; From the Environment Committee by
+Peter Rasberry; classified advertisements; and the Menu Feature. **Kanawana is not named.**
+
+**★★★★★ CHARLES PLEWMAN'S OWN ACCOUNT OF HOW THE CCA WAS FOUNDED — AND HE PUTS THE MEETING IN
+OTTAWA.** Jay Haddad interviewed Plewman on **15 August 1976 at his Haliburton rest home**; the
+excerpts are printed here after Plewman's death on **28 December 1981** (the notice gives his dates as
+**1890-1981**, Honorary Member and Past President of the Ontario Camping Association, founder of Camp
+Kilcoo in 1932). This is a founder, at 86, describing the founding, and one sentence in it contradicts
+what this wiki currently states:
+
+> "We did know there were camps in Quebec, so we invited them to a meeting and **we all met in Ottawa
+> and decided to have a Canadian Camping Association** — and Taylor Statten was its first President.
+> He had a lot of charisma — both Americans and Canadians took to him as he was their (A.C.A.)
+> President too."
+
+`canadian-camping-movement.md` says the association was founded **at the Central Y.M.C.A. in Toronto
+on 20 May 1936**. **Conflict record `c_029` opened, and the article now states both.** This is a
+human decision point and not one the oral-history directive settles: Plewman's account is a published,
+recorded interview with a named participant — a documented source — and the disagreement is between
+two documents about what happened, which CLAUDE.md reserves for human review. It is **not** the same
+question as the competing 1936/1946/1949 founding *dates*; Plewman agrees with 1936 and differs only
+on the city. Reconciliations to test: an organising meeting at Ottawa and a constituting meeting at
+the Toronto Central Y; or a memory at 86 of a meeting forty years earlier; or a Toronto claim that
+rests on the association's later Toronto address. **The minutes are at Trent** — see the next finding.
+
+The rest of the interview is the fullest first-hand account of Canadian camping's origins the run has
+produced, and several parts bear directly on this project:
+
+- **"A lot of people don't realize that boys' camps were operating in 1894 and '95 but it was 20 years
+  after that that girls even camped."** A founder of the movement, unprompted, naming **1894** as the
+  year boys' camps were running in Canada — the year Kanawana dates itself from. He is not talking
+  about Kanawana and does not name it; what he supplies is independent testimony from inside the
+  movement that 1894 is when this kind of camp began here, which is worth having beside the camp's own
+  claim. **Noted in the findings only; no article changed**, because he names no camp.
+- **Where organized camping came from.** "Fathers would go out canoeing with their sons — after all,
+  the canoe was the main method of navigation in this country for 100 years — one didn't have roads.
+  So canoeing was in our blood; then along comes a guy like Cochrane (and others) who says: 'I'll run
+  some boys on a canoe trip', without any thought of running a camp at all… **Camps started as a
+  supply base for canoe trips.**" And explicitly not from the churches: the evangelical family camps
+  of the 1800s "had no semblance to organized camping for youth."
+- **Canada was an ACA unit first.** "About 1930 I was asked to sit in with a group — there were about
+  4 or 5 people there; they were meeting and went down to the States once a year to the American
+  Camping Association Convention. **We were a part of one of the A.C.A. units**, along with many other
+  units from the northern states." The Ontario break came "around 1930, 31 or 32", spearheaded by
+  **Taylor Statten and Mary Edgar**, and the argument at the time was "whether we were concerned with
+  private camps or the broader scope to include agency camps. We had broader visions and wanted to
+  include both" — which is the decision that made a YMCA camp like Kanawana eligible to belong at all.
+  He adds that "**agencies in the first 10 or 15 years didn't play too much of a role… nothing like
+  today**", which dates the agency camps' rise to the association's second generation.
+- **He founded this magazine.** "I got out the first bulletin which was the forerunner of the Canadian
+  Camping magazine. I felt we didn't even know each other in Ontario — we had to find out where all
+  these camps were and let's bring them all together through communications." **Confirms the
+  attribution recorded at issue 92 and gives his motive in his own words** — for the deferred
+  `meta/sources-index.md` section.
+- **On directors, and on turnover.** His own worst years were 1940-45, when the Red Cross took him as
+  Secretary of the Toronto branch and "I found myself **hiring about 4 or 5 Directors in a period of
+  about 4 or 5 years. This was not a good thing.** To bring a man who didn't understand your mores,
+  your customs, your tradition, and had no real Kilcoo blood in his veins, placed authority over
+  people who had been there for several years… well, it was bad business, that's all. **My philosophy
+  is that I'd jump over a hurdle of pretty serious proportions to use a man from the camp that knew
+  the place from the ground up.**" That is the third statement this read has found of the
+  promote-from-within doctrine, after Morawetz's "woe to the camp which yearly changes its directors"
+  (issue 114) — and it is again a period judgement to set beside Kanawana's four directors in three
+  years.
+- **On what a director is for.** "In the earlier days, the camp director played the role of **a star —
+  not a team player but an individual star**… Camps were built around Directors in earlier days, but
+  camps today are built around the team, the camp's reputation, the camp's programme."
+- **On girls and coeducation.** "Girls were supposed to be able to faint at the right time — they were
+  supposed to have lily-white hands — to go out and rough it in the woods for a lady was unheard of!
+  In my first days of camping, **they wouldn't let anyone with skirts in the camp — not even the
+  cookhouse or kitchen — it had to be a man.**" And on Statten: "**I remember when Taylor Statten's
+  chief financial supporter discovered that he was going to run a girl's camp on the SAME lake as the
+  boys' camp, he nearly hit the roof. He said 'Don't do it, Taylor, don't do it — you're making a big
+  mistake'. This was before anything known as co-ed camping!**" His own conclusion is favourable:
+  "camps allowed females to grow in the out-of-doors and **camps were in the forefront of this
+  change**." **Written into `history/coeducation-gender.md`** as movement context — a founder's account
+  of the resistance, from someone who watched it, not a Kanawana document.
+- And his closing line: "**You better take a good look at me because I'm a product of the Victorian era
+  — still living and still kicking. With two exceptions, I'm the only one left of our group of camping
+  pioneers — it's a lonely feeling at times.**"
+
+**★★★★★ THE CCA ARCHIVES AND THE ORAL HISTORY TAPES ARE AT TRENT, WITH A NAMED ARCHIVIST AND AN
+INVITATION TO WRITE.** Printed at the foot of the interview: "**The CCA/ACC Archives are located at
+Trent University. The Oral History Interview Tapes reflect the efforts of many volunteers to record
+the history of the camping movement in Canada.** Anyone wishing further information on the CCA/ACC
+Archives should communicate his specific area of interest to: **Mr. Ken Johnson, Archivist, Thomas J.
+Bata Library, Trent University, Peterborough, Ontario K9J 7B8, (705) 748-1413**."
+
+This closes a chain this read has been assembling for thirty issues. The 1976 national oral-biography
+project under Jay Haddad (issue 112), merged into Archives under Helen Stewart by February 1980
+(issue 129); the eighteen Geneva Park cassettes; the mailing label on the May 1980 issue addressed to
+"Trent University, Archives Dept., Peterborough, **Attention: K. Johnson**" (issue 131) — the same K.
+Johnson, here given his full name and title; and now the association stating in print that the tapes
+are deposited there and inviting enquiries by subject. **`p_319` updated with the address and the
+archivist's name.** The Plewman interview printed here *is* one of those tapes, transcribed — which
+means the tape series contains full interviews of which the magazine printed excerpts, and a request
+to Trent should ask for the recordings and any transcripts, not only for the printed text. **Any
+Quebec or Montreal interview in that series is a first-order source for this project**, and the
+association's own instruction is to write in with a specific area of interest.
+
+**★★★★ THE FIRST INTERNATIONAL CAMPING CONGRESS — dated, priced and placed.** "**Bienvenu à Toronto
+pour notre premier congrès international des camps**": **26 to 29 January 1983, Sheraton Centre,
+Toronto**, full registration $160 ($125 before 20 December 1982), described by the Central Region
+report as "**the CCA/ACC's biggest event ever**". Its French slogan is "**ENSEMBLE ON EST PLUS
+FORT**". Leaders in camping "from all over the world are being contacted and invited to attend as
+speakers or delegates"; a **National Workshop on Promotion** was scheduled to coincide with it, and a
+Promotions Workshop Planning Session for January 1983 was chaired at the Halifax board meeting by
+**Terry Burkhalter**, President of the Manitoba Camping Association.
+
+**This matters to a claim already in the wiki.** `connections/institutional-lineage/sgw-concordia-connection.md`
+records that **Raye Kass**, Concordia's Assistant Professor of Applied Human Sciences and Program
+Director of the Centre for Human Relations and Community Studies, "presented on camp leadership at the
+International Camping Congress" — undated there, and sourced to Wikipedia. **The CCA's own congress
+was the first of its name in Canada, held in Toronto in January 1983**, which makes it a strong
+candidate for the one Kass spoke at, and would put a Montreal academic in Hedley Dimock's own centre
+on the programme. **It is a candidate and not a confirmation** — international camping congresses were
+also held elsewhere — so nothing is asserted in that article. **New priority `p_325`: obtain the 1983
+Congress programme and delegate list** (Trent holds the CCA fonds) and check it for Kass, for the ACQ,
+and for any YMCA of Montreal or Kanawana name.
+
+**★★★ AN ACID RAIN EDUCATION KIT WAS OFFERED FREE TO EVERY MEMBER CAMP, IN BOTH LANGUAGES.** The
+association announces the National Survival Institute's **Acid Rain Awareness Twinning Project**,
+"suitable for **10-13 year-olds**", whose aim is "to twin organized youth groups (in our case, CAMPS)
+to exchange information, project ideas, and points of view", hoping for twinning "between groups in
+Canada and the U.S.A. or at least two groups from different regions of Canada." The free **ACID RAIN
+EDUCATION KIT** contained: a **colouring poster** for every child; a **map of North America showing
+all areas subject to acid rain**; take-home information; fact sheets for leaders on causes, effects
+and proposed solutions; resource information; and project ideas and discussion questions. "**The
+CCA/ACC ENVIRONMENT COMMITTEE heartily endorses this project and encourages the CCA/ACC Member Camps
+to take advantage of this offer**", with a note that "**le 'kit' est également disponible en
+français**", ordered by sending the camp's name, director, address, number of campers participating
+and number of leaders' kits required to the National Survival Institute at 229 College Street,
+Toronto.
+
+**Written into `traditions/environmental-history.md`.** This is the first item in the whole run that
+is not a policy, an article or a standard but **a physical teaching kit sent to camps** — and the
+order form asks for a camper count, so a list of participating camps once existed at the National
+Survival Institute. **Kanawana was a member camp and was eligible; whether it ordered a kit is not
+known and is not claimed.** A colouring poster and a North American acid-rain map are exactly the kind
+of thing that survives in a camp's craft cupboard or a scrapbook, and worth asking about by name.
+
+**★★★ THE EDITORIAL DEMANDS CAMP DIRECTOR CERTIFICATION — and another article in the same issue says
+certification is useless.** "Camp Director Certification: **THE TIME IS NOW!**" opens: "Doctors are
+licensed to practise their profession. Teachers are certified before entering a classroom. Nurses are
+registered before being allowed to care for patients. **Yet, just about anyone is allowed to direct a
+camp and care for other people's children. This is not right!** There are no national standards as to
+the professional qualifications of a camp director; some provinces have age, education or experience
+requirements but does this ensure that camp directors are capable and qualified to care for the
+children of our consuming public? Certainly not." It proposes a two-part scheme — a specified
+curriculum (needs of children; needs of staff; hiring and development of staff; health and safety;
+camp administration and people management; understanding and implementation of camp philosophy; food
+services) **plus an internship in an organized camp** — and states the threat behind it: "**this
+situation opens up the very real possibility — in fairness to the public — of the imposition of
+regulations on us by the government. The responsibility rests with us — the time is now!**"
+
+Eight pages later **Mike Budd** writes, of wilderness leadership, "**Certification courses simply
+legalize errors in judgment**", and that "the development of wilderness leaders can't simply be done
+with the skills school approach." The two sit in the same sixteen pages, and the Editorial Policy
+note printed beside the first exists precisely because the editorial committee had begun taking
+positions the association had not adopted. **Written into `canadian-camping-movement.md`**, because
+what a camp director had to be qualified as, and who said so, is the direct context for reading any
+Kanawana director's credentials in these years — and the answer in 1982 is **nobody: there was no
+national qualification, and the association's own editors were arguing that this was a scandal.**
+
+**★★★ Mike Budd's objective/subjective danger framework** — reprinted from *Runner*, the Alberta
+Teachers' Association Health & Physical Education Council quarterly, by a teacher at Dr. E. P.
+Scarlett High School, Calgary. It is the clearest analytical statement of outdoor risk in the run and
+completes the 1978-82 arc this read has traced. **Objective dangers** — "avalanche, white-outs, bears,
+lightning — which man has no control over"; **subjective dangers** — "hypothermia, getting lost, river
+crossings — which through skill, precautions, and equipment, man can minimize." His diagnosis of the
+period: "**there has been a drastic rise in the number of accidents causing serious injury or death. A
+major reason… is that the number of inexperienced wilderness users has risen at a much faster rate
+than has the proportion of knowledgeable wilderness leaders**", and "regulating bodies have been under
+pressure to do something — anything!" His seven leadership precautions, five methods of party control
+(from the middle, the back, the front, stationary, and tight where risk is high), and five "legal
+requirements of outdoor pursuits experiences" — including "**completing route cards, medical cards,
+and following established back-up procedures in the event that the leader is late**" — name two more
+record classes for `p_323`: **route cards and individual medical information cards carried in the
+first-aid kit.** And a line worth keeping: "good judgment comes from experience and experience is the
+result of poor judgment." **Contextual note added to `traditions/canoe-trips.md`.**
+
+**★★★ THE SOCIETY OF CAMP DIRECTORS' TRIPPING PAPER EXISTS AS A DOCUMENT, AND WAS BEING GIVEN AWAY.**
+"The Society of Camp Directors have donated a limited number of copies of their paper on **Canoe
+Tripping Practices in Canada. (John R. Latimer, Research Chairman, 1979)** Interested persons can
+acquire it at no extra charge when added to your next order to the National Office." This read
+followed that survey through three issues — the free-text answers (issue 131), Hoyer's report with
+five tables (issue 132), Hoyer's note that "the questionnaire and the tabulated responses can be
+obtained from the C.C.A. office". **Here it is a titled, authored, dated paper**, with **John R.
+Latimer** — Kilcoo's director, the CCA past president, the author of the promotion summary and of the
+parents' expectations list — named as the Society's **Research Chairman**. **Added to
+`traditions/canoe-trips.md` and to `p_323`**: ask for it by this exact title and author. Copies were
+distributed free to any camp that ordered a book in 1982, so it should be reasonably findable.
+
+**★★ A Quebec member holds the national promotion portfolio.** The Central Region report names
+"**Marnie Ellis, our Public Relations and Promotion Chairman, and an active A.C.Q. member**", heading
+a National Workshop on Promotion for the 1983 Congress. That is Derek Walsh's old portfolio, held from
+1977 to at least 1983 by him and now chaired by another Quebec association member — a second Quebec
+name in the same national job. **Added to `canadian-camping-movement.md`.** The same report dates the
+**A.C.Q. Conference to 18-20 March 1982 at Laval**, with the CCA executive attending and some
+presenting sessions, and the Ontario conference to 11-13 March at the Skyline Hotel, Toronto, theme
+"Though We Are Small, Stand By Us Tall", with **John Latimer** giving the banquet speech.
+
+**★★ The provincial association addresses, printed in full — and Quebec has one entry.** The list of
+national and provincial offices gives "**Association des Camps du Québec, 1415 est rue Jarry,
+Montréal, Québec H2E 2Z7, Téléphone: (514) 374-4700 ex 447**" and **no separate Quebec English-language
+body**. This is the third printed list in four years to carry one Quebec entry where October 1978
+carried three, and it gives the ACQ's address and telephone as of Winter 1982. **Added to
+`canadian-camping-movement.md`** beside the English Section paragraph as further, still circumstantial,
+evidence.
+
+**★★ What the national board actually did, November 1981.** The semi-annual Board meeting was at
+**Halifax, 20-22 November 1981**, travel and meeting rooms paid by Fitness Canada. Decisions: **no
+second National Wilderness Travel Leaders Course** was committed to, "since many provinces did not
+meet with their delegates from last May's" course — so the 1981 school at Yamnuska (issue 138) may
+have been the only one of its kind, and provinces were told to take it up themselves through the
+Alberta association's Wilderness Travel Committee. Budgets approved for 1982-83 and for the Congress,
+with **a submission to Fitness Canada requesting $109,617** for several projects, the answer expected
+in late March 1982. **Reports were received from twenty committee and task force chairmen** on their
+responsibilities "as outlined in the **Action Plan**" — the January 1981 document named at issue 138,
+here confirmed as the association's operating framework. The **1982 Annual Meeting** was set for
+**Camp Rayner, Saskatchewan, 30 April – 2 May 1982**. Minutes were available to members through the
+provincial presidents. **Added to `canadian-camping-movement.md`.**
+
+**★★ The Environment Committee starts writing an environmental ethic.** **Peter Rasberry**, Chairman,
+reports that the committee is implementing stages of the Action Plan and that "**the first task of the
+committee is to prepare an Environmental Ethic — a statement of our values and concerns for our
+natural world. This ethic will become the basis for a set of principles and practices (personal and
+institutional) to guide us in continued enjoyment, appreciation, and sensible interaction with
+Nature.**" He notes the core committee is necessarily Southern Ontario people living near each other
+and asks for provincial representatives. **Added to `traditions/environmental-history.md`** as the
+next stage after the 1979 twenty Environmental Maintenance Standards: a national code was being
+drafted in 1982, and if it was finished it would have gone to every accredited camp. *(A Peter
+Rasberry appears in the Boys' Camp Band at issue 121; not asserted to be the same man.)*
+
+**★ Bruce Elkin's "Running Creeks"** — Assistant Director of Programs at the **Rocky Mountain
+Y.M.C.A.**, describing **Earth Ways**, "a twenty-two day 'experience in personal and environmental
+exploration'" in the Exshaw Valley of the Alberta Rockies with fourteen teenagers and three staff.
+The method: instead of a top-roped "rock school", begin mountaineering by running the boulders in a
+creek bed, an idea taken from **Doug Robinson's "Running Talus" in an old Chouinard catalogue**. "**No
+instruction. No teaching. No show and tell. Running creeks is all 'share and do', learning from
+example.** Our motto is 'if we have fun they'll have fun'." His observation about fear is the
+transferable part: "**Most people do not suffer from balance problems. They suffer from exposure
+problems**… kids who routinely fell off logs crossing the creek could easily walk the same log placed
+on land." The programme also included three days' solo, silent observation, journal poetry and pizzas
+baked over campfires. A YMCA outdoor programme of 1982 described from the inside, at length, by its
+designer — useful as comparison for Kanawana's own Adventurers and Voyageurs sections, and recorded
+here rather than in an article because nothing connects it to Quebec.
+
+**★ Jay Haddad's group dynamics exercise**, which is a usable artefact: fifteen relationship pairs —
+CHEF-DINER, PARENT-CHILD, SALESMAN-CUSTOMER, HOST-GUEST, POLICEMAN-CITIZEN, JUDGE-DEFENDANT,
+SUPERVISOR-EMPLOYEE, SERGEANT-MAJOR-SOLDIER, DOCTOR-PATIENT, GARDENER-FLOWER, POTTER-CLAY,
+**MISSIONARY-HEATHEN**, FRIEND-FRIEND, COACH-TEAM, PERFORMER-AUDIENCE — with staff asked which most
+and least resembles the counsellor-camper relationship, and the variant "director-counsellor" or
+"C.I.T. Director-C.I.T." Groups of three to five, "no more, no less". The rules he prints — "no one
+wins or loses"; "**conflict is important and necessary — it can be a creative experience, as long as
+no one is attacked personally**" — are a period statement of how camp staff training was run, and the
+inclusion of MISSIONARY-HEATHEN in a 1982 list is itself worth noting.
+
+**Minor.** **Dinny Biggs**, Leadership Development Programs Chairman, sets out a consultant/advisor
+scheme funded by Fitness Canada, and her report is unusually candid about its own weakness: "**The
+hidden assumption I realized later was the willingness of the associations to invite a
+consultant/advisor**… at that point in my sessions it would have been constructive for me to have
+thought it out in the open." A **Leadership/Skills Development Opportunities** calendar names each
+province's courses by month, with Quebec's entry "**Qué: Directors & Counsellors**" in March. **Energy
+Tips** describes the **Canada Oil Substitution Program**, part of the National Energy Program — a
+ten-year federal grant scheme to convert heating from oil to gas, electricity, wood, solar or propane,
+with the Ener$ave toll-free line — which is the funding context for any Kanawana heating conversion of
+the early 1980s. Eanswythe Flynn's review of *When the Wilderness Beckons* names the association's own
+authors: "**Jack Eastau[gh], Mary Edgar, 'Blackie' Blackstock, Ron Perry, Bill Mason, Jack Pearse**".
+A **new shipping and billing policy** — flat rates of $1.80 and $3.00, and **2% monthly interest** on
+overdue accounts, up from 1½% in the October catalogue. A book review of Michael Hatton's *Lightweight
+Camping: A Four Season Source Book*, Hatton "instrumental in developing **Humber College's Outdoor
+Education Certificate Program**". Two camp director advertisements — the **Y.W.C.A. Saint John** for
+**Camp Glenburn**, "20 miles outside of the centre of Saint John, N.B., on a 22 acre site of the
+Belleisle Bay", and **The Easter Seal Society** for five Ontario camps. The anonymous poem "**I Am
+Camp**". And the Menu Feature, **Veal Parmesan for 50**, reprinted from Laurie Macintosh's *The Kitchen
+Makes The Camp Go 'Round* — a costed, quantified camp recipe of 1982 for anyone reading a kitchen
+record. The mailing label is again **Miss Marion Babcock, Newmarket**; the change-of-address specimen
+printed beside it is addressed to **Miss Marjor[ie Booth], 1806 Avenue Road**.

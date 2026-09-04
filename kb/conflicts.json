@@ -569,6 +569,15 @@
       "status": "unresolved",
       "flagged_at": "2026-08-28",
       "notes": "Found by p_227, the sweep of defects in already-E1-reviewed articles -- this contradiction sat inside a top-tier article and was inherited by anything citing it. TWO DOCUMENTED SOURCES DISAGREEING is the case the 2026-07-07 oral-history directive explicitly leaves to human review, so neither reading is preferred here and both are stated in the article. Resolvable by an independent record of McEwen's post in 1951: Winnipeg YMCA institutional history, the YMCA of Canada National Council staff lists, or his 1956 obituary."
+    },
+    {
+      "conflict_id": "c_029",
+      "entity": "Canadian Camping Association (place of the founding meeting)",
+      "description": "TWO DOCUMENTED ACCOUNTS PUT THE CCA'S FOUNDING MEETING IN DIFFERENT CITIES. connections/institutional-lineage/canadian-camping-movement.md states, on the archival holdings, that 'In 1936, the Canadian Camping Association was founded at the Central Y.M.C.A. in Toronto on May 20, with Statten as first president.' Against that, Charles F. Plewman -- a founder, present at the meeting, and the man who produced the association's first bulletin -- told Jay Haddad in a recorded interview on 15 August 1976: 'We did know there were camps in Quebec, so we invited them to a meeting and WE ALL MET IN OTTAWA and decided to have a Canadian Camping Association - and Taylor Statten was its first President.' The interview was printed in Canadian Camping Vol. 33 No. 6 (Winter 1982), pp. 4-5, after Plewman's death on 28 December 1981. Both are documented; the operator directive on oral history yielding to documents does not settle it, because Plewman's account is a documented publication of a recorded interview with a named participant, not undocumented oral tradition -- and because the two sources disagree about what a document says happened, which CLAUDE.md reserves for human review. NOT the same question as the competing 1936/1946/1949 founding DATES, which are tracked separately; Plewman's testimony agrees with 1936 and disagrees only about the city. Possible reconciliations to test before resolving: an organising meeting at Ottawa followed by a constituting meeting at the Toronto Central Y; Plewman recalling the wrong city at 86, forty years on; or the Toronto claim resting on a secondary source that assumed the association's Toronto address. The CCA fonds at Trent University hold the minutes.",
+      "facts": [],
+      "status": "unresolved",
+      "flagged_at": "2026-09-04",
+      "notes": "Found by the full word-for-word read of Canadian Camping, issue 140. HUMAN DECISION POINT under CLAUDE.md: two documented sources disagreeing with each other. Do not silently prefer either in any article; canadian-camping-movement.md now states both and points here."
     }
   ]
 }
