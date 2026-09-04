@@ -3902,3 +3902,169 @@ questionnaires returned by "thousands of camping people", 35¢ a copy — anothe
 songbook thread for `p_048`, alongside the QCA's own.
 
 Kanawana itself: not named in this issue.
+
+## 39 — Vol. 10 No. 4, June 1958 ★★★
+
+Devenney's editorial on choosing a camp; Urquhart on natural science; Douglas
+Lloyd's canoe-trip checklist; Paul Provencher on woodlore; a rabies notice;
+Klein on staff supervision; a rainy-day list; VanWagner on tents; Churcher on
+foxes; a Devitt sermonette; **News From the Provinces**; Dorothy Douglas's
+1958 camp library check list; Bill Salo on orienteering; Toner's column.
+
+**The Montreal conference is reported, and it produced the founding meeting of
+the French section (pp. 192, "News From the Provinces — QUEBEC").** This is the
+issue the last three issues were pointing at, and it delivers something better
+than a Kanawana mention.
+
+The report first: "A highly successful camping conference was held jointly by
+the Canadian Camping Association and the Quebec Camping Association in Montreal,
+at the Windsor Hotel, on April 11th and 12th, 1958. Highlights included such
+speakers as **Paul Provencher, Dr. F. A. Urquhart, Prof. Reynold Carlson,
+Mr. Charles Stafford, Mr. Robson Black**, and many others." Two of those
+addresses are printed in full in this same issue and are flagged as such —
+Urquhart's "Natural Science at Camp" ("Prepared from an address given at the
+joint conference … held in Montreal on April 12th, 1958") and Provencher's
+"Woodlore" ("An Address given at the Joint Conference … Montreal, April 12,
+1958"). None of these five names appears anywhere in `facts.json` or `wiki/`.
+
+Then the substance:
+
+> "When the Programme Committee of the Quebec and Canadian Camping Conference
+> were struggling with the content for programme, it was suggested the French
+> Camps should have some opportunity to participate. **The Committee insisted
+> nothing should be planned for them without their consent and co-operation.**
+> The Chairman, **Nan Vail**, and **Tony Shorgan**, undertook the task and the
+> latter called a meeting of the French directors.
+>
+> Some fifteen persons attended and under the chairmanship of **Mr. René St.
+> Onge**, discussed the possibilities. They became interested, not only in the
+> Conference, but in organizing a French section."
+
+Two sessions resulted: Saturday morning, on whether to form a French section;
+Saturday afternoon, **Rev. Father Dubé, c.s.c., director of Camp l'Escale**, on
+"L'esprit qui doit régner dans un [camp] de vacances". After a presentation by
+VanWagner, a committee of five was named to work for one year — "slow, careful
+work was to be undertaken" — and **Tony Shorgan was chosen as its chairman**,
+to "develop interest, plan meetings, carry out consultation with the Q.C.A.
+Executive, and plan for the future." The report closes: "We are all confident
+that what seems like a modest beginning may develop into something very worth
+while for Canadian Camping."
+
+This matters directly. `wiki/people/leo-robitaille.md` already records that the
+Association des camps du Québec had a **French section with Georges Robitaille
+as its president in 1976–77**. This is that section's founding meeting, dated to
+the day — 11 April 1958, Windsor Hotel — with the names of the people who called
+it, chaired it, and were elected to run its first year, and with the organisers'
+own stated principle that nothing be planned for the French camps without their
+consent. Kanawana's own institutional world was the anglophone YMCA of Montreal;
+this is the document that shows when and how the other half of Quebec camping
+organised itself inside the same association, and it is a substantial addition to
+`quebec-camp-landscape.md`. New research targets: **Tony Shorgan**, **René St.
+Onge**, **Camp l'Escale** and its director **Father Dubé, c.s.c.** (Congrégation
+de Sainte-Croix), and the fate of that committee of five over 1958–59.
+
+**Two office-holdings resolved in passing.** The Eastern Ontario item lists the
+conference's visiting dignitaries: "Mr. Fred Van Wagner, President C.C.A.;
+**Miss Agnes Mutchler, President Q.C.A.**; **Mrs. Eanswythe Flynn, Executive
+Secretary O.C.A.**; **Miss Nan Vail, Past-President C.C.A.**; and Mr. Bill
+White." So (a) Mutchler — already in the KB via `f_2277`, `f_2289` and `f_2309`,
+where she is QCA vice-president in June 1954 — was **president of the Quebec
+Camping Association by May 1958**, the post Roy D. Locke of Kanawana had held in
+February 1951; (b) "Nan Vail" is **Anne I. Vail** of the CCA past-presidents
+list, so the two forms are one woman; and (c) the magazine's editor, always
+bylined "Mrs. G. W. Flynn", is **Eanswythe Flynn**, and she was simultaneously
+executive secretary of the OCA. All three names in their full forms return zero
+hits in the repo.
+
+**Paul Provencher's "Woodlore" (pp. 176–78, 181) — the French-Canadian
+counter-text to the manufactured Indian lore.** Provencher is bylined "Timber
+Cruiser, Voyageur, Master Woodsman, Chief Forester, Author of *I Live in The
+Woods*", and he addressed a Montreal camping conference nine generations after
+his ancestor **Sébastien "Sebast" Provencher landed in 1663** and was called by
+Intendant Talon to guide **Father Albanel's first trip to Hudson Bay via Lake
+St. John**. What he actually teaches is technique, not costume: a seven-step map
+orientation procedure; the warning that a compass needle goes "crazy" over
+mineral ground; what to carry (axe, fishhooks, lines, snare wire, a small steel
+trap, a fish net, a waterproof box of twenty matches); winter footwear (moose
+hide or caribou moccasins, three pairs of wool socks, Hudson Bay blanket duffle
+and felt insole — "two of my cruisers … have lost their toes on account of
+wearing rubber boots"); and how to dig a snow hole against a cliff for a natural
+chimney, insulated with balsam boughs, needing "about one cord of wood in
+twenty-below zero weather." His Indigenous material is reported speech from
+named living people, not invented ceremony: an elderly **Naskapi trapper at
+Fort MacKenzie** who laughed at his fire-by-friction thong — "Naskaupee Indians
+never run short of matches" — and the observation that "The Indian does not
+travel in rainy and foggy weather, he knows how to live, why should we get wet
+ourselves and take a chance to get lost?" Set beside Jack Eastaugh's mail-order
+council-ring booklet reviewed two months earlier — and reprinted in this very
+issue's library list under **Programme** — this is the same magazine, in the same
+year, printing both the manufactured Indian ceremony and the actual woodcraft,
+without noticing the difference.
+
+**Douglas Lloyd's canoe-trip checklist (pp. 173–75, 191).** Lloyd is "Canoeing
+Instructor and Director of Out-Trips, Camp Ahmek". Seven sections (planning
+before campers; planning with campers; preparation; packing; on the way; on the
+campsite; the return), each a numbered interrogation. The operational specifics
+worth keeping: **one day of rest in four** built into every itinerary; a
+staff-assistant who "must have enough prestige to carry on should anything
+happen to you"; one pack per camper and one canoe per staff man; canoes loaded
+"slightly stern-heavy"; the evening campsite reached "by 3–4 p.m. at the latest";
+camp broken "within an hour and a half of rising"; leaving good firewood for the
+next party as the mark of a well-planned trip; and, in capitals, **"Have the
+courage and judgment to say 'no' to the urge to shoot rapids or cross 'white
+water'. When campers are involved, the answer is always 'NO'."** That is
+Ahmek's out-trip director, in print, four months after Oscar Pearson's editorial
+described searching twice for the body of a drowned boy in rapids. For
+`canoe-trips.md`.
+
+**VanWagner's elegy for the tent (p. 185).** "Today, we find the tent in need of
+protection, for, no less than some of our wild life friends, it is threatened
+with extinction." He specifies the tent he means — overhung by a fly projecting
+9–12" front and back and 15–18" each side, pitched on an elevated board floor,
+four-foot side walls that roll up in good weather and hook to the platform in
+bad — and then states the reason cabins won: "directors prefer cabins because in
+the long run they are more economical, are easier to maintain, and do not have
+to be put up and taken down each season … the campers' choice is tents while the
+directors prefer cabins. In this contest, the directors are certainly winning.
+The directors' gain is the campers' loss, and camping, it seems to me, has become
+a little less campy." A dated, first-hand account of the tent-to-cabin
+transition at Laurentian camps, from the president of the national association.
+Directly useful for dating and interpreting the same transition on Kanawana's
+site.
+
+**The 1958 camp library check list (pp. 195–98)** is a full bibliography of what
+a Canadian camp was expected to own, by category, with prices and Canadian
+distributors — and it is a shopping list for this project's own source hunting.
+Items to note: **"TALKS TO COUNSELLORS by H. Dimock and T. Statten, 90c"**
+(Association Press) under Leadership; **Mary S. Edgar, *Under Open Skies***
+listed twice, under Literature and Spiritual; **Eastaugh's *Indian Council Ring*
+listed under Programme** alongside Jaeger's *Council Fires*; Mary L. Northway's
+*Sociometric Testing* and *What Is Popularity?* under Camper Development; and
+under Music, **"FOLK SONGS OF CANADA by E. F. Fowke and K. Johnson … (also FOLK
+SONGS OF QUEBEC by same authors and publisher)"**, plus **"LIST OF SONG BOOKS
+AND RECORDINGS SUITABLE FOR CAMP USE, prepared by Helene Rothwell, Ontario
+Camping Association office"** and the new ACA book *Let's All Sing*. Rothwell's
+list is a concrete, named, findable document for `p_048`.
+
+**Also noted.** Alan Klein's supervision article opens by naming **"Dr. Hedley
+Dimock's chapter in *Administration of the Modern Camp*"** as "one of the most
+comprehensive statements yet written" on camp staff supervision — a fifth or
+sixth citation of Dimock as the field's authority in this run, and a reminder
+that his book was the standard text at the moment Kanawana's postwar directors
+were being trained. The Nova Scotia item narrates the founding of the Nova Scotia
+Camping Association from a Halifax office conversation in March 1955 through a
+1955 island workshop near Waverly, an inaugural meeting on 26 September, a
+constitution adopted 28 November, and admission to the CCA — "For the first
+time, this eastern Association was officially represented at the Annual
+Conference held recently in Montreal" — with its third annual workshop set for
+**Big Cove Y.M.C.A. Camp, 9–11 May 1958**. Big Cove already carries seven facts
+here as the 1889 camp that may predate Kanawana; this places it as a working
+YMCA camp and workshop host in 1958. Bill Salo's orienteering piece introduces
+the sport to Canadian camps through the Canadian Orienteering Service, 77 York
+Street, Toronto, at about $50 to equip ten to twenty people. And Toner's column
+reports the **Lake Superior stone pits** — nearly 200 found from June 1957,
+100+ more since, investigated by Dr. J. Norman Emerson and Prof. T. F.
+McIlwraith of the University of Toronto and Dr. V. B. Meen of the ROM, and
+interpreted as shelters of people crossing from Asia 8,000–10,000 years ago.
+
+Kanawana itself: not named in this issue.
