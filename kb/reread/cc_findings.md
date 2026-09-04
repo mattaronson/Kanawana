@@ -5164,3 +5164,172 @@ dealt with. And a two-part **fire safety checklist** for camps runs 24 questions
 continued in the April issue.
 
 Kanawana itself: not named in this issue.
+
+## 46 — Vol. 12 No. 3, April 1960 ★★★
+
+**Joyce Bertram's editorial "Whither Shall I Follow…?" — the fullest statement in
+the run of what camps had lost (pp. 109–10, 141).** Her satire in issue 43 was an
+oblique version of this; this is the argument straight, from the director of Camp
+Ouareau, in the association's official journal:
+
+> "Camping is not very old — fifty years, give or take a few. **Is it not the
+> ultimate irony that we should be talking already of 'putting camping back into
+> camp?'**"
+
+Her account of the transformation is worth quoting at length because it is a
+description of a physical process that happened at every camp of the period,
+Kanawana included:
+
+> "Somewhere along the way that woodland trail has become asphalted, the mossy
+> tree-laden banks are now shored up with logs, stones or even bricks… Where
+> tents once stood, stands a three- or four-room cabin built to the latest
+> scientific designs… The beds have inner spring mattresses, the clothes
+> cupboards have sliding doors, and the wind in the pines at evening can scarcely
+> be heard for the sounds of record player and radio… **Instead of the fir has
+> come up the tennis post; instead of the balsam the diving tower, and instead of
+> the cedar the P.A. system.**"
+
+And the cost, stated as a series of substitutions:
+
+> "A child who washes at Senior Wash House with forty or fifty others — where the
+> hot water is electrically heated and dispensed — is not likely to appreciate the
+> glorious shock of surprise which comes from seeing the sun rise over the
+> mountain… The youngster who watches 'specially selected movies' in the Lodge at
+> night and then undresses to the strains of rock and roll from a transistor
+> radio, is not ready for… the poignant call of a loon… The child who is so
+> protected by the modern well-built cabin roof that he doesn't hear the soft
+> sound of rain on the tent… **is being cheated of the very things that the
+> pioneers of camping were trying to give him.**"
+
+Then the professionalisation, named and mocked: "Thanks to **the Hidden
+Persuaders and the Status Seekers**, camps now hire people who talk about
+'character research project programs' and 'workable suggestions for creating
+teaching opportunities'. This same staff is filling in forms called **'leaders'
+progressive appraisal,' and 'perceptions from the use of teaching technique
+forms'.** Now I ask you! Is THAT camping?… What particular alchemy is there in
+calling 'living together with other kids' an 'experiment in social adjustment
+through a meaningful relationship with one's peers'?" And: "**if our camps are
+highly organized places where everyone gets up to a bell, swims to a whistle,
+eats to a gong and sleeps to a bugle**, how are they going to get the chance?"
+
+Bertram is describing, from inside and with contempt, the exact genre of document
+this project has been reading and embargoing — the counsellor appraisal form —
+and she is doing it in 1960, the year Hedley Gardner Dimock began his counsellor
+research at Kanawana. That juxtaposition belongs in `hedley-dimock.md` and in
+whatever `p_308` policy is written: the research programme the wiki treats as a
+Kanawana milestone was, to at least one Quebec camp director writing in the same
+season, part of what had gone wrong.
+
+**Contract catering, with per-camper costs (pp. 117–18, 120).** Phyllis Trotter,
+Executive Secretary of the **Ottawa YWCA**, contracted her camp's food service to
+a local firm for nine weeks in 1959 — and says explicitly why: "this was no
+inspiration on my part as **I knew of one private and one organizational camp in
+Quebec that did this**." One is Camp Ouareau (Bertram, issue 41); the other is
+unidentified and is a lead worth chasing, since an "organizational" camp in
+Quebec doing this in 1958 could be a YMCA or YWCA camp. Her terms improve on
+Bertram's account: payment was **"the grocery bill plus wages, plus $100.00 per
+week for overhead, administration, cartage and profit"** — the flat fee proposed
+by the firm itself "so that no profit could be made on food that was wasted" —
+with menus approved by the director, quantity unlimited, the cook chosen jointly,
+helpers hired locally through the caretaker, a company supervisor visiting weekly,
+and surplus food removed and credited at season's end.
+
+And the numbers, which are the most useful thing here: **total food cost per
+person per day, $1.03 in 1959 against 98¢ in 1958** — a five-cent increase that
+freed the director from kitchen management and paid for a Programme Director
+instead of a Business Manager. A hard per-camper-per-day food figure for a
+Canadian agency camp at the end of the 1950s, directly usable against any
+Kanawana budget of the period.
+
+**Camp Tonakela's 1960 officers settle Dimock's role (p. 136).** The North
+American Committee list: **Honorary Chairman Miss Mary S. Edgar**; **U.S.A.
+Chairman Mr Clifton M. Drury, "elected… to succeed the late Dr. Hedley S.
+Dimock"**; **Canada Chairman Mrs Adele Statten Ebbs**; Canada Vice-Chairman
+**Mr C. R. Blackstock, Camp Mazinaw** — the same man who is National Director of
+the Red Cross Water Safety Service and wrote the "Wearers of the Magic Moccasins"
+sermonette in issue 38; U.S.A. Vice-Chairman Mrs Douglas Haskell of Camp
+Treetops; U.S.A. Treasurer Theodore Cavins; Canada Treasurer John H. Burgar;
+Secretary Miss Jessie L. Kay; Camp Director **Sri M. Perumal Naidu**; and
+**Wallace Forgie, Director Emeritus**, who "came from India to attend the Golden
+Anniversary of the American Camping Association in San Francisco, and will visit
+Canadian camps during 1960." So Dimock's post was **U.S.A. Chairman of the North
+American Committee for Camp Tonakela** — a more precise fact than issue 43's
+"former chairman", and one nothing in the repo records.
+
+**A camping trip on the Bay of Quinte in the mid-1880s (pp. 121, 140).** Margaret
+Govan's "When Grandma Took to the Woods" is her mother's first-hand account of
+family camping a decade before Kanawana was founded, "the link between the
+enforced camping-out of pioneer days and the very different camps of to-day". The
+detail is excellent: two tents moved by wagon from Picton; a table of planks and
+saw-horses; cots for the women, mattresses for the boys, who cut boughs and
+"slept in solid comfort"; **a stove built of field stone and an ancient stove
+top**; the aunt supplying pre-cooked food replenished when they went home for
+Sunday church, the boys doing the rest of the cooking; pull-taffy once as a
+treat; a raft the boys built and anchored with a boulder in water deep enough for
+diving; a borrowed rowboat and canoe, and **a sailboat improvised from the canoe
+using her mother's belt for a sheet**; "There were no special camp out-fits; you
+simply wore your oldest clothes." Asked what she did: "**I learned to swim. You
+had to; otherwise you were left on land with the boys out on the raft.**" Govan's
+point: "There were no awards, no classes, no organized teaching or programme" —
+and the girl learned to swim, dive, handle a boat and name the wildflowers. On
+one stormy night there was an explosion offshore and cries for help; the boys took
+the boats out and came back with the baker and his family, "wet, frightened and
+very grateful." A rare, dated, domestic account of Canadian camping before
+organization, and a useful contrast piece for `history/` on what camp looked like
+in the decade Kanawana began.
+
+**Duel Issues: should five-to-seven-year-olds sleep out unsheltered? (pp. 126–27,
+137)** Barry Lowes for, the editor **E. [Eanswythe] Flynn** against — and Lowes's
+case is a complete protocol for very young campers' overnights that is worth
+recording as method: counsellors teaching "the meaning of night sounds" during
+the first nights in camp; campfires; sleep-outs beside the cabin so a frightened
+child or a sudden rain can be handled; **no overnights during the mosquito
+season**; the best trippers sent, **a staff-camper ratio of one to two**, never
+more than one cabin group; each child cleared by the camp doctor before and
+after; a site close enough to pluck them back swiftly, high, dry, bug-free, with
+good water; bedrolls laid out in the afternoon on ground picked free of stones
+and roots, **a counsellor sleeping between two campers**; and no pyjamas —
+"Men who live in the bush do not undress to go to bed… put on an extra sweater or
+sweatshirt and a good warm pair of socks." "A night filled with mosquitoes, rain,
+bumpy ground, cold or poor food can **sour a child on tripping for years**."
+Flynn's reply is the health case, and it is where the editorial "we" of this
+magazine finally shows a face: fog, dewfall, sudden temperature drops, "things
+that go bump in the night", counsellors who fall asleep, and tiny campers who
+"get lost in a sleeping bag, or slide downhill". "**For my money they sleep under
+shelter.** If their one aim in camp life is to sleep under the stars, I much
+prefer that it becomes the parents' responsibility… when these wee ones have
+returned home."
+
+**Also noted.** VanWagner reports on the **American Camping Association's 50th
+anniversary convention, San Francisco, 2–5 March 1960** — theme "Light From A
+Thousand Campfires", 1,200 delegates, **about twenty Canadians of whom exactly
+one was from Quebec** (a striking measure of Quebec's isolation from the
+continental camping profession, and of how much the two Montreal conferences
+mattered locally). **Catherine Van Wagner, "Nature Specialist, Camp
+Nominingue"** — the president's wife, in her own professional capacity — sets out
+how to build a camp nature museum with no qualified naturalist: hire for "a spark
+of interest… and a desire to know much more", and let the counsellor admit
+ignorance, because "carrying a few reference books, a box or jar for specimens
+and finding answers together to 'What is it?' can be far more fun than a learned
+talk." **Kirk Wipper's second survival-food article** catalogues about
+twenty-five edible wild plants with preparation methods — dandelion roots claimed
+to have "twenty-five times the vitamin A content of tomato juice", milkweed pods
+as an asparagus substitute, sorrel cooked with sugar as a rhubarb substitute,
+curled dock seeds ground for bread flour — with a firm safety warning: "**There
+is no room for inaccuracy in the process of identification when a specimen is to
+be eaten.**" The **Sunshine Camp Association of St John's, Newfoundland** is
+described from its founding by the Rotary Club in 1935–36 through the cornerstone
+laid by Lady Walwyn on 16 September 1936 and the opening on 16 June 1937 —
+alternating groups of thirty boys and thirty girls, two weeks each — to its
+conversion after the **1953 polio epidemic** into the province's first treatment
+and rehabilitation centre for polio-stricken children, with over a thousand
+disabled children on its register by 1960; a camp that became a hospital. The
+second half of the **fire safety checklist** runs to question 49, and the office
+of the Dominion Fire Commissioner supplies a full extinguisher primer (the
+Triangle of Fire; Class A/B/C; "NEVER use flour or starch. You may cause an
+explosion"). And **Bolton Canada Ltd** advertises "Chuck Wagon Foods" **"TRAIL
+UNITS" — complete menus for four campers for one day, breakfast, lunch and supper
+in an 11" × 11" × 4½" box weighing 6¾ lb** — the prepackaged trip ration that
+Bertram's fictional camper was made to eat instead of his own caught fish.
+
+Kanawana itself: not named in this issue.
