@@ -13054,7 +13054,7 @@ discrimination, anti-semitism"). Most were free on condition of prompt prepaid r
 Method: choose in spring, "make up a list according to the weeks in which we feel the
 films might be shown," and have them delivered to camp on schedule.
 
-**Other notices.** **Jack Wray**, new president of the B.C. association, profiled: five
+**Other notices.** **Jack Wray** [*corrected 2026-09-04 at issue 79: the Summer 1968 issue prints an editorial apology for misprinting his name in this Spring issue — he is **Jack Way***], new president of the B.C. association, profiled: five
 summers as programme director at **Camp Potlatch**, Boys' Work Secretary of the United
 Church in B.C., Executive Director of the Calgary Boys' Club where he started "Camp
 Dventure," now nine months at Hastings Community Centre and three at **Camp Capilano**.
@@ -13072,3 +13072,158 @@ tinfoil, per boy, "Cook in coals — 10 minutes on each side" — a dated camp t
 Nothing in this issue names Kanawana. Its value is the Demetelin profile and Camp
 Demetelin, the B.C. journey's completed record and its national slide collection and
 participation certificates, and the counsellors' reply on evaluation.
+
+---
+
+## 79. Vol. 20 No. 4, Summer 1968 — `canadiancampingmagazine_vol20_no4_1968summer.txt`
+
+*Contents page*: Leadership for the Counsellor (Elizabeth Raymer); Aquatic Calculations
+(Kirk Wipper); News From The Provinces; We Salute (Quebec Camping Association); Interview!
+Part Two (Peter Moon); Your Library Shelf; Among Ourselves (Margaret Herbison); Outdoor
+Education (Bruno Morawetz); The Challenge of Camping (Prof. Lorne Brown); Centennial Award
+to Miss Mary S. Edgar. All ten checked against the read; all covered below.
+
+**★ THE QUEBEC CAMPING ASSOCIATION NAMES ITS OWN FOUNDERS — AND ITS FIRST PRESIDENT.**
+"We Salute," reporting the closing banquet of the **1968 QCA Conference at the Windsor
+Hotel, Montreal, 16 March**: **Mrs. Alta R. Kahn**, the **Rev. Raoul Cloutier** and **F. M.
+Van Wagner** were honoured with "Indian-like plaques made by a penitentiary prisoner,"
+presented by **Mrs. N. D. Demetelin** (QCA president). The citation: *"Mrs. Kahn and Father
+Cloutier were both instrumental in the founding of the Quebec Association, **the latter
+being the first president**. **Mr. Van Wagner was president for four years and introduced
+standards in children's summer camps for the Province of Quebec.**"*
+
+Two things here matter for this project. First, **Van Wagner introduced camp standards in
+Quebec** — that is the origin of the accreditation apparatus under which Kanawana was
+inspected (the 1965 QCA accreditation round at issue 70, and the annual inspections the
+camp's own reports record). The man who founded Camp Nominingue in 1925 built the
+inspection regime Kanawana was later measured by.
+
+Second, a **caution about "the Quebec Association."** `canadian-camping-movement.md` states
+the QCA "was formed in 1937 as a chartered unit of the CCA," and the KB has O. N. H. Owens
+in QCA office from 1929. A francophone priest as *first* president does not sit easily with
+either. Shorgan's account (issue 66) has the ACQ descending from the **French section
+founded 1958**, and Cloutier appears in this run as **Abbé Raoul Cloutier, director of Camp
+École Notre-Dame** on the French-language pages (issues 51 and the Lutins piece). The most
+likely reading is that this citation means the **French section**, not the 1937 English QCA
+— but the text does not say so, and I am not asserting it. **Do not write "Cloutier was the
+first president of the QCA" into the wiki** until which association is meant is settled.
+Record it as: the 1968 QCA honoured Cloutier as first president of "the Quebec
+Association," referent ambiguous between the 1937 English body and the 1958 French section.
+
+**Five hundred delegates** attended the conference. **Jean-Marie Morin, MPP for Lévis**,
+told them "youth of both French communities on both sides of the Atlantic will be brought
+together in the exchange of summer camp staff" — a Quebec–France staff exchange, on the
+record in 1968.
+
+**Provincial offices list.** **Quebec Camping Association — 2233 Belgrave Ave., Montreal
+28**: the same address the CCA itself used before 1963, and the address the October 1976
+directory gives for Derek Walsh as QCA president. Also new: a **Saskatchewan Camping
+Association**, and a separate **Eastern Ontario Camping Conference** alongside the OCA.
+
+**Saskatchewan re-forms.** First Saskatchewan conference since **1957** (Saskatoon, 22–24
+March 1968); **Eileen Mayotte** elected first president of the re-formed association. Her
+"Among Ourselves" profile by **Margaret Herbison** is a Quebec-to-prairie career worth
+noting here: she began camping at fourteen at a **C.G.I.T. camp in Quebec**, put herself
+through university working **in the Laurentians** as swimming instructor, programme person,
+assistant director and director; took her **B.Sc. in Biology at Sir George Williams
+University** and her **MSW at McGill**; and **"In the '40s she was Secretary of the Quebec
+Camping Association."** With her husband Al she **directed co-ed camps out of Montreal**
+before moving to Saskatchewan in 1955. That is a named QCA secretary for the 1940s — a
+decade this project has almost nothing on — and one more instance of the Sir George
+Williams / Laurentian camping pipeline that runs through Kanawana's own staff. She is a
+stub candidate.
+
+**CCA Annual Meeting**, Winnipeg International Inn, **27–28 March 1968**. Recommendations:
+a **National Camping Office in Ottawa**; a **National Camp Directors' Conference in 1969**;
+a **National Camping Day beginning 1968**; national recognition of the Ottawa canoe
+instructors' course; **discussion with government on exempting camps from Canada Pension
+Plan contributions for counsellors**; and special CCA recognition for Accredited camps. The
+CPP item dates the moment the movement began treating summer counselling as a payroll
+question — relevant background to Kanawana's own staffing economics.
+
+**Kirk Wipper, "Aquatic Calculations."** Waterfront practice as of 1968: guards to be
+drilled, tested and **given a bonus or time off**; checking systems covering every
+waterfront activity; written search plans; facility hazard review; trip precautions
+(upsetting with clothes on, canoe-over-canoe rescue, paddling awash). On life jackets, the
+D.O.T.-approved **keyhole type** and a new **air-filled pocket type** demonstrated by **Jack
+Watson**, "not yet approved by the D.O.T. but under current consideration."
+
+**Wipper again, "Co-operation in Aquatics."** Negotiations to **integrate the Canadian Red
+Cross Water Safety Service with the Royal Life Saving Society–Canada, planned to take effect
+early in 1969**, producing one progression from beginner swimmer to advanced life saving and
+dual instructor qualification. This dates the standards regime behind every later Kanawana
+waterfront record: an award named in a 1970s camp report belongs to the merged scheme, not
+to either predecessor.
+
+**Ottawa canoeing course.** Second Canadian Canoeing Instructor Course, **22–29 June 1968**,
+University of Ottawa camp; Wipper guest specialist, **Prof. Claude Cousineau** director, fee
+$75.
+
+**Elizabeth Raymer, "Leadership for the Counsellor"** (from the 1967 OCA conference): the
+do-it-yourself question kit, the children's six unwritten rules, and *"popularity and
+effective leadership do not go hand in hand."*
+
+**Peter Moon, "Interview! Part Two"** — questioning, observing, listening (*"the poorer the
+interviewer, the more he talks"*), interview topics, and a full **"Interview Signs Related
+To Personality Factors"** checklist covering emotional maturity, immaturity, dependability,
+self-confidence, objectivity, values and attitudes. **Relevant to the `p_307` embargo
+thread**: this is the period's professional framing of the *hiring* side of the staff
+record, the counterpart to the evaluation forms. It shows the assessments in camp files were
+not ad hoc but written against a published national methodology — which is context a reader
+fifty years on will need.
+
+**Bruno Morawetz, "Outdoor Education — are you with it?"** He chairs the **CCA Outdoor
+Education Committee** and opens with housewives buying bottled drinking water at the
+supermarket ("This is 1968"), quoting **Prince Philip** to the Audubon Society in Toronto:
+"Conservation is a case of now, or never." His definition: education *in* and *for* the
+out-of-doors. His challenge to camps is pointed — are we "merely transferring city
+activities to the northern parts of our country?" — and his statistic is worth keeping:
+**"no more than 5% of all our youngsters have the opportunity to go to camp."** He notes
+Ontario College of Education's outdoor education conference the previous autumn, a
+Peterborough high school "Outers" programme modelled on **Outward Bound techniques** used at
+**Atikokan High School**, Toronto-area school boards acquiring land, and an Oshawa
+principals' conference for August 1968. **This is direct background for a
+`environmental-and-ecological-history` article**: the camping movement's own claim to be the
+original outdoor-education provider, made the year it started losing that monopoly to school
+boards.
+
+**Prof. Lorne Brown (UBC), "The Challenge of Camping"**, to the BC association's annual
+meeting. Camping "is not taking city activities into the natural environment and calling it
+camping… It is not competing with others in organized sports or cabin cleanliness," but
+"living close to nature twenty-four hours a day." His one-word guide: **SIMPLICITY**. And a
+hard economic argument: *"no longer can we put children and young people in the hands of
+'amateurs'… Camp fees must be based on costs and enough to enable the camp to operate so
+that staff and counsellors can be paid. No longer can we run our camps on a basis of free
+contributions and subsidization for all,"* with camperships and grants for those who cannot
+pay. Brown is **Lorne E. Brown, husband of May Brown** — the Camp Oolahwan director found at
+issue 72 and patched into `camp-oolahwan.md`.
+
+**Centennial Award to Mary S. Edgar**, presented at the **OCA closing banquet, 9 March
+1968**, citation read by **Dr. Mary L. Northway**: the **Canadian Centennial Medal**, "on
+behalf of the Canadian Camping Association." Northway's citation is also a compact
+authority-grade summary of Edgar: **founding member and past president of the OCA, Honorary
+President of the CCA, "the originator of our camping magazine,"** author of hymns "that will
+be remembered as long as campers sing." Northway's own recollection — "my camp director,
+mentor and friend… known affectionately to her fellow villagers of Sundridge and
+surreptitiously by the campers as 'Mamie' Edgar", at **Lake Bernard** — is the personal
+detail. *Cross-check:* this credits Edgar with **originating the magazine**, which should be
+reconciled with `meta/sources-index.md`'s account of the run's founding.
+
+**Smaller items.** An editorial apology for misprinting **Jack Way**'s name in the Spring
+issue ("Please don't feel badly… it happens so frequently") — so the Spring **"Jack Wray"**
+of issue 78, new BC president, is **Jack Way**; correcting that reading here rather than
+leaving it. Reader letters from **J. M. Fulthorpe** (graphic arts, praising the magazine's
+production) and **Mrs. Muriel Leeson** of Winnipeg, author of "Boys' Camp" in the February
+issue. Poem, "Meditation in My Sixteenth Summer," by **Susan Gardiner, Camp Wapomeo, 1967**.
+Library shelf: **Walter Lampe, *Camper Change: By Accident or Design*** (Manitoba Camping
+Association, 50¢) — a named published methodology for **measuring camper change**, the
+outcome-measurement counterpart to Seaman's own "Methods of Measurement in Camping" seminar
+teaching (issue 76). Advertisers: Sherkston Beaches, Beaver Lumber prefabricated camp
+buildings, and **Continental Casualty "Camp-Guard" accident and sickness insurance** with a
+"Seal of Approval" for camp promotional material — camp insurance as a marketed product in
+1968.
+
+Nothing in this issue names Kanawana. Its value is the QCA's own account of its founders and
+of who introduced Quebec camp standards, Eileen Mayotte as a named 1940s QCA secretary, the
+Red Cross/RLSS merger dating the waterfront award scheme, and the Northway citation for
+Edgar.
