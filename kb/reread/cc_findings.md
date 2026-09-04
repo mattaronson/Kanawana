@@ -3008,6 +3008,51 @@ Shakespeare, the one book brought to this country from Scotland by his father," 
 whom Althouse and his father discussed Shakespeare in the woods for hours — is a rare
 individual portrait of an Indigenous man in this run, named and not generic.
 
+**[Added 2026-09-04, from the catalogue check at issue 60.** This block missed
+**W. E. (Ted) Yard, "WHODUZIT? — Who Evaluates?" (pp. 12, 40)** — the OCR renders
+the series title "WHODUZIT", which is why a search for "Dozit" found nothing. It is
+the earliest article in the run devoted squarely to camp evaluation, and it names
+the instruments.
+
+Yard's definition: "to evaluate involves finding out what happens throughout the
+operation with a view to taking action for improvement ... **It is not what someone
+thinks happens, or what someone else hopes happens, but what actually does happen,
+that we're after.**" Four steps: develop means of securing factual information;
+clarify objectives; relate the information to the objectives; take action. "All four
+steps comprise a process and it is recognized that **the process is most effective
+when the persons affected have a share in it**." And the diagnosis: "Our greatest
+weakness it seems, is in so frequently assuming that we evaluated our operation when
+it is the very deliberateness, the planned involvement of people, and the striving for
+genuine objectivity that differentiates the process of evaluation from that of
+'**summing up**'."
+
+**The instruments he lists (p. 40) are the finding that matters:**
+
+> "—Dept. of Health Questionaire
+> —Camping Association Questionaire
+> —Camping Association Structure of Standards and Desirable Practices
+> —'Guideposts to Better Camping'
+> —**Y.M.C.A. Camp Appraisal Form** (and appraisal forms developed by Scouts, Guides,
+> Council of Churches, etc.)"
+
+That is the **earliest dated reference in this read to the YMCA Camp Appraisal Form** —
+December 1956, three years after the 1953 introduction date the YMCA's own national
+committee gives in issue 51, and six years before the QCA's confidential marking scheme
+of issue 51. The form Kanawana would have been appraised on is named in print, in a
+list, by a YMCA camp director. It remains the single most specific archival target this
+pass has produced.
+
+He also lists the human machinery of evaluation — "Staff supervisory conferences /
+Parent interviews / Camper council meetings / Counsellors and staff meetings / Special
+committee and board meetings and 'retreats'" — and closes "Winter evaluation should form
+the basis for Spring and Summer action ... LETZDOIT!"
+
+Together with the "Your Camp Director's Calendar" printed opposite (November: "Staff and
+camper contracts. **Further reports to parents.** Folder to printers. Work on 'long range
+plan of camp'"), this issue documents the annual cycle in which assessments of staff and
+campers were written, filed and used — the cycle whose surviving paper is what `p_307`
+and `p_308` are about.**]**
+
 ★ **A third "Duel": competition versus no competition** — and this one bears directly on
 Kanawana's award traditions. The anti-competition camp states its founding rule: **"Our very
 first thoughts about a camp for children centered around one rule; and we've held to it for
