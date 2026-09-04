@@ -23200,3 +23200,116 @@ the Earth, an Ecology Handbook for Kids*, *Beyond Competition*, and, on order, *
 *Cowstails and Cobras***, **Terry Orlick's *Winning Through Cooperation***, ***Inuit Games***, and
 the ACA's ***Fifty Years of Resident Outdoor Education*** — the co-operative-games and
 outdoor-education literature arriving in Canadian camping together, and datable to 1980.
+
+---
+
+## 133 — Vol. 32 No. 5, October 1980
+
+Sixteen pages. Every item accounted for: the C.C.A. Logo cut-out sheet with its accreditation note;
+a change-of-address notice; Thought for Food; A Counsellor and C.I.T. Training Program (continued
+p. 12); Music for Young Campers (Christine Nixon, continued p. 12); Publications — Bill Mason's *Path
+of the Paddle* over three pages; The Counsellor's Page — Counsellor Exchange Program; Faith Is the
+Victory (Joseph McCulley); Publications — books, calendars and appointment books; Trip Menu Planning
+and Nutrition (Carol Hodgins); the Identifab and Royal Chinet advertisements. **Kanawana is not
+named.**
+
+**★★★★ THE DISTINCTION BETWEEN ACCREDITATION AND MEMBERSHIP, STATED BY THE ASSOCIATION.** Printed
+beside the cut-out logos: "**Your camp can only be accredited by your Provincial Camping Association
+and not by the C.C.A. Therefore your camp is a member camp of the C.C.A. and not an accredited
+member.**" **Written into `canadian-camping-movement.md` (sub-source 8al)** because it fixes the
+form of words this project should use about Kanawana — **accredited by the Quebec association, a
+member camp of the Canadian one**, the membership flowing automatically from the accreditation
+(issue 123). The same page also shows how the national logo reached camp stationery: a sheet of three
+sizes to cut out and paste up, which is a small but real dating aid for undated Kanawana printed
+material (see also issues 113 and 114).
+
+**★★★★ A NATIONAL TRAINING OUTLINE — and camps were told to teach their own history.** "A Counsellor
+and C.I.T. Training Program" sets out nine headings for in-camp staff training, of which the first is
+**Camp History**, and its contents are:
+
+> "organization history · camp's history · **rationale for founding** · **camp traditions** · **site:
+> how secured and legal status** · facility developments: past, present and future · program
+> development · administration and policy setting procedures"
+
+**A Canadian camp in 1980 was expected to give its counsellors and CITs an annual account of its own
+founding, its traditions, and how it came by its land.** And the recommended format says where that
+account would be written down: "**A CAMP MANUAL covering the specific details of each section will be
+most helpful**… 1) a written reminder of details for the staff 2) a method of consolidating and
+finalizing your thoughts 3) **a written report for future directors and boards**."
+
+**Written into `traditions/cit-lit-program.md` as a new section (sources 8 → 9)**, with the point
+stated there: **a Kanawana staff or camp manual is now a specific document to look for, and a
+valuable one**, because it would contain the camp's own history as told to nineteen-year-olds, which
+is a different and often franker thing than the version given to parents in a brochure. This is also
+a partial answer to a puzzle in this project's own materials — the existence of documents like the
+1951 "Kamp Kanawana History, presented at a Training Course" (already cached and read): **that
+document is exactly what this outline prescribes**, and its survival suggests the practice was old at
+Kanawana and may have produced others.
+
+The three-day weekend schedule is recorded in the article too, including the first-night campfire —
+"mixer · **camp history and philosophy · introduction to camp traditions** · job descriptions ·
+**introduction to camp songs, games, campfire procedures**" — with Blackstock and Latimer's *Camp
+Counsellor's Handbook* as the recommended reading.
+
+**★★★★ HOW A CAMP'S SONGS WERE ACTUALLY PASSED ON — the mechanism described, for once.** Christine
+Nixon of Camp Oconto:
+
+> "**Because they are new to camp, many of the camp songs, graces, chants etc. that staff and older
+> campers take for granted, will be unknown to younger campers. Counsellors should give these campers
+> an 'intensive course' in the learning of these old favourites during the first few days of camp —
+> singing them over and over, anywhere and anytime! This will help them to quickly feel like a part
+> of camp and that they really belong.**"
+
+**Written into `traditions/camp-songs-cheers.md` as a new section (sources 21 → 22).** It explains
+two things about the record that article works from: a repertoire lived in the memory of returning
+campers and staff and was reinstalled in newcomers by deliberate repetition in the first days of each
+season — **which is why songs survive for decades with no written source, and why a break of a season
+or two can lose one completely** — and it makes the song a membership rite rather than an
+entertainment, since the argument for the intensive course is belonging. Her teaching method is
+recorded too: echo songs and songs that build; teach slowly in very small parts; look at each child
+individually; repeat often; choose by mood, because "**there is nothing like a singsong to bring a
+rowdy group of youngsters down to earth**". And the occasions music filled — "waiting periods,
+energy-spending device, or **fearful times (ie thunderstorms)**", matching the storm advice of issue
+120 — plus sea shanties "to maintain a steady stroke in canoeing."
+
+**★★ BILL MASON'S *PATH OF THE PADDLE*, three pages including a Trudeau foreword.** Van Nostrand
+Reinhold, early November 1980, 160 pp., 500 black-and-white photographs and line drawings and 24
+colour, **$19.95 until 31 December 1980 and $24.95 thereafter**. Pierre Elliott Trudeau's foreword is
+quoted: "I have known Bill Mason for many years. I have paddled with him, traded outrageous stories
+with him about past canoeing expeditions… I have seen and greatly admired the many award-winning
+films on nature, conservation and canoeing which he has produced for the National Film Board." The
+notice adds a camping fact worth keeping: "**Mason is no stranger to resident camping in Canada
+having learned a great deal about the art of canoeing at Pioneer Camp in Manitoba while on staff
+there**", and that his four *Path of the Paddle* films of 1978 "have become the most popular films
+ever produced by the NFB and are available across Canada from any library that has NFB films."
+Contextual for `traditions/canoe-trips.md` on what Canadian camp canoeing looked to for authority
+after 1980.
+
+**★★ A counsellor exchange programme proposed.** The CCA's Leadership Training Committee, through
+**Bev Bullock of Kamloops**, invites camps into a national counsellor exchange, with an argument
+about retention that echoes Bruce Harris and Granek: "**How often is camp manpower lost simply because
+kids tire of repeating the same or similar experiences. Staff could be motivated to continue in the
+camping field if offered the exciting opportunity of a new camp experience in a different part of the
+country.**" Recommended by Granek's 1978 thesis (issue 121) and by Blackstock in 1978 (issue 121);
+here it is being organised. **Whether any Quebec camp took part is worth watching for.**
+
+**★ Trip menu planning and nutrition** by **Carol Hodgins of Camp Wanapitei** — the fullest nutrition
+guidance in the run, with a table of macronutrient ratios (recommended 30% fat, 60% carbohydrate, 10%
+protein against an average North American diet of 40-45/40/15-20), a reminder that "**calcium,
+vitamin C and thiamin are often lacking**", the protein-combining rules for grains, legumes, milk
+products and seeds, and the instruction that "**any cans taken into the wilderness should be burned,
+crushed and carried out again**". Her closing line is the counterweight to every food-cost article in
+this run: "**Meal time should be a highlight, a happy, social time, not an ordeal.**"
+
+**★ Joseph McCulley's "Faith Is the Victory"**, from a Sunday evening talk — McCulley being the
+Warden of Hart House who hosted the first Taylor Statten Memorial Lecture in 1962 (issues 62-63). Its
+central formula is the CSET fourfold in miniature: "**Work, play, love and worship are held together
+by the cement of faith. Work without faith is drudgery. Play without faith is frivolity. Love without
+faith is sentimentality. Worship without faith is hypocrisy.**"
+
+**Minor.** From this issue the newsletter is **mailed from the National Sport and Recreation Centre
+in Ottawa off a computerised list** — a change in the distribution chain worth noting for the
+deferred `meta/sources-index.md` section, and a reason the Trent deposit copies exist. Recipes for a
+hundred: ham à la king, beef stroganoff from 25 lb of stewing beef. The publications service offers,
+"for the first time", a **Canadian Nature 1981 calendar** and a **Canadian Wildflowers 1981
+appointment book in English and, also for the first time, in French**.

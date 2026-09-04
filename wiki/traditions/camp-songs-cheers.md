@@ -1,6 +1,6 @@
 # Camp Songs, Cheers, and Musical Traditions
 
-*Status: E1-reviewed | Sources: 21*
+*Status: E1-reviewed | Sources: 22*
 *Last Updated: 2026-09-04*
 
 ## Overview
@@ -215,6 +215,16 @@ A morning devotional practice at meals is documented from at least 1922. The bro
 
 By the 2000s era, Grace was not a single fixed prayer but a rotation of several **sung graces**. Two identified graces are: (1) **"Johnny Appleseed"** — the folk grace widely used at North American camps ("Oh, the Lord is good to me, and so I thank the Lord..."); and (2) the lyrics of **"Joy to the World"** by Three Dog Night ("Jeremiah was a bullfrog...") adapted as a grace.^14
 
+## How the repertoire was passed on
+
+The transmission of a camp's songs is almost never described, because it happened in the ordinary run of the day and nobody wrote it down. One counsellor did, in October 1980. Christine Nixon of Camp Oconto, writing on music for young campers, sets out the mechanism:^22
+
+> "**Because they are new to camp, many of the camp songs, graces, chants etc. that staff and older campers take for granted, will be unknown to younger campers. Counsellors should give these campers an 'intensive course' in the learning of these old favourites during the first few days of camp — singing them over and over, anywhere and anytime! This will help them to quickly feel like a part of camp and that they really belong.**"
+
+That is the whole mechanism in three sentences, and it explains two things about the record this article works from. A camp's repertoire lived in the memory of returning campers and staff and was reinstalled in newcomers by deliberate repetition in the first days of each season — which is why songs survive across decades with no written source, and why a break of a season or two can lose one completely. And it makes the song a membership rite rather than an entertainment: the argument for the intensive course is belonging, not music.
+
+Her practical advice describes what that teaching looked like: "**echo songs, or songs that build are good**"; "**teach slowly, break up the song into very small parts**"; "speak clearly, look at each child individually"; repeat a new song often; and choose by mood, because "**there is nothing like a singsong to bring a rowdy group of youngsters down to earth**." She also names the occasions music filled — "waiting periods, energy-spending device, or **fearful times (ie thunderstorms)**" — which matches the advice the same publication gave counsellors during thunderstorms two years earlier — get young campers "sitting in a circle on the cabin floor" and singing "the louder the better to out-sound the storm" — and lists sea shanties used "to maintain a steady stroke in canoeing."^22
+
 ## Song Books and Archival Collections
 
 The Concordia University Archives hold the following music-related materials in the Kanawana fonds (P145):^5 ^6
@@ -293,6 +303,7 @@ The Color War tradition (known at Kanawana as the L&V Games) typically includes 
 19. Kanawana material in the Concordia-digitized YMCA of Montreal fonds: *The Lookout* Vol. 1 No. 3, autumn 1993 (Richard "Itche" Kerr's first-person account of writing the camp song) [src_ia_the_lookout_1993]; the CBM "Voice of Youth" broadcast script, 10 November 1938; the CFCF broadcast of 1936; *The Green Triangle* of 29 July 1933 and 13 August 1932; the 1965 camp publication *The Chestnut*, for the Pathfinder yell; and the *Kamp Kanawana Annual Report 1970* [src_ia_ymca_montreal_fonds_collection, src_ia_kanawana_report_1970]. *OCR note: the Pathfinder yell survives only as damaged uppercase OCR ("TENTS, FRAILS, TREES AND TRACKS, / PATHS, PADOLES, PETS AND. PACKS, / LERE THE 30YS 1TH THE STRONGEST RACKS / SE'RE THE 30S SHO S"ING THE AXE..."). The reading given above is a reconstruction; the raw text is recorded here so the reconstruction can be checked.*
 20. *The Green Triangle*, 9 July 1938 [src_ia_green_triangle_collection]. Full-text read of the verified 38-issue corpus, 2026-08-25. See [f_2280].
 21. "Attention! All Camp Directors" (boxed notice), *Canadian Camping* Vol. 25 No. 1 (Fall 1972), p. 3. Found by the full word-for-word read of the run (`kb/reread/cc_findings.md`, issue 96).
+22. Christine Nixon (Camp Oconto), "Music for Young Campers," *Canadian Camping* Vol. 32 No. 5 (October 1980), pp. 6, 12 [src_ia_canadian_camping_collection]. Found by the full word-for-word read of the run (`kb/reread/cc_findings.md`, issue 133). Written about camps generally, not about Kanawana. The thunderstorm advice quoted alongside it is from "Storms Ahead," *Canadian Camping* Vol. 30 No. 4 (June 1978), pp. 4-5 (issue 120).
 
 ## Research Notes
 

@@ -2284,6 +2284,13 @@
           "by": "auto",
           "task": "RESEARCH",
           "note": "Word-for-word read of Canadian Camping, issue 130 (Vol. 32 No. 2, March 1980): new section on the Ontario Camping Association's 'Suggested Camp Forms' kit -- nine standard forms named and priced, explicitly designed to be copied by any camp, covering every document class this read had been reconstructing piecemeal -- with the Camper's Health Certificate reproduced in full. Sub-source 8ak; feeds new priority p_323, which turns the list into an instruction to ask Concordia and Trent for Kanawana material by these exact names, and flags the embargo consequence."
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-09-04",
+          "by": "auto",
+          "task": "RESEARCH",
+          "note": "Word-for-word read of Canadian Camping, issue 133: recorded the association's own statement that a camp is accredited only by its provincial association and is a member camp, not an accredited member, of the CCA -- fixing the form of words this project should use about Kanawana. Sub-source 8al."
         }
       ],
       "ralph_loops_completed": 1,
@@ -3978,6 +3985,13 @@
           "at": "2026-09-04",
           "by": "auto",
           "task": "RESEARCH"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-09-04",
+          "by": "auto",
+          "task": "RESEARCH",
+          "note": "Word-for-word read of Canadian Camping, issue 133: new section 'How the repertoire was passed on' -- Christine Nixon's description of the 'intensive course' counsellors gave new campers in the first days of each season, which explains why songs survive for decades with no written source and why a break of a season or two can lose one, and makes the song a membership rite rather than an entertainment. Sources 21 -> 22."
         }
       ],
       "ralph_loops_completed": 2,
@@ -4041,7 +4055,8 @@
         "src_wikipedia_alabama_jubilee",
         "src_ymca_website",
         "src_ymcagta_pinecrest_games",
-        "src_youtube_live_a_lot"
+        "src_youtube_live_a_lot",
+        "src_ia_canadian_camping_collection"
       ],
       "open_questions": 9,
       "cross_links": [
@@ -8334,6 +8349,13 @@
           "by": "auto",
           "task": "RESEARCH",
           "note": "Word-for-word read of Canadian Camping, issue 115 (Vol. 29 No. 5, October 1977): new section 'What a CIT Was Owed, Nationally, in 1977' -- Barry Lowes's statement of the evaluation obligations a camp took on toward its counsellors-in-training, including the CIT's right to read and discuss what was written about them. Sources 7 -> 8."
+        },
+        {
+          "status": "draft",
+          "at": "2026-09-04",
+          "by": "auto",
+          "task": "RESEARCH",
+          "note": "Word-for-word read of Canadian Camping, issue 133 (Vol. 32 No. 5, October 1980): new section on the association's national counsellor and CIT training outline, whose first heading is Camp History -- camps were expected to give trainees an annual account of their own founding, traditions and how they came by their land -- and on the recommended camp manual as 'a written report for future directors and boards'. Makes a Kanawana staff or camp manual a specific document to look for, and explains the form of the already-cached 1951 'Kamp Kanawana History, presented at a Training Course'. Sources 8 -> 9."
         }
       ],
       "ralph_loops_completed": 1,

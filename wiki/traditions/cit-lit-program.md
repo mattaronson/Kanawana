@@ -1,6 +1,6 @@
 # The CIT/LIT Program
 
-*Status: draft | Sources: 8*
+*Status: draft | Sources: 9*
 *Last Updated: 2026-09-04*
 
 ## Overview
@@ -24,6 +24,20 @@ Kanawana's own records do not say what a CIT could expect from the camp in retur
 > "They should evaluate their own program, verbally through discussions and also in writing. In turn **they have, like all staff, a right to know how they are doing during the season and a final evaluation of how they did overall at the end of the summer**. These should be both written and oral, carried out by the staff who have had the best opportunity to observe the C.I.T. first-hand. **The C.I.T. has a right to discuss the report with the person doing them. It is a basic human right and also a sound evaluation technique.**"
 
 Three obligations, then, in the association Kanawana belonged to and was accredited by: the CIT evaluates the programme, in writing; the camp evaluates the CIT, in writing and in conversation, both during and after the season; and the CIT is entitled to read and argue with what was written. Whether Kanawana met them is not documented — but this is the standard against which its CIT programme of the later 1970s should be read, and any surviving CIT evaluation form or written report in the camp's records is evidence of the practice rather than an anomaly.
+
+## The national training outline of 1980 — and a camp history session
+
+Two years after Barry Lowes set out what a CIT was owed, the association published an outline of what a counsellor and CIT training programme should contain, together with a three-day residential weekend schedule.^9 Its nine headings are Camp History, Camp Philosophy, Camper Needs and Age Group Characteristics, Program Skills and Sites, Camp Routines, Health and Safety, What Is a Camp Counsellor?, Programming, and Special Groups.
+
+The first of those is the one that matters to this wiki. Under **Camp History**, the outline lists what a camp was expected to teach its trainees about itself:
+
+> "organization history · camp's history · **rationale for founding** · **camp traditions** · **site: how secured and legal status** · facility developments: past, present and future · program development · administration and policy setting procedures"
+
+So a Canadian camp in 1980 was told to sit its counsellors and CITs down and give them an account of its own founding, its traditions, and how it came by its land. **If Kanawana followed this outline, its staff training produced a potted institutional history every year** — and the outline's recommended format says where such a thing would be written down: "**A CAMP MANUAL covering the specific details of each section will be most helpful**… 1) a written reminder of details for the staff 2) a method of consolidating and finalizing your thoughts 3) **a written report for future directors and boards**."
+
+That makes a Kanawana staff or camp manual a specific document to look for, and a valuable one: it would contain the camp's own account of its history as told to nineteen-year-olds, which is a different and often franker thing than the account given to parents in a brochure.
+
+The three-day weekend schedule is worth recording as the shape of a 1980 pre-camp: arrival, camp tour, and rules and boundaries on the first afternoon, then "a special campfire including: mixer · **camp history and philosophy** · **introduction to camp traditions** · job descriptions · **introduction to camp songs, games, campfire procedures** · quiet time and discussions"; day two on camp operation, health and safety, camper needs, special groups and an activity session, with a cookout supper and basic leadership skills in the evening; day three on programming and public relations before packing up. The recommended reading is **Blackstock and Latimer's *Camp Counsellor's Handbook***.
 
 ## Current Structure: Trailblazers
 
@@ -53,6 +67,7 @@ As of 2026, the CIT program is branded "Trailblazers": a 48-day program (four se
 6. YMCA Quebec, "Leaders in Training Information Guide Summer 2026" [src_ymcaq_lit_guide_2026].
 7. *Kamp Kanawana* broadcast script, station CFCF, 26 June 1941 [src_ia_kanawana_broadcast_cfcf_1941]. Full text cached at `sources/cache/ymca-montreal-fonds/1941-06-26-ymca-kamp-kanawana-broadcast-station-cfcf.txt`; read end to end 2026-09-03 under p_304. See [f_2461].
 8. Barry Lowes, "And How Was Your Summer? — Evaluating Your Camp," *Canadian Camping* Vol. 29 No. 5 (October 1977), p. 4 [src_ia_canadian_camping_collection]. Found by the full word-for-word read of the run (`kb/reread/cc_findings.md`, issue 115).
+9. "A Counsellor and C.I.T. Training Program," *Canadian Camping* Vol. 32 No. 5 (October 1980), pp. 4-5, 12 [src_ia_canadian_camping_collection]. Found by the same read (issue 133). A national outline circulated to member camps, not a Kanawana document.
 
 ## Research Notes
 
