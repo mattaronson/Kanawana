@@ -509,3 +509,656 @@ ask "Is there any known reason why this child should have more than ordinary
 supervision during swimming?", plus a dental-profession letter against
 food parcels and tuck-shop sweets.
 
+## 10 — Vol. 3 No. 2, April 1951
+
+**Kanawana not named.** Seaman's Lachine appointment here is already in the KB
+(`f_2471`), so the term-list caught the names it knew. What follows is what it
+could not have.
+
+**★ The 1951 National-Quebec Conference venue changed between issues.** February
+announced the **Grenadier Guards' Armoury**; April announces, twice and in an
+advertisement, the **Sir Arthur Currie Gymnasium, 475 Pine Avenue West** (McGill).
+Record both; the later notice is the operative one. Incidentally 475 Pine Ave W
+is the address given for Hay Finlay, CCA Secretary-Treasurer, in 1949 — he was
+a McGill athletics man.
+
+**★ Quebec Camping Association officers and programme, 1950-51**, none of it in
+the KB:
+
+- Programme chairman **Winona Wood**. February 1951 meeting given to Arts and
+  Crafts, a workshop "making clay pottery, bamboo flutes, and whittling"; March
+  a panel discussion on **"Decentralized Camp Administration"** — the doctrine
+  by which camps were being reorganised into semi-autonomous sections, which is
+  exactly what Kanawana's section system is; the QCA **Annual Meeting on 17 May
+  1951 at the YMCA**, as a supper meeting.
+- **Mrs. H. ("Morgie") Morgenstern** elected QCA secretary for the balance of the
+  year on Seaman's resignation.
+- **Ruby Smith and Lauri Hutchison** reorganising the Quebec membership system.
+- **Ross Seaman ran registration** for the national conference even as he left
+  the secretaryship.
+- The QCA's stated ambition in hosting: "to establish a precedent whereby every
+  two years a different province will be host to the rest of Canada at a
+  National Camping Conference."
+
+**★ Two collectible objects to look for**, both bearing on the Phase 2 material-
+culture mandate:
+
+1. **The CCA crest** was adopted this spring — "Behold Our New Crest!" — drawn
+   by **Mr. D. P. Bromley of Toronto** for the Public Relations Committee under
+   Art Buckley, to appear on the new letterhead and membership cards. (This is
+   the outcome of the 1949 design competition run from Geneva Park, though the
+   magazine does not say whether a competition entry won or Bromley was
+   commissioned — worth resolving.)
+2. **The Canadian Campers' Club** launched for summer 1951: **celluloid pins,
+   twenty-five cents, sold to campers at their own camps**, ordered from the CCA
+   office at 771 Burnside Street from early May, with the proceeds going to the
+   CCA. Any Kanawana camper of 1951 could have worn one. **A findable object —
+   search eBay/WorthPoint for "Canadian Campers Club pin".**
+
+Also worth noting for `traditions/`: **"Coals from a Campfire,"** a mimeographed
+collection of campfire stories about "a Very Important Person — Camp Spirit.
+Half brownie and half nymph," dedicated to "all those happy souls at Camp
+Ouareau," written by **Joyce Bertram** (Executive Secretary of the OCA, and
+bylined in this issue as "Camp Ouareau, P.Q."), 75 cents from 108 Lytton Blvd,
+Toronto. A named invented camp spirit-figure at a Quebec camp in 1951 is the
+closest analogue yet found to the **Chopsy legend (`p_045`)** — evidence that
+Quebec camps of this period generated exactly this kind of resident supernatural
+character, and a concrete title to hunt for.
+
+Mary S. Edgar prints a **council ring fire invocation** here — "O fire of our
+council ring / Brightly burn before our eyes … Praise be to Gitche Manitou,
+Great Spirit of the earth and sky!" — the kind of text that circulated between
+camps and could well underlie Kanawana's own council-ring words.
+
+Nora Bailey's "A Light for Your Camp" argues a camp needs "a soul" embodied in a
+person, and that what adults remember of camp "nearly always centre[s] around a
+person" — a statement of the theory of camp leadership current in Quebec at the
+moment Locke was running both Kanawana and the QCA.
+
+Two more Montreal addresses: **The Borden Company, 407 McGill Street** (Trumilk
+powdered whole milk at 55c a gallon), and **Foodcraft Laboratories now at 220
+Milton Street** (it was 1462 Bishop in December). Bell, Rinfret & Co. repeats.
+
+The remainder is Ontario and technical: C. H. Irwin of Sherwood Forest Camp on
+badly run canoe trips, valuable as a catalogue of what went wrong on Canadian
+camp trips in this era (trips pushed out late in bad weather, canoes separated
+beyond hailing distance, counsellors leaving campers to go into the village,
+fires left burning, a boy sent to swim for help in his clothes) and for his flat
+statement that **"it is sissy to take a tent on a canoe-trip"** was a live idea
+he opposed; Joyce Bertram on teaching sailing; the second insurance article, on
+liability, warning that standard policies exclude watercraft unless the
+exclusion is deleted; and a detailed **garbage disposal pit** design from Glen
+Allan of Glenokawa Camp, sized so that "a pit of these dimensions will hold the
+refuse accumulated in 8 weeks by a group of 70 people."
+
+## 11 — Vol. 3 No. 3, June 1951
+
+**Kanawana not named.**
+
+**★ Nora Bailey died in March 1951, and her obituary by Mary L. Northway gives a
+full biography** of a Montreal camping figure the KB does not hold. Nora Bailey,
+**1910-1951**, died "a few weeks before her article was published," of what she
+"once called an 'idiot' heart" — a congenital defect she had endured for years
+and rarely discussed. Havergal College; arts degree, University of Toronto;
+professional training at the Institute of Child Study, where **in 1938 she wrote
+the first M.A. in psychology based on research in camping**, "thus setting a
+precedent for studies in this area." Camper, counsellor and personnel director
+at **Camp Wapomeo**. In **1939**, "rather than being dismayed by her precarious
+heart condition," she signed on as **sailmaker aboard the schooner *Yankee* and
+spent eighteen months sailing round the world**, minding the skipper's two
+children, standing watch and scrubbing decks; her letters home were mimeographed
+and circulated among friends. **In 1948 she joined the Mental Hygiene Institute
+in Montreal.**
+
+**★ And in 1949 she and Ruby Smith opened Camp Macaza (spelled "Macuza" in the
+obituary) in the Laurentians, for young boys and girls** — a *coeducational*
+Laurentian camp founded by two women in 1949, sixteen years before Kanawana's
+1965 coeducation proposal. Bears directly on `coeducation-gender.md`: it
+establishes that mixed junior camping already existed in the Laurentians in the
+late 1940s. Northway quotes Bailey on its programme: "Do you know what these
+children like doing best of all? They like playing hide-and-seek… One is a child
+nowadays for such a little while. Let the children have time to be themselves."
+
+The obituary also preserves a picture of Taylor Statten at Ahmek — "the Chief …
+going around with the newest book on psychology in one hand, leaving the other
+free to plant water lilies or make an Indian drum, as the particular summer
+required him."
+
+**★ The Canadian Campers' Club button is described in full and its distribution
+named.** A full page: "Every button SOLD helps the Canadian Camping Association.
+Every button WORN shows you are a Canadian camper." Sold at **10c in
+institutional camps and 25c in private camps** — the recommendation is explicit,
+and it means an institutional camp like Kanawana would have sold them at a dime.
+Directors were asked to detach the page for the camp notice board and to "plan
+some special celebration each month at camp, for which a button is the admission
+ticket." **Ordered from the CCA office, 771 Burnside Ave, Montreal, or after 10
+June from Miss Dais Gass, Camp Memphramagog, Mansonville, Quebec**; Ontario
+campers from the OCA or, after 20 June, from **Miss Joyce Bertram, Camp Ouareau,
+Montcalm County, Quebec**. (Two new camp locations: Dais Gass, the CCA's Montreal
+past-president, ran **Camp Memphremagog at Mansonville** in the Eastern
+Townships.) A findable object; a Kanawana camper of summer 1951 could have worn
+one.
+
+**Agnes Mutchler's Executive Secretary's report** is the frankest institutional
+document in the run so far and worth quoting when the wiki describes the CCA:
+the national office was placed "in Montreal, **in the vicinity of the
+President**"; Quebec "felt no immediate need for quarters but offered to pay for
+services rendered" while Ontario proposed a joint office, and the CCA went alone
+because its functions "were not yet sufficiently defined" and its finances
+required doing things "even more economically than the Ontario Executive
+considered a minimum." Scale: **more than 300 letters per general mailing; fifty
+board members, so calling a board meeting meant at least a hundred letters**, and
+twice that again when the Queen's meeting was cancelled. Committee chairmen
+frequently did not reply; some sent tentative resignations; "it was not until
+March of this year that we had even a nucleus of people who answered letters."
+Her plea: "**nothing could be more valuable to the whole organization at this
+time than accurate camp directories compiled by each Province**" — which is why
+no national directory of camps, listing Kanawana, ever seems to have appeared.
+
+Smaller Quebec items: **"Bandy Ball,"** a new game "introduced at the Quebec
+Camp Conference" — a large shuttlecock with a 2½-inch rubber base struck with
+the open palm, sold for $1.00 by **Joey Richmond, 399 St. Catherine Street West,
+Montreal**; and Cap'n Bill Vinal, who had led at the Quebec conference, selling
+his 32-page *Nature Games* for fifteen cents from Amherst.
+
+Ontario: **C. T. Sharpe resigned as superintendent of camping** for the Ontario
+Department of Education after three years. BC's association is noted as being
+eleven years old (so founded c. 1940), with Phyllis Porter as president and
+Bishop A. H. Sovereign, retired Bishop of Athabasca, as a pioneer of BC
+children's camping.
+
+## 12 — Vol. 3 No. 4, December 1951
+
+**Kanawana not named.** Two items worth carrying forward.
+
+**★ "The Longhouse People," National Film Board, 1951** — "photographed in
+colour on the Brantford Reserve with the full co-operation of the tribal
+leaders, and which depicts the life, religious ceremonials, dances, healing
+ceremonies and tribal councils of these fellow Canadians… This film should be of
+special interest to Campers." Zero hits in the KB or the wiki. Kanawana has a
+building called the **Longhouse**; a colour NFB film of that exact title, pushed
+to Canadian camps in the winter of 1951-52 and freely available through the film
+libraries the magazine lists, is a concrete candidate for where the name entered
+camp vocabulary — or at least for what "longhouse" meant to camp people at the
+time. **Queue against `p_051` (Grand Portage and Longhouse) and
+`named-places-and-camp-vocabulary.md`.** Not asserted as the origin; recorded as
+a dated, findable object with the right name at roughly the right moment.
+Other films the magazine points camps to: "Summer is for Kids" (shot at Camp
+Pinecrest, Toronto YMCA), "Canoe Trip," "Indian Canoe Man," "Portage," and, from
+the OCA office, "A Camper and His Canoe" and "With Paddle and Pack."
+
+**★ John Hoyle's "A Counsellor-in-Training Programme"** is the fullest
+description in the run of how a Canadian camp actually built CITs, and it is the
+right comparative frame for `cit-lit-program.md`. Hoyle (Director, Gay Venture
+Camp; now **President of the OCA**, succeeding Ted Yard after two years) sets out
+a **five-year plan**:
+
+- **14-15**: volunteers with leadership potential enrolled in a Leadership
+  Training Plan, meeting three or four times a season with the director. Not
+  CITs — "merely senior girls who are seized with the urge to leadership." The
+  training is by graded apprenticeship; the worked example is putting a cabin
+  group to bed — night one observe, night two assist then discuss, nights three
+  and four take charge with the counsellor in the background, conferring after
+  lights-out.
+- **16**: junior counsellor-in-training. One of four daily periods is a
+  discussion-lecture group led by the director, using Hoyle's own textbook
+  *Towards the Understanding of Youth* (Canadian Council of Churches). Each
+  session opens "has anything occurred in camp since we last met that you would
+  like to discuss?" — and Hoyle notes the confidences are never abused and that
+  the period gives the director "a marvellous insight into the working of the
+  camp as seen by fifteen or twenty alert, keen and critical young people."
+  Junior CITs may lifeguard one period a day.
+- **17**: senior CIT, daily discussion on camp philosophy, camper behaviour,
+  story-telling, preparing a service of worship, and camp relationships. In
+  practice the senior CITs asked to give up their free period and be assigned to
+  an activity, and the request was granted.
+- **18**: may be invited back as a cabin counsellor — but "we are quite alive to
+  the fact that the average eighteen year old girl is not sufficiently
+  emotionally mature to be given full charge of a cabin group… **Before too long
+  we hope to raise the minimum age to nineteen.**"
+
+Also: a **CIT is not a "Jo-girl"** — "She is always treated as a
+leader-in-training"; a senior staff member was appointed the previous year as
+CIT Advisor and supervisor; and every two weeks the director received a written
+report on every CIT from all Section and Activity Heads and spent twenty to
+thirty minutes with each one going through it. That last practice is precisely
+the kind of record that generates the staff-assessment material now under
+embargo in this project — useful context for `r_0001`/`r_0002`.
+
+Elsewhere: Margaret Govan on making nature programming work by following
+campers' own "leads" rather than running classes, with a **badge-on-a-felt-
+shoulder-belt scheme adapted from Ellsworth Jaeger's Nature Day Camp at the
+Buffalo Museum of Natural History** — "no more than five new species were to be
+identified on any one trip"; a British Columbia camp round-up naming Stratford
+Children's Camp (Roberts Creek), the **Zionist Camp at Crescent Beach in its
+15th year**, Camp Fircom (First United Church, Howe Sound), Moorcroft, and the
+**Children's Jubilee Summer Camp on Burrard Inlet, run since 1935 by the Trade
+Unions' Fraternal Women's Organization** with volunteer leadership and the slogan
+"Campers to-day, leaders to-morrow"; an obituary for **Mrs. Joseph Danson**,
+died 25 October 1951, OCA charter member and director of **Camp Winnebagoe**,
+Muskoka, "established in 1933"; and CNIB camps in three provinces (Sunshine Camp
+at Sooke in its twelfth season, Manitoba's first, and Ancaster at an all-time
+high of 183).
+
+An unsigned lead article works the **Massey Report** (Royal Commission on
+National Development in the Arts, Letters and Sciences, 1951) into an argument
+for creative programming in camps, abridged from Mary L. Northway. Worth citing
+if the wiki ever places Kanawana's craft and arts programming in a national
+policy context.
+
+## 13 — Vol. 4 No. 1, February 1952  ★ Council Ring
+
+**Kanawana not named.** But this issue carries the single most useful comparative
+document yet found for `traditions/council-ring.md`.
+
+**★ "Indian Lore and the Council Ring," by W. J. Eastaugh, Superintendent of the
+Ontario Reformatory and former Personnel Director of Camp Ahmek** (pp. 9-12).
+Two things in it.
+
+First, a historical claim that bears directly on where Kanawana's ceremonial came
+from: **"Until a few years ago the Y.M.C.A. was the leader in conducting training
+courses for counsellors and program men. Indian Lore was almost certain to be
+included in the courses of instruction offered. Why is it that today, we look in
+vain for courses in this fascinating work when we scan the curriculum of camp
+leaders' training courses."** So by 1952 an authority is stating, in print, that
+the YMCA had been the principal Canadian trainer in Indian-lore programming and
+had recently stopped. That is a documented mechanism for how a YMCA camp such as
+Kanawana acquired its council-ring practice, and a dated point at which the
+transmission weakened.
+
+Second, a complete working description of a 1952 council ring, which can be laid
+beside whatever Kanawana's own practice is known to have been:
+
+- **Site**: some outstanding conformation of land — cliff, bluff, point, boulder
+  field — "some natural feature that will set that part of camp off by itself
+  and provide opportunity for the development of some legend concerning its
+  history." Fifteen to twenty feet clear between the nearest person and the fire;
+  blankets on rope or poles to close in too-open space; a flat area at least nine
+  feet square at the end opposite the entrance for games; a smooth six-foot log
+  ten inches thick set three feet up on posts for pillow fights. **"A common
+  mistake to avoid is that of building too large a fire."** Reserve the site
+  exclusively and add decoration year on year — carved totem poles, rocks painted
+  with Indian designs, the approach trail progressively decorated.
+- **Order of ceremony**: the Chief (usually the camp director) enters, all stand,
+  he proceeds to the **Council Rock** and raises his hand; fire lit by friction
+  or by a kerosene-soaked rag in a pail sliding down a wire from a clifftop —
+  "try to avoid the direct use of matches"; the **peace pipe**, lit by pretending
+  to scoop an ember, pointed skyward with a prayer to **"the Great Spirit,
+  Gitchie Manitou"**; then challenges, where a brave stands and calls
+  **"O'Chief, O'Chief, O'Chief"** and, when pointed to, says "I, [name] from
+  [home town] challenge any member of this Council to [game]"; then **Ranger
+  Reports** — prepared accounts of a tracked animal, a strange bird, an incident
+  on a canoe trip; then an Indian dance; then a close, for which Eastaugh
+  recommends **Seton's *Book of Woodcraft* and its account of Hiawatha's
+  departure**.
+- **Games** named: hand wrestling, leg wrestling, cat on the back fence, Pat and
+  Mike, rooster fight, pillow fight. Also the water boiling contest, the talk
+  fest, the **Blood Brother ceremony**, and the naming of the tribes.
+- **Initiation ceremony**: the peace pipe passed round the circle in silence, a
+  hatchet buried by the Tribal Chiefs outside the ring, and **a treasure box
+  unearthed containing wishes and records left by the previous season's Braves**.
+  The Chief explains that a young Indian coming of age "spent the night in
+  solitary vigil on a look-out ledge under the stars, and there, after serious
+  meditation, he chose for himself a new name," and may give him the Omaha
+  tribal prayer **"Father, a needy one stands before Thee. I who pray am he."**
+  It closes: **"To your wigwams in silence, and keep that silence unbroken until
+  the dawn."**
+
+None of these formulae appear in the KB (checked). They are not Kanawana's — but
+they are the period's shared script, and any Kanawana wording that survives can
+now be compared against a dated printed version circulating in 1952.
+
+**★ Cleverdon's "Backwoodsman's Day"** at Camp Kandalore is the second useful
+piece: a full account of an all-camp campcraft competition, invented because the
+campcraft counsellor "complained that the boys didn't have enough opportunity to
+use their campcraft knowledge in camp." Eight teams of twelve, drawn across prep,
+junior and senior sections, each under a counsellor captain. Events: water
+boiling (a No. 10 tin, water to an inch of the top, a teaspoon of soap powder so
+it boils over visibly, wood only — and the rules lawyered in advance, no leaves,
+no pine needles, no birch bark, and birch wood with bark still on disallowed);
+Kim's Game on twenty common camp tools; canoe portaging race; axe-chopping
+through a nine-inch poplar marked on skill, safety and time; two juniors
+crosscutting a ten-inch poplar; a knotting relay (clove hitch, sheet bend,
+bowline, tested by a boy leaning back on it); swede-sawing; erecting a
+tarpaulin-and-canoe trip shelter in four minutes; a pancake contest judged by
+staff wives; a bed-roll race; and ten minutes to erase all trace of the fire.
+The portaging race was dropped from the August repeat as too hard on the
+counsellors and risky for the canoes. Cleverdon's stated payoff is worth
+recording: boys weak at the waterfront "were able to bring credit to their team
+in the knotting, kim's game and shelter contests."
+
+Other: Bernard S. Mason on camping as essential education; a Junior Forest
+Warden Training Camp at Lighthouse Park, West Vancouver — **2,025 boys aged
+10-16 since the war**, 250 a year, in an eight-day programme of forestry and
+conservation, organised **twenty-one years** earlier (so c. 1931) by the BC
+branch of the Canadian Forestry Association, with the six-clause **Junior Forest
+Warden Pledge** printed in full; and a visit to **Ko-Vu Camp** on the Cumberland
+Basin in Nova Scotia, run by "two Maritime women."
+
+**Conference dates**: the Canadian Camping Conference (CCA with the OCA), 29
+February - 1 March 1952, Central YWCA, Toronto; **the Quebec Camping Association
+conference in Montreal, 4-5 April 1952**; the ACA national convention, Hotel
+Stevens, Chicago, 16-19 April.
+
+## 14 — Vol. 4 No. 2, April 1952  ★ Kanawana named
+
+The Kanawana sentence here is presumably what an earlier pass took: "**Roy D.
+Locke director of Y. M. C. Kamp Kanawana is president of the Quebec Camping
+Association.**" What that pass did not take is the sentence beside it and the
+programme around it.
+
+**★ The Quebec Camping Association was run out of the YMCA of Montreal's own
+headquarters.** "Further information on the Conference is available from either
+of the above mentioned at **1441 Drummond St., Montreal 25, c/o Quebec Camping
+Association.**" The co-chair beside Locke is **Fraser Woodhouse of the Montreal
+Boys Association and director of Camp Lewis** — conference chairman. (Woodhouse
+already appears in `roy-locke.md` but not in `facts.json`.)
+
+**★ The QCA 1952 Spring Conference programme, Montreal, 4-5 April 1952**, Sir
+Arthur Currie Memorial Gymnasium, McGill, ~300 attending, ~20 exhibiting firms
+— assembled by a committee chaired by Kanawana's director. Its leaders:
+
+- **Hedley S. Dimock**, Dean of George Williams College, past president of the
+  ACA, key speaker: the Friday opening banquet address **"A Critical Look at
+  Modern Camping,"** plus three discussion groups — Pre-camp Training, In-camp
+  Supervision, Evaluation. (Dimock is already in the KB through the father-son
+  story; this is a dated occasion on which he addressed Montreal camp people.)
+- **★ Walter Meyer, "internationally known song leader,"** leading the conference
+  singing **and three sessions on "Song Leading in Camps"** — "Meyer specializes
+  in international folk songs." NOT IN THE KB. This is the second named
+  professional song-leader engaged to instruct Quebec camp staff in three years
+  (Alan Mills, winter 1949-50). Two dated occasions on which Quebec camp people
+  were formally taught songs, by named professionals, in Montreal. **Queue for
+  `p_048`** — the repertoire these men taught is a documentable body of material.
+- **★ Louis Thomas**, leading the workshop on Indian Lore and crafts —
+  "**Mr. Thomas is an Iroquois Indian and a leading authority on Indian Lore in
+  this part of the country.**" NOT IN THE KB. A named Iroquois instructor
+  teaching Quebec camp directors and counsellors Indian lore and craft in 1952,
+  in a programme organised by Kanawana's director. This matters for
+  `indigenous-names-and-land.md` and `council-ring.md`: the Indian-lore material
+  in Quebec camps of this period was not only white-invented Setonian pageantry,
+  and at least one Haudenosaunee man was teaching it professionally. Worth a
+  full biographical search (Kahnawake and Kanesatake are the likely communities).
+- **Dr. Carter Storr** of Ottawa, campcraft, "by popular demand."
+- **Don Rose of the Red Cross and Clair Buckley of the Y.M.C.A.** on teaching
+  swimming, water safety and life saving in McGill's new pool. Buckley is a new
+  Montreal YMCA name.
+
+**★ The CCA national office left Montreal.** The masthead now reads "Office: 52
+Avenue Road, Toronto." **W. E. (Ted) Yard** (Central YMCA, 40 College St,
+Toronto) was elected President at the annual meeting on 1 March 1952 "and it is
+during this term that C.C.A. office is transferred to Toronto." **Anne I. Vail
+joins the Past Presidents.** Joyce Bertram becomes Executive-Secretary of both
+associations under a cost-sharing arrangement with the OCA's full-time office;
+the treasurership is vacant. Vice-presidents: Irwin Haladner (Toronto), **F. M.
+Van Wagner (Montreal)**, Mrs. I. H. McDonald (Manitoba). Mary L. Northway
+becomes Assistant Editor. **So the CCA's Montreal national office ran from
+October 1950 to early 1952 — about eighteen months.**
+
+**★ CCA membership as reported at the 1952 annual meeting** — the only
+province-by-province count in the run so far, and the denominator against which
+Kanawana's membership sits:
+
+| | Camps | Individuals |
+|---|---|---|
+| Ontario | 110 | 44 |
+| **Province of Quebec** | **37** | **27** |
+| British Columbia | 13 | 3 |
+| Manitoba | 1 | 18 |
+| Prince Edward Island | 5 | — |
+| Saskatchewan | 2 | 2 |
+| Alberta | 2 | — |
+| New Brunswick | 1 | — |
+| New Jersey (special) | — | 1 |
+| **Total** | **171** | **95** |
+
+Fees to the CCA from provincial associations were cut to $3.50 per camp member
+and $1.50 per individual. (Compare Mutchler's 1949 figure of **45 permanent
+camps registered with the Quebec section**; 37 were CCA members in 1952.)
+
+**★ Canadian Camper Button report** — the buttons actually moved: **11,000
+purchased, 450 used for advertising, 6,280 orders mailed out, 4,270 on hand**;
+$564.40 cash received and $232.25 receivable; expenses $24.00 and cost of
+buttons $237.07, for a profit of **$535.58**. Six thousand of these went into
+Canadian camps in the summer of 1951, so surviving examples should exist.
+
+Also of use: **a book review that criticises council-ring practice from inside
+the movement** — of Kenneth E. Kidd's *Canadians of Long Ago* (Royal Ontario
+Museum / Longmans, 1951): "Many camps use council rings and other customs which
+campers often erroneously accept as being typical of real Indian life… as we
+adults develop this point of view, we can at least supplement our picturesque
+'Indian' ceremonies with an understanding of the real life and thoughts of the
+Canadians of Long Ago." A dated 1952 statement of the critique, from the
+magazine itself, two months after Eastaugh's enthusiastic how-to.
+
+Adele Statten Ebbs (Director, Camp Wapomeo) on counsellor meetings gives a
+useful **time-budget of a camp day**: nine or ten hours' sleep, about four hours
+for three meals, an hour's rest, three hours of routine (rising, flag raising,
+clean-up, flag lowering, bed) — twenty hours, "leaving four hours for all the
+other camp activities." Her list of what belongs in mimeographed "Camp Routines"
+is a checklist of what a camp of this period documented: Fire Precautions, Fire
+Drill, Meal Hours, Tuck Shop, Mail, Food Parcels, Cash, Days Off, Sunday Suppers
+(Picnics), Care of Equipment, Laundry, Transportation schedules, Lost and Found,
+Officer of the Day and Night Watch schedules.
+
+Cleverdon's fourth article gives **a low-cost portable toilet for a short-term
+camp or a canoe-trip outpost** — a bottomless pitch-lined box, 20" × 30" × 14",
+over a two-foot hole, screened with burlap. And Dorothy Douglas describes
+**"Horseanoe,"** a combined riding-and-canoeing expedition where each group
+travels out by one means and home by the other.
+
+## 15 — Vol. 4 No. 3, June 1952
+
+**Kanawana not named.** Three items of real use.
+
+**★ Joyce Bertram, "A Little Nonsense Now and Then," on invented camp
+characters — the closest thing yet found to a genre context for the Chopsy
+legend (`p_045`).** Verbatim:
+
+> "Many camps have imaginary characters which add immeasurably to the
+> spontaneity. The author's youthful days at camp were much enhanced by the
+> presence of **'the camper's best friend, Maude'**, who had more fun than
+> everyone else at camp put together. At another camp, **'Camp Spirit'** is no
+> nebulous thing, always on the side of authority, but is a person, with a
+> distinct personality of his own. Though the embodiment of all the virtues we
+> should like the campers to possess, he is still so impudent and cocky and so
+> irrepressibly cheerful that no camper or counsellor could do without him for a
+> single day."
+
+So by 1952 a Quebec/Ontario camp professional treats named, persistent invented
+camp characters as an ordinary and widespread device. "Maude" is a second named
+example beyond the Ouareau "Camp Spirit" of the April 1951 issue. When
+`p_045` comes to be worked, this establishes that a figure like Chopsy is not
+anomalous and gives two dated comparanda.
+
+The same piece records other spontaneous devices worth holding beside Kanawana
+traditions: a **"doughnut bell" or "watermelon bell"** which campers drop
+everything to run to; being got out of bed to watch northern lights and count
+shooting stars, or taken in slacks and rubber boots to a spot where fireflies
+danced; and a **party for the Weather Man** on the twelfth consecutive day of
+rain — the Weather Man in sou'wester with two henchmen, Thunder and Lightning,
+threatening rain to the end of camp unless the cabins amused him, with a giant
+barometer shifted through the evening's stunts. (It rained the next day.)
+
+**★ Ted Yard, "Memorable Experiences Leading Towards Spiritual Growth,"** prints
+the texts of ceremonies at the Toronto Central YMCA's Camp Pinecrest. These are
+YMCA camp liturgy of the exact period and idiom, and the best comparanda yet for
+whatever Kanawana said at its own ceremonies:
+
+- A **Voyageur-Lumberman ceremony** at sunset: "let us this day drink deep of the
+  beauty in lake and sky and stately pine…" — the Lumberman enters along the
+  shore in high boots, mackinaw and peak cap with an axe on his shoulder,
+  silhouetted against a giant pine ("craftsman, pioneer, conservationist… a
+  living symbol of Canada's great forest lands"); then the Voyageur paddles into
+  silhouette in buckskin coat and tasselled toque ("explorer, adventurer, master
+  of his craft… and in this beautiful setting he travels with the greatest
+  Sternsman of all time").
+- A **campfire induction ceremony** in which inductees accept **the Pine as a
+  symbol of Strength and Fortitude, of Personal Growth, and of Purity**, each
+  with its formula: "as the Pine roots cling to the crevices of solid Muskoka
+  rock to hold firm in all weather, so will we hold firm…"; "as the Pine strives
+  ever upward toward a clear, fresh sky, so will we strive…"; "as the stately
+  Pine draws its life from the fresh Northern air… so will we draw ours from the
+  clean speech, clean sportsmanship, and clear minds…"
+- A **widening friendship circles** device: a boy drops a stone in the lake and,
+  as the rings spread, campers rise to speak for their home countries — Poland,
+  Holland, Greece, Estonia, Scotland, Australia. This is a 1952 Canadian YMCA
+  camp explicitly programming for displaced-persons and immigrant campers.
+- A camper presenting **a painted stone** at Sunday service: "We brought this
+  stone from the Blackstone Lake, the destination on our canoe trip. The word we
+  have painted on the stone is TEAMWORK, because it seemed to fit the spirit of
+  our trip."
+- And an evening on a rocky point where over a hundred children listened to
+  music and watched the sunset, then rose one after another to say "I remember…"
+
+**★ Irwin Haladner prints a complete job description for camp medical staff** —
+"Policies and Responsibilities for the Medical Staff," at Camp Wabi-Kon. Useful
+as the period standard against which Kanawana's infirmary practice can be read,
+and notable for the confidentiality clause: "**All information re patients is
+strictly confidential and not to be divulged to anyone except the camp
+director.**" Also: medical exam of all campers and staff within 48 hours of
+arrival; a daily log of every examination and treatment "regardless of how
+trivial"; weekly water samples for analysis; the doctor to leave a note of his
+whereabouts at the medical lodge at all times, even off duty; one day off a week
+and no more than one medical staff member away at a time; campers may not visit
+the medical lodge "either in the medical lodge or on the outside at the
+windows"; sick counsellors visited by their section heads only; **compulsory
+letter-writing days for patients, Tuesdays and Thursdays, letters turned over to
+the office for checking**; and in the director's absence the business manager
+acts for him. Haladner invites other camps to exchange job descriptions — worth
+watching later issues for more.
+
+Elsewhere: John Hoyle's second philosophy article, arguing against bells, gongs,
+bugles and sirens ("horror of horrors"), against competition and prizes, for a
+**"choice programme"** in which campers elect their own activity each period,
+for the technique of **motivation** over instruction, and for renaming "problem
+children" as **"children with problems"** ("This is not just a play on words");
+Erma Sutcliffe's "Child Art Goes to Camp," a sharp attack on camp craft
+orthodoxy — "Are we going to build totem poles when we are neither British
+Columbians nor Indians?" and "Why should any child make a billfold when he can
+buy one gayer and with more gadgets at the nearest five and ten store?";
+Elizabeth Chant Robertson on camp food economics with 1952 prices (2-3c a
+serving for the day's vitamin C); and Lois Mattox Miller on the **Holger Nielsen
+back-pressure arm-lift method of artificial respiration replacing the Schafer
+prone-pressure method** — adopted in 1952 by the Red Cross, the YMCA and the
+Scouts, so any Kanawana lifesaving instruction dated after 1952 should be the
+Nielsen method.
+
+Also the **Kawagama Cine-Series** — three 16mm colour-and-sound counsellor
+training films made in the 1951 season at Camp Kawagama, Dorset, Ontario,
+producer David Palter, director Louis A. A. Shore: "A-Stencilling We Shall Go,"
+"With Paddle and Pack," and "A Camper and His Canoe," the last of which won the
+**First Award in the Amateur Class of the Canadian Film Awards** and the trophy
+of the Association of Motion Picture Producers and Laboratories of Canada as the
+best amateur film of 1951. Films made *in* Canadian camps, findable at the
+national film archives.
+
+**Camp Tonakela, near Madras, India**, run without pay by **Wallace Forgie**,
+"well-known right across Canada in Y.M.C.A. and other boys' work fields," is
+supported by Canadian camps giving a Sunday camp-service offering — 452 girls
+and 1,721 boys in 28 groups the previous year, all free of charge, plus a free
+daily meal for nearby village children and, in water famine, the camp's
+swimming-pool supply given over to human consumption. **Twenty-five cents from a
+Canadian camper fed a camper at Tonakela for a day.** The name is glossed as
+"Others First" in a North-American Indian language and "Not for Self" in an East
+Indian tongue. A Kanawana Sunday collection of this era may well have gone here
+— worth checking the annual reports.
+
+New Montreal supplier: **Reckitt & Colman (Canada) Ltd., 1000 Amherst Street**
+(Dettol, with a free booklet "Camping with Dettol").
+
+## 16 — Vol. 4 No. 4, December 1952
+
+**Kanawana not named.** The issue's value is a music article and a camp song.
+
+**★ "Music in Camp," by Barbara Cass-Beggs, L.R.A.M., A.R.C.M.**, described in
+the footnote as "former Director of the University Settlement Music School &
+Music School Camp — now of the University of Swansea, South Wales." She led the
+music at **Camp Gay Venture** in the summer of 1952. This is the fullest
+treatment of camp music in the run so far and belongs in `camp-songs-cheers.md`
+as context, with the caution that she is describing practice at an Ontario camp,
+not Kanawana. Her prescriptions:
+
+- **One singing period a day for the entire camp — campers and staff together**,
+  "for staff cannot help in singing songs if they do not know the songs" — held
+  indoors and preferably with a piano, after a meal while everyone is still at
+  table. "By the end of a month's camp the campers would have a repertoire of at
+  least **50 good (and new to them) folk songs or rounds**." Each session:
+  one or two new songs, a well-known song, something serious, something rowdy,
+  something lively, something quiet, worked with descants, informal harmony,
+  solo-and-chorus and antiphonal singing.
+- Everyone with any instrument formed into a **band** — kitchen equipment for
+  percussion, instruments made in arts and crafts — meeting weekly, to accompany
+  campfire singing and play at dramatics and in carnivals and processions. Under
+  11s enjoy one or two rhythm-band periods a week.
+- Younger children sing best when they can act the song out; among teenagers "a
+  minority who show real interest" can make a small choir or a **Madrigal group**.
+- Records in rest hour or after evening programme; Sunday music appreciation.
+  "Some camps have professional musicians employed just to provide a concert
+  every Sunday."
+- An **operetta** as an all-camp project. At Gay Venture in 1952 the operetta was
+  chosen by fourteen teenagers and became a whole-camp project — boys making a
+  totem pole and setting the scenery, senior counsellors dancing and organising
+  a dance with the junior girls, the dramatics staff on production and costumes.
+- And a firm distinction between singing and cheering: "**Shouting is not
+  singing**… There are plenty of good opportunities in camp where shouting and
+  cheering, etc., are fine, but don't let's get this confused with singing and
+  sing-songs." Worth quoting where the wiki treats cheers as distinct from songs.
+
+Her recommendation of **a pre-camp course for song leaders** — "such a course
+could cover simply conducting, some knowledge of how to use the voice-range,
+breathing and diction — what songs to choose and why, and what song books are
+the most useful" — belongs with the Mills (1950) and Meyer (1952) items as
+evidence that camp singing in this period was formally taught, not just absorbed.
+
+**★ A camp song printed with its borrowed tune.** On p. 6, headed "What is Camp
+without Music? John Palmer," a lyric titled **"A Camp Song" set to the tune of
+"I'll See You Again"** — that is, Noël Coward's waltz from *Bitter Sweet* (1929):
+
+> "We'll return again, / Whenever Camp fires burn again, / Winters may be long
+> and drear / But we'll be here / When summer calls us. / Days so glad and free
+> / Will always linger in memory; / And whatever we may do, / Lakes and skies of
+> azure blue, / Bring us dreams our whole life through / Of you."
+
+Exactly the mechanism behind the Alabama Jubilee finding: a camp lyric written
+over a popular song of the day and printed for other camps to take up. The camp
+is not named; the author is John Palmer. Worth searching for "John Palmer" camp
+song and for whether any Kanawana song uses this tune.
+
+Also useful:
+
+- **Ontario's safety provisions become a condition of the non-profit camp
+  grant** (L. B. Smith, Camping Branch, Department of Education) — printed in
+  full: a resident staff member holding the Canadian Red Cross Standard
+  Certificate in First Aid or the St John Ambulance Senior certificate; health
+  examination within two weeks before camp; a midday rest of not less than an
+  hour; a hot bath or shower at least weekly for stays of two weeks or more;
+  **waterfront supervision by a mature person holding the Bronze Medallion of
+  the Royal Life Saving Society**; one lifeguard per ten swimmers free of all
+  other duties; and eleven specific swimming rules (no one swims alone; a
+  classifying swim test before any free swim; non-swimmers confined to an
+  enclosed shallow area; a boat with two people and lifesaving gear to accompany
+  each swimmer in authorised distance events; overloading precautions; visitors
+  in watercraft only by special permission; and so on). The benchmark for
+  waterfront claims in this period.
+- **David Palter's double-purpose incinerator**, in use at his camp in the
+  summers of 1951 and 1952 — a cast cement and rock structure lined with
+  firebrick, six feet high by five by eight, servicing **a camp of three hundred
+  people**, burning all garbage including tins and bottles three times a day
+  while heating a 500-gallon tank for continuous showers and laundry, with a
+  forty-foot 12-inch stack and an optional forced-draught oil burner that
+  "melts glass bottles and practically vaporizes the tin cans." Roughly one
+  45-gallon drum of ash a day without the burner, a quarter of that with it. If
+  Kanawana's waste disposal of this era is ever described, this is the
+  state of the art it should be measured against.
+- Joan Colbert on teaching **artificial respiration "en masse"** at Glen Bernard
+  — both the Schafer and the Holger Nielsen methods taught to every section on a
+  rainy afternoon, **over sixty Royal Life Saving Society awards granted**.
+- J. Manning of Camp Tanamakoon on **orienteering**, "a game which started a few
+  years ago in Sweden," used not for contests but to get campers off the camp
+  grounds; a contest to rediscover Lost Lake led two groups by separate routes to
+  a derelict camp site whose rebuilding became the season's major project.
+- Ben Solomon's polemic that camp directors are less regulated than barbers,
+  with the New York State barber's certification requirements read out in full
+  as a joke at the profession's expense.
+
