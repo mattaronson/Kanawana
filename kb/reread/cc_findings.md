@@ -1162,3 +1162,432 @@ Also useful:
   with the New York State barber's certification requirements read out in full
   as a joke at the profession's expense.
 
+## 17 — Vol. 5 No. 1, February 1953
+
+**Kanawana not named.**
+
+**★ F. M. Van Wagner writes two pieces on winter camping, and is identified as
+"Director: Camp Nominingue, Faculty Advisor: McGill Outing Club."** He is the
+CCA's Montreal vice-president. His account is the best Laurentian winter-camping
+document in the run and bears directly on `winter-programming.md`:
+
+- "**The McGill University Outing Club has been lunching around open fires on
+  their weekly ski tours for the past 15 years**" — so from about 1938 — "Having
+  found this to be a very simple and pleasant experience on almost any winter day
+  in the Laurentians it was a natural step to sleeping out." Small groups of MOC
+  men and women now commonly slept out in the snow "rather than occupy a bed in
+  the M.O.C. house."
+- The MOC ran **three or four one-night "camp-outs" each winter** for
+  inexperienced members, four to sixteen men and women, in self-sufficient groups
+  of four or five under an experienced leader. No tent — each party built a large
+  bough lean-to and thick bough beds on the snow. Preferred conditions: clear,
+  cold, moonlit, **zero to 20°F**.
+- Technique recorded in detail: gather all wood before removing skis; build the
+  fire on a base of green hardwood logs 4-6 inches thick and two feet long, or
+  the snow melts and the fire drops into the hole; in three or four feet of snow
+  "a large hole will be melted clear to the ground," eventually big enough for
+  the whole party. The clothing list is specific — medium-weight long wool
+  underwear, smooth-finish wool ski slacks, flannel shirt, medium wool sweater,
+  windbreaker, light and heavy wool socks, inner wool and outer leather mitts, ski
+  cap, plus spare socks, mitts and a sweater. "**One of the most important
+  considerations when camping out in cold weather is to keep dry. This usually
+  means avoiding perspiration at all costs**"; ski boots go inside the sleeping
+  bag or they freeze. **No fires are kept burning at night.** Two light down bags
+  (the US Ski Troops' mummy-plus-outer pair, about 10 lb, good to −20°F) beat one
+  heavy one. Snow is used for water, so no need to camp near water.
+- He credits the postwar interest in winter camping to **ski troops of the late
+  war**, and predicts "It should not be long before our summer camps discover ways
+  of promoting at least a limited amount of winter camping."
+- His second piece, twelve numbered steps for **building a fire and making lunch
+  on the ski trail**, is footnoted "These are the instructions we use in
+  connection with our M.O.C. ski tours." One fire per four to six skiers; tea in
+  about five minutes more than in summer; lunch prepared and eaten within the hour.
+
+"McGill Outing Club" does not appear in the KB (count above). Given that the
+Quebec Section was pressing camps to winterise in 1949 and that Van Wagner sat
+as the CCA's Montreal vice-president, the MOC is the obvious model any Quebec
+camp of the period would have looked to.
+
+**★ Ontario moves to accredit camps** (R. K. Cleverdon, Chairman of the OCA
+Standards Committee). An October 1952 sub-committee studied how Michigan and
+California implemented ACA standards — questionnaire plus inspection, and camps
+meeting the standard are "accredited" and may advertise it. The OCA approved
+accreditation in principle, to be correlated with the Ontario Government's
+December 1952 safety provisions, with **applications accepted September and
+October 1953 and accredited camps able to advertise the fact for the 1954
+season**. The first camp accreditation scheme in Canada, and the frame against
+which any Quebec equivalent should be dated.
+
+**★ A. B. Hodgetts of HurOntario Camp on the "J Stroke"** — a detailed technical
+critique of Ron Perry's *The Canoe and You*, arguing that the standard teaching
+term is itself the source of the commonest paddling faults, and that the true
+path of the blade is "a flattened out letter C" — "At our Camp, we actually call
+this the **'C Stroke'**." Useful if `canoe-trips.md` ever describes technique:
+this is the live methodological argument among Canadian camp canoeists in 1953,
+illustrated with four photographs by E. P. Muntzer.
+
+Ontario Camping Convention, **27-28 February 1953**, Central YMCA, 40 College
+St, Toronto. Speakers: Marjorie Camp of the Joy Camps, Wisconsin (co-editor of
+the mimeographed **"Bar Harbour Publications"**); **Dr. Taylor Statten, Jr. of
+Montreal**, now co-director of Camp Ahmek; **Ron Perry, Headmaster of Ashbury
+College, Ottawa**; and Dr. W. E. Blatz of the Institute of Child Study. The ACA's
+23rd national convention was set for the Statler Hotel, New York, 2-6 February
+1954.
+
+Camp Tonakela: Wallace Forgie reports four groupings of **90 Girl Guides "from
+all castes and levels"**, forty village boys hosted for three days on the
+proceeds of an Ontario camp raffling three pies for **$32.85 — Rs 163, against
+a camp cost of Rs 167** — and fifteen such "Aided Camper" groups booked for the
+next six months. The swimming pool was finished in October 1952; the region was
+in **its seventh year of drought**. Prof. C. E. Hendry visited the camp while in
+Madras for a social work conference.
+
+New advertiser worth noting for the Indian-craft question: **Grey Owl Indian
+Craft Co., 1569 Nostrand Ave., Brooklyn 26, N.Y.** — "SUPPLIES FOR ALL INDIAN
+CRAFTS, KITS, BEADS, FEATHERS, ETC.," free catalogue. A commercial American
+supplier selling the material culture of camp Indian-lore into Canadian camps.
+
+## 18 — Vol. 5 No. 2, April 1953
+
+**Kanawana not named.** Mostly Ontario, but three items to carry forward.
+
+**★ Two dated 1953 critiques of camp "Indian" programming, from the top of the
+Canadian camping establishment.** At the Ontario Camping Association conference,
+**Dr. W. E. Blatz**, Director of the Institute of Child Study, University of
+Toronto, listing what he would do if he started a camp:
+
+> "**I would not impose Indian rituals on the children. If they want to play
+> Indians that's alright; but simply because the camp director wants to play
+> Indians is no reason for making the children conform to the pattern. It
+> prevents them developing their own imaginative play.**"
+
+Blatz's other stipulations, worth having as the period's most advanced position:
+no campers under seven; activities from what the terrain offers, and city games
+like baseball excluded; plenty of time to sit and think ("Meditation is a lost
+art for most adults"); **co-education**, "Sex must be taken into account as an
+important factor in the developing adolescent… my camp would be co-educational,
+with the boys and girls sharing many interests. Dramatics and dancing especially,
+would be included"; competition only where a game requires it, with no scores
+carried forward and no prizes; **no uniforms, badges, gadgets or insignia** —
+"The child would never be made to feel that he has completed anything." Read
+beside the 1965 Kanawana coeducation proposal, Blatz was arguing for coed camps
+from a child-development chair twelve years earlier. And read beside
+`plaque-culture.md`, his position on awards is the contemporary counter-argument.
+
+Alongside him, **Dr. Taylor Statten Jr.** on emotional readiness: not all
+children are ready for camp; a short first year lengthened later; "Children
+unready to join in camp are the bedwetter, the overweight child, the one with a
+nervous twitch or physical deformity"; "Parents make superhuman demands on
+counselors. A father 'wants his boy to become a man in four weeks of camp.'";
+and "Hate and hostility are hard to accept but are feelings most in need of
+expression."
+
+**★ Mrs. Gisela Commanda hired Indian regalia to camps.** A notice under "You
+Might Like to Know": she "has a limited number of men's and women's Indian
+costumes of buckskin, cloth and velvet, ornamented with beadwork. **For Hire.**
+Also war bonnets, medicine man outfits, dancers' feather bustle sets, drums and
+other Indian equipment; some suitable for special occasions and **others of less
+value which would be just right for Indian program in CAMP**." Contact: MElrose
+1029, 129 Jameson Avenue, Toronto. She is the same Gisela Commanda, A.R.C.A.,
+who wrote the December 1949 handicrafts article, in which she says she "married
+an Ojibway Indian and spent many months in the Nippissing Reserve." So the
+regalia used in Ontario camp Indian programmes of this period was, at least in
+part, hired from a woman married into an Ojibwe family at Nipissing — and the
+notice's own hierarchy ("others of less value which would be just right for
+Indian program in CAMP") is itself telling. Together with the **Grey Owl Indian
+Craft Co., Brooklyn**, advertising kits, beads and feathers in the same issue,
+this is the commercial supply chain behind camp council rings. Relevant to
+`indigenous-names-and-land.md`.
+
+**★ Mary L. Northway, "Is the Camp Ready for the Child?"** — the sharpest piece
+of writing yet found in the run, and the one most useful as a critical frame for
+this project. She proposes taking the four things camp prospectuses promise
+(health, skills, social development, spiritual values) and assaying an ordinary
+half-hour — breakfast — to see whether any of them is actually present. The
+worked example is devastating and specific; and her aside on camp songs is worth
+quoting where the wiki treats camp loyalty:
+
+> "'Dear old Pine-Knot — all its boys are brave and grand — We love Pine-Knot,
+> dear old Pine-Knot, it's the best, best camp in all the land.' And in this,
+> the children's social development grows towards group belonging, only at the
+> expense of establishing a disillusioned belief of group superiority. A very
+> dangerous attitude indeed."
+
+Her companion piece by **Dorothy M. Douglas, "Is the Child Ready for Camp?"**,
+notes that as OCA secretary she had numerous enquiries from parents whose
+children were **"anywhere from four to seven years of age"**, and gives the
+period's markers of unreadiness — with the observation that "**The incidence of
+bedwetting in some camps is generally indicative of too stimulating a camp
+programme, or of a lack of security in the children so affected**," and that
+"On the whole, young campers lose a little weight rather than gaining it in the
+first year or two at camp."
+
+**Ontario stepped back from accreditation.** At the OCA annual meeting on 27
+February 1953, forty-five members attending, Cleverdon presented the proposed
+standards and "the concensus of opinion was that the proposed set of standards is
+a starting point and that the association should continue to work progressively
+**without immediate accreditation for camps at the present time**." So the
+February plan reported in issue 17 did not proceed as scheduled — record both.
+
+**Mary S. Edgar asked to be replaced as Editor** after five years; the executive
+began seeking a new editor and editorial board.
+
+Cleverdon's fifth technical article, **"Hot Showers in Camps,"** is worth
+keeping for the arithmetic: for a camp of **100 children and 40 staff**, one
+shower a week each plus a second for half the camp = **30 showers a day**; at
+**15 gallons at 100°F per supervised shower** (double that if unsupervised);
+requiring about **250 gallons of 140°F water a day**; a battery of four heads in
+a 4' × 12' area plus a fifth in a curtained stall, with the battery on a single
+pair of faucets set by the counsellor so no one can scald a bather by shutting
+off the cold. Coal gives about three times the heat per dollar of propane or
+electricity, but propane needs no labour and no thermostat-defeating human
+element; tank and heater about $500.
+
+New Montreal addresses in the advertising: **General Plastics Ltd., 1117 St.
+Catherine St. W.**, and **Continental Casualty Company, Special Risks Division,
+1510 Drummond Street** (campers' medical insurance: $1,500 medical expenses per
+accident, $350 per sickness, $1,500 for polio, $2,500 accidental death — the
+period's schedule of what a camper's life and limbs were insured for).
+
+## 19 — Vol. 5 No. 3, June 1953  ★ Kanawana (Locke's Manual) + song book
+
+Locke's "A Manual of Operations" is here, and I confirmed against `facts.json`
+that the earlier pass took its **contents** properly, not just the byline —
+"360 acres," the thirty-two locks changed to a Yale master key system, the
+expert forester, the log slab siding, the seven-page "Things a new staff member
+needs to know about Kanawana" are all in the KB. That pass was thorough where it
+looked. What it did not take is everything around the article.
+
+**★★ THE CANADIAN CAMP SONG BOOK — a direct lead on `p_048`, and the strongest
+one found so far.** Two notices in this issue:
+
+> "**Mrs. Dorothy Douglas at the Institute of Child Study, University of
+> Toronto, has recently accepted the Chairmanship of a new Committee whose
+> function it is to develop a Canadian Camp Song Book.** We sincerely hope that
+> all members interested in this important phase of camp program will write Mrs.
+> Douglas and give her their complete co-operation." — Ted Yard's President's
+> News Letter.
+
+And, on p. 24, a boxed notice headed **Song Book**:
+
+> "**You will receive a letter while you are at camp requesting assistance in
+> securing songs popular at camp.** If you have any special song or songs that
+> you would like to see embodied in a Canadian Camp Song Book, please send words
+> and music (if available) to **Mrs. D. M. Douglas, 76 Park Ave., Oakville,
+> Ont.**"
+
+So in the summer of 1953 **every CCA member camp was written to and asked to
+send in the songs its campers actually sang, with words and music**. Kanawana
+was a Quebec CCA member camp with a director who was a past president of the
+provincial association. If Kanawana replied, its 1953 repertoire was written
+down and posted to Oakville. **Two things to chase: whether the Canadian Camp
+Song Book was ever published (watch later issues), and whether the committee's
+incoming correspondence survives — most likely in the Institute of Child Study /
+Mary Northway papers at the University of Toronto Archives, where Northway's
+papers are held.** Zero hits in the KB for "Canadian Camp Song Book" or "Dorothy
+Douglas."
+
+**★ The Tajar — an invented camp character at two Canadian camps in 1953**, and
+the closest genre parallel yet to Chopsy (`p_045`). Zero hits in the KB.
+
+- At **Glen Bernard**, Mary Edgar's camp: the tribute article lists her special
+  occasions as "Pippa day, Blue moon night, Japanese night, **Tajar day**."
+- At the **Winnipeg Girl Guides' Caddy Lake camp**: the ground floor of the main
+  building holds "**Tagar House**, the tuck shop and three hot showers."
+
+The Tajar is the creature of *The Tajar Tales* (Jane Shaw Ward, 1946), out of
+Camp Tawanka — a mischievous being, part tiger, part badger, part jaguar, whose
+stories circulated widely through North American camps. That two Canadian camps
+a thousand miles apart had built it into their calendar and their buildings by
+1953 establishes the genre precisely: named, persistent, invented camp
+creatures, transmitted between camps in print. **Queue with the Bertram "Maude"
+and "Camp Spirit" items (issues 10 and 15) as the comparative frame for Chopsy.**
+
+**★ The Quebec conference of 1953** — held **jointly with the National Camping
+Conference, 27-28 March 1953**, Sir Arthur Currie Memorial Gymnasium, Montreal,
+**over 170 attending** (down from ~300 in 1952). Programme:
+
+- Bob Rourke of Pickering College, "A Target for Camping"
+- **Walter Meyer again** — the sing-song, and a workshop titled **"Song-O-Batics"**
+  (three sessions). Third consecutive year a professional song leader was
+  engaged by the Quebec association.
+- Canoe Tripping — Ron Perry; Child Development — Dr. H. Caplan, Dr. A. McLeod,
+  Mr. N. Markus; Crafts — Mr. W. McCurdy; Administration — Irwin Haladner on
+  Food Cost Control and **Mr. John Venters on Camp Architecture**
+- **"After a chicken luncheon Saturday, Mr. Roy Locke, Past President of the
+  Q.C.A., gave an impressive speech entitled 'Dividends of Camping'"** — a
+  Kanawana director's own address, titled, dated and placed. Not in the KB.
+- Canon R. K. Naylor closed with a message on camping philosophy prompted by
+  Hoyle's February article.
+- The QCA **annual meeting mid-May 1953 in the new YWCA**, main speaker Mrs.
+  Alice Turnham on "Camping, Nature Bound," with **Anne Vail** closing on "Good
+  Luck, Campers."
+- Quebec provincial contact for membership: **Miss J. Brown, 5056 Western Ave.,
+  Montreal.**
+
+**★ Mary L. Northway's tribute to Mary S. Edgar, "Woodfire and Candlelight,"**
+on her retirement as editor after thirty-three years directing Glen Bernard. It
+names the founding generation — "**A. L. Cochrane, 'Ernie' Chapman, Mary
+Hamilton, Taylor Statten, and Mary S. Edgar**… Beyond their own camps, together
+they originated the Camping Association." Two things in it worth keeping:
+
+- A story about council-ring hierarchy told against itself: the little campers,
+  "tired of being braves whose worthiness was often unrecognized at the glories
+  of the Council Ring," formed their own secret tribe of four and elected Edgar
+  its only adult member — "being slightly confused between Indians and Knights,
+  we made her kneel while we dubbed her on the shoulder and initiated her into
+  the secret tribe of the **Kickapoos**." Northway's moral: "adjustment can be
+  effected by changing the child or by changing the organization. Camp directors
+  do not as often as they should become the least of the braves in a tribe headed
+  by their youngest campers."
+- **In the war years Edgar built a separate camp on her property called
+  Shangri-la, used for English girls** and afterwards lent to various
+  organizations — i.e. an Ontario camp built specifically to house British
+  evacuee children, worth setting beside Kanawana's own 1941 wartime evacuees.
+
+Also: CCA membership fees now **Camps $3.50, Individuals $3.00** when paid
+direct, and the association's seven advertised services printed in full;
+**a population projection of "up to 40%" more camp-age children within five
+years**, the postwar baby boom reaching the camps; and, from the ACA's *Camping
+at the Mid-Century* census — **approximately 12,600 organized camps in the
+United States in 1951, at least four million campers, three resident camps for
+every day camp, 93% of organization camps charging under $3 a day against 60% of
+private camps charging $6-$10, and total organized camp property valued at over
+$350 million.** The scale Kanawana sat inside.
+
+## 20 — Vol. 5 No. 4, December 1953  ★ Kanawana + the song book returns
+
+The Kanawana sentence here (Stan Symington on Locke taking over "Camp Kanawana
+and the planning for Camp Perrot") is already in the KB as part of `f_2286`. What
+the term list could not reach is the rest.
+
+**★★ "Shall We Sing a Song of Camp?" by Dorothy M. Douglas, Chairman, Canadian
+Camp Song Book Committee** — the single most useful document yet found for
+`p_048` and `camp-songs-cheers.md`. Zero hits in the KB for any of it.
+
+The mechanics, which give a searchable paper trail:
+
+> "**All member camps of the Canadian Camping Association** (with the addition of
+> a further group of C.G.I.T. camps reached through the kindness of [the officer]
+> of the C.G.I.T. National [Committee]) **were sent a letter and reply form by
+> this Committee early in August** [1953]… it is encouraging that camps in
+> British Columbia, Alberta, Saskatchewan, Manitoba… Nova Scotia, **Quebec (two
+> …)** and Ontario responded at once."
+
+**Quebec camps replied.** She asks camps to send "**an extra copy of your camp's
+Song Book or Song Sheet**," to **star the songs the campers particularly enjoy**,
+and to **"indicate those songs whose words and/or music originated at your
+camp"** — with the promise that "The committee will ask your permission before
+publishing or using these in any way." So a national collection of Canadian camp
+song sheets, annotated for local origin, was assembled in the autumn of 1953 at
+**76 Park Avenue, Oakville, Ontario**. **If Kanawana replied, its 1953 song sheet
+is in that collection.** The likeliest home for the committee's papers is the
+Institute of Child Study / Mary L. Northway material at the University of Toronto
+Archives. She also notes girls' camps had outnumbered boys' camps in the returns
+and appeals for boys' camps to write — Kanawana was a boys' camp.
+
+Her article is genuine comparative folklore, and the variants she records give a
+method for reading any Kanawana song text against:
+
+- **"Land of the Silver Birch"** — "Do you sing this song at your camp? **Can you
+  tell us its origin?**" (In 1953 the origin was already unknown to the national
+  committee.) Variants in the wigwam verse across camps: "I'll **build** my
+  wigwam" / "I'll **pitch** my wigwam" / "I'll **set** my wigwam"; "Close by the
+  **water's** edge" / "Close to the **forest** edge." She notes westerners pitch,
+  because western wigwams are tents of skins or mats, while some peoples' wigwams
+  are bark huts — and asks, drily, what campers are meant to learn about choosing
+  a site from singing about this one.
+- An action song, **"origin unknown to us"** — western sheet: "We are the red men,
+  tall and **STRAIGHT** … We're the men of the old **Hancow** … We **CAN** fight
+  with sticks and stones"; eastern sheet: "tall and **QUAINT** … the old
+  **Duncow** … We **DON'T** fight with sticks and stones." "The difference here is
+  quite significant."
+- A **Canoeing Song** written to "a graceful waltz tune": "And swiftly, as the
+  heron winging, / Our singing paddles **dip** by" — elsewhere **zip** by,
+  elsewhere **slip** by.
+- **"My Tall Silk Hat" sung to "Funiculi, Funicula"** — with some campers riding
+  a trolley, some a subway, and, she suspects, some a space ship.
+- Songs she names as sung at sunset campfires nationwide: **Fire's Burning, Taps,
+  and Witchcraft.**
+
+Her closing image is worth keeping: the CBC's cross-country farewell to Princess
+Elizabeth and the Duke, "Beginning with the first line of Auld Lang Syne in
+Vancouver… a line or so from each province, until the song had been sung through
+the breadth of the Dominion."
+
+**★ The eastern-Canada YMCA camp network, named.** Stan Symington, **National
+Boys' Work Secretary, National Council of YMCAs of Canada**, lists the YMCA
+camps he visited, with their directors — the institutional peer group Kanawana
+sat inside, and none of it in the KB:
+
+| Camp | Place | Man in charge |
+|---|---|---|
+| **Naskapie** | Quebec City | new partner **Lloyd Elmer**, via U of T |
+| Pascobac | Saint John | **Bob Butler**, from Sir George Williams |
+| Wapomeo | Yarmouth | Nate Bain |
+| Barachois | Sydney | Roy McKeen |
+| Magaguadavic | Fredericton | Bert Messacar |
+| Y's Acres | Moncton | Al Tyler |
+| **Sherbrooke** | Sherbrooke, Eastern Townships | — |
+| Holland Cove | Charlottetown | Ivan Robinson |
+| Big Cove | Halifax | **Clare Buckley** |
+
+**Clare Buckley** is very likely the "Clair Buckley of the Y.M.C.A." who taught
+swimming and lifesaving at the Montreal conference in April 1952 — a Montreal-Y
+man now directing the Halifax Y's camp. Worth confirming. Symington also gives
+the ocean-camp waterfront solution: a permanent structure on the beach, the dock
+and diving towers far out in deep water on drums to ride the swell, and swimming
+buoys on deliberately slack anchor chains to allow the tide's rise and fall.
+
+**★ Cleverdon's Ontario standards survey, June 1953** — the first hard compliance
+numbers in the run, and the benchmark for any claim about Kanawana's practice:
+100% of camps used pasteurized milk; **77% tested their water supply at least
+every two weeks**; **63% had hot shower or bathtub facilities for all campers**;
+90% of those without a resident doctor had one on call; but **only 65% insisted
+on pre-camp medical inspections** of staff and campers. A daily rest period was
+universal. On waterfront, **only 75% kept to ten children per lifeguard** while
+80%+ met the other standards. On staff age: in **private** camps 30% used
+17-year-olds as a minimum but no camp averaged under 19; in **agency** camps —
+Kanawana's category — **one-third used counsellors as young as 15 or 16, and CITs
+as young as 13**, though 80% averaged 17 or more. The Proposed Minimum Standards
+were adopted to replace those of 1947-49, **but explicitly not made mandatory for
+membership**.
+
+Scale figures from the editor's preamble: "**over five hundred camps in Ontario
+alone**" and "**CCA can boast about two hundred and fifty member camps across
+Canada**" — up from 171 at the 1952 annual meeting.
+
+Institutional: **Eanswythe Flynn becomes both Executive Secretary of the CCA and
+Editor of the magazine**, succeeding Joyce Bertram and Mary S. Edgar. Ted Yard
+reports an **8,000-mile presidential tour** of western camps, at which the
+**Alberta Camping Association was formed**, acting president Murray Faulkner of
+the Calgary YMCA; and he notes that in the Ontario association **Ruby Smith, Nan
+Vail, Agnes Mutchler, Ken Murray and Dais Gass have again assumed active
+executive roles** — the Montreal group of 1950-52 turning up on the Ontario
+executive, which is worth pinning down.
+
+Alan Klein's "Do Lean Years Lie Ahead?" is the period's clearest statement of the
+counsellor shortage: camps "once … attracted University students, graduates and
+teachers, they now get high school students," and he warns against camps
+competing on salary. Two anonymous first-person pieces follow — a first-year
+counsellor's list of grievances (no in-camp training beyond a daily programme
+meeting; "Joe-jobs" as a steady diet; **unstandardised salaries**, one classmate
+with half the responsibility paid nearly twice as much; and the complaint that
+**CITs' parents are asked to pay half fees while the CIT is on full-time duty
+most of the day**) and a CIT's answer.
+
+Also: Ethel Bebb and Margaret Caesar's account of **five weeks visiting some
+fifty private camps in Ontario in 1953** — a rare outside assessment, and blunt:
+"We cannot say that camp procedures in all of the Ontario camps which we visited
+meet even the minimum standards"; some counsellors "too young in actual years";
+equipment not kept and property not attractive; "in a few instances there were
+discontented faces:— not only among campers but also staff, which reflects upon
+top direction." What impressed them most was **Canadian tripping programmes** —
+"the pre-training, the preparation, the tripping equipment, the skilled
+leadership." And Mary Barker's YWCA survey: nine camps (seven Ontario, **two
+Quebec**), 5 to 600 acres, 42 to 150 campers aged 8-16, **$14 to $20 a week**,
+two-week average, staff mostly **unpaid counsellors** aged 15-35 with CITs from
+13-17 — with an eight-millimetre, forty-minute documentary film made of the
+facilities and lent free to any camp director. That film, if it survives, shows
+Canadian YWCA camp buildings in 1953.
+
