@@ -22625,3 +22625,117 @@ them.** Follow this up by singing it to the new camp when it assembles next spri
 documented method by which camp songs were composed and transmitted in this period, and worth having
 for `traditions/camp-songs-cheers.md` and `p_311`: some camp songs were written in the winter, by
 mail, by children.
+
+---
+
+## 128 — Vol. 31 No. 6, December 1979
+
+Twelve pages. Every item accounted for: Crafts in Camp (with more on p. 7); Our New President (Cliff
+Labbett); Executive Director (the appointment of Marjorie A. Booth); Program — The Children Grow…
+The Forest Grows; "He Stood as a Great Pine" (Douglas Tisdall); The Counsellor's Page — Winter
+Reading; craft instructions and Numbering Canoes; We Need Your Help! (unclaimed Woodsmanship
+certificates); the ACA Boston convention schedule; Provincial Camping Associations; Publications;
+Winter Outdoor Sports Skills Institute; Coming Events; Classified; the Royal Chinet advertisement.
+**Kanawana is not named, but three findings touch it.**
+
+**★★★★★ A NAMED DIRECTOR OF CAMP OOLAHWAN — and proof the camp was thriving in 1979.** The CCA
+announced its first Executive Director: **Miss Marjorie A. Booth of the Montreal YWCA**, appointed on
+a Fitness and Amateur Sport grant, commencing late November 1979. Her immediately preceding post is
+given plainly: "**most recently as the director of Camp Oolahwan, the Montreal Y.W.C.A. camp, located
+north of Montreal**." Also: a native of Toronto; an **honours degree in Recreation from the
+University of Waterloo**; several years full-time with the **Saint John YWCA**; a **Fellow of the
+Society of Camp Directors since 1977**. Her first message to the membership is printed in both
+languages.
+
+`connections/related-camps/camp-oolahwan.md` **names nobody in charge between Mary Edgar's departure
+in 1919 and the final season in 2004.** Booth is now the second named director in the article's whole
+span, **written in (sources 25 → 26)**, with the two consequences stated: Oolahwan was an operating
+YWCA residential camp in the late 1970s with a professional director recruited from another province,
+not a survival running on inertia; and the woman who ran it went straight from Lac Walfred to the
+national association's first full-time staff post.
+
+**★★★★ THE QUEBEC ENGLISH SECTION DROPS OUT OF THE PRINTED LIST.** October 1978 carried three Quebec
+entries — the **Quebec Camping Association, Inc.** under Dr Ken Willis at 2233 Belgrave Avenue, the
+**ACQ** under René Rousseau, and the joint **ACQ-QCA Provincial Board** under Maisonneuve (issue
+121). December 1979 carries **one**: "**Association des Camps du Québec — M. Raymond Bonneau,
+President — 1415 est, rue Jarry**." The English Section and the joint Board are both gone from the
+list, and the calendar prints only ACQ events.
+
+**Absence from a list is weak evidence, and `canadian-camping-movement.md` records it as that** (new
+sub-source 8ai) — but it is consistent with something already in the project from another direction:
+the citation for Derek Walsh's 1983 CCA award thanks him "as a Past President of the **former**
+English Section – Quebec Camping Association." **The section still had its own president and address
+in October 1978 and had gone from the list by December 1979**, which brackets the change even if it
+does not date it, and gives somewhere to start. Also recorded there: **the 1980 annual meeting moved
+from Quebec to Toronto** — Willis's invitation was accepted at Wolfville and printed as "P.Q. — May"
+in October, and by December reads "**C.C.A. Annual Meeting/Toronto, May 9**."
+
+**★★★ WALSH'S TWO-YEAR PR CHAIRMANSHIP CONFIRMED BY THE PRESIDENT HIMSELF.** Cliff Labbett: "**Derek
+Walsh, the Vice-President, is a past-president of Q.C.A. and will retain the Chairmanship of the
+C.C.A. Public Relations and Promotions Committee, a position he has held for the past two years**,
+along with his duties as V.P." That is independent confirmation of the 1977-79 span I built from the
+two committee lists (issues 116 and 124), from the association's president, in a sentence written for
+another purpose. **`people/derek-walsh.md` open question updated** with this and with the other half
+of the Thunderbird problem: the same issue describes "**Camp Thunderbird**, operated by the
+**Victoria YM-YWCA** on Southern Vancouver Island, a **1,300 acre site**", which makes a move between
+Y camps professionally coherent — while Labbett, in the same issue, describes Walsh entirely by his
+Quebec offices and says nothing of a move west. **The question stays open, better furnished on both
+sides.**
+
+**★★ The rest of the new executive, and the first paid staff.** **Elizabeth Greenway**, Secretary, "a
+native of London, Ontario… **Director of Camping for the Toronto Y.W.C.A.**"; **Wayne Perkins**,
+Treasurer, "working for the **Hamilton Y.M.C.A. as Director of Camp Wanakita**". So the 1979-81 CCA
+executive is a Y officer from Toronto, a Y officer from Hamilton, a former Quebec YMCA camp director
+as vice-president, and a YWCA camp director as its first Executive Director. **The national
+association's leadership in 1979 is almost entirely YMCA and YWCA staff** — which is the
+institutional world Kanawana belonged to, and worth stating plainly somewhere in
+`canadian-camping-movement.md` when that article is next revised.
+
+**★★ The Skill Schools programme, and the decentralisation model stated outright.** Labbett's report
+from the Saskatoon board meeting of **1-2 November 1979**: the committee is **Eileen Mayotte, Jack
+Croteau and LaVerne Jantz, all of Saskatchewan**; "**C.C.A. started the Canoe Instructor's Schools
+which have now been turned over to the Provinces and also the Woodsmanship School which is almost
+ready to be turned over**"; and new schools are under consideration in **Social Recreation, Nature
+Awareness, Fitness, Camp Organization and Administration, Native and Pioneer Crafts, and
+Communication**, "once they have been developed it is hoped that they too will be taken over by the
+Provinces." **That is the association's own account of how its training programmes were designed to
+migrate to provincial bodies** — which means the records of the Quebec versions of these schools
+would be in Quebec, not Toronto, and is a refinement worth carrying into `p_314` and `p_312`.
+
+**★★ An international conference planned for Toronto in 1983** — "approval in principle… with the
+Canadian Camping Association, the Ontario Camping Association and the American Camping Association
+joining forces. It is hoped that representation will also come from **several European countries,
+Japan and India**," John Latimer chairing. Watch for it as the read reaches 1983, the year Walsh
+received his Certificate of Appreciation.
+
+**★ Camp Thunderbird's forestry counsellor** — a substantial programme account, and a model of
+something Kanawana never documented on its own 550 acres. With foresters **Mark Atherton and Vlad
+Korelus**, the Victoria YM-YWCA put a forestry counsellor on its **1,300-acre** site from early May:
+campers used an **increment borer, chain, diameter tapes, compass and clinometer** to age trees,
+calculate height and compute wood volume, while property lines were located and marked, **a base map
+at 1:5000 was drawn**, forest units needing treatment were identified and a fire-safety programme
+implemented — "**By the end of August, a base map and forest cover management plan were completed.**"
+Advice was available from the **Canadian Institute of Forestry, c/o Macdonald College, Montreal**.
+A camp treating its own forest as an object of study and management, with campers doing the survey
+work; directly comparable to what `traditions/environmental-history.md` records of Kanawana's 1980
+Nature Awareness programme, and a year earlier.
+
+**★ Numbering canoes.** A small operational practice worth recording because it would leave a
+record: number each canoe by purchase year and sequence — "this was the sixth canoe purchased in
+1975" — which "aids in easy camper and staff identification as well as **instilling an attitude of
+care and respect**… makes it easy to assign canoes for trips as well as checking for damage upon
+their return." **If Kanawana used a numbering scheme of this kind, its canoe fleet is datable from
+photographs.**
+
+**Minor.** The unclaimed **Woodsmanship certificates for the 1976, 1977 and 1978 schools** were
+finally mailed, with six names printed whose addresses had failed — the association chasing its own
+alumni through the newsletter. A winter reading list of thirteen Canadian nature titles with prices,
+including **Environment Canada's *Native Trees of Canada*** at $6.00 and Helen Sawyer Hogg's *The
+Stars Belong to Everyone*. Craft instructions from **Adventures Unlimited Camp, Ontario** — a fungus
+pirate painted on an upturned bracket fungus, clothespin furniture, a stapled birchbark dish. Douglas
+Tisdall's "He Stood as a Great Pine", a tribute poem written entirely in the Indian-lore register —
+teepees, braves, tomahawks, the peace pipe — which is one more datum on how durable that idiom was in
+1979. The **Lachute "former boys' camp"** advertisement runs for a second issue. And the new
+publications list, which shows where the movement's reading had moved: *The Cooperative Sports and
+Games Book*, *Everyone's Guide to Home Composting*, *Concise Book of Winter Camping*, *Complete Guide
+to Orienteering in North America*.

@@ -1,6 +1,6 @@
 # Camp Oolahwan
 
-*Status: E1-reviewed | Sources: 25*
+*Status: E1-reviewed | Sources: 26*
 *Last Updated: 2026-09-04*
 
 ## Overview
@@ -51,6 +51,12 @@ after their father's early death, retired to Kincardine in 1949, and **died in O
 The OCA archives, the tribute notes, refer to her as **"Halliday the colourful."**^22
 
 **May Brown** (Mrs. Lorne E. Brown) directed Camp Oolahwan during her period on the staff of the YWCA in Montreal, where she also completed a B.Sc. in Physical Education at McGill University.^20 She had grown up and been educated in British Columbia and taught briefly before going east; after graduating she returned to teach health and physical education at the University of British Columbia and to coach its women's field hockey teams, took an M.P.E. there in 1961, and about 1961 opened Camp Deka in the Cariboo with her husband.^20 She went on to serve on the National Advisory Council on Fitness and Amateur Sport and as **President of the Canadian Camping Association**, holding that office at least from 1964 to 1967.^20 ^21 Her Oolahwan directorship is therefore most plausibly placed in the 1940s, before her marriage and return to British Columbia, but the source gives no years and the dating here is inference from the rest of the profile; it should be confirmed against the Montreal YWCA fonds before being stated as fact. The source spells the camp "Oolawahn."
+
+**A named director from the camp's last decades — and proof it was still running in 1979.** Between Mary Edgar's departure in 1919 and the final season in 2004 this article names nobody in charge. One name can now be added. In December 1979 the Canadian Camping Association announced the appointment of its first Executive Director, **Miss Marjorie A. Booth of the Montreal YWCA**, and described her immediately preceding post: "**most recently as the director of Camp Oolahwan, the Montreal Y.W.C.A. camp, located north of Montreal**."^26
+
+Her record as given: a native of Toronto, an **honours degree in Recreation from the University of Waterloo**, several years full-time with the **Saint John YWCA**, then Oolahwan; a **Fellow of the Society of Camp Directors since 1977**; and from late November 1979 the CCA's Executive Director, a post created by a grant from Fitness and Amateur Sport.^26 She wrote her first message to the membership in both languages.
+
+Two things follow. Oolahwan was **an operating YWCA residential camp in the late 1970s** with a professional director recruited from another province's YWCA — not a survival running on inertia. And the woman who ran it went directly from Lac Walfred to the national association's first full-time staff post, which places Oolahwan, at that moment, at the centre rather than the margin of Canadian camping.
 
 ## Programming
 
@@ -128,6 +134,7 @@ The name "Oolahwan" may derive from the Lakota word *olówaŋ* meaning "song" or
 23. Mary S. Edgar, "Our Indebtedness to Our Indian Friends," a talk given in the Glen Bernard Camp chapel, 15 August 1971, printed in *Canadian Camping* Vol. 24 No. 4 (Summer 1972), pp. 13-14, 20. Found by the full word-for-word read of the run (`kb/reread/cc_findings.md`, issue 95).
 24. Mary L. Northway, "Mary S. Edgar 1889-1973," *Canadian Camping* Vol. 26 No. 1 (Fall 1973), pp. 3-4. Found by the full word-for-word read of the run (`kb/reread/cc_findings.md`, issue 100).
 25. Charles F. Plewman, on the founding of the Canadian Camping Association and its magazine, *Canadian Camping* Vol. 24 No. 2 (Winter 1972). Found by the same read (issue 92).
+26. "Executive Director" and Cliff Labbett, "Our New President," *Canadian Camping* Vol. 31 No. 6 (December 1979), pp. 2-3 [src_ia_canadian_camping_collection]. Found by the full word-for-word read of the run (`kb/reread/cc_findings.md`, issue 128).
 
 ## Research Notes
 

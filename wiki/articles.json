@@ -2249,6 +2249,13 @@
           "by": "auto",
           "task": "RESEARCH",
           "note": "Word-for-word read of Canadian Camping, issue 126: flagged a one-year discrepancy on Canada's first camp -- the article gives Big Cove as 1889 from an encyclopaedic entry, while CCA president Jack Pearse told the association's annual meeting in Nova Scotia on 25 May 1979 that organized children's camping in Canada 'began in Nova Scotia in 1890'. Recorded, not resolved; Kanawana's position as second-oldest is unaffected. Sub-source 8ah."
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-09-04",
+          "by": "auto",
+          "task": "RESEARCH",
+          "note": "Word-for-word read of Canadian Camping, issue 128: recorded that the Quebec Camping Association English Section and the joint ACQ-QCA Provincial Board both drop out of the association's printed list of provincial associations between October 1978 and December 1979, leaving only the ACQ under Raymond Bonneau -- weak evidence, recorded as such, but consistent with the 'former English Section' of Walsh's 1983 award citation, and bracketing the change. Also recorded that the 1980 annual meeting moved from Quebec to Toronto. Sub-source 8ai."
         }
       ],
       "ralph_loops_completed": 1,
@@ -5116,6 +5123,13 @@
           "at": "2026-09-04",
           "by": "auto",
           "task": "RESEARCH"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-09-04",
+          "by": "auto",
+          "task": "RESEARCH",
+          "note": "Word-for-word read of Canadian Camping, issue 128 (Vol. 31 No. 6, December 1979): Marjorie A. Booth named as director of Camp Oolahwan immediately before becoming the CCA's first Executive Director in November 1979 -- the second named director in the article's whole span, after Mary Edgar. Establishes that Oolahwan was an operating YWCA residential camp in the late 1970s with a professionally recruited director. Sources 25 -> 26."
         }
       ],
       "ralph_loops_completed": 2,
@@ -5170,7 +5184,8 @@
         "src_lac_ywca_montreal_fonds",
         "src_macleans_1956_junior_league",
         "src_mccord_junior_league_fonds",
-        "src_trent_mary_edgar_finding_aid"
+        "src_trent_mary_edgar_finding_aid",
+        "src_ia_canadian_camping_collection"
       ],
       "open_questions": 7,
       "cross_links": [
@@ -9977,6 +9992,13 @@
           "by": "auto",
           "task": "RESEARCH",
           "note": "Word-for-word read of Canadian Camping, issue 126 (Vol. 31 No. 4, June 1979): the CCA vice-presidency dated and placed -- installed at the annual meeting at Acadia University, Wolfville, on 25 May 1979, under President Clifford Labbett, for the 1979-81 term; the same meeting heard Ken Willis invite the association to meet in Quebec in spring 1980. Sources 8 -> 9."
+        },
+        {
+          "status": "stub",
+          "at": "2026-09-04",
+          "by": "auto",
+          "task": "RESEARCH",
+          "note": "Word-for-word read of Canadian Camping, issue 128: CCA president Cliff Labbett independently confirms the two-year PR chairmanship ('a position he has held for the past two years'). Open Question 1 furnished on both sides -- the same issue confirms Camp Thunderbird as a real Victoria YM-YWCA camp of 1,300 acres, making a move between Y camps coherent, while Labbett describes Walsh entirely by his Quebec offices and says nothing of a move west. Question left open. Source 9 extended."
         }
       ],
       "ralph_loops_completed": 0,
