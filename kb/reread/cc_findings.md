@@ -5,6 +5,14 @@ issue: what it is, what it contains that bears on Kanawana, the YMCA of Montreal
 Quebec camping, or the people already in the KB — and an explicit "nothing" when
 that is the honest answer, so a later pass can tell a read issue from an unread one.
 
+**Method note added 2026-09-04, after issue 57.** Reading every word is not enough on its
+own: at issue 51 an article on the contents page — Margaret Govan's "The Happy Camper" —
+was read and then left out of the block, and only came back because a 1963 article quoted
+it. Reading and recording are different acts, and a block that silently omits an article
+is the same failure this pass exists to correct. **From here on, check each block against
+the issue's own contents page before marking the issue read**, and where an earlier block
+turns out to have a hole, patch it in place and say so rather than letting it stand.
+
 ## 1 — Vol. 1 No. 1, February 1949
 
 The first printed issue; the masthead says it is "the natural evolution of two
