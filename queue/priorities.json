@@ -3988,6 +3988,32 @@
       "created_at": "2026-09-03",
       "status": "pending",
       "notes": "Reframed 2026-09-03 from a build hook to a design decision, per the operator: 'We need to make surface publication policy decisions at the wiki UI design level, not here.' scripts/build-content.ts is still the boilerplate scaffold it shipped as and is not pointed at wiki/; whatever policy is chosen gets implemented there."
+    },
+    {
+      "priority_id": "p_309",
+      "rank": 308,
+      "type": "RESEARCH",
+      "article_id": "derek-walsh",
+      "tier": 2,
+      "assigned_weight": "medium",
+      "description": "Formal RALPH cycle on derek-walsh (spawned 2026-09-04 as a stub from the Canadian Camping run). He directed Kanawana 1974-Feb 1979 while serving as CCA Vice-President 1974-1981 and president of the QCA's English section, wrote the association's promotion pamphlet in both languages, and ran its magazine feasibility study -- and none of it is in any Kanawana record. Needed: birth/death, education, occupation outside camping, and above all where he went after February 1979 (a Derek Walsh appears at Camp Thunderbird, Victoria B.C. in May 1979, but the CCA calls him 'of Montreal' in December 1980; see f_2470). Search obituaries, the Gazette via Google Books, CCA and OCA records, and Camp Thunderbird BC directly.",
+      "blocking": false,
+      "created_at": "2026-09-04",
+      "status": "pending",
+      "notes": "Enters at stub on the Part 5 precedent: clears the structural draft bar, has had no RALPH cycle."
+    },
+    {
+      "priority_id": "p_310",
+      "rank": 309,
+      "type": "RESEARCH",
+      "article_id": null,
+      "tier": 3,
+      "assigned_weight": "low",
+      "description": "Sampling read of whole Canadian Camping issues, to test what the term list missed. The p_304 pass indexed all 164 issues mechanically and read 664 extracted passages, but the extraction is a term list, and a term list finds only what someone thought to look for -- the failure mode of f_2335 and f_2378. Read six to ten complete issues chosen across the run (early 1950s, mid 1960s, mid 1970s, late 1980s) and record whether anything relevant appears that the terms did not catch. If the sample is clean, the extraction method is validated for the rest of the corpus; if it is not, the term list needs widening and re-running.",
+      "blocking": false,
+      "created_at": "2026-09-04",
+      "status": "pending",
+      "notes": "This is the honest complement to a method that traded completeness for tractability, and it is what makes that trade checkable rather than merely asserted."
     }
   ],
   "queue_ordering": {

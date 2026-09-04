@@ -1,6 +1,6 @@
 # Roy D. Locke
 
-*Status: draft | Sources: 12*
+*Status: draft | Sources: 13*
 *Last Updated: 2026-08-14*
 
 ## Overview
@@ -85,6 +85,14 @@ municipalities, in the right years.
 is not a rare enough name to carry the identification on its own. It is recorded because it is a
 concrete, checkable lead: Montreal West's own council records would settle it in one query.
 
+## The Quebec Camping Association, and the Manual
+
+Locke ran the provincial association while running the camp. The June 1949 issue calls him "Roy Locke, **Vice-President of the Quebec Section**"; April 1952 has "Roy D. Locke director of Y.M.C. Kamp Kanawana is **president of the Quebec Camping Association**," with the association at 1441 Drummond Street; the April 1954 officer list gives "**Past President** — Mr. Roy Locke, Boys' Work Secretary, Metropolitan YMCA." He also sat on the CCA's national board in February 1951.^13
+
+**His June 1953 article set out how Kanawana was run.** "A Manual of Operations" argues from institutional memory — "each camp has developed its own technique of program and administration... **a change in the camp director may lead to inefficiency and needless friction**" — and describes the manual Kanawana had built in four sections: programme, administration, buildings and equipment, general. Among its contents he singles out "a seven page outline: **Things a new staff member needs to know about Kanawana**. This is very valuable. It eases the orientation period."^13
+
+That is the direct ancestor of the **Camp Plant Manual** the 1965 annual report describes being developed twelve years later, with photographs, building dimensions and per-building maintenance charts.^13
+
 ## Open Questions
 
 1. [Important] Did Locke direct Kanawana on site for every season 1948–1954, or only some of them? The 1951 history's "since that time" covers 1947–51; 1952–54 rests on his holding the camping portfolio, which is not the same claim. The camp's own season reports for those years do not survive in the digitized set.
@@ -114,6 +122,7 @@ concrete, checkable lead: Montreal West's own council records would settle it in
 10. *Canadian Camping* Vol. 6 No. 3, June 1954 [src_ia_canadian_camping_collection].
 11. *Canadian Camping* Vol. 16 No. 1, December 1963 — cumulative subject index [src_ia_canadian_camping_collection].
 12. *Kamp Kanawana Director's Report 1978*, acknowledgements [src_ia_ymca_montreal_fonds_collection].
+13. *Canadian Camping*: officer lists June 1949, February 1951, April 1952 and April 1954, and Roy D. Locke, "A Manual of Operations," June 1953 [src_ia_canadian_camping_collection]. See [f_2472]. The 1965 successor is at [f_2403].
 
 ## Research Notes
 

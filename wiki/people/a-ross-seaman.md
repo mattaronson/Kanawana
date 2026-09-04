@@ -1,6 +1,6 @@
 # A. Ross Seaman
 
-*Status: E1-reviewed | Sources: 9*
+*Status: E1-reviewed | Sources: 10*
 *Last Updated: 2026-07-10*
 
 ## Overview
@@ -50,6 +50,14 @@ Seaman's home community was Vankleek Hill, Ontario, where he was remembered for 
 
 The A. Ross Seaman Memorial Leadership Development Fund was established in 1987 at Concordia University (designation code ES0042) to honour his dedication to Concordia, Dawson, Kamp Kanawana, and the YMCA.^2 The fund is notable for raising money through an annual awards evening with auction — described as possibly the only active Concordia scholarship using this fundraising model.^4 The Dawson College CRLT scholarship awards $500 annually to a second-year student who displays leadership, community service, caring, and genuine concern for others.^3
 
+## Provincial and national office
+
+Seaman held office in organised camping for most of his career, and the camping press dates the steps.^10
+
+He was **Secretary of the Quebec Camping Association** from about 1949, and the April 1951 issue records how it ended: "Ross Seaman, secretary of the QCA for the past two years, has been **forced to resign from that position due to his recent appointment to the Lachine YMCA**." That independently dates his move to the Lachine branch, which this article had from the YMCA's own records alone. He was in charge of registration for the National-Quebec Conference held that spring at the Sir Arthur Currie Gymnasium.
+
+He is QCA Secretary again in the 1962 and 1963 officer lists. He sits on the **Canadian Camping Association's national board** through 1966–1968 as "Mr. A. Ross Seaman, Que." The winter 1968 issue names him a **Vice-President of the QCA** under president Mrs. Nicholas D. Demetelin, and separately as "immediate past president" of the English section. In summer 1973 he led a national workshop on **funding**, which delegates reported "left us the most to grapple with in terms of new information."
+
 ## Open Questions
 
 1. [Critical, re-confirmed dead end 2026-07-09] What are Seaman's full biographical details — birth year, full name, education beyond SGW? A further pass (genealogy sites, FindAGrave, Vankleek Hill obituary aggregators) found nothing new. The Vankleek Hill newspaper "The Review" (archived from 1893) very likely carries an October/November 1987 obituary, but its own online archive is not full-text searchable — this requires a paid GenealogyBank-style subscription search or direct contact with the newspaper or a Vankleek Hill funeral home, not further web queries.
@@ -76,3 +84,4 @@ The A. Ross Seaman Memorial Leadership Development Fund was established in 1987 
 7. Camp Perrot annual reports, 1952 [src_ia_camp_perrot_collection]; "A Fresh Look at Camp Perrot," 1959 memo [src_camp_perrot_1959_fresh_look]. Both verified genuine via archive.org metadata API, 2026-07-10.
 8. *Canadian Camping* Vol. 19 No. 4 (June 1967), p. 125 [src_ia_canadian_camping_1967_06]. Profile of Seaman as Montreal YMCA Director of Camping; the passage on Mrs. Seaman is quoted above.
 9. "A. Ross Seaman, President, Quebec Camping Association, Inc.," *Canadian Camping* Vol. 19 No. 4, June 1967, p. 125 [src_ia_canadian_camping_1967_06].
+10. *Canadian Camping*, officer lists and reports 1951–1973 [src_ia_canadian_camping_collection]; full text cached under `sources/cache/canadian-camping/`. See [f_2471].
