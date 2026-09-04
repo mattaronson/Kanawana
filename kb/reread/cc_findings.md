@@ -7144,3 +7144,216 @@ YMCA camps" claim, which if traceable would give a national denominator for Kana
 early decades.
 
 Kanawana itself: not named in this issue.
+
+## 56 — Vol. 15 No. 1, December 1962 ★★★
+
+**Kanawana is named in this issue** — the first time since issue 41. It is named in an
+obituary, and locating that obituary in its original setting corrects a citation in the
+wiki.
+
+**"In Memoriam — J. G. 'Greig' Macdiarmid, May 21st, 1962" (p. 18).** In full:
+
+> "Camping, in Canada, lost a knowledgeable and ardent supporter with the sudden death,
+> in May, of Greig Macdiarmid, General Secretary of the Toronto Young Men's Christian
+> Association. **A former director of Camp Kanawana**, he served the Y's in Montreal and
+> Toronto and during World War II was **Senior Officer Overseas of Canadian YMCA War
+> Services**. His interest and enthusiasm was a key factor in the expansion of Camp Pine
+> Crest, Norval and Wangoma and the development of twenty-three YMCA Day Camps in the
+> Toronto area. He set the stage for the Y's co-operation in the operation of Camp Illahee
+> for medically handicapped children.
+>
+> Camping in Canada is richer and stronger and serves youth better because of his worth
+> and work. **To those who knew him, he was truly 'THE CHIEF'.**"
+
+**This is the source `greig-macdiarmid.md` has been quoting at second hand.** That article
+attributes the General Secretaryship, the Pine Crest / Norval / Wangoma expansions, the
+twenty-three day camps, the Camp Illahee sentence (word for word), the 21 May 1962 death
+and the heading form "J. G. 'Greig' Macdiarmid" all to footnote 10 — **Grace McMorris's
+2023 Concordia MA thesis**. McMorris was quoting this obituary. The primary is *Canadian
+Camping*, Vol. 15 No. 1, December 1962, p. 18, and it should be cited as such. Two
+consequences:
+
+1. **Open Question 1 in that article is partly answerable now.** It says "A Toronto
+   obituary of May 1962 is now a dated, findable target." The obituary the article is
+   actually quoting is not a Toronto newspaper obituary — it is this one, in the national
+   camping magazine, and it is now read in full. A Toronto newspaper obituary may still
+   exist and may still expand the initials; this one does not. The question should be
+   rewritten so it does not send a later pass hunting for a document it already has.
+2. **One detail is new**: his wartime title, **"Senior Officer Overseas of Canadian YMCA
+   War Services"**. The article's career table has "Senior YMCA Supervisor for Great
+   Britain" (1942–43) and "Senior Secretary for War Services in the United Kingdom"
+   (1946), both from the Montreal annual reports. "Senior Officer Overseas of Canadian
+   YMCA War Services" is a third form, from a third body, and worth recording alongside
+   rather than collapsing into them. Also new is the epithet — **"To those who knew him,
+   he was truly 'THE CHIEF'"** — which lands oddly well: Kanawana's own newsletter had
+   addressed him as "Chief MacDiarmid" across four summers in the 1930s, and Taylor Statten
+   was "The Chief" to his own thousands (issue 55). The camping movement had more than one.
+
+**The magazine corrects its own volume numbering (p. 30)** — the error I flagged reading
+issue 52:
+
+> "**CORRECTION ... With Our Apologies.** We regret that the four issues of the volume of
+> CANADIAN CAMPING just completed were incorrectly numbered as Volume 13, when in fact
+> Volume 13 had already run its course the previous year. Would you note on their Index
+> Pages that the issue for Dec. 1961 should read Vol. 14, No. 1; Feb. 1962, Vol. 14, No. 2;
+> April 1962, Vol. 14, No. 3; June 1962, Vol. 14, No. 4. The current issue, December 1962,
+> commences Volume 15."
+
+So the cached filenames are right and all four contents pages of 1961–62 are wrong, on the
+magazine's own authority. Worth carrying into `meta/sources-index.md` before anyone cites
+one of those issues from its own masthead.
+
+**The first French-language article in the magazine's history (p. 11, concluded p. 20)**,
+flagged as such by the editors: "*Bienvenue!* The Editorial Committee welcomes our first
+article in French. *Encore s'il vous plaît!*" This is the QCA's French section reaching the
+national page, twenty months after the March 1961 charter (issue 51). **Abbé Cloutier, "Le
+Camp-École Trois-Saumons et ses camps de formation"** — a Quebec leadership-training
+complex whose figures are the best documented French-Canadian camp-training numbers found
+so far:
+
+- **Camp-École Trois-Saumons founded 1947**, and candid about its early difficulty finding
+  competent instructors in swimming, boat handling and natural science: "La générosité de
+  son personnel ne lui fit jamais défaut, mais la préparation immédiate, l'initiation et la
+  compétence particulière que demande la vie de Camp, furent souvent loin des espoirs
+  fondés."
+- **L'École provinciale de natation, founded 1949, with an English section and a French
+  section**, running the Canadian Red Cross programme: **15 courses to date, 1,503
+  participants, 759 of whom received an instructor's diploma.** Senior qualification
+  required for admission.
+- **Camp Marie-Victorin, founded 1953** for natural science, under Abbé Robert Plante and
+  then Roland Dumais: ten fifteen-day courses and ten ten-day courses, **622 participants**.
+- **Le Camp de Cadres, founded 1960** — senior leadership, all instructors camp veterans;
+  two seven-day sessions for monitors with a year or more's experience heading for senior
+  posts (chef de groupe, chef de camp, chef de service); **91 participants to date**; both
+  years' courses to run in parallel for the first time in 1963.
+- **L'École de moniteurs et monitrices, founded 1962** — minimum age 17, two weeks (five
+  hoped for in 1963), covering "psychologie, la physiologie et la sociologie de l'enfant",
+  and "vie religieuse, psychologie, **évaluation des jeunes**, sécurité aquatique,
+  découverte de la nature, campisme, jeux, mimes et théâtre, chants, danses."
+- Funding: all these courses are private initiatives, **"hautement recommandés par
+  l'Association des Camps du Québec Inc."**, and made possible by the **Ministère de la
+  Jeunesse, Service d'éducation populaire**, which covers part of the participants' room
+  and board, their transport, and the instructors' salaries.
+
+That is a Quebec provincial government subsidising camp leadership training by 1962, an
+"Association des Camps du Québec Inc." now incorporated, and a French-language training
+pipeline running since 1947 — none of it in the repo. It bears directly on
+`connections/related-camps/quebec-camp-landscape.md` and on the French-section thread
+opened in issue 47. **Note also "évaluation des jeunes" as a taught subject** — the
+staff-assessment practice at issue in `p_307` was being formally trained on both sides of
+the language line.
+
+**Mary L. Northway, "Faster Faster" (pp. 8–9)**, reprinted from the Bulletin of the
+Institute of Child Study, University of Toronto — Northway is already flagged in this read
+as meeting the stub threshold, and this is her best piece yet. On the Red Queen's country:
+"We not only go faster and faster, but we feel there is some moral virtue in so doing. We
+boast that we have driven 3200 miles in six days, but say little of what we saw on the
+way." On psychologists: "Rats who are slow in learning to find the cheese, or children who
+take a long time in learning vulgar fractions, are said to be stupid. No one even suspects
+that they may simply have been wise enough to know that both cheeses and fractions would
+wait." And then, addressed squarely at camps:
+
+> "Could play become play again instead of 'organised recreation'? **Could camps provide
+> periods for dabbling and dawdling, instead of days filled with instructional periods and
+> interest groups? Could we abolish badges for achievement and bestow them for enjoyment?**
+> Could we proclaim one day a year on which every one did exactly as he liked, and even the
+> clocks ceased to run? ... the worst waste of time is never to waste time."
+
+Set against Lowes's award-driven specialisation programme (issue 54) and Taylor's vigil
+order (issue 55), this is the era arguing with itself in its own magazine about whether the
+honours and badges Kanawana also ran were good for children.
+
+**Other content.** J. C. Moore of the Boy Scouts of Canada on **building a swimming pool by
+hand for about $2,000** — a 30′ × 61′ pool, 3 feet to 6 feet deep, dug by bulldozer and
+finished by volunteers with rakes and shovels, sides at a 1-to-1 pitch, three overlapping
+layers of asphalt-and-asbestos **canal liner** laid at 45° to each other and cemented with
+cold tar, held down by two courses of concrete block with **cast-on-the-job scum gutters**
+in the upper course, then painted with two coats of light blue latex; built summer 1961,
+wintered full without damage, fenced and laddered in 1962. Method credited to Franklin
+Folsom's magazine article "Full Size Pool for Only $300"; engineer Doug E. Smith. A useful
+comparator if Kanawana's own waterfront works are ever costed. **John Ruse of Aqua-Lung of
+Canada on introducing SCUBA as a camp activity**, with a five-step protocol (certified
+instructor, medical examination of every participant, the instructor personally swimming
+the area, an inventory-and-air-supply costing, and disciplined programme) — and a
+notably cooler counter-comment from **C. B. Davis** of the Canadian Red Cross's Swimming
+and Water Safety Division: tank refilling and inspection "may be too complicated for most
+directors", 14 to 16 is the sensible age "as some physics is involved", and fins-mask-and-
+snorkel "can be carried on with much less effort ... but the quality of instruction must
+not be less than that required for air diving." **Ted Yard's "Our Pal Joey"** — a tame crow
+at YMCA Camp Pine Crest who rode on the junior section director's hat, stole his cigars,
+lured the director's dog off the dock, "mugged his way into a CBC camping film shown on the
+Trans-Canada television network", vanished at Labour Day 1961 after flying into a hemlock,
+and reappeared on his old ledge at noon on 16 August 1962 with "a new cry strangely like
+that of a child calling 'mama'." (**A CBC camping film on the Trans-Canada network, c.
+1961, featuring Camp Pine Crest** — a findable moving-image lead of exactly the kind the
+Phase 2 mandate asks for.) **Don Groff's "Why I Direct A Camp"**; **Wendy Phillips,
+counsellor at Camp Oconto, preaching on "The Five Pennies"**; W. H. Brittain's mock-
+Shakespeare against "that LOUT devoid of feeling / WHO COULD PEEL A SILVER BIRCH!"; and
+Mary Edgar's light verse "The Camper and the Birthday Suit."
+
+**A new series, "Camp Capers" (pp. 28), invited by the editorial committee** — and the two
+first contributions are worth having as models for `traditions/myths-and-legends.md` and
+`lv-games.md`. **Joyce Bertram, Camp Ouareau**: on the last morning of camp, instead of the
+usual pre-dawn racket, "there, ranged about the flagpole in a perfect hollow square was the
+footgear of every camper in camp. Drawn up in perfectly straight lines were junior rubber
+boots, senior thongs, intermediate penny loafers or desert boots. Many unwary counsellors
+were represented too — some of them, I was amused to note, with two left feet." No campers
+came to flag-raising; the counsellors raised the flag alone and went in to breakfast
+followed by "a laughing gang of children who seemed to come out of the woodwork."
+**Barry Lowes, Camp Timberlane**, on a car parked on a ten-foot rocky island a mile out in
+an Ontario camp's lake, which nobody would explain until he was leaving: "This is called a
+lesson in humility, just to make the director aware of the fact that he doesn't really know
+EVERYTHING that happens at camp." The editors' framing is itself a fact about the culture:
+"As long as these capers are not malicious, vandalous or inconsiderate, they can add zest to
+camp life."
+
+**"Camp Director's Bookshelf" (pp. 24–25, 29)** — a canon assembled by polling experienced
+directors for the twelve books each thought essential. The whole list is worth keeping as
+the reading behind Kanawana-era practice; the entries that matter most here: **Hedley S.
+Dimock, *Administration of the Modern Camp* (1948)**; **Dimock & Hendry, *Camping and
+Character* (1929)**; **Dimock & Trecker, *Supervision of Group Work and Recreation*
+(1941)** — three Dimock titles in a canon of about eighty, in a wiki that already holds 146
+Dimock facts. **John A. Ledlie, *Managing the YMCA Camp* (Association Press, 1961)**.
+**"Camp Administrative Forms and Suggested Procedures in the Area of Personnel" (ACA,
+1956)** and the **"Camp Visitor's Kit" (ACA, 1961)**, plus **"Camp Visitation Forms for
+Alberta, Ontario, Quebec — apply to provincial associations"**: a printed pointer to the
+QCA visitation instrument that issues 47 and 51 established was in use on Quebec camps in
+1960–61. **Ellsworth Jaeger, *Council Fires*; Allan A. Macfarlan, *Campfire and Council Ring
+Programs* (1950); and "Indian Council Ring; Jack Eastaugh, 5 Beatty Ave., Brampton, Ont."**
+— Eastaugh's mail-order script (issue 42) is now canonical, listed beside two major
+publishers. **Ronald H. Perry, *The Canoe and You* (1948) and *Canoe Trip Camping* (1953)**
+— the Ron Perry who thanked Hendry at the Statten lecture. **Mary S. Edgar, *Under Open
+Skies* (1955) and *Wood-Fire and Candle-Light* (Macmillan, 1945)** — so the poem printed in
+issue 52 comes from a titled collection. And E. Middleton, *One Hundred to Dinner*
+(University of Toronto Press, 1960).
+
+**Association news.** The 1963 CCA conference programme is printed in full: Banff School of
+Fine Arts, 23–26 January, $5.00 registration, accommodation $5.50 dormitory to $11.00
+single with bath including three meals; theme speakers **Professor and Mrs Lorne E. Brown**,
+owner-directors of Camp Deka; the Saturday session covers "Specialized Programming —
+Hiking, Riding, Pioneer, **Indian**, Singing, etc."; seminar registrar Mrs Jean Boettger,
+Calgary. **May Brown is "a graduate of the McGill School of Physical Education"** — a
+Montreal training behind a B.C. camping leader. A **nomination notice signed by President
+Kenneth H. Murray, dated Montreal, 27 September 1962**, explains how the CCA actually chose
+its executives: the constitutional procedure "has not been found practical", so each
+provincial section is asked whether it can supply a whole executive **plus "adequate office
+accommodation and secretarial services"** — which is why the association's head office
+moved to Montreal with its officers, and why it would move again. Nominations to Frances
+Kelly at 2233 Belgrave Avenue by 15 December 1962. Bulletin board notes: Nova Scotia's 1961
+camp survey (40 camps responding — 17 agency, 17 church, private, and day camps; 18 fresh
+water, 20 salt), and **Halifax YMCA's Big Cove Camp, "after 38 years of camping for boys",
+running its first ten-day camp for girls** — a dated first for a YMCA camp opening to girls,
+useful to `history/coeducation-gender.md`. Classified: a camp director's post at
+**Earlscourt Children's Camp, Pigeon Lake, "for children with special needs"**.
+
+**New names**: Abbé Cloutier, Abbé Robert Plante, Roland Dumais (Trois-Saumons /
+Marie-Victorin), J. C. Moore, John Ruse, C. B. Davis, Wendy Phillips, W. H. Brittain,
+May Brown, Jean Boettger, W. D. Smith, Doug E. Smith. **New leads**: the CBC camping film
+on the Trans-Canada network c. 1961 featuring Camp Pine Crest; **Camp-École Trois-Saumons
+and the Ministère de la Jeunesse's Service d'éducation populaire subsidy files**; the QCA
+camp visitation forms, now known to have been printed and distributable; a Toronto
+newspaper obituary for Macdiarmid, still unfound and still the only route to his first two
+initials.
+
+Kanawana itself: **named**, in Macdiarmid's obituary — "A former director of Camp
+Kanawana."
