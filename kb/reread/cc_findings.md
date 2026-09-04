@@ -5520,3 +5520,161 @@ polyester resin, 16 ft, 65 lb** — the fibreglass canoe arriving in Canadian ca
 named for a YMCA camp.
 
 Kanawana itself: not named in this issue.
+
+## 48 — Vol. 13 No. 1, December 1960 ★★
+
+A winter-camping issue: Ted Yard on winter camping and on evaluation; **Tony
+Shorgan on the crippled child**; Labbett on budgeting; VanWagner on cooking on
+the trail and on winter camping with the McGill Outing Club; provincial news;
+Lowes on winterizing buildings; a satirical piece on staff management; Catherine
+Van Wagner on a pet skunk; Mary Edgar's verse; **Edgar's review of the Taylor
+Statten biography**; an obituary.
+
+**A YMCA camp census (p. 8).** Ted Yard, in passing: "In a recent survey of
+**thirty three Y.M.C.A. camps in Canada** it was indicated that **twenty seven
+open for weekend groups** on occasion." A hard national count of YMCA camps
+around 1960 — the set Kanawana belonged to — and evidence that four in five were
+already being used outside July and August. Nothing comparable is in the repo.
+
+**Tony Shorgan's camp, described by its director (pp. 10–11).** He is now bylined
+"**Camp Director, The Province of Quebec Society For Crippled Children, Inc.,
+Crippled Children's Camp at St. Alphonse de Joliette**", and he claims it is
+"**the largest camp of its kind in North America**":
+
+- **280 boys in July, aged two to twenty-one**, "suffering from all types of
+  physical disabilities"; "a somewhat fewer number of girls" in August.
+- **Thirty small huts, averaging ten children each.**
+- **One counsellor for every two or three campers**; the camp divided into groups
+  of no more than sixty, each with a responsible person.
+- Programme: group games, campfires, swimming, boating, pony rides, archery,
+  rifle shooting, sing-songs, dramatics, movies, musical concerts, arts and
+  crafts — and **overnight hikes "enjoyed by all campers of ten years old and
+  over despite the seriousness of their disability"**. "if confined to bed, we
+  have bedside games."
+
+His argument against over-protection is the substance of the piece: "**For the
+crippled child, as for any child, it is often much less serious to get hurt
+physically than to be hurt emotionally by over-protection**"; and on the isolated
+child in a city neighbourhood — "**When a crippled child is cut off from the
+activities of other children around him he lives in a dark and solitary
+world.**" "Before a crippled child comes to camp he may never have had a baseball
+bat in his hands, as the other children would not allow him on their team."
+And on why a first camp should be a specialised one: at an ordinary camp "**He
+would be more of a spectator than a participant. It is not normal for any child
+(crippled or otherwise) to live as a spectator.**" With issue 43's account of the
+French section's first meeting held at this camp, and issue 45's listing of him
+as president of that section, Shorgan is now the best-documented francophone
+figure in this read — and his camp, twenty-odd miles from Kanawana's own
+Laurentian world, is a substantial Quebec camp nowhere in the repo.
+
+**The camp budget, itemised (pp. 12–13, 36).** Clifford Labbett of Camp Oconto
+sets out an expenditure chart of ~22 headings — Food; Salaries and Wages (broken
+into counsellors, kitchen, maintenance); Supplies; Insurance; Repairs and
+Maintenance; Telephone; Fees and Donations; Printing; Office Supplies; Office
+Rent; **Red Cross and Royal Life Saving Society examination fees**; Travelling;
+Publicity; Light, Heat and Power; Tuck Purchases; Vehicle; Boat; Freight;
+Taxes/Mortgage Interest; Bank Charges; Unemployment Insurance and Workmen's
+Compensation; General. He notes that the Department of National Revenue, the
+Unemployment Insurance Commission and the Ontario Workmen's Compensation Board
+each maintain auditors who "may examine your salary and wage records at any time
+of the year", and gives the key figure: "**The cost of your raw food can be
+anywhere from 75¢ to $1.50 per day**" per camper — which brackets Phyllis
+Trotter's Ottawa YWCA $1.03 (issue 46) and Ouareau's caterer economics (issue 41)
+and gives a usable range for any Kanawana budget of the period.
+
+**Ted Yard on evaluation, and the forms that did it (pp. 14, 26).** He
+distinguishes evaluation from "summing up": develop means of securing factual
+information, clarify objectives, relate one to the other, act. And then he lists
+the instruments actually in use, which is a checklist of documents to look for in
+any camp archive: **Department of Health questionnaires; the Camping Association
+Questionnaire; the Camping Association Statement of Standards and Desirable
+Practices; "Guideposts to Better Camping"; and the Y.M.C.A. Camp Appraisal
+Form** (plus appraisal forms developed by Scouts, Guides and the Council of
+Churches). The **YMCA Camp Appraisal Form** was already flagged as an archival
+lead earlier in this read; here it is named again as one of the standard
+evaluation instruments of 1960, which strengthens the case that a completed one
+for Kanawana may exist.
+
+**"DO YOU ALWAYS SAY WHAT YOU MEAN?" (p. 21)** — subtitled "To the inevitable
+Lemons on your Staff", signed J. E. B. (Joyce E. Bertram). Two columns, "WHAT YOU
+SAY" against "WHAT YOU MEAN":
+
+| What you say | What you mean |
+|---|---|
+| "I am interested to know what made you decide to go into camping. I should have thought a girl with your interests would have chosen…" | "Great Scott! How did I EVER…!" |
+| "Perhaps I might just emphasize again a very important point which we discussed at our last staff meeting." | "HOW often do I have to tell you?" |
+| "There are of course many ways of handling a problem like this. We have found that the following methods work rather well…" | "Do it my way, will you!" |
+| "You will understand, I am sure, that there are certain matters of camp policy which must be decided by the camp director." | "Who's running this camp, anyway?" |
+| "It is very difficult for heads of activities to maintain their high teaching standards unless assisting staff are punctual at all times." | "Have you ever been on time for anything?" |
+| "I am sure you will realise that it is difficult for any group of women to live happily together for eight weeks unless we all make an effort to co-operate in every way." | "DO stop griping!" |
+| "You have learned a great deal from your summer with us, I am sure. Perhaps another year you might find it challenging to try a (a) larger, (b) smaller, (c) different, (d) American camp." | "**Thank heavens you won't be back!**" |
+
+Printed as a joke, this is the most candid document in the run about how camp
+directors actually handled staff they did not want back — the emollient formula
+and the judgement behind it. It bears directly on how to read any surviving
+Kanawana staff evaluation: the written record is the left-hand column, and the
+right-hand column is what it meant. Worth citing in the `p_308` policy for
+exactly that reason.
+
+**Mary Edgar reviews the Taylor Statten biography (pp. 33, 37).** *Taylor
+Statten* by **C. A. M. Edwards** (Ryerson, $5.00, 1960) — "the author first came
+to know Taylor Statten at Camp Ahmek in the 1920's." Zero hits for Edwards in the
+repo; the book itself is a findable source for `taylor-statten.md`. Edgar's own
+recollections add three things: that **P. T. Barnum was a distant cousin and a
+boyhood hero** of Statten's, which she offers as explaining "the gaiety and
+mischief with which he often enlivened a rather dull meeting"; that she "**first
+became acquainted with Mr. and Mrs. Statten and their small curly haired
+daughter, Adele**" at **Camp Couchiching in 1910**; and that "the Y.W.C.A. and
+Girls' Work in Canada also owe a great debt to him — **When the first committee
+work was done on the Canadian Girls in Training program, we were greatly indebted
+to him for the ideas he had already worked out for boys.**" On the ACA she
+writes: "It was a very proud moment for many of us when we watched him take his
+place in Washington D.C. as President of the American Camping Association — **the
+first and only Canadian to be elected to that office**." `taylor-statten.md`
+records him as elected ACA president in **1942** but resigning through illness,
+with Wes Klusmann assuming the duties; Edgar's recollection of watching him "take
+his place in Washington" is a warm memory rather than a term of office, and does
+not overturn the ACA's own list — but it is worth noting that a contemporary who
+was there described him as having actually taken the chair. Her account of the
+CCA's founding years is also worth keeping: "we were a small and diversified
+group of Camp Directors representing widely different types of camps. Some of us
+were groping beginners and some a bit cock-sure about our own ideas but Taylor,
+our first President, could always see the other person's point of view."
+
+**In Memoriam: John Hoyle (p. 34).** "Camping has lost a staunch and devoted
+friend in John Hoyle, who **died Oct. 18th at Haliburton, Ont.** Born in Spain,
+educated in England, 'The Major' was for many years active in youth and religious
+education work. For several years he was **secretary of the Religious Education
+Council in Canada**. Owner and Director of **Camp Gay Venture since its inception
+in 1946**…" He was a CCA vice-president and wrote the ethics article printed in
+issue 43 — eighteen months before his death. Zero hits for "Hoyle" in the repo.
+
+**Also noted.** VanWagner is now bylined "**Faculty Adviser, McGill Outing
+Club**" as well as Director of Camp Nominingue, and describes the MOC's winter
+camping method: fifteen years of lunching around open fires on weekly ski tours;
+three or four one-night "camp-outs" a winter with four to sixteen men and women;
+**groups of four to five with an experienced leader, no tent but a large bough
+lean-to and thick bough beds on the snow**; a green-log fire base so the fire does
+not melt itself into a hole ("Even in snow 3 or 4 feet deep, a large hole will be
+melted clear to the ground"); a full clothing list; and the governing rule —
+"**One of the most important considerations when camping out in cold weather is
+to keep dry. This usually means avoiding perspiration at all costs.**" Ski boots
+and any damp clothing go inside the sleeping bag overnight. He credits the
+postwar interest in winter camping to "experience gained by ski troops during the
+late war", and notes that Boy Scouts and **college outing clubs** led the way.
+Barry Lowes gives a complete, costed guide to **winterizing camp buildings** —
+banking earth or shavings against the foundation (removed each spring or the
+cabin gets dry rot), a double floor with vapour barrier between, fibreglass batts
+or loose shavings between studs, ten-test or ⅜″ plywood inside walls, a second
+pane of glass in each window, a ceiling because "it is always at least twenty
+degrees warmer just under the roof", weather-stripping and a lean-to entrance,
+and a box stove set on a two-inch frame with sheet metal. Catherine Van Wagner's
+"Muffet" is an unexpectedly complete natural history of a hand-reared skunk at
+Camp Nominingue — found at five weeks, bottle-fed on a doll's feeding bottle,
+swimming in the lake behind a camper, "at least 100 campers" wanting to take him
+home — and ends badly: at nine weeks the camp had him descented and "the poor
+little fellow did not survive the anaesthetic." Mary Edgar's "A Camp Recipe"
+("Keep them in safety eight weeks, or till brown: / Then they are ready to serve
+back in town") is printed alongside her poem "I Have a Mountain".
+
+Kanawana itself: not named in this issue.
