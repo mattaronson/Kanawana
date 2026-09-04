@@ -5333,3 +5333,190 @@ in an 11" × 11" × 4½" box weighing 6¾ lb** — the prepackaged trip ration t
 Bertram's fictional camper was made to eat instead of his own caught fish.
 
 Kanawana itself: not named in this issue.
+
+## 47 — Vol. 12 No. 4, June 1960 ★★★
+
+Klein's "Recipe for a Happy Camper" from the Montreal conference; Adele Statten
+Ebbs on the staff meeting; Edith Milne on adventurous games; **News From the
+Provinces and the CCA's own balance sheet**; Bertram's book page; Wipper on
+mouth-to-mouth and on the revised canoeing standards; Garth Kaye on canoe
+tripping; **Iris Milton on camp music**; Elizabeth Steen's quantity recipes; a
+waterfront checklist.
+
+**Mary Edgar becomes Honorary President, and the magazine's own origin is
+stated (p. 167).** Announced by VanWagner at the closing banquet of the joint
+conference, **Sheraton-Mount Royal Hotel, Montreal, 9 April 1960** — she succeeds
+the late A. L. Cochrane, and her name now sits on the masthead. Anne I. Vail's
+tribute contains the fact:
+
+> "**We are proud that she was the first editor of Canadian Camping magazine
+> and, with her Committee, changed it from a mimeographed bulletin to a
+> creditable printed magazine.**"
+
+This corroborates and sharpens the issue-43 byline, and it produces a **new
+source lead of the first order**: the printed run this project holds — 164 issues
+from Vol. 1 No. 1, February 1949 — had a **mimeographed predecessor**. Somewhere
+there was a CCA bulletin circulating before February 1949, edited by Mary Edgar.
+It would cover the years 1936–48, which for Kanawana is the interwar-to-postwar
+gap the wiki struggles with most. Add to `meta/sources-index.md` and to the
+archival lead list.
+
+**The QCA was inspecting Quebec camps by 1960 (p. 207).** In the standards
+session at the Mount Royal, "It was agreed by **Q.C.A. members that camp visiting
+should continue in that province**, to follow the experimental lead of the Ontario
+group." Manitoba reported its own standards already set. The consensus recorded
+is that "an extensive educational programme by the provincial associations,
+rather than provincial legislation, is much to be preferred by camping people in
+Canada." **This means a Quebec Camping Association camp-visitation programme was
+already running by spring 1960 — and Kanawana, as a Quebec camp in the
+association's own city, is a plausible subject of one of those visits.** Visit
+reports, if they survive, would be with the QCA's or the CCA's Montreal records.
+A concrete, specific archival target.
+
+**"MEETING OF THE CLANS" — the 1960 conference season, with numbers (p. 177).**
+Conferences at Winnipeg, Vancouver, the Banff School of Fine Arts, Red Deer,
+Toronto, Montreal, Ottawa and Halifax, "with registration of **over three hundred
+and fifty in Montreal**, and over six hundred and seventy in Toronto, with a
+higher percentage than ever before of counsellor delegates." And three firsts
+recorded: every kind of camp in Alberta represented at Banff; "For the first time
+in history, **the French-speaking groups met jointly, with one of its sessions
+translated from English to French**. For the first time in history, **a camping
+conference programme was printed in the two languages.**" Two years after
+Shorgan's founding meeting, the French section had a bilingual conference
+programme. Delegates from Quebec, the Maritimes, Manitoba, Saskatchewan, Ontario
+and the United States also urged that **provincial editorial committees** be
+appointed to feed articles to this magazine.
+
+**The Canadian Camping Association's entire finances for 1959 (p. 178).** An
+audited statement, signed by treasurer W. J. C. Hewetson and Arnold Borts, C.A.:
+
+| Revenue | |
+|---|---|
+| Camp memberships, **296 @ $2.50** | $740.00 |
+| Individual, **211 @ $1.00** | $211.00 |
+| Commercial, **40 @ $2.50** | $100.00 |
+| Y.W.C.A. donation | $25.00 |
+| Bank interest | $16.26 |
+| **Total** | **$1,092.26** |
+
+Expenditure $930.28 — of which office expense $410, magazine $207, grants and
+special travelling $200, travelling $102.20, postage $8, bank charges $1.08,
+general $1 — leaving a surplus of $161.98 and **total assets of $1,574.30**.
+
+The national association that had just run a 350-delegate conference in Montreal,
+maintained an office and a paid secretary on Belgrave Avenue, and published this
+magazine, was operating on **under eleven hundred dollars a year** and held
+fifteen hundred dollars in the world. It is also a **membership census**: 296
+member camps in Canada in 1959, against Barry Lowes's estimate of "nearly five
+hundred non-profit camps" in Ontario's Department of Education files alone. For
+`canadian-camping-movement.md`, and a scale check on every institutional claim
+made about the CCA.
+
+**Iris Milton, "Join In The Song" (pp. 191–92, 195) — a dated 1960 Canadian camp
+song repertoire, named.** Written for the CGIT by a member of its committee, and
+the most useful single item this run has produced for `p_048` and
+`camp-songs-cheers.md`, because it *names songs*. Her worked example of a
+balanced sing-song, keyed by number to a specific book:
+
+- fun — **Capital Ship** (4); action — **Donkey Riding** (31); folk — **Weggis
+  Song** (61); round — **Kookaburra** (41); part song — **The Instruments** (19);
+  spiritual — **Steal Away** (77); hymn — **All Creatures of Our God and King**
+  (103). "These are all found in **'Lift Your Voices'** — Department of Christian
+  Education, **Canadian Council of Churches**."
+
+Elsewhere she names, for waking: **"Morning Comes Early"**, **"When morning gilds
+the skies"**; for hiking: **"The Road to the Isles"**, **"Swinging Along"**,
+**"Follow the Trail"**; for Bible study: **"Go Down Moses"**, **"Hushed was the
+evening hymn"**, **"O Son of Man, our Hero strong and tender"**; and for campfire:
+**"Rise Up O Flame"** — "seems to be an essential part of the first cracklings of
+the struggling flame" — the hymn **"The Golden Day is Dying"**, the Bohemian
+**"Good Night, Beloved"**, a **Russian lullaby**, the round **"Whippoorwill"**,
+and **"Golden Slumbers"**. Two practices are worth recording as method:
+**antiphonal singing** — "One group may be on one hill and the other across on a
+hill opposite, or one group on the water with the other on land" — and her
+teaching sequence, which is the mirror image of Kay McClelland's 1956 advice:
+"A new friend usually is introduced with some interesting comment about the
+person. **Do the same for a new song. Briefly tell about its origin or about the
+story it tells.**" McClelland said that background could be "true or fictitious";
+Milton assumes it is true. The two together frame the whole provenance problem
+for camp song origins. She also gives an example of the contextualising she
+means: "mention the negro slaves stealing away in the dark after the masters have
+gone to bed, before singing 'Steal Away'." **"Lift Your Voices" is a specific,
+findable Canadian songbook**, and its numbering is preserved here — a way to
+reconstruct part of it even without a copy.
+
+**Adele Statten Ebbs on the camp staff meeting (pp. 170–73).** A complete
+in-service training curriculum from the director of Camp Wapomeo. She divides
+meetings into a **daily review** (programme synchronisation, departmental
+reports, "On a scorching hot day, the nurse can warn against sunburn") and
+**longer general sessions** on five topics: Health and Safety; The Role of
+Camping; Programme Planning; The Cabin Group; **Spiritual Values** — the last
+"developed from the notes of a presentation at a pre-camp course in July, 1950",
+and naming "camp institutions such as **Council Ring and Chapel services** which
+create a receptive atmosphere." Her list of what belongs in a mimeographed "Camp
+Routines" booklet is a checklist of the documents a camp of this era generated,
+and therefore of what to look for in an archive: **Fire Precautions, Fire Drill,
+Meal Hours, Tuck Shop, Mail, Food Parcels, Cash, Days Off, Sunday Suppers
+(Picnics), Care of Equipment, Laundry, Transportation schedules, Lost and Found,
+Officer of the Day and Night Watch schedules** — plus a **Staff Organization
+chart** naming counselling, kitchen and maintenance staff alike.
+
+Her arithmetic of the camp day is the sharpest thing in the piece: nine or ten
+hours' sleep, four hours in three meals, one hour's rest, three hours of routine
+(getting up, flag raising, clean-up, flag lowering, bed) — twenty hours, "**leaving
+four hours for all other camp activities**. And during this four hours is the only
+chance to find some leisure — some time to just sit in the sun and loaf." And a
+pointed aside about the older order: "In early days of camp, the counsellor's job
+was relatively simple… If there was a champion diver or swimmer on the staff —
+fine; the campers surely would learn to swim and dive — or else. **An Indian in
+charge of canoeing would teach the paddling.**" She closes by quoting a letter
+from her father Taylor Statten to his staff.
+
+**The revised OCA canoeing standards (pp. 182–85, 202).** Wipper, as chairman of
+OCA Canoeing Standards, prints the **new draft** superseding the November 1957
+version read in issue 37, and the differences are the interesting part: an
+administrative committee is being formed with **"no less than thirty five people
+from at least twenty eight different camps"** to handle award records, cards, and
+instructor/examiner training — "A set of standards cannot survive without
+appropriate management of such administrative details." Substantive changes
+include a **100-yard minimum swim** at Beginner; knowing "**canoe discipline
+(i.e. — sternsman is in command, bowman sets pace)**"; trip participation now
+"at the discretion of the Camp Director **as well as the Head of Canoeing**";
+a Senior prerequisite of **at least one overnight canoe trip**; and lashing and
+portaging a 16-foot, ~70-lb canoe **50 yards for girls and 100 for boys**, with
+assistance permitted for girls only — the gendered concession now written into
+the distance itself rather than only into the rescue technique. **Garth Kaye of
+Camp Voyageur** supplies the philosophy: "Tripping is offered because it provides
+a break from the normal camp routine; because other camps have trips and we must
+compete… Reasons like these are not sufficient basis for a canoe tripping
+programme." His warning about who has accidents is worth keeping: "**those at the
+bottom of the leadership ladder, who just don't know enough to be careful, and
+those far enough up the ladder that they consider themselves experts and don't
+need to exercise the required care.**" And: "There is no infirmary on a canoe
+trip"; camp made "certainly no later than five o'clock"; one lay-over day in four;
+"**A canoe trip leader should be working, not holidaying, during the trip**"; and
+the motto he proposes for every tripping camp in the country — "**We leave every
+campsite in better shape than we found it.**"
+
+**Also noted.** Alan Klein's conference address builds the "happy camp" on
+**Maslow's hierarchy** (survival, safety, love and approval, esteem,
+self-realization) and on Bettelheim: "**Love them and limit them.** A child who is
+not limited is a deprived child." His challenge to directors is blunt: "If you do
+not screen the youngster in intake, group them by plan and programme for the
+purpose, I can only conclude that you are fooling yourself in thinking that you
+are clear and comfortable about your purpose. **If you employ callow young staff
+and give them a once over lightly pre-camp session, I must conclude also that you
+do not mean your purpose.**" Edith Milne of the Ontario Girl Guides sets out a
+complete design method for **adventure games** — title, theme, method, rules,
+time and boundary limits, suitability to the area, help — with worked examples
+("Smugglers Treasure", "S. Boats" as a night game with lanterns and flashlights
+strung as a harbour boom), and notes "Highwaymen, convicts and spies are not in
+the least out of date. Inter-Planetary travel can be dreamed up by the
+space-minded." Elizabeth Steen prints **quantity recipes for 96–100 servings** —
+Chinese Omelet, Chicken Finale, Chop Suey, Chili con Carne, Mushroom Cheese
+Fondue — with the caution that they "should, perhaps, be blander for younger
+campers." And P.L.M. Plastics advertises **"The Pine Crest" canoe in reinforced
+polyester resin, 16 ft, 65 lb** — the fibreglass canoe arriving in Canadian camps,
+named for a YMCA camp.
+
+Kanawana itself: not named in this issue.
