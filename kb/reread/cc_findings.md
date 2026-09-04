@@ -6485,9 +6485,12 @@ Director of Tanager Lodge) on "Conserving Our Natural and Human Resources", and 
 of the Taylor Statten Memorial Lectures**, "Toward a New Understanding of Leadership".
 Hendry is described as "associated with Taylor Statten for many years" and author of
 *Camping and Character*, *A New Understanding of Leadership* and *A Professional Approach
-to Group Education*. The Statten Memorial Lecture series begins here; Statten's death is
-therefore between the December 1961 masthead (which lists him as Honorary President) and
-this one (which lists him among Past Presidents).
+to Group Education*. The Statten Memorial Lecture series begins here. **[Corrected from
+issue 55:** I first read the masthead shift — Statten listed as Honorary President in
+December 1961, among the Past Presidents in February 1962 — as bracketing his death. It
+does not. J. Alex Edmison's memorial in the June 1962 issue states that Taylor Statten
+**died on 1 November 1956** at Canoe Lake. The masthead change is an editorial tidy-up
+five years late, not an obituary. Mastheads are not evidence of who is alive.**]**
 
 **J. J. Keith, "Indian Council Programme" (pp. 70–72) — Assistant Director, Junior Camp,
 Camp Nominingue, Que.** A second Nominingue article in three issues, and the most
@@ -6859,5 +6862,285 @@ Ontario Department of Education staff-training centre; the Alberta Camp Director
 Seminar series at the Banff School of Fine Arts (fifth annual, 1962); Ben Hunt's *Golden
 Book of Indian Lore* and the Vancouver/New York "Indian Trading Companies" as the supply
 chain behind camp Indian lore.
+
+Kanawana itself: not named in this issue.
+
+## 55 — Vol. 14 No. 4, June 1962 ★★★
+
+The richest single issue of the run so far for the Indian-lore thread and for the Statten
+lineage. Three items are load-bearing: a full council-ring script with a **Vigil or Naming
+Ceremony** that is the closest documented analogue yet to Kanawana's Order of Owens; the
+authoritative Taylor Statten memorial; and Barry Lowes's counsellor address, which is the
+most complete picture in the run of what a counsellor's day was supposed to look like.
+
+**B. M. Taylor, "Council Ring Ceremonies and Fires" (pp. 158–159, 169–170).** Part two of
+the Vancouver series begun in April, and it prints the whole thing. For `site/council-ring.md`:
+
+- **Etiquette.** "Campfires, Ceremonies and Dances ... should be infrequent enough to be
+  looked forward to and back upon." "Do not degrade the ceremony with the use of
+  pidgin-English as the Indian himself did not talk in this manner, and by doing so at
+  camp a false impression is created in the minds of the campers. **Applause is also out
+  of place — the use of HOW! HOW! if satisfied and WAH! WAH! if not, will suffice.**"
+  "The ceremonial council ring was regarded in much the same light as we regard the
+  sanctity of the church." Enter and leave in single file behind a guide, in silence.
+  **"The council ring is never crossed. Only the firekeeper and those taking part in the
+  ceremony are permitted in the ring."**
+- **A sixteen-step ceremony**, given as a template: entry clockwise to a drumbeat with
+  burning torches along the trail; the Chief entering with two guides in a "Toe Heel Dance
+  Step"; a Fire Dance; a headdress purified over the fire and placed on the kneeling
+  chief; a peace pipe presented to the Medicine Man and lit from the coals; the **pipe
+  ceremony** — smoke blown to the ground for "MUCK-A-EENA mother earth", to the sky for
+  "WAKONDA the Great Spirit", then to each of four named winds (O-K-GA north, WA-TAY-GA
+  west, WAZ-E-ATA south, WAY-YO-HIN-YUN-PATA east); a Pow-wow Dance; the Chief taking a
+  "magic potion" from the Medicine Man; introduction of visitors; dances, **awards**, a
+  story; and a closing on the **Omaha Tribal Prayer** followed by a sign-language
+  benediction ("MAY THE GREAT SPIRIT ... MAKE ... THE SUN RISE ... IN YOUR ... HEART ...
+  WITH THIS OUR COUNCIL ... IS ENDED"), with the gesture for each phrase spelled out.
+- **Fire-lighting**, ranked by authenticity: friction (kit from the local Boy Scout
+  Association), flint and steel, a runner with a flaming torch or arrow, and — "not
+  authentic but effective" — **chemical ignition**: a cardboard box of equal parts
+  granulated sugar and potassium chlorate with a bottle of concentrated sulphuric acid
+  balanced above it on a pulled string, "starting the fire in a startling and mysterious
+  manner"; a **snake fire** of magnesium ribbon laid in a spiral; and coloured fires with
+  full formulae (white — potassium nitrate, sulphur sublimate, antimony nigrum, meal
+  powder, camphor; red — strontium nitrate; blue — shellac and exsiccated alum; green —
+  barium nitrate with potassium chlorate and lamp black; yellow — "simply add a little
+  salt"). "Many a ceremony has gotten off to a bad start because the Great Spirit failed
+  to smile upon the fire lighter." Recorded for the record, emphatically not as a recipe.
+  This is the mechanism behind the "mysteriously bursts into flame" bonfire in Mingie's
+  Nominingue account (issue 51).
+- **THE VIGIL OR NAMING CEREMONY.** The find of this issue. Taylor describes an
+  Indigenous coming-of-age rite (a youth of 13–15 sent out to survive without food or
+  water, given three marked arrows not to be used, required to "commune with nature and
+  have a medicine dream", returning to tell the Medicine Man and elders and receive **a
+  name and a medicine pouch or an eagle feather**) — and then gives the camp adaptation:
+  - "the highest honour attainable and is **limited to Senior Campers and staff**";
+  - **a committee of three senior staff screens all applicants**, who apply **in writing,
+    stating the reason** they believe they have reached manhood;
+  - the Director takes the accepted brave to a secluded area before supper, tells him
+    only the general direction, and has "a serious discussion ... concerning the Vigil and
+    its significance to the applicant. **This can be related to Christ's trip into the
+    wilderness**";
+  - three marked matches, one usable, the rest returned before breakfast; no food or
+    water from noon until breakfast;
+  - on return he relates the experience to the committee, and **"Any personal decisions
+    are kept secret or divulged to the committee, as the person so wishes"**;
+  - **"simply because a person goes on a vigil does not necessarily mean that they will be
+    accepted into the vigil order"** — the successful applicant receives a medicine pouch
+    or eagle feather **and an Indian name related to his personality** at the closing
+    ceremonial;
+  - "Criteria of a successful applicant should be in keeping with philosophy of the
+    individual camp. Great care should be taken."
+  A specimen list of camp "Indian Names" follows — ONEYHA Little Fox, IA-TO Blue Moose,
+  KAYASHI The Rabbit, HE-HA The Owl, CHASATONGA Little Big Man, WAH-BIT Keen Eyes,
+  AMAQUA Beaver, UN-WA-SEE Underwater Swimmer, HAUW ENTA He Who Combs.
+
+  **This bears directly on `traditions/order-of-owens.md` and on `knights-of-kanawana.md`.**
+  Kanawana's Order of Owens is an invitation-only honour order with a naming element; the
+  Nor'Westers (issue 50) are the same species; and here, in a national magazine in 1962, is
+  a published, transferable blueprint for exactly that institution — a screening committee,
+  a written application, an overnight solitary vigil, secrecy at the candidate's option,
+  possible rejection after the ordeal, and a conferred name. The word **"vigil" appears
+  nowhere in the repo**. Whether Kanawana's orders drew on this stream or arrived at the
+  same shape independently is now a specific, answerable question rather than an open one.
+
+**The Taylor Statten memorial (pp. 164–165), by J. Alex Edmison.** Written to launch the
+**Taylor Statten Memorial Fund** at the University of Toronto — over **$20,000 from 400
+contributors** in Canada and the United States, first grant made in 1962, for students
+entering "the human service professions", later to fund lectureships and research grants,
+"without respect to race, religion or nationality." The biography corroborates and extends
+`connections/institutional-lineage/taylor-statten.md`:
+
+- **"Taylor Statten, who died on 1st November 1956 in Algonquin Park, Ontario"** —
+  independent confirmation of the death date the wiki has from the Burry thesis and a
+  family letter. **This also corrects my own reading of issue 53**: the masthead moving
+  Statten from Honorary President to Past President between December 1961 and February
+  1962 does not bracket a death, it corrects an oversight five years old. That correction
+  is now marked in the issue 53 block.
+- "Like his artist friend, **Tom Thomson**, he passed away at storied Canoe Lake. Near
+  him, in his Little Wapomeo Island cabin, was the large stone fireplace which Thomson had
+  helped build so many years before. It bears this inscription: **'There let the Northwoods
+  Spirit / Kindle Fires of Friendship.'**"
+- Career: Boys' Work Secretary at Central YMCA Toronto **1905**; Provincial then Canadian
+  Boys' Work Secretary; **1921 Secretary to the National Boys' Work Board**; **1914**
+  originated the **Canadian Standard Efficiency Training Programme for Tuxis Boys and
+  Trail Rangers**.
+- **New and specific: "He was responsible for at least fifty-two camps conducted by the
+  YMCA, the first being at Lake Couchiching in 1905."** Fifty-two YMCA camps is a figure
+  the wiki does not have, and it puts Statten's first camp nine years after Kanawana's
+  founding — useful for placing Kanawana in the national sequence rather than treating
+  Statten as the origin of Canadian YMCA camping.
+- 1920 leadership training course at Canoe Lake; **1921 Camp Ahmek**; visiting leaders
+  **Ernest Thompson Seton** and **Jack Miner**.
+- **1924 Wapomeo** for girls, "despite warnings that co-educational camping would surely
+  ruin Ahmek. Both, however, prospered under skilled cooperative management." A dated,
+  quotable instance of the coeducation argument for `history/coeducation-gender.md`.
+- **"Taylor Statten was the first President of the Canadian Camping Association and the
+  only Canadian to be elected President of the American Camping Association."**
+- **Camp Tonakela, near Madras, established 1938** for underprivileged children — a third
+  independent statement of 1938, agreeing with Ebbs's *Madras Mail* citation and against
+  the "21st birthday on 21 February 1958" arithmetic. The 1938 date should now be treated
+  as settled and the 21st-birthday line as the outlier.
+- **"It continues now under the direction of Taylor Statten's sons, Dr. Taylor Statten Jr.
+  of Montreal and Dr. Page Statten of Toronto."** Statten Jr. is in **Montreal** in 1962 —
+  a live Montreal link in the Statten family that the wiki's Q1 ("no Quebec/Kanawana
+  connections found") does not have. Worth pursuing.
+- The daughter **Adele (Mrs J. H. Ebbs)** directs at Wapomeo — and J. H. Ebbs, M.D.,
+  writes the health article in this same issue.
+
+**"An Historic Occasion" (p. 163)** reports the first Taylor Statten Memorial Lecture,
+delivered **24 March 1962** at the closing banquet of the OCA conference in the **Great
+Hall at Hart House**, by Professor Charles Hendry, who "drew upon his experiences with the
+late Taylor Statten during the founding years of Camp Ahmek." **Joseph McCully, Warden of
+Hart House**, hosted for the Fund; Dr Roger Myers introduced; Ron Perry thanked. "The
+complete text of this lecture will be published by the Fund Committee and made available
+to Canadian Camping members early in the fall" — **a printed 1962 Hendry lecture on
+leadership, findable.** Mrs Taylor Statten — **"(Tonakela)"**, which is where the Indian
+camp name came from — was given honorary life membership in the OCA, accepted by her
+daughter Mrs H. Ebbs.
+
+**Barry Lowes, "A Typical Day" (pp. 149–156)** — from his address to the 1962 OCA
+conference, and the fullest counsellor's manual in the run. Reprints were sold by the OCA
+at 515 Jarvis Street, 15¢ each or twelve for $1.00. It is worth recording at length
+because it describes, in the same years, the job that Kanawana's own counsellors were
+doing:
+
+- "You are responsible for everything that happens to your campers twenty-four hours a
+  day ... your campers' behaviour will be governed by your example more than by anything
+  else, not what you tell them, but what you show them."
+- **Bed-wetting**, handled without shame: one counsellor stays behind to "routinely pull
+  back the covers on each bed ... If you find a wet bed, strip it immediately and take the
+  wet linens to the laundry. **Re-make it so that no one knows.** There is no need for it
+  to be public knowledge ... Beware of teasing and ridicule by the other campers."
+- **Food is a right, not a privilege**: "Never, never, never dock food. By 'dock' I mean
+  withhold food. Desserts are the favourite 'boot-screw' of poor counsellors ... I can find
+  no justification for withholding a camper's dessert because he does not finish all of the
+  main course." Also: never criticise the food in front of campers; never chastise a camper
+  in front of others; sit the worst offender beside you; "Children never deliberately starve
+  themselves to death, although parents and young counsellors have been known to worry
+  themselves almost to death." And a period note on girls: "**Beware of young girls on
+  diets. They all want to look like Debbie Reynolds. Even the ninety pound ones want to
+  diet.**"
+- On democracy: "Too often when choosing activities, democracy is considered to be
+  majority rule. This is a common fallacy. True democracy is not a matter of the majority
+  out voting the minority all summer."
+- On mail: "**While censorship of campers' mail is to be deplored**, their writing can
+  certainly be helped and guided." If a camper gets no mail for days, tell the director —
+  "it might even warrant you writing him a card from town on your day off."
+- On the danger period: "The period after general swim is a vulnerable time ... if it is
+  unsupervised, the underdog will be picked on, there will be towel flicking, water fights,
+  teasing, raiding, fights, and rough-housing."
+- On sleeping arrangements: "**Campers should not be permitted to sleep together. It is too
+  crowded and it is also a psychologically vulnerable situation.**"
+- **Bedtime as the core of the job**: "Bedtime is the most important 45 minutes of the day.
+  Don't be what I call a '**pull-chain**' counsellor, that is, one who hurries his campers
+  into bed, pulls the light out and disappears." His own cabin kept a small fire laid and
+  covered against the evening it was wanted: "We used to sit around it, reviewing the day
+  and planning for tomorrow ... At the end of this 10 or 15 minutes we used to stand and put
+  our arms around the shoulders of the person next to us and all look into the fire for a
+  few moments of silence and meditation. We ended with a prayer that was our own cabin
+  prayer. **No one spoke or broke the silence until we were back inside the cabin.**" Then,
+  after lights out, five minutes going bed to bed: "Talk about some highlight of particular
+  significance to him ... Congratulate him on some deed or gesture that he might feel went
+  unnoticed ... **Put their worlds together for them.** ... Five minutes spent wisely each
+  night like this will pay greater dividends than anything else that you do as a
+  counsellor."
+- On prayer: "It is best if you kneel and pray with them. If you cannot bring yourself to
+  do this, at least set aside a quiet period with the lights out ... If some do not wish to
+  pray, then they should just lie quietly and respect the rights of others."
+- Closing: "**Spiritual values are caught, not taught.**" And a period flourish: "the
+  children who come to camp to-day will be running this country in the year 2000 ... In just
+  over 50 years we have come from the Wright brothers to Colonel Glenn."
+
+**J. H. Ebbs, M.D., Taylor Statten Camps, "The Changing Health Picture" (pp. 144–145,
+160–161)** — with his own camp's injury statistics: **71% of minor injuries occurred in
+July and 29% in August**, "suggesting that the campers were perhaps better acclimatised as
+the summer wore on"; twice as many minor accidents in younger girls as older; staff half
+as many again; infections twice as frequent in July as August and twice as frequent in
+younger campers as in older campers and staff. On drowning: "**Surveys of drowning
+accidents indicate that very few occur in properly supervised places of recreation such as
+camps**" — set that against Labbett's Quebec judgment two issues earlier. On smoking:
+"**it is estimated that 25 to 40% of young people start to smoke during the camper age**",
+and most camps forbid it to under-age campers "even though the camper has permission from
+his parents." On **"swimming pool conjunctivitis"** — the APC virus, water-borne, traced in
+"a large boys' camp" a few years earlier — the remedy being to **decentralise swimming**
+during an outbreak. On animal-borne disease: no contact with wild animals "other than by
+watching them or by the use of a camera. **It is good camping practice to leave nature
+alone as much as possible**"; nests sprayed before touching; gloves and spray before
+skinning. A separate box warns that **rabies medical expenses are not covered by Ontario
+Hospital Insurance beyond 24-hour emergency treatment.**
+
+**Kirk A. W. Wipper, "Canoeing Strokes — A Definition" (pp. 146–148, 157, 166).** The
+technical committee's official definitions for the OCA canoe test levels, prepared under
+**Doug Lloyd** and demonstrated at the 1962 OCA conference — bow stroke, "J", bow cut,
+cross-bow cut, bow rudder, cross-bow rudder, bow draw types A and B, cross-bow draw,
+standing and running pry, backwater, pushaway, standing draw, feathering and reverse
+feathering, front and reverse sweep, stern draw, two varieties of **Indian stroke**,
+reverse "J", and the figure of eight. Notable for what it says about the culture: "some
+room should be left for the expression of individuality in style — a feature of the art of
+canoeing which distinguishes it from other recreational sports," and "It is assumed that
+all paddlers are in a kneeling position (both knees down) unless otherwise noted."
+Relevant to `traditions/canoe-trips.md` as the era's standard against which Kanawana's own
+tests and the La Vérendrye programme can be read.
+
+**Catherine Van Wagner, Camp Nominingue, "Look To The Stars" (pp. 167–168).** The
+Mrs VanWagner whom issue 51 credited as the magazine's most helpful Quebec contributor,
+here under her own name — a fourth Nominingue byline in five issues. A practical
+astronomy session for camp: in July the constellations do not show clearly until nearly
+9:30, so send the 12-and-ups to bed in pyjamas, jackets and warm socks beforehand and be
+back in bed by 10; charts and a **Golden Nature Guide** before dark to field "How far?
+What is a light year? What makes Northern Lights? How do you know if it's a star or a
+planet?"; an open field on a hill, blanket optional "if no one minds a slight 'crick' in
+the neck"; a flashlight for pointing; start with the Dipper's pointers to Polaris, then
+Vega in Lyra overhead, the Northern Cross, Aquila with Altair, Saturn and Jupiter in the
+south, Antares low in Scorpius, Arcturus in Boötes. "**That is enough for one evening**
+... it is always good to end a program when campers are clamoring for more." For cloudy
+nights, a black chart with silver star stickers. And: "there should be **a star-wise
+member of every canoe trip party**."
+
+**Other content.** Bruno Morawetz's "Why I Direct A Camp" — written just after Camp
+Ponacka's **15th Annual Reunion and Anniversary Banquet** — distinguishing "why I direct a
+camp" from "why I am happy to direct a camp", quoting a former camper about to be ordained
+by **Cardinal Léger**, describing the camp as "a little cosmos which springs into life
+suddenly in June and ends as abruptly at the end of August", and recording that Ponacka ran
+a **"Fall Camp" for two seasons taking 25 boys who were wards of the Children's Aid Society
+and members of an orphanage**, plus a stone monument at camp "commemorating not only the
+unknown soldier but the unsung civilian heroes, Ponacka's monument to the '**Unknown
+Gentleman**'." C. H. Irwin's woodlands part two — fire suppression in detail (fuel, heat,
+air; camp and cooking fires cleared to mineral soil for five feet or more; back-pack pumps
+over buckets; frontal attack where possible, flanking where not; never fight uphill where
+fire "creates its own draft"; smouldering duff or muskeg watched "for ages"), plus a camp
+fire plan: **a signal bringing all campers to a pre-arranged safe area under detailed
+staff**, the rest of the staff with assigned duties under one person in charge, campers
+kept out of the firefighting, **two-man night patrols on two-hour shifts** covering
+highways, roads, trails, shore and property borders — "Over a period of years, four
+incipient fires have been found by these patrols." He also raises the liability question
+Labbett had opened: "The liability of the camp, if a camper is injured while fighting fire,
+either voluntarily or if asked to do so, is something for the director to consider." And he
+prints **corrections to his own April article**, including "Cambian" for "Cambium" — a
+small demonstration that this magazine corrected itself in print. Lorne E. Brown, Associate
+Professor at UBC and Chairman of the President's Committee on Outdoor Education, Camping
+and Conservation, on **UBC's recreation programme**: an inter-faculty committee under
+President N. A. M. MacKenzie and Dean Geoffrey Andrew; a professional major in Recreation
+added to the B.P.E.; the school renamed the School of Physical Education and Recreation;
+three annual camp-leadership weekend conferences (two on campus, one at the **UBC Forestry
+Camp at Loon Lake**), attendance just under 100 each and 200 expected in 1962; and the
+figure **"approximately 100 organized summer camps in B.C. with an annual attendance of
+just over 25,000 persons."**
+
+**Convention news**: at the CCA annual meeting in Montreal on 22 March 1962, **Alberta's
+offer to host the 1963 conference was accepted — Banff School of Fine Arts, 23–26 January
+1963**, with the Alberta Camp Directors' Seminar folded into it; conference chairman **Jack
+Alexander**, 407-42nd S.W., Calgary. Masthead unchanged from February, including
+**A. Ross Seaman as CCA Secretary**. Cover cut courtesy Taylor Statten Camps.
+
+**New names**: J. Alex Edmison, Joseph McCully (Warden of Hart House), Roger Myers, Ron
+Perry, Doug Lloyd, Lorne E. Brown, Jack Alexander, Catherine Van Wagner, Taylor Statten Jr.
+(Montreal), Page Statten, Adele Statten Ebbs. **New leads**: the printed text of Hendry's
+first Taylor Statten Memorial Lecture (1962); the Taylor Statten Memorial Fund records at
+the University of Toronto; **Taylor Statten Jr.'s Montreal practice and any Kanawana
+contact**; the Omaha Tribal Prayer's route into Canadian camp practice; and the "fifty-two
+YMCA camps" claim, which if traceable would give a national denominator for Kanawana's
+early decades.
 
 Kanawana itself: not named in this issue.
