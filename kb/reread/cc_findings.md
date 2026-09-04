@@ -7670,3 +7670,251 @@ pass, whose block should be checked against Purdy's quotation.
 
 Kanawana itself: not named in this issue — but its 1922 Senior Section Director is, as the
 co-founder of Camp Nominingue.
+
+## 58 — Vol. 15 No. 3, April 1963 ★★★
+
+**The CCA leaves Montreal.** The masthead now reads "CANADIAN CAMPING ASSOCIATION,
+4322-4a Street S.W., Calgary, Alberta" — the head office has moved from 2233 Belgrave
+Avenue after five years. This dates the end of the association's Montreal era precisely,
+and answers the archival lead this read has been carrying since issue 41 ("the CCA's
+Montreal office records — where did they go?"): **to Calgary, in the winter of 1963.**
+Whether the Montreal files travelled with the office or stayed is now the question.
+
+The new executive, elected at Banff and pictured on the cover: President **Dr W. Donald
+Smith**, University of Alberta, Edmonton; Vice-President Jack F. Way, Boys Clubs of
+Calgary; Treasurer **Rev. Donald Mayne**, Calgary Presbytery United Church Camp Committee;
+Secretary **Miss Eleanor Logan**, West Edmonton YMCA; Executive Secretary **Mrs Jean V.
+Boettger**, Calgary. **Kenneth H. Murray, Montreal, joins the Past Presidents** — so the
+list of past presidents is now Statten, Gass (Montreal), Vail (Montreal), Yard, Haladner,
+VanWagner (Montreal) and Murray (Montreal): four Montrealers out of seven. The
+Vice-Presidents are the provincial presidents: Jack Way (Calgary), Lorne Bowering
+(Vancouver), Mrs Lois Pinfold (Winnipeg), Barry G. Lowes (Toronto), **Neil B. Powter
+(Montreal)**, Mrs Betty Campbell (Halifax) — Powter's Quebec presidency confirmed a second
+time. A. Ross Seaman is off the masthead; the Kanawana director's national secretaryship
+ran from February 1962 to early 1963.
+
+**"Highlights of the Canadian Camping Association Annual Meeting", Banff, 23–26 January
+1963 (p. 106).** "An historic occasion ... **the first C.C.A. Annual Meeting ever held in
+the West** ... the first time a Western Executive and office have been chosen ... the first
+time the Alberta Association has chosen a lady president." **99 delegates**: Alberta 62,
+British Columbia 10, Saskatchewan 9, Ontario 8, **Quebec 7**, Manitoba 4, Nova Scotia 1.
+(The OCR scrambles the column but the arithmetic works.) Seven Quebec delegates crossing
+the country for a January meeting is a real measure of the province's engagement.
+The new Alberta executive: President **Mrs Eleanor Albrecht**, CGIT Pigeon Lake Camp;
+Vice-President E. F. Johnston, Camp Chief Hector; Treasurer Ruth Constable, Camp Kinnaird;
+Secretary W. R. Burrows, Boy Scouts.
+
+And one line that should be set against the rest of this issue: **"Rufus Good Striker,
+Blood Indian Chief from Cardston, accompanied by a tribal councilman, added much colour
+and entertainment."** An actual Blackfoot Confederacy chief attends the national camping
+conference — described in the language of a floor show — in the same issue that prints a
+how-to for building an Indian sweat lodge and, four issues running, instructions for
+staging Indigenous ceremony with white children. The two things sit on facing pages of the
+same magazine. That juxtaposition is itself the finding, and it belongs in whatever the
+wiki eventually says about Kanawana's own Indian-lore programming.
+
+**B. M. Taylor, "How to Build an Indian Sweat Lodge" (p. 93).** The fourth instalment of
+the Vancouver series, and the most uncomfortable. It opens with an account of the
+practice's meaning — "used for cleansing, relaxation and preparation for war. The Indians
+would prepare themselves for the sweat lodge by ceremony, dancing, chanting and smoking
+the pipe. It was believed that switching the body, combined with steam, would drive the
+evil spirit from the young braves" — and then, without pause, supplies construction
+specifications for camp use: an igloo-shaped frame of green willow or saplings, **8 feet
+long, 4 feet wide, about 4 feet high**, covered in heavy canvas and made leakproof; a fire
+about ten feet from one end; rocks heated red hot and shovelled into a **screen-covered
+hole** at one end ("The screen covering is essential to prevent any splitting rocks from
+flying and striking members in the sweat lodge"); water sprinkled to raise steam; ashes and
+burning sticks removed first "as this causes a strong, pungent odour"; and after four or
+five minutes, "a plunge in the lake or ocean provides a stimulating conclusion to any
+programme." Recorded because the record should be complete, and because it dates and
+documents how far the appropriation went: a ceremony described as sacred in one paragraph
+and reduced to a programme item in the next.
+
+**Canoe tripping — two substantial documents for `traditions/canoe-trips.md`.**
+
+**J. D. Scott, Camp Wanapitei, "The Use of Tump-lines for Portaging Canoes" (pp. 98–99).**
+"The practice of using tump-lines on canoes is followed at camps on **Lake Temagami**,
+almost without exception, and at **some camps in the province of Quebec**." He traces it to
+"the Indian tribes of the area before the coming of the white man" and its adoption "by the
+French Voyageurs on their long canoe journeys **from Montreal to Lake Athabaska**." Method:
+two paddles lashed with shaft-bases on the thwart and shaft-tops on the bow seat; a tump
+like a pack tump but with **four-foot straps each side**, laid across the paddles with the
+leather head-piece hanging between them, clove-hitched to the thwart and gunwales so the
+span stays constant; adjusted so weight divides evenly between shoulders and head, and —
+the point of it — "By pulling the canoe down in front, the distribution of weight is
+altered lifting the canoe completely off the shoulders ... this, in effect, enables one to
+take a rest while walking and thereby lengthens the distance one can portage without a
+rest." Uphill it stops the canoe going stern-heavy; downhill it keeps the portage thwart
+"from digging into the back of the neck." Left rigged on the canoe between portages.
+
+**The 1962 OCA conference canoe-tripping panel (pp. 100–101, 108–109)** — **P. G. Gilbert,
+Camp Nominingue**; Jocelyn Palm, Glen Bernard Camp; J. D. Scott, Camp Wanapitei;
+C. R. Blackstock, Camp Mazinaw. A fifth Nominingue byline in eight issues. The framing
+sentence is quotable: "The '**Gimmick Hunter**' on the one hand, bringing with him most of
+the comforts of the city, can ignore the very nature he is supposed to enjoy, while the
+'**Imitator of Voyageurs**' is fighting nature every stroke of the way. Somewhere between
+these extremes lies a philosophy for each individual and camp." The substance:
+
+- **Kit list** (Scott): a real axe with a long handle, a knife each, a nesting set of three
+  pots with plates and frying pans in the bottom, sixteen-ounce pannicans replacing cups
+  and plates, a reflector oven or foil, first aid kit, compass, map, matches in a
+  waterproof container, canoe repair kit, scouring pad, file, lashing cord, toilet paper,
+  flashlight, **two watches**, notebook and pencil — "and learn how to use them all."
+  Travel permits usually necessary. Cameras, maps and some foods in cheap plastic bags;
+  bulk food in cotton bags.
+- Blackstock's camp buys the children **jungle hammocks** instead of tents, and "our campers
+  begin their participation in the trip by **making their own pots from large tin cans**."
+- **Clothing** (Palm): good condition, clean but not new, one complete change each,
+  raincoats and hats always, rubber and nylon best, "in cold weather a wool shirt or heavy
+  sweater is much warmer than windbreakers or clothing made from artificial fibres." Asked
+  about carrying spares for campers who soak or lose things: "I don't see any point in it."
+- **Safety**: check unknown swimming areas first, one staff member ashore as lifeguard,
+  canoes kept close together, no shifting about, "judge carefully the load-carrying ability
+  of your campers, as well as that of your canoes." First aid kit contents given
+  (bandaids, sterile gauze, adhesive tape, absorbent cotton, mild antiseptic, burn
+  ointment, aspirin, scissors, needles for splinters), waterproof, carried on top of a
+  marked pack or in the counsellor's small pack — Gilbert: "At about fifteen pounds this is
+  not a significant addition to **the eighty pounds of canoe they normally portage**."
+- **Prerequisites** (Blackstock): campers must "be able to **swim 50 yards, light a fire in
+  the rain, use an axe, and paddle reasonably well**." Then the exchange worth keeping:
+  > *Audience*: "I feel that the basic philosophy which treats canoe tripping as a
+  > privilege is wrong. **Tripping should be the right of every camper.**"
+  > *CRB*: "I agree, but they must earn that right before they can go."
+- **Packing**: single balanced load each, "not equal, but ... reasonably balanced to the
+  capability of the individual"; sleeping bags and tent folded flat to pad the back; staple
+  foods in cotton bags at the bottom, tins above, bread cased in cardboard, tarpaulin
+  folded in and a raincoat on top; **lunch kept separate**.
+- **On return** — and this is the part that touches `p_307`: every trip files a report,
+  "to give information on campsites, portages, rapids and other difficulties" (Scott), and
+  **Blackstock adds: "The report is also a chance to rate the campers on their ability,
+  skills, and their reaction to the trip."** Gilbert prefers the campers' own account —
+  "they are usually **brutally honest**" — as "a tangible record of where they went and what
+  they did." Two kinds of trip record, one assessing the children and one written by them.
+
+**Alex Ashenhurst, Camp Pine Crest, "The Case for Camp Swimming Classification Tests"
+(pp. 112–114).** A complete four-tier system, and directly comparable to whatever Kanawana
+ran. He argues **against** using Red Cross or YMCA cards for classification — "carefully
+graded, but their content is far too massive ... It is not advantageous to have all your
+waterfront facilities standing idle while potential users are waiting to be qualified" —
+in favour of simple in-house tests the counsellors themselves can administer under
+waterfront supervision. His camp's are lettered **A, B, C, D**, "partly tradition", kept
+because "it is much easier to keep our records as we can write down 'B' test, rather than
+'frog' test or 'barracuda' test":
+
+- **D** — jump into deep water off a dock, surface, swim twenty-five feet to a buoy line
+  and back. Done by everyone on the first afternoon, after the medical check, so the
+  waterfront can grade the whole camp at once and spot non-swimmers; also "a stepping-stone
+  which theoretically converts a non-swimmer to a swimmer ... mainly of a psychological
+  value, nonetheless of vital importance." If it reveals "a non-swimmer has been
+  inadvertently put in a cabin of powerful swimmers," the boy is moved "before he is settled
+  in."
+- **C** — jump into deep water, twenty-five yards on the front and twenty-five on the back;
+  the backstroke included deliberately "subtly to discourage overconfident D testers from
+  wanting to advance too quickly ... a camper at this stage should have at least one
+  resting stroke."
+- **B** — **220 yards across an open bay accompanied by a boat and two staff**, any stroke
+  "unless it is really pathetic." Opens sailboats, canoes, and in some circumstances a short
+  canoe trip.
+- **A** — **jump into deep water wearing pyjamas and high laced running shoes, remove the
+  clothing in the water, tread water thirty seconds with hands out of the water, then swim
+  a quarter mile across open water.** Rationale: "most boating mishaps will occur when
+  people are fully clothed"; the point is relaxation, and "over the past five years not one
+  instance has been recorded at our camp where a boy failed the swimming part of the test
+  after passing the first part." Opens canoe trips and higher canoe tests. Designed for a
+  waterfront camp aged eight to fourteen.
+
+Nothing in the repo describes Kanawana's swimming classification, and this gives a dated,
+detailed Canadian YMCA-camp benchmark to ask against.
+
+**The Camp Counselor's Book — the standard Canadian handbook, announced here.** Edited by
+**Mary L. Northway and Barry G. Lowes**, "with the co-operation of Margaret Govan,
+**Elizabeth Raymer**, Joyce Bertram, Flora Morrison, Kirk Wipper, **Elsie and David
+Palter**", published by Longmans Canada, Spring 1963, $1.95 paper / $3.50 cloth. Ten
+chapters in three parts, printed in full: Becoming a Camp Counselor; Understanding Your
+Campers; You and Your Cabin Group; Keeping Campers Safe and Well; You Will Grow Too; A
+Counselor's Typical Day; Programme Ideas; Your Campers and Nature; Assisting with an
+Out-trip; Extending Your Horizons. **Two names to flag.** "Mrs David Palter" is already an
+archival lead in this read as one of the two people who answered the CCA's "History of
+Canadian Camping" enquiry — **Elsie Palter**, and she and her husband are among the eight
+contributors to the national counsellor handbook, which considerably raises the value of
+whatever she sent the CCA. And **Elizabeth Raymer** is the Raymer whose *Canadian Camping*
+offprint is already queued as a lead. This book is the single most likely printed source
+for what a Canadian counsellor in the 1960s was told to do, and it should be found.
+
+**Other content.** **Lorne E. Brown's opening address at Banff, "Camping — Education for
+Life" (pp. 86–89)** — the most sustained philosophical statement in the run, quoting
+Grattan O'Leary ("We have today all facts and no knowledge; all specialization and no
+wisdom; all know how and no know why; all signposts and no destination"), **Dr Brock
+Chisholm** ("The children of today must not turn out to be like their parents and their
+grandparents. That would be disastrous"), **Dr John Seeley of York University** ("The
+school's central function is to tell the child the way the world is. All else it does with
+distinction. This it fails to do"), and asking "Why must we keep from children such things
+as the facts and implications of sex in our lives, the nature of their own natures, the kind
+of social class in which they live, the power of big money and big business?" On
+competition: "Do we always have to give points or stars or awards at camp? **Must we have
+canoe races when there is an unexplored lake just around the corner?**" And, echoing
+Northway three months earlier, "Do we not tend to organize our camps too much? Children need
+time to '**let the spirit catch up on the body**'." Closes with "Thus a Child Learns" from
+the AAHPER's First Yearbook. **May and Lorne Brown's "Why We Direct A Camp"** prints Camp
+Deka's founding creed in full — eleven "WE BELIEVE / therefore" clauses, including "**Camp
+Deka will be open to boys of any race, color, or creed and the programme will include
+activities international in character; the United Nations flag will fly from the camp
+masthead at all times**" (1963, a private boys' camp in the Cariboo). **Kirk Wipper, now of
+Camp Kandalore**, on activity leadership — a five-step method (explanation, demonstration,
+execution, correction and repetition, recreational application) and **two long self-audit
+checklists**, one about the child and one about the leader, which together are the era's
+clearest statement of what a good instructor was supposed to be; note "Do you keep records
+of achievement from period to period and season to season?" **Barry Lowes's
+Vice-President's Page, "Let's Get Back to the Campers"** — opening with six interruptions
+("Chief, the tile bed is breaking out again"; "Chief, the motorboat is out of commission
+again and the milk is at the landing") and arguing that directors have been driven from the
+children by plumbing and logistics: "By the time a problem has grown large enough to reach
+the director, it is too far advanced for swift cures ... The director's role should be a
+preventative one, not just a curative one. **Too often the harried director really only
+meets and deals with 'problem campers'. The good, the normal camper has little contact with
+the most important influence in camp.**" His remedy: hire a business manager or maintenance
+man "to back us up" rather than assistants "between us and the campers." **Ben Zion
+Shapiro's "Biblical Pageant at Camp Shalom, 1962"** — a four-week programme in which cabins
+took the names of the Tribes of Israel "and in this way acquired all the attributes of the
+Tribes as well — banner, symbols, jewel, tribal leaders, all derived from the Biblical
+account," each associated with its tribe's geography in Canaan, culminating in a Visitors'
+Day pageant on a map of Israel laid out on the sports field, with the walls of Jericho, a
+Temple platform, a shofar signal, and Moses on a high rock intoning the Ten Commandments as
+thunder gathered in the east. Useful to `traditions/section-names.md`: the same tribal
+template as the Indian-lore camps, drawn from a different tradition and by a community
+naming its own. **J. C. Moore on Bob Owendoff's "shadow tip" method** of finding direction —
+a three-foot vertical stake, mark the shadow tip, wait ten minutes, mark again, the line
+between is east–west with the second point east; invented by a 17-year-old Falls Church Boy
+Scout and adopted by the U.S. Army and Air Force "after 50,000 field trials with an average
+of only 8 degree error." Moore also debunks the watch-and-shadow method: "Differences in
+latitude, date and time can cause error up to 175 degrees." **Book reviews** by the new
+editor (D.M.D.) and Northway (M.L.N.): Sigurd Olson's *The Lonely Land* — a 500-mile
+Churchill River canoe trip from Île-à-la-Crosse to Cumberland House, with **Eric Morse,
+Executive Director of the Associated Clubs of Canada**, reading the explorers' journals
+aloud at the campfire, and Morse recommended as a speaker "any camp group would be fortunate
+to hear"; and R. B. Miller's *A Cool Curving World*, which Northway quotes against the
+roughing-it cult: "genuine dwellers in the woods, men like trappers, timbercruisers, rangers
+... try to manage to be as comfortable in the woods as they would be if they had stayed at
+home. **Only enthusiastic amateurs feel that if you are being comfortable, you are being
+sissy.**" "The Stars Will Guide You" from *The Young Naturalist*. A **Kamp Kapers** about a
+flag stuffed with two packages of confetti as a joke on a newly engaged counsellor, which
+went off over the director's head instead — "some of it lay all summer beneath the
+flag-pole!"
+
+**Montreal notes**: Cash's Woven Names now bills from **2120 Cabot Street, Montreal 20**;
+Emergency First Aid Service Ltd. of 1447 Bleury St. advertises again; and a classified reads
+**"200 Acre Laurentian Summer Camp Site Available; includes small natural lake, wide stream
+through terrain; 114 ft. frontage on lake 1 mile x 1¼ mile. Please contact S. Segal,
+Montreal."**
+
+**New names**: W. Donald Smith, Eleanor Logan, Donald Mayne, Jean Boettger, Lorne Bowering,
+Lois Pinfold, Betty Campbell, Eleanor Albrecht, E. F. Johnston, Ruth Constable, W. R.
+Burrows, Rufus Good Striker, P. G. Gilbert (Nominingue), Jocelyn Palm, J. D. Scott,
+Alex Ashenhurst, Ben Zion Shapiro, Elsie and David Palter, Elizabeth Raymer, Flora Morrison,
+Eric Morse. **New leads**: **where the CCA's Montreal records went when the office moved to
+Calgary in 1963**; *The Camp Counselor's Book* (Northway & Lowes, Longmans, 1963) — the
+national counsellor handbook, with Elsie Palter among its contributors; Eric Morse's canoe
+journals and lecture; and Kanawana's own swimming classification system, now with a dated
+Ontario YMCA benchmark to compare against.
+
+Kanawana itself: not named in this issue.
