@@ -65,7 +65,7 @@
 {"n": 65, "file": "canadiancampingmagazine_vol17no2_1965feb.txt", "bytes": 73402, "status": "read", "read_at": "2026-09-04"}
 {"n": 66, "file": "canadiancampingmagazine_vol17no3_1965april.txt", "bytes": 94209, "status": "read", "read_at": "2026-09-04"}
 {"n": 67, "file": "canadiancampingmagazine_vol17no4_1965june.txt", "bytes": 85903, "status": "read", "read_at": "2026-09-04"}
-{"n": 68, "file": "canadiancampingmagazine_vol18no1_1965dec.txt", "bytes": 72531, "status": "pending"}
+{"n": 68, "file": "canadiancampingmagazine_vol18no1_1965dec.txt", "bytes": 72531, "status": "read", "read_at": "2026-09-04"}
 {"n": 69, "file": "canadiancampingmagazine_vol18no2_1966feb.txt", "bytes": 82478, "status": "pending"}
 {"n": 70, "file": "canadiancampingmagazine_vol18no3_1966april.txt", "bytes": 100044, "status": "pending"}
 {"n": 71, "file": "canadiancampingmagazine_vol18no4_1966june.txt", "bytes": 105657, "status": "pending"}

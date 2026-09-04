@@ -10228,3 +10228,242 @@ a great deal of it.
 Nothing in this issue names Kanawana. Its value is Lazanik's Quebec figures and the
 national French section, the Centenary Journey trip-log requirement, MacNab's campfire
 manual, and the resolution of the W. D. Smith identity.
+
+## 68
+
+`canadiancampingmagazine_vol18no1_1965dec.txt` — Vol. 18 No. 1, December 1965.
+
+Contents page (checked against this block): The President Reports · Last Summer,
+Next Summer (Margaret Govan) · Sermons Under the Sun (Don Groff) · The Camp Staff
+Manual · The Day Camp Counsellor (Allan Goldenberg) · Future Staff-in-Training Now
+(Ron Johnstone) · Forum (Camp Conference News) · The Camp Library Shelf. All eight
+covered, plus "The Nature Hut" by Margaret Govan, which runs on p. 5 ahead of the
+contents page and is **not listed in it** — recorded here so a later pass does not
+read the contents page and conclude it was missed. **Cover cut courtesy Camp
+Ouareau** — a fourth Ouareau appearance in six issues, and evidence that Joyce
+Bertram's camp was supplying the national magazine with photographs.
+
+**Masthead:** the vice-presidencies are now listed **by province** rather than by
+person's city — Marilyn Fane (B.C.), Mrs. H. Roessingh (Alta.), Robert Douglas
+(Man.), Mrs. J. H. Ebbs (Ont.), **Robert Lazanik (Que.)**, Rev. David Hartry (N.S.)
+— a small constitutional change that makes each vice-president a provincial
+representative. No editor is named: Dorothy Douglas died in May (issue 67) and the
+post is vacant, with Don Groff chairing the Editorial Committee.
+
+**"The President Reports" — Mrs. May Brown, with the CCA's own membership figures
+and its first federal grant application.** Three items of record:
+
+- **The brief to the Fitness and Amateur Sport Directorate**, Department of National
+  Health and Welfare, sent in **July 1965**: "It stated that **in 1964 approximately
+  180,000 campers and 15,000 staff attended our member camps**." This is a different
+  and more precise number from the 1,600 camps / 500,000 campers used for Canadian
+  camping at large — it counts **CCA member camps only**, which is the population
+  Kanawana belonged to. Under the administrative-grant criteria the CCA asked for
+  half economy airfare for one delegate per branch to the annual meeting, plus up to
+  $500 toward office expenses — "**This was the first request submitted by the
+  Canadian Camping Association for support under this programme.**" A datable start
+  for federal money in Canadian camping.
+- **The National French Section**, approved in principle by a majority vote of the
+  branches, with **a committee under the chairmanship of Bob Lazanik** working out
+  details for the next annual meeting. This is the third dated stage of the story
+  Shorgan began (issue 66) and Lazanik's letter announced (issue 67), and it puts the
+  Quebec Camping Association's president in charge of the national French structure.
+- **Intercultural or Intergroup Camping projects** run by "a number of our member
+  camps" over summer 1965, with the executive gathering information and exploring an
+  Evaluation and Training Seminar — the movement Dimock's Goldeye Lake report (issue
+  66) belongs to. **Worth checking whether Kanawana was one of them.**
+
+Also: **the "Camping How-To Kit"** — a 16mm colour film, four 35mm colour filmstrips
+(equipment; campsites; fires and cooking; canoeing) and a manual, **produced by the
+National Film Board and the federal Department of Health in co-operation with the
+CCA**, provided free. Distribution is split by language: "Copies of the film, film
+strips, and the manual are available from our Canadian Camping office, and **from the
+Quebec Camping Association office (French version)**." Consultants: **Jack Pearse and
+Don Groff**. A concrete, findable NFB production, in both languages, made for camps
+Kanawana's association distributed — and Pearse is already in `facts.json`.
+
+**"The Camp Staff Manual" — an OCA conference session (9 a.m., Friday 26 February
+1965; Don Groff, Bruno Morawetz, Fred Dier), printed as a complete specification.**
+This is the single most directly usable document in the issue, because it tells this
+project **what a camp staff manual of the mid-sixties was supposed to contain** — and
+therefore what to look for, and what a surviving Kanawana manual would be missing if
+it lacks it. Contents in outline: locale with a directional map and a site sketch
+showing trails, programme areas and buildings; **"Traditions, Philosophy, etc." —
+statements outlining and interpreting them, a statement relating the camp's objectives
+to the camping movement, "a brief historical sketch of the camp," and "explanation of
+role that camping plays in the total program of the sponsoring organization, where
+such exists"** (i.e. exactly the YMCA relationship Kanawana had); procedures and
+regulations, including "for inter-camp relationships (e.g., O.C.A., canoe tripping)";
+organisational structure and channels of communication; personnel policies (sickness
+allowance, employment and dismissal procedures, salary scales, travel and laundry
+charges); then a long counselling section — the camper by age level, leadership,
+**discipline ("what kinds of punishment, if any")**, the cabin counsellor's routines
+(rising, ablutions, meals, clean-up, rest-hour, parent letters, parcels, prayers),
+counsellor duties (night patrol, lifeguard, evening snacks, records and reports),
+privileges (tuck shop, time off, staff car), public relations ("consideration for
+cottagers, neighbours, nearby communities"), awards, and "The Intangible Rewards."
+
+Two parts of it matter beyond their face value. **Section IV, Sample Forms**, lists
+"test sheets (swimming, canoeing, camp crafts), tripping reports, parent reports,
+reports to section heads, etc." and **"counsellor evaluation"** — so the evaluation
+form was standard equipment in a staff manual by 1965, which is context for the
+`p_307` embargo thread. And **Section VII, Appended Literature**, names the reprints
+camps were expected to bind in: from the OCA, "'Canoe Trips' by Irwin, 'Canoeing' by
+Kirk Wipper, **'The Happy Camper' by Miss Govan**"; Department of Health pamphlets on
+behavioural problems and fatigue; "Useful Knots" from the Plymouth Cordage Co.;
+Department of Transport "Safety Afloat"; and the *Reader's Digest* piece "Nobody Needs
+to Drown" on drownproofing. **Govan's "The Happy Camper" is the article omitted from
+this read's own block 51 and patched back in** — here it is, circulating as a standard
+reprint in camp staff manuals, which retrospectively justifies the patch. Closing
+advice: "**the tone of the Manual sets the tone of the future counsellor**."
+
+**Allan Goldenberg (Recreation Supervisor, Township of North York Parks and Recreation
+Department), "The Day Camp Counsellor"** — an OCA 1965 address, and a sixth
+contemporary voice on staff-evaluation ethics (`p_307`). His rule, the most explicit
+yet: **"On-going staff performance evaluations: informal or formal; in all cases, they
+are private; where feasible, evaluations should be written, read and signed by staff
+member; and be accompanied by an opportunity for discussion of the contents by the
+evaluator and the staff concerned."** He extends the same protection to unpaid staff:
+"We feel that volunteer counsellors deserve to be criticized under the same fair
+criteria as paid counsellors." His rules for criticism — "In private; In a friendly
+way; Praise first to take away the sting… End with a pat on the back" — and for
+discipline — "we are concerned with **what** is wrong, not **who** is wrong" — belong
+with Gold (1959), Lowes (1962), Raymer (1963), Eastaugh (1964) and Devenney (1964) as
+the professional consensus this project should describe when it explains why a
+sixties-era staff assessment is embargoed rather than deleted: the people who wrote
+these assessments themselves understood them as private, signed, and discussable.
+
+The rest is a full day-camp doctrine: the definition ("organized group experienced in
+outdoor living on a day by day basis and under trained leadership… Baseballs and paper
+crafts have no place there"); seven values, including that day camp "adds to his social
+and emotional growth **by being co-educational**" where "many resident camps operate
+separate periods for boys, a separate period for girls" — a relevant contemporary
+argument for the coeducation article; site criteria (far enough from populated areas
+"so that the child is 'captive' for the day", with wooded area, clearing, uneven
+contours, a stream, and a **council ring** among required facilities); ten minimum
+counsellor qualifications at about age sixteen; a verbatim ten-point job description
+for a North York senior day-camp counsellor; pre-camp topics; and a list of problems
+unique to day camps — water and milk storage, daily garbage disposal, difficulty
+recruiting specialists for a short season, and **site impermanence "because of rapid
+urban growth," with the consequence that "each year new council circles must be
+made."** His criticism of manuals is quotable: "These activities remain the same year
+after year. This lack of imagination on the part of administration is transferred to
+the counsellors… Rather than giving them games to teach, teach them to create games."
+
+**Ron Johnstone (Director, Camp White Bear, Temagami), "Future Staff-in-Training
+Now"** — CIT training as formal education. Opening: "**A training programme properly
+carried out IS expensive, but well worth both the time and the effort. You get a full
+year of evaluation before you trust these budding experts with your most valuable
+commodity… your campers.**" He defines the CIT as anyone in the process toward full
+leadership, whether paying part fee, paying nothing, or receiving an honorarium.
+Selection is by invitation, not by ageing out — "**Do we just let campers grow into
+the place of being too old for the camper role, so that, naturally, they will HAVE to
+be C.I.T.'s?**" Ideal intake twelve to sixteen, his own eight, of whom four are invited
+back for a second year. On method: "**Osmosis is not good enough when you are training
+your staff**"; the camp is "the ideal laboratory"; the instructor should be the most
+mature teacher-counsellor and should bring in outside experts — "the Fire Warden, the
+Visual Aid expert, the Swimming Examiner, the neighbouring Camp Director." Eleven
+teaching techniques are listed, of which one is a direct research lead for this
+project: **"Special projects: collecting camp poetry, songs; making camp equipment;
+waterproofing bedrolls and matches; lighting fires by friction; living off the land for
+a meal"** — i.e. **camps in this period set their CITs to collect their own songs and
+poetry as a training exercise**, which is precisely the kind of document (`p_048`,
+songs and cheers) that might survive in a Kanawana CIT's notebook. Also: a looseleaf
+notebook and scrapbook on all phases of camping, kept by each trainee. Johnstone is
+already in `facts.json` and `centennial-1967.md`; this is a second, earlier sighting.
+
+**Margaret Govan, "Last Summer, Next Summer"** — a camp director's end-of-season
+reckoning, written in the first person and unusually candid about the job. "What have
+we done, my staff and I, to prepare our campers for the strange new world of
+tomorrow?" On the director's own conduct: "**For two months I must always get up on
+the right side of the bed, always show a 'pleasant morning face,' never allow
+indigestion or a bad night or the weather to get me down. The self-discipline which is
+required here — I cringe when I think of it!**" She quotes campers verbatim ("I just
+can't stand her"; "You're our counsellor; you are supposed to have the ideas") and
+argues against camps that concentrate skill in the hands of staff: "**I am tired of
+hearing about trips where the counsellors do all the cooking and send the campers out
+for wood, where the sterning is always done by C.I.T.s, counsellors or guides… how are
+the campers who do not become C.I.T.s or counsellors, to learn the skills?**" — and
+against plays and choirs "which weed out the would-be actors or non-singers." On
+automation and democracy, the same anxiety Brightbill voiced in issue 64: "A very few
+people will hold enormous power in their hands. All the rest of us run the danger of
+becoming statistics… So ways and means must be found to enable people to have some
+part in their own destinies." And on the gap between adults and campers, an extended
+metaphor drawn from a television sketch about relaying a conversation through French,
+German and Spanish speakers: "**Sometimes I feel that the director is as far away as
+that from the camper.**" Her closing: "**Never, never underestimate the impact of the
+summer camp experience. Even one period of camp in a lifetime has a far greater
+influence than can be estimated by computers!**"
+
+**Margaret Govan, "The Nature Hut"** (unlisted in the contents) — a companion to Van
+Wagner's Nominingue nature cabin (issue 65), at Camp Onawaw: "a small, rectangular
+cabin with many windows and a good supply of shelves. **There was also a counsellor…
+which explains everything.**" Aquariums, terrariums, a microscope, an ant farm, bred
+mosquitoes fed to a bought spotted salamander "which could be handled but not
+squeezed"; contributions streaming in from campers and even a local townsman's stone
+collection; toads and frogs released after two days; a bullfrog called George who
+"having been caught three times, and released as many, moved his location"; antlers
+from a former deer yard on the island and two skulls found on walks, "I wonder what the
+mothers said when these arrived home!"; a home-made barometer, a wet-and-dry
+thermometer, and a rooster weather vane carved by the younger hired man; and the
+technique of leaving "reference books open beside a leaf or a mushroom." The closing
+line is a small piece of social history: "**The counsellor is being married in January!
+It would be so much easier to replace the nature hut!**"
+
+**Don Groff (Director of Camping, Kitchener-Waterloo YMCA), "Sermons Under the Sun —
+The Day the Master Came to Camp"** — a YMCA camp's Sunday service, used at **Camp
+Wabanaki** in summer 1965, and the most unusual devotional item in this run because it
+is a piece of narrative theatre rather than a homily. A narrator tells of Jesus
+visiting a camp "which He heard was His camp," and being turned away four times: by a
+staff member "busy with his records who hurriedly mumbled a greeting"; by a cabin
+plotting "tricks on a camper… who did not seem to fit in"; by a waterfront where a
+frightened, lonely boy is told "all activities were booked — perhaps tomorrow"; and at
+dinner where "He waited for someone to offer Him food, but instead was handed an empty
+bowl." Then a group crouched by a tree watching **a snake whose head has been cut
+off** — set against Van Wagner's line at issue 65 that "Too often the 'kill it'
+instinct is uppermost," this is the same complaint made from the pulpit. He finds his
+camp only when a child takes his hand and a group of young leaders in discussion invite
+him to join. Scripture, hymns, a camper-read story on world hunger, the offering and a
+camper-recited benediction are interleaved; the staging instruction is that
+"participants should not be announced, but should be coached in advance." Groff is the
+Editorial Committee chairman and a YMCA camping director — the closest analogue in
+this run to Kanawana's own YMCA chapel practice, and `Wabanaki` already appears in
+`wiki/site/indigenous-names-and-land.md`.
+
+**Forum — conference dates and places, all three findable.**
+- **CCA Annual Meeting and a Camp Administrators' Conference, 10–12 February 1966,
+  Vancouver, in Stanley Park**, co-sponsored by the B.C. Camping Association and the
+  University of B.C. with support from the Community Programmes Branch of the
+  Department of Education. Theme: "**THE CAMPER — His Needs for Tomorrow**," with a
+  sociologist, a psychologist, an educator, a parent "and Campers themselves" as
+  keynote speakers, and a national luncheon address on "**Controversial Issues in
+  Resident Camping**."
+- **Quebec Camping Association Conference, Queen Elizabeth Hotel, Montreal, 24–26
+  February 1966** — now dated to the day, confirming the plans announced in issues 65
+  and 66. **This is the conference Kanawana's director would have attended**, and its
+  proceedings are a specific archival target.
+- Ontario Camping Conference, Inn on the Park, Toronto, 17–19 March 1966.
+
+**The Camp Library Shelf.**
+- **The Canadian Life Saving Manual of the Royal Life Saving Society, Canada** —
+  reviewed by **Kirk A. W. Wipper, National Technical Chairman** of the Society. Five
+  volumes (the programme's philosophy, history and awards; strokes and skills; water
+  rescue; resuscitation; proficiency skills, dives and games), $3.50 the set with
+  binder from 550 Church Street, Toronto. Wipper singles out "the primary position
+  given to **basic non-contact rescue** as opposed to contact rescue" as "the most
+  significant forward step," and says "No camp waterfront… should operate without
+  this new manual." Editor-author Dick Carlton. **This dates a doctrinal change in
+  Canadian lifesaving to 1965** and names the manual Kanawana's waterfront would then
+  have worked from; the RLSS is already in `facts.json`.
+- **Mary S. Edgar, *A Christmas Wreath of Verse*** — and a dated, named Centennial
+  project: "**through the generosity of Miss Edgar, profits from its sale will go to
+  the C.G.I.T. 1967 Centennial Camper Exchange Project**," $1.00 from the Department
+  of Christian Education, Canadian Council of Churches. A second 1967 camper-exchange
+  scheme running alongside the CCA's Centenary Journey.
+- Nancy Cleaver (Evelyn Craw), *Fell's Guide to Camping and Family Fun Out Doors*,
+  reviewed by M.S.E. — i.e. Mary S. Edgar.
+
+Nothing in this issue names Kanawana. Its value is the CCA's own membership numbers
+and first federal grant, the staff-manual specification, a sixth voice on evaluation
+ethics, the NFB "Camping How-To Kit" in both languages, and the exact date and venue
+of the 1966 Quebec conference.
