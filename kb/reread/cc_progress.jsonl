@@ -142,7 +142,7 @@
 {"n": 142, "file": "canadiancampingmagazine_vol34_no2_1982summer.txt", "bytes": 120177, "status": "read", "read_at": "2026-09-04"}
 {"n": 143, "file": "canadiancampingmagazine_vol34_no3_1982autumn.txt", "bytes": 76683, "status": "read", "read_at": "2026-09-04"}
 {"n": 144, "file": "canadiancampingmagazine_vol34_no3_1982insert.txt", "bytes": 104114, "status": "read", "read_at": "2026-09-04"}
-{"n": 145, "file": "canadiancampingmagazine_vol34_no4_1983winter.txt", "bytes": 94865, "status": "pending"}
+{"n": 145, "file": "canadiancampingmagazine_vol34_no4_1983winter.txt", "bytes": 94865, "status": "read", "read_at": "2026-09-04", "note": "scan rotated 180 degrees; read via scripts/reread/unrotate.py, lossy decode"}
 {"n": 146, "file": "canadiancampingmagazine_vol35_no1_1983spring.txt", "bytes": 78660, "status": "pending"}
 {"n": 147, "file": "canadiancampingmagazine_vol35_no2_1983summer.txt", "bytes": 120447, "status": "pending"}
 {"n": 148, "file": "canadiancampingmagazine_vol35_no3_1983autumn.txt", "bytes": 77961, "status": "pending"}

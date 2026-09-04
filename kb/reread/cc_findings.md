@@ -21350,6 +21350,15 @@ quoted that sentence at issue 114 beside Kanawana's four directors in three year
 **Block 114 has been patched in place** to record the reprint and the textual difference. (1975 also
 reads "our camps **should** be made into little Switzerlands" where 1977 reads "**could**".)
 
+> **PATCHED AGAIN, after reading issue 145 (Winter 1983).** There is a **third printing**, and it
+> carries an attribution the other two do not: "**Reprinted with permission from the CCA Conference
+> Digest, 19[??]**". **The year is not legible** — issue 145's scan is rotated 180 degrees and the
+> decoded characters are consistent with 1961 or 1971. So the essay this project has quoted from 1975
+> and 1977 is itself a reprint of a paper given at a Canadian Camping Association conference years
+> earlier, and both its origin and the first date of the "woe to the camp which yearly changes its
+> directors" line may need moving again. The 1983 printing **does** contain that line. Recovering the
+> Conference Digest year from a clean copy is queued as part of `p_324`.
+
 **★★ EILEEN MAYOTTE WAS SECRETARY OF THE QUEBEC CAMPING ASSOCIATION.** From her executive profile:
 "During her illustrious career in camping, Eileen has had responsibility for camps and campers in
 **four provinces — Ontario, Quebec, Saskatchewan, and B.C.** Her camping endeavors have lead her into
@@ -25484,3 +25493,277 @@ is now given as **$124 (Cdn.) full, $160 late after 20 December 1982**, with a h
 day for single through quadruple occupancy**. The kindred groups list confirms **"YMCA Camps"** as one
 of the eight. And the ACA's own 1983 convention was set for **Cincinnati, 28 February to 5 March
 1983** — the year after New York.
+
+---
+
+## 145 — Vol. 34 No. 4, Winter 1983
+
+**A NOTE ON THIS ISSUE'S SCAN, BEFORE ANYTHING ELSE.** Every page of this issue was **scanned 180
+degrees rotated**, and the OCR read the rotated glyphs, substituting upright look-alikes. The cached
+text is therefore unreadable as it stands — the first line of the file reads "3~naioiddo Nouvonand"
+for "OFFICIAL PUBLICATION". **This issue was not skipped and it is not a null.** I wrote
+`scripts/reread/unrotate.py`, which reverses each line and maps the characters back through a rotation
+look-alike table, and read the decoded text end to end. The decoding is **lossy and ambiguous by
+construction** — rotated `b` and rotated `q` both come through as `b`, rotated `a` arrives as `e`,
+`B` or `q` — so the output is roughly 80% clean and readable to a human but is **not a faithful
+transcript**. Consequently: **every quotation below is marked as reconstructed, all figures should be
+re-checked against a clean copy before being relied on, and no exact wording from this issue has been
+placed in a wiki article as a quotation without saying so.** A clean copy of Vol. 34 No. 4 is added to
+`p_324` as a third recovery target. Words I could not resolve are marked [?].
+
+Contents page checked (itself decoded); every item read: Letters to the Editor (five); the bilingual
+Editorial, "Lest we forget our purpose" / "De peur que nous n'oubliions"; the masthead; The Camping
+Advisor (six questions); Barbara Stuber, "A Challenging Summer"; Interview: Marjorie Booth; Bruno
+Morawetz, "The Importance of the Unimportant"; a poem; the Executive Director's column; a Group
+Dynamics Exercise; a book review; a "Geneva Park… Remember?" photo page; "Use the Metric Way" from
+Metric Commission Canada; President's Perspective by Jocelyn Palm; a Menu Feature; and "In Closing" by
+Ken Bagnell. **Kanawana is not named. Quebec appears repeatedly, and one Camping Advisor letter is
+signed from Montreal.**
+
+**★★★★★ ONLY ABOUT ONE CANADIAN CAMP IN TEN BELONGED TO ITS PROVINCIAL ASSOCIATION.** From the
+interview with **Marjorie Booth**, the CCA's Executive Director, conducted in Toronto on **20 November
+1982**. Asked "as a rough estimate, what percentage of camps in this country would you guess are
+members of the CCA?", she answers [reconstructed]: "**Depending on the area of the country, probably
+10 to 12**"; the interviewer restates it as "**roughly then, only 10% of camps operating in this
+country are members of their provincial association**", and she does not correct him.
+
+This is the single most important number this read has produced about the association whose records
+this project depends on, and **it changes how every other figure from it should be read.** The
+national statistics of issues 139 and 142 count **member** camps — 574, or 590 accredited — so if
+membership was 10-12% of the field, **Canada had on the order of five thousand camps operating**, and
+the association's own numbers describe a small, self-selected, better-resourced minority. For this
+project the consequence is direct: **Kanawana's membership of the Quebec association is not a neutral
+fact but a marker of a particular kind of camp**, and any comparison of Kanawana with "Canadian camps"
+drawn from CCA data is a comparison with the accredited tenth. **Written into
+`canadian-camping-movement.md` with the caveat about the rotated scan attached.**
+
+Booth's explanation of who stayed out is as useful as the number [reconstructed]: "there are a number
+of small organizations or church-affiliated camping programmes in this country that **don't have the
+financial resources — at least in their minds — to meet some of the recommended practices and so they
+choose not to belong**", and separately, "**if camp directors don't know we exist, they can't join the
+association**… Nationally, we're not well known." She also states the rule that mattered to Kanawana:
+"in **Ontario and Quebec**… **in order to become a member camp, you must meet the standards or
+recommended practices and be visited by a consultant or your peers**" — so in Quebec, membership and
+accreditation were the same gate, and the alternative she floats is a two-tier membership "one that's
+an accredited member and one that is a member which has not met the standards", which "would enable
+any camp to belong as long as they pay the fee and subscribe to the goals and objectives."
+
+**★★★★★ MARJORIE BOOTH DIRECTED CAMP OOLAHWAN — the YWCA of Montreal's camp — and describes it.**
+The interview traces her career, and the Montreal years are new to this project and specific
+[reconstructed]:
+
+> "I left Glenburn in the fall of **1976** and started immediately at the **Montreal Y.W.C.A.** My
+> first summer directing **Oolahwan** was its **sixtieth anniversary** so it was an exciting project.
+> (Est. Mary S. Edgar / Oolahwan in 1917.) That site was beautiful too. We had **160 acres on a
+> completely private lake right in the middle of the Laurentians near Ste-Marguerite**. Our campers
+> were **60% French and 40% English** so it was a good mixture and **announcements were all made in
+> both languages**."
+
+Four things follow, and all are **written into `connections/related-camps/camp-oolahwan.md`**. The
+camp has a **named director for 1977 onward**: Marjorie Booth, who went from it to be the national
+association's first Executive Director. Its **founding in 1917 is confirmed from inside the camp**
+against the competing 1915 date the article records. Its **site is described**: 160 acres, a private
+lake, near Sainte-Marguerite in the Laurentians — which corroborates the Journal Accès material
+already cited there. And most striking, **a Montreal YWCA camp was 60% francophone in 1977 and ran
+bilingually**, at exactly the period when the Quebec Camping Association's English Section was
+disappearing from the national directory. That is a demographic fact about English-institution camping
+in the Laurentians in the late 1970s that this project had from no other source, and it is a direct
+comparator for Kanawana, forty minutes away.
+
+Her earlier career, for the record: camper at **Camp Calumet[?] in Ohio** at seven with her sister,
+two years; then **Camp Tapawingo**, "the Toronto Y that my mother had gone to as a child, but they
+didn't take campers until they were nine"; **Bark Lake** as a CIT in 1968[?]; staff at Tapawingo to
+1972; a **co-op student at the University of Waterloo**, directing the **Adventure Day Camp for the
+Galt YWCA**; graduated 1974[?]; then to New Brunswick as programme director and then camp director for
+the **Saint John YWCA at Camp Glenburn** on the Belleisle — the camp whose director advertisements
+this read has seen in issues 141 and 143. She names Tapawingo's directors: **Patsy, camp name
+"Mippy"**, the first she knew, "the most amazing thing in the world was that **she knew my name**";
+**Gwen Griffiths[?]** for a year around 1962; then **Eleanor Kay**, called "Leo", director for eleven
+years — the same Eleanor Kay who was Supervisor of Camping for the Ontario Society for Crippled
+Children (issue 135).
+
+**★★★★ THE MORAWETZ ESSAY IS PRINTED A THIRD TIME — and this printing gives it an earlier origin.**
+"The Importance of the Unimportant", by **Bruno Morawetz, Camp Ponacka**, appears again, and carries an
+attribution line the 1975 and 1977 printings did not: "**Reprinted with permission from the CCA
+Conference Digest, 19[??]**". **The year is not legible in the rotated scan** — the decoded characters
+are consistent with 1961 or 1971 and I will not guess between them. **This is a real find and a real
+gap at once**: the essay this project has quoted from the June 1975 and June 1977 issues turns out to
+be a reprint of a paper given at a CCA conference years earlier, so its origin, and the date of the
+"woe to the camp which yearly changes its directors" line, may both need moving. **Block 114's
+correction note has been patched in place** to record the third printing and the Conference Digest
+attribution, and **`p_324` now includes recovering that year from a clean copy.**
+
+This printing does contain "**Woe to the camp which yearly changes its directors!**", as the 1977
+reprint does and the 1975 original does not — so the line belongs to the later text, whatever its
+first date. The essay is fuller here than I had recorded, and three passages are worth keeping. The
+**geranium parable**: a friend admired his wife's tall spindly geraniums and was told they would only
+grow into beautiful plants "if you keep nipping off the new shoots, just as any fruit tree needs
+annual pruning" — from which "a camp director is like a gardener, and his geraniums are children. If a
+youngster grows without structure, without limits, without the occasional pruning, he may come back
+from camp… saying 'I did not really learn anything at camp, I accomplished nothing, it was a waste of
+time.'" The **Switzerland passage**: "without a great deal of money, our camps could be made into
+little Switzerlands, not in order to impress parents on visitors' day, but because young souls are
+being watered and fed." And a scepticism about credentials worth setting beside the certification
+debate of the previous three issues: "one thing which many directors consider very important is a
+highly trained staff. My own experience makes me question the importance of it. I am always suspicious
+when a staff application is accompanied by a long resume listing dozens of qualifications, courses
+taken, tests passed… such a person has done all the right things, he has earned his Bronze, his St.
+John's First Aid Badge, his Bushman's thong, but **perhaps he has never taken the time to sit quietly
+by a brook, to listen to the gay laughter of its ripples.**"
+
+**★★★★ THE LETTERS COLUMN IS A FULL-SCALE DEBATE, AND JOHN LATIMER'S REPLY IS THE LONGEST DOCUMENT OF
+ITS KIND IN THE RUN.** Five letters answer the autumn issue's two editorials. **Cliff Labbett**
+(Toronto) writes briefly to praise the magazine. **John Latimer** (Toronto) writes at length on both
+subjects, and his letter is worth recording in detail as a statement by a CCA past president and the
+sitting Congress chairman [all reconstructed]:
+
+On the association's own history of silence: "**Until three years ago, in the CCA conferences, there
+was never a session on sexual attitudes and awareness. We talked about everything else related to a
+growing, questioning child and adolescent, but we never talked about sex. To some, this was shocking;
+to others it was a 'breakthrough'.**"
+
+On the substance: "**I would be much more concerned about a heterosexual teacher or counsellor who is
+cruel, sadistic, and morally corrupt, than I would about a homosexual teacher or counsellor who was
+kind, understanding, and a human with high values.**" He goes on to say he could not personally
+tolerate either "the male heterosexual who flaunts his sexual prowess, totally inconsiderate of the
+feelings and emotions of his partner" or "the homosexual who heralds his/her 'difference' and allows
+his/her preferences to affect a young boy or girl. Frankly I would not want either of these types at
+my camp."
+
+On drinking, and this is the most useful part for reading any camp's staff rules: "**In Ontario the
+legal age is 19. I have counsellors who are 17 and 18. If I let them drink in camp, I am knowingly
+condoning the breaking of the law. As a leader, I should be helping young people (through example) not
+to break the law.**" He notes that he gives "an 18 year old exactly the same responsibility as I have
+given to a 19 year old (looking after children for 24 hours)", and that a split rule would be
+intolerable — "some of you may only drink milk shakes, while others are allowed that 'adult' stuff.
+**How divisive!**" He accepts the editorial's premise about the danger — that the alternative is a
+counsellor driving back from a pub, "**where the potentially lethal weapon of a car forces a counsellor
+to play russian roulette on the trip back to camp**" — and concludes: "**As I said, I'm torn and
+frustrated, and I haven't got an answer.** If I knew that parents would understand, and if I knew that
+I could control any excesses, I'd allow drinking in camp. **I'm not ready for that yet.**"
+
+And a line that belongs in this project's own record: "**It will be interesting for a young camping
+researcher to look through the archives of the CCA in the year 2020 and read this particular issue —
+and study the comments which you will no doubt receive.**" He recalls being laughed at in 1962[?] for
+predicting to the Manitoba association that delegates at the turn of the century might "openly and
+legally be smoking marijuana", and ends by imagining staff in 2000 "sitting in the dark lounge when the
+campers are safely 'tucked in', have a rye and ginger, and share a 'joint'. **'Impossible!'**"
+
+A third letter, unsigned in the decoded text[?], objects to the beer editorial on practical grounds
+that describe the labour market: "**when I was at [camp] many moons ago, all staff members were not
+over 18. Nor is that the prerequisite of my staff today, or that of many other camps for that matter.
+If it were, there would not be enough staff for the limited amount of money available to attract and
+pay them**", and asks the editor directly how a director is supposed to handle it without either
+breaking the law or dividing the staff. A fourth, from **Toronto**, criticises the editorial's style —
+"**your style here will also isolate and polarize opinion**… such sweeping generalizations do not deal
+effectively with the dimensions of this current issue" — while supporting the homosexuality reply:
+"**far from 'hunting' or 'isolating' people, as you suggest, frank and honest discussion with informed
+opinion is the only way to end the hurting and isolation that society has caused**", and recommends
+**Betty Fairchild and Nancy Hayward's *Now That You Know* (Harcourt Brace Jovanovich)**. It also
+reports a documentary's arithmetic: "the numbers are about one in ten… every homosexual has two
+parents, grandparents, siblings probably, friends, relatives, co-workers. By the time you're finished,
+over 60% of the population is in some way exposed to homosexuality." A fifth, from **Carson Herrick,
+Edmonton**, thanks the editor "for not lulling us", quoting Will Durant: "**education is the
+progressive discovery of our own ignorance**."
+
+**Recorded in the findings and not placed in any article.** No Kanawana person and no Quebec camp is
+named; the individuals discussed in the autumn column remain unidentified; and nothing here requires an
+embargo entry. It is kept in full because it is the only sustained argument about staff conduct,
+alcohol and sexuality in the trade press of Canadian camping this project holds, and any Kanawana
+staff-conduct rule or dismissal of these years should be read against it.
+
+**★★★ THE EDITORIAL PRINTS THE UN DECLARATION OF THE RIGHTS OF THE CHILD IN BOTH LANGUAGES.** "Lest we
+forget our purpose" runs the ten rights entire — to affection, love and understanding; to adequate
+nutrition and medical care; to protection against all forms of neglect, cruelty and exploitation; to
+free education and full opportunity for play and recreation; to a name and a nationality; to special
+care if handicapped; to be among the first to receive relief in times of disaster; to learn to be a
+useful member of society and to develop individual abilities; to be brought up in a spirit of peace and
+universal brotherhood; and "**to enjoy these rights regardless of race, colour, sex, religion, national
+or social origin**" — with the note that 1979 was the International Year of the Child, "the year, of
+course, has come and gone. **Children still suffer.**" Its argument is the same one the anti-competition
+editorial made: "**Camp activities are not an 'end' in themselves; they are a 'means' toward an 'end',
+the 'end' being the enrichment of a camper's life and development.**" And it closes on Plewman again:
+"**If camp is a happy place, there will always be campers returning.**"
+
+**★★★ THE ASSOCIATION'S FUNDING AND PLANNING, from the Executive Director.** Booth states what Fitness
+Canada paid for [reconstructed]: **two staff positions (one full-time, one part-time)**; the travel
+costs of **two Board meetings and two Executive meetings a year**; and special project funding. Her
+justification is the second big number in this issue: "**we are a significant delivery system of
+physical activity for about 600,000 Canadian children every year**." *(Set against the member camps'
+reported 313,953 campers, that figure must cover the whole field rather than the membership, which is
+consistent with the 10-12% membership rate — but the two numbers come from the same office and should
+be reconciled before either is used.)* On planning: "**Fitness Canada funded a meeting of the Board,
+committee chairmen and task force chairmen from across the country to meet at Camp Wanakita, two years
+ago**", where the goals and direction for three years were set — **which dates the Action Plan's origin
+to the Wanakita Leadership Resources Workshop of 16-18 October 1980 recorded at issue 134** — with the
+updated plan to be approved by the Board in **January 1983**. She also states the target: "**in our
+Action Plan, we intend to be 50% self-supporting in our core operation by the year 1985-86**", with the
+publications service the instrument, "because governments are cutting back everywhere, so I think the
+onus is on us to become autonomous financially."
+
+**★★★ A NATIONAL CAMPING DAY WAS PLANNED FOR 1 APRIL 1983.** From the same interview [reconstructed]:
+the first pre-Congress workshop is promotion, where "**Marnie Ellis and her committee have worked hard
+to provide a hands-on experience for two delegates per province who can then promote camping more
+knowledgeably back in their own provinces. The final result of this initiative will be a National
+Camping Day which will be focusing on the value of the camp counsellor's contribution to the children
+of this country. This will be happening on April 1st. Hopefully, we can build on this and watch it
+become an annual event.**" **A national camping day held on 1 April 1983, organised by a Quebec
+chairman, focused on camp counsellors — a dated, findable public event, and a thing to ask the ACQ and
+the press about. Added to `canadian-camping-movement.md` and `p_326`.** On standards, she is explicit
+about what the January workshop was *not*: "**we're not trying at all to introduce a National
+Accreditation programme; that's years away**", but national recognition of recommended practices "might
+well come at it from a promotional point of view — it would be in our favour to be able to say when
+asked: 'when you choose a CCA camp, you get assured of…' whatever those areas of common agreement are."
+
+**★★ Booth on regional difference, which is the best short account of the Canadian camp landscape in
+the run** [reconstructed]. "In the prairies and Atlantic provinces, most of the camps are
+organization-run, agency-run or religiously based. **There is a huge difference in Ontario, Quebec, and
+to some degree British Columbia**, where many camps operate for longer periods of time — two or four
+weeks for a session. As well, most of the camps are non-denominational and are able to attract a
+clientele who are able to pay more to go to camp than you would find in other parts of the country.
+**Population density and factors like the economy are therefore significant.**" And on staff age:
+"campers don't stay on as campers until they're 19 like they do in some parts of the country. They're
+almost forced to industry[?] earlier because they are needed to be leaders; **this is so foreign to
+camps in Quebec and Ontario, for example, where you'll often have 16 and 17 year-old campers who return
+year after year.**" **Added to `canadian-camping-movement.md`**: it says plainly that Quebec and Ontario
+camps were the long-session, non-denominational, higher-fee, older-camper end of Canadian camping —
+which is the category Kanawana sat in.
+
+**★★ The Camping Advisor's six questions**, one of them from Montreal. On the national sport: "**lacrosse,
+not hockey, is our national sport**", with a list of the fastest ball speeds in sport. On **hypothermia**,
+at a tripper's request, quoting Michael Hatton's *Lightweight Camping*: shivering as the first early
+signal, then impaired decision-making, failing co-ordination, exhaustion; "**skin to skin contact is an
+excellent way to transmit heat**"; and the warning that when moving an unconscious victim, "**it is
+imperative… to assure that no sudden movements are transmitted to the victim since the myocardium
+becomes increasingly irritable and the slightest jarring of the body may result in the onset of life
+threatening arrhythmia**". On a section director who found two counsellors smoking marijuana in camp,
+told no one, and asks in retrospect whether he should have blown the whistle: the editor's answer is
+that he was not wrong, but "**perhaps you should have shared what happened with the Director and
+explained how you handled the situation… the Director would most probably have supported your judgement
+100%**", and warns that "**a precedent of leniency may have been falsely assumed by others on staff**".
+On camper anxiety about hair loss, with a long factual answer. And **from "H.H., Montreal, Quebec"** — "I
+am a female section head in a co-ed camp. Last summer, I dated a counsellor three years younger than
+myself; many of us on staff were commenting that there seems to be an age shift towards that trend — of
+women dating men younger than themselves. Does this appear to be true?" — answered with reference to
+Annabelle King's[?] *A Gentle Balance: Relationships Between Older Women and Younger Men* and Jeanne
+Moreau. **A Montreal camp person writing to the national magazine in 1983; the initials identify no one
+and no identification is attempted.**
+
+**★ Minor.** **Barbara Stuber**, "A Challenging Summer", describes **Lakeside Camp** at **Gimli,
+Manitoba**, run by the **Society for Crippled Children and Adults of Manitoba** — adaptive swimming
+lessons developed with **Red Cross** staff and adaptive certificates so that children could later join
+a regular winter swim programme in their own community; a **Small Craft Safety** programme run in the
+camp pool with one child and two instructors as a team, progressing from dinghy to canoe; a media club
+with the **Winnipeg Film Club** in which teens wrote, edited and produced a short film; and plans for
+adapted cross-country skiing and skating. A rare description from inside of adaptive camp programming
+in 1983. **Jocelyn Palm's President's Perspective** answers the recession: "**history indicates that
+camping has always done well in spite of economic struggles. During the blackest days of the 1930s,
+summer camp not only survived but expanded. In the early 40s when rations necessitated by the Second
+World War forced Canadians to forego many pleasures, camping continued to thrive**", and urges directors
+to "**promote the values of camping where and whenever we can… summer camp is an investment for all
+seasons**." A book review of **Terry Orlick's *The Second Cooperative Sports and Games Book*** by
+**Wanda[?] Tisdall, Director, Camp Queen Elizabeth, London YWCA**, noting games from Papua New Guinea,
+New Zealand, Australia and the People's Republic of China. "**Use the Metric Way**" from **Metric
+Commission Canada**. A "**Geneva Park… Remember?**" photo page — the site of the association's national
+leadership conferences and of its oral history taping. And a **Cheddar Granola Cookies** recipe from
+**Christopher Lake[?], N.S.**
