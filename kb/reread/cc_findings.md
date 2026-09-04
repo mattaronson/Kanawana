@@ -6155,3 +6155,187 @@ confidential marking scheme; the Quebec government charter of March 1961 incorpo
 the QCA's two sections.
 
 Kanawana itself: not named in this issue.
+
+## 52 — Vol. 14 No. 1, December 1961 ★★
+
+Christmas number, and the first issue produced wholly from the Montreal head office.
+Two things make it worth more than its Kanawana content (none): it prints the CCA's
+Montreal masthead in full, and it carries **Agnes Mutchler's own account of how
+subsidised camping was financed in Quebec**, written by the woman the KB already knows
+as the source of the 1949 "Quebec Camps" origins passage.
+
+**Note the volume/number error at source.** The contents page is headed "Vol. 13
+DECEMBER, 1961 No. 1" while the masthead and the cached filename both read Vol. 14 No. 1.
+The magazine's own volume numbering ran from December, so No. 1 of a new volume is
+correct and "Vol. 13" is the typo. Anyone citing this issue from the contents page will
+cite it wrongly.
+
+**Masthead — CCA, 2233 Belgrave Avenue, Montreal 28, Quebec, HU. 9-1541.** The OCR
+scrambles the two columns, but the officers are legible: Honorary President **Taylor
+Statten**, Toronto, and **Miss Mary Edgar** (the June slate has Edgar as Hon. President
+and Statten is added here — both are honorary). Past Presidents: **Dais L. Gass,
+Montreal; Anne I. Vail, Montreal; W. E. (Ted) Yard, Toronto; Irwin Haladner, Toronto;
+F. M. Van Wagner, Montreal** — three of five Montrealers. President **Kenneth H.
+Murray**. Executive Secretary **Miss Frances M. Kelly**, 2233 Belgrave Ave., Montreal.
+Corresponding Secretary **Mrs Agnes Mutchler**, 2070 Lincoln, Apt 7, Montreal. Treasurer
+**W. J. G. Hewetson**, Montreal (the June slate has W. J. C.; one of the two is an OCR
+slip). Vice-Presidents: Mrs Pat Broome (Vancouver), Rev. R. S. Harper (Winnipeg),
+**Mrs Alta R. Kahn (Montreal)**, Miss Margaret Govan (Toronto), Grant McKeen (Edmonton),
+Abol Zisi (Halifax). Publisher **Fred Haiblen**, 170 Bloor Street West, Toronto. Editor
+**Miss Joyce Bertram**, 238 St. Clements Ave., Toronto 12. Editorial Committee: Barry
+Lowes, Margaret Govan, Katherine Anson, Kirk Wipper, W. E. Yard, Reg Blackstock,
+**Eanswythe Flynn**, John Gates.
+
+Two useful corrections fall out of that list. **"Mrs G. W. Flynn", the outgoing editor,
+has a given name: Eanswythe** — she stays on the editorial committee under Bertram, and
+reviews the books in this issue. And the officers' addresses are real street addresses,
+so the CCA's Montreal-era correspondence had two homes: the Belgrave Avenue office and
+Mutchler's apartment on Lincoln.
+
+**Cover cut — courtesy Camp Ouareau.** A Quebec camp on the cover of the national
+magazine, in the year the QCA had just been chartered; bears on `camp-ouareau.md`.
+
+**Agnes Mutchler, "Camp Subsidies: What — From Whom — How Much" (pp. 28–31).** The
+editor's biographical note is new and specific: **"Before becoming Director of the Junior
+League Camp in 1948, Mrs. Mutchler was a volunteer and for two years a paid worker in the
+field of recreation. Since 1956 she has been year round Executive Director of the Junior
+League Camp which is subsidized by the Junior League of Montreal Inc."** That dates her
+directorship from 1948 — the year before she wrote the "Quebec Camps" survey the KB leans
+on — and marks 1956 as the year the post became year-round and executive. It also puts a
+name to the subsidy: the Junior League of Montreal Inc.
+
+The article itself is the clearest statement found so far of the economics Kanawana
+operated inside:
+
+- Camp Directory fees in 1961 ran "from 'no fee' to $100.00 per week."
+- **"It is almost certain that any Canadian Camp charging less than $40.00 per week is
+  partially supported by subsidies."** A usable test to apply against Kanawana's own
+  published fees for these years.
+- Subsidy sources: public or private welfare groups; provincial or municipal funds for
+  campers, equipment or tax rebates; churches; service clubs; women's clubs and private
+  donations.
+- Subsidy forms, with her own valuations: personnel (**"reckoned at about [a third] of
+  the total budget"** — the OCR loses the fraction — so an all-volunteer staff is "a
+  terrific subsidy"); food (quantity buying, below-wholesale donations, "not as frequent
+  as they were"); property (gifts of land, sometimes with a tax fund attached, and "in
+  several Provinces welfare camp land is free of taxation"); buildings from service clubs
+  ("'We could not take Mary Jones this year for lack of space', is the plea from a
+  subsidized camp and YOIKS! another cabin" — though "plumbing facilities ... necessary
+  but not a very popular subsidy"); equipment; volunteer upkeep; and off-camp subsidies of
+  office space, secretarial help and board members' free technical work.
+- On the vocabulary: she objects that classing camps as "Private and Non-Profit" carries
+  "the insinuation that all Private camps are immediately profitable. No one refers to
+  'Private and Non-Profit Schools'", and prefers the New England usage **"subsidized"**.
+- **"As usual this year, more children attended subsidized than private camps. This trend
+  is increasing."**
+- A warning that reads directly on the YMCA's position: a subsidised camp that raises fees
+  to cover costs "may decide to move into a higher income area. This is a dangerous move
+  because it may mean competition for campers with the Private Camps."
+
+**F. M. VanWagner writes twice, both signed "Camp Nominingue".** "The Private Camp"
+(p. 13) is a short moral statement: a private camp "is essentially an educational
+institution ... there can be no moral justification for the establishment and conduct of
+a private camp as a business primarily for financial gains"; owners should be educators
+as private-school principals are; an established camp's owner "has a definite moral
+obligation to provide for the perpetuation of such camp" and should not treat it "solely
+as an asset that may be sold to the highest bidder." He also complains that "Camping has
+numerous spokesmen ... few are actively engaged in actual camp operation", and that
+"[f]or much too long we have looked to people outside the camping movement for new
+ideas." "What Is New In Camping?" (p. 21) answers its own title with "not much, and
+thank goodness", and raises the competitive question of the era: children now camping
+with their parents at public campsites may be "getting more interesting experience ...
+than they get at their camp."
+
+**Rev. Wilbur K. Howard, "Closed Oceans" — notes on an address to the Canadian Camping
+Association Conference, 1961**, printed as the editorial (pp. 10–12, concluded p. 33).
+A period sermon on reality, space and co-operation, quoting Vance Packard, Brendan Behan,
+*Krapp's Last Tape* and Edward Purcell on exosociety. Three passages matter here:
+
+- On co-operation in research: **"A good example of co-operation was the social planning
+  council 1959 study of 22 agency camps."** An unlocated 1959 study of twenty-two agency
+  camps — worth chasing; if it is the Montreal Council of Social Agencies rather than
+  Toronto's, Kanawana would be one of the twenty-two.
+- On evaluation, which bears on the staff-assessment thread (`p_307`): "Self-appraisal
+  should be continuous ... Evaluation involves threat. You may have to change ... Some
+  might even have to get out of the camping game. Evaluation should be in relation to
+  agreed-upon objectives. **Evaluation should not be merely judgmental, something to edge
+  out competitors or to cancel out the faulty.**"
+- On what camps are for: "Camp must provide honest fun not canned laughter or commercial
+  gimmicks that are phoney and artificial ... Are your cabins crowded together? ... Or
+  are they smothered and cramped with rules, traditions, fears, pre-tested, pre-digested
+  dehydrated program?"
+
+**Sigrid Day, Executive Director, St. Andrew's Youth Centre, Montreal — "Urban Programmes
+Are Not ... Day Camping" (pp. 18–19).** A new Montreal name, not in the KB or wiki. Her
+argument is that city programmes — museum visits, indoor pools, supervised crafts — are
+being called day camps and should not be; she quotes the ACA Day Camp Standards
+definition in full and sets out requirements: a natural site within 25–30 miles of the
+base (one and a half to two hours' travel daily), accessible swimming water, acreage
+enough to break into small "tent" groups, cook-out fireplaces, rest areas and toilets,
+professional senior staff with camp experience, and Public Health clearance of drinking
+and swimming water plus a drainage report before opening or re-opening any site. Day camp
+as preparation for residential camp — "the first step between the independence of
+residential camps" — and the child who came back "clutching a bottle containing a not too
+lively fish, saying 'Gee, you know I really gave this minnow artificial respiration.'"
+Relevant to any account of how Montreal children reached Kanawana.
+
+**Site and physical-plant material.** W. M. Walkinshaw and E. M. Sanderson of the
+**Environmental Sanitation Branch, Ontario Department of Health**, on the **lagoon (waste
+stabilization pond) system of sewage disposal for summer camps** (pp. 24–27, 32–33) — the
+most technically detailed article the read has produced on camp sanitation. It describes
+exactly the failure Kanawana's own site would be prone to: "a thin soil cover over the
+rock which slopes steeply down to the lake", septic tanks and tile beds overloading as the
+season progresses, "the excess liquid drains toward the lake" toward the drinking-water
+intake or the bathing area. Design figures worth keeping as a comparator: at least one
+acre per 300 camp residents; roughly 220' × 200' for 300 people, 200' × 150' for 200,
+150' × 100' for 100; 5' maximum liquid depth with 2' freeboard, 3' minimum operating
+depth; embankment slopes 1:4 or 1:5 inside, 1:3 outside; a properly working pond reduces
+coliform to 40 per cent of the raw figure, so chlorination of the effluent is still
+required where anyone swims or drinks downstream. **"The lagoon area should be declared
+out-of-bounds to other than the camp staff."** If Kanawana's sanitation history is ever
+written, this is the contemporary engineering standard to write it against.
+
+**Winter camping.** Marion W. Searles, Captain, 1 Winnipeg Air Rangers, on a February
+weekend fully out of doors — nine Rangers and two Guiders, 105 miles from the city, for
+$5.00 a head including petrol. Layered lightweight wool over one-piece long underwear;
+"stretchy ski slacks were not suitable"; gabardine mitts over woollen mittens; moccasins
+over three or four pairs of socks; **plastic overshoes** improvised because rubbers over
+moccasins were too costly for the use; two sleeping bags, a blanket and two ground sheets
+each, on spruce boughs, in a horseshoe clearing banked four feet with snow and lined with
+ground sheets. They slept uncovered under a clear sky and were snowed on. Everything but
+two loaves and six quarts of milk fitted in one haversack. The article notes explicitly
+"the newness of winter camping as a group activity, especially for girls, and also ...
+the lack of authoritative written material on the subject" — dating the practice for the
+Phase 2 winter-programming question.
+
+**Other content.** Ken Murray's president's greetings, on not "boxing off" the jobs
+between director and counsellors and on having a written camp philosophy ("What is the
+philosophy or plan of your camp? ... Is it written down anywhere?"). Kirk A. W. Wipper on
+**closed chest cardiac massage**, then newly teachable to laymen, with the full method.
+Joseph Kronick, Director, Camp White Pine, on switching the whole dining room to paper
+service — sixteen products, five staff eliminated, ten for the coming season, 300 square
+feet of kitchen recovered, one boy setting the dining room in 45 minutes where eight
+waiters had taken 25. A crafts page on **blueprinting** leaf silhouettes with architect's
+daylight paper and potassium bichromate, reprinted from *The Young Naturalist*. Mary S.
+Edgar's poem "Woodfire and Candlelight — To An Old Camper" ("For once you have been a
+camper, / Something has come to stay / Deep in your heart forever"). Theodora Jane Van De
+Mark's "A Prayer for Bill", reprinted from *Childhood Education* Vol. 25, January 1949.
+The **ACA's 27th National Convention, New York, 6–10 March 1962**, hosted by the New York
+Section. Eanswythe Flynn's book page reviews Jane Wardwell's *10c Crafts for Kids*, Grace
+Loucks Elliott's *Resources for Bible Study and Prayer* (YWCA of Canada, 571 Jarvis St.,
+Toronto, $1.75), and — the Indian-lore thread again — **Allan A. Macfarlan's *Living Like
+Indians***, praised for "authentic information" gathered "from old Indian chiefs, medicine
+men and shamans" and recommended to "the camp programme director who takes seriously the
+rituals of our various Indian tribes and translates them into Pow-Wow Nights." The OCA
+sells Alan Klein and Irwin Haladner's *It's Wise to Supervise: A Discussion on Staff
+Supervision in Summer Camps* at $1.00. Classifieds: a camp sought within 100 miles of
+Toronto, and the **former site of Camp Israel, Lake Couchiching**, for sale.
+
+**New names**: Sigrid Day (St. Andrew's Youth Centre, Montreal), Wilbur K. Howard, Fred
+Haiblen, Eanswythe Flynn (= Mrs G. W. Flynn), Katherine Anson, Reg Blackstock, John
+Gates, Dais L. Gass, Marion W. Searles, Joseph Kronick, W. M. Walkinshaw, E. M. Sanderson.
+**New leads**: the 1959 social planning council study of 22 agency camps; Klein and
+Haladner, *It's Wise to Supervise* (OCA, 1961); the Junior League of Montreal's camp
+subsidy records, now dated to Mutchler's 1948 appointment and 1956 executive directorship.
+
+Kanawana itself: not named in this issue.
