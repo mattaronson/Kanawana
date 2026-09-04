@@ -9678,3 +9678,289 @@ archival lead (the NFB series is still catalogued).
 
 Nothing in this issue names Kanawana or the YMCA of Montreal directly; the Quebec
 content is the QCA's cancelled 1965 conference and Nominingue's nature cabin.
+
+## 66
+
+`canadiancampingmagazine_vol17no3_1965april.txt` — Vol. 17 No. 3, April 1965.
+
+Contents page (checked against this block): Challenge To Counsellors (Adele Ebbs) ·
+Birth of French Camping Association (Tony Shorgan) · A Book In Hand · Poetry in Camp
+(Mary S. Edgar) · How To Lead A Nature Hike (P. M. Taschereau) · Jamaican Farewell
+(Barry G. Lowes) · Pre-Camp Training (Helen Stewart) · Montreal MacKay Centre
+(P. M. McFarlane) · International Programmes (Margaret Govan) · Citizenship Seminar
+(Dr. Hedley Dimock). All ten covered, plus the "About Other Associations" department
+and a Montreal YWCA classified. Cover cut courtesy *The Canadian Guide*.
+
+**Masthead change:** Mrs. Alta Kahn is off the CCA vice-presidencies, replaced by
+**R. Lazanik, Montreal** — and Shorgan's article explains why: Kahn is now
+**President of the Provincial Board of the Quebec Camping Association Inc.** Editor
+Dorothy Douglas has a new address, so she is back at work after the illnesses noted
+in issue 65.
+
+**Tony Shorgan, "Birth of the French Camping Association (l'Association des Camps du
+Québec)" — the single most important Quebec institutional article this read has
+found, and it corrects the wiki.** Shorgan writes as Executive Secretary of the
+Quebec Society for Crippled Children and Camp Director of the Crippled Children's
+Camp at St-Alphonse, Joliette, and as the man who did the organising. His account,
+with dates:
+
+- **1957** — at a committee meeting preparing a joint CCA/QCA conference, Shorgan
+  asks whether a few sessions could be held in French "for the benefit of
+  French-speaking Directors and staff members of French camps." Reception is mixed:
+  "Some of the members were definitely against the proposition, others did not think
+  French camp directors would be interested." He asks for a few days, telephones
+  French camp directors he knows, and calls a meeting at his own office on
+  twenty-four hours' notice — **"Despite one of the worst blizzards we have ever
+  had, there were some 18 French-speaking Camp Directors attending."** **Miss Nan
+  Vail**, past president of both the Quebec and Canadian associations, attends and
+  explains the conference with him. (Note the form "Nan Vail" against the masthead's
+  "Anne I. Vail" — same person, and a name variant worth recording.)
+- **12 April 1958** — at a joint CCA/QCA meeting **at the Windsor Hotel** a special
+  session run by a French-speaking group studies forming a French-Canadian section;
+  a committee is struck for a year's trial "to learn more of the C.C.A.'s
+  constitution," with Shorgan as its president.
+- The committee adopts the name **"Association des Camps Canadiens Français."**
+- **17 July 1958** — at the Crippled Children's Camp, St-Alphonse, under the honorary
+  presidency of **Monsignor J. A. Papineau, Bishop of Joliette**, the meeting resolves
+  to apply to become part of the Quebec Camping Association.
+- **15 November 1958** — officers of the now-permanent association elected at a full
+  day's study **in the Mont St-Louis gymnasium**; Shorgan president, with
+  representatives for the **Ottawa, Quebec and Montreal regions**.
+- **1959** — a newsletter every two months, and **inter-camp visits inaugurated**:
+  "it was most gratifying to hear of French-speaking camp directors visiting English
+  or Jewish camps and being received most graciously and cordially."
+- **1960** — the name changes from "Association des Camps Canadiens-Français" to
+  **"Association des Camps du Québec (Section Française)"**.
+- The merger with the Quebec Camping Association Inc. (English Section) is then
+  "recounted by Mrs. Alta Kahn, President of the Provincial Board of the Quebec
+  Camping Association Inc." — **a companion article this issue does not print**, so
+  either it ran elsewhere or was held; watch the next issues for it.
+
+He also records the resistance in a single sentence, with its sequel: "one of the
+French-speaking members whom I canvassed in the early stages replied that he knew how
+to operate his camp and did not need anyone to dictate to him. My reply was that we
+did not need persons like him in the Association. This same gentleman later became
+President of the French section."
+
+**Correction for `wiki/connections/institutional-lineage/canadian-camping-movement.md`.**
+That article says "The modern successor to the QCA is the Association des camps du
+Québec (ACQ)". Shorgan shows the name has a different descent: **ACQ began in 1958 as
+the separately organised French section — Association des Camps Canadiens Français —
+which took the name Association des Camps du Québec in 1960 and then merged with the
+English-section QCA Inc.** The body Kanawana is accredited by today carries the
+French section's name, not a renamed QCA. This should be rewritten with Shorgan's
+dates, and Shorgan spawned as a stub (he is already on the stub list; this article
+supplies the ≥5 facts).
+
+**Dr. Hedley Dimock (Sir George Williams University, Montreal), "Citizenship
+Seminar" — new Dimock material, and the strongest counterweight in this run to the
+costume-and-ceremony Indian lore.** Dimock reports on a residential training
+programme in intercultural relations at **Goldeye Lake Camp, Alberta**, sponsored by
+the **Farm Women's Union of Alberta**: twenty-five youths — "eleven were Indians, two
+were Eskimos and twelve were delegates from farm unions" — aged fourteen to
+twenty-one, median eighteen, eleven boys and fourteen girls, most having completed
+grade nine. He notes deliberately that "An attempt had been made to have even more
+Indian representatives in order to make sure the Indians had equal status. Indians
+were invited to participate on the staff, but this did not work out, so that the
+staff represented the non-Indian group" — a stated limitation, recorded rather than
+glossed. Goals: "Sharing our heritage, developing a better understanding among
+Indians and non-Indians, and increasing the citizenship and leadership capacity and
+responsibilities of all." The design is the group-work method Dimock had been
+applying at Kanawana: staff met beforehand "and made as few decisions as possible in
+order to leave as large an area as practical within which the campers could make
+decisions"; adults were to "play down their status," model feedback, and be called
+adults rather than staff.
+
+What happened, in his own reporting: the community organised itself into five groups
+with a coordinating council, chose to compose the groups heterogeneously "considering
+age, sex, race and interests" rather than counting off by fives, and rotated duties;
+the council under-communicated with its groups, which caused problems; "Many of the
+campers found the initial planning stage long and frustrating. Their expectation had
+been that the staff would set up the programme and tell them what to do." In the small
+groups, "At first everyone said Indians, or a minority group, were just the same as
+everyone else and there was no discrimination or problem. The Indians also said they
+felt just the same as others… Later they started to reveal some of the concerns that
+they had." The two Eskimo girls "were quite ready to talk about what it was like to
+be an Eskimo… This helped the Indians to own their differences and share some of
+their heritage," typified by a demonstration of Indian dances on the final evening —
+i.e. Indian dancing performed by Indigenous participants for a mixed community, which
+is a different act from the same dances performed in costume by white campers. And on
+the adults: "An adult with physical and social skills can find it difficult to see a
+game of volleyball being played without an umpire and the net sagging six inches in
+the middle. To give up control of a camp programme is not an easy thing"; when things
+went against expectation "sometimes the staff would step in and deal with them as
+authority figures… The real test of democratic procedures is that their functioning
+is supported in all types of situations." The camper's line Dimock opens with — "Boy,
+you really have to work at it to make democracy function" — is quotable. This belongs
+in `wiki/people/hedley-dimock.md` alongside his 1960–61 Kanawana counsellor research.
+
+**Adele Ebbs (Director, Camp Wapomeo for Girls, Taylor Statten Camps), "Here Is Your
+Challenge, O Counsellor!"** — from the OCA Annual Conference, March 1965, opening
+"I have been camping for a little over fifty years," which dates her own start to
+about 1914 and makes her a first-hand witness to the period Plewman describes in
+issue 64. (She is J. H. Ebbs's wife — Ebbs authored the February 1964 tripping
+fitness study — and Wapomeo is the 1924 girls' camp Plewman named.) Her counsellor
+mnemonic is worth recording as a period statement of what camps thought children
+needed: **R.E.A.P.S.** — **Recognition** (a place in the camp family), **Experience**
+(new; "let the camper have time to go fishing without a hook if he wants"),
+**Affection** ("this isn't just for little girls… little boys need understanding and
+gentleness — they can't always fight back and 'be a man'"), **Power** (achievement at
+the camper's own level), **Security** (the shock of "sharing one's 'bedroom' with
+several others, strange night noises, different food"). Also: a warning against
+over-programming — "Today's 'organized' children need this release and time for these
+explorations… don't crowd your programme"; on wages, "More money can be made (and
+spent) waitressing at a lodge or doing highway construction," but counselling "has an
+important social meaning"; and on immigration, "we have young people not only from
+pioneer Canadian stock but also from other countries. If your cultural background is
+different, you can make a fine contribution."
+
+**Barry G. Lowes (Camp Timberlane), "Jamaican Farewell" — an inter-camp exchange
+programme, and its cancellation.** The OCA, in partnership with the **Canadian
+University Students Overseas** organisation (CUSO), "raised almost $4000 again to
+bring ten young Jamaicans to Canada last summer" — three women and seven men, arriving
+20 June 1964 for nine weeks in Ontario camps, some shared between two camps by month.
+Their jobs "varied from that of full counsellor, to floater and on down to C.I.T."
+Host camps completed **evaluation forms**, and Lowes quotes them: "It provided a
+practical demonstration of non-discrimination"; "Silent example of racial equality";
+"He brought a sensitivity for values often regarded lightly in North America." The
+programme was **suspended for 1965** for three stated reasons — half the Jamaicans
+were not returning home but going abroad to study; "The type of camping experience
+gained in Canada seems to have no relationship to camping as it is known in Jamaica";
+and CUSO withdrew its funding. The OCA board recommended redirecting the effort to
+**an intra-Canadian exchange across provincial boundaries** — worth watching for,
+since Kanawana ran a CIT exchange with Camp Coniston, New Hampshire, in 1978
+(`facts.json`), and this is the earliest documented camp-exchange thinking in the run.
+
+**Helen Stewart (Camp Wahcahmie), "Pre-Camp Training in the Small Camp"** (OCA
+Conference, March 1965; part one of two, "watch for conclusion in our June issue").
+The most operationally detailed staff-training document this read has produced, and a
+close model for what a camp of Kanawana's size would have done. **Pre-pre-camp:**
+letters to returning staff in November or December; application and reference forms,
+interviews of "at least one hour," and explicit refusal letters; contracts with
+letters of acceptance; **a Staff Manual mailed in May containing a job description and
+specific duties**, varying by post (canoeing counsellors, nurse, kitchen staff); a
+June letter stressing "that pre-camp is a training course which means WORK." **Five
+reasons** for a pre-camp session, **six problems with their solutions** — including
+"her summer position is a vocation not a vacation," "All actual labour in preparing
+camp completed before pre-camp," a warning that the director and heads may "talk too
+much and 'carry the show'", and the expectation that staff "know [the Staff Manual]
+verbatim." **Programme:** counsellors teach their own activity to the rest of the
+staff acting as a camper group, and are corrected on technique; a fourteen-item
+practical list — canoeing tests (all counsellors are tripping personnel), campcraft,
+**daily artificial respiration practice**, sailing, archery, **water search procedure
+practised twice**, **fire drill twice**, canoe-tripping demonstrations (tent pitching,
+reflector oven, bedrolls, water purification, menu-making, duty sheet and canoe
+rotation), trip reports and evaluation, swimming tests and the buddy system, patrol
+sheets, Red Cross and RLSS instruction, orienteering, waterskiing. Plus **lesson plans
+for every activity submitted weekly** to the head of waterfront or programme, because
+"Activity counsellors are teachers with no teacher training, usually." And, under
+discussions with the director, an explicit heading: **"Camp rituals and traditions —
+Council Ring (tribal chiefs, counsellors, duties, tribes) — Flagraising and lowering
+— Chapel."** That a small camp treated its council ring, flag and chapel as a formal
+training topic, with tribes and tribal chiefs as roles to be explained, is directly
+comparable to Kanawana's own council ring and section structure.
+
+**P. M. McFarlane (former director), "The Montreal MacKay Centre for Deaf and Crippled
+Children's Camp" — a Montreal camp entirely absent from this project.** Opened
+**10 July 1952** with the dedication "To the health and happiness of physically
+disabled children of any race, colour or creed," before the Centre's Board of
+Governors, civic dignitaries and "some five hundred relatives and other guests."
+Site: **twenty acres on Lake Massawippi near Ayer's Cliff, Quebec**, with a natural
+sand beach, playground and overnight camping areas, hilly ground that proved an
+advantage. Season end of June to mid-August; "About 90 percent of the children stay in
+camp for the entire seven week period"; **145 boys and girls enrolled in 1964**, mostly
+MacKay Center pupils, twelve sponsored by the Sherbrooke Rotary and Kiwanis clubs.
+Staff: camp director, two programme directors, handicraft and waterfront directors,
+nursing staff, chef, laundress, bus driver, permanent caretaker, three physiotherapists
+and a speech therapist, all salaried, with **a counsellor–camper ratio of not less than
+1:4**. Buildings beyond the original two dormitories and dining hall were all donated;
+paved roads and pathways were "one of the most appreciated improvements" because
+"Level pathways and roads are a must in a camp where wheelchairs, braces and crutches
+are used." Programme deliberately mirrors an ordinary camp — swimming, overnight trips,
+fishing derbies, pony and boat rides, handicrafts, photography, nature study,
+dramatics, ceramics, archery, astronomy, campcraft, woodcraft, **Indian lore** — with
+Saturday all-camp programmes including "an Indian Day, Midway, Circus, or Homesteader's
+Day," and Wednesday out-of-camp picnics. Fourteen summers in, "many of our former
+Counsellors have become doctors, nurses, physiotherapists, social workers, or teachers
+of physically and mentally handicapped children." **Candidate for a
+`connections/related-camps/` stub**: a Montreal-institution camp in the Eastern
+Townships, contemporary with Kanawana, running the same Indian-lore repertoire.
+
+**Mary S. Edgar, "Poetry in Camp"** — bylined "A Past President of Canadian Camping
+Association, **Founder of Canadian Camping Magazine**, Founder of Camp Glen Bernard,
+Honorary Member, Ontario Camping Association." That byline is **provenance for the
+source this whole read is built on**: the magazine's founder is named, and it is
+Edgar. Her method: poetry evenings should be made to seem "rather exclusive affairs,"
+with "a counter-attraction to lure away the more active people," a fire, candle-light
+and "an occasional handful of driftwood powder bursting into exotic blue-green
+flames." Her recommended repertoire is a period canon worth recording against
+Kanawana's own campfire practice: *Silver Pennies* and *More Silver Pennies* for the
+young; for older campers "the Indian legends of Pauline Johnson," Henry Van Dyke's
+"Henry Hudson's Last Voyage" and "God of the Open Air," Noyes's "The Highwayman,"
+excerpts from *Hiawatha*, William Henry Drummond's *Habitant Poems*, Wilson
+MacDonald's "Song of the Ski," E. J. Pratt, and Edward Lear. She also describes **the
+weekly camp magazine or "Scroll"** read aloud on Saturday evenings — a camp-publication
+form to look for at Kanawana — and prints a camper's poem, "The Birches — to the
+Storm," by a girl who "later found her way into outstanding literary work in New York."
+
+**P. M. Taschereau (now given as Naturalist, Nova Scotia Museum of Science, and
+Woodland Boys' Camp, Quebec), "How To Lead A Nature Hike"** (from the OCA Conference,
+February 1964). A full method: reconnoitre the route once with a notebook, ideally
+with a botanist or geologist; carry a divided shoulder bag with pill boxes, killing
+tubes, folded newspaper, hand lens, pocket knife; **twelve is the limit for one
+leader**, of whom "there is generally a nucleus of about four or five enthusiasts who
+stay close to the leader"; seat the group in a semi-circle first and explain outdoor
+manners to city groups, with the rhyme "Resemble not the little snails / That with
+their filth record their trails." Substantively it is a lesson in **succession** —
+lichen to moss to fern to shrub to shade-tolerant forest on bare rock, sphagnum bog to
+larch and spruce, an ox-bow lake filling, a fallen tree becoming soil — and in deep
+time: "the very ground you are standing upon was laid down long ago in vast inland
+seas, or forms part of the roots of ancient mountains more than one thousand million
+years old… only ten thousand years ago enormous fields of ice scratched and scoured
+this land." Also the leader's honest answer, "I don't know… Let's see if we can find
+out," and the use of smell, touch and taste (balsam poplar leaves, slippery elm bark,
+oxalic acid in wood sorrel). Directly usable for
+`wiki/traditions/environmental-history.md` as the trained-naturalist standard a Quebec
+camp naturalist was working to in the mid-sixties.
+
+**Margaret Govan (Camp Onawaw), "Ideas for International Programmes"** — Olympic days;
+a Girl Guide World's Fair at Doe Lake, pitched as a preview of Expo; festivals with
+floats made from boats; national meals; a Caribbean party built around "our Jamaican
+counsellor" ("We had to censor the rum punch!"); a Swiss mountaineering expedition and
+a Japanese tea house with Kabuki theatre. With a caution that reads oddly against the
+Indian-lore material elsewhere in the same issue: "some of the campers' impressions of
+other peoples are erroneous… Making other people's customs a laughing matter is usually
+pure ignorance and in poor taste." She also insists the final programme decisions be
+made at camp, not in midwinter, or "Such a festival loses all spontaneity and becomes
+an adult decision."
+
+**Departments and notices.**
+- **"About Other Associations":** confirming issue 65, "we will miss the Quebec Camping
+  Conference this year," and the **1966 QCA conference is to be at the Queen Elizabeth
+  Hotel in Montreal**. A specific event and venue to search for proceedings.
+- **Howard G. Gibbs** (issue 63's OCA banquet speaker) named **President-Elect of the
+  American Camping Association**, to be installed at the ACA National Convention in
+  Chicago, 9–12 March 1966; he is chairman of the ACA Standards Committee and of the
+  Group Work Division of the National Association of Social Workers, and co-author of
+  *Design for Juvenile Decency*.
+- **A Montreal YWCA classified**, worth keeping as evidence of another Montreal camp:
+  "CAMP DIRECTOR — for Y.W.C.A. Camp. Full-time… Excellent Water-Front, outpost unit
+  and canoe trip programs. **Capacity 160.** Y.W.C.A., 1355 Dorchester Blvd. W.,
+  Montreal."
+- **Book advertisement, dated:** ***The Camp Counselor's Book*, edited by Mary L.
+  Northway (Director of Research, Institute of Child Study) and Barry G. Lowes**,
+  Longmans Canada — already flagged as an archival lead; here it is advertised with a
+  blurb by "Dr. W. D. Smith, President, Canadian Camping Association." Note that the
+  masthead names the president as "Dr. Don Smith, Edmonton" and issue 63's Camp Safety
+  author as "W. D. Smith"; these are very likely the same man, but **do not merge the
+  names without a third source** — record it as a probable identity to check.
+- Reviews (M. Govan, E. Flynn): van der Smissen and Goering's *A Leader's Guide to
+  Nature-Oriented Activities*; *The Peacock Camping Book*; Hardy and Hardy's *Wild
+  Flowers of the Rockies*.
+- The **Greb Hiking Bureau** (Kitchener) circulates a preliminary booklet, "Hiking
+  Trails in Canada" — "As far as we know, this is the first compilation of hiking
+  trails in Canada."
+
+Nothing in this issue names Kanawana. Its value is very high anyway: Shorgan's dated
+founding narrative of the ACQ, which corrects the wiki; new Dimock material; the
+MacKay Centre camp; and Mary Edgar named as the magazine's founder.
