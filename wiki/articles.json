@@ -386,6 +386,13 @@
           "at": "2026-09-04",
           "by": "auto",
           "task": "RESEARCH"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-09-04",
+          "by": "auto",
+          "task": "RESEARCH",
+          "note": "Word-for-word read of Canadian Camping, issue 125: new section on a third Canadian camp with the Wakonda invocation -- Blackstock had Fred Hagan carve 'May Wakonda whose messenger is the Thunderbird, smile upon His children and send down the sacred fire from Heaven' over the lodge fireplace at Camp Mazinaw, and had been waterfront director at Camp Ahmek in 1930-31, which is the Seton-Statten transmission route Eastaugh describes. Sources 13 -> 14."
         }
       ],
       "ralph_loops_completed": 2,
@@ -412,7 +419,8 @@
         "src_ia_kanawana_place_to_grow_1988",
         "src_ia_kanawana_report_1987",
         "src_ia_ymca_montreal_annual_reports_collection",
-        "src_ia_ymca_montreal_fonds_collection"
+        "src_ia_ymca_montreal_fonds_collection",
+        "src_ia_canadian_camping_collection"
       ],
       "open_questions": 4,
       "cross_links": [
@@ -8093,6 +8101,13 @@
           "by": "auto",
           "task": "RESEARCH",
           "note": "Word-for-word read of Canadian Camping, issue 119 (Vol. 30 No. 3, May 1978): C. R. Blackstock, one of the run's most frequent contributors and National Director of Red Cross Water Safety, is named as a former director of Camp Pine Crest, with fifty years in camping. Since the Pine Crest Games began in 1940 and Kanawana adopted the format in 1947, dating his tenure could identify the route by which the format travelled. Distinguished from Brian Blackstock, the newsletter's editor. Sources 9 -> 10."
+        },
+        {
+          "status": "draft",
+          "at": "2026-09-04",
+          "by": "auto",
+          "task": "RESEARCH",
+          "note": "Word-for-word read of Canadian Camping, issue 125 (Vol. 31 No. 3, May 1979): C. R. Blackstock's obituary dates his Pine Crest directorship -- 'In 1936 he directed Bolton Camp and for some years after that was the inspired and creative director of Camp Pinecrest', ending when he founded Camp Mazinaw in 1940. So roughly 1937-1940, the window in which the Pine Crest Games began. The article states plainly that this does not make him the Games' author, since no source says so. His national reach is set out from the same obituary. Sources 10 -> 11. This answers the dating question posed in this article at issue 119."
         }
       ],
       "ralph_loops_completed": 1,

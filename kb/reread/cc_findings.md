@@ -22275,3 +22275,136 @@ construction-grade spruce, preservative applied before assembly, platforms raise
 rocks so air circulates and rot is deterred, and "consider prevailing winds before setting up your
 site." The Quebec calendar repeats February's, with **ACQ-QCA Semaine des camps 1-9 March** and the
 **Séminaire des directeurs on "La communication," 27-29 April**.
+
+---
+
+## 125 — Vol. 31 No. 3, May 1979
+
+Twelve pages. Every item accounted for: Canoeing — "In" and "Out" Races; Canadians Shine at
+Minnesota; Backpacking — Beginning a Program at Camp; Thought for Food (recipes from Ann McLean of
+Ottawa); two course notices; In Memoriam — "Blackie" (Adele and J. Harry Ebbs); The Counsellor's Page
+— Discipline (Dr Elsie Palter); the Royal Chinet advertisement. **Kanawana is not named.**
+
+**★★★★★ THE READ ANSWERS ITS OWN QUESTION FROM SIX DAYS AGO.** At issue 119 I added C. R. Blackstock
+to `connections/related-camps/camp-pine-crest.md` as a former director of Pine Crest, and wrote there
+that "his Pine Crest directorship is not dated here. Since the Pine Crest Games began in 1940 and
+Kanawana adopted the format in 1947, when he ran the camp is worth establishing." His obituary,
+printed two issues later, dates it:
+
+> "**In 1936 he directed Bolton Camp and for some years after that was the inspired and creative
+> director of Camp Pinecrest.**" … "Since the beginning, **in 1940, Camp Mazinaw** has expressed
+> Blackie's basic philosophy of excellence in endeavour."
+
+**So Blackstock ran Pine Crest for roughly 1937 to 1940 — the window in which the Pine Crest Games
+began.** The article has been updated accordingly, and states plainly that this does **not** make him
+the Games' author, since no source says so. What it establishes is that the man directing Pine Crest
+when Lumbermen-versus-Voyageurs started had national reach, which is why a format begun there could
+travel to a Montreal YMCA camp seven years later.
+
+The obituary is the fullest biography of anyone in the newsletter era, and every date in it is worth
+having: a **Kitchikewana "original" — "he started the first year of that 'Y' camp on Beausoleil
+Island in 1921 as a very young counsellor**," under director Ernie Thurlow, rising to assistant
+director under Win Smith; at **Pickering College in 1928**, "during the same period as the late
+Taylor Statten"; **waterfront director at Camp Ahmek in 1930 and 1931**; later full-time staff of the
+**Canadian Red Cross Society as Director of Water Safety**; **Head Master of the Junior School and
+Director of Athletics at Pickering College**, where he began "**the first winter school-camping for a
+number of seasons at Limberlost Lodge**"; summer courses at Wisconsin in outdoor education; **B.Sc.
+McGill**; **honorary LL.D., York University, 1974**, preceded days earlier by a surprise dinner in
+Ottawa from which grew **"The Blackie Fund"**; **Camp Mazinaw established 1940**; executive secretary
+of **CAHPER**; **Founding Fellow of the Society of Camp Directors**; Honorary Life Member of the OCA;
+consultant to the Sports Centre in Ottawa in retirement.
+
+**★★★★ A THIRD CANADIAN CAMP WITH WAKONDA OVER THE FIREPLACE.** From the same obituary: "**Council
+Ring and Indian Lore is a part of Mazinaw because Blackie had a 'feeling' for our native people.**
+Over the fireplace in the lodge at Mazinaw he had his friend, **Fred Hagan**, carve these words:
+**'May Wakonda whose messenger is the Thunderbird, smile upon His children and send down the sacred
+fire from Heaven.'**"
+
+**Written into `site/council-ring.md` as a new section (sources 13 → 14).** Kanawana's script ends
+"Wakonda, dhe-dhu, wapdhin atonhe"; Eastaugh remembered the Taylor Statten camps closing council ring
+with "Wakonda dhe dhu" (issue 98); and here is the same deity name carved into a Bon Echo fireplace
+by a man who was Ahmek's waterfront director in 1930-31. **Three camps, one borrowed prayer, sixty
+years — and the transmission route is the one Eastaugh describes, from Seton through Statten's camps
+into the leaders trained there.** The obituary closes with Chief Dan George's "And My Heart Soars"
+printed in full, which is its own datum about how the movement's Indian-lore inheritance was being
+reframed by 1979 — from Seton's composite creed (issue 117) to a living Tsleil-Waututh writer's poem,
+in fifteen months.
+
+**★★★ A LEAD FOR `p_322`: THE SOCIETY OF CAMP DIRECTORS WAS ALREADY RESEARCHING TRIPPING RISK.** Also
+from the obituary: "**He gave input to the current research being done by the Society of Camp
+Directors, of which he was a Founding Fellow, when he alleged that canoe trippers should be trained
+to handle risk and to anticipate it.**" So within months of the 1978 Quebec tragedy (issue 122) a
+named body distinct from the CCA had research under way on canoe tripping risk, and was taking
+evidence from the Red Cross's former Director of Water Safety. **`p_322` updated.** Blackstock's own
+position is recorded there too, because it is the argument the November 1975 regulation had just
+overridden: "**on the issue of life-jackets he believed that sufficiently trained persons would know
+under what conditions they should be worn.**"
+
+**★★ THE MINNEAPOLIS CONFERENCE, AND A DEREK WALSH ENTRY THE WIKI ALREADY HAS.** "More than 100
+Canadians attended", almost every provincial association represented. The list of Canadians who led
+sessions is worth recording whole: the **Boys' Camp Band (Jim Knowlton, Tom Knowlton, Peter Rasberry,
+Mark Baldwin)**; Bruno Morawetz; Jocelyn Palm; **Dorothy Walter, Camping Consultant for the Ontario
+Ministry of Culture and Recreation**; Jan James (Alberta); Dave Wilkinson (Humber); Bob Slingerland
+(Kilcoo); Wayne Perkins (Wanakita); **"Derek Walsh (Camp Thunderbird, Victoria, B.C. — Derek was also
+responsible for the Public Relations aspect of the Canadian involvement)"**; **Raymond Hade and
+Rosaire Corbin (Association des Camps du Québec)**; Joe Kronick (White Pine); Don and Linda Arnold
+(UBC and BCCA); June Labbett (Oconto); Janet Adamson (Gay Venture); Carolea Butters (Tanamakoon);
+Jane McCutcheon and George Simonett; John Latimer at the closing banquet.
+
+**Recorded honestly: the Camp Thunderbird line is not new.** It is already Open Question 1 of
+`people/derek-walsh.md`, found by the earlier pass, complete with the December 1980 "Derek Walsh of
+Montreal" that contradicts it and the warning that the Montreal YMCA ran its own Camp Thunderbird
+(Concordia P0145/12I) and the two are easily conflated. **The read adds nothing to it** beyond
+confirming the reading of the PR brief, which the article had already made. No change to the article.
+
+**★★ Camp Amy Molson, Montreal, runs a free leadership course.** "**CHILD LEADERSHIP TRAINING COURSE,
+June 24 – August 27, 1979. Participatory Training for 16-18 year old girls interested in child care
+and activity programming for 5-8 year old campers. NO FEE.** Miss Frances Owen, Executive Director,
+**Camp Amy Molson Inc., 1430-A St. Marc St., Montreal H3H 2G2**." A nine-week unpaid-but-free
+leadership training programme for teenage girls, run by a Montreal camp charity in the same city and
+season as Kanawana's CIT programme, and a direct comparator for
+`traditions/cit-lit-program.md` — the same age band, the same summer, a different institution's
+answer to the same problem. Worth a note when that article is next revised.
+
+**★ The Ottawa outdoor-adventure workshop, and a name that keeps recurring.** "**Workshop in Outdoor
+Adventure Education, July 23 – August 10, 1979**, a three-week workshop held at the **University of
+Ottawa Camp (70 miles north of Ottawa)**… conducted by **Professor Claude Cousineau** of Ottawa,
+**Professor Bob Pieh of Queen's** and **Professor Kirk Wipper** of Toronto. **Six academic credits.**"
+The Gracefield camp again (issues 87, 110, 111, 117), now hosting a credit-bearing university course
+on "the man/nature relationship within the context of adventurism," taught by the two men who founded
+the canoe instructor schools in 1967 plus the founder of Outward Bound Canada.
+
+**★ Backpacking as a new camp programme**, with costs: an adult pack about **$65.00**, a junior pack
+(12 and under) **$45.00**, water bottles about $5.00 each, and the advice that no other special
+equipment is needed beyond boots or high-top running shoes and a rain poncho. The programme argument
+is one Kanawana could have used: combined trips where "one group could travel by canoe to a specific
+destination to be met by another who travelled overland", then swap for the return, "**this might
+help avoid some duplication of travelling back and forth on the same routes**". Where to go:
+"**abandoned railway lines and old logging roads**", and topographical maps "to make your own
+trails."
+
+**★ Elsie Palter on discipline** — Honorary Member of the OCA and former director of **Camp
+Kawagama**, writing the counsellors' page, and it is the strongest statement of camp discipline
+practice in the run. Her definition excludes punishment: "discipline is taken to mean 'to educate, to
+train, to instruct disciples'. **It does not refer to chastisement or punishment.**" On corporal
+punishment: "**It is most important to realize that corporal punishment does not teach respect. It
+may achieve immediate results, but no learning occurs**… the only thing learned by the child is to
+use this means of control when he becomes a parent and the vicious circle is perpetuated," against
+the excuse "it was good enough for me." **"There is no place in camping for corporal punishment."**
+On the practice camps actually used: "**'Docking' is a device used in camps to control behavior. To
+'dock' a child from having dessert does not teach him to be polite at the table. Similarly to 'dock' a
+child from his favourite activity destroys his trust in you.**" Her alternative for a misbehaving
+swimmer is to remove him from the class **and teach him separately**. And a line about agency camps
+specifically, which is Kanawana's type: "**In an agency camp where the children may come from
+culturally deprived homes, one is more likely to find the adult is regarded as an antagonist. This
+provides a challenge to you, as a leader, for the child to learn that an adult can be trusted.**" She
+closes on **Bernard Mason**, "an authority on camping," and camp as "a social organization where law
+and order must be recognized and accepted… **as few rules as possible**", with the two she names —
+never swim alone and only in supervised areas; be prompt at meals — and the argument that rules
+"**have grown out of the experience of staff and campers for years back**."
+
+**Minor.** Recipes for fifty from **Ann McLean of Ottawa**, a home economics teacher — dressed meat
+loaf, pork or chicken fried rice, southwestern sloppy joes, macaroni and cheese for a hundred (12 lb
+of macaroni, 6 lb of cheese), and no-cook oatmeal squares. A canoe "in and out" race for regattas in
+which paddlers must jump out and re-enter without dumping when the whistle blows, "for staff and
+senior campers as it demands a lot of strength as well as skill."

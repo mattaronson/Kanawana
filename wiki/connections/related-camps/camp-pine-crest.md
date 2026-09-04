@@ -1,6 +1,6 @@
 # Camp Pine Crest
 
-*Status: draft | Sources: 10*
+*Status: draft | Sources: 11*
 *Last Updated: 2026-09-04*
 
 ## Overview
@@ -11,7 +11,11 @@ YMCA Camp Pine Crest is a summer camp on Clear Lake in Torrance, in Ontario's Mu
 
 Pine Crest was founded in 1910 in Torrance, Ontario, on 650 acres of Muskoka wilderness spanning three lakes.^1 ^2 Its camping lineage traces back further still: it grew out of the Broadview Boys' Institute camping tradition dating to 1896; the Institute, based in Toronto, amalgamated with the Toronto YMCA in 1910 to become the Broadview YMCA, which opened Pine Crest that same year.^3 It is today part of the YMCA of Greater Toronto.^2
 
-**A director who links Pine Crest to the national camping literature.** *Canadian Camping* names **C. R. Blackstock** as a former director of Pine Crest in May 1978, in a biographical note appended to his own survey of Canadian camping's past and future: "Mr. Blackstock has been involved with camping for **50 years**. He has directed **Bolton Fresh Air Camp, Camp Pinecrest and Mazinaw**. He is a Consultant with the **National Sport and Recreation Centre in Ottawa**."^10 Blackstock is one of the most frequent contributors in the magazine's whole run — writing on the axe, on river pointers, on calculated risk, and as National Director of Red Cross Water Safety — and his Pine Crest directorship is not dated here. Since the Pine Crest Games began in 1940 and Kanawana adopted the format in 1947, when he ran the camp is worth establishing: if his tenure overlaps either date he is a candidate for the person through whom the format travelled. (He is not to be confused with **Brian Blackstock**, the newsletter's editor in the same years and co-author of the *Camp Counsellor's Handbook*; the relationship, if any, is not stated in any source seen here.)
+**A director who links Pine Crest to the national camping literature.** *Canadian Camping* names **C. R. Blackstock** as a former director of Pine Crest in May 1978, in a biographical note appended to his own survey of Canadian camping's past and future: "Mr. Blackstock has been involved with camping for **50 years**. He has directed **Bolton Fresh Air Camp, Camp Pinecrest and Mazinaw**. He is a Consultant with the **National Sport and Recreation Centre in Ottawa**."^10 Blackstock is one of the most frequent contributors in the magazine's whole run — writing on the axe, on river pointers, on calculated risk, and as National Director of Red Cross Water Safety. (He is not to be confused with **Brian Blackstock**, the newsletter's editor in the same years and co-author of the *Camp Counsellor's Handbook*; the relationship, if any, is not stated in any source seen here.)
+
+**And the tenure can be dated, to the years the Pine Crest Games began.** His obituary, written by Adele and J. Harry Ebbs in May 1979, gives the sequence: "**In 1936 he directed Bolton Camp and for some years after that was the inspired and creative director of Camp Pinecrest.**"^11 It also fixes the end of that period, because his own camp — Mazinaw, at Bon Echo — was established in **1940**.^11 So Blackstock ran Pine Crest for roughly the years **1937 to 1940**, the window in which the Pine Crest Games began.
+
+That does not make him the Games' author, and no source says he was. What it establishes is that the man directing Pine Crest when the Lumbermen-versus-Voyageurs competition started was a figure of national reach — a founding counsellor at YMCA Camp Kitchikewana in its first season in 1921, waterfront director at Taylor Statten's Camp Ahmek in 1930 and 1931, later the Canadian Red Cross Society's Director of Water Safety and executive secretary of CAHPER, a Founding Fellow of the Society of Camp Directors, and an Honorary Life Member of the Ontario Camping Association.^11 A format originating under a director with those connections would have had every opportunity to travel, and Kanawana adopted it seven years later.
 
 ## The Pine Crest Games
 
@@ -45,6 +49,7 @@ The broader team-competition-week genre, of which Pine Crest and Kanawana's Lumb
 8. The L&V Games (this wiki) — the modern three-day format rests on weak leads and is an open question there; the 1947-1958 event ran a full week [src_leigh_evans_lv_blog].
 9. Direct fetches, 2026-07-09: hayowentha.org/program/voyageurs/ and find.acacamps.org (Woodsmen program profile) [src_hayowentha_website, src_aca_hayowentha_programs].
 10. C. R. Blackstock, "Camping… Our Past, Present and Future," *Canadian Camping* Vol. 30 No. 3 (May 1978), pp. 1, 3, 12, with the author note on p. 12 [src_ia_canadian_camping_collection]. Found by the full word-for-word read of the run (`kb/reread/cc_findings.md`, issue 119).
+11. Adele and J. Harry Ebbs, "In Memoriam — 'Blackie'," *Canadian Camping* Vol. 31 No. 3 (May 1979), pp. 6-7 [src_ia_canadian_camping_collection]. Found by the same read (issue 125).
 
 ## Research Notes
 

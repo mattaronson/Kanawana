@@ -1,6 +1,6 @@
 # The Council Ring
 
-*Status: E1-reviewed | Sources: 13*
+*Status: E1-reviewed | Sources: 14*
 *Last Updated: 2026-09-04*
 
 The Council Ring was built by senior campers in 1922, sited between the cabins and the chapel. It served from the start as the camp's ceremonial gathering place, a tiered outdoor amphitheatre where the whole community could assemble for evening programs, campfires, and ritual events. The choice of the name "Council Ring" reflected the broader "playing Indian" aesthetic that shaped YMCA camping in this period, drawing on romanticized ideas about Indigenous governance and ceremony that were common across North American organized camping. The council-ring form itself is generally traced to landscape architect Jens Jensen and to Ernest Thompson Seton's Woodcraft Indians (Silver Bay camp, 1910), from which it spread through the camping movement — context for Kanawana's adoption of it in 1922.^11
@@ -48,6 +48,7 @@ McMorris's analysis situates the Council Ring and its associated "Indian" tradit
 11. Phase 2 research (recovered June 2026): council-ring form traced to Jens Jensen and E.T. Seton's Woodcraft Indians (Silver Bay, 1910).
 12. *Kamp Kanawana Director's Report 1987*, Jay Netherwood [src_ia_kanawana_report_1987], "Special Projects". See [f_2453].
 13. Jack Eastaugh (Assistant to the Director, Taylor Statten Camps), "Our Friends — The Indians," *Canadian Camping* Vol. 25 No. 3 (Spring 1973), pp. 5-6. Found by the full word-for-word read of the run (`kb/reread/cc_findings.md`, issue 98).
+14. Adele and J. Harry Ebbs, "In Memoriam — 'Blackie'," *Canadian Camping* Vol. 31 No. 3 (May 1979), pp. 6-7 [src_ia_canadian_camping_collection]. Found by the full word-for-word read of the run (`kb/reread/cc_findings.md`, issue 125).
 
 ### R3 Verification Notes
 
@@ -72,6 +73,14 @@ Eastaugh also supplies a translation the Kanawana record has never had. Describi
 Eastaugh's article is also, in its own right, the clearest surviving statement of how the movement justified the practice at the moment it was starting to be questioned. He opens by comparing camp Indian Lore to the minstrel show — "Have we a parallel in the way we conduct Indian Lore in the summer camp? **I think not**" — and argues the ceremony "should enhance, rather than demean, the Indian and his culture," noting that "**the Y.M.C.A. camps in Eastern and Western Canada for years have welcomed the participation of, and appreciated the contribution of local Indians in their programs**," with people from Golden Lake, Couchiching, Georgian Bay, Brantford and Moosonee reserves working in Ontario camps. But he then concedes the case against: "Candor is also required in levelling with the purist who can quite legitimately claim that Indian Lore in the summer camp **is guilty of ignoring cultural facts**. We have not limited ourselves to archaeological truths. **We have stolen the tepee from the people of the plains, the grotesque and marvellously hideous masks of the Iroquois, the birch bark crafts of the Hurons and the rich and colourful designs of the West Coast Indians.**" His proposed remedy is disclosure rather than discontinuation — "there is nothing wrong with this practice as long as we recognize the source of our material and make the facts known to our campers." And he is candid that the ceremony's power is religious: "why not admit that much of the appeal of the Indian Council Ring Ceremony is dependent upon the observance of primitive ceremonies and a reliance upon the mystery of the wild?"
 
 One practical note of his bears on how Kanawana's own ring must have operated: a council ring "must be a total, all-camp program", because "**distractions of any kind are 'killers'**" and a handful of scoffers can break the "make believe atmosphere that is so essential." At Ahmek the camp was split by age, eleven-and-under at one sitting and twelve-and-up at another, after early years of interference. Attendance was compulsory where other activities were not.
+
+### A third Canadian camp with Wakonda over the fireplace
+
+That the invocation travelled is confirmed by an obituary. When C. R. "Blackie" Blackstock died in 1979, Adele and J. Harry Ebbs wrote that "**Council Ring and Indian Lore is a part of Mazinaw because Blackie had a 'feeling' for our native people**," and that over the lodge fireplace at his own camp he had his friend Fred Hagan carve:^14
+
+> "**May Wakonda whose messenger is the Thunderbird, smile upon His children and send down the sacred fire from Heaven.**"
+
+Camp Mazinaw was founded in 1940 at Bon Echo, and Blackstock had been a founding counsellor at YMCA Camp Kitchikewana in 1921 and waterfront director at Taylor Statten's Camp Ahmek in 1930 and 1931 — so the transmission route is the same one Eastaugh describes, from Seton through Statten's camps into the leaders trained there.^14 Kanawana's script (c. 1925-1927), the Taylor Statten close Eastaugh remembered, and a sentence carved into a Bon Echo fireplace are three instances of one borrowed prayer, at three camps, over sixty years. The name was not local colour that each camp invented; it was inherited, and its bearers knew where it came from.
 
 ## Location and Modern Use
 
