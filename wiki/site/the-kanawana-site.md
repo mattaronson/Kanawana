@@ -1,7 +1,7 @@
 # The Kanawana Site
 
-*Status: E1-reviewed | Sources: 42*
-*Last Updated: 2026-08-25*
+*Status: E1-reviewed | Sources: 43*
+*Last Updated: 2026-09-04*
 
 ## Overview
 
@@ -130,6 +130,12 @@ Facilities documented from the 1920s through the 1970s include:^5 ^11
 - A totem pole (added 1927 under Harold C. Cross; still visible in 1970s photos)
 - **"The Cave"**: The Hike and Trip Department's equipment room^23
 
+**What was inside the infirmary — the national standard, 1978.** Kanawana's own records do not describe the contents of its infirmary, but the camping association it belonged to published a recommended list, written by **J. Harry Ebbs, M.D., F.R.C.P.**, for "a residential summer camp for children with an enrolment of about fifty to one hundred campers" — half Kanawana's size, so a floor rather than a match.^43 It is a useful measure of what a Canadian camp infirmary of this period was expected to hold, and of how much medicine a camp practised on its own.
+
+The equipment is what a small ward needed: a wash basin for each infirmary bed, solution and kidney basins, adult and child bedpans, **a folding stretcher, adjustable crutches, balance scales, an electric sterilizer, a goose-neck lamp, a small refrigerator and a locked metal cabinet**; scissors, splinter and dressing forceps, two haemostats; graduated medicine glasses, droppers, **twenty-five disposable hypodermic syringes and twenty-five needles**; gauze, crepe, flannel and triangular bandages by the dozen.
+
+The drug list is the striking part. Beyond the expected — 500 five-grain ASA, milk of magnesia, calamine, petrolatum, kaopectate, ear and toothache drops — a camp infirmary was expected to stock **ASA with codeine, 100 tablets of phenobarbital, 100 tablets of penicillin at 250,000 units, 100 tablets of triple sulpha, and 100 capsules of Achromycin**, with the attending doctor separately supplying "narcotic drugs, penicillin for injection," anaesthetic material, adrenalin, steroids and intravenous sets, plus **a snake bite kit** where required and arrangements for tetanus toxoid and rabies information. Ebbs adds that "the director in consultation with the doctor should have suitable and adequate **illness and accident record forms**" — another category of camp record this project has not yet located for Kanawana.
+
 A 1928 Kanawana map and a 1962 Kanawana map were both analyzed in the McMorris thesis.^12 A 1974 orienteering map (6 photocopies) is held in the Concordia Archives.^13
 
 ### Desjardins Pavilion (2018)
@@ -248,6 +254,7 @@ From 1977 to 1980, plans existed for a proposed two-site operation using Kanawan
 40. 1988 Task Force report, "SITE" specification and "RECOMMENDATIONS" sections [f_2254]. Recorded here specifically because the line reads as corroboration of the 1,200-acre figure and is not.
 41. Oral history, Matt Aronson, 28 August 2026: Tassé as caretaker, his death c. 1992–95, and the dining-hall renaming [src_oral_aronson_julien_tasse_caretaker]. See [f_2357], [f_2358].
 42. Kanawana Flickr "Plaque" album, `senior-boys-staff-2007.jpg` [src_flickr_kanawana_plaque_album], read in the p_291 audit — see [f_1688]; and oral history, Matt Aronson, 28 August 2026: the Sanctum and the Suez Bridge [src_oral_aronson_sanctum_suez_raku], see [f_2351], [f_2352].
+43. J. Harry Ebbs, M.D., F.R.C.P., "Medical Supplies for the Camp Infirmary," *Canadian Camping* Vol. 30 No. 1 (February 1978), p. 7 [src_ia_canadian_camping_collection]. A national recommendation for a camp of 50-100 campers, not a description of Kanawana's own infirmary. Found by the full word-for-word read of the run (`kb/reread/cc_findings.md`, issue 117).
 
 ## Research Notes
 

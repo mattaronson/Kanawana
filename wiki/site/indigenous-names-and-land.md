@@ -1,6 +1,6 @@
 # Indigenous Place Names and Land History
 
-*Status: R3-verified | Sources: 18*
+*Status: R3-verified | Sources: 19*
 *Last Updated: 2026-09-04*
 
 ## Overview
@@ -64,6 +64,12 @@ An "Indian Grave" marking existed on the Kanawana camp map, though no documentat
 
 This is not evidence about Kanawana's marking. It is a fourth candidate explanation to set beside the three above — a real burial site, a naturalistic feature, a campfire-story location, or **a deliberately staged hoax site of a kind camps of this period are documented as building**. Kanawana's own hoax tradition is discussed at [[traditions/myths-and-legends|Myths and Legends]]. What would distinguish the possibilities is the marking's date and its persistence: a hoax site is typically built for one season, while the map marking suggests something treated as a fixed feature.
 
+### Seton's creed still in print in 1978
+
+Whatever the Indian theme meant to the people who ran Canadian camps, its central text was still being circulated verbatim in the association's own pages as late as **February 1978**, when the Canadian Camping Association reprinted "**The Indian's Creed**" in full over Ernest Thompson Seton's name, cited to *The Book of Woodcraft and Indian Lore*.^19 The fourteen articles are a composite portrait rather than a record of any nation's belief — a single Supreme Spirit "who was everywhere all the time"; immortality of the soul with its future "determined by its behavior in this life"; reverence for the body "as the sacred temple of his spirit"; fasting "for the absolute domination of the spirit"; support of aged parents; "**the sacredness of property. Theft among Indians was unknown**"; cleanliness, purity of morals, truthfulness; beauty in all things, with "a song for every occasion — a beautiful prayer for every stress"; the simple life, holding "that land belonged to the tribe, not to the individual" and that accumulation "was the beginning of greed that grew into monstrous crime"; peace and hospitality; courage as the noblest virtue and fear as "the most shameful of crimes"; and a death met by putting on "the paint and honours of a hero going home."
+
+Two things are worth saying about it. The first is what it is: a white naturalist's idealised composite, framed in the past tense and in the singular — "the Indian" — presented to camp directors as a model of character for their campers. The second is when: this was reprinted without comment or context in **1978**, eight years after the Red Power movement, five years after Wounded Knee, and in the same run of the same publication that had by then carried Mary S. Edgar's and Jack Eastaugh's more self-conscious pieces on the same subject.^15 ^16 The framework this article traces from Seton through Statten into Kanawana's council ring (see [[site/council-ring|The Council Ring]]) had not been retired by the camping establishment; it was still being handed on as it stood.
+
 ## Pre-Colonial and Land History
 
 The Weskarini Algonquin were dispersed by Iroquois warfare in the 1650s; a major massacre occurred in 1653 near Petit Lac Nominingue, northwest of Arundel — roughly 70-80 km north of the Camp Kanawana site, but within the same territorial zone.^12 Archaeological fieldwork in the Laurentians since 2015 (researchers Francis Lamothe, Karine Taché, and Roland Tremblay) has shown that the Laurentian landscape was integrated within Indigenous interaction networks spanning several regions of the greater Northeast — evidence of land use long predating European settlement.^12 The camp's watershed, the Rivière du Nord, flows approximately 125-137 km from Sainte-Agathe-des-Monts through Val-David, Sainte-Adèle, Saint-Sauveur, Prévost, and Saint-Jérôme before reaching the Ottawa River at the Lake of Two Mountains.^12
@@ -107,6 +113,7 @@ The Kanawana site sits in the municipality of Saint-Sauveur, in the Laurentian h
 16. Jack Eastaugh (Assistant to the Director, Taylor Statten Camps), "Our Friends — The Indians," *Canadian Camping* Vol. 25 No. 3 (Spring 1973), pp. 5-6. Found by the full word-for-word read of the run (`kb/reread/cc_findings.md`, issue 98).
 17. Bruno Morawetz (Director, Camp Ponacka), "The Importance of the Unimportant," *Canadian Camping* Vol. 27 No. 4 (June 1975), pp. 3-4. Found by the full word-for-word read of the run (`kb/reread/cc_findings.md`, issue 105).
 18. Bob Attfield (Camp Ponacka), "Camp Hoax Costs Director $25,000 in Legal Damages," *Canadian Camping* Vol. 24 No. 3 (Spring 1972), pp. 18-19. Found by the same read (issue 94).
+19. "The Indian's Creed," reprinted from Ernest Thompson Seton, *The Book of Woodcraft and Indian Lore* (Doubleday, New York), in *Canadian Camping* Vol. 30 No. 1 (February 1978), p. 6 [src_ia_canadian_camping_collection]. Found by the same read (issue 117).
 
 ## Research Notes
 

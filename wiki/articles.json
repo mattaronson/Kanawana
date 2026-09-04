@@ -2199,6 +2199,13 @@
           "by": "auto",
           "task": "RESEARCH",
           "note": "Word-for-word read of Canadian Camping, issue 116: new paragraphs on how the CCA became a bilingual association -- Paul Belanger persuading the board at Regina in 1971, producing Le Comite des Camps Francais and a new constitution recognising both language groups -- with Belanger's record (Camp-Ecole Keno 1964, ACQ president, first president of the CCA French Language Camping Committee, chairman of the first French Language Camping Conference at Montmorency Forest in April 1976) and the structural consequence for Kanawana's own accrediting body. Sub-source 8ac; header count unchanged at 13."
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-09-04",
+          "by": "auto",
+          "task": "RESEARCH",
+          "note": "Word-for-word read of Canadian Camping, issue 117: new paragraph recording that the QCA executive met monthly at the Montreal YMCA through 1978 -- the provincial body that accredited Kanawana, presided over by Kanawana's own director, meeting in the building of the institution that owned the camp -- together with the section's public programme for the year. Sub-source 8ad; header count unchanged at 13."
         }
       ],
       "ralph_loops_completed": 1,
@@ -2262,7 +2269,8 @@
       ],
       "sources_cited": [
         "src_concordia_atom_12B05",
-        "src_trent_oca_fonds_72_007"
+        "src_trent_oca_fonds_72_007",
+        "src_ia_canadian_camping_collection"
       ],
       "open_questions": 6,
       "cross_links": [
@@ -2835,6 +2843,13 @@
           "at": "2026-07-11T00:00:00Z",
           "by": "auto",
           "task": "REVIEW"
+        },
+        {
+          "status": "E1-reviewed",
+          "at": "2026-09-04",
+          "by": "auto",
+          "task": "RESEARCH",
+          "note": "Word-for-word read of Canadian Camping, issue 117: added J. Harry Ebbs's national recommended inventory for a camp infirmary (50-100 campers) against the article's bare 'Infirmary (1920s?)' line -- equipment, and a drug list including ASA with codeine, phenobarbital, penicillin, triple sulpha and Achromycin. Explicitly labelled a national recommendation, not a description of Kanawana's own infirmary. Also flags 'illness and accident record forms' as a camp record category to look for by name. Sources 42 -> 43."
         }
       ],
       "ralph_loops_completed": 3,
@@ -2931,7 +2946,8 @@
         "src_vss_plan_urbanisme_2024",
         "src_vss_reglement_zonage_222_2008",
         "src_wikimapia_kanawana",
-        "src_oral_aronson_julien_tasse_caretaker"
+        "src_oral_aronson_julien_tasse_caretaker",
+        "src_ia_canadian_camping_collection"
       ],
       "open_questions": 6,
       "cross_links": [
@@ -6865,6 +6881,13 @@
           "at": "2026-09-04",
           "by": "auto",
           "task": "RESEARCH"
+        },
+        {
+          "status": "R3-verified",
+          "at": "2026-09-04",
+          "by": "auto",
+          "task": "RESEARCH",
+          "note": "Word-for-word read of Canadian Camping, issue 117 (Vol. 30 No. 1, February 1978): new section 'Seton's creed still in print in 1978' -- the association reprinted all fourteen articles of 'The Indian's Creed' verbatim from Seton's Book of Woodcraft and Indian Lore, without comment, eight years after the Red Power movement and in the same run that had carried Edgar's and Eastaugh's more self-conscious pieces. Dates the persistence of the framework this article traces into Kanawana's council ring. Sources 18 -> 19."
         }
       ],
       "ralph_loops_completed": 1,
@@ -6885,7 +6908,9 @@
         "f_1558",
         "f_1559"
       ],
-      "sources_cited": [],
+      "sources_cited": [
+        "src_ia_canadian_camping_collection"
+      ],
       "open_questions": 4,
       "cross_links": [
         "myths-and-legends",

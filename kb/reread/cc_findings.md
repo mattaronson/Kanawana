@@ -20912,7 +20912,18 @@ national body the run has shown.
 
 **★★ BRUNO MORAWETZ, "THE IMPORTANCE OF THE UNIMPORTANT"** — the fullest statement of camp
 philosophy in the newsletter era, from the director of Camp Ponacka, who has already appeared in this
-read as the source of the "Indian Burial ground" reading (`site/indigenous-names-and-land.md`). The
+read as the source of the "Indian Burial ground" reading (`site/indigenous-names-and-land.md`).
+
+> **Patched in place 2026-09-04, while reading issue 117.** This is a **reprint**, not a new article.
+> The essay first ran in **Vol. 27 No. 4, June 1975 (issue 105)**, and is already cited in
+> `site/indigenous-names-and-land.md` as source 17. Both printings are in the cache; I checked them
+> against each other rather than assuming. They are substantially the same text — **with one
+> difference that matters for the sentence quoted below.** The 1975 original ends the passage on camp
+> mystique at "…a camp is the expression of the individual who runs it." **"Woe to the camp which
+> yearly changes its directors!" appears only in the 1977 reprint.** So that sentence is Morawetz
+> writing in 1977, or an editor adding it then; it is not available as a 1975 statement, and anything
+> built on it should be dated to the reprint. The 1975 text also reads "our camps **should** be made
+> into little Switzerlands" where 1977 reads "**could**". The
 argument is that a camp's real work is done in "**thousands of small incidents, each of them
 seemingly unimportant**," and that a director should therefore **delegate the "important" things —
 routines, maintenance, buying — to keep himself free for the unimportant ones**, "such as being free
@@ -21280,3 +21291,155 @@ about three times longer"), wax paper over stove grills, the walk-in refrigerato
 because it is "a great place to grow MOLD", **canoes stored on benches or rafters so both gunwales
 carry the weight rather than flat on the floor**, and mattresses left in their own cabins rather than
 piled — "also combustion hazard."
+
+---
+
+## 117 — Vol. 30 No. 1, February 1978
+
+Twelve pages. Every item accounted for: Food Purchasing, Budgeting and Menus at Camp (Elmer Bogyay);
+A Director's Checklist — March (Eanswythe Flynn); an Open House Canada notice; The Indian's Creed
+(Ernest Thompson Seton); Medical Supplies for the Camp Infirmary (J. Harry Ebbs); Meet Your CCA
+Executive; Canoe Schools; Coming Events (bilingual); What's Cooking? (Helen Stewart); the Boys and
+Girls Clubs of Canada Program Manual notice. **Kanawana is not named.**
+
+**★★★★ SETON'S "THE INDIAN'S CREED", REPRINTED IN FULL IN 1978.** The association printed all
+fourteen articles verbatim over Seton's name, cited to *The Book of Woodcraft and Indian Lore*,
+without comment, introduction or context. It is a white naturalist's idealised composite in the past
+tense and the singular — "he believed in the sacredness of property. **Theft among Indians was
+unknown**"; "he believed that the noblest of virtues was courage… **the most shameful of crimes was
+being afraid**"; a death met by putting on "the paint and honours of a hero going home."
+
+**Written into `site/indigenous-names-and-land.md` as a new section (sources 18 → 19)**, with the
+dating point that matters: this was reprinted in **February 1978** — eight years after the Red Power
+movement, five after Wounded Knee, and in the same run that had already carried Mary S. Edgar's and
+Jack Eastaugh's more self-conscious pieces on the same subject (issues 93 and 98). **The framework
+this project traces from Seton through Statten into Kanawana's council ring had not been retired by
+the camping establishment; it was still being handed on as it stood.** That is a fact about the
+institutional context of Kanawana's own ceremonies in the late 1970s, and it is datable.
+
+**★★★★ J. HARRY EBBS'S INFIRMARY LIST — what a Canadian camp infirmary held, item by item.** Ebbs
+(Adele Ebbs's husband; the Wapomeo camp doctor and a recurring health writer in this run) gives a
+complete recommended inventory for "a residential summer camp for children with an enrolment of
+about fifty to one hundred campers" — half Kanawana's registered size, so a floor rather than a
+match. **Written into `site/the-kanawana-site.md` (sources 42 → 43)**, against the bare "Infirmary
+(1920s?)" line the article previously carried.
+
+The equipment list is a small ward: a wash basin per bed, solution and kidney basins, adult and child
+bedpans, **folding stretcher, adjustable crutches, balance scales, electric sterilizer, goose-neck
+lamp, small refrigerator, locked metal cabinet**, splinter and dressing forceps, two haemostats,
+**twenty-five disposable hypodermic syringes and twenty-five needles**, and gauze, crepe, flannel and
+triangular bandages by the dozen. The drug list is the striking part: beyond ASA, milk of magnesia,
+calamine, kaopectate and ear and toothache drops, a camp was expected to stock **ASA with codeine,
+100 tablets of phenobarbital, 100 tablets of penicillin at 250,000 units, 100 tablets of triple
+sulpha and 100 capsules of Achromycin** — a barbiturate and three antibiotic lines held in a camp
+cupboard — with the attending doctor separately supplying "**narcotic drugs, penicillin for
+injection**," anaesthetic material, adrenalin, steroids and intravenous sets, plus **a snake bite
+kit** where required and arrangements for tetanus toxoid and rabies information. Ebbs closes with a
+records instruction: "the director in consultation with the doctor should have suitable and adequate
+**illness and accident record forms**" — a category of camp record this project has not located for
+Kanawana and should now look for by name.
+
+**★★★ CORRECTION MADE TO BLOCK 114, and how it was found.** Reading the "Meet Your CCA Executive"
+profiles sent me back to `site/indigenous-names-and-land.md`, where source 17 cites Bruno Morawetz's
+"The Importance of the Unimportant" to **Vol. 27 No. 4, June 1975** — while I had written it up at
+issue 114 as an item of the June 1977 issue. Both are right: it is a **reprint**, and both printings
+are in the cache. I compared them rather than assuming, and found one difference that matters:
+**"Woe to the camp which yearly changes its directors!" appears only in the 1977 reprint**; the 1975
+original ends that passage at "a camp is the expression of the individual who runs it." Since I
+quoted that sentence at issue 114 beside Kanawana's four directors in three years, the date matters.
+**Block 114 has been patched in place** to record the reprint and the textual difference. (1975 also
+reads "our camps **should** be made into little Switzerlands" where 1977 reads "**could**".)
+
+**★★ EILEEN MAYOTTE WAS SECRETARY OF THE QUEBEC CAMPING ASSOCIATION.** From her executive profile:
+"During her illustrious career in camping, Eileen has had responsibility for camps and campers in
+**four provinces — Ontario, Quebec, Saskatchewan, and B.C.** Her camping endeavors have lead her into
+**church camping, YWCA and camps for underprivileged children. In the distant past she was the
+Secretary of the Quebec Camping Association.** She was one of the founders of the Saskatchewan
+Camping Association, and for many years was its President." She was appointed CCA Secretary at
+Squamish in April 1977 and elected Vice-President at Moncton in November on Belanger's departure.
+**This gives the Mayotte stub a Quebec connection** — she held the same QCA office A. Ross Seaman
+held from about 1949, at some undated earlier point — and makes her one of the few people in this run
+whose career crosses agency, church and YWCA camping as well as four provinces. **Her stub is now
+clearly warranted.**
+
+**★★ The other executive profiles**, each dated and each useful. **Jack Pearse**, President
+**1977-1979**, of Waterloo: began directing camps in **1949** with the YMCAs of Charlottetown and
+Ottawa; **Director of Camp Tawingo, a year-round camp, since 1961**; **first President of the Eastern
+Ontario Camping Association**; past-president of the OCA and current chairman of its Past Presidents'
+Council. **Ron Johnstone**, Immediate Past President, of London: YMCA camps in Ontario and
+Saskatchewan; settled in London in **1955**; **operated Camp White Bear on Lake Temagami until the
+fall of 1976**; joined the OCA in **1946**; Conference and Standards Chairman before becoming OCA
+President **1972-74**; "**combined this presidency with that of the Society of Camp Directors in
+1973**" — a dated link between the two bodies, and relevant to the Society's disputed inaugural
+dinner date already flagged in this read; **founding executive of the Council of Outdoor Educators**,
+**first President of Canoe Ontario**, now President of the CRCA. **George Simonett**, Treasurer: 20
+years a director of physical education for the **Ottawa Board of Education** and President of the
+Physical Education Directors' Association; took leave in 1976 to run a year-round camping and outdoor
+education centre. **Jane McCutcheon**, Secretary, of London: began camping in **1967**; counsellor,
+section director, office staff, music director, co-ordinator of leadership development; two years
+manager of a year-round outdoor centre; chaired the OCA Counsellor Conference; studying for an MBA at
+Western.
+
+**★★ The Quebec calendar for 1978, in more detail than December's** — and one line worth having:
+**the QCA executive met at the Montreal YMCA**, on 13 February, 13 March, 10 April, 8 May and 12
+June. The provincial body that accredited Kanawana, presided over by Kanawana's own director, held
+its monthly executive meetings in the building of the institution that owned the camp. Its public
+programme for the year: **28 February**, general meeting, "**Looking at Camp Thru the Eyes of a
+Camper**", a panel of four campers; **17-18 March, QCA Conference**; **18 April**, general meeting,
+"**Let's Get Ready for the Summer**"; **27 May, QCA Counsellor Conference** and a **QCA Standards
+Meeting**; with the French section's stages de plein air (3-5 and 12-14 February, 26-28 February,
+12-14 and 26-28 May), soupers-causeries, and a **séminaire des directeurs de camps, 7-9 April**.
+**Written into `canadian-camping-movement.md` with new sub-source 8ad**, noting that minutes or
+attendance lists from any of these would place Kanawana's director by name and date.
+
+**★★ Elmer Bogyay on food purchasing** — food manager at Trinity College School, and the most
+detailed account of camp catering economics in the run. "**What you can buy today, you cannot buy
+tomorrow**": he bought a year's coffee in June 1976 and it appreciated "almost 100%"; sugar went from
+**$21 a bag to $91 at peak**. He deals with **25 companies**, keeps charts by company by month, never
+turns a salesman away, and carries **$35,000-$40,000 of inventory** in his storeroom. Practical rules:
+convert prices ounce by ounce because packaging sizes differ deliberately; test a large purchase on
+ten or fifteen pounds first (he once received weiners "meant for the hospital"); **check the weight of
+the garbage bag every day**; don't make the supplier stop the truck twice, since "it costs the
+supplier… **$15 to stop the truck**"; and be present when a big delivery arrives, because "once the
+truck pulls out, they are no longer responsible."
+
+His menu rule is the quotable one and bears on camp culture as much as cost: "**NO ROTATING MENUS. I
+cannot press this point strongly enough**… the kids coming into the dining room will know that the
+first Wednesday is macaroni and cheese, the first Saturday is spaghetti." And a passage that sets
+kitchen against tripping department in a way any camp with a canoe programme would recognise: "**Don't
+let your tripping director influence you, even if he has been doing it his way for fifteen years. If
+you are running the food service he is going to change. His job is to make sure the kids have a good
+route, your job is to make sure the kids have good food at the best possible price**" — with the
+specific instruction to buy juice crystals in five-pound packages and have the trip room repackage
+them, since "75% of the food could come from the kitchen and not the trip room and be bulk
+packaged."
+
+**★ The canoe schools devolve to the provinces.** "The original concept was to plant a 'seed' and
+hope that in a few years others would step in… **This year several provinces are planning schools of
+their own, leaving only three to be directly sponsored by the C.R.C.A.**" Newfoundland under Walter
+Crotty; **"The Province of Quebec with its strong Canoeing organization will offer a program to the
+public"**; Canoe Ontario in August; Alberta planning. The Quebec school is now a provincial
+programme open to the public rather than a national school held at Gracefield — a change of character
+worth noting against the 1967-1977 record built up across issues 87, 110 and 111.
+
+**★ Eanswythe Flynn's March checklist** completes the off-season year: last call on income tax;
+**have fire extinguishers checked by a safety company or the fire department, pressure gauges and
+tanks, plus fire hoses, nozzles and attachments**; discuss menus with the cook, "**consider use or
+non-use of margarine and skim milk**"; hold first staff meetings if hiring is done; "**Perhaps your
+job analyses are not expressed as well as they should be. Review these as well as the staff
+manual**"; first spring visit to the property to check "**beaver and mouse damage, ice and frost
+damage to docks, steps, tent platforms**"; plan tree planting with advice from the Ministry of
+Natural Resources; and — a line that shows what a camp had to track — "**Keep in touch with your
+provincial camping association for any changes in legislation such as labour regulations,
+Unemployment Insurance, salary scales, fees for canoe trippers in provincial parks**."
+
+**Minor.** **Open House Canada**, the Secretary of State's youth exchange, paid the fare for anyone
+aged 14-22 to visit another part of Canada for at least five days; the CCA had hoped to build a
+programme on it and could not, but printed the notice "in case individual camps wish to participate"
+— a federal travel subsidy a camp could have used in 1978. Helen Stewart's *Cookery for Kids, Kamp
+'n' Kicks* is excerpted with three recipes (skillet pudding made with broken graham crackers, foil
+hot dog bake, Seven Seas casserole) and sold at **$3.50**. The **Boys and Girls Clubs of Canada**
+announce a Program Manual approved by Recreation Canada and the Secretary of State, with camping
+chapters contracted out — Doug Soo on resident camping, Peter Claghorn and Ralph Hembruff on
+wilderness camping, Brian Donnelly on "low-cost non-facility camping" — offered for sale to other
+organisations, and printed here in both languages.
