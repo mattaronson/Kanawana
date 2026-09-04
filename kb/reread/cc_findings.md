@@ -19654,3 +19654,78 @@ published 1975. Larry Johnston's Outdoorsman is a history of the northern pike's
 Canada, noting that Canadians "still considered pike fishing a waste of time" until biologists
 established in 1938–48 that predator abundance governs the size of other fish. No Kanawana reference
 in this issue.
+
+## 106 — Vol. 28 No. 1, November 1975 — A FOUR-PAGE NEWSLETTER
+
+**★ A publication-history fact for the sources index.** This issue is not a magazine. The editor's
+note at the head of page one: "**Without any doubt, the mail strike has brought its hardships and
+'Canadian Camping' is no exception.** Unfortunately, when the time for typesetting arrived, we were
+lacking in advertisements and editorial content which included resumes in French. Recognizing we had
+a definite commitment to our reading public, **the decision was made to publish a four page
+Newsletter.**" So the 1975 Canadian postal strike produced a four-page number where a magazine
+should be — the second interruption in two years, after the February–November 1974 suspension
+(issue 102). Anything expected in a Fall 1975 issue and not found is accounted for by this. Read in
+full; there is no contents page, and the whole issue is: Have You Heard? Do You Know?; Naturecraft
+Collectibles (Ottelyn Addison); Children and the Outdoors (John Pratt); and two classified notices.
+
+**★★ A published booklet on hébertisme, by Claude Cousineau.** A boxed notice:
+
+> **"HEBERTISME" — a new booklet written by Claude Cousineau and published by the Ontario Ministry
+> of Culture and Recreation. 50 cents each from: Ontario Government Publications Service, 3 B-7
+> Macdonald Block, Queen's Park, Toronto, Ontario.**
+
+**This is the document that would settle the Hébert origin conflict.** Cousineau's account at issue
+82 has a pre-war *méthode naturelle* demonstrated in 1913 and carried to Quebec after the Second
+World War by Father Raoul Cloutier and Georges Gauvreau; Walter Mingie's at issue 94 has Hébert
+training the French navy *during the First World War*. Cousineau is the author of one side of that
+conflict and here writes it up at length for a provincial government publisher — **a citable,
+findable, catalogued item**, not a magazine article. Worth searching: Ontario government publications
+of 1975, Library and Archives Canada, the University of Ottawa (where Cousineau taught), and WorldCat.
+Recorded as a lead; the conflict stays open until the booklet is read.
+
+**★ Quebec news.** "**Mr. Gil Cardinal is the new dynamic Executive Director of the ACQ-QCA**" —
+succeeding Yves Beauregard, who left for the Camp des Enfants Infirmes (issue 101). And a training
+model worth noting: "**A pilot project is now in progress with a new slant on the training of
+counsellors. Selected counsellors from Quebec Camps are given a course at a central location on the
+understanding that these people will return to their own camps and train their camp staff**" — a
+train-the-trainer scheme running in Quebec camps in 1975–76, which Kanawana as an accredited member
+camp would have been eligible for. **And the 1976 CCA Annual Meeting is set for Quebec City, 28–30
+April, in conjunction with a French Language Conference, "Activité Éducative du Camp de Vacances —
+Educational Activity of Camping."** A national annual meeting in Quebec, with a French-language
+programme — the second national gathering in the province in two years (after Montreal, October
+1974).
+
+**Other movements.** **Rick Ryan, former BCCA president, has moved to Montreal to become Executive
+Director of Boys' Clubs of Canada** — another camping figure relocating to Kanawana's city. **John
+Hasell**, of Outward Bound, becomes BCCA president. The **Alberta Camping Association visited over
+60 camps in its 1975 accreditation programme**. The **National Outdoor and Environmental Education
+Conference** was held 1–5 October at Fort Qu'Appelle. **99% of camps in Newfoundland and Labrador are
+NLCA members**, and NLCA camps "were oversubscribed last summer." The 1976 OCA conference is booked
+for the Inn on the Park, Toronto; the 1977 CCA annual meeting for Prince George, B.C.; and the ACA's
+January 1976 conference for **the Yamnuska Centre, "the new YMCA training camp about 25 miles from
+Banff"** — a new YMCA facility, dated.
+
+**★ Ottelyn Addison, "Naturecraft Collectibles."** Addison is the author of *Early Days in Algonquin
+Park* reviewed at issue 101 and the daughter of the ranger Mark Robinson. A camp crafts programme
+built entirely from gathered natural material, with a conservation ethic stated throughout — "**a
+big 'if': none of them will deplete the environment**"; "always remember there is **no picking of
+any sort in Conservation Areas or Provincial Parks**"; "only take what you actually can use." The
+techniques are specific and datable: cones threaded on nylon fishing line; **a sack of cones from
+the Ministry of Natural Resources Seed Extraction Plant, Angus, Ontario, for $2.00**; acorn caps
+glued before drying; plaster casts of animal tracks; goldenrod galls made into figures, with double
+galls for "people" and a thistle seed-head for a straw hat; **cobweb pictures**, sprayed with paint
+on both sides against newspaper and lifted onto coloured paper with clear spray; and **plant
+printing on sensitized paper obtained from a drafting or architect's office**, developed with 24%
+ammonia. Also the botany: dry-habitat plants growing together; weeds mostly brought from the Old
+World by early immigrants for their medicinal qualities, with **boneset** as the example — "the
+plant that supposedly saved the lives of hundreds of early settlers"; blues impossible to press
+because the pigment is water-soluble. Directly usable for an arts-and-crafts or
+environmental-history account of what camp naturecraft meant in 1975.
+
+**John Pratt (Camp Samac, Durham Region Board of Education), "Children and the Outdoors"** — a short
+definition of outdoor education from the school-board side, arguing "there is **no substitute for a
+week-long camp experience** … This allows attitudes and not just skills to be developed." The
+editor's note announces that from now on **an outdoor education article will appear in every issue,
+starting in the National Directory Issue** — which is the next number and which contains Kanawana.
+
+No Kanawana reference in this issue.
