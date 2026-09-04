@@ -12871,3 +12871,204 @@ March.
 Nothing in this issue names Kanawana. Its value is the Forgie obituary and the correction
 it forces, the Expo International Camping Day with the QCA's new board, Seaman teaching
 evaluation in Moncton, and the staff-generation essay.
+
+## 78
+
+`canadiancampingmagazine_vol20_no3_1968spring.txt` — Vol. 20 No. 3, Spring 1968.
+
+Contents page (checked against this block): Among Ourselves (Sophia Demetelin and
+Jack Wray) · Interview (Dr. Peter Moon) · The Gap Doesn't Need to Get Wider (counsellors'
+reply) · Films At Camp (Mrs. W. Haynes) · When Guides Go Camping (Marion Roseborough) ·
+Centenary Journey (Faye Eccleston) · Tell Us Your Story (Margaret Govan) · Recreation
+Training in Ontario · Safe Out-Trip Swimming Area · Geneva Park Conference (Jack
+Passmore) · Your Library Shelf (Margaret Govan). All eleven covered, plus "Night Lights"
+and a camp menu.
+
+**★ QUEBEC — Sophia Demetelin profiled, and a Laurentian camp new to this project.**
+By **Frances Kelly, Executive Director** of the QCA. Demetelin was "born and educated in
+Montreal, receiving a special teacher's certificate in the Greek language," mother of two
+daughters, living at 515 Rockland Road, Town of Mount Royal. And: "**Camp Demetelin, an
+accredited member of both the Quebec Camping Association and the American Camping
+Association (a private co-ed camp, situated at St. Donat in the Laurentians) is owned and
+operated by Mr. and Mrs. N. D. Demetelin.**" A **private co-educational camp at
+St-Donat**, ACA- and QCA-accredited, run by a Greek-Canadian couple — a Laurentian camp
+absent from `quebec-camp-landscape.md` and a candidate for a `related-camps` note. Her
+election is dated precisely: "It was at this meeting [International Camping Day at Expo]
+that our new president was elected to the provincial board (**co-ordinating body English
+and French Sections**), on September 23, 1967."
+
+Her civic work is worth recording because it is unusual in this run: "**In order to show
+the Hellenic community's appreciation for many free services rendered by the Royal
+Victoria Hospital to the Greek immigrants in Montreal, Mrs. Demetelin conceived the idea
+of a Hellenic festival, the proceeds of which were donated to the Royal Victoria
+Hospital. With this donation, the Royal Victoria Hospital built a new laboratory for
+detecting rare blood diseases in women, and named it 'the Hellenic Research Laboratory'.
+Mrs. Demetelin is a volunteer interpreter in the laboratory.**" Memberships listed include
+the Hellenic Ladies' Benevolent Society, the Quebec Society for Crippled Children (Tony
+Shorgan's organisation), the Montreal Folk-Lore Festival and the Montreal Greek Orthodox
+Youth Association. **A strong stub candidate** — the first woman president of the Quebec
+Camping Association, a Greek immigrant community leader, and a camp owner.
+
+**Masthead:** the CCA vice-presidencies for Ontario and Quebec are now **John R. Latimer
+(Ont.)** and **Mrs. N. D. Demetelin (Que.)** — so **A. Ross Seaman is off the CCA
+executive**, having also stepped down from the QCA presidency in September 1967 (issue
+77). Kanawana's director's association offices can now be dated: QCA president to
+September 1967, CCA vice-president for Quebec December 1966 – spring 1968.
+
+**★ Faye Eccleston, "Centenary Journey — British Columbia's Story" — the completed
+journey from another province, and confirmation of the log chain in operation.** The B.C.
+section: **230 participants**, a **900-mile trek** as "a continuous journey of 40 days,
+July 7th to August 15th" [1967]. Continuity was kept by passing **a beaver pelt, trapped
+and donated by Rocky Mountain Boys' Camp**, on which "each participating group inscribed
+names, dates and area covered" — a relay token of exactly the kind Latimer proposed at
+issue 72, and worth asking whether Quebec's section had one. Highlights: **Camp Deka's
+414-mile paddle down the Fraser** with eight campers and two leaders (Camp Deka being the
+national president's own camp); the Quesnel Land Rangers hiking 52 miles of the old Fur
+Brigade Trail in Centennial costume because "the horses were needed for unexpected
+haying"; interior stretches covered "by foot, bicycle, haywagon and canoe"; war canoes on
+Howe Sound; and a final relay in which "15 Victoria Y.M.–Y.W.C.A. campers jogged the 7½
+miles, relay style, one-half mile each, (oh yes, carrying the beaver pelt)" to Portage
+Inlet, where canoeists took it into Victoria's Inner Harbour. The pelt went to the B.C.
+Centennial Chairman and thence "to be mounted in the **Provincial Museum**."
+
+And the chain, stated plainly: "**Each participating organization has forwarded reports of
+its section including log, history, map, coloured slides and black and white pictures.
+These are being sent to Toronto for a national Centenary Journey publication, and a
+cross-country coloured slide collection which will be on loan to interested
+organizations.**" So beyond the 1971 book, there was **a national collection of colour
+slides and photographs from every participating camp**, assembled in Toronto and lent
+out. **If Kanawana's crew sent slides, they went into that collection** — a second,
+distinct archival target alongside the Quebec provincial log. Also noted: at the B.C.
+reception of 14 October 1967, congratulatory wires from **Prime Minister Lester B. Pearson
+and Secretary of State Judy LaMarsh** were read, and **Mrs. Marianne Linnell, a Director
+of the Canadian Centennial Commission, presented certificates to the participants** —
+which means **participation certificates were issued**, and one may survive in a Kanawana
+paddler's papers.
+
+**★ "The Gap Doesn't Need to Get Wider!" — counsellors from seven camps answer the
+previous issue.** The magazine printed the complaint (issue 77) and then printed the
+reply, compiled from "a group of Counsellors from 7 different camps." Their case: "Just as
+there can be a lack of communication between two adults so there can be a lack of
+communication between a counsellor and a director… **Our parents hid many of their
+problems and concerns behind veils of hypocrisy; and now, when their children do what
+they wished they could have done, and say what they wished they could have said, the
+parents throw up their arms in alarm.**" On rewards: "How can these rewards — satisfaction
+and pride in oneself — be attained by those who have not applied themselves? **Aren't
+these the same benefits which the Camp Director who sits back thinking of the 'good old
+days' also strived for?**" And on being characterised: "The author sees us as a nameless,
+faceless, groping mass, desperately searching for boundaries… **We aren't special!**"
+
+Their list of what they want from a director is the useful part, and it is a period
+document of staff expectations: "We want to know where we stand!… **We distrust the Camp
+Director who criticizes the whole staff for the mistakes of a few**… we don't want a Camp
+Director who capitulates his position and refuses to offer guidelines… **We want a
+Director who isn't afraid to be 'square' if the welfare of Camp and Campers is at
+stake**… We don't want our Camp Director sitting in an Ivory tower, never welcoming us
+into his cabin… We want a Camp Director who has a clear cut definite philosophy about
+camping… **We need to know our weaknesses and need to be recognized for our strengths…
+not just by a Section Director or Programme Director, but by the man who is directly
+responsible for our hiring and firing.**" That last sentence is a counsellor's own
+statement, in 1968, that evaluation should come from the director and be shared with the
+person evaluated — a seventh voice for the `p_307` thread, and the first from the
+evaluated side rather than the evaluating one. Their close: "**So fear not Camp Directors
+… we're not about to overthrow or abandon you, as long as you are determined not to write
+us off as a dead loss. Meet you half-way!**"
+
+**Dr. Peter Moon, "Interview!" (first of two parts)** — a consulting psychologist on
+staff selection, and the first professional treatment of hiring in this run. "We are
+attempting to gather enough information about a person to make a predictive statement
+about his success or failure on the job… **There is a risk in all selection procedures —
+a risk of hiring failures and of rejecting people who might do well on the job. You can
+only minimize this risk, you cannot eliminate it.**" On the interviewer: "**Unguided
+practice does not make perfect. You can interview for years and do nothing but perfect
+your own mistakes**"; "Before you try to judge people know yourself. Know your own biases,
+your own prejudices… So listen to your own thoughts when you see people with faces you
+don't like, physical handicaps or big smiles." On the application form as evidence:
+"**What does it tell you about the person beyond what he wants you to know?** Is it neat
+or careless in format?… Does his job history reflect any purpose or direction?" Relevant
+to the `p_307` thread in a way worth noting: this is the same period's professional
+framing of the *hiring* record, the counterpart to the *evaluation* record already
+documented, and it explains why staff application files (which Eastaugh's 1964 supervision
+method also began from) contain judgements as well as facts.
+
+**Jack Passmore, "Geneva Park Conference — Outdoor Education"** — an Ontario conference
+of about **seventy-five delegates** that "grew out of [a] luncheon discussion" at the
+Canadian Symposium of Recreation in Montreal, with **Dr. John Kirk** of the New Jersey
+State School of Conservation as keynote. Its interest for this project is the naming of
+the Ontario prototypes — "**the excellent pioneer work of the Toronto Island School of
+Natural Science and the Albion Hills Conservation School**" — and the honest statement of
+the obstacle: "While recognizing that ideally every pupil should have at least a one-week
+experience at a residential school or camp, **the problem of providing for all pupils made
+this plan very costly and impractical**." Quoted delegates include **Prof. Lorne Brown** —
+"**Every School of Physical Education should have an Outdoor Education project**" — and
+**Prof. W. S. Peruniak** on the Atikokan Outward Bound programme (issue 73): "**Moral and
+intellectual integrity cannot be learned from textbooks or contrived in the laboratory.
+Every individual should be given an adventure early in life, so that he can discover
+himself in the round.**" The epigraph is from **Dr. Mary Northway, "Outdoor Education — A
+Second Chance," *Bulletin of the Institute of Child Study*, University of Toronto**, Vol.
+27 No. 1 — a citable Northway paper. And **W. J. Babcock** describes the change in his own
+tripping that this whole run has been circling: "In the early days we always took a great
+deal of pride in paddling as far as we could each day. **We passed through many sparkling
+trout streams without wetting a line — rarely paused long enough to take a picture**…
+Our principal goal was to try to complete the trip faster than other groups… there was
+'so little for the mind'." He also reports an **archaeological dig at the Indian village
+of Cahiagué near Orillia, "believed to be the site where Champlain wintered in the year
+1615"** — a camp/school programme working on an actual excavation.
+
+**Marion Roseborough, "When Guides Go Camping"** — the clearest statement in this read of
+how the **patrol system** differs from the counsellor system, which matters because
+Kanawana's own section structure sits between the two. "Instead of the counsellor, **each
+patrol of not more than eight girls has a leader elected from its own membership**. We
+have a minimum of one adult to every eight guides, but they are distributed differently,
+to give the patrol leader as much opportunity to lead as possible." Camps of "not more
+than 36 girls… aged 10–14"; the girls plan the camp themselves — "make out menus, buy the
+groceries, figure out the cost per person, make out time tables, arrange the tenting, and
+in fact make the adults quite unnecessary"; duties rotate through a **Wood and Water
+Patrol, Sanitation Patrol and Cooks**; and "**Tent inspection is VERY important — if they
+are badly pitched and not properly cared for, where do you go when it rains?**" Scale:
+"**Last year 1,200 Nova Scotia Girl Guides spent anywhere from two days to two weeks
+enjoying this type of camping.**" Brownies (7–10) camp indoors in Pack Holidays of no more
+than eighteen for no more than a week; Rangers (14–18) do canoe trips and backpacking and
+serve as junior leaders.
+
+**"Safe Out-Trip Swimming Area" (Boy Scout material)** — how to make a waterfront out of
+nothing on a trip, which is directly applicable to canoe-trip practice: a **flag buoy**
+from two crossed sticks with a vertical piece, "a flag on top (neckerchief or rag) and a
+rock on the bottom for an anchor"; a **buddy board** from whittled pegs flat on one side,
+one per camper, stuck in the ground in buddy pairs on check-in and pulled on check-out;
+and a **heaving line** made by threading ¼″ rope through a 4″ sponge rubber ball with a
+crown or figure-of-eight knot to hold it. The **Boy Scout Defence Plan** in seven points
+sets the ratios: areas marked at 3½ ft for non-swimmers; "**A minimum of two lifeguards to
+be on duty with extra lifeguards on the basis of one per 20 swimmers**"; ability groups
+tested at 50 ft and 100 yards ("25 of them on back"); buddies "within 10 ft of each other
+at all times," with a buddy signal "approx. every five minutes."
+
+**Mrs. W. Haynes, "Films At Camp"** — how camps got films, with the supplier list, which
+is a small but genuinely useful piece of camp-practice history: **Crawley Films** (Ottawa,
+"publish a list of free films annually"), **Canadian Industries Ltd. Film Library
+(Montreal)**, the Canadian Film Institute, the National Museum of Canada ("Eskimos, birds,
+geology, botany, mammals"), the Ontario Department of Tourism ("adventure, historical
+places, outdoor living"), the **Canadian Citizenship Council**, Columbia Pictures, and the
+**Anti-Defamation League of B'nai B'rith** ("counselling, prejudice, racial
+discrimination, anti-semitism"). Most were free on condition of prompt prepaid return.
+Method: choose in spring, "make up a list according to the weeks in which we feel the
+films might be shown," and have them delivered to camp on schedule.
+
+**Other notices.** **Jack Wray**, new president of the B.C. association, profiled: five
+summers as programme director at **Camp Potlatch**, Boys' Work Secretary of the United
+Church in B.C., Executive Director of the Calgary Boys' Club where he started "Camp
+Dventure," now nine months at Hastings Community Centre and three at **Camp Capilano**.
+An advertisement of note: **Master Canvas Craft Limited**, "Designers of the '**BARK
+LAKE**' OUT-TRIP TENT (7′ × 7′ × 5½′; 7½ lb.), **Recognized by National Design Council as
+a 'DESIGN OF MERIT'**" — a named Canadian camp tent design, from the Ontario leadership
+centre. **Recreation training**: Ontario is organising diploma courses from September
+1968 with **outdoor recreation as an area of specialization**, needing "about 15 qualified
+people… immediately," enquiries to **Lloyd Minshall** — the same Minshall whose parents'
+panel complaint ran at issue 65, now at the Ontario Department of Education. Margaret
+Govan reviews the republished **George M. Grant, *Ocean to Ocean*** (originally 1870s),
+recommending parts of it "be read or told at campfires." And a **"Pocket Stew"** recipe in
+tinfoil, per boy, "Cook in coals — 10 minutes on each side" — a dated camp trip recipe.
+
+Nothing in this issue names Kanawana. Its value is the Demetelin profile and Camp
+Demetelin, the B.C. journey's completed record and its national slide collection and
+participation certificates, and the counsellors' reply on evaluation.
