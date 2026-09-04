@@ -1,6 +1,6 @@
 # Camp Ouareau and Its Connections to Kanawana
 
-*Status: E1-reviewed | Sources: 10*
+*Status: E1-reviewed | Sources: 11*
 *Last Updated: 2026-09-04*
 
 ## Overview
@@ -9,7 +9,7 @@ Camp Ouareau is an all-girls summer camp (now serving girls and gender minoritie
 
 ## Founding and Early History
 
-In 1921, Jamieson and Halliday acquired land from Mr. Leguerrier on Lac Ouareau. Under Quebec law at the time, the women needed their fathers' permission to purchase property.^2 The camp opened in 1922, with both co-founders serving as directors for the first two seasons (1922–1923). Jamieson became sole director from 1924, serving until 1934.^1
+In 1921, Jamieson and Halliday acquired land from Mr. Leguerrier on Lac Ouareau. Under Quebec law at the time, the women needed their fathers' permission to purchase property.^2 The camp opened in 1922, with both co-founders serving as directors for the first two seasons (1922–1923). **The 1922 date is independently corroborated by the national association**, whose Central Region report for Spring 1982 lists among "some special anniversaries in the Central Region": "**(Qué) Camp Ouareau — 60 years**", alongside Glen Bernard Camp in Ontario at the same age.^11 A sixtieth anniversary observed in 1982 puts the founding at 1922, which is the camp's own date and not the competing 1920 claim — a second source, in a different decade and a different country's-worth of records, saying the same thing. Jamieson became sole director from 1924, serving until 1934.^1
 
 The Lodge, built in 1922, is one of the oldest log buildings still in use in Canada.^3 The property encompasses 14.5 hectares on Leguerrier Bay, including a peninsula and two islands, at 2464 Route 125, Notre-Dame-de-la-Merci.^2
 
@@ -92,6 +92,7 @@ It is worth recording here for two reasons. It is a dated fact about Camp Ouarea
 8. Camp Ouareau 2014 team name change announcement (campouareau.com).
 9. Madeleine Allen, "Parental Motivation Affecting the Attendance of Children at Summer Camp, Part 1: Information collected from data from Camp Ouareau, a summer camp for girls," *Canadian Camping* Vol. 29 No. 2 (March 1977), pp. 4-7 [src_ia_canadian_camping_collection]. Found by the full word-for-word read of the run (`kb/reread/cc_findings.md`, issue 112). Her surname is spelled "Madelene" in the 1974 issue cited elsewhere in this wiki and "Madeleine" here; both are the director of Camp Ouareau.
 10. Madelene Allen, "A Tribute," *Canadian Camping* Vol. 31 No. 5 (October 1979), p. 7 [src_ia_canadian_camping_collection]. Found by the same read (issue 127). Her surname is spelled "Madelene" here and in 1974, "Madeleine" in the March 1977 survey; the same person.
+11. Jane McCutcheon, "Central Region News," *Canadian Camping* Vol. 34 No. 1 (Spring 1982), p. 6 [src_ia_canadian_camping_collection]. Found by the same read (issue 141).
 
 ## Research Notes
 

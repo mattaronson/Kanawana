@@ -24413,3 +24413,282 @@ Camp**". And the Menu Feature, **Veal Parmesan for 50**, reprinted from Laurie M
 Makes The Camp Go 'Round* — a costed, quantified camp recipe of 1982 for anyone reading a kitchen
 record. The mailing label is again **Miss Marion Babcock, Newmarket**; the change-of-address specimen
 printed beside it is addressed to **Miss Marjor[ie Booth], 1806 Avenue Road**.
+
+---
+
+## 141 — Vol. 34 No. 1, Spring 1982
+
+Sixteen pages. Contents page checked; every item read: Letters to the Editor (two replies to the
+certification editorial); the Editorial, "Competition in Camps: Values in Turmoil!", printed **in full
+in both languages**; the masthead; Interview: June Labbett by Jay Haddad; Book Review and Publication
+News; President's Perspective by Jocelyn Palm; Western, Central and Eastern Region News; "Five top
+managerial skills"; the poem "One Solitary Life"; Michael Hatton, "The Great Canadian Canoe
+Exposition"; "Why Get Ill From Foods?" (Agriculture Canada); an OWL magazine contest notice; Jay
+Haddad's Group Dynamics Exercise ("Lost At Sea", with worksheet and answer sheet); J. H. Ebbs,
+"Blackflies!"; the Royal Life Saving Society Canada safety equipment page; John Latimer's
+International Camping Congress Update; the Congress fund-raising appeal; the Menu Feature; and the
+provincial office list. **Kanawana is not named. Quebec appears repeatedly.**
+
+**The publication's own particulars, now stated in a masthead**: "*Canadian Camping* (ISSN 008-3119)
+is **published quarterly**. CCA/ACC membership includes a subscription; **non-member subscription
+$6.00 a year or $15.00 – 3 years**… Material in *Canadian Camping* may not be reproduced in any form,
+without written permission of the editor. **Copyright 1982**." Editor **Jay Haddad**; Editorial Board
+**John Latimer, John Walker, Murray Wickwire**. So the six-times-a-year cadence recorded earlier in
+this read has become four, and the price has risen from $5.00. **For the deferred
+`meta/sources-index.md` section.**
+
+**★★★★★ THE NATIONAL ASSOCIATION TELLS ITS CAMPS TO ABOLISH COMPETITION, PRIZES AND BADGES — in the
+year Kanawana was running the L&V Games and the Order of Owens.** The editorial is printed entire in
+English and French and is the most direct challenge in the whole run to the kind of programme this
+project's traditions articles describe:
+
+> "**As soon as a race is organized with ten children where one child wins, you have nine losers; if
+> four relay teams compete, three are losers; if you have a first prize, you have losers!**… our
+> cities, through competition, create losers — MILLIONS OF THEM! **Our camps, unfortunately, are
+> doing the same thing!** **Awards, prizes, badges, competition, material success should all be
+> discouraged in camp programming.** Our standard really should be co-operation, intrinsic
+> motivation, individual levels, peer teaching and ego enhancement."
+
+Its five instructions to camps: "1) **Eliminate competition and challenges where you have winners and
+losers.** 2) If a child does succeed in a task or event, **do not give a material reward**; rather,
+praise and reinforce that she has done her very best. 3) Encourage co-operation and sharing: through
+tasks, chores, **canoe trips**, responsibilities, games and challenges. 4) Try to ensure that the
+game, activity or skill is an 'end' in itself… and not a 'means' toward the end — namely WINNING. 5)
+**Never belittle or berate a person; a behaviour or remark, yes; the person, never.**" It closes:
+"**Competition, as we know it, is a destructive force in our society — it should NOT be tolerated,
+reinforced or accepted in our camps!**" The French text is a full translation, not a summary, and
+substitutes **René Simard** for Brooke Shields in the list of the era's false heroes beside John
+McEnroe — an editorial choice worth noting in itself.
+
+**Written into `traditions/lv-games.md` and `traditions/order-of-owens.md`.** Kanawana in 1982 was
+running an inter-section competition with an annual trophy and a shield, and an honour society with
+an award ceremony. The national association's own editorial board was, that spring, telling every
+member camp that trophies, prizes and badges were destructive and should be dropped. **This is not
+evidence that Kanawana changed anything** — no such evidence is held — but it is the argument the
+camp's own competitive traditions were operating against, dated and in the camp's own trade press,
+and any surviving debate in a Kanawana director's report of the early 1980s about the Games or the
+Order should be read against it. The magazine's editor cross-references the editorial from the
+interview in the same issue, where June Labbett describes abolishing Camp Oconto's Best All-Around
+Camper cup in 1949 — so the editors were building a case, not making a passing remark.
+
+**★★★★★ THE 1983 CONGRESS SPEAKER LIST NAMES DR. HEDLEY DIMOCK.** John Latimer's Congress update
+prints the speakers and session leaders committed so far: **Sir Edmund Hillary** at the opening
+session on 26 January, **Dr. Leo Buscaglia** at the closing banquet on 29 January, and among the
+session leaders "Bruce Werber from the Colorado Outdoor Education Center for the Handicapped; Barbara
+Hertell, Youth Programmes Alberta Forest Service; **Bryce Taylor, one of Canada's most significant
+authorities on Indian Lore and Culture**; **Dr. Hedley Dimock**; **Steve Van Matre**; **Dr. Betty van
+der Smissen** (President of the American Camping Association); Chuck Kujawa (Incoming President,
+ACA); Nelson Weiters; **Ron Johnstone**; **Barry Lowes**; **Bruno Morawetz**; Brian Law; **Kirk
+Wipper**; Ken Low; **Bill Mason**; and Richard Underwood (N.A.S.A.)", with two speakers from outside
+North America committed, "one from Tokyo and another from New Delhi, India."
+
+**Hedley Dimock is a first-order figure in this project** — the Concordia professor who conducted the
+1960-61 counsellor-effectiveness research *at Kanawana*, built the Department of Applied Social
+Science out of the Montreal YMCA, and gave the CCA's 1967 keynote urging camps to move "from
+repressive to participative methods of programming" (issues 74 and 101). **This dates a further
+national appearance to January 1983 and is written into `people/hedley-dimock.md`.** It also bears on
+`p_325`: the article `sgw-concordia-connection.md` records that **Raye Kass** — Dimock's collaborator
+and Program Director of his centre — "presented on camp leadership at the International Camping
+Congress", undated. Kass is **not** on this preliminary list, but the list is explicitly incomplete
+("there are so many more from whom we have yet to hear"), and her closest collaborator is on it.
+**`p_325` updated with the partial list and with the point that the full programme is the thing to
+obtain.** Note also **Bryce Taylor**, described by the association as Canada's foremost authority on
+"Indian Lore and Culture" — a new name for `site/indigenous-names-and-land.md` and for the stub
+assessment.
+
+The Congress's finances are recorded too, and they are a small map of who backed it: the **Society of
+Camp Directors donated $1,500**, with each member asked to match it by giving **$19.83**; the
+**Protocol Office of the Ontario Government** gave a grant; the **Nova Scotia Camping Association**
+sent a cheque; **the Estate of Flora Morrison** donated "a sizeable amount in memory of one of
+Ontario's camping leaders"; and the **Camp Services Co-Op** gave $2,000. **The Department of External
+Affairs sent information to 32 countries.** The appeal was signed by **Al Goodman, Chairman,
+Fund-Raising Committee**, and promised that "every member who makes a donation… will be acknowledged
+in our printed programme material" — **so the printed programme contains a donor list, which is a
+second reason to obtain it: any Quebec or Montreal camp that gave will be named in it.** The Congress
+was co-sponsored by the **Ontario Camping Association**. Manitoba expected 60-75 delegates;
+Saskatchewan talked of chartering buses.
+
+**★★★★ DEREK WALSH IS STILL "(QUÉ.)" IN SPRING 1982 — and his magazine study is confirmed from the
+president's own pen.** Jocelyn Palm's President's Perspective lists every committee and task force
+chairman with their province. Two entries matter here: "**Derek Walsh (Qué.) is investigating the
+realities of publishing a Canadian Camping Magazine**", and "**Marnie Ellis (Que.) is gearing up her
+Public Relations and Promotions Committee for a Workshop in Toronto prior to the '82 Congress**".
+
+The first confirms the 1982 feasibility study already in `people/derek-walsh.md` and gives its terms
+in the president's own words. **The second thing it does is bear on that article's leading open
+question** — whether the "Derek Walsh (Camp Thunderbird, Victoria, B.C.)" of May 1979 is the same man
+and whether he moved west. The national president, listing her own task force chairmen by province in
+the spring of 1982, puts him in **Quebec**. That is the third Quebec attribution after the 1979 and
+December 1980 ones, and it is the most authoritative, since it is the president assigning her own
+volunteers. **Added to `people/derek-walsh.md`**, which now records that the B.C. reading rests on a
+single 1979 line against three later Quebec ones.
+
+**★★★ ROSAIRE CORBIN CHAIRS THE CCA'S FRENCH LANGUAGE COMMITTEE.** "**Rosaire Corbin (Qué.) chairs
+the French Language Committee and we are constantly seeking his input in order to develop an adequate
+picture of the French Language members of CCA/ACC.**" Two issues ago he was the ACQ's *directeur
+général* (issue 139); at issue 129 he was translating Wipper's woodsmanship guide; in the 1975 and
+1978 directories he is the French section's contact. So the same man held the ACQ's chief executive
+post and the national French-language chairmanship at once in 1981-82, and the national body was
+still trying to get "an adequate picture" of its French-language members. **Added to
+`canadian-camping-movement.md`.** The full list of chairmen is worth keeping as the association's
+working structure in 1982: **Eileen Mayotte (Sask.) — Archives**; Dorothy Walter (Ont.) — Education,
+"working to develop a scheme for professional development of camping people across Canada"; Rick Ryan
+(B.C.) — Funding; Linda Arnold (B.C.) — Research; Jay Haddad (Ont.) — the Newsletter; Wendy Wren,
+Judy Richards and Beth Moon (Ont.) — Publications Service; Dinny Biggs (Ont.) — Leadership
+Development; Peter Rasberry (Ont.) — Environmental Issues; **John Latimer (Ont.) — the 1983
+Congress**; Brian Law (Man.) — a review of provincial Standards and a comparative Workshop in 1983;
+Wayne Perkins (Alta.) — a National Consultation and Speakers' Bureau; **Barry Lowes (Ont.) —
+"continues to monitor and represent the CCA/ACC membership to the Federal Ministry of Employment and
+Immigration"**, which is the foreign-counsellor visa thread of issues 111 and 119 still running in
+1982; Ivan Robinson (Ont.) — an annual executive workshop; Jack Pearse (Ont.) — a study of a national
+conference in 1985; Janet Adamson (Ont.) — selling products "in order to shore up our financial
+situation". Executive Director **Marjorie Booth** with Office Administrator **Mary Roy**. **Eileen
+Mayotte chairing Archives in 1982 is a name to put beside `p_319`**: the archives committee is the
+body that would know what went to Trent.
+
+**★★★ FRANCES KELLY HONOURED — and the English Section is "former" in the association's own words.**
+"Jocelyn Palm presented **Miss Frances Kelly, former secretary of the English Section of the Quebec
+Camping Association, with a CCA/ACC Certificate of Appreciation**. Although Miss Kelly was honoured in
+Quebec, her long service to the camping movement was recognized by the CCA/ACC Board." The
+presentation was at the **ACQ Conference at Laval**, where the national executive also met. This is
+the second national Certificate of Appreciation this read has found going to a Quebec English-section
+officer — Derek Walsh received his in January 1983 with the same "former English Section" wording —
+and it dates Frances Kelly's honour to the spring of 1982. **Added to `canadian-camping-movement.md`,
+and Frances Kelly's stub candidacy strengthened.** Also at Laval: members of the executive were
+interviewed by **a *Globe and Mail* writer for a national article on "Choosing a Camp for your child",
+to appear in the June 1982 *Lifestyles* issue** — a findable press item that would carry the
+association's own advice to parents, and a possible source of a camp list.
+
+**★★★ THE CERTIFICATION DEBATE, ANSWERED AT LENGTH BY TWO CAMP MEN.** Both letters reply to the
+Winter 1982 editorial (issue 140), and together they are the best statement in the run of why the
+camping profession never regulated itself.
+
+**Ron Johnstone** (Camp Tawingo; his "Staff Are People Too" was in issue 135) is against, and his
+grounds are worth quoting because they describe the shape of the industry: "**We in Ontario seem to
+have a tendency to think that all camping in Canada is the same… in reality it isn't! There are whole
+degrees of difference in sophistication in camping in Canada.** I have no difficulty at all in seeing
+the Camping Associations as educational and inspirational organizations but I have some real trouble
+when we start into the business of **regulating the industry** and that is what a program of National
+Standards or Certification will do." On protecting the public: "**If 'camping' was a high profit
+business that attracted unscrupulous operators I would be concerned, but that is not so, all that
+wheeler-dealers have to do is look at the balance sheets of most Camps in Canada and they couldn't run
+fast enough to stay out of the business.**" And on competence: "**I know some of our numbers who claim
+ten years experience in camping but in reality have had one year ten times**… the only way we can do
+it as a movement is through educating those who wish to work as Camp Directors… I am all in favour of
+guidelines and many, many sessions so that all may grow… but certification and all it implies… **now
+is not the time and I do not believe that we will ever see that time being ripe!**" He also dates a
+body: "at the beginnings of the **Society of Camp Directors** we had great discussions on the role of
+government in camping."
+
+**Lorne Bowering**, President of the British Columbia Camping Association, is qualifiedly for: "**The
+American Camping Association Certification system seems cumbersome to me — too many levels and a rat's
+nest to administer.** I have always thought **certification of Directors is at least as important as
+the Facilities/Program standards approach**… The topic has been considered for years though and the
+problem is usually the 'How' to do, rather than the 'Why'. **Camping people are diverse and what may be
+a high standard for one may be a very low standard for another.**" His proposal is incremental:
+"Guidelines from the National body might assist local associations prepare training events that could
+develop one day into a certification program."
+
+**Added to `canadian-camping-movement.md`** alongside the editorial. **The ACA had a certification
+system for directors in 1982 and the CCA did not**, and the reason it did not is on this page: not
+oversight, but a settled position that the associations were educational bodies and not regulators.
+
+**★★★ JUNE LABBETT INTERVIEWED — Camp Oconto's transfer, and Halliday's exit, from the buyer's side.**
+Jay Haddad interviewed her at the **Royal York Hotel on 8 March 1980**; excerpts printed here. Her
+account of the sale is the fullest this project has: she first went to **Camp Ahshunyoong on Lake
+Simcoe**, then Oconto at about twelve, then Glen Bernard at seventeen under **Miss Edgar**; she
+directed **Camp Tapawingo** for the YWCA from about **1944**, her first directorship; she met **Cliff
+Labbett on a ski train going to Sainte-Adèle in 1948**, married him **4 March 1949**, and "we told Miss
+Halliday we would buy Oconto on **24 May 1949**." Halliday "**was 55 years old**", was nursing her
+mother, "who died in May of 1949", and "**had other people look at the camp and had openly talked to
+some of her own staff about taking over**"; she stayed at Oconto through the 1949 season with the
+Labbetts. **Written into `connections/related-camps/camp-oolahwan.md`**, which carries Halliday's
+biography and the standing 1924/1925 discrepancy about Oconto's first summer. **June Labbett here says
+again that Halliday "started Camp Oconto in 1925"** — but this is the same witness who wrote the 1971
+tribute already cited there, so it is a repetition, **not an independent second source**, and the
+discrepancy is left standing exactly as it was. What is new is the transfer detail and Halliday's age
+and circumstances at the sale.
+
+Other things from the interview worth recording. **On awards, and directly connected by the editor to
+the editorial in the same issue**: "There used to be a cup given for the **Best All-Around Camper** and
+**I just couldn't live with that; we changed it our first year to a tribe Shield** (camp has two
+tribes) and this was a fun thing, not a competitive thing; any silly little game or challenge earned
+points toward this shield; **everyone worked together for this**." And on the trend: "we had many
+[tests and awards], but there has been a **definite decrease**. Tests are available, but they're not
+stressed or emphasized now… **The skill level is perhaps as good or better than when they were
+motivated by badges.**" **On the OCA's first standards fight, which was about showers**: "I remember
+these fights and arguments over showers! We had a meeting at the Royal York Hotel and I remember **A.
+L. Cochrane** standing up and saying, '**What's the matter with having showers? You can get a watering
+can and fill it full of water and pour it over somebody's head and call it a shower**'. **I remember
+one camp pulling out of O.C.A. because of that**… others thought you should have the freedom to soap up
+and dive into the lake. **You must remember that no one had showers at all in those days. Clothes were
+washed in the lake; I remember all of us diving deep with our toothbrushes in our mouths to ensure we
+were getting fresh water!**" That is a first-hand account of the earliest Canadian camp standards
+dispute, and it says the first standard was sanitation. **On Mary Edgar and Glen Bernard's "Indian
+night"**: "**they have a real indian night at Glen Bernard**; I had never been exposed to any kind of
+indian programme at Oconto so this was unique for me. My friends told me to wear a robe and dress a
+certain way and line up and then **O-kee-mak-wah** will come out of the woods… I remember Miss Edgar
+tripping down out of the trees and everyone saying chants and prayers. **This was a very significant
+part of the programme and I grew to love it, respect it and understand it.**" **Recorded for
+`site/indigenous-names-and-land.md`** as a participant's description of the practice from the 1930s,
+including the director's own assumed Indigenous-styled name — the same structure as Kanawana's council
+ring, at a girls' camp, from the inside. **On leadership**: "we can pass leaders on their Bronze and so
+on, but **how do you measure what's really important — maturity of judgement?**" — the same objection
+Mike Budd made to certification in the previous issue. She also records **two five-minute hurricanes**
+that hit Oconto on Sundays, the first taking **eighteen tents**, after which cabins were built; that
+staff girls were allowed to **smoke in their tents** in the late 1940s until it was stopped as unsafe;
+and that every counsellor was addressed as "**Miss**" until a staff vote dropped it about 1976.
+
+**★★ Two provincial anniversaries, and one corroborated founding date.** Jane McCutcheon's Central
+Region report: "(Ont) **Glen Bernard Camp — 60 years**; (Qué) **Camp Ouareau — 60 years**." A sixtieth
+anniversary in 1982 puts both foundings at **1922**, which **independently corroborates the 1922 date
+already carried in `connections/related-camps/camp-ouareau.md`** against the competing 1920 claim.
+**Added there.** Gary Luthy's Western report dates **Camp Elphinstone's 75th Anniversary Celebration
+to 22 May 1982**, putting its founding at 1907.
+
+**★★ J. H. Ebbs on blackflies** — the same Dr J. Harry Ebbs whose camp infirmary inventory is in
+`site/the-kanawana-site.md`, here summarising a February 1980 *Medical Post* report. "**There are 76
+known species in Canada and the U.S.A.**"; the fly "breeds in shallow running water"; they are
+"attracted to humans by the **carbon dioxide and water vapour in the breath**"; they "bite at partially
+covered areas — the wrists, ankles, neck, scalp and waist"; and the bite "deposits a small amount of
+fluid into the skin which acts as an anaesthetic and also keeps the blood from clotting." **Four known
+human reaction types**, with severe reactors told to see a doctor and be desensitised. Prevention:
+cover the skin, "wear light-coloured clothes with tight neck, wrists and ankles", and repeat repellent
+frequently. **Contextual for `traditions/environmental-history.md` and the site article** — the
+standing medical advice on the insect that defines the Laurentian camping season, from the movement's
+own doctor.
+
+**★ "Lost At Sea", printed in full with worksheet and answer sheet.** Jay Haddad's second group
+dynamics exercise, "a good one because it can be used effectively with campers as young as 8 and 9
+years, as well as older campers, CIT's and Counsellors." Fifteen items to rank individually in five
+minutes, then by **group consensus** — "there should not be voting or majority rules… each item should
+be 'talked out' until everyone feels comfortable with it" — scored against the U.S. Merchant Marines'
+order, golf-style. The two principles printed with it: "**1) The group score should always be better
+than each individual score. 2) Conflict is a necessary ingredient toward creativity.**" The full
+fifteen items and the rationale sheet are reproduced in the issue, so this is a complete, usable 1982
+staff-training instrument, and one that turns up in camp files everywhere; **if a copy surfaces in
+Kanawana's papers it is datable to this printing.**
+
+**Minor.** ***Lead On… Counsellor! Innovative Ideas for Camp Leaders*** — "the 6th book from the
+presses of Camp Tawingo", by **Jack Pearse, John Jorgenson, Jane McCutcheon and Pat Pearse** — Camp
+Tawingo's publishing arm again, and the CCA's Central Vice-President among the authors. **The Great
+Canadian Canoe Exposition**, Harbourfront, Toronto, **12-13 June 1982**, free: craftsmen building wood
+and canvas, birchbark, stripper, fibreglass and kevlar canoes in public view; **exhibits from the
+Kanawa International Canoe Museum**; a group from Ste. Marie Among the Hurons; Bill Mason's films; Omar
+Stringer; **a Voyageur Rendezvous of North Canoes with tumplining races, pipelighting contests and
+tug-of-war** — the voyageur pageantry Kanawana built a whole section around, staged as a public
+exhibition. **"Why Get Ill From Foods?"** from Agriculture Canada, addressed to "**you in the camp
+kitchen**" with sixteen rules, the temperature threshold given as **40°F for four hours**, and the
+period assumption printed plainly: "**If the camp cook attends to the simple rules listed below she
+will do much to reduce the risk**". The **Royal Life Saving Society Canada** advertises the waterfront
+kit of 1982 — an eleven-foot fibreglass **paddleboard**, California-designed **rescue cans** ("employed
+in over 30,000 rescues per year in North America"), a **windsail PFD** noting that "federal government
+regulations require an approved PFD or life jacket **be worn by board sailors**", first aid kits
+"designed by lifeguards", and an **Audiopack** portable PA "that projects your voice in full circle,
+loud and clear up to a block away… **hands-free camp communication**" at 6½ pounds. The poem "**One
+Solitary Life**", an unattributed evangelical piece on Jesus, printed without comment in 1982. Menu
+features: pizza on T-Bisk crust with cut-up weiners, **lemon squares for 100** from Cathy Russell of
+Circle R Ranch, Delaware, Ontario, and **beef saurbraeten for 120** and mincemeat bars from **Jean West
+and Lois Steed, Camp Tawingo**. And an **OWL magazine** airplane-building contest for children thirteen
+and under, offered to program directors as a summer activity. The mailing label on this copy reads
+**Camp Richildaca, Mr & Mrs W. J. Babcock, Kettleby**.

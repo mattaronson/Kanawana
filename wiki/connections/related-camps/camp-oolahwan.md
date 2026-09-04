@@ -1,6 +1,6 @@
 # Camp Oolahwan
 
-*Status: E1-reviewed | Sources: 26*
+*Status: E1-reviewed | Sources: 27*
 *Last Updated: 2026-09-04*
 
 ## Overview
@@ -49,6 +49,10 @@ the campers." She was a lifelong friend of **Charlotte Whitton**, was later acti
 of the Julia Greenshields Home in Toronto, raised her niece and nephew Barbara and Jack Halliday
 after their father's early death, retired to Kincardine in 1949, and **died in October 1970**.^22
 The OCA archives, the tribute notes, refer to her as **"Halliday the colourful."**^22
+
+**How the camp changed hands, from the buyer's side.** June Labbett — who wrote that 1971 tribute — described the transfer at length in an interview recorded on 8 March 1980 and published in 1982.^26 She had been an Oconto camper at about twelve, a counsellor at Mary Edgar's Glen Bernard at seventeen, and from about 1944 the director of the YWCA's Camp Tapawingo, her first directorship. She met Cliff Labbett "on a ski train going to St. Adele in 1948", married him on **4 March 1949**, "and **we told Miss Halliday we would buy Oconto on 24 May 1949**." Her account of Halliday's reasons: "She was caring for her mother who was quite ill at the time; her mother died in May of 1949. I think, though, that she felt she was ready to sell — **she was 55 years old** and had thought about it for quite some time. **She had other people look at the camp and had openly talked to some of her own staff about taking over.**" Halliday stayed at Oconto through the 1949 season with the new owners. Labbett's first hire that she remembers was the music director **Alda Pallson**, "a beautiful girl from Iceland", who stayed twelve years.
+
+Two cautions on that interview. It repeats the **1925** date for Oconto's first summer — but June Labbett is the author of the 1971 tribute cited above, so this is **the same witness a second time, not an independent corroboration**, and the one-year discrepancy is left exactly where it stood. And it is a memory recorded thirty-one years after the events. What it adds is the circumstance of the sale, Halliday's age at it, and the fact that she had been looking for a buyer among her own staff.
 
 **May Brown** (Mrs. Lorne E. Brown) directed Camp Oolahwan during her period on the staff of the YWCA in Montreal, where she also completed a B.Sc. in Physical Education at McGill University.^20 She had grown up and been educated in British Columbia and taught briefly before going east; after graduating she returned to teach health and physical education at the University of British Columbia and to coach its women's field hockey teams, took an M.P.E. there in 1961, and about 1961 opened Camp Deka in the Cariboo with her husband.^20 She went on to serve on the National Advisory Council on Fitness and Amateur Sport and as **President of the Canadian Camping Association**, holding that office at least from 1964 to 1967.^20 ^21 Her Oolahwan directorship is therefore most plausibly placed in the 1940s, before her marriage and return to British Columbia, but the source gives no years and the dating here is inference from the rest of the profile; it should be confirmed against the Montreal YWCA fonds before being stated as fact. The source spells the camp "Oolawahn."
 
@@ -135,6 +139,7 @@ The name "Oolahwan" may derive from the Lakota word *olówaŋ* meaning "song" or
 24. Mary L. Northway, "Mary S. Edgar 1889-1973," *Canadian Camping* Vol. 26 No. 1 (Fall 1973), pp. 3-4. Found by the full word-for-word read of the run (`kb/reread/cc_findings.md`, issue 100).
 25. Charles F. Plewman, on the founding of the Canadian Camping Association and its magazine, *Canadian Camping* Vol. 24 No. 2 (Winter 1972). Found by the same read (issue 92).
 26. "Executive Director" and Cliff Labbett, "Our New President," *Canadian Camping* Vol. 31 No. 6 (December 1979), pp. 2-3 [src_ia_canadian_camping_collection]. Found by the full word-for-word read of the run (`kb/reread/cc_findings.md`, issue 128).
+27. "Interview: June Labbett," Jay Haddad's interview of 8 March 1980 at the Royal York Hotel, *Canadian Camping* Vol. 34 No. 1 (Spring 1982), pp. 4-5 [src_ia_canadian_camping_collection]. Found by the same read (issue 141). June Labbett is also the author of the 1971 Halliday tribute cited at 22, so the two are one witness, not two.
 
 ## Research Notes
 

@@ -1,6 +1,6 @@
 # The L&V Games
 
-*Status: E1-reviewed | Sources: 18*
+*Status: E1-reviewed | Sources: 19*
 *Last Updated: 2026-07-10*
 
 The L&V Games trace their origin to 1947, when the camp created "Lumberman-Voyageur Week" as a culminating event for the final week of summer. **The camp's own 1988 report states it plainly**, under Programme Highlights: "1947 Kanawana introduces new camp wide event to highlight the final session of camp. Lumbermen and Voyageurs competition is created."^13 The entire camp was divided into two teams, Voyageurs and Lumbermen (known as "Bûcherons" in French), and the week was given over to inter-team competition. The concept drew on [[connections/related-camps/camp-pine-crest|Camp Pine Crest]] in Ontario, which had run its own Lumbermen-versus-Voyageurs competition since 1940, complete with the same team symbols: an axe for the Lumbermen and a paddle for the Voyageurs.
@@ -150,6 +150,18 @@ The upshot is a stronger continuity claim than this article previously made. **T
 
 The role of "Capitaine" — leader of the Voyageur team — is considered one of the highest honours a staff member can receive. Leigh Evans, who attended Camp Kanawana for six summers (one as a camper, one as a Leader-in-Training, four as staff), was named Capitaine for the Voyageur team in 2012. She credited Camp Kanawana with shaping her career as an educator.^6
 
+## What the national association thought of games like these
+
+In the spring of 1982, while the Games were being played, the Canadian Camping Association's editorial committee published — in full, in both official languages — an editorial titled "**Competition in Camps: Values in Turmoil!**" arguing that competitive programming of exactly this kind should be abolished from Canadian camps.^19
+
+> "**As soon as a race is organized with ten children where one child wins, you have nine losers; if four relay teams compete, three are losers; if you have a first prize, you have losers!**… our cities, through competition, create losers — MILLIONS OF THEM! **Our camps, unfortunately, are doing the same thing! Awards, prizes, badges, competition, material success should all be discouraged in camp programming.**"
+
+Its five instructions to member camps were to eliminate competition "where you have winners and losers"; to praise rather than give "a material reward" for success; to encourage co-operation through tasks, chores, canoe trips and games; to make the activity an end in itself "and not a 'means' toward the end — namely WINNING"; and never to belittle the person, only the behaviour. It closes: "**Competition, as we know it, is a destructive force in our society — it should NOT be tolerated, reinforced or accepted in our camps!**"
+
+The editors were making a case rather than a remark. The same issue carries an interview with **June Labbett**, who bought Camp Oconto in 1949 and abolished its Best All-Around Camper cup in her first season — "**I just couldn't live with that**" — replacing it with a shield earned by two tribes together, "a fun thing, not a competitive thing"; the editor cross-references the editorial from her answer.^19 She also reports a "definite decrease" in tests and badges over thirty years, with skill levels "perhaps as good or better than when they were motivated by badges."
+
+**Nothing here shows that Kanawana changed anything.** No Kanawana document responding to this argument is known to this project, and none is implied. What the editorial supplies is the argument the Games were operating against, dated, in the camp's own national trade press, in a year the series was running — and the terms in which any surviving discussion of the Games or of [[traditions/order-of-owens|the Order of Owens]] in a Kanawana director's report of the early 1980s should be read. It is worth noting that the Games as Kanawana ran them are a two-team series in which every camper is on one side or the other, which is not quite the ten-children race the editorial describes; whether the camp's own staff drew that distinction at the time is not documented.
+
 ## Related Articles
 
 - [[traditions/canoe-trips|Canoe Tripping at Kanawana]]
@@ -180,6 +192,7 @@ The role of "Capitaine" — leader of the Voyageur team — is considered one of
 16. Operator (Matt Aronson), 2026-08-14: winners for the four shields not legible in the photographs (1949 Lumbermen, 1952 Voyageurs, 1958 Lumbermen; 1961 still to be verified), and the 2026 result, decided that night [src_oral_aronson_lv_trophy_gaps_2026].
 17. Operator account (Matt Aronson), 2026-08-14: the 2020 L&V Games were played remotely by volunteer alumni and campers in socially-distanced "bubbles"; the 2021 Games were not held [src_oral_aronson_lv_2020_remote]. Resolves conflict c_021.
 18. Photographs of the Kanawana Annual Trophy for Lumbermen Voyageur Games (perpetual trophy, winners shields 1947-2025), supplied by the operator 2026-08-14 [src_photo_lv_annual_trophy]. Establishes the trophy's existence, form, and span; the shields themselves are not yet reliably transcribed.
+19. Editorial, "Competition in Camps: Values in Turmoil!" / "L'esprit de compétition dans les camps perturbe nos valeurs," and "Interview: June Labbett" (Jay Haddad's interview of 8 March 1980 at the Royal York Hotel), *Canadian Camping* Vol. 34 No. 1 (Spring 1982), pp. 3-5 [src_ia_canadian_camping_collection]. Found by the full word-for-word read of the run (`kb/reread/cc_findings.md`, issue 141). A national editorial addressed to all member camps, not a Kanawana document.
 
 ## The 1966 discrepancy — resolved in favour of the trophy
 

@@ -1,6 +1,6 @@
 # Hedley Dimock and the Science of Camping
 
-*Status: E1-reviewed | Sources: 23*
+*Status: E1-reviewed | Sources: 24*
 *Last Updated: 2026-09-04*
 
 ## Overview
@@ -83,6 +83,12 @@ Richard D. McDonald, who joined the department in 1965, succeeded Dimock as Cent
 
 After retirement from Concordia, Dimock became Director of the Centre for Human Resource Development, an independent consulting and research organization in Puslinch, Ontario, and adjunct professor at the University of Guelph. He served on the faculties of eight universities including McGill, Columbia, Toronto, and Concordia, and worked with over 300 organizations across Canada.^2
 
+### On the programme of the first International Camping Congress, 1983
+
+Sixteen years after the 1967 keynote, Dimock was still on the national association's platform. The Spring 1982 Congress update names him among the speakers and session leaders already committed to the **first International Camping Congress**, held at Toronto's Sheraton Centre, **26-29 January 1983**, co-sponsored by the Canadian and Ontario camping associations.^24 The company he is listed in indicates the event's scale: **Sir Edmund Hillary** opened it and **Leo Buscaglia** closed it, and the session leaders announced by that spring included **Dr. Betty van der Smissen**, then President of the American Camping Association, **Steve Van Matre**, **Kirk Wipper**, **Bill Mason**, **Bruno Morawetz**, **Bryce Taylor** — described by the association as "one of Canada's most significant authorities on Indian Lore and Culture" — and a NASA speaker, with delegates sought through the Department of External Affairs in thirty-two countries.^24
+
+This bears on a claim recorded elsewhere in this wiki. [[connections/institutional-lineage/sgw-concordia-connection|Raye Kass]], Dimock's collaborator and Program Director of his Centre for Human Relations and Community Studies, is recorded as having "presented on camp leadership at the International Camping Congress", with no date attached. She is **not** on this preliminary list — but the list is explicitly partial ("there are so many more from whom we have yet to hear"), and her closest colleague is on it. **The 1983 programme is the document that would settle it**, and obtaining it from the CCA fonds at Trent University is queued as `p_325`. Nothing about Kass is asserted here on the strength of Dimock's listing.
+
 ## The YMCA-to-University Pipeline
 
 The institutional connection between the YMCA, SGW/Concordia, Dawson College, and Camp Kanawana is one of the most distinctive features of this history. The Department of Applied Social Science grew directly from the YMCA of Montreal.^4 ^6 Dimock built it; Seaman — a former Kanawana Director — was founding-era faculty.^5 Seaman then went on to chair the Community Recreation and Leadership Training (CRLT) Department at Dawson College from 1974 to 1984, training the next generation of camp leaders and community recreation professionals.^5 After Seaman died in 1987, five organizations established memorial scholarships in his name.^5
@@ -130,6 +136,7 @@ P. Concordia University Archives, P0145/12B: "Interpretation of scores for couns
 21. Conference report, *Canadian Camping* Vol. 19 No. 3 (April 1967), p. 87 [src_ia_canadian_camping_collection].
 22. Al Knox (former Director, Camp Wanakita), "A Case for 'Participative' Camping," *Canadian Camping* Vol. 26 No. 2 (Winter/Spring 1974), pp. 6-7, which names the address as "Canadian Camping — Its Resistance to Change" and dates the meeting 2-4 March 1967. Found by the full word-for-word read of the run (`kb/reread/cc_findings.md`, issue 101).
 23. Manitoba camp director quoted in *Canadian Camping* Vol. 20 No. 1 (Autumn 1967), p. 11 [src_ia_canadian_camping_collection].
+24. John Latimer, "International Camping Congress Update," *Canadian Camping* Vol. 34 No. 1 (Spring 1982), p. 13, with the accompanying fund-raising appeal signed by Al Goodman [src_ia_canadian_camping_collection]. Found by the full word-for-word read of the run (`kb/reread/cc_findings.md`, issue 141). A list of speakers committed as of spring 1982, not the final programme.
 
 ## Research Notes
 

@@ -1,6 +1,6 @@
 # The Order of Owens
 
-*Status: draft | Sources: 8*
+*Status: draft | Sources: 9*
 *Last Updated: 2026-08-14*
 
 ## Overview
@@ -129,6 +129,12 @@ The later paddle jumps directly from **2019 – Sophie Parent to 2022 – Miriam
 
 The 2009 case is an inconsistency *between the two artifacts themselves*, not merely between artifact and memory. This article follows the supplied roster in the table above pending a closer read; see Open Question 7.
 
+## The case against awards, 1982
+
+An honour of this kind was not uncontroversial in Canadian camping while Kanawana was giving it. In the spring of 1982 — six years into the Order's history — the Canadian Camping Association's editorial committee published, in both official languages, an editorial telling every member camp that "**awards, prizes, badges, competition, material success should all be discouraged in camp programming**", and instructing that where a child succeeds, "**do not give a material reward**; rather, praise and reinforce that she has done her very best."^9 The interview printed alongside it makes the same case from practice: June Labbett, who bought Camp Oconto in 1949, abolished its Best All-Around Camper cup in her first season — "**I just couldn't live with that**" — and reports a "definite decrease" in tests and badges across thirty years, with skill levels "perhaps as good or better than when they were motivated by badges."^9
+
+No Kanawana response to this argument is documented, and none is inferred here; the Order was given in 1982 as in every other year, and the roster shows no interruption. What the editorial establishes is that the practice was live in the movement's own press and being argued against by the association's editors — useful context for the article's open questions about the award's criteria and ceremony, and a reason to read any early-1980s director's report on the subject closely rather than assume continuity was unremarked. It is also worth noting what the Order is not: it recognises the leadership and bearing of a canoe tripper as judged over a season, not the winner of a race, which is a different object from the prizes the editorial had in view.
+
 ## The 2020–2021 Gap
 
 The award was not presented in 2020 or 2021. This independently corroborates the camp's documented pandemic closures from a separate, camp-internal source: [[people/sean-day|Sean Day]] announced that YMCA Quebec would keep Kanawana's overnight camp closed for the 2021 season — a *second consecutive* closed summer — pivoting instead to 10 day camps, up from 3 the previous year.^1 The Order of Owens roster shows the same two-season interruption, from the camp's own award record rather than from press coverage.
@@ -171,6 +177,7 @@ The award resumed in 2022 and has run annually since.
 6. *Canadian Camping* Vol. 6 No. 3, June 1954 — "Welcome to a New Executive: The Quebec Camping Association" [src_ia_canadian_camping_1954_06].
 7. *Canadian Camping Magazine* Vol. 28 No. 2, January 1976 — QCA membership roll [src_ia_canadian_camping_1976_01].
 8. *Canadian Camping Magazine* Vol. 29 No. 2, March 1977 — conference report naming QCA past presidents [src_ia_canadian_camping_1977_03].
+9. Editorial, "Competition in Camps: Values in Turmoil!" / "L'esprit de compétition dans les camps perturbe nos valeurs," and "Interview: June Labbett," *Canadian Camping* Vol. 34 No. 1 (Spring 1982), pp. 3-5 [src_ia_canadian_camping_collection]. Found by the full word-for-word read of the run (`kb/reread/cc_findings.md`, issue 141). A national editorial addressed to all member camps, not a Kanawana document.
 
 ## Research Notes
 
