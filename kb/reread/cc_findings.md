@@ -9021,3 +9021,174 @@ Council of YMCAs of Canada's *Hi-Y Devotions Booklet* (1960).
 
 Kanawana itself: not named in this issue — but the research done on its counsellors is
 reported, and the canoe route its 1967 crew would paddle is specified.
+
+## 63
+
+`canadiancampingmagazine_vol16no4_1964june.txt` — Vol. 16 No. 4, June 1964.
+
+Contents page (checked against this block): What Makes the Difference (Betty
+Campbell) · Camping Imperatives for the Future (Howard G. Gibbs) · Hey-Ho! Up the
+Creek We Go (P. M. Taschereau) · Canoe Safety Practices (Kirk Wipper) · Programme
+for Short Term Camp (Robert Chandler) · Camp Safety (W. D. Smith) · Ideas for
+Special Programme (unsigned department) · Programme Planning (Vincent Craven) ·
+Sermons Under the Sun (Erik Braaten). All nine covered below.
+
+**Masthead.** Jack F. Way is now **Senior** Vice-President (Vancouver); Eleanor
+Logan is added as a Vice-President as well as Secretary; Neil B. Powter (Montreal)
+continues. The Montreal presence on the national executive survives the head
+office's move to Calgary recorded at issue 58.
+
+**Kirk Wipper, "Canoe Safety Practices and Procedures" — the biggest find in this
+issue.** This is the direct sequel to the Department of Transport life-jacket fight
+documented at issue 59. Wipper states it is "the result of a summary derived from
+the submissions of a number of Canadian camps ... requested in reference to the
+Department of Transport legislation proposals" — i.e. the camps, asked to justify
+their exemption, answered by writing down the standard they said they already kept
+to. What they produced is a national minimum standard for camp canoeing in 1964,
+and it is the standard Kanawana's canoe-trip programme (including the La Vérendrye
+trips) would have been running under. In full:
+
+- **Swimming prerequisites graded against paddling privilege** — 20 yards, 100
+  yards and 200 yards buying successively wider water.
+- **General procedures** — permission required before any canoe leaves; staff on
+  duty; a prescribed observable area; a checking system using numbered canoes and
+  camper identification tags; no canoeing at night or in storms; load limits; the
+  canoe taught as a rescue device; patrols; and "Rubber boots or large leather
+  boots cannot be permitted."
+- **Canoe-trip prerequisites** — swim 200 yards free style; swim 50 yards clothed
+  and shod, then remove clothes and shoes in deep water; upset a canoe, hang on to
+  it, and demonstrate its use as a rescue device; perform a canoe-over-canoe rescue
+  with assistance; drownproof or tread water for five minutes.
+- **Trip rules (continued p. 174)** — the trip leader must maintain contact between
+  canoes with an enforced means of communication; laced shoes to be untied while in
+  the canoe; every trip to carry a spare paddle and a painter long enough to serve
+  for rescue; and **"Campers or staff who stern canoes ought to have the Bronze
+  Medallion or equivalent."**
+- On age: "Up to the age of about fourteen, campers should generally serve as
+  bowmen or middlemen rather than sternsmen."
+
+The Bronze Medallion line connects forward: `kb/facts.json` records three Kanawana
+CITs taking Bronze Medallions in 1978, which this dates as a fourteen-year-old
+national expectation for anyone sterning, not a local enthusiasm. Wipper closes by
+noting these sit alongside the Ontario Camping Association Awards' own swimming
+requirements and privileges. `wiki/traditions/canoe-trips.md` currently cites no
+external standard at all.
+
+**E. F. Johnston, Camp Chief Hector (Alberta), "Indian Day"** — filed in the Ideas
+for Special Programme department and materially different from the costume-and-
+ceremony Indian lore this read has documented in six other issues. Chief Hector
+invites "our camp neighbours — four to six hundred Stoney Indians" to a special
+events day: eight to ten events (archery, volley ball, tug-of-war, horse shoes,
+foot races), with "the Indian children assigned to groups with our campers" and the
+adults taking part in the mammoth tug-of-war and archery; camp kitchen supper of
+barbecued hot dogs, cake and punch; and then "our guests put on a display of their
+culture through Indian dances, songs and stories." Johnston frames it as "a very
+effective programme in human understanding" and "a wonderful public relations
+venture." Worth recording precisely because it is the one instance in this run
+where the Indigenous people are present as themselves rather than represented by
+white campers in costume — the contrast is the finding, and it belongs in whatever
+the project eventually says about Kanawana's own Indian-lore traditions.
+
+**P. M. Taschereau (Woodland Boys' Camp, Quebec), "Hey-Ho! Up the Creek We Go" —
+the Mudpuppy Society.** A Quebec camp's homemade honour society, and a close
+structural cousin to Kanawana's own Order of Owens: secret invitation, an ordeal
+that is really a nature walk, a badge given out at the last council fire, and a
+speech that reframes the badge as a token of an inner one. Entry is by nature hike;
+groups of two to six boys wade a muddy creek barefoot under four rules (never leave
+the water for the bank; stay close with a leader front and back; general quiet;
+leaders point things out on the way up, campers point them out on the way back).
+Marks are deducted for guessing, results withheld until the last council fire, and
+fewer than a third of campers are invited to try — sworn to secrecy. The badge is
+cardboard cut to the shape of *Necturus maculosus* and spattered with creek mud;
+the leader's speech: "Unlike other badges, which are worn on the outside to tell of
+the wearer's skills or accomplishments, the Mudpuppy Badge won't stand up to much
+wear. It only represents the real badge inside." Taschereau admits at the end that
+no camper has ever failed. The Mudpuppy Song, to "Hey ho nobody home": "Hey ho, up
+the creek we go; / Necturi maculosi / Through the mud and muck we go" — with a
+printed apology to the International Committee for Rules of Zoological Nomenclature
+for the pluralisation.
+
+**Howard G. Gibbs (Boys' Clubs of America), "Camping Imperatives for the Future"** —
+from the 1964 OCA convention. Ten "WE BELIEVE" value statements; a critique of
+pushing children into early adulthood ("we are forcing grown-up ways on childhood
+days"); "parenthood as a competitive sport"; the "professional mother"; and
+permissiveness misread as licence "to do nothing." At length on **Margaret Lear's
+*The Child Worshippers*** and its camp chapter **"Snakebite Is Not The Problem"**,
+which calls camps "a summer resting place for over-privileged children" whose
+"so-called real camping consist[s] of a safari by station wagon to a barbecue pit
+presided over by the camp chef." Closes with paired "less … more" imperatives. A
+useful external attack on the private-camp model in the same years Kanawana was
+arguing its own case as a YMCA camp.
+
+**Betty Campbell (President, Nova Scotia Camping Association), "What Makes the
+Difference"** — the first woman to write the Vice-President's Page in this run. Her
+"Code" runs the letters of a word: C for CAUTION, O for ORDER ("For many children
+camping provides the only real opportunity for orderly living"), D for DEVOTION
+(grace at meals, camp worship, devotion to duties, not shirking jobs), E for
+ENJOYMENT, ENERGY, ENTHUSIASM. Plus a checklist of what parents notice: "No child
+should go home tired out… Campers should go home healthier and happier having
+gained new skills, new interests, new faith."
+
+**Robert Chandler, Camp Boulderwood (University Settlement, Toronto), "Programme
+for Short Term Camp"** — advantages of the short session, three pitfalls, and the
+line "Programme is the camper's total experience at camp." Boulderwood is a
+settlement-house camp, the same social-agency category as the YMCA's own.
+
+**W. D. Smith, "Camp Safety"** — drinking water boiled thirty minutes or two
+halazone tablets per quart; waterfront staff "at least eighteen years of age" and
+certified by the Red Cross, YMCA or RLSS, with a **1:10 lifeguard-to-non-swimmer
+ratio**; fires, knives and axes; three poisonous plants (water hemlock, death cup
+mushroom, baneberry); rattlesnakes and snakebite procedure (fang punctures opened,
+tourniquet between bite and heart released periodically, medical aid summoned).
+General section: orienteering by map and compass as "a valuable adjunct to the camp
+programme and an aid to the camper who may become lost"; during electrical storms
+"STAY OFF THE WATER AND OUT OF BOATS. NO SWIMMING SHOULD BE ALLOWED"; safe campsite
+selection away from large trees. Together with Wipper this issue is effectively the
+CCA's 1964 safety code in two halves — water and land.
+
+**Ideas for Special Programme (department), further items.** **Joyce Bertram, Camp
+Ouareau** — "Camp Improvement Day", a comic but circumstantial account of a wet
+Laurentian summer ("117 inches of snow and four weeks when the temperature never
+went above 25 below"), the "Ouareau hair-cut" done in the dark with an egg-beater,
+and a rained-out week that grew into Camp Improvement Week, with Canadian Camper
+pins awarded to Eager Beavers and Heinz pickle pins to the "sour-pusses". (Bertram
+as Ouareau's director is already in `wiki/connections/related-camps/camp-ouareau.md`
+from issue 55; this is a second dated sighting, June 1964.) **C. H. Irwin** — Frog
+Derby and Turtle Study. **Kathryn Anson (Ontario Girl Guides)** — trek carts.
+
+**Vincent Craven, Pioneer Camp, "Programme Planning"** — four organising models;
+wide games described as "selecting two teams, French and English, Indian Tribes,
+etc., and reacting some conflict in our Nation's past. … Small paper bags filled
+with flour make good bullets"; Grecian Games with chariot races; sing-song
+planning; planned relaxation; spiritual reflection. Also a practical note that
+listing all of a week's activities on the bulletin board "tends to produce an
+attitude of indifference" — surprise announcements are better, with the Programme
+Committee prepared well in advance — and advice to collect costumes, masks and
+props through the winter, "You may need to borrow a farmer's calf, goat or rabbit."
+
+**Erik Braaten, Camp Pine Crest, "Sermons Under the Sun"** — an exposition of
+1 Corinthians 13 for campers, quoting T. S. Eliot's *Murder in the Cathedral* ("The
+last temptation was the greatest treason; to do the right deed for the wrong
+reason") and closing on Christmas love.
+
+**Mary S. Edgar, "Growing Days"** (poem, p. 172) — "O Camper-Child you may not grow
+by inches / Through living out of doors among tall trees, / But upward-reaching
+thoughts should make you straighten / To match the height of sturdy trunks like
+these." Edgar is already in the KB and in `camp-oolahwan.md`; this is a dated 1964
+sighting of her still publishing in the association's journal.
+
+**Standalone bibliography page (p. 173), unattributed** — "Bibliography of Original
+Journals of Early Travellers on the Voyageurs' Highway": Alexander Mackenzie
+(1789/1793), Alexander Henry (1760–1776), Père G. A. Belcourt (*Mon Itinéraire du
+Lac des Deux Montagnes à la Rivière Rouge*, 1831), Elliott Coues ed., Dr. J. J.
+Bigsby (*The Shoe and the Canoe*, 1850), Paul Fountain (1904), George M. Grant
+(*Ocean to Ocean*, 1873), Paul Kane (1858), Daniel Harmon (1800), W. H. Keating
+(1824), H. Y. Hind (1857); secondary works by Arthur S. Morton, Harold Innis and
+Marjorie Wilkins Campbell; and *Canoe Routes of the Voyageurs* from the Quetico
+Foundation. Printed with no parent article — the page stands alone. This is the
+reading list a 1964 camp tripping director was pointed at, and it is the same
+literature the CCA's Centenary Journey (issue 62) was built on. **Archival lead:**
+worth checking whether Kanawana's own trip programme or library holds any of these.
+
+Nothing in this issue names Kanawana or the YMCA of Montreal directly beyond
+Powter's continuing place on the masthead.
