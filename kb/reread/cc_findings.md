@@ -8197,3 +8197,217 @@ canoe-test standard; the promised autumn 1963 report on the ten Jamaican counsel
 *The Camp Counselor's Book*, whose contributor list now gives each contributor's camp.
 
 Kanawana itself: not named in this issue.
+
+## 60 — Vol. 16 No. 1, December 1963 ★★★
+
+The single most useful issue of the run as a research tool, and one of the best for camp
+culture. It carries **the magazine's own cumulative subject index for 1949–1963** and a
+first-person memoir of being a camper in a Canadian camp's opening season.
+
+**"Catalogue of Articles appearing in CANADIAN CAMPING 1949–1963, compiled by W. E. Yard"
+(pp. 15–22).** Roughly 400 articles classified under sixteen topics — Philosophy;
+Standards; Staff and Training; Health and Safety; Business Procedures and Services;
+Building, Property Planning and Maintenance; Programme; Nature and Conservation;
+Waterfront; Canoeing; Devotional and Poetry; Day Camping; Winter Camping; School Camping;
+Specialized Camps; Unclassified — each entry with author and issue date. "Extra copies of
+this catalogue are being set aside for new members and may be obtained from the Editor."
+
+**Transcribed in full to `kb/reread/cc_catalogue_1949_1963.md`**, where it does two jobs.
+First, it is a finding aid: anyone wanting the magazine's treatment of a topic — sanitation,
+canoe tests, Indian lore, staff supervision — now has the article list without reading the
+run. Second, and more to the point of this pass, **it is a checklist against my own
+blocks**. Every article the index lists for an issue read here should appear in that
+issue's block; any that does not is a hole of exactly the kind found at issue 51. A
+spot-check on six entries found five already recorded and one ("By Emberglow —
+Chas. E. Hendry, Apr. 1950") not obviously so. **The full cross-check against issues 1–60
+should be run before this pass is converted into KB facts**, and any gaps patched in place.
+
+Cautions about the index itself: it is OCR of a small-type list and carries noise; it
+misattributes "Hang On To Your Teen-Agers" to "Barry Powers" (it is Barry Lowes); and it
+stops at June 1963, so the issue carrying it is not in it. Entries it lists that this read
+has flagged as leads and can now date precisely include **"Canoeing, A Canadian Heritage —
+Mary M. Porter"** in three parts (Feb., Apr., June 1957), **"A Manual of Operations — Roy D.
+Locke"** (June 1953), **"The Staff Meeting — Adele Statten Ebbs"** (June 1960), **"Camping
+and Citizenship — John P. Kidd"** (Apr. 1956) and **"Campers Are Citizens"** (June 1950),
+**"The Magic of Camping — Hedley S. Dimock"** (Feb. 1949), **"Contributions of Child
+Psychiatry — Dr Taylor Statten, Jr."** (Apr. 1949), **"Bilingualism in Camp — E. and A.
+Carstensen"** (Dec. 1958), **"Woodlore — Paul Provencher"** (June 1958), and **"An
+Experiment in Handi-crafts — Gisella Commanda"** (Dec. 1949).
+
+**Mary L. Northway, "Camping Was Always an Adventure" (pp. 12–13, 30–34).** Her talk "What
+Does Camping Mean to the Camper?", also published in the YWCA National Bulletin with the
+last part reprinted in *Light from 1000 Campfires*. It is a memoir of being twelve years
+old at a camp **in its first season** — "We were campers when camping was rare and new in
+Canada, and our own camp was in its first year. **The paths actually had still to be worn.
+There were no camp traditions** so we were able to follow our own interests and ideals."
+Thirty campers at the peak, fifteen at times; the prospectus called it "the far northland",
+accessible "only by a rambling train"; "more than twenty-five years ago." **The camp is
+never named**, but the fit with Glen Bernard Camp's opening (1922, Sundridge, on the
+northern railway) under Mary S. Edgar is close, and Northway's lifelong association with
+Glen Bernard and Edgar is well known — recorded here as a strong inference, not a claim.
+
+Why it matters for Kanawana: **it is a first-person account of an Indian-tribe system being
+invented, in conversation with a child, out of a chivalric one.** At home Northway was
+running "a Knights club which was a cross between the Girl Guides, which we were too young
+to join, and *Mort d'Arthur*, which we were too young to understand. It was a very secret
+society and gave badges for being true, being honest, being brave and being on time. These
+were made of patches and as everyone manufactured her own when she wished, the six Knights
+outshone even the captain of the Guide troop in decorations." When the camp director came
+to tea, she listened, "asked pertinent questions instead of making jolly adult comments",
+and said:
+
+> "'Well, Mary, I hope you will let us share some of the fine aims of your Knights club at
+> camp, that is if you would like to come.' She said, 'I have an idea somewhat like yours
+> and with your experience perhaps you could help me work it out. It may not be as good as
+> a Knights club, but **the first knights belonged to the long ago in England, and as our
+> camp is in Canada, I thought perhaps we would be Indians.** Do you think you could help
+> me work out the idea of Indian tribes?'"
+
+That is the substitution stated outright, by a Canadian camp director in about 1922: the
+knightly order is English and therefore foreign; Indians are chosen as the Canadian
+equivalent. **`traditions/knights-of-kanawana.md` and `traditions/section-names.md` should
+both have this**, because Kanawana ran a Knights order and a tribal-style section system,
+and here is the era's own explanation of why camps swung between the two.
+
+The rest of the memoir is the best camper's-eye material in the run:
+
+- **Three tribes**, each mixing all age groups, "and every camper was, of course, in the
+  best one." Hers were **the Kashigabagamogs**, and the first tribal meeting was spent
+  making up their call — "After some hours of creative effort, we emerged with:
+  *Kashi, Kashi, rah, rah, rah / Kashi, ga, bag, M.O.G. / Kashi, Kashi, rah, rah, rah /
+  KashigabagaMOG!* On the last line we jumped as high as we could into the air."
+- **"On Saturday nights dressed in gayest blankets we met in council ring. This was a
+  thrilling combination of contests, ceremonial procedure, stories and songs."**
+- **Tribal offices**: "All the big girls held the important positions in the tribes, such as
+  **Chieftain or Scroll-keeper or Fire-tender**. But we little girls were elected by proper
+  ballot for the important post of **Runner**" — "which is surely the most impressive title
+  I have ever possessed. The duties of the Runner were to carry missives and carry out
+  orders of the tribe. In actuality this meant to take message and go on errands for the
+  big girls. **It was my first acquaintance with the fact that a title enables one to do
+  with pride what one would otherwise do only under protest.**"
+- Camp life: bunking "in the attic of the lodge among the trunks" until the new cabins were
+  ready; white dresses for Sundays "that rested quietly in, or beneath, our trunks during
+  the week"; berry-picking at Flanagan's; a day helping with the haying at a nearby farm
+  "and drinking cool raspberry vinegar in the dark front parlour"; the big girls' musical
+  comedy with its songs "Swing me under the apple tree, Jo" and a ballad about "Coming down
+  from Bangor in a pullman train" — "This we came to understand was rather questionable and
+  we call it 'slightly risky'"; games "through the fields like **Hoist the Sails**, paper
+  chase and treasure hunts"; and a final banquet, quoted from her own diary: "The most
+  terrible thing happened to me ... I was supposed to make the toast to the kitchen staff
+  and after I made my speech nicely I sat down without saying 'now will you all rise and
+  drink to the kitchen staff.' **I am frightfully disappointed.**"
+- Two social episodes told without varnish: a week-long refusal to speak to Betty McKinnon,
+  a fight over whose father was cleverer, both girls separately telling the director they
+  would go home rather than share a cabin, and the friendship that followed; and the new
+  girl whose trunk initials were B.A.D., promptly nicknamed "Bad", whose chocolates the two
+  of them replaced with pebbles — "I do not think the episode produced any traumatic effects
+  on 'Bad's' personality."
+- And the argument, which is a direct answer to the professionalising decade this magazine
+  has been documenting: the specialists "at their conferences remind me of our childhood
+  tribes; each is sure his is the best profession ... we all have our tribal calls —
+  '**Psychology, psychology, rah, rah, rah**' — only restraining ourselves sufficiently not
+  to jump gaily in the air on the last line." "**The spirit of adventure and expression of
+  spontaneity may be lost in a mass of schedules, group dynamics, records, and
+  competitions** ... His canoe trip embodies no longer the spirit of Columbus but becomes an
+  organized replica of a conducted Cook's tour." Her proposed test, which bears on how this
+  project should read camp records at all: "when we come to evaluate our efforts, let us use
+  not only our record forms, our rating scales and tests which appraise changes in the
+  child's immediate behaviour and adjustment, but ask ourselves the question — **has he had
+  experience this summer that he may look back on twenty-five years later, not only with
+  pleasure but with a feeling that it was an adventure?**"
+
+**Conference notices (p. 23) — two Montreal items.** The **Quebec Camping Association
+Conference: Queen Elizabeth Hotel, Montreal, 19–21 March 1964**. And the Banff seminar,
+5–8 February 1964, on **Leadership Training**, whose resource speaker is:
+
+> "**Dr. Hedley G. Dimock, Doctor of Education, who is presently Chairman of the Applied
+> Social Science Division, Sir George Williams University, Montreal, and who was formerly
+> the Co-ordinator of Staff Training and Development at the Montreal Y.M.C.A.**"
+
+`hedley-dimock.md` already has the 1963 chairmanship and the Montreal YMCA staff-training
+post from Concordia sources; this is independent, contemporary corroboration of both, dated
+December 1963, and adds that he was the national camping association's chosen speaker on
+leadership training within months of taking the chair — two or three years after his
+counsellor-effectiveness research at Kanawana. Also in the notices: the OCA at the Inn on
+the Park, Toronto, 27–29 February 1964, and the ACA's 28th National Convention at
+Pittsburgh, 17–21 March 1964.
+
+**W. E. Yard, "Among Ourselves — Everett C. Cameron" (pp. 26–27).** A career that touches
+the Statten story. Born 1890 at Bongards Corner on the Bay of Quinte; moved to Revelstoke,
+B.C., and joined the YMCA there when it arrived in **1906**; decided to become a YMCA
+Secretary and graduated from **Springfield College**, paying his way partly by singing in a
+male quartet, and counting his first soccer goal against Yale as his biggest athletic
+thrill; married Helena Gaudin; first met organized camping as a **YMCA War Service
+Secretary** around Vernon and Calgary. Then: **"In 1920 Everett Cameron played an important
+leadership role in the establishment of Camp Tuxis on the Canoe Lake site, which was slated
+to become Camp Ahmek."** That corroborates from a second angle the "Camp Tuxis, which
+closed in August 1920" line in `connections/institutional-lineage/taylor-statten.md`, and
+names someone else who was there. He then directed **Fisher's Glen Camp on Lake Erie** and
+**the original Sunfish Camp on Ward's Island**, spent some fourteen years at **Camp Pine
+Crest** as Programme Director then Camp Director, moved to Lethbridge in 1938 as General
+Secretary, joined the Calgary YMCA in the mid-1940s for day camps, then became Director of
+Religious Education for the combined United, Baptist, Presbyterian and Anglican
+congregations in Alberta, and after "retiring" in 1953 became business manager of the Ocean
+Park United Church Camp. **"After fifty years of active leadership in Canadian organized
+camping."**
+
+**Camp visitation, from the visitor's side.** **Margaret Govan, "Counsellors Profit by Camp
+Visitations" (p. 23)** — how an OCA Standards Committee visit affected her own staff before
+it happened. A dull duty-roster meeting turned into an argument about "the purposes of the
+Association, camp standards, **who could start a camp**, and all the intricacies of good camp
+practices", continued at the next meeting "with the help of a copy of *Camp Practices*", and
+then: "Then the question arose — were we to be visited? When the answer was affirmative
+there was more discussion. **What would an observer think of our camp?**" This is the
+provincial visitation programme working as education rather than inspection, described from
+inside — useful context for the QCA visitation records this read has been chasing since
+issue 47.
+
+**Two homesickness programmes worth having.** **W. E. Yard on Camp Pine Crest's "Get
+Acquainted Weekend"** — the first weekend in June, for **fathers and new campers**, running
+for some years: dads drive or car-pool their sons up on Saturday, typical camp meals,
+sing-songs, an orientation tour, games and campfire; summer staff on hand so the boys meet
+people they will know; at one point "boys are engaged in a series of games" while **fathers
+meet with staff so that "the specific objectives of the parents and of the camp can be freely
+discussed"**; both sleep in the regular camper cabins; Sunday chapel, waterfront, noon meal,
+home for Sunday dinner. Bedding was camp-supplied at first, and is now brought, "and this
+seems to be no deterrent." **Helen E. Stewart of Camp Wahcahmie on a Mother and Daughter
+Weekend** — second weekend in June, "so that camp will be ready for parental inspection and
+we have a 'breather' of a few weeks before pre-camp begins", costs shared on food only,
+mothers and daughters in the cabins eating summer meals, ending Sunday after chapel and
+lunch with "'Gee! I can hardly wait for camp to start!' and the mothers add, 'When are you
+going to have a camp for mothers?'"
+
+**Other content.** **Walter Kaasa**, Director of Alberta's Recreation and Cultural
+Development Branch, from his Banff address: "**Information is not education; information is
+the raw material of education, but it is not education**"; on unchallenged minds, "you
+commit mental murder"; and a long passage on the alibi — "There are many today who get
+involved in a form of delinquency, and when they are asked why they did it, they will say
+'I didn't want to stick out like a sore thumb'" — closing on William Wilberforce and
+Masefield. **Clifford Labbett's Vice-President's Page** (he has replaced Barry Lowes as CCA
+Vice-President for Ontario, and is now Co-Director of Camp Oconto): joined the OCA in 1949,
+urges participation in the Visitation Programme, and reads the life-jacket fight as a
+warning — "**this is not the end of Government rules and regulations with regard to camping;
+there will be more discussions and decisions.**" **Eanswythe Flynn's salute to the Red
+Cross** on its centenary and third Nobel Peace Prize, with 1963 figures: **the Canadian Red
+Cross gave waterfront instruction to 300,000 people that year, about 140,000 of whom
+qualified for Red Cross certificates "in camps, in school and community swimming pools",
+plus over 22,000 new leaders and instructors and 1,400 re-qualified, for a reserve of over
+5,000 qualified water safety instructors.** Two **Camp Capers** from Flynn (Camp Brigadoon):
+the eight-year-old who refused to go because the booklet said campers are woken by a
+"bug-le" and "I HATE bugs"; and the sterner who put her new watch in the bottom of the
+canoe "so that it wouldn't get wet" before it rolled. The Portuguese forest-reserve
+inscription "Only God Can Make a Tree" ("I am the beam that holds your house ... the wood of
+your cradle and the shell of your coffin ... You who pass by, listen to my prayer — Harm me
+not"), seen at the Boyd Conservation Area, Woodbridge. **Mary S. Edgar's poem "An
+Infection"** on camp spirit. And a note that the OCA has moved again, to **501 Yonge
+Street**.
+
+**New names**: Walter Kaasa, Everett C. Cameron, Helena Gaudin Cameron. **New leads**: the
+catalogue itself, and through it the dated back-issues for a dozen standing questions;
+**"By Emberglow — Chas. E. Hendry, Apr. 1950"**, which the spot-check suggests may be
+missing from this pass's own record of that issue; and the identity of Northway's first-year
+camp and its director, which if confirmed would date the Knights-to-Indians substitution at
+a named Canadian camp.
+
+Kanawana itself: not named in this issue — but the man who studied its counsellors is, as
+the national association's 1964 speaker on leadership training.
