@@ -2704,3 +2704,296 @@ camp she organised there — "tents remind us of home; and the lake, fed by hot 
 always warm."
 
 **Kanawana itself: not named in this issue.**
+
+## 31 — Vol. 8 No. 4, June 1956
+
+★★ **A CAMP SONG LEADER PUTS IN WRITING THAT PROVENANCE MAY BE INVENTED.** Kay McClelland
+(Section Head, Camp Oconto), "Campfire Time," on how to teach a camp a new song:
+
+> "**When introducing a new song be sure to set a background whether true or fictitious.**
+> Perhaps the circumstances leading to your acquiring the song or a little about the country
+> the song concerns, anything to set the mood."
+
+Printed as ordinary craft advice in the national camping magazine. For `p_048` and for every
+Kanawana song whose origin story rests on camp memory, this is the single most important
+sentence found in the run so far: **the story a camp tells about where its song came from was
+a recognised piece of song-leading technique, explicitly permitted to be made up.** It does
+not mean any particular Kanawana origin story is false. It means an origin story surviving
+only in camp memory is not evidence of origin, and the Alabama Jubilee kind of finding —
+a printed tune traced to a documented source — is the only kind that settles anything.
+
+The article is valuable beyond that. It sets out a **complete campfire structure**: one
+person in charge of all campfires, who must ensure every counsellor knows the songs in
+advance because "the counsellors' strength and confidence in song will be most valuable";
+campfires planned ahead but kept flexible; **always opening the same way — a short
+fire-lighting ceremony and the round "Fire's Burning"**, with the circle divided into
+sections before it begins so it is already divided for later rounds; then a rollicking song,
+then requests ("the campers will ask for their favourites time and time again"), then the
+new song, then a story, then the quiet songs, then Vespers and Taps.
+
+**The named repertoire**: "Fire's Burning," "We Are the Redmen," "Six Little Ducks," "My
+Paddle's Keen and Bright," "Old King Cole," "Kookaburra," "My Tall Silk Hat," "Whip-poor-
+Will," "Father Time," "Land of the Silver Birch." Of these only "Redmen" (1 fact) and
+"Silver Birch" (1 wiki file) appear anywhere in the repo. And for the story slot she names
+**"The Tadger Tales, Indian Stories or Legends"** — **"Tadger" is almost certainly an OCR
+misreading of "Tajar,"** the Tajar tales found at Glen Bernard and at the Winnipeg Guides'
+Caddy Lake camp in issue 21. That now puts the Tajar in **three** Canadian camps and, here,
+in the standard campfire storytelling slot. "Tajar" still returns zero hits in the repo.
+
+★ **Dorothy Percival profiled** by Helen MacKey Hall-Wood, on her retirement from Camp
+Ouareau after **29 years** — with a **Reception and Presentation held in her honour in
+Montreal**, Ouareauites coming from near and far. Born and educated in Montreal; introduced
+to the outdoors by her father on fishing trips to the Gatineau Hills; began teaching with
+the **Westmount School Board** while volunteering at the **Old Brewery Mission Camp**;
+resigned teaching in 1922 to become **Girls' Work Secretary of the Montreal YWCA for two
+years**, during which the job **"involved the directing of the YWCA's Camp Oolahwan at St.
+Margaret's, Quebec"**; then three summers as a Ouareau counsellor, associate director, and
+**the directorship of Camp Ouareau from 1937**; **President of the Quebec Camping Association
+for two years** and **Membership Chairman on the CCA Board**; **lectured for years to McGill
+University Health and Physical Education students on camping.**
+
+Two things to carry forward. First, this is **a third independent statement that Camp
+Ouareau "had been established by Miss Mabel C. Jamieson"** — Halliday said it in December,
+Hall-Wood repeats it here. Second, **"Camp Oolahwan at St. Margaret's, Quebec"** is a
+placename the wiki does not use: `camp-oolahwan.md` locates the camp on Lake Walfred in
+Sainte-Marguerite-du-Lac-Masson, which is consistent, but a 1956 witness calling it
+"St. Margaret's" is worth having as corroboration. And a **QCA presidency for Percival, two
+years, somewhere before Roy Locke's** — another name for the QCA presidential sequence this
+read is assembling (Locke → Ruby Smith 1953-54 → O. N. H. Owens 1954-55).
+
+★ **A totem pole raised in a new council ring, August 1955, at Camp Tanamakoon** — Frances
+Gage, "Creative Art at Summer Camp." **Hurricane Hazel felled the cedar**; it was cut and
+stripped by "Jack, one of our expert and ever-willing woodsmen"; the nine-foot pole was the
+secret project of **"the 'Shawnee,' our newest camper group, formed this year from a
+subdivision of our oldest group"**; **a design was drawn up "telling the history of the new
+'tribe' in Indian symbols"**; the whole camp came for a carving demonstration, then the
+Shawnee came in threes to the barn loft each day at 4.30 until tea; **"the final result was
+erected late in August, in a newly built council ring. Every camper did a small part."**
+
+This is a fully dated, fully documented instance of the thing Kanawana's own council-ring and
+section-name material describes: **a camp inventing a "tribe," writing it a history in
+invented "Indian symbols," and carving that history into a pole for a council ring — in
+1955, by campers, as a craft project.** It is the clearest evidence in the run of how the
+Indian-lore apparatus of Canadian camps was actually manufactured, and it belongs in
+`traditions/council-ring.md` and `wiki/history/indigenous-names-and-land.md` as the
+comparative case. Gage's own framing is worth quoting: "we cannot, as the Indians did, paint
+our home-made pigments on hand-prepared skins, or carve wood and slate with stone chisels,
+for we have neither the time nor the technique." Tanahamakoon's other place names appear in
+the same issue's Marathon Day course: **Cree Point** and **Dawendena** — the latter close to
+"Dawendine," the Mohawk chief's daughter credited in issue 29 with a Glen Bernard legend.
+
+★ **Camp Elphinstone's published statement of beliefs**, the editorial — Vancouver YMCA,
+programme committee under **Lorne E. Brown** with camp director **David T. Yard**. Fourteen
+"We believe… Thus we will…" clauses. One is a direct policy reversal worth noting: **"that
+the use of awards and competitions to motivate campers to high standards of personal
+accomplishment as well as tidiness and neatness, cannot be justified. Thus we will eliminate
+awards and competitions as a means of motivation."** A YMCA camp abolishing its award system
+on principle in 1956 — the exact opposite direction from Kanawana, whose award traditions
+(Order of Owens, L&V Games, Knights of Kanawana) run continuously through the same decades.
+Also: campcraft and naturelore "developed through out-tripping, are **the cornerstones** of
+the camp programme"; parents welcomed and Parents' Days encouraged; "a fundamental need for
+worship, **irrespective of creed or color**"; and "chapel services, campfires, evening music
+and **'drifts'**" — "drift" as a named evening programme element.
+
+**The homesickness cure, printed as method** — Helen Cruden, R.N., camp nurse at the
+Haliburton Scout Reserve. She describes first trying "T.L.C." (comic books, soft bed, games,
+visitors at will, food on a tray) and finding it made things worse; then adopting the camp
+staff's own recipe: the boy is **isolated in the camp hospital and given nothing but a jug of
+apple juice** until the aches and pains go, then a very large full diet and **put to work
+with a staff member** at painting, building or gardening until "he himself makes the request
+to return to his campsite." The stated theory is to add "a third and considerably less
+desirable situation which leads the child to seek the lesser evil: life back on the
+campsite." She is careful that a doctor must first rule out physical illness — "a mistaken
+diagnosis of homesickness may end in tragedy." This is what a Canadian camp infirmary did to
+a homesick child in 1956, published approvingly. Necessary context for any Kanawana material
+on homesickness, and the kind of practice a reader fifty years on will not otherwise imagine.
+
+**K. E. B. Symons, Ontario Department of Health, "A Public Health Inspector Looks at Summer
+Camps"** — the actual inspection standard, in numbers: **one toilet seat per ten females and
+per twenty males, one urinal per fifteen males**; nine inches minimum earth cover for buried
+night soil; **thirty square feet of floor per camper in tents, three hundred cubic feet of
+air space in cabins**, eighteen inches between single cots and thirty between double bunks;
+**chlorine residual 0.2–0.3 ppm after fifteen minutes**, tested by ortho-tolidine; **only
+pasteurized milk permitted**; refrigeration below 50°F; dishwashing at 110°F with a
+sterilising rinse (170°F for two minutes, or chlorine at 100 ppm, or quaternary ammonium at
+200 ppm); no common drinking cup; no natural ice in direct contact with drinking water; no
+laundry in the natural waters around the camp; isolation quarters away from eating and
+sleeping accommodation. **In Ontario the summer camp operator had to hold a licence.** This
+is the regulatory floor of the period, from the regulator.
+
+**Two more "Duel Issues"**: short-term versus long-term camping. The pro-short-term case is
+again argued on class — "it gives many children whose families could not afford to send them
+to a four or eight-week camp, a chance to have a camp experience," and lets sponsoring
+groups "help more children, or, in some cases, to help at all." Consistent with the uniforms
+duel in issue 30: the recurring fault line in Canadian camping debate of this period is who
+can afford to come.
+
+**E. Flynn on Junior Camp (five to eight year olds)** — a full practice list: cabins not
+tents; inside shutters over the screens; low windows; single beds; **a separate dining room,
+fed in two small sittings**; older rather than younger counsellors ("the younger the camper,
+the older the counsellor is a general rule"); late-morning and early-afternoon swims for
+maximum sun; **out of the water at the first blue lips, shivering, "duck bumps"**; sweaters
+and socks to bed because "warmth at night cuts down on bed-wetting"; a full hour's rest after
+lunch with **no comic books, colouring books or letter-writing**. Announced as a book,
+*Junior Camping*, $1.00, for 1956-57.
+
+**Ted Yard's "Whoduzit" on who sets the camp programme** — the fullest published account in
+the run of a YMCA camp's internal programme machinery: philosophy set by Camp Committee and
+Director; six highlight events placed in advance; instruction groups planned over the winter
+and confirmed at pre-camp, with **each child choosing his own group and the section head
+tracking choices "to help them make decisions which will result in a well-rounded experience"
+— except beginners' swimming, which is compulsory and scheduled**; cabin-group activities
+filling the other half-day; **a Camper Council with representatives from each cabin**;
+all-camp events run by struck committees ("Chapel Committee," "Annual Games Committee,"
+"Circus Committee") with representation from the whole camp; daily clearance through a
+**Senior Staff Cabinet** of director, section heads, waterfront, out-trips, music and crafts
+directors; and explicitly **"There is no over-all 'program director' in this particular
+situation."** A near-exact template for how a camp of Kanawana's type and era was run.
+
+Also: **Nancy Porter's "Operation Marathon"** — a 22-leg camp-wide relay at Tanamakoon
+touching every activity in camp (ring-buoy throw, pool swim, tower jump, standing paddling,
+hammering and drawing nails, fire-lighting to burn a suspended string, plant collecting,
+orienteering, a dramatics reading, leatherwork, tennis serve, archery to a score of 25, two
+octaves of C major on the piano, gunwale bobbing, rigging and stowing a dinghy), six teams
+crossing age groups. **Kirk Wipper on trips and campcraft**, with a fifteen-item list of
+accessory activities and an insistence that trips be **evaluated afterwards and the
+observations recorded in confidential files** on individual campers. **Carolyn M. Schmidt,
+Institute of Child Study**, on what camp does to children.
+
+**Kanawana itself: not named in this issue.**
+
+## 32 — Vol. 9 No. 1, December 1956
+
+★★ **MABEL C. JAMIESON'S OWN ACCOUNT OF FOUNDING CAMP OUAREAU — AND IT DATES IT 1920.**
+She writes the "Among Ourselves" profile of Ferna G. Halliday, and the byline reads
+**"By Mabel C. Jamieson, Founder, Camp Ouareau."** In the first person:
+
+> "Having decided to establish a Camp for Girls in the Laurentians **my association with the
+> Y.W.C.A. was broken off during the summer of 1919**. Arrangements for this project having
+> been more or less worked out by late September I had planned to enjoy a winter holiday in
+> the Old World. Ferna's family agreed to have her join me and for almost five months we
+> wandered about as fancy dictated. **In 1920 a Camp was established on Lac Ouareau and for
+> two years Ferna and I worked happily together.** By that time, however, Ferna had decided
+> that she would like to have a camp of her own. Having chosen the Kingston area for her
+> camp **we travelled together in the fall of 1921**, visiting lake after lake until a
+> suitable site was located."
+
+**This conflicts with `wiki/connections/related-camps/camp-ouareau.md`**, which follows the
+camp's own official history: land acquired from Mr. Leguerrier in 1921, camp opened 1922,
+Jamieson and Halliday co-directors 1922–23. Jamieson's account puts the camp in operation in
+**1920**, has the two of them working together through **1920 and 1921**, and has Halliday
+already looking for her own site in the **autumn of 1921**. She also describes herself
+throughout as the founder and Halliday as the young colleague she brought in, which is a
+different relationship from "founded by Jamieson and Halliday."
+
+Both are documented sources: a camp's institutional history against a first-person statement
+by its founder printed in the national camping magazine thirty-six years after the fact. The
+standing directive covers oral history versus documents, not two documents against each
+other, so **this is a human decision point.** Recorded here for a conflict record, not
+resolved. Worth noting that the wiki's own footnote already flags Ouareau's dating as coming
+from the camp, and that Jamieson made the same claim in the same magazine in a byline she
+presumably approved.
+
+★ **How Camp Oconto got its name — from a railway stop.** In the same passage: on the 1921
+site-hunting trip, **"An interesting Indian name on a backwoods C.P.R. stop caught our fancy
+and Oconto was chosen as the name of the Camp."**
+
+A documented, first-person account of a Canadian camp taking an Indigenous-sounding name off
+a railway station sign because it "caught our fancy." This belongs in
+`wiki/history/indigenous-names-and-land.md` as the comparative case: it is direct evidence
+about how camps of this generation acquired such names, and it is the right frame for any
+inquiry into where "Kanawana" came from — the answer is as likely to be aesthetic selection
+from a map or a timetable as anything with a documented Indigenous provenance. Neither
+"Oconto" nor this anecdote's substance is in `facts.json`.
+
+★ **Taylor Statten died at Canoe Lake, 1 November 1956.** The memorial page prints **the
+Ahmek Hymn by Dr. A. Eustace Haydon** in full: "Lift we our hearts to the house of our
+dream, / Where beauty of nature and sky's glory gleam; / Deep in the wildwood, set like a
+gem, / Hail to old Ahmek, the maker of men…" A named author for a named camp hymn — the
+kind of attribution that is almost never recoverable, and a model for what a Kanawana song
+attribution would look like if one exists. Statten had been profiled alive eighteen months
+earlier (issue 27); the KB already carries him substantially.
+
+★ **A. L. Cochrane on J. G. Althouse, and the founding of Bark Lake.** Althouse, Chief
+Director of Education for Ontario, died suddenly at Temagami in August 1956. Cochrane —
+writing as founder of Camp Temagami and Althouse's neighbour on the lake since 1930 —
+records that Althouse **"secured for the Association a handsome annual grant without which
+we could not have carried on our work,"** and that foreseeing the need for trained leaders
+he planned a summer camp **owned and operated by the Ontario Department of Education**.
+**Mr. J. H. Passmore of the Department was given a roving commission in 1947 to find a
+site; Bark Lake in Haliburton was chosen**, approved by **Premier George A. Drew** (then also
+Minister of Education) and by Althouse. By 1956 it trained **over a hundred young men in the
+first half of each summer and the same number of girls in the second**, and the Department
+gave **financial assistance to Welfare and other non-profit camps**. So the government of
+Ontario was directly funding both leadership training and welfare camping by the mid-1950s;
+Bark Lake's director H. M. Devenney writes this issue's editorial. Cochrane's aside about
+**Joe Morrison** — "a middle-aged Temagami native, whose father was a Hudson's Bay Company
+employee," son of an Indian mother and a Scottish father, whose "only textbook was
+Shakespeare, the one book brought to this country from Scotland by his father," and with
+whom Althouse and his father discussed Shakespeare in the woods for hours — is a rare
+individual portrait of an Indigenous man in this run, named and not generic.
+
+★ **A third "Duel": competition versus no competition** — and this one bears directly on
+Kanawana's award traditions. The anti-competition camp states its founding rule: **"Our very
+first thoughts about a camp for children centered around one rule; and we've held to it for
+years… no competition among the children,"** because a child's life "is one long road of
+competition from the first day he or she sets foot inside the school door," and even church
+and Sunday School offer "some sort of prize or award… for perfect attendance or good
+behaviour." Its closing line: **"We teach tidiness and good sportsmanship without benefit of
+bright little tin mugs and badges."** Set against Camp Elphinstone's 1956 abolition of awards
+(issue 31), this is now two documented Canadian camps rejecting the award system on
+principle in the same year — while Kanawana ran the L&V Games from 1947 and would create the
+Order of Owens in 1976. That is a real and dateable divergence in Canadian camping practice,
+and it makes Kanawana's award traditions a deliberate position rather than a default.
+
+★ **An anonymous complaint that the buddy system does not work** — "An Open Letter to the
+Red Cross, Water Safety Division," signed "Hank Smith, Water Front Director, Camp
+Hav-A-Good-Tym" (an obvious pseudonym). Five numbered objections, all practical: children
+take a long time to pair up and "the odd one out, just doesn't turn up to swim cause he
+hasn't got him a buddy"; children forget their buddies and "a mob in bathing suits… look as
+like as peas in a pod"; **the buddy whistle every five minutes drives the good swimmers away
+from general swim entirely** — "Our seniors who knew how to swim, stopped coming in" — yet
+"it is long enough for anybody to drown quite easily"; and checking out requires someone who
+knows every camper by sight, "just impossible" in the first week of a large camp. Published
+in the association's own magazine as an appeal for answers. Necessary context for reading
+any camp's waterfront records: the standard safety system of the period was known by the
+people operating it to have holes.
+
+**Rev. R. F. Sneyd, "The Camp Chapel"** — how to build one, and an argument about what it is
+for: "Merely giving an opportunity to conduct a familiar service, carry through a familiar
+ritual, or go through the motions of some familiar forms experienced at home, is not good
+enough for a camp chapel." Practical detail — sited accessible but away from noise; **"many
+of our camps have a tree or some other definite mark beyond which the campers are requested
+to be silent as they approach the outdoor sanctuary"**; tall pines instead of a gothic arch;
+**"a pure white birch cross"**; a holy table built from camp limbs or rocks; a lectern for
+the Bible; transplanted local flowers rather than altar flowers; and explicitly **"Let us
+avoid the use of discarded furniture for benches."** A period template for exactly the kind
+of outdoor chapel Kanawana had.
+
+**Ted Yard's "Whoduzit: Who Evaluates?"** names the assessment instruments actually in use:
+the Department of Health questionnaire, the Camping Association questionnaire, the
+Association's Structure of Standards and Desirable Practices, *Guideposts to Better Camping*,
+**and the YMCA Camp Appraisal Form** (with parallel forms from Scouts, Guides and the Council
+of Churches). **A YMCA camp appraisal form existed as a standard document in 1956** — if the
+YMCA of Montreal kept completed ones for Kanawana, that is a specific archival target.
+
+**Daisy Dotsch (Junior Section Head, Camp Oconto) on the Junior dressing-up trunk** — an
+unusually vivid record of unsupervised imaginative play at camp, including a child's own
+written prayer transcribed verbatim: *"Jeses, frend of little childrun, be a freind to me.
+Stay be sied me all the tim. Amene."* **David Palter (Camp Kawagama) on movies and slides for
+camp promotion** — the mechanics and costs of camp film-making in 1956 (commercial production
+about $5.00 a linear foot; magnetic striping at 16½ cents), and the recommended three slide
+sets. This is the same David Palter whose wife was named in issue 30 as co-investigator of
+the History of Canadian Camping. **Stratton Franklin Caldwell (Regina YMCA) on Camp Paivika**,
+California — a coeducational camp for several hundred handicapped children a year, with a
+council-fire ring purpose-built as **four circular concrete levels joined by ramps so
+wheelchairs could be moved up or down.** **Lois Boast on the second National CGIT Camp** at
+Camp Kwasind, Skeleton Lake, 9–20 July 1956 — 68 campers and 19 leaders from every province
+and from India, Formosa, Trinidad and Bolivia.
+
+Also, a classified worth noting: **"URGENTLY NEEDED: Director for children's Welfare Camp
+near Montreal. Boys and girls from 6 to 12… Mrs. A. T. Henderson, 50 St. Sulpice Road,
+Westmount, Quebec."** An unnamed Montreal-area welfare camp advertising for a director in
+December 1956 — a lead for the Quebec camp landscape article.
+
+**Kanawana itself: not named in this issue.**
