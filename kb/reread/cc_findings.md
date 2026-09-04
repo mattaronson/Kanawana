@@ -5974,3 +5974,184 @@ comrade as well as leader." And the Ontario Department of Lands and Forests
 reports that **campers caused 265 forest fires in Ontario in 1960**.
 
 Kanawana itself: not named in this issue.
+
+## 51 — Vol. 13 No. 4, June 1961 ★★★
+
+Pre-season issue. Officers slate for 1961, the full Annual Meeting report, and — the
+reason this issue is starred three — a signed policy statement from the YMCA's own
+national body that puts a date and a place on the origin of Canadian YMCA camping and
+describes the appraisal machinery Kanawana would have been subject to.
+
+**"Towards Better Practices and Higher Standards" — A Statement Commissioned by the
+National Committee on Youth Programme of the YMCA's of Canada** (pp. 180). Unsigned,
+institutional, and the most directly load-bearing single page found in the read so far:
+
+- **"Canada's first organized camp was conducted by a YMCA Secretary at Truro, Nova
+  Scotia, in 1890, and by the year 1905 there were thirteen different YMCA camps in
+  Ontario and Quebec."**
+- **"as early as 1922 an extensive system of grading YMCA camps was inaugurated by the
+  Ontario and Quebec Boys' Work Committee. This system gave points for meeting standards
+  in such areas as sanitation, site, equipment, programme, organization and
+  administration, conservation, printed reports and statements."**
+- "a major camping consultation gave impetus to further standard-raising programmes in
+  1947, and since that date the printed statements regarding 'Minimum Standards',
+  'Desirable Practices', and 'Camping Guideposts' have become an integral part of this
+  work."
+- **"The self-evaluation form and the visitors' appraisal form now used by Canadian YMCA
+  camps have been in use (with modifications and developments) since 1953."**
+- Techniques used by the National Committee: visitations; an Appraisal Form; a
+  Self-Evaluation Form; regional get-togethers of YMCA camp directors; camp directors'
+  seminars; and recommending active participation in provincial camping associations
+  ("In this area YMCA Secretaries have given a great deal of leadership from coast to
+  coast").
+- On the associations' own standards work: participation is voluntary and educative,
+  with "certain limitations inevitably encountered through the very nature of such
+  associations" — a mild but legible institutional reservation about letting the CCA
+  and provincial bodies inspect YMCA camps.
+
+Four things follow for this project. **(1) A documented-vs-documented conflict.** `f_2241`
+records the CCA's circulated claim — "Ace" Milks's essay, hedged "so far as we can
+discover" — that the first Canadian YMCA camp was at **Chance Harbour, N.S., in the
+summer of 1889**. The YMCA of Canada's own national committee here says **Truro, N.S.,
+1890**. Same province, adjacent years, different town, and the second source is the one
+institutionally closest to the event. Neither is contemporary. Both are documented, so
+the operator's oral-history-yields directive does not apply: this needs a conflict record
+and human review. **(2) The 1922 grading system was run by the Ontario and Quebec Boys'
+Work Committee** — Kanawana's own jurisdiction. If those point-scored gradings survive,
+they are per-camp assessments of Kanawana from the 1920s, covering site, sanitation,
+equipment and programme. That is a new and specific archival target. **(3) The YMCA Camp
+Appraisal Form**, already queued as a lead, is now dated: in use since **1953**, with a
+companion **self-evaluation form**, both revised over time. **(4) Thirteen YMCA camps in
+Ontario and Quebec by 1905** gives a denominator for Kanawana's early years that the wiki
+does not currently have.
+
+**CCA Annual Meeting, King Edward Hotel, Toronto — reported here; the President's
+election is dated 23 February 1961 in Murray's own greetings.** VanWagner chaired in the
+absent Murray's place. Officers approved unanimously:
+
+- Hon. President — Miss **Mary Edgar**; Past President — **F. M. VanWagner**;
+  President — **K. H. Murray**; Secretary — **Mrs Agnes Mutchler**; Treasurer —
+  **W. J. C. Hewetson**; Executive Secretary — **Miss Frances Kelly**.
+- Vice-Presidents, each the president of a provincial association: A. Zisi (Nova
+  Scotia), **Mrs A. Kahn (Quebec)**, Miss M. Govan (Ontario), Rev. R. Harper (Manitoba),
+  G. McKeen (Alberta), Mrs P. Broome (acting, British Columbia).
+
+Note the spelling drift the OCR carries: "Abol Ziai" in the front-of-book masthead is
+"A. Zisi" here, and Murray writes his own executive secretary's name "Francis Kelly"
+against the slate's "Frances Kelly". Both are the same people; flag before any of these
+names is treated as a search string.
+
+**Quebec's report (Mrs Alta Kahn), carried forward from p01 of this issue**: two goals
+for 1961 — a government charter incorporating the French and English sections into one
+Association "each retaining its autonomy", **granted in March 1961**; and **"To visit and
+appraise all camps in 1961"**, with a Manual of Desirable Practices already in visitors'
+hands for two years and "a committee ... working on a marking process that will ensure
+confidentiality." She invited the CCA to Montreal for 1962. Read against issue 47's note
+of a QCA visitation programme running by spring 1960, this makes a **QCA appraisal of
+Kanawana in 1960 or 1961 a live and specific archival target** — and the confidentiality
+machinery explains why such a record would not have been published.
+
+**VanWagner's president's report** gave the first national count found in this read: a
+questionnaire to the provincial associations showed **"there are between twelve and
+fourteen hundred camps in Canada serving over two hundred thousand boys and girls."**
+Provincial figures alongside it: Ontario 372 OCA members representing 166 camps, 770
+conference delegates, **102 camps visited to date** under its standards programme;
+British Columbia 97 resident camps; Manitoba adopting Ontario's standards and beginning
+visitations that summer. Every provincial association was represented for the first time.
+
+**Magazine**: Mrs G. W. Flynn gave up the editorship; **Joyce Bertram** takes it, does
+the paste-up herself, Wilda Watson proof-reads, and "Quebec and, in particular,
+Mrs. VanWagner has been most helpful with contributions." Murray's greetings credit
+**"Barry Lowes and the Editorial Committee"** — so Lowes chaired the committee under
+which Bertram edited. Murray also notes the office has a paid executive secretary and
+"We could never go back to the volunteer office work of the earlier days."
+
+**Quebec and Montreal material elsewhere in the issue:**
+
+- **"Feeding A Camp On A Limited Budget"** by J. G. Lang, Manager, and Barbara Lang Ross
+  — **Macaulay Camp, owned and operated by the Montreal Presbytery of the United Church
+  of Canada**, at L'Orignal, Ontario on the Ottawa River five miles west of Hawkesbury.
+  A welfare camp for Montreal mothers and small children who could not afford a holiday:
+  roughly a third mothers, a third children 6–11, a third under 5, about 10 per cent of
+  those "of high chair age"; volunteer counsellors recruited from Montreal churches; the
+  rest of the season used by the Young People's Union and Laurentian-area Cubs. Roughly
+  **500 meals a day at 19 cents per person per meal in 1955, 20 cents in 1960**. A nurse
+  fed the under-twos half an hour before the general meal, mothers feeding their own
+  babies under her eye. This is a second Montreal-run camp in the Ottawa valley with a
+  documented operating economy — useful as a cost comparator for Kanawana's own budget
+  figures, and a reminder that Montreal's camping world was not only the YMCA's.
+- Continental Casualty's Camp-Guard accident-and-sickness plan advertises a Montreal
+  office at **2100 Drummond Street**.
+- Two "How We Run Our Tuck Shop" pieces (Lowes at Timberlane, Bertram at **Ouareau**),
+  already noted from p01, with full operational detail — stock, hours, banking, limits.
+
+**Indian-lore thread, continued.** Two more entries on the practice side of the argument
+Hart Devenney rejected in issue 50:
+
+- **Walter Mingie, "Director, Canoe Trips and Intermediate Section, Camp Nominingue"** —
+  "A Day of Indian Games", run twice already at Nominingue. Two hundred and forty boys
+  in six tribes of forty, each tribe divided by age into **papooses, braves, scouts and
+  warriors**, a senior staff member as Tribal Chief and a counsellor chief per section.
+  Campers "stripped to the waist, wearing a blanket and his tribal head-band"; a flaming
+  arrow opens the games; winners are painted with a coloured water-paint mark. Events:
+  handkerchief snatches, paddle holding, tug-of-war, rooster fights, Indian arm
+  wrestles; next day lacrosse for warriors, campcraft for scouts, water games for
+  braves, village-building for papooses, points chalked on a blackboard at the dining
+  hall. Water games open with a half-mile inter-tribal **war canoe race**, then novelty
+  races (four-man hands-only, in-and-out, poling, submarine, gunwaling), closing with an
+  obstacle relay in knee-deep water. Campcraft: tree felling, log chopping, buck sawing,
+  water boiling, string burning, stake driving, a **caber toss for the Tribal Chiefs**,
+  and a nail-driving relay. Finale: the whole camp in pyjamas and blankets, led "snake
+  fashion" in boats and canoes around the lake to a circle about a bonfire **anchored a
+  hundred yards from shore**, which "mysteriously bursts into flame" as the tribal yells
+  sound.
+  — This matters for Kanawana on two counts. Nominingue is the camp already in the KB
+  through `f_0186`–`f_0189` (VanWagner), so this is a dated, detailed picture of
+  programme at a Laurentian camp in Kanawana's own back yard. And the section names
+  **scouts** and the age-graded tribal ladder are the same species of naming as
+  Kanawana's own section system (Scouts, Colonists, Rovers) — worth holding against the
+  Phase 2 mandate's question about a common origin in the camping movement's literature.
+  Mingie is not in the KB or the wiki.
+- **Camp Wahcahmie's Water Carnival** (author unnamed in the surviving page): an
+  all-camp parents' day built by camper committees under counsellor advisors, closing
+  with visitors "as silent observers ... initiated into the Indian Ceremony on **Council
+  Rock**" — July campers carving and painting a totem pole and presenting it in a
+  pageant, August campers painting an Indian legend on canvas laced with leather thongs
+  to a birch structure — and then the camp's initials set ablaze in pre-treated burlap
+  and wire on the horizon. Bears on `council-ring.md`: a second dated instance of a named
+  Council Rock used as the setting for a ceremony staged for outsiders.
+- The crafts article (continuation from p. 160) is explicit about the ideology: "let them
+  now make use of native materials ... The art of pioneering, life cycles, **Indian lore**,
+  nature themes ... can be used as themes." Its project list includes **Indian Dolls**
+  made from stuffed nylon stockings or dry corn cobs with corn tassels for hair, on
+  papoose boards covered in unbleached cotton.
+
+**Other content, recorded for completeness.** A medical article (continued from p. 159)
+setting out camp health practice under doctor and counsellor — daily inspection, a
+morning "dip, and not a swim", airing of beds because "a bed-wetter will not be able to
+hide this trouble if airing of beds is enforced", graduated sun-tanning, fatigue
+prevention in the first and last weeks, no long-distance swims, a weekly hot bath, no
+shared towels, laxatives discouraged, first-aid instruction before canoe trips; reprints
+10 cents from the OCA at 93 Yorkville Ave. "Sermons Under The Sun" from **Y.W.C.A. Camp
+Tapawingo** on flag-raising devotions ("God has created a new day, / All silver and green
+and gold"). Judith Sule of the **Scarborough Y.W.C.A.** on day-camp programme planning
+("Each child should be caught, not taught, by the wonder of life"; "Delight seems to be
+the missing ingredient in most camp programme"). A continuation page (from p. 158) on
+counsellor practice that reads directly on the embargo thread: **"A camper's confidences
+are confidential, whether they are shared naturally or in a sudden moment of intimacy, or
+through a diary which has been left open, or a letter lying on a bed. They are not for
+public edification which goes by another name, gossip, and is anything but
+professional."** Two camps advertised for sale: an unnamed boys' camp 40 miles from
+Huntsville sleeping 204, and **Camp Wabi-Kon** at $100,000, accommodating 300. The
+American Camping Association advertises its 24-page *Camper Guidance — A Basic Handbook
+for Counsellors*, 6,000 reprints sold in three weeks.
+
+**New names for the stub-threshold assessment**: Walter Mingie (Nominingue), J. G. Lang
+and Barbara Lang Ross (Macaulay Camp), Judith Sule, Wilda Watson, A. Zisi / Abol Ziai,
+Barry Lowes. **New archival leads**: the Ontario and Quebec Boys' Work Committee's 1922
+camp gradings; the 1947 YMCA camping consultation papers; the 1953 YMCA self-evaluation
+and visitors' appraisal forms; the QCA's 1961 all-camp appraisal returns and its
+confidential marking scheme; the Quebec government charter of March 1961 incorporating
+the QCA's two sections.
+
+Kanawana itself: not named in this issue.
