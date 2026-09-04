@@ -4842,3 +4842,156 @@ peeling and just under 45 lb once the eyes were out** — a third of the crop lo
 in preparation.
 
 Kanawana itself: not named in this issue.
+
+## 44 — Vol. 12 No. 1, December 1959 ★★
+
+Walter Mingle on Camp Nominingue's canoe-trip counsellor training; Mrs Brigden
+R.N. on camp health; Barry Lowes on selecting a camp site; Carruthers's food
+handlers' rules; a two-sided **parents' panel on camping**; Joyce Bertram's book
+page; Bettye Breeser on nature; Harold Gore on water skiing; Toner; a sermonette.
+
+**Camp Nominingue's canoe-trip system, written down (pp. 10–11, 26).** By
+**Walter D. Mingle, Director of Canoe Trips**, and this is the closest structural
+comparator the run has yet given for Kanawana's own tripping programme — a
+Laurentian boys' camp two valleys away, run by the president of the national
+association:
+
+- **"At Camp Nominingue every counsellor and Junior counsellor is a Trip
+  Counsellor."** Most take out **two trips of three to eight days** in a season.
+- **Party size: two counsellors and five campers in two canoes**, "pairing up a
+  new counsellor with one who has had previous canoe trip experience."
+- In-service training during the advance party and first days of camp, with
+  practical sessions in canoeing skills, portaging, campcraft (axemanship, tent
+  pitching), cooking, and **artificial respiration**.
+- Every trip leader is issued mimeographed **"a menu, a food list, cooking and
+  mixing directions, an equipment list, a check list of things to be done before
+  departing, a map, a portage report covering his area, and a trip report check
+  list to be completed upon his return."**
+- The trip is planned with the party — destination, route, and "some purpose or
+  project for the trip, such as collecting driftwood, making a campsite or
+  visiting some popular spot" — and the itinerary and an accurate list of the
+  party are left at camp.
+- Loads balanced so "the strongest camper carries the heaviest load"; the lead
+  portager stops if the trail forks or he loses sight or sound of the party.
+- At every campsite: **tent, latrine, garbage pit ("not in the lake please"),
+  fireplace and kitchen table**, every time.
+- Safety: swimming only where and when the leader says, parallel to shore, buddy
+  system with a counsellor as lifeguard; one canoe kept ashore for rescue; **only
+  campers with demonstrated axe skill may chop, and then supervised**; "Always
+  know the fastest way home. Have an emergency plan."
+- And the pedagogy: "**Let the campers do the work.** Guide them and help them,
+  but let them do as much as their age and ability permit."
+
+If Kanawana's trip records survive in any form, this is the document to read
+them against. "Mingle" returns zero hits in the repo; Nominingue has fifteen
+facts but nothing on its tripping method.
+
+**The parents answer back (pp. 22–23, 28, 33, 42).** The **OCA Eastern Section's
+sixth annual conference in Ottawa** convened "a panel of interested parents", and
+the magazine printed both sides. Dorothy H. Davis's "Let's Go Camping" is the
+expected endorsement, from a Guide-camping mother of four. **Margaret O.
+Edwards's "NEVER AGAIN!" is not**, and it is the only sustained parental
+complaint the run has produced:
+
+They enrolled an **eight-year-old** on the strength of a folder picked up at a
+Home and School meeting — "without meeting the Director, without enquiring about
+counsellors, without seeing the campsite, without even contacting parents". On
+visiting day they found "great stretches of poison ivy" and campers "with running
+eyes and running sores on their arms and legs"; the infirmary "was filled to
+capacity… with poison ivy cases"; their son was in it with a turned ankle, his
+second in ten days, and so had never got into the water at all. Tents pitched on
+a hillside where "the excitement of the evening was to see if the tent would fall
+down in the night". Most of his bedding lost, the boy sleeping on floorboards
+under pooled blankets "in a huddle, reminiscent of a rat's nest". A pile of sand
+at one end of the beach that "no one had had the strength to spread"; water that
+"looked dirty, and foreign objects floated about on it". No director or
+counsellor findable — "aside from the Camp nurse, there didn't seem to be anyone
+over twelve in attendance." His missing equipment was located easily at the end:
+"The counsellor, it seemed, had merely brought his enthusiasm to Camp. Everything
+else he borrowed from the boys." And the boy came home in the clothes he had
+slept in for ten days: "**our counsellors always had us sleep in our clothes. It
+was faster in the morning.**"
+
+The passage worth quoting in any article about how camps managed parents is her
+account of why they left him there: "here we found ourselves facing a rather
+subtle form of **mental blackmail**. If a child left a camp before the allotted
+time, there was something wrong with him. Never with the camp, just with him!"
+Nine years on, asked whether anything about it was constructive, her son grinned:
+"**Just tell them that I learned to adjust to disaster.**"
+
+Read with Bertram's satire in issue 43, this is the same magazine printing, in
+consecutive issues, a director's complaint that camps had become over-organised
+and a parent's account of one that was not organised at all. Together they mark
+the real range of what "camp" meant in 1959, and they are a corrective to
+reading any camp's own promotional material — Kanawana's included — at face value.
+
+**Barry Lowes's camp-site selection guide (pp. 16–19).** A camp
+owner-director "who has just gone through the process of finding, purchasing and
+developing a new camp site" sets out a complete committee procedure and
+checklist. Useful denominators first: "**The Ontario Department of Education
+alone records nearly five hundred non-profit camps in their files. The Canadian
+Camping Association membership of about three hundred camps represents only a
+fraction of all the existing camps in Canada.**" Then the checklist, under Water
+Supply, Drainage, General Topography, Buildings, Swimming Area, Neighbours,
+Tripping, Transportation, Services and Legal — with the memorable warnings:
+"**Beware of wells, they have a habit of running dry in August**"; "**one acre
+per camper is recommended**"; "**BUY AS MUCH LAND AS POSSIBLE. It will never be
+cheaper.** Or else you may wake up one morning to find a city-type cottage
+subdivision on your doorstep"; and "It may be wilderness today but within a few
+years a public road serving cottagers on the lake could run right through the
+middle of your camp." He tells committees to visit each site two or three times
+weeks apart, to bring in an outside consultant before deciding, and then to draw
+a **Master Plan** plotting every building and clearing as it will ultimately
+appear. Every question he asks about a site — water source and volume, drainage
+soil, shoreline, who controls the lake level ("some lakes drop eight feet over
+the summer months"), underwater hazards, neighbours, access, the distance to
+hospital and dairy and forest ranger — is a question this project can put to
+Kanawana's own site history in `site/`. He lists six sources of help, the last
+being **Hedley S. Dimock's *Administration of the Modern Camp***, cited yet again.
+
+**Mrs George Brigden R.N. on running a camp infirmary (pp. 12–15, 27).** The
+practice: campers go **to the infirmary before their baggage or cabins** on
+arrival day and again in August, for a medical examination by a local doctor —
+"Camp nurses and directors should never be satisfied with the report of the
+examination done by the city doctor". Then, during a rest hour, the nurse goes
+**cabin to cabin collecting all medicines**, counsellors' included — "their
+cosmetic alcohol, aspirins, laxatives" — because they "should not be accessible
+to the younger age groups, for fear of overdose". Medicines taken with meals are
+carried to the dining room by the nurse in a little box and kept at her table,
+never left to counsellors: "I do not feel that the supervision of the taking of
+medicines with meals should ever be the counsellors' responsibility." She wants a
+locked cupboard for barbiturates, an icebox for allergy and anti-tetanus serums
+("The kitchen refrigerator is not the place for them"), a complete **isolation
+unit** of duplicate basin, cup, dishes and tray per sick child, sterilising
+facilities, and a stove in the health centre because "head colds and respiratory
+infections are the commonest complaints in every camp." On tripping she adds
+what Mingle does not: a medical check-up the day before departure and an early
+night; a staff check of every camper's clothing and bedding at loading; camp made
+by **4 p.m.**, never 5 or 6; the tent pitched **before supper every afternoon**,
+"not after the rain has started and the bedding is damp"; short routes with side
+trips preferred over round trips, because on a round trip bad weather forces a
+party to "paddle furiously the last day or two"; a permanent latrine at any
+campsite used repeatedly; and mosquito netting, which "I doubt many camps
+provide" — a bedroll net propped on four sticks. Her first-aid kit list ends with
+two items easily forgotten: **the first-aid manual, "a tiny book which ought
+never to be omitted", and a pair of scissors.** She also directs readers to
+Ebbs's *Fatigue at Camp*, now sold by the OCA at ten cents — the issue-41
+article turned into a pamphlet.
+
+**Also noted.** A full-page advance notice: the **1960 joint CCA/QCA conference,
+8–9 April 1960, Sheraton-Mount Royal Hotel, Montreal** — a second consecutive
+Montreal conference, and a target for the 1960 issues. Harold Gore's water-skiing
+guide is the sport's first appearance in the run as camp programme, dating its
+arrival in Canadian camps to about 1959 and crediting its origin to "French ski
+troops" twenty-five years earlier; "water ski" returns zero hits in the repo, and
+his "Code of the Safe Water Skier" and boat/motor matching rules are the standard
+Kanawana's own waterfront would have been measured against once it acquired
+outboards. Bettye Breeser's "Nature Tools" argues against having a nature
+specialist at all — "it is better that all counsellors, from the water-front
+instructor to the camp nurse, be aware of the never-ending challenge of on-the-
+spot nature" — and supplies an enchanted-trail sign scheme ("This is the birds'
+opera house — listen!", "The mitten tree (sassafras) grows close by — can you
+find any left-handed ones?"). And Master Canvas Craft now specifies the **"Bark
+Lake" out-trip tent as 5 ft by 7½ ft, no poles required**.
+
+Kanawana itself: not named in this issue.
