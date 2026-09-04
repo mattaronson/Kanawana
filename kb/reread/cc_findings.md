@@ -20555,3 +20555,151 @@ consultations with every provincial association and will report at the Squamish 
 logo contest closes 15 March. The ACA Mid-America convention at Buffalo is postponed by weather from
 15–18 February to 29 March–1 April. **Cash's Name Tapes** advertises from **Box 70, Station S,
 Montreal** — a Montreal supplier to the national camp market, six dozen printed tapes for $3.20.
+
+---
+
+## 112 — Vol. 29 No. 2, March 1977
+
+Twelve pages. Every item accounted for: News and Views from Across Canada (abbreviated this month —
+"Space is at a premium"); Water Relays (Dr. Diane Pick, reprinted from the ACA's *Camping Magazine*,
+February 1977); Parental Motivation Affecting the Attendance of Children at Summer Camp, Part 1
+(Madeleine Allen); National Questionnaire; two classified advertisements; Camping — A Real-Life
+Experience in Our Natural Environment (Kenneth Robinson). **Kanawana is not named**, but three
+Kanawana people are, which makes this the most Kanawana-adjacent issue since the 1976 directory.
+
+**★★★★ THE QCA ENGLISH SECTION'S 40th ANNIVERSARY CONFERENCE, 25–27 MARCH 1977 — with Derek Walsh
+in the chair and Ross Seaman and Norrey Owens in the room.**
+
+> "The 40th Anniversary of the English section of the Q.C.A. was indeed a great celebration.
+> **Telegrams from several spots around the world were received by President Derek Walsh** and the
+> weekend Conference (March 25 – 27) was a tremendous success due to the efforts of so many people
+> including **Chairman Wilf Jackson**. There was an impressive list of past presidents of Q.C.A. in
+> attendance, namely; **Norrey Owens, Zave Ettinger, Ross Seaman, Bob Lazanick, Peter van Wagner,
+> Bill McCarthy and Val Willis**. Special recognition was given to **Miss Frances Kelly** who for
+> many years has been the backbone of the English section of Q.C.A."
+
+**Note honestly what is and is not new here.** The past-presidents list itself is *already in the
+wiki* — the earlier term sweep found it and it is source 8 of `traditions/order-of-owens.md`, where
+it does the work of identifying Norrey Owens as O. N. H. Owens by office. This read did not find it.
+What the read adds is the rest of the paragraph and what follows from it:
+
+- **Derek Walsh presided**, and telegrams came "from several spots around the world" — the Kanawana
+  director of 1974–79 chairing his provincial association's fortieth anniversary. It also fixes the
+  conference dates as **25–27 March**, around the banquet of **26 March** announced the month before.
+- **Ross Seaman was there** — ten years after leaving the Kanawana directorship, twenty-eight after
+  first becoming QCA secretary. **Written into `people/a-ross-seaman.md` (sources 10 → 11)**, with
+  the observation that he and Owens are in the same room eight months after Owens endowed the Order
+  of Owens at Kanawana, and had sat on the same QCA executive in 1954 (Owens president, Seaman
+  conference chairman).
+- **Three Kanawana-connected people at one provincial anniversary** — Walsh presiding, Seaman and
+  Owens among the past presidents — which is a concrete answer to the standing open question in
+  `canadian-camping-movement.md` about whether Kanawana people held association office. They did,
+  and here they are in one sentence.
+- **Frances Kelly** is named "the backbone of the English section" — she is the office secretary of
+  the early 1950s (issue 30), the executive secretary of the 1960s, and the author of the Van Wagner
+  tribute in 1975 (issue 104). Twenty-five years in the same office. A stub candidate on the strength
+  of that alone.
+- **"Bob Lazanick"** here against **"Bob Lazanik" / "R. Lazanik, Montreal"** elsewhere in the run —
+  the same man, spelling unstable in the source. Flag before any name-matching pass.
+
+**★★★★ THE FIRST NATIONAL STATISTICS — and a frank account of why some directors would not
+co-operate.** The CCA published the results of its first annual statistical questionnaire:
+
+> "**68,000 Camper Spaces Available in 1976. 260,000 Campers attended Member Camps. Of the 32,000
+> staff members in 1976, 22,000 were paid and 10,000 were volunteers, while 1,600 came from outside
+> Canada. Food Costs equalled $8,000,000** (not including Salaries, fuel and kitchen supplies);
+> **Other costs (excluding food and salaries) totalled $14,000,000.**"
+
+Quebec was among four associations — with New Brunswick, Alberta and British Columbia — whose members
+responded at over 50%. The framing is as interesting as the numbers: the association wanted figures
+"in order to appear to be an organization with a strong foundation, and a knowledgeable spokesman for
+camping" when facing "members of the media, as well as Government officials," and reports that "some
+Camp Directors refused to co-operate… feeling that we were invading their privacy, or that the
+figures would be used to embarrass them," to which the editor replies: "**if we are unable to provide
+reasonable figures for the Government, we will then be legislated into answering certain questions…
+with no option to be coy or evasive!**" That is the same regulatory pressure the Quebec Department of
+Labour episode showed from the other end (issue 110). **Written into `canadian-camping-movement.md`
+as new sub-source 8ab**, with the note that 1,600 foreign staff — about one camp employee in twenty —
+is the scale of the visa waiver found at issue 111, and that these figures give the only national
+denominator against which Kanawana's own registration can be read.
+
+**★★★ MADELEINE ALLEN'S SURVEY OF CAMP PARENTS — the only study of Quebec camp clientele in the
+run.** Part 1 of "Parental Motivation Affecting the Attendance of Children at Summer Camp," from
+data at Camp Ouareau. Method: 150 questionnaires with the May camp mailing against a registration of
+**195 campers over the two-month season**; unsigned and uncoded "to encourage frankness"; **100
+returned, 66%**. Seven ranked reasons. Results: **living with others 40% first choice, fun in the
+out-of-doors 28%, skills last** — the last explained by her own clientele, since "**eighty-two per
+cent of the families have summer cottages available**" and most campers come from cities with school
+and club sport. By age, fun is first for **45%** of parents of 13–15s against **15%** for 6–9s, which
+produces the sharpest sentence in the piece — a director questioning her own profession's senior
+apparatus:
+
+> "This leads me to question camps' emphasis on skills and of giving this older age group any
+> automatic, built-in over emphasis of responsibility. **Should we not continue, or go back to,
+> letting them just be themselves, to relax and have fun without the stresses and challenges of
+> responsibility… be it tribal chiefs, test passing, 'super senior' programs, team leadership**, or
+> what have we, unless they themselves, the individual camper, really wants it?"
+
+Also recorded: **"Ouareau is the only English speaking, private, girls' camp in the province of
+Quebec"**, with francophone registration **capped at 10% per section** so those who came would get
+"almost total immersion in the English language" — which should be read against the existing wiki
+sentence that Ouareau "became bilingual in 1976"; in 1977 its own director describes an
+English-immersion camp with a quota. Parental camping background: **44 mothers and 47 fathers had
+been campers** (14 and 15 of them staff), **35 families had neither parent at camp**, 26 had both;
+only a third of campers had been to any other camp, 60% of those private. Volunteered "other
+reasons" include "a chance for parents to be alone," "developmental discipline," and — from the
+parent of an eleven-year-old — "**to have peace and privacy of herself, to think and dream**."
+**Written into `connections/related-camps/camp-ouareau.md` as a new section (sources 8 → 9)**, with
+the spelling variance noted: "Madeleine" here, "Madelene" in the 1974 issue already cited in the
+wiki. **Part 2 is promised and should be watched for in the issues ahead.**
+
+**★★ Elections, national and provincial.** **Jack Pearse elected incoming President of the CCA**,
+with **Paul Belanger** acclaimed Vice-President — Pearse being the man who chaired the 1972
+camping-history committee (`p_313`), which makes his presidency worth noting for that trail. The
+Ontario association elected **Jocelyn Palm** incoming President, **Mrs. Barbara Gilchrist** President
+Elect and **Mrs. Phil Lowes** Vice-President. Its annual conference, **3–6 March at the Royal York**,
+drew "**a record number of 552 Directors and Senior Staff**" with delegates from the United States
+and almost every province, and a lucky draw run by Mrs. Clif Labbett raised "**a little more than
+$3000.00**", "**thereby putting the O.C.A. out of the red for the first time in a couple of years**."
+*Transcription caution*: the column prints "Q.C.A. Conference (March 3-6)" but the same sentences
+name the OCA's deficit and the OCA's incoming president, and the previous issue gave 3–6 March as the
+**Ontario** annual conference. Read as OCA throughout; the "Q.C.A." is an error in the source.
+
+**★ President Ron Johnstone's travels**, useful for dating the association's activity: visits to every
+provincial association in six weeks; a meeting with the planning committee of the **1979 ACA
+Conference in Minnesota**; a speaking engagement at the ACA Mid-Atlantic Regional in Buffalo at the
+end of March; and the Manitoba workshop under Punch Jackson with **Bob Douglas** and **Gord Stewart**.
+The CCA also **paid for Standards Chairman Lorne Bowering and Dave Campbell to travel to Halifax** to
+help the Maritime associations with provincial standards, at the east coast's request — the national
+body funding provincial standards work directly.
+
+**★ Kenneth Robinson, "Camping — A Real-Life Experience in Our Natural Environment."** The
+environmental-education argument in its 1977 form, quoting Rodney and Ford's *Camp Administration*
+and **John Kirk of the ACA**, whose complaint is quotable: that many camp programmes "use the
+outdoors merely as a theatrical backdrop for activities that have no special relationship to this
+setting," citing tennis, riding, golf, dramatics and some arts and crafts. Robinson's positive case
+runs through meditation ("a camper finds he can be alone without being lonely"), **Kirk Wipper's
+"quest for zest"**, and the demand that camp be connected to the city rather than a retreat from it —
+"littering at camp can be related to sanitation of city streets." The illustration is a paraplegic
+day-camper, **Gerrard**, eight years old, after his first overnight campout. Contextual for
+`traditions/environmental-history.md` on what environmental camping meant in 1977; not Kanawana.
+
+**★ Diane Pick's water relays** — eleven categories of novelty swimming race with a suggested
+"Fairy Tale" carnival theme, reprinted from the ACA. Ordinary programme material, but the clearest
+picture in the run of what a 1977 waterfront carnival actually looked like, and worth a line in any
+future account of Kanawana's swim programme: candle relays where "if it goes out the swimmer must
+return to get it relit," reading a comic book aloud while backstroking, and clothes relays in pyjamas
+and jeans.
+
+**★ Production note for the deferred `meta/sources-index.md` section.** The colophon reads "**Design
+and/Dessin et Printed by/Imprimé par National Sport and Recreation Centre Inc. / Centre National du
+Sport et de la Récréation Inc.**" The newsletter that replaced the magazine in October 1976 was
+designed and printed by the federal sport body — which is part of how the association cut the cost
+that killed the magazine, and a reminder that federal infrastructure was underwriting national camping
+communications by 1977.
+
+**Minor.** Two classified advertisements: **John Bosco Camp** (Mile 41 Hanson Lake Road,
+Saskatchewan) seeking a director who "must be a committed Christian, preferably a Priest," with
+philosophy, sociology and psychology, twelve-month employment, salary negotiable; and **Boulderwood
+Camp**, Baysville, Ontario, available for lease for summer 1977 — running for the second consecutive
+issue.

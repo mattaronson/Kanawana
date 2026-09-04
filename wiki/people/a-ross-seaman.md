@@ -1,7 +1,7 @@
 # A. Ross Seaman
 
-*Status: E1-reviewed | Sources: 10*
-*Last Updated: 2026-07-10*
+*Status: E1-reviewed | Sources: 11*
+*Last Updated: 2026-09-04*
 
 ## Overview
 
@@ -58,6 +58,8 @@ He was **Secretary of the Quebec Camping Association** from about 1949, and the 
 
 He is QCA Secretary again in the 1962 and 1963 officer lists. He sits on the **Canadian Camping Association's national board** through 1966–1968 as "Mr. A. Ross Seaman, Que." The winter 1968 issue names him a **Vice-President of the QCA** under president Mrs. Nicholas D. Demetelin, and separately as "immediate past president" of the English section. In summer 1973 he led a national workshop on **funding**, which delegates reported "left us the most to grapple with in terms of new information."
 
+**He was still in Quebec camping ten years after leaving Kanawana.** The report of the Quebec Camping Association English Section's **40th anniversary conference, 25-27 March 1977**, names "an impressive list of past presidents of Q.C.A. in attendance, namely; **Norrey Owens, Zave Ettinger, Ross Seaman, Bob Lazanick, Peter van Wagner, Bill McCarthy and Val Willis**."^11 That is a dated appearance for Seaman a full decade after his Kanawana directorship ended and twenty-eight years after he first became the association's secretary — and it places him in the same room as **O. N. H. Owens**, the Kanawana Committee chairman who had endowed the Order of Owens at Kanawana the previous summer (see [[traditions/order-of-owens|The Order of Owens]]). The two men had also served together on the QCA executive in 1954, Owens as president and Seaman as conference chairman.
+
 ## Open Questions
 
 1. [Critical, re-confirmed dead end 2026-07-09] What are Seaman's full biographical details — birth year, full name, education beyond SGW? A further pass (genealogy sites, FindAGrave, Vankleek Hill obituary aggregators) found nothing new. The Vankleek Hill newspaper "The Review" (archived from 1893) very likely carries an October/November 1987 obituary, but its own online archive is not full-text searchable — this requires a paid GenealogyBank-style subscription search or direct contact with the newspaper or a Vankleek Hill funeral home, not further web queries.
@@ -85,3 +87,4 @@ He is QCA Secretary again in the 1962 and 1963 officer lists. He sits on the **C
 8. *Canadian Camping* Vol. 19 No. 4 (June 1967), p. 125 [src_ia_canadian_camping_1967_06]. Profile of Seaman as Montreal YMCA Director of Camping; the passage on Mrs. Seaman is quoted above.
 9. "A. Ross Seaman, President, Quebec Camping Association, Inc.," *Canadian Camping* Vol. 19 No. 4, June 1967, p. 125 [src_ia_canadian_camping_1967_06].
 10. *Canadian Camping*, officer lists and reports 1951–1973 [src_ia_canadian_camping_collection]; full text cached under `sources/cache/canadian-camping/`. See [f_2471].
+11. "News and Views from Across Canada," *Canadian Camping* Vol. 29 No. 2 (March 1977), p. 1 [src_ia_canadian_camping_collection] — report of the QCA English Section's 40th anniversary conference. Found by the full word-for-word read of the run (`kb/reread/cc_findings.md`, issue 112).

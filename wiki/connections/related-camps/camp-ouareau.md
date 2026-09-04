@@ -1,7 +1,7 @@
 # Camp Ouareau and Its Connections to Kanawana
 
-*Status: E1-reviewed | Sources: 8*
-*Last Updated: 2026-07-10*
+*Status: E1-reviewed | Sources: 9*
+*Last Updated: 2026-09-04*
 
 ## Overview
 
@@ -37,6 +37,22 @@ Although Camp Ouareau operated in English from its founding, it became bilingual
 
 In 2014, Camp Ouareau changed its team names from Iroquois, Algonquin, and Micmac.^8
 
+## Madeleine Allen's 1977 Survey of Camp Parents
+
+In March 1977 Camp Ouareau's director published Part 1 of a survey asking parents why they sent their daughters to camp — the only systematic study of Quebec camp parents in the *Canadian Camping* run, and the closest thing this project has to evidence about what a Quebec camp's clientele actually wanted in the 1970s.^9
+
+The method is given in full. A questionnaire went to **150 parents** with the May camp mailing, against a total registration of **195 campers over the two-month season** (the gap accounts for families with more than one child, and for six-week and season campers; "the usual registration period is four weeks"). Returns were **unsigned and uncoded** "to encourage frankness," and **100 of 150 came back — a 66% response**. Parents ranked seven reasons for sending a child to camp: learning to live with others, widening contacts, developing independence, learning another language, family situations, fun in the out-of-doors, and learning skills.
+
+The results, by first-choice priority: **living with others 40%**, **fun in the out-of-doors 28%**, and **skills last**. Allen's own explanation for the last of these is a fact about her camp's families rather than about camping: "**Eighty-two per cent of the families have summer cottages available**," and most campers "come from large cities where swimming and sports are available in the schools and youth clubs." Broken down by age, "living with others" mattered about equally to parents of every group, but **fun was named first by 45% of parents of 13-15s against 15% of parents of 6-9s** — which prompted the survey's sharpest passage, a director questioning her own profession's structures:
+
+> "This leads me to question camps' emphasis on skills and of giving this older age group any automatic, built-in over emphasis of responsibility. **Should we not continue, or go back to, letting them just be themselves, to relax and have fun without the stresses and challenges of responsibility… be it tribal chiefs, test passing, 'super senior' programs, team leadership**, or what have we, unless they themselves, the individual camper, really wants it?"
+
+That is a Quebec camp director in 1977 asking whether the senior-camper leadership apparatus — the same family of structures as Kanawana's sections, tests and honours — served the campers or the camp.
+
+Two further findings are worth recording. On language, Allen states that "**Ouareau is the only English speaking, private, girls' camp in the province of Quebec**," that there was "a great desire on the part of many French speaking parents to have their children learn English," and that the camp therefore **capped francophone registration at 10% per section** so that those who came "will have the experience of almost total immersion." (The article's note above that Ouareau "became bilingual in 1976" should be read against this: in 1977 its own director describes an English-immersion camp with a francophone quota.) And on the parents themselves: **44 mothers and 47 fathers had been campers**, 14 and 15 of them on staff; **35 families had no camping experience at all**, and 26 had two camp-going parents. Of the campers, only a third had been to any other camp, and 60% of those to private camps.
+
+Allen closes with a caution this project can borrow: "Research was defined as the satisfying of curiosity… **a great number of children attend a certain camp because of a friend, or because of good advertising, or because a parent may just think it is a good idea.** I don't think for a moment that very many parents have all the criteria which I have listed in their minds when they make the decision to send a child to camp." Part 2 was promised but has not yet been reached in the read.
+
 ## Open Questions
 
 1. [Critical, confirmed dead end 2026-07-09] Was Mabel Jamieson actually secretary general of the YMCA (not YWCA) of Montreal? Concordia's own P0145 finding aid does not name Jamieson at all; Trent University's Ontario Camps Association finding aid contains only one incidental photo caption naming her among OCA social circles, with no title given. No source anywhere independently corroborates or refutes the "secretary general" claim beyond Camp Ouareau's own self-reported history page (which, as of 2026-07-09, no longer even states a title on its current site — just "school teacher"). Genuinely exhausted for online sources.
@@ -64,6 +80,7 @@ In 2014, Camp Ouareau changed its team names from Iroquois, Algonquin, and Micma
 6. McMorris, Grace (2023). "An Experience That Lasts a Lifetime." MA thesis, Concordia University. 1946 Oolahwan visit incident.
 7. YWCA Camp Oolahwan centennial reunion announcement (dates disputed — see conflicts.json).
 8. Camp Ouareau 2014 team name change announcement (campouareau.com).
+9. Madeleine Allen, "Parental Motivation Affecting the Attendance of Children at Summer Camp, Part 1: Information collected from data from Camp Ouareau, a summer camp for girls," *Canadian Camping* Vol. 29 No. 2 (March 1977), pp. 4-7 [src_ia_canadian_camping_collection]. Found by the full word-for-word read of the run (`kb/reread/cc_findings.md`, issue 112). Her surname is spelled "Madelene" in the 1974 issue cited elsewhere in this wiki and "Madeleine" here; both are the director of Camp Ouareau.
 
 ## Research Notes
 
