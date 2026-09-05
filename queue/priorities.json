@@ -5142,6 +5142,17 @@
       "blocked_on": null,
       "completed": "2026-09-05",
       "resolution": "WITHDRAWN AS MISCONCEIVED, AND THE DATE CONFIRMED. This priority's premise was wrong on both halves and both were checkable against material already in the KB when it was written. (1) The wiki did not source 1947 only to the modern edition count: 'Kanawana... A Place to Grow' (1988) states the 1947 creation outright under Programme Highlights, and the perpetual Annual Trophy's first shield reads 47 -- both already extracted (f_1996, f_2000) and both already cited in traditions/lv-games.md. (2) The arithmetic does yield 1947: it failed only because it deducted TWO pandemic seasons where the record carries one. 2020 was contested remotely and has a shield; only 2021 is missing. 1947-2025 is 79 seasons, less 2021 is 78 -- YMCA Quebec's 78th edition for 2025, exactly. See f_4798; f_4796 superseded. What remains open is narrower and has been rewritten into points-of-contact.md Open Question 2: no CONTEMPORARY document from 1947-1949 mentions the tradition, so the founding seasons are attested only retrospectively. Concordia P0145/12B would close that; it does not put the year in doubt."
+    },
+    {
+      "priority_id": "p_411",
+      "rank": 410,
+      "type": "VERIFY",
+      "description": "FIX scripts/verify/seed_read_state.py -- IT CLOBBERS PROVENANCE. Run on 2026-09-05 (by accident, in a loop over scripts/verify/*.py) it reported 'updated: 14' and rewrote read_state_basis on fourteen Kanawana report records from 'derived:cited-by-fact | cached text linked 2026-09-02: the file was on disk under no record' down to the bare 'derived:cited-by-fact'. The hand-added clause -- the note that the cached text was found orphaned on disk and linked back to a record -- is exactly the kind of thing this project keeps and exactly what the no-silent-overwrite rule protects. The script recomputes the field from scratch and writes unconditionally instead of merging, so any manual annotation is destroyed on every run, and it reserialises the whole file (28k lines) so the damage is invisible in a diff. The change was reverted before it reached main. FIX: make the script append or merge rather than replace, leave a hand-written basis alone, preserve the existing serialisation, and print what it would change under a --dry-run before it writes anything. It is not a CI step, so nothing caught this but reading the diff.",
+      "weight": 7,
+      "status": "pending",
+      "created": "2026-09-05",
+      "source": "caught reviewing the p_410 correction commit, 2026-09-05",
+      "blocked_on": null
     }
   ],
   "queue_ordering": {
