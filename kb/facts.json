@@ -1,8 +1,8 @@
 {
-  "version": "6.05",
-  "kb_version": "6.05",
+  "version": "6.06",
+  "kb_version": "6.06",
   "migrated_from": "3.3",
-  "fact_count": 2436,
+  "fact_count": 2498,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -42264,6 +42264,1163 @@
       "conflicts_with": [],
       "added_version": "6.05",
       "added_by": "manual"
+    },
+    {
+      "fact_id": "f_2475",
+      "issue": 1,
+      "claim": "The first printed issue of Canadian Camping (Vol. 1 No. 1, February 1949) describes itself on its masthead as \"the natural evolution of two years of mimeographed bulletins\" -- so the Canadian Camping Association had been publishing a bulletin since about 1947. Quarterly, 25 cents a copy, included in CCA membership.",
+      "category": "sources",
+      "entities": [
+        "Canadian Camping Association",
+        "Canadian Camping Magazine"
+      ],
+      "date_ref": "1949-02",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_2476",
+      "issue": 1,
+      "claim": "The Canadian Camping Association executive of February 1949 was half Montreal: President Dais L. Gass, 4870 Cote des Neiges Rd, Montreal; Secretary-Treasurer Hay Finlay, 475 Pine Ave West, Montreal; Honorary President A. L. Cochrane (Toronto); Past President Taylor Statten; Editor Mary S. Edgar; Publishing agent Fred Haiblen. Vice-Presidents were the provincial presidents ex officio.",
+      "category": "camping_movement",
+      "entities": [
+        "Dais L. Gass",
+        "Hay Finlay",
+        "A. L. Cochrane",
+        "Taylor Statten",
+        "Mary S. Edgar",
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1949-02",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_2477",
+      "issue": 1,
+      "claim": "Hedley S. Dimock wrote the lead article of the first issue of Canadian Camping, \"The Magic of Camping,\" and is described there as Dean of George Williams College, Chicago, and as Canadian-born, in Saskatchewan, with thirty years of camping going back to the Saskatchewan prairie. The same issue reviews his Administration of the Modern Camp (Association Press, 1948) and cites his Camping and Character (1929, with Hendry), Marks of Good Camping (1941), and Talks to Counselors, co-written with Taylor Statten.",
+      "category": "people",
+      "entities": [
+        "Hedley S. Dimock",
+        "Taylor Statten",
+        "Charles E. Hendry"
+      ],
+      "date_ref": "1949-02",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_2478",
+      "issue": 1,
+      "claim": "The cover photograph of the first issue of Canadian Camping is credited to Arthur Friedman, Montreal, Quebec; and the editor's address to readers names \"the vast Laurentian playground of Quebec\" as one of the magazine's five constituencies.",
+      "category": "sources",
+      "entities": [
+        "Arthur Friedman",
+        "Canadian Camping Magazine"
+      ],
+      "date_ref": "1949-02",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_2479",
+      "issue": 1,
+      "claim": "The 1949 Ontario Camping Association conference (18-19 February 1949, Central YWCA, 21 McGill St, Toronto) had Hedley S. Dimock and Fritz Redl as key speakers; the 1948 conference drew 280 people plus a separate camper assembly of more than 100 children.",
+      "category": "camping_movement",
+      "entities": [
+        "Ontario Camping Association",
+        "Hedley S. Dimock",
+        "Fritz Redl"
+      ],
+      "date_ref": "1949-02",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_2480",
+      "issue": 2,
+      "claim": "The Canadian Camping Association board met at the Royal York Hotel, Toronto, on 20 February 1949. The Montreal delegation is named in the minutes: Miss Dais L. Gass (President, CCA); Miss Sybil Ross (Secretary); Miss Diana Cumner (President, Quebec Camping Association); Miss Dorothy Percival (Director, Camp Ouareau); Mrs. Mutchler (Secretary, Junior Leagues); Mr. C. A. Wiley (Chairman, Finance Committee).",
+      "category": "camping_movement",
+      "entities": [
+        "Dais L. Gass",
+        "Sybil Ross",
+        "Diana Cumner",
+        "Dorothy Percival",
+        "Agnes Knox Mutchler",
+        "C. A. Wiley",
+        "Quebec Camping Association",
+        "Camp Ouareau"
+      ],
+      "date_ref": "1949-02-20",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_2481",
+      "issue": 2,
+      "claim": "At its board meeting of 20 February 1949 the Canadian Camping Association resolved to take a part-time office secretary and an office at 1421 Atwater Avenue, Montreal, and to hold its Annual Meeting in Montreal in October 1949, concurrent with the Recreation Congress. The national association's office was therefore in Montreal from 1949.",
+      "category": "camping_movement",
+      "entities": [
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1949-02-20",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_2482",
+      "issue": 2,
+      "claim": "Ottawa camp leaders met at the Chateau Laurier on 12 March 1949 to organize an Ottawa Regional Section of the Ontario Camping Association. The February 1949 OCA conference drew over 400 enrolled -- the previous issue, written beforehand, had reported 280 at the 1948 conference.",
+      "category": "camping_movement",
+      "entities": [
+        "Ontario Camping Association"
+      ],
+      "date_ref": "1949-03-12",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_2483",
+      "issue": 2,
+      "claim": "C. T. Sharpe, Assistant Director of Camping for the Ontario Department of Education, outlined provincial financial assistance to agency camps meeting health and low-cost requirements at the 1949 OCA conference -- the Ontario precedent for the kind of government support Quebec camps later sought.",
+      "category": "camping_movement",
+      "entities": [
+        "C. T. Sharpe",
+        "Ontario Camping Association"
+      ],
+      "date_ref": "1949",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_2484",
+      "issue": 2,
+      "claim": "The Canadian Camping Association ran a crest design competition in 1949: India-ink designs, minimum four inches, due 15 September 1949 to Arthur Buckley, Chairman of the Crest Committee, YMCA, Geneva Park P.O., Ontario; $15 and an honorary membership to the winner, plus a scroll to the winner's camp.",
+      "category": "camping_movement",
+      "entities": [
+        "Arthur Buckley",
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1949",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_2485",
+      "issue": 2,
+      "claim": "Taylor Statten, writing to Canadian Camping from Palm Beach in April 1949, is identified as first President of both the Ontario Camping Association and the Canadian Camping Association. His wife's camp name \"Tonakela\" appears in the same piece.",
+      "category": "camping_movement",
+      "entities": [
+        "Taylor Statten",
+        "Ethel Statten"
+      ],
+      "date_ref": "1949-04",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_2486",
+      "issue": 3,
+      "claim": "\"Quebec Camps,\" by Agnes Knox Mutchler, Director of the Junior League Camp, Montreal (Canadian Camping Vol. 1 No. 3, June 1949, pp. 19-20), states: \"Certainly a boys' camp sponsored by the Y.M.C.A. of Montreal in 1893 and called Otoreke was among the earliest. Kanawana, at present directed by Roy Locke, Vice-President of the Quebec Section, had a mysterious birth about this time under the same sponsorship.\"",
+      "category": "founding",
+      "entities": [
+        "Agnes Knox Mutchler",
+        "Roy D. Locke",
+        "Camp Otoreke",
+        "Kamp Kanawana",
+        "YMCA of Montreal"
+      ],
+      "date_ref": "1949-06",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_2487",
+      "issue": 3,
+      "claim": "A Quebec camping officer writing for the national magazine in June 1949 dated Camp Otoreke to 1893 and called Kanawana's own birth \"mysterious\" and only \"about this time\" -- so Kanawana's founding date was already unsettled inside the Quebec camping community forty-five years after the fact. This is evidence about the state of the record, not only about the date.",
+      "category": "founding",
+      "entities": [
+        "Kamp Kanawana",
+        "Camp Otoreke",
+        "Agnes Knox Mutchler"
+      ],
+      "date_ref": "1949-06",
+      "confidence": "inferred",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_2488",
+      "issue": 3,
+      "claim": "Roy D. Locke was simultaneously Director of Kamp Kanawana and Vice-President of the Quebec Section of the Canadian Camping Association in June 1949.",
+      "category": "directors",
+      "entities": [
+        "Roy D. Locke",
+        "Kamp Kanawana",
+        "Quebec Camping Association"
+      ],
+      "date_ref": "1949-06",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_2489",
+      "issue": 3,
+      "claim": "Forty-five permanent camps were registered with the Quebec Camping Section in 1949; twenty-nine of them non-profit, split between those funded by public contribution and those whose fees cover operating expenses. Two weeks was the shortest camping experience generally offered by 1949.",
+      "category": "camping_movement",
+      "entities": [
+        "Quebec Camping Association"
+      ],
+      "date_ref": "1949",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_2490",
+      "issue": 3,
+      "claim": "Camp Lewis, under Mr. Wylie, took five hundred boys for two weeks or longer each year in 1949, per Agnes Knox Mutchler's survey of Quebec camps. (Almost certainly the C. A. Wiley who chaired the CCA finance committee; the spelling varies.)",
+      "category": "inter-camp",
+      "entities": [
+        "Camp Lewis",
+        "C. A. Wiley"
+      ],
+      "date_ref": "1949",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_2491",
+      "issue": 3,
+      "claim": "The Junior League Camp took one hundred girls for three weeks, three times a summer, in 1949. It was started \"more than twenty-five years ago\" -- so about 1923 or earlier -- by Miss Lighthall of Montreal, on family property near Ste-Marguerite.",
+      "category": "inter-camp",
+      "entities": [
+        "Junior League Camp",
+        "Miss Lighthall"
+      ],
+      "date_ref": "1949",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_2492",
+      "issue": 3,
+      "claim": "Camp Chapleau, \"which is Quebec's Bolton,\" took mothers and children in 1949 under Director Miss Nan Vail.",
+      "category": "inter-camp",
+      "entities": [
+        "Camp Chapleau",
+        "Anne I. Vail"
+      ],
+      "date_ref": "1949",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_2493",
+      "issue": 3,
+      "claim": "Camp Oolahwan (YWCA) \"was hewn from the woods in 1919\" under Mary Edgar, had its own lake and six hundred acres, and was directed in 1949 by Diana Cumner, President of the Quebec Section.",
+      "category": "inter-camp",
+      "entities": [
+        "Camp Oolahwan",
+        "Mary S. Edgar",
+        "Diana Cumner"
+      ],
+      "date_ref": "1949",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_2494",
+      "issue": 3,
+      "claim": "The Quebec Camping Association \"had its origin in the thirties\" and was an original member of the Canadian Camping Association, per Agnes Knox Mutchler's 1949 survey.",
+      "category": "camping_movement",
+      "entities": [
+        "Quebec Camping Association",
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1949",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_2495",
+      "issue": 3,
+      "claim": "Registered Quebec camps in 1949 clustered in two areas, the Laurentians and the Eastern Townships; the Quebec Section knew almost nothing of camping along the lower St. Lawrence.",
+      "category": "geography",
+      "entities": [
+        "Quebec Camping Association"
+      ],
+      "date_ref": "1949",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_2496",
+      "issue": 3,
+      "claim": "The Quebec Camping Section \"has backed the appointment of year-round Directors for non-profit camps\" as of 1949, for continuity of programme and winter training -- the policy context for Kanawana's own year-round directorship.",
+      "category": "camping_movement",
+      "entities": [
+        "Quebec Camping Association"
+      ],
+      "date_ref": "1949",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_2497",
+      "issue": 3,
+      "claim": "The Quebec Camping Section was pressing camps to winterise for skiing in 1949: \"In a Province almost as famous as the Alps for luxury skiing, it seems ridiculous that any camps are closed to ordinary people.\"",
+      "category": "programs",
+      "entities": [
+        "Quebec Camping Association"
+      ],
+      "date_ref": "1949",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_2498",
+      "issue": 3,
+      "claim": "Mr. Al Dodds of the Central Y.M.C.A. was Secretary of the Quebec Section of the Canadian Camping Association in 1949 -- a Montreal Central Y man in a Quebec camping office, alongside Roy Locke as Vice-President.",
+      "category": "camping_movement",
+      "entities": [
+        "Al Dodds",
+        "Quebec Camping Association",
+        "YMCA of Montreal"
+      ],
+      "date_ref": "1949",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_2499",
+      "issue": 3,
+      "claim": "Agnes Knox Mutchler's 1949 survey of Quebec camps opens with an oral-history lament: the pioneers' stories \"are simply amazing ... Some day these stories will be written and may they appear, at least in part, in Canadian Camping.\" They largely were not.",
+      "category": "archives",
+      "entities": [
+        "Agnes Knox Mutchler"
+      ],
+      "date_ref": "1949",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_2500",
+      "issue": 3,
+      "claim": "Quebec camping activity in spring 1949 included a four-evening counsellor training course in March with more than one hundred registered, representing all types of camps; a meeting of ten non-profit camps convened by Miss Sybil Ross of the Social Agencies to discuss costs and relations with the social agencies; and a Spring Conference for Counsellors on 13-14 May 1949.",
+      "category": "camping_movement",
+      "entities": [
+        "Sybil Ross",
+        "Quebec Camping Association"
+      ],
+      "date_ref": "1949",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_2501",
+      "issue": 3,
+      "claim": "A National Recreation Forum, \"Leisure -- a National Issue,\" was set for on or about 20 October 1949 in Montreal, sponsored by eight national organizations, replacing the Canadian Recreation Congress; the CCA annual meeting was to sit immediately before or after it.",
+      "category": "camping_movement",
+      "entities": [
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1949-10",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_2502",
+      "issue": 3,
+      "claim": "The first National Camp Directors' Seminar and Workshop was held at Camp Wabi-Kon, Timagami, 6-11 September 1949, $37.50 all in, directed by Charles E. Hendry with resource specialists Hedley S. Dimock and Alan F. Klein. Open to directors in all provinces.",
+      "category": "camping_movement",
+      "entities": [
+        "Charles E. Hendry",
+        "Hedley S. Dimock",
+        "Alan F. Klein",
+        "Camp Wabi-Kon"
+      ],
+      "date_ref": "1949-09",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_2503",
+      "issue": 4,
+      "claim": "At the Canadian Camping Association annual and board meeting, Chateau Laurier, Ottawa, 11-13 November 1949, an interim executive was elected to serve until the February annual meeting: Anne Vail (President, Montreal); Irwin Haladner (1st Vice-President, Toronto); W. E. (Ted) Yard (2nd Vice-President, Toronto, nominated by BC and Saskatchewan); Agnes Mutchler (Secretary, Montreal, 1445 Crescent St.); Ernest (E. O.) Freedman (Treasurer, Montreal, 10 Ontario St. W.). Past Presidents are listed as Taylor Statten (Toronto) and Dais L. Gass (Montreal).",
+      "category": "camping_movement",
+      "entities": [
+        "Anne I. Vail",
+        "Irwin Haladner",
+        "W. E. Ted Yard",
+        "Agnes Knox Mutchler",
+        "Ernest O. Freedman",
+        "Taylor Statten",
+        "Dais L. Gass",
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1949-11",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_2504",
+      "issue": 4,
+      "claim": "The December 1949 issue of Canadian Camping gives the CCA National Office address on Coursol Street, Montreal, in two conflicting forms in the same issue: the masthead says 2045 Coursol St. and Anne Vail's own message on p. 12 says 2035 Coursol St. Both are recorded; neither is silently corrected.",
+      "category": "camping_movement",
+      "entities": [
+        "Canadian Camping Association",
+        "Anne I. Vail"
+      ],
+      "date_ref": "1949-12",
+      "confidence": "disputed",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_2505",
+      "issue": 4,
+      "claim": "The Quebec Section held two meetings in autumn 1949 before the season's camps closed. \"The program arranged by Roy Lock[e] was different and stimulating\" at the October meeting: short talks by young staff on swimming, canoe trips, religion in camp programs, counsellor personality problems, peculiar camper behaviour and nature experiences. Ruby Smith was Social Convener.",
+      "category": "camping_movement",
+      "entities": [
+        "Roy D. Locke",
+        "Ruby Smith",
+        "Quebec Camping Association"
+      ],
+      "date_ref": "1949-10",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_2506",
+      "issue": 4,
+      "claim": "For late 1949 the Quebec Section officers were: Diana Cumner President (Y.W.C.A., 1124 Dorchester St. West, Montreal), Roy Locke Vice-President, Al Dodds Secretary, Ruby Smith Social Convener -- with Vail, Mutchler and Freedman of Montreal simultaneously running the national body.",
+      "category": "camping_movement",
+      "entities": [
+        "Diana Cumner",
+        "Roy D. Locke",
+        "Al Dodds",
+        "Ruby Smith",
+        "Quebec Camping Association"
+      ],
+      "date_ref": "1949",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_2507",
+      "issue": 4,
+      "claim": "The Ontario Camping Association minimum standards adopted in 1949, printed in full in Canadian Camping: licence from the Provincial Department of Health; pasteurized milk; weekly hot bath in camps over two weeks; doctor available; resident nurse where over two weeks and over thirty children; staff minimum age seventeen; ratios of one cabin counsellor per six campers under ten and per eight aged ten to seventeen; one lifeguard per ten swimmers; a rest period of not less than one hour daily. Standards committee chaired by John Hoyle.",
+      "category": "camping_movement",
+      "entities": [
+        "Ontario Camping Association",
+        "John Hoyle"
+      ],
+      "date_ref": "1949",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_2508",
+      "issue": 4,
+      "claim": "A. L. Cochrane, CCA Honorary President and Director of Camp Temagami, was given a plaque by Ontario's Attorney-General and Minister of Education, the Hon. Dana Porter, for fifty years directing his camp. He was in his eightieth year, and still annually let himself be thrown off the dock sewn in a sack with a ten-pound stone, hands and feet tied, surfacing inside a minute. The motto on the tablet was Ad Unguem Factus Homo.",
+      "category": "people",
+      "entities": [
+        "A. L. Cochrane",
+        "Camp Temagami"
+      ],
+      "date_ref": "1949",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_2509",
+      "issue": 5,
+      "claim": "Alan Mills, the Montreal folksinger and CBC broadcaster, addressed the Quebec Camping Association on camp music in the winter of 1949-50. The Quebec notes list the Section's monthly meetings that winter: \"Dr. Allan Ross speaking on Health, Mr. Allan Mills, the radio singer on Camp Music and Dr. Wilson speaking on Camp generally.\" A named occasion on which Quebec camp directors were addressed on camp music by a professional folk-song collector, in the same city and association as Kanawana's director.",
+      "category": "traditions",
+      "entities": [
+        "Alan Mills",
+        "Quebec Camping Association"
+      ],
+      "date_ref": "1950-02",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_2510",
+      "issue": 5,
+      "claim": "Associated Screen News Limited, 2000 Northcliffe Avenue, Montreal, advertised to camps in February 1950 \"de luxe photographic postcards as sold in leading resorts of Canada ... in lots of 1,000 or more,\" plus lantern slides, transparencies and murals. A Montreal firm selling camp postcards by the thousand in 1950 is the most likely origin for any surviving Kanawana postcard.",
+      "category": "media",
+      "entities": [
+        "Associated Screen News Limited"
+      ],
+      "date_ref": "1950-02",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_2511",
+      "issue": 5,
+      "claim": "The Quebec Camping Association Annual Spring Conference was set for 31 March - 1 April 1950 at the Sir Arthur Currie Gymnasium, McGill University, jointly with the Eastern Ontario Camping Association; key speaker Catherine Hammett. The QCA address was 1124 Dorchester St. W. Separately the McGill Extension Department gave the Quebec Section a ten-week lecture course that winter; the camping names on it were Anne Vail, Norah Bailey and Dorothy Percival.",
+      "category": "camping_movement",
+      "entities": [
+        "Quebec Camping Association",
+        "Catherine Hammett",
+        "Anne I. Vail",
+        "Nora Bailey",
+        "Dorothy Percival",
+        "McGill University"
+      ],
+      "date_ref": "1950",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_2512",
+      "issue": 5,
+      "claim": "The Canadian Camping Association was incorporated by early 1950, a new constitution having been accepted by the Secretary of State for Canada, with the objects printed in full including the power to acquire and dispose of real property. Ten Goals for 1950 are listed, among them a Camp Directory of all Canadian camps in two sections, members and non-members, and a goal to explore having the Dominion government build camps for children in national parks, rentable by agencies.",
+      "category": "camping_movement",
+      "entities": [
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1950-02",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_2513",
+      "issue": 5,
+      "claim": "The Ontario Camping Association research committee bulletin \"Know Your Camps\" (1950) gives: 114 camps and camp groups in the OCA; 41% private, 49% organization, 10% \"special\"; boys' camps outnumber girls' two to one; almost as many co-educational camps as girls' camps; twenty-eight camps opened since 1945. It also states that \"The first camp in Ontario opened in 1893 and is the Y.M.C.A. Camp On-Da-Da-Waks at Golden Lake, Ontario\" -- the same year Mutchler gives for Otoreke, so the YMCA was starting camps in two provinces in one year.",
+      "category": "camping_movement",
+      "entities": [
+        "Ontario Camping Association",
+        "Camp On-Da-Da-Waks"
+      ],
+      "date_ref": "1950",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_2514",
+      "issue": 6,
+      "claim": "Canadian Camping settled the Vail identification itself in April 1950, p. 18: \"Miss Anne Vail, President of the Canadian Camping Association, is Executive Secretary of Iverley Community Centre, Montreal, and Director of Chapleau Camp in the Laurentians. Miss Vail is a graduate of the McGill School of Social Work.\" So \"Miss Nan Vail\" of Camp Chapleau (June 1949) and Anne I. Vail, CCA President, are one person.",
+      "category": "people",
+      "entities": [
+        "Anne I. Vail",
+        "Camp Chapleau",
+        "Iverley Community Centre",
+        "McGill University"
+      ],
+      "date_ref": "1950-04",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_2515",
+      "issue": 6,
+      "claim": "The Canadian Camping Association board met in Toronto on 12 March 1950, Anne Vail presiding. Committee chairs recorded: Dorothy Percival (Membership), Mary S. Edgar (Magazine), Art Buckley (Public Relations), Rev. John Hoyle (Standards), Keith Cleverdon (Sites Development) -- Cleverdon a civil engineer and camp director who undertook a series on sanitation and site development for the magazine. Alan Klein offered a programme advisory service answering letters at the CCA, 2035 Coursol Street, Montreal.",
+      "category": "camping_movement",
+      "entities": [
+        "Anne I. Vail",
+        "Dorothy Percival",
+        "Mary S. Edgar",
+        "Arthur Buckley",
+        "John Hoyle",
+        "Keith Cleverdon",
+        "Alan F. Klein",
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1950-03-12",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_2516",
+      "issue": 6,
+      "claim": "A Red Cross Water Safety Instructor course was scheduled for Montreal in May 1950 specifically \"for Canadian Camping Association\" -- the mechanism by which Quebec camp waterfront staff got certified in this period.",
+      "category": "programs",
+      "entities": [
+        "Canadian Red Cross",
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1950-05",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_2517",
+      "issue": 6,
+      "claim": "Empire Crockery Company, 139 Peter St., Montreal -- wholesale crockery, cutlery, kitchenware and manufacturers of food-serving equipment -- is the first Montreal-based camp supplier to advertise in the Canadian Camping run; the Toronto houses dominate everywhere else.",
+      "category": "context",
+      "entities": [
+        "Empire Crockery Company"
+      ],
+      "date_ref": "1950-04",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_2518",
+      "issue": 6,
+      "claim": "Ernest A. Chapman, \"Skipper,\" died 12 March 1950, having directed Camp Kagawong for forty-three years with more than six thousand campers; he was a past president of the Ontario Camping Association, and the OCA closing banquet stood in silence that night.",
+      "category": "people",
+      "entities": [
+        "Ernest A. Chapman",
+        "Camp Kagawong",
+        "Ontario Camping Association"
+      ],
+      "date_ref": "1950-03-12",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_2519",
+      "issue": 6,
+      "claim": "John Fisher devoted a CBC broadcast to camping after speaking at the 1950 OCA conference, standing in for Bernard Mason who withdrew; disk recordings of the fifteen-minute talk were available from the CCA in Montreal. Ontario's Department of Education announced that minimum standards would become a condition of licence from 1951.",
+      "category": "media",
+      "entities": [
+        "John Fisher",
+        "Canadian Camping Association",
+        "Ontario Camping Association"
+      ],
+      "date_ref": "1950",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_2520",
+      "issue": 6,
+      "claim": "Charles E. Hendry, School of Social Work, University of Toronto, published \"By Emberglow\" in Canadian Camping (April 1950, pp. 12-15), describing a sociometric peer rating of named campers conducted in the summer of 1949: \"about one hundred and twenty boys in this camp divided into twenty cabins of six campers each ... each camper was asked to rate each other boy in order of preference,\" from 1 for best liked to 5 for lowest. An acceptability score was computed, five points per first-place ranking, maximum 25 and minimum 5, and the thirty lowest and thirty highest scorers were compared after nearly two months together.",
+      "category": "context",
+      "entities": [
+        "Charles E. Hendry",
+        "University of Toronto"
+      ],
+      "date_ref": "1949",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_2521",
+      "issue": 6,
+      "claim": "Hendry's 1949 camp sociometric study found that intelligence, good looks, being an old camper, skill in swimming, sailing, handicraft, riding or canoeing, age, and coming from \"a better-to-do family\" made no noticeable difference to a boy's popularity: \"The boy who was an expert canoeist or who was very good looking was found as frequently among the unpopular as among the popular group.\" What mattered was \"by far the most important thing ... the boy's attitudes and behaviour toward the other campers\" -- least liked being \"campers who showed off, boasted, bluffed and sought the limelight,\" then uncooperativeness, then lack of consideration, bullying and quarrelsomeness, then \"thinking one is picked on, losing one's temper, carrying grudges and making excuses.\"",
+      "category": "context",
+      "entities": [
+        "Charles E. Hendry"
+      ],
+      "date_ref": "1949",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_2522",
+      "issue": 6,
+      "claim": "Hendry's \"By Emberglow\" is a dated, described-in-method account of children being ranked against each other by name at a Canadian camp and published in the national magazine -- the same family of document as the staff and camper assessments at issue in p_307 and p_308, and evidence that the practice was well established a decade before Kanawana's own 1960-61 counsellor research. The camp is unnamed and the researcher is only \"a friend of mine\"; Hendry was at the University of Toronto School of Social Work, where Mary L. Northway was the country's leading sociometrist, so the study is findable.",
+      "category": "methodology",
+      "entities": [
+        "Charles E. Hendry",
+        "Mary L. Northway",
+        "Hedley Gardner Dimock"
+      ],
+      "date_ref": "1950-04",
+      "confidence": "inferred",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_2523",
+      "issue": 7,
+      "claim": "The Caserta hospital reminiscence in Canadian Camping (June 1950), already in the KB as part of f_2288, was written by John P. Kidd, identified in the byline as \"Executive Director, Canadian Citizenship Council, Ottawa.\" The article is \"Campers Are Citizens\" (pp. 8-9), and he writes in the first person as the Kanawana leader the wounded soldier recognised -- \"the way some of you leaders helped me.\" So the 1934 Kanawana staff member is the man who by 1950 ran the national citizenship body.",
+      "category": "people",
+      "entities": [
+        "John P. Kidd",
+        "Kamp Kanawana",
+        "Canadian Citizenship Council"
+      ],
+      "date_ref": "1950-06",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_2524",
+      "issue": 7,
+      "claim": "John P. Kidd's \"Campers Are Citizens\" (June 1950) sets out a programme for camps as \"a laboratory for democracy\": that the CCA survey citizenship programming and democratic practice in Canadian camps, institute a national \"Know Canada Week\" for camps, and arrange a CBC national broadcast originating in a camp with the Prime Minister participating; that individual camps invite MPs, mayors and councillors to be a camper for a day and a night, bring in \"the D.P.'s and other new immigrants\" as part of programme, use Citizenship Branch filmstrips, and make 1 July more than a sports day.",
+      "category": "programs",
+      "entities": [
+        "John P. Kidd",
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1950-06",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_2525",
+      "issue": 7,
+      "claim": "Nora Bailey, who signed the Quebec notes in June 1950, is identified on p. 7 as \"Psychologist and Educational Assistant at the Mental Hygiene Institute, Montreal, and co-owner and co-director of Camp Macaza, P. Quebec.\" Her article, \"Let's Take the Pressure Off,\" argues camp is first a holiday and a mental-health resource for apartment-dwelling city children.",
+      "category": "people",
+      "entities": [
+        "Nora Bailey",
+        "Camp Macaza",
+        "Mental Hygiene Institute"
+      ],
+      "date_ref": "1950-06",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_2526",
+      "issue": 7,
+      "claim": "The Quebec Camping Association Annual Spring Conference of 31 March - 1 April 1950 drew over three hundred attendees from all over Quebec and Eastern Ontario, with representatives from some French camps -- the first note in the run of French-language Quebec camps appearing at the anglophone association's conference. Twenty-five exhibits; chairman Sam Fredman. The Quebec annual meeting in May 1950 was a supper meeting with guest speaker Miss Anne Silver, Executive Director of the Montreal Y.W.C.A.",
+      "category": "camping_movement",
+      "entities": [
+        "Quebec Camping Association",
+        "Sam Fredman",
+        "Anne Silver",
+        "YWCA of Montreal"
+      ],
+      "date_ref": "1950",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_2527",
+      "issue": 7,
+      "claim": "The Canadian Red Cross ran a Montreal and District refresher course 8-10 May 1950 and an Instructors' Course in Swimming and Water Safety in Montreal in May 1950 \"specially prepared to train Swimming Instructors and Waterfront Supervisors for camps and beaches in the Province of Quebec ... in co-operation with the Canadian Camping Association (Quebec Section).\" This is the certification pipeline for Quebec camp waterfront staff in 1950.",
+      "category": "programs",
+      "entities": [
+        "Canadian Red Cross",
+        "Quebec Camping Association"
+      ],
+      "date_ref": "1950-05",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_2528",
+      "issue": 7,
+      "claim": "Canadian Sanitation Company, 804 Jean Talon St. W., Montreal, advertised the \"Hygeosan\" septic toilet needing neither electricity nor running water, \"Installed in many schools, camps and cottages,\" in June 1950 -- the second Montreal-based camp supplier in the run after Empire Crockery.",
+      "category": "context",
+      "entities": [
+        "Canadian Sanitation Company"
+      ],
+      "date_ref": "1950-06",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_2529",
+      "issue": 7,
+      "claim": "R. K. Cleverdon's first Camp Site Development article (June 1950) launched a free mimeographed series mailed from the CCA office in Montreal to paid-up members, twelve titles listed: master plan, water supply, latrines and septic tanks, kitchen waste, low-cost shower unit, kitchen layout, administration centre, camp hospital, waterfront improvement/canoe racks/diving towers, cabin types, tent floors, cost estimation. He gives camp capital cost as $300 to $1,000 per camper in 1950.",
+      "category": "facilities",
+      "entities": [
+        "Keith Cleverdon",
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1950-06",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_2530",
+      "issue": 8,
+      "claim": "The Canadian Camping Association opened its first National Office, in Montreal, in October 1950. Anne Vail's account, headed \"EXTRA! Exciting News!\": \"After exploring all kinds of possibilities ... we finally decided it was time to act, not to plan. In October, we signed the lease... The address is 771 BURNSIDE, Montreal; telephone Harbour 4350.\" The masthead gives it as Room 221, 771 Burnside Ave.",
+      "category": "camping_movement",
+      "entities": [
+        "Canadian Camping Association",
+        "Anne I. Vail"
+      ],
+      "date_ref": "1950-10",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_2531",
+      "issue": 8,
+      "claim": "The furnishing of the CCA's first national office at 771 Burnside, Montreal, is described in detail in December 1950: a rug, a typewriter desk and chair, a borrowed typewriter, a standard lamp and a McCaskel photograph \"Marine\" from a rummage sale, fifty bricks and boards lent by a camp for a bookcase, tables and chairs on loan from other camps. Agnes Mutchler was appointed part-time Executive Secretary; Dorothy Percival moved the membership files out of her apartment; Ruby Smith took pamphlets and books; Dais Gass convened a committee on office furnishings. Two counsellors were making a wall map of Canada to pin members to.",
+      "category": "camping_movement",
+      "entities": [
+        "Canadian Camping Association",
+        "Agnes Knox Mutchler",
+        "Dorothy Percival",
+        "Ruby Smith",
+        "Dais L. Gass"
+      ],
+      "date_ref": "1950-10",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_2532",
+      "issue": 8,
+      "claim": "\"International Canoe Trips,\" submitted by Anne I. Vail for Scotty Brotman, was reported at a Quebec Camping Association meeting on 24 November 1950. For five seasons -- so from 1946 -- Scotty Brotman had led a crew of eight from Montreal to New York by canoe, over four hundred miles in a nineteen-foot canoe. The route: push off from Victoria Pier, Montreal, across the St. Lawrence to St. Lambert; portage by truck to St-Jean to save eighty miles; down the Richelieu to Lake Champlain; Canadian customs at Lacolle, American customs at Rouses Point; the length of Champlain, often in five-foot waves and ship backwash; west from Ticonderoga to Lake George; trucked around Hudson Falls to the Hudson; then down through the locks to New York City. Brotman also ran \"his own personal crusade to bring adults in touch with the outdoors.\"",
+      "category": "canoe_trips",
+      "entities": [
+        "Scotty Brotman",
+        "Anne I. Vail",
+        "Quebec Camping Association"
+      ],
+      "date_ref": "1950-11-24",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_2533",
+      "issue": 8,
+      "claim": "Two further Montreal camp-supplier addresses appear in December 1950: Foodcraft Laboratories Ltd. at 1462 Bishop Street, Room 15, Montreal as well as Toronto; and Simpson's Special Contract Division listing a Montreal branch.",
+      "category": "context",
+      "entities": [
+        "Foodcraft Laboratories Ltd."
+      ],
+      "date_ref": "1950-12",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_2534",
+      "issue": 8,
+      "claim": "A. L. Cochrane's Christmas greeting of December 1950 notes that he \"began trip-camping with boys in 1900, and since then he has directed Camp Temagami for fifty seasons.\"",
+      "category": "people",
+      "entities": [
+        "A. L. Cochrane",
+        "Camp Temagami"
+      ],
+      "date_ref": "1950-12",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_2535",
+      "issue": 8,
+      "claim": "R. K. Cleverdon's second Canadian Camping article (December 1950), on sanitary facilities, is a full technical survey of open pit, pit privy, \"bucket a day\" semi-septic tank and flush-and-septic systems with 1950 costs: $100-125 for a single semi-septic outfit; $175 for one installed flush toilet; about $350 for a 1,250-gallon two-compartment septic tank; one toilet per ten children and never fewer than two per living area.",
+      "category": "facilities",
+      "entities": [
+        "Keith Cleverdon"
+      ],
+      "date_ref": "1950-12",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_2536",
+      "issue": 8,
+      "claim": "\"Camps that are Different\" (December 1950) surveys Canadian camps for children with disabilities: Merrywood-on-the-Rideau, Blue Mountain and Woodeden (Ontario Society for Crippled Children), Illahee Lodge at Cobourg for children with heart, chest and diabetic conditions (founded 1946, also running three sessions a year for people over sixty), and five CNIB camps across Canada. This is the movement-wide context in which Kanawana's own 1970 cystic-fibrosis campers sat, twenty years earlier.",
+      "category": "inter-camp",
+      "entities": [
+        "Merrywood-on-the-Rideau",
+        "Illahee Lodge",
+        "Ontario Society for Crippled Children",
+        "CNIB"
+      ],
+      "date_ref": "1950-12",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
     }
   ]
 }
