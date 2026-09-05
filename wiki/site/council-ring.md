@@ -1,6 +1,6 @@
 # The Council Ring
 
-*Status: E1-reviewed | Sources: 16*
+*Status: E1-reviewed | Sources: 17*
 *Last Updated: 2026-09-04*
 
 The Council Ring was built by senior campers in 1922, sited between the cabins and the chapel. It served from the start as the camp's ceremonial gathering place, a tiered outdoor amphitheatre where the whole community could assemble for evening programs, campfires, and ritual events. The choice of the name "Council Ring" reflected the broader "playing Indian" aesthetic that shaped YMCA camping in this period, drawing on romanticized ideas about Indigenous governance and ceremony that were common across North American organized camping. The council-ring form itself is generally traced to landscape architect Jens Jensen and to Ernest Thompson Seton's Woodcraft Indians (Silver Bay camp, 1910), from which it spread through the camping movement — context for Kanawana's adoption of it in 1922.^11
@@ -65,6 +65,7 @@ Ebbs also names a parallel figure, **Ellsworth Jaeger** of the **Camp of the Red
 14. Adele and J. Harry Ebbs, "In Memoriam — 'Blackie'," *Canadian Camping* Vol. 31 No. 3 (May 1979), pp. 6-7 [src_ia_canadian_camping_collection]. Found by the full word-for-word read of the run (`kb/reread/cc_findings.md`, issue 125).
 15. CCA/ACC *Publications 1985-86* catalogue, bound as an insert to *Canadian Camping* Vol. 37 No. 3 (Autumn 1985), p. 4 [src_ia_canadian_camping_collection]. Found by the word-for-word re-read of the digitized run (issue 156).
 16. "Personality Profile: Taylor Statten — Interview with Adele Ebbs," *Canadian Camping Magazine* Vol. 38 No. 1 (Summer 1986), pp. 10-16 [src_ia_canadian_camping_collection]. Found by the word-for-word re-read of the digitized run (issue 158).
+17. "Personality Profile: W. E. (Ted) Yard (1919-1983)" — interview with Shirley Yard and Ted Yard Jr., pp. 10-15, and the unattributed inter-tribal gift speeches and "Council Closing," p. 24 — *Canadian Camping Magazine* Vol. 38 No. 2 (Fall 1986) [src_ia_canadian_camping_collection]. Found by the word-for-word re-read of the digitized run (issue 159).
 
 ### R3 Verification Notes
 
@@ -97,6 +98,18 @@ That the invocation travelled is confirmed by an obituary. When C. R. "Blackie" 
 > "**May Wakonda whose messenger is the Thunderbird, smile upon His children and send down the sacred fire from Heaven.**"
 
 Camp Mazinaw was founded in 1940 at Bon Echo, and Blackstock had been a founding counsellor at YMCA Camp Kitchikewana in 1921 and waterfront director at Taylor Statten's Camp Ahmek in 1930 and 1931 — so the transmission route is the same one Eastaugh describes, from Seton through Statten's camps into the leaders trained there.^14 Kanawana's script (c. 1925-1927), the Taylor Statten close Eastaugh remembered, and a sentence carved into a Bon Echo fireplace are three instances of one borrowed prayer, at three camps, over sixty years. The name was not local colour that each camp invented; it was inherited, and its bearers knew where it came from.
+
+### A YMCA director who cut the ceremony back, and said why
+
+Eastaugh's 1973 defence and Blackstock's carved fireplace both show the practice being kept. The autumn 1986 interview with the family of **W. E. "Ted" Yard** — director of the Toronto YMCA's Camp Pine Crest from 1946 to 1963, whose Voyageur-Lumberman ceremony this wiki records at [[connections/related-camps/camp-pine-crest|Camp Pine Crest]] — shows a director of the same movement, in the same decades, keeping it deliberately small and stating a reason.^17
+
+Asked directly whether there was "any Indian Council emphasis at Pine Crest… because of Ted's love for Ernest Thompson Seton's writing," Shirley Yard answered: "**Only a Council fire once a week, if it was even that**… not that people don't respect the Indian… but he felt that **we should not make a big thing out of Indian Lore by imitating them but by celebrating with them. This was a different sort of concept**… he didn't want to play up an Indian theme as such." She adds that this was also why the family camp took a British Columbia place name rather than "an Indian name," and that Pine Crest ran "**only three campfires for the three periods**." His son, describing the practice as it stood in 1986, puts it as instruction rather than pageant: "**even when we do our Indian Councils now, we are actually teaching them what the ceremony is because it is a very serious thing we do.** From what I remember of Pine Crest, it was very much like that."^17
+
+What campers remembered was nonetheless the entrance: "their most vivid memory is of Dad coming across in a canoe standing up being paddled by his Medicine Man coming to the Council Ring," in costume, unrecognised for years even by his own children.^17 So the restraint was in frequency and in framing, not in the theatre itself.
+
+This is not evidence about Kanawana, and is not offered as any. It is offered because Kanawana's own council-ring record — scripts, a totem pole, a chant, a firelighting — contains **no statement of what its operators thought they were doing**, and the two nearest comparators now sit at either end of a range: Eastaugh at the Taylor Statten Camps defending the full ceremony in print in 1973, and Yard at a YMCA camp cutting it to one fire a week and objecting to imitation across the 1950s. Kanawana was a YMCA camp working from a Statten-derived script. Where it fell between them is an open question, and the sources that would answer it are the ones this project has not found.
+
+**The other convention was still in print in the same issue.** Twenty pages after the Yard interview the magazine printed, unattributed and without comment, a full set of camper-delivered speeches in the persona of the six nations of the Haudenosaunee Confederacy — Onondaga to Seneca, Cayuga to Onondaga, Tuscarora to Oneida, Oneida to Cayuga, Mohawk to Tuscarora, each presenting a made object ("We the people of the Onondaga tribe offer this table to you the people of the Seneca tribe") — followed by a **Council Closing** that is pure camp liturgy with no Indigenous referent at all: "May the Peace of the Forest, The Song of the Birds, The Inspiration of the Hills… In All of Which is the Creator of Good Things be in Your Hearts Tonight and Always."^17 The national magazine of the movement printed Yard's objection and the practice he objected to in the same twenty-eight pages, in 1986, without appearing to notice.
 
 ## Location and Modern Use
 

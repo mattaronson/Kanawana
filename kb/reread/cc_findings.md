@@ -27861,3 +27861,217 @@ March** here against **3-5 March** in issues 151 and 155 — an internal inconsi
 recorded as such. **Madelene Allen of Camp Ouareau** contributes a second piece, on Peter, Paul and Mary
 and the need to blend the old with the new: "**A tree bends in the wind, but held by its roots it sways
 gently and remains strong.**"
+
+## 159 — Vol. 38 No. 2, Fall 1986 — ★★★★ THE YMCA CAMPING MAN, AND A COST SURVEY THAT SHOULD NAME KANAWANA
+
+Twenty-eight pages. Contents page ("In This Issue" / "Dans cette livraison") checked against the block;
+every item read: the masthead and full board list; the CCA National Workshop report; the Commission des
+Camps d'Expression française report; the ACQ's 1986 summer report in both languages; "Between the
+Covers" / "Entre les lignes" with the Christmas discount list; Janet Adamson's "A Pioneer Centre";
+the **Personality Profile of W. E. (Ted) Yard**, interviewing his widow Shirley and his son Ted Jr.;
+two reprints of Yard's own writing ("Our Pal Joey," Dec. 1962, and "An Experience at the Y.M.C.A.
+United Nations Seminar"); the 50th Anniversary Patrons' Fund appeal; "Some Thoughts for the Day" and
+Jack Pearse's "Pass It On"; the Duke of Edinburgh's Award challenge with the full award table and every
+provincial office address; the Second International Camping Congress notice; "Under Open Skies" with
+the Yard memorial poem; the Bubby Nash writing prize; a council-ring text from an unnamed camp; Liz
+Greenway's "Programs at Camp"; Ian Fowler's "Selling Your Camp Program"; the photo appeal; the
+provincial association address list; and the subscription notice. **Kanawana is not named anywhere in
+the issue.**
+
+**★★★★ AN ARCHIVE LEAD THAT SHOULD CONTAIN KANAWANA BY NAME.** Shirley Yard, listing her husband's
+work: "There was a project of the Boys' Work Committee of the National Council YMCA. It is **a survey of
+costs and factors in Canadian YMCA Camps**. This is probably what he did his thesis on when he completed
+his Master's degree at **George Williams College in 1958/59**." A national YMCA costing survey of that
+date is very unlikely to have omitted the YMCA of Montreal's own resident camp. **This is the first
+concrete lead this read has produced to a document that would give Kanawana's late-1950s operating
+figures from outside the YMCA of Montreal's own files** — and Kanawana's 1947-2003 records are exactly
+the gap this project has been unable to fill. Added to `p_319`. The same interview names a second Yard
+document still in circulation in 1986: the **Ted Yard Camp Director's Calendar**, month by month
+through the year, put together in **1959** during his Masters at George Williams College — "as a matter
+of fact, it is still in use."
+
+**★★★ QUEBEC WAS THE ONLY PROVINCIAL ASSOCIATION EAST OF ONTARIO — stated as an editor's note.** Shirley
+Yard, describing the cross-Canada trip her husband made as CCA President (1953-55): "he visited and
+spoke to every Association going west from Ontario. We didn't go east. I don't know whether there were
+Associations at that time in the east. **(Ed's note: At that time, the Quebec Camping Association was the
+only Provincial Association east of Ontario)**." And the interviewer, immediately after: "up until that
+time, **the President of the Canadian Camping Association was either from Quebec or from Ontario (and
+even more specifically from Montreal or Toronto)** and, shortly after you made your cross-Canada trip,
+it began that Presidents and Executives and Boards of the Canadian Camping Association were
+provincially-located."
+
+This is the clearest statement the run has given of the position Kanawana's own association occupied at
+mid-century: **Montreal was one of the two cities that ran Canadian camping, and the trip that ended
+that arrangement is dated here to 1953-55.** It also supplies the mechanism behind something this read
+has watched happen from the other end — Quebec's slow drift from the centre of national affairs through
+the 1980s (issues 151-155) is the far end of a deliberate decentralisation that began with a family
+holiday driven west from Ontario in a car with two small children. Written into
+`canadian-camping-movement.md`.
+
+**★★★ ANOTHER 1936, FROM THE ANNIVERSARY ITSELF.** The National Workshop report records that on the
+Saturday evening at Moncton "the evening was topped off with a **50th Birthday Party for the Canadian
+Camping Association**. To celebrate our Anniversary, the New Brunswick Camping Association provided cake,
+balloons, fun and games for everyone." Together with the Patrons' Fund ("the **50th Anniversary Patrons'
+Fund**"), the association is celebrating its fiftieth throughout 1986, which is another statement — a
+weak one, since it is the same anniversary already counted at issues 157 and 158 — that it dates itself
+to 1936. **Recorded in `c_029` as a confirmation of the 1936 side, not as new evidence**: it is the
+anniversary Adele Ebbs was told not to upset, not an independent witness to it.
+
+**★★★ THE 3-5 MARCH 1987 CONGRESS DATE CONFIRMED IN CLEAN TYPE.** The full-page notice reads "OUR
+FRAGILE WORLD — A CHALLENGE FOR THE OUTDOOR COMMUNITY / SECOND INTERNATIONAL CAMPING CONGRESS / **March
+3-5, 1987 Shoreham Hotel Washington, D.C.**", jointly sponsored by the American Camping Association, the
+Canadian Camping Association, the **Jamaica Camping and Hiking Association** and the **National Camping
+Association of Japan**. This is a second clean-type confirmation of the correction made at issue 151 to
+the rotated-scan decoding of issue 149, which had read "1-2 March." The Canadians named as
+contributors are **Dorothy Walter, Jack Pearse, Fred Okada, Jocelyn Palm and Rob Heming** — no Quebec
+name among them.
+
+**★★★ TED YARD ON INDIAN LORE — a YMCA camp director's stated position, 1946-1963.** Asked whether there
+was "any Indian Council emphasis at Pine Crest… because of Ted's love for Ernest Thompson Seton's
+writing," Shirley Yard: "Only a Council fire once a week, if it was even that… **not that people don't
+respect the Indian… but he felt that we should not make a big thing out of Indian Lore by imitating them
+but by celebrating with them. This was a different sort of concept**… that he didn't want to play up an
+Indian theme as such." And it is why the family camp took a Coast Salish place name from British
+Columbia rather than an "Indian name": "there again was another reason why we didn't call our Camp an
+Indian name." Ted Jr., of the practice as it stands in 1986: "**even when we do our Indian Councils now,
+we are actually teaching them what the ceremony is because it is a very serious thing we do.** From what
+I remember of Pine Crest, it was very much like that." The Pine Crest ceremony itself: "their most vivid
+memory is of Dad coming across in a canoe standing up being paddled by his Medicine Man coming to the
+Council Ring," in costume, unrecognised even by his own children, and "**there were only three campfires
+for the three periods**."
+
+This is worth having beside Kanawana's own Council Ring, which this wiki has documented without any
+statement of what its operators thought they were doing. **Written into `site/council-ring.md` and
+`site/indigenous-names-and-land.md`** — as a period comparison from a neighbouring YMCA camp, explicitly
+not as evidence about Kanawana's own practice.
+
+**The council text printed in the same issue shows the other convention.** An unattributed Council
+Closing and a set of inter-tribal gift speeches — Onondaga to Seneca, Cayuga to Onondaga, Tuscarora to
+Oneida, Oneida to Cayuga, Mohawk to Tuscarora — written for campers to deliver in the persona of the six
+nations of the Haudenosaunee Confederacy ("We the people of the Onondaga tribe offer this table to you
+the people of the Seneca tribe"). The magazine prints Yard's objection and the practice he objected to
+in the same twenty-eight pages, without comment on either.
+
+**★★ "CO-ED" VERSUS "A BOYS' AND GIRLS' CAMP" — a distinction drawn as policy.** Shirley Yard on why
+Hollyburn took both: "the reason it was a Boys' and Girls' Camp as against a Boys' Camp… was because of
+our daughter Judy and me… **Ted was adamant about making the distinction between what was a co-ed camp
+and what was a Boys' and Girls' Camp. He felt that boys want to be boys and girls want to be girls, but
+the family idea, there would be enough mixing naturally in a Camp setting without calling it Co-ed.**"
+She credits the Family YMCA at Sault Ste. Marie as the other influence. Kanawana's own move to admit
+girls is documented in `history/coeducation-gender.md` without any contemporary vocabulary for what was
+being decided; this supplies some, from a YMCA man of the same movement. **Added there.**
+
+**★★ THE ACQ's 1986 SUMMER, in its own report (bilingual).** Employment and Immigration Canada funded **a
+three-person team that spent the summer reclassifying all of the ACQ's archives and camp dossiers** — a
+2026 note: this is the summer that decided the present shape of the ACQ's own archive, and it is worth
+knowing before asking them what they hold. **Three accreditation consultants — Leo Venditti, Yves
+Legault and Louis Jean — visited 76 camps**, four of them new members. **Jean-Marc Amyot** of the
+R.L.Q.'s audio-visual service shot **400 slides** at Quebec camps for a bilingual slide show. A pamphlet
+produced with the M.L.C.P. promoting outdoor-education classes was printed in **50,000 French and 8,000
+English copies** and sent in September to every school principal and pedagogical consultant in the
+province; a further pamphlet on "Employment in a Summer Camp" was planned. Added to
+`canadian-camping-movement.md`.
+
+**★★ THE FRENCH-LANGUAGE COMMISSION, still building an inventory.** A new committee member, **M. Michel
+Gratton of Hearst, Ontario** — "we thus have two 'out-of-Quebec' members which should help promote the
+reality of French in the camping world." The **second edition of the Répertoire de l'Inventaire des
+Camps d'Expression française (INCEF)** was launched, with **M. Jean-Luc Côté of the Conseil de la Vie
+Française en Amérique, 59 rue d'Auteuil, Québec G1R 4C2** gathering the data; the next step named is "**élaborer
+notre politique linguistique pour l'Association des Camps du Canada**." The INCEF répertoire is a
+finding aid this project has not seen and would list every French-language camp in Canada as of 1986;
+added to `p_319`.
+
+**★★ THE 50TH ANNIVERSARY PATRONS' FUND — the association asking for $30,000 to stay solvent.** The
+appeal, over the names of **Janet Adamson (President)** and **Jack Pearse (Chairman, CCA/ACC Patrons'
+Foundation)**, is printed in full with the April 1986 letter it repeats: "**An additional income of
+$30,000.00, this year, represents the difference between a giant step forward and an irretrievable step
+backward**… We are sending this plea to approximately **100 people**." The long-term goal is a standing
+Patrons' Foundation. A blue pledge card was tipped into this issue. **This is the Fitness Canada
+withdrawal of November 1984 (issue 153) arriving at its consequence**: two years on, the national
+association is passing the hat among a hundred camp directors to cover an operating shortfall. Added to
+`canadian-camping-movement.md`.
+
+**★★ THE NATIONAL WORKSHOP, Moncton, 1-5 October 1986** — the CCA's method of pushing training out to the
+provinces, described day by day by Janet Adamson. **Bob Latimer, a trainer from the National Training
+Institute**, led the first two days (no relation established to John R. Latimer, the CCA president this
+project has documented at length). The delegates worked on **Dorothy Walter's Curriculum for Camp
+Directors**, built "three sample prototype workshops" for provincial associations to run, then spent a
+day on volunteer board development. They attended **Michael Brandwein's** sessions at the **First
+Regional Conference held in Eastern Canada** as a training exercise in delivery style. The workshop
+closed with an unusual device: "**A contract was produced which the delegates were asked to sign along
+with the President of CCA**," binding each delegate to take the curriculum home by a named date and the
+President to follow up by another. A proposal was taken up "to ask the Executive of CCA to produce a
+certificate to acknowledge a Camp Director's completion of, or attendance at, training" — the
+certification question this read has watched since 1982 (issue 140), reappearing as a certificate for
+attendance rather than a licence to practise. Thanked by name: **Janet Adamson, Dorothy Walter, Ian
+Fowler (Vice President), Rochelle Bordeleau (Chairman of the Regional Conference)**.
+
+**★ A CONFLICT INSIDE ONE SENTENCE, about British Columbia.** The interviewer: "it was started just about
+the time he was getting into things, **I have it in my records as 1937, but there are people in B.C. who
+tell me it was 1940** that the B.C. Association was officially begun." Recorded here rather than as a
+conflict record: the BCCA's founding date has no bearing on Kanawana, and the magazine states both
+without preferring either.
+
+**★ CAMP PINE CREST UNDER YARD, 1946-1963** — eighteen years, from a camp "subsidized because it had just
+gone through the war years and things were not in good shape either financially or physically" to a
+self-supporting **Branch** of the Toronto YMCA that "paid all the salaries, it re-built… all paid out of
+the operation." A photo caption: "**The 'new' winter lodge at Camp Pine Crest and some of the earliest
+winter camping in Canada**." His last summer there ran **85 staff and 210 campers**. **Camie Cameron ran
+Pine Crest for something like 12 years** afterwards. **Sass Peepre came to Canada and to Camp Pine Crest
+in 1950** speaking no English, taught by Yard an hour a day, and "introduced orienteering to North
+America… back in the late 50's." **Kirk Wipper learned to paddle a canoe at Pine Crest** — "when Kirk
+first came to Pine Crest I don't think many people know that he couldn't paddle a canoe at all." **John
+Wadland** wrote his doctoral thesis on **Ernest Thompson Seton** because Yard, a Seton collector, lent
+him the books while he was a Pine Crest counsellor. Yard was "**by far the most prolific writer for the
+CANADIAN CAMPING MAGAZINE**." Added to `connections/related-camps/camp-pine-crest.md`.
+
+Yard's dates as given: born **1919**, died **1983**; memorial service at Camp Hollyburn, Rosseau,
+**15 January 1983**; Vancouver YMCA work from about **1941-42** (the "Triple C" — City Camp Counsellors —
+and the Skyline Boys' Camp); UBC degree about **1945**; Pine Crest **1946-1963**; General Secretary,
+Sault Ste. Marie Family YMCA **1963-1967**, where he supervised the building of "**the first Family Y in
+Canada**" (opened 1964, cornerstone laid by **Lester Pearson**); Camp Hollyburn **1968-1982**; **OCA
+President 1950-52 and Treasurer 1971-74; CCA President 1953-55**. He also surveyed **YMCA Camp Stephens**
+for **Don Phelan**, who "went to Winnipeg YMCA in 1962" — the camp and the association this wiki has
+recorded from the Montreal end. Yard's motto, quoted by his son: "**In the strengths of our forefathers
+we go… not in their footsteps, it is their stars we follow… not their dead campfires.**"
+
+**★ A CAMP ARCHIVE, described as a program.** Janet Adamson's "A Pioneer Centre" sets out the log-cabin
+museum at Camp Gay Venture, whose fourth component is a **Camp Archival Collection** — "old camp photos,
+crests, brochures, letters, manuals… displayed in one area of the cabin for campers to browse through…
+this collection grows as former campers and staff donate items," so that a camper can "look for a
+picture of their mother in the photo collection." Recorded because it is a 1986 statement of what a camp
+of this movement expected its own historical record to be and where it expected it to live — which is
+the question this whole project has been asking of Kanawana.
+
+**Masthead and board, Fall 1986** (all confirming or extending what issues 157-158 established): Jack
+Pearse editor-in-chief; Jane McCutcheon and John Jorgenson senior editors; **regional editors Brenda
+McFarlane (Eastern), Liz Greenway (Central), Mickey Johnstone (Western)**; office staff Lisa Pearse and
+Carol Sportun; **translation by Mimi Drouin**; Cober Printing, Kitchener. Executive: **Janet Adamson**
+president, **Jocelyn Palm** past president, Patti Thom secretary, Skip Connett treasurer, **Ian Fowler**
+VP eastern, Jan James VP western, **Ken Willis, Magog, Que.** VP central — a third confirmation of the
+Magog correction made at issue 155 — and **F. M. Van Wagner, Pointe-Claire, Que., President Emeritus**,
+still listed fifty years on. Quebec's provincial representative is **Colette Pouliot-Marier**; the French
+Language committee chair is **Gérard Bachand of Rawdon, Que.**; Archives is **Bruno Morawetz**.
+
+**For the sources index.** Subscription terms as printed: the magazine is published **four times yearly**,
+non-member subscription **$8.00/year**, single issue **$2.00**, submission deadlines **1 October, 1
+December, 15 February and 1 May**, editorial office R.R. #1, Huntsville, Ontario P0A 1K0. And a standing
+offer that matters for anyone reading the run: "**If you would like to receive a complete English
+translation of any article in Canadian Camping Magazine, send a stamped self addressed envelope**" — and
+the same offer in reverse for French. The French-language material in this run was therefore not
+systematically translated; the two columns are not always the same text.
+
+**Smaller things recorded and not carried into articles.** "What's in a Name?", a new feature, opens with
+**Illahee Northwoods Camp**, glossing "Illahee" as **Cree for "House by the Water"** (as stated; the word
+is in fact Chinook Jargon, and this is a different Illahee from the Ontario Illahee Lodge at Cobourg
+already recorded at issues 137 and 148). The **Curriculum for Camp Directors** was going to print in
+English and French with Fitness Canada support, in a binder with an extensive bibliography. Jack
+Pearse's fund-raising drive had raised nearly **$10,000 in five months**. The **Duke of Edinburgh's Award**
+challenge to camp directors gives **40,000 Canadian participants** and every provincial office address —
+Quebec's is P.O. Box 395, Sillery. The **Bubby Nash Award** for creative writing, honouring **Anne
+Nashman of Camp Wahanowin**, carried $200 in prizes on the topic "What Camping Does For Me," deadline 15
+February 1987, articles accepted in French or English. The cover shows campers of **Camp Capilano (B.C.)**
+encircling "Gramp Capilano," a 700-year-old fir. Books on the Christmas 10% discount list, with prices:
+*Photography of Natural Things* (Freeman Patterson, Van Nostrand Reinhold, 1982), *Magic Ring* (ACA,
+1985), *Clouds on the Clothesline* (Camp Tawingo Publications, 1981) and *The Earth Speaks*
+(Acclimatization Experiences Institute, 1983).

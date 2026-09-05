@@ -1,6 +1,6 @@
 # Indigenous Place Names and Land History
 
-*Status: R3-verified | Sources: 24*
+*Status: R3-verified | Sources: 25*
 *Last Updated: 2026-09-04*
 
 ## Overview
@@ -41,6 +41,10 @@ than usual: the Waabanaki case shows a YMCA camp changing a name that was *alrea
 origin, on Indigenous advice — a narrower and better-evidenced action than anything the record
 currently supports for a name whose source language, as the section above records, has never been
 identified in any known source.
+
+**A camp director who avoided an Indigenous name on purpose, and one who published a wrong etymology in the same issue.** The two habits of the movement are visible side by side in the autumn of 1986. **W. E. "Ted" Yard**, director of the Toronto YMCA's Camp Pine Crest 1946-1963, gave his own camp the British Columbia place name **Hollyburn** in part because "he felt that we should not make a big thing out of Indian Lore by imitating them but by celebrating with them… there again was another reason why we didn't call our Camp an Indian name."^25 That is the only instance this project has found of a Canadian camp director stating, in print, that he declined to take an Indigenous name — and it comes from a YMCA man working in the same decades and the same movement as Kanawana's own directors, who never recorded any comparable reflection. See [[site/council-ring|The Council Ring]] for his position on the ceremony itself.
+
+Twenty pages earlier the same issue opened a new feature, "What's in a Name?", with **Illahee Northwoods Camp**, glossing "Illahee" as **Cree for "House by the Water."**^25 The word is not Cree: *illahee* is Chinook Jargon, the Pacific Northwest trade language, in which it means land, ground or country — not a house, and not on the Prairies or in the northern woods where Cree is spoken. The magazine printed it without qualification. It is recorded here as a small, dated example of how camp name-etymologies were made and circulated in this movement: asserted from within the camp, published nationally, and not checked. Kanawana's own etymology — "beautiful waters," source language never identified — reached this wiki by exactly that route, and should be read with the same caution.
 
 ## Indigenous Programming
 
@@ -139,6 +143,7 @@ The Kanawana site sits in the municipality of Saint-Sauveur, in the Laurentian h
 22. "Preservation of Wildlife and its Habitat: just one aspect of Stewardship," a fact sheet prepared by and reprinted with the permission of the National Survival Institute, 229 College St., Toronto, in *Canadian Camping* Vol. 33 No. 5 (October 1981), pp. 3-4, 15, 21-24; with the C.C.A. publications catalogue in the same issue, catalogue p. 5 (Miscellaneous) [src_ia_canadian_camping_collection]. Found by the same read (issue 139).
 23. Ian Fowler, "New Brunswick holds Annual Counsellor Workshop," *Canadian Camping* Vol. 34 No. 3 (Autumn 1982), p. 13 [src_ia_canadian_camping_collection]. Found by the same read (issue 143).
 24. Editorial, "How Can You Buy or Sell the Sky? / Comment pouvez-vous acheter ou vendre le ciel?", and "A Prayer" attributed to Tom Whitecloud, *Canadian Camping* Vol. 35 No. 2 (Summer 1983) [src_ia_canadian_camping_collection]. Found by the word-for-word re-read of the digitized run (issue 147). The attribution of the editorial text to Ted Perry's 1972 screenplay for *Home*, rather than to Chief Seattle, is the settled scholarly position and is not stated by the magazine.
+25. "Personality Profile: W. E. (Ted) Yard (1919-1983)" — interview with Shirley Yard and Ted Yard Jr., pp. 10-15, and "What's in a Name?", p. 5 — *Canadian Camping Magazine* Vol. 38 No. 2 (Fall 1986) [src_ia_canadian_camping_collection]. Found by the word-for-word re-read of the digitized run (issue 159). The Chinook Jargon derivation of *illahee* is not stated by the magazine and is supplied here.
 
 ## Research Notes
 

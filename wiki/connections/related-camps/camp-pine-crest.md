@@ -1,6 +1,6 @@
 # Camp Pine Crest
 
-*Status: draft | Sources: 14*
+*Status: draft | Sources: 15*
 *Last Updated: 2026-09-04*
 
 ## Overview
@@ -36,6 +36,20 @@ Yard's article also records three other Pine Crest ceremonies — a sunset shari
 
 The broader team-competition-week genre, of which Pine Crest and Kanawana's Lumbermen-versus-Voyageurs tradition is a Canadian/YMCA/frontier-themed regional variant, is documented by historian Leslie Paris (University of British Columbia) as originating with "Red and Gray Week" in 1916 at Schroon Lake Camp, a Jewish boys' camp in the Adirondacks, becoming a widespread American camp staple known generically as "Color War" by the 1920s.^6 A similar naming pattern — "Woodsmen" and "Voyageurs" — appears at YMCA Hayo-Went-Ha Camps in Michigan (founded 1904), though direct fetches of both program pages show the names there denote age-based program levels rather than a competing team pair.^9
 
+## Ted Yard's eighteen years (1946-1963)
+
+Three years after the tribute reprint, the national magazine went back to Yard's family and printed a long interview with his widow **Shirley Yard** and his son **Ted Yard Jr.**, who by then directed Camp Hollyburn. It is the fullest account of Pine Crest's mid-century operation this project holds.^15
+
+**The camp Yard inherited and the camp he left.** He arrived in 1946 to a site "subsidized because it had just gone through the war years and things were not in good shape either financially or physically"; over eighteen years it became a self-supporting **Branch** of the Toronto YMCA that "paid all the salaries, it re-built… all paid out of the operation," with such mortgages as were taken "dispensed with in due course." A photograph in the same issue is captioned "**The 'new' winter lodge at Camp Pine Crest and some of the earliest winter camping in Canada**." His last season there ran **85 staff and 210 campers**, by which point, his widow says, "he had felt that he had become just an administrator." **Camie Cameron** ran the camp for about twelve years after him. His son adds that the hardest part was not the rebuilding: he "inherited the staff that was already at Pine Crest for that summer," and "those first few years were particularly difficult… not just from re-building but from establishing his leadership."^15
+
+**Who passed through.** **Alex "Sass" Peepre** came to Canada and to Pine Crest in **1950** speaking no English, which Yard taught him an hour a day; Peepre went on to introduce **orienteering** to North America "back in the late 50's" and to teach outdoor courses at Guelph, and the two later ran the first youth canoe trips out of the Sault Ste. Marie YMCA together. **Kirk Wipper** — later founder of the Kanawa canoe museum and a name that recurs throughout this wiki — **learned to paddle at Pine Crest**: "when Kirk first came to Pine Crest I don't think many people know that he couldn't paddle a canoe at all. He and Ted used to go out and paddle canoes for hours on end." **John Wadland**, later of Trent University, wrote his doctoral thesis on **Ernest Thompson Seton** because Yard, a Seton collector, lent him the books while he was a Pine Crest counsellor, and acknowledged him in it. **Ken Lemon**, committee chairman when Yard arrived in 1946, is named as his longest-running institutional support.^15
+
+**The Council Ring at Pine Crest.** Asked whether Seton's influence showed in the programme, Shirley Yard describes something deliberately restrained: "**Only a Council fire once a week, if it was even that**"; "**there were only three campfires for the three periods**." What campers remembered was the entrance — "their most vivid memory is of Dad coming across in a canoe standing up being paddled by his Medicine Man coming to the Council Ring," in costume, unrecognised for years even by his own children. Yard's stated position on the material is set out in [[site/council-ring|The Council Ring]] and [[site/indigenous-names-and-land|Indigenous Names and the Land]].^15
+
+**Dates, with one disagreement to note.** The interview gives Pine Crest **1946-1963**; General Secretary of the **Sault Ste. Marie Family YMCA 1963-1967**, where he supervised the building of "the first Family Y in Canada" (opened 1964, cornerstone laid by Lester Pearson); **Camp Hollyburn 1968-1982**; **OCA President 1950-52** and OCA Treasurer 1971-74; **CCA President 1953-55**; born 1919, died 1983, memorial service at Hollyburn on 15 January 1983.^15 **Two of these differ from the obituary printed in 1983**, which gave OCA President **1949-51** and Hollyburn from **1967**.^12 Both are the magazine's own text, three years apart; neither is preferred here, and the discrepancy is a year in each case on a person peripheral to Kanawana, recorded rather than resolved.
+
+Yard is also described as "**by far the most prolific writer for the CANADIAN CAMPING MAGAZINE**," which is worth knowing by anyone working the run: a large share of its unsigned or lightly signed YMCA-camping material is likely his.^15
+
 ## Open Questions
 
 1. [Nice-to-have] Is Camp Pine Crest still operating today under the YMCA of Greater Toronto? Not independently confirmed in current sources (see [[connections/related-camps/quebec-camp-landscape|The Quebec Camping Landscape]] Open Question 6).
@@ -70,6 +84,7 @@ The same interview is emphatic that the Council Ring did **not** come from that 
 12. W. E. (Ted) Yard, "Memorable Experiences Leading Towards Spiritual Growth," reprinted with his obituary notice, *Canadian Camping* Vol. 35 No. 1 (Spring 1983), pp. 8-9 [src_ia_canadian_camping_collection]. Found by the same read (issue 146). The obituary gives Yard as born in Vancouver in 1919, B.A. (UBC), M.S. (George Williams College, Chicago), in the YMCA from 1942, Director of Camp Pine Crest in the 1950s and early 1960s, owner of Camp Hollyburn from 1967, OCA President 1949-51 and CCA President 1953-55; he died 3 January 1983.
 13. Adele and Harry Ebbs, "Memorable Quotes from 'Blackie' Blackstock," *Canadian Camping* Vol. 36 No. 2 (Summer 1984), p. 13 [src_ia_canadian_camping_collection]. Found by the word-for-word re-read of the digitized run (issue 151).
 14. "Personality Profile: Taylor Statten — Interview with Adele Ebbs," *Canadian Camping Magazine* Vol. 38 No. 1 (Summer 1986), pp. 10-11 [src_ia_canadian_camping_collection]. Found by the word-for-word re-read of the digitized run (issue 158).
+15. "Personality Profile: W. E. (Ted) Yard (1919-1983)" — interview with Shirley Yard and Ted Yard Jr., *Canadian Camping Magazine* Vol. 38 No. 2 (Fall 1986), pp. 10-15, with the reprint of Yard's "Our Pal Joey" (first published December 1962) at p. 18 [src_ia_canadian_camping_collection]. Found by the word-for-word re-read of the digitized run (issue 159).
 
 ## Research Notes
 

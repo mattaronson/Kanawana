@@ -1,6 +1,6 @@
 # The Postwar Gap (1947–1967)
 
-*Status: draft | Sources: 9*
+*Status: draft | Sources: 10*
 *Last Updated: 2026-08-14*
 
 ## Overview
@@ -16,6 +16,8 @@ Nelson McEwen, who had directed Kanawana in an administrative capacity since rou
 **What remains a gap is narrower and of a different kind.** The intervening seasons — 1948–1954 under Locke, 1956–1958 under Shantz — rest on continuity and on the *absence* of any recorded staff change in the annual reports' employed-officer lists, not on any statement. And the reason no earlier pass found these two names is now understood: **the Montreal YMCA's annual reports of 1947–1965 name no paid camp director at all.** They list only volunteer Branch Chairmen and Camp Chairmen, and Kanawana is not among the branches; it becomes a listed branch, with an executive secretary column, only from the 1966-67 report. Locke and Shantz surface only because each happens to be named in passing in a different kind of document. See [[people/directors-index|Directors and Staff of Camp Kanawana]]'s Gap Periods section for the full research status.^8
 
 What is known from this window comes from people who passed through Kanawana on their way elsewhere, rather than from any camp record itself. In 1951, McEwen — by then General Secretary of the Saint John YMCA, having held the National Council Boys' Work Secretary role earlier, 1941–1945 — recruited Ross Bannerman into YMCA camp work at Camp Pascobac; Bannerman went on to direct Camp Stephens in Winnipeg in 1956 before eventually authoring his own 1969 report on Kamp Kanawana. See [[people/nelson-mcewen|Nelson McEwen]] and [[people/ross-bannerman|Ross Bannerman]] for both men's fuller Kanawana-adjacent careers. Separately, A. Ross Seaman himself had directed Camp Perrot before arriving at Kanawana — a 1952 Camp Perrot annual report thanks him as "Past Director of Camp Perrot," and a 1959 internal memo records him personally planting trees there "about 1950."^3 See [[site/camp-perrot|Camp Perrot]] for the primary-source detail.
+
+**A document that should carry Kanawana's own late-1950s figures exists, and it was written by an outsider.** In 1986 *Canadian Camping Magazine* interviewed the widow of **W. E. (Ted) Yard**, YMCA Camp Pine Crest's director from 1946 to 1963 and CCA president 1953-55, who listed among his work "a project of the **Boys' Work Committee of the National Council YMCA**. It is **a survey of costs and factors in Canadian YMCA Camps**. This is probably what he did his thesis on when he completed his Master's degree at **George Williams College in 1958/59**."^10 A national YMCA costing survey of that date is very unlikely to have omitted the YMCA of Montreal's own resident camp. **It would fall squarely inside the span this article cannot document, and it would report Kanawana from outside the YMCA of Montreal's own files** — which is exactly what is missing, since the Montreal annual reports of these years name no camp director and give the camp no separate accounting. Nothing here establishes that Kanawana appears in it; the survey has not been seen. It is a lead, tracked as `p_319`, and the places to look are the George Williams College thesis holdings (now Aurora University) and the YMCA of the USA archives at the University of Minnesota, which hold the Canadian National Council material of this period. The same interview names a second Yard document then still in circulation, the **Ted Yard Camp Director's Calendar**, compiled in 1959.
 
 ## A. Ross Seaman's Directorship (1959–1967)
 
@@ -67,6 +69,7 @@ In 1960–1961, Hedley Gardner Dimock — Coordinator of Staff Development and T
 7. Concordia University Archives: Department of Human Sciences fonds; Centre for Human Relations and Community Studies fonds; YMCA of Montreal Fonds P145/12B05 (Staff) [src_concordia_chrcs_fonds].
 8. "Kamp Kanawana History," presented at a Training Course, 6 June 1951 [src_ia_kanawana_history_1951]; YMCA of Montreal Annual Reports 1950, 1954, 1955, 1959 and 1962 [src_ia_ymca_montreal_annual_reports_collection].
 9. *Kamp Kanawana Annual Report 1969* [src_ia_kanawana_report_1969]; *Kamp Kanawana Director's Report 1976* [src_ia_kanawana_directors_report_1976].
+10. "Personality Profile: W. E. (Ted) Yard (1919-1983)" — interview with Shirley Yard and Ted Yard Jr., *Canadian Camping Magazine* Vol. 38 No. 2 (Fall 1986), pp. 10-15 [src_ia_canadian_camping_collection]. Found by the word-for-word re-read of the digitized run (issue 159).
 
 ## Research Notes
 
