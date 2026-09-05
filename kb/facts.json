@@ -1,8 +1,8 @@
 {
-  "version": "6.08",
-  "kb_version": "6.08",
+  "version": "6.09",
+  "kb_version": "6.09",
   "migrated_from": "3.3",
-  "fact_count": 4727,
+  "fact_count": 4734,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -84598,6 +84598,136 @@
       "confidence": "inferred",
       "conflicts_with": [],
       "added_version": "6.08",
+      "added_by": "web_research"
+    },
+    {
+      "fact_id": "f_4766",
+      "claim": "YMCA CAMP KITCHIKEWANA RUNS THE LUMBERMAN AND VOYAGEUR GAMES -- A THIRD CANADIAN YMCA CAMP WITH THE TRADITION. Its programmes page names the \"Lumberman and Voyageur Games\" among the special programmes of its two-week Traditional Camp, alongside the Annual Musical, Sailing Regattas and Talent Show. This corrects this project's earlier statement that only Camp Pine Crest and Kanawana are documented as running the competition.",
+      "category": "traditions",
+      "entities": [
+        "YMCA Camp Kitchikewana",
+        "Camp Pine Crest",
+        "Camp Kanawana"
+      ],
+      "date_ref": "2026",
+      "sources": [
+        "src_ymca_simcoe_kitchikewana"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.09",
+      "added_by": "web_research"
+    },
+    {
+      "fact_id": "f_4767",
+      "claim": "YMCA Camp Kitchikewana is on Beausoleil Island in Georgian Bay Islands National Park, Honey Harbour, Ontario, operated by the YMCA of Simcoe/Muskoka and founded by the Midland YMCA. Its own pages state \"YMCA Camp Kitchikewana has been in operation since 1919\" and \"For the last 105 years YMCA Camp Kitchikewana has been offering a values based camp experience.\"",
+      "category": "camping_movement",
+      "entities": [
+        "YMCA Camp Kitchikewana",
+        "Midland YMCA",
+        "Beausoleil Island"
+      ],
+      "date_ref": "1919",
+      "sources": [
+        "src_ymca_simcoe_kitchikewana"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.09",
+      "added_by": "web_research"
+    },
+    {
+      "fact_id": "f_4768",
+      "claim": "A DATE CONFLICT ON KITCHIKEWANA'S FOUNDING, CARRIED IN THIS PROJECT'S OWN RECORDS. The camp and this KB give 1919, but C. R. \"Blackie\" Blackstock's 1979 obituary and the 1984 Ebbs tribute both describe him as a Kitchikewana \"original\" who \"started the first year of that 'Y' camp on Beausoleil Island in 1921 as a very young counsellor\" under Ernie Thurlow. Two years apart, and the 1921 version comes from a man who says he was there. Not resolved here.",
+      "category": "camping_movement",
+      "entities": [
+        "YMCA Camp Kitchikewana",
+        "C. R. Blackstock",
+        "Ernie Thurlow"
+      ],
+      "date_ref": "1919-1921",
+      "sources": [
+        "src_ymca_simcoe_kitchikewana",
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "disputed",
+      "conflicts_with": [],
+      "added_version": "6.09",
+      "added_by": "web_research"
+    },
+    {
+      "fact_id": "f_4769",
+      "claim": "EXPLICIT NULL: when the Lumberman and Voyageur Games began at Camp Kitchikewana, and whether they arrived from Camp Pine Crest, travelled to it, or developed independently, is not stated on the camp's own pages or on any surface searched. The camp's founding in 1919 predates Pine Crest's Games (1940) by twenty-one years, so Kitchikewana cannot be ruled out as an earlier or parallel source of the tradition on present evidence. Know History's commissioned study \"Rooted: Beausoleil Island\" has a chapter on the camp and is the most likely published source; it returns HTTP 403 to this project's fetch tool and has not been read.",
+      "category": "methodology",
+      "entities": [
+        "YMCA Camp Kitchikewana",
+        "Camp Pine Crest"
+      ],
+      "date_ref": "1919-2026",
+      "sources": [
+        "src_ymca_simcoe_kitchikewana",
+        "src_knowhistory_beausoleil"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.09",
+      "added_by": "web_research"
+    },
+    {
+      "fact_id": "f_4770",
+      "claim": "Kitchikewana already has documented points of contact with Kanawana independent of the L&V Games. Austin Matthews, General Secretary of the Midland YMCA and Director of Camp Kitchikewana, described a fully documented school-camp week in autumn 1967 -- 170 grade-four children of the Midland public school system in three five-day groups -- which is the clearest model in the Canadian Camping run of the arrangement that later became Kanawana's own outdoor-education work with schools. Charles Plewman was \"instrumental in organising some thirty-five camps, notably the training camp at Beausoleil Island, Georgian Bay.\" And Camp Kitchikewana supplied the name of YMCA Camp Wanakita, taken from its own Wanakita Beach.",
+      "category": "camping_movement",
+      "entities": [
+        "YMCA Camp Kitchikewana",
+        "Austin Matthews",
+        "Charles Plewman",
+        "YMCA Camp Wanakita",
+        "Camp Kanawana"
+      ],
+      "date_ref": "1919-1967",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.09",
+      "added_by": "web_research"
+    },
+    {
+      "fact_id": "f_4771",
+      "claim": "Camp Kitchikewana is a seventh YMCA overnight camp operating in Canada in 2026, missing from this project's earlier list of six, which was explicitly recorded as a floor rather than a roster. Its presence confirms that the floor was too low and that no complete list of Canadian YMCA camps has been assembled from any national source.",
+      "category": "camping_movement",
+      "entities": [
+        "YMCA Camp Kitchikewana",
+        "YMCA"
+      ],
+      "date_ref": "2026",
+      "sources": [
+        "src_ymca_simcoe_kitchikewana"
+      ],
+      "confidence": "inferred",
+      "conflicts_with": [],
+      "added_version": "6.09",
+      "added_by": "web_research"
+    },
+    {
+      "fact_id": "f_4772",
+      "claim": "Kitchikewana's \"in operation since 1919\" and \"for the last 105 years\" is a fourth long-continuity claim among Canadian YMCA camps, alongside Big Cove's \"oldest continuously running residential camp in Canada\", Camp Stephens' \"longest-serving summer camp in Canada\" and Camp Pine Crest's \"operating continually since 1910\". Founded 1919, its longest possible unbroken run to 2019 is about 101 seasons, behind Kanawana's 126. Whether it lost seasons to the wars or to COVID-19 is not stated on its own pages.",
+      "category": "camping_movement",
+      "entities": [
+        "YMCA Camp Kitchikewana",
+        "Big Cove YMCA Camp",
+        "Camp Stephens",
+        "Camp Pine Crest",
+        "Camp Kanawana"
+      ],
+      "date_ref": "1919-2026",
+      "sources": [
+        "src_ymca_simcoe_kitchikewana"
+      ],
+      "confidence": "inferred",
+      "conflicts_with": [],
+      "added_version": "6.09",
       "added_by": "web_research"
     }
   ]

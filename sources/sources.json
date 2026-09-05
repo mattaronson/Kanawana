@@ -28027,7 +28027,25 @@
       "read_state": "extracted",
       "read_state_basis": "direct: fetched 2026-09-05",
       "notes": "Camp Elphinstone (Gibsons, Sunshine Coast) overnight and day; Camp Kanannaq (Prince George) day only. Both accredited by the BC Camps Association."
+    },
+    {
+      "source_id": "src_knowhistory_beausoleil",
+      "type": "web",
+      "title": "Know History, 'Rooted: Beausoleil Island', Chapter 5: Camp Kitchikewana",
+      "date": "2026",
+      "date_precision": "year",
+      "origin": "web",
+      "origin_url": "https://www.knowhistory.ca/resources/rooted-beausoleil-island/chapter-5-camp-kitchikewana",
+      "cache_path": null,
+      "char_count": 0,
+      "ingested_at": "2026-09-05T17:11:06Z",
+      "extracted": true,
+      "extraction_version": "p_408",
+      "reliability": "secondary",
+      "read_state": "unavailable",
+      "read_state_basis": "HTTP 403 to the fetch tool; not read. Identified as the most likely published source for the camp's detailed history and the origin of its Lumberman and Voyageur Games.",
+      "notes": "A commissioned historical study of Beausoleil Island with a chapter on the camp. NOT READ -- see read_state."
     }
   ],
-  "source_count": 1557
+  "source_count": 1558
 }

@@ -1,6 +1,6 @@
 # Points of Contact: Kanawana and the Other YMCA Camps
 
-*Status: draft | Sources: 14*
+*Status: draft | Sources: 16*
 *Last Updated: 2026-09-05*
 
 ## Overview
@@ -13,8 +13,10 @@ traditions that demonstrably travelled, and the institutional occasions on which
 together — and separates them from the resemblances that look like contact and are not.
 
 Two of its findings are negative and worth stating first. **The route by which the L&V Games reached
-Kanawana in 1947 is undocumented on every surface searched.** And **Big Cove appears not to have had a
-Lumbermen-and-Voyageurs competition at all**, despite sharing the word "Voyageur" with Kanawana's.
+Kanawana in 1947 is undocumented on every surface searched** — and the direction of travel is now less
+certain than it looked, because a third camp runs them and is older than the one assumed to have
+originated them. And **Big Cove appears not to have had a Lumbermen-and-Voyageurs competition at all**,
+despite sharing the word "Voyageur" with Kanawana's.
 
 ## People who worked at Kanawana and elsewhere
 
@@ -68,6 +70,15 @@ of YMCAs of Canada, listed the eastern camps he visited in 1953 with their direc
 Cove** (Charlottetown) and **Big Cove** (Halifax), under Clare Buckley.^7 This is the institutional
 world Kanawana sat inside, and the list is a roster of a YMCA camping system that has largely vanished.
 
+**Camp Kitchikewana, and a model Kanawana later followed.** Austin Matthews, General Secretary of the
+Midland YMCA and Director of Camp Kitchikewana, described a fully documented school-camp week in the
+autumn of 1967 — all 170 grade-four children of the Midland public school system, in three five-day
+groups — which is the clearest model in the *Canadian Camping* run of the arrangement that later became
+Kanawana's own outdoor-education work with schools.^16 Charles Plewman was "instrumental in organising
+some thirty-five camps, notably **the training camp at Beausoleil Island**, Georgian Bay,"^5 the island
+Kitchikewana sits on. And Kitchikewana supplied the *name* of another YMCA camp: **Wanakita** is taken
+from Kitchikewana's own Wanakita Beach.^16
+
 **The associations.** Kanawana's directors held provincial and national office continuously enough that
 the camp was rarely more than one step from any other member camp: Roy D. Locke was president of the
 Quebec Camping Association by 1951; A. Ross Seaman was QCA president to September 1967 and the CCA's
@@ -83,7 +94,20 @@ Pine Crest uses the same two symbols Kanawana uses, the paddle and the axe.^9 Ka
 Lumberman-Voyageur Week was created in **1947**, and the YMCA's own count of editions confirms that
 start.^10
 
-**And it is not unique to those two camps.** YMCA Hayo-Went-Ha Camps in Michigan, founded 1904, use
+**And there is a third Canadian camp running it — which this article got wrong on first writing.**
+**YMCA Camp Kitchikewana**, on Beausoleil Island in Georgian Bay, names the "**Lumberman and Voyageur
+Games**" among the special programmes of its two-week Traditional Camp, alongside its Annual Musical and
+Sailing Regattas.^15 This article previously stated that only Pine Crest and Kanawana were documented as
+running the competition. **That was wrong, and the correction matters for the transmission question**:
+Kitchikewana was founded in **1919**, twenty-one years before the Pine Crest Games began, so on present
+evidence it cannot be ruled out as an earlier or parallel source rather than a third recipient.
+
+**When Kitchikewana's Games began is not stated anywhere this project can reach.** Neither its camp page
+nor its programmes page dates them or says where they came from.^15 Know History's commissioned study
+*Rooted: Beausoleil Island* has a chapter on the camp and is the most likely published source; it
+returns HTTP 403 to this project's fetch tool and **has not been read** [f_4769].
+
+**And it is not unique to Canada either.** YMCA Hayo-Went-Ha Camps in Michigan, founded 1904, use
 "Woodsmen" and "Voyageurs" as programme group names, and the wider **"colour war"** genre is documented
 by the historian **Leslie Paris** as beginning with "Red and Gray Week" at Schroon Lake Camp in the
 Adirondacks in **1916**, becoming an American camp staple through the 1920s.^11 Kanawana's L&V is best
@@ -129,7 +153,7 @@ both drew on the same national idiom; it does not establish that either learned 
 **In 1989 there were about twenty-nine.** The centenary relay ran twenty-nine hours precisely because
 Kanawana and twenty-eight other YMCA camps each took one [f_4762].
 
-**In 2026, the overnight camps this project can name are six**, and this is a floor rather than a
+**In 2026, the overnight camps this project can name are seven**, and this is a floor rather than a
 roster — YMCA Canada's own national camps page names no individual camp at all:
 
 | Camp | Location | Operated by |
@@ -139,11 +163,15 @@ roster — YMCA Canada's own national camps page names no individual camp at all
 | **YM-YWCA Camp Stephens** | Lake of the Woods, near Kenora, Ontario | YMCA-YWCA of Winnipeg |
 | **YMCA Camp Pine Crest** | Torrance, Muskoka, Ontario | YMCA of Greater Toronto |
 | **YMCA Wanakita** | Haliburton, Ontario | YMCA of Hamilton-Burlington-Brantford |
+| **YMCA Camp Kitchikewana** | Beausoleil Island, Honey Harbour, Ontario | YMCA of Simcoe/Muskoka |
 | **YMCA Camp Elphinstone** | Gibsons, British Columbia | YMCA BC |
 
-YMCA Camp Kanannaq near Prince George runs day camps only.^14 Three provinces have no YMCA overnight
-camp in this list at all, and the whole of the Prairies is represented only by a Winnipeg association
-running a camp in Ontario.
+YMCA Camp Kanannaq near Prince George runs day camps only.^14 Four of the seven are in Ontario; the
+whole of the Prairies is represented only by a Winnipeg association running a camp in Ontario.
+
+**That this list grew from six to seven the day after it was written is the point.** Kitchikewana was
+added only because the operator recognised it; nothing in the search surfaces surfaced it. **The count
+is a floor and should be treated as one** [f_4771].
 
 **The system appears to have contracted sharply, but that is an observation and not a measurement.**
 Symington's 1953 tour of eastern Canada alone named nine YMCA camps, of which **only Big Cove is
@@ -158,15 +186,18 @@ decline should be tested against the YMCA's own records before it is asserted.
    1947; look for correspondence between the two camps in Concordia P0145/12B.
 2. [Important] **Who created the Pine Crest Games in 1940, and why those team names?** Unanswered by the
    camp's own public account.
-3. [Important] **Did any other Canadian YMCA camp run a Lumbermen-vs-Voyageurs competition?** Only Pine
-   Crest and Kanawana are documented; Hayo-Went-Ha's Woodsmen/Voyageurs is a programme-group naming, not
-   a games tradition.
-4. [Important] **What is the actual number of YMCA camps in Canada, now and over time?** The 1989 figure
+3. [Critical] **When did the Lumberman and Voyageur Games begin at Camp Kitchikewana, and in which
+   direction did the tradition travel?** Kitchikewana (founded 1919) predates the Pine Crest Games
+   (1940) by twenty-one years, so the assumption that Pine Crest originated the competition is now
+   untested. Read Know History's *Rooted: Beausoleil Island*, chapter 5.
+4. [Important] **Are there Canadian YMCA camps beyond the seven listed here?** This list grew by one the
+   day after it was written, on the operator's recognition rather than on any search result.
+5. [Important] **What is the actual number of YMCA camps in Canada, now and over time?** The 1989 figure
    of twenty-nine is solid; 2026 is a floor of six overnight camps assembled from separate association
    websites. YMCA Canada would have the real series.
-5. [Nice-to-have] What became of the nine camps on Symington's 1953 list — Naskapie, Pascobac, Wapomeo,
+6. [Nice-to-have] What became of the nine camps on Symington's 1953 list — Naskapie, Pascobac, Wapomeo,
    Barachois, Magaguadavic, Y's Acres, Sherbrooke, Holland Cove?
-6. [Nice-to-have] Is there a record of what Kanawana did at its hour of the 1989 relay campfire, or of
+7. [Nice-to-have] Is there a record of what Kanawana did at its hour of the 1989 relay campfire, or of
    the time capsule buried at the CCA congress that October?
 
 ## Related Articles
@@ -194,3 +225,5 @@ decline should be tested against the YMCA's own records before it is asserted.
 12. *Lumbermen & Voyageurs: The YMCA Pine Crest Story* — Camp Pine Crest's centennial history, **not read by this project** [src_ymcagta_pinecrest_games]. See [f_0373].
 13. Big Cove YMCA Camp programme sections and traditions [src_wikipedia_big_cove_sections]. See [f_4761].
 14. YMCA BC camps; YMCA of Greater Toronto; YMCA-YWCA of Winnipeg; YMCA of Greater Halifax [src_ymcabc_camps]. See [f_4762], [f_4763], [f_4764].
+15. YMCA of Simcoe/Muskoka, Camp Kitchikewana camp and programmes pages [src_ymca_simcoe_kitchikewana]; Know History, *Rooted: Beausoleil Island*, ch. 5, **not read** (HTTP 403) [src_knowhistory_beausoleil]. See [f_4766], [f_4767], [f_4769].
+16. Austin Matthews on the 1967 Midland school-camp week, and the Wanakita naming, *Canadian Camping* [src_ia_canadian_camping_collection]. See [f_3281], [f_1302], [f_4770].

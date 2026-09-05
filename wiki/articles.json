@@ -10198,18 +10198,27 @@
         "f_4762",
         "f_4763",
         "f_4764",
-        "f_4765"
+        "f_4765",
+        "f_4766",
+        "f_4767",
+        "f_4768",
+        "f_4769",
+        "f_4770",
+        "f_4771",
+        "f_4772"
       ],
       "sources_cited": [
         "src_campstephens_alumni_blog",
         "src_ia_canadian_camping_collection",
         "src_ia_ymca_montreal_fonds_collection",
+        "src_knowhistory_beausoleil",
         "src_wikipedia_big_cove_sections",
+        "src_ymca_simcoe_kitchikewana",
         "src_ymca_website",
         "src_ymcabc_camps",
         "src_ymcagta_pinecrest_games"
       ],
-      "open_questions": 6,
+      "open_questions": 7,
       "cross_links": [
         "history/oldest-camp-question",
         "traditions/lv-games",
@@ -10219,7 +10228,7 @@
         "connections/institutional-lineage/canadian-camping-movement"
       ],
       "file_id": null,
-      "word_count": 2112
+      "word_count": 2581
     }
   ],
   "article_count": 93
