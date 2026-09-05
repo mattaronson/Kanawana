@@ -2,7 +2,7 @@
   "version": "6.06",
   "kb_version": "6.06",
   "migrated_from": "3.3",
-  "fact_count": 4650,
+  "fact_count": 4700,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -83167,6 +83167,944 @@
       ],
       "date_ref": "1987",
       "confidence": "stated",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4689",
+      "issue": 163,
+      "claim": "The editor's note in Canadian Camping Vol. 39 No. 2, Fall 1987, states what the issue is missing and why: \"What it doesn't contain are a number of provincial reports, committee news items and our Personality Profile. The postal system blocked the first two and a confounding phone/dictaphone blocked a transcontinental interview concerning Lorne Brown.\" A postal strike is therefore the reason several provinces are silent in this issue, which must be known before reading any absence in it as significance.",
+      "category": "methodology",
+      "entities": [
+        "Canadian Camping"
+      ],
+      "date_ref": "Fall 1987",
+      "confidence": "stated",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4690",
+      "issue": 163,
+      "claim": "Two further gaps in the Internet Archive scan of Canadian Camping Fall 1987: page 13, carrying Nancy Bramm's prize-winning Bubby Nash article, and page 19, produced no machine-readable text. These are gaps in the tool, not absences in the record.",
+      "category": "methodology",
+      "entities": [
+        "Canadian Camping"
+      ],
+      "date_ref": "1987",
+      "confidence": "stated",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4691",
+      "issue": 163,
+      "claim": "Mary Northway's 1968 Ontario Camping Association banquet speech, printed posthumously in Canadian Camping Fall 1987: \"From the many events going on in the external or internal environment at any one moment, we select from among the millions of possibilities those which our perceptual equipment is capable of receiving and from these, those which have most meaning for or bring most satisfaction to us. In doing so, we stamp them with our own qualities. They become our experience. Indeed, 'We see things not as they are, but as we are'. As time passes, our past experience becomes transformed and modified, for remembering is in essence a creative process, by which we continually recreate past experiences into novel forms that have importance for us in the present... It is not what really happened that matters; it is what we have reconstructed out of it and what we make out of it.\"",
+      "category": "methodology",
+      "entities": [
+        "Mary L. Northway",
+        "Ontario Camping Association"
+      ],
+      "date_ref": "1968",
+      "confidence": "stated",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4692",
+      "issue": 163,
+      "claim": "Northway on camp memory specifically, 1968: \"our return is not to the blue lake and rocky shore as they were; they are to what we have created from them... Our present campfire is always aglow with all the campfires we have known in the past.\"",
+      "category": "methodology",
+      "entities": [
+        "Mary L. Northway"
+      ],
+      "date_ref": "1968",
+      "confidence": "stated",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4693",
+      "issue": 163,
+      "claim": "Northway's account supplies the mechanism behind this project's standing subordination of oral history to documents: not that memory decays, but that it is actively reconstructed to serve the present, by a process that feels from the inside exactly like recall. It comes from a professional research psychologist who was also a camper, addressing camp directors about their own camps.",
+      "category": "methodology",
+      "entities": [
+        "Mary L. Northway",
+        "Camp Kanawana"
+      ],
+      "date_ref": "1968",
+      "confidence": "inferred",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4694",
+      "issue": 163,
+      "claim": "Mary Northway on Glen Bernard Camp's first season, 1922: \"This was the first year of the camp - and everything was new to all of us and everything was an adventure. The camp was divided across age groups into Indian Tribes. Although I had never seen an Indian and far less knew anything of our historical dealings or misdealings with them, being an Indian seemed a fine idea to me... There were three tribes, the Micmacs, the Tuscarora and the Kashigabagamogs. We elected the big girls to be tribal chief and scroll reader and to other important positions. But I, a little girl, was elected runner. What an honour to be formally titled 'Runner of the Kashigabagamogs!'\"",
+      "category": "traditions",
+      "entities": [
+        "Mary L. Northway",
+        "Glen Bernard Camp"
+      ],
+      "date_ref": "1922",
+      "confidence": "stated",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4695",
+      "issue": 163,
+      "claim": "Two of Glen Bernard's three 1922 tribe names are real nations from opposite ends of the country - Mi'kmaq of the Maritimes and Tuscarora of the Haudenosaunee Confederacy - and the third is not a nation at all, apparently an Ojibwe-sounding coinage. Set beside John Gilchrist's statement that Mary Edgar wrote \"Indian legends of her own... which, in fact, were make-believe but she made them sound the real thing,\" this is what that practice looked like in the camp's first season: two borrowed nations and one invented one, with elected chiefs and scroll readers.",
+      "category": "traditions",
+      "entities": [
+        "Glen Bernard Camp",
+        "Mary S. Edgar",
+        "Mary L. Northway"
+      ],
+      "date_ref": "1922",
+      "confidence": "inferred",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4696",
+      "issue": 163,
+      "claim": "Henri Chalifoux, ACQ President, reports on the 1987 Quebec season in Canadian Camping Fall 1987 that attendance was excellent, \"with the no-vacancy sign up throughout the summer for most of the province's camps and many had a long waiting list,\" and that \"Over eighty (80) camps were visited this past summer by five consultants. Out of this number ten (10) were trying to gain provincial recognition and become part of the provincial association for the first time.\" Against 76 camps visited by three consultants in 1986, that is a larger visitation programme, and ten camps applied for first-time membership in one year.",
+      "category": "camping_movement",
+      "entities": [
+        "Henri Chalifoux",
+        "Association des camps du Quebec"
+      ],
+      "date_ref": "1987",
+      "confidence": "stated",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4697",
+      "issue": 163,
+      "claim": "Chalifoux reports the ACQ's three-part triennial development plan - an orientation plan accepted in May 1987, a revision of each programme's specific objectives due before spring, and a finance-committee plan \"that will allow self-financing for the camps in future years\" - and that the executive was working closely with the provincial government on l'assurance responsabilite civile, \"devenu complexe pour les directeurs de camps, depuis quelques annees.\"",
+      "category": "camping_movement",
+      "entities": [
+        "Henri Chalifoux",
+        "Association des camps du Quebec"
+      ],
+      "date_ref": "1987",
+      "confidence": "stated",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4698",
+      "issue": 163,
+      "claim": "The ACQ commissioned a study to identify who actually went to Quebec camps, funded by the ministere des Loisirs, de la Chasse et de la Peche, renewing user research done in 1982. It is the closest thing to a demographic survey of Quebec camp clientele this project has encountered, and it would describe the population Kanawana drew from. The magazine's English translation garbles the funder into two ministries; the French text names one, the M.L.C.P., and is the one to trust.",
+      "category": "archives",
+      "entities": [
+        "Association des camps du Quebec",
+        "Camp Kanawana"
+      ],
+      "date_ref": "1982-1987",
+      "confidence": "stated",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4699",
+      "issue": 163,
+      "claim": "The CCA's Commission des camps d'expression francaise for 1987-88 is named in full: \"Carmelle Deveau, Nouveau-Brunswick; Michel Gratton, Ontario; Eileen Mayotte, Saskatchewan; Ken Willis, Quebec,\" chaired by Colette Pouliot-Marier, who re-accepted the chair in May 1987. Eileen Mayotte, the Quebec Camping Association's secretary of the 1940s, was still sitting on a national committee in the autumn of 1987 - a second fixed point for her in one year - and Ken Willis stayed on as the committee's Quebec member after retiring from the vice-presidency.",
+      "category": "people",
+      "entities": [
+        "Eileen Mayotte",
+        "Ken Willis",
+        "Colette Pouliot-Marier",
+        "Carmelle Deveau",
+        "Michel Gratton"
+      ],
+      "date_ref": "1987",
+      "confidence": "stated",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4700",
+      "issue": 163,
+      "claim": "Pouliot-Marier credits Gerard Bachand's two years with the INCEF '87 needs analysis and with the linguistic policies \"dont les recommendations faites au Conseil des presidents furent acceptees\" - so the CCA language policy traced in this project since 1974 was formally adopted by the President's Council in 1987. An INCEF 1988 was planned, to carry \"un bilan des Inventaires des camps d'expression francaise realises depuis les trois dernieres annees.\"",
+      "category": "camping_movement",
+      "entities": [
+        "Gerard Bachand",
+        "Colette Pouliot-Marier",
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1987",
+      "confidence": "stated",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4701",
+      "issue": 163,
+      "claim": "The \"Jackpot!\" archives appeal in Canadian Camping Fall 1987 records that the previous winter's Camp Oconto fire article brought in \"a goldmine of material which might otherwise have been lost... from one person who worked on staff at one small camp in Ontario for two years in 1936 and 1937,\" and draws the lesson: \"We must recognize that today's snapshots, camp brochures, crests, cards and programs are tomorrow's priceless archives. Every camp should be actively archiving. Every camping association should be actively archiving as well. Without gathering our histories together, in a safe organized way we are all losers.\"",
+      "category": "archives",
+      "entities": [
+        "Camp Oconto",
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1987",
+      "confidence": "stated",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4702",
+      "issue": 163,
+      "claim": "The \"Jackpot!\" notice states that the magazine would publish suitable material \"before forwarding it to the Canadian Camping Association Archives at Trent University or to the appropriate provincial camping association archives in the camp's home province.\" That is a third statement in three issues that provincial associations held their own archives, so Quebec material sent to the magazine in 1986-88 may have gone to the ACQ rather than to Trent.",
+      "category": "archives",
+      "entities": [
+        "Trent University",
+        "Association des camps du Quebec",
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1987",
+      "confidence": "stated",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4703",
+      "issue": 163,
+      "claim": "Aniko Varpalotai reports in Fall 1987 that \"an assessment of the current status and needs of physical activity programs at Canadian camps has now been completed,\" with a very high return rate, and promises a summary of results \"in the next issue\" - which is issue 164, the last the magazine published. She answers Ken Willis's objection directly: many camping people \"echoed the concerns expressed by Ken Willis... The fear that camps will be turned into aerobic exercise clubs or competitive sports centres is not without foundation given the image of physical activity in the media,\" but Fitness Canada's 1988-89 mandate \"has embraced the concept of holistic fitness which 'includes the integration of physical, mental, emotional, spiritual and social elements'.\"",
+      "category": "camping_movement",
+      "entities": [
+        "Aniko Varpalotai",
+        "Ken Willis",
+        "Fitness Canada",
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1987",
+      "confidence": "stated",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4704",
+      "issue": 163,
+      "claim": "Volume 1 Number 1 of the International Camping Fellowship newsletter came off the ACA presses in the autumn of 1987, edited by Armand Ball, with articles on camping in Australia, Ghana, India, Belgium, Japan, Venezuela, the United Kingdom, Europe, Latin America, the USA and Canada; a year's subscription in Canada cost $7.00. The Washington meetings are given here as 25 delegates; the planning group was chaired by Terry Lucas of Venezuela; the agreement is dated 12 March 1987; and Jack Pearse was appointed \"International Representative for the Canadian Camping Association,\" hosting Adamson and Chamberlain at Camp Tawingo on 9-10 July 1987.",
+      "category": "camping_movement",
+      "entities": [
+        "International Camping Fellowship",
+        "Armand Ball",
+        "Terry Lucas",
+        "Jack Pearse"
+      ],
+      "date_ref": "1987",
+      "confidence": "stated",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4705",
+      "issue": 163,
+      "claim": "The CCA board structure changed again in 1987 to five regional vice-presidencies: Atlantic (Ian Fowler), Pacific (Jan James), Prairie (Jennifer Perron, Winnipeg), Quebec (Gerard Bachand) and Ontario (Sally Moore) - the West split in two and Quebec's separate seat retained. Ontario's members gave over $2,700 to the Patrons' Fund within two weeks of Jane McCutcheon's September appeal, and Dorothy Walter agreed to organise a major fund-raising event for March 1988.",
+      "category": "camping_movement",
+      "entities": [
+        "Ian Fowler",
+        "Jan James",
+        "Jennifer Perron",
+        "Gerard Bachand",
+        "Sally Moore",
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1987",
+      "confidence": "stated",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4706",
+      "issue": 163,
+      "claim": "\"The Tree of Great Peace,\" an account of the founding of the Haudenosaunee Confederacy by Deganawidah and Hiawatha, appears in \"Under Open Skies\" in Canadian Camping Fall 1987 signed \"Negwnta-la-ay-ha / Red Dog\" - the only Indigenous byline found anywhere in this run of the magazine, and a marked contrast with the camper-persona gift speeches printed anonymously in issue 159.",
+      "category": "traditions",
+      "entities": [
+        "Canadian Camping"
+      ],
+      "date_ref": "1987",
+      "confidence": "stated",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4707",
+      "issue": 163,
+      "claim": "A classified advertisement in Canadian Camping Fall 1987 reads: \"YOUNG INVESTOR - Young investor with 5 years experience as supervisor in summer camps interested in investing in a summer camp with intentions of long term acquisition. Please contact: Alan Leibovitch, [Montreal home address].\" A Montreal name sought to buy a camp in 1987. The advertiser's full home address as printed is preserved in kb/reread/cc_findings.md, block 163; it is not repeated here or in any wiki article, being a private individual's home.",
+      "category": "context",
+      "entities": [
+        "Montreal"
+      ],
+      "date_ref": "1987",
+      "confidence": "stated",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4708",
+      "issue": 164,
+      "claim": "Canadian Camping Vol. 39 No. 3, Winter 1988, the final issue of the digitized run, carries \"L'Etranger / The Stranger,\" printed in full in both languages with the French set first and bylined \"by Jay Netherwood, Camp Kanawana.\" It is the only article by a Kanawana person in 164 issues of the magazine.",
+      "category": "directors",
+      "entities": [
+        "Jay Netherwood",
+        "Camp Kanawana",
+        "Canadian Camping"
+      ],
+      "date_ref": "Winter 1988",
+      "confidence": "stated",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4709",
+      "issue": 164,
+      "claim": "Jay Netherwood, Camp Kanawana, opening \"L'Etranger / The Stranger,\" Canadian Camping Winter 1988: \"Would you let a stranger walk around your camp with a chain saw, cutting down all the mature trees? Of course not. Well in fact we camp directors in Quebec are doing exactly that. The stranger's name is acid rain, or more properly, acid precipitation, for melting snow is the deadliest form this stranger assumes.\"",
+      "category": "directors",
+      "entities": [
+        "Jay Netherwood",
+        "Camp Kanawana",
+        "Quebec"
+      ],
+      "date_ref": "1988",
+      "confidence": "stated",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4710",
+      "issue": 164,
+      "claim": "Netherwood, 1988: \"If your camp is located in the Canadian Shield (especially the Laurentians) or south of the St.-Lawrence River then your flora and fauna have been irreparably damaged... The problem with acid precipitation is that it is a slow killer; our lakes look healthy, the outer branches of our coniferous trees look green and vibrant... But walk away from your birches and maples and look at the top, where the new growth should be - notice the bare branches? Look at the inside part of the branch of your pines and spruces - are the needles brown? Have you seen more dead tadpoles floating near the edge of your lake? Have you noticed how much quieter your site is on a warm July night when you used to be able to drift off to sleep, serenaded by a frog chorus?\"",
+      "category": "directors",
+      "entities": [
+        "Jay Netherwood",
+        "Camp Kanawana",
+        "Laurentians"
+      ],
+      "date_ref": "1988",
+      "confidence": "stated",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4711",
+      "issue": 164,
+      "claim": "Netherwood, 1988: \"Our lakes are becoming vinegar. Our mature trees are suffering from die-back, caused by stress from acid precipitation which weakens the trees and makes them prone to shoestring root-rot... Our amphibious life is dying. And what are we doing? Nothing. In 1978, concerned maple syrup producers banded together to form a body to lobby governments and industry, but in 1987 what have we camp directors done? Surely we have as much to lose as the maple syrup producers.\"",
+      "category": "directors",
+      "entities": [
+        "Jay Netherwood",
+        "Camp Kanawana"
+      ],
+      "date_ref": "1988",
+      "confidence": "stated",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4712",
+      "issue": 164,
+      "claim": "Netherwood's closing appeal, 1988: \"Our responsibility must expand beyond ensuring that our campers have a safe and rewarding summer experience, it must also include that we are guardians of our fragile environment... it's an industry devoted to people - an industry that is concerned and scared... Individually, we should as educators, promote environmental literacy, for our campers and staff of today will become tomorrow's industrialists and politicians... Let's become acquainted with this stranger. Let's take the chain saw out of its hands.\"",
+      "category": "directors",
+      "entities": [
+        "Jay Netherwood",
+        "Camp Kanawana"
+      ],
+      "date_ref": "1988",
+      "confidence": "stated",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4713",
+      "issue": 164,
+      "claim": "Correction to this project's earlier catalogue-based record: \"L'Etranger\" is printed in both French and English, with the French set first, not in French only. For a Quebec YMCA camp in 1988 the ordering is itself a statement.",
+      "category": "directors",
+      "entities": [
+        "Jay Netherwood",
+        "Camp Kanawana"
+      ],
+      "date_ref": "1988",
+      "confidence": "stated",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4714",
+      "issue": 164,
+      "claim": "Netherwood's 1988 article is an independent, dated, printed document placing Jay Netherwood at Camp Kanawana as its public voice, over his own name. Every other document for his directorship is an internal YMCA of Montreal roster or his own director's report; this one is outside the institution.",
+      "category": "directors",
+      "entities": [
+        "Jay Netherwood",
+        "Camp Kanawana",
+        "YMCA of Montreal"
+      ],
+      "date_ref": "1988",
+      "confidence": "inferred",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4715",
+      "issue": 164,
+      "claim": "Netherwood's article completes a thread this project has followed for nine years: the movement put acid rain to camp directors as their own problem from October 1979, the National Survival Institute's teaching kit was posted to member camps in 1982, Jeff Reading's \"Acid Rain: Understanding the Problem at Camp\" appeared in 1984, and the CCA Environmental Ethic was adopted the same year. In 1988 a Kanawana director answers it in print in his own words. Nothing else in this run shows a Kanawana person acting on the movement's programme rather than being counted by it.",
+      "category": "traditions",
+      "entities": [
+        "Jay Netherwood",
+        "Camp Kanawana",
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1979-1988",
+      "confidence": "inferred",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4716",
+      "issue": 164,
+      "claim": "Netherwood does not name Lake Kanawana, Lake Wilson or Round Lake and gives no measurement, but \"if your camp is located in the Canadian Shield (especially the Laurentians)... then your flora and fauna have been irreparably damaged\" is written by the director of a camp in exactly that position, and the signs he lists - bare crowns on the birches, brown needles inside the spruce branches, dead tadpoles, a silent July night - read as things he had looked for. This is a general statement by a person with particular knowledge, not a record of Kanawana's water chemistry.",
+      "category": "site",
+      "entities": [
+        "Jay Netherwood",
+        "Camp Kanawana",
+        "Laurentians"
+      ],
+      "date_ref": "1988",
+      "confidence": "inferred",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4717",
+      "issue": 164,
+      "claim": "A. Ross Seaman died on 23 October 1987, the date given in the founding notice of the A. Ross Seaman Leadership Development Fund in Canadian Camping Winter 1988. This project had only \"October 1987.\"",
+      "category": "biography",
+      "entities": [
+        "A. Ross Seaman"
+      ],
+      "date_ref": "23 October 1987",
+      "confidence": "stated",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4718",
+      "issue": 164,
+      "claim": "The A. Ross Seaman Leadership Development Fund: \"a group of family, friends, and colleagues met in early November and proposed a living memorial through the establishment of a fellowship/scholarship/bursary fund... Our aim is to use only the interest of the fund, leaving the capital intact... we have set as our minimum goal the sum of $25,000.00.\" Its address is \"Fonds Commemoratif A. Ross Seaman, Universite Concordia, Bureau des finances AD 130, 7141 ouest, rue Sherbrooke, Montreal, Quebec H4B 1R6,\" with the explicit note in capitals: \"THIS IS NOT AN OFFICIAL CCA/ACC FUND-RAISING EFFORT. IT HAS BEEN ORGANIZED FOR AND THROUGH CONCORDIA UNIVERSITY.\"",
+      "category": "biography",
+      "entities": [
+        "A. Ross Seaman",
+        "Concordia University"
+      ],
+      "date_ref": "1987-1988",
+      "confidence": "stated",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4719",
+      "issue": 164,
+      "claim": "The 1988 memorial notice describes A. Ross Seaman as \"a community leader, educational innovator, and consummate teacher and mentor... on the leading edge of bringing the best possible resources to bear on the issues that engaged his energy - camping and leadership training, recreation leadership, and community organization, particularly as it relates to adolescent life and latterly as it related to an aging population. One colleague refers to him as a cheerleader of the human race.\" It records that \"One of Ross' philosophies was to 'pass it on' whenever he was on the receiving end of something meaningful.\"",
+      "category": "biography",
+      "entities": [
+        "A. Ross Seaman"
+      ],
+      "date_ref": "1988",
+      "confidence": "stated",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4720",
+      "issue": 164,
+      "claim": "The last issue of Canadian Camping carries a memorial to one Kanawana director and an article by another. It is the only issue in the whole run in which Kanawana appears twice in its own right.",
+      "category": "sources",
+      "entities": [
+        "Camp Kanawana",
+        "A. Ross Seaman",
+        "Jay Netherwood"
+      ],
+      "date_ref": "1988",
+      "confidence": "inferred",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4721",
+      "issue": 164,
+      "claim": "Janet Adamson's president's message in the last issue of Canadian Camping: \"For those intimately involved with the Canadian Camping Association, 1988 is an historic year. It is this year that the Canadian Camping Association is no longer receiving funding for its operating expenses from the Federal Government through Fitness Canada. Will we survive? For many years the C.C.A. received handsome funding for its general operation from the Federal Government. We had an executive director's salary, twice yearly board meetings to which all provincial presidents were flown at government expense, conferences funded by government, and Federal Government administrative money. This funding has been phased out over the past three years, and despite economies, budget cutting and fund raising we are now operating at a deficit each year.\" She counts the association at \"nine provincial associations and six hundred camps and their directors... for fifty years.\"",
+      "category": "camping_movement",
+      "entities": [
+        "Janet Adamson",
+        "Fitness Canada",
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1988",
+      "confidence": "stated",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4722",
+      "issue": 164,
+      "claim": "Adamson records in the last issue: \"Because we are facing a deficit in this year, Camp Tawingo is underwriting the complete cost of production of this winter issue of the magazine\" - so the final issue of Canadian Camping was paid for by a single camp - and, of the foreign-counsellor protocol, \"Each year Barry [Lowes], at his own expense, flies to Ottawa and negotiates the foreign camp counsellor agreement for C.C.A. He donates his time, the office work involved and the airfare.\" The board's minutes, printed two pages later, read: \"There is no money left in the budget to produce this very C.C.A./A.C.C. Magazine you now hold in your hands\" and \"Deep concern was expressed by all over the financial outlook.\"",
+      "category": "sources",
+      "entities": [
+        "Janet Adamson",
+        "Camp Tawingo",
+        "Barry Lowes",
+        "Canadian Camping"
+      ],
+      "date_ref": "1988",
+      "confidence": "stated",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4723",
+      "issue": 164,
+      "claim": "The board minutes in the last issue record plans that do not appear in this corpus: a third International Congress proposed for Toronto, a 1989 Directors' Institute, and a 1989 national conference.",
+      "category": "camping_movement",
+      "entities": [
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1988-1989",
+      "confidence": "stated",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4724",
+      "issue": 164,
+      "claim": "May Brown, CCA president 1965-67, interviewed in the last issue: \"Don Smith from Alberta was President just before I was and I think that was the first move out of Ontario and Quebec. It really solidified our whole country, because, for the next 10 years, it moved from Alberta to B.C. to Manitoba, where Doug McEwen was President and, eventually, David Hartry in Nova Scotia became the President.\"",
+      "category": "camping_movement",
+      "entities": [
+        "May Brown",
+        "Don Smith",
+        "Douglas G. McEwen",
+        "David Hartry",
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1963-1975",
+      "confidence": "stated",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4725",
+      "issue": 164,
+      "claim": "May Brown, herself the second president from outside Ontario and Quebec, dates the CCA's decentralisation to Don Smith of Alberta in about 1963-65 - a decade later than the \"shortly after\" the magazine's own interviewer attached to Ted Yard's 1953-55 cross-Canada trip. Both are printed recollections; the named sequence is the more precise and is preferred. Brown adds the mechanism: \"The CCA, at that stage, was very small and we had no money so I took advantage of those trips [on the National Advisory Council for Fitness and Amateur Sports] to go all across the country, stopping off with my air ticket and going to camping meetings in Alberta and Winnipeg.\"",
+      "category": "camping_movement",
+      "entities": [
+        "May Brown",
+        "Don Smith",
+        "W. E. Ted Yard",
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1953-1965",
+      "confidence": "inferred",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4726",
+      "issue": 164,
+      "claim": "May Brown on 1947: \"I had directed Camp Oolawhan out of the Montreal YWCA... I was going to be directing Camp Oolawhan for the summer but I was looking for something for the fall so I was sent by the Montreal YWCA to a meeting in Ottawa which was the first meeting of the... when they were going to establish a Canadian Camping Association. Blackie Blackstock was there and he introduced me to Marion Henderson Penney from U.B.C.\" She had taken her Physical Education degree at McGill, finishing in 1947.",
+      "category": "biography",
+      "entities": [
+        "May Brown",
+        "Camp Oolahwan",
+        "YWCA of Montreal",
+        "C. R. Blackstock",
+        "McGill University"
+      ],
+      "date_ref": "1947",
+      "confidence": "stated",
+      "conflicts_with": [
+        "c_029"
+      ],
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4727",
+      "issue": 164,
+      "claim": "May Brown is a third named director of Camp Oolahwan, after Mary S. Edgar (1915-19) and Marjorie Booth (late 1970s), filling a name into a thirty-year gap; and she was sent to the Ottawa founding meeting of 1947 by the YWCA of Montreal, which sharpens an existing item pointing at Ottawa and the later 1940s rather than adding a new one.",
+      "category": "camping_movement",
+      "entities": [
+        "May Brown",
+        "Camp Oolahwan",
+        "YWCA of Montreal"
+      ],
+      "date_ref": "1947",
+      "confidence": "inferred",
+      "conflicts_with": [
+        "c_029"
+      ],
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4728",
+      "issue": 164,
+      "claim": "Gerard Bachand, in his first Quebec regional report as CCA vice-president: \"I also want to extend a warm thank you to Mr. Ken Willis for all the years he spent working for the QCA... By the same token, I wish to welcome Mrs. Madelene Allen who will be taking Ken's place\" - \"qui prend la releve de Ken au sein du Conseil d'Administration.\" The director of Camp Ouareau joined the ACQ's board of directors at the start of 1988.",
+      "category": "camping_movement",
+      "entities": [
+        "Gerard Bachand",
+        "Ken Willis",
+        "Madelene Ferguson Allen",
+        "Camp Ouareau",
+        "Association des camps du Quebec"
+      ],
+      "date_ref": "1988",
+      "confidence": "stated",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4729",
+      "issue": 164,
+      "claim": "Bachand reports the ACQ's position at the start of 1988: a new leadership programme for administrators; a new advanced course for directors (\"Directeur 2\") begun in December, with a \"Formateur-plus\" course for those responsible for training inside camps; two major studies with the M.L.C.P., one on insurance and one on summer-camp clientele - confirming from a second source the study Henri Chalifoux described in the previous issue; and the development plan going to the Conseil d'administration in mid-January after the orientation plan of May 1987.",
+      "category": "camping_movement",
+      "entities": [
+        "Gerard Bachand",
+        "Association des camps du Quebec"
+      ],
+      "date_ref": "1988",
+      "confidence": "stated",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4730",
+      "issue": 164,
+      "claim": "Bachand records: \"une Foire des Camps se prepare pour le debut de 88, ou l'ACQ est le maitre d'oeuvre. Le tout se deroulera au Complexe Desjardins de Montreal\" - a camp fair at Complexe Desjardins in Montreal in early 1988, organised by the ACQ, which Kanawana as a member camp would have had reason to attend. No Kanawana attendance is documented.",
+      "category": "camping_movement",
+      "entities": [
+        "Association des camps du Quebec",
+        "Camp Kanawana",
+        "Montreal"
+      ],
+      "date_ref": "1988",
+      "confidence": "stated",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4731",
+      "issue": 164,
+      "claim": "The PARC national survey, reported in the last issue of Canadian Camping: of \"close to 600 CCA member camps\" sent the questionnaire, 197 (33%) replied - 70 religious camps, 52 private, 50 agency, 14 special-needs and 11 other; 179 residential and 18 day camps. Findings: 53% call physical activity \"very important\"; 67.5% say more than half their programme is physical activity; the top five priority programmes are swimming, religion, canoeing, boating and land sports; 70% have water, forest and fields on site and 28% large hills or mountains; campers are mostly 8-15 with almost equal numbers of girls and boys; objectives are new skills, lifelong leisure activities and fitness, with competition preparation rare.",
+      "category": "camping_movement",
+      "entities": [
+        "Aniko Varpalotai",
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1987-1988",
+      "confidence": "stated",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4732",
+      "issue": 164,
+      "claim": "The PARC survey also records that \"a large number of camps expressed a preference for cooperative 'New Games', as opposed to the more traditional, competitive, team and individual sports,\" and names the problems as finding qualified staff for non-waterfront activities, the cost of facilities and equipment, motivating sedentary campers, and the want of cheap new ideas. It is the only statistical portrait of Canadian camp programming in this whole run built from a designed survey with a stated response rate, and its composition - a third religious, a quarter private, a quarter agency - is the best available answer to what kind of institution a \"Canadian camp\" was in 1987.",
+      "category": "camping_movement",
+      "entities": [
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1987",
+      "confidence": "stated",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4733",
+      "issue": 164,
+      "claim": "The Personality Profile of Lorne Brown (1908-1976) completes the magazine's series on \"some of the pioneers of camping in Canada\" - Taylor Statten, Mary S. Edgar, Ted Yard and Brown - and the editor promises \"the start of a different series of personalities in our next issue,\" which never came. Brown directed Camp Deka in the Cariboo 1961-1975 (property bought 1958, lodge begun 1960, opened 1961 with 24 campers, never larger than 48 boys), was at the Vancouver YMCA's Camp Elphinstone from 1925 and co-director in 1950, founded the B.C. Outdoor Educators, chaired the CCA's first Nature Awareness Committee under John Latimer's presidency, was president of CAHPER 1955-57 and chaired UBC's Physical Education department.",
+      "category": "biography",
+      "entities": [
+        "Lorne Brown",
+        "Camp Deka",
+        "Camp Elphinstone",
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1908-1976",
+      "confidence": "stated",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4734",
+      "issue": 164,
+      "claim": "May Brown on the British Columbia Camping Association's founding date, recorded as disputed at issue 160: \"as far as I can trace, I believe B.C.C.A. started in 1940... I think it was incorporated in 1940.\"",
+      "category": "camping_movement",
+      "entities": [
+        "May Brown",
+        "British Columbia Camping Association"
+      ],
+      "date_ref": "1940",
+      "confidence": "stated",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4735",
+      "issue": 164,
+      "claim": "Camp Deka's council-ring practice is described by May Brown with unusual candour: \"it came out of an Indian Council idea, but it wasn't too formal. We used to have a Challenge Night and Lorne was the Chief and actually did have an Indian jacket that he wore at it... because we had loons on the lake, we called it 'The Camp where wild loons call.' The boys called him Chief Loony Loon\" - a fifth position on the question in this run, and the most casual.",
+      "category": "traditions",
+      "entities": [
+        "May Brown",
+        "Lorne Brown",
+        "Camp Deka"
+      ],
+      "date_ref": "1988",
+      "confidence": "stated",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4736",
+      "issue": 164,
+      "claim": "Camp Massad in the last issue of Canadian Camping is the Manitoba camp fifty miles north of Winnipeg, thirty-five years old in 1987 and the only Hebrew-immersion camp in western Canada. It is not the Camp Massad Montreal (1947, Lac Quenouille) recorded in this project's Quebec camp landscape; the two share a name and should not be conflated.",
+      "category": "camping_movement",
+      "entities": [
+        "Camp Massad",
+        "Manitoba",
+        "Montreal"
+      ],
+      "date_ref": "1987",
+      "confidence": "stated",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4737",
+      "issue": 164,
+      "claim": "Colette Pouliot-Marier reports in the last issue that Quebec francophones were now providing the magazine's translation under the new language policy - \"des Francophones du Quebec assument, depuis quelques mois, la tache delicate de traduire les textes anglais en francais, et vice versa\" - and appeals twice for French copy: \"Il est up to us, Francophones. Our contribution is lacking.\" INCEF 88 was expected early in the year.",
+      "category": "sources",
+      "entities": [
+        "Colette Pouliot-Marier",
+        "Canadian Camping"
+      ],
+      "date_ref": "1988",
+      "confidence": "stated",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4738",
+      "issue": 164,
+      "claim": "The word-for-word read of all 164 cached issues of Canadian Camping (1949-1988) is complete. Kanawana is named in the run perhaps two dozen times across thirty-nine years, almost always in a list, and exactly once does one of its own people write in it. The camp was a member of the ACQ and through it of the CCA for the whole period, and the national magazine of its own movement recorded that membership almost entirely as an absence. The Quebec material that does exist - the ACQ's founding datings, its accreditation regime, its statistics, its French-language commission, its officers - was found by going page by page through issues that never mention Kanawana at all.",
+      "category": "methodology",
+      "entities": [
+        "Camp Kanawana",
+        "Canadian Camping",
+        "Association des camps du Quebec",
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1949-1988",
+      "confidence": "inferred",
       "sources": [
         "src_ia_canadian_camping_collection"
       ],
