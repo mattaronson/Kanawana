@@ -2,7 +2,7 @@
   "version": "6.06",
   "kb_version": "6.06",
   "migrated_from": "3.3",
-  "fact_count": 3644,
+  "fact_count": 3713,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -64395,6 +64395,1286 @@
         "Camp Edgewood"
       ],
       "date_ref": "1972",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3683",
+      "issue": 97,
+      "claim": "Brian Blackstock, Director of Camp Mazinaw, printed a model camp staff contract in Canadian Camping, Winter 1973, described as \"a compilation of forms from a number of Camps,\" thanking the directors of Camps Oconto, Pinecrest, Ponacka, Timberlane, Wahcahmie and Wapomeo. Pinecrest is a Toronto YMCA camp, so at least one YMCA camp's contract is in the composite.",
+      "category": "staff",
+      "entities": [
+        "Brian Blackstock",
+        "Camp Mazinaw",
+        "Camp Pine Crest",
+        "Camp Oconto",
+        "Camp Ponacka"
+      ],
+      "date_ref": "1973",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3684",
+      "issue": 97,
+      "claim": "The 1973 model camp staff contract's conduct clause reads: staff must be \"aware of the role you must play in maintaining good Public Relations in Camp and wherever you come in contact with the public. Conduct on your part which would reflect unfavourably on the Camp's reputation could be considered a breach of this contract.\" Its termination clause: \"The Camp retains the right to terminate this agreement at any time without notice if, in our opinion, there is sufficient cause,\" with pro rata pay; resignation requires two weeks' notice.",
+      "category": "staff",
+      "entities": [
+        "Brian Blackstock"
+      ],
+      "date_ref": "1973",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3685",
+      "issue": 97,
+      "claim": "The 1973 model camp staff contract makes optional, bracketed clauses of the following: that \"'Drugs' have no place in Children's Camps and are not permitted\"; that smoking is permitted only in specified areas and only when campers are not present; and that alcohol is not permitted in camp. It also brackets as optional that a staff member may be charged for damage due to their negligence and for loss or theft of their belongings, and that \"Should you be unable to satisfactorily handle all of your responsibilities and, as a result, have some of them handled by another party, your salary may be adjusted accordingly.\"",
+      "category": "staff",
+      "entities": [
+        "Brian Blackstock"
+      ],
+      "date_ref": "1973",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3686",
+      "issue": 97,
+      "claim": "\"Two Approaches to Camp Staff Manuals\" by Bruno Morawetz, Fred Dier and Don Groff, ex-Director of Camping for the Kitchener-Waterloo YMCA, printed an eight-part outline of what a camp staff manual contained in 1973. Under \"Sample forms used at camp,\" alongside test sheets, tripping reports and parent reports, is \"counsellor evaluation\" — so a written counsellor evaluation was a standard, expected, template-driven part of camp administration in 1973, not an exceptional act.",
+      "category": "staff",
+      "entities": [
+        "Bruno Morawetz",
+        "Fred Dier",
+        "Don Groff"
+      ],
+      "date_ref": "1973",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3687",
+      "issue": 97,
+      "claim": "The 1973 staff manual outline directs that the Discipline section state \"meaning of discipline — what kinds of punishment, if any — factors in group discipline — building of esprit de corps — do's and don'ts of discipline.\" The phrase \"what kinds of punishment, if any\" is the period's own formulation, and stands beside the explicit prohibitions of physical punishment by MacCulloch (1969), Danson (1970) and Bruno Roy (1971) recorded elsewhere in this run.",
+      "category": "staff",
+      "entities": [
+        "Bruno Morawetz",
+        "Don Groff"
+      ],
+      "date_ref": "1973",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3688",
+      "issue": 97,
+      "claim": "The 1973 staff manual outline names what a camp was expected to write down about itself: \"a brief historical sketch of the camp,\" statements of \"traditions, philosophy,\" and \"explanation of role that camping plays in the total program of the sponsoring organization, where such exists\" — which is precisely the YMCA-of-Montreal section a Kanawana staff manual would have carried. Personnel policies were to cover \"sickness allowance — employment and dismissal procedures — salary scales and payment procedure.\"",
+      "category": "staff",
+      "entities": [
+        "Bruno Morawetz",
+        "Don Groff",
+        "Camp Kanawana"
+      ],
+      "date_ref": "1973",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3689",
+      "issue": 97,
+      "claim": "The bibliography of the 1973 camp staff manual outline is the profession's reading list: \"Talks to Counsellors\" by Dimock and Statten (Association Press); \"The Camp Program Book\" by Catherine Hammet; \"The Call of Algonquin\" by Mary G. Hamilton; \"The Camp Counsellor's Book\" by Northway and Lowes; \"Summer Magic\" and \"Lights from a Thousand Campfires\" by Kenneth Webb; \"Camp Waterfront Programs and Management\" by Pohndorf; plus OCA Conference Digests for 1966, 1967 and 1968 and Reports for 1971 and 1972. Its closing hint: \"the tone of the Manual sets the tone of the future counsellor.\"",
+      "category": "sources",
+      "entities": [
+        "Hedley Dimock",
+        "Taylor Statten",
+        "Mary G. Hamilton",
+        "Mary L. Northway"
+      ],
+      "date_ref": "1973",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3690",
+      "issue": 97,
+      "claim": "Ed. H. Devitt, former Director of Camp Comak, argued in Winter 1973 that a camp counsellor's manual should be mimeographed and loose-leaf rather than printed, because \"a printed page is too final and discourages revision,\" and should never be finished but always evolving, compiled with contributions from campers, counsellors, senior staff and the director alike — \"there is no reason to bring it down from on high, engraved on stone tablets.\" A working reason why few camp staff manuals survive in fixed, datable form.",
+      "category": "sources",
+      "entities": [
+        "Ed H. Devitt",
+        "Camp Comak"
+      ],
+      "date_ref": "1973",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3691",
+      "issue": 97,
+      "claim": "Judy Richards of Camp Wahcahmie described a girls' camp Saturday council ring from inside in 1973: \"Every Saturday night is Indian council ring which means a tribal gathering on council rock. We parade single file dressed in colourful blankets and Indian headdress to greet the Big Chief who then lights the council fire. We have three tribes. Each challenges the other to a feat of physical or mental skill.\" Sunday brought white shorts and shirts, outdoor chapel \"under the arch of birch,\" and the camp leaving chapel singing the camp hymn, \"God who touchest earth with beauty\" — Mary S. Edgar's 1925 prize hymn.",
+      "category": "traditions",
+      "entities": [
+        "Judy Richards",
+        "Camp Wahcahmie",
+        "Mary S. Edgar"
+      ],
+      "date_ref": "1973",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3692",
+      "issue": 97,
+      "claim": "Judy Richards's 1973 account of Camp Wahcahmie records cabin groups of six, a \"Blue Moon Night\" on which campers are woken at full moon with \"Arise and come away with me\" and paddle across the lake for a fire and marshmallows, a breakfast hunt with oranges hung in the pines and cereal boxes under the boughs, a Sunday regatta, cabin picnics and a sauna, and a canoe-trip send-off sung to \"So Long We'll See You Again.\"",
+      "category": "traditions",
+      "entities": [
+        "Judy Richards",
+        "Camp Wahcahmie"
+      ],
+      "date_ref": "1973",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3693",
+      "issue": 97,
+      "claim": "Canadian Camping, Winter 1973, printed \"A Singing Grace\" courtesy of Jack Pearse of Camp Tawingo, set to the tune Edelweiss: \"Thank you, Lord, on this day, / For Your many great blessings... Glory to God. / May You hear our prayer.\" The mechanism — a devotional text fitted to a familiar popular tune — is identical to Kanawana's grace rotation set to Johnny Appleseed and to \"Jeremiah was a Bullfrog,\" and a national magazine circulating one in 1973 is a plausible route by which such graces travelled between camps.",
+      "category": "traditions",
+      "entities": [
+        "Jack Pearse",
+        "Camp Tawingo",
+        "Camp Kanawana"
+      ],
+      "date_ref": "1973",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3694",
+      "issue": 97,
+      "claim": "Taken together, the 1972 songbook appeal, Blackstock's composite staff contract, the staff manual outline, the OCA job-negotiation guidelines and the printed standards documents show a Canadian camp of the early 1970s running on shared, published forms rather than purely local practice. Where Kanawana's own paperwork is missing, the template it would have been built from is not.",
+      "category": "methodology",
+      "entities": [
+        "Camp Kanawana"
+      ],
+      "confidence": "inferred",
+      "date_ref": "1973",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3695",
+      "issue": 97,
+      "claim": "Patricia M. Russell's \"YaWaCa Comes Home\" (Winter 1973) gives a dated institutional history of a YWCA camp: in 1962 the Vancouver YWCA studied the need and found a shortage of resident camping for girls in British Columbia; Camp YaWaCa began the following summer on rented premises at a seaside site on Howe Sound, moved repeatedly, and by its ninth year was two hundred miles inland on Okanagan Lake. In 1969 a task force began scouting for a permanent property; the old Bulman Farm on Salt Spring Island was leased from McMillan Bloedel Ltd., the farm surrounded by some twelve hundred acres of forest reserve, with capacity for forty-eight campers plus staff and all buildings winterised for year-round use.",
+      "category": "inter-camp",
+      "entities": [
+        "Camp YaWaCa",
+        "YWCA Vancouver",
+        "Salt Spring Island",
+        "Tanya Krisman"
+      ],
+      "date_ref": "1973",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3696",
+      "issue": 97,
+      "claim": "Tanya Krisman was director of Camp YaWaCa from 1967 to 1972, succeeded by Mrs. Sally Schwetz in June 1972; on National Camping Day the camp's farmhouse was named \"Skipper's Shack\" in her memory, chosen by her daughter Pat, and the British Columbia Camping Association dedicated a memorial fund for the $5,000 renovation.",
+      "category": "biography",
+      "entities": [
+        "Tanya Krisman",
+        "Camp YaWaCa",
+        "Sally Schwetz"
+      ],
+      "date_ref": "1972",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3697",
+      "issue": 97,
+      "claim": "Camp YaWaCa's 1972 activity list includes \"Hebertisme\" — on Salt Spring Island, British Columbia. Claude Cousineau's 1969 account had over fifty pistes d'hebertisme in Quebec and none elsewhere in Canada. By the summer of 1972 a British Columbia YWCA camp was running one, so the practice crossed the country within three years.",
+      "category": "programs",
+      "entities": [
+        "Camp YaWaCa",
+        "Claude Cousineau"
+      ],
+      "date_ref": "1972",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3698",
+      "issue": 97,
+      "claim": "Mrs. Sandy Hyman, M.S.W., Camp Co-ordinator of the Children's Aid Society of Winnipeg, reported in Winter 1973 that during 1971 the Society helped 862 unmarried mothers, of whom 54% kept their babies, and described two camp programmes: one for mothers who kept their children, begun in July 1970 with eight girls and their children placed into an existing session of Mothers' Camp at the United Church Fresh Air Camp at Gimli, 60 miles from Winnipeg, growing to twenty-eight girls and thirty-three children in 1971 and twenty-two and twenty-six in 1972; and Lifeline Camp for pregnant girls, sponsored by Greater Winnipeg Youth for Christ on an island in the Lake of the Woods, with ten girls in 1971 and eleven in 1972, none beyond the end of the seventh month.",
+      "category": "context",
+      "entities": [
+        "Sandy Hyman",
+        "Children's Aid Society of Winnipeg",
+        "Gimli"
+      ],
+      "date_ref": "1973",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3699",
+      "issue": 97,
+      "claim": "Mrs. Teddy Hoyle died in the autumn of 1972; Peggy Latimer's tribute records that she was born on a riverboat in Kashmir, came to Canada in 1929, and about thirteen years after marrying John Hoyle — \"The Major\" — the couple founded Camp Gay Venture, Haliburton, Ontario, in 1946. After his death she continued at the camp, then at 60 bought a farm north of Toronto and began boarding and raising horses.",
+      "category": "biography",
+      "entities": [
+        "Teddy Hoyle",
+        "John Hoyle",
+        "Camp Gay Venture",
+        "Peggy Latimer"
+      ],
+      "date_ref": "1972",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3700",
+      "issue": 97,
+      "claim": "Claude Cousineau's \"A Case for the 'Canadian Stroke',\" printed in English and French in Winter 1973 from the CCA Canoeing School at Ottawa, compares five stern strokes — the \"goon\" (French: le coup du \"touriste\"), the \"J,\" the \"Indian,\" the \"pitch\" and the \"Canadian\" — with a four-phase diagram, citing Rutstrum (1958, 1964), Handle's Canoe Camping (1953), Riviere's Pole, Paddle and Portage (1969) and Malo (1969).",
+      "category": "programs",
+      "entities": [
+        "Claude Cousineau"
+      ],
+      "date_ref": "1973",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3701",
+      "issue": 97,
+      "claim": "Claude Cousineau examined the term \"Indian stroke\" sceptically in 1973: \"The origin of the term 'Indian' stroke is not clear. Some writers describe the Indians using this stroke to sneak up behind their enemies or to stalk prey. It is very doubtful that the Indians used it for long distances as it requires more energy to use the shoulder muscles as a fulcrum rather than the gunwale of the canoe.\" He kept the term \"for a lack of a better term.\" He also recorded a camp custom: \"In some camps the contact of the paddle with the gunwale is considered a very bad practice. The object is not a quiet and efficient stroke but rather to protect the canoe from wear and tear.\"",
+      "category": "programs",
+      "entities": [
+        "Claude Cousineau"
+      ],
+      "date_ref": "1973",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3702",
+      "issue": 97,
+      "claim": "The Canadian Camping Association's executive meeting at Regina in November 1972 established an Awards Committee under the chairmanship of Bob Lazanik \"for the purpose of recognizing those individuals who have strongly contributed to camping in Canada\" — the Quebec vice-president chairing the national awards body. It also set National Camping Day for 18 July 1973, added a Maritimes canoe instructors' school organised by Bill Palmer to the existing Ottawa and Lake of the Woods schools, re-elected John Latimer for a second term, and approved in principle an investigation of an International Camping Workshop in Ottawa in 1975.",
+      "category": "camping_movement",
+      "entities": [
+        "Robert Lazanik",
+        "John Latimer",
+        "Bill Palmer",
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1972-11",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3703",
+      "issue": 97,
+      "claim": "\"Additional copies of the Centenary Journey Log are now available through the Canadian Camping Association Office,\" reported in Winter 1973 — the 1967 centenary publication was still in print and orderable six years later.",
+      "category": "sources",
+      "entities": [
+        "Canadian Camping Association",
+        "Centenary Cross Canada Canoe Journey"
+      ],
+      "date_ref": "1973",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3704",
+      "issue": 97,
+      "claim": "John Latimer ended his Winter 1973 president's message \"The Camping movement is NOT 'in trouble'\" — in the issue after the one that booked a national workshop titled \"The Threat to Camping — What does Camping have to do to survive?\" Both are the same man in successive issues.",
+      "category": "camping_movement",
+      "entities": [
+        "John Latimer",
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1973",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3705",
+      "issue": 97,
+      "claim": "John Walker of Cornwall, studying for a master's at York, was the recipient of the first Research Award of the Society of Camp Directors, reporting to its fall gathering on \"professionalism and the training of Camp Directors.\"",
+      "category": "camping_movement",
+      "entities": [
+        "John H. Walker",
+        "Society of Camp Directors",
+        "York University"
+      ],
+      "date_ref": "1973",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3706",
+      "issue": 97,
+      "claim": "The editor of Canadian Camping complained in Winter 1973: \"for this Winter Edition, we have one article from B.C., one from Manitoba and the rest are from Ontario. Isn't it time to make this magazine a true Canadian one?\" Ontario is therefore over-represented in the run by the editors' own admission, and the near-absence of Quebec English-camp material is partly an artefact of submission patterns rather than evidence about Quebec.",
+      "category": "methodology",
+      "entities": [
+        "Canadian Camping (magazine)"
+      ],
+      "date_ref": "1973",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3707",
+      "issue": 97,
+      "claim": "Eanswythe Flynn's \"Do It Now!\" checklist for May directs camp directors to \"Find out from your provincial camping association whether or not this is your year for a Standards Visitation,\" confirming the two-to-three-year inspection cycle Lionel Perras described, and to \"Send water samples (both drinking and swimming) regularly to Provincial Health Department\" — a routine that would have generated a dated provincial paper trail for Lake Wilson.",
+      "category": "operations",
+      "entities": [
+        "Eanswythe Flynn",
+        "Lionel Perras",
+        "Lake Wilson"
+      ],
+      "date_ref": "1973",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3708",
+      "issue": 98,
+      "claim": "Jack Eastaugh, Assistant to the Director of the Taylor Statten Camps, wrote in Canadian Camping, Spring 1973: \"The Indian Council Ring Ceremony, devised by Ernest Thompson Seton in the years following the first great war and refined by Taylor Statten who taught the ceremonies to camp leaders in the 20's, needs no apology and is still viable today.\"",
+      "category": "traditions",
+      "entities": [
+        "Jack Eastaugh",
+        "Ernest Thompson Seton",
+        "Taylor Statten",
+        "Taylor Statten Camps"
+      ],
+      "date_ref": "1973",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3709",
+      "issue": 98,
+      "claim": "Kanawana's \"Tribes of Kanawana in Council\" script is dated c. 1925-1927 and its totem pole went up in 1927 — precisely the years in which, by Jack Eastaugh's 1973 account, Taylor Statten was teaching Ernest Thompson Seton's Council Ring ceremony to camp leaders. Eastaugh's list of the ceremony's standard parts — \"the Fire Lighting, Peace Pipe Ceremony, Indian Games, Dances or Departure of Hiawatha\" — is item for item what Kanawana's own scripts and The Green Triangle describe.",
+      "category": "traditions",
+      "entities": [
+        "Camp Kanawana",
+        "Jack Eastaugh",
+        "Taylor Statten",
+        "Ernest Thompson Seton"
+      ],
+      "confidence": "inferred",
+      "date_ref": "1973",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3710",
+      "issue": 98,
+      "claim": "Jack Eastaugh records that campers remembered \"a spine-tingling sensation at the close of the council ring when the entire group rose to sing 'Wakonda dhe dhu' — 'Father a needy one stands before thee; I who sing am he.'\" Kanawana's c. 1925-27 script closes with \"Wakonda, dhe-dhu, wapdhin atonhe,\" and the same deity name recurs in the staged chemical-flash firelighting of 21 July 1940. The words Kanawana campers chanted for at least fifteen years are therefore part of the same Seton-Statten text, and are a prayer of supplication. Recorded as Eastaugh's 1973 rendering, not as an independent translation.",
+      "category": "traditions",
+      "entities": [
+        "Jack Eastaugh",
+        "Camp Kanawana",
+        "Ernest Thompson Seton",
+        "Taylor Statten"
+      ],
+      "date_ref": "1973",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3711",
+      "issue": 98,
+      "claim": "Jack Eastaugh's 1973 defence of camp Indian Lore contains its own concession: \"Candor is also required in levelling with the purist who can quite legitimately claim that Indian Lore in the summer camp is guilty of ignoring cultural facts. We have not limited ourselves to archaeological truths. We have stolen the tepee from the people of the plains, the grotesque and marvellously hideous masks of the Iroquois, the birch bark crafts of the Hurons and the rich and colourful designs of the West Coast Indians.\" His remedy is disclosure, not discontinuation: \"there is nothing wrong with this practice as long as we recognize the source of our material and make the facts known to our campers.\" Recorded exactly as written and dated, not adopted in this project's voice.",
+      "category": "context",
+      "entities": [
+        "Jack Eastaugh"
+      ],
+      "date_ref": "1973",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3712",
+      "issue": 98,
+      "claim": "Jack Eastaugh wrote in 1973 that \"the Y.M.C.A. camps in Eastern and Western Canada for years have welcomed the participation of, and appreciated the contribution of local Indians in their programs,\" naming people from the Golden Lake, Couchiching, Georgian Bay, Brantford and Moosonee reserves working in Ontario camps. No Kanawana source has yet confirmed or denied a comparable practice at Kanawana.",
+      "category": "context",
+      "entities": [
+        "Jack Eastaugh",
+        "YMCA",
+        "Camp Kanawana"
+      ],
+      "date_ref": "1973",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3713",
+      "issue": 98,
+      "claim": "Jack Eastaugh is frank in 1973 that the Council Ring ceremony works as religion: \"why not admit that much of the appeal of the Indian Council Ring Ceremony is dependent upon the observance of primitive ceremonies and a reliance upon the mystery of the wild?\" He notes that \"the lighting of the fire and the Peace Pipe Ceremony are certainly prayers\" and that reliance on Wakonda, \"the one great knowing spirit of the universe,\" \"has its counterpart in white society religion.\"",
+      "category": "traditions",
+      "entities": [
+        "Jack Eastaugh"
+      ],
+      "date_ref": "1973",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3714",
+      "issue": 98,
+      "claim": "Jack Eastaugh states an operational requirement for the council ring: it \"must be a total, all-camp program,\" because \"distractions of any kind are 'killers'\" and a few scoffers can conspire to interrupt the make-believe atmosphere. At Camp Ahmek the camp was split — eleven-and-under at one sitting, twelve-and-up at another — after early years of interference, and attendance was compulsory where theatre, chapel, musicales and movies were voluntary.",
+      "category": "traditions",
+      "entities": [
+        "Jack Eastaugh",
+        "Camp Ahmek"
+      ],
+      "date_ref": "1973",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3715",
+      "issue": 98,
+      "claim": "The Canadian Camping Association's Publications Service catalogue, printed over two pages in Spring 1973, lists \"CANADA'S CENTENARY JOURNEY — the Centennial project of C.C.A. — a collectors' item — cross-Canada by canoe. 145 p. $2.00\" — the first sighting with a page count, and enough to search a library catalogue with. Also listed: \"ONCE THERE WAS A CAMPER — Mary Edgar's popular book of poems... 48 p. $1.75\"; the 1972 Ontario Conference Digest \"CAMP IS GROWING UP,\" 104 p. $4.50; and \"COOKERY FOR KIDS, KAMP 'N KICKS\" by Stewart, 81 p. $3.50. CCA members received a 10% discount.",
+      "category": "sources",
+      "entities": [
+        "Canadian Camping Association",
+        "Mary S. Edgar",
+        "Helen Stewart"
+      ],
+      "date_ref": "1973",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3716",
+      "issue": 98,
+      "claim": "J. Harry Ebbs, M.D., F.R.C.P., published an itemised list of medical supplies \"suggested for a residential summer camp for children with an enrolment of about fifty to one hundred campers\" in Spring 1973, including 500 ASA tablets, 100 ASA-and-codeine, 100 Phenobarbital (half grain), 100 Pyribenzamine, 100 Penicillin 250,000 units, 100 Triple Sulpha, 100 Achromycin capsules, 25 disposable hypodermic syringes and 25 needles, a folding stretcher, an electric steriliser, crutches, two bed pans, a locked metal cabinet and a small refrigerator; the attending doctor would additionally provide scalpel, suturing material, rubber gloves, local anaesthetic and narcotic drugs.",
+      "category": "facilities",
+      "entities": [
+        "J. Harry Ebbs"
+      ],
+      "date_ref": "1973",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3717",
+      "issue": 98,
+      "claim": "J. Harry Ebbs closed his 1973 camp infirmary list with an administrative expectation: \"The director in consultation with the doctor should have suitable and adequate illness and accident record forms.\" Dated illness-and-accident records were therefore a professional expectation at camps of Kanawana's size in 1973 — another record class to ask Concordia about.",
+      "category": "archives",
+      "entities": [
+        "J. Harry Ebbs",
+        "Camp Kanawana",
+        "Concordia University"
+      ],
+      "date_ref": "1973",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3718",
+      "issue": 98,
+      "claim": "W. Bertram Danson, Director Emeritus of Camp Winnebagoe, described the camp tuck shop in Spring 1973 as \"The only activity that was NOT included in our fee! Always an 'extra'.\" His policy: as many non-candy treats as possible because \"anything containing sugar is not good for the teeth of a growing child\"; never sell gum, because \"gum always ends up on the underside of the tables, benches, bed rails or on the floors\"; and camp T-shirts placed with a town outfitter rather than stocked, because \"It has been our experience that it NEVER pays.\"",
+      "category": "operations",
+      "entities": [
+        "W. Bertram Danson",
+        "Camp Winnebagoe"
+      ],
+      "date_ref": "1973",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3719",
+      "issue": 98,
+      "claim": "W. Bertram Danson describes the camp tuck card system exactly in 1973: a serial-numbered card about 3 by 5.75 inches, worth $5, with the camper's name and cabin number and boxes around the edge in 5-cent, 10-cent and 25-cent denominations punched out with a ticket punch as purchases are made; a $5, $10 or $15 tuck deposit billed with the spring camp fees; unspent money returned in an envelope as the camper boards the bus home. He also records paddles sold through the tuck shop \"on which he can paint the OCA canoeing awards he has secured\" — a documented practice of recording awards on a camper's own paddle.",
+      "category": "operations",
+      "entities": [
+        "W. Bertram Danson",
+        "Camp Winnebagoe",
+        "Ontario Camping Association"
+      ],
+      "date_ref": "1973",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3720",
+      "issue": 98,
+      "claim": "Ron Johnstone, President of the Ontario Camping Association and Director of Camp White Bear, wrote in Spring 1973: \"I have on my Camp Staff today the man who was my Camp Director when I was an eight year old... He is 76 years old\" — named as C.T. Sharpe. Johnstone argued against the \"ideal counsellor\" model and denied there was a new morality: \"today's youth can no longer stomach the double standard that society seems bent on expressing.\"",
+      "category": "camping_movement",
+      "entities": [
+        "Ron Johnstone",
+        "Camp White Bear",
+        "C. T. Sharpe",
+        "Ontario Camping Association"
+      ],
+      "date_ref": "1973",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3721",
+      "issue": 98,
+      "claim": "Ron Johnstone reported in Spring 1973 that 600 leaders in outdoor education had gathered at Dorset in October 1972, whose finding was that the experience should be \"in small groups, in depth with trained leadership\" — on which he remarked, \"Camp directors of fifty years ago could have told us this!\" He also cites Dr. John Rich at an OCA conference: \"you can teach a camper how to paddle a canoe, but you cannot teach him how to spend time in a canoe — only the calm, peace, beauty and serenity of the country can do that.\"",
+      "category": "camping_movement",
+      "entities": [
+        "Ron Johnstone",
+        "John Rich",
+        "Ontario Camping Association"
+      ],
+      "date_ref": "1973",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3722",
+      "issue": 98,
+      "claim": "Three consecutive presidential messages in Canadian Camping contradict one another on whether Canadian camping was in crisis: Fall 1972 books a workshop called \"The Threat to Camping\"; Winter 1973 says the movement is \"NOT in trouble\"; Spring 1973, after Geneva Park, is optimistic — \"While it is true that some camps are closing and many are facing registration difficulties, we see in Canada that many new camps are opening... and that more children are going to camp.\" The swing is the record of the sector's mood in 1972-73 and should be recorded rather than resolved.",
+      "category": "camping_movement",
+      "entities": [
+        "John Latimer",
+        "Canadian Camping Association"
+      ],
+      "confidence": "inferred",
+      "date_ref": "1973",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3723",
+      "issue": 98,
+      "claim": "The Quebec Camping Association's delegation to the Canadian Camping Association's National Workshop at Geneva Park, 1-4 February 1973, promoted the Carnaval de Quebec with posters, its president Bob Lazanik presenting the editor with a replica Bonhomme, and the workshop's \"warmest experience was the rousing singsong with Bob at the piano on the last evening.\"",
+      "category": "camping_movement",
+      "entities": [
+        "Robert Lazanik",
+        "Quebec Camping Association",
+        "Canadian Camping Association",
+        "Geneva Park"
+      ],
+      "date_ref": "1973-02",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3724",
+      "issue": 98,
+      "claim": "The YWCA and YMCA held separate national meetings in Toronto on 4 February 1973 in conjunction with the Canadian Camping Association's National Workshop — so there was a national YMCA camping meeting that week, whose minutes, if they survive, are a place Kanawana could appear.",
+      "category": "archives",
+      "entities": [
+        "YMCA",
+        "YWCA",
+        "Canadian Camping Association",
+        "Camp Kanawana"
+      ],
+      "date_ref": "1973-02-04",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3725",
+      "issue": 98,
+      "claim": "Paul Rushton's \"Watch Those Pocket Rockets!\" (Spring 1973) records that some Canadian camps ran model rocketry programmes, now governed by Amendment No. 13 of the Air Regulations and Aeronautics Act of Canada: no model rocket launch within 10 miles of any airport, control zone or aerodrome traffic zone, none into cloud, and none \"unless a firing supervisor approved by the Royal Canadian Flying Clubs Association is present.\"",
+      "category": "programs",
+      "entities": [
+        "Paul Rushton"
+      ],
+      "date_ref": "1973",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3726",
+      "issue": 98,
+      "claim": "Eanswythe Flynn's \"Do It Now!\" for June (Spring 1973) directs that \"Your Staff Manual should be distributed to all your staff members by the first week of June at the latest,\" and asks \"Are campers' Health Forms and their Doctors' Certificates coming in? Have you enough file cards for your records?\" — camper health records as a routine annual paper class at Canadian camps.",
+      "category": "operations",
+      "entities": [
+        "Eanswythe Flynn"
+      ],
+      "date_ref": "1973",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3727",
+      "issue": 99,
+      "claim": "The Canadian Camping Association's board meeting at Vancouver in April 1973 resolved that \"A new Committee, ARCHIVES, is to be established to gather material and documents to be housed at the University of Waterloo and made available to anyone in Canada and the world.\" This was the 1973 plan; by October 1976 Adele Ebbs, as chairman of the CCA Archives Committee, reported that a home had been found for the Canadian Camping Archives at Trent University in Peterborough, with F. M. Van Wagner's papers as the founding deposit. The destination changed in between.",
+      "category": "archives",
+      "entities": [
+        "Canadian Camping Association",
+        "University of Waterloo",
+        "Trent University",
+        "Adele Ebbs",
+        "F. M. Van Wagner"
+      ],
+      "date_ref": "1973-04",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3728",
+      "issue": 99,
+      "claim": "Mary L. Northway, co-author of The Camp Counsellor's Book, wrote in Canadian Camping, Summer 1973: \"One of the strange beliefs of our society is that it is wrong to be afraid. A counsellor who ridicules or condemns a child's fears may succeed only in having the child repress, rather than express them... Supernatural fears from spooky stories and myths about malicious ghosts have no place in the young camper's life, nor have unnecessary fears of night raids or hazing. There are enough things to be afraid of in the civilized, atomic world, that there is no need to produce artificial terrors.\"",
+      "category": "traditions",
+      "entities": [
+        "Mary L. Northway"
+      ],
+      "date_ref": "1973",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3729",
+      "issue": 99,
+      "claim": "Within eighteen months the same magazine printed a how-to for the camp hoax (Attfield, Spring 1972), a director naming \"a hoax\" among the traditions taught at pre-camp (Greenway, Spring 1972), and the country's leading authority on camp counselling stating that ghost stories have no place in a young camper's life (Northway, Summer 1973). A camp running a Chopsy in the 1970s was therefore doing something the profession was actively arguing about — a better documented fact than either approval or disapproval alone.",
+      "category": "methodology",
+      "entities": [
+        "Mary L. Northway",
+        "Bob Attfield",
+        "Walter Greenway",
+        "Chopsy",
+        "Camp Kanawana"
+      ],
+      "confidence": "inferred",
+      "date_ref": "1973",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3730",
+      "issue": 99,
+      "claim": "Mary Northway reduced the camp counsellor's requirements to two in Summer 1973 — the ability to camp and the ability to counsel — against a job description in which \"The modern camp counsellor apparently should be a mixture of Superman and an archangel... trained, presumably at the graduate level in sociology, psychotherapy, group dynamics and perhaps even nuclear physics.\" On camping: \"One has to be clever to live simply,\" skills being \"important, not as ends, but means,\" and the counsellor \"should know the value of time spent in doing nothing but watching... 'Program' is often so full there is no time left for living.\" On counselling: being \"more interested in children than in himself.\"",
+      "category": "staff",
+      "entities": [
+        "Mary L. Northway"
+      ],
+      "date_ref": "1973",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3731",
+      "issue": 99,
+      "claim": "The Canadian Camping Association reported at its April 1973 Vancouver board meeting that \"The C.C.A. is having financial difficulties... Fees to C.C.A. have not increased for over 15 years,\" with the provincial associations asked to help cover \"a deficit budget of over $2500 for the coming year.\" Each provincial president undertook to find an advertising agent to produce one page of advertising per issue of the magazine, \"since the advertisements must pay for the printing of the magazine,\" and \"all the advertisements appearing in the last three issues have been tracked down by Paul Rushton\" alone.",
+      "category": "camping_movement",
+      "entities": [
+        "Canadian Camping Association",
+        "Paul Rushton"
+      ],
+      "date_ref": "1973-04",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3732",
+      "issue": 99,
+      "claim": "The Canadian Camping Association reported in 1973 that it had \"about 600 Member Camps serving some 400,000 campers\" — a national scale figure, against Prime Minister Trudeau's \"almost half a million\" of the previous summer.",
+      "category": "camping_movement",
+      "entities": [
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1973",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3733",
+      "issue": 99,
+      "claim": "Claude Cousineau was appointed the Canadian Camping Association's liaison with the Ministry of Transport on the policy-forming committee regarding life jackets in April 1973, with every province asked to send him its views — a datable moment in how Canadian camp waterfront regulation was made. At the same meeting Val Willis accepted responsibility for putting together a National Code of Ethics, and Stan Wild reported the revised constitution circulating in both official languages with the final vote due no later than 30 October 1973.",
+      "category": "camping_movement",
+      "entities": [
+        "Claude Cousineau",
+        "Val Willis",
+        "Stan Wild",
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1973-04",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3734",
+      "issue": 99,
+      "claim": "Officer changes reported in Summer 1973: Ron Johnstone becomes regional vice-president as Jack Pearse moves to the board as the new president of the Ontario Camping Association; Gordon Stewart (Manitoba), Michael Pezderic (Saskatchewan) and Rev. Pere Rosaire Corbin (l'Association des camps du Quebec and QCA) join as new provincial presidents. John Latimer read telegrams of good wishes at the annual meeting from Mary S. Edgar and Pierre Trudeau.",
+      "category": "camping_movement",
+      "entities": [
+        "Ron Johnstone",
+        "Jack Pearse",
+        "Gordon Stewart",
+        "Michael Pezderic",
+        "Rosaire Corbin",
+        "John Latimer",
+        "Mary S. Edgar"
+      ],
+      "date_ref": "1973",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3735",
+      "issue": 99,
+      "claim": "Canadian Camping, Summer 1973, records: \"A belated but gentle tip of our hat to another gracious lady who has, for many years, been a firm supporter of the Q.C.A. — Mrs. Alta Kahn. A richly deserved honour will be bestowed on her by Q.C.A. in May and our fall edition will feature an article about her.\"",
+      "category": "camping_movement",
+      "entities": [
+        "Alta Kahn",
+        "Quebec Camping Association"
+      ],
+      "date_ref": "1973",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3736",
+      "issue": 99,
+      "claim": "Six letters on the Geneva Park National Workshop of February 1973, one per province, record its structure: camp directors chose three from eight workshops, among them \"Recruiting Campers\" led by Bruno Morawetz and \"Funding\" led by Ross Seaman, plus sessions on recruiting and training camp staff, on meeting the changes of society, and a Standards Workshop. Opening and closing were an audio-visual presentation by John Latimer and Jay Haddad and a final session featuring Mary Edgar and Ron Johnstone. Joy Rennick of New Brunswick records the formulation that came out of it: \"Camping today is not one of physical survival but of psychological survival.\"",
+      "category": "camping_movement",
+      "entities": [
+        "Bruno Morawetz",
+        "A. Ross Seaman",
+        "John Latimer",
+        "Jay Haddad",
+        "Mary S. Edgar",
+        "Ron Johnstone",
+        "Geneva Park"
+      ],
+      "date_ref": "1973-02",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3737",
+      "issue": 99,
+      "claim": "Doug Dent notes that \"all sessions were recorded to allow for a written resume for all who attended\" at the Geneva Park National Workshop of February 1973 — so a written record of that workshop, including A. Ross Seaman's session on funding, was produced and circulated, and is a findable document.",
+      "category": "archives",
+      "entities": [
+        "Doug Dent",
+        "A. Ross Seaman",
+        "Geneva Park",
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1973",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3738",
+      "issue": 99,
+      "claim": "Yves Beauregard wrote the only French letter on the Geneva Park workshop, calling it \"un pole important des professionnels que nous sommes... Apres tout, les camps... c'est nous!\"",
+      "category": "camping_movement",
+      "entities": [
+        "Yves Beauregard",
+        "Geneva Park"
+      ],
+      "date_ref": "1973",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3739",
+      "issue": 99,
+      "claim": "Jack Pearse's \"Camp — An Oasis\" (Summer 1973) records his return in spring 1973 to the camp where he first swam, tripped, held staff position and led a singsong, unvisited since 1953: the boathouse burned down and replaced by an outdoor theatre; the Tent Alley gone, with its \"roughly-hewn archway\" bearing the camp motto in logs, \"I'm third\" — God first, the other fellow second — replaced by cabins; and \"a post that was once a corner of the stage was all that remained of the Council Ring.\" \"I didn't know a single person I met in my stroll around my camp.\" But he found a rock painted \"J.P. 1946\" and heard a noon-hour singsong from song sheets he had compiled in 1941, including a song composed by his father in 1934 — \"And I knew those songs as well as anyone in the dining hall.\"",
+      "category": "camping_movement",
+      "entities": [
+        "Jack Pearse"
+      ],
+      "date_ref": "1973",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3740",
+      "issue": 99,
+      "claim": "Jack Pearse's conclusion in Summer 1973, quoted by John Latimer as the issue's keynote: \"it is not a generation gap but a lack of common experience that creates a gap between people.\" He also cites Fiddler on the Roof for the defence of tradition — \"Without our tradition, we are as shaky as a fiddler on the roof\" — qualified: \"If it is a good tradition, then it is worth keeping,\" set directly against Latimer's \"certain traditions must be maintained — but they must make sense.\"",
+      "category": "camping_movement",
+      "entities": [
+        "Jack Pearse",
+        "John Latimer"
+      ],
+      "date_ref": "1973",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3741",
+      "issue": 99,
+      "claim": "The Ontario Camping Association published \"It's Wise to Supervise,\" advertised at $1.25 in Summer 1973 as \"An authoritative discussion on Staff Supervision in Summer Camps\" — a purchasable statement of what camp staff supervision was supposed to be in 1973, and the fifth period document on camp staff practice this read has found.",
+      "category": "staff",
+      "entities": [
+        "Ontario Camping Association"
+      ],
+      "date_ref": "1973",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3742",
+      "issue": 99,
+      "claim": "Mary S. Edgar composed three poems for the Geneva Park conference of February 1973, printed in Canadian Camping that summer — \"An Everyday 'Thank-You',\" \"A Camp Vesper Prayer\" and \"The Bumble Bee\" — with an editor's note that she \"has provided extra copies of these poems for distribution\" on request; Doug Dent's National Camping Day programme then recommended \"A Camp Vesper Prayer\" as \"a fitting part of the evening.\" Edgar was eighty-four.",
+      "category": "sources",
+      "entities": [
+        "Mary S. Edgar",
+        "Doug Dent",
+        "Geneva Park"
+      ],
+      "date_ref": "1973",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3743",
+      "issue": 99,
+      "claim": "National Camping Day 1973 was set for Wednesday 18 July, culminating at 9:30 p.m. Daylight Saving in each time zone — a change from 1972's single simultaneous instant, because \"some camps prefer not to be restricted and some may not be so physically located.\" A song list was printed and circulated from the CCA office to every member camp: \"This Land is Your Land,\" \"It's a Long Road to Freedom,\" \"Get Together,\" \"My Country is My Cathedral,\" \"Four Strong Winds,\" \"Sounds of Silence,\" \"As I Open the Door,\" \"Happy Wanderer,\" \"Jacob's Ladder\" and \"Something to Sing About, This Land of Ours.\"",
+      "category": "traditions",
+      "entities": [
+        "Doug Dent",
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1973-07-18",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3744",
+      "issue": 99,
+      "claim": "The editor's note on National Camping Day 1972 is blunt: \"the response last summer was rather disheartening... the bulk of the response coming from the Girl Guides and Ontario.\" National Camping Day was therefore largely ignored outside Ontario, and the absence of any recorded Kanawana observance is unsurprising rather than significant.",
+      "category": "camping_movement",
+      "entities": [
+        "Doug Dent",
+        "Canadian Camping Association",
+        "Camp Kanawana"
+      ],
+      "date_ref": "1973",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3745",
+      "issue": 99,
+      "claim": "Jack Pearse ran the whole pre-camp week at Camp Tawingo under one theme, \"A happy Camper is...\", each session leader prefacing his presentation with it — \"A happy camper is a healthy camper\" from the health director, \"a singing camper\" from the music director — with staff given a \"MATCHED\" button, the letters standing for Make A Tawingo Camper Happy Every Day.",
+      "category": "staff",
+      "entities": [
+        "Jack Pearse",
+        "Camp Tawingo"
+      ],
+      "date_ref": "1973",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3746",
+      "issue": 99,
+      "claim": "Bruno Morawetz's \"Make Your Own Paddles\" (Summer 1973), demonstrated at the OCA conference by one of his campers, specifies clear basswood free from knots, a rough 1 by 6 inch board six feet long, and a method of tracing an existing paddle, sawing relief cuts about 6 inches apart, roughing out with drawknife or chisel, shaping blade and grip first and leaving the shaft square until they are finished, and finishing with several coats of linseed oil — \"stay away from varnish altogether.\" Paddles were also made at Camp Ponacka from maple and black cherry.",
+      "category": "programs",
+      "entities": [
+        "Bruno Morawetz",
+        "Camp Ponacka"
+      ],
+      "date_ref": "1973",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3747",
+      "issue": 99,
+      "claim": "Dr. Bruce Bocking of Camp Ponacka opened \"Campcraft Can Be Fun\" (Summer 1973) with an accusation directors would recognise: they \"search diligently for months looking for a super qualified instructor to head their swimming programme... but then turn around and, at the last minute, quickly hire one or two counsellors who are relatively inexperienced to instruct in campcraft.\" He describes a survival hike in which the most experienced campers were dropped in pairs at isolated sites for 48 to 72 hours with \"only the clothes on their back, a survival kit and an axe,\" campers \"unable to cope in foreign situations\" screened out.",
+      "category": "programs",
+      "entities": [
+        "Bruce Bocking",
+        "Camp Ponacka"
+      ],
+      "date_ref": "1973",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3748",
+      "issue": 99,
+      "claim": "Camp Ponacka's \"Diplomacy Day,\" printed in Summer 1973 as a replacement for \"traditional Sunday afternoon programs such as Gold rush Day and Olympic Day,\" divided the camp into countries of about fifteen campers and two counsellors, each given a disproportionate share of raw materials and 100 \"Ponax,\" with a Central Trade Board manned by counsellors and counsellors as ship captains and truck drivers to prevent border-hopping. Each country was given five bombs (painted sticks), each dropped costing the victim 5 Ponax, with losing nations forming alliances to pool bombs against the leader.",
+      "category": "programs",
+      "entities": [
+        "Camp Ponacka"
+      ],
+      "date_ref": "1973",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3749",
+      "issue": 99,
+      "claim": "R. M. Semple, Director of Dietetics at Humber Memorial Hospital, wrote in Summer 1973: \"if I were to ask you the actual food cost per camper per day, doubtless no one would know,\" recommended standardised recipes and making the camp nurse responsible for daily kitchen sanitation inspection, and added two harder passages — \"Most camps are over-staffed and over-paid. If you hire students on an ego trip, that's all you will get,\" and \"Look at the possibility of hiring some of your campers to do some of the kitchen duties, e.g., floors and dishes. You could pay them at student rates or make allowances on the price of the vacation.\"",
+      "category": "operations",
+      "entities": [
+        "R. M. Semple"
+      ],
+      "date_ref": "1973",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3750",
+      "issue": 99,
+      "claim": "The Saskatchewan Camping Association was six years old in the spring of 1973, so founded in 1967.",
+      "category": "camping_movement",
+      "entities": [
+        "Saskatchewan Camping Association"
+      ],
+      "date_ref": "1967",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_3751",
+      "issue": 99,
+      "claim": "W. Bertram Danson advertised himself as a camping consultant in the classified pages of Canadian Camping, Summer 1973: \"Director with over 25 years experience in all phases of camping, able to come to your assistance!\"",
+      "category": "biography",
+      "entities": [
+        "W. Bertram Danson"
+      ],
+      "date_ref": "1973",
       "sources": [
         "src_ia_canadian_camping_collection"
       ],

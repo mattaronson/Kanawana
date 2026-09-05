@@ -94,9 +94,9 @@
 {"n": 94, "title": "## 94 — Vol. 24 No. 3, Spring 1972", "chars": 18426, "status": "extracted", "facts": 20}
 {"n": 95, "title": "## 95 — Vol. 24 No. 4, Summer 1972", "chars": 17822, "status": "extracted", "facts": 20}
 {"n": 96, "title": "## 96 — Vol. 25 No. 1, Fall 1972", "chars": 17247, "status": "extracted", "facts": 22}
-{"n": 97, "title": "## 97 — Vol. 25 No. 2, Winter 1973", "chars": 21747, "status": "pending", "facts": 0}
-{"n": 98, "title": "## 98 — Vol. 25 No. 3, Spring 1973", "chars": 18556, "status": "pending", "facts": 0}
-{"n": 99, "title": "## 99 — Vol. 25 No. 4, Summer 1973", "chars": 23021, "status": "pending", "facts": 0}
+{"n": 97, "title": "## 97 — Vol. 25 No. 2, Winter 1973", "chars": 21747, "status": "extracted", "facts": 25}
+{"n": 98, "title": "## 98 — Vol. 25 No. 3, Spring 1973", "chars": 18556, "status": "extracted", "facts": 19}
+{"n": 99, "title": "## 99 — Vol. 25 No. 4, Summer 1973", "chars": 23021, "status": "extracted", "facts": 25}
 {"n": 100, "title": "## 100 — Vol. 26 No. 1, Fall 1973", "chars": 18896, "status": "pending", "facts": 0}
 {"n": 101, "title": "## 101 — Vol. 26 No. 2, Winter/Spring 1974", "chars": 17669, "status": "pending", "facts": 0}
 {"n": 102, "title": "## 102 — Vol. 27 No. 1, November 1974", "chars": 12322, "status": "pending", "facts": 0}

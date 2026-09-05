@@ -4617,9 +4617,9 @@
       "priority_id": "p_363",
       "rank": 362,
       "type": "RESEARCH",
-      "description": "FIND THE CCA ARCHIVES AND THE 1972 SONGBOOK CALL. Canadian Camping Vol. 25 No. 1 (Fall 1972) carries two first-order leads on the same page. (a) THE SONGBOOK: a boxed national call -- 'We want to compile a songbook and make it available to all camps in Canada. You must have a popular camp song. Would you please send in to the magazine the words and list the tune of your camp song so that it can be shared across Canada.' If Kanawana answered, the words and tune of a Kanawana camp song exist in the CCA's papers or in a published songbook. This is the most direct route p_048 has ever had. The first question the run itself should answer: was the songbook ever published? Watch the issues ahead. (b) THE ARCHIVE: the same page asks directors for 'Two copies of your camp brochure -- they are needed for the C.C.A. Archives and for display at the February Conference at Geneva Park.' There was therefore a CCA Archives actively collecting camp brochures in 1972, separate from the OCA archives deposited at Trent in October 1970. A Kanawana brochure of the early 1970s may sit in it. Where the CCA's own archive went is the question -- ask the Canadian Camping Association's successor body and Trent.",
+      "description": "SUPERSEDED -- DUPLICATE. The 1972 songbook appeal and the C.C.A. Archives brochure request were already queued during the word-for-word read itself, as p_311 (the songbook) and p_312 (the archive, whose destination p_312 has since corrected from Waterloo to Trent). This priority was raised again in the extraction pass over the same issue and duplicates both. Work p_311 and p_312; nothing is lost by closing this one.",
       "weight": 9,
-      "status": "pending",
+      "status": "superseded",
       "created": "2026-09-05",
       "source": "word-for-word read of Canadian Camping, issues 94-96, converted to KB facts",
       "blocked_on": null
@@ -4628,9 +4628,9 @@
       "priority_id": "p_364",
       "rank": 363,
       "type": "RESEARCH",
-      "description": "TRACE JACK PEARSE'S NATIONAL CAMPING HISTORY COMMITTEE, 1972. Canadian Camping, Fall 1972: 'Jack Pearse is working on the establishment of a committee to investigate ways and means of gathering together material which can be compiled into a master document on the history of the camping movement in Canada.' Whatever that committee produced -- or failed to produce -- is the natural place for a national account in which Kanawana, as one of the oldest camps in the country, would appear by name. Track it forward through the remaining issues of the run first, since the magazine is the committee's own house organ; then chase Pearse (Camp Tawingo) and the CCA's successor body. Two related 1972 items belong to the same search: the CCA's request to the president for a list of the types of camps in every province and the number in each category -- a national camp census that would name Kanawana -- and the CCA Archives collecting brochures (p_363).",
+      "description": "SUPERSEDED -- DUPLICATE of p_313, which already queues Jack Pearse's 1972 national camping history committee from the same Fall 1972 notice. Raised again in the extraction pass over the same issue. Work p_313.",
       "weight": 8,
-      "status": "pending",
+      "status": "superseded",
       "created": "2026-09-05",
       "source": "word-for-word read of Canadian Camping, issues 94-96, converted to KB facts",
       "blocked_on": null
@@ -4666,6 +4666,72 @@
       "status": "pending",
       "created": "2026-09-05",
       "source": "word-for-word read of Canadian Camping, issues 94-96, converted to KB facts",
+      "blocked_on": null
+    },
+    {
+      "priority_id": "p_368",
+      "rank": 367,
+      "type": "RESEARCH",
+      "description": "COMPARE ERNEST THOMPSON SETON'S PUBLISHED COUNCIL RING CEREMONY AGAINST KANAWANA'S c.1925-27 SCRIPT, LINE BY LINE. Jack Eastaugh, Assistant to the Director of the Taylor Statten Camps, states in Canadian Camping Vol. 25 No. 3 (Spring 1973): 'The Indian Council Ring Ceremony, devised by Ernest Thompson Seton in the years following the first great war and refined by Taylor Statten who taught the ceremonies to camp leaders in the 20's, needs no apology and is still viable today.' Kanawana's totem pole went up in 1927 and its 'Tribes of Kanawana in Council' script is dated c. 1925-27 -- exactly those years. Eastaugh's list of standard parts (Fire Lighting, Peace Pipe Ceremony, Indian Games, Dances, Departure of Hiawatha) matches Kanawana's scripts item for item, and his rendering of the closing chant -- 'Wakonda dhe dhu' / 'Father a needy one stands before thee; I who sing am he' -- matches Kanawana's closing line 'Wakonda, dhe-dhu, wapdhin atonhe'. The work now is textual: get Seton's published ceremony (the Woodcraft League and Birch Bark Roll material, widely digitised) and set it beside the Concordia script. Eastaugh also offered 'a complete and detailed description of the rituals, ceremonies, games and organization' on request from the Taylor Statten Camps -- ask them whether that document survives, since it is the version Kanawana's leaders would have been taught.",
+      "weight": 9,
+      "status": "pending",
+      "created": "2026-09-05",
+      "source": "word-for-word read of Canadian Camping, issues 97-99, converted to KB facts",
+      "blocked_on": null
+    },
+    {
+      "priority_id": "p_369",
+      "rank": 368,
+      "type": "RESEARCH",
+      "description": "TEST EASTAUGH'S CLAIM ABOUT INDIGENOUS PARTICIPATION IN YMCA CAMP PROGRAMMES. Jack Eastaugh writes in Spring 1973 that 'the Y.M.C.A. camps in Eastern and Western Canada for years have welcomed the participation of, and appreciated the contribution of local Indians in their programs,' naming people from the Golden Lake, Couchiching, Georgian Bay, Brantford and Moosonee reserves working in Ontario camps. That is a claim about Kanawana's own movement which no Kanawana source has confirmed or denied. Search the YMCA of Montreal records and Kanawana staff lists for Indigenous staff or invited participants; check whether any Kanawana source names a person from Kanesatake, Kahnawake or another Quebec community. A null result is worth recording as a null result -- the article should be able to say whether Kanawana did this, not merely that the movement claimed to.",
+      "weight": 8,
+      "status": "pending",
+      "created": "2026-09-05",
+      "source": "word-for-word read of Canadian Camping, issues 97-99, converted to KB facts",
+      "blocked_on": null
+    },
+    {
+      "priority_id": "p_370",
+      "rank": 369,
+      "type": "WRITE",
+      "description": "WRITE THE HOAX ARGUMENT INTO wiki/traditions/myths-and-legends.md AS AN ARGUMENT, NOT A VERDICT. Within eighteen months Canadian Camping printed three positions: Bob Attfield's how-to for the camp hoax (Spring 1972), Walter Greenway naming 'a hoax' among the traditions deliberately taught to new staff at pre-camp (Spring 1972), and Mary L. Northway -- co-author of The Camp Counsellor's Book, the standard Canadian text -- writing that 'Supernatural fears from spooky stories and myths about malicious ghosts have no place in the young camper's life, nor have unnecessary fears of night raids or hazing' (Summer 1973). Hartry and Attfield both volunteered the same caution about frightening children; Northway states it as a rule. A camp running a Chopsy in the 1970s was doing something the profession was actively arguing about. That is a better documented and more interesting claim than either approval or disapproval alone, and the article should say so and cite all three.",
+      "weight": 8,
+      "status": "pending",
+      "created": "2026-09-05",
+      "source": "word-for-word read of Canadian Camping, issues 97-99, converted to KB facts",
+      "blocked_on": null
+    },
+    {
+      "priority_id": "p_371",
+      "rank": 370,
+      "type": "RESEARCH",
+      "description": "FIND THE WRITTEN RESUME OF THE FEBRUARY 1973 GENEVA PARK NATIONAL WORKSHOP. Doug Dent records that 'all sessions were recorded to allow for a written resume for all who attended.' The workshop matters to this project because A. Ross Seaman -- Kanawana's own director -- led its session on Funding, which Morley Lee of Manitoba said 'left us the most to grapple with in terms of new information.' wiki/people/a-ross-seaman.md already cites the session; the resume would give what he actually said about how a camp was funded in 1973. Search the CCA's successor body, the Trent archives (which by 1976 held the CCA's own material), and the OCA. The same search should pick up the National Code of Ethics that Val Willis was asked to compile in April 1973.",
+      "weight": 7,
+      "status": "pending",
+      "created": "2026-09-05",
+      "source": "word-for-word read of Canadian Camping, issues 97-99, converted to KB facts",
+      "blocked_on": null
+    },
+    {
+      "priority_id": "p_372",
+      "rank": 371,
+      "type": "RESEARCH",
+      "description": "FIND THE ARTICLE ON MRS. ALTA KAHN PROMISED FOR THE FALL 1973 ISSUE. Canadian Camping, Summer 1973: 'A belated but gentle tip of our hat to another gracious lady who has, for many years, been a firm supporter of the Q.C.A. -- Mrs. Alta Kahn. A richly deserved honour will be bestowed on her by Q.C.A. in May and our fall edition will feature an article about her.' A long-serving Quebec Camping Association figure with a profile promised in issue 100 of this run, which is next in the extraction pass -- so read issue 100 with this specifically in mind, and if the article is there, extract it fully and consider a stub. Quebec figures in this run have been scarce enough that a full profile of one is worth taking seriously.",
+      "weight": 6,
+      "status": "pending",
+      "created": "2026-09-05",
+      "source": "word-for-word read of Canadian Camping, issues 97-99, converted to KB facts",
+      "blocked_on": null
+    },
+    {
+      "priority_id": "p_373",
+      "rank": 372,
+      "type": "RESEARCH",
+      "description": "SEARCH FOR THE OCA'S 'IT'S WISE TO SUPERVISE' (1973). Advertised at $1.25 in Canadian Camping, Summer 1973, as 'An authoritative discussion on Staff Supervision in Summer Camps,' endorsed by the Ontario Camping Association and ordered from its office. It is the fifth period document on Canadian camp staff practice this read has found, after Moon's 1968 piece, the 1969 CIT study, the OCA job-negotiation guidelines (1972) and Blackstock's model contract and staff-manual outline (1973), and it is the only one specifically about supervision -- which is the act that produces a written staff assessment. Directly relevant to p_307. Search library catalogues, the OCA's successor body and the Trent archives.",
+      "weight": 6,
+      "status": "pending",
+      "created": "2026-09-05",
+      "source": "word-for-word read of Canadian Camping, issues 97-99, converted to KB facts",
       "blocked_on": null
     }
   ],
