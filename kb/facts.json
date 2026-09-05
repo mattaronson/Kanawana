@@ -2,7 +2,7 @@
   "version": "6.06",
   "kb_version": "6.06",
   "migrated_from": "3.3",
-  "fact_count": 4168,
+  "fact_count": 4194,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -74097,6 +74097,483 @@
         "American Camping Association"
       ],
       "date_ref": "1981-10",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4207",
+      "issue": 140,
+      "claim": "Canadian Camping changed shape with Vol. 33 No. 6 (Winter 1982): for the first time in this run it opens with an \"IN THIS ISSUE\" cover panel and carries a full contents page with page numbers and bylines, a signed Editorial under a stated Editorial Policy, a Letters to the Editor column, a photo credit line and a designed two-column layout. After six years as a typewritten newsletter or plain-set bulletin it is a magazine again — a fourth structural break in the run.",
+      "category": "sources",
+      "entities": [
+        "Canadian Camping (magazine)"
+      ],
+      "date_ref": "1982-01",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4208",
+      "issue": 140,
+      "claim": "Jay Haddad interviewed Charles Plewman on 15 August 1976 at his Haliburton rest home; excerpts were printed in Canadian Camping in Winter 1982 after Plewman's death on 28 December 1981, the notice giving his dates as 1890-1981, Honorary Member and Past President of the Ontario Camping Association and founder of Camp Kilcoo in 1932.",
+      "category": "biography",
+      "entities": [
+        "Charles Plewman",
+        "Jay Haddad",
+        "Kilcoo Camp",
+        "Ontario Camping Association"
+      ],
+      "date_ref": "1976-08-15",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4209",
+      "issue": 140,
+      "claim": "Charles Plewman, at 86, described the founding of the Canadian Camping Association: \"We did know there were camps in Quebec, so we invited them to a meeting and we all met in Ottawa and decided to have a Canadian Camping Association — and Taylor Statten was its first President. He had a lot of charisma — both Americans and Canadians took to him as he was their (A.C.A.) President too.\" This project's canadian-camping-movement.md says the association was founded at the Central YMCA in Toronto on 20 May 1936. Plewman agrees with 1936 and differs only on the city.",
+      "category": "camping_movement",
+      "entities": [
+        "Charles Plewman",
+        "Taylor Statten",
+        "Canadian Camping Association"
+      ],
+      "confidence": "disputed",
+      "date_ref": "1936",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4210",
+      "issue": 140,
+      "claim": "Charles Plewman said in 1976: \"A lot of people don't realize that boys' camps were operating in 1894 and '95 but it was 20 years after that that girls even camped.\" He names no camp; what he supplies is independent testimony from inside the movement that 1894 is when this kind of camp began in Canada — the year Kanawana dates itself from.",
+      "category": "founding",
+      "entities": [
+        "Charles Plewman",
+        "Camp Kanawana"
+      ],
+      "date_ref": "1976",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4211",
+      "issue": 140,
+      "claim": "Charles Plewman's account of where organized camping came from: \"Fathers would go out canoeing with their sons — after all, the canoe was the main method of navigation in this country for 100 years — one didn't have roads. So canoeing was in our blood; then along comes a guy like Cochrane (and others) who says: 'I'll run some boys on a canoe trip', without any thought of running a camp at all... Camps started as a supply base for canoe trips.\" And explicitly not from the churches: the evangelical family camps of the 1800s \"had no semblance to organized camping for youth.\"",
+      "category": "camping_movement",
+      "entities": [
+        "Charles Plewman",
+        "A. L. Cochrane"
+      ],
+      "date_ref": "1976",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4212",
+      "issue": 140,
+      "claim": "Charles Plewman recorded that Canadian camping began as a unit of the American association: \"About 1930 I was asked to sit in with a group — there were about 4 or 5 people there; they were meeting and went down to the States once a year to the American Camping Association Convention. We were a part of one of the A.C.A. units, along with many other units from the northern states.\" The Ontario break came \"around 1930, 31 or 32,\" spearheaded by Taylor Statten and Mary Edgar, and the argument at the time was \"whether we were concerned with private camps or the broader scope to include agency camps. We had broader visions and wanted to include both\" — the decision that made a YMCA camp like Kanawana eligible to belong. He adds that \"agencies in the first 10 or 15 years didn't play too much of a role... nothing like today.\"",
+      "category": "camping_movement",
+      "entities": [
+        "Charles Plewman",
+        "Taylor Statten",
+        "Mary S. Edgar",
+        "American Camping Association",
+        "Camp Kanawana"
+      ],
+      "date_ref": "1976",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4213",
+      "issue": 140,
+      "claim": "Charles Plewman on founding the magazine: \"I got out the first bulletin which was the forerunner of the Canadian Camping magazine. I felt we didn't even know each other in Ontario — we had to find out where all these camps were and let's bring them all together through communications.\"",
+      "category": "sources",
+      "entities": [
+        "Charles Plewman",
+        "Canadian Camping (magazine)"
+      ],
+      "date_ref": "1976",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4214",
+      "issue": 140,
+      "claim": "Charles Plewman on director turnover, from his own worst years of 1940-45 when the Red Cross took him as Secretary of the Toronto branch: \"I found myself hiring about 4 or 5 Directors in a period of about 4 or 5 years. This was not a good thing. To bring a man who didn't understand your mores, your customs, your tradition, and had no real Kilcoo blood in his veins, placed authority over people who had been there for several years... well, it was bad business, that's all. My philosophy is that I'd jump over a hurdle of pretty serious proportions to use a man from the camp that knew the place from the ground up.\" And on the office itself: \"In the earlier days, the camp director played the role of a star — not a team player but an individual star... Camps were built around Directors in earlier days, but camps today are built around the team, the camp's reputation, the camp's programme.\"",
+      "category": "camping_movement",
+      "entities": [
+        "Charles Plewman",
+        "Kilcoo Camp"
+      ],
+      "date_ref": "1976",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4215",
+      "issue": 140,
+      "claim": "Charles Plewman on girls and coeducation: \"Girls were supposed to be able to faint at the right time — they were supposed to have lily-white hands — to go out and rough it in the woods for a lady was unheard of! In my first days of camping, they wouldn't let anyone with skirts in the camp — not even the cookhouse or kitchen — it had to be a man.\" And on Taylor Statten: \"I remember when Taylor Statten's chief financial supporter discovered that he was going to run a girl's camp on the SAME lake as the boys' camp, he nearly hit the roof. He said 'Don't do it, Taylor, don't do it — you're making a big mistake'. This was before anything known as co-ed camping!\" His own conclusion: \"camps allowed females to grow in the out-of-doors and camps were in the forefront of this change.\"",
+      "category": "coeducation",
+      "entities": [
+        "Charles Plewman",
+        "Taylor Statten"
+      ],
+      "date_ref": "1976",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4216",
+      "issue": 140,
+      "claim": "Charles Plewman's closing line to Jay Haddad in 1976: \"You better take a good look at me because I'm a product of the Victorian era — still living and still kicking. With two exceptions, I'm the only one left of our group of camping pioneers — it's a lonely feeling at times.\"",
+      "category": "biography",
+      "entities": [
+        "Charles Plewman",
+        "Jay Haddad"
+      ],
+      "date_ref": "1976",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4217",
+      "issue": 140,
+      "claim": "Canadian Camping printed at the foot of the Plewman interview in Winter 1982: \"The CCA/ACC Archives are located at Trent University. The Oral History Interview Tapes reflect the efforts of many volunteers to record the history of the camping movement in Canada. Anyone wishing further information on the CCA/ACC Archives should communicate his specific area of interest to: Mr. Ken Johnson, Archivist, Thomas J. Bata Library, Trent University, Peterborough, Ontario K9J 7B8, (705) 748-1413.\"",
+      "category": "archives",
+      "entities": [
+        "Trent University",
+        "Kenneth Johnson",
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1982-01",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4218",
+      "issue": 140,
+      "claim": "The Plewman interview printed in Winter 1982 is one of the CCA oral history tapes, transcribed in excerpt — so the tape series contains full interviews of which the magazine printed only parts, and a request to Trent should ask for the recordings and any transcripts rather than only for the printed text. Any Quebec or Montreal interview in that series would be a first-order source for this project.",
+      "category": "archives",
+      "entities": [
+        "Charles Plewman",
+        "Trent University",
+        "Canadian Camping Association"
+      ],
+      "confidence": "inferred",
+      "date_ref": "1982",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4219",
+      "issue": 140,
+      "claim": "The first International Camping Congress was held at the Sheraton Centre, Toronto, 26 to 29 January 1983, at $160 full registration ($125 before 20 December 1982), described by the CCA's Central Region report as \"the CCA/ACC's biggest event ever,\" with the French slogan \"ENSEMBLE ON EST PLUS FORT.\" Leaders in camping \"from all over the world are being contacted and invited to attend as speakers or delegates,\" and a National Workshop on Promotion was scheduled to coincide with it.",
+      "category": "camping_movement",
+      "entities": [
+        "Canadian Camping Association",
+        "Ontario Camping Association"
+      ],
+      "date_ref": "1983-01-26",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4220",
+      "issue": 140,
+      "claim": "Raye Kass of Concordia is recorded in this project as having presented on camp leadership at \"the International Camping Congress,\" undated and sourced to Wikipedia. The CCA's own congress was the first of its name in Canada, held in Toronto in January 1983, which makes it a candidate for the one she spoke at — and would put a Montreal academic from Hedley Dimock's own centre on the programme. It is a candidate, not a confirmation: international camping congresses were also held elsewhere.",
+      "category": "methodology",
+      "entities": [
+        "Raye Kass",
+        "Concordia University",
+        "Hedley Dimock",
+        "Canadian Camping Association"
+      ],
+      "confidence": "inferred",
+      "date_ref": "1983",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4221",
+      "issue": 140,
+      "claim": "The Canadian Camping Association offered every member camp a free ACID RAIN EDUCATION KIT in both languages in 1982, from the National Survival Institute's Acid Rain Awareness Twinning Project, \"suitable for 10-13 year-olds.\" It contained a colouring poster for every child, a map of North America showing all areas subject to acid rain, take-home information, leaders' fact sheets on causes, effects and proposed solutions, resource information, and project ideas and discussion questions. Camps ordered by sending their name, director, address, number of campers participating and number of leaders' kits required — so a list of participating camps once existed at the National Survival Institute. Kanawana was a member camp and eligible; whether it ordered a kit is not known.",
+      "category": "programs",
+      "entities": [
+        "National Survival Institute",
+        "Canadian Camping Association",
+        "Camp Kanawana"
+      ],
+      "date_ref": "1982",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4222",
+      "issue": 140,
+      "claim": "Canadian Camping's editorial of Winter 1982, \"Camp Director Certification: THE TIME IS NOW!\", opens: \"Doctors are licensed to practise their profession. Teachers are certified before entering a classroom. Nurses are registered before being allowed to care for patients. Yet, just about anyone is allowed to direct a camp and care for other people's children. This is not right! There are no national standards as to the professional qualifications of a camp director.\" It proposes a curriculum plus an internship in an organized camp, and states the threat behind it: \"this situation opens up the very real possibility — in fairness to the public — of the imposition of regulations on us by the government.\" So in 1982 there was no national qualification for a Canadian camp director, and the association's own editors were arguing that this was a scandal.",
+      "category": "camping_movement",
+      "entities": [
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1982-01",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4223",
+      "issue": 140,
+      "claim": "Mike Budd, a teacher at Dr. E. P. Scarlett High School, Calgary, wrote in the same Winter 1982 issue that \"Certification courses simply legalize errors in judgment\" and that \"the development of wilderness leaders can't simply be done with the skills school approach\" — eight pages after the editorial demanding camp director certification. The Editorial Policy note printed beside the editorial exists precisely because the editorial committee had begun taking positions the association had not adopted.",
+      "category": "camping_movement",
+      "entities": [
+        "Mike Budd",
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1982-01",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4224",
+      "issue": 140,
+      "claim": "Mike Budd's framework distinguishes objective dangers — \"avalanche, white-outs, bears, lightning — which man has no control over\" — from subjective dangers — \"hypothermia, getting lost, river crossings — which through skill, precautions, and equipment, man can minimize.\" His diagnosis of the period: \"there has been a drastic rise in the number of accidents causing serious injury or death. A major reason... is that the number of inexperienced wilderness users has risen at a much faster rate than has the proportion of knowledgeable wilderness leaders,\" and \"regulating bodies have been under pressure to do something — anything!\" His five legal requirements of outdoor pursuits include \"completing route cards, medical cards, and following established back-up procedures in the event that the leader is late\" — two more camp record classes. And: \"good judgment comes from experience and experience is the result of poor judgment.\"",
+      "category": "canoe_trips",
+      "entities": [
+        "Mike Budd"
+      ],
+      "date_ref": "1982-01",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4225",
+      "issue": 140,
+      "claim": "The Society of Camp Directors' tripping research exists as a titled, authored, dated paper: \"Canoe Tripping Practices in Canada. (John R. Latimer, Research Chairman, 1979).\" The Society donated a limited number of copies, given away free with any order to the CCA National Office in 1982. Latimer — Kilcoo's director and a CCA past president — is named as the Society's Research Chairman.",
+      "category": "archives",
+      "entities": [
+        "John Latimer",
+        "Society of Camp Directors",
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1979",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4226",
+      "issue": 140,
+      "claim": "The Canadian Camping Association's Public Relations and Promotion chairman in Winter 1982 was \"Marnie Ellis, our Public Relations and Promotion Chairman, and an active A.C.Q. member,\" heading a National Workshop on Promotion for the 1983 Congress — Derek Walsh's old portfolio, now held by a second Quebec association member.",
+      "category": "camping_movement",
+      "entities": [
+        "Marnie Ellis",
+        "Derek Walsh",
+        "Association des camps du Quebec",
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1982-01",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4227",
+      "issue": 140,
+      "claim": "The Association des Camps du Quebec's 1982 conference was held at Laval, 18-20 March, with the CCA executive attending and some presenting sessions. The provincial offices list in the same issue gives \"Association des Camps du Quebec, 1415 est rue Jarry, Montreal, Quebec H2E 2Z7, Telephone: (514) 374-4700 ex 447\" and no separate Quebec English-language body — the third printed list in four years to carry one Quebec entry where October 1978 carried three.",
+      "category": "camping_movement",
+      "entities": [
+        "Association des camps du Quebec",
+        "Quebec Camping Association",
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1982-03",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4228",
+      "issue": 140,
+      "claim": "The Canadian Camping Association's semi-annual board meeting at Halifax, 20-22 November 1981, with travel and meeting rooms paid by Fitness Canada, decided against committing to a second National Wilderness Travel Leaders Course \"since many provinces did not meet with their delegates from last May's\" — so the 1981 school at Yamnuska may have been the only one of its kind. A submission to Fitness Canada requested $109,617 for several projects, and reports were received from twenty committee and task force chairmen on their responsibilities \"as outlined in the Action Plan.\" The 1982 annual meeting was set for Camp Rayner, Saskatchewan, 30 April to 2 May.",
+      "category": "camping_movement",
+      "entities": [
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1981-11-20",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4229",
+      "issue": 140,
+      "claim": "Peter Rasberry, chairman of the Canadian Camping Association's Environment Committee, reported in Winter 1982 that \"the first task of the committee is to prepare an Environmental Ethic — a statement of our values and concerns for our natural world. This ethic will become the basis for a set of principles and practices (personal and institutional) to guide us in continued enjoyment, appreciation, and sensible interaction with Nature.\" A national environmental code was therefore being drafted in 1982, and if finished it would have gone to every accredited camp.",
+      "category": "programs",
+      "entities": [
+        "Peter Rasberry",
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1982-01",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4230",
+      "issue": 140,
+      "claim": "Bruce Elkin, Assistant Director of Programs at the Rocky Mountain YMCA, described \"Earth Ways\" in Winter 1982 — \"a twenty-two day 'experience in personal and environmental exploration'\" in the Exshaw Valley of the Alberta Rockies with fourteen teenagers and three staff. Instead of a top-roped rock school, mountaineering began by running the boulders in a creek bed: \"No instruction. No teaching. No show and tell. Running creeks is all 'share and do', learning from example.\" His observation about fear: \"Most people do not suffer from balance problems. They suffer from exposure problems... kids who routinely fell off logs crossing the creek could easily walk the same log placed on land.\"",
+      "category": "programs",
+      "entities": [
+        "Bruce Elkin",
+        "YMCA"
+      ],
+      "date_ref": "1982-01",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4231",
+      "issue": 140,
+      "claim": "Jay Haddad's group dynamics exercise, printed in Winter 1982, gives fifteen relationship pairs — CHEF-DINER, PARENT-CHILD, SALESMAN-CUSTOMER, HOST-GUEST, POLICEMAN-CITIZEN, JUDGE-DEFENDANT, SUPERVISOR-EMPLOYEE, SERGEANT-MAJOR-SOLDIER, DOCTOR-PATIENT, GARDENER-FLOWER, POTTER-CLAY, MISSIONARY-HEATHEN, FRIEND-FRIEND, COACH-TEAM, PERFORMER-AUDIENCE — with staff asked which most and least resembles the counsellor-camper relationship. His rules: \"no one wins or loses\" and \"conflict is important and necessary — it can be a creative experience, as long as no one is attacked personally.\" The inclusion of MISSIONARY-HEATHEN in a 1982 list is recorded as printed.",
+      "category": "staff",
+      "entities": [
+        "Jay Haddad"
+      ],
+      "date_ref": "1982-01",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4232",
+      "issue": 140,
+      "claim": "Canadian Camping's \"Energy Tips\" of Winter 1982 describes the Canada Oil Substitution Program, part of the National Energy Program — a ten-year federal grant scheme to convert heating from oil to gas, electricity, wood, solar or propane, with the Ener$ave toll-free line. That is the funding context for any Kanawana heating conversion of the early 1980s.",
+      "category": "facilities",
+      "entities": [
+        "Camp Kanawana"
+      ],
+      "date_ref": "1982-01",
       "sources": [
         "src_ia_canadian_camping_collection"
       ],
