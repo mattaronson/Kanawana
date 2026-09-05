@@ -5160,10 +5160,12 @@
       "type": "VERIFY",
       "description": "93 OF 100 'disputed' FACTS CARRY NO CONFLICT RECORD. CLAUDE.md's conflict rule says that when a new fact contradicts an existing one the response is to create a conflict record linking both and flag it for review. In practice most contradictions were recorded only as fact-to-fact conflicts_with links, or as confidence:disputed with nothing linked at all. The consequence is that kb/conflicts.json -- the file 'kb-conflicts' reads, and the file a human scans to see what still needs deciding -- undercounts the real number of live disagreements by roughly an order of magnitude. Sixteen of the 93 have no conflicts_with entry of any kind, so nothing anywhere records what they are disputed AGAINST; those are the worst, because a later reader cannot reconstruct the disagreement. TASK: triage the 93. For each, either (a) raise a conflict record, (b) resolve it if the KB already answers it, or (c) downgrade the confidence if 'disputed' was never right. Do NOT bulk-generate 93 conflict records -- several will turn out to be the same disagreement seen from both sides, and a pair should produce one record, not two. Surfaced by scripts/verify/staleness.py, which reports the count on every run.",
       "weight": 8,
-      "status": "pending",
+      "status": "completed",
       "created": "2026-09-05",
       "source": "whole-build staleness sweep, 2026-09-05",
-      "blocked_on": null
+      "blocked_on": null,
+      "completed": "2026-09-05",
+      "resolution": "DONE. All 93 read in full and triaged; decisions recorded per fact in kb/triage/p412_disputed_triage.json. 29 linked to conflicts that already existed; 24 new conflict records raised (c_039-c_062) covering 32 facts, grouped so that one disagreement seen from two sides produces one record; 32 downgraded because 'disputed' was never right for them -- 21 to stated (nulls, access failures, exhausted searches, one debunking) and 9 to inferred (single low-reliability sources and unproven identifications) and 2 superseded facts set to stated behind their markers. One kept disputed on purpose: f_2229, whose own text records the decision not to escalate discrepancies that touch no Kanawana claim. Disputed 100 -> 60; without a conflict record 93 -> 1; conflicts 38 -> 62. SECOND PASS: the linking itself surfaced ten facts still disputed under already-resolved conflicts, invisible until the link existed; each adjudicated by reading which side of the resolution it fell on. Also normalised five conflicts whose resolution text sat in the notes field, where a reader checking `resolution` would have seen a blank and concluded nothing was decided."
     }
   ],
   "queue_ordering": {

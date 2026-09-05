@@ -22,7 +22,10 @@ the correct one.
 """
 import json, io, os, re, sys
 
-RESOLVED = {'resolved', 'resolved_editorially', 'likely_resolved'}
+RESOLVED = {'resolved', 'resolved_editorially'}
+# 'likely_resolved' and 'partially_resolved' are deliberately NOT here: by their
+# own names those conflicts are not settled, so a fact under one is correctly
+# still disputed and reporting it would be noise.
 DATE = re.compile(r'(20\d\d-\d\d-\d\d)')
 # A withdrawal marker is a whole-fact one only at the START of a claim. Inline
 # "CORRECTED:" is the opposite: a fact carrying its own correction, which is

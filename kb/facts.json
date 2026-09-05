@@ -1,6 +1,6 @@
 {
-  "version": "6.15",
-  "kb_version": "6.15",
+  "version": "6.17",
+  "kb_version": "6.17",
   "migrated_from": "3.3",
   "fact_count": 4760,
   "facts": [
@@ -3374,7 +3374,7 @@
       "sources": [
         "src_kanawana_facts"
       ],
-      "confidence": "disputed",
+      "confidence": "stated",
       "category": "coeducation",
       "entities": [
         "Camp Kanawana"
@@ -3382,7 +3382,8 @@
       "date_ref": "1969",
       "conflicts_with": [
         "f_0201",
-        "f_1777"
+        "f_1777",
+        "c_001"
       ],
       "added_version": "4.0",
       "added_by": "auto_extraction"
@@ -14659,7 +14660,8 @@
       ],
       "date_ref": "1917",
       "conflicts_with": [
-        "f_0413"
+        "f_0413",
+        "c_041"
       ],
       "added_version": "4.20",
       "added_by": "ralph_loop"
@@ -14883,7 +14885,9 @@
         "YWCA"
       ],
       "date_ref": "1915-1922",
-      "conflicts_with": [],
+      "conflicts_with": [
+        "c_039"
+      ],
       "added_version": "4.22",
       "added_by": "ralph_loop"
     },
@@ -15468,7 +15472,9 @@
         "Camp Ouareau"
       ],
       "date_ref": "1915-1920",
-      "conflicts_with": [],
+      "conflicts_with": [
+        "c_039"
+      ],
       "added_version": "4.24",
       "added_by": "ralph_loop"
     },
@@ -19360,11 +19366,11 @@
     },
     {
       "fact_id": "f_1169",
-      "claim": "Search-engine snippets of the Concordia 12B01 finding aid (retrieved 2026-06-11, two independent queries) describe correspondence from 'Camp director Dave Twynam' dated 1976, which if accurate would extend his directorship back to 1976. An earlier extraction of the same finding aid (f_0752) dated such correspondence to 1979. Whether the finding aid lists two separate correspondence files (1976 and 1979) or one of the datings is an error is unresolved.",
+      "claim": "[SUPERSEDED 2026-07-07 (recorded 2026-09-05): c_007 resolved against this reading. A direct fetch of the Concordia 12B01 page shows the finding aid's own text reads 'Camp director Dave Twynam-correspondence. - 1979'. The 1976 here was an artefact of search-engine snippet rendering, not the finding aid. Preserved as the record of how the wrong date entered, not deleted.] Search-engine snippets of the Concordia 12B01 finding aid (retrieved 2026-06-11, two independent queries) describe correspondence from 'Camp director Dave Twynam' dated 1976, which if accurate would extend his directorship back to 1976. An earlier extraction of the same finding aid (f_0752) dated such correspondence to 1979. Whether the finding aid lists two separate correspondence files (1976 and 1979) or one of the datings is an error is unresolved.",
       "sources": [
         "src_concordia_atom_12B01"
       ],
-      "confidence": "disputed",
+      "confidence": "stated",
       "category": "directors",
       "entities": [
         "Dave Twynam",
@@ -19372,7 +19378,8 @@
       ],
       "date_ref": "1976",
       "conflicts_with": [
-        "f_0752"
+        "f_0752",
+        "c_007"
       ],
       "added_version": "v4.36",
       "added_by": "ralph_loop"
@@ -19507,7 +19514,9 @@
         "Lemuel Cushing Sr."
       ],
       "date_ref": "1806",
-      "conflicts_with": [],
+      "conflicts_with": [
+        "c_043"
+      ],
       "added_version": "v4.36",
       "added_by": "ralph_loop"
     },
@@ -20899,7 +20908,9 @@
         "Mary Susanna Edgar"
       ],
       "date_ref": "1915-1917",
-      "conflicts_with": [],
+      "conflicts_with": [
+        "c_040"
+      ],
       "added_version": "v4.66",
       "added_by": "ralph_loop"
     },
@@ -23248,7 +23259,8 @@
       ],
       "date_ref": "1936-1946",
       "conflicts_with": [
-        "f_1360"
+        "f_1360",
+        "c_035"
       ],
       "added_version": "4.76",
       "added_by": "ralph_loop"
@@ -25286,7 +25298,7 @@
       "sources": [
         "src_baladodecouverte_howard"
       ],
-      "confidence": "disputed",
+      "confidence": "stated",
       "category": "places",
       "entities": [
         "Camp Otoreke",
@@ -25295,7 +25307,8 @@
       ],
       "date_ref": "1897",
       "conflicts_with": [
-        "f_0486"
+        "f_0486",
+        "c_008"
       ],
       "added_version": "v4.86",
       "added_by": "ralph_loop"
@@ -25933,7 +25946,8 @@
       ],
       "date_ref": "1867-1868",
       "conflicts_with": [
-        "f_1160"
+        "f_1160",
+        "c_012"
       ],
       "added_version": "v4.88",
       "added_by": "browser_research"
@@ -25998,7 +26012,7 @@
         "src_crel_kanawana",
         "src_rsvl_melccfp"
       ],
-      "confidence": "disputed",
+      "confidence": "stated",
       "category": "environment",
       "entities": [
         "Lac Kanawana",
@@ -26008,7 +26022,8 @@
       "conflicts_with": [
         "f_1146",
         "f_0615",
-        "f_1401"
+        "f_1401",
+        "c_009"
       ],
       "added_version": "v4.88",
       "added_by": "browser_research"
@@ -26027,7 +26042,9 @@
         "directors"
       ],
       "date_ref": "1960",
-      "conflicts_with": [],
+      "conflicts_with": [
+        "c_013"
+      ],
       "added_version": "v5.67",
       "added_by": "browser_research"
     },
@@ -29444,14 +29461,16 @@
       "sources": [
         "src_oral_aronson"
       ],
-      "confidence": "disputed",
+      "confidence": "user_knowledge",
       "category": "directors",
       "entities": [
         "Nicolas Garcia",
         "Sean Day"
       ],
       "date_ref": "2005-2012",
-      "conflicts_with": [],
+      "conflicts_with": [
+        "c_016"
+      ],
       "added_version": "v4.91",
       "added_by": "oral_history"
     },
@@ -31175,7 +31194,7 @@
       "sources": [
         "src_otoreke_blog_2005"
       ],
-      "confidence": "disputed",
+      "confidence": "inferred",
       "category": "places",
       "entities": [
         "Camp Otoreke",
@@ -31193,7 +31212,7 @@
       "sources": [
         "src_otoreke_blog_2005"
       ],
-      "confidence": "disputed",
+      "confidence": "inferred",
       "category": "people",
       "entities": [
         "Ron Huppfield",
@@ -31820,7 +31839,7 @@
       "sources": [
         "src_wikipedia_alabama_jubilee"
       ],
-      "confidence": "disputed",
+      "confidence": "inferred",
       "category": "people",
       "entities": [
         "Richard Kerr"
@@ -31837,7 +31856,7 @@
         "src_mccord_junior_league_fonds",
         "src_camp_amy_molson_mcgill_paper"
       ],
-      "confidence": "disputed",
+      "confidence": "stated",
       "category": "places",
       "entities": [
         "Junior League Camp",
@@ -31846,7 +31865,8 @@
       ],
       "date_ref": "1921-1944",
       "conflicts_with": [
-        "f_1844"
+        "f_1844",
+        "c_018"
       ],
       "added_version": "v5.04",
       "added_by": "ralph_loop"
@@ -31973,7 +31993,7 @@
       "sources": [
         "src_aca_dimock_award_recipients_2022_2026"
       ],
-      "confidence": "disputed",
+      "confidence": "inferred",
       "category": "people",
       "entities": [
         "Hedley S. Dimock Award"
@@ -31989,7 +32009,7 @@
       "sources": [
         "src_aca_dimock_award_recipients_2022_2026"
       ],
-      "confidence": "disputed",
+      "confidence": "stated",
       "category": "people",
       "entities": [
         "Pip Alumni Award"
@@ -32298,7 +32318,7 @@
       "sources": [
         "src_mesaieux_st_pierre"
       ],
-      "confidence": "disputed",
+      "confidence": "inferred",
       "category": "people",
       "entities": [
         "Yves St-Pierre"
@@ -32413,7 +32433,7 @@
       "sources": [
         "src_camp_ouareau_history"
       ],
-      "confidence": "disputed",
+      "confidence": "stated",
       "category": "context",
       "entities": [
         "Camp Ouareau",
@@ -32430,13 +32450,15 @@
       "sources": [
         "src_familysearch_cushing_supp"
       ],
-      "confidence": "disputed",
+      "confidence": "inferred",
       "category": "people",
       "entities": [
         "Walter Edgar Cushing"
       ],
       "date_ref": "1870-1935",
-      "conflicts_with": [],
+      "conflicts_with": [
+        "c_019"
+      ],
       "added_version": "v5.05",
       "added_by": "ralph_loop"
     },
@@ -32512,7 +32534,7 @@
       "sources": [
         "src_concordia_seaman_fund"
       ],
-      "confidence": "disputed",
+      "confidence": "stated",
       "category": "people",
       "entities": [
         "A. Ross Seaman"
@@ -32593,14 +32615,16 @@
       "sources": [
         "src_burry_thesis_1985"
       ],
-      "confidence": "disputed",
+      "confidence": "stated",
       "category": "context",
       "entities": [
         "Ontario Camping Association",
         "Taylor Statten"
       ],
       "date_ref": "1930-1938",
-      "conflicts_with": [],
+      "conflicts_with": [
+        "c_020"
+      ],
       "added_version": "v5.05",
       "added_by": "ralph_loop"
     },
@@ -32675,7 +32699,7 @@
       "sources": [
         "src_websearch_edgar_robinson"
       ],
-      "confidence": "disputed",
+      "confidence": "stated",
       "category": "people",
       "entities": [
         "Joanna Hoad"
@@ -33006,7 +33030,9 @@
         "the Kanawana site"
       ],
       "date_ref": null,
-      "conflicts_with": [],
+      "conflicts_with": [
+        "c_044"
+      ],
       "added_version": "v5.06",
       "added_by": "ralph_loop"
     },
@@ -33154,7 +33180,7 @@
       "sources": [
         "src_gulf_islands_driftwood_braide_obit"
       ],
-      "confidence": "disputed",
+      "confidence": "inferred",
       "category": "people",
       "entities": [
         "Rob Braide",
@@ -33191,7 +33217,7 @@
       "sources": [
         "src_mediaterre_kanawana_2009"
       ],
-      "confidence": "disputed",
+      "confidence": "stated",
       "category": "programs",
       "entities": [
         "environmental education",
@@ -33261,7 +33287,7 @@
       "sources": [
         "src_mcmorris_thesis"
       ],
-      "confidence": "disputed",
+      "confidence": "stated",
       "category": "context",
       "entities": [
         "Camp Weredale",
@@ -33329,7 +33355,7 @@
       "sources": [
         "src_banq_numerique_general"
       ],
-      "confidence": "disputed",
+      "confidence": "stated",
       "category": "sources",
       "entities": [
         "BAnQ numérique",
@@ -33463,7 +33489,7 @@
       "sources": [
         "src_1951_kamp_kanawana_history"
       ],
-      "confidence": "disputed",
+      "confidence": "stated",
       "category": "chronology",
       "entities": [
         "Kanawana (name)",
@@ -33480,7 +33506,7 @@
       "sources": [
         "src_campratingz_2012"
       ],
-      "confidence": "disputed",
+      "confidence": "stated",
       "category": "programs",
       "entities": [
         "Camp Kanawana",
@@ -33495,7 +33521,7 @@
       "fact_id": "f_1972",
       "claim": "A 9-query sweep for camp legends shared with comparable YMCA/Canadian camps (Pine Crest, John Island, Camp Weredale, Camp Ouareau) found no published, camp-specific ghost story matching Kanawana's for any of them. Camp Weredale was independently reconfirmed to be a Rotary Club/Batshaw-affiliated at-risk-youth camp, not a YMCA-of-Montreal camp. An American Camp Association message-board thread on camp ghost stories confirmed the same generic archetypes already documented in this wiki, but contained no Canadian or YMCA-specific references at all.",
       "sources": [],
-      "confidence": "disputed",
+      "confidence": "stated",
       "category": "programs",
       "entities": [
         "Camp Kanawana",
@@ -33553,7 +33579,9 @@
         "Camp Perrot"
       ],
       "date_ref": "1958-1964",
-      "conflicts_with": [],
+      "conflicts_with": [
+        "c_045"
+      ],
       "added_version": "v5.07",
       "added_by": "ralph_loop"
     },
@@ -33891,7 +33919,9 @@
         "Order of Owens"
       ],
       "date_ref": "2008-2009",
-      "conflicts_with": [],
+      "conflicts_with": [
+        "c_046"
+      ],
       "added_version": "v5.11",
       "added_by": "manual"
     },
@@ -34855,7 +34885,7 @@
         "src_ia_kanawana_report_1977",
         "src_ia_kanawana_report_1978"
       ],
-      "confidence": "disputed",
+      "confidence": "stated",
       "category": "people",
       "entities": [
         "Derek V. Walsh",
@@ -35113,7 +35143,7 @@
       "fact_id": "f_2067",
       "claim": "CORRECTION: no source establishes that R. L. Charlton appears in Joyce Oliver's 1939-1940 \"Material for Book of Remembrance and History\" (Concordia sub-series 13D). rl-charlton.md asserted this without a citation until 2026-08-14. The KB fact behind that project (f_1913) names D. A. Budge, not Charlton, and records the contents as not yet read. The claim is removed; the project remains a genuine unread founding-era lead.",
       "sources": [],
-      "confidence": "disputed",
+      "confidence": "stated",
       "category": "meta",
       "entities": [
         "R. L. Charlton",
@@ -35136,7 +35166,9 @@
         "Ralph Dawson"
       ],
       "date_ref": null,
-      "conflicts_with": [],
+      "conflicts_with": [
+        "c_047"
+      ],
       "added_version": "v5.22",
       "added_by": "manual",
       "placement": "kb_only",
@@ -35146,7 +35178,7 @@
       "fact_id": "f_2069",
       "claim": "UNCONFIRMED IDENTIFICATION: the \"Advance Guard '63\" dining-hall plaque names a \"Rick Patten\" alongside Julien Tasse, Wally Leemans, Rusty McKay, Buppy Warren, John Clement and Ron Parker. richard-patten.md stated as fact that this is the Ontario MPP Richard Patten (1942-2021) until 2026-08-14. Nothing links them. Against: directors-index.md independently records Patten's camp involvement as the Montreal YMCA DAY camps, not residential Kanawana, and he would have been 21 in 1963. For: \"Rick\" is a standard short form of Richard, the surname is uncommon, and he was a Montreal YMCA figure in that period. Plausible, unproven.",
       "sources": [],
-      "confidence": "disputed",
+      "confidence": "inferred",
       "category": "people",
       "entities": [
         "Richard Patten",
@@ -36006,7 +36038,9 @@
         "Council Ring"
       ],
       "date_ref": "1954",
-      "conflicts_with": [],
+      "conflicts_with": [
+        "c_048"
+      ],
       "added_version": "v5.26",
       "added_by": "ralph_loop"
     },
@@ -36061,7 +36095,9 @@
         "Dining Hall"
       ],
       "date_ref": "1880-1927",
-      "conflicts_with": [],
+      "conflicts_with": [
+        "c_049"
+      ],
       "added_version": "v5.26",
       "added_by": "ralph_loop"
     },
@@ -36512,7 +36548,9 @@
         "Kamp Kanawana"
       ],
       "date_ref": "1940",
-      "conflicts_with": [],
+      "conflicts_with": [
+        "c_050"
+      ],
       "added_version": "v5.30",
       "added_by": "ralph_loop"
     },
@@ -37084,7 +37122,9 @@
         "Camp Jubilee"
       ],
       "date_ref": "1909-1922",
-      "conflicts_with": [],
+      "conflicts_with": [
+        "c_051"
+      ],
       "added_version": "v5.34",
       "added_by": "ralph_loop"
     },
@@ -37379,7 +37419,7 @@
       "sources": [
         "src_ebay_valcartier_ymca_postcard"
       ],
-      "confidence": "disputed",
+      "confidence": "stated",
       "category": "sources",
       "entities": [
         "Camp Valcartier"
@@ -37541,7 +37581,7 @@
       "sources": [
         "src_ymca_125th_2019"
       ],
-      "confidence": "disputed",
+      "confidence": "stated",
       "category": "meta",
       "entities": [
         "Kamp Kanawana"
@@ -37606,7 +37646,7 @@
         "src_ymcaquebec_annualreport_2015",
         "src_ymcakanawana_predecessor_domain_cache"
       ],
-      "confidence": "disputed",
+      "confidence": "stated",
       "category": "meta",
       "entities": [
         "Kamp Kanawana"
@@ -37639,7 +37679,7 @@
         "src_acq_kanawana_listing",
         "src_ymcaquebec_kanawana_history"
       ],
-      "confidence": "disputed",
+      "confidence": "inferred",
       "category": "connections",
       "entities": [
         "Association des camps du Quebec"
@@ -37813,7 +37853,7 @@
         "src_guysborough_journal",
         "src_cbc_archives_pageant"
       ],
-      "confidence": "disputed",
+      "confidence": "stated",
       "category": "connections",
       "entities": [
         "Centennial Voyageur Canoe Pageant"
@@ -37830,7 +37870,7 @@
         "src_cmat_caddell_obituary",
         "src_cja_annual_2008"
       ],
-      "confidence": "disputed",
+      "confidence": "stated",
       "category": "sources",
       "entities": [
         "James Caddell"
@@ -38104,7 +38144,7 @@
         "src_ontario_archives_potter_hill",
         "src_loc_crs_collection"
       ],
-      "confidence": "disputed",
+      "confidence": "stated",
       "category": "meta",
       "entities": [
         "sources.json"
@@ -38252,7 +38292,7 @@
       "sources": [
         "src_banq_le_petit_journal_collection"
       ],
-      "confidence": "disputed",
+      "confidence": "stated",
       "category": "sources",
       "entities": [
         "BAnQ"
@@ -38361,7 +38401,7 @@
         "src_cbc_wong_camps_2021",
         "src_wikipedia_gaetane_verna"
       ],
-      "confidence": "disputed",
+      "confidence": "inferred",
       "category": "people",
       "entities": [
         "Gaetane Verna",
@@ -38574,7 +38614,7 @@
       "sources": [
         "src_concordia_p0145_full_findingaid_pdf"
       ],
-      "confidence": "disputed",
+      "confidence": "stated",
       "category": "documents",
       "entities": [
         "Kamp Kanawana",
@@ -38944,7 +38984,9 @@
         "Camp Jubilee"
       ],
       "date_ref": "1949",
-      "conflicts_with": [],
+      "conflicts_with": [
+        "c_033"
+      ],
       "added_version": "v5.49",
       "added_by": "ralph_loop"
     },
@@ -42824,7 +42866,9 @@
       "sources": [
         "src_ia_canadian_camping_collection"
       ],
-      "conflicts_with": [],
+      "conflicts_with": [
+        "c_052"
+      ],
       "added_version": "6.06",
       "added_by": "reread_extraction"
     },
@@ -43631,7 +43675,9 @@
       "sources": [
         "src_ia_canadian_camping_collection"
       ],
-      "conflicts_with": [],
+      "conflicts_with": [
+        "c_053"
+      ],
       "added_version": "6.06",
       "added_by": "reread_extraction"
     },
@@ -45981,7 +46027,9 @@
       "sources": [
         "src_ia_canadian_camping_collection"
       ],
-      "conflicts_with": [],
+      "conflicts_with": [
+        "c_033"
+      ],
       "added_version": "6.06",
       "added_by": "reread_extraction"
     },
@@ -46148,7 +46196,9 @@
       "sources": [
         "src_ia_canadian_camping_collection"
       ],
-      "conflicts_with": [],
+      "conflicts_with": [
+        "c_041"
+      ],
       "added_version": "6.06",
       "added_by": "reread_extraction"
     },
@@ -46494,7 +46544,9 @@
       "sources": [
         "src_ia_canadian_camping_collection"
       ],
-      "conflicts_with": [],
+      "conflicts_with": [
+        "c_039"
+      ],
       "added_version": "6.06",
       "added_by": "reread_extraction"
     },
@@ -47040,7 +47092,9 @@
       "sources": [
         "src_ia_canadian_camping_collection"
       ],
-      "conflicts_with": [],
+      "conflicts_with": [
+        "c_039"
+      ],
       "added_version": "6.06",
       "added_by": "reread_extraction"
     },
@@ -49046,7 +49100,9 @@
       "sources": [
         "src_ia_canadian_camping_collection"
       ],
-      "conflicts_with": [],
+      "conflicts_with": [
+        "c_033"
+      ],
       "added_version": "6.06",
       "added_by": "reread_extraction"
     },
@@ -49643,7 +49699,9 @@
       "sources": [
         "src_ia_canadian_camping_collection"
       ],
-      "conflicts_with": [],
+      "conflicts_with": [
+        "c_032"
+      ],
       "added_version": "6.06",
       "added_by": "reread_extraction"
     },
@@ -49661,7 +49719,9 @@
       "sources": [
         "src_ia_canadian_camping_collection"
       ],
-      "conflicts_with": [],
+      "conflicts_with": [
+        "c_034"
+      ],
       "added_version": "6.06",
       "added_by": "reread_extraction"
     },
@@ -51126,7 +51186,9 @@
       "sources": [
         "src_ia_canadian_camping_collection"
       ],
-      "conflicts_with": [],
+      "conflicts_with": [
+        "c_033"
+      ],
       "added_version": "6.06",
       "added_by": "reread_extraction"
     },
@@ -51595,7 +51657,9 @@
       "sources": [
         "src_ia_canadian_camping_collection"
       ],
-      "conflicts_with": [],
+      "conflicts_with": [
+        "c_033"
+      ],
       "added_version": "6.06",
       "added_by": "reread_extraction"
     },
@@ -54070,7 +54134,9 @@
       "sources": [
         "src_ia_canadian_camping_collection"
       ],
-      "conflicts_with": [],
+      "conflicts_with": [
+        "c_033"
+      ],
       "added_version": "6.06",
       "added_by": "reread_extraction"
     },
@@ -55294,7 +55360,9 @@
       "sources": [
         "src_ia_canadian_camping_collection"
       ],
-      "conflicts_with": [],
+      "conflicts_with": [
+        "c_034"
+      ],
       "added_version": "6.06",
       "added_by": "reread_extraction"
     },
@@ -56727,7 +56795,9 @@
       "sources": [
         "src_ia_canadian_camping_collection"
       ],
-      "conflicts_with": [],
+      "conflicts_with": [
+        "c_035"
+      ],
       "added_version": "6.06",
       "added_by": "reread_extraction"
     },
@@ -57096,7 +57166,9 @@
       "sources": [
         "src_ia_canadian_camping_collection"
       ],
-      "conflicts_with": [],
+      "conflicts_with": [
+        "c_034"
+      ],
       "added_version": "6.06",
       "added_by": "reread_extraction"
     },
@@ -57433,7 +57505,9 @@
       "sources": [
         "src_ia_canadian_camping_collection"
       ],
-      "conflicts_with": [],
+      "conflicts_with": [
+        "c_030"
+      ],
       "added_version": "6.06",
       "added_by": "reread_extraction"
     },
@@ -57756,7 +57830,9 @@
       "sources": [
         "src_ia_canadian_camping_collection"
       ],
-      "conflicts_with": [],
+      "conflicts_with": [
+        "c_042"
+      ],
       "added_version": "6.06",
       "added_by": "reread_extraction"
     },
@@ -58119,7 +58195,7 @@
       "entities": [
         "Mary S. Edgar"
       ],
-      "confidence": "disputed",
+      "confidence": "stated",
       "claim": "A second Mary S. Edgar Centennial hymn, distinct from \"Canada's Our Country\" of 1967, printed in Spring 1969: \"This Fair Land, Our Canada -- A Centennial Hymn... by Mary S. Edgar,\" sung to Saints' Days and Other Holy Days and \"Accepted by the Canadian Interfaith Committee for the Centennial collection.\" Note a source problem: the hymn is bylined \"By: D. W. Dearle (Anglican Hymn Book)\" at the head and signed \"-- Mary S. Edgar\" at the foot. Most likely Dearle is the tune's composer and Edgar the author, but as printed it is ambiguous.",
       "sources": [
         "src_ia_canadian_camping_collection"
@@ -61185,7 +61261,9 @@
       "sources": [
         "src_ia_canadian_camping_collection"
       ],
-      "conflicts_with": [],
+      "conflicts_with": [
+        "c_056"
+      ],
       "added_version": "6.06",
       "added_by": "reread_extraction"
     },
@@ -61386,7 +61464,9 @@
       "sources": [
         "src_ia_canadian_camping_collection"
       ],
-      "conflicts_with": [],
+      "conflicts_with": [
+        "c_036"
+      ],
       "added_version": "6.06",
       "added_by": "reread_extraction"
     },
@@ -62372,7 +62452,9 @@
       "sources": [
         "src_ia_canadian_camping_collection"
       ],
-      "conflicts_with": [],
+      "conflicts_with": [
+        "c_037"
+      ],
       "added_version": "6.06",
       "added_by": "reread_extraction"
     },
@@ -63477,7 +63559,9 @@
       "sources": [
         "src_ia_canadian_camping_collection"
       ],
-      "conflicts_with": [],
+      "conflicts_with": [
+        "c_038"
+      ],
       "added_version": "6.06",
       "added_by": "reread_extraction"
     },
@@ -65914,7 +65998,9 @@
       "sources": [
         "src_ia_canadian_camping_collection"
       ],
-      "conflicts_with": [],
+      "conflicts_with": [
+        "c_058"
+      ],
       "added_version": "6.06",
       "added_by": "reread_extraction"
     },
@@ -66131,7 +66217,7 @@
         "Camp Kandalore",
         "Ron Johnstone"
       ],
-      "confidence": "disputed",
+      "confidence": "stated",
       "date_ref": "1972-09-28",
       "sources": [
         "src_ia_canadian_camping_collection"
@@ -67318,7 +67404,9 @@
       "sources": [
         "src_ia_canadian_camping_collection"
       ],
-      "conflicts_with": [],
+      "conflicts_with": [
+        "c_057"
+      ],
       "added_version": "6.06",
       "added_by": "reread_extraction"
     },
@@ -71365,7 +71453,9 @@
       "sources": [
         "src_ia_canadian_camping_collection"
       ],
-      "conflicts_with": [],
+      "conflicts_with": [
+        "c_054"
+      ],
       "added_version": "6.06",
       "added_by": "reread_extraction"
     },
@@ -71833,7 +71923,9 @@
       "sources": [
         "src_ia_canadian_camping_collection"
       ],
-      "conflicts_with": [],
+      "conflicts_with": [
+        "c_033"
+      ],
       "added_version": "6.06",
       "added_by": "reread_extraction"
     },
@@ -74161,7 +74253,9 @@
       "sources": [
         "src_ia_canadian_camping_collection"
       ],
-      "conflicts_with": [],
+      "conflicts_with": [
+        "c_035"
+      ],
       "added_version": "6.06",
       "added_by": "reread_extraction"
     },
@@ -75156,7 +75250,9 @@
       "sources": [
         "src_ia_canadian_camping_collection"
       ],
-      "conflicts_with": [],
+      "conflicts_with": [
+        "c_055"
+      ],
       "added_version": "6.06",
       "added_by": "reread_extraction"
     },
@@ -75815,7 +75911,9 @@
       "sources": [
         "src_ia_canadian_camping_collection"
       ],
-      "conflicts_with": [],
+      "conflicts_with": [
+        "c_055"
+      ],
       "added_version": "6.06",
       "added_by": "reread_extraction"
     },
@@ -76753,7 +76851,9 @@
       "sources": [
         "src_ia_canadian_camping_collection"
       ],
-      "conflicts_with": [],
+      "conflicts_with": [
+        "c_041"
+      ],
       "added_version": "6.06",
       "added_by": "reread_extraction"
     },
@@ -81285,7 +81385,9 @@
       "sources": [
         "src_ia_canadian_camping_collection"
       ],
-      "conflicts_with": [],
+      "conflicts_with": [
+        "c_058"
+      ],
       "added_version": "6.06",
       "added_by": "reread_extraction"
     },
@@ -81376,7 +81478,9 @@
       "sources": [
         "src_ia_canadian_camping_collection"
       ],
-      "conflicts_with": [],
+      "conflicts_with": [
+        "c_060"
+      ],
       "added_version": "6.06",
       "added_by": "reread_extraction"
     },
@@ -81917,7 +82021,9 @@
       "sources": [
         "src_ia_canadian_camping_collection"
       ],
-      "conflicts_with": [],
+      "conflicts_with": [
+        "c_033"
+      ],
       "added_version": "6.06",
       "added_by": "reread_extraction"
     },
@@ -82227,7 +82333,9 @@
       "sources": [
         "src_ia_canadian_camping_collection"
       ],
-      "conflicts_with": [],
+      "conflicts_with": [
+        "c_059"
+      ],
       "added_version": "6.06",
       "added_by": "reread_extraction"
     },
@@ -84219,7 +84327,9 @@
         "src_campstephens_alumni_blog"
       ],
       "confidence": "disputed",
-      "conflicts_with": [],
+      "conflicts_with": [
+        "c_061"
+      ],
       "added_version": "6.07",
       "added_by": "web_research"
     },
@@ -84651,7 +84761,9 @@
         "src_ia_canadian_camping_collection"
       ],
       "confidence": "disputed",
-      "conflicts_with": [],
+      "conflicts_with": [
+        "c_062"
+      ],
       "added_version": "6.09",
       "added_by": "web_research"
     },
@@ -85163,7 +85275,7 @@
         "src_ymca_website",
         "src_cache_sgw_ymca_annual_report_1894_1895"
       ],
-      "confidence": "disputed",
+      "confidence": "stated",
       "conflicts_with": [],
       "added_version": "6.13",
       "added_by": "cache_research"
