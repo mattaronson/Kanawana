@@ -1,6 +1,6 @@
 # Camp Oolahwan
 
-*Status: E1-reviewed | Sources: 31*
+*Status: E1-reviewed | Sources: 32*
 *Last Updated: 2026-09-04*
 
 ## Overview
@@ -36,6 +36,8 @@ The same interview adds detail on the Sundridge background and the first Glen Be
 **Three small disagreements with the record above, noted and not decided.** (1) The Gilchrists put her first enrolment at "about 30" — "under 40… but over 30" — against the **38** recorded above from the Trent finding aid. (2) The same issue's "Under Open Skies" feature dates that book to **1955** (Clarke, Irwin & Company) against the **1956** recorded above. (3) It calls her "author of **three** delightful, inspirational books" and the profile headnote lists three, against the **four** established above. Each is a one-item difference between a family recollection printed in 1987 and a fonds description; both are documented sources, and neither is preferred here.^31
 
 **Where Jocelyn Palm came from.** The Gilchrists sold Glen Bernard to **Jocelyn Palm**, later CCA president, and name her route into it: "**Jocelyn came recommended from Dais Gass' Memphremagog**" — the Quebec camp of the woman Adele Ebbs named as the CCA's second president.^31 It is a small thing, but it puts one more thread of the national association's leadership back through Quebec.
+
+**Glen Bernard's first season, from one of its first campers.** **Mary Northway**, whom the Gilchrists name as among Edgar's earliest campers, described 1922 in an OCA banquet speech in 1968 that the magazine reprinted after her death in 1987: "**This was the first year of the camp** — and everything was new to all of us and everything was an adventure. **The camp was divided across age groups into Indian Tribes**… We vied with each other in sports and games and in the challenges at the Council Ring and went out on shore suppers or projects, such as making much needed trails together. **There were three tribes, the Micmacs, the Tuscarora and the Kashigabagamogs. We elected the big girls to be tribal chief and scroll reader**… But I, a little girl, was elected **runner**."^32 That is the earliest first-hand description this project holds of the programme Edgar carried out of Oolahwan, and the tribe names are set out with what they were at [[site/indigenous-names-and-land|Indigenous Names and the Land]]. Northway also drew a lesson from it that explains something about how these camps worked: "**by being given a title one accepts as a privilege duties which one would otherwise do only under pressure, if at all.**"
 
 **Marjorie Booth directed the camp from 1977 — and describes it.** The camp's directors are thinly recorded, and a second is now fixed. **Marjorie Booth**, who became the Canadian Camping Association's first Executive Director, was interviewed in November 1982 and described the job she had held immediately before: she left Camp Glenburn in New Brunswick "in the fall of **1976** and started immediately at the **Montreal Y.W.C.A.**", and "my first summer directing **Oolahwan** was its **sixtieth anniversary**".^30 A sixtieth anniversary places that summer in **1977** and confirms the camp's founding at **1917** from inside the organisation, against the competing 1915 date recorded in this article's research notes.
 
@@ -166,6 +168,7 @@ The name "Oolahwan" may derive from the Lakota word *olówaŋ* meaning "song" or
 29. CCA/ACC *Publications 1982-83* catalogue, bound as an insert to *Canadian Camping* Vol. 34 No. 3 (Autumn 1982), p. 6, with Beth Moon's Publications Committee report in Vol. 34 No. 2 (Summer 1982), p. 12 [src_ia_canadian_camping_collection]. Found by the same read (issues 142 and 144).
 30. "Interview: Marjorie Booth," Jay Haddad's interview at Toronto, 20 November 1982, *Canadian Camping* Vol. 34 No. 4 (Winter 1983), pp. 6-7 and continued p. 10 [src_ia_canadian_camping_collection]. Found by the same read (issue 145). **The scan of this issue is rotated 180 degrees and was machine-read upside down; the text was recovered with `scripts/reread/unrotate.py`, a lossy decoder. Quotations from it are reconstructions and should be verified against a clean copy.**
 31. "Personality Profile — Mary S. Edgar," interview with Barbara and John Gilchrist, pp. 9-15, and the "Under Open Skies" feature devoted to her verse and prose, pp. 17-19 — *Canadian Camping Magazine* Vol. 38 No. 3 (Winter 1987) [src_ia_canadian_camping_collection]. Found by the word-for-word re-read of the digitized run (issue 160).
+32. Mary Northway, "Blue Lake and Rocky Shore," her Ontario Camping Association banquet speech of 1968, reprinted in *Canadian Camping Magazine* Vol. 39 No. 2 (Fall 1987), p. 17 [src_ia_canadian_camping_collection]. Found by the word-for-word re-read of the digitized run (issue 163).
 
 ## Research Notes
 

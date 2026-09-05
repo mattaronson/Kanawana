@@ -1,6 +1,6 @@
 # Kanawana Myths and Legends
 
-*Status: E1-reviewed | Sources: 26*
+*Status: E1-reviewed | Sources: 27*
 *Last Updated: 2026-09-04*
 
 ## Overview
@@ -76,6 +76,20 @@ And of the storytelling bench in her cabin, the Wigwam, where campers came to as
 That is a camp's own successors describing the manufacture of its folklore, in print, naming both the method — legends written for the camp, sited on its own lake, attached to its own invented tribes — and the effect intended: that they "sound the real thing." The speaker is not a critic; he is the nephew who inherited the camp and is paying tribute.
 
 **Nothing here concerns Kanawana, and nothing about Chopsy follows from it.** What it changes is the default. An undated camp legend of this period, with no documentary trace before living memory, need not be either a genuine local survival or a wandering variant of a regional archetype: **deliberate authorship dressed as tradition is a documented practice of the era, by a named and celebrated practitioner, at a camp of the same generation.** That is a third possibility to hold open alongside the two this article already weighs — and it is the one that would leave exactly the evidentiary trace Chopsy leaves, which is none.
+
+### Why camp memory is reconstructed, from a psychologist who was also a camper
+
+The problem this article keeps running into is not that alumni recollection is unreliable in the ordinary way; it is that this project has no account of *how* it goes wrong, and so no principled way to weight it. One exists, from an unusually well-placed source.
+
+**Mary L. Northway** — research psychologist at Toronto's Institute of Child Study, a Glen Bernard camper from 1922, and the person who assembled the OCA and CCA archives at Trent — gave the Ontario Camping Association's banquet speech in 1968, and the national magazine reprinted it in the autumn of 1987, nine months after her death. Her subject was remembering:^27
+
+> "**From the many events going on in the external or internal environment at any one moment, we select from among the millions of possibilities those which our perceptual equipment is capable of receiving and from these, those which have most meaning for or bring most satisfaction to us. In doing so, we stamp them with our own qualities. They become our experience.** Indeed, '**We see things not as they are, but as we are**'. As time passes, our past experience becomes transformed and modified, for **remembering is in essence a creative process**, by which we continually recreate past experiences into novel forms that have importance for us in the present here and now… **It is not what really happened that matters; it is what we have reconstructed out of it and what we make out of it** — what is useful, significant, important or what-have-you to us now."
+
+And on the camp memory in particular: "our return is not to the blue lake and rocky shore as they were; they are to **what we have created from them** as the years moved forward… **Our present campfire is always aglow with all the campfires we have known in the past.**"
+
+**Note what this is and is not.** It is not a warning that people misremember, which needs no authority. It is a claim about mechanism: that recollection is *selected* for present usefulness and then *reconstructed*, by a process indistinguishable from the inside from simple recall. Northway was addressing camp directors about their own camps, and she plainly did not mean it as a debunking — the speech is a celebration.
+
+For this article it cuts in a specific direction. A camp legend transmitted orally for decades will have been reshaped at every telling toward whatever the tellers needed it to be, and **the confidence of a recollection is no evidence at all of its fidelity**. That is not a reason to discard alumni testimony about Chopsy, which remains the only evidence there is. It is a reason to treat a vivid, consistent, deeply-felt memory of the story as evidence that the story mattered — which is worth knowing — rather than as evidence about when it started or what it originally said. It is also the clearest statement of why this project's standing rule, that oral history yields to documents where the two conflict, is not merely an archivist's preference.
 
 ### The Cropsey Legend: The "Maniac in the Woods" Archetype
 
@@ -211,6 +225,7 @@ These Quebec folk traditions are strong candidates for Kanawana campfire storyte
 24. *Canadian Camping* magazine: David Hartry, "Snark Hunting," Vol. 24 No. 1 (Fall 1971); Bob Attfield (Camp Ponacka), "Camp Hoax Costs Director $25,000 in Legal Damages," Vol. 24 No. 3 (Spring 1972), pp. 18-19; Walter Greenway (Camp Ponacka), "Pre-Camp Training, The Critical Period," Vol. 24 No. 3 (Spring 1972). Read in full during the word-for-word pass over the cached 1949-1988 run [src_ia_canadian_camping_collection].
 25. Mary L. Northway (Brora Centre, Toronto), "Camp Counsellors Should Be Camp Counsellors," *Canadian Camping* Vol. 25 No. 4 (Summer 1973), pp. 18-19. Found by the full word-for-word read of the run (`kb/reread/cc_findings.md`, issue 99).
 26. "Personality Profile — Mary S. Edgar," interview with Barbara and John Gilchrist, *Canadian Camping Magazine* Vol. 38 No. 3 (Winter 1987), pp. 9-15 [src_ia_canadian_camping_collection]. Found by the word-for-word re-read of the digitized run (issue 160). Movement context, not a Kanawana document.
+27. Mary Northway, "Blue Lake and Rocky Shore," her Ontario Camping Association banquet speech of 1968, reprinted in *Canadian Camping Magazine* Vol. 39 No. 2 (Fall 1987), p. 17, nine months after her death [src_ia_canadian_camping_collection]. Found by the word-for-word re-read of the digitized run (issue 163).
 
 ## Research Notes
 

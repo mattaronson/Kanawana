@@ -1,6 +1,6 @@
 # Indigenous Place Names and Land History
 
-*Status: R3-verified | Sources: 27*
+*Status: R3-verified | Sources: 28*
 *Last Updated: 2026-09-04*
 
 ## Overview
@@ -67,6 +67,14 @@ The second is a consultation, and it is the only one of its kind this project ha
 **And in the same interview, the invention.** Asked where the camp's Indigenous themes came from, John Gilchrist traces them to Pauline Johnson and says that Johnson's writing "inspired Mary to write legends, **Indian legends of her own, built around Lake Bernard and the tribes of Glen Bernard which, in fact, were make-believe but she made them sound the real thing in her story**."^26 The camp's senior campers were elected as Chiefs, "given reference books to refer to, to learn of the various tribes in North America," and each chose a tribe name, colour scheme, song and yell in the first days of camp.
 
 **Consultation and invention, in one programme, from one person.** Edgar wrote to a Mohawk chief's daughter for the meaning of a name and wrote her own "Indian legends" to sound real; she thanked the Dokis men who saved her father's launch and had her campers elect themselves chiefs of tribes chosen out of reference books. This is what the practice actually looked like from the inside, and it is the nearest documented parallel to Kanawana's own Council of Tribes, elected chiefs and named tribes. It is not evidence about Kanawana. It is the standard against which Kanawana's silence on the question should be read — because Kanawana left scripts and a totem pole and no statement at all, and the camp that left a statement turns out to have been doing both things at once.
+
+**And what the tribes actually were, in the first season, from a camper.** **Mary Northway** was at Glen Bernard in **1922**, its opening year, and described it in an OCA banquet speech in 1968 that the magazine reprinted after her death:^28
+
+> "This was the first year of the camp… **The camp was divided across age groups into Indian Tribes.** Although **I had never seen an Indian and far less knew anything of our historical dealings or misdealings with them, being an Indian seemed a fine idea to me**. We vied with each other in sports and games and in the challenges at the Council Ring… **There were three tribes, the Micmacs, the Tuscarora and the Kashigabagamogs. We elected the big girls to be tribal chief and scroll reader** and to other important positions. But I, a little girl, was elected **runner**."
+
+**Two of the three are real nations from opposite ends of the country — Mi'kmaq of the Maritimes and Tuscarora of the Haudenosaunee Confederacy — and the third is not a nation at all**, an Ojibwe-sounding coinage. That is the practice John Gilchrist described from the outside ("Indian legends of her own… which, in fact, were make-believe but she made them sound the real thing") caught in its first season from the inside: two borrowed nations and one invented one, on the same list, with elected chiefs and scroll readers. It is the nearest documented parallel this project has to Kanawana's own Council of Tribes, whose four chiefs bore names drawn from four widely separated nations.
+
+Northway's aside is worth keeping as well, because it is the only retrospective judgement by a *camper* this read has found: "**I had never seen an Indian and far less knew anything of our historical dealings or misdealings with them.**" She said it in 1968, of 1922, to a room full of camp directors, and it was printed again in 1987 without comment.
 
 **And the ceremony itself has a named author.** In Spring 1973 Jack Eastaugh of the Taylor Statten Camps stated the Council Ring's origin outright: the ceremony was "devised by **Ernest Thompson Seton** in the years following the first great war and refined by **Taylor Statten** who taught the ceremonies to camp leaders in the 20's."^16 Kanawana's own Council Ring script dates from c. 1925-1927 and its totem pole from 1927 — the years Statten was teaching it. Eastaugh also translates the chant that closes Kanawana's script: "Wakonda dhe dhu" is rendered "Father a needy one stands before thee; I who sing am he."^16 The full argument and the comparison it invites are set out at [[site/council-ring|The Council Ring]].
 
@@ -172,6 +180,7 @@ The Kanawana site sits in the municipality of Saint-Sauveur, in the Laurentian h
 25. "Personality Profile: W. E. (Ted) Yard (1919-1983)" — interview with Shirley Yard and Ted Yard Jr., pp. 10-15, and "What's in a Name?", p. 5 — *Canadian Camping Magazine* Vol. 38 No. 2 (Fall 1986) [src_ia_canadian_camping_collection]. Found by the word-for-word re-read of the digitized run (issue 159). The Chinook Jargon derivation of *illahee* is not stated by the magazine and is supplied here.
 26. "Personality Profile — Mary S. Edgar," interview with Barbara and John Gilchrist, *Canadian Camping Magazine* Vol. 38 No. 3 (Winter 1987), pp. 9-15 [src_ia_canadian_camping_collection]. Found by the word-for-word re-read of the digitized run (issue 160).
 27. Wendell White (Director, Camp Quin-Mo-Lac), "A Psalm of Praise," *Canadian Camping Magazine* Vol. 39 No. 1 (Summer 1987), p. 24, printed with "Sweet Grass and Candle" (words by Rev. John W. Oldham, music by R. Henry Kilborn and Oldham, written 26 March 1987) and Rev. David Spivey's psalm [src_ia_canadian_camping_collection]. Found by the word-for-word re-read of the digitized run (issue 162).
+28. Mary Northway, "Blue Lake and Rocky Shore," her Ontario Camping Association banquet speech of 1968, reprinted in *Canadian Camping Magazine* Vol. 39 No. 2 (Fall 1987), p. 17 [src_ia_canadian_camping_collection]. Found by the word-for-word re-read of the digitized run (issue 163).
 
 ## Research Notes
 

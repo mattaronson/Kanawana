@@ -28660,3 +28660,192 @@ fleet**, a fifteen-year-old **kayaking** programme, **Lount Lodge** built by cam
 1980-82, and a standing **international-education programme** with a half-day session in its ten-day
 pre-camp training — the last a YMCA camp doing deliberately what Kanawana's own YMCA did through the
 1967 Centenary Journey.
+
+## 163 — Vol. 39 No. 2, Fall 1987 — ★★★★ A PSYCHOLOGIST ON WHY CAMP MEMORY IS UNRELIABLE, AND A NAMED SET OF TRIBES FROM 1922
+
+Twenty-four pages. Printed contents page checked item by item; every item read: the President's Message
+in both languages; "Camping From Coast To Coast" (Nova Scotia, **Quebec**, Ontario, **the Quebec region
+report**, Atlantic, New Brunswick); the **International Camping Fellowship** page reproducing the
+five-point agreement and the first page of the ICF newsletter; Committee Notes (Fund Raising, **the
+French Language Committee**, Professional Development); **the P.A.R.C. Notebook**; "Between the Covers";
+"Please Note…" (classified advertisements and notices); "What's In A Name?" (Camp Kakhamela);
+"Adventure Training Week"; Martin Hunt's "Prisoner's Base" and Craig Stewart's "Eggos Base"; "What's
+'In' Outdoors" (solar food dryer, the game "Cycles"); "Programmes sur l'environnement"; the Bubby Nash
+notice; **Mary Northway's 1968 OCA banquet speech, "Blue Lake and Rocky Shore"**; **"Jackpot!"**, the
+archives appeal; "Ski For Life" / "Le Ski pour la Vie"; **"Under Open Skies"** with "The Tree of Great
+Peace"; the "Quotes for the Working Camp Director"; the photo appeal, address list and subscription
+notice. **Kanawana is not named.**
+
+**Three holes recorded, two of them in the source and one in the tool.** (a) The editor's own note says
+what is missing and why: "**What it doesn't contain are a number of provincial reports, committee news
+items and our Personality Profile. The postal system blocked the first two and a confounding
+phone/dictaphone blocked a transcontinental interview concerning Lorne Brown.**" **A postal strike is
+therefore the reason several provinces are silent in this issue** — a fact worth having before reading
+any absence in it as significance. (b) **Page 13, carrying Nancy Bramm's prize-winning Bubby Nash
+article**, produced no machine-readable text in the Internet Archive scan; and (c) **page 19, the Camp
+Cheboygan memorabilia spread**, likewise — only the "Jackpot!" text facing it on p. 18 survives. Neither
+has been read. Unlabelled would be the failure; these are labelled.
+
+**★★★★ "IT IS NOT WHAT REALLY HAPPENED THAT MATTERS" — a psychologist's account of camp memory,
+reprinted posthumously.** Nine months after her death the magazine printed **Mary Northway's 1968 Ontario
+Camping Association banquet speech**. Northway was a research psychologist at Toronto's Institute of
+Child Study, a Glen Bernard camper from 1922, and the person who built the OCA and CCA archives at
+Trent. Her subject is remembering:
+
+> "**From the many events going on in the external or internal environment at any one moment, we select
+> from among the millions of possibilities those which our perceptual equipment is capable of receiving
+> and from these, those which have most meaning for or bring most satisfaction to us. In doing so, we
+> stamp them with our own qualities. They become our experience.** Indeed, '**We see things not as they
+> are, but as we are**'. As time passes, our past experience becomes transformed and modified, for
+> **remembering is in essence a creative process**, by which we continually recreate past experiences into
+> novel forms that have importance for us in the present… **It is not what really happened that matters;
+> it is what we have reconstructed out of it and what we make out of it** — what is useful, significant,
+> important or what-have-you to us now."
+
+And on the camp memory specifically: "our return is not to the blue lake and rocky shore as they were;
+they are to what we have created from them… **Our present campfire is always aglow with all the
+campfires we have known in the past.**"
+
+**This is the most directly useful methodological statement the whole run has produced for this
+project.** Everything this wiki holds about Kanawana's traditions before about 1980 that is not on paper
+is alumni recollection, and the standing operator directive already subordinates oral history to
+documents where the two conflict. **What Northway adds is the mechanism** — not that memory decays, but
+that it is actively reconstructed to serve the present, by a process that feels from the inside exactly
+like recall. It comes from a professional student of the question who was also a camper, addressing an
+audience of camp directors about their own camps, in 1968. **Written into `traditions/myths-and-legends.md`**,
+where the Chopsy problem turns entirely on how much weight undocumented recollection can carry.
+
+**★★★ GLEN BERNARD'S FIRST YEAR, FROM A CAMPER WHO WAS THERE — three tribes, named.** In the same speech
+Northway describes the camp's opening season, 1922:
+
+> "**This was the first year of the camp** — and everything was new to all of us and everything was an
+> adventure. **The camp was divided across age groups into Indian Tribes.** Although I had never seen an
+> Indian and far less knew anything of our historical dealings or misdealings with them, **being an
+> Indian seemed a fine idea to me**. We vied with each other in sports and games and in the challenges at
+> the Council Ring and went out on shore suppers or projects… **There were three tribes, the Micmacs, the
+> Tuscarora and the Kashigabagamogs. We elected the big girls to be tribal chief and scroll reader** and
+> to other important positions. But I, a little girl, **was elected runner**. What an honour to be
+> formally titled 'Runner of the Kashigabagamogs!'"
+
+**Two of the three names are real nations from opposite ends of the country — Mi'kmaq of the Maritimes
+and Tuscarora of the Haudenosaunee Confederacy — and the third is not a nation at all**, apparently an
+Ojibwe-sounding coinage. Set beside John Gilchrist's statement at issue 160 that Mary Edgar wrote
+"Indian legends of her own… which, in fact, were make-believe but she made them sound the real thing,"
+this is what that practice looked like in the first season: two borrowed nations and one invented one,
+in the same list, with elected chiefs and scroll readers. **Northway's own aside — "I had never seen an
+Indian and far less knew anything of our historical dealings or misdealings with them" — is a camper's
+retrospective judgement on her own camp, made in 1968 and published in 1987.** Added to
+`site/indigenous-names-and-land.md` and `connections/related-camps/camp-oolahwan.md`.
+
+The speech also contains the sentence the movement most wanted to hear, and it is worth recording as
+the period's own claim rather than as a finding: "**I have seen more, learned at camp with enjoyment
+zest and effectiveness than is learned in a year at school. Now personally I do not want to see more of
+the school in the camp, but I would like to see much more of camp in our schools. Camps are never
+compulsory so they must be captivating.**"
+
+**★★★ THE ACQ's 1987 SEASON, from its own president.** **Henri Chalifoux**, ACQ President — a new name to
+this project, and the Quebec provincial representative in this issue's masthead in place of Colette
+Pouliot-Marier — reports:
+
+- **The camps were full.** "Attendance at our camps was excellent, with the **no-vacancy sign up
+  throughout the summer for most of the province's camps** and many had a long waiting list."
+- **"Over eighty (80) camps were visited this past summer by five consultants. Out of this number ten
+  (10) were trying to gain provincial recognition and become part of the provincial association for the
+  first time."** Against 76 camps visited by three consultants in 1986 (issue 159), that is a larger
+  visitation programme and **ten camps applying for first-time membership in one year** — the ACQ was
+  growing, not shrinking, in the year the national body was passing the hat.
+- **A three-part triennial development plan**: an orientation plan accepted in May 1987; a revision of
+  each programme's specific objectives due before spring; and a finance-committee plan "that will allow
+  self-financing for the camps in future years."
+- **Civil liability insurance**: "the Executive committee is closely working with the provincial
+  government" on *l'assurance responsabilité civile*, "devenu complexe pour les directeurs de camps,
+  depuis quelques années."
+- **A study to identify who actually went to Quebec camps**, funded by the **ministère des Loisirs, de la
+  Chasse et de la Pêche (M.L.C.P.)**, renewing user research done in **1982**.
+
+**That last is a specific, findable document, and it is the closest thing to a demographic survey of
+Quebec camp clientele this project has encountered.** If the 1982 study and its 1987-88 renewal survive,
+they would describe the population Kanawana drew from. Added to `p_319`. *(Note: the magazine's own
+English translation garbles the funder into "two Ministries, the Ministry of Natural Resources and
+Leisure and the Ministry of Fisheries and Hunting"; the French is a single ministry, the M.L.C.P. The
+French text is the one to trust.)*
+
+**★★ EILEEN MAYOTTE AND KEN WILLIS SERVE ON, and the French-language committee is named in full.** The
+Commission des camps d'expression française for 1987-88: "**Carmelle Deveau, Nouveau-Brunswick; Michel
+Gratton, Ontario; Eileen Mayotte, Saskatchewan; Ken Willis, Québec**," chaired by **Colette
+Pouliot-Marier**, who re-accepted the chair in May 1987. **So Eileen Mayotte — the Quebec Camping
+Association's secretary of the 1940s — was still sitting on a national committee in the autumn of
+1987**, which with her Patrons' Fund donation earlier that year makes two independent fixed points for
+her in one year, and **Ken Willis stayed on as the committee's Quebec member after retiring from the
+vice-presidency**. Pouliot-Marier credits Bachand's two years with the INCEF '87 needs analysis and with
+the linguistic policies "dont les recommendations faites au Conseil des présidents furent acceptées" —
+**so the language policy this read has followed since 1974 was formally adopted by the President's
+Council in 1987**. An **INCEF 1988** was planned, to carry "un bilan des Inventaires des camps d'expression
+française réalisés depuis les trois dernières années."
+
+**★★ "EVERY CAMP SHOULD BE ACTIVELY ARCHIVING" — and a route for material that is not Trent's.** The
+"Jackpot!" notice is the clearest statement of the movement's archive practice in the run, and it was
+prompted by this project's own subject matter — the Camp Oconto fire article of the previous winter
+brought in "**a goldmine of material which might otherwise have been lost… from one person who worked on
+staff at one small camp in Ontario for two years in 1936 and 1937.**" The lesson drawn:
+
+> "We must recognize that **today's snapshots, camp brochures, crests, cards and programs are tomorrow's
+> priceless archives. Every camp should be actively archiving. Every camping association should be
+> actively archiving as well. Without gathering our histories together, in a safe organized way we are
+> all losers.**"
+
+And the routing, which matters practically: the magazine would publish suitable material "**before
+forwarding it to the Canadian Camping Association Archives at Trent University or to the appropriate
+provincial camping association archives in the camp's home province**." **That is a third statement in
+three issues that provincial associations held their own archives** — so Quebec material sent to the
+magazine in 1986-88 may have gone to the ACQ rather than to Trent. Added to `p_319` and written into
+`canadian-camping-movement.md`.
+
+**★★ PARC's FIRST SIX MONTHS, and a survey whose results land in the final issue.** Aniko Varpalotai
+reports that "**an assessment of the current status and needs of physical activity programs at Canadian
+camps has now been completed**," with "a very high proportion of the questionnaires returned" despite
+their length, and promises "a summary report of survey results **in the next issue**" — that is, in issue
+164, the last the magazine published. She visited camps in Ontario, Manitoba and Alberta. She also
+answers Ken Willis's objection from the previous issue directly: many camping people "echoed the
+concerns expressed by Ken Willis… **The fear that camps will be turned into aerobic exercise clubs or
+competitive sports centres is not without foundation** given the image of physical activity in the
+media," but **Fitness Canada's 1988-89 mandate "has embraced the concept of holistic fitness which
+'includes the integration of physical, mental, emotional, spiritual and social elements'**." A national
+PARC Advisory Committee under **Diane Blair**, with a representative from each region and each type of
+camp, was to meet twice yearly.
+
+**★ THE ICF NEWSLETTER EXISTS, and its first issue is described.** Volume 1 Number 1 of the International
+Camping Fellowship newsletter came off the ACA presses in the autumn of 1987, edited by **Armand Ball**,
+with articles on camping in **Australia, Ghana, India, Belgium, Japan, Venezuela, the United Kingdom,
+Europe, Latin America, the USA and Canada**; a year's subscription in Canada cost **$7.00** from ICF/ACA,
+5000 State Road 67N, Martinsville, Indiana 46151. The Washington meetings are given here as **25
+delegates**; the planning group was chaired by **Terry Lucas of Venezuela**; the agreement is dated **12
+March**; **Jack Pearse was appointed "International Representative for the Canadian Camping Association"**
+and hosted Adamson and Chamberlain at Camp Tawingo on **9-10 July 1987** to plan next steps.
+
+**★ THE BOARD STRUCTURE CHANGES AGAIN — five regions.** The vice-presidencies are now **Atlantic (Ian
+Fowler), Pacific (Jan James), Prairie (Jennifer Perron, Winnipeg), Quebec (Gérard Bachand) and Ontario
+(Sally Moore)** — the West split in two, and Quebec's separate seat retained. **Jack Pearse** adds
+International Liaison to Fund Raising. Fund-raising was recommended at the Quebec City meeting to become
+the Finance Committee's responsibility. Ontario's members gave **over $2,700 to the Patrons' Fund within
+two weeks** of Jane McCutcheon's September appeal, and **Dorothy Walter** agreed to organise a major
+fund-raising event with a high-profile speaker for **March 1988**.
+
+**★ SMALLER THINGS, recorded and not carried into articles.** **"The Tree of Great Peace"**, the account of
+the founding of the Haudenosaunee Confederacy by Deganawidah and Hiawatha, appears in "Under Open Skies"
+signed "**Negwnta-la-ay-ha / Red Dog**" — the only Indigenous byline this read has found in the run, and
+a marked contrast with the camper-persona gift speeches printed anonymously at issue 159. The same
+column reprints **Mary S. Edgar's "Fire"** from *Wood-Fire and Candle-Light*. A classified advertisement
+under "Please Note…" reads: "**YOUNG INVESTOR — Young investor with 5 years experience as supervisor in
+summer camps interested in investing in a summer camp with intentions of long term acquisition. Please
+contact: Alan Leibovitch, 4635 Clanranald, Apt. 215, Montreal, Quebec H3X 2R8**" — a Montreal name
+seeking to buy a camp in 1987, recorded here in full per the operator's record-everything directive;
+**the street address is deliberately not carried into any wiki article**, being a private individual's
+home. A **Camp Directors' Institute at Bolton, Ontario, 9-12 November 1989** was announced. **Camp
+Kakhamela** (Canadian Diabetes Association, Lake Cowichan, BC, founded 1962) is glossed as the local
+Indigenous rendering of the name of its founder **Dr. John Hunt**. Nova Scotia's association got a
+**Section 38 grant** and hired **Joanne Jefferson** for a summer visitation programme and a new directory.
+**Spread a Little Sunshine**, the eleventh Camp Tawingo Publications title, appeared, containing "We Can
+Make A Difference." Newfoundland's association moved its address from St. John's to **Corner Brook** under
+Judy May. The **Manitoba** association moved to 1495 St. Matthews Ave., Winnipeg. Rates are $10.00 a year
+and $3.00 an issue; the copyright line still reads 1986.
