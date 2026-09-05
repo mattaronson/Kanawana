@@ -10304,9 +10304,15 @@
           "at": "2026-09-05T16:53:19Z",
           "by": "auto",
           "task": "WRITE"
+        },
+        {
+          "status": "draft",
+          "at": "2026-09-05T00:00:00Z",
+          "by": "auto",
+          "task": "RESEARCH"
         }
       ],
-      "ralph_loops_completed": 1,
+      "ralph_loops_completed": 2,
       "kb_facts_used": [
         "f_0193",
         "f_0194",
@@ -10365,7 +10371,9 @@
         "f_4793",
         "f_4794",
         "f_4795",
-        "f_4796"
+        "f_4796",
+        "f_4841",
+        "f_4842"
       ],
       "sources_cited": [
         "src_cache_sgw_ymca_annual_report_1894_1895",
@@ -10380,6 +10388,7 @@
         "src_oral_aronson_lv_trophy_gaps_2026",
         "src_photo_lv_annual_trophy",
         "src_rky_camp",
+        "src_rooted_beausoleil_ch5",
         "src_wikipedia_big_cove_sections",
         "src_ymca_ontario_camp_enumeration",
         "src_ymca_simcoe_kitchikewana",
@@ -10399,7 +10408,7 @@
         "connections/institutional-lineage/canadian-camping-movement"
       ],
       "file_id": null,
-      "word_count": 4770
+      "word_count": 5026
     }
   ],
   "article_count": 104

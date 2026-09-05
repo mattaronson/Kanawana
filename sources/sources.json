@@ -28031,20 +28031,20 @@
     {
       "source_id": "src_knowhistory_beausoleil",
       "type": "web",
-      "title": "Know History, 'Rooted: Beausoleil Island', Chapter 5: Camp Kitchikewana",
+      "title": "Rooted: Beausoleil Island -- an eight-chapter Know History PODCAST (not a written study), 2021",
       "date": "2026",
       "date_precision": "year",
       "origin": "web",
-      "origin_url": "https://www.knowhistory.ca/resources/rooted-beausoleil-island/chapter-5-camp-kitchikewana",
+      "origin_url": "https://www.knowhistory.ca/news/rooted-beausoleil-island/",
       "cache_path": null,
       "char_count": 0,
       "ingested_at": "2026-09-05T17:11:06Z",
       "extracted": true,
-      "extraction_version": "p_408",
+      "extraction_version": "6.29",
       "reliability": "secondary",
-      "read_state": "unavailable",
-      "read_state_basis": "HTTP 403 to the fetch tool; not read. Identified as the most likely published source for the camp's detailed history and the origin of its Lumberman and Voyageur Games.",
-      "notes": "A commissioned historical study of Beausoleil Island with a chapter on the camp. NOT READ -- see read_state."
+      "read_state": "read",
+      "read_state_basis": "medium corrected and chapter 5 heard by machine transcript, 2026-09-05 (p_408). The URL this project held, /resources/rooted-beausoleil-island/chapter-5-camp-kitchikewana, returns 404 to a plain request with a browser user-agent; the working page is /news/rooted-beausoleil-island/ and the episodes are on Buzzsprout",
+      "notes": "CORRECTED 2026-09-05. This was recorded as 'a commissioned historical study of Beausoleil Island with a chapter on the camp', NOT READ, blocked at HTTP 403. It is not a study. It is an audio podcast in eight chapters, published 18 October 2021 on Buzzsprout, hosted by Liz Edwards, with soundscapes and interviews -- 'an auditory experience that explores the history of Beausoleil Island using soundscapes, storytelling, interviews, and historic texts'. There is nothing to read. The 403 was real and was a fact about the fetch tool; a plain request with a browser user-agent gets 404 on that path and 200 on the site, which is how the medium was discovered. Feed: https://rss.buzzsprout.com/1866499.rss"
     },
     {
       "source_id": "src_rky_camp",
@@ -28387,7 +28387,25 @@
       "read_state": "read",
       "read_state_basis": "fetched and read in full 2026-09-05 (c_061)",
       "notes": "The full script of the anniversary chapel service, a dramatised history in which named alumni read first-person 'voices' of figures from the camp's past, linked by a narrator's chronology. It is a commemorative performance, not a history, and its dates contradict one another in places -- but the narrator's chronology is the camp community's own account of itself and it is specific. Carries the 1918 closure, the 1911 first boys' camp, and an 1898 founding date for the Bible Institute that its own 125th anniversary contradicts."
+    },
+    {
+      "source_id": "src_rooted_beausoleil_ch5",
+      "type": "oral_history",
+      "title": "\"Chapter 5: Camp Kitchikewana\", Rooted: Beausoleil Island (Know History podcast), 18 October 2021, 12m10s",
+      "date": "2021-10-18",
+      "date_precision": "exact",
+      "origin": "web",
+      "origin_url": "https://www.buzzsprout.com/1866499/episodes/9324020-chapter-5-camp-kitchikewana.mp3",
+      "cache_path": "sources/cache/podcasts/rooted-beausoleil-ch5-machine-transcript.txt",
+      "char_count": 11519,
+      "ingested_at": "2026-09-05T00:00:00Z",
+      "extracted": true,
+      "extraction_version": "6.29",
+      "reliability": "secondary",
+      "read_state": "read",
+      "read_state_basis": "audio downloaded and transcribed by machine in this project's session on 2026-09-05, because no transcript is published; never checked against the recording by ear",
+      "notes": "Interviews former Kitchikewana camper and director Brian Shelley and Georgian Bay Islands interpreter Shawn Corbiere; hosted by Liz Edwards. Mostly archaeology and the camp's partnership with Parks Canada. THE CACHED TEXT IS A MACHINE TRANSCRIPT (faster-whisper small, int8) and its header says so; proper nouns are mangled throughout. Cite it as evidence about the audio filtered through a model."
     }
   ],
-  "source_count": 1577
+  "source_count": 1578
 }

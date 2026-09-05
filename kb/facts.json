@@ -1,8 +1,8 @@
 {
-  "version": "6.28",
-  "kb_version": "6.28",
+  "version": "6.29",
+  "kb_version": "6.29",
   "migrated_from": "3.3",
-  "fact_count": 4802,
+  "fact_count": 4804,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -84748,7 +84748,7 @@
     },
     {
       "fact_id": "f_4768",
-      "claim": "A DATE CONFLICT ON KITCHIKEWANA'S FOUNDING, CARRIED IN THIS PROJECT'S OWN RECORDS. The camp and this KB give 1919, but C. R. \"Blackie\" Blackstock's 1979 obituary and the 1984 Ebbs tribute both describe him as a Kitchikewana \"original\" who \"started the first year of that 'Y' camp on Beausoleil Island in 1921 as a very young counsellor\" under Ernie Thurlow. Two years apart, and the 1921 version comes from a man who says he was there. Not resolved here.",
+      "claim": "A DATE CONFLICT ON KITCHIKEWANA'S FOUNDING, CARRIED IN THIS PROJECT'S OWN RECORDS. The camp and this KB give 1919, but C. R. \"Blackie\" Blackstock's 1979 obituary and the 1984 Ebbs tribute both describe him as a Kitchikewana \"original\" who \"started the first year of that 'Y' camp on Beausoleil Island in 1921 as a very young counsellor\" under Ernie Thurlow. Two years apart, and the 1921 version comes from a man who says he was there. Not resolved here. [EXTENDED 2026-09-05: a third statement of 1919 is on record, the Rooted podcast's 'In 2019, Camp Kitchikewana celebrated its 100th anniversary' (f_4842). It is not independent of the camp, which took part in the programme, so the conflict with the 1921 of Blackstock's obituary and the Ebbs tribute stands.]",
       "category": "camping_movement",
       "entities": [
         "YMCA Camp Kitchikewana",
@@ -84769,7 +84769,7 @@
     },
     {
       "fact_id": "f_4769",
-      "claim": "EXPLICIT NULL: when the Lumberman and Voyageur Games began at Camp Kitchikewana, and whether they arrived from Camp Pine Crest, travelled to it, or developed independently, is not stated on the camp's own pages or on any surface searched. The camp's founding in 1919 predates Pine Crest's Games (1940) by twenty-one years, so Kitchikewana cannot be ruled out as an earlier or parallel source of the tradition on present evidence. Know History's commissioned study \"Rooted: Beausoleil Island\" has a chapter on the camp and is the most likely published source; it returns HTTP 403 to this project's fetch tool and has not been read.",
+      "claim": "EXPLICIT NULL: when the Lumberman and Voyageur Games began at Camp Kitchikewana, and whether they arrived from Camp Pine Crest, travelled to it, or developed independently, is not stated on the camp's own pages or on any surface searched. The camp's founding in 1919 predates Pine Crest's Games (1940) by twenty-one years, so Kitchikewana cannot be ruled out as an earlier or parallel source of the tradition on present evidence. Know History's commissioned study \"Rooted: Beausoleil Island\" has a chapter on the camp and is the most likely published source; it returns HTTP 403 to this project's fetch tool and has not been read. [EXTENDED 2026-09-05: the Know History source named here as unread has now been heard -- it is a podcast, not a study, and its Camp Kitchikewana chapter says nothing about the Games (f_4841). The null therefore now covers the source that was expected to break it.]",
       "category": "methodology",
       "entities": [
         "YMCA Camp Kitchikewana",
@@ -86085,6 +86085,46 @@
         "f_4748"
       ],
       "added_version": "6.28",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_4841",
+      "claim": "THE KNOW HISTORY 'CHAPTER' IS AN AUDIO PODCAST, AND IT HAS NOW BEEN HEARD: EXPLICIT NULL ON THE L&V GAMES. p_408 recorded 'Rooted: Beausoleil Island' as a commissioned historical STUDY with a chapter on Camp Kitchikewana, unread because the page returned HTTP 403. It is not a study. It is an eight-chapter AUDIO PODCAST published on 18 October 2021, hosted by Liz Edwards -- 'an auditory experience... using soundscapes, storytelling, interviews, and historic texts'. There was never anything to read. Chapter 5, 12 minutes 10 seconds, was downloaded and transcribed by machine in this project's session (no transcript is published) and read in full: it is about the archaeology of the camp's sandy point, the camp's partnership with Parks Canada, and what the place did for one former camper and director, Brian Shelley. IT SAYS NOTHING ABOUT THE LUMBERMAN AND VOYAGEUR GAMES. The words lumberman, voyageur, games, competition, team, colour war, Kanawana and Pine Crest do not occur in the 1,412-word transcript in any spelling variant searched. Caveat carried with the null: this is a machine transcript never checked against the recording by ear, and the model mangles proper nouns throughout ('Kichikawana', 'Boasley', 'Muscoca'). The route to the direction of travel of the Games remains p_404, the Pine Crest centennial history.",
+      "sources": [
+        "src_rooted_beausoleil_ch5",
+        "src_knowhistory_beausoleil"
+      ],
+      "confidence": "stated",
+      "category": "camp_history",
+      "entities": [
+        "Camp Kitchikewana",
+        "Know History",
+        "Brian Shelley",
+        "Lumberman and Voyageur Games",
+        "Beausoleil Island"
+      ],
+      "date_ref": "2021",
+      "conflicts_with": [],
+      "added_version": "6.29",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_4842",
+      "claim": "A THIRD SOURCE FOR KITCHIKEWANA'S 1919, THOUGH NOT AN INDEPENDENT ONE. The Rooted podcast's chapter 5 states twice that the camp dates from 1919: 'In 2019, Camp Kitchikewana celebrated its 100th anniversary, while Georgian Bay Islands was only in its 90th year' and 'Since 1919, campers have gathered together on Kitchikewana sands'. That is a professional history firm and a national-park podcast repeating 1919, against C. R. Blackstock's 1979 obituary and the 1984 Ebbs tribute, which both make him an 'original' who started in the camp's first year in 1921 (f_4768). It does not settle the conflict: the programme was made with the camp's own participation and its 1919 most likely descends from the same institutional memory as the camp's website. The chapter also dates Georgian Bay Islands National Park to 1929 by the same arithmetic, gives the camp as four two-week sessions for ages 6 to 16 under the YMCA of Simcoe/Muskoka, and calls Camp Queen Elizabeth 'founded in 1953 and run by the YMCA of London Middlesex' -- a different name for the body this project records as the YMCA of Southwestern Ontario.",
+      "sources": [
+        "src_rooted_beausoleil_ch5"
+      ],
+      "confidence": "stated",
+      "category": "camp_history",
+      "entities": [
+        "Camp Kitchikewana",
+        "Georgian Bay Islands National Park",
+        "Camp Queen Elizabeth",
+        "YMCA of Simcoe/Muskoka"
+      ],
+      "date_ref": "1919",
+      "conflicts_with": [],
+      "added_version": "6.29",
       "added_by": "ralph_loop"
     }
   ]
