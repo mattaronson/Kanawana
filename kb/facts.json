@@ -2,7 +2,7 @@
   "version": "6.06",
   "kb_version": "6.06",
   "migrated_from": "3.3",
-  "fact_count": 4014,
+  "fact_count": 4058,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -71287,6 +71287,808 @@
         "Canadian Camping Association"
       ],
       "date_ref": "1979-02-07",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4053",
+      "issue": 123,
+      "claim": "Paul Potter's report on the Nova Scotia Camping Association's 1978 summer project records a real Canadian camp songbook: \"May and June also saw the development of a song book. Although some camps had been working on their own song book, none was large enough to hold all of the songs from every camp. Therefore a provincial song book with more than five hundred songs was published. Since its publication, the book has been in constant demand and may soon require a second printing. The cost is $3.00 and it is available from: Nova Scotia Camping Association, Box 696, Halifax, Nova Scotia B3J 3H5.\"",
+      "category": "traditions",
+      "entities": [
+        "Paul Potter",
+        "Nova Scotia Camping Association"
+      ],
+      "date_ref": "1978",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4054",
+      "issue": 123,
+      "claim": "A five-hundred-song collection compiled from the repertoires of every camp in a province is the best available comparator for deciding which Kanawana songs are house compositions and which are movement-wide — the question the camp-songs-and-cheers article cannot currently answer.",
+      "category": "traditions",
+      "entities": [
+        "Nova Scotia Camping Association",
+        "Camp Kanawana"
+      ],
+      "confidence": "inferred",
+      "date_ref": "1979",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4055",
+      "issue": 123,
+      "claim": "The Canadian Camping Association's own self-description in February 1979: \"It began in 1936 and became incorporated in 1949. At present, there are member associations in all provinces except Prince Edward Island.\" The association reads its two dates as founding and incorporation rather than as rival founding dates.",
+      "category": "camping_movement",
+      "entities": [
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1979-02",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4056",
+      "issue": 123,
+      "claim": "This project's own sources disagree by one day on the CCA's Letters Patent: canadian-camping-movement.md source 8c gives 4 November 1949, while the association's own 1976 directory gives 5 November 1949. A transcription slip on one side or the other, flagged rather than silently harmonised.",
+      "category": "methodology",
+      "entities": [
+        "Canadian Camping Association"
+      ],
+      "confidence": "disputed",
+      "date_ref": "1949-11",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4057",
+      "issue": 123,
+      "claim": "The Canadian Camping Association's stated purposes in February 1979: to further camping \"as an educative, character building and constructive recreational experience\"; to liaise between provincial associations and act for them internationally; \"to speak for organized camping on a national level and to represent their collective interests with the Government of Canada\"; to encourage high standards \"and the implementation and maintenance thereof through the provincial and territorial camping associations\"; to study, interpret and disseminate; to run national training and conferences; to publish; \"to further research into camping and to publish the results of such research\"; and to encourage audio-visual material.",
+      "category": "camping_movement",
+      "entities": [
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1979-02",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4058",
+      "issue": 123,
+      "claim": "The Canadian Camping Association's membership rule, stated in February 1979: \"Any camp or individual members in good standing of a federated Provincial and/or Territorial Camping Association are automatically members of the Canadian Camping Association.\" That is why Kanawana was a CCA member without ever having applied to be one. The facing page states: \"All C.C.A. program and projects are made possible by financial contributions from the Fitness and Amateur Sport Branch of the Ministry of National Health and Welfare.\"",
+      "category": "camping_movement",
+      "entities": [
+        "Canadian Camping Association",
+        "Camp Kanawana"
+      ],
+      "date_ref": "1979-02",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4059",
+      "issue": 123,
+      "claim": "Paul Potter's account of the Nova Scotia association's 1978 summer, funded by a Secretary of State grant with three staff from 8 May: they turned the provincial standards for resident youth camps into a checklist format \"to make them more useful during the actual visitations\"; ran the annual training programme for fifty counsellors and directors; ran the first Provincial Woodsmanship School in June for thirty people; produced the songbook; and visited forty-six camps between 6 July and the end of summer. On how the visits were received: \"In most cases, the visitors were met with hesitation, mainly because they were felt to be inspectors. After some time talking and sharing ideas, the camps showed great interest in the project and the N.S.C.A. They left most camps wishing that more time was available.\"",
+      "category": "archives",
+      "entities": [
+        "Paul Potter",
+        "Nova Scotia Camping Association"
+      ],
+      "date_ref": "1978",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4060",
+      "issue": 123,
+      "claim": "The Quebec camping calendar for 1979 includes \"1-9 March, ACQ-QCA Semaine des camps\" — Camp Week for a third consecutive year, now nine days — along with ACQ Formateur multiplicateur modules on 6-8 February and 9-11 March, a Seminaire des directeurs on 27-29 April with the theme \"La communication,\" the ACQ-QCA annual meeting on 10 May, and a session for moniteurs on 25-26 May. The QCA English Section's own monthly executive meetings drop out of the printed calendar this year.",
+      "category": "camping_movement",
+      "entities": [
+        "Quebec Camping Association",
+        "Association des camps du Quebec"
+      ],
+      "date_ref": "1979",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4061",
+      "issue": 124,
+      "claim": "Kevin Redmond's \"No Trace Camping\" (Canadian Camping, March 1979) brings leave-no-trace ethics into Canadian camping, aimed squarely at camp tripping practice and at the camping tradition itself: \"Beware of the traditions — axes, saws, elaborate latrines, garbage pits and material shelters, all of which can be found in camping texts.\" Its creed: \"I believe that man can travel through the wilderness and leave no trace. I will keep my groups small. I will not cut down trees or branches. I will not build fires or if I do I will keep them small and scatter their remains... I will LEAVE NO TRACE.\" Its test: \"Will the next traveller, be he a couple of hours or years away, know that you have been there?\"",
+      "category": "canoe_trips",
+      "entities": [
+        "Kevin Redmond"
+      ],
+      "date_ref": "1979-03",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4062",
+      "issue": 124,
+      "claim": "Kevin Redmond's 1979 specifics: \"Large groups do not belong in the wilderness. The organization of trips with more than 20 people is bound to leave its mark on the ecology... it is difficult to imagine how more than 10 people could spend a night in an undeveloped spot and leave no trace\"; fires never on the forest floor, on mineral dirt or rock or with the thin forest floor lifted and saved for replacement, kept small enough that \"any wood small enough to break with your hands will be suitable\"; and because \"charcoal is pure carbon and will last forever, wood ashes on the other hand will dissolve in the soil with the next rain,\" stop adding wood and scrape the embers together to burn out. Human waste fifty feet from water in a hole 8 by 10 inches and \"not more than 6\" to 8\" deep, to stay within the biological disposer layer of soil.\"",
+      "category": "canoe_trips",
+      "entities": [
+        "Kevin Redmond"
+      ],
+      "date_ref": "1979-03",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4063",
+      "issue": 124,
+      "claim": "Between 1975 and 1979 a Quebec camp running wilderness trips was told by federal regulation, by its association's editorials and by its association's published ethics to change how it travelled. Kanawana's later environmental commitments arrive in a movement where this argument had already been made in print.",
+      "category": "canoe_trips",
+      "entities": [
+        "Camp Kanawana",
+        "Canadian Camping Association"
+      ],
+      "confidence": "inferred",
+      "date_ref": "1979",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4064",
+      "issue": 124,
+      "claim": "The Canadian Camping Association's committee, project and task force chairmen for 1978-79: Archives, Helen Stewart (succeeding Adele Ebbs); Federal Government Relationships, Jack Pearse; French Language, Rosaire Corbin; Immigration, Barry Lowes; Leadership Training, Jean Funk; Liaison with National Agencies, Larry Bagnell; Membership Promotion, Eileen Mayotte; National and International Conferences, John Latimer; Newsletter, Brian Blackstock; Oral History, Jay Haddad; Professional Development, Linda Arnold; Publications, Fred Okada; Public Relations and Promotion, DEREK WALSH; Skill Schools, Jim Winter; Woodsmanship, Kirk Wipper.",
+      "category": "camping_movement",
+      "entities": [
+        "Helen Stewart",
+        "Adele Ebbs",
+        "Derek Walsh",
+        "Jay Haddad",
+        "Eileen Mayotte",
+        "Kirk Wipper",
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1979-03",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4065",
+      "issue": 124,
+      "claim": "Derek Walsh chaired the Canadian Camping Association's Public Relations and Promotion Committee for a second consecutive year in 1978-79, from the association's own lists, and remained the only Quebec name on the slate. With the 1980 committee list and the 1983 award citation, his tenure in that office is continuous from 1977 to at least 1983.",
+      "category": "people",
+      "entities": [
+        "Derek Walsh",
+        "Canadian Camping Association"
+      ],
+      "confidence": "inferred",
+      "date_ref": "1979-03",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4066",
+      "issue": 124,
+      "claim": "The Canadian Camping Association's Woodsmanship Leaders' School had been operating for four years by March 1979 — so from about 1975 — funded by Fitness and Amateur Sport, and was publishing an Instructor's Manual in both French and English. Its Skill School Project planned instructors' schools in \"Social Recreation (songleading, storytelling, campfire program, games leadership), Pioneer and Native Crafts, Fitness at Camp, Camp Administration, Program Planning and Nature Awareness,\" with the aim \"to decentralize all the schools, once competent leaders have been trained to a national set of standards.\" A national songleading school was therefore planned in 1979.",
+      "category": "camping_movement",
+      "entities": [
+        "Canadian Camping Association",
+        "Kirk Wipper"
+      ],
+      "date_ref": "1979-03",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4067",
+      "issue": 124,
+      "claim": "The Canadian Camping Association reported in March 1979 that \"The content of each Conference is gathered together and each of these reports may be obtained through the Publications Committee at the National Office,\" naming the French Language Camping Conference of 1976 and the Outdoor Education Conference of 1974 — two conference reports, one of them the first French-language camping conference in Canada, existing as purchasable documents in 1979.",
+      "category": "sources",
+      "entities": [
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1979-03",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4068",
+      "issue": 124,
+      "claim": "Bob Slingerland's advice on senior campers (March 1979) characterises them as feeling \"that with maturity they should be getting more privileges and responsibilities as well as free time and opportunities to be lazy and to be alone to think... they appreciate privacy and the value of a few close friends, and are sensitive to criticism.\" His levers were atmosphere, a programme set a week in advance, and an optional evening programme followed by a campfire in which non-participants \"would have to make other arrangements to constructively use their time\" and 75-80% joined anyway. His section avoided swimming until the counsellors swam in the class themselves, after which \"swimming became rather popular even in August... possibly because the campers got a chance to show up their counsellors.\"",
+      "category": "programs",
+      "entities": [
+        "Bob Slingerland"
+      ],
+      "date_ref": "1979-03",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4069",
+      "issue": 124,
+      "claim": "Alice Bullwinkle and Howard Galloway's Finding Summer Staff (1979), reviewed in Canadian Camping in March 1979, \"for the first time... Canadian listings are included\" and carries \"specimen forms for use in staff selection... a job application form, an interest and training-need inventory form, a form for obtaining useful information from persons listed as references, and staff employment agreement\" — another instrument in the camp staff-records cycle.",
+      "category": "staff",
+      "entities": [
+        "Alice Bullwinkle",
+        "Howard Galloway"
+      ],
+      "date_ref": "1979",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4070",
+      "issue": 125,
+      "claim": "C. R. Blackstock's obituary (Canadian Camping, May 1979) dates his Camp Pine Crest directorship: \"In 1936 he directed Bolton Camp and for some years after that was the inspired and creative director of Camp Pinecrest,\" with Camp Mazinaw beginning in 1940. So he ran Pine Crest for roughly 1937 to 1940 — the window in which the Pine Crest Games began. No source says he authored the Games; what this establishes is that the man directing Pine Crest when Lumbermen-versus-Voyageurs started had national reach, which is why a format begun there could travel to a Montreal YMCA camp seven years later.",
+      "category": "biography",
+      "entities": [
+        "C. R. Blackstock",
+        "Camp Pine Crest",
+        "Camp Mazinaw",
+        "Camp Kanawana"
+      ],
+      "date_ref": "1979-05",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4071",
+      "issue": 125,
+      "claim": "C. R. Blackstock's 1979 obituary gives a full chronology: a Camp Kitchikewana \"original\" who \"started the first year of that 'Y' camp on Beausoleil Island in 1921 as a very young counsellor\" under director Ernie Thurlow; at Pickering College in 1928 \"during the same period as the late Taylor Statten\"; waterfront director at Camp Ahmek in 1930 and 1931; later full-time staff of the Canadian Red Cross Society as Director of Water Safety; Head Master of the Junior School and Director of Athletics at Pickering College, where he began \"the first winter school-camping for a number of seasons at Limberlost Lodge\"; a B.Sc. from McGill; an honorary LL.D. from York University in 1974; Camp Mazinaw established 1940; executive secretary of CAHPER; a Founding Fellow of the Society of Camp Directors; and Honorary Life Member of the OCA.",
+      "category": "biography",
+      "entities": [
+        "C. R. Blackstock",
+        "Camp Kitchikewana",
+        "Camp Ahmek",
+        "Pickering College",
+        "McGill University",
+        "Canadian Red Cross"
+      ],
+      "date_ref": "1979-05",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4072",
+      "issue": 125,
+      "claim": "C. R. Blackstock had Fred Hagan carve over the fireplace in the lodge at Camp Mazinaw: \"May Wakonda whose messenger is the Thunderbird, smile upon His children and send down the sacred fire from Heaven.\" His obituary explains it: \"Council Ring and Indian Lore is a part of Mazinaw because Blackie had a 'feeling' for our native people.\"",
+      "category": "traditions",
+      "entities": [
+        "C. R. Blackstock",
+        "Camp Mazinaw",
+        "Fred Hagan"
+      ],
+      "date_ref": "1979-05",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4073",
+      "issue": 125,
+      "claim": "Three Canadian camps used the same borrowed deity name across sixty years: Kanawana's council ring script ends \"Wakonda, dhe-dhu, wapdhin atonhe\"; Jack Eastaugh remembered the Taylor Statten camps closing council ring with \"Wakonda dhe dhu\"; and C. R. Blackstock — Camp Ahmek's waterfront director in 1930-31 — had the name carved into the fireplace at Camp Mazinaw. The transmission route is the one Eastaugh describes, from Seton through Statten's camps into the leaders trained there.",
+      "category": "traditions",
+      "entities": [
+        "Camp Kanawana",
+        "Camp Mazinaw",
+        "Camp Ahmek",
+        "Jack Eastaugh",
+        "C. R. Blackstock",
+        "Ernest Thompson Seton"
+      ],
+      "confidence": "inferred",
+      "date_ref": "1979",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4074",
+      "issue": 125,
+      "claim": "C. R. Blackstock's obituary records that \"He gave input to the current research being done by the Society of Camp Directors, of which he was a Founding Fellow, when he alleged that canoe trippers should be trained to handle risk and to anticipate it.\" So within months of the 1978 Quebec wilderness-trip fatality, a named body distinct from the CCA had research under way on canoe tripping risk. His own position on flotation is recorded there too: \"on the issue of life-jackets he believed that sufficiently trained persons would know under what conditions they should be worn\" — the argument the November 1975 regulation had just overridden.",
+      "category": "canoe_trips",
+      "entities": [
+        "C. R. Blackstock",
+        "Society of Camp Directors"
+      ],
+      "date_ref": "1979-05",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4075",
+      "issue": 125,
+      "claim": "Camp Amy Molson of Montreal advertised a \"CHILD LEADERSHIP TRAINING COURSE, June 24 - August 27, 1979. Participatory Training for 16-18 year old girls interested in child care and activity programming for 5-8 year old campers. NO FEE,\" from Miss Frances Owen, Executive Director, Camp Amy Molson Inc., 1430-A St. Marc Street, Montreal H3H 2G2 — a nine-week free leadership training programme for teenage girls, run by a Montreal camp charity in the same city and season as Kanawana's CIT programme.",
+      "category": "inter-camp",
+      "entities": [
+        "Camp Amy Molson",
+        "Frances Owen",
+        "Camp Kanawana"
+      ],
+      "date_ref": "1979",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4076",
+      "issue": 125,
+      "claim": "A three-week \"Workshop in Outdoor Adventure Education,\" 23 July to 10 August 1979, was held at the University of Ottawa Camp seventy miles north of Ottawa, conducted by Professor Claude Cousineau of Ottawa, Professor Bob Pieh of Queen's and Professor Kirk Wipper of Toronto, for six academic credits, on \"the man/nature relationship within the context of adventurism\" — the Gracefield camp again, now hosting a credit-bearing university course taught by the two founders of the canoe instructor schools and the founder of Outward Bound Canada.",
+      "category": "camping_movement",
+      "entities": [
+        "Claude Cousineau",
+        "Kirk Wipper",
+        "Bob Pieh",
+        "Gracefield"
+      ],
+      "date_ref": "1979-07-23",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4077",
+      "issue": 125,
+      "claim": "Dr. Elsie Palter, Honorary Member of the OCA and former director of Camp Kawagama, wrote on discipline in May 1979: \"discipline is taken to mean 'to educate, to train, to instruct disciples'. It does not refer to chastisement or punishment.\" On corporal punishment: \"It is most important to realize that corporal punishment does not teach respect. It may achieve immediate results, but no learning occurs... the only thing learned by the child is to use this means of control when he becomes a parent and the vicious circle is perpetuated. There is no place in camping for corporal punishment.\" On docking: \"To 'dock' a child from having dessert does not teach him to be polite at the table. Similarly to 'dock' a child from his favourite activity destroys his trust in you.\"",
+      "category": "programs",
+      "entities": [
+        "Elsie Palter",
+        "Camp Kawagama"
+      ],
+      "date_ref": "1979-05",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4078",
+      "issue": 125,
+      "claim": "Elsie Palter wrote in May 1979 of agency camps specifically — Kanawana's type: \"In an agency camp where the children may come from culturally deprived homes, one is more likely to find the adult is regarded as an antagonist. This provides a challenge to you, as a leader, for the child to learn that an adult can be trusted.\" She argued for \"as few rules as possible,\" naming two — never swim alone and only in supervised areas, and be prompt at meals — and held that camp rules \"have grown out of the experience of staff and campers for years back.\" Period terminology recorded as written.",
+      "category": "programs",
+      "entities": [
+        "Elsie Palter"
+      ],
+      "date_ref": "1979-05",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4079",
+      "issue": 126,
+      "claim": "The Canadian Camping Association's annual meeting was held at Acadia University, Wolfville, Nova Scotia, on Friday 25 May 1979, with \"the Installation of the new President, Clifford Labbett, and Vice-President, Derek Walsh.\" The 1979-81 executive: President Emeritus F. M. Van Wagner; President Clifford Labbett; Immediate Past President Jack Pearse; Vice-President Derek Walsh; Secretary Elizabeth Greenway; Treasurer Wayne Perkins.",
+      "category": "camping_movement",
+      "entities": [
+        "Derek Walsh",
+        "Clifford Labbett",
+        "Jack Pearse",
+        "F. M. Van Wagner",
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1979-05-25",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4080",
+      "issue": 126,
+      "claim": "Kenneth Willis extended an invitation at Wolfville in May 1979 to hold the next Canadian Camping Association annual meeting in Quebec in the spring of 1980 — which would be the first national camping meeting on Kanawana's home ground since 1976.",
+      "category": "camping_movement",
+      "entities": [
+        "Kenneth Willis",
+        "Canadian Camping Association",
+        "Quebec Camping Association"
+      ],
+      "date_ref": "1979-05",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4081",
+      "issue": 126,
+      "claim": "Opening the CCA annual meeting at Wolfville in May 1979, Jack Pearse \"emphasized the fact that organized children's camping began in Nova Scotia in 1890.\" This project's canadian-camping-movement.md states 1889 for Big Cove YMCA Camp, sourced to an encyclopaedic entry. Pearse, speaking to the Nova Scotia association on its own ground, said 1890. Neither date is documented from a primary record, a single year may be the difference between founding and first full season, and Kanawana's position as Canada's second-oldest camp is unaffected either way.",
+      "category": "camping_movement",
+      "entities": [
+        "Jack Pearse",
+        "YMCA Big Cove Camp",
+        "Camp Kanawana"
+      ],
+      "confidence": "disputed",
+      "date_ref": "1890",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4082",
+      "issue": 126,
+      "claim": "Twenty Environmental Maintenance Standards, developed at a Conference of Canadian Interpreters and reprinted from the Alberta Camping Association Newsletter of May 1979, open on exactly Kanawana's 1970 problem: \"Most of our camps have occupied the same site for many years... Since large investments in buildings have been made on those sites, the protection of the environment of our camps must therefore be a major concern.\" Among them: \"Privies and outhouses to be considered one of the best ways of disposing of body wastes — superior to the flush toilet\"; \"Question the use of motor boats in the camp program\"; \"'Camping without a trace' may be a slogan that could be used more and more. Question the idea of permanent out-trip sites that tend to become over-used\"; trails rested and re-surfaced when over-used; \"erosion areas become a fine program area for campers to see the results of poor land management\"; and noise pollution reduced with \"silent hikes and canoe trips.\"",
+      "category": "programs",
+      "entities": [
+        "Alberta Camping Association",
+        "Camp Kanawana"
+      ],
+      "date_ref": "1979-06",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4083",
+      "issue": 126,
+      "claim": "Canadian Camping printed a four-page removable \"Closeup Checklist\" in June 1979 whose framing sentence names the problem this project keeps meeting: \"It could be very useful in camps where continuity of leadership is not always easy.\" Several of its items are inventory instructions with two copies and two named holders — food inventory, dishes, cutlery, pots and pans, each with blanks for \"____ has one copy / ____ has the other\" — which is a camp record class with a known form, worth asking Concordia for by name.",
+      "category": "archives",
+      "entities": [
+        "Canadian Camping Association",
+        "Camp Kanawana"
+      ],
+      "date_ref": "1979-06",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4084",
+      "issue": 126,
+      "claim": "The June 1979 closing-up checklist for Canadian camps: freezers left open with a screen over the top \"to prevent animals from being trapped inside\"; mattresses on their sides; screens removed and labelled on the edge; tents dried, rolled and labelled; tent platforms lifted to an angle so water drains; packs scrubbed and hung upside down; paddles and oars hung up or laid flat to prevent warping; fire extinguishers checked and containers emptied and stored upside down; piano lids left open to prevent the wires rusting; chimneys covered; ashes down the privies; and boats painted in the fall so the coat hardens.",
+      "category": "facilities",
+      "entities": [
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1979-06",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4085",
+      "issue": 126,
+      "claim": "Canadian Camping reported in June 1979 that \"Departments of health are now suggesting with increased urgency that camps have sufficient 'ablution tables' (handwashing areas),\" illustrated with an outdoor structure from Camp Onondaga near Huntsville — a dated instance of provincial health departments pressing camps on a specific fixture.",
+      "category": "facilities",
+      "entities": [
+        "Camp Onondaga"
+      ],
+      "date_ref": "1979-06",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4086",
+      "issue": 126,
+      "claim": "The Canadian Camping Association's \"Anyday Ideas\" for counsellors (June 1979) record what filled unstructured time at a Canadian camp: \"Leave Something Behind\" — build new steps, a pathway, a railing, or split wood for the fireplace; a Games Day with \"a waterboiling contest, cutting seats in a log, caber toss, three legged race, fire fighting contest, egg throwing contest and log sawing\"; a natural-object scavenger hunt; a night walk with no flashlights, \"stopping just to listen\"; campers making Christmas cards for each other in the summer for the counsellor to post in December; \"'Battleship' — a camp classic — ask about it!\"; and raft-building, since \"camp may provide them with the only opportunity they will ever have to try this activity.\"",
+      "category": "programs",
+      "entities": [
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1979-06",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4087",
+      "issue": 127,
+      "claim": "Madelene Allen's tribute to Edgar Blais (Canadian Camping, October 1979) is the only piece about a camp cook in the whole run: \"Last week we lost our chef who had been with us for seven years. No famous man whose death would make headlines, but a simple man who did so much for camping by making campers happy with what came from the kitchen. No executive post on the association, no articles written, just work at a hot stove for long hours... spare a thought for an unknown to you, Edgar Blais.\" The verse gives his hiring and his death: \"To our door he came, out of work, dejected. Sent to camp's winter door by Manpower. 'Can you cook? Do you like children?' 'Mais oui.'... But a notice in a small town paper was the final severance: 'est decede accidentellement M. Edgar Blais.'\" Seven years at Camp Ouareau, so from about 1972, hired through Canada Manpower.",
+      "category": "biography",
+      "entities": [
+        "Edgar Blais",
+        "Madelene Allen",
+        "Camp Ouareau"
+      ],
+      "date_ref": "1979-10",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4088",
+      "issue": 127,
+      "claim": "At Kanawana as at Camp Ouareau, kitchen staff appear in no plaque, no directory and no accreditation report. Madelene Allen's 1979 tribute to a chef of seven years is a reminder that the absence is a property of the records rather than of the camps.",
+      "category": "methodology",
+      "entities": [
+        "Camp Kanawana",
+        "Camp Ouareau"
+      ],
+      "confidence": "inferred",
+      "date_ref": "1979",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4089",
+      "issue": 127,
+      "claim": "Canadian Camping reprinted a long piece on acid rain from The Probe Post in October 1979, introduced as \"a topic which should interest every citizen, particularly those of us who are concerned with children living near 'living lakes'.\" Its figures: uncontaminated rain pH about 5.6 against a mean of 3.95 to 4.38 in south-central Ontario and one snowfall at 2.97, \"over 400 times the acidity of normal precipitation\"; of 209 lakes tested near Sudbury, 20% \"dead\" and 50% threatened; Muskoka-Haliburton acidity \"now as bad or worse than that in Scandinavia\"; and Inco's 1,250-foot super-stack emitting \"an average of 3,600 tons of sulphur dioxide daily.\" Ontario \"emits large quantities of acids that cause acid rains in the province and in Quebec, Eastern Canada and Northeastern U.S.\"",
+      "category": "context",
+      "entities": [
+        "Canadian Camping (magazine)"
+      ],
+      "date_ref": "1979-10",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4090",
+      "issue": 127,
+      "claim": "Acid rain is the first environmental threat in this run that a camp could do nothing about from inside its own fence. Nothing in the 1979 article is about Kanawana and no measurement of its own lakes from this period is known, but it is the context for any later water-quality record from Lake Kanawana, Lake Wilson or Round Lake.",
+      "category": "context",
+      "entities": [
+        "Camp Kanawana",
+        "Lake Wilson"
+      ],
+      "confidence": "inferred",
+      "date_ref": "1979",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4091",
+      "issue": 127,
+      "claim": "Hartwick, Jorgenson and Gear's \"Canoe Tripping in the Twentieth Century\" (October 1979) states the problem plainly: \"The irony of canoe tripping is that it has the potential of destroying the very environment the tripper seeks out to enjoy... It is unlikely that the number of users will decline voluntarily, therefore the answer must lie in lessening their impact.\" Their rules: carry out everything \"and a little of what others have left\"; small stoves or a metal fire container; let the fire burn to ash \"leaving no charcoal\"; \"if you find several fire pits at your site, clean up the best one or two and eliminate the others\"; gather firewood by canoe at a distance even when wood is available on the site; and \"do not blight the campsite for your own comfort (e.g. trenches, bough beds, tables, natural shelters, garbage pits)\" — four techniques standard in camping manuals, abandoned.",
+      "category": "canoe_trips",
+      "entities": [
+        "Canadian Camping (magazine)"
+      ],
+      "date_ref": "1979-10",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4092",
+      "issue": 127,
+      "claim": "Three separate statements of leave-no-trace ethics appeared in Canadian Camping within seven months in 1979 — Redmond in March, the Environmental Maintenance Standards in June, and the canoe tripping article in October. The movement was rebuilding its tripping ethic at speed.",
+      "category": "canoe_trips",
+      "entities": [
+        "Canadian Camping Association"
+      ],
+      "confidence": "inferred",
+      "date_ref": "1979",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4093",
+      "issue": 127,
+      "claim": "Kirk Wipper's Woodsmanship Leaders' Guide was published by the Canadian Camping Association in 1979, 155 pages, $6.00, \"in 3 ring loose-leaf form, to allow for easy up-dating,\" with three components — \"an exploration of the land ethic; a compendium of ideas on the theme of leadership; and... a set of practical materials on land pursuits\" — covering Trail Skills, Survival, Program Planning, Navigation, Food and Menu Planning, Human Waste Disposal and Basic Ecology. It was being translated into French by Rosaire Corbin.",
+      "category": "sources",
+      "entities": [
+        "Kirk Wipper",
+        "Rosaire Corbin",
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1979",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4094",
+      "issue": 127,
+      "claim": "From October 1979 all American Camping Association books became available to Canadians through the CCA's Publication Service at American catalogue prices payable in Canadian funds, with the CCA paying postage — dating the moment the American camping literature became cheap and easy for Canadian camps to buy.",
+      "category": "sources",
+      "entities": [
+        "Canadian Camping Association",
+        "American Camping Association"
+      ],
+      "date_ref": "1979-10",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4095",
+      "issue": 127,
+      "claim": "A classified advertisement in Canadian Camping, October 1979, offers for rent \"75 acres, 3 lakes, large wharf, diving board and tower, playing field, buildings, electricity, central water system, former boys' camp... 70 miles from Montreal near Lachute, Quebec\" — an unnamed Laurentian boys' camp that had closed by 1979 and was letting its site. The advertisement gives only a Montreal telephone number and the property is not identified.",
+      "category": "inter-camp",
+      "entities": [
+        "Lachute"
+      ],
+      "date_ref": "1979-10",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4096",
+      "issue": 127,
+      "claim": "The counsellors' page of October 1979 records a documented method by which camp songs were composed and transmitted: \"Make up a CAMP SONG using the tune from a popular camp song. Each camper could send one verse to you and then you could return a copy of the completed song to each of them. Follow this up by singing it to the new camp when it assembles next spring.\" Some camp songs were written in the winter, collectively, by post.",
+      "category": "traditions",
+      "entities": [
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1979-10",
       "sources": [
         "src_ia_canadian_camping_collection"
       ],

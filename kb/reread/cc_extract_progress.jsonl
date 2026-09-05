@@ -120,11 +120,11 @@
 {"n": 120, "title": "## 120 — Vol. 30 No. 4, June 1978", "chars": 4855, "status": "extracted", "facts": 4}
 {"n": 121, "title": "## 121 — Vol. 30 No. 5, October 1978", "chars": 9101, "status": "extracted", "facts": 7}
 {"n": 122, "title": "## 122 — Vol. 30 No. 6, December 1978", "chars": 11218, "status": "extracted", "facts": 13}
-{"n": 123, "title": "## 123 — Vol. 31 No. 1, February 1979", "chars": 9266, "status": "pending", "facts": 0}
-{"n": 124, "title": "## 124 — Vol. 31 No. 2, March 1979", "chars": 9450, "status": "pending", "facts": 0}
-{"n": 125, "title": "## 125 — Vol. 31 No. 3, May 1979", "chars": 10680, "status": "pending", "facts": 0}
-{"n": 126, "title": "## 126 — Vol. 31 No. 4, June 1979", "chars": 8067, "status": "pending", "facts": 0}
-{"n": 127, "title": "## 127 — Vol. 31 No. 5, October 1979", "chars": 8820, "status": "pending", "facts": 0}
+{"n": 123, "title": "## 123 — Vol. 31 No. 1, February 1979", "chars": 9266, "status": "extracted", "facts": 8}
+{"n": 124, "title": "## 124 — Vol. 31 No. 2, March 1979", "chars": 9450, "status": "extracted", "facts": 9}
+{"n": 125, "title": "## 125 — Vol. 31 No. 3, May 1979", "chars": 10680, "status": "extracted", "facts": 9}
+{"n": 126, "title": "## 126 — Vol. 31 No. 4, June 1979", "chars": 8067, "status": "extracted", "facts": 8}
+{"n": 127, "title": "## 127 — Vol. 31 No. 5, October 1979", "chars": 8820, "status": "extracted", "facts": 10}
 {"n": 128, "title": "## 128 — Vol. 31 No. 6, December 1979", "chars": 9071, "status": "pending", "facts": 0}
 {"n": 129, "title": "## 129 — Vol. 32 No. 1, February 1980", "chars": 9402, "status": "pending", "facts": 0}
 {"n": 130, "title": "## 130 — Vol. 32 No. 2, March 1980", "chars": 8758, "status": "pending", "facts": 0}
