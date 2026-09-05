@@ -2,7 +2,7 @@
   "version": "6.06",
   "kb_version": "6.06",
   "migrated_from": "3.3",
-  "fact_count": 4532,
+  "fact_count": 4608,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -80905,6 +80905,1482 @@
         "Sherwood Forest Camp"
       ],
       "date_ref": "1986",
+      "confidence": "stated",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4571",
+      "issue": 158,
+      "claim": "Canadian Camping Vol. 38 No. 1, Summer 1986, the 50th anniversary issue, is the first made by the Camp Tawingo group: Jack Pearse editor-in-chief, Jane McCutcheon and John Jorgenson senior editors, Brenda McFarlane and Liz Greenway regional editors, printed by Cober Printing of Kitchener, editorial address R.R. #1, Huntsville.",
+      "category": "sources",
+      "entities": [
+        "Jack Pearse",
+        "Jane McCutcheon",
+        "John Jorgenson",
+        "Camp Tawingo",
+        "Canadian Camping"
+      ],
+      "date_ref": "1986",
+      "confidence": "stated",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4572",
+      "issue": 158,
+      "claim": "Adele Ebbs, Taylor Statten's daughter and secretary to the founding circle, interviewed in the CCA's 50th anniversary issue: \"CC: Our records show that the OCA became a reality in 1933 and then the CCA became a reality in 1936. Do those dates sound right? AE: '36 sounds early to me but I ... '33 sounds right... CC: I read that your Dad helped with the formation of the Quebec Camping Association along with F. M. VanWagner in 1937. AE: Well that is why I thought the Canadian Camping Association was not until... CC: After that had happened? AE: My impression was that it was 1938. CC: We may be celebrating 50 years under false pretenses, so let's not upset that apple cart. AE: No, 50 years makes it '36. Well, I'll buy that.\"",
+      "category": "camping_movement",
+      "entities": [
+        "Adele Ebbs",
+        "Taylor Statten",
+        "F. M. Van Wagner",
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1986",
+      "confidence": "stated",
+      "conflicts_with": [
+        "c_029",
+        "c_035"
+      ],
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4573",
+      "issue": 158,
+      "claim": "The best-placed living witness to the founding of the Canadian Camping Association said in 1986 that the year was wrong and was overruled on the ground that the anniversary was already being celebrated. Her reasoning was specific: she remembered her father helping F. M. Van Wagner form the Quebec Camping Association in 1937 and placed the national body after it. The exchange is printed verbatim under a headnote asserting that Taylor Statten \"was the Founder and first President of the Canadian Camping Association\" fifty years earlier.",
+      "category": "camping_movement",
+      "entities": [
+        "Adele Ebbs",
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1986",
+      "confidence": "stated",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4574",
+      "issue": 158,
+      "claim": "Three different datings of the Canadian Camping Association's founding all come from inside the association: its 1980s literature says 1936; its own president said c.1947 in 1967; its founder's daughter, who kept the minutes, said 1938 in 1986. A 1937 Quebec association and a 1938 national one is the sequence a founding-circle secretary would remember, while 1936 is what the corporate record of a later reorganisation would show.",
+      "category": "camping_movement",
+      "entities": [
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1936-1986",
+      "confidence": "inferred",
+      "conflicts_with": [
+        "c_029",
+        "c_035"
+      ],
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4575",
+      "issue": 158,
+      "claim": "Adele Ebbs describes the pre-association supper club: \"in the early 30's there were regular meetings, mostly social - Edgar, Hamilton, Halliday, Chapman, Cochrane and Statten, those six,\" gathering in each other's homes \"4 or 5 times a year,\" and \"a great deal of it was social and anything they talked about was sort of trivial in a way because they had secrets. Nobody ever knew what anybody paid their staff.\" The six are Mary S. Edgar of Glen Bernard, Mary G. Hamilton of Camp Tanamakoon, Ferna Halliday of Camp Oconto, Ernie Chapman of Camp Kagawong, A. L. Cochrane of Camp Temagami and Taylor Statten.",
+      "category": "camping_movement",
+      "entities": [
+        "Adele Ebbs",
+        "Mary S. Edgar",
+        "Mary G. Hamilton",
+        "Ferna Halliday",
+        "Ernie Chapman",
+        "A. L. Cochrane",
+        "Taylor Statten"
+      ],
+      "date_ref": "early 1930s",
+      "confidence": "stated",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4576",
+      "issue": 158,
+      "claim": "Adele Ebbs became secretary to the founding circle and \"finally started to take notes sometime before I got married, and that was 1935\" - so minutes of the pre-founding meetings exist from about 1934-35. Charles Plewman and the Dansons (Sadie and Joe) joined \"very soon after.\" Of Arnold Ward she notes that \"these are private Camp Directors and maybe because Arnold Ward was an agency Camp Director\" he was not in it.",
+      "category": "archives",
+      "entities": [
+        "Adele Ebbs",
+        "Charles Plewman",
+        "Arnold Ward",
+        "Trent University"
+      ],
+      "date_ref": "1934-1935",
+      "confidence": "stated",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4577",
+      "issue": 158,
+      "claim": "The early CCA presidential sequence is given in the 1986 anniversary interview as Taylor Statten, Dais Gass, Anne Vail, Ted Yard, Irv Haladner, F. M. Van Wagner - placing W. E. Ted Yard, whose Pine Crest council ceremony text this project recorded from issue 145, among the first CCA presidents.",
+      "category": "camping_movement",
+      "entities": [
+        "Taylor Statten",
+        "Dais Gass",
+        "Anne Vail",
+        "W. E. Ted Yard",
+        "Irv Haladner",
+        "F. M. Van Wagner"
+      ],
+      "date_ref": "1986",
+      "confidence": "stated",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4578",
+      "issue": 158,
+      "claim": "The Quebec column of Canadian Camping Summer 1986, in French and English: \"La rencontre estivale des directeurs de camp aura lieu cette annee au Camp Trois-Saumons au debut du mois d'aout. A cette occasion, les membres souligneront a nouveau le vingt-cinquieme anniversaire de l'Association des Camps du Quebec. Le regroupement des responsables des camps des communautes anglophone et francophone avait lieu notamment en janvier 1961.\"",
+      "category": "camping_movement",
+      "entities": [
+        "Association des camps du Quebec",
+        "Camp Trois-Saumons"
+      ],
+      "date_ref": "1986",
+      "confidence": "stated",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4579",
+      "issue": 158,
+      "claim": "The Quebec association celebrated its twenty-fifth birthday in 1986, dating itself from the January 1961 amalgamation of its French and English sections rather than from the 1937 founding of the English Section. Quebec, like the national association, was running on two datings at once: 1937 is the English Section, 1961 is the bilingual association. The amalgamation is fixed to January 1961 from the association's own mouth, corroborating the provincial charter of that year.",
+      "category": "camping_movement",
+      "entities": [
+        "Association des camps du Quebec",
+        "Quebec Camping Association"
+      ],
+      "date_ref": "January 1961",
+      "confidence": "inferred",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4580",
+      "issue": 158,
+      "claim": "The ACQ's 1986 report in Canadian Camping: \"Dans le cadre du programme d'accreditation, quatre consultants visiteront pres de soixante (60) camps de vacances. Ce programme exige que les camps accredites soient visites tous les deux ans. Les camps de vacances qui ont connu des changements majeurs au cours de l'annee (le changement de directeur, par exemple) sont egalement visites.\" Quebec had moved from annual visitation to a two-year cycle by 1986, worked by four consultants covering about sixty camps.",
+      "category": "camping_movement",
+      "entities": [
+        "Association des camps du Quebec"
+      ],
+      "date_ref": "1986",
+      "confidence": "stated",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4581",
+      "issue": 158,
+      "claim": "On the ACQ's stated rule that a camp changing director in a given year is visited regardless of its cycle position, Kanawana should have received an accreditation visit in 1986: its directorship passed from Peter Goddard to Jay Netherwood inside the YMCA of Montreal's FY1986. An ACQ visitation report for Kanawana in 1986 should therefore exist.",
+      "category": "archives",
+      "entities": [
+        "Camp Kanawana",
+        "Peter Goddard",
+        "Jay Netherwood",
+        "Association des camps du Quebec"
+      ],
+      "date_ref": "1986",
+      "confidence": "inferred",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4582",
+      "issue": 158,
+      "claim": "The ACQ's 1986 report records a new parents' guide and directory in members' hands that year.",
+      "category": "sources",
+      "entities": [
+        "Association des camps du Quebec"
+      ],
+      "date_ref": "1986",
+      "confidence": "stated",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4583",
+      "issue": 158,
+      "claim": "Adele Ebbs on Camp Couchiching, the Toronto Central YMCA camp her father Taylor Statten directed near Orillia: \"That Camp Couchiching just stopped and as far as I know it went up to Torrance and became Pine Crest.\" Camp Couchiching ran as a boys' camp until about 1912; Geneva Park \"didn't exist in the Y's eyes until 1908.\"",
+      "category": "camping_movement",
+      "entities": [
+        "Adele Ebbs",
+        "Taylor Statten",
+        "Camp Couchiching",
+        "Camp Pine Crest"
+      ],
+      "date_ref": "1986",
+      "confidence": "stated",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4584",
+      "issue": 158,
+      "claim": "Adele Ebbs on the Council Ring: \"of course, he [Ernest Thompson Seton] started the Council Ring,\" and on whether Seton would let Statten preside, \"I don't think he would let anyone be Chief except Ernest Thompson Seton.\" Of Camp Couchiching before 1912: \"I don't think there was any Indian influence... There was no Council Ring at Camp Couchiching as far as I know or have any record of or any pictures,\" and Seton \"was later. I don't think he had anything to do with Dad until they were doing the CSET bit.\"",
+      "category": "traditions",
+      "entities": [
+        "Adele Ebbs",
+        "Ernest Thompson Seton",
+        "Taylor Statten",
+        "Camp Couchiching"
+      ],
+      "date_ref": "1986",
+      "confidence": "stated",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4585",
+      "issue": 158,
+      "claim": "On Adele Ebbs's account the Council Ring entered Canadian camping after 1912 and by way of Ernest Thompson Seton personally, not out of the YMCA camp tradition to which Kanawana belonged. She names Ellsworth Jaeger and his Camp of the Red Gods as a parallel figure, and describes the ceremony's form: \"It was always done very precisely, very organized, and well planned... the beginning and ending were always the same and most inspirational,\" adding that her father \"always loved the theatre and I think this is why the Council Ring, because it was a spectacle.\"",
+      "category": "traditions",
+      "entities": [
+        "Adele Ebbs",
+        "Ernest Thompson Seton",
+        "Ellsworth Jaeger"
+      ],
+      "date_ref": "1986",
+      "confidence": "stated",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4586",
+      "issue": 158,
+      "claim": "Adele Ebbs reprints Herbert B. Bell's complete 1926 outfit list for a ten-day Algonquin canoe trip for two - bacon, cheese, flour, rolled oats, dried apples, dried peaches, rice, raisins, macaroni, dried whole milk, butter, carrots, sugar, four loaves of bread, Crisco, coffee, syrup, pepper, baking powder; and for equipment a medical kit, six candles, two small pails, a frying pan, two cups, two knives, three plates, three bowls, two packsacks and a length of rope - with the totals: \"Food $11.18, Equipment $6.60, Canoe (rental) $8.00 = $25.78 (approximately $1.25 per person per day).\"",
+      "category": "canoe_trips",
+      "entities": [
+        "Herbert B. Bell",
+        "Adele Ebbs",
+        "Algonquin Park"
+      ],
+      "date_ref": "1926",
+      "confidence": "stated",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4587",
+      "issue": 158,
+      "claim": "The Summer 1986 officer list carries F. M. Van Wagner, Point Claire, Que., as President Emeritus - the founder of the Quebec association's English Section, alive and honoured in 1986 - and Ken Willis, Magog, Que., as Central Vice-President, confirming in a printed officer list the correction made at issue 155.",
+      "category": "camping_movement",
+      "entities": [
+        "F. M. Van Wagner",
+        "Ken Willis",
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1986",
+      "confidence": "stated",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4588",
+      "issue": 158,
+      "claim": "The CCA's French Language Committee, chaired in 1986 by Gerard Bachand of Rawdon, Quebec, reports \"la publication d'un repertoire des camps francophones hors Quebec... rendue possible grace a la collaboration du Conseil de la Vie francaise en Amerique. Vingt-quatre camps figurent dans la premiere edition\" - a 1985 directory of French-language camps outside Quebec, twenty-four in its first edition.",
+      "category": "sources",
+      "entities": [
+        "Gerard Bachand",
+        "Conseil de la Vie francaise en Amerique",
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1985-1986",
+      "confidence": "stated",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4589",
+      "issue": 158,
+      "claim": "\"Under Open Skies\" in Canadian Camping Summer 1986 describes Mary S. Edgar as \"an Honourary President of the Canadian Camping Association, and the Founder of Canadian Camping Magazine.\" This sits beside, and may complicate, Charles Plewman's account that he produced the first bulletin that became the magazine. Recorded as a discrepancy, not resolved: \"founder\" and \"produced the first bulletin\" may describe the same thing from two angles.",
+      "category": "sources",
+      "entities": [
+        "Mary S. Edgar",
+        "Charles Plewman",
+        "Canadian Camping"
+      ],
+      "date_ref": "1986",
+      "confidence": "disputed",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4590",
+      "issue": 158,
+      "claim": "Camp Tonakela is explained in the 1986 Ebbs interview: Wally Forgie, Taylor Statten's brother-in-law, went to India as a YMCA man after his wife died in Calgary in 1925, broke with the Y because \"trying to convert the Indians to Christianity was going to be [no] good at all,\" and \"virtually became a Hindu\"; the camp twelve miles from Madras was named Tonakela when Mr and Mrs Statten opened it in 1938, after Mrs Statten's own Ojibway camp name.",
+      "category": "biography",
+      "entities": [
+        "Wallace Forgie",
+        "Taylor Statten",
+        "Camp Tonakela"
+      ],
+      "date_ref": "1938",
+      "confidence": "stated",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4591",
+      "issue": 158,
+      "claim": "Adele Ebbs states that Hedley Dimock came to Camp Ahmek \"in the late 20's,\" and \"it was Hedley Dimock that started the TOF - 'the other fellow',\" an Ahmek practice that outlasted him; an editor's note dates Talks with Counsellors to 1939.",
+      "category": "biography",
+      "entities": [
+        "Hedley Dimock",
+        "Camp Ahmek"
+      ],
+      "date_ref": "1920s-1939",
+      "confidence": "stated",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4592",
+      "issue": 158,
+      "claim": "Taylor Statten was born at Erindale in 1882, left Streetsville High School without graduating, worked in the Post Office, and believed himself related to P. T. Barnum (\"the 'T' in Barnum's name stood for Taylor\"). Tom Thompson drowned in Canoe Lake in July 1917, helped build the camp fireplace, and Charles Plewman helped carry his casket up the hill; Tom Thompson sketches were borrowed from the National Gallery in 1932 or 1933 and carried up to the Tom Thompson Totem.",
+      "category": "biography",
+      "entities": [
+        "Taylor Statten",
+        "Tom Thompson",
+        "Charles Plewman"
+      ],
+      "date_ref": "1882-1933",
+      "confidence": "stated",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4593",
+      "issue": 158,
+      "claim": "The CCA's foreign-counsellor immigration protocol was amended after a meeting with the Hon. Jake Epp, Minister of Health and Welfare, on 22 April 1986: foreign counsellors would get form MS 1017 from the nearest consulate, have their own doctor complete it, and hand it in at the border.",
+      "category": "context",
+      "entities": [
+        "Jake Epp",
+        "Canadian Camping Association"
+      ],
+      "date_ref": "22 April 1986",
+      "confidence": "stated",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4594",
+      "issue": 158,
+      "claim": "The Second International Camping Congress dates are given as 2-5 March 1987 in Canadian Camping Summer 1986, against 3-5 March in issues 151, 155 and 159 - an internal inconsistency in the source, recorded as such.",
+      "category": "sources",
+      "entities": [
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1987",
+      "confidence": "disputed",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4595",
+      "issue": 159,
+      "claim": "Shirley Yard, interviewed in Canadian Camping Vol. 38 No. 2, Fall 1986, listing her husband W. E. Ted Yard's work: \"There was a project of the Boys' Work Committee of the National Council YMCA. It is a survey of costs and factors in Canadian YMCA Camps. This is probably what he did his thesis on when he completed his Master's degree at George Williams College in 1958/59.\"",
+      "category": "archives",
+      "entities": [
+        "Shirley Yard",
+        "W. E. Ted Yard",
+        "George Williams College",
+        "YMCA"
+      ],
+      "date_ref": "1958-1959",
+      "confidence": "stated",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4596",
+      "issue": 159,
+      "claim": "A national YMCA survey of costs and factors in Canadian YMCA camps, dated 1958-59, is unlikely to have omitted the YMCA of Montreal's own resident camp. It is the first concrete lead this read has produced to a document that would give Kanawana's late-1950s operating figures from outside the YMCA of Montreal's own files, in a period for which Kanawana's records are a gap.",
+      "category": "archives",
+      "entities": [
+        "Camp Kanawana",
+        "YMCA of Montreal",
+        "W. E. Ted Yard"
+      ],
+      "date_ref": "1958-1959",
+      "confidence": "inferred",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4597",
+      "issue": 159,
+      "claim": "A second Ted Yard document was still in circulation in 1986: the Ted Yard Camp Director's Calendar, month by month through the year, put together in 1959 during his Masters at George Williams College - \"as a matter of fact, it is still in use.\"",
+      "category": "sources",
+      "entities": [
+        "W. E. Ted Yard",
+        "George Williams College"
+      ],
+      "date_ref": "1959",
+      "confidence": "stated",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4598",
+      "issue": 159,
+      "claim": "An editor's note in Canadian Camping Fall 1986 states: \"At that time, the Quebec Camping Association was the only Provincial Association east of Ontario,\" describing the period of Ted Yard's CCA presidency (1953-55). The interviewer adds: \"up until that time, the President of the Canadian Camping Association was either from Quebec or from Ontario (and even more specifically from Montreal or Toronto) and, shortly after you made your cross-Canada trip, it began that Presidents and Executives and Boards of the Canadian Camping Association were provincially-located.\"",
+      "category": "camping_movement",
+      "entities": [
+        "Quebec Camping Association",
+        "Canadian Camping Association",
+        "W. E. Ted Yard",
+        "Montreal",
+        "Toronto"
+      ],
+      "date_ref": "1953-1955",
+      "confidence": "stated",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4599",
+      "issue": 159,
+      "claim": "Montreal was one of the two cities that ran Canadian camping until the mid-1950s, and the deliberate decentralisation that ended that arrangement is dated in the magazine to Ted Yard's cross-Canada trip of 1953-55. Quebec's slow drift from the centre of national affairs through the 1980s is the far end of that decentralisation.",
+      "category": "camping_movement",
+      "entities": [
+        "Montreal",
+        "Quebec",
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1953-1955",
+      "confidence": "inferred",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4600",
+      "issue": 159,
+      "claim": "The CCA celebrated a \"50th Birthday Party\" at its Moncton national workshop in 1986, with cake provided by the New Brunswick Camping Association, and ran a \"50th Anniversary Patrons' Fund\" through the year. These are the same anniversary Adele Ebbs was told not to upset, not independent witnesses to a 1936 founding.",
+      "category": "camping_movement",
+      "entities": [
+        "Canadian Camping Association",
+        "New Brunswick Camping Association"
+      ],
+      "date_ref": "1986",
+      "confidence": "stated",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4601",
+      "issue": 159,
+      "claim": "The full-page notice in Canadian Camping Fall 1986 reads \"OUR FRAGILE WORLD - A CHALLENGE FOR THE OUTDOOR COMMUNITY / SECOND INTERNATIONAL CAMPING CONGRESS / March 3-5, 1987 Shoreham Hotel Washington, D.C.\", jointly sponsored by the American Camping Association, the Canadian Camping Association, the Jamaica Camping and Hiking Association and the National Camping Association of Japan. The Canadian contributors named are Dorothy Walter, Jack Pearse, Fred Okada, Jocelyn Palm and Rob Heming - no Quebec name among them.",
+      "category": "camping_movement",
+      "entities": [
+        "Canadian Camping Association",
+        "American Camping Association",
+        "Dorothy Walter",
+        "Jack Pearse",
+        "Fred Okada",
+        "Jocelyn Palm",
+        "Rob Heming"
+      ],
+      "date_ref": "3-5 March 1987",
+      "confidence": "stated",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4602",
+      "issue": 159,
+      "claim": "Shirley Yard on Indian Lore at Camp Pine Crest under her husband's direction, 1946-1963: \"Only a Council fire once a week, if it was even that... not that people don't respect the Indian... but he felt that we should not make a big thing out of Indian Lore by imitating them but by celebrating with them. This was a different sort of concept... that he didn't want to play up an Indian theme as such.\" The family camp took a Coast Salish place name from British Columbia rather than an \"Indian name\": \"there again was another reason why we didn't call our Camp an Indian name.\"",
+      "category": "traditions",
+      "entities": [
+        "Shirley Yard",
+        "W. E. Ted Yard",
+        "Camp Pine Crest",
+        "Camp Hollyburn"
+      ],
+      "date_ref": "1946-1963",
+      "confidence": "stated",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4603",
+      "issue": 159,
+      "claim": "Ted Yard Jr. on the practice as it stood in 1986: \"even when we do our Indian Councils now, we are actually teaching them what the ceremony is because it is a very serious thing we do. From what I remember of Pine Crest, it was very much like that.\" The Pine Crest ceremony itself: \"their most vivid memory is of Dad coming across in a canoe standing up being paddled by his Medicine Man coming to the Council Ring,\" in costume, unrecognised even by his own children, and \"there were only three campfires for the three periods.\"",
+      "category": "traditions",
+      "entities": [
+        "W. E. Ted Yard",
+        "Camp Pine Crest"
+      ],
+      "date_ref": "1946-1986",
+      "confidence": "stated",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4604",
+      "issue": 159,
+      "claim": "The same issue that prints Ted Yard's objection to imitative Indian Lore also prints an unattributed Council Closing and a set of inter-tribal gift speeches - Onondaga to Seneca, Cayuga to Onondaga, Tuscarora to Oneida, Oneida to Cayuga, Mohawk to Tuscarora - written for campers to deliver in the persona of the six nations of the Haudenosaunee Confederacy (\"We the people of the Onondaga tribe offer this table to you the people of the Seneca tribe\"). The magazine prints the objection and the practice objected to in the same twenty-eight pages, without comment on either.",
+      "category": "traditions",
+      "entities": [
+        "Canadian Camping"
+      ],
+      "date_ref": "1986",
+      "confidence": "stated",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4605",
+      "issue": 159,
+      "claim": "Shirley Yard on why Camp Hollyburn took both sexes: \"the reason it was a Boys' and Girls' Camp as against a Boys' Camp... was because of our daughter Judy and me... Ted was adamant about making the distinction between what was a co-ed camp and what was a Boys' and Girls' Camp. He felt that boys want to be boys and girls want to be girls, but the family idea, there would be enough mixing naturally in a Camp setting without calling it Co-ed.\" She credits the Family YMCA at Sault Ste. Marie as the other influence.",
+      "category": "coeducation",
+      "entities": [
+        "Shirley Yard",
+        "W. E. Ted Yard",
+        "Camp Hollyburn"
+      ],
+      "date_ref": "1968-1982",
+      "confidence": "stated",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4606",
+      "issue": 159,
+      "claim": "The ACQ's 1986 summer report records that Employment and Immigration Canada funded a three-person team that spent the summer reclassifying all of the ACQ's archives and camp dossiers. This is the summer that determined the present shape of the ACQ's own archive.",
+      "category": "archives",
+      "entities": [
+        "Association des camps du Quebec"
+      ],
+      "date_ref": "1986",
+      "confidence": "stated",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4607",
+      "issue": 159,
+      "claim": "The ACQ's 1986 report names its three accreditation consultants - Leo Venditti, Yves Legault and Louis Jean - who visited 76 camps, four of them new members. Jean-Marc Amyot of the R.L.Q.'s audio-visual service shot 400 slides at Quebec camps for a bilingual slide show. A pamphlet produced with the M.L.C.P. promoting outdoor-education classes was printed in 50,000 French and 8,000 English copies and sent in September to every school principal and pedagogical consultant in the province.",
+      "category": "camping_movement",
+      "entities": [
+        "Leo Venditti",
+        "Yves Legault",
+        "Louis Jean",
+        "Jean-Marc Amyot",
+        "Association des camps du Quebec"
+      ],
+      "date_ref": "1986",
+      "confidence": "stated",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4608",
+      "issue": 159,
+      "claim": "The CCA's French-language commission reports in Fall 1986 the launch of the second edition of the Repertoire de l'Inventaire des Camps d'Expression francaise (INCEF), with M. Jean-Luc Cote of the Conseil de la Vie Francaise en Amerique, 59 rue d'Auteuil, Quebec G1R 4C2, gathering the data, and names as its next step \"elaborer notre politique linguistique pour l'Association des Camps du Canada.\" A new committee member, M. Michel Gratton of Hearst, Ontario, gives the committee \"two 'out-of-Quebec' members.\"",
+      "category": "sources",
+      "entities": [
+        "Jean-Luc Cote",
+        "Michel Gratton",
+        "Conseil de la Vie francaise en Amerique",
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1986",
+      "confidence": "stated",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4609",
+      "issue": 159,
+      "claim": "The CCA's 50th Anniversary Patrons' Fund appeal, over the names of Janet Adamson (President) and Jack Pearse (Chairman, CCA/ACC Patrons' Foundation), repeats an April 1986 letter: \"An additional income of $30,000.00, this year, represents the difference between a giant step forward and an irretrievable step backward... We are sending this plea to approximately 100 people.\" Two years after the Fitness Canada withdrawal, the national association was passing the hat among a hundred camp directors to cover an operating shortfall.",
+      "category": "camping_movement",
+      "entities": [
+        "Janet Adamson",
+        "Jack Pearse",
+        "Fitness Canada",
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1986",
+      "confidence": "stated",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4610",
+      "issue": 159,
+      "claim": "The CCA National Workshop at Moncton, 1-5 October 1986, was led for its first two days by Bob Latimer, a trainer from the National Training Institute (no relation established to John R. Latimer). Delegates worked on Dorothy Walter's Curriculum for Camp Directors, built \"three sample prototype workshops\" for provincial associations, spent a day on volunteer board development, and attended Michael Brandwein's sessions at the First Regional Conference held in Eastern Canada as a training exercise in delivery style. It closed with \"A contract was produced which the delegates were asked to sign along with the President of CCA.\"",
+      "category": "camping_movement",
+      "entities": [
+        "Bob Latimer",
+        "Dorothy Walter",
+        "Michael Brandwein",
+        "Janet Adamson",
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1-5 October 1986",
+      "confidence": "stated",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4611",
+      "issue": 159,
+      "claim": "A proposal was taken up at the October 1986 CCA workshop \"to ask the Executive of CCA to produce a certificate to acknowledge a Camp Director's completion of, or attendance at, training\" - the certification question traced in this run since 1982, reappearing as a certificate for attendance rather than a licence to practise.",
+      "category": "camping_movement",
+      "entities": [
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1986",
+      "confidence": "stated",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4612",
+      "issue": 159,
+      "claim": "Camp Pine Crest under W. E. Ted Yard, 1946-1963, went from a camp \"subsidized because it had just gone through the war years and things were not in good shape either financially or physically\" to a self-supporting Branch of the Toronto YMCA that \"paid all the salaries, it re-built... all paid out of the operation.\" A photo caption reads: \"The 'new' winter lodge at Camp Pine Crest and some of the earliest winter camping in Canada.\" His last summer there ran 85 staff and 210 campers; Camie Cameron ran Pine Crest for about twelve years afterwards.",
+      "category": "camping_movement",
+      "entities": [
+        "W. E. Ted Yard",
+        "Camp Pine Crest",
+        "Camie Cameron",
+        "Toronto YMCA"
+      ],
+      "date_ref": "1946-1963",
+      "confidence": "stated",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4613",
+      "issue": 159,
+      "claim": "Sass Peepre came to Canada and to Camp Pine Crest in 1950 speaking no English, was taught by Ted Yard an hour a day, and \"introduced orienteering to North America... back in the late 50's.\" Kirk Wipper learned to paddle a canoe at Pine Crest - \"when Kirk first came to Pine Crest I don't think many people know that he couldn't paddle a canoe at all.\" John Wadland wrote his doctoral thesis on Ernest Thompson Seton because Yard, a Seton collector, lent him the books while he was a Pine Crest counsellor.",
+      "category": "biography",
+      "entities": [
+        "Sass Peepre",
+        "Kirk Wipper",
+        "John Wadland",
+        "W. E. Ted Yard",
+        "Camp Pine Crest"
+      ],
+      "date_ref": "1950-1986",
+      "confidence": "stated",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4614",
+      "issue": 159,
+      "claim": "W. E. Ted Yard's dates as given in the 1986 profile: born 1919, died 1983; memorial service at Camp Hollyburn, Rosseau, 15 January 1983; Vancouver YMCA work from about 1941-42; UBC degree about 1945; Camp Pine Crest 1946-1963; General Secretary, Sault Ste. Marie Family YMCA 1963-1967, where he supervised the building of \"the first Family Y in Canada\" (opened 1964, cornerstone laid by Lester Pearson); Camp Hollyburn 1968-1982; OCA President 1950-52 and Treasurer 1971-74; CCA President 1953-55. He also surveyed YMCA Camp Stephens for Don Phelan, who \"went to Winnipeg YMCA in 1962.\" He was \"by far the most prolific writer for the CANADIAN CAMPING MAGAZINE.\"",
+      "category": "biography",
+      "entities": [
+        "W. E. Ted Yard",
+        "Camp Pine Crest",
+        "Camp Hollyburn",
+        "Camp Stephens",
+        "Lester Pearson"
+      ],
+      "date_ref": "1919-1983",
+      "confidence": "stated",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4615",
+      "issue": 159,
+      "claim": "Janet Adamson's \"A Pioneer Centre\" describes the log-cabin museum at Camp Gay Venture, whose fourth component is a Camp Archival Collection - \"old camp photos, crests, brochures, letters, manuals... displayed in one area of the cabin for campers to browse through... this collection grows as former campers and staff donate items,\" so that a camper can \"look for a picture of their mother in the photo collection.\" This is a 1986 statement of what a camp of this movement expected its own historical record to be and where it expected it to live.",
+      "category": "archives",
+      "entities": [
+        "Janet Adamson",
+        "Camp Gay Venture"
+      ],
+      "date_ref": "1986",
+      "confidence": "stated",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4616",
+      "issue": 159,
+      "claim": "Canadian Camping's subscription terms as printed in Fall 1986: published four times yearly, non-member subscription $8.00/year, single issue $2.00, submission deadlines 1 October, 1 December, 15 February and 1 May, editorial office R.R. #1, Huntsville, Ontario P0A 1K0. A standing offer is printed: \"If you would like to receive a complete English translation of any article in Canadian Camping Magazine, send a stamped self addressed envelope\" - and the same in reverse for French. The French-language material in this run was therefore not systematically translated, and the two columns are not always the same text.",
+      "category": "sources",
+      "entities": [
+        "Canadian Camping"
+      ],
+      "date_ref": "1986",
+      "confidence": "stated",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4617",
+      "issue": 160,
+      "claim": "Ken Willis, C.C.A./A.C.C. Vice-President (Quebec Region), in the Quebec column of Canadian Camping Vol. 38 No. 3, Winter 1987: \"The organized camping movement in Quebec was born in 1938. Tony Shorgun, who has been involved in camping during many of the intervening years, is already at work laying plans for the 50th Anniversary of this birth which, obviously, will be held next year.\"",
+      "category": "camping_movement",
+      "entities": [
+        "Ken Willis",
+        "Tony Shorgun",
+        "Quebec"
+      ],
+      "date_ref": "1987",
+      "confidence": "stated",
+      "conflicts_with": [
+        "c_029"
+      ],
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4618",
+      "issue": 160,
+      "claim": "A fourth date now exists for the origin of Kanawana's provincial association: 1937 from the archival holdings and Alta Kahn's 1958 coming-of-age party; 1958 for the French section; January 1961, used by the ACQ itself in 1986 for its twenty-fifth; and 1938, from the Quebec seat on the national board in 1987, with a fiftieth anniversary being planned around it for 1988. The date was the premise of an event, not a slip in a column.",
+      "category": "camping_movement",
+      "entities": [
+        "Quebec Camping Association",
+        "Association des camps du Quebec"
+      ],
+      "date_ref": "1937-1988",
+      "confidence": "disputed",
+      "conflicts_with": [
+        "c_029"
+      ],
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4619",
+      "issue": 160,
+      "claim": "Adele Ebbs dated the national association to 1938 because her father helped form the Quebec association in 1937; Ken Willis dated Quebec camping itself to 1938. The two recollections cannot both be right in the way each was offered, and between them they show that the 1937/1938 boundary was genuinely unclear to the people who were there.",
+      "category": "camping_movement",
+      "entities": [
+        "Adele Ebbs",
+        "Ken Willis",
+        "Quebec"
+      ],
+      "date_ref": "1937-1938",
+      "confidence": "inferred",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4620",
+      "issue": 160,
+      "claim": "If a 50th anniversary of Quebec camping was held in 1988 as planned, it would have produced a programme, a press notice or a commemorative publication assembled by Tony Shorgun - a name new to this project. Such a document would be a history of Quebec camping written by a participant, and Kanawana would be in it.",
+      "category": "archives",
+      "entities": [
+        "Tony Shorgun",
+        "Camp Kanawana",
+        "Quebec"
+      ],
+      "date_ref": "1988",
+      "confidence": "inferred",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4621",
+      "issue": 160,
+      "claim": "Kelley Byrne, President of the Camping Association of Nova Scotia and Director of Big Cove YMCA Camp, writes in Canadian Camping Winter 1987 under the heading \"A TRIBUTE TO THE OLDEST CAMP IN CANADA!\": \"The Maritime YMCA, based in Truro, held the first Maritime Boys' Camp in 1891. This Camp quickly became an annual event, and the area of Big Cove in Pictou County became the gathering grounds for large numbers of boys and men.\" The French summary reads: \"Big Cove Camp en Nouvelle Ecosse etait etabli en 1891 par le Y.M.C.A. de Pictou County.\"",
+      "category": "camping_movement",
+      "entities": [
+        "Kelley Byrne",
+        "Big Cove YMCA Camp",
+        "Nova Scotia"
+      ],
+      "date_ref": "1891",
+      "confidence": "stated",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4622",
+      "issue": 160,
+      "claim": "The founding date of Canada's oldest camp now has three values in this project's records - 1889 from Big Cove's encyclopaedic entry, 1890 from Jack Pearse speaking to the Nova Scotia association in 1979, and 1891 from the camp's own director and the province's association president writing a commemorative history in 1987. None is preferred here, and Kanawana's position as Canada's second-oldest camp is unaffected by any of them: 1894 follows all three.",
+      "category": "camping_movement",
+      "entities": [
+        "Big Cove YMCA Camp",
+        "Camp Kanawana"
+      ],
+      "date_ref": "1889-1891",
+      "confidence": "disputed",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4623",
+      "issue": 160,
+      "claim": "Byrne's 1987 tribute to Big Cove YMCA Camp records: floorless bell tents pitched on the grassy hills overlooking Merigomish Harbour; the site \"officially became known as Big Cove YMCA Camp\" and passed to the Halifax YMCA about 1905; girls came in 1939, and the first building - a dining hall - was put up for them; about 100 boys per session, with \"particular emphasis... on providing spaces for underprivileged youths\"; support from the Halifax Y's Men's Club and New Glasgow Gyro Club; a ten-day Girls Camp in 1961 that became regular sessions; closed in 1976 for want of repairs and reopened in 1980.",
+      "category": "camping_movement",
+      "entities": [
+        "Big Cove YMCA Camp",
+        "Halifax YMCA",
+        "Merigomish Harbour"
+      ],
+      "date_ref": "1891-1980",
+      "confidence": "stated",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4624",
+      "issue": 160,
+      "claim": "Big Cove YMCA Camp's traditional pageants in 1987 include \"Indian Ceremonial Night\", described as still running, and \"Our Voyageur program dates back to this time [the late 1940s], challenging older youth to develop expert outtripping, canoeing, axemanship and woodcraft skills.\" A YMCA camp in Nova Scotia adopting a Voyageur programme in the late 1940s is the same decade in which Kanawana took up the Lumbermen-and-Voyageurs competition in 1947. Nothing connects the two beyond the YMCA; the coincidence of date and idiom is recorded, not explained.",
+      "category": "traditions",
+      "entities": [
+        "Big Cove YMCA Camp",
+        "Camp Kanawana"
+      ],
+      "date_ref": "1940s",
+      "confidence": "stated",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4625",
+      "issue": 160,
+      "claim": "John Gilchrist on Mary S. Edgar and the influence of Pauline Johnson, in Canadian Camping Winter 1987: \"Pauline Johnson's type of writing inspired Mary to write legends, Indian legends of her own, built around Lake Bernard and the tribes of Glen Bernard which, in fact, were make-believe but she made them sound the real thing in her story.\" Of the storytelling bench in her cabin: \"How many of them were her own fertile imagination or she had read about was hard to say.\"",
+      "category": "legends",
+      "entities": [
+        "John Gilchrist",
+        "Mary S. Edgar",
+        "Pauline Johnson",
+        "Glen Bernard Camp"
+      ],
+      "date_ref": "1987",
+      "confidence": "stated",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4626",
+      "issue": 160,
+      "claim": "The Gilchrist testimony is a camp legend's own manufacturers describing the process in print and naming the effect they were after. It says nothing about Kanawana's Chopsy legend, but it removes a step from the argument: the default assumption for an undated camp legend of this period should be deliberate authorship dressed as tradition, because that is what a documented practitioner says she was doing.",
+      "category": "legends",
+      "entities": [
+        "Camp Kanawana",
+        "Mary S. Edgar"
+      ],
+      "date_ref": "1987",
+      "confidence": "inferred",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4627",
+      "issue": 160,
+      "claim": "Barbara Gilchrist describes the handover of the Glen Bernard directorship at the last Council Ring of the summer of 1955: Mary Edgar \"had been corresponding with Dawendini, the daughter of the Chief of the Mohawks in Brantford, and received the recommendation that Yehjenhiosta meant 'she who takes over someone else's job or she who keeps the fire burning brightly'.\" Edgar's own council-ring name had been Ogimaqua, given as Ojibwa for \"Friend of Children\"; Gilchrist used Yehjenhiosta \"twice each Saturday night from our first year 1956 through to our last year.\"",
+      "category": "traditions",
+      "entities": [
+        "Barbara Gilchrist",
+        "Mary S. Edgar",
+        "Glen Bernard Camp"
+      ],
+      "date_ref": "1955-1956",
+      "confidence": "stated",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4628",
+      "issue": 160,
+      "claim": "Consulting a named Indigenous person about the meaning of a name before taking it, as Mary Edgar did in 1955, is a third position alongside Ted Yard's refusal of an Indigenous name and Jack Eastaugh's 1973 defence of Indian Lore. It appears in the same interview as the make-believe legends and as Edgar learning \"the customs of the Indians... and the peace pipe... and initiations and challenges\" on \"her trips west\" and introducing them into the Council Ring - consultation and invention in the same programme, from the same person.",
+      "category": "traditions",
+      "entities": [
+        "Mary S. Edgar",
+        "W. E. Ted Yard",
+        "Jack Eastaugh"
+      ],
+      "date_ref": "1955",
+      "confidence": "inferred",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4629",
+      "issue": 160,
+      "claim": "The Glen Bernard Council Ring in operating detail: two rings on the same night - juniors at seven in a hollow, seniors at eight in the natural glen - every Saturday for eight weeks; senior campers elected as Chiefs by their fellow campers, \"given reference books to refer to, to learn of the various tribes in North America,\" each choosing a tribe name, colour scheme, tribal song and yell in the first day or two of camp; an initiation Council Ring, then weekly ones, with \"the whole Camp program built around tribal events\" and a winning tribe announced at the end of the summer. The opening liturgy was John Oxenham's \"Kneel always when you light a fire, kneel reverently and grateful be.\" That is Kanawana's own structure - elected chiefs, named tribes, season-long inter-tribal competition - in a girls' private camp in Ontario, and the two are not known to be connected.",
+      "category": "traditions",
+      "entities": [
+        "Glen Bernard Camp",
+        "Camp Kanawana",
+        "John Oxenham"
+      ],
+      "date_ref": "1987",
+      "confidence": "stated",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4630",
+      "issue": 160,
+      "claim": "The CCA masthead changed between Fall 1986 and Winter 1987: the three regional vice-presidencies (Eastern, Western, Central) became four - Eastern (Ian Fowler), Western (Jan James), Quebec (Ken Willis) and Ontario (Sally Moore, newly appointed). Quebec is no longer half of a \"central\" region shared with Ontario but a named seat on the national executive in its own right.",
+      "category": "camping_movement",
+      "entities": [
+        "Ian Fowler",
+        "Jan James",
+        "Ken Willis",
+        "Sally Moore",
+        "Canadian Camping Association",
+        "Quebec"
+      ],
+      "date_ref": "1987",
+      "confidence": "stated",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4631",
+      "issue": 160,
+      "claim": "Ken Willis on the ACQ at the start of 1987: \"The A.C.Q. has, over the past years, received very significant funding from the Provincial Government. The degree of this funding has been reduced somewhat over the past couple of years and the A.C.Q. now expects there will be significant cut backs due to the financial condition of the Government.\" Members \"will be expected to contribute much more of their time... or they will have to dig further into their pockets.\"",
+      "category": "camping_movement",
+      "entities": [
+        "Ken Willis",
+        "Association des camps du Quebec"
+      ],
+      "date_ref": "1987",
+      "confidence": "stated",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4632",
+      "issue": 160,
+      "claim": "ACQ membership is given as \"holding well at about 110\" at the start of 1987 - against 117 in 1983 and 129 in 1982 - \"with a few being dropped each year because they do not meet standards and a few new ones being added,\" and the board \"each year agonizes over a few camps which seem careless about the paperwork involved in meeting standards.\"",
+      "category": "camping_movement",
+      "entities": [
+        "Association des camps du Quebec"
+      ],
+      "date_ref": "1987",
+      "confidence": "stated",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4633",
+      "issue": 160,
+      "claim": "The cover photograph of Canadian Camping Winter 1987 is captioned \"taken at a Canadian Camping Association Conference at Banff, Alberta in February, 1963,\" adding a month to the 1963 Banff annual meeting at which the affiliation-formula question was first raised. Jocelyn Palm's 1985 list of national conferences (\"1972, 1973, 1975 and 1978\" before the 1983 Congress) should therefore be read as post-reorganisation conferences, not as the complete series; the Edgar interview independently mentions a CCA Conference at Geneva Park in 1973.",
+      "category": "camping_movement",
+      "entities": [
+        "Canadian Camping Association",
+        "Banff",
+        "Jocelyn Palm"
+      ],
+      "date_ref": "February 1963",
+      "confidence": "stated",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4634",
+      "issue": 160,
+      "claim": "The Winter 1987 cover key names eleven office-holders photographed in 1963: Dr. J. Harry Ebbs (first President, Society of Camp Directors); Adele Ebbs (President OCA, President Society of Camp Directors, Chair CCA Archives Committee); June Labbett (President Soc. Camp Dirs., Chair OCA Education Cte.); May Brown (President CCA, President BCCA); Cliff Labbett (President, VP and Treasurer CCA; President and Treasurer OCA; President Soc. Camp Dirs.); John Gilchrist (VP and Treasurer OCA, President Soc. Camp Dirs.); Barb Gilchrist (President OCA, CCA board, Chair OCA Archives Cte.); Lorne Brown (President BCCA, first President of the BC Outdoor Educators, Chair CCA Nature Lore Cte.).",
+      "category": "camping_movement",
+      "entities": [
+        "J. Harry Ebbs",
+        "Adele Ebbs",
+        "June Labbett",
+        "May Brown",
+        "Clifford Labbett",
+        "John Gilchrist",
+        "Barbara Gilchrist",
+        "Lorne Brown"
+      ],
+      "date_ref": "1963",
+      "confidence": "stated",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4635",
+      "issue": 160,
+      "claim": "Mary S. Edgar's route into camping, from the Winter 1987 profile: \"it was her background in the YWCA when she was introduced to camping at YWCA Camp Oolahwan in Quebec. That was her first taste of Camping\" - and she came to it already trained, having \"took training for girls' work in the Y in New York,\" not as a camper. The Quebec YWCA camp that visited Kanawana repeatedly through the 1940s is therefore where the first editor of Canadian Camping and Honorary President of the CCA learned the work.",
+      "category": "biography",
+      "entities": [
+        "Mary S. Edgar",
+        "Camp Oolahwan",
+        "Camp Kanawana",
+        "YWCA"
+      ],
+      "date_ref": "1987",
+      "confidence": "stated",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4636",
+      "issue": 160,
+      "claim": "Further details of Mary S. Edgar from the Winter 1987 profile: her father was a Sundridge general merchant who supplied the lumber mills, was eventually MPP for Parry Sound District, and bought the lumber for the first cabins; all four Edgar daughters were educated at Havergal College; Glen Bernard opened in 1922 with \"about 30\" campers (\"under 40... but over 30\") against the 38 this project records, and more than doubled in year two; the property, an abandoned farm, grew to 590 acres; Mary Northway was one of her earliest campers; the fireplaces were built by Angus Buchanan, a Sundridge stone mason; the New Lodge went up in 1932 (builder Hugo Grimm) and the new Dining Room in 1966, with a bronze plaque carrying her motto \"The best of each for the good of all.\"",
+      "category": "biography",
+      "entities": [
+        "Mary S. Edgar",
+        "Glen Bernard Camp",
+        "Mary L. Northway",
+        "Havergal College"
+      ],
+      "date_ref": "1922-1966",
+      "confidence": "stated",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4637",
+      "issue": 160,
+      "claim": "Mary S. Edgar handed Glen Bernard to the Gilchrists at the last Council Ring of 1955; they ran it from 1956; and Jocelyn Palm - who \"came recommended from Dais Gass' Memphremagog,\" a Quebec camp, and whose predecessor as CCA president Gass had been - succeeded them about 1977. Edgar's world tour with her parents was in 1921; her Sundridge park at High Rock, five and a half acres bought with stock-market money and landscaped at her expense, was her 1967 Centennial project, given to the town of Sundridge and Strong Township; and she received the Centennial Medal on 9 March 1968 at the Ontario Camping Association's closing banquet, the citation read by Dr. Mary L. Northway.",
+      "category": "biography",
+      "entities": [
+        "Mary S. Edgar",
+        "Jocelyn Palm",
+        "Dais Gass",
+        "Glen Bernard Camp",
+        "Mary L. Northway"
+      ],
+      "date_ref": "1955-1968",
+      "confidence": "stated",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4638",
+      "issue": 160,
+      "claim": "Two documented disagreements about Mary S. Edgar's bibliography, recorded and not resolved: the Winter 1987 \"Under Open Skies\" attribution line dates Under Open Skies to 1955 (Clarke, Irwin & Company) where this project records 1956 from her fonds description; and the same feature calls her \"author of three delightful, inspirational books\" where this project records four, adding The Christmas Wreath of Verse (1967).",
+      "category": "sources",
+      "entities": [
+        "Mary S. Edgar"
+      ],
+      "date_ref": "1987",
+      "confidence": "disputed",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4639",
+      "issue": 160,
+      "claim": "The music for \"God Who Touchest Earth With Beauty\" was written by Magistrate James Edmund Jones, founder of the Aura-Lee Boys' Club, whose cottage was on Lake Bernard; the hymn was translated into many languages, and in Japanese the pine had to be replaced by a straight tree. A second Edgar hymn is printed with music by Jack Pearse (copyright 1979 Jack Pearse Limited), \"God of the night, the stars, the skies.\"",
+      "category": "traditions",
+      "entities": [
+        "Mary S. Edgar",
+        "James Edmund Jones",
+        "Jack Pearse"
+      ],
+      "date_ref": "1987",
+      "confidence": "stated",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4640",
+      "issue": 160,
+      "claim": "John Gilchrist, independently of Adele Ebbs, names the same six founders: \"she was in with the founding fathers... I should mention the six of them. There was Taylor Statten, Ferna Halliday, A. L. Cochrane, Mary Hamilton, Ernie Chapman... and Mary S. Edgar. They got together and decided they wanted to form a Camping Association as a vehicle where they could exchange ideas and learn things from one another.\" The interviewer supplies: \"That was the Ontario Camping Association. Taylor Statten was the first President, in 1933,\" and Edgar the second, in 1939.",
+      "category": "camping_movement",
+      "entities": [
+        "John Gilchrist",
+        "Taylor Statten",
+        "Ferna Halliday",
+        "A. L. Cochrane",
+        "Mary G. Hamilton",
+        "Ernie Chapman",
+        "Mary S. Edgar",
+        "Ontario Camping Association"
+      ],
+      "date_ref": "1933",
+      "confidence": "stated",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4641",
+      "issue": 160,
+      "claim": "The \"founding circle\" of six that Adele Ebbs described as a social supper club whose secretary she became is, on John Gilchrist's independent testimony, the founding group of the Ontario Camping Association in 1933 - not of the national association. Whatever happened nationally in 1936, 1938 or 1947 is a separate act, which removes one source of confusion from the founding-date question.",
+      "category": "camping_movement",
+      "entities": [
+        "Ontario Camping Association",
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1933",
+      "confidence": "inferred",
+      "conflicts_with": [
+        "c_029"
+      ],
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4642",
+      "issue": 160,
+      "claim": "Barry Lowes's immigration committee report in Winter 1987 records that a new requirement of \"a Medical Examination for all foreign camp counsellors\" disrupted the protocol in 1986; a personal meeting with Jake Epp, Minister of Health and Welfare, in early May got it amended, and a November meeting in Ottawa simplified it further. \"Hiring foreign camp counsellors is a privilege granted, not a right of Canadian camps.\" The liaison at Employment and Immigration is named as Rick Morrison.",
+      "category": "context",
+      "entities": [
+        "Barry Lowes",
+        "Jake Epp",
+        "Rick Morrison",
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1986-1987",
+      "confidence": "stated",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4643",
+      "issue": 160,
+      "claim": "Bruno Morawetz reports in Winter 1987 that the provincial associations were asked to send newsletters, minutes and notices to Trent \"in order that they would constitute a permanent record of camping in Canada during 1986,\" and that the archivist Mrs. Bernadine Dodge \"has received several of the brown envelopes commonly known as the 'Brown Bag'.\" He adds that \"some Provincial Associations have their own archives where they collect printed material about their member camps and it is hoped that before long all Provincial Associations will establish their own archives committees.\" The committee's framing: \"It has always been difficult to make people aware that the events of today will form an interesting piece of history in two or three decades.\"",
+      "category": "archives",
+      "entities": [
+        "Bruno Morawetz",
+        "Bernadine Dodge",
+        "Trent University",
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1987",
+      "confidence": "stated",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4644",
+      "issue": 160,
+      "claim": "With the ACQ's 1986 archive reclassification recorded at issue 159 and the CCA archives chairman's 1987 note that some provincial associations keep their own archives, there are two independent reasons to ask the Quebec association what it holds rather than only Trent.",
+      "category": "archives",
+      "entities": [
+        "Association des camps du Quebec",
+        "Trent University"
+      ],
+      "date_ref": "1986-1987",
+      "confidence": "inferred",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4645",
+      "issue": 160,
+      "claim": "Over one hundred Canadians were expected at the Washington congress of March 1987, every province represented, with a reception at the Canadian Embassy; the printed programme lists the Canadian sessions, and no Quebec presenter appears among the nineteen. Janet Adamson planned visits to British Columbia in March, Newfoundland in April and Quebec in May 1987. The French Language Committee would present \"a first copy of the language policies of the CCA/ACC\" at the January meeting and send a needs questionnaire to identified French-language camps early in 1987; INCEF 87, the second edition, was in production.",
+      "category": "camping_movement",
+      "entities": [
+        "Janet Adamson",
+        "Canadian Camping Association",
+        "Quebec"
+      ],
+      "date_ref": "1987",
+      "confidence": "stated",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4646",
+      "issue": 160,
+      "claim": "Camp Oconto's dining hall burned at about 5:45 a.m. on 24 June 1986, three days before camp opened; the Wilsons' account of feeding 300 people from rented ATCO trailers, with the Army supplying stoves, tables and chairs, is the most detailed camp-crisis document in this run. Lisa Wilson is the daughter of June and Cliff Labbett. Camp Cheboygan, on the south shore of Skeleton Lake, Muskoka, lost its lodge to fire on the evening of 25 August 1937; the Archives Committee was appealing for information about it and its director Blyth Thomas.",
+      "category": "camping_movement",
+      "entities": [
+        "Camp Oconto",
+        "Camp Cheboygan",
+        "Lisa Wilson",
+        "June Labbett",
+        "Clifford Labbett",
+        "Blyth Thomas"
+      ],
+      "date_ref": "1937-1986",
       "confidence": "stated",
       "sources": [
         "src_ia_canadian_camping_collection"
