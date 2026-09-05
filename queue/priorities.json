@@ -5153,6 +5153,17 @@
       "created": "2026-09-05",
       "source": "caught reviewing the p_410 correction commit, 2026-09-05",
       "blocked_on": null
+    },
+    {
+      "priority_id": "p_412",
+      "rank": 411,
+      "type": "VERIFY",
+      "description": "93 OF 100 'disputed' FACTS CARRY NO CONFLICT RECORD. CLAUDE.md's conflict rule says that when a new fact contradicts an existing one the response is to create a conflict record linking both and flag it for review. In practice most contradictions were recorded only as fact-to-fact conflicts_with links, or as confidence:disputed with nothing linked at all. The consequence is that kb/conflicts.json -- the file 'kb-conflicts' reads, and the file a human scans to see what still needs deciding -- undercounts the real number of live disagreements by roughly an order of magnitude. Sixteen of the 93 have no conflicts_with entry of any kind, so nothing anywhere records what they are disputed AGAINST; those are the worst, because a later reader cannot reconstruct the disagreement. TASK: triage the 93. For each, either (a) raise a conflict record, (b) resolve it if the KB already answers it, or (c) downgrade the confidence if 'disputed' was never right. Do NOT bulk-generate 93 conflict records -- several will turn out to be the same disagreement seen from both sides, and a pair should produce one record, not two. Surfaced by scripts/verify/staleness.py, which reports the count on every run.",
+      "weight": 8,
+      "status": "pending",
+      "created": "2026-09-05",
+      "source": "whole-build staleness sweep, 2026-09-05",
+      "blocked_on": null
     }
   ],
   "queue_ordering": {

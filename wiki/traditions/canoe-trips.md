@@ -1,6 +1,6 @@
 # Canoe Trips at Kanawana
 
-*Status: E1-reviewed | Sources: McMorris (2023) Ch3, KB canoe_trips, YMCA Quebec website, src_ymca_kanawana_adventurers_pathfinders_2026, src_ymca_kanawana_explorers_pioneers_2026, src_wikipedia_lac_landron, src_reserve_laverendrye_history, src_radiocanada_sepaq_laverendrye_2022*
+*Status: E1-reviewed | Sources: 22*
 *Last Updated: 2026-09-04 (word-for-word read of *Canadian Camping*, issue 138: Bagnell's 1981 white-water precautions and fourteen dangers; the CRCA five-level bilingual award scheme; the 1981 National Wilderness Travel Leadership School)*
 *Last Updated: 2026-07-09 (open-questions research pass: confirmed Lac Landron's real geography and the Reserve's canoe-camping administration history; circumstantial evidence the 1962-63 lease has lapsed, though not directly confirmed)*
 *Last Updated: 2026-07-05 (named trip staff added from photo-mined canoe-trip plaques, p_191 ENRICH pass) — photo gallery added 2026-07-02*

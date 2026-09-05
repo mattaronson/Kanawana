@@ -1,6 +1,6 @@
 # Kanawana in Wartime (1939-1946)
 
-*Status: E1 Reviewed | Sources: CFCF broadcast 1941 (Internet Archive), Green Triangle 1938 (Internet Archive), McMorris (2023), KB season data*
+*Status: E1-reviewed | Sources: 8*
 
 When the Second World War broke out in September 1939, Camp Kanawana had been operating for forty-five seasons. A CFCF radio broadcast from June 10, 1939 — just months before the declaration of war — promoted the upcoming camp season, making it one of the last records of pre-war normalcy at Kanawana. The war years brought a distinctive chapter to the camp's history: while many former counsellors and staff enlisted, the camp itself became a refuge for young evacuees from Britain and continental Europe, and continued its mission of youth development under wartime constraints. The camp operated every summer through the war, though it was not without disruption.
 

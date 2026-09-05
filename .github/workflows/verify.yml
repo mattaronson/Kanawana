@@ -59,6 +59,16 @@ jobs:
         # while the back catalogue is triaged (p_401).
         run: python scripts/verify/citation_aim.py
 
+      - name: Staleness
+        # Advisory. Every other check asks whether the build is consistent NOW.
+        # This asks whether a later finding left an earlier record behind --
+        # a conflict still carrying a resolution its article has overturned, a
+        # superseded fact still cited, a review comment contradicting the
+        # article it sits in. Each file is valid on its own; the defect is that
+        # together they say two things. Exits 0: it reports disagreements, a
+        # human adjudicates them.
+        run: python scripts/verify/staleness.py
+
       - name: Embargo labelling
         # Every embargoed fact registered and dated, every marker paired, and
         # no embargoed-only name loose in an article. Unlabelled is the
