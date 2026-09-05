@@ -6892,36 +6892,40 @@
     },
     {
       "fact_id": "f_0411",
-      "claim": "Big Cove YMCA Camp in Merigomish Harbour, Pictou County, Nova Scotia (founded 1889) is the oldest residential summer camp in Canada, predating Camp Jubilee/Kanawana (1894) by five years",
+      "claim": "Big Cove YMCA Camp in Merigomish Harbour, Pictou County, Nova Scotia (founded 1889) is the oldest residential summer camp in Canada, predating Camp Jubilee/Kanawana (1894) by five years. [Flagged 2026-09-05: the 1889 date is an encyclopaedic one and is contradicted by two later statements from inside the camping movement -- Jack Pearse's 1890 to the Nova Scotia association in 1979, and Big Cove's own director Kelley Byrne dating the first Maritime Boys' Camp to 1891 in 1987 (f_4621). Preserved as recorded; see c_031.]",
       "sources": [
         "src_wikipedia_big_cove"
       ],
-      "confidence": "stated",
+      "confidence": "disputed",
       "category": "camping_movement",
       "entities": [
         "Big Cove YMCA Camp",
         "Camp Kanawana"
       ],
       "date_ref": "1889",
-      "conflicts_with": [],
+      "conflicts_with": [
+        "c_031"
+      ],
       "added_version": "4.1",
       "added_by": "ralph_loop"
     },
     {
       "fact_id": "f_0412",
-      "claim": "Camp Kanawana (as Camp Jubilee, 1894) is Canada's second-oldest residential summer camp after Big Cove (1889), and Quebec's first residential summer camp. Both are YMCA camps.",
+      "claim": "Camp Kanawana (as Camp Jubilee, 1894) is Canada's second-oldest residential summer camp after Big Cove (1889), and Quebec's first residential summer camp. Both are YMCA camps. [SUPERSEDED 2026-09-05 as to the national ranking, which this project has withdrawn: Big Cove's own date ranges over 1889-1891 and YM-YWCA Camp Stephens claims a start in 1891 (f_4665), while a Kanawana founder dates the same Lake of the Woods camping to 1894 (f_4666). Three of the four candidate dates now fall in 1889-1891 (f_4668). The Quebec claim in this fact stands unaffected; the second-oldest claim does not. Preserved, not deleted; see c_031.]",
       "sources": [
         "src_wikipedia_big_cove",
         "src_ymca_website"
       ],
-      "confidence": "stated",
+      "confidence": "disputed",
       "category": "camping_movement",
       "entities": [
         "Camp Kanawana",
         "Big Cove YMCA Camp"
       ],
       "date_ref": "1894",
-      "conflicts_with": [],
+      "conflicts_with": [
+        "c_031"
+      ],
       "added_version": "4.1",
       "added_by": "ralph_loop"
     },

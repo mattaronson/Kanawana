@@ -5019,6 +5019,17 @@
       "created": "2026-09-05",
       "source": "word-for-word read of Canadian Camping, issues 133-137, converted to KB facts",
       "blocked_on": null
+    },
+    {
+      "priority_id": "p_400",
+      "rank": 399,
+      "type": "RESEARCH",
+      "description": "SOURCE OR DROP THE CAMP KEEWAYDIN 1893 CLAIM. traditions/myths-and-legends.md has said since it was written that 'Camp Keewaydin in Ontario, founded in 1893, also predates Kanawana by one year.' The sentence cited f_0412, which says nothing about Keewaydin, and the KB holds no Keewaydin fact at all -- the citation was wrong and the claim is unsupported. It is now marked in the article as an unverified carry-over. Keewaydin's Canadian operation (Devil's Gap / Temagami) has a documented history and the date should be easy to establish or refute; Keewaydin Temagami is usually given as 1893 but the camp's origin is Vermont, 1893 or earlier, which may be what the original claim confused. Resolve it and either cite it properly or remove the sentence. Found while withdrawing the 'Canada's second-oldest' ranking after the Camp Stephens finding (c_031).",
+      "weight": 5,
+      "status": "pending",
+      "created": "2026-09-05",
+      "source": "citation audit of myths-and-legends.md during the c_031 ranking withdrawal",
+      "blocked_on": null
     }
   ],
   "queue_ordering": {
