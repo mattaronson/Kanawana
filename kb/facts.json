@@ -1,8 +1,8 @@
 {
-  "version": "6.30",
-  "kb_version": "6.30",
+  "version": "6.31",
+  "kb_version": "6.31",
   "migrated_from": "3.3",
-  "fact_count": 4811,
+  "fact_count": 4814,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -86251,6 +86251,57 @@
       "date_ref": "1975",
       "conflicts_with": [],
       "added_version": "6.30",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_4850",
+      "claim": "THE PLAQUE CORPUS IS AN ATTENDANCE RECORD NOBODY HAD READ AS ONE. Kanawana's cabin, section and staff plaques name people by season, and the person index built from them (p_291) carries dated appearances for 1955, 1956, 1959-1965, 1968, 1970, 1972, 1973, 1975, 1979-1990, and 1992-2010. A plaque naming a cabin's campers and counsellor in a given year is direct physical evidence that the camp ran that season -- the plaque was made at camp, in that season, for those people. That closes, on artefact evidence, every year the attendance series had blank in 1981-1984, 1989-1990, 1992-1993, 1995-1997, 2002-2004 and 2006-2010. It is evidence of operation, not of attendance: the corpus counts the people who happen to appear on surviving boards, which is a fraction of a season's camp and varies wildly with what survived (two names in 1987, 205 in 2008).",
+      "sources": [
+        "src_flickr_kanawana_plaque_album"
+      ],
+      "confidence": "stated",
+      "category": "attendance",
+      "entities": [
+        "Camp Kanawana"
+      ],
+      "date_ref": "1955-2010",
+      "conflicts_with": [],
+      "added_version": "6.31",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_4851",
+      "claim": "THE L&V TROPHY IS A SEASON-BY-SEASON RECORD OF OPERATION, WITH ONE DOCUMENTED EXCEPTION THAT PROVES THE LIMIT. The Kanawana Annual Trophy carries a shield for every season from 1947 to 2025 except 2021, and the roll was transcribed in full (f_2000, f_2001). A shield means the Games were contested that summer, which in an ordinary year means the camp ran. THE EXCEPTION IS 2020: a shield exists for it, and the camp did not run -- the Games were played remotely by alumni and campers from their own homes (f_2007). So a shield is strong evidence of a season and not conclusive evidence of a RESIDENTIAL season, and this is the one year in the roll's seventy-nine where the two come apart, documented as such. For 1976-2019 no source suggests any other remote or suspended year, and the plaque corpus independently attests most of those seasons.",
+      "sources": [
+        "src_photo_lv_annual_trophy",
+        "src_oral_aronson"
+      ],
+      "confidence": "inferred",
+      "category": "attendance",
+      "entities": [
+        "Camp Kanawana",
+        "Lumbermen and Voyageurs Games"
+      ],
+      "date_ref": "1947-2025",
+      "conflicts_with": [],
+      "added_version": "6.31",
+      "added_by": "ralph_loop"
+    },
+    {
+      "fact_id": "f_4852",
+      "claim": "THE 1906 SEASON, WITH A TOTAL: the YMCA of Montreal's report for the year ending 30 April 1907 gives the past season in its own section. \"The Summer Camp was opened at Lac St. Joseph for the Victoria Day party, May 24th. The Business Boys' Camp, June 16-30; School Boys, June 30 to July 14, and Senior Camp, July 14 to September 8. The attendance was:\" -- and then a four-line table, Victoria Day party, Business Boys, School Boys, Seniors, totalling 216. The four component figures are ILLEGIBLE in the OCR; only the total is readable. So 1906 is a season attested with a combined boys-and-seniors total and no boys-only figure, and the split is recoverable from the printed page if anyone reaches it.",
+      "sources": [
+        "src_ymf_sgw_ymca_annual_report_1907"
+      ],
+      "confidence": "stated",
+      "category": "attendance",
+      "entities": [
+        "Camp Jubilee",
+        "Lac St. Joseph"
+      ],
+      "date_ref": "1906",
+      "conflicts_with": [],
+      "added_version": "6.31",
       "added_by": "ralph_loop"
     }
   ]

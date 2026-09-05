@@ -1,6 +1,6 @@
 # Attendance at Kanawana, 1894–2023
 
-*Status: draft | Sources: 8*
+*Status: draft | Sources: 10*
 *Last Updated: 2026-09-05*
 
 ## Overview
@@ -29,6 +29,7 @@ Two camps ran in parallel on one leased lake: the Junior Department's boys' camp
 | **1903** | **210** | — | "210 campers attended Camp Jubilee in 1903" — a figure this project already held and this series had never carried [f_0666] |
 | 1904 | 79 | — | "the largest camp ever conducted" |
 | **1905** | *(ran)* | — | "We consider it to have been one of the most successful Camps we have ever held" [f_4848] |
+| **1906** | *(216 total)* | *(in the 216)* | "The Summer Camp was opened at Lac St. Joseph for the Victoria Day party, May 24th"; Business Boys 16–30 June, School Boys 30 June–14 July, Senior Camp 14 July–8 September. The four component figures are illegible in the OCR; only the total survives [f_4852] |
 | **1907** | **77** | — | Two sections from 15 June: 28 Business Boys, then 41 School Boys with eight leaders [f_4848] |
 | **1908** | *(ran)* | — | The report thanks "the volunteer leaders with the Junior Camp" for making "this season's Camp a success" [f_4848] |
 | 1909 | 66 | — | 19 June – 17 July |
@@ -163,18 +164,52 @@ instead. The likely cause is the association's June-to-May fiscal year: a report
 sits across two summers, and the wrong one was picked. That is the fourth dated error in this wiki
 traceable to the fiscal-year problem the Dating note warns about.
 
-**What the fill does not do is prove continuity.** These are seasons *attested*, and several are
+## A second fill, from artefacts rather than reports
+
+The reports run out long before the record does. Two bodies of physical evidence already held here carry
+seasons the reports never mention.
+
+**The plaque corpus.** Kanawana's cabin, section and staff plaques name people by season, and the person
+index built from them carries dated appearances for 1955, 1956, 1959–65, 1968, 1970, 1972, 1973, 1975,
+1979–90 and 1992–2010. A board naming a cabin's campers and their counsellor in a given summer was made
+at camp, in that summer, for those people: it is direct physical evidence the season happened. That
+alone closes **1981–1984, 1989–90, 1992–93, 1995–97, 2002–04 and 2006–2010** [f_4850]. What it does not
+give is attendance. The corpus counts whoever appears on boards that survived, which swings from two
+names in 1987 to 205 in 2008 and says nothing about how many were at camp.
+
+**The L&V trophy.** The Kanawana Annual Trophy carries a shield for every season from 1947 to 2025
+except 2021, transcribed in full. A shield means the Games were contested that summer, and in an
+ordinary year that means the camp ran — which covers every remaining blank from 1976 forward.
+
+**And the trophy contains its own warning.** There is a **2020** shield, and the camp did not run in
+2020: the Games were played remotely, by alumni and campers from their own homes. So a shield is strong
+evidence of a season and not conclusive evidence of a *residential* season, and the one year in
+seventy-nine where the two come apart is documented as such [f_4851, f_2007]. For 1976–2019 nothing
+suggests another remote year, and the plaques independently attest most of those seasons — but the
+distinction is worth keeping, because it is exactly the kind of thing a later reader would otherwise
+have to rediscover.
+
+**1906 came out of the same pass.** The report for the year ending 30 April 1907 gives the season in its
+own words — "The Summer Camp was opened at Lac St. Joseph for the Victoria Day party, May 24th. The
+Business Boys' Camp, June 16-30; School Boys, June 30 to July 14, and Senior Camp, July 14 to September
+8" — and a four-line attendance table totalling **216**. Only the total is legible in the OCR; the four
+components are not, so this is a combined boys-and-seniors figure with no boys-only split, and the split
+is sitting on the printed page for whoever reaches it [f_4852].
+
+**What is still blank, after both fills: 1911, 1914 and 1920 — three seasons.** Each needs a volume this
+project does not hold: the reports covering the 1911, 1914 and 1920 seasons, which would be the annual
+reports of 1912, 1915 and 1921. The digitized run jumps 1910 → 1913, 1914 → 1915 with no Kanawana
+content in the 1915, and 1920 → 1921-1922.
+
+**What the fills do not do is prove continuity.** These are seasons *attested*, and several are
 attested only in the weakest way the tables mark as *(ran)* — a season named in a sentence about
 something else, or, for 1950, attested only because the next year's report compares against it. That is
 still evidence of operation, which is what the 126-consecutive-seasons claim needs; it is not an
 attendance figure, and the tables do not pretend otherwise.
 
-**Still nothing at all for these seasons:** 1911, 1914, 1919 (as distinct from the disputed 289-boy
-season), 1920, 1981–1984, 1989–1993, 1995–1997 and most of 2010–2019. Some are close to reach: the
-Order of Owens roll, the plaque corpus and the L&V winners roll each carry named campers and results
-in years the annual reports skip, and the L&V roll alone runs unbroken across 1991–1998 [f_2015]. The
-years 1911, 1914, 1919 and 1920 are the hard ones, and the reports for 1912 and 1915 are the volumes
-this project does not hold.
+**Seasons the reports alone left blank:** 1911, 1914, 1919 (as distinct from the disputed 289-boy
+season), 1920, 1981–1984, 1989–1993, 1995–1997 and most of 2010–2019. All but three are closed by the
+artefacts, in the section below.
 
 ## What the shape of the series shows
 
@@ -189,13 +224,13 @@ Three things stand out and none of them is visible from any single article.
 ## Open Questions
 
 1. [Important] Settle the 289-boy season. The FY1919-20 report's own audit date makes 1919 the natural reading, but three later tables disagree. A 1920 or 1921 season report, if one survives at Concordia, would fix the column.
-2. [Important, largely closed 2026-09-05] What are the missing years? **Twenty-two were filled on
-   2026-09-05 from documents already in this repository** — 1900, 1902–03, 1905, 1907–08, 1950–51,
-   1960–62, 1970–71, 1973–79 and 1985–87 — and the 1974 figure was corrected. See "The 2026-09-05 fill"
-   above. **What is still blank: 1911, 1914, 1919, 1920, 1981–1984, 1989–1993, 1995–1997, 2002–04 and
-   most of 2006–19.** The nearest sources are the Order of Owens roll, the plaque corpus and the L&V
-   winners roll for the 1990s, the YMCAs of Quebec annual reports for the 2010s, and — for 1911, 1914
-   and 1915 — annual report volumes this project does not hold.
+2. ~~[Important] What are the missing years?~~ **[Largely closed 2026-09-05.]** Twenty-three seasons were
+   filled from documents already in this repository — 1900, 1902–03, 1905–08, 1950–51, 1960–62, 1970–71,
+   1973–79 and 1985–87 — the 1974 figure was corrected, and the plaque corpus and the L&V trophy then
+   closed every remaining year from 1976 forward as *operating*. **Three seasons are still blank:
+   1911, 1914 and 1920.** Each needs a volume this project does not hold — the annual reports covering
+   those seasons, published in 1912, 1915 and 1921 — and none is in the digitized run. That is now a
+   question about three specific books, not about a scattered forty years.
 3. [Nice-to-have] Reconcile the 40,000 (1964) and 34,000 (1984) lifetime totals, or establish that both are institutional round numbers rather than counts.
 4. [Nice-to-have] The balance-sheet property valuations run in every annual report from 1925 ($17,876.39) through at least 1951 ($70,567.80). A book-value series across eighty years is extractable but the columnar OCR is badly damaged and each figure needs checking against the page image — queued as `p_259`.
 5. [Nice-to-have] Fee data is sparse but now spans seven years: **$8.50/week is documented for 1923** (the *Gas Bag* Extra: "The cost is $8.50 per week. This includes one return trip from Montreal to Camp") **and again for 1927, 1928 and 1929** — unchanged across at least that span, each time with the note that it was deliberately below every other permanent camp "to keep the cost within reach of the average home."
@@ -220,6 +255,8 @@ Three things stand out and none of them is visible from any single article.
 6. Kamp Kanawana directors' reports, 1971 and 1973–1979 and 1987, read for attendance on 2026-09-05 [src_ia_kanawana_report_1971], [src_ia_kanawana_report_1973], [src_ia_kanawana_report_1974], [src_ia_kanawana_report_1975], [src_ia_kanawana_directors_report_1976], [src_ia_kanawana_report_1977], [src_ia_kanawana_report_1978], [src_ia_kanawana_report_1979], [src_ia_kanawana_report_1987], [src_ia_kanawana_report_1970]. See [f_4843], [f_4844], [f_4845], [f_4849].
 7. YMCA of Montreal annual reports for 1903, 1906, 1908, 1909, 1951, 1960, 1961 and 1962, read for the gap seasons on 2026-09-05 [src_ymf_sgw_ymca_annual_report_1903], [src_ymf_sgw_ymca_annual_report_1906], [src_ymf_sgw_ymca_annual_report_1908], [src_ymf_sgw_ymca_annual_report_1909], [src_ymf_sgw_ymca_annual_report_1951], [src_ymf_sgw_ymca_annual_report_1960], [src_ymf_sgw_ymca_annual_report_1961], [src_ymf_sgw_ymca_annual_report_1962]. See [f_4846], [f_4847], [f_4848].
 8. Report of the Junior Camp Committee, 1900, dated 30 November 1900 [src_ymf_1900_11_30_report_of_the_junior_camp_committee]. The 45 boys, the six tents, the eleven wet days and the $5.05. See [f_4848].
+9. Kanawana plaque corpus and the person index built from it (p_291) [src_flickr_kanawana_plaque_album]; the Kanawana Annual Trophy for Lumbermen Voyageur Games, winners shields 1947–2025 [src_photo_lv_annual_trophy]. Read as season evidence on 2026-09-05. See [f_4850], [f_4851].
+10. YMCA of Montreal annual report for the year ending 30 April 1907, for the 1906 season [src_ymf_sgw_ymca_annual_report_1907]. See [f_4852].
 
 ## Research Notes
 

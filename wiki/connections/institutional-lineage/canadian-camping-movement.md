@@ -503,9 +503,13 @@ own directors' reports and the association's annual reports attest seasons for 1
 1907–08, 1950–51, 1960–62, 1970–71, 1973–79 and 1985–87 — the 1970s now run unbroken with camper-week
 figures for every season from 1970 to 1979 [f_4843, f_4845, f_4846, f_4847, f_4848]. The gap was not an
 absence of evidence but an absence of assembly: every one of those documents was already catalogued
-here and marked read. **Still blank: 1911, 1914, 1919, 1920, 1981–1984, 1989–1993, 1995–1997, 2002–04
-and most of 2006–19.** Until those are closed the 126 remains a claim resting partly on silence, and
-anyone wishing to use it publicly should say so.
+here and marked read. A second pass the same day read two bodies of physical evidence as season
+records — the plaque corpus, whose boards name campers and counsellors by summer, and the L&V trophy,
+which carries a shield for every season from 1947 to 2025 but one — and closed every remaining year from
+1976 forward [f_4850, f_4851]. **Three seasons are still blank: 1911, 1914 and 1920**, each needing an
+annual-report volume this project does not hold. The trophy carries its own caveat: there is a 2020
+shield and the camp did not run in 2020, the Games having been played remotely, so a shield attests a
+season and not necessarily a residential one.
 
 ### The association after the money stopped: a delivery agent with a federal programme
 

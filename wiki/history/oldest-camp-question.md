@@ -407,9 +407,11 @@ run are documented as operating — both wars, 1918 specifically, and the 1946 p
 **Twenty-two of those years were closed on 2026-09-05** from documents already in this repository — the
 camp's own directors' reports and the association's annual reports — covering 1900, 1902-03, 1905,
 1907-08, 1950-51, 1960-62, 1970-71, 1973-79 and 1985-87, with the 1970s now unbroken and carrying a
-camper-week figure for every season [f_4843, f_4846, f_4848]. **Still blank: 1911, 1914, 1919, 1920,
-1981-1984, 1989-1993, 1995-1997, 2002-04 and most of 2006-19.** Until those close the 126 rests partly
-on silence, and should be used publicly only with that said.
+camper-week figure for every season [f_4843, f_4846, f_4848]. A second pass read the plaque corpus and
+the L&V trophy as season records and closed every remaining year from 1976 forward [f_4850, f_4851].
+**Three seasons are still blank: 1911, 1914 and 1920**, each needing an annual-report volume this
+project does not hold. One caveat travels with the trophy: a 2020 shield exists and the camp did not run
+in 2020, so a shield attests a season, not necessarily a residential one.
 
 ## What Kanawana actually is
 
