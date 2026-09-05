@@ -116,6 +116,21 @@ Today, canoe tripping remains central to the Kanawana experience. The 2026 progr
 - [[site/the-kanawana-site|The Kanawana Site]]
 - [[people/a-ross-seaman|A. Ross Seaman]]
 
+### What a ten-day canoe trip cost in 1926
+
+Adele Ebbs reprinted, in 1986, a complete outfitting list made in **1926** by **Herbert B. Bell**, "an experienced canoe-trip leader," for **two men on a ten-day canoe trip in Algonquin Park**. The food was side bacon, cheese, flour, rolled oats, salt pork, tinned goods, peanut butter, dried apples, dried peaches, rice, raisins, macaroni, dried whole milk, butter, carrots, sugar, four loaves of bread, Crisco, coffee, syrup, pepper and baking powder; the equipment a box of matches, a medical kit, six candles, two small pails, a frying pan, two cups, two knives, three plates, three bowls, two quarts, two dessert spoons, a teaspoon, two packsacks and a length of rope. The costs are given as:
+
+| | |
+|---|---|
+| Food | $11.18 |
+| Equipment | $6.60 |
+| Canoe (rental) | $8.00 |
+| **Total** | **$25.78** |
+
+— "approximately **$1.25 per person per day**."^22
+
+This is the only itemised cost of a 1920s Canadian canoe trip found by this project, and it is a direct comparator for Kanawana's own tripping in the same decade: the camp was running canoe trips out of Lake Wilson through the 1920s, and the figure gives a sense of what its per-camper tripping costs would have been against a season fee. Nothing here is a Kanawana record; it is a contemporary benchmark from the same years and the same kind of country.
+
 ## Sources
 
 *Renumbered 2026-08-14. This list was previously an unnumbered bullet list, while the body carried numeric markers ^3–^7 — so none of those five citations resolved to anything. Only ^7 had a label, on the eighth bullet. The list is now numbered in its original order, and the markers point where the ^7 label implies they were always meant to.*
@@ -141,3 +156,4 @@ Today, canoe tripping remains central to the Kanawana experience. The 2026 progr
 19. Andrew Sinclair, "Wilderness Travel Leadership Course," *Canadian Camping* Vol. 33 No. 4 (June 1981), pp. 6-7 [src_ia_canadian_camping_collection]. Sinclair's report to the Camping Association of Nova Scotia on the 1981 CCA National Wilderness Travel Leadership School at Yamnuska Centre. Found by the same read (issue 138).
 20. "News from Publications" (the Society of Camp Directors' donation of *Canoe Tripping Practices in Canada*, John R. Latimer, Research Chairman, 1979) and Mike Budd, "The Risk Factor in Outdoor Pursuits," reprinted from *Runner* (Health & Physical Education Council, Alberta Teachers' Association), *Canadian Camping* Vol. 33 No. 6 (Winter 1982), pp. 11-13 [src_ia_canadian_camping_collection]. Found by the same read (issue 140).
 21. "The Camping Advisor," *Canadian Camping* Vol. 34 No. 3 (Autumn 1982), p. 5 [src_ia_canadian_camping_collection], quoting Michael Hatton, *Lightweight Camping: A Four Season Source Book*. Found by the same read (issue 143).
+22. Adele Ebbs, "Canoe Tripping — In The 1920's," *Canadian Camping Magazine* Vol. 38 No. 1 (Summer 1986), p. 9, reprinting Herbert B. Bell's 1926 list [src_ia_canadian_camping_collection]. Found by the word-for-word re-read of the digitized run (issue 158).

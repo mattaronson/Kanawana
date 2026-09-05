@@ -1,6 +1,6 @@
 # The Council Ring
 
-*Status: E1-reviewed | Sources: 15*
+*Status: E1-reviewed | Sources: 16*
 *Last Updated: 2026-09-04*
 
 The Council Ring was built by senior campers in 1922, sited between the cabins and the chapel. It served from the start as the camp's ceremonial gathering place, a tiered outdoor amphitheatre where the whole community could assemble for evening programs, campfires, and ritual events. The choice of the name "Council Ring" reflected the broader "playing Indian" aesthetic that shaped YMCA camping in this period, drawing on romanticized ideas about Indigenous governance and ceremony that were common across North American organized camping. The council-ring form itself is generally traced to landscape architect Jens Jensen and to Ernest Thompson Seton's Woodcraft Indians (Silver Bay camp, 1910), from which it spread through the camping movement — context for Kanawana's adoption of it in 1922.^11
@@ -38,6 +38,14 @@ The practice did not fade quietly. In its 1985-86 catalogue the Canadian Camping
 
 This is the most developed council-ring manual anywhere in the digitized run of *Canadian Camping*, and its date matters. By 1985 the movement had been circulating Indigenous-themed material of contested provenance for at least a decade — Seton's composite creed reprinted as ethnography in 1978, an invented legend on a back cover in 1981, a screenwriter's text printed as Chief Seattle's in 1983 (see [[site/indigenous-names-and-land|Indigenous Place Names and Land History]]). **A step-by-step manual for staging council ceremonies, sold by the national association in 1985, shows the practice being systematised rather than wound down.** No connection to Kanawana's own council ring in this period is documented; the book is recorded as what the movement was selling.
 
+### Seton, dated and attributed by a witness (1986)
+
+The clearest statement of where the Council Ring came from was made in 1986 by **Adele Ebbs**, who grew up inside the tradition at Camp Ahmek and Camp Wapomeo. Asked about Ernest Thompson Seton, she said simply: "**of course, he started the Council Ring**." Asked whether Seton would let her father preside, she was blunt: "**I don't think he would let anyone be Chief except Ernest Thompson Seton.**"^16
+
+The negative in the same interview matters as much. Of her father's first camp, the Toronto Central YMCA's Camp Couchiching, which ran to about 1912: "**I don't think there was any Indian influence at Couchiching. There was no Council Ring at Camp Couchiching as far as I know or have any record of or any pictures**," and Seton "was later. I don't think he had anything to do with Dad until they were doing the CSET bit."^16 **So on this account the Council Ring entered Canadian camping after 1912, by way of Seton personally, and not out of the YMCA camp tradition Kanawana belonged to** — which makes its arrival at a YMCA camp like Kanawana a borrowing from the private-camp world rather than an inheritance.
+
+Ebbs also names a parallel figure, **Ellsworth Jaeger** of the **Camp of the Red Gods**, whom Seton visited; and she describes the ceremony's form from the inside: "**It was always done very precisely, very organized, and well planned**… the beginning and ending were always the same and most inspirational," with staff "in fear and trembling that somebody would do the wrong thing and spoil the atmosphere." Her explanation of why her father took to it is disarming: he "always loved the theatre and I think this is why the Council Ring, **because it was a spectacle**."^16
+
 ## Sources
 
 
@@ -56,6 +64,7 @@ This is the most developed council-ring manual anywhere in the digitized run of 
 13. Jack Eastaugh (Assistant to the Director, Taylor Statten Camps), "Our Friends — The Indians," *Canadian Camping* Vol. 25 No. 3 (Spring 1973), pp. 5-6. Found by the full word-for-word read of the run (`kb/reread/cc_findings.md`, issue 98).
 14. Adele and J. Harry Ebbs, "In Memoriam — 'Blackie'," *Canadian Camping* Vol. 31 No. 3 (May 1979), pp. 6-7 [src_ia_canadian_camping_collection]. Found by the full word-for-word read of the run (`kb/reread/cc_findings.md`, issue 125).
 15. CCA/ACC *Publications 1985-86* catalogue, bound as an insert to *Canadian Camping* Vol. 37 No. 3 (Autumn 1985), p. 4 [src_ia_canadian_camping_collection]. Found by the word-for-word re-read of the digitized run (issue 156).
+16. "Personality Profile: Taylor Statten — Interview with Adele Ebbs," *Canadian Camping Magazine* Vol. 38 No. 1 (Summer 1986), pp. 10-16 [src_ia_canadian_camping_collection]. Found by the word-for-word re-read of the digitized run (issue 158).
 
 ### R3 Verification Notes
 

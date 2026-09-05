@@ -27697,3 +27697,167 @@ development within three decades, alongside 88% of southern Ontario's wetlands. 
 Congress is advertised with the promise of special flight rates from Toronto. Mailing label:
 **MISS JANE MCCUTCHEON, C/O CAMP TAWINGO, R.R. #1, HUNTSVILLE ON** — confirming the correction made to
 block 151.
+
+## 158 — Vol. 38 No. 1, Summer 1986 — ★★★★★ THE FOUNDER'S DAUGHTER SAYS 1938
+
+Twenty-six pages, the **50th anniversary issue**, and the first made by the Camp Tawingo group: Jack
+Pearse editor-in-chief, Jane McCutcheon and John Jorgenson senior editors, Brenda McFarlane and Liz
+Greenway regional editors, printed by Cober Printing of Kitchener, editorial address R.R. #1,
+Huntsville. Contents page checked; every item read: the president's report in both languages; the
+masthead and full officer list; "Camping From Coast To Coast" with reports from every province;
+"Camp Crafts"; the President's Council photographs; Committee Notes; "Between The Covers"; **Madelene
+Allen, "Where Have All The Flowers Gone?"**; **Adele Ebbs on canoe tripping in the 1920s**; the Cross
+Canada Water Relay; the **Personality Profile interview with Adele Ebbs about Taylor Statten**; Statten's
+own "A Personal Note" and his "Relay Race" meditation; "Notes to Canada" on the 1987 Congress; "Under
+Open Skies" with two Mary S. Edgar poems; the immigration protocol amendments; **Adele Ebbs, "Here Is
+Your Challenge, O, Counsellor!"** (OCA conference, March 1965); Sylvia Haynes's counsellor checklist; the
+Anne Nashman writing prize; and "Trials Walking."
+
+**★★★★★ ADELE EBBS THOUGHT THE CCA WAS FOUNDED IN 1938 — and was talked out of it, in print, in the
+fiftieth anniversary issue.** The interviewer is asking Taylor Statten's daughter, who was **secretary to
+the founding circle and the person who took its minutes**:
+
+> "**CC: Our records show that the OCA became a reality in 1933 and then the CCA became a reality in 1936.
+> Do those dates sound right?**
+> **AE: '36 sounds early to me** but I … '33 sounds right…
+> **CC: I read that your Dad helped with the formation of the Quebec Camping Association along with F. M.
+> VanWagner in 1937.**
+> **AE: Well that is why I thought the Canadian Camping Association was not until…**
+> **CC: After that had happened?**
+> **AE: My impression was that it was 1938.**
+> **CC: We may be celebrating 50 years under false pretenses, so let's not upset that apple cart.**
+> **AE: No, 50 years makes it '36. Well, I'll buy that.**"
+
+**This is the best-placed living witness to the founding of the Canadian Camping Association saying the
+year is wrong, and being overruled on the ground that the anniversary was already being celebrated.**
+Her reasoning is not vague: she remembered her father helping F. M. Van Wagner form the **Quebec**
+Camping Association in 1937 and placed the national body **after** that. And the exchange is printed
+verbatim, in the association's own 50th anniversary issue, immediately under a headnote asserting "50
+years ago, Taylor Statten… was the Founder and first President of the Canadian Camping Association."
+
+**Taken with issue 156, the founding-date question now has this shape.** The association's 1980s
+literature says 1936. Its own president said c.1947 in 1967. Its founder's daughter, who kept the
+minutes, said 1938 in 1986 and was talked round. **Three different datings, all from inside the
+association, none of them from an outsider.** **Recorded in `c_029` and written into
+`canadian-camping-movement.md`** — where it strengthens the two-stage reading again, because a
+1937 Quebec association and a 1938 national one is exactly the sequence a founding-circle secretary
+would remember, while 1936 is what the corporate record of a later reorganisation would show.
+
+**What the same interview fixes about the founding circle.** Before there was an association there was
+a supper club: "in the early 30's there were regular meetings, mostly social — **Edgar, Hamilton,
+Halliday, Chapman, Cochrane and Statten**, those six," gathering in each other's homes "4 or 5 times a
+year," and "**a great deal of it was social and anything they talked about was sort of trivial in a way
+because they had secrets. Nobody ever knew what anybody paid their staff.**" The six are **Mary S. Edgar
+of Glen Bernard, Mary G. Hamilton of Camp Tanamakoon, Ferna Halliday of Camp Oconto, Ernie Chapman of
+Camp Kagawong, A. L. Cochrane of Camp Temagami and Taylor Statten**; **Adele Ebbs became their secretary
+and "finally started to take notes sometime before I got married, and that was 1935"** — so minutes of
+the pre-founding meetings exist from about 1934-35 and should be sought at Trent. **Charles Plewman**
+and the **Dansons (Sadie and Joe)** joined "very soon after." She also notes, of Arnold Ward, that "these
+are private Camp Directors and maybe because Arnold Ward was an **agency** Camp Director" he was not in
+it — the private/agency division this read has met repeatedly, here at the association's own origin.
+**The early presidential sequence is given as Taylor Statten → Dais Gass → Anne Vail → Ted Yard → Irv
+Haladner → F. M. Van Wagner** — placing **Ted Yard**, whose Pine Crest ceremony text this project
+recorded at issue 145, among the first CCA presidents. **Added to `canadian-camping-movement.md` and
+`p_319`.**
+
+**★★★★★ THE ACQ DATED ITS OWN 25th ANNIVERSARY TO JANUARY 1961 — a second association with two
+foundings.** The Quebec column, in French and English:
+
+> "La rencontre estivale des directeurs de camp aura lieu cette année au **Camp Trois-Saumons** au début
+> du mois d'août. À cette occasion, les membres souligneront à nouveau le **vingt-cinquième anniversaire
+> de l'Association des Camps du Québec**. **Le regroupement des responsables des camps des communautés
+> anglophone et francophone avait lieu notamment en janvier 1961.**"
+
+**The Quebec association celebrated its twenty-fifth birthday in 1986, dating itself from the January
+1961 amalgamation of its French and English sections — not from the 1937 founding of the English
+Section.** So Quebec, like the CCA, was running on two datings at once, and this project can now say
+precisely why the "founding" of the QCA/ACQ is answered differently by different sources: **1937 is the
+English Section, 1961 is the bilingual association**. It also fixes the amalgamation to **January 1961**
+from the association's own mouth, corroborating the provincial charter of that year. **Written into
+`canadian-camping-movement.md`.**
+
+**★★★★ HOW KANAWANA WAS ACCREDITED IN 1986 — and a reason it would have been visited that year.** The
+same column:
+
+> "Dans le cadre du programme d'accréditation, **quatre consultants visiteront près de soixante (60)
+> camps de vacances**. **Ce programme exige que les camps accrédités soient visités tous les deux ans.**
+> Les camps de vacances qui ont connu des changements majeurs au cours de l'année (**le changement de
+> directeur, par exemple**) sont également visités."
+
+**Three things follow, and the third is the useful one.** Quebec had moved from the annual visitation
+John Hasell praised in 1975 to a **two-year cycle** by 1986, worked by **four consultants covering about
+sixty camps** — fewer camps than the 117 members of 1983, consistent with the two-year cycle. **And a
+camp that changed director in a given year was visited anyway.** Kanawana's directorship passed from
+Peter Goddard to Jay Netherwood inside the YMCA's FY1986 — **so on the ACQ's own stated rule, Kanawana
+should have received an accreditation visit in 1986 on account of the change**, and a visitation report
+should exist. **That is a specific, dated, findable document, and it is added to `p_326`.** The column
+also records a **new ACQ parents' guide and directory** in members' hands that year — another Quebec
+directory to look for.
+
+**★★★ PINE CREST'S ORIGIN, FROM STATTEN'S DAUGHTER.** Asked about Camp Couchiching, the Toronto Central
+YMCA camp her father directed near Orillia: "**That Camp Couchiching just stopped and as far as I know
+it went up to Torrance and became Pine Crest.**" Camp Couchiching ran as a boys' camp until about
+**1912**; Geneva Park "didn't exist in the Y's eyes until 1908." **Camp Pine Crest — the camp whose
+Voyageur-Lumberman ceremony Kanawana borrowed in 1947 — is here described as the direct successor of the
+Toronto Central YMCA's own camp, and of Taylor Statten's first directorship.** **Written into
+`connections/related-camps/camp-pine-crest.md`.**
+
+**★★★ THE COUNCIL RING, DATED AND ATTRIBUTED BY SOMEONE WHO WAS THERE.** Ebbs is unambiguous: "**of
+course, he [Ernest Thompson Seton] started the Council Ring**," and on whether Seton would let Statten
+preside, "**I don't think he would let anyone be Chief except Ernest Thompson Seton.**" Equally
+important is the negative: at Camp Couchiching before 1912, "**I don't think there was any Indian
+influence… There was no Council Ring at Camp Couchiching as far as I know or have any record of or any
+pictures**," and Seton "was later. I don't think he had anything to do with Dad until they were doing
+the CSET bit." So the Council Ring enters Canadian camping **after 1912 and by way of Seton personally**,
+not out of the YMCA camp tradition Kanawana belonged to. She also names **Ellsworth Jaeger** and his
+**Camp of the Red Gods** as a parallel figure, and describes the ceremony's form: "**It was always done
+very precisely, very organized, and well planned… the beginning and ending were always the same and most
+inspirational**," adding that her father "always loved the theatre and I think this is why the Council
+Ring, because it was a spectacle." **Written into `site/council-ring.md`.**
+
+**★★★ A TEN-DAY ALGONQUIN CANOE TRIP FOR TWO, COSTED IN 1926.** Adele Ebbs reprints **Herbert B. Bell's**
+complete 1926 list — bacon, cheese, flour, rolled oats, dried apples, dried peaches, rice, raisins,
+macaroni, dried whole milk, butter, carrots, sugar, four loaves of bread, Crisco, coffee, syrup, pepper,
+baking powder; and for equipment a medical kit, six candles, two small pails, a frying pan, two cups,
+two knives, three plates, three bowls, two packsacks and a length of rope — with the totals: "**Food
+$11.18, Equipment $6.60, Canoe (rental) $8.00 = $25.78** (approximately **$1.25 per person per day**)."
+**The only itemised cost of a 1920s Canadian canoe trip this project has found**, and a direct
+comparator for what Kanawana's own trips of the period would have cost. **Written into
+`traditions/canoe-trips.md`.**
+
+**★★ Two Quebec institutional facts, and one for the magazine's own history.** The officer list carries
+**F. M. Van Wagner, Point Claire, Que.** as **President Emeritus** — the founder of the Quebec
+association's English Section, alive and honoured in 1986 — and **Ken Willis, Magog, Que.** as Central
+Vice-President, confirming in a printed officer list the correction made at issue 155. The French
+Language Committee, now chaired by **Gérard Bachand of Rawdon, Quebec**, reports a genuinely new
+document: "**la publication d'un répertoire des camps francophones hors Québec**… rendue possible grâce à
+la collaboration du **Conseil de la Vie française en Amérique**. **Vingt-quatre camps figurent dans la
+première édition**" — a 1985 directory of French-language camps outside Quebec, twenty-four in its first
+edition. **Added to `p_326`.** And "Under Open Skies" describes **Mary S. Edgar** as "an Honourary
+President of the Canadian Camping Association, and **the Founder of Canadian Camping Magazine**" — which
+sits beside, and may complicate, the account this read has recorded from Plewman that he produced the
+first bulletin that became the magazine. **Recorded as a discrepancy, not resolved**; "founder" and
+"produced the first bulletin" may describe the same thing from two angles.
+
+**★ Minor.** Camp **Tonakela** — a name on this project's open list — is explained: **Wally Forgie**,
+Statten's brother-in-law, went to India as a YMCA man after his wife died in Calgary in 1925, broke with
+the Y because "trying to convert the Indians to Christianity was going to be [no] good at all," and
+"**virtually became a Hindu**"; the camp twelve miles from Madras was named **Tonakela** when Mr and Mrs
+Statten opened it in **1938**, after Mrs Statten's own Ojibway camp name. **Hedley Dimock** came to Ahmek
+"in the late 20's," and "**it was Hedley Dimock that started the TOF — 'the other fellow'**," an
+Ahmek practice that outlasted him; an editor's note dates *Talks with Counsellors* to **1939**. Statten
+was born at **Erindale in 1882**, left Streetsville High School without graduating, worked in the Post
+Office, and believed himself related to **P. T. Barnum** ("the 'T' in Barnum's name stood for Taylor").
+**Tom Thompson** drowned in Canoe Lake in **July 1917**, helped build the camp fireplace, and **Charles
+Plewman helped carry his casket up the hill**; Tom Thompson sketches were borrowed from the **National
+Gallery** in 1932 or 1933 and carried up to the Tom Thompson Totem. The immigration protocol was amended
+after a meeting with **the Hon. Jake Epp**, Minister of Health and Welfare, on **22 April 1986**: foreign
+counsellors would now get form MS 1017 from the nearest consulate, have their own doctor complete it, and
+hand it in at the border. The **Archives Committee is described as "the one man Archives Committee"**.
+A **National Conference is scheduled for 1989**, a travelling workshop for 1988, and a Moncton workshop
+on the new Camp Director's Curriculum for **1-5 October 1986**. The 1987 Congress speakers are announced
+as **Up With People, Pete Seeger, William Penn Mott and T. N. Kaul**, and its dates are given as **2-5
+March** here against **3-5 March** in issues 151 and 155 — an internal inconsistency in the source,
+recorded as such. **Madelene Allen of Camp Ouareau** contributes a second piece, on Peter, Paul and Mary
+and the need to blend the old with the new: "**A tree bends in the wind, but held by its roots it sways
+gently and remains strong.**"

@@ -1,6 +1,6 @@
 # Camp Pine Crest
 
-*Status: draft | Sources: 13*
+*Status: draft | Sources: 14*
 *Last Updated: 2026-09-04*
 
 ## Overview
@@ -48,6 +48,12 @@ The broader team-competition-week genre, of which Pine Crest and Kanawana's Lumb
 - [[connections/institutional-lineage/canadian-camping-movement|The Canadian Camping Movement]]
 - [[traditions/traditions-and-culture|Traditions and Culture at Kanawana]]
 
+**Where Pine Crest came from, according to Taylor Statten's daughter.** Interviewed in 1986, **Adele Ebbs** described her father's first directorship — Camp Couchiching, the Toronto Central YMCA's boys' camp near Orillia, which he ran as full-time boys' work secretary and which "continued to be a boys' summer camp until 1912. I think that was the last summer." Asked what became of it, she answered: "**That Camp Couchiching just stopped and as far as I know it went up to Torrance and became Pine Crest.**"^14
+
+If that is right, Pine Crest is the direct successor of the Toronto Central YMCA's own camp and of Taylor Statten's first command — which places the camp whose Voyageur-Lumberman ceremony Kanawana borrowed in 1947 inside the YMCA camp tradition rather than the private-camp one, and connects it to Statten at the very start of his career. Ebbs qualifies it herself ("as far as I know"), and no other source in this project confirms the succession; it is recorded as her testimony.
+
+The same interview is emphatic that the Council Ring did **not** come from that YMCA tradition: at Camp Couchiching "**I don't think there was any Indian influence… There was no Council Ring at Camp Couchiching as far as I know or have any record of or any pictures**," and Ernest Thompson Seton "was later."^14
+
 ## Sources
 
 1. YMCA of Greater Toronto, Camp Pine Crest [src_ymca_gta_pine_crest].
@@ -63,6 +69,7 @@ The broader team-competition-week genre, of which Pine Crest and Kanawana's Lumb
 11. Adele and J. Harry Ebbs, "In Memoriam — 'Blackie'," *Canadian Camping* Vol. 31 No. 3 (May 1979), pp. 6-7 [src_ia_canadian_camping_collection]. Found by the same read (issue 125).
 12. W. E. (Ted) Yard, "Memorable Experiences Leading Towards Spiritual Growth," reprinted with his obituary notice, *Canadian Camping* Vol. 35 No. 1 (Spring 1983), pp. 8-9 [src_ia_canadian_camping_collection]. Found by the same read (issue 146). The obituary gives Yard as born in Vancouver in 1919, B.A. (UBC), M.S. (George Williams College, Chicago), in the YMCA from 1942, Director of Camp Pine Crest in the 1950s and early 1960s, owner of Camp Hollyburn from 1967, OCA President 1949-51 and CCA President 1953-55; he died 3 January 1983.
 13. Adele and Harry Ebbs, "Memorable Quotes from 'Blackie' Blackstock," *Canadian Camping* Vol. 36 No. 2 (Summer 1984), p. 13 [src_ia_canadian_camping_collection]. Found by the word-for-word re-read of the digitized run (issue 151).
+14. "Personality Profile: Taylor Statten — Interview with Adele Ebbs," *Canadian Camping Magazine* Vol. 38 No. 1 (Summer 1986), pp. 10-11 [src_ia_canadian_camping_collection]. Found by the word-for-word re-read of the digitized run (issue 158).
 
 ## Research Notes
 
