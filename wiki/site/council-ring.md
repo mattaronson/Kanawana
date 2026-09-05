@@ -1,6 +1,6 @@
 # The Council Ring
 
-*Status: E1-reviewed | Sources: 17*
+*Status: E1-reviewed | Sources: 18*
 *Last Updated: 2026-09-04*
 
 The Council Ring was built by senior campers in 1922, sited between the cabins and the chapel. It served from the start as the camp's ceremonial gathering place, a tiered outdoor amphitheatre where the whole community could assemble for evening programs, campfires, and ritual events. The choice of the name "Council Ring" reflected the broader "playing Indian" aesthetic that shaped YMCA camping in this period, drawing on romanticized ideas about Indigenous governance and ceremony that were common across North American organized camping. The council-ring form itself is generally traced to landscape architect Jens Jensen and to Ernest Thompson Seton's Woodcraft Indians (Silver Bay camp, 1910), from which it spread through the camping movement — context for Kanawana's adoption of it in 1922.^11
@@ -66,6 +66,7 @@ Ebbs also names a parallel figure, **Ellsworth Jaeger** of the **Camp of the Red
 15. CCA/ACC *Publications 1985-86* catalogue, bound as an insert to *Canadian Camping* Vol. 37 No. 3 (Autumn 1985), p. 4 [src_ia_canadian_camping_collection]. Found by the word-for-word re-read of the digitized run (issue 156).
 16. "Personality Profile: Taylor Statten — Interview with Adele Ebbs," *Canadian Camping Magazine* Vol. 38 No. 1 (Summer 1986), pp. 10-16 [src_ia_canadian_camping_collection]. Found by the word-for-word re-read of the digitized run (issue 158).
 17. "Personality Profile: W. E. (Ted) Yard (1919-1983)" — interview with Shirley Yard and Ted Yard Jr., pp. 10-15, and the unattributed inter-tribal gift speeches and "Council Closing," p. 24 — *Canadian Camping Magazine* Vol. 38 No. 2 (Fall 1986) [src_ia_canadian_camping_collection]. Found by the word-for-word re-read of the digitized run (issue 159).
+18. "Under Open Skies" / "À ciel ouvert" — "A Benediction," submitted by Madelene Allen, Camp Ouareau, St. Donat, Quebec, *Canadian Camping Magazine* Vol. 38 No. 4 (Spring 1987), p. 28 [src_ia_canadian_camping_collection]. Found by the word-for-word re-read of the digitized run (issue 161).
 
 ### R3 Verification Notes
 
@@ -110,6 +111,22 @@ What campers remembered was nonetheless the entrance: "their most vivid memory i
 This is not evidence about Kanawana, and is not offered as any. It is offered because Kanawana's own council-ring record — scripts, a totem pole, a chant, a firelighting — contains **no statement of what its operators thought they were doing**, and the two nearest comparators now sit at either end of a range: Eastaugh at the Taylor Statten Camps defending the full ceremony in print in 1973, and Yard at a YMCA camp cutting it to one fire a week and objecting to imitation across the 1950s. Kanawana was a YMCA camp working from a Statten-derived script. Where it fell between them is an open question, and the sources that would answer it are the ones this project has not found.
 
 **The other convention was still in print in the same issue.** Twenty pages after the Yard interview the magazine printed, unattributed and without comment, a full set of camper-delivered speeches in the persona of the six nations of the Haudenosaunee Confederacy — Onondaga to Seneca, Cayuga to Onondaga, Tuscarora to Oneida, Oneida to Cayuga, Mohawk to Tuscarora, each presenting a made object ("We the people of the Onondaga tribe offer this table to you the people of the Seneca tribe") — followed by a **Council Closing** that is pure camp liturgy with no Indigenous referent at all: "May the Peace of the Forest, The Song of the Birds, The Inspiration of the Hills… In All of Which is the Creator of Good Things be in Your Hearts Tonight and Always."^17 The national magazine of the movement printed Yard's objection and the practice he objected to in the same twenty-eight pages, in 1986, without appearing to notice.
+
+### One benediction, two versions — and the Quebec one has a name on it
+
+Camp liturgy of this kind is usually undated and unattributed, which is why Kanawana's own council-ring texts have been so hard to place. Two issues of the national magazine in 1986-87 happen to print the same formula in different words, and the difference between them is instructive.
+
+The autumn 1986 issue printed, unattributed, alongside an unnamed camp's inter-tribal gift speeches, a "**Council Closing**":^17
+
+> "May the Peace of the Forest, / The Song of the Birds, / The Inspiration of the Hills, / The Warmth of the Sun, / The Strength of the Trees, / The Fragrance of the Flowers, / The Joy of the Wind, / The Calm of the Lake, / **In All of Which is the Creator of Good Things** be in Your Hearts Tonight and Always."
+
+The spring 1987 issue printed "**A Benediction**", submitted by **Madelene Allen, Camp Ouareau, St. Donat, Quebec** — the director whose 1985 paper on French-speaking children at English camps this wiki records at [[connections/related-camps/camp-ouareau|Camp Ouareau]]:^18
+
+> "May the Silence of the hills, / The Joy of the wind, / The Music of the birds, / The Fire of the sun, / The strength of the trees, / And the Faith of youth, / **In all of which is God**, / Be in our hearts / Now and evermore."
+
+**Same construction, same closing turn, different nouns, and a different name for God** — "the Creator of Good Things" in the anonymous camp version, plainly "God" in the Quebec one. Neither names an author. This is a piece of camp liturgy circulating orally and being written down in variants, caught twice in eighteen months, and the second instance comes from a girls' camp about forty minutes from Kanawana.
+
+It bears on this article in a specific way. Kanawana's council-ring texts — the closing invocation, the 1940 firelighting, the Council of Tribes script — have been treated as documents to be dated and sourced. The Seton–Statten chain established above shows that some of the material genuinely was transmitted as fixed text. This shows that some of it was not: **the same benediction existed in at least two forms in the same years, in the same movement, with no author attached to either.** A Kanawana text that does not match a known source exactly is therefore not necessarily a local composition, and one that matches loosely is not necessarily a corruption. Both are what an oral liturgy looks like when it is written down.
 
 ## Location and Modern Use
 

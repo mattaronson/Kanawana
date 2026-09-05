@@ -28318,3 +28318,155 @@ and liability insurance is named as Ontario's live issue. Ontario's president is
 Camp**; **Liz Greenway** is OCA vice-president and of **YWCA Camp Tapawingo**; **David Sands** of Illahee
 Northwoods Camp is the CCA's 1987 Congress liaison. Subscription terms are unchanged from issue 159, and
 the copyright line still reads 1986.
+
+## 161 — Vol. 38 No. 4, Spring 1987 — ★★★ THE PATRONS' FUND ACCOUNTED FOR, AND A BENEDICTION IN TWO VERSIONS
+
+Thirty-two pages, the Washington congress issue. Printed contents page checked item by item; every
+item read: the President's Message in both languages; "Camping From Coast To Coast" (Atlantic, New
+Brunswick, Ontario, Nova Scotia, Alberta, British Columbia); Committee Notes (Archives, Commission des
+camps d'expression française, Professional Development); **"C.C.A. Salutes You, Patrons!"** with the full
+donor list; Dick Chamberlain's "The International Camping Congress… an American Viewpoint"; the
+congress opening photo pages; **Nancy Reagan's opening address** in full with Armand Ball's introduction;
+Mike Walters on Tuesday and Marjorie Booth on Wednesday; the Pete Seeger and Canadian Embassy photo
+pages; Ian Fowler's "Impressions — Opening and Closing Plenary Sessions"; **the International
+Delegates' meeting and the founding agreement of the International Camping Fellowship**; the Washington
+photo page; Shannon Etkin's "The Product Delivery Paradigm"; the Starkman advertisement printed beside
+its own April 1957 original; Martin Hunt's "The Belgium — Ontario Exchange"; "What's In A Name?" (Camp
+Cadicasu); "Ontario March of Dimes Secures New Camp Site"; the Bubby Nash notice; Bruce Elkin's "Camp
+and Character"; **"Under Open Skies," submitted by Madelene Allen of Camp Ouareau**; Jean Funk's
+"Environmental Programs"; the photo appeal, provincial address list, subscription notice and cover key.
+**Kanawana is not named.**
+
+**A hole in the cached copy, recorded so a later pass does not read it as an absence.** The contents page
+lists **"BETWEEN THE COVERS — Nancy Barker"**, and the OCR of this issue contains no such section: the
+text runs from the end of Dorothy Walter's Professional Development note straight to the Patrons' page.
+**Page 7 produced no machine-readable text in the Internet Archive scan.** Nothing is known about what is
+on it beyond the title and author. This is a gap in the tool, not in the record.
+
+**★★★ WHAT THE 50TH ANNIVERSARY PATRONS' FUND ACTUALLY RAISED — and who gave.** Issue 159 recorded the
+appeal for $30,000 in 1986; this issue prints the answer: "**To date, the donations total $11,918.11.**"
+Forty per cent of the target, from a list of **fifty-five individuals and eighteen camps**, printed in
+full. **Every one of the eighteen camps is Ontarian** — Canadian Adventure, Gay Venture, Haliburton
+Hockey Haven, Kawabi, New Moon, Oconto, Robin Hood, Tanamakoon, Tawingo, the Taylor Statten Camps,
+Trailfinder, Wahanowin, White Pine, YMCA Wanakita. **No Quebec camp appears, and no camp from any
+province west of Ontario or east of it.**
+
+Six of the individual donors are Quebec names or Quebec-connected: **Gérard Bachand** (Rawdon, chairman
+of the French Language Committee), **Maurice Blaquière**, **Jacqueline Lavoie**, **Dr. Ken Willis** (Magog,
+the Quebec vice-president), **Peter & F. M. Van Wagner** (Pointe-Claire, the President Emeritus), and
+**Eileen Mayotte** — the QCA secretary of the 1940s this read has tracked from the Quebec association's
+early years to the presidency of Saskatchewan's, **here alive, findable and giving money in 1987**, which
+is the latest fixed point this project has for her. Also on the list: **Dr. and Mrs. J. Harry Ebbs**,
+**Barbara Gilchrist**, **Peggy & John Latimer**, **Cliff Labbett**, **Bert and Dot Danson**, **Irwin Haladner**,
+**Jocelyn Palm**, **Bruno Morawetz**, **Dorothy Walter**, **Fred Okada**, **Marjorie Booth**'s colleagues and most
+of the board.
+
+**The distribution is the finding.** A national appeal, sent to about a hundred people, produced money
+from the private Ontario camps and from individual officers elsewhere — including four or five Quebec
+individuals — but **not one institutional gift from a Quebec camp**. Written into
+`canadian-camping-movement.md`, where it belongs beside the funding collapse it was meant to answer.
+
+**★★★ THE SAME BENEDICTION, IN TWO VERSIONS, ONE OF THEM FROM QUEBEC.** Issue 159 printed, unattributed
+and with no comment, a "Council Closing" for camper delivery:
+
+> "May the Peace of the Forest, / The Song of the Birds, / The Inspiration of the Hills, / The Warmth of
+> the Sun, / The Strength of the Trees, / The Fragrance of the Flowers, / The Joy of the Wind, / The Calm
+> of the Lake, / **In All of Which is the Creator of Good Things** be in Your Hearts Tonight and Always."
+
+Two issues later, "Under Open Skies" prints "**A BENEDICTION**", **submitted by Madelene Allen, Camp
+Ouareau, St. Donat, Quebec**:
+
+> "May the Silence of the hills, / The Joy of the wind, / The Music of the birds, / The Fire of the sun, /
+> The strength of the trees, / And the Faith of youth, / **In all of which is God**, / Be in our hearts /
+> Now and evermore."
+
+**Same construction, same closing turn, different nouns and a different name for God.** Neither is
+attributed to an author; one is an anonymous camp council-ring text, the other comes from a named
+director of a Quebec girls' camp forty minutes from Kanawana. **This is a camp liturgy circulating orally
+and being written down in variants** — which is exactly the situation Kanawana's own Council Ring texts
+sit in, and the first time this read has caught the same formula twice in different words. **Written into
+`site/council-ring.md`.** It also shows the Quebec end of the circulation, which the run rarely does.
+
+**★★ THE CONGRESS IN NUMBERS, and one Quebec silence.** **1,700 delegates**, sixteen to eighteen countries
+(Chamberlain says sixteen at the international meeting, Fowler eighteen present in the hall), **over 150
+CCA members, 27 of them presenting**; **160-plus exhibitors** and 73 sessions on the Tuesday alone. Opening
+night: Nancy Reagan, T. N. Kaul (India's Ambassador to the Soviet Union) giving the Otto Rosahn
+Memorial Lecture, and Up With People. The Canadian reception was at the residence of **Ambassador Allan
+Gotlieb**. The Alberta column reports **27 delegates** from that province and the Atlantic column **18** from
+its four. **"Camping From Coast To Coast" in this issue has no Quebec entry at all** — Atlantic, New
+Brunswick, Ontario, Nova Scotia, Alberta and British Columbia file reports; Quebec does not, in the
+issue devoted to the largest international gathering the movement had held. That is a null result and is
+recorded as one: it does not establish that no Quebec delegates went.
+
+**★★ THE INTERNATIONAL CAMPING FELLOWSHIP, founded at Washington.** Delegates from the **USA, Canada,
+Jamaica, Japan, India, Australia, England, Ghana, Costa Rica, Ecuador, Bermuda, Kenya, Israel, Belgium
+and the People's Republic of China** met alongside the congress and adopted a five-point agreement,
+presented by **Tom Slater** of Australia: to coordinate internationally, exchange news and facilitate
+bilateral and multilateral exchanges; to evaluate direction within two years; to ask the ACA to produce
+an international newsletter, first copy deadline 1 June, available by subscription; to ask the ACA to
+convene five or six delegates within twelve months; and "**to do these things under the name of the
+International Camping Fellowship**." That is the founding text of a body still in existence, printed in
+full in both languages, and it is worth recording because the CCA — Kanawana's national association —
+is one of the two hosts of it.
+
+**★★ INCEF '87 PUBLISHED, and a bilingualism policy at last.** Gérard Bachand's committee note: "**Dès la
+fin janvier nous publiions la deuxième édition du répertoire des camps d'expression française, hors
+Québec (Incef '87)**, et ce grâce au **Conseil de la Vie Française en Amérique** et du **Ministre des Affaires
+Intergouvernementales**. Des exemplaires sont disponibles au bureau de l'ACC/CCA à Toronto." And: "**Nous
+avons aussi élaboré une politique linguistique pour l'ACC/CCA afin de nous rendre conformes aux lois du
+bilinguisme des organismes nationaux**," with a translation policy attached, for approval by the Board by
+spring. A mini-survey of the INCEF camps was under way to identify their needs.
+
+**Two things follow.** First, the directory this read has been tracking since 1985 (twenty-four camps in
+the first edition) **exists in a second edition from January 1987, funded jointly by a French-Canadian
+cultural body and a Quebec ministry, with copies held in Toronto** — a findable document. Second, **the
+CCA acquired a formal language policy only in 1987**, thirteen years after founding a French Language
+Committee (autumn 1974) and sixteen after taking its bilingual name (1971), and it did so to comply with
+federal bilingualism requirements on national organisations rather than on its own initiative. Both go
+into `canadian-camping-movement.md`.
+
+**★★ THE ARCHIVES COMMITTEE ASKS FOR ORAL HISTORY, in writing.** Bruno Morawetz reports that "in February
+of this year a letter was sent to **all Provincial Archives Chairmen, or to the Provincial President**
+concerning the collection of material for C.C.A./A.C.C. Archives at Trent University," and instructs:
+"**I would urge your member camps to collect as much written material as possible and have it lodged in
+your own provincial archives.** It would be terrific if your association could get in touch with our
+C.C.A./A.C.C. Archivist and initiate a flow of material directly. **One of the ways of collecting
+archival material is to interview persons who are playing important roles in camping — these too can be
+lodged and catalogued in an archival collection.**"
+
+**So in February 1987 a letter went to the Quebec association asking it to gather its camps' records and
+to tape its people.** With the ACQ's own archive reclassification of summer 1986 (issue 159) and
+Morawetz's 1987 note that some provincial associations already hold their own archives (issue 160), that
+is a third documented prompt in eighteen months for Quebec camping records to be assembled somewhere
+other than Trent. Added to `p_319`.
+
+**★ WHY A CAMP KEPT PAPER, stated by a director who had been sued.** Shannon Etkin of the Family Service
+Association of Metropolitan Toronto, writing on quality assurance: "In a recent court case, **one of my
+camp staff was accused by a mother of physically assaulting her son**… The proceedings took a year before
+the judge threw the case out saying it was based on pure fabrications. **One crucial part of the evidence
+that led the judge to his decision was based on the camp providing detailed documentation showing its
+hiring and training procedures, supervisory system and written policies and practices.** We also had to
+show that management enforced its rules." Recorded because it is a dated, concrete statement of the
+institutional reason camps of this period kept personnel records — and therefore of why such records
+exist at all, and why they read the way they do. It is the mirror image of this project's own difficulty
+with staff assessments.
+
+**★ SMALLER THINGS.** **Nancy Reagan's address is printed in full** — a camper at "Camp Katchewa" run by
+"the three Ross sisters," every summer from about age nine "until the age limit forced me to stop,"
+sleeping in tents, brushing teeth with salt water, and expert at removing leeches; her message is
+self-esteem, quoting Martin Luther King Jr., "First teach them to believe in themselves." The magazine
+began taking **commercial advertising again** "for the first time in some time," and adopted a "**look back
+to look forward**" policy of reprinting each new advertiser's own item from thirty years earlier — here,
+**Starkman Chemists' advertisement from the April 1957 issue** beside its 1987 successor, and a Tandy
+Leather advertisement noting the company had been "in the camp craft business for over 60 years." The
+**Curriculum for Camp Directors** was printed in binders and delivered on the eve of the Ontario
+conference in January 1987, distribution to the provinces beginning at once, and Nova Scotia's May
+conference at Camp Hillis was built around it. The **Ontario–Belgium counsellor exchange** with **Jeunesse
+et Santé**, an International Youth Year project run with the Ontario Ministry of Tourism and Recreation,
+sent twelve Belgian counsellors to six Ontario camps in July 1986 and eleven Ontario counsellors to
+Belgium in August; Jeunesse et Santé rents its sites each summer and trains all counsellors centrally.
+**Rachelle Bordeleau** — spelled "Rochelle" at issue 159 — chaired the committee that wrote New
+Brunswick's camp guidelines. **Camp Cadicasu** is glossed as an acronym of "Calgary Diocesan Camp Summer,"
+renamed from St. Mary's Camp by contest in the 1950s. Photographs in this issue come from **Camp
+Chiplaquorgan (N.B.), Big Cove (N.S.), Gracefield Centre Presbyterian Church Camp (Que.) and the Ontario
+March of Dimes Camp**. The copyright line still reads 1986.

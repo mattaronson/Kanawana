@@ -1,6 +1,6 @@
 # Camp Ouareau and Its Connections to Kanawana
 
-*Status: E1-reviewed | Sources: 12*
+*Status: E1-reviewed | Sources: 13*
 *Last Updated: 2026-09-04*
 
 ## Overview
@@ -71,6 +71,16 @@ Her ethical line is unqualified: "**A camp should not, under any circumstances, 
 
 **For this project the essay is a standard, not a finding about Kanawana.** Kanawana was an English-language YMCA camp drawing on a bilingual city, and nothing in the record so far describes how it handled French-speaking campers. Allen was running a Quebec camp with the same problem twenty miles away and wrote down what she thought it required; any future evidence of Kanawana's practice should be read against it.
 
+## Madelene Allen supplies the national devotional page (1987)
+
+In the spring of 1987 the national magazine's "Under Open Skies" devotional pages carried three texts "submitted by **Madelene Allen, Camp Ouareau, St. Donat, Quebec**": "A Camper's Prayer," a version of the Cub-Scout Prayer adapted from Catherine Marshall's *God Loves You*, and "**A Benediction**".^13
+
+The last is worth setting down, because it is the same formula the magazine had printed anonymously as a "Council Closing" five months earlier, in different words:
+
+> "May the Silence of the hills, / The Joy of the wind, / The Music of the birds, / The Fire of the sun, / The strength of the trees, / And the Faith of youth, / In all of which is God, / Be in our hearts / Now and evermore."
+
+Two things follow. Allen is the only Quebec camp director this read has found supplying content to the national magazine's devotional pages, which is a small measure of the province's presence in the movement's shared material at a period when its presence in the movement's business was thinning. And the pairing of the two versions is evidence about how camp liturgy travelled — orally, in variants, without authors — which is set out at [[site/council-ring|The Council Ring]].
+
 ## Edgar Blais, the camp's chef
 
 Camp records rarely name kitchen staff, and almost never remember them. Camp Ouareau's director wrote a tribute to hers in October 1979, and it is the only piece in the whole 1949-1988 run of *Canadian Camping* about a camp cook.^10
@@ -112,6 +122,7 @@ It is worth recording here for two reasons. It is a dated fact about Camp Ouarea
 10. Madelene Allen, "A Tribute," *Canadian Camping* Vol. 31 No. 5 (October 1979), p. 7 [src_ia_canadian_camping_collection]. Found by the same read (issue 127). Her surname is spelled "Madelene" here and in 1974, "Madeleine" in the March 1977 survey; the same person.
 11. Jane McCutcheon, "Central Region News," *Canadian Camping* Vol. 34 No. 1 (Spring 1982), p. 6 [src_ia_canadian_camping_collection]. Found by the same read (issue 141).
 12. Madelene Ferguson Allen, "The Kid Who Doesn't Speak English… How Do We Help?" / "L'enfant qui ne parle pas anglais," a Society of Camp Directors Awards Paper, *Canadian Camping* Vol. 37 No. 2 (Summer 1985), pp. 12-17 [src_ia_canadian_camping_collection]. Found by the word-for-word re-read of the digitized run (issue 155).
+13. "Under Open Skies" / "À ciel ouvert," three texts submitted by Madelene Allen, Camp Ouareau, St. Donat, Quebec, *Canadian Camping Magazine* Vol. 38 No. 4 (Spring 1987), p. 28 [src_ia_canadian_camping_collection]. Found by the word-for-word re-read of the digitized run (issue 161).
 
 ## Research Notes
 
