@@ -28153,6 +28153,24 @@
       "read_state": "read",
       "read_state_basis": "fetched and read 2026-09-05",
       "notes": "Her employer's own faculty page. Carries the credential line and the four granting institutions, two of them Montreal (BSc Concordia, MDCM McGill). Fetched to test this project's claim that no Montreal connection existed 'in any source' -- it was on the first page of the first search run."
+    },
+    {
+      "source_id": "src_ymca_quebec_pip_macsween_2026",
+      "type": "report",
+      "title": "NEWS RELEASE — Jared MacSween Receives Camp YMCA Kanawana “Pip” Award",
+      "date": "2026-08-31",
+      "date_precision": "exact",
+      "origin": "user_provided",
+      "origin_url": null,
+      "cache_path": "sources/cache/ymca-quebec-releases/2026-08-31-pip-award-macsween-en.txt",
+      "char_count": 4131,
+      "ingested_at": "2026-09-05T00:00:00Z",
+      "extracted": true,
+      "extraction_version": "6.20",
+      "reliability": "primary",
+      "read_state": "read",
+      "read_state_basis": "supplied by the operator and read in full 2026-09-05",
+      "notes": "YMCA Quebec news release for the 2026 award, supplied by the operator as a .docx. The file's document properties give the author as \"Caddell, Andrew -BBI\" -- Andrew Caddell sponsors the award, so this is the sponsor's own text, the best provenance available for this award. Names TWO recipients previously unknown to this project (Dr. Karl Cernovich, Alexandra Olshefsky), documents Amy Ornstein's 2019 award in print for the first time, and gives MacSween's ordinal as 17th, which fixes the count."
     }
   ],
   "source_count": 1563

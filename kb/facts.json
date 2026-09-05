@@ -1,8 +1,8 @@
 {
-  "version": "6.19",
-  "kb_version": "6.19",
+  "version": "6.20",
+  "kb_version": "6.20",
   "migrated_from": "3.3",
-  "fact_count": 4766,
+  "fact_count": 4776,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -85424,6 +85424,189 @@
       "confidence": "inferred",
       "conflicts_with": [],
       "added_version": "6.19",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_4805",
+      "claim": "The 2026 Camp YMCA Kanawana “Pip” Award went to Jared MacSween, announced in a YMCA Quebec news release dated Saint-Sauveur, 31 August 2026. The release states he “is the 17th person to receive the award, established in 2007 to recognize the contributions of distinguished Kanawana alumni.” He received it at camp on 31 July 2026 and was to receive it again on 12 September at the annual Kanawana alumni weekend.",
+      "category": "awards",
+      "entities": [
+        "Jared MacSween",
+        "Pip Alumni Award",
+        "Camp Kanawana"
+      ],
+      "date_ref": "2026",
+      "sources": [
+        "src_ymca_quebec_pip_macsween_2026"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.20",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_4806",
+      "claim": "Jared MacSween, 2026 Pip Award recipient, was a Kanawana CAMPER FROM 1982 TO 1986 AND STAFF FROM 1987 TO 1991. He is General Manager of the YMCA Cedar Glen Outdoor Centre, holds a B.A. in Applied Human Science and a Diploma in Social Studies from Concordia University, and lives in Toronto, where he volunteers as a house-league hockey coach. From 2012 to 2024 he was Manager, Training for the YMCA Ontario Regional Development Centre. He had previously spent over twenty years in youth work: a transitional housing programme for young adults in Toronto, managing a youth drop-in centre with the City of Montreal and the YMCA, and child, youth and camping programmes with the YMCAs of Quebec.",
+      "category": "people",
+      "entities": [
+        "Jared MacSween",
+        "Camp Kanawana",
+        "YMCA Cedar Glen Outdoor Centre",
+        "Concordia University"
+      ],
+      "date_ref": "1982-2026",
+      "sources": [
+        "src_ymca_quebec_pip_macsween_2026"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.20",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_4807",
+      "claim": "AMY ORNSTEIN'S PIP AWARD IS NOW DOCUMENTED IN PRINT. The 2026 news release lists among previous recipients “Dr. Amy Ornstein, an advocate for abused children”. This is the first documentary attestation of an award this project had earlier called “explicitly DEBUNKED”, and it independently corroborates the operator's confirmation (f_4803) from the sponsor's own text.",
+      "category": "awards",
+      "entities": [
+        "Amy Ornstein",
+        "Pip Alumni Award"
+      ],
+      "date_ref": "2019",
+      "sources": [
+        "src_ymca_quebec_pip_macsween_2026"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.20",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_4808",
+      "claim": "TWO PIP RECIPIENTS PREVIOUSLY UNKNOWN TO THIS PROJECT, named in the 2026 release's list of previous recipients: “Dr. Karl Cernovich, a leader in emergency medicine” and “Alexandra Olshefsky, public defender and community volunteer”. Neither appears anywhere else in this wiki, the KB or the sources index. No years are given for either.",
+      "category": "awards",
+      "entities": [
+        "Karl Cernovich",
+        "Alexandra Olshefsky",
+        "Pip Alumni Award"
+      ],
+      "date_ref": null,
+      "sources": [
+        "src_ymca_quebec_pip_macsween_2026"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.20",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_4809",
+      "claim": "THE PIP AWARD COUNT, FIXED AND NARROWED BY THE 2026 RELEASE. Ordinals: Orbinski is the 15th (2024) and MacSween the 17th (2026), so the 16th falls in 2025. The release's list of previous recipients is SELECTIVE -- it omits Bruce Netherwood (2011) and Chris Adam (2017) -- but the names it does carry run in chronological order, which places Karl Cernovich between Amy Ornstein (2019) and James Orbinski (2024), and Alexandra Olshefsky after Orbinski. On that reading Olshefsky is the 16th recipient, of 2025, and Cernovich took one of 2020-2023. ARITHMETIC: fourteen recipients preceded Orbinski. This wiki names twelve through 2019 (2010 excepted, recorded as undocumented), and Cernovich makes thirteen. EXACTLY ONE REMAINS UNACCOUNTED FOR, and it is either a 2010 recipient or a second award somewhere in 2020-2023. The previous open range was two unaccounted across 2010 and 2020-2023; it is now one. Note this does NOT settle 2010 -- the release's omission of Netherwood and Adam shows its list drops names, so the missing person could equally sit in the 2020s.",
+      "category": "awards",
+      "entities": [
+        "Pip Alumni Award",
+        "Karl Cernovich",
+        "Alexandra Olshefsky",
+        "James Orbinski",
+        "Jared MacSween"
+      ],
+      "date_ref": "2010-2026",
+      "sources": [
+        "src_ymca_quebec_pip_macsween_2026",
+        "src_ymca_quebec_pip_orbinski_2024"
+      ],
+      "confidence": "inferred",
+      "conflicts_with": [],
+      "added_version": "6.20",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_4810",
+      "claim": "ANDREW CADDELL SPONSORS THE PIP AWARD, in his own words in the 2026 release: “says Andrew Caddell, who sponsors the award”, quoted as “The ‘Pip’ Committee recognizes Jared MacSween's lifelong dedication to work in the community… The purpose of this award is to recognize people who have taken the values they learned at Kanawana and applied them to the larger world.” The release also states that “The ‘Pip’ Award Committee is composed of camp alumni.” The .docx supplied to this project carries “Caddell, Andrew -BBI” as its document author, so the release is the sponsor's own text.",
+      "category": "awards",
+      "entities": [
+        "Andrew Caddell",
+        "Pip Alumni Award"
+      ],
+      "date_ref": "2026",
+      "sources": [
+        "src_ymca_quebec_pip_macsween_2026"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.20",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_4811",
+      "claim": "THE PIP AWARD'S DOUBLE DEDICATION, stated in the 2026 release: it “is a memorial to Philip ‘Pip’ Caddell (1913-2004), Second World War officer, Montreal executive and community volunteer, and his grandson, James Caddell (1973-2005), UN Peacekeeper and public servant. Both attended Camp YMCA Kanawana -- ‘Pip’ as a camper in 1928 and James as a camper and counsellor from 1983 to 1991.” PIP CADDELL'S CAMPER YEAR OF 1928 AND JAMES CADDELL'S 1983-1991 SPAN ARE BOTH RECORDED HERE FROM A PRIMARY SOURCE.",
+      "category": "people",
+      "entities": [
+        "Philip Caddell",
+        "James Caddell",
+        "Pip Alumni Award",
+        "Camp Kanawana"
+      ],
+      "date_ref": "1928-2005",
+      "sources": [
+        "src_ymca_quebec_pip_macsween_2026"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.20",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_4812",
+      "claim": "FOUR PIP RECIPIENTS ARE DESCRIBED AS “the late” IN THE 2026 RELEASE: Richard Patten (2008), Stuart McLean (2009), Sam Lazarus (2013) and Carol Skinner (2016). For Skinner this is the first indication in this project's sources that she has died; the others were already recorded as deceased. The release also identifies the 2008 recipient as “former Ontario cabinet minister”, confirming that the Pip recipient Richard Patten is the Ontario politician -- which does NOT bear on the separate, still-unconfirmed identification of a ‘Rick Patten’ on the 1963 Advance Guard plaque (f_2069).",
+      "category": "people",
+      "entities": [
+        "Richard Patten",
+        "Stuart McLean",
+        "Sam Lazarus",
+        "Carol Skinner",
+        "Pip Alumni Award"
+      ],
+      "date_ref": "2008-2026",
+      "sources": [
+        "src_ymca_quebec_pip_macsween_2026"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.20",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_4813",
+      "claim": "KANAWANA'S ACQ FOUNDING-MEMBER CLAIM IS REPEATED IN AN OFFICIAL 2026 NEWS RELEASE: “It is accredited by the Association des camps du Québec and is a founding member of the Association.” This is a SECOND instance of the claim but NOT independent corroboration -- both are the YMCA speaking about itself, and f_2215 records that the ACQ's own listing for Kanawana carries no founding-member statement. What it adds is that the claim is made in a formal release over the sponsor's and the association's names, not only in website copy.",
+      "category": "connections",
+      "entities": [
+        "Camp Kanawana",
+        "Association des camps du Québec"
+      ],
+      "date_ref": "2026",
+      "sources": [
+        "src_ymca_quebec_pip_macsween_2026"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.20",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_4814",
+      "claim": "THE YMCAs OF QUÉBEC STATE, in the 2026 release, that they are “part of the Canadian network of 47 YMCA associations”, and that their centres, International Language School, Residence, Camp Kanawana and service sites are visited by more than 115,000 people a year. The figure of 47 ASSOCIATIONS is a count of member associations, not of camps, and should not be confused with either -- but it is the first hard national figure this project holds for the denominator behind its unanswered question of how many YMCA camps exist in Canada (p_406).",
+      "category": "connections",
+      "entities": [
+        "YMCA of Quebec",
+        "Camp Kanawana"
+      ],
+      "date_ref": "2026",
+      "sources": [
+        "src_ymca_quebec_pip_macsween_2026"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.20",
       "added_by": "manual"
     }
   ]

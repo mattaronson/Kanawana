@@ -5171,11 +5171,22 @@
       "priority_id": "p_413",
       "rank": 412,
       "type": "RESEARCH",
-      "description": "2019 IS CLOSED -- Dr. Amy Ornstein, confirmed 2026-09-05 by a member of the Pip Awards committee (f_4803). What remains: TWO recipients unaccounted for between 2010 and 2020-2023, and the distribution turns on whether 2010 had an award at all (f_4804). If it did, exactly one falls in 2020-2023; if not, two do. THE METHOD IS SETTLED AND SHOULD NOT BE RE-LITIGATED: roughly sixty queries across every agent-accessible surface failed on 2019, and it was closed in one sentence by asking someone who sits on the committee. YMCA Quebec published no newsroom item for any award 2019-2023, so the web cannot answer this. Ask the committee for its own list, covering 2010 and 2020-2023 together. Also worth asking while there: the years Amy Ornstein worked at Kanawana, which the wiki records only as 'former staff'.",
+      "description": "ONE PIP RECIPIENT STILL UNACCOUNTED FOR, plus three sets of camp years. The 2026 release (src_ymca_quebec_pip_macsween_2026) fixed the ordinals -- Orbinski 15th/2024, MacSween 17th/2026, so the 16th is 2025 -- and named two recipients this project had never heard of: Dr. Karl Cernovich (2020-2023 on the release's chronological ordering) and Alexandra Olshefsky (2025). Fourteen preceded Orbinski; this wiki can now name thirteen; ONE remains, either a 2010 recipient or a second award in 2020-2023 (f_4809). ASK THE COMMITTEE FOR ITS OWN LIST -- the method question is settled: roughly sixty queries failed on 2019 and it closed in a sentence by asking, and two further recipients were simply unknown until the sponsor's release was handed over. While asking, get: Cernovich's year; the Kanawana years for Ornstein, Cernovich and Olshefsky, none of which any source gives; and whether 2010 had an award at all.",
       "weight": 6,
       "status": "pending",
       "created": "2026-09-05",
       "source": "operator correction of the Ornstein debunking, 2026-09-05",
+      "blocked_on": null
+    },
+    {
+      "priority_id": "p_414",
+      "rank": 413,
+      "type": "RESEARCH",
+      "description": "THREE NEW NAMED PEOPLE FROM THE 2026 PIP RELEASE, none previously in this project: JARED MACSWEEN (2026 recipient; Kanawana camper 1982-86 and staff 1987-91; GM of YMCA Cedar Glen Outdoor Centre; Manager of Training at the YMCA Ontario Regional Development Centre 2012-24; BA Applied Human Science and Diploma in Social Studies, Concordia), DR. KARL CERNOVICH (emergency medicine) and ALEXANDRA OLSHEFSKY (public defender). MacSween already clears this project's article-spawning threshold on the biography alone -- a named person who held a camp role, with dated camper and staff years and a documented career -- and his YMCA Ontario posting is directly relevant to the L&V transmission question, since Cedar Glen and the Ontario RDC sit inside the same association network as Pine Crest and Kitchikewana. ASSESS whether to spawn stubs; if so they go in people/ (core), not people/notable-alumni/, since the defining connection for MacSween is a career inside the YMCA rather than a life lived outside it. Cernovich and Olshefsky have one line each and should probably wait for their camp years.",
+      "weight": 6,
+      "status": "pending",
+      "created": "2026-09-05",
+      "source": "2026 Pip Award release supplied by the operator, 2026-09-05",
       "blocked_on": null
     }
   ],
