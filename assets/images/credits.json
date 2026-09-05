@@ -5014,7 +5014,20 @@
       "source_ref": "src_photo_trudeau_letter_1978",
       "source_url": null,
       "rights": "Crown copyright, Government of Canada, 1978. Photograph of the framed original supplied by the operator. Reproduced here as a documentary record; not cleared for redistribution.",
-      "notes": "Undated on its face. Dated to 1978 because an abridged version is the frontispiece of the 1978 Kamp Kanawana Director's Annual Report. The framed original is the fuller text: the printed version drops 'and congratulations' and the clause naming the occasion. Bilingual, English then French, neither half a translation of the other. See f_4828, f_4829, f_4830."
+      "notes": "CROPPED ABOVE THE DATELINE. Use img_trudeau_letter_1978_full for the complete sheet. This image is a closer read of the body text, and its crop caused this project to record the letter as undated for several hours. See f_4834."
+    },
+    {
+      "id": "img_trudeau_letter_1978_full",
+      "file": "documents/trudeau-letter-1978-katimavik-full.jpg",
+      "title": "Letter from Prime Minister Pierre Elliott Trudeau on the opening of Kamp Kanawana's new recreational building (complete sheet, showing the dateline)",
+      "caption_on_original": "I am happy to send my greetings and congratulations to all campers and staff of Kamp Kanawana as you officially open your new recreational building. […] Ottawa, 1978. / Pierre Elliott Trudeau, Prime Minister — Premier Ministre",
+      "date": "1978",
+      "date_precision": "year",
+      "source": "Operator photograph of the framed original held at Camp Kanawana",
+      "source_ref": "src_photo_trudeau_letter_1978",
+      "source_url": null,
+      "rights": "Crown copyright, Government of Canada, 1978. Photograph of the framed original supplied by the operator. Reproduced here as a documentary record; not cleared for redistribution.",
+      "notes": "THE AUTHORITATIVE IMAGE of this document: the complete sheet including the dateline \"Ottawa, 1978.\" at the foot, which the earlier photograph cropped away. See f_4828, f_4834."
     }
   ],
   "moving_images": [

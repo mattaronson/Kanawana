@@ -28252,15 +28252,15 @@
       "date_precision": "year",
       "origin": "user_provided",
       "origin_url": null,
-      "cache_path": "assets/images/documents/trudeau-letter-1978-katimavik.jpg",
+      "cache_path": "assets/images/documents/trudeau-letter-1978-katimavik-full.jpg",
       "char_count": 0,
       "ingested_at": "2026-09-05T00:00:00Z",
       "extracted": true,
       "extraction_version": "6.25",
       "reliability": "primary",
       "read_state": "read",
-      "read_state_basis": "photograph supplied by the operator and transcribed in full 2026-09-05",
-      "notes": "The framed original, on Prime Minister/Premier Ministre letterhead with the Canadian coat of arms and a pen signature. Bilingual: two English paragraphs then two French. UNDATED ON ITS FACE -- dated to 1978 because an abridged version of the same text is the frontispiece of the 1978 Kamp Kanawana Director's Annual Report. The framed text is FULLER than the printed one."
+      "read_state_basis": "photographed by the operator and transcribed in full 2026-09-05; second, uncropped photograph received the same day",
+      "notes": "The framed original, on Prime Minister / Premier Ministre letterhead with the Canadian coat of arms and a pen signature. Bilingual: two English paragraphs then two French, neither a translation of the other. DATED ON ITS FACE, 'Ottawa, 1978.', at the foot of the sheet. TWO PHOTOGRAPHS, both supplied by the operator on 2026-09-05: `trudeau-letter-1978-katimavik.jpg` is a closer read of the body text but is CROPPED ABOVE THE DATELINE, and led this project to record the letter as undated; `trudeau-letter-1978-katimavik-full.jpg` shows the whole sheet including the dateline and is the authoritative image. The 1978 director's report prints an abridged version of the same letter as its frontispiece, and now corroborates the date rather than supplying it."
     }
   ],
   "source_count": 1563

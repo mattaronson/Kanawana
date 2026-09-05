@@ -1,8 +1,8 @@
 {
-  "version": "6.25",
-  "kb_version": "6.25",
+  "version": "6.26",
+  "kb_version": "6.26",
   "migrated_from": "3.3",
-  "fact_count": 4795,
+  "fact_count": 4796,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -85834,7 +85834,7 @@
     },
     {
       "fact_id": "f_4828",
-      "claim": "A LETTER FROM THE PRIME MINISTER OF CANADA TO KAMP KANAWANA, framed and photographed, on Prime Minister / Premier Ministre letterhead with the Canadian coat of arms and a pen signature over the typed name Pierre Elliott Trudeau. Undated on its face. TRANSCRIBED IN FULL: \"I am happy to send my greetings and congratulations to all campers and staff of Kamp Kanawana as you officially open your new recreational building. // Kamp Kanawana provides an opportunity for many young people across Canada to learn about each other's culture in a natural and healthy environment. // La dimension internationale qui s'est ajoutée cette année rehaussera sûrement l'esprit d'entraide et de coopération afin de cultiver une jeunesse saine et vigoureuse. // Dans cet esprit, je suis heureux de vous souhaiter de bonnes vacances. Mes meilleurs voeux à tous pour une célébration réussie.\" Two paragraphs in English, then two in French, without translation of either -- a genuinely bilingual letter rather than a translated one.",
+      "claim": "A LETTER FROM THE PRIME MINISTER OF CANADA TO KAMP KANAWANA, framed and photographed, on Prime Minister / Premier Ministre letterhead with the Canadian coat of arms and a pen signature over the typed name Pierre Elliott Trudeau. DATED ON ITS FACE: the dateline stands at the foot of the sheet, letter-spaced in the typewriter style of the period, \"O t t a w a ,  1 9 7 8 .\" -- place and year, no month or day. (This project first recorded the letter as undated; that was an artefact of the first photograph's crop, which cut off the foot of the sheet, not a property of the document. See the correction note in f_4834.) TRANSCRIBED IN FULL: \"I am happy to send my greetings and congratulations to all campers and staff of Kamp Kanawana as you officially open your new recreational building. // Kamp Kanawana provides an opportunity for many young people across Canada to learn about each other's culture in a natural and healthy environment. // La dimension internationale qui s'est ajoutée cette année rehaussera sûrement l'esprit d'entraide et de coopération afin de cultiver une jeunesse saine et vigoureuse. // Dans cet esprit, je suis heureux de vous souhaiter de bonnes vacances. Mes meilleurs voeux à tous pour une célébration réussie.\" Two paragraphs in English, then two in French, without translation of either -- a genuinely bilingual letter rather than a translated one.",
       "category": "documents",
       "entities": [
         "Pierre Elliott Trudeau",
@@ -85852,7 +85852,7 @@
     },
     {
       "fact_id": "f_4829",
-      "claim": "THE TRUDEAU LETTER IS DATED TO 1978 BY THE CAMP'S OWN REPORT, and the framed original turns out to be the fuller text. An abridged version of the same letter is the FRONTISPIECE of the 1978 Kamp Kanawana Director's Annual Report, printed above the report proper and signed the same way. The printed version drops two things the framed original has: the words \"and congratulations\", and the entire clause \"as you officially open your new recreational building\" -- so the report's version reads as generic seasonal greetings with no occasion attached. It also restyles \"campers\" as \"Kampers\" in the camp's own orthography. THE FRAMED LETTER IS THEREFORE THE PRIMARY DOCUMENT AND THE REPORT A PARTIAL RESETTING OF IT: anyone working only from the digitized report would never learn what the letter was for.",
+      "claim": "[AMENDED 2026-09-05: the letter carries its own dateline, \"Ottawa, 1978.\", so the 1978 dating no longer RESTS on the director's report -- the two now corroborate each other independently. Everything below about the printed version being an abridgement still stands and is unaffected.] THE TRUDEAU LETTER IS DATED TO 1978 BY THE CAMP'S OWN REPORT, and the framed original turns out to be the fuller text. An abridged version of the same letter is the FRONTISPIECE of the 1978 Kamp Kanawana Director's Annual Report, printed above the report proper and signed the same way. The printed version drops two things the framed original has: the words \"and congratulations\", and the entire clause \"as you officially open your new recreational building\" -- so the report's version reads as generic seasonal greetings with no occasion attached. It also restyles \"campers\" as \"Kampers\" in the camp's own orthography. THE FRAMED LETTER IS THEREFORE THE PRIMARY DOCUMENT AND THE REPORT A PARTIAL RESETTING OF IT: anyone working only from the digitized report would never learn what the letter was for.",
       "category": "documents",
       "entities": [
         "Pierre Elliott Trudeau",
@@ -85938,6 +85938,23 @@
       "confidence": "inferred",
       "conflicts_with": [],
       "added_version": "6.25",
+      "added_by": "manual"
+    },
+    {
+      "fact_id": "f_4834",
+      "claim": "A CORRECTION ABOUT A REPRODUCTION, NOT A DOCUMENT. This project recorded the Trudeau letter as \"undated on its face\" and dated it to 1978 by matching it against the 1978 director's report. The letter was never undated: a second, fuller photograph supplied the same day shows the dateline at the foot of the sheet, \"O t t a w a ,  1 9 7 8 .\", letter-spaced in the typewriter style of the period. The first photograph was cropped above it. THE LESSON IS ABOUT PHOTOGRAPHS OF DOCUMENTS: a crop removes evidence silently and leaves no mark that anything is missing, so a property of the image gets recorded as a property of the artefact. The inference drawn from the report happened to be right, which is the uncomfortable part -- a correct answer reached from a false premise would have survived unexamined if the second photograph had never arrived. WHERE A DOCUMENT IS KNOWN ONLY FROM AN IMAGE, 'the document does not say X' should be written as 'the image does not show X'.",
+      "category": "methodology",
+      "entities": [
+        "Pierre Elliott Trudeau",
+        "Camp Kanawana"
+      ],
+      "date_ref": "2026-09-05",
+      "sources": [
+        "src_photo_trudeau_letter_1978"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.26",
       "added_by": "manual"
     }
   ]
