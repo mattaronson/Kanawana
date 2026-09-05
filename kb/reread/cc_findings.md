@@ -27606,3 +27606,94 @@ campers' ten-speed bicycles at camp on liability and road-safety grounds. **Corr
 the mailing label there was read as "MISS JANE MCCUTCHEON, C/O **CAMP TANINGU**, HUNTSVILLE ON"; this
 copy's label reads **CAMP TAWINGO**, which is certainly right — Tawingo is Jane McCutcheon's camp
 throughout this run — and "Taningu" was an OCR error. Corrected in block 151.
+
+## 157 — Vol. 37 No. 4, Winter 1986 — a transitional issue
+
+Twelve pages, and the thinnest issue in years. Contents page checked; every item read: Janet Adamson's
+bilingual tribute to the retiring editor; "News from the CCA Executive Committee" in both languages;
+**Jan James, "Preparation of New Campers and Parents of New Campers"**; the Canadian Wildlife Service
+northern-deltas poster notice; the new "**Between the Covers**" book-review department with its review of
+Karl Rohnke's *Silver Bullets* and the new catalogue additions; "**Program News**" on the Youth Science
+Foundation's *Science Is…*; the bilingual **"Celebrate CCA's 50th Birthday"** notice; **Gordon C. Allan,
+"Dolittle for Camping"**; the 1987 Congress notice; and the Fitness Canada and PARTICIPaction
+advertisements. The cover is credited "**Archives Photo; Sherwood Forest Camp, 1957**" — the first time
+in this read that the magazine has put a picture from its own archives on its cover.
+
+**★★★★ THE EDITOR GOES, AND THE MAGAZINE CHANGES HANDS — an anchor date for `meta/sources-index.md`.**
+Adamson: "**For four and a half years Jay Haddad edited this magazine in a volunteer capacity**… Jay is
+now retiring as editor." Four and a half years back from Winter 1986 puts his appointment in the middle
+of **1981**, which matches the editorial-board notice this read found at issue 139 and settles a span
+that had been approximate. The executive report says what happens next: "**The Newsletter under the
+Communications Committee will be the responsibility of a group from Camp Tawingo.** This edition of the
+magazine is **a transitional issue**. With the Spring issue we will have a 'new look'." **So from Spring
+1986 the magazine is made by a camp rather than by an editor**, and this issue — twelve pages, no
+editorial, no letters column, no Camping Advisor, no French translation of the main article — is the
+handover. Anyone reading the last eight issues of this run needs to know that the magazine's character
+changes here for institutional reasons, not editorial ones. **Recorded as the second anchor fact for the
+deferred sources-index section, after the 1988 funding cut-off.**
+
+**★★★★ A SECOND NATIONAL INVITATION TO CAMPS TO DO THEIR OWN HISTORY — and this one leaves objects
+behind.** Printed in both languages:
+
+> "**CELEBRATE CCA's 50th BIRTHDAY WITH AN ADVENTURE INTO THE PAST — 1936-1986.** 1986 is the CCA's
+> fiftieth birthday. Your camp can take part in the celebration this summer! **All across the country
+> camps will participate by including one or all of the following activities in their programs:
+> historical journeys; re-enactment of early camping lifestyles; ceremonies and theme events.** Each
+> participating camp will be recognized with **a wall certificate** and those camps pre-registering will
+> receive **cards for each of their campers.**"
+
+**This is the second year running that every member camp in Canada — Kanawana included, since in Quebec
+every member camp was an accredited one — was asked to put its own past into its summer programme.** In
+1985 it was the International Youth Year "historical roots" kit written by Bruno Morawetz and mailed in
+early May; in 1986 it is "An Adventure into the Past," with registration forms distributed through the
+provincial associations. **And this one produces physical objects**: a wall certificate for the camp and
+a printed card for every camper who took part. **A Kanawana wall certificate dated 1986 is exactly the
+kind of thing that survives on a dining-hall wall or in a photograph**, and a camper's card is the kind
+of thing that survives in a shoebox. **Added to `p_319`** as a specific, dated, findable artefact.
+Whether Kanawana registered is not documented and is not assumed. Note also that the notice prints
+"**1936-1986**" as the span, and the French text "**le cinquantième anniversaire de l'ACC**" — a further
+statement of the 1936 dating that issue 156's reprint of McEwen contradicts.
+
+**★★★ A FRENCH CAMP-MANAGEMENT LIBRARY ENTERS THE CATALOGUE — including a Belgium-Quebec comparative
+study.** The new-additions list in "Between the Covers" is almost entirely French, and it is the largest
+single body of French-language camp administration literature to appear in this run:
+
+> "**I. SÉRIE 'UN CAMP À FAIRE' — A) MANUEL DE GESTION**: 1. *Aspects généraux de l'administration*;
+> 2. *Gestion des ressources humaines*; 3. *Gestion des programmes*; 4. *Gestion des équipements*;
+> 5. *Gestion financière*. **B)** 1. *Évaluation du rendement*; 2. *Les objectifs et le programme*;
+> 3. *La planification des ressources humaines et sélection du personnel*. **II. *Les colonies de
+> vacances d'expression française en Belgique (communauté Wallonie-Bruxelles) et les camps de vacances au
+> Québec*.**"
+
+**Eight management manuals in French plus a comparative study of French-language holiday camps in Belgium
+and camps in Quebec.** The second is the striking one: **a study setting Quebec's camps beside those of
+francophone Belgium**, sold through the national association in 1986 and previously unknown to this
+project. Neither the authorship nor the publisher is given here, and the "Un camp à faire" series is
+almost certainly ACQ or Quebec-government work rather than CCA work, but that is an inference and is not
+stated. **Both added to `p_326`** as documents to find: a Quebec camp-management curriculum and an
+international comparison that would describe the Quebec sector from outside.
+
+**★★ A Quebec camp director writes a fable about facilities.** **Gordon C. Allan, Director of Program &
+Personnel, Camp Nominingue, Quebec** — the camp of Robert Wilkinson, whose textbook this article has
+traced — contributes "Dolittle for Camping," an allegory in which a bored kingdom turns a bequest of one
+acre, two wooden boats and a pet dragon into a camp, and a boy from the far richer Camp Wakanda, with
+"seven boats, six pet dragons and lots of neat things," discovers that "**it was not the facilities that
+made a camp great, but the spirit of wanting to do things**." Recorded partly for the name of its
+author — a new Quebec camping name — and partly because the argument is the one Kanawana's own reports
+make repeatedly in years when it had no money.
+
+**★ Minor.** **Jan James of Edmonton** is now Vice-President, having appeared through this read as the
+CCA's secretary; her article on preparing parents of new campers is a practical fifteen-point list drawn
+from the Fund for the Advancement of Camping, the ACA and a 1971 Margaret Mead piece in *Redbook*, "How
+Summer Camp Changes a Child." The committee reorganization is reported as nearly complete: **Nancy
+Barker of Camp Gay Venture** chairs Publications, **Glenn Barned of New Brunswick** the new National
+Conference and Workshop Committee, and a new promotional pamphlet for parents was to go to the
+provincial associations in **early February 1986**. The Youth Science Foundation's ***Science Is…***, "four
+years in the making," 400 pages in a three-ring binder at $12.75, was to appear in **March 1986** — an
+all-Canadian science activity book for campers aged 7 to 14, field-tested in camps. The Canadian
+Wildlife Service's northern-delta posters are offered with a statistic worth keeping beside
+`traditions/environmental-history.md`: "**60% of the St. Lawrence River estuary marshes**" lost to
+development within three decades, alongside 88% of southern Ontario's wetlands. The 1987 Washington
+Congress is advertised with the promise of special flight rates from Toronto. Mailing label:
+**MISS JANE MCCUTCHEON, C/O CAMP TAWINGO, R.R. #1, HUNTSVILLE ON** — confirming the correction made to
+block 151.
