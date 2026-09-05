@@ -1,7 +1,7 @@
 # Kanawana Myths and Legends
 
-*Status: E1-reviewed | Sources: 27*
-*Last Updated: 2026-09-04*
+*Status: E1-reviewed | Sources: 30*
+*Last Updated: 2026-09-05*
 
 ## Overview
 
@@ -86,6 +86,44 @@ And of the storytelling bench in her cabin, the Wigwam, where campers came to as
 That is a camp's own successors describing the manufacture of its folklore, in print, naming both the method — legends written for the camp, sited on its own lake, attached to its own invented tribes — and the effect intended: that they "sound the real thing." The speaker is not a critic; he is the nephew who inherited the camp and is paying tribute.
 
 **Nothing here concerns Kanawana, and nothing about Chopsy follows from it.** What it changes is the default. An undated camp legend of this period, with no documentary trace before living memory, need not be either a genuine local survival or a wandering variant of a regional archetype: **deliberate authorship dressed as tradition is a documented practice of the era, by a named and celebrated practitioner, at a camp of the same generation.** That is a third possibility to hold open alongside the two this article already weighs — and it is the one that would leave exactly the evidentiary trace Chopsy leaves, which is none.
+
+**And it was taught, in print, a decade earlier than any of the above.** The Gilchrist testimony is
+from 1987 and the hoax articles from 1971-72. But the *method* was being published in the national
+magazine in the 1950s, by the most senior figures in the movement, as ordinary professional craft.
+
+**Margaret Govan** — Director of Camp Onawaw and **President of the Ontario Camping Association** —
+published "Stop Me If You've Heard This One" in **February 1958**, and it is a printed method for
+manufacturing camp tradition. Her premise: "The average camper who adopts a camp as his second home
+is very curious about what happened before 'I came along'," and "**Stories about the 'old days' do far
+more than fill in an empty space of time; they strengthen the ties which bind the camper to camp;
+they give a sense of continuity; and build a camp tradition.**" Her instruction to directors is
+explicit about collection and control: "So a camp director begins to collect such stories, either to
+tell himself or to pass on to the camp story teller. He uses his own memories, and those of other
+staff members. Canoe trippers bring in tales of adventure, and 'old campers' make their contribution.
+(In some cases these last stories may prove enlightening, if not startling to the director, and **may
+require some censoring!**)"^28
+
+She then walks through the local material a camp should mine — corduroy roads, a log cabin, a fire
+tower, a mine, caves, a lumber camp, a Hudson's Bay post — and supplies her own worked examples: a
+local Paul Bunyan who walked half a mile underwater rather than lose two hundred pounds of boom
+chains, a canoe paddled by a doe with a fawn in the bow, a pony in the kitchen, two raccoons in the
+detergent barrel. **The genre is stated without embarrassment: the tall tale, told as true, repeated
+until it is the camp's.**^29
+
+Two years earlier, **Kay McClelland** of Camp Oconto had given the same advice for songs: "When
+introducing a new song be sure to **set a background whether true or fictitious**. Perhaps the
+circumstances leading to your acquiring the song or a little about the country the song concerns,
+anything to set the mood."^30 Printed as ordinary craft, in the association's own magazine, with no
+suggestion that inventing a provenance required a defence.
+
+**This matters for the dating.** The Chopsy telling places its events in **1945**. Every other item in
+this section — the Gilchrist interview, the snark hunt, the Ponacka hoax how-to, the pre-camp
+"traditions" curriculum — is from 1968 or later, and could be objected to as evidence about a
+practice a generation after the fact. Govan and McClelland close that gap: **the deliberate
+manufacture and curation of camp lore was being taught in print by an OCA president and a section
+head in 1956 and 1958**, within a decade of the date Chopsy claims for itself. It remains true that
+none of this is evidence about Chopsy, and that no source in the 1949-1988 run names it. What it
+removes is the last reason to treat deliberate authorship as an anachronistic explanation.
 
 ### Why camp memory is reconstructed, from a psychologist who was also a camper
 
@@ -236,6 +274,9 @@ These Quebec folk traditions are strong candidates for Kanawana campfire storyte
 25. Mary L. Northway (Brora Centre, Toronto), "Camp Counsellors Should Be Camp Counsellors," *Canadian Camping* Vol. 25 No. 4 (Summer 1973), pp. 18-19. Found by the full word-for-word read of the run (`kb/reread/cc_findings.md`, issue 99).
 26. "Personality Profile — Mary S. Edgar," interview with Barbara and John Gilchrist, *Canadian Camping Magazine* Vol. 38 No. 3 (Winter 1987), pp. 9-15 [src_ia_canadian_camping_collection]. Found by the word-for-word re-read of the digitized run (issue 160). Movement context, not a Kanawana document.
 27. Mary Northway, "Blue Lake and Rocky Shore," her Ontario Camping Association banquet speech of 1968, reprinted in *Canadian Camping Magazine* Vol. 39 No. 2 (Fall 1987), p. 17, nine months after her death [src_ia_canadian_camping_collection]. Found by the word-for-word re-read of the digitized run (issue 163).
+28. Margaret Govan, "Stop Me If You've Heard This One," *Canadian Camping* Vol. 10 No. 3 (February 1958) [src_ia_canadian_camping_collection]. Found by the word-for-word re-read of the digitized run (`kb/reread/cc_findings.md`, issue 37). See [f_2801].
+29. Govan, "Stop Me If You've Heard This One," February 1958 — the local-material list and worked examples [src_ia_canadian_camping_collection]. See [f_2802].
+30. Kay McClelland, "Campfire Time," *Canadian Camping* Vol. 8 No. 4 (June 1956) [src_ia_canadian_camping_collection]. Found by the re-read (issue 31). See [f_2724].
 
 ## Research Notes
 

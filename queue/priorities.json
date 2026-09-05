@@ -5041,6 +5041,17 @@
       "created": "2026-09-05",
       "source": "built after mis-citing fact ids three times in one session; the check found two more pre-existing",
       "blocked_on": null
+    },
+    {
+      "priority_id": "p_402",
+      "rank": 401,
+      "type": "WRITE",
+      "description": "FOLD THE REMAINING ORPHANED MOVEMENT FIGURES INTO canadian-camping-movement.md -- DO NOT SPAWN STUBS FOR THEM. A coverage analysis on 2026-09-05 (facts.json entities vs. full-text search of every wiki article) found nine named individuals holding >=8 KB facts each whose names appear in NO wiki article at all: Margaret Govan (32 facts), Wallace Forgie (15), Elsie Palter (14), Keith Cleverdon (12), John Hoyle (11), Elizabeth Wardley Raymer (11), Doug Dent (11), David Palter (10), M. C. MacCulloch (8). Eleven more appear in exactly one article: Anne I. Vail (30), Joyce Bertram (28), Eileen Mayotte (15), Tony Shorgan (14), Paul Belanger (12), Janet Adamson (12), Sam Hambly (10), Dorothy Percival (9), Irwin Haladner (9), Gerard Bachand (9), Colette Pouliot-Marier (8). JUDGEMENT MADE AND RECORDED: these are Ontario and national camping-movement figures, not Kanawana people. Under the hub-and-spoke placement rules in CLAUDE.md, core people/ is for those who built and ran Kanawana, so none of these warrants its own article on present evidence and spawning nine to twenty stubs would bury the camp's own people. The right home is connections/institutional-lineage/canadian-camping-movement.md, plus the topic articles where a given figure is actually load-bearing. EXCEPTIONS worth revisiting if more turns up: Eileen Mayotte and Tony Shorgan are QUEBEC association figures with long runs (Mayotte QCA secretary in the 1940s through a national committee seat in 1987; Shorgan founded the French section in 1958 and was assembling the 1988 fiftieth-anniversary of Quebec camping, per p_319) -- either could earn a stub if a biography can be assembled. ALREADY ACTIONED: Govan's February 1958 'Stop Me If You've Heard This One' and McClelland's June 1956 'set a background whether true or fictitious' are written into traditions/myths-and-legends.md, because they date the deliberate manufacture of camp lore to within a decade of the year the Chopsy story claims for itself.",
+      "weight": 6,
+      "status": "pending",
+      "created": "2026-09-05",
+      "source": "coverage analysis of orphan facts after the Canadian Camping extraction pass",
+      "blocked_on": null
     }
   ],
   "queue_ordering": {
