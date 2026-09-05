@@ -4216,6 +4216,83 @@
       "created": "2026-09-04",
       "source": "word-for-word read of Canadian Camping, issue 142",
       "blocked_on": null
+    },
+    {
+      "priority_id": "p_327",
+      "rank": 326,
+      "type": "VERIFY",
+      "description": "CORRECT THE CITATION IN greig-macdiarmid.md AND REWRITE ITS OPEN QUESTION 1. That article attributes the Toronto General Secretaryship, the Pine Crest/Norval/Wangoma expansions, the twenty-three day camps, the Camp Illahee sentence word for word, the 21 May 1962 death and the heading form \"J. G. 'Greig' Macdiarmid\" to footnote 10, Grace McMorris's 2023 Concordia MA thesis. McMorris was quoting an obituary, and the read has now found it: Canadian Camping Vol. 15 No. 1 (December 1962), p. 18. Cite the primary. Open Question 1 currently says \"A Toronto obituary of May 1962 is now a dated, findable target\" -- but the obituary the article is quoting is this one, in the national camping magazine, and it is read in full; rewrite the question so a later pass does not hunt for a document the project already has. A Toronto NEWSPAPER obituary may still exist and may still expand his first two initials; say that instead. Also add the two new details: the wartime title \"Senior Officer Overseas of Canadian YMCA War Services\" (a third form, alongside the two from the Montreal annual reports, to be recorded beside them rather than collapsed into them) and the epithet \"To those who knew him, he was truly 'THE CHIEF'\".",
+      "weight": 9,
+      "status": "pending",
+      "created": "2026-09-05",
+      "source": "word-for-word read of Canadian Camping, issues 41-56, converted to KB facts",
+      "blocked_on": null
+    },
+    {
+      "priority_id": "p_328",
+      "rank": 327,
+      "type": "VERIFY",
+      "description": "RESOLVE A. ROSS SEAMAN'S 1962 SECRETARYSHIP -- national or provincial? wiki/people/a-ross-seaman.md says \"He is QCA Secretary again in the 1962 and 1963 officer lists.\" The masthead of Canadian Camping Vol. 14 No. 2 (February 1962), under the heading \"CANADIAN CAMPING ASSOCIATION, 2233 Belgrave Avenue, Montreal 28, Quebec,\" reads \"Secretary -- Mr. A. Ross Seaman, 4140 Jean Renou, Lachine, Que.\", and the same masthead stands unchanged in June 1962. He replaced Agnes Mutchler, who had held it as CCA Corresponding Secretary in December 1961. So either the article has conflated the national and provincial bodies or Seaman held both posts. Either way the article is missing a substantial fact: the serving director of Kamp Kanawana was national secretary of the Canadian Camping Association in 1962. Check the 1963 masthead and the QCA officer lists before revising.",
+      "weight": 8,
+      "status": "pending",
+      "created": "2026-09-05",
+      "source": "word-for-word read of Canadian Camping, issues 41-56, converted to KB facts",
+      "blocked_on": null
+    },
+    {
+      "priority_id": "p_329",
+      "rank": 328,
+      "type": "RESEARCH",
+      "description": "FIND THE SUPREME COURT OF QUEBEC'S 1961-62 DROWNING JUDGMENT AGAINST A CHILDREN'S CAMP. Clifford Labbett, Canadian Camping Vol. 14 No. 3 (April 1962), p. 118: \"The Supreme Court of Quebec recently handed down a 4 to 1 decision against a children's summer camp when a suit for damages was brought against the camp because a boy drowned last summer. The boy disobeyed a camp rule but the camp was still held responsible.\" Neither camp nor boy is named. Name them and find the citation: Quebec law reports (Rapports judiciaires de Quebec / Quebec Official Reports, Queen's Bench 1961-62), the Montreal Gazette and La Presse for summer 1961 and early 1962 via BAnQ, and CanLII's historical Quebec collection. WHY IT MATTERS: this judgment set the liability standard every Quebec camp, Kanawana included, then operated under -- a camp is liable even where the child broke a camp rule -- and it gives eight years of context to Kanawana's own 1969 drowning, attested only in the camp's own season report (p_248).",
+      "weight": 8,
+      "status": "pending",
+      "created": "2026-09-05",
+      "source": "word-for-word read of Canadian Camping, issues 41-56, converted to KB facts",
+      "blocked_on": null
+    },
+    {
+      "priority_id": "p_330",
+      "rank": 329,
+      "type": "RESEARCH",
+      "description": "TRACE THE MIMEOGRAPHED PREDECESSOR OF CANADIAN CAMPING, c. 1936-1948. Anne I. Vail's tribute to Mary Edgar, Canadian Camping Vol. 12 No. 4 (June 1960), p. 167: \"We are proud that she was the first editor of Canadian Camping magazine and, with her Committee, changed it from a mimeographed bulletin to a creditable printed magazine.\" The printed run this project has read word for word begins at Vol. 1 No. 1, February 1949. A CCA bulletin therefore circulated before that, edited by Edgar, covering roughly the years from the association's founding to 1948 -- for Kanawana, the interwar-to-postwar gap the wiki has least for. Charles Plewman's February 1957 profile independently calls the OCA's \"stencilled news bulletin\" begun in his presidency from 1945 \"the forerunner of the present periodical.\" WHERE TO LOOK: the Canadian Camping Association / Ontario Camping Association fonds at Trent University Archives; Mary S. Edgar's own papers; Glen Bernard Camp.",
+      "weight": 7,
+      "status": "pending",
+      "created": "2026-09-05",
+      "source": "word-for-word read of Canadian Camping, issues 41-56, converted to KB facts",
+      "blocked_on": null
+    },
+    {
+      "priority_id": "p_331",
+      "rank": 330,
+      "type": "RESEARCH",
+      "description": "CHASE THE YMCA'S OWN CAMP APPRAISAL RECORDS FOR KANAWANA. \"Towards Better Practices and Higher Standards,\" commissioned by the National Committee on Youth Programme of the YMCA's of Canada, Canadian Camping Vol. 13 No. 4 (June 1961), p. 180, names three things: (1) \"as early as 1922 an extensive system of grading YMCA camps was inaugurated by the Ontario and Quebec Boys' Work Committee,\" giving points for sanitation, site, equipment, programme, organization and administration, conservation, and printed reports -- that committee is Kanawana's own jurisdiction, so surviving gradings would be per-camp assessments of Kanawana from the 1920s; (2) \"a major camping consultation\" in 1947; and (3) \"The self-evaluation form and the visitors' appraisal form now used by Canadian YMCA camps have been in use (with modifications and developments) since 1953.\" WHERE TO LOOK: YMCA Canada's national records; the YMCA of Montreal fonds at Concordia; the National Council of YMCAs of Canada fonds.",
+      "weight": 7,
+      "status": "pending",
+      "created": "2026-09-05",
+      "source": "word-for-word read of Canadian Camping, issues 41-56, converted to KB facts",
+      "blocked_on": null
+    },
+    {
+      "priority_id": "p_332",
+      "rank": 331,
+      "type": "RESEARCH",
+      "description": "CHASE THE QCA'S 1960-61 CAMP VISITATION RETURNS. Two sources establish that Quebec camps were being visited and appraised in exactly the years Kanawana was an accredited QCA member camp in the association's own city. Canadian Camping Vol. 12 No. 4 (June 1960), p. 207: \"It was agreed by Q.C.A. members that camp visiting should continue in that province, to follow the experimental lead of the Ontario group.\" And Alta Kahn's Quebec report, Vol. 13 No. 4 (June 1961): the QCA's goals for 1961 were a government charter incorporating the French and English sections, granted March 1961, and \"To visit and appraise all camps in 1961,\" with a Manual of Desirable Practices two years in visitors' hands and \"a committee ... working on a marking process that will ensure confidentiality.\" The December 1962 \"Camp Director's Bookshelf\" lists \"Camp Visitation Forms for Alberta, Ontario, Quebec -- apply to provincial associations,\" so the instrument was printed and distributable. The confidentiality machinery explains why such a record was never published, and is a reason to expect it survives in an association file rather than in print. WHERE TO LOOK: Association des camps du Quebec; the CCA fonds at Trent; the CCA's Montreal office records (the office at 2233 Belgrave Avenue, Montreal, 1958-1963, whose fate is itself an open lead).",
+      "weight": 7,
+      "status": "pending",
+      "created": "2026-09-05",
+      "source": "word-for-word read of Canadian Camping, issues 41-56, converted to KB facts",
+      "blocked_on": null
+    },
+    {
+      "priority_id": "p_333",
+      "rank": 332,
+      "type": "RESEARCH",
+      "description": "SPAWN A STUB FOR POWTER'S CAMP / CAMP SANS EGAL, AND USE IT ON THE FOUNDING QUESTION. N. B. Powter, \"Sixty Years Ago,\" Canadian Camping Vol. 14 No. 2 (February 1962), pp. 54-57, 67, is the only source found in the whole 164-issue read that dates Kanawana's predecessor camp from outside the YMCA's own paperwork: C. B. Powter \"also directed the Y.M.C.A. camp at Lac St. Joseph which had been founded in 1893.\" C. B. Powter was Springfield-trained, on the Montreal Y staff, captain of the first basketball team to play in Canada, then Instructor of Physical Training at the High School of Montreal; he founded Camp Sans Egal on the same lake in June 1902 with 50 Montreal boys, claimed as \"the first private camp in Quebec.\" Camp Sans Egal appears nowhere in this repo. The article also carries a full operating description (tent-group Leader system, Officer of the Day, the 1915 two-miles-to-the-inch camp map still in use in 1962, the Honour Roll of lakes visited). This belongs in connections/related-camps/, and the 1893 sentence belongs in founding-1894.md recorded as an INDEPENDENT recollection -- not folded into the pile of YMCA retrospectives, and not treated as contemporary either, since the author was an infant in 1902 and writing seventy years after the fact.",
+      "weight": 6,
+      "status": "pending",
+      "created": "2026-09-05",
+      "source": "word-for-word read of Canadian Camping, issues 41-56, converted to KB facts",
+      "blocked_on": null
     }
   ],
   "queue_ordering": {
