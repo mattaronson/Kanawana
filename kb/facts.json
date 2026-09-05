@@ -2,7 +2,7 @@
   "version": "6.06",
   "kb_version": "6.06",
   "migrated_from": "3.3",
-  "fact_count": 4218,
+  "fact_count": 4250,
   "facts": [
     {
       "fact_id": "f_0001",
@@ -75027,6 +75027,612 @@
         "Royal Life Saving Society"
       ],
       "date_ref": "1982-04",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4257",
+      "issue": 142,
+      "claim": "May Brown, interviewed by Jay Haddad in Vancouver on 25 November 1976 and printed in Canadian Camping in Summer 1982, gives her first recollection of the national association: \"I attended one of the first meetings on the CCA in Ottawa in the spring of 1947; I was really there as a Director of Camp Oolahwan which is the YWCA camp in Montreal.\" She met Mary Edgar there for the first time, and Marion Henderson Penney of British Columbia, introduced by \"Blackie\" Blackstock.",
+      "category": "camping_movement",
+      "entities": [
+        "May Brown",
+        "Jay Haddad",
+        "Camp Oolahwan",
+        "Mary S. Edgar",
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1947",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4258",
+      "issue": 142,
+      "claim": "Four separate items now point at Ottawa and the later 1940s for the Canadian Camping Association's constitution: Charles Plewman's \"we all met in Ottawa and decided to have a Canadian Camping Association\"; the Camp Stephens Alumni claim that Nelson McEwen founded the CCA in 1946 with Statten; the Newfoundland association's statement that the CCA \"was incorporated by Letters Patent at Ottawa November 5, 1949\"; and May Brown at one of its first meetings in Ottawa in the spring of 1947. Together they describe a national body being constituted at Ottawa across 1946-49, which is compatible with a 1936 founding of a different, Ontario-centred thing. This is the leading reconciliation to test, not a finding; the document that would settle it is the minutes, at Trent.",
+      "category": "camping_movement",
+      "entities": [
+        "Charles Plewman",
+        "May Brown",
+        "Nelson McEwen",
+        "Canadian Camping Association",
+        "Trent University"
+      ],
+      "confidence": "inferred",
+      "date_ref": "1947",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4259",
+      "issue": 142,
+      "claim": "May Brown's own account of her Montreal years: \"In 1945 I went back to Montreal to go to University and began to work for the YWCA at Camp Oolahwan as programme director and then as Director after a few summers,\" leaving for British Columbia \"in the fall of 1947\" to join the UBC faculty. She was a McGill graduate, and went on to be President of the Canadian Camping Association from 1965 to 1967.",
+      "category": "biography",
+      "entities": [
+        "May Brown",
+        "Camp Oolahwan",
+        "YWCA Montreal",
+        "McGill University",
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1945",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4260",
+      "issue": 142,
+      "claim": "May Brown places F. M. Van Wagner teaching outdoor education at McGill in the mid-1940s: \"Mr. Van Wagner used to lead our outdoor education excursions at McGill; he was just marvelous!... He had that quiet way about him; he could take any group of students out and it wouldn't matter what the weather was like, 'Van' would set us up someplace where we were going to have lunch — before you knew it, fires were blazing and shelters were up.\"",
+      "category": "biography",
+      "entities": [
+        "F. M. Van Wagner",
+        "May Brown",
+        "McGill University"
+      ],
+      "date_ref": "1945",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4261",
+      "issue": 142,
+      "claim": "May Brown dates C. R. Blackstock's McGill studies to about 1945-47: \"Blackie at that time had his own camp (Mazinaw) but he was up at McGill improving his academic qualifications and I had just graduated from McGill and we became good friends.\" He is a fourth figure in the McGill-camping thread, after Arthur S. Lamb, the McGill camping school of 1937-40, and Robert Wilkinson.",
+      "category": "biography",
+      "entities": [
+        "C. R. Blackstock",
+        "May Brown",
+        "McGill University"
+      ],
+      "date_ref": "1945",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4262",
+      "issue": 142,
+      "claim": "May Brown was President of the Canadian Camping Association from 1965 to 1967, having proposed at the 1965 annual meeting at Parkesville, British Columbia, that the executive move west; her predecessor was Don Smith of Alberta, 1963-65. She says the presidency then \"went to Manitoba with Doug McEwen as President,\" where this project's records give Doug McEwen as Ontario, of Camp Wa-Sa-Ah-Dun, St Catharines — a province discrepancy, recorded and not resolved.",
+      "category": "camping_movement",
+      "entities": [
+        "May Brown",
+        "Don Smith",
+        "Doug McEwen",
+        "Canadian Camping Association"
+      ],
+      "confidence": "disputed",
+      "date_ref": "1965",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4263",
+      "issue": 142,
+      "claim": "The federal government did not fund the Canadian Camping Association during May Brown's presidency of 1965-67: \"The CCA had no funds for me to travel as President.\" She visited every provincial association only because she sat on the National Advisory Council for Fitness and Amateur Sport from 1964 and could take side trips from Ottawa meetings, dating the Fitness advisory committee to \"about 1962 or 63\" under Bill C-131, \"and we were really groping at that time to try to figure out which groups we could fund.\" Federal money began under her successor.",
+      "category": "camping_movement",
+      "entities": [
+        "May Brown",
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1965",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4264",
+      "issue": 142,
+      "claim": "May Brown records a Canadian Camping Association programme this project had not held: work \"with the Secretary of State on inter-cultural camping; bringing ethnic children into the organized camping experience. This is very much taken for granted today, but at that time we were really pushing it,\" with a large Secretary of State seminar in Winnipeg. She confirms the Centenary Journey with John Latimer as Chairman in 1967 and that \"we did have some funding under that Centennial Project.\"",
+      "category": "camping_movement",
+      "entities": [
+        "May Brown",
+        "John Latimer",
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1967",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4265",
+      "issue": 142,
+      "claim": "May Brown describes how western Canada saw the national body in the 1960s: \"We basically viewed the CCA as essentially Ontario and Quebec, because they carried the load in those early years... it was mainly the 'names' of people that we knew by association in those early years — the Van Wagner years, the Anne Vail years.\" And on what held it together: \"travel is what tied the CCA together, in my view.\"",
+      "category": "camping_movement",
+      "entities": [
+        "May Brown",
+        "F. M. Van Wagner",
+        "Anne I. Vail",
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1976",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4266",
+      "issue": 142,
+      "claim": "May Brown records that her husband Lorne Brown co-founded the British Columbia Camping Association in the 1930s — \"it's an old association, older than the CCA\" — with Gertrude Moore of Moorecroft and \"several people from the 'Y'\", and was involved with YMCA Camp Elphinstone for 25 years; they found land at Deka Lake in the Cariboo in spring 1958, took three summers to build, and opened Camp Deka in 1961. Lorne died in January 1976 and May directed alone that summer. His philosophy: \"a skilled camper is a safe camper; over protection was not necessary, but he felt that risks really weren't taken if you're skilled... skills were important, but not as an 'end' in themselves.\"",
+      "category": "biography",
+      "entities": [
+        "May Brown",
+        "Lorne Brown",
+        "Gertrude Evelyn Moore",
+        "Camp Deka",
+        "British Columbia Camping Association"
+      ],
+      "date_ref": "1961",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4267",
+      "issue": 142,
+      "claim": "Derek Walsh's Magazine Task Force report, printed in full over his name in Summer 1982: \"Formed after last year's annual meeting, this task force was mandated to study the feasibility of the CCA (re)launching a magazine... These included: circulation, advertising, format, editorial policy, financial implications, etc. The results of the study essentially suggest that the CCA should not re-launch its magazine per se, but should make some distinct and conscious efforts to broaden/change its current 'newsletter' in three (3) areas: 1) Initiate a major subscription campaign to attract as many camp staff subscribers as possible. 2) Establish an editorial policy to reflect the change in readership. 3) Actively seek advertising revenue with a view to having the publication be a revenue generator.\"",
+      "category": "sources",
+      "entities": [
+        "Derek Walsh",
+        "Canadian Camping (magazine)",
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1982",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4268",
+      "issue": 142,
+      "claim": "Jay Haddad's Newsletter Committee report on the facing pages shows Derek Walsh's three recommendations being acted on: a new typeset format, an editorial board, standard features, sixteen pages an issue, four issues a year with subscription rates reviewed annually, and \"when we have a few more issues published, we then hope to chase advertisers with a product they would 'want' to be a part of. This will be a 1982-83 initiative.\" So the man who ran Kanawana in 1976-78 wrote the study that determined the form of this publication for the rest of its run.",
+      "category": "sources",
+      "entities": [
+        "Derek Walsh",
+        "Jay Haddad",
+        "Canadian Camping (magazine)",
+        "Camp Kanawana"
+      ],
+      "confidence": "inferred",
+      "date_ref": "1982",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4269",
+      "issue": 142,
+      "claim": "Marjorie Booth's national camping statistics compiled in March 1982 for 1980 and 1981: accredited member camps 590 and 533, with 44 non-accredited member camps in 1981; day camps 126 and 125; resident camps 453 and 468; camper beds 64,276 and 74,762; camper/days 3,962,848 and 4,046,388; volunteer staff 18,405 and 12,247; paid staff 19,282 and 20,539; staff/days 1,125,676 and 1,151,255; staff who were students 18,787 and 16,784; food costs $11,454,000 and $12,607,000; salaries $17,279,000 and $19,448,000; foreign campers 9,790 and 9,130; foreign counsellors 1,076 and 1,268; foreign counsellor salaries $558,000 and $524,331; foreign camper fees $3,125,000 and $3,500,940.",
+      "category": "camping_movement",
+      "entities": [
+        "Marjorie Booth",
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1982-03",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4270",
+      "issue": 142,
+      "claim": "Marjorie Booth's caveats on the 1980-81 national statistics must travel with every figure: \"The 1980 data was based on a response from eight provincial associations; the 1981 figures represent provincial totals for six associations\"; \"some resident camps are also listed as 'extended season' camps\"; the rise in camper/days and staff/days \"is probably due to the longer summer vacation period (10 weeks) for students\"; and on the fall in student staff, \"since we do not have an average age for camp staff in each province, it is difficult to conclude why the number of staff who were returning to full-time studies dropped in 1981.\" The 1981 Foreign Camper/Days figure of 185,609 against 1,503,268 the year before is almost certainly a misprint or a different basis and should not be used.",
+      "category": "methodology",
+      "entities": [
+        "Marjorie Booth",
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1982-03",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4271",
+      "issue": 142,
+      "claim": "The labelled 1980-81 national table decodes three of the four columns of the illegible provincial table of October 1981. Column 3 is total staff: 1980 volunteer 18,405 plus paid 19,282 is 37,687, three away from the provincial table's 37,690. Column 1 is camps: 574, against 590 accredited member camps in 1980 and 577 member camps in 1981. Column 2 is campers as a head count rather than camper/days. Column 4 remains unidentified — its values are 10, 18, 15, 40, 60, 15, 20, 40 and 10, and it is not day camps, not accredited camps as a subset (Saskatchewan's 20 exceeds its 19 camps), and not extended-season camps.",
+      "category": "methodology",
+      "entities": [
+        "Canadian Camping Association"
+      ],
+      "confidence": "inferred",
+      "date_ref": "1982",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4272",
+      "issue": 142,
+      "claim": "The Canadian Camping Association's Archives Committee report of 1981-82 names three documents: \"Last May a sample questionnaire on camp archives was circulated to all provincial presidents... The oral history (taping) 'Guidelines for Interviews', which were developed by the OCA Archives Committee, were circulated to each provincial contact responsible for archives. The 'Finding Aid for CCA/ACC Archives' stored at Trent University was also forwarded to each province. The ongoing challenge for this committee is to encourage all the provincial associations to store the records of their past in a systematic way. We still lack contacts for Archives Chairmen in some provinces.\" So a finding aid to the Trent archives existed and copies went to every provincial association, including Quebec's.",
+      "category": "archives",
+      "entities": [
+        "Canadian Camping Association",
+        "Ontario Camping Association",
+        "Trent University",
+        "Eileen Mayotte"
+      ],
+      "date_ref": "1982",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4273",
+      "issue": 142,
+      "claim": "Barry Lowes's Immigration Task Force printed a table headed \"FOREIGN CAMP COUNSELLORS (CCDO 2333-126),\" sourced to Canada Manpower and Immigration, for 1980 and 1981 across all provinces, distinguishing those admitted with Manpower Clearance from those without. National totals: 828 in 1980 and 820 in 1981, of which 763 came with clearance; Ontario dominates at 709 and 654. The provincial columns are unreliable in this scan and the Quebec row cannot be read with confidence, but a Quebec figure exists and is recoverable from a clean copy.",
+      "category": "staff",
+      "entities": [
+        "Barry Lowes",
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1982",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4274",
+      "issue": 142,
+      "claim": "Barry Lowes recorded in 1982 how the foreign-counsellor protocol was enforced: \"The protocol worked out with the Federal Ministry of Employment and Immigration, at our annual meeting in Ottawa with senior officials, has worked so well that it was continued without change for 1981... Only three problem situations arose just prior to camp time and again these were caused by camps which did not follow the procedural steps faithfully. One camp brought in a staff member under what appeared to be false pretenses. The person and the camp was castigated by the Regional and Federal offices. The camp is on probation for 1982... The privilege extended by the Federal Government could be revoked if it is believed that any camp or camps is circumventing the agreed protocol.\" The camp is not named.",
+      "category": "staff",
+      "entities": [
+        "Barry Lowes",
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1982",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4275",
+      "issue": 142,
+      "claim": "Jocelyn Palm reported in Summer 1982: \"The CCA/ACC has recently been advised that our application for status as a registered Canadian Charitable Institution has been accepted. This should open up some new funding avenues.\" A corporate fact checkable against the federal charities register, and a second dating point beside the 1949 Letters Patent.",
+      "category": "camping_movement",
+      "entities": [
+        "Jocelyn Palm",
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1982",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4276",
+      "issue": 142,
+      "claim": "The Association des Camps du Quebec's annual report for 1981-82, signed by Claire Menard: \"Les activites de l'ACQ ont gravite autour de deux poles en 1981-82 soit le Congres 82 et la promotion. Sous le theme: Les Vacances, Facteur de Croissance, le Congres qui s'est deroule au mois de mars a rencontre un franc succes... La promotion de l'ACQ a voulu au cours de l'annee a affermir sa representation et l'image des camps du Quebec par la publication de l'Annuaire 82, par une Semaine des camps intensive, par une presence de plus en plus incitante aupres des media et du publique. Il est a esperer que la frequentation des camps de vacances se maintiendra et s'accroitra.\" The Annuaire 82 is a named, dated Quebec camp directory in which Kanawana would be listed.",
+      "category": "camping_movement",
+      "entities": [
+        "Claire Menard",
+        "Association des camps du Quebec",
+        "Camp Kanawana"
+      ],
+      "date_ref": "1982",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4277",
+      "issue": 142,
+      "claim": "Lorne Bowering reported for British Columbia in 1981-82: \"The Government of the Province of British Columbia has abandoned its long history of licensing summer camps. Except for approvals by the Health Department and other specific agencies, the government no longer regulates children's camping. As a result, government agencies and provincial foundations now look to the BC Camping Association's Standards and Accreditation Program as the recognition a camp needs in order to qualify for foundation funding or for government sponsored campers.\" A provincial government withdrawing from camp licensing and handing the function to a voluntary association.",
+      "category": "camping_movement",
+      "entities": [
+        "Lorne Bowering",
+        "British Columbia Camping Association"
+      ],
+      "date_ref": "1982",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4278",
+      "issue": 142,
+      "claim": "Provincial reports of 1981-82: Saskatchewan had ten accredited camps, nine reapplying; Nova Scotia got \"almost $16,000\" from Canada Manpower to employ three people for six months; Manitoba's Sunshine Fund, which sends children to camp, raised $25,241.13 in 1981 against $11,906.35 in 1980, with a handbook on how to run one being compiled; and Ontario records that \"in the Fall of 1981 Nelson Wieters led the Directors' Weekend through the challenging task of considering camp directing as a profession and the issue of certification of Camp Directors... although no decisions were reached.\"",
+      "category": "camping_movement",
+      "entities": [
+        "Saskatchewan Camping Association",
+        "Nova Scotia Camping Association",
+        "Manitoba Camping Association",
+        "Ontario Camping Association"
+      ],
+      "date_ref": "1982",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4279",
+      "issue": 142,
+      "claim": "Peter Rasberry reported in 1982 that the Canadian Camping Association's Environmental Ethic \"initially... was to be completed by March 1982, as per the CCA/ACC Action Plan, but this date has now been extended to September 1982,\" with help from Jim Hopkins, Tom Knowlton, Grant Linney, Diane Bertling and Susan Erskine, and later Kevin Moore, Rob McIntosh and John Jorgenson. The committee also discussed \"the sharing of the National Survival Institute's Acid Rain Education Kit with CCA/ACC camps\" and \"the potential for input by our association to the development of skills programs in Canada's National Parks.\"",
+      "category": "programs",
+      "entities": [
+        "Peter Rasberry",
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1982",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4280",
+      "issue": 142,
+      "claim": "Beth Moon's Publications report for 1981-82: \"This year four 'HOW TO' publications have been produced. The topics covered include Sailing, Winter Camping, Waterfront, and Fun & Fitness. All were produced in both official languages.\" So Derek Walsh's promotion pamphlet and Sam Hambly's composting one were the first two of a series that reached six titles within a year. The same report records that \"Work is progressing on a brief biography of Mary S. Edgar and her contribution to camping. Also highlighted will be her inspirational writings and ways to use them in quiet time and devotional programs. This publication should be available to the public by July 1982.\"",
+      "category": "sources",
+      "entities": [
+        "Derek Walsh",
+        "Sam Hambly",
+        "Mary S. Edgar",
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1982",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4281",
+      "issue": 142,
+      "claim": "John Latimer's Congress report of Summer 1982 adds detail: speakers booked \"from centres across Canada and the United States as well as New Zealand, England, India, Bermuda, and Japan\"; a planned deficit of about $4,000; \"8 sessions will be given in French, with simultaneous translation being offered at each of the three key sessions,\" with a bilingual registration form; a third keynote, Dr. Alec Dickson, alongside Hillary and Buscaglia; \"80 informative, educational & entertaining sessions\"; and the Congress programme and registration mailed to all CCA members in September 1982. The full board met 24-25 January 1983 with Promotions, Standards and Education workshops on 25-26 January.",
+      "category": "camping_movement",
+      "entities": [
+        "John Latimer",
+        "Alec Dickson",
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1983-01",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4282",
+      "issue": 142,
+      "claim": "Dorothy Walter's Education Committee — with Janet Adamson, John Wilkinson, Stan Talesnick, and Carolea Butters observing as chairman of the Ontario Task Force on Professional Development — was tasked in 1982 to \"examine, make recommendations for and publicize a variety of educational opportunities for the professional development of camp directors in Canada. (This could include the preparation of a self-directed learning curriculum for use anywhere in Canada),\" with all the research \"to come from within the Canadian Camping community\" and the result to be presented at the Pre-Congress workshop in January 1983 \"to determine the basic core curriculum required for professional development of camp directors.\" Having declined to certify, the association set about defining the body of knowledge instead.",
+      "category": "camping_movement",
+      "entities": [
+        "Dorothy Walter",
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1982",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4283",
+      "issue": 142,
+      "claim": "Brian Law's Standards Task Force, funded by Fitness Canada for a January 1983 workshop, lists the questions it would put to every province: \"who has mandatory standards; who uses a scoring or percentage system; is there a pass/fail system; question of authority as it relates to provincial legislation; informal/formal ties to provincial licensing bodies; is accreditation/visitation an annual, biennial or triennial process,\" plus \"who qualifies to accredit a camp; what qualifications are required; what training is required yearly; who provides this group with credibility and authority.\" If the workshop produced a written comparison it would contain the fullest description of the ACQ's accreditation process this project could hope for.",
+      "category": "archives",
+      "entities": [
+        "Brian Law",
+        "Canadian Camping Association",
+        "Association des camps du Quebec"
+      ],
+      "date_ref": "1982",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4284",
+      "issue": 142,
+      "claim": "Canadian Camping's Summer 1982 editorial, \"The Voice of Camping: Inaudible!\", printed in both languages, argues that the associations refuse to speak publicly on the environment, children's rights, boating and waterfront safety, children's health and food regulations: \"Camping's silence is in itself a message... And as history clearly has shown: silence gives consent!\" And: \"How long will our silence keep us guilty by association as camps are branded and tarnished as 'the lake where the four boys drowned' or 'the lake with the broken glass and littered campsites' or 'the lake where the R.C.M.P. made the drug arrests'?\" The French version names La Presse where the English names the Globe and Mail.",
+      "category": "camping_movement",
+      "entities": [
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1982-07",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4285",
+      "issue": 142,
+      "claim": "The only published objection to the Canadian Camping Association's anti-competition editorial came from a French-Canadian member. Raymond Doucet replied in French, congratulating it as \"audacieux\" but dissenting: \"cherchons-nous a proteger le jeune contre la Societe actuelle ou n'est-il pas de notre devoir de fournir a l'adulte de demain les occasions d'exercer ses qualites de leader... Il faut l'aider a devenir responsable et independant.\"",
+      "category": "camping_movement",
+      "entities": [
+        "Raymond Doucet",
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1982-07",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4286",
+      "issue": 142,
+      "claim": "The Canadian Camping Association launched a National Photo Contest in 1982, four winners a year, first deadline 15 September 1982, with all submitted photographs becoming CCA property — so a collection of camper and staff photographs from 1982 onward accumulated at the national office and should be asked for at Trent. A \"Camping Advisor\" advice column was announced for the autumn, on \"staff, management, leadership, sexuality, program, campers, maintenance, purchasing, legal liability.\"",
+      "category": "archives",
+      "entities": [
+        "Canadian Camping Association",
+        "Trent University"
+      ],
+      "date_ref": "1982",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4287",
+      "issue": 142,
+      "claim": "The Canadian Camping Association's Legislation Committee reported in 1982 that no federal legislation had passed that year directly affecting camping, but that the Small Vessel Regulations under the Canada Shipping Act were being revised by the Marine Safety Advisory Committee, with Ron Johnstone and Jocelyn Palm representing camping — the same regulations that first required flotation in every canoe in November 1975.",
+      "category": "canoe_trips",
+      "entities": [
+        "Ron Johnstone",
+        "Jocelyn Palm",
+        "Canadian Camping Association"
+      ],
+      "date_ref": "1982",
+      "sources": [
+        "src_ia_canadian_camping_collection"
+      ],
+      "confidence": "stated",
+      "conflicts_with": [],
+      "added_version": "6.06",
+      "added_by": "reread_extraction"
+    },
+    {
+      "fact_id": "f_4288",
+      "issue": 142,
+      "claim": "The mailing label on the Internet Archive copy of Canadian Camping Vol. 34 No. 2 (Summer 1982) reads \"Ms. Jane McCutcheon, C.C.A. Vice President, Camp Tawingo, Huntsville\" — a fourth deposit hand in the cached run, after Trent University, Camp Richildaca and Marion Babcock, and this time the association's own Central Vice-President.",
+      "category": "methodology",
+      "entities": [
+        "Jane McCutcheon",
+        "Canadian Camping (magazine)"
+      ],
+      "date_ref": "1982",
       "sources": [
         "src_ia_canadian_camping_collection"
       ],
